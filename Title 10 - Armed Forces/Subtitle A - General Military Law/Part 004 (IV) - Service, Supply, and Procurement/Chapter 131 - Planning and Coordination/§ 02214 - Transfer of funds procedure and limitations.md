@@ -30,3 +30,7 @@ Limitations on Requests to Congress for Reprogrammings.—Neither the Secretary 
 
 Section effective Oct. 1, 1991, see section 1482(d) of Pub. L. 101–510, set out as an Effective Date of 1990 Amendment note under section 119 of this title.
 
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 2645, 9514 of this title.
+

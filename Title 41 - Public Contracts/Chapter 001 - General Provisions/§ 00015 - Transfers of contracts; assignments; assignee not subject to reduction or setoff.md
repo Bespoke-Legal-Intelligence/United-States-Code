@@ -2,7 +2,7 @@
 
 #### (a) Transfer
 
-No contract or order, or any interest therein, shall be transferred by the party to whom such contract or order is given to any other party, and any such transfer shall cause the annulment of the contract or order transferred, so far as theUnited States is concerned. All rights of action, however, for any breach of such contract by the contracting parties, are reserved to the United States.
+No contract or order, or any interest therein, shall be transferred by the party to whom such contract or order is given to any other party, and any such transfer shall cause the annulment of the contract or order transferred, so far as the United States is concerned. All rights of action, however, for any breach of such contract by the contracting parties, are reserved to the United States.
 
 #### (b) Assignment
 
@@ -46,15 +46,17 @@ If a provision described in subsection (e) of this section or a provision to the
 
 #### (g) Accrued rights and obligations
 
-Except as herein otherwise provided, nothing in this section shall be deemed to affect or impair rights of obligations heretofore accrued.
+Except as herein otherwise provided, nothing in this section shall be deemed to affect or impair rights or obligations heretofore accrued.
 
-(R.S. §3737; Oct. 9, 1940, ch. 779, §1, 54 Stat. 1029; May 15, 1951, ch. 75, 65 Stat. 41; Oct. 13, 1994, Pub. L. 103–355, title II, §2451, 108 Stat. 3324.)
+(R.S. §3737; Oct. 9, 1940, ch. 779, §1, 54 Stat. 1029; May 15, 1951, ch. 75, 65 Stat. 41; Oct. 13, 1994, Pub. L. 103–355, title II, §2451, 108 Stat. 3324; Feb. 10, 1996, Pub. L. 104–106, div. D, title XLIII, §4321(i)(9), 110 Stat. 676.)
 
 #### Codification
 
 R.S. §3737 derived from act July 17, 1862, ch. 200, §14, 12 Stat. 596.
 
 #### Amendments
+
+1996—Subsec. (g). Pub. L. 104–106 substituted “rights or obligations” for “rights of obligations”.
 
 1994—Pub. L. 103–355, §2451, amended section generally, revising it as follows:
 
@@ -75,6 +77,10 @@ Subsec. (g), designated sixth par. as subsec. (g).
 1951—Act May 15, 1951, made it clear that a bank or other financing institution taking an assignment of claims pursuant to this section would not be subject to later recovery by the Government of amounts previously paid to the bank by the assignee except in cases of fraud.
 
 1940—Act Oct. 9, 1940, inserted second and third pars.
+
+#### Effective Date of 1996 Amendment
+
+For effective date and applicability of amendment by Pub. L. 104–106, see section 4401 of Pub. L. 104–106, set out as a note under section 251 of this title.
 
 #### Effective Date of 1994 Amendment
 

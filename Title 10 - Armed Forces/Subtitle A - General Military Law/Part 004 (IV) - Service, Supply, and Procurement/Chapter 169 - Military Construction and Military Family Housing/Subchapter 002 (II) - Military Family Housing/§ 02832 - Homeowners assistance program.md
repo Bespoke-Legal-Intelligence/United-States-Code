@@ -8,9 +8,9 @@
 
 &emsp;(B) any funds so transferred shall be available for obligation and expenditure for the same purposes that funds appropriated to such fund are available, except that such funds may not be obligated after September 30, 1991.
 
-(2) Amounts may be transferred under paragraph (1) only after the date on which the Committees on Armed Services and the Committees on Appropriations of the Senate and of the House of Representatives receive from the Secretary written notice of, and justification for, the transfer.
+(2) Amounts may be transferred under paragraph (1) only after the date on which the appropriate committees of Congress receive from the Secretary written notice of, and justification for, the transfer.
 
-(Added Pub. L. 97–214, §2(a), July 12, 1982, 96 Stat. 163; amended Pub. L. 101–189, div. B, title XXVIII, §2831(a), Nov. 29, 1989, 103 Stat. 1660.)
+(Added Pub. L. 97–214, §2(a), July 12, 1982, 96 Stat. 163; amended Pub. L. 101–189, div. B, title XXVIII, §2831(a), Nov. 29, 1989, 103 Stat. 1660; Pub. L. 104–106, div. A, title XV, §1502(a)(26), Feb. 10, 1996, 110 Stat. 506.)
 
 #### References in Text
 
@@ -18,11 +18,9 @@ Section 207 of the Defense Authorization Amendments and Base Closure and Realign
 
 #### Amendments
 
+1996—Subsec. (b)(2). Pub. L. 104–106 substituted “appropriate committees of Congress” for “Committees on Armed Services and the Committees on Appropriations of the Senate and of the House of Representatives”.
+
 1989—Pub. L. 101–189 designated existing provisions as subsec. (a) and added subsec. (b).
-
-#### Change of Name
-
-Committee on Armed Services of House of Representatives treated as referring to Committee on National Security of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Effective Date of 1989 Amendment
 

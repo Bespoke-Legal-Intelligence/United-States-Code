@@ -90,7 +90,7 @@ Section 5317.—(1) Not more than $6,000,000 is available from the Fund (except 
 
 (f)
 
-Section 5307.—Amounts remaining available each fiscal year under subsection (a)(1) of this section, after allocation under subsections (g)–(i) and (j)(4) of this section, are available under section 5307 of this title.
+Section 5307.—Amounts remaining available each fiscal year under subsection (a)(1) of this section, after allocation under subsections\(g)–(i) and (j)(4) of this section, are available under section 5307 of this title.
 
 (g)
 
@@ -98,7 +98,7 @@ Planning, Programming, and Research.—Before apportioning in each fiscal year a
 
 &emsp;(1) 45 percent for metropolitan planning activities under section 5303(g) of this title.
 
-&emsp;(2) 5 percent to carry out section 5308(b)(2) of this title.
+&emsp;(2) 5 percent to carry out section 5311(b)(2) of this title.
 
 &emsp;(3) 20 percent to carry out State programs under section 5313 of this title.
 
@@ -144,7 +144,7 @@ Grants as Contractual Obligations.—(1) A grant or contract approved by the Sec
 
 (2) A grant or contract, approved by the Secretary, that is financed with amounts made available under subsection (a)(2) or (b)(2) of this section, is a contractual obligation of the Government to pay the Government's share of the cost of the project only to the extent amounts are provided in advance in an appropriations law.
 
-(<i>l)</i>
+(<i>l</i>)
 
 Early Appropriations and Availability of Amounts.—(1) Amounts appropriated under subsection (a)(2) of this section to carry out section 5311 of this title may be appropriated in the fiscal year before the fiscal year in which the appropriation is available for obligation.
 
@@ -156,11 +156,15 @@ Early Appropriations and Availability of Amounts.—(1) Amounts appropriated und
 
 &emsp;(B) that is unobligated at the end of the 3-year period shall be added to the amount available for apportionment for the next fiscal year not later than 30 days after the end of the 3-year period.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 845.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 845; Pub. L. 104–287, §5(20), Oct. 11, 1996, 110 Stat. 3390.)
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+Pub. L. 103–272
+
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -192,7 +196,7 @@ July 9, 1964, Pub. L. 88–365, 78 Stat. 302, §11(c)(6); added Dec. 18, 1991, P
 
 49 App.:1607c(b) (8)(B)(iii), (13) (1st sentence).
 
-July 9, 1964, Pub. L. 88–365, 78 Stat. 302, §11(b)(8)(B)(iii), (10)(C), (13); added Dec. 18, 1991, Pub. L. 102–240, §6023, 105 Stat. 2186, 2187, 2188.
+July 9, 1964, Pub. L. 88–365, 78 Stat. 302, §11(b) (8)(B)(iii), (10)(C), (13); added Dec. 18, 1991, Pub. L. 102–240, §6023, 105 Stat. 2186, 2187, 2188.
 
 5338(e)(2)
 
@@ -236,7 +240,7 @@ July 9, 1964, Pub. L. 88–365, 78 Stat. 302, §3(m) (1st sentence); added Dec. 
 
 5338(k)
 
-49 App.:1607c(b) (13) (last sentence).
+49 App.:1607c(b)(13) (last sentence).
 
 &nbsp;
 
@@ -286,9 +290,23 @@ In subsection (k)(2), the words “that is financed with” are added for clarit
 
 In subsection (<i>l</i>)(3)(A), the words “for obligation by the recipient”, “a period of”, and “the close of” are omitted as surplus.
 
+#### Pub. L. 104–287
+
+This amends 49:5338(g)(2) to correct an erroneous cross-reference.
+
+#### Amendments
+
+1996—Subsec. (g)(2). Pub. L. 104–287 substituted “section 5311(b)(2)” for “section 5308(b)(2)”.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–287 effective July 5, 1994, see section 8(1) of Pub. L. 104–287, set out as a note under section 5303 of this title.
+
 #### Programs of Federal Transit Administration; Limitation on Obligations
 
-Pub. L. 104–50, title III, §312, Nov. 15, 1995, 109 Stat. 455, provided that: “The limitation on obligations for the programs of the Federal Transit Administration shall not apply to any authority under 49 U.S.C. 5338, previously made available for obligation, or to any other authority previously made available for obligation under the discretionary grants program.” Similar provisions were contained in the following prior appropriation acts:
+Pub. L. 104–205, title III, §311, Sept. 30, 1996, 110 Stat. 2971, provided that: “The limitation on obligations for the programs of the Federal Transit Administration shall not apply to any authority under 49 U.S.C. 5338, previously made available for obligation, or to any other authority previously made available for obligation under the discretionary grants program.” Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 104–50, title III, §312, Nov. 15, 1995, 109 Stat. 455.
 
 Pub. L. 103–331, title III, §313, Sept. 30, 1994, 108 Stat. 2490.
 

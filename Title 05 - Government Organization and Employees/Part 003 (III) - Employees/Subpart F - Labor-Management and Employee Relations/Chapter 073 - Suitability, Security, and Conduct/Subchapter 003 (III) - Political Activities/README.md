@@ -2,7 +2,7 @@
 
 #### Amendments
 
-<b>1993</b>—Pub. L. 103–94, §2(a), Oct. 6, 1993, 107 Stat. 1001, reenacted subchapter heading without change.
+1993—Pub. L. 103–94, §2(a), Oct. 6, 1993, 107 Stat. 1001, reenacted subchapter heading without change.
 
 #### Subchapter Referred to in Other Sections
 

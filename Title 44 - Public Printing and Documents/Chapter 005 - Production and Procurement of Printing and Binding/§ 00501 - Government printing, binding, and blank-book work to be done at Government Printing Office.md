@@ -110,11 +110,11 @@ Federal Agency Defined.—In this Act, the term ‘Federal agency’ means—
 
 #### Government Publications: Printing; GPO Procurement; Executive Branch Procurement of Certain Kinds of Printing; “Printing” Defined
 
-Pub. L. 102–392, title II, §207(a), Oct. 6, 1992, 106 Stat. 1719, as amended by Pub. L. 103–283, title II, §207, July 22, 1994, 108 Stat. 1440, provided that:
+Pub. L. 102–392, title II, §207(a), Oct. 6, 1992, 106 Stat. 1719, as amended by Pub. L. 103–283, title II, §207, July 22, 1994, 108 Stat. 1440; Pub. L. 104–201, div. A, title XI, §1112(e)(1), Sept. 23, 1996, 110 Stat. 2683, provided that:
 
 “(1) None of the funds appropriated for any fiscal year may be obligated or expended by any entity of the executive branch for the procurement of any printing related to the production of Government publications (including printed forms), unless such procurement is by or through the Government Printing Office.
 
-“(2) Paragraph (1) does not apply to (A) individual printing orders costing not more than $1,000, if the work is not of a continuing or repetitive nature, and, as certified by the Public Printer, if the work is included in a class of work which cannot be provided more economically through the Government Printing Office, (B) printing for the Central Intelligence Agency, the Defense Intelligence Agency, or the National Security Agency, or (C) printing from other sources that is specifically authorized by law.
+“(2) Paragraph (1) does not apply to (A) individual printing orders costing not more than $1,000, if the work is not of a continuing or repetitive nature, and, as certified by the Public Printer, if the work is included in a class of work which cannot be provided more economically through the Government Printing Office, (B) printing for the Central Intelligence Agency, the Defense Intelligence Agency, National Imagery and Mapping Agency, or the National Security Agency, or (C) printing from other sources that is specifically authorized by law.
 
 “(3) As used in this section, the term ‘printing’ includes the processes of composition, platemaking, presswork, duplicating, silk screen processes, binding, microform, and the end items of such processes.”
 
@@ -132,7 +132,7 @@ Pub. L. 100–202, §101(i) \[title III, §309\], Dec. 22, 1987, 101 Stat. 1329�
 
 American Battle Monuments Commission, printing authority, see section 138b of Title 36, Patriotic Societies and Observances.
 
-Engraving and printing currency and security documents by Secretary of Treasury, see section 5114 of Title 31, Money and Finance.
+Engraving and printing currency and security documents by Secretary of the Treasury, see section 5114 of Title 31, Money and Finance.
 
 Expenditures or obligations in excess of funds prohibited, see section 1341 of Title 31.
 
@@ -166,5 +166,5 @@ Tax Court reports, publication at Government Printing Office, see section 7462 o
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 503 of this title; title 7 section 285; title 15 section 4051; title 16 sections 916<i>l</i>, 961; title 20 sections 954, 956; title 21 section 114c;title 22 sections 272a, 280b, 280i, 280k, 287e, 287r, 290b, 290f, 1471, 2024, 2588, 2669; title 33 section 1123; title 42 sections 284, 1870.
+This section is referred to in section 503 of this title; title 7 section 285; title 15 section 4051; title 16 sections 916<i>l</i>, 961; title 20 sections 954, 956; title 21 section 114c; title 22 sections 272a, 280b, 280i, 280k, 287e, 287r, 290b, 290f, 1471, 2024, 2588, 2669, 3714b; title 33 section 1123; title 42 sections 284, 1870.
 

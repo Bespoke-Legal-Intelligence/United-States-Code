@@ -4,7 +4,7 @@ In order to facilitate the administration of the National Park System, the Secre
 
 #### (1) Emergency assistance
 
-&emsp;Rendering of emergency rescue, fire fighting, and cooperative assistance to nearby law enforcement and fire prevention agencies and for related purposes outside of the National Park System.
+&emsp;Rendering of emergency rescue, fire fighting, and cooperative assistance to nearby lawenforcement and fire prevention agencies and for related purposes outside of the National Park System.
 
 #### (2) Utility facilities; erection and maintenance
 

@@ -18,7 +18,7 @@ Within 90 days after the day on which a notice of a final partnership administra
 
 #### (2) Priority of the Tax Court action
 
-&emsp;If more than 1 action is brought under paragraph (1) with respect to any partnership forany partnership taxable year, the first such action brought in the Tax Court shall go forward.
+&emsp;If more than 1 action is brought under paragraph (1) with respect to any partnership for any partnership taxable year, the first such action brought in the Tax Court shall go forward.
 
 #### (3) Priority outside the Tax Court
 
@@ -94,7 +94,7 @@ Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. 
 
 #### Effective Date of 1983 Amendment
 
-Amendment by Pub. L. 97–448 effective as if included in the provisions of the Tax Equity and Fiscal Responsibility Act of 1982, Pub. L. 97–248, to which suchamendment relates, see section 311(d) of Pub. L. 97–448, set out as a note under section 31 of this title.
+Amendment by Pub. L. 97–448 effective as if included in the provisions of the Tax Equity and Fiscal Responsibility Act of 1982, Pub. L. 97–248, to which such amendment relates, see section 311(d) of Pub. L. 97–448, set out as a note under section 31 of this title.
 
 #### Section Referred to in Other Sections
 

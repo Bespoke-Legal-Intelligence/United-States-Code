@@ -30,5 +30,5 @@ Except as specifically provided in this subchapter, nothing in this subchapter s
 
 Act of August 18, 1958, referred to in subsec. (b), is Pub. L. 85–671, Aug. 18, 1958, 72 Stat. 619, which is not classified to the Code.
 
-Act of June 18, 1934, referred to in subsec. (e), popularly known as the Indian Reorganization Act, is classified generally to subchapter V (§461 et seq.) of thischapter. For complete classification of this Act to the Code, see Short Title note set out under section 461 of this title and Tables.
+Act of June 18, 1934, referred to in subsec. (e), popularly known as the Indian Reorganization Act, is classified generally to subchapter V (§461 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 461 of this title and Tables.
 

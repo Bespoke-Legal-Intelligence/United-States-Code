@@ -72,7 +72,7 @@ For purposes of this section—
 
 #### (2) Scope of election
 
-&emsp;An election made under this section shall apply to all qualified sales of magazines, paperbacks, or records, as the case may be, made in connection with the trade or business with respect to which the taxpayer has made the election.
+&emsp;An election made under this section shall apply to all qualified sales of magazines, paperbacks, or records, as the case may be, made in connection with the trade or business withrespect to which the taxpayer has made the election.
 
 #### (3) Period to which election applies
 
@@ -90,7 +90,7 @@ In applying section 481(c) with respect to any election under this section which
 
 #### (1) In general
 
-&emsp;In the case of any election under this section which applies to paperbacks or records, in lieu of applying section 481, the taxpayer shall establish a suspense account for the trade orbusiness for the taxable year for which the election is made.
+&emsp;In the case of any election under this section which applies to paperbacks or records, in lieu of applying section 481, the taxpayer shall establish a suspense account for the trade or business for the taxable year for which the election is made.
 
 #### (2) Initial opening balance
 

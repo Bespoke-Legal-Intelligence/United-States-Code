@@ -2,7 +2,7 @@
 
 The share of the United States Geological Survey in any topographic mapping or water resources investigations carried on in cooperation with any State or municipality shall not exceed 50 per centum of the cost thereof.
 
-(Sept. 30, 1994, Pub. L. 103–332, title I, 108 Stat. 2507.)
+(Sept. 30, 1996, Pub. L. 104–208, div. A, title I, §101(d) \[title I\], 110 Stat. 3009–181, 3009–190.)
 
 #### Codification
 
@@ -11,6 +11,10 @@ Section text is based on act July 31, 1953, ch. 298, title I, §1, 67 Stat. 269,
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in the following prior appropriation acts:
+
+Apr. 26, 1996, Pub. L. 104–134, title I, §101(c) \[title I\], 110 Stat. 1321–156, 1321–165; renumbered title I, May 2, 1996, Pub. L. 104–140, §1(a), 110 Stat. 1327.
+
+Sept. 30, 1994, Pub. L. 103–332, title I, 108 Stat. 2507.
 
 Nov. 11, 1993, Pub. L. 103–138, title I, 107 Stat. 1387.
 

@@ -8,13 +8,13 @@
 
 #### (b) Consultation with State and local officials required
 
-To assure that legitimate State and local interests are not prejudiced by the proposed enlargement of the reservation, the Secretary shall notify and consult all appropriate officials of the State of Oregon, all appropriate local governmental officials in the State of Oregon, and any other interested party in developing any plan under subsection (a) of this section. The Secretary shall provide complete information on the proposed plan to such officials and interested parties, including the restrictions on such proposed plan imposed by subsection (c) of this section. During any consultation by the Secretary under this subsection, the Secretary shall provide such information as he may possess, and shall request comments and additional information, on the following subjects:
+To assure that legitimate State and local interests are not prejudiced by the proposed enlargement of the reservation, the Secretary shall notify and consult all appropriate officials of the State of Oregon, all appropriate local governmental officials in the State of Oregon, and any other interested party in developing any plan under subsection (a) of this section. The Secretary shall provide complete information on the proposed plan to such officials and interested parties, including the restrictions on such proposed plan imposed by subsection (c) of this section. During any consultation by the Secretary under this subsection, the Secretary shall provide such information as he may possess, andshall request comments and additional information, on the following subjects:
 
 &emsp;(1) The size and location of the proposed reservation.
 
 &emsp;(2) The anticipated effect of the establishment of the proposed reservation on State and local expenditures and tax revenues.
 
-&emsp;(3) The extent of any State or local service to the tribe, the reservation of the tribe, ormembers after the establishment of the proposed reservation.
+&emsp;(3) The extent of any State or local service to the tribe, the reservation of the tribe, or members after the establishment of the proposed reservation.
 
 &emsp;(4) The extent of Federal services to be provided in the future to the tribe, the reservation of the tribe, or members.
 

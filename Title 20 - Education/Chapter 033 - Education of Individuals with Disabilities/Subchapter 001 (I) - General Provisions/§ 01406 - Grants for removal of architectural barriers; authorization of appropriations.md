@@ -8,7 +8,7 @@
 
 #### References in Text
 
-The Act entitled “An Act to insure that certain buildings financed with Federal funds are so designed and constructed as to be accessible to the physically handicapped”, approved August 12, 1968, referred to in subsec. (a), is Pub. L. 90–480, Aug. 12, 1968, 82 Stat. 718, as amended, which is popularly known as the Architectural Barriers Act of 1968. The Act is classified generally to chapter 51 (§4151 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4151 of Title 42 and Tables.
+The Act entitled “An Act to insure that certain buildings financed with Federal funds are so designed and constructed as to be accessible to the physically handicapped”, approved August 12, 1968, referred to in subsec. (a), is Pub. L. 90–480, Aug. 12, 1968, 82 Stat. 718,as amended, which is popularly known as the Architectural Barriers Act of 1968. The Act is classified generally to chapter 51 (§4151 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4151 of Title 42 and Tables.
 
 #### Amendments
 

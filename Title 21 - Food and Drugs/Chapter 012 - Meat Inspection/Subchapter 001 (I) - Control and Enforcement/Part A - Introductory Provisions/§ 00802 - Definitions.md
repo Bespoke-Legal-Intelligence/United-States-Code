@@ -90,7 +90,7 @@ As used in this subchapter:
 
 &emsp;(C) protracted loss or impairment of the function of a bodily member, organ, or mental faculty.
 
-(26) The term “State” means any State, territory, or possession of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Trust Territory of the Pacific Islands, and the Canal Zone.
+(26) The term “State” means a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
 
 (27) The term “ultimate user” means a person who has lawfully obtained, and who possesses, a controlled substance for his own use or for the use of a member of his household or for an animal owned by him or by a member of his household.
 
@@ -154,17 +154,17 @@ As used in this subchapter:
 
 &emsp;(O) Propionic anhydride.
 
-&emsp;(P) Insosafrole.
+&emsp;(P) Isosafrole.
 
 &emsp;(Q) Safrole.
 
 &emsp;(R) Piperonal.
 
-&emsp;(S) N-Methylepherdrine.<sup>1</sup>
+&emsp;(S) N-Methylephedrine.
 
 &emsp;(T) N-methylpseudoephedrine.
 
-&emsp;(U) Hydriotic <sup>2</sup> acid.
+&emsp;(U) Hydriodic acid.
 
 &emsp;(V) Benzaldehyde.
 
@@ -186,9 +186,13 @@ As used in this subchapter:
 
 &emsp;(F) Potassium permanganate.
 
-&emsp;(G) 2-Butanone.
+&emsp;(G) 2-Butanone (or Methyl Ethyl Ketone).
 
 &emsp;(H) Toluene.
+
+&emsp;(I) Iodine.
+
+&emsp;(J) Hydrochloric gas.
 
 (36) The term “regular customer” means, with respect to a regulated person, a customer with whom the regulated person has an established business relationship that is reported to the Attorney General.
 
@@ -208,11 +212,11 @@ As used in this subchapter:
 
 &emsp;&emsp;(iv) any transaction in a listed chemical that is contained in a drug that may be marketed or distributed lawfully in the United States under the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 301 et seq.) unless—
 
-&emsp;&emsp;&emsp;(I)(aa) the drug contains ephedrine or its salts, optical isomers, or salts of optical isomers as the only active medicinal ingredient or contains ephedrine or its salts, optical isomers, or salts of optical isomers and therapeutically insignificant quantities of another active medicinal ingredient; or
+&emsp;&emsp;&emsp;(I)(aa) the drug contains ephedrine or its salts, optical isomers, or salts of optical isomers, pseudoephedrine or its salts, optical isomers, or salts of optical isomers, or phenylpropanolamine or its salts, optical isomers, or salts of optical isomers unless otherwise provided by regulation of the Attorney General issued pursuant to section 814(e) of this title, except that any sale of ordinary over-the-counter pseudoephedrine or phenylpropanolamine products by retail distributors shall not be a regulated transaction (except as provided in section 401(d) of the Comprehensive Methamphetamine Control Act of 1996); or
 
 &emsp;&emsp;&emsp;(bb) the Attorney General has determined under section 814 of this title that the drug or group of drugs is being diverted to obtain the listed chemical for use in the illicit production of a controlled substance; and
 
-&emsp;&emsp;&emsp;(II) the quantity of ephedrine or other listed chemical contained in the drug included in the transaction or multiple transactions equals or exceeds the threshold established for that chemical by the Attorney General; or
+&emsp;&emsp;&emsp;(II) the quantity of ephedrine, pseudoephedrine, phenylpropanolamine, or other listed chemical contained in the drug included in the transaction or multiple transactions equals or exceeds the threshold established for that chemical by the Attorney General, except that the threshold for any sale of products containing pseudoephedrine or phenylpropanolamine products by retail distributors or by distributors required to submit reports by section 830(b)(3) of this title shall be 24 grams of pseudoephedrine or 24 grams of phenylpropanolamine in a single transaction; or
 
 &emsp;&emsp;(v) any transaction in a chemical mixture which the Attorney General has by regulation designated as exempt from the application of this subchapter and subchapter II of this chapter based on a finding that the mixture is formulated in such a way that it cannot be easily used in the illicit production of a controlled substance and that the listed chemical or chemicals contained in the mixture cannot be readily recovered; and
 
@@ -292,9 +296,29 @@ As used in this subchapter:
 
 &emsp;(C) bringing together a buyer and seller, a buyer and transporter, or a seller and transporter.
 
-(43) <sup>3</sup> The term “felony drug offense” means an offense that is punishable by imprisonment for more than one year under any law of the United States or of a State or foreign country that prohibits or restricts conduct relating to narcotic drugs, marihuana, or depressant or stimulant substances.
+(44) The term “felony drug offense” means an offense that is punishable by imprisonment for more than one year under any law of the United States or of a State or foreign country that prohibits or restricts conduct relating to narcotic drugs, marihuana, or depressant or stimulant substances.
 
-(Pub. L. 91–513, title II, §102, Oct. 27, 1970, 84 Stat. 1242; Pub. L. 93–281, §2, May 14, 1974, 88 Stat. 124; Pub. L. 95–633, title I, §102(b), Nov. 10, 1978, 92 Stat. 3772; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 96–132, §16(a), Nov. 30, 1979, 93 Stat. 1049; Pub. L. 98–473, title II, §507(a), (b), Oct. 12, 1984, 98 Stat. 2071; Pub. L. 98–509, title III, §301(a), Oct. 19, 1984, 98 Stat. 2364; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–570, title I, §§1003(b), 1203, 1870, Oct. 27, 1986, 100 Stat. 3207–6, 3207–13, 3207–56; Pub. L. 99–646, §83, Nov. 10, 1986, 100 Stat. 3619; Pub. L. 100–690, title VI, §6054, Nov. 18, 1988, 102 Stat. 4316; Pub. L. 101–647, title XIX, §1902(b), title XXIII, §2301, title XXXV, §3599I, Nov. 29, 1990, 104 Stat. 4852, 4858, 4932; Pub. L. 103–200, §§2(a), 7–9(a), Dec. 17, 1993, 107 Stat. 2333, 2340; Pub. L. 103–322, title IX, §90105(d), title XXXIII, §330024(a), (b), (d)(1), Sept. 13, 1994, 108 Stat. 1988, 2150.)
+(45) The term “ordinary over-the-counter pseudoephedrine or phenylpropanolamine product” means any product containing pseudoephedrine or phenylpropanolamine that is—
+
+&emsp;(A) regulated pursuant to this subchapter; and
+
+&emsp;(B)(i) except for liquids, sold in package sizes of not more than 3.0 grams of pseudoephedrine base or 3.0 grams of phenylpropanolamine base, and that is packaged in blister packs, each blister containing not more than two dosage units, or where the use of blister packs is technically infeasible, that is packaged in unit dose packets or pouches; and
+
+&emsp;(ii) for liquids, sold in package sizes of not more than 3.0 grams of pseudoephedrine base or 3.0 grams of phenylpropanolamine base.
+
+(46)(A) The term “retail distributor” means a grocery store, general merchandise store, drug store, or other entity or person whose activities as a distributor relating to pseudoephedrine or phenylpropanolamine products are limited almost exclusively to sales for personal use, both in number of sales and volume of sales, either directly to walk-in customers or in face-to-face transactions by direct sales.
+
+(B) For purposes of this paragraph, sale for personal use means the sale of below-threshold quantities in a single transaction to an individual for legitimate medical use.
+
+(C) For purposes of this paragraph, entities are defined by reference to the Standard Industrial Classification (SIC) code, as follows:
+
+&emsp;(i) A grocery store is an entity within SIC code 5411.
+
+&emsp;(ii) A general merchandise store is an entity within SIC codes 5300 through 5399 and 5499.
+
+&emsp;(iii) A drug store is an entity within SIC code 5912.
+
+(Pub. L. 91–513, title II, §102, Oct. 27, 1970, 84 Stat. 1242; Pub. L. 93–281, §2, May 14, 1974, 88 Stat. 124; Pub. L. 95–633, title I, §102(b), Nov. 10,1978, 92 Stat. 3772; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 96–132, §16(a), Nov. 30, 1979, 93 Stat. 1049; Pub. L. 98–473, title II, §507(a), (b), Oct. 12, 1984, 98 Stat. 2071; Pub. L. 98–509, title III, §301(a), Oct. 19, 1984, 98 Stat. 2364; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–570, title I, §§1003(b), 1203, 1870, Oct. 27, 1986, 100 Stat. 3207–6, 3207–13, 3207–56; Pub. L. 99–646, §83, Nov. 10, 1986, 100 Stat. 3619; Pub. L. 100–690, title VI, §6054, Nov. 18, 1988, 102 Stat. 4316; Pub. L. 101–647, title XIX, §1902(b), title XXIII, §2301, title XXXV, §3599I, Nov. 29, 1990, 104 Stat. 4852, 4858, 4932; Pub. L. 103–200, §§2(a), 7–9(a), Dec. 17, 1993, 107 Stat. 2333, 2340; Pub. L. 103–322, title IX, §90105(d), title XXXIII, §330024(a), (b), (d)(1), Sept. 13, 1994, 108 Stat. 1988, 2150; Pub. L. 104–237, title II, §§204(a), 209, title IV, §401(a), (b), Oct. 3, 1996, 110 Stat. 3102, 3104, 3106, 3107; Pub. L. 104–294, title VI, §§604(b)(4), 607(j), Oct. 11, 1996, 110 Stat. 3506, 3512.)
 
 #### References in Text
 
@@ -306,7 +330,25 @@ Subchapter II of this chapter, referred to in par. (39)(A)(iii), (v), was in the
 
 The Federal Food, Drug, and Cosmetic Act, referred to in par. (39)(A)(iv), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended, which is classified generally to chapter 9 (§301 et seq.) of this title. For complete classification of this Act to the Code, see section 301 of this title and Tables.
 
+Section 401(d) of the Comprehensive Methamphetamine Control Act of 1996, referred to in par. (39)(A)(iv)(I)(aa), is section 401(d) of Pub. L. 104–237, which is set out below.
+
 #### Amendments
+
+1996—Par. (26). Pub. L. 104–294, §607(j)(1), amended par. (26) generally. Prior to amendment, par. (26) read as follows: “The term ‘State’ means any State, territory, or possession of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Trust Territory of the Pacific Islands, and the Canal Zone.”
+
+Par. (34)(P), (S), (U). Pub. L. 104–237, §209(1), substituted “Isosafrole” for “Insosafrole” in subpar. (P), “N-Methylephedrine” for “N-Methylepherdrine” in subpar. (S), and “Hydriodic acid” for “Hydriotic acid” in subpar. (U).
+
+Par. (35)(G). Pub. L. 104–237, §209(2), amended subpar. (G) generally, inserting “(or Methyl Ethyl Ketone)” before period at end.
+
+Par. (35)(I), (J). Pub. L. 104–237, §204(a), added subpars. (I) and (J).
+
+Par. (39)(A)(iv)(I)(aa). Pub. L. 104–237, §401(a)(1), (b)(1), substituted “, pseudoephedrine or its salts, optical isomers, or salts of optical isomers, or phenylpropanolamine or its salts, optical isomers, or salts of optical isomers unless otherwise provided by regulation of the Attorney General issued pursuant to section 814(e) of this title, except that any sale of ordinary over-the-counter pseudoephedrine or phenylpropanolamine products by retail distributors shall not be a regulated transaction (except as provided in section 401(d) of the Comprehensive Methamphetamine Control Act of 1996);” for “as the only active medicinal ingredient or contains ephedrine or its salts, optical isomers, or salts of optical isomers and therapeutically insignificant quantities of another active medicinal ingredient;”.
+
+Par. (39)(A)(iv)(II). Pub. L. 104–237, §401(a)(2), (b)(2), inserted “, pseudoephedrine, phenylpropanolamine,” after “ephedrine” and inserted before semicolon “, except that the threshold for any sale of products containing pseudoephedrine or phenylpropanolamine products by retail distributors or by distributors required to submit reports by section 830(b)(3) of this title shall be 24 grams of pseudoephedrine or 24 grams of phenylpropanolamine in a single transaction”.
+
+Pars. (43), (44). Pub. L. 104–237, §401(b)(3), and Pub. L. 104–294, §§604(b)(4), 607(j)(2), amended section identically, redesignating par. (43), relating to felony drug offense, as (44).
+
+Pars. (45), (46). Pub. L. 104–237, §401(b)(4), added pars. (45) and (46).
 
 1994—Par. (34)(V), (W). Pub. L. 103–322, §330024(b), realigned margins and capitalized first letter.
 
@@ -346,7 +388,7 @@ Par. (37). Pub. L. 103–200, §9(a), amended par. (37) generally. Prior to amen
 
 Par. (38). Pub. L. 103–200, §2(a)(5), inserted before period at end “or who acts as a broker or trader for an international transaction involving a listed chemical, a tableting machine, or an encapsulating machine”.
 
-Par. (39)(A). Pub. L. 103–200, §§2(a)(6)(A), 7, in introductory provisions, substituted “importation, or exportation of, or an international transaction involving shipment of,” for “importation or exportation of” and inserted “a listed chemical, or if the Attorney General establishes a threshold amount for a specific listed chemical,” before “a threshold amount,”.
+Par. (39)(A). Pub. L. 103–200, §§2(a)(6)(A), 7, in introductory provisions, substituted “importation, or exportation of, or an international transaction involvingshipment of,” for “importation or exportation of” and inserted “a listed chemical, or if the Attorney General establishes a threshold amount for a specific listed chemical,” before “a threshold amount,”.
 
 Par. (39)(A)(iii). Pub. L. 103–200, §2(a)(6)(B), inserted “or any category of transaction for a specific listed chemical or chemicals” after “transaction”.
 
@@ -404,6 +446,12 @@ Par. (30). Pub. L. 98–473, §507(a), redesignated former par. (29) as (30).
 
 “Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in par. (24) pursuant to section 509(b) of Pub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.
 
+#### Effective Date of 1996 Amendments
+
+Amendment by section 604(b)(4) of Pub. L. 104–294 effective Sept. 13, 1994, see section 604(d) of Pub. L. 104–294, set out as a note under section 13 of Title 18, Crimes and Criminal Procedure.
+
+Section 401(g) of Pub. L. 104–237 provided that: “Notwithstanding any other provision of this Act \[see section 1(a) of Pub. L. 104–237, set out as a Short Title of 1996 Amendments note under section 801 of this title\], this section \[amending this section and section 814 of this title and enacting provisions set out as a note below\] shall not apply to the sale of any pseudoephedrine or phenylpropanolamine product prior to 12 months after the date of enactment of this Act \[Oct. 3, 1996\], except that, on application of a manufacturer of a particular pseudoephedrine or phenylpropanolamine drug product, the Attorney General may, in her sole discretion, extend such effective date up to an additional six months. Notwithstanding any other provision of law, the decision of the Attorney General on such an application shall not be subject to judicial review.”
+
 #### Effective Date of 1994 Amendment
 
 Section 330024(f) of Pub. L. 103–322 provided that: “The amendments made by this section \[amending this section and sections 824, 960, and 971 of this title\] shall take effect as of the date that is 120 days after the date of enactment of the Domestic Chemical Diversion Control Act of 1993 \[Dec. 17, 1993\].”
@@ -426,11 +474,105 @@ Amendment by Pub. L. 95–633 effective on date the Convention on Psychotropic S
 
 #### Regulations
 
-Section 301(b) of Pub. L. 98–509 provided that: “The Secretary of Health and Human Services shall, within ninety days of the date of the enactment of this Act \[Oct. 19, 1984\], promulgate regulations for the administration of section 102(28) of the Controlled Substances Act \[21 U.S.C. 802(29)\] as amended by subsection (a) and shall include in the first report submitted under section 505(b) \[now 503(b)\] of the Public Health Service Act\[42 U.S.C. 290aa–2(b)\] after the expiration of such ninety days the findings of the Secretary with respect to the effect of the amendment made by subsection (a).”
+Section 301(b) of Pub. L. 98–509 provided that: “The Secretary of Health and Human Services shall, within ninety days of the date of the enactment of this Act \[Oct. 19, 1984\], promulgate regulations for the administration of section 102(28) of the Controlled Substances Act \[21 U.S.C. 802(29)\] as amended by subsection (a) andshall include in the first report submitted under section 505(b) \[now 503(b)\] of the Public Health Service Act \[42 U.S.C. 290aa–2(b)\] after the expiration of such ninety days the findings of the Secretary with respect to the effect of the amendment made by subsection (a).”
 
-#### Termination of Trust Territory of the Pacific Islands
+#### Regulation of Retail Sales of Certain Precursor Chemicals; Effect on Thresholds; Combination Ephedrine Products
 
-For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
+Section 401(d)–(f) of Pub. L. 104–237 provided that:
+
+“(d)
+
+Regulation of Retail Sales.—
+
+&emsp;“(1)
+
+Pseudoephedrine.—
+
+&emsp;&emsp;“(A)
+
+Limit.—
+
+&emsp;&emsp;&emsp;“(i)
+
+In general.—Not sooner than the effective date of this section \[see Effective Date of 1996 Amendments note above\] and subject to the requirements of clause (ii), the Attorney General may establish by regulation a single-transaction limit of 24 grams of pseudoephedrine base for retail distributors. Notwithstanding any other provision of law, the single-transaction threshold quantity for pseudoephedrine-containing compounds may not be lowered beyond that established in this paragraph.
+
+&emsp;&emsp;&emsp;“(ii)
+
+Conditions.—In order to establish a single-transaction limit of 24 grams of pseudoephedrine base, the Attorney General shall establish, following notice, comment, and an informal hearing that since the date of enactment of this Act \[Oct. 3, 1996\] there are a significant number of instances where ordinary over-the-counter pseudoephedrine products as established in paragraph (45) of section 102 of the Controlled Substances Act (21 U.S.C. 802(45)), as added by this Act, sold by retail distributors as established in paragraph (46) in section 102 of the Controlled Substances Act (21 U.S.C. 802(46)), are being widely used as a significant source of precursor chemicals for illegal manufacture of a controlled substance for distribution or sale.
+
+&emsp;&emsp;“(B)
+
+Violation.—Any individual or business that violates the thresholds established in this paragraph shall, with respect to the first such violation, receive a warning letter from the Attorney General and, if a business, the business shall be required to conduct mandatory education of the sales employees of the firm with regard to the legal sales of pseudoephedrine. For a second violation occurring within 2 years of the first violation, the business or individual shall be subject to a civil penalty of not more than $5,000. For any subsequent violation occurring within 2 years of the previous violation, the business or individual shall be subject to a civil penalty not to exceed the amount of the previous civil penalty plus $5,000.
+
+&emsp;“(2)
+
+Phenylpropanolamine.—
+
+&emsp;&emsp;“(A)
+
+Limit.—
+
+&emsp;&emsp;&emsp;“(i)
+
+In general.—Not sooner than the effective date of this section and subject to the requirements of clause (ii), the Attorney General may establish by regulation a single-transaction limit of 24 grams of phenylpropanolamine base for retail distributors. Notwithstanding any other provision of law, the single-transaction threshold quantity for phenylpropanolamine-containing compounds may not be lowered beyond that established in this paragraph.
+
+&emsp;&emsp;&emsp;“(ii)
+
+Conditions.—In order to establish a single-transaction limit of 24 grams of phenylpropanolamine base, the Attorney General shall establish, following notice, comment, and an informal hearing, that since the date of enactment of this Act there are a significant number of instances where ordinary over-the-counter phenylpropanolamine products as established in paragraph (45) of section 102 of the Controlled Substances Act (21 U.S.C. 802(45)), as added by this Act, sold by retail distributors as established in paragraph (46) in section 102 of the Controlled Substances Act (21 U.S.C. 802(46)), are being used as a significant source of precursor chemicals for illegal manufacture of a controlled substance in bulk.
+
+&emsp;&emsp;“(B)
+
+Violation.—Any individual or business that violates the thresholds established in this paragraph shall, with respect to the first such violation, receive a warning letter from the Attorney General and, if a business, the business shall be required to conduct mandatory education of the sales employees of the firm with regard to the legal sales of pseudoephedrine. For a second violation occurring within 2 years of the first violation, the business or individual shall be subject to a civil penalty of not more than $5,000. For any subsequent violation occurring within 2 years of the previous violation, the business or individual shall be subject to a civil penalty not to exceed the amount of the previous civil penalty plus $5,000.
+
+&emsp;“(3)
+
+Significant number of instances.—
+
+&emsp;&emsp;“(A)
+
+In general.—For purposes of this subsection, isolated or infrequent use, or use in insubstantial quantities, of ordinary over-the-counter pseudoephedrine or phenylpropanolamine, as defined in section 102(45) of the Controlled Substances Act, as added by section 401(b) of this Act, and sold at the retail level for the illicit manufacture of methamphetamine or amphetamine may not be used by the Attorney General as the basis for establishing the conditions under paragraph (1)(A)(ii) of this subsection, with respect to pseudoephedrine, and paragraph (2)(A)(ii) of this subsection, with respect to phenylpropanolamine.
+
+&emsp;&emsp;“(B)
+
+Considerations and report.—The Attorney General shall—
+
+&emsp;&emsp;&emsp;“(i) in establishing a finding under paragraph (1)(A)(ii) or (2)(A)(ii) of this subsection, consult with the Secretary of Health and Human Services in order to consider the effects on public health that would occur from the establishment of new single transaction limits as provided in such paragraph; and
+
+&emsp;&emsp;&emsp;“(ii) upon establishing a finding, transmit a report to the Committees on the Judiciary in both, respectively, the House of Representatives and the Senate in which the Attorney General will provide the factual basis for establishing the new single transaction limits.
+
+&emsp;“(4)
+
+Definition of business.—For purposes of this subsection, the term ‘business’ means the entity that makes the direct sale and does not include the parent company of a business not involved in a direct sale regulated by this subsection.
+
+&emsp;“(5)
+
+Judicial review.—Any regulation promulgated by the Attorney General under this section shall be subject to judicial review pursuant to section 507 of the Controlled Substances Act (21 U.S.C. 877).
+
+“(e)
+
+Effect on Thresholds.—Nothing in the amendments made by subsection (b) \[amending this section\] or the provisions of subsection (d) shall affect the authority of the Attorney General to modify thresholds (including cumulative thresholds) for retail distributors for products other than ordinary over-the-counter pseudoephedrine or phenylpropanolamine products (as defined in section 102(45) of the Controlled Substances Act \[21 U.S.C. 802(45)\], as added by this section) or for non-retail distributors, importers, or exporters.
+
+“(f)
+
+Combination Ephedrine Products.—
+
+&emsp;“(1)
+
+In general.—For the purposes of this section, combination ephedrine products shall be treated the same as pseudoephedrine products, except that—
+
+&emsp;&emsp;“(A) a single transaction limit of 24 grams shall be effective as of the date of enactment of this Act \[Oct. 3, 1996\] and shall apply to sales of all combination ephedrine products, notwithstanding the form in which those products are packaged, made by retail distributors or distributors required to submit a report under section 310(b)(3) of the Controlled Substances Act \[21 U.S.C. 830(b)(3)\] (as added by section 402 of this Act);
+
+&emsp;&emsp;“(B) for regulated transactions for combination ephedrine products other than sales described in subparagraph (A), the transaction limit shall be—
+
+&emsp;&emsp;&emsp;“(i) 1 kilogram of ephedrine base, effective on the date of enactment of this Act; or
+
+&emsp;&emsp;&emsp;“(ii) a threshold other than the threshold described in clause (i), if established by the Attorney General not earlier than 1 year after the date of enactment of this Act; and
+
+&emsp;&emsp;“(C) the penalties provided in subsection (d)(1)(B) of this section shall take effect on the date of enactment of this Act for any individual or business that violates the single transaction limit of 24 grams for combination ephedrine products.
+
+&emsp;“(2)
+
+Definition.—For the purposes of this section, the term ‘combination ephedrine product’ means a drug product containing ephedrine or its salts, optical isomers, or salts of optical isomers and therapeutically significant quantities of another active medicinal ingredient.”
 
 #### Exemption for Substances in Paragraph (41)
 
@@ -454,11 +596,5 @@ Date of Issuance of Regulations.—The Attorney General shall issue regulations 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 814, 822, 823, 830, 889, 951, 957, 958, 967, 1115, 1507 of this title; title 7 sections 2015, 2021; title 8 sections 1101, 1182, 1251; title 16 section 559b; title 18 sections 342, 521, 842, 922, 924, 1791, 1952, 1961, 2118, 3142, 3563, 3592; title 19 sections 1401, 1584, 1607; title 22 sections 2291, 2714; title 23 section 410; title 28 section 2901; title 29 sections 1111, 1854; title 42 sections 201, 1437d, 1437f, 1769, 2000e–2, 2473c, 3411, 3602, 3607, 5667, 5667a, 11851, 11905, 11924, 12602; title 46 section 2101; title 46 App. section 1903; title 48 sections 1902, 1903; title 49 sections 5331, 20140, 30301, 31102, 31301, 31306, 44106, 44111, 44703, 44710, 44713, 45101, 46306, 80302.
-
-<i><sup>1</sup></i><i> So in original. Probably should be “N-Methylephedrine.”</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be “Hydriodic”.</i>
-
-<i><sup>3</sup></i><i> So in original. Probably should be “(44)”.</i>
+This section is referred to in sections 814, 822, 823, 830, 862a, 889, 951, 957, 958, 967, 1115, 1507 of this title; title 7 sections 2015, 2021; title 8 sections 1101, 1182, 1227; title 16 section 559b; title 18 sections 342, 521, 842, 922, 924, 1791, 1952, 1961, 2118, 3142, 3563, 3592; title 19 sections 1401, 1584, 1607; title 22 sections 2291, 2714; title 23 section 410; title 25 section 4103; title 28 section 2901; title 29 sections 1111, 1854; title 42 sections 201, 1437d, 1437f, 1769, 2000e–2, 2473c, 3411, 3602, 3607, 5667, 5667a, 11851, 11905, 11924, 12602; title 46 section 2101; title 46 App. section 1903; title 48 sections 1902, 1903; title 49 sections 5331, 20140, 30301, 31102, 31301, 31306, 44106, 44111, 44703, 44710, 44713, 45101, 46306, 80302.
 

@@ -14,7 +14,7 @@ Requirements.—(1) Except as provided in this subsection, all requirements of t
 
 &emsp;(B) an additional requirement necessary to protect the public health and safety, safety of property, national security interests, and foreign policy interests of the United States; and
 
-&emsp;(C) by regulation that a requirement of a law of the United States not be a requirement for a license if the Secretary, after consulting with the head of the appropriate executive agency, decides that the requirement is notnecessary to protect the public health and safety, safety of property, and national security and foreign policy interests of the United States.
+&emsp;(C) by regulation that a requirement of a law of the United States not be a requirement for a license if the Secretary, after consulting with the head of the appropriate executive agency, decides that the requirement is not necessary to protect the public health and safety, safety of property, and national security and foreign policy interests of the United States.
 
 (3) The Secretary may waive a requirement for an individual applicant if the Secretary decides that the waiver is in the public interest and will not jeopardize the public health and safety, safety of property, and national security and foreign policy interests of the United States.
 
@@ -26,7 +26,9 @@ Procedures and Timetables.—The Secretary shall establish procedures and timeta
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

@@ -128,7 +128,7 @@ In this subchapter, the term “skilled nursing facility” means an institution
 
 #### (ii) Exception
 
-&emsp;&emsp;&emsp;To the extent that clause (i) may be deemed to require that a skilled nursing facility engage the services of a registered professional nurse for more than 40 hours a week, the Secretary is authorized to waive such requirement if the Secretary finds that—
+&emsp;&emsp;&emsp;To the extent that clause (i) may be deemed to require that a skilled nursing facility engage the services of a registeredprofessional nurse for more than 40 hours a week, the Secretary is authorized to waive such requirement if the Secretary finds that—
 
 &emsp;&emsp;&emsp;&emsp;(I) the facility is located in a rural area and the supply of skilled nursing facility services in such area is not sufficient to meet the needs of individuals residing therein,
 
@@ -266,7 +266,7 @@ In this subchapter, the term “skilled nursing facility” means an institution
 
 &emsp;&emsp;&emsp;(ii) make available to each resident, upon reasonable request, a written statement of such rights (which statement is updated upon changes in such rights) including the notice (if any) of the State developed under section 1396r(e)(6) of this title; and
 
-&emsp;&emsp;&emsp;(iii) inform each other resident, in writing before or at the time of admission and periodically during the resident's stay, of services available in the facility and of related charges for such services, including any charges for services not covered under this subchapter or by the facility's basic per diem charge.
+&emsp;&emsp;&emsp;(iii) inform each other resident, in writing before or at the time of admission andperiodically during the resident's stay, of services available in the facility and of related charges for such services, including any charges for services not covered under this subchapter or by the facility's basic per diem charge.
 
 > &emsp;&emsp;The written description of legal rights under this subparagraph shall include a description of the protection of personal funds under paragraph (6) and a statement that a resident may file a complaint with a State survey and certification agency respecting resident abuse and neglect and misappropriation of resident property in the facility.
 
@@ -334,7 +334,7 @@ In this subchapter, the term “skilled nursing facility” means an institution
 
 &emsp;&emsp;&emsp;&emsp;(I) for transfers or discharges effected on or after October 1, 1990, notice of the resident's right to appeal the transfer or discharge under the State process established under subsection (e)(3) of this section; and
 
-&emsp;&emsp;&emsp;&emsp;(II) the name, mailing address, and telephone number of the State long-termcare ombudsman (established under title III or VII of the Older Americans Act of 1965 \[42 U.S.C. 3021 et seq., 3058 et seq.\] in accordance with section 712 of the Act \[42 U.S.C. 3058g\]).
+&emsp;&emsp;&emsp;&emsp;(II) the name, mailing address, and telephone number of the State long-term care ombudsman (established under title III or VII of the Older Americans Act of 1965 \[42 U.S.C. 3021 et seq., 3058 et seq.\] in accordance with section 712 of the Act \[42 U.S.C. 3058g\]).
 
 #### (C) Orientation
 
@@ -534,11 +534,11 @@ The requirements, referred to in section 1395aa(d) of this title, with respect t
 
 &emsp;&emsp;&emsp;(iv) requirements, under both such programs, that—
 
-&emsp;&emsp;&emsp;&emsp;(I) provide procedures for determining competency that permit a nurse aide, at the nurse aide's option, to establish competency through procedures or methodsother than the passing of a written examination and to have the competency evaluation conducted at the nursing facility at which the aide is (or will be) employed (unless the facility is described in subparagraph (B)(iii)(I)),
+&emsp;&emsp;&emsp;&emsp;(I) provide procedures for determining competency that permit a nurse aide, at the nurse aide's option, to establish competency through procedures or methods other than the passing of a written examination and to have the competency evaluation conducted at the nursing facility at which the aide is (or will be) employed (unless the facility is described in subparagraph (B)(iii)(I)),
 
 &emsp;&emsp;&emsp;&emsp;(II) prohibit the imposition on a nurse aide who is employed by (or who has received an offer of employment from) a facility on the date on which the aide begins either such program of any charges (including any charges for textbooks and other required course materials and any charges for the competency evaluation) for either such program, and
 
-&emsp;&emsp;&emsp;&emsp;(III) in the case of a nurse aide not described in subclause (II) who is employed by (or who has received an offer of employment from) a facility not later than 12 months after completing either such program, the State shall provide for the reimbursement of costs incurred in completing such program on a prorata <sup>5</sup> basis during the period in which the nurse aide is so employed.
+&emsp;&emsp;&emsp;&emsp;(III) in the case of a nurse aide not described in subclause (II) who is employedby (or who has received an offer of employment from) a facility not later than 12 months after completing either such program, the State shall provide for the reimbursement of costs incurred in completing such program on a prorata <sup>5</sup> basis during the period in which the nurse aide is so employed.
 
 #### (B) Approval of certain programs
 
@@ -604,7 +604,7 @@ The requirements, referred to in section 1395aa(d) of this title, with respect t
 
 #### (B) Rule if failure to publish regulations
 
-&emsp;&emsp;If the Secretary does not issue the regulations under subparagraph (A) on or before the date required in such subparagraph, in the case of a resident of a skilled nursing facility who is eligible to receive benefits under this part, the costs which may not be charged to the personal funds of such resident (and for which payment is considered to be made under this subchapter) shall include, at a minimum, the costs for routine personal hygiene items and services furnished by the facility.
+&emsp;&emsp;If the Secretary does not issue the regulations under subparagraph (A) on or beforethe date required in such subparagraph, in the case of a resident of a skilled nursing facility who is eligible to receive benefits under this part, the costs which may not be charged to the personal funds of such resident (and for which payment is considered to be made under this subchapter) shall include, at a minimum, the costs for routine personal hygiene items and services furnished by the facility.
 
 #### (g) Survey and certification process
 
@@ -780,13 +780,13 @@ The requirements, referred to in section 1395aa(d) of this title, with respect t
 
 #### (A) In general
 
-&emsp;&emsp;With respect to any skilled nursing facility in a State, if the Secretary finds, or pursuant to a recommendation of the State under paragraph (1) finds, that a skillednursing facility no longer meets a requirement of subsection (b), (c), (d), or (e) of this section, and further finds that the facility's deficiencies—
+&emsp;&emsp;With respect to any skilled nursing facility in a State, if the Secretary finds, or pursuant to a recommendation of the State under paragraph (1) finds, that a skilled nursing facility no longer meets a requirement of subsection (b), (c), (d), or (e) of this section, and further finds that the facility's deficiencies—
 
 &emsp;&emsp;&emsp;(i) immediately jeopardize the health or safety of its residents, the Secretary shall take immediate action to remove the jeopardy and correct the deficiencies through the remedy specified in subparagraph (B)(iii), or terminate the facility's participation under this subchapter and may provide, in addition, for one or more of the other remedies described in subparagraph (B); or
 
 &emsp;&emsp;&emsp;(ii) do not immediately jeopardize the health or safety of its residents, the Secretary may impose any of the remedies described in subparagraph (B).
 
-> &emsp;&emsp;Nothing in this subparagraph shall be construed as restricting the remedies available to the Secretary to remedy a skilled nursing facility's deficiencies. If the Secretary finds, or pursuant to the recommendation of the State under paragraph (1) finds, that a skilled nursing facility meets such requirements but, as of a previous period, did not meet such requirements, the Secretary may provide for a civil money penalty under subparagraph (B)(ii) for the days on which he finds that the facility was not in compliance with such requirements.
+> &emsp;&emsp;Nothing in this subparagraph shall be construed as restricting the remedies available to the Secretary to remedy a skilled nursingfacility's deficiencies. If the Secretary finds, or pursuant to the recommendation of the State under paragraph (1) finds, that a skilled nursing facility meets such requirements but, as of a previous period, did not meet such requirements, the Secretary may provide for a civil money penalty under subparagraph (B)(ii) for the days on which he finds that the facility was not in compliance with such requirements.
 
 #### (B) Specified remedies
 
@@ -844,7 +844,7 @@ The requirements, referred to in section 1395aa(d) of this title, with respect t
 
 #### (4) Immediate termination of participation for facility where Secretary finds noncompliance and immediate jeopardy
 
-&emsp;If the Secretary finds that a skilled nursing facility has not met a requirement of subsection (b), (c), or (d) of this section, and finds that the failure immediately jeopardizes the health or safety of its residents, the Secretary shall take immediate action to remove the jeopardy and correct the deficiencies through the remedy specified in paragraph (2)(B)(iii), or the Secretary shall terminate the facility's participation under this subchapter. If the facility's participation under this subchapter is terminated, the State shall provide for the safe and orderly transfer of the residents eligible under this subchapter consistent with the requirements of subsection (c)(2) of this section.
+&emsp;If the Secretary finds that a skilled nursing facility has not met a requirement of subsection (b), (c), or (d) of this section, and finds that the failure immediately jeopardizes thehealth or safety of its residents, the Secretary shall take immediate action to remove the jeopardy and correct the deficiencies through the remedy specified in paragraph (2)(B)(iii), or the Secretary shall terminate the facility's participation under this subchapter. If the facility's participation under this subchapter is terminated, the State shall provide for the safe and orderly transfer of the residents eligible under this subchapter consistent with the requirements of subsection (c)(2) of this section.
 
 #### (5) Construction
 
@@ -902,7 +902,7 @@ Subsec. (b)(4)(A)(vii). Pub. L. 101–508, §4008(h)(2)(D), added cl. (vii).
 
 Subsec. (b)(4)(C)(ii)(IV), (V). Pub. L. 101–508, §4008(h)(2)(E), added subcls. (IV) and (V).
 
-Subsec. (b)(5)(A). Pub. L. 101–508, §4008(h)(1)(B), designated existing provisions as cl. (i), in introductory provisions substituted “Except as provided in clause (ii), a skilled nursing facility” for “A skilled nursing facility” and “on a full-time basis” for “(on a full-time, temporary, per diem, or other basis)”, redesignated former cls. (i) and (ii) as subcls. (I) and (II), respectively, and added cl. (ii).
+Subsec. (b)(5)(A). Pub. L. 101–508, §4008(h)(1)(B), designated existing provisions as cl. (i), in introductory provisions substituted “Except as provided in clause (ii), a skilled nursing facility” for “A skilled nursingfacility” and “on a full-time basis” for “(on a full-time, temporary, per diem, or other basis)”, redesignated former cls. (i) and (ii) as subcls. (I) and (II), respectively, and added cl. (ii).
 
 Subsec. (b)(5)(C). Pub. L. 101–508, §4008(h)(1)(C), substituted “any State registry established under subsection (e)(2)(A) of this section that the facility believes will include information” for “the State registry established under subsection (e)(2)(A) of this section as to information in the registry”.
 
@@ -982,7 +982,7 @@ Subsec. (c)(2)(A)(v). Pub. L. 100–360, §411(<i>l</i>)(2)(F), substituted “f
 
 Subsec. (c)(6). Pub. L. 100–360, §411(<i>l</i>)(2)(G), substituted “upon the written” for “once the facility accepts the written” in subpar. (A)(ii), and “Upon written” for “Upon a facility's acceptance of written” in subpar. (B).
 
-Subsec. (e)(1)(A). Pub. L. 100–360, §411(<i>l</i>)(1)(A)(v), formerly §411(<i>l</i>)(1)(A)(iv), as redesignated by Pub. L. 100–485, §608(d)(27)(A), substituted “January” for “March”.
+Subsec. (e)(1)(A). Pub. L. 100–360, §411(<i>l</i>)(1)(A)(v), formerly §411(<i>l</i>)(1)(A)(iv), as redesignated by Pub. L.100–485, §608(d)(27)(A), substituted “January” for “March”.
 
 Subsec. (e)(1)(B). Pub. L. 100–360, §411(<i>l</i>)(1)(A)(vi), formerly §411(<i>l</i>)(1)(A)(v), as redesignated by Pub. L. 100–485, §608(d)(27)(A), substituted “January” for “March”.
 
@@ -1120,6 +1120,22 @@ Enforcement.—(1) Except as otherwise specifically provided in section 1819 of 
 
 Waiver of Paperwork Reduction.—Chapter 35 of title 44, United States Code, shall not apply to information required for purposes of carrying out this part \[part 1 of subtitle C (§§4201–4206), enacting this section, amending this section and sections 1395x, 1395aa, 1395tt, and 1395yy of this title, and enacting provisions set out as notes under this section\] and implementing the amendments made by this part.”
 
+#### Study and Report on Deeming for Nursing Facilities and Renal Dialysis Facilities
+
+Pub. L. 104–134, title I, §101(d) \[title V, §516(d)\], Apr. 26, 1996, 110 Stat. 1321–211, 1321–248; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327, provided that:
+
+“(1)
+
+Study.—The Secretary of Health and Human Services shall provide for—
+
+&emsp;“(A) a study concerning the effectiveness and appropriateness of the current mechanisms for surveying and certifying skilled nursing facilities for compliance with the conditions and requirements of sections 1819 and 1861(j) of the Social Security Act \[this section and section 1395x(j) of this title\] and nursing facilities for compliance with the conditions of section 1919 of such Act \[section 1396r of this title\], and
+
+&emsp;“(B) a study concerning the effectiveness and appropriateness of the current mechanisms for surveying and certifying renal dialysis facilities for compliance with the conditions and requirements of section 1881(b) of the Social Security Act \[section 1395rr(b) of this title\].
+
+“(2)
+
+Report.—Not later than July 1, 1997, the Secretary shall transmit to Congress a report on each of the studies provided for under paragraph (1). The report on the study under paragraph (1)(A) shall include (and the report on the study under paragraph (1)(B) may include) a specific framework, where appropriate, for implementing a process under which facilities covered under the respective study may be deemed to meet applicable medicare conditions and requirements if they are accredited by a national accreditation body.”
+
 #### Maintaining Regulatory Standards for Certain Services
 
 Section 4008(h)(2)(O) of Pub. L. 101–508 provided that: “Any regulations promulgated and applied by the Secretary of Health and Human Services after the date of the enactment of the Omnibus Budget Reconciliation Act of 1987 \[Dec. 22, 1987\] with respect to services described in clauses (ii), (iv), and (v) of section 1819(b)(4)(A) of the Social Security Act \[subsec. (b)(4)(A)(ii), (iv), and (v) of this section\] shall include requirements for providers of such services that are at least as strict as the requirements applicable to providers of such services prior to the enactment of the Omnibus Budget Reconciliation Act of 1987.”
@@ -1148,7 +1164,7 @@ Section 4205 of Pub. L. 100–203 provided that: “The Secretary of Health and 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1395x, 1395aa, 1395cc, 1395tt, 1396r, 3002 of this title; title 38 section 3675.
+This section is referred to in sections 1395x, 1395aa, 1395bb, 1395cc, 1395tt, 1396r, 3002 of this title; title 38 section 3675.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

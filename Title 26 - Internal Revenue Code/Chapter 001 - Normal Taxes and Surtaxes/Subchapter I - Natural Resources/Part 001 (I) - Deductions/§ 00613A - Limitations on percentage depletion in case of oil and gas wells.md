@@ -66,7 +66,7 @@ Except as otherwise provided in this section, the allowance for depletion under 
 
 &emsp;&emsp;For purposes of paragraph (1), the taxpayer's depletable oil quantity shall be equal to—
 
-&emsp;&emsp;&emsp;(i) the tentative quantity determined under the table contained in subparagraph (B), reduced (but not below zero) by
+&emsp;&emsp;&emsp;(i) the tentative quantity determined under subparagraph (B), reduced (but not below zero) by
 
 &emsp;&emsp;&emsp;(ii) except in the case of a taxpayer making an election under paragraph (6)(B), the taxpayer's average daily marginal production for the taxable year.
 
@@ -238,7 +238,7 @@ Except as otherwise provided in this section, the allowance for depletion under 
 
 &emsp;&emsp;(C) with respect to an estate or trust, 5 percent or more of the beneficial interests in such estate or trust.
 
-> &emsp;For purposes of determining a significant ownership interest, an interest owned by or for a corporation, partnership, trust, or estate shall be considered as owned directly both by itself and proportionately by its shareholders, partners, or beneficiaries, as the case may be.
+> &emsp;For purposes of determining a significant ownership interest, an interest owned by or for acorporation, partnership, trust, or estate shall be considered as owned directly both by itself and proportionately by its shareholders, partners, or beneficiaries, as the case may be.
 
 #### (4) Certain refiners excluded
 
@@ -268,7 +268,7 @@ For purposes of this section—
 
 &emsp;The term “barrel” means 42 United States gallons.
 
-(Added Pub. L. 94–12, title V, §501(a), Mar. 29, 1975, 89 Stat. 47; amended Pub. L. 94–455, title XIX, §§1901(a)(86), 1906(b)(13)(A), title XXI, §2115(a)–(c)(1), (d), (e), Oct. 4, 1976, 90 Stat. 1779, 1834, 1907–1909; Pub. L. 95–30, title I, §102(b)(7), May 23, 1977, 91 Stat. 138; Pub. L. 95–618, title IV, §403(a)(2)(B), (b), Nov. 9, 1978, 92 Stat. 3204; Pub. L. 96–603, §3(a), Dec. 28, 1980, 94 Stat. 3511; Pub. L. 97–354, §3(a), Oct. 19, 1982, 96 Stat. 1687; Pub. L. 97–448, title II, §202(d), Jan. 12, 1983, 96 Stat. 2396; Pub. L. 98–369, div. A, title I, §§25(b), 71(b), July 18, 1984, 98 Stat. 506, 589; Pub. L. 99–514, title I, §104(b)(9), title IV, §412(a)(1), Oct. 22, 1986, 100 Stat. 2105, 2227; Pub. L. 101–508, title XI, §§11521(a), (b), 11522(b)(1), 11523(a), (b), 11815(a), Nov. 5, 1990, 104 Stat. 1388–485 to 1388–487, 1388–557.)
+(Added Pub. L. 94–12, title V, §501(a), Mar. 29, 1975, 89 Stat. 47; amended Pub. L. 94–455, title XIX, §§1901(a)(86), 1906(b)(13)(A), title XXI, §2115(a)–(c)(1), (d), (e), Oct. 4, 1976, 90 Stat. 1779, 1834, 1907–1909; Pub. L. 95–30, title I, §102(b)(7), May 23, 1977, 91 Stat. 138; Pub. L. 95–618, title IV, §403(a)(2)(B), (b), Nov. 9, 1978, 92 Stat. 3204; Pub. L. 96–603, §3(a), Dec. 28, 1980, 94 Stat. 3511; Pub. L. 97–354, §3(a), Oct. 19, 1982, 96 Stat. 1687; Pub. L. 97–448, title II, §202(d), Jan. 12, 1983, 96 Stat. 2396; Pub. L. 98–369, div. A, title I, §§25(b), 71(b), July 18, 1984, 98 Stat. 506, 589; Pub. L. 99–514, title I, §104(b)(9), title IV, §412(a)(1), Oct. 22, 1986, 100 Stat. 2105, 2227; Pub. L. 101–508, title XI, §§11521(a), (b), 11522(b)(1), 11523(a), (b), 11815(a), Nov. 5, 1990, 104 Stat. 1388–485 to 1388–487, 1388–557; Pub. L. 104–188, title I, §1702(e)(2), Aug. 20, 1996, 110 Stat. 1870.)
 
 #### References in Text
 
@@ -277,6 +277,8 @@ Section 503 of the Natural Gas Policy Act of 1978, referred to in subsec. (b)(3)
 The Subchapter S Revision Act of 1982, referred to in subsec. (c)(11)(B), is Pub. L. 97–354, Oct. 19, 1982, 96 Stat. 1669, which is classified principally to subchapter S (§1361 et seq.) of chapter 1 of this title. For complete classification of this Act to the Code, see Short Title of 1982 Amendments note set out under section 1 of this title and Tables.
 
 #### Amendments
+
+1996—Subsec. (c)(3)(A)(i). Pub. L. 104–188 struck out “the table contained in” before “subparagraph (B)”.
 
 1990—Subsec. (c)(1). Pub. L. 101–508, §11815(a)(1)(A), substituted “15 percent” for “the applicable percentage (determined in accordance with the table contained in paragraph (5))” in concluding provisions.
 
@@ -356,6 +358,10 @@ Subsec. (d)(2). Pub. L. 94–455, §2115(a), inserted “(excluding bulk sales o
 
 Subsec. (d)(3). Pub. L. 94–455, §2115(d), inserted provision following subpar. (C) relating to the determination of a significant ownership interest of a corporation, partnership, trust, or estate.
 
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–188 effective, except as otherwise expressly provided, as if included in the provision of the Revenue Reconciliation Act of 1990, Pub. L. 101–508, title XI, to which such amendment relates, see section 1702(i) of Pub. L. 104–188, set out as a note under section 38 of this title.
+
 #### Effective Date of 1990 Amendment
 
 Section 11521(c) of Pub. L. 101–508 provided that: “The amendments made by this section \[amending this section\] shall apply to transfers after October 11, 1990.”
@@ -368,7 +374,7 @@ Section 11523(c) of Pub. L. 101–508 provided that: “The amendments made by t
 
 Amendment by section 104(b)(9) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 151(a) of Pub. L. 99–514, set out as a note under section 1 of this title.
 
-Amendment by section 412(a)(1) of Pub. L. 99–514 applicable to amounts received or accrued after Aug. 16,1986, in taxable years ending after such date, see section 412(a)(3) of Pub. L. 99–514, set out as a note under section 613 of this title.
+Amendment by section 412(a)(1) of Pub. L. 99–514 applicable to amounts received or accrued after Aug. 16, 1986, in taxable years ending after such date, see section 412(a)(3) of Pub. L. 99–514, set out as a note under section 613 of this title.
 
 #### Effective Date of 1984 Amendment
 

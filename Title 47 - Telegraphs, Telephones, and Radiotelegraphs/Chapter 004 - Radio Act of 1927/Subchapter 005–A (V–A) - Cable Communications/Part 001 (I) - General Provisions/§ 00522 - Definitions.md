@@ -16,9 +16,9 @@ For purposes of this subchapter—
 
 &emsp;&emsp;(A) the one-way transmission to subscribers of (i) video programming, or (ii) other programming service, and
 
-&emsp;&emsp;(B) subscriber interaction, if any, which is required for the selection of such video programming or other programming service;
+&emsp;&emsp;(B) subscriber interaction, if any, which is required for the selection or use of such video programming or other programming service;
 
-&emsp;(7) the term “cable system” means a facility, consisting of a set of closed transmission paths and associated signal generation, reception, and control equipment that is designed to provide cable service which includes video programming and which is provided to multiple subscribers within a community, but such term does not include (A) a facility that serves only to retransmit the television signals of 1 or more television broadcast stations; (B) a facility that serves only subscribers in 1 or more multiple unit dwellings under common ownership, control, or management, unless such facility or facilities uses any public right-of-way; (C) a facility of a common carrier which is subject, in whole or in part, to the provisions of subchapter II of this chapter, except that such facility shall be considered a cable system (other than for purposes of section 541(c) of this title) to the extent such facility is used in the transmission of video programming directly to subscribers; or (D) any facilities of any electric utility used solely for operating its electric utility system;
+&emsp;(7) the term “cable system” means a facility, consisting of a set of closed transmission paths and associated signal generation, reception, and control equipment that is designed to provide cable service which includes video programming and which is provided to multiple subscribers within a community, but such term does not include (A) a facility that serves only to retransmit the television signals of 1 or more television broadcast stations; (B) a facility that serves subscribers without using any public right-of-way; (C) a facility of a common carrier which is subject, in whole or in part, to the provisions of subchapter II of this chapter, except that such facility shall be considered a cable system (other than for purposes of section 541(c) of this title) to the extent such facility is used in the transmission of video programming directly to subscribers, unless the extent of such use is solely to provide interactive on-demand services; (D) an open video system that complies with section 573 of this title; or (E) any facilities of any electric utility used solely for operating its electric utility system;
 
 &emsp;(8) the term “Federal agency” means any agency of the United States, including the Commission;
 
@@ -28,29 +28,39 @@ For purposes of this subchapter—
 
 &emsp;(11) the term “grade B contour” means the field strength of a television broadcast station computed in accordance with regulations promulgated by the Commission;
 
-&emsp;(12) the term “multichannel video programming distributor” means a person such as, but not limited to, a cable operator, a multichannel multipoint distribution service, a direct broadcast satellite service, or a television receive-only satellite program distributor, who makes available for purchase, by subscribers or customers, multiple channels of video programming;
+&emsp;(12) the term “interactive on-demand services” means a service providing video programming to subscribers over switched networks on an on-demand, point-to-point basis, but does not include services providing video programming prescheduled by the programming provider;
 
-&emsp;(13) the term “other programming service” means information that a cable operator makes available to all subscribers generally;
+&emsp;(13) the term “multichannel video programming distributor” means a person such as, but not limited to, a cable operator, a multichannel multipoint distribution service, a direct broadcast satellite service, or a television receive-only satellite program distributor, who makes available for purchase, by subscribers or customers, multiple channels of video programming;
 
-&emsp;(14) the term “person” means an individual, partnership, association, joint stock company, trust, corporation, or governmental entity;
+&emsp;(14) the term “other programming service” means information that a cable operator makes available to all subscribers generally;
 
-&emsp;(15) the term “public, educational, or governmental access facilities” means—
+&emsp;(15) the term “person” means an individual, partnership, association, joint stock company, trust, corporation, or governmental entity;
+
+&emsp;(16) the term “public, educational, or governmental access facilities” means—
 
 &emsp;&emsp;(A) channel capacity designated for public, educational, or governmental use; and
 
 &emsp;&emsp;(B) facilities and equipment for the use of such channel capacity;
 
-&emsp;(16) the term “service tier” means a category of cable service or other services provided by a cable operator and for which a separate rate is charged by the cable operator;
+&emsp;(17) the term “service tier” means a category of cable service or other services provided by a cable operator and for which a separate rate is charged by the cable operator;
 
-&emsp;(17) the term “State” means any State, or political subdivision, or agency thereof;
+&emsp;(18) the term “State” means any State, or political subdivision, or agency thereof;
 
-&emsp;(18) the term “usable activated channels” means activated channels of a cable system, except those channels whose use for the distribution of broadcast signals would conflict with technical and safety regulations as determined by the Commission; and
+&emsp;(19) the term “usable activated channels” means activated channels of a cable system, except those channels whose use for the distribution of broadcast signals would conflict with technical and safety regulations as determined by the Commission; and
 
-&emsp;(19) the term “video programming” means programming provided by, or generally considered comparable to programming provided by, a television broadcast station.
+&emsp;(20) the term “video programming” means programming provided by, or generally considered comparable to programming provided by, a television broadcast station.
 
-(June 19, 1934, ch. 652, title VI, §602, as added Oct. 30, 1984, Pub. L. 98–549, §2, 98 Stat. 2780; amended Oct. 5, 1992, Pub. L. 102–385, §2(c), 106 Stat. 1463.)
+(June 19, 1934, ch. 652, title VI, §602, as added Oct. 30, 1984, Pub. L. 98–549, §2, 98 Stat. 2780; amended Oct. 5, 1992, Pub. L. 102–385, §2(c), 106 Stat. 1463; Feb. 8, 1996, Pub. L. 104–104, title III, §§301(a), 302(b)(2), 110 Stat. 114, 124.)
 
 #### Amendments
+
+1996—Par. (6)(B). Pub. L. 104–104, §301(a)(1), inserted “or use” after “the selection”.
+
+Par. (7)(B). Pub. L. 104–104, §301(a)(2), added subpar. (B) and struck out former subpar. (B) which read as follows: “a facility that serves only subscribers in 1 or more multiple unit dwellings under common ownership, control, or management, unless such facility or facilities uses any public right-of-way;”.
+
+Par. (7)(C) to (E). Pub. L. 104–104, §302(b)(2)(A), which directed substitution of “, unless the extent of such use is solely to provide interactive on-demand services; (D) an open video system that complies with section 573 of this title; or (E)” for “, or (D)”, was executed by making the substitution for “; or (D)” to reflect the probable intent of Congress.
+
+Pars. (12) to (20). Pub. L. 104–104, §302(b)(2)(B), (C), added par. (12) and redesignated former pars. (12) to (19) as (13) to (20), respectively.
 
 1992—Pub. L. 102–385 added pars. (1), (12), and (18) and redesignated former pars. (1) to (10) as (2) to (11), respectively, former pars. (11) to (15) as (13) to (17), respectively, and former par. (16) as (19).
 
@@ -64,5 +74,5 @@ Section effective 60 days after Oct. 30, 1984, except where otherwise expressly 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 303a, 551, 554 of this title; title 17 section 114.
+This section is referred to in sections 153, 271, 303a, 551, 554, 571 of this title; title 17 section 114.
 

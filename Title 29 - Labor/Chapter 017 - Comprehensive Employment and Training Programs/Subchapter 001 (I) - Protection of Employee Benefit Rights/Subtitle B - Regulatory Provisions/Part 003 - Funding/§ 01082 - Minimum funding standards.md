@@ -278,7 +278,7 @@ Controlled group.—For purposes of clause (i), the term “controlled group” 
 
 (12)
 
-Anticipation of benefit increases effective in the future.—In determining projected benefits, the funding method of a collectivelybargained plan described in section 413(a) of title 26 (other than a multiemployer plan) shall anticipate benefit increases scheduled to take effect during the term of the collective bargaining agreement applicable to the plan.
+Anticipation of benefit increases effective in the future.—In determining projected benefits, the funding method of a collectively bargained plan described in section 413(a) of title 26 (other than a multiemployer plan) shall anticipate benefit increases scheduled to take effect during the term of the collective bargaining agreement applicable to the plan.
 
 #### (d) Additional funding requirements for plans which are not multiemployer plans
 
@@ -332,7 +332,7 @@ Anticipation of benefit increases effective in the future.—In determining proj
 
 #### (ii) Unfunded existing benefit increase liabilities
 
-&emsp;&emsp;&emsp;For purposes of clause (i), the unfunded existing benefit increase liability means, with respect to any benefit increase under the agreements described in clause (i) which takes effect during or after the 1st plan year beginning after December 31, 1987, the unfunded current liability determined—
+&emsp;&emsp;&emsp;For purposes of clause (i), the unfunded existing benefit increase liability means, with respect to any benefit increase under the agreements described in clause (i) which takes effect during or after the 1stplan year beginning after December 31, 1987, the unfunded current liability determined—
 
 &emsp;&emsp;&emsp;&emsp;(I) by taking into account only liabilities attributable to such benefit increase, and
 
@@ -482,7 +482,7 @@ Anticipation of benefit increases effective in the future.—In determining proj
 
 #### (D) Special rule for first year of amortization
 
-&emsp;&emsp;Unless the employer elects otherwise, the amount determined under subparagraph (A)for the plan year in which the event occurs shall be equal to 150 percent of the amount determined under subparagraph (A)(i). The amount under subparagraph (A)(ii) for subsequent plan years in the amortization period shall be adjusted in the manner provided by the Secretary of the Treasury to reflect the application of this subparagraph.
+&emsp;&emsp;Unless the employer elects otherwise, the amount determined under subparagraph (A) for the plan year in which the event occurs shall be equal to 150 percent of the amount determined under subparagraph (A)(i). The amount under subparagraph (A)(ii) for subsequent plan years in the amortization period shall be adjusted in the manner provided by the Secretary of the Treasury to reflect the application of this subparagraph.
 
 #### (E) Limitation
 
@@ -554,19 +554,19 @@ Anticipation of benefit increases effective in the future.—In determining proj
 
 &emsp;&emsp;&nbsp;1995
 
-109&nbsp;
+109&nbsp;&nbsp;
 
 &emsp;&emsp;&nbsp;1996
 
-108&nbsp;
+108&nbsp;&nbsp;
 
 &emsp;&emsp;&nbsp;1997
 
-107&nbsp;
+107&nbsp;&nbsp;
 
 &emsp;&emsp;&nbsp;1998
 
-106&nbsp;
+106&nbsp;&nbsp;
 
 &emsp;&emsp;&nbsp;1999 and thereafter
 
@@ -594,7 +594,7 @@ Anticipation of benefit increases effective in the future.—In determining proj
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;In the case of plan years beginning after December 31, 1995, the Secretary ofthe Treasury shall establish mortality tables which may be used (in lieu of the tables under clause (ii)) to determine current liability under this subsection for individuals who are entitled to benefits under the plan on account of disability. Such Secretary shall establish separate tables for individuals whose disabilities occur in plan years beginning before January 1, 1995, and for individuals whose disabilities occur in plan years beginning on or after such date.
+&emsp;&emsp;&emsp;&emsp;In the case of plan years beginning after December 31, 1995, the Secretary of the Treasury shall establish mortality tables which may be used (in lieu of the tables under clause (ii)) to determine current liability under this subsection for individuals who are entitled to benefits under the plan on account of disability. Such Secretary shall establish separate tables for individuals whose disabilities occur in plan years beginning before January 1, 1995, and for individuals whose disabilities occur in plan years beginning on or after such date.
 
 #### (II) Special rule for disabilities occurring after 1994
 
@@ -778,27 +778,27 @@ Anticipation of benefit increases effective in the future.—In determining proj
 
 &emsp;&emsp;&nbsp;&nbsp;1995
 
-3&nbsp;
+3&nbsp;&nbsp;
 
 &emsp;&emsp;&nbsp;&nbsp;1996
 
-6&nbsp;
+6&nbsp;&nbsp;
 
 &emsp;&emsp;&nbsp;&nbsp;1997
 
-9&nbsp;
+9&nbsp;&nbsp;
 
 &emsp;&emsp;&nbsp;&nbsp;1998
 
-12&nbsp;
+12&nbsp;&nbsp;
 
 &emsp;&emsp;&nbsp;&nbsp;1999
 
-15&nbsp;
+15&nbsp;&nbsp;
 
 &emsp;&emsp;&nbsp;&nbsp;2000
 
-19&nbsp;
+19&nbsp;&nbsp;
 
 &emsp;&emsp;&nbsp;&nbsp;2001
 
@@ -828,7 +828,7 @@ Anticipation of benefit increases effective in the future.—In determining proj
 
 #### (II) Plans initially under clause (i)
 
-&emsp;&emsp;&emsp;&emsp;In the case of a plan which (but for this subclause) has an initial funded current liability percentage of 75 percent or less,clause (ii) (and not clause (i)) shall apply to such plan with respect to applicable plan years beginning after the first applicable plan year for which the sum of the initial funded current liability percentage and the applicable number of percentage points (determined under clause (i)) exceeds 75 percent. For purposes of applying clause (ii) to such a plan, the initial funded current liability percentage of such plan shall be treated as being the sum referred to in the preceding sentence.
+&emsp;&emsp;&emsp;&emsp;In the case of a plan which (but for this subclause) has an initial funded current liability percentage of 75 percent or less, clause (ii) (and not clause (i)) shall apply to such plan with respect to applicable plan years beginning after the first applicable plan year for which the sum of the initial funded current liability percentage and the applicable number of percentage points (determined under clause (i)) exceeds 75 percent. For purposes of applying clause (ii) to such a plan, the initial funded current liability percentage of such plan shall be treated as being the sum referred to in the preceding sentence.
 
 #### (C) Definitions
 
@@ -1035,7 +1035,7 @@ Anticipation of benefit increases effective in the future.—In determining proj
 
 #### (B) Short plan year
 
-&emsp;&emsp;This section shall be applied to plan years of less than 12 months in accordance withregulations prescribed by the Secretary of the Treasury.
+&emsp;&emsp;This section shall be applied to plan years of less than 12 months in accordance with regulations prescribed by the Secretary of the Treasury.
 
 #### (f) Imposition of lien where failure to make required contributions
 

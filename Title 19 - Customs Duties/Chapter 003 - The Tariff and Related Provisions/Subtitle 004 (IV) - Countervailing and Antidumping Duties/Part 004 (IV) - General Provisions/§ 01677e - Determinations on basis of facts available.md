@@ -38,7 +38,7 @@ When the administering authority or the Commission relies on secondary informati
 
 #### Amendments
 
-1994—Pub. L. 103–465 amended section generally, substituting present provisions for provisions relating toverification of information, certification of submissions, and determinations required to be made on best information available.
+1994—Pub. L. 103–465 amended section generally, substituting present provisions for provisions relating to verification of information, certification of submissions, and determinations required to be made on best information available.
 
 1988—Subsec. (a). Pub. L. 100–418, §1331(1), (3), added subsec. (a). Former subsec. (a) redesignated (b).
 

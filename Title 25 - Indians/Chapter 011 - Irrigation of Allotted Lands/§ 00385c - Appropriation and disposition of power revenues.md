@@ -14,5 +14,5 @@ Section was formerly classified to section 725s–3 of Title 31 prior to the gen
 
 #### Transfer of Functions
 
-All functions vested by law (including reorganization plan) in Bureau of the Budget or Director of Bureau of the Budget transferred to President by section 101 of Reorg. Plan No. 2 of 1970, eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2085. Section 102 of Reorg. Plan No. 2 of 1970, redesignated Bureau of the Budget as Office of Management and Budget.
+All functions vested by law (including reorganization plan) in Bureau of the Budget or Director of Bureau ofthe Budget transferred to President by section 101 of Reorg. Plan No. 2 of 1970, eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2085. Section 102 of Reorg. Plan No. 2 of 1970, redesignated Bureau of the Budget as Office of Management and Budget.
 

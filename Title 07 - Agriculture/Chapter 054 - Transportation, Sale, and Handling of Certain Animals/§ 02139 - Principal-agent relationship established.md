@@ -1,6 +1,6 @@
 ### §2139. Principal-agent relationship established
 
-When construing or enforcing the provisions of this chapter, the act, omission, or failure of any person acting for or employed by a research facility, a dealer, or an exhibitor or a person licensed as a dealer or an exhibitor pursuant to the second sentence of section 2133 of this title, or an operator of an auction sale subject to section 2142 of this title, or an intermediate handler, or a carrier, within the scope of his employment or office, shall be deemed the act, omission, or failure of such research facility, dealer, exhibitor, licensee, operator of an auction sale, intermediate handler, or carrier, as well as of such person.
+When construing or enforcing the provisions of this chapter, the act, omission, or failure of anyperson acting for or employed by a research facility, a dealer, or an exhibitor or a person licensed as a dealer or an exhibitor pursuant to the second sentence of section 2133 of this title, or an operator of an auction sale subject to section 2142 of this title, or an intermediate handler, or a carrier, within the scope of his employment or office, shall be deemed the act, omission, or failure of such research facility, dealer, exhibitor, licensee, operator of an auction sale, intermediate handler, or carrier, as well as of such person.
 
 (Pub. L. 89–544, §9, Aug. 24, 1966, 80 Stat. 351; Pub. L. 91–579, §10, Dec. 24, 1970, 84 Stat. 1562; Pub. L. 94–279, §7, Apr. 22, 1976, 90 Stat. 418.)
 

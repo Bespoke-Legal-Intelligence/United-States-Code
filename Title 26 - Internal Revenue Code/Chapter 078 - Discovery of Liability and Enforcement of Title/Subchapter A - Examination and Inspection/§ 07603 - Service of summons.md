@@ -78,5 +78,5 @@ Penalties applicable to violation of this section, see section 7210 of this titl
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 6038A, 6038C, 7210, 7604, 7609 of this title.
+This section is referred to in sections 6038A, 6038C, 6048, 7210, 7604, 7609 of this title.
 

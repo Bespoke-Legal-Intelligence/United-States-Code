@@ -1,6 +1,6 @@
 ### §2154. International atomic pool
 
-The President is authorized to enter into an international arrangement with a group of nations providing for international cooperation in the nonmilitary applications of atomic energy and he may thereafter cooperate with that group of nations pursuant to sections 2074(a), 2077, 2094, 2112, 2133, 2134, or 2164(a) of this title: <i>Provided, however,</i> That the cooperation is undertaken pursuant to an agreement for cooperation entered into in accordance with section 2153 of this title.
+The President is authorized to enter into an international arrangement with a group of nations providing for international cooperation in the nonmilitary applications of atomic energy and he may thereafter cooperate with that group of nations pursuant to sections 2074(a), 2077, 2094, 2112, 2133, 2134, or 2164(a) of this title: <i>Provided, however</i>, That the cooperation is undertaken pursuant to an agreement for cooperation entered into in accordance with section 2153 of this title.
 
 (Aug. 1, 1946, ch. 724, title I, §124, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 940; amended Aug. 17, 1974, Pub. L. 93–377, §5, 88 Stat. 475; renumbered title I, Oct. 24, 1992, Pub. L. 102–486, title IX, §902(a)(8), 106 Stat. 2944.)
 

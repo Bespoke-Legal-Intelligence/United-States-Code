@@ -1,6 +1,6 @@
 ### §1092. Studies and demonstration projects relating to delivery of health and medical care
 
-(a)(1) The Secretary of Defense, in consultation with the other administering Secretaries, shall conduct studies and demonstration projects on the health care delivery system ofthe uniformed services with a view to improving the quality, efficiency, convenience, and cost effectiveness of providing health care services (including dental care services) under this title to members and former members and their dependents. Such studies and demonstration projects may include the following:
+(a)(1) The Secretary of Defense, in consultation with the other administering Secretaries, shall conduct studies and demonstration projects on the health care delivery system of the uniformed services with a view to improving the quality, efficiency, convenience, and cost effectiveness of providing health care services (including dental care services) under this title to members and former members and their dependents. Such studies and demonstration projects may include the following:
 
 &emsp;(A) Alternative methods of payment for health and medical care services.
 
@@ -32,6 +32,28 @@
 
 Section 933(b) of Pub. L. 98–94 provided that: “Section 1092 of title 10, United States Code, as added by subsection (a), shall take effect on October 1, 1983.”
 
+#### Demonstration Program To Train Military Medical Personnel in Civilian Shock Trauma Units
+
+Pub. L. 104–106, div. A, title VII, §744, Feb. 10, 1996, 110 Stat. 386, provided that:
+
+“(a)
+
+Demonstration Program.—(1) Not later than April 1, 1996, the Secretary of Defense shall implement a demonstration program to evaluate the feasibility of providing shock trauma training for military medical personnel through one or more public or nonprofit hospitals. The Secretary shall carry out the program pursuant to an agreement with such hospitals.
+
+“(2) Under the agreement with a hospital, the Secretary shall assign military medical personnel participating in the demonstration program to temporary duty in shock trauma units operated by the hospitals that are parties to the agreement.
+
+“(3) The agreement shall require, as consideration for the services provided by military medical personnel under the agreement, that the hospital provide appropriate care to members of the Armed Forces and to other persons whose care in the hospital would otherwise require reimbursement by the Secretary. The value of the services provided by the hospitals shall be at least equal to the value of the services provided by military medical personnel under the agreement.
+
+“(b)
+
+Termination of Program.—The authority of the Secretary of Defense to conduct the demonstration program under this section, and any agreement entered into under the demonstration program, shall expire on March 31, 1998.
+
+“(c)
+
+Report and Evaluation of Program.—(1) Not later than March 1 of each year in which the demonstration program is conducted under this section, the Secretary of Defense shall submit to Congress a report describing the scope and activities of the demonstration program during the preceding year.
+
+“(2) Not later than May 1, 1998, the Comptroller General of the United States shall submit to Congress a report evaluating the effectiveness of the demonstration program in providing shock trauma training for military medical personnel.”
+
 #### Demonstration Project on Management of Health Care in Catchment Areas and Other Demonstration Projects
 
 Pub. L. 100–180, div. A, title VII, §731, Dec. 4, 1987, 101 Stat. 1117, directed Secretary of Defense to conduct, beginning in fiscal year 1988 for at least two years, projects designed to demonstrate the alternative health care delivery system under which the commander of a medical facility of the uniformed services is responsible for all funding and all medical care of the covered beneficiaries in the catchment area of the facility and to conduct specific projects for the purpose of demonstrating alternatives to providing health care under the military health care system, directed Secretary not later than 60 days after Dec. 4, 1987, to submit to Congress a report that provides an outline and discussion of the manner in which the Secretary intends to structure and conduct each demonstration project and to develop and submit to Congress a methodology to be used in evaluating the results of the demonstration projects, and submit to Congress an interim report on each demonstration project after such project has been in effect for at least 12 months and a final report on each such project when each project is completed.
@@ -48,7 +70,7 @@ Requirement for Program.—(1) Not later than 120 days after the date of enactme
 
 &emsp;“(A) subject to paragraph (3), designate not less than 10 major military medical treatment facilities of the Department of Defense to furnish chiropractic care under the program; and
 
-&emsp;“(B) enter into agreements with such number of chiropractors as the Secretary determines sufficient for the purposes of the program to furnish chiropractic care at such facilities under the program.
+&emsp;“(B) enter into agreements with such number of chiropractors as the Secretary determines sufficientfor the purposes of the program to furnish chiropractic care at such facilities under the program.
 
 “(3) The Secretary may not designate under paragraph (2) any treatment facility that is located on a military installation scheduled for closure or realignment under a base closure law.
 

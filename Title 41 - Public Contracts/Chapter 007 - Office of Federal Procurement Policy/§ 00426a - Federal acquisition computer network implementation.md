@@ -68,7 +68,7 @@ Definitions.—In this section:
 
 &emsp;“(1) The term ‘simplified acquisition threshold’ has the meaning provided by section 4(11) of the Office of Federal Procurement Policy Act \[41 U.S.C. 403(11)\], as amended by section 4001.
 
-&emsp;“(2) The term ‘micro-purchase threshold’ has the meaning provided by section 32(g) of the Office of Federal Procurement Policy Act \[41 U.S.C. 428(g)\], as added by section 4301.
+&emsp;“(2) The term ‘micro-purchase threshold’ has the meaning provided by section 32(g) \[now 32(f)\] of the Office of Federal Procurement Policy Act \[41 U.S.C. 428(f)\], as added by section 4301.
 
 &emsp;“(3) The term ‘full FACNET capability’ has the meaning described in section 30A(d) of the Office of Federal Procurement Policy Act \[41 U.S.C. 426a(d)\], as added by section 9001(a).”
 

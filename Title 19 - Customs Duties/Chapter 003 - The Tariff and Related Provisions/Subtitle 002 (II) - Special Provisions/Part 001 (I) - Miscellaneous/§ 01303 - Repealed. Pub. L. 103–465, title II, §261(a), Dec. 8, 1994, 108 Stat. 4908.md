@@ -22,7 +22,7 @@ Continuing effect of legal documents.—All orders, determinations, and other ad
 
 &emsp;&emsp;“(B) which are in effect on the effective date of this title \[Jan. 1, 1995, see Effective Date of 1994 Amendment note set out under section 1671 of this title\], or were final before such date and are to become effective on or after such date,
 
-> &emsp;shall continue in effect according to their terms until modified, terminated, superseded, set aside, or revoked in accordance with law by the administering authority, the International Trade Commission, or a court of competent jurisdiction, or by operation of law. Except as provided in paragraph (3), such orders or determinations shall be subject to review under section 751 of the Tariff Act of 1930 \[19 U.S.C. 1675\] and, to the extent applicable, investigation under section 753 of such Act \[19 U.S.C. 1675b\] (as added by this title).
+> &emsp;shall continue in effect according to their terms until modified, terminated, superseded, set aside, or revoked in accordance with law by the administering authority, the International Trade Commission, or a court of competent jurisdiction, or by operation of law. Except as provided in paragraph (3), such orders or determinations shall be subject to review undersection 751 of the Tariff Act of 1930 \[19 U.S.C. 1675\] and, to the extent applicable, investigation under section 753 of such Act \[19 U.S.C. 1675b\] (as added by this title).
 
 &emsp;“(2)
 

@@ -18,7 +18,7 @@
 
 &emsp;(1) to assure that each Federal department and agency conducting or supporting public works activities which affect the environment shall implement the policies established under existing law; and
 
-&emsp;(2) to authorize an Office of Environmental Quality, which, notwithstanding any other provision of law, shall provide the professionaland administrative staff for the Council on Environmental Quality established by Public Law 91–190.
+&emsp;(2) to authorize an Office of Environmental Quality, which, notwithstanding any other provision of law, shall provide the professional and administrative staff for the Council on Environmental Quality established by Public Law 91–190.
 
 (Pub. L. 91–224, title II, §202, Apr. 3, 1970, 84 Stat. 114.)
 

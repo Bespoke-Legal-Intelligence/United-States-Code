@@ -64,7 +64,7 @@ Provisions of this title governing appointments and other personnel actions in t
 
 #### Amendments
 
-<b>1989</b>—Subsec. (a)(5)(E). Pub. L. 101–194 added subpar. (E).
+1989—Subsec. (a)(5)(E). Pub. L. 101–194 added subpar. (E).
 
 #### Effective Date of 1989 Amendment
 

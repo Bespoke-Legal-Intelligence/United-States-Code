@@ -58,7 +58,7 @@ For the purpose of this chapter—
 
 &emsp;(4) “service”, as used by paragraph (3) of this section, means service which is creditable under subchapter III of chapter 83 or chapter 84 of this title;
 
-&emsp;(5) “member of family” means the spouse of an employee or annuitant and an unmarrieddependent child under 22 years of age, including—
+&emsp;(5) “member of family” means the spouse of an employee or annuitant and an unmarried dependent child under 22 years of age, including—
 
 &emsp;&emsp;(A) an adopted child or recognized natural child; and
 
@@ -72,7 +72,7 @@ For the purpose of this chapter—
 
 &emsp;(8) “employee organization” means—
 
-&emsp;&emsp;(A) an association or other organization of employees which is national in scope, or in which membership is open to all employees of a Government agency who are eligible to enroll in a health benefits plan under this chapter and which, after December 31, 1978, and before January 1, 1980, applied to the Office for approval of a plan provided under section 8903(3) of this title; and
+&emsp;&emsp;(A) an association or other organization of employees which is national in scope, or in which membership is open to all employees of a Government agency who are eligible to enroll in a health benefits plan under thischapter and which, after December 31, 1978, and before January 1, 1980, applied to the Office for approval of a plan provided under section 8903(3) of this title; and
 
 &emsp;&emsp;(B) an association or other organization which is national in scope, in which membership is open only to employees, annuitants, or former spouses, or any combination thereof, and which, during the 90-day period beginning on the date of enactment of section 8903a of this title, applied to the Office for approval of a plan provided under such section;
 
@@ -112,7 +112,9 @@ Act
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 5 U.S.C. 3001.
 
@@ -170,15 +172,15 @@ The date of enactment of section 8903a of this title, referred to in par. (8)(B)
 
 #### Amendments
 
-<b>1992</b>—Par. (3)(A)(iv). Pub. L. 102–378, §2(75)(A), substituted “8347(q)(2)” for “8347(p)(2)”.
+1992—Par. (3)(A)(iv). Pub. L. 102–378, §2(75)(A), substituted “8347(q)(2)” for “8347(p)(2)”.
 
 Par. (10)(C)(ii). Pub. L. 102–378, §2(75)(B), inserted comma after “8341(h)”.
 
-<b>1990</b>—Par. (3)(A)(iv). Pub. L. 101–508 added cl. (iv).
+1990—Par. (3)(A)(iv). Pub. L. 101–508 added cl. (iv).
 
-<b>1988</b>—Par. (1)(H), (I). Pub. L. 100–679 added subpars. (H) and (I).
+1988—Par. (1)(H), (I). Pub. L. 100–679 added subpars. (H) and (I).
 
-<b>1986</b>—Par. (1)(E). Pub. L. 99–335, §207(<i>l</i>)(1), amended subpar. (E) generally, substituting “first employed” for “employed” and inserting “before October 1, 1987”.
+1986—Par. (1)(E). Pub. L. 99–335, §207(<i>l</i>)(1), amended subpar. (E) generally, substituting “first employed” for “employed” and inserting “before October 1, 1987”.
 
 Par. (3)(A). Pub. L. 99–335, §207(<i>l</i>)(2), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “an employee who retires on an immediate annuity under subchapter III of chapter 83 of this title or another retirement system for employees of the Government, after 5 or more years of service or for disability”.
 
@@ -192,19 +194,19 @@ Par. (10)(C)(ii). Pub. L. 99–335, §207(<i>l</i>)(5), substituted “8345(j), 
 
 Par. (11). Pub. L. 99–251 added par. (11).
 
-<b>1985</b>—Par. (8). Pub. L. 99–53 amended par. (8) generally, designating existing provisions as subpar. (A) and adding subpar. (B).
+1985—Par. (8). Pub. L. 99–53 amended par. (8) generally, designating existing provisions as subpar. (A) and adding subpar. (B).
 
-<b>1984</b>—Par. (10). Pub. L. 98–615 added par. (10).
+1984—Par. (10). Pub. L. 98–615 added par. (10).
 
-<b>1980</b>—Par. (5). Pub. L. 96–179, §2(1), inserted “dependent” after “unmarried” in provisions preceding subpar. (A) and in provisions following subpar. (B), inserted “or recognized natural child” after “child” in subpar. (A), and substituted “or foster child but only if the child;” for “, foster child, or recognized natural child who” in subpar. (B).
+1980—Par. (5). Pub. L. 96–179, §2(1), inserted “dependent” after “unmarried” in provisions preceding subpar. (A) and in provisions following subpar. (B), inserted “or recognized natural child” after “child” in subpar. (A), and substituted “or foster child but only if the child;” for “, foster child, or recognized natural child who” in subpar. (B).
 
 Par. (9). Pub. L. 96–179, §2(2)–(4), added par. (9).
 
-<b>1979</b>—Par. (1). Pub. L. 96–70 in cl. (ii) substituted provisions relating to an individual who was an employee for the purpose of this chapter on Sept. 30, 1979, by reason of service in an Executive agency, United States Postal Service, or Smithsonian Institution in area which was then known as Canal Zone for provisions relating to Panama Canal Zone.
+1979—Par. (1). Pub. L. 96–70 in cl. (ii) substituted provisions relating to an individual who was an employee for the purpose of this chapter on Sept. 30, 1979, by reason of service in an Executive agency, United States Postal Service, or Smithsonian Institution in area which was then known as Canal Zone for provisions relating to Panama Canal Zone.
 
 Pub. L. 96–54 struck out cl. (G) which related to coverage of a United States Commissioner as an “employee”, and redesignated cl. (H) as (G).
 
-<b>1978</b>—Par. (1)(iv). Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission”.
+1978—Par. (1)(iv). Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission”.
 
 Par. (3)(A). Pub. L. 95–583 reduced period of service to 5 from 12 years.
 
@@ -212,9 +214,9 @@ Par. (8). Pub. L. 95–454 substituted “Office” for “Commission”.
 
 Pub. L. 95–368 substituted “after December 31, 1978, and before January 1, 1980” for “before January 1, 1964”.
 
-<b>1973</b>—Par. (1)(ii). Pub. L. 93–160 excluded from definition of “employee” persons who are not nationals of United States and whose permanent duty station is outside United States and Panama Canal Zone.
+1973—Par. (1)(ii). Pub. L. 93–160 excluded from definition of “employee” persons who are not nationals of United States and whose permanent duty station is outside United States and Panama Canal Zone.
 
-<b>1970</b>—Par. (1)(ii). Pub. L. 91–418, §3(b), excluded from definition of “employee” a noncitizen employee whose permanent duty station is outside Panama Canal Zone.
+1970—Par. (1)(ii). Pub. L. 91–418, §3(b), excluded from definition of “employee” a noncitizen employee whose permanent duty station is outside Panama Canal Zone.
 
 Par. (3)(B). Pub. L. 91–418, §2(a), redefined “annuitant” to be a member of a family who receives an immediate annuity as the survivor of an employee rather than as the survivor of an employee who dies after completing 5 or more years of service.
 
@@ -230,7 +232,7 @@ Amendment by section 2(75)(A) of Pub. L. 102–378 effective Nov. 5, 1990, and a
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–508 applicable with respect to any individual who, on or after Jan. 1, 1987, moves from employment in nonappropriated fund instrumentality of Department of Defense or CoastGuard, that is described in section 2105(c) of this title, to employment in Department or Coast Guard, that is not described in section 2105(c), or who moves from employment in Department or Coast Guard, that is not described in section 2105(c), to employment in nonappropriated fund instrumentality of Department or Coast Guard, that is described in section 2105(c), see section 7202(m)(1) of Pub. L. 101–508, set out as a note under section 2105 of this title.
+Amendment by Pub. L. 101–508 applicable with respect to any individual who, on or after Jan. 1, 1987, moves from employment in nonappropriated fund instrumentality of Department of Defense or Coast Guard, that is described in section 2105(c) of this title, to employment in Department or Coast Guard, that is not described in section 2105(c), or who moves from employment in Department or Coast Guard, that is not described in section 2105(c), to employment in nonappropriated fund instrumentality of Department or Coast Guard, that is described in section 2105(c), see section 7202(m)(1) of Pub. L. 101–508, set out as a note under section 2105 of this title.
 
 #### Effective Date of 1986 Amendments
 
@@ -310,7 +312,7 @@ Pub. L. 103–409, §5, Oct. 25, 1994, 108 Stat. 4232, provided that:
 
 Enrollment in Chapter 89
 
-Plan.—For purposes of the administration of chapter 89 of title 5, United States Code, any period of enrollment under a health benefits plan administered by the Office of the Comptroller of the Currency or the Office of Thrift Supervision before the termination of such plans on January7, 1995, shall be deemed to be a period of enrollment in a health benefits plan under chapter 89 of such title.
+Plan.—For purposes of the administration of chapter 89 of title 5, United States Code, any period of enrollment under a health benefits plan administered by the Office of the Comptroller of the Currency or the Office of Thrift Supervision before the termination of such plans on January 7, 1995, shall be deemed to be a period of enrollment in a health benefits plan under chapter 89 of such title.
 
 “(b)
 
@@ -334,7 +336,7 @@ Continued Coverage.—(1) Any individual who, on January 7, 1995, is covered by 
 
 “(c)
 
-Transfers to the Employees Health Benefits Fund.—The Office of the Comptroller of the Currency and the Office of Thrift Supervision shall transfer to the Employees Health Benefits Fund established under section 8909 of title 5, United States Code, amounts determined by the Director of the Office of Personnel Management, after consultation with the Office of the Comptroller of the Currency and the Office of Thrift Supervision, to be necessary to reimburse the Fund for the cost of providing benefits under this section not otherwise paid for by the individuals covered by this section. The amounts so transferred shall be held in the Fund and used by the Office in addition to amounts available under section 8906(g)(1) of such title.
+Transfers to the Employees Health Benefits Fund.—The Office of the Comptroller of the Currency and the Office of Thrift Supervision shall transfer to the Employees Health Benefits Fund established under section 8909 of title 5, United States Code, amounts determined by the Director of the Office of Personnel Management, after consultation with the Office of theComptroller of the Currency and the Office of Thrift Supervision, to be necessary to reimburse the Fund for the cost of providing benefits under this section not otherwise paid for by the individuals covered by this section. The amounts so transferred shall be held in the Fund and used by the Office in addition to amounts available under section 8906(g)(1) of such title.
 
 “(d)
 

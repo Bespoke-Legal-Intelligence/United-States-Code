@@ -8,7 +8,7 @@
 
 #### (A) Mutual assistance in law enforcement
 
-&emsp;&emsp;The law enforcement agencies of the United States and the Marshall Islands shall assist one another, as mutually agreed, in the prevention and investigation of crimes and the enforcement of the laws of the United States and the Marshall Islands specified in subparagraph (C) of this paragraph. The United States and the Marshall Islandswill authorize mutual assistance with respect to investigations, inquiries, audits and related activities by the law enforcement agencies of both Governments in the United States and the Marshall Islands. In conducting activities authorized in accordance with this section, the United States and the Marshall Islands will act in accordance with the constitution and laws of the jurisdiction in which such activities are conducted.
+&emsp;&emsp;The law enforcement agencies of the United States and the Marshall Islands shall assist one another, as mutually agreed, in the prevention and investigation of crimes and the enforcement of the laws of the United States and the Marshall Islands specified in subparagraph (C) of this paragraph. The United States and the Marshall Islands will authorize mutual assistance with respect to investigations, inquiries, audits and related activities by the law enforcement agencies of both Governments in the United States and the Marshall Islands. In conducting activities authorized in accordance with this section, the United States and the Marshall Islands will act in accordance with the constitution and laws of the jurisdiction in which such activities are conducted.
 
 #### (B) Narcotics and control of illegal substances
 
@@ -34,7 +34,7 @@
 
 #### (1) Submission
 
-&emsp;Notwithstanding section 211(b) of the Compact, the President may agree to an effective date for the Compact pursuant to section 1901(b) of this title if the Government of the Marshall Islands agrees to submit economic development plans consistent with section 211(b) of the Compact to the Government of the United States for concurrence at intervals no greater than every 5 years for the duration of the Compact. Any capital construction project and any planned independent purchase of aircraft which is to be financed (directly or indirectly) through the use of funds provided under section 211 of the Compact shall be identified in the economic development plans.
+&emsp;Notwithstanding section 211(b) of the Compact, the President may agree to an effective date for the Compact pursuant to section 1901(b) of this title if the Government of the Marshall Islands agrees to submit economic development plans consistent with section 211(b) of the Compact to the Government ofthe United States for concurrence at intervals no greater than every 5 years for the duration of the Compact. Any capital construction project and any planned independent purchase of aircraft which is to be financed (directly or indirectly) through the use of funds provided under section 211 of the Compact shall be identified in the economic development plans.
 
 #### (2) United States Government review
 
@@ -54,7 +54,7 @@
 
 #### (c) Ejit
 
-(1) The President of the United States shall negotiate with the Government of the Marshall Islands an agreement whereby, without prejudice as to any claims which have been or may be asserted by any party as to rightful title and ownership of any lands on Ejit, the Government of the Marshall Islands shall assure that lands on Ejit used as of January 1, 1985, by the people of Bikini, will continue to be available without charge for their use, until such time as Bikini is restored and inhabitable and the continued useof Ejit is no longer necessary, unless a Marshall Islands court of competent jurisdiction finally determines that there are legal impediments to continued use of Ejit by the people of Bikini.
+(1) The President of the United States shall negotiate with the Government of the Marshall Islands an agreement whereby, without prejudice as to any claims which have been or may be asserted by any party as to rightful title and ownership of any lands on Ejit, the Government of the Marshall Islands shall assure that lands on Ejit used as of January 1, 1985, by the people of Bikini, will continue to be available without charge for their use, until such time as Bikini is restored and inhabitable and the continued use of Ejit is no longer necessary, unless a Marshall Islands court of competent jurisdiction finally determines that there are legal impediments to continued use of Ejit by the people of Bikini.
 
 (2) If the impediments described in paragraph (1) do arise, the United States will cooperate with the Government of the Marshall Islands in assisting any person adversely affected by such judicial determination to remain on Ejit, or in locating suitable and acceptable alternative lands for such person's use.
 
@@ -78,7 +78,7 @@
 
 (1) In furtherance of the purposes of Article I of the Subsidiary Agreement for Implementation of Section 177 of the Compact, the payment of the amount specified therein shall be made by the United States under Article I of the Agreement between the Government of the United States and the Government of the Marshall Islands for the Implementation of Section 177 of the Compact (hereafter in this subsection referred to as the “Section 177 Agreement”) only after the Government of the Marshall Islands has notified the President of the United States as to which investment management firm has been selected by such Government to act as Fund Manager under Article I of the Section 177 Agreement.
 
-(2) In the event that the President determines that an investment management firm selected by the Government of the Marshall Islands does not meet the requirements specified in Article I of the Section 177 Agreement, the United States shall invoke the conference and dispute resolution procedures of Article II of Title Four of the Compact. Pending the resolution of such a dispute and until a qualified Fund Manager has been designated, the Government of the Marshall Islands shall place the funds paid by the United States pursuant to Article I of the Section 177 Agreement into an interest-bearing escrow account. Upon designation of a qualified Fund Manager, all funds in the escrow account shall be transferred to the control of such Fund Manager for management pursuant to the Section 177 Agreement.
+(2) In the event that the President determines that an investment management firm selected by the Government of the Marshall Islands does not meet the requirements specified in Article Iof the Section 177 Agreement, the United States shall invoke the conference and dispute resolution procedures of Article II of Title Four of the Compact. Pending the resolution of such a dispute and until a qualified Fund Manager has been designated, the Government of the Marshall Islands shall place the funds paid by the United States pursuant to Article I of the Section 177 Agreement into an interest-bearing escrow account. Upon designation of a qualified Fund Manager, all funds in the escrow account shall be transferred to the control of such Fund Manager for management pursuant to the Section 177 Agreement.
 
 (3) If the Government of the Marshall Islands determines that some other investment firm should act as Fund Manager in place of the firm first (or subsequently) selected by such Government, the Government of the Marshall Islands shall so notify the President of the United States, identifying the firm selected by such Government to become Fund Manager, and the President shall proceed to evaluate the qualifications of such identified firm.
 
@@ -88,7 +88,7 @@
 
 #### (f) Nuclear test effects
 
-In approving the Compact, the Congress understands and intends that the peoples of Bikini, Enewetak, Rongelap, and Utrik, who were affected by the United States nuclear weapons testing program in the Marshall Islands, will receive the amounts of $75,000,000 (Bikini); $48,750,000 (Enewetak),<sup>2</sup> $37,500,000 (Rongelap);and $22,500,000 (Utrik), respectively, which amounts shall be paid out of proceeds from the fund established under Article I, section 1 of the subsidiary agreement for the implementation of section 177 of the Compact. The amounts specified in this subsection shall be in addition to any amounts which may be awarded to claimants pursuant to Article IV of the subsidiary agreement for the implementation of Section 177 of the Compact.
+In approving the Compact, the Congress understands and intends that the peoples of Bikini, Enewetak, Rongelap, and Utrik, who were affected by the United States nuclear weapons testing program in the Marshall Islands, will receive the amounts of $75,000,000 (Bikini); $48,750,000 (Enewetak),<sup>2</sup> $37,500,000 (Rongelap); and $22,500,000 (Utrik), respectively, which amounts shall be paid out of proceeds from the fund established under Article I, section 1 of the subsidiary agreement for the implementation of section 177 of the Compact. The amounts specified in this subsection shall be in addition to any amounts which may be awarded to claimants pursuant to Article IV of the subsidiary agreement for the implementation of Section 177 of the Compact.
 
 #### (g) Espousal provisions
 
@@ -112,7 +112,7 @@ In approving the Compact, the Congress understands and intends that the peoples 
 
 #### (3) Payments
 
-&emsp;Payments under this subsection shall be provided to such extent or in such amounts as are necessary for services and other assistance provided pursuant to this subsection. It is the sense of Congress that after the periods of time specified in paragraphs (1) and (2) of this subsection, consideration will be given to such additional funding for these programs as may be necessary.
+&emsp;Payments under this subsection shall be provided to such extent or in such amounts as are necessary for services and other assistanceprovided pursuant to this subsection. It is the sense of Congress that after the periods of time specified in paragraphs (1) and (2) of this subsection, consideration will be given to such additional funding for these programs as may be necessary.
 
 #### (i) Rongelap
 
@@ -152,7 +152,7 @@ Notwithstanding any other provision of law, the Secretary of the Treasury shall 
 
 #### (4) Resettlement of other location
 
-&emsp;In the event that the United States determines that within 25 years of January 14, 1986,the people of Enjebi cannot resettle Enjebi without exceeding the radiation standards set forth in paragraph (2) of this subsection, then the fund manager shall be directed by the trust instrument to distribute the Fund to the people of Enjebi for their resettlement at some other location in accordance with a plan, developed by the Enewetak Local Government Council and the people of Enjebi and concurred with by the Government of the Marshall Islands, to assure consistency with the government's overall economic development plan.
+&emsp;In the event that the United States determines that within 25 years of January 14, 1986, the people of Enjebi cannot resettle Enjebi without exceeding the radiation standards set forth in paragraph (2) of this subsection, then the fund manager shall be directed by the trust instrument to distribute the Fund to the people of Enjebi for their resettlement at some other location in accordance with a plan, developed by the Enewetak Local Government Council and the people of Enjebi and concurred with by the Government of the Marshall Islands, to assure consistency with the government's overall economic development plan.
 
 #### (5) Interest from Fund
 
@@ -254,7 +254,7 @@ In General.—Any earnings on, and distributions from, the Enjebi Community Trus
 
 “(b)
 
-Effective Date.—The provisions of subsection (a) shall apply to all taxable years whether beginning before, on, or after the date of the enactment of this Act \[Nov. 10, 1988\].”
+Effective Date.—The provisions of subsection (a) shall apply to all taxable years whether beginningbefore, on, or after the date of the enactment of this Act \[Nov. 10, 1988\].”
 
 #### Medical Care and Treatment and Environmental Research and Monitoring Program for Inhabitants of Bikini, etc., Atolls for Injury, Illness, or Condition Resulting From Nuclear Weapons Testing by United States; Implementation Plan and Report
 

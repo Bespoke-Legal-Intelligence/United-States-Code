@@ -1,6 +1,6 @@
 ### §1444. Authorization of appropriations
 
-For purposes of carrying out this subchapter, there are authorized to be appropriated $21,100,000 for fiscal year 1990, $24,650,000 for fiscal year 1991, $27,400,000 for fiscal year 1992, $30,200,000 for fiscal year 1993, and $33,200,000 for fiscal year 1994.
+For purposes of carrying out this subchapter, there are authorized to be appropriated $21,100,000 for fiscal year 1990, $24,650,000 for fiscal year 1991, $27,400,000 for fiscal year 1992,$30,200,000 for fiscal year 1993, and $33,200,000 for fiscal year 1994.
 
 (Pub. L. 91–230, title VI, §643, formerly §644, Apr. 13, 1970, 84 Stat. 186; Pub. L. 93–380, title VI, §619, Aug. 21, 1974, 88 Stat. 585; Pub. L. 95–49, §5, June 17, 1977, 91 Stat. 231; Pub. L. 98–199, §12, Dec. 2, 1983, 97 Stat. 1374; Pub. L. 99–457, title III, §314, Oct. 8, 1986, 100 Stat. 1171; renumbered §643 and amended Pub. L. 101–476, title V, §§503, 504, title IX, §901(b)(147), (148), Oct. 30, 1990, 104 Stat. 1138, 1149; Pub. L. 102–119, §25(b), Oct. 7, 1991, 105 Stat. 607.)
 
@@ -35,14 +35,4 @@ Amendment by Pub. L. 95–49 effective Oct. 1, 1977, see section 7 of Pub. L. 95
 #### Effective Date of 1974 Amendment
 
 Amendment by Pub. L. 93–380 effective on and after sixtieth day after Aug. 21, 1974, see section 2(c) of Pub. L. 93–380, set out as an Effective Date note under section 1221–1 of this title.
-
-### SUBCHAPTER VI—INSTRUCTIONAL
-
-### MEDIA FOR INDIVIDUALS
-
-### WITH DISABILITIES
-
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 1408, 1409, 1418, 1421, 1424a, 1491n of this title.
 

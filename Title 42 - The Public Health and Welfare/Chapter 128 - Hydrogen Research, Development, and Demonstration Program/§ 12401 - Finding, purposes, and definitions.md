@@ -8,7 +8,7 @@ Congress finds that it is in the national interest to accelerate efforts to deve
 
 The purposes of this chapter are—
 
-&emsp;(1) to direct the Secretary to prepare a comprehensive 5-year comprehensive program management plan that will identify and resolve critical technical issues necessary for the realization of a domestic capability to produce, distribute, and use hydrogen economically within the shortest time practicable;
+&emsp;(1) to direct the Secretary of Energy to conduct a research, development, and demonstration program leading to the production, storage, transport, and use of hydrogen for industrial, residential, transportation, and utility applications;
 
 &emsp;(2) to direct the Secretary to develop a technology assessment and information transfer program among the Federal agencies and aerospace, transportation, energy, and other entities; and
 
@@ -18,11 +18,23 @@ The purposes of this chapter are—
 
 As used in this chapter, the term:
 
-&emsp;(1) “critical technology” (or “critical technical issue”) means a technology (or issue) that, in the opinion of the Secretary, requires understanding and development in order to take the next needed step in the development of hydrogen as an economic fuel or storage medium; and
+&emsp;(1) “critical technology” (or “critical technical issue”) means a technology (or issue) that, in the opinion of the Secretary, requires understanding and development in order to take the next needed step in the development of hydrogen as an economic fuel or storage medium;
 
-&emsp;(2) “Secretary” means the Secretary of Energy.
+&emsp;(2) “Department” means the Department of Energy; and
 
-(Pub. L. 101–566, §102, Nov. 15, 1990, 104 Stat. 2797.)
+&emsp;(3) “Secretary” means the Secretary of Energy.
+
+(Pub. L. 101–566, §102, Nov. 15, 1990, 104 Stat. 2797; Pub. L. 104–271, title I, §101, Oct. 9, 1996, 110 Stat. 3304.)
+
+#### Amendments
+
+1996—Subsec. (b)(1). Pub. L. 104–271, §101(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “to direct the Secretary to prepare a comprehensive 5-year comprehensive program management plan that will identify and resolve critical technical issues necessary for the realization of a domestic capability to produce, distribute, and use hydrogen economically within the shortest time practicable;”.
+
+Subsec. (c). Pub. L. 104–271, §101(b), added par. (2) and redesignated former par. (2) as (3).
+
+#### Short Title of 1996 Amendment
+
+Section 1 of Pub. L. 104–271 provided that: “This Act \[enacting section 7238 of this title, amending this section and sections 12402 to 12405, 12407, 12408, and 13436 of this title, and enacting provisions set out as notes under sections 7238, 12403, and 13436 of this title\] may be cited as the ‘Hydrogen Future Act of 1996’.”
 
 #### Short Title
 

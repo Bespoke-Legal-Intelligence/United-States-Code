@@ -24,13 +24,13 @@
 
 (e) The Administrator may delegate any authority conferred by this section to another agency or agencies if the Administrator determines that such a delegation would be cost-effective or otherwise in the public interest.
 
-(f) Under regulations the head of an agency prescribes that conform with standards the Secretary of the Treasury and the Comptroller General prescribe jointly, a bill under this section may be paid before the transportation is completed notwithstanding section 3324 of this title when a carrier or freight forwarder issues the usual document for the transportation. Payment for transportation ordered but not provided may be recovered by deduction or other means.
+(f) Under regulations the head of an agency prescribes that conform with standards the Secretary of the Treasury prescribes, a bill under this section may be paid before the transportation is completed notwithstanding section 3324 of this title when a carrier or freight forwarder issues the usual document for the transportation. Payment for transportation ordered but not provided may be recovered by deduction or other means.
 
-(g)(1) A carrier or freight forwarder may request the Comptroller General to review the action of the Administrator if the request is received not later than 6 months (excluding time of war) after the Administrator acts or within the time stated in subsection (a) of this section, whichever is later.
+(g)(1) A carrier or freight forwarder may request the Administrator of General Services to review the action of the Administrator if the request is received not later than 6 months (excluding time of war) after the Administrator acts or within the time stated in subsection (a) of this section, whichever is later.
 
 (2) This section does not prevent the Comptroller General from conducting an audit under chapter 35 of this title.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 976; Pub. L. 98–443, §9(f), Oct. 4, 1984, 98 Stat. 1707; Pub. L. 99–627, §1, Nov. 7, 1986, 100 Stat. 3508; Pub. L. 103–123, title VI, §620A, Oct. 28, 1993, 107 Stat. 1265; Pub. L. 103–272, §§4(f)(1)(N), 5(i)(2), July 5,1994, 108 Stat. 1362, 1375; Pub. L. 103–429, §7(a)(3)(B), Oct. 31, 1994, 108 Stat. 4388; Pub. L. 104–88, title III, §306, Dec. 29, 1995, 109 Stat. 945.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 976; Pub. L. 98–443, §9(f), Oct. 4, 1984, 98 Stat. 1707; Pub. L. 99–627, §1, Nov. 7, 1986, 100 Stat. 3508; Pub. L. 103–123, title VI, §620A, Oct. 28, 1993, 107 Stat. 1265; Pub. L. 103–272, §§4(f)(1)(N), 5(i)(2), July 5, 1994, 108 Stat. 1362, 1375; Pub. L. 103–429, §7(a)(3)(B), Oct. 31, 1994, 108 Stat. 4388; Pub. L. 104–88, title III, §306, Dec. 29, 1995, 109 Stat. 945; Pub. L. 104–316, title II, §202(<i>o</i>), Oct. 19, 1996, 110 Stat. 3844.)
 
 Historical and Revision Notes
 
@@ -70,7 +70,7 @@ In the section, the words “Administrator of General Services” are substitute
 
 In subsection (a), before clause (1), the word “individual” is substituted for “persons” for consistency. The words “or on behalf of” are omitted as unnecessary. The words “for charges for transportation . . . the purview of” are omitted as surplus. In clause (1), the word “claim” is substituted for “cause of action thereon” for consistency. In clauses (2) and (3), the words “is made” are substituted for “of charges . . . involved” and “subsequent . . . of such charges” to eliminate unnecessary words.
 
-In subsection (b), before clause (1), the words “<i>Provided, however,</i> That such deductions shall be made” are omitted because of the restatement. The words “found to be” are omitted as surplus. The words “of any overcharge by any carrier or forwarder” and “The term ‘overcharges’ shall be deemed to mean . . . those applicable thereto” are omitted because of the restatement. The word “rate” is substituted for “charges for transportation services” and “rates, fares, and charges” for consistency with title 49. In clause (1), the word “authority” is substituted for “regulatory agency” for consistency. In clause (2), the words “established” and “contract . . . from regulation” are omitted as surplus.
+In subsection (b), before clause (1), the words “<i>Provided, however</i>, That such deductions shall be made” are omitted because of the restatement. The words “found to be” are omitted as surplus. The words “of any overcharge by any carrier or forwarder” and “The term ‘overcharges’ shall be deemed to mean . . . those applicable thereto” are omitted because of the restatement. The word “rate” is substituted for “charges for transportation services” and “rates, fares, and charges” for consistency with title 49. In clause (1), the word “authority” is substituted for “regulatory agency” for consistency. In clause (2), the words “established” and “contract . . . from regulation” are omitted as surplus.
 
 In subsection (c), the text of 31:244(d) and the words “Government”, “or his designee”, and “of the United States” are omitted as unnecessary. The words “under this section” are substituted for “for passenger or freight transportation services to be furnished the United States by any carrier or forwarder” to eliminate unnecessary words. The word “transportation” is substituted for “services” for consistency. The words “ticket, receipt, bill of lading, or equivalent . . . involved” and “as ordered by the United States” are omitted as surplus.
 
@@ -79,6 +79,10 @@ In subsection (d)(1), the words “may request” are substituted for “Nothing
 In subsection (d)(2), the words “Comptroller General” are substituted for “General Accounting Office” for consistency.
 
 #### Amendments
+
+1996—Subsec. (f). Pub. L. 104–316, §202(<i>o</i>)(1), substituted “Treasury prescribes” for “Treasury and the Comptroller General prescribe jointly”.
+
+Subsec. (g)(1). Pub. L. 104–316, §202(<i>o</i>)(2), substituted “Administrator of General Services” for “Comptroller General”.
 
 1995—Subsec. (b)(1). Pub. L. 104–88, §306(1), (2), substituted “under title 49 or on file with” for “on file with the Interstate Commerce Commission,” and struck out “or” after the semicolon at end.
 
@@ -114,10 +118,6 @@ Section 7(a) of Pub. L. 103–429 provided that the amendment made by that secti
 
 Amendment by Pub. L. 98–443 effective Jan. 1, 1985, see section 9(v) of Pub. L. 98–443, set out as a note under section 5314 of Title 5, Government Organization and Employees.
 
-#### Transfer of Functions
-
-Functions of Comptroller General under this section transferred, effective June 30, 1996, to Director of Office of Management and Budget, see section 211 of Pub. L. 104–53, set out as a note under section 501 of this title.
-
 #### Task Force
 
 Section 2 of Pub. L. 99–627 provided that:
@@ -142,5 +142,5 @@ Section 2 of Pub. L. 99–627 provided that:
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 3528 of this title; title 2 sections 142b, 142e, 142f; title 44 section 308; title 49 sections 11705, 14705, 15905.
+This section is referred to in section 3528 of this title; title 2 sections 142b, 142e, 142f, 142<i>l</i>; title 44 section 308; title 49 sections 11705, 14705, 15905.
 

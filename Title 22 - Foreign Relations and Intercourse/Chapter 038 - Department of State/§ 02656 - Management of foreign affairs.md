@@ -22,9 +22,27 @@ Exercise of authority available under this section by Director of United States 
 
 National Intelligence Authority and Central Intelligence Group, established by Presidential Directive, Feb. 1, 1946, 11 F.R. 1337, to coordinate Federal foreign intelligence activities, ceased to exist upon creation of Central Intelligence Agency; personnel, property and records of the group were transferred to the Agency; and unexpended funds of the group were made available to the Agency, by act July 26, 1947, ch. 343, title I, §102, 61 Stat. 497, set out as section 403 of Title 50, War and National Defense.
 
+#### Report to Congress on Activities of North Korean Armed Forces
+
+Pub. L. 104–208, div. A, title I, §101(c) \[title V, §585\], Sept. 30, 1996, 110 Stat. 3009–121, 3009–171, provided that: “Ninety days after the date of enactment of this Act \[Sept. 30, 1996\], and every 180 days thereafter, the Secretary of State, in consultation with the Secretary of Defense, shall provide a report in a classified or unclassified form to the Committee on Appropriations including the following information:
+
+&emsp;“(a) a best estimate on fuel used by the military forces of the Democratic People's Republic of Korea (DPRK);
+
+&emsp;“(b) the deployment position and military training and activities of the DPRK forces and best estimate of the associated costs of these activities;
+
+&emsp;“(c) steps taken to reduce the DPRK level of forces; and
+
+&emsp;“(d) cooperation, training, or exchanges of information, technology or personnel between the DPRK and any other nation supporting the development or deployment of a ballistic missile capability.”
+
 #### Reports to War Crimes Tribunal for Former Yugoslavia
 
-Pub. L. 103–306, title V, §575, Aug. 23, 1994, 108 Stat. 1653, provided in part: “That 60 days after the date of enactment of this Act \[Aug. 23, 1994\], and every 180 days thereafter, the Secretary of State shall submit a report to the Committees on Appropriations describing the steps the United States Government is taking to collect information regarding allegations of genocide or other violations of international law in the former Yugoslavia and to furnish that information to the United Nations War Crimes Tribunal for the former Yugoslavia.”
+Pub. L. 104–208, div. A, title I, §101(c) \[title V, §555\], Sept. 30, 1996, 110 Stat. 3009–121, 3009–160, provided in part: “That 60 days after the date of enactment of this Act \[Sept. 30, 1996\], and every 180 days thereafter, the Secretary of State shall submit a report to the Committees on Appropriations describing the steps the United States Government is taking to collect information regarding allegations of genocide or other violations of international law in the former Yugoslavia and to furnish that information to the United Nations War Crimes Tribunal for the former Yugoslavia.”
+
+Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 104–107, title V, §556, Feb. 12, 1996, 110 Stat. 743.
+
+Pub. L. 103–306, title V, §575, Aug. 23, 1994, 108 Stat. 1653.
 
 #### Reporting Requirements on Occupied Tibet
 
@@ -168,7 +186,7 @@ Pub. L. 100–202, §101(a) \[title III, §305\], Dec. 22, 1987, 101 Stat. 1329,
 
 #### Report to Congress on Soviet Breach of Duties Obligations to United States Diplomats or Missions
 
-Pub. L. 99–500, §101(b) \[title III, §300\], Oct. 18, 1986, 100 Stat. 1783–39, 1783–58, and Pub. L. 99–591, §101(b) \[title III, §300\], Oct. 30, 1986, 100 Stat. 3341–39, 3341–58, provided: “That beginning on February 1, 1987, the Secretary of State shall report every six months to the Speaker of the House of Representatives and the President of the Senate on any failures during the past six months by Soviet agencies to perform obligations to United States diplomats or United States missions to the Soviet Union and the actions undertaken by the Department of State to redress these failures.”
+Pub. L. 99–500, §101(b) \[title III, §300\], Oct. 18, 1986, 100 Stat. 1783–39, 1783–58, and Pub. L. 99–591, §101(b) \[titleIII, §300\], Oct. 30, 1986, 100 Stat. 3341–39, 3341–58, provided: “That beginning on February 1, 1987, the Secretary of State shall report every six months to the Speaker of the House of Representatives and the President of the Senate on any failures during the past six months by Soviet agencies to perform obligations to United States diplomats or United States missions to the Soviet Union and the actions undertaken by the Department of State to redress these failures.”
 
 #### Responsibility of United States Missions To Promote Freedom of Press Abroad
 
@@ -230,7 +248,7 @@ Pub. L. 98–164, title I, §134, Nov. 22, 1983, 97 Stat. 1029, provided that: �
 
 Pub. L. 97–241, title I, §103(b), (c), Aug. 24, 1982, 96 Stat. 273, as amended by Pub. L. 98–164, title I, §137, Nov. 22, 1983, 97 Stat. 1030; Pub. L. 103–236, title I, §139(8), Apr. 30, 1994, 108 Stat. 398, provided that:
 
-“(b) None of the funds made available under this \[Pub. L. 97–241\] or any other Act for ‘Administration of Foreign Affairs’ may be used for the establishment or operation of any United States consulate that did not exist on the date of enactment of this Act \[Aug. 24, 1982\] (other than the consulates specified in subsection (c)) until all the United States consulates specified in subsection (c) have been reopened as required by section 108 of the Department of State Authorization Act, Fiscal Years 1980 and 1981 \[section 108 of Pub. L. 96–60, set out as a note below\], to the extent such reopening is authorized by the foreign government involved.
+“(b) None of the funds made available under this \[Pub. L. 97–241\] or any other Act for ‘Administration of Foreign Affairs’ may be used for the establishment or operation of any United States consulate that did not exist on the date of enactment of this Act \[Aug. 24, 1982\] (other than the consulates specified in subsection (c)) until all the United States consulates specified insubsection (c) have been reopened as required by section 108 of the Department of State Authorization Act, Fiscal Years 1980 and 1981 \[section 108 of Pub. L. 96–60, set out as a note below\], to the extent such reopening is authorized by the foreign government involved.
 
 “(c) The consulates referred to in subsections (a) \[section 103(a) of Pub. L. 97–241, which was not classified to the Code\] and (b) of this section are the consulates in the following locations: Turin, Italy; Salzburg, Austria; Goteborg, Sweden; Bremen, Germany; Nice, France; Mandalay, Burma; and Brisbane, Australia.”
 

@@ -1,8 +1,20 @@
 ### §2107. Expatriation to avoid tax
 
-#### (a) Rate of tax
+#### (a) Treatment of expatriates
 
-A tax computed in accordance with the table contained in section 2001 is hereby imposed on the transfer of the taxable estate, determined as provided in section 2106, of every decedent nonresident not a citizen of the United States dying after November 13, 1966, if after March 8, 1965, and within the 10-year period ending with the date of death such decedent lost United States citizenship, unless such loss did not have for one of its principal purposes the avoidance of taxes under this subtitle or subtitle A.
+#### (1) Rate of tax
+
+&emsp;A tax computed in accordance with the table contained in section 2001 is hereby imposed on the transfer of the taxable estate, determined as provided in section 2106, of every decedent nonresident not a citizen of the United States if, within the 10-year period ending with the date of death, such decedent lost United States citizenship, unless such loss did not have for one of its principal purposes the avoidance of taxes under this subtitle or subtitle A.
+
+#### (2) Certain individuals treated as having tax avoidance purpose
+
+#### (A) In general
+
+&emsp;&emsp;For purposes of paragraph (1), an individual shall be treated as having a principal purpose to avoid such taxes if such individual is so treated under section 877(a)(2).
+
+#### (B) Exception
+
+&emsp;&emsp;Subparagraph (A) shall not apply to a decedent meeting the requirements of section 877(c)(1).
 
 #### (b) Gross estate
 
@@ -10,7 +22,11 @@ For purposes of the tax imposed by subsection (a), the value of the gross estate
 
 &emsp;(1) if such decedent owned (within the meaning of section 958(a)) at the time of his death 10 percent or more of the total combined voting power of all classes of stock entitled to vote of a foreign corporation, and
 
-&emsp;(2) if such decedent owned (within the meaning of section 958(a)), or is considered to have owned (by applying the ownership rules of section 958(b)), at the time of his death, more than 50 percent of the total combined voting power of all classes of stock entitled to vote of such foreign corporation,
+&emsp;(2) if such decedent owned (within the meaning of section 958(a)), or is considered to have owned (by applying the ownership rules of section 958(b)), at the time of his death, more than 50 percent of—
+
+&emsp;&emsp;(A) the total combined voting power of all classes of stock entitled to vote of such corporation, or
+
+&emsp;&emsp;(B) the total value of the stock of such corporation,
 
 > then that proportion of the fair market value of the stock of such foreign corporation owned (within the meaning of section 958(a)) by such decedent at the time of his death, which the fair market value of any assets owned by such foreign corporation and situated in the United States, at the time of his death, bears to the total fair market value of all assets owned by such foreign corporation at the time of his death, shall be included in the gross estate of such decedent. For purposes of the preceding sentence, a decedent shall be treated as owning stock of a foreign corporation at the time of his death if, at the time of a transfer, by trust or otherwise, within the meaning of sections 2035 to 2038, inclusive, he owned such stock.
 
@@ -26,31 +42,67 @@ For purposes of the tax imposed by subsection (a), the value of the gross estate
 
 &emsp;&emsp;The credit allowed under this paragraph shall not exceed the amount of the tax imposed by subsection (a).
 
-#### (2) Other credits
+#### (2) Credit for foreign death taxes
+
+#### (A) In general
+
+&emsp;&emsp;The tax imposed by subsection (a) shall be credited with the amount of any estate, inheritance, legacy, or succession taxes actually paid to any foreign country in respect of any property which is included in the gross estate solely by reason of subsection (b).
+
+#### (B) Limitation on credit
+
+&emsp;&emsp;The credit allowed by subparagraph (A) for such taxes paid to a foreign country shall not exceed the lesser of—
+
+&emsp;&emsp;&emsp;(i) the amount which bears the same ratio to the amount of such taxes actually paid to such foreign country in respect of property included in the gross estate as the value of the property included in the gross estate solely by reason of subsection (b) bears to the value of all property subjected to such taxes by such foreign country, or
+
+&emsp;&emsp;&emsp;(ii) such property's proportionate share of the excess of—
+
+&emsp;&emsp;&emsp;&emsp;(I) the tax imposed by subsection (a), over
+
+&emsp;&emsp;&emsp;&emsp;(II) the tax which would be imposed by section 2101 but for this section.
+
+#### (C) Proportionate share
+
+&emsp;&emsp;For purposes of subparagraph (B), a property's proportionate share is the percentage of the value of the property which is included in the gross estate solely by reason of subsection (b) bears to the total value of the gross estate.
+
+#### (3) Other credits
 
 &emsp;The tax imposed by subsection (a) shall be credited with the amounts determined in accordance with subsections (a) and (b) of section 2102. For purposes of subsection (a) of section 2102, sections 2011 to 2013, inclusive, shall be applied as if the credit allowed under paragraph (1) were allowed under section 2010.
 
-#### (d) Exception for loss of citizenship for certain causes
-
-Subsection (a) shall not apply to the transfer of the estate of a decedent whose loss of United States citizenship resulted from the application of section 301(b), 350, or 355 <sup>1</sup> of the Immigration and Nationality Act, as amended (8 U.S.C. 1401(b), 1482, or 1487).
-
-#### (e) Burden of proof
+#### (d) Burden of proof
 
 If the Secretary establishes that it is reasonable to believe that an individual's loss of United States citizenship would, but for this section, result in a substantial reduction in the estate, inheritance, legacy, and succession taxes in respect of the transfer of his estate, the burden of proving that such loss of citizenship did not have for one of its principal purposes the avoidance of taxes under this subtitle or subtitle A shall be on the executor of such individual's estate.
 
-(Added Pub. L. 89–809, title I, §108(f), Nov. 13, 1966, 80 Stat. 1573; amended Pub. L. 94–455, title XIX, §§1902(a)(6), 1906(b)(13)(A), title XX, §2001(c)(1)(E)(ii), Oct. 4, 1976, 90 Stat. 1805, 1834, 1851.)
+#### (e) Cross reference
 
-#### References in Text
+&emsp;&emsp;<b>For comparable treatment of long-term lawful permanent residents who ceased to be taxed as residents, see section 877(e).</b>
 
-Sections 301(b), 350, and 355 of the Immigration and Nationality Act, as amended (8 U.S.C. 1401(b), 1482, 1487), referred to in subsec. (d), were repealed by Pub. L. 95–432, §§1, 2, Oct. 10, 1978, 92 Stat. 1046.
+(Added Pub. L. 89–809, title I, §108(f), Nov. 13, 1966, 80 Stat. 1573; amended Pub. L. 94–455, title XIX, §§1902(a)(6), 1906(b)(13)(A), title XX, §2001(c)(1)(E)(ii), Oct. 4, 1976, 90 Stat. 1805, 1834, 1851; Pub. L. 104–191, title V, §511(e)(1), (f)(2)(A), Aug. 21, 1996, 110 Stat. 2097, 2099.)
 
 #### Amendments
+
+1996—Subsec. (a). Pub. L. 104–191, §511(e)(1)(A), substituted “Treatment of expatriates” for “Rate of tax” in heading and amended text generally. Prior to amendment, text read as follows: “A tax computed in accordance with the table contained in section 2001 is hereby imposed on the transfer of the taxable estate, determined as provided in section 2106, of every decedent nonresident not a citizen of the United States dying after November 13, 1966, if after March 8, 1965, and within the 10-year period ending with the date of death such decedent lost United States citizenship, unless such loss did not have for one of its principal purposes the avoidance of taxes under this subtitle or subtitle A.”
+
+Subsec. (b)(2). Pub. L. 104–191, §511(e)(1)(C), substituted “more than 50 percent of—” for “more than 50 percent of the total combined voting power of all classes of stock entitled to vote of such foreign corporation,” and added subpars. (A) and (B).
+
+Subsec. (c)(2), (3). Pub. L. 104–191, §511(e)(1)(B), added par. (2) and redesignated former par. (2) as (3).
+
+Subsec. (d). Pub. L. 104–191, §511(f)(2)(A), redesignated subsec. (e) as (d) and struck out former subsec. (d) which read as follows:
+
+“(d)
+
+Exception for Loss of Citizenship for Certain Causes.—Subsection (a) shall not apply to the transfer of the estate of a decedent whose loss of United States citizenship resulted from the application of section 301(b), 350, or 355 of the Immigration and Nationality Act, as amended (8 U.S.C. 1401(b), 1482, or 1487).”
+
+Subsec. (e). Pub. L. 104–191, §511(f)(2)(A), added subsec. (e). Former subsec. (e) redesignated (d).
 
 1976—Subsec. (a). Pub. L. 94–455, §1902(a)(6), substituted “November 13, 1966” for “the date of enactment of this section” after “dying after”.
 
 Subsec. (c). Pub. L. 94–455, §2001(c)(1)(E)(ii), substituted provisions relating to unified credit for “The tax imposed by subsection (a) shall be credited with the amounts determined in accordance with section 2102.”
 
 Subsec. (e). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–191 applicable to individuals losing United States citizenship on or after Feb. 6, 1995, and to long-term residents of the United States with respect to whom an event described in section 877(e)(1)(A) or (B) of this title occurs on or after Feb. 6, 1995, with special rule for certain individuals who performed an act of expatriation specified in section 1481(a)(1)–(4) of Title 8, Aliens and Nationality, before Feb. 6, 1995, see section 511(g) of Pub. L. 104–191, set out as a note under section 877 of this title.
 
 #### Effective Date of 1976 Amendment
 
@@ -64,7 +116,5 @@ Section applicable with respect to estates of decedents dying after Nov. 13, 196
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 2101 of this title.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+This section is referred to in sections 877, 2101 of this title.
 

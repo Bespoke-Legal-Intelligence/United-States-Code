@@ -44,7 +44,7 @@ For purposes of this section, the term “applicable percentage” means the per
 
 &emsp;With respect to each qualified zone employee, the amount of qualified zone wages which may be taken into account for a calendar year shall not exceed $15,000.
 
-#### (3) Coordination with targeted jobs credit
+#### (3) Coordination with work opportunity credit
 
 #### (A) In general
 
@@ -104,11 +104,19 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) by reason of a mere change in the form of conducting the trade or business of the taxpayer if the employee continues to be employed in such trade or business and the taxpayer retains a substantial interest in such trade or business.
 
-(Added Pub. L. 103–66, title XIII, §13301(a), Aug. 10, 1993, 107 Stat. 549.)
+(Added Pub. L. 103–66, title XIII, §13301(a), Aug. 10, 1993, 107 Stat. 549; amended Pub. L. 104–188, title I, §1201(e)(4), Aug. 20, 1996, 110 Stat. 1772.)
 
 #### Prior Provisions
 
 A prior section 1396, added Pub. L. 95–600, title VI, §601(a), Nov. 6, 1978, 92 Stat. 2895; amended Pub. L. 96–595, §3(a)(6), (9), (10), Dec. 24, 1980, 94 Stat. 3465, related to minimum distributions by an electing general stock ownership corporation, prior to repeal by Pub. L. 99–514, title XIII, §1303(a), Oct. 22, 1986, 100 Stat. 2658.
+
+#### Amendments
+
+1996—Subsec. (c)(3). Pub. L. 104–188 substituted “work opportunity credit” for “targeted jobs credit” in heading.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–188 applicable to individuals who begin work for the employer after Sept. 30, 1996, see section 1201(g) of Pub. L. 104–188, set out as a note under section 38 of this title.
 
 #### Section Referred to in Other Sections
 

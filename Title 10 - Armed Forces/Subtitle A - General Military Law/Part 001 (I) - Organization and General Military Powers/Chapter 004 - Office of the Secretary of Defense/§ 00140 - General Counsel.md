@@ -1,6 +1,6 @@
 ### §140. General Counsel
 
-(a) There is a General Counsel of the Department of Defense, appointed from civilian life bythe President, by and with the advice and consent of the Senate.
+(a) There is a General Counsel of the Department of Defense, appointed from civilian life by the President, by and with the advice and consent of the Senate.
 
 (b) The General Counsel is the chief legal officer of the Department of Defense. He shall perform such functions as the Secretary of Defense may prescribe.
 
@@ -50,7 +50,7 @@ For effective date of amendment by Pub. L. 88–426, see section 501 of Pub. L. 
 
 #### Order of Succession
 
-For order of succession in event of death, disability, or resignation of Secretary, see Ex. Ord. No. 12787, Dec. 31, 1991, 57 F.R. 517, set out as a note under section 3347 of Title 5, Government Organization and Employees.
+For order of succession in event of death, disability, or resignation of Secretary, see Ex. Ord. No. 13000, Apr. 24, 1996, 61 F.R. 18483, set out as a note under section 3347 of Title 5, Government Organization and Employees.
 
 #### Cross References
 

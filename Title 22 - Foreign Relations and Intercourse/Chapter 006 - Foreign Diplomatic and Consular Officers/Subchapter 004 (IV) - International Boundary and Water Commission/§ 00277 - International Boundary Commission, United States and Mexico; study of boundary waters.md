@@ -1,6 +1,6 @@
 ### §277. International Boundary Commission, United States and Mexico; study of boundary waters
 
-The President is authorized to designate the American Commissioner on the International Boundary Commission, United States and Mexico, or other Federal agency, to cooperate with a representative or representatives of the Government of Mexico in a study regarding the equitable use of the waters of the lower Rio Grande and the lower Colorado and Tia Juana Rivers, for the purpose of obtaining information which may be used as a basis for the negotiation of a treaty with the Government of Mexico relative to the use of the waters of these rivers and to matters closely related thereto. On completion of such study the results shall be reported to the Secretary of State.
+The President is authorized to designate the American Commissioner on the International Boundary Commission, United States and Mexico, or other Federal agency, to cooperate witha representative or representatives of the Government of Mexico in a study regarding the equitable use of the waters of the lower Rio Grande and the lower Colorado and Tia Juana Rivers, for the purpose of obtaining information which may be used as a basis for the negotiation of a treaty with the Government of Mexico relative to the use of the waters of these rivers and to matters closely related thereto. On completion of such study the results shall be reported to the Secretary of State.
 
 (May 13, 1924, ch. 153, §1, 43 Stat. 118; Mar. 3, 1927, ch. 381, §1, 44 Stat. 1403; Aug. 19, 1935, ch. 561, 49 Stat. 660.)
 
@@ -18,7 +18,7 @@ International Boundary Commission, United States and Mexico, American section, t
 
 Pub. L. 100–465, Oct. 3, 1988, 102 Stat. 2272, which enacted sections 277g to 277g–3 of this title, is known as the Rio Grande Pollution Correction Act of 1987. For complete classification of this Act to the Code, see Short Title note set out under section 277g of this title and Tables.
 
-Pub. L. 92–549, Oct. 25, 1972, 86 Stat. 1161, which enacted sections 277d–34 to 277d–42 of this title, is knownas the American-Mexican Boundary Treaty Act of 1972. For complete classification of this Act to the Code, see Short Title note set out under section 277d–34 of this title and Tables.
+Pub. L. 92–549, Oct. 25, 1972, 86 Stat. 1161, which enacted sections 277d–34 to 277d–42 of this title, is known as the American-Mexican Boundary Treaty Act of 1972. For complete classification of this Act to the Code, see Short Title note set out under section 277d–34 of this title and Tables.
 
 Pub. L. 88–300, Apr. 29, 1964, 78 Stat. 184, which enacted sections 277d–17 to 277d–25 of this title, is known as the American-Mexican Chamizal Convention Act of 1964. For complete classification of this Act to the Code, see Short Title note set out under section 277d–17 of this title and Tables.
 

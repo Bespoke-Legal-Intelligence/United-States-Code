@@ -4,9 +4,9 @@
 
 (b) Whoever, whether for himself or another person not entitled thereto, knowingly issues, procures or obtains or applies for or otherwise attempts to procure or obtain naturalization, or citizenship, or a declaration of intention to become a citizen, or a certificate of arrival or any certificate or evidence of nationalization or citizenship, documentary or otherwise, or duplicates or copies of any of the foregoing—
 
-Shall be fined under this title or imprisoned not more than five years, or both.
+Shall be fined under this title or imprisoned not more than 25 years (if the offense was committed to facilitate an act of international terrorism (as defined in section 2331 of this title)), 20 years (if the offense was committed to facilitate a drug trafficking crime (as defined in section 929(a) of this title)), 10 years (in the case of the first or second such offense, if the offense was not committed to facility <sup>1</sup> such an act of international terrorism or a drug trafficking crime), or 15 years (in the case of any other offense), or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 766; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(K), 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 766; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(K), 108 Stat. 2147; Sept. 30, 1996, Pub. L. 104–208, div. C, title II, §211(a)(2), 110 Stat. 3009–569.)
 
 #### Historical and Revision Notes
 
@@ -18,7 +18,13 @@ Words “a certificate of arrival or” were inserted before “any certificate�
 
 #### Amendments
 
+1996—Pub. L. 104–208 substituted “imprisoned not more than 25 years (if the offense was committed to facilitate an act of international terrorism (as defined in section 2331 of this title)), 20 years (if the offense was committed to facilitate a drug trafficking crime (as defined in section 929(a) of this title)), 10 years (in the case of the first or second such offense, if the offense was not committed to facility such an act of international terrorism or a drug trafficking crime), or 15 years (in the case of any other offense)” for “imprisoned not more than five years” in last par.
+
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $5,000” in last par.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–208 applicable with respect to offenses occurring on or after Sept. 30, 1996, see section 211(c) of Pub. L. 104–208, set out as a note under section 1028 of this title.
 
 #### Cross References
 
@@ -26,5 +32,7 @@ Limitations, period of, see section 3291 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 3291 of this title; title 8 section 1451.
+This section is referred to in sections 982, 1961, 2516, 3291 of this title; title 8 section 1451.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “facilitate”.</i>
 

@@ -24,9 +24,21 @@ The provisions of this section shall not be applicable to carriers transporting 
 
 (2) Beginning 1 year after the effective date of the regulations adopted pursuant to paragraph (1), no receiver having the capabilities described in subparagraph (A), (B), or (C) of paragraph (1), as such capabilities are defined in such regulations, shall be manufactured in the United States or imported for use in the United States.
 
-(June 19, 1934, ch. 652, title III, §302, as added July 5, 1968, Pub. L. 90–379, 82 Stat. 290; amended Sept. 13, 1982, Pub. L. 97–259, title I, §108(a), 96 Stat. 1091; Oct. 28, 1992, Pub. L. 102–556, title IV, §403(a), 106 Stat. 4195.)
+#### (e) Delegation of equipment testing and certification to private laboratories
+
+The Commission may—
+
+&emsp;(1) authorize the use of private organizations for testing and certifying the compliance of devices or home electronic equipment and systems with regulations promulgated under this section;
+
+&emsp;(2) accept as prima facie evidence of such compliance the certification by any such organization; and
+
+&emsp;(3) establish such qualifications and standards as it deems appropriate for such private organizations, testing, and certification.
+
+(June 19, 1934, ch. 652, title III, §302, as added July 5, 1968, Pub. L. 90–379, 82 Stat. 290; amended Sept. 13, 1982, Pub. L. 97–259, title I, §108(a), 96 Stat. 1091; Oct. 28, 1992, Pub. L. 102–556, title IV, §403(a), 106 Stat. 4195; Feb. 8, 1996, Pub. L. 104–104, title IV, §403(f), 110 Stat. 131.)
 
 #### Amendments
+
+1996—Subsec. (e). Pub. L. 104–104 added subsec. (e).
 
 1992—Subsec. (d). Pub. L. 102–556 added subsec. (d).
 

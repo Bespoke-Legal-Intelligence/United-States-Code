@@ -80,7 +80,7 @@ Such contributions may be in the form of—
 
 #### (5) Waiver in disaster areas
 
-&emsp;If a participating jurisdiction is located in an area in which a declaration of a disaster pursuant to the Robert T. Stafford Disaster Relief and Emergency Assistance Act \[42 U.S.C. 5121 et seq.\] is in effect for any part of a fiscal year, the Secretary may reduce the matching requirement for that fiscal year under subsection (a) of this section with respect to any funds drawn from a jurisdiction's HOME Investment Trust Fund Account during that fiscal year by up to 100 percent.
+&emsp;If a participating jurisdiction is located in an area in which a declaration of a disaster pursuant to the Robert T. Stafford Disaster Relief and Emergency Assistance Act \[42 U.S.C. 5121 et seq.\] is in effect for any part ofa fiscal year, the Secretary may reduce the matching requirement for that fiscal year under subsection (a) of this section with respect to any funds drawn from a jurisdiction's HOME Investment Trust Fund Account during that fiscal year by up to 100 percent.
 
 (Pub. L. 101–625, title II, §220, Nov. 28, 1990, 104 Stat. 4111; Pub. L. 102–550, title II, §§207(c), 210(a)–(c), Oct. 28, 1992, 106 Stat. 3753, 3755; Pub. L. 103–233, title II, §204, Apr. 11, 1994, 108 Stat. 364.)
 
@@ -122,7 +122,7 @@ Subsec. (c)(5). Pub. L. 102–550, §207(c)(2)(B), redesignated par. (5) as (4).
 
 Subsec. (c)(6) to (8). Pub. L. 102–550, §210(b)(3), added pars. (6) to (8).
 
-Subsec. (d). Pub. L. 102–550, §210(c), added subsec. (d) and struck out former subsec. (d) which read as follows:“If a jurisdiction demonstrates to the satisfaction of the Secretary that a reduction of the matching requirement specified in subsection (a) of this section is necessary to permit the jurisdiction to carry out the purposes of this subchapter, the Secretary may reduce the matching requirement during a period not to exceed 3 years after the jurisdiction is first designated as a participating jurisdiction. Such reduction shall be not more than 75 percent in the first year, not more than 50 percent in the second year, and not more than 25 percent in the third year.”
+Subsec. (d). Pub. L. 102–550, §210(c), added subsec. (d) and struck out former subsec. (d) which read as follows: “If a jurisdiction demonstrates to the satisfaction of the Secretary that a reduction of the matching requirement specified in subsection (a) of this section is necessary to permit the jurisdiction to carry out the purposes of this subchapter, the Secretary may reduce the matching requirement during a period not to exceed 3 years after the jurisdiction is first designated as a participating jurisdiction. Such reduction shall be not more than 75 percent in the first year, not more than 50 percent in the second year, and not more than 25 percent in the third year.”
 
 #### Effective Date of 1994 Amendment
 

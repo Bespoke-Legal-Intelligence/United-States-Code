@@ -12,7 +12,9 @@ To reimburse the Secretary of Commerce for the cost incurred by the National Oce
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

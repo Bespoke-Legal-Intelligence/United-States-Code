@@ -2,7 +2,7 @@
 
 #### (a) Sense of Congress
 
-It is the sense of the Congress that, to the greatest extent practicable, all equipment andproducts purchased using funds made available pursuant to this chapter should be American-made.
+It is the sense of the Congress that, to the greatest extent practicable, all equipment and products purchased using funds made available pursuant to this chapter should be American-made.
 
 #### (b) Notice requirement
 

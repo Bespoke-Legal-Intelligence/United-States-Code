@@ -62,7 +62,7 @@ Subsec. (d). Pub. L. 98–94, as part of the general amendment of this section, 
 
 #### Effective Date of 1983 Amendment
 
-Amendment by Pub. L. 98–94 effective one year after Sept. 24, 1983, and applicable to persons entering the Academy after such date, with subsec. (b)(2) of this section, as amended, not to apply to the cost of providing instruction to a person who, before such date, enteredthe Academy, see section 1004(d) of Pub. L. 98–94, set out as a note under section 4344 of this title.
+Amendment by Pub. L. 98–94 effective one year after Sept. 24, 1983, and applicable to persons entering the Academy after such date, with subsec. (b)(2) of this section, as amended, not to apply to the cost of providing instruction to a person who, before such date, entered the Academy, see section 1004(d) of Pub. L. 98–94, set out as a note under section 4344 of this title.
 
 #### Persons From Countries Assisting U.S. in Vietnam: Naval Academy Instruction; Benefits, Limitations, Restrictions, and Regulations; Oath of Trainees
 

@@ -8,7 +8,7 @@ Every person doing business as a broker shall, when required by the Secretary, m
 
 Every person required to make a return under subsection (a) shall furnish to each customer whose name is required to be set forth in such return a written statement showing—
 
-&emsp;(1) the name and address of the person required to make such return, and
+&emsp;(1) the name, address, and phone number of the information contact of the person required to make such return, and
 
 &emsp;(2) the information required to be shown on such return with respect to such customer.
 
@@ -82,7 +82,7 @@ If any broker—
 
 #### (3) Prohibition of separate charge for filing return
 
-&emsp;It shall be unlawful for any real estate reporting person to separately charge any customer for complying with any requirement of paragraph (1).
+&emsp;It shall be unlawful for any real estate reporting person to separately charge any customer for complying with any requirement of paragraph (1). Nothing in this paragraph shallbe construed to prohibit the real estate reporting person from taking into account its cost of complying with such requirement in establishing its charge (other than a separate charge for complying with such requirement) to any customer for performing services in the case of a real estate transaction.
 
 #### (4) Additional information required
 
@@ -92,9 +92,13 @@ If any broker—
 
 &emsp;&emsp;(B) Whether or not the financing (if any) of the seller was federally-subsidized indebtedness (as defined in section 143(m)(3)).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 747; Oct. 4, 1976, Pub. L. 94–455, title XIX, §1906(b)(13)(A), 90 Stat. 1834; Sept. 3, 1982, Pub. L. 97–248, title III, §311(a)(1), 96 Stat. 600; July 18, 1984, Pub. L. 98–369, div. A, title I, §150(a), title VII, §714(e)(1), 98 Stat. 690, 961; Oct. 22, 1986, Pub. L. 99–514, title XV, §§1501(c)(4), 1521(a), 100 Stat. 2737, 2746; Nov. 10, 1988, Pub. L. 100–647, title I, §1015(e)(1)(A), (2)(A), (3), title IV, §4005(g)(3), 102 Stat. 3569, 3570, 3650; Dec. 19, 1989, Pub. L. 101–239, title VII, §7814(c)(1), 103 Stat. 2413; Nov. 5, 1990, Pub. L. 101–508, title XI, §11704(a)(25), 104 Stat. 1388–519; Oct. 24, 1992, Pub. L. 102–486, title XIX, §1939(a), 106 Stat. 3034.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 747; Oct. 4, 1976, Pub. L. 94–455, title XIX, §1906(b)(13)(A), 90 Stat. 1834; Sept. 3, 1982, Pub. L. 97–248, title III, §311(a)(1), 96 Stat. 600; July 18, 1984, Pub. L. 98–369, div. A, title I, §150(a), title VII, §714(e)(1), 98 Stat. 690, 961; Oct. 22, 1986, Pub. L. 99–514, title XV, §§1501(c)(4), 1521(a), 100 Stat. 2737, 2746; Nov. 10, 1988, Pub. L. 100–647, title I, §1015(e)(1)(A), (2)(A), (3), title IV, §4005(g)(3), 102 Stat. 3569, 3570, 3650; Dec. 19, 1989, Pub. L. 101–239, title VII, §7814(c)(1), 103 Stat. 2413; Nov. 5, 1990, Pub. L. 101–508, title XI, §11704(a)(25), 104 Stat. 1388–519; Oct. 24, 1992, Pub. L. 102–486, title XIX, §1939(a), 106 Stat. 3034; July 30, 1996, Pub. L. 104–168, title XII, §1201(a)(5), 110 Stat. 1469; Aug. 20, 1996, Pub. L. 104–188, title I, §1704(<i>o</i>)(1), 110 Stat. 1886.)
 
 #### Amendments
+
+1996—Subsec. (b)(1). Pub. L. 104–168 substituted “name, address, and phone number of the information contact” for “name and address”.
+
+Subsec. (e)(3). Pub. L. 104–188 inserted at end “Nothing in this paragraph shall be construed to prohibit the real estate reporting person from taking into account its cost of complying with such requirement in establishing its charge (other than a separate charge for complying with such requirement) to any customer for performing services in the case of a real estate transaction.”
 
 1992—Subsec. (e)(4). Pub. L. 102–486 substituted heading for one which read: “Whether seller's financing was federally-subsidized” and amended text generally. Prior to amendment, text read as follows: “In the case of a real estate transaction involving a residence, the real estate reporting person shall specify on the return under subsection (a) and the statement under subsection (b) whether or not the financing (if any) of the seller was federally-subsidized indebtedness (as defined in section 143(m)(3)).”
 
@@ -123,6 +127,12 @@ Subsec. (d). Pub. L. 98–369, §150(a), added subsec. (d).
 1982—Pub. L. 97–248 designated existing provisions as subsec. (a), substituted “the name and address of each customer, with such details regarding gross proceeds” for “the names of customers for whom such person has transacted any business, with such details regarding the profits and losses” after “may prescribe, showing” and “such business” for “each customer as will enable the Secretary to determine the amount of such profits and losses” after “with respect to”, and added subsecs. (b) and (c).
 
 1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
+
+#### Effective Date of 1996 Amendments
+
+Section 1704(<i>o</i>)(2) of Pub. L. 104–188 provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effect as if included in section 1015(e)(2)(A) of the Technical and Miscellaneous Revenue Act of 1988 \[Pub. L. 100–647\].”
+
+Amendment by Pub. L. 104–168 applicable to statements required to be furnished after Dec. 31, 1996 (determined without regard to any extension), see section 1201(b) of Pub. L. 104–168, set out as a note under section 6041 of this title.
 
 #### Effective Date of 1992 Amendment
 

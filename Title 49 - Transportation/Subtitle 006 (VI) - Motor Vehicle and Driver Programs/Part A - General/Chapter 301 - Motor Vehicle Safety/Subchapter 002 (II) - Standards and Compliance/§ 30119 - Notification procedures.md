@@ -20,7 +20,7 @@ Contents of Notification.—Notification by a manufacturer required under sectio
 
 (b)
 
-Earliest Remedy Date.—The date specified by a manufacturer in a notification under subsection (a)(5) of this section or section 30121(c)(2) of this title is the earliest date that parts and facilities reasonably can be expected to be available to remedy the defect or noncompliance. The Secretary may disapprove the date.
+Earliest Remedy Date.—The date specified by a manufacturer in a notification undersubsection (a)(5) of this section or section 30121(c)(2) of this title is the earliest date that parts and facilities reasonably can be expected to be available to remedy the defect or noncompliance. The Secretary may disapprove the date.
 
 (c)
 
@@ -38,7 +38,7 @@ Means of Providing Notification.—(1) Notification required under section 30118
 
 &emsp;(B) if a registered owner is not notified under clause (A) of this paragraph, to the most recent purchaser known to the manufacturer.
 
-(2) Notification required under section 30118 of this title about replacement equipment (except a tire) shall be sent by first class mail to themost recent purchaser known to the manufacturer. In addition, if the Secretary decides that public notice is required for motor vehicle safety, public notice shall be given in the way required by the Secretary after consulting with the manufacturer.
+(2) Notification required under section 30118 of this title about replacement equipment (except a tire) shall be sent by first class mail to the most recent purchaser known to the manufacturer. In addition, if the Secretary decides that public notice is required for motor vehicle safety, public notice shall be given in the way required by the Secretary after consulting with the manufacturer.
 
 (3) Notification required under section 30118 of this title about a tire shall be sent by first class mail (or, if the manufacturer prefers, by certified mail) to the most recent purchaser known to the manufacturer. In addition, if the Secretary decides that public notice is required for motor vehicle safety, public notice shall be given in the way required by the Secretary after consulting with the manufacturer. In deciding whether public notice is required, the Secretary shall consider—
 
@@ -62,7 +62,9 @@ Notification by Lessor to Lessee.—(1) In this subsection, “leased motor vehi
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

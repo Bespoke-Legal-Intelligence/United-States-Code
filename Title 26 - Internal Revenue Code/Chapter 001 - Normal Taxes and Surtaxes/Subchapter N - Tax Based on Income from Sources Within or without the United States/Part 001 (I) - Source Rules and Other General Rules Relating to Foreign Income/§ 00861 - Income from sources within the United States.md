@@ -86,7 +86,7 @@ From the items of gross income specified in subsection (a) as being income from 
 
 &emsp;&emsp;&emsp;(ii) is attributable to the active conduct of a trade or business in a foreign country or possession of the United States by the individual or corporation (or by a subsidiary.)
 
-> &emsp;&emsp;For purposes of this subparagraph, the term “subsidiary” means any corporation in which the corporation referred to in this subparagraph owns (directly or indirectly) stock meeting the requirements of section1504(a)(2) (determined by substituting “50 percent” for “80 percent” each place it appears).
+> &emsp;&emsp;For purposes of this subparagraph, the term “subsidiary” means any corporation in which the corporation referred to in this subparagraph owns (directly or indirectly) stock meeting the requirements of section 1504(a)(2) (determined by substituting “50 percent” for “80 percent” each place it appears).
 
 #### (C) Testing period
 
@@ -120,7 +120,7 @@ For purposes of subsection (a)(2)(B), if the foreign corporation has no gross in
 
 &emsp;For purposes of subsection (a) and section 862(a), if—
 
-&emsp;&emsp;(A) a taxpayer leases railroad rolling stock which is section 1245 property (as defined in section 1245(a)(3))) <sup>1</sup> to a domestic common carrier by railroad or a corporation which is controlled, directly or indirectly, by one or more such common carriers, and
+&emsp;&emsp;(A) a taxpayer leases railroad rolling stock which is section 1245 property (as defined in section 1245(a)(3)) to a domestic common carrier by railroad or a corporation which is controlled, directly or indirectly, by one or more such common carriers, and
 
 &emsp;&emsp;(B) the use under such lease is expected to be use within the United States,
 
@@ -138,11 +138,13 @@ For purposes of subsection (a)(2)(B), if the foreign corporation has no gross in
 
 &emsp;&emsp;<b>For treatment of interest paid by the branch of a foreign corporation, see section 884(f).</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 275; Sept. 14, 1960, Pub. L. 86–779, §3(b), 74 Stat. 998; Oct. 16, 1962, Pub. L. 87–834, §9(c), 76 Stat. 1001; Nov. 13, 1966, Pub. L. 89–809, title I, §102(a)(1)–(3), (b), (c), 80 Stat. 1541–1543; Dec. 30, 1969, Pub. L. 91–172, title IV, §435(a), 83 Stat. 625; Apr. 1, 1971, Pub. L. 92–9, §3(a)(2), 85 Stat. 15; Dec. 10, 1971, Pub. L. 92–178, title III, §314(a), title V, §503, 85 Stat. 528, 550; Jan. 3, 1975, Pub. L. 93–625, §§8, 9(a), 88 Stat. 2116; Oct. 4, 1976, Pub. L. 94–455, title X, §§1036(a), 1041, 1051(h)(3), title XIX, §§1901(b)(26)(A), (B), (c)(7), 1904(b)(10)(B), 1906(b)(13)(A), 90 Stat. 1633, 1634, 1647, 1798, 1803, 1817, 1834; May 23, 1977, Pub. L. 95–30, title I, §102(b)(9), 91 Stat. 138; Nov. 6, 1978, Pub. L. 95–600, title III, §370(a), title V, §540(a), 92 Stat. 2858, 2887; Dec. 5, 1980, Pub. L. 96–499, title XI, §1124, 94 Stat. 2690; Dec. 28, 1980, Pub. L. 96–605, title I, §104(a), 94 Stat. 3523; Apr. 20, 1983, Pub. L. 98–21, title I, §121(d), 97 Stat. 83; Oct. 22, 1986, Pub. L. 99–514, title I, §104(b)(11), title XII, §§1211(b)(1)(B), 1212(d), 1214(a), (b), (c)(5), 1241(b), 100 Stat. 2105, 2536, 2539, 2541–2543, 2579; Dec. 22, 1987, Pub. L. 100–203, title X, §10221(d)(4), 101 Stat. 1330–409; Nov. 10, 1988, Pub. L. 100–647, title I, §§1012(g)(3), (i)(10), (14)(B), (q)(7), (9), (15), 1018(u)(39), 102 Stat. 3501, 3509, 3510, 3524, 3525, 3592; Dec. 19, 1989, Pub. L. 101–239, title VII, §§7811(i)(2), 7841(d)(9), 103 Stat. 2409, 2428; Nov. 5, 1990, Pub. L. 101–508, title XI, §§11801(a)(29), (c)(6)(C), (14), 11813(b)(17), 104 Stat. 1388–521, 1388–524, 1388–527, 1388–555.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 275; Sept. 14, 1960, Pub. L. 86–779, §3(b), 74 Stat. 998; Oct. 16, 1962, Pub. L. 87–834, §9(c), 76 Stat. 1001; Nov. 13, 1966, Pub. L. 89–809, title I, §102(a)(1)–(3), (b), (c), 80 Stat. 1541–1543; Dec. 30, 1969, Pub. L. 91–172, title IV, §435(a), 83 Stat. 625; Apr. 1, 1971, Pub. L. 92–9, §3(a)(2), 85 Stat. 15; Dec. 10, 1971, Pub. L. 92–178, title III, §314(a), title V, §503, 85 Stat. 528, 550; Jan. 3, 1975, Pub. L. 93–625, §§8, 9(a), 88 Stat. 2116; Oct. 4, 1976, Pub. L. 94–455, title X, §§1036(a), 1041, 1051(h)(3), title XIX, §§1901(b)(26)(A), (B), (c)(7), 1904(b)(10)(B), 1906(b)(13)(A), 90 Stat. 1633, 1634, 1647, 1798, 1803, 1817, 1834; May 23, 1977, Pub. L. 95–30, title I, §102(b)(9), 91 Stat. 138; Nov. 6, 1978, Pub. L. 95–600, title III, §370(a), title V, §540(a), 92 Stat. 2858, 2887; Dec. 5, 1980, Pub. L. 96–499, title XI, §1124, 94 Stat. 2690; Dec. 28, 1980, Pub. L. 96–605, title I, §104(a), 94 Stat. 3523; Apr. 20, 1983, Pub. L. 98–21, title I, §121(d), 97 Stat. 83; Oct. 22, 1986, Pub. L. 99–514, title I, §104(b)(11), title XII, §§1211(b)(1)(B), 1212(d), 1214(a), (b), (c)(5), 1241(b), 100 Stat. 2105, 2536, 2539, 2541–2543, 2579; Dec. 22, 1987, Pub. L. 100–203, title X, §10221(d)(4), 101 Stat. 1330–409; Nov. 10, 1988, Pub. L. 100–647, title I, §§1012(g)(3), (i)(10), (14)(B), (q)(7), (9), (15), 1018(u)(39), 102 Stat. 3501, 3509, 3510, 3524, 3525, 3592; Dec. 19, 1989, Pub. L. 101–239, title VII, §§7811(i)(2), 7841(d)(9), 103 Stat. 2409, 2428; Nov. 5, 1990, Pub. L. 101–508, title XI, §§11801(a)(29), (c)(6)(C), (14), 11813(b)(17), 104 Stat. 1388–521, 1388–524, 1388–527, 1388–555; Aug. 20, 1996, Pub. L. 104–188, title I, §1702(h)(9), 110 Stat. 1874.)
 
 #### Amendments
 
-1990—Subsec. (a)(1)(A), (B). Pub. L. 101–508, §11801(a)(29), (c)(14), inserted “and” at end of subpar. (A), substituted a period for a comma at end of subpar.\(B), and struck out subpars. (C) and (D) which read as follows:
+1996—Subsec. (e)(1)(A). Pub. L. 104–188 provided that the amendment made by section 11813(b)(17) of Pub. L. 101–508 shall be applied as if the material stricken by such amendment included the closing parenthesis after “section 48(a)(5)”. See 1990 Amendment note below.
+
+1990—Subsec. (a)(1)(A), (B). Pub. L. 101–508, §11801(a)(29), (c)(14), inserted “and” at end of subpar. (A), substituted a period for a comma at end of subpar. (B), and struck out subpars. (C) and (D) which read as follows:
 
 “(C) interest on a debt obligation which was part of an issue with respect to which an election has been made under subsection (c) of section 4912 (as in effect before July 1, 1974) and which, when issued (or treated as issued under subsection (c)(2) of such section), had a maturity not exceeding 15 years and, when issued, was purchased by one or more underwriters with a view to distribution through resale, but only with respect to interest attributable to periods after the date of such election, and
 
@@ -158,9 +160,9 @@ For purposes of subsection (a)(2)(B), if the foreign corporation has no gross in
 
 &emsp;“(v) when issued, was purchased by one or more underwriters for the purpose of distribution through resale.”
 
-Subsec. (e)(1)(A). Pub. L. 101–508, §11813(b)(17), substituted “which is section 1245 property (as defined in section 1245(a)(3))” for “which is section 38 property (or would be section 38 property but for section 48(a)(5)”.
+Subsec. (e)(1)(A). Pub. L. 101–508, §11813(b)(17), which directed the substitution of “which is section 1245 property (as defined in section 1245(a)(3))” for “which is section 38 property (or would be section 38 property but for section 48(a)(5)”, was executed by making the substitution for “which is section 38 property (or would be section 38 property but for section 48(a)(5))”. See 1996 Amendment note above.
 
-Subsec. (e)(2). Pub. L. 101–508, §11801(c)(6)(C), substituted “all of whose stock is owned by one or more domestic common carriers by railroad” for “referred to in subparagraph (B) of section 184(d)(1)”.
+Subsec. (e)(2). Pub. L. 101–508, §11801(c)(6)(C), substituted “all of whose stock is owned by one or moredomestic common carriers by railroad” for “referred to in subparagraph (B) of section 184(d)(1)”.
 
 1989—Subsec. (a)(6). Pub. L. 101–239, §7811(i)(2), substituted “865(i)(1)” for “865(h)(1)”.
 
@@ -218,7 +220,7 @@ Subsec. (b). Pub. L. 99–514, §104(b)(11), substituted “the standard deducti
 
 Subsec. (c). Pub. L. 99–514, §1214(a)(2), amended subsec. (c) generally, substituting provisions relating to foreign business requirements for provisions relating to interest on deposits.
 
-Subsec. (d). Pub. L. 99–514, §1214(c)(5)(C), amended subsec. (d) generally, substituting provision for special rule for application of subsec. (a)(2)(B) for former provision for special rules for application of subsec. (a), pars. (1)(B) to (1)(D) and (2)(B), pars. (1) and (2) thereof relating to new entities and transition rule provisions.
+Subsec. (d). Pub. L. 99–514, §1214(c)(5)(C), amended subsec. (d) generally, substituting provision for specialrule for application of subsec. (a)(2)(B) for former provision for special rules for application of subsec. (a), pars. (1)(B) to (1)(D) and (2)(B), pars. (1) and (2) thereof relating to new entities and transition rule provisions.
 
 Subsecs. (e), (f). Pub. L. 99–514, §1212(d), redesignated subsec. (f) as (e) and struck out former subsec. (e) relating to treatment of income from certain leased aircraft, vessels, and spacecraft as income from sources within the United States.
 
@@ -280,9 +282,13 @@ Subsecs. (c), (d). Pub. L. 89–809, §102(a)(1)(B), (3), added subsecs. (c) and
 
 1960—Subsec. (a)(2)(C). Pub. L. 86–779 added subpar. (C).
 
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–188 effective, except as otherwise expressly provided, as if included in the provision of the Revenue Reconciliation Act of 1990, Pub. L. 101–508, title XI, to which such amendment relates, see section 1702(i) of Pub. L. 104–188, set out as a note under section 38 of this title.
+
 #### Effective Date of 1990 Amendment
 
-Amendment by section 11813(b)(17) of Pub. L. 101–508 applicable to property placed in service after Dec. 31, 1990, but not applicable to any transition property (as defined in section 49(e) of this title), any property with respect to which qualified progress expenditures werepreviously taken into account under section 46(d) of this title, and any property described in section 46(b)(2)(C) of this title, as such sections were in effect on Nov. 4, 1990, see section 11813(c) of Pub. L. 101–508, set out as a note under section 29 of this title.
+Amendment by section 11813(b)(17) of Pub. L. 101–508 applicable to property placed in service after Dec. 31, 1990, but not applicable to any transition property (as defined in section 49(e) of this title), any property with respect to which qualified progress expenditures were previously taken into account under section 46(d) of this title, and any property described in section 46(b)(2)(C) of this title, as such sections were in effect on Nov. 4, 1990, see section 11813(c) of Pub. L. 101–508, set out as a note under section 29 of this title.
 
 #### Effective Date of 1989 Amendment
 
@@ -402,7 +408,7 @@ For effective date of amendment by section 1051(h)(3) of Pub. L. 94–455, see s
 
 Amendment by section 1901(b)(26)(A), (B), (c)(7) of Pub. L. 94–455 effective for taxable years beginning after Dec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
 
-Amendment by section 1904(b)(10)(B) of Pub. L. 94–455 effective on first day of first month which begins more than 90 days after date of enactment of this Act \[Oct. 4, 1976\], see section 1904(d) of Pub. L. 94–455, set out as a note under section 4041 of this title.
+Amendment by section 1904(b)(10)(B) of Pub. L. 94–455 effective on first day of first month which begins morethan 90 days after date of enactment of this Act \[Oct. 4, 1976\], see section 1904(d) of Pub. L. 94–455, set out as a note under section 4041 of this title.
 
 #### Effective Date of 1975 Amendment
 
@@ -466,7 +472,7 @@ Certain amendments to apply notwithstanding treaties.—The following amendments
 
 “(3)
 
-Certain amendments not to apply to the extent inconsistent with treaties.—The following amendments made by the Reform Act \[Pub. L. 99–514\] shall not apply to the extent the application of suchamendments would be contrary to any treaty obligation of the United States in effect on the date of the enactment of the Reform Act \[Oct. 22, 1986\]:
+Certain amendments not to apply to the extent inconsistent with treaties.—The following amendments made by the Reform Act \[Pub. L. 99–514\] shall not apply to the extent the application of such amendments would be contrary to any treaty obligation of the United States in effect on the date of the enactment of the Reform Act \[Oct. 22, 1986\]:
 
 &emsp;“(A) The amendments made by section 1211 of the Reform Act \[enacting section 865 of this title and amending this section and sections 862 to 864, 871, 881, and 904 of this title\] to the extent—
 
@@ -556,7 +562,7 @@ Affiliated Group.—
 
 &emsp;“(3) The qualified research and experimental expenditures taken into account for purposes of subsection (a) shall be adjusted to reflect the amount of such expenditures included in computing the cost-sharing amount (determined under section 936(h)(5)(C)(i)(I) of the 1986 Code).
 
-&emsp;“(4) The Secretary of the Treasury or his delegate may prescribe such regulations as may be necessaryto carry out the purposes of this subsection, including regulations providing for the source of gross income and the allocation and apportionment of deductions to take into account the adjustments required by paragraph (3).
+&emsp;“(4) The Secretary of the Treasury or his delegate may prescribe such regulations as may be necessary to carry out the purposes of this subsection, including regulations providing for the source of gross income and the allocation and apportionment of deductions to take into account the adjustments required by paragraph (3).
 
 &emsp;“(5) Paragraph (6) of section 864(e) of the 1986 Code shall not apply to qualified research and experimental expenditures.
 
@@ -665,6 +671,4 @@ Personal holding companies defined, exception if a foreign corporation with gros
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 79, 105, 410, 414, 505, 638, 818, 862, 863, 864, 865, 871, 884, 904, 2104, 4948, 4980B of this title.
-
-<i><sup>1</sup></i><i> So in original. The last closing parenthesis probably should not appear.</i>
 

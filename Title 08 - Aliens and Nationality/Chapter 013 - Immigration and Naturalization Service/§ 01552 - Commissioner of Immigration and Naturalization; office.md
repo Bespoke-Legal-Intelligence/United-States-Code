@@ -20,5 +20,5 @@ Functions of all other officers of Department of Justice and functions of all ag
 
 #### History of Immigration and Naturalization Agencies
 
-Ex. Ord. No. 6166, §14, June 10, 1933, set out as a note under section 901 of Title 5, Government Organization and Employees, consolidated the two formerly separate bureaus known as the Bureau of Immigration and the Bureau of Naturalization to form the Immigration and Naturalization Service under a Commissioner of Immigration and Naturalization, which was subsequently transferred from the Department of Labor to the Department of Justice by 1940 Reorg. Plan No. V, eff. June 14, 1940, 5 F.R. 2223, 54 Stat. 1238, set out in the Appendix to Title 5. See note set out under section 1551 of this title.
+Ex. Ord. No. 6166, §14, June 10, 1933, set out as a note under section 901 of Title 5, Government Organization and Employees, consolidated the two formerly separate bureaus known as the Bureau of Immigration and theBureau of Naturalization to form the Immigration and Naturalization Service under a Commissioner of Immigration and Naturalization, which was subsequently transferred from the Department of Labor to the Department of Justice by 1940 Reorg. Plan No. V, eff. June 14, 1940, 5 F.R. 2223, 54 Stat. 1238, set out in the Appendix to Title 5. See note set out under section 1551 of this title.
 

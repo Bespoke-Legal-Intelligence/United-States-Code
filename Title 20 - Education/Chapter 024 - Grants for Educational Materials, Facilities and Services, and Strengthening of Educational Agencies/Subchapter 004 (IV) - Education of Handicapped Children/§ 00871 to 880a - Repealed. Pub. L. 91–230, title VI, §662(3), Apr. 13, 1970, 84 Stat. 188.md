@@ -6,7 +6,7 @@ Section 872, Pub. L. 89–10, title VI, §602, formerly §601(b), as added Pub. 
 
 Section 873, Pub. L. 89–10, title VI, §603, as added Pub. L. 89–750, title I, §161, Nov. 3, 1966, 80 Stat. 1205; amended Pub. L. 90–247, title I, §§152(b)(3), 153 Jan. 2, 1968, 81 Stat. 803, 804, related to allotment of appropriated funds: additional appropriation for outlying areas, payments to Secretaries of Interior and Defense, allotment among States; determination of population figures by Commissioner; reallotment.
 
-Section 874, Pub. L. 89–10, title VI, §604, as added Pub. L. 89–750, title I, §161, Nov. 3, 1966, 80 Stat. 1205; amended Pub. L. 90–247, title I, §151(4), Jan. 2, 1968, 81 Stat. 800, related to submission of State plans to Commissioner and requirements of such plans.
+Section 874, Pub. L. 89–10, title VI, §604, as added Pub. L. 89–750, title I, §161, Nov. 3, 1966, 80 Stat. 1205; amended Pub. L. 90–247, title I, §151(4), Jan. 2, 1968, 81 Stat.800, related to submission of State plans to Commissioner and requirements of such plans.
 
 Section 875, Pub. L. 89–10, title VI, §605, as added Pub. L. 89–750, title I, §161, Nov. 3, 1966, 80 Stat. 1207, provided for payments.
 

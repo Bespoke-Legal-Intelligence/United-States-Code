@@ -16,7 +16,9 @@ Nonapplication.—This chapter does not apply to—
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

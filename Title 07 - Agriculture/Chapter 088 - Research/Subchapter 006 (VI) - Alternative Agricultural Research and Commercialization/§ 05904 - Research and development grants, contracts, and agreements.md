@@ -2,15 +2,15 @@
 
 #### (a) Eligibility
 
-All public and private educational institutions, other public and private research institutions and organizations, Federal agencies, and individuals shall be eligible to receive a grant from, or enter into a contract or cooperative agreement with, the Center for a research, development, or demonstration project, as provided in this section.
+All public and private educational institutions, other public and private research institutions and organizations, Federal agencies, and individuals shall be eligible to receive a grant from, or enter into a contract or cooperative agreement with, the Corporation for a research, development, or demonstration project, as provided in this section.
 
 #### (b) Competitive basis for awards
 
-Grants made, and contracts and cooperative agreements entered into, under this section shall be selected on a competitive basis on the recommendation of a peer review system to be established by the Center. Such system shall contain peer review expertise in commercial production, product development, processing, and marketing of agricultural commodities as well as in scientific research.
+Grants made, and contracts and cooperative agreements entered into, under this section shall be selected on a competitive basis on the recommendation of a peer review system to be established by the Corporation. Such system shall contain peer review expertise in commercial production, product development, processing, and marketing of agricultural commodities as well as in scientific research.
 
 #### (c) Selection criteria
 
-The Board may select a research, development, or demonstration project to receive a grant, contract, or cooperative agreement under this section based on the likelihood that the project will result in creating or improving economically viable commercial nonfood, nonfeed products, applications, processes, or technologies that involve the use of raw or processed agricultural commodities. The criteria to be considered may include the following:
+The Corporate Board may select a research, development, or demonstration project to receive a grant, contract, or cooperative agreement under this section based on the likelihood that the project will result in creating or improving economically viable commercial nonfood, nonfeed products, applications, processes, or technologies that involve the use of raw or processed agricultural commodities. The criteria to be considered may include the following:
 
 &emsp;(1) the prospect of developing technologies that could make it possible to use or modify existing agricultural commodities to provide an economically viable quantity of new nonfood, nonfeed products;
 
@@ -50,15 +50,25 @@ The Board may select a research, development, or demonstration project to receiv
 
 #### (e) Limitation on funds provided
 
-Funds committed by the Center for any project under a grant, contract, or cooperative agreement under this section shall in no case exceed two-thirds of the total cost of the project.
+Funds committed by the Corporation for any project under a grant, contract, or cooperative agreement under this section shall in no case exceed two-thirds of the total cost of the project.
 
 #### (f) Preference
 
-In selecting projects to receive funds, the Center may give preference to those projects for which the ratio of Center funds to non-Center funds would be lowest.
+In selecting projects to receive funds, the Corporation may give preference to those projects for which the ratio of Corporation funds to non-Corporation funds would be lowest.
 
-(Pub. L. 101–624, title XVI, §1660, Nov. 28, 1990, 104 Stat. 3761.)
+(Pub. L. 101–624, title XVI, §1660, Nov. 28, 1990, 104 Stat. 3761; Pub. L. 104–127, title VII, §724, Apr. 4, 1996, 110 Stat. 1119.)
+
+#### Amendments
+
+1996—Subsecs. (a), (b). Pub. L. 104–127, §724(1), substituted “Corporation” for “Center”.
+
+Subsec. (c). Pub. L. 104–127, §724(2), substituted “Corporate Board” for “Board” in introductory provisions.
+
+Subsec. (e). Pub. L. 104–127, §724(1), substituted “Corporation” for “Center”.
+
+Subsec. (f). Pub. L. 104–127, §724(1), (3), substituted “Corporation” for “Center” in two places and substituted “non-Corporation” for “non-Center”.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 5902, 5903, 5905, 5906, 5908 of this title.
+This section is referred to in sections 5902, 5903, 5905, 5906, 5908, 5909 of this title.
 

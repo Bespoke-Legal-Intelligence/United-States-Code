@@ -2,7 +2,7 @@
 
 #### (a) Requisite bonding of plan officials
 
-Every fiduciary of an employee benefit plan and every person who handles funds or other property of such a plan (hereafter in this section referred to as “plan official”) shall be bonded as provided in this section; except that—
+Every fiduciary of an employee benefit plan and every person who handles funds or otherproperty of such a plan (hereafter in this section referred to as “plan official”) shall be bonded as provided in this section; except that—
 
 (1) where such plan is one under which the only assets from which benefits are paid are the general assets of a union or of an employer, the administrator, officers, and employees of such plan shall be exempt from the bonding requirements of this section, and
 

@@ -25,8 +25,6 @@ A prior subpart G, consisting of sections 5141 to 5149, related to general provi
 
 This subpart is referred to in sections 5112, 5276, 5731 of this title.
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
-
 
 ---
 

@@ -6,7 +6,9 @@ To the extent the Secretary of Transportation prescribes by regulation, an air c
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -20,5 +22,5 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §411(b); added Oct. 4, 1984, Pub
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 40109, 41110, 46301 of this title.
+This section is referred to in section 41110 of this title.
 

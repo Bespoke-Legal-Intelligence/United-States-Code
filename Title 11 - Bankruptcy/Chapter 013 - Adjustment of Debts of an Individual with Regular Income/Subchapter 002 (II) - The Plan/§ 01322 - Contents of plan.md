@@ -22,7 +22,7 @@
 
 &emsp;(6) provide for the payment of all or any part of any claim allowed under section 1305 of this title;
 
-&emsp;(7) subject to section 365 of this title, provide for the assumption, rejection, or assignment of any executory contract or unexpired lease of the debtor not previously rejected under such section;
+&emsp;(7) subject to section 365 of this title, provide for the assumption, rejection, or assignmentof any executory contract or unexpired lease of the debtor not previously rejected under such section;
 
 &emsp;(8) provide for the payment of all or part of a claim against the debtor from property of the estate or property of the debtor;
 
@@ -32,7 +32,7 @@
 
 (c) Notwithstanding subsection (b)(2) and applicable nonbankruptcy law—
 
-&emsp;(1) a default with respect to, or that gave rise to, a lien on the debtor's principal residence may be cured under paragraph (3) or (5)of subsection (b) until such residence is sold at a foreclosure sale that is conducted in accordance with applicable nonbankruptcy law; and
+&emsp;(1) a default with respect to, or that gave rise to, a lien on the debtor's principal residence may be cured under paragraph (3) or (5) of subsection (b) until such residence is sold at a foreclosure sale that is conducted in accordance with applicable nonbankruptcy law; and
 
 &emsp;(2) in a case in which the last payment on the original payment schedule for a claim secured only by a security interest in real property that is the debtor's principal residence is due before the date on which the final payment under the plan is due, the plan may provide for the payment of the claim as modified pursuant to section 1325(a)(5) of this title.
 

@@ -10,7 +10,7 @@
 
 &emsp;&emsp;&emsp;(i) was not filed; or
 
-&emsp;&emsp;&emsp;(ii) was filed after the date on which such return was last due, under applicable law or under any extension, and after twoyears before the date of the filing of the petition; or
+&emsp;&emsp;&emsp;(ii) was filed after the date on which such return was last due, under applicable law or under any extension, and after two years before the date of the filing of the petition; or
 
 &emsp;&emsp;(C) with respect to which the debtor made a fraudulent return or willfully attempted in any manner to evade or defeat such tax;
 
@@ -28,7 +28,7 @@
 
 &emsp;&emsp;&emsp;(iv) that the debtor caused to be made or published with intent to deceive; or
 
-&emsp;&emsp;(C) for purposes of subparagraph (A) of this paragraph, consumer debts owed to a single creditor and aggregating more than $1,000 for “luxury goods or services” incurred by an individual debtor on or within 60 days before the order for relief under this title, or cash advances aggregating more than $1,000 that are extensions of consumer credit under an open end credit plan obtained by an individual debtor on or within 60 days before the order for relief under this title, are presumed to be nondischargeable; “luxury goods or services” do not include goods or services reasonably acquired for the support or maintenance of the debtor or a dependent of the debtor; an extension of consumer credit under an open end credit plan is to be defined for purposes of this subparagraph as it is defined in the Consumer Credit Protection Act;
+&emsp;&emsp;(C) for purposes of subparagraph (A) of this paragraph, consumer debts owed to a single creditor and aggregating more than $1,000 for “luxury goods or services” incurred by an individual debtor on or within 60 days before the order for relief under this title, or cash advances aggregating more than $1,000 that are extensions of consumer credit under an open end credit plan obtained by an individual debtor on or within 60 days before the order for relief under this title, are presumed to be nondischargeable; “luxury goods or services” do not include goods orservices reasonably acquired for the support or maintenance of the debtor or a dependent of the debtor; an extension of consumer credit under an open end credit plan is to be defined for purposes of this subparagraph as it is defined in the Consumer Credit Protection Act;
 
 &emsp;(3) neither listed nor scheduled under section 521(1) of this title, with the name, if known to the debtor, of the creditor to whom such debt is owed, in time to permit—
 
@@ -40,7 +40,7 @@
 
 &emsp;(5) to a spouse, former spouse, or child of the debtor, for alimony to, maintenance for, or support of such spouse or child, in connection with a separation agreement, divorce decree or other order of a court of record, determination made in accordance with State or territorial law by a governmental unit, or property settlement agreement, but not to the extent that—
 
-&emsp;&emsp;(A) such debt is assigned to another entity, voluntarily, by operation of law, or otherwise (other than debts assigned pursuant to section 402(a)(26) of the Social Security Act, or any such debt which has been assigned to the Federal Government or to a State or any political subdivision of such State); or
+&emsp;&emsp;(A) such debt is assigned to another entity, voluntarily, by operation of law, or otherwise (other than debts assigned pursuant to section 408(a)(3) of the Social Security Act, or any such debt which has been assigned to the Federal Government or to a State or any political subdivision of such State); or
 
 &emsp;&emsp;(B) such debt includes a liability designated as alimony, maintenance, or support, unless such liability is actually in the nature of alimony, maintenance, or support;
 
@@ -74,7 +74,7 @@
 
 &emsp;&emsp;(A) the debtor does not have the ability to pay such debt from income or property of the debtor not reasonably necessary to be expended for the maintenance or support of the debtor or a dependent of the debtor and, if the debtor is engaged in a business, for the payment of expenditures necessary for the continuation, preservation, and operation of such business; or
 
-&emsp;&emsp;(B) discharging such debt would result in a benefit to the debtor that outweighs the detrimental consequences to a spouse, former spouse, or child of the debtor; <sup>1</sup>
+&emsp;&emsp;(B) discharging such debt would result in a benefit to the debtor that outweighs the detrimental consequences to a spouse, former spouse, or child of the debtor;
 
 &emsp;(16) for a fee or assessment that becomes due and payable after the order for relief to a membership association with respect to the debtor's interest in a dwelling unit that has condominium ownership or in a share of a cooperative housing corporation, but only if such fee or assessment is payable for a period during which—
 
@@ -82,9 +82,17 @@
 
 &emsp;&emsp;(B) the debtor rented the dwelling unit to a tenant and received payments from the tenant for such period,
 
-> &emsp;but nothing in this paragraph shall except from discharge the debt of a debtor for a membership association fee or assessment for a period arising before entry of the order for relief in a pending or subsequent bankruptcy case.
+> &emsp;but nothing in this paragraph shall except from discharge the debt of a debtor for a membership association fee or assessment for a period arising before entry of the order for relief in a pending or subsequent bankruptcy case;
 
-(b) Notwithstanding subsection (a) of this section, a debt that was excepted from discharge under subsection (a)(1), (a)(3), or (a)(8) of this section, under section 17a(1), 17a(3), or 17a(5) of the Bankruptcy Act, under section 439A <sup>2</sup> of the Higher Education Act of 1965, or under section 733(g) <sup>2</sup> of the Public Health Service Act in a prior case concerning the debtor under this title, or under the Bankruptcy Act, is dischargeable in a case under this title unless, by the terms of subsection (a) of this section, such debt is not dischargeable in the case under this title.
+&emsp;(17) for a fee imposed by a court for the filing of a case, motion, complaint, or appeal, or for other costs and expenses assessed with respect to such filing, regardless of an assertion of poverty by the debtor under section 1915(b) or (f) of title 28, or the debtor's status as a prisoner, as defined in section 1915(h) of title 28; or
+
+&emsp;(18) owed under State law to a State or municipality that is—
+
+&emsp;&emsp;(A) in the nature of support, and
+
+&emsp;&emsp;(B) enforceable under part D of title IV of the Social Security Act (42 U.S.C. 601 et seq.).
+
+(b) Notwithstanding subsection (a) of this section, a debt that was excepted from discharge under subsection (a)(1), (a)(3), or (a)(8) of this section, under section 17a(1), 17a(3), or 17a(5) of the Bankruptcy Act, under section 439A <sup>1</sup> of the Higher Education Act of 1965, or under section 733(g) <sup>1</sup> of the Public Health Service Act in a prior case concerning the debtor under this title, or under the Bankruptcy Act, is dischargeable in a case under this title unless, by the terms of subsection (a) of this section, such debt is not dischargeable in the case under this title.
 
 (c)(1) Except as provided in subsection (a)(3)(B) of this section, the debtor shall be discharged from a debt of a kind specified in paragraph (2), (4), (6), or (15) of subsection (a) of this section, unless, on request of the creditor to whom such debt is owed, and after notice and a hearing, the court determines such debt to be excepted from discharge under paragraph (2), (4), (6), or (15), as the case may be, of subsection (a) of this section.
 
@@ -92,15 +100,15 @@
 
 (d) If a creditor requests a determination of dischargeability of a consumer debt under subsection (a)(2) of this section, and such debt is discharged, the court shall grant judgment in favor of the debtor for the costs of, and a reasonable attorney's fee for, the proceeding if the court finds that the position of the creditor was not substantially justified, except that the court shall not award such costs and fees if special circumstances would make the award unjust.
 
-(e) Any institution-affiliated party of a <sup>3</sup> insured depository institution shall be considered to be acting in a fiduciary capacity with respect to the purposes of subsection (a)(4) or (11).
+(e) Any institution-affiliated party of a <sup>2</sup> insured depository institution shall be considered to be acting in a fiduciary capacity with respect to the purposes of subsection (a)(4) or (11).
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2590; Pub. L. 96–56, §3, Aug. 14, 1979, 93 Stat. 387; Pub. L. 97–35, title XXIII, §2334(b), Aug. 13, 1981, 95 Stat. 863; Pub. L. 98–353, title III, §§307, 371, 454, July 10, 1984, 98 Stat. 353, 364, 375; Pub. L. 99–554, title II, §§257(n), 281, 283(j), Oct. 27, 1986, 100 Stat. 3115–3117; Pub. L. 101–581, §2(a), Nov. 15, 1990, 104 Stat. 2865; Pub. L. 101–647, title XXV, §2522(a), title XXXI, §3102(a), title XXXVI, §3621, Nov. 29, 1990, 104 Stat. 4865, 4916, 4964; Pub. L. 103–322, title XXXII, §320934, Sept. 13, 1994, 108 Stat. 2135; Pub. L. 103–394, title II, §221, title III, §§304(e), (h)(3), 306, 309, title V, §501(d)(13), Oct. 22, 1994, 108 Stat. 4129, 4133–4135, 4137, 4145.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2590; Pub. L. 96–56, §3, Aug. 14, 1979, 93 Stat. 387; Pub. L. 97–35, title XXIII, §2334(b), Aug. 13, 1981, 95 Stat. 863; Pub. L. 98–353, title III, §§307, 371, 454, July 10, 1984, 98 Stat. 353, 364, 375; Pub. L. 99–554, title II, §§257(n), 281, 283(j), Oct. 27, 1986, 100 Stat. 3115–3117; Pub. L. 101–581, §2(a), Nov. 15, 1990, 104 Stat. 2865; Pub. L. 101–647, title XXV, §2522(a), title XXXI, §3102(a), title XXXVI, §3621, Nov. 29, 1990, 104 Stat. 4865, 4916, 4964; Pub. L. 103–322, title XXXII, §320934, Sept. 13, 1994, 108 Stat. 2135; Pub. L. 103–394, title II, §221, title III, §§304(e), (h)(3), 306, 309, title V, §501(d)(13), Oct. 22, 1994, 108 Stat. 4129, 4133–4135, 4137, 4145; Pub. L. 104–134, title I, §101\[(a)\] \[title VIII, §804(b)\], Apr. 26, 1996, 110 Stat. 1321, 1321–74; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 104–193, title III, §374(a), Aug. 22, 1996, 110 Stat. 2255.)
 
 #### Historical and Revision Notes
 
 I74legislative statements
 
-Section 523(a)(1) represents a compromise between the position taken in the House bill and the Senate amendment. Section 523(a)(2) likewise represents a compromise between the position taken in the House bill and the Senate amendment with respect to the false financial statement exception to discharge. In order to clarify that a “renewal of credit” includes a “refinancing of credit”, explicit reference to a refinancing of credit is made in the preamble to section 523(a)(2). A renewal of credit or refinancing of credit that was obtained by a false financial statement within the terms of section 523(a)(2) is nondischargeable. However, each of the provisions of section 523(a)(2) must be proved. Thus, under section 523(a)(2)(A) a creditor must prove that the debt was obtained by false pretenses, a false representation, or actual fraud, other than a statement respecting the debtor's or an insider's financial condition. Subparagraph (A) is intended to codify current case law e.g., <i>Neal v. Clark</i>, 95 U.S. 704 (1887) \[24 L. Ed. 586\], which interprets “fraud” to mean actual or positive fraud rather than fraud implied in law. Subparagraph (A) is mutually exclusive from subparagraph (B). Subparagraph (B) pertains to the so-called false financial statement. In order for the debt to be nondischargeable, the creditor must prove that the debt was obtained by the use of a statement in writing (i)that is materially false; (ii) respecting the debtor's or an insider's financial condition; (iii) on which the creditor to whom the debtor is liable for obtaining money, property, services, or credit reasonably relied; (iv) that the debtor caused to be made or published with intent to deceive. Section 523(a)(2)(B)(iv) is not intended to change from present law since the statement that the debtor causes to be made or published with the intent to deceive automatically includes a statement that the debtor actually makes or publishes with an intent to deceive. Section 523(a)(2)(B) is explained in the House report. Under section 523(a)(2)(B)(i) a discharge is barred only as to that portion of a loan with respect to which a false financial statement is materially false.
+Section 523(a)(1) represents a compromise between the position taken in the House bill and the Senate amendment. Section 523(a)(2) likewise represents a compromise between the position taken in the House bill and the Senate amendment with respect to the false financial statement exception to discharge. In order to clarify that a “renewal of credit” includes a “refinancing of credit”, explicit reference to a refinancing of credit is made in the preamble to section 523(a)(2). A renewal of credit or refinancing of credit that was obtained by a false financial statement within the terms of section 523(a)(2) is nondischargeable. However, each of the provisions of section 523(a)(2) must be proved. Thus, under section 523(a)(2)(A) a creditor must prove that the debt was obtained by false pretenses, a false representation, or actual fraud, other than a statement respecting the debtor's or an insider's financial condition. Subparagraph (A) is intended to codify current case law e.g., <i>Neal v. Clark</i>, 95 U.S. 704 (1887) \[24 L. Ed. 586\], which interprets “fraud” to mean actual or positive fraud rather than fraud implied in law. Subparagraph (A) is mutually exclusive from subparagraph (B). Subparagraph (B) pertains to the so-called false financial statement. In order for the debt to be nondischargeable, the creditor must prove that the debt was obtained by the use of a statement in writing (i) that is materially false; (ii) respecting the debtor's or an insider's financial condition; (iii) on which the creditor to whom the debtor is liable for obtaining money, property, services, or credit reasonably relied; (iv) that the debtor caused to be made or published with intent to deceive. Section 523(a)(2)(B)(iv) is not intended to change from present law since the statement that the debtor causes to be made or published with the intent to deceive automatically includes a statement that the debtor actually makes or publishes with an intent to deceive. Section 523(a)(2)(B) is explained in the House report. Under section 523(a)(2)(B)(i) a discharge is barred only as to that portion of a loan with respect to which a false financial statement is materially false.
 
 In many cases, a creditor is required by state law to refinance existing credit on which there has been no default. If the creditor does not forfeit remedies or otherwise rely to his detriment on a false financial statement with respect to existing credit, then an extension, renewal, or refinancing of such credit is nondischargeable only to the extent of the new money advanced; on the other hand, if an existing loan is in default or the creditor otherwise reasonably relies to his detriment on a false financial statement with regard to an existing loan, then the entire debt is nondischargeable under section 523(a)(2)(B). This codifies the reasoning expressed by the second circuit in <i>In re Danns</i>, 558 F.2d 114 (2d Cir. 1977).
 
@@ -172,7 +180,7 @@ The purpose of the provision is to discourage creditors from initiating proceedi
 
 Subsection (a) lists eight kinds of debts excepted from discharge. Taxes that are entitled to priority are excepted from discharge under paragraph (1). In addition, taxes with respect to which the debtor made a fraudulent return or willfully attempted to evade or defeat, or with respect to which a return (if required) was not filed or was not filed after the due date and after one year before the bankruptcy case are excepted from discharge. If the taxing authority's claim has been disallowed, then it would be barred by the more modern rules of collateral estoppel from reasserting that claim against the debtor after the case was closed. See Plumb, The Tax Recommendations of the Commission on the Bankruptcy Laws: Tax Procedures, 88 Harv.L.Rev. 1360, 1388 (1975).
 
-As under Bankruptcy Act §17a(2) \[section 35(a)(2) of former title 11\], debt for obtaining money, property, services, or an extension or renewal of credit by false pretenses, a false representation, or actual fraud, or by use of a statement in writing respecting the debtor's financial condition that is materially false, on which the creditor reasonably relied, and that the debtor made or published with intent to deceive, is excepted from discharge. This provision is modified only slightly from current section 17a(2). First, “actual fraud” is added as a grounds for exception from discharge. Second, the creditor must not only have relied on a false statement in writing, the reliance must have been reasonable. This codifies case law construing this provision. Third, the phrase “in any manner whatsoever” that appears in current law after “made or published” is deleted as unnecessary. The word “published” is used in the same sense that it is used in slander actions.
+As under Bankruptcy Act §17a(2) \[section 35(a)(2) of former title 11\], debt for obtaining money, property, services, or an extension or renewal of credit by false pretenses, a false representation, or actual fraud, or byuse of a statement in writing respecting the debtor's financial condition that is materially false, on which the creditor reasonably relied, and that the debtor made or published with intent to deceive, is excepted from discharge. This provision is modified only slightly from current section 17a(2). First, “actual fraud” is added as a grounds for exception from discharge. Second, the creditor must not only have relied on a false statement in writing, the reliance must have been reasonable. This codifies case law construing this provision. Third, the phrase “in any manner whatsoever” that appears in current law after “made or published” is deleted as unnecessary. The word “published” is used in the same sense that it is used in slander actions.
 
 Unscheduled debts are excepted from discharge under paragraph (3). The provision, derived from section 17a(3) \[section 35(a)(3) of former title 11\], follows current law, but clarifies some uncertainties generated by the case law construing 17a(3). The debt is excepted from discharge if it was not scheduled in time to permit timely action by the creditor to protect his rights, unless the creditor had notice or actual knowledge of the case.
 
@@ -192,15 +200,21 @@ Subsection (d) is new. It provides protection to a consumer debtor that dealt ho
 
 The Consumer Credit Protection Act, referred to in subsec. (a)(2)(C), is Pub. L. 90–321, May 29, 1968, 82 Stat. 146, as amended, which is classified principally to chapter 41 (§1601 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 15 and Tables.
 
-Section 402(a)(26) of the Social Security Act, referred to in subsec. (a)(5)(A), is classified to section 602(a)(26) of Title 42, The Public Health and Welfare.
-
 The Bankruptcy Act, referred to in subsecs. (a)(10) and (b), is act July 1, 1898, ch. 541, 30 Stat. 544, as amended, which was classified generally to former Title 11. Sections 14c and 17a of the Bankruptcy Act were classified to sections 32(c) and 35(a) of former Title 11.
+
+The Social Security Act, referred to in subsec. (a)(18)(B), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part D of title IV of the Act is classified generally to part D (§651 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. Section 408(a)(3) of the Act is classified to section 608(a)(3) of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 Section 439A of the Higher Education Act of 1965, referred to in subsec. (b), was classified to section 1087–3 of Title 20, Education, and was repealed by Pub. L. 95–598, title III, §317, Nov. 6, 1978, 92 Stat. 2678.
 
 Section 733(g) of the Public Health Service Act, referred to in subsec. (b), was repealed by Pub. L. 95–598, title III, §327, Nov. 6, 1978, 92 Stat. 2679. A subsec. (g), containing similar provisions, was added to section 733 by Pub. L. 97–35, title XXVII, §2730, Aug. 13, 1981, 95 Stat. 919. Section 733 was subsequently omitted in the general revision of subchapter V of chapter 6A of Title 42, The Public Health and Welfare, by Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 1994. See section 292f(g) of Title 42.
 
 #### Amendments
+
+1996—Subsec. (a)(5)(A). Pub. L. 104–193, §374(a)(4), substituted “section 408(a)(3)” for “section 402(a)(26)”.
+
+Subsec. (a)(17). Pub. L. 104–134 added par. (17).
+
+Subsec. (a)(18). Pub. L. 104–193, §374(a)(1)–(3), added par. (18).
 
 1994—Subsec. (a). Pub. L. 103–394, §501(d)(13)(A)(i), substituted “1141,” for “1141,,” in introductory provisions.
 
@@ -274,6 +288,10 @@ Subsec. (d). Pub. L. 98–353, §307(b), substituted “the court shall grant ju
 
 1979—Subsec. (a)(8). Pub. L. 96–56 substituted “for an educational loan made, insured, or guaranteed by a governmental unit, or made under any program funded in whole or in part by a governmental unit or a nonprofit institution of higher education” for “to a governmental unit, or a nonprofit institution of higher education, for an educational loan” in the provisions preceding subpar. (A) and inserted “(exclusive of any applicable suspension of the repayment period)” after “before five years” in subpar. (A).
 
+#### Effective Date of 1996 Amendment
+
+Section 374(c) of Pub. L. 104–193 provided that: “The amendments made by this section \[amending this section and section 656 of Title 42, The Public Health and Welfare\] shall apply only with respect to cases commenced under title 11 of the United States Code after the date of the enactment of this Act \[Aug. 22, 1996\].”
+
 #### Effective Date of 1994 Amendment
 
 Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with respect to cases commenced under this title before Oct. 22, 1994, see section 702 of Pub. L. 103–394, set out as a note under section 101 of this title.
@@ -320,9 +338,7 @@ Amendment by Pub. L. 97–35 effective Aug. 13, 1981, see section 2334(c) of Pub
 
 This section is referred to in sections 101, 104, 106, 502, 507, 522, 524, 727, 1141, 1228, 1328 of this title; title 20 section 1087; title 26 sections 6327, 7434.
 
-<i><sup>1</sup></i><i> So in original. Probably should be followed by “or”.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 
-<i><sup>2</sup></i><i> See References in Text note below.</i>
-
-<i><sup>3</sup></i><i> So in original. Probably should be “an”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be “an”.</i>
 

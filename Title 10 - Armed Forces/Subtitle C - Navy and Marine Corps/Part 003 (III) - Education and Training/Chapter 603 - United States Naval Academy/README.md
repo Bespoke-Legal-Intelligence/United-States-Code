@@ -21,18 +21,20 @@
 | [6967\.](%C2%A7%2006967%20-%20Degree%20on%20graduation.md) | Degree on graduation. |
 | [6968\.](%C2%A7%2006968%20-%20Board%20of%20Visitors.md) | Board of Visitors. |
 | [6969\.](%C2%A7%2006969%20-%20Band%20composition.md) | Band: composition. |
-| [6970\.](%C2%A7%2006970%20-%20Storekeeper%20detail%3B%20returns%3B%20inspection%20of%20accounts.md) | Storekeeper: detail; returns; inspection of accounts. |
-| [6971\.](%C2%A7%2006971%20-%20Midshipmen%27s%20store%2C%20laundry%2C%20barber%20shop%2C%20cobbler%20shop%2C%20tailor%20shop%2C%20and%20dairy%20disposition%20of%20funds.md) | Midshipmen's store, laundry, barber shop, cobbler shop, tailor shop, and dairy: disposition of funds. |
+| \[6970. | Repealed.\] |
+| [6971\.](%C2%A7%2006971%20-%20Midshipmen%27s%20store%2C%20trade%20shops%2C%20dairy%2C%20and%20laundry%20nonappropriated%20fund%20instrumentality%20and%20accounts.md) | Midshipmen's store, trade shops, dairy, and laundry: nonappropriated fund instrumentality and accounts. |
 | [6972\.](%C2%A7%2006972%20-%20Chapel%20crypt%20and%20window%20spaces.md) | Chapel: crypt and window spaces. |
 | [6973\.](%C2%A7%2006973%20-%20Gifts%20and%20bequests%20acceptance%20for%20benefit%20of%20Naval%20Academy.md) | Gifts and bequests: acceptance for benefit of Naval Academy. |
 | [6974\.](%C2%A7%2006974%20-%20Gifts%20and%20bequests%20acceptance%20for%20benefit%20of%20museum.md) | Gifts and bequests: acceptance for benefit of museum. |
-| [6975\.](%C2%A7%2006975%20-%20Athletics%20program%20athletic%20director%3B%20nonappropriated%20fund%20account.md) | Athletics program: athletic director; nonappropriated fund account. |
+| \[6975. | Repealed.\] |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
 
-1994—Pub. L. 103–337, div. A, title V, §556(b)(2), Oct. 5, 1994, 108 Stat. 2775, added item 6975.
+1996—Pub. L. 104–201, div. A, title III, §370(d), Sept. 23, 1996, 110 Stat. 2499, struck out item 6970 “Storekeeper: detail; returns; inspection of accounts” and substituted “trade shops, dairy, and laundry: nonappropriated fund instrumentality and accounts” for “laundry, barber shop, cobbler shop, tailor shop, and dairy: disposition of funds” in item 6971.
+
+1994—Pub. L. 103–337, div. A, title V, §556(b)(2), Oct. 5, 1994, 108 Stat. 2775, which amended analysis by adding item 6975 “Athletics program: athletic director; nonappropriated fund account”, was repealed by Pub. L. 104–106, div. A, title V, §533(b), Feb. 10, 1996, 110 Stat. 315.
 
 1983—Pub. L. 98–94, title X, §1004(b)(2), Sept. 24, 1983, 97 Stat. 659, substituted “Selection of persons from foreign countries” for “Admission of foreigners for instruction: restrictions, conditions” in item 6957.
 
@@ -64,9 +66,9 @@ This chapter is referred to in title 37 section 209.
 - [&sect; 06967 - Degree on graduation](%C2%A7%2006967%20-%20Degree%20on%20graduation.md)
 - [&sect; 06968 - Board of Visitors](%C2%A7%2006968%20-%20Board%20of%20Visitors.md)
 - [&sect; 06969 - Band composition](%C2%A7%2006969%20-%20Band%20composition.md)
-- [&sect; 06970 - Storekeeper detail; returns; inspection of accounts](%C2%A7%2006970%20-%20Storekeeper%20detail%3B%20returns%3B%20inspection%20of%20accounts.md)
-- [&sect; 06971 - Midshipmen's store, laundry, barber shop, cobbler shop, tailor shop, and dairy disposition of funds](%C2%A7%2006971%20-%20Midshipmen%27s%20store%2C%20laundry%2C%20barber%20shop%2C%20cobbler%20shop%2C%20tailor%20shop%2C%20and%20dairy%20disposition%20of%20funds.md)
+- [&sect; 06970 - Repealed. Pub. L. 104&#8211;201, div. A, title III, &sect;370(c), Sept. 23, 1996, 110 Stat. 2499](%C2%A7%2006970%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93201%2C%20div.%20A%2C%20title%20III%2C%20%C2%A7370%28c%29%2C%20Sept.%2023%2C%201996%2C%20110%20Stat.%202499.md)
+- [&sect; 06971 - Midshipmen's store, trade shops, dairy, and laundry nonappropriated fund instrumentality and accounts](%C2%A7%2006971%20-%20Midshipmen%27s%20store%2C%20trade%20shops%2C%20dairy%2C%20and%20laundry%20nonappropriated%20fund%20instrumentality%20and%20accounts.md)
 - [&sect; 06972 - Chapel crypt and window spaces](%C2%A7%2006972%20-%20Chapel%20crypt%20and%20window%20spaces.md)
 - [&sect; 06973 - Gifts and bequests acceptance for benefit of Naval Academy](%C2%A7%2006973%20-%20Gifts%20and%20bequests%20acceptance%20for%20benefit%20of%20Naval%20Academy.md)
 - [&sect; 06974 - Gifts and bequests acceptance for benefit of museum](%C2%A7%2006974%20-%20Gifts%20and%20bequests%20acceptance%20for%20benefit%20of%20museum.md)
-- [&sect; 06975 - Athletics program athletic director; nonappropriated fund account](%C2%A7%2006975%20-%20Athletics%20program%20athletic%20director%3B%20nonappropriated%20fund%20account.md)
+- [&sect; 06975 - Repealed. Pub. L. 104&#8211;106, div. A, title V, &sect;533(b), Feb. 10, 1996, 110 Stat. 315](%C2%A7%2006975%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93106%2C%20div.%20A%2C%20title%20V%2C%20%C2%A7533%28b%29%2C%20Feb.%2010%2C%201996%2C%20110%20Stat.%20315.md)

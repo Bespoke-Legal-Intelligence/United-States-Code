@@ -16,7 +16,7 @@ For purposes of this section—
 
 #### (1) Treatment by employer to be determinative
 
-&emsp;Any option which the corporation treats as an incentive stock option or an option granted under an employee stock purchase plan shall be deemed to be such an option.
+&emsp;Any option which the corporation treats as an incentive stock option or an option grantedunder an employee stock purchase plan shall be deemed to be such an option.
 
 #### (2) Subsection (a)(2) applies only to first transfer described therein
 

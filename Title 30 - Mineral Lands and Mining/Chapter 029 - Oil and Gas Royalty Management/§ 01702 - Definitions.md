@@ -14,7 +14,7 @@ For the purposes of this chapter, the term—
 
 &emsp;(6) “lease site” means any lands or submerged lands, including the surface of a severed mineral estate, on which exploration for, or extraction or removal of, oil or gas is authorized pursuant to a lease;
 
-&emsp;(7) “lessee” means any person to whom the United States, an Indian tribe, or an Indian allottee, issues a lease, or any person who has been assigned an obligation to make royalty or other payments required by the lease;
+&emsp;(7) “lessee” means any person to whom the United States issues an oil and gas lease or any person to whom operating rights in a lease have been assigned;
 
 &emsp;(8) “mineral leasing law” means any Federal law administered by the Secretary authorizing the disposition under lease of oil or gas;
 
@@ -30,11 +30,89 @@ For the purposes of this chapter, the term—
 
 &emsp;(14) “royalty” means any payment based on the value or volume of production which is due to the United States or an Indian tribe or an Indian allottee on production of oil or gas from the Outer Continental Shelf, Federal, or Indian lands, or any minimum royalty owed to the United States or an Indian tribe or an Indian allottee under any provision of a lease;
 
-&emsp;(15) “Secretary” means the Secretary of the Interior or his designee; and
+&emsp;(15) “Secretary” means the Secretary of the Interior or his designee;
 
-&emsp;(16) “State” means the several States of the Union, the District of Columbia, Puerto Rico, the territories and possessions of the United States, and the Trust Territory of the Pacific Islands.
+&emsp;(16) “State” means the several States of the Union, the District of Columbia, Puerto Rico, the territories and possessions of the United States, and the Trust Territory of the Pacific Islands;
 
-(Pub. L. 97–451, §3, Jan. 12, 1983, 96 Stat. 2448; Pub. L. 92–203, §29(f)(1), as added Pub. L. 100–241, §15, Feb. 3, 1988, 101 Stat. 1813.)
+&emsp;(17) “adjustment” means an amendment to a previously filed report on an obligation, and any additional payment or credit, if any, applicable thereto, to rectify an underpayment or overpayment on an obligation;
+
+&emsp;(18) “administrative proceeding” means any Department of the Interior agency process in which a demand, decision or order issued by the Secretary or a delegated State is subject to appeal or has been appealed;
+
+&emsp;(19) “assessment” means any fee or charge levied or imposed by the Secretary or a delegated State other than—
+
+&emsp;&emsp;(A) the principal amount of any royalty, minimum royalty, rental bonus, net profit share or proceed of sale;
+
+&emsp;&emsp;(B) any interest; or
+
+&emsp;&emsp;(C) any civil or criminal penalty;
+
+&emsp;(20) “commence” means—
+
+&emsp;&emsp;(A) with respect to a judicial proceeding, the service of a complaint, petition, counterclaim, cross claim, or other pleading seeking affirmative relief or seeking credit or recoupment: <i>Provided</i>, That if the Secretary commences a judicial proceeding against a designee, the Secretary shall give notice of that commencement to the lessee who designated the designee, but the Secretary is not required to give notice to other lessees who may be liable pursuant to section 1712(a) of this title, for the obligation that is the subject of the judicial proceeding; or
+
+&emsp;&emsp;(B) with respect to a demand, the receipt by the Secretary or a delegated State or a lessee or its designee (with written notice to the lessee who designated the designee) of the demand;
+
+&emsp;(21) “credit” means the application of an overpayment (in whole or in part) against an obligation which has become due to discharge, cancel or reduce the obligation;
+
+&emsp;(22) “delegated State” means a State which, pursuant to an agreement or agreements under section 1735 of this title, performs authorities, duties, responsibilities, or activities of the Secretary;
+
+&emsp;(23) “demand” means—
+
+&emsp;&emsp;(A) an order to pay issued by the Secretary or the applicable delegated State to a lessee or its designee (with written notice to the lessee who designated the designee) that has a reasonable basis to conclude that the obligation in the amount of the demand is due and owing; or
+
+&emsp;&emsp;(B) a separate written request by a lessee or its designee which asserts an obligation due the lessee or its designee that provides a reasonable basis to conclude that the obligation in the amount of the demand is due and owing, but does not mean any royalty or production report, or any information contained therein, required by the Secretary or a delegated State;
+
+&emsp;(24) “designee” means the person designated by a lessee pursuant to section 1712(a) of this title, with such written designation effective on the date such designation is received by the Secretary and remaining in effect until the Secretary receives notice in writing that the designation is modified or terminated;
+
+&emsp;(25) “obligation” means—
+
+&emsp;&emsp;(A) any duty of the Secretary or, if applicable, a delegated State—
+
+&emsp;&emsp;&emsp;(i) to take oil or gas royalty in kind; or
+
+&emsp;&emsp;&emsp;(ii) to pay, refund, offset, or credit monies including (but not limited to)—
+
+&emsp;&emsp;&emsp;&emsp;(I) the principal amount of any royalty, minimum royalty, rental, bonus, net profit share or proceed of sale; or
+
+&emsp;&emsp;&emsp;&emsp;(II) any interest; and
+
+&emsp;&emsp;(B) any duty of a lessee or its designee (subject to the provisions of section 1712(a) of this title)—
+
+&emsp;&emsp;&emsp;(i) to deliver oil or gas royalty in kind; or
+
+&emsp;&emsp;&emsp;(ii) to pay, offset or credit monies including (but not limited to)—
+
+&emsp;&emsp;&emsp;&emsp;(I) the principal amount of any royalty, minimum royalty, rental, bonus, net profit share or proceed of sale;
+
+&emsp;&emsp;&emsp;&emsp;(II) any interest;
+
+&emsp;&emsp;&emsp;&emsp;(III) any penalty; or
+
+&emsp;&emsp;&emsp;&emsp;(IV) any assessment,
+
+&emsp;&emsp;&nbsp;which arises from or relates to any lease administered by the Secretary for, or any mineral leasing law related to, the exploration, production and development of oil or gas on Federal lands or the Outer Continental Shelf;
+
+&emsp;(26) “order to pay” means a written order issued by the Secretary or the applicable delegated State to a lessee or its designee (with notice to the lessee who designated the designee) which—
+
+&emsp;&emsp;(A) asserts a specific, definite, and quantified obligation claimed to be due, and
+
+&emsp;&emsp;(B) specifically identifies the obligation by lease, production month and monetary amount of such obligation claimed to be due and ordered to be paid, as well as the reason or reasons such obligation is claimed to be due, but such term does not include any other communication or action by or on behalf of the Secretary or a delegated State;
+
+&emsp;(27) “overpayment” means any payment by a lessee or its designee in excess of an amount legally required to be paid on an obligation and includes the portion of any estimated payment for a production month that is in excess of the royalties due for that month;
+
+&emsp;(28) “payment” means satisfaction, in whole or in part, of an obligation;
+
+&emsp;(29) “penalty” means a statutorily authorized civil fine levied or imposed for a violation of this chapter, any mineral leasing law, or a term or provision of a lease administered by the Secretary;
+
+&emsp;(30) “refund” means the return of an overpayment;
+
+&emsp;(31) “State concerned” means, with respect to a lease, a State which receives a portion of royalties or other payments under the mineral leasing laws from such lease;
+
+&emsp;(32) “underpayment” means any payment or nonpayment by a lessee or its designee that is less than the amount legally required to be paid on an obligation; and
+
+&emsp;(33) “United States” means the United States Government and any department, agency, or instrumentality thereof, the several States, the District of Columbia, and the territories of the United States.
+
+(Pub. L. 97–451, §3, Jan. 12, 1983, 96 Stat. 2448; Pub. L. 92–203, §29(f)(1), as added Pub. L. 100–241, §15, Feb. 3, 1988, 101 Stat. 1813; Pub. L. 104–185, §2, Aug. 13, 1996, 110 Stat. 1700; Pub. L. 104–200, §1(1), Sept. 22, 1996, 110 Stat. 2421.)
 
 #### References in Text
 
@@ -44,11 +122,27 @@ Section 3 of the Act of June 28, 1906 (34 Stat. 539), referred to in par. (3), i
 
 #### Amendments
 
+1996—Par. (7). Pub. L. 104–185, §2(1), amended par. (7) generally. Prior to amendment, par. (7) read as follows: “ ‘lessee’ means any person to whom the United States, an Indian tribe, or an Indian allottee, issues a lease, or any person who has been assigned an obligation to make royalty or other payments required by the lease;”.
+
+Pars. (17) to (25). Pub. L. 104–185, §2(2), added pars. (17) to (25).
+
+Par. (25)(B). Pub. L. 104–200, substituted “provisions of section 1712(a)” for “provision of section 1712(a)” in introductory provisions.
+
+Pars. (26) to (33). Pub. L. 104–185, §2(2), added pars. (26) to (33).
+
 1988—Pars. (3), (4). Pub. L. 92–203 inserted “or which is administered by the United States pursuant to section 1613(g) of title 43” after “alienation”.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–185 applicable with respect to production of oil and gas after the first day of the month following Aug. 13, 1996, see section 11 of Pub. L. 104–185, set out as a note under section 1701 of this title.
 
 #### Effective Date of 1988 Amendment
 
 Section 29(f)(2) of Pub. L. 92–203, as added by Pub. L. 100–241, §15, Feb. 3, 1988, 101 Stat. 1813, provided that: “The amendment made by paragraph (1) \[amending this section\] shall be effective as if originally included in section 3 of Public Law 97–451 \[this section\].”
+
+#### Applicability of 1996 Amendment
+
+Amendment by Pub. L. 104–185 not applicable to any privately owned minerals or with respect to Indian lands, see sections 9 and 10 of Pub. L. 104–185, set out as a note under section 1701 of this title.
 
 #### Termination of Trust Territory of the Pacific Islands
 

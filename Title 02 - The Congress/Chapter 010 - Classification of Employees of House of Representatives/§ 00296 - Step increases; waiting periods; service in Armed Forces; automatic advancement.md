@@ -12,7 +12,7 @@
 
 (b) The receipt of an increase in compensation during any of the waiting periods of service specified in subsection (a) of this section shall cause a new full waiting period of service to commence for further step increases under such subsection.
 
-(c) Any increase in compensation granted by law, or granted by reason of an increase made by the committee in the rates of compensation of the House Employees Schedule, to employeeswithin the purview of subsection (a) of this section shall not be held or considered to be an increase in compensation for the purposes of subsection (b) of this section.
+(c) Any increase in compensation granted by law, or granted by reason of an increase made by the committee in the rates of compensation of the House Employees Schedule, to employees within the purview of subsection (a) of this section shall not be held or considered to be an increase in compensation for the purposes of subsection (b) of this section.
 
 (d) The benefit of successive step increases under subsection (a) of this section shall be preserved, under regulations prescribed by the committee, for employees whose continuous service is interrupted by service in the Armed Forces of the United States.
 

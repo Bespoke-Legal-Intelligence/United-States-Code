@@ -52,11 +52,11 @@ Transition Waiver Authorities.—(1)(A) Until January 1, 1999, the Secretary of 
 
 &nbsp;
 
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#x20;<b>Year:                   </b> | &nbsp;<b>Applicable Percentage:</b> |
+| <b>Year:</b> | <b>Applicable Percentage:</b> |
 | :--- | ---: |
-| &nbsp;&nbsp;1995 | 20&nbsp; |
-| &nbsp;&nbsp;1996 | 15&nbsp; |
-| &nbsp;&nbsp;1997 | 10&nbsp; |
+| &nbsp;&nbsp;1995 | 20&nbsp;&nbsp; |
+| &nbsp;&nbsp;1996 | 15&nbsp;&nbsp; |
+| &nbsp;&nbsp;1997 | 10&nbsp;&nbsp; |
 | &nbsp;&nbsp;1998 | 5\. |
 
 (C) The provisions of subsections (c) and (e) apply to waivers under this paragraph in the same manner as to waivers under subsection (b).
@@ -75,13 +75,13 @@ Transition Waiver Authorities.—(1)(A) Until January 1, 1999, the Secretary of 
 
 Special Transition Rules for Nuclear Propulsion Officers.—(1) Until January 1, 1997, an officer of the Navy designated as a qualified nuclear propulsion officer may be appointed to the grade of rear admiral (lower half) without regard to subsection (a). An officer so appointed may not be appointed to the grade of rear admiral until the officer completes a full tour of duty in a joint duty assignment.
 
-(2) Not later than March 1 of each year from 1994 through 1997, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives a report on the implementation during the preceding calendar year of the transition plan developed by the Secretary pursuant to section 1305(b) of Public Law 100–180 (10 U.S.C. 619a note) with respect to service by qualified nuclear propulsion officers in joint duty assignments.
+(2) Not later than March 1 of each year from 1994 through 1997, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives a report on the implementation during the preceding calendar year of the transition plan developed by the Secretary pursuant to section 1305(b) of Public Law 100–180 (10 U.S.C. 619a note) with respect to service by qualified nuclear propulsion officers in joint duty assignments.
 
-(Added Pub. L. 103–160, div. A, title IX, §931(a), Nov. 30, 1993, 107 Stat. 1732.)
+(Added Pub. L. 103–160, div. A, title IX, §931(a), Nov. 30, 1993, 107 Stat. 1732; amended Pub. L.104–106, div. A, title XV, §1502(a)(1), Feb. 10, 1996, 110 Stat. 502.)
 
-#### Change of Name
+#### Amendments
 
-Committee on Armed Services of House of Representatives treated as referring to Committee on National Security of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+1996—Subsec. (h)(2). Pub. L. 104–106 substituted “Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives” for “Committees on Armed Services of the Senate and House of Representatives”.
 
 #### Report on Plans for Compliance
 

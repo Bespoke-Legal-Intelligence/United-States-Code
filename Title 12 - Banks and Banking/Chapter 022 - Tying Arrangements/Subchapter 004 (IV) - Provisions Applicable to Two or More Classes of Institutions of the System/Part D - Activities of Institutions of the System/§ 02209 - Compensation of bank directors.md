@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Farm Credit Administration shall monitor the compensation of members of the boardof directors of a System bank received as compensation for serving as a director of the bank to ensure that the amount of the compensation does not exceed a level of $20,000 per year, as adjusted to reflect changes in the Consumer Price Index for all urban consumers published by the Bureau of Labor Statistics, unless the Farm Credit Administration determines that such level adversely affects the safety and soundness of the bank.
+The Farm Credit Administration shall monitor the compensation of members of the board of directors of a System bank received as compensation for serving as a director of the bank to ensure that the amount of the compensation does not exceed a level of $20,000 per year, as adjusted to reflect changes in the Consumer Price Index for all urban consumers published by the Bureau of Labor Statistics, unless the Farm Credit Administration determines that such level adversely affects the safety and soundness of the bank.
 
 #### (b) Waiver
 

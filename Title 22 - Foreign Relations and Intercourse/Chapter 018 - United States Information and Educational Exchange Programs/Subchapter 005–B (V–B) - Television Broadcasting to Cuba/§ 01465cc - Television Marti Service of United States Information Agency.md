@@ -6,13 +6,17 @@ The Director of the United States Information Agency shall establish within the 
 
 #### (b) Use of existing facilities of USIA
 
-To assure consistency of presentation and efficiency of operations in conducting the activities authorized under this subchapter, the Television Marti Service shall make maximum feasible utilization of Agency facilities and management support, including Voice of America: Cuba Service, Voice of America, and the United States Information Agency Television Service.
+To assure consistency of presentation and efficiency of operations in conducting the activities authorized under this subchapter, the Television Marti Service shall make maximum feasible utilization of Agency facilities and managementsupport, including Voice of America: Cuba Service, Voice of America, and the United States Information Agency Television Service.
 
 #### (c) USIA authority
 
 The Agency may carry out the purposes of this subchapter by means of grants, leases, or contracts (subject to the availability of appropriations), or such other means as the Agency determines will be most effective.
 
 (Pub. L. 101–246, title II, §244, Feb. 16, 1990, 104 Stat. 61.)
+
+#### Repeal of Section
+
+<i>Section repealed upon transmittal of determination by President under section 6063(c)(3) of this title that democratically elected government in Cuba is in power, see section 6037(c) of this title.</i>
 
 #### Codification
 

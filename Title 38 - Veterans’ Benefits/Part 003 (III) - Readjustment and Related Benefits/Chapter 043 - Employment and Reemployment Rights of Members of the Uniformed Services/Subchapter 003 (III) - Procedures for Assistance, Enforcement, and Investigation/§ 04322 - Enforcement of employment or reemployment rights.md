@@ -14,21 +14,33 @@
 
 (c) The Secretary shall, upon request, provide technical assistance to a potential claimant with respect to a complaint under this subsection, and when appropriate, to such claimant's employer.
 
-(d) The Secretary shall investigate each complaint submitted pursuant to subsection (a). If the Secretary determines as a result of the investigation that the action alleged in such complaint occurred, the Secretary shall resolve the complaint by making reasonable efforts to ensure that the person or entity named in the complaint complies with the provisions of this chapter.
+(d) The Secretary shall investigate each complaint submitted pursuant to subsection (a). If the Secretary determines as a result of the investigation that the action alleged in such complaint occurred, the Secretary shall attempt to resolve the complaint by making reasonable efforts to ensure that the person or entity named in the complaint complies with the provisions of this chapter.
 
-(e) If the efforts of the Secretary with respect to a complaint under subsection (d) are unsuccessful, the Secretary shall notify the person who submitted the complaint of—
+(e) If the efforts of the Secretary with respect to any complaint filed under subsection (a) do not resolve the complaint, the Secretary shall notify the person who submitted the complaint of—
 
 &emsp;(1) the results of the Secretary's investigation; and
 
-&emsp;(2) the complainant's entitlement to proceed under the enforcement of rights provisions provided under section 4323 (in the case of a person submitting a complaint against a State or private employer) or section 4324 (in the case of a person submitting a complaint against a Federal executive agency).
+&emsp;(2) the complainant's entitlement to proceed under the enforcement of rights provisions provided under section 4323 (in the case of a person submitting a complaint against a State or private employer) or section 4324 (in the case of a person submitting a complaint against a Federal executive agency or the Office of Personnel Management).
 
 (f) This subchapter does not apply to any action relating to benefits to be provided under the Thrift Savings Plan under title 5.
 
-(Added Pub. L. 103–353, §2(a), Oct. 13, 1994, 108 Stat. 3164.)
+(Added Pub. L. 103–353, §2(a), Oct. 13, 1994, 108 Stat. 3164; amended Pub. L. 104–275, title III, §311(9), Oct. 9, 1996, 110 Stat. 3335.)
 
 #### Prior Provisions
 
 A prior section 4322 was renumbered section 7622 of this title.
+
+#### Amendments
+
+1996—Subsec. (d). Pub. L. 104–275, §311(9)(A), inserted “attempt to” before “resolve”.
+
+Subsec. (e). Pub. L. 104–275, §311(9)(B)(i), substituted “with respect to any complaint filed under subsection (a) do not resolve the complaint,” for “with respect to a complaint under subsection (d) are unsuccessful,” in introductory provisions.
+
+Subsec. (e)(2). Pub. L. 104–275, §311(9)(B)(ii), inserted “or the Office of Personnel Management” after “Federal executive agency”.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–275 effective Oct. 13, 1994, see section 313 of Pub. L. 104–275, set out as a note under section 4301 of this title.
 
 #### Effective Date
 

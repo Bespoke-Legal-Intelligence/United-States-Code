@@ -6,7 +6,7 @@ No person shall be eligible to election as Resident Commissioner who is not a bo
 
 #### Codification
 
-Section is comprised of fifth sentence of section 36 of act Mar. 2, 1917. See Codification note set out under section 891 of this title.
+Section is comprised of fifth and sixth sentences of section 36 of act Mar. 2, 1917. For classification of the remainder of section 36, see Codification note set out under section 891 of this title.
 
 #### Prior Provisions
 

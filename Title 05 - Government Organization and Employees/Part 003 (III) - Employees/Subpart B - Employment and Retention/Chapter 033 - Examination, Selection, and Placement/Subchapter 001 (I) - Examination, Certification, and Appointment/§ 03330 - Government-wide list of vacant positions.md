@@ -18,11 +18,13 @@
 
 (f) The Office may, to the extent it determines appropriate, charge such fees to agencies for services provided under this section and for related Federal employment information. The Office shall retain such fees to pay the costs of providing such services and information.
 
-(Added Pub. L. 102–484, div. D, title XLIV, §4431(a), Oct. 23, 1992, 106 Stat. 2719, §3329; renumbered §3330 and amended Pub. L. 104–52, title IV, §4(1), Nov. 19, 1995, 109 Stat. 490.)
+(Added Pub. L. 102–484, div. D, title XLIV, §4431(a), Oct. 23, 1992, 106 Stat. 2719, §3329; renumbered §3330 and amended Pub. L. 104–52, title IV, §4(1), Nov. 19, 1995, 109 Stat. 490; Pub. L. 104–106, div. A, title X, §1037(b)(1), Feb. 10, 1996, 110 Stat. 432.)
 
 #### Amendments
 
-<b>1995</b>—Pub. L. 104–52, §4(1)(A), renumbered section 3329 of this title, relating to government-wide list of vacant positions, as this section.
+1996—Pub. L. 104–106, which directed renumbering of the section 3329 of this title that was added by Pub. L. 102–484, §4431, as section 3330 of this title, could not be executed because of the intervening renumbering of that section by Pub. L. 104–52, §4(1)(A). See 1995 Amendment note below.
+
+1995—Pub. L. 104–52, §4(1)(A), renumbered section 3329 of this title, relating to government-wide list of vacant positions, as this section.
 
 Subsec. (f). Pub. L. 104–52, §4(1)(B), added subsec. (f).
 

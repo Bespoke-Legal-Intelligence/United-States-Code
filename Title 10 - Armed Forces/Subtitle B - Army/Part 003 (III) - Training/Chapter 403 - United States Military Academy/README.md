@@ -29,11 +29,13 @@
 | [4354\.](%C2%A7%2004354%20-%20Buildings%20and%20grounds%20memorial%20hall%3B%20buildings%20for%20religious%20worship.md) | Buildings and grounds: memorial hall; buildings for religious worship. |
 | [4355\.](%C2%A7%2004355%20-%20Board%20of%20Visitors.md) | Board of Visitors. |
 | [4356\.](%C2%A7%2004356%20-%20Use%20of%20certain%20gifts.md) | Use of certain gifts. |
-| [4357\.](%C2%A7%2004357%20-%20Athletics%20program%20athletic%20director%3B%20nonappropriated%20fund%20account.md) | Athletics program: athletic director; nonappropriated fund account. |
+| \[4357. | Repealed.\] |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1996—Pub. L. 104–106, div. A, title V, §533(a)(2), Feb. 10, 1996, 110 Stat. 315, struck out item 4357 “Athletics program: athletic director; nonappropriated fund account”.
 
 1994—Pub. L. 103–337, div. A, title V, §556(a)(2), Oct. 5, 1994, 108 Stat. 2774, added item 4357.
 
@@ -87,4 +89,4 @@ This chapter is referred to in title 37 section 209.
 - [&sect; 04354 - Buildings and grounds memorial hall; buildings for religious worship](%C2%A7%2004354%20-%20Buildings%20and%20grounds%20memorial%20hall%3B%20buildings%20for%20religious%20worship.md)
 - [&sect; 04355 - Board of Visitors](%C2%A7%2004355%20-%20Board%20of%20Visitors.md)
 - [&sect; 04356 - Use of certain gifts](%C2%A7%2004356%20-%20Use%20of%20certain%20gifts.md)
-- [&sect; 04357 - Athletics program athletic director; nonappropriated fund account](%C2%A7%2004357%20-%20Athletics%20program%20athletic%20director%3B%20nonappropriated%20fund%20account.md)
+- [&sect; 04357 - Repealed. Pub. L. 104&#8211;106, div. A, title V, &sect;533(a)(1), Feb. 10, 1996, 110 Stat. 315](%C2%A7%2004357%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93106%2C%20div.%20A%2C%20title%20V%2C%20%C2%A7533%28a%29%281%29%2C%20Feb.%2010%2C%201996%2C%20110%20Stat.%20315.md)

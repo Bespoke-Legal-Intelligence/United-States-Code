@@ -36,7 +36,7 @@
 
 |  |  |
 | :--- | ---: |
-| [4831\.](Subchapter%20003%20%28III%29%20-%20Federal%20Demonstration%20and%20Research%20Program%20Federal%20Housing%20Administration%20Requirements/%C2%A7%2004831%20-%20Use%20of%20lead-based%20paint.md) | Use of lead-based paint. |
+| [4831\.](Subchapter%20004%20%28IV%29%20-%20Prohibition%20Against%20Future%20Use%20of%20Lead-Based%20Paint/%C2%A7%2004831%20-%20Use%20of%20lead-based%20paint.md) | Use of lead-based paint. |
 | (a) | Prohibition by Secretary of Health and Human Services in application to cooking, drinking, or eating utensils. |
 | (b) | Prohibition by Secretary of Housing and Urban Development of use in residential structures constructed or rehabilitated by Federal Government or with Federal assistance. |
 | (c) | Prohibition by Consumer Product Safety Commission in application to toys or furniture articles. |
@@ -63,4 +63,5 @@
 - [Subchapter 001 (I) - Grants for Detection and Treatment of Lead-Based Paint Poisoning](Subchapter%20001%20%28I%29%20-%20Grants%20for%20Detection%20and%20Treatment%20of%20Lead-Based%20Paint%20Poisoning/README.md)
 - [Subchapter 002 (II) - Grants for Elimination of Lead-Based Paint Poisoning](Subchapter%20002%20%28II%29%20-%20Grants%20for%20Elimination%20of%20Lead-Based%20Paint%20Poisoning/README.md)
 - [Subchapter 003 (III) - Federal Demonstration and Research Program Federal Housing Administration Requirements](Subchapter%20003%20%28III%29%20-%20Federal%20Demonstration%20and%20Research%20Program%20Federal%20Housing%20Administration%20Requirements/README.md)
+- [Subchapter 004 (IV) - Prohibition Against Future Use of Lead-Based Paint](Subchapter%20004%20%28IV%29%20-%20Prohibition%20Against%20Future%20Use%20of%20Lead-Based%20Paint/README.md)
 - [Subchapter 005 (V) - General Provisions](Subchapter%20005%20%28V%29%20-%20General%20Provisions/README.md)

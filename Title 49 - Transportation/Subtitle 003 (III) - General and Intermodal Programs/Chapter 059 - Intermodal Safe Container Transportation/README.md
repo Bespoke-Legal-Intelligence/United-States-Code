@@ -8,9 +8,14 @@
 | [5904\.](%C2%A7%2005904%20-%20State%20enforcement.md) | State enforcement. |
 | [5905\.](%C2%A7%2005905%20-%20Liens.md) | Liens. |
 | [5906\.](%C2%A7%2005906%20-%20Perishable%20agricultural%20commodities.md) | Perishable agricultural commodities. |
-| [5907\.](%C2%A7%2005907%20-%20Regulations%20and%20effective%20date.md) | Regulations and effective date. |
+| [5907\.](%C2%A7%2005907%20-%20Effective%20date.md) | Effective date. |
+| [5908\.](%C2%A7%2005908%20-%20Relationship%20to%20other%20laws.md) | Relationship to other laws. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Amendments
+
+1996—Pub. L. 104–291, title II, §§208(b), 209(b), Oct. 11, 1996, 110 Stat. 3457, 3458, substituted “Effective date” for “Regulations and effective date” in item 5907 and added item 5908.
 
 #### Chapter Referred to in Other Sections
 
@@ -27,4 +32,5 @@ This chapter is referred to in section 521 of this title.
 - [&sect; 05904 - State enforcement](%C2%A7%2005904%20-%20State%20enforcement.md)
 - [&sect; 05905 - Liens](%C2%A7%2005905%20-%20Liens.md)
 - [&sect; 05906 - Perishable agricultural commodities](%C2%A7%2005906%20-%20Perishable%20agricultural%20commodities.md)
-- [&sect; 05907 - Regulations and effective date](%C2%A7%2005907%20-%20Regulations%20and%20effective%20date.md)
+- [&sect; 05907 - Effective date](%C2%A7%2005907%20-%20Effective%20date.md)
+- [&sect; 05908 - Relationship to other laws](%C2%A7%2005908%20-%20Relationship%20to%20other%20laws.md)

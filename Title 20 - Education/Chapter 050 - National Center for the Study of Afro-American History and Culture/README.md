@@ -18,7 +18,7 @@
 | (i) | Seal; bylaws; rules and regulations. |
 | (j) | Compensation. |
 | (k) | Temporary services. |
-| (<i>l)</i> | Personnel details. |
+| (<i>l</i>) | Personnel details. |
 | (m) | Administrative support services. |
 | [3703\.](%C2%A7%2003703%20-%20Report%20to%20Congress.md) | Report to Congress. |
 

@@ -6,5 +6,5 @@ If any provision of this chapter or the application thereof to any person or cir
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 91–597, Dec. 29, 1970, 84 Stat. 1620, as amended, which enacted this chapter,amended sections 633 and 636 of Title 15, Commerce and Trade, and enacted provisions set out as notes under section 1031 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1031 of this title and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 91–597, Dec. 29, 1970, 84 Stat. 1620, as amended, which enacted this chapter, amended sections 633 and 636 of Title 15, Commerce and Trade, and enacted provisions set out as notes under section 1031 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1031 of this title and Tables.
 

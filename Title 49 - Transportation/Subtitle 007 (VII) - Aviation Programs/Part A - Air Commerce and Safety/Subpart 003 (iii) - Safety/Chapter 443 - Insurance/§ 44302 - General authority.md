@@ -26,7 +26,9 @@ Additional Insurance.—With the approval of the Secretary, a person having an i
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

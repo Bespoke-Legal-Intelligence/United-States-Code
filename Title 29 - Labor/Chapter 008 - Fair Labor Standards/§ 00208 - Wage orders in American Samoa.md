@@ -2,7 +2,7 @@
 
 #### (a) Congressional policy; recommendation of wage rate by industry committee
 
-The policy of this chapter with respect to industries or enterprises in American Samoa engaged in commerce or in the production of goods for commerce is to reach as rapidly as is economically feasible without substantially curtailing employment the objective of the minimum wage rate which would apply in each suchindustry under paragraph (1) or (5) of section 206(a) of this title but for section 206(c) of this title. The Administrator shall from time to time convene an industry committee or committees, appointed pursuant to section 205 of this title, and any such industry committee shall from time to time recommend the minimum rate or rates of wages to be paid under section 206 of this title by employers in American Samoa engaged in commerce or in the production of goods for commerce or in any enterprise engaged in commerce or in the production of goods for commerce in any such industry or classifications therein, and who but for section 206(a)(3) of this title would be subject to the minimum wage requirements of section 206(a)(1) of this title. Minimum rates of wages established in accordance with this section which are not equal to the otherwise applicable minimum wage rate in effect under paragraph (1) or (5) of section 206(a) of this title shall be reviewed by such a Committee once during each biennial period, beginning with the biennial period commencing July 1, 1958, except that the Secretary, in his discretion, may order an additional review during any such biennial period.
+The policy of this chapter with respect to industries or enterprises in American Samoa engaged in commerce or in the production of goods for commerce is to reach as rapidly as is economically feasible without substantially curtailing employment the objective of the minimum wage rate which would apply in each such industry under paragraph (1) or (5) of section 206(a) of this title but for section 206(c) <sup>1</sup> of this title. The Administrator shall from time to time convene an industry committee or committees, appointed pursuant to section 205 of this title, and any such industry committee shall from time to time recommend the minimum rate or rates of wages to be paid under section 206 of this title by employers in American Samoa engaged in commerce or in the production of goods for commerce or in any enterprise engaged in commerce or in the production of goods for commerce in any such industry or classifications therein, and who but for section 206(a)(3) of this title would be subject to the minimum wage requirements of section 206(a)(1) of this title. Minimum rates of wages established in accordance with this section which are not equal to the otherwise applicable minimum wage rate in effect under paragraph (1) or (5) of section 206(a) of this title shall be reviewed by such a Committee once during each biennial period, beginning with the biennial period commencing July 1, 1958, except that the Secretary, in his discretion, may order an additional review during any such biennial period.
 
 #### (b) Investigation of industry condition by industry committee; matters considered
 
@@ -34,9 +34,13 @@ Due notice of any hearing provided for in this section shall be given by publica
 
 (June 25, 1938, ch. 676, §8, 52 Stat. 1064; Oct. 26, 1949, ch. 736, §8, 63 Stat. 915; Aug. 12, 1955, ch. 867, §§4, 5(b)–(e), 69 Stat. 711, 712; Aug. 25, 1958, Pub. L. 85–750, 72 Stat. 844; May 5, 1961, Pub. L. 87–30, §7, 75 Stat. 70; Apr. 8, 1974, Pub. L. 93–259, §5(c)(1), (d), 88 Stat. 58; Nov. 1, 1977, Pub. L. 95–151, §2(d)(3), 91 Stat. 1246; Nov. 17, 1989, Pub. L. 101–157, §4(c), 103 Stat. 940; Nov. 15, 1990, Pub. L. 101–583, §1, 104 Stat. 2871.)
 
+#### References in Text
+
+Section 206(c) of this title, referred to in subsec. (a), was repealed by Pub. L. 104–188, title II, §2104(c), Aug. 20, 1996, 110 Stat. 1929.
+
 #### Amendments
 
-1990—Subsec. (b). Pub. L. 101–583, which directed the substitution of “unless there is evidence in the record which establishes that the industry, or a predominant portion thereof, is unable to pay that wage due to such economic and competitive conditions” for “unless there is substantial documentary evidence, including pertinent unabridged profit and loss statements andbalance sheets for a representative period of years or in the case of employees of public agencies other appropriate information, in the record which establishes that the industry, or a predominant portion thereof, is unable to pay that wage” in “section 8(b) (29 U.S.C. 208(b))”, was executed by making the substitution in section 8(b) of the Fair Labor Standards Act of 1938, act June 25, 1938, ch. 676, which is classified to subsec. (b) of this section, to reflect the probable intent of Congress.
+1990—Subsec. (b). Pub. L. 101–583, which directed the substitution of “unless there is evidence in the record which establishes that the industry, or a predominant portion thereof, is unable to pay that wage due to such economic and competitive conditions” for “unless there is substantial documentary evidence, including pertinent unabridged profit and loss statements and balance sheets for a representative period of years or in the case of employees of public agencies other appropriate information, in the record which establishes that the industry, or a predominant portion thereof, is unable to pay that wage” in “section 8(b) (29 U.S.C. 208(b))”, was executed by making the substitution in section 8(b) of the Fair Labor Standards Act of 1938, act June 25, 1938, ch. 676, which is classified to subsec. (b) of this section, to reflect the probable intent of Congress.
 
 1989—Pub. L. 101–157, §4(c)(5), substituted “American Samoa” for “Puerto Rico and the Virgin Islands” in section catchline.
 
@@ -125,4 +129,6 @@ The term “Secretary” as meaning the Secretary of Labor, see section 6 of act
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 205, 206, 210 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

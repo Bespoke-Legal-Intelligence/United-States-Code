@@ -26,5 +26,5 @@ Subsec. (d). Pub. L. 101–647, §3546, struck out subsec. (d) which read as fol
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 2516 of this title.
+This section is referred to in sections 2332b, 2339A, 2516 of this title.
 

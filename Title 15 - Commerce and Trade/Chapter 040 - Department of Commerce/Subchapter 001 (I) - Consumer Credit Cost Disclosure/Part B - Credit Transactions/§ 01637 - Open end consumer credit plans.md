@@ -236,7 +236,7 @@ The creditor of any account under an open end consumer credit plan shall transmi
 
 &emsp;&emsp;&emsp;(iii) approval by the charge card issuer does not constitute approval by the issuer of the extension of credit.
 
-> &emsp;&emsp;The information required to be disclosed under paragraph (1) shall be provided to thecharge card holder by the creditor which maintains such open end consumer credit plan before the first extension of credit under such plan.
+> &emsp;&emsp;The information required to be disclosed under paragraph (1) shall be provided to the charge card holder by the creditor which maintains such open end consumer credit plan before the first extension of credit under such plan.
 
 #### (E) Charge card defined
 

@@ -58,187 +58,187 @@
 
 &emsp;&emsp;&nbsp;5,000
 
-$74.00&nbsp;
+$86.00&nbsp;
 
 &emsp;&emsp;&nbsp;6,000
 
-69\.50&nbsp;
+81\.00&nbsp;
 
 &emsp;&emsp;&nbsp;7,000
 
-65\.00&nbsp;
+76\.00&nbsp;
 
 &emsp;&emsp;&nbsp;8,000
 
-61\.00&nbsp;
+71\.00&nbsp;
 
 &emsp;&emsp;&nbsp;9,000
 
-56\.00&nbsp;
+65\.50&nbsp;
 
 &emsp;&emsp;10,000
 
-52\.00&nbsp;
+60\.00&nbsp;
 
 &emsp;&emsp;11,000
 
-50\.50&nbsp;
+58\.50&nbsp;
 
 &emsp;&emsp;12,000
 
-49\.00&nbsp;
+57\.00&nbsp;
 
 &emsp;&emsp;13,000
 
-47\.50&nbsp;
+55\.00&nbsp;
 
 &emsp;&emsp;14,000
 
-46\.00&nbsp;
+53\.50&nbsp;
 
 &emsp;&emsp;15,000
 
-44\.50&nbsp;
+51\.50&nbsp;
 
 &emsp;&emsp;16,000
 
-43\.50&nbsp;
+51\.00&nbsp;
 
 &emsp;&emsp;17,000
 
-43\.00&nbsp;
+50\.00&nbsp;
 
 &emsp;&emsp;18,000
 
-42\.00&nbsp;
+49\.00&nbsp;
 
 &emsp;&emsp;19,000
 
-41\.50&nbsp;
+48\.00&nbsp;
 
 &emsp;&emsp;20,000
 
-41\.00&nbsp;
+47\.50&nbsp;
 
 &emsp;&emsp;21,000
 
-40\.25&nbsp;
+47\.25&nbsp;
 
 &emsp;&emsp;22,000
 
-40\.00&nbsp;
+46\.25&nbsp;
 
 &emsp;&emsp;23,000
 
-39\.50&nbsp;
+46\.00&nbsp;
 
 &emsp;&emsp;24,000
 
-39\.00&nbsp;
+45\.25&nbsp;
 
 &emsp;&emsp;25,000
 
-38\.50&nbsp;
+45\.00&nbsp;
 
 &emsp;&emsp;26,000
 
-38\.25&nbsp;
+44\.50&nbsp;
 
 &emsp;&emsp;27,000
 
-38\.00&nbsp;
+44\.00&nbsp;
 
 &emsp;&emsp;28,000
 
-37\.50&nbsp;
+43\.75&nbsp;
 
 &emsp;&emsp;29,000
 
-37\.25&nbsp;
+43\.50&nbsp;
 
 &emsp;&emsp;30,000
 
-37\.00&nbsp;
+43\.00 
 
 &emsp;&emsp;31,000
 
-36\.75&nbsp;
+42\.50&nbsp;
 
 &emsp;&emsp;32,000
 
-36\.25&nbsp;
+42\.00&nbsp;
 
 &emsp;&emsp;33,000
 
-36\.00&nbsp;
+41\.75&nbsp;
 
 &emsp;&emsp;34,000
 
-35\.50&nbsp;
+41\.25&nbsp;
 
 &emsp;&emsp;35,000
 
-35\.00&nbsp;
+41\.00&nbsp;
 
 &emsp;&emsp;36,000
 
-34\.75&nbsp;
+40\.50&nbsp;
 
 &emsp;&emsp;37,000
 
-34\.50&nbsp;
+40\.00&nbsp;
 
 &emsp;&emsp;38,000
 
-34\.00&nbsp;
+39\.50&nbsp;
 
 &emsp;&emsp;39,000
 
-33\.75&nbsp;
+39\.00&nbsp;
 
 &emsp;&emsp;40,000
 
-33\.25&nbsp;
+38\.75&nbsp;
 
 &emsp;&emsp;41,000
 
-33\.00&nbsp;
+38\.25&nbsp;
 
 &emsp;&emsp;42,000
 
-32\.50&nbsp;
+38\.00&nbsp;
 
 &emsp;&emsp;43,000
 
-32\.25&nbsp;
+37\.50&nbsp;
 
 &emsp;&emsp;44,000
 
-32\.00&nbsp;
+37\.00&nbsp;
 
 &emsp;&emsp;45,000
 
-31\.50&nbsp;
+36\.50&nbsp;
 
 &emsp;&emsp;46,000
 
-31\.00&nbsp;
+36\.00&nbsp;
 
 &emsp;&emsp;47,000
 
-30\.75&nbsp;
+35\.75&nbsp;
 
 &emsp;&emsp;48,000
 
-30\.50 
+35\.25&nbsp;
 
 &emsp;&emsp;49,000
 
-30\.00&nbsp;
+35\.00&nbsp;
 
 &emsp;&emsp;50,000
 
-29\.50.&nbsp;&nbsp;
+34\.50.&nbsp;&nbsp;
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -247,210 +247,6 @@ $74.00&nbsp;
 (Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 1032; Pub. L. 98–63, title I, §101(2), July 30, 1983, 97 Stat. 324; Pub. L. 103–397, §§2, 3, 5(b), Oct. 22, 1994, 108 Stat. 4156–4158.)
 
 #### Amendment of Subsection (c)(2)
-
-<i>Pub. L. 103–397, §5(b)(3), Oct. 22, 1994, 108 Stat. 4159, provided that, during fiscal year 1997, the table at the end of subsection (c)(2) is amended to read as follows:</i>
-
-&nbsp;
-
-<i>the limitation</i>
-
-&nbsp;
-
-<i>is equal to the</i>
-
-&nbsp;
-
-<i>population</i>
-
-<i>If population equals—</i>
-
-<i>times—</i>
-
-&emsp;&emsp;<i> 5,000</i>
-
-<i>$86.00 </i>
-
-&emsp;&emsp;<i> 6,000</i>
-
-<i>81.00 </i>
-
-&emsp;&emsp;<i> 7,000</i>
-
-<i>76.00 </i>
-
-&emsp;&emsp;<i> 8,000</i>
-
-<i>71.00 </i>
-
-&emsp;&emsp;<i> 9,000</i>
-
-<i>65.50 </i>
-
-&emsp;&emsp;<i>10,000</i>
-
-<i>60.00 </i>
-
-&emsp;&emsp;<i>11,000</i>
-
-<i>58.50 </i>
-
-&emsp;&emsp;<i>12,000</i>
-
-<i>57.00 </i>
-
-&emsp;&emsp;<i>13,000</i>
-
-<i>55.00 </i>
-
-&emsp;&emsp;<i>14,000</i>
-
-<i>53.50 </i>
-
-&emsp;&emsp;<i>15,000</i>
-
-<i>51.50 </i>
-
-&emsp;&emsp;<i>16,000</i>
-
-<i>51.00 </i>
-
-&emsp;&emsp;<i>17,000</i>
-
-<i>50.00 </i>
-
-&emsp;&emsp;<i>18,000</i>
-
-<i>49.00 </i>
-
-&emsp;&emsp;<i>19,000</i>
-
-<i>48.00 </i>
-
-&emsp;&emsp;<i>20,000</i>
-
-<i>47.50 </i>
-
-&emsp;&emsp;<i>21,000</i>
-
-<i>47.25 </i>
-
-&emsp;&emsp;<i>22,000</i>
-
-<i>46.25 </i>
-
-&emsp;&emsp;<i>23,000</i>
-
-<i>46.00 </i>
-
-&emsp;&emsp;<i>24,000</i>
-
-<i>45.25 </i>
-
-&emsp;&emsp;<i>25,000</i>
-
-<i>45.00 </i>
-
-&emsp;&emsp;<i>26,000</i>
-
-<i>44.50 </i>
-
-&emsp;&emsp;<i>27,000</i>
-
-<i>44.00 </i>
-
-&emsp;&emsp;<i>28,000</i>
-
-<i>43.75 </i>
-
-&emsp;&emsp;<i>29,000</i>
-
-<i>43.50 </i>
-
-&emsp;&emsp;<i>30,000</i>
-
-<i>43.00 </i>
-
-&emsp;&emsp;<i>31,000</i>
-
-<i>42.50 </i>
-
-&emsp;&emsp;<i>32,000</i>
-
-<i>42.00 </i>
-
-&emsp;&emsp;<i>33,000</i>
-
-<i>41.75 </i>
-
-&emsp;&emsp;<i>34,000</i>
-
-<i>41.25 </i>
-
-&emsp;&emsp;<i>35,000</i>
-
-<i>41.00 </i>
-
-&emsp;&emsp;<i>36,000</i>
-
-<i>40.50 </i>
-
-&emsp;&emsp;<i>37,000</i>
-
-<i>40.00 </i>
-
-&emsp;&emsp;<i>38,000</i>
-
-<i>39.50 </i>
-
-&emsp;&emsp;<i>39,000</i>
-
-<i>39.00 </i>
-
-&emsp;&emsp;<i>40,000</i>
-
-<i>38.75 </i>
-
-&emsp;&emsp;<i>41,000</i>
-
-<i>38.25 </i>
-
-&emsp;&emsp;<i>42,000</i>
-
-<i>38.00 </i>
-
-&emsp;&emsp;<i>43,000</i>
-
-<i>37.50 </i>
-
-&emsp;&emsp;<i>44,000</i>
-
-<i>37.00 </i>
-
-&emsp;&emsp;<i>45,000</i>
-
-<i>36.50 </i>
-
-&emsp;&emsp;<i>46,000</i>
-
-<i>36.00 </i>
-
-&emsp;&emsp;<i>47,000</i>
-
-<i>35.75 </i>
-
-&emsp;&emsp;<i>48,000</i>
-
-<i>35.25 </i>
-
-&emsp;&emsp;<i>49,000</i>
-
-<i>35.00 </i>
-
-&emsp;&emsp;<i>50,000</i>
-
-<i>34.50.  </i>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <i>Pub. L. 103–397, §5(b)(4), Oct. 22, 1994, 108 Stat. 4160, provided that, during fiscal year 1998, the table at the end of subsection (c)(2) is amended to read as follows:</i>
 
@@ -930,7 +726,9 @@ Subsec. (b)(1)(B). Pub. L. 103–397, §2(a)(2), substituted “12 cents during 
 
 Subsec. (c)(1). Pub. L. 103–397, §2(b)(1), substituted “the highest dollar amount specified in paragraph (2)” for “$50 times the population”.
 
-Subsec. (c)(2). Pub. L. 103–397, §5(b)(2), amended table generally for fiscal year 1996 by augmenting dollar amounts by which population totals must be multiplied in order to equal the limitation from $24.75 to $62.00 under prior table to $29.50 to $74.00.
+Subsec. (c)(2). Pub. L. 103–397, §5(b)(3), amended table generally for fiscal year 1997 by augmenting dollar amounts by which population totals must be multiplied in order to equal the limitation from $29.50 to $74.00 under prior table to $34.50 to $86.00.
+
+Pub. L. 103–397, §5(b)(2), amended table generally for fiscal year 1996 by augmenting dollar amounts by which population totals must be multiplied in order to equal the limitation from $24.75 to $62.00 under prior table to $29.50 to $74.00.
 
 Pub. L. 103–397, §5(b)(1), amended table generally for fiscal year 1995 by augmenting dollar amounts by which population totals must be multiplied in order to equal the limitation from $20.00 to $50.00 under prior table to $24.75 to $62.00.
 
@@ -952,7 +750,7 @@ Section 5(b)(4) of Pub. L. 103–397 provided for the amendment of the table at 
 
 #### Payments Made Prior to January 1, 1983
 
-Section 101(3) of Pub. L. 98–63 provided in part that: “The United States shall not be subject to any cause ofaction or any liability for distribution of payments made prior to January 1, 1983, under the Act of October 20, 1976 (90 Stat. 2662), as amended \[Pub. L. 94–565, see 31 U.S.C. 6901 et seq.\], or regulations pursuant thereto.”
+Section 101(3) of Pub. L. 98–63 provided in part that: “The United States shall not be subject to any cause of action or any liability for distribution of payments made prior to January 1, 1983, under the Act of October 20, 1976 (90 Stat. 2662), as amended \[Pub. L. 94–565, see 31 U.S.C. 6901 et seq.\], or regulations pursuant thereto.”
 
 #### Section Referred to in Other Sections
 

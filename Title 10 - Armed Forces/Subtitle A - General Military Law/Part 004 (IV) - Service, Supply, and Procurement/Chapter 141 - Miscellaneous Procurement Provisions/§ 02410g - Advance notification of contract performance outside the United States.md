@@ -24,7 +24,7 @@ Availability of Notifications.—The Secretary of Defense shall ensure that the 
 
 Inapplicability to Certain Contracts.—This section shall not apply to contracts for any of the following:
 
-&emsp;(1) Commercial items.
+&emsp;(1) Commercial items (as defined in section 4(12) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(12))).
 
 &emsp;(2) Military construction.
 
@@ -40,9 +40,17 @@ Inapplicability to Certain Contracts.—This section shall not apply to contract
 
 &emsp;(8) Subsistence.
 
-(Added Pub. L. 102–484, div. A, title VIII, §840(a)(1), Oct. 23, 1992, 106 Stat. 2466.)
+(Added Pub. L. 102–484, div. A, title VIII, §840(a)(1), Oct. 23, 1992, 106 Stat. 2466; amended Pub. L. 104–106, div. D, title XLIII, §4321(b)(16), Feb. 10, 1996, 110 Stat. 673.)
+
+#### Amendments
+
+1996—Subsec. (d)(1). Pub. L. 104–106 inserted “(as defined in section 4(12) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(12)))” before period at end.
+
+#### Effective Date of 1996 Amendment
+
+For effective date and applicability of amendment by Pub. L. 104–106, see section 4401 of Pub. L. 104–106, set out as a note under section 251 of Title 41, Public Contracts.
 
 #### Effective Date of 1992 Amendment
 
-Section 840(b) of Pub. L. 102–484 provided that: “Section 2410g of title 10, United States Code (as added by subsection (a)), shall take effect 90 days after the date of the enactment of this Act \[Oct. 23, 1992\].”
+Section 840(b) of Pub. L. 102–484 provided that: “Section 2410g of title 10, United States Code (as added bysubsection (a)), shall take effect 90 days after the date of the enactment of this Act \[Oct. 23, 1992\].”
 

@@ -38,7 +38,7 @@ The Secretary is authorized, in accordance with the provisions of this section, 
 
 &emsp;(A) The Secretary may not use more than 3 percent of the amount appropriated to carry out this section in each fiscal year to enter into contracts described in paragraph (1)(A).
 
-&emsp;(B) The Secretary may use not more than 3 percent of the amount appropriated to carry out this section in each fiscal year to enter into contracts described in paragraph (1)(B).
+&emsp;(B) The Secretary may use not more than 3 percent of the amount appropriated to carryout this section in each fiscal year to enter into contracts described in paragraph (1)(B).
 
 #### (c) Supplement not supplant
 

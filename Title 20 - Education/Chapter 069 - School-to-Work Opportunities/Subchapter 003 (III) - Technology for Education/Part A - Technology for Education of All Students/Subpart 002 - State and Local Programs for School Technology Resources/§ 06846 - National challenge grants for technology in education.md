@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;From amounts made available under section 6814(b)(1) <sup>1</sup> of this title for any fiscal year the Secretary is authorized to award grants, on a competitive basis, to consortia having applications approved under subsection (d) of this section, which consortia shall include at least one local educational agency with a high percentage or number of children living below the poverty line and may include other local educational agencies, State educational agencies, institutions of higher education, businesses, academic content experts, software designers,museums, libraries, or other appropriate entities.
+&emsp;From amounts made available under section 6814(b)(1) <sup>1</sup> of this title for any fiscal year the Secretary is authorized to award grants, on a competitive basis, to consortia having applications approved under subsection (d) of this section, which consortia shall include at least one local educational agency with a high percentage or number of children living below the poverty line and may include other local educational agencies, State educational agencies, institutions of higher education, businesses, academic content experts, software designers, museums, libraries, or other appropriate entities.
 
 #### (2) Duration
 

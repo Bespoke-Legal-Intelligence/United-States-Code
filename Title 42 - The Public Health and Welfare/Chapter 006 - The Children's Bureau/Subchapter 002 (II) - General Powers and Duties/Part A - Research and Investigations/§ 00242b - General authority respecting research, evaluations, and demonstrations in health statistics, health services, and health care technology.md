@@ -32,7 +32,7 @@ Sections 242c and 242n of this title, referred to in subsec. (b)(3), were repeal
 
 1993—Subsec. (d). Pub. L. 103–183 struck out subsec. (d) which directed Secretary to conduct an ongoing study of present and projected future health costs of pollution and other environmental conditions resulting from human activity and to submit to Congress reports on the study.
 
-1989—Subsec. (a). Pub. L. 101–239, §6103(e)(1)(B), substituted “the Agency for Health Care Policy and Research” for “the National Center for Health ServicesResearch and Health Care Technology Assessment” and “in section 242k of this title and in subchapter VII of this chapter” for “in sections 242c, 242k, and 242n of this title”.
+1989—Subsec. (a). Pub. L. 101–239, §6103(e)(1)(B), substituted “the Agency for Health Care Policy and Research” for “the National Center for Health Services Research and Health Care Technology Assessment” and “in section 242k of this title and in subchapter VII of this chapter” for “in sections 242c, 242k, and 242n of this title”.
 
 Pub. L. 101–239, §6103(e)(1)(A), redesignated par. (3) as entire subsec. (a) and struck out pars. (1) and (2) which required Secretary to conduct and support research, demonstrations, evaluations, and statistical and epidemiological activities for purpose of improving health services in the United States, and which specified types of activities Secretary was to emphasize in carrying out par. (1).
 
@@ -64,7 +64,7 @@ Subsec. (a)(2). Pub. L. 95–623, §3(a), provided for emphasis to demonstration
 
 Subsec. (a)(3). Pub. L. 95–623, §3(a), added par. (3).
 
-Subsec. (b)(1). Pub. L. 95–623, §3(b), as amended by Pub. L. 96–32, §5(a), substituted “, when appropriate, enter into contracts with public and private entities and individuals” for “enter into contracts with public and private entities and individuals, for (A) health services research, evaluation, and demonstrations, and (B) health services research and health statistics training, and (C) health statistical activities”.
+Subsec. (b)(1). Pub. L. 95–623, §3(b), as amended by Pub. L. 96–32, §5(a), substituted “, when appropriate, enter into contracts with public and private entities and individuals” for “enter into contracts with public and private entities and individuals, for (A) health services research, evaluation, and demonstrations, and (B) health services research and health statistics training, and (C) health statistical activities”.
 
 Subsec. (b)(3). Pub. L. 95–623, §3(d), as amended by Pub. L. 96–32, §5(b), substituted “advisable but in accordance with section 3109 of title 5” for “advisable”, struck out “experts and” before “consultants”, and authorized the Secretary to obtain for the centers the services of experts with appropriate scientific or professional qualifications.
 
@@ -72,7 +72,7 @@ Subsec. (c). Pub. L. 95–623, §3(c), designated existing text as par. (1), sub
 
 Subsec. (d). Pub. L. 95–623, §7, as amended by Pub. L. 96–32, §5(c), added subsec. (d).
 
-1974—Pub. L. 93–353, in revising generally provisions of subsecs. (a) to (c), provided for general authority respecting health statistics and health services research, evaluation, and demonstrations, subsec. (a) relating to scope of activities, subsec. (b) relating to additional authority and scope of activities, and subsec. (c) relating to coordination of activities through units of the Department. Former provisions related to research and demonstrations relating to health facilities and services, subsec. (a) relating to grants and contracts for projects for research, experiments, or demonstrations and related training, cost limitation, wage rates, labor standards, and other conditions, and payments (former subsec. (a)(2) and (3) now being covered by section 242m(h) and (e), respectively), subsec. (b) relating to systems analysis of national health care plans, and cost and coverage report on existing legislative proposals, and subsec. (c) relating to authorization of appropriations.
+1974—Pub. L. 93–353, in revising generally provisions of subsecs. (a) to (c), provided for general authority respecting health statistics and health services research, evaluation, and demonstrations, subsec. (a) relating to scope of activities, subsec. (b) relating to additional authority and scope of activities, and subsec. (c) relatingto coordination of activities through units of the Department. Former provisions related to research and demonstrations relating to health facilities and services, subsec. (a) relating to grants and contracts for projects for research, experiments, or demonstrations and related training, cost limitation, wage rates, labor standards, and other conditions, and payments (former subsec. (a)(2) and (3) now being covered by section 242m(h) and (e), respectively), subsec. (b) relating to systems analysis of national health care plans, and cost and coverage report on existing legislative proposals, and subsec. (c) relating to authorization of appropriations.
 
 1973—Subsec. (c)(1). Pub. L. 93–45 authorized appropriations of $42,617,000 for fiscal year ending June 30, 1974.
 

@@ -6,7 +6,7 @@ For the purposes of this subchapter—
 
 (2) The term “service-connected disabilities” means disabilities determined by the Secretary under laws administered by the Secretary to have been incurred in or aggravated by the service described in paragraph (1) in line of duty.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1146, §634; Pub. L. 89–612, §3, Sept. 30, 1966, 80 Stat. 861; renumbered §635, Pub. L. 96–22, title I, §106(a),June 13, 1979, 93 Stat. 53; renumbered §1735 and amended Pub. L. 102–83, §§4(a)(1), (b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 403–406.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1146, §634; Pub. L. 89–612, §3, Sept. 30, 1966, 80 Stat. 861; renumbered §635, Pub. L. 96–22, title I, §106(a), June 13, 1979, 93 Stat. 53; renumbered §1735 and amended Pub. L. 102–83, §§4(a)(1), (b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 403–406.)
 
 #### References in Text
 

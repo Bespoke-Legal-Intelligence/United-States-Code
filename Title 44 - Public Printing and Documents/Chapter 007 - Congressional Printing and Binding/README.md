@@ -36,7 +36,7 @@
 | [732\.](%C2%A7%2000732%20-%20Time%20for%20distribution%20of%20documents%20by%20Members%20of%20Congress%20extended.md) | Time for distribution of documents by Members of Congress extended. |
 | [733\.](%C2%A7%2000733%20-%20Documents%20and%20reports%20ordered%20by%20Members%20of%20Congress%3B%20franks%20and%20envelopes%20for%20Members%20of%20Congress.md) | Documents and reports ordered by Members of Congress; franks and envelopes for Members of Congress. |
 | [734\.](%C2%A7%2000734%20-%20Stationery%20and%20blank%20books%20for%20Congress.md) | Stationery and blank books for Congress. |
-| [735\.](%C2%A7%2000735%20-%20Binding%20for%20Members%20of%20Congress.md) | Binding for Members of Congress. |
+| [735\.](%C2%A7%2000735%20-%20Binding%20for%20Senators.md) | Binding for Senators. |
 | [736\.](%C2%A7%2000736%20-%20Binding%20at%20expense%20of%20Members%20of%20Congress.md) | Binding at expense of Members of Congress. |
 | [737\.](%C2%A7%2000737%20-%20Binding%20for%20Senate%20library.md) | Binding for Senate library. |
 | [738\.](%C2%A7%2000738%20-%20Binding%20of%20publications%20for%20distribution%20to%20libraries.md) | Binding of publications for distribution to libraries. |
@@ -45,6 +45,10 @@
 | [741\.](%C2%A7%2000741%20-%20Disposition%20of%20documents%20stored%20at%20Capitol.md) | Disposition of documents stored at Capitol. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Amendments
+
+1996—Pub. L. 104–186, title II, §223(4)(B), Aug. 20, 1996, 110 Stat. 1751, substituted “Senators” for “Members of Congress” in item 735.
 
 #### Federal Records Management Provisions Without Effect on Chapter
 
@@ -89,7 +93,7 @@ Authority and responsibilities under chapter not limited or repealed by Federal 
 - [&sect; 00732 - Time for distribution of documents by Members of Congress extended](%C2%A7%2000732%20-%20Time%20for%20distribution%20of%20documents%20by%20Members%20of%20Congress%20extended.md)
 - [&sect; 00733 - Documents and reports ordered by Members of Congress; franks and envelopes for Members of Congress](%C2%A7%2000733%20-%20Documents%20and%20reports%20ordered%20by%20Members%20of%20Congress%3B%20franks%20and%20envelopes%20for%20Members%20of%20Congress.md)
 - [&sect; 00734 - Stationery and blank books for Congress](%C2%A7%2000734%20-%20Stationery%20and%20blank%20books%20for%20Congress.md)
-- [&sect; 00735 - Binding for Members of Congress](%C2%A7%2000735%20-%20Binding%20for%20Members%20of%20Congress.md)
+- [&sect; 00735 - Binding for Senators](%C2%A7%2000735%20-%20Binding%20for%20Senators.md)
 - [&sect; 00736 - Binding at expense of Members of Congress](%C2%A7%2000736%20-%20Binding%20at%20expense%20of%20Members%20of%20Congress.md)
 - [&sect; 00737 - Binding for Senate library](%C2%A7%2000737%20-%20Binding%20for%20Senate%20library.md)
 - [&sect; 00738 - Binding of publications for distribution to libraries](%C2%A7%2000738%20-%20Binding%20of%20publications%20for%20distribution%20to%20libraries.md)

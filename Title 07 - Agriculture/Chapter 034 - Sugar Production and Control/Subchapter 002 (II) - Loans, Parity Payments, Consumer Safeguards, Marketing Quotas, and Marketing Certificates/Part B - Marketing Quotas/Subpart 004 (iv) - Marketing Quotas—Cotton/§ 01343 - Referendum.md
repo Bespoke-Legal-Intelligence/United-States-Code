@@ -28,27 +28,19 @@ Subsec. (a). Act Oct. 31, 1949, repealed amendatory provisions of act July 3, 19
 
 Amendment by act July 3, 1948, effective Jan. 1, 1950, see section 303 of act July 3, 1948, set out as a note under section 1301 of this title.
 
-#### Inapplicability to 1984 and Subsequent Crops of Extra Long Staple Cotton
+#### Inapplicability of Section
 
 Section inapplicable to 1984 and subsequent crops of extra long staple cotton, see section 3 of Pub. L. 98–88, set out as a note under section 1342 of this title.
 
-#### Inapplicability to 1991 Through 1995 Crops of Upland Cotton
+Section inapplicable to 1996 through 2002 crops of loan commodities, peanuts, and sugar and inapplicable to milk during period beginning Apr. 4, 1996, and ending Dec. 31, 2002, see section 7301(a)(1)(A) of this title.
 
 Section inapplicable to 1991 through 1995 crops of upland cotton, see section 502 of Pub. L. 101–624, set out as a note under section 1342 of this title.
 
-#### Inapplicability to 1986 Through 1990 Crops of Upland Cotton
-
 Section inapplicable to 1986 through 1990 crops of upland cotton, see section 502 of Pub. L. 99–198, set out as a note under section 1342 of this title.
-
-#### Inapplicability to 1982 Through 1985 Crops of Upland Cotton
 
 Section inapplicable to 1982 through 1985 crops of upland cotton, see section 501 of Pub. L. 97–98, set out as a note under section 1342 of this title.
 
-#### Inapplicability to 1978 Through 1981 Crops of Upland Cotton
-
 Section inapplicable to 1978 through 1981 crops of upland cotton, see section 601 of Pub. L. 95–113, set out as a note under section 1342 of this title.
-
-#### Inapplicability to 1971 Through 1977 Crops of Upland Cotton
 
 Pub. L. 91–524, title VI, §601(1), Nov. 30, 1970, 84 Stat. 1371, as amended by Pub. L. 93–86, §1(19)(A), Aug. 10, 1973, 87 Stat. 233, provided that this section is inapplicable to 1971 through 1977 crops of upland cotton.
 

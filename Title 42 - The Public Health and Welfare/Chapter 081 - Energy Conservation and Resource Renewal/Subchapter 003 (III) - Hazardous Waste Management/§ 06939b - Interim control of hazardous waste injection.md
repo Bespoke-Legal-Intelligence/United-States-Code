@@ -42,7 +42,7 @@ The terms “primary enforcement responsibility”, “underground source of dri
 
 #### References in Text
 
-The Safe Drinking Water Act, referred to in subsecs. (a), (c), and (d), is Pub. L. 93–523, Dec. 16, 1974, 88 Stat. 1660, as amended, which enacted title XIV of the Public Health Service Act and which is classified to subchapter XII (§300f et seq.) of chapter 6A of this title. Part C of the Safe Drinking Water Act is classified generally to part C (§300h et seq.) of subchapter XII of chapter 6A of this title. For complete classification of this Act to the Code, see Short Title of 1974 Amendments note set out under section 201 of this title and Tables.
+Title XIV of the Public Health Service Act, referred to in subsec. (d), is title XIV of act July 1, 1944, as added Dec. 16, 1974, Pub. L. 93–523, §2(a), 88 Stat. 1660, as amended, known as the Safe Drinking Water Act, which is classified generally to subchapter XII (§300f et seq.) of chapter 6A of this title. Part C of the Act is classified generally to part C (§300h et seq.) of subchapter XII of chapter 6A of this title. For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.
 
 #### Codification
 

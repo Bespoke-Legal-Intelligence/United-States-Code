@@ -14,7 +14,11 @@ The Secretary shall ensure that not less than 65 percent of the funds appropriat
 
 #### (d) Authorization of appropriations
 
-There are authorized to be appropriated for each of the fiscal years 1991 through 1995 such sums as may be necessary for the purpose of carrying out the program established under subsection (b) of this section.
+There are authorized to be appropriated for each of the fiscal years 1991 through 2002 such sums as may be necessary for the purpose of carrying out the program established under subsection (b) of this section.
 
-(Pub. L. 101–624, title XXV, §2506, Nov. 28, 1990, 104 Stat. 4068.)
+(Pub. L. 101–624, title XXV, §2506, Nov. 28, 1990, 104 Stat. 4068; Pub. L. 104–127, title IX, §916, Apr. 4, 1996, 110 Stat. 1187.)
+
+#### Amendments
+
+1996—Subsec. (d). Pub. L. 104–127 substituted “2002” for “1995”.
 

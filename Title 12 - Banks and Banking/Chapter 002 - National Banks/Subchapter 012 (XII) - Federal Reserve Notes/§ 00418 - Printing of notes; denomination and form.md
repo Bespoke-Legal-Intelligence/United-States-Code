@@ -10,7 +10,7 @@ This chapter, referred to in text, was in the original “this Act”, meaning a
 
 #### Codification
 
-Section is comprised of eighth par. of section 16 of act Dec. 23, 1913. For classification to this title of other pars. of section 16, see Codification note set out under section 411 of this title.
+Section is comprised of eighth par. of section 16 of act Dec. 23, 1913. For classification to this title of otherpars. of section 16, see Codification note set out under section 411 of this title.
 
 #### Amendments
 

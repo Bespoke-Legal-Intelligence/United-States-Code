@@ -1,0 +1,24 @@
+### §2472. Management of depot employees
+
+(a)
+
+Prohibition on Management by End Strength.—The civilian employees of the Department of Defense involved in the depot-level maintenance and repair of materiel may not be managed on the basis of any end-strength constraint or limitation on the number of such employees who may be employed on the last day of a fiscal year. Such employees shall be managed solely on the basis of the available workload and the funds made available for such depot-level maintenance and repair.
+
+(b)
+
+Annual Report.—Not later than December 1 of each fiscal year, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives a report on the number of employees employed and expected to be employed by the Department of Defense during that fiscal year to perform depot-level maintenance and repair of materiel. The report shall indicate whether that number is sufficient to perform the depot-level maintenance and repair functions for which funds are expected to be provided for that fiscal year for performance by Department of Defense employees.
+
+(Added and amended Pub. L. 104–106, div. A, title III, §312(a), (b), Feb. 10, 1996, 110 Stat. 250.)
+
+#### Codification
+
+The text of section 2466(b) of this title, which was transferred to this section and redesignated subsec. (a) by Pub. L. 104–106, §312(b), was based on Pub. L. 102–190, div. A, title III, §314(a)(1), Dec. 5, 1991, 105 Stat. 1336; Pub. L. 103–337, div. A, title III, §332(b), Oct. 5, 1994, 108 Stat. 2715.
+
+#### Amendments
+
+1996—Subsec. (a). Pub. L. 104–106, §312(b), renumbered section 2466(b) of this title as subsec. (a) of this section.
+
+#### Submission of Initial Report
+
+Section 312(c) of Pub. L. 104–106 provided that: “The report under subsection (b) of section 2472 of title 10, United States Code, as added by subsection (a), for fiscal year 1996 shall be submitted not later than March 15, 1996 (notwithstanding the date specified in such subsection).”
+

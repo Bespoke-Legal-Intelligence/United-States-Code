@@ -34,7 +34,7 @@ The Corporation shall assemble data for the purpose of establishing sound actuar
 
 #### (i) Expenditures
 
-The Corporation shall determine the character and necessity for its expenditures under this chapter and the manner in which they shall be incurred, allowed, and paid, without regard to the provisions of any other laws governing the expenditure of public funds and such determinations shall be final and conclusive upon all other officers of the Government.
+The Corporation shall determine the character and necessity for its expenditures under this chapter and the manner in which they shall be incurred, allowed, and paid, without regard to the provisions of any other laws governing theexpenditure of public funds and such determinations shall be final and conclusive upon all other officers of the Government.
 
 #### (j) Settling claims
 
@@ -88,7 +88,7 @@ The Corporation may enter into and carry out contracts or agreements, and issue 
 
 &emsp;&emsp;(A) instituting appropriate requirements for documentation of the actual production history of insured producers to establish recorded or appraised yields for Federal crop insurance coverage that more accurately reflect the associated actuarial risk, except that the Corporation may not carry out this paragraph in a manner that would prevent beginning farmers (as defined by the Secretary) from obtaining Federal crop insurance;
 
-&emsp;&emsp;(B) establishing in counties, to the extent practicable, a crop insurance option based on area yields in a manner that allows an insured producer to qualify for an indemnity if a loss has occurred in a specified area inwhich the farm of the insured producer is located;
+&emsp;&emsp;(B) establishing in counties, to the extent practicable, a crop insurance option based on area yields in a manner that allows an insured producer to qualify for an indemnity if a loss has occurred in a specified area in which the farm of the insured producer is located;
 
 &emsp;&emsp;(C) establishing a database that contains the social security account and employee identification numbers of participating producers, agents, and loss adjusters and using the numbers to identify insured producers, agents, and loss adjusters who are high risk for actuarial purposes and insured producers who have not documented at least 4 years of production history, to assess the performance of insurance providers, and for other purposes permitted by law; and
 
@@ -138,13 +138,13 @@ Section 405(c)(2)(C)(iii) of title 42, referred to in subsec. (m)(1), was redesi
 
 Subsec. (j). Pub. L. 103–354, §104(2), added subsec. (j). Former subsec. (j) redesignated (k).
 
-Subsec. (k). Pub. L. 103–354, §104(1), redesignated subsec. (j) as (k). Former subsec. (k) redesignated (<i>l).</i>
+Subsec. (k). Pub. L. 103–354, §104(1), redesignated subsec. (j) as (k). Former subsec. (k) redesignated (<i>l</i>).
 
 Subsec. (<i>l</i>). Pub. L. 103–354, §104(1), (3), redesignated subsec. (k) as (<i>l</i>), in first sentence inserted “, and issue regulations,” after “agreements”, and in second sentence substituted “contracts, agreements, or regulations” for “contracts or agreements” wherever appearing. Former subsec. (<i>l</i>) redesignated (m).
 
 Subsec. (m). Pub. L. 103–354, §104(1), redesignated subsec. (<i>l</i>) as (m). Former subsec. (m) redesignated (n).
 
-Subsec. (n). Pub. L. 103–354, §104(1), redesignated subsec. (m) as (n). Former subsec. (n) redesignated (<i>o).</i>
+Subsec. (n). Pub. L. 103–354, §104(1), redesignated subsec. (m) as (n). Former subsec. (n) redesignated (<i>o</i>).
 
 Subsec. (n)(1)(B). Pub. L. 103–354, §104(4), added subpar. (B) and struck out former subpar. (B) which read as follows: “disqualify the person from receiving any benefit under this chapter for a period of not to exceed 10 years.”
 
@@ -194,7 +194,7 @@ Subsec. (j). Pub. L. 101–624, §2202(b)(11), (14), inserted heading and “The
 
 Subsec. (k). Pub. L. 101–624, §2202(b)(12), inserted heading and “The Corporation”.
 
-Subsec. (<i>l</i>). Pub. L. 101–624, §2201(a), added subsec. (<i>l).</i>
+Subsec. (<i>l</i>). Pub. L. 101–624, §2201(a), added subsec. (<i>l</i>).
 
 Subsec. (m). Pub. L. 101–624, §2202(a), added subsec. (m).
 

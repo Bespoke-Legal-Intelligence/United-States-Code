@@ -1,6 +1,6 @@
 ### §3592. Removal from the Senior Executive Service
 
-(a) Except as provided in subsection (b) of this section, a career appointee may be removed from the Senior Executive Service to a civil service position outside of the Senior Executive Service—
+(a) Except as provided in subsection (b) of this section, a career appointee may be removedfrom the Senior Executive Service to a civil service position outside of the Senior Executive Service—
 
 &emsp;(1) during the 1-year period of probation under section 3393(d) of this title,
 
@@ -32,7 +32,7 @@
 
 #### Amendments
 
-<b>1989</b>—Subsec. (a). Pub. L. 101–194, §506(b)(3)(D), inserted at end “In the case of a removal under paragraph (3) of this subsection, the career appointee shall have the right to appeal the removal from the Senior Executive Service to the Merit Systems Protection Board under section 7701.”
+1989—Subsec. (a). Pub. L. 101–194, §506(b)(3)(D), inserted at end “In the case of a removal under paragraph (3) of this subsection, the career appointee shall have the right to appeal the removal from the Senior Executive Service to the Merit Systems Protection Board under section 7701.”
 
 Subsec. (a)(3). Pub. L. 101–194, §506(b)(3)(A)–(C), added par. (3).
 
@@ -42,5 +42,5 @@ Amendment by Pub. L. 101–194 effective Jan. 1, 1991, see section 506(d) of Pub
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3151, 3393, 3393a, 7542 of this title; title 10 sections 1590, 1601; title 31 section 733.
+This section is referred to in sections 3151, 3393, 3393a, 7542 of this title; title 10 section 1606; title 31 section 733.
 

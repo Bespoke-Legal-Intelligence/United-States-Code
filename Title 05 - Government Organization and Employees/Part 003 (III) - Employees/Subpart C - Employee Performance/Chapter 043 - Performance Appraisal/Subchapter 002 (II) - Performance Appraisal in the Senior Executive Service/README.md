@@ -2,7 +2,7 @@
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in sections 3151, 3395, 3592, 3593, 3594, 3595, 5384, 8336, 8414 of this title; title 10 sections 1590, 1601; title 31 section 733; title 38 section 7425.
+This subchapter is referred to in sections 3151, 3395, 3592, 3593, 3594, 3595, 5384, 8336, 8414 of this title; title 10 section 1606; title 31 section 733; title 38 section 7425.
 
 
 ---

@@ -18,3 +18,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 Amendment by Pub. L. 88–272 applicable to taxable years beginning after Dec. 31, 1963, see section 207(c) of Pub. L. 88–272, set out as a note under section 164 of this title.
 
+#### Section Referred to in Other Sections
+
+This section is referred to in section 877 of this title.
+

@@ -18,7 +18,7 @@
 | [<b>831.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20831%20-%20Strength/README.md) | <b>Strength</b> | <b>8201</b> |
 | [<b>833.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20833%20-%20Enlistments/README.md) | <b>Enlistments</b> | <b>8251</b> |
 | [<b>835.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20835%20-%20Appointments%20in%20the%20Regular%20Air%20Force/README.md) | <b>Appointments in the Regular Air Force</b> | <b>8281</b> |
-| [<b>837.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20837%20-%20Appointments%20as%20Reserve%20Officers/README.md) | <b>Appointments as Reserve Officers</b> | <b>8351</b> |
+| <b>\[837.</b> | <b>Repealed.\]</b> |  |
 | [<b>839.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20839%20-%20Temporary%20Appointments/README.md) | <b>Temporary Appointments</b> | <b>8441</b> |
 | [<b>841.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20841%20-%20Active%20Duty/README.md) | <b>Active Duty</b> | <b>8491</b> |
 | [<b>843.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20843%20-%20Special%20Appointments%2C%20Assignments%2C%20Details%2C%20and%20Duties/README.md) | <b>Special Appointments, Assignments, Details, and Duties</b> | <b>8531</b> |
@@ -32,7 +32,7 @@
 | <b>\[859.</b> | <b>Repealed.\]</b> |  |
 | <b>\[860.</b> | <b>Repealed.\]</b> |  |
 | [<b>861.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20861%20-%20Separation%20for%20Various%20Reasons/README.md) | <b>Separation for Various Reasons</b> | <b>8811</b> |
-| [<b>863.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20863%20-%20Separation%20or%20Transfer%20to%20Retired%20Reserve/README.md) | <b>Separation or Transfer to Retired Reserve</b> | <b>8841</b> |
+| <b>\[863.</b> | <b>Repealed.\]</b> |  |
 | <b>\[865.</b> | <b>Repealed.\]</b> |  |
 | [<b>867.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20867%20-%20Retirement%20for%20Length%20of%20Service/README.md) | <b>Retirement for Length of Service</b> | <b>8911</b> |
 | [<b>869.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20869%20-%20Retired%20Grade/README.md) | <b>Retired Grade</b> | <b>8961</b> |
@@ -53,7 +53,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-### <b>PART IV—SERVICE, SUPPLY AND PROCUREMENT</b>
+### <b>PART IV—SERVICE, SUPPLY, AND PROCUREMENT</b>
 
 |  |  |  |
 | :--- | :---: | ---: |
@@ -74,7 +74,9 @@
 
 #### Amendments
 
-1994—Pub. L. 103–337, div. A, title XVI, §1674(a), Oct. 5, 1994, 108 Stat. 3016, struck out items for chapters 837 “Appointments as Reserve Officers” and 863 “Separation or Transfer to Retired Reserve”. Section 1691(b)(1) of Pub. L. 103–337 provided that the repeal of chapters 837 and 863 is effective Oct. 1, 1996.
+1996—Pub. L. 104–106, div. A, title XV, §1503(b)(6), Feb. 10, 1996, 110 Stat. 513, inserted comma after “SUPPLY” in heading for part IV.
+
+1994—Pub. L. 103–337, div. A, title XVI, §1674(a), Oct. 5, 1994, 108 Stat. 3016, struck out items for chapters 837 “Appointments as Reserve Officers” and 863 “Separation or Transfer to Retired Reserve”.
 
 1993—Pub. L. 103–160, div. A, title VIII, §828(c)(8)(B), title XI, §1178(c), Nov. 30, 1993, 107 Stat. 1715, 1769, added item for chapter 905 and substituted “Civil Reserve Air Fleet” for “Industrial Mobilization, Research, and Development” and “9511” for “9501” in item for chapter 931.
 

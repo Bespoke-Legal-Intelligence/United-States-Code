@@ -12,7 +12,7 @@
 
 &emsp;(5) An officer of the Regular Air Force designated by the Secretary of the Air Force.
 
-&emsp;(6) Four reserve officers designated by the Secretary of Defense upon the recommendation of the Secretary of the Army, two of whom must be members of the Army National Guard of the United States, and two of whom must be members of the Army Reserve.
+&emsp;(6) Four reserve officers designated by the Secretary of Defense upon the recommendation of the Secretary of the Army, two ofwhom must be members of the Army National Guard of the United States, and two of whom must be members of the Army Reserve.
 
 &emsp;(7) Four reserve officers designated by the Secretary of Defense upon the recommendation of the Secretary of the Navy, two of whom must be members of the Naval Reserve, and two of whom must be members of the Marine Corps Reserve.
 
@@ -44,5 +44,5 @@ Chapter effective Dec. 1, 1994, except as otherwise provided, see section 1691 o
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 175, 641 of this title.
+This section is referred to in sections 101, 175, 641 of this title.
 

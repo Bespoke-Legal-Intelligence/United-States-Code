@@ -4,9 +4,9 @@
 
 Notwithstanding any other provision of this part, variances from national primary drinking water regulations may be granted as follows:
 
-&emsp;(1)(A) A State which has primary enforcement responsibility for public water systems may grant one or more variances from an applicable national primary drinking water regulation to one or more public water systems within its jurisdiction which, because of characteristics of the raw water sources which are reasonably available to the systems, cannot meet the requirements respecting the maximum contaminant levels of such drinking water regulation. A variance may only be issued to a system after the system's application of the best technology, treatment techniques, or other means, which the Administrator finds are available (taking costs into consideration). The Administrator shall propose and promulgate his finding of the best available technology, treatment techniques or other means available for each contaminant for purposes of this subsection at the time he proposes and promulgates a maximum contaminant level for each such contaminant. The Administrator's finding of best available technology, treatment techniques or other means for purposes of this subsection may vary depending on the number of persons served by the system or for other physical conditions related to engineering feasibility and costs of compliance with maximum contaminant levels as considered appropriate by the Administrator. Before a State may grant a variance under this subparagraph, the Statemust find that the variance will not result in an unreasonable risk to health. If a State grants a public water system a variance under this subparagraph, the State shall prescribe at the time the variance is granted, a schedule for—
+&emsp;(1)(A) A State which has primary enforcement responsibility for public water systems may grant one or more variances from an applicable national primary drinking water regulation to one or more public water systems within its jurisdiction which, because of characteristics of the raw water sources which are reasonably available to the systems, cannot meet the requirements respecting the maximum contaminant levels of such drinking water regulation. A variance may be issued to a system on condition that the system install the best technology, treatment techniques, or other means, which the Administrator finds are available (taking costs into consideration), and based upon an evaluation satisfactory to the State that indicates that alternative sources of water are not reasonably available to the system. The Administrator shall propose and promulgate his finding of the best available technology, treatment techniques or other means available for each contaminant for purposes of this subsection at the time he proposes and promulgates a maximum contaminant level for each such contaminant. The Administrator's finding of best available technology, treatment techniques or other means for purposes of this subsection may vary depending on the number of persons served by the system or for other physical conditions related to engineering feasibility and costs of compliance with maximum contaminant levels as considered appropriate by the Administrator. Before a State may grant a variance under this subparagraph, the State must find that the variance will not result in an unreasonable risk to health. If a State grants a public water system a variance under this subparagraph, the State shall prescribe at the the <sup>1</sup> time the variance is granted, a schedule for—
 
-&emsp;&emsp;(i) compliance (including increments of progress) by the public water system with each containment level requirement with respect to which the variance was granted, and
+&emsp;&emsp;(i) compliance (including increments of progress) by the public water system witheach containment level requirement with respect to which the variance was granted, and
 
 &emsp;&emsp;(ii) implementation by the public water system of such additional control measures as the State may require for each contaminant, subject to such contaminant level requirement, during the period ending on the date compliance with such requirement is required.
 
@@ -48,11 +48,121 @@ If an application for a variance under subsection (a) of this section is made, t
 
 #### (d) “Treatment technique requirement” defined
 
-For purposes of this section, the term “treatment technique requirement” means a requirement in a national primary drinking water regulation which specifies for a contaminant (in accordance with section 300f(1)(C)(ii) of this title) each treatment technique known to the Administrator which leads to a reduction in the level of such contaminant sufficient to satisfy the requirements of section 300g–1(b)(3) of this title.
+For purposes of this section, the term “treatment technique requirement” means a requirement in a national primary drinking water regulation which specifies for a contaminant (in accordance with section 300f(1)(C)(ii) of this title) each treatment technique known to the Administrator which leads to a reduction in the level of such contaminant sufficient to satisfy the requirements of section 300g–1(b) of this title.
 
-(July 1, 1944, ch. 373, title XIV, §1415, as added Dec. 16, 1974, Pub. L. 93–523, §2(a), 88 Stat. 1669; amended June 19, 1986, Pub. L. 99–339, title I, §104, 100 Stat. 649.)
+#### (e) Small system variances
+
+#### (1) In general
+
+&emsp;A State exercising primary enforcement responsibility for public water systems under section 300g–2 of this title (or the Administrator in nonprimacy States) may grant a variance under this subsection for compliance with a requirement specifying a maximum contaminant level or treatment technique contained in a national primary drinking water regulation to—
+
+&emsp;&emsp;(A) public water systems serving 3,300 or fewer persons; and
+
+&emsp;&emsp;(B) with the approval of the Administrator pursuant to paragraph (9), public water systems serving more than 3,300 persons but fewer than 10,000 persons,
+
+> &emsp;if the variance meets each requirement of this subsection.
+
+#### (2) Availability of variances
+
+&emsp;A public water system may receive a variance pursuant to paragraph (1), if—
+
+&emsp;&emsp;(A) the Administrator has identified a variance technology under section 300g–1(b)(15) of this title that is applicable to the size and source water quality conditions of the public water system;
+
+&emsp;&emsp;(B) the public water system installs, operates, and maintains, in accordance with guidance or regulations issued by the Administrator, such treatment technology, treatment technique, or other means; and
+
+&emsp;&emsp;(C) the State in which the system is located determines that the conditions of paragraph (3) are met.
+
+#### (3) Conditions for granting variances
+
+&emsp;A variance under this subsection shall be available only to a system—
+
+&emsp;&emsp;(A) that cannot afford to comply, in accordance with affordability criteria established by the Administrator (or the State in the case of a State that has primary enforcement responsibility under section 300g–2 of this title), with a national primary drinking water regulation, including compliance through—
+
+&emsp;&emsp;&emsp;(i) treatment;
+
+&emsp;&emsp;&emsp;(ii) alternative source of water supply; or
+
+&emsp;&emsp;&emsp;(iii) restructuring or consolidation (unless the Administrator (or the State in the case of a State that has primary enforcement responsibility under section 300g–2 of this title) makes a written determination that restructuring or consolidation is not practicable); and
+
+&emsp;&emsp;(B) for which the Administrator (or the State in the case of a State that has primary enforcement responsibility under section 300g–2 of this title) determines that the terms of the variance ensure adequate protection of human health, considering the quality of the source water for the system and the removal efficiencies and expecteduseful life of the treatment technology required by the variance.
+
+#### (4) Compliance schedules
+
+&emsp;A variance granted under this subsection shall require compliance with the conditions of the variance not later than 3 years after the date on which the variance is granted, except that the Administrator (or the State in the case of a State that has primary enforcement responsibility under section 300g–2 of this title) may allow up to 2 additional years to comply with a variance technology, secure an alternative source of water, restructure or consolidate if the Administrator (or the State) determines that additional time is necessary for capital improvements, or to allow for financial assistance provided pursuant to section 300j–12 of this title or any other Federal or State program.
+
+#### (5) Duration of variances
+
+&emsp;The Administrator (or the State in the case of a State that has primary enforcement responsibility under section 300g–2 of this title) shall review each variance granted under this subsection not less often than every 5 years after the compliance date established in the variance to determine whether the system remains eligible for the variance and is conforming to each condition of the variance.
+
+#### (6) Ineligibility for variances
+
+&emsp;A variance shall not be available under this subsection for—
+
+&emsp;&emsp;(A) any maximum contaminant level or treatment technique for a contaminant with respect to which a national primary drinking water regulation was promulgated prior to January 1, 1986; or
+
+&emsp;&emsp;(B) a national primary drinking water regulation for a microbial contaminant (including a bacterium, virus, or other organism) or an indicator or treatment technique for a microbial contaminant.
+
+#### (7) Regulations and guidance
+
+#### (A) In general
+
+&emsp;&emsp;Not later than 2 years after August 6, 1996, and in consultation with the States, the Administrator shall promulgate regulations for variances to be granted under this subsection. The regulations shall, at a minimum, specify—
+
+&emsp;&emsp;&emsp;(i) procedures to be used by the Administrator or a State to grant or deny variances, including requirements for notifying the Administrator and consumers of the public water system that a variance is proposed to be granted (including information regarding the contaminant and variance) and requirements for a public hearing on the variance before the variance is granted;
+
+&emsp;&emsp;&emsp;(ii) requirements for the installation and proper operation of variance technology that is identified (pursuant to section 300g–1(b)(15) of this title) for small systems and the financial and technical capability to operate the treatment system, including operator training and certification;
+
+&emsp;&emsp;&emsp;(iii) eligibility criteria for a variance for each national primary drinking water regulation, including requirements for the quality of the source water (pursuant to section 300g–1(b)(15)(A) of this title); and
+
+&emsp;&emsp;&emsp;(iv) information requirements for variance applications.
+
+#### (B) Affordability criteria
+
+&emsp;&emsp;Not later than 18 months after August 6, 1996, the Administrator, in consultation with the States and the Rural Utilities Service of the Department of Agriculture, shall publish information to assist the States in developing affordability criteria. The affordability criteria shall be reviewed by the States not less often than every 5 years to determine if changes are needed to the criteria.
+
+#### (8) Review by the Administrator
+
+#### (A) In general
+
+&emsp;&emsp;The Administrator shall periodically review the program of each State that has primary enforcement responsibility for public water systems under section 300g–2 of this title with respect to variances to determine whether the variances granted by the State comply with the requirements of this subsection. With respect to affordability, the determination of the Administrator shall be limited to whether the variances granted by the State comply with the affordability criteria developed by the State.
+
+#### (B) Notice and publication
+
+&emsp;&emsp;If the Administrator determines that variances granted by a State are not in compliance with affordability criteria developed by the State and the requirements of this subsection, the Administrator shall notify the State in writing of the deficiencies and make public the determination.
+
+#### (9) Approval of variances
+
+&emsp;A State proposing to grant a variance under this subsection to a public water system serving more than 3,300 and fewer than 10,000 persons shall submit the variance to the Administrator for review and approval prior to the issuance of the variance. The Administrator shall approve the variance if it meets each of the requirements of this subsection. The Administrator shall approve or disapprove the variance within 90 days. If the Administrator disapproves a variance under this paragraph, the Administrator shall notify the State in writing of the reasons for disapproval and the variance may be resubmitted with modifications to address the objections stated by the Administrator.
+
+#### (10) Objections to variances
+
+#### (A) By the Administrator
+
+&emsp;&emsp;The Administrator may review and object to any variance proposed to be granted by a State, if the objection is communicated to the State not later than 90 days after the State proposes to grant the variance. If the Administrator objects to the granting of a variance, the Administrator shall notify the State in writing of each basis for the objection and propose a modification to the variance to resolve the concerns of the Administrator. The State shall make the recommended modification or respond in writing to each objection. If the State issues the variance without resolving the concerns of the Administrator, the Administrator may overturn the State decision to grant the variance if the Administrator determines that the State decision does not comply with this subsection.
+
+#### (B) Petition by consumers
+
+&emsp;&emsp;Not later than 30 days after a State exercising primary enforcement responsibility for public water systems under section 300g–2 of this title proposes to grant a variance for a public water system, any person served by the system may petition the Administrator to object to the granting of a variance. The Administrator shall respond to the petition and determine whether to object to the variance under subparagraph (A) not later than 60 days after the receipt of the petition.
+
+#### (C) Timing
+
+&emsp;&emsp;No variance shall be granted by a State until the later of the following:
+
+&emsp;&emsp;&emsp;(i) 90 days after the State proposes to grant a variance.
+
+&emsp;&emsp;&emsp;(ii) If the Administrator objects to the variance, the date on which the State makes the recommended modifications or responds in writing to each objection.
+
+(July 1, 1944, ch. 373, title XIV, §1415, as added Dec. 16, 1974, Pub. L. 93–523, §2(a), 88 Stat. 1669; amended June 19, 1986, Pub. L. 99–339, title I, §104, 100 Stat. 649; Aug. 6, 1996, Pub. L. 104–182, title I, §§102(c)(1), 115, 116, title V, §501(a)(3), 110 Stat. 1621, 1641, 1691.)
 
 #### Amendments
+
+1996—Subsec. (a)(1)(A). Pub. L. 104–182, §501(a)(3), inserted “the” before “time the variance is granted,” in introductory provisions.
+
+Pub. L. 104–182, §115, in second sentence, substituted “be issued to a system on condition that the system install” for “only be issued to a system after the system's application of” and inserted “, and based upon an evaluation satisfactory to the State that indicates that alternative sources of water are not reasonably available to the system” after “(taking costs into consideration)”.
+
+Subsec. (d). Pub. L. 104–182, §102(c)(1), substituted “section 300g–1(b)” for “section 300g–1(b)(3)”.
+
+Subsec. (e). Pub. L. 104–182, §116, added subsec. (e).
 
 1986—Subsec. (a)(1)(A). Pub. L. 99–339, §104(1)–(3), substituted “such drinking water regulation. A variance may only be issued to a system after the system's application” for “such drinking water regulation despite application”, struck out “generally” after “finds are”, inserted provisions relating to proposal and promulgation by Administrator of a finding on best available technology, treatment techniques or other means available for each contaminant at time of proposal and promulgation of maximum contaminant levels, and substituted “at the time” for “within one year of the date”.
 
@@ -60,5 +170,7 @@ Subsec. (a)(1)(A)(ii). Pub. L. 99–339, §104(4), substituted “water system o
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 300g, 300g–1, 300g–2, 300g–3, 300j–2, 300j–7, 300j–8 of this title.
+This section is referred to in sections 300g, 300g–1, 300g–2, 300g–3, 300g–5, 300g–9, 300j–2, 300j–4, 300j–7, 300j–8 of this title.
+
+<i><sup>1</sup></i><i> So in original.</i>
 

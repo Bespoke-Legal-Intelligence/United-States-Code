@@ -1,0 +1,210 @@
+### §3626. Appropriate remedies with respect to prison conditions
+
+(a)
+
+Requirements for Relief.—
+
+&emsp;(1)
+
+Prospective relief.—(A) Prospective relief in any civil action with respect to prison conditions shall extend no further than necessary to correct the violation of the Federal right of a particular plaintiff or plaintiffs. The court shall not grant or approve any prospective relief unless the court finds that such relief is narrowly drawn, extends no further than necessary to correct the violation of the Federal right, and is the least intrusive means necessary to correct the violation of the Federal right. The court shall give substantial weight to any adverse impact on public safety or the operation of a criminal justice system caused by the relief.
+
+&emsp;(B) The court shall not order any prospective relief that requires or permits a government official to exceed his or her authority under State or local law or otherwise violates State or local law, unless—
+
+&emsp;&emsp;(i) Federal law permits such relief to be ordered in violation of State or local law;
+
+&emsp;&emsp;(ii) the relief is necessary to correct the violation of a Federal right; and
+
+&emsp;&emsp;(iii) no other relief will correct the violation of the Federal right.
+
+&emsp;(C) Nothing in this section shall be construed to authorize the courts, in exercising their remedial powers, to order the construction of prisons or the raising of taxes, or to repeal or detract from otherwise applicable limitations on the remedial powers of the courts.
+
+&emsp;(2)
+
+Preliminary injunctive relief.—In any civil action with respect to prison conditions,to the extent otherwise authorized by law, the court may enter a temporary restraining order or an order for preliminary injunctive relief. Preliminary injunctive relief must be narrowly drawn, extend no further than necessary to correct the harm the court finds requires preliminary relief, and be the least intrusive means necessary to correct that harm. The court shall give substantial weight to any adverse impact on public safety or the operation of a criminal justice system caused by the preliminary relief and shall respect the principles of comity set out in paragraph (1)(B) in tailoring any preliminary relief. Preliminary injunctive relief shall automatically expire on the date that is 90 days after its entry, unless the court makes the findings required under subsection (a)(1) for the entry of prospective relief and makes the order final before the expiration of the 90-day period.
+
+&emsp;(3)
+
+Prisoner release order.—(A) In any civil action with respect to prison conditions, no prisoner release order shall be entered unless—
+
+&emsp;&emsp;(i) a court has previously entered an order for less intrusive relief that has failed to remedy the deprivation of the Federal right sought to be remedied through the prisoner release order; and
+
+&emsp;&emsp;(ii) the defendant has had a reasonable amount of time to comply with the previous court orders.
+
+&emsp;(B) In any civil action in Federal court with respect to prison conditions, a prisoner release order shall be entered only by a three-judge court in accordance with section 2284 of title 28, if the requirements of subparagraph (E) have been met.
+
+&emsp;(C) A party seeking a prisoner release order in Federal court shall file with any request for such relief, a request for a three-judge court and materials sufficient to demonstrate that the requirements of subparagraph (A) have been met.
+
+&emsp;(D) If the requirements under subparagraph (A) have been met, a Federal judge before whom a civil action with respect to prison conditions is pending who believes that a prison release order should be considered may sua sponte request the convening of a three-judge court to determine whether a prisoner release order should be entered.
+
+&emsp;(E) The three-judge court shall enter a prisoner release order only if the court finds by clear and convincing evidence that—
+
+&emsp;&emsp;(i) crowding is the primary cause of the violation of a Federal right; and
+
+&emsp;&emsp;(ii) no other relief will remedy the violation of the Federal right.
+
+&emsp;(F) Any State or local official or unit of government whose jurisdiction or function includes the appropriation of funds for the construction, operation, or maintenance of program facilities, or the prosecution or custody of persons who may be released from, or not admitted to, a prison as a result of a prisoner release order shall have standing to oppose the imposition or continuation in effect of such relief and to seek termination of such relief, and shall have the right to intervene in any proceeding relating to such relief.
+
+(b)
+
+Termination of Relief.—
+
+&emsp;(1)
+
+Termination of prospective relief.—(A) In any civil action with respect to prison conditions in which prospective relief is ordered, such relief shall be terminable upon the motion of any party or intervener—
+
+&emsp;&emsp;(i) 2 years after the date the court granted or approved the prospective relief;
+
+&emsp;&emsp;(ii) 1 year after the date the court has entered an order denying termination of prospective relief under this paragraph; or
+
+&emsp;&emsp;(iii) in the case of an order issued on or before the date of enactment of the Prison Litigation Reform Act, 2 years after such date of enactment.
+
+&emsp;(B) Nothing in this section shall prevent the parties from agreeing to terminate or modify relief before the relief is terminated under subparagraph (A).
+
+&emsp;(2)
+
+Immediate termination of prospective relief.—In any civil action with respect to prison conditions, a defendant or intervener shall be entitled to the immediate termination of any prospective relief if the relief was approved or granted in the absence of a finding by the court that the relief is narrowly drawn, extends no further than necessary to correct the violation of the Federal right, and is the least intrusive means necessary to correct the violation of the Federal right.
+
+&emsp;(3)
+
+Limitation.—Prospective relief shall not terminate if the court makes written findings based on the record that prospective relief remains necessary to correct a current or ongoing violation of the Federal right, extends no further than necessary to correct the violation of the Federal right, and that the prospective relief is narrowly drawn and the least intrusive means to correct the violation.
+
+&emsp;(4)
+
+Termination or modification of relief.—Nothing in this section shall prevent any party or intervener from seeking modification or termination before the relief is terminable under paragraph (1) or (2), to the extent that modification or termination would otherwise be legally permissible.
+
+(c)
+
+Settlements.—
+
+&emsp;(1)
+
+Consent decrees.—In any civil action with respect to prison conditions, the court shall not enter or approve a consent decree unless it complies with the limitations on relief set forth in subsection (a).
+
+&emsp;(2)
+
+Private settlement agreements.—(A) Nothing in this section shall preclude parties from entering into a private settlement agreement that does not comply with the limitations on relief set forth in subsection (a), if the terms of that agreement are not subject to court enforcement other than the reinstatement of the civil proceeding that the agreement settled.
+
+&emsp;(B) Nothing in this section shall preclude any party claiming that a private settlement agreement has been breached from seeking in State court any remedy available under State law.
+
+(d)
+
+State Law Remedies.—The limitations on remedies in this section shall not apply to relief entered by a State court based solely upon claims arising under State law.
+
+(e)
+
+Procedure for Motions Affecting Prospective Relief.—
+
+&emsp;(1)
+
+Generally.—The court shall promptly rule on any motion to modify or terminate prospective relief in a civil action with respect to prison conditions.
+
+&emsp;(2)
+
+Automatic stay.—Any prospective relief subject to a pending motion shall be automatically stayed during the period—
+
+&emsp;&emsp;(A)(i) beginning on the 30th day after such motion is filed, in the case of a motion made under paragraph (1) or (2) of subsection (b); or
+
+&emsp;&emsp;(ii) beginning on the 180th day after such motion is filed, in the case of a motion made under any other law; and
+
+&emsp;&emsp;(B) ending on the date the court enters a final order ruling on the motion.
+
+(f)
+
+Special Masters.—
+
+&emsp;(1)
+
+In general.—(A) In any civil action in a Federal court with respect to prison conditions, the court may appoint a special master who shall be disinterested and objective and who will give due regard to the public safety, to conduct hearings on the record and prepare proposed findings of fact.
+
+&emsp;(B) The court shall appoint a special master under this subsection during the remedial phase of the action only upon a finding that the remedial phase will be sufficiently complex to warrant the appointment.
+
+&emsp;(2)
+
+Appointment.—(A) If the court determines that the appointment of a special master is necessary, the court shall request that the defendant institution and the plaintiff each submit a list of not more than 5 persons to serve as a special master.
+
+&emsp;(B) Each party shall have the opportunity to remove up to 3 persons from the opposing party's list.
+
+&emsp;(C) The court shall select the master from the persons remaining on the list after the operation of subparagraph (B).
+
+&emsp;(3)
+
+Interlocutory appeal.—Any party shall have the right to an interlocutory appeal of the judge's selection of the special master under this subsection, on the ground of partiality.
+
+&emsp;(4)
+
+Compensation.—The compensation to be allowed to a special master under this section shall be based on an hourly rate not greater than the hourly rate established under section 3006A for payment of court-appointed counsel, plus costs reasonably incurred by the special master. Such compensation and costs shall be paid with funds appropriated to the Judiciary.
+
+&emsp;(5)
+
+Regular review of appointment.—In any civil action with respect to prison conditions in which a special master is appointed under this subsection, the court shall review the appointment of the special master every 6 months to determine whether the services of the special master continue to be required under paragraph (1). In no event shall the appointment of a special master extend beyond the termination of the relief.
+
+&emsp;(6)
+
+Limitations on powers and duties.—A special master appointed under this subsection—
+
+&emsp;&emsp;(A) may be authorized by a court to conduct hearings and prepare proposed findings of fact, which shall be made on the record;
+
+&emsp;&emsp;(B) shall not make any findings or communications ex parte;
+
+&emsp;&emsp;(C) may be authorized by a court to assist in the development of remedial plans; and
+
+&emsp;&emsp;(D) may be removed at any time, but shall be relieved of the appointment upon the termination of relief.
+
+(g)
+
+Definitions.—As used in this section—
+
+&emsp;(1) the term “consent decree” means any relief entered by the court that is based in whole or in part upon the consent or acquiescence of the parties but does not include private settlements;
+
+&emsp;(2) the term “civil action with respect to prison conditions” means any civil proceeding arising under Federal law with respect to the conditions of confinement or the effects of actions by government officials on the lives of persons confined in prison, but does not include habeas corpus proceedings challenging the fact or duration of confinement in prison;
+
+&emsp;(3) the term “prisoner” means any person subject to incarceration, detention, or admission to any facility who is accused of, convicted of, sentenced for, or adjudicated delinquent for, violations of criminal law or the terms and conditions of parole, probation, pretrial release, or diversionary program;
+
+&emsp;(4) the term “prisoner release order” includes any order, including a temporary restraining order or preliminary injunctive relief, that has the purpose or effect of reducing or limiting the prison population, or that directs the release from or nonadmission of prisoners to a prison;
+
+&emsp;(5) the term “prison” means any Federal, State, or local facility that incarcerates or detains juveniles or adults accused of, convicted of, sentenced for, or adjudicated delinquent for, violations of criminal law;
+
+&emsp;(6) the term “private settlement agreement” means an agreement entered into among the parties that is not subject to judicial enforcement other than the reinstatement of the civil proceeding that the agreement settled;
+
+&emsp;(7) the term “prospective relief” means all relief other than compensatory monetary damages;
+
+&emsp;(8) the term “special master” means any person appointed by a Federal court pursuant to Rule 53 of the Federal Rules of Civil Procedure or pursuant to any inherent power of the court to exercise the powers of a master, regardless of the title or description given by the court; and
+
+&emsp;(9) the term “relief” means all relief in any form that may be granted or approved by the court, and includes consent decrees but does not include private settlement agreements.
+
+(Added Pub. L. 103–322, title II, §20409(a), Sept. 13, 1994, 108 Stat. 1827; amended Pub. L. 104–134, title I, §101\[(a)\] \[title VIII, §802(a)\], Apr. 26, 1996, 110 Stat. 1321, 1321–66; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.)
+
+#### References in Text
+
+The date of enactment of the Prison Litigation Reform Act, referred to in subsec. (b)(1)(A)(iii), probably means the date of enactment of the Prison Litigation Reform Act of 1995, section 101\[(a)\] \[title VIII\] of Pub. L. 104–134, which was approved Apr. 26, 1996.
+
+The Federal Rules of Civil Procedure, referred to in subsec. (g)(8), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
+
+#### Amendments
+
+1996—Pub. L. 104–134 amended section generally, substituting provisions relating to appropriate remedies with respect to prison conditions for former provisions relating to appropriate remedies with respect to prison crowding.
+
+#### Effective Date of 1996 Amendment
+
+Section 101\[(a)\] \[title VIII, §802(b)(1)\] of Pub. L. 104–134 provided that: “Section 3626 of title 18, United States Code, as amended by this section, shall apply with respect to all prospective relief whether such relief was originally granted or approved before, on, or after the date of the enactment of this title \[Apr. 26, 1996\].”
+
+#### Effective and Termination Dates
+
+Section 20409(b) of Pub. L. 103–322, which provided that this section applied to all court orders outstanding on Sept. 13, 1994, and section 20409(d) of Pub. L. 103–322, which provided for the repeal of this section 5 years after Sept. 13, 1994, were repealed by Pub. L. 104–134, title I, §101\[(a)\] \[title VIII, §802(b)(2)\], Apr. 26, 1996, 110 Stat. 1321, 1321–70; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.
+
+#### Severability
+
+Section 101\[(a)\] \[title VIII, §810\] of Pub. L. 104–134 provided that: “If any provision of this title \[see Short Title of 1996 Amendment note set out under section 3601 of this title\], an amendment made by this title, or the application of such provision or amendment to any person or circumstance is held to be unconstitutional, the remainder of this title, the amendments made by this title, and the application of the provisions of such to any person or circumstance shall not be affected thereby.”
+
+#### Special Masters Appointed Prior to April 26, 1996; Prohibition on Use of Funds
+
+Pub. L. 104–208, div. A, title I, §101(a) \[title III, §306\], Sept. 30, 1996, 110 Stat. 3009, 3009–45, provided that: “None of the funds available to the Judiciary in fiscal years 1996 and 1997 and hereafter shall be available for expenses authorized pursuant to section 802(a) of title VIII of section 101(a) of title I of the Omnibus Consolidated Rescissions and Appropriations Act of 1996, Public Law 104–134 \[amending this section\], for costs related to the appointment of Special Masters prior to April 26, 1996.”
+
+#### Payment of Damage Award in Satisfaction of Pending Restitution Orders
+
+Section 101\[(a)\] \[title VIII, §807\] of Pub. L. 104–134 provided that: “Any compensatory damages awarded to a prisoner in connection with a civil action brought against any Federal, State, or local jail, prison, or correctional facility or against any official or agent of such jail, prison, or correctional facility, shall be paid directly to satisfy any outstanding restitution orders pending against the prisoner. The remainder of any such award after full payment of all pending restitution orders shall be forwarded to the prisoner.”
+
+#### Notice to Crime Victims of Pending Damage Award
+
+Section 101\[(a)\] \[title VIII, §808\] of Pub. L. 104–134 provided that: “Prior to payment of any compensatory damages awarded to a prisoner in connection with a civil action brought against any Federal, State, or local jail, prison, or correctional facility or against any official or agent of such jail, prison, or correctional facility, reasonable efforts shall be made to notify the victims of the crime for which the prisoner was convicted and incarcerated concerning the pending payment of any such compensatory damages.”
+

@@ -14,7 +14,7 @@ Prevention of special advantage.—The arbitration that is offered must be desig
 
 &emsp;(2)
 
-Notice of arbitration procedure.—The carrier must provide the shipper an adequate notice of the availability of neutral arbitration, including a concise easy-to-read, accurate summary of the arbitration procedure, any applicable costs, and disclosure of the legal effects of election to utilize arbitration. Such notice must be given to persons for whom household goods are to be transported by the carrier before such goods are tendered to the carrier for transportation.
+Notice of arbitration procedure.—The carrier must provide the shipper an adequate notice of the availability of neutral arbitration, including a concise easy-to-read, accurate summary of the arbitration procedure, any applicable costs, and disclosure of the legal effects of election to utilize arbitration. Such notice must be given to persons forwhom household goods are to be transported by the carrier before such goods are tendered to the carrier for transportation.
 
 &emsp;(3)
 
@@ -74,15 +74,15 @@ Limitation of Applicability to Collect-on-Delivery Transportation.—The provisi
 
 (g)
 
-Review by Secretary.—Not later than 18 months after the effective date of this section, the Secretary shall complete a review of the dispute settlement program established under this section. If, after notice and opportunity for comment, the Secretary determines that changes are necessary to such program to ensure the fair and equitable resolution of disputes under this section, the Secretary shall implement such changes and transmit a report to Congress on such changes.
+Review by Secretary.—Not later than 18 months after January 1, 1996, the Secretary shall complete a review of the dispute settlement program established under this section. If, after notice and opportunity for comment, the Secretary determines that changes are necessary to such program to ensure the fair and equitable resolution of disputes under this section, the Secretary shall implement such changes and transmit a report to Congress on such changes.
 
-(Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 910.)
-
-#### References in Text
-
-For the effective date of this section, referred to in subsec. (g), as Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 701 of this title.
+(Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 910; amended Pub. L. 104–287, §5(38), Oct. 11, 1996, 110 Stat. 3392.)
 
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in section 11711 of this title prior to the general amendment of this subtitle by Pub. L. 104–88, §102(a).
+
+#### Amendments
+
+1996—Subsec. (g). Pub. L. 104–287 substituted “January 1, 1996” for “the effective date of this section”.
 

@@ -244,7 +244,7 @@ As used in this section—
 
 #### (1) Allocation
 
-&emsp;Of any amount made available for assistance under this section in any fiscal year, an amount shall be used for assistance under subsection (b) <sup>4</sup> of this section that is not less than the amount made available in appropriation Acts for such assistance in the preceding year, and the remainder shall be available for tenant-based assistance under subsection (n).<sup>5</sup>
+&emsp;Of any amount made available for assistance under this section in any fiscal year, anamount shall be used for assistance under subsection (b) <sup>4</sup> of this section that is not less than the amount made available in appropriation Acts for such assistance in the preceding year, and the remainder shall be available for tenant-based assistance under subsection (n).<sup>5</sup>
 
 #### (2) Capital advances
 
@@ -292,7 +292,7 @@ November 28, 1990, referred to in subsecs. (<i>l</i>)(2) and (m)(2), was in the 
 
 1992—Pub. L. 102–550, §623(a)(1), reenacted section catchline without change.
 
-Subsec. (b). Pub. L. 102–550, §623(a)(2), added heading, introductory provisions, and pars. (1) and (2) and struck out former heading “General authority”, introductoryprovisions, and pars. (1) and (2) which authorized assistance to private, nonprofit organizations to expand the supply of supportive housing for persons with disabilities, which assistance would be provided as capital advances and contracts for project rental assistance, and, in concluding provisions, realigned margin and substituted “assistance under this paragraph” for “Such assistance”.
+Subsec. (b). Pub. L. 102–550, §623(a)(2), added heading, introductory provisions, and pars. (1) and (2) and struck out former heading “General authority”, introductory provisions, and pars. (1) and (2) which authorized assistance to private, nonprofit organizations to expand the supply of supportive housing for persons with disabilities, which assistance would be provided as capital advances and contracts for project rental assistance, and, in concluding provisions, realigned margin and substituted “assistance under this paragraph” for “Such assistance”.
 
 Subsec. (d)(1). Pub. L. 102–550, §623(a)(3)(A), which directed the substitution of “subsection (b)(2) of this section” for “this section”, was executed by making the substitution the first place appearing in first sentence, to reflect the probable intent of Congress.
 
@@ -338,5 +338,5 @@ Amendment by section 623(a) of Pub. L. 102–550 not applicable with respect to 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1437a, 1437e, 1437f, 1437g, 3535, 8011, 11398, 11403g of this title; title 12 sections 1701z–11, 3702, 3705.
+This section is referred to in sections 1437a, 1437f, 1437g, 3535, 8011, 11398, 11403g of this title; title 12 sections 1701z–11, 3702, 3705.
 

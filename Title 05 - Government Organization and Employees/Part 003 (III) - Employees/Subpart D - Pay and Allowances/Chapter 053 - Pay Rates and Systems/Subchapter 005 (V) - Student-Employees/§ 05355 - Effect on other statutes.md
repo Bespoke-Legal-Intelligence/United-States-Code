@@ -10,7 +10,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 5 U.S.C. 1057.
 
@@ -30,5 +32,5 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-<b>1991</b>—Pub. L. 102–54 substituted “Secretary of Veterans Affairs” for “Administrator of Veterans’ Affairs”.
+1991—Pub. L. 102–54 substituted “Secretary of Veterans Affairs” for “Administrator of Veterans’ Affairs”.
 

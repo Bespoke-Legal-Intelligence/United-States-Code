@@ -2,7 +2,7 @@
 
 (a)
 
-Use of Monitoring Devices.—If the Secretary of Transportation prescribes a regulation about the use of monitoring devices on commercial motor vehicles to increase compliance by operators of the vehicles with hours of service regulations of the Secretary, the regulation shall ensure that the devices are not used to harass vehicle operators. However, the devices may be used to monitor productivity of the operators.
+Use of Monitoring Devices.—If the Secretary of Transportation prescribes a regulation about the use of monitoring devices on commercial motor vehicles to increase compliance byoperators of the vehicles with hours of service regulations of the Secretary, the regulation shall ensure that the devices are not used to harass vehicle operators. However, the devices may be used to monitor productivity of the operators.
 
 (b)
 
@@ -12,7 +12,9 @@ Brakes and Brake Systems Maintenance Regulations.—Not later than December 31, 
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

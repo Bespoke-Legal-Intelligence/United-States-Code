@@ -34,7 +34,7 @@
 | [331\.](Subchapter%20002%20%28II%29%20-%20Administrative/%C2%A7%2000331%20-%20Service%2C%20supplies%2C%20and%20facilities%20at%20remote%20places.md) | Service, supplies, and facilities at remote places. |
 | [332\.](Subchapter%20002%20%28II%29%20-%20Administrative/%C2%A7%2000332%20-%20Minority%20Resource%20Center.md) | Minority Resource Center. |
 | [333\.](Subchapter%20002%20%28II%29%20-%20Administrative/%C2%A7%2000333%20-%20Responsibility%20for%20rail%20transportation%20unification%20and%20coordination%20projects.md) | Responsibility for rail transportation unification and coordination projects. |
-| \[334, 335. Repealed.\] |  |
+| \[334, 335. | Repealed.\] |
 | [336\.](Subchapter%20002%20%28II%29%20-%20Administrative/%C2%A7%2000336%20-%20Civil%20penalty%20procedures.md) | Civil penalty procedures. |
 | [337\.](Subchapter%20002%20%28II%29%20-%20Administrative/%C2%A7%2000337%20-%20Budget%20request%20for%20the%20Director%20of%20Intelligence%20and%20Security.md) | Budget request for the Director of Intelligence and Security. |
 

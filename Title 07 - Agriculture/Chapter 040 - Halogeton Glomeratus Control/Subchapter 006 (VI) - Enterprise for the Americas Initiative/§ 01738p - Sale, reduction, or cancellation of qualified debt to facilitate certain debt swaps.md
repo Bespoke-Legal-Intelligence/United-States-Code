@@ -6,7 +6,7 @@ For the purpose of facilitating eligible debt swaps, the President, in accordanc
 
 &emsp;(1) may sell to an eligible purchaser (as determined pursuant to subsection (c)(1) of this section) any qualified debt of an eligible country; or
 
-&emsp;(2) may reduce or cancel eligible debt of an eligible country upon receipt of payment from an eligible payor (as determined under subsection (c)(2) of this section).
+&emsp;(2) may reduce or cancel eligible debt of an eligible country upon receipt of payment froman eligible payor (as determined under subsection (c)(2) of this section).
 
 #### (b) Terms and conditions
 
@@ -30,7 +30,7 @@ The President shall establish the terms and conditions under which qualified deb
 
 #### (2) Right of first refusal
 
-&emsp;The qualified debt of an eligible country may be sold, reduced, or cancelled pursuant tothis section only if that country has been offered the opportunity to purchase that debt pursuant to section 1738<i>o</i> of this title and has not accepted that offer.
+&emsp;The qualified debt of an eligible country may be sold, reduced, or cancelled pursuant to this section only if that country has been offered the opportunity to purchase that debt pursuant to section 1738<i>o</i> of this title and has not accepted that offer.
 
 #### (e) Limitation
 

@@ -16,15 +16,11 @@
 
 (b) Designations and changes of designation of beneficiaries under subsection (a)(1) are subject to regulations to be prescribed by the Secretary concerned. So far as practicable, these regulations shall be uniform with those prescribed for the armed forces under section 2771(b) of title 10.
 
-(c) Under such regulations as the Comptroller General may prescribe, payments under subsection (a) shall be made by the Department of the Army or the Department of the Air Force, as the case may be. Payment under clause (6) of subsection (a) shall be made—
-
-&emsp;(1) upon settlement by the General Accounting Office; or
-
-&emsp;(2) as otherwise authorized by the Comptroller General.
+(c) Under such regulations as the Secretary concerned may prescribe, payments under subsection (a) shall be made by the Department of the Army or the Department of the Air Force, as the case may be.
 
 (d) A payment under this section bars recovery by any other person of the amount paid.
 
-(Added Pub. L. 85–861, §2(12), Sept. 2, 1958, 72 Stat. 1546; amended Pub. L. 87–46, June 16, 1961, 75 Stat. 92.)
+(Added Pub. L. 85–861, §2(12), Sept. 2, 1958, 72 Stat. 1546; amended Pub. L. 87–46, June 16, 1961, 75 Stat. 92; Pub. L. 104–316, title II, §202(q), Oct. 19, 1996, 110 Stat. 3844.)
 
 Historical and Revision Notes
 
@@ -35,6 +31,10 @@ Historical and Revision Notes
 <i>Source (Statutes at Large)</i>
 
 714(a)
+
+&nbsp;
+
+&nbsp;
 
 714(b)
 
@@ -66,6 +66,12 @@ In subsection (c), the word “Under” is substituted for the words “Subject 
 
 #### Amendments
 
+1996—Subsec. (c). Pub. L. 104–316, in first sentence, substituted “Secretary concerned” for “Comptroller General” and struck out at end “Payment under clause (6) of subsection (a) shall be made—
+
+&emsp;“(1) upon settlement by the General Accounting Office; or
+
+&emsp;“(2) as otherwise authorized by the Comptroller General.”
+
 1961—Subsec. (c). Pub. L. 87–46 substituted “Payment under clause (6) of subsection (a) shall be made—
 
 &emsp;“(1) upon settlement by the General Accounting Office; or
@@ -73,10 +79,6 @@ In subsection (c), the word “Under” is substituted for the words “Subject 
 &emsp;“(2) as otherwise authorized by the Comptroller General.”
 
 > for “Payments under clauses (2)–(6) of subsection (a) may be paid only after settlement by the General Accounting Office.”
-
-#### Transfer of Functions
-
-Functions of Comptroller General under this section transferred, effective June 30, 1996, to Director of Office of Management and Budget, see section 211 of Pub. L. 104–53, set out as a note under section 501 of Title 31, Money and Finance.
 
 #### Designation of Beneficiary Made Before January 1, 1956
 

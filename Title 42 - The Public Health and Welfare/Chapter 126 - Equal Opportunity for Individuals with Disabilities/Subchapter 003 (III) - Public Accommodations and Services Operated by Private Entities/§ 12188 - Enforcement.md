@@ -22,7 +22,7 @@
 
 #### (ii) Attorney General certification
 
-&emsp;&emsp;&emsp;On the application of a State or local government, the Attorney General may, in consultation with the Architectural and Transportation Barriers Compliance Board, and after prior notice and a public hearing at which persons, including individuals with disabilities, are provided an opportunity to testify against such certification, certify that a State law or local building code or similar ordinance that establishes accessibility requirements meets or exceeds the minimum requirements of this chapter for the accessibility and usability of covered facilities under this subchapter. At any enforcement proceeding under this section, such certification by the Attorney General shall be rebuttable evidence that such State law or local ordinance does meet or exceed the minimum requirements of this chapter.
+&emsp;&emsp;&emsp;On the application of a State or local government, the Attorney General may, inconsultation with the Architectural and Transportation Barriers Compliance Board, and after prior notice and a public hearing at which persons, including individuals with disabilities, are provided an opportunity to testify against such certification, certify that a State law or local building code or similar ordinance that establishes accessibility requirements meets or exceeds the minimum requirements of this chapter for the accessibility and usability of covered facilities under this subchapter. At any enforcement proceeding under this section, such certification by the Attorney General shall be rebuttable evidence that such State law or local ordinance does meet or exceed the minimum requirements of this chapter.
 
 #### (B) Potential violation
 
@@ -78,7 +78,7 @@ For provisions directing that, except for any civil action brought for a violati
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 12203 of this title; title 2 section 1331.
+This section is referred to in section 12203 of this title; title 2 section 1331; title 3 section 421.
 
 <i><sup>1</sup></i><i> So in original. The word “section” probably should not appear.</i>
 

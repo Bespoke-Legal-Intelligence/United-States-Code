@@ -44,7 +44,9 @@ Education and Training Standards for Security Coordinators, Supervisory Personne
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -72,7 +74,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §316(c); added Aug. 5, 1974, Pub
 
 In subsection (a), before clause (1), the words “Not later than 270 days after November 16, 1990” are omitted as obsolete. The words “contracting for” are substituted for “contracting of” for clarity and consistency in the revised title.
 
-In subsection (c)(1)(A), the words “individuals employed” are substituted for “personnel employed by him . . .  and for other personnel, including State, local, and private law enforcement personnel, whose services may be utilized” for clarity and consistency in the revised title and with other titles of the United States Code.
+In subsection (c)(1)(A), the words “individuals employed” are substituted for “personnel employed by him . . .  and for other personnel, including State, local, and private law enforcement personnel, whose services may be utilized” for clarity and consistency inthe revised title and with other titles of the United States Code.
 
 In subsection (c)(1)(B), the words “individuals eligible” are substituted for “personnel whose services are utilized to enforce any such transportation security program, including State, local, and private law enforcement personnel . . .  for personnel eligible” for clarity and consistency in the revised title and with other titles of the Code.
 
@@ -80,7 +82,43 @@ In subsection (c)(2), the words “under this section” are omitted as unnecess
 
 In subsection (d)(1), before clause (A), the words “Not later than 180 days after November 16, 1990” are omitted as obsolete.
 
+#### Certification of Screening Companies
+
+Pub. L. 104–264, title III, §302, Oct. 9, 1996, 110 Stat. 3250, provided that: “The Administrator of the Federal Aviation Administration is directed to certify companies providing security screening and to improve the training and testing of security screeners through development of uniform performance standards for providing security screening services.”
+
+#### Studies of Minimum Standards for Pilot Qualifications and of Pay for Training
+
+Pub. L. 104–264, title V, §503, Oct. 9, 1996, 110 Stat. 3263, provided that:
+
+“(a)
+
+Study.—The Administrator of the Federal Aviation Administration shall appoint a task force consisting of appropriate representatives of the aviation industry to conduct—
+
+&emsp;“(1) a study directed toward the development of—
+
+&emsp;&emsp;“(A) standards and criteria for preemployment screening tests measuring the psychomotor coordination, general intellectual capacity, instrument and mechanical comprehension, and physical and mental fitness of an applicant for employment as a pilot by an air carrier; and
+
+&emsp;&emsp;“(B) standards and criteria for pilot training facilities to be licensed by the Administrator and which will assure that pilots trained at such facilities meet the preemployment screening standards and criteria described in subparagraph (A); and
+
+&emsp;“(2) a study to determine if the practice of some air carriers to require employees or prospective employees to pay for the training or experience that is needed to perform flight check duties for an air carrier is in the public interest.
+
+“(b)
+
+Report.—Not later than 1 year after the date of the enactment of this Act \[Oct. 9, 1996\], the Administrator shall transmit to Congress a report on the results of the study conducted under subsection (a)(2).”
+
+#### Study of Minimum Flight Time
+
+Pub. L. 104–264, title V, §504, Oct. 9, 1996, 110 Stat. 3263, provided that:
+
+“(a)
+
+Study.—The Administrator of the Federal Aviation Administration shall conduct a study to determine whether current minimum flight time requirements applicable to individuals seeking employment as a pilot with an air carrier are sufficient to ensure public safety.
+
+“(b)
+
+Report.—Not later than 1 year after the date of the enactment of this Act \[Oct. 9, 1996\], the Administrator shall transmit to Congress a report on the results of the study.”
+
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 106, 40109, 40119, 44915, 44937, 46301, 46316 of this title.
+This section is referred to in sections 106, 40109, 40119, 44915, 44937 of this title.
 

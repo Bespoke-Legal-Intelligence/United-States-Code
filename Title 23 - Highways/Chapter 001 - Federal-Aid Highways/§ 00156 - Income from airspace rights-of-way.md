@@ -10,7 +10,7 @@ The date of the enactment of the Federal-Aid Highway Act of 1987, referred to in
 
 #### Prior Provisions
 
-A prior section 156, added Pub. L. 94–280, title I, §132(a), May 5, 1976, 90 Stat. 441, authorized the Secretary to construct or reconstruct any public highway or highway bridge across any Federal public works project, specified conditions under which such work may be done, and authorized appropriations for such work of $100,000,000 to be available in the fiscal year in which appropriated and for the two succeeding fiscal years, prior to repeal by Pub. L. 100–17, title I, §126(a), Apr. 2, 1987, 101 Stat. 167.
+A prior section 156, added Pub. L. 94–280, title I, §132(a), May 5, 1976, 90 Stat. 441, authorized the Secretary to construct or reconstruct any public highway or highway bridge across any Federal public worksproject, specified conditions under which such work may be done, and authorized appropriations for such work of $100,000,000 to be available in the fiscal year in which appropriated and for the two succeeding fiscal years, prior to repeal by Pub. L. 100–17, title I, §126(a), Apr. 2, 1987, 101 Stat. 167.
 
 #### Amendments
 

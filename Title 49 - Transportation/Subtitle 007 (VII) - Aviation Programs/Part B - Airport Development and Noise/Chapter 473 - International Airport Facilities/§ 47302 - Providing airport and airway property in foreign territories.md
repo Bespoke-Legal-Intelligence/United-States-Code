@@ -10,7 +10,7 @@ General Authority.—Subject to the concurrence of the Secretary of State and th
 
 (b)
 
-Specific Appropriations Required.—Except for airport property transferred under section 47304(b) of this title, an airport (as defined in section 40102(a) of this title) may be acquired, established, or constructed under subsection (a) of this section only if amounts have been appropriated specifically for the airport.
+Specific Appropriations Required.—Except for airport property transferred under section 47304(b) of this title, an airport (as defined in section 40102(a) of this title) may be acquired,established, or constructed under subsection (a) of this section only if amounts have been appropriated specifically for the airport.
 
 (c)
 
@@ -20,7 +20,9 @@ Accepting Foreign Payments.—The Secretary of Transportation or Commerce, as ap
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

@@ -18,7 +18,7 @@
 | [<b>331.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20331%20-%20Strength/README.md) | <b>Strength</b> | <b>3201</b> |
 | [<b>333.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20333%20-%20Enlistments/README.md) | <b>Enlistments</b> | <b>3251</b> |
 | [<b>335.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20335%20-%20Appointments%20in%20the%20Regular%20Army/README.md) | <b>Appointments in the Regular Army</b> | <b>3281</b> |
-| [<b>337.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20337%20-%20Appointments%20as%20Reserve%20Officers/README.md) | <b>Appointments as Reserve Officers</b> | <b>3351</b> |
+| <b>\[337.</b> | <b>Repealed.\]</b> |  |
 | [<b>339.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20339%20-%20Temporary%20Appointments/README.md) | <b>Temporary Appointments</b> | <b>3441</b> |
 | [<b>341.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20341%20-%20Active%20Duty/README.md) | <b>Active Duty</b> | <b>3491</b> |
 | [<b>343.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20343%20-%20Special%20Appointments%2C%20Assignments%2C%20Details%2C%20and%20Duties/README.md) | <b>Special Appointments, Assignments, Details, and Duties</b> | <b>3531</b> |
@@ -31,8 +31,8 @@
 | [<b>357.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20357%20-%20Decorations%20and%20Awards/README.md) | <b>Decorations and Awards</b> | <b>3741</b> |
 | <b>\[359.</b> | <b>Repealed.\]</b> |  |
 | <b>\[360.</b> | <b>Repealed.\]</b> |  |
-| [<b>361.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20361%20-%20Separation%20for%20Various%20Reasons/README.md) | <b>Separation for Various Reasons</b> | <b>3811</b> |
-| [<b>363.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20363%20-%20Separation%20or%20Transfer%20to%20Retired%20Reserve/README.md) | <b>Separation or Transfer to Retired Reserve</b> | <b>3841</b> |
+| <b>\[361.</b> | <b>Repealed.\]</b> |  |
+| <b>\[363.</b> | <b>Repealed.\]</b> |  |
 | <b>\[365.</b> | <b>Repealed.\]</b> |  |
 | [<b>367.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20367%20-%20Retirement%20for%20Length%20of%20Service/README.md) | <b>Retirement for Length of Service</b> | <b>3911</b> |
 | [<b>369.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20369%20-%20Retired%20Grade/README.md) | <b>Retired Grade</b> | <b>3961</b> |
@@ -73,7 +73,7 @@
 
 #### Amendments
 
-1994—Pub. L. 103–337, div. A, title XVI, §1672(a), Oct. 5, 1994, 108 Stat. 3015, struck out items for chapters 337 “Appointments as Reserve Officers”, 361 “Separation for Various Reasons”, and 363 “Separation or Transfer to Retired Reserve”. Section 1691(b)(1) of Pub. L. 103–337 provided that the repeal of such chapters is effective Oct. 1, 1996.
+1994—Pub. L. 103–337, div. A, title XVI, §1672(a), Oct. 5, 1994, 108 Stat. 3015, struck out items for chapters 337 “Appointments as Reserve Officers”, 361 “Separation for Various Reasons”, and 363 “Separation or Transfer to Retired Reserve”.
 
 1993—Pub. L. 103–160, div. A, title VIII, §828(b)(2), Nov. 30, 1993, 107 Stat. 1714, struck out item for chapter 431 “Industrial Mobilization, Research, and Development”.
 

@@ -15,6 +15,7 @@
 | [3337\.](%C2%A7%2003337%20-%20Startup%20funding.md) | Startup funding. |
 | (a) | In general. |
 | (b) | Additional funds. |
+| (c) | Repayment of Treasury loan. |
 | [3338\.](%C2%A7%2003338%20-%20Roster%20of%20State%20certified%20or%20licensed%20appraisers%3B%20authority%20to%20collect%20and%20transmit%20fees.md) | Roster of State certified or licensed appraisers; authority to collect and transmit fees. |
 | (a) | In general. |
 | (b) | Use of amounts appropriated or collected. |

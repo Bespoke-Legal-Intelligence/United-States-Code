@@ -6,7 +6,7 @@ Loans made or insured pursuant to sections 488 to 494 of this title will be subj
 
 #### References in Text
 
-The Consolidated Farmers Home Administration Act of 1961, referred to in text, is now the Consolidated Farm and Rural Development Act (Pub. L. 87–128, title III, Aug. 8, 1961, 75 Stat. 307, as amended). Subtitle D of the Consolidated Farm and Rural Development Act is classified principally to subchapter IV (§1981 et seq.) of chapter 50 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1921 of Title 7 and Tables.
+The Consolidated Farmers Home Administration Act of 1961, referred to in text, is now the Consolidated Farm and Rural Development Act (Pub. L. 87–128, title III, Aug. 8, 1961, 75 Stat. 307, as amended). Subtitle D of the Consolidated Farm and Rural Development Act isclassified principally to subchapter IV (§1981 et seq.) of chapter 50 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1921 of Title 7 and Tables.
 
 Section 341 of that Act is set out as a note under section 1921 of Title 7.
 
@@ -16,5 +16,5 @@ Section 341 of that Act is set out as a note under section 1921 of Title 7.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 488, 489, 490, 491, 493, 494 of this title.
+This section is referred to in sections 488, 489, 490, 491, 493, 494 of this title; title 7 section 1985.
 

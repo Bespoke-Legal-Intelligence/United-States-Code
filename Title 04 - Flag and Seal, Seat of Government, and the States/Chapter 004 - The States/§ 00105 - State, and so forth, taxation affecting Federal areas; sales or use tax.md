@@ -8,13 +8,13 @@
 
 #### Taxation With Respect to Essential Support Activities or Functions of Non-Governmental Persons in Congressionally-Controlled Locations in District of Columbia
 
-Pub. L. 100–202, §101(i) \[title III, §307\], Dec. 22, 1987, 101 Stat. 1329–290, 1329–309, provided that:
+Pub. L. 100–202, §101(i) \[title III, §307\], Dec. 22, 1987, 101 Stat. 1329–290, 1329–309, as amended by Pub. L. 104–186, title II, §214, Aug. 20, 1996, 110 Stat. 1745, provided that:
 
 “(a) Notwithstanding section 105 of title 4, United States Code, or any other provision of law, no person shall be required to pay, collect, or account for any sales, use, or similar excise tax, or any personal property tax, with respect to an essential support activity or function conducted by a nongovernmental person in the Capitol, the House Office Buildings, the Senate Office Buildings, the Capitol Grounds, or any other location under the control of the Congress in the District of Columbia.
 
 “(b) As used in this section—
 
-&emsp;“(1) the term ‘essential support activity or function’ means a support activity or function so designated by the Committee on House Administration of the House of Representatives or the Committee on Rules and Administration of the Senate, acting jointly or separately, as appropriate;
+&emsp;“(1) the term ‘essential support activity or function’ means a support activity or function so designated by the Committee on House Oversight of the House of Representatives or the Committee on Rules and Administration of the Senate, acting jointly or separately, as appropriate;
 
 &emsp;“(2) the term ‘personal property tax’ means a tax of a State, a subdivision of a State, or any other authority of a State, that is levied on, levied with respect to, or measured by, the value of personal property;
 

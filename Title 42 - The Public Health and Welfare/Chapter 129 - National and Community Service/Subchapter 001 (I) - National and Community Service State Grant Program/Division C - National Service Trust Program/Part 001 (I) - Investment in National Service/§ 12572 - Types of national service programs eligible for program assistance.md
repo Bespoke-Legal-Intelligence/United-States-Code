@@ -24,7 +24,7 @@ The recipient of a grant under section 12571(a) of this title and each Federal a
 
 &emsp;&emsp;(A) recruits individuals with special skills or provides specialized preservice training to enable participants to be placed individually or in teams in positions in which the participants can meet such unmet needs; and
 
-&emsp;&emsp;(B) if consistent with the purposes of the program, brings participants together foradditional training and other activities designed to foster civic responsibility, increase the skills of participants, and improve the quality of the service provided.
+&emsp;&emsp;(B) if consistent with the purposes of the program, brings participants together for additional training and other activities designed to foster civic responsibility, increase the skills of participants, and improve the quality of the service provided.
 
 &emsp;(5) An individualized placement program that includes regular group activities, such as leadership training and special service projects.
 
@@ -90,7 +90,7 @@ The recipient of a grant under section 12571(a) of this title and each Federal a
 
 #### (2) Consultation
 
-&emsp;In establishing qualification criteria under paragraph (1), the Corporation shall consultwith organizations and individuals with extensive experience in developing and administering effective national service programs or regarding the delivery of human, educational, environmental, or public safety services to communities or persons.
+&emsp;In establishing qualification criteria under paragraph (1), the Corporation shall consult with organizations and individuals with extensive experience in developing and administering effective national service programs or regarding the delivery of human, educational, environmental, or public safety services to communities or persons.
 
 #### (3) Application to subgrants
 
@@ -98,7 +98,7 @@ The recipient of a grant under section 12571(a) of this title and each Federal a
 
 #### (4) Encouragement of intergenerational components of programs
 
-&emsp;The Corporation shall encourage national service programs eligible to receive assistance or approved national service positions under this division to establish, if consistent with the purposes of the program, an intergenerational component of the program that combines students, out-of-school youths, and older adults as participants to provide services to address unmet human, educational, environmental, or public safety needs.
+&emsp;The Corporation shall encourage national service programs eligible to receive assistanceor approved national service positions under this division to establish, if consistent with the purposes of the program, an intergenerational component of the program that combines students, out-of-school youths, and older adults as participants to provide services to address unmet human, educational, environmental, or public safety needs.
 
 #### (c) National service priorities
 

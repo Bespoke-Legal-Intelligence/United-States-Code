@@ -12,7 +12,9 @@ The Administrator of the Federal Aviation Administration may exempt from section
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -27,8 +29,4 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §317; added July 12, 1976, Pub. 
 In clause (1), the word “issued” is substituted for “granted” for consistency in this part. The words “by the Civil Aeronautics Board” are omitted as surplus.
 
 Clause (3) is substituted for 49 App.:1358 (words after 3d comma) for consistency in the revised title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 46301, 46316 of this title.
 

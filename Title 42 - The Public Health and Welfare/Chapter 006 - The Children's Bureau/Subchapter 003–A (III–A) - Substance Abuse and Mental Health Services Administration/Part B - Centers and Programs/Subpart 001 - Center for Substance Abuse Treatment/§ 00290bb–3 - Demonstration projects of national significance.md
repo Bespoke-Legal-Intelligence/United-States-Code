@@ -2,7 +2,7 @@
 
 #### (a) Grants for treatment improvement
 
-The Director of the Center for Substance Abuse Treatment shall provide grants to public and nonprofit private entities for the purpose of establishing demonstration projects that will improve the provision of treatment services for substance abuse.
+The Director of the Center for Substance Abuse Treatment shall provide grants to publicand nonprofit private entities for the purpose of establishing demonstration projects that will improve the provision of treatment services for substance abuse.
 
 #### (b) Nature of projects
 
@@ -12,7 +12,7 @@ Grants under subsection (a) of this section shall be awarded to—
 
 &emsp;(2) projects that provide treatment in exchange for public service;
 
-&emsp;(3) projects that provide treatment services and which are operated by public and nonprofit private entities receiving grants under section 254b, 254c, 256, 256a <sup>1</sup> of this title, or other public or nonprofit private entities that provide primary health services;
+&emsp;(3) projects that provide treatment services and which are operated by public and nonprofit private entities receiving grants under section 254b, 254c, 256, 256a <sup>1</sup> of this title,<sup>2</sup> or other public or nonprofit private entities that provide primary health services;
 
 &emsp;(4) “treatment campus” projects that—
 
@@ -26,9 +26,9 @@ Grants under subsection (a) of this section shall be awarded to—
 
 &emsp;(5) projects in large metropolitan areas to identify individuals in need of treatment services and to improve the availability and delivery of such services in the areas;
 
-&emsp;(6) in the case of drug abusers who are at risk of HIV infection, projects to conduct outreach activities to the individuals regarding the prevention of exposure to and the transmission of the human immunodefiency <sup>2</sup> virus, and to encourage the individuals to seek treatment for such abuse; and
+&emsp;(6) in the case of drug abusers who are at risk of HIV infection, projects to conduct outreach activities to the individuals regarding the prevention of exposure to and the transmission of the human immunodefiency <sup>3</sup> virus, and to encourage the individuals to seek treatment for such abuse; and
 
-&emsp;(7) projects to determine the long-term efficacy of the projects described in this sectionand to disseminate to appropriate public and private entities information on the projects that have been effective.
+&emsp;(7) projects to determine the long-term efficacy of the projects described in this section and to disseminate to appropriate public and private entities information on the projects that have been effective.
 
 #### (c) Preferences in making grants
 
@@ -54,6 +54,12 @@ The period during which payments are made under a grant under subsection (a) of 
 
 (July 1, 1944, ch. 373, title V, §510, as added July 10, 1992, Pub. L. 102–321, title I, §109, 106 Stat. 342.)
 
+#### References in Text
+
+Sections 254b and 254c of this title, referred to in subsec. (b)(3), were in the original references to sections 329 and 330, meaning sections 329 and 330 of act July 1, 1944, which were omitted in the general amendment of subpart I (§254b et seq.) of part D of subchapter II of this chapter by Pub. L. 104–299, §2, Oct. 11, 1996, 110 Stat. 3626. Sections 2 and 3(a) of Pub. L. 104–299 enacted new sections 330 and 330A of act July 1, 1944, which are classified, respectively, to sections 254b and 254c of this title.
+
+Sections 256 and 256a of this title, referred to in subsec. (b)(3), were repealed by Pub. L. 104–299, §4(a)(3), Oct. 11, 1996, 110 Stat. 3645.
+
 #### Prior Provisions
 
 A prior section 510 of act July 1, 1944, was classified to section 290bb of this title, prior to repeal by Pub. L. 102–321, §122(b)(1). Prior to repeal, section 510(b) of act July 1, 1944, was renumbered section 464H(b) by Pub. L. 102–321 and transferred to section 285n(b) of this title.
@@ -66,5 +72,7 @@ Section effective Oct. 1, 1992, with provision for programs providing financial 
 
 <i><sup>1</sup></i><i> So in original. Probably should be preceded by “or”.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “immunodeficiency”.</i>
+<i><sup>2</sup></i><i> See References in Text notes below.</i>
+
+<i><sup>3</sup></i><i> So in original. Probably should be “immunodeficiency”.</i>
 

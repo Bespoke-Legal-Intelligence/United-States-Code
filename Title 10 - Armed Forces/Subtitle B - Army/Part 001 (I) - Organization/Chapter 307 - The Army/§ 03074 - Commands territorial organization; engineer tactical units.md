@@ -40,17 +40,5 @@ In subsection (b), the words “have the duties and powers” are substituted fo
 
 #### Army Reserve Command
 
-Pub. L. 101–510, div. A, title IX, §903, Nov. 5, 1990, 104 Stat. 1620, as amended by Pub. L. 102–25, title VII, §704(a)(7), Apr. 6, 1991, 105 Stat. 118; Pub. L. 103–160, div. A, title IX, §941, Nov. 30, 1993, 107 Stat. 1736, provided that:
-
-“(a)
-
-Establishment of Command.—The Secretary of the Army, with the advice and assistance of the Chief of Staff of the Army, shall establish a United States Army Reserve Command under the command of the Chief of Army Reserve. The Army Reserve Command shall be a separate command of the Army commanded by the Chief, Army Reserve.
-
-“(b)
-
-Assignment of Forces.—The Secretary of the Army—
-
-&emsp;“(1) shall assign to the Army Reserve Command all forces of the Army Reserve in the continental United States other than forces assigned to the unified combatant command for special operations forces established pursuant to section 167 of title 10, United States Code; and
-
-&emsp;“(2) except as otherwise directed by the Secretary of Defense in the case of forces assigned to carry out functions of the Secretary of the Army specified in section 3013 of title 10, United States Code, shall assign all such forces of the Army Reserve to the Commander-in-Chief, United States Atlantic Command.”
+Pub. L. 101–510, div. A, title IX, §903, Nov. 5, 1990, 104 Stat. 1620, as amended by Pub. L. 102–25, title VII, §704(a)(7), Apr. 6, 1991, 105 Stat. 118; Pub. L. 103–160, div. A, title IX, §941, Nov. 30, 1993, 107 Stat. 1736, related to establishment of United States Army Reserve Command and assignment of forces to Army Reserve Command, prior to repeal by Pub. L. 104–201, div. A, title XII, §1211(b), Sept. 23, 1996, 110 Stat. 2691. See section 10171 of this title.
 

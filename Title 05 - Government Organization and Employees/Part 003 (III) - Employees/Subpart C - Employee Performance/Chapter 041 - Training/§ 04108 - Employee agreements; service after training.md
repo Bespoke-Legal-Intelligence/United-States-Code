@@ -26,7 +26,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 5 U.S.C. 2310.
 
@@ -40,9 +42,9 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-<b>1994</b>—Subsec. (a). Pub. L. 103–226 substituted “for more than a minimum period prescribed by the head of the agency” for “by, in, or through a non-Government facility under this chapter”.
+1994—Subsec. (a). Pub. L. 103–226 substituted “for more than a minimum period prescribed by the head of the agency” for “by, in, or through a non-Government facility under this chapter”.
 
-<b>1984</b>—Subsec. (d). Pub. L. 98–224 added subsec. (d).
+1984—Subsec. (d). Pub. L. 98–224 added subsec. (d).
 
 #### Central Intelligence Agency
 

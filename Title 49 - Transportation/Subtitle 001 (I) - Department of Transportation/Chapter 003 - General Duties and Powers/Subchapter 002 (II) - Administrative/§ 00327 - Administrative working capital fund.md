@@ -30,7 +30,9 @@
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -58,7 +60,7 @@ In subsection (a), the words “Department of Transportation has” are substitu
 
 In subsection (b), the words “Amounts in the fund” are added for clarity. The words “Amounts may be appropriated to the fund” are substituted for “(which appropriations are hereby authorized)” for clarity.
 
-In subsection (c), the words “The fund consists of” are substituted for “The capital of the fund shall consist of” and “The fund shall also be credited with” for clarity. The word “reasonable” is substituted for “fair and reasonable” because it is inclusive. The words “amounts appropriated to the fund” are substituted for “of any appropriations made for the purpose of providing capital” for clarity. The words “amounts received from the sale” are substituted for “receipts from the sale”, and the words “payments received for loss” are substituted for “receipts in payment for”, as being more precise.
+In subsection (c), the words “The fund consists of” are substituted for “The capital of the fund shall consist of” and “The fund shall also be credited with” for clarity. The word “reasonable” is substituted for “fair and reasonable” because it is inclusive. The words “amounts appropriated to the fund” are substituted for “of any appropriations made for the purpose of providing capital” for clarity. The words “amounts receivedfrom the sale” are substituted for “receipts from the sale”, and the words “payments received for loss” are substituted for “receipts in payment for”, as being more precise.
 
 In subsection (d), the words “agencies and offices in” after “available funds of” are omitted because they are included in “Department”. The words “Amounts in the fund, in excess of amounts” are added for clarity. The words “any surplus found in the fund . . . above the” after “miscellaneous receipts” are omitted because of the restatement of this section. The words “to establish and” before “maintain” are omitted because the working capital fund has been established. The words “deposited in the Treasury” are substituted for “covered into the United States Treasury” for consistency. The words “are . . . in determining the amount of the excess” are added for clarity.
 

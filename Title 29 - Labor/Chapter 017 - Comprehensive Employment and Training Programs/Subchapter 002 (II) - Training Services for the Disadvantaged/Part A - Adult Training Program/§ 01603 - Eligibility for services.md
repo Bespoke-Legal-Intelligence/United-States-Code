@@ -10,13 +10,13 @@ Except as provided in subsection (c) of this section, an individual shall be eli
 
 #### (b) Hard-to-serve individuals
 
-Not less than 65 percent of the participants in the program under this part, other than participants served under section 1604(d) of this title, in each service delivery area shall be individualswho are included in 1 or more of the following categories:
+Not less than 65 percent of the participants in the program under this part, other than participants served under section 1604(d) of this title, in each service delivery area shall be individuals who are included in 1 or more of the following categories:
 
 &emsp;(1) Individuals who are basic skills deficient.
 
 &emsp;(2) Individuals who are school dropouts.
 
-&emsp;(3) Individuals who are recipients of cash welfare payments, including recipients under the JOBS program.
+&emsp;(3) Individuals who are recipients of cash welfare payments.
 
 &emsp;(4) Individuals who are offenders.
 
@@ -44,11 +44,19 @@ A service delivery area conducting a program assisted under this part may add on
 
 &emsp;(3) the Governor approves the request submitted under paragraph (1) and transmits a description of the approved request to the Secretary, as part of the Governor's coordination and special services plan under section 1531 of this title.
 
-(Pub. L. 97–300, title II, §203, as added Pub. L. 102–367, title II, §203, Sept. 7, 1992, 106 Stat. 1055.)
+(Pub. L. 97–300, title II, §203, as added Pub. L. 102–367, title II, §203, Sept. 7, 1992, 106 Stat. 1055; amended Pub. L. 104–193, title I, §110(n)(5), Aug. 22, 1996, 110 Stat. 2174.)
 
 #### Prior Provisions
 
 A prior section 1603, Pub. L. 97–300, title II, §203, Oct. 13, 1982, 96 Stat. 1360; Pub. L. 97–404, §2, Dec. 31, 1982, 96 Stat. 2026; Pub. L. 99–496, §7, Oct. 16, 1986, 100 Stat. 1263; Pub. L. 99–570, title XI, §11004(b), Oct. 27, 1986, 100 Stat. 3207–169, related to eligibility for training services for the disadvantaged, prior to repeal by Pub. L. 102–367, title II, §201, title VII, §701(a), Sept. 7, 1992, 106 Stat. 1052, 1103, effective July 1, 1993.
+
+#### Amendments
+
+1996—Subsec. (b)(3). Pub. L. 104–193 struck out “, including recipients under the JOBS program” after “recipients of cash welfare payments”.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–193 effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as an Effective Date note under section 601 of Title 42, The Public Health and Welfare.
 
 #### Effective Date
 

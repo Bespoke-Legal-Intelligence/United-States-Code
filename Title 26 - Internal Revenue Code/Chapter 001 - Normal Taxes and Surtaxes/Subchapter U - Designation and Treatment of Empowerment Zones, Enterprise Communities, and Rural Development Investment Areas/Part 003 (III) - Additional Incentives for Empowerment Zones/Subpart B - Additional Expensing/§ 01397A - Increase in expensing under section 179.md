@@ -14,7 +14,7 @@ In the case of an enterprise zone business, for purposes of section 179—
 
 #### (b) Recapture
 
-Rules similar to the rules under section 179(d)(10) shall apply with respect to any qualified zone property which ceases to be used in anempowerment zone by an enterprise zone business.
+Rules similar to the rules under section 179(d)(10) shall apply with respect to any qualified zone property which ceases to be used in an empowerment zone by an enterprise zone business.
 
 (Added Pub. L. 103–66, title XIII, §13301(a), Aug. 10, 1993, 107 Stat. 552.)
 

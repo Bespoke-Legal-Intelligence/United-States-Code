@@ -30,7 +30,7 @@ The Administrator, in carrying out this subchapter, may make grants to, and ente
 
 #### (2) Other agencies
 
-&emsp;The Administrator, in carrying out this subchapter, may use, with their consent, the services, equipment, personnel, information, and facilities of other Federal, State, or local public agencies, or of any foreign government,with or without reimbursement of such agencies.
+&emsp;The Administrator, in carrying out this subchapter, may use, with their consent, the services, equipment, personnel, information, and facilities of other Federal, State, or local public agencies, or of any foreign government, with or without reimbursement of such agencies.
 
 #### (e) Consultants
 
@@ -40,11 +40,11 @@ The Secretary, in carrying out this subchapter, may secure, from time to time an
 
 #### (1) In general
 
-&emsp;The Secretary may, in carrying out this subchapter, obtain the services of not more than 50 experts or consultants who have appropriate scientific or professional qualifications. Such experts or consultants shall be obtained in accordance with section 3109 of title 5, except that the limitation in such section on the duration of service shall not apply.
+&emsp;The Secretary may, in carrying out this subchapter, obtain the services of not more than 50 experts or consultants who have appropriate scientific or professional qualifications. Such experts or consultants shall be obtained in accordance with section 3109 of title 5, exceptthat the limitation in such section on the duration of service shall not apply.
 
 #### (2) Travel expenses
 
-&emsp;(A) Experts and consultants whose services are obtained under paragraph (1) shall be paid or reimbursed for their expenses associated with traveling to and from their assignment location in accordance with sections 5724, 5724a(a)(1), 5724a(a)(3), and 5726(c) of title 5.
+&emsp;(A) Experts and consultants whose services are obtained under paragraph (1) shall be paid or reimbursed for their expenses associated with traveling to and from their assignment location in accordance with sections 5724, 5724a(a), 5724a(c), and 5726(c) of title 5.
 
 &emsp;(B) Expenses specified in subparagraph (A) may not be allowed in connection with the assignment of an expert or consultant whose services are obtained under paragraph (1) unless and until the expert agrees in writing to complete the entire period of assignment, or one year, whichever is shorter, unless separated or reassigned for reasons that are beyond the control of the expert or consultant and that are acceptable to the Secretary. If the expert or consultant violates the agreement, the money spent by the United States for the expenses specified in subparagraph (A) is recoverable from the expert or consultant as a debt of the United States. The Secretary may waive in whole or in part a right of recovery under this subparagraph.
 
@@ -52,9 +52,17 @@ The Secretary, in carrying out this subchapter, may secure, from time to time an
 
 The Administrator, in carrying out this subchapter, may accept voluntary and uncompensated services.
 
-(July 1, 1944, ch. 373, title IX, §925, as added Dec. 19, 1989, Pub. L. 101–239, title VI, §6103(c), 103 Stat. 2203.)
+(July 1, 1944, ch. 373, title IX, §925, as added Dec. 19, 1989, Pub. L. 101–239, title VI, §6103(c), 103 Stat. 2203; amended Sept. 23, 1996, Pub. L. 104–201, div. A, title XVII, §1723(a)(3)(B), 110 Stat. 2759.)
 
 #### References in Text
 
 The civil-service laws, referred to in subsec. (a)(2), are set forth in Title 5, Government Organization and Employees. See, particularly, section 3301 et seq. of Title 5.
+
+#### Amendments
+
+1996—Subsec. (f)(2)(A). Pub. L. 104–201 substituted “5724a(a), 5724a(c)” for “5724a(a)(1), 5724a(a)(3)”.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–201 effective 180 days after Sept. 23, 1996, see section 1725(a) of Pub. L. 104–201, set out as a note under section 5722 of Title 5, Government Organization and Employees.
 

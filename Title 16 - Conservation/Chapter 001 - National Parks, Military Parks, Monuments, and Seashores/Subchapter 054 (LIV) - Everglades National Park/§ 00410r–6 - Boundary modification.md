@@ -16,7 +16,7 @@ The Secretary may from time to time make minor revisions in the boundaries of th
 
 #### (d) Acquisition of tracts partially outside boundaries
 
-When any tract of land is only partly within boundaries referred to in subsection (a) of thissection, the Secretary may acquire all or any portion of the land outside of such boundaries in order to minimize the payment of severance costs. Land so acquired outside of the boundaries may be exchanged by the Secretary for non-Federal lands within the boundaries, and any land so acquired and not utilized for exchange shall be reported to the General Services Administration for disposal under the Federal Property and Administrative Services Act of 1949 (63 Stat. 377) \[40 U.S.C. 471 et seq.\].
+When any tract of land is only partly within boundaries referred to in subsection (a) of this section, the Secretary may acquire all or any portion of the land outside of such boundaries in order to minimize the payment of severancecosts. Land so acquired outside of the boundaries may be exchanged by the Secretary for non-Federal lands within the boundaries, and any land so acquired and not utilized for exchange shall be reported to the General Services Administration for disposal under the Federal Property and Administrative Services Act of 1949 (63 Stat. 377) \[40 U.S.C. 471 et seq.\].
 
 #### (e) Offers to sell
 

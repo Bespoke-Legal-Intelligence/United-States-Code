@@ -100,7 +100,7 @@ In awarding grants to eligible applicants under this section, the Secretary shal
 
 &emsp;&emsp;(A) in consultation with experts in early childhood development, experts in health, and experts in family services; and
 
-&emsp;&emsp;(B) taking into consideration the knowledge and experience gained from other early childhood programs, including programs under the Comprehensive Child Development Act, and from migrant Head Start programs that serve a large number of infants and toddlers.
+&emsp;&emsp;(B) taking into consideration the knowledge and experience gained from other earlychildhood programs, including programs under the Comprehensive Child Development Act, and from migrant Head Start programs that serve a large number of infants and toddlers.
 
 #### (2) Standards
 

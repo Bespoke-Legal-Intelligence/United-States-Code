@@ -22,7 +22,7 @@ A report of the seizure shall be made to the United States attorney for the judi
 
 For transfer of certain enforcement functions of Secretary or other official in Department of the Interior under this chapter to Federal Inspector, Office of Federal Inspector for the Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, see Transfer of Functions note set out under section 725 of this title.
 
-Transfer of functions of Secretary of Agriculture and Secretary of Commerce to Secretary of the Interior byReorg. Plan No. II of 1939, see Transfer of Functions note set out under section 723 of this title.
+Transfer of functions of Secretary of Agriculture and Secretary of Commerce to Secretary of the Interior by Reorg. Plan No. II of 1939, see Transfer of Functions note set out under section 723 of this title.
 
 #### Federal Rules of Civil Procedure
 

@@ -66,7 +66,7 @@ This section shall not be construed to extinguish or lessen any effort to achiev
 
 1990—Subsec. (b)(1). Pub. L. 101–246 inserted “geographic or educational affiliation within the United States,” after “marital status,”.
 
-1987—Subsec. (d)(2). Pub. L. 100–204 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Not later than January 31 of each year, the Secretary shall transmit to each House of the Congress a report, signed by the Secretary, on the activities of the Secretary under paragraph (1). Such report shall include any affirmative action plans submitted by the Secretary under section 2000e–16 of title 42 and any data necessary to evaluate the effectiveness of the program under paragraph (1) for the preceding fiscal year, together with recommendations for administrative or legislative action the Secretary considers appropriate.”
+1987—Subsec. (d)(2). Pub. L. 100–204 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Not later than January 31 of each year, the Secretary shall transmit to each House of the Congress a report,signed by the Secretary, on the activities of the Secretary under paragraph (1). Such report shall include any affirmative action plans submitted by the Secretary under section 2000e–16 of title 42 and any data necessary to evaluate the effectiveness of the program under paragraph (1) for the preceding fiscal year, together with recommendations for administrative or legislative action the Secretary considers appropriate.”
 
 #### Section Referred to in Other Sections
 

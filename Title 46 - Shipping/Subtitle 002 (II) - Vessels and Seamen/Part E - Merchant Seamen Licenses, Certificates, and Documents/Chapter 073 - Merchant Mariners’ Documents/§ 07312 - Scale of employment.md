@@ -2,25 +2,25 @@
 
 (a) Individuals qualified as able seamen—unlimited under section 7307 of this title may constitute all of the able seamen required on a vessel.
 
-(b) Individuals qualified as able seamen—limited under section 7308 of this title may constitute all of the able seamen required on a vessel of less than 1,600 gross tons or on a vessel operating on the Great Lakes and the Saint Lawrence River as far east as Sept Iles. Individuals qualified as able seamen—limited may constitute not more than 50 percent of the number of able seamen required on board other vessels.
+(b) Individuals qualified as able seamen—limited under section 7308 of this title may constitute all of the able seamen required on a vessel of less than 1,600 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title or on a vessel operating on the Great Lakes and the Saint Lawrence River as far east as Sept Iles. Individuals qualified as able seamen—limited may constitute not more than 50 percent of the number of able seamen required on board other vessels.
 
 (c) Individuals qualified as able seamen—special under section 7309 of this title may constitute—
 
-&emsp;(1) all of the able seamen required on a vessel of not more than 500 gross tons or on a seagoing barge or towing vessel; and
+&emsp;(1) all of the able seamen required on a vessel of not more than 500 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title or on a seagoing barge or towing vessel; and
 
 &emsp;(2) not more than 50 percent of the number of able seamen required on board other vessels.
 
-(d) Individuals qualified as able seamen—offshore supply vessels under section 7310 of this title may constitute all of the able seamen required on board a vessel of less than 500 gross tons engaged in support of exploration, exploitation, or production of offshore mineral or energy resources.
+(d) Individuals qualified as able seamen—offshore supply vessels under section 7310 of this title may constitute all of the able seamen required on board a vessel of less than 500 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title engaged in support of exploration, exploitation, or production of offshore mineral or energy resources.
 
 (e) When the service of able seamen—limited or able seamen—special is authorized for only a part of the required number of able seamen on board a vessel, the combined percentage of those individuals so qualified may not be greater than 50 percent of the required number.
 
 (f) Individuals qualified as able seamen—fishing industry under section 7311a of this title may constitute—
 
-&emsp;(1) all of the able seamen required on a fish processing vessel entered into service before January 1, 1988, and of more than 1,600 gross tons but not more than 5,000 gross tons; and
+&emsp;(1) all of the able seamen required on a fish processing vessel entered into service before January 1, 1988, and of more than 1,600 gross tons but not more than 5,000 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title; and
 
-&emsp;(2) all of the able seamen required on a fish processing vessel entered into service after December 31, 1987, and having more than 16 individuals on board primarily employed in the preparation of fish or fish products but of not more than 5,000 gross tons.
+&emsp;(2) all of the able seamen required on a fish processing vessel entered into service after December 31, 1987, and having more than 16 individuals on board primarily employed in the preparation of fish or fish products but of not more than 5,000 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title.
 
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 543; Pub. L. 98–364, title IV, §402(9)(E), July 17, 1984, 98 Stat. 448; Pub. L. 99–307, §1(11), May 19, 1986, 100 Stat. 445.)
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 543; Pub. L. 98–364, title IV, §402(9)(E), July 17, 1984, 98 Stat. 448; Pub. L. 99–307, §1(11), May 19, 1986, 100 Stat. 445; Pub. L. 104–324, title VII, §723, Oct. 19, 1996, 110 Stat. 3938.)
 
 Historical and Revision Notes
 
@@ -43,6 +43,16 @@ Subsection (d) provides that able seamen—offshore supply vessels may constitut
 Subsection (e) provides that the total number of able seamen—limited or able seamen—special may not be greater than 50 percent of the required number of able seamen on a vessel.
 
 #### Amendments
+
+1996—Subsec. (b). Pub. L. 104–324, §723(1), inserted “as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title” after “1,600 gross tons”.
+
+Subsec. (c)(1). Pub. L. 104–324, §723(2), inserted “as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title” after “500 gross tons”.
+
+Subsec. (d). Pub. L. 104–324, §723(3), inserted “as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title” after “500 gross tons”.
+
+Subsec. (f)(1). Pub. L. 104–324, §723(4), inserted “as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title” after “5,000 gross tons”.
+
+Subsec. (f)(2). Pub. L. 104–324, §723(5), inserted “as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title” after “5,000 gross tons”.
 
 1986—Subsec. (e). Pub. L. 99–307 substituted “able seamen—limited” for “able seaman—limited”.
 

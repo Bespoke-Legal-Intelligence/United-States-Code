@@ -24,15 +24,21 @@ For purposes of this section, in any case in which a person engaged in the busin
 
 #### (d) Termination
 
-The tax imposed by subsection (a) shall apply with respect to transportation beginning after August 31, 1982, and before January 1, 1996.
+The tax imposed by subsection (a) shall apply with respect to transportation beginning afterAugust 31, 1982, and before January 1, 1996, and to transportation beginning on or after the date which is 7 calendar days after the date of the enactment of the Small Business Job Protection Act of 1996 and before January 1, 1997.
 
-(Added Pub. L. 91–258, title II, §204, May 21, 1970, 84 Stat. 239; amended Pub. L. 94–455, title XIX, §1904(a)(8), Oct. 4, 1976, 90 Stat. 1812; Pub. L. 96–298, §1(b), July 1, 1980, 94 Stat. 829; Pub. L. 97–248, title II, §280(b), Sept. 3, 1982, 96 Stat. 564; Pub. L. 100–223, title IV, §402(a)(2), Dec. 30, 1987, 101 Stat. 1532; Pub. L. 101–508, title XI, §11213(a)(2), (d)(1), Nov. 5, 1990, 104 Stat. 1388–432, 1388–435.)
+(Added Pub. L. 91–258, title II, §204, May 21, 1970, 84 Stat. 239; amended Pub. L. 94–455, title XIX, §1904(a)(8), Oct. 4, 1976, 90 Stat. 1812; Pub. L. 96–298, §1(b), July 1, 1980, 94 Stat. 829; Pub. L. 97–248, title II, §280(b), Sept. 3, 1982, 96 Stat. 564; Pub. L. 100–223, title IV, §402(a)(2), Dec. 30, 1987, 101 Stat. 1532; Pub. L. 101–508, title XI, §11213(a)(2), (d)(1), Nov. 5, 1990, 104 Stat. 1388–432, 1388–435; Pub. L. 104–188, title I, §1609(b), Aug. 20, 1996, 110 Stat. 1841.)
+
+#### References in Text
+
+The date of the enactment of the Small Business Job Protection Act of 1996, referred to in subsec. (d), is date of enactment of Pub. L. 104–188, which was approved Aug. 20, 1996.
 
 #### Prior Provisions
 
 A prior section 4271, act Aug. 16, 1954, ch. 736, 68A Stat. 507, 508, related to tax for the transportation of property, prior to repeal by Pub. L. 85–475, §4(a), June 30, 1958, 72 Stat. 260. For effective date of repeal, see section 4(c) of Pub. L. 85–475, set out as an Effective Date of 1958 Amendment note under section 6415 of this title.
 
 #### Amendments
+
+1996—Subsec. (d). Pub. L. 104–188 substituted “January 1, 1996, and to transportation beginning on or after the date which is 7 calendar days after the date of the enactment of the Small Business Job Protection Act of 1996 and before January 1, 1997” for “January 1, 1996”.
 
 1990—Subsec. (a). Pub. L. 101–508, §11213(a)(2), substituted “6.25 percent” for “5 percent”.
 
@@ -45,6 +51,10 @@ Subsec. (d). Pub. L. 101–508, §11213(d)(1), substituted “January 1, 1996”
 1980—Subsec. (d). Pub. L. 96–298 substituted “September 30, 1980” for “June 30, 1980”.
 
 1976—Subsec. (a). Pub. L. 94–455 struck out “which begins after June 30, 1970” after “of property”.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–188 effective on 7th calendar day after Aug. 20, 1996, but not applicable to any amount paid before such date, see section 1609(i) of Pub. L. 104–188, set out as a note under section 4041 of this title.
 
 #### Effective Date of 1990 Amendment
 

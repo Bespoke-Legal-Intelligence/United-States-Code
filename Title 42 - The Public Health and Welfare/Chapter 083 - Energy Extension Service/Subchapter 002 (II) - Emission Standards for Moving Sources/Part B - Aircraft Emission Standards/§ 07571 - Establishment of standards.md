@@ -8,7 +8,11 @@
 
 &emsp;(B) the technological feasibility of controlling such emissions.
 
-(2) The Administrator shall, from time to time, issue proposed emission standards applicable to the emission of any air pollutant from any class or classes of aircraft engines which in his judgment causes, or contributes to, air pollution which may reasonably be anticipated to endanger public health or welfare.
+(2)(A) The Administrator shall, from time to time, issue proposed emission standards applicable to the emission of any air pollutant from any class or classes of aircraft engines which in his judgment causes, or contributes to, air pollution which may reasonably be anticipated to endanger public health or welfare.
+
+(B)(i) The Administrator shall consult with the Administrator of the Federal Aviation Administration on aircraft engine emission standards.
+
+(ii) The Administrator shall not change the aircraft engine emission standards if such change would significantly increase noise and adversely affect safety.
 
 (3) The Administrator shall hold public hearings with respect to such proposed standards. Such hearings shall, to the extent practicable, be held in air quality control regions which are most seriously affected by aircraft emissions. Within 90 days after the issuance of such proposed regulations, he shall issue such regulations with such modifications as he deems appropriate. Such regulations may be revised from time to time.
 
@@ -20,7 +24,7 @@ Any regulation prescribed under this section (and any revision thereof) shall ta
 
 Any regulations in effect under this section on August 7, 1977, or proposed or promulgated thereafter, or amendments thereto, with respect to aircraft shall not apply if disapproved by the President, after notice and opportunity for public hearing, on the basis of a finding by the Secretary of Transportation that any such regulation would create a hazard to aircraft safety. Any such finding shall include a reasonably specific statement of the basis upon which the finding was made.
 
-(July 14, 1955, ch. 360, title II, §231, as added Dec. 31, 1970, Pub. L. 91–604, §11(a)(1), 84 Stat. 1703; amended Aug. 7, 1977, Pub. L. 95–95, title II, §225, title IV, §401(f), 91 Stat. 769, 791.)
+(July 14, 1955, ch. 360, title II, §231, as added Dec. 31, 1970, Pub. L. 91–604, §11(a)(1), 84 Stat. 1703; amended Aug. 7, 1977, Pub. L. 95–95, title II, §225, title IV, §401(f), 91 Stat. 769, 791; Oct. 9, 1996, Pub. L. 104–264, title IV, §406(b), 110 Stat. 3257.)
 
 #### Codification
 
@@ -28,9 +32,15 @@ Section was formerly classified to section 1857f–9 of this title.
 
 #### Amendments
 
+1996—Subsec. (a)(2). Pub. L. 104–264 designated existing provisions as subpar. (A) and added subpar. (B).
+
 1977—Subsec. (a)(2). Pub. L. 95–95, §401(f), substituted “The Administrator shall, from time to time, issue proposed emission standards applicable to the emission of any air pollutant from any class or classes of aircraft engines which in his judgment causes, or contributes to, air pollution which may reasonably be anticipated to endanger public health or welfare” for “Within 180 days after commencing such study and investigation, the Administrator shall publish a report of such study and investigation and shall issue proposed emission standards applicable to emissions of any air pollutant from any class or classes of aircraft or aircraft engines which in his judgment cause or contribute to or are likely to cause or contribute to air pollution which endangers the public health or welfare”.
 
 Subsec. (c). Pub. L. 95–95, §225, substituted “Any regulations in effect under this section on August 7, 1977, or proposed or promulgated thereafter, or amendments thereto, with respect to aircraft shall not apply if disapproved by the President, after notice and opportunity for public hearing, on the basis of a finding by the Secretary of Transportation that any such regulation would create a hazard to aircraft safety” for “Any regulations under this section, or amendments thereto, with respect to aircraft, shall be prescribed only after consultation with the Secretary of Transportation in order to assure appropriate consideration for aircraft safety” and inserted provision that findings include a reasonably specific statement of the basis upon which the finding was made.
+
+#### Effective Date of 1996 Amendment
+
+Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of Title 49, Transportation.
 
 #### Effective Date of 1977 Amendment
 

@@ -2,7 +2,7 @@
 
 Not less than $1,500,000 of the appropriations of the Department of Agriculture in this Act for research and service work authorized by the Acts of August 14, 1946, and July 28, 1954 (7 U.S.C. 427, 1621–1629), and by chapter 63 of title 31 shall be available for contracting in accordance with said Acts and chapter.
 
-(Oct. 21, 1995, Pub. L. 104–37, title VII, §703, 109 Stat. 329.)
+(Aug. 6, 1996, Pub. L. 104–180, title VII, §703, 110 Stat. 1596.)
 
 #### Codification
 
@@ -11,6 +11,8 @@ Section was enacted as part of the appropriation act cited as the credit to this
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in the following prior appropriation acts:
+
+Oct. 21, 1995, Pub. L. 104–37, title VII, §703, 109 Stat. 329.
 
 Sept. 30, 1994, Pub. L. 103–330, title VII, §703, 108 Stat. 2466.
 

@@ -2,7 +2,7 @@
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in section 1932 of this title.
+This subchapter is referred to in sections 917, 2204f of this title.
 
 
 ---
@@ -11,7 +11,7 @@ This subchapter is referred to in section 1932 of this title.
 
 - [&sect; 02661 - Statement of purposes and goals](%C2%A7%2002661%20-%20Statement%20of%20purposes%20and%20goals.md)
 - [&sect; 02662 - Programs authorized](%C2%A7%2002662%20-%20Programs%20authorized.md)
-- [&sect; 02662a - Demonstration projects](%C2%A7%2002662a%20-%20Demonstration%20projects.md)
+- [&sect; 02662a - Repealed. Pub. L. 104&#8211;127, title VII, &sect;706, title VIII, &sect;867, Apr. 4, 1996, 110 Stat. 1112, 1174](%C2%A7%2002662a%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93127%2C%20title%20VII%2C%20%C2%A7706%2C%20title%20VIII%2C%20%C2%A7867%2C%20Apr.%204%2C%201996%2C%20110%20Stat.%201112%2C%201174.md)
 - [&sect; 02663 - Funding](%C2%A7%2002663%20-%20Funding.md)
 - [&sect; 02664 - Cooperating colleges and universities](%C2%A7%2002664%20-%20Cooperating%20colleges%20and%20universities.md)
 - [&sect; 02665 - Withholding funds](%C2%A7%2002665%20-%20Withholding%20funds.md)

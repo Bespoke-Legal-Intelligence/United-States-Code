@@ -14,7 +14,9 @@ Manned Auxiliary Stations.—The Secretary and the Administrator of the Federal 
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

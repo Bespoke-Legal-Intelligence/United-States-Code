@@ -2,7 +2,7 @@
 
 #### (a) Establishment and maintenance in Library of Congress; purpose; determination of composition, cataloging, indexing and availability by Librarian
 
-The Librarian of Congress (hereinafter referred to as the “Librarian”) shall establish andmaintain in the Library of Congress a library to be known as the American Television and Radio Archives (hereinafter referred to as the “Archives”). The purpose of the Archives shall be to preserve a permanent record of the television and radio programs which are the heritage of the people of the United States and to provide access to such programs to historians and scholars without encouraging or causing copyright infringement.
+The Librarian of Congress (hereinafter referred to as the “Librarian”) shall establish and maintain in the Library of Congress a library to be known as the American Television and Radio Archives (hereinafter referred to as the “Archives”). The purpose of the Archives shall be to preserve a permanent record of the television and radio programs which are the heritage of the people of the United States and to provide access to such programs to historians and scholars without encouraging or causing copyright infringement.
 
 &emsp;(1) The Librarian, after consultation with interested organizations and individuals, shall determine and place in the Archives such copies and phonorecords of television and radio programs transmitted to the public in the United States and in other countries which are of present or potential public or cultural interest, historical significance, cognitive value, or otherwise worthy of preservation, including copies and phonorecords of published and unpublished transmission programs—
 
@@ -34,7 +34,7 @@ Notwithstanding the provisions of section 106 of title 17, the Librarian is auth
 
 #### (c) Liability for copyright infringement by Librarian or any employee of Librarian
 
-The Librarian or any employee of the Library who is acting under the authority of this section shall not be liable in any action for copyright infringement committed by any other person unless the Librarian or such employee knowingly participated in the act of infringement committed by such person. Nothing in this section shall be construed to excuse or limit liability under title 17 for any act not authorized by that title or this section, or for any act performed by a person not authorized to act under that title or this section.
+The Librarian or any employee of the Library who is acting under the authority of this section shall not be liable in any action for copyrightinfringement committed by any other person unless the Librarian or such employee knowingly participated in the act of infringement committed by such person. Nothing in this section shall be construed to excuse or limit liability under title 17 for any act not authorized by that title or this section, or for any act performed by a person not authorized to act under that title or this section.
 
 #### (d) Short title
 

@@ -6,7 +6,9 @@ A rail tank car built before January 1, 1971, may be used to transport hazardous
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

@@ -36,7 +36,7 @@ Interest or income earned on the funds credited to a reserve fund shall be deeme
 
 #### (A) In general
 
-&emsp;&emsp;A participating financial institution shall file each loan made under the Program forenrollment by completing and submitting to the participating State a form prescribed by the participating State.
+&emsp;&emsp;A participating financial institution shall file each loan made under the Program for enrollment by completing and submitting to the participating State a form prescribed by the participating State.
 
 #### (B) Form
 
@@ -92,7 +92,7 @@ In enrolling a loan under the Program, the participating State shall contribute 
 
 &emsp;If a participating financial institution charges off all or part of an enrolled loan, such participating financial institution may file a claim for reimbursement with the participating State by submitting a form that—
 
-&emsp;&emsp;(A) includes the representation by the participating financial institution that it is filing the claim in accordance with the terms of the applicable participation agreement; and
+&emsp;&emsp;(A) includes the representation by the participating financial institution that it is filing the claim in accordance with the termsof the applicable participation agreement; and
 
 &emsp;&emsp;(B) contains such other information as may be required by the participating State.
 
@@ -108,7 +108,7 @@ A claim filed by a participating financial institution may include the amount of
 
 #### (1) In general
 
-&emsp;Except as provided in subsection (n) of this section and paragraph (2) of this subsection,upon receipt of a claim filed in accordance with this section and the participation agreement, the participating State shall promptly pay to the participating financial institution, from funds in the reserve fund, the full amount of the claim as submitted.
+&emsp;Except as provided in subsection (n) of this section and paragraph (2) of this subsection, upon receipt of a claim filed in accordance with this section and the participation agreement, the participating State shall promptly pay to the participating financial institution, from funds in the reserve fund, the full amount of the claim as submitted.
 
 #### (2) Insufficient reserve funds
 
@@ -162,7 +162,7 @@ If, subsequent to payment of a claim by the participating State, a participating
 
 #### (2) Definitions
 
-&emsp;For purposes of this subsection, the terms “executive officer”, “director”, “principal shareholder”, “immediate family”, and “related interest” refer to the same relationship to a participating financial institution as the relationship described in part 215 of title 12 of the Code of Federal Regulations, or any successor to such part.
+&emsp;For purposes of this subsection, the terms “executive officer”, “director”, “principal shareholder”, “immediate family”, and “related interest” refer to the same relationship to a participating financial institution as the relationship described in part 215 of title 12 ofthe Code of Federal Regulations, or any successor to such part.
 
 #### (q) Termination clause
 

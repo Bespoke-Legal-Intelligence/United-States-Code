@@ -56,7 +56,7 @@ The effective date of this chapter, referred to in subsecs. (b)(2)(D) and (d), i
 
 #### Codification
 
-In subsec. (b)(2)(D), “section 31502 of title 49” substituted for “section 3102 of title 49” on authority of Pub. L. 103–272, §§1(c), (e), 6(b), July 5, 1994, 108 Stat. 745, 862, 1029, 1378. Previously, “section 3102 of title 49” substituted for “section 204(a)(3a) of the Interstate Commerce Act (49 U.S.C. 304(a)(3a))” on authority of Pub. L. 97–449, §6(b), Jan. 12, 1983, 96 Stat. 2443, the first section of which enacted subtitle I (§101 et seq.) and chapter 31 (§3101 et seq.) of subtitle II of Title 49, Transportation.
+In subsec. (b)(2)(D), “section 31502 of title 49” substituted for “section 3102 of title 49” on authority of Pub. L. 103–272, §§1(c), (e), 6(b), July 5, 1994, 108 Stat. 745, 862, 1029, 1378. Previously, “section 3102 of title 49” substituted for “section 204(a)(3a) of the InterstateCommerce Act (49 U.S.C. 304(a)(3a))” on authority of Pub. L. 97–449, §6(b), Jan. 12, 1983, 96 Stat. 2443, the first section of which enacted subtitle I (§101 et seq.) and chapter 31 (§3101 et seq.) of subtitle II of Title 49, Transportation.
 
 #### Amendments
 
@@ -72,7 +72,7 @@ Section 5(c) of Pub. L. 104–49 provided that: “The amendment made by subsect
 
 #### Regulations
 
-Section 5(b) of Pub. L. 104–49 provided that: “Within 180 days of the date of the enactment of this Act \[Nov. 15, 1995\], the Secretary of Labor shall promulgate regulations establishing insurance levels under section 401(b)(3) of the Migrant and Seasonal Agricultural Worker Protection Act (29 U.S.C. 1841(b)(3)) as amended by subsection (a).”
+Section 5(b) of Pub. L. 104–49 provided that: “Within 180 days of the date of the enactment of this Act \[Nov. 15, 1995\], the Secretary of Labor shall promulgate regulations establishing insurance levels under section 401(b)(3) of the Migrant and Seasonal Agricultural Worker Protection Act (29 U.S.C. 1841(b)(3)) as amended by subsection (a).” \[Final regulations implementing Pub. L. 104–49 were signed May 13, 1996, published May 16, 1996, 61 F.R. 24858, and effective the same day.\]
 
 #### Section Referred to in Other Sections
 

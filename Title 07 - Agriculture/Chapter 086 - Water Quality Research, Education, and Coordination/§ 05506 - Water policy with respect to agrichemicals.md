@@ -12,13 +12,13 @@ The Department of Agriculture shall be the principal Federal agency responsible 
 
 #### (b) Effect on existing authority
 
-The authority granted in subsection (a) of this section and section 3125c of this title does not alter or effect the responsibility of the Environmental Protection Agency under the Federal Insecticide, Fungicide, and Rodenticide Act (7 U.S.C. 136 et seq.).
+The authority granted in subsection (a) of this section does not alter or effect the responsibility of the Environmental Protection Agency under the Federal Insecticide, Fungicide, and Rodenticide Act (7 U.S.C. 136 et seq.).
 
 #### (c) Participation
 
 The following agencies shall participate in the Department's water program: the Agricultural Research Service; the Agricultural Stabilization and Conservation Service; the Animal and Plant Health Inspection Service; the Cooperative State Research Service in conjunction with the system of State agricultural experiment stations; the Economic Research Service; the Extension Service, in conjunction with State and county cooperative extension services; the Forest Service; the National Agricultural Library; the National Agricultural Statistics Service; the Soil Conservation Service; and other agencies within the Department deemed appropriate by the Secretary.
 
-(Pub. L. 101–624, title XIV, §1499, Nov. 28, 1990, 104 Stat. 3632; Pub. L. 102–237, title II, §201(g), Dec. 13, 1991, 105 Stat. 1847.)
+(Pub. L. 101–624, title XIV, §1499, Nov. 28, 1990, 104 Stat. 3632; Pub. L. 102–237, title II, §201(g), Dec. 13, 1991, 105 Stat. 1847; Pub. L. 104–127, title VIII, §859(b), Apr. 4, 1996, 110 Stat. 1173.)
 
 #### References in Text
 
@@ -31,6 +31,8 @@ The Federal Insecticide, Fungicide, and Rodenticide Act, referred to in subsec. 
 Section was not enacted as part of the Agriculture and Water Policy Coordination Act which comprises this chapter.
 
 #### Amendments
+
+1996—Subsec. (b). Pub. L. 104–127 struck out “and section 3125c of this title” before “does not alter”.
 
 1991—Subsec. (a). Pub. L. 102–237, §201(g)(1), inserted “Agricultural” before “Environmental Quality” and substituted “section 5402 of this title” for “section 1612 of this Act”.
 

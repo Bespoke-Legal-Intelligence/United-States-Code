@@ -2,7 +2,7 @@
 
 #### (a) Requirement
 
-The Secretary shall provide notice by certified mail to each borrower who is at least 180 days delinquent in the payment of principal or interest on a loan made or insured under this chapter.
+The Secretary shall provide notice by certified mail to each borrower who is at least 90 days past due on the payment of principal or interest on a loan made or insured under this chapter.
 
 #### (b) Contents
 
@@ -50,7 +50,7 @@ The notice described in subsection (b) of this section shall be provided—
 
 The Secretary shall consider a farmer program borrower for all loan service programs if, within 60 days after receipt of the notice required in this section or, in extraordinary circumstances as determined by the applicable State director, after the 60-day period, the borrower requests such consideration in writing. In considering a borrower for loan service programs, the Secretary shall place the highest priority on the preservation of the borrower's farming operations.
 
-(Pub. L. 87–128, title III, §331D, as added Pub. L. 100–233, title VI, §605, Jan. 6, 1988, 101 Stat. 1666; amended Pub. L. 101–624, title XVIII, §1807, Nov. 28, 1990, 104 Stat. 3819; Pub. L. 102–554, §10, Oct. 28, 1992, 106 Stat. 4151.)
+(Pub. L. 87–128, title III, §331D, as added Pub. L. 100–233, title VI, §605, Jan. 6, 1988, 101 Stat. 1666; amended Pub. L. 101–624, title XVIII, §1807, Nov. 28, 1990, 104 Stat. 3819; Pub. L. 102–554, §10, Oct. 28, 1992, 106 Stat. 4151; Pub. L. 104–127, title VI, §633, Apr. 4, 1996, 110 Stat. 1092.)
 
 #### References in Text
 
@@ -58,11 +58,17 @@ For definition of “this chapter”, referred to in subsecs. (a) and (c), see n
 
 #### Amendments
 
+1996—Subsec. (a). Pub. L. 104–127 substituted “90 days past due on” for “180 days delinquent in”.
+
 1992—Subsec. (e). Pub. L. 102–554, which directed the insertion of “or, in extraordinary circumstances as determined by the applicable State director, after the 60-day period” after “not later than 60 days after receipt of the notice required in this section”, was executed by making the insertion after “within 60 days after receipt of the notice required in this section” to reflect the probable intent of Congress.
 
 1990—Subsec. (b)(1). Pub. L. 101–624, §1807(1), inserted “debt settlement programs,” after “preservation loan service programs”.
 
 Subsec. (e). Pub. L. 101–624, §1807(2), substituted “60 days” for “45 days”.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–127 effective 90 days after Apr. 4, 1996, see section 663(b) of Pub. L. 104–127, set out as a note under section 1922 of this title.
 
 #### Effective Date of 1990 Amendment
 
@@ -70,5 +76,5 @@ Amendment by section 1807(1) of Pub. L. 101–624 effective 120 days after Nov. 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1991 of this title.
+This section is referred to in sections 1991, 2008g of this title.
 

@@ -1,4 +1,4 @@
-### §1156 . Intoxicants possessed unlawfully
+### §1156. Intoxicants possessed unlawfully
 
 Whoever, except for scientific, sacramental, medicinal or mechanical purposes, possesses intoxicating liquors in the Indian country or where the introduction is prohibited by treaty or an Act of Congress, shall, for the first offense, be fined under this title or imprisoned not more than one year, or both; and, for each subsequent offense, be fined under this title or imprisoned not more than five years, or both.
 

@@ -12,7 +12,7 @@
 
 (2) Those regulations shall include the following:
 
-&emsp;(A) A description of the period and geographical area or areas of military service inconnection with which compensation under this section may be paid.
+&emsp;(A) A description of the period and geographical area or areas of military service in connection with which compensation under this section may be paid.
 
 &emsp;(B) A description of the illnesses for which compensation under this section may be paid.
 
@@ -30,7 +30,7 @@ Section 106(d) of Pub. L. 103–446 provided that: “If the Secretary states in
 
 #### Persian Gulf War Veterans’ Benefits
 
-Sections 102 to 105, 107, 109, and 110 of title I of Pub. L. 103–446 provided that:
+Sections 102 to 105, 107, 109, and 110 of title I of Pub. L. 103–446, as amended by Pub. L. 104–262, title III, §352(a), Oct. 9, 1996, 110 Stat. 3210, provided that:
 
 #### “SEC. 102. FINDINGS.
 
@@ -126,7 +126,7 @@ Evaluation Program.—Subject to subsection (c), the Secretary of the Veterans A
 
 “(b)
 
-Duration of Program.—The program shall be carried out during the period beginning on November 1, 1994, and ending on September 30, 1996.
+Duration of Program.—The program shall be carried out during the period beginning on November 1, 1994, and ending on December 31, 1998.
 
 “(c)
 
@@ -138,7 +138,7 @@ Contracting.—The Secretary shall provide for the conduct of testing and examin
 
 “(e)
 
-Standard Protocols and Guidelines.—The Secretary shall seek to ensure uniform development of medical data through the development of standard protocols and guidelines for such testing and examinations. If such protocols and guidelines have not been adopted before the end of the 120-day period beginning on the date of the enactment of this Act \[Nov. 2, 1994\], the Secretary shall, before the end of such period, submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report as to why such protocols and guidelines have not yet been developed.
+Standard Protocols and Guidelines.—The Secretary shall seek to ensure uniform development ofmedical data through the development of standard protocols and guidelines for such testing and examinations. If such protocols and guidelines have not been adopted before the end of the 120-day period beginning on the date of the enactment of this Act \[Nov. 2, 1994\], the Secretary shall, before the end of such period, submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report as to why such protocols and guidelines have not yet been developed.
 
 “(f)
 
@@ -204,6 +204,8 @@ Access to Data.—The Secretary shall enter into agreements with the Secretary o
 
 Authorization.—There are authorized to be appropriated to the Department such sums as are necessary for the conduct of studies described in subsection (a).”
 
+\[Pub. L. 104–262, title III, §352(b), Oct. 9, 1996, 110 Stat. 3211, provided that: “Any diagnostic testing and medical examinations undertaken by the Secretary of Veterans Affairs for the purpose of the study required by subsection (a) of such section \[section 107(a) of Pub. L. 103–446, set out above\] during the period beginning on October 1, 1996, and ending on the date of the enactment of this Act \[Oct. 9, 1996\] is hereby ratified.”\]
+
 #### Report to Congress on Intention To Pay Compensation
 
 Section 106(c) of Pub. L. 103–446 directed Secretary of Veterans Affairs, not later than 60 days after Nov. 2, 1994, to submit to Congress a report stating whether or not the Secretary intended to pay compensation as provided in this section.
@@ -224,13 +226,13 @@ Sec. 2. <i>Functions</i>. (a) The Committee shall report to the President throug
 
 (1) <i>Research</i>: epidemiological, clinical, and other research concerning Gulf War veterans’ illnesses.
 
-(2) <i>Coordinating Efforts</i>: the activities of the Persian Gulf Veterans Coordinating Board, including the Research Coordinating Council, the Clinical Working Group, and the Disability and Compensation Working Group.
+(2) <i>Coordinating Efforts</i>: the activities of the Persian Gulf Veterans Coordinating Board, including the Research Coordinating Council, the Clinical WorkingGroup, and the Disability and Compensation Working Group.
 
 (3) <i>Medical Treatment</i>: medical examinations and treatment in connection with Gulf War veterans’ illnesses, including the Comprehensive Clinical Evaluation Program and the Persian Gulf Registry Medical Examination Program.
 
 (4) <i>Outreach</i>: government-sponsored outreach efforts such as hotlines and newsletters related to Gulf War veterans’ illnesses.
 
-(5) <i>External Reviews</i>: the steps taken to implement recommendations in external reviews by the Institute of Medicine's Committee to Review the Health Consequences of Service During the Persian Gulf War, the Defense Science Board Task Force on Persian Gulf WarHealth Effects, the National Institutes of Health Technology Assessment Workshop on the Persian Gulf Experience and Health, the Persian Gulf Expert Scientific Committee, and other bodies.
+(5) <i>External Reviews</i>: the steps taken to implement recommendations in external reviews by the Institute of Medicine's Committee to Review the Health Consequences of Service During the Persian Gulf War, the Defense Science Board Task Force on Persian Gulf War Health Effects, the National Institutes of Health Technology Assessment Workshop on the Persian Gulf Experience and Health, the Persian Gulf Expert Scientific Committee, and other bodies.
 
 (6) <i>Risk Factors</i>: the possible risks associated with service in the Persian Gulf Conflict in general and, specifically, with prophylactic drugs and vaccines, infectious diseases, environmental chemicals, radiation and toxic substances, smoke from oil well fires, depleted uranium, physical and psychological stress, and other factors applicable to the Persian Gulf Conflict.
 

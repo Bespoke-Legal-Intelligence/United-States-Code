@@ -62,7 +62,7 @@
 | (a) | Consent of Congress. |
 | (b) | Approval of plans. |
 | (c) | Private highway toll bridges. |
-| 526, 526a. Repealed. |  |
+| 526, 526a. | Repealed. |
 | [527\.](Subchapter%20003%20%28III%29%20-%20General%20Bridge%20Authority/%C2%A7%2000527%20-%20Acquisition%20of%20interstate%20bridges%20by%20public%20agencies%3B%20amount%20of%20damages.md) | Acquisition of interstate bridges by public agencies; amount of damages. |
 | [528\.](Subchapter%20003%20%28III%29%20-%20General%20Bridge%20Authority/%C2%A7%2000528%20-%20Statement%20of%20construction%20costs%20of%20privately%20owned%20interstate%20bridges%3B%20investigation%20of%20costs%3B%20conclusiveness%20of%20findings%3B%20review.md) | Statement of construction costs of privately owned interstate bridges; investigation of costs; conclusiveness of findings; review. |
 | [529\.](Subchapter%20003%20%28III%29%20-%20General%20Bridge%20Authority/%C2%A7%2000529%20-%20Repealed.%20Pub.%20L.%20100%E2%80%9317%2C%20title%20I%2C%20%C2%A7135%28e%29%2C%20Apr.%202%2C%201987%2C%20101%20Stat.%20174.md) | Repealed. |

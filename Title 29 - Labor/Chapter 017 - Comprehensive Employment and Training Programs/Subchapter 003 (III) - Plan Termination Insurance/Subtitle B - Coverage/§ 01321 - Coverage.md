@@ -14,7 +14,7 @@ Except as provided in subsection (b) of this section, this subchapter applies to
 
 > &emsp;which has, in practice, met the requirements of part I of subchapter D of chapter 1 of title 26 (as in effect for the preceding 5 plan years of the plan) applicable to the plans described in paragraph (2) for the preceding 5 plan years; or
 
-&emsp;(2) is, or has been determined by the Secretary of the Treasury to be, a plan described in section 401(a) of title 26, or which meets, or has been determined by the Secretary of the Treasury to meet, the requirements of section 404(a)(2) of title 26.
+&emsp;(2) is, or has been determined by the Secretary of the Treasury to be, a plan describedin section 401(a) of title 26, or which meets, or has been determined by the Secretary of the Treasury to meet, the requirements of section 404(a)(2) of title 26.
 
 > For purposes of this subchapter, a successor plan is considered to be a continuation of a predecessor plan. For this purpose, unless otherwise specifically indicated in this subchapter, a successor plan is a plan which covers a group of employees which includes substantially the same employees as a previously established plan, and provides substantially the same benefits as that plan provided.
 
@@ -70,7 +70,7 @@ The Railroad Retirement Act of 1935 or 1937, referred to in subsec. (b)(2), mean
 
 Paragraph (6) of section 1322(b) of this title, referred to in subsec. (b)(9), was redesignated as par. (5) by Pub. L. 96–364, title IV, §403(c)(4), Sept. 26, 1980, 94 Stat. 1301.
 
-The International Organizations Immunities Act, referred to in subsec. (b)(10), is title I of act Dec. 29, 1945, ch. 652, 59 Stat. 669, as amended, which is classified principally to subchapter XVIII (§288 et seq.) of chapter 7 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 288 of Title 22 and Tables.
+The International Organizations Immunities Act, referred to in subsec. (b)(10), is title I of act Dec. 29, 1945,ch. 652, 59 Stat. 669, as amended, which is classified principally to subchapter XVIII (§288 et seq.) of chapter 7 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 288 of Title 22 and Tables.
 
 #### Amendments
 

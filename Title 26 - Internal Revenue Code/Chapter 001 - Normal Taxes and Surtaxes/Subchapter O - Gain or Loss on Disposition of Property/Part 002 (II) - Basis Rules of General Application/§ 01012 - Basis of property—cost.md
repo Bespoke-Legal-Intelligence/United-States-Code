@@ -10,5 +10,5 @@ Involuntary conversions, see section 1033 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1011, 1033, 1043, 1278 of this title.
+This section is referred to in sections 512, 1011, 1033, 1043, 1044, 1278, 1361 of this title.
 

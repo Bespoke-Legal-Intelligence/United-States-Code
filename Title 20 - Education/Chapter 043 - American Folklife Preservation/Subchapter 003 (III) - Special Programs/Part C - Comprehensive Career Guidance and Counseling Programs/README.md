@@ -14,7 +14,7 @@ Section 2376, Pub. L. 88–210, title III, §326, as added Pub. L. 100–418, ti
 
 Section 2377, Pub. L. 88–210, title III, §327, as added Pub. L. 100–418, title VI, §6131(a)(3), Aug. 23, 1988, 102 Stat. 1509; amended Pub. L. 101–476, title IX, §901(a)(2), Oct. 30, 1990, 104 Stat. 1142, authorized giving of grants and uses of funds in connection with special program.
 
-Section 2378, Pub. L. 88–210, title III, §328, as added Pub. L. 100–418, title VI, §6131(a)(3), Aug. 23, 1988, 102 Stat. 1510, provided for coordination of special program with Job Training Partnership Act.
+Section 2378, Pub. L. 88–210, title III, §328, as added Pub. L. 100–418, title VI, §6131(a)(3), Aug. 23, 1988, 102Stat. 1510, provided for coordination of special program with Job Training Partnership Act.
 
 #### Effective Date of Repeal
 

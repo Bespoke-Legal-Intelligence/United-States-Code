@@ -18,7 +18,7 @@ Subsec. (b), providing for Administrators’ collaboration with Smaller War Plan
 
 #### Transfer of Functions
 
-Functions of Secretary of the Treasury transferred to Administrator of General Services by section 102(b) ofact June 30, 1949, which is classified to section 752(b) of Title 40, Public Buildings, Property, and Works.
+Functions of Secretary of the Treasury transferred to Administrator of General Services by section 102(b) of act June 30, 1949, which is classified to section 752(b) of Title 40, Public Buildings, Property, and Works.
 
 “Secretary” substituted for “Director” by section 8 of Ex. Ord. No. 9809 and section 201 of Reorg. Plan No. 1 of 1947, set out in the Appendix to Title 5, Government Organization and Employees.
 

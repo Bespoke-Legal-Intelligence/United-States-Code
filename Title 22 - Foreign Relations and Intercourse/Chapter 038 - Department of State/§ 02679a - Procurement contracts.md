@@ -16,7 +16,7 @@ Any contract for the procurement of property or services, or both, for the Depar
 
 #### (b) Cancellation of contracts
 
-In the event that funds are not made available for the continuation of such a contract into a subsequent fiscal year, the contract shall be cancelled and any cancellation costs incurred shall be paid from appropriations originally available for the performance of the contract, appropriations currently available for the acquisition of similar property or services and not otherwise obligated, or appropriations made for such cancellation payments.
+In the event that funds are not made available for the continuation of such a contract into a subsequent fiscal year, the contract shall be cancelled and any cancellation costs incurredshall be paid from appropriations originally available for the performance of the contract, appropriations currently available for the acquisition of similar property or services and not otherwise obligated, or appropriations made for such cancellation payments.
 
 (Aug. 1, 1956, ch. 841, title I, §14, as added and renumbered title I, Aug. 24, 1982, Pub. L. 97–241, title I, §121, title II, §202(a), 96 Stat. 280, 282.)
 

@@ -50,7 +50,9 @@ Hawaiian Operations.—(1) In this subsection, “turnaround service” means a 
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

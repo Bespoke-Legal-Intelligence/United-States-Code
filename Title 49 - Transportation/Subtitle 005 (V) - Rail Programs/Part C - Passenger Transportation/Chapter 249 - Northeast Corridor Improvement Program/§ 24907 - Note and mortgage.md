@@ -10,13 +10,15 @@ Exemptions From Laws and Regulations.—The note and agreement under subsection 
 
 (c)
 
-Immunity From Liability and Indemnification.—Amtrak, its board of directors, and its individual directors are not liable because Amtrak has given or issued the note or agreement to the Government under subsection (a) of this section. Immunity granted under this subsection also applies to a transaction related to the note or agreement. The Government shall indemnify Amtrak, its board, and individual directors against costs and expenses actually and reasonably incurred in defending a civil action testing the validity of the note, agreement, or transaction.
+Immunity From Liability and Indemnification.—Amtrak, its board of directors, and its individual directors are not liable because Amtrak has given or issued the note or agreement to theGovernment under subsection (a) of this section. Immunity granted under this subsection also applies to a transaction related to the note or agreement. The Government shall indemnify Amtrak, its board, and individual directors against costs and expenses actually and reasonably incurred in defending a civil action testing the validity of the note, agreement, or transaction.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 936.)
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -47,4 +49,12 @@ In subsection (c), the words “to any party for any damages, or in any other ma
 #### References in Text
 
 The Regional Rail Reorganization Act of 1973, referred to in subsecs. (a) and (b), is Pub. L. 93–236, Jan. 2, 1974, 87 Stat. 985, as amended, which is classified principally to chapter 16 (§701 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 45 and Tables.
+
+#### Abolition of Special Court, Regional Rail Reorganization Act of 1973, and Transfer of Functions
+
+Special court abolished and all jurisdiction and functions transferred to United States District Court for District of Columbia, see section 719(b)(2) of Title 45, Railroads.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in title 45 section 719.
 

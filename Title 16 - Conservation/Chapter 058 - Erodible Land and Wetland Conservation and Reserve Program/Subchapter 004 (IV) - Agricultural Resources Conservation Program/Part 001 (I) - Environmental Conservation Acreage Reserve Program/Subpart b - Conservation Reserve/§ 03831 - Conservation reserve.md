@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Through the 1995 calendar year, the Secretary shall formulate and carry out the enrollment of lands in a conservation reserve program through the use of contracts to assist owners and operators of lands specified in subsection (b) of this section to conserve and improve the soil and water resources of such lands.
+Through the 2002 calendar year, the Secretary shall formulate and carry out the enrollment of lands in a conservation reserve program through the use of contracts to assist owners and operators of lands specified in subsection (b) of this section to conserve and improve the soil and water resources of such lands.
 
 #### (b) Eligible lands
 
@@ -16,7 +16,7 @@ The Secretary may include in the program established under this subpart—
 
 &emsp;(2) marginal pasture lands converted to wetland or established as wildlife habitat prior to November 28, 1990;
 
-&emsp;(3) marginal pasture lands to be devoted to trees in or near riparian areas or for similar water quality purposes, not to exceed 10 percent of the number of acres of land that is placed in the conservation reserve under this subpart in each of the 1991 through 1995 calendar years;
+&emsp;(3) marginal pasture lands to be devoted to trees in or near riparian areas or for similar water quality purposes, not to exceed 10 percent of the number of acres of land that is placed in the conservation reserve under this subpart in each of the 1991 through 2002 calendar years;
 
 &emsp;(4) croplands that are otherwise not eligible—
 
@@ -34,7 +34,7 @@ For purposes of determining the eligibility of land to be placed in the conserva
 
 #### (d) Maximum enrollment
 
-The Secretary shall enter into contracts under this section to place in the conservation reserve a total of 38,000,000 acres during the 1986 through 1995 calendar years. In enrolling such acres, the Secretary shall reserve 1 million acres for enrollment under this section in the 1995 calendar year.
+The Secretary may maintain up to 36,400,000 acres in the conservation reserve at any one time during the 1986 through 2002 calendar years (including contracts extended by the Secretary pursuant to section 1437(c) of the Food, Agriculture, Conservation, and Trade Act of 1990 (Public Law 101–624; 16 U.S.C. 3831 note)).
 
 #### (e) Duration of contract
 
@@ -66,19 +66,23 @@ The Secretary shall enter into contracts under this section to place in the cons
 
 #### (4) Duty of Secretary
 
-&emsp;In utilizing the authority granted under this subsection, the Secretary shall attempt to maximize water quality and habitat benefits in such watersheds by promoting a significant level of enrollment of lands within such watersheds in the program under this subpart by whatever means the Secretary determines appropriate and consistent with the purposes of this subpart.
+&emsp;In utilizing the authority granted under this subsection, the Secretary shall attempt tomaximize water quality and habitat benefits in such watersheds by promoting a significant level of enrollment of lands within such watersheds in the program under this subpart by whatever means the Secretary determines appropriate and consistent with the purposes of this subpart.
 
 #### (g) Multi-year grasses and legumes
 
 For purposes of this subpart, alfalfa and other multi-year grasses and legumes in a rotation practice, approved by the Secretary, shall be considered agricultural commodities.
 
-(Pub. L. 99–198, title XII, §1231, Dec. 23, 1985, 99 Stat. 1509; Pub. L. 99–500, §101(a) \[title VI, §643\], Oct. 18, 1986, 100 Stat. 1783, 1783–36, and Pub. L. 99–591, §101(a) \[title VI, §643\], Oct. 30, 1986, 100 Stat. 3341, 3341–36; Pub. L. 99–641, title II, §205, Nov. 10, 1986, 100 Stat. 3563; Pub. L. 101–624, title XIV, §§1432(2), 1447(a), Nov. 28, 1990, 104 Stat. 3577, 3605; Pub. L. 102–324, §1(a), July 22, 1992, 106 Stat. 447; Pub. L. 103–66, title I, §1402(b), Aug. 10, 1993, 107 Stat. 332.)
+(Pub. L. 99–198, title XII, §1231, Dec. 23, 1985, 99 Stat. 1509; Pub. L. 99–500, §101(a) \[title VI, §643\], Oct. 18, 1986, 100 Stat. 1783, 1783–36, and Pub. L. 99–591, §101(a) \[title VI, §643\], Oct. 30, 1986, 100 Stat. 3341, 3341–36; Pub. L. 99–641, title II, §205, Nov. 10, 1986, 100 Stat. 3563; Pub. L. 101–624, title XIV, §§1432(2), 1447(a), Nov. 28, 1990, 104 Stat. 3577, 3605; Pub. L. 102–324, §1(a), July 22, 1992, 106 Stat. 447; Pub. L. 103–66, title I, §1402(b), Aug. 10, 1993, 107 Stat. 332; Pub. L. 104–127, title III, §332(a)(1), (b), Apr. 4, 1996, 110 Stat. 994.)
 
 #### Codification
 
 Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
+
+1996—Subsecs. (a), (b)(3). Pub. L. 104–127, §332(a)(1), substituted “2002” for “1995”.
+
+Subsec. (d). Pub. L. 104–127, §332(b), added subsec. (d) and struck out heading and text of former subsec. (d). Text read as follows: “The Secretary shall enter into contracts under this section to place in the conservation reserve a total of 38,000,000 acres during the 1986 through 1995 calendar years. In enrolling such acres, the Secretary shall reserve 1 million acres for enrollment under this section in the 1995 calendar year.”
 
 1993—Subsec. (d). Pub. L. 103–66 in first sentence substituted “shall” for “may” after “The Secretary” and “a total of 38,000,000 acres during the 1986 through 1995 calendar years” for “the amount of acres specified in section 3830(b) of this title” and in second sentence substituted “the 1995 calendar year” for “each of calendar years 1994 and 1995”.
 
@@ -106,7 +110,7 @@ In General.—The Secretary of Agriculture shall conduct a study of cropland sub
 
 &emsp;“(4) the purchase of the cropland subject to the contracts;
 
-&emsp;“(5) the preservation of crop acreage bases associated with cropland subject to the contracts if theowner or operator continues to devote the cropland to conserving uses;
+&emsp;“(5) the preservation of crop acreage bases associated with cropland subject to the contracts if the owner or operator continues to devote the cropland to conserving uses;
 
 &emsp;“(6) the purchase of crop acreage bases associated with cropland subject to the contracts; and
 
@@ -132,5 +136,5 @@ Pub. L. 99–263, Mar. 24, 1986, 100 Stat. 59, provided: “That the conservatio
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3811, 3821, 3837, 3839 of this title.
+This section is referred to in sections 3837, 3839 of this title; title 7 sections 7211, 7212.
 

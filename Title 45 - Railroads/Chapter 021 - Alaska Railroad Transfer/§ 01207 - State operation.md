@@ -6,7 +6,7 @@
 
 (2) The transfer to the State authorized by section 1203 of this title and the conferral of jurisdiction to the Interstate Commerce Commission pursuant to paragraph (1) of this subsection are intended to confer upon the State-owned railroad all business opportunities available to comparable railroads, including contract rate agreements meeting the requirements of section 10713 <sup>2</sup> of title 49, notwithstanding any participation in such agreements by connecting water carriers.
 
-(3) All memoranda which sanction noncompliance with Federal railroad safety regulationscontained in 49 CFR Parts 209–236, and which are in effect on the date of transfer, shall continue in effect according to their terms as “waivers of compliance” (as that term is used in section 20103(d) of title 49).
+(3) All memoranda which sanction noncompliance with Federal railroad safety regulations contained in 49 CFR Parts 209–236, and which are in effect on the date of transfer, shall continue in effect according to their terms as “waivers of compliance” (as that term is used in section 20103(d) of title 49).
 
 (4) The operation of trains by the State-owned railroad shall not be subject to the requirement of any State or local law which specifies the minimum number of crew members which must be employed in connection with the operation of such trains.
 
@@ -48,7 +48,7 @@ Section 10713 of title 49, referred to in subsec. (a)(2), was omitted in the gen
 
 Section 103, referred to in subsec. (a)(6)(A), which related to interest on certain governmental obligations was amended generally by Pub. L. 99–514, title XIII, §1301(a), Oct. 22, 1986, 100 Stat. 2602, and as so amended relates to interest on State and local bonds. Section 103(b)(2), which prior to the general amendment defined industrial development bond, relates to the applicability of the interest exclusion to arbitrage bonds.
 
-Subchapter V of chapter 107 of title 49, referred to in subsec. (b), was omitted in the general amendment of subtitle IV of Title 49, by Pub. L. 104–88, title I, §102(a), Dec. 29, 1995, 109 Stat. 804.
+Subchapter V of chapter 107 of title 49, referred to in subsec. (b), was omitted in the general amendment of subtitle IV of Title 49, Transportation, by Pub. L. 104–88, title I, §102(a), Dec. 29, 1995, 109 Stat. 804.
 
 The National Environmental Policy Act of 1969, referred to in subsec. (b), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 

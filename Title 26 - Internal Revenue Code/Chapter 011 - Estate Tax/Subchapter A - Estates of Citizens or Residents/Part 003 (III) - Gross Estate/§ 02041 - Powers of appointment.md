@@ -10,7 +10,7 @@ The value of the gross estate shall include the value of all property.
 
 &emsp;&emsp;(A) by will, or
 
-&emsp;&emsp;(B) by a disposition which is of such nature that if it were a transfer of property owned by the decedent, such property would be includible in the decedent's gross estate under sections 2035 to 2038, inclusive;
+&emsp;&emsp;(B) by a disposition which is of such nature that if it were a transfer of property ownedby the decedent, such property would be includible in the decedent's gross estate under sections 2035 to 2038, inclusive;
 
 > &emsp;but the failure to exercise such a power or the complete release of such a power shall not be deemed an exercise thereof. If a general power of appointment created on or before October 21, 1942, has been partially released so that it is no longer a general power of appointment, the exercise of such power shall not be deemed to be the exercise of a general power of appointment if—
 

@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(C) a proceeding before a Federal Government agency which is authorized by law; or
 
-&emsp;&emsp;(D) a proceeding involving the business of insurance whose activities affect interstate commerce before any insurance regulatory official or agency or any agent or examiner appointed by such official or agency to examine the affairs of any person engaged in the business of insurance whose activities affect interstate commerce; or <sup>1</sup>
+&emsp;&emsp;(D) a proceeding involving the business of insurance whose activities affect interstate commerce before any insurance regulatory official or agency or any agent or examiner appointed by such official or agency to examine the affairs of any person engaged inthe business of insurance whose activities affect interstate commerce;
 
 &emsp;(2) the term “physical force” means physical action against another, and includes confinement;
 
@@ -46,11 +46,17 @@
 
 &emsp;(6) the term “corruptly persuades” does not include conduct which would be misleading conduct but for a lack of a state of mind.
 
-(b) This chapter does not prohibit or punish the providing of lawful, bona fide, legal representation services in connection with or anticipation of an official proceeding.
+(b) As used in section 1505, the term “corruptly” means acting with an improper purpose, personally or by influencing another, including making a false or misleading statement, or withholding, concealing, altering, or destroying a document or other information.
 
-(Added Pub. L. 97–291, §4(a), Oct. 12, 1982, 96 Stat. 1252; amended Pub. L. 99–646, §50(b), Nov. 10, 1986, 100 Stat. 3605; Pub. L. 100–690, title VII, §7029(b), (d), Nov. 18, 1988, 102 Stat. 4398; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 103–322, title XXXII, §320604(a), Sept. 13, 1994, 108 Stat. 2118.)
+(c) This chapter does not prohibit or punish the providing of lawful, bona fide, legal representation services in connection with or anticipation of an official proceeding.
+
+(Added Pub. L. 97–291, §4(a), Oct. 12, 1982, 96 Stat. 1252; amended Pub. L. 99–646, §50(b), Nov. 10, 1986, 100 Stat. 3605; Pub. L. 100–690, title VII, §7029(b), (d), Nov. 18, 1988, 102 Stat. 4398; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 103–322, title XXXII, §320604(a), Sept. 13, 1994, 108 Stat. 2118; Pub. L. 104–292, §3, Oct. 11, 1996, 110 Stat. 3460; Pub. L. 104–294, title VI, §604(b)(39), Oct. 11, 1996, 110 Stat. 3509.)
 
 #### Amendments
+
+1996—Subsec. (a)(1)(D). Pub. L. 104–294 struck out “or” after semicolon at end.
+
+Subsecs. (b), (c). Pub. L. 104–292 added subsec. (b) and redesignated former subsec. (b) as (c).
 
 1994—Subsec. (a)(1)(D). Pub. L. 103–322 added subpar. (D).
 
@@ -66,6 +72,10 @@ Subsec. (a)(6). Pub. L. 100–690, §7029(d), added par. (6).
 
 Reference to United States magistrate or to magistrate deemed to refer to United States magistrate judge pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
 
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–294 effective Sept. 13, 1994, see section 604(d) of Pub. L. 104–294, set out as a note under section 13 of this title.
+
 #### Effective Date of 1992 Amendment
 
 Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. L. 102–572, set out as a note under section 171 of Title 28, Judiciary and Judicial Procedure.
@@ -73,6 +83,4 @@ Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. 
 #### Effective Date
 
 Section effective Oct. 12, 1982, see section 9(a) of Pub. L. 97–291, set out as a note under section 1512 of this title.
-
-<i><sup>1</sup></i><i> So in original. The word “or” probably should not appear.</i>
 

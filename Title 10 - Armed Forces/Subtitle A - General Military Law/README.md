@@ -20,7 +20,8 @@
 | [<b>18.</b>](Part%20001%20%28I%29%20-%20Organization%20and%20General%20Military%20Powers/Chapter%20018%20-%20Military%20Support%20for%20Civilian%20Law%20Enforcement%20Agencies/README.md) | <b>Military Support for Civilian Law Enforcement Agencies</b> | <b>371</b> |
 | [<b>20.</b>](Part%20001%20%28I%29%20-%20Organization%20and%20General%20Military%20Powers/Chapter%20020%20-%20Humanitarian%20and%20Other%20Assistance/README.md) | <b>Humanitarian and Other Assistance</b> | <b>401</b> |
 | [<b>21.</b>](Part%20001%20%28I%29%20-%20Organization%20and%20General%20Military%20Powers/Chapter%20021%20-%20Department%20of%20Defense%20Intelligence%20Matters/README.md) | <b>Department of Defense Intelligence Matters</b> | <b>421</b> |
-| [<b>22.</b>](Part%20001%20%28I%29%20-%20Organization%20and%20General%20Military%20Powers/Chapter%20022%20-%20Miscellaneous%20Studies%20and%20Reports/README.md) | <b>Miscellaneous Studies and Reports</b> | <b>451</b> |
+| [<b>22.</b>](Part%20001%20%28I%29%20-%20Organization%20and%20General%20Military%20Powers/Chapter%20022%20-%20National%20Imagery%20and%20Mapping%20Agency/README.md) | <b>National Imagery and Mapping Agency</b> | <b>441</b> |
+| [<b>23.</b>](Part%20001%20%28I%29%20-%20Organization%20and%20General%20Military%20Powers/Chapter%20023%20-%20Miscellaneous%20Studies%20and%20Reports/README.md) | <b>Miscellaneous Studies and Reports</b> | <b>471</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -56,20 +57,22 @@
 | [<b>61.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20061%20-%20Retirement%20or%20Separation%20for%20Physical%20Disability/README.md) | <b>Retirement or Separation for Physical Disability</b> | <b>1201</b> |
 | [<b>63.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20063%20-%20Retirement%20for%20Age/README.md) | <b>Retirement for Age</b> | <b>1251</b> |
 | [<b>65.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20065%20-%20Retirement%20of%20Warrant%20Officers%20for%20Length%20of%20Service/README.md) | <b>Retirement of Warrant Officers for Length of Service</b> | <b>1293</b> |
-| [<b>67.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20067%20-%20Retired%20Pay%20for%20Nonregular%20Service/README.md) | <b>Retired Pay for Non-Regular Service</b> | <b>1331</b> |
+| [<b>67.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20067%20-%20Retired%20Pay%20for%20Non-Regular%20Service/README.md) | <b>Retired Pay for Non-Regular Service</b> | <b>1331</b> |
 | [<b>69.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20069%20-%20Retired%20Grade/README.md) | <b>Retired Grade</b> | <b>1370</b> |
 | [<b>71.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20071%20-%20Computation%20of%20Retired%20Pay/README.md) | <b>Computation of Retired Pay</b> | <b>1401</b> |
 | [<b>73.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20073%20-%20Annuities%20Based%20on%20Retired%20or%20Retainer%20Pay/README.md) | <b>Annuities Based on Retired or Retainer Pay</b> | <b>1431</b> |
 | [<b>74.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20074%20-%20Department%20of%20Defense%20Military%20Retirement%20Fund/README.md) | <b>Department of Defense Military Retirement Fund</b> | <b>1461</b> |
 | [<b>75.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20075%20-%20Death%20Benefits/README.md) | <b>Death Benefits</b> | <b>1475</b> |
+| [<b>76.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20076%20-%20Missing%20Persons/README.md) | <b>Missing Persons</b> | <b>1501</b> |
 | [<b>77.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20077%20-%20Posthumous%20Commissions%20and%20Warrants/README.md) | <b>Posthumous Commissions and Warrants</b> | <b>1521</b> |
 | [<b>79.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20079%20-%20Correction%20of%20Military%20Records/README.md) | <b>Correction of Military Records</b> | <b>1551</b> |
 | <b>\[80.</b> | <b>Repealed.\]</b> |  |
 | [<b>81.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20081%20-%20Civilian%20Employees/README.md) | <b>Civilian Employees</b> | <b>1581</b> |
-| [<b>83.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20083%20-%20Defense%20Intelligence%20Agency%20and%20Central%20Imagery%20Office%20Civilian%20Personnel/README.md) | <b>Defense Intelligence Agency and Central Imagery Office Civilian Personnel</b> | <b>1601</b> |
+| [<b>83.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20083%20-%20Civilian%20Defense%20Intelligence%20Employees/README.md) | <b>Civilian Defense Intelligence Employees</b> | <b>1601</b> |
 | <b>\[85.</b> | <b>Repealed.\]</b> |  |
 | [<b>87.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20087%20-%20Defense%20Acquisition%20Workforce/README.md) | <b>Defense Acquisition Workforce</b> | <b>1701</b> |
-| [<b>89.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20089%20-%20Volunteers%20Investing%20in%20Peace%20and%20Security/README.md) | <b>Volunteers Investing in Peace and Security</b> | <b>1801</b> |
+| [<b>88.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20088%20-%20Military%20Family%20Programs%20and%20Military%20Child%20Care/README.md) | <b>Military Family Programs and Military Child Care</b> | <b>1781</b> |
+| <b>\[89.</b> | <b>Repealed.\]</b> |  |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -122,14 +125,18 @@
 | [<b>161.</b>](Part%20004%20%28IV%29%20-%20Service%2C%20Supply%2C%20and%20Procurement/Chapter%20161%20-%20Property%20Records%20and%20Report%20of%20Theft%20or%20Loss%20of%20Certain%20Property/README.md) | <b>Property Records and Report of Theft or Loss of Certain Property</b> | <b>2721</b> |
 | [<b>163.</b>](Part%20004%20%28IV%29%20-%20Service%2C%20Supply%2C%20and%20Procurement/Chapter%20163%20-%20Military%20Claims/README.md) | <b>Military Claims</b> | <b>2731</b> |
 | [<b>165.</b>](Part%20004%20%28IV%29%20-%20Service%2C%20Supply%2C%20and%20Procurement/Chapter%20165%20-%20Accountability%20and%20Responsibility/README.md) | <b>Accountability and Responsibility</b> | <b>2771</b> |
-| [<b>167.</b>](Part%20004%20%28IV%29%20-%20Service%2C%20Supply%2C%20and%20Procurement/Chapter%20167%20-%20Defense%20Mapping%20Agency/README.md) | <b>Defense Mapping Agency</b> | <b>2791</b> |
+| <b>\[167.</b> | <b>Repealed.\]</b> |  |
 | [<b>169.</b>](Part%20004%20%28IV%29%20-%20Service%2C%20Supply%2C%20and%20Procurement/Chapter%20169%20-%20Military%20Construction%20and%20Military%20Family%20Housing/README.md) | <b>Military Construction and Military Family Housing</b> | <b>2801</b> |
-| [<b>171.</b>](Part%20004%20%28IV%29%20-%20Service%2C%20Supply%2C%20and%20Procurement/Chapter%20171%20-%20Security%20and%20Control%20of%20Supplies/README.md) | <b>Security and Control of Supplies</b> | <b>2891</b> |
+| <b>\[171.</b> | <b>Repealed.\]</b> |  |
 | [<b>172.</b>](Part%20004%20%28IV%29%20-%20Service%2C%20Supply%2C%20and%20Procurement/Chapter%20172%20-%20Strategic%20Environmental%20Research%20and%20Development%20Program/README.md) | <b>Strategic Environmental Research and Development Program</b> | <b>2901</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1996—Pub. L. 104–201, div. A, title XI, §1123(a)(1), (2), title XVI, §1633(c)(3), Sept. 23, 1996, 110 Stat. 2687, 2688, 2751, substituted “National Imagery and Mapping Agency” for “Miscellaneous Studies and Reports” and “441” for “451” in item for chapter 22, added item for chapter 23, substituted “Civilian Defense Intelligence Employees” for “Defense Intelligence Agency and Central Imagery Office Civilian Personnel” in item for chapter 83, and struck out item for chapter 167 “Defense Mapping Agency”.
+
+Pub. L. 104–106, div. A, title V, §§568(a)(2), 569(b)(2), title X, §1061(a)(2), (b)(2), Feb. 10, 1996, 110 Stat. 335, 351, 442, added items for chapters 76 and 88 and struck out items for chapters 89 “Volunteers Investing in Peace and Security” and 171 “Security and Control of Supplies”.
 
 1994—Pub. L. 103–359, title V, §501(b)(2), Oct. 14, 1994, 108 Stat. 3429, substituted “Defense Intelligence Agency and Central Imagery Office Civilian Personnel” for “Defense Intelligence Agency Civilian Personnel” in item for chapter 83.
 
@@ -157,7 +164,7 @@ Pub. L. 100–370, §§1(c)(3), (e)(2), 2(a)(2), 3(a)(2), July 19, 1988, 102 Sta
 
 1987—Pub. L. 100–180, div. A, title III, §332(c), title VII, §711(b), Dec. 4, 1987, 101 Stat. 1080, 1111, substituted “Humanitarian and Other Assistance” for “Humanitarian and Civic Assistance Provided in Conjunction With Military Operations” in item for chapter 20 and “Financial Assistance Programs” for “Scholarship Program” in item for chapter 105.
 
-Pub. L. 100–26, §§7(c)(1), 9(b)(4), Apr. 21, 1987, 101 Stat. 280, 287, added item for chapter 21, substituted “Acquisition and Cross-Servicing Agreements with NATO Allies and Other Countries” for “North Atlantic TreatyOrganization Acquisition and Cross-Servicing Agreements” in item for chapter 138, substituted “Major Defense Acquisition Programs” for “Oversight of Cost Growth in Major Programs” and “2430” for “2431” in item for chapter 144, and substituted “2721” for “2701” in item for chapter 161.
+Pub. L. 100–26, §§7(c)(1), 9(b)(4), Apr. 21, 1987, 101 Stat. 280, 287, added item for chapter 21, substituted “Acquisition and Cross-Servicing Agreements with NATO Allies and Other Countries” for “North Atlantic Treaty Organization Acquisition and Cross-Servicing Agreements” in item for chapter 138, substituted “Major Defense Acquisition Programs” for “Oversight of Cost Growth in Major Programs” and “2430” for “2431” in item for chapter 144, and substituted “2721” for “2701” in item for chapter 161.
 
 1986—Pub. L. 99–661, div. A, title III, §333(a)(2), title XIII, §1343(a)(22), Nov. 14, 1986, 100 Stat. 3859, 3994, added item for chapter 20 and substituted “2341” for “2321” in item for chapter 138.
 

@@ -1,6 +1,6 @@
 ### §555. Secretarial review
 
-(a) When a member of a uniformed service entitled to pay and allowances under section 552 of this title has been in a missing status, and the official report of his death or of the circumstances of his absence has not been received by the Secretary concerned, he shall, before the end of a 12-month period in that status, have the case fully reviewed. After that review and the end of the 12-month period in a missing status, or after a later review which shall be made when warranted by information received or other circumstances, the Secretary concerned, or his designee, may—
+(a) Except as provided in subsection (d), when a member of a uniformed service entitled to pay and allowances under section 552 of this title has been in a missing status, and the official report of his death or of the circumstances of his absence has not been received by the Secretary concerned, he shall, before the end of a 12-month period in that status, have the case fully reviewed. After that review and the end of the 12-month period in a missing status, or after a later review which shall be made when warranted by information received or other circumstances, the Secretary concerned, or his designee, may—
 
 &emsp;(1) if the member can reasonably be presumed to be living, direct a continuance of his missing status; or
 
@@ -20,9 +20,11 @@
 
 &emsp;(B) if the missing status has been continued under subsection (a), the day determined by the Secretary concerned, or his designee.
 
-(c) For the sole purpose of determining status under this section, a dependent of a member on active duty is treated as if he were a member. Any determination made by the Secretary concerned, or his designee, under this section is conclusive on all other departments and agencies of the United States. This subsection does not entitle a dependent to pay, allowances, or other compensation to which he is not otherwise entitled.
+(c) For the sole purpose of determining status under this section, a dependent of a member on active duty is treated as if he were a member. Any determination made by the Secretary concerned, or his designee, under this section is conclusive on all other departments and agencies of the United States. This subsection doesnot entitle a dependent to pay, allowances, or other compensation to which he is not otherwise entitled.
 
-(Added Pub. L. 89–554, §5(b), Sept. 6, 1966, 80 Stat. 628; amended Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117.)
+(d) This section does not apply in a case to which section 1502 of title 10 applies.
+
+(Added Pub. L. 89–554, §5(b), Sept. 6, 1966, 80 Stat. 628; amended Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 104–106, div. A, title V, §569(c)(1), Feb. 10, 1996, 110 Stat. 351.)
 
 Historical and Revision Notes
 
@@ -60,9 +62,13 @@ In subsection (a), the words “member of a uniformed service” are substituted
 
 In subsection (b), the words “under subsection (a) of this section” are inserted for clarity. In clause (A), the words “day on which the 12-month period in a missing status ends” are substituted for “day of expiration of an absence of twelve months”. In clause (B), the words “under subsection (a) of this section” are substituted for “as hereinbefore authorized”. The words “Secretary concerned” are substituted for “head of the department concerned.” The words “or his designee” are supplied on authority of 50 App. U.S.C. 1009(a) which is codified in part in revised section 556(a) of this chapter.
 
-In subsection (c), the first sentence is substituted for 50 App. U.S.C. 1009(b) (1st 31 words, as applicable to §1005). The words “Secretary concerned” are substituted for “head of the department concerned”. The words “or his designee” are supplied on authority of 50 App. U.S.C. 1009(a) which is codified in part in revisedsection 556(a) of this chapter. The words “departments and agencies of the United States” are substituted for “departments of the Government” in view of the definition of “department” in 50 App. U.S.C. 1001(d). The words “This subsection does not entitle” are substituted for <i>“Provided,</i> That nothing in this section shall be construed as conferring . . . any right”.
+In subsection (c), the first sentence is substituted for 50 App. U.S.C. 1009(b) (1st 31 words, as applicable to §1005). The words “Secretary concerned” are substituted for “head of the department concerned”. The words “or his designee” are supplied on authority of 50 App. U.S.C. 1009(a) which is codified in part in revised section 556(a) of this chapter. The words “departments and agencies of the United States” are substituted for “departments of the Government” in view of the definition of “department” in 50 App. U.S.C. 1001(d). The words “This subsection does not entitle” are substituted for “<i>Provided</i>, That nothing in this section shall be construed as conferring . . . any right”.
 
 #### Amendments
+
+1996—Subsec. (a). Pub. L. 104–106, §569(c)(1)(A), substituted “Except as provided in subsection (d), when” for “When”.
+
+Subsec. (d). Pub. L. 104–106, §569(c)(1)(B), added subsec. (d).
 
 1991—Subsec. (b). Pub. L. 102–25 struck out “of this section” after “subsection (a)” in two places.
 

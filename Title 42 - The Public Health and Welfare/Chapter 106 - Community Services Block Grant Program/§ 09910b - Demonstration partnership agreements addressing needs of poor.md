@@ -2,7 +2,7 @@
 
 #### (a) General authority
 
-(1) In order to stimulate the development of new approaches to provide for greater self-sufficiency of the poor, to test and evaluate such new approaches, to disseminate project results and evaluation findings so that such approaches canbe replicated, and to strengthen the integration, coordination, and redirection of activities to promote maximum self-sufficiency among the poor, the Secretary may make grants from funds appropriated under subsection (e) of this section to eligible entities for the development and implementation of new and innovative approaches to deal with particularly critical needs or problems of the poor which are common to a number of communities. Grants may be made only with respect to applications which—
+(1) In order to stimulate the development of new approaches to provide for greater self-sufficiency of the poor, to test and evaluate such new approaches, to disseminate project results and evaluation findings so that such approaches can be replicated, and to strengthen the integration, coordination, and redirection of activities to promote maximum self-sufficiency among the poor, the Secretary may make grants from funds appropriated under subsection (e) of this section to eligible entities for the development and implementation of new and innovative approaches to deal with particularly critical needs or problems of the poor which are common to a number of communities. Grants may be made only with respect to applications which—
 
 &emsp;(A) involve activities which can be incorporated into or be closely coordinated with eligible entities’ ongoing programs;
 
@@ -72,7 +72,7 @@ The Secretary shall submit annually, to the Committee on Education and Labor of 
 
 &emsp;(2) a description of the methods used by the Secretary to comply with subsection (d) of this section;
 
-&emsp;(3) recommendations of the Secretary regarding the suitability of carrying out such programs with funds made available under other Federal laws; and
+&emsp;(3) recommendations of the Secretary regarding the suitability of carrying out suchprograms with funds made available under other Federal laws; and
 
 &emsp;(4) a description of each program identified under subsection (d)(1) <sup>1</sup> of this section or replicated under subsection (e)(2) of this section, and an identification of the geographical location where such program was carried out.
 
@@ -132,7 +132,7 @@ Subsec. (a)(1)(D). Pub. L. 101–204, §705(a)(2), added subpar. (D).
 
 Subsec. (b)(1). Pub. L. 101–204, §705(b)(1), designated existing provisions as subpar. (A), substituted “Subject to subparagraph (B), grants” for “Grants”, struck out “new” before “programs” wherever appearing, and added subpar. (B).
 
-Subsec. (b)(3). Pub. L. 101–204, §705(b)(2), inserted “in each fiscal year” after “than one grant”, substituted “$350,000” for “$250,000”, and inserted at end “Not more than 2 grants may be made under this section to an eligible entity to carry out a particular program.”
+Subsec. (b)(3). Pub. L. 101–204, §705(b)(2), inserted “in each fiscal year” after “than one grant”, substituted “$350,000” for “$250,000”, and inserted at end “Not morethan 2 grants may be made under this section to an eligible entity to carry out a particular program.”
 
 Subsec. (c). Pub. L. 101–204, §705(c), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “As soon as practicable, but no later than 90 days after the expiration of the fiscal year for which any grant is awarded under this section, the Secretary shall prepare and make available upon request to each State and eligible entity descriptions of the demonstration programs assisted under this section, and any relevant information developed and results achieved, so as to provide models for innovative programs to other eligible entities.”
 
@@ -144,7 +144,7 @@ Subsec. (g). Pub. L. 101–204, §705(e), (f)(1), redesignated subsec. (e) as (g
 
 #### Change of Name
 
-Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Economic and Educational Opportunities of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Fifth Congress, Jan. 7, 1997.
 
 #### Effective Date of 1994 Amendment
 

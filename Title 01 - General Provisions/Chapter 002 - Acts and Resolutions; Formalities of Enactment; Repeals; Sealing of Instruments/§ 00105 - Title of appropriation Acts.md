@@ -14,5 +14,5 @@ Section 506(b) of Pub. L. 93–344, which provided that the amendment of this se
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 2 section 622.
+This section is referred to in title 2 sections 622, 691e.
 

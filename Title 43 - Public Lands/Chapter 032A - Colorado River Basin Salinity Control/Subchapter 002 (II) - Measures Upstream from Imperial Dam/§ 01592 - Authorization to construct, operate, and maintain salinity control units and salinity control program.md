@@ -22,7 +22,7 @@ In implementing the units authorized to be constructed pursuant to subsection (a
 
 &emsp;(1) As reports are completed describing final implementation plans for the unit, or any portion thereof, authorized by paragraph (5) of subsection (a) of this section, and prior to expenditure of funds for related construction activities, the Secretary shall submit such reports to the appropriate committees of the Congress and to the governors of the Colorado River Basin States.
 
-&emsp;(2) Non-Federal entities shall be required by the Secretary to contract for the long-term operation and maintenance of canal and lateral systems constructed pursuant to activities provided for in subsection (a) of this section: <i>Provided</i>, That the Secretary shall reimburse such non-Federal entities for the costs of such operation and maintenance to the extent the costs exceed the expenses that would have been incurred by them in the thorough and timely operation and maintenance of their canal and lateral systems absent the construction of a unit, said expenses to be determined by the Secretary after consultation with the involved non-Federal entities. The operation and maintenance for which non-Federal entities shall be responsible shall include such repairing and replacing of a unit's facilities as are associated with normal annual maintenance activities in order to keep such facilities in a condition which will assure maximum reduction of salinity inflow to the Colorado River. These non-Federal entities shall not be responsible, nor incur any costs, for the replacement of a unit's facilities, including measures to replace incidental fish and wildlife values foregone. The term replacement shall be defined for the purposes of this subchapter as a major modification or reconstruction of a completed unit, or portion thereof, which is necessitated, through no fault of the non-Federal entity or entities operating and maintaining a unit, by design or construction inadequacies or by normal limits on the useful life of a facility. The Secretary is authorized to provide continuing technical assistance to non-Federal entities to assure the effective and efficient operation and maintenance of a unit's facilities.
+&emsp;(2) Non-Federal entities shall be required by the Secretary to contract for the long-term operation and maintenance of canal and lateral systems constructed pursuant to activities provided for in subsection (a) of this section: <i>Provided</i>, That the Secretary shall reimburse such non-Federal entities for the costs of such operation and maintenance to the extent the costs exceed the expenses that would have been incurred by them in the thorough and timely operation and maintenance of their canal and lateral systems absent the construction of a unit, said expenses to be determined by the Secretary after consultation with the involved non-Federal entities. The operation and maintenance for which non-Federal entities shall be responsible shall include such repairing and replacing of a unit's facilities as are associated with normal annual maintenance activities in order to keep such facilities in a condition which will assure maximumreduction of salinity inflow to the Colorado River. These non-Federal entities shall not be responsible, nor incur any costs, for the replacement of a unit's facilities, including measures to replace incidental fish and wildlife values foregone. The term replacement shall be defined for the purposes of this subchapter as a major modification or reconstruction of a completed unit, or portion thereof, which is necessitated, through no fault of the non-Federal entity or entities operating and maintaining a unit, by design or construction inadequacies or by normal limits on the useful life of a facility. The Secretary is authorized to provide continuing technical assistance to non-Federal entities to assure the effective and efficient operation and maintenance of a unit's facilities.
 
 &emsp;(3) The Secretary may, under authority of this subchapter, and limited to the purposes of this chapter, fund through a grant or contract, for any fiscal year only to such extent or in such amounts as are provided in appropriation Acts, a non-Federal entity to organize private canal and lateral owners into formal organizations with which the Secretary may enter into a grant or contract to construct, operate, and maintain a unit's facilities.
 
@@ -32,39 +32,11 @@ In implementing the units authorized to be constructed pursuant to subsection (a
 
 &emsp;(6) In implementing the units authorized to be constructed pursuant to subsection (a) of this section, the Secretary shall implement measures to replace incidental fish and wildlife values foregone concurrently with the implementation of a unit's, or a portion of a unit's, related features.
 
-#### (c) Voluntary cooperative salinity control program; establishment; improvement of on-farm water management; functions; Secretary; reports; Congressional committees; use of agencies; Commodity Credit Corporation
+#### (c) Salinity control measures
 
-(1) The Secretary of Agriculture may establish a voluntary cooperative salinity control program with landowners to improve on-farm water management and reduce watershed erosion on non-Federal lands and on lands under the control of the Department of Agriculture for the purpose of assisting in meeting the objectives of this subchapter.
+The Secretary of Agriculture shall carry out salinity control measures (including watershed enhancement and cost-share measures with livestock and crop producers) in the Colorado River Basin as part of the environmental quality incentives program established under chapter 4 of subtitle D of title XII of the Food Security Act of 1985 \[16 U.S.C. 3839aa et seq.\].
 
-(2) In carrying out such program, the Secretary of Agriculture shall—
-
-&emsp;(A) identify salt-source areas and determine the salt load resulting from irrigation and watershed management practices;
-
-&emsp;(B) develop, in consultation with the public and affected governmental interests, plans for implementing measures that will reduce the salt load of the Colorado River by improving on-farm irrigation water management including improvement of related laterals and by improving watershed erosion management practices, such measures to include voluntary replacement of incidental fish and wildlife values foregone;
-
-&emsp;(C) provide technical and cost-sharing assistance for the voluntary implementation of plans through contracts and agreements with individuals or groups of owners and operators of farms, ranches, and other lands as well as with local governmental and nongovernmental entities such as irrigation districts and canal companies, except that a portion of the costs of implementing such plans shall be shared by the participants on the basis of benefits received and other appropriate factors, as determined by the Secretary of Agriculture, and except that such contracts and agreements shall provide for continuing operation and maintenance of measures installed under this subsection, including measures to replace incidental fish and wildlife values foregone, without additional cost-sharing assistance;
-
-&emsp;(D) provide continuing technical assistance for irrigation water management as well as monitoring and evaluation of changes in salt contributions to the Colorado River to determine program effectiveness;
-
-&emsp;(E) carry out related research, demonstration, and education activities; and
-
-&emsp;(F) in entering into contracts or agreements pursuant to subparagraph (C), require a minimum of 30 per centum cost-sharing contribution from individuals or groups of owners and operators of farms, ranches, and other lands as well as from local governmental and nongovernmental entities such as irrigation districts and canal companies, unless the Secretary finds in his discretion that such cost-sharing requirement would result in a failure to proceed with needed on-farm measures.
-
-(3) The measures to be implemented in any particular salt source area shall be described in reports issued by the Secretary of Agriculture. Copies of the reports are to be submitted to—
-
-&emsp;(A) the committees on Agriculture and Appropriations of the House of Representatives and the committees on Agriculture, Nutrition and Forestry and Appropriations of the Senate;
-
-&emsp;(B) members of the advisory council established by section 1594(a) of this title; and
-
-&emsp;(C) the Governor of any State where measures are to be implemented.
-
-> No funds for implementation of proposed measures undertaken pursuant to this subsection may be expended until the expiration of sixty days after submission of the report of the Secretary of Agriculture.
-
-(4) The Secretary of Agriculture may use existing agencies as well as the services and facilities of the Commodity Credit Corporation to carry out the provisions of this subsection. The Secretary of Agriculture, in addition, may authorize participating agencies to utilize grants or cooperative agreements with conservation districts, local governmental agencies, colleges and universities, or others as appropriate to carry out the activities identified in this subsection. There is hereby authorized to be appropriated annually, to be available until expended, such funds as may be necessary to carry out the provisions of this subsection: <i>Provided</i>, That no disbursement shall be made by the Commodity Credit Corporation unless it has received funds to cover the amount thereof from appropriations available for the purpose of carrying out this chapter.
-
-(5) The Secretary of Agriculture shall submit a report to Congress by January 1, 1988, and at each five-year interval thereafter, concerning the operation of the program authorized by this subsection. Such report shall contain an evaluation of the operation of such program and may include recommendations for such additional legislation as may be necessary to solve identified salinity problems in areas designated by the Secretary of Agriculture and may include recommendations to utilize new technology and research related to such problems.
-
-(Pub. L. 93–320, title II, §202, June 24, 1974, 88 Stat. 271; Pub. L. 98–569, §2, Oct. 30, 1984, 98 Stat. 2933; Pub. L. 104–20, §1(1), (4), July 28, 1995, 109 Stat. 255, 256.)
+(Pub. L. 93–320, title II, §202, June 24, 1974, 88 Stat. 271; Pub. L. 98–569, §2, Oct. 30, 1984, 98 Stat. 2933; Pub. L. 104–20, §1(1), (4), July 28, 1995, 109 Stat. 255, 256; Pub. L. 104–127, title III, §336(c)(1), Apr. 4, 1996, 110 Stat. 1006.)
 
 #### References in Text
 
@@ -74,7 +46,11 @@ Public Law 84–485, referred to in subsec. (a)(5), is act Apr. 11, 1956, ch. 20
 
 The Reclamation Act of 1902, referred to in subsec. (a)(5), is act June 17, 1902, 32 Stat. 388, as amended and supplemented, is classified generally to chapter 12 (§371 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 371 of this title and Tables.
 
+The Food Security Act of 1985, referred to in subsec. (c), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354, as amended. Chapter 4 of subtitle D of title XII of the Act is classified generally to part IV (§3839aa et seq.) of subchapter IV of chapter 58 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of Title 7, Agriculture, and Tables.
+
 #### Amendments
+
+1996—Subsec. (c). Pub. L. 104–127 added subsec. (c) and struck out former subsec. (c) which authorized establishment of a voluntary cooperative salinity control program with landowners to improve on-farm water management and reduce watershed erosion on certain lands.
 
 1995—Subsec. (a). Pub. L. 104–20, §1(1), inserted “and salinity control program” after “the following salinity control units” and substituted colon for period in introductory provisions and added par. (6).
 
@@ -106,7 +82,7 @@ Amendment by Pub. L. 98–569 effective Oct. 30, 1984, see section 6 of Pub. L. 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1591, 1595, 1598 of this title; title 7 section 6962.
+This section is referred to in sections 1591, 1595, 1598 of this title; title 7 section 6962; title 16 section 3839aa.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

@@ -14,6 +14,7 @@
 | [<b>1209.</b>](Chapter%201209%20-%20Active%20Duty/README.md) | <b>Active Duty</b> | <b>12301</b> |
 | [<b>1211.</b>](Chapter%201211%20-%20National%20Guard%20Members%20in%20Federal%20Service/README.md) | <b>National Guard Members in Federal Service</b> | <b>12401</b> |
 | [<b>1213.</b>](Chapter%201213%20-%20Special%20Appointments%2C%20Assignments%2C%20Details%2C%20and%20Duties/README.md) | <b>Special Appointments, Assignments, Details, and Duties</b> | <b>12501</b> |
+| [<b>1214.</b>](Chapter%201214%20-%20Ready%20Reserve%20Mobilization%20Income%20Insurance/README.md) | <b>Ready Reserve Mobilization Income Insurance</b> | <b>12521</b> |
 | [<b>1215.</b>](Chapter%201215%20-%20Miscellaneous%20Prohibitions%20and%20Penalties/README.md) | <b>Miscellaneous Prohibitions and Penalties. \[No present sections\]</b> |  |
 | [<b>1217.</b>](Chapter%201217%20-%20Miscellaneous%20Rights%20and%20Benefits/README.md) | <b>Miscellaneous Rights and Benefits</b> | <b>12601</b> |
 | [<b>1219.</b>](Chapter%201219%20-%20Standards%20and%20Procedures%20for%20Retention%20and%20Promotion/README.md) | <b>Standards and Procedures for Retention and Promotion</b> | <b>12641</b> |
@@ -22,6 +23,10 @@
 | [<b>1225.</b>](Chapter%201225%20-%20Retired%20Grade/README.md) | <b>Retired Grade</b> | <b>12771</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Amendments
+
+1996—Pub. L. 104–106, div. A, title V, §512(a)(2), Feb. 10, 1996, 110 Stat. 305, added item for chapter 1214.
 
 
 ---
@@ -35,6 +40,7 @@
 - [Chapter 1209 - Active Duty](Chapter%201209%20-%20Active%20Duty/README.md)
 - [Chapter 1211 - National Guard Members in Federal Service](Chapter%201211%20-%20National%20Guard%20Members%20in%20Federal%20Service/README.md)
 - [Chapter 1213 - Special Appointments, Assignments, Details, and Duties](Chapter%201213%20-%20Special%20Appointments%2C%20Assignments%2C%20Details%2C%20and%20Duties/README.md)
+- [Chapter 1214 - Ready Reserve Mobilization Income Insurance](Chapter%201214%20-%20Ready%20Reserve%20Mobilization%20Income%20Insurance/README.md)
 - [Chapter 1215 - Miscellaneous Prohibitions and Penalties](Chapter%201215%20-%20Miscellaneous%20Prohibitions%20and%20Penalties/README.md)
 - [Chapter 1217 - Miscellaneous Rights and Benefits](Chapter%201217%20-%20Miscellaneous%20Rights%20and%20Benefits/README.md)
 - [Chapter 1219 - Standards and Procedures for Retention and Promotion](Chapter%201219%20-%20Standards%20and%20Procedures%20for%20Retention%20and%20Promotion/README.md)

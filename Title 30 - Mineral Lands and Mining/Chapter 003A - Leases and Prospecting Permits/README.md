@@ -19,7 +19,7 @@
 | (i) | Bona fide purchasers, conditions for obtaining dismissals. |
 | (j) | Waiver or suspension of rights. |
 | (k) | Unlawful trusts; forfeiture. |
-| (<i>l)</i> | Rules and regulations; notice to and consultation with Attorney General; application of antitrust laws; definitions. |
+| (<i>l</i>) | Rules and regulations; notice to and consultation with Attorney General; application of antitrust laws; definitions. |
 | [184a.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000184a%20-%20Authorization%20of%20States%20to%20include%20in%20agreements%20for%20conservation%20of%20oil%20and%20gas%20resources%20lands%20acquired%20from%20United%20States.md) | Authorization of States to include in agreements for conservation of oil and gas resources lands acquired from United States. |
 | [185\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000185%20-%20Rights-of-way%20for%20pipelines%20through%20Federal%20lands.md) | Rights-of-way for pipelines through Federal lands. |
 | (a) | Grant of authority. |
@@ -33,10 +33,10 @@
 | (i) | Disclosure. |
 | (j) | Technical and financial capability. |
 | (k) | Public hearings. |
-| (<i>l)</i> | Reimbursement of costs. |
+| (<i>l</i>) | Reimbursement of costs. |
 | (m) | Bonding. |
 | (n) | Duration of grant. |
-| (<i>o)</i> | Suspension or termination of right-of-way. |
+| (<i>o</i>) | Suspension or termination of right-of-way. |
 | (p) | Joint use of rights-of-way. |
 | (q) | Statutes. |
 | (r) | Common carriers. |
@@ -70,6 +70,7 @@
 | (a) | Distribution of late payment charges. |
 | (b) | Effective date. |
 | (c) | Prohibition against recoupment. |
+| [191b.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000191b%20-%20Collection%20of%20unpaid%20and%20underpaid%20royalties%20and%20late%20payment%20interest%20owed%20by%20lessees.md) | Collection of unpaid and underpaid royalties and late payment interest owed by lessees. |
 | [192\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000192%20-%20Payment%20of%20royalties%20in%20oil%20or%20gas%3B%20sale%20of%20such%20oil%20or%20gas.md) | Payment of royalties in oil or gas; sale of such oil or gas. |
 | [192a.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000192a%20-%20Cancellation%20or%20modification%20of%20contracts.md) | Cancellation or modification of contracts. |
 | [192b.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000192b%20-%20Application%20to%20contracts.md) | Application to contracts. |
@@ -164,10 +165,10 @@
 | (i) | Termination. |
 | (j) | Drainage agreements; primary term of lease, extension. |
 | (k) | Mining claims; suspension of running time of lease. |
-| (<i>l)</i> | Exchange of leases; conditions. |
+| (<i>l</i>) | Exchange of leases; conditions. |
 | (m) | Cooperative or unit plan; authority of Secretary of the Interior to alter or modify; communitization or drilling agreements; term of lease, conditions; Secretary to approve operating, drilling or development contracts, and subsurface storage. |
 | (n) | Conversion of oil and gas leases and claims on hydrocarbon resources to combined hydrocarbon leases for primary term of 10 years; application. |
-| (<i>o)</i> | Certain outstanding oil and gas deposits. |
+| (<i>o</i>) | Certain outstanding oil and gas deposits. |
 | 226–1. | Extension of noncompetitive oil or gas lease issued before September 2, 1960. |
 | (a) | Lands not withdrawn from leasing. |
 | (b) | Known and unknown geologic structures of producing fields. |
@@ -266,7 +267,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 48, 49, 171, 351, 355, 505, 529, 530, 541e, 1003, 1004, 1005, 1256, 1292 of this title; title 16 sections 90c–1, 460q–5, 460v–4, 460dd–2, 460<i>ll</i>–3, 460mm–1, 460uu–46, 544<i>l</i>, 3148, 3149, 3183; title 25 sections 398e, 459c, 459d, 640d–10; title 43 sections 299, 315f, 1608, 1633, 1714, 1747; title 50 section 167a.
+This chapter is referred to in sections 48, 49, 171, 351, 355, 505, 529, 530, 541e, 1003, 1004, 1005, 1256, 1292, 1721, 1721a of this title; title 16 sections 90c–1, 460q–5, 460v–4, 460dd–2, 460<i>ll</i>–3, 460mm–1, 460uu–46, 544<i>l</i>, 3148, 3149, 3183; title 25 sections 398e, 459c, 459d, 640d–10; title 43 sections 299, 315f, 1608, 1633, 1714, 1747; title 50 section 167a.
 
 
 ---

@@ -1,6 +1,6 @@
 ### §11101. Accommodations for seamen
 
-(a) On a merchant vessel of the United States the construction of which began after March 4, 1915 (except a yacht, pilot vessel, or vessel of less than 100 gross tons)—
+(a) On a merchant vessel of the United States the construction of which began after March 4, 1915 (except a yacht, pilot vessel, or vessel of less than 100 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title)—
 
 &emsp;(1) each place appropriated to the crew of the vessel shall have a space of at least 120 cubic feet and at least 16 square feet, measured on the floor or deck of that place, for each seaman or apprentice lodged in the vessel;
 
@@ -20,7 +20,7 @@
 
 (f) The owner, charterer, managing operator, agent, master, or licensed individual of a vessel not complying with this section is liable to the United States Government for a civil penalty of at least $50 but not more than $500.
 
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 577; Pub. L. 99–36, §1(a)(6), May 15, 1985, 99 Stat. 67.)
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 577; Pub. L. 99–36, §1(a)(6), May 15, 1985, 99 Stat. 67; Pub. L. 104–324, title VII, §740, Oct. 19, 1996, 110 Stat. 3942.)
 
 Historical and Revision Notes
 
@@ -35,6 +35,8 @@ Historical and Revision Notes
 Section 11101 provides mandatory standards for crew accommodations and a penalty for noncompliance with those standards.
 
 #### Amendments
+
+1996—Subsec. (a). Pub. L. 104–324 inserted “as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title” after “100 gross tons” in introductory provisions.
 
 1985—Subsec. (d). Pub. L. 99–36 substituted “lighted” for “light”.
 

@@ -14,7 +14,7 @@ Section 94b, act Feb. 15, 1893, ch. 114, §16, as added Mar. 3, 1931, ch. 409, �
 
 Section 94c, act Feb. 15, 1893, ch. 114, §15, as added Mar. 3, 1931, ch. 409, §1, 46 Stat. 1492, provided for procurement of health certificates. See section 269 of this title.
 
-Section 94d, act Feb. 15, 1893, ch. 114, §17, as added Mar. 3, 1931, ch. 409, §1, 46 Stat. 1492, provided medicaland hospital benefits to officers and employees of national quarantine service. See section 253 of this title.
+Section 94d, act Feb. 15, 1893, ch. 114, §17, as added Mar. 3, 1931, ch. 409, §1, 46 Stat. 1492, provided medical and hospital benefits to officers and employees of national quarantine service. See section 253 of this title.
 
 Section 94e, act Mar. 3, 1931, ch. 409, §3, 46 Stat. 1492, provided for extended quarantine service. See section 267 of this title.
 

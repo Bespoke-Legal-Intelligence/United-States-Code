@@ -2,11 +2,11 @@
 
 #### (a) Notification to submit
 
-As soon as practicable after the organization of the Commission, the Chairman shall notify each Indian tribe or management contractor who, prior to October 17, 1988, adopted an ordinance or resolution authorizing class II gaming or class III gaming or entered into a management contract, that such ordinance, resolution,or contract, including all collateral agreements relating to the gaming activity, must be submitted for his review within 60 days of such notification. Any activity conducted under such ordinance, resolution, contract, or agreement shall be valid under this chapter, or any amendment made by this chapter, unless disapproved under this section.
+As soon as practicable after the organization of the Commission, the Chairman shall notify each Indian tribe or management contractor who, prior to October 17, 1988, adopted an ordinance or resolution authorizing class II gaming or class III gaming or entered into a management contract, that such ordinance, resolution, or contract, including all collateral agreements relating to the gaming activity, must be submitted for his review within 60 days of such notification. Any activity conducted under such ordinance, resolution, contract, or agreement shall be valid under this chapter, or any amendment made by this chapter, unless disapproved under this section.
 
 #### (b) Approval or modification of ordinance or resolution
 
-(1) By no later than the date that is 90 days after the date on which an ordinance or resolution authorizing class II gaming or class III gaming is submitted to the Chairman pursuant to subsection (a) of this section, the Chairman shall review such ordinance or resolution to determine if it conforms to the requirements of section 2710(b) of this title.
+(1) By no later than the date that is 90 days after the date on which an ordinance or resolution authorizing class II gaming or class III gaming is submitted to the Chairman pursuantto subsection (a) of this section, the Chairman shall review such ordinance or resolution to determine if it conforms to the requirements of section 2710(b) of this title.
 
 (2) If the Chairman determines that an ordinance or resolution submitted under subsection (a) of this section conforms to the requirements of section 2710(b) of this title, the Chairman shall approve it.
 

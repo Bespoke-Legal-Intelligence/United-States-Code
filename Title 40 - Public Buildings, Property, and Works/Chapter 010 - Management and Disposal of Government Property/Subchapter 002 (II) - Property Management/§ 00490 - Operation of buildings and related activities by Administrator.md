@@ -18,11 +18,11 @@ Whenever and to the extent that the Administrator has been or hereafter may be a
 
 &emsp;(7) to make changes in, maintain, and repair the pneumatic tube system connecting buildings owned by the United States or occupied by Federal agencies in New York City installed under franchise of the city of New York, approved June 29, 1909, and June 11, 1928, and to make payments of any obligations arising thereunder in accordance with the provisions of the Acts approved August 5, 1909 (36 Stat. 120), and May 15, 1928 (45 Stat. 533);
 
-&emsp;(8) to repair, alter, and improve rented premises, without regard to the 25 per centum limitation of section 278a <sup>1</sup> of this title, upon a determination by the Administrator that by reason of circumstances set forth in such determination the execution of such work, without reference to such limitation, is advantageous to the Government in terms of economy, efficiency, or national security: <i>Provided</i>, That such determination shall show that the total cost (rentals, repairs, alterations, and improvements) to the Government for the expected life of the lease shall be less than the cost of alternative space which needs no such repairs, alterations, or improvements. A copy of every such determination so made shall be furnished to the General Accounting Office;
+&emsp;(8) to repair, alter, and improve rented premises, without regard to the 25 per centum limitation of section 278a <sup>1</sup> of this title, upon a determination by the Administrator that by reason of circumstances set forth in such determination the execution of such work, without reference to such limitation, is advantageous to the Government in terms of economy, efficiency, or national security: <i>Provided</i>, That such determination shall show that the total cost (rentals, repairs, alterations, and improvements) to the Government for the expected life of the lease shall be less than the cost of alternative space which needs no such repairs, alterations, or improvements;
 
 &emsp;(9) to pay sums in lieu of taxes on real property declared surplus by Government corporations, pursuant to the Surplus Property Act of 1944, where legal title to such property remains in any such Government corporation;
 
-&emsp;(10) to furnish utilities and other services where such utilities and other services are not provided from other sources to persons, firms, or corporations occupying or utilizing plants or portions of plants which constitute (A) a part of the National Industrial Reserve pursuant to the National Industrial Reserve Act of 1948 \[50 U.S.C. 451 et seq.\], or (B) surplus real property, and to credit the amounts received therefrom to the applicable appropriation of the General Services Administration;
+&emsp;(10) to furnish utilities and other services where such utilities and other services are notprovided from other sources to persons, firms, or corporations occupying or utilizing plants or portions of plants which constitute (A) a part of the National Industrial Reserve pursuant to the National Industrial Reserve Act of 1948 \[50 U.S.C. 451 et seq.\], or (B) surplus real property, and to credit the amounts received therefrom to the applicable appropriation of the General Services Administration;
 
 &emsp;(11) at the direction of the Secretary of Defense, to use proceeds received from insurance against damage to properties of the National Industrial Reserve for repair or restoration of the damaged properties;
 
@@ -30,7 +30,7 @@ Whenever and to the extent that the Administrator has been or hereafter may be a
 
 &emsp;(13) to enter into leases of Federal buildings sites and additions to sites, including improvements thereon, until they are needed for construction purposes, at their fair rental value and upon such other terms and conditions as the Administrator deems in the public interest pursuant to the provisions of section 484(e) of this title. Such leases may be negotiated without public advertising for bids if the lessee is the former owner from whom the property was acquired by the United States or his tenant in possession, and the lease is negotiated incident to or in connection with the acquisition of the property. Rentals received under leases executed pursuant to this paragraph may be deposited into the Buildings Management Fund established by subsection (f) of this section;
 
-&emsp;(14) to enter into contracts for periods not exceeding three years for the inspection, maintenance, and repair of fixed equipment in such buildings which are federally owned;
+&emsp;(14) to enter into contracts for periods not exceeding five years for the inspection, maintenance, and repair of fixed equipment in such buildings which are federally owned;
 
 &emsp;(15) to render direct assistance to and perform special services for the Inaugural Committee (as defined in section 721 of title 36) during an inaugural period in connection with Presidential inaugural operations and functions, including employment of personal services without regard to the civil service and classification laws; provide Government-owned and leased space for personnel and parking; pay overtime to guard and custodial forces; erect and remove stands and platforms; provide and operate first-aid stations; provide furniture and equipment; and provide other incidental services in the discretion of the Administrator;
 
@@ -48,7 +48,7 @@ At the request of any Federal agency or any mixed-ownership corporation (as defi
 
 #### (c) Acquisition of land; surveys; construction services
 
-At the request of any Federal agency or any mixed-ownership corporation (as defined in chapter 91 of title 31), or the District of Columbia, the Administrator is authorized (1) to acquire land for buildings and projects authorized by the Congress; (2) to make or cause to be made, under contract or otherwise, surveys and test borings and to prepare plans and specifications for such buildings and projects prior to the approval by the Attorney General of the title to the sites thereof; and (3) to contract for, and tosupervise, the construction and development and the equipping of such buildings or projects. Any sum available to any such Federal agency or instrumentality for any such building or project may be transferred by such agency to the General Services Administration in advance for such purposes as the Administrator shall determine to be necessary, including the payment of salaries and expenses of personnel engaged in the preparation of plans and specifications or in field supervision, and for general office expenses to be incurred in the rendition of any such service.
+At the request of any Federal agency or any mixed-ownership corporation (as defined in chapter 91 of title 31), or the District of Columbia, the Administrator is authorized (1) to acquire land for buildings and projects authorized by the Congress; (2) to make or cause to be made, under contract or otherwise, surveys and test borings and to prepare plans and specifications for such buildings and projects prior to the approval by the Attorney General of the title to the sites thereof; and (3) to contract for, and to supervise, the construction and development and the equipping of such buildings or projects. Any sum available to any such Federal agency or instrumentality for any such building or project may be transferred by such agency to the General Services Administration in advance for such purposes as the Administrator shall determine to be necessary, including the payment of salaries and expenses of personnel engaged in the preparation of plans and specifications or in field supervision, and for general office expenses to be incurred in the rendition of any such service.
 
 #### (d) Transfer of functions
 
@@ -82,7 +82,7 @@ Notwithstanding any other provision of law, the Administrator is authorized, in 
 
 (3) There are hereby merged with the fund established under this subsection, unexpended balances of (A) the Buildings Management Fund (including any surplus therein), established pursuant to this subsection prior to its amendment by the Public Buildings Amendments of 1972; (B) the Construction Services Fund, created by section 296 of this title; and (C) any funds appropriated to General Services Administration under the headings “Repair and Improvement of Public Buildings”, “Construction, Public Buildings Projects”, “Sites and Expenses, Public Buildings Projects”, “Construction, Federal Office Building Numbered 7, Washington, District of Columbia”, and “Additional Court Facilities”, in any appropriation Act, for the years prior to the fiscal year in which the fund becomes operational. The fund shall assume all the liabilities, obligations, and commitments of the said (1) Buildings Management Fund, (2) Construction Services Fund, and (3) the appropriations specified in (C) hereof.
 
-(4) There is authorized to be appropriated to the fund for the fiscal year in which the fund becomes operational, and for the succeeding fiscal year, such advances to the fund as may be necessary to carry out its purposes. Such advances shall be repaid within 30 years, with interest at a rate not less than a rate determined by the Secretary of the Treasury taking into consideration the current average market yield on outstanding marketable obligations of the UnitedStates with remaining period to maturity comparable to the average maturities of such advances adjusted to the nearest one-eighth of 1 per centum.
+(4) There is authorized to be appropriated to the fund for the fiscal year in which the fund becomes operational, and for the succeeding fiscal year, such advances to the fund as may be necessary to carry out its purposes. Such advances shall be repaid within 30 years, with interest at a rate not less than a rate determined by the Secretary of the Treasury taking into consideration the current average market yield on outstanding marketable obligations of the United States with remaining period to maturity comparable to the average maturities of such advances adjusted to the nearest one-eighth of 1 per centum.
 
 (5) In any fiscal year there may be deposited to miscellaneous receipts in the Treasury of the United States such amount as may be specified in appropriation Acts.
 
@@ -92,7 +92,7 @@ Notwithstanding any other provision of law, the Administrator is authorized, in 
 
 (B) The Administrator may accept, from a utility, goods or services which enhance the energy efficiency of Federal facilities.
 
-(C) In the administration of any real property for which the Administrator leases and pays utility costs, the Administrator may assign all or a portion of energy rebates to the lessor to underwrite the costs incurred in undertaking energy efficiency improvements in such real property if the payback period for such improvement is at least 2 years less than the remainder of the term of the lease.
+(C) In the administration of any real property for which the Administrator leases and pays utility costs, the Administrator may assign all or a portion of energy rebates to the lessor to underwrite the costs incurred in undertaking energy efficiency improvements in such realproperty if the payback period for such improvement is at least 2 years less than the remainder of the term of the lease.
 
 (D) The Administrator may, in addition to amounts appropriated for such purposes and without regard to paragraph (2), obligate for energy management improvement programs—
 
@@ -138,7 +138,21 @@ The Administrator is authorized and directed to charge anyone furnished services
 
 Any executive agency, other than the General Services Administration, which provides to anyone space and services set forth in subsection (j) of this section, is authorized to charge the occupant for such space and services at rates approved by the Administrator. Moneys derived by such executive agency from such rates or fees shall be credited to the appropriation or fund initially charged for providing the service, except that amounts which are in excess of actual operating and maintenance costs of providing the service shall be credited to miscellaneous receipts unless otherwise authorized by law.
 
-(June 30, 1949, ch. 288, title II, §210, as added Sept. 5, 1950, ch. 849, §5(c), 64 Stat. 580; amended July 12, 1952, ch. 703, §1(<i>l</i>), 66 Stat. 594; Sept. 1, 1954, ch. 1211, §3, 68 Stat. 1129; July 2, 1958, Pub. L. 85–493, §1, 72 Stat. 294; Sept. 2, 1958, Pub. L. 85–886, §§1, 3, 72 Stat. 1709; Sept. 9, 1959, Pub. L. 86–249, §12(e), formerly §12(d), 73 Stat. 482, renumbered §12(e), Oct. 18, 1976, Pub. L. 94–541, title I, §103(3), 90 Stat. 2506; Oct. 20, 1965, Pub. L. 89–276, 79 Stat. 1010; Nov. 8, 1965, Pub. L. 89–344, 79 Stat. 1304; Oct. 22, 1968, Pub. L. 90–626, 82 Stat. 1319; 1970 Reorg. Plan No. 2, §102, eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2085; June 16, 1972, Pub. L. 92–313, §§3, 4, 86 Stat. 218, 219; Oct. 18, 1976, Pub. L. 94–541, title I, §§103(3), 104, 90 Stat. 2506; Aug. 23, 1988, Pub. L. 100–418, title V, §5115(c), 102 Stat. 1433; Oct. 24, 1992, Pub. L. 102–486, title I, §153, 106 Stat. 2851.)
+#### (<i>l</i>) Flexiplace work telecommuting centers
+
+(1) The Administrator may establish, acquire space for, and equip flexiplace work telecommuting centers (in this subsection referred to as “telecommuting centers”) for use by employees of Federal agencies, State and local governments, and the private sector in accordance with this subsection.
+
+(2) The Administrator may make any telecommuting center available for use by individuals who are not Federal employees to the extent the center is not being fully utilized by Federal employees. The Administrator shall give Federal employees priority in using the telecommuting centers.
+
+(3)(A) The Administrator shall charge user fees for the use of any telecommuting center. The amount of the user fee shall approximate commercial charges for comparable space and services except that in no instance shall such fee be less than that necessary to pay the cost of establishing and operating the center, including the reasonable cost of renovation and replacement of furniture, fixtures, and equipment.
+
+(B) Amounts received by the Administrator after September 30, 1993, as user fees for use of any telecommuting center may be deposited into the Fund established under subsection (f) of this section and may be used by the Administrator to pay costs incurred in the establishment and operation of the center.
+
+(4) The Administrator may provide guidance, assistance, and oversight to any person regarding establishment and operation of alternative workplace arrangements, such as telecommuting, hoteling, virtual offices, and other distributive work arrangements.
+
+(5) In considering whether to acquire any space, quarters, buildings, or other facilities for use by employees of any executive agency, the head of that agency shall consider whether the need for the facilities can be met using alternative workplace arrangements referred to in paragraph (4).
+
+(June 30, 1949, ch. 288, title II, §210, as added Sept. 5, 1950, ch. 849, §5(c), 64 Stat. 580; amended July 12, 1952, ch. 703, §1(<i>l</i>), 66 Stat. 594; Sept. 1, 1954, ch. 1211, §3, 68 Stat. 1129; July 2, 1958, Pub. L. 85–493, §1, 72 Stat. 294; Sept. 2, 1958, Pub. L. 85–886, §§1, 3, 72 Stat. 1709; Sept. 9, 1959, Pub. L. 86–249, §12(e), formerly §12(d), 73 Stat. 482, renumbered §12(e), Oct. 18, 1976, Pub. L. 94–541, title I, §103(3), 90 Stat. 2506; Oct. 20, 1965, Pub. L. 89–276, 79 Stat. 1010; Nov. 8, 1965, Pub. L. 89–344, 79 Stat. 1304; Oct. 22, 1968, Pub. L. 90–626, 82 Stat. 1319; 1970 Reorg. Plan No. 2, §102, eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2085; June 16, 1972, Pub. L. 92–313, §§3, 4, 86 Stat. 218, 219; Oct. 18, 1976, Pub. L. 94–541, title I, §§103(3), 104, 90 Stat. 2506; Aug. 23, 1988, Pub. L. 100–418, title V, §5115(c), 102 Stat. 1433; Oct. 24, 1992, Pub. L. 102–486, title I, §153, 106 Stat. 2851; Sept. 23, 1996, Pub. L. 104–201, div. A, title VIII, §823, 110 Stat. 2609; Sept. 30, 1996, Pub. L. 104–208, div. A, title I, §101(f) \[title IV, §407(a)\], 110 Stat. 3009–314, 3009–337; Oct. 19, 1996, Pub. L. 104–316, title I, §120(b), 110 Stat. 3836.)
 
 #### References in Text
 
@@ -165,6 +179,12 @@ In subsecs. (a)(6), (b), and (c), “chapter 91 of title 31” substituted for �
 Section was formerly classified to section 239a of Title 41, Public Contracts.
 
 #### Amendments
+
+1996—Subsec. (a)(8). Pub. L. 104–316 struck out “. A copy of every such determination so made shall be furnished to the General Accounting Office” before semicolon at end.
+
+Subsec. (a)(14). Pub. L. 104–201 substituted “five years” for “three years”.
+
+Subsec. (<i>l</i>). Pub. L. 104–208 added subsec. (<i>l</i>).
 
 1992—Subsec. (f)(1). Pub. L. 102–486, §153(1), inserted “(to be known as the Federal Buildings Fund)” after “a fund”.
 
@@ -294,13 +314,13 @@ I transmit herewith Reorganization Plan No. 18 of 1950, prepared in accordance w
 
 The transfers made by this plan will promote more economical leasing, better utilization of building space, and more efficient operation of Government-controlled office buildings. They will effectuate the recommendations of the Commission on Organization of the Executive Branch of the Government with respect to concentrating in the General Services Administration the responsibility for space allotment and the operation of Government buildings outside of the District of Columbia. Likewise, they will extend the principles laid down by the Congress in enacting the Federal Property and Administrative Services Act of 1949 to another important area of Government-wide administrative services—the administration of Government office buildings and general-purpose building space in the field.
 
-Within the District of Columbia, one agency, the Public Buildings Service of the General Services Administration, has long had the operation and custody of most Government buildings and the leasing and assignment of space for executive agencies. Thus, nearly all requests for building space are handled by a single organization which is responsible for seeing that agencies are properly and efficiently housed. This arrangement has proved its worth and has repeatedly been approved by the Congress.
+Within the District of Columbia, one agency, the Public Buildings Service of the General Services Administration, has long had the operation and custody of most Government buildings and the leasing and assignment of space for executive agencies. Thus, nearly allrequests for building space are handled by a single organization which is responsible for seeing that agencies are properly and efficiently housed. This arrangement has proved its worth and has repeatedly been approved by the Congress.
 
 Outside of the National Capital, however, responsibility for the acquisition and control of building space and the operation of Government buildings is widely diffused. A variety of agencies operate and control general-purpose buildings. If quarters are not available in Federal buildings, each agency ordinarily does its own leasing. As a result, in some cases Federal agencies have contracted for space at high rentals at the very time that other agencies have been giving up surplus low-cost space.
 
 The assignment of space in Government-owned buildings outside of Washington is also divided among a number of agencies. While the Public Buildings Service constructs a large part of the Government buildings, it operates and controls the assignment of space in only a small proportion of them. The Post Office Department operates and allocates the space in post-office buildings, several hundred of which contain substantial amounts of office space available for other agencies. During and immediately after the war several other Federal agencies acquired office buildings in the field. As their activities have contracted, surplus space in many of these structures has become available for other uses.
 
-This plan concentrates in the General Services Administration the responsibility for the leasing and assignment of what is termed general-purpose building space; that is, space which is suitable for the uses of anumber of Federal agencies. It specifically excludes space in buildings at military posts, arsenals, navy yards, and similar defense installations and space in hospitals, laboratories, factories, and other special-purpose buildings.
+This plan concentrates in the General Services Administration the responsibility for the leasing and assignment of what is termed general-purpose building space; that is, space which is suitable for the uses of a number of Federal agencies. It specifically excludes space in buildings at military posts, arsenals, navy yards, and similar defense installations and space in hospitals, laboratories, factories, and other special-purpose buildings.
 
 Also, the plan excludes the Post Office Department from the transfer of leasing authority since the Department has a highly developed organization for this purpose, and it limits the transfer of space assignment authority in post-office buildings to the space not occupied by the Department. Further, it gives the needs of the Post Office Department priority in the assignment of space in post-office buildings. Thus, the plan amply safeguards the interests of the Post Office Department while making it possible to include the general office space in post-office buildings in any given city with other similar space under Federal control in planning and executing an efficient program for housing Government agencies in that area.
 
@@ -366,7 +386,7 @@ Space Acquisition
 
 (e) Opportunities for locating cultural, educational, recreational, or commercial activities within the proposed facility.
 
-1–106. Site selection and space assignments shall take into account the management needs for consolidationof agencies or activities in common or adjacent space in order to improve administration and management and effect economies.
+1–106. Site selection and space assignments shall take into account the management needs for consolidation of agencies or activities in common or adjacent space in order to improve administration and management and effect economies.
 
 #### 1–2.
 
@@ -454,7 +474,7 @@ Control and allotment of space in public buildings, see section 19 et seq. of th
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 490a, 490c, 490e, 490f, 490g, 618, 1104, 1105, 1107 of this title; title 2 section 122c; title 7 section 87e–1; title 20 sections 80q–5, 80q–6; title 22 section 3712a.
+This section is referred to in sections 490a, 490c, 490e, 490f, 490g, 618, 1104, 1105, 1107 of this title; title 7 section 87e–1; title 20 sections 80q–5, 80q–6; title 22 section 3712a.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

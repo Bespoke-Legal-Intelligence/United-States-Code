@@ -92,7 +92,7 @@ A class III device—
 
 #### (e) Withdrawal and temporary suspension of approval of application
 
-(1) The Secretary shall, upon obtaining, where appropriate, advice on scientific matters from a panel or panels under section 360c of this title, and after due notice and opportunity for informal hearing to the holder of an approved application for a device, issue an order withdrawing approval of the application if the Secretary finds—
+(1) The Secretary shall, upon obtaining, where appropriate, advice on scientific matters from apanel or panels under section 360c of this title, and after due notice and opportunity for informal hearing to the holder of an approved application for a device, issue an order withdrawing approval of the application if the Secretary finds—
 
 &emsp;(A) that such device is unsafe or ineffective under the conditions of use prescribed, recommended, or suggested in the labeling thereof;
 
@@ -110,7 +110,7 @@ A class III device—
 
 (2) The holder of an application subject to an order issued under paragraph (1) withdrawing approval of the application may, by petition filed on or before the thirtieth day after the date upon which he receives notice of such withdrawal, obtain review thereof in accordance with either paragraph (1) or (2) of subsection (g) of this section.
 
-(3) If, after providing an opportunity for an informal hearing, the Secretary determines thereis reasonable probability that the continuation of distribution of a device under an approved application would cause serious, adverse health consequences or death, the Secretary shall by order temporarily suspend the approval of the application approved under this section. If the Secretary issues such an order, the Secretary shall proceed expeditiously under paragraph (1) to withdraw such application.
+(3) If, after providing an opportunity for an informal hearing, the Secretary determines there is reasonable probability that the continuation of distribution of a device under an approved application would cause serious, adverse health consequences or death, the Secretary shall by order temporarily suspend the approval of the application approved under this section. If the Secretary issues such an order, the Secretary shall proceed expeditiously under paragraph (1) to withdraw such application.
 
 #### (f) Product development protocol
 
@@ -182,7 +182,7 @@ A class III device—
 
 (2)(A) Upon petition for review of—
 
-&emsp;(i) an order under subsection (d) of this section approving or denying approval of an application or an order under subsection (e) of this section withdrawing approval of an application, or
+&emsp;(i) an order under subsection (d) of this section approving or denying approval of an application or an order under subsection (e) ofthis section withdrawing approval of an application, or
 
 &emsp;(ii) an order under subsection (f)(6)(A) of this section revoking an approved protocol, under subsection (f)(6)(B) of this section declaring that an approved protocol has not been completed, or under subsection (f)(7) of this section revoking the approval of a device,
 
@@ -194,7 +194,7 @@ A class III device—
 
 #### (h) Service of orders
 
-Orders of the Secretary under this section shall be served (1) in person by any officer oremployee of the department designated by the Secretary, or (2) by mailing the order by registered mail or certified mail addressed to the applicant at his last known address in the records of the Secretary.
+Orders of the Secretary under this section shall be served (1) in person by any officer or employee of the department designated by the Secretary, or (2) by mailing the order by registered mail or certified mail addressed to the applicant at his last known address in the records of the Secretary.
 
 #### (i) Revision
 
@@ -234,5 +234,5 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 331, 351, 353, 360, 360c, 360g, 360j, 381 of this title; title 35 section 156.
+This section is referred to in sections 331, 351, 353, 360, 360c, 360g, 360j, 381, 382 of this title; title 35 section 156.
 

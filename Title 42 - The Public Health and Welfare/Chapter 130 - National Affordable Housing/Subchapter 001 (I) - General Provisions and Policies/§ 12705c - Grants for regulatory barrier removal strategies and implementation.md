@@ -56,7 +56,7 @@ The Secretary shall provide for the form and manner of applications for grants u
 
 #### (2) Local grants
 
-&emsp;Of the total amount appropriated for each fiscal year to carry out this section, the Secretary shall use one-third of such amount toprovide grants on a competitive basis to units of general local government based on the proposed uses of such amounts, as provided in the application. Each grant made with such amounts shall be in an amount not less than $10,000.
+&emsp;Of the total amount appropriated for each fiscal year to carry out this section, the Secretary shall use one-third of such amount to provide grants on a competitive basis to units of general local government based on the proposed uses of such amounts, as provided in the application. Each grant made with such amounts shall be in an amount not less than $10,000.
 
 #### (g) Coordination with clearinghouse
 

@@ -52,7 +52,7 @@ For purposes of this section, the term “understatement of liability” means a
 
 #### Codification
 
-Another section 6694, relating to failure to file information with respect to carryover basis property, which was added by Pub. L. 94–455, §2005(d)(2), was renumbered section 6698 by Pub. L. 95–600, renumbered section 6698A by Pub. L. 96–222, and repealed by Pub. L. 96–223.
+Another section 6694, relating to failure to file information with respect to carryover basis property, whichwas added by Pub. L. 94–455, §2005(d)(2), was renumbered section 6698 by Pub. L. 95–600, renumbered section 6698A by Pub. L. 96–222, and repealed by Pub. L. 96–223.
 
 #### Amendments
 

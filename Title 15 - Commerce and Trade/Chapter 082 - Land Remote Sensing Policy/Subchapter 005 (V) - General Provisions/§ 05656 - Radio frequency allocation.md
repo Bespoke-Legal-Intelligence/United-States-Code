@@ -10,7 +10,7 @@ It is the intent of Congress that the Federal Communications Commission complete
 
 #### (c) Development and construction of United States systems
 
-Authority shall not be required from the Federal Communications Commission for the development and construction of any United States land remote sensing space system (or componentthereof), other than radio transmitting facilities or components, while any licensing determination is being made.
+Authority shall not be required from the Federal Communications Commission for the development and construction of any United States land remote sensing space system (or component thereof), other than radio transmitting facilities or components, while any licensing determination is being made.
 
 #### (d) Consistency with international obligations and public interest
 

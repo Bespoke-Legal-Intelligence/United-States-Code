@@ -1,0 +1,54 @@
+### §40121.<sup>1</sup> Air traffic control modernization reviews
+
+(a)
+
+Required Terminations of Acquisitions.—The Administrator of the Federal Aviation Administration shall terminate any acquisition program initiated after the date of the enactment of the Air Traffic Management System Performance Improvement Act of 1996 and funded under the Facilities and Equipment account that—
+
+&emsp;(1) is more than 50 percent over the cost goal established for the program;
+
+&emsp;(2) fails to achieve at least 50 percent of the performance goals established for the program; or
+
+&emsp;(3) is more than 50 percent behind schedule as determined in accordance with the schedule goal established for the program.
+
+(b)
+
+Authorized Termination of Acquisition Programs.—The Administrator shall consider terminating, under the authority of subsection (a), any substantial acquisition program that—
+
+&emsp;(1) is more than 10 percent over the cost goal established for the program;
+
+&emsp;(2) fails to achieve at least 90 percent of the performance goals established for the program; or
+
+&emsp;(3) is more than 10 percent behind schedule as determined in accordance with the schedule goal established for the program.
+
+(c)
+
+Exceptions and Report.—
+
+&emsp;(1)
+
+Continuance of program, etc.—Notwithstanding subsection (a), the Administrator may continue an acquisitions program required to be terminated under subsection (a) if the Administrator determines that termination would be inconsistent with the development or operation of the national air transportation system in a safe and efficient manner.
+
+&emsp;(2)
+
+Department of defense.—The Department of Defense shall have the same exemptions from acquisition laws as are waived by the Administrator under section 348(b) of Public Law 104–50 when engaged in joint actions to improve or replenish the national air traffic control system. The Administration may acquire real property, goods, and services through the Department of Defense, or other appropriate agencies, but is bound by the acquisition laws and regulations governing those cases.
+
+&emsp;(3)
+
+Report.—If the Administrator makes a determination under paragraph (1), the Administrator shall transmit a copy of the determination, together with a statement of the basis for the determination, to the Committees on Appropriations of the Senate and the House of Representatives, the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Transportation and Infrastructure of the House of Representatives.
+
+(Added Pub. L. 104–264, title II, §252, Oct. 9, 1996, 110 Stat. 3236.)
+
+#### References in Text
+
+The date of the enactment of the Air Traffic Management System Performance Improvement Act of 1996, referred to in subsec. (a), is the date of enactment of Pub. L. 104–264, which was approved Oct. 9, 1996.
+
+Section 348(b) of Public Law 104–50, referred to in subsec. (c)(2), is set out as a note under section 40110 of this title.
+
+#### Effective Date
+
+Section effective on date that is 30 days after Oct. 9, 1996, see section 203 of Pub. L. 104–264, set out as an Effective Date of 1996 Amendment note under section 106 of this title.
+
+Except as otherwise specifically provided, section applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as an Effective Date of 1996 Amendment note under section 106 of this title.
+
+<i><sup>1</sup></i><i> Another section 40121 is set out after section 40123 of this title.</i>
+

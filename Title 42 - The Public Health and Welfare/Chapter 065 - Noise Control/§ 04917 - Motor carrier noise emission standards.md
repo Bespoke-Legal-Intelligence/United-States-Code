@@ -12,7 +12,7 @@
 
 #### (b) Regulations to insure compliance with noise emission standards
 
-The Secretary of Transportation, after consultation with the Administrator shall promulgate regulations to insure compliance with all standards promulgated by the Administrator under this section. The Secretary of Transportation shall carry out such regulations through the use of his powers and duties of enforcement and inspection authorized by subtitle IV of title 49 and the Department of Transportation Act. Regulations promulgated under this section shall be subject to the provisions of sections 4909, 4910, 4911, and 4915 of this title.
+The Secretary of Transportation, after consultation with the Administrator shall promulgate regulations to insure compliance with allstandards promulgated by the Administrator under this section. The Secretary of Transportation shall carry out such regulations through the use of his powers and duties of enforcement and inspection authorized by subtitle IV of title 49 and the Department of Transportation Act. Regulations promulgated under this section shall be subject to the provisions of sections 4909, 4910, 4911, and 4915 of this title.
 
 #### (c) State and local standards and controls
 
@@ -28,7 +28,7 @@ For purposes of this section, the term “motor carrier” includes a motor carr
 
 #### References in Text
 
-The Department of Transportation Act, referred to in subsec. (b), is Pub. L. 89–670, Oct. 15, 1966, 80 Stat. 931, as amended, which was classified principally to sections 1651 to 1660 of former Title 49, Transportation. The Act was repealed and the provisions thereof reenacted in Title 49, Transportation, by Pub. L. 97–449, Jan. 12, 1983, 96 Stat. 2413, and Pub. L. 103–272, July 5, 1994, 108 Stat. 745. For disposition of sections of former Title 49, see Table at the beginning of Title 49.
+The Department of Transportation Act, referred to in subsec. (b), is Pub. L. 89–670, Oct. 15, 1966, 80 Stat. 931, as amended, which was classified principally to sections 1651 to 1660 of former Title 49, Transportation. The Act was repealed and the provisions thereof reenacted in Title 49, Transportation, by Pub. L. 97–449, Jan. 12, 1983, 96 Stat. 2413, and Pub. L. 103–272, July 5, 1994, 108 Stat. 745. The Act was also repealed by Pub. L. 104–287, §7(5), Oct. 11, 1996, 110 Stat. 3400. For disposition of sections of former Title 49, see Table at the beginning of Title 49.
 
 #### Codification
 

@@ -32,11 +32,21 @@ Subsecs. (c), (d). Pub. L. 94–455, §1906(a)(58), redesignated subsec. (d) as 
 
 1972—Subsec. (c). Pub. L. 92–310 repealed subsec. (c) which related to bonds of officers and employees.
 
+#### Reports on Misconduct of IRS Employees
+
+Pub. L. 104–168, title XII, §1211, July 30, 1996, 110 Stat. 1474, provided that: “On or before June 1 of each calendar year after 1996, the Secretary of the Treasury shall submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate a report on—
+
+&emsp;“(1) all categories of instances involving the misconduct of employees of the Internal Revenue Service during the preceding calendar year, and
+
+&emsp;“(2) the disposition during the preceding calendar year of any such instances (without regard to the year of the misconduct).”
+
 #### Taxpayers’ Rights, Courtesy and Cross-Cultural Relations Training
 
-Pub. L. 104–52, title I, §2, Nov. 19, 1995, 109 Stat. 474, provided that: “The Internal Revenue Service shall institute and maintain a training program to insure that Internal Revenue Service employees are trained in taxpayers’ rights, in dealing courteously with the taxpayers, and in cross-cultural relations.”
+Pub. L. 104–208, div. A, title I, §101(f) \[title I, §102\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–323, provided that: “The Internal Revenue Service shall maintain a training program to insure that Internal Revenue Serviceemployees are trained in taxpayers’ rights, in dealing courteously with the taxpayers, and in cross-cultural relations.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 104–52, title I, §2, Nov. 19, 1995, 109 Stat. 474.
 
 Pub. L. 103–329, title I, §2, Sept. 30, 1994, 108 Stat. 2388.
 
@@ -86,7 +96,7 @@ Findings.—The Congress hereby finds that—
 
 “(b) It is the sense of the Congress that:
 
-&emsp;“(1) The Congress increase outlays for the Internal Revenue Service in fiscal year 1989 and fiscal year1990 in the areas of taxpayer assistance and enforcement by $.7 billion in fiscal year 1989 for a revenue total of $3.2 billion and by $.8 billion in fiscal year 1990 for a revenue total of $4.4 billion. The net revenue increase would be $2.5 billion in fiscal year 1989 and $3.6 billion in fiscal year 1990, or a net revenue increase over the House Appropriations Committee recommendations of $.4 billion in fiscal year 1989 and $1.3 billion in fiscal year 1990.
+&emsp;“(1) The Congress increase outlays for the Internal Revenue Service in fiscal year 1989 and fiscal year 1990 in the areas of taxpayer assistance and enforcement by $.7 billion in fiscal year 1989 for a revenue total of $3.2 billion and by $.8 billion in fiscal year 1990 for a revenue total of $4.4 billion. The net revenue increase would be $2.5 billion in fiscal year 1989 and $3.6 billion in fiscal year 1990, or a net revenue increase over the House Appropriations Committee recommendations of $.4 billion in fiscal year 1989 and $1.3 billion in fiscal year 1990.
 
 &emsp;“(2) The Internal Revenue Service offer improved taxpayer assistance and enforcement efforts by using the aforementioned outlays in areas recommended by, or consistent with the recommendations of, the ‘Dorgan Task Force Report’. Taxpayer assistance efforts would include providing expanded taxpayer education programs, instituting pilot programs of taxmobiles in rural areas, and upgrading the quality of telephone assistance. Taxpayer enforcement efforts would include raising the audit rate from 1.1 percent toward 2.5 percent, restoring resources to criminal investigations, and the collection of delinquent accounts.
 
@@ -138,7 +148,7 @@ Employment of Volunteers.—
 
 &emsp;“(1)
 
-In general.—Service as a volunteer in any program carried out under this section shall not be considered service as an employee of the United States. Volunteers under such a program shall not be considered Federal employees and shall not be subject to the provisions of law relating to Federal employment, except that the provisions of section 1905 of title 18, United States Code, shall apply to volunteers as if they were employees of the United States.
+In general.—Service as a volunteer in any program carried out under this section shall not be considered service as an employee of the United States. Volunteers under such a program shall not be considered Federal employees and shall not be subject to the provisions of law relating to Federal employment, except that the provisions of section 1905 oftitle 18, United States Code, shall apply to volunteers as if they were employees of the United States.
 
 &emsp;“(2)
 

@@ -36,13 +36,13 @@ The Council shall consist of not less than 17 or more than 20 members, appointed
 
 &emsp;(10) one representative from the Department of Defense;
 
-&emsp;(11) one representative from a civilian Federal agency not otherwise represented on theCouncil, to be rotated among such agencies every 2 years; and
+&emsp;(11) one representative from a civilian Federal agency not otherwise represented on the Council, to be rotated among such agencies every 2 years; and
 
 &emsp;(12) one representative from the Foundation for the Malcolm Baldrige National Quality Award.
 
 #### (c) Terms
 
-The term of office of each member of the Council appointed under paragraphs (1) through (7) of subsection (b) of this section shall be 2 years, except that when making the initial appointments under such paragraphs; the Secretary shall appoint not more than 50 percent of the members to 1 year terms. No member appointed under such paragraphs shall serve on the Council for more than 2 consecutive terms.
+The term of office of each member of the Council appointed under paragraphs (1) through\(7) of subsection (b) of this section shall be 2 years, except that when making the initial appointments under such paragraphs; the Secretary shall appoint not more than 50 percent of the members to 1 year terms. No member appointed under such paragraphs shall serve on the Council for more than 2 consecutive terms.
 
 #### (d) Chairman and Vice Chairman
 

@@ -22,7 +22,9 @@ Actions No Longer Required.—An action required under this section is no longer
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -56,9 +58,9 @@ The Arms Export Control Act, referred to in subsec. (b), is Pub. L. 90–629, Oc
 
 #### Delegation of Functions
 
-Functions of President under subsec. (b) delegated to Secretary of State by section 1–201(a)(25) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of Title 22, Foreign Relations and Intercourse.
+Functions of President under subsec. (b) delegated to Secretary of State by section 1–201(a)(25) of Ex. Ord.No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of Title 22, Foreign Relations and Intercourse.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 44907 of this title.
+This section is referred to in sections 44907, 46301, 46316 of this title.
 

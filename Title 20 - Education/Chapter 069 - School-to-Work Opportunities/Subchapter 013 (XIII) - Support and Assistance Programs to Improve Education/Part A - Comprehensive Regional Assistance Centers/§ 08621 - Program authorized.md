@@ -26,7 +26,7 @@
 
 #### (b) Service to Indians and Alaska Natives
 
-The Secretary shall ensure that each comprehensive regional assistance center that serves aregion with a significant population of Indian or Alaska Native students shall—
+The Secretary shall ensure that each comprehensive regional assistance center that serves a region with a significant population of Indian or Alaska Native students shall—
 
 &emsp;(1) be awarded to a consortium which includes a tribally controlled community college or other Indian organization; and
 

@@ -60,7 +60,7 @@ By no later than the date that is 6 years after August 23, 1988, the Secretary s
 
 &emsp;(1) an evaluation of the projects authorized under this section that is conducted in accordance with subsection (c) of this section, and
 
-&emsp;(2) a recommendation as to whether the supplemental wage allowance should be available on a permanent basis as an option for some or all workers eligible for assistance under this part.
+&emsp;(2) a recommendation as to whether the supplemental wage allowance should be availableon a permanent basis as an option for some or all workers eligible for assistance under this part.
 
 (Pub. L. 93–618, title II, §246, as added Pub. L. 100–418, title I, §1423(d)(1), Aug. 23, 1988, 102 Stat. 1246; amended Pub. L. 101–382, title I, §136, Aug. 20, 1990, 104 Stat. 652.)
 

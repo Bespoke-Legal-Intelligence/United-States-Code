@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The tax imposed by section 2001 shall be credited with the amount of any estate, inheritance, legacy, or succession taxes actually paid to any foreign country in respect of any property situated within such foreign country and included in the gross estate (not including any such taxes paid with respect to the estate of a person other than the decedent). The determination of the country within which property is situated shall be made in accordance with the rules applicable under subchapter B (sec. 2101 and following) in determining whether property is situated within or without the United States.
+The tax imposed by section 2001 shall be credited with the amount of any estate, inheritance,legacy, or succession taxes actually paid to any foreign country in respect of any property situated within such foreign country and included in the gross estate (not including any such taxes paid with respect to the estate of a person other than the decedent). The determination of the country within which property is situated shall be made in accordance with the rules applicable under subchapter B (sec. 2101 and following) in determining whether property is situated within or without the United States.
 
 #### (b) Limitations on credit
 
@@ -30,7 +30,7 @@ The credit provided in this section with respect to such taxes paid to any forei
 
 #### (c) Valuation of property
 
-(1) The values referred to in the ratio stated in subsection (b)(1) are the values determined forpurposes of the tax imposed by such foreign country.
+(1) The values referred to in the ratio stated in subsection (b)(1) are the values determined for purposes of the tax imposed by such foreign country.
 
 (2) The values referred to in the ratio stated in subsection (b)(2) are the values determined under this chapter; but, in applying such ratio, the value of any property described in subparagraphs (A), (B), and (C) thereof shall be reduced by such amount as will properly reflect, in accordance with regulations prescribed by the Secretary, the deductions allowed in respect of such property under sections 2055 and 2056 (relating to charitable and marital deductions).
 
@@ -76,7 +76,7 @@ Whenever the President finds that—
 
 > the President shall proclaim that, in the case of citizens or subjects of such foreign country dying while the proclamation remains in effect, the credit under subsection (a) shall be allowed only if such foreign country allows such a similar credit in the case of citizens of the United States resident in such foreign country at the time of death.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 378; Sept. 2, 1958, Pub. L. 85–866, title I, §102(c)(2), 72 Stat. 1674; Aug. 21, 1959, Pub. L. 86–175, §2, 73 Stat. 397; Nov. 13, 1966, Pub. L. 89–809, title I, §106(b)(3), 80 Stat. 1570; Oct. 4, 1976, Pub. L. 94–455, title XIX, §1906(b)(13)(A), title XX, §2001(c)(1)(G), 90 Stat. 1834, 1852.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 378; Sept. 2, 1958, Pub. L. 85–866, title I, §102(c)(2), 72 Stat. 1674; Aug. 21, 1959, Pub. L. 86–175, §2, 73 Stat. 397; Nov. 13, 1966, Pub. L. 89–809, title I, §106(b)(3), 80 Stat.1570; Oct. 4, 1976, Pub. L. 94–455, title XIX, §1906(b)(13)(A), title XX, §2001(c)(1)(G), 90 Stat. 1834, 1852.)
 
 #### Amendments
 

@@ -8,7 +8,7 @@
 
 #### Prior Provisions
 
-Provisions similar to this section were contained in section 1810(b)(6) of this title, prior to the generalamendment and renumbering of act Aug. 1, 1946, by act Aug. 30, 1954.
+Provisions similar to this section were contained in section 1810(b)(6) of this title, prior to the general amendment and renumbering of act Aug. 1, 1946, by act Aug. 30, 1954.
 
 #### Transfer of Functions
 

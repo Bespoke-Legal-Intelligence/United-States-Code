@@ -2,7 +2,7 @@
 
 #### (a) Congressional declaration of hazardous conditions
 
-The Congress declares that voids, and open and abandoned tunnels, shafts, and entryways resulting from any previous mining operation, constitute a hazard to the public health or safety and that surface impacts of any underground or surface mining operation may degrade the environment. The Secretary, at the request of the Governor of any State, or the the <sup>1</sup> governing body of an Indian tribe, is authorized to fill such voids, seal such abandoned tunnels, shafts, and entryways, and reclaim surface impacts of underground or surface mines which the Secretary determines could endanger life and property, constitute a hazard to the public health and safety, or degrade the environment. State regulatory authorities are authorized to carry out such work pursuant to an approved abandoned mine reclamation program.
+The Congress declares that voids, and open and abandoned tunnels, shafts, and entryways resulting from any previous mining operation, constitute a hazard to the public health or safety and that surface impacts of any underground or surface mining operation may degrade the environment. The Secretary, at the request of the Governor of any State, or the the <sup>1</sup> governingbody of an Indian tribe, is authorized to fill such voids, seal such abandoned tunnels, shafts, and entryways, and reclaim surface impacts of underground or surface mines which the Secretary determines could endanger life and property, constitute a hazard to the public health and safety, or degrade the environment. State regulatory authorities are authorized to carry out such work pursuant to an approved abandoned mine reclamation program.
 
 #### (b) Limitation on funds
 
@@ -18,7 +18,7 @@ Funds available for use in carrying out the purpose of this section shall be lim
 
 #### (d) Disposal of mine wastes
 
-In those instances where mine waste piles are being reworked for conservation purposes, theincremental costs of disposing of the wastes from such operations by filling voids and sealing tunnels may be eligible for funding providing that the disposal of these wastes meets the purposes of this section.
+In those instances where mine waste piles are being reworked for conservation purposes, the incremental costs of disposing of the wastes from such operations by filling voids and sealing tunnels may be eligible for funding providing that the disposal of these wastes meets the purposes of this section.
 
 #### (e) Land acquisition
 

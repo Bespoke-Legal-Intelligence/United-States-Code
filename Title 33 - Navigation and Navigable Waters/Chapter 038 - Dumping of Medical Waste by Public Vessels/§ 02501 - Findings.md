@@ -12,5 +12,5 @@ The Congress finds the following:
 
 #### Short Title
 
-Section 3101 of subtitle A \[§§3101–3105\] of title III of Pub. L. 100–688 provided that: “This subtitle \[enacting this chapter\] may be cited as the ‘United States Public Vessel Medical Waste Anti-Dumping Act of 1988’.”
+Section 3101 of subtitle A \[§§3101–3105\] of title III of Pub. L. 100–688 provided that: “This subtitle \[enactingthis chapter\] may be cited as the ‘United States Public Vessel Medical Waste Anti-Dumping Act of 1988’.”
 

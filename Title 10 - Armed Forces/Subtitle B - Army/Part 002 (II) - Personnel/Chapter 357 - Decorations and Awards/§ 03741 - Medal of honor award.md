@@ -30,6 +30,32 @@ The words “That the provisions of existing law relating to the award of medals
 
 1963—Pub. L. 88–77 enlarged authority to award medal of honor, which was limited to those cases in which persons distinguished themselves in action involving actual conflict with an enemy, to permit its award for distinguished service while engaged in an action against an enemy of the United States, while engaged in military operations involving conflict with an opposing foreign force, or while serving with friendly foreign forces engaged in an armed conflict against an opposing armed force in which the United States is not a belligerent party.
 
+#### Review Regarding Upgrading of Distinguished-Service Crosses and Navy Crosses Awarded to Asian-Americans and Native American Pacific Islanders for World War II Service
+
+Pub. L. 104–106, div. A, title V, §524, Feb. 10, 1996, 110 Stat. 312, provided that:
+
+“(a)
+
+Review Required.—(1) The Secretary of the Army shall review the records relating to each award of the Distinguished-Service Cross, and the Secretary of the Navy shall review the records relating to each award of the Navy Cross, that was awarded to an Asian-American or a Native American Pacific Islander with respect to service as a member of the Armed Forces during World War II. The purpose of the review shall be to determine whether any such award should be upgraded to the Medal of Honor.
+
+“(2) If the Secretary concerned determines, based upon the review under paragraph (1), that such an upgrade is appropriate in the case of any person, the Secretary shall submit to the President a recommendation that the President award the Medal of Honor to that person.
+
+“(b)
+
+Waiver of Time Limitations.—A Medal of Honor may be awarded to a person referred to in subsection (a) in accordance with a recommendation of the Secretary concerned under that subsection without regard to—
+
+&emsp;“(1) section 3744, 6248, or 8744 of title 10, United States Code, as applicable; and
+
+&emsp;“(2) any regulation or other administrative restriction on—
+
+&emsp;&emsp;“(A) the time for awarding the Medal of Honor; or
+
+&emsp;&emsp;“(B) the awarding of the Medal of Honor for service for which a Distinguished-Service Cross or Navy Cross has been awarded.
+
+“(c)
+
+Definition.—For purposes of this section, the term ‘Native American Pacific Islander’ means a Native Hawaiian and any other Native American Pacific Islander within the meaning of the Native American Programs Act of 1974 (42 U.S.C. 2991 et seq.).”
+
 #### Cross References
 
 Award of Medal of Honor to Navy and Air Force members, see sections 6241 and 8741 of this title.

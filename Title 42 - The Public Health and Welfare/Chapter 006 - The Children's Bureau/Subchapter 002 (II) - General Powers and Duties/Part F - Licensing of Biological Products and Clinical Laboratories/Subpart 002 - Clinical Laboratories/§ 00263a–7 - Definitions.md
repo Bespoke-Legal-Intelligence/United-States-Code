@@ -18,7 +18,7 @@ For purposes of sections 263a–1 to 263a–7 of this title:
 
 #### References in Text
 
-Sections 263a–1 to 263a–7 of this title, referred to in text, was in the original “this Act”, meaning Pub. L. 102–493, Oct. 24, 1992, 106 Stat. 3146, known as the Fertility Clinic Success Rate and Certification Act of 1992, which enacted sections 263a–1 to 263a–7 of this title and provisions set out as notes under sections 201 and 263a–1 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.
+Sections 263a–1 to 263a–7 of this title, referred to in text, was in the original “this Act”, meaning Pub. L.102–493, Oct. 24, 1992, 106 Stat. 3146, known as the Fertility Clinic Success Rate and Certification Act of 1992, which enacted sections 263a–1 to 263a–7 of this title and provisions set out as notes under sections 201 and 263a–1 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.
 
 #### Codification
 

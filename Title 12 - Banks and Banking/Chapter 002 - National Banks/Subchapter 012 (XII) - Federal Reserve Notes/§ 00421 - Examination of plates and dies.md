@@ -1,6 +1,6 @@
 ### §421. Examination of plates and dies
 
-The Secretary of the Treasury may examine the plates, dies, bed pieces, and other materialused in the printing of Federal Reserve notes and issue regulations relating to such examinations.
+The Secretary of the Treasury may examine the plates, dies, bed pieces, and other material used in the printing of Federal Reserve notes and issue regulations relating to such examinations.
 
 (Dec. 23, 1913, ch. 6, §16 (par.), 38 Stat. 267; Sept. 23, 1994, Pub. L. 103–325, title VI, §602(g)(6), 108 Stat. 2293.)
 

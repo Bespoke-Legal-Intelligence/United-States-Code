@@ -2,7 +2,7 @@
 
 (a)
 
-General Authority.—Notwithstanding section 1341(a)(1)(B) of title 31 and to the extent that amounts otherwise are available for obligation, the Administrator of the Federal Aviation Administration may make a contract of more than one but not more than 5 fiscal years to purchase property, except a contract to construct, alter, or make a major repair or improvement to real property or a contract to purchase property to which section 111 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 759) applies.
+General Authority.—Notwithstanding section 1341(a)(1)(B) of title 31 and to the extent that amounts otherwise are available for obligation, the Administrator of the Federal Aviation Administration may make a contract of more than one but not more than 5 fiscal years to purchase property, except a contract to construct, alter, or make a major repair or improvement to real property.
 
 (b)
 
@@ -20,7 +20,7 @@ Required Findings.—The Administrator may make a contract under this section if
 
 (c)
 
-Regulations.—The Administrator shall prescribe regulations for acquiring property under this section to promote the use of contracts under this section in a way that will allow the most efficient use of those contracts. The regulations may provide for a cancellation provision in the contract to the extent the provision is necessary and in the best interest of the United States. The provision may include consideration of recurring and nonrecurring costs of the contractor associated with producing the item to be delivered under the contract. The regulations shall provide that, to the extent practicable—
+Regulations.—The Administrator shall prescribe regulations for acquiring property under this section to promote the use of contracts under this section in a way that will allow the most efficient use of those contracts. The regulations may provide for a cancellation provision in the contract to the extent the provision is necessary and in the best interest of the United States. The provision may includeconsideration of recurring and nonrecurring costs of the contractor associated with producing the item to be delivered under the contract. The regulations shall provide that, to the extent practicable—
 
 &emsp;(1) to broaden the aviation industrial base—
 
@@ -50,7 +50,7 @@ Contract Provisions.—(1) A contract under this section may—
 
 Cancellation Payment and Notice of Cancellation Ceiling.—(1) If a contract under this section provides that performance is subject to an appropriation being made, it also may provide for a cancellation payment to be made to the contractor if the appropriation is not made.
 
-(2) Before awarding a contract under this section containing a cancellation ceiling of more than $100,000,000, the Administrator shall give written notice of the proposed contract and cancellation ceiling to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Public Works and Transportation of the House of Representatives. The contract may not be awarded until the end of the 30-day period beginning on the date of the notice.
+(2) Before awarding a contract under this section containing a cancellation ceiling of more than $100,000,000, the Administrator shall give written notice of the proposed contract and cancellation ceiling to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives. The contract may not be awarded until the end of the 30-day period beginning on the date of the notice.
 
 (f)
 
@@ -62,11 +62,13 @@ Ending Contracts.—A contract made under this section shall be ended if amounts
 
 &emsp;(3) amounts appropriated for payments to end the contract.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1108.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1108; Pub. L. 104–106, div. E, title LVI, §5606, Feb. 10, 1996, 110 Stat. 700; Pub. L. 104–287, §5(9), Oct. 11, 1996, 110 Stat. 3389.)
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -128,7 +130,13 @@ In subsection (e)(2), the words “a clause setting forth” are omitted as surp
 
 In subsection (f), the words “canceled or” and “cancellation or” are omitted as being included in “ended” and “ending”, respectively.
 
-#### Change of Name
+#### Amendments
 
-Committee on Public Works and Transportation of House of Representatives treated as referring to Committee on Transportation and Infrastructure of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+1996—Subsec. (a). Pub. L. 104–106 struck out “or a contract to purchase property to which section 111 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 759) applies” after “improvement to real property”.
+
+Subsec. (e)(2). Pub. L. 104–287 substituted “Transportation and Infrastructure” for “Public Works and Transportation”.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–106 effective 180 days after Feb. 10, 1996, see section 5701 of Pub. L. 104–106, set out as an Effective Date note under section 1401 of Title 40, Public Buildings, Property, and Works.
 

@@ -14,7 +14,7 @@
 
 #### (c) Adoption
 
-Within 540 days after January 2, 1974, the executive committee of the Association shall prepare and submit a final system plan for the approval of the Board of Directors of the Association. A copy of such submission shall be simultaneously presented to the Commission. The submission shall reflect evaluation of all responses and summaries of responses received, testimony at any public hearings, and the results of additional study and review. Within 30 days thereafter, the Board of Directors of the Association shall by a majority vote of all its members approve a final system plan which meets all of the requirements of section 716 of this title.
+Within 540 days after January 2, 1974, the executive committee of the Association shall prepare and submit a final system plan for the approval of the Board of Directors of the Association. A copy of such submission shall be simultaneously presented to the Commission. Thesubmission shall reflect evaluation of all responses and summaries of responses received, testimony at any public hearings, and the results of additional study and review. Within 30 days thereafter, the Board of Directors of the Association shall by a majority vote of all its members approve a final system plan which meets all of the requirements of section 716 of this title.
 
 #### (d) Review of Commission
 
@@ -38,6 +38,10 @@ Subsec. (b). Pub. L. 94–5, §4(a), designated existing provisions as par. (1) 
 
 Subsec. (c). Pub. L. 93–488, §1(b), substituted “540” for “420”.
 
+#### Abolition of Special Court, Regional Rail Reorganization Act of 1973, and Transfer of Functions
+
+Special court abolished and all jurisdiction and functions transferred to United States District Court for District of Columbia, see section 719(b)(2) of this title.
+
 #### Abolition of Interstate Commerce Commission and Transfer of Functions
 
 Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by section 702 of Title 49, Transportation, and section 101 of Pub. L. 104–88, set out as a note under section 701 of Title 49. References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under section 701 of Title 49.
@@ -48,5 +52,5 @@ See section 1341 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 702, 716, 721 of this title.
+This section is referred to in sections 702, 716, 719, 721 of this title.
 

@@ -4,7 +4,7 @@
 
 (b) The Postal Service may permit the transmission in the mails, under such rules and regulations as it shall prescribe as to preparation and packing, of any such articles which are not outwardly or of their own force dangerous or injurious to life, health, or property.
 
-(c) The Postal Service is authorized and directed to permit the transmission in the mails, under regulations to be prescribed by it, of live scorpions which are to be used for purposes of medical research or for the manufacture of antivenom. Such regulations shall include such provisions with respect to the packaging of such live scorpions for transmission in the mails as the Postal Service deems necessary or desirable for the protection of Postal Service personnel and of the public generally and for ease of handling by such personnel and by any individual connected with such research or manufacture. Nothing contained in this paragraph shall be construed to authorize the transmission in the mails of live scorpions by means of aircraft engaged in the carriage of passengers for compensation or hire.
+(c) The Postal Service is authorized and directed to permit the transmission in the mails, under regulations to be prescribed by it, of live scorpions which are to be used for purposes of medical research or for the manufacture of antivenom. Such regulations shall include such provisions with respect to the packaging of such live scorpions for transmission in the mails as the Postal Service deems necessary or desirable for the protection of Postal Service personnel and of the public generally and for ease of handling by such personnel and by any individual connected with such research or manufacture. Nothing contained in this paragraph shall beconstrued to authorize the transmission in the mails of live scorpions by means of aircraft engaged in the carriage of passengers for compensation or hire.
 
 (d) The transmission in the mails of poisonous drugs and medicines may be limited by the Postal Service to shipments of such articles from the manufacturer thereof or dealer therein to licensed physicians, surgeons, dentists, pharmacists, druggists, cosmetologists, barbers, and veterinarians under such rules and regulations as it shall prescribe.
 
@@ -12,13 +12,13 @@
 
 (f) All spirituous, vinous, malted, fermented, or other intoxicating liquors of any kind are nonmailable and shall not be deposited in or carried through the mails.
 
-(g) All knives having a blade which opens automatically (1) by hand pressure applied to a button or other device in the handle of theknife, or (2) by operation of inertia, gravity, or both, are nonmailable and shall not be deposited in or carried by the mails or delivered by any officer or employee of the Postal Service. Such knives may be conveyed in the mails, under such regulations as the Postal Service shall prescribe—
+(g) All knives having a blade which opens automatically (1) by hand pressure applied to a button or other device in the handle of the knife, or (2) by operation of inertia, gravity, or both, are nonmailable and shall not be deposited in or carried by the mails or delivered by any officer or employee of the Postal Service. Such knives may be conveyed in the mails, under such regulations as the Postal Service shall prescribe—
 
 &emsp;(1) to civilian or Armed Forces supply or procurement officers and employees of the Federal Government ordering, procuring, or purchasing such knives in connection with the activities of the Federal Government;
 
-&emsp;(2) to supply or procurement officers of the National Guard, the Air National Guard, or militia of a State, Territory, or the District of Columbia ordering, procuring, or purchasing such knives in connection with the activities of such organizations;
+&emsp;(2) to supply or procurement officers of the National Guard, the Air National Guard, or militia of a State ordering, procuring, or purchasing such knives in connection with the activities of such organizations;
 
-&emsp;(3) to supply or procurement officers or employees of the municipal government of the District of Columbia or of the government of any State or Territory, or any county, city, or other political subdivision of a State or Territory, ordering, procuring, or purchasing such knives in connection with the activities of such government; and
+&emsp;(3) to supply or procurement officers or employees of any State, or any political subdivision of a State or Territory, ordering, procuring, or purchasing such knives in connection with the activities of such government; and
 
 &emsp;(4) to manufacturers of such knives or bona fide dealers therein in connection with any shipment made pursuant to an order from any person designated in paragraphs (1), (2), and (3).
 
@@ -36,7 +36,9 @@ Whoever knowingly deposits for mailing or delivery, or knowingly causes to be de
 
 Whoever is convicted of any crime prohibited by this section, which has resulted in the death of any person, shall be subject also to the death penalty or to imprisonment for life.
 
-(June 25, 1948, ch. 645, 62 Stat. 781; May 8, 1952, ch. 246, 66 Stat. 67; June 29, 1955, ch. 224, 69 Stat. 191; Sept. 2, 1957, Pub. L. 85–268, 71 Stat. 594; Aug. 12, 1958, Pub. L. 85–623, §5, 72 Stat. 562; Aug. 12, 1970, Pub. L. 91–375, §6(j)(25), 84 Stat. 779; Dec. 15, 1971, Pub. L. 92–191, §1, 85 Stat. 647; Oct. 27, 1986, Pub. L. 99–570, title X, §10003, 100 Stat. 3207–167; Sept. 13, 1994, Pub. L. 103–322, title VI, §60003(a)(7), title XXXIII, §330016(1)(H), 108 Stat. 1969, 2147.)
+(j) For purposes of this section, the term “State” includes a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
+
+(June 25, 1948, ch. 645, 62 Stat. 781; May 8, 1952, ch. 246, 66 Stat. 67; June 29, 1955, ch. 224, 69 Stat. 191; Sept. 2, 1957, Pub. L. 85–268, 71 Stat. 594; Aug. 12, 1958, Pub. L. 85–623, §5, 72 Stat. 562; Aug. 12, 1970, Pub. L. 91–375, §6(j)(25), 84 Stat. 779; Dec. 15, 1971, Pub. L. 92–191, §1, 85 Stat. 647; Oct. 27, 1986, Pub. L. 99–570, title X, §10003, 100 Stat. 3207–167; Sept. 13, 1994, Pub. L. 103–322, title VI, §60003(a)(7), title XXXIII, §330016(1)(H), 108 Stat. 1969, 2147; Oct. 11, 1996, Pub. L. 104–294, title VI, §607(g), 110 Stat. 3511.)
 
 #### Historical and Revision Notes
 
@@ -49,6 +51,12 @@ The maximum of “twenty years” was reduced to “ten years” as more consist
 Minor changes were made in phraseology.
 
 #### Amendments
+
+1996—Subsec. (g)(2). Pub. L. 104–294, §607(g)(1), substituted “State” for “State, Territory, or the District of Columbia”.
+
+Subsec. (g)(3). Pub. L. 104–294, §607(g)(2), which directed substitution of “any State, or any political subdivision of a State” for “the municipal government of the District of Columbia or of the government of any State or territory, or any county, city, or other political subdivision of a State”, was executed by making the substitution in text which contained the word “Territory” rather than “territory”, to reflect the probable intent of Congress.
+
+Subsec. (j). Pub. L. 104–294, §607(g)(3), added subsec. (j) at end.
 
 1994—Pub. L. 103–322, §330016(1)(H), substituted “fined under this title” for “fined not more than $1,000” in first undesignated par. after subsec. (i).
 

@@ -6,7 +6,7 @@ It shall be the duty of the Secretary of the Treasury promptly to notify the Sec
 
 #### Amendments
 
-1994—Pub. L. 103–465 amended last sentence generally. Prior to amendment, last sentence read as follows:“This section shall not apply to nursery stock that arrives from, or is imported from, Canada.”
+1994—Pub. L. 103–465 amended last sentence generally. Prior to amendment, last sentence read as follows: “This section shall not apply to nursery stock that arrives from, or is imported from, Canada.”
 
 1988—Pub. L. 100–449 inserted at end “This section shall not apply to nursery stock that arrives from, or is imported from, Canada.”
 

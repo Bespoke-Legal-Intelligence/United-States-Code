@@ -78,7 +78,7 @@ There are authorized to be appropriated such sums as may be necessary to carry o
 
 (4) The Secretary shall develop, in consultation with the Physician Payment Review Commission, the Congressional Budget Office, and the Congressional Research Service of the Library of Congress, a system for providing to each of such entities on a quarterly basis summary data on aggregate expenditures under this part by type of service and by type of provider. Such data shall be provided not later than 90 days after the end of each quarter (for quarters beginning with the calendar quarter ending on March 31, 1989).
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1845, as added and amended Apr. 7, 1986, Pub. L. 99–272, title IX, §9305, 100 Stat. 190; Oct. 21, 1986, Pub. L. 99–509, title IX, §§9331(e), 9344(a)(1), 100 Stat. 2021, 2042; Dec. 22, 1987, Pub. L. 100–203, title IV, §§4045(b), 4083(a)(1), (c)(1), 4085(a), (i)(8), 101 Stat. 1330–87, 1330–129, 1330–130, 1330–132; July 1, 1988, Pub. L.100–360, title IV, §411(i)(4)(A), 102 Stat. 788; Nov. 10, 1988, Pub. L. 100–647, title VIII, §8425(a), 102 Stat. 3803; Nov. 5, 1990, Pub. L. 101–508, title IV, §§4002(g)(3), 4118(j)(1), 104 Stat. 1388–37, 1388–70; Oct. 31, 1994, Pub. L. 103–432, title I, §126(g)(8), 108 Stat. 4416.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1845, as added and amended Apr. 7, 1986, Pub. L. 99–272, title IX, §9305, 100 Stat. 190; Oct. 21, 1986, Pub. L. 99–509, title IX, §§9331(e), 9344(a)(1), 100 Stat. 2021, 2042; Dec. 22, 1987, Pub. L. 100–203, title IV, §§4045(b), 4083(a)(1), (c)(1), 4085(a), (i)(8), 101 Stat. 1330–87, 1330–129, 1330–130, 1330–132; July 1, 1988, Pub. L. 100–360, title IV, §411(i)(4)(A), 102 Stat. 788; Nov. 10, 1988, Pub. L. 100–647, title VIII, §8425(a), 102 Stat. 3803; Nov. 5, 1990, Pub. L. 101–508, title IV, §§4002(g)(3), 4118(j)(1), 104 Stat. 1388–37, 1388–70; Oct. 31, 1994, Pub. L. 103–432, title I, §126(g)(8), 108 Stat. 4416.)
 
 #### References in Text
 
@@ -176,7 +176,7 @@ Report.—By not later than April 1, 1991, the Commission shall submit a report 
 
 #### Expansion of Relative Value Scale (RVS) Study
 
-Section 4056(b), formerly §4055(b), of Pub. L. 100–203, as renumbered and amended by Pub. L. 100–360, title IV, §411(f)(13)(B), (14), July 1, 1988, 102 Stat. 781; Pub. L. 101–508, title IV, §4118(g)(5), Nov. 5, 1990, 104 Stat. 1388–70, provided that:
+Section 4056(b), formerly §4055(b), of Pub. L. 100–203, as renumbered and amended by Pub. L. 100–360, title IV,§411(f)(13)(B), (14), July 1, 1988, 102 Stat. 781; Pub. L. 101–508, title IV, §4118(g)(5), Nov. 5, 1990, 104 Stat. 1388–70, provided that:
 
 “(1)
 

@@ -8,7 +8,7 @@ For purposes of this part:
 
 &emsp;&emsp;(B) which, to any significant extent, is distributed in commerce for personal use or consumption by individuals;
 
-> &emsp;without regard to whether such article of such type is in fact distributed in commerce for personal use or consumption by an individual, except that such term includes fluorescent lamp ballasts, general service fluorescentlamps, incandescent reflector lamps, showerheads, faucets, water closets, and urinals distributed in commerce for personal or commercial use or consumption..<sup>1</sup>
+> &emsp;without regard to whether such article of such type is in fact distributed in commerce for personal use or consumption by an individual, except that such term includes fluorescent lamp ballasts, general service fluorescent lamps, incandescent reflector lamps, showerheads, faucets, water closets, and urinals distributed in commerce for personal or commercial use or consumption..<sup>1</sup>
 
 &emsp;(2) The term “covered product” means a consumer product of a type specified in section 6292 of this title.
 
@@ -46,7 +46,7 @@ For purposes of this part:
 
 &emsp;(B) A consumer product bears a private label if (i) such product (or its container) is labeled with the brand or trademark of a person other than a manufacturer of such product, (ii) the person with whose brand or trademark such product (or container) is labeled has authorized or caused such product to be so labeled, and (iii) the brand or trademark of a manufacturer of such product does not appear on such label.
 
-&emsp;(16) The terms “to distribute in commerce” and “distribution in commerce” mean to sell in commerce, to import, to introduce or deliver for introduction into commerce, or to hold for sale or distribution after introduction into commerce.
+&emsp;(16) The terms “to distribute in commerce” and “distribution in commerce” mean to sellin commerce, to import, to introduce or deliver for introduction into commerce, or to hold for sale or distribution after introduction into commerce.
 
 &emsp;(17) The term “commerce” means trade, traffic, commerce, or transportation—
 
@@ -124,7 +124,7 @@ For purposes of this part:
 
 &emsp;&emsp;(C) heat pump type units, with a maximum current rating of 24 amperes at a voltage no greater than 250 volts, which are products designed to transfer thermal energy from one temperature level to a higher temperature level for the purpose of heating water, including all ancillary equipment such as fans, storage tanks, pumps, or controls necessary for the device to perform its function.
 
-&emsp;(28) The term “weatherized warm air furnace or boiler” means a furnace or boiler designed for installation outdoors, approved for resistance to wind, rain, and snow, and supplied with its own venting system.
+&emsp;(28) The term “weatherized warm air furnace or boiler” means a furnace or boiler designedfor installation outdoors, approved for resistance to wind, rain, and snow, and supplied with its own venting system.
 
 &emsp;(29)(A) The term “fluorescent lamp ballast” means a device which is used to start and operate fluorescent lamps by providing a starting voltage and current and limiting the current during normal operation.
 
@@ -146,7 +146,7 @@ For purposes of this part:
 
 &emsp;(H) The term “nominal lamp watts” means the wattage at which a fluorescent lamp is designed to operate.
 
-&emsp;(I) The term “power factor” means the power input divided by the product of ballastinput voltage and input current of a fluorescent lamp ballast, as measured under test conditions specified in ANSI standard C82.2–1984, or as may be prescribed by the Secretary.
+&emsp;(I) The term “power factor” means the power input divided by the product of ballast input voltage and input current of a fluorescent lamp ballast, as measured under test conditions specified in ANSI standard C82.2–1984, or as may be prescribed by the Secretary.
 
 &emsp;(J) The term “power input” means the power consumption in watts of a ballast and fluorescent lamp or lamps, as determined in accordance with the test procedures specified in ANSI standard C82.2–1984, or as may be prescribed by the Secretary.
 
@@ -186,7 +186,7 @@ For purposes of this part:
 
 &emsp;&emsp;(i) Any lamp (commonly referred to as lower wattage nonreflector general service lamps, including any tungsten-halogen lamp) that has a rated wattage between 30 and 199 watts, has an E26 medium screw base, has a rated voltage or voltage range that lies at least partially within 115 and 130 volts, and is not a reflector lamp.
 
-&emsp;&emsp;(ii) Any lamp (commonly referred to as a reflector lamp) which is not colored or designed for rough or vibration service applications, that contains an inner reflective coating on the outer bulb to direct the light, an R, PAR, or similar bulb shapes (excluding ER or BR) with E26 medium screw bases, a rated voltage or voltage range that lies at least partially within 115 and 130 volts, a diameter which exceeds 2.75 inches, and is either—
+&emsp;&emsp;(ii) Any lamp (commonly referred to as a reflector lamp) which is not colored or designed for rough or vibration service applications, that contains an inner reflective coating on the outer bulb to direct the light, an R, PAR, or similar bulb shapes (excludingER or BR) with E26 medium screw bases, a rated voltage or voltage range that lies at least partially within 115 and 130 volts, a diameter which exceeds 2.75 inches, and is either—
 
 &emsp;&emsp;&emsp;(I) a low(er) wattage reflector lamp which has a rated wattage between 40 and 205 watts; or
 
@@ -300,7 +300,7 @@ Par. (6)(A). Pub. L. 102–486, §123(b)(3)(A), inserted “, or, in the case o
 
 Par. (6)(B). Pub. L. 102–486, §123(b)(3)(B)(i), substituted “(15), (16), (17), and (19)” for “and (14)”.
 
-Par. (7). Pub. L. 102–486, §123(b)(4), inserted “, and in the case of showerheads, faucets, water closets, and urinals, the aggregate retail cost of water and wastewatertreatment services likely to be incurred annually,” after “to be consumed annually”.
+Par. (7). Pub. L. 102–486, §123(b)(4), inserted “, and in the case of showerheads, faucets, water closets, and urinals, the aggregate retail cost of water and wastewater treatment services likely to be incurred annually,” after “to be consumed annually”.
 
 Pars. (30), (31). Pub. L. 102–486, §123(b)(5), added pars. (30) and (31).
 

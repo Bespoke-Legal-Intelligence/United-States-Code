@@ -44,7 +44,7 @@ The Institute is empowered to award grants and enter into cooperative agreements
 
 &emsp;(4) The Institute may enter into contracts with Federal agencies to carry out the purposes of this chapter.
 
-&emsp;(5) Each application for funding by a State or local court shall be approved, consistentwith State law, by the State's supreme court, or its designated agency or council, which shall receive, administer, and be accountable for all funds awarded by the Institute to such courts.
+&emsp;(5) Each application for funding by a State or local court shall be approved, consistent with State law, by the State's supreme court, or its designated agency or council, which shall receive, administer, and be accountable for all funds awarded by the Institute to such courts.
 
 #### (c) Permissible uses of funds
 
@@ -98,7 +98,7 @@ The Institute shall monitor and evaluate, or provide for independent evaluations
 
 The Institute shall provide for an independent study of the financial and technical assistance programs under this chapter.
 
-(Pub. L. 98–620, title II, §206, Nov. 8, 1984, 98 Stat. 3340; Pub. L. 100–690, title VII, §7321(b)(3), (4),Nov. 18, 1988, 102 Stat. 4466, 4467; Pub. L. 100–702, title VI, §§603, 604, Nov. 19, 1988, 102 Stat. 4653; Pub. L. 102–528, §§2, 3(2), Oct. 27, 1992, 106 Stat. 3461, 3462; Pub. L. 102–572, title VIII, §§802, 803(b), Oct. 29, 1992, 106 Stat. 4515, 4516.)
+(Pub. L. 98–620, title II, §206, Nov. 8, 1984, 98 Stat. 3340; Pub. L. 100–690, title VII, §7321(b)(3), (4), Nov. 18, 1988, 102 Stat. 4466, 4467; Pub. L. 100–702, title VI, §§603, 604, Nov. 19, 1988, 102 Stat. 4653; Pub. L. 102–528, §§2, 3(2), Oct. 27, 1992, 106 Stat. 3461, 3462; Pub. L. 102–572, title VIII, §§802, 803(b), Oct. 29, 1992, 106 Stat. 4515, 4516.)
 
 #### Amendments
 

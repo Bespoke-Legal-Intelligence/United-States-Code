@@ -10,13 +10,23 @@
 
 &emsp;(4) if, on the date specified for his discharge in clause (1), he has completed at least eighteen years of active service, be retained on active duty and retired on the last day of the month in which he completes twenty years of active service, unless earlier removed under another provision of law.
 
-(b) When the needs of the service require, the Secretary may direct a selection board, which has been convened under section 251 of this title, to recommend for continuation on active duty for terms of not less than two nor more than four years a designated number of officers of the grade of lieutenant who would otherwise be discharged or retired under this section. When so directed, the board shall recommend for continuation on active duty those officers under consideration who are, in the opinion of the board, best qualified for continuation. Each officer so recommended may, with the approval of the Secretary, and notwithstanding subsection (a), be continued on active duty for the term recommended. Upon the completion of such a term he shall, unless selected for further continuation, be honorably discharged with severance pay computed under section 286 of this title, or, if eligible for retirement under any law, be retired.
+(b)(1) When the needs of the service require, the Secretary may direct a selection board, which has been convened under section 251 of this title, to recommend for continuation on active duty for terms of not less than two nor more than four years a designated number of officers of the grade of lieutenant who would otherwise be discharged or retired under this section. When so directed, the board shall recommend for continuation on active duty those officers under consideration who are, in the opinion of the board, best qualified for continuation. Each officer so recommended may, with the approval of the Secretary, and notwithstanding subsection (a), be continued on active duty for the term recommended.
+
+(2) Upon the completion of a term under paragraph (1), an officer shall, unless selected for further continuation—
+
+&emsp;(A) except as provided in subparagraph (B), be honorably discharged with severance pay computed under section 286 of this title;
+
+&emsp;(B) in the case of an officer who has completed at least 18 years of active service on the date of discharge under subparagraph (A), be retained on active duty and retired on the last day of the month in which the officer completes 20 years of active service, unless earlier removed under another provision of law; or
+
+&emsp;(C) if, on the date specified for the officer's discharge under this section, the officer has completed at least 20 years of active service or is eligible for retirement under any law, be retired on that date.
 
 (c) Each officer who has been continued on active duty under subsection (b) shall, unless earlier removed from active duty, be retired on the last day of the month in which he completes twenty years of active service.
 
-(Added Pub. L. 88–130, §1(10)(C), Sept. 24, 1963, 77 Stat. 184; amended Pub. L. 93–283, §1(6), May 14, 1974, 88 Stat. 140; Pub. L. 94–546, §1(22), Oct. 18, 1976, 90 Stat. 2520; Pub. L. 97–295, §2(9), Oct. 12, 1982, 96 Stat. 1302.)
+(Added Pub. L. 88–130, §1(10)(C), Sept. 24, 1963, 77 Stat. 184; amended Pub. L. 93–283, §1(6), May 14, 1974, 88 Stat. 140; Pub. L. 94–546, §1(22), Oct. 18, 1976, 90 Stat. 2520; Pub. L. 97–295, §2(9), Oct. 12, 1982, 96 Stat. 1302; Pub. L. 104–324, title II, §205, Oct. 19, 1996, 110 Stat. 3907.)
 
 #### Amendments
+
+1996—Subsec. (b). Pub. L. 104–324 designated existing provisions as par. (1), struck out “Upon the completion of such a term he shall, unless selected for further continuation, be honorably discharged with severance pay computed under section 286 of this title, or, if eligible for retirement under any law, be retired.” at end of par. (1), and added par. (2).
 
 1982—Subsec. (b). Pub. L. 97–295 substituted “of this title” for “of this chapter” after “section 251”.
 

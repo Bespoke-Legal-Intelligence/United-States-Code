@@ -24,11 +24,11 @@ For purposes of section 300bb–1 of this title, the term “continuation covera
 
 &emsp;&emsp;&emsp;In the case of a qualifying event not described in section 300bb–3(2) of this title, the date which is 36 months after the date of the qualifying event.
 
-> &emsp;&emsp;In the case of an individual who is determined, under title II or XVI of the Social Security Act \[42 U.S.C. 401 et seq., 1381 et seq.\], to have been disabled at the time of a qualifying event described in section 300bb–3(2) of this title, any reference in clause (i) or (ii) to 18 months with respect to such event is deemed a reference to 29 months, but only if the qualified beneficiary has provided notice of such determination under section 300bb–6(3) of this title before the end of such 18 months.
+#### (iv) Medicare entitlement followed by qualifying event
 
-#### (iv) <sup>2</sup> Qualifying event involving medicare entitlement
+&emsp;&emsp;&emsp;In the case of a qualifying event described in section 300bb–3(2) of this title that occurs less than 18 months after the date the covered employee became entitled to benefits under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\], the period of coverage for qualified beneficiaries other than the covered employee shall not terminate under this subparagraph before the close of the 36-month period beginning on the date the covered employee became so entitled.
 
-&emsp;&emsp;&emsp;In the case of an event described in section 300bb–3(4) of this title (without regard to whether such event is a qualifying event), the period of coverage for qualified beneficiaries other than the covered employee for such event or any subsequent qualifying event shall not terminate before the close of the 36-month period beginning on the date the covered employee becomes entitled to benefits under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\].
+> &emsp;&emsp;In the case of a qualified beneficiary who is determined, under title II or XVI of the Social Security Act \[42 U.S.C. 401 et seq., 1381 et seq.\], to have been disabled at any time during the first 60 days of continuation coverage under this subchapter, any reference in clause (i) or (ii) to 18 months is deemed a reference to 29 months (with respect to all qualified beneficiaries), but only if the qualified beneficiary has provided notice of such determination under section 300bb–6(3) of this title before the end of such 18 months.
 
 #### (B) End of plan
 
@@ -42,13 +42,13 @@ For purposes of section 300bb–1 of this title, the term “continuation covera
 
 &emsp;&emsp;The date on which the qualified beneficiary first becomes, after the date of the election—
 
-&emsp;&emsp;&emsp;(i) covered under any other group health plan (as an employee or otherwise) which does not contain any exclusion or limitation with respect to any preexisting condition of such beneficiary, or
+&emsp;&emsp;&emsp;(i) covered under any other group health plan (as an employee or otherwise) which does not contain any exclusion or limitation with respect to any preexisting condition of such beneficiary (other than such an exclusion or limitation which does not apply to (or is satisfied by) such beneficiary by reason of chapter 100 of title 26, part 7 of subtitle B of title I of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1181 et seq.\], or subchapter XXV of this chapter), or
 
 &emsp;&emsp;&emsp;(ii) entitled to benefits under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\].
 
 #### (E) Termination of extended coverage for disability
 
-&emsp;&emsp;In the case of a qualified beneficiary who is disabled at the time of a qualifying event described in section 300bb–3(2) of this title, the month that begins more than 30 days after the date of the final determination under title II or XVI of the Social Security Act \[42 U.S.C. 401 et seq., 1381 et seq.\] that the qualified beneficiary is no longer disabled.
+&emsp;&emsp;In the case of a qualified beneficiary who is disabled at any time during the first 60 days of continuation coverage under this subchapter, the month that begins more than 30 days after the date of the final determination under title II or XVI of the Social Security Act \[42 U.S.C. 401 et seq., 1381 et seq.\] that the qualified beneficiary is no longer disabled.
 
 #### (3) Premium requirements
 
@@ -58,7 +58,7 @@ For purposes of section 300bb–1 of this title, the term “continuation covera
 
 &emsp;&emsp;(B) may, at the election of the payor, be made in monthly installments.
 
-> &emsp;In no event may the plan require the payment of any premium before the day which is 45 days after the day on which the qualified beneficiary made the initial election for continuation coverage.<sup>3</sup> In the case of an individual described in the last sentence of paragraph (2)(A), any reference in subparagraph (A) of this paragraph to “102 percent” is deemed a reference to “150 percent” for any month after the 18th month of continuation coverage described in clause (i) or (ii) of paragraph (2)(A).
+> &emsp;In no event may the plan require the payment of any premium before the day which is 45 days after the day on which the qualified beneficiary made the initial election for continuation coverage.<sup>2</sup> In the case of an individual described in the last sentence of paragraph (2)(A), any reference in subparagraph (A) of this paragraph to “102 percent” is deemed a reference to “150 percent” for any month after the 18th month of continuation coverage described in clause (i) or (ii) of paragraph (2)(A).
 
 #### (4) No requirement of insurability
 
@@ -68,13 +68,29 @@ For purposes of section 300bb–1 of this title, the term “continuation covera
 
 &emsp;In the case of a qualified beneficiary whose period of continuation coverage expires under paragraph (2)(A), the plan must, during the 180-day period ending on such expiration date, provide to the qualified beneficiary the option of enrollment under a conversion health plan otherwise generally available under the plan.
 
-(July 1, 1944, ch. 373, title XXII, §2202, as added Apr. 7, 1986, Pub. L. 99–272, title X, §10003(a), 100 Stat. 233; amended Oct. 22, 1986, Pub. L. 99–514, title XVIII, §1895(d)(1)(C), (2)(C), (3)(C), (4)(C), 100 Stat. 2937–2939; Dec. 19, 1989, Pub. L. 101–239, title VI, §§6702(a), (b), 6801(b)(1)(A), (2)(A), (3)(A), 103 Stat. 2295, 2297.)
+(July 1, 1944, ch. 373, title XXII, §2202, as added Apr. 7, 1986, Pub. L. 99–272, title X, §10003(a), 100 Stat. 233; amended Oct. 22, 1986, Pub. L. 99–514, title XVIII, §1895(d)(1)(C), (2)(C), (3)(C), (4)(C), 100 Stat. 2937–2939; Dec. 19, 1989, Pub. L. 101–239, title VI, §§6702(a), (b), 6801(b)(1)(A), (2)(A), (3)(A), 103 Stat. 2295, 2297; Aug. 20, 1996, Pub. L. 104–188, title I, §1704(g)(1)(C), 110 Stat. 1880; Aug. 21, 1996,Pub. L. 104–191, title IV, §421(a)(1), 110 Stat. 2087.)
 
 #### References in Text
 
 The Social Security Act, referred to in par. (2)(A), (D)(ii), and (E), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles II, XVI, and XVIII of the Social Security Act are classified generally to subchapters II (§401 et seq.), XVI (§1381 et seq.), and XVIII (§1395 et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
+The Employee Retirement Income Security Act of 1974, referred to in par. (2)(D)(i), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829, as amended. Part 7 of subtitle B of title I of the Act is classified generally to part 7 (§1181 et seq.) of subtitle B of subchapter I of chapter 18 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
+
 #### Amendments
+
+1996—Par. (2)(A). Pub. L. 104–191, §421(a)(1)(A)(ii)(IV), inserted “(with respect to all qualified beneficiaries)” after “29 months” in concluding provisions.
+
+Pub. L. 104–191, §421(a)(1)(A)(ii)(III), which directed amendment of concluding provisions by striking “with respect to such event,”, was executed by striking that phrase, which did not contain a comma at end, before “is deemed a reference” to reflect the probable intent of Congress.
+
+Pub. L. 104–191, §421(a)(1)(A)(ii)(I), (II), in concluding provisions, substituted “a qualified beneficiary” for “an individual” and “at any time during the first 60 days of continuation coverage under this subchapter” for “at the time of a qualifying event described in section 300bb–3(2) of this title”.
+
+Pub. L. 104–191, §421(a)(1)(A)(i), transferred sentence following cl. (iii) to appear as concluding provisions following cl. (iv).
+
+Par. (2)(A)(iv). Pub. L. 104–188 amended heading and text of cl. (iv) generally. Prior to amendment, text read as follows: “In the case of an event described in section 300bb–3(4) of this title (without regard to whether such event is a qualifying event), the period of coverage for qualified beneficiaries other than the covered employee for such event or any subsequent qualifying event shall not terminate before the close of the 36-month period beginning on the date the covered employee becomes entitled to benefits under title XVIII of the Social Security Act.”
+
+Par. (2)(D)(i). Pub. L. 104–191, §421(a)(1)(B), inserted “(other than such an exclusion or limitation which does not apply to (or is satisfied by) such beneficiary by reason of chapter 100 of title 26, part 7 of subtitle B of title I of the Employee Retirement Income Security Act of 1974, or subchapter XXV of this chapter)” before “, or”.
+
+Par. (2)(E). Pub. L. 104–191, §421(a)(1)(C), substituted “at any time during the first 60 days of continuation coverage under this subchapter” for “at the time of a qualifying event described in section 300bb–3(2) of this title”.
 
 1989—Par. (2)(A). Pub. L. 101–239, §6702(a)(1), inserted after cl. (iii) “In the case of an individual who is determined, under title II or XVI of the Social Security Act, to have been disabled at the time of a qualifying event described in section 300bb–3(2) of this title, any reference in clause (i) or (ii) to 18 months with respect to such event is deemed a reference to 29 months, but only if the qualified beneficiary has provided notice of such determination under section 300bb–6(3) of this title before the end of such 18 months.”
 
@@ -104,6 +120,12 @@ Par. (2)(D). Pub. L. 99–514, §1895(d)(4)(C)(ii), (iii), substituted “Group 
 
 Par. (2)(E). Pub. L. 99–514, §1895(d)(4)(C)(i), struck out subpar. (E), remarriage of spouse, which read as follows: “In the case of an individual who is a qualified beneficiary by reason of being the spouse of a covered employee, the date on which the beneficiary remarries and becomes covered under a group health plan.”
 
+#### Effective Date of 1996 Amendments
+
+Amendment by Pub. L. 104–191 effective Jan. 1, 1997, regardless of whether the qualifying event occurred before, on, or after such date, see section 421(d) of Pub. L. 104–191, set out as a note under section 4980B of Title 26, Internal Revenue Code.
+
+Amendment by Pub. L. 104–188 applicable to plan years beginning after Dec. 31, 1989, see section 1704(g)(2) of Pub. L. 104–188, set out as a note under section 4980B of Title 26.
+
 #### Effective Date of 1989 Amendment
 
 Section 6702(d) of Pub. L. 101–239 provided that: “The amendments made by this section \[amending this section and section 300bb–6 of this title\] shall apply to plan years beginning on or after the date of the enactment of this Act \[Dec. 19, 1989\], regardless of whether the qualifying event occurred before, on, or after such date.”
@@ -128,7 +150,5 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 <i><sup>1</sup></i><i> So in original. This subchapter is not divided into parts.</i>
 
-<i><sup>2</sup></i><i> So in original. Clause (iv) probably should immediately follow clause (iii).</i>
-
-<i><sup>3</sup></i><i> See 1989 Amendment note below.</i>
+<i><sup>2</sup></i><i> See 1989 Amendment note below.</i>
 

@@ -2,7 +2,7 @@
 
 #### (a) Study and investigation by Secretary of Labor
 
-The Secretary of Labor shall, during the 2–year period beginning on September 2, 1974, conduct a full and complete study and investigation of the steps necessary to be taken to insure that professional, scientific, and technical personnel and others working in associated occupations employed under Federal procurement, construction, or research contracts or grants will, to the extent feasible, be protected against forfeitures of pension or retirement rights or benefits, otherwise provided, as a consequence of job transfers or loss of employment resulting from terminations or modifications of Federal contracts, grants, or procurement policies. The Secretary of Labor shall report the results of his study and investigation to the Congress within 2 years after September 2, 1974. The Secretary of Labor is authorized, to the extent provided by law, to obtain the services of private research institutions and such other persons by contract or other arrangement as he determines necessary in carrying out the provisions of this section.
+The Secretary of Labor shall, during the 2–year period beginning on September 2, 1974, conduct a full and complete study and investigation of the steps necessary to be taken to insure that professional, scientific, and technical personnel and others working in associated occupations employed under Federal procurement, construction, or research contracts or grants will, to the extent feasible, be protected against forfeitures of pension or retirement rights or benefits, otherwise provided, as a consequence of job transfers or loss of employment resulting from terminations or modifications of Federal contracts, grants, or procurement policies. The Secretary of Labor shall report the results of hisstudy and investigation to the Congress within 2 years after September 2, 1974. The Secretary of Labor is authorized, to the extent provided by law, to obtain the services of private research institutions and such other persons by contract or other arrangement as he determines necessary in carrying out the provisions of this section.
 
 #### (b) Consultation
 
@@ -60,9 +60,9 @@ Within 1 year after the date on which he submits his report to the Congress unde
 
 #### Change of Name
 
-Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Economic and Educational Opportunities of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Fifth Congress, Jan. 7, 1997.
 
 Committee on Human Resources of Senate changed to Committee on Labor and Human Resources of Senate, effective Mar. 7, 1979, by Senate Resolution No. 30, 96th Congress. See, also, Rule XXV of Standing Rules of Senate adopted Nov. 14, 1979.
 
-Committee on Labor and Public Welfare of Senate abolished and replaced by Committee on Human Resources of Senate, effective Feb. 11, 1977. See Rule XXV of Standing Rules of Senate, as amended by SenateResolution No. 4 (popularly cited as the “Committee System Reorganization Amendments of 1977”), approved Feb. 4, 1977.
+Committee on Labor and Public Welfare of Senate abolished and replaced by Committee on Human Resources of Senate, effective Feb. 11, 1977. See Rule XXV of Standing Rules of Senate, as amended by Senate Resolution No. 4 (popularly cited as the “Committee System Reorganization Amendments of 1977”), approved Feb. 4, 1977.
 

@@ -12,7 +12,7 @@
 
 (b) A claim may be allowed under subsection (a) only if—
 
-&emsp;(1) it is presented in writing within two years after it accrues, except that if the claim accrues in time of war or armed conflict or if such a war or armed conflict intervenes within two years after it accrues, and if good cause isshown, the claim may be presented not later than two years after the war or armed conflict is terminated;
+&emsp;(1) it is presented in writing within two years after it accrues, except that if the claim accrues in time of war or armed conflict or if such a war or armed conflict intervenes within two years after it accrues, and if good cause is shown, the claim may be presented not later than two years after the war or armed conflict is terminated;
 
 &emsp;(2) it is not covered by section 2734 of this title or section 2672 of title 28;
 
@@ -26,7 +26,7 @@
 
 (c) Payment may not be made under this section for reimbursement for medical, hospital, or burial services furnished at the expense of the United States.
 
-(d) If the Secretary concerned considers that a claim in excess of $100,000 is meritorious, and the claim otherwise is payable under this section, the Secretary may pay the claimant $100,000 and report any meritorious amount in excess of $100,000 to the Comptroller General for payment under section 1304 of title 31.
+(d) If the Secretary concerned considers that a claim in excess of $100,000 is meritorious, and the claim otherwise is payable under this section, the Secretary may pay the claimant $100,000 and report any meritorious amount in excess of $100,000 to the Secretary of the Treasury for payment under section 1304 of title 31.
 
 (e) Except as provided in subsection (d), no claim may be paid under this section unless the amount tendered is accepted by the claimant in full satisfaction.
 
@@ -36,7 +36,7 @@
 
 (h) Under such regulations as the Secretary of Defense may prescribe, he or his designee has the same authority as the Secretary of a military department under this section with respect to the settlement of claims based on damage, loss, personal injury, or death caused by a civilian officer or employee of the Department of Defense acting within the scope of his employment or otherwise incident to noncombat activities of that department.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 153; Aug. 23, 1958, Pub. L. 85–729, §1, 72 Stat. 813; Sept. 2, 1958, Pub. L. 85–861, §1(54), 72 Stat. 1461; Nov. 2, 1966, Pub. L. 89–718, §8(a), 80 Stat. 1117; Sept. 26, 1968, Pub. L. 90–522, 82 Stat. 875; Sept. 26, 1968, Pub. L. 90–525, §§1, 3–5, 82 Stat. 877, 878; July 8, 1970, Pub. L. 91–312, §2, 84 Stat. 412; July 8, 1974, Pub. L. 93–336, §1, 88 Stat. 291; Dec. 12, 1980, Pub. L. 96–513, title V, §511(94), 94 Stat. 2928; Oct. 30, 1984, Pub. L. 98–564, §1, 98 Stat. 2918.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 153; Aug. 23, 1958, Pub. L. 85–729, §1, 72 Stat. 813; Sept. 2, 1958, Pub. L. 85–861, §1(54), 72 Stat. 1461; Nov. 2, 1966, Pub. L. 89–718, §8(a), 80 Stat. 1117; Sept. 26, 1968, Pub. L. 90–522, 82 Stat. 875; Sept. 26, 1968, Pub. L. 90–525, §§1, 3–5, 82 Stat. 877, 878; July 8, 1970, Pub. L. 91–312, §2, 84 Stat. 412; July 8, 1974, Pub. L. 93–336, §1, 88 Stat. 291; Dec. 12, 1980, Pub. L. 96–513, title V, §511(94), 94 Stat. 2928; Oct. 30, 1984, Pub. L. 98–564, §1, 98 Stat. 2918; Oct. 19, 1996, Pub. L. 104–316, title II, §202(e), 110 Stat. 3842.)
 
 Historical and Revision Notes<br>1956
 
@@ -50,13 +50,35 @@ Act
 
 2733(a)
 
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 2733(b)
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 2733(c)
 
 2733(d)
 
 2733(e)
+
+&nbsp;
 
 2733(f)
 
@@ -116,6 +138,8 @@ Mar. 29, 1956, ch. 103, §§1–3, 70 Stat. 60, 61.
 
 #### Amendments
 
+1996—Subsec. (d). Pub. L. 104–316 substituted “Secretary of the Treasury” for “Comptroller General”.
+
 1984—Subsec. (a). Pub. L. 98–564, §1(1), substituted “Chief Counsel” for “chief legal officer” and “$100,000” for “$25,000” in provisions preceding par. (1).
 
 Subsec. (d). Pub. L. 98–564, §1(2), amended subsec. (d) generally, substituting “$100,000” for “$25,000” and provisions requiring Secretary to report excess to the Comptroller General for provisions requiring reporting to Congress.
@@ -170,8 +194,6 @@ The directory language of, but not the amendment made by, Pub. L. 89–718, §8(
 
 #### Transfer of Functions
 
-Functions of Comptroller General under this section transferred, effective June 30, 1996, to Director of Office of Management and Budget, see section 211 of Pub. L. 104–53, set out as a note under section 501 of Title 31, Money and Finance.
-
 For transfer of functions of Public Health Service, see note set out under section 802 of this title.
 
 #### Claims for Injury or Death Accrued Before March 30, 1956
@@ -186,5 +208,5 @@ Travel and transportation; dependents; household and personal effects; motor veh
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1588, 2735, 2736, 2738 of this title; title 5 section 5564; title 31 section 1304; title 37 section 554.
+This section is referred to in sections 1588, 2735, 2736, 2738 of this title; title 5 section 5564; title 14 sections 821, 823a; title 31 section 1304; title 37 section 554.
 

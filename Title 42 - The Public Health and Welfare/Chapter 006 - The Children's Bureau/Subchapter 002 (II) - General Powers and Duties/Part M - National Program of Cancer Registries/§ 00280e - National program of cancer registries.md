@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary, acting through the Director of the Centers for Disease Control, may make grants to States, or may make grants or enter into contracts with academic or nonprofit organizations designated by the State to operate the State's cancer registry in lieu of making a grant directly to the State, to support the operation of population-based, statewide cancer registries in order to collect, for each form of in-situ and invasive cancer (with the exception of basal cell and squamous cell carcinoma of the skin), data concerning—
+The Secretary, acting through the Director of the Centers for Disease Control, may makegrants to States, or may make grants or enter into contracts with academic or nonprofit organizations designated by the State to operate the State's cancer registry in lieu of making a grant directly to the State, to support the operation of population-based, statewide cancer registries in order to collect, for each form of in-situ and invasive cancer (with the exception of basal cell and squamous cell carcinoma of the skin), data concerning—
 
 &emsp;(1) demographic information about each case of cancer;
 
@@ -18,7 +18,7 @@ The Secretary, acting through the Director of the Centers for Disease Control, m
 
 #### (1) In general
 
-&emsp;The Secretary may make a grant under subsection (a) of this section only if the State, or the academic or nonprofit private organization designated by the State to operate the cancer registry of the State, involved agrees,with respect to the costs of the program, to make available (directly or through donations from public or private entities) non-Federal contributions toward such costs in an amount that is not less than 25 percent of such costs or $1 for every $3 of Federal funds provided in the grant.
+&emsp;The Secretary may make a grant under subsection (a) of this section only if the State, or the academic or nonprofit private organization designated by the State to operate the cancer registry of the State, involved agrees, with respect to the costs of the program, to make available (directly or through donations from public or private entities) non-Federal contributions toward such costs in an amount that is not less than 25 percent of such costs or $1 for every $3 of Federal funds provided in the grant.
 
 #### (2) Determination of amount of non-Federal contribution; maintenance of effort
 

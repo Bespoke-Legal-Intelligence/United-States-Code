@@ -16,7 +16,7 @@
 | [18\.](%C2%A7%2000018%20-%20Rules%20and%20regulations%20for%20Army%20and%20Navy%20Hospital.md) | Rules and regulations for Army and Navy Hospital. |
 | [19\.](%C2%A7%2000019%20-%20Tubercular%20hospital%20at%20Fort%20Bayard.md) | Tubercular hospital at Fort Bayard. |
 | [20\.](%C2%A7%2000020%20-%20Discipline%20of%20patients%20at%20Army%20and%20Navy%20Hospital.md) | Discipline of patients at Army and Navy Hospital. |
-| 21 to 29a. Repealed. |  |
+| 21 to 29a. | Repealed. |
 | [30\.](%C2%A7%2000030%20-%20Payments%20to%20donors%20of%20blood%20for%20persons%20undergoing%20treatment%20at%20Government%20expense.md) | Payments to donors of blood for persons undergoing treatment at Government expense. |
 | 31 to 33. | Repealed. |
 | [34\.](%C2%A7%2000034%20-%20Hospitalization%20of%20persons%20outside%20continental%20limits%20of%20United%20States%3B%20persons%20entitled%3B%20availability%20of%20other%20facilities%3B%20rate%20of%E2%80%A6.md) | Hospitalization of persons outside continental limits of United States; persons entitled; availability of other facilities; rate of charges; disposition of payments. |

@@ -1,6 +1,6 @@
 ### §3432. Indictment and list of jurors and witnesses for prisoner in capital cases
 
-A person charged with treason or other capital offense shall at least three entire days before commencement of trial be furnished with a copy of the indictment and a list of the veniremen, and of the witnesses to be produced on the trialfor proving the indictment, stating the place of abode of each venireman and witness, except that such list of the veniremen and witnesses need not be furnished if the court finds by a preponderance of the evidence that providing the list may jeopardize the life or safety of any person.
+A person charged with treason or other capital offense shall at least three entire days before commencement of trial be furnished with a copy of the indictment and a list of the veniremen, and of the witnesses to be produced on the trial for proving the indictment, stating the place of abode of each venireman and witness, except that such list of the veniremen and witnessesneed not be furnished if the court finds by a preponderance of the evidence that providing the list may jeopardize the life or safety of any person.
 
 (June 25, 1948, ch. 645, 62 Stat. 831; Sept. 13, 1994, Pub. L. 103–322, title VI, §60025, 108 Stat. 1982.)
 

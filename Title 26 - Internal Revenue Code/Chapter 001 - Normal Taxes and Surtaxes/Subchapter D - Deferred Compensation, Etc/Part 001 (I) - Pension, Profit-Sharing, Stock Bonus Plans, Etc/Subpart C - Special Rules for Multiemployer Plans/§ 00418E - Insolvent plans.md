@@ -14,7 +14,7 @@ For purposes of this section, for a plan year—
 
 #### (2) Resource benefit level
 
-&emsp;The term “resource benefit level” means the level of monthly benefits determined undersubsections (c)(1) and (3) and (d)(3) to be the highest level which can be paid out of the plan's available resources.
+&emsp;The term “resource benefit level” means the level of monthly benefits determined under subsections (c)(1) and (3) and (d)(3) to be the highest level which can be paid out of the plan's available resources.
 
 #### (3) Available resources
 
@@ -42,7 +42,7 @@ For purposes of this section, for a plan year—
 
 #### (A) In general
 
-&emsp;&emsp;If, by the end of an insolvency year, the plan sponsor determines in writing that the plan's available resources in that insolvency year could have supported benefit payments above the resource benefit level for that insolvency year, the plan sponsor shall distribute the excess resources to the participants and beneficiaries who received benefit payments from the plan in that insolvency year, in accordance with regulations prescribed by the Secretary.
+&emsp;&emsp;If, by the end of an insolvency year, the plan sponsor determines in writing that the plan's available resources in that insolvency year could have supported benefit paymentsabove the resource benefit level for that insolvency year, the plan sponsor shall distribute the excess resources to the participants and beneficiaries who received benefit payments from the plan in that insolvency year, in accordance with regulations prescribed by the Secretary.
 
 #### (B) Excess resources
 
@@ -82,7 +82,7 @@ For purposes of this section, for a plan year—
 
 #### (2) Resource benefit level
 
-&emsp;No later than 2 months before the first day of each insolvency year, the plan sponsor of aplan in reorganization shall notify the Secretary, the Pension Benefit Guaranty Corporation, the parties described in section 418A(a)(2), and the plan participants and beneficiaries of the resource benefit level determined in writing for that insolvency year.
+&emsp;No later than 2 months before the first day of each insolvency year, the plan sponsor of a plan in reorganization shall notify the Secretary, the Pension Benefit Guaranty Corporation, the parties described in section 418A(a)(2), and the plan participants and beneficiaries of the resource benefit level determined in writing for that insolvency year.
 
 #### (3) Potential need for financial assistance
 

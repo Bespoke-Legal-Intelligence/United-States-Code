@@ -8,9 +8,9 @@ General Authority.—(1) The Administrator of the Federal Aviation Administratio
 
 &emsp;(B) provide facilities and personnel to regulate and protect air traffic.
 
-(2) The cost of site preparation work associated with acquiring, establishing, or improvingan air navigation facility under paragraph (1)(A) of this subsection shall be charged to amounts available for that purpose appropriated under section 48101(a) of this title. The Secretary of Transportation may make an agreement with an airport owner or sponsor (as defined in section 47102 of this title) so that the owner or sponsor will provide the work and be paid or reimbursed by the Secretary from the appropriated amounts.
+(2) The cost of site preparation work associated with acquiring, establishing, or improving an air navigation facility under paragraph (1)(A) of this subsection shall be charged to amounts available for that purpose appropriated under section 48101(a) of this title. The Secretary of Transportation may make an agreement with an airport owner or sponsor (as defined in section 47102 of this title) so that the owner or sponsor will provide the work and be paid or reimbursed by the Secretary from the appropriated amounts.
 
-(3) The Secretary of Transportation may authorize a department, agency, or instrumentality of the United States Government to carry out any duty or power under this subsection with the consent of the head of the department, agency, or instrumentality.
+(3) The Secretary of Transportation may authorize a department, agency, or instrumentality of the United States Government to carryout any duty or power under this subsection with the consent of the head of the department, agency, or instrumentality.
 
 (4)
 
@@ -30,7 +30,7 @@ Certification of Necessity.—Except for Government money expended under this pa
 
 (c)
 
-Ensuring Conformity With Plans and Policies.—(1) To ensure that <sup>1</sup> conformity with plans and policies for, and allocation of, airspace by the Administrator of the Federal Aviation Administration under section 40103(b)(1) of this title, a military airport, military landing area, or missile or rocket site may be acquired, established, or constructed, or a runway may be altered substantially, only if the Administrator of the Federal Aviation Administration is given reasonable prior notice so that the Administrator of the Federal Aviation Administration may advise the appropriate committees of Congress and interested departments, agencies, and instrumentalities of the Government on the effect of the acquisition, establishment, construction, or alteration on the use of airspace by aircraft. A disagreement between the Administrator of the Federal Aviation Administration and the Secretary of Defense or the Administrator of the National Aeronautics and Space Administration may be appealed to the President for a final decision.
+Ensuring Conformity With Plans and Policies.—(1) To ensure conformity with plans and policies for, and allocation of, airspace by the Administrator of the Federal Aviation Administration under section 40103(b)(1) of this title, a military airport, military landing area, or missile or rocket site may be acquired, established, or constructed, or a runway may be altered substantially, only if the Administrator of the Federal Aviation Administration is given reasonable prior notice so that the Administrator of the Federal Aviation Administration may advise the appropriate committees of Congress and interested departments, agencies, and instrumentalities of the Government on the effect of the acquisition, establishment, construction, or alteration on the use of airspace by aircraft. A disagreement between the Administrator of the Federal Aviation Administration and the Secretary of Defense or the Administrator of the National Aeronautics and Space Administration may be appealed to the President for a final decision.
 
 (2) To ensure conformity, an airport or landing area not involving the expenditure of Government money may be established or constructed, or a runway may be altered substantially, only if the Administrator of the Federal Aviation Administration is given reasonable prior notice so that the Administrator may provide advice on the effects of the establishment, construction, or alteration on the use of airspace by aircraft.
 
@@ -42,19 +42,17 @@ Public Use and Emergency Assistance.—(1) The head of a department, agency, or 
 
 (e)
 
-Consent of Congress.—Congress consents to a State making an agreement, not in conflict with a law of the United States, with another State to develop or operate an airport facility.
-
-(f)
-
 Transfers of Instrument Landing Systems.—An airport may transfer, without consideration, to the Administrator of the Federal Aviation Administration an instrument landing system (and associated approach lighting equipment and runway visual range equipment) that conforms to performance specifications of the Administrator if a Government airport aid program, airport development aid program, or airport improvement project grant was used to assist in purchasing the system. The Administrator shall accept the system and operate and maintain it under criteria of the Administrator.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1175; Pub. L. 103–305, title I, §120(a), Aug. 23, 1994, 108 Stat. 1581; Pub. L. 103–429, §6(54), Oct. 31, 1994, 108 Stat. 4385.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1175; Pub. L. 103–305, title I, §120(a), Aug. 23, 1994, 108 Stat. 1581; Pub. L. 103–429, §6(54), Oct. 31, 1994, 108 Stat. 4385; Pub. L. 104–287, §5(75), Oct. 11, 1996, 110 Stat. 3396.)
 
 Historical and Revision Notes
 
 Pub. L. 103–272
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -136,7 +134,7 @@ Oct. 28, 1991, Pub. L. 102–143, §324, 105 Stat. 943.
 
 Oct. 6, 1992, Pub. L. 102–388, §324, 106 Stat. 1547.
 
-In this section, the words “department, agency, or instrumentality of the United States Government” are substituted for “Federal department or agency” in 49 App.:1348(b), “agencies” in 49 App.:1349(b), and “department or other agency” and “Government department or other agency” in 49 App.:1507 for consistency in the revised title and with other titles of the United States Code.
+In this section, the words “department, agency, or instrumentality of the United States Government” are substituted for “Federal department or agency” in 49App.:1348(b), “agencies” in 49 App.:1349(b), and “department or other agency” and “Government department or other agency” in 49 App.:1507 for consistency in the revised title and with other titles of the United States Code.
 
 In subsections (a)(1), (b), and (c), the word “Administrator” in sections 303(c) (1st sentence), 307(b), 308(a) (1st and 2d sentences) and (b), and 309 of the Federal Aviation Act of 1958 (Public Law 85–726, 72 Stat. 750, 751) is retained on authority of 49:106(g).
 
@@ -164,7 +162,23 @@ In subsection (f), the words “Notwithstanding any other provision of law” an
 
 This amends 49:44502(b) to clarify the restatement of 49 App.:1349(a) (1st, 2d sentences) by section 1 of the Act of July 5, 1994 (Public Law 103–272, 108 Stat. 1175).
 
+#### Pub. L. 104–287, §5(75)(A)
+
+This amends 49:44502(c)(1) to correct an error in the codification enacted by section 1 of the Act of July 5, 1994 (Public Law 103–272, 108 Stat. 1175).
+
+#### Pub. L. 104–287, §5(75)(B)
+
+This strikes 49:44502(e) and redesignates 49:44502(f) as 49:44502(e) because of the restatement of former 49:44502(e) as 49:40121.
+
 #### Amendments
+
+1996—Subsec. (c)(1). Pub. L. 104–287, §5(75)(A), substituted “To ensure” for “To ensure that”.
+
+Subsecs. (e), (f). Pub. L. 104–287, §5(75)(B), redesignated subsec. (f) as (e) and struck out former subsec. (e) which read as follows:
+
+“(e)
+
+Consent of Congress.—Congress consents to a State making an agreement, not in conflict with a law of the United States, with another State to develop or operate an airport facility.”
 
 1994—Subsec. (a)(4). Pub. L. 103–305 added par. (4).
 
@@ -176,11 +190,13 @@ Amendment by Pub. L. 103–429 effective July 5, 1994, see section 9 of Pub. L. 
 
 #### Transfer by Airports of Instrument Landing Systems and Associated Equipment to Federal Aviation Administration
 
-Pub. L. 104–50, title III, §317, Nov. 15, 1995, 109 Stat. 455, provided that: “Notwithstanding any other provision of law, airports may transfer, without consideration, to the Federal Aviation Administration (FAA) instrument landing systems (along with associated approach lighting equipment and runway visual range equipment) which conform to FAA design and performance specifications, the purchase of which was assisted by a Federal airport aid program, airport development aid program or airport improvement program grant. The FAA shall accept such equipment, which shall thereafter be operated and maintained by the FAA in accordance with agency criteria.”
+Pub. L. 104–205, title III, §314, Sept. 30, 1996, 110 Stat. 2971, provided that: “Notwithstanding any other provision of law, airports may transfer, without consideration, to the Federal Aviation Administration (FAA) instrument landing systems (along with associated approach lighting equipment and runway visual range equipment) which conform to FAA design and performance specifications, the purchase of which was assisted by a Federal airport aid program, airport development aid program or airport improvement program grant. The FAA shall accept such equipment, which shall thereafter be operated and maintained by the FAA in accordance with agency criteria.”
 
-Similar provisions were contained in the following prior appropriation act:
+Similar provisions were contained in the following prior appropriation acts:
 
-Pub. L. 103–331, title III, §317, Sept. 30, 1994, 108 Stat. 2491.
+Pub. L. 104–50, title III, §317, Nov. 15, 1995, 109 Stat. 455.
+
+Pub. L. 103–331, title III, §317, Sept. 30, 1994, 108 Stat. 2491, repealed by Pub. L. 104–287, §7(4), Oct. 11, 1996, 110 Stat. 3400.
 
 #### Cost Savings Associated With Purchase
 
@@ -192,7 +208,7 @@ Pub. L. 103–260, title IV, §401, May 26, 1994, 108 Stat. 702, provided that:
 
 “(a)
 
-In general.—Notwithstanding the termination of the personnel demonstration project for certain Federal Aviation Administration employees on June 17, 1994, pursuant to section 4703 of title 5, United States Code, the Federal Aviation Administration, subject to subsection (d), shall continue to pay quarterly retention allowance payments in accordance with subsection (b) to those employees who are entitled to quarterly retention allowance payments under the demonstration project as of June 16, 1994.
+In general.—Notwithstanding the termination of the personnel demonstration project for certain Federal Aviation Administration employees on June 17, 1994, pursuant to section 4703 of title 5, United StatesCode, the Federal Aviation Administration, subject to subsection (d), shall continue to pay quarterly retention allowance payments in accordance with subsection (b) to those employees who are entitled to quarterly retention allowance payments under the demonstration project as of June 16, 1994.
 
 “(b)
 
@@ -240,7 +256,5 @@ Study of Recruitment and Retention Incentives.—The Administrator of the Federa
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 106, 40119, 48101, 48104, 49101, 49102, 49105 of this title.
-
-<i><sup>1</sup></i><i> So in original. The word “that” probably should not appear.</i>
+This section is referred to in sections 106, 40119, 46301, 48101, 48104, 50101, 50102, 50105 of this title.
 

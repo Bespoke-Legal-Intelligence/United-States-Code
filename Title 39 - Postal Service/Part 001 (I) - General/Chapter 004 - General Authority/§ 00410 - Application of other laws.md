@@ -36,9 +36,9 @@
 
 &emsp;(8) the provisions of the Act of August 12, 1968 (42 U.S.C. 4151–4156);
 
-&emsp;(9) chapter 39 of title 31; and <sup>2</sup>
+&emsp;(9) chapter 39 of title 31;
 
-&emsp;(10) the provisions of section 8F <sup>1</sup> of the Inspector General Act of 1978.<sup>3</sup>
+&emsp;(10) the Inspector General Act of 1978; and
 
 &emsp;(11) section 5520a of title 5.
 
@@ -62,7 +62,7 @@
 
 (3) Paragraph (2) of this subsection shall not be construed to give the Secretary of Labor authority to direct the cancellation of the lease agreement referred to in paragraph (1) of this subsection.
 
-(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 725; Pub. L. 91–656, §8(a), Jan. 8, 1971, 84 Stat. 1955; Pub. L. 93–340, §2, July 10, 1974, 88 Stat. 294; Pub. L. 94–82, title I, §101, Aug. 9, 1975, 89 Stat. 419; Pub. L. 94–409, §5(a), Sept. 13, 1976, 90 Stat. 1247; Pub. L. 94–541, title II, §203, Oct. 18, 1976, 90 Stat. 2508; Pub. L. 95–454, title III, §302(c), title VII, §703(c)(4), Oct. 13, 1978, 92 Stat. 1146, 1217; Pub. L. 96–523, §1(c)(2), Dec. 12, 1980, 94 Stat. 3040; Pub. L. 100–496, §2(c)(2), Oct. 17, 1988, 102 Stat. 2456; Pub. L. 100–504, title I, §104(b), Oct. 18, 1988, 102 Stat. 2525; Pub. L. 103–82, title II, §202(g)(6), Sept. 21, 1993, 107 Stat. 890; Pub. L. 103–94, §9(b)(2), Oct. 6, 1993, 107 Stat. 1010; Pub. L. 103–123, title VII, §708(a), Oct. 28, 1993, 107 Stat. 1272.)
+(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 725; Pub. L. 91–656, §8(a), Jan. 8, 1971, 84 Stat. 1955; Pub. L. 93–340, §2, July 10, 1974, 88 Stat. 294; Pub. L. 94–82, title I, §101, Aug. 9, 1975, 89 Stat. 419; Pub. L. 94–409, §5(a), Sept. 13, 1976, 90 Stat. 1247; Pub. L. 94–541, title II, §203, Oct. 18, 1976, 90 Stat. 2508; Pub. L. 95–454, title III, §302(c), title VII, §703(c)(4), Oct. 13, 1978, 92 Stat. 1146, 1217; Pub. L. 96–523, §1(c)(2), Dec. 12, 1980, 94 Stat. 3040; Pub. L. 100–496, §2(c)(2), Oct. 17, 1988, 102 Stat. 2456; Pub. L. 100–504, title I, §104(b), Oct. 18, 1988, 102 Stat. 2525; Pub. L. 103–82, title II, §202(g)(6), Sept. 21, 1993, 107 Stat. 890; Pub. L. 103–94, §9(b)(2), Oct. 6, 1993, 107 Stat. 1010; Pub. L. 103–123, title VII, §708(a), Oct. 28, 1993, 107 Stat. 1272; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §662(f)(1)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–382.)
 
 #### References in Text
 
@@ -80,7 +80,7 @@ Chapter 15 (the Government Losses in Shipment Act), referred to in subsec. (b)(4
 
 The Walsh-Healey Act, referred to in subsec. (b)(5)(A), is act June 30, 1936, ch. 881, 49 Stat. 2036, as amended, which is classified generally to sections 35 to 45 of Title 41, Public Contracts. For complete classification of this Act to the Code, see Short Title note set out under section 35 of Title 41 and Tables. See also section 262 of Title 29, Labor.
 
-The Service Contract Act of 1965, referred to in subsec. (b)(5)(B), is Pub. L. 89–286, Oct. 22, 1965, 79 Stat. 1034, as amended, which is classified generally to chapter 6 (§351 et seq.) of Title 41. For complete classification of this Act to the Code, see Short Title note set out under section 351 of Title 41 and Tables.
+The Service Contract Act of 1965, referred to in subsec. (b)(5)(B), is Pub. L. 89–286, Oct. 22, 1965, 79 Stat.1034, as amended, which is classified generally to chapter 6 (§351 et seq.) of Title 41. For complete classification of this Act to the Code, see Short Title note set out under section 351 of Title 41 and Tables.
 
 The Civil Rights Act of 1964, referred to in subsec. (b)(6), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended. Title VI of the Civil Rights Act of 1964 is classified generally to subchapter V (§2000d et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
 
@@ -88,11 +88,15 @@ Section 19 of the Occupational Safety and Health Act of 1970 (29 U.S.C. 668), re
 
 The provisions of the Act of August 12, 1968 (42 U.S.C. 4151–4156), referred to in subsec. (b)(8), probably means Pub. L. 90–480, Aug. 12, 1968, 82 Stat. 718, as amended, popularly known as the Architectural Barriers Act of 1968, which is classified generally to chapter 51 (§4151 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4151 of Title 42 and Tables.
 
-Section 8F of the Inspector General Act of 1978, referred to in subsec. (b)(10), is section 8F of Pub. L. 95–452, which was renumbered section 8G of that Act by Pub. L. 103–204, §23(a)(3), Dec. 17, 1993, 107 Stat. 2408, and is set out in the Appendix to Title 5, Government Organization and Employees.
+The Inspector General Act of 1978, referred to in subsec. (b)(10), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 Reorganization Plan numbered 14 of 1950 (title 5, appendix), referred to in subsec. (d)(2), is Reorg. Plan No. 14 of 1950, eff. May 24, 1950, 15 F.R. 3176, 64 Stat. 1267, which is set out in the Appendix to Title 5.
 
 #### Amendments
+
+1996—Subsec. (b)(9). Pub. L. 104–208, §101(f) \[title VI, §662(f)(1)(A)\], struck out “and” at end.
+
+Subsec. (b)(10). Pub. L. 104–208, §101(f) \[title VI, §662(f)(1)(B)\], substituted “(10) the Inspector General Act of 1978; and” for “the provisions of section 8F of the Inspector General Act of 1978.”
 
 1993—Subsec. (b)(8). Pub. L. 103–82, §202(g)(6)(A), and Pub. L. 103–123, §708(a)(1), amended par. (8) identically, striking out “and” at end.
 
@@ -110,7 +114,7 @@ Pub. L. 103–82, §202(g)(6)(C), added par. (10).
 
 Subsec. (b)(11). Pub. L. 103–94, §9(b)(2)(B), added par. (11).
 
-1988—Subsec. (b)(6) to (8). Pub. L. 100–504, §104(b)(1)–(4), struck out “and” after semicolon in par.\(6), substituted semicolon for period in par. (7), and substituted “the provisions” for “The provisions” and “; and” for period in par. (8).
+1988—Subsec. (b)(6) to (8). Pub. L. 100–504, §104(b)(1)–(4), struck out “and” after semicolon in par. (6), substituted semicolon for period in par. (7), and substituted “the provisions” for “The provisions” and “; and” for period in par. (8).
 
 Subsec. (b)(9). Pub. L. 100–504, §104(b)(5), added par. (9) relating to section 8E of Inspector General Act.
 
@@ -175,8 +179,4 @@ Section 7 of Pub. L. 103–94 provided that: “The amendments made by this Act 
 This section is referred to in sections 2803, 3604 of this title; title 31 section 1344.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
-
-<i><sup>2</sup></i><i> So in original. The word “and” probably should not appear.</i>
-
-<i><sup>3</sup></i><i> So in original. The period probably should be “; and”.</i>
 

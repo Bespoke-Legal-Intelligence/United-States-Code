@@ -13,10 +13,13 @@
 | [379\.](%C2%A7%2000379%20-%20Assignment%20of%20Coast%20Guard%20personnel%20to%20naval%20vessels%20for%20law%20enforcement%20purposes.md) | Assignment of Coast Guard personnel to naval vessels for law enforcement purposes. |
 | [380\.](%C2%A7%2000380%20-%20Enhancement%20of%20cooperation%20with%20civilian%20law%20enforcement%20officials.md) | Enhancement of cooperation with civilian law enforcement officials. |
 | [381\.](%C2%A7%2000381%20-%20Procurement%20by%20State%20and%20local%20governments%20of%20law%20enforcement%20equipment%20suitable%20for%20counter-drug%20activities%20through%20the%20Department%20of%E2%80%A6.md) | Procurement by State and local governments of law enforcement equipment suitable for counter-drug activities through the Department of Defense. |
+| [382\.](%C2%A7%2000382%20-%20Emergency%20situations%20involving%20chemical%20or%20biological%20weapons%20of%20mass%20destruction.md) | Emergency situations involving chemical or biological weapons of mass destruction. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1996—Pub. L. 104–201, div. A, title XIV, §1416(a)(2), Sept. 23, 1996, 110 Stat. 2723, added item 382.
 
 1993—Pub. L. 103–160, div. A, title XI, §1122(a)(2), Nov. 30, 1993, 107 Stat. 1755, added item 381.
 
@@ -48,3 +51,4 @@ This chapter is referred to in title 18 section 831.
 - [&sect; 00379 - Assignment of Coast Guard personnel to naval vessels for law enforcement purposes](%C2%A7%2000379%20-%20Assignment%20of%20Coast%20Guard%20personnel%20to%20naval%20vessels%20for%20law%20enforcement%20purposes.md)
 - [&sect; 00380 - Enhancement of cooperation with civilian law enforcement officials](%C2%A7%2000380%20-%20Enhancement%20of%20cooperation%20with%20civilian%20law%20enforcement%20officials.md)
 - [&sect; 00381 - Procurement by State and local governments of law enforcement equipment suitable for counter-drug activities through the Department of&#8230;](%C2%A7%2000381%20-%20Procurement%20by%20State%20and%20local%20governments%20of%20law%20enforcement%20equipment%20suitable%20for%20counter-drug%20activities%20through%20the%20Department%20of%E2%80%A6.md)
+- [&sect; 00382 - Emergency situations involving chemical or biological weapons of mass destruction](%C2%A7%2000382%20-%20Emergency%20situations%20involving%20chemical%20or%20biological%20weapons%20of%20mass%20destruction.md)

@@ -24,7 +24,7 @@ Maintaining Purchaser Records and Procedures.—(1) A manufacturer of a motor ve
 
 &emsp;(iii) whether to prescribe for manufacturers, distributors, or dealers other requirements that the Secretary decides will increase significantly the percentage of first purchasers of tires about whom records are maintained.
 
-(B) The Secretary may prescribe a requirement under subparagraph (A) of this paragraph only if the Secretary decides it is necessary to reduce the risk to motor vehicle safety, after considering—
+(B) The Secretary may prescribe a requirement under subparagraph (A) of this paragraph only if the Secretary decides it is necessary toreduce the risk to motor vehicle safety, after considering—
 
 &emsp;(i) the cost of the requirement to manufacturers and the burden of the requirement on distributors and dealers, compared to the increase in the percentage of first purchasers of tires about whom records would be maintained as a result of the requirement;
 
@@ -40,7 +40,9 @@ Maintaining Purchaser Records and Procedures.—(1) A manufacturer of a motor ve
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

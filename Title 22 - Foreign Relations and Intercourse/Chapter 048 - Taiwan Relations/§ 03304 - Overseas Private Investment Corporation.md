@@ -6,7 +6,7 @@ During the three-year period beginning on April 10, 1979, the $1,000 per capita 
 
 #### (b) Application by Corporation of other criteria
 
-Except as provided in subsection (a) of this section, in issuing insurance, reinsurance, loans, or guaranties with respect to investment projects on Taiwan, the Overseas Private Insurance <sup>1</sup>Corporation shall apply the same criteria as those applicable in other parts of the world.
+Except as provided in subsection (a) of this section, in issuing insurance, reinsurance, loans, or guaranties with respect to investment projects on Taiwan, the Overseas Private Insurance <sup>1</sup> Corporation shall apply the same criteria as those applicable in other parts of the world.
 
 (Pub. L. 96–8, §5, Apr. 10, 1979, 93 Stat. 16.)
 

@@ -66,7 +66,7 @@ In General.—There is established in the Treasury of the United States a fund t
 
 &emsp;&emsp;&emsp;&emsp;(I) section 1028, 1029, or 1030 or <sup>4</sup> title 18;
 
-&emsp;&emsp;&emsp;&emsp;(II) any law of the United States relating to coins, obligations, or securities ofthe United States or of a foreign government; or
+&emsp;&emsp;&emsp;&emsp;(II) any law of the United States relating to coins, obligations, or securities of the United States or of a foreign government; or
 
 &emsp;&emsp;&emsp;&emsp;(III) any law of the United States which the United States Secret Service is authorized to enforce relating to fraud or other criminal or unlawful activity in or against any federally insured financial institution, the Resolution Trust Corporation, or the Federal Deposit Insurance Corporation;
 
@@ -204,13 +204,13 @@ Appropriations.—
 
 &emsp;(3)(A) Subject to subparagraphs (B) and (C), at the end of each of fiscal years 1994, 1995, 1996, and 1997, the Secretary shall transfer from the Fund not more than $100,000,000 to the Special Forfeiture Fund established by section 6073 of the Anti-Drug Abuse Act of 1988.
 
-&emsp;(B) Transfers pursuant to subparagraph (A) shall be made only from excess unobligated amounts and only to the extent that, as determined by the Secretary, such transfers will not impair the future availability of amounts for the purposes described in subsection (a). Further, transfers under subparagraph (A) may not exceed one-half of the excess unobligated balance for a year. In addition, transfers under subparagraph (A) may be made only tothe extent that the sum of the transfers in a fiscal year and one-half of the unobligated balance at the beginning of that fiscal year for the Special Forfeiture Fund does not exceed $100,000,000.
+&emsp;(B) Transfers pursuant to subparagraph (A) shall be made only from excess unobligated amounts and only to the extent that, as determined by the Secretary, such transfers will not impair the future availability of amounts for the purposes described in subsection (a). Further, transfers under subparagraph (A) may not exceed one-half of the excess unobligated balance for a year. In addition, transfers under subparagraph (A) may be made only to the extent that the sum of the transfers in a fiscal year and one-half of the unobligated balance at the beginning of that fiscal year for the Special Forfeiture Fund does not exceed $100,000,000.
 
-&emsp;(C) The Secretary of the Treasury shall reserve an amount not to exceed $30,000,000 from the unobligated balances remaining in the Customs Forfeiture Fund on September 30, 1992, and such amount shall be transferred to the Fund on October 1, 1992, or, if later, the date that is 15 days after the date of the enactment of this section. Such amount shall be available for any expenses or activities authorized under this section. At the end of fiscal year 1993, and at the end of each fiscal year thereafter, the Secretary shall reserve in the Fund an amount not to exceed $50,000,000 of the unobligated balances in the Fund, or, if the Secretary determines that a greater amount is necessary for asset specific expenses, an amount equal to not more than 10 percent of the total obligations from the Fund in the preceding fiscal year.
+&emsp;(C) The Secretary of the Treasury shall reserve an amount not to exceed $30,000,000 from the unobligated balances remaining in the Customs Forfeiture Fund on September 30, 1992, and such amount shall be transferred to the Fund on October 1, 1992, or, if later, the date that is 15 days after the date of the enactment of this section. Such amount shall be available for any expenses or activities authorized under this section. At the end of fiscal year <sup>7</sup> 1993, 1994, 1995, and 1996, the Secretary shall reserve in the Fund an amount not to exceed $50,000,000 of the unobligated balances in the Fund, or, if the Secretary determines that a greater amount is necessary for asset specific expenses, an amount equal to not more than 10 percent of the total obligations from the Fund in the preceding fiscal year. At the end of fiscal year 1997, and at the end of each fiscal year thereafter, the Secretary shall reserve any amounts that are required to be retained in the Fund to ensure the availability of amounts in the subsequent fiscal year for purposes authorized under subsection (a).
 
 &emsp;(4)(A) After reserving any amount authorized by paragraph (3)(C), any unobligated balances remaining in the Fund on September 30, 1993, shall be deposited into the general fund of the Treasury of the United States.
 
-&emsp;(B) After reserving any amount authorized by paragraph (3)(C) and after transferring any amount authorized by paragraph (3)(A), any unobligated balances remaining in the Fund on September 30, 1994, and on September 30 of each fiscal year thereafter, shall, subject to subparagraph (C), be available to the Secretary, without fiscal year limitation, for transfers pursuant to subparagraph (A)(ii) <sup>7</sup> and for obligation or expenditure in connection with the law enforcement activities of any Federal agency or of a Department of the Treasury law enforcement organization.
+&emsp;(B) After reserving any amount authorized by paragraph (3)(C) and after transferring any amount authorized by paragraph (3)(A), any unobligated balances remaining in the Fund on September 30, 1994, and on September 30 of each fiscal year thereafter, shall, subject to subparagraph (C), be available to the Secretary, without fiscal year limitation, for transfers pursuant to subparagraph (A)(ii) <sup>8</sup> and for obligation or expenditure in connection with the law enforcement activities of any Federal agency or of a Department of the Treasury law enforcement organization.
 
 &emsp;(C) Any obligation or expenditure in excess of $500,000 with respect to an unobligated balance described in subparagraph (B) may not be made by the Secretary unless the Appropriations Committees of both Houses of Congress are notified at least 15 days in advance of such obligation or expenditure.
 
@@ -228,13 +228,13 @@ Retention or Transfer of Property.—
 
 &emsp;&emsp;&emsp;(ii) any State or local law enforcement agency that participated directly or indirectly in the seizure or forfeiture of the property.
 
-&emsp;(2) The Secretary may transfer any forfeited personal property or the proceeds of the sale of any forfeited personal or real property to any foreign country which participated directly or indirectly in the seizure of <sup>8</sup> forfeiture of the property, if such a transfer—
+&emsp;(2) The Secretary may transfer any forfeited personal property or the proceeds of the sale of any forfeited personal or real property to any foreign country which participated directly or indirectly in the seizure of <sup>9</sup> forfeiture of the property, if such a transfer—
 
 &emsp;&emsp;(A) is one with which the Secretary of State has agreed;
 
 &emsp;&emsp;(B) is authorized in an international agreement between the United States and the foreign country; and
 
-&emsp;&emsp;(C) is made to a country which, if applicable, has been certified under section 481(h) of the Foreign Assistance Act of 1961 (22 U.S.C. 2291(h)).<sup>7</sup>
+&emsp;&emsp;(C) is made to a country which, if applicable, has been certified under section 481(h) of the Foreign Assistance Act of 1961 (22 U.S.C. 2291(h)).<sup>8</sup>
 
 &emsp;(3) Nothing in this section shall affect the authority of the Secretary under section 981 of title 18 or section 616 of the Tariff Act of 1930 (19 U.S.C. 1616a).
 
@@ -264,7 +264,7 @@ Authority To Warrant Title.—Following the completion of procedures for the for
 
 (m)
 
-Forfeited Property.—For purposes of this section and notwithstanding section 524(c)(11) <sup>9</sup> of title 28 or any other law—
+Forfeited Property.—For purposes of this section and notwithstanding section 524(c)(11) <sup>10</sup> of title 28 or any other law—
 
 &emsp;(1) during fiscal year 1993, property and currency shall be deemed to be forfeited pursuant to a law enforced or administered by the United States Customs Service if it is forfeited pursuant to—
 
@@ -314,7 +314,7 @@ Department of the treasury law enforcement organization.—The term “Departmen
 
 Secretary.—The term “Secretary” means the Secretary of the Treasury.
 
-(Added Pub. L. 102–393, title VI, §638(b)(1), Oct. 6, 1992, 106 Stat. 1779; amended Pub. L. 103–182, title VI, §685, Dec. 8, 1993, 107 Stat. 2220; Pub. L. 103–322, title IX, §90205(c), Sept. 13, 1994, 108 Stat. 1994; Pub. L. 103–329, title I, §112, Sept. 30, 1994, 108 Stat. 2391.)
+(Added Pub. L. 102–393, title VI, §638(b)(1), Oct. 6, 1992, 106 Stat. 1779; amended Pub. L. 103–182, title VI, §685, Dec. 8, 1993, 107 Stat. 2220; Pub. L. 103–322, title IX, §90205(c), Sept. 13, 1994, 108 Stat. 1994; Pub. L. 103–329, title I, §112, Sept. 30, 1994, 108 Stat. 2391; Pub. L. 104–208, div. A, title I, §101(f) \[title I, §116\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–325.)
 
 #### References in Text
 
@@ -334,13 +334,15 @@ The date of the enactment of this section, referred to in subsec. (g)(3)(C), is 
 
 Subparagraph (A)(ii), referred to in subsec. (g)(4)(B), means cl. (ii) of subsec. (g)(4)(A) which was repealed by Pub. L. 103–322, title IX, §90205(c)(2)(B), Sept. 13, 1994, 108 Stat. 1995.
 
-Section 481(h) of the Foreign Assistance Act of 1961, referred to in subsec. (h)(2)(C), was classified to section 2291(h) of Title 22, Foreign Relations and Intercourse, prior to repeal of subsec. (h) by Pub. L. 102–583, §6(b)(2), Nov. 2, 1992, 106 Stat. 4932. Reference to section 481(h) of the Foreign Assistance Act of 1961 probably should be to section 490(a)(1) of the Act, which is classified to section 2291j(a)(1) of Title 22.
+Section 481(h) of the Foreign Assistance Act of 1961, referred to in subsec. (h)(2)(C), was classified to section 2291(h) of Title 22, Foreign Relations and Intercourse,prior to repeal of subsec. (h) by Pub. L. 102–583, §6(b)(2), Nov. 2, 1992, 106 Stat. 4932. Reference to section 481(h) of the Foreign Assistance Act of 1961 probably should be to section 490(a)(1) of the Act, which is classified to section 2291j(a)(1) of Title 22.
 
 The effective date of the Treasury Forfeiture Act of 1992, referred to in subsec. (j)(2), probably means the date of enactment of the Treasury Forfeiture Fund Act of 1992, section 638 of Pub. L. 102–393, which was approved Oct. 6, 1992.
 
 Section 524(c)(11) of title 28, referred to in subsec. (m), was redesignated section 524(c)(10) by Pub. L. 104–66, title I, §1091(h)(2), Dec. 21, 1995, 109 Stat. 722.
 
 #### Amendments
+
+1996—Subsec. (g)(3)(C). Pub. L. 104–208 substituted “1994, 1995, and 1996” for “and at the end of each fiscal year thereafter” and inserted at end “At the end of fiscal year 1997, and at the end of each fiscal year thereafter, the Secretary shall reserve any amounts that are required to be retained in the Fund to ensure the availability of amounts in the subsequent fiscal year for purposes authorized under subsection (a).”
 
 1994—Subsec. (a). Pub. L. 103–329 redesignated subpars. (G) and (J) of par. (2) as (I) and (J) of par. (1), respectively, and subpars. (H) and (I) of par. (2) as (G) and (H) of par. (2), respectively.
 
@@ -370,9 +372,11 @@ This section is referred to in title 21 section 1509; title 28 section 524; titl
 
 <i><sup>6</sup></i><i> So in original. The “; and” probably should be a period.</i>
 
-<i><sup>7</sup></i><i> See References in Text note below.</i>
+<i><sup>7</sup></i><i> So in original. Probably should be “years”.</i>
 
-<i><sup>8</sup></i><i> So in original. Probably should be “or”.</i>
+<i><sup>8</sup></i><i> See References in Text note below.</i>
 
-<i><sup>9</sup></i><i> See References in Text note below.</i>
+<i><sup>9</sup></i><i> So in original. Probably should be “or”.</i>
+
+<i><sup>10</sup></i><i> See References in Text note below.</i>
 

@@ -37,15 +37,21 @@
 | [41739\.](Subchapter%20002%20%28II%29%20-%20Small%20Community%20Air%20Service/%C2%A7%2041739%20-%20Air%20carrier%20obligations.md) | Air carrier obligations. |
 | [41740\.](Subchapter%20002%20%28II%29%20-%20Small%20Community%20Air%20Service/%C2%A7%2041740%20-%20Joint%20proposals.md) | Joint proposals. |
 | [41741\.](Subchapter%20002%20%28II%29%20-%20Small%20Community%20Air%20Service/%C2%A7%2041741%20-%20Insurance.md) | Insurance. |
-| [41742\.](Subchapter%20002%20%28II%29%20-%20Small%20Community%20Air%20Service/%C2%A7%2041742%20-%20Ending%20effective%20date.md) | Ending effective date. |
+| [41742\.](Subchapter%20002%20%28II%29%20-%20Small%20Community%20Air%20Service/%C2%A7%2041742%20-%20Essential%20air%20service%20authorization.md) | Essential air service authorization. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
 
+1996—Pub. L. 104–264, title II, §278(d), Oct. 9, 1996, 110 Stat. 3250, substituted “Essential air service authorization” for “Ending effective date” in item 41742.
+
 1994—Pub. L. 103–429, §6(52), Oct. 31, 1994, 108 Stat. 4385, made technical correction to chapter heading.
 
 Pub. L. 103–305, title II, §§206(b), 207(b), Aug. 23, 1994, 108 Stat. 1587, 1588, added items 41714 and 41715.
+
+#### Chapter Referred to in Other Sections
+
+This chapter is referred to in sections 40109, 46301 of this title.
 
 
 ---

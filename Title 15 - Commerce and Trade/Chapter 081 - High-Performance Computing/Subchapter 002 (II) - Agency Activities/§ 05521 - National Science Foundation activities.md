@@ -10,7 +10,7 @@ As part of the Program described in subchapter I of this chapter—
 
 &emsp;(3) the National Science Foundation shall serve as the primary source of information on access to and use of the Network; and
 
-&emsp;(4) the National Science Foundation shall upgrade the National Science Foundationfunded network, assist regional networks to upgrade their capabilities, and provide other Federal departments and agencies the opportunity to connect to the National Science Foundation funded network.
+&emsp;(4) the National Science Foundation shall upgrade the National Science Foundation funded network, assist regional networks to upgrade their capabilities, and provide other Federal departments and agencies the opportunity to connect to the National Science Foundation funded network.
 
 #### (b) Authorization of appropriations
 

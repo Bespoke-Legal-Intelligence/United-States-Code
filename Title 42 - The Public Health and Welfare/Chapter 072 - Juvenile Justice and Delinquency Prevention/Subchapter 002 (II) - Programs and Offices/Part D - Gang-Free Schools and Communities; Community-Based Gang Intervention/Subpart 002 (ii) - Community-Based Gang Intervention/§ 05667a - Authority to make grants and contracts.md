@@ -36,7 +36,7 @@
 
 #### Prior Provisions
 
-A prior section 5667a, Pub. L. 93–415, title II, §282, as added Pub. L. 100–690, title VII, §7267, Nov. 18, 1988, 102 Stat. 4451, related to approval of applications for grantsand contracts, prior to the general amendment of this part by Pub. L. 102–586.
+A prior section 5667a, Pub. L. 93–415, title II, §282, as added Pub. L. 100–690, title VII, §7267, Nov. 18, 1988, 102 Stat. 4451, related to approval of applications for grants and contracts, prior to the general amendment of this part by Pub. L. 102–586.
 
 #### Section Referred to in Other Sections
 

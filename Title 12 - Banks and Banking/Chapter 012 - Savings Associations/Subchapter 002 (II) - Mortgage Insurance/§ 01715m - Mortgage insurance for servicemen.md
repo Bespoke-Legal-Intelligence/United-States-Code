@@ -22,7 +22,7 @@ The Secretary may prescribe the manner in which a mortgage may be accepted for i
 
 #### (d) Entitlement of mortgagee to benefits
 
-Any mortgagee under a mortgage insured under this section is entitled to the benefits of the insurance as provided in section 1710(a) of this title with respect to mortgages insured under section 1709 of this title.
+Any mortgagee under a mortgage insured under this section is entitled to the benefits ofthe insurance as provided in section 1710(a) of this title with respect to mortgages insured under section 1709 of this title.
 
 #### (e) Applicability of other provisions
 

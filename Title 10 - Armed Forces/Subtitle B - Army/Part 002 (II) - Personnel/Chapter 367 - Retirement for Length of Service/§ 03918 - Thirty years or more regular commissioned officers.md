@@ -1,6 +1,6 @@
 ### §3918. Thirty years or more: regular commissioned officers
 
-A regular commissioned officer of the Army who has at least 30 years of service computed under section 3926 of this title may be retired upon his request, in the discretion of the President.
+A regular commissioned officer of the Army who has at least 30 years of service computed under section 3926 of this title may be retiredupon his request, in the discretion of the President.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 226.)
 

@@ -4,7 +4,7 @@ The prize master shall take the captured vessel to the selected port. On arrival
 
 &emsp;(1) deliver immediately to a prize commissioner the documents and papers and the inventory thereof;
 
-&emsp;(2) make affidavit that the documents and papers and the inventory thereof and the prize property are the same and are in the same condition as delivered to him, or explaining any loss or absence or change in their condition;
+&emsp;(2) make affidavit that the documents and papers and the inventory thereof and the prize property are the same and are in the same condition as delivered to him, or explainingany loss or absence or change in their condition;
 
 &emsp;(3) report all information respecting the prize and her capture to the United States attorney;
 

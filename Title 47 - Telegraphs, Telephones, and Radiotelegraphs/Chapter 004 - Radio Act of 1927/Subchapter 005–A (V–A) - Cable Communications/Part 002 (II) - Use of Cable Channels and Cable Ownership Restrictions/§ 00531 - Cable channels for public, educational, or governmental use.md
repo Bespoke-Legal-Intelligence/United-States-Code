@@ -22,13 +22,17 @@ In the case of any franchise under which channel capacity is designated under su
 
 #### (e) Editorial control by cable operator
 
-Subject to section 544(d) of this title, a cable operator shall not exercise any editorial control over any public, educational, or governmental use of channel capacity provided pursuant to this section.
+Subject to section 544(d) of this title, a cable operator shall not exercise any editorial control over any public, educational, or governmental use of channel capacity provided pursuant to this section, except a cable operator may refuse to transmit any public access program or portion of a public access program which contains obscenity, indecency, or nudity.
 
 #### (f) “Institutional network” defined
 
 For purposes of this section, the term “institutional network” means a communication network which is constructed or operated by the cable operator and which is generally available only to subscribers who are not residential subscribers.
 
-(June 19, 1934, ch. 652, title VI, §611, as added Oct. 30, 1984, Pub. L. 98–549, §2, 98 Stat. 2782.)
+(June 19, 1934, ch. 652, title VI, §611, as added Oct. 30, 1984, Pub. L. 98–549, §2, 98 Stat. 2782; Feb. 8, 1996, Pub. L. 104–104, title V, §506(a), 110 Stat. 136.)
+
+#### Amendments
+
+1996—Subsec. (e). Pub. L. 104–104 inserted before period at end “, except a cable operator may refuse to transmit any public access program or portion of a public access program which contains obscenity, indecency, or nudity”.
 
 #### Effective Date
 
@@ -40,5 +44,5 @@ Pub. L. 102–385, §10(c), Oct. 5, 1992, 106 Stat. 1486, provided that: “With
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 532, 534, 535 of this title.
+This section is referred to in sections 532, 534, 535, 541, 573 of this title.
 

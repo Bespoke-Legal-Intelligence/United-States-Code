@@ -1,70 +1,88 @@
 ### §7501. Definitions
 
-As used in this chapter, the term—
+(a) As used in this chapter, the term—
 
-&emsp;(1) “cognizant agency” means a Federal agency which is assigned by the Director with the responsibility for implementing the requirements of this chapter with respect to a particular State or local government.
+&emsp;(1) “Comptroller General” means the Comptroller General of the United States;
 
-&emsp;(2) “Comptroller General” means the Comptroller General of the United States.
+&emsp;(2) “Director” means the Director of the Office of Management and Budget;
 
-&emsp;(3) “Director” means the Director of the Office of Management and Budget.
+&emsp;(3) “Federal agency” has the same meaning as the term “agency” in section 551(1) of title 5;
 
-&emsp;(4) “Federal financial assistance” means assistance provided by a Federal agency in the form of grants, contracts, loans, loan guarantees, property, cooperative agreements, interest subsidies, insurance, or direct appropriations, but does not include direct Federal cash assistance to individuals.
+&emsp;(4) “Federal awards” means Federal financial assistance and Federal cost-reimbursement contracts that non-Federal entities receive directly from Federal awarding agencies or indirectly from pass-through entities;
 
-&emsp;(5) “Federal agency” has the same meaning as the term “agency” in section 551(1) of title 5, United States Code.
+&emsp;(5) “Federal financial assistance” means assistance that non-Federal entities receive or administer in the form of grants, loans, loan guarantees, property, cooperative agreements, interest subsidies, insurance, food commodities, direct appropriations, or other assistance, but does not include amounts received as reimbursement for services rendered to individuals in accordance with guidance issued by the Director;
 
-&emsp;(6) “generally accepted accounting principles” has the meaning specified in the generally accepted government auditing standards.
+&emsp;(6) “Federal program” means all Federal awards to a non-Federal entity assigned a single number in the Catalog of Federal Domestic Assistance or encompassed in a group of numbers or other category as defined by the Director;
 
-&emsp;(7) “generally accepted government auditing standards” means the standards for audit of governmental organizations, programs, activities, and functions, issued by the Comptroller General.
+&emsp;(7) “generally accepted government auditing standards” means the government auditing standards issued by the Comptroller General;
 
 &emsp;(8) “independent auditor” means—
 
-&emsp;&emsp;(A) an external State or local government auditor who meets the independence standards included in generally accepted government auditing standards, or
+&emsp;&emsp;(A) an external State or local government auditor who meets the independence standards included in generally accepted government auditing standards; or
 
-&emsp;&emsp;(B) a public accountant who meets such independence standards.
+&emsp;&emsp;(B) a public accountant who meets such independence standards;
 
-&emsp;(9) “internal controls” means the plan of organization and methods and procedures adopted by management to ensure that—
+&emsp;(9) “Indian tribe” means any Indian tribe, band, nation, or other organized group or community, including any Alaskan Native village or regional or village corporation (as defined in, or established under, the Alaskan Native Claims Settlement Act) that is recognized by the United States as eligible for the special programs and services provided by the United States to Indians because of their status as Indians;
 
-&emsp;&emsp;(A) resource use is consistent with laws, regulations, and policies;
+&emsp;(10) “internal controls” means a process, effected by an entity's management and other personnel, designed to provide reasonable assurance regarding the achievement of objectives in the following categories:
 
-&emsp;&emsp;(B) resources are safeguarded against waste, loss, and misuse; and
+&emsp;&emsp;(A) Effectiveness and efficiency of operations.<sup>1</sup>
 
-&emsp;&emsp;(C) reliable data are obtained, maintained, and fairly disclosed in reports.
+&emsp;&emsp;(B) Reliability of financial reporting.<sup>1</sup>
 
-&emsp;(10) “Indian tribe” means any Indian tribe, band, nation, or other organized group or community, including any Alaskan Native village or regional or village corporation (as defined in, or established under, the Alaskan Native Claims Settlement Act) that is recognized by the United States as eligible for the special programs and services provided by the United States to Indians because of their status as Indians.
+&emsp;&emsp;(C) Compliance with applicable laws and regulations;
 
-&emsp;(11) “local government” means any unit of local government within a State, including a county, borough, municipality, city, town, township, parish, local public authority, special district, school district, intrastate district, council of governments, and any other instrumentality of local government.
+&emsp;(11) “local government” means any unit of local government within a State, including a county, borough, municipality, city, town, township, parish, local public authority, special district, school district, intrastate district, council of governments, any other instrumentality of local government and, in accordance with guidelines issued by the Director, a group of local governments;
 
-&emsp;(12) “major Federal assistance program” means any program for which total expenditures of Federal financial assistance by the State or local government during the applicable year exceed—
+&emsp;(12) “major program” means a Federal program identified in accordance with risk-based criteria prescribed by the Director under this chapter, subject to the limitations described under subsection (b);
 
-&emsp;&emsp;(A) $20,000,000 in the case of a State or local government for which such total expenditures for all programs exceed $7,000,000,000;
+&emsp;(13) “non-Federal entity” means a State, local government, or nonprofit organization;
 
-&emsp;&emsp;(B) $19,000,000 in the case of a State or local government for which such total expenditures for all programs exceed $6,000,000,000 but are less than or equal to $7,000,000,000;
+&emsp;(14) “nonprofit organization” means any corporation, trust, association, cooperative, or other organization that—
 
-&emsp;&emsp;(C) $16,000,000 in the case of a State or local government for which such total expenditures for all programs exceed $5,000,000,000 but are less than or equal to $6,000,000,000;
+&emsp;&emsp;(A) is operated primarily for scientific, educational, service, charitable, or similar purposes in the public interest;
 
-&emsp;&emsp;(D) $13,000,000 in the case of a State or local government for which such total expenditures for all programs exceed $4,000,000,000 but are less than or equal to $5,000,000,000;
+&emsp;&emsp;(B) is not organized primarily for profit; and
 
-&emsp;&emsp;(E) $10,000,000 in the case of a State or local government for which such total expenditures for all programs exceed $3,000,000,000 but are less than or equal to $4,000,000,000;
+&emsp;&emsp;(C) uses net proceeds to maintain, improve, or expand the operations of the organization;
 
-&emsp;&emsp;(F) $7,000,000 in the case of a State or local government for which such total expenditures for all programs exceed $2,000,000,000 but are less than or equal to $3,000,000,000;
+&emsp;(15) “pass-through entity” means a non-Federal entity that provides Federal awards to a subrecipient to carry out a Federal program;
 
-&emsp;&emsp;(G) $4,000,000 in the case of a State or local government for which such total expenditures for all programs exceed $1,000,000,000 but are less than or equal to $2,000,000,000;
+&emsp;(16) “program-specific audit” means an audit of one Federal program;
 
-&emsp;&emsp;(H) $3,000,000 in the case of a State or local government for which such total expenditures for all programs exceed $100,000,000 but are less than or equal to $1,000,000,000; and
+&emsp;(17) “recipient” means a non-Federal entity that receives awards directly from a Federal agency to carry out a Federal program;
 
-&emsp;&emsp;(I) the larger of (i) $300,000, or (ii) 3 percent of such total expenditures for all programs,in the case of a State or local government for which such total expenditures for all programs exceed $100,000 but are less than or equal to $100,000,000.
+&emsp;(18) “single audit” means an audit, as described under section 7502(d), of a non-Federal entity that includes the entity's financial statements and Federal awards;
 
-&emsp;(13) “public accountants” means those individuals who meet the qualification standards included in generally accepted government auditing standards for personnel performing government audits.
+&emsp;(19) “State” means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and the Trust Territory of the Pacific Islands, any instrumentality thereof, any multi-State, regional, or interstate entity which has governmental functions, and any Indian tribe; and
 
-&emsp;(14) “State” means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and the Trust Territory of the Pacific Islands, any instrumentality thereof, any multi-State, regional, or interstate entity which has governmental functions, and any Indian tribe.
+&emsp;(20) “subrecipient” means a non-Federal entity that receives Federal awards through another non-Federal entity to carry out a Federal program, but does not include an individual who receives financial assistance through such awards.
 
-&emsp;(15) “subrecipient” means any person or government department, agency, or establishment that receives Federal financial assistance through a State or local government, but does not include an individual that receives such assistance.
+(b) In prescribing risk-based program selection criteria for major programs, the Director shall not require more programs to be identified as major for a particular non-Federal entity, except as prescribed under subsection (c) or as provided under subsection (d), than would be identified if the major programs were defined as any program for which total expenditures of Federal awards by the non-Federal entity during the applicable year exceed—
 
-(Added Pub. L. 98–502, §2(a), Oct. 19, 1984, 98 Stat. 2327.)
+&emsp;(1) the larger of $30,000,000 or 0.15 percent of the non-Federal entity's total Federal expenditures, in the case of a non-Federal entity for which such total expenditures for all programs exceed $10,000,000,000;
+
+&emsp;(2) the larger of $3,000,000, or 0.30 percent of the non-Federal entity's total Federal expenditures, in the case of a non-Federal entity for which such total expenditures for all programs exceed $100,000,000 but are less than or equal to $10,000,000,000; or
+
+&emsp;(3) the larger of $300,000, or 3 percent of such total Federal expenditures for all programs, in the case of a non-Federal entity for which such total expenditures for all programs equal or exceed $300,000 but are less than or equal to $100,000,000.
+
+(c) When the total expenditures of a non-Federal entity's major programs are less than 50 percent of the non-Federal entity's total expenditures of all Federal awards (or such lower percentage as specified by the Director), the auditor shall select and test additional programs as major programs as necessary to achieve audit coverage of at least 50 percent of Federal expenditures by the non-Federal entity (or such lower percentage as specified by the Director), in accordance with guidance issued by the Director.
+
+(d) Loan or loan guarantee programs, as specified by the Director, shall not be subject to the application of subsection (b).
+
+(Added Pub. L. 98–502, §2(a), Oct. 19, 1984, 98 Stat. 2327; amended Pub. L. 104–156, §2, July 5, 1996, 110 Stat. 1396.)
 
 #### References in Text
 
-The Alaskan Native Claims Settlement Act, referred to in par. (10), probably means the Alaska Native Claims Settlement Act, Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
+The Alaskan Native Claims Settlement Act, referred to in subsec. (a)(9), probably means the Alaska Native Claims Settlement Act, Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
+
+#### Amendments
+
+1996—Pub. L. 104–156 reenacted section catchline without change and amended text generally, substituting present provisions for similar provisions defining terms used in this chapter.
+
+#### Short Title of 1996 Amendment
+
+Section 1(a) of Pub. L. 104–156 provided that: “This Act \[amending this chapter and enacting provisions set out as notes below\] may be cited as the ‘Single Audit Act Amendments of 1996’.”
 
 #### Short Title
 
@@ -74,7 +92,23 @@ Section 1(a) of Pub. L. 98–502 provided that: “This Act \[enacting this chap
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 
+#### Transitional Application
+
+Section 3 of Pub. L. 104–156 provided that: “Subject to section 7507 of title 31, United States Code (as amended by section 2 of this Act) the provisions of chapter 75 of such title (before amendment by section 2 of this Act) shall continue to apply to any State or local government with respect to any of its fiscal years beginning before July 1, 1996.”
+
 #### Congressional Statement of Purpose
+
+Section 1(b) of Pub. L. 104–156 provided that: “The purposes of this Act \[see Short Title of 1996 Amendment note above\] are to—
+
+&emsp;“(1) promote sound financial management, including effective internal controls, with respect to Federal awards administered by non-Federal entities;
+
+&emsp;“(2) establish uniform requirements for audits of Federal awards administered by non-Federal entities;
+
+&emsp;“(3) promote the efficient and effective use of audit resources;
+
+&emsp;“(4) reduce burdens on State and local governments, Indian tribes, and nonprofit organizations; and
+
+&emsp;“(5) ensure that Federal departments and agencies, to the maximum extent practicable, rely upon and use audit work done pursuant to chapter 75 of title 31, United States Code (as amended by this Act).”
 
 Section 1(b) of Pub. L. 98–502 provided that: “It is the purpose of this Act \[enacting this chapter\]—
 
@@ -89,4 +123,6 @@ Section 1(b) of Pub. L. 98–502 provided that: “It is the purpose of this Act
 #### Tennessee Valley Authority Audits Unaffected by Single Audit Requirements
 
 Section 2(b) of Pub. L. 98–502 provided that: “The provisions of this Act \[enacting this chapter\] shall not diminish or otherwise affect the authority of the Tennessee Valley Authority to conduct its own audits of any matter involving funds disbursed by the Tennessee Valley Authority.”
+
+<i><sup>1</sup></i><i> So in original.</i>
 

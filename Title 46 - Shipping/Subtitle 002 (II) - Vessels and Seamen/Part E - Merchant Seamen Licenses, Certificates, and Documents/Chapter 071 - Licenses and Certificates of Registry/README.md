@@ -27,7 +27,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in title 47 section 155; title 50 App. section 1744.
+This chapter is referred to in section 1132 of Appendix to this title; title 47 section 155; title 50 App. section 1744.
 
 
 ---

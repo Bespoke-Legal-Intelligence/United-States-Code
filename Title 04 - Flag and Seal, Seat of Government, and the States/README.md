@@ -1,5 +1,5 @@
 
-4 U.S.C.<br>United States Code, 1995 Edition<br>Title 4 - FLAG AND SEAL, SEAT OF GOVERNMENT, AND THE STATES<br>From the U.S. Government Publishing Office, www.gpo.gov
+4 U.S.C.<br>United States Code, 1996 Edition<br>Title 4 - FLAG AND SEAL, SEAT OF GOVERNMENT, AND THE STATES<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 4—FLAG AND SEAL, SEAT OF GOVERNMENT, AND THE STATES
 
@@ -31,7 +31,9 @@ Table Showing Disposition of All Sections of Former Title 4
 
 <i>Title 4 Former Sections</i>
 
-<i>    Revised Statutes         Statutes at Large    </i>
+<i>Revised Statutes</i>
+
+<i>Statutes at Large</i>
 
 <i>Title 4 New Sections</i>
 

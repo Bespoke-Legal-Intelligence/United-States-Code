@@ -30,7 +30,7 @@ The provisions of section 4332(2)(C) of title 42 shall not apply with respect to
 
 (3) The Secretary shall begin the necessary engineering studies and improvements on January 2, 1974.
 
-(4) The final system plan shall provide for any necessary coordination with freight or commuter services of use of the facilities designated in section 716(c)(1)(C) of this title. Such coordination may be effectuated through a single operating entity, designated in the final system plan, or as mutually agreed upon by the interested parties.
+(4) The final system plan shall provide for any necessary coordination with freight or commuter services of use of the facilities designated in section 716(c)(1)(C) of this title. Such coordination may be effectuated through a single operating entity, designated in the final systemplan, or as mutually agreed upon by the interested parties.
 
 (5) Construction or improvements made pursuant to this subsection may be made in consultation with the Corps of Engineers.
 
@@ -68,6 +68,10 @@ Subsec. (c). Pub. L. 94–210, §618(c), substituted provisions relating to inap
 
 Subsec. (d)(1). Pub. L. 94–210, §705(b), substituted mandatory for discretionary authority for purchase of properties by the Corporation and provisions relating to negotiations for properties for transfer pursuant to section 716(c)(1)(C) of this title, for provisions relating to negotiations as provided in the final system plan.
 
+#### Abolition of Special Court, Regional Rail Reorganization Act of 1973, and Transfer of Functions
+
+Special court abolished and all jurisdiction and functions transferred to United States District Court for District of Columbia, see section 719(b)(2) of this title.
+
 #### Abolition of Interstate Commerce Commission and Transfer of Functions
 
 Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by section 702 of Title 49, Transportation, and section 101 of Pub. L. 104–88, set out as a note under section 701 of Title 49. References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under section 701 of Title 49.
@@ -82,7 +86,7 @@ Section 619 of title VI of Pub. L. 94–210 provided that: “Nothing in this ti
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 716, 741, 742, 743 of this title; title 11 section 1166; title 49 section 24907.
+This section is referred to in sections 716, 719, 741, 742, 743 of this title; title 11 section 1166; title 49 section 24907.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

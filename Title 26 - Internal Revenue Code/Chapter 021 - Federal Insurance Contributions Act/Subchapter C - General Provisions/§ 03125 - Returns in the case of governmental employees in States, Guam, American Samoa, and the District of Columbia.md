@@ -64,7 +64,7 @@ Amendment by Pub. L. 101–508 applicable to 1991 and later calendar years, see 
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–272 applicable to services performed after Mar. 31, 1986, see section 13205(d)(1) ofPub. L. 99–272, set out as a note under section 3121 of this title.
+Amendment by Pub. L. 99–272 applicable to services performed after Mar. 31, 1986, see section 13205(d)(1) of Pub. L. 99–272, set out as a note under section 3121 of this title.
 
 #### Effective Date of 1973 Amendments
 

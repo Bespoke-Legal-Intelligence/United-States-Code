@@ -20,7 +20,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 5 U.S.C. 118h.
 
@@ -68,7 +70,7 @@ Definitions. As used in this Part, (a) the words “foreign areas” mean all ar
 
 Sec. 102.
 
-Additional Compensation by Reason of Environment. The Secretary of State shall from time to time, subject to applicable law, (a) designate places in foreign areas having conditions of environment which differ substantially from conditions of environment in the United States and warrant additional compensation as a recruitment incentive, (b) fix for each such place the additional rate or rates of compensation to be paidby reason of such environment pursuant to section 207 of the Act, after giving due consideration to the degree of environmental difference, and (c) prescribe such further regulations, governing such compensation, as may be necessary. Additional compensation so fixed is hereafter in this Part referred to as “foreign post differential.”
+Additional Compensation by Reason of Environment. The Secretary of State shall from time to time, subject to applicable law, (a) designate places in foreign areas having conditions of environment which differ substantially from conditions of environment in the United States and warrant additional compensation as a recruitment incentive, (b) fix for each such place the additional rate or rates of compensation to be paid by reason of such environment pursuant to section 207 of the Act, after giving due consideration to the degree of environmental difference, and (c) prescribe such further regulations, governing such compensation, as may be necessary. Additional compensation so fixed is hereafter in this Part referred to as “foreign post differential.”
 
 Sec. 103.
 
@@ -138,7 +140,7 @@ Persons Eligible to Receive Non-Foreign Area Post Differential. (a) In order tha
 
 (1) Persons recruited or transferred from outside the area concerned.
 
-(2) Persons employed in the area concerned but (a) who were originally recruited from outside such areaand have been in substantially continuous employment by other Federal agencies, contractors of Federal agencies, or international organizations in which the U. S. Government participates, and whose conditions of employment provide for their return transportation to places outside the area concerned, or (b) who were at the time of employment temporarily present in the area concerned for purposes of travel or formal study and maintained residence outside such area during the period so present.
+(2) Persons employed in the area concerned but (a) who were originally recruited from outside such area and have been in substantially continuous employment by other Federal agencies, contractors of Federal agencies, or international organizations in which the U. S.Government participates, and whose conditions of employment provide for their return transportation to places outside the area concerned, or (b) who were at the time of employment temporarily present in the area concerned for purposes of travel or formal study and maintained residence outside such area during the period so present.
 
 (3) Persons who are not normally residents of the area concerned and who are discharged from the military service of the United States in such area to accept employment therein with an agency of the Federal Government.
 
@@ -176,7 +178,7 @@ Persons Serving Under Contract. Any other provision of this Part notwithstanding
 
 Sec. 210.
 
-Periodic Review. The Office of Personnel Management shall periodically, but at least annually, review the places designated, the rates fixed, and the regulations prescribed pursuant to this Part, with a view to making such changes therein as will insure that payment of additional compensation under the provisions of this Part shall continue only during the continuance of conditions justifying such payment and shall not in any instance exceed the amount justified: <i>Provided,</i> That if program or methodology revisions would substantially reduce an established differential or allowance rate, then the rate of such additional compensation may be reduced gradually.
+Periodic Review. The Office of Personnel Management shall periodically, but at least annually, review the places designated, the rates fixed, and the regulations prescribed pursuant to this Part, with a view to making such changes therein as will insure that payment of additional compensation under the provisions of this Part shall continue only during the continuance of conditions justifying such payment and shall not in any instance exceed the amount justified: <i>Provided</i>, That if program or methodology revisions would substantially reduce an established differential or allowance rate, then the rate of such additional compensation may be reduced gradually.
 
 #### Part III—Interim Arrangements
 
@@ -204,5 +206,5 @@ Ex. Ord. No. 12070, June 30, 1978, 43 F.R. 28977, as amended by Ex. Ord. No. 121
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 5307 of this title; title 10 sections 1590, 1604; title 20 section 906; title 22 section 2506; title 39 section 1005.
+This section is referred to in section 5307 of this title; title 10 section 1603; title 20 section 906; title 22 section 2506; title 39 section 1005.
 

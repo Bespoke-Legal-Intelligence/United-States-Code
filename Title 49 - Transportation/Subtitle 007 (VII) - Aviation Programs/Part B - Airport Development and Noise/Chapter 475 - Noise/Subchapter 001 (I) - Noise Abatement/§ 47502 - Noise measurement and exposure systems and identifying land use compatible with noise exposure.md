@@ -16,7 +16,9 @@ After consultation with the Administrator of the Environmental Protection Agency
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

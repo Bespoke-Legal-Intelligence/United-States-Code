@@ -2,7 +2,7 @@
 
 #### (a) Ownership or operation requirement
 
-(1) No contract shall be entered into under this subpart concerning land with respect to which the ownership has changed in the 3-year period preceding the first year of the contract period unless—
+(1) No contract shall be entered into under this subpart concerning land with respect to which the ownership has changed in the 1-year period preceding the first year of the contract period unless—
 
 &emsp;(A) the new ownership was acquired by will or succession as a result of the death of the previous owner;
 
@@ -18,7 +18,7 @@
 
 &emsp;(B) require a person to own the land as a condition of eligibility for entering into the contract if the person—
 
-&emsp;&emsp;(i) has operated the land to be covered by a contract under this section for at least 3 years preceding the date of the contract or since January 1, 1985, whichever is later; and
+&emsp;&emsp;(i) has operated the land to be covered by a contract under this section for at least 1 year preceding the date of the contract or since January 1, 1985, whichever is later; and
 
 &emsp;&emsp;(ii) controls the land for the contract period.
 
@@ -58,9 +58,49 @@ If during the term of a contract entered into under this subpart an owner or ope
 
 (2) At least 90 days before taking any action to terminate under paragraph (1) all conservation reserve contracts entered into under this subpart, the Secretary shall provide written notice of such action to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate.
 
-(Pub. L. 99–198, title XII, §1235, Dec. 23, 1985, 99 Stat. 1513; Pub. L. 100–233, title VIII, §801, Jan. 6, 1988, 101 Stat. 1710; Pub. L. 101–624, title XIV, §1447(a), Nov. 28, 1990, 104 Stat. 3605.)
+#### (e) Termination by owner or operator
+
+#### (1) Early termination authorized
+
+&emsp;Subject to the other provisions of this subsection, the Secretary shall allow a participant who entered into a contract before January 1, 1995, to terminate the contract at any time if the contract has been in effect for at least 5 years. The termination shall not relieve the participant of liability for a contract violation occurring before the date of the termination. The participant shall provide the Secretary with reasonable notice of the participant's desire to terminate the contract.
+
+#### (2) Certain lands excepted
+
+&emsp;The following lands shall not be subject to an early termination of contract under this subsection:
+
+&emsp;&emsp;(A) Filterstrips, waterways, strips adjacent to riparian areas, windbreaks, and shelterbelts.
+
+&emsp;&emsp;(B) Land with an erodibility index of more than 15.
+
+&emsp;&emsp;(C) Other lands of high environmental value (including wetlands), as determined by the Secretary.
+
+#### (3) Effective date
+
+&emsp;The contract termination shall become effective 60 days after the date on which the owner or operator submits the notice required under paragraph (1).
+
+#### (4) Prorated rental payment
+
+&emsp;If a contract entered into under this subpart is terminated under this subsection before the end of the fiscal year for which a rental payment is due, the Secretary shall provide a prorated rental payment covering the portion of the fiscal year during which the contract was in effect.
+
+#### (5) Renewed enrollment
+
+&emsp;The termination of a contract entered into under this subpart
+
+shall not affect the ability of the owner or operator who requested the termination to submit a subsequent bid to enroll the land that was subject to the contract into the conservation reserve.
+
+#### (6) Conservation requirements
+
+&emsp;If land that was subject to a contract is returned to production of an agricultural commodity, the conservation requirements under subchapters II and III of this chapter shall apply to the use of the land to the extent that the requirements are similar to those requirements imposed on other similar lands in the area, except that the requirements may not be more onerous than the requirements imposed on other lands.
+
+(Pub. L. 99–198, title XII, §1235, Dec. 23, 1985, 99 Stat. 1513; Pub. L. 100–233, title VIII, §801, Jan. 6, 1988, 101 Stat. 1710; Pub. L. 101–624, title XIV, §1447(a), Nov. 28, 1990, 104 Stat. 3605; Pub. L. 104–127, title III, §332(c), Apr. 4, 1996, 110 Stat. 994.)
 
 #### Amendments
+
+1996—Subsec. (a)(1). Pub. L. 104–127, §332(c)(1)(A), substituted “1-year” for “3-year” in introductory provisions.
+
+Subsec. (a)(2)(B)(i). Pub. L. 104–127, §332(c)(1)(B), substituted “1 year” for “3 years”.
+
+Subsec. (e). Pub. L. 104–127, §332(c)(2), added subsec. (e).
 
 1990—Pub. L. 101–624, §1447(a), substituted reference to this subpart for reference to this subchapter wherever appearing.
 

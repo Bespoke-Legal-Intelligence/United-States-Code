@@ -1,6 +1,6 @@
 ### \[§8636. Repealed. Pub. L. 87–649, §14c(56), Sept. 7, 1962, 76 Stat. 502\]
 
-Section, act Aug. 10, 1956, ch. 1041, 70A Stat. 533, provided that pay and allowances do not accrue to an enlisted member of Air Force who is in confinement under sentence of dishonorable discharge, while execution of sentence to discharge is suspended, and is now covered by section 804 of Title 37, Pay and Allowances of the Uniformed Services.
+Section, act Aug. 10, 1956, ch. 1041, 70A Stat. 533, provided that pay and allowances do not accrue to an enlisted member of Air Force who is in confinement under sentence of dishonorable discharge, while execution of sentence to discharge is suspended. See section 858b of this title.
 
 #### Effective Date of Repeal
 

@@ -32,5 +32,5 @@ Amendment by Pub. L. 85–866 effective Aug. 17, 1954, see section 1(c)(2) of Pu
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 6339 of this title; title 18 section 3613.
+This section is referred to in section 6339 of this title.
 

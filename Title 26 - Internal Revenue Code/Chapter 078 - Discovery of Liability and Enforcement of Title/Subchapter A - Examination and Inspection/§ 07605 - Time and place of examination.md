@@ -84,7 +84,7 @@ Amendment by Pub. L. 91–258 effective July 1, 1970, see section 211(a) of Pub.
 
 #### Effective Date of 1969 Amendment
 
-Amendment by Pub. L. 91–172 applicable to taxable years beginning after Dec. 31, 1969, see section 121(g) ofPub. L. 91–172, set out as a note under section 511 of this title.
+Amendment by Pub. L. 91–172 applicable to taxable years beginning after Dec. 31, 1969, see section 121(g) of Pub. L. 91–172, set out as a note under section 511 of this title.
 
 #### Effective Date of 1965 Amendment
 

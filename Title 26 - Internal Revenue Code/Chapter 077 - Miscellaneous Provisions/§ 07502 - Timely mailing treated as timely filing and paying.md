@@ -16,7 +16,7 @@
 
 &emsp;&emsp;&emsp;(ii) for making the payment (including any extension granted for making such payment), and
 
-&emsp;&emsp;(B) the return, claim, statement, or other document, or payment was, within the timeprescribed in subparagraph (A), deposited in the mail in the United States in an envelope or other appropriate wrapper, postage prepaid, properly addressed to the agency, officer, or office with which the return, claim, statement, or other document is required to be filed, or to which such payment is required to be made.
+&emsp;&emsp;(B) the return, claim, statement, or other document, or payment was, within the time prescribed in subparagraph (A), deposited in the mail in the United States in an envelope or other appropriate wrapper, postage prepaid, properly addressed to the agency, officer, or office with which the return, claim, statement, or other document is required to be filed, or to which such payment is required to be made.
 
 #### (b) Postmarks
 
@@ -66,13 +66,37 @@ This section shall not apply with respect to—
 
 &emsp;Paragraph (1) shall not apply with respect to any deposit of $20,000 or more by any person who is required to deposit any tax more than once a month.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 895; Sept. 2, 1958, Pub. L. 85–866, title I, §89(a), 72 Stat. 1665; Nov. 2, 1966, Pub. L. 89–713, §5(a), 80 Stat. 1110; June 28, 1968, Pub. L. 90–364, title I, §106(a), 82 Stat. 266; Oct. 4, 1976, Pub. L. 94–455, title XIX, §§1906(a)(49), (b)(13)(A), 90 Stat. 1831, 1834; Oct. 28, 1977, Pub. L. 95–147, §3(b), 91 Stat. 1228; July 18, 1984, Pub. L. 98–369, div. A, title I, §157(a), 98 Stat. 695; Oct. 22, 1986, Pub. L. 99–514, title XVIII, §1811(e), 100 Stat. 2833.)
+#### (f) Treatment of private delivery services
+
+#### (1) In general
+
+&emsp;Any reference in this section to the United States mail shall be treated as including a reference to any designated delivery service, and any reference in this section to a postmark by the United States Postal Service shall be treated as including a reference to any date recorded or marked as described in paragraph (2)(C) by any designated delivery service.
+
+#### (2) Designated delivery service
+
+&emsp;For purposes of this subsection, the term “designated delivery service” means any delivery service provided by a trade or business if such service is designated by the Secretary for purposes of this section. The Secretary may designate a delivery service under the preceding sentence only if the Secretary determines that such service—
+
+&emsp;&emsp;(A) is available to the general public,
+
+&emsp;&emsp;(B) is at least as timely and reliable on a regular basis as the United States mail,
+
+&emsp;&emsp;(C) records electronically to its data base, kept in the regular course of its business, or marks on the cover in which any item referred to in this section is to be delivered, the date on which such item was given to such trade or business for delivery, and
+
+&emsp;&emsp;(D) meets such other criteria as the Secretary may prescribe.
+
+#### (3) Equivalents of registered and certified mail
+
+&emsp;The Secretary may provide a rule similar to the rule of paragraph (1) with respect to any service provided by a designated delivery service which is substantially equivalent to United States registered or certified mail.
+
+(Aug. 16, 1954, ch. 736, 68A Stat. 895; Sept. 2, 1958, Pub. L. 85–866, title I, §89(a), 72 Stat. 1665; Nov. 2, 1966, Pub. L. 89–713, §5(a), 80 Stat. 1110; June 28, 1968, Pub. L. 90–364, title I, §106(a), 82 Stat. 266; Oct. 4, 1976, Pub. L. 94–455, title XIX, §§1906(a)(49), (b)(13)(A), 90 Stat. 1831, 1834; Oct. 28, 1977, Pub. L. 95–147, §3(b), 91 Stat. 1228; July 18, 1984, Pub. L. 98–369, div. A, title I, §157(a), 98 Stat. 695; Oct. 22, 1986, Pub. L. 99–514, title XVIII, §1811(e), 100 Stat. 2833; July 30, 1996, Pub. L. 104–168, title XII, §1210, 110 Stat. 1474.)
 
 #### References in Text
 
 The internal revenue laws, referred to in subsec. (d)(3), are classified generally to this title.
 
 #### Amendments
+
+1996—Subsec. (f). Pub. L. 104–168 added subsec. (f).
 
 1986—Subsec. (e)(3). Pub. L. 99–514 substituted “any tax” for “the tax”.
 

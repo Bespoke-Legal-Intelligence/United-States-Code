@@ -18,7 +18,7 @@ In assuring the effective management of this program, the Secretary shall have s
 
 &emsp;(3) determine appropriate means and facilities for safely and economically storing, transporting, and dispensing methane for use as a vehicular fuel;
 
-&emsp;(4) conduct demonstration projects with respect to the feasibility of methane-fueled vehicles and methane transmission, storage and dispensing facilities (A) by providing necessary financial or technical assistance for the construction, modification, or operation of motor vehicles to be methane-fueled for practical use or of methane transmission, storage and dispensing facilities, and (B) by entering into agreements or arrangements with otherentities, governmental and nongovernmental, for the demonstration of such vehicles and facilities;
+&emsp;(4) conduct demonstration projects with respect to the feasibility of methane-fueled vehicles and methane transmission, storage and dispensing facilities (A) by providing necessary financial or technical assistance for the construction, modification, or operation of motor vehicles to be methane-fueled for practical use or of methane transmission, storage and dispensing facilities, and (B) by entering into agreements or arrangements with other entities, governmental and nongovernmental, for the demonstration of such vehicles and facilities;
 
 &emsp;(5) gather performance data, including but not limited to emissions data, on methane-fueled vehicles and related transmission and storage facilities;
 

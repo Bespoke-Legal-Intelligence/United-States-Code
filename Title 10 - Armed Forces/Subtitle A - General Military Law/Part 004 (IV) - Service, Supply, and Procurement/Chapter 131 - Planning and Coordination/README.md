@@ -17,15 +17,21 @@
 | [2213\.](%C2%A7%2002213%20-%20Limitation%20on%20acquisition%20of%20excess%20supplies.md) | Limitation on acquisition of excess supplies. |
 | [2214\.](%C2%A7%2002214%20-%20Transfer%20of%20funds%20procedure%20and%20limitations.md) | Transfer of funds: procedure and limitations. |
 | [2215\.](%C2%A7%2002215%20-%20Transfer%20of%20funds%20to%20other%20departments%20and%20agencies%20limitation.md) | Transfer of funds to other departments and agencies: limitation. |
-| \[2216. | Repealed.\] |
+| [2216\.](%C2%A7%2002216%20-%20Defense%20Modernization%20Account.md) | Defense Modernization Account. |
+| [2216a.](%C2%A7%2002216a%20-%20Defense%20Business%20Operations%20Fund.md) | Defense Business Operations Fund. |
 | [2217\.](%C2%A7%2002217%20-%20Comparable%20budgeting%20for%20common%20procurement%20weapon%20systems.md) | Comparable budgeting for common procurement weapon systems. |
 | [2218\.](%C2%A7%2002218%20-%20National%20Defense%20Sealift%20Fund.md) | National Defense Sealift Fund. |
 | [2219\.](%C2%A7%2002219%20-%20Retention%20of%20morale%2C%20welfare%2C%20and%20recreation%20funds%20by%20military%20installations%20limitation.md) | Retention of morale, welfare, and recreation funds by military installations: limitation. |
 | [2220\.](%C2%A7%2002220%20-%20Performance%20based%20management%20acquisition%20programs.md) | Performance based management: acquisition programs. |
+| [2221\.](%C2%A7%2002221%20-%20Fisher%20House%20trust%20funds.md) | Fisher House trust funds. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1996—Pub. L. 104–201, div. A, title X, §1074(a)(10), Sept. 23, 1996, 110 Stat. 2659, redesignated item 2216 “Defense Business Operations Fund” as 2216a.
+
+Pub. L. 104–106, div. A, title III, §371(a)(2), title IX, §§912(a)(2), 914(a)(2), Feb. 10, 1996, 110 Stat. 279, 410, 412, added two items 2216 and item 2221.
 
 1994—Pub. L. 103–355, title II, §2454(c)(3)(A), title III, §3061(b), title V, §5001(a)(2), Oct. 13, 1994, 108 Stat. 3326, 3336, 3350, substituted “Regulations on procurement, production, warehousing, and supply distribution functions” for “Obligation of funds: limitation” in item 2202, struck out item 2212 “Contracted advisory and assistance services: accounting procedures”, and added item 2220.
 
@@ -37,7 +43,7 @@ Pub. L. 103–337, div. A, title III, §373(b), div. B, title XXVIII, §2804(b)(
 
 1991—Pub. L. 102–190, div. A, title III, §317(b), Dec. 5, 1991, 105 Stat. 1338, added item 2213.
 
-1990—Pub. L. 101–510, div. A, title XIII, §1331(2), title XIV, §§1482(c)(2), 1484(i)(6), Nov. 5, 1990, 104 Stat. 1673, 1710, 1718, struck out item 2213 “Cooperative military airlift agreements”, added item 2214, and struck outitems 2215 “Reports on unobligated balances” and 2216 “Annual report on budgeting for inflation”.
+1990—Pub. L. 101–510, div. A, title XIII, §1331(2), title XIV, §§1482(c)(2), 1484(i)(6), Nov. 5, 1990, 104 Stat. 1673, 1710, 1718, struck out item 2213 “Cooperative military airlift agreements”, added item 2214, and struck out items 2215 “Reports on unobligated balances” and 2216 “Annual report on budgeting for inflation”.
 
 1988—Pub. L. 100–370, §1(d)(4), July 19, 1988, 102 Stat. 843, added items 2201, 2212, and 2217.
 
@@ -73,8 +79,10 @@ Pub. L. 97–214, §10(a)(1), July 12, 1982, 96 Stat. 174, struck out item 2212 
 - [&sect; 02213 - Limitation on acquisition of excess supplies](%C2%A7%2002213%20-%20Limitation%20on%20acquisition%20of%20excess%20supplies.md)
 - [&sect; 02214 - Transfer of funds procedure and limitations](%C2%A7%2002214%20-%20Transfer%20of%20funds%20procedure%20and%20limitations.md)
 - [&sect; 02215 - Transfer of funds to other departments and agencies limitation](%C2%A7%2002215%20-%20Transfer%20of%20funds%20to%20other%20departments%20and%20agencies%20limitation.md)
-- [&sect; 02216 - Repealed. Pub. L. 101&#8211;510, div. A, title XIII, &sect;1301(8), Nov. 5, 1990, 104 Stat. 1668](%C2%A7%2002216%20-%20Repealed.%20Pub.%20L.%20101%E2%80%93510%2C%20div.%20A%2C%20title%20XIII%2C%20%C2%A71301%288%29%2C%20Nov.%205%2C%201990%2C%20104%20Stat.%201668.md)
+- [&sect; 02216 - Defense Modernization Account](%C2%A7%2002216%20-%20Defense%20Modernization%20Account.md)
+- [&sect; 02216a - Defense Business Operations Fund](%C2%A7%2002216a%20-%20Defense%20Business%20Operations%20Fund.md)
 - [&sect; 02217 - Comparable budgeting for common procurement weapon systems](%C2%A7%2002217%20-%20Comparable%20budgeting%20for%20common%20procurement%20weapon%20systems.md)
 - [&sect; 02218 - National Defense Sealift Fund](%C2%A7%2002218%20-%20National%20Defense%20Sealift%20Fund.md)
 - [&sect; 02219 - Retention of morale, welfare, and recreation funds by military installations limitation](%C2%A7%2002219%20-%20Retention%20of%20morale%2C%20welfare%2C%20and%20recreation%20funds%20by%20military%20installations%20limitation.md)
 - [&sect; 02220 - Performance based management acquisition programs](%C2%A7%2002220%20-%20Performance%20based%20management%20acquisition%20programs.md)
+- [&sect; 02221 - Fisher House trust funds](%C2%A7%2002221%20-%20Fisher%20House%20trust%20funds.md)

@@ -11,7 +11,7 @@ Part A—Establishment and Activities of Federal Agricultural Mortgage Corporati
 - [&sect; 02279aa&#8211;4 - Stock issuance](%C2%A7%2002279aa%E2%80%934%20-%20Stock%20issuance.md)
 - [&sect; 02279aa&#8211;5 - Certification of agricultural mortgage marketing facilities](%C2%A7%2002279aa%E2%80%935%20-%20Certification%20of%20agricultural%20mortgage%20marketing%20facilities.md)
 - [&sect; 02279aa&#8211;6 - Guarantee of qualified loans](%C2%A7%2002279aa%E2%80%936%20-%20Guarantee%20of%20qualified%20loans.md)
-- [&sect; 02279aa&#8211;7 - Reserves and subordinated participation interests of certified facilities](%C2%A7%2002279aa%E2%80%937%20-%20Reserves%20and%20subordinated%20participation%20interests%20of%20certified%20facilities.md)
+- [&sect; 02279aa&#8211;7 - Repealed. Pub. L. 104&#8211;105, title I, &sect;108(b), Feb. 10, 1996, 110 Stat. 164](%C2%A7%2002279aa%E2%80%937%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93105%2C%20title%20I%2C%20%C2%A7108%28b%29%2C%20Feb.%2010%2C%201996%2C%20110%20Stat.%20164.md)
 - [&sect; 02279aa&#8211;8 - Standards for qualified loans](%C2%A7%2002279aa%E2%80%938%20-%20Standards%20for%20qualified%20loans.md)
 - [&sect; 02279aa&#8211;9 - Exemption from restructuring and borrowers rights provisions for pooled loans](%C2%A7%2002279aa%E2%80%939%20-%20Exemption%20from%20restructuring%20and%20borrowers%20rights%20provisions%20for%20pooled%20loans.md)
 - [&sect; 02279aa&#8211;10 - Funding for guarantee; reserves of Corporation](%C2%A7%2002279aa%E2%80%9310%20-%20Funding%20for%20guarantee%3B%20reserves%20of%20Corporation.md)

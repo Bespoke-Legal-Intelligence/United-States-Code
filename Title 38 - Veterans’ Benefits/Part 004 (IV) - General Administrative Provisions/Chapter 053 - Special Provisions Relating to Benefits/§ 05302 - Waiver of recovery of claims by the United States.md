@@ -52,7 +52,7 @@ Subsec. (c). Pub. L. 96–466, §605(c)(3)(B), inserted “(or any interest ther
 
 #### Effective Date of 1982 Amendment
 
-Section 407(b) of Pub. L. 97–306 provided that: “The amendments made by subsection (a) \[amending thissection\] shall apply only with respect to notifications of indebtedness that are made by the Administrator of Veterans’ Affairs after March 31, 1983.”
+Section 407(b) of Pub. L. 97–306 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply only with respect to notifications of indebtedness that are made by the Administrator of Veterans’ Affairs after March 31, 1983.”
 
 #### Effective Date of 1980 Amendment
 

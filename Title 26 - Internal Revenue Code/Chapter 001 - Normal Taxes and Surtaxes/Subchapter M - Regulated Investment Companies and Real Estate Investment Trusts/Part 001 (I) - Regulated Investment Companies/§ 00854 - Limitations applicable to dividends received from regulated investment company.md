@@ -66,7 +66,7 @@ For purposes of section 243 (relating to deductions for dividends received by co
 
 1986—Subsec. (a). Pub. L. 99–514, §612(b)(6)(A), which directed that “section 116 (relating to an exclusion for dividends received by individuals), and” be struck out, was executed by striking out “section 116 (relating to an exclusion for dividends received by individuals) and” before “section 243” as the probable intent of Congress.
 
-Subsec. (b)(1)(B), (C). Pub. L. 99–514, §612(b)(6)(B)(i), (ii), redesignated subpar. (C) as (B), struck out “or (B)” before “shall not exceed”, and struck out former subpar. (B), exclusion under section 116, which read as follows: “If the aggregate dividends received by a regulated investment company during any taxable year are less than 95 percent of its gross income, then, in computing the exclusion under section 116, rules similar to the rules of subparagraph (A) shall apply.”
+Subsec. (b)(1)(B), (C). Pub. L. 99–514, §612(b)(6)(B)(i), (ii), redesignated subpar. (C) as (B), struck out “or (B)”before “shall not exceed”, and struck out former subpar. (B), exclusion under section 116, which read as follows: “If the aggregate dividends received by a regulated investment company during any taxable year are less than 95 percent of its gross income, then, in computing the exclusion under section 116, rules similar to the rules of subparagraph (A) shall apply.”
 
 Subsec. (b)(2). Pub. L. 99–514, §655(a)(4), substituted “60 days” for “45 days”.
 

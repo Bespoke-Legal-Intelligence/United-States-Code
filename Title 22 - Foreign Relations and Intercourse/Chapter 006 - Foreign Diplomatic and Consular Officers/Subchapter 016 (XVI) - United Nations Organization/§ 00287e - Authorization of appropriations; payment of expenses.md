@@ -12,7 +12,7 @@ The civil-service laws, referred to in text, are set forth in Title 5, Governmen
 
 #### Codification
 
-“Chapter 51 and subchapter III of chapter 53 of title 5” substituted in text for “the Classification Act of 1949” on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
+“Chapter 51 and subchapter III of chapter 53 of title 5” substituted in text for “the Classification Act of1949” on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
 
 “Subchapter I of chapter 57 and section 5731 of title 5” substituted in text for “the Travel Expense Act of 1949, and section 10 of the Act of March 3, 1933, as amended \[5 U.S.C. 73b\]” on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5.
 
@@ -42,7 +42,7 @@ Amendment by Pub. L. 100–459 effective July 1, 1989, see section 304(c)(1) of 
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96–465 effective Feb. 15, 1981, except as otherwise provided, see section 2403 of Pub. L.96–465, set out as an Effective Date note under section 3901 of this title.
+Amendment by Pub. L. 96–465 effective Feb. 15, 1981, except as otherwise provided, see section 2403 of Pub. L. 96–465, set out as an Effective Date note under section 3901 of this title.
 
 #### Repeals
 
@@ -160,7 +160,7 @@ Assessed Contributions.—For assessed contributions authorized to be appropriat
 
 “(b)
 
-Notice to Congress.—The President shall notify the Congress when a decision is made to withhold any share of the United States assessed contribution to the United Nations or its specialized agencies pursuant to subsection (a) and shall notify the Congress when the decision is made to pay any previously withheld assessed contribution. A notification under this subsection shall include appropriate consultation between the President (or the President's representative) and the Committee on Foreign Affairs \[now Committee on International Relations\] of the House of Representatives and the Committee on Foreign Relations of the Senate.
+Notice to Congress.—The President shall notify the Congress when a decision is made to withhold anyshare of the United States assessed contribution to the United Nations or its specialized agencies pursuant to subsection (a) and shall notify the Congress when the decision is made to pay any previously withheld assessed contribution. A notification under this subsection shall include appropriate consultation between the President (or the President's representative) and the Committee on Foreign Affairs \[now Committee on International Relations\] of the House of Representatives and the Committee on Foreign Relations of the Senate.
 
 “(c)
 
@@ -196,7 +196,7 @@ Report on Steps to Correct Practice.—The Secretary of State shall determine an
 
 Reduction in Contribution if Substantial Progess \[sic\]
 
-Not Made.—If the Secretary of State determines pursuant to subsection (b) that substantialprogress has not been made in correcting this practice, the United States shall thereafter reduce the amount of its annual assessed contributions to the United Nations by the amount of that contribution which is the United States proportionate share of the salaries of those international civil servants employed by the United Nations who are returning any portion of their salaries to their respective governments.
+Not Made.—If the Secretary of State determines pursuant to subsection (b) that substantial progress has not been made in correcting this practice, the United States shall thereafter reduce the amount of its annual assessed contributions to the United Nations by the amount of that contribution which is the United States proportionate share of the salaries of those international civil servants employed by the United Nations who are returning any portion of their salaries to their respective governments.
 
 “(d)
 
@@ -254,7 +254,7 @@ Pub. L. 103–236, title IV, §410, Apr. 30, 1994, 108 Stat. 454, provided that:
 
 > during any period in which such membership is effective.”
 
-Pub. L. 92–544, title I, §101, Oct. 25, 1972, 86 Stat. 1110, as amended by Pub. L. 94–141, title II, §203, Nov. 29, 1975, 89 Stat. 762; Pub. L. 103–236, title IV, §404(b)(3), Apr. 30, 1994, 108 Stat. 447, provided that: “After December 31, 1973, no appropriation is authorized and no payment shall be made to the United Nations or any affiliated agency in excess of 25 per centum of the total annual assessment of such organization. Appropriations are authorized and contributions and payments may be made to the following organizations and activities notwithstanding that such contributions and payments are in excess of 25 per centum of the total annual assessment of the respective organization or 331/3 per centum of the budget for the respective activity: the International Atomic Energy Agency, the joint financingprogram of the International Civil Aviation Organization, and contributions for international peacekeeping activities (other than United Nations peacekeeping operations) conducted through multilateral agreements.”
+Pub. L. 92–544, title I, §101, Oct. 25, 1972, 86 Stat. 1110, as amended by Pub. L. 94–141, title II, §203, Nov. 29, 1975, 89 Stat. 762; Pub. L. 103–236, title IV, §404(b)(3), Apr. 30, 1994, 108 Stat. 447, provided that: “After December 31, 1973, no appropriation is authorized and no payment shall be made to the United Nations or any affiliated agency in excess of 25 per centum of the total annual assessment of such organization. Appropriations are authorized and contributions and payments may be made to the following organizations and activities notwithstanding that such contributions and payments are in excess of 25 per centum of the total annual assessment of the respective organization or 331/3 per centum of the budget for the respective activity: the International Atomic Energy Agency, the joint financing program of the International Civil Aviation Organization, and contributions for international peacekeeping activities (other than United Nations peacekeeping operations) conducted through multilateral agreements.”
 
 #### United States Assessed Contribution to the United Nations
 

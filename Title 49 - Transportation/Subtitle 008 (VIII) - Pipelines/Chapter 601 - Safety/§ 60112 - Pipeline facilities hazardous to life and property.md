@@ -28,11 +28,11 @@ Considerations.—In making a decision under subsection (a) of this section, the
 
 (c)
 
-Opportunity for State Comment.—The Secretary shall provide, to any appropriate official of a State in which a pipeline facility is located and about which a proceeding has begun under this section, notice and an opportunity to comment on an agreement the Secretary proposes to make to resolve the proceeding. State comment shall incorporate comments of affected local officials.
+Opportunity for State Comment.—The Secretary shall provide, to any appropriate official of a State in which a pipeline facility is located and about which a proceeding has begun under this section, notice and an opportunity tocomment on an agreement the Secretary proposes to make to resolve the proceeding. State comment shall incorporate comments of affected local officials.
 
 (d)
 
-Corrective Action Orders.—If the Secretary decides under subsection (a) of this section that a pipeline facility is hazardous, theSecretary shall order the operator of the facility to take necessary corrective action, including suspended or restricted use of the facility, physical inspection, testing, repair, replacement, or other appropriate action.
+Corrective Action Orders.—If the Secretary decides under subsection (a) of this section that a pipeline facility is hazardous, the Secretary shall order the operator of the facility to take necessary corrective action, including suspended or restricted use of the facility, physical inspection, testing, repair, replacement, or other appropriate action.
 
 (e)
 
@@ -44,7 +44,9 @@ Historical and Revision Notes
 
 Pub. L. 103–272
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -64,7 +66,7 @@ Nov. 30, 1979, Pub. L. 96–129, §209(b)(1)–(5), 93 Stat. 1010; Oct. 24, 1992
 
 60112(b)
 
-49 App.:1679b (b)(3).
+49 App.:1679b(b)(3).
 
 &nbsp;
 
@@ -72,7 +74,7 @@ Nov. 30, 1979, Pub. L. 96–129, §209(b)(1)–(5), 93 Stat. 1010; Oct. 24, 1992
 
 60112(c)
 
-49 App.:1679b (b)(6).
+49 App.:1679b(b)(6).
 
 Aug. 12, 1968, Pub. L. 90–481, 82 Stat. 720, §12(b)(6); added Oct. 24, 1992, Pub. L. 102–508, §113(a), 106 Stat. 3296.
 
@@ -92,7 +94,7 @@ Nov. 30, 1979, Pub. L. 96–129, 93 Stat. 989, §209(b)(6); added Oct. 24, 1992,
 
 60112(e)
 
-49 App.:1679b (b)(4), (5).
+49 App.:1679b(b)(4), (5).
 
 &nbsp;
 

@@ -18,7 +18,7 @@ Subject to appropriations, penalties collected under this section may be used by
 
 #### (e) Enforcement
 
-The Secretary, the Secretary of the Treasury, and the Secretary of the department in whichthe Coast Guard is operating shall enforce this subchapter in the same manner such Secretaries carry out enforcement activities under section 1540(e) of this title. Section 1540(c) of this title shall apply to actions arising under this subchapter.
+The Secretary, the Secretary of the Treasury, and the Secretary of the department in which the Coast Guard is operating shall enforce this subchapter in the same manner such Secretaries carry out enforcement activities under section 1540(e) of this title. Section 1540(c) of this title shall apply to actions arising under this subchapter.
 
 (Pub. L. 100–478, title II, §2204, Oct. 7, 1988, 102 Stat. 2320.)
 

@@ -86,7 +86,7 @@ The items referred to in subsections (a) and (b) are as follows:
 
 #### (iii) Noncancellable accident and health insurance contracts
 
-&emsp;&emsp;&emsp;In the case of any noncancellable accident and health insurance contract, a 2-year full preliminary term method.
+&emsp;&emsp;&emsp;In the case of any noncancellable accident and health insurance contract (other than a qualified long-term care insurance contract, as defined in section 7702B(b)), a 2-year full preliminary term method.
 
 #### (iv) Other contracts
 
@@ -94,7 +94,7 @@ The items referred to in subsections (a) and (b) are as follows:
 
 &emsp;&emsp;&emsp;&emsp;(I) the reserve method prescribed by the National Association of Insurance Commissioners which covers such contract (as of the date of issuance), or
 
-&emsp;&emsp;&emsp;&emsp;(II) if no reserve method has been prescribed by the National Association of Insurance Commissioners which covers such contract, a reserve method which is consistent with the reserve method required under clause (i), (ii), or (iii) or under subclause (I) of this clause as of the date of the issuance of such contract (whichever is most appropriate).
+&emsp;&emsp;&emsp;&emsp;(II) if no reserve method has been prescribed by the National Association of Insurance Commissioners which covers such contract, a reserve method which isconsistent with the reserve method required under clause (i), (ii), or (iii) or under subclause (I) of this clause as of the date of the issuance of such contract (whichever is most appropriate).
 
 #### (B) Definition of CRVM and CARVM
 
@@ -106,11 +106,11 @@ The items referred to in subsections (a) and (b) are as follows:
 
 #### (ii) CARVM
 
-&emsp;&emsp;&emsp;The term “CARVM” means the Commissoners’ <sup>1</sup> Annuities Reserve Valuation Method prescribed by the National Association of Insurance Commissioners which is in effect on the date of the issuance of the contract.
+&emsp;&emsp;&emsp;The term “CARVM” means the Commissioners’ Annuities Reserve Valuation Method prescribed by the National Association of Insurance Commissioners which is in effect on the date of the issuance of the contract.
 
 #### (C) No additional reserve deduction allowed for deficiency reserves
 
-&emsp;&emsp;Nothing in any reserve method described under this paragraph shall permit any increase in the reserve because the net premium (computed on the basis of assumptionsrequired under this subsection) exceeds the actual premiums or other consideration charged for the benefit.
+&emsp;&emsp;Nothing in any reserve method described under this paragraph shall permit any increase in the reserve because the net premium (computed on the basis of assumptions required under this subsection) exceeds the actual premiums or other consideration charged for the benefit.
 
 #### (4) Applicable Federal interest rate; prevailing State assumed interest rate
 
@@ -164,7 +164,7 @@ The items referred to in subsections (a) and (b) are as follows:
 
 #### (C) Special rule for contracts for which there are no commissioners’ standard tables
 
-&emsp;&emsp;If there are no commissioners’ standard tables applicable to any contract when it is issued, the mortality and morbidity tables used for purposes of paragraph (2)(C) shall be determined under regulations prescribed by the Secretary. When the Secretary by regulation changes the table applicable to a type of contract, the new table shall be treated (for purposes of subparagraph (B) and for purposes of determining the issue dates of contracts for which it shall be used) as if it were a new prevailing commissioner's standard table adopted by the twenty-sixth State as of a date (no earlier than the date the regulation is issued) specified by the Secretary.
+&emsp;&emsp;If there are no commissioners’ standard tables applicable to any contract when it is issued, the mortality and morbidity tables used for purposes of paragraph (2)(C) shall be determined under regulations prescribed by the Secretary. When the Secretary by regulation changes the table applicable to a type of contract, the new table shall be treated\(for purposes of subparagraph (B) and for purposes of determining the issue dates of contracts for which it shall be used) as if it were a new prevailing commissioner's standard table adopted by the twenty-sixth State as of a date (no earlier than the date the regulation is issued) specified by the Secretary.
 
 #### (D) Special rule for contracts issued before 1948
 
@@ -350,13 +350,17 @@ The items referred to in subsections (a) and (b) are as follows:
 
 &emsp;Except as provided in section 381(c)(22) (relating to carryovers in certain corporate readjustments), if for any taxable year the taxpayer is not a life insurance company, the balance of any adjustments under this subsection shall be taken into account for the preceding taxable year.
 
-(Added Pub. L. 98–369, div. A, title II, §211(a), July 18, 1984, 98 Stat. 726; amended Pub. L. 99–514, title X, §1023(b), title XVIII, §1821(a), (s), Oct. 22, 1986, 100 Stat. 2399, 2837, 2843; Pub. L. 100–203, title X, §10241(a)–(b)(2)(A), Dec. 22, 1987, 101 Stat. 1330–419, 1330–420; Pub. L. 101–508, title XI, §11302(a), Nov. 5, 1990, 104 Stat. 1388–449.)
+(Added Pub. L. 98–369, div. A, title II, §211(a), July 18, 1984, 98 Stat. 726; amended Pub. L. 99–514, title X, §1023(b), title XVIII, §1821(a), (s), Oct. 22, 1986, 100 Stat. 2399, 2837, 2843; Pub. L. 100–203, title X, §10241(a)–(b)(2)(A), Dec. 22, 1987, 101 Stat. 1330–419, 1330–420; Pub. L. 101–508, title XI, §11302(a), Nov. 5, 1990, 104 Stat. 1388–449; Pub. L. 104–188, title I, §1704(t)(61), Aug. 20, 1996, 110 Stat. 1890; Pub. L. 104–191, title III, §321(b), Aug. 21, 1996, 110 Stat. 2058.)
 
 #### Prior Provisions
 
 A prior section 807, act Aug. 16, 1954, ch. 736, 68A Stat. 259, related to adjustment for certain reserves, prior to the general revision of this part by act Mar. 13, 1956, ch. 83, §2, 70 Stat. 36.
 
 #### Amendments
+
+1996—Subsec. (d)(3)(A)(iii). Pub. L. 104–191 inserted “(other than a qualified long-term care insurance contract, as defined in section 7702B(b))” after “insurance contract”.
+
+Subsec. (d)(3)(B)(ii). Pub. L. 104–188 substituted “Commissioners’ Annuities” for “Commissoners’ Annuities”.
 
 1990—Subsec. (e)(7). Pub. L. 101–508 added par. (7).
 
@@ -371,6 +375,10 @@ Subsec. (d)(4). Pub. L. 100–203, §10241(b)(1), substituted “Applicable Fede
 Pub. L. 99–514, §1821(a), inserted at end “In no case shall the amount determined under paragraph (3) for any contract be less than the net surrender value of such contract.”
 
 Subsec. (d)(5)(C). Pub. L. 99–514, §1821(s), inserted at end “When the Secretary by regulation changes the table applicable to a type of contract, the new table shall be treated (for purposes of subparagraph (B) and for purposes of determining the issue dates of contracts for which it shall be used) as if it were a new prevailing commissioner's standard table adopted by the twenty-sixth State as of a date (no earlier than the date the regulation is issued) specified by the Secretary.”
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–191 applicable to contracts issued after Dec. 31, 1997, see section 321(f) of Pub. L. 104–191, set out as an Effective Date note under section 7702B of this title.
 
 #### Effective Date of 1990 Amendment
 
@@ -436,7 +444,5 @@ Section 217(n) of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, title X
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 412, 415, 417, 803, 805, 809, 811, 812, 817, 818, 832, 842, 846, 848, 1351, 7702 of this title; title 29 sections 1055, 1082.
-
-<i><sup>1</sup></i><i> So in original. Probably should be “Commissioners’ ”.</i>
+This section is referred to in sections 412, 415, 417, 803, 805, 809, 811, 812, 817, 817A, 818, 832, 842, 846, 848, 1351, 7702 of this title; title 29 sections 1055, 1082.
 

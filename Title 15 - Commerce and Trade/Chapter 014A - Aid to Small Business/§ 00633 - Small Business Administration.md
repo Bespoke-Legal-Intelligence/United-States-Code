@@ -4,9 +4,9 @@
 
 In order to carry out the policies of this chapter there is created an agency under the name “Small Business Administration” (herein referred to as the Administration), which Administration shall be under the general direction and supervision of the President and shall not be affiliated with or be within any other agency or department of the Federal Government. The principal office of the Administration shall be located in the District of Columbia. The Administration may establish such branch and regional offices in other places in the United States as may be determined by the Administrator of the Administration. As used in this chapter, the term “United States” includes the several States, the Territories and possessions of the United States, the Commonwealth of Puerto Rico, the Trust Territory of the Pacific Islands, and the District of Columbia.
 
-#### (b) Appointment of Administrator, Deputy Administrator, and Associate Administrators; duties of Administrator: preparation of data base and publication of economic indices and annual report; computer security and education program
+#### (b) Appointment of Administrator, Deputy Administrator, and Associate Administrators; duties of Administrator: preparation of data base and publication of economic indices and annual report; risk management database; computer security and education program
 
-(1) The management of the Administration shall be vested in an Administrator who shall be appointed from civilian life by the President, by and with the advice and consent of the Senate, and who shall be a person of outstanding qualifications known to be familiar and sympathetic with small-business needs and problems. The Administrator shall not engage in any other business, vocation, or employment than that of serving as Administrator. In carrying out the programs administered by the Small Business Administration including its lending and guaranteeing functions, the Administrator shall not discriminate on the basis of sex or marital status against any person or small business concern applying for or receiving assistance from the Small Business Administration, and the Small Business Administration shall give special consideration to veterans of the Armed Forces of the United States and their survivors or dependents. The President also may appoint a Deputy Administrator, by and with the advice and consent of the Senate. The Administrator is authorized to appoint four Associate Administrators (including the Associate Administrator specified in section 671 of this title) to assist in the execution of the functions vested in the Administration. One of the Associate Administrators shall be designated at the time of his appointment as the Associate Administrator for Minority Small Business and Capital OwnershipDevelopment who shall be an employee in the competitive service or in the Senior Executive Service and a career appointee and shall be responsible to the Administrator for the formulation and execution of the policies and programs under sections 636(j) and 637(a) of this title which provide assistance to minority small business concerns. The Deputy Administrator shall be Acting Administrator of the Administration during the absence or disability of the Administrator or in the event of a vacancy in the office of the Administrator.
+(1) The management of the Administration shall be vested in an Administrator who shall be appointed from civilian life by the President, by and with the advice and consent of the Senate, and who shall be a person of outstanding qualifications known to be familiar and sympathetic with small-business needs and problems. The Administrator shall not engage in any other business, vocation, or employment than that of serving as Administrator. In carrying out the programs administered by the Small Business Administration including its lending and guaranteeing functions, the Administrator shall not discriminate on the basis of sex or marital status against any person or small business concern applying for or receiving assistance from the Small Business Administration, and the Small Business Administration shall give special consideration to veterans of the Armed Forces of the United States and their survivors or dependents. The President also may appoint a Deputy Administrator, by and with the advice and consent of the Senate. The Administrator is authorized to appoint four Associate Administrators (including the Associate Administrator specified in section 671 of this title) to assist in the execution of the functions vested in the Administration. One of the Associate Administrators shall be designated at the time of his appointment as the Associate Administrator for Minority Small Business and Capital Ownership Development who shall be an employee in the competitive service or in the Senior Executive Service and a career appointee and shall be responsible to the Administrator for the formulation and execution of the policies and programsunder sections 636(j) and 637(a) of this title which provide assistance to minority small business concerns. The Deputy Administrator shall be Acting Administrator of the Administration during the absence or disability of the Administrator or in the event of a vacancy in the office of the Administrator.
 
 (2) The Administrator also shall be responsible for—
 
@@ -38,7 +38,47 @@ In order to carry out the policies of this chapter there is created an agency un
 
 &emsp;(B) publishing annually a report giving a comparative analysis and interpretation of the historical trends of the small business sector as reflected by the data acquired pursuant to subparagraph (A) of this subsection.
 
-(3) Repealed. Pub. L. 98–362, §7(b), July 16, 1984, 98 Stat. 434.
+(3)
+
+Risk management database.—
+
+&emsp;(A)
+
+Establishment.—The Administration shall establish, within the management system for the loan programs authorized by subsections (a) and (b) of section 636 of this title and title V of the Small Business Investment Act of 1958 \[15 U.S.C. 695 et seq.\], a management information system that will generate a database capable of providing timely and accurate information in order to identify loan underwriting, collections, recovery, and liquidation problems.
+
+&emsp;(B)
+
+Information to be maintained.—In addition to such other information as the Administration considers appropriate, the database established under subparagraph (A) shall, with respect to each loan program described in subparagraph (A), include information relating to—
+
+&emsp;&emsp;(i) the identity of the institution making the guaranteed loan or issuing the debenture;
+
+&emsp;&emsp;(ii) the identity of the borrower;
+
+&emsp;&emsp;(iii) the total dollar amount of the loan or debenture;
+
+&emsp;&emsp;(iv) the total dollar amount of government exposure in each loan;
+
+&emsp;&emsp;(v) the district of the Administration in which the borrower has its principal office;
+
+&emsp;&emsp;(vi) the principal line of business of the borrower, as identified by Standard Industrial Classification Code (or any successor to that system);
+
+&emsp;&emsp;(vii) the delinquency rate for each program (including number of instances and days overdue);
+
+&emsp;&emsp;(viii) the number and amount of repurchases, losses, and recoveries in each program;
+
+&emsp;&emsp;(ix) the number of deferrals or forbearances in each program (including days and number of instances);
+
+&emsp;&emsp;(x) comparisons on the basis of loan program, lender, Administration district and region, for all the data elements maintained; and
+
+&emsp;&emsp;(xi) underwriting characteristics of each loan that has entered into default, including term, amount and type of collateral, loan-to-value and other actual and projected ratios, line of business, credit history, and type of loan.
+
+&emsp;(C)
+
+Deadline for operational capability.—The database established under subparagraph (A) shall—
+
+&emsp;&emsp;(i) be operational not later than June 30, 1997; and
+
+&emsp;&emsp;(ii) capture data beginning on the first day of the second quarter of fiscal year 1997 beginning after such date and thereafter.
 
 (4)(A) The Administrator shall establish a small business computer security and education program to—
 
@@ -60,13 +100,13 @@ In order to carry out the policies of this chapter there is created an agency un
 
 (1) There are established in the Treasury the following revolving funds: (A) a disaster loan fund which shall be available for financing functions performed under sections 634(e), 636(b)(1), 636(b)(2), 636(b)(3), 636(b)(4), 636(c)(2), and 636(m) of this title; and (B) a business loan and investment fund which shall be available for financing functions performed under sections 634(g), 636(a) and 637(a) of this title, and titles III, IV and V of the Small Business Investment Act of 1958 \[15 U.S.C. 681 et seq., 692 et seq., 695 et seq.\].
 
-(2) All repayments of loans and debentures, payments of interest and other receipts arising out of transactions heretofore or hereafter entered into by the Administration (A) pursuant to sections 634(e), 636(b)(1), 636(b)(2), 636(b)(3), 636(b)(4), 636(b)(5), 636(b)(6), 636(b)(7), 636(b)(8), 636(c)(2), and 636(g) of this title, shall be paid into a disaster loan fund; and (B) pursuant to sections 634(g), 636(a), 636(e), 636(h), 636(i), 636(<i>l</i>), 636(m), and 637(a) of this title, and titles III, IV and V of the Small Business Investment Act of 1958 \[15 U.S.C. 681 et seq., 692 et seq., 695 et seq.\], shall be paid into the business loan and investment fund.
+(2) All repayments of loans and debentures, payments of interest and other receipts arising out of transactions heretofore or hereafter entered into by the Administration (A) pursuant to sections 634(e), 636(b)(1), 636(b)(2), 636(b)(3), 636(b)(4), 636(b)(5), 636(b)(6), 636(b)(7), 636(b)(8), 636(c)(2), and 636(g) of this title, shall be paid into a disaster loan fund; and (B) pursuant to sections 634(g), 636(a), 636(e),<sup>1</sup> 636(h), 636(i), 636(<i>l</i>),<sup>1</sup> 636(m), and 637(a) of this title, and titles III, IV and V of the Small Business Investment Act of 1958 \[15 U.S.C. 681 et seq., 692 et seq., 695 et seq.\], shall be paid into the business loan and investment fund.
 
 (3) Unexpended balances of appropriations made to the fund pursuant to this subsection, as in effect immediately prior to the effective date of this paragraph, shall be allocated, together with related assets and liabilities, to the funds established by paragraph (1) in such amounts as the Administrator shall determine.
 
 (4) The Administration shall submit to the Committees on Appropriations, Senate Select Committee on Small Business, and the Committee on Small Business of the House of Representatives, as soon as possible after the beginning of each calendar quarter, a full and complete report on the status of each of the funds established by paragraph (1). Business-type budgets for each of the funds established by paragraph (1) shall be prepared, transmitted to the Committees on Appropriations, the Senate Select Committee on Small Business, and the Committee on Small Business of the House of Representatives, and considered, and enacted in the manner prescribed by law (sections 9103 and 9104 of title 31) for wholly owned Government corporations.
 
-(5)(A) The Administration is authorized to make and issue notes to the Secretary of the Treasury for the purpose of obtaining funds necessary for discharging obligations under the revolving funds created by paragraph (1) and for authorized expenditures out of the funds. Such notes shall be in such form and denominationsand have such maturities and be subject to such terms and conditions as may be prescribed by the Administration with the approval of the Secretary of the Treasury. Such notes shall bear interest at a rate fixed by the Secretary of the Treasury, taking into consideration the current average market yield of outstanding marketable obligations of the United States having maturities comparable to the notes issued by the Administration under this paragraph. The Secretary of the Treasury is authorized and directed to purchase any notes of the Administration issued hereunder, and, for that purpose, the Secretary of the Treasury is authorized to use as a public debt transaction the proceeds from the sale of any securities issued under chapter 31 of title 31, and the purposes for which such securities may be issued under such chapter are extended to include the purchase of notes issued by the Administration. All redemptions, purchases, and sales by the Secretary of the Treasury of such notes shall be treated as public debt transactions of the United States. All borrowing authority contained herein shall be effective only to such extent or in such amounts as are provided in advance in appropriation Acts.
+(5)(A) The Administration is authorized to make and issue notes to the Secretary of the Treasury for the purpose of obtaining funds necessary for discharging obligations under the revolving funds created by paragraph (1) and for authorized expenditures out of the funds. Such notes shall be in such form and denominations and have such maturities and be subject to such terms and conditions as may be prescribed by the Administration with the approval of the Secretary of the Treasury. Such notes shall bear interest at a rate fixed by the Secretary of the Treasury, taking into consideration the current average market yield of outstanding marketable obligations of the United States having maturities comparable to the notes issued by the Administration under this paragraph. The Secretary of the Treasury is authorized and directed to purchase any notes of the Administration issued hereunder, and, for that purpose, the Secretary of the Treasury is authorized to use as a public debt transaction the proceeds from the sale of any securities issued under chapter 31 of title 31, and the purposes for which such securities may be issued under such chapter are extended to include the purchase of notes issued by the Administration. All redemptions, purchases, and sales by the Secretary of the Treasury of such notes shall be treated as public debt transactions of the United States. All borrowing authority contained herein shall be effective only to such extent or in such amounts as are provided in advance in appropriation Acts.
 
 (B)(i) Moneys in the funds established in paragraph (1) not needed for current operations may be paid into miscellaneous receipts of the Treasury.
 
@@ -102,13 +142,15 @@ Notwithstanding any other provision of law, the Administration is prohibited fro
 
 &emsp;Not later than 6 months after October 22, 1994, the Administration shall promulgate such regulations as may be necessary to enforce compliance with the requirements of this subsection.
 
-(Pub. L. 85–536, §2\[4\], July 18, 1958, 72 Stat. 384; Pub. L. 85–699, title II, §202, formerly §202(a), Aug. 21, 1958, 72 Stat. 690, renumbered Pub. L. 87–341, §11(h)(1), Oct. 3, 1961, 75 Stat. 757; amended Pub. L. 86–367, §1, Sept. 22, 1959, 73 Stat. 647; Pub. L. 87–70, title III, §305(c), June 30, 1961, 75 Stat. 167; Pub. L. 87–198, Sept. 5, 1961, 75 Stat. 468; Pub. L. 87–305, §3, Sept. 26, 1961, 75 Stat. 666; Pub. L. 87–341, §§11(h)(3), (4), 12, Oct. 3, 1961, 75 Stat. 757; Pub. L. 87–550, §1(a), July 25, 1962, 76 Stat. 220; Pub. L. 89–59, §§1(c), 2, June 30, 1965, 79 Stat. 207; Pub. L. 89–78, July 21, 1965, 79 Stat. 243; Pub. L. 89–117, title III, §316(d), Aug. 10, 1965, 79 Stat. 484; Pub. L. 89–334, Nov. 8, 1965, 79 Stat. 1294; Pub. L. 89–409, §§1, 2, May 2, 1966, 80 Stat. 132; Pub. L. 89–779, §8(a), (b), Nov. 6, 1966, 80 Stat. 1364; Pub. L. 90–104, title I, §102, Oct. 11, 1967, 81 Stat. 268; Pub. L. 90–448, title XVII, §1721, Aug. 1, 1968, 82 Stat. 610; Pub. L. 91–173, title V, §504(c), Dec. 30, 1969, 83 Stat. 802; Pub. L. 91–558, title I, §101, Dec. 17, 1970, 84 Stat. 1468; Pub. L. 91–596, §28(c), Dec. 29, 1970, 84 Stat. 1618; Pub. L. 91–597, §25(c), Dec. 29, 1970, 84 Stat. 1634; Pub. L. 92–16, May 18, 1971, 85 Stat. 39; Pub. L. 92–320, §1, June 27, 1972, 86 Stat. 382; Pub. L. 92–385, §2(b), Aug. 16, 1972, 86 Stat. 556; Pub. L. 92–500, §8(b), Oct. 18, 1972, 86 Stat. 899; Pub. L. 92–595, §3(a),Oct. 27, 1972, 86 Stat. 1316; Pub. L. 93–237, §§1, 3(b), 8, Jan. 2, 1974, 87 Stat. 1023–1025; Pub. L. 93–386, §§2(a)(2), (3), 7, Aug. 23, 1974, 88 Stat. 742, 748; Pub. L. 94–273, §2(5), Apr. 21, 1976, 90 Stat. 375; Pub. L. 95–14, §§1–3, Mar. 24, 1977, 91 Stat. 25; Pub. L. 95–89, title I, §101(a)–(c), title II, §§201, 202, title III, §304, title IV, §401, Aug. 4, 1977, 91 Stat. 553, 557, 559; Pub. L. 95–315, §4, July 4, 1978, 92 Stat. 379; Pub. L. 95–507, title II, §206, Oct. 24, 1978, 92 Stat. 1766; Pub. L. 96–302, title I, §121, title IV, §401, July 2, 1980, 94 Stat. 842, 849; Pub. L. 96–481, title I, §103, Oct. 21, 1980, 94 Stat. 2321; Pub. L. 97–35, title XIX, §§1908, 1913(b), 1915, Aug. 13, 1981, 95 Stat. 778, 780; Pub. L. 98–270, title III, §306, Apr. 18, 1984, 98 Stat. 161; Pub. L. 98–352, §5, July 10, 1984, 98 Stat. 331; Pub. L. 98–362, §§3, 4, July 16, 1984, 98 Stat. 431, 433; Pub. L. 100–590, title I, §111(a), Nov. 3, 1988, 102 Stat. 2995; Pub. L. 100–656, title IV, §401(a), Nov. 15, 1988, 102 Stat. 3873; Pub. L. 101–37, §11(a), June 15, 1989, 103 Stat. 73; Pub. L. 101–515, title V, §1(a), Nov. 5, 1990, 104 Stat. 2140; Pub. L. 101–574, title II, §221(a), Nov. 15, 1990, 104 Stat. 2823; Pub. L. 102–140, title VI, §609(k), Oct. 28, 1991, 105 Stat. 831; Pub. L. 103–403, title VI, §§601, 611, 612, Oct. 22, 1994, 108 Stat. 4201, 4204.)
+(Pub. L. 85–536, §2\[4\], July 18, 1958, 72 Stat. 384; Pub. L. 85–699, title II, §202, formerly §202(a), Aug. 21, 1958, 72 Stat. 690, renumbered Pub. L. 87–341, §11(h)(1), Oct. 3, 1961, 75 Stat. 757; amended Pub. L. 86–367, §1, Sept. 22, 1959, 73 Stat. 647; Pub. L. 87–70, title III, §305(c), June 30, 1961, 75 Stat. 167; Pub. L. 87–198, Sept. 5, 1961, 75 Stat. 468; Pub. L. 87–305, §3, Sept. 26, 1961, 75 Stat. 666; Pub. L. 87–341, §§11(h)(3), (4), 12, Oct. 3, 1961, 75 Stat. 757; Pub. L. 87–550, §1(a), July 25, 1962, 76 Stat. 220; Pub. L. 89–59, §§1(c), 2, June 30, 1965, 79 Stat. 207; Pub. L. 89–78, July 21, 1965, 79 Stat. 243; Pub. L. 89–117, title III, §316(d), Aug. 10, 1965, 79 Stat. 484; Pub. L. 89–334, Nov. 8, 1965, 79 Stat. 1294; Pub. L. 89–409, §§1, 2, May 2, 1966, 80 Stat. 132; Pub. L. 89–779, §8(a), (b), Nov. 6, 1966, 80 Stat. 1364; Pub. L. 90–104, title I, §102, Oct. 11, 1967, 81 Stat. 268; Pub. L. 90–448, title XVII, §1721, Aug. 1, 1968, 82 Stat. 610; Pub. L. 91–173, title V, §504(c), Dec. 30, 1969, 83 Stat. 802; Pub. L. 91–558, title I, §101, Dec. 17, 1970, 84 Stat. 1468; Pub. L. 91–596, §28(c), Dec. 29, 1970, 84 Stat. 1618; Pub. L. 91–597, §25(c), Dec. 29, 1970, 84 Stat. 1634; Pub. L. 92–16, May 18, 1971, 85 Stat. 39; Pub. L. 92–320, §1, June 27, 1972, 86 Stat. 382; Pub. L. 92–385, §2(b), Aug. 16, 1972, 86 Stat. 556; Pub. L. 92–500, §8(b), Oct. 18, 1972, 86 Stat. 899; Pub. L. 92–595, §3(a), Oct. 27, 1972, 86 Stat. 1316; Pub. L. 93–237, §§1, 3(b), 8, Jan. 2, 1974, 87 Stat. 1023–1025; Pub. L. 93–386, §§2(a)(2), (3), 7, Aug. 23, 1974, 88 Stat. 742, 748; Pub. L. 94–273, §2(5), Apr. 21, 1976, 90 Stat. 375; Pub. L. 95–14, §§1–3, Mar. 24, 1977, 91 Stat. 25; Pub. L. 95–89, title I, §101(a)–(c), title II, §§201, 202, title III, §304, title IV, §401, Aug. 4, 1977, 91 Stat. 553, 557, 559; Pub. L. 95–315, §4, July 4, 1978, 92 Stat. 379; Pub. L. 95–507, title II, §206, Oct. 24, 1978, 92 Stat. 1766; Pub. L. 96–302, title I, §121, title IV, §401, July 2, 1980, 94 Stat. 842, 849; Pub. L. 96–481, title I, §103, Oct. 21, 1980, 94 Stat. 2321; Pub. L. 97–35, title XIX, §§1908, 1913(b), 1915, Aug. 13, 1981, 95 Stat. 778, 780; Pub. L. 98–270, title III, §306, Apr. 18, 1984, 98 Stat. 161; Pub. L. 98–352, §5, July 10, 1984, 98 Stat. 331; Pub. L. 98–362, §§3, 4, July 16, 1984, 98 Stat. 431, 433; Pub. L. 100–590, title I, §111(a), Nov. 3, 1988, 102 Stat. 2995; Pub. L. 100–656, title IV, §401(a), Nov. 15, 1988, 102 Stat. 3873; Pub. L. 101–37, §11(a), June 15, 1989, 103 Stat. 73; Pub. L. 101–515, title V, §1(a), Nov. 5, 1990, 104 Stat. 2140; Pub. L. 101–574, title II, §221(a), Nov. 15, 1990, 104 Stat. 2823; Pub. L. 102–140, title VI, §609(k), Oct. 28, 1991, 105 Stat. 831; Pub. L. 103–403, title VI, §§601, 611, 612, Oct. 22, 1994, 108 Stat. 4201, 4204; Pub. L. 104–208, div. D, title I, §102, Sept. 30, 1996, 110 Stat. 3009–725.)
 
 #### References in Text
 
 The effective date of this paragraph, referred to in subsec. (c)(3), is July 1, 1966, pursuant to Pub. L. 89–409, §2.
 
-The Small Business Investment Act of 1958, referred to in subsec. (c)(1), (2), (5)(C), is Pub. L. 85–699, Aug. 21, 1958, 72 Stat. 689, as amended. Titles III, IV, and V of such Act are classified generally to subchapters III (§681 et seq.), IV (§692 et seq.), and V (§695 et seq.) of chapter 14B of this title. For complete classification of this Act to the Code, see Short Title note set out under section 661 of this title and Tables.
+The Small Business Investment Act of 1958, referred to in subsecs. (b)(3)(A) and (c)(1), (2), (5)(C), is Pub. L. 85–699, Aug. 21, 1958, 72 Stat. 689, as amended. Titles III, IV, and V of the Act are classified generally to subchapters III (§681 et seq.), IV (§692 et seq.), and V (§695 et seq.) of chapter 14B of this title. For complete classification of this Act to the Code, see Short Title note set out under section 661 of this title and Tables.
+
+Sections 636(e) and 636(<i>l</i>) of this title, referred to in subsec. (c)(2)(B), were amended generally to read “\[RESERVED\].” by Pub. L. 104–208, div. D, title I, §107(b), (d), Sept. 30, 1996, 110 Stat. 3009–732.
 
 #### Codification
 
@@ -119,6 +161,8 @@ In subsec. (c)(4), (5)(A), “(sections 9103 and 9104 of title 31)” substitute
 Prior similar provisions were contained in section 204 of act July 30, 1953, ch. 282, title II, 67 Stat. 233, as amended by acts Aug. 9, 1955, ch. 628, §3, 69 Stat. 547; Feb. 2, 1956, ch. 29, §1, 70 Stat. 10; July 31, 1956, ch. 804, title I, §§106(a), 107(b), 70 Stat. 737; Pub. L. 85–4, §§1, 2, Feb. 11, 1957, 71 Stat. 1; Pub. L. 85–120, §1, Aug. 3, 1957, 71 Stat. 341, which was previously classified to this section. See Codification note set out under section 631 of this title.
 
 #### Amendments
+
+1996—Subsec. (b)(3). Pub. L. 104–208 added par. (3).
 
 1994—Subsec. (c)(5)(B)(ii). Pub. L. 103–403, §601, amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “The Administration shall pay into miscellaneous receipts of the Treasury, following the close of each fiscal year, interest on the average of loan disbursements outstanding throughout the year providing such disbursements are made from amounts appropriated for the disaster loan fund after October 1, 1980 or are made from repayments of principal of loans made from funds appropriated to the disaster loan fund, or from amounts appropriated to the business loan and investment fund on or after October 1, 1981 or are made from repayments of principal of loans made from funds appropriated to the business loan and investment fund and received on or after October 1, 1981. This interest shall be calculated solely on the amount of loan disbursements net of losses at the rate provided under paragraph (5)(A).”
 
@@ -146,7 +190,7 @@ Subsec. (c)(1)(B), (2)(B). Pub. L. 98–352 inserted reference to section 634(g)
 
 1981—Subsec. (c)(1)(A). Pub. L. 97–35, §1913(b), substituted “636(c)(2) of this title” for “636(b)(4), 636(b)(5), 636(b)(6), 636(b)(7), 636(b)(8), 636(c)(2), and 636(g) of this title”.
 
-Subsec. (c)(1)(B). Pub. L. 97–35, §1908, struck out reference to sections 636(e), 636(h), 636(i), and 636(<i>l).</i>
+Subsec. (c)(1)(B). Pub. L. 97–35, §1908, struck out reference to sections 636(e), 636(h), 636(i), and 636(<i>l</i>).
 
 Subsec. (c)(5)(B)(ii). Pub. L. 97–35, §1915, substituted “for the disaster loan fund after October 1, 1980 or are made from repayments of principal of loans made from funds appropriated to the disaster loan fund, or from amounts appropriated to the business loan and investment fund on or after October 1, 1981 or are made from repayments of principal of loans made from funds appropriated to the business loan and investment fund and received on or after October 1, 1981” for “after October 1, 1980 or are made from repayments of principal of loans made from appropriated funds”.
 
@@ -158,7 +202,7 @@ Subsec. (c)(5). Pub. L. 96–302, §121, inserted provisions other than subpar. 
 
 1978—Subsec. (b). Pub. L. 95–507 substituted “Associate Administrator for Minority Small Business and Capital Ownership Development” for “Associate Administrator for Minority Small Business”.
 
-Subsec. (c)(1)(B), (2)(B). Pub. L. 95–315 inserted reference to section 636(<i>l).</i>
+Subsec. (c)(1)(B), (2)(B). Pub. L. 95–315 inserted reference to section 636(<i>l</i>).
 
 1977—Subsec. (c)(1). Pub. L. 95–89, §§101(a), 304, 401(1), struck out end text from cls. (A) and (B) reading “, including administrative expenses in connection with such functions”; inserted in cl. (A) reference to section 634(e); and inserted in cl. (A) and struck out from cl. (B) reference to section 636(b)(3).
 
@@ -245,6 +289,10 @@ Pub. L. 87–70 substituted “$1,000,000,000” for “$975,000,000” wherever
 1959—Subsec. (c). Pub. L. 86–367 substituted “$975,000,000” for “$900,000,000” wherever appearing, and “$575,000,000” for “$500,000,000”.
 
 1958—Subsec. (c). Pub. L. 85–699 substituted “$900,000,000” for “$650,000,000” wherever appearing, and inserted provisions authorizing the revolving fund to be used in the exercise of the functions of the Administration under the Small Business Investment Act of 1958, and providing that not more than an aggregate of $250,000,000 shall be outstanding at any one time for the exercise of the functions under the Small Business Investment Act of 1958.
+
+#### Effective Date of 1996 Amendment
+
+Section 3 of div. D of Pub. L. 104–208 provided that: “Except as otherwise expressly provided, this Act \[probably should be “division”, see Short Title of 1996 Amendment note set out under section 631 of this title\] and the amendments made by this Act shall take effect on October 1, 1996.”
 
 #### Effective Date of 1990 Amendments
 
@@ -395,4 +443,6 @@ Such transfer of funds as effective July 1, 1966, see section 3(c) of Pub. L. 89
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 635, 636 of this title; title 38 section 3117.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

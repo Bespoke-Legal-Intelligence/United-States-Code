@@ -64,7 +64,7 @@ The Job Training Partnership Act, referred to in subsecs. (c)(2)(B) and (d), is 
 
 #### Prior Provisions
 
-A prior section 49f, act June 6, 1933, ch. 49, §7, 48 Stat. 115, related to ascertainment of amounts due to States, and certification to the Secretary of the Treasury, prior to repeal by act Sept. 8, 1950, ch. 933, §3, 64 Stat. 823.
+A prior section 49f, act June 6, 1933, ch. 49, §7, 48 Stat. 115, related to ascertainment of amounts due to States, and certification to the Secretary of the Treasury,prior to repeal by act Sept. 8, 1950, ch. 933, §3, 64 Stat. 823.
 
 #### Amendments
 
@@ -76,5 +76,5 @@ Amendment by Pub. L. 101–392 effective July 1, 1991, see section 702(a) of Pub
 
 #### Effective Date
 
-Section effective Oct. 1, 1983, but with Secretary authorized to use funds appropriated for fiscal 1983 to planfor orderly implementation of section, see section 181(i) of Pub. L. 97–300, which is classified to section 1591(i) of this title.
+Section effective Oct. 1, 1983, but with Secretary authorized to use funds appropriated for fiscal 1983 to plan for orderly implementation of section, see section 181(i) of Pub. L. 97–300, which is classified to section 1591(i) of this title.
 

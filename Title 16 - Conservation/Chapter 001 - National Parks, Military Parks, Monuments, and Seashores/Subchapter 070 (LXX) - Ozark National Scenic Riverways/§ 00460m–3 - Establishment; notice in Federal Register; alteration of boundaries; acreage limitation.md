@@ -6,5 +6,5 @@ When the Secretary determines that lands and waters, or interests therein, have 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 460m–1, 460m–6 of this title.
+This section is referred to in section 460m–1 of this title.
 

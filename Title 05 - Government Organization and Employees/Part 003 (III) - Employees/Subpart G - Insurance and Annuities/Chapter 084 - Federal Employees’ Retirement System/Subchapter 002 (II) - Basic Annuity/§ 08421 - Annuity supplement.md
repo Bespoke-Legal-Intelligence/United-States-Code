@@ -1,6 +1,6 @@
 ### §8421. Annuity supplement
 
-(a)(1) Subject to paragraph (3), an individual shall, if and while entitled to an annuity under subsection (a), (b), (d), or (e) of section 8412, or under section 8414(c), also be entitled to an annuity supplement under this section.
+(a)(1) Subject to paragraph (3), an individual shall, if and while entitled to an annuity undersubsection (a), (b), (d), or (e) of section 8412, or under section 8414(c), also be entitled to an annuity supplement under this section.
 
 (2) Subject to paragraph (3), an individual shall, if and while entitled to an annuity under section 8412(f), or under subsection (a) or (b) of section 8414, also be entitled to an annuity supplement under this section if such individual is at least the applicable minimum retirement age under section 8412(h), except that an individual entitled to an annuity under section 8414(a) for failure to be recertified as a senior executive shall be entitled to an annuity supplement without regard to such applicable minimum retirement age.
 
@@ -54,9 +54,9 @@ The Social Security Act, referred to in subsecs. (a)(3)(B) and (b)(2), (4)(A), (
 
 #### Amendments
 
-<b>1992</b>—Subsec. (a)(2). Pub. L. 102–378 inserted period at end.
+1992—Subsec. (a)(2). Pub. L. 102–378 inserted period at end.
 
-<b>1989</b>—Subsec. (a)(2). Pub. L. 101–194 substituted “, except that an individual entitled to an annuity under section 8414(a) for failure to be recertified as a senior executive shall be entitled to an annuity supplement without regard to such applicable minimum retirement age” for period at end.
+1989—Subsec. (a)(2). Pub. L. 101–194 substituted “, except that an individual entitled to an annuity under section 8414(a) for failure to be recertified as a senior executive shall be entitled to an annuity supplement without regard to such applicable minimum retirement age” for period at end.
 
 #### Effective Date of 1989 Amendment
 

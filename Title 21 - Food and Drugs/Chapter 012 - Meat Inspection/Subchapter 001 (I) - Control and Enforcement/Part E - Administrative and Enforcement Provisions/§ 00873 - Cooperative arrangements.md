@@ -6,7 +6,7 @@ The Attorney General shall cooperate with local, State, and Federal agencies con
 
 &emsp;(1) arrange for the exchange of information between governmental officials concerning the use and abuse of controlled substances;
 
-&emsp;(2) cooperate in the institution and prosecution of cases in the courts of the United Statesand before the licensing boards and courts of the several States;
+&emsp;(2) cooperate in the institution and prosecution of cases in the courts of the United States and before the licensing boards and courts of the several States;
 
 &emsp;(3) conduct training programs on controlled substance law enforcement for local, State, and Federal personnel;
 
@@ -71,6 +71,16 @@ Subsec. (d). Pub. L. 98–473, §517(b), added subsec. (d).
 1980—Subsec. (c). Pub. L. 96–359 added subsec. (c).
 
 #### National Drug Intelligence Center
+
+Pub. L. 104–293, title I, §104(d), Oct. 11, 1996, 110 Stat. 3464, provided that:
+
+“(1) Of the amount authorized to be appropriated in subsection (a) \[110 Stat. 3463\], $27,000,000 shall be available for the National Drug Intelligence Center located in Johnstown, Pennsylvania.
+
+“(2) The Director of Central Intelligence shall transfer to the Attorney General funds available for the National Drug Intelligence Center under paragraph (1). The Attorney General shall utilize funds so transferred for the activities of the Center.
+
+“(3) Amounts available for the Center may not be used in contravention of the provisions of section 103(d)(1) of the National Security Act of 1947 (50 U.S.C. 403–3(d)(1)).
+
+“(4) Notwithstanding any other provision of law, the Attorney General shall retain full authority over the operations of the Center.”
 
 Pub. L. 103–139, title VIII, §8056, Nov. 11, 1993, 107 Stat. 1452, provided that: “During the current fiscal year and thereafter, there is established, under the direction and control of the Attorney General, the National Drug Intelligence Center, whose mission it shall be to coordinate and consolidate drug intelligence from all national security and law enforcement agencies, and produce information regarding the structure, membership, finances, communications, and activities of drug trafficking organizations: <i>Provided</i>, That funding for the operation of the National Drug Intelligence Center, including personnel costs associated therewith, shall be provided from the funds appropriated to the Department of Defense.”
 

@@ -10,7 +10,13 @@ As used in this chapter—
 
 &emsp;(4) the term “State” includes the several States, the territories and possessions of the United States, the Commonwealth of Puerto Rico, and the District of Columbia;
 
-&emsp;(5) the term “small-business concern” shall have the same meaning as in the Small Business Act \[15 U.S.C. 631 et seq.\];
+&emsp;(5) the term “small-business concern” shall have the same meaning as in the Small Business Act \[15 U.S.C. 631 et seq.\], except that, for purposes of this chapter, an investment by a venture capital firm, investment company (including a small business investment company) employee welfare benefit plan or pension plan, or trust, foundation, or endowment that is exempt from Federal income taxation—
+
+&emsp;&emsp;(A) shall not cause a business concern to be deemed not independently owned and operated;
+
+&emsp;&emsp;(B) shall be disregarded in determining whether a business concern satisfies size standards established pursuant to section 3(a)(2) of the Small Business Act \[15 U.S.C. 632(a)(2)\]; and
+
+&emsp;&emsp;(C) shall be disregarded in determining whether a small business concern is a smaller enterprise;
 
 &emsp;(6) the term “development companies” means enterprises incorporated under State law with the authority to promote and assist the growth and development of small-business concerns in the areas covered by their operations;
 
@@ -18,11 +24,65 @@ As used in this chapter—
 
 &emsp;(8) the term “articles” means articles of incorporation for an incorporated body and means the functional equivalent or other similar documents specified by the Administrator for other business entities;
 
-&emsp;(9) notwithstanding any other provision of law, the term “private capital” means the private paid-in capital and paid-in surplus of a corporate licensee, or the private partnership capital of an unincorporate licensee, inclusive of (A) any funds invested in the licensee by a public or private pension fund, (B) any funds invested in the licensee by State or local government entities, to the extent that such investment does not exceed 33 percent of a licensee's total private capital and otherwise meets criteria established by the Administration, and (C) unfunded commitments from institutional investors that meet criteria established by the Administration, but it excludes any funds which are borrowed by the licensee from any source or which are obtained or derived, directly or indirectly, from any Federal source, including the Administration: <i>Provided</i>, That no unfunded commitment from an institutional investor may be used for the purpose of meeting the minimum amount of private capital required by this chapter or as the basis for the Administration to issue obligations to provide financing; and
+&emsp;(9) the term “private capital”—
 
-&emsp;(10) the term “leverage” includes debentures purchased or guaranteed by the Administration, participating securities purchased or guaranteed by the Administration, or preferred securities issued by companies licensed under section 681(d) of this title and which have been purchased by the Administration.
+&emsp;&emsp;(A) means the sum of—
 
-(Pub. L. 85–699, title I, §103, Aug. 21, 1958, 72 Stat. 690; Pub. L. 86–502, §3, June 11, 1960, 74 Stat. 196; Pub. L. 87–341, §2, Oct. 3, 1961, 75 Stat. 752; Pub. L. 92–595, §2(a), Oct. 27, 1972, 86 Stat. 1314; Pub. L. 94–305, title I, §106(a), June 4, 1976, 90 Stat. 666; Pub. L. 102–366, title IV, §410, Sept. 4, 1992, 106 Stat. 1017.)
+&emsp;&emsp;&emsp;(i) the paid-in capital and paid-in surplus of a corporate licensee, the contributed capital of the partners of a partnership licensee, or the equity investment of the members of a limited liability company licensee; and
+
+&emsp;&emsp;&emsp;(ii) unfunded binding commitments, from investors that meet criteria established by the Administrator, to contribute capital to the licensee: <i>Provided</i>, That such unfunded commitments may be counted as private capital for purposes of approval by the Administrator of any request for leverage, but leverage shall not be funded based on such commitments; and
+
+&emsp;&emsp;(B) does not include any—
+
+&emsp;&emsp;&emsp;(i) funds borrowed by a licensee from any source;
+
+&emsp;&emsp;&emsp;(ii) funds obtained through the issuance of leverage; or
+
+&emsp;&emsp;&emsp;(iii) funds obtained directly or indirectly from any Federal, State, or local government, or any government agency or instrumentality, except for—
+
+&emsp;&emsp;&emsp;&emsp;(I) funds invested by an employee welfare benefit plan or pension plan; and
+
+&emsp;&emsp;&emsp;&emsp;(II) any qualified nonprivate funds (if the investors of the qualified nonprivate funds do not control, directly or indirectly, the management, board of directors, general partners, or members of the licensee);
+
+&emsp;(10) the term “leverage” includes—
+
+&emsp;&emsp;(A) debentures purchased or guaranteed by the Administration;
+
+&emsp;&emsp;(B) participating securities purchased or guaranteed by the Administration; and
+
+&emsp;&emsp;(C) preferred securities outstanding as of October 1, 1995;
+
+&emsp;(11) the term “third party debt” means any indebtedness for borrowed money, other than indebtedness owed to the Administration;
+
+&emsp;(12) the term “smaller enterprise” means any small business concern that, together with its affiliates—
+
+&emsp;&emsp;(A) has—
+
+&emsp;&emsp;&emsp;(i) a net financial worth of not more than $6,000,000, as of the date on which assistance is provided under this chapter to that business concern; and
+
+&emsp;&emsp;&emsp;(ii) an average net income for the 2-year period preceding the date on which assistance is provided under this chapter to that business concern, of not more than $2,000,000, after Federal income taxes (excluding any carryover losses); or
+
+&emsp;&emsp;(B) satisfies the standard industrial classification size standards established by the Administration for the industry in which the small business concern is primarily engaged;
+
+&emsp;(13) the term “qualified nonprivate funds” means any—
+
+&emsp;&emsp;(A) funds directly or indirectly invested in any applicant or licensee on or before August 16, 1982, by any Federal agency, other than the Administration, under a provision of law explicitly mandating the inclusion of those funds in the definition of the term “private capital”;
+
+&emsp;&emsp;(B) funds directly or indirectly invested in any applicant or licensee by any Federal agency under a provision of law enacted after September 4, 1992, explicitly mandating the inclusion of those funds in the definition of the term “private capital”; and
+
+&emsp;&emsp;(C) funds invested in any applicant or licensee by one or more State or local government entities (including any guarantee extended by those entities) in an aggregate amount that does not exceed 33 percent of the private capital of the applicant or licensee;
+
+&emsp;(14) the terms “employee welfare benefit plan” and “pension plan” have the same meanings as in section 3 of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1002\], and are intended to include—
+
+&emsp;&emsp;(A) public and private pension or retirement plans subject to such Act \[29 U.S.C. 1001 et seq.\]; and
+
+&emsp;&emsp;(B) similar plans not covered by such Act that have been established and that are maintained by the Federal Government or any State or political subdivision, or any agency or instrumentality thereof, for the benefit of employees;
+
+&emsp;(15) the term “member” means, with respect to a licensee that is a limited liability company, a holder of an ownership interest or a person otherwise admitted to membership in the limited liability company; and
+
+&emsp;(16) the term “limited liability company” means a business entity that is organized and operating in accordance with a State limited liability company statute approved by the Administration.
+
+(Pub. L. 85–699, title I, §103, Aug. 21, 1958, 72 Stat. 690; Pub. L. 86–502, §3, June 11, 1960, 74 Stat. 196; Pub. L. 87–341, §2, Oct. 3, 1961, 75 Stat. 752; Pub. L. 92–595, §2(a), Oct. 27, 1972, 86 Stat. 1314; Pub. L. 94–305, title I, §106(a), June 4, 1976, 90 Stat. 666; Pub. L. 102–366, title IV, §410, Sept. 4, 1992, 106 Stat. 1017; Pub. L. 104–208, div. D, title II, §208(a), Sept. 30, 1996, 110 Stat. 3009–739.)
 
 #### References in Text
 
@@ -30,7 +90,21 @@ For definition of “this chapter”, referred to in text, see References in Tex
 
 The Small Business Act, referred to in par. (5), is Pub. L. 85–536, July 18, 1958, 72 Stat. 384, as amended, which is classified to chapter 14A (§631 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 631 of this title and Tables. The term “small-business concern” is defined in section 632 of this title.
 
+The Employee Retirement Income Security Act of 1974, referred to in par. (14), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 832, as amended, which is classified principally to chapter 18 (§1001 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
+
 #### Amendments
+
+1996—Par. (5). Pub. L. 104–208, §208(a)(1), inserted before semicolon at end “, except that, for purposes of this chapter, an investment by a venture capital firm, investment company (including a small business investment company) employee welfare benefit plan or pension plan, or trust, foundation, or endowment that is exempt from Federal income taxation—
+
+&emsp;“(A) shall not cause a business concern to be deemed not independently owned and operated;
+
+&emsp;“(B) shall be disregarded in determining whether a business concern satisfies size standards established pursuant to section 3(a)(2) of the Small Business Act; and
+
+&emsp;“(C) shall be disregarded in determining whether a small business concern is a smaller enterprise”.
+
+Par. (9). Pub. L. 104–208, §208(a)(2), amended par. (9) generally. Prior to amendment, par. (9) read as follows: “notwithstanding any other provision of law, the term ‘private capital’ means the private paid-in capital and paid-in surplus of a corporate licensee, or the private partnership capital of an unincorporate licensee, inclusive of (A) any funds invested in the licensee by a public or private pension fund, (B) any funds invested in the licensee by State or local government entities, to the extent that such investment does not exceed 33 percent of a licensee's total private capital and otherwise meets criteria established by the Administration, and (C) unfunded commitments from institutional investors that meet criteria established by the Administration, but it excludes any funds which are borrowed by the licensee from any source or which are obtained or derived, directly or indirectly, from any Federal source, including the Administration: <i>Provided</i>, That no unfunded commitment from an institutional investor may be used for the purpose of meeting the minimum amount of private capital required by this chapter or as the basis for the Administration to issue obligations to provide financing; and”.
+
+Pars. (10) to (16). Pub. L. 104–208, §208(a)(3), added pars. (10) to (16) and struck out former par. (10) which read as follows: “the term ‘leverage’ includes debentures purchased or guaranteed by the Administration, participating securities purchased or guaranteed by the Administration, or preferred securities issued by companies licensed under section 681(d) of this title and which have been purchased by the Administration.”
 
 1992—Pars. (9), (10). Pub. L. 102–366 added pars. (9) and (10).
 
@@ -52,5 +126,5 @@ Nothing in amendment by Pub. L. 102–366 to be construed to affect applicabilit
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 683 of this title; title 12 section 635; title 18 section 20.
+This section is referred to in title 12 section 635; title 18 section 20.
 

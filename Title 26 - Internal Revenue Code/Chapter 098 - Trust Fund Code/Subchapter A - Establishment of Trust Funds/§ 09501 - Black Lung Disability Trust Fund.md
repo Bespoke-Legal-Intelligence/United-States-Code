@@ -64,7 +64,7 @@ Amounts in the Black Lung Disability Trust Fund shall be available, as provided 
 
 &emsp;(5) the payment of all expenses of administration on or after March 1, 1978—
 
-&emsp;&emsp;(A) incurred by the Department of Labor or the Department of Health and Human Services under part C of the Black Lung Benefits Act (other than under section 427(a) or 433), or
+&emsp;&emsp;(A) incurred by the Department of Labor or the Department of Health and HumanServices under part C of the Black Lung Benefits Act (other than under section 427(a) or 433), or
 
 &emsp;&emsp;(B) incurred by the Department of the Treasury in administering subchapter B of chapter 32 and in carrying out its responsibilities with respect to the Black Lung Disability Trust Fund,
 
@@ -78,7 +78,7 @@ Amounts in the Black Lung Disability Trust Fund shall be available, as provided 
 
 #### References in Text
 
-The Black Lung Benefits Act, referred to in subsecs. (b)(2)(A), (B) and (d), is title IV of Pub. L. 91–173, Dec. 30, 1969, 83 Stat. 792, as amended. Part C of such Act isclassified generally to part C (§931 et seq.) of subchapter IV of chapter 22 of Title 30, Mineral Lands and Mining. Sections 402(i), 422, 423, 424(b), 427(a), 431, 432, 433, and 435 of such Act are classified to sections 902(i), 932, 933, 934(b), 937(a), 941, 942, 943, and 945, respectively, of Title 30. For complete classification of this Act to the Code, see section 901(b) of Title 30 and Tables.
+The Black Lung Benefits Act, referred to in subsecs. (b)(2)(A), (B) and (d), is title IV of Pub. L. 91–173, Dec. 30, 1969, 83 Stat. 792, as amended. Part C of such Act is classified generally to part C (§931 et seq.) of subchapter IV of chapter 22 of Title 30, Mineral Lands and Mining. Sections 402(i), 422, 423, 424(b), 427(a), 431, 432, 433, and 435 of such Act are classified to sections 902(i), 932, 933, 934(b), 937(a), 941, 942, 943, and 945, respectively, of Title 30. For complete classification of this Act to the Code, see section 901(b) of Title 30 and Tables.
 
 The date of enactment of the Black Lung Benefits Revenue Act of 1981, referred to in subsec. (d)(1)(A), is the date of enactment of Pub. L. 97–119, which was approved Dec. 29, 1981.
 

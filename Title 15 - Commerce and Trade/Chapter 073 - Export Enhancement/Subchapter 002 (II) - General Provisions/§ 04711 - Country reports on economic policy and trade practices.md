@@ -16,13 +16,21 @@ The Secretary of State shall, not later than January 31 of each year, prepare an
 
 &emsp;(7) the extent to which the country's laws and enforcement of those laws afford adequate protection to United States intellectual property, including patents, trademarks, copyrights, and mask works; and
 
-&emsp;(8) the country's laws, enforcement of those laws, and practices with respect to internationally recognized worker rights (as defined in section 2462(a)(4) of title 19), the conditions of worker rights in any sector which produces goods in which United States capital is invested, and the extent of such investment.
+&emsp;(8) the country's laws, enforcement of those laws, and practices with respect to internationally recognized worker rights (as defined in section 2467(4) of title 19), the conditions of worker rights in any sector which produces goods in which United States capital is invested, and the extent of such investment.
 
-(Pub. L. 100–418, title II, §2202, Aug. 23, 1988, 102 Stat. 1327.)
+(Pub. L. 100–418, title II, §2202, Aug. 23, 1988, 102 Stat. 1327; Pub. L. 104–188, title I, §1954(b)(2), Aug. 20, 1996, 110 Stat. 1928.)
+
+#### Amendments
+
+1996—Par. (8). Pub. L. 104–188 substituted “2467(4)” for “2462(a)(4)”.
 
 #### Change of Name
 
 Committee on Foreign Affairs of House of Representatives treated as referring to Committee on International Relations of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–188 applicable to articles entered on or after Oct. 1, 1996, with provisions relating to retroactive application, see section 1953 of Pub. L. 104–188, set out as an Effective Date note under section 2461 of Title 19, Customs Duties.
 
 #### Section Referred to in Other Sections
 

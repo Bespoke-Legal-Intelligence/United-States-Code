@@ -14,13 +14,13 @@ Authority for negotiations.—Any owners of copyright in works to which this sec
 
 &emsp;(2)
 
-Arbitration.—Parties to such a negotiation, within such time as may be specified by the Librarian of Congress by regulation, may determine the result of the negotiation by arbitration. Such arbitration shall be governed by the provisions of title 9, to the extent such title is not inconsistent with this section. The parties shall give notice to the Librarian of Congress of any determination reached by arbitration and any such determination shall, as between the parties to the arbitration, be dispositive of the issues to which it relates.
+Arbitration.—Parties to such a negotiation, within such time as may be specified by the Librarian of Congress by regulation, may determine the result of the negotiation by arbitration. Such arbitration shall be governedby the provisions of title 9, to the extent such title is not inconsistent with this section. The parties shall give notice to the Librarian of Congress of any determination reached by arbitration and any such determination shall, as between the parties to the arbitration, be dispositive of the issues to which it relates.
 
 (c)
 
 License Agreements Superior to Copyright Arbitration Royalty Panel Determinations.—License agreements between one or more copyright owners and one or more operators of coin-operated phonorecord players, which are negotiated in accordance with subsection (b), shall be given effect in lieu of any otherwise applicable determination by a copyright arbitration royalty panel.
 
-(Added Pub. L. 100–568, §4(a)(4), Oct. 31, 1988, 102 Stat. 2855, §116A; renumbered §116 and amendedPub. L. 103–198, §3(b)(1), Dec. 17, 1993, 107 Stat. 2309.)
+(Added Pub. L. 100–568, §4(a)(4), Oct. 31, 1988, 102 Stat. 2855, §116A; renumbered §116 and amended Pub. L. 103–198, §3(b)(1), Dec. 17, 1993, 107 Stat. 2309.)
 
 #### Prior Provisions
 

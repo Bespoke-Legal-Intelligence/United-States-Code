@@ -12,7 +12,7 @@ Except as otherwise specifically provided, when used in this chapter:
 
 (5) The term “person” means an individual, corporation, partnership, association, State, municipality, commission, or political subdivision of a State, or any interstate body.
 
-(6) The term “pollutant” means dredged spoil, solid waste, incinerator residue, sewage, garbage, sewage sludge, munitions, chemical wastes, biological materials, radioactive materials, heat, wrecked or discarded equipment, rock, sand, cellar dirt and industrial, municipal, and agricultural waste discharged into water. This term does not mean (A) “sewage from vessels” within the meaning of section 1322 of this title; or (B) water, gas, or other material which is injected into a well to facilitate production of oil or gas, or water derived in association with oil or gas production and disposed of in a well, if the well used either to facilitate production or for disposal purposes is approved by authority of the State in which the well is located, and if such State determines that such injection or disposal will not result in the degradation of ground or surface water resources.
+(6) The term “pollutant” means dredged spoil, solid waste, incinerator residue, sewage, garbage, sewage sludge, munitions, chemical wastes, biological materials, radioactive materials, heat, wrecked or discarded equipment, rock, sand, cellar dirt and industrial, municipal, and agricultural waste discharged into water. This term does not mean (A) “sewage from vessels or a discharge incidental to the normal operation of a vessel of the Armed Forces” within the meaning of section 1322 of this title; or (B) water, gas, or other material which is injected into a well to facilitate production of oil or gas, or water derived in association with oil or gas production and disposed of in a well, if the well used either to facilitate production or for disposal purposes is approved by authority of the State in which the well is located, and if such State determines that such injection or disposal will not result in the degradation of ground or surface water resources.
 
 (7) The term “navigable waters” means the waters of the United States, including the territorial seas.
 
@@ -42,9 +42,11 @@ Except as otherwise specifically provided, when used in this chapter:
 
 (20) The term “medical waste” means isolation wastes; infectious agents; human blood and blood products; pathological wastes; sharps; body parts; contaminated bedding; surgical wastes and potentially contaminated laboratory wastes; dialysis wastes; and such additional medical items as the Administrator shall prescribe by regulation.
 
-(June 30, 1948, ch. 758, title V, §502, as added Oct. 18, 1972, Pub. L. 92–500, §2, 86 Stat. 886; amended Dec. 27, 1977, Pub. L. 95–217, §33(b), 91 Stat. 1577; Feb. 4, 1987, Pub. L. 100–4, title V, §§502(a), 503, 101 Stat. 75; Nov. 18, 1988, Pub. L. 100–688, title III, §3202(a), 102 Stat. 4154.)
+(June 30, 1948, ch. 758, title V, §502, as added Oct. 18, 1972, Pub. L. 92–500, §2, 86 Stat. 886; amended Dec. 27, 1977, Pub. L. 95–217, §33(b), 91 Stat. 1577; Feb. 4, 1987, Pub. L. 100–4, title V, §§502(a), 503, 101 Stat. 75; Nov. 18, 1988, Pub. L. 100–688, title III, §3202(a), 102 Stat. 4154; Feb. 10, 1996, Pub. L. 104–106, div. A, title III, §325(c)(3), 110 Stat. 259.)
 
 #### Amendments
+
+1996—Par. (6)(A). Pub. L. 104–106 substituted “ ‘sewage from vessels or a discharge incidental to the normal operation of a vessel of the Armed Forces’ ” for “ ‘sewage from vessels’ ”.
 
 1988—Par. (20). Pub. L. 100–688 added par. (20).
 

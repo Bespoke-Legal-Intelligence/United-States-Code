@@ -28,7 +28,7 @@ The requirements of this subsection are met with respect to a unit of general lo
 
 &emsp;(3) the unit has included in its application to the Administrator for formula grant funds a summary of the 3-year plan described in paragraph (2);
 
-&emsp;(4) pursuant to its 3-year plan, the unit has appointed a local policy board of no fewer than 15 and no more than 21 members with balanced representation of public agencies and private, nonprofit organizations serving children, youth, and families and business and industry;
+&emsp;(4) pursuant to its 3-year plan, the unit has appointed a local policy board of no fewer than 15 and no more than 21 members with balancedrepresentation of public agencies and private, nonprofit organizations serving children, youth, and families and business and industry;
 
 &emsp;(5) the unit has, in order to aid in the prevention of delinquency, included in its application a plan for the coordination of services to at-risk youth and their families, including such programs as nutrition, energy assistance, and housing;
 

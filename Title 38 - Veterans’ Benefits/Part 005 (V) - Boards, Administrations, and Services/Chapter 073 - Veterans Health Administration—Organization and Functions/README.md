@@ -25,6 +25,9 @@
 | [7316\.](Subchapter%20002%20%28II%29%20-%20General%20Authority%20and%20Administration/%C2%A7%2007316%20-%20Malpractice%20and%20negligence%20suits%20defense%20by%20United%20States.md) | Malpractice and negligence suits: defense by United States. |
 | [7317\.](Subchapter%20002%20%28II%29%20-%20General%20Authority%20and%20Administration/%C2%A7%2007317%20-%20Hazardous%20research%20projects%20indemnification%20of%20contractors.md) | Hazardous research projects: indemnification of contractors. |
 | [7318\.](Subchapter%20002%20%28II%29%20-%20General%20Authority%20and%20Administration/%C2%A7%2007318%20-%20National%20Center%20for%20Preventive%20Health.md) | National Center for Preventive Health. |
+| [7319\.](Subchapter%20002%20%28II%29%20-%20General%20Authority%20and%20Administration/%C2%A7%2007319%20-%20Mammography%20quality%20standards.md) | Mammography quality standards. |
+| [7320\.](Subchapter%20002%20%28II%29%20-%20General%20Authority%20and%20Administration/%C2%A7%2007320%20-%20Centers%20for%20mental%20illness%20research%2C%20education%2C%20and%20clinical%20activities.md) | Centers for mental illness research, education, and clinical activities. |
+| [7321\.](Subchapter%20002%20%28II%29%20-%20General%20Authority%20and%20Administration/%C2%A7%2007321%20-%20Committee%20on%20Care%20of%20Severely%20Chronically%20Mentally%20Ill%20Veterans.md) | Committee on Care of Severely Chronically Mentally Ill Veterans. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -55,6 +58,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1996—Pub. L. 104–262, title III, §§321(a)(2), 334(a)(2), 335(b), Oct. 9, 1996, 110 Stat. 3195, 3203, 3205, added items 7319 to 7321.
 
 1994—Pub. L. 103–446, title XII, §1201(h)(3), Nov. 2, 1994, 108 Stat. 4688, inserted “PROTECTION OF” before “PATIENT” in heading for subchapter III.
 
@@ -90,7 +95,7 @@ Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984, substit
 
 1962—Pub. L. 87–793, §803(b), Oct. 11, 1962, 76 Stat. 861, substituted “Administration” for “Specialist ratings” in item 4108.
 
-Pub. L. 87–574, §4(3), Aug. 6, 1962, 76 Stat. 309, inserted “; residencies and internships” in item 4114.
+Pub. L. 87–574, §4(3), Aug. 6, 1962, 76 Stat. 309, inserted “; residencies and internships” in item 4114.
 
 #### Cross References
 

@@ -1,4 +1,4 @@
-### §608 . Absent uniformed services voters and overseas voters
+### §608. Absent uniformed services voters and overseas voters
 
 (a) Whoever knowingly deprives or attempts to deprive any person of a right under the Uniformed and Overseas Citizens Absentee Voting Act shall be fined in accordance with this title or imprisoned not more than five years, or both.
 
@@ -8,7 +8,7 @@
 
 #### References in Text
 
-The Uniformed and Overseas Citizens Absentee Voting Act, referred to in text, is Pub. L. 99–410, Aug. 28, 1986, 100 Stat. 924, which is classified principally to subchapter I–G (§1973ff et seq.) of chapter 20 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1973ff of Title 42 and Tables.
+The Uniformed and Overseas Citizens Absentee Voting Act, referred to in text, is Pub. L. 99–410, Aug. 28, 1986, 100 Stat. 924, which is classified principally to subchapter I–G (§1973ff et seq.) of chapter 20 of Title 42,The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1973ff of Title 42 and Tables.
 
 #### Prior Provisions
 

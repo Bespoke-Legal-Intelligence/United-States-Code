@@ -74,11 +74,11 @@
 
 #### Amendments
 
-<b>1986</b>—Subsec. (b)(3). Pub. L. 99–556 inserted provision relating to the computation of any amount under section 8443(a)(2).
+1986—Subsec. (b)(3). Pub. L. 99–556 inserted provision relating to the computation of any amount under section 8443(a)(2).
 
 #### Delay in Cost-of-Living Adjustments During Fiscal Years 1994, 1995, and 1996
 
-Any cost-of-living increase scheduled to take effect during fiscal year 1994, 1995, or 1996 under subsec. (b) of this section delayed until first day of third calendar month after date such increase would otherwise take effect, see section 11001 of Pub. L. 103–66, set out as a note under section 8340 of this title.
+Any cost-of-living increase scheduled to take effect during fiscal year 1994, 1995, or 1996 under subsec. (b) ofthis section delayed until first day of third calendar month after date such increase would otherwise take effect, see section 11001 of Pub. L. 103–66, set out as a note under section 8340 of this title.
 
 #### Section Referred to in Other Sections
 

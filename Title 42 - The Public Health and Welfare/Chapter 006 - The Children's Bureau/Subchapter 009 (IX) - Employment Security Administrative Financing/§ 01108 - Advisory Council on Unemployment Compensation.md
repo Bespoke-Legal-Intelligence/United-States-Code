@@ -70,7 +70,7 @@ Each member of any Council—
 
 #### Codification
 
-Section 9 of Pub. L. 102–107, Aug. 17, 1991, 105 Stat. 547, which contained provisions substantially identicalto those of section 303 of Pub. L. 102–164, amending this section, did not become effective pursuant to section 10(b) of Pub. L. 102–107, because the President did not take the action required by that section by Aug. 17, 1991.
+Section 9 of Pub. L. 102–107, Aug. 17, 1991, 105 Stat. 547, which contained provisions substantially identical to those of section 303 of Pub. L. 102–164, amending this section, did not become effective pursuant to section 10(b) of Pub. L. 102–107, because the President did not take the action required by that section by Aug. 17, 1991.
 
 #### Prior Provisions
 
@@ -78,7 +78,7 @@ A prior section 1108, act Aug. 14, 1935, ch. 531, title IX, §908, 49 Stat. 643,
 
 A prior section 1109, act Aug. 14, 1935, ch. 531, title IX, §909, 49 Stat. 643, related to an additional credit against tax. For further details, see Prior Law note set out preceding section 1101 of this title.
 
-A prior section 1110, act Aug. 14, 1935, ch. 531, title IX, §910, 49 Stat. 644, related to conditions of additional credit allowance. For further details, see Prior Law note set out preceding section 1101 of this title.
+A prior section 1110, act Aug. 14, 1935, ch. 531, title IX, §910, 49 Stat. 644, related to conditions of additionalcredit allowance. For further details, see Prior Law note set out preceding section 1101 of this title.
 
 #### Amendments
 

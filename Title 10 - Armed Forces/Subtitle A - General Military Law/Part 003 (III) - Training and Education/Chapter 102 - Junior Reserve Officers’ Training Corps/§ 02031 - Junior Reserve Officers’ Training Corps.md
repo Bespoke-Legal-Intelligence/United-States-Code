@@ -68,7 +68,15 @@ Section 533(e)(2) of Pub. L. 102–484 provided that: “The amendment made by p
 
 #### Short Title
 
-Section 1 of Pub. L. 88–647 provided: “That the Act \[enacting this chapter, and chapter 103 of this title,amending section 802 of former Title 5, sections 1475, 1478, 1481, 3201, 4348, 5404, 5504, 5652b, 6023, 6387, 6959, 8201, and 9348 of this title, and sections 205, 209, 415, 416 and 422 of Title 37, Pay and Allowances of the Uniformed Services, repealing sections 3355, 3540, 4381 to 4387, 6901 to 6906, 6908, 6910, 8355, 8540, and 9381 to 9387 of this title, and enacting provisions set out as notes under this section and section 2107 and former section 9385 of this title, may be cited as the “Reserve Officers’ Training Corps Vitalization Act of 1964.”
+Section 1 of Pub. L. 88–647 provided: “That the Act \[enacting this chapter, and chapter 103 of this title, amending section 802 of former Title 5, sections 1475, 1478, 1481, 3201, 4348, 5404, 5504, 5652b, 6023, 6387, 6959, 8201, and 9348 of this title, and sections 205, 209, 415, 416 and 422 of Title 37, Pay and Allowances of the Uniformed Services, repealing sections 3355, 3540, 4381 to 4387, 6901 to 6906, 6908, 6910, 8355, 8540, and 9381 to 9387 of this title, and enacting provisions set out as notes under this section and section 2107 and former section 9385 of this title, may be cited as the “Reserve Officers’ Training Corps Vitalization Act of 1964.”
+
+#### Issuance of Regulations
+
+Section 102 of Pub. L. 88–647 directed that regulations implementing subsec. (a) of this section be issued by President and by Secretary of each military department not later than Jan. 1, 1966.
+
+#### Savings Clause
+
+Section 402 of Pub. L. 88–647 provided that: “If a part of this Act \[see Short Title note above\] is invalid, allvalid parts that are severable from the invalid part remains in effect. If a part of this Act is invalid in one or more of its applications, the part remains in effect in all valid applications that are severable from the invalid applications.”
 
 #### Reduction in Number of Students Required To Be in Junior Reserve Officers’ Training Corps Units for Period of September 1, 1980, to August 31, 1984
 
@@ -79,12 +87,4 @@ Pub. L. 96–342, title VI, §602, Sept. 8, 1980, 94 Stat. 1087, as amended by P
 &emsp;“(2) the unit meets such other requirements (in addition to the requirements prescribed by section 2031(b) of title 10, United States Code) as may be established by the Secretary of the military department concerned.”
 
 \[Section 702(b) of Pub. L. 97–86 provided that: “The amendment made by subsection (a) \[substituting 1982 for 1981 above\] shall take effect as of August 31, 1981.”\]
-
-#### Savings Clause
-
-Section 402 of Pub. L. 88–647 provided that: “If a part of this Act \[see Short Title note above\] is invalid, all valid parts that are severable from the invalid part remains in effect. If a part of this Act is invalid in one or more of its applications, the part remains in effect in all valid applications that are severable from the invalid applications.”
-
-#### Issuance of Regulations
-
-Section 102 of Pub. L. 88–647 directed that regulations implementing subsec. (a) of this section be issued by President and by Secretary of each military department not later than Jan. 1, 1966.
 

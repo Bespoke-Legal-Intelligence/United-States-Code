@@ -8,7 +8,7 @@
 
 &emsp;(3) initiate and carry out, to the maximum extent feasible, procurement procedures to acquire standardized or interoperable equipment, considering the cost, function, quality, and availability of the equipment.
 
-(b) Progress in realizing the objectives of standardization and interoperability would be enhanced by expanded inter-Allied procurement of arms and equipment within the North Atlantic Treaty Organization. Expanded inter-Allied procurement would be made easier by greater reliance on licensing and coproduction cooperative agreements among the signatories of the North Atlantic Treaty. If constructed to preserve the efficiencies associated with economies of scale, the agreements could minimize potential economic hardship to parties to the agreements and increase the survivability, in time of war, of the North Atlantic Alliance's armaments production base by dispersing manufacturing facilities. In conjunction with other members of the Organization and to the maximum extent feasible, the Secretary shall—
+(b) Progress in realizing the objectives of standardization and interoperability would be enhanced by expanded inter-Allied procurementof arms and equipment within the North Atlantic Treaty Organization. Expanded inter-Allied procurement would be made easier by greater reliance on licensing and coproduction cooperative agreements among the signatories of the North Atlantic Treaty. If constructed to preserve the efficiencies associated with economies of scale, the agreements could minimize potential economic hardship to parties to the agreements and increase the survivability, in time of war, of the North Atlantic Alliance's armaments production base by dispersing manufacturing facilities. In conjunction with other members of the Organization and to the maximum extent feasible, the Secretary shall—
 
 &emsp;(1) identify areas in which those cooperative agreements may be made with members of the Alliance; and
 
@@ -44,11 +44,11 @@
 
 &emsp;(8) a description of each weapon system or other military equipment originally developed or procured in the United States and that is being developed or procured by members of the Organization other than the United States during the fiscal year for which the report is submitted.
 
-(e) If the Secretary decides that procurement of equipment manufactured outside the United States is necessary to carry out the policy of subsection (a), the Secretary may determine under section 2 of title III of the Act of March 3, 1933 (41 U.S.C. 10a), that acquiring that equipment manufactured in the United States is inconsistent with the public interest.
+(e) If the Secretary decides that procurement of equipment manufactured outside the United States is necessary to carry out the policy of subsection (a), the Secretary may determine under section 2 of the Buy American Act (41 U.S.C. 10a) that acquiring that equipment manufactured in the United States is inconsistent with the public interest.
 
-(f) The Secretary shall submit the results of each assessment and evaluation made under subsection (a)(1) and (2) to the appropriate North Atlantic Treaty Organization body to become anintegral part of the overall Organization review of force goals and development of force plans.
+(f) The Secretary shall submit the results of each assessment and evaluation made under subsection (a)(1) and (2) to the appropriate North Atlantic Treaty Organization body to become an integral part of the overall Organization review of force goals and development of force plans.
 
-(Added Pub. L. 97–295, §1(30)(A), Oct. 12, 1982, 96 Stat. 1294; amended Pub. L. 101–510, div. A, title XIII, §1311(5), Nov. 5, 1990, 104 Stat. 1670.)
+(Added Pub. L. 97–295, §1(30)(A), Oct. 12, 1982, 96 Stat. 1294; amended Pub. L. 101–510, div. A, title XIII, §1311(5), Nov. 5, 1990, 104 Stat. 1670; Pub. L. 104–106, div. A, title XV, §1503(a)(24), Feb. 10, 1996, 110 Stat. 512.)
 
 Historical and Revision Notes
 
@@ -157,6 +157,8 @@ In subsection (d)(7), the words “those programs” are substituted for “all 
 In subsection (f), the words “The Secretary shall submit the results of these . . . to Congress” are omitted as unnecessary because of the source provisions restated in subsection (d)(1). The word “submit” is substituted for “cause to be brought” to eliminate unnecessary words. The words “in order that the suggested actions and recommendations can” are omitted as unnecessary because of the restatement.
 
 #### Amendments
+
+1996—Subsec. (e). Pub. L. 104–106 substituted “the Buy American Act (41 U.S.C. 10a)” for “title III of the Act of March 3, 1933 (41 U.S.C. 10a),”.
 
 1990—Subsec. (d). Pub. L. 101–510 substituted “Before February 1, 1989, and biennially thereafter” for “Before February 1 of each year”.
 

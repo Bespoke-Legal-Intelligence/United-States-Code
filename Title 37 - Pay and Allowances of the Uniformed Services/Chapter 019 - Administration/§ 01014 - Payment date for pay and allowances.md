@@ -6,7 +6,7 @@
 
 (Added Pub. L. 99–500, §101(c) \[title IX, §9103(1)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–118, and Pub. L. 99–591, §101(c) \[title IX, §9103(1)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–118, §1013; renumbered §1014, Pub. L. 100–26, §8(b)(2), Apr. 21, 1987, 101 Stat. 285.)
 
-#### Codification
+Codification
 
 Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 

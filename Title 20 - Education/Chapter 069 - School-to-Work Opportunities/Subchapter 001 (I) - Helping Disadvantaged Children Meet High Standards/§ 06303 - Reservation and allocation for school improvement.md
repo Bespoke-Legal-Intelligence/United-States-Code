@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (3), each State may reserve for the proper and efficient performance of its duties under subsections (c)(5) and (d) of section 6317 of this title, and section 6318 of this title, one-half of 1 percent of the funds allocated to the State under subsections (a), (c), and (d),<sup>1</sup> of section 6302 of this title for fiscal year 1995 and each succeeding fiscal year.
+&emsp;Except as provided in paragraph (3), each State may reserve for the proper and efficient performance of its duties under subsections\(c)(5) and (d) of section 6317 of this title, and section 6318 of this title, one-half of 1 percent of the funds allocated to the State under subsections (a), (c), and (d),<sup>1</sup> of section 6302 of this title for fiscal year 1995 and each succeeding fiscal year.
 
 #### (2) Minimum
 

@@ -48,7 +48,7 @@
 
 #### References in Text
 
-The Carl D. Perkins Vocational and Applied Technology Education Act, referred to in subsec. (a)(2)(C), is Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended. Part A of title II of the Act is classified generally to part A (§2331 et seq.) of subchapter II of chapter 44 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2301 of this title and Tables.
+The Carl D. Perkins Vocational and Applied Technology Education Act, referred to in subsec. (a)(2)(C), is Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended. Part A of title II of the Act is classified generally topart A (§2331 et seq.) of subchapter II of chapter 44 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2301 of this title and Tables.
 
 The Goals 2000: Educate America Act, referred to in subsec. (a)(2)(D), is Pub. L. 103–227, Mar. 31, 1994, 108 Stat. 125 (except titles V and IX), as amended, which is classified principally to chapter 68 (§5801 et seq.) of this title (except subchapters V (§5931 et seq.) and IX (§6001 et seq.)). For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
 
@@ -56,5 +56,5 @@ The School-to-Work Opportunities Act of 1994, referred to in subsec. (a)(2)(E), 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 6311, 6367, 6396, 7003, 8801, 8853, 8855 of this title.
+This section is referred to in sections 6311, 6367, 6396, 8801, 8853, 8855 of this title.
 

@@ -14,13 +14,13 @@
 
 (g) In preparing programs to submit in accordance with subsection (a) of this section, the State highway departments shall give consideration to projects providing direct and convenient public access to public airports, public ports for water transportation, new town communities, and new town-intown communities, and in approving such programs the Secretary shall give consideration to such projects.
 
-(h) In preparing programs to submit in accordance with subsection (a) of this section, the State highway departments may give priority to projects for the reconstruction, resurfacing, restoration, or rehabilitation of highways which are incurring a substantial use as a result of transportation activities to meet national energy requirements and which will continue to incur such use, and in approving such programs the Secretary may give priority to such projects.
+(h) In preparing programs to submit in accordance with subsection (a) of this section, the State highway departments may give priority to projects for the reconstruction, resurfacing, restoration, or rehabilitation of highways whichare incurring a substantial use as a result of transportation activities to meet national energy requirements and which will continue to incur such use, and in approving such programs the Secretary may give priority to such projects.
 
 (k) <sup>1</sup>
 
 Priority for High Priority Segments of Corridors of National Significance.—In selecting projects for inclusion in a program of projects under this section, the State may give priority to high priority segments of corridors identified under section 1105(f) of the Intermodal Surface Transportation Efficiency Act of 1991. In approving programs of projects under this section, the Secretary may give priority of approval to, and expedite construction of, projects to complete construction of such segments.
 
-(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 891; Pub. L. 86–624, §17(b), July 12, 1960, 74 Stat. 415; Pub. L. 89–564, title II, §206, Sept. 9, 1966, 80 Stat. 736; Pub. L. 91–605, title I, §§106(d), 132, Dec. 31, 1970, 84 Stat. 1717, 1732; Pub. L. 93–87, title I, §109(b), Aug. 13, 1973, 87 Stat. 255; Pub. L. 95–599, title I,§§111, 112, Nov. 6, 1978, 92 Stat. 2696; Pub. L. 97–424, title I, §109(a), Jan. 6, 1983, 96 Stat. 2104; Pub. L. 102–240, title I, §1105(g)(7), Dec. 18, 1991, 105 Stat. 2036.)
+(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 891; Pub. L. 86–624, §17(b), July 12, 1960, 74 Stat. 415; Pub. L. 89–564, title II, §206, Sept. 9, 1966, 80 Stat. 736; Pub. L. 91–605, title I, §§106(d), 132, Dec. 31, 1970, 84 Stat. 1717, 1732; Pub. L. 93–87, title I, §109(b), Aug. 13, 1973, 87 Stat. 255; Pub. L. 95–599, title I, §§111, 112, Nov. 6, 1978, 92 Stat. 2696; Pub. L. 97–424, title I, §109(a), Jan. 6, 1983, 96 Stat. 2104; Pub. L. 102–240, title I, §1105(g)(7), Dec. 18, 1991, 105 Stat. 2036.)
 
 #### References in Text
 

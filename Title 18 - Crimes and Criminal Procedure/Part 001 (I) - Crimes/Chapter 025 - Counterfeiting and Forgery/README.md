@@ -13,20 +13,20 @@
 | [477\.](%C2%A7%2000477%20-%20Possessing%20or%20selling%20impressions%20of%20tools%20used%20for%20obligations%20or%20securities.md) | Possessing or selling impressions of tools used for obligations or securities. |
 | [478\.](%C2%A7%2000478%20-%20Foreign%20obligations%20or%20securities.md) | Foreign obligations or securities. |
 | [479\.](%C2%A7%2000479%20-%20Uttering%20counterfeit%20foreign%20obligations%20or%20securities.md) | Uttering counterfeit foreign obligations or securities. |
-| 480\. | Possessing counterfeit foreign obligations or securities. |
-| 481\. | Plates or stones for counterfeiting foreign obligations or securities. |
-| 482\. | Foreign bank notes. |
-| 483\. | Uttering counterfeit foreign bank notes. |
-| 484\. | Connecting parts of different notes. |
-| 485\. | Coins or bars. |
-| 486\. | Uttering coins of gold, silver or other metal. |
-| 487\. | Making or possessing counterfeit dies for coins. |
-| 488\. | Making or possessing counterfeit dies for foreign coins. |
-| 489\. | Making or possessing likeness of coins. |
-| 490\. | Minor coins. |
-| 491\. | Tokens or paper used as money. |
-| 492\. | Forfeiture of counterfeit paraphernalia. |
-| 493\. | Bonds and obligations of certain lending agencies. |
+| [480\.](%C2%A7%2000480%20-%20Possessing%20counterfeit%20foreign%20obligations%20or%20securities.md) | Possessing counterfeit foreign obligations or securities. |
+| [481\.](%C2%A7%2000481%20-%20Plates%20or%20stones%20for%20counterfeiting%20foreign%20obligations%20or%20securities.md) | Plates or stones for counterfeiting foreign obligations or securities. |
+| [482\.](%C2%A7%2000482%20-%20Foreign%20bank%20notes.md) | Foreign bank notes. |
+| [483\.](%C2%A7%2000483%20-%20Uttering%20counterfeit%20foreign%20bank%20notes.md) | Uttering counterfeit foreign bank notes. |
+| [484\.](%C2%A7%2000484%20-%20Connecting%20parts%20of%20different%20notes.md) | Connecting parts of different notes. |
+| [485\.](%C2%A7%2000485%20-%20Coins%20or%20bars.md) | Coins or bars. |
+| [486\.](%C2%A7%2000486%20-%20Uttering%20coins%20of%20gold%2C%20silver%20or%20other%20metal.md) | Uttering coins of gold, silver or other metal. |
+| [487\.](%C2%A7%2000487%20-%20Making%20or%20possessing%20counterfeit%20dies%20for%20coins.md) | Making or possessing counterfeit dies for coins. |
+| [488\.](%C2%A7%2000488%20-%20Making%20or%20possessing%20counterfeit%20dies%20for%20foreign%20coins.md) | Making or possessing counterfeit dies for foreign coins. |
+| [489\.](%C2%A7%2000489%20-%20Making%20or%20possessing%20likeness%20of%20coins.md) | Making or possessing likeness of coins. |
+| [490\.](%C2%A7%2000490%20-%20Minor%20coins.md) | Minor coins. |
+| [491\.](%C2%A7%2000491%20-%20Tokens%20or%20paper%20used%20as%20money.md) | Tokens or paper used as money. |
+| [492\.](%C2%A7%2000492%20-%20Forfeiture%20of%20counterfeit%20paraphernalia.md) | Forfeiture of counterfeit paraphernalia. |
+| [493\.](%C2%A7%2000493%20-%20Bonds%20and%20obligations%20of%20certain%20lending%20agencies.md) | Bonds and obligations of certain lending agencies. |
 | [494\.](%C2%A7%2000494%20-%20Contractors%E2%80%99%20bonds%2C%20bids%2C%20and%20public%20records.md) | Contractors’ bonds, bids, and public records. |
 | [495\.](%C2%A7%2000495%20-%20Contracts%2C%20deeds%2C%20and%20powers%20of%20attorney.md) | Contracts, deeds, and powers of attorney. |
 | [496\.](%C2%A7%2000496%20-%20Customs%20matters.md) | Customs matters. |
@@ -48,10 +48,13 @@
 | [511A.](%C2%A7%2000511A%20-%20Unauthorized%20application%20of%20theft%20prevention%20decal%20or%20device.md) | Unauthorized application of theft prevention decal or device. |
 | [512\.](%C2%A7%2000512%20-%20Forfeiture%20of%20certain%20motor%20vehicles%20and%20motor%20vehicle%20parts.md) | Forfeiture of certain motor vehicles and motor vehicle parts. |
 | [513\.](%C2%A7%2000513%20-%20Securities%20of%20the%20States%20and%20private%20entities.md) | Securities of the States and private entities. |
+| [514\.](%C2%A7%2000514%20-%20Fictitious%20obligations.md) | Fictitious obligations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1996—Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §648(b)(2)\], title II, §2603(b)(2), Sept. 30, 1996, 110 Stat. 3009–314, 3009–368, 3009–470, amended analysis identically, adding item 514.
 
 1994—Pub. L. 103–322, title XII, §120003(b)(1), title XXII, §220003(d)(2), title XXXIII, §330010(14), Sept. 13, 1994, 108 Stat. 2022, 2077, 2144, added item 470, struck out extraneous period after “money” in item 491, and added item 511A.
 
@@ -162,3 +165,4 @@ This chapter is referred to in title 7 section 12a; title 15 sections 78<i>o</i>
 - [&sect; 00511A - Unauthorized application of theft prevention decal or device](%C2%A7%2000511A%20-%20Unauthorized%20application%20of%20theft%20prevention%20decal%20or%20device.md)
 - [&sect; 00512 - Forfeiture of certain motor vehicles and motor vehicle parts](%C2%A7%2000512%20-%20Forfeiture%20of%20certain%20motor%20vehicles%20and%20motor%20vehicle%20parts.md)
 - [&sect; 00513 - Securities of the States and private entities](%C2%A7%2000513%20-%20Securities%20of%20the%20States%20and%20private%20entities.md)
+- [&sect; 00514 - Fictitious obligations](%C2%A7%2000514%20-%20Fictitious%20obligations.md)

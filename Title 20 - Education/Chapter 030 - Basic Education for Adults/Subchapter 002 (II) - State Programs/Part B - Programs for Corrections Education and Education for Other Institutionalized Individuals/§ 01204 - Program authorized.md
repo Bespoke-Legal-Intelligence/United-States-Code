@@ -1,6 +1,6 @@
 ### §1204. Program authorized
 
-Funds <sup>1</sup> set aside under section 1203a(b)(1) of this title by a State shall be used for the cost of educational programs for criminal offenders in corrections institutions and for other institutionalized individuals, including—
+Funds <sup>1</sup> set aside under section 1203a(b)(1) of this title by a State shall be used for the cost ofeducational programs for criminal offenders in corrections institutions and for other institutionalized individuals, including—
 
 &emsp;(1) academic programs for—
 

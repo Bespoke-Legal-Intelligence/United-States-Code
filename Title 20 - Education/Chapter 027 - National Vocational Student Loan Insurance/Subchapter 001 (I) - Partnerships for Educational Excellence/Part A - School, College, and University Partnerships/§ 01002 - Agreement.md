@@ -2,7 +2,7 @@
 
 #### (a) Agreement
 
-To be eligible for a grant under this part, an institution of higher education, a State higher education agency, or a consortium consisting of any of the preceding entities thereof shall enter into a written partnership agreement with a local educational agency. Such partnership mayinclude businesses, labor organizations, professional associations, community-based organizations, public television stations or other telecommunications entities, or other public or private agencies or organizations. Each entity participating in the partnership shall sign the agreement.
+To be eligible for a grant under this part, an institution of higher education, a State higher education agency, or a consortium consisting of any of the preceding entities thereof shall enter into a written partnership agreement with a local educational agency. Such partnership may include businesses, labor organizations, professional associations, community-based organizations, public television stations or other telecommunications entities, or other public or private agencies or organizations. Each entity participating in the partnership shall sign the agreement.
 
 #### (b) Contents of agreement
 

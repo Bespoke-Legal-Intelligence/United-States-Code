@@ -34,7 +34,9 @@ The Secretary of Transportation may provide insurance and reinsurance authorized
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

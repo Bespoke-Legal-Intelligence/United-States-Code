@@ -48,7 +48,9 @@ No Exclusive Rights at Certain Facilities.—A person does not have an exclusive
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -68,7 +70,7 @@ Aug. 23, 1958, Pub. L. 85–726, §104, 72 Stat. 740; Oct. 4, 1984, Pub. L. 98�
 
 &nbsp;
 
-49 App.:1551(b) (1)(E).
+49 App.:1551(b)(1)(E).
 
 Aug. 28, 1958, Pub. L. 85–726, 72 Stat. 731, §1601(b)(1)(E); added Oct. 4, 1984, Pub. L. 98–443, §3(e), 98 Stat. 1704.
 
@@ -138,7 +140,7 @@ In subsection (b)(2), before clause (A), the word “shall” is substituted for
 
 In subsection (b)(3), before clause (A), the words “In the exercise of his authority under section 1348(a) of this Appendix” in 49 App.:1522 are omitted as surplus. The word “navigable” is added for clarity and consistency. In clause (A), the words “such zones or” are omitted as surplus.
 
-In subsection (b)(4), the words “the military exception” are substituted for “any exception relating to military or naval functions” to eliminate unnecessary words and because “naval” is included in “military”. The words “applies to a regulation prescribed under” are substituted for “In the exercise of the rulemaking authority . . . the Secretary of Transportation shall be subject to” to eliminate unnecessary words and because “rules” and “regulations” are synonymous.
+In subsection (b)(4), the words “the military exception” are substituted for “any exception relating tomilitary or naval functions” to eliminate unnecessary words and because “naval” is included in “military”. The words “applies to a regulation prescribed under” are substituted for “In the exercise of the rulemaking authority . . . the Secretary of Transportation shall be subject to” to eliminate unnecessary words and because “rules” and “regulations” are synonymous.
 
 Subsection (c) is added for clarity.
 

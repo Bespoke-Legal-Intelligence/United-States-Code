@@ -62,7 +62,7 @@ There shall be a President of the Export-Import Bank of the United States, who s
 
 No director, officer, attorney, agent, or employee of the Bank shall in any manner, directly or indirectly, participate in the deliberation upon or the determination of any question affecting such individual's personal interests, or the interests of any corporation, partnership or association in which such individual is directly or indirectly personally interested.
 
-(July 31, 1945, ch. 341, §3, 59 Stat. 527; Aug. 9, 1954, ch. 660, §1, 68 Stat. 677; Mar. 13, 1968, Pub. L. 90–267, §1(a), (d), 82 Stat. 47, 49; Nov. 30, 1983, Pub. L. 98–181, title VI, §§613, 614(a), 620(b), 97 Stat. 1255, 1261; Oct. 15, 1986, Pub. L. 99–472, §18, 100 Stat. 1205; Oct. 21, 1992, Pub. L. 102–429, title I, §113, 106 Stat. 2195.)
+(July 31, 1945, ch. 341, §3, 59 Stat. 527; Aug. 9, 1954, ch. 660, §1, 68 Stat. 677; Mar. 13, 1968, Pub. L. 90–267, §1(a), (d), 82 Stat. 47, 49; Nov. 30, 1983,Pub. L. 98–181, title VI, §§613, 614(a), 620(b), 97 Stat. 1255, 1261; Oct. 15, 1986, Pub. L. 99–472, §18, 100 Stat. 1205; Oct. 21, 1992, Pub. L. 102–429, title I, §113, 106 Stat. 2195.)
 
 #### Codification
 
@@ -82,7 +82,7 @@ Subsec. (e). Pub. L. 98–181, §620(b), substituted “such individual's” for
 
 1968—Subsecs. (a) to (c). Pub. L. 90–267, §1(a), changed name of “Export-Import Bank of Washington” to “Export-Import Bank of the United States”.
 
-Subsec. (d). Pub. L. 90–267, §1(d), substituted provisions for compensation of members, not otherwise in the regular full-time employ of the United States, atrates not exceeding the per diem equivalent of the rate for grade 18 of the General Schedule for each day spent in travel or attendance at meetings of the Committee, and for allowance of travel expenses, when serving away from home or regular place of business, as authorized by section 5703 of title 5 for individuals in the Government service employed intermittently for former provisions for allowance for attendance at meetings and travel expenses of $50 and $10, respectively.
+Subsec. (d). Pub. L. 90–267, §1(d), substituted provisions for compensation of members, not otherwise in the regular full-time employ of the United States, at rates not exceeding the per diem equivalent of the rate for grade 18 of the General Schedule for each day spent in travel or attendance at meetings of the Committee, and for allowance of travel expenses, when serving away from home or regular place of business, as authorized by section 5703 of title 5 for individuals in the Government service employed intermittently for former provisions for allowance for attendance at meetings and travel expenses of $50 and $10, respectively.
 
 1954—Act Aug. 9, 1954, amended section generally to provide for the independent management of the Bank under a Board of Directors and for the appointment of a President and First Vice President of the Bank.
 
@@ -118,7 +118,13 @@ Report.—Not later than 1 year after the date of enactment of this Act, the Exp
 
 &emsp;&emsp;“(B) whether or not the authority of subsection (a) should be extended.”
 
-\[Pub. L. 103–306, title IV, Aug. 23, 1994, 108 Stat. 1623, provided in part: “That, notwithstanding subsection (b) of section 117 of the Export Enhancement Act of 1992 \[Pub. L. 102–429, set out above\], subsection (a) thereof shall remain in effect until October 1, 1995.”\]
+\[Pub. L. 104–208, div. A, title I, §101(c) \[title I\], Sept. 30, 1996, 110 Stat. 3009–121, 3009–122, provided in part: “That, notwithstanding subsection (b) of section 117 of the Export Enhancement Act of 1992 \[Pub. L. 102–429, set out above\], subsection (a) thereof shall remain in effect until October 1, 1997.”
+
+\[Prior similar extensions of section 117(a) of Pub. L. 102–429 were contained in the following acts:
+
+\[Pub. L. 104–107, title I, Feb. 12, 1996, 110 Stat. 705.
+
+\[Pub. L. 103–306, title IV, Aug. 23, 1994, 108 Stat. 1623.\]
 
 #### Report on Regional Offices
 

@@ -98,7 +98,7 @@ Section 105(b) of Pub. L. 96–605 provided that: “The amendment made by subse
 
 Amendment by section 301(b)(7) of Pub. L. 95–600 applicable to taxable years beginning after Dec. 31, 1978, see section 301(c) of Pub. L. 95–600, set out as a note under section 11 of this title.
 
-Section 403(d)(3) of Pub. L. 95–600 provided that: “The amendments made by paragraphs (2), (3), and (4) of subsection (c) \[amending this section and sections 857 and 904 of this title\] shall take effect on the date of the enactment of this Act \[Nov. 6, 1978\].”
+Section 403(d)(3) of Pub. L. 95–600 provided that: “The amendments made by paragraphs (2), (3), and (4) of subsection (c) \[amending this section and sections 857 and904 of this title\] shall take effect on the date of the enactment of this Act \[Nov. 6, 1978\].”
 
 Section 701(n)(2) of Pub. L. 95–600 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to taxable years beginning after December 31, 1973.”
 

@@ -18,15 +18,17 @@ Program To Encourage Diversification of Defense Laboratories.—(1) The Secretar
 
 (4) In this subsection, the term “defense laboratory” means any laboratory owned or operated by the Department of Defense that carries out research in fiscal year 1993 in an amount in excess of $50,000,000.
 
-(5) The Secretary shall coordinate the Program with the National Defense Technology and Industrial Base Council.
-
-(Added Pub. L. 102–484, div. D, title XLII, §4224(a), Oct. 23, 1992, 106 Stat. 2682.)
+(Added Pub. L. 102–484, div. D, title XLII, §4224(a), Oct. 23, 1992, 106 Stat. 2682; amended Pub. L. 104–201, div. A, title VIII, §829(f), Sept. 23, 1996, 110 Stat. 2614.)
 
 #### Prior Provisions
 
 A prior section 2514, added Pub. L. 101–510, div. A, title VIII, §823(a)(3), Nov. 5, 1990, 104 Stat. 1601, directed Secretary of Defense to enhance research relating to manufacturing technology, prior to repeal by Pub. L. 102–484, §4202(a).
 
 Provisions similar to those in subsecs. (a) and (b) of this section were contained in section 2363 of this title prior to repeal by Pub. L. 102–484, §§4224(c), 4271(a)(2).
+
+#### Amendments
+
+1996—Subsec. (c)(5). Pub. L. 104–201 struck out par. (5) which read as follows: “The Secretary shall coordinate the Program with the National Defense Technology and Industrial Base Council.”
 
 #### National Action Plan on Advanced Superconductivity Research and Development
 

@@ -2,7 +2,7 @@
 
 (a)
 
-General.—(1) Except as provided in paragraph (2) of this subsection, only the AttorneyGeneral may bring a civil action for equitable relief in a district court of the United States when Amtrak or a rail carrier—
+General.—(1) Except as provided in paragraph (2) of this subsection, only the Attorney General may bring a civil action for equitable relief in a district court of the United States when Amtrak or a rail carrier—
 
 &emsp;(A) engages in or adheres to an action, practice, or policy inconsistent with this part;
 
@@ -32,7 +32,9 @@ Venue.—Except as otherwise prohibited by law, a civil action under this sectio
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -56,7 +58,7 @@ Oct. 30, 1970, Pub. L. 91–518, 84 Stat. 1327, §307(a) (last sentence); added 
 
 In subsections (a) and (b), the words “may bring a civil action”, “may bring the civil action”, and “in a civil action brought by” are substituted for “upon petition of” and “on petition of” for consistency with rule 2 of the Federal Rules of Civil Procedure (28 App. U.S.C.).
 
-In subsection (a)(1), before clause (A), the words “Except as provided in paragraph (2) of this subsection” are added for clarity. The word “only” is added for clarity. See <i>National Railroad Passenger Corp. et al.</i> v. <i>National Association of Railroad Passengers</i>, 414 U.S. 453 (1974). In clauses (A) and (D)(i), the words “the policies and purposes of” are omitted as surplus.
+In subsection (a)(1), before clause (A), the words “Except as provided in paragraph (2) of this subsection” are added for clarity. The word “only” is added for clarity. See <i>National Railroad Passenger Corp. et al</i>. v. <i>National Association of Railroad Passengers</i>, 414 U.S. 453 (1974). In clauses (A) and (D)(i), the words “the policies and purposes of” are omitted as surplus.
 
 In subsection (a)(2), the word “duly” is omitted as surplus.
 

@@ -36,7 +36,7 @@ The monthly installment of annuity after adjustment under this section shall be 
 
 #### (f) Rate of increase for surviving spouses of annuitants electing reduced annuity
 
-Effective from its commencing date, there shall be an increase of 10 percent in the annuity of each surviving spouse whose entitlement toannuity resulted from the death of an annuitant who, prior to October 1, 1976, elected a reduced annuity in order to provide a spouse's survivor annuity.
+Effective from its commencing date, there shall be an increase of 10 percent in the annuity of each surviving spouse whose entitlement to annuity resulted from the death of an annuitant who, prior to October 1, 1976, elected a reduced annuity in order to provide a spouse's survivor annuity.
 
 #### (g) Maximum annuity
 

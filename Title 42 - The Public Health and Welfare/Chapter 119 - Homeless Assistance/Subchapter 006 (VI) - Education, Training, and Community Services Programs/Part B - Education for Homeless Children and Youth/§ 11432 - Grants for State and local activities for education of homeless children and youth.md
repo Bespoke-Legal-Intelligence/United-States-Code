@@ -62,7 +62,7 @@ The Coordinator of Education of Homeless Children and Youth established in each 
 
 &emsp;(3) develop and carry out the State plan described in subsection (g) of this section;
 
-&emsp;(4) prepare and submit to the Secretary not later than October 1, 1997, and on October 1 of every third year thereafter, a report on the information gathered pursuant to paragraphs (1) and (2) and such additional information as theSecretary may require to carry out the Secretary's responsibilities under this part;
+&emsp;(4) prepare and submit to the Secretary not later than October 1, 1997, and on October 1 of every third year thereafter, a report on the information gathered pursuant to paragraphs (1) and (2) and such additional information as the Secretary may require to carry out the Secretary's responsibilities under this part;
 
 &emsp;(5) facilitate coordination between the State educational agency, the State social services agency, and other agencies providing services to homeless children and youth, including homeless children and youth who are preschool age, and families of such children and youth; and
 
@@ -166,7 +166,7 @@ The Coordinator of Education of Homeless Children and Youth established in each 
 
 #### (8) Review and revisions
 
-&emsp;Each State educational agency and local educational agency that receives assistance under this part shall review and revise any policies that may act as barriers to the enrollment of homeless children and youth in schools selected in accordance with paragraph (3). In reviewing and revising such policies, consideration shall be given to issues concerning transportation, immunization, residency, birth certificates, school records, and other documentation, and guardianship. Special attention shall be given to ensuring the enrollment and attendance of homeless children and youth who are not currently attending school.
+&emsp;Each State educational agency and local educational agency that receives assistanceunder this part shall review and revise any policies that may act as barriers to the enrollment of homeless children and youth in schools selected in accordance with paragraph (3). In reviewing and revising such policies, consideration shall be given to issues concerning transportation, immunization, residency, birth certificates, school records, and other documentation, and guardianship. Special attention shall be given to ensuring the enrollment and attendance of homeless children and youth who are not currently attending school.
 
 #### (9) Coordination
 

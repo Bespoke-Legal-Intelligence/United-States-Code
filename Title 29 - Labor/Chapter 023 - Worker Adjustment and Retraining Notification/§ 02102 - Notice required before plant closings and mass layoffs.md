@@ -16,7 +16,7 @@ An employer shall not order a plant closing or mass layoff until the end of a 60
 
 (2)(A) An employer may order a plant closing or mass layoff before the conclusion of the 60-day period if the closing or mass layoff is caused by business circumstances that were not reasonably foreseeable as of the time that notice would have been required.
 
-(B) No notice under this chapter shall be required if the plant closing or mass layoff is due to any form of natural disaster, such as a flood, earthquake, or the drought currently ravaging the farmlands of the United States.
+(B) No notice under this chapter shall be required if the plant closing or mass layoff is dueto any form of natural disaster, such as a flood, earthquake, or the drought currently ravaging the farmlands of the United States.
 
 (3) An employer relying on this subsection shall give as much notice as is practicable and at that time shall give a brief statement of the basis for reducing the notification period.
 
@@ -40,5 +40,5 @@ The Job Training Partnership Act, referred to in subsec. (a)(2), is Pub. L. 97â€
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2101, 2103, 2104, 2106 of this title; title 2 section 1315.
+This section is referred to in sections 2101, 2103, 2104, 2106 of this title; title 2 section 1315; title 3 section 415.
 

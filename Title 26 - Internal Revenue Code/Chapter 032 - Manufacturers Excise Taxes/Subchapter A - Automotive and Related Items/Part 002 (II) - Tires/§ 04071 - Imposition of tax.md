@@ -2,13 +2,12 @@
 
 #### (a) Imposition and rate of tax
 
-There is hereby imposed on tires of the type used on highway vehicles, if wholly or in partmade of rubber, sold by the manufacturer, producer, or importer a tax at the following rates:
+There is hereby imposed on tires of the type used on highway vehicles, if wholly or in part made of rubber, sold by the manufacturer, producer, or importer a tax at the following rates:
 
 &nbsp;
 
-| &nbsp; | &nbsp; |
-| :--- | ---: |
 | <b>If the tire weighs:</b> | <b>The rate of tax is:</b> |
+| :--- | ---: |
 | Not more than 40 lbs | No tax. |
 | More than 40 lbs. but not more than 70 lbs | 15 cents per lb. in excess of 40 lbs. |
 | More than 70 lbs. but not more than 90 lbs | $4.50 plus 30 cents per lb. in excess of 70 lbs. |

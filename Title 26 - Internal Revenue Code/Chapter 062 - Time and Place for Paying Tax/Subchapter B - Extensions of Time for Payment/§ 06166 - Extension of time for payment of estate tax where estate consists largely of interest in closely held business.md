@@ -104,7 +104,7 @@
 
 #### (i) Holding company stock treated as business company stock
 
-&emsp;&emsp;&emsp;For purposes of this section, the portion of the stock of any holding company which represents direct ownership (or indirect ownership through 1 or more other holding companies) by such company in a business company shall be deemed to be stock in such business company.
+&emsp;&emsp;&emsp;For purposes of this section, the portion of the stock of any holding company whichrepresents direct ownership (or indirect ownership through 1 or more other holding companies) by such company in a business company shall be deemed to be stock in such business company.
 
 #### (ii) 5-year deferral for principal not to apply
 
@@ -184,7 +184,7 @@ If the time for payment of any amount of tax has been extended under this sectio
 
 #### (1) Interest for first 5 years
 
-&emsp;Interest payable under section 6601 of any unpaid portion of such amount attributable to the first 5 years after the date prescribed by section 6151(a) for payment of the tax shall be paid annually.
+&emsp;Interest payable under section 6601 of any unpaid portion of such amount attributable tothe first 5 years after the date prescribed by section 6151(a) for payment of the tax shall be paid annually.
 
 #### (2) Interest for periods after first 5 years
 
@@ -216,7 +216,7 @@ If the time for payment of any amount of tax has been extended under this sectio
 
 &emsp;&emsp;&emsp;(i) the redemption of such stock, and the withdrawal of money and other property distributed in such redemption, shall not be treated as a distribution or withdrawal for purposes of subparagraph (A), and
 
-&emsp;&emsp;&emsp;(ii) for purposes of subparagraph (A), the value of the interest in the closely heldbusiness shall be considered to be such value reduced by the value of the stock redeemed.
+&emsp;&emsp;&emsp;(ii) for purposes of subparagraph (A), the value of the interest in the closely held business shall be considered to be such value reduced by the value of the stock redeemed.
 
 > &emsp;&emsp;This subparagraph shall apply only if, on or before the date prescribed by subsection (a)(3) for the payment of the first installment which becomes due after the date of the distribution (or, if earlier, on or before the day which is 1 year after the date of the distribution), there is paid an amount of the tax imposed by section 2001 not less than the amount of money and other property distributed.
 
@@ -332,21 +332,15 @@ The Secretary shall prescribe such regulations as may be necessary to the applic
 
 &emsp;&emsp;&emsp;<b>For special rule for qualifying an estate under this section where property has been transferred within 3 years of decedent's death, see section 2035(d)(4).</b>
 
-#### (6) Payment of estate tax by employee stock ownership plan or eligible worker-owned cooperative
-
-&emsp;&emsp;&emsp;<b>For provision allowing plan administrator or eligible worker-owned cooperative to elect to pay a certain portion of the estate tax in installments under the provisions of this section, see section 2210(c).</b><b><sup>1</sup></b>
-
-(Added Pub. L. 94–455, title XX, §2004(a), Oct. 4, 1976, 90 Stat. 1862; amended Pub. L. 95–600, title V, §512(a), (b), Nov. 6, 1978, 92 Stat. 2882, 2883; Pub. L. 97–34, title IV, §422(a), (c), (e)(5)(A), (B), Aug. 13, 1981, 95 Stat. 314–316; Pub. L. 97–448, title I, §104(c), (d)(1)(B), Jan. 12, 1983, 96 Stat. 2382, 2383; Pub. L. 98–369, div. A, title V, §544(b)(4), title X, §1021(a)–(d), July 18, 1984, 98 Stat. 894, 1024–1026; Pub. L. 99–514, title XIV, §1432(e), Oct. 22, 1986, 100 Stat. 2730.)
-
-#### References in Text
-
-Section 2210, referred to in subsec. (k)(6), was repealed by Pub. L. 101–239, title VII, §7304(b)(1), Dec. 19, 1989, 103 Stat. 2353.
+(Added Pub. L. 94–455, title XX, §2004(a), Oct. 4, 1976, 90 Stat. 1862; amended Pub. L. 95–600, titleV, §512(a), (b), Nov. 6, 1978, 92 Stat. 2882, 2883; Pub. L. 97–34, title IV, §422(a), (c), (e)(5)(A), (B), Aug. 13, 1981, 95 Stat. 314–316; Pub. L. 97–448, title I, §104(c), (d)(1)(B), Jan. 12, 1983, 96 Stat. 2382, 2383; Pub. L. 98–369, div. A, title V, §544(b)(4), title X, §1021(a)–(d), July 18, 1984, 98 Stat. 894, 1024–1026; Pub. L. 99–514, title XIV, §1432(e), Oct. 22, 1986, 100 Stat. 2730; Pub. L. 104–188, title I, §1704(t)(15), Aug. 20, 1996, 110 Stat. 1888.)
 
 #### Prior Provisions
 
 A prior section 6166 was renumbered section 6166A of this title and later repealed by Pub. L. 97–34, title IV, §422(d), Aug. 13, 1981, 95 Stat. 315.
 
 #### Amendments
+
+1996—Subsec. (k)(6). Pub. L. 104–188 struck out par. (6) which provided cross reference to former section 2210(c) of this title authorizing payment of certain portion of estate tax in installments under provisions of this section.
 
 1986—Subsecs. (i) to (k). Pub. L. 99–514 added subsec. (i) and redesignated former subsecs. (i) and (j) as (j) and (k), respectively.
 
@@ -370,7 +364,7 @@ Subsec. (j)(5). Pub. L. 97–448, §104(d)(1)(B), added par. (5).
 
 1981—Pub. L. 97–34, §422(e)(5)(B), substituted “Extension of time” for “Alternate extension of time” in section catchline.
 
-Subsec. (a). Pub. L. 97–34, §422(a)(1), (e)(5)(A), substituted in par. (1) “35 percent” for “65 percent” and struck out par. (4) which provided that no election bemade under this section by the executor of the estate of any decedent if an election under section 6166A applies with respect to the estate of such decedent.
+Subsec. (a). Pub. L. 97–34, §422(a)(1), (e)(5)(A), substituted in par. (1) “35 percent” for “65 percent” and struck out par. (4) which provided that no election be made under this section by the executor of the estate of any decedent if an election under section 6166A applies with respect to the estate of such decedent.
 
 Subsec. (c). Pub. L. 97–34, §422(a)(2), substituted “20 percent or more” for “more than 20 percent”.
 
@@ -447,6 +441,4 @@ Land diverted from production of agricultural commodities under a 1983 payment-i
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 163, 303, 2011, 2032A, 2035, 2056A, 6324A, 6503, 6601, 7403, 7481 of this title.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

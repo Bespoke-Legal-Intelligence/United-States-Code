@@ -60,7 +60,7 @@ Taxes computed as provided in section 11 shall be imposed for each taxable year 
 
 Subsec. (b)(3). Pub. L. 100–647, §1010(f)(9), added par. (3).
 
-1986—Pub. L. 99–514 amended section generally, substituting provisions imposing taxes on insurance companies other than life insurance companies, with an alternative tax on certain small companies, for provisions imposing taxes on insurance companies (other than life or mutual), mutual marine insurance companies, and certain mutual fire or flood insurance companies, with an election for multiple line companies to be taxed on total income.
+1986—Pub. L. 99–514 amended section generally, substituting provisions imposing taxes on insurance companies other than life insurance companies, with an alternative tax on certain small companies, for provisions imposing taxes on insurance companies (otherthan life or mutual), mutual marine insurance companies, and certain mutual fire or flood insurance companies, with an election for multiple line companies to be taxed on total income.
 
 1976—Subsec. (a). Pub. L. 94–455, §1901(a)(107), substituted “on the taxable income” for “or the taxable income”.
 

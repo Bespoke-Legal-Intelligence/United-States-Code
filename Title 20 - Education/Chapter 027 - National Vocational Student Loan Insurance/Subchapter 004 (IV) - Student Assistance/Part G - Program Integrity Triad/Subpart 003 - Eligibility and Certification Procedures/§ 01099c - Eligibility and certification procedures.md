@@ -38,7 +38,7 @@ The Secretary shall prepare and prescribe a single application form which—
 
 &emsp;(D) such institution has met standards of financial responsibility, prescribed by the Secretary by regulation, that indicate a level of financial strength not less than those required in paragraph (2).
 
-(4) If an institution of higher education that provides a 2-year or 4-year program of instruction for which the institution awards an associate or baccalaureate degree fails to meet the ratio of current assets to current liabilities imposed by the Secretary pursuant to paragraph (2), the Secretary shall waive that particular requirement for that institution if the institution demonstrates to the satisfaction of the Secretary that—
+(4) If an institution of higher education that provides a 2-year or 4-year program of instruction for which the institution awards an associate or baccalaureate degree fails to meet the ratio of current assets to current liabilities imposed by the Secretary pursuant to paragraph\(2), the Secretary shall waive that particular requirement for that institution if the institution demonstrates to the satisfaction of the Secretary that—
 
 &emsp;(A) there is no reasonable doubt as to its continued solvency and ability to deliver quality educational services;
 
@@ -190,7 +190,7 @@ Subsec. (f). Pub. L. 103–208, §2(i)(10), inserted after second sentence “Th
 
 Subsec. (h)(1)(B)(iii). Pub. L. 103–208, §2(i)(11), amended cl. (iii) generally. Prior to amendment, cl. (iii) read as follows: “the Secretary determines that the institution is, in the judgment of the Secretary, in an administrative or financial condition that may jeopardize its ability to perform its responsibilities under its program participation agreement.”
 
-Subsec. (i)(1). Pub. L. 103–208, §2(i)(12), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “For the purpose of certifying the eligibility of an institution, an eligible institution of higher education that has a change in ownership resulting in a change in control shall not be considered to be the same institution (except as provided in paragraph (3)) and shall be considered a new institution for the purpose of establishing eligibility, except that such institution shall not be required (under section 1088(b)(5) or 1088(c)(3) of this title) to be in existence for 2 yearsprior to seeking such certification unless such institution was in existence as a branch for less than 2 years.”
+Subsec. (i)(1). Pub. L. 103–208, §2(i)(12), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “For the purpose of certifying the eligibility of an institution, an eligible institution of higher education that has a change in ownership resulting in a change in control shall not be considered to be the same institution (except as provided in paragraph (3)) and shall be considered a new institution for the purpose of establishing eligibility, except that such institution shall not be required (under section 1088(b)(5) or 1088(c)(3) of this title) to be in existence for 2 years prior to seeking such certification unless such institution was in existence as a branch for less than 2 years.”
 
 Subsec. (i)(3)(A). Pub. L. 103–208, §2(i)(13), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “the death of an owner of an institution, when the owner's interest is sold or transferred to either a family member or a current stockholder of the corporation; or”.
 

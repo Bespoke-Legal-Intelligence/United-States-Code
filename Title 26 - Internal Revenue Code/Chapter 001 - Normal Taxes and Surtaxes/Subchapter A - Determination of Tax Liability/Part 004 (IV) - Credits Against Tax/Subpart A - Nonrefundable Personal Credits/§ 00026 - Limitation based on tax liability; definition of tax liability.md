@@ -44,17 +44,21 @@ For purposes of this part—
 
 &emsp;&emsp;(L) section 860E(e) (relating to taxes with respect to certain residual interests),
 
-&emsp;&emsp;(M) section 884 (relating to branch profits tax), and
+&emsp;&emsp;(M) section 884 (relating to branch profits tax),
 
-&emsp;&emsp;(N) sections 453(<i>l</i>)(3) and 453A(c) (relating to interest on certain deferred tax liabilities).
+&emsp;&emsp;(N) sections 453(<i>l</i>)(3) and 453A(c) (relating to interest on certain deferred tax liabilities), and
+
+&emsp;&emsp;(O) section 860K (relating to treatment of transfers of high-yield interests to disqualified holders).
 
 #### (c) Tentative minimum tax
 
 For purposes of this part, the term “tentative minimum tax” means the amount determined under section 55(b)(1).
 
-(Added §25, renumbered §26, Pub. L. 98–369, div. A, title IV, §472, title VI, §612(a), July 18, 1984, 98 Stat. 827, 905; amended Pub. L. 99–499, title V, §516(b)(1)(A), Oct. 17, 1986, 100 Stat. 1770; Pub. L. 99–514, title II, §261(c), title VI, §632(c)(1), title VII, §701(c)(1), Oct. 22, 1986, 100 Stat. 2214, 2277, 2340; Pub. L. 100–647, title I, §§1006(t)(16)(C), 1007(g)(1), 1011A(c)(10), 1012(q)(8), title IV, §4005(g)(4), title V, §5012(b)(2), Nov. 10, 1988, 102 Stat. 3425, 3434, 3476, 3524, 3650, 3662; Pub. L. 101–239, title VII, §§7811(c)(1), (2), 7821(a)(4)(A), Dec. 19, 1989, 103 Stat. 2406, 2407, 2424.)
+(Added §25, renumbered §26, Pub. L. 98–369, div. A, title IV, §472, title VI, §612(a), July 18, 1984, 98 Stat. 827, 905; amended Pub. L. 99–499, title V, §516(b)(1)(A), Oct. 17, 1986, 100 Stat. 1770; Pub. L. 99–514, title II, §261(c), title VI, §632(c)(1), title VII, §701(c)(1), Oct. 22, 1986, 100 Stat. 2214, 2277, 2340; Pub. L. 100–647, title I, §§1006(t)(16)(C), 1007(g)(1), 1011A(c)(10), 1012(q)(8), title IV, §4005(g)(4), title V, §5012(b)(2), Nov. 10, 1988, 102 Stat. 3425, 3434, 3476, 3524, 3650, 3662; Pub. L. 101–239, title VII, §§7811(c)(1), (2), 7821(a)(4)(A), Dec. 19, 1989, 103 Stat. 2406, 2407, 2424; Pub. L. 104–188, title I, §1621(b)(1), Aug. 20, 1996, 110 Stat. 1866.)
 
 #### Amendments
+
+1996—Subsec. (b)(2)(O). Pub. L. 104–188 added subpar. (O).
 
 1989—Subsec. (b)(2)(C), (D). Pub. L. 101–239, §7811(c)(1), amended subpars. (C) and (D) generally. Prior to amendment, subpars. (C) and (D) read as follows:
 
@@ -106,6 +110,10 @@ Pub. L. 99–514, §701(c)(1)(B)(iv), added subpar. (J).
 
 Subsec. (c). Pub. L. 99–514, §701(c)(1)(C), amended subsec. (c) generally, substituting provisions relating to tentative minimum tax for provisions referring to section 55(c) of this title for similar rule for alternative minimum tax for taxpayers other than corporations.
 
+#### Effective Date of 1996 Amendment
+
+Section 1621(d) of Pub. L. 104–188 provided that: “The amendments made by this section \[enacting sections 860H to 860L of this title and amending this section and sections 56, 382, 582, 856, 860G, 1202, and 7701 of this title\] shall take effect on September 1, 1997.”
+
 #### Effective Date of 1989 Amendment
 
 Amendment by section 7811(c)(1), (2) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 7817 of Pub. L. 101–239, set out as a note under section 1 of this title.
@@ -148,5 +156,5 @@ Section 491(f)(5) of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, Oct.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 25, 39, 55, 163, 469, 901 of this title.
+This section is referred to in sections 23, 25, 39, 55, 163, 469, 901 of this title.
 

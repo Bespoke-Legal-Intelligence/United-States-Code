@@ -7,7 +7,7 @@
 | [7573\.](%C2%A7%2007573%20-%20Quarters%20temporary%3B%20transient%20members.md) | Quarters: temporary; transient members. |
 | \[7574, 7575. Repealed.\] |  |
 | [7576\.](%C2%A7%2007576%20-%20Quarters%20extension%20telephones.md) | Quarters: extension telephones. |
-| [7577\.](%C2%A7%2007577%20-%20Quarters%20Nurse%20Corps%20officers%3B%20assignment%20in%20hospitals.md) | Quarters: Nurse Corps Officers; assignment in hospitals. |
+| [7577\.](%C2%A7%2007577%20-%20Quarters%20Nurse%20Corps%20officers%3B%20assignment%20in%20hospitals.md) | Quarters: Nurse Corps officers; assignment in hospitals. |
 | \[7578. | Repealed.\] |
 | [7579\.](%C2%A7%2007579%20-%20Officers%E2%80%99%20messes%20and%20quarters%20limitations%20on%20employment%20of%20enlisted%20members.md) | Officers’ messes and quarters: limitations on employment of enlisted members. |
 | [7580\.](%C2%A7%2007580%20-%20Heat%20and%20light%20for%20Young%20Men%27s%20Christian%20Association%20buildings.md) | Heat and light for Young Men's Christian Association buildings. |
@@ -16,6 +16,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1996—Pub. L. 104–106, div. A, title XV, §1503(b)(5), Feb. 10, 1996, 110 Stat. 513, substituted “officers” for “Officers” in item 7577.
 
 1973—Pub. L. 93–166, title V, §509(d), Nov. 29, 1973, 87 Stat. 678, struck out items 7574 “Quarters: limitations on size” and 7575 “Quarters: exemptions from cost limitations”.
 

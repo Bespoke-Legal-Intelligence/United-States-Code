@@ -32,7 +32,7 @@ Section 2 of Pub. L. 95–450 provided that: “The Congress finds that it is in
 
 &emsp;“(1) to include the land within the Arapaho and the Roosevelt National Forests known as the Indian Peaks Area in the National Wilderness Preservation System so as to protect the area's enduring scenic and historic wilderness character and its unique wildlife and to preserve the area's scientific, educational, recreational, and inspirational resources and challenges; and
 
-&emsp;“(2) to create the Arapaho National Recreation Area within the Arapaho and the Roosevelt National Forests and the Colorado Big Thompson project so asto preserve and protect the natural, scenic, historic, pastoral, and wildlife resources of the area and to enhance the recreational opportunities provided.”
+&emsp;“(2) to create the Arapaho National Recreation Area within the Arapaho and the Roosevelt National Forests and the Colorado Big Thompson project so as to preserve and protect the natural, scenic, historic, pastoral, and wildlife resources of the area and to enhance the recreational opportunities provided.”
 
 #### Section Referred to in Other Sections
 

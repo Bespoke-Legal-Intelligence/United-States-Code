@@ -2,7 +2,7 @@
 
 (a) The exclusive rights in a mask work subject to protection under this chapter belong to the owner of the mask work.
 
-(b) The owner of the exclusive rights in a mask work may transfer all of those rights, or license all or less than all of those rights, by anywritten instrument signed by such owner or a duly authorized agent of the owner. Such rights may be transferred or licensed by operation of law, may be bequeathed by will, and may pass as personal property by the applicable laws of intestate succession.
+(b) The owner of the exclusive rights in a mask work may transfer all of those rights, or license all or less than all of those rights, by any written instrument signed by such owner or a duly authorized agent of the owner. Such rights may be transferred or licensed by operation of law, may be bequeathed by will, and may pass as personal property by the applicable laws of intestate succession.
 
 (c)(1) Any document pertaining to a mask work may be recorded in the Copyright Office if the document filed for recordation bears the actual signature of the person who executed it, or if it is accompanied by a sworn or official certification that it is a true copy of the original, signed document. The Register of Copyrights shall, upon receipt of the document and the fee specified pursuant to section 908(d), record the document and return it with a certificate of recordation. The recordation of any transfer or license under this paragraph gives all persons constructive notice of the facts stated in the recorded document concerning the transfer or license.
 

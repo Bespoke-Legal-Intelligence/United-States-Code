@@ -10,7 +10,7 @@
 
 No grant may be made under this section unless an application therefor has been submitted to and approved by the Commissioner. The Commissioner may not approve an application for a grant unless the application—
 
-&emsp;(1) contains assurances that the designated State unit will use funds provided by such grant in accordance with subsections (c) and (d) of this section; and
+&emsp;(1) contains assurances that the designated State unit will use funds provided by suchgrant in accordance with subsections (c) and (d) of this section; and
 
 &emsp;(2) contains such other information, and is submitted in such form and in accordance with such procedures, as the Commissioner may require.
 
@@ -44,7 +44,7 @@ If within 20 years after the completion of any construction project for which fu
 
 &emsp;(1) the owner of the facility ceases to be a public or nonprofit private agency or organization, or
 
-&emsp;(2) the facility ceases to be used for the purposes for which it was leased or constructed\(unless the Commissioner determines, in accordance with regulations, that there is good cause for releasing the applicant or other owner from the obligation to do so),
+&emsp;(2) the facility ceases to be used for the purposes for which it was leased or constructed (unless the Commissioner determines, in accordance with regulations, that there is good cause for releasing the applicant or other owner from the obligation to do so),
 
 > the United States shall be entitled to recover from the grant recipient or other owner of the facility an amount which bears the same ratio to the value of the facility (or so much thereof as constituted an approved project or projects) at the time the United States seeks recovery as the amount of such Federal funds bore to the cost of renovating the facility under subsection (c)(1)(A)(ii) of this section. Such value shall be determined by agreement of the parties or by action brought in the United States district court for the district in which such facility is situated.
 

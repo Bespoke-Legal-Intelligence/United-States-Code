@@ -10,7 +10,7 @@ There is established in the general fund of the Treasury a separate account whic
 
 &emsp;(4) The amount required to be refunded from the Diversion Control Fee Account for fiscal year 1994 and thereafter shall be refunded in accordance with estimates made in the budget request of the Attorney General for those fiscal years. Any proposed changes in the amounts designated in said budget requests shall only be made after notification to the Committees on Appropriations of the House of Representatives and the Senate fifteen days in advance.
 
-&emsp;(5) The Attorney General shall prepare and submit annually to the Congress, statements of financial condition of the account, including the beginning balance, receipts, refunds to appropriations, transfers to the general fund, and the ending balance.
+&emsp;(5) The Attorney General shall prepare and submit annually to the Congress, statements of financial condition of the account, including the beginning balance, receipts, refunds toappropriations, transfers to the general fund, and the ending balance.
 
 (Pub. L. 102–395, title I, §111(b), Oct. 6, 1992, 106 Stat. 1843.)
 

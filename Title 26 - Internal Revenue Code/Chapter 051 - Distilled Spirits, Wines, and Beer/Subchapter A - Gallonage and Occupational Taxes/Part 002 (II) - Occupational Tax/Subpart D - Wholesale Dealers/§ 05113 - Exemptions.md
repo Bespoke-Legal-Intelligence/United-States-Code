@@ -12,7 +12,7 @@ No liquor store engaged in the business of selling to persons other than dealers
 
 #### (1) Sales by creditors, fiduciaries, and officers of court
 
-&emsp;No person shall be deemed to be a dealer by reason of the sale of distilled spirits, wines, or beer which have been received by him as security for or in payment of a debt, or as an executor, administrator, or other fiduciary, or which have been levied on by any officer under order or process of any court or magistrate, if such distilled spirits, wines, or beer are sold by such person in one parcel only or at public auction in parcels of not less than 20 wine gallons.
+&emsp;No person shall be deemed to be a dealer by reason of the sale of distilled spirits, wines, orbeer which have been received by him as security for or in payment of a debt, or as an executor, administrator, or other fiduciary, or which have been levied on by any officer under order or process of any court or magistrate, if such distilled spirits, wines, or beer are sold by such person in one parcel only or at public auction in parcels of not less than 20 wine gallons.
 
 #### (2) Sales by retiring partners or representatives of deceased partners to incoming or remaining partners
 

@@ -2,7 +2,7 @@
 
 #### (a) Repayment; deductions
 
-(1) If a cooperating State agency, the Secretary, or a court of competent jurisdiction determines that any person has received any payment under this part to which the person was not entitled, including a payment referred to in subsection (b) of this section, such person shall be liable to repay such amount to the State agency or the Secretary, as the case may be, except that the State agency or the Secretary may waive such repayment if such agency or the Secretary determines, in accordance with guidelines prescribed by the Secretary, that—
+(1) If a cooperating State agency, the Secretary, or a court of competent jurisdiction determines that any person has received any payment under this part to which the person was not entitled, including a payment referred to insubsection (b) of this section, such person shall be liable to repay such amount to the State agency or the Secretary, as the case may be, except that the State agency or the Secretary may waive such repayment if such agency or the Secretary determines, in accordance with guidelines prescribed by the Secretary, that—
 
 &emsp;(A) the payment was made without fault on the part of such individual, and
 

@@ -9,14 +9,17 @@
 | [1074a.](%C2%A7%2001074a%20-%20Medical%20and%20dental%20care%20members%20on%20duty%20other%20than%20active%20duty%20for%20a%20period%20of%20more%20than%2030%20days.md) | Medical and dental care: members on duty other than active duty for a period of more than 30 days. |
 | [1074b.](%C2%A7%2001074b%20-%20Transitional%20medical%20and%20dental%20care%20members%20on%20active%20duty%20in%20support%20of%20contingency%20operations.md) | Transitional medical and dental care: members on active duty in support of contingency operations. |
 | [1074c.](%C2%A7%2001074c%20-%20Medical%20care%20authority%20to%20provide%20a%20wig.md) | Medical care: authority to provide a wig. |
-| [1074d.](%C2%A7%2001074d%20-%20Primary%20and%20preventive%20health%20care%20services%20for%20women.md) | Primary and preventive health care services for women. |
+| [1074d.](%C2%A7%2001074d%20-%20Certain%20primary%20and%20preventive%20health%20care%20services.md) | Certain primary and preventive health care services. |
 | [1075\.](%C2%A7%2001075%20-%20Officers%20and%20certain%20enlisted%20members%20subsistence%20charges.md) | Officers and certain enlisted members: subsistence charges. |
 | [1076\.](%C2%A7%2001076%20-%20Medical%20and%20dental%20care%20for%20dependents%20general%20rule.md) | Medical and dental care for dependents: general rule. |
 | [1076a.](%C2%A7%2001076a%20-%20Dependents%E2%80%99%20dental%20program.md) | Dependents’ dental program. |
+| [1076b.](%C2%A7%2001076b%20-%20Selected%20Reserve%20dental%20insurance.md) | Selected Reserve dental insurance. |
+| [1076c.](%C2%A7%2001076c%20-%20Dental%20insurance%20plan%20certain%20retirees%20and%20their%20surviving%20spouses%20and%20other%20dependents.md) | Dental insurance plan: certain retirees and their surviving spouses and other dependents. |
 | [1077\.](%C2%A7%2001077%20-%20Medical%20care%20for%20dependents%20authorized%20care%20in%20facilities%20of%20uniformed%20services.md) | Medical care for dependents: authorized care in facilities of uniformed services. |
 | [1078\.](%C2%A7%2001078%20-%20Medical%20and%20dental%20care%20for%20dependents%20charges.md) | Medical and dental care for dependents: charges. |
 | [1078a.](%C2%A7%2001078a%20-%20Continued%20health%20benefits%20coverage.md) | Continued health benefits coverage. |
 | [1079\.](%C2%A7%2001079%20-%20Contracts%20for%20medical%20care%20for%20spouses%20and%20children%20plans.md) | Contracts for medical care for spouses and children: plans. |
+| [1079a.](%C2%A7%2001079a%20-%20CHAMPUS%20treatment%20of%20refunds%20and%20other%20amounts%20collected.md) | CHAMPUS: treatment of refunds and other amounts collected. |
 | [1080\.](%C2%A7%2001080%20-%20Contracts%20for%20medical%20care%20for%20spouses%20and%20children%20election%20of%20facilities.md) | Contracts for medical care for spouses and children: election of facilities. |
 | [1081\.](%C2%A7%2001081%20-%20Contracts%20for%20medical%20care%20for%20spouses%20and%20children%20review%20and%20adjustment%20of%20payments.md) | Contracts for medical care for spouses and children: review and adjustment of payments. |
 | [1082\.](%C2%A7%2001082%20-%20Contracts%20for%20health%20care%20advisory%20committees.md) | Contracts for health care: advisory committees. |
@@ -31,7 +34,7 @@
 | [1090\.](%C2%A7%2001090%20-%20Identifying%20and%20treating%20drug%20and%20alcohol%20dependence.md) | Identifying and treating drug and alcohol dependence. |
 | [1091\.](%C2%A7%2001091%20-%20Personal%20services%20contracts.md) | Personal services contracts. |
 | [1092\.](%C2%A7%2001092%20-%20Studies%20and%20demonstration%20projects%20relating%20to%20delivery%20of%20health%20and%20medical%20care.md) | Studies and demonstration projects relating to delivery of health and medical care. |
-| [1093\.](%C2%A7%2001093%20-%20Restriction%20on%20use%20of%20funds%20for%20abortions.md) | Restriction on use of funds for abortions. |
+| [1093\.](%C2%A7%2001093%20-%20Performance%20of%20abortions%20restrictions.md) | Performance of abortions: restrictions. |
 | [1094\.](%C2%A7%2001094%20-%20Licensure%20requirement%20for%20health-care%20professionals.md) | Licensure requirement for health-care professionals. |
 | [1095\.](%C2%A7%2001095%20-%20Health%20care%20services%20incurred%20on%20behalf%20of%20covered%20beneficiaries%20collection%20from%20third-party%20payers.md) | Health care services incurred on behalf of covered beneficiaries: collection from third-party payers. |
 | [1095a.](%C2%A7%2001095a%20-%20Medical%20care%20members%20held%20as%20captives%20and%20their%20dependents.md) | Medical care: members held as captives and their dependents. |
@@ -39,7 +42,7 @@
 | [1097\.](%C2%A7%2001097%20-%20Contracts%20for%20medical%20care%20for%20retirees%2C%20dependents%2C%20and%20survivors%20alternative%20delivery%20of%20health%20care.md) | Contracts for medical care for retirees, dependents, and survivors: alternative delivery of health care. |
 | [1098\.](%C2%A7%2001098%20-%20Incentives%20for%20participation%20in%20cost-effective%20health%20care%20plans.md) | Incentives for participation in cost-effective health care plans. |
 | [1099\.](%C2%A7%2001099%20-%20Health%20care%20enrollment%20system.md) | Health care enrollment system. |
-| [1100\.](%C2%A7%2001100%20-%20Military%20Health%20Care%20Account.md) | Military Health Care Account. |
+| [1100\.](%C2%A7%2001100%20-%20Defense%20Health%20Program%20Account.md) | Defense Health Program Account. |
 | [1101\.](%C2%A7%2001101%20-%20Resource%20allocation%20methods%20capitation%20or%20diagnosis-related%20groups.md) | Resource allocation methods: capitation or diagnosis-related groups. |
 | [1102\.](%C2%A7%2001102%20-%20Confidentiality%20of%20medical%20quality%20assurance%20records%20qualified%20immunity%20for%20participants.md) | Confidentiality of medical quality assurance records: qualified immunity for participants. |
 | [1103\.](%C2%A7%2001103%20-%20Contracts%20for%20medical%20and%20dental%20care%20State%20and%20local%20preemption.md) | Contracts for medical and dental care: State and local preemption. |
@@ -50,6 +53,10 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1996—Pub. L. 104–201, div. A, title VII, §§701(a)(2)(B), 703(a)(2), 733(a)(2), Sept. 23, 1996, 110 Stat. 2587, 2590, 2598, substituted “Certain primary and preventive health care services” for “Primary and preventive health care services for women” in item 1074d and added items 1076c and 1079a.
+
+Pub. L. 104–106, div. A, title VII, §§705(a)(2), 735(d)(2), 738(b)(2), Feb. 10, 1996, 110 Stat. 373, 383, added item 1076b and substituted “Performance of abortions: restrictions” for “Restriction on use of funds for abortions” in item 1093 and “Defense Health Program Account” for “Military Health Care Account” in item 1100.
 
 1993—Pub. L. 103–160, div. A, title VII, §§701(a)(2), 712(a)(2), 714(b)(2), 716(a)(2), Nov. 30, 1993, 107 Stat. 1686, 1689, 1690, 1692, added item 1074d, substituted “Personal services contracts” for “Contracts for direct health care providers” in item 1091 and “Resource allocation methods: capitation or diagnosis-related groups” for “Diagnosis-related groups” in item 1101, added item 1105, and struck out former item 1105 “Issuance of nonavailability of health care statements”.
 
@@ -97,9 +104,7 @@ Third party tort liability to United States for hospital and medical care, see s
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in section 1490 of this title; title 14 sections 668, 705; title 38 sections 1713, 7423, 8111; title 42 sections 248c, 248d.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+This chapter is referred to in sections 129c, 1490 of this title; title 14 sections 668, 705; title 38 sections 1713, 7423, 8111; title 42 sections 248c, 248d.
 
 
 ---
@@ -113,14 +118,17 @@ This chapter is referred to in section 1490 of this title; title 14 sections 668
 - [&sect; 01074a - Medical and dental care members on duty other than active duty for a period of more than 30 days](%C2%A7%2001074a%20-%20Medical%20and%20dental%20care%20members%20on%20duty%20other%20than%20active%20duty%20for%20a%20period%20of%20more%20than%2030%20days.md)
 - [&sect; 01074b - Transitional medical and dental care members on active duty in support of contingency operations](%C2%A7%2001074b%20-%20Transitional%20medical%20and%20dental%20care%20members%20on%20active%20duty%20in%20support%20of%20contingency%20operations.md)
 - [&sect; 01074c - Medical care authority to provide a wig](%C2%A7%2001074c%20-%20Medical%20care%20authority%20to%20provide%20a%20wig.md)
-- [&sect; 01074d - Primary and preventive health care services for women](%C2%A7%2001074d%20-%20Primary%20and%20preventive%20health%20care%20services%20for%20women.md)
+- [&sect; 01074d - Certain primary and preventive health care services](%C2%A7%2001074d%20-%20Certain%20primary%20and%20preventive%20health%20care%20services.md)
 - [&sect; 01075 - Officers and certain enlisted members subsistence charges](%C2%A7%2001075%20-%20Officers%20and%20certain%20enlisted%20members%20subsistence%20charges.md)
 - [&sect; 01076 - Medical and dental care for dependents general rule](%C2%A7%2001076%20-%20Medical%20and%20dental%20care%20for%20dependents%20general%20rule.md)
 - [&sect; 01076a - Dependents&#8217; dental program](%C2%A7%2001076a%20-%20Dependents%E2%80%99%20dental%20program.md)
+- [&sect; 01076b - Selected Reserve dental insurance](%C2%A7%2001076b%20-%20Selected%20Reserve%20dental%20insurance.md)
+- [&sect; 01076c - Dental insurance plan certain retirees and their surviving spouses and other dependents](%C2%A7%2001076c%20-%20Dental%20insurance%20plan%20certain%20retirees%20and%20their%20surviving%20spouses%20and%20other%20dependents.md)
 - [&sect; 01077 - Medical care for dependents authorized care in facilities of uniformed services](%C2%A7%2001077%20-%20Medical%20care%20for%20dependents%20authorized%20care%20in%20facilities%20of%20uniformed%20services.md)
 - [&sect; 01078 - Medical and dental care for dependents charges](%C2%A7%2001078%20-%20Medical%20and%20dental%20care%20for%20dependents%20charges.md)
 - [&sect; 01078a - Continued health benefits coverage](%C2%A7%2001078a%20-%20Continued%20health%20benefits%20coverage.md)
 - [&sect; 01079 - Contracts for medical care for spouses and children plans](%C2%A7%2001079%20-%20Contracts%20for%20medical%20care%20for%20spouses%20and%20children%20plans.md)
+- [&sect; 01079a - CHAMPUS treatment of refunds and other amounts collected](%C2%A7%2001079a%20-%20CHAMPUS%20treatment%20of%20refunds%20and%20other%20amounts%20collected.md)
 - [&sect; 01080 - Contracts for medical care for spouses and children election of facilities](%C2%A7%2001080%20-%20Contracts%20for%20medical%20care%20for%20spouses%20and%20children%20election%20of%20facilities.md)
 - [&sect; 01081 - Contracts for medical care for spouses and children review and adjustment of payments](%C2%A7%2001081%20-%20Contracts%20for%20medical%20care%20for%20spouses%20and%20children%20review%20and%20adjustment%20of%20payments.md)
 - [&sect; 01082 - Contracts for health care advisory committees](%C2%A7%2001082%20-%20Contracts%20for%20health%20care%20advisory%20committees.md)
@@ -135,7 +143,7 @@ This chapter is referred to in section 1490 of this title; title 14 sections 668
 - [&sect; 01090 - Identifying and treating drug and alcohol dependence](%C2%A7%2001090%20-%20Identifying%20and%20treating%20drug%20and%20alcohol%20dependence.md)
 - [&sect; 01091 - Personal services contracts](%C2%A7%2001091%20-%20Personal%20services%20contracts.md)
 - [&sect; 01092 - Studies and demonstration projects relating to delivery of health and medical care](%C2%A7%2001092%20-%20Studies%20and%20demonstration%20projects%20relating%20to%20delivery%20of%20health%20and%20medical%20care.md)
-- [&sect; 01093 - Restriction on use of funds for abortions](%C2%A7%2001093%20-%20Restriction%20on%20use%20of%20funds%20for%20abortions.md)
+- [&sect; 01093 - Performance of abortions restrictions](%C2%A7%2001093%20-%20Performance%20of%20abortions%20restrictions.md)
 - [&sect; 01094 - Licensure requirement for health-care professionals](%C2%A7%2001094%20-%20Licensure%20requirement%20for%20health-care%20professionals.md)
 - [&sect; 01095 - Health care services incurred on behalf of covered beneficiaries collection from third-party payers](%C2%A7%2001095%20-%20Health%20care%20services%20incurred%20on%20behalf%20of%20covered%20beneficiaries%20collection%20from%20third-party%20payers.md)
 - [&sect; 01095a - Medical care members held as captives and their dependents](%C2%A7%2001095a%20-%20Medical%20care%20members%20held%20as%20captives%20and%20their%20dependents.md)
@@ -143,7 +151,7 @@ This chapter is referred to in section 1490 of this title; title 14 sections 668
 - [&sect; 01097 - Contracts for medical care for retirees, dependents, and survivors alternative delivery of health care](%C2%A7%2001097%20-%20Contracts%20for%20medical%20care%20for%20retirees%2C%20dependents%2C%20and%20survivors%20alternative%20delivery%20of%20health%20care.md)
 - [&sect; 01098 - Incentives for participation in cost-effective health care plans](%C2%A7%2001098%20-%20Incentives%20for%20participation%20in%20cost-effective%20health%20care%20plans.md)
 - [&sect; 01099 - Health care enrollment system](%C2%A7%2001099%20-%20Health%20care%20enrollment%20system.md)
-- [&sect; 01100 - Military Health Care Account](%C2%A7%2001100%20-%20Military%20Health%20Care%20Account.md)
+- [&sect; 01100 - Defense Health Program Account](%C2%A7%2001100%20-%20Defense%20Health%20Program%20Account.md)
 - [&sect; 01101 - Resource allocation methods capitation or diagnosis-related groups](%C2%A7%2001101%20-%20Resource%20allocation%20methods%20capitation%20or%20diagnosis-related%20groups.md)
 - [&sect; 01102 - Confidentiality of medical quality assurance records qualified immunity for participants](%C2%A7%2001102%20-%20Confidentiality%20of%20medical%20quality%20assurance%20records%20qualified%20immunity%20for%20participants.md)
 - [&sect; 01103 - Contracts for medical and dental care State and local preemption](%C2%A7%2001103%20-%20Contracts%20for%20medical%20and%20dental%20care%20State%20and%20local%20preemption.md)

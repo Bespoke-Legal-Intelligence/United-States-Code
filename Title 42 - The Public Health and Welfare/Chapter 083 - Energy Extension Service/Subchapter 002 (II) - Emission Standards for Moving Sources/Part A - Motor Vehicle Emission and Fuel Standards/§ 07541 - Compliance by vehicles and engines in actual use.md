@@ -28,7 +28,7 @@ If the Administrator determines that (i) there are available testing methods and
 
 Effective with respect to vehicles and engines manufactured during model years beginning more than 60 days after December 31, 1970—
 
-&emsp;(1) If the Administrator determines that a substantial number of any class or category of vehicles or engines, although properly maintained and used, do not conform to the regulations prescribed under section 7521 of this title, when in actual use throughout their useful life (as determined under section 7521(d) ofthis title), he shall immediately notify the manufacturer thereof of such nonconformity, and he shall require the manufacturer to submit a plan for remedying the nonconformity of the vehicles or engines with respect to which such notification is given. The plan shall provide that the nonconformity of any such vehicles or engines which are properly used and maintained will be remedied at the expense of the manufacturer. If the manufacturer disagrees with such determination of nonconformity and so advises the Administrator, the Administrator shall afford the manufacturer and other interested persons an opportunity to present their views and evidence in support thereof at a public hearing. Unless, as a result of such hearing the Administrator withdraws such determination of nonconformity, he shall, within 60 days after the completion of such hearing, order the manufacturer to provide prompt notification of such nonconformity in accordance with paragraph (2).
+&emsp;(1) If the Administrator determines that a substantial number of any class or category of vehicles or engines, although properly maintained and used, do not conform to the regulations prescribed under section 7521 of this title, when in actual use throughout their useful life (as determined under section 7521(d) of this title), he shall immediately notify the manufacturer thereof of such nonconformity, and he shall require the manufacturer to submit a plan for remedying the nonconformity of the vehicles or engines with respect to which such notification is given. The plan shall provide that the nonconformity of any such vehicles or engines which are properly used and maintained will be remedied at the expense of the manufacturer. If the manufacturer disagrees with such determination of nonconformity and so advises the Administrator, the Administrator shall afford the manufacturer and other interested persons an opportunity to present their views and evidence in support thereof at a public hearing. Unless, as a result of such hearing the Administrator withdraws such determination of nonconformity, he shall, within 60 days after the completion of such hearing, order the manufacturer to provide prompt notification of such nonconformity in accordance with paragraph (2).
 
 &emsp;(2) Any notification required by paragraph (1) with respect to any class or category of vehicles or engines shall be given to dealers, ultimate purchasers, and subsequent purchasers (if known) in such manner and containing such information as the Administrator may by regulations require.
 
@@ -88,7 +88,7 @@ LDT's (3,751–5,750 LVW)
 
 &emsp;&emsp;(B)
 
-Model years 1996 and thereafter.—(i) In the model years 1996 and 1997, light-duty trucks (LDTs) up to 6,000 lbs. gross vehicle weight rating (GVWR) and light-duty vehicles which are not subject to final in-use standards under paragraph (5) (60 percent of the manufacturer's sales volume in model year 1996 and 20 percent in model year 1997) shall be subject to the standards set forth in table A of subparagraph (A) for NMHC, CO, and NO<sub>x</sub> for purposes of this subsection in lieu of those set forth in paragraph (5).
+Model years 1996 and thereafter.—(i) In the model years 1996 and 1997, light-dutytrucks (LDTs) up to 6,000 lbs. gross vehicle weight rating (GVWR) and light-duty vehicles which are not subject to final in-use standards under paragraph (5) (60 percent of the manufacturer's sales volume in model year 1996 and 20 percent in model year 1997) shall be subject to the standards set forth in table A of subparagraph (A) for NMHC, CO, and NO<sub>x</sub> for purposes of this subsection in lieu of those set forth in paragraph (5).
 
 &emsp;&emsp;(ii) For LDTs of more than 6,000 lbs. GVWR—
 
@@ -112,13 +112,7 @@ CO
 
 NO<sub>x</sub>
 
-LDTs (3,751–5,750 lbs. TW)
-
-0\.40
-
-5\.5
-
-0\.88\*
+LDTs (3,751–5,750 lbs. TW)D0.40D5.5D0.88\*
 
 LDTs (over 5,750 lbs. TW)
 
@@ -132,7 +126,7 @@ LDTs (over 5,750 lbs. TW)
 
 &emsp;&emsp;(C)
 
-Useful life.—In the case of the in-use standards applicable under this paragraph,for purposes of applying this subsection, the applicable useful life shall be 5 years or 50,000 miles or the equivalent (whichever first occurs).
+Useful life.—In the case of the in-use standards applicable under this paragraph, for purposes of applying this subsection, the applicable useful life shall be 5 years or 50,000 miles or the equivalent (whichever first occurs).
 
 &emsp;(5)
 
@@ -168,9 +162,7 @@ Model year
 
 Percent
 
-1998
-
-&nbsp;50
+1998D 50
 
 1999
 
@@ -196,7 +188,7 @@ Any inspection of a motor vehicle or a motor vehicle engine for purposes of subs
 
 #### (g) Replacement and maintenance costs borne by owner
 
-For the purposes of this section, the owner of any motor vehicle or motor vehicle engine warranted under this section is responsible in the proper maintenance of such vehicle or engine to replace and to maintain, at his expense at any service establishment or facility of his choosing, such items as spark plugs, points, condensers, and any other part, item, or device related to emission control (but not designed for emission control under the terms of the last sentence of subsection (a)(3) of this section)),<sup>3</sup> unless suchpart, item, or device is covered by any warranty not mandated by this chapter.
+For the purposes of this section, the owner of any motor vehicle or motor vehicle engine warranted under this section is responsible in the proper maintenance of such vehicle or engine to replace and to maintain, at his expense at any service establishment or facility of his choosing, such items as spark plugs, points, condensers, and any other part, item, or device related to emission control (but not designed for emission control under the terms of the last sentence of subsection (a)(3) of this section)),<sup>3</sup> unless such part, item, or device is covered by any warranty not mandated by this chapter.
 
 #### (h) Dealer certification
 
@@ -252,7 +244,7 @@ Subsec. (i). Pub. L. 101–549, §209(3), added subsec. (i).
 
 Pub. L. 95–95, §205, added cl. (3).
 
-Subsec. (b). Pub. L. 95–95, §209(a), (c), inserted provisions to par. (2) that no warranty be held invalid on the basis of any part used in the maintenance or repair ofa vehicle or engine if the part was certified as provided in subsec. (a)(2) of this section, and, following par. (2), inserted provisions defining “emission control device or system”.
+Subsec. (b). Pub. L. 95–95, §209(a), (c), inserted provisions to par. (2) that no warranty be held invalid on the basis of any part used in the maintenance or repair of a vehicle or engine if the part was certified as provided in subsec. (a)(2) of this section, and, following par. (2), inserted provisions defining “emission control device or system”.
 
 Subsec. (c)(3). Pub. L. 95–95, §208, designated existing provisions as subpars. (A) and (C), added requirement for the bold face printing of a required notice on the first page of the written maintenance instructions in subpar. (A), and added subpar. (B).
 

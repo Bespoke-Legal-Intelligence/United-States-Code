@@ -10,7 +10,7 @@
 
 &emsp;(4) The term “full life-cycle cost”, with respect to a major defense acquisition program, means all costs of development, procurement, military construction, and operations and support, without regard to funding source or management control.
 
-(b)(1) The Secretary of Defense shall submit to Congress at the end of each fiscal-year quarter a report on current major defense acquisition programs. Except as provided in paragraphs (2) and\(3), each such report shall include a status report on each defense acquisition program that at the end of such quarter is a major defense acquisition program. Reports under this section shall be known as Selected Acquisition Reports.
+(b)(1) The Secretary of Defense shall submit to Congress at the end of each fiscal-year quarter a report on current major defense acquisition programs. Except as provided in paragraphs (2) and (3), each such report shall include a status report on each defense acquisition program that at the end of such quarter is a major defense acquisition program. Reports under this section shall be known as Selected Acquisition Reports.
 
 (2) A status report on a major defense acquisition program need not be included in the Selected Acquisition Report for the second, third, or fourth quarter of a fiscal year if such a report was included in a previous Selected Acquisition Report for that fiscal year and during the period since that report there has been—
 
@@ -26,17 +26,19 @@
 
 &emsp;(iii) the system configuration for such program is not well defined.
 
-(B) The Secretary shall submit to the Committees on Armed Services of the Senate and House of Representatives a written notification of each waiver under subparagraph (A) for a program for a fiscal year not later than 60 days before the President submits the budget to Congress pursuant to section 1105 of title 31 in that fiscal year.
+(B) The Secretary shall submit to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives a written notification of each waiver under subparagraph (A) for a program for a fiscal year not later than 60 days before the President submits the budget to Congress pursuant to section 1105 of title 31 in that fiscal year.
 
 (c)(1) Each Selected Acquisition Report for the first quarter for a fiscal year shall include—
 
 &emsp;(A) the same information, in detailed and summarized form, as is provided in reports submitted under section 2431 of this title;
 
-&emsp;(B) the current program acquisition unit cost for each major defense acquisition program included in the report and the history of that cost from the date the program was first included in a Selected Acquisition Report to the end of the quarter for which the current report is submitted; and
+&emsp;(B) the current program acquisition unit cost for each major defense acquisition program included in the report and the history of that cost from the date the program was first included in a Selected Acquisition Report to the end of the quarter for which the current report is submitted;
 
-&emsp;(C) such other information as the Secretary of Defense considers appropriate.
+&emsp;(C) the current procurement unit cost for each major defense acquisition program included in the report and the history of that cost from the date the program was first included in a Selected Acquisition Report to the end of the quarter for which the current report is submitted; and
 
-(2) Each Selected Acquisition Report for the first quarter of a fiscal year shall be designed to provide to the Committees on Armed Services of the Senate and House of Representatives the information such Committees need to perform their oversight functions. Whenever the Secretary of Defense proposes to make changes in the content of a Selected Acquisition Report, the Secretary shall submit a notice of the proposed changes to such committees. The changes shall be considered approved by the Secretary, and may be incorporated into the report, only after the end of the 60-day period beginning on the date on which the notice is received by those committees.
+&emsp;(D) such other information as the Secretary of Defense considers appropriate.
+
+(2) Each Selected Acquisition Report for the first quarter of a fiscal year shall be designed to provide to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives the information such Committees need to perform their oversight functions. Whenever the Secretary of Defense proposes to make changes in the content of a Selected Acquisition Report, the Secretary shall submit a notice of the proposed changes to such committees. The changes shall be considered approved by the Secretary, and may be incorporated into the report, only after the end of the 60-day period beginning on the date on which the notice is received by those committees.
 
 (3) In addition to the material required by paragraphs (1) and (2), each Selected Acquisition Report for the first quarter of a fiscal year shall include the following:
 
@@ -70,15 +72,13 @@
 
 &emsp;(7) The major contracts under the program and the reasons for any cost or schedule variances under those contracts since the last Selected Acquisition Report.
 
-&emsp;(8) The completion status of the program (A) expressed as the percentage that the number of years for which funds have been appropriated for the program is of the number of years for which it is planned that funds will be appropriated for the program, and (B) expressed as the percentage that the amount of funds that have been appropriated for the program is of the total amount of funds which it is planned will be appropriated for the program.
-
-&emsp;(9) Program highlights since the last Selected Acquisition Report.
+&emsp;(8) Program highlights since the last Selected Acquisition Report.
 
 (f) Each comprehensive annual Selected Acquisition Report shall be submitted within 60 days after the date on which the President transmits the Budget to Congress for the following fiscal year, and each Quarterly Selected Acquisition Report shall be submitted within 45 days after the end of the fiscal-year quarter.
 
 (g) The requirements of this section with respect to a major defense acquisition program shall cease to apply after 90 percent of the items to be delivered to the United States under the program (shown as the total quantity of items to be purchased under the program in the most recent Selected Acquisition Report) have been delivered or 90 percent of planned expenditures under the program have been made.
 
-(h)(1) Total program reporting under this section shall apply to a major defense acquisition program when funds have been appropriated for such and the Secretary of Defense has decided to proceed to engineering and manufacturing development of such program. Reporting may be limited to the development program as provided in paragraph (2) before a decision is made by the Secretary of Defense to proceed to engineering and manufacturing development if the Secretary notifies the Committees on Armed Services of the Senate and House of Representatives of the intention to submit a limited report under this subsection not less than 15 days before a report is due under this section.
+(h)(1) Total program reporting under this section shall apply to a major defense acquisition program when funds have been appropriated for such and the Secretary of Defense has decided to proceed to engineering and manufacturing development of such program. Reporting may be limited to the development program as provided in paragraph (2) before a decision is made by the Secretary of Defense to proceed to engineering and manufacturing development if the Secretary notifies the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives of the intention to submit a limited report under this subsection not less than 15 days before a report is due under this section.
 
 (2) A limited report under this subsection shall include the following:
 
@@ -100,13 +100,23 @@
 
 (3) The submission requirements for a limited report under this subsection shall be the same as for quarterly Selected Acquisition Reports for total program reporting.
 
-(Added Pub. L. 97–252, title XI, §1107(a)(1), Sept. 8, 1982, 96 Stat. 739, §139a; amended Pub. L. 98–525, title XII, §1242(a), Oct. 19, 1984, 98 Stat. 2606; Pub. L. 99–145, title XII, §1201, Nov. 8, 1985, 99 Stat. 715; renumbered §2432 and amended Pub. L. 99–433, title I, §§101(a)(5), 110(d)(13), (g)(7), Oct. 1, 1986, 100 Stat. 995, 1003, 1004; Pub. L. 99–500, §101(c) \[title X, §961(a)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–175, and Pub. L. 99–591, §101(c) \[title X, §961(a)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–175; Pub. L. 99–661, div. A, title IX, formerly title IV, §961(a), Nov. 14, 1986, 100 Stat. 3955, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–26, §7(b)(3), (k)(2), Apr. 21, 1987, 101 Stat. 279, 284; Pub. L. 100–180, div. A, title XII, §1233(a)(1), title XIII, §1314(a)(1), Dec. 4, 1987, 101 Stat. 1161, 1175; Pub. L. 101–189, div. A, title VIII, §811(c), Nov. 29, 1989, 103 Stat. 1493; Pub. L. 101–510, div. A, title XIV, §§1407(a)–(c), 1484(f)(4), Nov. 5, 1990, 104 Stat. 1681, 1717; Pub. L. 102–25, title VII, §701(f)(3), Apr. 6, 1991, 105 Stat. 115; Pub. L. 102–190, div. A, title VIII, §801(b)(2), title X, §1061(a)(14), Dec. 5, 1991, 105 Stat. 1412, 1473; Pub. L. 102–484, div. A, title VIII, §817(c), Oct. 23, 1992, 106 Stat. 2455; Pub. L. 103–355, title III, §3002(a)(1), (b)–(h), Oct. 13, 1994, 108 Stat. 3328, 3329.)
+(Added Pub. L. 97–252, title XI, §1107(a)(1), Sept. 8, 1982, 96 Stat. 739, §139a; amended Pub. L. 98–525, title XII, §1242(a), Oct. 19, 1984, 98 Stat. 2606; Pub. L. 99–145, title XII, §1201, Nov. 8, 1985, 99 Stat. 715; renumbered §2432 and amended Pub. L. 99–433, title I, §§101(a)(5), 110(d)(13), (g)(7), Oct. 1, 1986, 100 Stat. 995, 1003, 1004; Pub. L. 99–500, §101(c) \[title X, §961(a)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–175, and Pub. L. 99–591, §101(c) \[title X, §961(a)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–175; Pub. L. 99–661, div. A, title IX, formerly title IV, §961(a), Nov. 14, 1986, 100 Stat. 3955, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–26, §7(b)(3), (k)(2), Apr. 21, 1987, 101 Stat. 279, 284; Pub. L. 100–180,div. A, title XII, §1233(a)(1), title XIII, §1314(a)(1), Dec. 4, 1987, 101 Stat. 1161, 1175; Pub. L. 101–189, div. A, title VIII, §811(c), Nov. 29, 1989, 103 Stat. 1493; Pub. L. 101–510, div. A, title XIV, §§1407(a)–(c), 1484(f)(4), Nov. 5, 1990, 104 Stat. 1681, 1717; Pub. L. 102–25, title VII, §701(f)(3), Apr. 6, 1991, 105 Stat. 115; Pub. L. 102–190, div. A, title VIII, §801(b)(2), title X, §1061(a)(14), Dec. 5, 1991, 105 Stat. 1412, 1473; Pub. L. 102–484, div. A, title VIII, §817(c), Oct. 23, 1992, 106 Stat. 2455; Pub. L. 103–355, title III, §3002(a)(1), (b)–(h), Oct. 13, 1994, 108 Stat. 3328, 3329; Pub. L. 104–106, div. A, title XV, §1502(a)(1), Feb. 10, 1996, 110 Stat. 502; Pub. L. 104–201, div. A, title VIII, §806, Sept. 23, 1996, 110 Stat. 2606.)
 
 #### Codification
 
 Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
+
+1996—Subsec. (b)(3)(B). Pub. L. 104–106 substituted “Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives” for “Committees on Armed Services of the Senate and House of Representatives”.
+
+Subsec. (c)(1). Pub. L. 104–201, §806(1), struck out “and” at end of subpar. (B), added subpar. (C), and redesignated former subpar. (C) as (D).
+
+Subsec. (c)(2). Pub. L. 104–106 substituted “Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives” for “Committees on Armed Services of the Senate and House of Representatives”.
+
+Subsec. (e)(8), (9). Pub. L. 104–201, §806(2), redesignated par. (9) as (8) and struck out former par. (8) which read as follows: “The completion status of the program (A) expressed as the percentage that the number of years for which funds have been appropriated for the program is of the number of years for which it is planned that funds will be appropriated for the program, and (B) expressed as the percentage that the amount of funds that have been appropriated for the program is of the total amount of funds which it is planned will be appropriated for the program.”
+
+Subsec. (h)(1). Pub. L. 104–106 substituted “Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives” for “Committees on Armed Services of the Senate and House of Representatives”.
 
 1994—Subsec. (a)(2). Pub. L. 103–355, §3002(a)(1), struck out “for a fiscal year, reduced by the amount of funds programmed to be available for obligation for such fiscal year for advanced procurement for such program in any subsequent year and increased by any amount appropriated in years before such fiscal year for advanced procurement for such program in such fiscal year” after “procurement for the program” in cl. (A), “with such funds during such fiscal year” after “procured” in cl. (B), and last sentence which read as follows: “If for any fiscal year the funds appropriated, or the number of fully-configured end items to be purchased, differ from those programmed, the procurement unit cost shall be revised to reflect the appropriated amounts and quantities.”
 
@@ -198,10 +208,6 @@ Subsec. (f). Pub. L. 98–525, §1242(a)(4), substituted: “60” for “30”,
 
 Subsec. (g). Pub. L. 98–525, §1242(a)(5), added subsec. (g).
 
-#### Change of Name
-
-Committee on Armed Services of House of Representatives treated as referring to Committee on NationalSecurity of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
-
 #### Effective Date of 1990 Amendment
 
 Section 1407(d) of Pub. L. 101–510, as amended by Pub. L. 102–25, title VII, §704(a)(8), Apr. 6, 1991, 105 Stat. 119, provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect with respect to Selected Acquisition Reports submitted under section 2432 of title 10, United States Code, after December 31, 1991.”
@@ -226,7 +232,7 @@ Section 127 of Pub. L. 100–180, as amended by Pub. L. 102–484, div. A, title
 
 “(a)
 
-SAR Coverage for ATB, ACM, and ATA Programs.—The Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives \[now Committee on Armed Services of the Senate and Committee on National Security of the House of Representatives\], in accordance with the provisions of subsection (b) of section 2432 of title 10, United States Code, a Selected Acquisition Report with respect to each program referred to in subsection (b), notwithstanding that such a report would not otherwise be required under section 2432 of title 10, United States Code.
+SAR Coverage for ATB, ACM, and ATA Programs.—The Secretary of Defense shall submit to theCommittees on Armed Services of the Senate and House of Representatives \[now Committee on Armed Services of the Senate and Committee on National Security of the House of Representatives\], in accordance with the provisions of subsection (b) of section 2432 of title 10, United States Code, a Selected Acquisition Report with respect to each program referred to in subsection (b), notwithstanding that such a report would not otherwise be required under section 2432 of title 10, United States Code.
 
 “(b)
 
@@ -238,7 +244,7 @@ Selected Acquisition Report Defined.—As used in subsection (a), the term ‘Se
 
 #### Sense of Congress on Preparation of Certain Economic Impact and Employment Information Concerning New Acquisition Programs
 
-Section 825 of Pub. L. 100–180 provided that: “It is the sense of Congress that the Secretary of Defense should not, before an acquisition program is approved to proceed into full-scale development, prepare any material, report, list, or analysis with respect to economic benefits or the employment impact of that program in a particular State or congressional district.”
+Section 825 of Pub. L. 100–180 related to the sense of Congress on preparation of certain economic impact and employment information concerning new acquisition programs, prior to repeal by Pub. L. 104–106, div. D, title XLIII, §4321(i)(4), Feb. 10, 1996, 110 Stat. 676.
 
 #### Duration of Assignment of Program Managers for Major Programs
 

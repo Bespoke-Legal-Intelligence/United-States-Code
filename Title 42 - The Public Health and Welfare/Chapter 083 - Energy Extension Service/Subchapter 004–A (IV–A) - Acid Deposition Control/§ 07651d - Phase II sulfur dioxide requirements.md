@@ -6,7 +6,7 @@
 
 (2) In addition to basic Phase II allowance allocations, in each year beginning in calendar year 2000 and ending in calendar year 2009, inclusive, the Administrator shall allocate up to 530,000 Phase II bonus allowances pursuant to subsections (b)(2), (c)(4), (d)(3)(A) and (B), and (h)(2) of this section and section 7651e of this title. Not later than June 1, 1998, the Administrator shall calculate, for each unit granted an extension pursuant to section 7651h of this title the difference between (A) the number of allowances allocated for the unit in calendar year 2000, and (B) the product of the unit's baseline multiplied by 1.20 lbs/mmBtu, divided by 2000, and sum the computations. In each year, beginning in calendar year 2000 and ending in calendar year 2009, inclusive, the Administrator shall deduct from each unit's basic Phase II allowance allocation its pro rata share of 10 percent of the sum calculated pursuant to the preceding sentence.
 
-(3) In addition to basic Phase II allowance allocations and Phase II bonus allowance allocations, beginning January 1, 2000, the Administrator shall allocate for each unit listed onTable A in section 7651c of this title (other than units at Kyger Creek, Clifty Creek, and Joppa Steam) and located in the States of Illinois, Indiana, Ohio, Georgia, Alabama, Missouri, Pennsylvania, West Virginia, Kentucky, or Tennessee allowances in an amount equal to 50,000 multiplied by the unit's pro rata share of the total number of basic allowances allocated for all units listed on Table A (other than units at Kyger Creek, Clifty Creek, and Joppa Steam). Allowances allocated pursuant to this paragraph shall not be subject to the 8,900,000 ton limitation in section 7651b(a) of this title.
+(3) In addition to basic Phase II allowance allocations and Phase II bonus allowance allocations, beginning January 1, 2000, the Administrator shall allocate for each unit listed on Table A in section 7651c of this title (other than units at Kyger Creek, Clifty Creek, and Joppa Steam) and located in the States of Illinois, Indiana, Ohio, Georgia, Alabama, Missouri, Pennsylvania, West Virginia, Kentucky, or Tennessee allowances in an amount equal to 50,000 multiplied by the unit's pro rata share of the total number of basic allowances allocated for all units listed on Table A (other than units at Kyger Creek, Clifty Creek, and Joppa Steam). Allowances allocated pursuant to this paragraph shall not be subject to the 8,900,000 ton limitation in section 7651b(a) of this title.
 
 #### (b) Units equal to, or above, 75 MWe and 1.20 lbs/mmBtu
 
@@ -22,9 +22,9 @@
 
 (1) Except as otherwise provided in paragraph (3), after January 1, 2000, it shall be unlawful for a coal or oil-fired existing utility unit that serves a generator with nameplate capacity of less than 75 MWe and an actual 1985 emission rate equal to, or greater than, 1.20 lbs/mmBtu and which is a unit owned by a utility operating company whose aggregate nameplate fossil fuel steam-electric capacity is, as of December 31, 1989, equal to, or greater than, 250 MWe to exceed an annual sulfur dioxide emissions limitation equal to the product of the unit's baseline multiplied by an emission rate equal to 1.20 lbs/mmBtu, divided by 2,000, unless the owner or operator of such unit holds allowances to emit not less than the unit's total annual emissions.
 
-(2) After January 1, 2000, it shall be unlawful for a coal or oil-fired existing utility unit that serves a generator with nameplate capacity of less than 75 MWe and an actual 1985 emission rate equal to, or greater than, 1.20 lbs/mmBtu (excluding units subject to section 7411 of this title or to a federally enforceable emissions limitation for sulfur dioxide equivalent to an annual rate of less than 1.20 lbs/mmBtu) and which is a unit owned by a utility operating company whose aggregate nameplate fossil fuel steam-electric capacity is, as of December 31, 1989, less than 250 MWe, to exceed an annual sulfur dioxide tonnage emissions limitation equal to the product of the unit's baseline multiplied by the lesser of its actual 1985 emissions rate or its allowable 1985 emissions rate, divided by 2,000, unless the owner or operator of such unit holds allowances to emit not less than the unit's total annual emissions.
+(2) After January 1, 2000, it shall be unlawful for a coal or oil-fired existing utility unit that serves a generator with nameplate capacity of less than 75 MWe and an actual 1985 emission rate equal to, or greater than, 1.20 lbs/mmBtu (excluding units subject to section 7411 of this title or to a federally enforceable emissions limitation for sulfur dioxide equivalent to an annual rate of less than 1.20 lbs/mmBtu) and which is a unit owned by a utility operating company whose aggregate nameplate fossil fuel steam-electric capacity is, as of December 31, 1989, lessthan 250 MWe, to exceed an annual sulfur dioxide tonnage emissions limitation equal to the product of the unit's baseline multiplied by the lesser of its actual 1985 emissions rate or its allowable 1985 emissions rate, divided by 2,000, unless the owner or operator of such unit holds allowances to emit not less than the unit's total annual emissions.
 
-(3) After January 1, 2000, it shall be unlawful for any existing utility unit with a nameplate capacity below 75 MWe and an actual 1985 emissions rate equal to, or greater than, 1.20 lbs/mmBtu which became operational on or before December 31, 1965, which is owned by a utility operating company with, as of December 31, 1989, a total fossil fuel steam-electric generating capacity greater than 250 MWe, and less than 450 MWe which serves fewer than 78,000 electrical customers as of November 15, 1990, to exceed an annual sulfur dioxide emissions tonnage limitation equal to the product of its baseline multiplied by the lesser of its actual or allowable 1985emission rate, divided by 2,000, unless the owner or operator holds allowances to emit not less than the units <sup>1</sup> total annual emissions. After January 1, 2010, it shall be unlawful for each unit subject to the emissions limitation requirements of this paragraph to exceed an annual emissions tonnage limitation equal to the product of its baseline multiplied by an emissions rate of 1.20 lbs/mmBtu, divided by 2,000, unless the owner or operator holds allowances to emit not less than the unit's total annual emissions.
+(3) After January 1, 2000, it shall be unlawful for any existing utility unit with a nameplate capacity below 75 MWe and an actual 1985 emissions rate equal to, or greater than, 1.20 lbs/mmBtu which became operational on or before December 31, 1965, which is owned by a utility operating company with, as of December 31, 1989, a total fossil fuel steam-electric generating capacity greater than 250 MWe, and less than 450 MWe which serves fewer than 78,000 electrical customers as of November 15, 1990, to exceed an annual sulfur dioxide emissions tonnage limitation equal to the product of its baseline multiplied by the lesser of its actual or allowable 1985 emission rate, divided by 2,000, unless the owner or operator holds allowances to emit not less than the units <sup>1</sup> total annual emissions. After January 1, 2010, it shall be unlawful for each unit subject to the emissions limitation requirements of this paragraph to exceed an annual emissions tonnage limitation equal to the product of its baseline multiplied by an emissions rate of 1.20 lbs/mmBtu, divided by 2,000, unless the owner or operator holds allowances to emit not less than the unit's total annual emissions.
 
 (4) In addition to allowances allocated pursuant to paragraph (1) and section 7651b(a)(1) of this title as basic Phase II allowance allocations, beginning January 1, 2000, and for each calendar year thereafter until and including 2009, inclusive, the Administrator shall allocate annually for each unit subject to the emissions limitation requirements of paragraph (1) with an actual 1985 emissions rate equal to, or greater than, 1.20 lbs/mmBtu and less than 2.50 lbs/mmBtu and a baseline capacity factor of less than 60 percent, allowances from the reserve created pursuant to subsection (a)(2) of this section in an amount equal to 1.20 lbs/mmBtu multiplied by 50 percent of the difference, on a Btu basis, between the unit's baseline and the unit's fuel consumption at a 60 percent capacity factor.
 
@@ -38,7 +38,7 @@
 
 (3)(A) In addition to allowances allocated pursuant to paragraph (1) and section 7651b(a)(1) of this title as basic Phase II allowance allocations, at the election of the designated representative of the operating company, beginning January 1, 2000, and for each calendar year thereafter until and including 2009, the Administrator shall allocate annually for each unit subject to the emissions limitation requirements of paragraph (1) allowances from the reserve created pursuant to subsection (a)(2) of this section in an amount equal to the amount by which (i) the product of the lesser of 0.60 lbs/mmBtu or the unit's allowable 1985 emissions rate multiplied by the unit's baseline adjusted to reflect operation at a 60 percent capacity factor, divided by 2,000, exceeds (ii) the number of allowances allocated for the unit pursuant to paragraph (1) and section 7651b(a)(1) of this title as basic Phase II allowance allocations.
 
-(B) In addition to allowances allocated pursuant to paragraph (2) and section 7651b(a)(1) of this title as basic Phase II allowance allocations, at the election of the designated representative of the operating company, beginning January 1, 2000, and for each calendar year thereafter until and including 2009, the Administrator shall allocate annually for each unit subject to the emissions limitation requirements of paragraph (2) allowances from the reserve created pursuant to subsection (a)(2) of this section in an amount equal to the amount by which (i) the product of the lesser of the unit's actual 1985 emissions rate or its allowable 1985 emissions rate multiplied by the unit's baseline adjusted to reflect operation at a 60 percent capacity factor, divided by 2,000, exceeds (ii) the number of allowances allocated for the unit pursuant to paragraph (2) and section 7651b(a)(1) of this title as basic Phase II allowance allocations.
+(B) In addition to allowances allocated pursuant to paragraph (2) and section 7651b(a)(1) of this title as basic Phase II allowance allocations, at the election of the designated representative of the operating company, beginning January 1, 2000, and for each calendar year thereafter until and including 2009, the Administrator shall allocate annually for each unit subject to the emissions limitation requirements of paragraph (2) allowances from the reserve created pursuant to subsection (a)(2) of this sectionin an amount equal to the amount by which (i) the product of the lesser of the unit's actual 1985 emissions rate or its allowable 1985 emissions rate multiplied by the unit's baseline adjusted to reflect operation at a 60 percent capacity factor, divided by 2,000, exceeds (ii) the number of allowances allocated for the unit pursuant to paragraph (2) and section 7651b(a)(1) of this title as basic Phase II allowance allocations.
 
 (C) An operating company with units subject to the emissions limitation requirements of this subsection may elect the allocation of allowances as provided under subparagraphs (A) and (B). Such election shall apply to the annual allowance allocation for each and every unit in the operating company subject to the emissions limitation requirements of this subsection. The Administrator shall allocate allowances pursuant to subparagraphs (A) and (B) only in accordance with this subparagraph.
 
@@ -62,57 +62,21 @@ After January 1, 2000, it shall be unlawful for any existing oil and gas-fired u
 
 (2) After January 1, 2000, the Administrator shall allocate allowances pursuant to section 7651b of this title to each unit which is listed in table B of this paragraph in an annual amount equal to the amount specified in table B.
 
-#### TABLE B
+TABLE B
 
-<b>Unit</b>
-
-<b>Allowances</b>
-
-&nbsp;&nbsp;Brandon Shores
-
-8,907
-
-&nbsp;&nbsp;Miller 4
-
-9,197
-
-&nbsp;&nbsp;TNP One 2
-
-4,000
-
-&nbsp;&nbsp;Zimmer 1
-
-18,458
-
-&nbsp;&nbsp;Spruce 1
-
-7,647
-
-&nbsp;&nbsp;Clover 1
-
-2,796
-
-&nbsp;&nbsp;Clover 2
-
-2,796
-
-&nbsp;&nbsp;Twin Oak 2
-
-1,760
-
-&nbsp;&nbsp;Twin Oak 1
-
-9,158
-
-&nbsp;&nbsp;Cross 1
-
-6,401
-
-&nbsp;&nbsp;Malakoff 1
-
-1,759
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+| <b>Unit</b> | <b>Allowances</b> |
+| :--- | ---: |
+| Brandon Shores | 8,907 |
+| Miller 4 | 9,197 |
+| TNP One 2 | 4,000 |
+| Zimmer 1 | 18,458 |
+| Spruce 1 | 7,647 |
+| Clover 1 | 2,796 |
+| Clover 2 | 2,796 |
+| Twin Oak 2 | 1,760 |
+| Twin Oak 1 | 9,158 |
+| Cross 1 | 6,401 |
+| Malakoff 1 | 1,759 |
 
 > Notwithstanding any other paragraph of this subsection, for units subject to this paragraph, the Administrator shall not allocate allowances pursuant to any other paragraph of this subsection, Provided <sup>2</sup> that the owner or operator of a unit listed on Table B may elect an allocation of allowances under another paragraph of this subsection in lieu of an allocation under this paragraph.
 
@@ -120,7 +84,7 @@ After January 1, 2000, it shall be unlawful for any existing oil and gas-fired u
 
 (4) Beginning January 1, 2000, the Administrator shall allocate to the owner or operator of any utility unit that has commenced construction before December 31, 1990 and that commences commercial operation between January 1, 1993 and December 31, 1995, allowances in an amount equal to the product of the unit's annual fuel consumption, on a Btu basis, at a 65 percent capacity factor multiplied by the lesser of 0.30 lbs/mmBtu or the unit's allowable sulfur dioxide emission rate (converted, if necessary, to pounds per mmBtu), divided by 2,000.
 
-(5) After January 1, 2000, it shall be unlawful for any existing utility unit that has completedconversion from predominantly gas fired existing operation to coal fired operation between January 1, 1985 and December 31, 1987, for which there has been allocated a proposed or final prohibition order pursuant to section 301(b) <sup>3</sup> of the Powerplant and Industrial Fuel Use Act of 1978 (42 U.S.C. 8301 et seq, repealed 1987) to exceed an annual sulfur dioxide tonnage emissions limitation equal to the product of the unit's annual fuel consumption, on a Btu basis, at a 65 percent capacity factor multiplied by the lesser of 1.20 lbs/mmBtu or the unit's allowable 1987 sulfur dioxide emissions rate, divided by 2,000, unless the owner or operator of such unit has obtained allowances equal to its actual emissions.
+(5) After January 1, 2000, it shall be unlawful for any existing utility unit that has completed conversion from predominantly gas fired existing operation to coal fired operation between January 1, 1985 and December 31, 1987, for which there has been allocated a proposed or final prohibition order pursuant to section 301(b) <sup>3</sup> of the Powerplant and Industrial Fuel Use Act of 1978 (42 U.S.C. 8301 et seq, repealed 1987) to exceed an annual sulfur dioxide tonnage emissions limitation equal to the product of the unit's annual fuel consumption, on a Btu basis, at a 65 percent capacity factor multiplied by the lesser of 1.20 lbs/mmBtu or the unit's allowable 1987 sulfur dioxide emissions rate, divided by 2,000, unless the owner or operator of such unit has obtained allowances equal to its actual emissions.
 
 (6)(A) <sup>4</sup> Unless the Administrator has approved a designation of such facility under section 7651i of this title, the provisions of this subchapter shall not apply to a “qualifying small power production facility” or “qualifying cogeneration facility” (within the meaning of section 796(17)(C) or 796(18)(B) of title 16) or to a “new independent power production facility” as defined in section 7651<i>o</i> of this title except that clause (iii) <sup>5</sup> of such definition in section 7651<i>o</i> of this title shall not apply for purposes of this paragraph if, as of November 15, 1990,
 
@@ -150,7 +114,7 @@ After January 1, 2000, it shall be unlawful for any existing oil and gas-fired u
 
 > in an amount equal to the difference between (A) the number of allowances that would be allocated for the unit pursuant to the emissions limitation requirements of this section applicable to the unit adjusted to reflect the unit's annual average fuel consumption on a Btu basis of any three consecutive calendar years between 1980 and 1989 (inclusive) as elected by the owner or operator and (B) the number of allowances allocated for the unit pursuant to the emissions limitation requirements of this section: <i>Provided</i>, That the number of allowances allocated pursuant to this subsection shall not exceed an annual total of 40,000. If necessary to meeting the 40,000 allowance restriction imposed under this subsection the Administrator shall reduce, pro rata, the additional annual allowances allocated to each unit under this subsection.
 
-(2) Beginning January 1, 2000, in addition to allowances allocated pursuant to this section and section 7651b(a)(1) of this title as basic Phase II allowance allocations, the Administrator shall allocate annually for each unit subject to the emissions limitation requirements of subsection (b)(1) of this section, (A) the lesser of whose actual or allowable 1980 emissions rate has declined by 50 percent or more as of November 15, 1990, (B) whose actual emissions rate is less than 1.2 lbs/mmBtu as of January 1, 2000, (C) which commenced operation after January 1, 1970, (D) which is owned by a utility company whose combined commercial and industrial kilowatt-hour sales have increased by more than 20 percent between calendar year 1980 and November 15, 1990, and (E) whose company-wide fossil-fuel sulfur dioxide emissions rate has declined 40 per centum or more from 1980 to 1988, allowances in an amount equal to the difference between (i) the number of allowances that would be allocated for the unit pursuant to the emissions limitation requirements of subsection (b)(1) of this section adjusted to reflect the unit's annualaverage fuel consumption on a Btu basis for any three consecutive years between 1980 and 1989 (inclusive) as elected by the owner or operator and (ii) the number of allowances allocated for the unit pursuant to the emissions limitation requirements of subsection (b)(1) of this section: <i>Provided</i>, That the number of allowances allocated pursuant to this paragraph shall not exceed an annual total of 5,000. If necessary to meeting the 5,000-allowance restriction imposed in the last clause of the preceding sentence the Administrator shall reduce, pro rata, the additional allowances allocated to each unit pursuant to this paragraph.
+(2) Beginning January 1, 2000, in addition to allowances allocated pursuant to this section and section 7651b(a)(1) of this title as basic Phase IIallowance allocations, the Administrator shall allocate annually for each unit subject to the emissions limitation requirements of subsection (b)(1) of this section, (A) the lesser of whose actual or allowable 1980 emissions rate has declined by 50 percent or more as of November 15, 1990, (B) whose actual emissions rate is less than 1.2 lbs/mmBtu as of January 1, 2000, (C) which commenced operation after January 1, 1970, (D) which is owned by a utility company whose combined commercial and industrial kilowatt-hour sales have increased by more than 20 percent between calendar year 1980 and November 15, 1990, and (E) whose company-wide fossil-fuel sulfur dioxide emissions rate has declined 40 per centum or more from 1980 to 1988, allowances in an amount equal to the difference between (i) the number of allowances that would be allocated for the unit pursuant to the emissions limitation requirements of subsection (b)(1) of this section adjusted to reflect the unit's annual average fuel consumption on a Btu basis for any three consecutive years between 1980 and 1989 (inclusive) as elected by the owner or operator and (ii) the number of allowances allocated for the unit pursuant to the emissions limitation requirements of subsection (b)(1) of this section: <i>Provided</i>, That the number of allowances allocated pursuant to this paragraph shall not exceed an annual total of 5,000. If necessary to meeting the 5,000-allowance restriction imposed in the last clause of the preceding sentence the Administrator shall reduce, pro rata, the additional allowances allocated to each unit pursuant to this paragraph.
 
 #### (j) Certain municipally owned power plants
 

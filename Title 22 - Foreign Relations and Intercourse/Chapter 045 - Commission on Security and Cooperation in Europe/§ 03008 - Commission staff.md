@@ -22,17 +22,19 @@ All staff appointments shall be made without regard to the provisions of title 5
 
 (1) For purposes of pay and other employment benefits, rights, and privileges and for all other purposes, any employee of the Commission shall be considered to be a congressional employee as defined in section 2107 of title 5.
 
-(2) For purposes of section 3304(c)(1) of title 5, staff personnel of the Commission shall be considered as if they are in positions in which they are paid by the Secretary of the Senate or the Clerk of the House of Representatives.
+(2) For purposes of section 3304(c)(1) of title 5, staff personnel of the Commission shall be considered as if they are in positions in which they are paid by the Secretary of the Senate or the Chief Administrative Officer of the House of Representatives.
 
 (3) The provisions of paragraphs (1) and (2) of this subsection shall be effective as of June 3, 1976.
 
-(Pub. L. 94–304, §8, June 3, 1976, 90 Stat. 662; Pub. L. 99–7, §5, Mar. 27, 1985, 99 Stat. 19.)
+(Pub. L. 94–304, §8, June 3, 1976, 90 Stat. 662; Pub. L. 99–7, §5, Mar. 27, 1985, 99 Stat. 19; Pub. L. 104–186, title II, §218(3), Aug. 20, 1996, 110 Stat. 1747.)
 
 #### References In Text
 
 The provisions of title 5 governing appointments in the competitive service, referred to in subsec. (c), are classified generally to section 3301 et seq. of Title 5, Government Organization and Employees.
 
 #### Amendments
+
+1996—Subsec. (d)(2). Pub. L. 104–186 substituted “Chief Administrative Officer” for “Clerk”.
 
 1985—Subsecs. (a), (b). Pub. L. 99–7, in amending section generally, added subsecs. (a) and (b).
 
@@ -43,10 +45,6 @@ Subsec. (d). Pub. L. 99–7, in amending section generally, added subsec. (d).
 #### Effective Date of 1985 Amendment
 
 Amendment by Pub. L. 99–7 effective Apr. 15, 1985, except for enactment of subsec. (d) which was effective June 3, 1976, see section 6(a), (b)(2) of Pub. L. 99–7, set out as a note under section 3002 of this title.
-
-#### Transfer of Functions
-
-Certain functions of Clerk of House of Representatives transferred to Director of Non-legislative and Financial Services by section 7 of House Resolution No. 423, One Hundred Second Congress, Apr. 9, 1992. Director of Non-legislative and Financial Services replaced by Chief Administrative Officer of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
 
 #### Section Referred to in Other Sections
 

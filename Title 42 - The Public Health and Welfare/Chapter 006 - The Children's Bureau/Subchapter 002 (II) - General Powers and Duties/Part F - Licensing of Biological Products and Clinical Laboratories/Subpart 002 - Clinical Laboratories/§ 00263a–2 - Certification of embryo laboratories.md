@@ -54,7 +54,7 @@ The certification program shall include the following standards developed by the
 
 &emsp;(3) A standard for the maintenance of records (on a program by program basis) on laboratory tests and procedures performed, including the scientific basis of, and the methodology used for, the tests, procedures, and preparation of any standards or controls, criteria for acceptable and unacceptable outcomes, criteria for sample rejection, and procedures for safe sample disposal.
 
-&emsp;(4) A standard for the maintenance of written records on personnel and facilities necessary for proper and effective operation of the laboratory, schedules of preventive maintenance, function verification for equipment, and the release of such records to the State upon demand.
+&emsp;(4) A standard for the maintenance of written records on personnel and facilities necessary for proper and effective operation of thelaboratory, schedules of preventive maintenance, function verification for equipment, and the release of such records to the State upon demand.
 
 &emsp;(5) A standard for the use of such personnel who meet such qualifications as the Secretary may develop.
 

@@ -76,7 +76,9 @@ Domestic Buying Preferences.—(1) In this subsection, “United States” means
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

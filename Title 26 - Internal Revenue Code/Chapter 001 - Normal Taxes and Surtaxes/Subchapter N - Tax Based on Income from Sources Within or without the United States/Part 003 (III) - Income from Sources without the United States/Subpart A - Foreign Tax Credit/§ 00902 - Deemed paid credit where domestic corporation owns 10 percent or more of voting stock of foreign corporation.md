@@ -16,7 +16,7 @@ For purposes of this subpart, a domestic corporation which owns 10 percent or mo
 
 #### (2) 3rd tier
 
-&emsp;If such 1st tier corporation owns 10 percent or more of the voting stock of a 2nd foreign corporation which, in turn, owns 10 percent or more of the voting stock of a 3rd foreign corporation from which the 2nd corporation receives dividends in any taxable year, such 2nd foreign corporation shall be deemed to have paid the same proportion of such 3rd foreign corporation's post-1986 foreign income taxes aswould be determined under subsection (a) if such 2nd foreign corporation were a domestic corporation.
+&emsp;If such 1st tier corporation owns 10 percent or more of the voting stock of a 2nd foreign corporation which, in turn, owns 10 percent or more of the voting stock of a 3rd foreign corporation from which the 2nd corporation receives dividends in any taxable year, such 2nd foreign corporation shall be deemed to have paid the same proportion of such 3rd foreign corporation's post-1986 foreign income taxes as would be determined under subsection (a) if such 2nd foreign corporation were a domestic corporation.
 
 #### (3) 5 percent stock requirement
 
@@ -28,7 +28,7 @@ For purposes of this subpart, a domestic corporation which owns 10 percent or mo
 
 #### (B) For 3rd tier
 
-&emsp;&emsp;Paragraph (2) shall not apply unless the percentage arrived at for purposes of applying paragraph (1) when multiplied by the percentage of voting stock owned by the 2nd foreign corporation in the 3rd foreign corporation is equal to at least 5 percent.
+&emsp;&emsp;Paragraph (2) shall not apply unless the percentage arrived at for purposes of applying paragraph (1) when multiplied by thepercentage of voting stock owned by the 2nd foreign corporation in the 3rd foreign corporation is equal to at least 5 percent.
 
 #### (c) Definitions and special rules
 
@@ -96,7 +96,7 @@ For purposes of this section—
 
 #### (7) Regulations
 
-&emsp;The Secretary shall provide such regulations as may be necessary or appropriate to carry out the provisions of this section and section 960, including provisions which provide for the separate application of this section and section 960 to reflect the separate application ofsection 904 to separate types of income and loss.
+&emsp;The Secretary shall provide such regulations as may be necessary or appropriate to carry out the provisions of this section and section 960, including provisions which provide for the separate application of this section and section 960 to reflect the separate application of section 904 to separate types of income and loss.
 
 #### (d) Cross references
 
@@ -106,7 +106,7 @@ For purposes of this section—
 
 &emsp;&emsp;<b>(3) For reduction of credit with respect to dividends paid out of post-1986 undistributed earnings for years for which certain information is not furnished, see section 6038.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 286; Sept. 14, 1960, Pub. L. 86–780, §6(b)(2), 74 Stat. 1016; Oct. 16, 1962, Pub. L. 87–834, §9(a), 76 Stat. 999; Jan. 12, 1971, Pub. L. 91–684, §§1, 2, 84 Stat. 2068, 2069; Mar. 29, 1975, Pub. L. 94–12, title VI, §602(c)(6), 89 Stat. 59; Oct. 4, 1976, Pub. L. 94–455, title X, §1033(a), 90 Stat. 1626; Oct. 22, 1986, Pub. L. 99–514, title XII, §1202(a), 100 Stat. 2528; Nov. 10, 1988, Pub. L. 100–647, title I, §1012(b)(1), (2), 102 Stat. 3496.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 286; Sept. 14, 1960, Pub. L. 86–780, §6(b)(2), 74 Stat. 1016; Oct. 16, 1962, Pub. L. 87–834, §9(a), 76 Stat. 999; Jan. 12, 1971, Pub. L. 91–684, §§1, 2, 84 Stat. 2068, 2069; Mar. 29, 1975, Pub. L. 94–12, title VI, §602(c)(6), 89 Stat. 59; Oct. 4, 1976, Pub. L. 94–455, title X,§1033(a), 90 Stat. 1626; Oct. 22, 1986, Pub. L. 99–514, title XII, §1202(a), 100 Stat. 2528; Nov. 10, 1988, Pub. L. 100–647, title I, §1012(b)(1), (2), 102 Stat. 3496.)
 
 #### References in Text
 

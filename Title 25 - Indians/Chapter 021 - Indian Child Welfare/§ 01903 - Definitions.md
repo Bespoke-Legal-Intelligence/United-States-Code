@@ -22,7 +22,7 @@ For the purposes of this chapter, except as may be specifically provided otherwi
 
 &emsp;(5) “Indian child's tribe” means (a) the Indian tribe in which an Indian child is a member or eligible for membership or (b), in the case of an Indian child who is a member of or eligible for membership in more than one tribe, the Indian tribe with which the Indian child has the more significant contacts;
 
-&emsp;(6) “Indian custodian” means any Indian person who has legal custody of an Indian child under tribal law or custom or under State law or to whom temporary physical care, custody, and control has been transferred by the parent of such child;
+&emsp;(6) “Indian custodian” means any Indian person who has legal custody of an Indian child under tribal law or custom or under State law or to whom temporary physicalcare, custody, and control has been transferred by the parent of such child;
 
 &emsp;(7) “Indian organization” means any group, association, partnership, corporation, or other legal entity owned or controlled by Indians, or a majority of whose members are Indians;
 

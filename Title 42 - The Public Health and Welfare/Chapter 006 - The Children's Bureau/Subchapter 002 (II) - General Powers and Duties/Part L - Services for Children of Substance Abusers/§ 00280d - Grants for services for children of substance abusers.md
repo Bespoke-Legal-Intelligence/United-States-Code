@@ -124,7 +124,7 @@ The Federal share of a program carried out under subsection (a) of this section 
 
 #### (f) Coordination with other providers
 
-The Secretary may make a grant under subsection (a) of this section only if the applicantinvolved agrees to coordinate its activities with those of the State lead agency, and the State Interagency Coordinating Council, under part H of the Individuals with Disabilities Education Act \[20 U.S.C. 1471 et seq.\].
+The Secretary may make a grant under subsection (a) of this section only if the applicant involved agrees to coordinate its activities with those of the State lead agency, and the State Interagency Coordinating Council, under part H of the Individuals with Disabilities Education Act \[20 U.S.C. 1471 et seq.\].
 
 #### (g) Restrictions on use of grant
 
@@ -270,7 +270,7 @@ For purposes of this section:
 
 &emsp;&emsp;(B) children who have been prenatally exposed to alcohol or other dangerous drugs.
 
-&emsp;(3) The term “Indian tribe” means any tribe, band, nation, or other organized group or community of Indians, including any Alaska Native village (as defined in, or established pursuant to, the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\]), that is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians.
+&emsp;(3) The term “Indian tribe” means any tribe, band, nation, or other organized group or community of Indians, including any Alaska Native village (as defined in, or established pursuant to, the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\]), that is recognized as eligible for the special programsand services provided by the United States to Indians because of their status as Indians.
 
 &emsp;(4) The term “public or nonprofit private entities that provide health or social services to disadvantaged populations” includes community-based organizations, local public health departments, community action agencies, hospitals, community health centers, child welfare agencies, developmental disabilities service providers, and family resource and support programs.
 
@@ -284,7 +284,7 @@ For purposes of this section:
 
 #### (2) Contingent authority regarding training of certain individuals
 
-&emsp;Of the amounts appropriated under paragraph (1) for a fiscal year in excess of $25,000,000, the Secretary may make available not more than 15 percent for the training of health care professionals and other personnel (including child welfare providers) who provideservices to children and families of substance abusers.
+&emsp;Of the amounts appropriated under paragraph (1) for a fiscal year in excess of $25,000,000, the Secretary may make available not more than 15 percent for the training of health care professionals and other personnel (including child welfare providers) who provide services to children and families of substance abusers.
 
 (July 1, 1944, ch. 373, title III, §399D, as added July 10, 1992, Pub. L. 102–321, title IV, §401(a), 106 Stat. 419.)
 
@@ -309,4 +309,8 @@ Section effective July 10, 1992, with programs making awards providing financial
 #### Construction
 
 Section 401(b) of Pub. L. 102–321 provided that: “With respect to the program established in section 399D of the Public Health Service Act \[this section\] (as added by subsection (a) of this section), nothing in such section 399D may be construed as establishing for any other Federal program any requirement, authority, or prohibition, including with respect to recipients of funds under such other Federal programs.”
+
+#### Reference to Community, Migrant, Public Housing, or Homeless Health Center Considered Reference to Health Center
+
+Reference to community health center, migrant health center, public housing health center, or homeless health center considered reference to health center, see section 4(c) of Pub. L. 104–299, set out as a note under section 254b of this title.
 

@@ -1,6 +1,6 @@
 ### §2662. Real property transactions: reports to congressional committees
 
-(a) The Secretary of a military department, or his designee, may not enter into any of the following listed transactions by or for the use of that department until after the expiration of 30 days from the date upon which a report of the facts concerning the proposed transaction is submitted to the Committees on Armed Services of the Senate and House of Representatives:
+(a) The Secretary of a military department, or his designee, may not enter into any of the following listed transactions by or for the use of that department until after the expiration of 30 days from the date upon which a report of the facts concerning the proposed transaction is submitted to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives:
 
 &emsp;(1) An acquisition of fee title to any real property, if the estimated price is more than $200,000.
 
@@ -14,19 +14,19 @@
 
 &emsp;(6) Any termination or modification by either the grantor or grantee of an existing license or permit of real property owned by the United States to a military department, under which substantial investments have been or are proposed to be made in connection with the use of the property by the military department.
 
-> If a transaction covered by clause (1) or (2) is part of a project, the report must include a summarization  of  the  general  plan  for  that project, including an estimate of the total cost of the lands to be acquired or leases to be made. The report required by this subsection to be submitted to the Committees on Armed Services of the Senate and House of Representatives concerning any report of excess real property described in clause (5) shall contain a certification by the Secretary concerned that he has considered the feasibility of exchanging such property for other real property authorized to be acquired for military purposes and has determined that the property proposed to be declared excess is not suitable for such purpose.
+> If a transaction covered by clause (1) or (2) is part of a project, the report must include a summarization of the general plan for that project, including an estimate of the total cost of the lands to be acquired or leases to be made. The report required by this subsection concerning any report of excess real property described in clause (5) shall contain a certification by the Secretary concerned that he has considered the feasibility of exchanging such property for other real property authorized to be acquired for military purposes and has determined that the property proposed to be declared excess is not suitable for such purpose.
 
-(b) The Secretary of each military department shall report annually to the Committees onArmed Services of the Senate and the House of Representatives on transactions described in subsection (a) that involve an estimated value of more than the small purchase threshold under section 2304(g) of this title but not more than $200,000.
+(b) The Secretary of each military department shall submit annually to the congressional committees named in subsection (a) a report on transactions described in subsection (a) that involve an estimated value of more than the simplified acquisition threshold under section 2304(g) of this title but not more than $200,000.
 
 (c) This section applies only to real property in the United States, Puerto Rico, Guam, the American Virgin Islands, American Samoa, and the Trust Territory of the Pacific Islands. It does not apply to real property for river and harbor projects or flood control projects, or to leases of Government-owned real property for agricultural or grazing purposes or to any real property acquisition specifically authorized in a Military Construction Authorization Act.
 
 (d) A statement in an instrument of conveyance, including a lease, that the requirements of this section have been met, or that the conveyance is not subject to this section, is conclusive.
 
-(e) No element of the Department of Defense shall occupy any general purpose space leased for it by the General Services Administration at an annual rental in excess of $200,000 (excluding the cost of utilities and other operation and maintenance services), if the effect of such occupancy is to increase the total amount of such leased space occupied by all elements of the Department of Defense, until the expiration of thirty days from the date upon which a report of the facts concerning the proposed occupancy is submitted to the Committees on Armed Services of the Senate and the House of Representatives.
+(e) No element of the Department of Defense shall occupy any general purpose space leased for it by the General Services Administration at an annual rental in excess of $200,000 (excluding the cost of utilities and other operation and maintenance services), if the effect of such occupancy is to increase the total amount of such leased space occupied by all elements of the Department of Defense, until the expiration of thirty days from the date upon which a report of the facts concerning the proposed occupancy is submitted to the congressional committees named in subsection (a).
 
-(f) Whenever a transaction covered by this section is made by or on behalf of an intelligence component of the Department of Defense or involves real property used by such a component, any report under this section with respect to the transaction that is submitted to the Committees on Armed Services of the Senate and the House of Representatives shall be submitted concurrently to the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate.
+(f) Whenever a transaction covered by this section is made by or on behalf of an intelligence component of the Department of Defense or involves real property used by such a component, any report under this section with respect to the transaction that is submitted to the congressional committees named in subsection (a) shall be submitted concurrently to the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 147; June 25, 1959, Pub. L. 86–70, §6(c), 73 Stat. 142; June 8, 1960, Pub. L. 86–500, title V, §511(1), 74 Stat. 186; July 12, 1960, Pub. L. 86–624, §4(c), 74 Stat. 411; Oct. 27, 1971, Pub. L. 92–145, title VII, §707(5), 85 Stat. 412; Oct. 25, 1972, Pub. L. 92–545, title VII, §709, 86 Stat. 1154; Dec. 27, 1974, Pub. L. 93–552, title VI, §610, 88 Stat. 1765; Oct. 7, 1975, Pub. L. 94–107, title VI, §607(5), (6), 89 Stat. 566; Sept. 30, 1976, Pub. L. 94–431, title VI, §614, 90 Stat. 1367; Oct. 10, 1980, Pub. L. 96–418, title VIII, §805, 94 Stat. 1777; Sept. 29, 1988, Pub. L. 100–456, div. B, title XXVIII, §2803, 102 Stat. 2115; Nov. 5, 1990, Pub. L. 101–510, div. A, title XIII, §1311(6), 104 Stat. 1670; Oct. 24, 1992, Pub. L. 102–496, title IV, §403(a)(1), (2)(A), 106 Stat. 3185.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 147; June 25, 1959, Pub. L. 86–70, §6(c), 73 Stat. 142; June 8, 1960, Pub. L. 86–500, title V, §511(1), 74 Stat. 186; July 12, 1960, Pub. L. 86–624, §4(c), 74 Stat. 411; Oct. 27, 1971, Pub. L. 92–145, title VII, §707(5), 85 Stat. 412; Oct. 25, 1972, Pub. L. 92–545, title VII, §709, 86 Stat. 1154; Dec. 27, 1974, Pub. L. 93–552, title VI, §610, 88 Stat. 1765; Oct. 7, 1975, Pub. L. 94–107, title VI, §607(5), (6), 89 Stat. 566; Sept. 30, 1976, Pub. L. 94–431, title VI, §614, 90 Stat. 1367; Oct. 10, 1980, Pub. L. 96–418, title VIII, §805, 94 Stat. 1777; Sept. 29, 1988, Pub. L. 100–456, div. B, title XXVIII, §2803, 102 Stat. 2115; Nov. 5, 1990, Pub. L. 101–510, div. A, title XIII, §1311(6), 104 Stat. 1670; Oct. 24, 1992, Pub. L. 102–496, title IV, §403(a)(1), (2)(A), 106 Stat. 3185; Feb. 10, 1996, Pub. L. 104–106, div. A, title XV, §1502(a)(23), div. D, title XLIII, §4321(b)(21), 110 Stat. 505, 673.)
 
 Historical and Revision Notes
 
@@ -66,6 +66,16 @@ In subsection (d), the words “A statement \* \* \* that the requirements of 
 
 #### Amendments
 
+1996—Subsec. (a). Pub. L. 104–106, §1502(a)(23)(A), substituted “the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives” for “the Committees on Armed Services of the Senate and House of Representatives” in introductory provisions and struck out “to be submitted to the Committees on Armed Services of the Senate and House of Representatives” after “The report required by this subsection” in concluding provisions.
+
+Subsec. (b). Pub. L. 104–106, §4321(b)(21), substituted “simplified acquisition threshold” for “small purchase threshold”.
+
+Pub. L. 104–106, §1502(a)(23)(B), substituted “shall submit annually to the congressional committees named in subsection (a) a report” for “shall report annually to the Committees on Armed Services of the Senate and the House of Representatives”.
+
+Subsec. (e). Pub. L. 104–106, §1502(a)(23)(C), substituted “the congressional committees named in subsection (a)” for “the Committees on Armed Services of the Senate and the House of Representatives”.
+
+Subsec. (f). Pub. L. 104–106, §1502(a)(23)(D), substituted “the congressional committees named in subsection (a) shall” for “the Committees on Armed Services of the Senate and the House of Representatives shall”.
+
 1992—Pub. L. 102–496, §403(a)(2)(A), substituted “reports to congressional committees” for “Reports to the Armed Services Committees” in section catchline.
 
 Subsec. (f). Pub. L. 102–496, §403(a)(1), added subsec. (f).
@@ -98,9 +108,9 @@ Subsec. (d). Pub. L. 86–500 reenacted subsection without change.
 
 1959—Subsec. (c). Pub. L. 86–70 struck out reference to Alaska.
 
-#### Change of Name
+#### Effective Date of 1996 Amendment
 
-Committee on Armed Services of House of Representatives treated as referring to Committee on National Security of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+For effective date and applicability of amendment by section 4321(b)(21) of Pub. L. 104–106, see section 4401 of Pub. L. 104–106, set out as a note under section 251 of Title 41, Public Contracts.
 
 #### Effective Date of 1988 Amendment
 

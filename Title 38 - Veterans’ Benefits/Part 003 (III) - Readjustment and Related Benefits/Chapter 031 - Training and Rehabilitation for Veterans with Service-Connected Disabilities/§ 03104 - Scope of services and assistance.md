@@ -1,8 +1,8 @@
 ### §3104. Scope of services and assistance
 
-(a) Services and assistance which the Secretary may provide under this chapter, pursuant to regulations which the Secretary shall prescribe, include the following:
+(a) Services and assistance which the Secretary may provide under this chapter, pursuantto regulations which the Secretary shall prescribe, include the following:
 
-&emsp;(1) Evaluation, including periodic reevaluations as appropriate with respect to a veteran participating in a rehabilitation program, of the potential for rehabilitation of a veteran, including diagnostic and related services (A) to determine whether such veteran's disability or disabilities cause a serious employment handicap and whether a vocational goal is feasible for such veteran, and (B) to provide a basis for planning a suitable vocational rehabilitation program or a program of services and assistance to improve the vocational rehabilitation potential or independent living status of such veteran, as appropriate.
+&emsp;(1) Evaluation, including periodic reevaluations as appropriate with respect to a veteran participating in a rehabilitation program, of the potential for rehabilitation of a veteran, including diagnostic and related services (A) to determine whether the veteran has an employment handicap or a serious employment handicap and whether a vocational goal is reasonably feasible for such veteran, and (B) to provide a basis for planning a suitable vocational rehabilitation program or a program of services and assistance to improve the vocational rehabilitation potential or independent living status of such veteran, as appropriate.
 
 &emsp;(2) Educational, vocational, psychological, employment, and personal adjustment counseling.
 
@@ -14,7 +14,7 @@
 
 &emsp;(6) Personal adjustment and work adjustment training.
 
-&emsp;(7)(A) Vocational and other training services and assistance, including (i) individualized tutorial assistance, tuition, fees, books, supplies, handling charges, licensing fees, and equipment and other training materials determined by the Secretary to be necessary to accomplish the purposes of the rehabilitation program in the individual case, and (ii) job-readiness skills development and counseling under section 14(a)(2) of the Veterans’ Job Training Act (29 U.S.C. 1721 note) for a participant in a program of training under such Act.
+&emsp;(7)(A) Vocational and other training services and assistance, including individualized tutorial assistance, tuition, fees, books, supplies, handling charges, licensing fees, and equipment and other training materials determined by the Secretary to be necessary to accomplish the purposes of the rehabilitation program in the individual case.
 
 &emsp;(B) Payment for the services and assistance provided under subparagraph (A) of this paragraph shall be made from funds available for the payment of readjustment benefits.
 
@@ -26,7 +26,7 @@
 
 &emsp;(11) Services to a veteran's family as necessary for the effective rehabilitation of such veteran.
 
-&emsp;(12) For the most severely disabled veterans requiring homebound training or self-employment, or both homebound training and self-employment, such license fees and essential equipment, supplies, and minimum stocks of materials as the Secretary determines to be necessary for such a veteran to begin employment and are within the criteria and cost limitations that the Secretary shall prescribe in regulations for the furnishing of such fees, equipment, supplies, and stocks.
+&emsp;(12) For veterans with the most severe service-connected disabilities who require homebound training or self-employment, or both homebound training and self-employment, such license fees and essential equipment, supplies, and minimum stocks of materials as the Secretary determines to be necessary for such a veteran to begin employment and are within the criteria and cost limitations that the Secretary shall prescribe in regulations for the furnishing of such fees, equipment, supplies, and stocks.
 
 &emsp;(13) Travel and incidental expenses under the terms and conditions set forth in section 111 of this title, plus, in the case of a veteran who because of such veteran's disability has transportation expenses in addition to those incurred by persons not so disabled, a special transportation allowance to defray such additional expenses during rehabilitation, job seeking, and the initial employment stage.
 
@@ -42,23 +42,23 @@
 
 &emsp;(16) Other incidental goods and services determined by the Secretary to be necessary to accomplish the purposes of a rehabilitation program in an individual case.
 
-(b) A program of independent living services and assistance may include the types of services and assistance described in section 702 <sup>1</sup> of the Rehabilitation Act of 1973 (29 U.S.C. 796a).
+(b) A rehabilitation program (including individual courses) to be pursued by a veteran shall be subject to the approval of the Secretary.
 
-(c) A rehabilitation program (including individual courses) to be pursued by a veteran shall be subject to the approval of the Secretary.
-
-(Added Pub. L. 96–466, title I, §101(a), Oct. 17, 1980, 94 Stat. 2174, §1504; amended Pub. L. 100–323, §11(a)(3)(A), May 20, 1988, 102 Stat. 568; Pub. L. 101–237, title IV, §423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; Pub. L. 102–16, §3(b)(1), Mar. 22, 1991, 105 Stat. 49; Pub. L. 102–54, §14(c)(3), June 13, 1991, 105 Stat. 285; renumbered §3104 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406.)
-
-#### References in Text
-
-The Veterans’ Job Training Act, referred to in subsec. (a)(7)(A)(ii), is Pub. L. 98–77, Aug. 15, 1983, 97 Stat. 443, as amended, which is set out as a note under section 1721 of Title 29, Labor. For complete classification of this Act to the Code, see Tables.
-
-Section 702 of the Rehabilitation Act of 1973 (29 U.S.C. 796a), referred to in subsec. (b), was repealed, and a new section 702 added by Pub. L. 102–569, title VII, §701(1), (2), Oct. 29, 1992, 106 Stat. 4443, which is classified to section 796a of Title 29, no longer contains provisions describing types of independent living services.
+(Added Pub. L. 96–466, title I, §101(a), Oct. 17, 1980, 94 Stat. 2174, §1504; amended Pub. L. 100–323, §11(a)(3)(A), May 20, 1988, 102 Stat. 568; Pub. L. 101–237, title IV, §423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; Pub. L. 102–16, §3(b)(1), Mar. 22, 1991, 105 Stat. 49; Pub. L. 102–54, §14(c)(3), June 13, 1991, 105 Stat. 285; renumbered §3104 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 104–275, title I, §101(d), Oct. 9, 1996, 110 Stat. 3324.)
 
 #### Prior Provisions
 
 Prior section 3104 was renumbered section 5304 of this title.
 
 #### Amendments
+
+1996—Subsec. (a)(1). Pub. L. 104–275, §101(d)(1)(A), substituted “the veteran has an employment handicap or” for “such veteran's disability or disabilities cause” and inserted “reasonably” after “goal is”.
+
+Subsec. (a)(7)(A). Pub. L. 104–275, §101(d)(1)(B), struck out “(i)” after “assistance, including” and “, and (ii) job-readiness skills development and counseling under section 14(a)(2) of the Veterans’ Job Training Act (29 U.S.C. 1721 note) for a participant in a program of training under such Act” after “individual case”.
+
+Subsec. (a)(12). Pub. L. 104–275, §101(d)(1)(C), substituted “For veterans with the most severe service-connected disabilities who require” for “For the most severely disabled veterans requiring”.
+
+Subsecs. (b), (c). Pub. L. 104–275, §101(d)(2), redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows: “A program of independent living services and assistance may include the types of services and assistance described in section 702 of the Rehabilitation Act of 1973 (29 U.S.C. 796a).”
 
 1991—Pub. L. 102–83, §5(a), renumbered section 1504 of this title as this section.
 
@@ -75,6 +75,10 @@ Subsec. (b). Pub. L. 102–54 substituted “(29 U.S.C. 796a)” for “(29 U.S.
 1989—Subsecs. (a), (c). Pub. L. 101–237 substituted “Secretary” for “Administrator” wherever appearing.
 
 1988—Subsec. (a)(7). Pub. L. 100–323 designated existing provisions as subpar. (A) and added subpar. (B).
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–275 effective Oct. 9, 1996, with amendment by section 101(d)(1)(C), (2) of Pub. L. 104–275 only applicable with respect to claims of eligibility or entitlement to services and assistance (including claims for extension of such services and assistance) under this chapter received by the Secretary of Veterans Affairs on or after Oct. 9, 1996, including those claims based on original applications, and applications seeking to reopen, revise, reconsider, or otherwise adjudicate or readjudicate on any basis claims for services and assistance under this chapter, see section 101(j) of Pub. L. 104–275, set out as a note under section 3101 of this title.
 
 #### Effective Date of 1991 Amendment
 
@@ -113,6 +117,4 @@ During the period beginning on Oct. 1, 1980, and ending on Mar. 31, 1981, the pr
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 1163, 1524, 3105, 3106, 3108, 3117, 3120 of this title.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

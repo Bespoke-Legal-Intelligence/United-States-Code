@@ -24,7 +24,7 @@
 
 &emsp;(10) Frozen foods.
 
-&emsp;(11) Other categories designated in regulations prescribed by the Secretary of a military department and approved by the Secretary of Defense.
+&emsp;(11) Other categories designated in regulations prescribed by the Secretary of a militarydepartment and approved by the Secretary of Defense.
 
 (c) An adjustment of or surcharge on sales prices in commissary stores under section 2484(b) or 2685(a) of this title or for any other purpose shall be applied as a uniform percentage of the sales price of all merchandise sold in commissary stores.
 
@@ -34,9 +34,13 @@
 
 &emsp;(2) promote the lowest practical price of merchandise sold at commissary stores.
 
-(Added Pub. L. 99–661, div. A, title III, §313(a), Nov. 14, 1986, 100 Stat. 3852; amended Pub. L. 100–180, div. A, title III, §313(a)(1), (2), Dec. 4, 1987, 101 Stat. 1073, 1074.)
+(e) The Secretary of Defense may not use the exception provided in section 2304(c)(5) of this title regarding the procurement of a brand-name commercial item for resale in commissary stores unless the commercial item is regularly sold outside of commissary stores under the same brand name as the name by which the commercial item will be sold in commissary stores.
+
+(Added Pub. L. 99–661, div. A, title III, §313(a), Nov. 14, 1986, 100 Stat. 3852; amended Pub. L. 100–180, div. A, title III, §313(a)(1), (2), Dec. 4, 1987, 101 Stat. 1073, 1074; Pub. L. 104–201, div. A, title III, §342(a), Sept. 23, 1996, 110 Stat. 2489.)
 
 #### Amendments
+
+1996—Subsec. (e). Pub. L. 104–201 added subsec. (e).
 
 1987—Pub. L. 100–180, §313(a)(2), inserted “and pricing” in section catchline.
 
@@ -45,4 +49,8 @@ Subsec. (d). Pub. L. 100–180, §313(a)(1), added subsec. (d).
 #### Regulations
 
 Section 313(b) of Pub. L. 100–180 required Secretary of Defense to prescribe regulations required by subsec. (d) of this section not later than 90 days after Dec. 4, 1987.
+
+#### Savings Provision
+
+Section 342(b) of Pub. L. 104–201 provided that: “Section 2486(e) of title 10, United States Code, as added by subsection (a), shall not affect the terms, conditions, or duration of any contract or other agreement entered into by the Secretary of Defense before the date of the enactment of this Act \[Sept. 23, 1996\] for the procurement of commercial items for resale in commissary stores.”
 

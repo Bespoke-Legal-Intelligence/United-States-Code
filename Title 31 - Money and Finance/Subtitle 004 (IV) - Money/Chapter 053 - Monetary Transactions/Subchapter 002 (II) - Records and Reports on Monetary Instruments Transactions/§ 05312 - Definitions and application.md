@@ -116,7 +116,7 @@ Oct. 26, 1970, Pub. L. 91–508, §203(a)–(i), (<i>l</i>), 84 Stat. 1118.
 
 31:1052(f), (h).
 
-In subsection (a)(1), the text of 31:1052(a) is omitted as unnecessary. The text of 31:1052(b) is omitted because ofthe restatement. The text of 31:1052(i) is omitted as unnecessary because the source provision is restated where necessary in the revised subchapter.
+In subsection (a)(1), the text of 31:1052(a) is omitted as unnecessary. The text of 31:1052(b) is omitted because of the restatement. The text of 31:1052(i) is omitted as unnecessary because the source provision is restated where necessary in the revised subchapter.
 
 In subsection (a)(2), (3), (4), and (5), the words “the Secretary . . . prescribes” are substituted for “specified by the Secretary by regulation”, “as the Secretary may by regulation specify”, “specified by the Secretary”, and “the Secretary shall by regulation specify” for consistency.
 
@@ -128,7 +128,7 @@ In subsection (a)(3)(B)–(5), the word “prescribe” is substituted for “sp
 
 In subsection (a)(3)(B), the words “in addition”, and “and such types of” are omitted as surplus. The words “similar material” are substituted for “the equivalent thereof” for clarity.
 
-In subsection (a)(4), the words “in addition to its meaning under section 1 of title 1” are substituted for “natural persons, partnerships, . . . associations, corporations, and all entities cognizable as legal personalities” for consistency because 1:1 is applicable to all laws unless otherwise provided. The words “a trustee, a representative of an estate” are substituted for “trusts, estates”, and the word “entity” is substituted for “department or agency”, for consistency. The words “either for the purpose of this chapter generally or any particular requirement thereunder” are omitted as surplus.
+In subsection (a)(4), the words “in addition to its meaning under section 1 of title 1” are substituted for “natural persons, partnerships, . . . associations, corporations, and all entities cognizable as legal personalities” for consistency because 1:1 is applicable to alllaws unless otherwise provided. The words “a trustee, a representative of an estate” are substituted for “trusts, estates”, and the word “entity” is substituted for “department or agency”, for consistency. The words “either for the purpose of this chapter generally or any particular requirement thereunder” are omitted as surplus.
 
 In subsection (a)(5), the words “used in a geographic sense” are omitted because of the restatement. The words “either for the purposes of this chapter generally or any particular requirement thereunder” are omitted as surplus. The words “territory or” are added for consistency.
 
@@ -166,7 +166,7 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 5327 of this title; title 12 section 1953; title 18 sections 986, 1956; title 19 sections 1401, 1607; title 26 section 6050I; title 50 section 438.
+This section is referred to in title 12 section 1953; title 18 sections 986, 1956, 2339B; title 19 sections 1401, 1607; title 26 section 6050I; title 50 section 438.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

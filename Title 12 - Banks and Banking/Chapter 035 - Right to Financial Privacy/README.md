@@ -52,10 +52,10 @@
 | (i) | Disclosure pursuant to issuance of subpena or court order respecting grand jury proceeding. |
 | (j) | Disclosure pursuant to proceeding, investigation, etc., instituted by General Accounting Office and directed at a government authority. |
 | (k) | Disclosure necessary for proper administration of programs of withholding taxes on nonresident aliens, Federal Old-Age, Survivors, and Disability Insurance Benefits, and Railroad Retirement Act Benefits. |
-| (<i>l)</i> | Crimes against financial institutions by insiders. |
+| (<i>l</i>) | Crimes against financial institutions by insiders. |
 | (m) | Disclosure to, or examination by, employees or agents of Board of Governors of Federal Reserve System or Federal Reserve Bank. |
 | (n) | Disclosure to, or examination by, Resolution Trust Corporation or its employees or agents. |
-| (<i>o)</i> | Disclosure to, or examination by, Federal Housing Finance Board or Federal home loan banks. |
+| (<i>o</i>) | Disclosure to, or examination by, Federal Housing Finance Board or Federal home loan banks. |
 | (p) | Access to information necessary for administration of certain veteran benefits laws. |
 | [3414\.](%C2%A7%2003414%20-%20Special%20procedures.md) | Special procedures. |
 | [3415\.](%C2%A7%2003415%20-%20Cost%20reimbursement.md) | Cost reimbursement. |

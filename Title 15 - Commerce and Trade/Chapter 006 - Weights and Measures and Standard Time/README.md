@@ -40,6 +40,13 @@
 | [205j.](Subchapter%20002%20%28II%29%20-%20Metric%20Conversion/%C2%A7%2000205j%20-%20Financial%20and%20administrative%20services%3B%20source%20and%20reimbursement.md) | Financial and administrative services; source and reimbursement. |
 | 205j–1. | Repealed. |
 | [205k.](Subchapter%20002%20%28II%29%20-%20Metric%20Conversion/%C2%A7%2000205k%20-%20Authorization%20of%20appropriations%3B%20availability.md) | Authorization of appropriations; availability. |
+| 205<i>l.</i> | Implementation in acquisition of construction services and materials for Federal facilities. |
+| (a) | In general. |
+| (b) | Concrete masonry units. |
+| (c) | Recessed lighting fixtures. |
+| (d) | Limitation. |
+| (e) | Expiration. |
+| (f) | Agency ombudsman. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -67,16 +74,16 @@
 | :--- | ---: |
 | 221, 222. | Repealed. |
 | [223\.](Subchapter%20005%20%28V%29%20-%20Standards%20of%20Electricity/%C2%A7%2000223%20-%20Units%20of%20electrical%20measure.md) | Units of electrical measure. |
-|  | &nbsp;Resistance-ohm. |
-|  | &nbsp;Current-ampere. |
-|  | &nbsp;Electromotive force and electric potential-   volt. |
-|  | &nbsp;Quantity-coulomb. |
-|  | &nbsp;Capacitance-farad. |
-|  | &nbsp;Inductance-henry. |
-|  | &nbsp;Power-watt. |
-|  | &nbsp;Energy—joule; kilowatt—hour. |
-|  | &nbsp;Intensity of light—candela. |
-|  | &nbsp;Flux of light—lumen. |
+| &nbsp; | &nbsp;Resistance-ohm. |
+| &nbsp; | &nbsp;Current-ampere. |
+| &nbsp; | &nbsp;Electromotive force and electric potential-   volt. |
+| &nbsp; | &nbsp;Quantity-coulomb. |
+| &nbsp; | &nbsp;Capacitance-farad. |
+| &nbsp; | &nbsp;Inductance-henry. |
+| &nbsp; | &nbsp;Power-watt. |
+| &nbsp; | &nbsp;Energy—joule; kilowatt—hour. |
+| &nbsp; | &nbsp;Intensity of light—candela. |
+| &nbsp; | &nbsp;Flux of light—lumen. |
 | [224\.](Subchapter%20005%20%28V%29%20-%20Standards%20of%20Electricity/%C2%A7%2000224%20-%20Establishment%20of%20values%20of%20primary%20electric%20and%20photometric%20units%20in%20absolute%20measure%3B%20legal%20values.md) | Establishment of values of primary electric and photometric units in absolute measure; legal values. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

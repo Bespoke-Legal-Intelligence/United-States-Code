@@ -8,6 +8,10 @@ Cattle which have reacted to the tuberculin test may be shipped, transported, or
 
 1920—Act May 31, 1920, amended act May 29, 1884, without amending any particular section thereof, by enacting provisions set out as this section. For classification of act May 29, 1884, to the Code, see Short Title note set out under section 112 of this title and Tables.
 
+#### Extension of Provisions to Live Poultry
+
+Act Feb. 7, 1928, ch. 30, 45 Stat. 59, extended the terms and provisions of this section to live poultry.
+
 #### Section Referred to in Other Sections
 
 This section is referred to in section 136a of this title; title 16 section 1540.

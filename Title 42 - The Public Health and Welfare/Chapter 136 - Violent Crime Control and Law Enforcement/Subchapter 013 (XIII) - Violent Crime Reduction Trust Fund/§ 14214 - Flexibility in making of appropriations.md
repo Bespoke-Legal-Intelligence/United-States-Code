@@ -156,13 +156,13 @@ This Act, referred to in subsecs. (a) to (c), is Pub. L. 103–322, Sept. 13, 19
 
 Section 190001, referred to in subsec. (d), is section 190001 of Pub. L. 103–322, 108 Stat. 2048, which is not classified to the Code.
 
-Sections 130002 and 130007, referred to in subsec. (d), are sections 130002 and 130007 of Pub. L. 103–322, 108 Stat. 2023, 2029, which are set out as notes under section 1252 of Title 8, Aliens and Nationality.
+Section 130002, referred to in subsec. (d), is section 130002 of Pub. L. 103–322, 108 Stat. 2023, which is set out as a note under section 1226 of Title 8, Aliens and Nationality.
 
 Section 130005, referred to in subsec. (d), is section 130005 of Pub. L. 103–322, 108 Stat. 2028, which amended section 1158 of Title 8 and enacted provisions set out as a note under section 1158 of Title 8.
 
 Section 130006, referred to in subsec. (d), is section 130006 of Pub. L. 103–322, 108 Stat. 2028, which is set out as a note under section 1101 of Title 8.
 
-Section 130007, referred to in subsec. (d), is section 130007 of Pub. L. 103–322, 108 Stat. 2029, which is set out as a note under section 1252 of Title 8.
+Section 130007, referred to in subsec. (d), is section 130007 of Pub. L. 103–322, 108 Stat. 2029, which is set out as a note under section 1228 of Title 8.
 
 Section 250005, referred to in subsec. (d), is section 230005 of Pub. L. 103–322, 108 Stat. 2086, which is not classified to the Code.
 
@@ -178,11 +178,11 @@ Section 210302, referred to in subsec. (d), is section 210302 of Pub. L. 103–3
 
 Section 210101, referred to in subsec. (d), is section 210101 of Pub. L. 103–322, 108 Stat. 2061, which is not classified to the Code.
 
-Section 20301, referred to in subsec. (d), is section 20301 of Pub. L. 103–322, 108 Stat. 1823, which amended section 1252 of Title 8, Aliens and Nationality, and enacted provisions set out as notes under section 1252 of Title 8.
+Section 20301, referred to in subsec. (d), is section 20301 of Pub. L. 103–322, 108 Stat. 1823, which amended section 1252 of Title 8, Aliens and Nationality, and enacted provisions set out as notes under sections 1231 and 1252 of Title 8.
 
 Section 20201, referred to in subsec. (d), is section 20201 of Pub. L. 103–322, 108 Stat. 1819, which enacted subchapter XII–F (§3796ee et seq.) of chapter 46 of this title and amended sections 3791, 3793, and 3797 of this title.
 
-Section 50001, referred to in subsec. (d), is section 50001 of Pub. L. 103–322, 108 Stat. 1955, which enacted subchapter XII–J (§3796ii et seq.) of chapter 46 of this title and amended sections 3793 and 3797 of this title.
+Section 50001, referred to in subsec. (d), is section 50001 of Pub. L. 103–322, 108 Stat. 1955, which enacted former subchapter XII–J (§3796ii et seq.) of chapter 46 of this title and amended sections 3793 and 3797 of this title.
 
 Section 31101, referred to in subsec. (d), is section 31101 of Pub. L. 103–322, 108 Stat. 1882, which is set out as a note under section 13701 of this title.
 

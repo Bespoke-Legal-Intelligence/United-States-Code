@@ -2,9 +2,9 @@
 
 (a)(1) For the purposes of section 1110 of this title, and subject to section 1113 of this title—
 
-&emsp;(A) a disease specified in paragraph (2) of this subsection becoming manifest as specified in that paragraph in a veteran who, during active military, naval, or air service, served in the Republic of Vietnam during the Vietnam era; and
+&emsp;(A) a disease specified in paragraph (2) of this subsection becoming manifest as specified in that paragraph in a veteran who, during active military, naval, or air service, served in the Republic of Vietnam during the period beginning on January 9, 1962, and ending on May 7, 1975; and
 
-&emsp;(B) each additional disease (if any) that (i) the Secretary determines in regulations prescribed under this section warrants a presumption of service-connection by reason of having positive association with exposure to an herbicide agent, and (ii) becomes manifest within the period (if any) prescribed in such regulations in a veteran who, during active military, naval, or air service, served in the Republic of Vietnam during the Vietnam era and while so serving was exposed to that herbicide agent,
+&emsp;(B) each additional disease (if any) that (i) the Secretary determines in regulations prescribed under this section warrants a presumption of service-connection by reason of having positive association with exposure to an herbicide agent, and (ii) becomes manifest within the period (if any) prescribed in such regulations in a veteran who, during active military, naval, or air service, served in the Republic of Vietnam during the period beginning on January 9, 1962, and ending on May 7, 1975, and while so serving was exposed to that herbicide agent,
 
 > shall be considered to have been incurred in or aggravated by such service, notwithstanding that there is no record of evidence of such disease during the period of such service.
 
@@ -14,19 +14,19 @@
 
 &emsp;(B) Each soft-tissue sarcoma becoming manifest to a degree of disability of 10 percent or more other than osteosarcoma, chondrosarcoma, Kaposi's sarcoma, or mesothelioma.
 
-&emsp;(C) Chloracne or another acneform disease consistent with chloracne becoming manifest to a degree of disability of 10 percent or more within one year after the last date on which the veteran performed active military, naval, or air service in the Republic of Vietnam during the Vietnam era.
+&emsp;(C) Chloracne or another acneform disease consistent with chloracne becoming manifest to a degree of disability of 10 percent or more within one year after the last date on which the veteran performed active military, naval, or air service in the Republic of Vietnam during the period beginning on January 9, 1962, and ending on May 7, 1975.
 
 &emsp;(D) Hodgkin's disease becoming manifest to a degree of disability of 10 percent or more.
 
-&emsp;(E) Porphyria cutanea tarda becoming manifest to a degree of disability of 10 percent or more within a year after the last date on which the veteran performed active military, naval, or air service in the Republic of Vietnam during the Vietnam era.
+&emsp;(E) Porphyria cutanea tarda becoming manifest to a degree of disability of 10 percent or more within a year after the last date on which the veteran performed active military, naval, or air service in the Republic of Vietnam during the period beginning on January 9, 1962, and ending on May 7, 1975.
 
-&emsp;(F) Respiratory cancers (cancer of the lung, bronchus, larynx, or trachea) becoming manifest to a degree <sup>1</sup> of 10 percent or more within 30 years after the last date on which the veteran performed active military, naval, or air service in the Republic of Vietnam during the Vietnam era.
+&emsp;(F) Respiratory cancers (cancer of the lung, bronchus, larynx, or trachea) becoming manifest to a degree <sup>1</sup> of 10 percent or more within 30 years after the last date on which the veteran performed active military, naval, or air service in the Republic of Vietnam during the period beginning on January 9, 1962, and ending on May 7, 1975.
 
 &emsp;(G) Multiple myeloma becoming manifest to a degree of disability of 10 percent or more.
 
-(3) For the purposes of this subsection, a veteran who, during active military, naval, or air service, served in the Republic of Vietnam during the Vietnam era and has a disease referred to in paragraph (1)(B) of this subsection shall be presumed to have been exposed during such service to an herbicide agent containing dioxin or 2,4-dichlorophenoxyacetic acid, and may be presumed to have been exposed during such service to any other chemical compound in an herbicide agent, unless there is affirmative evidence to establish that the veteran was not exposed to any such agent during that service.
+(3) For the purposes of this subsection, a veteran who, during active military, naval, or air service, served in the Republic of Vietnam during the period beginning on January 9, 1962, and ending on May 7, 1975, and has a disease referred to in paragraph (1)(B) of this subsection shall be presumed to have been exposed during such service to an herbicide agent containing dioxin or 2,4-dichlorophenoxyacetic acid, and may be presumed to have been exposed during such service to any other chemical compound in an herbicide agent, unless there is affirmative evidence to establish that the veteran was not exposed to any such agent during that service.
 
-(4) For purposes of this section, the term “herbicide agent” means a chemical in an herbicide used in support of the United States and allied military operations in the Republic of Vietnam during the Vietnam era.
+(4) For purposes of this section, the term “herbicide agent” means a chemical in an herbicide used in support of the United States and allied military operations in the Republic of Vietnam during the period beginning on January 9, 1962, and ending on May 7, 1975.
 
 (b)(1) Whenever the Secretary determines, on the basis of sound medical and scientific evidence, that a positive association exists between (A) the exposure of humans to an herbicide agent, and (B) the occurrence of a disease in humans, the Secretary shall prescribe regulations providing that a presumption of service connection is warranted for that disease for the purposes of this section.
 
@@ -48,13 +48,23 @@
 
 (e) Subsections (b) through (d) shall cease to be effective 10 years after the first day of the fiscal year in which the National Academy of Sciences transmits to the Secretary the first report under section 3 of the Agent Orange Act of 1991.
 
-(Added Pub. L. 102–4, §2(a)(1), Feb. 6, 1991, 105 Stat. 11, §316; renumbered §1116 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–446, title V, §505, title XII, §1201(e)(6), Nov. 2, 1994, 108 Stat. 4664, 4685.)
+(Added Pub. L. 102–4, §2(a)(1), Feb. 6, 1991, 105 Stat. 11, §316; renumbered §1116 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–446, title V, §505, title XII, §1201(e)(6), Nov. 2, 1994, 108 Stat. 4664, 4685; Pub. L. 104–275, title V, §505(b), Oct. 9, 1996, 110 Stat. 3342.)
 
 #### References in Text
 
 Section 3 of the Agent Orange Act of 1991, referred to in subsecs. (b)(2), (c)(1)(A), and (e), is section 3 of Pub. L. 102–4, which is set out below.
 
 #### Amendments
+
+1996—Subsec. (a)(1)(A). Pub. L. 104–275, §505(b)(2), substituted “during the period beginning on January 9, 1962, and ending on May 7, 1975” for “during the Vietnam era”.
+
+Subsec. (a)(1)(B). Pub. L. 104–275, §505(b)(1), substituted “during the period beginning on January 9, 1962, and ending on May 7, 1975,” for “during the Vietnam era”.
+
+Subsec. (a)(2)(C), (E), (F). Pub. L. 104–275, §505(b)(2), substituted “during the period beginning on January 9, 1962, and ending on May 7, 1975” for “during the Vietnam era”.
+
+Subsec. (a)(3). Pub. L. 104–275, §505(b)(1), substituted “during the period beginning on January 9, 1962, and ending on May 7, 1975,” for “during the Vietnam era”.
+
+Subsec. (a)(4). Pub. L. 104–275, §505(b)(2), substituted “during the period beginning on January 9, 1962, and ending on May 7, 1975” for “during the Vietnam era”.
 
 1994—Subsec. (a)(1)(B). Pub. L. 103–446, §1201(e)(6), substituted “(i)” for “(1)” and “(ii)” for “(2)”.
 
@@ -63,6 +73,10 @@ Subsec. (a)(2)(D) to (G). Pub. L. 103–446, §505, added subpars. (D) to (G).
 1991—Pub. L. 102–83, §5(a), renumbered section 316 of this title as this section.
 
 Subsec. (a)(1). Pub. L. 102–83, §5(c)(1), substituted “1110” for “310” and “1113” for “313” in introductory provisions.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–275 effective Jan. 1, 1997, with no benefit to be paid or provided by reason of such amendment for any period before such date, see section 505(d) of Pub. L. 104–275, set out as a note under section 101 of this title.
 
 #### Agreement With National Academy of Sciences
 
@@ -228,7 +242,7 @@ Section 8 of Pub. L. 102–4 provided that:
 
 “(a)
 
-Establishment of Program.—Subject to subsections (e) and (f), the Secretary of Veterans Affairs shall establish a program to provide for the conduct of studies of the feasibility of conducting additional scientific research on—
+Establishment of Program.—Subject to subsections (e) and (f), the Secretary of Veterans Affairs shall establish a program to provide for the conduct ofstudies of the feasibility of conducting additional scientific research on—
 
 &emsp;“(1) health hazards resulting from exposure to dioxin;
 
@@ -324,7 +338,7 @@ Requirement for Epidemiological Study.—(1)(A) Except as provided in paragraph 
 
 “(B) The Administrator is not required to study any aspect of the matters described in paragraph (1) with respect to which a determination is made and a notice is submitted pursuant to subparagraph (A)(i).
 
-“(C) If the Administrator submits to the Congress notice of a determination made pursuant to subparagraph (A) that it is not scientifically feasible to conduct thestudy described in paragraph (1)(A), this section (effective as of the date of such notice) shall cease to have effect as if repealed by law.
+“(C) If the Administrator submits to the Congress notice of a determination made pursuant to subparagraph (A) that it is not scientifically feasible to conduct the study described in paragraph (1)(A), this section (effective as of the date of such notice) shall cease to have effect as if repealed by law.
 
 “(3) The Administrator shall provide for the study to be conducted through contracts or other agreements with private or public agencies or persons.
 

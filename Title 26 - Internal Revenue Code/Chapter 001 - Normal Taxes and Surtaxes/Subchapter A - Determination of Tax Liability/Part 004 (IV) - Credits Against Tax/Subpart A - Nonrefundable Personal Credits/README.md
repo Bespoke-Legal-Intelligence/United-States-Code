@@ -4,13 +4,16 @@ Subpart A—Nonrefundable Personal Credits
 | :--- | ---: |
 | [21\.](%C2%A7%2000021%20-%20Expenses%20for%20household%20and%20dependent%20care%20services%20necessary%20for%20gainful%20employment.md) | Expenses for household and dependent care services necessary for gainful employment. |
 | [22\.](%C2%A7%2000022%20-%20Credit%20for%20the%20elderly%20and%20the%20permanently%20and%20totally%20disabled.md) | Credit for the elderly and the permanently and totally disabled. |
-| \[23, 24. | Repealed.\] |
+| [23\.](%C2%A7%2000023%20-%20Adoption%20expenses.md) | Adoption expenses. |
+| \[24. | Repealed.\] |
 | [25\.](%C2%A7%2000025%20-%20Interest%20on%20certain%20home%20mortgages.md) | Interest on certain home mortgages. |
 | [26\.](%C2%A7%2000026%20-%20Limitation%20based%20on%20tax%20liability%3B%20definition%20of%20tax%20liability.md) | Limitation based on tax liability; definition of tax liability. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1996—Pub. L. 104–188, title I, §1807(c)(6), Aug. 20, 1996, 110 Stat. 1902, added item 23.
 
 1990—Pub. L. 101–508, title XI, §11801(b)(1), Nov. 5, 1990, 104 Stat. 1388–522, struck out item 23 “Residential energy credit”.
 
@@ -54,7 +57,7 @@ Pub. L. 94–12, title II, §§203(b)(1), 204(c), 208(d)(1), Mar. 29, 1975, 89 S
 
 #### Subpart Referred to in Other Sections
 
-This subpart is referred to in sections 28, 29, 30, 38, 42, 49, 50, 53, 904, 6401 of this title; title 12 section 1831q.
+This subpart is referred to in sections 29, 30, 38, 42, 49, 50, 53, 904, 6401 of this title; title 12 section 1831q.
 
 <i><sup>1</sup></i><i> Editorially supplied. Subpart G of part IV added by Pub. L. 99–514 without corresponding amendment of part analysis.</i>
 
@@ -65,7 +68,7 @@ This subpart is referred to in sections 28, 29, 30, 38, 42, 49, 50, 53, 904, 640
 
 - [&sect; 00021 - Expenses for household and dependent care services necessary for gainful employment](%C2%A7%2000021%20-%20Expenses%20for%20household%20and%20dependent%20care%20services%20necessary%20for%20gainful%20employment.md)
 - [&sect; 00022 - Credit for the elderly and the permanently and totally disabled](%C2%A7%2000022%20-%20Credit%20for%20the%20elderly%20and%20the%20permanently%20and%20totally%20disabled.md)
-- [&sect; 00023 - Repealed. Pub. L. 101&#8211;508, title XI, &sect;11801(a)(1), Nov. 5, 1990, 104 Stat. 1388&#8211;520](%C2%A7%2000023%20-%20Repealed.%20Pub.%20L.%20101%E2%80%93508%2C%20title%20XI%2C%20%C2%A711801%28a%29%281%29%2C%20Nov.%205%2C%201990%2C%20104%20Stat.%201388%E2%80%93520.md)
+- [&sect; 00023 - Adoption expenses](%C2%A7%2000023%20-%20Adoption%20expenses.md)
 - [&sect; 00024 - Repealed. Pub. L. 99&#8211;514, title I, &sect;112(a), Oct. 22, 1986, 100 Stat. 2108](%C2%A7%2000024%20-%20Repealed.%20Pub.%20L.%2099%E2%80%93514%2C%20title%20I%2C%20%C2%A7112%28a%29%2C%20Oct.%2022%2C%201986%2C%20100%20Stat.%202108.md)
 - [&sect; 00025 - Interest on certain home mortgages](%C2%A7%2000025%20-%20Interest%20on%20certain%20home%20mortgages.md)
 - [&sect; 00026 - Limitation based on tax liability; definition of tax liability](%C2%A7%2000026%20-%20Limitation%20based%20on%20tax%20liability%3B%20definition%20of%20tax%20liability.md)

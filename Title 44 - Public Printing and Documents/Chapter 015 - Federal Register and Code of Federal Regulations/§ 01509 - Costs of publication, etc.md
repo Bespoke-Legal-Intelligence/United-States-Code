@@ -14,7 +14,7 @@ A reference to section 10 of Act June 19, 1934 is deleted because of the repeal 
 
 #### Amendments
 
-1977—Pub. L. 95–94 substituted “Costs of publication, etc.” for “Cost of publication; appropriations authorized; penalty mail privilege” in section catchline, added subsec. (a), designated former first paragraph as subsec. (b) and inserted provision restricting coverage to the other publications of the Federal Register program and struck out provision requiring payments forthe Federal Register to be covered into the Treasury as miscellaneous receipts and former second paragraph relating to penalty mail privileges for the Federal Register.
+1977—Pub. L. 95–94 substituted “Costs of publication, etc.” for “Cost of publication; appropriations authorized; penalty mail privilege” in section catchline, added subsec. (a), designated former first paragraph as subsec. (b) and inserted provision restricting coverage to the other publications of the Federal Register program and struck out provision requiring payments for the Federal Register to be covered into the Treasury as miscellaneous receipts and former second paragraph relating to penalty mail privileges for the Federal Register.
 
 #### Effective Date of 1977 Amendment
 

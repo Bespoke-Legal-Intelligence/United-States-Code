@@ -98,7 +98,7 @@ The resignation, termination of employment or participation, or separation of an
 
 #### (B) Conviction of title 31 offenses
 
-&emsp;&emsp;If a national bank, a Federal branch, or a Federal agency is convicted of any criminaloffense under section 5322 or 5324 of title 31, after receiving written notification from the Attorney General, the Comptroller of the Currency may issue to the national bank, Federal branch, or Federal agency a notice of the Comptroller's intention to terminate all rights, privileges, and franchises of the bank, Federal branch, or Federal agency and schedule a pretermination hearing.
+&emsp;&emsp;If a national bank, a Federal branch, or a Federal agency is convicted of any criminal offense under section 5322 or 5324 of title 31, after receiving written notification from the Attorney General, the Comptroller of the Currency may issue to the national bank, Federal branch, or Federal agency a notice of the Comptroller's intention to terminate all rights, privileges, and franchises of the bank, Federal branch, or Federal agency and schedule a pretermination hearing.
 
 #### (C) Judicial review
 
@@ -130,7 +130,7 @@ The resignation, termination of employment or participation, or separation of an
 
 The Comptroller of the Currency may act in the Comptroller's own name and through the Comptroller's own attorneys in enforcing any provision of title 62 of the Revised Statutes, regulations thereunder, or any other law or regulation, or in any action, suit, or proceeding to which the Comptroller of the Currency is a party.
 
-(R.S. §5239; Mar. 3, 1911, ch. 231, §291, 36 Stat. 1167; Nov. 10, 1978, Pub. L. 95–630, title I, §103, 92 Stat. 3643; Oct. 15, 1982, Pub. L. 97–320, title IV, §424(d)(3), (f), (g), 96 Stat. 1523; Jan. 12, 1983, Pub. L. 97–457, §24, 96 Stat. 2510; Aug. 9, 1989, Pub. L. 101–73, title IX, §§905(e), 907(e), 103 Stat. 460, 469; Oct. 28, 1992, Pub. L. 102–550, title XV, §1502(a), 106 Stat. 4045; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330017(b)(2), 108 Stat. 2149; Sept. 23, 1994, Pub. L. 103–325, title III, §331(b)(3), title IV, §§411(c)(2)(C), 413(b)(2), 108 Stat. 2232, 2253, 2254.)
+(R.S. §5239; Mar. 3, 1911, ch. 231, §291, 36 Stat. 1167; Nov. 10, 1978, Pub. L. 95–630, title I, §103, 92 Stat. 3643; Oct. 15, 1982, Pub. L. 97–320, title IV, §424(d)(3), (f), (g), 96 Stat. 1523; Jan. 12, 1983, Pub. L. 97–457, §24, 96 Stat. 2510; Aug. 9, 1989, Pub. L. 101–73, title IX, §§905(e), 907(e), 103 Stat. 460, 469;Oct. 28, 1992, Pub. L. 102–550, title XV, §1502(a), 106 Stat. 4045; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330017(b)(2), 108 Stat. 2149; Sept. 23, 1994, Pub. L. 103–325, title III, §331(b)(3), title IV, §§411(c)(2)(C), 413(b)(2), 108 Stat. 2232, 2253, 2254.)
 
 #### References in Text
 
@@ -164,7 +164,7 @@ Subsec. (c). Pub. L. 101–73, §905(e), added subsec. (c) relating to notice af
 
 #### Effective Date of 1989 Amendment
 
-Section 907(<i>l</i>) of Pub. L. 101–73 provided that: “The amendments made by this section \[amending this section and sections 481, 504, 505, 1467a, 1786, 1817, 1818, 1828, 1847, and 1972 of this title\] shall apply with respect to conduct engaged in by any person after the date of the enactment of this Act \[Aug. 9, 1989\], except that the increased maximum civil penalties of $5,000 and $25,000per violation or per day may apply to such conduct engaged in before such date if such conduct—
+Section 907(<i>l</i>) of Pub. L. 101–73 provided that: “The amendments made by this section \[amending this section and sections 481, 504, 505, 1467a, 1786, 1817, 1818, 1828, 1847, and 1972 of this title\] shall apply with respect to conduct engaged in by any person after the date of the enactment of this Act \[Aug. 9, 1989\], except that the increased maximum civil penalties of $5,000 and $25,000 per violation or per day may apply to such conduct engaged in before such date if such conduct—
 
 &emsp;“(1) is not already subject to a notice (initiating an administrative proceeding) issued by the appropriate Federal banking agency (as defined in section 3(q) of the Federal Deposit Insurance Act \[12 U.S.C. 1813(q)\]) or the National Credit Union Administration Board; and
 

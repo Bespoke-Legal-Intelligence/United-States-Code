@@ -26,7 +26,7 @@ The Members of the Management Conference shall be comprised of—
 
 (1) The Management Conference shall, not later than one hundred and twenty days after November 16, 1990, appoint a Technical Advisory Committee.
 
-(2) Such Technical Advisory Committee shall consist of officials of: appropriate departmentsand agencies of the Federal Government; the State governments of New York and Vermont; and governments of political subdivisions of such States; and public and private research institutions.
+(2) Such Technical Advisory Committee shall consist of officials of: appropriate departments and agencies of the Federal Government; the State governments of New York and Vermont; and governments of political subdivisions of such States; and public and private research institutions.
 
 #### (d) Research program
 
@@ -40,7 +40,7 @@ The Members of the Management Conference shall be comprised of—
 
 &emsp;(A) identify corrective actions and compliance schedules addressing point and nonpoint sources of pollution necessary to restore and maintain the chemical, physical, and biological integrity of water quality, a balanced, indigenous population of shellfish, fish and wildlife, recreational, and economic activities in and on the lake;
 
-&emsp;(B) incorporate environmental management concepts and programs established in State and Federal plans and programs in effect at the time of the development of such plan;
+&emsp;(B) incorporate environmental management concepts and programs established in Stateand Federal plans and programs in effect at the time of the development of such plan;
 
 &emsp;(C) clarify the duties of Federal and State agencies in pollution prevention and control activities, and to the extent allowable by law, suggest a timetable for adoption by the appropriate Federal and State agencies to accomplish such duties within a reasonable period of time;
 
@@ -84,15 +84,15 @@ There are authorized to be appropriated to the Environmental Protection Agency t
 
 #### Federal Program Coordination
 
-Section 304 of Pub. L. 101–596 provided that:
+Section 304 of Pub. L. 101–596, as amended by Pub. L. 104–127, title III, §336(a)(2)(F), Apr. 4, 1996, 110 Stat. 1005, provided that:
 
 “(a)
 
-Designation of Lake Champlain as a Special Project Area Under the Agricultural Conservation Program.—
+Designation of Lake Champlain as a Priority Area Under the Environmental Quality Incentives Program.—
 
 &emsp;“(1)
 
-In general.—Notwithstanding any other provision of law, the Lake Champlain basin, as defined under section 120(h) of the Federal Water Pollution Control Act \[33 U.S.C. 1270(h)\], shall be designated by the Secretary of Agriculture as a special project area under the Agricultural Conservation Program established under section 8(b) of the Soil Conservation and Domestic Allotment Act (16 U.S.C. 590h(b)).
+In general.—Notwithstanding any other provision of law, the Lake Champlain basin, as defined under section 120(h) of the Federal Water Pollution Control Act \[33 U.S.C. 1270(h)\], shall be designated by the Secretary of Agriculture as a priority area under the environmental quality incentives program established under chapter 4 of subtitle D of title XII of the Food Security Act of 1985 \[16 U.S.C. 3839aa et seq.\].
 
 &emsp;“(2)
 
@@ -148,7 +148,7 @@ Resource conservation program.—The Secretary of the Interior, acting through t
 
 Authorizations.—(1) There is authorized to be appropriated to the Department of Agriculture $2,000,000 for each of fiscal years 1991, 1992, 1993, 1994, and 1995 to carry out subsection (a) of this section.
 
-“(2) There is authorized to be appropriated to the Department of Interior $1,000,000 for each of fiscal years 1991, 1992, 1993, 1994, and 1995 to carry out subsections (b) and (c) of this section.”
+“(2) There is authorized to be appropriated to the Department of \[the\] Interior $1,000,000 for each of fiscal years 1991, 1992, 1993, 1994, and 1995 to carry out subsections (b) and (c) of this section.”
 
 <i><sup>1</sup></i><i> So in original. Subsec. (d) enacted without a par. (2).</i>
 

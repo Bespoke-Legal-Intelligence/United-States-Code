@@ -26,7 +26,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 5 U.S.C. 84b.
 
@@ -50,11 +52,11 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-<b>1994</b>—Subsec. (d)(2). Pub. L. 103–337 substituted “section 10147” for “section 270(a)”.
+1994—Subsec. (d)(2). Pub. L. 103–337 substituted “section 10147” for “section 270(a)”.
 
-<b>1987</b>—Subsec. (d). Pub. L. 100–180 struck out “do not” before “include”.
+1987—Subsec. (d). Pub. L. 100–180 struck out “do not” before “include”.
 
-<b>1976</b>—Subsec. (a). Pub. L. 94–455, §1207(a)(1), (c), inserted in par. (1) provision relating to the grant to employers of the authority to withhold sums from the pay of employees if any employee voluntarily elects to have such sums withheld, inserted in par. (2) “or grants the authority” after “imposes the duty”, and substituted in text following par. (2) provisions that in the case of pay for service as a member of the armed forces, the preceding sentence shall be applied by substituting “who are residents of the State with which the agreement is made” for “whose regular place of Federal employment is within the State with which the agreement is made” for provision that the agreement may not apply to pay for service as a member of the armed forces.
+1976—Subsec. (a). Pub. L. 94–455, §1207(a)(1), (c), inserted in par. (1) provision relating to the grant to employers of the authority to withhold sums from the pay of employees if any employee voluntarily elects to have such sums withheld, inserted in par. (2) “or grants the authority” after “imposes the duty”, and substituted in text following par. (2) provisions that in the case of pay for service as a member of the armed forces, the preceding sentence shall be applied by substituting “who are residents of the State with which the agreement is made” for “whose regular place of Federal employment is within the State with which the agreement is made” for provision that the agreement may not apply to pay for service as a member of the armed forces.
 
 Subsec. (d). Pub. L. 94–455, §1207(b), added subsec. (d).
 

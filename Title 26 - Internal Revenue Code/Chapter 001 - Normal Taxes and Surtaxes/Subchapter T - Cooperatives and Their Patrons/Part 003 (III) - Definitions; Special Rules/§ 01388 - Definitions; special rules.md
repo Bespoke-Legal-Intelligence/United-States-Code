@@ -36,7 +36,7 @@ For purposes of this subchapter, the term “written notice of allocation” mea
 
 &emsp;&emsp;(B) obtaining or retaining membership in the organization after—
 
-&emsp;&emsp;&emsp;(i) such organization has adopted (after October 16, 1962) a bylaw providing that membership in the organization constitutes such consent, and
+&emsp;&emsp;&emsp;(i) such organization has adopted (after October 16, 1962) a bylaw providing thatmembership in the organization constitutes such consent, and
 
 &emsp;&emsp;&emsp;(ii) he has received a written notification and copy of such bylaw, or
 
@@ -54,7 +54,7 @@ For purposes of this subchapter, the term “written notice of allocation” mea
 
 #### (B) Revocation, etc.
 
-&emsp;&emsp;&emsp;(i) Any consent described in paragraph (2)(A) may be revoked (in writing) by the distributee at any time. Any such revocation shall be effective with respect to patronage occurring on or after the first dayof the first taxable year of the organization beginning after the revocation is filed with such organization; except that in the case of a pooling arrangement described in section 1382(e), a revocation made by a distributee shall not be effective as to any pool with respect to which the distributee has been a patron before such revocation.
+&emsp;&emsp;&emsp;(i) Any consent described in paragraph (2)(A) may be revoked (in writing) by the distributee at any time. Any such revocation shall be effective with respect to patronage occurring on or after the first day of the first taxable year of the organization beginning after the revocation is filed with such organization; except that in the case of a pooling arrangement described in section 1382(e), a revocation made by a distributee shall not be effective as to any pool with respect to which the distributee has been a patron before such revocation.
 
 &emsp;&emsp;&emsp;(ii) Any consent described in paragraph (2)(B) shall not be effective with respect to any patronage occurring (determined without the application of section 1382(e)) after the distributee ceases to be a member of the organization or after the bylaws of the organization cease to contain the provision described in paragraph (2)(B)(i).
 
@@ -118,7 +118,7 @@ For purposes of this subchapter, the term “per-unit retain certificate” mean
 
 #### (i) Nonqualified per-unit retain certificate
 
-For purposes of this subchapter, the term “nonqualified per-unit retain certificate” meansa per-unit retain certificate which is not described in subsection (h).
+For purposes of this subchapter, the term “nonqualified per-unit retain certificate” means a per-unit retain certificate which is not described in subsection (h).
 
 #### (j) Special rules for the netting of gains and losses by cooperatives
 
@@ -170,7 +170,7 @@ For purposes of this subchapter, in the case of any organization to which part I
 
 &emsp;For purposes of this subsection, the terms “patronage earnings” and “patronage losses” means earnings and losses, respectively, which are derived from business done with or for patrons of the organization.
 
-(Added Pub. L. 87–834, §17(a), Oct. 16, 1962, 76 Stat. 1049; amended Pub. L. 89–809, title II, §211(c), Nov. 13, 1966, 80 Stat. 1582; Pub. L. 91–172, title IX, §911(b), Dec. 30, 1969, 83 Stat. 722; Pub. L. 94–455, title XIX, §1901(a)(153), Oct. 4, 1976, 90 Stat. 1789; Pub. L. 95–600, title III, §316(b)(3), Nov. 6, 1978, 92 Stat. 2830; Pub. L. 99–272, title XIII, §13210(a), Apr. 7, 1986, 100 Stat. 323; Pub. L. 101–508, title XI, §11813(b)(24), Nov. 5, 1990, 104 Stat. 1388–555.)
+(Added Pub. L. 87–834, §17(a), Oct. 16, 1962, 76 Stat. 1049; amended Pub. L. 89–809, title II, §211(c), Nov. 13, 1966, 80 Stat. 1582; Pub. L. 91–172, title IX, §911(b), Dec. 30, 1969, 83 Stat. 722; Pub. L. 94–455, title XIX, §1901(a)(153), Oct. 4, 1976, 90Stat. 1789; Pub. L. 95–600, title III, §316(b)(3), Nov. 6, 1978, 92 Stat. 2830; Pub. L. 99–272, title XIII, §13210(a), Apr. 7, 1986, 100 Stat. 323; Pub. L. 101–508, title XI, §11813(b)(24), Nov. 5, 1990, 104 Stat. 1388–555.)
 
 #### References in Text
 
@@ -204,7 +204,7 @@ Section 13210(c) of Pub. L. 99–272 provided that:
 
 “(1)
 
-In general.—Except as provided in paragraph (2), the amendments made by this section \[amending thissection and section 521 of this title\] shall apply to taxable years beginning after December 31, 1962.
+In general.—Except as provided in paragraph (2), the amendments made by this section \[amending this section and section 521 of this title\] shall apply to taxable years beginning after December 31, 1962.
 
 “(2)
 

@@ -16,11 +16,11 @@ Amendment by Pub. L. 101–509 effective on such date as the President shall det
 
 Section effective Feb. 15, 1981, except that for purposes of implementing section 4151 of this title it is effective Oct. 17, 1980, see section 2403(a) and (d)(2) of Pub. L. 96–465, set out as an Effective Date note under section 3901 of this title.
 
-#### Adjustment of Foreign Service Schedule Effective for Pay Periods Beginning On or After January 1, 1996
+#### Adjustment of Foreign Service Schedule Effective for Pay Periods Beginning On or After January 1, 1997
 
-Ex. Ord. No. 12984, Dec. 28, 1995, 61 F.R. 237, set out as a note under section 5332 of Title 5, Government Organization and Employees, provided in part for an adjustment of the Foreign Service Schedule pay rates effective on the first day of the first applicable pay period beginning on or after Jan. 1, 1996. See Schedule set out as follows:
+Ex. Ord. No. 13033, Dec. 27, 1996, 61 F.R. 68987, set out as a note under section 5332 of Title 5, Government Organization and Employees, provided in part for an adjustment of the Foreign Service Schedule pay rates effective on the first day of the first applicable pay period beginning on or after Jan. 1, 1997. See Schedule set out as follows:
 
-Schedule 2<br><i>Foreign Service Schedule</i><br>(Effective on the first day of the first applicable pay period beginning on or after January 1, 1996)
+Schedule 2<br><i>Foreign Service Schedule</i><br>(Effective on the first day of the first applicable pay period beginning on or after January 1, 1997)
 
 Step
 
@@ -44,283 +44,283 @@ Class 9
 
 1
 
-$69,300
+$70,894
 
-$56,154
+$57,446
 
-$45,502
+$46,548
 
-$36,870
+$37,718
 
-$29,876
+$30,563
 
-$26,708
+$27,322
 
-$23,876
+$24,425
 
-$21,344
+$21,835
 
-$19,081
+$19,520
 
 2
 
-71,379
+73,021
 
-57,839
+59,169
 
-46,867
+47,944
 
-37,976
+38,850
 
-30,772
+31,480
 
-27,509
+28,142
 
-24,592
+25,158
 
-21,984
+22,490
 
-19,653
+20,106
 
 3
 
-73,520
+75,211
 
-59,574
+60,944
 
-48,273
+49,383
 
-39,115
+40,015
 
-31,695
+32,424
 
-28,335
+28,986
 
-25,330
+25,912
 
-22,644
+23,165
 
-20,243
+20,709
 
 4
 
-75,726
+77,468
 
-61,361
+62,773
 
-49,721
+50,864
 
-40,289
+41,215
 
-32,646
+33,397
 
-29,185
+29,855
 
-26,090
+26,690
 
-23,323
+23,860
 
-20,850
+21,330
 
 5
 
-77,998
+79,792
 
-63,202
+64,656
 
-51,213
+52,390
 
-41,498
+42,452
 
-33,626
+34,399
 
-30,060
+30,751
 
-26,873
+27,491
 
-24,023
+24,575
 
-21,476
+21,970
 
 6
 
-80,338
+82,186
 
-65,098
+66,596
 
-52,749
+53,962
 
-42,742
+43,725
 
-34,634
+35,431
 
-30,962
+31,674
 
-27,679
+28,315
 
-24,744
+25,313
 
-22,120
+22,629
 
 7
 
-82,748
+84,651
 
-67,051
+68,594
 
-54,332
+55,581
 
-44,025
+45,037
 
-35,674
+36,494
 
-31,891
+32,624
 
-28,509
+29,165
 
-25,486
+26,072
 
-22,784
+23,308
 
 8
 
-85,230
+87,191
 
-69,062
+70,651
 
-55,962
+57,248
 
-45,345
+46,388
 
-36,744
+37,589
 
-32,847
+33,603
 
-29,364
+30,040
 
-26,250
+26,854
 
-23,467
+24,007
 
 9
 
-87,787
+89,806
 
-71,134
+72,771
 
-57,641
+58,966
 
-46,706
+47,780
 
-37,846
+38,716
 
-33,833
+34,611
 
-30,245
+30,941
 
-27,038
+27,660
 
-24,171
+24,727
 
 10
 
-90,090
+92,161
 
-73,268
+74,954
 
-59,370
+60,735
 
-48,107
+49,213
 
-38,981
+39,878
 
-34,848
+35,649
 
-31,153
+31,869
 
-27,849
+28,490
 
-24,896
+25,469
 
 11
 
-90,090
+92,161
 
-75,466
+77,203
 
-61,151
+62,557
 
-49,550
+50,690
 
-40,151
+41,074
 
-35,893
+36,718
 
-32,087
+32,825
 
-28,685
+29,344
 
-25,643
+26,233
 
 12
 
-90,090
+92,161
 
-77,730
+79,519
 
-62,985
+64,433
 
-51,037
+52,211
 
-41,355
+42,306
 
-36,970
+37,820
 
-33,050
+33,810
 
-29,545
+30,225
 
-26,413
+27,020
 
 13
 
-90,090
+92,161
 
-80,062
+81,904
 
-64,875
+66,366
 
-52,568
+53,777
 
-42,596
+43,576
 
-38,079
+38,955
 
-34,041
+34,824
 
-30,431
+31,131
 
-27,205
+27,831
 
 14
 
-90,090
+92,161
 
-82,464
+84,361
 
-66,821
+68,357
 
-54,145
+55,390
 
-43,874
+44,883
 
-39,222
+40,123
 
-35,063
+35,869
 
-31,344
+32,065
 
-28,021
+28,666
 
 #### Executive Order No. 12249
 
@@ -372,7 +372,11 @@ Ex. Ord. No. 12826, Dec. 30, 1992, 57 F.R. 62909, which provided for adjustments
 
 #### Executive Order No. 12944
 
-Ex. Ord. No. 12944, Dec. 28, 1994, 60 F.R. 309, which provided for adjustments in the Foreign Service Schedule, was superseded by Ex. Ord. No. 12984, Dec. 28, 1995, 61 F.R. 237, set out as a note under section 5332 of Title 5.
+Ex. Ord. No. 12944, Dec. 28, 1994, 60 F.R. 309, which provided for adjustments in the Foreign Service Schedule, was superseded by Ex. Ord. No. 12984, Dec. 28, 1995, 61 F.R. 237, formerly set out as a note under section 5332 of Title 5.
+
+#### Executive Order No. 12984
+
+Ex. Ord. No. 12984, Dec. 28, 1995, 61 F.R. 237, which provided for adjustments in the Foreign Service Schedule, was superseded by Ex. Ord. No. 13033, Dec. 27, 1996, 61 F.R. 68987, set out as a note under section 5332 of Title 5.
 
 #### Section Referred to in Other Sections
 

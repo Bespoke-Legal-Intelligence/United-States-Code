@@ -62,7 +62,7 @@ For any taxable year the aggregate amount treated by the taxpayer by reason of t
 
 &emsp;&emsp;&emsp;(i) section 1244 stock was issued in exchange for property,
 
-&emsp;&emsp;&emsp;(ii) the basis of such stock in the hands of the taxpayer is determined by reference to the basis in his hands of such property, and
+&emsp;&emsp;&emsp;(ii) the basis of such stock in the hands of the taxpayer is determined by referenceto the basis in his hands of such property, and
 
 &emsp;&emsp;&emsp;(iii) the adjusted basis (for determining loss) of such property immediately before the exchange exceeded its fair market value at such time,
 
@@ -78,7 +78,7 @@ For any taxable year the aggregate amount treated by the taxpayer by reason of t
 
 #### (3) Relationship to net operating loss deduction
 
-&emsp;For purposes of section 172 (relating to the net operating loss deduction), any amount ofloss treated by reason of this section as an ordinary loss shall be treated as attributable to a trade or business of the taxpayer.
+&emsp;For purposes of section 172 (relating to the net operating loss deduction), any amount of loss treated by reason of this section as an ordinary loss shall be treated as attributable to a trade or business of the taxpayer.
 
 #### (4) Individual defined
 

@@ -16,7 +16,7 @@ Amendment by Pub. L. 99–514 applicable for purposes of determining interest fo
 
 #### Effective Date of 1975 Amendment
 
-Amendment by Pub. L. 93–625 effective July 1, 1975, and applicable to amounts outstanding on such date orarising thereafter, see section 7(e) of Pub. L. 93–625, set out as an Effective Date note under section 6621 of this title.
+Amendment by Pub. L. 93–625 effective July 1, 1975, and applicable to amounts outstanding on such date or arising thereafter, see section 7(e) of Pub. L. 93–625, set out as an Effective Date note under section 6621 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -92,7 +92,13 @@ COMMISSIONED OFFICERS
 
 (d)(1) In this section, the term “sea duty” means duty performed by a member—
 
-&emsp;(A) while permanently or temporarily assigned to a ship, ship-based staff, or ship-based aviation unit and while serving on a ship the primary mission of which is accomplished while under way or while serving as a member of the off-crew of a two-crewed submarine; or
+&emsp;(A) while permanently or temporarily assigned to a ship, ship-based staff, or ship-based aviation unit and—
+
+&emsp;&emsp;(i) while serving on a ship the primary mission of which is accomplished while under way;
+
+&emsp;&emsp;(ii) while serving as a member of the off-crew of a two-crewed submarine; or
+
+&emsp;&emsp;(iii) while serving as a member of a tender-class ship (with the hull classification of submarine or destroyer); or
 
 &emsp;(B) while permanently or temporarily assigned to a ship or ship-based staff and while serving on a ship the primary mission of which is normally accomplished while in port, but only during a period that the ship is away from its homeport.
 
@@ -104,9 +110,11 @@ COMMISSIONED OFFICERS
 
 &emsp;(B) in a port that is more than 50 miles from its homeport.
 
-(Added Pub. L. 95–485, title VIII, §804(a)(1), (2), Oct. 20, 1978, 92 Stat. 1620; amended Pub. L. 96–343, §3(a), (b), Sept. 8, 1980, 94 Stat. 1124; Pub. L. 96–579, §4(a), Dec. 23, 1980, 94 Stat. 3364; Pub. L. 97–60, title I, §116, Oct. 14, 1981, 95 Stat. 996; Pub. L. 97–295, §3(1), Oct. 12, 1982, 96 Stat. 1303; Pub. L. 98–525, title VI, §623(a), Oct. 19, 1984, 98 Stat. 2541; Pub. L. 99–145, title VI, §634(a), Nov. 8, 1985, 99 Stat. 647; Pub. L. 100–26, §8(e)(5), Apr. 21, 1987, 101 Stat. 286; Pub. L. 100–180, div. A, title VI, §621(a)–(c), Dec. 4, 1987, 101 Stat. 1097, 1099; Pub. L. 100–224, §5(a)(1), Dec. 30, 1987, 101 Stat. 1538; Pub. L. 100–456, div. A, title XII, §1233(b)(1), Sept. 29, 1988, 102 Stat. 2057; Pub. L. 101–189, div. A, title VI, §653(b), Nov. 29, 1989, 103 Stat. 1462; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–190, div. A, title XI, §1111(d)(3), Dec. 5, 1991, 105 Stat. 1492.)
+(Added Pub. L. 95–485, title VIII, §804(a)(1), (2), Oct. 20, 1978, 92 Stat. 1620; amended Pub. L. 96–343, §3(a), (b), Sept. 8, 1980, 94 Stat. 1124; Pub. L. 96–579, §4(a), Dec. 23, 1980, 94 Stat. 3364; Pub. L. 97–60, title I, §116, Oct. 14, 1981, 95 Stat. 996; Pub. L. 97–295, §3(1), Oct. 12, 1982, 96 Stat. 1303; Pub. L. 98–525, title VI, §623(a), Oct. 19, 1984, 98 Stat. 2541; Pub. L. 99–145, title VI, §634(a), Nov. 8, 1985, 99 Stat. 647; Pub. L. 100–26, §8(e)(5), Apr. 21, 1987, 101 Stat. 286; Pub. L. 100–180, div. A, title VI, §621(a)–(c), Dec. 4, 1987, 101 Stat. 1097, 1099; Pub. L. 100–224, §5(a)(1), Dec. 30, 1987, 101 Stat. 1538; Pub. L. 100–456, div. A, title XII, §1233(b)(1), Sept. 29, 1988, 102 Stat. 2057; Pub. L. 101–189, div. A, title VI, §653(b), Nov. 29, 1989, 103 Stat. 1462; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–190, div. A, title XI, §1111(d)(3), Dec. 5, 1991, 105 Stat. 1492; Pub. L. 104–106, div. A, title VI, §618, Feb. 10, 1996, 110 Stat. 362.)
 
 #### Amendments
+
+1996—Subsec. (d)(1)(A). Pub. L. 104–106 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “while permanently or temporarily assigned to a ship, ship-based staff, or ship-based aviation unit and while serving on a ship the primary mission of which is accomplished while under way or while serving as a member of the off-crew of a two-crewed submarine; or”.
 
 1991—Subsec. (a). Pub. L. 102–25 struck out “of this section” after “subsection (b)”.
 
@@ -174,7 +182,7 @@ Definitions.—For purposes of subsections (d) and (e):
 
 &emsp;“(2) The term ‘old rates’, with respect to career sea pay, means the rates of such pay in effect on the date of the enactment of this Act \[Dec. 4, 1987\].
 
-&emsp;“(3) The term ‘new rates’, with respect to career sea pay, means the rates of such pay provided by the amendment made by subsection (a) \[amending this section\].”
+&emsp;“(3) The term ‘new rates’, with respect to career sea pay, means the rates of such pay provided by theamendment made by subsection (a) \[amending this section\].”
 
 #### Effective Date of 1985 Amendment
 

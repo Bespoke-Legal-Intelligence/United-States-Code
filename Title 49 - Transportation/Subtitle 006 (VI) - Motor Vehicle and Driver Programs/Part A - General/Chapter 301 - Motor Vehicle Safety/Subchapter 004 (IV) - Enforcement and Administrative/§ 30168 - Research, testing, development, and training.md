@@ -22,7 +22,7 @@ Use of Public Agencies.—In carrying out this chapter, the Secretary shall use 
 
 (c)
 
-Facilities.—The Secretary may plan, design, and build a new facility or modify an existing facility to conduct research, development, and testing in traffic safety, highway safety, and motor vehicle safety. An expenditure of more than $100,000 for planning, design, or construction may be made only if the planning, design, or construction is approved by substantially similar resolutions by the Committees on Energy and Commerce and Public Works and Transportation of the House of Representatives and the Committees on Commerce, Science, and Transportation and Environment and Public Works of the Senate. To obtain that approval, the Secretary shall submit to Congress a prospectus on the proposed facility. The prospectus shall include—
+Facilities.—The Secretary may plan, design, and build a new facility or modify an existing facility to conduct research, development, and testing in traffic safety, highway safety, and motor vehicle safety. An expenditure of more than $100,000 for planning, design, or construction may be made only if the planning, design, or construction is approved by substantially similar resolutions by the Committees on Commerce and Transportation and Infrastructure of the House of Representatives and the Committees on Commerce, Science, and Transportation and Environment and Public Works of the Senate. To obtain that approval, the Secretary shall submit to Congress a prospectus on the proposed facility. The prospectus shall include—
 
 &emsp;(1) a brief description of the facility being planned, designed, or built;
 
@@ -42,11 +42,13 @@ Increasing Costs of Approved Facilities.—The estimated maximum cost of a facil
 
 Availability of Information, Patents, and Developments.—When the United States Government makes more than a minimal contribution to a research or development activity under this chapter, the Secretary shall include in the arrangement for the activity a provision to ensure that all information, patents, and developments related to the activity are available to the public. However, the owner of a background patent may not be deprived of a right under the patent.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 971.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 971; Pub. L. 104–287, §5(58), Oct. 11, 1996, 110 Stat. 3394.)
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -76,7 +78,7 @@ Sept. 9, 1966, Pub. L. 89–563, §301, 80 Stat. 729; restated May 22, 1970, Pub
 
 15:1395(c).
 
-In subsection (a)(1), before clause (A), the words “the purposes of” and “but not limited to” are omitted as surplus. In clause (A), before subclause (i), the words “from any source” are omitted as surplus. In clause\(B), the words “(by negotiation or otherwise)” and “purposes” are omitted as surplus. In clause (C), the word “crediting” is substituted for “reimbursing” because it is more appropriate. The words “of such sale or disposal” and “the purposes of” are omitted as surplus.
+In subsection (a)(1), before clause (A), the words “the purposes of” and “but not limited to” are omitted as surplus. In clause (A), before subclause (i), the words “from any source” are omitted as surplus. In clause (B), the words “(by negotiation or otherwise)” and “purposes” are omitted as surplus. In clause (C), the word “crediting” is substituted for “reimbursing” because it is more appropriate. The words “of such sale or disposal” and “the purposes of” are omitted as surplus.
 
 In subsection (a)(2), the words “conduct research, testing, development, and training as authorized to be . . . for the conduct of such research, testing, development, and training” are omitted as surplus. The word “authorities” is substituted for “agencies” for consistency.
 
@@ -88,9 +90,9 @@ In subsection (d), the words “if any” are omitted as surplus. The words “i
 
 In subsection (e), the words “United States Government” are substituted for “Federal” for consistency. The words “arrangement for the activity” are substituted for “contract, grant, or other arrangement for such research or development activity”, and the words “patents, and developments” are substituted for “uses, processes, patents, and other developments”, to eliminate unnecessary words. The words “encouraging motor vehicle safety”, “effective”, “fully and freely”, and “general” are omitted as surplus. The word “However” is added for clarity. The words “may not be” are substituted for “Nothing herein shall be construed to” for consistency. The words “which he may have” are omitted as surplus.
 
-#### Change of Name
+#### Amendments
 
-Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives and Committee on Public Works and Transportation of House of Representatives treated as referring to Committee on Transportation and Infrastructure of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+1996—Subsec. (c). Pub. L. 104–287 substituted “Committees on Commerce and Transportation and Infrastructure” for “Committees on Energy and Commerce and Public Works and Transportation”.
 
 #### Section Referred to in Other Sections
 

@@ -14,17 +14,25 @@ Congress finds that—
 
 &emsp;(5) the maintenance and expansion of markets for fluid milk products are vital to the Nation's fluid milk processors and milk producers, as well as to the general economy of the United States;
 
-&emsp;(6) the cooperative development, financing, and implementation of a coordinated program of advertising and promotion of fluid milk products is necessary to maintain and expand markets for fluid milk products;
+&emsp;(6) the congressional purpose underlying this chapter is to maintain and expand markets for fluid milk products, not to maintain or expand any processor's share of those markets and that the chapter does not prohibit or restrict individual advertising or promotion of fluid milk products since the programs created and funded by this chapter are not extended to replace individual advertising and promotion efforts;
 
-&emsp;(7) it is appropriate to finance the cooperative program described in paragraph (6) with self-help assessments paid by the fluid milk processors; and
+&emsp;(7) the cooperative development, financing, and implementation of a coordinated program of advertising and promotion of fluid milk products is necessary to maintain and expand markets for fluid milk products;
 
-&emsp;(8) fluid milk products move in interstate and foreign commerce, and fluid milk products that do not move in such channels of commerce directly burden or affect interstate commerce in fluid milk products.
+&emsp;(8) it is appropriate to finance the cooperative program described in paragraph (6) <sup>1</sup> with self-help assessments paid by the fluid milk processors; and
+
+&emsp;(9) fluid milk products move in interstate and foreign commerce, and fluid milk products that do not move in such channels of commerce directly burden or affect interstate commerce in fluid milk products.
 
 #### (b) Policy
 
-It is declared to be the policy of Congress that it is in the public interest to authorize the establishment, through the exercise of the powers provided in this chapter, of an orderly procedure for developing, financing (through adequate assessments on fluid milk products produced in the United States) and carrying out an effective and coordinated program of advertising designed to strengthen the position of the dairy industry in the marketplace and to maintain and expand markets and uses for fluid milk products produced in the United States. Nothing in this chapter shall be construed to provide for the control of production or otherwise limit the right of individual milk producers to produce milk.
+It is declared to be the policy of Congress that it is in the public interest to authorize the establishment, through the exercise of powers provided in this chapter, of an orderly procedure for developing, financing, through adequate assessments on fluid milk products produced in the United States and carrying out an effective, continuous, and coordinated program of promotion, research, and consumer information designed to strengthen the position of the dairy industry in the marketplace and maintain and expand domestic and foreign markets and uses for fluid milk products, the purpose of which is not to compete with or replace individual advertising or promotion efforts designed to promote individual brand name or trade name fluid milk products, but rather to maintain and expand the markets for all fluid milk products, with the goal and purpose of this chapter being a national governmental goal that authorizes and funds programs that result in government speech promoting government objectives.
 
-(Pub. L. 101–624, title XIX, §1999B, Nov. 28, 1990, 104 Stat. 3914.)
+(Pub. L. 101–624, title XIX, §1999B, Nov. 28, 1990, 104 Stat. 3914; Pub. L. 104–127, title I, §146(a), (b), Apr. 4, 1996, 110 Stat. 918.)
+
+#### Amendments
+
+1996—Subsec. (a)(6) to (9). Pub. L. 104–127, §146(a), added par. (6) and redesignated former pars. (6) to (8) as (7) to (9), respectively.
+
+Subsec. (b). Pub. L. 104–127, §146(b), amended heading and text of subsec. (b) generally. Text read as follows: “It is declared to be the policy of Congress that it is in the public interest to authorize the establishment, through the exercise of the powers provided in this chapter, of an orderly procedure for developing, financing (through adequate assessments on fluid milk products produced in the United States) and carrying out an effective and coordinated program of advertising designed to strengthen the position of the dairy industry in the marketplace and to maintain and expand markets and uses for fluid milk products produced in the United States. Nothing in this chapter shall be construed to provide for the control of production or otherwise limit the right of individual milk producers to produce milk.”
 
 #### Short Title of 1993 Amendment
 
@@ -37,4 +45,6 @@ Section 1999A of Pub. L. 101–624 provided that: “This subtitle \[subtitle H 
 #### Section Referred to in Other Sections
 
 This section is referred to in section 6403 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “(7)”.</i>
 

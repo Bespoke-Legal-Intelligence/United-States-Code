@@ -20,7 +20,7 @@
 
 &emsp;&emsp;(B) by the spouse of a living veteran or the surviving spouse of a deceased veteran for the last illness and burial of a child of such veteran;
 
-&emsp;(5) reimbursements of any kind for any casualty loss (as defined in regulations which the Secretary shall prescribe), but the amount excluded under this clause may not exceed thegreater of the fair market value or reasonable replacement value of the property involved at the time immediately preceding the loss;
+&emsp;(5) reimbursements of any kind for any casualty loss (as defined in regulations which the Secretary shall prescribe), but the amount excluded under this clause may not exceed the greater of the fair market value or reasonable replacement value of the property involved at the time immediately preceding the loss;
 
 &emsp;(6) profit realized from the disposition of real or personal property other than in the course of a business;
 
@@ -38,7 +38,7 @@
 
 (b) Where a fraction of a dollar is involved, annual income shall be fixed at the next lower dollar.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1134, §503; Pub. L. 86–211, §2(a), Aug. 29, 1959, 73 Stat. 432; Pub. L. 87–268, §1(b), Sept. 21, 1961, 75 Stat. 566; Pub. L. 88–664, §1, Oct. 13, 1964, 78 Stat. 1094; Pub. L. 90–77, title I, §103, Aug. 31, 1967, 81 Stat. 178; Pub. L. 91–588, §7, Dec. 24, 1970, 84 Stat. 1584; Pub. L. 92–198, §2, Dec. 15, 1971, 85 Stat. 664; Pub. L. 92–425, §6(2), Sept. 21, 1972, 86 Stat. 713; Pub. L. 94–169, title I, §§101(2)(A), 106(3)–(8), Dec. 23, 1975, 89 Stat. 1013, 1017; Pub. L. 95–588, title I, §102, Nov. 4, 1978, 92 Stat. 2497; Pub. L. 97–295, §4(13), Oct. 12, 1982, 96 Stat. 1305; Pub. L. 100–687, div. B, title XIV, §1402(b), Nov. 18, 1988, 102 Stat. 4130; Pub. L. 102–54, §14(b)(5), June 13, 1991, 105 Stat. 283; renumbered §1503 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1134, §503; Pub. L. 86–211, §2(a), Aug. 29, 1959, 73 Stat. 432; Pub. L. 87–268, §1(b), Sept. 21, 1961, 75 Stat. 566; Pub. L. 88–664, §1, Oct. 13, 1964, 78 Stat. 1094; Pub. L. 90–77, title I, §103, Aug. 31, 1967, 81 Stat. 178; Pub. L. 91–588, §7, Dec. 24, 1970, 84 Stat. 1584;Pub. L. 92–198, §2, Dec. 15, 1971, 85 Stat. 664; Pub. L. 92–425, §6(2), Sept. 21, 1972, 86 Stat. 713; Pub. L. 94–169, title I, §§101(2)(A), 106(3)–(8), Dec. 23, 1975, 89 Stat. 1013, 1017; Pub. L. 95–588, title I, §102, Nov. 4, 1978, 92 Stat. 2497; Pub. L. 97–295, §4(13), Oct. 12, 1982, 96 Stat. 1305; Pub. L. 100–687, div. B, title XIV, §1402(b), Nov. 18, 1988, 102 Stat. 4130; Pub. L. 102–54, §14(b)(5), June 13, 1991, 105 Stat. 283; renumbered §1503 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406.)
 
 #### References in Text
 
@@ -162,5 +162,5 @@ Amendment by Pub. L. 86–211 effective July 1, 1960, see section 10 of Pub. L. 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 111, 1710, 1712, 1722A of this title.
+This section is referred to in sections 111, 1710, 1722A of this title.
 

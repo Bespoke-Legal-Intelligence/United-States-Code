@@ -6,7 +6,7 @@ Each Indian tribe that is participating in the Tribal Self-Governance Demonstrat
 
 #### (b) Additional participants
 
-(1) In addition to those Indian tribes participating in Self-Governance under subsection (a) of this section, the Secretary, acting through the Director of the Office of Self-Governance, may select up to 20 new tribes per year from the applicant pool described in subsection (c) of this section to participate in Self-Governance.
+(1) In addition to those Indian tribes participating in self-governance under subsection (a) of this section, the Secretary, acting through the Director of the Office of Self-Governance, may select up to 50 new tribes per year from the applicant pool described in subsection (c) of this section to participate in self-governance.
 
 (2) If each tribe requests, two or more otherwise eligible Indian tribes may be treated as a single Indian tribe for the purpose of participating in Self-Governance as a consortium.
 
@@ -28,11 +28,15 @@ Each Indian tribe seeking to begin participation in Self-Governance shall comple
 
 &emsp;(2) internal tribal government planning and organizational preparation.
 
-(Pub. L. 93–638, title IV, §402, as added Pub. L. 103–413, title II, §204, Oct. 25, 1994, 108 Stat. 4272.)
+(Pub. L. 93–638, title IV, §402, as added Pub. L. 103–413, title II, §204, Oct. 25, 1994, 108 Stat. 4272; amended Pub. L. 104–208, div. A, title I, §101(d) \[title I, §117\], Sept. 30, 1996, 110 Stat. 3009–181, 3009–201.)
 
 #### References in Text
 
 Title III, referred to in subsec. (a), means title III of Pub. L. 93–638, as added by Pub. L. 100–472, title II, §209, Oct. 5, 1988, 102 Stat. 2296, which is set out as a note under section 450f of this title.
+
+#### Amendments
+
+1996—Subsec. (b)(1). Pub. L. 104–208 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “In addition to those Indian tribes participating in Self-Governance under subsection (a) of this section, the Secretary, acting through the Director of the Office of Self-Governance, may select up to 20 new tribes per year from the applicant pool described in subsection (c) of this section to participate in Self-Governance.”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

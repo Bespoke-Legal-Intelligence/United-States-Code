@@ -24,7 +24,7 @@ Whenever the Administrator receives an application under subsection (a) of this 
 
 #### (d) Confidential records and information
 
-Any information submitted to the Administrator pursuant to subsection (c) of this sectionother than the names of the pesticides or active ingredients used in producing pesticides produced, sold, or distributed at an establishment shall be considered confidential and shall be subject to the provisions of section 136h of this title.
+Any information submitted to the Administrator pursuant to subsection (c) of this section other than the names of the pesticides or active ingredients used in producing pesticides produced, sold, or distributed at an establishment shall be considered confidential and shall be subject to the provisions of section 136h of this title.
 
 (June 25, 1947, ch. 125, §7, as added Oct. 21, 1972, Pub. L. 92–516, §2, 86 Stat. 987; amended Sept. 30, 1978, Pub. L. 95–396, §13, 92 Stat. 829; Dec. 13, 1991, Pub. L. 102–237, title X, §1006(b)(1), (3)(F), (G), 105 Stat. 1895, 1896.)
 
@@ -52,5 +52,5 @@ For effective date of section, see section 4 of Pub. L. 92–516, set out as a n
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 136, 136j, 136<i>o</i>, 136w of this title.
+This section is referred to in sections 136, 136a, 136j, 136<i>o</i>, 136w of this title.
 

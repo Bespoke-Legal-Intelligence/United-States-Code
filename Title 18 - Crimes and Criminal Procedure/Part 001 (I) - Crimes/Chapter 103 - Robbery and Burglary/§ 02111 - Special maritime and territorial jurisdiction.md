@@ -16,6 +16,10 @@ Minor changes were made in phraseology.
 
 1994—Pub. L. 103–322 inserted “or attempts to take” after “takes”.
 
+#### Short Title of 1996 Amendment
+
+Pub. L. 104–217, §1, Oct. 1, 1996, 110 Stat. 3020, provided that: “This Act \[amending section 2119 of this title\] may be cited as the ‘Carjacking Correction Act of 1996’.”
+
 #### Cross References
 
 Actions aboard aircraft in special aircraft jurisdiction of United States in violation of this section punishable as provided herein, see section 46506 of Title 49, Transportation.

@@ -6,7 +6,7 @@ The Secretary is authorized and directed to transfer within two years after Augu
 
 #### (b) Removal of restrictions on sales or encumbrances; fee simple title
 
-All restrictions on the sale or encumbrance of trust or restricted land owned by members ofthe tribes (including allottees, purchasers, heirs, and devisees, either adult or minor) are removed two years after August 13, 1954 and the patents or deeds under which titles are then held shall pass the titles in fee simple, subject to any valid encumbrance. The titles to all interests in trust or restricted land acquired by members of the tribes by devise or inheritance two years or more after August 13, 1954 shall vest in such members in fee simple, subject to any valid encumbrance.
+All restrictions on the sale or encumbrance of trust or restricted land owned by members of the tribes (including allottees, purchasers, heirs, and devisees, either adult or minor) are removed two years after August 13, 1954 and the patents or deeds under which titles are then held shall pass the titles in fee simple, subject to any valid encumbrance. The titles to all interests in trust or restricted land acquired by members of the tribes by devise or inheritance two years or more after August 13, 1954 shall vest in such members in fee simple, subject to any valid encumbrance.
 
 #### (c) Multiple land ownership; partition; sale; election to purchase; unlocated owners
 

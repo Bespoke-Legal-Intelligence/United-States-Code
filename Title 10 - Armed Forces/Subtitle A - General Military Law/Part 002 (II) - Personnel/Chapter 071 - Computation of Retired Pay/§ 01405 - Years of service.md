@@ -20,9 +20,11 @@ Fractional Years of Service.—In determining a member's years of service under 
 
 (c)
 
-Exclusion of Time Required To Be Made Up.—Time required to be made up by an enlisted member of the Army or Air Force under section 972 of this title may not be counted in determining years of service under subsection (a).
+Exclusion of Time Required To Be Made Up or Excluded.—(1) Time required to be made up by an enlisted member of the Army or Air Force under section 972(a) of this title, or required to be made up by an enlisted member of the Navy, Marine Corps, or Coast Guard under that section with respect to a period of time after the date of the enactment of the National Defense Authorization Act for Fiscal Year 1995, may not be counted in determining years of service under subsection (a).
 
-(Added Pub. L. 85–422, §11(a)(1)(A), May 20, 1958, 72 Stat. 130; amended Pub. L. 85–861, §1(31A), Sept. 2, 1958, 72 Stat. 1451; Pub. L. 87–649, §6(f)(4), Sept. 7, 1962, 76 Stat. 494; Pub. L. 87–651, title I, §109, Sept. 7, 1962, 76 Stat. 509; Pub. L. 90–130, §1(7), Nov. 8, 1967, 81 Stat. 374; Pub. L. 96–513, title I, §113(b), Dec. 12, 1980, 94 Stat. 2877; Pub. L. 97–295, §1(17), Oct. 12, 1982, 96 Stat. 1290; Pub. L. 99–348, title I, §106, July 1, 1986, 100 Stat. 691; Pub. L. 103–337, div. A, title VI, §635(d), title XVI, §1662(j)(3), Oct. 5, 1994, 108 Stat. 2789, 3004.)
+(2) Section 972(b) of this title excludes from computation of an officer's years of service for purposes of this section any time identified with respect to that officer under that section.
+
+(Added Pub. L. 85–422, §11(a)(1)(A), May 20, 1958, 72 Stat. 130; amended Pub. L. 85–861, §1(31A), Sept. 2, 1958, 72 Stat. 1451; Pub. L. 87–649, §6(f)(4), Sept. 7, 1962, 76 Stat. 494; Pub. L. 87–651, title I, §109, Sept. 7, 1962, 76 Stat. 509; Pub. L. 90–130, §1(7), Nov. 8, 1967, 81 Stat. 374; Pub. L. 96–513, title I, §113(b), Dec. 12, 1980, 94 Stat. 2877; Pub. L. 97–295, §1(17), Oct. 12, 1982, 96 Stat. 1290; Pub. L. 99–348, title I, §106, July 1, 1986, 100 Stat. 691; Pub. L. 103–337, div. A, title VI, §635(d), title XVI, §1662(j)(3), Oct. 5, 1994, 108 Stat. 2789, 3004; Pub. L. 104–106, div. A, title V, §561(d)(1), Feb. 10, 1996, 110 Stat. 322; Pub. L. 104–201, div. A, title X, §1074(b)(1), Sept. 23, 1996, 110 Stat. 2660.)
 
 Historical and Revision Notes<br>1958
 
@@ -50,7 +52,13 @@ The change corrects a typographical error.
 
 This amends 10:1405 to correct an inadvertent error in the codification of title 10 in 1956 relating to retirement pay of warrant officers advanced on the retired list. Under provisions of law first enacted in 1948 through the codification of title 10 in 1956 and until 1965, warrant officers advanced on the retired list received credit for inactive service in the computation of retirement pay. The Comptroller General in 1965 (B–156576) held in effect that computation of such retirement pay was governed by the wording of new title 10 that based the computation on years of active service only even though this had the result of making a substantive change. The Armed Services Committee of the House of Representatives concurs that an error was made in the codification of title 10 and has indicated that corrective legislative action is properly a responsibility of the House Judiciary Committee. See, also, the amendments to 10:3992 and 8992 made by sections 1(40) and 1(52), respectively.
 
+#### References in Text
+
+The date of the enactment of the National Defense Authorization Act for Fiscal Year 1995, referred to in subsec. (c)(1), is the date of enactment of Pub. L. 103–337, which was approved Oct. 5, 1994.
+
 #### Amendments
+
+1996—Subsec. (c). Pub. L. 104–106, as amended by Pub. L. 104–201, substituted “Made Up or Excluded” for “Made Up” in heading, designated existing provisions as par. (1), substituted “section 972(a) of this title, or required to be made up by an enlisted member of the Navy, Marine Corps, or Coast Guard under that section with respect to a period of time after the date of the enactment of the National Defense Authorization Act for Fiscal Year 1995,” for “section 972 of this title”, and added par. (2).
 
 1994—Subsec. (a)(3). Pub. L. 103–337, §1662(j)(3), substituted “12733” for “1333” and “12731” for “1331”.
 
@@ -69,6 +77,10 @@ Subsec. (c). Pub. L. 103–337, §635(d), added subsec. (c).
 Pub. L. 87–649 substituted “section 205(a)(7) and (8) of title 37” for “section 233(a)(7) of title 37” in cl. (2).
 
 1958—Pub. L. 85–861 inserted references to sections 6323(e) and 6391(h) of this title.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–106 effective Feb. 10, 1996, and applicable to any period of time covered by section 972 of this title that occurs after that date, see section 561(e) of Pub. L. 104–106, set out as a note under section 972 of this title.
 
 #### Effective Date of 1994 Amendment
 
@@ -96,7 +108,7 @@ Section effective June 1, 1958, see section 9 of Pub. L. 85–422.
 
 #### Transition Provisions Under Defense Officer Personnel Management Act
 
-For provisions to prevent extinction or premature termination of rights, duties, penalties, or proceedingsthat existed or were begun prior to the effective date of Pub. L. 96–513 and otherwise to allow for an orderly transition to the system of officer personnel management put in place under Pub. L. 96–513, see section 601 et seq. of Pub. L. 96–513, set out as a note under section 611 of this title.
+For provisions to prevent extinction or premature termination of rights, duties, penalties, or proceedings that existed or were begun prior to the effective date of Pub. L. 96–513 and otherwise to allow for an orderly transition to the system of officer personnel management put in place under Pub. L. 96–513, see section 601 et seq. of Pub. L. 96–513, set out as a note under section 611 of this title.
 
 #### Section Referred to in Other Sections
 

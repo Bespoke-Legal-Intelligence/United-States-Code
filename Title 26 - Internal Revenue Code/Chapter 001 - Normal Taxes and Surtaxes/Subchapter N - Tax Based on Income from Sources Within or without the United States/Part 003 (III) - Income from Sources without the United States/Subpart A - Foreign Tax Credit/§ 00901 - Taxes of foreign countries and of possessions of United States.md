@@ -18,7 +18,7 @@ Subject to the limitation of section 904, the following amounts shall be allowed
 
 #### (3) Alien resident of the United States or Puerto Rico
 
-&emsp;In the case of an alien resident of the United States and in the case of an alien individualwho is a bona fide resident of Puerto Rico during the entire taxable year, the amount of any such taxes paid or accrued during the taxable year to any foreign country; and
+&emsp;In the case of an alien resident of the United States and in the case of an alien individual who is a bona fide resident of Puerto Rico during the entire taxable year, the amount of any such taxes paid or accrued during the taxable year to any foreign country; and
 
 #### (4) Nonresident alien individuals and foreign corporations
 
@@ -26,7 +26,7 @@ Subject to the limitation of section 904, the following amounts shall be allowed
 
 #### (5) Partnerships and estates
 
-&emsp;In the case of any individual described in paragraph (1), (2), (3), or (4), who is a member of a partnership or a beneficiary of an estate or trust, the amount of his proportionate share of the taxes (described in such paragraph) of the partnership or the estate or trust paid or accrued during the taxable year to a foreign country or to any possession of the United States, as the case may be.
+&emsp;In the case of any individual described in paragraph (1), (2), (3), or (4), who is a member of a partnership or a beneficiary of an estate or trust, the amount of his proportionate share of the taxes (described in such paragraph) of the partnership or the estate or trust paid or accrued during the taxable year to a foreign country or to any possession of the United States, as the case may be. Under rules or regulations prescribed by the Secretary, in the case of any foreign trust of which the settlor or another person would be treated as owner of any portion of the trust under subpart E but for section 672(f), the allocable amount of any income, war profits, and excess profits taxes imposed by any foreign country or possession of the United States on the settlor or such other person in respect of trust income.
 
 #### (c) Similar credit required for certain alien residents
 
@@ -34,7 +34,7 @@ Whenever the President finds that—
 
 &emsp;(1) a foreign country, in imposing income, war profits, and excess profits taxes, does not allow to citizens of the United States residing in such foreign country a credit for any such taxes paid or accrued to the United States or any foreign country, as the case may be, similar to the credit allowed under subsection (b)(3),
 
-&emsp;(2) such foreign country, when requested by the United States to do so, has not acted to provide such a similar credit to citizens of the United States residing in such foreign country, and
+&emsp;(2) such foreign country, when requested by the United States to do so, has not acted to provide such a similar credit to citizens of theUnited States residing in such foreign country, and
 
 &emsp;(3) it is in the public interest to allow the credit under subsection (b)(3) to citizens or subjects of such foreign country only if it allows such a similar credit to citizens of the United States residing in such foreign country,
 
@@ -86,7 +86,7 @@ Notwithstanding subsection (b) and sections 902 and 960, the amount of any incom
 
 #### (2) Possessions corporation
 
-&emsp;For purposes of paragraph (1), a corporation shall be treated as a possessions corporationfor any period during which an election under section 936 applied to such corporation, during which section 931 (as in effect on the day before the date of the enactment of the Tax Reform Act of 1976) applied to such corporation, or during which section 957(c) (as in effect on the day before the date of the enactment of the Tax Reform Act of 1986) applied to such corporation.
+&emsp;For purposes of paragraph (1), a corporation shall be treated as a possessions corporation for any period during which an election under section 936 applied to such corporation, during which section 931 (as in effect on the day before the date of the enactment of the Tax Reform Act of 1976) applied to such corporation, or during which section 957(c) (as in effect on the day before the date of the enactment of the Tax Reform Act of 1986) applied to such corporation.
 
 #### (h) Taxes paid with respect to foreign trade income
 
@@ -154,7 +154,7 @@ Any income, war profits, or excess profits tax shall not be treated as a tax for
 
 &emsp;&emsp;<b>(4) For reduction of credit for failure of a United States person to furnish certain information with respect to a foreign corporation controlled by him, see section 6038.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 285; Sept. 14, 1960, Pub. L. 86–780, §3(a), (b), 74 Stat. 1013; Oct. 16, 1962, Pub. L. 87–834, §§9(d)(3), 12(b)(1), 76 Stat. 1001, 1031; Feb. 26, 1964, Pub. L. 88–272, title II, §207(b)(7), 78 Stat. 42; Apr. 8, 1966, Pub. L. 89–384, §1(c)(2), 80 Stat. 102; Nov. 13, 1966, Pub. L. 89–809, title I, §106(a)(4), (5), (b)(1), (2), 80 Stat. 1569; Dec. 30, 1969, Pub. L. 91–172, title III, §301(b)(9), title V, §506(a), 83 Stat. 585, 634; Dec. 10, 1971, Pub. L. 92–178, title V, §502(b)(1), 85 Stat. 549; Sept. 2, 1974, Pub. L. 93–406, title II, §§2001(g)(2)(C), 2002(g)(3), 2005(c)(5), 88 Stat. 957, 968, 991; Mar. 29, 1975, Pub. L. 94–12, title VI, §601(b), 89 Stat. 57; Oct. 4, 1976, Pub. L. 94–455, title X, §§1031(b)(1), 1051(d), title XIX, §1901(b)(1)(H)(iii), (37)(A), 90 Stat. 1622, 1645, 1791, 1803; Nov. 6, 1978, Pub. L. 95–600, title VII, §701(u)(1)(A), (B), 92 Stat. 2912; Sept. 3, 1982, Pub. L. 97–248, title II, §201(d)(8)(A), formerly §201(c)(8)(A), §265(b)(2)(A)(iv), 96 Stat. 420, 547, renumbered §201(d)(8)(A), Jan. 12, 1983, Pub. L. 97–448, title III, §306(a)(1)(A)(i), 96 Stat. 2400; July 18, 1984, Pub. L. 98–369, div. A, title IV, §474(r)(20), title VI, §612(e)(1), title VII, §713(c)(1)(C), title VIII, §801(d)(1), 98 Stat. 843, 912, 957, 995; Oct. 21, 1986, Pub. L. 99–509, title VIII, §8041(a), 100 Stat. 1962; Oct. 22, 1986, Pub. L.99–514, title I, §112(b)(3), title XII, §1204(a), title XVIII, §1876(p)(2), 100 Stat. 2109, 2532, 2902; Dec. 22, 1987, Pub. L. 100–203, title X, §10231(a), (b), 101 Stat. 1330–418, 1330–419; Nov. 10, 1988, Pub. L. 100–647, title I, §1012(j), title II, §2003(c)(1), 102 Stat. 3512, 3598; Nov. 23, 1993, Pub. L. 103–149, §4(b)(8)(A), 107 Stat. 1505.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 285; Sept. 14, 1960, Pub. L. 86–780, §3(a), (b), 74 Stat. 1013; Oct. 16, 1962, Pub. L. 87–834, §§9(d)(3), 12(b)(1), 76 Stat. 1001, 1031; Feb. 26, 1964, Pub. L. 88–272, title II, §207(b)(7), 78 Stat. 42; Apr. 8, 1966, Pub. L. 89–384, §1(c)(2), 80 Stat. 102; Nov. 13, 1966, Pub. L. 89–809, title I, §106(a)(4), (5), (b)(1), (2), 80 Stat. 1569; Dec. 30, 1969, Pub. L. 91–172, title III, §301(b)(9), title V, §506(a), 83 Stat. 585, 634; Dec. 10, 1971, Pub. L. 92–178, title V, §502(b)(1), 85 Stat. 549; Sept. 2, 1974, Pub. L. 93–406, title II, §§2001(g)(2)(C), 2002(g)(3), 2005(c)(5), 88 Stat. 957, 968, 991; Mar. 29, 1975, Pub. L. 94–12, title VI, §601(b), 89 Stat. 57; Oct. 4, 1976, Pub. L. 94–455, title X, §§1031(b)(1), 1051(d), title XIX, §1901(b)(1)(H)(iii), (37)(A), 90 Stat. 1622, 1645, 1791, 1803; Nov. 6, 1978, Pub. L. 95–600, title VII, §701(u)(1)(A), (B), 92 Stat. 2912; Sept. 3, 1982, Pub. L. 97–248, title II, §201(d)(8)(A), formerly §201(c)(8)(A), §265(b)(2)(A)(iv), 96 Stat. 420, 547, renumbered §201(d)(8)(A), Jan. 12, 1983, Pub. L. 97–448, title III, §306(a)(1)(A)(i), 96 Stat. 2400; July 18, 1984, Pub. L. 98–369, div. A, title IV, §474(r)(20), title VI, §612(e)(1), title VII, §713(c)(1)(C), title VIII, §801(d)(1), 98 Stat. 843, 912, 957, 995; Oct. 21, 1986, Pub. L. 99–509, title VIII, §8041(a), 100 Stat. 1962; Oct. 22, 1986, Pub. L. 99–514, title I, §112(b)(3), title XII, §1204(a), title XVIII, §1876(p)(2), 100 Stat. 2109, 2532, 2902; Dec. 22, 1987, Pub. L. 100–203, title X, §10231(a), (b), 101 Stat. 1330–418, 1330–419; Nov. 10, 1988, Pub. L. 100–647, title I, §1012(j), title II, §2003(c)(1), 102 Stat. 3512, 3598; Nov. 23, 1993, Pub. L. 103–149, §4(b)(8)(A), 107 Stat. 1505; Aug. 20, 1996, Pub. L. 104–188, title I, §1904(b)(2), 110 Stat. 1912.)
 
 #### References in Text
 
@@ -167,6 +167,8 @@ The Arms Export Control Act, referred to in subsec. (j)(2)(A)(i), is Pub. L. 90�
 Section 6(j) of the Export Administration Act of 1979, referred to in subsec. (j)(2)(A)(iv), is classified to section 2405(j) of Title 50, Appendix, War and National Defense.
 
 #### Amendments
+
+1996—Subsec. (b)(5). Pub. L. 104–188 inserted at end “Under rules or regulations prescribed by the Secretary, in the case of any foreign trust of which the settlor or another person would be treated as owner of any portion of the trust under subpart E but for section 672(f), the allocable amount of any income, war profits, and excess profits taxes imposed by any foreign country or possession of the United States on the settlor or such other person in respect of trust income.”
 
 1993—Subsec. (j)(2)(C). Pub. L. 103–149 struck out heading and text of subpar. (C). Text read as follows:
 
@@ -236,7 +238,7 @@ Subsecs. (e), (f). Pub. L. 91–172, §506(a), added subsec. (e) and redesignate
 
 1966—Subsec. (a). Pub. L. 89–384 added the additional tax imposed under section 1351 (relating to recoveries of foreign expropriation losses) to the list of taxes against which the foreign tax credit may not be allowed.
 
-Subsec. (b)(3). Pub. L. 89–809, §106(b)(1), struck out provisions which made the allowance of the credit dependent upon whether the foreign country of which the alien resident was a citizen or subject, in imposing suchtaxes, allowed a similar credit to citizens of the United States residing in such country.
+Subsec. (b)(3). Pub. L. 89–809, §106(b)(1), struck out provisions which made the allowance of the credit dependent upon whether the foreign country of which the alien resident was a citizen or subject, in imposing such taxes, allowed a similar credit to citizens of the United States residing in such country.
 
 Subsec. (b)(4), (5). Pub. L. 89–809, §106(a)(4), (5), added par. (4), redesignated former par. (4) as (5) and inserted reference to par. (4).
 
@@ -251,6 +253,10 @@ Subsec. (d)(4). Pub. L. 87–834, §9(d)(3), added par. (4).
 1960—Subsec. (a). Pub. L. 86–780, §3(a), (b), inserted “applicable” before “limitation” and substituted “Such choice for any taxable year may be made or changed at any time before the expiration of the period prescribed for making a claim for credit or refund of the tax imposed by this chapter for such taxable year” for “Such choice may be made or changed at any time prior to the expiration of the period prescribed for making a claim for credit or refund of the tax against which the credit is allowable.”
 
 Subsec. (b). Pub. L. 86–780, §3(b), inserted “applicable” before “limitation”.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–188 effective Aug. 20, 1996, with exception for certain trusts, see section 1904(d) of Pub. L. 104–188, set out as a note under section 643 of this title.
 
 #### Effective Date of 1988 Amendment
 
@@ -324,7 +330,7 @@ Section 506(c) of Pub. L. 91–172 provided that: “The amendments made by this
 
 #### Effective Date of 1966 Amendments
 
-Amendment by section 106(a)(4), (5) of Pub. L. 89–809 applicable with respect to taxable years beginning after Dec. 31, 1966, see section 106(a)(6) of Pub. L. 89–809, set out as a note under section 874 of this title.
+Amendment by section 106(a)(4), (5) of Pub. L. 89–809 applicable with respect to taxable years beginning afterDec. 31, 1966, see section 106(a)(6) of Pub. L. 89–809, set out as a note under section 874 of this title.
 
 Section 106(b)(4) of Pub. L. 89–809 provided that: “The amendments made by this subsection (other than paragraph (3)) \[amending this section\] shall apply with respect to taxable years beginning after December 31, 1966. The amendment made by paragraph (3) \[amending section 2014 of this title\] shall apply with respect to estates of decedents dying after the date of enactment of this Act \[Nov. 13, 1966\].”
 
@@ -372,5 +378,5 @@ Taxes of foreign countries and possessions of the United States, see sections 27
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 27, 245, 275, 515, 642, 702, 703, 841, 853, 861, 874, 882, 904, 905, 906, 907, 908, 952, 960, 1247, 1291, 1363, 6038, 6511 of this title.
+This section is referred to in sections 27, 243, 245, 275, 515, 642, 702, 703, 841, 853, 861, 874, 882, 904, 905, 906, 907, 908, 952, 960, 1247, 1291, 1363, 6038, 6511 of this title.
 

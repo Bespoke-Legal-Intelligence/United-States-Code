@@ -36,7 +36,7 @@ At least once during every 2-year period, the Secretary shall prepare and submit
 
 &emsp;(11) the information contained in the documents entitled “Program Information Report” and “Head Start Cost Analyses System” (or any document similar to either), prepared with respect to Head Start programs;
 
-&emsp;(12) a description of the types of services provided to children and their families, bothon-site and through referrals, including health, mental health, dental care, parenting education, physical fitness, and literacy training;
+&emsp;(12) a description of the types of services provided to children and their families, both on-site and through referrals, including health, mental health, dental care, parenting education, physical fitness, and literacy training;
 
 &emsp;(13) a summary of information concerning the research, demonstration, and evaluation activities conducted under section 9844 of this title, including—
 
@@ -72,7 +72,7 @@ Subsec. (g). Pub. L. 101–501, §119, added subsec. (g).
 
 #### Change of Name
 
-Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Economic and Educational Opportunities of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Fifth Congress, Jan. 7, 1997.
 
 #### Effective Date of 1994 Amendment
 

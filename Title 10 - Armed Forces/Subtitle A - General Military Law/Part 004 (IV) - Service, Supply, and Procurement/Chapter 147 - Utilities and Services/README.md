@@ -3,7 +3,8 @@
 | Sec. |  |
 | :--- | ---: |
 | [2481\.](%C2%A7%2002481%20-%20Utilities%20and%20services%20sale%3B%20expansion%20and%20extension%20of%20systems%20and%20facilities.md) | Utilities and services: sale; expansion and extension of systems and facilities. |
-| [2482\.](%C2%A7%2002482%20-%20Commissary%20stores%20private%20operation.md) | Commissary stores: private operation. |
+| [2482\.](%C2%A7%2002482%20-%20Commissary%20stores%20operation.md) | Commissary stores: operation. |
+| [2482a.](%C2%A7%2002482a%20-%20Nonappropriated%20fund%20instrumentalities%20contracts%20with%20other%20agencies%20and%20instrumentalities%20to%20provide%20and%20obtain%20goods%20and%20services.md) | Nonappropriated fund instrumentalities: contracts with other agencies and instrumentalities to provide and obtain goods and services. |
 | [2483\.](%C2%A7%2002483%20-%20Sale%20of%20electricity%20from%20alternate%20energy%20and%20cogeneration%20production%20facilities.md) | Sale of electricity from alternate energy and cogeneration production facilities. |
 | [2484\.](%C2%A7%2002484%20-%20Commissary%20stores%20expenses.md) | Commissary stores: expenses. |
 | [2485\.](%C2%A7%2002485%20-%20Donation%20of%20unusable%20food%20commissary%20stores%20and%20other%20activities.md) | Donation of unusable food: commissary stores and other activities. |
@@ -11,12 +12,17 @@
 | [2487\.](%C2%A7%2002487%20-%20Commissary%20stores%20limitations%20on%20release%20of%20sales%20information.md) | Commissary stores: limitations on release of sales information. |
 | [2488\.](%C2%A7%2002488%20-%20Nonappropriated%20fund%20instrumentalities%20purchase%20of%20alcoholic%20beverages.md) | Nonappropriated fund instrumentalities: purchase of alcoholic beverages. |
 | [2489\.](%C2%A7%2002489%20-%20Overseas%20package%20stores%20treatment%20of%20United%20States%20wines.md) | Overseas package stores: treatment of United States wines. |
+| [2489a.](%C2%A7%2002489a%20-%20Sale%20or%20rental%20of%20sexually%20explicit%20material%20prohibited.md) | Sale or rental of sexually explicit material prohibited. |
 | [2490\.](%C2%A7%2002490%20-%20Utility%20services%20furnishing%20for%20certain%20buildings.md) | Utility services: furnishing for certain buildings. |
-| \[2490a. | Renumbered.\] |
+| [2490a.](%C2%A7%2002490a%20-%20Combined%20exchange%20and%20commissary%20stores.md) | Combined exchange and commissary stores. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1996—Pub. L. 104–201, div. A, title III, §§341(a)(2), 343(a)(2), Sept. 23, 1996, 110 Stat. 2489, 2490, added items 2482a and 2489a.
+
+Pub. L. 104–106, div. A, title III, §§331(b), 336(a)(2), Feb. 10, 1996, 110 Stat. 260, 264, substituted “Commissary stores: operation” for “Commissary stores: private operation” in item 2482 and added item 2490a.
 
 1993—Pub. L. 103–160, div. A, title XI, §1182(a)(8)(B), Nov. 30, 1993, 107 Stat. 1771, struck out item 2490a “Nonappropriated fund instrumentalities: financial management and use of nonappropriated funds”.
 
@@ -46,17 +52,14 @@ Particular provisions relating to—
 
 Property records, basis and reports, see section 2721 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be followed by “by”.</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be followed by “of”.</i>
-
 
 ---
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
 - [&sect; 02481 - Utilities and services sale; expansion and extension of systems and facilities](%C2%A7%2002481%20-%20Utilities%20and%20services%20sale%3B%20expansion%20and%20extension%20of%20systems%20and%20facilities.md)
-- [&sect; 02482 - Commissary stores private operation](%C2%A7%2002482%20-%20Commissary%20stores%20private%20operation.md)
+- [&sect; 02482 - Commissary stores operation](%C2%A7%2002482%20-%20Commissary%20stores%20operation.md)
+- [&sect; 02482a - Nonappropriated fund instrumentalities contracts with other agencies and instrumentalities to provide and obtain goods and services](%C2%A7%2002482a%20-%20Nonappropriated%20fund%20instrumentalities%20contracts%20with%20other%20agencies%20and%20instrumentalities%20to%20provide%20and%20obtain%20goods%20and%20services.md)
 - [&sect; 02483 - Sale of electricity from alternate energy and cogeneration production facilities](%C2%A7%2002483%20-%20Sale%20of%20electricity%20from%20alternate%20energy%20and%20cogeneration%20production%20facilities.md)
 - [&sect; 02484 - Commissary stores expenses](%C2%A7%2002484%20-%20Commissary%20stores%20expenses.md)
 - [&sect; 02485 - Donation of unusable food commissary stores and other activities](%C2%A7%2002485%20-%20Donation%20of%20unusable%20food%20commissary%20stores%20and%20other%20activities.md)
@@ -64,5 +67,6 @@ Property records, basis and reports, see section 2721 of this title.
 - [&sect; 02487 - Commissary stores limitations on release of sales information](%C2%A7%2002487%20-%20Commissary%20stores%20limitations%20on%20release%20of%20sales%20information.md)
 - [&sect; 02488 - Nonappropriated fund instrumentalities purchase of alcoholic beverages](%C2%A7%2002488%20-%20Nonappropriated%20fund%20instrumentalities%20purchase%20of%20alcoholic%20beverages.md)
 - [&sect; 02489 - Overseas package stores treatment of United States wines](%C2%A7%2002489%20-%20Overseas%20package%20stores%20treatment%20of%20United%20States%20wines.md)
+- [&sect; 02489a - Sale or rental of sexually explicit material prohibited](%C2%A7%2002489a%20-%20Sale%20or%20rental%20of%20sexually%20explicit%20material%20prohibited.md)
 - [&sect; 02490 - Utility services furnishing for certain buildings](%C2%A7%2002490%20-%20Utility%20services%20furnishing%20for%20certain%20buildings.md)
-- [&sect; 02490a - Renumbered &sect;2783](%C2%A7%2002490a%20-%20Renumbered%20%C2%A72783.md)
+- [&sect; 02490a - Combined exchange and commissary stores](%C2%A7%2002490a%20-%20Combined%20exchange%20and%20commissary%20stores.md)

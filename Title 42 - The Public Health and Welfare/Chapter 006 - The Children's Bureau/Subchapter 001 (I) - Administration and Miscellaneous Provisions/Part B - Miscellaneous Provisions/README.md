@@ -23,3 +23,4 @@ This part was classified to subchapter XXV (§300aaa et seq.) of this chapter pr
 - [&sect; 00238k - Contract authority](%C2%A7%2000238k%20-%20Contract%20authority.md)
 - [&sect; 00238l - Recovery](%C2%A7%2000238l%20-%20Recovery.md)
 - [&sect; 00238m - Use of fiscal agents](%C2%A7%2000238m%20-%20Use%20of%20fiscal%20agents.md)
+- [&sect; 00238n - Abortion-related discrimination in governmental activities regarding training and licensing of physicians](%C2%A7%2000238n%20-%20Abortion-related%20discrimination%20in%20governmental%20activities%20regarding%20training%20and%20licensing%20of%20physicians.md)

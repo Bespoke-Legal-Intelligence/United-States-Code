@@ -24,7 +24,7 @@ The Secretary and the Secretary of the Department in which the Coast Guard is op
 
 #### (d) Investigation and report on major fires, oil spills, death, or serious injury
 
-(1) The Secretary or the Secretary of the Department in which the Coast Guard is operatingshall make an investigation and public report on each major fire and each major oil spillage occurring as a result of operations conducted pursuant to this subchapter, and may, in his discretion, make an investigation and report of lesser oil spillages. For purposes of this subsection, a major oil spillage is any spillage in one instance of more than two hundred barrels of oil during a period of thirty days. All holders of leases or permits issued or maintained under this subchapter shall cooperate with the appropriate Secretary in the course of any such investigation.
+(1) The Secretary or the Secretary of the Department in which the Coast Guard is operating shall make an investigation and public report on each major fire and each major oil spillage occurring as a result of operations conducted pursuant to this subchapter, and may, in his discretion, make an investigation and report of lesser oil spillages. For purposes of this subsection, a major oil spillage is any spillage in one instance of more than two hundred barrels of oil during a period of thirty days. All holders of leases or permits issued or maintained under this subchapter shall cooperate with the appropriate Secretary in the course of any such investigation.
 
 (2) The Secretary or the Secretary of the Department in which the Coast Guard is operating shall make an investigation and public report on any death or serious injury occurring as a result of operations conducted pursuant to this subchapter, and may, in his discretion, make an investigation and report of any injury. For purposes of this subsection, a serious injury is one resulting in substantial impairment of any bodily unit or function. All holders of leases or permits issued or maintained under this subchapter shall cooperate with the appropriate Secretary in the course of any such investigation.
 
@@ -38,7 +38,7 @@ In any investigation conducted pursuant to this section, the Secretary or the Se
 
 #### (g) Report to Congress of violations and action taken
 
-The Secretary shall, after consultation with the Secretary of the Department in which the Coast Guard is operating, include in his annual report to the Congress required by section 1343 of this title the number of violations of safety regulations reported or alleged, any investigations undertaken, the results of such investigations, and any administrative or judicial action taken as a result of such investigations, and the results of the diving studies conducted under section 1347(e) of this title.
+The Secretary shall, after consultation with the Secretary of the Department in which theCoast Guard is operating, include in his annual report to the Congress required by section 1343 of this title the number of violations of safety regulations reported or alleged, any investigations undertaken, the results of such investigations, and any administrative or judicial action taken as a result of such investigations, and the results of the diving studies conducted under section 1347(e) of this title.
 
 (Aug. 7, 1953, ch. 345, §22, as added Sept. 18, 1978, Pub. L. 95–372, title II, §208, 92 Stat. 655.)
 

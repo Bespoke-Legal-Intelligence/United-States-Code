@@ -70,7 +70,7 @@
 
 &emsp;&emsp;(i) with respect to any matter that is not covered by the contingency plan, an Onsite Coordinator shall use his or her best professional judgment; and
 
-&emsp;&emsp;(ii) the contingency plan may be temporarily modified by an Onsite Coordinator, consulting as expeditiously as possible with the Secretary, the Secretary of the Interior, and the unusual mortality event working group.
+&emsp;&emsp;(ii) the contingency plan may be temporarily modified by an Onsite Coordinator, consulting as expeditiously as possible withthe Secretary, the Secretary of the Interior, and the unusual mortality event working group.
 
 &emsp;(B) An Onsite Coordinator may delegate to any qualified person authority to act as an Onsite Coordinator under this subchapter.
 

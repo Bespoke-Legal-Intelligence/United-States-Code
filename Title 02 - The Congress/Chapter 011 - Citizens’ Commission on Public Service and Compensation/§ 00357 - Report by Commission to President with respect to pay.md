@@ -2,7 +2,7 @@
 
 The Commission shall submit to the President a report of the results of each review conducted by the Commission with respect to rates of pay for the offices and positions within the purview of subparagraphs (A), (B), (C), and (D) of section 356 of this title, together with its recommendations. Each such report shall be submitted on such date as the President may designate but not later than December 15 next following the close of the fiscal year in which the review is conducted by the Commission.
 
-(Pub. L. 90–206, title II, §225(g), Dec. 16, 1967, 81 Stat. 644; Pub. L. 99–190, §135(c), Dec. 19, 1985, 99Stat. 1322; Pub. L. 101–194, title VII, §701(e), Nov. 30, 1989, 103 Stat. 1764.)
+(Pub. L. 90–206, title II, §225(g), Dec. 16, 1967, 81 Stat. 644; Pub. L. 99–190, §135(c), Dec. 19, 1985, 99 Stat. 1322; Pub. L. 101–194, title VII, §701(e), Nov. 30, 1989, 103 Stat. 1764.)
 
 #### Amendments
 
@@ -12,7 +12,7 @@ The Commission shall submit to the President a report of the results of each rev
 
 #### 1985 Fiscal Year Recommendations on Pay Rates of Offices and Positions
 
-Section 135(g) of Pub. L. 99–190 provided that: “Notwithstanding section 225(g) of such Act (2 U.S.C. 357), the Commission on Executive, Legislative, and Judicial Salaries shall not make recommendations on the rates of pay of offices and positions within the purview of subparagraphs (A), (B), (C), and (D) of section 225(f) of such Act (2 U.S.C. 356) in connection with the review of rates of pay of such offices and positions conducted by the Commission in fiscal year 1985.”
+Section 135(g) of Pub. L. 99–190 provided that: “Notwithstanding section 225(g) of such Act (2 U.S.C. 357), the Commission on Executive, Legislative, and JudicialSalaries shall not make recommendations on the rates of pay of offices and positions within the purview of subparagraphs (A), (B), (C), and (D) of section 225(f) of such Act (2 U.S.C. 356) in connection with the review of rates of pay of such offices and positions conducted by the Commission in fiscal year 1985.”
 
 #### Section Referred to in Other Sections
 

@@ -8,7 +8,7 @@
 
 &emsp;(3) Such information or guidelines relating to the needs of the armed force concerned for warrant officers having particular skills, including guidelines or information relating to the need for either a minimum number or a maximum number of officers with particular skills within a grade or competitive category, as the Secretary concerned determines to be relevant in relation to the requirements of that armed force.
 
-(b) From each promotion zone for a grade (or grade and competitive category), the selectionboard shall recommend for promotion to the next higher warrant officer grade those warrant officers whom it considers best qualified for promotion, but no more than the number specified by the Secretary concerned.
+(b) From each promotion zone for a grade (or grade and competitive category), the selection board shall recommend for promotion to the next higher warrant officer grade those warrant officers whom it considers best qualified for promotion, but no more than the number specified by the Secretary concerned.
 
 (c) The names of warrant officers selected for promotion under this section shall be arranged in the board's report in order of the seniority on the warrant officer active-duty list.
 
@@ -16,7 +16,7 @@
 
 (e) The report of the selection board shall be submitted to the Secretary concerned. The Secretary may approve or disapprove all or part of the report.
 
-(f)(1) Upon receipt of the report of a selection board submitted to him under subsection (e), the Secretary concerned shall review the report to determine whether the board has acted contrary to law or regulation or to guidelines furnished the board under this section.
+(f)(1) Upon receipt of the report of a selection board submitted to him under subsection (e), the Secretary concerned shall review the report todetermine whether the board has acted contrary to law or regulation or to guidelines furnished the board under this section.
 
 (2) If, on the basis of a review of the report under paragraph (1), the Secretary concerned determines that the board acted contrary to law or regulation or to guidelines furnished the board under this section, the Secretary shall return the report, together with a written explanation of the basis for such determination, to the board for further proceedings. Upon receipt of a report returned by the Secretary concerned under this paragraph, the selection board (or a subsequent selection board convened under section 573 of this title for the same grade and competitive category) shall conduct such proceedings as may be necessary in order to revise the report to be consistent with law, regulation, and such guidelines and shall resubmit the report, as revised, to the Secretary in accordance with subsection (e).
 

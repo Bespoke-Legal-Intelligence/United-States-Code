@@ -6,7 +6,7 @@ The responsible party for—
 
 &emsp;(1) any vessel over 300 gross tons (except a non-self-propelled vessel that does not carry oil as cargo or fuel) using any place subject to the jurisdiction of the United States; or
 
-&emsp;(2) any vessel using the waters of the exclusive economic zone to transship or lighter oildestined for a place subject to the jurisdiction of the United States;
+&emsp;(2) any vessel using the waters of the exclusive economic zone to transship or lighter oil destined for a place subject to the jurisdiction of the United States;
 
 > shall establish and maintain, in accordance with regulations promulgated by the Secretary, evidence of financial responsibility sufficient to meet the maximum amount of liability to which the responsible party could be subjected under section 2704(a) or (d) of this title, in a case where the responsible party would be entitled to limit liability under that section. If the responsible party owns or operates more than one vessel, evidence of financial responsibility need be established only to meet the amount of the maximum liability applicable to the vessel having the greatest maximum liability.
 
@@ -34,7 +34,39 @@ The responsible party for—
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), each responsible party with respect to an offshore facility shall establish and maintain evidence of financial responsibility of $150,000,000 to meet the amount of liability to which the responsible party could be subjected under section 2704(a) of this title in a case in which the responsible party would be entitled to limit liability under that section. In a case in which a person is the responsible party for more than one facility subject to this subsection, evidence of financial responsibility need be established only to meet the maximum liability applicable to the facility having the greatest maximum liability.
+#### (A) Evidence of financial responsibility required
+
+&emsp;&emsp;Except as provided in paragraph (2), a responsible party with respect to an offshore facility that—
+
+&emsp;&emsp;&emsp;(i)(I) is located seaward of the line of ordinary low water along that portion of the coast that is in direct contact with the open sea and the line marking the seaward limit of inland waters; or
+
+&emsp;&emsp;&emsp;(II) is located in coastal inland waters, such as bays or estuaries, seaward of the line of ordinary low water along that portion of the coast that is not in direct contact with the open sea;
+
+&emsp;&emsp;&emsp;(ii) is used for exploring for, drilling for, producing, or transporting oil from facilities engaged in oil exploration, drilling, or production; and
+
+&emsp;&emsp;&emsp;(iii) has a worst-case oil spill discharge potential of more than 1,000 barrels of oil (or a lesser amount if the President determines that the risks posed by such facility justify it),
+
+> &emsp;&emsp;shall establish and maintain evidence of financial responsibility in the amount required under subparagraph (B) or (C), as applicable.
+
+#### (B) Amount required generally
+
+&emsp;&emsp;Except as provided in subparagraph (C), the amount of financial responsibility foroffshore facilities that meet the criteria of subparagraph (A) is—
+
+&emsp;&emsp;&emsp;(i) $35,000,000 for an offshore facility located seaward of the seaward boundary of a State; or
+
+&emsp;&emsp;&emsp;(ii) $10,000,000 for an offshore facility located landward of the seaward boundary of a State.
+
+#### (C) Greater amount
+
+&emsp;&emsp;If the President determines that an amount of financial responsibility for a responsible party greater than the amount required by subparagraph (B) is justified based on the relative operational, environmental, human health, and other risks posed by the quantity or quality of oil that is explored for, drilled for, produced, or transported by the responsible party, the evidence of financial responsibility required shall be for an amount determined by the President not exceeding $150,000,000.
+
+#### (D) Multiple facilities
+
+&emsp;&emsp;In a case in which a person is a responsible party for more than one facility subject to this subsection, evidence of financial responsibility need be established only to meet the amount applicable to the facility having the greatest financial responsibility requirement under this subsection.
+
+#### (E) Definition
+
+&emsp;&emsp;For the purpose of this paragraph, the seaward boundary of a State shall be determined in accordance with section 1301(b) of title 43.
 
 #### (2) Deepwater ports
 
@@ -46,11 +78,35 @@ Financial responsibility under this section may be established by any one, or by
 
 #### (f) Claims against guarantor
 
-Any claim for which liability may be established under section 2702 of this title may be asserted directly against any guarantor providing evidence of financial responsibility for a responsible party liable under that section for removal costs and damages to which the claim pertains. In defending against such a claim, the guarantor may invoke (1) all rights and defenses which would be available to the responsible party under this Act, (2) any defense authorized under subsection (e) of this section, and (3) the defense that the incident was caused by the willful misconduct of the responsible party. The guarantor may not invoke any other defense that might be available in proceedings brought by the responsible party against the guarantor.
+#### (1) In general
+
+&emsp;Subject to paragraph (2), a claim for which liability may be established under section 2702 of this title may be asserted directly against any guarantor providing evidence of financial responsibility for a responsible party liable under that section for removal costs and damages to which the claim pertains. In defending against such a claim, the guarantor may invoke—
+
+&emsp;&emsp;(A) all rights and defenses which would be available to the responsible party under this Act;
+
+&emsp;&emsp;(B) any defense authorized under subsection (e) of this section; and
+
+&emsp;&emsp;(C) the defense that the incident was caused by the willful misconduct of the responsible party.
+
+> &emsp;The guarantor may not invoke any other defense that might be available in proceedings brought by the responsible party against the guarantor.
+
+#### (2) Further requirement
+
+&emsp;A claim may be asserted pursuant to paragraph (1) directly against a guarantor providing evidence of financial responsibility under subsection (c)(1) of this section with respect to an offshore facility only if—
+
+&emsp;&emsp;(A) the responsible party for whom evidence of financial responsibility has been provided has denied or failed to pay a claim under this Act on the basis of being insolvent, as defined under section 101(32) of title 11, and applying generally accepted accounting principles;
+
+&emsp;&emsp;(B) the responsible party for whom evidence of financial responsibility has been provided has filed a petition for bankruptcy under title 11; or
+
+&emsp;&emsp;(C) the claim is asserted by the United States for removal costs and damages or for compensation paid by the Fund under this Act, including costs incurred by the Fund for processing compensation claims.
+
+#### (3) Rulemaking authority
+
+&emsp;Not later than 1 year after October 19, 1996, the President shall promulgate regulations to establish a process for implementing paragraph (2) in a manner that will allow for the orderly and expeditious presentation and resolution of claims and effectuate the purposes of this Act.
 
 #### (g) Limitation on guarantor's liability
 
-Nothing in this Act shall impose liability with respect to an incident on any guarantor for damages or removal costs which exceed, in the aggregate, the amount of financial responsibility required under this Act which that guarantor has provided for a responsible party.
+Nothing in this Act shall impose liability with respect to an incident on any guarantor for damages or removal costs which exceed, in the aggregate, the amount of financial responsibility which that guarantor has provided for a responsible party pursuant to this section. The total liability of the guarantor on direct action forclaims brought under this Act with respect to an incident shall be limited to that amount.
 
 #### (h) Continuation of regulations
 
@@ -60,7 +116,7 @@ Any regulation relating to financial responsibility, which has been issued pursu
 
 The Secretary may issue a single unified certificate of financial responsibility for purposes of this Act and any other law.
 
-(Pub. L. 101–380, title I, §1016, Aug. 18, 1990, 104 Stat. 502; Pub. L. 104–55, §2(d)(2), Nov. 20, 1995, 109 Stat. 547.)
+(Pub. L. 101–380, title I, §1016, Aug. 18, 1990, 104 Stat. 502; Pub. L. 104–55, §2(d)(2), Nov. 20, 1995, 109 Stat. 547; Pub. L. 104–324, title XI, §1125(a), Oct. 19, 1996, 110 Stat. 3981.)
 
 #### References in Text
 
@@ -70,7 +126,17 @@ The effective date of this Act, referred to in subsec. (h), is the effective dat
 
 #### Amendments
 
+1996—Subsec. (c)(1). Pub. L. 104–324, §1125(a)(1), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Except as provided in paragraph (2), each responsible party with respect to an offshore facility shall establish and maintain evidence of financial responsibility of $150,000,000 to meet the amount of liability to which the responsible party could be subjected under section 2704(a) of this title in a case in which the responsible party would be entitled to limit liability under that section. In a case in which a person is the responsible party for more than one facility subject to this subsection, evidence of financial responsibility need be established only to meet the maximum liability applicable to the facility having the greatest maximum liability.”
+
+Subsec. (f). Pub. L. 104–324, §1125(a)(2), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Any claim for which liability may be established under section 2702 of this title may be asserted directly against any guarantor providing evidence of financial responsibility for a responsible party liable under that section for removal costs and damages to which the claim pertains. In defending against such a claim, the guarantor may invoke (1) all rights and defenses which would be available to the responsible party under this Act, (2) any defense authorized under subsection (e) of this section, and (3) the defense that the incident was caused by the willful misconduct of the responsible party. The guarantor may not invoke any other defense that might be available in proceedings brought by the responsible party against the guarantor.”
+
+Subsec. (g). Pub. L. 104–324, §1125(a)(3), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Nothing in this Act shall impose liability with respect to an incident on any guarantor for damages or removal costs which exceed, in the aggregate, the amount of financial responsibility required under this Act which that guarantor has provided for a responsible party.”
+
 1995—Subsec. (a). Pub. L. 104–55 substituted “the responsible party could be subjected under section 2704(a) or (d) of this title” for “, in the case of a tank vessel, the responsible party could be subject under section 2704(a)(1) or (d) of this title, or to which, in the case of any other vessel, the responsible party could be subjected under section 2704(a)(2) or (d) of this title”.
+
+#### Effective Date of 1996 Amendment
+
+Section 1125(b) of Pub. L. 104–324 provided that: “The amendment made by subsection (a)(2) \[amending this section\] shall not apply to any final rule issued before the date of enactment of this section \[Oct. 19, 1996\].”
 
 #### Delegation of Functions
 

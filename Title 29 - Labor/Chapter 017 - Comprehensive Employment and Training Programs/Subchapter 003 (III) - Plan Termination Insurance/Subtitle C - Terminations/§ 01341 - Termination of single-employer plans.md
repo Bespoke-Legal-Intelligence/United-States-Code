@@ -168,7 +168,7 @@
 
 &emsp;&emsp;&emsp;The requirements of this clause are met by a person if—
 
-&emsp;&emsp;&emsp;&emsp;(I) such person has filed or has had filed against such person, as of the proposed termination date, a petition seeking liquidation in a case under title 11 or under any similar Federal law or law of a State or political subdivision of a State (or a case described in clause (ii) filed by or against such person has been converted, as of such date, to a case in which liquidation is sought), and
+&emsp;&emsp;&emsp;&emsp;(I) such person has filed or has had filed against such person, as of the proposed termination date, a petition seeking liquidation in a case under title 11 or under any similar Federal law or law ofa State or political subdivision of a State (or a case described in clause (ii) filed by or against such person has been converted, as of such date, to a case in which liquidation is sought), and
 
 &emsp;&emsp;&emsp;&emsp;(II) such case has not, as of the proposed termination date, been dismissed.
 
@@ -228,7 +228,7 @@
 
 #### (i) Finding with respect to benefit liabilities which are not guaranteed benefits
 
-&emsp;&emsp;&emsp;If, after the plan administrator has begun to terminate the plan as authorized under subparagraph (B)(i), the plan administrator finds that the plan is unable, or will be unable, to pay benefit liabilities which are not benefits guaranteed by the corporation under section 1322 of this title, the plan administrator shall notify the corporation of such finding as soon as practicable thereafter.
+&emsp;&emsp;&emsp;If, after the plan administrator has begun to terminate the plan as authorizedunder subparagraph (B)(i), the plan administrator finds that the plan is unable, or will be unable, to pay benefit liabilities which are not benefits guaranteed by the corporation under section 1322 of this title, the plan administrator shall notify the corporation of such finding as soon as practicable thereafter.
 
 #### (ii) Finding with respect to guaranteed benefits
 
@@ -370,7 +370,7 @@ Subsec. (c)(3)(B)(ii). Pub. L. 100–203, §9313(a)(2)(D), substituted in headin
 
 Pub. L. 100–203, §9312(c)(1), struck out former subcl. (I) designation and substituted comma for dash before “the plan administrator”, substituted period for “, and” after “termination of the plan”, and struck out former subcl. (II) which read as follows: “the corporation shall establish a separate trust in connection with the plan for purposes of section 1349 of this title.”
 
-Subsec. (c)(3)(B)(iii). Pub. L. 100–203, §9312(c)(2), struck out former subcl. (I) designation and substituted comma for dash before “the corporation shall commence”, substituted period for “, and” after “section 1342 of this title”, and struck out former subcl. (II) which read as follows: “the corporation shall establish a separate trust in connection with the plan for purposes of section 1349 of this title unless the corporation determines that all benefit commitments under the plan are benefits guaranteed by the corporation under section 1322 of this title.”
+Subsec. (c)(3)(B)(iii). Pub. L. 100–203, §9312(c)(2), struck out former subcl. (I) designation and substituted comma for dash before “the corporation shall commence”, substituted period for “, and” after “section 1342 of this title”, and struck out former subcl. (II) which read as follows: “the corporation shall establish a separate trust in connection with the plan for purposes of section 1349 of this title unless the corporationdetermines that all benefit commitments under the plan are benefits guaranteed by the corporation under section 1322 of this title.”
 
 Subsec. (c)(3)(C)(i). Pub. L. 100–203, §9313(a)(2)(D), substituted in heading and text “benefit liabilities” for “benefit commitments”.
 
@@ -398,7 +398,7 @@ Subsec. (g). Pub. L. 96–364, §403(d)(3), struck out subsec. (g) which related
 
 #### Effective Date of 1994 Amendment
 
-Amendment by section 776(b)(3) of Pub. L. 103–465 effective with respect to distributions that occur in planyears commencing on or after Jan. 1, 1996, see section 776(e) of Pub. L. 103–465, set out as a note under section 1056 of this title.
+Amendment by section 776(b)(3) of Pub. L. 103–465 effective with respect to distributions that occur in plan years commencing on or after Jan. 1, 1996, see section 776(e) of Pub. L. 103–465, set out as a note under section 1056 of this title.
 
 Section 778(a)(2) of Pub. L. 103–465 provided that: “The amendments made by this subsection \[amending this section\] shall apply to any plan termination under section 4041(b) of the Employee Retirement Income Security Act of 1974 \[subsec. (b) of this section\] with respect to which the Pension Benefit Guaranty Corporation has not, as of the date of enactment of this Act \[Dec. 8, 1994\], issued a notice of noncompliance that has become final, or otherwise issued a final determination that the plan termination is nullified.”
 
@@ -478,7 +478,7 @@ Special notice regarding sufficiency for terminations for which notices of suffi
 
 &emsp;&emsp;&emsp;“(ii)
 
-Terminations for which notices of sufficiency have been issued.—In the case of a plan termination described in paragraph (1) with respect to which the Corporation has been provided the notification described in subparagraph (A)(i)and with respect to which a notice of sufficiency has been issued by the Corporation before the date of the enactment of this Act, clause (i)(I) shall apply, except that the 90-day period referred to in clause (i)(I) shall begin on the date of the enactment of this Act.
+Terminations for which notices of sufficiency have been issued.—In the case of a plan termination described in paragraph (1) with respect to which the Corporation has been provided the notification described in subparagraph (A)(i) and with respect to which a notice of sufficiency has been issued by the Corporation before the date of the enactment of this Act, clause (i)(I) shall apply, except that the 90-day period referred to in clause (i)(I) shall begin on the date of the enactment of this Act.
 
 &emsp;&emsp;“(C)
 

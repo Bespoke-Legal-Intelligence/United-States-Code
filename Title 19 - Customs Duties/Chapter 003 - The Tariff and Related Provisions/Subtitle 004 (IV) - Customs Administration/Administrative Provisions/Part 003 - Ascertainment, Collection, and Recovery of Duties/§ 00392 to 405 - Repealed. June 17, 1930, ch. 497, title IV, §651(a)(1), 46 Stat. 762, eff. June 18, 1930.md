@@ -10,7 +10,7 @@ The following table shows the classification of former sections to the present s
 | :--- | ---: |
 | 392 | 1509 |
 | 393 | 1510 |
-| 394 |  |
+| 394 | &nbsp; |
 | 395 | 1511 |
 | 396 | 1512 |
 | 397 | 1513 |
@@ -19,6 +19,6 @@ The following table shows the classification of former sections to the present s
 | 400 | 1516(a) |
 | 401 | 1516(b) |
 | 402 | 1516(c) |
-| 403 |  |
-| 405 |  |
+| 403 | &nbsp; |
+| 405 | &nbsp; |
 

@@ -14,155 +14,155 @@ Acres
 
 &emsp;&emsp;Allentown
 
-380&nbsp;
+380&nbsp;&nbsp;
 
 &emsp;&emsp;Andrews Ranch
 
-950&nbsp;
+950&nbsp;&nbsp;
 
 &emsp;&emsp;Bee Burrow
 
-480&nbsp;
+480&nbsp;&nbsp;
 
 &emsp;&emsp;Bisa'ani
 
-131&nbsp;
+131&nbsp;&nbsp;
 
 &emsp;&emsp;Casa del Rio
 
-40&nbsp;
+40&nbsp;&nbsp;
 
 &emsp;&emsp;Casamero
 
-160&nbsp;
+160&nbsp;&nbsp;
 
 &emsp;&emsp;Chimney Rock
 
-3,160&nbsp;
+3,160&nbsp;&nbsp;
 
 &emsp;&emsp;Coolidge
 
-450&nbsp;
+450&nbsp;&nbsp;
 
 &emsp;&emsp;Dalton Pass
 
-135&nbsp;
+135&nbsp;&nbsp;
 
 &emsp;&emsp;Dittert
 
-480&nbsp;
+480&nbsp;&nbsp;
 
 &emsp;&emsp;Great Bend
 
-26&nbsp;
+26&nbsp;&nbsp;
 
 &emsp;&emsp;Greenlee Ruin
 
-60&nbsp;
+60&nbsp;&nbsp;
 
 &emsp;&emsp;Grey Hill Spring
 
-23&nbsp;
+23&nbsp;&nbsp;
 
 &emsp;&emsp;Guadalupe
 
-115&nbsp;
+115&nbsp;&nbsp;
 
 &emsp;&emsp;Halfway House
 
-40&nbsp;
+40&nbsp;&nbsp;
 
 &emsp;&emsp;Haystack
 
-565&nbsp;
+565&nbsp;&nbsp;
 
 &emsp;&emsp;Hogback
 
-453&nbsp;
+453&nbsp;&nbsp;
 
 &emsp;&emsp;Indian Creek
 
-100&nbsp;
+100&nbsp;&nbsp;
 
 &emsp;&emsp;Jaquez
 
-66&nbsp;
+66&nbsp;&nbsp;
 
 &emsp;&emsp;Kin Nizhoni
 
-726&nbsp;
+726&nbsp;&nbsp;
 
 &emsp;&emsp;Lake Valley
 
-30&nbsp;
+30&nbsp;&nbsp;
 
 &emsp;&emsp;Manuelito-Atsee Nitsaa
 
-60&nbsp;
+60&nbsp;&nbsp;
 
 &emsp;&emsp;Manuelito-Kin Hochoi
 
-116&nbsp;
+116&nbsp;&nbsp;
 
 &emsp;&emsp;Morris 41
 
-85&nbsp;
+85&nbsp;&nbsp;
 
 &emsp;&emsp;Muddy Water
 
-1,090&nbsp;
+1,090&nbsp;&nbsp;
 
 &emsp;&emsp;Navajo Springs
 
-260&nbsp;
+260&nbsp;&nbsp;
 
 &emsp;&emsp;Newcomb
 
-50&nbsp;
+50&nbsp;&nbsp;
 
 &emsp;&emsp;Peach Springs
 
-1,046&nbsp;
+1,046&nbsp;&nbsp;
 
 &emsp;&emsp;Pierre's Site
 
-440&nbsp;
+440&nbsp;&nbsp;
 
 &emsp;&emsp;Raton Well
 
-23&nbsp;
+23&nbsp;&nbsp;
 
 &emsp;&emsp;Salmon Ruin
 
-5&nbsp;
+5&nbsp;&nbsp;
 
 &emsp;&emsp;San Mateo
 
-61&nbsp;
+61&nbsp;&nbsp;
 
 &emsp;&emsp;Sanostee
 
-1,565&nbsp;
+1,565&nbsp;&nbsp;
 
 &emsp;&emsp;Section 8
 
-10&nbsp;
+10&nbsp;&nbsp;
 
 &emsp;&emsp;Skunk Springs/Crumbled House
 
-533&nbsp;
+533&nbsp;&nbsp;
 
 &emsp;&emsp;Standing Rock
 
-348&nbsp;
+348&nbsp;&nbsp;
 
 &emsp;&emsp;Toh-la-kai
 
-10&nbsp;
+10&nbsp;&nbsp;
 
 &emsp;&emsp;Twin Angeles
 
-40&nbsp;
+40&nbsp;&nbsp;
 
 &emsp;&emsp;Upper Kin Klizhin
 
@@ -180,5 +180,5 @@ Acres
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 410ii–2, 410ii–3 of this title.
+This section is referred to in section 410ii–3 of this title.
 

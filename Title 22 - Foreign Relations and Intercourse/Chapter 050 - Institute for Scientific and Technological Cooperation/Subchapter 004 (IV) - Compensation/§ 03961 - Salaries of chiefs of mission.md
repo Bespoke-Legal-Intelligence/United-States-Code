@@ -14,7 +14,7 @@
 
 #### Effective Date of 1987 Amendment
 
-Amendment by Pub. L. 100–204 not applicable to salary of any individual serving under Presidential appointment under section 3942 of this title immediately before Dec. 22, 1987, during the period such individual continues to serve in such position, see section 177(c) ofPub. L. 100–204, set out as a note under section 3942 of this title.
+Amendment by Pub. L. 100–204 not applicable to salary of any individual serving under Presidential appointment under section 3942 of this title immediately before Dec. 22, 1987, during the period such individual continues to serve in such position, see section 177(c) of Pub. L. 100–204, set out as a note under section 3942 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -14,7 +14,7 @@ In the case of Restricted Data which the Commission and the Department of Defens
 
 #### (d) Removal from Restricted Data category
 
-The Commission shall remove from the Restricted Data category such data as the Commission and the Department of Defense jointly determine relates primarily to the military utilization of atomic weapons and which the Commission and Department of Defense jointly determine can be adequately safeguarded as defense information: <i>Provided, however,</i> That no such data so removed from the Restricted Data category shall be transmitted or otherwise made available to any nation or regional defense organization, while such data remains defense information, except pursuant to an agreement for cooperation entered into in accordance with subsection (b) or (d) of section 2164 of this title.
+The Commission shall remove from the Restricted Data category such data as the Commission and the Department of Defense jointly determine relates primarily to the military utilization of atomic weapons and which the Commission and Department of Defense jointly determine can be adequately safeguarded as defense information: <i>Provided, however</i>, That no such data so removed from the Restricted Data category shall be transmitted or otherwise made available to any nation or regional defense organization, while such data remains defense information, except pursuant to an agreement for cooperation entered into in accordance with subsection (b) or (d) of section 2164 of this title.
 
 #### (e) Joint determination on atomic energy programs
 
@@ -24,7 +24,7 @@ The Commission shall remove from the Restricted Data category such information c
 
 #### References in Text
 
-Section 403(d) of title 50, referred to in subsec. (e), was struck out and a new subsec. (d) of section 403 of title 50 was added by Pub. L. 102–496, title VII, §704(3), Oct. 24, 1992, 106 Stat. 3189. See section 403–3 of title 50.
+Section 403(d) of title 50, referred to in subsec. (e), was struck out and a new subsec. (d) of section 403 of Title 50, War and National Defense, was added by Pub. L. 102–496, title VII, §704(3), Oct. 24, 1992, 106 Stat. 3189. Subsequently, section 403 was repealed and a new section 403 enacted by Pub. L. 104–293, title VIII, §805(a), Oct. 11, 1996, 110 Stat. 3477. See section 403–3 of Title 50.
 
 #### Amendments
 
@@ -38,17 +38,33 @@ Subsec. (f). Pub. L. 103–337, §3155(c)(3), struck out subsec. (f) which read 
 
 Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of this title. See also Transfer of Functions notes set out under those sections.
 
+#### Review of Certain Documents Before Declassification and Release
+
+Pub. L. 104–106, div. C, title XXXI, §3155, Feb. 10, 1996, 110 Stat. 625, provided that:
+
+“(a)
+
+In General.—The Secretary of Energy shall ensure that, before a document of the Department of Energy that contains national security information is released or declassified, such document is reviewed to determine whether it contains restricted data.
+
+“(b)
+
+Limitation on Declassification.—The Secretary may not implement the automatic declassification provisions of Executive Order 12958 \[set out as a note under section 435 of Title 50, War and National Defense\] if the Secretary determines that such implementation could result in the automatic declassification and release of documents containing restricted data.
+
+“(c)
+
+Restricted Data Defined.—In this section, the term ‘restricted data’ has the meaning provided by section 11 y. of the Atomic Energy Act of 1954 (42 U.S.C. 2014(y)).”
+
 #### Ex. Ord. No. 10899. Communication of Restricted Data by Central Intelligence Agency
 
 Ex. Ord. No. 10899, eff. Dec. 9, 1960, 25 F.R. 12729, provided:
 
-By virtue of the authority vested in me by the Atomic Energy Act of 1954, as amended (hereinafter referred to as the Act; 42 U.S.C. 2011 <i>et seq.</i>), and as President of the United States, it is ordered as follows:
+By virtue of the authority vested in me by the Atomic Energy Act of 1954, as amended (hereinafter referred to as the Act; 42 U.S.C. 2011 <i>et seq</i>.), and as President of the United States, it is ordered as follows:
 
 The Central Intelligence Agency is hereby authorized to communicate for intelligence purposes, in accordance with the terms and conditions of any agreement for cooperation arranged pursuant to subsections 144a, b, or c of the act (42 U.S.C. 2162 (a), (b), or (c)), such restricted data and data removed from the restricted data category under subsection 142d of the Act (42 U.S.C. 2162(d)) as is determined
 
 (i) by the President, pursuant to the provisions of the Act, or
 
-(ii) by the Atomic Energy Commission and the Department of Defense, jointly pursuant to the provisions of Executive Order No. 10841 \[set out as a note under section 2153 of this title\], to be transmissible under the agreement for cooperation involved. Such communications shall be effected through mechanisms established by the Central Intelligence Agency in accordance with the terms and conditions of the agreement for cooperation involved: <i>Provided,</i> that no such communication shall be made by the Central Intelligence Agency until the proposed communication has been authorized either in accordance with procedures adopted by the Atomic Energy Commission and the Department of Defense and applicable to conduct of programs for cooperation by those agencies, or in accordance with procedures approved by the Atomic Energy Commission and the Department of Defense and applicable to conduct of programs for cooperation by the Central Intelligence Agency.
+(ii) by the Atomic Energy Commission and the Department of Defense, jointly pursuant to the provisions of Executive Order No. 10841 \[set out as a note under section 2153 of this title\], to be transmissible under the agreement for cooperation involved. Such communications shall be effected through mechanisms established by the Central Intelligence Agency in accordance with the terms and conditions of the agreement for cooperation involved: <i>Provided</i>, that no such communication shall be made by the Central Intelligence Agency until the proposed communication has been authorized either in accordance with procedures adopted by the Atomic Energy Commission and the Department of Defense and applicable to conduct of programs for cooperation by those agencies, or in accordance with procedures approved by the Atomic Energy Commission and the Department of Defense and applicable to conduct of programs for cooperation by the Central Intelligence Agency.
 
 Dwight D. Eisenhower.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -66,7 +82,7 @@ The Department of State is hereby authorized to communicate, in accordance with 
 
 (i) by the President, pursuant to the provisions of the Act, or
 
-(ii) by the Atomic Energy Commission and the Department of Defense, jointly pursuant to the provisions of Executive Order No. 10841, as amended \[set out as a note under section 2153 of this title\], to be transmissible under the agreement for cooperation involved. Such communications shall be effected through mechanisms established by the Department of State in accordance with the terms and conditions of the agreement for cooperation involved: <i>Provided,</i> that no such communication shall be made by the Department of State until the proposed communication has been authorized either in accordance with procedures adopted by the Atomic Energy Commission and the Department of Defense and applicable to conduct of programs for cooperation by those agencies, or in accordance with procedures approved by the Atomic Energy Commission and the Department of Defense and applicable to conduct of programs for cooperation by the Department of State.
+(ii) by the Atomic Energy Commission and the Department of Defense, jointly pursuant to the provisions of Executive Order No. 10841, as amended \[set out as a note under section 2153 of this title\], to be transmissible under the agreement for cooperation involved. Such communications shall be effected through mechanisms established by the Department of State in accordance with the terms and conditions of the agreement for cooperation involved: <i>Provided</i>, that no such communication shall be made by the Department of State until the proposed communication has been authorized either in accordance with procedures adopted by the Atomic Energy Commission and the Department of Defense and applicable to conduct of programs for cooperation by those agencies, or in accordance with procedures approved by the Atomic Energy Commission and the Department of Defense and applicable to conduct of programs for cooperation by the Department of State.
 
 John F. Kennedy.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -4,9 +4,9 @@ Whoever makes or offers to make an expenditure to any person, either to vote or 
 
 Whoever solicits, accepts, or receives any such expenditure in consideration of his vote or the withholding of his vote—
 
-Shall be fined under this title or imprisoned not more than one year, or both; and if the violation was willful, shall be fined not more than $10,000 or imprisoned not more than two years, or both.
+Shall be fined under this title or imprisoned not more than one year, or both; and if the violation was willful, shall be fined under this title or imprisoned not more than two years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 721; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(H), 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 721; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(H), 108 Stat. 2147; Oct. 11, 1996, Pub. L. 104–294, title VI, §601(a)(12), 110 Stat. 3498.)
 
 #### Historical and Revision Notes
 
@@ -24,7 +24,9 @@ Changes were made in phraseology.
 
 #### Amendments
 
-1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $1,000” after “Shall be”.
+1996—Pub. L. 104–294 substituted “shall be fined under this title” for “shall be fined not more than $10,000” in last par.
+
+1994—Pub. L. 103–322 substituted “shall be fined under this title” for “shall be fined not more than $1,000” in last par.
 
 #### Cross References
 

@@ -2,7 +2,7 @@
 
 The Congress finds and declares the following:
 
-&emsp;(1) All 50 States are vulnerable to the hazards of earthquakes, and at least 39 of them are subject to major or moderate seismic risk, including Alaska, California, Hawaii, Illinois, Massachusetts, Missouri, Montana, Nevada,New Jersey, New York, South Carolina, Utah, and Washington. A large portion of the population of the United States lives in areas vulnerable to earthquake hazards.
+&emsp;(1) All 50 States are vulnerable to the hazards of earthquakes, and at least 39 of them are subject to major or moderate seismic risk, including Alaska, California, Hawaii, Illinois, Massachusetts, Missouri, Montana, Nevada, New Jersey, New York, South Carolina, Utah, and Washington. A large portion of the population of the United States lives in areas vulnerable to earthquake hazards.
 
 &emsp;(2) Earthquakes have caused, and can cause in the future, enormous loss of life, injury, destruction of property, and economic and social disruption. With respect to future earthquakes, such loss, destruction, and disruption can be substantially reduced through the development and implementation of earthquake hazards reduction measures, including (A) improved design and construction methods and practices, (B) land-use controls and redevelopment, (C) prediction techniques and early-warning systems, (D) coordinated emergency preparedness plans, and (E) public education and involvement programs.
 
@@ -36,7 +36,7 @@ The Congress finds and declares the following:
 
 #### Short Title of 1990 Amendment
 
-Section 1 of Pub. L. 101–614 provided that: “This Act \[enacting sections 7705a to 7705e, amending this section and sections 7702 to 7705, and 7706 of this title, and enacting provisions set out as notes under sections 7704, 7705b, and 7705e of this title\] may be cited as the ‘National Earthquake Hazards Reduction Program Reauthorization Act’.”
+Section 1 of Pub. L. 101–614 provided that: “This Act \[enacting sections 7705a to 7705e, amending this sectionand sections 7702 to 7705, and 7706 of this title, and enacting provisions set out as notes under sections 7704, 7705b, and 7705e of this title\] may be cited as the ‘National Earthquake Hazards Reduction Program Reauthorization Act’.”
 
 #### Short Title
 

@@ -64,21 +64,29 @@ The Corporation shall be a body corporate and shall have the following powers:
 
 &emsp;(12) To acquire, hold, lease, mortgage or dispose of, at public or private sale, real and personal property, purchase or sell any securities or obligations, and otherwise exercise all the usual incidents of ownership of property necessary and convenient to the business of the Corporation.
 
-&emsp;(13) To establish, acquire, and maintain affiliates (as such term is defined in section 2279aa–11(e) of this title) under applicable State laws to carry out any activities that otherwise would be performed directly by the Corporation under this subchapter.
+&emsp;(13) To purchase, hold, sell, or assign a qualified loan, to issue a guaranteed security, representing an interest in, or an obligation backed by, the qualified loan, and to perform all the functions and responsibilities of an agricultural mortgage marketing facility operating as a certified facility under this subchapter.
 
-&emsp;(14) To exercise such other incidental powers as are necessary to carry out the powers, duties, and functions of the Corporation in accordance with this subchapter.
+&emsp;(14) To establish, acquire, and maintain affiliates (as such term is defined in section 2279aa–11(e) of this title) under applicable State laws to carry out any activities that otherwise would be performed directly by the Corporation under this subchapter.
+
+&emsp;(15) To exercise such other incidental powers as are necessary to carry out the powers, duties, and functions of the Corporation in accordance with this subchapter.
 
 #### (d) Federal Reserve banks as depositaries and fiscal agents
 
-The Federal Reserve banks may act as depositaries for, or as fiscal agents or custodians of, the Corporation.
+The Federal Reserve banks shall act as depositories for, and as fiscal agents or custodians of, the Corporation.
 
 #### (e) Access to book-entry system
 
-The Secretary of the Treasury may authorize the Corporation to use the book-entry system of the Federal Reserve System.
+The Corporation shall have access to the book-entry system of the Federal Reserve System.
 
-(Pub. L. 92–181, title VIII, §8.3, as added Pub. L. 100–233, title VII, §702, Jan. 6, 1988, 101 Stat. 1691; amended Pub. L. 100–399, title VI, §601(c), Aug. 17, 1988, 102 Stat. 1005; Pub. L. 102–237, title V, §503(c), Dec. 13, 1991, 105 Stat. 1877; Pub. L. 102–552, title III, §308(b)(1), Oct. 28, 1992, 106 Stat. 4116.)
+(Pub. L. 92–181, title VIII, §8.3, as added Pub. L. 100–233, title VII, §702, Jan. 6, 1988, 101 Stat. 1691; amended Pub. L. 100–399, title VI, §601(c), Aug. 17, 1988, 102 Stat. 1005; Pub. L. 102–237, title V, §503(c), Dec. 13, 1991, 105 Stat. 1877; Pub. L. 102–552, title III, §308(b)(1), Oct. 28, 1992, 106 Stat. 4116; Pub. L. 104–105, title I, §§104, 105, Feb. 10, 1996, 110 Stat. 163.)
 
 #### Amendments
+
+1996—Subsec. (c)(13) to (15). Pub. L. 104–105, §104, added par. (13) and redesignated former pars. (13) and (14) as (14) and (15), respectively.
+
+Subsec. (d). Pub. L. 104–105, §105(1), which directed the amendment of subsec. (d) by substituting “shall act as depositories for, and” for “may act as depositories for, or”, was executed by making the substitution for “may act as depositaries for, or” to reflect the probable intent of Congress.
+
+Subsec. (e). Pub. L. 104–105, §105(2), substituted “Corporation shall have access to” for “Secretary of the Treasury may authorize the Corporation to use”.
 
 1992—Subsec. (c)(13). Pub. L. 102–552 substituted “2279aa–11(e)” for “2279aa–11(g)”.
 
@@ -89,4 +97,8 @@ The Secretary of the Treasury may authorize the Corporation to use the book-entr
 #### Effective Date of 1988 Amendment
 
 Amendment by Pub. L. 100–399 effective as if enacted immediately after enactment of Pub. L. 100–233, which was approved Jan. 6, 1988, see section 1001(a) of Pub. L. 100–399, set out as a note under section 2002 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 2279bb–2, 2279bb–7 of this title.
 

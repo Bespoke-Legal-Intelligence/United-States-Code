@@ -2,7 +2,7 @@
 
 #### (a) Designation of responsible officials
 
-The head of each department and agency of the United States engaged in the detection, investigation, or prosecution of crime shall designate by names and office titles the personswho will be responsible for identifying the victims of crime and performing the services described in subsection (c) of this section at each stage of a criminal case.
+The head of each department and agency of the United States engaged in the detection, investigation, or prosecution of crime shall designate by names and office titles the persons who will be responsible for identifying the victims of crime and performing the services described in subsection (c) of this section at each stage of a criminal case.
 
 #### (b) Identification of victims
 
@@ -102,5 +102,9 @@ Section enacted as part of the Victims’ Rights and Restitution Act of 1990 and
 
 #### Amendments
 
-1994—Subsec. (c)(7). Pub. L. 103–322 inserted at end “The Attorney General shall provide for the payment of the cost of up to 2 anonymous and confidential tests of the victim for sexually transmitted diseases, including HIV, gonorrhea, herpes, chlamydia, and syphilis, during the 12 months following sexual assaults that pose a risk of transmission, and the cost of a counseling session by a medically trained professional on the accuracy of such tests and the risk of transmission of sexually transmitted diseases to the victim as the result of the assault. A victim may waive anonymity and confidentiality of any tests paid for under this section.”
+1994—Subsec. (c)(7). Pub. L. 103–322 inserted at end “The Attorney General shall provide for the payment of the cost of up to 2 anonymous and confidential tests of the victim for sexually transmitted diseases, including HIV, gonorrhea, herpes, chlamydia, and syphilis,during the 12 months following sexual assaults that pose a risk of transmission, and the cost of a counseling session by a medically trained professional on the accuracy of such tests and the risk of transmission of sexually transmitted diseases to the victim as the result of the assault. A victim may waive anonymity and confidentiality of any tests paid for under this section.”
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by “the”.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

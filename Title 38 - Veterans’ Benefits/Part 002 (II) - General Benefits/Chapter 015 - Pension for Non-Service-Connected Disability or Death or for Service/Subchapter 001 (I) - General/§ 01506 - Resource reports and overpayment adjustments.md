@@ -50,7 +50,7 @@ Pub. L. 102–83, §4(a)(3), (4), substituted “Department” for “Veterans�
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96–466 effective Oct. 1, 1980, except as otherwise specifically provided, see section 802(f) of Pub. L. 96–466, set out as a note under section 5314 of this title.
+Amendment by Pub. L. 96–466 effective Oct. 1, 1980, except as otherwise specifically provided, see section802(f) of Pub. L. 96–466, set out as a note under section 5314 of this title.
 
 #### Effective Date of 1978 Amendment
 

@@ -22,7 +22,7 @@
 
 &emsp;(C) are within the boundaries of the Dodson/Warrendale Special Purchase Unit; or
 
-&emsp;(D) are owned by an Indian tribe, held in trust by the United States for an Indian tribeor member of an Indian tribe, or otherwise administered by the United States for the benefit of an Indian tribe or member of an Indian tribe.
+&emsp;(D) are owned by an Indian tribe, held in trust by the United States for an Indian tribe or member of an Indian tribe, or otherwise administered by the United States for the benefit of an Indian tribe or member of an Indian tribe.
 
 #### (c) Hardship cases
 

@@ -10,7 +10,7 @@
 
 &emsp;(D) Twice the amount of monthly basic pay to which he would be entitled if serving (i) on active duty on the date when his name was placed on the temporary disability retired list or, if his name was not carried on that list, on the date when he is separated, and (ii) in the temporary grade or rank to which he would have been promoted had it not been for the physical disability for which he is separated and which was found to exist as a result of a physical examination for promotion, if his eligibility for promotion was required to be based on cumulative years of service or years in grade.
 
-(b) For the purposes of subsection (a), a part of a year of active service that is six months or more is counted as a whole year, and a part ofa year that is less than six months is disregarded.
+(b) For the purposes of subsection (a), a part of a year of active service that is six months or more is counted as a whole year, and a part of a year that is less than six months is disregarded.
 
 (c) The amount of disability severance pay received under this section shall be deducted from any compensation for the same disability to which the former member of the armed forces or his dependents become entitled under any law administered by the Department of Veterans Affairs. However, no deduction may be made from any death compensation to which his dependents become entitled after his death.
 

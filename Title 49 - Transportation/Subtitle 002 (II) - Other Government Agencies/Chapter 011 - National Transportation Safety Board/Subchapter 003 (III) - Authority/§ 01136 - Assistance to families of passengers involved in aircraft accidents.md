@@ -1,0 +1,94 @@
+### §1136. Assistance to families of passengers involved in aircraft accidents
+
+(a)
+
+In General.—As soon as practicable after being notified of an aircraft accident within the United States involving an air carrier or foreign air carrier and resulting in a major loss of life, the Chairman of the National Transportation Safety Board shall—
+
+&emsp;(1) designate and publicize the name and phone number of a director of family support services who shall be an employee of the Board and shall be responsible for acting as a point of contact within the Federal Government for the families of passengers involved in the accident and a liaison between the air carrier or foreign air carrier and the families; and
+
+&emsp;(2) designate an independent nonprofit organization, with experience in disasters and posttrauma communication with families, which shall have primary responsibility for coordinating the emotional care and support of the families of passengers involved in the accident.
+
+(b)
+
+Responsibilities of the Board.—The Board shall have primary Federal responsibility for facilitating the recovery and identification of fatally-injured passengers involved in an accident described in subsection (a).
+
+(c)
+
+Responsibilities of Designated Organization.—The organization designated for an accident under subsection (a)(2) shall have the following responsibilities with respect to the families of passengers involved in the accident:
+
+&emsp;(1) To provide mental health and counseling services, in coordination with the disaster response team of the air carrier or foreign air carrier involved.
+
+&emsp;(2) To take such actions as may be necessary to provide an environment in which the families may grieve in private.
+
+&emsp;(3) To meet with the families who have traveled to the location of the accident, to contact the families unable to travel to such location, and to contact all affected families periodically thereafter until such time as the organization, in consultation with the director of family support services designated for the accident under subsection (a)(1), determines that further assistance is no longer needed.
+
+&emsp;(4) To communicate with the families as to the roles of the organization, government agencies, and the air carrier or foreign air carrier involved with respect to the accident and the post-accident activities.
+
+&emsp;(5) To arrange a suitable memorial service, in consultation with the families.
+
+(d)
+
+Passenger Lists.—
+
+&emsp;(1)
+
+Requests for passenger lists.—
+
+&emsp;&emsp;(A)
+
+Requests by director of family support services.—It shall be the responsibility of the director of family support services designated for an accident under subsection (a)(1) to request, as soon as practicable, from the air carrier or foreign air carrier involved in the accident a list, which is based on the best available information at the time of the request, of the names of the passengers that were aboard the aircraft involved in the accident.
+
+&emsp;&emsp;(B)
+
+Requests by designated organization.—The organization designated for an accident under subsection (a)(2) may request from the air carrier or foreign air carrier involved in the accident a list described in subparagraph (A).
+
+&emsp;(2)
+
+Use of information.—The director of family support services and the organization may not release to any person information on a list obtained under paragraph (1) but may provide information on the list about a passenger to the family of the passenger to the extent that the director of family support services or the organization considers appropriate.
+
+(e)
+
+Continuing Responsibilities of the Board.—In the course of its investigation of an accident described in subsection (a), the Board shall, to the maximum extent practicable, ensure that the families of passengers involved in the accident—
+
+&emsp;(1) are briefed, prior to any public briefing, about the accident, its causes, and any other findings from the investigation; and
+
+&emsp;(2) are individually informed of and allowed to attend any public hearings and meetings of the Board about the accident.
+
+(f)
+
+Use of Air Carrier Resources.—To the extent practicable, the organization designated for an accident under subsection (a)(2) shall coordinate its activities with the air carrier or foreign air carrier involved in the accident so that the resources of the carrier can be used to the greatest extent possible to carry out the organization's responsibilities under this section.
+
+(g)
+
+Prohibited Actions.—
+
+&emsp;(1)
+
+Actions to impede the board.—No person (including a State or political subdivision) may impede the ability of the Board (including the director of family support services designated for an accident under subsection (a)(1)), or an organization designated for an accident under subsection (a)(2), to carry out its responsibilities under this section or the ability of the families of passengers involved in the accident to have contact with one another.
+
+&emsp;(2)
+
+Unsolicited communications.—In the event of an accident involving an air carrier providing interstate or foreign air transportation, no unsolicited communication concerning a potential action for personal injury or wrongful death may be made by an attorney or any potential party to the litigation to an individual injured in the accident, or to a relative of an individual involved in the accident, before the 30th day following the date of the accident.
+
+(h)
+
+Definitions.—In this section, the following definitions apply:
+
+&emsp;(1)
+
+Aircraft accident.—The term “aircraft accident” means any aviation disaster regardless of its cause or suspected cause.
+
+&emsp;(2)
+
+Passenger.—The term “passenger” includes an employee of an air carrier aboard an aircraft.
+
+(Added Pub. L. 104–264, title VII, §702(a)(1), Oct. 9, 1996, 110 Stat. 3265.)
+
+#### Effective Date
+
+Except as otherwise specifically provided, section applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as an Effective Date of 1996 Amendment note under section 106 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 1155, 41113 of this title.
+

@@ -10,7 +10,7 @@ A prior section 2279a–3, Pub. L. 92–181, title VII, §7.3, as added Pub. L. 
 
 #### Effective Date
 
-Section effective as if enacted immediately after enactment of Pub. L. 100–233, which was approved Jan. 6, 1988, see section 1001(a) of Pub. L. 100–399, set out as an Effective Date of 1988 Amendment note under section 2002 of this title.
+Section effective as if enacted immediately after enactment of Pub. L. 100–233, which was approved Jan. 6,1988, see section 1001(a) of Pub. L. 100–399, set out as an Effective Date of 1988 Amendment note under section 2002 of this title.
 
 #### Section Referred to in Other Sections
 

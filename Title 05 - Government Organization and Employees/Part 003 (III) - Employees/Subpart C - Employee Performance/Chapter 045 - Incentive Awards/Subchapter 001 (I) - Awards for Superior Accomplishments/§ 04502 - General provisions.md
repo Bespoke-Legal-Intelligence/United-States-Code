@@ -18,7 +18,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 5 U.S.C. 2123(d), (e), (g).
 
@@ -32,13 +34,13 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-<b>1993</b>—Subsec. (e). Pub. L. 103–89 struck out par. (2) designation and struck out par. (1) which read as follows: “Notwithstanding section 4501(2), for the purpose of this subsection, ‘employee’ includes an employee covered by the performance management and recognition system established under chapter 54.”
+1993—Subsec. (e). Pub. L. 103–89 struck out par. (2) designation and struck out par. (1) which read as follows: “Notwithstanding section 4501(2), for the purpose of this subsection, ‘employee’ includes an employee covered by the performance management and recognition system established under chapter 54.”
 
-<b>1990</b>—Subsec. (e). Pub. L. 101–509 added subsec. (e).
+1990—Subsec. (e). Pub. L. 101–509 added subsec. (e).
 
-<b>1981</b>—Subsecs. (a), (c). Pub. L. 97–35 substituted “subchapter” for “chapter”.
+1981—Subsecs. (a), (c). Pub. L. 97–35 substituted “subchapter” for “chapter”.
 
-<b>1978</b>—Subsec. (a). Pub. L. 95–454, §503(b), substituted “$10,000” for “$5,000”.
+1978—Subsec. (a). Pub. L. 95–454, §503(b), substituted “$10,000” for “$5,000”.
 
 Subsec. (b). Pub. L. 95–454, §503(c), substituted “Office of Personnel Management” for “Civil Service Commission”, “$10,000” for “$5,000”, and “Office” for “Commission”.
 
@@ -56,7 +58,7 @@ Amendment by Pub. L. 97–35 effective Oct. 1, 1981, see section 1703(c) of Pub.
 
 #### Effective Date of 1978 Amendment
 
-Section 504(a) of Pub. L. 95–454 provided that amendment by Pub. L. 95–454 was effective on first day of first applicable pay period which began on or after Oct. 1,1981, except it could take effect with respect to any category or categories of positions before such day to extent prescribed by Director of Office of Personnel Management.
+Section 504(a) of Pub. L. 95–454 provided that amendment by Pub. L. 95–454 was effective on first day of first applicable pay period which began on or after Oct. 1, 1981, except it could take effect with respect to any category or categories of positions before such day to extent prescribed by Director of Office of Personnel Management.
 
 #### Delegation of Functions
 

@@ -90,7 +90,7 @@ National organization.—The term ‘national organization’ means an organizat
 
 &emsp;“(4)
 
-High-poverty area.—The term ‘high-poverty area’ means a community with a higher percentage ofchildren in poverty than the national average of such percentage.
+High-poverty area.—The term ‘high-poverty area’ means a community with a higher percentage of children in poverty than the national average of such percentage.
 
 &emsp;“(5)
 
@@ -176,7 +176,7 @@ Award determination.—The amount of financial assistance provided to athletes d
 
 “(b)
 
-Eligibility.—The Secretary of Education shall ensure that financial assistance provided under this part \[part E (§1543) of Pub. L. 102–325\] is available to both full-time and part-time students who are athletes at centers described in subsection (a).
+Eligibility.—The Secretary of Education shall ensure that financial assistance provided under this part \[part E (§1543) of Pub. L. 102–325\] is available toboth full-time and part-time students who are athletes at centers described in subsection (a).
 
 “(c)
 
@@ -184,7 +184,7 @@ Application.—Each center desiring financial assistance under this section shal
 
 “(d)
 
-Authorization of Appropriations.—There are authorized to be appropriated $5,000,000 for fiscal year1993 and such sums as may be necessary for each of the 4 succeeding fiscal years to carry out this section.”
+Authorization of Appropriations.—There are authorized to be appropriated $5,000,000 for fiscal year 1993 and such sums as may be necessary for each of the 4 succeeding fiscal years to carry out this section.”
 
 #### Persian Gulf Conflict Higher Education Assistance
 
@@ -254,25 +254,17 @@ Pub. L. 102–25, title III, part E (§§371–376), Apr. 6, 1991, 105 Stat. 93,
 
 “This part may be cited as the ‘Persian Gulf Conflict Higher Education Assistance Act’.
 
-“
+“SEC. 372. \[Superseded by section 4 of Pub. L. 102–26, set out above.\]
 
-SEC. 372. \[Superseded by section 4 of Pub. L. 102–26, set out above.\]
+“SEC. 373. \[Superseded by section 5 of Pub. L. 102–26, set out above.\]
 
-“
+“SEC. 374. \[Amended section 294d of Title 42, The Public Health and Welfare.\]
 
-SEC. 373. \[Superseded by section 5 of Pub. L. 102–26, set out above.\]
-
-“
-
-SEC. 374. \[Amended section 294d of Title 42, The Public Health and Welfare.\]
-
-“
-
-SEC. 375. \[Superseded by section 6 of Pub. L. 102–26, set out above.\]
+“SEC. 375. \[Superseded by section 6 of Pub. L. 102–26, set out above.\]
 
 #### “SEC. 376. COORDINATION WITH OTHER LAW
 
-“If the Higher Education Technical Amendments of 1991 \[Pub. L. 102–26, see Short Title of 1991 Amendmentnote set out under section 1001 of this title\] is enacted, the provisions of sections 4, 5, and 6 of that Act shall supersede sections 372, 373, and 375.”
+“If the Higher Education Technical Amendments of 1991 \[Pub. L. 102–26, see Short Title of 1991 Amendment note set out under section 1001 of this title\] is enacted, the provisions of sections 4, 5, and 6 of that Act shall supersede sections 372, 373, and 375.”
 
 #### Section Referred to in Other Sections
 

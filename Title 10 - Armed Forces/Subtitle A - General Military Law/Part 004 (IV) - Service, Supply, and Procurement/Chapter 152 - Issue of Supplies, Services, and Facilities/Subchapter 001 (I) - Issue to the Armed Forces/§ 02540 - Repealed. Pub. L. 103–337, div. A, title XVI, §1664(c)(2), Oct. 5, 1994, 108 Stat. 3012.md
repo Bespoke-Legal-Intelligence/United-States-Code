@@ -1,8 +1,0 @@
-### \[§2540. Repealed. Pub. L. 103–337, div. A, title XVI, §1664(c)(2), Oct. 5, 1994, 108 Stat. 3012\]
-
-Section, acts Aug. 10, 1956, ch. 1041, 70A Stat. 141, §2511; renumbered §2521, Nov. 5, 1990, Pub. L. 101–510, div. A, title VIII, §823(a)(2), 104 Stat. 1600; renumbered §2540, Dec. 5, 1991, Pub. L. 102–190, div. A, title VIII, §821(e)(3), 105 Stat. 1432, related to availability or issuance to reserve components of supplies, services, and facilities of armed forces. See section 18502 of this title.
-
-#### Effective Date of Repeal
-
-Repeal effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as an Effective Date note under section 10001 of this title.
-

@@ -1,12 +1,12 @@
 ### §307. Special pay: special duty assignment pay for enlisted members
 
-(a) An enlisted member who is entitled to basic pay and is performing duties which have been designated under subsection (b) as extremely difficult or as involving an unusual degree of responsibility in a military skill may, in addition to other pay or allowances to which he is entitled, be paid special duty assignment pay at a monthly rate not to exceed $275.
+(a) An enlisted member who is entitled to basic pay and is performing duties which have been designated under subsection (b) as extremely difficult or as involving an unusual degree of responsibility in a military skill may, in addition to other pay or allowances to which he is entitled, be paid special duty assignment pay at a monthly rate not to exceed $275. In the case of a member who is serving as a military recruiter and is eligible for special duty assignment pay under this subsection on account of such duty, the Secretary concerned may increase the monthly rate of special duty assignment pay for the member to not more than $375.
 
 (b) The Secretary concerned shall determine which enlisted members under his jurisdiction are to be paid special duty assignment pay under subsection (a). He shall also designate those skills within each armed force under his jurisdiction for which special duty assignment pay is authorized and shall prescribe the criteria under which members of that armed force are eligible for special duty assignment pay in each skill. He may increase, decrease, or abolish such pay for any skill.
 
 (c) This section shall be administered under regulations prescribed by the Secretary of Defense for the armed forces under his jurisdiction and by the Secretary of Transportation for the Coast Guard when the Coast Guard is not operating as a service in the Navy.
 
-(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 467; Pub. L. 90–623, §3(1), Oct. 22, 1968, 82 Stat. 1314; Pub. L. 98–525, title VI, §623(b)(1), Oct. 19, 1984, 98 Stat. 2541; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117.)
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 467; Pub. L. 90–623, §3(1), Oct. 22, 1968, 82 Stat. 1314; Pub. L. 98–525, title VI, §623(b)(1), Oct. 19, 1984, 98 Stat. 2541; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 104–106, div. A, title VI, §619(a), Feb. 10, 1996, 110 Stat. 363.)
 
 Historical and Revision Notes
 
@@ -44,6 +44,8 @@ In subsection (b), the words “computed under section 205 of this title” are 
 
 #### Amendments
 
+1996—Subsec. (a). Pub. L. 104–106 inserted at end “In the case of a member who is serving as a military recruiter and is eligible for special duty assignment pay under this subsection on account of such duty, the Secretary concerned may increase the monthly rate of special duty assignment pay for the member to not more than $375.”
+
 1991—Subsec. (a). Pub. L. 102–25 struck out “of this section” after “subsection (b)”.
 
 Subsec. (b). Pub. L. 102–25 struck out “of this section” after “subsection (a)”.
@@ -58,6 +60,10 @@ Subsecs. (c), (d). Pub. L. 98–525 redesignated subsec. (d) as (c) and substitu
 
 1968—Subsec. (d). Pub. L. 90–623 substituted “Secretary of Transportation” for “Secretary of the Treasury”.
 
+#### Effective Date of 1996 Amendment
+
+Section 619(b) of Pub. L. 104–106 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on January 1, 1996.”
+
 #### Effective Date of 1984 Amendment
 
 Amendment by Pub. L. 98–525 effective Oct. 1, 1984, see section 623(c) of Pub. L. 98–525, set out as a note under section 305a of this title.
@@ -66,7 +72,7 @@ Amendment by Pub. L. 98–525 effective Oct. 1, 1984, see section 623(c) of Pub.
 
 Amendment by Pub. L. 90–623 intended to restate without substantive change the law in effect on Oct. 22, 1968 see section 6 of Pub. L. 90–623, set out as a note under section 5334 of Title 5, Government Organization and Employees.
 
-#### Members Entitled to Special Pay as of September 30, 1984
+#### Members Entitled to Special Pay as of September 30, 1984
 
 Section 623(b)(3) of Pub. L. 98–525 provided that: “A member of the uniformed services who, on September 30, 1984, was entitled to special pay under section 307 of title 37, United States Code \[this section\], as in effect on such date, may continue to be paid the special pay authorized by such section as though the amendments made by this subsection \[amending this section\] had not been made. However, a member may not be paid the special pay authorized by such section as in effect on September 30, 1984, and the special pay authorized by such section as amended by this section.”
 

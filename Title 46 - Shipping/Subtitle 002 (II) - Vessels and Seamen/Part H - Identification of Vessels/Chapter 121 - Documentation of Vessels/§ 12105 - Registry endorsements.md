@@ -44,5 +44,5 @@ Pub. L. 100–239, §6(b), Jan. 11, 1988, 101 Stat. 1782, provided that: “Notw
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 12101, 12103 of this title.
+This section is referred to in sections 12101, 12103 of this title; section 1187a of Appendix to this title.
 

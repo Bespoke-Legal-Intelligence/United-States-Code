@@ -28,7 +28,7 @@ At such hearing, the provider of services shall have the right to be represented
 
 #### (d) Decisions of Board
 
-A decision by the Board shall be based upon the record made at such hearing, which shall include the evidence considered by the intermediary and such other evidence as may be obtained or received by the Board, and shall be supported by substantial evidence when the record is viewed as a whole. The Board shall have the power to affirm, modify, or reverse a final determination of the fiscal intermediary with respect to a cost report and to make any other revisions on matters covered by such cost report (including revisions adverse to the provider of services) even though such matters were not considered by the intermediary in making such final determination.
+A decision by the Board shall be based upon the record made at such hearing, which shall include the evidence considered by the intermediary and such other evidence as may be obtained or received by the Board, and shall be supported by substantial evidence when the record is viewed as a whole. The Board shall have the power to affirm, modify, or reverse a final determination of the fiscal intermediary with respect to a cost report and to make any other revisions on matters covered by such cost report (including revisions adverse to the provider of services) even though such matters werenot considered by the intermediary in making such final determination.
 
 #### (e) Rules and regulations
 
@@ -60,7 +60,7 @@ The Board is authorized to engage such technical assistance as may be required t
 
 In this section, the term “provider of services” includes a rural health clinic and a Federally qualified health center.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1878, as added Oct. 30, 1972, Pub. L. 92–603, title II, §243(a), 86 Stat. 1420; amended Oct. 26, 1974, Pub. L. 93–484, §3(a), 88 Stat. 1459; Dec. 5, 1980, Pub. L. 96–499, title IX, §955, 94 Stat. 2647; Apr. 20, 1983, Pub. L. 98–21, title VI, §602(h), 97 Stat. 165; July 18, 1984, Pub. L. 98–369, div. B, title III, §§2351(a)(1), (b)(1), 2354(b)(39), (40), 98 Stat. 1098, 1099, 1102; Nov. 5, 1990, Pub. L. 101–508, title IV, §4161(a)(6), (b)(4), 104 Stat. 1388–94, 1388–95; Aug. 10, 1993, Pub. L. 103–66, title XIII, §13503(c)(1)(B), 107 Stat. 579.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1878, as added Oct. 30, 1972, Pub. L. 92–603, title II, §243(a), 86Stat. 1420; amended Oct. 26, 1974, Pub. L. 93–484, §3(a), 88 Stat. 1459; Dec. 5, 1980, Pub. L. 96–499, title IX, §955, 94 Stat. 2647; Apr. 20, 1983, Pub. L. 98–21, title VI, §602(h), 97 Stat. 165; July 18, 1984, Pub. L. 98–369, div. B, title III, §§2351(a)(1), (b)(1), 2354(b)(39), (40), 98 Stat. 1098, 1099, 1102; Nov. 5, 1990, Pub. L. 101–508, title IV, §4161(a)(6), (b)(4), 104 Stat. 1388–94, 1388–95; Aug. 10, 1993, Pub. L. 103–66, title XIII, §13503(c)(1)(B), 107 Stat. 579.)
 
 #### References in Text
 

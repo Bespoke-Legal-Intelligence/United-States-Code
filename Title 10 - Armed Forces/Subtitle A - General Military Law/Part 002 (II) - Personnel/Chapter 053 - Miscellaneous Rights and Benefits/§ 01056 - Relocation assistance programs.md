@@ -36,25 +36,29 @@ Regulations.—This section shall be administered under regulations prescribed b
 
 (f)
 
-Annual Report.—Not later than March 1 each year, the Secretary of Defense, acting through the Director of Military Relocation Assistance Programs, shall submit to Congress a report on the program under this section and on military family relocation matters. The report shall include the following:
-
-&emsp;(1) An assessment of available, affordable private-sector housing for members of the armed forces and their families.
-
-&emsp;(2) An assessment of the actual nonreimbursed costs incurred by members of the armed forces and their families who are ordered to make a change of permanent station.
-
-&emsp;(3) Information (shown by military installation) on the types of locations at which members of the armed forces assigned to duty at military installations live, including the number of members of the armed forces who live on a military installation and the number who do not live on a military installation.
-
-&emsp;(4) Information on the effects of the relocation assistance programs established under this section on the quality of life of members of the armed forces and their families and on retention and productivity of members of the armed forces.
-
-(g)
-
 Inapplicability to Coast Guard.—This section does not apply to the Coast Guard.
 
-(Added Pub. L. 101–510, div. A, title XIV, §1481(c)(1), Nov. 5, 1990, 104 Stat. 1705.)
+(Added Pub. L. 101–510, div. A, title XIV, §1481(c)(1), Nov. 5, 1990, 104 Stat. 1705; amended Pub. L. 104–106, div. A, title IX, §903(d), title X, §1062(a), Feb. 10, 1996, 110 Stat. 402, 443; Pub. L. 104–201, div. A, title IX, §901, Sept. 23, 1996, 110 Stat. 2617.)
 
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in Pub. L. 101–189, div. A, title VI, §661(a)–(g), Nov. 29, 1989, 103 Stat. 1463, which was set out as a note under section 113 of this title, prior to repeal by Pub. L. 101–510, §1481(c)(3).
+
+#### Amendments
+
+1996—Subsec. (d). Pub. L. 104–106, §903(a), (d), which directed repeal of subsec. (d), eff. Jan. 31, 1997, was repealed by Pub. L. 104–201.
+
+Subsecs. (f), (g). Pub. L. 104–106, §1062(a), redesignated subsec. (g) as (f) and struck out former subsec. (f) which read as follows: “
+
+Annual Report.—Not later than March 1 each year, the Secretary of Defense, acting through the Director of Military Relocation Assistance Programs, shall submit to Congress a report on the program under this section and on military family relocation matters. The report shall include the following:
+
+&emsp;“(1) An assessment of available, affordable private-sector housing for members of the armed forces and their families.
+
+&emsp;“(2) An assessment of the actual nonreimbursed costs incurred by members of the armed forces and their families who are ordered to make a change of permanent station.
+
+&emsp;“(3) Information (shown by military installation) on the types of locations at which members of the armed forces assigned to duty at military installations live, including the number of members of the armed forces who live on a military installation and the number who do not live on a military installation.
+
+&emsp;“(4) Information on the effects of the relocation assistance programs established under this section on the quality of life of members of the armed forces and their families and on retention and productivity of members of the armed forces.”
 
 #### Implementation of Relocation Assistance Programs
 

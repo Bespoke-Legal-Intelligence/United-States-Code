@@ -2,31 +2,93 @@
 
 #### (a) Declaration of policy
 
-With the purpose of preventing damage to the shores of the United States, its Territories and possessions and promoting and encouraging the healthful recreation of the people, it is declared to be the policy of the United States, subject tothe following provisions of sections 426e to 426h of this title to assist in the construction, but not the maintenance, of works for the restoration and protection against erosion, by waves and currents, of the shores of the United States, its Territories and possessions.
+With the purpose of preventing damage to the shores and beaches of the United States, its Territories and possessions and promoting and encouraging the healthful recreation of the people, it is declared to be the policy of the UnitedStates, subject to sections 426e to 426h–1 of this title, to promote shore protection projects and related research that encourage the protection, restoration, and enhancement of sandy beaches, including beach restoration and periodic beach nourishment, on a comprehensive and coordinated basis by the Federal Government, States, localities, and private enterprises. In carrying out this policy, preference shall be given to areas in which there has been a Federal investment of funds and areas with respect to which the need for prevention or mitigation of damage to shores and beaches is attributable to Federal navigation projects or other Federal activities.
 
 #### (b) Federal contribution; maximum amount; exceptions
 
-The Federal contribution in the case of any project referred to in subsection (a) of this section shall not exceed one-half of the cost of the project, and the remainder shall be paid by the State, municipality, or other political subdivision in which the project is located, except that (1) the costs allocated to the restoration and protection of Federal property shall be borne fully by the Federal Government, (2) Federal participation in the cost of a project for restoration and protection of State, county, and other publicly owned shore parks and conservation areas may be, in the discretion of the Chief of Engineers, not more than 70 per centum of the total cost exclusive of land costs, when such areas: Include a zone which excludes permanent human habitation; include but are not limited to recreational beaches; satisfy adequate criteria for conservation and development of the natural resources of the environment; extend landward a sufficient distance to include, where appropriate, protective dunes, bluffs, or other natural features which serve to protect the uplands from damage; and provide essentially full park facilities for appropriate public use, all of which shall meet with the approval of the Chief of Engineers, and (3) Federal participation in the cost of a project providing hurricane protection may be, in the discretion of the Secretary of the Army, acting through the Chief of Engineers, not more than 70 per centum of the total cost exclusive of land costs.
+The Federal contribution in the case of any project referred to in subsection (a) of this section shall not exceed one-half of the cost of the project, and the remainder shall be paid by the State, municipality, or other political subdivision in which the project is located, except that (1) the costs allocated to the restoration and protection of Federal property shall be borne fully by the Federal Government, (2) Federal participation in the cost of a project for restoration and protection of State, county, and other publicly owned shore parks and conservation areas may be, in the discretion of the Chief of Engineers, not more than 70 per centum of the total cost exclusive of land costs, when such areas: Include a zone which excludes permanent human habitation; include but are not limited to recreational beaches; satisfy adequate criteria for conservation and development of the natural resources of the environment; extend landward a sufficient distance to include, where appropriate, protective dunes, bluffs, or other natural features which serve to protect the uplands from damage; and provide essentially full park facilities for appropriate public use, all of which shall meet with the approval of the Chief of Engineers, and (3) Federal participation in the cost of a project providing hurricane protection may be, in the discretion of the Secretary <sup>1</sup> not more than 70 per centum of the total cost exclusive of land costs.
 
 #### (c) Periodic beach nourishment; “construction” defined
 
-When in the opinion of the Chief of Engineers the most suitable and economical remedial measures would be provided by periodic beach nourishment, the term “construction” may be construed for the purposes of sections 426e to 426h of this title to include the deposit of sand fill at suitable intervals of time to furnish sand supply to project shores for a length of time specified by the Chief of Engineers.
+When in the opinion of the Chief of Engineers the most suitable and economical remedial measures would be provided by periodic beach nourishment, the term “construction” may be construed for the purposes of sections 426e to 426h–1 of this title to include the deposit of sand fill at suitable intervals of time to furnish sand supply to project shores for a length of time specified by the Chief of Engineers.
 
 #### (d) Shores other than public
 
 Shores other than public will be eligible for Federal assistance if there is benefit such as that arising from public use or from the protection of nearby public property or if the benefits to those shores are incidental to the project, and the Federal contribution to the project shall be adjusted in accordance with the degree of such benefits.
 
-#### (e) Authorized plans
+#### (e) Authorization of projects
 
-No Federal contributions shall be made with respect to a project under sections 426e to 426h of this title unless the plan therefor shall have been specifically adopted and authorized by Congress after investigation and study by the Coastal Engineering Research Center under the provisions of section 426 of this title as amended and supplemented, or, in the case of a small project under section 426g of this title, unless the plan therefor has been approved by the Chief of Engineers.
+#### (1) In general
 
-(Aug. 13, 1946, ch. 960, §1, 60 Stat. 1056; July 28, 1956, ch. 768, 70 Stat. 702; Oct. 23, 1962, Pub. L. 87–874, title I, §103(a)(1)–(3), 76 Stat. 1178; Nov. 7, 1963, Pub. L. 88–172, §1, 77 Stat. 304; Dec. 31, 1970, Pub. L. 91–611, title II, §208, 84 Stat. 1829.)
+&emsp;No Federal contributions shall be made with respect to a project under sections 426e to 426h–1 of this title unless the plan therefor shall have been specifically adopted and authorized by Congress after investigation and study by the Coastal Engineering Research Center under the provisions of section 426 of this title as amended and supplemented, or, in the case of a small project under section 426g or 426h of this title, unless the plan therefor has been approved by the Chief of Engineers.
+
+#### (2) Studies
+
+#### (A) In general
+
+&emsp;&emsp;The Secretary shall—
+
+&emsp;&emsp;&emsp;(i) recommend to Congress studies concerning shore protection projects that meet the criteria established under sections 426e to 426h–1 of this title (including subparagraph (B)(iii)) and other applicable law;
+
+&emsp;&emsp;&emsp;(ii) conduct such studies as Congress requires under applicable laws; and
+
+&emsp;&emsp;&emsp;(iii) report the results of the studies to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.
+
+#### (B) Recommendations for shore protection projects
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;The Secretary shall recommend to Congress the authorization or reauthorization of shore protection projects based on the studies conducted under subparagraph (A).
+
+#### (ii) Considerations
+
+&emsp;&emsp;&emsp;In making recommendations, the Secretary shall consider the economic and ecological benefits of the shore protection project.
+
+#### (C) Coordination of projects
+
+&emsp;&emsp;In conducting studies and making recommendations for a shore protection project under this paragraph, the Secretary shall—
+
+&emsp;&emsp;&emsp;(i) determine whether there is any other project being carried out by the Secretary or the head of another Federal agency that may be complementary to the shore protection project; and
+
+&emsp;&emsp;&emsp;(ii) if there is such a complementary project, describe the efforts that will be made to coordinate the projects.
+
+#### (3) Shore protection projects
+
+#### (A) In general
+
+&emsp;&emsp;The Secretary shall construct, or cause to be constructed, any shore protection project authorized by Congress, or separable element of such a project, for which funds have been appropriated by Congress.
+
+#### (B) Agreements
+
+#### (i) Requirement
+
+&emsp;&emsp;&emsp;After authorization by Congress, and before commencement of construction, of a shore protection project or separable element, the Secretary shall enter into a written agreement with a non-Federal interest with respect to the project or separable element.
+
+#### (ii) Terms
+
+&emsp;&emsp;&emsp;The agreement shall—
+
+&emsp;&emsp;&emsp;&emsp;(I) specify the life of the project; and
+
+&emsp;&emsp;&emsp;&emsp;(II) ensure that the Federal Government and the non-Federal interest will cooperate in carrying out the project or separable element.
+
+#### (C) Coordination of projects
+
+&emsp;&emsp;In constructing a shore protection project or separable element under this paragraph, the Secretary shall, to the extent practicable, coordinate the project or element with any complementary project identified under paragraph (2)(C).
+
+(Aug. 13, 1946, ch. 960, §1, 60 Stat. 1056; July 28, 1956, ch. 768, 70 Stat. 702; Oct. 23, 1962, Pub. L. 87–874, title I, §103(a)(1)–(3), 76 Stat. 1178; Nov. 7, 1963, Pub. L. 88–172, §1, 77 Stat. 304; Dec. 31, 1970, Pub. L. 91–611, title II, §208, 84 Stat. 1829; Oct. 12, 1996, Pub. L. 104–303, title II, §227(a), (b), (e)(2)(A), (B), 110 Stat. 3698, 3703.)
 
 #### Codification
 
 Coastal Engineering Research Center, referred to in subsec. (e), has been substituted for Beach Erosion Board pursuant to Pub. L. 88–172, §1, providing in part for the abolition of the Beach Erosion Board and for transfer of functions of the Beach Erosion Board to the Coastal Engineering Research Center. See section 426–1 of this title.
 
 #### Amendments
+
+1996—Subsec. (a). Pub. L. 104–303, §227(a), inserted “and beaches” after “damage to the shores” and substituted “sections 426e to 426h–1 of this title, to promote shore protection projects and related research that encourage the protection, restoration, and enhancement of sandy beaches, including beach restoration and periodic beach nourishment, on a comprehensive and coordinated basis by the Federal Government, States, localities, and private enterprises. In carrying out this policy, preference shall be given to areas in which there has been a Federal investment of funds and areas with respect to which the need for prevention or mitigation of damage to shores and beaches is attributable to Federal navigation projects or other Federal activities.” for “the following provisions of sections 426e to 426h of this title to assist in the construction, but not the maintenance, of works for the restoration and protection against erosion, by waves and currents, of the shores of the United States, its Territories and possessions.”
+
+Subsec. (b)(3). Pub. L. 104–303, §227(e)(2), substituted “Secretary” for “Secretary of the Army, acting through the Chief of Engineers,” and struck out second period at end.
+
+Subsec. (e). Pub. L. 104–303, §227(b), (e)(2)(B), inserted subsec. heading, designated existing provisions as par. (1) and inserted heading, realigned margin, inserted “or 426h” after “under section 426g”, and added pars. (2) and (3).
 
 1970—Subsec. (b). Pub. L. 91–611 provided for designation of existing provisions as cls. (1) and (2) by insertion of “(1)” after “except that” and substitution of “(2)” for “and, further, that” and added cl. (3).
 
@@ -52,5 +114,7 @@ Pub. L. 101–640, title III, §309, Nov. 28, 1990, 104 Stat. 4638, provided tha
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 426g, 426h of this title.
+This section is referred to in sections 426g, 426h–1 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

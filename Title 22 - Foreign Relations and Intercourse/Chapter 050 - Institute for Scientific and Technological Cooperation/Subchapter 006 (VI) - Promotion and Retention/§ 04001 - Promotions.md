@@ -2,7 +2,7 @@
 
 #### (a) Method of promotion
 
-Career members of the Senior Foreign Service are promoted by appointment under section 3942(a) of this title to a higher salary class in the Senior Foreign Service. Members of the Senior Foreign Service serving under career candidate appointments or noncareer appointments are promoted by appointment under section 3943 of this title to a higher salary class in the Senior Foreign Service. Foreign Service officers, and Foreign Service personnel who are assigned to a class in the Foreign Service Schedule, are promoted by appointment under section 3942(a) of this title as career members of the Senior Foreign Service or by assignment under section 3964 of this title to a higher salary class in the Foreign Service Schedule.
+Career members of the Senior Foreign Service are promoted by appointment under section 3942(a) of this title to a higher salary class in the Senior Foreign Service. Members of the Senior Foreign Service serving under career candidate appointments or noncareer appointments are promoted by appointment under section 3943 of this title to a higher salary class in the Senior Foreign Service. Foreign Service officers, and Foreign Service personnel who are assigned to a class in the Foreign Service Schedule, are promoted by appointment under section 3942(a)of this title as career members of the Senior Foreign Service or by assignment under section 3964 of this title to a higher salary class in the Foreign Service Schedule.
 
 #### (b) Recommendations and rankings of selection boards
 
@@ -26,7 +26,7 @@ Except as provided in section 4006(a) of this title, promotions of—
 
 &emsp;(C) a regular, predictable flow of talent upward through the ranks and into the Senior Foreign Service.
 
-(3) The affidavit requirements of sections 3332 and 3333(a) of title 5 shall not apply with respect to a member of the Service who has previously complied with those requirements and who subsequently is promoted by appointment to anyclass in the Senior Foreign Service without a break in service.
+(3) The affidavit requirements of sections 3332 and 3333(a) of title 5 shall not apply with respect to a member of the Service who has previously complied with those requirements and who subsequently is promoted by appointment to any class in the Senior Foreign Service without a break in service.
 
 (4) Not later than March 1 of each year, the Secretary of State shall submit a report to the Speaker of the House of Representatives and to the Committee on Foreign Relations of the Senate which shall—
 
@@ -62,7 +62,7 @@ Pub. L. 101–246, title I, §163, Feb. 16, 1990, 104 Stat. 47, provided that: �
 
 &emsp;“(1) only promote candidates to the Senior Foreign Service who have demonstrated foreign language proficiency in at least one language at the General Professional Speaking Proficiency level, as defined by the Foreign Service Institute;
 
-&emsp;“(2) strive for the objective stipulated in the Foreign Service Manual ‘to be able to use two foreign languages at a minimum professional level of proficiency of S–3/R–3, which is the general professional speaking proficiency level’; and
+&emsp;“(2) strive for the objective stipulated in the Foreign Service Manual ‘to be able to use two foreignlanguages at a minimum professional level of proficiency of S–3/R–3, which is the general professional speaking proficiency level’; and
 
 &emsp;“(3) have at least one person on each Foreign Service promotion panel who has attained at least the General Professional Speaking Proficiency level in one language level.”
 

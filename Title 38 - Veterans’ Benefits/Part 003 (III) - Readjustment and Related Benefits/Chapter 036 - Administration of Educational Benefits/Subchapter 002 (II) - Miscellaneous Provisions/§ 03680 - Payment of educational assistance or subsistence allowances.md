@@ -4,7 +4,7 @@
 
 (a) Payment of educational assistance or subsistence allowances to eligible veterans or eligible persons pursuing a program of education or training, other than a program by correspondence, in an educational institution under chapter 31, 34, or 35 of this title shall be paid as provided in this section and, as applicable, in section 3108, 3482, 3491, or 3532 of this title. Such payments shall be paid only for the period of such veterans’ or persons’ enrollment in, and pursuit of, such program, but no amount shall be paid—
 
-&emsp;(1) to any eligible veteran or eligible person for any period when such veteran or person is not pursuing such veteran's or person's course in accordance with the regularly established policies and regulations of the educational institution, with the provisions of such regulations as may be prescribed by the Secretary pursuant to subsection (g) of this section, and with the requirements of this chapter or ofchapter 34 or 35 of this title, but payment may be made for an actual period of pursuit of one or more unit subjects pursued for a period of time shorter than the enrollment period at the educational institution;
+&emsp;(1) to any eligible veteran or eligible person for any period when such veteran or person is not pursuing such veteran's or person's course in accordance with the regularly established policies and regulations of the educational institution, with the provisions of such regulations as may be prescribed by the Secretary pursuant to subsection (g) of this section, and with the requirements of this chapter or of chapter 34 or 35 of this title, but payment may be made for an actual period of pursuit of one or more unit subjects pursued for a period of time shorter than the enrollment period at the educational institution;
 
 &emsp;(2) to any eligible veteran or person for auditing a course; or
 
@@ -144,7 +144,7 @@ Subsec. (f). Pub. L. 96–466, §601(d)(2), struck out “(except as provided by
 
 Subsec. (g). Pub. L. 96–466, §341(b), inserted “and define” after “determine”.
 
-1976—Subsec. (a). Pub. L. 94–502, §§505, 506, 513(a)(5), authorized the Administrator to continue allowances to eligible veterans and persons during periods between consecutive school terms where the veteran or persontransfers from one approved school to another approved school, provided the period not exceed 30 days, and during periods between a semester, term, or quarter where the educational institution certifies the enrollment of the veteran or person on an individual semester, term, or quarter basis, provided that the period not exceed 1 full calendar month, substituted “such veteran's or person's” for “his”, and added cls. (3) to (5).
+1976—Subsec. (a). Pub. L. 94–502, §§505, 506, 513(a)(5), authorized the Administrator to continue allowances to eligible veterans and persons during periods between consecutive school terms where the veteran or person transfers from one approved school to another approved school, provided the period not exceed 30 days, and during periods between a semester, term, or quarter where the educational institution certifies the enrollment of the veteran or person on an individual semester, term, or quarter basis, provided that the period not exceed 1 full calendar month, substituted “such veteran's or person's” for “his”, and added cls. (3) to (5).
 
 Subsec. (b). Pub. L. 94–502, §513(a)(5), substituted “spouse or surviving spouse” for “wife or widow” wherever appearing, and “spouse's or surviving spouse's” for “wife's or widow's”.
 
@@ -180,7 +180,7 @@ Amendment by Pub. L. 97–35 effective Oct. 1, 1981, except as otherwise provide
 
 #### Effective Date of 1980 Amendment
 
-Amendment by sections 341 and 342 of Pub. L. 96–466 effective Oct. 1, 1980, except as otherwise specifically provided, see section 802(c) of Pub. L. 96–466, set out as a note under section 3452 of this title.
+Amendment by sections 341 and 342 of Pub. L. 96–466 effective Oct. 1, 1980, except as otherwise specificallyprovided, see section 802(c) of Pub. L. 96–466, set out as a note under section 3452 of this title.
 
 Amendment by sections 601(c), (d) and 602(c) of Pub. L. 96–466 effective Oct. 1, 1980, except as otherwise specifically provided, see section 802(f) of Pub. L. 96–466, set out as an Effective Date note under section 5314 of this title.
 
@@ -212,7 +212,7 @@ Ex. Ord. No. 12020, Nov. 8, 1977, 42 F.R. 58509, provided:
 
 By virtue of the authority vested in me by clause (A) of Section 1780(a) \[now 3680(a)\] of Title 38 of the United States Code, and as President of the United States of America, in order to establish a national policy in regard to payment of educational benefits to veterans and their dependents during periods in which schools are closed to conserve energy, it is hereby ordered as follows:
 
-Section 1. Whenever an educational institution submits evidence which satisfies the Administrator of Veterans’ Affairs that energy consumption will be abnormally high during the winter months or that available energy supplies will be inadequate to meet the needs of the school, and that, in the interest of energy conservation, the institution plans to close between semestersor terms for a period not to exceed 45 days, the Administrator may continue to pay monthly educational assistance benefits to veterans and eligible persons enrolled in such schools. Such authority may be exercised only once during any 12-month period with respect to any educational institution.
+Section 1. Whenever an educational institution submits evidence which satisfies the Administrator of Veterans’ Affairs that energy consumption will be abnormally high during the winter months or that available energy supplies will be inadequate to meet the needs of the school, and that, in the interest of energy conservation, the institution plans to close between semesters or terms for a period not to exceed 45 days, the Administrator may continue to pay monthly educational assistance benefits to veterans and eligible persons enrolled in such schools. Such authority may be exercised only once during any 12-month period with respect to any educational institution.
 
 Sec. 2. The Administrator shall advise veterans and other eligible persons of the effect of accepting educational assistance benefits under the provisions of Section 1 of this Order on their period of entitlement.
 

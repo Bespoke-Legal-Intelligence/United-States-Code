@@ -166,7 +166,7 @@ For purposes of this chapter:
 
 &emsp;&emsp;&emsp;(ii) has the knowledge, skills, and experience in direct personal health care of individuals, and
 
-&emsp;&emsp;(B) whose knowledge, skills, and experience are based on demonstrated learning of Native Hawaiian healing practices acquired by—
+&emsp;&emsp;(B) whose knowledge, skills, and experience are based on demonstrated learning ofNative Hawaiian healing practices acquired by—
 
 &emsp;&emsp;&emsp;(i) direct practical association with Native Hawaiian elders, and
 

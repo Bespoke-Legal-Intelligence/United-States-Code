@@ -26,5 +26,5 @@ Notwithstanding any other provision of this part, a State receiving payments und
 
 #### Amendments
 
-1990—Pub. L. 101–645 amended section generally, substituting provisions relating to failure to comply with agreements for provision relating to technical assistance.
+1990—Pub. L. 101–645 amended section generally, substituting provisions relating to failure to comply withagreements for provision relating to technical assistance.
 

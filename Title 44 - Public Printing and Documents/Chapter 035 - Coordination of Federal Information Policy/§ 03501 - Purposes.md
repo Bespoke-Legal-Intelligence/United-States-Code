@@ -6,7 +6,7 @@ The purposes of this chapter are to—
 
 &emsp;(2) ensure the greatest possible public benefit from and maximize the utility of information created, collected, maintained, used, shared and disseminated by or for the Federal Government;
 
-&emsp;(3) coordinate, integrate, and to the extent practicable and appropriate, make uniform Federal information resources managementpolicies and practices as a means to improve the productivity, efficiency, and effectiveness of Government programs, including the reduction of information collection burdens on the public and the improvement of service delivery to the public;
+&emsp;(3) coordinate, integrate, and to the extent practicable and appropriate, make uniform Federal information resources management policies and practices as a means to improve the productivity, efficiency, and effectiveness of Government programs, including the reduction of information collection burdens on the public and the improvement of service delivery to the public;
 
 &emsp;(4) improve the quality and use of Federal information to strengthen decisionmaking, accountability, and openness in Government and society;
 
@@ -34,7 +34,7 @@ The purposes of this chapter are to—
 
 #### References in Text
 
-The Computer Security Act of 1987, referred to in par. (8)(B), is Pub. L. 100–235, Jan. 8, 1988, 101 Stat. 1724, which enacted sections 278g–3 and 278g–4 of Title 15, Commerce and Trade, amended section 272 of Title 15 and section 759 of Title 40, Public Buildings, Property, and Works, and enacted provisions set out as notes under section 271 of Title 15 and section 759 of Title 40. For complete classification of this Act to the Code, see Tables.
+The Computer Security Act of 1987, referred to in par. (8)(B), is Pub. L. 100–235, Jan. 8, 1988, 101 Stat. 1724, which enacted sections 278g–3 and 278g–4 of Title 15, Commerce and Trade, amended section 272 of Title 15 and section 759 of Title 40, Public Buildings, Property, and Works, and enacted provisions set out as notes under section 271 of Title 15 and section 1441 of Title 40. For complete classification of this Act to the Code, see Tables.
 
 #### Prior Provisions
 

@@ -10,7 +10,7 @@ The President shall, to the extent he deems necessary and feasible—
 
 &emsp;(3) study the adequacy of information, disclosure, and reporting requirements and procedures relating to international investment and trade in services; recommend necessary improvements in information recording, collection, and retrieval and in statistical analysis and presentation; and report periodically to the Committees on Finance <sup>1</sup> Foreign Relations <sup>1</sup> and Commerce of the Senate and the Committees on Ways and Means, Energy and Commerce, and Foreign Affairs of the House of Representatives on national and international developments with respect to laws and regulations affecting international investment and trade in services;
 
-&emsp;(4) conduct (not more frequently than once every five years and in addition to any other surveys conducted pursuant to paragraphs (1) and (2)) benchmark surveys with respect to trade in services between unaffiliated United States persons and foreign persons; and
+&emsp;(4) conduct (not more frequently than once every five years and in addition to any othersurveys conducted pursuant to paragraphs (1) and (2)) benchmark surveys with respect to trade in services between unaffiliated United States persons and foreign persons; and
 
 &emsp;(5) publish for the use of the general public and United States Government agencies periodic, regular, and comprehensive statistical information collected pursuant to this subsection and to the benchmark surveys conducted pursuant to subsections (b) and (c) of this section, including, with respect to foreign direct investment in the United States, information on ownership by foreign governments of United States affiliates by country, and tables, on an aggregated basis, of business enterprises the ownership or control of which by foreign persons is more than 50 percent of the voting securities or other evidences of ownership of such enterprises, and business enterprises the ownership or control of which by foreign persons is 50 percent or less of the voting securities or other evidences of ownership of such enterprises.
 
@@ -40,11 +40,11 @@ The President shall conduct a study of the feasibility of establishing a system 
 
 #### (e) Report on cost of monitoring and compiling data on legislation enacted by foreign nations regulating and restricting foreign inward investment
 
-The Secretary of Commerce shall prepare a report on the estimated cost of monitoring and compiling data on legislation enacted by the major trading partners of the United States, and such other foreign nations as the Secretarydeems appropriate, which regulates or restricts foreign inward investment in such foreign nations.
+The Secretary of Commerce shall prepare a report on the estimated cost of monitoring and compiling data on legislation enacted by the major trading partners of the United States, and such other foreign nations as the Secretary deems appropriate, which regulates or restricts foreign inward investment in such foreign nations.
 
 #### (f) Reporting, recordkeeping, and documentation
 
-Activities shall be conducted so that information obtained pursuant to this chapter shall be timely and useful in the development of policy with respect to international investment and trade in services. Reporting and recordkeeping requirements imposed under this chapter shall be designed in order to minimize costs to the extent feasible, consistent with effective enforcement and the compilation of information required by this chapter. Reporting, recordkeeping, and documentation requirements shall be periodically reviewed and revised in the light of developments in the field of information technology.
+Activities shall be conducted so that information obtained pursuant to this chapter shall be timely and useful in the development of policy with respect to international investment and trade in services. Reporting and recordkeeping requirements imposed under this chapter shall be designed in order to minimize costs to the extent feasible, consistent with effective enforcement and the compilation of information required by this chapter. Reporting, recordkeeping, and documentation requirements shall be periodically reviewed and revised in the lightof developments in the field of information technology.
 
 #### (g) Costs for collecting information
 

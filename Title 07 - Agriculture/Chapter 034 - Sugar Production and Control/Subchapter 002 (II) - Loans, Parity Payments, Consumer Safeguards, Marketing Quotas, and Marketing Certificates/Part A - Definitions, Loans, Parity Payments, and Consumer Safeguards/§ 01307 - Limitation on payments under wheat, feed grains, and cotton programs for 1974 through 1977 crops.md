@@ -36,7 +36,7 @@ Par. (4). Pub. L. 93–86 inserted provision that the rules for determining whet
 
 #### Effective Date of 1977 Amendment
 
-Section 1901 of Pub. L. 95–113 provided that: “Except as otherwise provided herein, the provisions of this Act \[see Short Title of 1977 Amendment note set out undersection 1281 of this title\] shall become effective October 1, 1977.”
+Section 1901 of Pub. L. 95–113 provided that: “Except as otherwise provided herein, the provisions of this Act \[see Short Title of 1977 Amendment note set out under section 1281 of this title\] shall become effective October 1, 1977.”
 
 #### Exemption of Disaster Payment Limitations Respecting 1977 Crops of Wheat, Feed Grains, Upland Cotton, and Rice
 

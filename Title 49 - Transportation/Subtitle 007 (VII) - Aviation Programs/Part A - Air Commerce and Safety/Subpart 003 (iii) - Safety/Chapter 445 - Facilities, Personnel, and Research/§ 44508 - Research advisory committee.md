@@ -6,9 +6,11 @@ Establishment and Duties.—(1) There is a research advisory committee in the Fe
 
 &emsp;(A) provide advice and recommendations to the Administrator of the Federal Aviation Administration about needs, objectives, plans, approaches, content, and accomplishments of the aviation research program carried out under sections 40119, 44504, 44505, 44507, 44511–44513, and 44912 of this title;
 
-&emsp;(B) assist in ensuring that the research is coordinated with similar research being conducted outside the Administration; and
+&emsp;(B) assist in ensuring that the research is coordinated with similar research being conducted outside the Administration;
 
-&emsp;(C) review the operations of the regional centers of air transportation excellence established under section 44513 of this title.
+&emsp;(C) review the operations of the regional centers of air transportation excellence established under section 44513 of this title; and
+
+&emsp;(D) annually review the allocation made by the Administrator of the amounts authorized by section 48102(a) of this title among the major categories of research and development activities carried out by the Administration and provide advice and recommendations to the Administrator on whether such allocation is appropriate to meet the needs and objectives identified under subparagraph (A).
 
 (2) The Administrator may establish subordinate committees to provide advice on specific areas of research conducted under sections 40119, 44504, 44505, 44507, 44511–44513, and 44912 of this title.
 
@@ -18,7 +20,7 @@ Members, Chairman, Pay, and Expenses.—(1) The committee is composed of not mor
 
 (2) The Administrator shall designate the chairman of the committee.
 
-(3) A member of the committee serves without pay. However, the Administrator may allow a member, when attending meetings of the committee or a subordinate committee, expenses as authorized under section 5703 of title 5.
+(3) A member of the committee serves without pay. However, the Administrator may allow amember, when attending meetings of the committee or a subordinate committee, expenses as authorized under section 5703 of title 5.
 
 (c)
 
@@ -34,11 +36,13 @@ Use and Limitation of Amounts.—(1) Not more than .1 percent of the amounts mad
 
 (2) A limitation on amounts available for obligation by or for the committee does not apply to amounts made available to carry out this section.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1180.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1180; Pub. L. 104–264, title XI, §1104, Oct. 9, 1996, 110 Stat. 3279.)
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -56,7 +60,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §312(f); added Nov. 3, 1988, Pub
 
 44508(b)
 
-49 App.:1353(f) (3)–(5).
+49 App.:1353(f)(3)–(5).
 
 44508(c)
 
@@ -84,7 +88,15 @@ In subsection (e), the words “for fiscal years beginning after September 30, 1
 
 Section 14 of the Federal Advisory Committee Act, referred to in subsec. (d), is section 14 of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
+#### Amendments
+
+1996—Subsec. (a)(1)(D). Pub. L. 104–264 added subpar. (D).
+
+#### Effective Date of 1996 Amendment
+
+Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
+
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 106, 40119 of this title.
+This section is referred to in sections 106, 40119, 44501, 48102 of this title.
 

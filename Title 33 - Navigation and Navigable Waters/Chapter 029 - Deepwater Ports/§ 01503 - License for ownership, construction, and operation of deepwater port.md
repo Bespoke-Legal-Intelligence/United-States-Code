@@ -1,14 +1,8 @@
 ### §1503. License for ownership, construction, and operation of deepwater port
 
-#### (a) Requirement; restrictions on utilization of deepwater port
+#### (a) Requirement
 
-No person may engage in the ownership, construction, or operation of a deepwater port except in accordance with a license issued pursuant to this chapter. No person may transport or otherwise transfer any oil between a deepwater port and the United States unless such port has been so licensed and the license is in force. A deepwater port, licensed pursuant to the provisions of this chapter, may not be utilized—
-
-&emsp;(1) for the loading and unloading of commodities or materials (other than oil) transported from the United States, other than materials to be used in the construction, maintenance, or operation of the high seas oil port, to be used as ship supplies, including bunkering for vessels utilizing the high seas oil port,
-
-&emsp;(2) for the transshipment of commodities or materials, to the United States, other than oil,
-
-&emsp;(3) except in cases where the Secretary otherwise by rule provides, for the transshipment of oil, destined for locations outside the United States.
+No person may engage in the ownership, construction, or operation of a deepwater port except in accordance with a license issued pursuant to this chapter. No person may transport or otherwise transfer any oil between a deepwater port and the United States unless such port has been so licensed and the license is in force.
 
 #### (b) Issuance, transfer, amendment, or reinstatement
 
@@ -34,13 +28,11 @@ The Secretary may issue a license in accordance with the provisions of this chap
 
 &emsp;(6) he has not been informed, within 45 days of the last public hearing on a proposed license for a designated application area, by the Administrator of the Environmental Protection Agency that the deepwater port will not conform with all applicable provisions of the Clean Air Act, as amended \[42 U.S.C. 7401 et seq.\], the Federal Water Pollution Control Act, as amended \[33 U.S.C. 1251 et seq.\], or the Marine Protection, Research and Sanctuaries Act, as amended \[16 U.S.C. 1431 et seq., 1447 et seq.; 33 U.S.C. 1401 et seq., 2801 et seq.\];
 
-&emsp;(7) he has received the opinions of the Federal Trade Commission and the Attorney General, pursuant to section 1506 of this title, as to whether issuance of the license would adversely affect competition, restrain trade, promote monopolization, or otherwise create a situation in contravention of the antitrust laws;
+&emsp;(7) he has consulted with the Secretary of the Army, the Secretary of State, and the Secretary of Defense, to determine their views on the adequacy of the application, and its effect on programs within their respective jurisdictions;
 
-&emsp;(8) he has consulted with the Secretary of the Army, the Secretary of State, and the Secretary of Defense, to determine their views on the adequacy of the application, and its effect on programs within their respective jurisdictions;
+&emsp;(8) the Governor of the adjacent coastal State of States, pursuant to section 1508 of this title, approves, or is presumed to approve, issuance of the license; and
 
-&emsp;(9) the Governor of the adjacent coastal State of States, pursuant to section 1508 of this title, approves, or is presumed to approve, issuance of the license; and
-
-&emsp;(10) the adjacent coastal State to which the deepwater port is to be directly connected by pipeline has developed, or is making, at the time the application is submitted, reasonable progress, as determined in accordance with section 1508(c) of this title, toward developing, an approved coastal zone management program pursuant to the Coastal Zone Management Act of 1972 \[16 U.S.C. 1451 et seq.\].
+&emsp;(9) the adjacent coastal State to which the deepwater port is to be directly connected by pipeline has developed, or is making, at the time the application is submitted, reasonable progress, as determined in accordance with section 1508(c) of this title, toward developing, an approved coastal zone management program pursuant to the Coastal Zone Management Act of 1972 \[16 U.S.C. 1451 et seq.\].
 
 #### (d) Application for license subject to examination and comparison of economic, social, and environmental effects of deepwater port facility and deep draft channel and harbor; finality of determination
 
@@ -56,15 +48,15 @@ If an application is made under this chapter for a license to construct a deepwa
 
 #### (e) Additional conditions; removal requirements, waiver; Outer Continental Shelf Lands Act applicable to utilization of components upon waiver of removal requirements
 
-(1) In issuing a license for the ownership, construction, and operation of a deepwater port, the Secretary shall prescribe any conditions which he deems necessary to carry out the provisions of this chapter, or which are otherwise required by any Federal department or agency pursuant to the terms of this chapter. On petition of a licensee, the Secretary shall review any condition of a license issued under this chapter to determine if that condition is uniform, insofar as practicable, with the conditions of other licenses issued under this chapter, reasonable, and necessary to meet the objectives of this chapter. The Secretary shall amend or rescind any condition that is no longer necessary or otherwise required by any Federal department or agency under this chapter.
+(1) In issuing a license for the ownership, construction, and operation of a deepwater port, the Secretary shall prescribe those conditions which the Secretary deems necessary to carry out the provisions and requirements of this chapter <sup>2</sup> or which are otherwise required by any Federal department or agency pursuant to the terms of this chapter.<sup>2</sup> To the extent practicable, conditions required to carry out the provisions and requirements of this chapter <sup>2</sup> shall be addressed in license conditions rather than by regulation and, to the extent practicable, the license shall allow a deepwater port's operating procedures to be stated in an operations manual, approved by the Coast Guard, in accordance with section 1509(a) of this title, rather than in detailed and specific license conditions or regulations; except that basic standards and conditions shall be addressed in regulations. On petition of a licensee, the Secretary shall review any condition of a license issued under this chapter to determine if that condition is uniform, insofar as practicable, with the conditions of other licenses issued under this chapter, reasonable, and necessary to meet the objectives of this chapter. The Secretary shall amend or rescind any condition that is no longer necessary or otherwise required by any Federal department or agency under this chapter.
 
-(2) No license shall be issued, transferred, or renewed under this chapter unless the licensee or transferee first agrees in writing that (A) there will be no substantial change from the plans, operational systems, and methods, procedures, and safeguards set forth in his application, as approved, without prior approval in writing from the Secretary; and (B) he will comply with any condition the Secretary may prescribe in accordance with the provisions of this chapter.
+(2) No license shall be issued, transferred, or renewed under this chapter unless the licensee or transferee first agrees in writing that (A) there will be no substantial change from the plans, operational systems, and methods, procedures, and safeguards set forth in his license, as approved, without prior approval in writing from the Secretary; and (B) he will comply with any condition the Secretary may prescribe in accordance with the provisions of this chapter.
 
 (3) The Secretary shall establish such bonding requirements or other assurances as he deems necessary to assure that, upon the revocation or termination of a license, the licensee will remove all components of the deepwater port. In the case of components lying in the subsoil below the seabed, the Secretary is authorized to waive the removal requirements if he finds that such removal is not otherwise necessary and that the remaining components do not constitute any threat to navigation or to the environment. At the request of the licensee, the Secretary, after consultation with the Secretary of the Interior, is authorized to waive the removal requirement as to any components which he determines may be utilized in connection with the transportation of oil, natural gas, or other minerals, pursuant to a lease granted under the provisions of the Outer Continental Shelf Lands Act \[43 U.S.C. 1331 et seq.\], after which waiver the utilization of such components shall be governed by the terms of the Outer Continental Shelf Lands Act.
 
-#### (f) Amendment, transfer, or reinstatement of license
+#### (f) Amendments, transfers, and reinstatements
 
-The Secretary may amend, transfer, or reinstate a license issued under this chapter if theamendment, transfer, or reinstatement is consistent with the findings made at the time the license was issued.
+The Secretary may amend, transfer, or reinstate a license issued under this chapter <sup>2</sup> if the Secretary finds that the amendment, transfer, or reinstatement is consistent with the requirements of this chapter.
 
 #### (g) Eligible citizens
 
@@ -74,7 +66,7 @@ Any citizen of the United States who otherwise qualifies under the terms of this
 
 A license issued under this chapter remains in effect unless suspended or revoked by the Secretary or until surrendered by the licensee.
 
-(Pub. L. 93–627, §4, Jan. 3, 1975, 88 Stat. 2128; Pub. L. 98–419, §2(b)–(e), Sept. 25, 1984, 98 Stat. 1607; Pub. L. 101–380, title II, §2003(a)(1), Aug. 18, 1990, 104 Stat. 507.)
+(Pub. L. 93–627, §4, Jan. 3, 1975, 88 Stat. 2128; Pub. L. 98–419, §2(b)–(e), Sept. 25, 1984, 98 Stat. 1607; Pub. L. 101–380, title II, §2003(a)(1), Aug. 18, 1990, 104 Stat. 507; Pub. L. 104–324, title V, §504, Oct. 19, 1996, 110 Stat. 3926.)
 
 #### References in Text
 
@@ -84,17 +76,33 @@ The Federal Water Pollution Control Act, as amended, referred to in subsec. (c)(
 
 The Marine Protection, Research and Sanctuaries Act, referred to subsec. (c)(6), probably means Pub. L. 92–532, Oct. 23, 1972, 86 Stat. 1052, as amended, known as the Marine Protection, Research, and Sanctuaries Act of 1972, which is classified generally to chapters 27 (§1401 et seq.) and 41 (§2801 et seq.) of this title and chapters 32 (§1431 et seq.) and 32A (§1447 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1401 of this title and Tables.
 
-The antitrust laws, referred to in subsec. (c)(7), include the laws specified in section 1502(3) of this title.
+The Coastal Zone Management Act of 1972, referred to in subsec. (c)(9), is title III of Pub. L. 89–454, as added by Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1280, as amended, which is classified generally to chapter 33 (§1451 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1451 of Title 16 and Tables.
 
-The Coastal Zone Management Act of 1972, referred to in subsec. (c)(10), is title III of Pub. L. 89–454, as added by Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1280, as amended, which is classified generally to chapter 33 (§1451 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1451 of Title 16 and Tables.
+This chapter, referred to first three times in subsec. (e)(1) and first time in subsec. (f), was in the original “this title” and was translated as reading “this Act”, meaning Pub. L. 93–627, which is classified generally to this chapter, to reflect the probable intent of Congress, because Pub. L. 93–627 does not contain titles.
 
 The Outer Continental Shelf Lands Act, referred to in subsec. (e)(3), is act Aug. 7, 1953, ch. 345, §2, 67 Stat. 462, as amended, which is classified generally to subchapter III (§1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1331 of Title 43 and Tables.
 
 #### Amendments
 
+1996—Subsec. (a). Pub. L. 104–324, §504(a), struck out at end “A deepwater port, licensed pursuant to the provisions of this chapter, may not be utilized—
+
+&emsp;“(1) for the loading and unloading of commodities or materials (other than oil) transported from the United States, other than materials to be used in the construction, maintenance, or operation of the high seas oil port, to be used as ship supplies, including bunkering for vessels utilizing the high seas oil port,
+
+&emsp;“(2) for the transshipment of commodities or materials, to the United States, other than oil,
+
+&emsp;“(3) except in cases where the Secretary otherwise by rule provides, for the transshipment of oil, destined for locations outside the United States.”
+
+Subsec. (c)(7) to (10). Pub. L. 104–324, §504(b), redesignated pars. (8) to (10) as (7) to (9), respectively, and struck out former par. (7) which read as follows: “he has received the opinions of the Federal Trade Commission and the Attorney General, pursuant to section 1506 of this title, as to whether issuance of the license would adversely affect competition, restrain trade, promote monopolization, or otherwise create a situation in contravention of the antitrust laws;”.
+
+Subsec. (e)(1). Pub. L. 104–324, §504(c), substituted “In issuing a license for the ownership, construction, and operation of a deepwater port, the Secretary shall prescribe those conditions which the Secretary deems necessary to carry out the provisions and requirements of this chapter or which are otherwise required by any Federal department or agency pursuant to the terms of this chapter. To the extent practicable, conditions required to carry out the provisions and requirements of this chapter shall be addressed in license conditions rather than by regulation and, to the extent practicable, the license shall allow a deepwater port's operating procedures to be stated in an operations manual, approved by the Coast Guard, in accordance with section 1509(a) of this title, rather than in detailed and specific license conditions or regulations; except that basic standards and conditions shall be addressed in regulations.” for “In issuing a license for the ownership, construction, and operation of a deepwater port, the Secretary shall prescribe any conditions which he deems necessary to carry out the provisions of this chapter, or which are otherwise required by any Federal department or agency pursuant to the terms of this chapter.”
+
+Subsec. (e)(2). Pub. L. 104–324, §504(d), substituted “his license” for “his application”.
+
+Subsec. (f). Pub. L. 104–324, §504(e), inserted heading and amended text generally. Prior to amendment, text read as follows: “The Secretary may amend, transfer, or reinstate a license issued under this chapter if the amendment, transfer, or reinstatement is consistent with the findings made at the time the license was issued.”
+
 1990—Subsec. (c)(1). Pub. L. 101–380 substituted “section 2716 of this title” for “section 1517(<i>l</i>) of this title;”.
 
-1984—Subsec. (b). Pub. L. 98–419, §2(b), substituted provisions authorizing the Secretary, on application, to issue a license for the ownership, construction, and operation of a deepwater port and, on petition of the licensee, to amend, transfer, or reinstate a license issued under this chapter for provisions which had authorized the Secretary, upon application and in accordance with the provisions of this chapter, to issue, transfer, amend, or renew a license for the ownership, construction, and operation of a deepwater port.
+1984—Subsec. (b). Pub. L. 98–419, §2(b), substituted provisions authorizing the Secretary, on application, toissue a license for the ownership, construction, and operation of a deepwater port and, on petition of the licensee, to amend, transfer, or reinstate a license issued under this chapter for provisions which had authorized the Secretary, upon application and in accordance with the provisions of this chapter, to issue, transfer, amend, or renew a license for the ownership, construction, and operation of a deepwater port.
 
 Subsec. (e)(1). Pub. L. 98–419, §2(e), inserted provision that on petition of a licensee, the Secretary shall review any condition of a license issued under this chapter to determine if that condition is uniform, insofar as practicable, with the conditions of other licenses issued under this chapter and is reasonable, and necessary to meet the objectives of this chapter, and that the Secretary shall amend or rescind any condition that is no longer necessary or otherwise required by any Federal department or agency under this chapter.
 
@@ -108,7 +116,9 @@ Amendment by Pub. L. 101–380 applicable to incidents occurring after Aug. 18, 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1506 of this title; title 16 section 1453.
+This section is referred to in section 1504 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a semicolon.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

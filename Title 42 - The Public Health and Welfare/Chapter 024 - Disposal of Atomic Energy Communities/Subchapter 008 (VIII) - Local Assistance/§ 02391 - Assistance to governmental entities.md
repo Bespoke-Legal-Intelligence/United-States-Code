@@ -2,7 +2,7 @@
 
 #### (a) Annual assistance payments; extensions; determination of amount and recipient
 
-From the date of transfer of any municipal installations to a governmental or other entity at or for the community, the Administrator is authorized, for a period of ten years, to make annual assistance payments of just and reasonable sums to the State, county, or local entity having jurisdiction to collect property taxes or to the entity receiving the installation transferred hereunder: <i>Provided, however,</i> That with respect to the cities of Oak Ridge, Tennessee, and Richland, Washington, the Richland School District, the Los Alamos School Board, and the county of Los Alamos, New Mexico, the Administrator is authorized to continue to make assistance payments of just and reasonable sums after expiration of such ten-year period: <i>Provided further,</i> That the Administrator is also authorized to make payments of just and reasonable sums to Anderson County and Roane County, Tennessee. In determining the amount and recipient of such payments the Administrator shall consider—
+From the date of transfer of any municipal installations to a governmental or other entity at or for the community, the Administrator is authorized, for a period of ten years, to make annual assistance payments of just and reasonable sums to the State, county, or local entity having jurisdiction to collect property taxes or to the entity receiving the installation transferred hereunder: <i>Provided, however</i>, That with respect to the cities of Oak Ridge, Tennessee, and Richland, Washington, the Richland School District, the Los Alamos School Board, and the county of Los Alamos, New Mexico, the Administrator is authorized to continue to make assistance payments of just and reasonable sums after expiration of such ten-year period: <i>Provided further</i>, That the Administrator is also authorized to make payments of just and reasonable sums to Anderson County and Roane County, Tennessee. In determining the amount and recipient of such payments the Administrator shall consider—
 
 &emsp;(1) the approximate real property taxes and assessments for local improvements which would be paid to the governmental entity upon property within the community if such property were not exempt from taxation by reason of Federal ownership;
 
@@ -28,13 +28,13 @@ Payments made under this section shall be payments made for special burdens impo
 
 #### (d) Recommendation for further assistance payments
 
-With respect to any entity not less than six months prior to the expiration of the ten-year period referred to in subsection (a) of this section (or not less than six months prior to June 30, 1979, in the case of the cities of Oak Ridge, Tennessee, and Richland, Washington, and the Richland School District; or not less than six months prior to June 30, 1986, in the case of Anderson County and Roane County, Tennessee, and the Los Alamos School Board; and not less than six months prior to June 30, 1987, in the case of the county of Los Alamos, New Mexico), the Administrator shall present to the appropriate committees of the House of Representatives and the Senate recommendations as to the need for any further assistance payments to such entity.
+With respect to any entity not less than six months prior to the expiration of the ten-year period referred to in subsection (a) of this section (or not less than six months prior to June 30, 1979, in the case of the cities of Oak Ridge, Tennessee, and Richland, Washington, and the Richland School District; or not less than six months prior to June 30, 1986, in the case of Anderson County and Roane County, Tennessee; or not later than June 30, 1996, in the case of the Los Alamos School Board and the county of Los Alamos, New Mexico), the Administrator shall present to the appropriate committees of the House of Representatives and the Senate recommendations as to the need for any further assistance payments to such entity. If the recommendation under the preceding sentence regarding the Los Alamos School Board or the county of Los Alamos, New Mexico, indicates a need for further assistance for the school board or the county, as the case may be, after June 30, 1997, the recommendation shall include a report and plan describing the actions required to eliminate the need for further assistance for the school board or the county, including a proposal for legislative action to carry out the plan.
 
 #### (e) Reduction or termination of assistance payments; determination by Administrator of financial self-sufficiency
 
 In exercising the authority of subsection (a) of this section the Administrator shall assure that the governmental or other entities receiving assistance hereunder utilize all reasonable, available means to achieve financial self-sufficiency to the end that assistance payments by the Administrator may be reduced or terminated at the earliest practical time.
 
-(Aug. 4, 1955, ch. 543, ch. 9, §91, 69 Stat. 481; Dec. 14, 1967, Pub. L. 90–190, §2, 81 Stat. 576; Dec. 31, 1975, Pub. L. 94–187, title VI, §601(1)–(6), 89 Stat. 1077, 1078; Feb. 25, 1978, Pub. L. 95–238, title II, §205(a), 92 Stat. 60.)
+(Aug. 4, 1955, ch. 543, ch. 9, §91, 69 Stat. 481; Dec. 14, 1967, Pub. L. 90–190, §2, 81 Stat. 576; Dec. 31, 1975, Pub. L. 94–187, title VI, §601(1)–(6), 89 Stat. 1077, 1078; Feb. 25, 1978, Pub. L. 95–238, title II, §205(a), 92 Stat. 60; Feb. 10, 1996, Pub. L. 104–106, div. C, title XXXI, §3161(c), 110 Stat. 627.)
 
 #### References in Text
 
@@ -42,11 +42,13 @@ Act of September 30, 1950, referred to in subsec. (c), is act Sept. 30, 1950, ch
 
 #### Amendments
 
+1996—Subsec. (d). Pub. L. 104–106 substituted “; or not later than June 30, 1996, in the case of the Los Alamos School Board and the county of Los Alamos, New Mexico” for “, and the Los Alamos School Board; and not less than six months prior to June 30, 1987, in the case of the county of Los Alamos, New Mexico” and inserted at end “If the recommendation under the preceding sentence regarding the Los Alamos School Board or the county of Los Alamos, New Mexico, indicates a need for further assistance for the school board or the county, as the case may be, after June 30, 1997, the recommendation shall include a report and plan describing the actions required to eliminate the need for further assistance for the school board or the county, including a proposal for legislative action to carry out the plan.”
+
 1978—Subsec. (a). Pub. L. 95–238, §205(a)(1), inserted provisions for applicability to the Los Alamos School Board and the county of Los Alamos, New Mexico, and substituted provisions authorizing Administrator to make payments for provisions requiring Administrator to make payments.
 
 Subsec. (d). Pub. L. 95–238, §205(a)(2), inserted provisions for applicability to the Los Alamos School Board and the county of Los Alamos, New Mexico, and substituted provision requiring presentation to the appropriate committees of the House and the Senate for provision requiring presentation to the Joint Committee on Atomic Energy.
 
-1975—Subsec. (a). Pub. L. 94–187, §601(1), (5), substituted “Administrator” for “Commission” in three places and inserted at end of first sentence “: <i>Provided further,</i> That the Administrator is also authorized to make payments of just and reasonable sums to Anderson County and Roane County, Tennessee”.
+1975—Subsec. (a). Pub. L. 94–187, §601(1), (5), substituted “Administrator” for “Commission” in three places and inserted at end of first sentence “: <i>Provided further</i>, That the Administrator is also authorized to make payments of just and reasonable sums to Anderson County and Roane County, Tennessee”.
 
 Subsec. (a)(2). Pub. L. 94–187, §601(2), substituted “Energy Research and Development Administration” for “atomic energy”.
 

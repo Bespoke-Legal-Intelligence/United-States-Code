@@ -14,7 +14,7 @@ A Government authority may obtain financial records under section 3402(2) of thi
 
 &emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.
 
-&emsp;&emsp;“3. Serve the Government authority requesting the records by mailing or delivering a copy of your motion and statement to        .
+&emsp;&emsp;“3. Serve the Government authority requesting the records by mailing or delivering a copy of your motion and statement to                 .
 
 &emsp;&emsp;“4. Be prepared to come to court and present your position in further detail.
 

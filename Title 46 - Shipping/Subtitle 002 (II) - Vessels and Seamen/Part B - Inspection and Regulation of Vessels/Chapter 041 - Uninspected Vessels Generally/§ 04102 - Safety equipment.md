@@ -10,7 +10,11 @@
 
 (e) Each manned uninspected vessel operating on the high seas or beyond three nautical miles from the coastline of the Great Lakes shall be equipped with the number and type of alerting and locating equipment, including emergency position indicating radio beacons, prescribed by the Secretary.
 
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 528; Pub. L. 99–640, §16, Nov. 10, 1986, 100 Stat. 3552; Pub. L.100–424, §2(c), Sept. 9, 1988, 102 Stat. 1590; Pub. L. 100–540, §1(a), Oct. 28, 1988, 102 Stat. 2719.)
+(f)(1) The Secretary, in consultation with the Towing Safety Advisory Committee and taking into consideration the characteristics, methods of operation, and nature of service of towing vessels, may require the installation, maintenance, and use of a fire suppression system or other measures to provide adequate assurance that fires on board towing vessels can be suppressed under reasonably foreseeable circumstances.
+
+(2) The Secretary shall require under paragraph (1) the use of a fire suppression system or other measures to provide adequate assurance that a fire on board a towing vessel that is towing a non-self-propelled tank vessel can be suppressed under reasonably foreseeable circumstances.
+
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 528; Pub. L. 99–640, §16, Nov. 10, 1986, 100 Stat. 3552; Pub. L. 100–424, §2(c), Sept. 9, 1988, 102 Stat. 1590; Pub. L. 100–540, §1(a), Oct. 28, 1988, 102 Stat. 2719; Pub. L. 104–324, title IX, §902(a), Oct. 19, 1996, 110 Stat. 3947.)
 
 Historical and Revision Notes
 
@@ -38,11 +42,17 @@ Section 4102 requires uninspected vessels to comply with certain provisions that
 
 #### Amendments
 
+1996—Subsec. (f). Pub. L. 104–324 added subsec. (f).
+
 1988—Subsec. (e). Pub. L. 100–540 amended subsec. (e) generally without regard to the prior repeal of subsec. (e) by Pub. L. 100–424.
 
 Pub. L. 100–424 struck out subsec. (e) which read as follows: “Each uninspected fishing, fish processing, or fish tender vessel operating on the high seas shall be equipped with the number and type of emergency position indicating radio beacons prescribed by regulation.” See section 4502(a)(7) of this title.
 
 1986—Subsec. (e). Pub. L. 99–640 added subsec. (e).
+
+#### Regulations
+
+Section 902(b) of Pub. L. 104–324 provided that: “The Secretary of the department in which the Coast Guard is operating shall issue regulations establishing the requirement described in subsection (f)(2) of section 4102 of title 46, United States Code, as added by this section, by not later than October 1, 1997.”
 
 #### Section Referred to in Other Sections
 

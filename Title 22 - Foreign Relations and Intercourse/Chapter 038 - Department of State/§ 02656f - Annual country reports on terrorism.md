@@ -10,9 +10,17 @@ The Secretary of State shall transmit to the Speaker of the House of Representat
 
 &emsp;&emsp;(B) about which the Congress was notified during the preceding five years pursuant to section 2405(j) of the Appendix to title 50; and
 
-&emsp;&emsp;(C) which the Secretary determines should be the subject of such report; and
+&emsp;&emsp;(C) which the Secretary determines should be the subject of such report;
 
-&emsp;(2) all relevant information about the activities during the preceding year of any terrorist group, and any umbrella group under which such terrorist group falls, known to be responsible for the kidnapping or death of an American citizen during the preceding five years, any terrorist group known to be financed by countries about which Congress was notified during the preceding year pursuant to section 2405(j) of the Appendix to title 50, and any other known international terrorist group which the Secretary determines should be the subject of such report.
+&emsp;(2) all relevant information about the activities during the preceding year of any terrorist group, and any umbrella group under which such terrorist group falls, known to be responsible for the kidnapping or death of an American citizen during the preceding five years, any terrorist group known to be financed by countries about which Congress was notified during the preceding year pursuant to section 2405(j) of the Appendix to title 50, and any other known international terrorist group which the Secretary determines should be the subject of such report;
+
+&emsp;(3) with respect to each foreign country from which the United States Government has sought cooperation during the previous five years in the investigation or prosecution of an act of international terrorism against United States citizens or interests, information on—
+
+&emsp;&emsp;(A) the extent to which the government of the foreign country is cooperating with the United States Government in apprehending, convicting, and punishing the individual or individuals responsible for the act; and
+
+&emsp;&emsp;(B) the extent to which the government of the foreign country is cooperating in preventing further acts of terrorism against United States citizens in the foreign country; and
+
+&emsp;(4) with respect to each foreign country from which the United States Government has sought cooperation during the previous five years in the prevention of an act of international terrorism against such citizens or interests, the information described in paragraph (3)(B).
 
 #### (b) Provisions to be included in report
 
@@ -48,7 +56,9 @@ The report required under subsection (a) of this section should to the extent fe
 
 #### (c) Classification of report
 
-The report required under subsection (a) of this section shall, to the extent practicable, be submitted in an unclassified form and may be accompanied by a classified appendix.
+(1) Except as provided in paragraph (2), the report required under subsection (a) of this section shall, to the extent practicable, be submitted in an unclassified form and may be accompanied by a classified appendix.
+
+(2) If the Secretary of State determines that the transmittal of the information with respect to a foreign country under paragraph (3) or (4) of subsection (a) of this section in classified form would make more likely the cooperation of the government of the foreign country as specified in such paragraph, the Secretary may transmit the information under such paragraph in classified form.
 
 #### (d) Definitions
 
@@ -66,9 +76,13 @@ As used in this section—
 
 (2) The report required by subsection (a) of this section to be submitted by March 31, 1988, may be submitted no later than August 31, 1988.
 
-(Pub. L. 100–204, title I, §140, Dec. 22, 1987, 101 Stat. 1347; Pub. L. 101–246, title I, §122, Feb. 16, 1990, 104 Stat. 27; Pub. L. 103–236, title I, §133(b)(1), Apr. 30, 1994, 108 Stat. 395.)
+(Pub. L. 100–204, title I, §140, Dec. 22, 1987, 101 Stat. 1347; Pub. L. 101–246, title I, §122, Feb. 16, 1990, 104 Stat. 27; Pub. L. 103–236, title I, §133(b)(1), Apr. 30, 1994, 108 Stat. 395; Pub. L. 104–208, div. A, title I, §101(c) \[title V, §578\], Sept. 30, 1996, 110 Stat. 3009–121, 3009–169.)
 
 #### Amendments
+
+1996—Subsec. (a)(3), (4). Pub. L. 104–208, §101(c) \[title V, §578(1)\], added pars. (3) and (4).
+
+Subsec. (c). Pub. L. 104–208, §101(c) \[title V, §578(2)\], designated existing provisions as par. (1), realigned margins, substituted “Except as provided in paragraph (2), the report” for “The report”, and added par. (2).
 
 1994—Subsec. (b)(2)(E). Pub. L. 103–236 added subpar. (E).
 
@@ -76,5 +90,5 @@ As used in this section—
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 2656g of this title.
+This section is referred to in section 2656g of this title; title 10 section 2249a.
 

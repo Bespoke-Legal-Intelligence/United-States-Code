@@ -4,7 +4,7 @@
 
 (b) The Postal Service shall consult with and receive the advice of the Advisory Council regarding all aspects of postal operations.
 
-(c) The members of the Council representative of the public at large shall receive for eachmeeting of the Council an amount equal to the daily rate applicable to level V of the Executive Schedule under section 5316 of title 5. All members of the Council shall be reimbursed for necessary travel and reasonable expenses incurred in attending meetings of the Council.
+(c) The members of the Council representative of the public at large shall receive for each meeting of the Council an amount equal to the daily rate applicable to level V of the Executive Schedule under section 5316 of title 5. All members of the Council shall be reimbursed for necessary travel and reasonable expenses incurred in attending meetings of the Council.
 
 (Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 722.)
 

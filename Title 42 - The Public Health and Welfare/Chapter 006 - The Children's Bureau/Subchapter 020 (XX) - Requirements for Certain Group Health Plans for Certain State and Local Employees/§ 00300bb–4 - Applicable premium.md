@@ -28,7 +28,7 @@ For purposes of this subchapter—
 
 #### (C) Subparagraph (B) not to apply where significant change
 
-&emsp;&emsp;A plan administrator may not elect to have subparagraph (B) apply in any case in which there is any significant difference, between the determination period and the preceding determination period, in coverageunder, or in employees covered by, the plan. The determination under the preceding sentence for any determination period shall be made at the same time as the determination under paragraph (3).
+&emsp;&emsp;A plan administrator may not elect to have subparagraph (B) apply in any case in which there is any significant difference, between the determination period and the preceding determination period, in coverage under, or in employees covered by, the plan. The determination under the preceding sentence for any determination period shall be made at the same time as the determination under paragraph (3).
 
 #### (3) Determination period
 

@@ -1,6 +1,6 @@
 ### §2107a. Financial assistance program for specially selected members: Army Reserve and Army National Guard
 
-(a)(1) The Secretary of the Army may appoint as a cadet in the Army Reserve or Army National Guard of the United States any eligible member of the program who is enrolled in the Advanced Course of the Army Reserve Officers’ Training Corps at a military college, military junior college, or civilian institution and who will be under 25 years of age on June 30 of the calendar year in which he is eligible under this section for appointment as a second lieutenant in the Army Reserve or Army National Guard, except that the age of any such member who has served on active duty in the armed forces may exceed such age limitation on such date by a period equal to the period such member served on active duty, but only if such member will be under 29 years of age on such date.
+(a)(1) The Secretary of the Army may appoint as a cadet in the Army Reserve or Army National Guard of the United States any eligible member of the program who is enrolled in the Advanced Course of the Army Reserve Officers’ Training Corps at a military college, military junior college, or civilian institution and who will be under 27 years of age on June 30 of the calendar year in which he is eligible under this section for appointment as a second lieutenant in the Army Reserve or Army National Guard, except that the age of any such member who has served on active duty in the armed forces may exceed such age limitation on such date by a period equal to the period such member served on active duty, but only if such member will be under 30 years of age on such date.
 
 (2) To be considered a military college or military junior college for the purposes of this section, a school must be a civilian postsecondary educational institution essentially military in nature and meet such other requirements as the Secretary of the Army may prescribe. For purposes of this section, a military junior college does not confer a baccalaureate degree.
 
@@ -26,17 +26,21 @@
 
 (e) The date of rank of officers appointed under this section in May or June of any year is the date of graduation of cadets from the United States Military Academy in that year. The Secretary of the Army shall establish the date of rank of all other officers appointed under this section.
 
-(f) A cadet who does not complete the course of instruction, or who completes the course but declines to accept a commission when offered, or who does not complete a baccalaureate degree within five years after appointment as a cadet under this section, may be ordered to active duty by the Secretary of the Army to serve in his enlisted grade for such period of time as theSecretary prescribes but not for more than four years.
+(f) A cadet who does not complete the course of instruction, or who completes the course but declines to accept a commission when offered, or who does not complete a baccalaureate degree within five years after appointment as a cadet under this section, may be ordered to active duty by the Secretary of the Army to serve in his enlisted grade for such period of time as the Secretary prescribes but not for more than four years.
 
-(g) In computing length of service for any purpose, an officer appointed under this section may not be credited with service as a cadet or with concurrent enlisted service.
+(g) In computing length of service for any purpose, an officer appointed under this section may not be credited with service as a cadet or with concurrent enlisted service, other than enlisted service performed after August 1, 1979, as a member of Selected <sup>1</sup> Reserve.
 
 (h) The Secretary of the Army shall appoint not more than 208 cadets each year under this section, to include not less than 10 cadets at each military junior college at which there are not less than 10 members of the program eligible under subsection (b) for such an appointment. At any military college at which in any year there are fewer than 10 such members, the Secretary shall appoint each such member as a cadet under this section.
 
 (i) Cadets appointed under this section are in addition to the number appointed under section 2107 of this title.
 
-(Added Pub. L. 96–357, §1(c)(1), Sept. 24, 1980, 94 Stat. 1179; amended Pub. L. 102–190, div. A, title V, §522(a), (b)(1), Dec. 5, 1991, 105 Stat. 1362.)
+(Added Pub. L. 96–357, §1(c)(1), Sept. 24, 1980, 94 Stat. 1179; amended Pub. L. 102–190, div. A, title V, §522(a), (b)(1), Dec. 5, 1991, 105 Stat. 1362; Pub. L. 104–201, div. A, title V, §§507(a)(3), 555(a), Sept. 23, 1996, 110 Stat. 2512, 2527.)
 
 #### Amendments
+
+1996—Subsec. (a)(1). Pub. L. 104–201, §555(a), substituted “27 years of age” for “25 years of age” and “30 years of age” for “29 years of age”.
+
+Subsec. (g). Pub. L. 104–201, §507(a)(3), inserted “, other than enlisted service performed after August 1, 1979, as a member of Selected Reserve” before period at end.
 
 1991—Pub. L. 102–190, §522(b)(1), substituted “Army Reserve and Army National Guard” for “military junior colleges” in section catchline.
 
@@ -54,7 +58,13 @@ Subsec. (h). Pub. L. 102–190, §522(a)(5), struck out par. (1) designation, su
 
 Section 1(e) of Pub. L. 96–357 provided that: “The amendments made by this section \[enacting this section and amending sections 2107 and 2108 of this title\] shall take effect on October 1, 1980.”
 
+#### Benefits Not To Accrue for Periods Prior to September 23, 1996
+
+No increase in pay or retired or retainer pay to accrue for periods before Sept. 23, 1996, by reason of amendments made by section 507 of Pub. L. 104–201, see section 507(c) of Pub. L. 104–201, set out as a note under section 2106 of this title.
+
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 2005, 2108 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be preceded by “the”.</i>
 

@@ -84,13 +84,39 @@ For purposes of subsection (a)—
 
 &emsp;&emsp;(B) furnished to the employee, his spouse, and any of his dependents by or on behalf of such institution for use as a residence.
 
-#### (4) Educational institution
+#### (4) Educational institution, etc.
 
-&emsp;For purposes of this paragraph, the term “educational institution” means an institution described in section 170(b)(1)(A)(ii).
+&emsp;For purposes of this subsection—
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 39; Oct. 7, 1978, Pub. L. 95–427, §4(a), 92 Stat. 997; Nov. 8, 1978, Pub. L. 95–615, title II, §205, 92 Stat. 3107; Apr. 1, 1980, Pub. L. 96–222, title I, §108(a)(1)(G), 94 Stat. 225; Aug. 13, 1981, Pub. L. 97–34, title I, §113, 95 Stat. 195; Oct. 22, 1986, Pub. L. 99–514, title XI, §1164(a), 100 Stat. 2511; Nov. 10, 1988, Pub. L. 100–647, title I, §1011B(d), 102 Stat. 3489.)
+#### (A) In general
+
+&emsp;&emsp;The term “educational institution” means—
+
+&emsp;&emsp;&emsp;(i) an institution described in section 170(b)(1)(A)(ii) (or an entity organized under State law and composed of public institutions so described), or
+
+&emsp;&emsp;&emsp;(ii) an academic health center.
+
+#### (B) Academic health center
+
+&emsp;&emsp;For purposes of subparagraph (A), the term “academic health center” means an entity—
+
+&emsp;&emsp;&emsp;(i) which is described in section 170(b)(1)(A)(iii),
+
+&emsp;&emsp;&emsp;(ii) which receives (during the calendar year in which the taxable year of the taxpayer begins) payments under subsection (d)(5)(B) or (h) of section 1886 of the Social Security Act (relating to graduate medical education), and
+
+&emsp;&emsp;&emsp;(iii) which has as one of its principal purposes or functions the providing and teaching of basic and clinical medical science and research with the entity's own faculty.
+
+(Aug. 16, 1954, ch. 736, 68A Stat. 39; Oct. 7, 1978, Pub. L. 95–427, §4(a), 92 Stat. 997; Nov. 8, 1978, Pub. L. 95–615, title II, §205, 92 Stat. 3107; Apr. 1, 1980, Pub. L. 96–222, title I, §108(a)(1)(G), 94 Stat. 225; Aug. 13, 1981, Pub. L. 97–34, title I, §113, 95 Stat. 195; Oct. 22, 1986, Pub. L. 99–514, title XI, §1164(a), 100 Stat. 2511; Nov. 10, 1988, Pub. L. 100–647, title I, §1011B(d), 102 Stat. 3489; Aug. 20, 1996, Pub. L. 104–188, title I, §1123(a), 110 Stat. 1768.)
+
+#### References in Text
+
+Section 1886(d)(5)(B) or (h) of the Social Security Act, referred to in subsec. (d)(4)(B)(ii), is classified to section 1395ww(d)(5)(B) or (h) of Title 42, The Public Health and Welfare.
 
 #### Amendments
+
+1996—Subsec. (d)(4). Pub. L. 104–188 amended par. (4) generally. Prior to amendment, par. (4) read as follows: “
+
+Educational institution.—For purposes of this paragraph, the term ‘educational institution’ means an institution described in section 170(b)(1)(A)(ii).”
 
 1988—Subsec. (d). Pub. L. 100–647 struck out “(as of the close of the calendar year in which the taxable year begins)” after “appraised value” in par. (2)(A)(i) and inserted at end “The appraised value under subparagraph (A)(i) shall be determined as of the close of the calendar year in which the taxable year begins, or, in the case of a rental period not greater than 1 year, at any time during the calendar year in which such period begins.” as concluding provision.
 
@@ -104,9 +130,13 @@ For purposes of subsection (a)—
 
 Pub. L. 95–427 inserted provisions relating to factors not taken into account with respect to meals and certain fixed charges for meals.
 
+#### Effective Date of 1996 Amendment
+
+Section 1123(b) of Pub. L. 104–188 provided that: “The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1995.”
+
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to whichsuch amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
+Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
 #### Effective Date of 1986 Amendment
 
@@ -126,7 +156,7 @@ Section 4(b) of Pub. L. 95–427 provided that: “The amendment made by subsect
 
 #### Effective Date of 1978 Amendment; Election of Prior Law
 
-Amendment by Pub. L. 95–615 applicable to taxable years beginning after Dec. 31, 1977, with provision for election of prior law, see section 209 of Pub. L. 95–615, set out as a note under section 911 of this title.
+Amendment by Pub. L. 95–615 applicable to taxable years beginning after Dec. 31, 1977, with provision forelection of prior law, see section 209 of Pub. L. 95–615, set out as a note under section 911 of this title.
 
 #### Statute of Limitations
 

@@ -14,13 +14,15 @@ Applications.—Each State must apply for amounts under this section not later t
 
 (c)
 
-Availability of Amounts.—Amounts provided under this section remain available to a State for obligation for the first 3 months after the end of the fiscal year for which the amounts were made available. Amounts not applied for under this section or that remain unobligatedafter the first 3 months after the end of the fiscal year for which the amounts were made available are available to the Secretary for projects meeting the requirements of this chapter.
+Availability of Amounts.—Amounts provided under this section remain available to a State for obligation for the first 3 months after the end of the fiscal year for which the amounts were made available. Amounts not applied for under this section or that remain unobligated after the first 3 months after the end of the fiscal year for which the amounts were made available are available to the Secretary for projects meeting the requirements of this chapter.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 896.)
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

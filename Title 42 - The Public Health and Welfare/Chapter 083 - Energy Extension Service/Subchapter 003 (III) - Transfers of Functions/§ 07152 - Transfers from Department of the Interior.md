@@ -54,7 +54,7 @@ Act of May 15, 1910, referred to in subsec. (d), as amended, probably means act 
 
 #### Change of Name
 
-Bureau of Mines redesignated United States Bureau of Mines by section 10(b) of Pub. L. 102–285, set out asa note under section 1 of Title 30, Mineral Lands and Mining.
+Bureau of Mines redesignated United States Bureau of Mines by section 10(b) of Pub. L. 102–285, set out as a note under section 1 of Title 30, Mineral Lands and Mining.
 
 #### Effective Date of 1995 Amendment
 
@@ -116,7 +116,7 @@ Contributed Funds.—Notwithstanding any other provision of law, the Alaska Powe
 
 Federal Power Act.—(1) After the sales authorized by this Act occur, Eklutna and Snettisham, including future modifications, shall continue to be exempt from the requirements of Part I of the Federal Power Act (16 U.S.C. 791a et seq.), except as provided in subsection (b).
 
-“(2) The exemption provided by paragraph (1) shall not affect the Memorandum of Agreement entered into among the State of Alaska, the Eklutna Purchasers, the Alaska Energy Authority, and Federal fish and wildlife agencies regarding the protection, mitigation of, damages to, and enhancement of fish and wildlife, dated August 7, 1991, which remains in full force and effect.
+“(2) The exemption provided by paragraph (1) shall not affect the Memorandum of Agreement entered into among the State of Alaska, the Eklutna Purchasers, the Alaska Energy Authority, and Federal fish andwildlife agencies regarding the protection, mitigation of, damages to, and enhancement of fish and wildlife, dated August 7, 1991, which remains in full force and effect.
 
 “(3) Nothing in this title or the Federal Power Act preempts the State of Alaska from carrying out the responsibilities and authorities of the Memorandum of Agreement.
 
@@ -196,7 +196,7 @@ Pub. L. 102–377, title V, §505, Oct. 2, 1992, 106 Stat. 1343, provided that: 
 
 #### Transfers to Secretary of the Interior of Certain Fossil Energy Research and Development Authorities
 
-Pub. L. 97–257, title I, §100, Sept. 10, 1982, 96 Stat. 841, provided: “That there are transferred to, and vested in, the Secretary of the Interior all functions vested in, or delegated to, the Secretary of Energy and the Department of Energy under or with respect to (1) the Act of May 16, 1910 \[30 U.S.C. 1, 3, 5–7\], and other authorities formerly exercised by the Bureau of Mines \[now United States Bureau of Mines\], but limited to research and development relating to increased efficiency of production technology of solid fuel minerals; (2) section 908 of the Surface Mining Control and Reclamation Act of 1977, relating to research and development concerning alternative coal mining technologies (30 U.S.C. 1328); (3) sections 5(g)(2), 8(a)(4), 8(a)(9), 27(b)(2)(3) of the Outer Continental Shelf Lands Act (43 U.S.C. 1334(g)(2) and 1337(a)(4) and 1337(a)(9) \[and 1353(b)(2) and (3)\]); and (4) section 105 of the Energy Policy and Conservation Act (42 U.S.C. 6213): <i>Provided further,</i> That the personnel employed, personnel positions, equipment, facilities, and unexpended balances of the aforementioned transferred programs shall be merged with the ‘Mines and minerals’ account of the Bureau of Mines.”
+Pub. L. 97–257, title I, §100, Sept. 10, 1982, 96 Stat. 841, provided: “That there are transferred to, and vested in, the Secretary of the Interior all functions vested in, or delegated to, the Secretary of Energy and the Department of Energy under or with respect to (1) the Act of May 16, 1910 \[30 U.S.C. 1, 3, 5–7\], and other authoritiesformerly exercised by the Bureau of Mines \[now United States Bureau of Mines\], but limited to research and development relating to increased efficiency of production technology of solid fuel minerals; (2) section 908 of the Surface Mining Control and Reclamation Act of 1977, relating to research and development concerning alternative coal mining technologies (30 U.S.C. 1328); (3) sections 5(g)(2), 8(a)(4), 8(a)(9), 27(b)(2)(3) of the Outer Continental Shelf Lands Act (43 U.S.C. 1334(g)(2) and 1337(a)(4) and 1337(a)(9) \[and 1353(b)(2) and (3)\]); and (4) section 105 of the Energy Policy and Conservation Act (42 U.S.C. 6213): <i>Provided further</i>, That the personnel employed, personnel positions, equipment, facilities, and unexpended balances of the aforementioned transferred programs shall be merged with the ‘Mines and minerals’ account of the Bureau of Mines.”
 
 #### Section Referred to in Other Sections
 

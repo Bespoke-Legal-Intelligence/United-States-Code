@@ -1,0 +1,84 @@
+### §1229. Initiation of removal proceedings
+
+#### (a) Notice to appear
+
+#### (1) In general
+
+&emsp;In removal proceedings under section 1229a of this title, written notice (in this section referred to as a “notice to appear”) shall be given in person to the alien (or, if personalservice is not practicable, through service by mail to the alien or to the alien's counsel of record, if any) specifying the following:
+
+&emsp;&emsp;(A) The nature of the proceedings against the alien.
+
+&emsp;&emsp;(B) The legal authority under which the proceedings are conducted.
+
+&emsp;&emsp;(C) The acts or conduct alleged to be in violation of law.
+
+&emsp;&emsp;(D) The charges against the alien and the statutory provisions alleged to have been violated.
+
+&emsp;&emsp;(E) The alien may be represented by counsel and the alien will be provided (i) a period of time to secure counsel under subsection (b)(1) of this section and (ii) a current list of counsel prepared under subsection (b)(2) of this section.
+
+&emsp;&emsp;(F)(i) The requirement that the alien must immediately provide (or have provided) the Attorney General with a written record of an address and telephone number (if any) at which the alien may be contacted respecting proceedings under section 1229a of this title.
+
+&emsp;&emsp;(ii) The requirement that the alien must provide the Attorney General immediately with a written record of any change of the alien's address or telephone number.
+
+&emsp;&emsp;(iii) The consequences under section 1229a(b)(5) of this title of failure to provide address and telephone information pursuant to this subparagraph.
+
+&emsp;&emsp;(G)(i) The time and place at which the proceedings will be held.
+
+&emsp;&emsp;(ii) The consequences under section 1229a(b)(5) of this title of the failure, except under exceptional circumstances, to appear at such proceedings.
+
+#### (2) Notice of change in time or place of proceedings
+
+#### (A) In general
+
+&emsp;&emsp;In removal proceedings under section 1229a of this title, in the case of any change or postponement in the time and place of such proceedings, subject to subparagraph (B) a written notice shall be given in person to the alien (or, if personal service is not practicable, through service by mail to the alien or to the alien's counsel of record, if any) specifying—
+
+&emsp;&emsp;&emsp;(i) the new time or place of the proceedings, and
+
+&emsp;&emsp;&emsp;(ii) the consequences under section 1229a(b)(5) of this title of failing, except under exceptional circumstances, to attend such proceedings.
+
+#### (B) Exception
+
+&emsp;&emsp;In the case of an alien not in detention, a written notice shall not be required under this paragraph if the alien has failed to provide the address required under paragraph (1)(F).
+
+#### (3) Central address files
+
+&emsp;The Attorney General shall create a system to record and preserve on a timely basis notices of addresses and telephone numbers (and changes) provided under paragraph (1)(F).
+
+#### (b) Securing of counsel
+
+#### (1) In general
+
+&emsp;In order that an alien be permitted the opportunity to secure counsel before the first hearing date in proceedings under section 1229a of this title, the hearing date shall not be scheduled earlier than 10 days after the service of the notice to appear, unless the alien requests in writing an earlier hearing date.
+
+#### (2) Current lists of counsel
+
+&emsp;The Attorney General shall provide for lists (updated not less often than quarterly) of persons who have indicated their availability to represent pro bono aliens in proceedings under section 1229a of this title. Such lists shall be provided under subsection (a)(1)(E) of this section and otherwise made generally available.
+
+#### (3) Rule of construction
+
+&emsp;Nothing in this subsection may be construed to prevent the Attorney General from proceeding against an alien pursuant to section 1229a of this title if the time period described in paragraph (1) has elapsed and the alien has failed to secure counsel.
+
+#### (c) Service by mail
+
+Service by mail under this section shall be sufficient if there is proof of attempted delivery to the last address provided by the alien in accordance with subsection (a)(1)(F) of this section.
+
+#### (d) Prompt initiation of removal
+
+(1) In the case of an alien who is convicted of an offense which makes the alien deportable, the Attorney General shall begin any removal proceeding as expeditiously as possible after the date of the conviction.
+
+(2) Nothing in this subsection shall be construed to create any substantive or procedural right or benefit that is legally enforceable by any party against the United States or its agencies or officers or any other person.
+
+(June 27, 1952, ch. 477, title II, ch. 4, §239, as added Sept. 30, 1996, Pub. L. 104–208, div. C, title III, §304(a)(3), 110 Stat. 3009–587.)
+
+#### Prior Provisions
+
+A prior section 1229, act June 27, 1952, ch. 477, title II, ch. 4, §239, 66 Stat. 203, as amended, which related to designation of ports of entry for aliens arriving by aircraft, was renumbered section 234 of act June 27, 1952, by Pub. L. 104–208, div. C, title III, §304(a)(1), Sept. 30, 1996, 110 Stat. 3009–587, and was transferred to section 1224 of this title.
+
+#### Effective Date
+
+Section effective, with certain transitional provisions, on the first day of the first month beginning more than 180 days after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as an Effective Date of 1996 Amendments note under section 1101 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 1229a, 1229b, 1229c of this title.
+

@@ -38,7 +38,7 @@
 
 (1) Except as provided in paragraph (2), amounts transferred to the account of a State pursuant to subsections (a) and (b) of this section shall be used only in the payment of cash benefits to individuals with respect to their unemployment, exclusive of expenses of administration.
 
-(2) A State may, pursuant to a specific appropriation made by the legislative body of the State, use money withdrawn from its account in the payment of expenses incurred by it for theadministration of its unemployment compensation law and public employment offices if and only if—
+(2) A State may, pursuant to a specific appropriation made by the legislative body of the State, use money withdrawn from its account in the payment of expenses incurred by it for the administration of its unemployment compensation law and public employment offices if and only if—
 
 &emsp;(A) the purposes and amounts were specified in the law making the appropriation,
 
@@ -46,7 +46,7 @@
 
 &emsp;(C) the money is withdrawn and the expenses are incurred after such date of enactment,
 
-&emsp;(D)(i) the appropriation law limits the total amount which may be obligated under such appropriation at any time to an amount which does not exceed, at any such time, the amount by which—
+&emsp;(D)(i) the appropriation law limits the total amount which may be obligated under such appropriation at any time to an amount whichdoes not exceed, at any such time, the amount by which—
 
 &emsp;&emsp;(I) the aggregate of the amounts transferred to the account of such State pursuant to subsections (a) and (b) of this section, exceeds
 
@@ -118,7 +118,7 @@ Subsec. (c)(2). Pub. L. 92–224, §1, substituted “twenty-four preceding fisc
 
 1968—Subsec. (c). Pub. L. 90–430 substituted in par. (2)(D)(i) “fourteen” for “nine”, in par. (2)(D)(ii) “fifteen” for “ten”, and in provisions following par. (2)(D) “fourteenth” for “ninth”.
 
-1963—Subsec. (c)(2). Pub. L. 88–31 substituted “nine preceding fiscal years” for “four preceding fiscal years”, “ten fiscal years” for “five fiscal years” in cl. (D), and “ninth preceding fiscal year” for “fourth preceding fiscal year” in last sentence.
+1963—Subsec. (c)(2). Pub. L. 88–31 substituted “nine preceding fiscal years” for “four preceding fiscal years”, “ten fiscal years” for “five fiscal years” in cl.\(D), and “ninth preceding fiscal year” for “fourth preceding fiscal year” in last sentence.
 
 1960—Subsec. (a). Pub. L. 86–778 substituted provisions of par. (1) for first sentence of the section which read “So much of any amount transferred to the Unemployment Trust Fund at the close of any fiscal year under section 1101(a) of this title as is not credited to the Federal unemployment account under section 1102 of this title shall be credited (as of the beginning of the succeeding fiscal year) to the accounts of the States in the Unemployment Trust Fund” and designated existing provisions of second sentence as part (2), substituting “transferred” for “credited”, and striking out “on or” before “before” in subpar. (A).
 

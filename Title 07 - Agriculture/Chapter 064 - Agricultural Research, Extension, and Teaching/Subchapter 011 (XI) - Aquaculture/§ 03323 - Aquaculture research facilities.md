@@ -6,13 +6,17 @@ In order to gain further knowledge of intensive water recirculating aquaculture 
 
 #### (b) Authorization of appropriations
 
-There are authorized, in the event the Secretary decides to take action under subsection (a) of this section, to be appropriated $500,000 for each of the two facilities for fiscal years 1991 through 1995 to carry out this section.
+There are authorized, in the event the Secretary decides to take action under subsection (a) of this section, to be appropriated $500,000 for each of the two facilities for fiscal years 1991 through 1997 to carry out this section.
 
-(Pub. L. 95–113, title XIV, §1476, as added Pub. L. 101–624, title XVI, §1614(b)(1), Nov. 28, 1990, 104 Stat. 3728.)
+(Pub. L. 95–113, title XIV, §1476, as added Pub. L. 101–624, title XVI, §1614(b)(1), Nov. 28, 1990, 104 Stat. 3728; amended Pub. L. 104–127, title VIII, §820(c), Apr. 4, 1996, 110 Stat. 1168.)
 
 #### Prior Provisions
 
-A prior section 3323, Pub. L. 95–113, title XIV, §1476, as added Pub. L. 97–98, title XIV, §1440(a), Dec. 22, 1981,95 Stat. 1317, related to establishment, duration, and meetings of Aquaculture Advisory Board, and appointment and compensation of Board members, prior to repeal by Pub. L. 99–198, title XIV, §1429(b), Dec. 23, 1985, 99 Stat. 1556.
+A prior section 3323, Pub. L. 95–113, title XIV, §1476, as added Pub. L. 97–98, title XIV, §1440(a), Dec. 22, 1981, 95 Stat. 1317, related to establishment, duration, and meetings of Aquaculture Advisory Board, and appointment and compensation of Board members, prior to repeal by Pub. L. 99–198, title XIV, §1429(b), Dec. 23, 1985, 99 Stat. 1556.
+
+#### Amendments
+
+1996—Subsec. (b). Pub. L. 104–127 substituted “1997” for “1995”.
 
 #### Section Referred to in Other Sections
 

@@ -40,7 +40,7 @@
 
 &emsp;(B) with respect to whose spouse a waiver under subsection (a) has been made,
 
-> may, during the 18-month period beginning on such date, elect to have a reduction made undersection 8419 in order to provide a survivor annuity under section 8442 for such spouse.
+> may, during the 18-month period beginning on such date, elect to have a reduction made under section 8419 in order to provide a survivor annuity under section 8442 for such spouse.
 
 (2)(A) An election under this subsection shall not be effective unless the amount described in subparagraph (B) is deposited into the Fund before the expiration of the 18-month period referred to in paragraph (1).
 

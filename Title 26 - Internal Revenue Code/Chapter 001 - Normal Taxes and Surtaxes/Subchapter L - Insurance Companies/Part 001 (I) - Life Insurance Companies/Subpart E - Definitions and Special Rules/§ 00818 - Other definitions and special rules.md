@@ -4,7 +4,7 @@
 
 For purposes of this part, the term “pension plan contract” means any contract—
 
-&emsp;(1) entered into with trusts which (as of the time the contracts were entered into) were deemed to be trusts described in section 401(a) and exempt from tax under section 501(a) (or trusts exempt from tax under section 165 of the Internal Revenue Code of 1939 or the corresponding provisions of prior revenue laws);
+&emsp;(1) entered into with trusts which (as of the time the contracts were entered into) were deemed to be trusts described in section 401(a) and exempt from tax under section 501(a) (or trusts exempt from tax under section 165 ofthe Internal Revenue Code of 1939 or the corresponding provisions of prior revenue laws);
 
 &emsp;(2) entered into under plans which (as of the time the contracts were entered into) were deemed to be plans described in section 403(a), or plans meeting the requirements of paragraphs (3), (4), (5), and (6) of section 165(a) of the Internal Revenue Code of 1939;
 
@@ -52,7 +52,7 @@ In the case of a life insurance company—
 
 &emsp;&emsp;(B) the fair market value and adjusted basis referred to in paragraph (1) shall be that of that property for which the holding period taken into account includes December 31, 1958,
 
-&emsp;&emsp;(C) paragraph (1) shall apply only if the property or properties the holding periods ofwhich are taken into account were held only by life insurance companies after December 31, 1958, during the holding periods so taken into account,
+&emsp;&emsp;(C) paragraph (1) shall apply only if the property or properties the holding periods of which are taken into account were held only by life insurance companies after December 31, 1958, during the holding periods so taken into account,
 
 &emsp;&emsp;(D) the difference between the fair market value and adjusted basis referred to in paragraph (1) shall be reduced (to not less than zero) by the excess of (i) the gain that would have been recognized but for this subsection on all prior sales or dispositions after December 31, 1958, of properties referred to in subparagraph (C), over (ii) the gain which was recognized on such sales or other dispositions, and
 
@@ -96,7 +96,23 @@ For purposes of this part, the term “insurance or annuity contract” includes
 
 &emsp;For purposes of part I of subchapter N, items described in any paragraph of section 807(c) shall be treated as amounts which are not interest.
 
-(Added and amended Pub. L. 98–369, div. A, title II, §211(a), title X, §1001(b)(10), (e), July 18, 1984, 98 Stat. 752, 1011, 1012; Pub. L. 99–514, title XI, §§1106(d)(3)(C), 1112(d)(4), 1136(b), title XVIII, §1821(n), (<i>o</i>), Oct. 22, 1986, 100 Stat. 2424, 2445, 2486, 2842; Pub. L. 100–647, title I, §§1010(k), 1011(e)(5)(A), Nov. 10, 1988, 102 Stat. 3456, 3461.)
+#### (g) Qualified accelerated death benefit riders treated as life insurance
+
+For purposes of this part—
+
+#### (1) In general
+
+&emsp;Any reference to a life insurance contract shall be treated as including a reference to a qualified accelerated death benefit rider on such contract.
+
+#### (2) Qualified accelerated death benefit riders
+
+&emsp;For purposes of this subsection, the term “qualified accelerated death benefit rider” means any rider on a life insurance contract if the only payments under the rider are payments meeting the requirements of section 101(g).
+
+#### (3) Exception for long-term care riders
+
+&emsp;Paragraph (1) shall not apply to any rider which is treated as a long-term care insurance contract under section 7702B.
+
+(Added and amended Pub. L. 98–369, div. A, title II, §211(a), title X, §1001(b)(10), (e), July 18, 1984, 98 Stat. 752, 1011, 1012; Pub. L. 99–514, title XI, §§1106(d)(3)(C), 1112(d)(4), 1136(b), title XVIII, §1821(n), (<i>o</i>), Oct. 22, 1986, 100 Stat. 2424, 2445, 2486, 2842; Pub. L. 100–647, title I, §§1010(k), 1011(e)(5)(A), Nov. 10, 1988, 102 Stat. 3456, 3461; Pub. L. 104–191, title III, §332(a), Aug. 21, 1996, 110 Stat. 2069.)
 
 #### References in Text
 
@@ -114,7 +130,7 @@ A prior section 819A, added Pub. L. 94–455, title X, §1043(a), Oct. 4, 1976, 
 
 A prior section 820, added Pub. L. 86–69, §2(a), June 25, 1959, 73 Stat. 137; amended Pub. L. 94–455, title XIX, §§1901(a)(103), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1782, 1834, related to optional treatment of policies reinsured under modified coinsurance contracts, prior to repeal by Pub. L. 97–248, title II, §255(a), (c), Sept. 3, 1982, 96 Stat. 533, 534, applicable to taxable years beginning after Dec. 31, 1981, with exception.
 
-A prior section 821, acts Aug. 16, 1954, ch. 736, 68A Stat. 260; Mar. 30, 1955, ch. 18, §2, 69 Stat. 14; Mar. 13, 1956, ch. 83, §3(a)(1), (2), 70 Stat. 47; Mar. 29, 1956, ch. 115, §2, 70 Stat. 66; Mar. 29, 1957, Pub. L. 85–12, §2, 71 Stat. 9; June 30, 1958, Pub. L. 85–475, §2, 72 Stat. 259; June 30,1959, Pub. L. 86–75, §2, 73 Stat. 157; June 30, 1960, Pub. L. 86–564, title II, §201, 74 Stat. 290; June 30, 1961, Pub. L. 87–72, §2, 75 Stat. 193; June 28, 1962, Pub. L. 87–508, §2, 76 Stat. 114; Oct. 16, 1962, Pub. L. 87–834, §8(a), 76 Stat. 989; June 29, 1963 Pub. L. 88–52, §2, 77 Stat. 72; Feb. 26, 1964, Pub. L. 88–272, title I, §123(a), 78 Stat. 29; Nov. 13, 1966, Pub. L. 89–809, title I, §104(i)(4), 80 Stat. 1562; Oct. 4, 1976, Pub. L. 94–455, title IX, §901(b), title XV, §1507(b)(1), title XIX, §§1901(a)(104), 1906(b)(13)(A), 90 Stat. 1607, 1739, 1782, 1834; May 23, 1977, Pub. L. 95–30, title II, §201(3), (4), 91 Stat. 141; Nov. 6, 1978, Pub. L. 95–600, title III, §301(b)(9), 92 Stat. 2821; Aug. 13, 1981, Pub. L. 97–34, title II, §231(b)(1), (2), 95 Stat. 249, related to tax on mutual insurance companies to which former part II applied, prior to repeal by Pub. L. 99–514, title X, §1024(a)(1), Oct. 22, 1986, 100 Stat. 2405, effective for taxable years beginning after Dec. 31, 1986.
+A prior section 821, acts Aug. 16, 1954, ch. 736, 68A Stat. 260; Mar. 30, 1955, ch. 18, §2, 69 Stat. 14; Mar. 13, 1956, ch. 83, §3(a)(1), (2), 70 Stat. 47; Mar. 29, 1956, ch. 115, §2, 70 Stat. 66; Mar. 29, 1957, Pub. L. 85–12, §2, 71 Stat. 9; June 30, 1958, Pub. L. 85–475, §2, 72 Stat. 259; June 30, 1959, Pub. L. 86–75, §2, 73 Stat. 157; June 30, 1960, Pub. L. 86–564, title II, §201, 74 Stat. 290; June 30, 1961, Pub. L. 87–72, §2, 75 Stat. 193; June 28, 1962, Pub. L. 87–508, §2, 76 Stat. 114; Oct. 16, 1962, Pub. L. 87–834, §8(a), 76 Stat. 989; June 29, 1963 Pub. L. 88–52, §2, 77 Stat. 72; Feb. 26, 1964, Pub. L. 88–272, title I, §123(a), 78 Stat. 29; Nov. 13, 1966, Pub. L. 89–809, title I, §104(i)(4), 80 Stat. 1562; Oct. 4, 1976, Pub. L. 94–455, title IX, §901(b), title XV,§1507(b)(1), title XIX, §§1901(a)(104), 1906(b)(13)(A), 90 Stat. 1607, 1739, 1782, 1834; May 23, 1977, Pub. L. 95–30, title II, §201(3), (4), 91 Stat. 141; Nov. 6, 1978, Pub. L. 95–600, title III, §301(b)(9), 92 Stat. 2821; Aug. 13, 1981, Pub. L. 97–34, title II, §231(b)(1), (2), 95 Stat. 249, related to tax on mutual insurance companies to which former part II applied, prior to repeal by Pub. L. 99–514, title X, §1024(a)(1), Oct. 22, 1986, 100 Stat. 2405, effective for taxable years beginning after Dec. 31, 1986.
 
 A prior section 822 was renumbered section 834 of this title by Pub. L. 99–514, title X, §1024(a)(3), Oct. 22, 1986, 100 Stat. 2405.
 
@@ -129,6 +145,8 @@ A prior section 825, added Pub. L. 87–834, §8(c), Oct. 16, 1962, 76 Stat. 995
 A prior section 826 was renumbered section 835 of this title by Pub. L. 99–514, title X, §1024(a)(3), Oct. 22, 1986, 100 Stat. 2405.
 
 #### Amendments
+
+1996—Subsec. (g). Pub. L. 104–191 added subsec. (g).
 
 1988—Subsec. (a)(6). Pub. L. 100–647, §1011(e)(5)(A), in subpar. (A) substituted “eligible deferred compensation plan” for “eligible State deferred compensation plan”, and in subpar. (B), inserted “or any organization (other than a governmental unit) exempt from tax under this subtitle,” after “foregoing,” and substituted “agency or instrumentality, or organization” for “or agency or instrumentality”.
 
@@ -145,6 +163,24 @@ Subsec. (a)(6)(A). Pub. L. 99–514, §1821(n), in amending subpar. (A) generall
 Subsec. (e). Pub. L. 99–514, §1821(<i>o</i>), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “If an election under section 1504(c)(2) is in effect with respect to an affiliated group for the taxable year, all items of the members of such group which are not life insurance companies shall not be taken into account in determining the amount of the tentative LICTI of members of such group which are life insurance companies.”
 
 1984—Subsec. (b)(1)(A). Pub. L. 98–369, §1001(b)(10), (e), substituted “6 months” for “1 year” in two places, applicable to property acquired after June 22, 1984, and before Jan. 1, 1988. See Effective Date of 1984 Amendment note below.
+
+#### Effective Date of 1996 Amendment
+
+Section 332(b) of Pub. L. 104–191 provided that:
+
+“(1)
+
+In general.—The amendment made by this section \[amending this section\] shall take effect on January 1, 1997.
+
+“(2)
+
+Issuance of rider not treated as material change.—For purposes of applying sections 101(f), 7702, and 7702A of the Internal Revenue Code of 1986 to any contract—
+
+&emsp;“(A) the issuance of a qualified accelerated death benefit rider (as defined in section 818(g) of such Code (as added by this Act)), and
+
+&emsp;“(B) the addition of any provision required to conform an accelerated death benefit rider to the requirements of such section 818(g),
+
+> shall not be treated as a modification or material change of such contract.”
 
 #### Effective Date of 1988 Amendment
 

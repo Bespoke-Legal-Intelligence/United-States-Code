@@ -22,5 +22,5 @@ If the Secretary determines that any property seized is liable to perish or beco
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 6335, 6863, 7103 of this title; title 18 section 3613.
+This section is referred to in sections 6335, 6863, 7103 of this title.
 

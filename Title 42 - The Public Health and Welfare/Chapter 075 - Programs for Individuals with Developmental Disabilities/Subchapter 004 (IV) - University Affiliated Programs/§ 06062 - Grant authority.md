@@ -78,7 +78,7 @@ From appropriations under section 6064(a) <sup>1</sup> of this title, the Secre
 
 #### (5) Prohibited activities
 
-&emsp;Grants awarded under this subsection shall not be used for administrative expenses for theuniversity affiliated program under subsection (a) of this section.
+&emsp;Grants awarded under this subsection shall not be used for administrative expenses for the university affiliated program under subsection (a) of this section.
 
 #### (6) Criteria
 
@@ -170,7 +170,7 @@ Subsecs. (f), (g). Pub. L. 103–230, §403(b)(6), struck out subsecs. (f) and (
 
 1990—Subsec. (b)(1)(A). Pub. L. 101–496, §17(1)(A)–(C), struck out “sufficient size and scope” after “grants of”, substituted “community-based” for “and community-based”, and inserted provision before period at end including programs described in pars. (5), (6), and (7).
 
-Subsec. (b)(1)(B) to (F). Pub. L. 101–496, §17(1)(D)–(F), added subpars. (B) to (E), redesignated former subpar. (C) as (F), and struck out former subpar. (B) which read as follows: “The Secretary shall make determinations with respect to grants under this subsection based on information relating to present and projected needs for the training of personnel based on identified State, regional, or national shortages of personnel, the capacity of the university affiliated programs to train personnel, and such other information as may be determined necessary and appropriate by the Secretary.”
+Subsec. (b)(1)(B) to (F). Pub. L. 101–496, §17(1)(D)–(F), added subpars. (B) to (E), redesignated former subpar. (C) as (F), and struck out former subpar. (B) which read as follows: “The Secretary shall make determinations with respect to grants under this subsection based on information relating to present and projected needs forthe training of personnel based on identified State, regional, or national shortages of personnel, the capacity of the university affiliated programs to train personnel, and such other information as may be determined necessary and appropriate by the Secretary.”
 
 Subsec. (b)(5) to (7). Pub. L. 101–496, §17(2), added pars. (5) to (7).
 

@@ -10,7 +10,7 @@ The Commission is authorized, through attorneys and counsel described in subsect
 
 #### (c) Injunctive relief
 
-The Commission is authorized, through attorneys and counsel described in subsection (a), to petition the courts of the United States for such injunctive relief as is appropriate to implement any provision of this chapter.
+The Commission is authorized, through attorneys and counsel described in subsection (a), topetition the courts of the United States for such injunctive relief as is appropriate to implement any provision of this chapter.
 
 #### (d) Appeal
 

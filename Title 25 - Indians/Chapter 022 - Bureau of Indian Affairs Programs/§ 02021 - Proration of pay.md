@@ -14,7 +14,7 @@ That portion of the employee's pay which would be paid between academic school y
 
 #### (d) “Educator” and “Education position” defined
 
-For the purposes of this section the terms “educator” and “education position” have themeaning contained in paragraphs (1) and (2) of section 2012(n) of this title. This section applies to those individuals employed under the provisions of section 2012 of this title or title 5.
+For the purposes of this section the terms “educator” and “education position” have the meaning contained in paragraphs (1) and (2) of section 2012(n) of this title. This section applies to those individuals employed under the provisions of section 2012 of this title or title 5.
 
 (Pub. L. 95–561, title XI, §1141, as added Pub. L. 103–382, title III, §381, Oct. 20, 1994, 108 Stat. 4012.)
 

@@ -20,11 +20,11 @@ Any employee described in more than one paragraph of subsection (a) of this sect
 
 Additional compensation provided under this section may not exceed 25 percent of the rate of basic pay for the same or similar work performed in the United States by individuals employed by the Government of the United States.
 
-#### (d) Applicability of subchapter III of chapter 59 of title 5
+(Pub. L. 96–70, title I, §1217, Sept. 27, 1979, 93 Stat. 465; (As amended Pub. L. 104–201, div. C, title XXXV, §3533, Sept. 23, 1996, 110 Stat. 2863.)
 
-Subchapter III of chapter 59 of title 5, relating to overseas differentials and allowances, shall not apply with respect to any employee whose permanent duty station is in the Republic of Panama and who is employed by an agency.
+#### Amendments
 
-(Pub. L. 96–70, title I, §1217, Sept. 27, 1979, 93 Stat. 465.)
+1996—Subsec. (d). Pub. L. 104–201 struck out subsec. (d) which read as follows: “Subchapter III of chapter 59 of title 5, relating to overseas differentials and allowances, shall not apply with respect to any employee whose permanent duty station is in the Republic of Panama and who is employed by an agency.”
 
 #### Coordination of Pay and Employment Practices
 
@@ -32,5 +32,5 @@ For provisions requiring consultations with the Secretary of Defense for agencie
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3614, 3658 of this title; title 5 section 5924.
+This section is referred to in sections 3614, 3658 of this title.
 

@@ -2,7 +2,7 @@
 
 (a) For the purpose of this section—
 
-&emsp;(1) the term “contract appeals board member” means a member of an agency board of contract appeals appointed under section 8 of the Contract Disputes Act of 1978; and
+&emsp;(1) the term “contract appeals board member” means a member of an agency board ofcontract appeals appointed under section 8 of the Contract Disputes Act of 1978; and
 
 &emsp;(2) the term “appeals board” means an agency board of contract appeals established pursuant to section 8 of the Contract Disputes Act of 1978.
 

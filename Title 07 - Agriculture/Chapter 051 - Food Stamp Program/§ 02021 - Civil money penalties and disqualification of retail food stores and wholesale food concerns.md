@@ -2,7 +2,7 @@
 
 #### (a) Disqualification or civil penalty
 
-Any approved retail food store or wholesale food concern may be disqualified for a specified period of time from further participation in the food stamp program, or subjected to a civil money penalty of up to $10,000 for each violation if the Secretary determines that its disqualification would cause hardship to food stamp households, on a finding, made as specified in the regulations, that such store or concern has violated any of the provisions of this chapter or the regulations issued pursuant to this chapter.
+Any approved retail food store or wholesale food concern may be disqualified for a specified period of time from further participation in the food stamp program, or subjected to a civil money penalty of up to $10,000 for each violation if the Secretary determines that its disqualification would cause hardship to food stamp households, on a finding, made as specified in the regulations, that such store or concern has violated any of the provisions of this chapter or the regulations issued pursuant to this chapter. Regulations issued pursuant to this chapter shall provide criteria for the finding of a violation and the suspension or disqualification of a retail food store or wholesale food concern on the basis of evidence that may include facts established through on-site investigations, inconsistent redemption data, or evidence obtained through a transaction report under an electronic benefit transfer system.
 
 #### (b) Period of disqualification
 
@@ -10,15 +10,23 @@ Disqualification under subsection (a) of this section shall be—
 
 &emsp;(1) for a reasonable period of time, of no less than six months nor more than five years, upon the first occasion of disqualification;
 
-&emsp;(2) for a reasonable period of time, of no less than twelve months nor more than ten years, upon the second occasion of disqualification; and
+&emsp;(2) for a reasonable period of time, of no less than twelve months nor more than ten years, upon the second occasion of disqualification;
 
 &emsp;(3) permanent upon—
 
 &emsp;&emsp;(A) the third occasion of disqualification;
 
-&emsp;&emsp;(B) the first occasion or any subsequent occasion of a disqualification based on the purchase of coupons or trafficking in coupons or authorization cards by a retail food store or wholesale food concern, except that the Secretary shall have the discretion to impose a civil money penalty of up to $20,000 for each violation (except that the amount of civil money penalties imposed for violations occurring during a single investigation may not exceed $40,000) in lieu of disqualification under this subparagraph, for such purchase of coupons or trafficking in coupons or cards that constitutes a violation of the provisions of this chapter or the regulations issued pursuant to this chapter, if the Secretary determines that there is substantial evidence (including evidence that neither the ownership nor management of the store or food concern was aware of, approved, benefited from, or was involved in the conduct or approval of the violation) that such store or food concern had an effective policy and program in effect to prevent violations of the chapter and the regulations; or
+&emsp;&emsp;(B) the first occasion or any subsequent occasion of a disqualification based on the purchase of coupons or trafficking in coupons or authorization cards by a retail food store or wholesale food concern, except that the Secretary shall have the discretion to impose a civil money penalty of up to $20,000 for each violation (except that the amount of civil money penalties imposed for violations occurring during a single investigation may not exceed $40,000) in lieu of disqualification under this subparagraph, for such purchase of coupons or trafficking in coupons or cards that constitutes a violation of the provisions of this chapter or the regulations issued pursuant to this chapter, if the Secretary determines that there is substantial evidence that such store or food concern had an effective policy and program in effect to prevent violations of the chapter and the regulations, including evidence that—
 
-&emsp;&emsp;(C) a finding of the sale of firearms, ammunition, explosives, or controlled substance (as defined in section 802 of title 21) for coupons, except that the Secretary shall have the discretion to impose a civil money penalty of up to $20,000 for each violation (except that the amount of civil money penalties imposed for violations occurring during a single investigation may not exceed $40,000) in lieu of disqualification under this subparagraph if the Secretary determines that there is substantial evidence (including evidence that neither the ownership nor management of the store or food concern was aware of, approved, benefited from, or was involved in the conduct or approval of the violation) that the store or food concern had an effective policy and program in effect to prevent violations of this chapter.
+&emsp;&emsp;&emsp;(i) the ownership of the store or food concern was not aware of, did not approve of, did not benefit from, and was not involved in the conduct of the violation; and
+
+&emsp;&emsp;&emsp;(ii)(I) the management of the store or food concern was not aware of, did not approve of, did not benefit from, and was not involved in the conduct of the violation; or
+
+&emsp;&emsp;&emsp;(II) the management was aware of, approved of, benefited from, or was involved in the conduct of no more than 1 previous violation by the store or food concern; or
+
+&emsp;&emsp;(C) a finding of the sale of firearms, ammunition, explosives, or controlled substance (as defined in section 802 of title 21) for coupons, except that the Secretary shall have the discretion to impose a civil money penalty of up to $20,000 for each violation (except that the amount of civil money penalties imposed for violations occurring during a single investigation may not exceed $40,000) in lieu of disqualification under this subparagraph if the Secretary determines that there is substantial evidence (including evidence that neither the ownership nor management of the store or food concern was aware of, approved, benefited from, or was involved in the conduct or approval of the violation) that the store or food concern had an effective policy and program in effect to prevent violations of this chapter; and
+
+&emsp;(4) for a reasonable period of time to be determined by the Secretary, including permanent disqualification, on the knowing submission of an application for the approval or reauthorization to accept and redeem coupons that contains false information about a substantive matter that was a part of the application.
 
 #### (c) Review
 
@@ -40,9 +48,33 @@ As a condition of authorization to accept and redeem coupons, the Secretary may 
 
 The Secretary may impose a fine against any person not approved by the Secretary to accept and redeem food coupons who violates any provision of this chapter or a regulation issued under this chapter, including violations concerning the acceptance of food coupons. The amount of any such fine shall be established by the Secretary and may be assessed and collected in accordance with regulations issued under this chapter separately or in combination with any fiscal claim established by the Secretary. The Attorney General of the United States may institute judicial action in any court of competent jurisdiction against the person to collect the fine.
 
-(Pub. L. 88–525, §12, Aug. 31, 1964, 78 Stat. 707; Pub. L. 95–113, title XIII, §1301, Sept. 29, 1977, 91 Stat. 974; Pub. L. 97–253, title I, §§175, 176(a), Sept. 8, 1982, 96 Stat. 781; Pub. L. 99–198, title XV, §1532(a), Dec. 23, 1985, 99 Stat. 1582; Pub. L. 100–435, title III, §344, Sept. 19, 1988, 102 Stat. 1664; Pub. L. 101–624, title XVII, §§1743–1745, Nov. 28, 1990, 104 Stat. 3795, 3796; Pub. L. 103–66, title XIII, §§13943, 13944, Aug. 10, 1993, 107 Stat. 677.)
+#### (g) Disqualification of retailers who are disqualified under WIC program
+
+#### (1) In general
+
+&emsp;The Secretary shall issue regulations providing criteria for the disqualification under this chapter of an approved retail food store or a wholesale food concern that is disqualifiedfrom accepting benefits under the special supplemental nutrition program for women, infants, and children established under section 1786 of title 42.
+
+#### (2) Terms
+
+&emsp;A disqualification under paragraph (1)—
+
+&emsp;&emsp;(A) shall be for the same length of time as the disqualification from the program referred to in paragraph (1);
+
+&emsp;&emsp;(B) may begin at a later date than the disqualification from the program referred to in paragraph (1); and
+
+&emsp;&emsp;(C) notwithstanding section 2023 of this title, shall not be subject to judicial or administrative review.
+
+(Pub. L. 88–525, §12, Aug. 31, 1964, 78 Stat. 707; Pub. L. 95–113, title XIII, §1301, Sept. 29, 1977, 91 Stat. 974; Pub. L. 97–253, title I, §§175, 176(a), Sept. 8, 1982, 96 Stat. 781; Pub. L. 99–198, title XV, §1532(a), Dec. 23, 1985, 99 Stat. 1582; Pub. L. 100–435, title III, §344, Sept. 19, 1988, 102 Stat. 1664; Pub. L. 101–624, title XVII, §§1743–1745, Nov. 28, 1990, 104 Stat. 3795, 3796; Pub. L. 103–66, title XIII, §§13943, 13944, Aug. 10, 1993, 107 Stat. 677; Pub. L. 104–127, title IV, §401(a), Apr. 4, 1996, 110 Stat. 1026; Pub. L. 104–193, title VIII, §§841–843, Aug. 22, 1996, 110 Stat. 2331, 2332.)
 
 #### Amendments
+
+1996—Subsec. (a). Pub. L. 104–193, §841, inserted at end “Regulations issued pursuant to this chapter shall provide criteria for the finding of a violation and the suspension or disqualification of a retail food store or wholesale food concern on the basis of evidence that may include facts established through on-site investigations, inconsistent redemption data, or evidence obtained through a transaction report under an electronic benefit transfer system.”
+
+Subsec. (b)(3)(B). Pub. L. 104–127, §401(a), struck out “(including evidence that neither the ownership nor management of the store or food concern was aware of, approved, benefited from, or was involved in the conduct or approval of the violation)” after “substantial evidence” and substituted “, including evidence that—” and cls. (i) and (ii) for “; or”.
+
+Subsec. (b)(4). Pub. L. 104–193, §842, added par. (4).
+
+Subsec. (g). Pub. L. 104–193, §843, added subsec. (g).
 
 1993—Subsec. (b)(3)(B). Pub. L. 103–66, §13943, substituted “for violations occurring during a single investigation” for “during a 2-year period”.
 

@@ -30,7 +30,7 @@ Section 401(e) of Pub. L. 96–223 provided that: “The amendments made by this
 
 #### Effective Date of 1976 Amendment
 
-Amendment by section 1901(a)(127) of Pub. L. 94–455 applicable with respect to taxable years beginning after Dec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
+Amendment by section 1901(a)(127) of Pub. L. 94–455 applicable with respect to taxable years beginning afterDec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
 
 #### Repeals
 

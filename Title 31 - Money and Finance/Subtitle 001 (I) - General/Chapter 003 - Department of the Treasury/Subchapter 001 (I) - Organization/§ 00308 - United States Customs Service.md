@@ -16,7 +16,7 @@ Historical and Revision Notes
 
 (no source).
 
-The section is included to provide in subchapter I of chapter 3 of the revised title a complete list of the organizational units established by law that are in theDepartment of the Treasury or are subject to the direction and supervision of the Secretary of the Treasury.
+The section is included to provide in subchapter I of chapter 3 of the revised title a complete list of the organizational units established by law that are in the Department of the Treasury or are subject to the direction and supervision of the Secretary of the Treasury.
 
 #### Change of Name
 

@@ -58,7 +58,7 @@ Pub. L. 104–59, title III, §358(c), Nov. 28, 1995, 109 Stat. 625, provided th
 
 “(1)
 
-Study.—The Secretary, in consultation with the Federal Communications Commission and the National Telecommunications and Information Administration, shall conduct a study to develop and evaluate radio andmicrowave technology for a motor vehicle safety warning system in furtherance of safety in all types of motor vehicles.
+Study.—The Secretary, in consultation with the Federal Communications Commission and the National Telecommunications and Information Administration, shall conduct a study to develop and evaluate radio and microwave technology for a motor vehicle safety warning system in furtherance of safety in all types of motor vehicles.
 
 “(2)
 
@@ -108,7 +108,7 @@ Demonstration activities.—In conducting the study under paragraph (1), the Sec
 
 Cooperative agreement.—The Secretary shall conduct the study under paragraph (1) by entering into a cooperative agreement with an institution that has demonstrated competencies in gerontological research, population demographics, human factors related to transportation, and advanced technology applied to transportation.”
 
-Section 208 of Pub. L. 100–17, as amended by Pub. L. 100–202, §101(<i>l</i>) \[title III, §348(h)\], Dec. 22, 1987, 101 Stat. 1329–358, 1329–389, directed Secretary to enter into appropriate arrangements with National Academy of Sciences to conduct a comprehensive study and investigation of (1) problems which could inhibit the safety and mobility of older drivers using the Nation's roads, and (2) means of addressing these problems, to request the Academy to report to Secretary and Congress not later than 24 months after Apr. 2, 1987, on the results of such study and investigation, to furnish to the Academy any information which it deems necessary for conducting the investigation and study, and to develop, in conjunction with the study, a pilot program of highway safety improvements to enhance the safety and mobility of older drivers and, not later than 3 years after Apr. 2, 1987, to evaluate the pilot program and report to Congress on the effectiveness of the program in improving the safety and mobility of older drivers.
+Section 208 of Pub. L. 100–17, as amended by Pub. L. 100–202, §101(<i>l</i>) \[title III, §348(h)\], Dec. 22, 1987, 101 Stat. 1329–358, 1329–389, directed Secretary to enter into appropriate arrangements with National Academy of Sciences to conduct a comprehensive study and investigation of (1) problems which could inhibit the safety and mobility of older drivers using the Nation's roads, and\(2) means of addressing these problems, to request the Academy to report to Secretary and Congress not later than 24 months after Apr. 2, 1987, on the results of such study and investigation, to furnish to the Academy any information which it deems necessary for conducting the investigation and study, and to develop, in conjunction with the study, a pilot program of highway safety improvements to enhance the safety and mobility of older drivers and, not later than 3 years after Apr. 2, 1987, to evaluate the pilot program and report to Congress on the effectiveness of the program in improving the safety and mobility of older drivers.
 
 #### Annual Report by Secretary of Transportation on Highway Safety Performance of Each State
 
@@ -124,7 +124,7 @@ Pub. L. 95–599, title II, §209, Nov. 6, 1978, 92 Stat. 2732, as amended by Pu
 
 “(a) The Secretary of Transportation shall carry out six pilot projects designed, through the use of television and radio, to develop and evaluate techniques, methods, and practices to achieve maximum measurable effectiveness in reducing traffic accidents, injuries, and deaths.
 
-“(b) Each pilot project authorized by this section shall be in operation not later than the one hundred and eightieth day after the date of the first appropriation of funds made under authority of this section, and shall be conducted for a one-year period. Not later than the ninetieth day after the end of each such one-year period, the Secretary of Transportation shall report toCongress the results of such project, including, but not limited to, an evaluation of the effectiveness of such project and a statistical analysis of the traffic accidents and fatalities within the project area during such one-year period.
+“(b) Each pilot project authorized by this section shall be in operation not later than the one hundred and eightieth day after the date of the first appropriation of funds made under authority of this section, and shall be conducted for a one-year period. Not later than the ninetieth day after the end of each such one-year period, the Secretary of Transportation shall report to Congress the results of such project, including, but not limited to, an evaluation of the effectiveness of such project and a statistical analysis of the traffic accidents and fatalities within the project area during such one-year period.
 
 “(c) There is authorized to be appropriated, out of the Highway Trust Fund, to carry out subsections (a) and (b) of this section, $6,000,000, to remain available until expended.
 
@@ -144,7 +144,7 @@ National Highway Safety Campaign.—Utilizing those techniques, methods, and pra
 
 #### Highway Safety Educational Programing and Study; Report to Congress; Series of Highway Safety Television Programs; Appropriations Authorizations
 
-Section 211 of Pub. L. 93–87 directed Secretary of Transportation, in cooperation with government and nongovernment authorities and individuals, to conduct a full and complete investigation and study of use of mass media for informing and educating the public of ways and means for reducing number and severity of highway accidents, to report to Congress his findings and recommendations by June 30, 1974, and to develop, in consultation with State and local highway safety officials, a series of highway safety television programs of varying lengths for use in accordance with provisions of the Communication Act of 1934 (47 U.S.C. 151 et seq.).
+Section 211 of Pub. L. 93–87 directed Secretary of Transportation, in cooperation with government and nongovernment authorities and individuals, to conduct a full and complete investigation and study of use of mass media for informing and educating the public of ways and means for reducing number and severity ofhighway accidents, to report to Congress his findings and recommendations by June 30, 1974, and to develop, in consultation with State and local highway safety officials, a series of highway safety television programs of varying lengths for use in accordance with provisions of the Communication Act of 1934 (47 U.S.C. 151 et seq.).
 
 #### Highway Safety Citizen Participation Study
 

@@ -20,7 +20,7 @@ Another prior section 1134d, Pub. L. 89–329, title IX, §912, as added Pub. L.
 
 #### Amendments
 
-1992—Pub. L. 102–325 amended section generally, striking out “of awards” after “designation” in section catchline, substituting “master's level, professional, and doctoral education programs to individuals from minority groups and women who are underrepresentedin such programs” for “a post-baccalaureate education to graduate and professional students who demonstrate financial need” in subsec. (a), and inserting “Graduate” before “Fellow” in subsec. (b).
+1992—Pub. L. 102–325 amended section generally, striking out “of awards” after “designation” in section catchline, substituting “master's level, professional, and doctoral education programs to individuals from minority groups and women who are underrepresented in such programs” for “a post-baccalaureate education to graduate and professional students who demonstrate financial need” in subsec. (a), and inserting “Graduate” before “Fellow” in subsec. (b).
 
 #### Effective Date of 1992 Amendment
 

@@ -32,7 +32,7 @@ Screening and Foreign Air Carrier and Airport Security.—The Administrator shal
 
 &emsp;(2) that includes a summary of the assessments conducted under section 44907(a)(1) and (2) of this title; and
 
-&emsp;(3) that includes an assessment of the steps being taken, and the progress being made, in ensuring compliance with section 44906 of thistitle for each foreign air carrier security program at airports outside the United States—
+&emsp;(3) that includes an assessment of the steps being taken, and the progress being made, in ensuring compliance with section 44906 of this title for each foreign air carrier security program at airports outside the United States—
 
 &emsp;&emsp;(A) at which the Administrator decides that Foreign Security Liaison Officers are necessary for air transportation security; and
 
@@ -46,7 +46,9 @@ Domestic Air Transportation System Security.—The Administrator shall submit to
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -90,5 +92,5 @@ In subsection (b)(3), before clause (A), the words “that includes” are subst
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 106, 337, 40119, 44907, 44937, 46301, 46316 of this title.
+This section is referred to in sections 106, 337, 40119, 44907, 44937 of this title.
 

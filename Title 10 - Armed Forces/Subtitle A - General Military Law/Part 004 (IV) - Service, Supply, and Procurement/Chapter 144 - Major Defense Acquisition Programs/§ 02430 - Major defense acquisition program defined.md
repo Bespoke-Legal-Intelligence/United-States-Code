@@ -6,17 +6,15 @@
 
 &emsp;(2) that is estimated by the Secretary of Defense to require an eventual total expenditure for research, development, test, and evaluation of more than $300,000,000 (based on fiscal year 1990 constant dollars) or an eventual total expenditure for procurement of more than $1,800,000,000 (based on fiscal year 1990 constant dollars).
 
-(b) The Secretary of Defense may adjust the amounts (and the base fiscal year) provided in subsection (a)(2) on the basis of Department of Defense escalation rates. An adjustment under this subsection shall be effective after the Secretary transmits a written notification of the adjustment to the Committees on Armed Services of the Senate and House of Representatives.
+(b) The Secretary of Defense may adjust the amounts (and the base fiscal year) provided in subsection (a)(2) on the basis of Department of Defense escalation rates. An adjustment under this subsection shall be effective after the Secretary transmits a written notification of the adjustment to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives.
 
-(Added Pub. L. 100–26, §7(b)(2)(A), Apr. 21, 1987, 101 Stat. 279; amended Pub. L. 102–484, div. A, title VIII, §817(b), Oct. 23, 1992, 106 Stat. 2455.)
+(Added Pub. L. 100–26, §7(b)(2)(A), Apr. 21, 1987, 101 Stat. 279; amended Pub. L. 102–484, div. A, title VIII, §817(b), Oct. 23, 1992, 106 Stat. 2455; Pub. L. 104–106, div. A, title XV, §1502(a)(1), Feb. 10, 1996, 110 Stat. 502.)
 
 #### Amendments
 
+1996—Subsec. (b). Pub. L. 104–106 substituted “Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives” for “Committees on Armed Services of the Senate and House of Representatives”.
+
 1992—Pub. L. 102–484 designated existing provisions as subsec. (a), in par. (2) substituted “$300,000,000” for “$200,000,000”, “1990” for “1980” in two places, and “$1,800,000,000” for “$1,000,000,000”, and added subsec. (b).
-
-#### Change of Name
-
-Committee on Armed Services of House of Representatives treated as referring to Committee on National Security of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Environmental Consequence Analysis of Major Defense Acquisition Programs
 
@@ -44,9 +42,35 @@ Pub. L. 103–160, div. A, title VIII, §837, Nov. 30, 1993, 107 Stat. 1718, as 
 
 #### Contract Administration: Performance Based Contract Management
 
-Pub. L. 103–160, div. A, title VIII, §838, Nov. 30, 1993, 107 Stat. 1718, as amended by Pub. L. 103–355, title V,§5064(b)(3), Oct. 13, 1994, 108 Stat. 3360, provided that: “For at least one participating defense acquisition program for which a determination is made to make payments for work in progress under the authority of section 2307 of title 10, United States Code, the Secretary of Defense should define payment milestones on the basis of quantitative measures of results.”
+Pub. L. 103–160, div. A, title VIII, §838, Nov. 30, 1993, 107 Stat. 1718, as amended by Pub. L. 103–355, title V, §5064(b)(3), Oct. 13, 1994, 108 Stat. 3360, provided that: “For at least one participating defense acquisition program for which a determination is made to make payments for work in progress under the authority of section 2307 of title 10, United States Code, the Secretary of Defense should define payment milestones on the basis of quantitative measures of results.”
 
 #### Defense Acquisition Pilot Program
+
+Pub. L. 104–201, div. A, title VIII, §803, Sept. 23, 1996, 110 Stat. 2604, provided that:
+
+“(a)
+
+Authority.—The Secretary of Defense may waive sections 2399, 2403, 2432, and 2433 of title 10, United States Code, in accordance with this section for any defense acquisition program designated by the Secretary of Defense for participation in the defense acquisition pilot program authorized by section 809 of the National Defense Authorization Act for Fiscal Year 1991 (Public Law 101–510; 10 U.S.C. 2430 note).
+
+“(b)
+
+Operational Test and Evaluation.—The Secretary of Defense may waive the requirements for operational test and evaluation for such a defense acquisition program as set forth in section 2399 of title 10, United States Code, if the Secretary—
+
+&emsp;“(1) determines (without delegation) that such test would be unreasonably expensive or impractical;
+
+&emsp;“(2) develops a suitable alternate operational test program for the system concerned;
+
+&emsp;“(3) describes in the test and evaluation master plan, as approved by the Director of Operational Test and Evaluation, the method of evaluation that will be used to evaluate whether the system will be effective and suitable for combat; and
+
+&emsp;“(4) submits to the congressional defense committees \[Committees on Armed Services and on Appropriations of the Senate and Committees on National Security and on Appropriations of the House of Representatives\] a report containing the determination that was made under paragraph (1), a justification for that determination, and a copy of the plan required by paragraph (3).
+
+“(c)
+
+Contractor Guarantees for Major Weapons Systems.—The Secretary of Defense may waive the requirements of section 2403 of title 10, United States Code, for such a defense acquisition program if an alternative guarantee is used that ensures high quality weapons systems.
+
+“(d)
+
+Selected Acquisition Reports.—The Secretary of Defense may waive the requirements of sections 2432 and 2433 of title 10, United States Code, for such a defense acquisition program if the Secretary provides a single annual report to Congress at the end of each fiscal year that describes the status of the program in relation to the baseline description for the program established under section 2435 of such title.”
 
 Pub. L. 103–355, title V, §5064, Oct. 13, 1994, 108 Stat. 3359, provided that:
 
@@ -230,5 +254,5 @@ Termination of Authority.—The authority to waive or limit the applicability of
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 139, 1621, 1733, 1737, 2433, 2506 of this title.
+This section is referred to in sections 139, 1621, 1733, 1737, 2433 of this title.
 

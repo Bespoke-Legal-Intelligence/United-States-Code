@@ -1,0 +1,206 @@
+### §1831p–1. Standards for safety and soundness
+
+#### (a) Operational and managerial standards
+
+Each appropriate Federal banking agency shall, for all insured depository institutions, prescribe—
+
+&emsp;(1) standards relating to—
+
+&emsp;&emsp;(A) internal controls, information systems, and internal audit systems, in accordance with section 1831m of this title;
+
+&emsp;&emsp;(B) loan documentation;
+
+&emsp;&emsp;(C) credit underwriting;
+
+&emsp;&emsp;(D) interest rate exposure;
+
+&emsp;&emsp;(E) asset growth; and
+
+&emsp;&emsp;(F) compensation, fees, and benefits, in accordance with subsection (c) of this section; and
+
+&emsp;(2) such other operational and managerial standards as the agency determines to be appropriate.
+
+#### (b) Asset quality, earnings, and stock valuation standards
+
+Each appropriate Federal banking agency shall prescribe standards, by regulation or guideline, for all insured depository institutions relating to asset quality, earnings, and stock valuation that the agency determines to be appropriate.
+
+#### (c) Compensation standards
+
+Each appropriate Federal banking agency shall, for all insured depository institutions, prescribe—
+
+&emsp;(1) standards prohibiting as an unsafe and unsound practice any employment contract, compensation or benefit agreement, fee arrangement, perquisite, stock option plan, postemployment benefit, or other compensatory arrangement that—
+
+&emsp;&emsp;(A) would provide any executive officer, employee, director, or principal shareholder of the institution with excessive compensation, fees or benefits; or
+
+&emsp;&emsp;(B) could lead to material financial loss to the institution;
+
+&emsp;(2) standards specifying when compensation, fees, or benefits referred to in paragraph (1) are excessive, which shall require the agency to determine whether the amounts are unreasonable or disproportionate to the services actually performed by the individual by considering—
+
+&emsp;&emsp;(A) the combined value of all cash and noncash benefits provided to the individual;
+
+&emsp;&emsp;(B) the compensation history of the individual and other individuals with comparable expertise at the institution;
+
+&emsp;&emsp;(C) the financial condition of the institution;
+
+&emsp;&emsp;(D) comparable compensation practices at comparable institutions, based upon such factors as asset size, geographic location, and the complexity of the loan portfolio or other assets;
+
+&emsp;&emsp;(E) for postemployment benefits, the projected total cost and benefit to the institution;
+
+&emsp;&emsp;(F) any connection between the individual and any fraudulent act or omission, breach of trust or fiduciary duty, or insider abuse with regard to the institution; and
+
+&emsp;&emsp;(G) other factors that the agency determines to be relevant; and
+
+&emsp;(3) such other standards relating to compensation, fees, and benefits as the agency determines to be appropriate.
+
+#### (d) Standards to be prescribed
+
+#### (1) In general
+
+&emsp;Standards under subsections (a), (b), and (c) of this section shall be prescribed by regulation or guideline. Such regulations or guidelines may not prescribe standards that set a specific level or range of compensation for directors, officers, or employees of insured depository institutions.
+
+#### (2) Applicability of other laws
+
+&emsp;Paragraph (1) shall not affect the authority of any appropriate Federal banking agency to restrict the level of compensation, including golden parachute payments (as defined in section 1828(k)(4) of this title), paid to any director, officer, or employee of an insured depository institution under any other provision of law.
+
+#### (3) Senior executive officers at undercapitalized institutions
+
+&emsp;Paragraph (1) shall not affect the authority of any appropriate Federal banking agency to restrict compensation paid to any senior executive officer of an undercapitalized insured depository institution pursuant to section 1831<i>o</i> of this title.
+
+#### (4) Safety and soundness or enforcement actions
+
+&emsp;Paragraph (1) shall not be construed as affecting the authority of any appropriate Federal banking agency under any provision of this chapter other than this section, or under any other provision of law, to prescribe a specific level or range of compensation for any director, officer, or employee of an insured depository institution—
+
+&emsp;&emsp;(A) to preserve the safety and soundness of the institution; or
+
+&emsp;&emsp;(B) in connection with any action under section 1818 of this title or any order issuedby the agency, any agreement between the agency and the institution, or any condition imposed by the agency in connection with the agency's approval of an application or other request by the institution, which is enforceable under section 1818 of this title.
+
+#### (e) Failure to meet standards
+
+#### (1) Plan required
+
+#### (A) In general
+
+&emsp;&emsp;If the appropriate Federal banking agency determines that an insured depository institution fails to meet any standard prescribed under subsection (a) or (b) of this section—
+
+&emsp;&emsp;&emsp;(i) if such standard is prescribed by regulation of the agency, the agency shall require the institution to submit an acceptable plan to the agency within the time allowed by the agency under subparagraph (C); and
+
+&emsp;&emsp;&emsp;(ii) if such standard is prescribed by guideline, the agency may require the institution to submit a plan described in clause (i).
+
+#### (B) Contents of plan
+
+&emsp;&emsp;Any plan required under subparagraph (A) shall specify the steps that the institution will take to correct the deficiency. If the institution is undercapitalized, the plan may be part of a capital restoration plan.
+
+#### (C) Deadlines for submission and review of plans
+
+&emsp;&emsp;The appropriate Federal banking agency shall by regulation establish deadlines that—
+
+&emsp;&emsp;&emsp;(i) provide institutions and companies with reasonable time to submit plans required under subparagraph (A), and generally require the institution to submit a plan not later than 30 days after the agency determines that the institution fails to meet any standard prescribed under subsection (a), (b), or (c) of this section; and
+
+&emsp;&emsp;&emsp;(ii) require the agency to act on plans expeditiously, and generally not later than 30 days after the plan is submitted.
+
+#### (2) Order required if institution fails to submit or implement plan
+
+&emsp;If an insured depository institution fails to submit an acceptable plan within the time allowed under paragraph (1)(C), or fails in any material respect to implement a plan accepted by the appropriate Federal banking agency, the agency, by order—
+
+&emsp;&emsp;(A) shall require the institution to correct the deficiency; and
+
+&emsp;&emsp;(B) may do 1 or more of the following until the deficiency has been corrected:
+
+&emsp;&emsp;&emsp;(i) Prohibit the institution from permitting its average total assets during any calendar quarter to exceed its average total assets during the preceding calendar quarter, or restrict the rate at which the average total assets of the institution may increase from one calendar quarter to another.
+
+&emsp;&emsp;&emsp;(ii) Require the institution to increase its ratio of tangible equity to assets.
+
+&emsp;&emsp;&emsp;(iii) Take the action described in section 1831<i>o</i>(f)(2)(C) of this title.
+
+&emsp;&emsp;&emsp;(iv) Require the institution to take any other action that the agency determines will better carry out the purpose of section 1831<i>o</i> of this title than any of the actions described in this subparagraph.
+
+#### (3) Restrictions mandatory for certain institutions
+
+&emsp;In complying with paragraph (2), the appropriate Federal banking agency shall take 1 or more of the actions described in clauses (i) through (iii) of paragraph (2)(B) if—
+
+&emsp;&emsp;(A) the agency determines that the insured depository institution fails to meet any standard prescribed under subsection (a)(1) or (b)(1) of this section;
+
+&emsp;&emsp;(B) the institution has not corrected the deficiency; and
+
+&emsp;&emsp;(C) either—
+
+&emsp;&emsp;&emsp;(i) during the 24-month period before the date on which the institution first failed to meet the standard—
+
+&emsp;&emsp;&emsp;&emsp;(I) the institution commenced operations; or
+
+&emsp;&emsp;&emsp;&emsp;(II) 1 or more persons acquired control of the institution; or
+
+&emsp;&emsp;&emsp;(ii) during the 18-month period before the date on which the institution first failed to meet the standard, the institution underwent extraordinary growth, as defined by the agency.
+
+#### (f) Definitions
+
+For purposes of this section, the terms “average” and “capital restoration plan” have the same meanings as in section 1831<i>o</i> of this title.
+
+#### (g) Other authority not affected
+
+The authority granted by this section is in addition to any other authority of the Federal banking agencies.
+
+(Sept. 21, 1950, ch. 967, §2\[39\], as added Dec. 19, 1991, Pub. L. 102–242, title I, §132(a), 105 Stat. 2267; amended Oct. 28, 1992, Pub. L. 102–550, title IX, §956, 106 Stat. 3895; Sept. 23, 1994, Pub. L. 103–325, title III, §318(a)–(c), 108 Stat. 2223, 2224.)
+
+#### Codification
+
+Section was formerly classified to section 1831s of this title.
+
+Another section 2\[39\] of act Sept. 21, 1950, was renumbered section 2\[42\] and is classified to section 1831r–1 of this title.
+
+#### Amendments
+
+1994—Subsec. (a). Pub. L. 103–325, §318(c)(1), struck out “and depository institution holding companies” before “, prescribe” in introductory provisions.
+
+Subsec. (b). Pub. L. 103–325, §318(a), amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “Each appropriate Federal banking agency shall, for all insured depository institutions and depository institution holding companies, prescribe—
+
+&emsp;“(1) standards specifying—
+
+&emsp;&emsp;“(A) a maximum ratio of classified assets to capital;
+
+&emsp;&emsp;“(B) minimum earnings sufficient to absorb losses without impairing capital; and
+
+&emsp;&emsp;“(C) to the extent feasible, a minimum ratio of market value to book value for publicly traded shares of the institution or company; and
+
+&emsp;“(2) such other standards relating to asset quality, earnings, and valuation as the agency determines to be appropriate.”
+
+Subsec. (d). Pub. L. 103–325, §318(b)(1), struck out “by regulation” after “Standards to be prescribed” in heading.
+
+Subsec. (d)(1). Pub. L. 103–325, §318(b)(2), inserted “or guideline” before period at end of first sentence and inserted “or guidelines” after “Such regulations” in second sentence.
+
+Subsec. (e)(1)(A). Pub. L. 103–325, §318(c)(2)(A)–(C), struck out “or depository institution holding company” after “insured depository institution”, substituted “or (b) of this section—
+
+&emsp;“(i) if such standard is prescribed by regulation of the agency, the agency shall require”
+
+> for “or (b) of this section the agency shall require”, struck out “or company” before “to submit an acceptable plan”, substituted “; and” for period at end of cl. (i), and added cl. (ii).
+
+Subsec. (e)(1)(B), (C). Pub. L. 103–325, §318(c)(2)(A), struck out “or company” before “will take to correct” in subpar. (B) and before “to submit a plan” and “fails to meet any standard” in subpar. (C).
+
+Subsec. (e)(2). Pub. L. 103–325, §318(c)(2)(B), struck out “or depository institution holding company” after “insured depository institution” in introductory provisions.
+
+Subsec. (e)(2)(A), (B). Pub. L. 103–325, §318(c)(2)(A), struck out “or company” after “institution” wherever appearing.
+
+1992—Subsec. (d). Pub. L. 102–550, §956(1), added subsec. (d) and struck out former subsec. (d) which read as follows: “Standards under subsections (a), (b), and (c) of this section shall be prescribed by regulation.”
+
+Subsec. (e)(1)(A). Pub. L. 102–550, §956(2), substituted “(a) or (b)” for “(a), (b), or (c)”.
+
+#### Effective Date of 1994 Amendment
+
+Section 318(d) of Pub. L. 103–325 provided that: “The amendments made by this section \[amending this section\] shall be construed to have the same effective date as section 39 of the Federal Deposit Insurance Act \[this section\], as provided in section 132(c) of the Federal Deposit Insurance Corporation Improvement Act of 1991 \[Pub. L. 102–242, set out as an Effective Date note below\].”
+
+#### Effective Date
+
+Section 132(c) of Pub. L. 102–242 provided that: “The amendment made by subsection (a) \[enacting this section\] shall become effective on the earlier of—
+
+&emsp;“(1) the date on which final regulations promulgated in accordance with subsection (b) \[set out below\] become effective \[Final rules were published July 10, 1995, 60 F.R. 35674, eff. Aug. 9, 1995.\]; or
+
+&emsp;“(2) December 1, 1993.”
+
+#### Regulations
+
+Section 132(b) of Pub. L. 102–242 provided that: “Each appropriate Federal banking agency (as defined in section 3 of the Federal Deposit Insurance Act \[12 U.S.C. 1813\]) shall promulgate final regulations under section 39 of the Federal Deposit Insurance Act \[12 U.S.C. 1831p–1\] (as added by subsection (a)) not later than August 1, 1993.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 1464, 1818 of this title.
+

@@ -24,7 +24,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 (a)
 
@@ -52,7 +54,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-<b>1974</b>—Pub. L. 93–416 substituted “or death” for “; failure to give” in section catchline, struck out designation of subsec. (a), redesignated cls. (1) to (7) as (a) to (g), and, as so redesignated, inserted provisions relating to notice of death and substituted “30 days” for “48 hours” in cl. (a), and struck out subsec. (b) relating to allowance of compensation.
+1974—Pub. L. 93–416 substituted “or death” for “; failure to give” in section catchline, struck out designation of subsec. (a), redesignated cls. (1) to (7) as (a) to (g), and, as so redesignated, inserted provisions relating to notice of death and substituted “30 days” for “48 hours” in cl. (a), and struck out subsec. (b) relating to allowance of compensation.
 
 #### Effective Date of 1974 Amendment
 

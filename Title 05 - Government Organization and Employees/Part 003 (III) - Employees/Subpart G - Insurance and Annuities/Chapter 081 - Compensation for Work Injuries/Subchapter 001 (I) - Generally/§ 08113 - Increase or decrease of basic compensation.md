@@ -20,7 +20,9 @@ Act
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 5 U.S.C. 756(d).
 
@@ -36,7 +38,7 @@ This section amends section 8113(b) of title 5, United States Code, to conform t
 
 #### Amendments
 
-<b>1974</b>—Subsecs. (b), (c). Pub. L. 93–416 struck out subsec. (b) which authorized the Secretary to prospectively recompute compensation because of decreased wage earning power after age 70, aside from injury, and redesignated subsec. (c) as (b).
+1974—Subsecs. (b), (c). Pub. L. 93–416 struck out subsec. (b) which authorized the Secretary to prospectively recompute compensation because of decreased wage earning power after age 70, aside from injury, and redesignated subsec. (c) as (b).
 
 #### Effective Date of 1974 Amendment
 

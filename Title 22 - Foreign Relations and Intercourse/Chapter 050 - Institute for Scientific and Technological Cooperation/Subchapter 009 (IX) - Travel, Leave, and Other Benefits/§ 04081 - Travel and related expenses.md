@@ -76,7 +76,7 @@ Par. (12)(C). Pub. L. 102–138, §145(2), inserted before semicolon “, excep
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 2 section 143a; title 10 section 1605; title 28 section 530A; title 37 section 431; title 38 section 707.
+This section is referred to in title 2 section 143a; title 10 sections 1599b, 1605; title 28 section 530A; title 37 section 431; title 38 section 707.
 
 <i><sup>1</sup></i><i> So in original. The period probably should be a semicolon.</i>
 

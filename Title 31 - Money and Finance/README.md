@@ -1,5 +1,5 @@
 
-31 U.S.C.<br>United States Code, 1995 Edition<br>Title 31 - MONEY AND FINANCE<br>From the U.S. Government Publishing Office, www.gpo.gov
+31 U.S.C.<br>United States Code, 1996 Edition<br>Title 31 - MONEY AND FINANCE<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 31—MONEY AND FINANCE
 
@@ -18,9 +18,13 @@
 
 Table Showing Disposition of All Sections of Former Title 31
 
-<i>Title 31      Former Sections     </i>
+<i>Title 31</i>
 
-<i>Title 31         New Sections        </i>
+<i>Former Sections</i>
+
+<i>Title 31</i>
+
+<i>New Sections</i>
 
 1
 
@@ -70,7 +74,7 @@ Rep.
 
 1109
 
-11b.
+11b
 
 T. 2 §661
 
@@ -258,7 +262,7 @@ Rep.
 
 776
 
-43b(n), (<i>o)</i>
+43b(n), (<i>o</i>)
 
 774
 
@@ -354,7 +358,7 @@ Rep.
 
 753
 
-52–3(<i>l)</i>
+52–3(<i>l</i>)
 
 755
 
@@ -3218,7 +3222,7 @@ T. 26 §7802
 
 Rep.
 
-1052(<i>l)</i>
+1052(<i>l</i>)
 
 5312
 

@@ -4,7 +4,7 @@ The Congress finds that—
 
 &emsp;(1) certain species and population stocks of marine mammals are, or may be, in danger of extinction or depletion as a result of man's activities;
 
-&emsp;(2) such species and population stocks should not be permitted to diminish beyond the pointat which they cease to be a significant functioning element in the ecosystem of which they are a part, and, consistent with this major objective, they should not be permitted to diminish below their optimum sustainable population. Further measures should be immediately taken to replenish any species or population stock which has already diminished below that population. In particular, efforts should be made to protect essential habitats, including the rookeries, mating grounds, and areas of similar significance for each species of marine mammal from the adverse effect of man's actions;
+&emsp;(2) such species and population stocks should not be permitted to diminish beyond the point at which they cease to be a significant functioning element in the ecosystem of which they are a part, and, consistent with this major objective, they should not be permitted to diminish below their optimum sustainable population. Further measures should be immediately taken to replenish any species or population stock which has already diminished below that population. In particular, efforts should be made to protect essential habitats, including the rookeries, mating grounds, and areas of similar significance for each species of marine mammal from the adverse effect of man's actions;
 
 &emsp;(3) there is inadequate knowledge of the ecology and population dynamics of such marine mammals and of the factors which bear upon their ability to reproduce themselves successfully;
 
@@ -70,7 +70,7 @@ Section 14 of Pub. L. 103–238 provided that: “Nothing in this Act \[see Shor
 
 #### Study on Effects of Dolphin Feeding
 
-Pub. L. 102–567, title III, §306, Oct. 29, 1992, 106 Stat. 4284, directed Secretary of Commerce to conduct a study in the eastern Gulf of Mexico on the effects of feeding of noncaptive dolphins by human beings, such study to be designed to detect any behavior or dietmodification resulting from this feeding and to identify the effects, if any, of these modifications on the health and well-being of the dolphins, directed Secretary to consult with National Academy of Sciences and Marine Mammal Commission in design and conduct of the study, and directed Secretary, within 18 months after Oct. 29, 1992, to submit to Congress a report on results of the study.
+Pub. L. 102–567, title III, §306, Oct. 29, 1992, 106 Stat. 4284, directed Secretary of Commerce to conduct a study in the eastern Gulf of Mexico on the effects of feeding of noncaptive dolphins by human beings, such study to be designed to detect any behavior or diet modification resulting from this feeding and to identify the effects, if any, of these modifications on the health and well-being of the dolphins, directed Secretary to consult with National Academy of Sciences and Marine Mammal Commission in design and conduct of the study, and directed Secretary, within 18 months after Oct. 29, 1992, to submit to Congress a report on results of the study.
 
 #### Study on Mortality of Atlantic Dolphin
 
@@ -80,7 +80,7 @@ Pub. L. 100–711, §7, Nov. 23, 1988, 102 Stat. 4771, directed Secretary of Com
 
 Pub. L. 95–426, title VI, §602, Oct. 7, 1978, 92 Stat. 985, provided that: “It is the sense of the Congress that the President should convey to all countries having an interest in cetacean sea life the serious concern of the Congress regarding the continuing destruction of these marine mammals (highlighted by the recent slaughter of dolphins in the Sea of Japan by Japanese fishermen) and should encourage such countries—
 
-&emsp;“(1) to join in international discussions with other such countries in order to advance general understanding of cetacean life and thereby facilitate an effective use of the living marine resources of the world which does not jeopardize the natural balance of the aquatic environment;
+&emsp;“(1) to join in international discussions with other such countries in order to advance general understanding of cetacean life and thereby facilitate an effective use of the living marine resources of the worldwhich does not jeopardize the natural balance of the aquatic environment;
 
 &emsp;“(2) to participate in an exchange of information with the National Marine Fisheries Service of the United States Department of Commerce, including cooperation in studies of—
 

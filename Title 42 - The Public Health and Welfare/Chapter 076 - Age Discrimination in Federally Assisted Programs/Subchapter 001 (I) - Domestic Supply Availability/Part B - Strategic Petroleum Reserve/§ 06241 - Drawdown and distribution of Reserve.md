@@ -50,7 +50,7 @@ The Secretary may permit any importer or refiner who owns any petroleum products
 
 (7) Rules, regulations, or orders issued in order to carry out this subsection which have the applicability and effect of a rule as defined in section 551(4) of title 5 shall not be subject to the requirements of subchapter II of chapter 5 of such title or to section 6393 of this title.
 
-(8) The Secretary shall transmit to both Houses of the Congress a detailed explanation of the drawdown and distribution carried out under this subsection. Such explanation may be a part of any report made to the President and the Congress under section 6245 of this title.
+(8) The Secretary shall transmit to both Houses of the Congress a detailed explanation of the drawdown and distribution carried out underthis subsection. Such explanation may be a part of any report made to the President and the Congress under section 6245 of this title.
 
 #### (h) Prevention or reduction of adverse impact of severe domestic energy supply interruptions
 

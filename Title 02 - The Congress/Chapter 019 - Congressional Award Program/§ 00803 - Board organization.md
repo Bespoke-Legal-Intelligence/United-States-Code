@@ -34,7 +34,7 @@
 
 (3)(A) Subject to the limitations in subparagraphs (B) and (C) of this paragraph, members of the Board may be reappointed, provided that no member may serve more than 2 consecutive terms.
 
-(B) Members of the Board covered under paragraph (2)(A) of this section <sup>1</sup> shall not be eligiblefor reappointment to the Board. Members of the Board covered under subparagraphs (B) and (C) of paragraph (2) of this section <sup>1</sup> may be reappointed for 1 additional consecutive 4 year term.
+(B) Members of the Board covered under paragraph (2)(A) of this section <sup>1</sup> shall not be eligible for reappointment to the Board. Members of the Board covered under subparagraphs (B) and (C) of paragraph (2) of this section <sup>1</sup> may be reappointed for 1 additional consecutive 4 year term.
 
 (C) Members of the Board who serve as chairman of the Board shall not have the time during which they serve as chairman used in the computation of their period of service for purposes of this paragraph and paragraph (2).
 
@@ -98,7 +98,7 @@ Subsec. (d). Pub. L. 100–674, §2(b)(2), amended subsec. (d) generally. Prior 
 
 1985—Subsec. (a)(2). Pub. L. 99–161, §2(1), inserted “One of the members appointed under each of subparagraphs (A) through (D) of paragraph (1) shall be a member of the Congress.”
 
-Subsec. (b). Pub. L. 99–161, §2(2), amended subsec. (b) generally, substituting provisions for continuance of service of appointed members at pleasure of appointing officer, but unless reappointed, for not more than four years, for provisions limiting term of service to six years with exceptions for first appointed members andindividuals appointed to Board after March 31, 1983, whose terms were limited.
+Subsec. (b). Pub. L. 99–161, §2(2), amended subsec. (b) generally, substituting provisions for continuance of service of appointed members at pleasure of appointing officer, but unless reappointed, for not more than four years, for provisions limiting term of service to six years with exceptions for first appointed members and individuals appointed to Board after March 31, 1983, whose terms were limited.
 
 Subsec. (c)(2) to (4). Pub. L. 99–161, §2(3), struck out par. (2) limiting term of service of any member appointed to fill out an unexpired term to remainder of that term and redesignated pars. (3) and (4) as (2) and (3), respectively.
 

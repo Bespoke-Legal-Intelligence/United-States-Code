@@ -10,7 +10,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 42 U.S.C. 1371(e).
 
@@ -24,7 +26,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-<b>1976</b>—Pub. L. 94–566 struck out “or to the Virgin Islands, as the case may be,” after “shall be assigned to the State”.
+1976—Pub. L. 94–566 struck out “or to the Virgin Islands, as the case may be,” after “shall be assigned to the State”.
 
 #### Effective Date of 1976 Amendment
 

@@ -14,7 +14,7 @@ All personnel actions affecting the Presidential appointees described in section
 
 The remedies referred to in sections 1219(a)(1) and 1220(a) of this title—
 
-&emsp;(1) may include, in the case of a determination that a violation of subsection (a)(1) or\(a)(3) of this section has occurred, such remedies as would be appropriate if awarded under sections 2000e–5(g), 2000e–5(k), and 2000e–16(d) of title 42, and such compensatory damages as would be appropriate if awarded under section 1981 or sections 1981a(a) and 1981a(b)(2) of title 42;
+&emsp;(1) may include, in the case of a determination that a violation of subsection (a)(1) or (a)(3) of this section has occurred, such remedies as would be appropriate if awarded under sections 2000e–5(g), 2000e–5(k), and 2000e–16(d) of title 42, and such compensatory damages as would be appropriate if awarded under section 1981 or sections 1981a(a) and 1981a(b)(2) of title 42;
 
 &emsp;(2) may include, in the case of a determination that a violation of subsection (a)(2) of this section has occurred, such remedies as would be appropriate if awarded under section 633a(c) of title 29; and
 

@@ -6,7 +6,7 @@ The title to any real property (or interest therein) acquired under the authorit
 
 #### (b) Services of local redevelopment agency
 
-In the administration of a relocation program or programs pursuant to the Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970 \[42 U.S.C. 4601 et seq.\], the Corporation may utilize the services of the Districtof Columbia government. Costs of such services shall be reimbursed by the Corporation to the District of Columbia government.
+In the administration of a relocation program or programs pursuant to the Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970 \[42 U.S.C. 4601 et seq.\], the Corporation may utilize the services of the District of Columbia government. Costs of such services shall be reimbursed by the Corporation to the District of Columbia government.
 
 #### (c) Coordination of relocation programs
 

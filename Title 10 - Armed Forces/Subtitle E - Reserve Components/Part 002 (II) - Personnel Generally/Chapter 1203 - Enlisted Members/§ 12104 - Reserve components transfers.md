@@ -18,6 +18,10 @@ Historical and Revision Notes
 
 512(a)
 
+&nbsp;
+
+&nbsp;
+
 512(b)
 
 50:929(a) (less 2d sentence, as applicable to enlistments).

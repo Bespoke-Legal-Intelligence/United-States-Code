@@ -70,11 +70,11 @@ The activities conducted and assistance provided as required by subsection (a)(1
 
 &emsp;&emsp;(E) acting as a clearinghouse for research, studies, and findings concerning all aspects of the operation of food service programs, including activities carried out with assistance provided under section 1788 of this title;
 
-&emsp;&emsp;(F) training food service personnel to comply with the nutrition guidance and objectives of section 1769e of this title through a national network of instructors or other means;
+&emsp;&emsp;(F) training food service personnel to comply with the nutrition guidance and objectives of section 1769e <sup>1</sup> of this title through a national network of instructors or other means;
 
 &emsp;&emsp;(G) preparing informational materials, such as video instruction tapes and menu planners, to promote healthier food preparation; and
 
-&emsp;&emsp;(H) assisting State educational agencies in providing additional nutrition and health instructions and instructors, including training personnel to comply with the nutrition guidance and objectives of section 1769e of this title.
+&emsp;&emsp;(H) assisting State educational agencies in providing additional nutrition and health instructions and instructors, including training personnel to comply with the nutrition guidance and objectives of section 1769e <sup>1</sup> of this title.
 
 #### (d) Coordination
 
@@ -104,9 +104,13 @@ The activities conducted and assistance provided as required by subsection (a)(1
 
 #### (C) Funding for education, training, or applied research or studies
 
-&emsp;&emsp;In addition to amounts made available under subparagraphs (A) and (B), from amounts otherwise appropriated to the Secretary in discretionary appropriations, the Secretary may provide funds to any food service management institute established under subsection (a)(2) of this section for projects specified by the Secretary that will contribute to implementing dietary or nutrition initiatives. Any additional funding under this subparagraph shall be provided noncompetitively in a separate cooperative agreement.
+&emsp;&emsp;In addition to amounts made available under subparagraphs (A) and (B), from amounts otherwise appropriated to the Secretary in discretionary appropriations, the Secretary may provide funds to any food service management institute established under subsection (a)(2) of this section for projects specified by the Secretary that will contribute to implementing dietary or nutrition initiatives. Any additional fundingunder this subparagraph shall be provided noncompetitively in a separate cooperative agreement.
 
 (June 4, 1946, ch. 281, §21, as added Nov. 10, 1989, Pub. L. 101–147, title I, §109, 103 Stat. 887; amended Aug. 7, 1992, Pub. L. 102–337, §1, 106 Stat. 865; Nov. 2, 1994, Pub. L. 103–448, title I, §120, 108 Stat. 4726.)
+
+#### References in Text
+
+Section 1769e of this title, referred to in subsec. (c)(2)(F), (H), was repealed by Pub. L. 104–193, title VII, §712, Aug. 22, 1996, 110 Stat. 2301.
 
 #### Amendments
 
@@ -133,4 +137,6 @@ Amendment by Pub. L. 103–448 effective Oct. 1, 1994, see section 401 of Pub. L
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 1769h, 1788 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

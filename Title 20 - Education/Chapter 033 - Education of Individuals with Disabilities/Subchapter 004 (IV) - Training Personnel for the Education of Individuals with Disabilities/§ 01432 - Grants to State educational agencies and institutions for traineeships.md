@@ -6,7 +6,7 @@ The Secretary shall make a grant of sufficient size and scope to each State educ
 
 #### (b) Grants on competitive basis
 
-The Secretary may also make a limited number of grants to State educational agencies on a competitive basis for the purposes described in subsection (c) of this section. In any fiscal year, the Secretary may not expend for purposes of this subsection an amount that exceeds 10 percent of the amount expended for purposes of this section in the preceding fiscal year.
+The Secretary may also make a limited number of grants to State educational agencies on acompetitive basis for the purposes described in subsection (c) of this section. In any fiscal year, the Secretary may not expend for purposes of this subsection an amount that exceeds 10 percent of the amount expended for purposes of this section in the preceding fiscal year.
 
 #### (c) Purpose of grants
 

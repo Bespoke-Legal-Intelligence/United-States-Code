@@ -44,9 +44,11 @@ For the purposes of this chapter—
 
 (15) The term “waters under the jurisdiction of the United States” means—
 
-&emsp;(A) the territorial sea of the United States, and
+&emsp;(A) the territorial sea of the United States;
 
-&emsp;(B) the waters included within a zone, contiguous to the territorial sea of the United States, of which the inner boundary is a line coterminous with the seaward boundary of each coastal State, and the outer boundary is a line drawn in such a manner that each point on it is 200 nautical miles from the baseline from which the territorial sea is measured.
+&emsp;(B) the waters included within a zone, contiguous to the territorial sea of the United States, of which the inner boundary is a line coterminous with the seaward boundary of each coastal State, and the other boundary is a line drawn in such a manner that each point on it is 200 nautical miles from the baseline from which the territorial sea is measured; and
+
+&emsp;(C) the areas referred to as eastern special areas in Article 3(1) of the Agreement between the United States of America and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990; in particular, those areas east of the maritime boundary, as defined in that Agreement, that lie within 200 nautical miles of the baselines from which the breadth of the territorial sea of Russia is measured but beyond 200 nautical miles of the baselines from which the breadth of the territorial sea of the United States is measured, except that this subparagraph shall not apply before the date on which the Agreement between the United States and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for the United States.
 
 (16) The term “fishery” means—
 
@@ -106,29 +108,27 @@ For the purposes of this chapter—
 
 (27) The term “minimum population estimate” means an estimate of the number of animals in a stock that—
 
-&emsp;(A) is based on the best available scientific information on abundance, incorporating theprecision and variability associated with such information; and
+&emsp;(A) is based on the best available scientific information on abundance, incorporating the precision and variability associated with such information; and
 
 &emsp;(B) provides reasonable assurance that the stock size is equal to or greater than the estimate.
 
-(Pub. L. 92–522, §3, Oct. 21, 1972, 86 Stat. 1028; Pub. L. 93–205, §13(e)(1), Dec. 28, 1973, 87 Stat. 903; Pub. L. 94–265, title IV, §404(a), Apr. 13, 1976, 90 Stat. 360; Pub. L. 97–58, §1(a), (b)(2), Oct. 9, 1981, 95 Stat. 979; Pub. L. 102–251, title III, §304, Mar. 9, 1992, 106 Stat. 65; Pub. L. 102–523, §2(c), Oct. 26, 1992, 106 Stat. 3432; Pub. L. 102–582, title IV, §401(a), Nov. 2, 1992, 106 Stat. 4909; Pub. L. 102–587, title III, §3004(b), Nov. 4, 1992, 106 Stat. 5067; Pub. L. 103–238, §§12, 16(a), 24(a)(2), Apr. 30, 1994, 108 Stat. 557, 559, 565.)
-
-#### Amendment of Paragraph (15)
-
-<i>Pub. L. 102–251, title III, §§304, 308, Mar. 9, 1992, 106 Stat. 65, 66, provided that, effective on the date on which the Agreement between the United States and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for the United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until the date on which the Agreement enters into force for the United States, paragraph (15) is amended to read as follows:</i>
-
-(15) The term “waters under the jurisdiction of the United States” means—
-
-&emsp;(A) the territorial sea of the United States;
-
-&emsp;(B) the waters included within a zone, contiguous to the territorial sea of the United States, of which the inner boundary is a line coterminous with the seaward boundary of each coastal State, and the outer boundary is a line drawn in such a manner that each point on it is 200 nautical miles from the baseline from which the territorial sea is measured; and
-
-&emsp;(C) the areas referred to as eastern special areas in Article 3(1) of the Agreement between the United States of America and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990; in particular, those areas east of the maritime boundary, as defined in that Agreement, that lie within 200 nautical miles of the baselines from which the breadth of the territorial sea of Russia is measured but beyond 200 nautical miles of the baselines from which the breadth of the territorial sea of the United States is measured.
+(Pub. L. 92–522, §3, Oct. 21, 1972, 86 Stat. 1028; Pub. L. 93–205, §13(e)(1), Dec. 28, 1973, 87 Stat. 903; Pub. L. 94–265, title IV, §404(a), Apr. 13, 1976, 90 Stat. 360; Pub. L. 97–58, §1(a), (b)(2), Oct. 9, 1981, 95 Stat. 979; Pub. L. 102–251, title III, §304, Mar. 9, 1992, 106 Stat. 65; Pub. L. 102–523, §2(c), Oct. 26, 1992, 106 Stat. 3432; Pub. L. 102–582, title IV, §401(a), Nov. 2, 1992, 106 Stat. 4909; Pub. L. 102–587, title III, §3004(b), Nov. 4, 1992, 106 Stat. 5067; Pub. L. 103–238, §§12, 16(a), 24(a)(2), Apr. 30, 1994, 108 Stat. 557, 559, 565; Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41; Pub. L. 104–297, title IV, §405(b)(2), (3), Oct. 11, 1996, 110 Stat. 3621.)
 
 #### References in Text
 
 The Endangered Species Act of 1973, referred to in pars. (1)(C) and (19)(B), (C), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, as amended, which is classified generally to chapter 35 (§1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
 
 #### Amendments
+
+1996—Par. (15). Pub. L. 104–297, §405(b)(2), repealed Pub. L. 102–251, §304. See 1992 Amendment note below.
+
+Pub. L. 104–297, §404(b)(3), amended par. (15) generally. Prior to amendment, par. (15) read as follows: “The term ‘waters under the jurisdiction of the United States’ means—
+
+&emsp;“(A) the territorial sea of the United States, and
+
+&emsp;“(B) the waters included within a zone, contiguous to the territorial sea of the United States, of which the inner boundary is a line coterminous with the seaward boundary of each coastal State, and the outer boundary is a line drawn in such a manner that each point on it is 200 nautical miles from the baseline from which the territorial sea is measured.”
+
+Par. (21). Pub. L. 104–208 made technical amendment to reference in original act which appears in text as reference to section 1852 of this title.
 
 1994—Par. (12)(B). Pub. L. 103–238, §24(a)(2), substituted “in section 1387 of this title and subchapter V of this chapter” for “in subchapter V of this chapter”.
 
@@ -148,6 +148,8 @@ Par. (15). Pub. L. 102–582 redesignated par. (14), defining waters under the j
 
 Pub. L. 102–523 added par. (15) defining fishery.
 
+Pub. L. 102–251, §304, which directed the general amendment of par. (15) by reenacting the introductory provisions and subpars. (A) and (B) without substantial change and adding subpar. (C) which read “the areas referred to as eastern special areas in Article 3(1) of the Agreement between the United States of America and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990; in particular, those areas east of the maritime boundary, as defined in that Agreement, that lie within 200 nautical miles of the baselines from which the breadth of the territorial sea of Russia is measured but beyond 200 nautical miles of the baselines from which the breadth of the territorial sea of the United States is measured.”, was repealed by Pub. L. 104–297, §405(b)(2).
+
 Pars. (16), (17). Pub. L. 102–523 added pars. (16) and (17).
 
 1981—Par. (1). Pub. L. 97–58, §1(b)(2)(A), substituted a single management standard, that is, the maintenance of species at their optimum sustainable population, for the former management standard which had included the decline of a species or population stock that had declined to a significant degree over a period of years, the decline of a species or population stock which, if continued or resumed, would place the species or stock within the provisions of the Endangered Species Act of 1973, and a species or population stock that was below the optimum carrying capacity for the species or stock within its environment.
@@ -166,6 +168,10 @@ Pars. (14), (15). Pub. L. 97–58, §1(b)(2)(C), redesignated pars. (14) and (15
 
 1973—Par. (1)(B). Pub. L. 93–205 substituted “Endangered Species Act of 1973” for “Endangered Species Conservation Act of 1969”.
 
+#### Effective Date of 1996 Amendment
+
+Section 101(a) \[title II, §211(b)\] of div. A of Pub. L. 104–208 provided that the amendment made by that section is effective 15 days after Oct. 11, 1996.
+
 #### Effective Date of 1994 Amendment
 
 Section 24(e) of Pub. L. 103–238 provided that: “The amendments made by subsection (a) \[amending this section\] shall be effective as if enacted as part of section 3004 of the Marine Mammal Health and Stranding Response Act (106 Stat. 5067) \[Pub. L. 102–587\].”
@@ -176,7 +182,7 @@ Amendment by Pub. L. 102–251 effective on date on which Agreement between Unit
 
 #### Effective Date of 1976 Amendment
 
-Section 404(b) of Pub. L. 94–265 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect March 1, 1977.”
+Section 404(b) of Pub. L. 94–265 provided that the amendment made by section 404(a) of Pub. L. 94–265 to this section was to take effect Mar. 1, 1977, prior to the general amendment of title IV of Pub. L. 94–265 by Pub. L. 104–297.
 
 #### Effective Date of 1973 Amendment
 
@@ -196,7 +202,7 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 #### Termination of United States District Court for the District of the Canal Zone
 
-For termination of the United States District Court for the District of the Canal Zone at end of the “transition period”, being the 30-month period beginning Oct. 1, 1979, and ending midnight Mar. 31, 1982, see Paragraph 5 of Article XI of the Panama Canal Treaty of 1977 and sections 3831 and 3841 to 3843 of Title 22, Foreign Relations and Intercourse.
+For termination of the United States District Court for the District of the Canal Zone at end of the “transition period”, being the 30-month period beginning Oct. 1, 1979, and ending midnight Mar. 31, 1982, see Paragraph 5 of Article XI of the Panama Canal Treaty of 1977 and sections 2101 and 2201 to 2203 of Pub. L. 96–70, title II, Sept. 27, 1979, 93 Stat. 493, formerly classified to sections 3831 and 3841 to 3843, respectively, of Title 22, Foreign Relations and Intercourse.
 
 #### Termination of Advisory Committees
 

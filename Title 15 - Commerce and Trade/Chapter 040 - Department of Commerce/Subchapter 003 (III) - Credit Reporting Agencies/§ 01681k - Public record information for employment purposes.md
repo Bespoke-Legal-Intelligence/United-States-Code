@@ -8,3 +8,7 @@ A consumer reporting agency which furnishes a consumer report for employment pur
 
 (Pub. L. 90–321, title VI, §613, as added Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1133.)
 
+#### Section Referred to in Other Sections
+
+This section is referred to in section 1681d of this title.
+

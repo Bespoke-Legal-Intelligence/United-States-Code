@@ -28,7 +28,7 @@ Each State Council shall be composed as follows:
 
 &emsp;&emsp;&emsp;(II) shall constitute not less than 15 percent of the membership of the State Council.
 
-&emsp;(B) If the State labor federation fails to nominate a sufficient number of individuals under subclause (I) of subparagraph (A)(ii) to satisfy the requirement under subclause (II) of such subparagraph, individual workers may be included on the State Council to satisfy such requirement.
+&emsp;(B) If the State labor federation fails to nominate a sufficient number of individuals under subclause (I) of subparagraph (A)(ii) tosatisfy the requirement under subclause (II) of such subparagraph, individual workers may be included on the State Council to satisfy such requirement.
 
 #### (b) Additional members
 

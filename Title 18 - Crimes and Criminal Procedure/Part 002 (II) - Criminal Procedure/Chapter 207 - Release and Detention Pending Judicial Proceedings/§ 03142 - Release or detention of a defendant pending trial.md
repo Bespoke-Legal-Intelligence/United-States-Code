@@ -86,11 +86,11 @@ Detention.—If, after a hearing pursuant to the provisions of subsection (f) of
 
 &emsp;(3) a period of not more than five years has elapsed since the date of conviction, or the release of the person from imprisonment, for the offense described in paragraph (1) of this subsection, whichever is later.
 
-> Subject to rebuttal by the person, it shall be presumed that no condition or combination of conditions will reasonably assure the appearance of the person as required and the safety of the community if the judicial officer finds that there is probable cause to believe that the person committed an offense for which a maximum term of imprisonment of ten years or more is prescribed in the Controlled Substances Act (21 U.S.C. 801 et seq.), the Controlled Substances Import and Export Act (21 U.S.C. 951 et seq.), the Maritime Drug Law Enforcement Act (46 U.S.C. App. 1901 et seq.), or an offense under section 924(c) of title 18 of the United States Code.
+> Subject to rebuttal by the person, it shall be presumed that no condition or combination of conditions will reasonably assure the appearance of the person as required and the safety of the community if the judicial officer finds that there is probable cause to believe that the person committed an offense for which a maximum term of imprisonment of ten years or more is prescribed in the Controlled Substances Act (21 U.S.C. 801 et seq.), the Controlled Substances Import and Export Act (21 U.S.C. 951 et seq.), the Maritime Drug Law Enforcement Act (46 U.S.C. App. 1901 et seq.), or an offense under section 924(c), 956(a), or 2332b of title 18 of the United States Code.
 
 (f)
 
-Detention Hearing.—The judicial officer shall hold a hearing to determine whether any condition or combination of conditions set forthin subsection (c) of this section will reasonably assure the appearance of such person as required and the safety of any other person and the community—
+Detention Hearing.—The judicial officer shall hold a hearing to determine whether any condition or combination of conditions set forth in subsection (c) of this section will reasonably assure the appearance of such person as required and the safety of any other person and the community—
 
 &emsp;(1) upon motion of the attorney for the Government, in a case that involves—
 
@@ -108,7 +108,7 @@ Detention Hearing.—The judicial officer shall hold a hearing to determine whet
 
 &emsp;&emsp;(B) a serious risk that such person will obstruct or attempt to obstruct justice, or threaten, injure, or intimidate, or attempt to threaten, injure, or intimidate, a prospective witness or juror.
 
-> The hearing shall be held immediately upon the person's first appearance before the judicial officer unless that person, or the attorney for the Government, seeks a continuance. Except for good cause, a continuance on motion of such person may not exceed five days, and a continuance on motion of the attorney for the Government may not exceed three days. During a continuance, such person shall be detained, and the judicial officer, on motion of the attorney for the Government or sua sponte, may order that, while in custody, a person who appears to be a narcotics addict receive a medical examination to determine whether such person is an addict. At the hearing, such person has the right to be represented by counsel, and, if financially unable to obtain adequate representation, to have counsel appointed. The person shall be afforded an opportunity to testify, to present witnesses, to cross-examine witnesses who appear at the hearing, and to present information by proffer or otherwise. The rules concerning admissibility of evidence in criminal trials do not apply to the presentation and consideration of information at the hearing. The facts the judicial officer uses to support a finding pursuant to subsection (e) that no condition or combination of conditions will reasonably assure the safety of any other person and the community shall be supported by clear and convincing evidence. The person may be detained pending completion of the hearing. The hearing may be reopened, before or after a determination by the judicial officer, at any time before trial if the judicial officer finds that information exists that was not known to the movant at the time of the hearing and that has a material bearing on the issue whether there are conditions of release that will reasonably assure the appearance of such person as required and the safety of any other person and the community.
+> The hearing shall be held immediately upon the person's first appearance before the judicial officer unless that person, or the attorney for the Government, seeks a continuance. Except for good cause, a continuance on motion of such person may not exceed five days (not including any intermediate Saturday, Sunday, or legal holiday), and a continuance on motion of the attorney for the Government may not exceed three days (not including any intermediate Saturday, Sunday, or legal holiday). During a continuance, such person shall be detained, and the judicial officer, on motion of the attorney for the Government or sua sponte, may order that, while in custody, a person who appears to be a narcotics addict receive a medical examination to determine whether such person is an addict. At the hearing, such person has the right to be represented by counsel, and, if financially unable to obtain adequate representation, to have counsel appointed. The person shall be afforded an opportunity to testify, to present witnesses, to cross-examine witnesses who appear at the hearing, and to present information by proffer or otherwise. The rules concerning admissibility of evidence in criminal trials do not apply to the presentation and consideration of information at the hearing. The facts the judicial officer uses to support a finding pursuant to subsection (e) that no condition or combination of conditions will reasonably assure the safety of any other person and the community shall be supported by clear and convincing evidence. The person may be detained pending completion of the hearing. The hearing may be reopened, before or after a determination by the judicial officer, at any time before trial if the judicial officer finds that information exists that was not known to the movant at the time of the hearing and that has a material bearing on the issue whether there are conditions of release that will reasonably assure the appearance of such person as required and the safety of any other person and the community.
 
 (g)
 
@@ -158,7 +158,7 @@ Contents of Detention Order.—In a detention order issued under subsection (e) 
 
 Presumption of Innocence.—Nothing in this section shall be construed as modifying or limiting the presumption of innocence.
 
-(Added Pub. L. 98–473, title II, §203(a), Oct. 12, 1984, 98 Stat. 1976; amended Pub. L. 99–646, §§55(a), (c), 72, Nov. 10, 1986, 100 Stat. 3607, 3617; Pub. L. 100–690, title VII, §7073, Nov. 18, 1988, 102 Stat. 4405; Pub. L. 101–647, title X, §1001(b), title XXXVI, §§3622–3624, Nov. 29, 1990, 104 Stat. 4827, 4965.)
+(Added Pub. L. 98–473, title II, §203(a), Oct. 12, 1984, 98 Stat. 1976; amended Pub. L. 99–646, §§55(a), (c), 72, Nov. 10, 1986, 100 Stat. 3607, 3617; Pub. L. 100–690, title VII, §7073, Nov. 18, 1988, 102 Stat. 4405; Pub. L. 101–647, title X, §1001(b), title XXXVI, §§3622–3624, Nov. 29, 1990, 104 Stat. 4827, 4965; Pub. L. 104–132, title VII, §§702(d), 729, Apr. 24, 1996, 110 Stat. 1294, 1302.)
 
 #### References in Text
 
@@ -173,6 +173,10 @@ The Maritime Drug Law Enforcement Act, referred to in subsecs. (e) and (f)(1)(C)
 A prior section 3142, acts June 25, 1948, ch. 645, 62 Stat. 821; June 22, 1966, Pub. L. 89–465, §5(c), 80 Stat. 217, set forth provisions relating to surrender by bail, prior to repeal in the revision of this chapter by section 203(a) of Pub. L. 98–473.
 
 #### Amendments
+
+1996—Subsec. (e). Pub. L. 104–132, §702(d), inserted “, 956(a), or 2332b” after “section 924(c)” in concluding provisions.
+
+Subsec. (f). Pub. L. 104–132, §729, in concluding provisions, inserted “(not including any intermediate Saturday, Sunday, or legal holiday)” after “five days” and after “three days”.
 
 1990—Subsec. (c)(1)(B)(xi). Pub. L. 101–647, §3622, amended cl. (xi) generally. Prior to amendment, cl. (xi) read as follows: “execute an agreement to forfeit upon failing to appear as required, such designated property, including money, as is reasonably necessary to assure the appearance of the person as required, and post with the court such indicia of ownership of the property or such percentage of the money as the judicial officer may specify;”.
 
@@ -214,5 +218,5 @@ Amendment by Pub. L. 99–646 effective 30 days after Nov. 10, 1986, see section
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2263, 3041, 3042, 3062, 3143, 3144, 3146, 3148, 3156, 3582 of this title; title 28 section 636.
+This section is referred to in sections 2263, 3041, 3042, 3062, 3143, 3144, 3146, 3148, 3156, 3582 of this title; title 8 sections 1536, 1537; title 28 section 636.
 

@@ -1,0 +1,28 @@
+### §403t. General Counsel of Central Intelligence Agency
+
+#### (a) Appointment
+
+There is a General Counsel of the Central Intelligence Agency, appointed from civilian life by the President, by and with the advice and consent of the Senate.
+
+#### (b) Chief legal officer
+
+The General Counsel is the chief legal officer of the Central Intelligence Agency.
+
+#### (c) Functions
+
+The General Counsel of the Central Intelligence Agency shall perform such functions as the Director of Central Intelligence may prescribe.
+
+(June 20, 1949, ch. 227, §20, as added Oct. 11, 1996, Pub. L. 104–293, title VIII, §813(a), 110 Stat. 3483.)
+
+#### Codification
+
+Section was enacted as part of the Central Intelligence Agency Act of 1949, and not as part of the National Security Act of 1947 which comprises this chapter.
+
+#### Applicability of Appointment Requirements
+
+Section 813(b) of Pub. L. 104–293 provided that: “The requirement established by section 20 of the Central Intelligence Agency Act of 1949 \[50 U.S.C. 403t\], as added by subsection (a), for the appointment by the President, by and with the advice and consent of the Senate, of an individual to the position of General Counsel of the Central Intelligence Agency shall apply as follows:
+
+&emsp;“(1) To any vacancy in such position that occurs after the date of the enactment of this Act \[Oct. 11, 1996\].
+
+&emsp;“(2) To the incumbent serving in such position on the date of the enactment of this Act as of the date that is six months after such date of enactment, if such incumbent has served in such position continuously between such date of enactment and the date that is six months after such date of enactment.”
+

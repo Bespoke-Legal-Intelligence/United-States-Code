@@ -1,10 +1,8 @@
 ### §8962. Higher grade for service in special positions
 
-(a) Upon retirement, a commissioned officer of the Air Force who has served (1) as Chief of Staff to the President, (2) as Chief of Staff of the Air Force, (3) as a senior member of the Military Staff Committee of the United Nations, or (4) as Surgeon General of the Air Force in the grade of lieutenant general may, in the discretion of the President, be retired, by and with the advice and consent of the Senate, in the highest grade in which he served on active duty.
+Upon retirement, any permanent professor of the United States Air Force Academy whose grade is below brigadier general, and whose service as such a professor has been long and distinguished, may, in the discretion of the President, be retired in the grade of brigadier general.
 
-(b) Upon retirement, any permanent professor of the United States Air Force Academy whose grade is below brigadier general, and whose service as such a professor has been long and distinguished, may, in the discretion of the President, be retired in the grade of brigadier general.
-
-(Aug. 10, 1956, ch. 1041, 70A Stat. 554; Sept. 2, 1958, Pub. L. 85–861, §1(197), 72 Stat. 1541; Oct. 22, 1965, Pub. L. 89–288, §6, 79 Stat. 1050; Sept. 8, 1980, Pub. L. 96–343, §13(b)(1), (2), 94 Stat. 1131; Dec. 12, 1980, Pub. L. 96–513, title V, §504(20), 94 Stat. 2917.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 554; Sept. 2, 1958, Pub. L. 85–861, §1(197), 72 Stat. 1541; Oct. 22, 1965, Pub. L. 89–288, §6, 79 Stat. 1050; Sept. 8, 1980, Pub. L. 96–343, §13(b)(1), (2), 94 Stat. 1131; Dec. 12, 1980, Pub. L. 96–513, title V, §504(20), 94 Stat. 2917; Feb. 10, 1996, Pub. L. 104–106, div. A, title V, §502(c), (d)(1), 110 Stat. 293.)
 
 Historical and Revision Notes<br>1956
 
@@ -18,7 +16,11 @@ Act
 
 8962(a)
 
+&nbsp;
+
 8962(b)
+
+&nbsp;
 
 8962(c)
 
@@ -57,6 +59,8 @@ Act
 The amendment reflects section 1 of the Act of May 31, 1956, ch. 348 (70 Stat. 222), which in effect amended section 8963 of this title to cover regular and reserve officers covered by section 8962(b). As to temporary officers, section 8962(b) is obsolete. (See opinion of the Judge Advocate General of the Air Force, May 2, 1957.)
 
 #### Amendments
+
+1996—Pub. L. 104–106 designated subsec. (b) as entire section and struck out subsec. (a) which read as follows: “Upon retirement, a commissioned officer of the Air Force who has served (1) as Chief of Staff to the President, (2) as Chief of Staff of the Air Force, (3) as a senior member of the Military Staff Committee of the United Nations, or (4) as Surgeon General of the Air Force in the grade of lieutenant general may, in the discretion of the President, be retired, by and with the advice and consent of the Senate, in the highest grade in which he served on active duty.”
 
 1980—Pub. L. 96–343, §13(b)(2), substituted “positions” for “positions: regular commissioned officers” in section catchline.
 

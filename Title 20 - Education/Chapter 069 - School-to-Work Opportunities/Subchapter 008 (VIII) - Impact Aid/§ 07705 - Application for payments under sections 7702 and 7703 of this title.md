@@ -48,3 +48,7 @@ The Secretary shall establish deadlines for the submission of applications under
 
 Section 3 of the Act of September 30, 1950 (Public Law 874, 81st Congress) (as such section was in effect on the day preceding October 20, 1994), referred to in subsec. (d)(4), means section 3 of act Sept. 30, 1950, ch. 1124, which was classified to section 238 of this title prior to repeal by Pub. L. 103–382, title III, §331(b), Oct. 20, 1994, 108 Stat. 3965.
 
+#### Section Referred to in Other Sections
+
+This section is referred to in section 7702 of this title.
+

@@ -24,7 +24,7 @@ In order to assure (1) that the limitation on interest payments or other conditi
 
 &emsp;(C)(i) In the case of loans made before October 1, 1992, pursuant to section 1078–1 <sup>1</sup> or 1078–2 of this title for which the interest rate is determined under section 1077a(c)(4) of this title, a special allowance shall not be paid unless the rate determined for any 12-month period under subparagraph (B) of such section exceeds 12 percent.
 
-&emsp;(ii) In the case of loans disbursed on or after October 1, 1992, pursuant to section 1078–1 <sup>1</sup> or1078–2 of this title for which the interest rate is determined under section 1077a(c)(4) of this title, a special allowance shall not be paid unless the rate determined for any 12-month period under section 1077a(c)(4)(B) of this title exceeds—
+&emsp;(ii) In the case of loans disbursed on or after October 1, 1992, pursuant to section 1078–1 <sup>1</sup> or 1078–2 of this title for which the interest rate is determined under section 1077a(c)(4) of this title, a special allowance shall not be paid unless the rate determined for any 12-month period under section 1077a(c)(4)(B) of this title exceeds—
 
 &emsp;&emsp;(I) 11 percent in the case of a loan under section 1078–1 <sup>1</sup> of this title; or
 
@@ -38,7 +38,7 @@ In order to assure (1) that the limitation on interest payments or other conditi
 
 &emsp;&emsp;(II) an obligation of the South Carolina Student Loan Corporation to the South Carolina National Bank pursuant to an agreement entered into on July 30, 1986.
 
-&emsp;(E) In the case of any loan for which the applicable rate of interest is described in section 1077a(g)(2) of this title, subparagraph (A)(iii) shall be applied by substituting “2.5 percent” for “3.10 percent”.
+&emsp;(E) In the case of any loan for which the applicable rate of interest is described in section1077a(g)(2) of this title, subparagraph (A)(iii) shall be applied by substituting “2.5 percent” for “3.10 percent”.
 
 &emsp;(F) Subject to paragraph (4), the special allowance paid pursuant to this subsection on loans for which the applicable rate of interest is determined under section 1077a(h) of this title shall be computed (i) by determining the applicable bond equivalent rate of the security with a comparable maturity, as established by the Secretary, (ii) by subtracting the applicable interest rates on such loans from such applicable bond equivalent rate, (iii) by adding 1.0 percent to the resultant percent, and (iv) by dividing the resultant percent by 4. If such computation produces a number less than zero, such loans shall be subject to section 1077a(f) of this title.
 
@@ -80,7 +80,7 @@ In order to assure (1) that the limitation on interest payments or other conditi
 
 #### (1) Deduction from interest and special allowance subsidies
 
-&emsp;Notwithstanding subsection (b) of this section, the total amount of interest and special allowance payable under section 1078(a)(3)(A) of this title and subsection (b) of this section, respectively, to any holder shall be reduced bythe Secretary by the amount which the lender is authorized to charge as an origination fee in accordance with paragraph (2) of this subsection. If the total amount of interest and special allowance payable under section 1078(a)(3)(A) of this title and subsection (b) of this section, respectively, is less than the amount the lender was authorized to charge borrowers for origination fees in that quarter, the Secretary shall deduct the excess amount from the subsequent quarters’ payments until the total amount has been deducted.
+&emsp;Notwithstanding subsection (b) of this section, the total amount of interest and special allowance payable under section 1078(a)(3)(A) of this title and subsection (b) of this section, respectively, to any holder shall be reduced by the Secretary by the amount which the lender is authorized to charge as an origination fee in accordance with paragraph (2) of this subsection. If the total amount of interest and special allowance payable under section 1078(a)(3)(A) of this title and subsection (b) of this section, respectively, is less than the amount the lender was authorized to charge borrowers for origination fees in that quarter, the Secretary shall deduct the excess amount from the subsequent quarters’ payments until the total amount has been deducted.
 
 #### (2) Amount of origination fees
 
@@ -134,7 +134,7 @@ In order to assure (1) that the limitation on interest payments or other conditi
 
 &emsp;&emsp;(B) no director or staff member of the Authority who receives compensation from the Authority may own stock in, or receive compensation from, any agency that would contract to service and collect the loans of the Authority;
 
-&emsp;&emsp;(C) student loans will not be purchased from participating lenders at a premiumamounting to more than 1 percent of the unpaid principal amount borrowed plus accrued interest to the date of acquisition, but a reasonable loan transfer fee may be paid by the purchaser;
+&emsp;&emsp;(C) student loans will not be purchased from participating lenders at a premium amounting to more than 1 percent of the unpaid principal amount borrowed plus accrued interest to the date of acquisition, but a reasonable loan transfer fee may be paid by the purchaser;
 
 &emsp;&emsp;(D) the Authority will, within the limit of funds available and subject to the applicable State and Federal law, make loans to, or purchase loans incurred by, all eligible students who are residents of, or who attend an eligible institution within, the area served by the Authority;
 
@@ -144,7 +144,7 @@ In order to assure (1) that the limitation on interest payments or other conditi
 
 #### (3) Nondiscrimination
 
-&emsp;In order for the holders of loans which were made or purchased with funds obtained by the holder from an Authority issuing obligations, the income from which is exempt from taxation under title 26, to be eligible to receive a special allowance under subsection (b)(2) of this section on any such loans, the Authority shall not engage in any pattern or practice which results in a denial of a borrower's access to loans under this part because of the borrower's race, sex, color, religion, national origin, age, handicapped status, income, attendance at a particular eligible institution within the area served by the Authority, length of the borrower's educational program, or the borrower's academic year in school.
+&emsp;In order for the holders of loans which were made or purchased with funds obtained by theholder from an Authority issuing obligations, the income from which is exempt from taxation under title 26, to be eligible to receive a special allowance under subsection (b)(2) of this section on any such loans, the Authority shall not engage in any pattern or practice which results in a denial of a borrower's access to loans under this part because of the borrower's race, sex, color, religion, national origin, age, handicapped status, income, attendance at a particular eligible institution within the area served by the Authority, length of the borrower's educational program, or the borrower's academic year in school.
 
 #### (4) Report by the Secretary
 
@@ -222,7 +222,7 @@ Subsec. (d)(4)(C). Pub. L. 100–50, §10(cc), struck out “, as evidenced by 
 
 #### Change of Name
 
-Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Economic and Educational Opportunities of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Fifth Congress, Jan. 7, 1997.
 
 #### Effective Date of 1993 Amendment
 

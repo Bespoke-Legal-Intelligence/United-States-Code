@@ -16,7 +16,9 @@ Act
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 (a)
 
@@ -44,11 +46,11 @@ This section deletes subsection (a) of 5 U.S.C. 7154 to reflect the repeal of th
 
 #### Amendments
 
-<b>1978</b>—Pub. L. 95–454, §703(a)(1), renumbered section 7154 of this title as this section.
+1978—Pub. L. 95–454, §703(a)(1), renumbered section 7154 of this title as this section.
 
 Subsec. (c). Pub. L. 95–454, §906(a)(2), substituted “Office of Personnel Management” for “Civil Service Commission”.
 
-<b>1972</b>—Subsec. (b). Pub. L. 92–392 inserted reference to subchapter IV of chapter 53 of this title.
+1972—Subsec. (b). Pub. L. 92–392 inserted reference to subchapter IV of chapter 53 of this title.
 
 #### Effective Date of 1978 Amendment
 

@@ -17,3 +17,4 @@
 - [&sect; 02779 - Fees of military sales agents](%C2%A7%2002779%20-%20Fees%20of%20military%20sales%20agents.md)
 - [&sect; 02779a - Prohibition on incentive payments](%C2%A7%2002779a%20-%20Prohibition%20on%20incentive%20payments.md)
 - [&sect; 02780 - Transactions with countries supporting acts of international terrorism](%C2%A7%2002780%20-%20Transactions%20with%20countries%20supporting%20acts%20of%20international%20terrorism.md)
+- [&sect; 02781 - Transactions with countries not fully cooperating with United States antiterrorism efforts](%C2%A7%2002781%20-%20Transactions%20with%20countries%20not%20fully%20cooperating%20with%20United%20States%20antiterrorism%20efforts.md)

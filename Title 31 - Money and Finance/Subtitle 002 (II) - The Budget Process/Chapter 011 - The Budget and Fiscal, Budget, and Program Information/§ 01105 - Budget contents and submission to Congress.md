@@ -76,17 +76,15 @@
 
 &emsp;(25) a separate appropriation account for appropriations for each Office of Inspector General of an establishment defined under section 11(2) of the Inspector General Act of 1978.
 
-&emsp;\[(26) Terminated.\]
+&emsp;(26) a separate statement of the amount of appropriations requested for the Office of National Drug Control Policy and each program of the National Drug Control Program.
 
-&emsp;(27) a separate statement of the amount of appropriations requested for the Office of National Drug Control Policy and each program of the National Drug Control Program.
+&emsp;(27) a separate statement of the amount of appropriations requested for the Office of Federal Financial Management.
 
-&emsp;(28) a separate statement of the amount of appropriations requested for the Office of Federal Financial Management.
+&emsp;(28) beginning with fiscal year 1999, a Federal Government performance plan for the overall budget as provided for under section 1115.
 
-&emsp;(29) beginning with fiscal year 1999, a Federal Government performance plan for the overall budget as provided for under section 1115.
+&emsp;(29) information about the Violent Crime Reduction Trust Fund, including a separate statement of amounts in that Trust Fund.
 
-&emsp;(30) information about the Violent Crime Reduction Trust Fund, including a separate statement of amounts in that Trust Fund.
-
-&emsp;(31) an analysis displaying, by agency, proposed reductions in full-time equivalent positions compared to the current year's level in order to comply with section 5 of the Federal Workforce Restructuring Act of 1994.
+&emsp;(30) an analysis displaying, by agency, proposed reductions in full-time equivalent positions compared to the current year's level in order to comply with section 5 of the Federal Workforce Restructuring Act of 1994.
 
 (b) Estimated expenditures and proposed appropriations for the legislative branch and the judicial branch to be included in each budget under subsection (a)(5) of this section shall be submitted to the President before October 16 of each year and included in the budget by the President without change.
 
@@ -94,7 +92,7 @@
 
 (d) When the President submits a budget or supporting information about a budget, the President shall include a statement on all changes about the current fiscal year that were made before the budget or information was submitted.
 
-(e)(1) The President shall submit with materials related to each budget transmitted under subsection (a) on or after January 1, 1985, an analysis for the ensuing fiscal year that shall identify requested appropriations or new obligational authority and outlays for each major program that may be classified as a public civilian capital investment program and for each majorprogram that may be classified as a military capital investment program, and shall contain summaries of the total amount of such appropriations or new obligational authority and outlays for public civilian capital investment programs and summaries of the total amount of such appropriations or new obligational authority and outlays for military capital investment programs. In addition, the analysis under this paragraph shall contain—
+(e)(1) The President shall submit with materials related to each budget transmitted under subsection (a) on or after January 1, 1985, an analysis for the ensuing fiscal year that shall identify requested appropriations or new obligational authority and outlays for each major program that may be classified as a public civilian capital investment program and for each major program that may be classified as a military capital investment program, and shall contain summaries of the total amount of such appropriations or new obligational authority and outlays for public civilian capital investment programs and summaries of the total amount of such appropriations or new obligational authority and outlays for military capital investment programs. In addition, the analysis under this paragraph shall contain—
 
 &emsp;(A) an estimate of the current service levels of public civilian capital investment and of military capital investment and alternative high and low levels of such investments over a period of ten years in current dollars and over a period of five years in constant dollars;
 
@@ -172,7 +170,7 @@
 
 &emsp;(iii) Research on basic mathematics or medical, biological, physical, social, psychological, or other phenomena.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 908; Pub. L. 97–452, §1(2), Jan. 12, 1983, 96 Stat. 2467; Pub. L. 98–501, title II, §203, Oct. 19, 1984, 98 Stat. 2324; Pub. L. 99–177, title II, §241, Dec. 12, 1985, 99 Stat. 1063; Pub. L. 100–119, title I, §106(f), Sept. 29, 1987, 101 Stat. 781; Pub. L. 100–418, title V, §5301, Aug. 23, 1988, 102 Stat. 1462; Pub. L. 100–504, title I, §108, Oct. 18, 1988, 102 Stat. 2529; Pub. L. 100–690, title I, §1006, Nov. 18, 1988, 102 Stat. 4187; Pub. L. 101–508, title XIII, §13112(c), Nov. 5, 1990, 104 Stat. 1388–608; Pub. L. 101–576, title II, §203(b), Nov. 15, 1990, 104 Stat. 2841; Pub. L. 103–62, §4(a), Aug. 3, 1993, 107 Stat. 286; Pub. L. 103–272, §4(f)(1)(E), July 5, 1994, 108 Stat. 1362; Pub. L. 103–322, title XXXI, §310001(e), Sept. 13, 1994, 108 Stat. 2103; Pub. L. 103–355, title II, §2454(a), Oct. 13, 1994, 108 Stat. 3326.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 908; Pub. L. 97–452, §1(2), Jan. 12, 1983, 96 Stat. 2467; Pub. L. 98–501, title II, §203, Oct. 19, 1984, 98 Stat. 2324; Pub. L. 99–177, title II, §241, Dec. 12, 1985, 99 Stat. 1063; Pub. L. 100–119, title I, §106(f), Sept. 29, 1987, 101 Stat. 781; Pub. L. 100–418, title V, §5301, Aug. 23, 1988, 102 Stat. 1462; Pub. L. 100–504, title I, §108, Oct. 18, 1988, 102 Stat. 2529; Pub. L. 100–690, title I, §1006, Nov. 18, 1988, 102 Stat. 4187; Pub. L. 101–508, title XIII, §13112(c), Nov. 5, 1990, 104 Stat. 1388–608; Pub. L. 101–576, title II, §203(b), Nov. 15, 1990, 104 Stat. 2841; Pub. L. 103–62, §4(a), Aug. 3, 1993, 107 Stat. 286; Pub. L. 103–272, §4(f)(1)(E), July 5, 1994, 108 Stat. 1362; Pub. L. 103–322, title XXXI, §310001(e), Sept. 13, 1994, 108 Stat. 2103; Pub. L. 103–355, title II, §2454(a), Oct. 13, 1994, 108 Stat. 3326; Pub. L. 104–287, §4(1), Oct. 11, 1996, 110 Stat. 3388.)
 
 #### Amendment of Section
 
@@ -200,17 +198,17 @@ June 10, 1921, ch. 18, §201(a), 42 Stat. 20; restated Sept. 12, 1950, ch. 946, 
 
 June 10, 1921, ch. 18, §211, 42 Stat. 22; Reorg. Plan No. 1 of 1939, eff. July 1, 1939, §1, 53 Stat. 1423; Reorg. Plan No. 2 of 1970, eff. July 1, 1970, §102(a), 84 Stat. 2085.
 
-1105(a) (15)
+1105(a)(15)
 
 31:11(d).
 
 June 10, 1921, ch. 18, 42 Stat. 20, §201(d)–(f), (g)(last sentence)–(i)(1st sentence); added July 12, 1974, Pub. L. 93–344, §601, 88 Stat. 323.
 
-1105(a) (16)
+1105(a)(16)
 
 31:11(e).
 
-1105(a) (17)
+1105(a)(17)
 
 31:11(h).
 
@@ -218,23 +216,23 @@ June 10, 1921, ch. 18, 42 Stat. 20, §201(d)–(f), (g)(last sentence)–(i)(1st
 
 31:11(f).
 
-1105(a) (21)
+1105(a)(21)
 
 31:25
 
 Oct. 18, 1962, Pub. L. 87–843, §304(1st par.), 76 Stat. 1097; Reorg. Plan No. 2 of 1970, eff. July 1, 1970, §102(a), 84 Stat. 2085; Sept. 17, 1978, Pub. L. 95–367, §5(g)(2), 92 Stat. 603.
 
-1105(a) (22)
+1105(a)(22)
 
 31:11(i)(1st sentence).
 
-1105(a) (23)
+1105(a)(23)
 
 31:11(note).
 
 Nov. 9, 1977, Pub. L. 95–164, §305, 91 Stat. 1322.
 
-1105(a) (24)
+1105(a)(24)
 
 31:859.
 
@@ -298,7 +296,7 @@ In subsection (a)(21), the words “the totality of” are omitted as surplus.
 
 In subsection (a)(22), the words “budget outlays” are substituted for “outlays” for consistency. The words “beginning with the fiscal year ending September 30, 1979” are omitted as executed.
 
-In subsection (a)(23), the words “for appropriations” are substituted for “amounts required for appropriations” to eliminate unnecessary words. The words “formine health and safety” and “for occupational safety and health” are omitted as unnecessary because of the restatement.
+In subsection (a)(23), the words “for appropriations” are substituted for “amounts required for appropriations” to eliminate unnecessary words. The words “for mine health and safety” and “for occupational safety and health” are omitted as unnecessary because of the restatement.
 
 In subsection (a)(24), the words “(as defined in section 9101(2) of this title)” are added because the subsection is based on a law to which the defined term applies. The words “decides are desirable” are substituted for “may wish to make” for consistency.
 
@@ -306,7 +304,7 @@ In subsection (b), the words “for such years” in 31:11(a)(5)(words after 2d 
 
 In subsection (c), the words “new taxes, loans, or other” are omitted as being included in “appropriate action”. The words “in effect” are substituted for “existing” for consistency. The word “aggregate” is omitted as surplus.
 
-In subsection (d), the words “When the President submits a budget or supporting information about a budget, the President” are substituted for “The Budget transmitted pursuant to subsection (a) of this section for any fiscal year, or the supporting detail transmitted in connection therewith” because of the restatement. The word “changes” is substituted for “amendments and revisions” to eliminate unnecessary words.
+In subsection (d), the words “When the President submits a budget or supporting information about a budget, the President” are substituted for “The Budget transmitted pursuant to subsection (a) of this sectionfor any fiscal year, or the supporting detail transmitted in connection therewith” because of the restatement. The word “changes” is substituted for “amendments and revisions” to eliminate unnecessary words.
 
 1983
 
@@ -318,7 +316,7 @@ Act
 
 <i>Source (Statutes at Large)</i>
 
-1105(a) (25)
+1105(a)(25)
 
 31 App.:11(k)(1).
 
@@ -334,9 +332,11 @@ The Federal Mine Safety and Health Act of 1977, referred to in subsec. (a)(23), 
 
 Section 11(2) of the Inspector General Act of 1978, referred to in subsec. (a)(25), is section 11(2) of Pub. L. 95–452, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
-Section 5 of the Federal Workforce Restructuring Act of 1994, referred to in subsec. (a)(31), is section 5 of Pub. L. 103–226, which is set out as a note under section 3101 of Title 5.
+Section 5 of the Federal Workforce Restructuring Act of 1994, referred to in subsec. (a)(30), is section 5 of Pub. L. 103–226, which is set out as a note under section 3101 of Title 5.
 
 #### Amendments
+
+1996—Subsecs. (a)(26) to (31). Pub. L. 104–287 redesignated pars. (27) to (31) as (26) to (30), respectively. Former par. (26) previously terminated.
 
 1994—Subsec. (a)(26), (27). Pub. L. 103–272 renumbered par. (26) as (27).
 
@@ -394,7 +394,7 @@ Subsec. (f). Pub. L. 99–177, §§241(b), 275(b), temporarily added subsec. (f)
 
 #### Effective Date of 1994 Amendment
 
-For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under section 251 of Title 41, Public Contracts.
+For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, setout as a note under section 251 of Title 41, Public Contracts.
 
 #### Effective and Termination Dates of 1988 Amendments
 
@@ -414,7 +414,7 @@ Amendment made by Pub. L. 103–62 not to be construed as creating any right, pr
 
 #### Administrative Expenses of Legislative Branch Entities; Separate Categories; Compliance Reporting
 
-Pub. L. 103–69, title III, §308, Aug. 11, 1993, 107 Stat. 710, provided that:
+Pub. L. 103–69, title III, §308, Aug. 11, 1993, 107 Stat. 710, as amended by Pub. L. 104–316, title I, §115(c), Oct. 19, 1996, 110 Stat. 3834, provided that:
 
 “(a) For fiscal years 1995, 1996, and 1997, the submissions in support of the amounts included in the Budget for each entity of the legislative branch shall set forth a separate category for administrative expenses. For fiscal years 1993 and 1994, the administrative expenses for each entity of the legislative branch shall be calculated and submitted in a separate category in the same format as if submitted in support of amounts included in the Budget.
 
@@ -428,7 +428,7 @@ Pub. L. 103–69, title III, §308, Aug. 11, 1993, 107 Stat. 710, provided that:
 
 &emsp;“(4) Fiscal year 1997, reduction of not less than 14 percent.
 
-“(c) The Comptroller General shall carry out compliance reporting under this section.
+“(c) The Comptroller General may carry out compliance reporting under this section.
 
 “(d) As used in this section—
 
@@ -460,7 +460,7 @@ Opinion of Congress.—It is the opinion of the Congress that the programs and a
 
 Submission of 2
 
-\-Year Budget by President.—The President shall include in the budget for fiscal year 1990 submitted to the Congress pursuant to section 1105 of title 31, United States Code, a single proposed budget for the Coast Guard for fiscal years 1990 and 1991.Thereafter, the President shall submit a proposed 2-year budget for the Coast Guard every other year.
+\-Year Budget by President.—The President shall include in the budget for fiscal year 1990 submitted to the Congress pursuant to section 1105 of title 31, United States Code, a single proposed budget for the Coast Guard for fiscal years 1990 and 1991. Thereafter, the President shall submit a proposed 2-year budget for the Coast Guard every other year.
 
 “(c)
 
@@ -532,5 +532,5 @@ Ex. Ord. No. 6715, May 23, 1934, provided:
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1104, 1106, 1107, 1115, 1118, 1119, 1554, 5134, 6503, 9103, 9109, 9703 of this title; title 2 sections 632, 655, 665b, 900, 901, 904; title 5 sections 1204, 8472; title 10 sections 113, 114, 119, 139, 168, 179, 221, 222, 226, 227, 1465, 1741, 2006, 2217, 2304a, 2304b, 2350a, 2367, 2431, 2433, 2506, 2515, 2521, 2703, 2721, 2809, 2835, 2836, 2859, 2891, 2902; title 14 sections 663, 692; title 15 sections 1022, 2935, 4626; title 20 section 76j; title 21 sections 1502, 1505, 1509; title 25 sections 450j–1, 458dd, 1621, 1671, 2012, 2505, 3803, 4043; title 29 section 762a; title 38 sections 312, 712, 3734, 7101, 7439, 7440, 8110, 8111, 8122; title 39 section 2009; title 40 sections 904, 908; title 41 sections 253h, 253i; title 42 sections 1395w–1, 2122a, 2286e, 7271b, 7274c, 7274g, 8255, 11710, 13474; title 50 sections 404a, 404b, 404d, 1906.
+This section is referred to in sections 1104, 1106, 1107, 1115, 1118, 1119, 1554, 5134, 6503, 9103, 9109, 9703 of this title; title 2 sections 632, 655, 665b, 900, 901, 904; title 5 sections 1204, 8472; title 7 section 5603; title 10 sections 113, 114, 119, 139, 168, 179, 221, 222, 226, 1465, 1741, 2006, 2216, 2216a, 2217, 2304a, 2304b, 2350a, 2367, 2431, 2433, 2515, 2703, 2721, 2809, 2835, 2836, 2859, 2884, 7902; title 14 sections 663, 688, 692; title 15 sections 1022, 2935, 4626; title 20 section 76j; title 21 sections 1502, 1505, 1509; title 25 sections 450j–1, 458dd, 1621, 1671, 2012, 2505, 3803, 4043; title 29 section 762a; title 38 sections 312, 712, 3734, 7101, 7439, 7440, 8107, 8110, 8111, 8122; title 39 section 2009; title 40 sections 904, 908, 1412, 1413, 1425, 1428; title 41 sections 253h, 253i, 433; title 42 sections 1395w–1, 2122a, 2286e, 7271b, 7271c, 7274c, 7274g, 7274n, 8255, 11710, 13474; title 50 sections 404a, 404b, 404d, 1906, 2353.
 

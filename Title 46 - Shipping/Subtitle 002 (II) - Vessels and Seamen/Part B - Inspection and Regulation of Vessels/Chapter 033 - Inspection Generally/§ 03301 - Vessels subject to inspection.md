@@ -28,7 +28,9 @@ The following categories of vessels are subject to inspection under this part:
 
 &emsp;(13) Great Lakes barges.
 
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 510; Pub. L. 98–364, title IV, §402(2), July 17, 1984, 98 Stat. 445; Pub. L. 102–587, title V, §5208(b), Nov. 4, 1992, 106 Stat. 5076.)
+&emsp;(14) oil spill response vessels.
+
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 510; Pub. L. 98–364, title IV, §402(2), July 17, 1984, 98 Stat. 445; Pub. L. 102–587, title V, §5208(b), Nov. 4, 1992, 106 Stat. 5076; Pub. L. 104–324, title XI, §1104(g), Oct. 19, 1996, 110 Stat. 3967.)
 
 Historical and Revision Notes
 
@@ -86,11 +88,13 @@ Historical and Revision Notes
 
 Section 3301 lists all classes of vessels that are subject to inspection and certification by the Coast Guard. This section represents one of the sought-after advantages of the bill to simplify access to the provisions of law governing the regulation of vessels. Under the present law, a vessel's inspection status must be determined by examining a table appearing at section 2.01–7A of title 46, Code of Federal Regulations that divides all vessels into more than 70 separate classes.
 
-It is important to note that while the classes of vessels are now limited to ten, there is no prohibitionagainst developing regulations to meet the special needs of various size vessels within any one category. For example, it is expected that the Coast Guard will continue the practice of establishing standards for freight vessels of not more than 100 gross tons and other standards for larger freight vessels.
+It is important to note that while the classes of vessels are now limited to ten, there is no prohibition against developing regulations to meet the special needs of various size vessels within any one category. For example, it is expected that the Coast Guard will continue the practice of establishing standards for freight vessels of not more than 100 gross tons and other standards for larger freight vessels.
 
 It should also be noted that a particular vessel can, when engaged in various types of operations, be subject to varying inspection laws. For example, an offshore supply vessel could be classed as a small passenger vessel or a passenger vessel when it operates as a crew boat carrying individuals other than those defined in section 2101(21). If the offshore supply vessel is 500 gross tons and over it would then be subject to inspection as a seagoing motor vessel, a freight vessel, or a passenger vessel.
 
 #### Amendments
+
+1996—Par. (14). Pub. L. 104–324 added par. (14).
 
 1992—Par. (13). Pub. L. 102–587 added par. (13).
 
@@ -107,6 +111,42 @@ Chapter effective Apr. 15, 1984, see section 2(g)(1) of Pub. L. 98–89, set out
 #### Short Title of 1984 Amendment
 
 Pub. L. 98–498, title II, §210, Oct. 19, 1984, 98 Stat. 2303, provided that: “This subtitle \[subtitle A (§§210–214) of title II of Pub. L. 98–498, enacting section 2306 of this title, amending sections 2301, 3309, 3311, 3318, 6101, and 6103 of this title and section 183 of the Appendix to this title, and enacting provisions set out as notes under section 2306 of this title and section 183 of the Appendix to this title\] may be cited as the ‘Maritime Safety Act of 1984’.”
+
+#### Small Passenger Vessel Pilot Inspection Program With State of Minnesota
+
+Section 1122 of Pub. L. 104–324 provided that:
+
+“(a)
+
+In General.—The Secretary may enter into an agreement with the State under which the State may inspect small passenger vessels operating in waters of that State designated by the Secretary, if—
+
+&emsp;“(1) the State plan for the inspection of small passenger vessels meets such requirements as the Secretary may require to ensure the safety and operation of such vessels in accordance with the standards that would apply if the Coast Guard were inspecting such vessels; and
+
+&emsp;“(2) the State will provide such information obtained through the inspection program to the Secretary annually in such form and in such detail as the Secretary may require.
+
+“(b)
+
+Fees.—The Secretary may adjust or waive the user fee imposed under section 3317 of title 46, United States Code, for the inspection of small passenger vessels inspected under the State program.
+
+“(c)
+
+Termination.—The authority provided by subsection (a) terminates on December 31, 1999.
+
+“(d)
+
+Definitions.—For purposes of this section—
+
+&emsp;“(1)
+
+Secretary.—The term ‘Secretary’ means the Secretary of the department in which the Coast Guard is operating.
+
+&emsp;“(2)
+
+State.—The term ‘State’ means the State of Minnesota.
+
+&emsp;“(3)
+
+Small passenger vessel.—The term ‘small passenger vessel’ means a small passenger vessel (as defined in section 2101(35) of title 46, United States Code) of not more than 40 feet overall in length.”
 
 #### Section Referred to in Other Sections
 

@@ -46,5 +46,5 @@ Section 905 of Pub. L. 101–510, required Secretary of Defense to reduce number
 
 #### Deadline for Designation of Acquisition Positions
 
-Section 1209(b) of Pub. L. 101–510, as amended by Pub. L. 102–25, title VII, §704(b)(3)(B), Apr. 6, 1991, 105 Stat. 119; Pub. L. 103–160, div. A, title IX, §904(f), Nov. 30, 1993, 107 Stat. 1729, provided that: “The designation of acquisition positions required by section 1721 of title 10,United States Code (as added by section 1202), shall be made by the Secretary of Defense, acting through the Under Secretary of Defense for Acquisition and Technology, not later than October 1, 1991.”
+Section 1209(b) of Pub. L. 101–510, as amended by Pub. L. 102–25, title VII, §704(b)(3)(B), Apr. 6, 1991, 105 Stat. 119; Pub. L. 103–160, div. A, title IX, §904(f), Nov. 30, 1993, 107 Stat. 1729, provided that: “The designation of acquisition positions required by section 1721 of title 10, United States Code (as added by section 1202), shall be made by the Secretary of Defense, acting through the Under Secretary of Defense for Acquisition and Technology, not later than October 1, 1991.”
 

@@ -6,7 +6,7 @@ Title IX of the Higher Education Act of 1965, comprising this subchapter, was or
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in title 42 section 4746.
+This subchapter is referred to in title 8 section 1613; title 42 section 4746.
 
 
 ---

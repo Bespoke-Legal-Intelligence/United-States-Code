@@ -44,7 +44,7 @@ In determining which application to approve under this subpart the Secretary sha
 
 #### References in Text
 
-The Job Training Partnership Act, referred to in subsec. (a)(4)(C), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat.1322, as amended, which is classified generally to chapter 19 (§1501 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of Title 29 and Tables.
+The Job Training Partnership Act, referred to in subsec. (a)(4)(C), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, as amended, which is classified generally to chapter 19 (§1501 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of Title 29 and Tables.
 
 The Family Support Act of 1988, referred to in subsec. (a)(4)(C), is Pub. L. 100–485, Oct. 13, 1988, 102 Stat. 2343, as amended. For complete classification of this Act to the Code, see Short Title of 1988 Amendments note set out under section 1305 of this title and Tables.
 

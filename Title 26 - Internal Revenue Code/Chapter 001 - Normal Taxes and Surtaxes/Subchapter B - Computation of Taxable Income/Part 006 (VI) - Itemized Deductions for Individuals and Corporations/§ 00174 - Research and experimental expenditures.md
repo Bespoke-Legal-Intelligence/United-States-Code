@@ -52,7 +52,7 @@ This section shall not apply to any expenditure paid or incurred for the purpose
 
 #### (e) Only reasonable research expenditures eligible
 
-This section shall apply to a research or experimental expenditure only to the extentthat the amount thereof is reasonable under the circumstances.
+This section shall apply to a research or experimental expenditure only to the extent that the amount thereof is reasonable under the circumstances.
 
 #### (f) Cross references
 

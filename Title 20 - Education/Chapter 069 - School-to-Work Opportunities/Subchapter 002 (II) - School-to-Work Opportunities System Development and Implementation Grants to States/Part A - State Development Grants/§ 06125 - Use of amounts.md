@@ -34,7 +34,7 @@ The Secretaries may not provide a development grant under section 6122 of this t
 
 &emsp;(16) working with localities to develop strategies to recruit and retain all students in programs under this chapter through collaborations with community-based organizations, where appropriate, and other entities with expertise in working with such students;
 
-&emsp;(17) coordinating recruitment of out-of-school, at-risk, and disadvantaged youths with those organizations and institutions that have a successful history of working with such youths; and
+&emsp;(17) coordinating recruitment of out-of-school, at-risk, and disadvantaged youths with those organizations and institutions that havea successful history of working with such youths; and
 
 &emsp;(18) providing technical assistance to rural areas in planning, developing, and implementing local School-to-Work Opportunities programs that meet the needs of rural communities with low population densities.
 

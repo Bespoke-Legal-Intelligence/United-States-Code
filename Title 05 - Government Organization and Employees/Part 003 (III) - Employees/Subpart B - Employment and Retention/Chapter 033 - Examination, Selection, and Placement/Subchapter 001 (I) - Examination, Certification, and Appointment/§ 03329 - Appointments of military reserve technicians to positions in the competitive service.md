@@ -2,17 +2,17 @@
 
 (a) For the purpose of this section, the term “military reserve technician” has the meaning given such term by section 8401(30).
 
-(b) The Secretary of Defense shall take such steps as may be necessary to ensure that, except as provided in subsection (d), any military reserve technician who is involuntarily separated from technician service, after completing at least 15 years of such service and 20 years of service creditable under section 1332 <sup>1</sup> of title 10, by reason of ceasing to satisfy the condition described in section 8401(30)(B) shall, if appropriate written application is submitted within 1 year after the date of separation, be offered a position described in subsection (c) not later than 6 months after the date of the application.
+(b) The Secretary of Defense shall take such steps as may be necessary to ensure that, except as provided in subsection (d), any military reserve technician who is involuntarily separated from technician service, after completing at least 15 years of such service and 20 years of service creditable under section 1332 <sup>1</sup> of title 10,by reason of ceasing to satisfy the condition described in section 8401(30)(B) shall, if appropriate written application is submitted within 1 year after the date of separation, be provided placement consideration in a position described in subsection (c) through a priority placement program of the Department of Defense a position described in subsection (c) not later than 6 months after the date of the application.
 
-(c) The position to be offered shall be a position—
+(c)(1) The position for which placement consideration shall be provided to a former military technician under subsection (b) shall be a position—
 
-&emsp;(1) in the competitive service;
+&emsp;(A) in either the competitive service or the excepted service;
 
-&emsp;(2) within the Department of Defense;
+&emsp;(B) within the Department of Defense; and
 
-&emsp;(3) for which the individual is qualified; and
+&emsp;(C) in which the person is qualified to serve, taking into consideration whether the employee in that position is required to be a member of a reserve component of the armed forces as a condition of employment.
 
-&emsp;(4) the rate of basic pay for which is not less than the rate last received for technician service before separation.
+(2) To the maximum extent practicable, the position shall also be in a pay grade or other pay classification sufficient to ensure that the rate of basic pay of the former military technician, upon appointment to the position, is not less than the rate of basic pay last received by the former military technician for technician service before separation.
 
 (d) This section shall not apply in the case of—
 
@@ -22,7 +22,7 @@
 
 (e) The Secretary of Defense shall, in consultation with the Director of the Office of Personnel Management, prescribe such regulations as may be necessary to carry out this section.
 
-(Added Pub. L. 102–484, div. A, title V, §544(a), Oct. 23, 1992, 106 Stat. 2415.)
+(Added Pub. L. 102–484, div. A, title V, §544(a), Oct. 23, 1992, 106 Stat. 2415; amended Pub. L. 104–106, div. A, title X, §1037(a), Feb. 10, 1996, 110 Stat. 431.)
 
 #### References in Text
 
@@ -31,6 +31,20 @@ Section 1332 of title 10, referred to in subsec. (b), was renumbered section 127
 #### Codification
 
 Another section 3329 was renumbered section 3330 of this title.
+
+#### Amendments
+
+1996—Subsec. (b). Pub. L. 104–106, §1037(a)(1), substituted “be provided placement consideration in a position described in subsection (c) through a priority placement program of the Department of Defense” for “be offered”.
+
+Subsec. (c). Pub. L. 104–106, §1037(a)(2), added subsec. (c) and struck out former subsec. (c) which read as follows: “The position to be offered shall be a position—
+
+&emsp;“(1) in the competitive service;
+
+&emsp;“(2) within the Department of Defense;
+
+&emsp;“(3) for which the individual is qualified; and
+
+&emsp;“(4) the rate of basic pay for which is not less than the rate last received for technician service before separation.”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -70,3 +70,7 @@ Section 802(d)(1) of Pub. L. 96–466 provided that: “The amendments made by s
 
 For provisions for continued eligibility for enrollment in the program established by this chapter until Apr. 1, 1987, of individuals on active duty in the Armed Forces who were eligible therefor on June 30, 1985, and requiring notice of such continued eligibility to affected individuals, see section 309(c), (d) of Pub. L. 99–576, set out as a note under section 3201 of this title.
 
+#### Section Referred to in Other Sections
+
+This section is referred to in section 3018C of this title.
+

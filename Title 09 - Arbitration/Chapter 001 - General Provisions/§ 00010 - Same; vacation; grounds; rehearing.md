@@ -24,11 +24,7 @@ Act Feb. 12, 1925, ch. 213, §10, 43 Stat. 885.
 
 1992—Subsec. (b). Pub. L. 102–354 substituted “section 580” for “section 590” and “section 572” for “section 582”.
 
-1990—Pub. L. 101–552 temporarily designated existing provisions as subsec. (a), in introductory provisions substituted “In any” for “In either”, redesignated former subsecs. (a) to (e) as pars. (1) to (5), respectively, and added subsec. (b) which read as follows: “The United States district court for the district wherein an award was made that was issued pursuant to section 580 of title 5 may make an order vacating the award upon the application of a person, other than a party to the arbitration, who is adversely affected or aggrieved by the award, if the use of arbitration or the award is clearly inconsistent with the factors set forth in section 572 of title 5.” See Termination Date of 1990 Amendment; Savings Provision note below.
-
-#### Termination Date; Savings Provision
-
-For termination of authority under this section, see section 11 of Pub. L. 101–552, set out as a note under section 571 of this title.
+1990—Pub. L. 101–552 designated existing provisions as subsec. (a), in introductory provisions substituted “In any” for “In either”, redesignated former subsecs. (a) to (e) as pars. (1) to (5), respectively, and added subsec. (b) which read as follows: “The United States district court for the district wherein an award was made that was issued pursuant to section 580 of title 5 may make an order vacating the award upon the application of a person, other than a party to the arbitration, who is adversely affected or aggrieved by the award, if the use of arbitration or the award is clearly inconsistent with the factors set forth in section 572 of title 5.”
 
 #### Section Referred to in Other Sections
 

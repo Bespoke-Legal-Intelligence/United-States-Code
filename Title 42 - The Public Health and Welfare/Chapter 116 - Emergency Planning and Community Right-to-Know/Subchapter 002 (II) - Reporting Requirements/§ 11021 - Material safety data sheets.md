@@ -4,7 +4,7 @@
 
 #### (1) Submission of MSDS or list
 
-&emsp;The owner or operator of any facility which is required to prepare or have available a material safety data sheet for a hazardous chemical under the Occupational Safety and Health Act of 1970 \[29 U.S.C. 651 et seq.\] and regulations promulgated under that Act shall submit a material safety data sheet for each such chemical, or a list of such chemicals as described in paragraph (2), to each of the following:
+&emsp;The owner or operator of any facility which is required to prepare or have available a material safety data sheet for a hazardous chemical under the Occupational Safety and HealthAct of 1970 \[29 U.S.C. 651 et seq.\] and regulations promulgated under that Act shall submit a material safety data sheet for each such chemical, or a list of such chemicals as described in paragraph (2), to each of the following:
 
 &emsp;&emsp;(A) The appropriate local emergency planning committee.
 
@@ -48,7 +48,7 @@ The Administrator may establish threshold quantities for hazardous chemicals bel
 
 #### (d) Initial submission and updating
 
-(1) The initial material safety data sheet or list required under this section with respect to ahazardous chemical shall be provided before the later of—
+(1) The initial material safety data sheet or list required under this section with respect to a hazardous chemical shall be provided before the later of—
 
 &emsp;(A) 12 months after October 17, 1986, or
 
@@ -74,7 +74,7 @@ For purposes of this section, the term “hazardous chemical” has the meaning 
 
 #### References in Text
 
-The Occupational Safety and Health Act of 1970, referred to in subsecs. (a)(1), (2)(A)(i), (B) and (d)(1)(B), is Pub. L. 91–596, Dec. 29, 1970, 84 Stat. 1590, as amended, which is classified principally to chapter 15 (§651 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 651 of Title 29 and Tables.
+The Occupational Safety and Health Act of 1970, referred to in subsecs. (a)(1), (2)(A)(i), (B) and (d)(1)(B), is Pub. L. 91–596, Dec. 29, 1970, 84 Stat. 1590, as amended,which is classified principally to chapter 15 (§651 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 651 of Title 29 and Tables.
 
 #### Section Referred to in Other Sections
 

@@ -12,7 +12,7 @@ For purposes of this subchapter:
 
 #### (2) Approved national service position
 
-&emsp;The term “approved national service position” means a national service position for which the Corporation has approved the provision of a national service educational awarddescribed in section 12603 of this title as one of the benefits to be provided for successful service in the position.
+&emsp;The term “approved national service position” means a national service position for which the Corporation has approved the provision of a national service educational award described in section 12603 of this title as one of the benefits to be provided for successful service in the position.
 
 #### (3) Carry out
 

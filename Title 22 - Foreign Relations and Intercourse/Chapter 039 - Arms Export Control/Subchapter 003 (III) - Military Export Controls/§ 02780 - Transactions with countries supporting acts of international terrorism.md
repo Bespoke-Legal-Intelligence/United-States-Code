@@ -10,7 +10,7 @@ The following transactions by the United States Government are prohibited:
 
 &emsp;&emsp;(B) shall terminate any lease or loan to such country of any such item which is in effect at the time the Secretary of State makes that determination.
 
-&emsp;(2) Providing credits, guarantees, or other financial assistance under the authority of this chapter, the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\], or any other law (except as provided in subsection (h) of this section), with respect to the acquisition of any munitions item by a country described in subsection (d) of this section. In implementing this paragraph, the United States Government shall suspend expenditures pursuant to any such assistance obligated before the Secretary of State makes the determination described in subsection (d) of this section. The President may authorize expenditures otherwise required to be suspended pursuant to the preceding sentence if the President has determined, and reported to the Congress, that suspension of those expenditures causes undue financial hardship to a supplier, shipper, or similar person and allowing the expenditure will not result in any munitions item being made available for use by such country.
+&emsp;(2) Providing credits, guarantees, or other financial assistance under the authority of this chapter, the Foreign Assistance Act of 1961 \[22U.S.C. 2151 et seq.\], or any other law (except as provided in subsection (h) of this section), with respect to the acquisition of any munitions item by a country described in subsection (d) of this section. In implementing this paragraph, the United States Government shall suspend expenditures pursuant to any such assistance obligated before the Secretary of State makes the determination described in subsection (d) of this section. The President may authorize expenditures otherwise required to be suspended pursuant to the preceding sentence if the President has determined, and reported to the Congress, that suspension of those expenditures causes undue financial hardship to a supplier, shipper, or similar person and allowing the expenditure will not result in any munitions item being made available for use by such country.
 
 &emsp;(3) Consenting under section 2753(a) of this title, under section 505(a) of the Foreign Assistance Act of 1961 \[22 U.S.C. 2314(a)\], under the regulations issued to carry out section 2778 of this title, or under any other law (except as provided in subsection (h) of this section), to any transfer of any munitions item to a country described in subsection (d) of this section. In implementing this paragraph, the United States Government shall withdraw any such consent which is in effect at the time the Secretary of State makes the determination described in subsection (d) of this section, except that this sentence does not apply with respect to any item that has already been transferred to such country.
 
@@ -38,7 +38,7 @@ The following transactions by the United States Government are prohibited:
 
 &emsp;&emsp;(C) Selling, leasing, loaning, granting, or otherwise providing any munitions item to any recipient which is not the government of or a person in a country described in subsection (d) of this section if the United States person has reason to know that the munitions item will be made available to any country described in subsection (d) of this section.
 
-&emsp;&emsp;(D) Taking any other action which would facilitate the acquisition, directly or indirectly, of any munitions item by the government of any country described in subsection (d) of this section, or any person acting onbehalf of that government, if the United States person has reason to know that that action will facilitate the acquisition of that item by such a government or person.
+&emsp;&emsp;(D) Taking any other action which would facilitate the acquisition, directly or indirectly, of any munitions item by the government of any country described in subsection (d) of this section, or any person acting on behalf of that government, if the United States person has reason to know that that action will facilitate the acquisition of that item by such a government or person.
 
 #### (2) Liability for actions of foreign subsidiaries, etc.
 
@@ -58,7 +58,7 @@ This section applies with respect to—
 
 #### (d) Countries covered by prohibition
 
-The prohibitions contained in this section apply with respect to a country if the Secretary of State determines that the government of that country has repeatedly provided support for acts of international terrorism. For purposes of this subsection, such acts shall include all activities that the Secretary determines willfully aid or abet the international proliferation of nuclear explosive devices to individuals or groups or willfully aid or abet an individual or groups in acquiring unsafeguarded special nuclear material.
+The prohibitions contained in this section apply with respect to a country if the Secretary of State determines that the government of thatcountry has repeatedly provided support for acts of international terrorism. For purposes of this subsection, such acts shall include all activities that the Secretary determines willfully aid or abet the international proliferation of nuclear explosive devices to individuals or groups or willfully aid or abet an individual or groups in acquiring unsafeguarded special nuclear material.
 
 #### (e) Publication of determinations
 
@@ -156,15 +156,11 @@ As used in this section—
 
 > &emsp;&emsp;with respect to that person's actions while outside the United States;
 
-&emsp;(4) the term “nuclear explosive device” has the meaning given that term in section 830(4) of the Nuclear Proliferation Prevention Act of 1994; and
+&emsp;(4) the term “nuclear explosive device” has the meaning given that term in section 6305(4) of this title; and
 
-&emsp;(5) the term “unsafeguarded special nuclear material” has the meaning given that term in section 830(8) of the Nuclear Proliferation Prevention Act of 1994.
+&emsp;(5) the term “unsafeguarded special nuclear material” has the meaning given that term in section 6305(8) of this title.
 
 (Pub. L. 90–629, ch. 3, §40, as added Pub. L. 99–399, title V, §509(a), Aug. 27, 1986, 100 Stat. 874; amended Pub. L. 101–222, §2(a), Dec. 12, 1989, 103 Stat. 1892; Pub. L. 102–138, title III, §321, Oct. 28, 1991, 105 Stat. 710; Pub. L. 103–236, title VIII, §822(a)(2), Apr. 30, 1994, 108 Stat. 511.)
-
-#### Amendment of Section
-
-<i>For termination of amendment by section 851 of Pub. L. 103–236, see Effective and Termination Dates of 1994 Amendment note below.</i>
 
 #### References in Text
 
@@ -178,13 +174,11 @@ The National Security Act of 1947, referred to in subsec. (h), is act July 26, 1
 
 The Export Administration Act of 1979, referred to in subsec. (k), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, as amended, which is classified principally to section 2401 et seq. of the Appendix to Title 50. For complete classification of this Act to the Code, see Short Title note set out under section 2401 of the Appendix to Title 50 and Tables.
 
-Section 830 of the Nuclear Proliferation Prevention Act of 1994, referred to in subsec. (<i>l</i>)(4), (5), is section 830 of Pub. L. 103–236 which is set out in the Nuclear Proliferation Prevention; Effective and Termination Dates of 1994 Amendment note under section 3201 of this title.
-
 #### Amendments
 
-1994—Subsec. (d). Pub. L. 103–236, §§822(a)(2)(A), 851, temporarily inserted at end “For purposes of this subsection, such acts shall include all activities that the Secretary determines willfully aid or abet the international proliferation of nuclear explosive devices to individuals or groups or willfully aid or abet an individual or groups in acquiring unsafeguarded special nuclear material.” See Effective and Termination Dates of 1994 Amendment note below.
+1994—Subsec. (d). Pub. L. 103–236, §822(a)(2)(A), inserted at end “For purposes of this subsection, such acts shall include all activities that the Secretary determines willfully aid or abet the international proliferation of nuclear explosive devices to individuals or groups or willfully aid or abet an individual or groups in acquiring unsafeguarded special nuclear material.”
 
-Subsec. (<i>l</i>). Pub. L. 103–236, §§822(a)(2)(B), 851, temporarily amended subsec. (<i>l</i>) by striking “and” after the semicolon in par. (2), substituting a semicolon for the period at the end of par. (3), and adding pars. (4) and (5). See Effective and Termination Dates of 1994 Amendment note below.
+Subsec. (<i>l</i>). Pub. L. 103–236, §822(a)(2)(B), amended subsec. (<i>l</i>) by striking “and” after the semicolon in par. (2), substituting a semicolon for the period at the end of par. (3), and adding pars. (4) and (5).
 
 1991—Subsec. (f). Pub. L. 102–138, §321, designated existing provisions as par. (1), redesignated former par. (1) as subpar. (A) and former subpars. (A) to (C) as cls. (i) to (iii), respectively, redesignated former par. (2) as subpar. (B) and former subpars. (A) and (B) as cls. (i) and (ii), respectively, and added par. (2). So much of Pub. L. 102–138, §321(1), as directed that subpar. (C) of former par. (2) be redesignated cl. (iii) of par. (1)(B), could not be executed because no such subpar. (C) had been enacted.
 
@@ -202,11 +196,13 @@ Waiver.—The President may waive the prohibition contained in subsection (a) of
 
 Committee on Foreign Affairs of House of Representatives treated as referring to Committee on International Relations of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
-#### Effective and Termination Dates of 1994 Amendment
+#### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–236 effective 60 days after Apr. 30, 1994, and ceases to be effective and is repealed on date of enactment of first Foreign Relations Authorization Act enacted after Apr. 30, 1994, and any provision repealed by that amendment shall be reenacted, see sections 831 and 851 of Pub. L. 103–236, set out in the Nuclear Proliferation Prevention; Effective and Termination Dates of 1994 Amendment note under section 3201 of this title.
+Amendment by Pub. L. 103–236 effective 60 days after Apr. 30, 1994, see section 831 of Pub. L. 103–236, set out as an Effective Date note under section 6301 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2371, 2656g, 3281 of this title; title 50 section 2202.
+This section is referred to in sections 2371, 2656g, 3281 of this title; title 50 sections 2202, 2332.
+
+<i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

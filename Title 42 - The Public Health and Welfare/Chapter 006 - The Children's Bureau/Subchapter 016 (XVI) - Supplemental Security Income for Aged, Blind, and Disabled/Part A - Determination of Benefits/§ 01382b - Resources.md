@@ -18,15 +18,17 @@ In determining the resources of an individual (and his eligible spouse, if any) 
 
 &emsp;(6) assistance referred to in section 1382a(b)(11) of this title for the 9-month period beginning on the date such funds are received (or for such longer period as the Commissioner of Social Security shall by regulations prescribe in cases where good cause is shown by the individual concerned for extending such period); and, for purposes of this paragraph, the term “assistance” includes interest thereon which is excluded from income under section 1382a(b)(12) of this title;
 
-&emsp;(7) any amount received from the United States which is attributable to underpayments of benefits due for one or more prior months, under this subchapter or subchapter II of this chapter, to such individual (or spouse) or to any other person whose income is deemed to be included in such individual's (or spouse's) income for purposes of this subchapter; but the application of this paragraph in the case of any such individual (and eligible spouse if any), with respect to any amount so received from the United States, shall be limited to the first 6 months following the month in which such amount is received (or to the first 9 months following such month with respect to any amount so received during the period beginning October 1, 1987, and ending September 30, 1989), and written notice of this limitation shall be given to the recipient concurrently with the payment of such amount;
+&emsp;(7) any amount received from the United States which is attributable to underpayments of benefits due for one or more prior months, under this subchapter or subchapter II of this chapter, to such individual (or spouse) or to any other person whose income is deemed to be included in such individual's (or spouse's) income for purposes of this subchapter; but the application of this paragraph in the case of any such individual (and eligible spouse if any), with respect to any amount so received from the United States, shall be limited to the first 6 months following the month in which such amount is received (or to the first 9 months following such month with respect to any amount so received during the period beginning October 1, 1987, and ending September30, 1989), and written notice of this limitation shall be given to the recipient concurrently with the payment of such amount;
 
 &emsp;(8) the value of assistance referred to in section 1382a(b)(14) of this title, paid with respect to the dwelling unit occupied by such individual (or such individual and spouse);
 
 &emsp;(9) for the 9-month period beginning after the month in which received, any amount received by such individual (or such spouse) from a fund established by a State to aid victims of crime, to the extent that such individual (or such spouse) demonstrates that such amount was paid as compensation for expenses incurred or losses suffered as a result of a crime;
 
-&emsp;(10) for the 9-month period beginning after the month in which received, relocation assistance provided by a State or local government to such individual (or such spouse), comparable to assistance provided under title II of the Uniform Relocation Assistance and Real Property Acquisitions Policies Act of 1970 which is subject to the treatment required by section 216 of such Act \[42 U.S.C. 4636\]; and
+&emsp;(10) for the 9-month period beginning after the month in which received, relocation assistance provided by a State or local government to such individual (or such spouse), comparable to assistance provided under title II of the Uniform Relocation Assistance and Real Property Acquisitions Policies Act of 1970 which is subject to the treatment required by section 216 of such Act \[42 U.S.C. 4636\];
 
-&emsp;(11) for the month of receipt and the following month, any refund of Federal income taxes made to such individual (or such spouse) by reason of section 32 of the Internal Revenue Code of 1986 (relating to earned income tax credit), and any payment made to such individual (or such spouse) by an employer under section 3507 of such Code (relating to advance payment of earned income credit).
+&emsp;(11) for the month of receipt and the following month, any refund of Federal income taxes made to such individual (or such spouse) by reason of section 32 of the Internal Revenue Code of 1986 (relating to earned income tax credit), and any payment made to such individual (or such spouse) by an employer under section 3507 of such Code (relating to advance payment of earned income credit); and
+
+&emsp;(12) any account, including accrued interest or other earnings thereon, established and maintained in accordance with section 1383(a)(2)(F) of this title.
 
 > In determining the resources of an individual (or eligible spouse) an insurance policy shall be taken into account only to the extent of its cash surrender value; except that if the total face value of all life insurance policies on any person is $1,500 or less, no part of the value of any such policy shall be taken into account.
 
@@ -54,9 +56,9 @@ In determining the resources of an individual (and his eligible spouse, if any) 
 
 (3) If the Commissioner of Social Security finds that any part of the amount excluded under paragraph (1) was used for purposes other than those for which it was set aside in cases where the inclusion of any portion of the amount would cause the resources of such individual, or of such individual and spouse, to exceed the limits specified in paragraph (1) or (2) (whichever may be applicable) of section 1382(a) of this title, the Commissioner shall reduce any future benefits payable to the eligible individual (or to such individual and his spouse) by an amount equal to such part.
 
-(4) The Commissioner of Social Security may provide by regulations that whenever an amount set aside to meet burial and related expenses is excluded under paragraph (1) in determining the resources of an individual, any interest earned or accrued on such amount (and left to accumulate), and any appreciation in the value of prepaid burial arrangements for which such amount was set aside, shall also be excluded (to such extent and subject to such conditions or limitations as such regulations may prescribe) in determining the resources (and the income) of such individual.
+(4) The Commissioner of Social Security may provide by regulations that whenever an amount set aside to meet burial and related expenses is excluded under paragraph (1) in determining theresources of an individual, any interest earned or accrued on such amount (and left to accumulate), and any appreciation in the value of prepaid burial arrangements for which such amount was set aside, shall also be excluded (to such extent and subject to such conditions or limitations as such regulations may prescribe) in determining the resources (and the income) of such individual.
 
-(Aug. 14, 1935, ch. 531, title XVI, §1613, as added Oct. 30, 1972, Pub. L. 92–603, title III, §301, 86 Stat. 1470; amended Oct. 20, 1976, Pub. L. 94–569, §5, 90 Stat. 2700; Nov. 12, 1977, Pub. L. 95–171, §9(a), 91 Stat. 1355; Dec. 28, 1980, Pub. L. 96–611, §5(a), 94 Stat. 3567; Sept. 3, 1982, Pub. L. 97–248, title I, §185(a), (b), 96 Stat. 406; July 18, 1984, Pub. L. 98–369, div. B, title VI, §§2614, 2663(g)(5), 98 Stat. 1132, 1168; Dec. 22, 1987, Pub. L. 100–203, title IX, §§9103(a), 9104(a), 9105(a), 9114(a), 101 Stat. 1330–301, 1330–304; July 1, 1988, Pub. L. 100–360, title III, §303(c)(1), 102 Stat. 762; Nov. 10, 1988, Pub. L. 100–647, title VIII, §8103(b), 102 Stat. 3795; Dec. 19, 1989, Pub. L. 101–239, title VIII, §§8013(b), 8014(a), 103 Stat. 2465; Nov. 5, 1990, Pub. L. 101–508, title V, §§5031(b), 5035(b), title XI, §11115(b)(2), 104 Stat. 1388–224, 1388–225, 1388–414; Aug. 15, 1994, Pub. L. 103–296, title I, §107(a)(4), title III, §321(h)(2), 108 Stat. 1478, 1544.)
+(Aug. 14, 1935, ch. 531, title XVI, §1613, as added Oct. 30, 1972, Pub. L. 92–603, title III, §301, 86 Stat. 1470; amended Oct. 20, 1976, Pub. L. 94–569, §5, 90 Stat. 2700; Nov. 12, 1977, Pub. L. 95–171, §9(a), 91 Stat. 1355; Dec. 28, 1980, Pub. L. 96–611, §5(a), 94 Stat. 3567; Sept. 3, 1982, Pub. L. 97–248, title I, §185(a), (b), 96 Stat. 406; July 18, 1984, Pub. L. 98–369, div. B, title VI, §§2614, 2663(g)(5), 98 Stat. 1132, 1168; Dec. 22, 1987, Pub. L. 100–203, title IX, §§9103(a), 9104(a), 9105(a), 9114(a), 101 Stat. 1330–301, 1330–304; July 1, 1988, Pub. L. 100–360, title III, §303(c)(1), 102 Stat. 762; Nov. 10, 1988, Pub. L. 100–647, title VIII, §8103(b), 102 Stat. 3795; Dec. 19, 1989, Pub. L. 101–239, title VIII, §§8013(b), 8014(a), 103 Stat. 2465; Nov. 5, 1990, Pub. L. 101–508, title V, §§5031(b), 5035(b), title XI, §11115(b)(2), 104 Stat. 1388–224, 1388–225, 1388–414; Aug. 15, 1994, Pub. L. 103–296, title I, §107(a)(4), title III, §321(h)(2), 108 Stat. 1478, 1544; Aug. 22, 1996, Pub. L. 104–193, title II, §213(b), 110 Stat. 2195.)
 
 #### References in Text
 
@@ -65,6 +67,8 @@ The Uniform Relocation Assistance and Real Property Acquisitions Policies Act of
 The Internal Revenue Code of 1986, referred to in subsec. (a)(11), is classified generally to Title 26, Internal Revenue Code.
 
 #### Amendments
+
+1996—Subsec. (a)(12). Pub. L. 104–193 added par. (12).
 
 1994—Subsec. (a)(2) to (4), (6). Pub. L. 103–296, §107(a)(4), substituted “Commissioner of Social Security” for “Secretary” wherever appearing.
 
@@ -112,6 +116,10 @@ Subsec. (d). Pub. L. 97–248, §185(b), added subsec. (d).
 
 1976—Subsec. (a)(1). Pub. L. 94–569 struck out “, to the extent that its value does not exceed such amount as the Secretary determines to be reasonable” after “the home (including the land that appertains thereto)”.
 
+#### Effective Date of 1996 Amendment
+
+Amendment by section 213(b) of Pub. L. 104–193 applicable to payments made after Aug. 22, 1996, see section 213(d) of Pub. L. 104–193, set out as a note under section 1382a of this title.
+
 #### Effective Date of 1994 Amendment
 
 Amendment by section 107(a)(4) of Pub. L. 103–296 effective Mar. 31, 1995, see section 110(a) of Pub. L. 103–296, set out as a note under section 401 of this title.
@@ -122,9 +130,9 @@ Section 321(h)(3) of Pub. L. 103–296 provided that: “The amendments made by 
 
 Amendment by section 5031(b) of Pub. L. 101–508 applicable with respect to benefits for months beginning on or after the first day of the 6th calendar month following November 1990, see section 5031(d) of Pub. L. 101–508, set out as a note under section 1382a of this title.
 
-Amendment by section 5035(b) of Pub. L. 101–508 applicable with respect to benefits for calendar months beginning on or after the first day of the 6th calendar month following November 1990, see section 5035(c) of Pub. L. 101–508, as amended, set out as a note under section 1382a of this title.
+Amendment by section 5035(b) of Pub. L. 101–508 applicable with respect to benefits for calendar monthsbeginning on or after the first day of the 6th calendar month following November 1990, see section 5035(c) of Pub. L. 101–508, as amended, set out as a note under section 1382a of this title.
 
-Amendment by section 11115(b)(2) of Pub. L. 101–508 applicable to determinations of income or resources made for any period after Dec. 31, 1990, see section 11115(e) of Pub. L. 101–508, set out as a note under section 602 of this title.
+Amendment by section 11115(b)(2) of Pub. L. 101–508 applicable to determinations of income or resources made for any period after Dec. 31, 1990, see section 11115(e) of Pub. L. 101–508, set out as a note under section 1382a of this title.
 
 #### Effective Date of 1989 Amendment
 
@@ -150,7 +158,7 @@ Section 9114(b) of Pub. L. 100–203 provided that: “The amendment made by sub
 
 #### Effective Date of 1984 Amendment
 
-Amendment by section 2614 of Pub. L. 98–369 effective Oct. 1, 1984, except as otherwise specifically provided, see section 2646 of Pub. L. 98–369, set out as a note under section 602 of this title.
+Amendment by section 2614 of Pub. L. 98–369 effective Oct. 1, 1984, except as otherwise specifically provided, see section 2646 of Pub. L. 98–369, set out as a note under section 657 of this title.
 
 Amendment by section 2663(g)(5) of Pub. L. 98–369 effective July 18, 1984, but not to be construed as changing or affecting any right, liability, status, or interpretation which existed (under the provisions of law involved) before that date, see section 2664(b) of Pub. L. 98–369, set out as a note under section 401 of this title.
 
@@ -164,7 +172,7 @@ Section 5(c) of Pub. L. 96–611 provided that: “The amendment made by subsect
 
 #### Effective Date of 1977 Amendment
 
-Section 9(b) of Pub. L. 95–171 provided that: “The amendment made by this section \[amending this section\] shall be effective July 1, 1976, with respect to catastrophes which occurred on or after June 1, 1976, and before December 31, 1976. With respect to catastrophes which occurred on or after December 1, 1976, theamendment made by this section shall be effective the first day of the calendar quarter following enactment of this Act \[Nov. 12, 1977\].”
+Section 9(b) of Pub. L. 95–171 provided that: “The amendment made by this section \[amending this section\] shall be effective July 1, 1976, with respect to catastrophes which occurred on or after June 1, 1976, and before December 31, 1976. With respect to catastrophes which occurred on or after December 1, 1976, the amendment made by this section shall be effective the first day of the calendar quarter following enactment of this Act \[Nov. 12, 1977\].”
 
 #### Effective Date
 
@@ -180,5 +188,5 @@ Enactment of provisions of Pub. L. 92–603, eff. Jan. 1, 1974, not applicable t
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1382, 1382a, 1382j, 1396a, 1396d, 1396p, 1396r–5, 1437a of this title.
+This section is referred to in sections 1382, 1382a, 1382j, 1383, 1396a, 1396d, 1396p, 1396r–5, 1437a of this title; title 25 section 4103.
 

@@ -52,9 +52,9 @@ For purposes of this subchapter:
 
 &emsp;&emsp;(A) is eligible for designation under section 254e of this title as a health professional shortage area;
 
-&emsp;&emsp;(B) is eligible to be served by a migrant health center under section 254b of this title, a community health center under section 254c of this title, a grantee under section 256 of this title (relating to homeless individuals), or a grantee under section 256a of this title (relating to residents of public housing); or
+&emsp;&emsp;(B) is eligible to be served by a migrant health center under section 254b <sup>1</sup> of this title, a community health center under section 254c <sup>1</sup> of this title, a grantee under section 256 <sup>1</sup> of this title (relating to homeless individuals), or a grantee under section 256a <sup>1</sup>of this title (relating to residents of public housing); or
 
-&emsp;&emsp;(C) has a shortage of personal health services, as determined under criteria issued bythe Secretary under section 1395x(aa)(2) of this title (relating to rural health clinics).
+&emsp;&emsp;(C) has a shortage of personal health services, as determined under criteria issued by the Secretary under section 1395x(aa)(2) of this title (relating to rural health clinics).
 
 &emsp;(7) The term “Department” means the Department of Health and Human Services.
 
@@ -68,9 +68,19 @@ For purposes of this subchapter:
 
 (July 1, 1944, ch. 373, title VII, §799, as added Oct. 13, 1992, Pub. L. 102–408, title I, §102, 106 Stat. 2066.)
 
+#### References in Text
+
+Sections 254b and 254c of this title, referred to in par. (6)(B), were in the original references to sections 329 and 330, meaning sections 329 and 330 of act July 1, 1944, which were omitted in the general amendment of subpart I (§254b et seq.) of part D of subchapter II of this chapter by Pub. L. 104–299, §2, Oct. 11, 1996, 110 Stat. 3626. Sections 2 and 3(a) of Pub. L. 104–299 enacted new sections 330 and 330A of act July 1, 1944, which are classified, respectively, to sections 254b and 254c of this title.
+
+Sections 256 and 256a of this title, referred to in par. (6)(B), were repealed by Pub. L. 104–299, §4(a)(3), Oct. 11, 1996, 110 Stat. 3645.
+
 #### Prior Provisions
 
 A prior section 799 of act July 1, 1944, was classified to section 295i of this title prior to the general revision of this subchapter by Pub. L. 102–408.
+
+#### Reference to Community, Migrant, Public Housing, or Homeless Health Center Considered Reference to Health Center
+
+Reference to community health center, migrant health center, public housing health center, or homeless health center considered reference to health center, see section 4(c) of Pub. L. 104–299, set out as a note under section 254b of this title.
 
 #### Termination of Trust Territory of the Pacific Islands
 

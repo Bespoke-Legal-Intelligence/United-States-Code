@@ -24,5 +24,5 @@ Proceeds of sales of publications, charts, or materials to be credited to revolv
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 40 section 483d.
+This section is referred to in section 576b of this title; title 40 section 483d.
 

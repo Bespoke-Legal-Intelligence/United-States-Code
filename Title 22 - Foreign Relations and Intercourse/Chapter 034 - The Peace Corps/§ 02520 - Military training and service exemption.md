@@ -6,5 +6,5 @@ Notwithstanding the provisions of any other law or regulation, service in the Pe
 
 #### References in Text
 
-The Universal Military Training and Service Act, referred to in text, subsequently renamed the Military Selective Service Act, is act June 24, 1948, ch. 625, 62 Stat. 604, as amended, which is classified principally to section 451 et seq. of Title 50, Appendix, War and National Defense. For complete classification of this Act to the Code, see References in Text note set out under section 451 of Title 50, Appendix, and Tables.
+The Universal Military Training and Service Act, referred to in text, subsequently renamed the MilitarySelective Service Act, is act June 24, 1948, ch. 625, 62 Stat. 604, as amended, which is classified principally to section 451 et seq. of Title 50, Appendix, War and National Defense. For complete classification of this Act to the Code, see References in Text note set out under section 451 of Title 50, Appendix, and Tables.
 

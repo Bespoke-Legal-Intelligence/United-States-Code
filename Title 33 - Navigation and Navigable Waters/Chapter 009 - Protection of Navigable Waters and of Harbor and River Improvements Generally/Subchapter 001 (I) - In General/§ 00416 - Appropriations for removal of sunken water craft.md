@@ -2,11 +2,11 @@
 
 Such sum of money as may be necessary to execute sections 414 and 415 of this title is hereby appropriated out of any money in the Treasury not otherwise appropriated, to be paid out on the requisition of the Secretary of the Army.
 
-(Mar. 3, 1899, ch. 425, §20, 30 Stat. 1155; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501.)
+(Mar. 3, 1899, ch. 425, §20(a), formerly §20, 30 Stat. 1155; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501; renumbered §20(a), Nov. 17, 1986, Pub. L. 99–662, title IX, §939(b), 100 Stat. 4199.)
 
 #### Codification
 
-Section is from part of section 20 of act Mar. 3, 1899, popularly known as the “Rivers and Harbors Appropriation Act of 1899”. See Codification note set out under section 415 of this title.
+Section is from part of section 20(a) of act Mar. 3, 1899, popularly known as the “Rivers and Harbors Appropriation Act of 1899”. See Codification and Amendment notes set out under section 415 of this title.
 
 #### Change of Name
 

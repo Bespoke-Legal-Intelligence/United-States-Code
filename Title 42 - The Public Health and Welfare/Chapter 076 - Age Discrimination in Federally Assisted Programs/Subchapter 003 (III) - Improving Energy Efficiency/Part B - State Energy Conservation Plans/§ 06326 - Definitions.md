@@ -6,7 +6,7 @@ As used in this part—
 
 &emsp;(2) The term “building” means any structure which includes provision for a heating or cooling system, or both, or for a hot water system.
 
-&emsp;(3) The term “energy audit” means any process which identifies and specifies the energy and cost savings which are likely to be realized through the purchase and installation of particular energy conservation measures or renewable-resource energy measures and which—
+&emsp;(3) The term “energy audit” means any process which identifies and specifies the energy and cost savings which are likely to be realized through the purchase and installation ofparticular energy conservation measures or renewable-resource energy measures and which—
 
 &emsp;&emsp;(A) is carried out in accordance with rules of the Secretary; and
 
@@ -28,7 +28,7 @@ As used in this part—
 
 &emsp;(5) The term “industrial plant” means any fixed equipment or facility which is used in connection with, or as part of, any process or system for industrial production or output.
 
-&emsp;(6) The term “renewable-resource energy measure” means a measure which modifiesany building or industrial plant, the construction of which has been completed prior to August 14, 1976, if such measure has been determined by means of an energy audit or by the Secretary, by rule under section 6325(e)(1) of this title, to—
+&emsp;(6) The term “renewable-resource energy measure” means a measure which modifies any building or industrial plant, the construction of which has been completed prior to August 14, 1976, if such measure has been determined by means of an energy audit or by the Secretary, by rule under section 6325(e)(1) of this title, to—
 
 &emsp;&emsp;(A) involve changing, in whole or in part, the fuel or source of the energy used to meet the requirements of such building or plant from a depletable source of energy to a nondepletable source of energy; and
 

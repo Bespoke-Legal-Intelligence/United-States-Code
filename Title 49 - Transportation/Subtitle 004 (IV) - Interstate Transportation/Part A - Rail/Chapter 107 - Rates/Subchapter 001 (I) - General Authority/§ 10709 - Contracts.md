@@ -12,7 +12,7 @@
 
 (2) Documents, papers, and records (and any copies thereof) relating to a contract described in subsection (a) shall not be subject to the mandatory disclosure requirements of section 552 of title 5.
 
-(e) Any lawful contract between a rail carrier and one or more purchasers of rail service that was in effect on the effective date of the Staggers Rail Act of 1980 shall be considered a contract authorized by this section.
+(e) Any lawful contract between a rail carrier and one or more purchasers of rail service that was in effect on October 1, 1980, shall be considered a contract authorized by this section.
 
 (f) A rail carrier that enters into a contract as authorized by this section remains subject to the common carrier obligation set forth in section 11101, with respect to rail transportation not provided under such a contract.
 
@@ -46,11 +46,7 @@
 
 (B) Before October 1, 1997, the National Grain Car Council and the Railroad-Shipper Transportation Advisory Council shall make recommendations to Congress on whether to extend the effectiveness of or otherwise modify this subsection.
 
-(Added Pub. L. 104–88, title I, §102(a), Dec. 29, 1995, 109 Stat. 817.)
-
-#### References in Text
-
-The effective date of the Staggers Rail Act of 1980, referred to in subsec. (e), probably means Oct. 1, 1980, the general effective date of Pub. L. 96–448. See section 710 of Pub. L. 96–448, set out as an Effective Date of 1980 Amendment note under section 1170 of Title 11, Bankruptcy.
+(Added Pub. L. 104–88, title I, §102(a), Dec. 29, 1995, 109 Stat. 817; amended Pub. L. 104–287, §5(24), Oct. 11, 1996, 110 Stat. 3390.)
 
 #### Prior Provisions
 
@@ -67,6 +63,10 @@ Section 10711, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1383, related to effect
 Section 10712, added Pub. L. 96–448, title II, §206(a), Oct. 14, 1980, 94 Stat. 1906, related to inflation-based rate increases.
 
 Section 10713, added Pub. L. 96–448, title II, §208(a), Oct. 14, 1980, 94 Stat. 1908; amended Pub. L. 97–468, title V, §502, Jan. 14, 1983, 96 Stat. 2552; Pub. L. 99–509, title IV, §4051, Oct. 21, 1986, 100 Stat. 1910, related to contracts between rail carriers and purchasers of rail services. See section 10709 of this title.
+
+#### Amendments
+
+1996—Subsec. (e). Pub. L. 104–287 substituted “October 1, 1980,” for “the effective date of the Staggers Rail Act of 1980”.
 
 #### Section Referred to in Other Sections
 

@@ -2,7 +2,7 @@
 
 #### (a) Receipt, administration, and transfer of funds; sponsorship of projects; delegation of authority, etc.
 
-In order to be designated as a Head Start agency under this subchapter, an agency must have authority under its charter or applicable law to receive and administer funds under this subchapter, funds and contributions from private or local public sources which may be used in support of a Head Start program, and funds under any Federal or State assistance program pursuant to which a public or private nonprofit agency (as the case may be) organized in accordance with this subchapter, could act as grantee, contractor, or sponsor of projects appropriate for inclusion in a Head Start program. Such an agency must also be empowered to transfer funds so received, and to delegate powers to other agencies, subject to the powers of its governing board and its overall program responsibilities. The power to transfer funds and delegate powers must include the power to make transfers and delegations covering component projects in all cases where this will contribute to efficiency and effectiveness or otherwise further program objectives.
+In order to be designated as a Head Start agency under this subchapter, an agency must have authority under its charter or applicable law to receive and administer funds under this subchapter, funds and contributions from private orlocal public sources which may be used in support of a Head Start program, and funds under any Federal or State assistance program pursuant to which a public or private nonprofit agency (as the case may be) organized in accordance with this subchapter, could act as grantee, contractor, or sponsor of projects appropriate for inclusion in a Head Start program. Such an agency must also be empowered to transfer funds so received, and to delegate powers to other agencies, subject to the powers of its governing board and its overall program responsibilities. The power to transfer funds and delegate powers must include the power to make transfers and delegations covering component projects in all cases where this will contribute to efficiency and effectiveness or otherwise further program objectives.
 
 #### (b) Participation of parents in decisionmaking, implementation, etc.
 
@@ -40,7 +40,7 @@ In order to be so designated, a Head Start agency shall also—
 
 #### (c) Coordination with other agencies
 
-The head of each Head Start agency shall coordinate with the State agency responsible for administering section 602(g) of this title, and other programs, including Even Start programs under part B of chapter 1 of title I of the Elementary and Secondary Education Act of 1965 <sup>1</sup> (20 U.S.C. 2741 et seq.), serving the children and families served by the Head Start agency to carry out the provisions of this subchapter.
+The head of each Head Start agency shall coordinate with the State agency responsible for administering section 602(g) <sup>1</sup> of this title, and other programs, including Even Start programs under part B of chapter 1 of title I of the Elementary and Secondary Education Act of 1965 <sup>1</sup> (20 U.S.C. 2741 et seq.), serving the children and families served by the Head Start agency to carry out the provisions of this subchapter.
 
 #### (d) Transition coordination with schools
 
@@ -85,6 +85,8 @@ The head of each Head Start agency shall coordinate with the State agency respon
 #### References in Text
 
 Part B of chapter 1 of title I of the Elementary and Secondary Education Act of 1965, referred to in subsecs. (b)(5) and (c), means part B of chapter 1 of title I of Pub. L. 89–10 which was classified generally to part B (§2741 et seq.) of division 1 of subchapter I of chapter 47 of Title 20, Education, prior to being omitted in the general amendment of Pub. L. 89–10 by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519. See section 6361 et seq. of Title 20.
+
+Section 602 of this title, referred to in subsec. (c), was repealed and a new section 602 enacted by Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996, 110 Stat. 2112, and, as so enacted, section 602 does not contain a subsec. (g).
 
 The Head Start Transition Project Act, referred to in subsec. (d)(5)(A), is subtitle B (§§131–140) of title I of Pub. L. 101–501, Nov. 3, 1990, 104 Stat. 1238, which is classified generally to subchapter II–A (§9855 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title of 1990 Amendment note set out under section 9801 of this title and Tables.
 

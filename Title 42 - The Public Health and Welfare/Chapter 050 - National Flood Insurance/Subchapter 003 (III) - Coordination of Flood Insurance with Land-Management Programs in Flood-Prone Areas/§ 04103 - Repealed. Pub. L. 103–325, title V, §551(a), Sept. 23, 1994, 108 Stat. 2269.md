@@ -8,5 +8,5 @@ Section 551(c) of Pub. L. 103–325 provided that: “Notwithstanding subsection
 
 #### Transition Phase
 
-Section 551(b) of Pub. L. 103–325 provided that: “Notwithstanding subsection (a) \[repealing this section\], during the 1-year period beginning on the date of enactment of this Act \[Sept. 23, 1994\], the Director of the Federal Emergency Management Agency may enter into loan and purchase commitments as provided under section 1362 of the National Flood Insurance Act of 1968 \[this section\] (as in effect immediately before the enactment of this Act).”
+Section 551(b) of Pub. L. 103–325 provided that: “Notwithstanding subsection (a) \[repealing this section\], during the 1-year period beginning on the date of enactment of this Act \[Sept. 23, 1994\], the Director of the Federal Emergency Management Agency may enterinto loan and purchase commitments as provided under section 1362 of the National Flood Insurance Act of 1968 \[this section\] (as in effect immediately before the enactment of this Act).”
 

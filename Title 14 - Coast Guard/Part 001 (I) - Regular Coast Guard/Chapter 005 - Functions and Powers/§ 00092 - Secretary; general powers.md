@@ -12,7 +12,7 @@ For the purpose of executing the duties and functions of the Coast Guard the Sec
 
 &emsp;\[(e) Repealed. Oct. 31, 1951, ch. 654, §1(32), 65 Stat. 702\]
 
-&emsp;(f) acquire land or interests in land, including acceptance of gifts thereof, where required for the purpose of carrying out any project orpurpose for which an appropriation has been made;
+&emsp;(f) acquire land or interests in land, including acceptance of gifts thereof, where required for the purpose of carrying out any project or purpose for which an appropriation has been made;
 
 &emsp;(g) exchange land or interests in land in part or in full payment for such other land or interests in land as may be necessary or desirable, the balance of such part payment to be defrayable in accordance with other provisions of this section;
 
@@ -61,6 +61,18 @@ The Federal Property and Administrative Services Act of 1949, referred to in sub
 Subsec. (d). Act Oct. 31, 1951, §2(9), inserted reference to applicable regulations of the Federal Property and Administrative Services Act of 1949, as amended, and struck out requirement that net monies received from the disposition of vessels be covered into the Treasury.
 
 Subsec. (e). Act Oct. 31, 1951, §1(32), repealed subsec. (e) which empowered the Secretary to exchange vessels and parts thereof in part payment for new vessels.
+
+#### Purchase of American-Made Equipment and Products; Notice to Recipients of Assistance
+
+Pub. L. 104–324, title XI, §1127, Oct. 19, 1996, 110 Stat. 3983, provided that:
+
+“(a)
+
+Purchase of American-Made Equipment and Products.—It is the sense of the Congress that, to the greatest extent practicable, all equipment and products purchased with funds made available under this Act \[see Tables for classification\] should be American-made.
+
+“(b)
+
+Notice to Recipients of Assistance.—In providing financial assistance under this Act, the official responsible for providing the assistance, to the greatest extent practicable, shall provide to each recipient of the assistance a notice describing the statement made in subsection (a) by the Congress.”
 
 #### Coast Guard Vessel Design
 
@@ -131,6 +143,8 @@ Pub. L. 89–381, §2, Mar. 30, 1966, 80 Stat. 97, during fiscal years 1967 thro
 #### Aircraft
 
 Provisions specifying the maximum number of aircraft on hand at any one time, exclusive of planes and parts stored to meet future attrition, were contained in the following appropriation acts:
+
+Sept. 30, 1996, Pub. L. 104–205, title I, 110 Stat. 2953.
 
 Nov. 15, 1995, Pub. L. 104–50, title I, 109 Stat. 438.
 

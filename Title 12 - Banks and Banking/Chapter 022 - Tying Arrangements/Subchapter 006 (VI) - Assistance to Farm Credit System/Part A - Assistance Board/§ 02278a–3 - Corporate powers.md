@@ -40,7 +40,7 @@ The Assistance Board shall be a body corporate that shall have the power to—
 
 #### (b) Power to remove; jurisdiction
 
-Notwithstanding any other provision of law, any civil action, suit, or proceeding to which theAssistance Board is a party shall be deemed to arise under the laws of the United States, and the United States District Court for the District of Columbia shall have exclusive jurisdiction over such. The Assistance Board may, without bond or security, remove any such action, suit, or proceeding from a State court to the United States District Court for the District of Columbia.
+Notwithstanding any other provision of law, any civil action, suit, or proceeding to which the Assistance Board is a party shall be deemed to arise under the laws of the United States, and the United States District Court for the District of Columbia shall have exclusive jurisdiction over such. The Assistance Board may, without bond or security, remove any such action, suit, or proceeding from a State court to the United States District Court for the District of Columbia.
 
 (Pub. L. 92–181, title VI, §6.3, as added Pub. L. 100–233, title II, §201, Jan. 6, 1988, 101 Stat. 1587; amended Pub. L. 100–399, title II, §201(a), (b), Aug. 17, 1988, 102 Stat. 990.)
 

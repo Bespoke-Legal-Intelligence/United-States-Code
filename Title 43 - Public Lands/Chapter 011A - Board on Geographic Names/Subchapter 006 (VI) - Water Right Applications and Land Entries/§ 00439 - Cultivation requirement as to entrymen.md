@@ -1,6 +1,6 @@
 ### §439. Cultivation requirement as to entrymen
 
-The entryman upon lands to be irrigated shall, in addition to compliance with the homestead laws, reclaim at least one-half of the total irrigable area of his entry for agricultural purposes.
+The entryman upon lands to be irrigated shall, in addition to compliance with the homesteadlaws, reclaim at least one-half of the total irrigable area of his entry for agricultural purposes.
 
 (June 17, 1902, ch. 1093, §5, 32 Stat. 389.)
 

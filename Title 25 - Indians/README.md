@@ -1,5 +1,5 @@
 
-25 U.S.C.<br>United States Code, 1995 Edition<br>Title 25 - INDIANS<br>From the U.S. Government Publishing Office, www.gpo.gov
+25 U.S.C.<br>United States Code, 1996 Edition<br>Title 25 - INDIANS<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 25—INDIANS
 
@@ -24,8 +24,8 @@
 | [<b>15.</b>](Chapter%20015%20-%20Constitutional%20Rights%20of%20Indians/README.md) | <b>Constitutional Rights of Indians</b> | <b>1301</b> |
 | [<b>16.</b>](Chapter%20016%20-%20Distribution%20of%20Judgment%20Funds/README.md) | <b>Distribution of Judgment Funds</b> | <b>1401</b> |
 | [<b>17.</b>](Chapter%20017%20-%20Financing%20Economic%20Development%20of%20Indians%20and%20Indian%20Organizations/README.md) | <b>Financing Economic Development of Indians and Indian Organizations</b> | <b>1451</b> |
-| [<b>18.</b>](Chapter%20018%20-%20Indian%20Health%20Care/README.md) | <b>Indian Health Care</b> | <b>1601</b> |
-| [<b>19.</b>](Chapter%20019%20-%20Indian%20Land%20Claims%20Settlements/README.md) | <b>Indian Land Claims Settlements</b> | <b>1701</b> |
+| <b>18.</b> | <b>Indian Health Care</b> | <b>1601</b> |
+| <b>19.</b> | <b>Indian Land Claims Settlements</b> | <b>1701</b> |
 | [<b>20.</b>](Chapter%20020%20-%20Tribally%20Controlled%20Community%20College%20Assistance/README.md) | <b>Tribally Controlled Community College Assistance</b> | <b>1801</b> |
 | [<b>21.</b>](Chapter%20021%20-%20Indian%20Child%20Welfare/README.md) | <b>Indian Child Welfare</b> | <b>1901</b> |
 | [<b>22.</b>](Chapter%20022%20-%20Bureau%20of%20Indian%20Affairs%20Programs/README.md) | <b>Bureau of Indian Affairs Programs</b> | <b>2001</b> |
@@ -49,6 +49,7 @@
 | [<b>40.</b>](Chapter%20040%20-%20Indian%20Dams%20Safety/README.md) | <b>Indian Dams Safety</b> | <b>3801</b> |
 | [<b>41.</b>](Chapter%20041%20-%20Indian%20Lands%20Open%20Dump%20Cleanup/README.md) | <b>Indian Lands Open Dump Cleanup</b> | <b>3901</b> |
 | [<b>42.</b>](Chapter%20042%20-%20American%20Indian%20Trust%20Fund%20Management%20Reform/README.md) | <b>American Indian Trust Fund Management Reform</b> | <b>4001</b> |
+| [<b>43.</b>](Chapter%20043%20-%20Native%20American%20Housing%20Assistance%20and%20Self-Determination/README.md) | <b>Native American Housing Assistance and Self-Determination</b> | <b>4101</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -75,8 +76,6 @@
 - [Chapter 015 - Constitutional Rights of Indians](Chapter%20015%20-%20Constitutional%20Rights%20of%20Indians/README.md)
 - [Chapter 016 - Distribution of Judgment Funds](Chapter%20016%20-%20Distribution%20of%20Judgment%20Funds/README.md)
 - [Chapter 017 - Financing Economic Development of Indians and Indian Organizations](Chapter%20017%20-%20Financing%20Economic%20Development%20of%20Indians%20and%20Indian%20Organizations/README.md)
-- [Chapter 018 - Indian Health Care](Chapter%20018%20-%20Indian%20Health%20Care/README.md)
-- [Chapter 019 - Indian Land Claims Settlements](Chapter%20019%20-%20Indian%20Land%20Claims%20Settlements/README.md)
 - [Chapter 020 - Tribally Controlled Community College Assistance](Chapter%20020%20-%20Tribally%20Controlled%20Community%20College%20Assistance/README.md)
 - [Chapter 021 - Indian Child Welfare](Chapter%20021%20-%20Indian%20Child%20Welfare/README.md)
 - [Chapter 022 - Bureau of Indian Affairs Programs](Chapter%20022%20-%20Bureau%20of%20Indian%20Affairs%20Programs/README.md)
@@ -100,3 +99,4 @@
 - [Chapter 040 - Indian Dams Safety](Chapter%20040%20-%20Indian%20Dams%20Safety/README.md)
 - [Chapter 041 - Indian Lands Open Dump Cleanup](Chapter%20041%20-%20Indian%20Lands%20Open%20Dump%20Cleanup/README.md)
 - [Chapter 042 - American Indian Trust Fund Management Reform](Chapter%20042%20-%20American%20Indian%20Trust%20Fund%20Management%20Reform/README.md)
+- [Chapter 043 - Native American Housing Assistance and Self-Determination](Chapter%20043%20-%20Native%20American%20Housing%20Assistance%20and%20Self-Determination/README.md)

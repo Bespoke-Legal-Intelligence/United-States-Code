@@ -6,7 +6,7 @@ The Secretary is authorized, in accordance with the provisions of this part, to 
 
 #### (b) Equitable distribution
 
-In awarding grants under this part, the Secretary shall assure an equitable distribution ofassistance among the States, among urban and rural areas of the United States, and among urban and rural areas of a State.
+In awarding grants under this part, the Secretary shall assure an equitable distribution of assistance among the States, among urban and rural areas of the United States, and among urban and rural areas of a State.
 
 #### (c) Grant period
 

@@ -34,7 +34,7 @@ For purposes of this subpart, the term “United States person” has the meanin
 
 #### Amendments
 
-1986—Subsec. (a). Pub. L. 99–514, §1222(a)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “For purposes of this subpart, the term ‘controlled foreign corporation’ means any foreign corporation of which more than 50 percent of the total combined voting power of all classes of stock entitled to vote is owned (within the meaning of section 958(a)),or is considered as owned by applying the rules of ownership of section 958(b), by United States shareholders on any day during the taxable year of such foreign corporation.”
+1986—Subsec. (a). Pub. L. 99–514, §1222(a)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “For purposes of this subpart, the term ‘controlled foreign corporation’ means any foreign corporation of which more than 50 percent of the total combined voting power of all classes of stock entitled to vote is owned (within the meaning of section 958(a)), or is considered as owned by applying the rules of ownership of section 958(b), by United States shareholders on any day during the taxable year of such foreign corporation.”
 
 Subsec. (b). Pub. L. 99–514, §1222(a)(2), inserted “(or more than 25 percent of the total value of stock)”.
 
@@ -72,5 +72,5 @@ Amendment by section 1273(a) of Pub. L. 99–514 applicable to taxable years beg
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 312, 864, 881, 883, 901, 904, 936, 951, 953, 958, 970, 971, 1248, 1291, 1293, 1296, 1297 of this title.
+This section is referred to in sections 312, 672, 679, 864, 877, 881, 883, 901, 904, 936, 951, 953, 958, 970, 971, 1248, 1291, 1293, 1296, 1297 of this title.
 

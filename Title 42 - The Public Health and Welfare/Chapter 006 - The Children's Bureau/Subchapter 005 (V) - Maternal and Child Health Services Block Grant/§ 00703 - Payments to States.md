@@ -42,5 +42,5 @@ Amendment by section 6502(b) of Pub. L. 101–239 applicable to appropriations f
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 704, 705 of this title.
+This section is referred to in sections 704, 705, 710 of this title.
 

@@ -34,7 +34,7 @@ The Secretary shall approve and disburse assistance under section 4143 of this t
 
 #### (6) Preference
 
-&emsp;With respect to assistance made available under section 4144 of this title, preference shall be given to eligible regional, State, andlocal intermediaries, over national nonprofit organizations.
+&emsp;With respect to assistance made available under section 4144 of this title, preference shall be given to eligible regional, State, and local intermediaries, over national nonprofit organizations.
 
 #### (c) Conflicts of interest
 

@@ -46,9 +46,9 @@
 
 (f) This section shall be administered under regulations prescribed by the Secretary of Defense for the armed forces under his jurisdiction, and by the Secretary of Transportation with respect to the Coast Guard when it is not operating as a service in the Navy.
 
-(g) No bonus shall be paid under this section with respect to any reenlistment, or voluntary extension of an active-duty enlistment, in the armed forces entered into after September 30, 1996.
+(g) No bonus shall be paid under this section with respect to any reenlistment, or voluntary extension of an active-duty enlistment, in the armed forces entered into after September 30, 1998.
 
-(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 467; Pub. L. 89–132, §3, Aug. 21, 1965, 79 Stat. 547; Pub. L. 90–623, §3(1), Oct. 22, 1968, 82 Stat. 1314; Pub. L. 93–277, §2(1), May 10, 1974, 88 Stat. 119; Pub. L. 95–57, §1, June 29, 1977, 91 Stat. 253; Pub. L. 95–485, title VIII, §802(a)(1), (b), Oct. 20, 1978, 92 Stat. 1619; Pub. L. 96–342, title VIII, §804(a), Sept. 8, 1980, 94 Stat. 1092; Pub. L. 96–579, §3(f), Dec. 23, 1980, 94 Stat. 3364; Pub. L. 97–60, title I, §117(a), Oct. 14, 1981, 95 Stat. 996; Pub. L. 97–276, title I, §131, Oct. 2, 1982, 96 Stat. 1197; Pub. L. 97–377, title I, §101(c) \[title VII, §798\], Dec. 21, 1982, 96 Stat. 1833, 1865; Pub. L. 98–14, §1, Mar. 30, 1983, 97 Stat. 55; Pub. L. 98–525, title VI, §621, Oct. 19, 1984, 98 Stat. 2540; Pub. L. 99–145, title VI, §631(a), Nov. 8, 1985, 99 Stat. 643; Pub. L. 100–180, div. A, title VI, §§625(a), 626(a), Dec. 4, 1987, 101 Stat. 1104; Pub. L. 101–189, div. A, title VI, §611(a), Nov. 29, 1989, 103 Stat. 1445; Pub. L. 101–510, div. A, title VI, §615(a), Nov. 5, 1990, 104 Stat. 1578; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–484, div. A, title VI, §612(a), Oct. 23, 1992, 106 Stat. 2421; Pub. L. 103–160, div. A, title VI, §613(b), Nov. 30, 1993, 107 Stat. 1681; Pub. L. 103–337, div. A, title VI, §613(b), Oct. 5, 1994, 108 Stat. 2783.)
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 467; Pub. L. 89–132, §3, Aug. 21, 1965, 79 Stat. 547; Pub. L. 90–623, §3(1), Oct. 22, 1968, 82 Stat. 1314; Pub. L. 93–277, §2(1), May 10, 1974, 88 Stat. 119; Pub. L. 95–57, §1, June 29, 1977, 91 Stat. 253; Pub. L. 95–485, title VIII, §802(a)(1), (b), Oct. 20, 1978, 92 Stat. 1619; Pub. L. 96–342, title VIII, §804(a), Sept. 8, 1980, 94 Stat. 1092; Pub. L. 96–579, §3(f), Dec. 23, 1980, 94 Stat. 3364; Pub. L. 97–60, title I, §117(a), Oct. 14, 1981, 95 Stat. 996; Pub. L. 97–276, title I, §131, Oct. 2, 1982, 96 Stat. 1197; Pub. L. 97–377, title I, §101(c) \[title VII, §798\], Dec. 21, 1982, 96 Stat. 1833, 1865; Pub. L. 98–14, §1, Mar. 30, 1983, 97 Stat. 55; Pub. L. 98–525, title VI, §621, Oct. 19, 1984, 98 Stat. 2540; Pub. L. 99–145, title VI, §631(a), Nov. 8, 1985, 99 Stat. 643; Pub. L. 100–180, div. A, title VI, §§625(a), 626(a), Dec. 4, 1987, 101 Stat. 1104; Pub. L. 101–189, div. A, title VI, §611(a), Nov. 29, 1989, 103 Stat. 1445; Pub. L. 101–510, div. A, title VI, §615(a), Nov. 5, 1990, 104 Stat. 1578; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–484, div. A, title VI, §612(a), Oct. 23, 1992, 106 Stat. 2421; Pub. L. 103–160, div. A, title VI, §613(b), Nov. 30, 1993, 107 Stat. 1681; Pub. L. 103–337, div. A, title VI, §613(b), Oct. 5, 1994, 108 Stat. 2783; Pub. L. 104–106, div. A, title VI, §613(b), Feb. 10, 1996, 110 Stat. 359; Pub. L. 104–201, div. A, title VI, §613(b), Sept. 23, 1996, 110 Stat. 2544.)
 
 Historical and Revision Notes
 
@@ -59,6 +59,8 @@ Historical and Revision Notes
 <i>Source (Statutes at Large)</i>
 
 308(a)
+
+&nbsp;
 
 308(b)
 
@@ -91,6 +93,10 @@ In subsection (a), the words “reenlists . . . after . . . compulsory or vo
 In subsection (b), the words “a total of” are omitted as surplusage.
 
 #### Amendments
+
+1996—Subsec. (g). Pub. L. 104–201 substituted “September 30, 1998” for “September 30, 1997”.
+
+Pub. L. 104–106 substituted “September 30, 1997” for “September 30, 1996”.
 
 1994—Subsec. (g). Pub. L. 103–337 substituted “September 30, 1996” for “September 30, 1995”.
 
@@ -218,7 +224,7 @@ Pub. L. 99–661, div. A, title VI, §663(a), Nov. 14, 1986, 100 Stat. 3894, pro
 
 #### Optional Choice of Reenlistment Bonus
 
-Section 3 of Pub. L. 93–277 provided that: “Notwithstanding section 308 of title 37, United States Code, asamended by this Act, a member of a uniformed service on active duty on the effective date of this Act, who would have been eligible, at the end of his current or subsequent enlistment, for the reenlistment bonus prescribed in section 308(a) or (d) of that title, as it existed on the day before the effective date of this Act, shall continue to be eligible for the reenlistment bonus under that section as it existed on the day before the effective date of this act. If a member is also eligible for the reenlistment bonus prescribed in that section as amended by this Act, he may elect to receive either one of those reenlistment bonuses. However, a member's eligibility under section 308(a) or (d) of that title, as it existed on the day before the effective date of this Act, terminates when he has received a total of $2,000 in reenlistment bonus payments, received under either section 308(a) or (d) of that title as it existed on the day before the effective date of this Act, or under section 308 of that title, as amended by this Act, or from a combination of both.”
+Section 3 of Pub. L. 93–277 provided that: “Notwithstanding section 308 of title 37, United States Code, as amended by this Act, a member of a uniformed service on active duty on the effective date of this Act, who would have been eligible, at the end of his current or subsequent enlistment, for the reenlistment bonus prescribed in section 308(a) or (d) of that title, as it existed on the day before the effective date of this Act, shall continue to be eligible for the reenlistment bonus under that section as it existed on the day before the effective date of this act. If a member is also eligible for the reenlistment bonus prescribed in that section as amended by this Act, he may elect to receive either one of those reenlistment bonuses. However, a member's eligibility under section 308(a) or (d) of that title, as it existed on the day before the effective date of this Act, terminates when he has received a total of $2,000 in reenlistment bonus payments, received under either section 308(a) or (d) of that title as it existed on the day before the effective date of this Act, or under section 308 of that title, as amended by this Act, or from a combination of both.”
 
 #### Section Referred to in Other Sections
 

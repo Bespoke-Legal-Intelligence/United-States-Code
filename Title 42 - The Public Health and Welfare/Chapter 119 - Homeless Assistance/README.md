@@ -54,7 +54,7 @@ Limitation.
 
 |  |  |
 | :--- | ---: |
-| [11304\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2011304%20-%20Annual%20program%20summary%20by%20Comptroller%20General.md) | Annual program summary by Comptroller General. |
+| [11304\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2011304%20-%20Evaluation%20by%20Comptroller%20General.md) | Evaluation by Comptroller General. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -672,7 +672,7 @@ Contract requirements.
 
 (g)
 
-Applicability to Indian housing authorities.
+Repealed.
 
 (h)
 
@@ -926,7 +926,7 @@ Termination of assistance.
 
 Definitions.
 
-(<i>l)</i>
+(<i>l</i>)
 
 Authorization of appropriations.
 
@@ -1152,7 +1152,73 @@ Reports.
 
 |  |  |
 | :--- | ---: |
-| 11441 to 11447. Omitted. |  |
+| [11441\.](Subchapter%20006%20%28VI%29%20-%20Education%2C%20Training%2C%20and%20Community%20Services%20Programs/Part%20C%20-%20Job%20Training%20for%20Homeless/%C2%A7%2011441%20-%20Demonstration%20program%20authorized.md) | Demonstration program authorized. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+General authority.
+
+(b)
+
+Contract authority.
+
+|  |  |
+| :--- | ---: |
+| [11442\.](Subchapter%20006%20%28VI%29%20-%20Education%2C%20Training%2C%20and%20Community%20Services%20Programs/Part%20C%20-%20Job%20Training%20for%20Homeless/%C2%A7%2011442%20-%20State%20coordination%20with%20demonstration%20grant%20recipients.md) | State coordination with demonstration grant recipients. |
+| [11443\.](Subchapter%20006%20%28VI%29%20-%20Education%2C%20Training%2C%20and%20Community%20Services%20Programs/Part%20C%20-%20Job%20Training%20for%20Homeless/%C2%A7%2011443%20-%20Application.md) | Application. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Special consideration.
+
+|  |  |
+| :--- | ---: |
+| [11444\.](Subchapter%20006%20%28VI%29%20-%20Education%2C%20Training%2C%20and%20Community%20Services%20Programs/Part%20C%20-%20Job%20Training%20for%20Homeless/%C2%A7%2011444%20-%20Authorized%20activities.md) | Authorized activities. |
+| [11445\.](Subchapter%20006%20%28VI%29%20-%20Education%2C%20Training%2C%20and%20Community%20Services%20Programs/Part%20C%20-%20Job%20Training%20for%20Homeless/%C2%A7%2011445%20-%20Payments%3B%20Federal%20share%3B%20limitation.md) | Payments; Federal share; limitation. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Payments.
+
+(b)
+
+Federal share.
+
+(c)
+
+Limitation.
+
+|  |  |
+| :--- | ---: |
+| [11446\.](Subchapter%20006%20%28VI%29%20-%20Education%2C%20Training%2C%20and%20Community%20Services%20Programs/Part%20C%20-%20Job%20Training%20for%20Homeless/%C2%A7%2011446%20-%20Evaluation.md) | Evaluation. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Demonstration project responsibility.
+
+(b)
+
+Contents of evaluations.
+
+(c)
+
+Evaluation by Interagency Council.
+
+|  |  |
+| :--- | ---: |
+| [11447\.](Subchapter%20006%20%28VI%29%20-%20Education%2C%20Training%2C%20and%20Community%20Services%20Programs/Part%20C%20-%20Job%20Training%20for%20Homeless/%C2%A7%2011447%20-%20Definitions.md) | Definitions. |
 | [11448\.](Subchapter%20006%20%28VI%29%20-%20Education%2C%20Training%2C%20and%20Community%20Services%20Programs/Part%20C%20-%20Job%20Training%20for%20Homeless/%C2%A7%2011448%20-%20Homeless%20veterans%E2%80%99%20reintegration%20projects.md) | Homeless veterans’ reintegration projects. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -1177,9 +1243,27 @@ Administration through Assistant Secretary of Labor for Veterans’ Employment a
 
 Authorization of appropriations.
 
-|  |
-| :--- |
-| 11449, 11450. Omitted. |
+|  |  |
+| :--- | ---: |
+| [11449\.](Subchapter%20006%20%28VI%29%20-%20Education%2C%20Training%2C%20and%20Community%20Services%20Programs/Part%20C%20-%20Job%20Training%20for%20Homeless/%C2%A7%2011449%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Authorization of appropriations.
+
+(b)
+
+Ratable reduction.
+
+(c)
+
+Special rule.
+
+|  |  |
+| :--- | ---: |
+| [11450\.](Subchapter%20006%20%28VI%29%20-%20Education%2C%20Training%2C%20and%20Community%20Services%20Programs/Part%20C%20-%20Job%20Training%20for%20Homeless/%C2%A7%2011450%20-%20Termination.md) | Termination. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1277,125 +1361,13 @@ In general.
 
 |  |  |
 | :--- | ---: |
-| [11481\.](Subchapter%20006%20%28VI%29%20-%20Education%2C%20Training%2C%20and%20Community%20Services%20Programs/Part%20F%20-%20Family%20Support%20Centers/%C2%A7%2011481%20-%20Definitions.md) | Definitions. |
-| [11482\.](Subchapter%20006%20%28VI%29%20-%20Education%2C%20Training%2C%20and%20Community%20Services%20Programs/Part%20F%20-%20Family%20Support%20Centers/%C2%A7%2011482%20-%20General%20grants%20for%20provision%20of%20services.md) | General grants for provision of services. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-(a)
-
-Authority.
-
-(b)
-
-Gateway programs.
-
-(c)
-
-Agreements with eligible entities.
-
-(d)
-
-Considerations by Secretary.
-
-(e)
-
-Requirements.
-
-(f)
-
-Administrative provisions.
-
-(g)
-
-Family support centers.
-
-|  |  |
-| :--- | ---: |
-| [11483\.](Subchapter%20006%20%28VI%29%20-%20Education%2C%20Training%2C%20and%20Community%20Services%20Programs/Part%20F%20-%20Family%20Support%20Centers/%C2%A7%2011483%20-%20Training%20and%20retention.md) | Training and retention. |
-| [11484\.](Subchapter%20006%20%28VI%29%20-%20Education%2C%20Training%2C%20and%20Community%20Services%20Programs/Part%20F%20-%20Family%20Support%20Centers/%C2%A7%2011484%20-%20Family%20case%20managers.md) | Family case managers. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-(a)
-
-Requirement.
-
-(b)
-
-Needs assessment.
-
-(c)
-
-Continuing functions.
-
-(d)
-
-Limitation.
-
-|  |  |
-| :--- | ---: |
-| [11485\.](Subchapter%20006%20%28VI%29%20-%20Education%2C%20Training%2C%20and%20Community%20Services%20Programs/Part%20F%20-%20Family%20Support%20Centers/%C2%A7%2011485%20-%20Gateway%20programs.md) | Gateway programs. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-(a)
-
-In general.
-
-(b)
-
-Selection of grant recipients.
-
-(c)
-
-Individuals eligible for services.
-
-(d)
-
-Priority.
-
-(e)
-
-Mandatory services.
-
-(f)
-
-Permissive services.
-
-|  |  |
-| :--- | ---: |
-| [11486\.](Subchapter%20006%20%28VI%29%20-%20Education%2C%20Training%2C%20and%20Community%20Services%20Programs/Part%20F%20-%20Family%20Support%20Centers/%C2%A7%2011486%20-%20Evaluation.md) | Evaluation. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-(a)
-
-In general.
-
-(b)
-
-Matter to be evaluated.
-
-(c)
-
-Information.
-
-(d)
-
-Results.
-
-|  |  |
-| :--- | ---: |
-| [11487\.](Subchapter%20006%20%28VI%29%20-%20Education%2C%20Training%2C%20and%20Community%20Services%20Programs/Part%20F%20-%20Family%20Support%20Centers/%C2%A7%2011487%20-%20Report.md) | Report. |
-| [11488\.](Subchapter%20006%20%28VI%29%20-%20Education%2C%20Training%2C%20and%20Community%20Services%20Programs/Part%20F%20-%20Family%20Support%20Centers/%C2%A7%2011488%20-%20Construction.md) | Construction. |
-| [11489\.](Subchapter%20006%20%28VI%29%20-%20Education%2C%20Training%2C%20and%20Community%20Services%20Programs/Part%20F%20-%20Family%20Support%20Centers/%C2%A7%2011489%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+| 11481 to 11489. | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 12705, 12706 of this title; title 26 section 42; title 29 sections 1533, 1605, 1645.
+This chapter is referred to in sections 12705, 12706 of this title; title 14 section 685; title 26 section 42; title 29 sections 1533, 1605, 1645.
 
 
 ---

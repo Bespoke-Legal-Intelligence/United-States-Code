@@ -2,7 +2,7 @@
 
 (a)
 
-Evaluation of Existing Laws.—In consultation with affected parties, the Secretary of Transportation shall evaluate and review current local, State, and Federal laws regarding trespassing on railroad property and vandalism affecting railroad safety, and develop model prevention strategies and enforcement laws to be used for the consideration of State and local legislatures and governmental entities. The first such evaluation and review shall be completed within 1 year after the date of enactment of the Federal Railroad Safety Authorization Act of 1994. The Secretary shall revise such model prevention strategies and enforcement codes periodically.
+Evaluation of Existing Laws.—In consultation with affected parties, the Secretary of Transportation shall evaluate and review current local, State, and Federal laws regarding trespassing on railroad property and vandalism affecting railroad safety, and develop model prevention strategies and enforcement laws to be used for the consideration of State and local legislatures and governmental entities. The first such evaluation and review shall be completed within 1 year after November 2, 1994. The Secretary shall revise such model prevention strategies and enforcement codes periodically.
 
 (b)
 
@@ -10,15 +10,15 @@ Outreach Program.—The Secretary shall develop and maintain a comprehensive out
 
 (c)
 
-Model Legislation.—Within 18 months after the date of enactment of the Federal Railroad Safety Authorization Act of 1994, the Secretary, after consultation with State and local governments and railroad carriers, shall develop and make available to State and local governments model State legislation providing for—
+Model Legislation.—Within 18 months after November 2, 1994, the Secretary, after consultation with State and local governments and railroad carriers, shall develop and make available to State and local governments model State legislation providing for—
 
 &emsp;(1) civil or criminal penalties, or both, for vandalism of railroad equipment or property which could affect the safety of the public or of railroad employees; and
 
 &emsp;(2) civil or criminal penalties, or both, for trespassing on a railroad owned or leased right-of-way.
 
-(Added Pub. L. 103–440, title II, §219(a), Nov. 2, 1994, 108 Stat. 4625.)
+(Added Pub. L. 103–440, title II, §219(a), Nov. 2, 1994, 108 Stat. 4625; amended Pub. L. 104–287, §5(49), Oct. 11, 1996, 110 Stat. 3393.)
 
-#### References in Text
+#### Amendments
 
-The date of enactment of the Federal Railroad Safety Authorization Act of 1994, referred to in subsecs. (a) and (c), is the date of enactment of Pub. L. 103–440, which was approved Nov. 2, 1994.
+1996—Subsecs. (a), (c). Pub. L. 104–287 substituted “November 2, 1994” for “the date of enactment of the Federal Railroad Safety Authorization Act of 1994”.
 

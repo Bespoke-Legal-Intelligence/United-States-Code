@@ -22,5 +22,5 @@ Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 o
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 12731 of this title.
+This section is referred to in sections 1209, 12731 of this title.
 

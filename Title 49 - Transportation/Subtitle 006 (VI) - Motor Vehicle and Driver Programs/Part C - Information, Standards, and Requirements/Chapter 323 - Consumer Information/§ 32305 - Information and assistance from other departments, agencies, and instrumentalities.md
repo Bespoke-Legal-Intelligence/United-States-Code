@@ -12,7 +12,9 @@ Detailing Personnel.—The head of a department, agency, or instrumentality may 
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

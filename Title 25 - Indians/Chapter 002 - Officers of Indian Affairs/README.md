@@ -21,7 +21,7 @@
 | [47\.](%C2%A7%2000047%20-%20Employment%20of%20Indian%20labor%20and%20purchase%20of%20products%20of%20Indian%20industry%3B%20participation%20in%20Mentor-Protege%20Program.md) | Employment of Indian labor and purchase of products of Indian industry; participation in Mentor-Protege Program. |
 | [47a.](%C2%A7%2000047a%20-%20Security%20required%20by%20Secretary%3B%20contracts%20with%20Indian-owned%20economic%20enterprise%3B%20public%20work.md) | Security required by Secretary; contracts with Indian-owned economic enterprise; public work. |
 | [48\.](%C2%A7%2000048%20-%20Right%20of%20tribes%20to%20direct%20employment%20of%20persons%20engaged%20for%20them.md) | Right of tribes to direct employment of persons engaged for them. |
-| 49 to 52a. Repealed. |  |
+| 49 to 52a. | Repealed. |
 | [53\.](%C2%A7%2000053%20-%20Disbursing%20officers%3B%20acting%20clerks.md) | Disbursing officers; acting clerks. |
 | 54, 55. | Repealed. |
 | [56\.](%C2%A7%2000056%20-%20Quarters%2C%20fuel%2C%20and%20light%20for%20employees.md) | Quarters, fuel, and light for employees. |
@@ -35,7 +35,7 @@
 | [64\.](%C2%A7%2000064%20-%20Services%20of%20agents%20dispensed%20with.md) | Services of agents dispensed with. |
 | [65\.](%C2%A7%2000065%20-%20Discontinuance%20of%20agents%2C%20subagents%2C%20and%20interpreters.md) | Discontinuance of agents, subagents, and interpreters. |
 | [66\.](%C2%A7%2000066%20-%20Duties%20of%20agency%20devolved%20on%20superintendent%20of%20Indian%20school.md) | Duties of agency devolved on superintendent of Indian school. |
-| 67 to 68a. Repealed. |  |
+| 67 to 68a. | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

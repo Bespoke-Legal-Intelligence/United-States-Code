@@ -1,14 +1,14 @@
 ### §2203. Advisory committees
 
-The members of the General Advisory Committee established pursuant to section 2036 <sup>1</sup> of this title and the members of advisory boards established pursuant to section 2201(a) of this title may serve as such without regard to the provisions of sections 281, 283, or 284 <sup>1</sup> of title 18, except insofar as such sections may prohibit any such member from receiving compensation from a source other than a nonprofit educational institution in respect of any particular matter which directly involves the Commission or in which the Commission is directly interested.
+The members of the General Advisory Committee established pursuant to section 2036 <sup>1</sup> of this title and the members of advisory boards established pursuant to section 2201(a) of thistitle may serve as such without regard to the provisions of sections 281, 283, or 284 <sup>1</sup> of title 18, except insofar as such sections may prohibit any such member from receiving compensation from a source other than a nonprofit educational institution in respect of any particular matter which directly involves the Commission or in which the Commission is directly interested.
 
-(Aug. 1, 1946, ch. 724, title I, §163, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 951; amended Sept.21, 1959, Pub. L. 86–300, §2, 73 Stat. 574; renumbered title I, Oct. 24, 1992, Pub. L. 102–486, title IX, §902(a)(8), 106 Stat. 2944.)
+(Aug. 1, 1946, ch. 724, title I, §163, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 951; amended Sept. 21, 1959, Pub. L. 86–300, §2, 73 Stat. 574; renumbered title I, Oct. 24, 1992, Pub. L. 102–486, title IX, §902(a)(8), 106 Stat. 2944.)
 
 #### References in Text
 
 Section 2036 of this title, referred to in text, was repealed by Pub. L. 95–91, title VII, §709(c)(1), Aug. 4, 1977, 91 Stat. 608.
 
-Sections 281, 283, and 284 of title 18, referred to in text, were repealed by Pub. L. 87–849, §2, Oct. 23, 1962, 76 Stat. 1126, except as sections 281 and 283 apply to retired officers of the Armed Forces of the United States, and were supplanted by sections 203, 205, and 207, respectively, of Title 18, Crimes and Criminal Procedures. For further details, see “Exemptions” note set out under section 281 of Title 18.
+Sections 281, 283, and 284 of title 18, referred to in text, were repealed by Pub. L. 87–849, §2, Oct. 23, 1962, 76 Stat. 1126, except as sections 281 and 283 apply to retired officers of the Armed Forces of the United States, and were supplanted by sections 203, 205, and 207, respectively, of Title 18, Crimes and Criminal Procedures. For further details, see “Exemptions” note set out under section 203 of Title 18.
 
 #### Prior Provisions
 

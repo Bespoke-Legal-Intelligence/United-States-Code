@@ -16,6 +16,8 @@
 
 This part is referred to in section 12 of this title.
 
+<i><sup>1</sup></i><i> So in original. Probably should be “manner”.</i>
+
 
 ---
 

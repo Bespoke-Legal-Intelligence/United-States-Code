@@ -4,7 +4,7 @@
 
 (b) No grant for the establishment of an endowment fund by a tribally controlled community college shall be made unless such college enters into an agreement with the Secretary which—
 
-&emsp;(1) provides for the investment and maintenance of a trust fund, the corpus and earnings of which shall be invested in the same manner as funds are invested under paragraph (2) of section 1065(c) of title 20, except that for purposes of this paragraph, the term “trust fund” means a fund established by an institution of higher education or by a foundation that is exempt from taxation and is maintained for the purpose of generating income for the support of the institution, and may include real estate;
+&emsp;(1) provides for the investment and maintenance of a trust fund, the corpus and earningsof which shall be invested in the same manner as funds are invested under paragraph (2) of section 1065(c) of title 20, except that for purposes of this paragraph, the term “trust fund” means a fund established by an institution of higher education or by a foundation that is exempt from taxation and is maintained for the purpose of generating income for the support of the institution, and may include real estate;
 
 &emsp;(2) provides for the deposit in such trust fund of—
 

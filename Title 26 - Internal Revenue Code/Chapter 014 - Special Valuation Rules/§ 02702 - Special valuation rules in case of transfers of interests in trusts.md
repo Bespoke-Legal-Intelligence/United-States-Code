@@ -22,13 +22,15 @@
 
 &emsp;&emsp;This subsection shall not apply to any transfer—
 
-&emsp;&emsp;&emsp;(i) to the extent such transfer is an incomplete transfer, or
+&emsp;&emsp;&emsp;(i) if such transfer is an incomplete gift,
 
-&emsp;&emsp;&emsp;(ii) if such transfer involves the transfer of an interest in trust all the property in which consists of a residence to be used as a personal residence by persons holding term interests in such trust.
+&emsp;&emsp;&emsp;(ii) if such transfer involves the transfer of an interest in trust all the property inwhich consists of a residence to be used as a personal residence by persons holding term interests in such trust, or
 
-#### (B) Incomplete transfer
+&emsp;&emsp;&emsp;(iii) to the extent that regulations provide that such transfer is not inconsistent with the purposes of this section.
 
-&emsp;&emsp;For purposes of subparagraph (A), the term “incomplete transfer” means any transfer which would not be treated as a gift whether or not consideration was received for such transfer.
+#### (B) Incomplete gift
+
+&emsp;&emsp;For purposes of subparagraph (A), the term “incomplete gift” means any transfer which would not be treated as a gift whether or not consideration was received for such transfer.
 
 #### (b) Qualified interest
 
@@ -76,7 +78,21 @@ In the case of a transfer of an income or remainder interest with respect to a s
 
 For purposes of this section, the term “member of the family” shall have the meaning given such term by section 2704(c)(2).
 
-(Added Pub. L. 101–508, title XI, §11602(a), Nov. 5, 1990, 104 Stat. 1388–497.)
+(Added Pub. L. 101–508, title XI, §11602(a), Nov. 5, 1990, 104 Stat. 1388–497; amended Pub. L. 104–188, title I, §1702(f)(11), Aug. 20, 1996, 110 Stat. 1872.)
+
+#### Amendments
+
+1996—Subsec. (a)(3)(A)(i). Pub. L. 104–188, §1702(f)(11)(A)(i), (ii), (B)(i), substituted “if” for “to the extent” and “incomplete gift” for “incomplete transfer”, and struck out “or” at end.
+
+Subsec. (a)(3)(A)(ii). Pub. L. 104–188, §1702(f)(11)(A)(iii), substituted “, or” for period at end.
+
+Subsec. (a)(3)(A)(iii). Pub. L. 104–188, §1702(f)(11)(A)(iv), added cl. (iii).
+
+Subsec. (a)(3)(B). Pub. L. 104–188, §1702(f)(11)(B), substituted “incomplete gift” for “incomplete transfer” in heading and text.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–188 effective, except as otherwise expressly provided, as if included in the provision of the Revenue Reconciliation Act of 1990, Pub. L. 101–508, title XI, to which such amendment relates, see section 1702(i) of Pub. L. 104–188, set out as a note under section 38 of this title.
 
 #### Section Referred to in Other Sections
 

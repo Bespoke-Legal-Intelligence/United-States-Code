@@ -30,7 +30,9 @@ Historical and Revision Notes
 
 Pub. L. 103–272
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -50,7 +52,7 @@ Oct. 15, 1966, Pub. L. 89–670, 80 Stat. 931, §4(i)(5); added Oct. 28, 1974, P
 
 49 App.:1653(i)(5) (3d, last sentences).
 
-In subsection (a), before clause (1), the word “authority” is substituted for “entity” for consistency in the revised title. The words “in accordance with regulations” are omitted as unnecessary because of 49:322(a). In clause (1), the words “as well as requirements . . . under this subsection” are omitted as unnecessary because of the restatement. In clause (2), the words “into an intermodal transportation terminal, a civic or cultural center, or both” are omitted as unnecessary. In clause (3), the word “prescribed” is substituted for “establishes” as being more appropriate.
+In subsection (a), before clause (1), the word “authority” is substituted for “entity” for consistency in the revised title. The words “in accordance with regulations” are omitted as unnecessary because of 49:322(a). In clause (1), the words “as well as requirements . . . under this subsection” are omitted as unnecessary because of the restatement. In clause (2), the words “into an intermodal transportation terminal, a civic or cultural center, or both” are omitted as unnecessary. Inclause (3), the word “prescribed” is substituted for “establishes” as being more appropriate.
 
 In subsection (b), the words “carried out” are substituted for “implemented and effectuated” for consistency in the revised title.
 

@@ -12,7 +12,7 @@ The functions of the magistrate judge shall include the trial and sentencing of 
 
 1984—Pub. L. 98–473, §222(a), substituted “magistrate” for “commissioner” wherever appearing in first par.
 
-Pub. L. 98–473, §222(b), substituted provisions relating to trial and sentencing of persons charged with misdemeanors and infractions as defined in section 3581 of title 18, for provisions relating to trial and sentencing of persons committing petty offenses as defined in title 18, section 1, and right of election of such persons to be tried in the district court of the United States.
+Pub. L. 98–473, §222(b), substituted provisions relating to trial and sentencing of persons charged with misdemeanors and infractions as defined in section 3581 oftitle 18, for provisions relating to trial and sentencing of persons committing petty offenses as defined in title 18, section 1, and right of election of such persons to be tried in the district court of the United States.
 
 #### Change of Name
 
@@ -24,5 +24,5 @@ Amendment by Pub. L. 100–702 effective Dec. 1, 1988, see section 407 of Pub. L
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–473 effective Nov. 1, 1987, and applicable only to offenses committed after thetaking effect of such amendment, see section 235(a)(1) of Pub. L. 98–473, set out as an Effective Date note under section 3551 of Title 18, Crimes and Criminal Procedure.
+Amendment by Pub. L. 98–473 effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of such amendment, see section 235(a)(1) of Pub. L. 98–473, set out as an Effective Date note under section 3551 of Title 18, Crimes and Criminal Procedure.
 

@@ -154,7 +154,7 @@ The President, in his discretion, may enter into an agreement with any person (i
 
 #### (3) Requirement that remedial action be completed
 
-&emsp;A covenant not to sue concerning future liability to the United States shall not take effect until the President certifies that remedial action has been completed in accordance withthe requirements of this chapter at the facility that is the subject of such covenant.
+&emsp;A covenant not to sue concerning future liability to the United States shall not take effect until the President certifies that remedial action has been completed in accordance with the requirements of this chapter at the facility that is the subject of such covenant.
 
 #### (4) Factors
 

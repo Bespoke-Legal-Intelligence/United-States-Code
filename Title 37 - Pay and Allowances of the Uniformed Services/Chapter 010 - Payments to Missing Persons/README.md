@@ -26,7 +26,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in title 10 sections 1482, 1524; title 18 section 1923; title 38 section 107.
+This chapter is referred to in title 10 sections 1482, 1511, 1524; title 18 section 1923; title 38 section 107.
 
 
 ---

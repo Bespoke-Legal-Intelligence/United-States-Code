@@ -24,5 +24,5 @@ Section effective July 26, 1990, see section 205(b) of Pub. L. 101–336, set ou
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 12209 of this title; title 2 section 1331.
+This section is referred to in section 12209 of this title; title 2 section 1331; title 3 section 421.
 

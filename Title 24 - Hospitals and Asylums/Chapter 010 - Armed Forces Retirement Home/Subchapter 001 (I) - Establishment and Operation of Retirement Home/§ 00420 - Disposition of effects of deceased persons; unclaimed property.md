@@ -24,7 +24,7 @@ The Director of each facility that is maintained as a separate establishment of 
 
 (B) Upon the sale of any such unclaimed estate property, the proceeds of the sale shall be deposited in the Retirement Home Trust Fund.
 
-(C) If a personal representative or other fiduciary is appointed to administer a deceased resident's estate and the administration is completed before the end of such three-year period, the balance of the entire net proceeds of the estate, less expenses, shall be deposited directly in the Retirement Home Trust Fund. The heirs or legatees of the deceased resident may file a claim made with the Comptroller General of the United States to reclaim such proceeds. A determination of the claim by the Comptroller General shall be subject to judicial review exclusively by the United States Court of Federal Claims.
+(C) If a personal representative or other fiduciary is appointed to administer a deceased resident's estate and the administration is completed before the end of such three-year period, the balance of the entire net proceeds of the estate, less expenses, shall be deposited directly in the Retirement Home Trust Fund. The heirs or legatees of the deceased resident may file a claim made with the Secretary of Defense to reclaim such proceeds. A determination of the claim by the Secretary shall be subject to judicial review exclusively by the United States Court of Federal Claims.
 
 (2)(A) The Director of a facility maintained as a separate establishment of the Retirement Home may designate an attorney to serve as attorney or agent for the facility in any probate proceeding in which the Retirement Home may have a legal interest as nominated fiduciary, testamentary legatee, escheat legatee, or in any other capacity.
 
@@ -32,7 +32,7 @@ The Director of each facility that is maintained as a separate establishment of 
 
 (3) The designation of an employee or representative of a facility of the Retirement Home as personal representative of the estate of a resident of the Retirement Home or as a legatee under the will or codicil of the resident shall not disqualify an employee or staff member of that facility from serving as a competent witness to a will or codicil of the resident.
 
-(4) After the end of the three-year period beginning on the date of the death of a resident of a facility, the Director of the facility shall dispose of all property of the deceased resident that is not otherwise disposed of under this subsection, including personal effects such as decorations, medals, and citations to which a right has not been established under subsection (a) of this section. Disposal may be made within the discretion of the Director by—
+(4) After the end of the three-year period beginning on the date of the death of a resident of a facility, the Director of the facility shall dispose of all property of the deceased resident that is not otherwise disposed of under this subsection, including personal effects such as decorations, medals, and citations to which a right has not been established under subsection (a) ofthis section. Disposal may be made within the discretion of the Director by—
 
 &emsp;(A) retaining such property or effects for the facility;
 
@@ -46,19 +46,23 @@ The net proceeds received by the Directors from the sale of effects under subsec
 
 #### (d) Subsequent claim
 
-(1) A claim for the net proceeds of the sale under subsection (b) of this section of the effects of a deceased may be filed with the Comptroller General of the United States at any time within six years after the death of the deceased, for action under section 2771 of title 10.
+(1) A claim for the net proceeds of the sale under subsection (b) of this section of the effects of a deceased may be filed with the Secretary of Defense at any time within six years after the death of the deceased, for action under section 2771 of title 10.
 
-(2) A claim referred to in paragraph (1) may not be considered by a court or the Comptroller General unless the claim is filed within the time period prescribed in such paragraph.
+(2) A claim referred to in paragraph (1) may not be considered by a court or the Secretary unless the claim is filed within the time period prescribed in such paragraph.
 
-(3) A claim allowed by the Comptroller General under paragraph (1) shall be certified to the Secretary of the Treasury for payment from the Fund in the amount found due, including any interest relating to the amount. No claim may be allowed or paid in excess of the net proceeds of the estate deposited in the Fund under subsection (c) of this section plus interest.
+(3) A claim allowed by the Secretary under paragraph (1) shall be certified to the Secretary of the Treasury for payment from the Fund in the amount found due, including any interest relating to the amount. No claim may be allowed or paid in excess of the net proceeds of the estate deposited in the Fund under subsection (c) of this section plus interest.
 
 #### (e) Unclaimed property
 
 In the case of property delivered to the Retirement Home under section 2575 of title 10, the Directors shall deliver the property to the owner, the heirs or next of kin of the owner, or the legal representative of the owner, if a right to the property is established to the satisfaction of the Directors within two years after the delivery.
 
-(Pub. L. 101–510, div. A, title XV, §1520, Nov. 5, 1990, 104 Stat. 1731; Pub. L. 103–160, div. A, title III, §366(d), (e), Nov. 30, 1993, 107 Stat. 1631.)
+(Pub. L. 101–510, div. A, title XV, §1520, Nov. 5, 1990, 104 Stat. 1731; Pub. L. 103–160, div. A, title III, §366(d), (e), Nov. 30, 1993, 107 Stat. 1631; Pub. L. 104–316, title II, §202(j), Oct. 19, 1996, 110 Stat. 3843.)
 
 #### Amendments
+
+1996—Subsec. (b)(1)(C). Pub. L. 104–316, §202(j)(1), substituted “Secretary of Defense” for “Comptroller General of the United States” and “Secretary” for “Comptroller General”.
+
+Subsec. (d). Pub. L. 104–316, §202(j)(2), substituted “Secretary of Defense” for “Comptroller General of the United States” in par. (1), “Secretary” for “Comptroller General” in par. (2), and “allowed by the Secretary” for “allowed by the Comptroller General” in par. (3).
 
 1993—Subsec. (a). Pub. L. 103–160, §366(d), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “The Directors of the establishments of the Retirement Home shall safeguard and dispose of the effects of a deceased person delivered to the Retirement Home under section 4712(f) or 9712(f) of title 10 and the estate and effects of a deceased resident of the Armed Forces Retirement Home as follows:
 
@@ -93,8 +97,4 @@ Subsec. (b). Pub. L. 103–160, §366(e), amended heading and text of subsec. (b
 #### Effective Date
 
 Section applicable to estate of each resident of Armed Forces Retirement Home, including United States Soldiers’ and Airmen's Home and Naval Home, who dies after Nov. 29, 1989, see section 1541(d) of Pub. L. 101–510, set out as a note under section 401 of this title.
-
-#### Transfer of Functions
-
-Functions of Comptroller General under this section transferred, effective June 30, 1996, to Director of Office of Management and Budget, see section 211 of Pub. L. 104–53, set out as a note under section 501 of Title 31, Money and Finance.
 

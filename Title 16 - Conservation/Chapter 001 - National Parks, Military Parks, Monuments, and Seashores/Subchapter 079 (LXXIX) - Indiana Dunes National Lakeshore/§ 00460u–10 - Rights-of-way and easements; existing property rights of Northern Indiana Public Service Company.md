@@ -6,7 +6,7 @@ Nothing in this subchapter shall diminish any existing (as of March 1, 1975) rig
 
 &emsp;(2) land owned in fee by the Northern Indiana Public Service Company and used for high voltage electrical transmission lines, pipelines, and utility purposes as has by this subchapter been included within the boundaries of the Indiana Dunes National Lakeshore and herein designated as area II–H on said National Park Service Boundary Map No. 626–80,033–B.
 
-(Pub. L. 89–761, §10, formerly §11, as added and renumbered Pub. L. 94–549, §1(8), (9), Oct. 18, 1976, 90 Stat. 2530, 2533; amended Pub. L. 99–583, §1(e), Oct. 29, 1986, 100 Stat. 3319.)
+(Pub. L. 89–761, §10, formerly §11, as added and renumbered Pub. L. 94–549, §1(8), (9), Oct. 18,1976, 90 Stat. 2530, 2533; amended Pub. L. 99–583, §1(e), Oct. 29, 1986, 100 Stat. 3319.)
 
 #### Prior Provisions
 

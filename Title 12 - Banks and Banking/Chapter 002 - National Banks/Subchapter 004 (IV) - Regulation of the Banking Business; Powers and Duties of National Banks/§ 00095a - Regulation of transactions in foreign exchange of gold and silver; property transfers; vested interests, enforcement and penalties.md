@@ -30,7 +30,7 @@ Words “, including the Philippine Islands, and the several courts of first in
 
 1977—Par. (1). Pub. L. 95–223, §§101(a), 102, substituted “During the time of war, the President may, through any agency that he may designate, and under such rules and regulations” for “During the time of war or during any other period of national emergency declared by the President, the President may, through any agency, that he may designate, or otherwise, and under such rules and regulations” in the provisions preceding subpar. (A), and, in the provisions following subpar. (B), struck out “; and the President may, in the manner hereinabove provided, take other and further measures not inconsistent herewith for the enforcement of the subdivision” after “control of such person”.
 
-Par. (3). Pub. L. 95–223, §103(b), struck out provisions that whoever willfully violated any of the provisions ofthis subdivision or of any license, order, rule, or regulation issued thereunder, could be fined not more than $10,000, or, if a natural person, could be imprisoned for not more than ten years, or both; and that any officer, director, or agent of any corporation who knowingly participated in that violation could be punished by a like fine, imprisonment, or both.
+Par. (3). Pub. L. 95–223, §103(b), struck out provisions that whoever willfully violated any of the provisions of this subdivision or of any license, order, rule, or regulation issued thereunder, could be fined not more than $10,000, or, if a natural person, could be imprisoned for not more than ten years, or both; and that any officer, director, or agent of any corporation who knowingly participated in that violation could be punished by a like fine, imprisonment, or both.
 
 1941—Act Dec. 18, 1941, broadened the powers of the President to take, administer, control, use and liquidate foreign-owned property and added a flexibility of control which enabled the President and the agencies designated by him to cope with the problems surrounding alien property, its ownership or control, on the basis of the particular facts in each case.
 
@@ -62,7 +62,7 @@ Section 101(b), (c) of Pub. L. 95–223 provided that:
 
 “(b) Notwithstanding the amendment made by subsection (a) \[amending par. (1) of this section\], the authorities conferred upon the President by section 5(b) of the Trading With the Enemy Act \[this section\], which were being exercised with respect to a country on July 1, 1977, as a result of a national emergency declared by the President before such date, may continue to be exercised with respect to such country, except that, unless extended, the exercise of such authorities shall terminate (subject to the savings provisions of the second sentence of section 101(a) of the National Emergencies Act \[section 1601(a) of Title 50, War and National Defense\]) at the end of the two-year period beginning on the date of enactment of the National Emergencies Act \[Sept 14, 1976\]. The President may extend the exercise of such authorities for one-year periods upon a determination for each such extension that the exercise of such authorities with respect to such country for another year is in the national interest of the United States.
 
-“(c) The termination and extension provisions of subsection (b) of this section supersede the provisions of section 101(a) \[section 1601(a) of Title 50, War and National Defense\] and of title II \[section 1621 et seq. of Title 50\] of the National Emergencies Act to the extent that the provisions of subsection (b) of this section are inconsistent with those provisions.”
+“(c) The termination and extension provisions of subsection (b) of this section supersede the provisions ofsection 101(a) \[section 1601(a) of Title 50, War and National Defense\] and of title II \[section 1621 et seq. of Title 50\] of the National Emergencies Act to the extent that the provisions of subsection (b) of this section are inconsistent with those provisions.”
 
 #### Removal of Limitations and Restraints in Financing Exports
 
@@ -82,7 +82,7 @@ Ex. Ord. No. 6260, Aug. 28, 1933, as amended by Ex. Ord. No. 6359, Oct. 25, 1933
 
 #### Executive Order No. 6560
 
-Ex. Ord. No. 6560, Jan. 15, 1934, as amended by Ex. Ord. No. 8389. April 10, 1940, 6 p.m. E. S. T., 5 F.R. 1400; Ex. Ord. No. 8405, May 10, 1940, 7:55 a.m. E. S. T., 5 F.R. 1677; Ex. Ord. No. 8493, July 25, 1940, 5 F.R. 2667, formerly set out as a note under this section, which declared the existence of a national emergency and prescribed regulations for the investigation, regulation, and prohibition of transactions in foreign exchange, transfers of credit between or payments by banking institutions, and export of currency or silver coin by persons within the United States or subject to its jurisdiction, was based on authority of section 95a of this title (act Oct. 6, 1917, ch. 106, §5(b), 40 Stat. 415, comprising part of the Trading With the Enemy Act) which wasamended in 1977 to remove the powers of the President to regulate transactions during a period of national emergency other than a war.
+Ex. Ord. No. 6560, Jan. 15, 1934, as amended by Ex. Ord. No. 8389. April 10, 1940, 6 p.m. E. S. T., 5 F.R. 1400; Ex. Ord. No. 8405, May 10, 1940, 7:55 a.m. E. S. T., 5 F.R. 1677; Ex. Ord. No. 8493, July 25, 1940, 5 F.R. 2667, formerly set out as a note under this section, which declared the existence of a national emergency and prescribed regulations for the investigation, regulation, and prohibition of transactions in foreign exchange, transfers of credit between or payments by banking institutions, and export of currency or silver coin by persons within the United States or subject to its jurisdiction, was based on authority of section 95a of this title (act Oct. 6, 1917, ch. 106, §5(b), 40 Stat. 415, comprising part of the Trading With the Enemy Act) which was amended in 1977 to remove the powers of the President to regulate transactions during a period of national emergency other than a war.
 
 #### Ex. Ord. No. 8389. Regulating Transactions in Foreign Exchange and Foreign-Owned Property, Providing for the Reporting of All Foreign-Owned Property
 
@@ -202,7 +202,7 @@ The term “foreign country designated in this Order” means a foreign country 
 
 &emsp;&emsp;&emsp;Japan;
 
-<i>(l)</i> June 14, 1941—
+(<i>l</i>) June 14, 1941—
 
 &emsp;&emsp;&emsp;Thailand;
 
@@ -214,7 +214,7 @@ The “effective date of this Order” with respect to any foreign country not d
 
 #### section 4. records of foreign banking and security transactions; investigations
 
-A. The Secretary of the Treasury and/or the Attorney General may require, by means of regulations, rulings, instructions, or otherwise, any person to keep a full record of, and to furnish under oath, in the form of reports or otherwise, from time to time and at any time or times, complete information relative to, any transaction referred to in section 5(b) of the Act of October 6, 1917 (40 Stat. 415) \[this section\], as amended, or relative to any property in which any foreign country or any national thereof has any interest of any nature whatsoever, direct or indirect, including the productionof any books of account, contracts, letters, or other papers, in connection therewith, in the custody or control of such person, either before or after such transaction is completed; and the Secretary of the Treasury and/or the Attorney General may, through any agency, investigate any such transaction or act, or any violation of the provisions of this Order.
+A. The Secretary of the Treasury and/or the Attorney General may require, by means of regulations, rulings, instructions, or otherwise, any person to keep a full record of, and to furnish under oath, in the form of reports or otherwise, from time to time and at any time or times, complete information relative to, any transaction referred to in section 5(b) of the Act of October 6, 1917 (40 Stat. 415) \[this section\], as amended, or relative to any property in which any foreign country or any national thereof has any interest of any nature whatsoever, direct or indirect, including the production of any books of account, contracts, letters, or other papers, in connection therewith, in the custody or control of such person, either before or after such transaction is completed; and the Secretary of the Treasury and/or the Attorney General may, through any agency, investigate any such transaction or act, or any violation of the provisions of this Order.
 
 B. Every person engaging in any of the transactions referred to in sections 1 and 2 of this Order shall keep a full record of each such transaction engaged in by him, regardless of whether such transaction is effected pursuant to license or otherwise, and such record shall be available for examination for at least one year after the date of such transaction.
 
@@ -258,7 +258,7 @@ Executive Order No. 8389 of April 10, 1940, as amended, shall no longer be deeme
 
 #### section 7. regulations by secretary of the treasury
 
-Without limitation as to any other powers or authority of the Secretary of the Treasury or the Attorney General under any other provision of this Order, the Secretary of the Treasury is authorized and empowered to prescribe from time to time regulations, rulings, and instructions to carry out the purposes of this Order andto provide therein or otherwise the conditions under which licenses may be granted by or through such officers or agencies as the Secretary of the Treasury may designate, and the decision of the Secretary with respect to the granting, denial or other disposition of an application or license shall be final.
+Without limitation as to any other powers or authority of the Secretary of the Treasury or the Attorney General under any other provision of this Order, the Secretary of the Treasury is authorized and empowered to prescribe from time to time regulations, rulings, and instructions to carry out the purposes of this Order and to provide therein or otherwise the conditions under which licenses may be granted by or through such officers or agencies as the Secretary of the Treasury may designate, and the decision of the Secretary with respect to the granting, denial or other disposition of an application or license shall be final.
 
 #### section 8. offenses and penalties under act oct. 6, 1917
 
@@ -296,7 +296,7 @@ Ex. Ord. No. 11387, Jan. 1, 1968, 33 F.R. 47, which prohibited transfers of capi
 
 Ex. Ord. No. 11825, Dec. 31, 1974, 40 F.R. 1003, provided:
 
-By virtue of the authority vested in me by section 1 of the Act of August 8, 1950, 64 Stat. 419, and section 5(b) of the Act of October 6, 1917, as amended (12 U.S.C. 95a) \[this section\], and as President of the United States, and in view of the provisions of section 3 of Public Law 93–110, 87 Stat. 352, as amended by section 2 of Public Law 93–373, 88 Stat. 445, \[set out as notes under section 442 of former Title 31, Money and Finance\], it is ordered as follows:
+By virtue of the authority vested in me by section 1 of the Act of August 8, 1950, 64 Stat. 419, and section 5(b) of the Act of October 6, 1917, as amended (12 U.S.C. 95a) \[this section\], and as President of the United States, and in view of the provisions of section 3 of Public Law 93–110, 87 Stat. 352, as amended by section 2 of Public Law 93–373, 88 Stat. 445, \[set out as notesunder section 442 of former Title 31, Money and Finance\], it is ordered as follows:
 
 Section 1. Executive Order No. 6260 of August 28, 1933, as amended by Executive Order No. 6359 of October 25, 1933, Executive Order No. 6556 of January 12, 1934, Executive Order No. 6560 of January 15, 1934, Executive Order No. 10896 of November 29, 1960, Executive Order No. 10905 of January 14, 1961, and Executive Order No. 11037 of July 20, 1962; the fifth and sixth paragraphs of Executive Order No. 6073, March 10, 1933 \[formerly set out as a note under section 95 of this title\]; sections 3 and 4 of Executive Order No. 6359 of October 25, 1933 \[formerly set out as a note under section 248 of this title\]; and paragraph 2(d) of Executive Order No. 10289 of September 17, 1951 \[set out as a note under section 301 of Title 3, The President\], are hereby revoked.
 

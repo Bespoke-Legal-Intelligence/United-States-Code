@@ -42,7 +42,7 @@ Subject to valid existing rights, nothing in this Act shall affect the applicabi
 
 (1) The Secretary, within sixty days after October 21, 1976, shall establish a California Desert Conservation Area Advisory Committee (hereinafter referred to as “advisory committee”) in accordance with the provisions of section 1739 of this title.
 
-(2) It shall be the function of the advisory committee to advise the Secretary with respectto the preparation and implementation of the comprehensive, long-range plan required under subsection (d) of this section.
+(2) It shall be the function of the advisory committee to advise the Secretary with respect to the preparation and implementation of the comprehensive, long-range plan required under subsection (d) of this section.
 
 #### (h) Management of lands under jurisdiction of Secretary of Agriculture and Secretary of Defense
 
@@ -60,7 +60,7 @@ There are authorized to be appropriated for fiscal years 1977 through 1981 not t
 
 #### References in Text
 
-This Act, referred to in subsecs. (c)(2) and (f), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, known as the Federal Land Policy and Management Act of 1976. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in subsecs. (c)(2) and (f), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, knownas the Federal Land Policy and Management Act of 1976. For complete classification of this Act to the Code, see Tables.
 
 The United States mining laws, referred to in subsec. (f), are classified generally to Title 30, Mineral Lands and Mining.
 

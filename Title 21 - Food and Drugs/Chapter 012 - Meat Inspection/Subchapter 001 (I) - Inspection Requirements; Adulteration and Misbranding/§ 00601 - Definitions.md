@@ -36,7 +36,7 @@ As used in this chapter, except as otherwise specified, the following terms shal
 
 &emsp;(C) if it bears or contains any food additive which is unsafe within the meaning of section 348 of this title,
 
-&emsp;(D) if it bears or contains any color additive which is unsafe within the meaning of section379e of this title: <i>Provided</i>, That an article which is not adulterated under clause (B), (C), or (D) shall nevertheless be deemed adulterated if use of the pesticide chemical, food additive, or color additive in or on such article is prohibited by regulations of the Secretary in establishments at which inspection is maintained under this subchapter;
+&emsp;(D) if it bears or contains any color additive which is unsafe within the meaning of section 379e of this title: <i>Provided</i>, That an article which is not adulterated under clause (B), (C), or (D) shall nevertheless be deemed adulterated if use of the pesticide chemical, food additive, or color additive in or on such article is prohibited by regulations of the Secretary in establishments at which inspection is maintained under this subchapter;
 
 &emsp;(3) if it consists in whole or in part of any filthy, putrid, or decomposed substance or is for any other reason unsound, unhealthful, unwholesome, or otherwise unfit for human food;
 
@@ -82,7 +82,7 @@ As used in this chapter, except as otherwise specified, the following terms shal
 
 (p) The term “labeling” means all labels and other written, printed, or graphic matter (1) upon any article or any of its containers or wrappers, or (2) accompanying such article.
 
-(q) The term “Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\]” means the Act so entitled, approved June 25, 1938 (52 Stat. 1040), and Acts amendatory thereof or supplementary thereto.
+(q) The term “Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\]” means the Act so entitled, approved June 25, 1938 (52 Stat. 1040),and Acts amendatory thereof or supplementary thereto.
 
 (r) The terms “pesticide chemical,” “food additive,” “color additive,” and “raw agricultural commodity” shall have the same meanings for purposes of this chapter as under the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\].
 

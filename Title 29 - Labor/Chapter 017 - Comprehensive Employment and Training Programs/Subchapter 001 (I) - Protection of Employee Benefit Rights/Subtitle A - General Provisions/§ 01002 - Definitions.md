@@ -98,7 +98,7 @@ For purposes of this subchapter:
 
 (19) The term “nonforfeitable” when used with respect to a pension benefit or right means a claim obtained by a participant or his beneficiary to that part of an immediate or deferred benefit under a pension plan which arises from the participant's service, which is unconditional, and which is legally enforceable against the plan. For purposes of this paragraph, a right to an accrued benefit derived from employer contributions shall not be treated as forfeitable merely because the plan contains a provision described in section 1053(a)(3) of this title.
 
-(20) The term “security” has the same meaning as such term has under section 77b(1) of title 15.
+(20) The term “security” has the same meaning as such term has under section 77b(1) <sup>2</sup> of title 15.
 
 (21)(A) Except as otherwise provided in subparagraph (B), a person is a fiduciary with respect to a plan to the extent (i) he exercises any discretionary authority or discretionary control respecting management of such plan or exercises any authority or control respecting management or disposition of its assets, (ii) he renders investment advice for a fee or other compensation, direct or indirect, with respect to any moneys or other property of such plan, or has any authority or responsibility to do so, or (iii) he has any discretionary authority or discretionary responsibility in the administration of such plan. Such term includes any person designated under section 1105(c)(1)(B) of this title.
 
@@ -172,7 +172,7 @@ For purposes of this subchapter:
 
 &emsp;(v) If an employee who is included in a church plan separates from the service of a church or a convention or association of churches or an organization, whether a civil law corporation or otherwise, which is exempt from tax under section 501 of title 26 and which is controlled by or associated with a church or a convention or association of churches, the church plan shall not fail to meet the requirements of this paragraph merely because the plan—
 
-&emsp;&emsp;(I) retains the employee's accrued benefit or account for the payment of benefits to the employee or his beneficiaries pursuant to the terms of the plan; or
+&emsp;&emsp;(I) retains the employee's accrued benefit or account for the payment of benefits to theemployee or his beneficiaries pursuant to the terms of the plan; or
 
 &emsp;&emsp;(II) receives contributions on the employee's behalf after the employee's separation from such service, but only for a period of 5 years after such separation, unless the employee is disabled (within the meaning of the disability provisions of the church plan or, if there are no such provisions in the church plan, within the meaning of section 72(m)(7) of title 26) at the time of such separation from service.
 
@@ -238,7 +238,7 @@ For purposes of this subchapter:
 
 &emsp;(A) who has the power to manage, acquire, or dispose of any asset of a plan;
 
-&emsp;(B) who is (i) registered as an investment adviser under the Investment Advisers Act of 1940 \[15 U.S.C. 80b–1 et seq.\]; (ii) is a bank, as defined in that Act; or (iii) is an insurance company qualified to perform services described in subparagraph (A) under the laws of more than one State; and
+&emsp;(B) who is (i) registered as an investment adviser under the Investment Advisers Act of 1940 \[15 U.S.C. 80b–1 et seq.\] or under the laws of any State; (ii) is a bank, as defined in that Act; or (iii) is an insurance company qualified to perform services described in subparagraph (A) under the laws of more than one State; and
 
 &emsp;(C) has acknowledged in writing that he is a fiduciary with respect to the plan.
 
@@ -268,13 +268,17 @@ For purposes of this subchapter:
 
 &emsp;(v) the term “rural telephone cooperative association” means an organization described in paragraph (4) or (6) of section 501(c) of title 26 which is exempt from tax under section 501(a) of title 26 and at least 80 percent of the members of which are organizations engaged primarily in providing telephone service to rural areas of the United States on a mutual, cooperative, or other basis.
 
-(41) <sup>2</sup>
+(41) <sup>3</sup>
 
 Single-employer plan.—The term “single-employer plan” means an employee benefit plan other than a multiemployer plan.
 
-(41) <sup>2</sup> The term “single-employer plan” means a plan which is not a multiemployer plan.
+(41) <sup>3</sup> The term “single-employer plan” means a plan which is not a multiemployer plan.
 
-(Pub. L. 93–406, title I, §3, Sept. 2, 1974, 88 Stat. 833; Pub. L. 96–364, title III, §§302, 305, title IV, §§407(a), 409, Sept. 26, 1980, 94 Stat. 1291, 1294, 1303, 1307; Pub. L. 97–473, title III, §302(a), Jan. 14, 1983, 96 Stat. 2612; Pub. L. 99–272, title XI, §11016(c)(1), Apr. 7, 1986, 100 Stat. 273; Pub. L. 99–509, title IX, §9203(b)(1), Oct. 21, 1986, 100 Stat. 1979; Pub. L. 99–514, title XVIII, §1879(u)(3), Oct. 22, 1986, 100 Stat. 2913; Pub. L. 100–202, §136(a), Dec. 22, 1987, 101 Stat. 1329–441; Pub. L. 101–239, title VII, §§7871(b)(2), 7881(m)(2)(D), 7891(a)(1), 7893(a), 7894(a)(1)(A), (2)(A), (3), (4), Dec. 19, 1989, 103 Stat. 2435, 2444, 2445, 2447, 2448; Pub. L. 101–508, title XII, §12002(b)(2)(C), Nov. 5, 1990, 104 Stat. 1388–566; Pub. L. 102–89, §2, Aug. 14, 1991, 105 Stat. 446.)
+(Pub. L. 93–406, title I, §3, Sept. 2, 1974, 88 Stat. 833; Pub. L. 96–364, title III, §§302, 305, title IV, §§407(a), 409, Sept. 26, 1980, 94 Stat. 1291, 1294, 1303, 1307; Pub. L. 97–473, title III, §302(a), Jan. 14, 1983, 96 Stat. 2612; Pub. L. 99–272, title XI, §11016(c)(1), Apr. 7, 1986, 100 Stat. 273; Pub. L. 99–509, title IX, §9203(b)(1), Oct. 21, 1986, 100 Stat. 1979; Pub. L. 99–514, title XVIII, §1879(u)(3), Oct. 22, 1986, 100 Stat. 2913; Pub. L. 100–202, §136(a), Dec. 22, 1987, 101 Stat. 1329–441; Pub. L. 101–239, title VII, §§7871(b)(2), 7881(m)(2)(D), 7891(a)(1), 7893(a), 7894(a)(1)(A), (2)(A), (3), (4), Dec. 19, 1989, 103 Stat. 2435, 2444, 2445, 2447, 2448; Pub. L. 101–508, title XII, §12002(b)(2)(C), Nov. 5, 1990, 104 Stat. 1388–566; Pub. L. 102–89, §2, Aug. 14, 1991, 105 Stat. 446; Pub. L. 104–290, title III, §308(b)(1), Oct. 11, 1996, 110 Stat. 3440.)
+
+#### Amendment of Section
+
+<i>For termination of amendment by section 308(b)(2) of Pub. L. 104–290, see Effective and Termination Dates of 1996 Amendment note below.</i>
 
 #### References in Text
 
@@ -282,9 +286,11 @@ This chapter, referred to in pars. (2)(B) and (37)(E), was in the original “th
 
 The Outer Continental Shelf Lands Act, referred to in par. (10), is act Aug. 7, 1953, ch. 345, 67 Stat. 462, as amended, which is classified generally to subchapter III (§1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1331 of Title 43 and Tables.
 
-The Labor Management Relations Act, 1947, referred to in par. (12), is act June 23, 1947, ch. 120, 61 Stat. 136, as amended, which is classified principally to chapter 7 (§141 et seq.) of this title. For complete classification of this Act to the Code, see section 141 of this title and Tables.
+The Labor Management Relations Act, 1947, referred to in par. (12), is act June 23, 1947, ch. 120, 61 Stat. 136,as amended, which is classified principally to chapter 7 (§141 et seq.) of this title. For complete classification of this Act to the Code, see section 141 of this title and Tables.
 
-The Railway Labor Act, referred to in par. (12), is act May 20, 1926, ch. 347, 44 Stat. 577, as amended, which is classified principally to chapter 8 (§151 et seq.) of Title45, Railroads. For complete classification of this Act to the Code, see section 151 of Title 45 and Tables.
+The Railway Labor Act, referred to in par. (12), is act May 20, 1926, ch. 347, 44 Stat. 577, as amended, which is classified principally to chapter 8 (§151 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see section 151 of Title 45 and Tables.
+
+Section 77b(1) of title 15, referred to in par. (20), was redesignated section 77b(a)(1) of title 15 by Pub. L. 104–290, title I, §106(a)(1), Oct. 11, 1996, 110 Stat. 3424.
 
 The Investment Company Act of 1940, referred to in par. (21)(B), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, as amended, which is classified generally to subchapter I (§80a–1 et seq.) of chapter 2D of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 80a–51 of Title 15 and Tables.
 
@@ -301,6 +307,8 @@ For the effective date of the Multiemployer Pension Plan Amendments Act of 1980,
 The Investment Advisers Act of 1940, referred to in par. (38)(B), is title II of act Aug. 22, 1940, ch. 686, 54 Stat. 847, as amended, which is classified generally to subchapter II (§80b–1 et seq.) of chapter 2D of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 80b–20 of Title 15 and Tables.
 
 #### Amendments
+
+1996—Par. (38)(B). Pub. L. 104–290 temporarily inserted “or under the laws of any State” before “; (ii) is a bank,”. See Effective and Termination Dates of 1996 Amendment note below.
 
 1991—Par. (40)(A)(iii), (B)(v). Pub. L. 102–89 added cl. (iii) at end of subpar. (A) and cl. (v) at end of subpar. (B).
 
@@ -351,6 +359,12 @@ Par. (14). Pub. L. 96–364, §305, inserted provisions respecting a trust descr
 Par. (33). Pub. L. 96–364, §407(a), substituted provisions defining “church plan” as a plan established and maintained (to the extent required in cl. (ii) of subpar. (B)) for employees or beneficiaries by a church, etc., exempt from tax under section 501 of title 26, for provisions defining “church plan” as a plan established and maintained for employees by a church, etc., exempt from tax under section 501 of title 26, or a plan in existence on Jan. 1, 1974, established and maintained by a church, etc., for employees and employees of agencies of the church, etc.
 
 Par. (37). Pub. L. 96–364, §302(a), substantially revised definition of term “multiemployer plan” by, among other changes, restructuring subpar. (A), resulting in elimination of provisions covering amount of contributions and payment of benefits, and subpar. (B), resulting in elimination of provisions reworking amount of contributions for subsequent plan years, and added subpars. (C) to (E).
+
+#### Effective and Termination Dates of 1996 Amendment
+
+Amendment by Pub. L. 104–290 effective 180 days after Oct. 11, 1996, see section 308(a) of Pub. L. 104–290 set outas a note under section 80b–2 of Title 15, Commerce and Trade.
+
+Section 308(b)(2) of Pub. L. 104–290 provided that: “The amendment made by paragraph (1) \[amending this section\] shall cease to be effective 2 years after the date of enactment of this Act \[Oct. 11, 1996\].”
 
 #### Effective Date of 1991 Amendment
 
@@ -410,9 +424,11 @@ For provisions directing that if any amendments made by Pub. L. 99–509 require
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 623, 1003, 1023, 1053, 1055, 1081, 1082, 1143a, 1144, 1301, 1321, 1342, 1453, 2104, 2611 of this title; title 5 sections 8438, 8477; title 12 section 1821; title 15 section 77b; title 18 section 1954; title 26 sections 412, 414, 3121, 3306, 4980B, 9702, 9712; title 38 sections 4303, 4317, 4318; title 42 sections 300bb–8, 409, 1306, 3058k.
+This section is referred to in sections 623, 1003, 1023, 1053, 1055, 1081, 1082, 1143a, 1144, 1301, 1321, 1342, 1453, 2104, 2611 of this title; title 5 sections 8438, 8477; title 12 section 1821; title 15 sections 77b, 662; title 18 section 1954; title 26 sections 412, 414, 3121, 3306, 4980B, 4980D, 9702,9712, 9803; title 38 sections 4303, 4317, 4318; title 42 sections 300bb–8, 300gg–91, 409, 1306, 3058k.
 
 <i><sup>1</sup></i><i> So in original. The period probably should be a comma.</i>
 
-<i><sup>2</sup></i><i> So in original. Two pars. (41) have been enacted.</i>
+<i><sup>2</sup></i><i> See References in Text note below.</i>
+
+<i><sup>3</sup></i><i> So in original. Two pars. (41) have been enacted.</i>
 

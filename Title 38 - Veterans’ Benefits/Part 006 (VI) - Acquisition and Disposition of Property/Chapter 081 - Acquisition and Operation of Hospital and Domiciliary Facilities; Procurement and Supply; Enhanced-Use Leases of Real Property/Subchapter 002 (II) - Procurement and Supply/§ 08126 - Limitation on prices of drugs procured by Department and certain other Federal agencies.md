@@ -24,6 +24,8 @@
 
 &emsp;(3) The Public Health Service, including the Indian Health Service.
 
+&emsp;(4) The Coast Guard.
+
 (c) With respect to any covered drug the price of which is determined in accordance with a pharmaceutical pricing agreement entered into pursuant to subsection (a)(2), beginning on or after January 1, 1993, the manufacturer shall provide a discount in an amount equal to the amount by which the change in non-Federal price exceeds the amount equal to—
 
 &emsp;(1) the non-Federal average manufacturer price of the drug during the 3-month period that ends one year before the last day of the month preceding the month during which the contract for the covered drug goes into effect (or, in the case of a covered drug for which sufficient data for determining the non-Federal average manufacturer price during such period is not available, during such period as the Secretary considers appropriate); multiplied by
@@ -64,7 +66,7 @@
 
 &emsp;&emsp;(A) the non-Federal average manufacturer price of the drug during the 3-month period that ends with the month preceding the month during which a contract goes into effect (or, in the case of a covered drug for which sufficient data for determining the non-Federal average manufacturer price during such period is not available, during such period as the Secretary considers appropriate); minus
 
-&emsp;&emsp;(B) the non-Federal average manufacturer price of the drug during the 3-month period that ends one year before the end of the period described in subparagraph (A) (or, in the case of a covered drug for which sufficient data for determining the non-Federal average manufacturer price during such period is not available, during such period preceding the period described in subparagraph (A) as the Secretary considers appropriate).
+&emsp;&emsp;(B) the non-Federal average manufacturer price of the drug during the 3-month periodthat ends one year before the end of the period described in subparagraph (A) (or, in the case of a covered drug for which sufficient data for determining the non-Federal average manufacturer price during such period is not available, during such period preceding the period described in subparagraph (A) as the Secretary considers appropriate).
 
 &emsp;(2) The term “covered drug” means—
 
@@ -114,7 +116,7 @@
 
 (2) In this subsection, the term “contract year” means any one-year period for which a multi-year contract described in subsection (d) is in effect.
 
-(Added Pub. L. 102–585, title VI, §603(a)(1), Nov. 4, 1992, 106 Stat. 4971; amended Pub. L. 103–18, §1(a), Apr. 12, 1993, 107 Stat. 53; Pub. L. 103–446, title XII, §1201(e)(27), (f)(6), Nov. 2, 1994, 108 Stat. 4686, 4687.)
+(Added Pub. L. 102–585, title VI, §603(a)(1), Nov. 4, 1992, 106 Stat. 4971; amended Pub. L. 103–18, §1(a), Apr. 12, 1993, 107 Stat. 53; Pub. L. 103–446, title XII, §1201(e)(27), (f)(6), Nov. 2, 1994, 108 Stat. 4686, 4687; Pub. L. 104–106, div. A, title VII, §737(a), Feb. 10, 1996, 110 Stat. 383.)
 
 #### References in Text
 
@@ -127,6 +129,8 @@ Enactment of this section, referred to in subsec. (g)(2), means enactment of Pub
 Section 506 of the Federal Food, Drug, and Cosmetic Act, referred to in subsec. (h)(2)(D), is classified to section 356 of Title 21, Food and Drugs.
 
 #### Amendments
+
+1996—Subsec. (b)(4). Pub. L. 104–106 added par. (4).
 
 1994—Subsec. (e)(1)(A). Pub. L. 103–446, §1201(e)(27)(A), (f)(6)(A), substituted “December 4, 1992” for “30 days after the date of the enactment of this section” and “one-year period” for “1-year period”.
 
@@ -141,6 +145,10 @@ Subsec. (c). Pub. L. 103–18, §1(a)(2), in introductory provisions, struck out
 Subsec. (d)(1). Pub. L. 103–18, §1(a)(3), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “during any one-year period that follows the first year for which the contract is in effect, the price charged may not exceed the price charged during the preceding one-year period, increased by the percentage increase in the Consumer Price Index for all urban consumers (U.S. city average) between the last months of such one-year periods for which Consumer Price Index data is available; and”.
 
 Subsec. (i). Pub. L. 103–18, §1(a)(4), added subsec. (i).
+
+#### Effective Date of 1996 Amendment
+
+Section 737(b) of Pub. L. 104–106 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect as if included in the enactment of section 603 of the Veterans Health Care Act of 1992 (Public Law 102–585; 106 Stat. 4971).”
 
 #### Effective Date of 1993 Amendment
 

@@ -28,6 +28,10 @@ Reservation of Production History.—If for reasons beyond the control of an own
 
 Subsec. (c). Pub. L. 102–237, §111(i)(2), struck out “hearing and” before “notice” and inserted “required to be” after “proportionate share was”.
 
+#### Inapplicability of Section
+
+Section inapplicable to 1996 through 2002 crops of loan commodities, peanuts, and sugar and inapplicable to milk during period beginning Apr. 4, 1996, and ending Dec. 31, 2002, see section 7301(a)(1)(E) of this title.
+
 #### Section Referred to in Other Sections
 
 This section is referred to in section 1359jj of this title.

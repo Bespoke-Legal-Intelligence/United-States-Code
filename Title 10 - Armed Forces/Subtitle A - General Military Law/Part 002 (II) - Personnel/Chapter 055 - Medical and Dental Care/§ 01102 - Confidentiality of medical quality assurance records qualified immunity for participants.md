@@ -80,5 +80,5 @@ Penalty.—Any person who willfully discloses a medical quality assurance record
 
 #### Effective Date
 
-Section 705(b) of Pub. L. 99–661 provided that: “Section 1102 of title 10, United States Code, as added by subsection (a), shall apply to all records created before, on, or after the date of the enactment of this Act \[Nov. 14, 1986\] by or for the Department of Defense as part of a medical quality assurance program.”
+Section 705(b) of Pub. L. 99–661 provided that: “Section 1102 of title 10, United States Code, as added by subsection (a), shall apply to all records created before,on, or after the date of the enactment of this Act \[Nov. 14, 1986\] by or for the Department of Defense as part of a medical quality assurance program.”
 

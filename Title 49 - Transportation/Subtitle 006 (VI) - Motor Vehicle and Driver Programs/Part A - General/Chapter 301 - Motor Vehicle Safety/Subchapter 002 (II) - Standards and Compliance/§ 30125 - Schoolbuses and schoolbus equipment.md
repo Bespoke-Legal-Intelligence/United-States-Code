@@ -36,7 +36,9 @@ Test Driving by Manufacturers.—The Secretary may require by regulation a schoo
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

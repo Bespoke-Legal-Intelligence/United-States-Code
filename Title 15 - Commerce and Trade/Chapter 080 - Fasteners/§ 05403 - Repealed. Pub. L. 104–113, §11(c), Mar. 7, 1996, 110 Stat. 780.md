@@ -1,0 +1,4 @@
+### §5403. Repealed. Pub. L. 104–113, §11(c), Mar. 7, 1996, 110 Stat. 780
+
+Section, Pub. L. 101–592, §4, Nov. 16, 1990, 104 Stat. 2945, set out special rule under which Secretary could waive requirements of this chapter on determination that category of fasteners was not used in critical applications, but that Secretary could also determine in given case that fastener was used in critical applications and was governed accordingly.
+

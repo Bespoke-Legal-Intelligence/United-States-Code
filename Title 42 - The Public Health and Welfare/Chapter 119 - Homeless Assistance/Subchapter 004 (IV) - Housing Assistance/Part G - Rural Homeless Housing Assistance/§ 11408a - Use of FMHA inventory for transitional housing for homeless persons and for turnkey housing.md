@@ -30,7 +30,7 @@ The priority uses of inventory property under this section shall not have a high
 
 #### (1) Identification of property
 
-&emsp;Upon receipt by the Secretary of written notification from a public agency or nonprofit organization that it proposes to lease a property for the purpose of providing transitional housing or for the purpose of providing transitional housing and turnkey housing opportunities, the Secretary shall—
+&emsp;Upon receipt by the Secretary of written notification from a public agency or nonprofitorganization that it proposes to lease a property for the purpose of providing transitional housing or for the purpose of providing transitional housing and turnkey housing opportunities, the Secretary shall—
 
 &emsp;&emsp;(A) withdraw the property from the market for not more than 30 days for the purpose of negotiations under subparagraph (B);
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Identification Requirements.—Not later than October 24, 1994, the Secretary of Transportation shall prescribe regulations that—
+Identification Requirements.—Not later than October 24, 1994, the Secretary of Transportation shall prescribe standards that—
 
 &emsp;(1) establish criteria for identifying—
 
@@ -10,7 +10,7 @@ Identification Requirements.—Not later than October 24, 1994, the Secretary of
 
 &emsp;&emsp;(B) by operators of hazardous liquid pipeline facilities and gathering lines—
 
-&emsp;&emsp;&emsp;(i) each hazardous liquid pipeline facility, whether otherwise subject to this chapter, that crosses a navigable waterway (as the Secretary defines by regulation) or that is located in an area described in the criteria as a high-density population area; and
+&emsp;&emsp;&emsp;(i) each hazardous liquid pipeline facility, whether otherwise subject to this chapter, that crosses waters where a substantial likelihood of commercial navigation exists or that is located in an area described in the criteria as a high-density population area; and
 
 &emsp;&emsp;&emsp;(ii) each hazardous liquid pipeline facility and gathering line, whether otherwise subject to this chapter, located in an area that the Secretary, in consultation with the Administrator of the Environmental Protection Agency, describes as unusually sensitive to environmental damage if there is a hazardous liquid pipeline accident; and
 
@@ -18,23 +18,21 @@ Identification Requirements.—Not later than October 24, 1994, the Secretary of
 
 (b)
 
-Areas To Be Included as Unusually Sensitive.—When describing an area that is unusually sensitive to environmental damage if there is a hazardous liquid pipeline accident, the Secretary shall consider including—
+Areas To Be Included as Unusually Sensitive.—When describing areas that are unusually sensitive to environmental damage if there is a hazardous liquid pipeline accident, the Secretary shall consider areas where a pipeline rupture would likely cause permanent or long-term environmental damage, including—
 
-&emsp;(1) earthquake zones and areas subject to landslides and other substantial ground movements;
+&emsp;(1) locations near pipeline rights-of-way that are critical to drinking water, including intake locations for community water systems and critical sole source aquifer protection areas; and
 
-&emsp;(2) areas of likely ground water contamination if a hazardous liquid pipeline facility ruptures;
+&emsp;(2) locations near pipeline rights-of-way that have been identified as critical wetlands, riverine or estuarine systems, national parks, wilderness areas, wildlife preservation areas or refuges, wild and scenic rivers, or critical habitat areas for threatened and endangered species.
 
-&emsp;(3) freshwater lakes, rivers, and waterways; and
-
-&emsp;(4) river deltas and other areas subject to soil erosion or subsidence from flooding or other water action where a hazardous liquid pipeline facility is likely to become exposed or undermined.
-
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1315; Pub. L. 103–429, §6(75), Oct. 31, 1994, 108 Stat. 4388.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1315; Pub. L. 103–429, §6(75), Oct. 31, 1994, 108 Stat. 4388; Pub. L. 104–304, §§7, 20(i), Oct. 12, 1996, 110 Stat. 3800, 3805.)
 
 Historical and Revision Notes
 
 Pub. L. 103–272
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -71,6 +69,20 @@ In subsection (a)(1)(B)(i) and (ii), the words “regulation under” and “or 
 This amends 49:60109(a)(2) to correct an error in the codification enacted by section 1 of the Act of July 5, 1994 (Public Law 103–272, 108 Stat. 1315).
 
 #### Amendments
+
+1996—Subsec. (a). Pub. L. 104–304, §20(i), substituted “standards” for “regulations” in introductory provisions.
+
+Subsec. (a)(1)(B)(i). Pub. L. 104–304, §7(a), substituted “waters where a substantial likelihood of commercial navigation exists” for “a navigable waterway (as the Secretary defines by regulation)”.
+
+Subsec. (b). Pub. L. 104–304, §7(b), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “When describing an area that is unusually sensitive to environmental damage if there is a hazardous liquid pipeline accident, the Secretary shall consider including—
+
+&emsp;“(1) earthquake zones and areas subject to landslides and other substantial ground movements;
+
+&emsp;“(2) areas of likely ground water contamination if a hazardous liquid pipeline facility ruptures;
+
+&emsp;“(3) freshwater lakes, rivers, and waterways; and
+
+&emsp;“(4) river deltas and other areas subject to soil erosion or subsidence from flooding or other water action where a hazardous liquid pipeline facility is likely to become exposed or undermined.”
 
 1994—Subsec. (a)(2). Pub. L. 103–429 substituted “section 60102(e)” for “section 60102(c)”.
 

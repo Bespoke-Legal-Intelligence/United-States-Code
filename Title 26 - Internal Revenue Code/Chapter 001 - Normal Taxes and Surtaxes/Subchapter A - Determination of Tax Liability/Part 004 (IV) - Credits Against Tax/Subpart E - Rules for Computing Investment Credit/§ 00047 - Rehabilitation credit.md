@@ -16,7 +16,7 @@ For purposes of section 46, the rehabilitation credit for any taxable year is th
 
 #### (2) Coordination with subsection (d)
 
-&emsp;The amount which would (but for this paragraph) be taken into account under paragraph\(1) with respect to any qualified rehabilitated building shall be reduced (but not below zero) by any amount of qualified rehabilitation expenditures taken into account under subsection (d) by the taxpayer or a predecessor of the taxpayer (or, in the case of a sale and leaseback described in section 50(a)(2)(C), by the lessee), to the extent any amount so taken into account has not been required to be recaptured under section 50(a).
+&emsp;The amount which would (but for this paragraph) be taken into account under paragraph (1) with respect to any qualified rehabilitated building shall be reduced (but not below zero) by any amount of qualified rehabilitation expenditures taken into account under subsection (d) by the taxpayer or a predecessor of the taxpayer (or, in the case of a sale and leaseback described in section 50(a)(2)(C), by the lessee), to the extent any amount so taken into account has not been required to be recaptured under section 50(a).
 
 #### (c) Definitions
 
@@ -238,7 +238,7 @@ For purposes of this section—
 
 #### (4) Self-rehabilitated building
 
-&emsp;For purposes of this subsection, the term “self-rehabilitated building” means any building if it is reasonable to believe that more than half of the qualified rehabilitation expenditures for such building will be made directly by the taxpayer.
+&emsp;For purposes of this subsection, the term “self-rehabilitated building” means any building if it is reasonable to believe that morethan half of the qualified rehabilitation expenditures for such building will be made directly by the taxpayer.
 
 #### (5) Election
 
@@ -252,7 +252,7 @@ For purposes of this section—
 
 Subsec. (b)(1) to (3). Pub. L. 101–508, §11801(c)(8)(A), inserted “or” at end of par. (1), substituted a period for “, or” at end of par. (2), and struck out par. (3) which related to nonapplicability of subsec. (a) in the case of a transfer of section 38 property related to exchanges under final system plan for ConRail.
 
-1988—Subsec. (a)(5)(D). Pub. L. 100–647, §1002(a)(26)(B), struck out at end “If, prior to a disposition to which this subsection applies, any portion of any credit is notallowable with respect to any property by reason of section 168(i)(3), such portion shall be treated (for purposes of this subparagraph) as not having been used to reduce tax liability.”
+1988—Subsec. (a)(5)(D). Pub. L. 100–647, §1002(a)(26)(B), struck out at end “If, prior to a disposition to which this subsection applies, any portion of any credit is not allowable with respect to any property by reason of section 168(i)(3), such portion shall be treated (for purposes of this subparagraph) as not having been used to reduce tax liability.”
 
 Subsec. (a)(5)(E)(iii). Pub. L. 100–647, §1002(a)(26)(C), substituted “168(e)” for “168(c)”.
 
@@ -300,7 +300,7 @@ Subsec. (e). Pub. L. 98–369, §421(b)(7), added subsec. (e).
 
 Subsec. (d)(3)(A). Pub. L. 97–448, §102(e)(3)(B), substituted “section 46(c)(8)(F)” for “section 46(c)(8)(E)”.
 
-1982—Subsec. (a)(5)(D). Pub. L. 97–248, §208(a)(2)(B), inserted provision that if, prior to a disposition to which this subsection applies, any portion of any credit is not allowable with respect to any property by reason of section 168(i)(3), such portion shall be treated, for purposes of this subparagraph, as not having been used to reduce tax liability.
+1982—Subsec. (a)(5)(D). Pub. L. 97–248, §208(a)(2)(B), inserted provision that if, prior to a disposition to which this subsection applies, any portion of any credit is not allowable with respect to any property by reason of section 168(i)(3), such portion shall be treated, forpurposes of this subparagraph, as not having been used to reduce tax liability.
 
 1981—Subsec. (a)(3)(D). Pub. L. 97–34, §211(g)(2)(A), inserted provisions relating to disposition, cessation, or change in expected use described in paragraph (5).
 
@@ -342,7 +342,7 @@ Amendment by section 11813(a) of Pub. L. 101–508 applicable to property placed
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision ofthe Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
+Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
 #### Effective Date of 1986 Amendment
 
@@ -412,7 +412,7 @@ For provisions that nothing in amendment by Pub. L. 101–508 be construed to af
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
 #### Clarification of Effect of 1984 Amendment on Investment Tax Credit
 

@@ -26,6 +26,12 @@ Historical and Revision Notes
 
 773(a)
 
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 773(b)
 
 10:1393 (words between 4th and 7th semicolons of 1st proviso, and 2d proviso, of 1st par.).
@@ -48,5 +54,5 @@ Provisions respecting sale of exterior articles of uniform to person discharged 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 4621, 6156, 9621 of this title.
+This section is referred to in sections 4621, 6156, 7606, 9621 of this title.
 

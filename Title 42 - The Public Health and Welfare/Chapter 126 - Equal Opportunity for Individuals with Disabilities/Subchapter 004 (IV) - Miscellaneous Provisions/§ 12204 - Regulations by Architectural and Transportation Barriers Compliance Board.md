@@ -16,7 +16,7 @@ The supplemental guidelines issued under subsection (a) of this section shall es
 
 #### (2) Sites eligible for listing in National Register
 
-&emsp;With respect to alterations of buildings or facilities that are eligible for listing in the National Register of Historic Places under the National Historic Preservation Act (16 U.S.C. 470 et seq.), the guidelines described in paragraph (1) shall, at a minimum, maintain theprocedures and requirements established in 4.1.7(1) and (2) of the Uniform Federal Accessibility Standards.
+&emsp;With respect to alterations of buildings or facilities that are eligible for listing in the National Register of Historic Places under the National Historic Preservation Act (16 U.S.C. 470 et seq.), the guidelines described in paragraph (1) shall, at a minimum, maintain the procedures and requirements established in 4.1.7(1) and (2) of the Uniform Federal Accessibility Standards.
 
 #### (3) Other sites
 

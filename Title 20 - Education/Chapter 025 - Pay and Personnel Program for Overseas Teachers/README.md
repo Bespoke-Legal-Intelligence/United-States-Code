@@ -10,7 +10,7 @@
 | (a) | Employment and salary practices. |
 | (b) | Determination of exempt positions and individuals; establishment of annual salary rate. |
 | (c) | Rates of basic compensation. |
-| (d) | Issuance of regulations by Secretaries of military departments. |
+| (d) | Issuance of regulations by Secretary of Defense. |
 | [904\.](%C2%A7%2000904%20-%20Leave.md) | Leave. |
 | (a) | Entitlement; amount. |
 | (b) | Saturdays, Sundays, holidays, and nonwork days. |

@@ -8,7 +8,7 @@ Nothing contained in this part shall be deemed (1) to amend any other provision 
 
 (1) Equal opportunity in employment shall be afforded to all persons by the Public Broadcasting Service and National Public Radio (or any successor organization) and by all public telecommunications entities receiving funds pursuant to subpart C <sup>1</sup> (hereinafter in this subsection referred to as “recipients”), in accordance with the equal employment opportunity regulations of the Commission, and no person shall be subjected to discrimination in employment by any recipient on the grounds of race, color, religion, national origin, or sex.
 
-(2)(A) The Secretary is authorized and directed to enforce this subsection and to prescribe suchrules and regulations as may be necessary to carry out the functions of the Secretary under this subsection.
+(2)(A) The Secretary is authorized and directed to enforce this subsection and to prescribe such rules and regulations as may be necessary to carry out the functions of the Secretary under this subsection.
 
 (B) The Secretary shall provide for close coordination with the Commission in the administration of the responsibilities of the Secretary under this subsection which are of interest to or affect the functions of the Commission so that, to the maximum extent possible consistent with the enforcement responsibilities of each, the reporting requirements of public telecommunications entities shall be uniformly based upon consistent definitions and categories of information.
 

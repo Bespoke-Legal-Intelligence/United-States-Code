@@ -14,7 +14,7 @@
 
 &emsp;(6) a buoyant apparatus, if the vessel is of a type required by regulations prescribed by the Secretary to be equipped with that apparatus;
 
-&emsp;(7) alerting and locating equipment, including emergency position indicating radio beacons, on vessels that operate on the high seas; and
+&emsp;(7) alerting and locating equipment, including emergency position indicating radio beacons, on vessels that operate on the high seas or beyond 3 nautical miles from the coastline of the Great Lakes; and
 
 &emsp;(8) a placard as required by regulations prescribed under section 10603(b) of this title.
 
@@ -84,9 +84,11 @@
 
 &emsp;(2) a fish tender vessel engaged in the Aleutian trade.
 
-(Added Pub. L. 98–364, title IV, §402(7)(C), July 17, 1984, 98 Stat. 447; amended Pub. L. 98–557, §33(a), Oct. 30, 1984, 98 Stat. 2876; Pub. L. 100–424, §2(a), Sept. 9, 1988, 102 Stat. 1585; Pub. L. 101–595, title VI, §602(c), Nov. 16, 1990, 104 Stat. 2990.)
+(Added Pub. L. 98–364, title IV, §402(7)(C), July 17, 1984, 98 Stat. 447; amended Pub. L. 98–557, §33(a), Oct. 30, 1984, 98 Stat. 2876; Pub. L. 100–424, §2(a), Sept. 9, 1988, 102 Stat. 1585; Pub. L. 101–595, title VI, §602(c), Nov. 16, 1990, 104 Stat. 2990; Pub. L. 104–324, title III, §307, Oct. 19, 1996, 110 Stat. 3918.)
 
 #### Amendments
+
+1996—Subsec. (a)(7). Pub. L. 104–324 inserted “or beyond 3 nautical miles from the coastline of the Great Lakes” after “high seas”.
 
 1990—Subsec. (b). Pub. L. 101–595, §602(c)(1), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “In addition to the requirements of subsection (a) of this section, the Secretary shall prescribe regulations for documented vessels to which this chapter applies that operate beyond the Boundary Line or that operate with more than 16 individuals on board, for the installation, maintenance, and use of—
 
@@ -130,7 +132,7 @@ Section 602(f) of Pub. L. 101–595, provided that: “This section \[amending t
 
 &emsp;“(1) The requirements imposed by section 3302(c)(4)(B) and (C) of title 46, United States Code, (as enacted by subsection (b) of this section) is effective 6 months after the date of enactment of this Act.
 
-&emsp;“(2) Before January 1, 1993, section 4502(c) (as amended by subsection (c) of this section) does notapply to a fish tender vessel engaged in the Aleutian trade, if the vessel—
+&emsp;“(2) Before January 1, 1993, section 4502(c) (as amended by subsection (c) of this section) does not apply to a fish tender vessel engaged in the Aleutian trade, if the vessel—
 
 &emsp;&emsp;“(A)(i) before September 8, 1990, operated in that trade; or
 

@@ -140,7 +140,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;Except as otherwise provided in this paragraph, the term “qualified resident” means,with respect to any foreign country, any foreign corporation which is a resident of such foreign country unless—
+&emsp;&emsp;Except as otherwise provided in this paragraph, the term “qualified resident” means, with respect to any foreign country, any foreign corporation which is a resident of such foreign country unless—
 
 &emsp;&emsp;&emsp;(i) 50 percent or more (by value) of the stock of such foreign corporation is owned (within the meaning of section 883(c)(4)) by individuals who are not residents of such foreign country and who are not United States citizens or resident aliens, or
 
@@ -178,13 +178,13 @@ For purposes of this section—
 
 &emsp;&emsp;(A) any interest paid by such trade or business in the United States shall be treated as if it were paid by a domestic corporation, and
 
-&emsp;&emsp;(B) to the extent the amount of interest allowable as a deduction under section 882 in computing the effectively connected taxable income of such foreign corporation exceeds the interest described in subparagraph (A), such foreign corporation shall be liable for tax under section 881(a) in the same manner as if such excess were interest paid to such foreign corporation by a wholly owned domestic corporation on the last day of such foreign corporation's taxable year.
+&emsp;&emsp;(B) to the extent that the allocable interest exceeds the interest described in subparagraph (A), such foreign corporation shall be liable for tax under section 881(a) in the same manner as if such excess were interest paid to such foreign corporation by a wholly owned domestic corporation on the last day of such foreign corporation's taxable year.
 
-> &emsp;To the extent provided in regulations, subparagraph (A) shall not apply to interest in excess of the amounts reasonably expected to be deductible under section 882 in computing the effectively connected taxable income of such foreign corporation.
+> &emsp;To the extent provided in regulations, subparagraph (A) shall not apply to interest in excess of the amounts reasonably expected to be allocable interest.
 
-#### (2) Effectively connected taxable income
+#### (2) Allocable interest
 
-&emsp;For purposes of this subsection, the term “effectively connected taxable income” means taxable income which is effectively connected (or treated as effectively connected) with the conduct of a trade or business within the United States.
+&emsp;For purposes of this subsection, the term “allocable interest” means any interest which is allocable to income which is effectively connected (or treated as effectively connected) with the conduct of a trade or business in the United States.
 
 #### (3) Coordination with treaties
 
@@ -208,13 +208,21 @@ For purposes of this section—
 
 The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section, including regulations providing for appropriate adjustments in the determination of the dividend equivalent amount in connection with the distribution to shareholders or transfer to a controlled corporation of the taxpayer's U.S. assets and other adjustments in such determination as are necessary or appropriate to carry out the purposes of this section.
 
-(Added Pub. L. 99–514, title XII, §1241(a), Oct. 22, 1986, 100 Stat. 2576; amended Pub. L. 100–647, title I, §1012(q)(1)(A), (2)–(6), (14), title VI, §6133(b), Nov. 10, 1988, 102 Stat. 3522–3525, 3721.)
+(Added Pub. L. 99–514, title XII, §1241(a), Oct. 22, 1986, 100 Stat. 2576; amended Pub. L. 100–647, title I, §1012(q)(1)(A), (2)–(6), (14), title VI, §6133(b), Nov. 10, 1988, 102 Stat. 3522–3525, 3721; Pub. L. 104–188, title I, §1704(f)(3)(A), Aug. 20, 1996, 110 Stat. 1879.)
 
 #### Prior Provisions
 
 A prior section 884 was renumbered section 885 of this title.
 
 #### Amendments
+
+1996—Subsec. (f)(1). Pub. L. 104–188, §1704(f)(3)(A)(ii), substituted “reasonably expected to be allocable interest” for “reasonably expected to be deductible under section 882 in computing the effectively connected taxable income of such foreign corporation” in closing provisions.
+
+Subsec. (f)(1)(B). Pub. L. 104–188, §1704(f)(3)(A)(i), substituted “to the extent that the allocable interest exceeds the interest described in subparagraph (A)” for “to the extent the amount of interest allowable as a deduction under section 882 in computing the effectively connected taxable income of such foreign corporation exceeds the interest described in subparagraph (A)”.
+
+Subsec. (f)(2). Pub. L. 104–188, §1704(f)(3)(A)(iii), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “
+
+Effectively connected taxable income.—For purposes of this subsection, the term ‘effectively connected taxable income’ means taxable income which is effectively connected (or treated as effectively connected) with the conduct of a trade or business within the United States.”
 
 1988—Subsec. (b)(2)(B). Pub. L. 100–647, §1012(q)(1)(A), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “The increase under subparagraph (A) for any taxable year shall not exceed the aggregate reductions under paragraph (1) for prior taxable years to the extent not previously taken into account under subparagraph (A).”
 
@@ -251,6 +259,10 @@ Subsec. (f)(1). Pub. L. 100–647, §1012(f)(3)(A), (14), substituted “this su
 Pub. L. 100–647, §1012(q)(2)(C)(i), (3)(B), inserted sentence at end and struck out former last sentence which read as follows: “Rules similar to the rules of subsection (e)(3)(B) shall apply to interest described in the preceding sentence.”
 
 Subsec. (f)(3). Pub. L. 100–647, §1012(q)(2)(C)(ii), added par. (3).
+
+#### Effective Date of 1996 Amendment
+
+Section 1704(f)(3)(B) of Pub. L. 104–188 provided that: “The amendments made by subparagraph (A) \[amending this section\] shall take effect as if included in the amendments made by section 1241(a) of the Tax Reform Act of 1986 \[Pub. L. 99–514\].”
 
 #### Effective Date of 1988 Amendment
 

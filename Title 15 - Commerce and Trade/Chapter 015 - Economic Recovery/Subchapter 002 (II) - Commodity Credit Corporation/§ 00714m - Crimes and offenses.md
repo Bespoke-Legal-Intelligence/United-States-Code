@@ -10,7 +10,7 @@ Whoever, being connected in any capacity with the Corporation or any of its prog
 
 #### (c) Larceny; conversion of property
 
-Whoever shall willfully steal, conceal, remove, dispose of, or convert to his own use or to that of another any property owned or held by, or mortgaged or pledged to, the Corporation, or any property mortgaged or pledged as security for any promissory note, or other evidence of indebtedness, which the Corporation has guaranteed or is obligated to purchase upon tender, shall, upon conviction thereof, if such property be of an amount or value in excess of $500, bepunished by a fine of not more than $10,000 or by imprisonment for not more than five years, or both, and, if such property be of an amount or value of $500 or less, be punished by a fine of not more than $1,000 or by imprisonment for not more than one year, or both.
+Whoever shall willfully steal, conceal, remove, dispose of, or convert to his own use or to that of another any property owned or held by, or mortgaged or pledged to, the Corporation, or any property mortgaged or pledged as security for any promissory note, or other evidence of indebtedness, which the Corporation has guaranteed or is obligated to purchase upon tender, shall, upon conviction thereof, if such property be of an amount or value in excess of $500, be punished by a fine of not more than $10,000 or by imprisonment for not more than five years, or both, and, if such property be of an amount or value of $500 or less, be punished by a fine of not more than $1,000 or by imprisonment for not more than one year, or both.
 
 #### (d) Conspiracy to commit offense
 
@@ -18,7 +18,7 @@ Whoever conspires with another to accomplish any of the acts made unlawful by th
 
 #### (e) General statutes applicable
 
-All the general penal statutes relating to crimes and offenses against the United States shall apply with respect to the Corporation, its property, money, contracts and agreements, employees, and operations: <i>Provided</i>, That such general penal statutes shall not apply to the extent that they relate to crimes and offenses punishable under subsections (a), (b), (c), and (d) of this section: <i>Provided further</i>, That sections 431 and 432 of title 18 shall not apply to contracts or agreements of a kind which the Corporation may enter into with farmers participating in a program of the Corporation.
+All the general penal statutes relating to crimes and offenses against the United Statesshall apply with respect to the Corporation, its property, money, contracts and agreements, employees, and operations: <i>Provided</i>, That such general penal statutes shall not apply to the extent that they relate to crimes and offenses punishable under subsections (a), (b), (c), and (d) of this section: <i>Provided further</i>, That sections 431 and 432 of title 18 shall not apply to contracts or agreements of a kind which the Corporation may enter into with farmers participating in a program of the Corporation.
 
 #### (f) Use of words “Commodity Credit Corporation”
 

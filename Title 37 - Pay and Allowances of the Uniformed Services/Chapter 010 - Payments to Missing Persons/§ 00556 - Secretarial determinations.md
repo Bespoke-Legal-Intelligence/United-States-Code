@@ -16,7 +16,9 @@
 
 &emsp;(7) whether information received concerning a member of a uniformed service is to be construed and acted on as an official report of death.
 
-(b) When the Secretary concerned receives information that he considers establishes conclusively the death of a member of a uniformed service, he shall, notwithstanding any earlier action relating to death or other status of the member, act on it as an official report of death. After the end of the 12-month period in a missing status prescribed by section 555 of this title, the Secretary concerned, or his designee, shall, when he considers that the information received, or a lapse of time without information, establishes a reasonable presumption that a member in a missing status is dead, make a finding of death.
+> Paragraphs (1), (5), (6), and (7) only apply with respect to a case to which section 555 of this title applies.
+
+(b) When the Secretary concerned, in a case to which section 555 of this title applies, receives information that he considers establishes conclusively the death of a member of a uniformed service, he shall, notwithstanding any earlier action relating to death or other status of the member, act on it as an official report of death. After the end of the 12-month period in a missing status prescribed by section 555 of this title, the Secretary concerned, or his designee, shall, when he considers that the information received, or a lapse of time without information, establishes a reasonable presumption that a member in a missing status is dead, make a finding of death.
 
 (c) The Secretary concerned, or his designee, may determine the entitlement of a member to pay and allowances under this chapter, including credits and charges in his account, and that determination is conclusive. An account may not be charged or debited with an amount that a member captured, beleaguered, or besieged by a hostile force may receive or be entitled to receive from, or have placed to his credit by, the hostile force as pay, allowances, or other compensation.
 
@@ -28,9 +30,9 @@
 
 (g) The Secretary concerned, or his designee, may waive the recovery of an erroneous payment or overpayment of an allotment to a dependent if he considers recovery is against equity and good conscience.
 
-(h) For the sole purpose of determining status under this section, a dependent of a member of a uniformed service on active duty is treated as if he were a member. Any determination made by the Secretary concerned, or his designee, under this section is conclusive on all other departments and agencies of the United States. This subsection does not entitle a dependent to pay, allowances, or other compensation to which he is not otherwise entitled.
+(h) For the sole purpose of determining pay under this section, a dependent of a member of a uniformed service on active duty is treated as if he were a member. Any determination made by the Secretary concerned, or his designee, under this section in a case to which section 555 of this title applies is conclusive on all other departments and agencies of the United States. This subsection does not entitle a dependent to pay, allowances, or other compensation to which he is not otherwise entitled.
 
-(Added Pub. L. 89–554, §5(b), Sept. 6, 1966, 80 Stat. 629.)
+(Added Pub. L. 89–554, §5(b), Sept. 6, 1966, 80 Stat. 629; amended Pub. L. 104–106, div. A, title V, §569(c)(4), Feb. 10, 1996, 110 Stat. 351.)
 
 Historical and Revision Notes
 
@@ -104,9 +106,17 @@ In subsection (f), the words “may not be collected” are substituted for “s
 
 In subsection (g), the words “Secretary concerned, or his designee,” are substituted for “head of the department concerned, or such subordinate as he may designated,”.
 
-In subsection (h), the first sentence is substituted for 50 App. U.S.C. 1009(b) (1st 33 words, as applicable to §1009). The words “Secretary concerned” are substituted for “head of the department concerned.” The words “or his designee” are supplied on authority of 50 App. U.S.C. 1009(a) which is codified in part in revised section 556(a) of this chapter. The words “departments and agencies of the United States” are substituted for “departments of the Government” in view of the definition of “department” in 50 App. U.S.C. 1001(b). The words “This subsection does not entitle” are substituted for <i>“Provided</i>, That nothing in this section shall be construed as conferring . . . any right”.
+In subsection (h), the first sentence is substituted for 50 App. U.S.C. 1009(b) (1st 33 words, as applicable to §1009). The words “Secretary concerned” are substituted for “head of the department concerned.” The words “or his designee” are supplied on authority of 50 App. U.S.C. 1009(a) which is codified in part in revised section 556(a) of this chapter. The words “departments and agencies of the United States” are substituted for “departments of the Government” in view of the definition of “department” in 50 App. U.S.C. 1001(b). The words “This subsection does not entitle” are substituted for “<i>Provided</i>, That nothing in this section shall be construed as conferring . . . any right”.
+
+#### Amendments
+
+1996—Subsec. (a). Pub. L. 104–106, §569(c)(4)(A), inserted concluding provisions.
+
+Subsec. (b). Pub. L. 104–106, §569(c)(4)(B), inserted “, in a case to which section 555 of this title applies,” after “When the Secretary concerned”.
+
+Subsec. (h). Pub. L. 104–106, §569(c)(4)(C), substituted “determining pay” for “determining status” and inserted “in a case to which section 555 of this title applies” after “designee, under this section”.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 552, 559 of this title; title 10 section 701; title 26 sections 2, 692; title 38 sections 3501, 3701, 4101.
+This section is referred to in section 559 of this title; title 10 section 701; title 26 sections 2, 692; title 38 sections 3501, 3701, 4101.
 

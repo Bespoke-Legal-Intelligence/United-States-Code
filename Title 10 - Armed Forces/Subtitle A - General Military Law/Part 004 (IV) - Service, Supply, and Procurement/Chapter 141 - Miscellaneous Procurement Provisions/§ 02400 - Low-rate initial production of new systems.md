@@ -10,11 +10,11 @@ Determination of Quantities To Be Procured for Low-Rate Initial Production.—(1
 
 (2) In this section, the term “milestone II decision” means the decision to approve the engineering and manufacturing development of a major system by the official of the Department of Defense designated to have the authority to make that decision.
 
-(3) Any increase from a quantity determined under paragraph (1) may only be made with theapproval of the official making the determination.
+(3) Any increase from a quantity determined under paragraph (1) may only be made with the approval of the official making the determination.
 
 (4) The quantity of articles of a major system that may be procured for low-rate initial production may not be less than one operationally configured production unit unless another quantity is established at the milestone II decision.
 
-(5) The Secretary of Defense shall include a statement of the quantity determined under paragraph (1) in the first SAR submitted with respect to the program concerned after that quantity is determined. If the quantity exceeds 10 percent of the total number of articles to be produced, as determined at the milestone II decision with respect to that system, the Secretary shall include in the statement the reasons for such quantity. For purposes of the preceding <sup>1</sup> sentence, the term “SAR” means a Selected Acquisition Report submitted under section 2432 of this title.
+(5) The Secretary of Defense shall include a statement of the quantity determined under paragraph (1) in the first SAR submitted with respect to the program concerned after that quantity is determined. If the quantity exceeds 10 percent of the total number of articles to be produced, as determined at the milestone II decision with respect to that system, the Secretary shall include in the statement the reasons for such quantity. For purposes of this paragraph, the term “SAR” means a Selected Acquisition Report submitted under section 2432 of this title.
 
 (b)
 
@@ -28,17 +28,9 @@ Low-Rate Initial Production of Weapon Systems.—Except as provided in subsectio
 
 (c)
 
-Low-Rate Initial Production of Naval Vessel and Satellite Programs.—(1) With respect to naval vessel programs and military satellite programs, low-rate initial production is production of items at the minimum quantity and rate that (A) preserves the mobilization production base for that system, and (B) is feasible, as determined pursuant to regulations prescribed by the Secretary of Defense.
+Low-Rate Initial Production of Naval Vessel and Satellite Programs.—With respectto naval vessel programs and military satellite programs, low-rate initial production is production of items at the minimum quantity and rate that (1) preserves the mobilization production base for that system, and (2) is feasible, as determined pursuant to regulations prescribed by the Secretary of Defense.
 
-(2) For each naval vessel program and military satellite program, the Secretary of Defense shall submit to Congress a report providing—
-
-&emsp;(A) an explanation of the rate and quantity prescribed for low-rate initial production and the considerations in establishing that rate and quantity;
-
-&emsp;(B) a test and evaluation master plan for that program; and
-
-&emsp;(C) an acquisition strategy for that program that has been approved by the Secretary, to include the procurement objectives in terms of total quantity of articles to be procured and annual production rates.
-
-(Added Pub. L. 101–189, div. A, title VIII, §803(a), Nov. 29, 1989, 103 Stat. 1487; amended Pub. L. 103–355, title III, §3015, Oct. 13, 1994, 108 Stat. 3332.)
+(Added Pub. L. 101–189, div. A, title VIII, §803(a), Nov. 29, 1989, 103 Stat. 1487; amended Pub. L. 103–355, title III, §3015, Oct. 13, 1994, 108 Stat. 3332; Pub. L. 104–106, div. A, title X, §1062(d), div. D, title XLIII, §4321(b)(13), Feb. 10, 1996, 110 Stat. 444, 673.)
 
 #### Prior Provisions
 
@@ -46,11 +38,23 @@ A prior section 2400 was renumbered section 2534 of this title.
 
 #### Amendments
 
+1996—Subsec. (a)(5). Pub. L. 104–106, §4321(b)(13), substituted “this paragraph” for “the preceding sentence”.
+
+Subsec. (c). Pub. L. 104–106, §1062(d), struck out “(1)” before “With respect to”, redesignated subpars. (A) and (B) of former par. (1) as pars. (1) and (2), respectively, and struck out former par. (2) which read as follows: “For each naval vessel program and military satellite program, the Secretary of Defense shall submit to Congress a report providing—
+
+&emsp;“(A) an explanation of the rate and quantity prescribed for low-rate initial production and the considerations in establishing that rate and quantity;
+
+&emsp;“(B) a test and evaluation master plan for that program; and
+
+&emsp;“(C) an acquisition strategy for that program that has been approved by the Secretary, to include the procurement objectives in terms of total quantity of articles to be procured and annual production rates.”
+
 1994—Subsec. (a)(2). Pub. L. 103–355, §3015(1), substituted “this section” for “paragraph (1)” and “engineering and manufacturing development” for “full-scale engineering development”.
 
 Subsec. (a)(4). Pub. L. 103–355, §3015(2), (3), added par. (4) and redesignated former par. (4) as (5).
 
 Subsec. (a)(5). Pub. L. 103–355, §3015(2), redesignated par. (4) as (5) and inserted after first sentence “If the quantity exceeds 10 percent of the total number of articles to be produced, as determined at the milestone II decision with respect to that system, the Secretary shall include in the statement the reasons for such quantity.”
 
-<i><sup>1</sup></i><i> So in original. Probably should be “first”.</i>
+#### Effective Date of 1996 Amendment
+
+For effective date and applicability of amendment by section 4321(b)(13) of Pub. L. 104–106, see section 4401 of Pub. L. 104–106, set out as a note under section 251 of Title 41, Public Contracts.
 

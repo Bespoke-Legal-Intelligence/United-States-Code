@@ -502,7 +502,7 @@ For purposes of this section—
 
 #### (ii) Exception for certain investment entities
 
-&emsp;&emsp;&emsp;A regulated investment company to which part I of subchapter M applies, a real estate investment trust to which part II of subchapter M applies, or a REMIC to which part IV of subchapter M applies, shall not be treated as a new loss corporation having substantial nonbusiness assets.
+&emsp;&emsp;&emsp;A regulated investment company to which part I of subchapter M applies, a real estate investment trust to which part II of subchapter M applies, a REMIC to which part IV of subchapter M applies, or a FASIT to which part V of subchapter M applies, shall not be treated as a new loss corporation having substantial nonbusiness assets.
 
 #### (C) Nonbusiness assets
 
@@ -528,7 +528,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(i) the old loss corporation is (immediately before such ownership change) under the jurisdiction of the court in a title 11 or similar case, and
 
-&emsp;&emsp;&emsp;(ii) the shareholders and creditors of the old loss corporation (determined immediately before such ownership change) own (after such ownership change and as a result of being shareholders or creditors immediately before such change) stock of thenew loss corporation (or stock of a controlling corporation if also in bankruptcy) which meets the requirements of section 1504(a)(2) (determined by substituting “50 percent” for “80 percent” each place it appears).
+&emsp;&emsp;&emsp;(ii) the shareholders and creditors of the old loss corporation (determined immediately before such ownership change) own (after such ownership change and as a result of being shareholders or creditors immediately before such change) stock of the new loss corporation (or stock of a controlling corporation if also in bankruptcy) which meets the requirements of section 1504(a)(2) (determined by substituting “50 percent” for “80 percent” each place it appears).
 
 #### (B) Reduction for interest payments to creditors becoming shareholders
 
@@ -606,7 +606,7 @@ For purposes of this section—
 
 #### (m) Regulations
 
-The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section and section 383, including (but not limited to) regulations—
+The Secretary shall prescribe such regulations as may be necessary or appropriate to carry outthe purposes of this section and section 383, including (but not limited to) regulations—
 
 &emsp;(1) providing for the application of this section and section 383 where an ownership change with respect to the old loss corporation is followed by an ownership change with respect to the new loss corporation, and
 
@@ -618,13 +618,15 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 &emsp;(5) providing, in the case of any group of corporations described in section 1563(a) (determined by substituting “50 percent” for “80 percent” each place it appears and determined without regard to paragraph (4) thereof), appropriate adjustments to value, built-in gain or loss, and other items so that items are not omitted or taken into account more than once.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 129; Aug. 31, 1964, Pub. L. 88–554, §4(b)(3), 78 Stat. 763; Oct. 4, 1976, Pub. L. 94–455, title VIII, §806(e), 90 Stat. 1599; Dec. 24, 1980, Pub. L. 96–589, §2(d), 94 Stat. 3396; Aug. 13, 1981, Pub. L. 97–34, title II, §242, 95 Stat. 255; July 18, 1984, Pub. L. 98–369, div. A, title I, §62(b)(1), 98 Stat. 583; Oct. 22, 1986, Pub. L. 99–514, title VI, §621(a), (e)(1), 100 Stat. 2254, 2266; Dec. 22, 1987, Pub. L. 100–203, title X, §10225(a), (b), 101 Stat. 1330–413; Nov. 10, 1988, Pub. L. 100–647, title I, §1006(d)(1)(A)–(C), (2)–(10), (17)(A), (18)–(28)(A), (29), (t)(22)(A), title IV, §4012(a)(3), (b)(1)(B), title V, §5077(a), 102 Stat. 3395–3400, 3426, 3656, 3657, 3683; Aug. 9, 1989, Pub. L. 101–73, title XIV, §1401(a)(2), 103 Stat. 548; Dec. 19, 1989, Pub. L. 101–239, title VII, §§7205(a), 7304(d)(1), 7811(c)(5)(A), 7815(h), 7841(d)(11), 103 Stat. 2335, 2354, 2407, 2420, 2428; Aug. 10, 1993, Pub. L. 103–66, title XIII, §13226(a)(2)(A), 107 Stat. 487.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 129; Aug. 31, 1964, Pub. L. 88–554, §4(b)(3), 78 Stat. 763; Oct. 4, 1976, Pub. L. 94–455, title VIII, §806(e), 90 Stat. 1599; Dec. 24, 1980, Pub. L. 96–589, §2(d), 94 Stat. 3396; Aug. 13, 1981, Pub. L. 97–34, title II, §242, 95 Stat. 255; July 18, 1984, Pub. L. 98–369, div. A, title I, §62(b)(1), 98 Stat. 583; Oct. 22, 1986, Pub. L. 99–514, title VI, §621(a), (e)(1), 100 Stat. 2254, 2266; Dec. 22, 1987, Pub. L. 100–203, title X, §10225(a), (b), 101 Stat. 1330–413; Nov. 10, 1988, Pub. L. 100–647, title I, §1006(d)(1)(A)–(C), (2)–(10), (17)(A), (18)–(28)(A), (29), (t)(22)(A), title IV, §4012(a)(3), (b)(1)(B), title V, §5077(a), 102 Stat. 3395–3400, 3426, 3656, 3657, 3683; Aug. 9, 1989, Pub. L. 101–73, title XIV, §1401(a)(2), 103 Stat. 548; Dec. 19, 1989, Pub. L. 101–239, title VII, §§7205(a), 7304(d)(1), 7811(c)(5)(A), 7815(h), 7841(d)(11), 103 Stat. 2335, 2354, 2407, 2420, 2428; Aug. 10, 1993, Pub. L. 103–66, title XIII, §13226(a)(2)(A), 107 Stat. 487; Aug. 20, 1996, Pub. L. 104–188, title I, §1621(b)(3), 110 Stat. 1867.)
 
 #### References in Text
 
 Section 368(a)(3)(D), referred to in subsec. (<i>l</i>)(5)(F)(iii)(I), was amended generally by Pub. L. 99–514, title IX, §904(a), Oct. 22, 1986, 100 Stat. 2385, and, as so amended, does not contain a cl. (ii) or (iv).
 
 #### Amendments
+
+1996—Subsec. (<i>l</i>)(4)(B)(ii). Pub. L. 104–188 substituted “a REMIC to which part IV of subchapter M applies, or a FASIT to which part V of subchapter M applies” for “or a REMIC to which part IV of subchapter M applies”.
 
 1993—Subsec. (<i>l</i>)(5)(C). Pub. L. 103–66 amended heading and text of subpar. (C) generally. Prior to amendment, text read as follows:
 
@@ -682,7 +684,7 @@ Subsec. (h)(6). Pub. L. 100–647, §1006(d)(22), substituted “Treatment of ce
 
 Subsec. (h)(9). Pub. L. 100–647, §1006(d)(23), substituted “was acquired (or is subsequently transferred)” for “is transferred”.
 
-Subsec. (i)(3). Pub. L. 100–647, §1006(d)(4), inserted “the earlier of” after “not begin before” and “or thetaxable year in which the transaction being tested occurs” after “1st post-change year”.
+Subsec. (i)(3). Pub. L. 100–647, §1006(d)(4), inserted “the earlier of” after “not begin before” and “or the taxable year in which the transaction being tested occurs” after “1st post-change year”.
 
 Subsec. (k)(1). Pub. L. 100–647, §1006(d)(5)(A), inserted “or having a net operating loss for the taxable year in which the ownership change occurs” after “operating loss carryover”.
 
@@ -745,6 +747,10 @@ Pub. L. 99–514, §621(e)(1), repealed amendment by Pub. L. 94–455, §806(e).
 1976—Pub. L. 94–455, §806(e), which amended section generally, substituting provisions relating to special limitations on net operating loss carryovers based on continuity of trade or business conducted, for provisions relating to special limitations on net operating loss carryovers based on continuity of ownership, was repealed by Pub. L. 99–514, §621(e)(1). See Effective Date of 1986 and 1976 Amendment notes below.
 
 1964—Subsec. (a)(3). Pub. L. 88–554 inserted reference to section 318(a)(3)(C) of this title.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–188 effective Sept. 1, 1997, see section 1621(d) of Pub. L. 104–188, set out as a note under section 26 of this title.
 
 #### Effective Date of 1993 Amendment
 
@@ -852,11 +858,11 @@ Application of old rules to certain debt.—In the case of debt of a corporation
 
 &emsp;&emsp;“(i) the amendments made by subsections (a), (b), and (c) shall not apply to any debt restructuring of such debt which was approved by the debtor's Board of Directors and the lenders in 1986, and
 
-&emsp;&emsp;“(ii) the amendments made by subsections (e) and (f) of section 806 of the Tax Reform Act of 1976 shall not apply to such debt restructuring, except that the amendment treated as part of such subsections under section 59(b) of the Tax Reform Act of 1984 (relating to qualified workouts) shall apply to such debt restructuring.
+&emsp;&emsp;“(ii) the amendments made by subsections (e) and (f) of section 806 of the Tax Reform Act of 1976 shallnot apply to such debt restructuring, except that the amendment treated as part of such subsections under section 59(b) of the Tax Reform Act of 1984 (relating to qualified workouts) shall apply to such debt restructuring.
 
 &emsp;“(D)
 
-Special rule for oil and gas well drilling business.—In the case of a Texas corporation incorporated on July 23, 1935, in applying section 382 of the Internal Revenue Code of 1986 (as in effect before and after the amendments made by subsections (a), (b), and (c)) to a loan restructuring agreement during 1985, section 382(a)(5)(C) of the Internal Revenue Code of 1954 (as added by the amendments made by subsections (e) and (f) of section 806 of the Tax Reform Act of 1976) shall be applied as if it were in effect with respect to such restructuring. For purposes of thepreceding sentence, in applying section 382 (as so in effect), if a person has a warrant to acquire stock, such stock shall be considered as owned by such person.
+Special rule for oil and gas well drilling business.—In the case of a Texas corporation incorporated on July 23, 1935, in applying section 382 of the Internal Revenue Code of 1986 (as in effect before and after the amendments made by subsections (a), (b), and (c)) to a loan restructuring agreement during 1985, section 382(a)(5)(C) of the Internal Revenue Code of 1954 (as added by the amendments made by subsections (e) and (f) of section 806 of the Tax Reform Act of 1976) shall be applied as if it were in effect with respect to such restructuring. For purposes of the preceding sentence, in applying section 382 (as so in effect), if a person has a warrant to acquire stock, such stock shall be considered as owned by such person.
 
 “(3)
 
@@ -916,13 +922,13 @@ Section 62(b)(2) of Pub. L. 98–369 provided that: “The amendment made by par
 
 #### Effective Date of 1981 Amendment
 
-Amendment by Pub. L. 97–34 applicable to any transfer made on or after Jan. 1, 1981, see section 246(a) of Pub. L. 97–34, set out as a note under section 368 of this title.
+Amendment by Pub. L. 97–34 applicable to any transfer made on or after Jan. 1, 1981, see section 246(a) ofPub. L. 97–34, set out as a note under section 368 of this title.
 
 #### Effective Date of 1980 Amendment
 
 Section 2(d) of Pub. L. 96–589 provided that the amendment made by section 2(b) of Pub. L. 96–589 is to subsec. (b) as in effect before its amendment by section 806 of the Tax Reform Act of 1976, Pub. L. 94–455.
 
-Amendment by Pub. L. 96–589 applicable to transactions which occur after Dec. 31, 1980, other than transactions which occur in a proceeding in a bankruptcy case or similar judicial proceeding or in a proceeding under Title 11 commencing on or before Dec. 31, 1980, with an exception permitting the debtor to make the amendment applicable to transactions occurring after Sept. 30, 1979, in a specified manner, see section7(a)(1), (f) of Pub. L. 96–589, set out as a note under section 108 of this title.
+Amendment by Pub. L. 96–589 applicable to transactions which occur after Dec. 31, 1980, other than transactions which occur in a proceeding in a bankruptcy case or similar judicial proceeding or in a proceeding under Title 11 commencing on or before Dec. 31, 1980, with an exception permitting the debtor to make the amendment applicable to transactions occurring after Sept. 30, 1979, in a specified manner, see section 7(a)(1), (f) of Pub. L. 96–589, set out as a note under section 108 of this title.
 
 #### Effective Date of 1976 Amendment
 

@@ -22,7 +22,7 @@ Historical and Revision Notes
 
 July 31, 1935, ch. 422, §5 (1st 101 words); restated June 13, 1940, ch. 344, §3 (1st 45 words), 54 Stat. 380; June 29, 1948, ch. 708, §202 (1st 105 words), 62 Stat. 1084; July 16, 1953, ch. 203, 67 Stat. 175.
 
-The words “a regular or reserve commissioned officer of the Army” are substituted for the words “any officer on the active list of the Regular Army \* \* \* or any officer of the reserve components of the Army of the United States”. The words “Philippine Scouts” are omitted as obsolete. The words “has at least 20” are substituted for the words “shall have completed not less than twenty”. The words “upon the officer's request” are substituted for the words “upon his own application”. The words “service computed under section 3926 of this title” are substituted for the words “active Federal service in the armed forces of the UnitedStates”, since that revised section makes explicit the service covered.
+The words “a regular or reserve commissioned officer of the Army” are substituted for the words “any officer on the active list of the Regular Army \* \* \* or any officer of the reserve components of the Army of the United States”. The words “Philippine Scouts” are omitted as obsolete. The words “has at least 20” are substituted for the words “shall have completed not less than twenty”. The words “upon the officer's request” are substituted for the words “upon his own application”. The words “service computed under section 3926 of this title” are substituted for the words “active Federal service in the armed forces of the United States”, since that revised section makes explicit the service covered.
 
 #### Amendments
 

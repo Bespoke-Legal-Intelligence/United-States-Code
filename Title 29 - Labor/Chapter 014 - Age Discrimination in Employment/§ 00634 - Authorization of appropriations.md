@@ -16,5 +16,5 @@ Amendment by Pub. L. 93–259 effective May 1, 1974, see section 29(a) of Pub. L
 
 #### Transfer of Functions
 
-Functions relating to age discrimination administration and enforcement vested by this section in Secretary of Labor or Civil Service Commission transferred to Equal Employment Opportunity Commission by Reorg. Plan No. 1 of 1978, §2, 43 F.R. 19807, 92 Stat. 3781, set out in the Appendix to Title 5, Government Organization and Employees, effective Jan. 1, 1979, as provided by section 1–101 of Ex. Ord. No. 12106, Dec. 28, 1978, 44 F.R. 1053.
+Functions relating to age discrimination administration and enforcement vested by this section in Secretary of Labor or Civil Service Commission transferred to Equal Employment Opportunity Commission by Reorg. Plan No. 1 of 1978, §2, 43 F.R. 19807, 92 Stat.3781, set out in the Appendix to Title 5, Government Organization and Employees, effective Jan. 1, 1979, as provided by section 1–101 of Ex. Ord. No. 12106, Dec. 28, 1978, 44 F.R. 1053.
 

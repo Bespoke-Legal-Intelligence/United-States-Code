@@ -128,7 +128,7 @@
 
 &emsp;(11) The terms “Indian tribe” and “tribal organization” have the meaning provided in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b).
 
-(Added Pub. L. 101–121, title III, §319(a)(1), Oct. 23, 1989, 103 Stat. 750; amended Pub. L. 101–512, title III, §320, Nov. 5, 1990, 104 Stat. 1977; Pub. L. 103–272, §4(f)(1)(F), July 5, 1994, 108 Stat. 1362; Pub. L. 104–65, §10, Dec. 19, 1995, 109 Stat. 700; Pub. L. 104–66, title III, §3001(b), Dec. 21, 1995, 109 Stat. 734.)
+(Added Pub. L. 101–121, title III, §319(a)(1), Oct. 23, 1989, 103 Stat. 750; amended Pub. L. 101–512, title III, §320, Nov. 5, 1990, 104 Stat. 1977; Pub. L. 103–272, §4(f)(1)(F), July 5, 1994, 108 Stat. 1362; Pub. L. 104–65, §10, Dec. 19, 1995, 109 Stat. 700; Pub. L. 104–66, title III, §3001(b), Dec. 21, 1995, 109 Stat. 734; Pub. L. 104–106, div. A, title X, §1064(c), div. D, title XLIII, §4301(a)(2), Feb. 10, 1996, 110 Stat. 445, 656.)
 
 #### References in Text
 
@@ -139,6 +139,12 @@ The Lobbying Disclosure Act of 1995, referred to in subsec. (b)(2)(A), (3), is P
 Another section 1352 was renumbered section 1353 of this title.
 
 #### Amendments
+
+1996—Subsec. (b)(2). Pub. L. 104–106, §4301(a)(2), which directed amendment of par. (2) by inserting “and” after the semicolon at the end of subpar. (A) and by striking out subpar. (C), was not executed because subsec. (b)(2) did not contain a subpar. (C) subsequent to amendment by Pub. L. 104–65, §10(a)(1). See 1995 Amendment note below.
+
+Subsec. (b)(6)(A). Pub. L. 104–106, §1064(c)(1), which directed insertion of “(other than the Secretary of Defense and Secretary of a military department)” after “The head of each agency”, could not be executed because subsec. (b)(6) did not contain a subpar. (A) subsequent to amendment by Pub. L. 104–65, §10(a)(3). See 1995 Amendment note below.
+
+Subsec. (d)(1). Pub. L. 104–106, §1064(c)(2), which directed the insertion of “(other than in the case of the Department of Defense or a military department)” after “paragraph (3) of this subsection”, could not be executed because subsec. (d)(1) did not contain phrase “paragraph (3) of this subsection” subsequent to amendment by Pub. L. 104–65, §10(b). See 1995 Amendment note below.
 
 1995—Subsec. (b)(2). Pub. L. 104–65, §10(a)(1), added subpars. (A) and (B) and struck out former subpars. (A) to (C) which read as follows:
 
@@ -183,6 +189,10 @@ Subsec. (e)(1)(C). Pub. L. 103–272, §4(f)(1)(F)(ii), substituted “appropria
 Subsec. (h)(7). Pub. L. 103–272, §4(f)(1)(F)(iii), inserted periods after “agency” and “guaranty”.
 
 1990—Subsec. (e)(2)(C). Pub. L. 101–512 inserted “or the single family maximum mortgage limit for affected programs, whichever is greater,” after “$150,000,”.
+
+#### Effective Date of 1996 Amendment
+
+For effective date and applicability of amendment by Pub. L. 104–106, see section 4401 of Pub. L. 104–106, set out as a note under section 251 of Title 41, Public Contracts.
 
 #### Effective Date of 1995 Amendment
 

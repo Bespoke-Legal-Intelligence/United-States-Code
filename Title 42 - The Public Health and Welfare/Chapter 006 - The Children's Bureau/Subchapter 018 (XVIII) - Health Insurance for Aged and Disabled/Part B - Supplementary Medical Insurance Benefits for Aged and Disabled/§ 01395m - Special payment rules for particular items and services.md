@@ -138,7 +138,7 @@
 
 #### (E) Recertification for patients receiving home oxygen therapy
 
-&emsp;&emsp;In the case of a patient receiving home oxygen therapy services who, at the time such services are initiated, has an initial arterial blood gas value at or above a partial pressure of 56 or an arterial oxygen saturation at or above 89 percent (or such other values, pressures, or criteria as the Secretary may specify) no payment may be made under this part for such services after the expiration of the 90-day period that begins on the date the patient first receives such services unless the patient's attending physician certifies that, on the basis of a follow-up test of the patient's arterial blood gas value or arterial oxygen saturation conducted during the final 30 days of such 90-day period, there is a medical need for the patient to continue to receive such services.
+&emsp;&emsp;In the case of a patient receiving home oxygen therapy services who, at the time such services are initiated, has an initial arterialblood gas value at or above a partial pressure of 56 or an arterial oxygen saturation at or above 89 percent (or such other values, pressures, or criteria as the Secretary may specify) no payment may be made under this part for such services after the expiration of the 90-day period that begins on the date the patient first receives such services unless the patient's attending physician certifies that, on the basis of a follow-up test of the patient's arterial blood gas value or arterial oxygen saturation conducted during the final 30 days of such 90-day period, there is a medical need for the patient to continue to receive such services.
 
 #### (6) Payment for other covered items (other than durable medical equipment)
 
@@ -182,7 +182,7 @@
 
 #### (i) Establishment of reasonable useful lifetime
 
-&emsp;&emsp;&emsp;In accordance with clause (iii), the Secretary shall determine and establish a reasonable useful lifetime for items of durable medical equipment for which payment may be made under this paragraph.
+&emsp;&emsp;&emsp;In accordance with clause (iii), the Secretary shall determine and establish a reasonable useful lifetime for items of durablemedical equipment for which payment may be made under this paragraph.
 
 #### (ii) Payment for replacement items
 
@@ -290,7 +290,7 @@
 
 #### (B) Adjustment for inherent reasonableness
 
-&emsp;&emsp;For covered items furnished on or after January 1, 1991, the Secretary is authorizedto apply the provisions of paragraphs (8) and (9) (other than subparagraph (D)) of section 1395u(b) of this title to covered items and suppliers of such items and payments under this subsection as such provisions would otherwise apply to physicians’ services and physicians and a reasonable charge under section 1395u(b) of this title but for the application of section 1395w–4(i)(3) of this title. In applying such provisions to payments for an item under this subsection, the Secretary shall make adjustments to the payment basis for the item described in paragraph (1)(B) if the Secretary determines (in accordance with such provisions and on the basis of prices and costs applicable at the time the item is furnished) that such payment basis is not inherently reasonable.
+&emsp;&emsp;For covered items furnished on or after January 1, 1991, the Secretary is authorized to apply the provisions of paragraphs (8) and (9) (other than subparagraph (D)) of section 1395u(b) of this title to covered items and suppliers of such items and payments under this subsection as such provisions would otherwise apply to physicians’ services and physicians and a reasonable charge under section 1395u(b) of this title but for the application of section 1395w–4(i)(3) of this title. In applying such provisions to payments for an item under this subsection, the Secretary shall make adjustments to the payment basis for the item described in paragraph (1)(B) if the Secretary determines (in accordance with such provisions and on the basis of prices and costs applicable at the time the item is furnished) that such payment basis is not inherently reasonable.
 
 #### (C) Transcutaneous electrical nerve stimulator (TENS)
 
@@ -358,7 +358,7 @@
 
 &emsp;&emsp;&emsp;(ii) The supplier has furnished a covered item to the individual and the supplier is contacting the individual only regarding the furnishing of such covered item.
 
-&emsp;&emsp;&emsp;(iii) If the contact is regarding the furnishing of a covered item other than a covered item already furnished to the individual, the supplier has furnished at least 1 covered item to the individual during the 15-month period preceding the date on which the supplier makes such contact.
+&emsp;&emsp;&emsp;(iii) If the contact is regarding the furnishing of a covered item other than a covered item already furnished to the individual, the supplier has furnished at least 1covered item to the individual during the 15-month period preceding the date on which the supplier makes such contact.
 
 #### (B) Prohibiting payment for items furnished subsequent to unsolicited contacts
 
@@ -420,7 +420,7 @@
 
 #### (A) Budget neutral fee schedules
 
-&emsp;&emsp;The Secretary shall develop preliminary fee schedules for 1989, which are designed toresult in the same amount of aggregate payments (net of any coinsurance and deductibles under sections 1395<i>l</i>(a)(1)(J) and 1395<i>l</i>(b) of this title) for radiologist services furnished in 1989 as would have been made if this subsection had not been enacted.
+&emsp;&emsp;The Secretary shall develop preliminary fee schedules for 1989, which are designed to result in the same amount of aggregate payments (net of any coinsurance and deductibles under sections 1395<i>l</i>(a)(1)(J) and 1395<i>l</i>(b) of this title) for radiologist services furnished in 1989 as would have been made if this subsection had not been enacted.
 
 #### (B) Initial savings
 
@@ -428,7 +428,7 @@
 
 #### (C) 1990 fee schedules
 
-&emsp;&emsp;For radiologist services (other than portable X-ray services) furnished under this part during 1990, after March 31 of such year, the conversion factors used under this subsection shall be 96 percent of the conversion factors that applied under this subsection as of December 31, 1989.
+&emsp;&emsp;For radiologist services (other than portable X-ray services) furnished under this part during 1990, after March 31 of such year, the conversion factors used under this subsection shall be 96 percent of the conversionfactors that applied under this subsection as of December 31, 1989.
 
 #### (D) 1991 fee schedules
 
@@ -850,7 +850,7 @@
 
 &emsp;&emsp;&emsp;(v) self-administered erythropoetin (as described in section 1395x(s)(2)(P) of this title).
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1834, as added and amended Dec. 22, 1987, Pub. L. 100–203, title IV, §§4049(a)(2), 4062(b), 101 Stat. 1330–91, 1330–100; July 1, 1988, Pub. L. 100–360, title II, §§202(b)(4), 203(c)(1)(F), 204(b), title IV, §411(a)(3)(A), (B)(ii), (C)(ii), (f)(8)(A), (B)(ii), (D), (g)(1)(A), (B), 102 Stat. 704, 722, 726, 768, 779, 781; Oct. 13, 1988, Pub. L. 100–485, title VI, §608(d)(21)(C), (22)(A), 102 Stat. 2420; Dec. 13, 1989, Pub. L. 101–234, title II, §201(a), title III, §301(b)(1), (c)(1), 103 Stat. 1981,1985; Dec. 19, 1989, Pub. L. 101–239, title VI, §§6102(f)(1), 6105(a), 6112(a), (c), (d)(1), (e)(2), 6116(b)(2), 6140, 103 Stat. 2188, 2210, 2214–2216, 2220, 2224; Nov. 5, 1990, Pub. L. 101–508, title IV, §§4102(a), (d), (f), 4104(a), 4152(a)(1), (b), (c)(1)–(4)(B)(i), (e), (f)(1), (g)(1), 4153(a)(1), (2)(D), 4163(b), 104 Stat. 1388–55, 1388–57, 1388–59, 1388–74, 1388–77 to 1388–81, 1388–83, 1388–97; Aug. 10, 1993, Pub. L. 103–66, title XIII, §§13542(a), 13543(a), (b), 13544(a)(1), (2), (b)(1), 13545(a), 13546, 107 Stat. 587, 589, 590; Oct. 31, 1994, Pub. L. 103–432, title I, §§102(e), 126(b)(1), (2), (4), (5), (g)(1), (10)(B), 131(a), 132(a), (b), 133(a)(1), 134(a)(1), 135(a)(1), (b)(1), (3), (d)(1), (e)(2)–(5), 145(a), 156(a)(2)(C), 108 Stat. 4403, 4414–4416, 4419, 4421, 4424, 4427, 4440.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1834, as added and amended Dec. 22, 1987, Pub. L. 100–203, title IV, §§4049(a)(2), 4062(b), 101 Stat. 1330–91, 1330–100; July 1, 1988, Pub. L. 100–360, title II, §§202(b)(4), 203(c)(1)(F), 204(b), title IV, §411(a)(3)(A), (B)(ii), (C)(ii), (f)(8)(A), (B)(ii), (D), (g)(1)(A), (B), 102 Stat. 704, 722, 726, 768, 779, 781; Oct. 13, 1988, Pub. L. 100–485, title VI, §608(d)(21)(C), (22)(A), 102 Stat. 2420; Dec. 13, 1989, Pub. L. 101–234, title II, §201(a), title III, §301(b)(1), (c)(1), 103 Stat. 1981, 1985; Dec. 19, 1989, Pub. L. 101–239, title VI, §§6102(f)(1), 6105(a), 6112(a), (c), (d)(1), (e)(2), 6116(b)(2), 6140, 103 Stat. 2188, 2210, 2214–2216, 2220, 2224; Nov. 5, 1990, Pub. L. 101–508, title IV, §§4102(a), (d), (f), 4104(a), 4152(a)(1), (b), (c)(1)–(4)(B)(i), (e), (f)(1), (g)(1), 4153(a)(1), (2)(D), 4163(b), 104 Stat. 1388–55, 1388–57, 1388–59, 1388–74, 1388–77 to 1388–81, 1388–83, 1388–97; Aug. 10, 1993, Pub. L. 103–66, title XIII, §§13542(a), 13543(a), (b), 13544(a)(1), (2), (b)(1), 13545(a), 13546, 107 Stat. 587, 589, 590; Oct. 31, 1994, Pub. L. 103–432, title I, §§102(e), 126(b)(1), (2), (4), (5), (g)(1), (10)(B), 131(a), 132(a), (b), 133(a)(1), 134(a)(1), 135(a)(1), (b)(1), (3), (d)(1), (e)(2)–(5), 145(a), 156(a)(2)(C), 108 Stat. 4403, 4414–4416, 4419, 4421, 4424, 4427, 4440.)
 
 #### References in Text
 
@@ -862,7 +862,7 @@ Amendment of subsec. (a)(4) by Pub. L. 101–508, §4152(c)(4)(B)(i), did not be
 
 #### Prior Provisions
 
-A prior section 1395m, act Aug. 14, 1935, ch. 531, title XVIII, §1834, as added July 30, 1965, Pub. L. 89–97, title I, §102(a), 79 Stat. 303, prescribed limitations on payments for home health services, prior to repeal by Pub. L. 96–499, title IX, §930(i), Dec. 5, 1980, 94 Stat. 2631, effective with respect to services furnished on or after July 1, 1981.
+A prior section 1395m, act Aug. 14, 1935, ch. 531, title XVIII, §1834, as added July 30, 1965, Pub. L. 89–97, titleI, §102(a), 79 Stat. 303, prescribed limitations on payments for home health services, prior to repeal by Pub. L. 96–499, title IX, §930(i), Dec. 5, 1980, 94 Stat. 2631, effective with respect to services furnished on or after July 1, 1981.
 
 #### Amendments
 
@@ -1192,7 +1192,7 @@ Subsec. (e). Pub. L. 100–360, §204(b)(2), added subsec. (e) relating to payme
 
 #### Effective Date of 1994 Amendment
 
-Section 126(i) of Pub. L. 103–432 provided that: “Except as provided in subsection (h) \[amending section 1395u of this title, enacting provisions set out as notes under sections 1395u and 1395w–4 of this title, and amending provisions set out as a note under section 1395w–4 of this title\], the amendments made by this section and the provisions of this section \[amending this section and sections 1395u, 1395w–1, and 1395w–4 of this title, enacting provisions set out as notes under sections 1395u and 1395w–4 of this title, and amending provisions set out as notes under this section and sections 1395u and 1395w–4 of this title\] shall take effect as if included in the enactment of OBRA–1990 \[Pub. L. 101–508\].”
+Section 126(i) of Pub. L. 103–432 provided that: “Except as provided in subsection (h) \[amending section1395u of this title, enacting provisions set out as notes under sections 1395u and 1395w–4 of this title, and amending provisions set out as a note under section 1395w–4 of this title\], the amendments made by this section and the provisions of this section \[amending this section and sections 1395u, 1395w–1, and 1395w–4 of this title, enacting provisions set out as notes under sections 1395u and 1395w–4 of this title, and amending provisions set out as notes under this section and sections 1395u and 1395w–4 of this title\] shall take effect as if included in the enactment of OBRA–1990 \[Pub. L. 101–508\].”
 
 Section 131(a)(2) of Pub. L. 103–432 provided that the amendment made by that section is effective 60 days after Oct. 31, 1994.
 
@@ -1336,7 +1336,7 @@ Section 4102(e) of Pub. L. 101–508 provided that: “For radiologist services 
 
 #### Study of Payments for Prosthetic Devices, Orthotics, and Prosthetics
 
-Section 4153(c) of Pub. L. 101–508, as amended by Pub. L. 103–432, title I, §135(e)(6), Oct. 31, 1994, 108 Stat. 4424, directed Comptroller General to conduct a study of feasibility and desirability of establishing a separate fee schedule for use in determining the amount of payments for covered items under subsec. (h) of this section with respect to suppliers of prosthetic devices, orthotics, and prosthetics who provide professional services that would take into account the costs to such providers of providing such services and, not later than 1 year after Nov. 5, 1990, submit a report on the study to Committees on Energy and Commerce and Ways and Means of House of Representatives and Committee on Finance of Senate, including any recommendations regarding payments for prosthetic devices, orthotics, and prosthetics under the medicare program.
+Section 4153(c) of Pub. L. 101–508, as amended by Pub. L. 103–432, title I, §135(e)(6), Oct. 31, 1994, 108 Stat. 4424, directed Comptroller General to conduct a study of feasibility and desirability of establishing a separate fee schedule for use in determining the amount of payments for covered items under subsec. (h) of this section with respect to suppliers of prosthetic devices, orthotics, and prosthetics who provide professional services that would take into account the costs to such providers of providing such services and, not later than 1 year after Nov. 5, 1990, submit a report on the study to Committees on Energy and Commerce and Ways and Means of House of Representatives and Committee onFinance of Senate, including any recommendations regarding payments for prosthetic devices, orthotics, and prosthetics under the medicare program.
 
 #### Special Rule for Nuclear Medicine Physicians
 
@@ -1380,7 +1380,7 @@ Section 202(i) of Pub. L. 100–360, directed Secretary of Health and Human Serv
 
 #### Additional Studies by Secretary or Comptroller General
 
-Section 202(k) of Pub. L. 100–360 directed Secretary of Health and Human Services to conduct a study, andmake a report to Congress by Jan. 1, 1990, on possibility of including drugs which have not yet been approved under section 355 or 357 of Title 21, Food and Drugs, and biological products which have not been licensed under section 262 of this title but which are commonly used in the treatment of cancer or in immunosuppressive therapy and other experimental drugs and biological products as covered outpatient drugs under medicare program, to conduct a study, and report to Congress by Jan. 1, 1990, evaluating potential to use mail service pharmacies to reduce costs to medicare program and to medicare beneficiaries, to conduct a study, and report to Congress by Jan. 1, 1993, on methods to improve utilization review of covered outpatient drugs, and to conduct a longitudinal study, and report to Congress by Jan. 1, 1993, on use of outpatient prescription drugs by medicare beneficiaries with respect to medical necessity, potential for adverse drug interactions, cost (including whether lower cost drugs could have been used), and patient stockpiling or wastage, and which further directed Comptroller General to conduct studies, and report to Congress by not later than May 1, 1991, on comparing average wholesale prices with actual pharmacy acquisition costs by type of pharmacy, on determining the overhead costs of retail pharmacies, and on discounts given by pharmacies to other third-party insurers, prior to repeal by Pub. L. 101–234, title II, §201(a), Dec. 13, 1989, 103 Stat. 1981.
+Section 202(k) of Pub. L. 100–360 directed Secretary of Health and Human Services to conduct a study, and make a report to Congress by Jan. 1, 1990, on possibility of including drugs which have not yet been approved under section 355 or 357 of Title 21, Food and Drugs, and biological products which have not been licensed under section 262 of this title but which are commonly used in the treatment of cancer or in immunosuppressive therapy and other experimental drugs and biological products as covered outpatient drugs under medicare program, to conduct a study, and report to Congress by Jan. 1, 1990, evaluating potential to use mail service pharmacies to reduce costs to medicare program and to medicare beneficiaries, to conduct a study, and report to Congress by Jan. 1, 1993, on methods to improve utilization review of covered outpatient drugs, and to conduct a longitudinal study, and report to Congress by Jan. 1, 1993, on use of outpatient prescription drugs by medicare beneficiaries with respect to medical necessity, potential for adverse drug interactions, cost (including whether lower cost drugs could have been used), and patient stockpiling or wastage, and which further directed Comptroller General to conduct studies, and report to Congress by not later than May 1, 1991, on comparing average wholesale prices with actual pharmacy acquisition costs by type of pharmacy, on determining the overhead costs of retail pharmacies, and on discounts given by pharmacies to other third-party insurers, prior to repeal by Pub. L. 101–234, title II, §201(a), Dec. 13, 1989, 103 Stat. 1981.
 
 #### Development of Standard Medicare Claims Forms
 
@@ -1410,7 +1410,7 @@ Section 4062(c) of Pub. L. 100–203, as amended by Pub. L. 100–360, title IV,
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1320a–7a, 1395f, 1395k, 1395<i>l</i>, 1395u, 1395w–4, 1395y, 1395cc, 1395pp of this title.
+This section is referred to in sections 1320a–7a, 1395f, 1395k, 1395<i>l</i>, 1395u, 1395w–4, 1395y, 1395bb, 1395cc, 1395pp, 1395ddd of this title.
 
 <i><sup>1</sup></i><i> So in original. The semicolon probably should be a comma.</i>
 

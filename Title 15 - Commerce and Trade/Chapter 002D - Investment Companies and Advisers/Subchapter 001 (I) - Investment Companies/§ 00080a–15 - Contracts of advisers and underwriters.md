@@ -26,7 +26,7 @@ In addition to the requirements of subsections (a) and (b) of this section, it s
 
 #### (d) Equivalent of vote of majority of outstanding voting securities in case of common-law trust
 
-In the case of a common-law trust of the character described in section 80a–16(c) of this title, either written approval by holders of a majority of the outstanding shares of beneficial interest or the vote of a majority of such outstanding shares cast in person or by proxy at a meeting called for the purpose shall for the purposes of this section be deemed the equivalent of the vote of a majority of the outstanding voting securities, and the provisions of paragraph (42) ofsection 80a–2(a) of this title as to a majority shall be applicable to the vote cast at such a meeting.
+In the case of a common-law trust of the character described in section 80a–16(c) of this title, either written approval by holders of a majority of the outstanding shares of beneficial interest or the vote of a majority of such outstanding shares cast in person or by proxy at a meeting called for the purpose shall for the purposes of this section be deemed the equivalent of the vote of a majority of the outstanding voting securities, and the provisions of paragraph (42) of section 80a–2(a) of this title as to a majority shall be applicable to the vote cast at such a meeting.
 
 #### (e) Exemption of advisory boards or members from provisions of this section
 
@@ -72,7 +72,7 @@ Subsec. (d). Pub. L. 94–29, §28(4), substituted “section 80a–16(c) of thi
 
 Subsec. (f). Pub. L. 94–29, §28(1), added subsec. (f).
 
-1970—Subsec. (a). Pub. L. 91–547, §8(a), struck out introductory phrase “After one year from the effective date of this subchapter” and “unless in effect prior toMarch 15, 1940,” before “has been approved”, and “by the investment adviser” after “assignment” in item (4), and substituted “It” for “it”.
+1970—Subsec. (a). Pub. L. 91–547, §8(a), struck out introductory phrase “After one year from the effective date of this subchapter” and “unless in effect prior to March 15, 1940,” before “has been approved”, and “by the investment adviser” after “assignment” in item (4), and substituted “It” for “it”.
 
 Subsec. (b). Pub. L. 91–547, §8(b), struck out introductory phrase “After one year from the effective date of this subchapter,” and concluding phrase “, unless in effect prior to March 15, 1940” after “which contract” before item (1), struck out “by such underwriter” after “assignment” in item (2), and substituted “It” for “it”.
 

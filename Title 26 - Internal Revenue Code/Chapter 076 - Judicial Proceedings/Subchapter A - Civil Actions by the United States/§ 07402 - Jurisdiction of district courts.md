@@ -40,5 +40,5 @@ Amendment by Pub. L. 89–719 applicable after Nov. 2, 1966, regardless of when 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 7407, 7408, 7409, 7604 of this title; title 18 section 3613.
+This section is referred to in sections 7407, 7408, 7409, 7604 of this title.
 

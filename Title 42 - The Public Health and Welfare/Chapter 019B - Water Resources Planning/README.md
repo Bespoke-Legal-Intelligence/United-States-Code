@@ -269,10 +269,6 @@ Nonperformance of terms of agreement by non-Federal interest; notice; reasonable
 
 (e)
 
-Inventory of agreements; report to Congress.
-
-(f)
-
 Effective date.
 
 |  |  |

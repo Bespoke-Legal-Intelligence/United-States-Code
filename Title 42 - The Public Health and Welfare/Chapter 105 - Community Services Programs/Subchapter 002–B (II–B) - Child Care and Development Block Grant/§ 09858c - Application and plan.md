@@ -10,11 +10,7 @@ To be eligible to receive assistance under this subchapter, a State shall prepar
 
 #### (b) Period covered by plan
 
-The State plan contained in the application under subsection (a) of this section shall be designed to be implemented—
-
-&emsp;(1) during a 3-year period for the initial State plan; and
-
-&emsp;(2) during a 2-year period for subsequent State plans.
+The State plan contained in the application under subsection (a) of this section shall be designed to be implemented during a 2-year period.
 
 #### (c) Requirements of a plan
 
@@ -30,7 +26,7 @@ The State plan contained in the application under subsection (a) of this section
 
 &emsp;&emsp;Provide assurances that—
 
-&emsp;&emsp;&emsp;(i) the parent or parents of each eligible child within the State who receives or is offered child care services for which financial assistance is provided under this subchapter, other than through assistance provided under paragraph (3)(C), are given the option either—
+&emsp;&emsp;&emsp;(i) the parent or parents of each eligible child within the State who receives or is offered child care services for which financial assistance is provided under this subchapter are given the option either—
 
 &emsp;&emsp;&emsp;&emsp;(I) to enroll such child with a child care provider that has a grant or contract for the provision of such services; or
 
@@ -40,33 +36,33 @@ The State plan contained in the application under subsection (a) of this section
 
 &emsp;&emsp;&emsp;(iii) child care certificates offered to parents selecting the option described in clause (i)(II) shall be of a value commensurate with the subsidy value of child care services provided under the option described in clause (i)(I);
 
-> &emsp;&emsp;except that nothing in this subparagraph shall require a State to have a child care certificate program in operation prior to October 1, 1992.
+> &emsp;&emsp;and provide a detailed description of the procedures the State will implement to carry out the requirements of this subparagraph.
 
 #### (B) Unlimited parental access
 
-&emsp;&emsp;Provide assurances that procedures are in effect within the State to ensure that child care providers who provide services for which assistance is made available under this subchapter afford parents unlimited access to their children and to the providers caring for their children, during the normal hours of operation of such providers and whenever such children are in the care of such providers.
+&emsp;&emsp;Certify that procedures are in effect within the State to ensure that child care providers who provide services for which assistance is made available under this subchapter afford parents unlimited access to their children and to the providers caring for their children, during the normal hours of operation of such providers and whenever such children are in the care of such providers and provide a detailed description of such procedures.
 
 #### (C) Parental complaints
 
-&emsp;&emsp;Provide assurances that the State maintains a record of substantiated parental complaints and makes information regarding such parental complaints available to the public on request.
+&emsp;&emsp;Certify that the State maintains a record of substantiated parental complaints and makes information regarding such parental complaints available to the public on request and provide a detailed description of how such record is maintained and is made available.
 
-#### (D) Consumer education
+#### (D) Consumer education information
 
-&emsp;&emsp;Provide assurances that consumer education information will be made available to parents and the general public within the State concerning licensing and regulatory requirements, complaint procedures, and policies and practices relative to child care services within the State.
+&emsp;&emsp;Certify that the State will collect and disseminate to parents of eligible children and the general public, consumer education information that will promote informed child care choices.
 
-#### (E) Compliance with State and local regulatory requirements
+#### (E) Compliance with State licensing requirements
 
-&emsp;&emsp;Provide assurances that—
+#### (i) In general
 
-&emsp;&emsp;&emsp;(i) all providers of child care services within the State for which assistance is provided under this subchapter comply with all licensing or regulatory requirements (including registration requirements) applicable under State and local law; and
+&emsp;&emsp;&emsp;Certify that the State has in effect licensing requirements applicable to child care services provided within the State, and provide a detailed description of such requirements and of how such requirements are effectively enforced. Nothing in the preceding sentence shall be construed to require that licensing requirements be applied to specific types of providers of child care services.
 
-&emsp;&emsp;&emsp;(ii) providers within the State that are not required to be licensed or regulated under State or local law are required to be registered with the State prior to payment being made under this subchapter, in accordance with procedures designed to facilitate appropriate payment to such providers, and to permit the State to furnish information to such providers, including information on the availability of health and safety training, technical assistance, and any relevant information pertaining to regulatory requirements in the State, and that such providers shall be permitted to register with the State after selection by the parents of eligible children and before such payment is made.
+#### (ii) Indian tribes and tribal organizations
 
-> &emsp;&emsp;This subparagraph shall not be construed to prohibit a State from imposing more stringent standards and licensing or regulatory requirements on child care providers within the State that provide services for which assistance is provided under this subchapter than the standards or requirements imposed on other child care providers in the State.
+&emsp;&emsp;&emsp;In lieu of any licensing and regulatory requirements applicable under State and local law, the Secretary, in consultation with Indian tribes and tribal organizations, shall develop minimum child care standards (that appropriately reflect tribal needs and available resources) that shall be applicable to Indian tribes and tribal organization <sup>1</sup> receiving assistance under this subchapter.
 
 #### (F) Establishment of health and safety requirements
 
-&emsp;&emsp;Provide assurances that there are in effect within the State, under State or local law,requirements designed to protect the health and safety of children that are applicable to child care providers that provide services for which assistance is made available under this subchapter. Such requirements shall include—
+&emsp;&emsp;Certify that there are in effect within the State, under State or local law, requirements designed to protect the health and safety of children that are applicable to child care providers that provide services for which assistance is made available under this subchapter. Such requirements shall include—
 
 &emsp;&emsp;&emsp;(i) the prevention and control of infectious diseases (including immunization);
 
@@ -78,43 +74,35 @@ The State plan contained in the application under subsection (a) of this section
 
 #### (G) Compliance with State and local health and safety requirements
 
-&emsp;&emsp;Provide assurances that procedures are in effect to ensure that child care providers within the State that provide services for which assistance is provided under this subchapter comply with all applicable State or local health and safety requirements as described in subparagraph (F).
+&emsp;&emsp;Certify that procedures are in effect to ensure that child care providers within the State that provide services for which assistance is provided under this subchapter comply with all applicable State or local health and safety requirements as described in subparagraph (F).
 
-#### (H) Reduction in standards
+#### (H) Meeting the needs of certain populations
 
-&emsp;&emsp;Provide assurances that if the State reduces the level of standards applicable to child care services provided in the State on November 5, 1990, the State shall inform the Secretary of the rationale for such reduction in the annual report of the State described in section 9858i of this title.
-
-#### (I) Review of State licensing and regulatory requirements
-
-&emsp;&emsp;Provide assurances that not later than 18 months after the date of the submission of the application under this section, the State will complete a full review of the law applicable to, and the licensing and regulatory requirements and policies of, each licensing agency that regulates child care services and programs in the State unless the State has reviewed such law, requirements, and policies in the 3-year period ending on November 5, 1990.
-
-#### (J) Supplementation
-
-&emsp;&emsp;Provide assurances that funds received under this subchapter by the State will be used only to supplement, not to supplant, the amount of Federal, State, and local funds otherwise expended for the support of child care services and related programs in the State.
+&emsp;&emsp;Demonstrate the manner in which the State will meet the specific child care needs of families who are receiving assistance under a State program under part A of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\], families who are attempting through work activities to transition off of such assistance program, and families that are at risk of becoming dependent on such assistance program.
 
 #### (3) Use of block grant funds
 
 #### (A) General requirement
 
-&emsp;&emsp;The State plan shall provide that the State will use the amounts provided to the State for each fiscal year under this subchapter as required under subparagraphs (B) and (C).
+&emsp;&emsp;The State plan shall provide that the State will use the amounts provided to the State for each fiscal year under this subchapter as required under subparagraphs (B) through (D).
 
-#### (B) Child care services
+#### (B) Child care services and related activities
 
-&emsp;&emsp;Subject to the reservation contained in subparagraph (C), the State shall use amounts provided to the State for each fiscal year under this subchapter for—
+&emsp;&emsp;The State shall use amounts provided to the State for each fiscal year under this subchapter for child care services on a sliding fee scale basis, activities that improve the quality or availability of such services, and any other activity that the State deems appropriate to realize any of the goals specified in paragraphs (2) through (5) of section 658A(b),<sup>2</sup> with priority being given for services provided to children of families with very low family incomes (taking into consideration family size) and to children with special needs.
 
-&emsp;&emsp;&emsp;(i) child care services, that meet the requirements of this subchapter, that are provided to eligible children in the State on a sliding fee scale basis using funding methods provided for in subsection (c)(2)(A) of this section, with priority being given for services provided to children of families with very low family incomes (taking into consideration family size) and to children with special needs; and
+#### (C) Limitation on administrative costs
 
-&emsp;&emsp;&emsp;(ii) activities designed to improve the availability and quality of child care.
+&emsp;&emsp;Not more than 5 percent of the aggregate amount of funds available to the State to carry out this subchapter by a State in each fiscal year may be expended for administrative costs incurred by such State to carry out all of its functions and duties under this subchapter. As used in the preceding sentence, the term “administrative costs” shall not include the costs of providing direct services.
 
-#### (C) Activities to improve the quality of child care and to increase the availability of early childhood development and before- and after-school care services
+#### (D) Assistance for certain families
 
-&emsp;&emsp;The State shall reserve 25 percent of the amounts provided to the State for each fiscal year under this subchapter to carry out activities designed to improve the quality of child care (as described in section 9858e of this title) and to provide before- and after-school and early childhood development services (as described in section 9858f of this title).
+&emsp;&emsp;A State shall ensure that a substantial portion of the amounts available (after the State has complied with the requirement of section 418(b)(2) of the Social Security Act \[42 U.S.C. 618(b)(2)\] with respect to each of the fiscal years 1997 through 2002) to the State to carry out activities under this subchapter in each fiscal year is used to provide assistance to low-income working families other than families described in paragraph (2)(H).
 
 #### (4) Payment rates
 
 #### (A) In general
 
-&emsp;&emsp;The State plan shall provide assurances that payment rates for the provision of child care services for which assistance is provided under this subchapter are sufficient to ensure equal access for eligible children to comparable child care services in the State or substate area that are provided to children whose parents are not eligible to receive assistance under this subchapter or for child care assistance under any other Federal or State programs. Such payment rates shall take into account the variations in the costs of providing child care in different settings and to children of different age groups, and the additional costs of providing child care for children with special needs.
+&emsp;&emsp;The State plan shall certify that payment rates for the provision of child care services for which assistance is provided under this subchapter are sufficient to ensure equal access for eligible children to comparable child care services in the State or substate area that are provided to children whose parents are not eligible to receive assistance under this subchapter or for child care assistance under any other Federal or State programs and shall provide a summary of the facts relied on by the State to determine that such rates are sufficient to ensure such access.
 
 #### (B) Construction
 
@@ -128,13 +116,65 @@ The State plan contained in the application under subsection (a) of this section
 
 The Secretary shall approve an application that satisfies the requirements of this section.
 
-(Pub. L. 97–35, title VI, §658E, as added Pub. L. 101–508, title V, §5082(2), Nov. 5, 1990, 104 Stat. 1388–237; amended Pub. L. 102–401, §3(a), Oct. 7, 1992, 106 Stat. 1959; Pub. L. 102–586, §8(c)(1), Nov. 4, 1992, 106 Stat. 5036.)
+(Pub. L. 97–35, title VI, §658E, as added Pub. L. 101–508, title V, §5082(2), Nov. 5, 1990, 104 Stat. 1388–237; amended Pub. L. 102–401, §3(a), Oct. 7, 1992, 106 Stat. 1959; Pub. L. 102–586, §8(c)(1), Nov. 4, 1992, 106 Stat. 5036; Pub. L. 104–193, title VI, §605, Aug. 22, 1996, 110 Stat. 2281.)
+
+#### References in Text
+
+The Social Security Act, referred to in subsec. (c)(2)(H), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part A of title IV of the Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+
+Paragraphs (2) through (5) of section 658A(b), referred to in subsec. (c)(3)(B), means pars. (2) through (5) of section 658A(b) of Pub. L. 97–35, which are set out as a note under section 9858 of this title.
 
 #### Amendments
 
+1996—Subsec. (b). Pub. L. 104–193, §605(1), substituted “implemented during a 2-year period” for “implemented—
+
+&emsp;“(1) during a 3-year period for the initial State plan; and
+
+&emsp;“(2) during a 2-year period for subsequent State plans”.
+
+Subsec. (c)(2)(A). Pub. L. 104–193, §605(2)(A)(i)(II), in closing provisions, substituted “and provide a detailed description of the procedures the State will implement to carry out the requirements of this subparagraph.” for “except that nothing in this subparagraph shall require a State to have a child care certificate program in operation prior to October 1, 1992.”
+
+Subsec. (c)(2)(A)(i). Pub. L. 104–193, §605(2)(A)(i)(I), struck out “, other than through assistance provided under paragraph (3)(C),” after “provided under this subchapter” in introductory provisions.
+
+Subsec. (c)(2)(B). Pub. L. 104–193, §605(2)(A)(ii), substituted “Certify that procedures are in effect” for “Provide assurances that procedures are in effect” and inserted before period at end “and provide a detailed description of such procedures”.
+
+Subsec. (c)(2)(C). Pub. L. 104–193, §605(2)(A)(iii), substituted “Certify that the State maintains” for “Provide assurances that the State maintains” and inserted before period at end “and provide a detailed description of how such record is maintained and is made available”.
+
+Subsec. (c)(2)(D). Pub. L. 104–193, §605(2)(A)(iv), amended heading and text of subpar. (D) generally. Prior to amendment, text read as follows: “Provide assurances that consumer education information will be made available to parents and the general public within the State concerning licensing and regulatory requirements, complaint procedures, and policies and practices relative to child care services within the State.”
+
+Subsec. (c)(2)(E). Pub. L. 104–193, §605(2)(A)(v), amended heading and text of subpar. (E) generally, substituting provisions relating to compliance with State licensing requirements for provisions relating to compliance with State and local regulatory requirements.
+
+Subsec. (c)(2)(F), (G). Pub. L. 104–193, §605(2)(A)(vi), (vii), substituted “Certify” for “Provide assurances”.
+
+Subsec. (c)(2)(H). Pub. L. 104–193, §605(2)(A)(viii), added subpar. (H) and struck out heading and text of former subpar. (H). Text read as follows: “Provide assurances that if the State reduces the level of standards applicable to child care services provided in the State on November 5, 1990, the State shall inform the Secretary of the rationale for such reduction in the annual report of the State described in section 9858i of this title.”
+
+Subsec. (c)(2)(I). Pub. L. 104–193, §605(2)(A)(viii), struck out heading and text of subpar. (I). Text read as follows: “Provide assurances that not later than 18 months after the date of the submission of the application under this section, the State will complete a full review of the law applicable to, and the licensing and regulatory requirements and policies of, each licensing agency that regulates child care services and programs in the State unless the State has reviewed such law, requirements, and policies in the 3-year period ending on November 5, 1990.”
+
+Subsec. (c)(2)(J). Pub. L. 104–193, §605(2)(A)(viii), struck out heading and text of subpar. (J). Text read as follows: “Provide assurances that funds received under this subchapter by the State will be used only to supplement, not to supplant, the amount of Federal, State, and local funds otherwise expended for the support of child care services and related programs in the State.”
+
+Subsec. (c)(3)(A). Pub. L. 104–193, §605(2)(B)(i), substituted “subparagraphs (B) through (D)” for “subparagraphs (B) and (C)”.
+
+Subsec. (c)(3)(B). Pub. L. 104–193, §605(2)(B)(ii), inserted “and related activities” after “services” in heading, substituted “The” for “Subject to the reservation contained in subparagraph (C), the”, substituted “for child care services on a sliding fee scale basis, activities that improve the quality or availability of such services, and any other activity that the State deems appropriate to realize any of the goals specified in paragraphs (2) through (5) of section 658A(b)” for “for—
+
+&emsp;“(i) child care services, that meet the requirements of this subchapter, that are provided to eligible children in the State on a sliding fee scale basis using funding methods provided for in subsection (c)(2)(A) of this section”, substituted “special needs.” for “special needs; and”, and struck out cl. (ii) which read as follows: “activities designed to improve the availability and quality of child care.”
+
+Subsec. (c)(3)(C). Pub. L. 104–193, §605(2)(B)(iii), amended heading and text of subpar. (C) generally. Prior to amendment, text read as follows: “The State shall reserve 25 percent of the amounts provided to the State for each fiscal year under this subchapter to carry out activities designed to improve the quality of child care (as described in section 9858e of this title) and to provide before- and after-school and early childhood development services (as described in section 9858f of this title).”
+
+Subsec. (c)(3)(D). Pub. L. 104–193, §605(2)(B)(iv), added subpar. (D).
+
+Subsec. (c)(4)(A). Pub. L. 104–193, §605(2)(C), substituted “State plan shall certify” for “State plan shall provide assurances”, inserted “and shall provide a summary of the facts relied on by the State to determine that such rates are sufficient to ensure such access” after “Federal or State programs”, and struck out at end “Such payment rates shall take into account the variations in the costs of providing child care in different settings and to children of different age groups, and the additional costs of providing child care for children with special needs.”
+
 1992—Pub. L. 102–401 and Pub. L. 102–586 made identical technical corrections to directory language of Pub. L. 101–508, §5082(2), which added this section.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–193 effective Oct. 1, 1996, see section 615 of Pub. L. 104–193, set out as a note under section 9858 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 9858b, 9858d, 9858e, 9858f, 9858g, 9858h, 9858i, 9858k, 9858m, 9858n of this title.
+This section is referred to in sections 9858b, 9858d, 9858g, 9858h, 9858i, 9858k, 9858m, 9858n of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “organizations”.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

@@ -24,7 +24,7 @@ It shall not be in order in either the House of Representatives or the Senate to
 
 &emsp;(C) to make payments (including loans and grants), the budget authority for which is not provided for in advance by appropriation Acts, to any person or government if, under the provisions of the law containing such authority, the United States is obligated to make such payments to persons or governments who meet the requirements established by such law;
 
-&emsp;(D) to forego the collection by the United States of proprietary offsetting receipts, the budget authority for which is not provided inadvance by appropriation Acts to offset such foregone receipts; and
+&emsp;(D) to forego the collection by the United States of proprietary offsetting receipts, the budget authority for which is not provided in advance by appropriation Acts to offset such foregone receipts; and
 
 &emsp;(E) to make payments by the United States (including loans, grants, and payments from revolving funds) other than those covered by subparagraph (A), (B), (C), or (D), the budget authority for which is not provided in advance by appropriation Acts.
 

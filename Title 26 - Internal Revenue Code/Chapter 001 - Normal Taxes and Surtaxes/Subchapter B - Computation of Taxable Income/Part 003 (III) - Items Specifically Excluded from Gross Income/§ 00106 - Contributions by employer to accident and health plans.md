@@ -1,10 +1,66 @@
 ### §106. Contributions by employer to accident and health plans
 
-Gross income of an employee does not include employer-provided coverage under an accident or health plan.
+#### (a) General rule
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 32; Apr. 7, 1986, Pub. L. 99–272, title X, §10001(b), 100 Stat. 223; Oct. 22, 1986, Pub. L. 99–514, title XI, §§1114(b)(1), 1151(j)(2), 100 Stat. 2450, 2508; Nov. 10, 1988, Pub. L. 100–647, title I, §1018(t)(7)(A), title III, §3011(b)(1), 102 Stat. 3589, 3624; Dec. 19, 1989, Pub. L. 101–239, title VII, §7862(c)(1)(A), 103 Stat. 2432.)
+Except as otherwise provided in this section, gross income of an employee does not include employer-provided coverage under an accident or health plan.
+
+#### (b) Contributions to medical savings accounts
+
+#### (1) In general
+
+&emsp;In the case of an employee who is an eligible individual, amounts contributed by such employee's employer to any medical savings account of such employee shall be treated as employer-provided coverage for medical expenses under an accident or health plan to the extent such amounts do not exceed the limitation under section 220(b)(1) (determined without regard to this subsection) which is applicable to such employee for such taxable year.
+
+#### (2) No constructive receipt
+
+&emsp;No amount shall be included in the gross income of any employee solely because the employee may choose between the contributions referred to in paragraph (1) and employer contributions to another health plan of the employer.
+
+#### (3) Special rule for deduction of employer contributions
+
+&emsp;Any employer contribution to a medical savings account, if otherwise allowable as a deduction under this chapter, shall be allowed only for the taxable year in which paid.
+
+#### (4) Employer MSA contributions required to be shown on return
+
+&emsp;Every individual required to file a return under section 6012 for the taxable year shall include on such return the aggregate amount contributed by employers to the medical savings accounts of such individual or such individual's spouse for such taxable year.
+
+#### (5) MSA contributions not part of COBRA coverage
+
+&emsp;Paragraph (1) shall not apply for purposes of section 4980B.
+
+#### (6) Definitions
+
+&emsp;For purposes of this subsection, the terms “eligible individual” and “medical savings account” have the respective meanings given to such terms by section 220.
+
+#### (7) Cross reference
+
+&emsp;&emsp;<b>For penalty on failure by employer to make comparable contributions to the medical savings accounts of comparable employees, see section 4980E.</b>
+
+#### (c) Inclusion of long-term care benefits provided through flexible spending arrangements
+
+#### (1) In general
+
+&emsp;Effective on and after January 1, 1997, gross income of an employee shall include employer-provided coverage for qualified long-term care services (as defined in section 7702B(c)) to the extent that such coverage is provided through a flexible spending or similar arrangement.
+
+#### (2) Flexible spending arrangement
+
+&emsp;For purposes of this subsection, a flexible spending arrangement is a benefit program which provides employees with coverage under which—
+
+&emsp;&emsp;(A) specified incurred expenses may be reimbursed (subject to reimbursement maximums and other reasonable conditions), and
+
+&emsp;&emsp;(B) the maximum amount of reimbursement which is reasonably available to a participant for such coverage is less than 500 percent of the value of such coverage.
+
+> &emsp;In the case of an insured plan, the maximum amount reasonably available shall be determined on the basis of the underlying coverage.
+
+(Aug. 16, 1954, ch. 736, 68A Stat. 32; Apr. 7, 1986, Pub. L. 99–272, title X, §10001(b), 100 Stat. 223; Oct. 22, 1986, Pub. L. 99–514, title XI, §§1114(b)(1), 1151(j)(2), 100 Stat. 2450, 2508; Nov. 10, 1988, Pub. L. 100–647, title I, §1018(t)(7)(A), title III, §3011(b)(1), 102 Stat. 3589, 3624; Dec. 19, 1989, Pub. L. 101–239, title VII, §7862(c)(1)(A), 103 Stat. 2432; Aug. 21, 1996, Pub. L. 104–191, title III, §§301(c)(1), 321(c)(2), 110 Stat. 2048, 2058.)
+
+#### References in Text
+
+COBRA, referred to in the heading for subsec. (b)(5), probably means the Consolidated Omnibus Budget Reconciliation Act of 1985, Pub. L. 99–272, Apr. 7, 1986, 100 Stat. 82, as amended. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
+
+1996—Pub. L. 104–191, §301(c)(1), amended text generally. Prior to amendment, text read as follows: “Gross income of an employee does not include employer-provided coverage under an accident or health plan.”
+
+Subsec. (c). Pub. L. 104–191, §321(c)(2), added subsec. (c).
 
 1989—Subsec. (b)(2). Pub. L. 101–239 amended subsec. (b)(2) as it existed prior to general amendment by Pub. L. 100–647 by striking out the last sentence which read as follows: “Under regulations, rules similar to the rules of subsections (a) and (b) of section 52 (relating to employers under common control) shall apply for purposes of subparagraph (A).” See Effective Date of 1989 Amendment note below.
 
@@ -18,11 +74,17 @@ Subsec. (a). Pub. L. 99–514, §1151(j)(2), amended subsec. (a) generally. Prio
 
 Subsec. (b)(1). Pub. L. 99–514, §1114(b)(1), substituted “highly compensated employee (within the meaning of section 414(q))” for “highly compensated individual (within the meaning of section 105(h)(5))”.
 
+#### Effective Date of 1996 Amendment
+
+Amendment by section 301(c)(1) of Pub. L. 104–191 applicable to taxable years beginning after Dec. 31, 1996, see section 301(j) of Pub. L. 104–191, set out as a note under section 62 of this title.
+
+Amendment by section 321(c)(2) of Pub. L. 104–191 applicable to contracts issued after Dec. 31, 1996, see section 321(f) of Pub. L. 104–191, set out as an Effective Date note under section 7702B of this title.
+
 #### Effective Date of 1989 Amendment
 
 Section 7862(c)(1)(C) of Pub. L. 101–239 provided that: “The amendments made by this paragraph \[amending this section and section 1161 of Title 29, Labor\] shall apply to years beginning after December 31, 1986.”
 
-Section 7863 of Pub. L. 101–239 provided that: “Except as otherwise provided in this subpart any amendment made by this subpart \[subpart A (§§7861–7863) of part Vof title VII of Pub. L. 101–239, amending this section and sections 162, 411, 417, and 4980B of this title and sections 1052 to 1055, 1161, 1162, 1167, 1398, and 1461 of Title 29, Labor, enacting provisions set out as notes under this section and sections 162, 417, 1167, 4980, and 4980B of this title, and amending provisions set out as notes under sections 401 and 411 of this title and sections 1001 and 1054 of Title 29\], shall take effect as if included in the provision of the Reform Act \[Pub. L. 99–514\] to which such amendment relates.”
+Section 7863 of Pub. L. 101–239 provided that: “Except as otherwise provided in this subpart any amendment made by this subpart \[subpart A (§§7861–7863) of part V of title VII of Pub. L. 101–239, amending this section and sections 162, 411, 417, and 4980B of this title and sections 1052 to 1055, 1161, 1162, 1167, 1398, and 1461 of Title 29, Labor, enacting provisions set out as notes under this section and sections 162, 417, 1167, 4980, and 4980B of this title, and amending provisions set out as notes under sections 401 and 411 of this title and sections 1001 and 1054 of Title 29\], shall take effect as if included in the provision of the Reform Act \[Pub. L. 99–514\] to which such amendment relates.”
 
 #### Effective Date of 1988 Amendment
 
@@ -72,5 +134,5 @@ Employee defined, see section 7701 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 104, 414, 6039D, 7701 of this title; title 29 section 1167.
+This section is referred to in sections 104, 125, 220, 414, 3231, 3306, 3401, 4973, 6039D, 7701 of this title; title 29 section 1167.
 

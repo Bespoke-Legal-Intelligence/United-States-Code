@@ -26,7 +26,9 @@ Foreign Air Carrier Requirements.—The Secretary of Transportation shall consid
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -64,5 +66,5 @@ In subsection (b), the word “imposing” is added for clarity. The words “im
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 46301 of this title.
+This section is referred to in sections 40109, 46301, 46316 of this title.
 

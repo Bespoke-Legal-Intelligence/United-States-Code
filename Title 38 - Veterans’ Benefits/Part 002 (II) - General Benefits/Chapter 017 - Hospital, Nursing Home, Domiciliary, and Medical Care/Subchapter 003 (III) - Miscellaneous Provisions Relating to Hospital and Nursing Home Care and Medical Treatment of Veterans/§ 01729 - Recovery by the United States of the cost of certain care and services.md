@@ -8,7 +8,7 @@
 
 &emsp;(B) that is incurred as the result of a motor vehicle accident to which applies a State law that requires the owners or operators of motor vehicles registered in that State to have in force automobile accident reparations insurance;
 
-&emsp;(C) that is incurred as the result of a crime of personal violence that occurred in a State, or a political subdivision of a State, in which a person injured as the result of such a crime is entitled to receive health care and services at such State's or subdivision's expense forpersonal injuries suffered as the result of such crime;
+&emsp;(C) that is incurred as the result of a crime of personal violence that occurred in a State, or a political subdivision of a State, in which a person injured as the result of such a crime is entitled to receive health care and services at such State's or subdivision's expense for personal injuries suffered as the result of such crime;
 
 &emsp;(D) that is incurred by a veteran—
 
@@ -66,7 +66,7 @@
 
 (3) Sums in the Fund shall be available to the Secretary for the following:
 
-&emsp;(A) Payment of necessary expenses for the identification, billing, and collection of the cost of care and services furnished under this chapter, and for the administration and collection of payments required under section 1710(f) of this title for hospital care or nursing home care, under section 1712(f) of this title for medical services, and under section 1722A of this title for medications, including—
+&emsp;(A) Payment of necessary expenses for the identification, billing, and collection of the cost of care and services furnished under this chapter, and for the administration and collection of payments required under subsection (f) or (g) of section 1710 of this title for hospital care, medical services, or nursing home care and under section 1722A of this title for medications, including—
 
 &emsp;&emsp;(i) the costs of computer hardware and software, word processing and telecommunications equipment, other equipment, supplies, and furniture;
 
@@ -118,13 +118,15 @@
 
 &emsp;&emsp;(D) a person obligated to provide, or to pay the expenses of, health services under a health-plan contract.
 
-(Added Pub. L. 97–72, title I, §106(a)(1), Nov. 3, 1981, 95 Stat. 1050, §629; amended Pub. L. 99–272, title XIX, §19013(a), Apr. 7, 1986, 100 Stat. 382; Pub. L. 100–322, title II, §202, May 20, 1988, 102 Stat. 509; Pub. L. 101–508, title VIII, §8011(a)–(c), Nov. 5, 1990, 104 Stat. 1388–344; Pub. L. 102–40, title IV, §402(d)(1), May 7, 1991, 105 Stat. 239; renumbered §1729 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–568, title VI, §604, Oct. 29, 1992, 106 Stat. 4343; Pub. L. 103–66, title XII, §12003, Aug. 10, 1993, 107 Stat. 414.)
+(Added Pub. L. 97–72, title I, §106(a)(1), Nov. 3, 1981, 95 Stat. 1050, §629; amended Pub. L. 99–272, title XIX, §19013(a), Apr. 7, 1986, 100 Stat. 382; Pub. L. 100–322, title II, §202, May 20, 1988, 102 Stat. 509; Pub. L. 101–508, title VIII, §8011(a)–(c), Nov. 5, 1990, 104 Stat. 1388–344; Pub. L. 102–40, title IV, §402(d)(1), May 7, 1991, 105 Stat. 239; renumbered §1729 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–568, title VI, §604, Oct. 29, 1992, 106 Stat. 4343; Pub. L. 103–66, title XII, §12003, Aug. 10, 1993, 107 Stat. 414; Pub. L. 104–262, title I, §101(d)(10), Oct. 9, 1996, 110 Stat. 3180.)
 
 #### References in Text
 
 The Social Security Act, referred to in subsec. (i)(1)(B)(ii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XIX of the Social Security Act is classified generally to subchapter XIX (§1396 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Amendments
+
+1996—Subsec. (g)(3)(A). Pub. L. 104–262 substituted “under subsection (f) or (g) of section 1710 of this title for hospital care, medical services, or nursing home care” for “under section 1710(f) of this title for hospital care or nursing home care, under section 1712(f) of this title for medical services,”.
 
 1993—Subsec. (a)(2)(E). Pub. L. 103–66 substituted “October 1, 1998” for “August 1, 1994”.
 
@@ -192,7 +194,7 @@ Amount to be transferred.—The Secretary of the Treasury shall transfer $25,000
 
 “(2)
 
-Reimbursement of loan guaranty revolving fund.—Notwithstanding section 1729(g) \[formerly 629(g)\] of title 38, United States Code (as amended by subsection (c)), the first $25,000,000 recovered or collected by the Department of Veterans Affairs during fiscal year 1991 as a result of third-party medical recovery activities shall be credited to the Department of Veterans Affairs Loan Guaranty Revolving Fund.
+Reimbursement of loan guaranty revolving fund.—Notwithstanding section 1729(g) \[formerly629(g)\] of title 38, United States Code (as amended by subsection (c)), the first $25,000,000 recovered or collected by the Department of Veterans Affairs during fiscal year 1991 as a result of third-party medical recovery activities shall be credited to the Department of Veterans Affairs Loan Guaranty Revolving Fund.
 
 “(3)
 

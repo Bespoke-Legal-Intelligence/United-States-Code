@@ -7,7 +7,7 @@
 
 |  |  |  |
 | :--- | :---: | ---: |
-| [<b>I.</b>](Subchapter%20001%20%28I%29%20-%20Retired%20Service-%20Man%27s%20Family%20Protection%20Plan/README.md) | <b>Retired Serviceman's Family Protection Plan</b> | <b>1431</b> |
+| [<b>I.</b>](Subchapter%20001%20%28I%29%20-%20Retired%20Serviceman%27s%20Family%20Protection%20Plan/README.md) | <b>Retired Serviceman's Family Protection Plan</b> | <b>1431</b> |
 | [<b>II.</b>](Subchapter%20002%20%28II%29%20-%20Survivor%20Benefit%20Plan/README.md) | <b>Survivor Benefit Plan</b> | <b>1447</b> |
 | [<b>III.</b>](Subchapter%20003%20%28III%29%20-%20Supplemental%20Survivor%20Benefit%20Plan/README.md) | <b>Supplemental Survivor Benefit Plan</b> | <b>1456</b> |
 
@@ -44,6 +44,6 @@ This chapter is referred to in sections 1408, 1461, 1463 of this title; title 5 
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [Subchapter 001 (I) - Retired Service- Man's Family Protection Plan](Subchapter%20001%20%28I%29%20-%20Retired%20Service-%20Man%27s%20Family%20Protection%20Plan/README.md)
+- [Subchapter 001 (I) - Retired Serviceman's Family Protection Plan](Subchapter%20001%20%28I%29%20-%20Retired%20Serviceman%27s%20Family%20Protection%20Plan/README.md)
 - [Subchapter 002 (II) - Survivor Benefit Plan](Subchapter%20002%20%28II%29%20-%20Survivor%20Benefit%20Plan/README.md)
 - [Subchapter 003 (III) - Supplemental Survivor Benefit Plan](Subchapter%20003%20%28III%29%20-%20Supplemental%20Survivor%20Benefit%20Plan/README.md)

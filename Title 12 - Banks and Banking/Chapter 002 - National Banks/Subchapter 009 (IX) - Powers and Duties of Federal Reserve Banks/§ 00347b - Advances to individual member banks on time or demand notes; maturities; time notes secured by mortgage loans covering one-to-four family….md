@@ -30,7 +30,7 @@ Notwithstanding the foregoing, any Federal Reserve bank, under rules and regulat
 
 #### (C) Authority to issue a certificate of viability may not be delegated
 
-&emsp;&emsp;The authority of the head of any agency to issue a written certification of viabilityunder this paragraph may not be delegated to any other person.
+&emsp;&emsp;The authority of the head of any agency to issue a written certification of viability under this paragraph may not be delegated to any other person.
 
 #### (D) Extended advances subject to paragraph (3)
 
@@ -108,7 +108,11 @@ Notwithstanding the foregoing, any Federal Reserve bank, under rules and regulat
 
 &emsp;&emsp;&emsp;(iii) is not expected to be placed in conservatorship or receivership.
 
-(Dec. 23, 1913, ch. 6, §10B, formerly §10(b), as added Feb. 27, 1932, ch. 58, §2, 47 Stat. 56; amended Feb. 3, 1933, ch. 34, 47 Stat. 794; Mar. 9, 1933, ch. 1, title IV, §402, 48 Stat. 7; Aug. 23, 1935, ch. 614, title II, §204, 49 Stat. 705; Oct. 18, 1974, Pub. L. 93–449, §5, 88 Stat. 1368; Mar. 31, 1980, Pub. L. 96–221, title I, §106, 94 Stat. 140; renumbered §10B and amended Dec. 19, 1991, Pub. L. 102–242, title I, §142(a)(2), (b), 105 Stat. 2279.)
+(Dec. 23, 1913, ch. 6, §10B, formerly §10(b), as added Feb. 27, 1932, ch. 58, §2, 47 Stat. 56; amended Feb. 3, 1933, ch. 34, 47 Stat. 794; Mar. 9, 1933, ch. 1, title IV, §402, 48 Stat. 7; Aug. 23, 1935, ch. 614, title II, §204, 49 Stat. 705; Oct. 18, 1974, Pub. L. 93–449, §5, 88 Stat. 1368; Mar. 31, 1980, Pub. L. 96–221, title I, §106, 94 Stat. 140; renumbered §10B and amended Dec. 19, 1991, Pub. L. 102–242, title I, §142(a)(2), (b), 105 Stat. 2279; Sept. 30, 1996, Pub. L. 104–208, div. A, title II, §2704(d)(9), 110 Stat. 3009–489.)
+
+#### Amendment of Subsection (b)(3)(A)(ii)
+
+<i>Pub. L. 104–208, div. A, title II, §2704(c), (d)(9), Sept. 30, 1996, 110 Stat. 3009–487, 3009–489, provided that, effective Jan. 1, 1999, if no insured depository institution is a savings association on that date, subsection (b)(3)(A)(ii) of this section is amended by substituting “the Deposit Insurance Fund of” for “any deposit insurance fund in”.</i>
 
 #### Amendments
 
@@ -120,9 +124,13 @@ Notwithstanding the foregoing, any Federal Reserve bank, under rules and regulat
 
 1935—Act Aug. 23, 1935, struck out provision prescribing termination date of section.
 
-1933—Act Mar. 9, 1933, struck out proviso which extended applicability to member banks regardless oftheir capital, and empowered President to extend termination date one year beyond March 3, 1934.
+1933—Act Mar. 9, 1933, struck out proviso which extended applicability to member banks regardless of their capital, and empowered President to extend termination date one year beyond March 3, 1934.
 
 Act Feb. 3, 1933, extended termination date from “March 3, 1933” to “March 3, 1934”.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–208 effective Jan. 1, 1999, if no insured depository institution is a savings association on that date, see section 2704(c) of Pub. L. 104–208, set out as a note under section 1821 of this title.
 
 #### Effective Date of 1991 Amendment
 

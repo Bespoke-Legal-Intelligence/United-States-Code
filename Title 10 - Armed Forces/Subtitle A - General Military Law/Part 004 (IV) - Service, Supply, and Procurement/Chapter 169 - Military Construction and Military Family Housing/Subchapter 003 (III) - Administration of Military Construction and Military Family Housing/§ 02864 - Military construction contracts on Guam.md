@@ -6,13 +6,13 @@ In General.—Except as provided in subsection (b), funds appropriated for milit
 
 (b)
 
-Exception.—In any case in which there is no acceptable bid made in response to a solicitation for bids on a contract for a military construction project on Guam and the Secretary concerned makes a determination that the prohibition contained in subsection (a) is a significant deterrent to obtaining bids on such contract, the Secretary concerned may make another solicitation for bids on such contract and the prohibition contained in subsection (a) shall not apply to such contract after the 21-day period beginning on the date on which the Secretary concerned transmits to the Committees on Armed Services of the Senate and the House of Representatives a written notification of that determination.
+Exception.—In any case in which there is no acceptable bid made in response to a solicitation for bids on a contract for a military construction project on Guam and the Secretary concerned makes a determination that the prohibition contained in subsection (a) is a significant deterrent to obtaining bids on such contract, the Secretary concerned may make another solicitation for bids on such contract and the prohibition contained in subsection (a) shall not apply to such contract.
 
-(Added Pub. L. 101–189, div. B, title XXVIII, §2807(a), Nov. 29, 1989, 103 Stat. 1648.)
+(Added Pub. L. 101–189, div. B, title XXVIII, §2807(a), Nov. 29, 1989, 103 Stat. 1648; amended Pub. L. 104–106, div. A, title X, §1062(g), Feb. 10, 1996, 110 Stat. 444.)
 
-#### Change of Name
+#### Amendments
 
-Committee on Armed Services of House of Representatives treated as referring to Committee on National Security of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+1996—Subsec. (b). Pub. L. 104–106 struck out “after the 21-day period beginning on the date on which the Secretary concerned transmits to the Committees on Armed Services of the Senate and the House of Representatives a written notification of that determination” before period at end.
 
 #### Effective Date
 

@@ -1,12 +1,12 @@
 ### §931. Rural Electrification and Telephone Revolving Fund
 
-(a) <sup>1</sup> There is hereby established in the Treasury of the United States a fund, to be known as the Rural Electrification and Telephone Revolving Fund (hereinafter referred to as the “fund”), consisting of:
+There is hereby established in the Treasury of the United States a fund, to be known as the Rural Electrification and Telephone Revolving Fund (hereinafter referred to as the “fund”), consisting of:
 
-&emsp;(1) all notes, bonds, obligations, liens, mortgages, and property delivered or assigned to the Secretary pursuant to loans heretofore or hereafter made under sections 904, 905, and 922 of this title and under this subchapter, as of May 11, 1973, and all proceeds from the sales hereunder of such notes, bonds, obligations, liens, mortgages, and property, which shall be transferred to and be assets of the funds;
+&emsp;(1) all notes, bonds, obligations, liens, mortgages, and property delivered or assigned to the Secretary pursuant to loans heretofore or hereafter made under sections 904, 905,<sup>1</sup> and 922 of this title and under this subchapter, as of May 11, 1973, and all proceeds from the sales hereunder of such notes, bonds, obligations, liens, mortgages, and property, which shall be transferred to and be assets of the funds;
 
-&emsp;(2) undisbursed balances of electric and telephone loans made under sections 904, 905, and 922 of this title, which as of May 11, 1973, shall be transferred to and be assets of the fund;
+&emsp;(2) undisbursed balances of electric and telephone loans made under sections 904, 905,<sup>1</sup> and 922 of this title, which as of May 11, 1973, shall be transferred to and be assets of the fund;
 
-&emsp;(3) notwithstanding section 903(a) of this title, all collections of principal and interest received on and after July 1, 1972, on notes, bonds, judgments, or other obligations made or held under subchapters I and II of this chapter and under this subchapter, except for net collection proceeds previously appropriated for the purchase of class A stock in the Rural Telephone Bank, which shall be paid into and be assets of the fund;
+&emsp;(3) all collections of principal and interest received on and after July 1, 1972, on notes, bonds, judgments, or other obligations made or held under subchapters I and II of this chapter and under this subchapter, except for net collection proceeds previously appropriated for the purchase of class A stock in the Rural Telephone Bank, which shall be paid into and be assets of the fund;
 
 &emsp;(4) all appropriations for interest subsidies and losses required under this subchapter which may hereafter be made by the Congress and the unobligated balances of any funds made available for loans under the item “Rural Electrification Administration” in the Department of Agriculture and Agriculture-Environmental and Consumer Protection Appropriations Acts;
 
@@ -14,9 +14,15 @@
 
 &emsp;(6) shares of the capital stock of the Rural Telephone Bank purchased by the United States pursuant to section 946(a) of this title and moneys received from said bank upon retirement of said shares of stock in accordance with the provisions of subchapter IV of this chapter, which said shares and moneys shall be assets of the fund.
 
-(May 20, 1936, ch. 432, title III, §301, as added May 7, 1971, Pub. L. 92–12, §2, 85 Stat. 29; amended May 11, 1973, Pub. L. 93–32, §2, 87 Stat. 66; Oct. 20, 1976, Pub. L. 94–570, §2, 90 Stat. 2701; Oct. 13, 1994, Pub. L. 103–354, title II, §235(a)(13), 108 Stat. 3221.)
+(May 20, 1936, ch. 432, title III, §301, as added May 7, 1971, Pub. L. 92–12, §2, 85 Stat. 29; amended May 11, 1973, Pub. L. 93–32, §2, 87 Stat. 66; Oct. 20, 1976, Pub. L. 94–570, §2, 90 Stat. 2701; Oct. 13, 1994, Pub. L. 103–354, title II, §235(a)(13), 108 Stat. 3221; Apr. 4, 1996, Pub. L. 104–127, title VII, §772(b)(1), 110 Stat. 1149.)
+
+#### References in Text
+
+Section 905 of this title, referred to in pars. (1) and (2), was repealed by Pub. L. 104–127, title VII, §774(a), Apr. 4, 1996, 110 Stat. 1150.
 
 #### Amendments
+
+1996—Pub. L. 104–127 struck out “(a)” before “There is hereby” in introductory provisions and struck out “notwithstanding section 903(a) of this title,” before “all collections” in par. (3).
 
 1994—Subsec. (a)(1). Pub. L. 103–354 substituted “Secretary” for “Administrator”.
 
@@ -40,5 +46,5 @@ Section effective May 7, 1971, see section 7 of Pub. L. 92–12, set out as a no
 
 This section is referred to in section 946 of this title.
 
-<i><sup>1</sup></i><i> So in original. No subsec. (b) has been enacted.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

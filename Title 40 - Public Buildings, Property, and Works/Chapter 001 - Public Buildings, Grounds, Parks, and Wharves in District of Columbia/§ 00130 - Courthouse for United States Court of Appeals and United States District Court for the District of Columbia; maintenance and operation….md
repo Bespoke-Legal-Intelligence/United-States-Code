@@ -20,6 +20,10 @@ Functions of Federal Works Agency and of all agencies thereof, together with fun
 
 Transfer of functions by act June 30, 1949, effective July 1, 1949, see note set out under section 471 of this title.
 
+#### References to Courthouse
+
+Reference to United States Courthouse in District of Columbia deemed reference to “E. Barrett Prettyman United States Courthouse”, see section 2 of Pub. L. 104–151, set out as an E. Barrett Prettyman United States Courthouse Designation note under section 129a of this title.
+
 #### Section Referred to in Other Sections
 
 This section is referred to in section 130a of this title.

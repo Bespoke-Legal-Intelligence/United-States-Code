@@ -6,7 +6,7 @@ The Assistant Secretary may award grants and enter into contracts with eligible 
 
 #### (b) Use of funds
 
-An eligible organization shall use funds made available under a grant awarded, or a contractentered into, under subsection (a) of this section—
+An eligible organization shall use funds made available under a grant awarded, or a contract entered into, under subsection (a) of this section—
 
 &emsp;(1) to carry out a demonstration project that provides multigenerational activities, including any professional training appropriate to such activities for older individuals; and
 
@@ -32,7 +32,7 @@ Organizations eligible to receive a grant or enter into a contract under subsect
 
 #### (1) Evaluation
 
-&emsp;Each organization receiving a grant or a contract under subsection (a) of this section to carry out a demonstration project shall evaluate the activities assisted under the project to determine the effectiveness of multigenerational activities, the impact of such activities on child care and youth day care programs, and the impact on older individuals involved in such project.
+&emsp;Each organization receiving a grant or a contract under subsection (a) of this section to carry out a demonstration project shall evaluate the activities assisted under the project todetermine the effectiveness of multigenerational activities, the impact of such activities on child care and youth day care programs, and the impact on older individuals involved in such project.
 
 #### (2) Report
 

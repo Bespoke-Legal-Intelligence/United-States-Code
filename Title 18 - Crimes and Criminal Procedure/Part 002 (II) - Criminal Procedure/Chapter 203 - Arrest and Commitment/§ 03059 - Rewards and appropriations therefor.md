@@ -66,6 +66,14 @@ The criminal laws of the United States, referred to in subsec. (a)(1), are class
 
 1982—Pub. L. 97–258, §2(d)(2), redesignated existing provisions as subsec. (a)(1) and (2) and added subsec. (b).
 
+#### Spending Limitations Lifted
+
+Pub. L. 104–19, title III, §3001, July 27, 1995, 109 Stat. 250, provided that: “Any funds made available to the Attorney General heretofore or hereafter in any Act shall not be subject to the spending limitations contained in sections 3059 and 3072 of title 18, United States Code: <i>Provided</i>, That any reward of $100,000 or more, up to a maximum of $2,000,000, may not be made without the personal approval of the President or the Attorney General, and such approval may not be delegated.”
+
+Similar provisions were contained in the following appropriations act:
+
+Pub. L. 104–208, div. A, title I, §101(a) \[title I, §106\], Sept. 30, 1996, 110 Stat. 3009, 3009–17.
+
 #### Canal Zone
 
 Applicability of section to Canal Zone, see section 14 of this title.

@@ -2,7 +2,7 @@
 
 For purposes of this subchapter:
 
-&emsp;(1) The term “abuse” means any act or failure to act by an employee of a facility rendering care or treatment which was performed, or which was failed to be performed, knowingly, recklessly, or intentionally, and which caused, or may have caused, injury or death to a <sup>1</sup> individual with mental illness, and includes acts such as—
+&emsp;(1) The term “abuse” means any act or failure to act by an employee of a facility rendering care or treatment which was performed, or which was failed to be performed, knowingly, recklessly, or intentionally, and which caused,or may have caused, injury or death to a <sup>1</sup> individual with mental illness, and includes acts such as—
 
 &emsp;&emsp;(A) the rape or sexual assault of a <sup>1</sup> individual with mental illness;
 

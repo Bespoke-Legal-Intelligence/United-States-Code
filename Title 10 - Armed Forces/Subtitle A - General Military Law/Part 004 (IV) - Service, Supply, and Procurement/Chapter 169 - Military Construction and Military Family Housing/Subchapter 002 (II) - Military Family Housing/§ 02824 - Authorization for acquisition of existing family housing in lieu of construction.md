@@ -4,11 +4,17 @@
 
 (b) When authority provided by law to construct military family housing units is used to acquire existing family housing units under subsection (a), the authority includes authority to acquire interests in land.
 
-(c) The net floor area of a family housing unit acquired under the authority of this section may not exceed the applicable limitation specified in section 2826 of this title.
+(c) The net floor area of a family housing unit acquired under the authority of this section may not exceed the applicable limitation specified in section 2826 of this title. The Secretary concerned may waive the limitation set forth in the preceding sentence to family housing units acquired under this section during the five-year period beginning on February 10, 1996.
 
 (d) Family housing units may not be acquired under this section through the exercise of eminent domain authority.
 
-(Added Pub. L. 97–214, §2(a), July 12, 1982, 96 Stat. 159.)
+(Added Pub. L. 97–214, §2(a), July 12, 1982, 96 Stat. 159; amended Pub. L. 104–106, div. B, title XXVIII, §2813, Feb. 10, 1996, 110 Stat. 553; Pub. L. 104–201, div. A, title X, §1074(a)(17), Sept. 23, 1996, 110 Stat. 2659.)
+
+#### Amendments
+
+1996—Subsec. (c). Pub. L. 104–201 substituted “February 10, 1996” for “the date of the enactment of the National Defense Authorization Act for Fiscal Year 1996”.
+
+Pub. L. 104–106 inserted at end “The Secretary concerned may waive the limitation set forth in the preceding sentence to family housing units acquired under this section during the five-year period beginning on the date of the enactment of the National Defense Authorization Act for Fiscal Year 1996.”
 
 #### Effective Date
 

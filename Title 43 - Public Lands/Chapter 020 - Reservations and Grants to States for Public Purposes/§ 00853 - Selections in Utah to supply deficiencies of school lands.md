@@ -8,5 +8,5 @@ Wherever the words “sections 16 and 36” occur in said sections, the same as 
 
 #### References in Text
 
-Act approved July 16, 1894, referred to in text, is act July 16, 1894, ch. 138, 28 Stat. 107. Provisions of such act relating to admission of Utah into the Union are not classified to the Code.
+Act approved July 16, 1894, referred to in text, is act July 16, 1894, ch. 138, 28 Stat. 107. Provisions of such actrelating to admission of Utah into the Union are not classified to the Code.
 

@@ -6,7 +6,7 @@ If, before authorization of a project, non-Federal public bodies indicate their 
 
 &emsp;(1) the benefits of the project to said purpose or purposes shall be taken into account in determining the economic benefits of the project;
 
-&emsp;(2) costs shall be allocated to said purpose or purposes and to other purposes in a manner which will insure that all project purposes share equitably in the advantages of multiple-purpose construction: <i>Provided</i>, That the costs allocated to recreation or fish and wildlife enhancement shall not exceed the lesser of the benefits from those functions or the costs of providing recreation or fish and wildlife enhancement benefits or reasonably equivalent use and location by the least costly alternative means; and
+&emsp;(2) costs shall be allocated to said purpose or purposes and to other purposes in a manner which will insure that all project purposes share equitably in the advantages of multiple-purpose construction: <i>Provided</i>, That the costsallocated to recreation or fish and wildlife enhancement shall not exceed the lesser of the benefits from those functions or the costs of providing recreation or fish and wildlife enhancement benefits or reasonably equivalent use and location by the least costly alternative means; and
 
 &emsp;(3) not more than one-half the separable costs of the project allocated to recreation and exactly three-quarters of such costs allocated to fish and wildlife enhancement and all the joint costs of the project allocated to recreation and fish and wildlife enhancement shall be borne by the United States and be nonreimbursable.
 

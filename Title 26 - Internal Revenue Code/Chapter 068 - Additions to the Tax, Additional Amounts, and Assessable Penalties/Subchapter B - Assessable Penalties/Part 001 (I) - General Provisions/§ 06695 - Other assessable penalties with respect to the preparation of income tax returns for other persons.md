@@ -68,7 +68,7 @@ Section 701(cc)(3) of Pub. L. 95–600 provided that: “The amendments made by 
 
 #### Repeal of Regulations Covering Substantiation by Adequate Contemporaneous Records
 
-Regulations issued before May 24, 1985, to carry out the amendment of subsec. (b) of this section by section 179(b)(2) of Pub. L. 98–369 to have no force and effect,see section 1(c) of Pub. L. 99–44, set out as a note under section 274 of this title.
+Regulations issued before May 24, 1985, to carry out the amendment of subsec. (b) of this section by section 179(b)(2) of Pub. L. 98–369 to have no force and effect, see section 1(c) of Pub. L. 99–44, set out as a note under section 274 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(B) review, and determine (in accordance with paragraph (2)), the amount of any antidumping duty, and
 
-&emsp;&emsp;(C) review the current status of, and compliance with, any agreement by reason of which an investigation was suspended, and review the amount of any net countervailable subsidy or dumping margin involved in the agreement,
+&emsp;&emsp;(C) review the current status of, and compliance with, any agreement by reason ofwhich an investigation was suspended, and review the amount of any net countervailable subsidy or dumping margin involved in the agreement,
 
 > &emsp;and shall publish in the Federal Register the results of such review, together with notice of any duty to be assessed, estimated duty to be deposited, or investigation to be resumed.
 
@@ -70,7 +70,7 @@
 
 #### (C) Effect of pending review under section 1516a
 
-&emsp;&emsp;In a case in which a final determination under paragraph (1) is under review under section 1516a of this title and a liquidation of entries covered by the determination is enjoined under section 1516a(c)(2) of this title or suspended under section 1516a(g)(5)(C) of this title, the administering authority shall, within 10 days after the final disposition of the review under section 1516a of this title, transmit to the Federal Register for publication the final disposition and issue instructions to the Customs Service with respect to the liquidation of entries pursuant to the review. In such a case, the 90-day period referred to in subparagraph (B) shall begin on the day on which the administering authority issues such instructions.
+&emsp;&emsp;In a case in which a final determination under paragraph (1) is under review under section 1516a of this title and a liquidation of entries covered by the determination is enjoined under section 1516a(c)(2) of this title or suspended under section 1516a(g)(5)(C) of this title, the administeringauthority shall, within 10 days after the final disposition of the review under section 1516a of this title, transmit to the Federal Register for publication the final disposition and issue instructions to the Customs Service with respect to the liquidation of entries pursuant to the review. In such a case, the 90-day period referred to in subparagraph (B) shall begin on the day on which the administering authority issues such instructions.
 
 #### (4) Absorption of antidumping duties
 
@@ -124,7 +124,7 @@
 
 &emsp;Notwithstanding subsection (b) of this section and except in the case of a transition order defined in paragraph (6), 5 years after the date of publication of—
 
-&emsp;&emsp;(A) a countervailing duty order (other than a countervailing duty order to whichsubparagraph (B) applies or which was issued without an affirmative determination of injury by the Commission under section 1303 <sup>1</sup> of this title), an antidumping duty order, or a notice of suspension of an investigation, described in subsection (a)(1) of this section,
+&emsp;&emsp;(A) a countervailing duty order (other than a countervailing duty order to which subparagraph (B) applies or which was issued without an affirmative determination of injury by the Commission under section 1303 <sup>1</sup> of this title), an antidumping duty order, or a notice of suspension of an investigation, described in subsection (a)(1) of this section,
 
 &emsp;&emsp;(B) a notice of injury determination under section 1675b of this title with respect to a countervailing duty order, or
 
@@ -134,7 +134,7 @@
 
 #### (2) Notice of initiation of review
 
-&emsp;Not later than 30 days before the fifth anniversary of the date described in paragraph (1), the administering authority shall publish in the Federal Register a notice of initiation of a review under this subsection and request that interested parties submit—
+&emsp;Not later than 30 days before the fifth anniversary of the date described in paragraph (1), the administering authority shall publish inthe Federal Register a notice of initiation of a review under this subsection and request that interested parties submit—
 
 &emsp;&emsp;(A) a statement expressing their willingness to participate in the review by providing information requested by the administering authority and the Commission,
 
@@ -188,7 +188,7 @@
 
 #### (D) Grouped reviews
 
-&emsp;&emsp;The Commission, in consultation with the administering authority, may group orders or suspended investigations for review if it considers that such grouping is appropriate and will promote administrative efficiency. Where orders or suspended investigations have been grouped, the Commission shall, subject to subparagraph (B), make its finaldetermination under this subsection not later than 120 days after the date that the administering authority publishes notice of its final determination with respect to the last order or agreement in the group.
+&emsp;&emsp;The Commission, in consultation with the administering authority, may group orders or suspended investigations for review if it considers that such grouping is appropriate and will promote administrative efficiency. Where orders or suspended investigations have been grouped, the Commission shall, subject to subparagraph (B), make its final determination under this subsection not later than 120 days after the date that the administering authority publishes notice of its final determination with respect to the last order or agreement in the group.
 
 #### (6) Special transition rules
 
@@ -204,7 +204,7 @@
 
 #### (iii) Subsequent reviews
 
-&emsp;&emsp;&emsp;The time limits set forth in clauses (i) and (ii) shall be applied to all subsequent 5-year reviews of transition orders by substituting “date of the determination to continue such orders” for “date such orders are issued”.
+&emsp;&emsp;&emsp;The time limits set forth in clauses (i) and (ii) shall be applied to all subsequent5-year reviews of transition orders by substituting “date of the determination to continue such orders” for “date such orders are issued”.
 
 #### (iv) Revocation and termination
 
@@ -262,7 +262,7 @@ If the determination of the Commission under subsection (b)(2)(B) of this sectio
 
 &emsp;If—
 
-&emsp;&emsp;(A) the administering authority receives notice from the Trade Representative of aviolation of Article 8 of the Subsidies Agreement,
+&emsp;&emsp;(A) the administering authority receives notice from the Trade Representative of a violation of Article 8 of the Subsidies Agreement,
 
 &emsp;&emsp;(B) the administering authority has reason to believe that merchandise subject to an existing countervailing duty order or suspended investigation is benefiting from the subsidy or subsidy program found to have been in violation of Article 8 of the Subsidies Agreement, and
 

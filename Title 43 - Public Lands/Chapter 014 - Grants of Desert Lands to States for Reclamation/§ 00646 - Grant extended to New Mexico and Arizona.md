@@ -1,6 +1,6 @@
 ### §646. Grant extended to New Mexico and Arizona
 
-All the provisions of sections 641, 642 and 643 <sup>1</sup> of this title are extended to the States of NewMexico and Arizona, and the said States upon complying with the provisions of said sections shall be entitled to have and receive all of the benefits therein conferred upon the States.
+All the provisions of sections 641, 642 and 643 <sup>1</sup> of this title are extended to the States of New Mexico and Arizona, and the said States upon complying with the provisions of said sections shall be entitled to have and receive all of the benefits therein conferred upon the States.
 
 (Feb. 18, 1909, ch. 150, §1, 35 Stat. 638.)
 

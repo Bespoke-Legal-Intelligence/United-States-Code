@@ -32,13 +32,15 @@ Considerations and Additional Requirements.—In prescribing regulations under s
 
 (d)
 
-Packages Meeting Packaging Standards.—If the Secretary finds packaging standards to be adequate, regulations under subsection (a)(1) of this section may not apply to cosmetics, devices, drugs, food, food additives, or nonfood products packaged in packages that meet the standards.
+Packages Meeting Packaging Standards.—If the Secretary finds packaging standards to be adequate, regulations under subsection (a)(1) of this section may not apply tocosmetics, devices, drugs, food, food additives, or nonfood products packaged in packages that meet the standards.
 
 (Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 855.)
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

@@ -28,7 +28,7 @@ For purposes of this section, the term “antitrust laws” means—
 
 &emsp;(4) sections 73 and 74 of the Wilson Tariff Act (15 U.S.C. 8 and 9); and
 
-&emsp;(5) sections 2, 3, and 4 of the Act entitled “An Act to amend section 2 of the Act entitled ‘An Act to supplement existing laws against unlawful restraints and monopolies, and for other purposes’, approved October 15, 1914, as amended (U.S.C., title 15, sec. 13), and forother purposes” approved June 19, 1936 (15 U.S.C. 21a, 13a, and 13b, commonly known as the Robinson-Patman Antidiscrimination Act).
+&emsp;(5) sections 2, 3, and 4 of the Act entitled “An Act to amend section 2 of the Act entitled ‘An Act to supplement existing laws against unlawful restraints and monopolies, and for other purposes’, approved October 15, 1914, as amended (U.S.C., title 15, sec. 13), and for other purposes” approved June 19, 1936 (15 U.S.C. 21a, 13a, and 13b, commonly known as the Robinson-Patman Antidiscrimination Act).
 
 (Pub. L. 95–619, title II, §267, as added Pub. L. 96–294, title V, §562, June 30, 1980, 94 Stat. 749.)
 

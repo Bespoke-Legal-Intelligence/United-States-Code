@@ -1,5 +1,5 @@
 
-16 U.S.C.<br>United States Code, 1995 Edition<br>Title 16 - CONSERVATION<br>From the U.S. Government Publishing Office, www.gpo.gov
+16 U.S.C.<br>United States Code, 1996 Edition<br>Title 16 - CONSERVATION<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 16—CONSERVATION
 
@@ -73,7 +73,7 @@
 | [<b>32.</b>](Chapter%20032%20-%20Marine%20Sanctuaries/README.md) | <b>Marine Sanctuaries</b> | <b>1431</b> |
 | [<b>32A.</b>](Chapter%20032A%20-%20Regional%20Marine%20Research%20Programs/README.md) | <b>Regional Marine Research Programs</b> | <b>1447</b> |
 | [<b>33.</b>](Chapter%20033%20-%20Coastal%20Zone%20Management/README.md) | <b>Coastal Zone Management</b> | <b>1451</b> |
-| [<b>34.</b>](Chapter%20034%20-%20Rural%20Environmental%20Conservation%20Program/README.md) | <b>Rural Environmental Conservation Program</b> | <b>1501</b> |
+| [<b>34.</b>](Chapter%20034%20-%20Rural%20Environmental%20Conservation%20Program/README.md) | <b>Rural Environmental Conservation Program \[Repealed\]</b> | <b>1501</b> |
 | [<b>35.</b>](Chapter%20035%20-%20Endangered%20Species/README.md) | <b>Endangered Species</b> | <b>1531</b> |
 | [<b>36.</b>](Chapter%20036%20-%20Forest%20and%20Rangeland%20Renewable%20Resources%20Planning/README.md) | <b>Forest and Rangeland Renewable Resources Planning</b> | <b>1601</b> |
 | [<b>37.</b>](Chapter%20037%20-%20Youth%20Conservation%20Corps%20and%20Public%20Lands%20Corps/README.md) | <b>Youth Conservation Corps and Public Lands Corps</b> | <b>1701</b> |
@@ -122,6 +122,7 @@
 | [<b>75.</b>](Chapter%20075%20-%20High%20Seas%20Fishing%20Compliance/README.md) | <b>High Seas Fishing Compliance</b> | <b>5501</b> |
 | [<b>76.</b>](Chapter%20076%20-%20Northwest%20Atlantic%20Fisheries%20Convention/README.md) | <b>Northwest Atlantic Fisheries Convention</b> | <b>5601</b> |
 | [<b>77.</b>](Chapter%20077%20-%20Yukon%20River%20Salmon/README.md) | <b>Yukon River Salmon</b> | <b>5701</b> |
+| [<b>78.</b>](Chapter%20078%20-%20National%20Natural%20Resources%20Conservation%20Foundation/README.md) | <b>National Natural Resources Conservation Foundation</b> | <b>5801</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -246,3 +247,4 @@
 - [Chapter 075 - High Seas Fishing Compliance](Chapter%20075%20-%20High%20Seas%20Fishing%20Compliance/README.md)
 - [Chapter 076 - Northwest Atlantic Fisheries Convention](Chapter%20076%20-%20Northwest%20Atlantic%20Fisheries%20Convention/README.md)
 - [Chapter 077 - Yukon River Salmon](Chapter%20077%20-%20Yukon%20River%20Salmon/README.md)
+- [Chapter 078 - National Natural Resources Conservation Foundation](Chapter%20078%20-%20National%20Natural%20Resources%20Conservation%20Foundation/README.md)

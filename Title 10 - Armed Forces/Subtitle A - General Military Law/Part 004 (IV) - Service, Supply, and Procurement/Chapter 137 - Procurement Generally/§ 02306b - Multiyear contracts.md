@@ -58,7 +58,7 @@ Cancellation or Termination for Insufficient Funding.—In the event funds are n
 
 (g)
 
-Contract Cancellation Ceilings Exceeding $100,000,000.—Before any contract described in subsection (a) that contains a clause setting forth a cancellation ceiling in excess of $100,000,000 may be awarded, the head of the agency concerned shall give written notification of the proposed contract and of the proposed cancellation ceiling for that contract to the Committees on Armed Services and on Appropriations of the Senate and House of Representatives, and such contract may not then be awarded until the end of a period of 30 days beginning on the date of such notification.
+Contract Cancellation Ceilings Exceeding $100,000,000.—Before any contract described in subsection (a) that contains a clause setting forth a cancellation ceiling in excess of $100,000,000 may be awarded, the head of the agency concerned shall give written notification of the proposed contract and of the proposed cancellation ceiling for that contract to the Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on National Security and the Committee on Appropriations of the House of Representatives, and such contract may not then be awarded until the end of a period of 30 days beginning on the date of such notification.
 
 (h)
 
@@ -76,7 +76,7 @@ Defense Acquisitions Specifically Authorized by Law.—(1) A multiyear contract 
 
 &emsp;(B) The proposed multiyear contract provides for production at not less than minimum economic rates given the existing tooling and facilities.
 
-(2) If for any fiscal year a multiyear contract to be entered into under this section is authorized by law for a particular procurement program and that authorization is subject to certain conditions established by law (including a condition as to cost savings to be achieved under the multiyear contract in comparison to specified other contracts) and if it appears (after negotiations with contractors) that such savings cannot be achieved, but that substantial savings could nevertheless be achieved through the use of a multiyear contract rather than specified other contracts, the President may submit to Congress a request for relief from the specified cost savings that must be achieved through multiyear contracting for that program. Any such request by the President shall include details about the request for a multiyear contract, including details about the negotiated contract terms and conditions.
+(2) If for any fiscal year a multiyear contract to be entered into under this section is authorized by law for a particular procurement program and that authorization is subject to certain conditions established by law (including acondition as to cost savings to be achieved under the multiyear contract in comparison to specified other contracts) and if it appears (after negotiations with contractors) that such savings cannot be achieved, but that substantial savings could nevertheless be achieved through the use of a multiyear contract rather than specified other contracts, the President may submit to Congress a request for relief from the specified cost savings that must be achieved through multiyear contracting for that program. Any such request by the President shall include details about the request for a multiyear contract, including details about the negotiated contract terms and conditions.
 
 (j)
 
@@ -84,17 +84,21 @@ Defense Contract Options for Varying Quantities.—The Secretary of Defense may 
 
 (k)
 
-Inapplicability to Automatic Data Processing Contracts.—This section does not apply to contracts for the purchase of property to which section 111 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 759) applies.
-
-(<i>l)</i>
-
 Multiyear Contract Defined.—For the purposes of this subsection, a multiyear contract is a contract for the purchase of property or services for more than one, but not more than five, program years. Such a contract may provide that performance under the contract during the second and subsequent years of the contract is contingent upon the appropriation of funds and (if it does so provide) may provide for a cancellation payment to be made to the contractor if such appropriations are not made.
 
-(Added Pub. L. 103–355, title I, §1022(a)(1), Oct. 13, 1994, 108 Stat. 3257.)
+(Added Pub. L. 103–355, title I, §1022(a)(1), Oct. 13, 1994, 108 Stat. 3257; amended Pub. L. 104–106, div. A, title XV, §1502(a)(10), div. E, title LVI, §5601(b), Feb. 10, 1996, 110 Stat. 503, 699.)
 
-#### Change of Name
+#### Amendments
 
-Committee on Armed Services of House of Representatives treated as referring to Committee on National Security of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+1996—Subsec. (g). Pub. L. 104–106, §1502(a)(10), substituted “the Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on National Security and the Committee on Appropriations of the” for “the Committees on Armed Services and on Appropriations of the Senate and”.
+
+Subsecs. (k), (<i>l</i>). Pub. L. 104–106, §5601(b), redesignated subsec. (<i>l</i>) as (k) and struck out former subsec. (k) which read as follows: “
+
+Inapplicability to Automatic Data Processing Contracts.—This section does not apply to contracts for the purchase of property to which section 111 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 759) applies.”
+
+#### Effective Date of 1996 Amendment
+
+Amendment by section 5601(b) of Pub. L. 104–106 effective 180 days after Feb. 10, 1996, see section 5701 of Pub. L. 104–106, set out as an Effective Date note under section 1401 of Title 40, Public Buildings, Property, and Works.
 
 #### Effective Date
 

@@ -22,7 +22,7 @@ Section is also set out in D.C. Code, §31–1842.5.
 
 1993—Subsec. (a). Pub. L. 103–73 substituted “individuals who are deaf or hard of hearing” for “individuals who are deaf” and struck out “the provisions of” after “pursuant to”.
 
-1992—Pub. L. 102–421, §135(a), amended section generally. Prior to amendment, section read as follows: “The Secretary shall conduct monitoring and evaluation activities of the education programs and activities and the administrative operations of Gallaudet University and of the National Technical Institute for the Deaf. Incarrying out the responsibilities described in this section, the Secretary is authorized to employ such consultants as may be necessary pursuant to the provisions of section 3109 of title 5.”
+1992—Pub. L. 102–421, §135(a), amended section generally. Prior to amendment, section read as follows: “The Secretary shall conduct monitoring and evaluation activities of the education programs and activities and the administrative operations of Gallaudet University and of the National Technical Institute for the Deaf. In carrying out the responsibilities described in this section, the Secretary is authorized to employ such consultants as may be necessary pursuant to the provisions of section 3109 of title 5.”
 
 #### Effective Date of 1992 Amendment
 

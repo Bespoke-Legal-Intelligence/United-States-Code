@@ -6,7 +6,7 @@ Lake Mead National Recreation Area shall be administered by the Secretary of the
 
 #### (b) Specific activities
 
-In carrying out the functions prescribed by this subchapter, in addition to other related activities that may be permitted hereunder, the Secretary may provide for the following activities, subject to such limitations, conditions, or regulations as he may prescribe, and to such extent as will not be inconsistent with either the recreational use or the primary use of that portion of the area heretofore withdrawn for reclamation purposes:
+In carrying out the functions prescribed by this subchapter, in addition to other related activities that may be permitted hereunder, the Secretary may provide for the following activities, subject to such limitations, conditions, orregulations as he may prescribe, and to such extent as will not be inconsistent with either the recreational use or the primary use of that portion of the area heretofore withdrawn for reclamation purposes:
 
 &emsp;(1) General recreation use, such as bathing, boating, camping, and picnicking;
 

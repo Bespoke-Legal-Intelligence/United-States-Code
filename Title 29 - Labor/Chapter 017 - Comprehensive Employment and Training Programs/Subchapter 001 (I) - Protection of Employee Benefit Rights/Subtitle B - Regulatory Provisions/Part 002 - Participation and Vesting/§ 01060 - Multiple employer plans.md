@@ -2,7 +2,7 @@
 
 #### (a) Plan maintained by more than one employer
 
-Notwithstanding any other provision of this part or part 3, the following provisions of thissubsection shall apply to a plan maintained by more than one employer:
+Notwithstanding any other provision of this part or part 3, the following provisions of this subsection shall apply to a plan maintained by more than one employer:
 
 &emsp;(1) Section 1052 of this title shall be applied as if all employees of each of the employers were employed by a single employer.
 

@@ -32,7 +32,7 @@ Applications for assistance under this part shall be submitted by an applicant i
 
 &emsp;(8) assurances satisfactory to the Secretary that the facility will have 24-hour, on-site management, if practicable;
 
-&emsp;(9) assurances satisfactory to the Secretary that the facility will be operated for the purpose specified in the application for each yearin which assistance is provided under this part;
+&emsp;(9) assurances satisfactory to the Secretary that the facility will be operated for the purpose specified in the application for each year in which assistance is provided under this part;
 
 &emsp;(10) a certification by the public official responsible for submitting the comprehensive housing affordability strategy under section 12705 of this title for the State or unit of general local government within which the facility is located that the proposed activities are consistent with the approved housing strategy for such jurisdiction;
 
@@ -100,7 +100,7 @@ The Fair Housing Act, referred to in subsec. (a)(11), is title VIII of Pub. L. 9
 
 The Civil Rights Act of 1964, referred to in subsec. (a)(11), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended. Title VI of the Act is classified generally to subchapter V (§2000d et seq.) of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of this title and Tables.
 
-The Age Discrimination Act of 1975, referred to in subsec. (a)(11), is title III of Pub. L. 94–135, Nov. 28, 1975, 89 Stat. 728, as amended, which is classified generallyto chapter 76 (§6101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6101 of this title and Tables.
+The Age Discrimination Act of 1975, referred to in subsec. (a)(11), is title III of Pub. L. 94–135, Nov. 28, 1975, 89 Stat. 728, as amended, which is classified generally to chapter 76 (§6101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6101 of this title and Tables.
 
 #### Prior Provisions
 

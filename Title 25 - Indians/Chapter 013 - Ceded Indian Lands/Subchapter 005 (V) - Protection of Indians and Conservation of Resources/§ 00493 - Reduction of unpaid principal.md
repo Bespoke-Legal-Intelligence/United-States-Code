@@ -40,7 +40,7 @@ Another section 6 of Pub. L. 91–229 was added by Pub. L. 101–624, title XVII
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 488, 489, 490, 491, 492, 494 of this title.
+This section is referred to in sections 488, 489, 490, 491, 492, 494 of this title; title 7 section 1985.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

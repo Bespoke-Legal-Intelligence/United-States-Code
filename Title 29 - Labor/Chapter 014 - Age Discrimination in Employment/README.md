@@ -14,9 +14,9 @@
 | (g) | Repealed. |
 | (h) | Practices of foreign corporations controlled by American employers; foreign employers not controlled by American employers; factors determining control. |
 | (i) | Employee pension benefit plans; cessation or reduction of benefit accrual or of allocation to employee account; distribution of benefits after attainment of normal retirement age; compliance; highly compensated employees. |
-| (j) | Omitted. |
+| (j) | Employment as firefighter or law enforcement officer. |
 | (k) | Seniority system or employee benefit plan; compliance. |
-| (<i>l)</i> | Lawful practices; minimum age as condition of eligibility for retirement benefits; deductions from severance pay; reduction of long-term disability benefits. |
+| (<i>l</i>) | Lawful practices; minimum age as condition of eligibility for retirement benefits; deductions from severance pay; reduction of long-term disability benefits. |
 | [624\.](%C2%A7%2000624%20-%20Study%20by%20Secretary%20of%20Labor%3B%20reports%20to%20President%20and%20Congress%3B%20scope%20of%20study%3B%20implementation%20of%20study%3B%20transmittal%20date%20of%20reports.md) | Study by Secretary of Labor; reports to President and Congress; scope of study; implementation of study; transmittal date of reports. |
 | [625\.](%C2%A7%2000625%20-%20Administration.md) | Administration. |
 | (a) | Delegation of functions; appointment of personnel; technical assistance. |
@@ -60,7 +60,7 @@ Civil rights, Federally assisted programs, see section 2000d et seq. of Title 42
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in title 2 sections 1302, 1311, 1371, 1434; title 42 sections 3012, 3056a, 6103.
+This chapter is referred to in title 2 sections 1302, 1311, 1371, 1434; title 3 sections 402, 411; title 42 sections 3012, 3056a, 6103.
 
 
 ---

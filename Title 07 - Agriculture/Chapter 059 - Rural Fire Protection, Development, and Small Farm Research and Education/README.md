@@ -19,12 +19,10 @@
 | (c) | Small farm research programs. |
 | (d) | Small farm extension programs. |
 | (e) | Special grants programs. |
-| (f) | Competitive grants for financially stressed farmers, dislocated farmers, and rural families. |
-| (g) | Rural economic and business development. |
+| (f), | (g) Repealed. |
 | (h) | Rural development extension work. |
 | (i) | Rural health and safety education programs. |
-| (j) | Research grants. |
-| 2662a. | Demonstration projects. |
+| 2662a. | Repealed. |
 | 2663\. | Funding. |
 | (a) | Authorization of appropriations. |
 | (b) | Distributions. |

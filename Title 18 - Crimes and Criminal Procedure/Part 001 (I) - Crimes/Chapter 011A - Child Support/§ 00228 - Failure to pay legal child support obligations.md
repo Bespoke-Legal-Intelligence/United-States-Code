@@ -26,9 +26,13 @@ Definitions.—As used in this section—
 
 &emsp;&emsp;(B) that has remained unpaid for a period longer than one year, or is greater than $5,000; and
 
-&emsp;(2) the term “State” includes the District of Columbia, and any other possession or territory of the United States.
+&emsp;(2) the term “State” includes the District of Columbia, and any other commonwealth, possession or territory of the United States.
 
-(Added Pub. L. 102–521, §2(a), Oct. 25, 1992, 106 Stat. 3403.)
+(Added Pub. L. 102–521, §2(a), Oct. 25, 1992, 106 Stat. 3403; amended Pub. L. 104–294, title VI, §607(<i>l</i>), Oct. 11, 1996, 110 Stat. 3512.)
+
+#### Amendments
+
+1996—Subsec. (d)(2). Pub. L. 104–294 inserted “commonwealth,” before “possession or territory of the United States”.
 
 #### Short Title
 

@@ -32,9 +32,11 @@
 
 &emsp;&emsp;(F) any accountant;
 
-&emsp;&emsp;(G) any barter exchange (as defined in section 6045(c)(3)); and
+&emsp;&emsp;(G) any barter exchange (as defined in section 6045(c)(3));
 
-&emsp;&emsp;(H) any regulated investment company (as defined in section 851) and any agent of such regulated investment company when acting as an agent thereof.
+&emsp;&emsp;(H) any regulated investment company (as defined in section 851) and any agent of such regulated investment company when acting as an agent thereof; and
+
+&emsp;&emsp;(I) any enrolled agent.
 
 #### (4) Exceptions
 
@@ -126,7 +128,7 @@ Any summons described in subsection (c) which does not identify the person with 
 
 &emsp;(2) there is a reasonable basis for believing that such person or group or class of persons may fail or may have failed to comply with any provision of any internal revenue law, and
 
-&emsp;(3) the information sought to be obtained from the examination of the records (and the identity of the person or persons with respectto whose liability the summons is issued) is not readily available from other sources.
+&emsp;(3) the information sought to be obtained from the examination of the records (and the identity of the person or persons with respect to whose liability the summons is issued) is not readily available from other sources.
 
 #### (g) Special exception for certain summonses
 
@@ -160,13 +162,15 @@ In the case of any summons described in subsection (c), the provisions of subsec
 
 &emsp;In the case of a summons described in subsection (f) with respect to which any period of limitations has been suspended under subsection (e)(2), the summoned party shall provide notice of such suspension to any person described in subsection (f).
 
-(Added Pub. L. 94–455, title XII, §1205(a), Oct. 4, 1976, 90 Stat. 1699; amended Pub. L. 95–599, title V, §505(c)(6), Nov. 6, 1978, 92 Stat. 2760; Pub. L. 95–600, title VII, §703(<i>l</i>)(4), Nov. 6, 1978, 92 Stat. 2943; Pub. L. 96–223, title II, §232(d)(4)(E), Apr. 2, 1980, 94 Stat. 278; Pub. L. 97–248, title III, §§311(b), 331(a)–(d), 332(a), Sept. 3, 1982, 96 Stat. 601, 620, 621; Pub. L. 97–424, title V, §515(b)(12), Jan. 6, 1983, 96 Stat. 2182; Pub. L. 98–369, div. A, title VII, §714(i), title IX, §911(d)(2)(G), July 18, 1984, 98 Stat. 962, 1007; Pub. L. 98–620, title IV, §402(28)(D), Nov. 8, 1984, 98 Stat. 3359; Pub. L. 99–514, title VI, §656(a), title XV, §1561(a), (b), title XVII, §1703(e)(2)(G), Oct. 22, 1986, 100 Stat. 2299, 2761, 2778; Pub. L. 100–647, title I, §§1015(<i>l</i>)(1), (2), 1017(c)(9), (12), Nov. 10, 1988, 102 Stat. 3571, 3572, 3576, 3577.)
+(Added Pub. L. 94–455, title XII, §1205(a), Oct. 4, 1976, 90 Stat. 1699; amended Pub. L. 95–599, title V, §505(c)(6), Nov. 6, 1978, 92 Stat. 2760; Pub. L. 95–600, title VII, §703(<i>l</i>)(4), Nov. 6, 1978, 92 Stat. 2943; Pub. L. 96–223, title II, §232(d)(4)(E), Apr. 2, 1980, 94 Stat. 278; Pub. L. 97–248, title III, §§311(b), 331(a)–(d), 332(a), Sept. 3, 1982, 96 Stat. 601, 620, 621; Pub. L. 97–424, title V, §515(b)(12), Jan. 6, 1983, 96 Stat. 2182; Pub. L. 98–369, div. A, title VII, §714(i), title IX, §911(d)(2)(G), July 18, 1984, 98 Stat. 962, 1007; Pub. L. 98–620, title IV, §402(28)(D), Nov. 8, 1984, 98 Stat. 3359; Pub. L. 99–514, title VI, §656(a), title XV, §1561(a), (b), title XVII, §1703(e)(2)(G), Oct. 22, 1986, 100 Stat. 2299, 2761, 2778; Pub. L. 100–647, title I, §§1015(<i>l</i>)(1), (2), 1017(c)(9), (12), Nov. 10, 1988, 102 Stat. 3571, 3572, 3576, 3577; Pub. L. 104–168, title X, §1001(a), July 30, 1996, 110 Stat. 1467.)
 
 #### Prior Provisions
 
 A prior section 7609 was renumbered section 7612 of this title.
 
 #### Amendments
+
+1996—Subsec. (a)(3)(I). Pub. L. 104–168 added subpar. (I).
 
 1988—Subsec. (c)(1). Pub. L. 100–647, §1017(c)(12), made technical correction to language of Pub. L. 99–514, §1703(e)(2)(G), see 1986 Amendment note below.
 
@@ -198,7 +202,7 @@ Subsec. (h)(3). Pub. L. 98–620 struck out par. (3) which had provided that exc
 
 Subsec. (a)(3)(G). Pub. L. 97–248, §311(b), added subpar. (G).
 
-Subsec. (b). Pub. L. 97–248, §331(a), (d)(2), substituted “right to proceeding to quash” for “right to stay compliance” in heading, and in par. (2) substituted “Proceeding to quash” for “Right to stay compliance” as par. (2) heading, designated former undesignated matter as subpar. (A), in (A) as so designated substituted provisions giving persons entitled to notice 20 days tobegin a proceeding to quash, for provisions giving persons entitled to notice the right to stay compliance if they complied with the provisions of former subpars. (A) and (B) within 14 days, and inserted provision that the Secretary may seek to compel compliance with the summons, struck out former subpar. (A) which provided that notice to the person summoned not to comply with the summons be given in writing, in subpar. (B) substituted provisions that copies of the petition in the proceeding to quash the summons be mailed within the 20-day period, for provisions that copies of the notice not to comply with the summons be mailed, and added subpar. (C).
+Subsec. (b). Pub. L. 97–248, §331(a), (d)(2), substituted “right to proceeding to quash” for “right to stay compliance” in heading, and in par. (2) substituted “Proceeding to quash” for “Right to stay compliance” as par. (2) heading, designated former undesignated matter as subpar. (A), in (A) as so designated substituted provisions giving persons entitled to notice 20 days to begin a proceeding to quash, for provisions giving persons entitled to notice the right to stay compliance if they complied with the provisions of former subpars. (A) and (B) within 14 days, and inserted provision that the Secretary may seek to compel compliance with the summons, struck out former subpar. (A) which provided that notice to the person summoned not to comply with the summons be given in writing, in subpar. (B) substituted provisions that copies of the petition in the proceeding to quash the summons be mailed within the 20-day period, for provisions that copies of the notice not to comply with the summons be mailed, and added subpar. (C).
 
 Subsec. (d). Pub. L. 97–248, §331(b), substituted in par. (1) provision that, no examination of records be made before the close of the 23rd day after the notice of summons, for provision that the examination may not be made before the end of the former 14-day period allowed for notice to be given to the person summoned not to comply, and in par. (2) substituted “where a proceeding under subsection (b)(2)(A) was begun within the 20-day period referred to in such subsection and the requirements of subsection (b)(2)(B) have been met,” for “when the requirements of subsection (b)(2) have been met,” and “of the court having jurisdiction of such proceeding or with the consent of the person beginning the proceeding to quash” for “issued by a court of competent jurisdiction authorizing examination of such records or with the consent of the person staying compliance”.
 
@@ -211,6 +215,10 @@ Subsec. (i). Pub. L. 97–248, §332(a), added subsec. (i).
 1978—Subsec. (c)(1). Pub. L. 95–600 which purported to substitute “6427(f)(2)” for “6427(e)(2)” was not executed in view of the amendment made by Pub. L. 95–599. See below.
 
 Pub. L. 95–599 substituted “6427(g)(2)” for “6427(e)(2)”.
+
+#### Effective Date of 1996 Amendment
+
+Section 1001(b) of Pub. L. 104–168 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to summonses issued after the date of the enactment of this Act \[July 30, 1996\].”
 
 #### Effective Date of 1988 Amendment
 

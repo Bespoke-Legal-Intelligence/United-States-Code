@@ -6,7 +6,7 @@
 
 (c) Except in time of war, any officer of a staff corps who has served as a chief of bureau for a full term is exempt from sea duty.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 285; Aug. 18, 1959, Pub. L. 86–174, §2(2), 73 Stat. 396; Sept. 7, 1962, Pub. L. 87–649, §14c(15), 76 Stat. 501; Oct. 22, 1965, Pub. L. 89–288, §3, 79 Stat. 1050; Nov. 2, 1966, Pub. L. 89–718, §35(2)–(4), 80 Stat. 1120; Dec. 12, 1980, Pub. L. 96–513, title V, §503(9), 94 Stat. 2911; Oct. 5, 1994, Pub. L. 103–337, div. A, title V, §504(b)(3), (5), 108 Stat. 2751.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 285; Aug. 18, 1959, Pub. L. 86–174, §2(2), 73 Stat. 396; Sept. 7,1962, Pub. L. 87–649, §14c(15), 76 Stat. 501; Oct. 22, 1965, Pub. L. 89–288, §3, 79 Stat. 1050; Nov. 2, 1966, Pub. L. 89–718, §35(2)–(4), 80 Stat. 1120; Dec. 12, 1980, Pub. L. 96–513, title V, §503(9), 94 Stat. 2911; Oct. 5, 1994, Pub. L. 103–337, div. A, title V, §504(b)(3), (5), 108 Stat. 2751.)
 
 Historical and Revision Notes
 

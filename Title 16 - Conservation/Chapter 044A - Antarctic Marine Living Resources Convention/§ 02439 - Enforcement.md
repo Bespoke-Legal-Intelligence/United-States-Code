@@ -26,7 +26,7 @@ Any officer or employee of the United States who is authorized (by the Secretary
 
 &emsp;(5) offer and pay rewards for services or information which may lead to the apprehension of persons violating such provisions;
 
-&emsp;(6) make inquiries, and administer to, or take from, any person an oath, affirmation, oraffidavit, concerning any matter which is related to the enforcement of such provisions;
+&emsp;(6) make inquiries, and administer to, or take from, any person an oath, affirmation, or affidavit, concerning any matter which is related to the enforcement of such provisions;
 
 &emsp;(7) in coordination with the Secretary of the Treasury, detain for inspection and inspect any package, crate, or other container, including its contents, and all accompanying documents, upon importation into, or exportation from, the United States;
 

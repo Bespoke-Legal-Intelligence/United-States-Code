@@ -16,7 +16,7 @@
 
 #### (b) Grants authorized
 
-The Secretary may make grants to States, substate grantees (as defined in section 1661a(c)of this title), employers, employer associations, and representatives of employees—
+The Secretary may make grants to States, substate grantees (as defined in section 1661a(c) of this title), employers, employer associations, and representatives of employees—
 
 &emsp;(1) to provide training, adjustment assistance, and employment services to eligible individuals adversely affected by compliance with the Clean Air Act \[42 U.S.C. 7401 et seq.\]; and
 
@@ -26,7 +26,7 @@ The Secretary may make grants to States, substate grantees (as defined in sectio
 
 #### (1) Priority
 
-&emsp;In reviewing applications for grants under subsection (b) of this section, the Secretary shall give priority to applications proposing to provide training, adjustment assistance, and services in areas which have the greatest number of eligible individuals.
+&emsp;In reviewing applications for grants under subsection (b) of this section, the Secretary shall give priority to applications proposing toprovide training, adjustment assistance, and services in areas which have the greatest number of eligible individuals.
 
 #### (2) Needs-related payments required
 
@@ -104,7 +104,7 @@ The Secretary of Labor may reserve not more than 5 percent of the funds appropri
 
 #### (h) Authorization of appropriations
 
-In addition to amounts authorized to be appropriated by section 1502(b) of this title, there are authorized to be appropriated $50,000,000 for fiscal year 1991, and such sums as may be necessary for each of fiscal years 1992, 1993, 1994, and 1995 to carry out this section. The total amount appropriated for all 5 such fiscal years shall not exceed $250,000,000. Amounts appropriated pursuant to this subsection shall remain available until expended.
+In addition to amounts authorized to be appropriated by section 1502(b) of this title, there are authorized to be appropriated $50,000,000 for fiscal year 1991, and such sums as may be necessary for each of fiscal years 1992, 1993, 1994, and1995 to carry out this section. The total amount appropriated for all 5 such fiscal years shall not exceed $250,000,000. Amounts appropriated pursuant to this subsection shall remain available until expended.
 
 #### (i) Regulations
 

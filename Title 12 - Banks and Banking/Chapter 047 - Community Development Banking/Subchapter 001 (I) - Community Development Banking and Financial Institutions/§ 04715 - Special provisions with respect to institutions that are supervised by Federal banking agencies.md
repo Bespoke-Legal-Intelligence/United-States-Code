@@ -22,7 +22,7 @@ The Fund shall consult with and consider the views of the appropriate Federal ba
 
 #### (3) Elimination of duplicative information and reporting requirements
 
-&emsp;The Fund shall use any information provided the appropriate Federal banking agencyunder this section to the extent practicable to eliminate duplicative requests for information and reports from, and recordkeeping by an insured community development financial institution or other institution that is examined by or subject to the reporting requirements of an appropriate Federal banking agency.
+&emsp;The Fund shall use any information provided the appropriate Federal banking agency under this section to the extent practicable to eliminate duplicative requests for information and reports from, and recordkeeping by an insured community development financial institution or other institution that is examined by or subject to the reporting requirements of an appropriate Federal banking agency.
 
 #### (4) Exception
 

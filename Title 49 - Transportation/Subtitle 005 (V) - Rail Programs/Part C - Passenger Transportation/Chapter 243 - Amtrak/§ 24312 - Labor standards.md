@@ -4,7 +4,7 @@
 
 Prevailing Wages and Health and Safety Standards.—(1) Amtrak shall ensure that laborers and mechanics employed by contractors and subcontractors in construction work financed under an agreement made under section 24308(a), 24701(a), or 24704(b)(2) of this title will be paid wages not less than those prevailing on similar construction in the locality, as determined by the Secretary of Labor under the Act of March 3, 1931 (known as the Davis-Bacon Act) (40 U.S.C. 276a—276a–5). Amtrak may make such an agreement only after being assured that required labor standards will be maintained on the construction work. Health and safety standards prescribed by the Secretary under section 107 of the Contract Work Hours and Safety Standards Act (40 U.S.C. 333) apply to all construction work performed under such an agreement, except for construction work performed by a rail carrier.
 
-(2) Wage rates in a collective bargaining agreement negotiated under the Railway Labor Act (45 U.S.C. 151 et seq.) are deemed to comply with the Act of March 3, 1931 (known as the Davis-Bacon Act) (40 U.S.C. 276a—276a–5).
+(2) Wage rates in a collective bargaining agreement negotiated under the Railway LaborAct (45 U.S.C. 151 et seq.) are deemed to comply with the Act of March 3, 1931 (known as the Davis-Bacon Act) (40 U.S.C. 276a—276a–5).
 
 (b)
 
@@ -16,7 +16,9 @@ Contracting Out.—(1) Amtrak may not contract out work normally performed by an
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

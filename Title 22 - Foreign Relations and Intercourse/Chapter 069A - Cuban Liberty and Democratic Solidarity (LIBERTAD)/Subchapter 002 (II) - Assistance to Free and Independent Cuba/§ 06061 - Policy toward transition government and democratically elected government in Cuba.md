@@ -1,0 +1,48 @@
+### §6061. Policy toward transition government and democratically elected government in Cuba
+
+The policy of the United States is as follows:
+
+&emsp;(1) To support the self-determination of the Cuban people.
+
+&emsp;(2) To recognize that the self-determination of the Cuban people is a sovereign and national right of the citizens of Cuba which must be exercised free of interference by the government of any other country.
+
+&emsp;(3) To encourage the Cuban people to empower themselves with a government which reflects the self-determination of the Cuban people.
+
+&emsp;(4) To recognize the potential for a difficult transition from the current regime in Cuba that may result from the initiatives taken by the Cuban people for self-determination in response to the intransigence of the Castro regime in not allowing any substantive political or economic reforms, and to be prepared to provide the Cuban people with humanitarian, developmental, and other economic assistance.
+
+&emsp;(5) In solidarity with the Cuban people, to provide appropriate forms of assistance—
+
+&emsp;&emsp;(A) to a transition government in Cuba;
+
+&emsp;&emsp;(B) to facilitate the rapid movement from such a transition government to a democratically elected government in Cuba that results from an expression of the self-determination of the Cuban people; and
+
+&emsp;&emsp;(C) to support such a democratically elected government.
+
+&emsp;(6) Through such assistance, to facilitate a peaceful transition to representative democracy and a market economy in Cuba and to consolidate democracy in Cuba.
+
+&emsp;(7) To deliver such assistance to the Cuban people only through a transition government in Cuba, through a democratically elected government in Cuba, through United States Government organizations, or through United States, international, or indigenous nongovernmental organizations.
+
+&emsp;(8) To encourage other countries and multilateral organizations to provide similar assistance, and to work cooperatively with such countries and organizations to coordinate such assistance.
+
+&emsp;(9) To ensure that appropriate assistance is rapidly provided and distributed to the people of Cuba upon the institution of a transition government in Cuba.
+
+&emsp;(10) Not to provide favorable treatment or influence on behalf of any individual or entity in the selection by the Cuban people of their future government.
+
+&emsp;(11) To assist a transition government in Cuba and a democratically elected government in Cuba to prepare the Cuban military forces for an appropriate role in a democracy.
+
+&emsp;(12) To be prepared to enter into negotiations with a democratically elected government in Cuba either to return the UnitedStates Naval Base at Guantanamo to Cuba or to renegotiate the present agreement under mutually agreeable terms.
+
+&emsp;(13) To consider the restoration of diplomatic recognition and support the reintegration of the Cuban Government into Inter-American organizations when the President determines that there exists a democratically elected government in Cuba.
+
+&emsp;(14) To take steps to remove the economic embargo of Cuba when the President determines that a transition to a democratically elected government in Cuba has begun.
+
+&emsp;(15) To assist a democratically elected government in Cuba to strengthen and stabilize its national currency.
+
+&emsp;(16) To pursue trade relations with a free, democratic, and independent Cuba.
+
+(Pub. L. 104–114, title II, §201, Mar. 12, 1996, 110 Stat. 805.)
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 6062 of this title.
+

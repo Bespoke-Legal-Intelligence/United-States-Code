@@ -18,7 +18,7 @@
 - [&sect; 01421i - Income tax](%C2%A7%2001421i%20-%20Income%20tax.md)
 - [&sect; 01421j - Authorization of appropriations](%C2%A7%2001421j%20-%20Authorization%20of%20appropriations.md)
 - [&sect; 01421k - Designation of naval or military reservations; closed port](%C2%A7%2001421k%20-%20Designation%20of%20naval%20or%20military%20reservations%3B%20closed%20port.md)
-- [&sect; 01421k&#8211;1 - Delegate from Guam to United States House of Representatives; clerk hire allowance and transportation expenses](%C2%A7%2001421k%E2%80%931%20-%20Delegate%20from%20Guam%20to%20United%20States%20House%20of%20Representatives%3B%20clerk%20hire%20allowance%20and%20transportation%20expenses.md)
+- [&sect; 01421k&#8211;1 - Repealed. Pub. L. 104&#8211;186, title II, &sect;224(2), Aug. 20, 1996, 110 Stat. 1752](%C2%A7%2001421k%E2%80%931%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93186%2C%20title%20II%2C%20%C2%A7224%282%29%2C%20Aug.%2020%2C%201996%2C%20110%20Stat.%201752.md)
 - [&sect; 01421l - Repealed. June 27, 1952, ch. 477, &sect;403(a)(42), 66 Stat. 280](%C2%A7%2001421l%20-%20Repealed.%20June%2027%2C%201952%2C%20ch.%20477%2C%20%C2%A7403%28a%29%2842%29%2C%2066%20Stat.%20280.md)
 - [&sect; 01421m - Repealed. Pub. L. 91&#8211;513, title III, &sect;1101(a)(8), Oct. 27, 1970, 84 Stat. 1292](%C2%A7%2001421m%20-%20Repealed.%20Pub.%20L.%2091%E2%80%93513%2C%20title%20III%2C%20%C2%A71101%28a%29%288%29%2C%20Oct.%2027%2C%201970%2C%2084%20Stat.%201292.md)
 - [&sect; 01421n - Applicability of Federal copyright laws](%C2%A7%2001421n%20-%20Applicability%20of%20Federal%20copyright%20laws.md)

@@ -6,13 +6,13 @@ For provisions of law which make additional individuals eligible for medical ass
 
 #### (1) AFDC
 
-&emsp;(A) Section 602(a)(32) of this title (relating to individuals who are deemed recipients of aid but for whom a payment is not made).
+&emsp;(A) Section 602(a)(32) <sup>1</sup> of this title (relating to individuals who are deemed recipients of aid but for whom a payment is not made).
 
-&emsp;(B) Section 602(a)(37) of this title (relating to individuals who lose AFDC eligibility due to increased earnings).
+&emsp;(B) Section 602(a)(37) <sup>1</sup> of this title (relating to individuals who lose AFDC eligibility due to increased earnings).
 
-&emsp;(C) Section 606(h) of this title (relating to individuals who lose AFDC eligibility due to increased collection of child or spousal support).
+&emsp;(C) Section 606(h) <sup>1</sup> of this title (relating to individuals who lose AFDC eligibility due to increased collection of child or spousal support).
 
-&emsp;(D) Section 682(e)(6) of this title (relating to certain individuals participating in work supplementation programs).
+&emsp;(D) Section 682(e)(6) <sup>1</sup> of this title (relating to certain individuals participating in work supplementation programs).
 
 #### (2) SSI
 
@@ -24,7 +24,7 @@ For provisions of law which make additional individuals eligible for medical ass
 
 &emsp;(D) Section 1383c(c) of this title (relating to individuals who lose eligibility for SSI benefits due to entitlement to child's insurance benefits under section 402(d) of this title).
 
-&emsp;(E) Section 1383c(d) of this title (relating to individuals who lose eligibility for SSI benefits due to entitlement to early widow's or widower's insurance benefits under section 602(e) or (f) of this title).
+&emsp;(E) Section 1383c(d) of this title (relating to individuals who lose eligibility for SSI benefits due to entitlement to early widow's or widower's insurance benefits under section 602(e) or (f) <sup>1</sup> of this title).
 
 #### (3) Foster care and adoption assistance
 
@@ -56,9 +56,15 @@ For other provisions of law that establish additional requirements for State pla
 
 &emsp;(2) Section 212(a) of Public Law 93–66 (relating to requiring mandatory minimum State supplementation of SSI benefits program).
 
-(Aug. 14, 1935, ch. 531, title XIX, §1931, formerly §1920, as added Apr. 7, 1986, Pub. L. 99–272, title IX, §9526, 100 Stat. 218; renumbered §1921, Oct. 21, 1986, Pub. L. 99–509, title IX, §9407(b), 100 Stat. 2058; amended Oct. 22, 1986, Pub. L. 99–514, title XVIII, §1895(c)(5), 100 Stat. 2936; Nov. 10, 1986, Pub. L. 99–643, §6(c), 100 Stat. 3578; renumbered §1922, Aug. 18, 1987, Pub. L. 100–93, §5(b), 101 Stat. 690; renumbered §1923 and §1924 and amended Dec. 22, 1987, Pub. L. 100–203, title IV, §§4112(a)(1), 4118(p)(9), 4211(a)(1), title IX, §9116(d), 101 Stat. 1330–148, 1330–159, 1330–182, 1330–306, as amended July 1, 1988, Pub. L. 100–360, title IV, §411(k)(6)(B)(i), (10)(L), (n)(3), 102 Stat. 793, 797, as amended Oct. 13, 1988, Pub. L. 100–485, title VI, §608(d)(28), 102 Stat. 2423; renumbered §1925, July 1, 1988, Pub. L. 100–360, title III, §303(a)(1)(A), 102 Stat. 754; renumbered §1926 and amended Oct. 13, 1988, Pub. L. 100–485, title II, §202(c)(5), title III, §303(a)(1), 102 Stat. 2378, 2385; renumbered §1927, Dec. 19, 1989, Pub. L. 101–239, title VI, §6402(b), 103 Stat. 2260; renumbered §1928, Nov. 5, 1990, Pub. L. 101–508, title IV, §4401(a)(3), 104 Stat. 1388–143; June 13, 1991, Pub. L. 102–54, §13(q)(3)(A)(v), 105 Stat. 279; renumbered §1931, Aug. 10, 1993, Pub. L. 103–66, title XIII, §13631(b)(1), 107 Stat. 637.)
+(Aug. 14, 1935, ch. 531, title XIX, §1932, formerly §1920, as added Apr. 7, 1986, Pub. L. 99–272, title IX, §9526, 100 Stat. 218; renumbered §1921, Oct. 21, 1986, Pub. L. 99–509, title IX, §9407(b), 100 Stat. 2058; amended Oct. 22, 1986, Pub. L. 99–514, title XVIII, §1895(c)(5), 100 Stat. 2936; Nov. 10, 1986, Pub. L. 99–643, §6(c), 100 Stat. 3578; renumbered §1922, Aug. 18, 1987, Pub. L. 100–93, §5(b), 101 Stat. 690; renumbered §1923 and §1924 and amended Dec. 22, 1987, Pub. L. 100–203, title IV, §§4112(a)(1), 4118(p)(9), 4211(a)(1), title IX, §9116(d), 101 Stat. 1330–148, 1330–159, 1330–182, 1330–306, as amended July 1, 1988, Pub. L. 100–360, title IV, §411(k)(6)(B)(i), (10)(L), (n)(3), 102 Stat. 793, 797, as amended Oct. 13, 1988, Pub. L. 100–485, title VI, §608(d)(28), 102 Stat. 2423; renumbered §1925, July 1, 1988, Pub. L. 100–360, title III,§303(a)(1)(A), 102 Stat. 754; renumbered §1926 and amended Oct. 13, 1988, Pub. L. 100–485, title II, §202(c)(5), title III, §303(a)(1), 102 Stat. 2378, 2385; renumbered §1927, Dec. 19, 1989, Pub. L. 101–239, title VI, §6402(b), 103 Stat. 2260; renumbered §1928, Nov. 5, 1990, Pub. L. 101–508, title IV, §4401(a)(3), 104 Stat. 1388–143; June 13, 1991, Pub. L. 102–54, §13(q)(3)(A)(v), 105 Stat. 279; renumbered §1931, Aug. 10, 1993, Pub. L. 103–66, title XIII, §13631(b)(1), 107 Stat. 637; renumbered §1932, Aug. 22, 1996, Pub. L. 104–193, title I, §114(a)(1), 110 Stat. 2177.)
 
 #### References in Text
+
+Section 602 of this title, referred to in subsec. (a)(1)(A), (B), (2)(E), was repealed and a new section 602 enacted by Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996, 110 Stat. 2112, and, as so enacted, no longer contains subsecs. (a)(32), (37), (e), or (f).
+
+Section 606 of this title, referred to in subsec. (a)(1)(C), was repealed and a new section 606 enacted by Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996, 110 Stat. 2112, and, as so enacted, no longer contains a subsec. (h).
+
+Section 682 of this title, referred to in subsec. (a)(1)(D), was repealed by Pub. L. 104–193, title I, §108(e), Aug. 22, 1996, 110 Stat. 2167.
 
 Sections 230, 231, and 232 of Public Law 93–66, referred to in subsec. (a)(5)(A) to (C), are sections 230, 231, and 232 of Pub. L. 93–66, title II, July 9, 1973, 87 Stat. 159, 160, as amended, which are set out as notes under section 1396a of this title.
 
@@ -114,7 +120,7 @@ Subsec. (a)(3). Pub. L. 99–514, §1895(c)(5)(C), substituted “Sections 672(h
 
 #### Effective Date of 1988 Amendments
 
-Amendment by section 202(c)(5) of Pub. L. 100–485 effective Oct. 1, 1990, with provision for earlier effective dates in case of States making certain changes in their State plans and formally notifying the Secretary of Health and Human Services of their desire to become subject to the amendments by title II of Pub. L. 100–485, at such earlier effective dates, see section 204 of Pub. L. 100–485, set out as an Effective Date note under section 681 of this title.
+Amendment by section 202(c)(5) of Pub. L. 100–485 effective Oct. 1, 1990, with provision for earlier effective dates in case of States making certain changes in their State plans and formally notifying the Secretary of Health and Human Services of their desire to become subject to the amendments by title II of Pub. L. 100–485, at such earlier effective dates, see section 204 of Pub. L. 100–485, set out as a note under section 671 of this title.
 
 Amendment by section 608(d)(28) of Pub. L. 100–485 effective as if included in the enactment of the Medicare Catastrophic Coverage Act of 1988, Pub. L. 100–360, see section 608(g)(1) of Pub. L. 100–485, set out as a note under section 704 of this title.
 
@@ -124,5 +130,9 @@ Except as specifically provided in section 411 of Pub. L. 100–360, amendment b
 
 Amendment by Pub. L. 99–643 effective July 1, 1987, except as otherwise provided, see section 10(b) of Pub. L. 99–643, set out as a note under section 1396a of this title.
 
-Amendment by Pub. L. 99–514 effective, except as otherwise provided, as if included in enactment of the Consolidated Omnibus Budget Reconciliation Act of 1985, Pub. L. 99–272, see section 1895(e) of Pub. L. 99–514, set out as a note under section 162 of Title 26, Internal Revenue Code.
+Amendment by Pub. L. 99–514 effective, except as otherwise provided, as if included in enactment of the Consolidated Omnibus Budget Reconciliation Act of1985, Pub. L. 99–272, see section 1895(e) of Pub. L. 99–514, set out as a note under section 162 of Title 26, Internal Revenue Code.
+
+#### References to Provisions of Part A of Subchapter IV Considered References to Such Provisions as in Effect July 16, 1996
+
+For provisions that certain references to provisions of part A (§601 et seq.) of subchapter IV of this chapter be considered references to such provisions of part A as in effect July 16, 1996, see section 1396u–1(a) of this title.
 

@@ -22,7 +22,7 @@ The Congress hereby declares that it is the purpose of this section (1) to estab
 
 #### (1) Composition of Board; Chairman
 
-&emsp;(A) The Association shall have a Board of Directors which shall consist of 21 persons, 7 of whom shall be appointed by the President and shall be representative of the general public. The remaining 14 directors shall be elected by the common stockholders of the Associationentitled to vote pursuant to subsection (f) of this section. Commencing with the annual shareholders meeting to be held in 1993—
+&emsp;(A) The Association shall have a Board of Directors which shall consist of 21 persons, 7 of whom shall be appointed by the President and shall be representative of the general public. The remaining 14 directors shall be elected by the common stockholders of the Association entitled to vote pursuant to subsection (f) of this section. Commencing with the annual shareholders meeting to be held in 1993—
 
 &emsp;&emsp;(i) 7 of the elected directors shall be affiliated with an eligible institution; and
 
@@ -116,7 +116,7 @@ The Association, pursuant to such criteria as the Board of Directors may prescri
 
 #### (4) Single class of voting common stock
 
-&emsp;As of the effective date of the Higher Education Amendments of 1992, all of the previously authorized shares of voting common stock and nonvoting common stock of the Association shall be converted to shares of a single class of voting common stock on a share-for-share basis, without any further action on the part of the Association or any holder. Each outstanding certificate for voting or nonvoting common stock shall evidence ownership of the same number of shares of voting stock into which it is converted. All preexisting rights and obligations with respect to anyclass of common stock of the Association shall be deemed to be rights and obligations with respect to such converted shares.
+&emsp;As of the effective date of the Higher Education Amendments of 1992, all of the previously authorized shares of voting common stock and nonvoting common stock of the Association shall be converted to shares of a single class of voting common stock on a share-for-share basis, without any further action on the part of the Association or any holder. Each outstanding certificate for voting or nonvoting common stock shall evidence ownership of the same number of shares of voting stock into which it is converted. All preexisting rights and obligations with respect to any class of common stock of the Association shall be deemed to be rights and obligations with respect to such converted shares.
 
 #### (g) Preferred stock
 
@@ -130,7 +130,7 @@ The Association, pursuant to such criteria as the Board of Directors may prescri
 
 #### (3) Preference on termination of business
 
-&emsp;In the event of any liquidation, dissolution, or winding up of the Association's business, the holders of the preferred shares shall be paid in full at par value thereof, plus all accrued dividends, before the holders of the common shares receive any payment.
+&emsp;In the event of any liquidation, dissolution, or winding up of the Association's business,the holders of the preferred shares shall be paid in full at par value thereof, plus all accrued dividends, before the holders of the common shares receive any payment.
 
 #### (h) Debt obligations
 
@@ -198,7 +198,7 @@ A report of each such audit for a fiscal year shall be made by the Secretary of 
 
 #### (<i>l</i>) Lawful investment instruments; effect of and exemptions from other laws
 
-All obligations issued by the Association including those made under subsection (d)(4) of this section shall be lawful investments, and may be accepted as security for all fiduciary, trust, and public funds, the investment or deposit of which shall be under authority or control of the United States or of any officer or officers thereof. All stock and obligations issued by the Association pursuant to this section shall be deemed to be exempt securities within the meaning of laws administered by the Securities and Exchange Commission, to the same extent as securities which are direct obligations of, or obligations guaranteed as to principal or interest by, the United States. The Association shall, for the purposes of section 355(2) of title 12, be deemed to be an agency of the United States. The obligations of the Association shall be deemed to be obligations of the United States for the purpose of section 3124 of title 31. For the purpose of the distribution of its property pursuant to section 726 of title 11, the Association shall be deemed a person within the meaning of such title. The priority established in favor of the United States by section 3713 of title 31 shall not establish a priority over the indebtedness of the Association issued or incurred on or before September 30, 1992. The Federal Reserve Banks are authorized to act as depositaries, custodians, or fiscal agents, or a combination thereof, for the Association in the general performance of its powers under this section.
+All obligations issued by the Association including those made under subsection (d)(4) of this section shall be lawful investments, and may be accepted as security for all fiduciary, trust, and public funds, the investment or deposit of which shall be under authority or control of the United States or of any officer or officers thereof. All stock and obligations issued by the Association pursuant to this section shall be deemed to be exempt securities within the meaning of laws administered by the Securities and Exchange Commission, to the same extent as securities which are direct obligations of, or obligations guaranteed as to principal or interest by, the United States. The Association shall, for the purposes of section 355(2) of title 12, be deemed to be an agency of the United States.The obligations of the Association shall be deemed to be obligations of the United States for the purpose of section 3124 of title 31. For the purpose of the distribution of its property pursuant to section 726 of title 11, the Association shall be deemed a person within the meaning of such title. The priority established in favor of the United States by section 3713 of title 31 shall not establish a priority over the indebtedness of the Association issued or incurred on or before September 30, 1992. The Federal Reserve Banks are authorized to act as depositaries, custodians, or fiscal agents, or a combination thereof, for the Association in the general performance of its powers under this section.
 
 #### (m) Preparation of obligations
 
@@ -252,21 +252,57 @@ The Association shall, as soon as practicable after the end of each fiscal year,
 
 &emsp;The Association shall promptly furnish to the Secretary of Education and Secretary of the Treasury copies of all—
 
-&emsp;&emsp;(A) periodic financial reports publicly distributed by the Association; and
+&emsp;&emsp;(A) periodic financial reports publicly distributed by the Association;
 
-&emsp;&emsp;(B) reports concerning the Association that are received by the Association and prepared by nationally recognized statistical rating organizations.
+&emsp;&emsp;(B) reports concerning the Association that are received by the Association and prepared by nationally recognized statistical rating organizations; and
+
+&emsp;&emsp;(C)(i) financial statements of the Association within 45 days of the end of each fiscal quarter; and
+
+&emsp;&emsp;(ii) reports setting forth the calculation of the capital ratio of the Association within 45 days of the end of each fiscal quarter.
 
 #### (2) Audit by Secretary of the Treasury
 
 &emsp;(A) The Secretary of the Treasury may—
 
-&emsp;&emsp;(i) appoint auditors to conduct audits of the Association from time to time to determine the condition of the Association for the purpose of assessing its financial safety and soundness; and
+&emsp;&emsp;(i) appoint auditors or examiners to conduct audits of the Association from time to time to determine the condition of the Association for the purpose of assessing the Association's financial safety and soundness and to determine whether the requirements of this section and section 1087–3 of this title are being met; and
 
-&emsp;&emsp;(ii) enter into contracts to obtain the services of such technical experts as the Secretary of the Treasury determines necessary and appropriate to provide technical assistance to any auditor appointed under this paragraph.
+&emsp;&emsp;(ii) obtain the services of such experts as the Secretary of the Treasury determines necessary and appropriate, as authorized by section 3109 of title 5, to assist in determining the condition of the Association for the purpose of assessing the Association's financial safety and soundness, and to determine whether the requirements of this section and section 1087–3 of this title are being met.
 
 &emsp;(B) Each auditor appointed under this paragraph shall conduct an audit of the Association to the extent requested by the Secretary of the Treasury and shall prepare and submit a report to the Secretary of the Treasury concerning the results of such audit. A copy of such report shall be furnished to the Association and the Secretary of Education on the date on which it is delivered to the Secretary of the Treasury.
 
 &emsp;(C) The Association shall provide full and prompt access to the Secretary of the Treasury to its books and records and other information requested by the Secretary of the Treasury.
+
+&emsp;(D)
+
+Annual assessment.—
+
+&emsp;&emsp;(i)
+
+In general.—For each fiscal year beginning on or after October 1, 1996, the Secretary of the Treasury may establish and collect from the Association an assessment (or assessments) in amounts sufficient to provide for reasonable costs and expenses of carrying out the duties of the Secretary of the Treasury under this section and section 1087–3 of this title during such fiscal year. In no event may the total amount so assessed exceed, for any fiscal year, $800,000, adjusted for each fiscal year ending after September 30, 1997, by the ratio of the Consumer Price Index for All Urban Consumers (issued by the Bureau of Labor Statistics) for the final month of the fiscal year preceding the fiscal year for which the assessment is made to the Consumer Price Index for All Urban Consumers for September 1997.
+
+&emsp;&emsp;(ii)
+
+Deposit.—Amounts collected from assessments under this subparagraph shall be deposited in an account within the Treasury of the United States as designated by the Secretary of the Treasury for that purpose. The Secretary of the Treasury is authorized and directed to pay out of any funds available in such account the reasonable costs and expenses of carrying out the duties of the Secretary of the Treasury under this section and section 1087–3 of this title. None of the funds deposited into such account shall be available for any purpose other than making payments for such costs and expenses.
+
+&emsp;(E)
+
+Obligation to obtain, maintain, and report information.—
+
+&emsp;&emsp;(i)
+
+In general.—The Association shall obtain such information and make and keep such records as the Secretary of the Treasury may from time to time prescribe concerning—
+
+&emsp;&emsp;&emsp;(I) the financial risk to the Association resulting from the activities of any associated person, to the extent such activities are reasonably likely to have a material impact on the financial condition of the Association, including the Association's capital ratio, the Association's liquidity, or the Association's ability to conduct and finance the Association's operations; and
+
+&emsp;&emsp;&emsp;(II) the Association's policies, procedures, and systems for monitoring and controlling any such financial risk.
+
+&emsp;&emsp;(ii)
+
+Summary reports.—The Secretary of the Treasury may require summary reports of such information to be filed no more frequently than quarterly. If, as a result of adverse market conditions or based on reports provided pursuant to this subparagraph or other available information, the Secretary of the Treasury has concerns regarding the financial or operational condition of the Association, the Secretary of the Treasury may, notwithstanding the preceding sentence and clause (i), require the Association to make reports concerning the activities of any associated person, whose business activities are reasonably likely to have a material impact on the financial or operational condition of the Association.
+
+&emsp;&emsp;(iii)
+
+Definition.—For purposes of this subparagraph, the term “associated person” means any person, other than a natural person, directly or indirectly controlling, controlled by, or under common control with the Association.
 
 #### (3) Monitoring of safety and soundness
 
@@ -284,7 +320,7 @@ The Association shall, as soon as practicable after the end of each fiscal year,
 
 #### (B) Disapproval
 
-&emsp;&emsp;If the Secretary of the Treasury does not approve a capital restoration plan as provided in subparagraph (A), then not later than the earlier of the date the Secretary of the Treasury disapproves of such plan by written notice to the Association or the expiration of the 30-day consideration period referred to in subparagraph (A) (as such period may have been extended by mutual agreement), the Secretary of the Treasury shall submit the Association's capital restoration plan, in the form most recently proposed to the Secretary of the Treasury by the Association, together with a report on the Secretary of the Treasury's reasons for disapproval of such plan and an alternative capital restoration plan, to the Chairmanand ranking minority member of the Senate Committee on Labor and Human Resources and to the Chairman and ranking minority member of the House Committee on Education and Labor. A copy of such submission simultaneously shall be sent to the Association and the Secretary of Education by the Secretary of the Treasury.
+&emsp;&emsp;If the Secretary of the Treasury does not approve a capital restoration plan as provided in subparagraph (A), then not later than the earlier of the date the Secretary of the Treasury disapproves of such plan by written notice to the Association or the expiration of the 30-day consideration period referred to in subparagraph (A) (as such period may have been extended by mutual agreement), the Secretary of the Treasury shall submit the Association's capital restoration plan, in the form most recently proposed to the Secretary of the Treasury by the Association, together with a report on the Secretary of the Treasury's reasons for disapproval of such plan and an alternative capital restoration plan, to the Chairman and ranking minority member of the Senate Committee on Labor and Human Resources and to the Chairman and ranking minority member of the House Committee on Education and Labor. A copy of such submission simultaneously shall be sent to the Association and the Secretary of Education by the Secretary of the Treasury.
 
 #### (C) Association implementation and response
 
@@ -370,9 +406,27 @@ The Association shall, as soon as practicable after the end of each fiscal year,
 
 #### (12) Treatment of confidential information
 
-&emsp;Notwithstanding any other provision of law, the Secretary of the Treasury, the Secretary of Education, the Congressional Budget Office, and the General Accounting Office shall not disclose any information treated as confidential by the Association and obtained pursuant to this subsection. Nothing in this paragraph shall authorize the Secretary of the Treasury, the Secretary of Education, the Congressional Budget Office, and the General Accounting Office to withhold information from Congress, or prevent the Secretary of Education, the Congressional Budget Office, and the General Accounting Office from complying with a request for information from any other Federal department or agency requesting the information for purposes within the scope of its jurisdiction, or complying with an order of a court of the United States in an action brought by the United States. For purposes of section 552 of title 5, this paragraph shall be considered a statute described in subsection (b)(3) of such section 552.
+&emsp;Notwithstanding any other provision of law, the Secretary of the Treasury, the Secretary of Education, the Congressional Budget Office, and the General Accounting Office shall not disclose any information treated as confidential by the Association or the Association's associated persons and obtained pursuant to this subsection. Nothing in this paragraph shall authorize the Secretary of the Treasury, the Secretary of Education, the Congressional Budget Office, and the General Accounting Office to withhold information from Congress, or prevent the Secretary of Education, the Congressional Budget Office, and the General Accounting Office from complying with a request for information from any other Federal department or agency requesting the information for purposes within the scope of its jurisdiction, or complying with an order of a court of the United States in an action brought by the United States. For purposes of section 552 of title 5, this paragraph shall be considered a statute described in subsection (b)(3) of such section 552.
 
-#### (13) Definitions
+#### (13) Enforcement of safety and soundness requirements
+
+&emsp;The Secretary of Education or the Secretary of the Treasury, as appropriate, may request that the Attorney General bring an action in the United States District Court for the District of Columbia for the enforcement of any provision of this section, or may, under the direction or control of the Attorney General, bring such an action. Such court shall have jurisdiction and power to order and require compliance with this section.
+
+#### (14) Actions by Secretary
+
+#### (A) In general
+
+&emsp;&emsp;For any fiscal quarter ending after January 1, 2000, the Association shall have a capital ratio of at least 2.25 percent. The Secretary of the Treasury may, whenever such capital ratio is not met, take any one or more of the actions described in paragraph (7), except that—
+
+&emsp;&emsp;&emsp;(i) the capital ratio to be restored pursuant to paragraph (7)(D) shall be 2.25 percent; and
+
+&emsp;&emsp;&emsp;(ii) if the relevant capital ratio is in excess of or equal to 2 percent for such quarter, the Secretary of the Treasury shall defer taking any of the actions set forth in paragraph (7) until the next succeeding quarter and may then proceed with any such action only if the capital ratio of the Association remains below 2.25 percent.
+
+#### (B) Applicability
+
+&emsp;&emsp;The provisions of paragraphs (4), (5), (6), (8), (9), (10), and (11) shall be of no further application to the Association for any period after January 1, 2000.
+
+#### (15) Definitions
 
 &emsp;As used in this subsection:
 
@@ -392,7 +446,97 @@ The Association shall, as soon as practicable after the end of each fiscal year,
 
 &emsp;&emsp;(C) The term “legislative days” means only days on which either House of Congress is in session.
 
-(Pub. L. 89–329, title IV, §439, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1418; amended Pub. L. 100–50, §10(dd), June 3, 1987, 101 Stat. 347; Pub. L. 100–369, §7(c), July 18, 1988, 102 Stat. 837; Pub. L. 102–325, title IV, §431, July 23, 1992, 106 Stat. 554; Pub. L. 103–66, title IV, §§4041(c), 4104, Aug. 10, 1993, 107 Stat. 356, 367; Pub. L. 103–208, §2(c)(69), Dec. 20, 1993, 107 Stat. 2470; Pub. L. 103–382, title III, §358, Oct. 20, 1994, 108 Stat. 3968.)
+#### (16) Dividends
+
+&emsp;The Association may pay dividends in the form of cash or noncash distributions so long as at the time of the declaration of such dividends, after giving effect to the payment of such dividends as of the date of such declaration by the Board of Directors of the Association, the Association's capital would be in compliance with the capital standards set forth in this section.
+
+#### (17) Certification prior to payment of dividend
+
+&emsp;Prior to the payment of any dividend under paragraph (16), the Association shall certify to the Secretary of the Treasury that the payment of the dividend will be made in compliance with paragraph (16) and shall provide copies of all calculations needed to make such certification.
+
+#### (s) Charter sunset
+
+#### (1) Application of provisions
+
+&emsp;This subsection applies beginning 18 months and one day after September 30, 1996, if no reorganization of the Association occurs in accordance with the provisions of section 1087–3 of this title.
+
+#### (2) Sunset plan
+
+#### (A) Plan submission by the Association
+
+&emsp;&emsp;Not later than July 1, 2007, the Association shall submit to the Secretary of the Treasury and to the Chairman and Ranking Member of the Committee on Labor and Human Resources of the Senate and the Chairman and Ranking Member of the Committee on Economic and Educational Opportunities of the House of Representatives, a detailed plan for the orderly winding up, by July 1, 2013, of business activities conducted pursuant to the charter set forth in this section. Such plan shall—
+
+&emsp;&emsp;&emsp;(i) ensure that the Association will have adequate assets to transfer to a trust, as provided in this subsection, to ensure full payment of remaining obligations of the Association in accordance with the terms of such obligations;
+
+&emsp;&emsp;&emsp;(ii) provide that all assets not used to pay liabilities shall be distributed to shareholders as provided in this subsection; and
+
+&emsp;&emsp;&emsp;(iii) provide that the operations of the Association shall remain separate and distinct from that of any entity to which the assets of the Association are transferred.
+
+#### (B) Amendment of the plan by the Association
+
+&emsp;&emsp;The Association shall from time to time amend such plan to reflect changed circumstances, and submit such amendments to the Secretary of the Treasury and to the Chairman and Ranking Minority Member of the Committee on Labor and Human Resources of the Senate and Chairman and Ranking Minority Member of the Committee on Economic and Educational Opportunities of the House of Representatives. In no case may any amendment extend the date for full implementation of the plan beyond the dissolution date provided in paragraph (3).
+
+#### (C) Plan monitoring
+
+&emsp;&emsp;The Secretary of the Treasury shall monitor the Association's compliance with the plan and shall continue to review the plan (including any amendments thereto).
+
+#### (D) Amendment of the plan by the Secretary of the Treasury
+
+&emsp;&emsp;The Secretary of the Treasury may require the Association to amend the plan (including any amendments to the plan), if the Secretary of the Treasury deems such amendments necessary to ensure full payment of all obligations of the Association.
+
+#### (E) Implementation by the Association
+
+&emsp;&emsp;The Association shall promptly implement the plan (including any amendments to the plan, whether such amendments are made by the Association or are required to be made by the Secretary of the Treasury).
+
+#### (3) Dissolution of the Association
+
+&emsp;The Association shall dissolve and the Association's separate existence shall terminate on July 1, 2013, after discharge of all outstanding debt obligations and liquidation pursuant to this subsection. The Association may dissolve pursuant to this subsection prior to such date by notifying the Secretary of Education and the Secretary of the Treasury of the Association's intention to dissolve, unless within 60 days of receipt of such notice the Secretary of Education notifies the Association that the Association continues to be needed to serve as a lender of last resort pursuant to subsection (q) of this section or continues to be needed to purchase loans under an agreement with the Secretary described in paragraph (4)(A). On the dissolution date, the Association shall take the following actions:
+
+#### (A) Establishment of a trust
+
+&emsp;&emsp;The Association shall, under the terms of an irrevocable trust agreement in form and substance satisfactory to the Secretary of the Treasury, the Association, and the appointed trustee, irrevocably transfer all remaining obligations of the Association to a trust and irrevocably deposit or cause to be deposited into such trust, to be held as trust funds solely for the benefit of holders of the remaining obligations, money or direct noncallable obligations of the United States or any agency thereof for which payment the full faith and credit of the United States is pledged, maturing as to principal and interest in such amounts and at such times as are determined by the Secretary of the Treasury to be sufficient, without consideration of any significant reinvestment of such interest, to pay the principal of, and interest on, the remaining obligations in accordance with their terms.
+
+#### (B) Use of trust assets
+
+&emsp;&emsp;All money, obligations, or financial assets deposited into the trust pursuant to this subsection shall be applied by the trustee to the payment of the remaining obligations assumed by the trust. Upon the fulfillment of the trustee's duties under the trust, any remaining assets of the trust shall be transferred to the persons who, at the time of the dissolution, were the shareholders of the Association, or to the legal successors or assigns of such persons.
+
+#### (C) Obligations not transferred to the trust
+
+&emsp;&emsp;The Association shall make proper provision for all other obligations of the Association, including the repurchase or redemption, or the making of proper provision for the repurchase or redemption, of any preferred stock of the Association outstanding.
+
+#### (D) Transfer of remaining assets
+
+&emsp;&emsp;After compliance with subparagraphs (A) and (C), the Association shall transfer to the shareholders of the Association any remaining assets of the Association.
+
+#### (4) Restrictions relating to winding up
+
+#### (A) Restrictions on new business activity or acquisition of assets by the Association
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;Beginning on July 1, 2009, the Association shall not engage in any new business activities or acquire any additional program assets (including acquiring assets pursuant to contractual commitments) described in subsection (d) of this section other than in connection with the Association—
+
+&emsp;&emsp;&emsp;&emsp;(I) serving as a lender of last resort pursuant to subsection (q) of this section; and
+
+&emsp;&emsp;&emsp;&emsp;(II) purchasing loans insured under this part, if the Secretary, with the approval of the Secretary of the Treasury, enters into an agreement with the Association for the continuation or resumption of the Association's secondary market purchase program because the Secretary determines there is inadequate liquidity for loans made under this part.
+
+#### (ii) Agreement
+
+&emsp;&emsp;&emsp;The Secretary is authorized to enter into an agreement described in subclause (II) of clause (i) with the Association covering such secondary market activities. Any agreement entered into under such subclause shall cover a period of 12 months, but may be renewed if the Secretary determines that liquidity remains inadequate. The fee provided under subsection (h)(7) of this section shall not apply to loans acquired under any such agreement with the Secretary.
+
+#### (B) Issuance of debt obligations during the wind up period; attributes of debt obligations
+
+&emsp;&emsp;The Association shall not issue debt obligations which mature later than July 1, 2013, except in connection with serving as a lender of last resort pursuant to subsection (q) of this section or with purchasing loans under an agreement with the Secretary as described in subparagraph (A). Nothing in this subsection shall modify the attributes accorded the debt obligations of the Association by this section, regardless of whether such debt obligations are transferred to a trust in accordance with paragraph (3).
+
+#### (C) Use of Association name
+
+&emsp;&emsp;The Association may not transfer or permit the use of the name “Student Loan Marketing Association”, “Sallie Mae”, or any variation thereof, to or by any entity other than a subsidiary of the Association.
+
+(Pub. L. 89–329, title IV, §439, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1418; amended Pub. L. 100–50, §10(dd), June 3, 1987, 101 Stat. 347; Pub. L. 100–369, §7(c), July 18, 1988, 102 Stat. 837; Pub. L. 102–325, title IV, §431, July 23, 1992, 106 Stat. 554; Pub. L. 103–66, title IV, §§4041(c), 4104, Aug. 10, 1993, 107 Stat. 356, 367; Pub. L. 103–208, §2(c)(69), Dec. 20, 1993, 107 Stat. 2470; Pub. L. 103–382, title III, §358, Oct. 20, 1994, 108 Stat. 3968; Pub. L. 104–208, div. A, title I, §101(e) \[title VI, §602(b)(2)–(4), (c)\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–284 to 3009–286.)
+
+#### Repeal of Section
+
+<i>Pub. L. 104–208, div. A, title I, §101(e) \[title VI, §602(d)\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–289, provided that this section is repealed effective one year after date on which all obligations of trust established under section 1087–3(d)(1) of this title have been extinguished, if reorganization occurs in accordance with section 1087–3 of this title; or date on which all obligations of trust established under subsec. (s)(3)(A) of this section have been extinguished, if reorganization does not occur in accordance with section 1087–3 of this title.</i>
 
 #### References in Text
 
@@ -406,13 +550,31 @@ In subsec. (h)(3) and (5), “chapter 31 of title 31” substituted for “the S
 
 A prior section 1087–2, Pub. L. 89–329, title IV, §439, as added Pub. L. 92–318, title I, §133(a), June 23, 1972, 86 Stat. 265; amended Pub. L. 94–273, §3(9), Apr. 21, 1976, 90 Stat. 376; Pub. L. 94–482, title I, §127(a), Oct. 12, 1976, 90 Stat. 2136; Pub. L. 95–43, §1(a)(38), June 15, 1977, 91 Stat. 217; Pub. L. 96–374, title IV, §421(a)–(e)(1), title XIII, §1391(a)(1), (3), Oct. 3, 1980, 94 Stat. 1427–1430, 1503; Pub. L. 97–35, title V, §538, Aug. 13, 1981, 95 Stat. 457; Pub. L. 97–115, §18, Dec. 29, 1981, 95 Stat. 1610; Pub. L. 97–301, §14, Oct. 13, 1982, 96 Stat. 1405; Pub. L. 98–79, §§2, 8, Aug. 15, 1983, 97 Stat. 476, 483; Pub. L. 99–272, title XVI, §§16017(b)(4), 16018(a)(3), Apr. 7, 1986, 100 Stat. 347, 348, established the Student Loan Marketing Association, prior to the general revision of this part by Pub. L. 99–498.
 
-A prior section 1087–3, Pub. L. 89–329, title IV, §439A, as added Pub. L. 94–482, title I, §127(a), Oct. 12, 1976, 90 Stat. 2141, related to a five-year nondischargeability of certain loan debts, prior to repeal by Pub. L. 95–598, title III, §317, Nov. 6, 1978, 92 Stat. 2678, eff. Nov. 6, 1978.
-
-A prior section 1087–3a, Pub. L. 89–329, title IV, §439B, as added Pub. L. 95–566, §8, Nov. 1, 1978, 92 Stat. 2404, authorized any loan under this part to be counted as part of the expected family contribution in the determination of need, prior to repeal by Pub. L. 97–35, title V, §532(b)(2), Aug. 13, 1981, 95 Stat. 452, applicable to loans for the statement required by section 1078(a)(2)(A) of this title is completed on or after Oct. 1, 1981.
-
-A prior section 1087–4, Pub. L. 89–329, title IV, §440, as added Pub. L. 94–482, title I, §127(a), Oct. 12, 1976, 90 Stat. 2141, provided for criminal penalties, prior to repeal by Pub. L. 96–374, title IV, §451(b), Oct. 3, 1980, 94 Stat. 1458, eff. Oct. 1, 1980. See section 1097 of this title.
-
 #### Amendments
+
+1996—Subsec. (r)(1)(C). Pub. L. 104–208, §101(e) \[title VI, §602(b)(3)(A)\], added subpar. (C).
+
+Subsec. (r)(2)(A)(i), (ii). Pub. L. 104–208, §101(e) \[title VI, §602(b)(3)(B)(i)\], added cls. (i) and (ii) and struck out former cls. (i) and (ii) which read as follows:
+
+“(i) appoint auditors to conduct audits of the Association from time to time to determine the condition of the Association for the purpose of assessing its financial safety and soundness; and
+
+“(ii) enter into contracts to obtain the services of such technical experts as the Secretary of the Treasury determines necessary and appropriate to provide technical assistance to any auditor appointed under this paragraph.”
+
+Subsec. (r)(2)(D). Pub. L. 104–208, §101(e) \[title VI, §602(b)(3)(B)(ii)\], added subpar. (D).
+
+Subsec. (r)(2)(E). Pub. L. 104–208, §101(e) \[title VI, §602(b)(4)(A)\], added subpar. (E).
+
+Subsec. (r)(12). Pub. L. 104–208, §101(e) \[title VI, §602(b)(2)(A)\], inserted “or the Association's associated persons” after “by the Association” in first sentence.
+
+Subsec. (r)(13). Pub. L. 104–208, §101(e) \[title VI, §602(b)(2)(B), (C)\], added par. (13) and redesignated former par. (13) as (15).
+
+Subsec. (r)(14). Pub. L. 104–208, §101(e) \[title VI, §602(b)(3)(C)\], added par. (14).
+
+Subsec. (r)(15). Pub. L. 104–208, §101(e) \[title VI, §602(b)(2)(B)\], redesignated par. (13) as (15).
+
+Subsec. (r)(16), (17). Pub. L. 104–208, §101(e), \[title VI, §602(b)(4)(B)\], added pars. (16) and (17).
+
+Subsec. (s). Pub. L. 104–208, §101(e) \[title VI, §602(c)\], added subsec. (s).
 
 1994—Subsec. (d)(1)(C). Pub. L. 103–382, §358(1)(A), (D), inserted “(including related equipment, instrumentation, and furnishings)” after “materials” in introductory provisions and substituted “30 percent” for “15 percent” and “types” for “type” in concluding provisions.
 
@@ -444,7 +606,15 @@ Subsec. (r). Pub. L. 102–325, §431(e), added subsec. (r).
 
 #### Change of Name
 
-Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Economic and Educational Opportunities of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Fifth Congress, Jan. 7, 1997.
+
+#### Effective Date of 1996 Amendment
+
+Section 101(e) \[title VI, §602(d)(2)\] of div. A of Pub. L. 104–208 provided that: “The repeals made by paragraph (1) \[repealing this section and section 1087–3 of this title\] shall be effective one year after—
+
+&emsp;“(A) the date on which all of the obligations of the trust established under section 440(d)(1) of the Higher Education Act of 1965 \[20 U.S.C. 1087–3(d)(1)\] (as added by subsection (a)) have been extinguished, if a reorganization occurs in accordance with section 440 of such Act; or
+
+&emsp;“(B) the date on which all of the obligations of the trust established under subsection \[sic\] 439(s)(3)(A) of such Act \[20 U.S.C. 1087–2(s)(3)(A)\] (as added by subsection (c)) have been extinguished, if a reorganization does not occur in accordance with section 440 of such Act.”
 
 #### Effective Date of 1993 Amendment
 
@@ -458,7 +628,19 @@ Amendment by Pub. L. 102–325 effective July 23, 1992, except that changes in s
 
 Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Education Amendments of 1986, Pub. L. 99–498, see section 27 of Pub. L. 100–50, set out as a note under section 1001 of this title.
 
+#### Use of Association Names Upon Dissolution; Enforcement
+
+Section 101(e) \[title VI, §602(e), (f)\] of div. A of Pub. L. 104–208 provided that:
+
+“(e)
+
+Association Names.—Upon dissolution in accordance with section 439(s) of the Higher Education Act of 1965 (20 U.S.C. 1087–2\[(s)\]), the names ‘Student Loan Marketing Association’, ‘Sallie Mae’, and any variations thereof may not be used by any entity engaged in any business similar to the business conducted pursuant to section 439 of such Act (as such section was in effect on the date of enactment of this Act \[Sept. 30, 1996\]) without the approval of the Secretary of the Treasury.
+
+“(f)
+
+Right to Enforce.—The Secretary of Education or the Secretary of the Treasury, as appropriate, may request that the Attorney General bring an action in the United States District Court for the District of Columbia for the enforcement of any provision of subsection (e), or may, under the direction or control of the Attorney General, bring such an action. Such court shall have jurisdiction and power to order and require compliance with subsection (e).”
+
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1078, 1085, 1087–1, 1092a of this title.
+This section is referred to in sections 1078, 1085, 1087–1, 1087–3, 1092a of this title.
 

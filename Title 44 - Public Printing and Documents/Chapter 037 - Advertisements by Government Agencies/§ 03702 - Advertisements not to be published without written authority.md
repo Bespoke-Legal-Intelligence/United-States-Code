@@ -10,5 +10,5 @@ Based on 44 U.S. Code, 1964 ed., §324 (R.S. §3828).
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 5 section 302; title 22 section 2126.
+This section is referred to in title 5 section 302.
 

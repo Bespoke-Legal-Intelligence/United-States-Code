@@ -4,13 +4,13 @@
 
 &emsp;(1) on a voyage between a port in the United States and a port in a foreign country (except a port in Canada, Mexico, or the West Indies); or
 
-&emsp;(2) of at least 75 gross tons on a voyage between a port of the United States on the Atlantic Ocean and a port of the United States on the Pacific Ocean.
+&emsp;(2) of at least 75 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title on a voyage between a port of the United States on the Atlantic Ocean and a port of the United States on the Pacific Ocean.
 
 (b) This chapter does not apply to a vessel on which the seamen are entitled by custom or agreement to share in the profit or result of a voyage.
 
 (c) Unless otherwise provided, this chapter does not apply to a foreign vessel.
 
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 561.)
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 561; Pub. L. 104–324, title VII, §737, Oct. 19, 1996, 110 Stat. 3941.)
 
 Historical and Revision Notes
 
@@ -27,4 +27,8 @@ Historical and Revision Notes
 46:574
 
 Section 10301 specifies that vessels on foreign and intercoastal voyages (except for fishing vessels and foreign vessels) are subject to the seamen protection and relief provisions contained in chapter 103.
+
+#### Amendments
+
+1996—Subsec. (a)(2). Pub. L. 104–324 inserted “as measured under section 14502 of this title, or an alternatetonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title” after “75 gross tons”.
 

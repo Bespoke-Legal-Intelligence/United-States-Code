@@ -2,7 +2,7 @@
 
 (a) In accordance with the schedule set forth in subsection (b) of this section, the Secretary shall—
 
-&emsp;(1) with respect to each period set forth in such subsection, analyze information obtained by the Secretary under section 3501 of this title and determine the effects of foreign persons acquiring, transferring, and holding agricultural land, particularly the effects of such acquisitions, transfers, and holdings on family farms and rural communities; and
+&emsp;(1) with respect to each period set forth in such subsection, analyze information obtainedby the Secretary under section 3501 of this title and determine the effects of foreign persons acquiring, transferring, and holding agricultural land, particularly the effects of such acquisitions, transfers, and holdings on family farms and rural communities; and
 
 &emsp;(2) transmit to the President and each House of the Congress a report on the Secretary's findings and conclusions regarding—
 

@@ -8,7 +8,7 @@ A schedule required under section 4303 of this title for an appropriate account 
 
 &emsp;(2) provided to any potential customer before an account is opened or a service is rendered; and
 
-&emsp;(3) provided to the depositor, in the case of any time deposit which is renewable at maturity without notice from the depositor, at least 30 days before the date of maturity.
+&emsp;(3) provided to the depositor, in the case of any time deposit which has a maturity of more than 30 days <sup>1</sup> is renewable at maturity without notice from the depositor, at least 30 days before the date of maturity.
 
 #### (b) Distribution in case of certain initial deposits
 
@@ -38,13 +38,17 @@ If an account is established by more than 1 individual or for a person other tha
 
 For any account for which the depository institution delivers an account statement on a quarterly or more frequent basis, the depository institution shall include on or with the first regularly scheduled mailing sent after the end of the 6-month period beginning on the date of publication of regulations issued by the Board in final form, a statement that the account holder has the right to request an account schedule containing the terms, charges, and interest rates of the account, and that the account holder may wish to request such an account schedule.
 
-(Pub. L. 102–242, title II, §266, Dec. 19, 1991, 105 Stat. 2337; Pub. L. 102–550, title XVI, §1604(e)(1), Oct. 28, 1992, 106 Stat. 4084.)
+(Pub. L. 102–242, title II, §266, Dec. 19, 1991, 105 Stat. 2337; Pub. L. 102–550, title XVI, §1604(e)(1), Oct. 28, 1992, 106 Stat. 4084; Pub. L. 104–208, div. A, title II, §2604(d), Sept. 30, 1996, 110 Stat. 3009–471.)
 
 #### Amendments
+
+1996—Subsec. (a)(3). Pub. L. 104–208 inserted “has a maturity of more than 30 days” after “deposit which”.
 
 1992—Subsec. (e). Pub. L. 102–550 substituted “on or with the first regularly scheduled mailing sent after the end of the 6-month period beginning on the date of publication” for “on or with any regularly scheduled mailing posted or delivered within 180 days after publication”.
 
 #### Effective Date of 1992 Amendment
 
 Amendment by Pub. L. 102–550 effective as if included in the Federal Deposit Insurance Corporation Improvement Act of 1991, Pub. L. 102–242, as of Dec. 19, 1991, see section 1609(a) of Pub. L. 102–550, set out as a note under section 191 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by “and”.</i>
 

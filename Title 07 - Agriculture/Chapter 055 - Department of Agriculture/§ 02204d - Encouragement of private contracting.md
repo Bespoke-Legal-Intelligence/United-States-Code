@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-For the purpose of promoting local job creation and private sector investment in rural communities, the Secretary of Agriculture is encouraged, where appropriate and feasible, to use private enterprise concerns located in rural areas, rather than government employees or government enterprises, to provide commercial activities or products to carry out the purposes of this title.<sup>1</sup>
+For the purpose of promoting local job creation and private sector investment in rural communities, the Secretary of Agriculture is encouraged, where appropriate and feasible, to useprivate enterprise concerns located in rural areas, rather than government employees or government enterprises, to provide commercial activities or products to carry out the purposes of this title.<sup>1</sup>
 
 #### (b) Plan required
 

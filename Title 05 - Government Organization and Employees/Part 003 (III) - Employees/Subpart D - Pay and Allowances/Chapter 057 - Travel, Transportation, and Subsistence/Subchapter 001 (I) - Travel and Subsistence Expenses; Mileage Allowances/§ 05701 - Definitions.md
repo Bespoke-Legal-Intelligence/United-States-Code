@@ -1,6 +1,6 @@
 ### §5701. Definitions
 
-Except as otherwise provided in section 5707(d), for the purpose of this subchapter—
+Except as otherwise provided in section 5707(d),<sup>1</sup> for the purpose of this subchapter—
 
 &emsp;(1) “agency” means—
 
@@ -40,7 +40,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 (1)–(5)
 
@@ -68,13 +70,17 @@ The definition of “Member of Congress” in former section 835(4) is omitted a
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### References in Text
+
+Section 5707(d) of this title, referred to in text, was repealed by Pub. L. 104–201, div. A, title XVI, §1614(a)(1), Sept. 23, 1996, 110 Stat. 2739.
+
 #### Amendments
 
-<b>1990</b>—Pub. L. 101–391 substituted “Except as otherwise provided in section 5707(d), for the purpose” for “For the purpose”.
+1990—Pub. L. 101–391 substituted “Except as otherwise provided in section 5707(d), for the purpose” for “For the purpose”.
 
-<b>1986</b>—Par. (4). Pub. L. 99–234 amended par. (4) generally, striking out “flat rate” before “payment”.
+1986—Par. (4). Pub. L. 99–234 amended par. (4) generally, striking out “flat rate” before “payment”.
 
-<b>1975</b>—Par. (2). Pub. L. 94–22 redefined “employee” to include individuals employed intermittently as experts or consultants and paid on a daily when-actually-employed basis, and individuals serving without pay at $1 a year.
+1975—Par. (2). Pub. L. 94–22 redefined “employee” to include individuals employed intermittently as experts or consultants and paid on a daily when-actually-employed basis, and individuals serving without pay at $1 a year.
 
 #### Effective Date of 1986 Amendment; Regulations
 
@@ -83,6 +89,10 @@ Section 301 of Pub. L. 99–234 provided that:
 “(a) The Administrator of General Services shall promulgate regulations implementing the amendments made by sections 101, 102, 103, 104, and 106 of this Act \[enacting sections 5706a and 5734 of this title and amending this section and sections 5702 and 5707 of this title\] not later than 150 days after the date of enactment of this Act \[Jan. 2, 1986\]. The amendments made by title I of this Act \[enacting sections 5706a and 5734 of this title and amending this section, sections 5702, 5707, and 5724a of this title, section 476 of Title 2, The Congress, section 2396 of Title 22, Foreign Relations and Intercourse, section 4941 of Title 26, Internal Revenue Code, section 456 of Title 28, Judiciary and Judicial Procedure, section 326 of Title 31, Money and Finance, and section 2477 of Title 42, The Public Health and Welfare\] shall take effect on the effective date of such regulations, or 180 days after the date of enactment of this Act \[Jan. 2, 1986\], whichever occurs first.
 
 “(b) The amendments made by section 201 of this Act \[enacting section 420 of Title 41, Public Contracts\] shall take effect 30 days after the effective date of the amendments made by title I.”
+
+#### Short Title of 1996 Amendment
+
+Pub. L. 104–201, div. A, title XVII, §1701, Sept. 23, 1996, 110 Stat. 2752, provided that: “This title \[enacting sections 5737, 5738, and 5756 of this title, amending sections 3375, 5722 to 5724c, 5726 to 5729, and 5731 of this title, section 1348 of Title 31, Money and Finance, section 707 of Title 38, Veterans’ Benefits, and sections 290aa and 299c–4 of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under section 5722 of this title\] may be cited as the ‘Federal Employee Travel Reform Act of 1996’.”
 
 #### Short Title of 1986 Amendment
 
@@ -94,5 +104,7 @@ Section 1 of Pub. L. 94–22 provided: “That this Act \[amending this section,
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 5304 of this title; title 2 sections 68b, 179b; title 7 sections 3128, 3194, 3335, 4108, 5843; title 15 section 2224; title 16 sections 971a, 971b, 2443, 3608, 3641, 5608, 5709; title 22 section 1474; title 24 section 415; title 42 section 12653h; title 46 App. section 1717.
+This section is referred to in section 5304 of this title; title 2 section 68b; title 7 sections 3128, 5843; title 15 section 2224; title 16 sections 971a, 971b, 2443, 3608, 3641, 5608, 5709; title 22 section 1474; title 24 section 415; title 42 section 12653h; title 46 App. section 1717.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

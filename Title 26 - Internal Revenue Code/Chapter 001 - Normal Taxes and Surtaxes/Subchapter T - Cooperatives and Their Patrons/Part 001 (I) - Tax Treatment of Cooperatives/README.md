@@ -16,7 +16,7 @@
 
 #### Part Referred to in Other Sections
 
-This part is referred to in sections 521, 860E, 927, 1042, 1388 of this title.
+This part is referred to in sections 521, 860E, 860L, 927, 1042, 1388 of this title.
 
 
 ---

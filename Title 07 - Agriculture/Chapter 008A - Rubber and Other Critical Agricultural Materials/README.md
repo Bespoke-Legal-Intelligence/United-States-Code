@@ -26,8 +26,7 @@
 | (d) | Delegation of responsibilities to Joint Commission; transfer and use of appropriated funds. |
 | (e) | Duties. |
 | (f) | Administrative support services. |
-| (g) | Report to Congress. |
-| (h) | Advice of scientific, engineering and business communities. |
+| (g) | Advice of scientific, engineering and business communities. |
 | [178c.](Subchapter%20002%20%28II%29%20-%20Critical%20Agricultural%20Materials/%C2%A7%2000178c%20-%20Research%20and%20development%20program%20by%20Secretary%20of%20Agriculture.md) | Research and development program by Secretary of Agriculture. |
 | (a) | Designation of Department as lead agency. |
 | (b) | Scope of program. |

@@ -1,8 +1,8 @@
 ### §651. Authorization of appropriations
 
-For the purpose of enforcing the support obligations owed by absent parents to their children and the spouse (or former spouse) with whom such children are living, locating absent parents, establishing paternity, obtaining child and spousal support, and assuring that assistance in obtaining support will be available under this part to all children (whether or not eligible for aid under part A of this subchapter) for whom such assistance is requested, there is hereby authorized to be appropriated for each fiscal year a sum sufficient to carry out the purposes of this part.
+For the purpose of enforcing the support obligations owed by noncustodial parents to their children and the spouse (or former spouse) with whom such children are living, locating noncustodial parents, establishing paternity, obtaining child and spousal support, and assuring that assistance in obtaining support will be available under this part to all children (whether or not eligible for assistance under a State program funded under part A of this subchapter) for whom such assistance is requested, there is hereby authorized to be appropriated for each fiscal year a sum sufficient to carry out the purposes of this part.
 
-(Aug. 14, 1935, ch. 531, title IV, §451, as added Jan. 4, 1975, Pub. L. 93–647, §101(a), 88 Stat. 2351; amended Aug. 13, 1981, Pub. L. 97–35, title XXIII, §2332(a), 95 Stat. 861; Aug. 16, 1984, Pub. L. 98–378, §2, 98 Stat. 1305.)
+(Aug. 14, 1935, ch. 531, title IV, §451, as added Jan. 4, 1975, Pub. L. 93–647, §101(a), 88 Stat. 2351; amended Aug. 13, 1981, Pub. L. 97–35, title XXIII, §2332(a), 95 Stat. 861; Aug. 16, 1984, Pub. L. 98–378, §2, 98 Stat. 1305; Aug. 22, 1996, Pub. L. 104–193, title I, §108(c)(1), title III, §395(d)(1)(A), 110 Stat. 2165, 2259.)
 
 #### References in Text
 
@@ -10,9 +10,19 @@ Part A of this subchapter, referred to in text, is classified to section 601 et 
 
 #### Amendments
 
+1996—Pub. L. 104–193, §395(d)(1)(A), substituted “noncustodial” for “absent” in two places.
+
+Pub. L. 104–193, §108(c)(1), substituted “assistance under a State program funded under part A of this subchapter” for “aid under part A of this subchapter”.
+
 1984—Pub. L. 98–378 substituted “obtaining child and spousal support, and assuring that assistance in obtaining support will be available under this part to all children (whether or not eligible for aid under part A of this subchapter) for whom such assistance is requested,” for “and obtaining child and spousal support,”.
 
 1981—Pub. L. 97–35 substituted “children and the spouse (or former spouse) with whom such children are living” for “children” and “child and spousal support” for “child support”.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by section 108(c)(1) of Pub. L. 104–193 effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as an Effective Date note under section 601 of this title.
+
+For effective date of amendment by section 395(d)(1)(A) of Pub. L. 104–193, see section 395(a)–(c) of Pub. L. 104–193, set out as a note under section 654 of this title.
 
 #### Effective Date of 1981 Amendment
 

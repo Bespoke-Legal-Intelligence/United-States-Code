@@ -16,7 +16,7 @@ The Secretary shall require, as a condition to the approval of an application un
 
 &emsp;&emsp;(C) if such entity received a loan under section 254h(c) of this title or a grant under section 254f(d)(2) <sup>1</sup> of this title, an amount which bears the same ratio to the amount of such loan or grant as the number of days in such quarter (or other period) during which any Corps members were assigned to the entity bears to the number of days in the assignment period after such entity received such loan or grant;
 
-&emsp;(4) the entity, if a small health center, shall pay to the United States, in each calendar quarter (or other period as may be specified inthe agreement) during which any Corps member is assigned to such entity, an amount determined by the Secretary in accordance with subsection (f) of this section; and
+&emsp;(4) the entity, if a small health center, shall pay to the United States, in each calendar quarter (or other period as may be specified in the agreement) during which any Corps member is assigned to such entity, an amount determined by the Secretary in accordance with subsection (f) of this section; and
 
 &emsp;(5) the entity shall prepare and submit to the Secretary an annual report, in such form and manner, as the Secretary may require.
 
@@ -60,15 +60,15 @@ Funds received by the Secretary under an agreement entered into under this secti
 
 (1) An entity which is a small health center shall pay to the United States, as prescribed by the Secretary in each calendar quarter (or other period as may be specified in the agreement) during which any Corps member is assigned to such entity, an amount equal to the amount (prorated for a calendar quarter or other period) by which the revenues that the center may reasonably expect to receive during an annual period for the provision of health services exceeds the costs that the center may reasonably expect to incur in the provision of such services, except that the amount that an entity shall pay to the United States under this paragraph shall not exceed the amount such entity would pay to the United States under paragraph (3) of subsection (a) of this section if such paragraph applied to such entity.
 
-(2)(A) To determine for purposes of paragraph (1) the revenues and costs which an entity that is a small health center may reasonably be expected to receive and incur in an annual period for the provision of health services, the entityshall submit to the Secretary before the beginning of such period a proposed budget which—
+(2)(A) To determine for purposes of paragraph (1) the revenues and costs which an entity that is a small health center may reasonably be expected to receive and incur in an annual period for the provision of health services, the entity shall submit to the Secretary before the beginning of such period a proposed budget which—
 
-&emsp;(i) describes the primary and supplemental health services (as defined in section 254c of this title) which are needed by the area the entity serves in such period; and
+&emsp;(i) describes the primary and supplemental health services (as defined in section 254c <sup>2</sup> ofthis title) which are needed by the area the entity serves in such period; and
 
 &emsp;(ii) states the revenues and costs which the entity expects to receive and incur in providing such health services in such period.
 
 (B) From the submission under subparagraph (A) and other information available to the Secretary, the Secretary shall determine—
 
-&emsp;(i) the primary and supplemental health services (as defined in section 254c of this title) needed in the area the entity serves;
+&emsp;(i) the primary and supplemental health services (as defined in section 254c <sup>2</sup> of this title) needed in the area the entity serves;
 
 &emsp;(ii) the fees, premiums, third party reimbursements, and other revenues the entity making the submission may reasonably expect to receive from the provision of such services; and
 
@@ -108,13 +108,15 @@ Funds received by the Secretary under an agreement entered into under this secti
 
 &emsp;(B) a public entity; or
 
-&emsp;(C) an entity that is receiving a grant under section 254b of this title or section 254c of this title, except that such term includes an entity whose grant is less than the total of the amounts, calculated on an annual basis, specified in subparagraphs (A) and (B) of subsection (a)(3) of this section.
+&emsp;(C) an entity that is receiving a grant under section 254b <sup>2</sup> of this title or section 254c <sup>2</sup> of this title, except that such term includes an entity whose grant is less than the total of the amounts, calculated on an annual basis, specified in subparagraphs (A) and (B) of subsection (a)(3) of this section.
 
 (July 1, 1944, ch. 373, title III, §334, as added Oct. 12, 1976, Pub. L. 94–484, title IV, §407(b)(3), 90 Stat. 2274; amended Aug. 13, 1981, Pub. L. 97–35, title XXVII, §2704, 95 Stat. 906; Dec. 1, 1983, Pub. L. 98–194, §3, 97 Stat. 1345; Dec. 1, 1987, Pub. L. 100–177, title II, §202(c), 101 Stat. 996; Nov. 16, 1990, Pub. L. 101–597, title I, §105, title IV, §401(b)\[(a)\], 104 Stat. 3018, 3035.)
 
 #### References in Text
 
 Section 254f(d) of this title, referred to in subsec. (a)(3)(C), was redesignated section 254f(b) of this title by Pub. L. 101–597, title I, §103(b)(2), Nov. 16, 1990, 104 Stat. 3015.
+
+Sections 254b and 254c of this title, referred to in subsec. (f)(2)(A)(i), (B)(i), (5)(C), were in the original references to sections 329 and 330, meaning sections 329 and 330 of act July 1, 1944, which were omitted in the general amendment of subpart I (§254b et seq.) of this part by Pub. L. 104–299, §2, Oct. 11, 1996, 110 Stat. 3626. Sections 2 and 3(a) of Pub. L. 104–299 enacted new sections 330 and 330A of act July 1, 1944, which are classified, respectively, to sections 254b and 254c of this title.
 
 #### Amendments
 
@@ -134,7 +136,7 @@ Subsec. (b)(1). Pub. L. 98–194, §3(b)(1), (2), inserted “, on a prospectiv
 
 Subsec. (b)(2). Pub. L. 98–194, §3(b)(3), (4), inserted “, on a prospective or retrospective basis,” after “in whole or in part”, and “is not a small health center and which” after “for any entity which”.
 
-Subsec. (b)(3). Pub. L. 98–194, §3(b)(5), inserted “and does not, pursuant to paragraph (5), require payment bythe entity in the amount described in subsection (f)(1) of this section,” after “paragraph (1) or (2),”.
+Subsec. (b)(3). Pub. L. 98–194, §3(b)(5), inserted “and does not, pursuant to paragraph (5), require payment by the entity in the amount described in subsection (f)(1) of this section,” after “paragraph (1) or (2),”.
 
 Subsec. (b)(5). Pub. L. 98–194, §3(b)(6), added par. (5).
 
@@ -169,4 +171,6 @@ Section 2 of Pub. L. 98–194 provided that: “Congress finds and declares that
 This section is referred to in sections 254f, 254i, 254k, 254<i>l</i>, 254<i>l</i>–1, 254m of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

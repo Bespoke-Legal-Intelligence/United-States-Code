@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Corporation is authorized to negotiate the purchase of all highly enriched uranium made available by any State of the former Soviet Union under a government-to-government agreement or shall assume the obligations of the Department under any contractual agreement that has been reached with any such State or any private entity before the transition date. The Corporation may only purchase this material so long as the quality of the material can be made suitable for use in commercial reactors.
+The Corporation is authorized to negotiate the purchase of all highly enriched uranium made available by any State of the former Soviet Union under a government-to-government agreement or shall assume the obligations of the Department under any contractual agreement that has been reached with any such State or any private entity before the transition date.The Corporation may only purchase this material so long as the quality of the material can be made suitable for use in commercial reactors.
 
 #### (b) Assessment of potential use
 
@@ -17,6 +17,10 @@ In the event that the agreement under subsection (a) of this section provides fo
 The Corporation shall seek to minimize the impact on domestic industries (including uranium mining) of the sale of low-enriched uranium derived from highly enriched uranium.
 
 (Aug. 1, 1946, ch. 724, title II, §1408, as added Oct. 24, 1992, Pub. L. 102–486, title IX, §901, 106 Stat. 2937.)
+
+#### Repeal of Section
+
+<i>Section repealed effective as of date on which 100 percent of ownership of United States Enrichment Corporation has been transferred to private investors, see section 3116(a)(1) of Pub. L. 104–134, set out as a note under section 2297 of this title.</i>
 
 #### Section Referred to in Other Sections
 

@@ -22,7 +22,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in section 3006A of this title.
+This chapter is referred to in section 3006A of this title; title 10 section 876b.
 
 
 ---

@@ -2,13 +2,13 @@
 
 #### (a) Establishment
 
-The Commissioner of Customs, after consultation with appropriate officials in the State of Texas, is authorized and directed to make grants to an institution (or a consortium of such institutions) to assist such institution in planning, establishing, and operating a Center for the Study of Western Hemispheric Trade (hereafter in this section referred to as the “Center”). The Commissioner of Customs shall make the first grant not later than December 1, 1994, and the Center shall be established not later than February 1, 1995.
+The Commissioner of Customs, after consultation with appropriate officials in the State of Texas, is authorized and directed to make grants to an institution (or a consortium of suchinstitutions) to assist such institution in planning, establishing, and operating a Center for the Study of Western Hemispheric Trade (hereafter in this section referred to as the “Center”). The Commissioner of Customs shall make the first grant not later than December 1, 1994, and the Center shall be established not later than February 1, 1995.
 
 #### (b) Scope of Center
 
 The Center shall be a year-round program operated by an institution located in the State of Texas (or a consortium of such institutions), the purpose of which is to promote and study trade between and among Western Hemisphere countries. The Center shall conduct activities designed to examine—
 
-&emsp;(1) the impact of the NAFTA on the economies in, and trade within, the Western Hemisphere,<sup>1</sup>
+&emsp;(1) the impact of the NAFTA on the economies in, and trade within, the Western Hemisphere;
 
 &emsp;(2) the negotiation of any future free trade agreements, including possible accessions to the NAFTA; and
 
@@ -16,7 +16,7 @@ The Center shall be a year-round program operated by an institution located in t
 
 #### (c) Consultation; selection criteria
 
-The Commissioner of Customs shall consult with appropriate officials of the State of Texasand private sector authorities with respect to selecting, planning, and establishing the Center. In selecting the appropriate institution, the Commissioner of Customs shall give consideration to—
+The Commissioner of Customs shall consult with appropriate officials of the State of Texas and private sector authorities with respect to selecting, planning, and establishing the Center. In selecting the appropriate institution, the Commissioner of Customs shall give consideration to—
 
 &emsp;(1) the institution's ability to carry out the programs and activities described in this section; and
 
@@ -62,15 +62,21 @@ The Commissioner of Customs is directed to make grants to any institution or ins
 
 The Commissioner of Customs shall, no later than July 1, 1994, and annually thereafter for years for which grants are made, submit a written report to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives. The first report shall include—
 
-&emsp;(1) a statement identifying the institution or institutions selected as the Center,
+&emsp;(1) a statement identifying the institution or institutions selected as the Center;
 
-&emsp;(2) the reasons for selecting the institution or institutions as the Center, and
+&emsp;(2) the reasons for selecting the institution or institutions as the Center; and
 
 &emsp;(3) the plan of such institution or institutions for operating the Center.
 
 > Each subsequent report shall include information with respect to the operations of the Center, the collaboration of the Center with, and dissemination of information to, Government policymakers and the business community with respect to the study of Western Hemispheric trade by the Center, and the plan and efforts of the Center to continue operations after grants under this section have expired.
 
-(Pub. L. 98–67, title II, §219, as added Pub. L. 103–182, title V, §515(a), Dec. 8, 1993, 107 Stat. 2158.)
+(Pub. L. 98–67, title II, §219, as added Pub. L. 103–182, title V, §515(a), Dec. 8, 1993, 107 Stat.2158; amended Pub. L. 104–295, §21(d), Oct. 11, 1996, 110 Stat. 3530.)
+
+#### Amendments
+
+1996—Subsec. (b)(1). Pub. L. 104–295, §21(d)(1), substituted semicolon for comma at end.
+
+Subsec. (h)(1), (2). Pub. L. 104–295, §21(d)(2), substituted semicolon for comma after “Center”.
 
 #### Authorization of Appropriations
 

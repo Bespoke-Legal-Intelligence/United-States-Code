@@ -1,8 +1,8 @@
 ### §288. Documented vessels
 
-Documented vessels with a coastwise, Great Lakes endorsement, departing from or arriving at a port in one district to or from a port in another district, and also touching at intermediate foreign ports, shall not thereby become liable to the payment of entry and clearance fees, as if from or to foreign ports.
+Documented vessels with a registry endorsement, engaged in foreign trade on the Great Lakes or their tributary or connecting waters in trade with Canada, shall not thereby become liable to the payment of entry and clearance fees.
 
-(R.S. §2793; Sept. 25, 1941, ch. 423, 55 Stat. 733; 1946 Reorg. Plan No. 3, §§101–104, eff. July 16, 1946, 11 F.R. 7875, 60 Stat. 1097; Dec. 8, 1993, Pub. L. 103–182, title VI, §686(a)(1), 107 Stat. 2220.)
+(R.S. §2793; Sept. 25, 1941, ch. 423, 55 Stat. 733; 1946 Reorg. Plan No. 3, §§101–104, eff. July 16, 1946, 11 F.R. 7875, 60 Stat. 1097; Dec. 8, 1993, Pub. L. 103–182, title VI, §686(a)(1), 107 Stat. 2220; Oct. 19, 1996, Pub. L. 104–324, title XI, §1115(b)(4), 110 Stat. 3972.)
 
 #### Codification
 
@@ -13,6 +13,8 @@ Provisions of this section are also set out in section 111 of Title 46, Appendix
 Provision of R.S. §2793 respecting tonnage duties is classified to section 123 of Title 46, Appendix.
 
 #### Amendments
+
+1996—Pub. L. 104–324 substituted “registry endorsement, engaged in foreign trade on the Great Lakes or their tributary or connecting waters in trade with Canada,” for “coastwise, Great Lakes endorsement, departing from or arriving at a port in one district to or from a port in another district, and also touching at intermediate foreign ports,” and struck out “, as if from or to foreign ports” before period at end.
 
 1993—Pub. L. 103–182 substituted “Documented vessels with a coastwise, Great Lakes endorsement,” for “Enrolled or licensed vessels engaged in the foreign and coasting trade on the northern, northeastern, and northwestern frontiers of the United States,” and “foreign ports.” for “foreign ports; but such vessel shall, notwithstanding, be required to enter and clear; except that when such vessels are on such voyages on the Great Lakes and touch at foreign ports for the purpose of taking on bunker fuel only, they may be exempted from entering and clearing under such rules and regulations as the Commissioner of Customs may prescribe, notwithstanding any other provisions of law: <i>Provided</i>, That this exception shall not apply to such vessels if, while at such foreign port, they land or take on board any passengers, or any merchandise other than bunker fuel, receive orders, discharge any seamen by mutual consent, or engage any seamen to replace those discharged by mutual consent, or transact any other business save that of taking on bunker fuel.”
 

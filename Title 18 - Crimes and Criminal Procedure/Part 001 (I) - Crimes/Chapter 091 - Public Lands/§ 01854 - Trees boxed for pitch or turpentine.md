@@ -4,9 +4,9 @@ Whoever cuts, chips, chops, or boxes any tree upon any lands belonging to the Un
 
 Whoever buys, trades for, or in any manner acquires any pitch, turpentine, or other substance, or any article or commodity made from any such pitch, turpentine, or other substance, with knowledge that the same has been so unlawfully obtained—
 
-Shall be fined not more than $1,000 or imprisoned not more than one year, or both.
+Shall be fined under this title or imprisoned not more than one year, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 788.)
+(June 25, 1948, ch. 645, 62 Stat. 788; Oct. 11, 1996, Pub. L. 104–294, title VI, §601(a)(8), 110 Stat. 3498.)
 
 #### Historical and Revision Notes
 
@@ -17,4 +17,8 @@ Reference to persons aiding, encouraging, or causing was deleted as unnecessary 
 Maximum fine was increased from $500 to $1,000 to conform to other comparable sections of this chapter. (See sections 1851 and 1852 of this title.)
 
 Minor changes also were made in phraseology.
+
+#### Amendments
+
+1996—Pub. L. 104–294 substituted “fined under this title” for “fined not more than $1,000” in last par.
 

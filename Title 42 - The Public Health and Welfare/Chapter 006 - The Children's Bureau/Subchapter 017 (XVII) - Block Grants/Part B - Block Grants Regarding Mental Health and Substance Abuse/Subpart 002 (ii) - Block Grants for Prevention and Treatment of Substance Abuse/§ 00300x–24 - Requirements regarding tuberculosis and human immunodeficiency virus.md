@@ -50,7 +50,7 @@
 
 #### (5) Requirement regarding rural areas
 
-&emsp;(A) A funding agreement for a grant under section 300x–21 of this title for a designated State is that, if the State will carry out 2 or more projects under paragraph (1), the State will carry out 1 such project in a rural area of the State, subject to subparagraph (B).
+&emsp;(A) A funding agreement for a grant under section 300x–21 of this title for a designatedState is that, if the State will carry out 2 or more projects under paragraph (1), the State will carry out 1 such project in a rural area of the State, subject to subparagraph (B).
 
 &emsp;(B) The Secretary shall waive the requirement established in subparagraph (A) if the State involved certifies to the Secretary that—
 

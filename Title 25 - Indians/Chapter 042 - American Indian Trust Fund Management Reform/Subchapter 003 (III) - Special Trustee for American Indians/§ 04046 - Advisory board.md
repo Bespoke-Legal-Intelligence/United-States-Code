@@ -22,11 +22,15 @@ The advisory board shall not be subject to the Federal Advisory Committee Act.
 
 #### (d) Termination
 
-The Advisory Board shall terminate upon termination of the Office of Special Trustee.
+The advisory board shall terminate upon termination of the Office of Special Trustee.
 
-(Pub. L. 103–412, title III, §306, Oct. 25, 1994, 108 Stat. 4249.)
+(Pub. L. 103–412, title III, §306, Oct. 25, 1994, 108 Stat. 4249; Pub. L. 104–109, §6(b), Feb. 12, 1996, 110 Stat. 764.)
 
 #### References in Text
 
 The Federal Advisory Committee Act, referred to in subsec. (c), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### Amendments
+
+1996—Subsec. (d). Pub. L. 104–109 substituted “advisory board” for “Advisory Board”.
 

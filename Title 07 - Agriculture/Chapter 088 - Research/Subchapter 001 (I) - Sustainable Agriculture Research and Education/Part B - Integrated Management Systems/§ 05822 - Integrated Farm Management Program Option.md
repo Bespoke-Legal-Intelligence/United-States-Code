@@ -88,7 +88,7 @@ Each plan approved by the Secretary shall—
 
 #### (C) Flexibility
 
-&emsp;&emsp;In administering the program, the Secretary shall provide sufficient flexibility for a producer to adjust or modify the producer's plan consistent with this section, except that such adjustments or modifications must be approved by the Secretary.
+&emsp;&emsp;In administering the program, the Secretary shall provide sufficient flexibility fora producer to adjust or modify the producer's plan consistent with this section, except that such adjustments or modifications must be approved by the Secretary.
 
 #### (D) Minimization of adverse effect
 
@@ -124,7 +124,7 @@ Each plan approved by the Secretary shall—
 
 #### (2) Resource-conserving crops on reduced acreage
 
-&emsp;Notwithstanding the provisions of title I of the Agricultural Act of 1949 \[7 U.S.C. 1441 et seq.\], acreage devoted to resource-conserving crops as part of a resource-conserving crop rotation under this program may also be designated as conservation use acreage for the purpose of fulfilling any provisions under any acreage limitation or land diversion program and up to 50 percent of the acreage so designated shall be without restrictions on haying and grazing, except as provided in paragraph (5)(B), except that such acreagethat is devoted to perennial cover on which cost-share assistance for the establishment of the perennial cover has been provided, shall not be credited towards the producer's resource-conserving crop requirement under a contract under this section.
+&emsp;Notwithstanding the provisions of title I of the Agricultural Act of 1949 \[7 U.S.C. 1441 et seq.\], acreage devoted to resource-conserving crops as part of a resource-conserving crop rotation under this program may also be designated as conservation use acreage for the purpose of fulfilling any provisions under any acreage limitation or land diversion program and up to 50 percent of the acreage so designated shall be without restrictions on haying and grazing, except as provided in paragraph (5)(B), except that such acreage that is devoted to perennial cover on which cost-share assistance for the establishment of the perennial cover has been provided, shall not be credited towards the producer's resource-conserving crop requirement under a contract under this section.
 
 #### (3) Barley, oats, and wheat
 
@@ -142,7 +142,7 @@ Each plan approved by the Secretary shall—
 
 #### (B) Limitation on permitted haying and grazing
 
-&emsp;&emsp;Notwithstanding any other provision of this section, if the Secretary determines that implementation of this section will result in a significant adverse economic impact on hay or livestock prices in a particular geographic area, the Secretary may limit the quantity of hay that can be harvested or grazed from that area. Such limit may include restrictions on the number of times that hay may be harvested or grazed from the acres per year, the timing of such harvesting and grazing, or the number of years that such land may remain in the same hay stand, or a prohibition on the harvesting or grazing of hay from acres on which a small grain was not originally interplanted with the hay crop and harvested for grain.
+&emsp;&emsp;Notwithstanding any other provision of this section, if the Secretary determines that implementation of this section will result in a significant adverse economic impact on hay or livestock prices in a particular geographic area, the Secretary may limit the quantity of hay that can be harvested or grazed from that area. Such limit may include restrictions on the number of times that hay may be harvested or grazed from the acres per year, the timing of such harvesting and grazing, or the number of years that such land may remain in the same hay stand, or a prohibition on the harvesting orgrazing of hay from acres on which a small grain was not originally interplanted with the hay crop and harvested for grain.
 
 #### (6) Base acre adjustments
 
@@ -162,17 +162,17 @@ Each plan approved by the Secretary shall—
 
 #### (ii) Exception
 
-&emsp;&emsp;&emsp;In the case of a producer participating in a particular year in a program authorized under section 101B(c)(1)(D), 103B(c)(1)(D), 105B(c)(1)(E), or 107B(c)(1)(E) of the Agricultural Act of 1949 \[7 U.S.C. 1441–2(c)(1)(D), 1444–2(c)(1)(D), 1444f(c)(1)(E), or 1445b–3a(c)(1)(E)\], the term “traditionally underplanted acreage” means 8 percent of the producer's permitted acreage for such year.
+&emsp;&emsp;&emsp;In the case of a producer participating in a particular year in a program authorized under section 101B(c)(1)(D), 103B(c)(1)(D), 105B(c)(1)(E), or 107B(c)(1)(E) <sup>1</sup> of the Agricultural Act of 1949, the term “traditionally underplanted acreage” means 8 percent of the producer's permitted acreage for such year.
 
 (Pub. L. 101–624, title XIV, §1451, Nov. 28, 1990, 104 Stat. 3607; Pub. L. 101–508, title I, §1204(a), Nov. 5, 1990, 104 Stat. 1388–11; Pub. L. 102–237, title II, §201(a), Dec. 13, 1991, 105 Stat. 1846.)
 
 #### References in Text
 
-The Agricultural Act of 1949, referred to in subsec. (h)(2), (5)(A), (6), (7)(A), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, as amended, which is classified principally to chapter 35A (§1421 et seq.) of this title. Title I of the Agricultural Act of 1949, is classified generally to subchapter II (§1441 et seq.) of chapter 35A of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
+The Agricultural Act of 1949, referred to in subsec. (h)(2), (5)(A), (6), (7)(A), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, as amended, which is classified principally to chapter 35A (§1421 et seq.) of this title. Title I of the Agricultural Act of 1949, is classified generally to subchapter II (§1441 et seq.) of chapter 35A of this title. Sections 101B, 103B, 105B, and 107B of the Act were classified to sections 1441–2, 1444–2, 1444f, and 1445b–3a of this title prior to repeal by Pub. L. 104–127, title I, §171(b)(2)(A)–(D), Apr. 4, 1996, 110 Stat. 938. For complete classification of this Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
 
 This Act, referred to in subsec. (h)(4), is Pub. L. 101–624, Nov. 28, 1990, 104 Stat. 3359, as amended, known as the Food, Agriculture, Conservation, and Trade Act of 1990. For complete classification of this Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
 
-Section 1101 of the Omnibus Budget Reconciliation Act of 1990, referred to in subsec. (h)(7)(B)(i), is section 1101 of Pub. L. 101–508, which amended sections 1441–2, 1444–2, 1444f, and 1445b–3a of this title.
+Section 1101 of the Omnibus Budget Reconciliation Act of 1990, referred to in subsec. (h)(7)(B)(i), is section 1101 of Pub. L. 101–508, which amended former sections 1441–2, 1444–2, 1444f, and 1445b–3a of this title.
 
 #### Codification
 

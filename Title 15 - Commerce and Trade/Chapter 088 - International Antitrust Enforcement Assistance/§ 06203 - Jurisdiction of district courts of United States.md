@@ -12,7 +12,7 @@ On the application of the Attorney General made in accordance with an antitrust 
 
 #### (1) Use of appointee to receive evidence
 
-&emsp;(A) An order issued under subsection (a) of this section may direct that testimony or astatement be given, or a document or other thing be produced, to a person who shall be recommended by the Attorney General and appointed by the court.
+&emsp;(A) An order issued under subsection (a) of this section may direct that testimony or a statement be given, or a document or other thing be produced, to a person who shall be recommended by the Attorney General and appointed by the court.
 
 &emsp;(B) A person appointed under subparagraph (A) shall have power to administer any necessary oath and to take such testimony or such statement.
 

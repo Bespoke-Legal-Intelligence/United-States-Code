@@ -1,12 +1,12 @@
-### §661 . Within special maritime and territorial jurisdiction
+### §661. Within special maritime and territorial jurisdiction
 
 Whoever, within the special maritime and territorial jurisdiction of the United States, takes and carries away, with intent to steal or purloin, any personal property of another shall be punished as follows:
 
-If the property taken is of a value exceeding $100, or is taken from the person of another, by a fine of <sup>1</sup> under this title, or imprisonment for not more than five years, or both; in all other cases, by a fine of <sup>1</sup> under this title or by imprisonment not more than one year, or both.
+If the property taken is of a value exceeding $1,000, or is taken from the person of another, by a fine under this title, or imprisonment for not more than five years, or both; in all other cases, by a fine under this title or by imprisonment not more than one year, or both.
 
 If the property stolen consists of any evidence of debt, or other written instrument, the amount of money due thereon, or secured to be paid thereby and remaining unsatisfied, or which in any contingency might be collected thereon, or the value of the property the title to which is shown thereby, or the sum which might be recovered in the absence thereof, shall be the value of the property stolen.
 
-(June 25, 1948, ch. 645, 62 Stat. 731; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(H), (K), 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 731; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(H), (K), 108 Stat. 2147; Oct. 11, 1996, Pub. L. 104–294, title VI, §§601(a)(3), 606(a), 110 Stat. 3498, 3511.)
 
 #### Historical and Revision Notes
 
@@ -19,6 +19,8 @@ The maximum fine and imprisonment provisions were modified and “five years” 
 Minor changes were made in phraseology.
 
 #### Amendments
+
+1996—Pub. L. 104–294, in second par., substituted “$1,000” for “$100” and substituted “fine under this title” for “fine of under this title” in two places.
 
 1994—Pub. L. 103–322, in second par., substituted “under this title” for “not more than $5,000” after “another, by a fine of” and for “not more than $1,000” after “cases, by a fine of”.
 
@@ -35,6 +37,4 @@ Special maritime and territorial jurisdiction of the United States defined, see 
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 1153, 3050 of this title; title 49 section 46506.
-
-<i><sup>1</sup></i><i> So in original. The word “of” probably should not appear.</i>
 

@@ -16,7 +16,7 @@
 
 (2) The amount of the penalty imposed under paragraph (1) with respect to any article is equal to—
 
-&emsp;(A) if the article is a controlled substance, either $500 or an amount equal to 1,000 percent of the value of the article, whichever amount is greater; and
+&emsp;(A) if the article is a controlled substance, either $500 or an amount equal to 1,000 percentof the value of the article, whichever amount is greater; and
 
 &emsp;(B) if the article is not a controlled substance, the value of the article.
 

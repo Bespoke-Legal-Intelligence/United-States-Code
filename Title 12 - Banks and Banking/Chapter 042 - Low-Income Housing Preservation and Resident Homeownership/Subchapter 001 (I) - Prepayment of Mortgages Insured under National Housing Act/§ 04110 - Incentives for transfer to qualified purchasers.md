@@ -16,11 +16,11 @@ With respect to any eligible low-income housing for which an owner has submitted
 
 #### (3) Information
 
-&emsp;Within 30 days of receipt of an expression of interest by a priority purchaser, the Secretaryshall provide such purchaser with information on the assistance available from the Federal Government to facilitate a transfer and the owner shall provide appropriate information on the housing, as determined by the Secretary.
+&emsp;Within 30 days of receipt of an expression of interest by a priority purchaser, the Secretary shall provide such purchaser with information on the assistance available from the Federal Government to facilitate a transfer and the owner shall provide appropriate information on the housing, as determined by the Secretary.
 
 #### (c) Right of refusal for other qualified purchasers
 
-If no bona fide offer to purchase any eligible low-income housing subject to this section that meets the requirements of subsection (b) of this section is made and accepted during the period under such subsection, during the 3-month period beginning upon the expiration of the 12-month period under subsection (b)(1) of this section, the owner of the housing may offer to sell and may sell the housing only to qualified purchasers. The negotiated sale price may not exceed the preservation value of the housing determined under section 4103(b)(2) of this title. The owner or purchaser shall submit a plan of action under section 4107 of this title for any sale under this subsection, which shall include any request for assistance under this section, upon the acceptance of any bona fide offer meeting the requirements of this paragraph.<sup>1</sup>
+If no bona fide offer to purchase any eligible low-income housing subject to this section that meets the requirements of subsection (b) of this section is made and accepted during the period under such subsection, during the 3-month period beginning upon the expiration of the 12-month period under subsection (b)(1) of this section, the owner of the housing may offer to sell and may sell the housing only to qualified purchasers. The negotiated sale price may not exceed the preservation value of the housing determined under section 4103(b)(2) of this title. The owner or purchaser shall submit a plan of action under section 4107 of this title for any sale underthis subsection, which shall include any request for assistance under this section, upon the acceptance of any bona fide offer meeting the requirements of this paragraph.<sup>1</sup>
 
 #### (d) Assistance
 
@@ -50,7 +50,7 @@ If no bona fide offer to purchase any eligible low-income housing subject to thi
 
 #### (A) In general
 
-&emsp;&emsp;For all qualified purchasers of housing under this subsection, the Secretary may provide assistance for an approved plan of action in the form of 1 or more of the incentives authorized under section 4109(b) of this title, except that the incentive under such section 4109(b)(7) of this title may include an acquisition loan under section 1715z–6(f) of this title.
+&emsp;&emsp;For all qualified purchasers of housing under this subsection, the Secretary may provide assistance for an approved plan of action in the form of 1 or more of the incentives authorized under section 4109(b) of this title, except that the incentive under such section 4109(b)(7) of this title may include an acquisition loan under section 1715z–6(f) <sup>2</sup> of this title.
 
 #### (B) Priority purchasers
 
@@ -61,6 +61,8 @@ If no bona fide offer to purchase any eligible low-income housing subject to thi
 #### References in Text
 
 This title, referred to in subsec. (d)(2)(E), means title II of Pub. L. 100–242, as amended by Pub. L. 101–625, title VI, §601(a), Nov. 28, 1990, 104 Stat. 4249, known as the Low-Income Housing Preservation and Resident Homeownership Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of this title and Tables.
+
+Section 1715z–6(f) of this title, referred to in subsec. (d)(3)(A), was repealed by Pub. L. 104–204, title II, Sept. 26, 1996, 110 Stat. 2885.
 
 #### Amendments
 
@@ -74,11 +76,11 @@ Subsec. (d)(2)(E), (F). Pub. L. 102–550, §307(c), (d), amended subpars. (E) a
 
 “(F) in the case of a priority purchaser, receive an adequate reimbursement for transaction expenses relating to acquisition of the housing, subject to approval by the Secretary; and”.
 
-Subsec. (d)(3)(A). Pub. L. 102–550, §307(e), struck out “any residual receipts for the housing transfered \[sic\]to the selling owner shall be deducted from the sale price of the housing under subsection (b) or (c) of this section and” after “except that”.
+Subsec. (d)(3)(A). Pub. L. 102–550, §307(e), struck out “any residual receipts for the housing transfered \[sic\] to the selling owner shall be deducted from the sale price of the housing under subsection (b) or (c) of this section and” after “except that”.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1715z–6, 4102, 4103, 4104, 4105, 4106, 4107, 4111, 4112, 4114, 4116, 4119, 4142, 4143 of this title.
+This section is referred to in sections 4102, 4103, 4104, 4105, 4106, 4107, 4111, 4112, 4114, 4116, 4119, 4142, 4143 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “subsection.”</i>
 

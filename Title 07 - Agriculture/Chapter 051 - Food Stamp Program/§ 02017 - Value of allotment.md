@@ -2,7 +2,7 @@
 
 #### (a) Calculation
 
-The value of the allotment which State agencies shall be authorized to issue to any households certified as eligible to participate in the food stamp program shall be equal to the cost to such households of the thrifty food plan reduced by an amount equal to 30 per centum of the household's income, as determined in accordance with section 2014(d) and (e) of this title, rounded to the nearest lower whole dollar: <i>Provided,</i> That for households of one and two persons the minimum allotment shall be $10 per month, and shall be adjusted on each October 1 to reflect the percentage change in the cost of the thrifty food plan without regard to the special adjustments under section 2012(<i>o</i>) of this title for the 12-month period ending the preceding June, with the result rounded to the nearest $5.
+The value of the allotment which State agencies shall be authorized to issue to any households certified as eligible to participate in the food stamp program shall be equal to the cost to such households of the thrifty food plan reduced by an amount equal to 30 per centum of the household's income, as determined in accordance with section 2014(d) and (e) of this title, rounded to the nearest lower whole dollar: <i>Provided</i>, That for households of one and two persons the minimum allotment shall be $10 per month.
 
 #### (b) Benefits not deemed income or resources for certain purposes
 
@@ -12,57 +12,65 @@ The value of benefits that may be provided under this chapter, whether through c
 
 (1) The value of the allotment issued to any eligible household for the initial month or other initial period for which an allotment is issued shall have a value which bears the same ratio to the value of the allotment for a full month or other initial period for which the allotment is issued as the number of days (from the date of application) remaining in the month or other initial period for which the allotment is issued bears to the total number of days in the month or other initial period for which the allotment is issued, except that no allotment may be issued to a household for the initial month or period if the value of the allotment which such household would otherwise be eligible to receive under this subsection is less than $10. Households shall receive full months’ allotments for all months within a certification period, except as provided in the first sentence of this paragraph with respect to an initial month.
 
-(2) As used in this subsection, the term “initial month” means (A) the first month for which an allotment is issued to a household, (B) the first month for which an allotment is issued to a household following any period of more than one month in which such household was not participating in the food stamp program under this chapter after the expiration of a certification period or after the termination of the certification of a household, during a certification period, when the household ceased to be eligible after notice and an opportunity for a hearing under section 2020(e)(10) of this title, and (C) in the case of a migrant or seasonal farmworker household, the first month for which allotment is issued to a household that applies following any period of more than 30 days in which such household was not participating in the food stamp program after previous participation in such program.
+(2) As used in this subsection, the term “initial month” means (A) the first month for which an allotment is issued to a household, (B) the first month for which an allotment is issued to a household following any period in which such household was not participating in the food stamp program under this chapter after the expiration of a certification period or after the termination of the certification of a household, during a certification period, when the household ceased to be eligible after notice and an opportunity for a hearing under section 2020(e)(10) of this title, and (C) in the case of a migrant or seasonal farmworker household, the first month for which allotment is issued to a household that applies following any period of more than 30 days in which such household was not participating in the food stamp program after previous participation in such program.
 
-(3) A State agency—
+(3)
 
-&emsp;(A) in the case of a household that is not entitled in the month in which it applies to expedited service under section 2020(e)(9) of this title, may provide that an eligible household applying after the 15th day of the month shall receive, in lieu of its initial allotment and its regular allotment for the following month, an allotment that is the aggregate of the initial allotment and the first regular allotment, which shall be provided in accordance with paragraph (3) of section 2020(e) of this title; and
+Optional combined allotment for expedited households.—A State agency may provide to an eligible household applying after the 15th day of a month, in lieu of the initial allotment of the household and the regular allotmentof the household for the following month, an allotment that is equal to the total amount of the initial allotment and the first regular allotment. The allotment shall be provided in accordance with section 2020(e)(3) of this title in the case of a household that is not entitled to expedited service and in accordance with paragraphs (3) and (9) of section 2020(e) of this title in the case of a household that is entitled to expedited service.
 
-&emsp;(B) in the case of a household that is entitled in the month in which it applies to expedited service under section 2020(e)(9) of this title, shall provide that an eligible household applying after the 15th day of the month shall receive, in lieu of its initial allotment and its regular allotment for the following month, an allotment that is the aggregate of the initial allotment and the first regular allotment, which shall be provided in accordance with paragraphs (3) and (9) of section 2020(e) of this title.
+#### (d) Reduction of public assistance benefits
 
-#### (d) Allotment not to be increased by virtue of penalty
+#### (1) In general
 
-A household against which a penalty has been imposed for an intentional failure to comply with a Federal, State, or local law relating to welfare or a public assistance program may not, for the duration of the penalty, receive an increased allotment as the result of a decrease in the household's income (as determined under sections 2014(d) and 2014(e) of this title) to the extent that the decrease is the result of such penalty.
+&emsp;If the benefits of a household are reduced under a Federal, State, or local law relating to a means-tested public assistance program for the failure of a member of the household to perform an action required under the law or program, for the duration of the reduction—
 
-#### (e) Simplified application procedures for beneficiaries of other programs; allotments; evaluation; cost sharing; standardized procedures and benefits
+&emsp;&emsp;(A) the household may not receive an increased allotment as the result of a decrease in the income of the household to the extent that the decrease is the result of the reduction; and
 
-(1) The Secretary may permit not more than five statewide projects (upon the request of aState) and not more than five projects in political subdivisions of States (upon the request of a State or political subdivision) to operate a program under which a household shall be considered to have satisfied the application requirements prescribed under section 2014(a) of this title and the income and resource requirements prescribed under subsections (d) through (g) of section 2014 of this title if such household—
+&emsp;&emsp;(B) the State agency may reduce the allotment of the household by not more than 25 percent.
 
-&emsp;(A) includes one or more members who are recipients of—
+#### (2) Rules and procedures
 
-&emsp;&emsp;(i) aid to families with dependent children under part A of title IV of the Social Security Act (42 U.S.C. 601 et seq.);
+&emsp;If the allotment of a household is reduced under this subsection for a failure to perform an action required under part A of title IV of the Social Security Act (42 U.S.C. 601 et seq.), the State agency may use the rules and procedures that apply under part A of title IV of the Act to reduce the allotment under the food stamp program.
 
-&emsp;&emsp;(ii) supplemental security income under title XVI of such Act (42 U.S.C. 1381 et seq.); or
+#### (e) Allotments for households residing in centers
 
-&emsp;&emsp;(iii) medical assistance under title XIX of such Act (42 U.S.C. 1396 et seq.); and
+#### (1) In general
 
-&emsp;(B) has an income that does not exceed the applicable income standard of eligibility described in section 2014(c) of this title.
+&emsp;In the case of an individual who resides in a center for the purpose of a drug or alcoholic treatment program described in the last sentence of section 2012(i) of this title, a State agency may provide an allotment for the individual to—
 
-(2) Except as provided in paragraph (3), a State or political subdivision that elects to operate a program under this subsection shall base the value of an allotment provided to a household under subsection (a) of this section on—
+&emsp;&emsp;(A) the center as an authorized representative of the individual for a period that is less than 1 month; and
 
-&emsp;(A)(i) the size of the household; and
+&emsp;&emsp;(B) the individual, if the individual leaves the center.
 
-&emsp;(ii)(I) benefits paid to such household under a State plan for aid to families with dependent children approved under part A of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\]; or
+#### (2) Direct payment
 
-&emsp;(II) the income standard of eligibility for medical assistance under title XIX of such Act \[42 U.S.C. 1396 et seq.\]; or
+&emsp;A State agency may require an individual referred to in paragraph (1) to designate the center in which the individual resides as the authorized representative of the individual for the purpose of receiving an allotment.
 
-&emsp;(B) at the option of the State or political subdivision, the standard of need for such size household under the programs referred to in clause (A)(ii).
-
-(3) The Secretary shall adjust the value of allotments received by households under a program operated under this subsection to ensure that the average allotment by household size for households participating in such program and receiving such aid to families with dependent children, such supplemental security income, or such medical assistance, as the case may be, is not less than the average allotment that would have been provided under this chapter but for the operation of this subsection, for each category of households, respectively, in a State or political subdivision, for any period during which such program is in operation.
-
-(4) The Secretary shall evaluate the impact of programs operated under this subsection on recipient households, administrative costs, and error rates.
-
-(5) The administrative costs of such programs shall be shared in accordance with section 2025 of this title.
-
-(6) In implementing this section, the Secretary shall consult with the Commissioner of Social Security and the Secretary of Health and Human Services to ensure that to the extent practicable, in the case of households participating in such programs, the processing of applications for, and determinations of eligibility to receive, food stamp benefits are simplified and are unified with the processing of applications for, and determinations of eligibility to receive, benefits under such titles of the Social Security Act (42 U.S.C. 601 et seq.).
-
-(Pub. L. 88–525, §8, Aug. 31, 1964, 78 Stat. 705; Pub. L. 95–113, title XIII, §1301, Sept. 29, 1977, 91 Stat. 968; Pub. L. 97–35, title I, §§104(b), 110, Aug. 13, 1981, 95 Stat. 359, 361; Pub. L. 97–253, title I, §§143(c), 152(b), 163, 164, Sept. 8, 1982, 96 Stat. 773, 776, 778; Pub. L. 99–198, title XV, §1520, Dec. 23, 1985, 99 Stat. 1578; Pub. L. 100–387, title V, §502(a), Aug. 11, 1988, 102 Stat. 960; Pub. L. 100–435, title II, §203(a), Sept. 19, 1988, 102 Stat. 1656; Pub. L. 101–624, title XVII, §§1730, 1732, Nov. 28, 1990, 104 Stat. 3790; Pub. L. 102–237, title IX, §§909, 910, Dec. 13, 1991, 105 Stat. 1887; Pub. L. 103–66, title XIII, §13916, Aug. 10, 1993, 107 Stat. 674; Pub. L. 103–296, title I, §108(f)(1), Aug. 15, 1994, 108 Stat. 1486.)
+(Pub. L. 88–525, §8, Aug. 31, 1964, 78 Stat. 705; Pub. L. 95–113, title XIII, §1301, Sept. 29, 1977, 91 Stat. 968; Pub. L. 97–35, title I, §§104(b), 110, Aug. 13, 1981, 95 Stat. 359, 361; Pub. L. 97–253, title I, §§143(c), 152(b), 163, 164, Sept. 8, 1982, 96 Stat. 773, 776, 778; Pub. L. 99–198, title XV, §1520, Dec. 23, 1985, 99 Stat. 1578; Pub. L. 100–387, title V, §502(a), Aug. 11, 1988, 102 Stat. 960; Pub. L. 100–435, title II, §203(a), Sept. 19, 1988, 102 Stat. 1656; Pub. L. 101–624, title XVII, §§1730, 1732, Nov. 28, 1990, 104 Stat. 3790; Pub. L. 102–237, title IX, §§909, 910, Dec. 13, 1991, 105 Stat. 1887; Pub. L. 103–66, title XIII, §13916, Aug. 10, 1993, 107 Stat. 674; Pub. L. 103–296, title I, §108(f)(1), Aug. 15, 1994, 108 Stat. 1486; Pub. L. 104–193, title VIII, §§826–830, 854(c)(1), Aug. 22, 1996, 110 Stat. 2327, 2342.)
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (e)(1)(A), (2)(A)(ii), (6), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part A of title IV of the Social Security Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. Titles XVI and XIX of the Social Security Act are classified generally to subchapters XVI (§1381 et seq.) and XIX (§1396 et seq.) of chapter 7 of Title 42, respectively. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+The Social Security Act, referred to in subsec. (d)(2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part A of title IV of the Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
 #### Amendments
+
+1996—Subsec. (a). Pub. L. 104–193, §826, struck out before period at end “, and shall be adjusted on each October 1 to reflect the percentage change in the cost of the thrifty food plan without regard to the special adjustments under section 2012(<i>o</i>) of this title for the 12-month period ending the preceding June, with the result rounded to the nearest $5”.
+
+Subsec. (c)(2)(B). Pub. L. 104–193, §827, struck out “of more than one month” after “following any period”.
+
+Subsec. (c)(3). Pub. L. 104–193, §828, added par. (3) and struck out former par. (3) which read as follows: “A State agency—
+
+&emsp;“(A) in the case of a household that is not entitled in the month in which it applies to expedited service under section 2020(e)(9) of this title, may provide that an eligible household applying after the 15th day of the month shall receive, in lieu of its initial allotment and its regular allotment for the following month, an allotment that is the aggregate of the initial allotment and the first regular allotment, which shall be provided in accordance with paragraph (3) of section 2020(e) of this title; and
+
+&emsp;“(B) in the case of a household that is entitled in the month in which it applies to expedited service under section 2020(e)(9) of this title, shall provide that an eligible household applying after the 15th day of the month shall receive, in lieu of its initial allotment and its regular allotment for the following month, an allotment that is the aggregate of the initial allotment and the first regular allotment, which shall be provided in accordance with paragraphs (3) and (9) of section 2020(e) of this title.”
+
+Subsec. (d). Pub. L. 104–193, §829, added subsec. (d) and struck out former subsec. (d) which read as follows: “A household against which a penalty has been imposed for an intentional failure to comply with a Federal, State, or local law relating to welfare or a public assistance program may not, for the duration of the penalty, receive an increased allotment as the result of a decrease in the household's income (as determined under sections 2014(d) and 2014(e) of this title) to the extent that the decrease is the result of such penalty.”
+
+Subsec. (e). Pub. L. 104–193, §854(c)(1), redesignated subsec. (f) as (e) and struck out former subsec. (e) which provided for simplified application procedures for beneficiaries of other programs, and for allotments, evaluation, cost sharing, and standardized procedures and benefits.
+
+Subsec. (f). Pub. L. 104–193, §854(c)(1), redesignated subsec. (f) as (e).
+
+Pub. L. 104–193, §830, added subsec. (f).
 
 1994—Subsec. (e)(6). Pub. L. 103–296 inserted “the Commissioner of Social Security and” before “the Secretary of Health and Human Services”.
 
@@ -140,7 +148,7 @@ Section 1301 of Pub. L. 95–113 provided that the amendment made by that sectio
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2016, 2026, 2029 of this title.
+This section is referred to in sections 2016, 2025, 2026, 2029, 2035 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

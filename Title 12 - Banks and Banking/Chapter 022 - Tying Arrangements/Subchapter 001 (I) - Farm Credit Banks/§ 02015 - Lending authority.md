@@ -34,7 +34,7 @@
 
 #### (B) Limitation on national bank
 
-&emsp;&emsp;It shall be unlawful for any national bank which is indebted to any Farm Credit Bank,on paper discounted or purchased under paragraph (1), to incur any additional indebtedness, if by virtue of such additional indebtedness its aggregate liabilities direct or contingent, will exceed the limitation described in subparagraph (A).
+&emsp;&emsp;It shall be unlawful for any national bank which is indebted to any Farm Credit Bank, on paper discounted or purchased under paragraph (1), to incur any additional indebtedness, if by virtue of such additional indebtedness its aggregate liabilities direct or contingent, will exceed the limitation described in subparagraph (A).
 
 #### (4) FCA regulations
 
@@ -66,7 +66,7 @@
 
 &emsp;Nothing in this section shall require termination of discount relationships in existence on December 24, 1980.
 
-(Pub. L. 92–181, title I, §1.7, as added Pub. L. 100–233, title IV, §401, Jan. 6, 1988, 101 Stat. 1625; amended Pub. L. 100–399, title IV, §401(e), (f), Aug. 17, 1988, 102 Stat. 995, 996.)
+(Pub. L. 92–181, title I, §1.7, as added Pub. L. 100–233, title IV, §401, Jan. 6, 1988, 101 Stat. 1625;amended Pub. L. 100–399, title IV, §401(e), (f), Aug. 17, 1988, 102 Stat. 995, 996.)
 
 #### Codification
 

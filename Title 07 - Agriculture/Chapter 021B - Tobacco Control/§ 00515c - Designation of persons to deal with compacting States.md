@@ -1,6 +1,6 @@
 ### §515c. Designation of persons to deal with compacting States
 
-The Secretary shall upon the request of the Commission of any compacting State, designate such tobacco producers or other persons engagedin the tobacco industry and such officials of the United States Department of Agriculture as he deems advisable to meet with the tobacco commissions for the different States for the purpose of advising in connection with the administration of any compact or compacts entered into pursuant to this chapter.
+The Secretary shall upon the request of the Commission of any compacting State, designate such tobacco producers or other persons engaged in the tobacco industry and such officials of the United States Department of Agriculture as he deems advisable to meet with the tobacco commissions for the different States for the purpose of advising in connection with the administration of any compact or compacts entered into pursuant to this chapter.
 
 (Apr. 25, 1936, ch. 249, §4, 49 Stat. 1240.)
 

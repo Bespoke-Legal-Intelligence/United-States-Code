@@ -24,7 +24,9 @@ Acquiring Space.—The Secretary may acquire space under subsection (a)(3) of th
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -52,7 +54,7 @@ In subsection (a)(3), the words “but only if” are substituted for “unless 
 
 In subsection (a)(4), the word “encourage” is substituted for “stimulating” for clarity.
 
-In subsection (b), the words “This chapter does not affect” are substituted for “Nothing in this subsectionshall be construed to invalidate” for clarity and consistency. The words “rail passenger terminal” are substituted for “station”, and the word “law” is substituted for “statute”, for consistency.
+In subsection (b), the words “This chapter does not affect” are substituted for “Nothing in this subsection shall be construed to invalidate” for clarity and consistency. The words “rail passenger terminal” are substituted for “station”, and the word “law” is substituted for “statute”, for consistency.
 
 #### Section Referred to in Other Sections
 

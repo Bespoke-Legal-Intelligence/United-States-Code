@@ -14,7 +14,7 @@
 
 &emsp;(F) action alleged to be in the nature of reprisal or other interference with freedom of action in connection with participation by the member in procedures under this subchapter;
 
-&emsp;(G) alleged denial of an allowance, premium pay, or other financial benefit to which the member claims entitlement under applicable laws or regulations; and
+&emsp;(G) alleged denial of an allowance, premium pay, or other financial benefit to which themember claims entitlement under applicable laws or regulations; and
 
 &emsp;(H) any discrimination prohibited by—
 
@@ -48,7 +48,7 @@
 
 #### Amendments
 
-1994—Subsec. (a)(1). Pub. L. 103–236, §180(a)(10), inserted “(other than a United States citizen employedunder section 3951 of this title who is not a family member)” after “citizen of the United States” in introductory provisions.
+1994—Subsec. (a)(1). Pub. L. 103–236, §180(a)(10), inserted “(other than a United States citizen employed under section 3951 of this title who is not a family member)” after “citizen of the United States” in introductory provisions.
 
 Subsec. (b)(3). Pub. L. 103–236, §181(a)(4), made technical amendment to reference to section 4011 of this title to reflect renumbering of corresponding section of original act.
 

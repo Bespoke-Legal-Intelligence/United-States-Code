@@ -102,7 +102,7 @@ The Secretary may not make payments under section 290cc–21 of this title unles
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (b)(7)(E), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XVI of the Act is classified generally to subchapter XVI (§1381 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+The Social Security Act, referred to in subsec. (b)(7)(E), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, asamended. Title XVI of the Act is classified generally to subchapter XVI (§1381 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
 #### Prior Provisions
 

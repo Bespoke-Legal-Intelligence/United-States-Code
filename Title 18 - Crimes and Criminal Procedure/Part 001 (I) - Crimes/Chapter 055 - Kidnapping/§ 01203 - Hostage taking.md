@@ -1,6 +1,6 @@
 ### §1203. Hostage taking
 
-(a) Except as provided in subsection (b) of this section, whoever, whether inside or outside the United States, seizes or detains and threatens to kill, to injure, or to continue to detain another person in order to compel a third person or a governmental organization to do or abstain from doing any act as an explicit or implicit condition for the release of the person detained, or attempts to do so, shall be punished by imprisonment for any term of years or for life and, if the death of any person results, shall be punished by death or life imprisonment.
+(a) Except as provided in subsection (b) of this section, whoever, whether inside or outside the United States, seizes or detains and threatens to kill, to injure, or to continue to detain another person in order to compel a third person or a governmental organization to do or abstain from doing any act as an explicit or implicit condition for the release of the person detained, or attempts or conspires to do so, shall be punished by imprisonment for any term of years or for life and, if the death of any person results, shall be punished by death or life imprisonment.
 
 (b)(1) It is not an offense under this section if the conduct required for the offense occurred outside the United States unless—
 
@@ -14,9 +14,11 @@
 
 (c) As used in this section, the term “national of the United States” has the meaning given such term in section 101(a)(22) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(22)).
 
-(Added Pub. L. 98–473, title II, §2002(a), Oct. 12, 1984, 98 Stat. 2186; amended Pub. L. 100–690, title VII, §7028, Nov. 18, 1988, 102 Stat. 4397; Pub. L. 103–322, title VI, §60003(a)(10), Sept. 13, 1994, 108 Stat. 1969.)
+(Added Pub. L. 98–473, title II, §2002(a), Oct. 12, 1984, 98 Stat. 2186; amended Pub. L. 100–690, title VII, §7028, Nov. 18, 1988, 102 Stat. 4397; Pub. L. 103–322, title VI, §60003(a)(10), Sept. 13, 1994, 108 Stat. 1969; Pub. L. 104–132, title VII, §723(a)(1), Apr. 24, 1996, 110 Stat. 1300.)
 
 #### Amendments
+
+1996—Subsec. (a). Pub. L. 104–132 inserted “or conspires” after “attempts”.
 
 1994—Subsec. (a). Pub. L. 103–322 inserted before period at end “and, if the death of any person results, shall be punished by death or life imprisonment”.
 
@@ -32,5 +34,5 @@ Section 2003 of part A (§§2001–2003) of chapter XX of title II of Pub. L. 98
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1956, 2333, 2339A, 2516, 3286, 3592 of this title.
+This section is referred to in sections 1956, 2332b, 2333, 2339A, 2516, 3286, 3592 of this title.
 

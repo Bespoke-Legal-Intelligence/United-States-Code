@@ -1,21 +1,16 @@
 ### <b>CHAPTER 151—GENERAL PROVISIONS</b>
 
-#### CHAPTER 151—GENERAL PROVISIONS <sup>1</sup>
-
 | Sec. |  |
 | :--- | ---: |
 | [15101\.](%C2%A7%2015101%20-%20Transportation%20policy.md) | Transportation policy. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |
-| :--- | ---: |
 | [15102\.](%C2%A7%2015102%20-%20Definitions.md) | Definitions. |
 | [15103\.](%C2%A7%2015103%20-%20Remedies%20as%20cumulative.md) | Remedies as cumulative. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<i><sup>1</sup></i><i> So in original. Probably should not appear.</i>
+#### Amendments
+
+1996—Pub. L. 104–287, §5(41), Oct. 11, 1996, 110 Stat. 3392, struck out duplicative chapter heading.
 
 
 ---

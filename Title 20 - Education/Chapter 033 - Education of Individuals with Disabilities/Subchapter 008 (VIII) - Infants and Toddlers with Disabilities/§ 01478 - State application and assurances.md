@@ -36,7 +36,7 @@ Any State desiring to receive a grant under section 1473 of this title shall fil
 
 &emsp;(5) provide satisfactory assurance that Federal funds made available under section 1473 of this title (A) will not be commingled with State funds, and (B) will be so used as to supplement and increase the level of State and local funds expended for infants and toddlers with disabilities and their families and in no case to supplant such State and local funds,
 
-&emsp;(6) provide satisfactory assurance that such fiscal control and fund accounting procedureswill be adopted as may be necessary to assure proper disbursement of, and accounting for, Federal funds paid under section 1473 of this title to the State,
+&emsp;(6) provide satisfactory assurance that such fiscal control and fund accounting procedures will be adopted as may be necessary to assure proper disbursement of, and accounting for, Federal funds paid under section 1473 of this title to the State,
 
 &emsp;(7) beginning in fiscal year 1992, provide satisfactory assurance that policies and practices have been adopted to ensure meaningful involvement of traditionally underserved groups, including minority, low-income, and rural families, in the planning and implementation of all the requirements of this subchapter and to ensure that such families have access to culturally competent services within their local areas, and
 

@@ -2,11 +2,7 @@ Part A—Hospital Insurance Benefits for Aged and Disabled
 
 #### Part Referred to in Other Sections
 
-This part is referred to in sections 254n, 300dd–3, 402, 426, 426–1, 426a, 1320a–3, 1320a–7a, 1320b–1, 1320b–14, 1383c, 1395b–2, 1395i–3, 1395<i>l</i>, 1395m, 1395<i>o</i>, 1395p, 1395q, 1395u, 1395v, 1395x, 1395y, 1395aa, 1395cc, 1395ff, 1395<i>ll</i>, 1395mm,1395pp, 1395rr, 1395ss, 1395vv, 1395ww, 1396a, 1396b, 1396d, 1396n of this title; title 5 sections 8904, 8910; title 10 sections 1086, 1087; title 26 section 6103; title 31 section 3806; title 38 section 1713; title 45 section 231f.
-
-<i><sup>1</sup></i><i> So in original. Probably should be preceded by “to”.</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be paragraph “(2)”.</i>
+This part is referred to in sections 254n, 300dd–3, 300gg, 300gg–41, 402, 426, 426–1, 426a, 1320a–3, 1320a–7a, 1320b–1, 1320d, 1383c, 1395b–2, 1395i–3, 1395<i>l</i>, 1395m, 1395<i>o</i>, 1395p, 1395q, 1395u, 1395v, 1395x, 1395y, 1395aa, 1395cc, 1395ff, 1395<i>ll</i>, 1395mm, 1395pp, 1395rr, 1395ss, 1395vv, 1395ww, 1396a, 1396b, 1396d, 1396n of this title; title 5 sections 8904, 8910; title 10 sections 1086, 1087; title 26 sections 6103, 9801; title 29 section 1181; title 31 section 3806; title 38 section 1713; title 45 section 231f.
 
 
 ---

@@ -34,6 +34,8 @@
 | (a) | In general. |
 | (b) | Section 10402(a) and (b). |
 | (c) | Section 10407. |
+| (d) | Grants for State coalitions. |
+| (e) | Non-supplanting requirement. |
 | [10410\.](%C2%A7%2010410%20-%20Grants%20for%20State%20domestic%20violence%20coalitions.md) | Grants for State domestic violence coalitions. |
 | (a) | In general. |
 | (b) | Eligibility. |

@@ -16,15 +16,17 @@ Certification by Commission.—(1) A manufacturer liable for a civil penalty und
 
 (2) An application under this subsection must be made not later than 30 days after the Secretary decides that the manufacturer has violated section 32911(b) of this title. To the maximum extent practicable, the Commission shall make a decision on an application by the 90th day after the application is filed. A proceeding under this subsection may not delay the manufacturer's liability for the penalty for more than 90 days after the application is filed.
 
-(3) When a civil penalty is collected in a civil action under this chapter before a decision of the Commission under this subsection is final, the payment shall be paid to the court in which the action was brought. The court shall deposit the payment in the general fund of the Treasuryon the 90th day after the decision of the Commission becomes final. When the court is holding payment of a penalty reduced under subsection (a)(3) of this section, the Secretary shall direct the court to remit the appropriate amount of the penalty to the manufacturer.
+(3) When a civil penalty is collected in a civil action under this chapter before a decision of the Commission under this subsection is final, the payment shall be paid to the court in which the action was brought. The court shall deposit the payment in the general fund of the Treasury on the 90th day after the decision of the Commission becomes final. When the court is holding payment of a penalty reduced under subsection (a)(3) of this section, the Secretary shalldirect the court to remit the appropriate amount of the penalty to the manufacturer.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1073; Pub. L. 103–429, §6(41), Oct. 31, 1994, 108 Stat. 4382.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1073; Pub. L. 103–429, §6(41), Oct. 31, 1994, 108 Stat. 4382; Pub. L. 104–287, §6(d)(1)(A), Oct. 11, 1996, 110 Stat. 3399.)
 
 Historical and Revision Notes
 
 Pub. L. 103–272
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -52,9 +54,15 @@ This amends 49:32913(b)(1) to clarify the restatement of 15:2008(b)(4) and (5) b
 
 #### Amendments
 
-1994—Subsec. (b). Pub. L. 103–429, §6(41)(A), substituted “Certification” for “Penalty Reduction” in heading.
+1996—Subsec. (b). Pub. L. 104–287 made technical amendment to directory language of Pub. L. 103–429, §6(41). See 1994 Amendment notes below.
 
-Subsec. (b)(1). Pub. L. 103–429, §6(41)(B), substituted “a reduction in the penalty is necessary” for “the penalty should be reduced”.
+1994—Subsec. (b). Pub. L. 103–429, §6(41)(A), as amended by Pub. L. 104–287, substituted “Certification” for “Penalty Reduction” in heading.
+
+Subsec. (b)(1). Pub. L. 103–429, §6(41)(B), as amended by Pub. L. 104–287, substituted “a reduction in the penalty is necessary” for “the penalty should be reduced”.
+
+#### Effective Date of 1996 Amendment
+
+Section 6(d) of Pub. L. 104–287 provided that the amendment made by that section is effective Oct. 31, 1994.
 
 #### Effective Date of 1994 Amendment
 

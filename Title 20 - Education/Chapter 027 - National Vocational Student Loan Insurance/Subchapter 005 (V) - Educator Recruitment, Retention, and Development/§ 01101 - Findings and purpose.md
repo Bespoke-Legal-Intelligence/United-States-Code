@@ -12,7 +12,7 @@ The Congress finds that—
 
 &emsp;(4) the postsecondary education of education professionals has not been linked to local, State and national goals and standards;
 
-&emsp;(5) the inservice and continuing professional development of educators has not promoted systematic and sustained improvement of the education system;
+&emsp;(5) the inservice and continuing professional development of educators has not promotedsystematic and sustained improvement of the education system;
 
 &emsp;(6) State educational agencies have not been funded and staffed adequately to carry out a mission of supporting a process to achieve local, State, or national goals and standards;
 
@@ -54,7 +54,7 @@ It is the purpose of this subchapter—
 
 A prior section 1101, Pub. L. 89–329, title V, §501, as added Pub. L. 99–498, title V, §501(a), Oct. 17, 1986, 100 Stat. 1495, related to statement of purpose and applicability of this subchapter, prior to the general revision of this subchapter by Pub. L. 102–325.
 
-Another prior section 1101, Pub. L. 89–329, title V, §511, Nov. 8, 1965, 79 Stat. 1255; Pub. L. 90–35, §3(a)(3), (b), June 29, 1967, 81 Stat. 85; Pub. L. 90–575, title II, §231 (a), (b)(1), Oct. 16, 1968, 82 Stat. 1039; Pub. L. 91–230, title VIII, §§804(b), 805(a), Apr. 13, 1970, 84 Stat. 190, 191; Pub. L. 92–318, title I, §141(a)(1)(A), (c)(1)(C), June 23, 1972, 86 Stat. 284, 285; Pub. L. 93–380, title VIII, §835(a)(1), Aug. 21, 1974, 88 Stat. 605; Pub. L. 94–482, title I, §§151(a)(5)(A), 152(a), Oct. 12, 1976, 90 Stat. 2152; Pub. L. 96–49, §6(a), Aug. 13, 1979, 93 Stat. 353; Pub. L. 96–374,title V, §501(a), Oct. 3, 1980, 94 Stat. 1459, set forth statement of purpose and authorization of appropriations for Teacher Corps program, prior to repeal by Pub. L. 97–35, title V, §587(a)(2), Aug. 13, 1981, 95 Stat. 480, eff. Oct. 1, 1982.
+Another prior section 1101, Pub. L. 89–329, title V, §511, Nov. 8, 1965, 79 Stat. 1255; Pub. L. 90–35, §3(a)(3), (b), June 29, 1967, 81 Stat. 85; Pub. L. 90–575, title II, §231 (a), (b)(1), Oct. 16, 1968, 82 Stat. 1039; Pub. L. 91–230, title VIII, §§804(b), 805(a), Apr. 13, 1970, 84 Stat. 190, 191; Pub. L. 92–318, title I, §141(a)(1)(A), (c)(1)(C), June 23, 1972, 86 Stat. 284, 285; Pub. L. 93–380, title VIII, §835(a)(1), Aug. 21, 1974, 88 Stat. 605; Pub. L. 94–482, title I, §§151(a)(5)(A), 152(a), Oct. 12, 1976, 90 Stat. 2152; Pub. L. 96–49, §6(a), Aug. 13, 1979, 93 Stat. 353; Pub. L. 96–374, title V, §501(a), Oct. 3, 1980, 94 Stat. 1459, set forth statement of purpose and authorization of appropriations for Teacher Corps program, prior to repeal by Pub. L. 97–35, title V, §587(a)(2), Aug. 13, 1981, 95 Stat. 480, eff. Oct. 1, 1982.
 
 A prior section 1101a, Pub. L. 89–329, title V, §502, as added Pub. L. 99–498, title V, §501(a), Oct. 17, 1986, 100 Stat. 1496, authorized appropriations for this subchapter, prior to the general revision of this subchapter by Pub. L. 102–325.
 
@@ -90,7 +90,7 @@ Program Authorized.—The Secretary of Education is authorized to contract with 
 
 Application required.—Each entity desiring to enter into a contract with the Secretary of Education for the establishment of a teacher job bank clearinghouse shall submit an application to the Secretary at such time, in such manner and accompanied by such information as the Secretary may reasonably require. Each such application shall include—
 
-&emsp;&emsp;“(A) a demonstration of the applicant's capacity to efficiently and effectively handle a large volume of inquiries from employers and potential employees;
+&emsp;&emsp;“(A) a demonstration of the applicant's capacity to efficiently and effectively handle a large volumeof inquiries from employers and potential employees;
 
 &emsp;&emsp;“(B) a demonstration of support from local educational agencies and private schools and institutions of higher education that are likely to use the services provided by the teacher job bank clearinghouse; and
 

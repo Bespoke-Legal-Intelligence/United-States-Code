@@ -14,11 +14,15 @@ The Secretary shall furnish to the Council an executive secretary and such secre
 
 #### (d) Termination of Council
 
-Unless extended by subsequent Act of Congress, the Council shall terminate on September 30, 1995.
+Unless extended by subsequent Act of Congress, the Council shall terminate on September 30, 2000.
 
-(Pub. L. 96–591, §5, Dec. 24, 1980, 94 Stat. 3434; Pub. L. 97–322, title I, §118(c), Oct. 15, 1982, 96 Stat. 1586; Pub. L. 98–557, §16(b)(2), Oct. 30, 1984, 98 Stat. 2866; Pub. L. 101–225, title I, §105(a)(1), Dec. 12, 1989, 103 Stat. 1909.)
+(Pub. L. 96–591, §5, Dec. 24, 1980, 94 Stat. 3434; Pub. L. 97–322, title I, §118(c), Oct. 15, 1982, 96 Stat. 1586; Pub. L. 98–557, §16(b)(2), Oct. 30, 1984, 98 Stat. 2866; Pub. L. 101–225, title I, §105(a)(1), Dec. 12, 1989, 103 Stat. 1909; Pub. L. 104–324, title III, §304(a), (g), Oct. 19, 1996, 110 Stat. 3917, 3918.)
 
 #### Amendments
+
+1996—Pub. L. 104–324, §304(g), which directed the general amendment of the “section heading for section 5(d) of the Inland Navigational Rules Act of 1980 (33 U.S.C. 2073)”, was executed by inserting section catchline, to reflect the probable intent of Congress.
+
+Par. (d). Pub. L. 104–324, §304(a), substituted “September 30, 2000” for “September 30, 1995”.
 
 1989—Par. (a). Pub. L. 101–225, §105(a)(1)(A), substituted “Navigation Safety Advisory Council” for “Rules of the Road Advisory Council”.
 

@@ -30,7 +30,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 5 U.S.C. 22–3.
 
@@ -64,7 +66,7 @@ Memorandum for the Secretary of Defense
 
 I have reviewed the personnel security requirements of the National Security Agency, the Defense Intelligence Agency, and the Defense Mapping Agency and the termination provisions of 5 U.S.C. Section 7532. I have determined that these Agencies are sensitive agencies and that it is in the best interests of national security that they be designated “agencies” within the meaning of that section.
 
-Therefore, pursuant to the authority set forth in 5 U.S.C. Section 7531(9), I hereby designate the NationalSecurity Agency, the Defense Intelligence Agency, and the Defense Mapping Agency as “agencies” within the meaning of 5 U.S.C. Section 7532.
+Therefore, pursuant to the authority set forth in 5 U.S.C. Section 7531(9), I hereby designate the National Security Agency, the Defense Intelligence Agency, and the Defense Mapping Agency as “agencies” within the meaning of 5 U.S.C. Section 7532.
 
 You are hereby authorized and directed to report these designations to the Committees on Armed Services of the Congress and to publish this memorandum in the Federal Register.
 

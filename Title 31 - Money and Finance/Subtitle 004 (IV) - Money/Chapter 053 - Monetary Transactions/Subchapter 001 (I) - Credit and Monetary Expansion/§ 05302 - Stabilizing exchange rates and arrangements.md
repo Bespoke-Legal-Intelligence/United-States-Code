@@ -152,7 +152,7 @@ Contents of Reports.—Each report described in subsection (a) shall include a d
 
 “(a)
 
-In General.—Notwithstanding any other provision of law, no loan, credit, guarantee, or arrangementfor a swap of currencies to Mexico through the exchange stabilization fund or by the Board of Governors of the Federal Reserve System may be extended or (if already extended) further utilized, unless and until the President submits to the appropriate congressional committees a certification that—
+In General.—Notwithstanding any other provision of law, no loan, credit, guarantee, or arrangement for a swap of currencies to Mexico through the exchange stabilization fund or by the Board of Governors of the Federal Reserve System may be extended or (if already extended) further utilized, unless and until the President submits to the appropriate congressional committees a certification that—
 
 &emsp;“(1) there is no projected cost (as defined in the Credit Reform Act of 1990 \[probably means the Federal Credit Reform Act of 1990, 2 U.S.C. 661 et seq.\]) to the United States from the proposed loan, credit, guarantee, or currency swap;
 

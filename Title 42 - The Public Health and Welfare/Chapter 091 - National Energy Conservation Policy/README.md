@@ -260,7 +260,7 @@
 | [8287\.](Subchapter%20007%20%28VII%29%20-%20Energy%20Savings%20Performance%20Contracts/%C2%A7%2008287%20-%20Authority%20to%20enter%20into%20contracts.md) | Authority to enter into contracts. |
 | (a) | In general. |
 | (b) | Implementation. |
-| (c) | Sunset and reporting requirements. |
+| (c) | Sunset requirements. |
 | [8287a.](Subchapter%20007%20%28VII%29%20-%20Energy%20Savings%20Performance%20Contracts/%C2%A7%2008287a%20-%20Payment%20of%20costs.md) | Payment of costs. |
 | [8287b.](Subchapter%20007%20%28VII%29%20-%20Energy%20Savings%20Performance%20Contracts/%C2%A7%2008287b%20-%20Reports.md) | Reports. |
 | [8287c.](Subchapter%20007%20%28VII%29%20-%20Energy%20Savings%20Performance%20Contracts/%C2%A7%2008287c%20-%20Definitions.md) | Definitions. |

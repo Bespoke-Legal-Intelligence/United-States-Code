@@ -12,7 +12,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 5 U.S.C. 61b (3d–5th sentences).
 
@@ -30,7 +32,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-<b>1978</b>—Subsec. (b). Pub. L. 95–519 substituted “6301(2)(x)–(xiii)” for “6301(2)(x)–(xii)”.
+1978—Subsec. (b). Pub. L. 95–519 substituted “6301(2)(x)–(xiii)” for “6301(2)(x)–(xii)”.
 
 Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission”.
 

@@ -10,15 +10,17 @@ Administration of Fund.—The Secretary of Defense shall administer the Fund con
 
 (c)
 
-Fund Purposes.—(1) Funds in the National Defense Sealift Fund shall be available for obligation and expenditure only for—
+Fund Purposes.—(1) Funds in the National Defense Sealift Fund shall be available for obligation and expenditure only for the following purposes:
 
-&emsp;(A) construction (including design of vessels), purchase, alteration, and conversion of Department of Defense sealift vessels;
+&emsp;(A) Construction (including design of vessels), purchase, alteration, and conversion of Department of Defense sealift vessels.
 
-&emsp;(B) operation, maintenance, and lease or charter of Department of Defense vessels for national defense purposes;
+&emsp;(B) Operation, maintenance, and lease or charter of Department of Defense vessels for national defense purposes.
 
-&emsp;(C) installation and maintenance of defense features for national defense purposes on privately owned and operated vessels that are constructed in the United States and documented under the laws of the United States; and
+&emsp;(C) Installation and maintenance of defense features for national defense purposes on privately owned and operated vessels that are constructed in the United States and documented under the laws of the United States.
 
-&emsp;(D) research and development relating to national defense sealift.
+&emsp;(D) Research and development relating to national defense sealift.
+
+&emsp;(E) Expenses for maintaining the National Defense Reserve Fleet under section 11 of the Merchant Ship Sales Act of 1946 (50 U.S.C. App. 1744), and for the costs of acquisition of vessels for, and alteration and conversion of vessels in (or to be placed in), the fleet, but only for vessels built in United States shipyards.
 
 (2) Funds in the National Defense Sealift Fund may be obligated or expended only in amounts authorized by law.
 
@@ -76,11 +78,11 @@ Budget Requests.—Budget requests submitted to Congress for the National Defens
 
 (i)
 
-Title or Management of Vessels.—Nothing in this section shall be construed to affect or modify title to, management of, or funding responsibilities for, any vessel of the National Defense Reserve Fleet, or assigned to the Ready Reserve Force component of the National Defense Reserve Fleet, as established by section 11 of the Merchant Ship Sales Act of 1946 (50 U.S.C. App. 1744).
+Title or Management of Vessels.—Nothing in this section (other than subsection (c)(1)(E)) shall be construed to affect or modify title to, management of, or funding responsibilities for, any vessel of the National Defense Reserve Fleet, or assigned to the Ready Reserve Force component of the National Defense Reserve Fleet, as established by section 11 of the Merchant Ship Sales Act of 1946 (50 U.S.C. App. 1744).
 
 (j)
 
-Authority for Certain Use of Funds.—Upon a determination by the Secretary of Defense that such action serves the national defense interest and after consultation with the Committees on Armed Services and on Appropriations of the Senate and the House of Representatives, the Secretary may use funds available for obligation or expenditure for a purpose specified under subsection (c)(1)(A), (B), (C), and (D) for any purpose under subsection (c)(1).
+Authority for Certain Use of Funds.—Upon a determination by the Secretary of Defense that such action serves the national defense interest and after consultation with the congressional defense committees, the Secretary may use funds available for obligation or expenditure for a purpose specified under subsection (c)(1)(A), (B), (C), and (D) for any purpose under subsection (c)(1).
 
 (k)
 
@@ -106,7 +108,13 @@ Definitions.—In this section:
 
 &emsp;&emsp;(B) a national defense reserve fleet vessel, including a vessel in the Ready Reserve Force maintained under section 11 of the Merchant Ship Sales Act of 1946 (50 U.S.C. App. 1744).
 
-(Added Pub. L. 102–484, div. A, title X, §1024(a)(1), Oct. 23, 1992, 106 Stat. 2486; amended Pub. L. 102–396, title V, Oct. 6, 1992, 106 Stat. 1896.)
+&emsp;(4) The term “congressional defense committees” means—
+
+&emsp;&emsp;(A) the Committee on Armed Services and the Committee on Appropriations of the Senate; and
+
+&emsp;&emsp;(B) the Committee on National Security and the Committee on Appropriations of the House of Representatives.
+
+(Added Pub. L. 102–484, div. A, title X, §1024(a)(1), Oct. 23, 1992, 106 Stat. 2486; amended Pub. L. 102–396, title V, Oct. 6, 1992, 106 Stat. 1896; Pub. L. 104–106, div. A, title X, §1014(a), title XV, §1502(a)(15), Feb. 10, 1996, 110 Stat. 423, 503.)
 
 #### References in Text
 
@@ -118,9 +126,23 @@ Pub. L. 102–396, title V, Oct. 6, 1992, 106 Stat. 1896, provided that section 
 
 #### Amendments
 
+1996—Subsec. (c)(1). Pub. L. 104–106, §1014(a)(1)(A), substituted “only for the following purposes:” for “only for—”.
+
+Subsec. (c)(1)(A). Pub. L. 104–106, §1014(a)(1)(B), (C), substituted “Construction” for “construction” and “vessels.” for “vessels;”.
+
+Subsec. (c)(1)(B). Pub. L. 104–106, §1014(a)(1)(B), (C), substituted “Operation” for “operation” and “purposes.” for “purposes;”.
+
+Subsec. (c)(1)(C). Pub. L. 104–106, §1014(a)(1)(B), (D), substituted “Installation” for “installation” and “States.” for “States; and”.
+
+Subsec. (c)(1)(D). Pub. L. 104–106, §1014(a)(1)(B), substituted “Research” for “research”.
+
+Subsec. (c)(1)(E). Pub. L. 104–106, §1014(a)(1)(E), added subpar. (E).
+
+Subsec. (i). Pub. L. 104–106, §1014(a)(2), inserted “(other than subsection (c)(1)(E))” after “Nothing in this section”.
+
+Subsec. (j). Pub. L. 104–106, §1502(a)(15)(A), substituted “the congressional defense committees” for “the Committees on Armed Services and on Appropriations of the Senate and the House of Representatives”.
+
+Subsec. (k)(4). Pub. L. 104–106, §1502(a)(15)(B), added par. (4).
+
 1992—Subsec. (c)(2). Pub. L. 102–396 substituted “in amounts authorized by law” for “for programs, projects, and activities and only in amounts authorized in, or otherwise permitted under, an Act other than an appropriations Act”. See Codification note above.
-
-#### Change of Name
-
-Committee on Armed Services of House of Representatives treated as referring to Committee on National Security of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 

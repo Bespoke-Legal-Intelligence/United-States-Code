@@ -26,5 +26,9 @@ Section 419(b) of Pub. L. 98–76 provided that: “The amendments made by this 
 
 Enforcement of legal obligations to provide child support or make alimony payments, see section 659 of Title 42, The Public Health and Welfare.
 
+#### Section Referred to in Other Sections
+
+This section is referred to in title 31 section 3716.
+
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a period.</i>
 

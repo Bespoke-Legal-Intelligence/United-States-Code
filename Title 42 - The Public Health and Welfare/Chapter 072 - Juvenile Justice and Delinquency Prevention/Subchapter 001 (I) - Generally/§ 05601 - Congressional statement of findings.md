@@ -2,7 +2,7 @@
 
 (a) The Congress hereby finds that—
 
-&emsp;(1) juveniles accounted for almost half the arrests for serious crimes in the United States in 1974 and for less than one-third of such arrests in 1983;
+&emsp;(1) juveniles accounted for almost half the arrests for serious crimes in the United Statesin 1974 and for less than one-third of such arrests in 1983;
 
 &emsp;(2) recent trends show an upsurge in arrests of adolescents for murder, assault, and weapon use;
 
@@ -86,7 +86,7 @@ Section 670 of division II (§§610–670) of chapter VI of title II of Pub. L. 
 
 #### Effective Date of 1977 Amendment
 
-Section 263(c) of Pub. L. 93–415, as added by Pub. L. 95–115, §6(d)(2), Oct. 3, 1977, 91 Stat. 1058, which provided that except as otherwise provided by the Juvenile Justice Amendments of 1977 (see Short Title of 1977 Amendments note below), the amendments made by the Juvenile Justice Amendments of 1977 were to take effect on Oct. 1, 1977, was repealed by Pub. L. 100–690, title VII, §7266(2), Nov. 18, 1988, 102 Stat. 4449.
+Section 263(c) of Pub. L. 93–415, as added by Pub. L. 95–115, §6(d)(2), Oct. 3, 1977, 91 Stat. 1058, which providedthat except as otherwise provided by the Juvenile Justice Amendments of 1977 (see Short Title of 1977 Amendments note below), the amendments made by the Juvenile Justice Amendments of 1977 were to take effect on Oct. 1, 1977, was repealed by Pub. L. 100–690, title VII, §7266(2), Nov. 18, 1988, 102 Stat. 4449.
 
 #### Effective Date
 

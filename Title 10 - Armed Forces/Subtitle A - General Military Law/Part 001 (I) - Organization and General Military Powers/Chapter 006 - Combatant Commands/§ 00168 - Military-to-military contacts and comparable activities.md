@@ -54,11 +54,73 @@ Limitations.—(1) Funds may not be provided under this section for a fiscal yea
 
 (f)
 
+Active Duty End Strengths.—(1) A member of a reserve component referred to in paragraph (2) shall not be counted for purposes of the following personnel strength limitations:
+
+&emsp;(A) The end strength for active-duty personnel authorized pursuant to section 115(a)(1) of this title for the fiscal year in which the member carries out the activities referred to in paragraph (2).
+
+&emsp;(B) The authorized daily average for members in pay grades E–8 and E–9 under section 517 of this title for the calendar year in which the member carries out such activities.
+
+&emsp;(C) The authorized strengths for commissioned officers under section 523 of this title for the fiscal year in which the member carries out such activities.
+
+(2) A member of a reserve component referred to in paragraph (1) is any member on active duty under an order to active duty for 180 days or more who is engaged in activities authorized under this section.
+
+(g)
+
 Military-to-Military Contacts Defined.—In this section, the term “military-to-military contacts” means contacts between members of the armed forces and members of foreign armed forces through activities described in subsection (c).
 
-(Added Pub. L. 103–337, div. A, title XIII, §1316(a)(1), Oct. 5, 1994, 108 Stat. 2898.)
+(Added Pub. L. 103–337, div. A, title XIII, §1316(a)(1), Oct. 5, 1994, 108 Stat. 2898; amended Pub. L. 104–106, div. A, title IV, §416, Feb. 10, 1996, 110 Stat. 289.)
 
 #### References in Text
 
 The Foreign Assistance Act of 1961, referred to in subsec. (e)(3), (4), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended. Chapter 5 of part II of the Act is classified generally to part V (§2347 et seq.) of subchapter II of chapter 32 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of Title 22 and Tables.
+
+#### Amendments
+
+1996—Subsecs. (f), (g). Pub. L. 104–106 added subsec. (f) and redesignated former subsec. (f) as (g).
+
+#### Agreements for Exchange of Defense Personnel Between United States and Foreign Countries
+
+Pub. L. 104–201, div. A, title X, §1082, Sept. 23, 1996, 110 Stat. 2672, provided that:
+
+“(a)
+
+Authority To Enter Into International Exchange Agreements.—(1) The Secretary of Defense may enter into international defense personnel exchange agreements.
+
+“(2) For purposes of this section, an international defense personnel exchange agreement is an agreement with the government of an ally of the United States or another friendly foreign country for the exchange of—
+
+&emsp;“(A) military and civilian personnel of the Department of Defense; and
+
+&emsp;“(B) military and civilian personnel of the defense ministry of that foreign government.
+
+“(b)
+
+Assignment of Personnel.—(1) Pursuant to an international defense personnel exchange agreement, personnel of the defense ministry of a foreign government may be assigned to positions in the Department of Defense and personnel of the Department of Defense may be assigned to positions in the defense ministry of such foreign government. Positions to which exchanged personnel are assigned may include positions of instructors.
+
+“(2) An agreement for the exchange of personnel engaged in research and development activities may provide for assignment of Department of Defense personnel to positions in private industry that support the defense ministry of the host foreign government.
+
+“(3) An individual may not be assigned to a position pursuant to an international defense personnel exchange agreement unless the assignment is acceptable to both governments.
+
+“(c)
+
+Reciprocity of Personnel Qualifications Required.—Each government shall be required under an international defense personnel exchange agreement to provide personnel with qualifications, training, and skills that are essentially equal to those of the personnel provided by the other government.
+
+“(d)
+
+Payment of Personnel Costs.—(1) Each government shall pay the salary, per diem, cost of living, travel costs, cost of language or other training, and other costs for its own personnel in accordance with the applicable laws and regulations of such government.
+
+“(2) Paragraph (1) does not apply to the following costs:
+
+&emsp;“(A) The cost of temporary duty directed by the host government.
+
+&emsp;“(B) The cost of training programs conducted to familiarize, orient, or certify exchanged personnel regarding unique aspects of the assignments of the exchanged personnel.
+
+&emsp;“(C) Costs incident to the use of the facilities of the host government in the performance of assigned duties.
+
+“(e)
+
+Prohibited Conditions.—No personnel exchanged pursuant to an agreement under this section may take or be required to take an oath of allegiance to the host country or to hold an official capacity in the government of such country.
+
+“(f)
+
+Relationship to Other Authority.—The requirements in subsections (c) and (d) shall apply in the exercise of any authority of the Secretaries of the military departments to enter into an agreement with the government of a foreign country to provide for the exchange of members of the armed forces and military personnel of the foreign country. The Secretary of Defense may prescribe regulations for the application of such subsections in the exercise of such authority.”
 

@@ -30,7 +30,7 @@ Exceptions.—The amendments made by this subtitle shall not apply to—
 
 &emsp;&emsp;“(A) any generation-skipping transfer under a trust which was irrevocable on September 25, 1985, but only to the extent that such transfer is not made out of corpus added to the trust after September 25, 1985 (or out of income attributable to corpus so added),
 
-&emsp;&emsp;“(B) any generation-skipping transfer under a will or revocable trust executed before the date of the enactment of this Act \[Oct. 22, 1986\] if the decedent dies before January 1, 1987, and
+&emsp;&emsp;“(B) any generation-skipping transfer under a will or revocable trust executed before the date ofthe enactment of this Act \[Oct. 22, 1986\] if the decedent dies before January 1, 1987, and
 
 &emsp;&emsp;“(C) any generation-skipping transfer—
 
@@ -62,7 +62,7 @@ Treatment of transfers in trust.—For purposes of subparagraph (A), a transfer 
 
 Coordination with section 2653(a)
 
-of the 1986 code.—In the case of any transfer which would be ageneration-skipping transfer but for subparagraph (A), the rules of section 2653(a) of the Internal Revenue Code of 1986 shall apply as if such transfer were a generation-skipping transfer.
+of the 1986 code.—In the case of any transfer which would be a generation-skipping transfer but for subparagraph (A), the rules of section 2653(a) of the Internal Revenue Code of 1986 shall apply as if such transfer were a generation-skipping transfer.
 
 &emsp;&emsp;“(D)
 
@@ -128,7 +128,7 @@ In general.—Except as provided in paragraph (2), the amendments made by this s
 
 Exceptions.—The amendments made by this section shall not apply to any generation-skipping transfer—
 
-&emsp;“(A) under a trust which was irrevocable on June 11, 1976, but only to the extent that the transfer is not made out of corpus added to the trust after June 11, 1976, or
+&emsp;“(A) under a trust which was irrevocable on June 11, 1976, but only to the extent that the transfer is notmade out of corpus added to the trust after June 11, 1976, or
 
 &emsp;“(B) in the case of a decedent dying before January 1, 1983, pursuant to a will (or revocable trust) which was in existence on June 11, 1976, and was not amended at any time after that date in any respect which will result in the creation of, or increasing the amount of, any generation-skipping transfer.
 

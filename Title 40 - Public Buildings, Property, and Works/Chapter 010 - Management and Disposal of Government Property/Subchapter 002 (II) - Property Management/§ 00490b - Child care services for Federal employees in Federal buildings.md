@@ -16,7 +16,7 @@ If any individual or entity which provides or proposes to provide child care ser
 
 (2) If there is an agreement for the payment of costs associated with the provision of space allotted under subsection (a) of this section or services provided in connection with such space, nothing in title 31, or any other provision of law, shall be construed to prohibit or restrict payment by reimbursement to the miscellaneous receipts or other appropriate account of the Treasury.
 
-(3) If an agency has a child care facility in its space, or is a sponsoring agency for a child care facility in other Federal or leased space, the agency or the General Services Administration may pay accreditation fees, including renewal fees, for that center to be accredited by a nationally recognized early-childhood professional organization, and travel and per diem expenses for attendance by representatives of the center at the annual General Services Administration child care conference.
+(3) If an agency has a child care facility in its space, or is a sponsoring agency for a child care facility in other Federal or leased space, the agency or the General Services Administration may pay accreditation fees, including renewalfees, for that center to be accredited by a nationally recognized early-childhood professional organization, and travel and per diem expenses for attendance by representatives of the center at the annual General Services Administration child care conference.
 
 (4) For the purpose of this subsection, the term “services” includes the providing of lighting, heating, cooling, electricity, office furniture, office machines and equipment, classroom furnishings and equipment, kitchen appliances, playground equipment, telephone service (including installation of lines and equipment and other expenses associated with telephone services), and security systems (including installation and other expenses associated with security systems), including replacement equipment, as needed.
 
@@ -26,7 +26,7 @@ Through the General Services Administration's licensing agreements, the Administ
 
 #### (d) Consortium with private entities
 
-If a Federal agency has a child care facility in its space, or is a sponsoring agency for a child care facility in other Federal or leased space,the agency or the General Services Administration may enter into a consortium with one or more private entities under which such private entities would assist in defraying the costs associated with the salaries and benefits provided for any personnel providing services at such facility.
+If a Federal agency has a child care facility in its space, or is a sponsoring agency for a child care facility in other Federal or leased space, the agency or the General Services Administration may enter into a consortium with one or more private entities under which such private entities would assist in defraying the costs associated with the salaries and benefits provided for any personnel providing services at such facility.
 
 (Pub. L. 100–202, §101(m) \[title VI, §616\], Dec. 22, 1987, 101 Stat. 1329–390, 1329–423; Pub. L. 102–393, title V, §528, Oct. 6, 1992, 106 Stat. 1760.)
 
@@ -53,4 +53,8 @@ Provisions similar to those in this section were contained in the following appr
 Pub. L. 99–500, §101(m) \[title VI, §616\], Oct. 18, 1986, 100 Stat. 1783–308, 1783–331, and Pub. L. 99–591, §101(m) \[title VI, §616\], Oct. 30, 1986, 100 Stat. 3341–308, 3341–331.
 
 Pub. L. 99–190, §139, Dec. 19, 1985, 99 Stat. 1323.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in title 14 section 515.
 

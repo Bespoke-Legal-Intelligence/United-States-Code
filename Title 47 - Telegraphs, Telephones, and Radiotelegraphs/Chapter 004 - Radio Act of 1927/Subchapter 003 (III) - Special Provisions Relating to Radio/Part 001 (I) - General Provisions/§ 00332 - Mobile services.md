@@ -42,7 +42,7 @@ In taking actions to manage the spectrum to be made available for use by the pri
 
 #### (2) Non-common carrier treatment of private mobile services
 
-&emsp;A person engaged in the provision of a service that is a private mobile service shall not, insofar as such person is so engaged, be treated as a common carrier for any purpose under this chapter. A common carrier (other than a person that was treated as a provider of a private land mobile service prior to August 10,1993) shall not provide any dispatch service on any frequency allocated for common carrier service, except to the extent such dispatch service is provided on stations licensed in the domestic public land mobile radio service before January 1, 1982. The Commission may by regulation terminate, in whole or in part, the prohibition contained in the preceding sentence if the Commission determines that such termination will serve the public interest.
+&emsp;A person engaged in the provision of a service that is a private mobile service shall not, insofar as such person is so engaged, be treated as a common carrier for any purpose under this chapter. A common carrier (other than a person that was treated as a provider of a private land mobile service prior to August 10, 1993) shall not provide any dispatch service on any frequency allocated for common carrier service, except to the extent such dispatch service is provided on stations licensed in the domestic public land mobile radio service before January 1, 1982. The Commission may by regulation terminate, in whole or in part, the prohibition contained in the preceding sentence if the Commission determines that such termination will serve the public interest.
 
 #### (3) State preemption
 
@@ -72,17 +72,53 @@ In taking actions to manage the spectrum to be made available for use by the pri
 
 &emsp;&emsp;(B) Such waiver shall not permit the subsequent transfer of ownership to any other person in violation of section 310(b) of this title.
 
+#### (7) Preservation of local zoning authority
+
+#### (A) General authority
+
+&emsp;&emsp;Except as provided in this paragraph, nothing in this chapter shall limit or affect the authority of a State or local government or instrumentality thereof over decisions regarding the placement, construction, and modification of personal wireless service facilities.
+
+#### (B) Limitations
+
+&emsp;&emsp;(i) The regulation of the placement, construction, and modification of personal wireless service facilities by any State or local government or instrumentality thereof—
+
+&emsp;&emsp;&emsp;(I) shall not unreasonably discriminate among providers of functionally equivalent services; and
+
+&emsp;&emsp;&emsp;(II) shall not prohibit or have the effect of prohibiting the provision of personal wireless services.
+
+&emsp;&emsp;(ii) A State or local government or instrumentality thereof shall act on any request for authorization to place, construct, or modify personal wireless service facilities within a reasonable period of time after the request is duly filed with such government or instrumentality, taking into account the nature and scope of such request.
+
+&emsp;&emsp;(iii) Any decision by a State or local government or instrumentality thereof to deny a request to place, construct, or modify personal wireless service facilities shall be in writing and supported by substantial evidence contained in a written record.
+
+&emsp;&emsp;(iv) No State or local government or instrumentality thereof may regulate the placement, construction, and modification of personal wireless service facilities on the basis of the environmental effects of radio frequency emissions to the extent that such facilities comply with the Commission's regulations concerning such emissions.
+
+&emsp;&emsp;(v) Any person adversely affected by any final action or failure to act by a State or local government or any instrumentality thereof that is inconsistent with this subparagraph may, within 30 days after such action or failure to act, commence an action in any court of competent jurisdiction. The court shall hear and decide such action on an expedited basis. Any person adversely affected by an act or failure to act by a State or local government or any instrumentality thereof that is inconsistent with clause (iv) may petition the Commission for relief.
+
+#### (C) Definitions
+
+&emsp;&emsp;For purposes of this paragraph—
+
+&emsp;&emsp;&emsp;(i) the term “personal wireless services” means commercial mobile services, unlicensed wireless services, and common carrier wireless exchange access services;
+
+&emsp;&emsp;&emsp;(ii) the term “personal wireless service facilities” means facilities for the provision of personal wireless services; and
+
+&emsp;&emsp;&emsp;(iii) the term “unlicensed wireless service” means the offering of telecommunications services using duly authorized devices which do not require individual licenses, but does not mean the provision of direct-to-home satellite services (as defined in section 303(v) of this title).
+
+#### (8) Mobile services access
+
+&emsp;A person engaged in the provision of commercial mobile services, insofar as such person is so engaged, shall not be required to provide equal access to common carriers for the provision of telephone toll services. If the Commission determines that subscribers to such services are denied access to the provider of telephone toll services of the subscribers’ choice, and that such denial is contrary to the public interest, convenience, and necessity, then the Commission shall prescribe regulations to afford subscribers unblocked access to the provider of telephone toll services of the subscribers’ choice through the use of a carrier identification code assigned to such provider or other mechanism. The requirements for unblocking shall not apply to mobile satellite services unless the Commission finds it to be in the public interest to apply such requirements to such services.
+
 #### (d) Definitions
 
 For purposes of this section—
 
-&emsp;(1) the term “commercial mobile service” means any mobile service (as defined in section 153(n) of this title) that is provided for profit and makes interconnected service available (A) to the public or (B) to such classes of eligible users as to be effectively available toa substantial portion of the public, as specified by regulation by the Commission;
+&emsp;(1) the term “commercial mobile service” means any mobile service (as defined in section 153 of this title) that is provided for profit and makes interconnected service available (A) to the public or (B) to such classes of eligible users as to be effectively available to a substantial portion of the public, as specified by regulation by the Commission;
 
 &emsp;(2) the term “interconnected service” means service that is interconnected with the public switched network (as such terms are defined by regulation by the Commission) or service for which a request for interconnection is pending pursuant to subsection (c)(1)(B) of this section; and
 
-&emsp;(3) the term “private mobile service” means any mobile service (as defined in section 153(n) of this title) that is not a commercial mobile service or the functional equivalent of a commercial mobile service, as specified by regulation by the Commission.
+&emsp;(3) the term “private mobile service” means any mobile service (as defined in section 153 of this title) that is not a commercial mobile service or the functional equivalent of a commercial mobile service, as specified by regulation by the Commission.
 
-(June 19, 1934, ch. 652, title III, §332, formerly §331, as added Sept. 13, 1982, Pub. L. 97–259, title I, §120(a), 96 Stat. 1096; renumbered §332, Oct. 5, 1992, Pub. L. 102–385, §25(b), 106 Stat. 1502; amended Aug. 10, 1993, Pub. L. 103–66, title VI, §6002(b)(2)(A), 107 Stat. 392.)
+(June 19, 1934, ch. 652, title III, §332, formerly §331, as added Sept. 13, 1982, Pub. L. 97–259, title I, §120(a), 96 Stat. 1096; renumbered §332, Oct. 5, 1992, Pub. L. 102–385, §25(b), 106 Stat. 1502; amended Aug. 10, 1993, Pub. L. 103–66, title VI, §6002(b)(2)(A), 107 Stat. 392; Feb. 8, 1996, Pub. L. 104–104, §3(d)(2), title VII, §§704(a), 705, 110 Stat. 61, 151, 153.)
 
 #### References in Text
 
@@ -100,7 +136,13 @@ In subsec. (b)(2), “section 1342 of title 31” substituted for “section 367
 
 #### Amendments
 
-1993—Pub. L. 103–66 struck out “Private land” before “mobile services” in section catchline, struck out “land” before “mobile services” wherever appearing in subsecs. (a) and (b), added subsecs. (c) and (d), and struck out former subsec. (c) which related to service provided by specialized mobile radio, multiple licensed radio dispatch systems, and other radio dispatch systems; common carriers; and rate or entry regulations.
+1996—Subsec. (c)(7). Pub. L. 104–104, §704(a), added par. (7).
+
+Subsec. (c)(8). Pub. L. 104–104, §705, added par. (8).
+
+Subsec. (d)(1), (3). Pub. L. 104–104, §3(d)(2), substituted “section 153” for “section 153(n)”.
+
+1993—Pub. L. 103–66 struck out “Private land” before “mobile services” in section catchline, struck out“land” before “mobile services” wherever appearing in subsecs. (a) and (b), added subsecs. (c) and (d), and struck out former subsec. (c) which related to service provided by specialized mobile radio, multiple licensed radio dispatch systems, and other radio dispatch systems; common carriers; and rate or entry regulations.
 
 #### Effective Date of 1993 Amendment
 
@@ -118,6 +160,10 @@ Effective dates of mobile service amendments.—The amendments made by subsectio
 
 &emsp;“(B) any private land mobile service provided by any person before such date of enactment, and any paging service utilizing frequencies allocated as of January 1, 1993, for private land mobile services, shall, except for purposes of section 332(c)(6) of such Act \[subsec. (c)(6) of this section\], be treated as a private mobile service until 3 years after such date of enactment.”
 
+#### Availability of Property
+
+Section 704(c) of Pub. L. 104–104 provided that: “Within 180 days of the enactment of this Act \[Feb. 8, 1996\], the President or his designee shall prescribe procedures by which Federal departments and agencies may make available on a fair, reasonable, and nondiscriminatory basis, property, rights-of-way, and easements under their control for the placement of new telecommunications services that are dependent, in whole or in part, upon the utilization of Federal spectrum rights for the transmission or reception of such services. These procedures may establish a presumption that requests for the use of property, rights-of-way, and easements by duly authorized providers should be granted absent unavoidable direct conflict with the department or agency's mission, or the current or planned use of the property, rights-of-way, and easements in question. Reasonable fees may be charged to providers of such telecommunications services for use of property, rights-of-way, and easements. The Commission shall provide technical support to States to encourage them to make property, rights-of-way, and easements under their jurisdiction available for such purposes.”
+
 #### Transitional Rulemaking for Mobile Service Providers
 
 Section 6002(d)(3) of Pub. L. 103–66 provided that: “Within 1 year after the date of enactment of this Act \[Aug. 10, 1993\], the Federal Communications Commission—
@@ -132,5 +178,5 @@ Section 6002(d)(3) of Pub. L. 103–66 provided that: “Within 1 year after the
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 152, 309, 1001, 1002 of this title.
+This section is referred to in sections 152, 153, 160, 253, 271, 309, 1001, 1002 of this title.
 

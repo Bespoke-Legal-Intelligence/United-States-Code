@@ -6,5 +6,5 @@ The Director of the Administrative Office of the United States Courts, in consul
 
 #### References in Text
 
-Section 3563(a)(4), referred to in text, probably means the par. (4) of section 3563(a) added by section 20414(b)(3) of Pub. L. 103–322.
+Section 3563(a)(4), referred to in text, probably means the par. (4) of section 3563(a) added by section 20414(b)(3) of Pub. L. 103–322, which was renumbered par. (5) by Pub. L. 104–132, title II, §203(1)(C), Apr. 24, 1996, 110 Stat. 1227.
 

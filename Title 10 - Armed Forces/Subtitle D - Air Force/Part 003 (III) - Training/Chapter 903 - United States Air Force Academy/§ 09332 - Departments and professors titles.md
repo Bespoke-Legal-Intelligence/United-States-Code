@@ -1,6 +1,6 @@
 ### §9332. Departments and professors: titles
 
-The Secretary of the Air Force may prescribe the titles of each of the departments of instruction and the professors of the Academy. However, the change of the title of a department orofficer does not affect the status, rank, or eligibility for promotion or retirement of, or otherwise prejudice, a professor at the Academy.
+The Secretary of the Air Force may prescribe the titles of each of the departments of instruction and the professors of the Academy. However, the change of the title of a department or officer does not affect the status, rank, or eligibility for promotion or retirement of, or otherwise prejudice, a professor at the Academy.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 562.)
 

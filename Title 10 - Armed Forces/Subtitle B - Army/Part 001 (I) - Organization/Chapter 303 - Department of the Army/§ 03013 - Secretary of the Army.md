@@ -34,7 +34,7 @@
 
 &emsp;(1) the functioning and efficiency of the Department of the Army;
 
-&emsp;(2) the formulation of policies and programs by the Department of the Army that are fullyconsistent with national security objectives and policies established by the President or the Secretary of Defense;
+&emsp;(2) the formulation of policies and programs by the Department of the Army that are fully consistent with national security objectives and policies established by the President or the Secretary of Defense;
 
 &emsp;(3) the effective and timely implementation of policy, program, and budget decisions and instructions of the President or the Secretary of Defense relating to the functions of the Department of the Army;
 
@@ -42,7 +42,7 @@
 
 &emsp;(5) effective cooperation and coordination between the Department of the Army and the other military departments and agencies of the Department of Defense to provide for more effective, efficient, and economical administration and to eliminate duplication;
 
-&emsp;(6) the presentation and justification of the positions of the Department of the Army on the plans, programs, and policies of the Department of Defense; and
+&emsp;(6) the presentation and justification of the positions of the Department of the Army onthe plans, programs, and policies of the Department of Defense; and
 
 &emsp;(7) the effective supervision and control of the intelligence activities of the Department of the Army.
 
@@ -112,7 +112,7 @@ Report.—Not later than two years after the date of the enactment of this Act \
 
 #### Order of Succession
 
-For order of succession in event of death, disability, or resignation of Secretary of Defense, see Ex. Ord. No. 12787, Dec. 31, 1991, 57 F.R. 517, set out as a note under section 3347 of Title 5, Government Organization and Employees.
+For order of succession in event of death, disability, or resignation of Secretary of Defense, see Ex. Ord. No. 13000, Apr. 24, 1996, 61 F.R. 18483, set out as a note under section 3347 of Title 5, Government Organization and Employees.
 
 For order of succession in event of death, permanent disability, or resignation of Secretary of the Army, see Ex. Ord. No. 12908, Apr. 22, 1994, 59 F.R. 21907, set out as a note under section 3347 of Title 5.
 
@@ -138,5 +138,5 @@ President's appointing power, see Const. Art. II, §2, cl. 2.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 162, 3033 of this title.
+This section is referred to in sections 162, 3033, 10171 of this title.
 

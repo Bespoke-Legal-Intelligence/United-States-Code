@@ -32,7 +32,7 @@ The Secretary is authorized to make grants, loans, or guarantees to States and p
 
 #### (E) Reservation
 
-&emsp;&emsp;Of the amounts made available to carry out this section, the Secretary may reserve not to exceed 1 percent for each fiscal year to make grants to private nonprofit organizations or to enter into contracts with private nonprofit or for profit organizations to provide technical assistance to aid community development corporations in developing or implementing projects funded under this section and to evaluate projects funded under this section.
+&emsp;&emsp;Of the amounts made available to carry out this section, the Secretary may reserve not to exceed 1 percent for each fiscal yearto make grants to private nonprofit organizations or to enter into contracts with private nonprofit or for profit organizations to provide technical assistance to aid community development corporations in developing or implementing projects funded under this section and to evaluate projects funded under this section.
 
 #### (2) Rural community development activities
 
@@ -114,7 +114,7 @@ Subsec. (a)(3). Pub. L. 98–558, §204(a)(2), added par. (3).
 
 #### Change of Name
 
-Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Economic and Educational Opportunities of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Fifth Congress, Jan. 7, 1997.
 
 #### Effective Date of 1994 Amendment
 

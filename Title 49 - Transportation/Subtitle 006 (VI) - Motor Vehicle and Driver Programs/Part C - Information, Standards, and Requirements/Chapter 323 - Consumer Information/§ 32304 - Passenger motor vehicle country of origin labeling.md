@@ -16,7 +16,7 @@ Definitions.—In this section—
 
 &emsp;(B) light duty trucks are different carlines than passenger motor vehicles.
 
-&emsp;(3) “country of origin”, when referring to the origin of an engine or transmission, means the country from which the largest share of the dollar value added to an engine or transmission has originated—
+&emsp;(3) “country of origin”, when referring to the origin of an engine or transmission, means the country from which the largest share ofthe dollar value added to an engine or transmission has originated—
 
 &emsp;&emsp;(A) with the United States and Canada treated as separate countries; and
 
@@ -108,7 +108,9 @@ Historical and Revision Notes
 
 Pub. L. 103–272
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

@@ -22,27 +22,25 @@ The Secretary of Transportation, after consultation with the Administrator, shal
 
 #### (d) “Carrier” and “railroad” defined
 
-The terms “carrier” and “railroad” as used in this section shall have the same meaning as such terms have under section 20102(1) <sup>1</sup> of title 49.
+The terms “carrier” and “railroad” as used in this section shall have the same meaning as the term “railroad carrier” has in section 20102 of title 49.
 
-(Pub. L. 92–574, §17, Oct. 27, 1972, 86 Stat. 1248.)
+(Pub. L. 92–574, §17, Oct. 27, 1972, 86 Stat. 1248; Pub. L. 104–287, §6(i), Oct. 11, 1996, 110 Stat. 3399.)
 
 #### References in Text
 
 The Safety Appliance Acts, referred to in subsec. (b), are acts Mar. 2, 1893, ch. 196, 27 Stat. 531; Mar. 2, 1903, ch. 976, 32 Stat. 943; and Apr. 14, 1910, ch. 160, 36 Stat. 298, which were classified to sections 1 to 16 of Title 45, Railroads, and were repealed and reenacted in sections 20102, 20301 to 20304, 21302, and 21304 of Title 49, Transportation, by Pub. L. 103–272, §§1(e), 7(b), July 5, 1994, 108 Stat. 863, 881, 892, 893, 1379, the first section of which enacted subtitles II, III, and V to X of Title 49. Section 6 of act Apr. 14, 1910, which was classified to section 15 of Title 45, was repealed and reenacted as section 501(b) of Title 49 by Pub. L. 97–449, Jan. 12, 1983, 96 Stat. 2413.
 
-The Department of Transportation Act, referred to in subsec. (b), is Pub. L. 89–670, Oct. 15, 1966, 80 Stat. 931, as amended, which was classified principally to sections 1651 to 1660 of former Title 49, Transportation. The Act was repealed and the provisions thereof reenacted in Title 49, Transportation, by Pub. L. 97–449, Jan. 12, 1983, 96 Stat. 2413, and Pub. L. 103–272, July 5, 1994, 108 Stat. 745. For disposition of sections of former Title 49, see Table at the beginning of Title 49.
-
-Section 20102(1) of title 49, referred to in subsec. (d), was substituted for “the first section of Act of February 17, 1911 (45 U.S.C. 22)” on authority of Pub. L. 103–272, July 5, 1994, 108 Stat. 745, which repealed that section and reenacted the provisions thereof in section 20102(1) of title 49, see Codification note below. Prior to repeal, the first section of Act of February 17, 1911, was amended generally by Pub. L. 100–342, §14(1), June 22, 1988, 102 Stat. 632, and, as so amended, no longer contained a definition of “carrier”.
+The Department of Transportation Act, referred to in subsec. (b), is Pub. L. 89–670, Oct. 15, 1966, 80 Stat. 931, as amended, which was classified principally to sections 1651 to 1660 of former Title 49, Transportation. The Act was repealed and the provisions thereof reenacted in Title 49, Transportation, by Pub. L. 97–449, Jan. 12, 1983, 96 Stat. 2413, and Pub. L. 103–272, July 5, 1994, 108 Stat. 745. The Act was also repealed by Pub. L. 104–287, §7(5), Oct. 11, 1996, 110 Stat. 3400. For disposition of sections of former Title 49, see Table at the beginning of Title 49.
 
 #### Codification
 
 In subsec. (b), “subtitle IV of title 49” substituted for “the Interstate Commerce Act \[49 U.S.C. 1 et seq.\]”, on authority of Pub. L. 95–473, §3(b), Oct. 17, 1978, 92 Stat. 1466, the first section of which enacted subtitle IV of Title 49, Transportation.
 
-In subsec. (d), “section 20102(1) of title 49” substituted for “the first section of Act of February 17, 1911 (45 U.S.C. 22)” on authority of Pub. L. 103–272, §6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
+#### Amendments
+
+1996—Subsec. (d). Pub. L. 104–287 substituted “the term ‘railroad carrier’ has in section 20102 of title 49” for “such terms have under the first section of the Act of February 17, 1911 (45 U.S.C. 22)”.
 
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 4903, 4905, 4909, 4911, 4915 of this title.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

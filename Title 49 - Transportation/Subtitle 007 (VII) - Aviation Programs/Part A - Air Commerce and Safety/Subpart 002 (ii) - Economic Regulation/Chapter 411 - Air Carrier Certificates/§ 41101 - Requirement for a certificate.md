@@ -26,7 +26,9 @@ Proprietary or Exclusive Right Not Conferred.—A certificate issued under this 
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -52,7 +54,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §101(14) (related to certificate
 
 49 App.:1371(d) (4)(A)(i), (ii) (related to joint services).
 
-Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §401(d)(4)(A)(i), (ii) (related to joint services); added Nov. 9, 1977, Pub. L. 95–163, §9, 91 Stat. 1281; restated Oct. 24, 1978, Pub. L. 95–504, §9, 92 Stat. 1713.
+Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §401(d) (4)(A)(i), (ii) (related to joint services); added Nov. 9, 1977, Pub. L. 95–163, §9, 91 Stat. 1281; restated Oct. 24, 1978, Pub. L. 95–504, §9, 92 Stat. 1713.
 
 41101(c)
 

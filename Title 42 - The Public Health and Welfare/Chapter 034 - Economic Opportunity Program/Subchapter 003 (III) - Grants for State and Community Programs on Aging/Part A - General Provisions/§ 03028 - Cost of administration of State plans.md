@@ -2,7 +2,7 @@
 
 #### (a) Activities constituting administration; use of excess funds to supplement cost of administration of area plans; election to pay costs from sums received for administration of area plans
 
-(1) Amounts available to States under subsection (b)(1) of this section may be used to make grants to States for paying such percentages as each State agency determines, but not more than 75 percent, of the cost of the administration of its State plan, including the preparation of the State plan, the evaluation of activities carried out under such plan, the collection of data and the carrying out of analyses related to the need for supportive services, nutrition services, and multipurpose senior centers within the State, and dissemination of information so obtained, the provision of short-term training to personnel of public or nonprofit private agencies and organizations engaged in the operation of programs authorized by this chapter, and the carrying out of demonstration projects of statewide significance relating to the initiation, expansion, or improvement of services assisted under this subchapter.
+(1) Amounts available to States under subsection (b)(1) of this section may be used tomake grants to States for paying such percentages as each State agency determines, but not more than 75 percent, of the cost of the administration of its State plan, including the preparation of the State plan, the evaluation of activities carried out under such plan, the collection of data and the carrying out of analyses related to the need for supportive services, nutrition services, and multipurpose senior centers within the State, and dissemination of information so obtained, the provision of short-term training to personnel of public or nonprofit private agencies and organizations engaged in the operation of programs authorized by this chapter, and the carrying out of demonstration projects of statewide significance relating to the initiation, expansion, or improvement of services assisted under this subchapter.
 
 (2) Any sums available to a State under subsection (b)(1) of this section for part of the cost of the administration of its State plan which the State determines is not needed for such purpose may be used by the State to supplement the amount available under section 3024(d)(1)(A) of this title to cover part of the cost of the administration of area plans.
 
@@ -30,7 +30,7 @@
 
 (B) The Assistant Secretary may approve any application transmitted by a State under subparagraph (A) if the Assistant Secretary determines, based upon a particularized showing of need, that—
 
-&emsp;(i) the State will be unable to fully and effectively administer its State plan and tocarry out programs and projects authorized by this subchapter unless such additional amounts are made available by the Assistant Secretary;
+&emsp;(i) the State will be unable to fully and effectively administer its State plan and to carry out programs and projects authorized by this subchapter unless such additional amounts are made available by the Assistant Secretary;
 
 &emsp;(ii) the State is making full and effective use of its allotment under paragraph (1) and of the personnel of the State agency and area agencies designated under section 3025(a)(2)(A) of this title in the administration of its State plan in accordance with subsection (a) of this section; and
 
@@ -144,7 +144,7 @@ Subsec. (b)(3)(A). Pub. L. 98–459, §308(b)(1), substituted “If the aggregat
 
 Subsec. (b)(4). Pub. L. 98–459, §308(b)(2), (4), (5), redesignated par. (5) as (4), and substituted “unless the Commissioner determines” for “unless he determines”, and struck out former par. (4) which had provided that the number of individuals aged 60 or older in any State and in all States had to be determined by the Commissioner on the basis of the most recent satisfactory data available to him.
 
-Subsec. (b)(5), (6). Pub. L. 98–459, §308(b)(3), (5), redesignated par. (6) as (5), inserted “(A)” after paragraphdesignation and “and except as provided in subparagraph (B)”, and added subpar. (B). Former par. (5) redesignated (4).
+Subsec. (b)(5), (6). Pub. L. 98–459, §308(b)(3), (5), redesignated par. (6) as (5), inserted “(A)” after paragraph designation and “and except as provided in subparagraph (B)”, and added subpar. (B). Former par. (5) redesignated (4).
 
 1981—Subsec. (a)(1). Pub. L. 97–115, §3(d), substituted “supportive services” for “social services”.
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Establishment; Membership.—There is established the Railroad-Shipper Transportation Advisory Council (in this section referred to as the “Council”) to be composed of 19 members, of which 15 members shall be appointed by the Chairman of the Board, after recommendation from rail carriers and shippers, within 60 days after the date of enactment of the ICC Termination Act of 1995. The members of the Council shall be appointed as follows:
+Establishment; Membership.—There is established the Railroad-Shipper Transportation Advisory Council (in this section referred to as the “Council”) to be composed of 19 members, of which 15 members shall be appointed by the Chairman of the Board, after recommendation from rail carriers and shippers, within 60 days after December 29, 1995. The members of the Council shall be appointed as follows:
 
 &emsp;(1) The members of the Council shall be appointed from among citizens of the United States who are not regular full-time employees of the United States and shall be selected for appointment so as to provide as nearly as practicable a broad representation of the various segments of the railroad and rail shipper industries.
 
@@ -76,11 +76,13 @@ Functions and Duties; Annual Report.—(1) The Council shall advise the Secretar
 
 > The Council may prepare other reports or develop policy statements as the Council considers appropriate. An annual report shall be submitted for each fiscal year and shall be submitted to the Secretary and Chairman within 90 days after the end of the fiscal year. Other such reports and statements may be submitted as the Council considers appropriate.
 
-(Added Pub. L. 104–88, title II, §201(a), Dec. 29, 1995, 109 Stat. 937.)
+(Added Pub. L. 104–88, title II, §201(a), Dec. 29, 1995, 109 Stat. 937; amended Pub. L. 104–287, §5(7), Oct. 11, 1996, 110 Stat. 3389.)
 
 #### References in Text
 
-The date of enactment of the ICC Termination Act of 1995, referred to in subsec. (a), is the date of enactment of Pub. L. 104–88, which was approved Dec. 29, 1995.
-
 The Federal Advisory Committee Act, referred to in subsec. (a)(4), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### Amendments
+
+1996—Subsec. (a). Pub. L. 104–287 substituted “December 29, 1995” for “the date of enactment of the ICC Termination Act of 1995” in introductory provisions.
 

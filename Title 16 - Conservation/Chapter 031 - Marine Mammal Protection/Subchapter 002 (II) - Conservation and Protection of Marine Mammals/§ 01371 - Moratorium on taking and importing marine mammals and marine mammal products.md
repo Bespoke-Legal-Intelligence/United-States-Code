@@ -12,7 +12,7 @@ There shall be a moratorium on the taking and importation of marine mammals and 
 
 &emsp;&emsp;(B) in the case of yellowfin tuna harvested with purse seines in the eastern tropical Pacific Ocean, and products therefrom, to be exported to the United States, shall require that the government of the exporting nation provide documentary evidence that—
 
-&emsp;&emsp;&emsp;(i) the government of the harvesting nation has adopted a regulatory programgoverning the incidental taking of marine mammals in the course of such harvesting that is comparable to that of the United States; and
+&emsp;&emsp;&emsp;(i) the government of the harvesting nation has adopted a regulatory program governing the incidental taking of marine mammals in the course of such harvesting that is comparable to that of the United States; and
 
 &emsp;&emsp;&emsp;(ii) the average rate of that incidental taking by the vessels of the harvesting nation is comparable to the average rate of incidental taking of marine mammals by United States vessels in the course of such harvesting,
 
@@ -38,9 +38,9 @@ There shall be a moratorium on the taking and importation of marine mammals and 
 
 > &emsp;For purposes of subparagraph (E), the term “driftnet” has the meaning given such term in section 4003 of the Driftnet Impact Monitoring, Assessment, and Control Act of 1987 (16 U.S.C. 1822 note), except that, until January 1, 1994, the term “driftnet” does not include the use in the northeast Atlantic Ocean of gillnets with a total length not to exceed five kilometers if the use is in accordance with regulations adopted by the European Community pursuant to the October 28, 1991, decision by the Council of Fisheries Ministers of the Community.
 
-&emsp;(3)(A) The Secretary, on the basis of the best scientific evidence available and in consultation with the Marine Mammal Commission, is authorized and directed, from time to time, having due regard to the distribution, abundance, breeding habits, and times and lines of migratory movements of such marine mammals, to determine when, to what extent, if at all, and by what means, it is compatible with this chapter to waive the requirements of this section so as to allow taking, or importing of any marine mammal, or any marine mammal product, and to adopt suitable regulations, issue permits, and make determinations in accordance with sections 1372, 1373, 1374, and 1381 of this title permitting and governing such taking and importing, in accordance with such determinations: <i>Provided, however</i>, That the Secretary, in making such determinations must be assured that the taking of such marine mammal is in accord with sound principles of resource protection and conservation as provided in the purposes and policies of this chapter: <i>Provided, further, however</i>, That nomarine mammal or no marine mammal product may be imported into the United States unless the Secretary certifies that the program for taking marine mammals in the country of origin is consistent with the provisions and policies of this chapter. Products of nations not so certified may not be imported into the United States for any purpose, including processing for exportation.
+&emsp;(3)(A) The Secretary, on the basis of the best scientific evidence available and in consultation with the Marine Mammal Commission, is authorized and directed, from time to time, having due regard to the distribution, abundance, breeding habits, and times and lines of migratory movements of such marine mammals, to determine when, to what extent, if at all, and by what means, it is compatible with this chapter to waive the requirements of this section so as to allow taking, or importing of any marine mammal, or any marine mammal product, and to adopt suitable regulations, issue permits, and make determinations in accordance with sections 1372, 1373, 1374, and 1381 of this title permitting and governing such taking and importing, in accordance with such determinations: <i>Provided, however</i>, That the Secretary, in making such determinations must be assured that the taking of such marine mammal is in accord with sound principles of resource protection and conservation as provided in the purposes and policies of this chapter: <i>Provided, further, however</i>, That no marine mammal or no marine mammal product may be imported into the United States unless the Secretary certifies that the program for taking marine mammals in the country of origin is consistent with the provisions and policies of this chapter. Products of nations not so certified may not be imported into the United States for any purpose, including processing for exportation.
 
-&emsp;(B) Except for scientific research purposes, photography for educational or commercial purposes, or enhancing the survival or recovery of a species or stock as provided for in paragraph (1) of this subsection, or as provided for under paragraph (5) of this subsection, during the moratorium no permit may be issued for the taking of any marine mammal which has been designated by the Secretary as depleted, and no importation may be made of any such mammal.
+&emsp;(B) Except for scientific research purposes, photography for educational or commercial purposes, or enhancing the survival or recovery of a species or stock as provided for inparagraph (1) of this subsection, or as provided for under paragraph (5) of this subsection, during the moratorium no permit may be issued for the taking of any marine mammal which has been designated by the Secretary as depleted, and no importation may be made of any such mammal.
 
 &emsp;(4)(A) Except as provided in subparagraphs (B) and (C), the provisions of this chapter shall not apply to the use of measures—
 
@@ -120,7 +120,7 @@ There shall be a moratorium on the taking and importation of marine mammals and 
 
 &emsp;(6)(A) A marine mammal product may be imported into the United States if the product—
 
-&emsp;&emsp;(i) was legally possessed and exported by any citizen of the United States in conjunction with travel outside the United States, provided that the product is imported into the United States by the same person upon the termination of travel;
+&emsp;&emsp;(i) was legally possessed and exported by any citizen of the United States in conjunction with travel outside the United States, provided that the product is imported intothe United States by the same person upon the termination of travel;
 
 &emsp;&emsp;(ii) was acquired outside of the United States as part of a cultural exchange by an Indian, Aleut, or Eskimo residing in Alaska; or
 
@@ -148,7 +148,7 @@ Except as provided in section 1379 of this title, the provisions of this chapter
 
 It shall not be a violation of this chapter to take a marine mammal if such taking is imminently necessary in self-defense or to save the life of a person in immediate danger, and such taking is reported to the Secretary within 48 hours. The Secretary may seize and dispose of any carcass.
 
-(Pub. L. 92–522, title I, §101, Oct. 21, 1972, 86 Stat. 1029; Pub. L. 93–205, §13(e)(2), Dec. 28, 1973, 87 Stat. 903; Pub. L. 97–58, §2, Oct. 9, 1981, 95 Stat. 979; Pub. L. 98–364, title I, §101, July 17, 1984, 98 Stat. 440; Pub. L. 99–659, title IV, §411(a), Nov. 14, 1986, 100 Stat. 3741; Pub. L. 100–711, §§4(a), 5(c), (e)(1), Nov. 23, 1988, 102 Stat. 4765, 4769, 4771; Pub. L. 101–627, title IX, §901(g), Nov. 28, 1990, 104 Stat. 4467; Pub. L. 102–582, title I, §103, title IV, §401(b), Nov. 2, 1992, 106 Stat. 4903, 4909; Pub. L. 103–238, §4, Apr. 30, 1994, 108 Stat. 532.)
+(Pub. L. 92–522, title I, §101, Oct. 21, 1972, 86 Stat. 1029; Pub. L. 93–205, §13(e)(2), Dec. 28, 1973, 87 Stat. 903; Pub. L. 97–58, §2, Oct. 9, 1981, 95 Stat. 979; Pub. L. 98–364, title I, §101, July 17, 1984, 98 Stat. 440; Pub. L. 99–659, title IV, §411(a), Nov. 14, 1986, 100 Stat. 3741; Pub. L. 100–711, §§4(a), 5(c), (e)(1), Nov. 23, 1988, 102 Stat. 4765, 4769, 4771; Pub. L. 101–627, title IX, §901(g), Nov. 28, 1990, 104 Stat. 4467; Pub. L. 102–582, title I, §103, title IV, §401(b), Nov. 2, 1992, 106 Stat. 4903, 4909; Pub. L. 103–238, §4, Apr. 30, 1994, 108 Stat. 532; Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41.)
 
 #### References in Text
 
@@ -158,9 +158,11 @@ The Endangered Species Act of 1973, referred to in subsec. (a)(4)(B), (5)(E)(i),
 
 The Whaling Convention Act of 1949, referred to in subsec. (a)(5)(A)(i), is act Aug. 9, 1950, ch. 653, 64 Stat. 421, as amended, which is classified generally to subchapter II (§916 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 916 of this title and Tables.
 
-Act of November 7, 1986, referred to in subsec. (a)(5)(E)(vi), is Pub. L. 99–625, Nov. 7, 1986, 100 Stat. 3500, which amended section 718b of this title and provisions listed in a table of National Wildlife Refuges set out under section 668dd of this title and enacted provisions set out as a note under section 1536 of this title. For complete classification of this Act to the Code, see Tables.
+Act of November 7, 1986, referred to in subsec. (a)(5)(E)(vi), is Pub. L. 99–625, Nov. 7, 1986, 100 Stat. 3500, which amended section 718b of this title and provisions listed in a table of National Wildlife Refuges set out under section 668dd of this title and enacted provisionsset out as a note under section 1536 of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
+
+1996—Subsec. (a)(5)(E)(i). Pub. L. 104–208 made technical amendment to reference in original act which appears in text as reference to section 1824(b) of this title.
 
 1994—Subsec. (a)(1). Pub. L. 103–238, §4(a)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Consistent with the provisions of section 1374 of this title, permits may be issued by the Secretary for taking and importation for purposes of scientific research, public display, or enhancing the survival or recovery of a species or stock if—
 
@@ -214,13 +216,13 @@ Subsec. (a)(3)(B). Pub. L. 100–711, §5(e)(1), inserted “or enhancing the su
 
 1986—Subsec. (a)(5)(A). Pub. L. 99–659, §411(a)(1), in provisions preceding cl. (i) struck out “that is not depleted” after “population stock”.
 
-Subsec. (a)(5)(A)(i). Pub. L. 99–659, §411(a)(2), substituted “will not have an unmitigable adverse impact” for “its habitat, and”, and inserted “or, in the case of a cooperative agreement under both this chapter andthe Whaling Convention Act of 1949 (16 U.S.C. 916 et seq.), pursuant to section 1382(c) of this title”.
+Subsec. (a)(5)(A)(i). Pub. L. 99–659, §411(a)(2), substituted “will not have an unmitigable adverse impact” for “its habitat, and”, and inserted “or, in the case of a cooperative agreement under both this chapter and the Whaling Convention Act of 1949 (16 U.S.C. 916 et seq.), pursuant to section 1382(c) of this title”.
 
 Subsec. (a)(5)(A)(ii)(I). Pub. L. 99–659, §411(a)(3), inserted “, and on the availability of such species or stock for subsistence uses”.
 
 1984—Subsec. (a)(2). Pub. L. 98–364 amended last sentence generally, restating existing provisions in cl. (A) and adding cl. (B).
 
-1981—Subsec. (a)(2). Pub. L. 97–58, §2(1)(A), provided that the immediate goal of reducing to insignificant levels approaching a zero mortality and serious injury rate the incidental kill or serious injury of marine mammals permitted in the course of commercial fishing operations be satisfied in the case of purse seine fishing for yellowfin tuna by a continuation of the application of the best marine mammal safety techniques and equipment that are economically and technologically practicable.
+1981—Subsec. (a)(2). Pub. L. 97–58, §2(1)(A), provided that the immediate goal of reducing to insignificantlevels approaching a zero mortality and serious injury rate the incidental kill or serious injury of marine mammals permitted in the course of commercial fishing operations be satisfied in the case of purse seine fishing for yellowfin tuna by a continuation of the application of the best marine mammal safety techniques and equipment that are economically and technologically practicable.
 
 Subsec. (a)(3)(B). Pub. L. 97–58, §2(1)(B), struck out “is classified as belonging to an endangered species or threatened species pursuant to the Endangered Species Act of 1973 or” after “the taking of any marine mammal which”.
 
@@ -229,6 +231,10 @@ Subsec. (a)(4), (5). Pub. L. 97–58, §2(1)(C), added pars. (4) and (5).
 Subsec. (b). Pub. L. 97–58, §2(2), substituted “Except as provided in section 1379 of this title, the provisions of this chapter shall not apply with respect to the taking of any marine mammal by any Indian, Aleut, or Eskimo who resides in Alaska and” for “The provisions of this chapter shall not apply with respect to the taking of any marine mammal by any Indian, Aleut, or Eskimo” in provisions preceding par. (1) and, in par. (1), substituted “is for subsistence purposes; or” for “is for subsistence purposes by Alaskan natives who reside in Alaska, or”.
 
 1973—Subsec. (a)(3)(B). Pub. L. 93–205 substituted “or threatened species pursuant to the Endangered Species Act of 1973” for “pursuant to the Endangered Species Conservation Act of 1969”.
+
+#### Effective Date of 1996 Amendment
+
+Section 101(a) \[title II, §211(b)\] of div. A of Pub. L. 104–208 provided that the amendment made by that section is effective 15 days after Oct. 11, 1996.
 
 #### Effective Date of 1973 Amendment
 

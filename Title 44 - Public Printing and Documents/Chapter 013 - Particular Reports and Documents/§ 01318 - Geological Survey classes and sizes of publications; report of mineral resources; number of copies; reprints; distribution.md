@@ -2,7 +2,7 @@
 
 The publications of the Geological Survey shall consist of the annual report of the Director, which shall be confined to one volume of royal octavo size; monographs, of quarto size; professional papers, of quarto size; bulletins, of ordinary octavo size; watersupply and irrigation papers, of ordinary octavo size; and maps, folios, and atlases required by law.
 
-In addition to the usual number of the report of the Geological Survey, ten thousand copies shall be printed: two thousand for the Senate, four thousand for the House of Representatives, four thousand for distribution by the Geological Survey.
+In addition to the usual number of the report of the Geological Survey, ten thousand copiesshall be printed: two thousand for the Senate, four thousand for the House of Representatives, four thousand for distribution by the Geological Survey.
 
 The reports of the Geological Survey, except the annual report of the Director, shall be published in editions recommended in each case by the Director and approved by the Secretary of the Interior, but not to exceed ten thousand copies.
 

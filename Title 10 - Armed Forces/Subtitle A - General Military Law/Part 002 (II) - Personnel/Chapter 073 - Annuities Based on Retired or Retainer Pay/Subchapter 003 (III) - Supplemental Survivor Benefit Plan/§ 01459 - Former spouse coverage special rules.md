@@ -12,7 +12,7 @@ Enforcement of Voluntary Written Agreements Incident to Divorce, Etc.—
 
 Elections deemed to have been made.—If a person who is eligible to elect under section 1458 of this title to provide a supplemental spouse annuity for a former spouse voluntarily enters, incident to a proceeding of divorce, dissolution, or annulment, into a written agreement to elect to provide a supplemental annuity for a former spouse and that agreement is incorporated in or ratified or approved by a court order or is filed with the court of appropriate jurisdiction in accordance with applicable State law, and such person then fails or refuses to make the election as set forth in the voluntary agreement, such person shall be deemed to have made the election if the Secretary concerned—
 
-&emsp;&emsp;(A) receives from the former spouse concerned a written request, in such manner as the Secretary shall prescribe, requesting that the election be deemed to have been made; and
+&emsp;&emsp;(A) receives from the former spouse concerned a written request, in such manner asthe Secretary shall prescribe, requesting that the election be deemed to have been made; and
 
 &emsp;&emsp;(B) receives (i) a copy of the court order, regular on its face, which incorporates, ratifies, or approves the written agreement of such person, or (ii) a statement from the clerk of the court (or other appropriate official) that such agreement has been filed with the court in accordance with applicable State law.
 

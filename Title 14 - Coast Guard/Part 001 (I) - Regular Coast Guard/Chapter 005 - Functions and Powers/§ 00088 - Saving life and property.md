@@ -10,7 +10,7 @@
 
 &emsp;(4) destroy or tow into port sunken or floating dangers to navigation.
 
-(b)(1) Subject to paragraph (2), the Coast Guard may render aid to persons and protectand save property at any time and at any place at which Coast Guard facilities and personnel are available and can be effectively utilized.
+(b)(1) Subject to paragraph (2), the Coast Guard may render aid to persons and protect and save property at any time and at any place at which Coast Guard facilities and personnel are available and can be effectively utilized.
 
 (2) The Commandant shall make full use of all available and qualified resources, including the Coast Guard Auxiliary and individuals licensed by the Secretary pursuant to section 8904(b) of title 46, United States Code, in rendering aid under this subsection in nonemergency cases.
 
@@ -22,7 +22,9 @@
 
 &emsp;(3) liable for all costs the Coast Guard incurs as a result of the individual's action.
 
-(Aug. 4, 1949, ch. 393, 63 Stat. 501; June 12, 1970, Pub. L. 91–278, §1(3), 84 Stat. 304; Sept. 28, 1988, Pub. L. 100–448, §30(a), 102 Stat. 1849; Nov. 16, 1990, Pub. L. 101–595, title IV, §401, 104 Stat. 2989.)
+(d) The Secretary shall establish a helicopter rescue swimming program for the purpose of training selected Coast Guard personnel in rescue swimming skills, which may include rescue diver training.
+
+(Aug. 4, 1949, ch. 393, 63 Stat. 501; June 12, 1970, Pub. L. 91–278, §1(3), 84 Stat. 304; Sept. 28, 1988, Pub. L. 100–448, §30(a), 102 Stat. 1849; Nov. 16, 1990, Pub. L. 101–595, title IV, §401, 104 Stat. 2989; Oct. 19, 1996, Pub. L. 104–324, title II, §213(a), 110 Stat. 3915.)
 
 #### Historical and Revision Notes
 
@@ -32,6 +34,8 @@ This section broadens existing law in that it authorizes the Coast Guard to enga
 
 #### Amendments
 
+1996—Subsec. (d). Pub. L. 104–324 added subsec. (d).
+
 1990—Subsec. (c). Pub. L. 101–595 added subsec. (c).
 
 1988—Subsec. (b). Pub. L. 100–448 designated existing provisions as par. (1), substituted “Subject to paragraph (2), the Coast Guard” for “The Coast Guard”, and added par. (2).
@@ -40,7 +44,7 @@ This section broadens existing law in that it authorizes the Coast Guard to enga
 
 #### Helicopter Rescue Swimming Program
 
-Pub. L. 98–557, §9, Oct. 30, 1984, 98 Stat. 2862, provided that: “The Secretary of the department in which the Coast Guard is operating shall use such sums as are necessary, from amounts appropriated for the operation and maintenance of the Coast Guard, to establish a helicopter rescue swimming program for the purpose of training selected Coast Guard personnel in rescue swimming skills.”
+Pub. L. 98–557, §9, Oct. 30, 1984, 98 Stat. 2862, required Secretary of department in which Coast Guard was operating to use such sums as necessary, from amounts appropriated for operation and maintenance of Coast Guard, to establish helicopter rescue swimming program for purpose of training selected Coast Guard personnel in rescue swimming skills, prior to repeal by Pub. L. 104–324, title II, §213(b), Oct. 19, 1996, 110 Stat. 3915.
 
 #### Coast Guard Policies and Procedures for Towing and Salvage of Disabled Vessels for Minimization of Coast Guard Competition or Interference with Commercial Enterprise
 

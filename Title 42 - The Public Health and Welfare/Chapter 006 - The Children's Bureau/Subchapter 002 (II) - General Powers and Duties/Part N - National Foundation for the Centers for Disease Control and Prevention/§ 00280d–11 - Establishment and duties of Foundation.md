@@ -158,7 +158,7 @@ In carrying out subsection (e)(2) of this section, the Director shall carry out 
 
 &emsp;&emsp;(A) provide for biennial audits of the financial condition of the Foundation; and
 
-&emsp;&emsp;(B) make such audits, and all other records, documents, and other papers of the Foundation, available to the Secretary and the Comptroller General of the United States for examination or audit.
+&emsp;&emsp;(B) make such audits, and all other records, documents, and other papers of theFoundation, available to the Secretary and the Comptroller General of the United States for examination or audit.
 
 #### (7) Reports
 

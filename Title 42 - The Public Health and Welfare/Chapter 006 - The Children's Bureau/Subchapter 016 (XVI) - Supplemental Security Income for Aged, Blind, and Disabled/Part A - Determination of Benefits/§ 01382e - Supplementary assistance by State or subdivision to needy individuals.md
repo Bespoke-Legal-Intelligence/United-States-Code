@@ -116,7 +116,7 @@ Section 8(c) of Pub. L. 93–233, as amended by Pub. L. 95–113, title XIII, §
 
 \[Section 1302(b) of Pub. L. 95–113 provided that the amendment of section 8(c) of Pub. L. 93–233 by section 1302(a)(3) of Pub. L. 95–113 is effective Oct. 1, 1977.\]
 
-Section 8(d) of Pub. L. 93–233, as added by Pub. L. 94–379, §1(a), Aug. 10, 1976, 90 Stat. 1111, and amended by Pub. L. 95–458, §5(a), Oct. 14, 1978, 92 Stat. 1260; Pub. L. 97–18, §2, June 30, 1981, 95 Stat. 102; Pub. L. 97–35, title XXIII, §2342(a), Aug. 13, 1981, 95 Stat. 866, provided that: “Upon the request of a State, the Secretary shall find,for purposes of the provisions specified in subsection (c) \[set out above\], that the level of such State's supplementary payments of the type described in section 1616(a) of the Social Security Act \[subsec. (a) of this section\] has been specifically increased for any month so as to include the bonus value of food stamps (and that such State meets the applicable requirements of subsection (c)(1)) if—
+Section 8(d) of Pub. L. 93–233, as added by Pub. L. 94–379, §1(a), Aug. 10, 1976, 90 Stat. 1111, and amended by Pub. L. 95–458, §5(a), Oct. 14, 1978, 92 Stat. 1260; Pub. L. 97–18, §2, June 30, 1981, 95 Stat. 102; Pub. L. 97–35, title XXIII, §2342(a), Aug. 13, 1981, 95 Stat. 866, provided that: “Upon the request of a State, the Secretary shall find, for purposes of the provisions specified in subsection (c) \[set out above\], that the level of such State's supplementary payments of the type described in section 1616(a) of the Social Security Act \[subsec. (a) of this section\] has been specifically increased for any month so as to include the bonus value of food stamps (and that such State meets the applicable requirements of subsection (c)(1)) if—
 
 &emsp;“(1) the Secretary has found (under this subsection or subsection (c), as in effect in December 1980) that such State's supplementary payments in December 1980 were increased to include the bonus value of food stamps; and
 
@@ -124,7 +124,7 @@ Section 8(d) of Pub. L. 93–233, as added by Pub. L. 94–379, §1(a), Aug. 10,
 
 \[Section 2 of Pub. L. 97–18 provided that the amendment of section 8(d) of Pub. L. 93–233, set out above, by Pub. L. 97–18 is effective for the period July 1, 1981, to Aug. 31, 1981.\]
 
-\[Section 2342(b) of Pub. L. 97–35 provided that the amendment of section 8(d) of Pub. L. 93–233, set out above, by section 2342(a) of Pub. L. 97–35 is effective July 1, 1981.\]
+\[Section 2342(b) of Pub. L. 97–35 provided that the amendment of section 8(d) of Pub. L. 93–233, set outabove, by section 2342(a) of Pub. L. 97–35 is effective July 1, 1981.\]
 
 #### Adjusted Payment Level; Payment Level Modification
 
@@ -166,7 +166,7 @@ Section 401 of Pub. L. 92–603, as amended by Pub. L. 93–233, §18(h), Dec. 3
 
 > and shall not apply with respect to supplementary payments to any individual who (i) is not required by section 1616 of such Act \[this section\] to be included in any such agreement administered by the Secretary and (ii) would have been ineligible (for reasons other than income) for payments under the appropriate approved State plan as in effect for January 1972. In determining the difference between the level specified in subparagraph (A) and the benefits and income described in subparagraph (B) there shall be excluded any part of any such benefit which results from (and would not be payable but for) any cost-of-living increase in such benefits under section 1617 of such Act \[section 1382f of this title\] (or any general increase enacted by law in the dollar amounts referred to in such section) becoming effective after June 30, 1977.
 
-“(b)(1) For purposes of subsection (a), the term ‘adjusted payment level under the appropriate approved plan of a State as in effect for January 1972’ means the amount of the money payment which an individual with no other income would have received under the plan of such State approved under title I, X, XIV, or XVI of the Social Security Act \[subchapters I, X, XIV, or XVI of this chapter\], as may be appropriate, and ineffect for January 1972; except that the State may, at its option, increase such payment level with respect to any such plan by an amount which does not exceed the sum of—
+“(b)(1) For purposes of subsection (a), the term ‘adjusted payment level under the appropriate approved plan of a State as in effect for January 1972’ means the amount of the money payment which an individual with no other income would have received under the plan of such State approved under title I, X, XIV, or XVI of the Social Security Act \[subchapters I, X, XIV, or XVI of this chapter\], as may be appropriate, and in effect for January 1972; except that the State may, at its option, increase such payment level with respect to any such plan by an amount which does not exceed the sum of—
 
 &emsp;“(A) a payment level modification (as defined in paragraph (2) of this subsection) with respect to such plan, and
 
@@ -212,5 +212,5 @@ Pub. L. 87–543, §141(f), July 25, 1962, 76 Stat. 205, provided that: “In th
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 402, 426, 1310, 1320a–6, 1382, 1382d, 1382g, 1382i, 1383, 1383c, 1396a, 1396d, 3002 of this title; title 7 sections 2012, 2015; title 12 section 1715w; title 26 sections 51, 6103.
+This section is referred to in sections 402, 426, 1310, 1320a–6, 1382d, 1382g, 1382i, 1383, 1383c, 1396a, 1396d, 3002 of this title; title 7 sections 2012, 2015; title 8 section 1612; title 12 section 1715w; title 26 section 6103.
 

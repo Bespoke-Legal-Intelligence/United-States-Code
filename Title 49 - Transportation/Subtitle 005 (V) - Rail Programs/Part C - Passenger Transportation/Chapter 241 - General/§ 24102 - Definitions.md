@@ -10,7 +10,7 @@ In this part—
 
 &emsp;(2) “avoidable loss” means the avoidable costs of providing rail passenger transportation, less revenue attributable to the transportation, as determined by the Interstate Commerce Commission under section 553 of title 5.
 
-&emsp;(3) “basic system” means the system of intercity rail passenger transportation designated by the Secretary of Transportation under section 4 of the Amtrak Improvement Act of 1978 and approved by Congress, and transportation required to be provided under section 24705(a) of this title and section 4(g) of the Act, including changes in the system ortransportation that Amtrak makes using the route and service criteria.
+&emsp;(3) “basic system” means the system of intercity rail passenger transportation designated by the Secretary of Transportation under section 4 of the Amtrak Improvement Act of 1978 and approved by Congress, and transportation required to be provided under section 24705(a) of this title and section 4(g) of the Act, including changes in the system or transportation that Amtrak makes using the route and service criteria.
 
 &emsp;(4) “commuter authority” means a State, local, or regional entity established to provide, or make a contract providing for, commuter rail passenger transportation.
 
@@ -32,7 +32,9 @@ In this part—
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

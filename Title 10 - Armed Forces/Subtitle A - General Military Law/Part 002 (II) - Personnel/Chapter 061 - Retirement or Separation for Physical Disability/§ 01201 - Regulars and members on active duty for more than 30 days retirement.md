@@ -1,6 +1,12 @@
 ### §1201. Regulars and members on active duty for more than 30 days: retirement
 
-Upon a determination by the Secretary concerned that a member of a regular component of the armed forces entitled to basic pay, or any other member of the armed forces entitled to basic pay who has been called or ordered to active duty (other than for training under section 10148(a) of this title) for a period of more than 30 days, is unfit to perform the duties of his office, grade, rank, or rating because of physical disability incurred while entitled to basic pay, the Secretary may retire the member, with retired pay computed under section 1401 of this title, if the Secretary also determines that—
+(a)
+
+Retirement.—Upon a determination by the Secretary concerned that a member described in subsection (c) is unfit to perform the duties of the member's office, grade, rank, or rating because of physical disability incurred while entitled to basic pay or while absent as described in subsection (c)(3), the Secretary may retire the member, with retired pay computed under section 1401 of this title, if the Secretary also makes the determinations with respect to the member and that disability specified in subsection (b).
+
+(b)
+
+Required Determinations of Disability.—Determinations referred to in subsection (a) are determinations by the Secretary that—
 
 &emsp;(1) based upon accepted medical principles, the disability is of a permanent nature and stable;
 
@@ -20,7 +26,17 @@ Upon a determination by the Secretary concerned that a member of a regular compo
 
 &emsp;&emsp;&emsp;(iv) the disability was incurred in line of duty after September 14, 1978.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 91; Sept. 2, 1958, Pub. L. 85–861, §1(28)(A), 72 Stat. 1451; Sept. 7, 1962, Pub. L. 87–651, title I, §107(a), 76 Stat. 508; Sept. 19, 1978, Pub. L. 95–377, §3(1), 92 Stat. 719; Sept. 8, 1980, Pub. L. 96–343, §10(c)(1), 94 Stat. 1129; Dec. 12, 1980, Pub. L. 96–513, title I, §117, 94 Stat. 2878; Nov. 8, 1985, Pub. L. 99–145, title V, §513(a)(1)(A), 99 Stat. 627; Nov. 29, 1989, Pub. L. 101–189, div. A, title XVI, §1621(a)(1), 103 Stat. 1602; Oct. 5, 1994, Pub. L. 103–337, div. A, title XVI, §1671(c)(6), 108 Stat. 3014.)
+(c)
+
+Eligible Members.—This section and sections 1202 and 1203 of this title apply to the following members:
+
+&emsp;(1) A member of a regular component of the armed forces entitled to basic pay.
+
+&emsp;(2) Any other member of the armed forces entitled to basic pay who has been called or ordered to active duty (other than for training under section 10148(a) of this title) for a period of more than 30 days.
+
+&emsp;(3) Any other member of the armed forces who is on active duty but is not entitled to basic pay by reason of section 502(b) of title 37 due to authorized absence (A) to participate in an educational program, or (B) for an emergency purpose, as determined by the Secretary concerned.
+
+(Aug. 10, 1956, ch. 1041, 70A Stat. 91; Sept. 2, 1958, Pub. L. 85–861, §1(28)(A), 72 Stat. 1451; Sept. 7, 1962, Pub. L. 87–651, title I, §107(a), 76 Stat. 508; Sept. 19, 1978, Pub. L. 95–377, §3(1), 92 Stat. 719; Sept. 8, 1980, Pub. L. 96–343, §10(c)(1), 94 Stat. 1129; Dec. 12, 1980, Pub. L. 96–513, title I, §117, 94 Stat. 2878; Nov. 8, 1985, Pub. L. 99–145, title V, §513(a)(1)(A), 99 Stat. 627; Nov. 29, 1989, Pub. L. 101–189, div. A, title XVI, §1621(a)(1), 103 Stat. 1602; Oct. 5, 1994, Pub. L. 103–337, div. A, title XVI, §1671(c)(6), 108 Stat. 3014; Sept. 23, 1996, Pub. L. 104–201, div. A, title V, §572(a), 110 Stat. 2533.)
 
 Historical and Revision Notes<br>1956
 
@@ -42,7 +58,7 @@ Act
 
 Oct. 12, 1949, ch. 681, §402(a) (less clause (5), and less 2d proviso), (b) (less clause (5), and less 2d and last provisos), (f) (less applicability to §402(c) and (e)), 63 Stat. 816, 817, 820.
 
-The words “any other member” are substituted for the words “a member of a Reserve component”, in 37:272(a) and (b), since the words “Reserve component” are defined by section 102(k) of the Career Compensation Act of 1949, 63 Stat. 805 (37 U.S.C. 231(k)), to include members appointed, enlisted, or inducted without component. The words “active duty (other than for training)” are substituted for the words “extended active duty” for clarity and to reflect the opinion of the Comptroller General in 31 Comp. Gen. 95, 99. The words “if the Secretary also determines that” are substituted for the words “That if condition (5) above is met by a finding that”, in 37:272(a) and (b). The words “of such member”, “upon retirement”, and “to receive”, in 37:272(a), are omitted as surplusage.
+The words “any other member” are substituted for the words “a member of a Reserve component”, in 37:272(a) and (b), since the words “Reserve component” are defined by section 102(k) of the Career Compensation Act of 1949, 63 Stat. 805 (37 U.S.C. 231(k)), to include members appointed, enlisted, or inducted without component. The words “active duty (other than for training)” are substituted for the words “extended active duty” for clarity and to reflect the opinion of the Comptroller General in 31 Comp. Gen. 95, 99. The words“if the Secretary also determines that” are substituted for the words “That if condition (5) above is met by a finding that”, in 37:272(a) and (b). The words “of such member”, “upon retirement”, and “to receive”, in 37:272(a), are omitted as surplusage.
 
 In clause (1), the words “based upon accepted medical principles” are inserted as a necessary implication of the rule stated in 37:272(a)(5) and (b)(5).
 
@@ -76,6 +92,8 @@ The changes correct typographical errors.
 
 #### Amendments
 
+1996—Pub. L. 104–201 added subsecs. (a) and (c), designated existing provisions as subsec. (b), and substituted introductory provisions of subsec. (b) for “Upon a determination by the Secretary concerned that a member of a regular component of the armed forces entitled to basic pay, or any other member of the armed forces entitled to basic pay who has been called or ordered to active duty (other than for training under section 10148(a) of this title) for a period of more than 30 days, is unfit to perform the duties of his office, grade, rank, or rating because of physical disability incurred while entitled to basic pay, the Secretary may retire the member, with retired pay computed under section 1401 of this title, if the Secretary also determines that—”.
+
 1994—Pub. L. 103–337 substituted “10148(a)” for “270(b)” in introductory provisions.
 
 1989—Par. (3)(B). Pub. L. 101–189 substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
@@ -91,6 +109,10 @@ Pub. L. 96–343 added cl. (iv).
 1962—Pub. L. 87–651 substituted “training under section 270(b) of this title)” for “training) under section 270(b) of this title”.
 
 1958—Pub. L. 85–861 inserted “under section 270(b) of this title” after “(other than for training)”.
+
+#### Effective Date of 1996 Amendment
+
+Section 572(d) of Pub. L. 104–201 provided that: “The amendments made by this section \[amending this section and sections 1202 and 1203 of this title\] shall take effect on the date of the enactment of this Act \[Sept. 23, 1996\] and shall apply with respect to physical disabilities incurred on or after such date.”
 
 #### Effective Date of 1994 Amendment
 

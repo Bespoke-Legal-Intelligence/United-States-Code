@@ -10,7 +10,7 @@ The Secretary shall counsel and test enrollees prior to their scheduled terminat
 
 #### (c) Provision for further education, training, and counseling
 
-The Secretary shall determine the status and progress of enrollees scheduled for termination and make every effort to assure that their needs for further education, training, and counseling are met.
+The Secretary shall determine the status and progress of enrollees scheduled for terminationand make every effort to assure that their needs for further education, training, and counseling are met.
 
 #### (d) Payment of readjustment allowance to former enrollees
 

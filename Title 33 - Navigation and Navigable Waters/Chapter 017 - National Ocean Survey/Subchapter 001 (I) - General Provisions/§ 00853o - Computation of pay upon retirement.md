@@ -28,7 +28,7 @@ Each commissioned officer on the retired list who first became a member of a uni
 
 (2) Retired pay computed under this section, if not a multiple of $1, shall be rounded to the next lower multiple of $1.
 
-(June 3, 1948, ch. 390, §16, 62 Stat. 299; Oct. 12, 1949, ch. 681, title V, §531(b)(41), 63 Stat. 840; May 20, 1958, Pub. L. 85–422, §11(c), 72 Stat. 132; Sept. 7, 1962, Pub. L. 87–649, §9(b)(2), 76 Stat. 495; Sept. 8, 1980, Pub. L. 96–342, title VIII, §813(g), 94 Stat. 1110; Sept. 24, 1983, Pub. L. 98–94, title IX, §§922(c), 923(e), 97 Stat. 642, 643; July 1, 1986, Pub. L. 99–348, title II, §206, 100 Stat. 701.)
+(June 3, 1948, ch. 390, §16, 62 Stat. 299; Oct. 12, 1949, ch. 681, title V, §531(b)(41), 63 Stat. 840; May20, 1958, Pub. L. 85–422, §11(c), 72 Stat. 132; Sept. 7, 1962, Pub. L. 87–649, §9(b)(2), 76 Stat. 495; Sept. 8, 1980, Pub. L. 96–342, title VIII, §813(g), 94 Stat. 1110; Sept. 24, 1983, Pub. L. 98–94, title IX, §§922(c), 923(e), 97 Stat. 642, 643; July 1, 1986, Pub. L. 99–348, title II, §206, 100 Stat. 701.)
 
 #### Amendments
 

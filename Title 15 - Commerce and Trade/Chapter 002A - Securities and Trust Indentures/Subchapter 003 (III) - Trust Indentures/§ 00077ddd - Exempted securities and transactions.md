@@ -10,7 +10,7 @@ The provisions of this subchapter shall not apply to any of the following securi
 
 &emsp;(3) Repealed. Pub. L. 101–550, title IV, §403(1)(A), Nov. 15, 1990, 104 Stat. 2722.
 
-&emsp;(4)(A) any security exempted from the provisions of the Securities Act of 1933 \[15 U.S.C. 77a et seq.\] by paragraphs (2) to (8), or (11) of subsection 3(a) thereof \[15 U.S.C. 77c(a)\];
+&emsp;(4)(A) any security exempted from the provisions of the Securities Act of 1933 \[15 U.S.C. 77a et seq.\] by paragraphs (2) to (8), (11), or (14) of subsection 3(a) thereof \[15 U.S.C. 77c(a)\];
 
 &emsp;(B) any security exempted from the provisions of the Securities Act of 1933, as amended \[15 U.S.C. 77a et seq.\], by paragraph (2) of subsection 3(a) thereof, as amended by section 401 of the Employment Security Amendments of 1970 \[15 U.S.C. 77c(a)(2)\];
 
@@ -30,7 +30,7 @@ The provisions of this subchapter shall not apply to any of the following securi
 
 #### (b) Application of sections 77eee and 77fff
 
-The provisions of sections 77eee and 77fff of this title shall not apply (1) to any of the transactions exempted from the provisions of section 5 of the Securities Act of 1933 \[15 U.S.C. 77e\] by section 4 thereof \[15 U.S.C. 77d\] or (2) to any transaction which would be so exempted but for the last sentence of paragraph (11) of section 2 of such Act \[15 U.S.C. 77b\].
+The provisions of sections 77eee and 77fff of this title shall not apply (1) to any of the transactions exempted from the provisions of section 5 of the Securities Act of 1933 \[15 U.S.C. 77e\] by section 4 thereof \[15 U.S.C. 77d\] or (2) to any transaction which would be so exempted but for the last sentence of paragraph (11) of section 2 of such Act <sup>1</sup> \[15 U.S.C. 77b\].
 
 #### (c) Securities issued or proposed to be issued under indenture
 
@@ -46,9 +46,9 @@ The Commission may, by rules or regulations upon its own motion, or by order on 
 
 #### (e) Securities issued by small investment company
 
-The Commission may from time to time by its rules and regulations, and subject to such terms and conditions as may be prescribed herein, add to the securities exempted as provided in thissection any class of securities issued by a small business investment company under the Small Business Investment Act of 1958 \[15 U.S.C. 661 et seq.\] if it finds, having regard to the purposes of that Act, that the enforcement of this subchapter with respect to such securities is not necessary in the public interest and for the protection of investors.
+The Commission may from time to time by its rules and regulations, and subject to such terms and conditions as may be prescribed herein, add to the securities exempted as provided in this section any class of securities issued by a small business investment company under the Small Business Investment Act of 1958 \[15 U.S.C. 661 et seq.\] if it finds, having regard to the purposes of that Act, that the enforcement of this subchapter with respect to such securities is not necessary in the public interest and for the protection of investors.
 
-(May 27, 1933, ch. 38, title III, §304, as added Aug. 3, 1939, ch. 411, 53 Stat. 1153; amended Aug. 10, 1954, ch. 667, title III, §302, 68 Stat. 687; Aug. 21, 1958, Pub. L. 85–699, title III, §307(b), 72 Stat. 694; Sept. 13, 1960, Pub. L. 86–760, 74 Stat. 902; Nov. 3, 1966, Pub. L. 89–754, title V, §504(b), 80 Stat. 1278; Dec. 22, 1970, Pub. L. 91–567, §6(c), 84 Stat. 1499; Oct. 21, 1980, Pub. L. 96–477, title III, §302, 94 Stat. 2291; Nov. 15, 1990, Pub. L. 101–550, title IV, §403, 104 Stat. 2722.)
+(May 27, 1933, ch. 38, title III, §304, as added Aug. 3, 1939, ch. 411, 53 Stat. 1153; amended Aug. 10, 1954, ch. 667, title III, §302, 68 Stat. 687; Aug. 21,1958, Pub. L. 85–699, title III, §307(b), 72 Stat. 694; Sept. 13, 1960, Pub. L. 86–760, 74 Stat. 902; Nov. 3, 1966, Pub. L. 89–754, title V, §504(b), 80 Stat. 1278; Dec. 22, 1970, Pub. L. 91–567, §6(c), 84 Stat. 1499; Oct. 21, 1980, Pub. L. 96–477, title III, §302, 94 Stat. 2291; Nov. 15, 1990, Pub. L. 101–550, title IV, §403, 104 Stat. 2722; Oct. 11, 1996, Pub. L. 104–290, title V, §508(e), 110 Stat. 3448.)
 
 #### References in Text
 
@@ -56,9 +56,13 @@ The Securities Act of 1933, referred to in subsec. (a)(4), (5), and (10), is act
 
 The National Housing Act, referred to in subsec. (a)(5), is act June 27, 1934, ch. 847, 48 Stat. 1246, as amended, which is classified generally to chapter 13 (§1701 et seq.) of Title 12, Banks and Banking. Provisions of that act relating to insurance of mortgages are contained in section 1707 et seq. of Title 12. Title XI of the National Housing Act, is classified to subchapter IX–B (§1749aaa et seq.) of chapter 13 of Title 12. For complete classification of this Act to the Code, see References in Text note set out under section 1701 of Title 12 and Tables.
 
+Paragraph (11) of section 2 of the Securities Act of 1933, referred to in subsec. (b), was redesignated paragraph (11) of section 2(a) of the Act by Pub. L. 104–290, title I, §106(a)(1), Oct. 11, 1996, 110 Stat. 3424, and is classified to section 77b(a)(11) of this title.
+
 The Small Business Investment Act of 1958, referred to in subsec. (e), is Pub. L. 85–699, Aug. 21, 1958, 72 Stat. 689, as amended, which is classified generally to chapter 14B (§661 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 661 of this title and Tables.
 
 #### Amendments
+
+1996—Subsec. (a)(4)(A). Pub. L. 104–290 substituted “(11), or (14)” for “or (11)”.
 
 1990—Subsec. (a)(3). Pub. L. 101–550, §403(1)(A), struck out par. (3) which read as follows: “any security which, prior to or within six months after August 3, 1939, has been sold or disposed of by the issuer or bona fide offered to the public, but this exemption shall not apply to any new offering of any such security by an issuer subsequent to such six months;”.
 
@@ -101,4 +105,6 @@ Securities not registered under Securities Act, section as affecting, see sectio
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 77eee, 77fff, 77ggg of this title; title 12 section 2290.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -6,7 +6,7 @@
 
 &emsp;(1) to continue reinsurance and direct insurance in accordance with the provisions of sections 1749bbb–9(b) and 1749bbb–10a(c) of this title until September 30, 1985, and September 30, 1996, respectively;
 
-&emsp;(2) to process, verify, and pay claims for reinsured losses and directly insured losses and perform other necessary functions in connection therewith; and
+&emsp;(2) to process, verify, and pay claims for reinsured losses and directly insured losses andperform other necessary functions in connection therewith; and
 
 &emsp;(3) to complete the liquidation and termination of the reinsurance and direct insurance programs.
 

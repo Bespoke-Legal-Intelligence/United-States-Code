@@ -22,7 +22,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 (1)
 
@@ -62,7 +64,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-<b>1974</b>—Par. (5). Pub. L. 93–443 struck out par. (5) which defined “an active part in political management or in political campaigns”.
+1974—Par. (5). Pub. L. 93–443 struck out par. (5) which defined “an active part in political management or in political campaigns”.
 
 #### Effective Date of 1974 Amendment
 

@@ -76,7 +76,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in section 1396r–2 of this title.
+This chapter is referred to in sections 1320a–7e, 1396r–2 of this title.
 
 
 ---

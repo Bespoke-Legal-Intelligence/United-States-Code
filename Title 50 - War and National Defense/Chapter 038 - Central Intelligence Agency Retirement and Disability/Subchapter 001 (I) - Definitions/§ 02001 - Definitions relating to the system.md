@@ -144,7 +144,7 @@ Pub. L. 94–522, title II, §215, Oct. 17, 1976, 90 Stat. 2472, provided that:
 
 “(f) The amendment in section 212 \[enacting section 264 of Pub. L. 88–643\] is effective as of June 30, 1974.
 
-“(g) The amendment to recompute a reduced annuity during periods when not married in section 202 \[amending section 221(b) of Pub. L. 88–643\] shall apply to annuities which commence before, on, or after the date of enactment of this Act \[Oct. 17, 1976\], but no increase inannuity shall be paid for any period prior to November 1, 1974.
+“(g) The amendment to recompute a reduced annuity during periods when not married in section 202 \[amending section 221(b) of Pub. L. 88–643\] shall apply to annuities which commence before, on, or after the date of enactment of this Act \[Oct. 17, 1976\], but no increase in annuity shall be paid for any period prior to November 1, 1974.
 
 “(h) Annuity increases under sections 204 \[enacting section 221(<i>l</i>) of Pub. L. 88–643\] and 214 \[set out below\] shall apply to annuities which commence before, on, or after the date of enactment of this Act \[Oct. 17, 1976\], but no increase in annuity shall be paid for any period prior to August 1, 1974, or the date on which the annuity commences, whichever is later.”
 
@@ -210,7 +210,7 @@ For temporary provisions providing modified contributions and procedures for off
 
 #### Contingent Once-a-Year Adjustment in Annuities
 
-For provisions which directed the President, subject to certain conditions, to provide for a single cost-of-living adjustment in the annuities paid under the Central Intelligence Agency Retirement Act of 1964 for CertainEmployees \[Pub. L. 88–643\] during the period Sept. 1, 1980, to Aug. 31, 1981, and which further directed that, subject to the enactment of specified legislation providing for the adjustment of annuities paid under section 8331 et seq. of Title 5, Government Organization and Employees, the President exercise the authority vested in him under section 292 of the Central Intelligence Agency Retirement Act of 1964 for Certain Employees \[Pub. L. 88–643\] to provide for cost-of-living adjustments in the annuities paid under that Act on an identical basis, see Pub. L. 96–342, title VIII, §812(a)(3), (4), (b)(3), (4), (c), Sept. 8, 1980, 94 Stat. 1098, set out as a note under section 1401a of Title 10, Armed Forces.
+For provisions which directed the President, subject to certain conditions, to provide for a single cost-of-living adjustment in the annuities paid under the Central Intelligence Agency Retirement Act of 1964 for Certain Employees \[Pub. L. 88–643\] during the period Sept. 1, 1980, to Aug. 31, 1981, and which further directed that, subject to the enactment of specified legislation providing for the adjustment of annuities paid under section 8331 et seq. of Title 5, Government Organization and Employees, the President exercise the authority vested in him under section 292 of the Central Intelligence Agency Retirement Act of 1964 for Certain Employees \[Pub. L. 88–643\] to provide for cost-of-living adjustments in the annuities paid under that Act on an identical basis, see Pub. L. 96–342, title VIII, §812(a)(3), (4), (b)(3), (4), (c), Sept. 8, 1980, 94 Stat. 1098, set out as a note under section 1401a of Title 10, Armed Forces.
 
 #### Executive Order No. 11950
 

@@ -1,6 +1,6 @@
 ### §180. Design for service lapel button; persons entitled to wear button
 
-The Secretary of Defense is also authorized and directed to approve a design for a service lapel button, which button may be worn by members of the immediate family of a person serving in the armed forces of the United States during any period of war or hostilities in which the Armed Forces of the United States may be engaged.
+The Secretary of Defense is also authorized and directed to approve a design for a service lapel button, which button may be worn by members of the immediate family of a person serving in the armed forces of the United Statesduring any period of war or hostilities in which the Armed Forces of the United States may be engaged.
 
 (Oct. 17, 1942, ch. 615, §2, 56 Stat. 796; May 27, 1953, ch. 70, 67 Stat. 35.)
 

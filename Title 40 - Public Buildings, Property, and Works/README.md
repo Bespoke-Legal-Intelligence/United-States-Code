@@ -1,5 +1,5 @@
 
-40 U.S.C.<br>United States Code, 1995 Edition<br>Title 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS<br>From the U.S. Government Publishing Office, www.gpo.gov
+40 U.S.C.<br>United States Code, 1996 Edition<br>Title 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 40—PUBLIC BUILDINGS, PROPERTY, AND WORKS
 
@@ -31,6 +31,7 @@
 | [<b>22.</b>](Chapter%20022%20-%20Federal%20Triangle%20Development/README.md) | <b>Federal Triangle Development</b> | <b>1101</b> |
 | [<b>23.</b>](Chapter%20023%20-%20Judiciary%20Office%20Building%20Development/README.md) | <b>Judiciary Office Building Development</b> | <b>1201</b> |
 | [<b>24.</b>](Chapter%20024%20-%20National%20Capital%20Area%20Interest%20Arbitration%20Standards/README.md) | <b>National Capital Area Interest Arbitration Standards</b> | <b>1301</b> |
+| [<b>25.</b>](Chapter%20025%20-%20Information%20Technology%20Management/README.md) | <b>Information Technology Management</b> | <b>1401</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -65,3 +66,4 @@
 - [Chapter 022 - Federal Triangle Development](Chapter%20022%20-%20Federal%20Triangle%20Development/README.md)
 - [Chapter 023 - Judiciary Office Building Development](Chapter%20023%20-%20Judiciary%20Office%20Building%20Development/README.md)
 - [Chapter 024 - National Capital Area Interest Arbitration Standards](Chapter%20024%20-%20National%20Capital%20Area%20Interest%20Arbitration%20Standards/README.md)
+- [Chapter 025 - Information Technology Management](Chapter%20025%20-%20Information%20Technology%20Management/README.md)

@@ -44,7 +44,7 @@ United States assistance authorized by subsection (a) of this section may not be
 
 #### References in Text
 
-Section 212 of the Soviet Nuclear Threat Reduction Act of 1991 (title II of Public Law 102–228), referred to in subsecs. (b)(1) and (d)(4), is set out in a note under section 2551 of this title.
+Section 212 of the Soviet Nuclear Threat Reduction Act of 1991 (title II of Public Law 102–228), referred toin subsecs. (b)(1) and (d)(4), is set out in a note under section 2551 of this title.
 
 #### Delegation of Authority
 

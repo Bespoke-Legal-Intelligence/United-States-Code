@@ -24,7 +24,7 @@
 
 #### (b) Grant term and review
 
-Grants or contracts under this part shall be awarded for a period of not more than five years and shall be reviewed before the end of the 30-month period beginning on the date the grant or contract is awarded. Grants or contracts under this part shall be awarded before the end of the 12-month period beginning on the date of the enactment of an Act making appropriations to carry out this part.
+Grants or contracts under this part shall be awarded for a period of not more than five yearsand shall be reviewed before the end of the 30-month period beginning on the date the grant or contract is awarded. Grants or contracts under this part shall be awarded before the end of the 12-month period beginning on the date of the enactment of an Act making appropriations to carry out this part.
 
 #### (c) Amount
 

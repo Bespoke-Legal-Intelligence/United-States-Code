@@ -28,7 +28,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 (a)
 
@@ -50,9 +52,9 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-<b>1990</b>—Subsec. (b)(2). Pub. L. 101–509 substituted “5305” for “5303”.
+1990—Subsec. (b)(2). Pub. L. 101–509 substituted “5305” for “5303”.
 
-<b>1979</b>—Subsec. (b)(1). Pub. L. 96–54 substituted “Office of Personnel Management” for “Civil Service Commission”.
+1979—Subsec. (b)(1). Pub. L. 96–54 substituted “Office of Personnel Management” for “Civil Service Commission”.
 
 #### Suspension of Section
 

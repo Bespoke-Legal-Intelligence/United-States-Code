@@ -20,7 +20,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Except as otherwise provided in this paragraph, in the case of taxes on tobacco products and cigarette papers and tubes removed during any semimonthly period under bond for deferred payment of tax, the last day for payment of such taxes shall be the 14th day after the last day of such semimonthly period.
+&emsp;&emsp;Except as otherwise provided in this paragraph, in the case of taxes on tobacco products and cigarette papers and tubes removed during any semimonthly period under bond for deferred payment of tax, the last day for payment of such taxes shall be the 14th dayafter the last day of such semimonthly period.
 
 #### (B) Imported articles
 
@@ -96,7 +96,7 @@ Subsec. (b)(3). Pub. L. 99–514 inserted last sentence.
 
 1976—Subsec. (a). Pub. L. 94–455, §1905(a)(25)(A), directed that all provisions of chapter 52 applicable to tobacco products and cigarette papers and tubes in bond be applicable to such articles returned to bond upon withdrawal from the market or returned to bond after previous removal for a tax-exempt purpose.
 
-Subsec. (b). Pub. L. 94–455, §§1905(a)(25)(B), 1906(b)(13)(A), struck out provisions which had authorized payment of taxes by stamp until regulations couldbe promulgated to provide for payment by return and struck out “or his delegate” after “Secretary” in three places.
+Subsec. (b). Pub. L. 94–455, §§1905(a)(25)(B), 1906(b)(13)(A), struck out provisions which had authorized payment of taxes by stamp until regulations could be promulgated to provide for payment by return and struck out “or his delegate” after “Secretary” in three places.
 
 Subsec. (c). Pub. L. 94–455, §§1905(a)(25)(C), 1906(b)(13)(A), redesignated subsec. (d) as (c) and struck out “or his delegate” after “Secretary”. Former subsec. (c), relating to the use of stamps as evidence of the payment of taxes, was struck out.
 

@@ -26,7 +26,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 (a)
 
@@ -50,17 +52,17 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-<b>1980</b>—Subsec. (a). Pub. L. 96–465, §2312(c), inserted “(or after a shorter period of such service if the employee's assignment is terminated for the convenience of the Government)” after “outside the United States”.
+1980—Subsec. (a). Pub. L. 96–465, §2312(c), inserted “(or after a shorter period of such service if the employee's assignment is terminated for the convenience of the Government)” after “outside the United States”.
 
 Subsec. (b). Pub. L. 96–465, §2314(f)(2), substituted “a chief of mission” for “an officer” after “leave of absence to”.
 
-<b>1979</b>—Subsec. (c)(3). Pub. L. 96–54 substituted “Office” for “Commission”.
+1979—Subsec. (c)(3). Pub. L. 96–54 substituted “Office” for “Commission”.
 
-<b>1978</b>—Subsec. (c). Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission”.
+1978—Subsec. (c). Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission”.
 
-<b>1968</b>—Subsec. (c). Pub. L. 90–623 substituted “2” and “30” for “two” and “thirty”, respectively.
+1968—Subsec. (c). Pub. L. 90–623 substituted “2” and “30” for “two” and “thirty”, respectively.
 
-<b>1966</b>—Pub. L. 89–747 added subsec. (c) and inserted reference to leave for crews of vessels in section catchline.
+1966—Pub. L. 89–747 added subsec. (c) and inserted reference to leave for crews of vessels in section catchline.
 
 #### Effective Date of 1980 Amendment
 

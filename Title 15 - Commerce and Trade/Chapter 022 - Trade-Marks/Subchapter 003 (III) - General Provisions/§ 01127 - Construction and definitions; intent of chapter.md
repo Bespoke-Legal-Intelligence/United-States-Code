@@ -70,7 +70,7 @@ A mark shall be deemed to be “abandoned” if either of the following occurs:
 
 &emsp;(2) When any course of conduct of the owner, including acts of omission as well as commission, causes the mark to become the generic name for the goods or services on or in connection with which it is used or otherwise to lose its significance as a mark. Purchaser motivation shall not be a test for determining abandonment under this paragraph.
 
-The term “dilution” means the lessening of the capacity of a famous mark to identify anddistinguish goods or services, regardless of the presence or absence of—
+The term “dilution” means the lessening of the capacity of a famous mark to identify and distinguish goods or services, regardless of the presence or absence of—
 
 &emsp;(1) competition between the owner of the famous mark and other parties, or
 

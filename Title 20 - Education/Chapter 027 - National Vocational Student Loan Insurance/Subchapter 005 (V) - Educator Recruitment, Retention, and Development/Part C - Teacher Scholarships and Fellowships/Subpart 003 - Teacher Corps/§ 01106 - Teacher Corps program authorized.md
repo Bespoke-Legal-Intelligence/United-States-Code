@@ -6,7 +6,7 @@ In any fiscal year in which the appropriations for this subpart do not equal or 
 
 #### (b) State grant program
 
-In any fiscal year in which the appropriations for this subpart equal or exceed $50,000,000, theSecretary is authorized, in accordance with the provisions of this subpart, to make grants to State educational agencies from allocations under subsection (c) of this section to carry out Teacher Corps activities.
+In any fiscal year in which the appropriations for this subpart equal or exceed $50,000,000, the Secretary is authorized, in accordance with the provisions of this subpart, to make grants to State educational agencies from allocations under subsection (c) of this section to carry out Teacher Corps activities.
 
 #### (c) Allocation
 
@@ -14,7 +14,7 @@ Except as provided in subsection (a) of this section, each State educational age
 
 #### (d) Teacher Corps school
 
-For the purpose of this subpart the term “Teacher Corps school” means a public elementary or secondary school identified by the State educational agency as having the highest levels of poverty and the lowest levels of student achievement based on a ranking of such elementary schools and secondary schools in the State according to the number of children living in poverty and the levels of student achievement. In carrying out the preceding sentence, the State educational agency shall identify and inform not more than 10 percent of such elementary schools and not more than 10 percent of such secondary schools in the State which have the highest levels of poverty and the lowest levels of student achievement.
+For the purpose of this subpart the term “Teacher Corps school” means a public elementary or secondary school identified by the State educational agency as having the highest levels of poverty and the lowest levels of student achievement based on a ranking of such elementary schools and secondary schools in the State according to the number of children living in poverty and the levels of student achievement.In carrying out the preceding sentence, the State educational agency shall identify and inform not more than 10 percent of such elementary schools and not more than 10 percent of such secondary schools in the State which have the highest levels of poverty and the lowest levels of student achievement.
 
 #### (e) Designation
 

@@ -10,3 +10,7 @@ Section was not repeated in any subsequent appropriation act, which made appropr
 
 The proviso that the Commission may reimburse other Government agencies, including the Armed Forces, for salary, pay, and allowances of personnel assigned to it, was omitted in view of section 122a of this title.
 
+#### Transfer of Functions
+
+For provisions transferring from the Secretary of the Army to the Administrator of Veterans’ Affairs all jurisdiction over, and responsibility for, (A) all national cemeteries (except the cemetery at the United States Soldiers’ and Airmen's Home and Arlington National Cemetery), and (B) any other cemetery (including burial plots), memorial, or monument under the jurisdiction of the Secretary of the Army (except the cemetery located at the United States Military Academy at West Point) which the President determines would be appropriate, see section 6 of Pub. L. 93–43, set out as a note under section 2404 of Title 38, Veterans’ Benefits.
+

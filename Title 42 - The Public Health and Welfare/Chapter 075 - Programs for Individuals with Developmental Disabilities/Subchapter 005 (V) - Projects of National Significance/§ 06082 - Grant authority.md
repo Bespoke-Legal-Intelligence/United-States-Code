@@ -46,7 +46,7 @@ No grant may be made under subsection (a) of this section unless—
 
 &emsp;(2) each State in which the applicant's project will be conducted has a State plan approved under section 6022 of this title;
 
-&emsp;(3) the application provides assurances that the human rights of all individuals with developmental disabilities (especially those individuals without familial protection) who are receiving services under projects assisted underthis subchapter will be protected consistent with section 6009 of this title (relating to the rights of individuals with developmental disabilities);
+&emsp;(3) the application provides assurances that the human rights of all individuals with developmental disabilities (especially those individuals without familial protection) who are receiving services under projects assisted under this subchapter will be protected consistent with section 6009 of this title (relating to the rights of individuals with developmental disabilities);
 
 &emsp;(4) the applicant demonstrates, where appropriate, how the project will address, in whole or part, the needs of individuals with developmental disabilities from racial and ethnic minority backgrounds; and
 

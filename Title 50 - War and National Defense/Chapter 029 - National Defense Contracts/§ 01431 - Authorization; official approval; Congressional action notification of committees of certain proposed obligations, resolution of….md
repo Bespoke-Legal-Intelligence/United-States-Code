@@ -24,7 +24,7 @@ Section 705(f)(1) of Pub. L. 102–25 provided that the amendment made by that s
 
 #### Nonapplicability of National Emergencies Act
 
-The provisions of the National Emergencies Act \[see Short Title note set out under section 1601 of this title\]shall not apply to the powers and authorities conferred by this section and actions taken hereunder, see section 1651(a)(6) of this title.
+The provisions of the National Emergencies Act \[see Short Title note set out under section 1601 of this title\] shall not apply to the powers and authorities conferred by this section and actions taken hereunder, see section 1651(a)(6) of this title.
 
 #### Obligations Entered Into Before November 16, 1973
 
@@ -68,7 +68,7 @@ Under such regulations, which shall be uniform to the extent practicable, as may
 
 3\. The contracts hereby authorized to be made shall include agreements of all kinds (whether in the form of letters of intent, purchase orders, or otherwise) for all types and kinds of property or services necessary, appropriate, or convenient for the national defense, or for the invention, development, or production of, or research concerning, any such property or services, including, but not limited to, aircraft, missiles, buildings, vessels, arms, armament, equipment or supplies of any kind, or any portion thereof, including plans, spare parts and equipment therefor, materials, supplies, facilities, utilities, machinery, machine tools, and any other equipment without any restriction of any kind as to type, character, location, or form.
 
-4\. The Department of Defense may by agreement modify or amend or settle claims under contracts heretofore or hereafter made, may make advance payments upon such contracts of any portion of the contract price, and may enter into agreements with contractors or obligors modifying or releasing accrued obligations of any sort, including accrued liquidated damages or liability under surety or other bonds. Amendments or modifications of contracts may be with or without consideration and may be utilized to accomplish the same things as any original contract could have accomplished hereunder, irrespective of the time or circumstances of the making, or the form, of the contractamended or modified, or of the amending or modifying contract, and irrespective of rights which may have accrued under the contract or the amendments or modifications thereof.
+4\. The Department of Defense may by agreement modify or amend or settle claims under contracts heretofore or hereafter made, may make advance payments upon such contracts of any portion of the contract price, and may enter into agreements with contractors or obligors modifying or releasing accrued obligations of any sort, including accrued liquidated damages or liability under surety or other bonds. Amendments or modifications of contracts may be with or without consideration and may be utilized to accomplish the same things as any original contract could have accomplished hereunder, irrespective of the time or circumstances of the making, or the form, of the contract amended or modified, or of the amending or modifying contract, and irrespective of rights which may have accrued under the contract or the amendments or modifications thereof.
 
 5\. Proper records of all actions taken under the authority of the act shall be maintained within the Department of Defense. The Secretaries of Defense, the Army, the Navy, and the Air Force shall make such records available for public inspection except to the extent that they, or their duly authorized representatives, may respectively deem the disclosure of information therein to be detrimental to the national security.
 
@@ -144,7 +144,7 @@ The Federal Emergency Management Agency.
 
 23\. Nothing contained herein shall prejudice any other authority which any agency named in paragraph 21 hereof may have to enter into, amend, or modify contracts and to make advance payments.
 
-24\. Nothing contained in this Part shall constitute authorization thereunder for the amendment of a contract negotiated under section 322(c)(14) of the Federal Property and Administrative Services Act of 1949 (63Stat. 394), as amended by section 2(b) of the act of August 28, 1958, 72 Stat. 966 \[section 252(c)(14) of Title 41, Public Contracts\], to increase the contract price to an amount higher than the lowest rejected bid of any responsible bidder.
+24\. Nothing contained in this Part shall constitute authorization thereunder for the amendment of a contract negotiated under section 322(c)(14) of the Federal Property and Administrative Services Act of 1949 (63 Stat. 394), as amended by section 2(b) of the act of August 28, 1958, 72 Stat. 966 \[section 252(c)(14) of Title 41, Public Contracts\], to increase the contract price to an amount higher than the lowest rejected bid of any responsible bidder.
 
 #### Cross References
 

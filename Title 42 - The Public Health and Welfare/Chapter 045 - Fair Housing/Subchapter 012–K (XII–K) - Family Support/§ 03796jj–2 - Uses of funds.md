@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-A State or local law enforcement agency or organization that receives a grant under this subchapter <sup>1</sup> shall use amounts provided under thegrant to establish or improve training and support programs for law enforcement personnel.
+A State or local law enforcement agency or organization that receives a grant under this subchapter <sup>1</sup> shall use amounts provided under the grant to establish or improve training and support programs for law enforcement personnel.
 
 #### (b) Required activities
 

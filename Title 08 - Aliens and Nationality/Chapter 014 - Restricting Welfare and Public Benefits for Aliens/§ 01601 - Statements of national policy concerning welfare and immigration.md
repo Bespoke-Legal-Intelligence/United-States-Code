@@ -1,0 +1,28 @@
+### §1601. Statements of national policy concerning welfare and immigration
+
+The Congress makes the following statements concerning national policy with respect to welfare and immigration:
+
+&emsp;(1) Self-sufficiency has been a basic principle of United States immigration law since this country's earliest immigration statutes.
+
+&emsp;(2) It continues to be the immigration policy of the United States that—
+
+&emsp;&emsp;(A) aliens within the Nation's borders not depend on public resources to meet their needs, but rather rely on their own capabilities and the resources of their families, their sponsors, and private organizations, and
+
+&emsp;&emsp;(B) the availability of public benefits not constitute an incentive for immigration to the United States.
+
+&emsp;(3) Despite the principle of self-sufficiency, aliens have been applying for and receiving public benefits from Federal, State, and local governments at increasing rates.
+
+&emsp;(4) Current eligibility rules for public assistance and unenforceable financial support agreements have proved wholly incapable of assuring that individual aliens not burden the public benefits system.
+
+&emsp;(5) It is a compelling government interest to enact new rules for eligibility and sponsorship agreements in order to assure that aliens be self-reliant in accordance with national immigration policy.
+
+&emsp;(6) It is a compelling government interest to remove the incentive for illegal immigration provided by the availability of public benefits.
+
+&emsp;(7) With respect to the State authority to make determinations concerning the eligibility of qualified aliens for public benefits in this chapter, a State that chooses to follow the Federal classification in determining the eligibility of such aliens for public assistance shall be considered to have chosen the least restrictive means available for achieving the compelling governmental interest of assuring that aliens be self-reliant in accordance with national immigration policy.
+
+(Pub. L. 104–193, title IV, §400, Aug. 22, 1996, 110 Stat. 2260.)
+
+#### References in Text
+
+This chapter, referred to in par. (7), was in the original “this title” meaning title IV of Pub. L. 104–193, Aug. 22, 1996, 110 Stat. 2260, as amended, which enacted this chapter, section 1183a of this title, and sections 611a and 1437y of Title 42, The Public Health and Welfare, amended section 1383 of this title, sections 32 and 6213 of Title 26, Internal Revenue Code, and sections 1436a and 1471 of Title 42, and enacted provisions set out as notes under section 1183a of this title and section 32 of Title 26. For complete classification of title IV to the Code, see Tables.
+

@@ -6,7 +6,7 @@ The Secretary or the Commodity Credit Corporation, as appropriate, shall issue s
 
 #### (b) Violation
 
-Any person knowingly violating any regulation of the Secretary issued under subsection (a) of this section shall be subject to a civil penalty of not more than $5,000 for each violation.
+Any person knowingly violating any regulation of the Secretary issued under subsection (a)of this section shall be subject to a civil penalty of not more than $5,000 for each violation.
 
 #### (c) Publication in Federal Register
 
@@ -26,7 +26,7 @@ Each determination issued by the Secretary to establish, adjust, or suspend allo
 
 The remedies and penalties provided for in this subpart shall be in addition to, and not exclusive of, any remedies or penalties existing at law or in equity.
 
-(Feb. 16, 1938, ch. 30, title III, §359h, as added Nov. 28, 1990, Pub. L. 101–624, title IX, §902, 104Stat. 3486; amended Dec. 13, 1991, Pub. L. 102–237, title I, §111(j), 105 Stat. 1836.)
+(Feb. 16, 1938, ch. 30, title III, §359h, as added Nov. 28, 1990, Pub. L. 101–624, title IX, §902, 104 Stat. 3486; amended Dec. 13, 1991, Pub. L. 102–237, title I, §111(j), 105 Stat. 1836.)
 
 #### Amendments
 
@@ -39,6 +39,10 @@ In general.—The Secretary shall issue such regulations as may be necessary to 
 “(2)
 
 Prior consultations required.—In addition to taking such other action as may be required under section 551 through 559 of title 5 prior to proposing any regulations under paragraph (1), the Secretary shall consult with representatives of domestic sugar processors and producers with regard to ensuring that the regulations achieve the objectives of this subpart. The results of the consultations shall be published in the Federal Register, along with the proposed regulations.”
+
+#### Inapplicability of Section
+
+Section inapplicable to 1996 through 2002 crops of loan commodities, peanuts, and sugar and inapplicable to milk during period beginning Apr. 4, 1996, and ending Dec. 31, 2002, see section 7301(a)(1)(E) of this title.
 
 #### Section Referred to in Other Sections
 

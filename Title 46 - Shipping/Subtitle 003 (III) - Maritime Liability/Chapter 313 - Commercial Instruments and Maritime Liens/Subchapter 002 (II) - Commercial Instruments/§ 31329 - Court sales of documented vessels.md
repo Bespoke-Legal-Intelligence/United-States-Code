@@ -20,7 +20,9 @@
 
 (e) A sale of a vessel contrary to this section is void.
 
-(Pub. L. 100–710, title I, §102(c), Nov. 23, 1988, 102 Stat. 4747.)
+(f) This section does not apply to a documented vessel that has been operated only for pleasure.
+
+(Pub. L. 100–710, title I, §102(c), Nov. 23, 1988, 102 Stat. 4747; Pub. L. 104–324, title XI, §1118, Oct. 19, 1996, 110 Stat. 3973.)
 
 Historical and Revision Notes
 
@@ -47,6 +49,10 @@ Section 31329(e) voids any sale that is done contrary to this section.
 #### house floor statement
 
 Under section 31329(d) a vessel may be operated by the trustee only with the approval of the Secretary. Under current law a vessel may be documented by a trust if all of the members of the trust are citizens of the United States. If the trust buying the vessel at the court sale includes foreign investors, the vessel cannot be documented. The Committee intends in this section that the vessel will only be “operated” in a maintenance manner, but not in a commercial service.
+
+#### Amendments
+
+1996—Subsec. (f). Pub. L. 104–324 added subsec. (f).
 
 #### Section Referred to in Other Sections
 

@@ -32,7 +32,7 @@ Assignments Policy.—(1) The Secretary of Defense shall establish a policy on a
 
 (g)
 
-Performance Appraisals.—The Secretary of each military department, acting through the service acquisition executive for that department, shall provide an opportunity for review and inclusion of any comments on any appraisal of the performance of a person serving in an acquisition position by a person serving in an acquisition position in the same acquisition career field.
+Performance Appraisals.—The Secretary of each military department, acting through the service acquisition executive for that department, shall provide an opportunity for review and inclusion of any comments on any appraisalof the performance of a person serving in an acquisition position by a person serving in an acquisition position in the same acquisition career field.
 
 (h)
 

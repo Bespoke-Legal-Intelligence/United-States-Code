@@ -1,6 +1,6 @@
 ### §7545. Obsolete material and articles of historical interest: loan or gift
 
-(a) Subject to regulations under section 205 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 486), the Secretary of the Navy, under regulations prescribed by him, may lend or give, without expense to the United States, captured, condemned, or obsolete ordnance material, books, manuscripts, works of art, drawings, plans, and models, other condemned or obsolete material, trophies, and flags, and other material of historic interest not needed by the Department of the Navy, to—
+(a) Subject to regulations under section 205 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 486), the Secretary ofthe Navy, under regulations prescribed by him, may lend or give, without expense to the United States, captured, condemned, or obsolete ordnance material, books, manuscripts, works of art, drawings, plans, and models, other condemned or obsolete material, trophies, and flags, and other material of historic interest not needed by the Department of the Navy, to—
 
 &emsp;(1) a State, Territory, Commonwealth, or possession of the United States, or political subdivision or municipal corporation thereof;
 
@@ -28,17 +28,9 @@
 
 (b) Records of the Government as defined in section 3301 of title 44 may not be disposed of under this section.
 
-(c) No loan or gift under this section may be made unless—
+(c) If any disposition is authorized by this section and section 2572 of this title, the Secretary may make the gift or loan under either section.
 
-&emsp;(1) notice of the proposal to make the loan or gift is sent to Congress;
-
-&emsp;(2) 30 calendar days of continuous session of Congress have expired after the notice was sent to Congress; and
-
-&emsp;(3) during that 30-day period Congress does not pass a concurrent resolution stating in substance that it does not favor the proposed loan or gift.
-
-(d) If any disposition is authorized by this section and section 2572 of this title, the Secretary may make the gift or loan under either section.
-
-(Aug. 10, 1956, ch. 1041, 70A Stat. 466; Dec. 12, 1980, Pub. L. 96–513, title V, §513(39), (40), 94 Stat. 2934, 2935.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 466; Dec. 12, 1980, Pub. L. 96–513, title V, §513(39), (40), 94 Stat. 2934, 2935; Feb. 10, 1996, Pub. L. 104–106, div. A, title X, §1061(i), 110 Stat. 443.)
 
 Historical and Revision Notes
 
@@ -71,6 +63,14 @@ In subsection (a) the words, “ordnance material” are substituted for the wor
 Subsection (d) is added to note the existence of a later act, codified in §2572 of this title, which provides similar disposal authority, and to give effect to §2 of the Act of February 27, 1948, ch. 76, 62 Stat. 37, which is not now contained in the U.S. Code, and which saves this section despite the apparent implied repeal.
 
 #### Amendments
+
+1996—Subsecs. (c), (d). Pub. L. 104–106 redesignated subsec. (d) as (c) and struck out former subsec. (c) which read as follows: “No loan or gift under this section may be made unless—
+
+&emsp;“(1) notice of the proposal to make the loan or gift is sent to Congress;
+
+&emsp;“(2) 30 calendar days of continuous session of Congress have expired after the notice was sent to Congress; and
+
+&emsp;“(3) during that 30-day period Congress does not pass a concurrent resolution stating in substance that it does not favor the proposed loan or gift.”
 
 1980—Subsec. (a). Pub. L. 96–513, §513(39), substituted “section 205 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 486),” for “section 486 of title 40”.
 

@@ -22,4 +22,3 @@ This subchapter is referred to in title 42 section 2000e–2.
 - [&sect; 00796 - Effect of subchapter on other criminal laws](%C2%A7%2000796%20-%20Effect%20of%20subchapter%20on%20other%20criminal%20laws.md)
 - [&sect; 00797 - Security regulations and orders; penalty for violation](%C2%A7%2000797%20-%20Security%20regulations%20and%20orders%3B%20penalty%20for%20violation.md)
 - [&sect; 00798 - Repealed. Pub. L. 103&#8211;199, title VIII, &sect;803(1), Dec. 17, 1993, 107 Stat. 2329](%C2%A7%2000798%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93199%2C%20title%20VIII%2C%20%C2%A7803%281%29%2C%20Dec.%2017%2C%201993%2C%20107%20Stat.%202329.md)
-- [&sect; 00811 to 826 - Repealed. Pub. L. 92&#8211;128, &sect;2(a), Sept. 25, 1971, 85 Stat. 348](%C2%A7%2000811%20to%20826%20-%20Repealed.%20Pub.%20L.%2092%E2%80%93128%2C%20%C2%A72%28a%29%2C%20Sept.%2025%2C%201971%2C%2085%20Stat.%20348.md)

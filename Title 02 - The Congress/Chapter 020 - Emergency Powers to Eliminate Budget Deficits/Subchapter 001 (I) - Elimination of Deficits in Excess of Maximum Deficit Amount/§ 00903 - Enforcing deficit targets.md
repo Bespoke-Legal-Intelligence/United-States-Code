@@ -40,13 +40,13 @@ Actions to reduce non-defense accounts shall be taken in the following order:
 
 &emsp;(A) If additional reductions in non-defense accounts are required to be made, each remaining non-exempt, non-defense account shall be reduced by the uniform percentage necessary to make the reductions in non-defense outlays required by subsection (c) of this section, except that—
 
-&emsp;&emsp;(i) the medicare program specified in section 906(d) of this title shall not be reduced by more than 2 percent in total including any reduction of less than 2 percent made under section 902 of this title or, if it hasbeen reduced by 2 percent or more under section 902 of this title, it may not be further reduced under this section; and
+&emsp;&emsp;(i) the medicare program specified in section 906(d) of this title shall not be reduced by more than 2 percent in total including any reduction of less than 2 percent made under section 902 of this title or, if it has been reduced by 2 percent or more under section 902 of this title, it may not be further reduced under this section; and
 
 &emsp;&emsp;(ii) the health programs set forth in section 906(e) of this title shall not be reduced by more than 2 percent in total (including any reduction made under section 901 of this title),
 
 > &emsp;and the uniform percent applicable to all other programs under this subsection shall be increased (if necessary) to a level sufficient to achieve the required reduction in non-defense outlays.
 
-&emsp;(B) For purposes of determining reductions under subparagraph (A), outlay reduction (as a result of sequestration of Commodity Credit Corporation commodity price support contracts in the fiscal year of a sequestration) that would occur in the following fiscal year shall be credited as outlay reductions in the fiscal year of the sequestration.
+&emsp;(B) For purposes of determining reductions under subparagraph (A), outlay reduction (as aresult of sequestration of Commodity Credit Corporation commodity price support contracts in the fiscal year of a sequestration) that would occur in the following fiscal year shall be credited as outlay reductions in the fiscal year of the sequestration.
 
 #### (f) Baseline assumptions; part-year appropriations
 
@@ -98,7 +98,7 @@ Actions to reduce non-defense accounts shall be taken in the following order:
 
 #### (1) Initial estimates
 
-&emsp;The initial estimates of the net costs of federal deposit insurance for fiscal year 1994 and fiscal year 1995 (assuming full funding of, and continuation of, the deposit insurance guarantee commitment in effect on the date of the submission of the budget for fiscal year 1993) shall be set forth in that budget.
+&emsp;The initial estimates of the net costs of federal deposit insurance for fiscal year 1994 and fiscal year 1995 (assuming full funding of, andcontinuation of, the deposit insurance guarantee commitment in effect on the date of the submission of the budget for fiscal year 1993) shall be set forth in that budget.
 
 #### (2) Reestimates
 

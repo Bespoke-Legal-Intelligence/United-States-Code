@@ -1,6 +1,6 @@
 ### §3811. Operating regulations
 
-The President may prescribe, and from time to time amend, regulations governing—
+The Commission may prescribe, and from time to time amend, regulations governing—
 
 &emsp;(1) the operation of the Panama Canal;
 
@@ -12,11 +12,11 @@ The President may prescribe, and from time to time amend, regulations governing�
 
 &emsp;(5) the licensing of officers or other operators of vessels navigating the waters of the Panama Canal and areas adjacent thereto, including the ports of Balboa and Cristobal.
 
-(Pub. L. 96–70, title I, §1801, Sept. 27, 1979, 93 Stat. 492.)
+(Pub. L. 96–70, title I, §1801, Sept. 27, 1979, 93 Stat. 492; Pub. L. 104–201, div. C, title XXXV, §3545, Sept. 23, 1996, 110 Stat. 2867.)
 
-#### Delegation of Functions
+#### Amendments
 
-Functions vested in President by this section delegated to Secretary of Defense, see section 1–303 of Ex. Ord. No. 12215, May 27, 1980, 45 F.R. 36044, set out as a note under section 3601 of this title.
+1996—Pub. L. 104–201 substituted “Commission” for “President” in introductory provisions.
 
 #### Section Referred to in Other Sections
 

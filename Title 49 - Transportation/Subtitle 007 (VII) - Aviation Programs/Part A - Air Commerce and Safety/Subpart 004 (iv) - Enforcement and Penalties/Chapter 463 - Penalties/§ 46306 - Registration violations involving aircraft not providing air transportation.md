@@ -44,7 +44,7 @@ Controlled Substance Criminal Penalty.—(1) In this subsection, “controlled s
 
 &emsp;(A) is punishable by death or imprisonment of more than one year under a law of the United States or a State; or
 
-&emsp;(B) provided <sup>1</sup> is related to an act punishable by death or imprisonment for more than one year under a law of the United States or a State related to a controlled substance (except a law related to simple possession of a controlled substance).
+&emsp;(B) that is provided is related to an act punishable by death or imprisonment for more than one year under a law of the United States or a State related to a controlled substance (except a law related to simple possession of a controlled substance).
 
 (3) A term of imprisonment imposed under paragraph (2) of this subsection shall be served in addition to, and not concurrently with, any other term of imprisonment imposed on the individual.
 
@@ -92,11 +92,15 @@ Relationship to State Laws.—This part does not prevent a State from establishi
 
 &emsp;&emsp;(C) making or using a false document knowing it contains a false, fictitious, or fraudulent statement or entry.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1235.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1235; Pub. L. 104–287, §5(78), Oct. 11, 1996, 110 Stat. 3397.)
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+Pub. L. 103–272
+
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -138,7 +142,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §902(b)(5); added Oct. 27, 1986,
 
 In subsections (b)(9), (d), and (e), the word “Administrator” in section 902(b) of the Federal Aviation Act of 1958 (Public Law 85–726, 72 Stat. 784) is retained on authority of 49:106(g).
 
-In subsection (b), before clause (1), the words “Except as provided by subsection (c) of this section” are added for clarity. The words “It shall be unlawful for any person” and “upon conviction” are omitted as surplus. The words “fined under title 18” are substituted for “a fine of not more than $15,000” for consistency with title 18. In clause (1), the words “counterfeit” and “falsely make” are omitted as surplus. In clause (4), the words“covering up”, “representation”, and “writing” are omitted as surplus. In clause (7), the word “valid” is omitted as surplus.
+In subsection (b), before clause (1), the words “Except as provided by subsection (c) of this section” are added for clarity. The words “It shall be unlawful for any person” and “upon conviction” are omitted as surplus. The words “fined under title 18” are substituted for “a fine of not more than $15,000” for consistency with title 18. In clause (1), the words “counterfeit” and “falsely make” are omitted as surplus. In clause (4), the words “covering up”, “representation”, and “writing” are omitted as surplus. In clause (7), the word “valid” is omitted as surplus.
 
 In subsection (c)(2), before clause (A), the words “fined under title 18” are substituted for “a fine of not more than $25,000” for consistency with title 18.
 
@@ -150,9 +154,19 @@ In subsections (d)(2)(C)(ii) and (e), the words “aircraft certificate of regis
 
 In subsection (e), before clause (1), the words “this subsection or in any other provision of” are omitted as surplus. In clause (1), the words “counterfeits” and “falsely makes” are omitted as surplus. In clause (4)(A), the words “covering up” are omitted as surplus. In clause (4)(B), the words “or representation” are omitted as surplus. In clause (4)(C), the words “writing or” are omitted as surplus.
 
+#### Pub. L. 104–287
+
+This makes a clarifying amendment to 49:46306(c)(2)(B).
+
+#### Amendments
+
+1996—Subsec. (c)(2)(B). Pub. L. 104–287 inserted “that is” before “provided”.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–287 effective July 5, 1994, see section 8(1) of Pub. L. 104–287, set out as a note under section 5303 of this title.
+
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 106, 44936 of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should be preceded by “that is”.</i>
 

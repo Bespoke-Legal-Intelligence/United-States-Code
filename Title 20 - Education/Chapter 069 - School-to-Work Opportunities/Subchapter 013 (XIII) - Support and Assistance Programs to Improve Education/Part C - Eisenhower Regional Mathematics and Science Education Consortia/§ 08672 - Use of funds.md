@@ -4,7 +4,7 @@ Funds provided under this part may be used by a regional consortium, under the d
 
 &emsp;(1) work cooperatively with the other regional consortia, the Eisenhower National Clearinghouse for Science and Mathematics Education established under section 6622(b) of this title and federally funded technical assistance providers to more effectively accomplish the activities described in this section;
 
-&emsp;(2) assist, train and provide technical assistance to classroom teachers, administrators, and other educators to identify, implement,assess or adapt the instructional materials, teaching methods and assessment tools described in section 8671(a)(1) of this title;
+&emsp;(2) assist, train and provide technical assistance to classroom teachers, administrators, and other educators to identify, implement, assess or adapt the instructional materials, teaching methods and assessment tools described in section 8671(a)(1) of this title;
 
 &emsp;(3) provide for the training of classroom teachers to enable such teachers to instruct other teachers, administrators, and educators in the use of the instructional materials, teaching methods and assessment tools described in section 8671(a)(1) of this title in the classroom;
 

@@ -6,7 +6,7 @@
 
 (2) The emergency duty referred to in paragraph (1) is duty that—
 
-&emsp;(A) is performed by a member under emergency circumstances that threaten injury toproperty of the Federal Government or human life;
+&emsp;(A) is performed by a member under emergency circumstances that threaten injury to property of the Federal Government or human life;
 
 &emsp;(B) is performed at a location within the limits of the member's station (other than at the residence or normal duty location of the member);
 

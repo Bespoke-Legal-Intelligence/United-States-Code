@@ -26,7 +26,7 @@ Subsec. (a). Pub. L. 100–607, §721(a)(2), substituted “Advisory Council on 
 
 1975—Subsec. (a). Pub. L. 94–63, §941(k)(2)(C), redesignated subsec. (a)(1) as (a). Former subsec. (a)(2) redesignated (b).
 
-Subsec. (b). Pub. L. 94–63, §941(k)(2)(A), (B), (D), redesignated subsec. (a)(2) as (b) and inserted “subpart I of” after “projects under” and “and of applications under subpart III of part A of this subchapter” after “296d of this title,”. Former subsec. (b), which related to appointment, membership, etc., of review committees, was struck out.
+Subsec. (b). Pub. L. 94–63, §941(k)(2)(A), (B), (D), redesignated subsec. (a)(2) as (b) and inserted “subpart I of”after “projects under” and “and of applications under subpart III of part A of this subchapter” after “296d of this title,”. Former subsec. (b), which related to appointment, membership, etc., of review committees, was struck out.
 
 1971—Subsec. (a)(1). Pub. L. 92–158, §§9, 13, substituted “nineteen members” for “sixteen members”, and “Three of the appointed members shall be selected from full-time students enrolled in schools of nursing, four” for “Four”, inserted “The student-members of the Council shall be appointed for terms of one year and shall be eligible for reappointment to the Council.” and substituted “Secretary (or his delegate)” for “Surgeon General”.
 

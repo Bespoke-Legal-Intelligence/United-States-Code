@@ -55,6 +55,7 @@
 - [&sect; 00059c - East River, New York](%C2%A7%2000059c%20-%20East%20River%2C%20New%20York.md)
 - [&sect; 00059c&#8211;1 - East and Hudson Rivers, New York](%C2%A7%2000059c%E2%80%931%20-%20East%20and%20Hudson%20Rivers%2C%20New%20York.md)
 - [&sect; 00059c&#8211;2 - East River, New York](%C2%A7%2000059c%E2%80%932%20-%20East%20River%2C%20New%20York.md)
+- [&sect; 00059c&#8211;3 - Queens County, New York](%C2%A7%2000059c%E2%80%933%20-%20Queens%20County%2C%20New%20York.md)
 - [&sect; 00059d - River Raisin, Michigan](%C2%A7%2000059d%20-%20River%20Raisin%2C%20Michigan.md)
 - [&sect; 00059e - Bayou Lafourche, Louisiana](%C2%A7%2000059e%20-%20Bayou%20Lafourche%2C%20Louisiana.md)
 - [&sect; 00059e&#8211;1 - Additional portion of Bayou Lafourche, Louisiana](%C2%A7%2000059e%E2%80%931%20-%20Additional%20portion%20of%20Bayou%20Lafourche%2C%20Louisiana.md)

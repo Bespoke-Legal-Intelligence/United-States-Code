@@ -12,3 +12,5 @@ The jurisdiction of the Mississippi River Commission (established by the Act of 
 
 Act of June 29, 1879 (33 U.S.C. 641), referred to in text, probably means the act of June 28, 1879, ch. 43, 21 Stat. 37, which enacted sections 641 to 644, 646, and 647 of this title.
 
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+

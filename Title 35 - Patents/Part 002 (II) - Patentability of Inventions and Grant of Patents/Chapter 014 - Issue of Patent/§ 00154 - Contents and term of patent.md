@@ -56,7 +56,7 @@ Determination.—The term of a patent that is in force on or that results from a
 
 &emsp;(2)
 
-Remedies.—The remedies of sections 283, 284, and 285 of this title shall not apply to Acts <sup>1</sup> which—
+Remedies.—The remedies of sections 283, 284, and 285 of this title shall not apply to acts which—
 
 &emsp;&emsp;(A) were commenced or for which substantial investment was made before the date that is 6 months after the date of the enactment of the Uruguay Round Agreements Act; and
 
@@ -66,7 +66,7 @@ Remedies.—The remedies of sections 283, 284, and 285 of this title shall not a
 
 Remuneration.—The acts referred to in paragraph (2) may be continued only upon the payment of an equitable remuneration to the patentee that is determined in an action brought under chapter 28 and chapter 29 (other than those provisions excluded by paragraph (2)) of this title.
 
-(July 19, 1952, ch. 950, 66 Stat. 804; July 24, 1965, Pub. L. 89–83, §5, 79 Stat. 261; Dec. 12, 1980, Pub.L. 96–517, §4, 94 Stat. 3018; Aug. 23, 1988, Pub. L. 100–418, title IX, §9002, 102 Stat. 1563; Dec. 8, 1994, Pub. L. 103–465, title V, §532(a)(1), 108 Stat. 4983.)
+(July 19, 1952, ch. 950, 66 Stat. 804; July 24, 1965, Pub. L. 89–83, §5, 79 Stat. 261; Dec. 12, 1980, Pub. L. 96–517, §4, 94 Stat. 3018; Aug. 23, 1988, Pub. L. 100–418, title IX, §9002, 102 Stat. 1563; Dec. 8, 1994,Pub. L. 103–465, title V, §532(a)(1), 108 Stat. 4983; Oct. 11, 1996, Pub. L. 104–295, §20(e)(1), 110 Stat. 3529.)
 
 #### Historical and Revision Notes
 
@@ -83,6 +83,8 @@ The wording of the granting clause is changed to “the right to exclude others 
 The date of the enactment of the Uruguay Round Agreements Act, referred to in subsec. (c)(1), (2)(A), is the date of enactment of Pub. L. 103–465, which was approved Dec. 8, 1994.
 
 #### Amendments
+
+1996—Subsec. (c)(2). Pub. L. 104–295 substituted “acts” for “Acts” in introductory provisions.
 
 1994—Pub. L. 103–465 amended section catchline and text generally. Prior to amendment, text read as follows: “Every patent shall contain a short title of the invention and a grant to the patentee, his heirs or assigns, for the term of seventeen years, subject to the payment of fees as provided for in this title, of the right to exclude others from making, using, or selling the invention throughout the United States and, if the invention is a process, of the right to exclude others from using or selling throughout the United States, or importing into the United States, products made by that process,, referring to the specification for the particulars thereof. A copy of the specification and drawings shall be annexed to the patent and be a part thereof.”
 
@@ -147,6 +149,4 @@ Plant patents, grant of, see section 163 of this title.
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 103, 155, 155A of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

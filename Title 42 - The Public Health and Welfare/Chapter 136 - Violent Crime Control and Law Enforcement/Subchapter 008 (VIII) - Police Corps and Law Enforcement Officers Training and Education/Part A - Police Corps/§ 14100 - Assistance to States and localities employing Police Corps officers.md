@@ -8,7 +8,7 @@ Each jurisdiction directly employing Police Corps participants during the 4-year
 
 &emsp;&emsp;(B) which has members who have been laid off but not retired; and
 
-&emsp;(2) no such payment shall be made on account of any Police Corps participant for years of service after the completion of theterm of service prescribed in section 14098 of this title.
+&emsp;(2) no such payment shall be made on account of any Police Corps participant for years of service after the completion of the term of service prescribed in section 14098 of this title.
 
 (Pub. L. 103–322, title XX, §200111, Sept. 13, 1994, 108 Stat. 2056.)
 

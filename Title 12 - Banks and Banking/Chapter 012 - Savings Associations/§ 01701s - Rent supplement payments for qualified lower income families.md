@@ -6,7 +6,7 @@ The Secretary of Housing and Urban Development (hereinafter referred to as the �
 
 #### (b) “Housing owner” defined; limitation on payments to housing owner
 
-As used in this section, the term “housing owner” means a private nonprofit corporation or other private nonprofit legal entity, a limited dividend corporation or other limited dividend legal entity, or a cooperative housing corporation, which is a mortgagor under section 221(d)(3) of the National Housing Act \[12 U.S.C. 1715<i>l</i>(d)(3)\] and which, after August 10, 1965, has been approved for mortgage insurance thereunder and has been approved for receiving the benefits of this section: <i>Provided</i>, That, except as provided in subsection (j) of this section, no payments under this section may be made with respect to any property financed with a mortgage receiving the benefits of the interest rate provided for in the proviso in section 221(d)(5) of that Act \[12 U.S.C. 1715<i>l</i>(d)(5)\]. Such term also includes a private nonprofit corporation or other private nonprofit legal entity, a limited dividend corporation or other limited dividend legal entity, or a cooperative housing corporation, which is the owner of a rental or cooperative housing project financed under a State or local program providing assistance through loans, loan insurance, or tax abatement and which may involve either new or existing construction and which is approved for receiving the benefits of this section. Subject to the limitations provided in subsection (j) of this section,the term “housing owner” also has the meaning prescribed in such subsection. Nothing in this section shall be construed as preventing payments to a housing owner with respect to projects in which all or part of the dwelling units do not contain kitchen facilities; but of the total amount of contracts to make annual payments approved in appropriation Acts pursuant to subsection (a) of this section after December 31, 1970, not more than 10 per centum in the aggregate shall be made with respect to such projects.
+As used in this section, the term “housing owner” means a private nonprofit corporation or other private nonprofit legal entity, a limited dividend corporation or other limited dividend legal entity, or a cooperative housing corporation, which is a mortgagor under section 221(d)(3) of the National Housing Act \[12 U.S.C. 1715<i>l</i>(d)(3)\] and which, after August 10, 1965, has been approved for mortgage insurance thereunder and has been approved for receiving the benefits of this section: <i>Provided</i>, That, except as provided in subsection (j) of this section, no payments under this section may be made with respect to any property financed with a mortgage receiving the benefits of the interest rate provided for in the proviso in section 221(d)(5) of that Act \[12 U.S.C. 1715<i>l</i>(d)(5)\]. Such term also includes a private nonprofit corporation or other private nonprofit legal entity, a limited dividend corporation or other limited dividend legal entity, or a cooperative housing corporation, which is the owner of a rental or cooperative housing project financed under a State orlocal program providing assistance through loans, loan insurance, or tax abatement and which may involve either new or existing construction and which is approved for receiving the benefits of this section. Subject to the limitations provided in subsection (j) of this section, the term “housing owner” also has the meaning prescribed in such subsection. Nothing in this section shall be construed as preventing payments to a housing owner with respect to projects in which all or part of the dwelling units do not contain kitchen facilities; but of the total amount of contracts to make annual payments approved in appropriation Acts pursuant to subsection (a) of this section after December 31, 1970, not more than 10 per centum in the aggregate shall be made with respect to such projects.
 
 #### (c) Definitions
 
@@ -40,7 +40,7 @@ The Secretary is authorized to make such rules and regulations, to enter into su
 
 #### (h) Authorization of appropriations
 
-There are authorized to be appropriated such sums as may be necessary to carry out the provisions of this section, including, but not limited to, such sums as may be necessary to make annual payments as prescribed in this section,pay for services provided under (or pursuant to agreements entered into under) subsection (e) of this section, and provide administrative expenses.
+There are authorized to be appropriated such sums as may be necessary to carry out the provisions of this section, including, but not limited to, such sums as may be necessary to make annual payments as prescribed in this section, pay for services provided under (or pursuant to agreements entered into under) subsection (e) of this section, and provide administrative expenses.
 
 #### (i) Omitted
 
@@ -72,11 +72,11 @@ The Secretary shall, not later than 45 days after receipt of an application by t
 
 &emsp;(1) unexpended balances of amounts of authority as set forth in certain letter agreements between the Department of Housing and Urban Development and such State or local housing finance agencies or State or local government agencies, and
 
-&emsp;(2) existing allocation under section 236 contracts on projects whose mortgages were made by State or local housing finance agencies or State or local government agencies which are not being funded, to the extent of such excess allocation, for any purposes permitted under the provisions of this section.
+&emsp;(2) existing allocation under section 236 contracts on projects whose mortgages were made by State or local housing finance agencies orState or local government agencies which are not being funded, to the extent of such excess allocation, for any purposes permitted under the provisions of this section.
 
 > An application shall be eligible for assistance under the previous sentence only if the mortgagee submits the application within 548 days after February 5, 1988, along with a certification of the mortgagee that amounts are to be utilized hereunder for the purpose of either (A) reducing rents or rent increases to tenants, or (B) making repairs or otherwise increasing the economic viability of a related project. Unexpended balances referred to in the first sentence of this subsection which remain after disposition of all such applications is favorably concluded shall be rescinded. The authority conferred by this subsection to provide interest reduction and rental assistance payments shall be available only to the extent approved in appropriation Acts.
 
-(Pub. L. 89–117, title I, §101, Aug. 10, 1965, 79 Stat. 451; Pub. L. 90–19, §22(a), (c), May 25, 1967, 81 Stat. 26; Pub. L. 90–448, title II, §§201(e), 202, title XI, §1106(b), Aug. 1, 1968, 82 Stat. 502, 503, 567; Pub. L. 91–152, title I, §112, Dec. 24, 1969, 83 Stat. 383; Pub. L. 91–609, title I, §§103, 114\[115\](c), 118(b), 120(a), (b), Dec. 31, 1970, 84 Stat. 1771, 1774, 1775; Pub. L. 96–153, title II, §203(a), Dec. 21, 1979, 93 Stat. 1106; Pub. L. 96–399, Oct. 8, 1980, title II, §205, 94 Stat. 1630; Pub. L. 97–35, title III, §§322(g), 327, Aug. 13, 1981, 95 Stat. 403, 407; Pub. L. 98–181, title II, §§203(b)(3), 219, Nov. 30, 1983, 97 Stat. 1178, 1187; Pub. L. 98–479, title I, §102(d), title II, §204(e), Oct. 17, 1984, 98 Stat. 2222, 2233; Pub. L. 100–242, title I, §§167(a)(2), 168, 170(h), title IV, §430(b), Feb. 5, 1988, 101 Stat. 1864, 1867, 1920.)
+(Pub. L. 89–117, title I, §101, Aug. 10, 1965, 79 Stat. 451; Pub. L. 90–19, §22(a), (c), May 25, 1967, 81 Stat. 26; Pub. L. 90–448, title II, §§201(e), 202, title XI, §1106(b), Aug. 1, 1968, 82 Stat. 502, 503, 567; Pub. L. 91–152, title I, §112, Dec. 24, 1969, 83 Stat. 383; Pub. L. 91–609, title I, §§103, 114\[115\](c), 118(b), 120(a), (b), Dec. 31, 1970, 84 Stat. 1771, 1774, 1775; Pub. L. 96–153, title II, §203(a), Dec. 21, 1979, 93 Stat. 1106; Pub. L. 96–399, Oct. 8, 1980, title II, §205, 94 Stat. 1630; Pub. L. 97–35, title III, §§322(g), 327, Aug. 13, 1981, 95 Stat. 403, 407; Pub. L. 98–181, title II, §§203(b)(3), 219, Nov. 30, 1983, 97 Stat. 1178, 1187; Pub. L. 98–479, title I, §102(d), title II, §204(e), Oct. 17, 1984, 98 Stat. 2222, 2233; Pub. L. 100–242, title I, §§167(a)(2), 168, 170(h), title IV, §430(b), Feb. 5, 1988, 101 Stat. 1864, 1867, 1920; Pub. L. 104–99, title IV, §402(d)(5), Jan. 26, 1996, 110 Stat. 42.)
 
 #### References in Text
 
@@ -91,6 +91,8 @@ Subsecs. (f) and (i) of this section amended sections 1451(c) and 1465(c)(2) of 
 Section was enacted as part of the Housing and Urban Development Act of 1965, and not as part of the National Housing Act which comprises this chapter.
 
 #### Amendments
+
+1996—Subsec. (k). Pub. L. 104–99 temporarily substituted “\[Reserved.\]” for the text of subsec. (k). See Effective and Termination Dates of 1996 Amendment note below.
 
 1988—Subsec. (e)(1). Pub. L. 100–242, §168(1), struck out provisions authorizing the Secretary to issue, upon the request of a housing owner, certificates of facts concerning individuals and families applying for admission to, or residing in, dwellings of such owner.
 
@@ -128,7 +130,7 @@ Subsec. (d). Pub. L. 96–153, §203(a)(2), struck out provisions that in determ
 
 Subsec. (e)(1)(B). Pub. L. 96–153, §203(a)(3), substituted “occupying substandard housing or was involuntarily displaced at the time it was seeking assistance under this section” for “displaced by governmental action, is elderly, is physically handicapped, or is (or was) occupying substandard housing or housing extensively damaged or destroyed as the result of a natural disaster”.
 
-Subsecs. (k), (<i>l</i>). Pub. L. 96–153, §203(a)(4), added subsecs. (k) and (<i>l).</i>
+Subsecs. (k), (<i>l</i>). Pub. L. 96–153, §203(a)(4), added subsecs. (k) and (<i>l</i>).
 
 1970—Subsec. (a). Pub. L. 91–609, §103, increased maximum amount of payments by $40,000,000 on July 1, 1971.
 
@@ -157,6 +159,10 @@ Subsec. (j)(1)(D). Pub. L. 90–448, §201(e)(3), inserted subpar. (D).
 Subsec. (a). Pub. L. 90–19, §22(c)(1), substituted “Secretary of Housing and Urban Development (hereinafter referred to as the ‘Secretary’)” for “Housing and Home Finance Administrator (hereinafter referred to as the ‘Administrator’)”.
 
 Subsec. (g). Pub. L. 90–19, §22(c)(2), consolidated in the Secretary of Housing and Urban Development the authorities of the Federal Housing Commissioner and the Housing and Home Finance Administrator with respect to housing assisted under sections 1715<i>l</i>(d)(3) and 1715v(c)(3), and section 1701q of this title, respectively.
+
+#### Effective and Termination Dates of 1996 Amendment
+
+Amendment by Pub. L. 104–99 effective Jan. 26, 1996, and only for fiscal year 1996, see section 402(f) of Pub. L. 104–99, set out as a note under section 1437a of Title 42, The Public Health and Welfare.
 
 #### Effective Date of 1981 Amendment
 

@@ -38,7 +38,7 @@
 
 (d) Whenever any person, who is designated by law or regulation to accept service of process to which an agency is subject under this section, is effectively served with any such process or with interrogatories, such person shall respond thereto within thirty days (or within such longer period as may be prescribed by applicable State law) after the date effective service thereof is made, and shall, as soon as possible but not later than fifteen days after the date effective service is made, send written notice that such process has been so served (together with a copy thereof) to the affected employee at his or her duty station or last-known home address.
 
-(e) No employee whose duties include responding to interrogatories pursuant to requirementsimposed by this section shall be subject to any disciplinary action or civil or criminal liability or penalty for, or on account of, any disclosure of information made by such employee in connection with the carrying out of any of such employee's duties which pertain directly or indirectly to the answering of any such interrogatory.
+(e) No employee whose duties include responding to interrogatories pursuant to requirements imposed by this section shall be subject to any disciplinary action or civil or criminal liability or penalty for, or on account of, any disclosure of information made by such employee in connection with the carrying out of any of such employee's duties which pertain directly or indirectly to the answering of any such interrogatory.
 
 (f) Agencies affected by legal process under this section shall not be required to vary their normal pay and disbursement cycles in order to comply with any such legal process.
 
@@ -46,9 +46,9 @@
 
 (h)(1) Subject to the provisions of paragraph (2), if an agency is served under this section with more than one legal process with respect to the same payments due or payable to an employee, then such payments shall be available, subject to section 303 of the Consumer Credit Protection Act (15 U.S.C. 1673), to satisfy such processes in priority based on the time of service, with any such process being satisfied out of such amounts as remain after satisfaction of all such processes which have been previously served.
 
-(2) A legal process to which an agency is subject under sections 459, 461, and 462 of the Social Security Act (42 U.S.C. 659, 661, and 662) for the enforcement of the employee's legal obligation to provide child support or make alimony payments, shall have priority over any legal process to which an agency is subject under this section.
+(2) A legal process to which an agency is subject under section 459 of the Social Security Act (42 U.S.C. 659) for the enforcement of the employee's legal obligation to provide child support or make alimony payments, shall have priority over any legal process to which an agency is subject under this section.
 
-(i) The provisions of this section shall not modify or supersede the provisions of sections 459, 461, and 462 of the Social Security Act (42 U.S.C. 659, 661, and 662) concerning legal process brought for the enforcement of an individual's legal obligations to provide child support or make alimony payments.
+(i) The provisions of this section shall not modify or supersede the provisions of section 459 of the Social Security Act (42 U.S.C. 659) concerning legal process brought for the enforcement of an individual's legal obligations to provide child support or make alimony payments.
 
 (j)(1) Regulations implementing the provisions of this section shall be promulgated—
 
@@ -58,7 +58,7 @@
 
 &emsp;(C) by the Chief Justice of the United States or his designee for the judicial branch of the Government.
 
-(2) Such regulations shall provide that an agency's administrative costs in executing a garnishment action may be added to the garnishment, and that the agency may retain costs recovered as offsetting collections.
+(2) Such regulations shall provide that an agency's administrative costs incurred in executing legal process to which the agency is subject under this section shall be deducted from the amount withheld from the pay of the employee concerned pursuant to the legal process.
 
 (k)(1) No later than 180 days after the date of the enactment of this Act, the Secretaries of the Executive departments concerned shall promulgate regulations to carry out the purposes of this section with regard to members of the uniformed services.
 
@@ -68,15 +68,33 @@
 
 &emsp;(B) consideration for the absence of a member of the uniformed service from an appearance in a judicial proceeding resulting from the exigencies of military duty.
 
-(3) The Secretaries of the Executive departments concerned shall promulgate regulations under this subsection that are, as far as practicable, uniform for all of the uniformed services. The Secretary of Defense shall consult with the Secretary of Transportation with regard to the promulgation of such regulations that might affect members of the Coast Guard when the Coast Guard is operating as a service in the Navy.
+(3) Regulations under this subsection may also provide that the administrative costs incurred in establishing and maintaining an involuntary allotment be deducted from the amount withheld from the pay of the member of the uniformed services concerned pursuant to such regulations.
 
-(Added Pub. L. 103–94, §9(a), Oct. 6, 1993, 107 Stat. 1007.)
+(4) The Secretaries of the Executive departments concerned shall promulgate regulations under this subsection that are, as far as practicable, uniform for all of the uniformed services. The Secretary of Defense shall consult with the Secretary of Transportation with regard to the promulgation of such regulations that might affect members of the Coast Guard when the Coast Guard is operating as a service in the Navy.
+
+(<i>l</i>) The amount of an agency's administrative costs deducted under regulations prescribed pursuant to subsection (j)(2) or (k)(3) shall be credited to the appropriation, fund, or account from which such administrative costs were paid.
+
+(Added Pub. L. 103–94, §9(a), Oct. 6, 1993, 107 Stat. 1007; amended Pub. L. 104–106, div. A, title VI, §643, Feb. 10, 1996, 110 Stat. 368; Pub. L. 104–193, title III, §362(b)(2), Aug. 22, 1996, 110 Stat. 2246.)
 
 #### References in Text
 
 The date of the enactment of this Act, referred to in subsec. (k)(1), probably means the date of enactment of Pub. L. 103–94, which enacted this section and was approved Oct. 6, 1993.
 
-The Soldiers’ and Sailors’ Relief Act of 1940, referred to in subsec. (k)(2)(A), is act Oct. 17, 1940, ch. 888, 54 Stat. 1178, as amended, which is classified to section 501 et seq. of Title 50, App., War and National Defense. For complete classification of this Act to the Code, see section 501 of Title 50, App., and Tables.
+The Soldiers’ and Sailors’ Relief Act of 1940, referred to in subsec. (k)(2)(A), is act Oct. 17, 1940, ch. 888, 54 Stat. 1178, as amended, which is classified to section 501 et seq. of Title 50, Appendix, War and National Defense. For complete classification of this Act to the Code, see section 501 of Title 50, Appendix, and Tables.
+
+#### Amendments
+
+1996—Subsecs. (h)(2), (i). Pub. L. 104–193 substituted “section 459 of the Social Security Act (42 U.S.C. 659)”for “sections 459, 461, and 462 of the Social Security Act (42 U.S.C. 659, 661, and 662)”.
+
+Subsec. (j)(2). Pub. L. 104–106, §643(a), added par. (2) and struck out former par. (2) which read as follows: “Such regulations shall provide that an agency's administrative costs in executing a garnishment action may be added to the garnishment, and that the agency may retain costs recovered as offsetting collections.”
+
+Subsec. (k)(3), (4). Pub. L. 104–106, §643(b), added par. (3) and redesignated former par. (3) as (4).
+
+Subsec. (<i>l</i>). Pub. L. 104–106, §643(c), added subsec. (<i>l</i>).
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–193 effective six months after Aug. 22, 1996, see section 362(d) of Pub. L. 104–193, set out as a note under section 659 of Title 42, The Public Health and Welfare.
 
 #### Effective Date; Savings Provision
 
@@ -96,5 +114,5 @@ William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 39 section 410.
+This section is referred to in title 22 section 3612a; title 39 section 410.
 

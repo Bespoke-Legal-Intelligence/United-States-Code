@@ -14,9 +14,9 @@ Subject to the limitations hereinafter provided, the Secretary of the Treasury i
 
 Payments made pursuant to this subchapter shall be made only to the person or persons on behalf of whom the award is made, except that—
 
-&emsp;(1) if any person to whom any payment is to be made pursuant to this subchapter is deceased or is under a legal disability, payment shall be made to his legal representative, except that if any payment to be made is not over $1,000 and there is no qualified executor or administrator, payment may be made to the person or persons found by the Comptroller General to be entitled thereto, without the necessity of compliance with the requirements of law with respect to the administration of estates;
+&emsp;(1) if any person to whom any payment is to be made pursuant to this subchapter is deceased or is under a legal disability, payment shall be made to his legal representative, except that if any payment to be made is not over $1,000 and there is no qualified executor or administrator, payment may be made to the person or persons found by the Secretary of the Treasury to be entitled thereto, without the necessity of compliance with the requirements of law with respect to the administration of estates;
 
-&emsp;(2) in the case of a partnership or corporation, the existence of which has been terminated and on behalf of which an award is made, payment shall be made, except as provided in paragraphs (3) and (4) of this subsection, to the person or persons found by the Comptroller General of the United States to be entitled thereto;
+&emsp;(2) in the case of a partnership or corporation, the existence of which has been terminated and on behalf of which an award is made, payment shall be made, except as provided in paragraphs (3) and (4) of this subsection, to the person or persons found by the Secretary of the Treasury to be entitled thereto;
 
 &emsp;(3) if a receiver or trustee for any such partnership or corporation has been duly appointed by a court of competent jurisdiction in the United States and has not been discharged prior to the date of payment, payment shall be made to such receiver or trustee in accordance with the order of the court;
 
@@ -26,7 +26,7 @@ Payments made pursuant to this subchapter shall be made only to the person or pe
 
 #### (d) Erroneous payments as bar to further recovery
 
-Whenever the Secretary of the Treasury, or the Comptroller General of the United States, as the case may be, shall find that any person is entitled to any such payment, after such payment shall have been received by such person, it shall be an absolute bar to recovery by any other person against the United States, its officers, agents, or employees with respect to such payment.
+Whenever the Secretary of the Treasury shall find that any person is entitled to any such payment, after such payment shall have been received by such person, it shall be an absolute bar to recovery by any other person against theUnited States, its officers, agents, or employees with respect to such payment.
 
 #### (e) Acquiescence in conditions of subchapter
 
@@ -36,9 +36,17 @@ Any person who makes application for any such payment shall be held to have cons
 
 Nothing in this subchapter shall be construed as the assumption of any liability by the United States for the payment or satisfaction, in whole or in part, of any claim on behalf of any national of the United States against any foreign government.
 
-(Mar. 10, 1950, ch. 54, title I, §7, 64 Stat. 16; Aug. 8, 1953, ch. 396, §2, 67 Stat. 506; Aug. 9, 1955, ch. 645, §§1, 2, 69 Stat. 562; July 24, 1968, Pub. L. 90–421, §1(2), (3), 82 Stat. 420.)
+(Mar. 10, 1950, ch. 54, title I, §7, 64 Stat. 16; Aug. 8, 1953, ch. 396, §2, 67 Stat. 506; Aug. 9, 1955, ch. 645, §§1, 2, 69 Stat. 562; July 24, 1968, Pub. L. 90–421, §1(2), (3), 82 Stat. 420; Oct. 19, 1996, Pub. L. 104–316, title II, §202(h), 110 Stat. 3842.)
+
+#### References to This Subchapter Deemed To Include Section 119 of H.R. 2076
+
+References to this subchapter deemed to include section 119 of H.R. 2076, see section 119(b) of H.R. 2076, as enacted into law by Pub. L. 104–91, set out as an Authority of Foreign Claims Settlement Commission note under section 1644 of this title.
 
 #### Amendments
+
+1996—Subsec. (c)(1), (2). Pub. L. 104–316, §202(h)(1), substituted “Secretary of the Treasury” for “Comptroller General” in par. (1) and “Secretary of the Treasury” for “Comptroller General of the United States” in par. (2).
+
+Subsec. (d). Pub. L. 104–316, §202(h)(2), struck out “, or the Comptroller General of the United States, as the case may be,” after “Secretary of the Treasury”.
 
 1968—Subsec. (b). Pub. L. 90–421, §1(2), designated existing provisions as par. (1) and added par. (2).
 
@@ -49,10 +57,6 @@ Subsec. (c)(1). Pub. L. 90–421, §1(3), substituted “any person to whom any 
 Act Aug. 9, 1955, §2, substituted “subchapter” for “chapter”.
 
 1953—Subsec. (b). Act Aug. 8, 1953, increased the amount deductible to cover expenses from 3 to 5 percent.
-
-#### Transfer of Functions
-
-Functions of Comptroller General under this section transferred, effective June 30, 1996, to Director of Office of Management and Budget, see section 211 of Pub. L. 104–53, set out as a note under section 501 of Title 31, Money and Finance.
 
 #### Abolition of International Claims Commission and Transfer of Functions
 

@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—Under such regulations and at such prices as the Secretary of the Navy mayprescribe, the Secretary may provide for the sale of goods and services from ships’ stores to members of the naval service and to such other persons as provided by law.
+In General.—Under such regulations and at such prices as the Secretary of the Navy may prescribe, the Secretary may provide for the sale of goods and services from ships’ stores to members of the naval service and to such other persons as provided by law.
 
 (b)
 
@@ -34,7 +34,7 @@ Items Sold.—Merchandise sold by ship stores afloat shall include items in the 
 
 &emsp;(11) Tobacco products.
 
-(Added Pub. L. 101–510, div. A, title III, §329(a)(1), Nov. 5, 1990, 104 Stat. 1534; amended Pub. L. 103–160, div. A, title III, §371(c), Nov. 30, 1993, 107 Stat. 1635.)
+(Added Pub. L. 101–510, div. A, title III, §329(a)(1), Nov. 5, 1990, 104 Stat. 1534; amended Pub. L. 103–160, div. A, title III, §371(a), formerly §371(c), Nov. 30, 1993, 107 Stat. 1635, renumbered §371(a), Pub. L. 104–106, div. A, title III, §340(a)(2), Feb. 10, 1996, 110 Stat. 265.)
 
 #### Prior Provisions
 
@@ -46,7 +46,7 @@ A prior section 7604, acts Aug. 10, 1956, ch. 1041, 70A Stat. 471; Nov. 2, 1966,
 
 #### Effective Date of 1993 Amendment
 
-Section 371(d) of Pub. L. 103–160, as amended by Pub. L. 103–337, div. A, title III, §374(b), Oct. 5, 1994, 108 Stat. 2736, provided that: “Subsections (b) and (c) of section 7604 of title 10, United States Code, as added by subsection (c), shall take effect on October 1, 1994.”
+Section 371(b), formerly section 371(d) of Pub. L. 103–160, renumbered §371(b) by Pub. L. 104–106, div. A, title III, §340(a)(2), Feb. 10, 1996, 110 Stat. 265; as amended by Pub. L. 103–337, div. A, title III, §374(b), Oct. 5, 1994, 108 Stat. 2736, provided that: “Subsections (b) and (c) of section 7604 of title 10, United States Code, as added by subsection (c) \[now (a)\], shall take effect on October 1, 1994.”
 
 #### Regulations
 
@@ -54,17 +54,5 @@ Section 329(a)(3) of Pub. L. 101–510 provided that: “The regulations require
 
 #### Conversion of Ships’ Stores to Operation as Nonappropriated Fund Instrumentalities; Transfer of Funds
 
-Section 371(a), (b) of Pub. L. 103–160, as amended by Pub. L. 103–337, div. A, title III, §374(a), Oct. 5, 1994, 108 Stat. 2736, provided that:
-
-“(a)
-
-Conversion to Operation as Nonappropriated Fund Instrumentalities.—Not later than December 31, 1995, the Secretary of the Navy shall convert the operation of all ships’ stores from operation as an activity funded by direct appropriations to operation by the Navy Exchange Service Command as an activity funded from sources other than appropriated funds.
-
-“(b)
-
-Transfer of Funds.—To facilitate the conversion required under subsection (a), the Secretary of the Navy shall transfer to the Navy Exchange Service Command, without cost to the Navy Exchange Service Command, from—
-
-&emsp;“(1) the Navy Stock Fund, an amount equal to the value of existing ships’ stores assets in that Fund; and
-
-&emsp;“(2) the Ships’ Stores Profits, Navy Fund, residual cash in that Fund.”
+Section 371(a), (b) of Pub. L. 103–160, as amended by Pub. L. 103–337, div. A, title III, §374(a), Oct. 5, 1994, 108 Stat. 2736, provided that not later than Dec. 31, 1995, Secretary of the Navy was to convert operation of all ships’ stores from operation as activity funded by direct appropriations to operation by Navy Exchange Service Command as activity funded from sources other than appropriated funds, prior to repeal by Pub. L. 104–106, div. A, title III, §340(a)(1), Feb. 10, 1996, 110 Stat. 265.
 

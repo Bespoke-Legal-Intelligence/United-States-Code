@@ -46,5 +46,5 @@ Section 10714(e) of Pub. L. 100–203 provided that: “The amendments made by t
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 6501, 6511, 7454 of this title.
+This section is referred to in sections 6033, 6501, 6511, 7454 of this title.
 

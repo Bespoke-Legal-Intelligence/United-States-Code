@@ -16,10 +16,13 @@
 | [3292\.](%C2%A7%2003292%20-%20Suspension%20of%20limitations%20to%20permit%20United%20States%20to%20obtain%20foreign%20evidence.md) | Suspension of limitations to permit United States to obtain foreign evidence. |
 | [3293\.](%C2%A7%2003293%20-%20Financial%20institution%20offenses.md) | Financial institution offenses. |
 | [3294\.](%C2%A7%2003294%20-%20Theft%20of%20major%20artwork.md) | Theft of major artwork. |
+| [3295\.](%C2%A7%2003295%20-%20Arson%20offenses.md) | Arson offenses. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1996—Pub. L. 104–132, title VII, §708(c)(2), Apr. 24, 1996, 110 Stat. 1297, added item 3295.
 
 1994—Pub. L. 103–322, title XII, §120001(c), title XXXII, §320902(d)(2), title XXXIII, §330018(c), Sept. 13, 1994, 108 Stat. 2021, 2124, 2149, substituted “Child abuse offenses” for “Customs and slave trade violations” in item 3283 and added items 3286 and 3294.
 
@@ -52,3 +55,4 @@
 - [&sect; 03292 - Suspension of limitations to permit United States to obtain foreign evidence](%C2%A7%2003292%20-%20Suspension%20of%20limitations%20to%20permit%20United%20States%20to%20obtain%20foreign%20evidence.md)
 - [&sect; 03293 - Financial institution offenses](%C2%A7%2003293%20-%20Financial%20institution%20offenses.md)
 - [&sect; 03294 - Theft of major artwork](%C2%A7%2003294%20-%20Theft%20of%20major%20artwork.md)
+- [&sect; 03295 - Arson offenses](%C2%A7%2003295%20-%20Arson%20offenses.md)

@@ -38,7 +38,7 @@ In order to receive a grant under this subpart, a State shall submit an applicat
 
 #### References in Text
 
-The Elementary and Secondary Education Act of 1965, referred to in subsec. (b), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended generally by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519. Part A of title I of the Act is classified generally to part A (§6311 et seq.) of subchapter I of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in subsec. (b), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended generally by Pub. L.103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519. Part A of title I of the Act is classified generally to part A (§6311 et seq.) of subchapter I of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
 
 #### Prior Provisions
 

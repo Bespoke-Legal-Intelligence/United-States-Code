@@ -84,7 +84,7 @@ This section and section 501(c)(20) shall not apply to taxable years beginning a
 
 #### Prior Provisions
 
-A prior section 120, act Aug. 16, 1954, ch. 736, 68A Stat. 39, related to statutory subsistence allowance receivedby police, prior to repeal by Pub. L. 85–866, title I, §3(a), (c), Sept. 2, 1958, 72 Stat. 1607, effective with respect to taxable years ending after Sept. 30, 1958, but only with respect to amounts received as a statutory subsistence allowance for any day after Sept. 30, 1958.
+A prior section 120, act Aug. 16, 1954, ch. 736, 68A Stat. 39, related to statutory subsistence allowance received by police, prior to repeal by Pub. L. 85–866, title I, §3(a), (c), Sept. 2, 1958, 72 Stat. 1607, effective with respect to taxable years ending after Sept. 30, 1958, but only with respect to amounts received as a statutory subsistence allowance for any day after Sept. 30, 1958.
 
 #### Amendments
 
@@ -198,7 +198,7 @@ Compliance date.—For purposes of this paragraph, the term ‘compliance date�
 
 &emsp;&emsp;&emsp;“(i) the date occurring 180 days after the date of the enactment of this Act \[Oct. 4, 1976\], or
 
-&emsp;&emsp;&emsp;“(ii) if later, in the case of a plan which is maintained pursuant to one or more agreements which the Secretary of Labor finds to be collective bargaining agreements, the earlier of December 31, 1981, or the date on which the last of the collective bargaining agreements relating to the plan terminates (determined without regard to any extension thereof agreed to after the date of the enactment of this Act \[Oct. 4, 1976\]).”
+&emsp;&emsp;&emsp;“(ii) if later, in the case of a plan which is maintained pursuant to one or more agreementswhich the Secretary of Labor finds to be collective bargaining agreements, the earlier of December 31, 1981, or the date on which the last of the collective bargaining agreements relating to the plan terminates (determined without regard to any extension thereof agreed to after the date of the enactment of this Act \[Oct. 4, 1976\]).”
 
 #### Regulations
 

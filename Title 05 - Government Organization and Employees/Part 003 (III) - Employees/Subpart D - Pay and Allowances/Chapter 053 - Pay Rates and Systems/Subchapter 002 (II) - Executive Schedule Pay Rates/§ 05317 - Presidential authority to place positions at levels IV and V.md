@@ -12,7 +12,9 @@ Act
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 5 U.S.C. 2211(f).
 
@@ -28,7 +30,7 @@ The amendment to 5 U.S.C. 5317 conforms to the style of title 5.
 
 #### Amendments
 
-<b>1966</b>—Pub. L. 89–670 increased from thirty to thirty-four the number of additional level IV and V positions authorized when necessary.
+1966—Pub. L. 89–670 increased from thirty to thirty-four the number of additional level IV and V positions authorized when necessary.
 
 #### Effective Date of 1966 Amendment
 

@@ -1,6 +1,6 @@
 ### §§252 to 254. Repealed. Pub. L. 95–393, §3(a)(1), Sept. 30, 1978, 92 Stat. 808
 
-Section 252, R.S. §4063, related to the immunity of any ambassador or public minister of any foreign prince or State, or any domestic or domestic servant ofany such minister against arrest, imprisonment, or seizure of his goods or chattels.
+Section 252, R.S. §4063, related to the immunity of any ambassador or public minister of any foreign prince or State, or any domestic or domestic servant of any such minister against arrest, imprisonment, or seizure of his goods or chattels.
 
 Section 253, R.S. §4064, related to imprisonment for not more than three years of anyone suing out a writ or process in violation of the provisions of former section 252 of this title, granting diplomatic immunity to certain persons.
 

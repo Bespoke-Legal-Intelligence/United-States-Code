@@ -36,7 +36,7 @@ The Secretary may not make a grant under this part unless the applicant for the 
 
 #### (d) Maintenance of support
 
-The Secretary may not make a grant under this part unless the applicant for the grant agrees to maintain the expenditures of the applicant for early intervention services at a level equal to not less than the level of such expenditures maintained by the State for the fiscal year preceding the fiscal year for which the applicant is applying to receive the grant.
+The Secretary may not make a grant under this part unless the applicant for the grantagrees to maintain the expenditures of the applicant for early intervention services at a level equal to not less than the level of such expenditures maintained by the State for the fiscal year preceding the fiscal year for which the applicant is applying to receive the grant.
 
 #### (e) Requirements regarding imposition of charges for services
 
@@ -98,15 +98,27 @@ The Secretary may not make a grant under this part unless the applicant for the 
 
 &emsp;(1) the applicant will not expend amounts received pursuant to this part for any purpose other than the purposes described in the subpart under which the grant involved is made;
 
-&emsp;(2) the applicant will establish such procedures for fiscal control and fund accounting as may be necessary to ensure proper disbursement and accounting with respect to the grant; and
+&emsp;(2) the applicant will establish such procedures for fiscal control and fund accounting as may be necessary to ensure proper disbursement and accounting with respect to the grant;
 
-&emsp;(3) the applicant will not expend more than 5 percent of the grant for administrative expenses with respect to the grant.
+&emsp;(3) the applicant will not expend more than 7.5 percent including planning and evaluation of the grant for administrative expenses with respect to the grant; and
+
+&emsp;(4) the applicant will submit evidence that the proposed program is consistent with thestatewide coordinated statement of need and agree to participate in the ongoing revision of such statement of need.
 
 #### (h) Construction
 
 A State may not use amounts received under a grant awarded under section 300ff–41 of this title to purchase or improve land, or to purchase, construct, or permanently improve (other than minor remodeling) any building or other facility, or to make cash payments to intended recipients of services.
 
-(July 1, 1944, ch. 373, title XXVI, §2664, as added Aug. 18, 1990, Pub. L. 101–381, title III, §301(a), 104 Stat. 611.)
+(July 1, 1944, ch. 373, title XXVI, §2664, as added Aug. 18, 1990, Pub. L. 101–381, title III, §301(a), 104 Stat. 611; amended May 20, 1996, Pub. L. 104–146, §3(d)(5), 110 Stat. 1358.)
+
+#### Amendments
+
+1996—Subsec. (g)(3). Pub. L. 104–146, §3(d)(5)(B)(i), substituted “7.5 percent including planning and evaluation” for “5 percent”.
+
+Subsec. (g)(4). Pub. L. 104–146, §3(d)(5)(A), (B)(ii), (C), added par. (4).
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–146 effective Oct. 1, 1996, see section 13 of Pub. L. 104–146, set out as a note under section 300ff–11 of this title.
 
 #### Section Referred to in Other Sections
 

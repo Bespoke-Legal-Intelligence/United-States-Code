@@ -2,11 +2,11 @@
 
 #### (a) Time for commencement
 
-No compensation shall be allowed for the first three days of the disability, except the benefits provided for in section 907 of this title: <i>Provided, however,</i> That in case the injury results in disability of more than fourteen days the compensation shall be allowed from the date of the disability.
+No compensation shall be allowed for the first three days of the disability, except the benefits provided for in section 907 of this title: <i>Provided, however</i>, That in case the injury results in disability of more than fourteen days the compensation shall be allowed from the date of the disability.
 
 #### (b) Maximum rate of compensation
 
-(1) Compensation for disability or death (other than compensation for death required by this chapter to be paid in a lump sum) shall not exceed an amount equal to 200 per centum of the applicable national average weekly wage, as determined by the Secretary under paragraph (3).
+(1) Compensation for disability or death (other than compensation for death required by thischapter to be paid in a lump sum) shall not exceed an amount equal to 200 per centum of the applicable national average weekly wage, as determined by the Secretary under paragraph (3).
 
 (2) Compensation for total disability shall not be less than 50 per centum of the applicable national average weekly wage determined by the Secretary under paragraph (3), except that if the employee's average weekly wages as computed under section 910 of this title are less than 50 per centum of such national average weekly wage, he shall receive his average weekly wages as compensation for total disability.
 
@@ -50,7 +50,7 @@ Section 4 of Pub. L. 87–87 provided that: “The amendments made by the forego
 
 #### Effective Date of 1956 Amendment
 
-Section 9 of act July 26, 1956, provided that: “The amendments made by the first section and sections 2,4, and 5 of this Act \[amending this section and sections 908, 909, and 914 of this title\] shall be applicable only with respect to injuries and death occurring on or after the date of enactment of this Act \[July 26, 1956\] notwithstanding the provisions of the Act of December 2, 1942, as amended (42 U.S.C. sec. 1701 et seq.).”
+Section 9 of act July 26, 1956, provided that: “The amendments made by the first section and sections 2, 4, and 5 of this Act \[amending this section and sections 908, 909, and 914 of this title\] shall be applicable only with respect to injuries and death occurring on or after the date of enactment of this Act \[July 26, 1956\] notwithstanding the provisions of the Act of December 2, 1942, as amended (42 U.S.C. sec. 1701 et seq.).”
 
 #### Effective Date of 1948 Amendment
 

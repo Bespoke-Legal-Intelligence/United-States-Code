@@ -1,5 +1,5 @@
 
-30 U.S.C.<br>United States Code, 1995 Edition<br>Title 30 - MINERAL LANDS AND MINING<br>From the U.S. Government Publishing Office, www.gpo.gov
+30 U.S.C.<br>United States Code, 1996 Edition<br>Title 30 - MINERAL LANDS AND MINING<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 30—MINERAL LANDS AND MINING
 
@@ -37,6 +37,7 @@
 | [<b>28.</b>](Chapter%20028%20-%20Materials%20and%20Minerals%20Policy%2C%20Research%2C%20and%20Development/README.md) | <b>Materials and Minerals Policy, Research, and Development</b> | <b>1601</b> |
 | [<b>29.</b>](Chapter%20029%20-%20Oil%20and%20Gas%20Royalty%20Management/README.md) | <b>Oil and Gas Royalty Management</b> | <b>1701</b> |
 | [<b>30.</b>](Chapter%20030%20-%20National%20Critical%20Materials%20Council/README.md) | <b>National Critical Materials Council</b> | <b>1801</b> |
+| [<b>31.</b>](Chapter%20031%20-%20Marine%20Mineral%20Resources%20Research/README.md) | <b>Marine Mineral Resources Research</b> | <b>1901</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -75,3 +76,4 @@
 - [Chapter 028 - Materials and Minerals Policy, Research, and Development](Chapter%20028%20-%20Materials%20and%20Minerals%20Policy%2C%20Research%2C%20and%20Development/README.md)
 - [Chapter 029 - Oil and Gas Royalty Management](Chapter%20029%20-%20Oil%20and%20Gas%20Royalty%20Management/README.md)
 - [Chapter 030 - National Critical Materials Council](Chapter%20030%20-%20National%20Critical%20Materials%20Council/README.md)
+- [Chapter 031 - Marine Mineral Resources Research](Chapter%20031%20-%20Marine%20Mineral%20Resources%20Research/README.md)

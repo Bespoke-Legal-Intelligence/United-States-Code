@@ -1,8 +1,12 @@
 ### SUBCHAPTER V–A—RADIO BROADCASTING TO CUBA
 
+#### Repeal of Subchapter
+
+<i>Subchapter repealed upon transmittal of determination by President under section 6063(c)(3) of this title that democratically elected government in Cuba is in power, see section 6037(c) of this title.</i>
+
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in section 6204 of this title.
+This subchapter is referred to in sections 6037, 6204 of this title.
 
 
 ---

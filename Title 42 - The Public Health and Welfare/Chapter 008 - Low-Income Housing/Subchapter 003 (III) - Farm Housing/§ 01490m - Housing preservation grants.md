@@ -22,7 +22,7 @@ Preservation programs assisted under this section shall—
 
 &emsp;(4) be used to provide loans or grants to owners of rental housing, except that rental rehabilitation or replacement assistance provided under this subsection for any structure shall not exceed 75 per centum of the total costs associated with the rehabilitation or replacement of that structure;
 
-&emsp;(5) be used to provide other comparable assistance that the Secretary deems appropriate to carry out the purpose of this section, designed to reduce the costs of such repair, rehabilitation, and replacement in order to make such housing affordable by persons of low income and, to the extent feasible, by persons and families whose incomes do not exceed 50 per centum of the area median income;
+&emsp;(5) be used to provide other comparable assistance that the Secretary deems appropriate to carry out the purpose of this section, designed to reduce the costs of such repair, rehabilitation, and replacement in order to make such housing affordable by persons of low income and, to the extent feasible, by personsand families whose incomes do not exceed 50 per centum of the area median income;
 
 &emsp;(6) benefit low- and very low-income persons and families in rural areas, without causing the displacement of current residents; and
 
@@ -82,7 +82,7 @@ Preservation programs assisted under this section shall—
 
 (1) Assistance under this section may be provided with respect to rental or cooperative housing only if—
 
-&emsp;(A) the owner has entered into such agreements with the Secretary as may be necessaryto assure compliance with the requirements of this section, to assure the financial feasibility of such housing, and to carry out the other provisions of this section;
+&emsp;(A) the owner has entered into such agreements with the Secretary as may be necessary to assure compliance with the requirements of this section, to assure the financial feasibility of such housing, and to carry out the other provisions of this section;
 
 &emsp;(B) the owner agrees—
 
@@ -190,5 +190,5 @@ Section 311 of Pub. L. 100–242, as amended by Pub. L. 100–628, title X, §10
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1437f, 1439, 1479, 1483, 1490r, 4851b of this title.
+This section is referred to in sections 1437f, 1439, 1479, 1483, 1490r, 4851b of this title; title 7 section 2204f.
 

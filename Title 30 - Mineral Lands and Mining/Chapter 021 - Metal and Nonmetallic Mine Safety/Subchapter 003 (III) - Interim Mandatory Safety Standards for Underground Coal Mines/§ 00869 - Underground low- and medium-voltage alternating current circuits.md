@@ -14,7 +14,7 @@ Six months after the operative date of this subchapter, low- and medium-voltage 
 
 #### (d) Disconnecting devices installed in conjunction with circuit breakers; purpose; trailing cables for mobile equipment; guidelines for construction; time extension; splices
 
-Disconnecting devices shall be installed in conjunction with the circuit breaker to provide visual evidence that the power is disconnected. Trailing cables for mobile equipment shall contain one or more ground conductors having a cross sectional area of not less than one-half the power conductor, and, six months after the operative date of this subchapter, an insulated conductor for the ground continuity check circuit or other no less effective device approved by the Secretary or his authorized representative to assure such continuity, except that an extension of time, not in excess of twelve months may be permitted by the Secretary on a mine-by-mine basis if he determines that such equipment is not available. Splices made in the cables shall provide continuity of all components.
+Disconnecting devices shall be installed in conjunction with the circuit breaker to provide visual evidence that the power is disconnected. Trailing cables for mobile equipment shall contain one or more ground conductors having a cross sectional area of not less than one-half the power conductor, and, six months after the operative date of this subchapter, an insulated conductor for the ground continuity check circuit or other no less effective device approved by the Secretary or his authorized representative to assure such continuity, except that an extension of time, not in excess of twelve months may be permitted by the Secretary on a mine-by-mine basis if he determines that such equipment isnot available. Splices made in the cables shall provide continuity of all components.
 
 #### (e) Connections of single phase loads
 
@@ -26,7 +26,7 @@ Circuit breakers shall be marked for identification.
 
 #### (g) Trailing cables for medium voltage circuits; guidelines for construction
 
-Trailing cables for medium voltage circuits shall include grounding conductors, a groundcheck conductor, and ground metallic shields around each power conductor or a grounded metallic shield over the assembly, except that on equipment employing cable reels, cables without shields may be used if the insulation is rated 2,000 volts or more.
+Trailing cables for medium voltage circuits shall include grounding conductors, a ground check conductor, and ground metallic shields around each power conductor or a grounded metallic shield over the assembly, except that on equipment employing cable reels, cables without shields may be used if the insulation is rated 2,000 volts or more.
 
 (Pub. L. 91–173, title III, §309, Dec. 30, 1969, 83 Stat. 782.)
 

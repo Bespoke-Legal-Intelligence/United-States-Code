@@ -2,7 +2,7 @@
 
 (a) There is hereby established in the Treasury of the United States a revolving fund known as the Guaranty and Indemnity Fund.
 
-(b) The Guaranty and Indemnity Fund shall be available to the Secretary for all operations carried out with respect to housing loans guaranteed or insured under this chapter that are closed after December 31, 1989, except for operations with respect to loans for any purpose specified in section 3712 of this title, for loans guaranteed under section 3711(g) of this title, and for administrative expenses. For purposes of this subsection, the term “administrative expenses” shall not include expenses incurred by the Secretary for appraisals performed after December 31, 1989, on a contractual basis in connection with the liquidation of housing loans guaranteed, insured, or made under this chapter.
+(b) The Guaranty and Indemnity Fund shall be available to the Secretary for all operations carried out with respect to housing loans guaranteed or insured under this chapter that are closed after December 31, 1989, except for operations with respect to loans for any purpose specified in section 3712 of this title, for loansguaranteed under section 3711(g) of this title, and for administrative expenses. For purposes of this subsection, the term “administrative expenses” shall not include expenses incurred by the Secretary for appraisals performed after December 31, 1989, on a contractual basis in connection with the liquidation of housing loans guaranteed, insured, or made under this chapter.
 
 (c)(1) All fees collected under section 3729 of this title for loans with respect to which the Guaranty and Indemnity Fund is available shall be credited to such Fund.
 
@@ -28,7 +28,7 @@
 
 (d)(1) The Secretary of the Treasury shall invest the portion of the Guaranty and Indemnity Fund that is not required to meet current payments made from such Fund, as determined by the Secretary of Veterans Affairs, in obligations of the United States or in obligations guaranteed as to principal and interest by the United States.
 
-(2) In making investments under paragraph (1) of this subsection, the Secretary of the Treasury shall select obligations having maturities suitable to the needs of the Guaranty and Indemnity Fund, as determined by the Secretary of Veterans Affairs, and bearing interest at suitablerates, as determined by the Secretary of the Treasury, taking into consideration current market yields on outstanding marketable obligations of the United States of comparable maturities.
+(2) In making investments under paragraph (1) of this subsection, the Secretary of the Treasury shall select obligations having maturities suitable to the needs of the Guaranty and Indemnity Fund, as determined by the Secretary of Veterans Affairs, and bearing interest at suitable rates, as determined by the Secretary of the Treasury, taking into consideration current market yields on outstanding marketable obligations of the United States of comparable maturities.
 
 (e)(1) Notwithstanding subsection (b) of this section, the Guaranty and Indemnity Fund shall be available to the Secretary, to such extent as is, or in such amounts as are, provided for in appropriation Acts and subject to paragraph (2) of this subsection, for—
 
@@ -66,7 +66,7 @@ Pub. L. 102–54, §15(a)(2)(B), added par. (3).
 
 Subsec. (e)(1)(A), (2). Pub. L. 102–83, §5(c)(1), substituted “3724(e)” for “1824(e)”.
 
-1989—Pub. L. 101–237 substituted “Guaranty and Indemnity Fund” for “Waiver of discharge requirements for hospitalized persons” in section catchline and amended text generally. Prior to amendment, text read as follows: “The benefits of this chapter may be afforded to any person who is hospitalized pending final discharge from active duty, if said person is qualified therefor in every respect except for discharge.”
+1989—Pub. L. 101–237 substituted “Guaranty and Indemnity Fund” for “Waiver of discharge requirementsfor hospitalized persons” in section catchline and amended text generally. Prior to amendment, text read as follows: “The benefits of this chapter may be afforded to any person who is hospitalized pending final discharge from active duty, if said person is qualified therefor in every respect except for discharge.”
 
 1976—Pub. L. 94–324 substituted “said person” for “he”.
 

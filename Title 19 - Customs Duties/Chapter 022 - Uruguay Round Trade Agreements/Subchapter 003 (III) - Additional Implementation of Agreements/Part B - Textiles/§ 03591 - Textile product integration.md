@@ -1,12 +1,12 @@
 ### §3591. Textile product integration
 
-Not later than 120 days after the date that the WTO Agreement, as defined in section 3501(9) <sup>1</sup> of this title, enters into force with respect to the United States, the Secretary of Commerce shall publish in the Federal Register a notice containing the list of products to be integrated in each stage set out in Article 2(8) of the Agreement on Textiles and Clothing referred to in section 3511(d)(4) of this title. After publication of such list, the list may not be changed unless otherwise required by statute or the international obligations of the United States, to correct technical errors, or to reflect reclassifications. Within 30 days after the publication of such list, the Trade Representative shall notify the list to the Textiles Monitoring Body established under Article 8 of the Agreement on Textiles and Clothing.
+Not later than 120 days after the date that the WTO Agreement enters into force with respect to the United States, the Secretary of Commerce shall publish in the Federal Register a notice containing the list of products to be integrated in each stage set out in Article 2(8) of the Agreement on Textiles and Clothing referred to in section 3511(d)(4) of this title. After publication of such list, the list may not be changed unless otherwise required by statute or the international obligations of the United States, to correct technical errors, or to reflect reclassifications. Within 30 days after the publication of such list, the Trade Representative shall notify the list to the Textiles Monitoring Body established under Article 8 of the Agreement on Textiles and Clothing.
 
-(Pub. L. 103–465, title III, §331, Dec. 8, 1994, 108 Stat. 4947.)
+(Pub. L. 103–465, title III, §331, Dec. 8, 1994, 108 Stat. 4947; Pub. L. 104–295, §20(c)(7), Oct. 11, 1996, 110 Stat. 3528.)
 
-#### References in Text
+#### Amendments
 
-Section 3501(9) of this title, referred to in text, was in the original “section 2(9) of the Uruguay Round Implementation Act”, and was translated as reading section 2(9) of the Uruguay Round Agreements Act, Pub. L. 103–465, to reflect the probable intent of Congress.
+1996—Pub. L. 104–295 struck out “, as defined in section 3501(9) of this title,” after “WTO Agreement”.
 
 #### Effective Date
 
@@ -19,6 +19,4 @@ The Uruguay Round Agreements, including the World Trade Organization Agreement a
 #### Section Referred to in Other Sections
 
 This section is referred to in section 2252 of this title.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

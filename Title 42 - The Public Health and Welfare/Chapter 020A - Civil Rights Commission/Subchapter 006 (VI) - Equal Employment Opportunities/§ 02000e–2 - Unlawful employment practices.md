@@ -18,7 +18,7 @@ It shall be an unlawful employment practice for a labor organization—
 
 &emsp;(1) to exclude or to expel from its membership, or otherwise to discriminate against, any individual because of his race, color, religion, sex, or national origin;
 
-&emsp;(2) to limit, segregate, or classify its membership or applicants for membership, or to classify or fail or refuse to refer for employment any individual, in any way which would deprive or tend to deprive any individual of employment opportunities, or would limit such employment opportunities or otherwise adversely affect his status as an employee or as an applicant for employment, because of such individual's race, color, religion, sex, or national origin; or
+&emsp;(2) to limit, segregate, or classify its membership or applicants for membership, or to classify or fail or refuse to refer for employment any individual, in any way which would deprive or tend to deprive any individual ofemployment opportunities, or would limit such employment opportunities or otherwise adversely affect his status as an employee or as an applicant for employment, because of such individual's race, color, religion, sex, or national origin; or
 
 &emsp;(3) to cause or attempt to cause an employer to discriminate against an individual in violation of this section.
 
@@ -38,7 +38,7 @@ As used in this subchapter, the phrase “unlawful employment practice” shall 
 
 Notwithstanding any other provision of this subchapter, it shall not be an unlawful employment practice for an employer to fail or refuse to hire and employ any individual for any position, for an employer to discharge any individual from any position, or for an employment agency to fail or refuse to refer any individual for employment in any position, or for a labor organization to fail or refuse to refer any individual for employment in any position, if—
 
-&emsp;(1) the occupancy of such position, or access to the premises in or upon which any part of the duties of such position is performed or isto be performed, is subject to any requirement imposed in the interest of the national security of the United States under any security program in effect pursuant to or administered under any statute of the United States or any Executive order of the President; and
+&emsp;(1) the occupancy of such position, or access to the premises in or upon which any part of the duties of such position is performed or is to be performed, is subject to any requirement imposed in the interest of the national security of the United States under any security program in effect pursuant to or administered under any statute of the United States or any Executive order of the President; and
 
 &emsp;(2) such individual has not fulfilled or has ceased to fulfill that requirement.
 
@@ -52,7 +52,7 @@ Nothing contained in this subchapter shall apply to any business or enterprise o
 
 #### (j) Preferential treatment not to be granted on account of existing number or percentage imbalance
 
-Nothing contained in this subchapter shall be interpreted to require any employer, employment agency, labor organization, or joint labor-management committee subject to this subchapter to grant preferential treatment to any individual or to any group because of the race, color, religion, sex, or national origin of such individual or group on account of an imbalance which may exist with respect to the total number or percentage of persons of any race, color, religion, sex, or national origin employed by any employer, referred or classified for employment by any employment agency or labor organization, admitted to membership or classified by any labor organization, or admitted to, or employed in, any apprenticeship or other training program, in comparison with the total number or percentage of persons of such race, color, religion, sex, or national origin in any community, State, section, or other area, or in the available work force in any community, State, section, or other area.
+Nothing contained in this subchapter shall be interpreted to require any employer, employment agency, labor organization, or joint labor-management committee subject to this subchapter to grant preferential treatment to any individual or to any group because of the race,color, religion, sex, or national origin of such individual or group on account of an imbalance which may exist with respect to the total number or percentage of persons of any race, color, religion, sex, or national origin employed by any employer, referred or classified for employment by any employment agency or labor organization, admitted to membership or classified by any labor organization, or admitted to, or employed in, any apprenticeship or other training program, in comparison with the total number or percentage of persons of such race, color, religion, sex, or national origin in any community, State, section, or other area, or in the available work force in any community, State, section, or other area.
 
 #### (k) Burden of proof in disparate impact cases
 
@@ -98,7 +98,7 @@ Except as otherwise provided in this subchapter, an unlawful employment practice
 
 &emsp;(A) alter the standards for intervention under rule 24 of the Federal Rules of Civil Procedure or apply to the rights of parties who have successfully intervened pursuant to such rule in the proceeding in which the parties intervened;
 
-&emsp;(B) apply to the rights of parties to the action in which a litigated or consent judgment or order was entered, or of members of a class represented or sought to be represented in such action, or of members of a group on whose behalf relief was sought in such action by the Federal Government;
+&emsp;(B) apply to the rights of parties to the action in which a litigated or consent judgment or order was entered, or of members of a class represented or sought to be represented insuch action, or of members of a group on whose behalf relief was sought in such action by the Federal Government;
 
 &emsp;(C) prevent challenges to a litigated or consent judgment or order on the ground that such judgment or order was obtained through collusion or fraud, or is transparently invalid or was entered by a court lacking subject matter jurisdiction; or
 
@@ -122,7 +122,7 @@ The Federal Rules of Civil Procedure, referred to in subsec. (n)(2)(A), are set 
 
 1991—Subsec. (k). Pub. L. 102–166, §105(a), added subsec. (k).
 
-Subsec. (<i>l</i>). Pub. L. 102–166, §106, added subsec. (<i>l).</i>
+Subsec. (<i>l</i>). Pub. L. 102–166, §106, added subsec. (<i>l</i>).
 
 Subsec. (m). Pub. L. 102–166, §107(a), added subsec. (m).
 
@@ -142,5 +142,5 @@ Subversive Activities Control Board established by act Sept. 23, 1950, ch. 1024,
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1981a, 2000e, 2000e–1, 2000e–5 of this title; title 2 section 1311; title 8 section 1324b; title 23 section 140.
+This section is referred to in sections 1981a, 2000e, 2000e–1, 2000e–5 of this title; title 2 section 1311; title 3 section 411; title 8 section 1324b; title 23 section 140.
 

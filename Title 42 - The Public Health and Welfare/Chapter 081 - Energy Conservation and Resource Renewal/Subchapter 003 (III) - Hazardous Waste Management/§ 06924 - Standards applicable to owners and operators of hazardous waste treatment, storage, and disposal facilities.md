@@ -82,7 +82,7 @@ Not later than eighteen months after October 21, 1976, and after opportunity for
 
 &emsp;&emsp;(iii) chromium (VI and/or compounds (as Cr VI)) 500 mg/l;
 
-&emsp;&emsp;(iv) lead and/or compounds (as Pb) 500 mg/l;
+&emsp;&emsp;(iv)  lead  and/or  compounds  (as  Pb)  500 mg/l;
 
 &emsp;&emsp;(v) mercury and/or compounds (as Hg) 20 mg/l;
 
@@ -118,7 +118,7 @@ Not later than eighteen months after October 21, 1976, and after opportunity for
 
 (1) Not later than forty-five months after November 8, 1984, the Administrator shall complete a review of the disposal of all hazardous wastes referred to in paragraph (2) of subsection (d) of this section and in paragraph (2) of subsection (e) of this section by underground injection into deep injection wells.
 
-(2) Within forty-five months after November 8, 1984, the Administrator shall make a determination regarding the disposal by underground injection into deep injection wells of the hazardous wastes referred to in paragraph (2) of subsection (d) of this section and the hazardous wastes referred to in paragraph (2) of subsection (e) of this section. The Administrator shall promulgate final regulations prohibiting the disposal of such wastes into such wells if it may reasonably be determined that such disposal may not be protective of human health and the environment for as long as the waste remains hazardous, taking into account the factors referred to in subparagraphs (A) through (C) of subsection (d)(1) of this section. In promulgating such regulations, the Administrator shall consider each hazardous waste referred to in paragraph (2) of subsection (d) of this section or in paragraph (2) of subsection (e) of this sectionwhich is prohibited from disposal into such wells by any State.
+(2) Within forty-five months after November 8, 1984, the Administrator shall make a determination regarding the disposal by underground injection into deep injection wells of the hazardous wastes referred to in paragraph (2) of subsection (d) of this section and the hazardous wastes referred to in paragraph (2) of subsection (e) of this section. The Administrator shall promulgate final regulations prohibiting the disposal of such wastes into such wells if it may reasonably be determined that such disposal may not be protective of human health and the environment for as long as the waste remains hazardous, taking into account the factors referred to in subparagraphs (A) through (C) of subsection (d)(1) of this section. In promulgating such regulations, the Administrator shall consider each hazardous waste referred to in paragraph (2) of subsection (d) of this section or in paragraph (2) of subsection (e) of this section which is prohibited from disposal into such wells by any State.
 
 (3) If the Administrator fails to make a determination under paragraph (2) for any hazardous waste referred to in paragraph (2) of subsection (d) of this section or in paragraph (2) of subsection (e) of this section within forty-five months after November 8, 1984, such hazardous waste shall be prohibited from disposal into any deep injection well.
 
@@ -132,7 +132,7 @@ Not later than eighteen months after October 21, 1976, and after opportunity for
 
 &emsp;(B) taking action under paragraph (5) of this subsection with respect to each such hazardous waste.
 
-(2) The Administrator shall base the schedule on a ranking of such listed wastes considering their intrinsic hazard and their volume such that decisions regarding the land disposal of high volume hazardous wastes with high intrinsic hazard shall, to the maximum extent possible, be made by the date forty-five months after November 8, 1984. Decisions regarding low volume hazardous wastes with lower intrinsic hazard shall be made by the date sixty-six months after November 8, 1984.
+(2) The Administrator shall base the schedule on a ranking of such listed wastes considering their intrinsic hazard and their volume suchthat decisions regarding the land disposal of high volume hazardous wastes with high intrinsic hazard shall, to the maximum extent possible, be made by the date forty-five months after November 8, 1984. Decisions regarding low volume hazardous wastes with lower intrinsic hazard shall be made by the date sixty-six months after November 8, 1984.
 
 (3) The preparation and submission of the schedule under this subsection shall not be subject to the Paperwork Reduction Act of 1980.<sup>2</sup> No hearing on the record shall be required for purposes of preparation or submission of the schedule. The schedule shall not be subject to judicial review.
 
@@ -146,7 +146,7 @@ Not later than eighteen months after October 21, 1976, and after opportunity for
 
 > In the case of any hazardous waste identified or listed under section 6921 of this title after November 8, 1984, the Administrator shall determine whether such waste shall be prohibited from one or more methods of land disposal in accordance with paragraph (5) within six months after the date of such identification or listing.
 
-(5) Not later than the date specified in the schedule published under this subsection, the Administrator shall promulgate final regulations prohibiting one or more methods of land disposal of the hazardous wastes listed on such schedule except for methods of land disposal which the Administrator determines will be protective of human health and the environment for as long as the waste remains hazardous, taking into account the factors referred to in subparagraph <sup>3</sup> (A) through (C) of subsection (d)(1) of this section. For the purposes of this paragraph, a method of land disposal may not be determined to be protective of human health and the environment (except with respect to a hazardous waste which has complied with the pretreatment regulations promulgated under subsection (m) of this section) unless, upon application by an interested person, it has been demonstrated to the Administrator, to a reasonable degree of certainty, that there will be no migration of hazardous constituents from the disposal unit or injection zone for as long as the wastes remain hazardous.
+(5) Not later than the date specified in the schedule published under this subsection, the Administrator shall promulgate final regulations prohibiting one or more methods of land disposal of the hazardous wastes listed on such schedule except for methods of land disposal which the Administrator determines will be protective of human health and the environment for as long as the waste remains hazardous, taking into account the factors referred to in subparagraphs (A) through (C) of subsection (d)(1) of this section. For the purposes of this paragraph, a method of land disposal may not be determined to be protective of human health and the environment (except with respect to a hazardous waste which has complied with the pretreatment regulations promulgated under subsection (m) of this section) unless, upon application by an interested person, it has been demonstrated to the Administrator, to a reasonable degree of certainty, that there will be no migration of hazardous constituents from the disposal unit or injection zone for as long as the wastes remain hazardous.
 
 (6)(A) If the Administrator fails (by the date forty-five months after November 8, 1984) to promulgate regulations or make a determination under paragraph (5) for any hazardous waste which is included in the first one-third of the schedule published under this subsection, such hazardous waste may be disposed of in a landfill or surface impoundment only if—
 
@@ -165,6 +165,20 @@ Not later than eighteen months after October 21, 1976, and after opportunity for
 > The prohibition contained in this subparagraph shall continue to apply until the Administrator promulgates regulations or makes a determination under paragraph (5) for the waste concerned.
 
 (C) If the Administrator fails to promulgate regulations, or make a determination under paragraph (5) for any hazardous waste referred to in paragraph (1) within 66 months after November 8, 1984, such hazardous waste shall be prohibited from land disposal.
+
+(7) Solid waste identified as hazardous based solely on one or more characteristics shall not be subject to this subsection, any prohibitions under subsection (d), (e), or (f) of this section, or any requirement promulgated under subsection (m) of this section (other than any applicable specific methods of treatment, as provided in paragraph (8)) if the waste—
+
+&emsp;(A) is treated in a treatment system that subsequently discharges to waters of the United States pursuant to a permit issued under section 1342 of title 33, treated for the purposes of the pretreatment requirements of section 1317 of title 33, or treated in a zero discharge system that, prior to any permanent land disposal, engages in treatment that is equivalent to treatment required under section 1342 of title 33 for discharges to waters of the United States, as determined by the Administrator; and
+
+&emsp;(B) no longer exhibits a hazardous characteristic prior to management in any land-based solid waste management unit.
+
+(8) Solid waste that otherwise qualifies under paragraph (7) shall nevertheless be required to meet any applicable specific methods of treatment specified for such waste by the Administrator under subsection (m) of this section, including those specified in the rule promulgated by the Administrator June 1, 1990, prior to management in a land-based unit as part of a treatment system specified in paragraph (7)(A). No solid waste may qualify under paragraph (7) that would generate toxic gases, vapors, or fumes due to the presence of cyanide when exposed to pH conditions between 2.0 and 12.5.
+
+(9) Solid waste identified as hazardous based on one or more characteristics alone shall not be subject to this subsection, any prohibitions under subsection (d), (e), or (f) of this section, or any requirement promulgated under subsection (m) of this section if the waste no longer exhibits a hazardous characteristic at the point of injection in any Class I injection well permitted under section 300h–1 of this title.
+
+(10) Not later than five years after March 26, 1996, the Administrator shall complete a study of hazardous waste managed pursuant to paragraph (7) or (9) to characterize the risks to human health or the environment associated with such management. In conducting this study, the Administrator shall evaluate the extent to which risks are adequately addressed under existing State or Federal programs and whether unaddressed risks could be better addressed under such laws or programs. Upon receipt of additional information or upon completion of such study and as necessary to protect human health and the environment, the Administrator may impose additional requirements under existing Federal laws, including subsection (m)(1) of this section, or rely on other State or Federal programs or authorities to address such risks. In promulgating any treatment standards pursuant to subsection (m)(1) of this section under the previous sentence, the Administrator shall take into account the extent to which treatment is occurring in land-based units as part of a treatment system specified in paragraph (7)(A).
+
+(11) Nothing in paragraph (7) or (9) shall be interpreted or applied to restrict any inspection or enforcement authority under the provisions of this chapter.
 
 #### (h) Variance from land disposal prohibitions
 
@@ -194,7 +208,7 @@ The use of waste or used oil or other material, which is contaminated or mixed w
 
 #### (m) Treatment standards for wastes subject to land disposal prohibition
 
-(1) Simultaneously with the promulgation of regulations under subsection (d), (e), (f), or (g) of this section prohibiting one or more methods of land disposal of a particular hazardous waste, and as appropriate thereafter, the Administrator shall, after notice and an opportunity for hearings and after consultation with appropriate Federal and State agencies, promulgate regulations specifying those levels or methods of treatment, if any, which substantially diminish the toxicity of the waste or substantially reduce the likelihood of migration of hazardous constituents from the waste so that short-term and long-term threats to human health and the environment are minimized.
+(1) Simultaneously with the promulgation of regulations under subsection (d), (e), (f), or (g) of this section prohibiting one or more methods of land disposal of a particular hazardous waste, and as appropriate thereafter, the Administrator shall, after notice and an opportunity forhearings and after consultation with appropriate Federal and State agencies, promulgate regulations specifying those levels or methods of treatment, if any, which substantially diminish the toxicity of the waste or substantially reduce the likelihood of migration of hazardous constituents from the waste so that short-term and long-term threats to human health and the environment are minimized.
 
 (2) If such hazardous waste has been treated to the level or by a method specified in regulations promulgated under this subsection, such waste or residue thereof shall not be subject to any prohibition promulgated under subsection (d), (e), (f), or (g) of this section and may be disposed of in a land disposal facility which meets the requirements of this subchapter. Any regulation promulgated under this subsection for a particular hazardous waste shall become effective on the same date as any applicable prohibition promulgated under subsection (d), (e), (f), or (g) of this section.
 
@@ -236,11 +250,11 @@ Not later than thirty months after November 8, 1984, the Administrator shall pro
 
 (5)(A) The Administrator shall promulgate regulations or issue guidance documents implementing the requirements of paragraph (1)(A) within two years after November 8, 1984.
 
-(B) Until the effective date of such regulations or guidance documents, the requirement for the installation of two or more liners may be satisfied by the installation of a top liner designed, operated, and constructed of materials to prevent the migration of any constituent into such liner during the period such facility remains in operation (including any post-closure monitoring period), and a lower liner designed, operated <sup>4</sup> and constructed to prevent the migration of any constituent through such liner during such period. For the purpose of the preceding sentence, a lower liner shall be deemed to satisfy such requirement if it is constructed of at least a 3-foot thick layer of recompacted clay or other natural material with a permeability of no more than 1×10G5^7 centimeter per second.
+(B) Until the effective date of such regulations or guidance documents, the requirement for the installation of two or more liners may be satisfied by the installation of a top liner designed, operated, and constructed of materials to prevent the migration of any constituent into such liner during the period such facility remains in operation (including any post-closure monitoring period), and a lower liner designed, operated <sup>3</sup> and constructed to prevent the migration of any constituent through such liner during such period. For the purpose of the preceding sentence, a lower liner shall be deemed to satisfy such requirement if it is constructed of at least a 3-foot thick layer of recompacted clay or other natural material with a permeability of no more than 1×10G5^7 centimeter per second.
 
 (6) Any permit under section 6925 of this title which is issued for a landfill located within the State of Alabama shall require the installation of two or more liners and a leachate collection system above and between such liners, notwithstanding any other provision of this chapter.
 
-(7) In addition to the requirements set forth in this subsection, the regulations referred to in paragraph (1) shall specify criteria for the acceptable location of new and existing treatment, storage, or disposal facilities as necessary to protect human health and the environment. Within 18 months after November 8, 1984, the Administrator shall publish guidance criteria identifying areas of vulnerable hydrogeology.
+(7) In addition to the requirements set forth in this subsection, the regulations referred to in paragraph (1) shall specify criteria for the acceptable location of new and existing treatment,storage, or disposal facilities as necessary to protect human health and the environment. Within 18 months after November 8, 1984, the Administrator shall publish guidance criteria identifying areas of vulnerable hydrogeology.
 
 #### (p) Ground water monitoring
 
@@ -252,7 +266,7 @@ The standards under this section concerning ground water monitoring which are ap
 
 &emsp;(3) the owner or operator inspects the liner (or liners) which has been installed at the facility.
 
-> This subsection shall not be construed to affect other exemptions or waivers from such standards provided in regulations in effect on November 8, 1984, or as may be provided in revisions to those regulations, to the extent consistent with this subsection. The Administrator is authorized on a case-by-case basis to exempt from ground water monitoring requirements under this section (including subsection (<i>o</i>) of this section) any engineered structure which the Administrator finds does not receive or contain liquid waste (nor waste containing free liquids), is designed and operated to exclude liquid from precipitation or other runoff, utilizes multiple leak detection systems within the outer layer of containment, and provides for continuing operation and maintenance of these leak detection systems during the operating period, closure, and the period required for post-closure monitoringand for which the Administrator concludes on the basis of such findings that there is a reasonable certainty hazardous constituents will not migrate beyond the outer layer of containment prior to the end of the period required for post-closure monitoring.
+> This subsection shall not be construed to affect other exemptions or waivers from such standards provided in regulations in effect on November 8, 1984, or as may be provided in revisions to those regulations, to the extent consistent with this subsection. The Administrator is authorized on a case-by-case basis to exempt from ground water monitoring requirements under this section (including subsection (<i>o</i>) of this section) any engineered structure which the Administrator finds does not receive or contain liquid waste (nor waste containing free liquids), is designed and operated to exclude liquid from precipitation or other runoff, utilizes multiple leak detection systems within the outer layer of containment, and provides for continuing operation and maintenance of these leak detection systems during the operating period, closure, and the period required for post-closure monitoring and for which the Administrator concludes on the basis of such findings that there is a reasonable certainty hazardous constituents will not migrate beyond the outer layer of containment prior to the end of the period required for post-closure monitoring.
 
 #### (q) Hazardous waste used as fuel
 
@@ -266,7 +280,7 @@ The standards under this section concerning ground water monitoring which are ap
 
 &emsp;(B) standards applicable to the owners and operators of facilities which burn, for purposes of energy recovery, any fuel produced as provided in subparagraph (A) or any fuel which otherwise contains any hazardous waste identified or listed under section 6921 of this title; and
 
-&emsp;(C) standards applicable to any person who distributes or markets any fuel which is produced as provided in subparagraph (A) or any fuel which otherwise contains any hazardous waste identified or listed under section 6921 of this title <sup>5</sup>
+&emsp;(C) standards applicable to any person who distributes or markets any fuel which is produced as provided in subparagraph (A) or any fuel which otherwise contains any hazardous waste identified or listed under section 6921 of this title;
 
 > as may be necessary to protect human health and the environment. Such standards may include any of the requirements set forth in paragraphs (1) through (7) of subsection (a) of this section as may be appropriate. Nothing in this subsection shall be construed to affect or impair the provisions of section 6921(b)(3) of this title. For purposes of this subsection, the term “hazardous waste listed under section 6921 of this title” includes any commercial chemical product which is listed under section 6921 of this title and which, in lieu of its original intended use, is (i) produced for use as (or as a component of) a fuel, (ii) distributed for use as a fuel, or (iii) burned as a fuel.
 
@@ -294,9 +308,9 @@ The standards under this section concerning ground water monitoring which are ap
 
 &emsp;(B) contaminants are removed; and
 
-&emsp;(C) such refining waste containing oil is converted along with normal process streams into pertroleum-derived <sup>6</sup> fuel products at a facility at which crude oil is refined into petroleum products and which is classified as a number SIC 2911 facility under the Office of Management and Budget Standard Industrial Classification Manual.
+&emsp;(C) such refining waste containing oil is converted along with normal process streams into petroleum-derived fuel products at a facility at which crude oil is refined into petroleum products and which is classified as a number SIC 2911 facility under the Office of Management and Budget Standard Industrial Classification Manual.
 
-(3) Unless the Administrator determines otherwise as may be necessary to protect human health and the environment, this subsection shall not apply to fuels produced from oily materials, resulting from normal petroleum refining, production and transportation practices, if (A) contaminants are removed; and (B) such oily materials are converted along with normal process streams into petroleum-derived fuel products at a facility at which crude oil is refined into petroleum products and which is classified as a number SIC 2911 facility under the Office of Management and Budget Standard <sup>7</sup> Classification Manual.
+(3) Unless the Administrator determines otherwise as may be necessary to protect human health and the environment, this subsection shall not apply to fuels produced from oily materials, resulting from normal petroleum refining, production and transportation practices, if (A) contaminants are removed; and (B) such oily materials are converted along with normal process streams into petroleum-derived fuel products at a facility at which crude oil is refined into petroleum products and which is classified as a number SIC 2911 facility under the Office of Management and Budget Standard Industrial Classification Manual.
 
 #### (s) Recordkeeping
 
@@ -332,7 +346,7 @@ Not later than March 1, 1985, the Administrator shall promulgate final permittin
 
 #### (x) Mining and other special wastes
 
-If (1) solid waste from the extraction, beneficiation or processing of ores and minerals, including phosphate rock and overburden from the mining of uranium, (2) fly ash waste, bottom ash waste, slag waste, and flue gas emission control waste generated primarily from the combustion of coal or other fossil fuels, or (3) cement kilndust waste, is subject to regulation under this subchapter, the Administrator is authorized to modify the requirements of subsections (c), (d), (e), (f), (g), (<i>o</i>), and (u) of this section and section 6925(j) of this title, in the case of landfills or surface impoundments receiving such solid waste, to take into account the special characteristics of such wastes, the practical difficulties associated with implementation of such requirements, and site-specific characteristics, including but not limited to the climate, geology, hydrology and soil chemistry at the site, so long as such modified requirements assure protection of human health and the environment.
+If (1) solid waste from the extraction, beneficiation or processing of ores and minerals, including phosphate rock and overburden from the mining of uranium, (2) fly ash waste, bottom ash waste, slag waste, and flue gas emission control waste generated primarily from the combustion of coal or other fossil fuels, or (3) cement kiln dust waste, is subject to regulation under this subchapter, the Administrator is authorized to modify the requirements of subsections (c), (d), (e), (f), (g), (<i>o</i>), and (u) of this section and section 6925(j) of this title, in the case of landfills or surface impoundments receiving such solid waste, to take into account the special characteristics of such wastes, the practical difficulties associated with implementation of such requirements, and site-specific characteristics, including but not limited to the climate, geology, hydrology and soil chemistry at the site, so long as such modified requirements assure protection of human health and the environment.
 
 #### (y) Munitions
 
@@ -340,13 +354,13 @@ If (1) solid waste from the extraction, beneficiation or processing of ores and 
 
 (2) For purposes of this subsection, the term “military munitions” includes chemical and conventional munitions.
 
-(Pub. L. 89–272, title II, §3004, as added Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2807; amended Pub. L. 96–482, §9, Oct. 21, 1980, 94 Stat. 2338; Pub. L. 98–616, title II, §§201(a), 202(a), 203, 204(b)(1), 205–209, Nov. 8, 1984, 98 Stat. 3226, 3233, 3234, 3236, 3238–3240; Pub. L. 102–386, title I, §107, Oct. 6, 1992, 106 Stat. 1513.)
+(Pub. L. 89–272, title II, §3004, as added Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2807; amended Pub. L. 96–482, §9, Oct. 21, 1980, 94 Stat. 2338; Pub. L. 98–616, title II, §§201(a), 202(a), 203, 204(b)(1), 205–209, Nov. 8, 1984, 98 Stat. 3226, 3233, 3234, 3236, 3238–3240; Pub. L. 102–386, title I, §107, Oct. 6, 1992, 106 Stat. 1513; Pub. L. 104–119, §§2, 4(2)–(5), Mar. 26, 1996, 110 Stat. 830, 833.)
 
 #### References in Text
 
 Section 6922(5) of this title, referred to in subsec. (a)(2), was redesignated section 6922(a)(5) of this title, by Pub. L. 98–616, title II, §224(a)(1), Nov. 8, 1984, 98 Stat. 3253.
 
-The Safe Drinking Water Act, referred to in subsec. (c)(3), is Pub. L. 93–523, Dec. 16, 1974, 88 Stat. 1660, as amended, which is classified principally to subchapter XII (§300f et seq.) of chapter 6A of this title. For complete classification of this Act to the Code see Short Title of 1974 Amendment note set out under section 201 of this title and Tables.
+The Safe Drinking Water Act, referred to in subsec. (c)(3), is title XIV of act July 1, 1944, as added Dec. 16, 1974, Pub. L. 93–523, §2(a), 88 Stat. 1660, as amended, which is classified generally to subchapter XII (§300f et seq.) of chapter 6A of this title. For complete classification of this Act to the Code see Short Title note set out under section 201 of this title and Tables.
 
 Section 6979a of this title, referred to in subsec. (f)(4), was in the original a reference to section 7010 of Pub. L. 89–272, which was renumbered section 3020 of Pub. L. 89–272 by Pub. L. 99–339, title II, §201(c), June 19, 1986, 100 Stat. 654, and transferred to section 6939b of this title.
 
@@ -356,6 +370,16 @@ The Federal Bankruptcy Code, referred to in subsec. (t)(2), probably means a ref
 
 #### Amendments
 
+1996—Subsec. (g)(5). Pub. L. 104–119, §4(3), substituted “subparagraphs (A) through (C)” for “subparagraph (A) through (C)”.
+
+Subsec. (g)(7) to (11). Pub. L. 104–119, §2, added pars. (7) to (11).
+
+Subsec. (q)(1)(C). Pub. L. 104–119, §4(2), inserted a semicolon at end of subpar. (C).
+
+Subsec. (r)(2)(C). Pub. L. 104–119, §4(4), substituted “petroleum-derived” for “pertroleum-derived”.
+
+Subsec. (r)(3). Pub. L. 104–119, §4(5), inserted “Industrial” after “Standard”.
+
 1992—Subsec. (y). Pub. L. 102–386 added subsec. (y).
 
 1984—Subsec. (a). Pub. L. 98–616, §201(a), designated existing provisions as subsec. (a).
@@ -364,7 +388,7 @@ Subsec. (a)(6). Pub. L. 98–616, §208, inserted “(including financial respon
 
 Subsecs. (b) to (n). Pub. L. 98–616, §201(a), added subsecs. (b) to (n).
 
-Subsec. (<i>o</i>). Pub. L. 98–616, §202(a), added subsec. (<i>o).</i>
+Subsec. (<i>o</i>). Pub. L. 98–616, §202(a), added subsec. (<i>o</i>).
 
 Subsec. (p). Pub. L. 98–616, §203, added subsec. (p).
 
@@ -392,13 +416,5 @@ This section is referred to in sections 2297, 6921, 6925, 6926, 6935, 6936, 6939
 
 <i><sup>2</sup></i><i> See References in Text note below.</i>
 
-<i><sup>3</sup></i><i> So in original. Probably should be “subparagraphs”.</i>
-
-<i><sup>4</sup></i><i> So in original. Probably should be followed by a comma.</i>
-
-<i><sup>5</sup></i><i> So in original. Probably should be followed by a semicolon.</i>
-
-<i><sup>6</sup></i><i> So in original. Probably should be “petroleum-derived”.</i>
-
-<i><sup>7</sup></i><i> So in original. Probably should be “Standard Industrial”.</i>
+<i><sup>3</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

@@ -20,7 +20,7 @@
 
 #### (4) Savings provision
 
-&emsp;For purposes of this subsection, a reference to the “Consolidated Farm Service Agency”includes any other office, agency, or administrative unit of the Department assigned the functions authorized for the Consolidated Farm Service Agency under section 6932 of this title.
+&emsp;For purposes of this subsection, a reference to the “Consolidated Farm Service Agency” includes any other office, agency, or administrative unit of the Department assigned the functions authorized for the Consolidated Farm Service Agency under section 6932 of this title.
 
 #### (b), (c) Omitted
 

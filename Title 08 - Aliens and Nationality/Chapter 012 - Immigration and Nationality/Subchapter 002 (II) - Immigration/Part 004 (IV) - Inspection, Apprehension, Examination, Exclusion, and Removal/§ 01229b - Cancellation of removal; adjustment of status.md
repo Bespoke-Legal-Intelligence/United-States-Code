@@ -1,0 +1,110 @@
+### §1229b. Cancellation of removal; adjustment of status
+
+#### (a) Cancellation of removal for certain permanent residents
+
+The Attorney General may cancel removal in the case of an alien who is inadmissible or deportable from the United States if the alien—
+
+&emsp;(1) has been an alien lawfully admitted for permanent residence for not less than 5 years,
+
+&emsp;(2) has resided in the United States continuously for 7 years after having been admitted in any status, and
+
+&emsp;(3) has not been convicted of any aggravated felony.
+
+#### (b) Cancellation of removal and adjustment of status for certain nonpermanent residents
+
+#### (1) In general
+
+&emsp;The Attorney General may cancel removal in the case of an alien who is inadmissible ordeportable from the United States if the alien—
+
+&emsp;&emsp;(A) has been physically present in the United States for a continuous period of not less than 10 years immediately preceding the date of such application;
+
+&emsp;&emsp;(B) has been a person of good moral character during such period;
+
+&emsp;&emsp;(C) has not been convicted of an offense under section 1182(a)(2), 1227(a)(2), or 1227(a)(3) of this title; and
+
+&emsp;&emsp;(D) establishes that removal would result in exceptional and extremely unusual hardship to the alien's spouse, parent, or child, who is a citizen of the United States or an alien lawfully admitted for permanent residence.
+
+#### (2) Special rule for battered spouse or child
+
+&emsp;The Attorney General may cancel removal in the case of an alien who is inadmissible or deportable from the United States if the alien demonstrates that—
+
+&emsp;&emsp;(A) the alien has been battered or subjected to extreme cruelty in the United States by a spouse or parent who is a United States citizen or lawful permanent resident (or is the parent of a child of a United States citizen or lawful permanent resident and the child has been battered or subjected to extreme cruelty in the United States by such citizen or permanent resident parent);
+
+&emsp;&emsp;(B) the alien has been physically present in the United States for a continuous period of not less than 3 years immediately preceding the date of such application;
+
+&emsp;&emsp;(C) the alien has been a person of good moral character during such period;
+
+&emsp;&emsp;(D) the alien is not inadmissible under paragraph (2) or (3) of section 1182(a) of this title, is not deportable under paragraph (1)(G) or (2) through (4) of section 1227(a) of this title, and has not been convicted of an aggravated felony; and
+
+&emsp;&emsp;(E) the removal would result in extreme hardship to the alien, the alien's child, or (in the case of an alien who is a child) to the alien's parent.
+
+> &emsp;In acting on applications under this paragraph, the Attorney General shall consider any credible evidence relevant to the application. The determination of what evidence is credible and the weight to be given that evidence shall be within the sole discretion of the Attorney General.
+
+#### (3) Adjustment of status
+
+&emsp;The Attorney General may adjust to the status of an alien lawfully admitted for permanent residence any alien who the Attorney General determines meets the requirements of paragraph (1) or (2). The number of adjustments under this paragraph shall not exceed 4,000 for any fiscal year. The Attorney General shall record the alien's lawful admission for permanent residence as of the date the Attorney General's cancellation of removal under paragraph (1) or (2) or determination under this paragraph.
+
+#### (c) Aliens ineligible for relief
+
+The provisions of subsections (a) and (b)(1) of this section shall not apply to any of the following aliens:
+
+&emsp;(1) An alien who entered the United States as a crewman subsequent to June 30, 1964.
+
+&emsp;(2) An alien who was admitted to the United States as a nonimmigrant exchange alien as defined in section 1101(a)(15)(J) of this title, or has acquired the status of such a nonimmigrant exchange alien after admission, in order to receive graduate medical education or training, regardless of whether or not the alien is subject to or has fulfilled the two-year foreign residence requirement of section 1182(e) of this title.
+
+&emsp;(3) An alien who—
+
+&emsp;&emsp;(A) was admitted to the United States as a nonimmigrant exchange alien as defined in section 1101(a)(15)(J) of this title or has acquired the status of such a nonimmigrant exchange alien after admission other than to receive graduate medical education or training,
+
+&emsp;&emsp;(B) is subject to the two-year foreign residence requirement of section 1182(e) of this title, and
+
+&emsp;&emsp;(C) has not fulfilled that requirement or received a waiver thereof.
+
+&emsp;(4) An alien who is inadmissible under section 1182(a)(3) of this title or deportable under section 1227(a)(4) of this title.
+
+&emsp;(5) An alien who is described in section 1231(b)(3)(B)(i) of this title.
+
+&emsp;(6) An alien whose removal has previously been cancelled under this section or whose deportation was suspended under section 1254(a) of this title or who has been granted relief under section 1182(c) of this title, as such sections were in effect before September 30, 1996.
+
+#### (d) Special rules relating to continuous residence or physical presence
+
+#### (1) Termination of continuous period
+
+&emsp;For purposes of this section, any period of continuous residence or continuous physical presence in the United States shall be deemed to end when the alien is served a notice to appear under section 1229(a) of this title or when the alien has committed an offense referred to in section 1182(a)(2) of this title that renders the alien inadmissible to the United States under section 1182(a)(2) of this title or removable from the United States under section 1227(a)(2) or 1227(a)(4) of this title, whichever is earliest.
+
+#### (2) Treatment of certain breaks in presence
+
+&emsp;An alien shall be considered to have failed to maintain continuous physical presence in the United States under subsections (b)(1) and (b)(2) of this section if the alien has departed from the United States for any period in excess of 90 days or for any periods in the aggregate exceeding 180 days.
+
+#### (3) Continuity not required because of honorable service in Armed Forces and presence upon entry into service
+
+&emsp;The requirements of continuous residence or continuous physical presence in the United States under subsections (a) and (b) of this section shall not apply to an alien who—
+
+&emsp;&emsp;(A) has served for a minimum period of 24 months in an active-duty status in theArmed Forces of the United States and, if separated from such service, was separated under honorable conditions, and
+
+&emsp;&emsp;(B) at the time of the alien's enlistment or induction was in the United States.
+
+#### (e) Annual limitation
+
+The Attorney General may not cancel the removal and adjust the status under this section, nor suspend the deportation and adjust the status under section 1254(a) of this title (as in effect before September 30, 1996), of a total of more than 4,000 aliens in any fiscal year. The previous sentence shall apply regardless of when an alien applied for such cancellation and adjustment and whether such an alien had previously applied for suspension of deportation under such section 1254(a) of this title.
+
+(June 27, 1952, ch. 477, title II, ch. 4, §240A, as added Sept. 30, 1996, Pub. L. 104–208, div. C, title III, §304(a)(3), 110 Stat. 3009–594.)
+
+#### References in Text
+
+Section 1254 of this title, referred to in subsecs. (c)(6) and (e), was repealed by Pub. L. 104–208, div. C, title III, §308(b)(7), Sept. 30, 1996, 110 Stat. 3009–615.
+
+Section 1182(c) of this title, referred to in subsec. (c)(6), was repealed by Pub. L. 104–208, div. C, title III, §304(b), Sept. 30, 1996, 110 Stat. 3009–597.
+
+#### Effective Date
+
+Section effective on the first day of the first month beginning more than 180 days after Sept. 30, 1996, with certain transitional provisions including provision that subsec. (d)(1), (2) of this section be applicable to notices to appear issued before, on, or after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as an Effective Date of 1996 Amendments note under section 1101 of this title.
+
+#### Definitions
+
+For definition of the term “removable” used in subsec. (d)(1), see section 1229a(e) of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 1101, 1151, 1229a, 1229c, 1252, 1254a, 1367, 1534, 1641 of this title.
+

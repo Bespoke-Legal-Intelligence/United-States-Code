@@ -44,7 +44,7 @@ Par. (15). Pub. L. 97–248 added par. (15).
 
 1978—Par. (14). Pub. L. 95–600 inserted “regulated investment company or” before “real estate investment trust” and substituted “section 860” for “section 859”.
 
-1976—Par. (2). Pub. L. 94–455, §1901(b)(36)(B), redesignated par. (3) as (2). Former par. (2), which set forth a cross reference to section 1321 of this title for overpayment arising out of adjustments incident to involuntary liquidation of inventory, was struck out.
+1976—Par. (2). Pub. L. 94–455, §1901(b)(36)(B), redesignated par. (3) as (2). Former par. (2), which set forth across reference to section 1321 of this title for overpayment arising out of adjustments incident to involuntary liquidation of inventory, was struck out.
 
 Pars. (3) to (8). Pub. L. 94–455, §1901(b)(36)(B), redesignated pars. (4) to (9) as (3) to (8), respectively.
 

@@ -6,7 +6,7 @@ Title II of the Farm Credit Act of 1971, comprising this subchapter, was origina
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in sections 2015, 2019, 2122, 2202a, 2206a, 2218, 2252 of this title.
+This subchapter is referred to in sections 2015, 2019, 2122, 2202a, 2206a, 2214a, 2218, 2252 of this title.
 
 
 ---

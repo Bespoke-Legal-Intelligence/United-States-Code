@@ -12,7 +12,9 @@ An air carrier that will receive payments from another air carrier under an agre
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -26,7 +28,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §412(c); added Oct. 24, 1978, Pu
 
 &nbsp;
 
-49 App.:1551(b) (1)(C) (related to 49 App.:1382(c)).
+49 App.:1551(b)(1)(C) (related to 49 App.:1382(c)).
 
 Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1601(b)(1)(C) (related to §412(c)); added Oct. 24, 1978, Pub. L. 95–504, §40(a), 92 Stat. 1745; Oct. 14, 1982, Pub. L. 97–309, §4(b), 96 Stat. 1454; Oct. 4, 1984, Pub. L. 98–443, §3(a), 98 Stat. 1703.
 

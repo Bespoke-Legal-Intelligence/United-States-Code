@@ -2,7 +2,7 @@
 
 #### (a) Allocation of costs
 
-The Secretary shall allocate the total costs (excluding costs borne by non-Federal participants pursuant to section 1592(c)(2)(C) of this title) of the on-farm measures authorized by section 1592(c) of this title, of all measures to replace incidental fish and wildlife values foregone, and of each unit or separable feature thereof authorized by section 1592(a) of this title, as follows:
+The Secretary shall allocate the total costs (excluding costs borne by non-Federal participants) of the on-farm measures authorized by section 1592(c) of this title, of all measures to replace incidental fish and wildlife values foregone, and of each unit or separable feature thereof authorized by section 1592(a) of this title, as follows:
 
 (1) In recognition of Federal responsibility for the Colorado River as an interstate stream and for international comity with Mexico, Federal ownership of the lands of the Colorado River Basin from which most of the dissolved salts originate, and the policy embodied in the Federal Water Pollution Control Act Amendments of 1972 (86 Stat. 816) \[33 U.S.C. 1251 et seq.\], 75 per centum of the total costs of construction, operation, maintenance, and replacement of each unit or separable feature thereof authorized by section 1592(a)(1), (2), and (3) of this title, including 75 per centum of the total costs of construction, operation, and maintenance of the associated measures to replace incidental fish and wildlife values foregone, 70 per centum of the total costs of construction, operation, maintenance, and replacement of each unit, or separable feature thereof authorized by paragraphs (4) through (6) of section 1592(a) of this title, including 70 per centum of the total costs of construction, operation, and maintenance of the associated measures to replace incidental fish and wildlife values foregone, and 70 per centum of the total costs of implementation of the on-farm measures authorized by section 1592(c) of this title, including 70 per centum of the total costs of the associated measures to replace incidental fish and wildlife values foregone, shall be nonreimbursable. The total costs remaining after these allocations shall be reimbursable as provided for in paragraphs (2), (3), (4), and (5),<sup>1</sup> of subsection (a) of this section <sup>2</sup>
 
@@ -22,9 +22,9 @@ The Secretary shall allocate the total costs (excluding costs borne by non-Feder
 
 (iii) Costs allocated to the lower basin shall be repaid without interest as such costs are incurred to the extent that money is available from the Lower Colorado River Basin development fund to repay costs allocated to the lower basin. If in any fiscal year the money available from the Lower Colorado River Basin development fund for such repayment is insufficient to repay the costs allocated to the lower basin, as provided in the preceding sentence, the deficiency shall be repaid with interest as soon as money becomes available in the fund for repayment of those costs.
 
-(iv) The interest rates used pursuant to this chapter shall be determined by the Secretary of the Treasury, taking into consideration average market yields on outstanding marketable obligations of the United States with remaining periods to maturity comparable to the reimbursement period during the month preceding October 30, 1984, for costs outstanding at that date, or, in the case of costs incurred subsequent to October 30, 1984, during the month preceding the fiscal year in which the costs are incurred.
+(iv) The interest rates used pursuant to this chapter shall be determined by the Secretary of the Treasury, taking into consideration average market yields on outstanding marketable obligations of the United States with remaining periods to maturity comparable to the reimbursement period during the month preceding October 30, 1984, for costs outstanding at that date,or, in the case of costs incurred subsequent to October 30, 1984, during the month preceding the fiscal year in which the costs are incurred.
 
-(5) Costs of operation and maintenance of each unit or separable feature thereof authorized by section 1592(a) of this title and of measures to replace incidental fish and wildlife values foregone allocated to the upper basin and to the lower basin under subsection (a)(2) of this section shall be repaid without interest in the fiscal year next succeeding the fiscal year in which such costs are incurred. In the event that revenues are not available to repay the portion of operation and maintenance costs allocated to the Upper Colorado River Basin fund and to the Lower Colorado River Basin development fundin the year next succeeding the fiscal year in which such costs are incurred, the deficiency shall be repayed <sup>5</sup> with interest calculated in the same manner as provided in subsection (a)(4)(iv) of this section. Any reimbursement due non-Federal entities pursuant to section 1592(b)(2) of this title shall be repaid without interest in the fiscal year next succeeding the fiscal year in which such operation and maintenance costs are incurred.
+(5) Costs of operation and maintenance of each unit or separable feature thereof authorized by section 1592(a) of this title and of measures to replace incidental fish and wildlife values foregone allocated to the upper basin and to the lower basin under subsection (a)(2) of this section shall be repaid without interest in the fiscal year next succeeding the fiscal year in which such costs are incurred. In the event that revenues are not available to repay the portion of operation and maintenance costs allocated to the Upper Colorado River Basin fund and to the Lower Colorado River Basin development fund in the year next succeeding the fiscal year in which such costs are incurred, the deficiency shall be repayed <sup>5</sup> with interest calculated in the same manner as provided in subsection (a)(4)(iv) of this section. Any reimbursement due non-Federal entities pursuant to section 1592(b)(2) of this title shall be repaid without interest in the fiscal year next succeeding the fiscal year in which such operation and maintenance costs are incurred.
 
 #### (b) Costs payable from Lower Colorado River Basin Development Fund
 
@@ -42,7 +42,11 @@ Costs of construction, operation, maintenance, and replacement of each unit or s
 
 The Secretary is authorized to make upward adjustments in rates charged for electrical energy under all contracts administered by the Secretary under the Colorado River Storage Project Act (70 Stat. 105; 43 U.S.C. 620) as soon as practicable and to the extent necessary to cover the costs allocated to the Upper Colorado River Basin Fund under subsection (a)(2) of this section and in conformity with subsection (a)(3), subsection (a)(4) and subsection (a)(5) of this section: <i>Provided</i>, That revenues derived from said rate adjustments shall be available solely for the construction, operation, maintenance, and replacement of salinity control units, for the construction, operation, and maintenance of measures to replace incidental fish and wildlife values foregone, and for the implementation of on-farm measures in the Colorado River Basin herein authorized.
 
-(Pub. L. 93–320, title II, §205, June 24, 1974, 88 Stat. 272; Pub. L. 98–569, §4(a)–(f)(1), (g), (i), Oct. 30, 1984, 98 Stat. 2937–2939; Pub. L. 104–20, §1(2), July 28, 1995, 109 Stat. 255.)
+#### (f) Funds
+
+The Secretary may expend funds available in the Basin Funds referred to in this section to carry out cost-share salinity measures in a manner that is consistent with the cost allocations required under this section.
+
+(Pub. L. 93–320, title II, §205, June 24, 1974, 88 Stat. 272; Pub. L. 98–569, §4(a)–(f)(1), (g), (i), Oct. 30, 1984, 98 Stat. 2937–2939; Pub. L. 104–20, §1(2), July 28, 1995, 109 Stat. 255; Pub. L. 104–127, title III, §336(c)(2), Apr. 4, 1996, 110 Stat. 1006.)
 
 #### References in Text
 
@@ -57,6 +61,10 @@ The Colorado River Storage Project Act, referred to in subsec. (d), is act Apr. 
 Section is comprised of section 205 of Pub. L. 93–320. Subsecs. (b)(2) and (d) of section 205 of Pub. L. 93–320 amended sections 620d and 1543 of this title.
 
 #### Amendments
+
+1996—Subsec. (a). Pub. L. 104–127, §336(c)(2)(A), struck out “pursuant to section 1592(c)(2)(C) of this title” after “non-Federal participants” in introductory provisions.
+
+Subsec. (f). Pub. L. 104–127, §336(c)(2)(B), added subsec. (f).
 
 1995—Subsec. (a)(1). Pub. L. 104–20, §1(2)(A), substituted “authorized by paragraphs (4) through (6) of section 1592(a)” for “authorized by section 1592(a)(4) and (5)”.
 

@@ -2,11 +2,11 @@
 
 #### (a) In general
 
-To the extent that amounts are made available to carry out this subtitle <sup>1</sup> pursuant to the amendments made by this subtitle,<sup>1</sup> the Secretary shall require owners of covered federally assisted housing projects (as such term is defined in subsection (d) of this section) receiving such amounts to provide for employing or otherwise retaining the services of one or more individuals to coordinate the provision of supportive services for elderly and disabled families residing in the projects (in this section referred to as a “service coordinator”). No such elderly or disabled family may be required to accept services.
+To the extent that amounts are made available to carry out this subtitle <sup>1</sup> pursuant to the amendments made by this subtitle,<sup>1</sup> the Secretary shall require owners of covered federally assisted housing projects (as such term is defined in subsection (d) of this section) receiving such amounts to provide for employing or otherwise retaining the services of one or more individuals to coordinate the provision of supportive services for elderly and disabled families residing in the projects (in this section referred to asa “service coordinator”). No such elderly or disabled family may be required to accept services.
 
 #### (b) Responsibilities
 
-Each service coordinator of a covered federally assisted housing project provided pursuant tothis subtitle <sup>1</sup> or the amendments made by this subtitle— <sup>1</sup>
+Each service coordinator of a covered federally assisted housing project provided pursuant to this subtitle <sup>1</sup> or the amendments made by this subtitle— <sup>1</sup>
 
 &emsp;(1) shall consult with the owner of the housing, tenants, any tenant organizations, any resident management organizations, service providers, and any other appropriate persons, to identify the particular needs and characteristics of elderly and disabled families who reside in the project and any supportive services related to such needs and characteristics;
 

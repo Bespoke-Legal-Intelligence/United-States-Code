@@ -2,7 +2,7 @@
 
 None of the provisions of this chapter shall be construed to prevent a recipient of a grant or a contract from entering into an agreement, subject to the approval of the State agency (or in the case of a grantee under subchapter X of this chapter, subject to the recommendation of the Director of the Office for American Indian, Alaskan Native, and Native Hawaiian Aging and the approval of the Assistant Secretary), with a profitmaking organization to carry out the provisions of this chapter and of the appropriate State plan.
 
-(Pub. L. 89–73, title II, §212, formerly §213, as added Pub. L. 95–478, title I, §102(i), Oct. 18, 1978, 92 Stat. 1516; amended Pub. L. 97–35, title VI, §606(c), Aug. 13, 1981, 95 Stat. 486; renumbered §212, Pub. L. 97–115, §2(e)(2), Dec. 29, 1981, 95 Stat. 1596; Pub. L. 100–175, title I, §107(c), Nov. 29, 1987, 101 Stat. 931; Pub. L. 103–171, §3(a)(4), Dec. 2, 1993, 107 Stat. 1990.)
+(Pub. L. 89–73, title II, §212, formerly §213, as added Pub. L. 95–478, title I, §102(i), Oct. 18, 1978,92 Stat. 1516; amended Pub. L. 97–35, title VI, §606(c), Aug. 13, 1981, 95 Stat. 486; renumbered §212, Pub. L. 97–115, §2(e)(2), Dec. 29, 1981, 95 Stat. 1596; Pub. L. 100–175, title I, §107(c), Nov. 29, 1987, 101 Stat. 931; Pub. L. 103–171, §3(a)(4), Dec. 2, 1993, 107 Stat. 1990.)
 
 #### Prior Provisions
 

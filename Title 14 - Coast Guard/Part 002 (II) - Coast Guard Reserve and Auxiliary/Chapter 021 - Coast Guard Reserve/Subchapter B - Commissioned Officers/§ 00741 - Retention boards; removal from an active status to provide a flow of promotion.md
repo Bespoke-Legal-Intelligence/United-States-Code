@@ -24,7 +24,7 @@
 
 (d) The provisions of section 260 of this title shall, to the extent that they are not inconsistent with this subchapter, apply to boards convened under this section.
 
-(Added Pub. L. 96–322, §1, Aug. 4, 1980, 94 Stat. 1014; amended Pub. L. 101–225, title II, §203(5), Dec. 12, 1989, 103 Stat. 1911; Pub. L. 103–206, title II, §203, Dec. 20, 1993, 107 Stat. 2420; Pub. L. 103–337, div. A, title XVI, §1677(b)(5), Oct. 5, 1994, 108 Stat. 3020.)
+(Added Pub. L. 96–322, §1, Aug. 4, 1980, 94 Stat. 1014; amended Pub. L. 101–225, title II, §203(5), Dec. 12, 1989, 103 Stat. 1911; Pub. L. 103–206, title II, §203, Dec. 20, 1993, 107 Stat. 2420; Pub. L. 103–337, div. A, title XVI, §1677(b)(5), Oct. 5, 1994, 108 Stat. 3020; Pub. L. 104–106, div. A, title XV, §1501(e)(1)(B), Feb. 10, 1996, 110 Stat. 501.)
 
 #### Prior Provisions
 
@@ -32,15 +32,21 @@ Provisions similar to those in this section were contained in section 787a of th
 
 #### Amendments
 
-1994—Subsec. (c). Pub. L. 103–337, which directed amendment of subsec. (b) by substituting “section 12646 of title 10” for “section 1006 of title 10”, was executed by making the amendment in subsec. (c) to reflect the probable intent of Congress and the intervening redesignation of subsec. (b) as (c) by Pub. L. 103–206. See 1993 Amendment note below.
+1996—Subsec. (c). Pub. L. 104–106 substituted “section 12646 of title 10” for “section 1006 of title 10”.
+
+1994—Subsec. (b). Pub. L. 103–337, which directed amendment of subsec. (b) by substituting “section 12646 of title 10” for “section 1006 of title 10”, could not be executed because the words “section 1006 of title 10” did not appear in subsec. (b).
 
 1993—Pub. L. 103–206 in subsec. (a) in first sentence substituted “, except those officers who—” and pars. (1) to (4) for “and are not on active duty and not on an approved list of selectees for promotion to the next higher grade”, realigned margin of second sentence, inserted “(b)” before “This board shall—” in third sentence and realigned margin, and redesignated former subsecs. (b) and (c) as (c) and (d), respectively.
 
 1989—Subsec. (a). Pub. L. 101–225 inserted “who have 18 years or more of service for retirement and are” before “not on active duty”.
 
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–106 effective as if included in the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as enacted on Oct. 5, 1994, see section 1501(f)(3) of Pub. L. 104–106, set out as a note under section 113 of Title 10, Armed Forces.
+
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as an Effective Date note under section 10001 of Title 10, Armed Forces.
+Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L.103–337, set out as an Effective Date note under section 10001 of Title 10, Armed Forces.
 
 #### Section Referred to in Other Sections
 

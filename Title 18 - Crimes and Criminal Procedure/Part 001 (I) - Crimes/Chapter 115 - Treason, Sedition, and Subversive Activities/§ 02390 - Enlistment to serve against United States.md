@@ -1,4 +1,4 @@
-### §2390 . Enlistment to serve against United States
+### §2390. Enlistment to serve against United States
 
 Whoever enlists or is engaged within the United States or in any place subject to the jurisdiction thereof, with intent to serve in armed hostility against the United States, shall be fined under this title <sup>1</sup> or imprisoned not more than three years, or both.
 

@@ -8,11 +8,23 @@
 
 (d) The Secretary of a military department, under regulations prescribed by the Secretary of Defense, may relieve a member of the program who is dropped from the program from an active duty obligation imposed by this section, but such relief shall not relieve him from any military obligation imposed by any other law.
 
-(e) Any member of the program relieved of his active duty obligation under this subchapter before the completion of such obligation may, under regulations prescribed by the Secretary of Defense, be assigned to a health professional shortage area designated by the Secretary of Health and Human Services for a period equal to the period of obligation from which he was relieved.
+(e)(1) A member of the program who is relieved of the member's active duty obligation under this subchapter before the completion of that active duty obligation may be given, with or without the consent of the member, any of the following alternative obligations, as determined by the Secretary of the military department concerned:
 
-(Added Pub. L. 92–426, §2(a), Sept. 21, 1972, 86 Stat. 718; amended Pub. L. 96–513, title V, §511(67), Dec. 12, 1980, 94 Stat. 2926; Pub. L. 100–180, div. A, title VII, §711(a)(2), Dec. 4, 1987, 101 Stat. 1108; Pub. L. 101–597, title IV, §401(b), Nov. 16, 1990, 104 Stat. 3035.)
+&emsp;(A) A service obligation in another armed force for a period of time not less than the member's remaining active duty service obligation.
+
+&emsp;(B) A service obligation in a component of the Selected Reserve for a period not less than twice as long as the member's remaining active duty service obligation.
+
+&emsp;(C) Repayment to the Secretary of Defense of a percentage of the total cost incurred by the Secretary under this subchapter on behalf of the member equal to the percentage of the member's total active duty service obligation being relieved, plus interest.
+
+(2) In addition to the alternative obligations specified in paragraph (1), if the member is relieved of an active duty obligation by reason of the separation of the member because of a physical disability, the Secretary of the military department concerned may give the member a service obligation as a civilian employee employed as a health care professional in a facility of the uniformed services for a period of time equal to the member's remaining active duty service obligation.
+
+(3) The Secretary of Defense shall prescribe regulations describing the manner in which an alternative obligation may be given under this subsection.
+
+(Added Pub. L. 92–426, §2(a), Sept. 21, 1972, 86 Stat. 718; amended Pub. L. 96–513, title V, §511(67), Dec. 12, 1980, 94 Stat. 2926; Pub. L. 100–180, div. A, title VII, §711(a)(2), Dec. 4, 1987, 101 Stat. 1108; Pub. L. 101–597, title IV, §401(b), Nov. 16, 1990, 104 Stat. 3035; Pub. L. 104–201, div. A, title VII, §741(a), Sept. 23, 1996, 110 Stat. 2599.)
 
 #### Amendments
+
+1996—Subsec. (e). Pub. L. 104–201 amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “Any member of the program relieved of his active duty obligation under this subchapter before the completion of such obligation may, under regulations prescribed by the Secretary of Defense, be assigned to a health professional shortage area designated by the Secretary of Health and Human Services for a period equal to the period of obligation from which he was relieved.”
 
 1990—Subsec. (e). Pub. L. 101–597 substituted “a health professional shortage area” for “an area of health manpower shortage”.
 
@@ -20,7 +32,19 @@
 
 1980—Subsec. (e). Pub. L. 96–513 substituted “Secretary of Health and Human Services” for “Secretary of Health, Education, and Welfare”.
 
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–201 applicable with respect to individuals who first become members of Armed Forces Health Professions Scholarship and Financial Assistance program or students of Uniformed Services University of the Health Sciences on or after Oct. 1, 1996, see section 741(c) of Pub. L. 104–201, set out as a note under section 2114 of this title.
+
 #### Effective Date of 1980 Amendment
 
 Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under section 101 of this title.
+
+#### Transition Provisions
+
+Section 741(d)(1) of Pub. L. 104–201 provided that: “In the case of any member of the Armed Forces Health Professions Scholarship and Financial Assistance program who, as of October 1, 1996, is serving an active duty obligation under the program or is incurring an active duty obligation as a participant in the program, and who is subsequently relieved of the active duty obligation before the completion of the obligation, the alternative obligations authorized by the amendment made by subsection (a) \[amending this section\] may be used by the Secretary of the military department concerned with the agreement of the member.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 2114, 2126 of this title.
 

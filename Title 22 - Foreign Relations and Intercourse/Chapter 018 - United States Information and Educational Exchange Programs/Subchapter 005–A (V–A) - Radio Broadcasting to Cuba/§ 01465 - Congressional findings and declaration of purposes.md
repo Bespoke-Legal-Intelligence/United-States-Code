@@ -12,6 +12,10 @@ The Congress finds and declares—
 
 (Pub. L. 98–111, §2, Oct. 4, 1983, 97 Stat. 749.)
 
+#### Repeal of Section
+
+<i>Section repealed upon transmittal of determination by President under section 6063(c)(3) of this title that democratically elected government in Cuba is in power, see section 6037(c) of this title.</i>
+
 #### Codification
 
 Section was enacted as part of the Radio Broadcasting to Cuba Act which comprises this subchapter, and not as part of the United States Information and Educational Exchange Act of 1948 which comprises this chapter.

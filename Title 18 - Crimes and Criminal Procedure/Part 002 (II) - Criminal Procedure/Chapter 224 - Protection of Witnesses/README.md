@@ -21,10 +21,6 @@
 
 This chapter is referred to in sections 1028, 1029, 3076, 4042 of this title; title 8 section 1324c.
 
-<i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be “paragraph”.</i>
-
 
 ---
 

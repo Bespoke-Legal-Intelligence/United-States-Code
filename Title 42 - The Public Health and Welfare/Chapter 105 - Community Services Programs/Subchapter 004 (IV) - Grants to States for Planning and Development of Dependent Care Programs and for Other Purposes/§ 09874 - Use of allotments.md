@@ -44,7 +44,7 @@
 
 &emsp;(D) provide assurances that the applicant is able and willing to seek to enroll racially, ethnically, and economically diverse school-age children, as well as handicapped school-age children, in the child care service program for which assistance is sought under this Act; <sup>1</sup>
 
-&emsp;(E) provide assurances that the child care program is in compliance with State and local child care licensing laws and regulations governing day care services for school-age children to the extent that such regulations are appropriate to the age group served; and
+&emsp;(E) provide assurances that the child care program is in compliance with State and localchild care licensing laws and regulations governing day care services for school-age children to the extent that such regulations are appropriate to the age group served; and
 
 &emsp;(F) provide such other assurances as the chief executive officer of the State may reasonably require to carry out this Act.<sup>1</sup>
 

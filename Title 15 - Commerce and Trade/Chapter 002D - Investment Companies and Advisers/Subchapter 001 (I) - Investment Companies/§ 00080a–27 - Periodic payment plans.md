@@ -54,7 +54,7 @@ Upon making the election specified in subsection (g) of this section, it shall b
 
 &emsp;(3) the amount of sales load deducted from any one of the first twelve monthly payments, the thirteenth through twenty-fourth monthly payments, the twenty-fifth through thirty-sixth monthly payments, or the thirty-seventh through forty-eighth monthly payments, or their equivalents, respectively, exceeds proportionately the amount deducted from any other such payment, or the amount deducted from any subsequent payment exceeds proportionately the amount deducted from any other subsequent payment;
 
-&emsp;(4) the deduction for sales load on the excess of the payment or payments in any month over the minimum monthly payment, or itsequivalent, to be made on the certificate exceeds the sales load applicable to payments subsequent to the first forty-eight monthly payments or their equivalent;
+&emsp;(4) the deduction for sales load on the excess of the payment or payments in any month over the minimum monthly payment, or its equivalent, to be made on the certificate exceeds the sales load applicable to payments subsequent to the first forty-eight monthly payments or their equivalent;
 
 &emsp;(5) the first payment on such certificate is less than $20, or any subsequent payment is less than $10;
 
@@ -62,9 +62,21 @@ Upon making the election specified in subsection (g) of this section, it shall b
 
 &emsp;(7) if such registered company is a unit investment trust the assets of which are securities issued by a management company, the depositor of or principal underwriter for such trust, or any affiliated person of such depositor or underwriter, is to receive from such management company or any affiliated person thereof any fee or payment on account of payments on such certificate exceeding such reasonable amount as the Commission may prescribe.
 
-(Aug. 22, 1940, ch. 686, title I, §27, 54 Stat. 829; Dec. 14, 1970, Pub. L. 91–547, §16, 84 Stat. 1424; Nov. 23, 1971, Pub. L. 92–165, 85 Stat. 487.)
+#### (i) Applicability to registered separate account funding variable insurance contracts
+
+(1) This section does not apply to any registered separate account funding variable insurance contracts, or to the sponsoring insurance company and principal underwriter of such account, except as provided in paragraph (2).
+
+(2) It shall be unlawful for any registered separate account funding variable insurance contracts, or for the sponsoring insurance company of such account, to sell any such contract unless—
+
+&emsp;(A) such contract is a redeemable security; and
+
+&emsp;(B) the insurance company complies with section 80a–26(e) of this title and any rules or regulations issued by the Commission under section 80a–26(e) of this title.
+
+(Aug. 22, 1940, ch. 686, title I, §27, 54 Stat. 829; Dec. 14, 1970, Pub. L. 91–547, §16, 84 Stat. 1424; Nov. 23, 1971, Pub. L. 92–165, 85 Stat. 487; Oct. 11, 1996, Pub. L. 104–290, title II, §205(b), 110 Stat. 3429.)
 
 #### Amendments
+
+1996—Subsec. (i). Pub. L. 104–290 added subsec. (i).
 
 1971—Subsec. (f). Pub. L. 92–165 inserted “(other than a plan under which the amount of sales load deducted from any payment thereon does not exceed 9 per centum of such payment)”.
 

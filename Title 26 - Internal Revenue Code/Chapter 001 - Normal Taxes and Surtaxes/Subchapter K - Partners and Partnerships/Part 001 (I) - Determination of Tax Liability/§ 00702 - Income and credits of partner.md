@@ -32,7 +32,7 @@ In any case where it is necessary to determine the gross income of a partner for
 
 &emsp;&emsp;<b>For rules relating to procedures for determining the tax treatment of partnership items see subchapter C of chapter 63 (section 6221 and following).</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 239; Feb. 26, 1964, Pub. L. 88–272, title II, §201(d)(7), 78 Stat. 32; Oct. 4, 1976, Pub. L. 94–455, title XIV, §1402(b)(1)(L), (2), title XIX, §§1901(b)(1)(I)(i), (ii), 1906(b)(13)(A), 90 Stat. 1732, 1791, 1834; Apr. 2, 1980, Pub. L. 96–223, title IV, §404(b)(5), 94 Stat. 307; Aug. 13, 1981, Pub. L. 97–34, title III, §301(b)(5), (6)(C), 95 Stat. 270; Sept. 3, 1982, Pub. L. 97–248, title IV, §402(c)(1), 96 Stat. 667; Jan. 12, 1983, Pub. L. 97–448, title I, §103(a)(4), 96 Stat. 2375; July 18, 1984, Pub. L. 98–369, div. A, title X, §1001(b)(9), (e), 98 Stat. 1011, 1012; Oct. 22, 1986, Pub. L. 99–514, title VI, §612(b)(5), 100 Stat. 2250.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 239; Feb. 26, 1964, Pub. L. 88–272, title II, §201(d)(7), 78 Stat. 32; Oct. 4, 1976, Pub. L. 94–455, title XIV, §1402(b)(1)(L), (2), title XIX, §§1901(b)(1)(I)(i), (ii), 1906(b)(13)(A), 90 Stat. 1732, 1791, 1834; Apr. 2, 1980, Pub. L.96–223, title IV, §404(b)(5), 94 Stat. 307; Aug. 13, 1981, Pub. L. 97–34, title III, §301(b)(5), (6)(C), 95 Stat. 270; Sept. 3, 1982, Pub. L. 97–248, title IV, §402(c)(1), 96 Stat. 667; Jan. 12, 1983, Pub. L. 97–448, title I, §103(a)(4), 96 Stat. 2375; July 18, 1984, Pub. L. 98–369, div. A, title X, §1001(b)(9), (e), 98 Stat. 1011, 1012; Oct. 22, 1986, Pub. L. 99–514, title VI, §612(b)(5), 100 Stat. 2250.)
 
 #### Amendments
 
@@ -54,7 +54,7 @@ Pub. L. 97–34, §301(b)(5), inserted “or 128” after “section 116”.
 
 Pub. L. 94–455, §1402(b)(1)(L), provided that “6 months” would be changed to “9 months” for taxable years beginning in 1977.
 
-Subsec. (a)(7) to (9). Pub. L. 94–455, §§1901(b)(1)(I)(i), 1906(b)(13)(A), redesignated pars. (8) and (9) as (7) and\(8), respectively, and in par. (7), as so redesignated, struck out “or his delegate” after “Secretary”. Former par. (7), which related partially tax-exempt interest on obligations of the United States or its instrumentalities, was struck out.
+Subsec. (a)(7) to (9). Pub. L. 94–455, §§1901(b)(1)(I)(i), 1906(b)(13)(A), redesignated pars. (8) and (9) as (7) and (8), respectively, and in par. (7), as so redesignated, struck out “or his delegate” after “Secretary”. Former par. (7), which related partially tax-exempt interest on obligations of the United States or its instrumentalities, was struck out.
 
 Subsec. (b). Pub. L. 94–455, §1901(b)(1)(I)(ii), substituted “paragraphs (1) through (7)” for “paragraphs (1) through (8)”.
 

@@ -28,7 +28,7 @@ The privileges granted by this section and section 1317 of this title in respect
 
 #### Prior Provisions
 
-Provisions similar to those in this section were contained in act Oct. 3, 1913, ch. 16, §IV, K, 38 Stat. 197,which superseded a like provision made by an amendment of R.S. §2982, by the Payne-Aldrich Tariff Act of Aug. 5, 1909, ch. 6, §21, 36 Stat. 88. Section IV, K, of the act of 1913, and R.S. §2982 were superseded by act Sept. 21, 1922, ch. 356, title III, §309, 42 Stat. 938, and respectively repealed by sections 321 and 642 thereof. Section 309 of the act of 1922 was superseded by section 309 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
+Provisions similar to those in this section were contained in act Oct. 3, 1913, ch. 16, §IV, K, 38 Stat. 197, which superseded a like provision made by an amendment of R.S. §2982, by the Payne-Aldrich Tariff Act of Aug. 5, 1909, ch. 6, §21, 36 Stat. 88. Section IV, K, of the act of 1913, and R.S. §2982 were superseded by act Sept. 21, 1922, ch. 356, title III, §309, 42 Stat. 938, and respectively repealed by sections 321 and 642 thereof. Section 309 of the act of 1922 was superseded by section 309 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
 #### Amendments
 

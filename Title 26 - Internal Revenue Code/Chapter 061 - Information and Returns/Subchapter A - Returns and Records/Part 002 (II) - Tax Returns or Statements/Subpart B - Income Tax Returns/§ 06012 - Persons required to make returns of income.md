@@ -48,7 +48,7 @@ Returns with respect to income taxes under subtitle A shall be made by the follo
 
 &emsp;(8) Every individual who receives payments during the calendar year in which the taxable year begins under section 3507 (relating to advance payment of earned income credit).<sup>1</sup>
 
-&emsp;(9) Every estate of an individual under chapter 7 or 11 of title 11 of the United States Code (relating to bankruptcy) the gross income of which for the taxable year is not less than the sum of the exemption amount plus the basic standard deduction under section 63(c)(2)(D).<sup>1</sup>
+&emsp;(9) Every estate of an individual under chapter 7 or 11 of title 11 of the United States Code (relating to bankruptcy) the gross income of which for the taxable year is not less than thesum of the exemption amount plus the basic standard deduction under section 63(c)(2)(D).<sup>1</sup>
 
 > except that subject to such conditions, limitations, and exceptions and under such regulations as may be prescribed by the Secretary, nonresident alien individuals subject to the tax imposed by section 871 and foreign corporations subject to the tax imposed by section 881 may be exempted from the requirement of making returns under this section.
 
@@ -100,7 +100,7 @@ Every person required to file a return under this section for the taxable year s
 
 &emsp;“(ii) who is a surviving spouse (as so defined) and for the taxable year has a gross income of less than the sum of the exemption amount plus the zero bracket amount applicable to such an individual, or
 
-&emsp;“(iii) who is entitled to make a joint return under section 6013 and whose gross income, when combined with the gross income of his spouse, is, for the taxable year, less than the sum of twice the exemption amount plus the zero bracket amount applicable to a joint return, but only if such individual and his spouse, at the close of the taxable year, had the same household as their home.
+&emsp;“(iii) who is entitled to make a joint return under section 6013 and whose gross income, when combined with the gross income of his spouse, is, for the taxable year, less than the sum of twice the exemption amount plus the zero bracket amount applicable to a joint return, but only if such individual and hisspouse, at the close of the taxable year, had the same household as their home.
 
 > Clause (iii) shall not apply if for the taxable year such spouse makes a separate return or any other taxpayer is entitled to an exemption for such spouse under section 151(e).
 
@@ -182,7 +182,7 @@ Subsec. (a)(6). Pub. L. 93–625 added par. (6) and struck out provision that Se
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
+Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision ofthe Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
 #### Effective Date of 1986 Amendment
 
@@ -202,7 +202,7 @@ Amendment by section 111(b)(3) of Pub. L. 97–34 applicable with respect to tax
 
 #### Effective Date of 1980 Amendment
 
-Amendment by section 6(i)(5) of Pub. L. 96–589 effective Oct. 1, 1979, but not applicable to proceedings under title 11 commenced before Oct. 1, 1979, andamendment by section 3(b) of Pub. L. 96–589 applicable to bankruptcy cases commencing more than 90 days after Dec. 24, 1980, see section 7(b), (e) of Pub. L. 96–589, set out as a note under section 108 of this title.
+Amendment by section 6(i)(5) of Pub. L. 96–589 effective Oct. 1, 1979, but not applicable to proceedings under title 11 commenced before Oct. 1, 1979, and amendment by section 3(b) of Pub. L. 96–589 applicable to bankruptcy cases commencing more than 90 days after Dec. 24, 1980, see section 7(b), (e) of Pub. L. 96–589, set out as a note under section 108 of this title.
 
 #### Effective Date of 1978 Amendment
 
@@ -288,7 +288,7 @@ Time return deemed filed and tax considered paid, see section 6513 of this title
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1, 882, 911, 6014, 6032, 6034A, 6037, 6062, 6072, 6513 of this title; title 20 section 1087ss; title 38 section 1503.
+This section is referred to in sections 1, 106, 882, 911, 6014, 6032, 6034A, 6037, 6062, 6072, 6513 of this title; title 20 section 1087ss; title 38 section 1503.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

@@ -40,7 +40,7 @@ The Secretary shall take such action as the Secretary determines appropriate to 
 
 The Secretary shall establish or designate an office and review board within the Department of Education to investigate, process, review, and adjudicate violations of the rights established under this section.
 
-(Pub. L. 90–247, title IV, §445, formerly §439, as added Pub. L. 93–380, title V, §514(a), Aug. 21,1974, 88 Stat. 574; amended Pub. L. 95–561, title XII, §1250, Nov. 1, 1978, 92 Stat. 2355; Pub. L. 103–227, title X, §1017, Mar. 31, 1994, 108 Stat. 268; renumbered §445, Pub. L. 103–382, title II, §212(b)(1), Oct. 20, 1994, 108 Stat. 3913.)
+(Pub. L. 90–247, title IV, §445, formerly §439, as added Pub. L. 93–380, title V, §514(a), Aug. 21, 1974, 88 Stat. 574; amended Pub. L. 95–561, title XII, §1250, Nov. 1, 1978, 92 Stat. 2355; Pub. L. 103–227, title X, §1017, Mar. 31, 1994, 108 Stat. 268; renumbered §445, Pub. L. 103–382, title II, §212(b)(1), Oct. 20, 1994, 108 Stat. 3913.)
 
 #### Prior Provisions
 

@@ -62,7 +62,7 @@
 
 #### Amendments
 
-1984—Subsec. (b)(1). Pub. L. 98–369, §1001(b)(18), (e), substituted “6 months” for “1 year”, applicable to property acquired after June 22, 1984, and before Jan. 1, 1988. See Effective Date of 1984 Amendment note below.
+1984—Subsec. (b)(1). Pub. L. 98–369, §1001(b)(18), (e), substituted “6 months” for “1 year”, applicable toproperty acquired after June 22, 1984, and before Jan. 1, 1988. See Effective Date of 1984 Amendment note below.
 
 Subsec. (c). Pub. L. 98–369, §105(a), added subsec. (c).
 

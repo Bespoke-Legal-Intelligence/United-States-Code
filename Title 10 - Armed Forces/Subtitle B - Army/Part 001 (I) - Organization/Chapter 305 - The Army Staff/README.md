@@ -25,8 +25,6 @@
 
 1966—Pub. L. 89–718, §25(b), Nov. 2, 1966, 80 Stat. 1119, struck out item 3038 “Chief of Engineers: additional duties”.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “Under Secretary of Defense (Comptroller)”.</i>
-
 
 ---
 

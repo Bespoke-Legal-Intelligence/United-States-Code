@@ -2,7 +2,7 @@
 
 The Secretary shall cause to be made in connection with the insurance programs such statistical surveys and legal and economic studies as he shall deem useful to guide the development of housing and the creation of a sound mortgage market in the United States, and shall publish from time to time the results of such surveys and studies. Expenses of such studies and surveys, and expenses of publication and distribution of the results of such studies and surveys, shall be charged as a general expense of such insurance fund or funds, as the Secretary shall determine.
 
-(June 27, 1934, ch. 847, title II, §209, 48 Stat. 1252; Feb. 3, 1938, ch. 13, §3, 52 Stat. 22; Mar. 28, 1941, ch. 31, §4(c), 55 Stat. 62; Apr. 20, 1950, ch. 94, title I, §122, 64 Stat. 59; June 30, 1961, Pub. L. 87–70,title VI, §612(d), 75 Stat. 181; Aug. 10, 1965, Pub. L. 89–117, title XI, §1108(f), 79 Stat. 504; May 25, 1967, Pub. L. 90–19, §1(a)(3), (f), 81 Stat. 17, 18.)
+(June 27, 1934, ch. 847, title II, §209, 48 Stat. 1252; Feb. 3, 1938, ch. 13, §3, 52 Stat. 22; Mar. 28, 1941, ch. 31, §4(c), 55 Stat. 62; Apr. 20, 1950, ch. 94, title I, §122, 64 Stat. 59; June 30, 1961, Pub. L. 87–70, title VI, §612(d), 75 Stat. 181; Aug. 10, 1965, Pub. L. 89–117, title XI, §1108(f), 79 Stat. 504; May 25, 1967, Pub. L. 90–19, §1(a)(3), (f), 81 Stat. 17, 18.)
 
 #### Amendments
 

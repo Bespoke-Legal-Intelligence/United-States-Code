@@ -4,7 +4,7 @@
 
 (1) Subject to subsections (c) through (g) <sup>1</sup> of this section, if the President determines that a foreign person, after November 5, 1990, knowingly—
 
-&emsp;(A) exports, transfers, or otherwise engages in the trade of any MTCR equipment or technology that contributes to the acquisition, design, development, or production of missiles in a country that is not an MTCR adherent andwould be, if it were United States-origin equipment or technology, subject to the jurisdiction of the United States under this chapter,
+&emsp;(A) exports, transfers, or otherwise engages in the trade of any MTCR equipment or technology that contributes to the acquisition, design, development, or production of missiles in a country that is not an MTCR adherent and would be, if it were United States-origin equipment or technology, subject to the jurisdiction of the United States under this chapter,
 
 &emsp;(B) conspires to or attempts to engage in such export, transfer, or trade, or
 
@@ -48,7 +48,7 @@ The Secretary of State, in consultation with the Secretary of Defense, the Secre
 
 (1) In any case other than one in which an advisory opinion has been issued under subsection (d) of this section stating that a proposed activity would not subject a person to sanctions under this section, the President may waive the application of subsection (a) of this section to a foreign person if the President determines that such waiver is essential to the national security of the United States.
 
-(2) In the event that the President decides to apply the waiver described in paragraph (1), the President shall so notify the Congress not less than 20 working days before issuing the waiver. Such notification shall include a report fully articulating the rationale and circumstances which led the President to apply the waiver.
+(2) In the event that the President decides to apply the waiver described in paragraph (1), the President shall so notify the Committee on Armed Services and the Committee on Foreign Relations of the Senate and the Committee on National Security and the Committee on International Relations of the House of Representatives not less than 45 working days before issuing the waiver. Such notification shall include a report fully articulating the rationale and circumstances which led the President to apply the waiver.
 
 #### (f) Presumption
 
@@ -68,7 +68,7 @@ The President shall not apply the sanction under this section prohibiting the im
 
 &emsp;(1) in the case of procurement of defense articles or defense services—
 
-&emsp;&emsp;(A) under existing contracts or subcontracts, including the exercise of optionsfor production quantities to satisfy requirements essential to the national security of the United States;
+&emsp;&emsp;(A) under existing contracts or subcontracts, including the exercise of options for production quantities to satisfy requirements essential to the national security of the United States;
 
 &emsp;&emsp;(B) if the President determines that the person to which the sanctions would be applied is a sole source supplier of the defense articles and services, that the defense articles or services are essential to the national security of the United States, and that alternative sources are not readily or reasonably available; or
 
@@ -86,13 +86,15 @@ The President shall not apply the sanction under this section prohibiting the im
 
 &emsp;&emsp;(D) information and technology essential to United States products or production.
 
-(Pub. L. 90–629, ch. 7, §73, as added Pub. L. 101–510, div. A, title XVII, §1703, Nov. 5, 1990, 104 Stat. 1746; amended Pub. L. 102–138, title III, §323(a), Oct. 28, 1991, 105 Stat. 711; Pub. L. 103–236, title VII, §§714(a)(7), 734(b), Apr. 30, 1994, 108 Stat. 497, 505.)
+(Pub. L. 90–629, ch. 7, §73, as added Pub. L. 101–510, div. A, title XVII, §1703, Nov. 5, 1990, 104 Stat. 1746; amended Pub. L. 102–138, title III, §323(a), Oct. 28, 1991, 105 Stat. 711; Pub. L. 103–236, title VII, §§714(a)(7), 734(b), Apr. 30, 1994, 108 Stat. 497, 505; Pub. L. 104–106, div. A, title XIV, §1408(d), Feb. 10, 1996, 110 Stat. 494.)
 
 #### References in Text
 
 Subsections (f) and (g) of this section, referred to in subsec. (a)(1), were redesignated subsecs. (g) and (h), respectively, by Pub. L. 103–236, title VII, §734(b)(1), Apr. 30, 1994, 108 Stat. 505.
 
 #### Amendments
+
+1996—Subsec. (e)(2). Pub. L. 104–106 substituted “the Committee on Armed Services and the Committee on Foreign Relations of the Senate and the Committee on National Security and the Committee on International Relations of the House of Representatives” for “the Congress” and “45 working days” for “20 working days”.
 
 1994—Subsec. (d). Pub. L. 103–236, §714(a)(7), substituted “, the Secretary of Commerce, and the Director of the United States Arms Control and Disarmament Agency,” for “and the Secretary of Commerce,”.
 
@@ -106,7 +108,7 @@ For delegation of certain functions of the President under this section, see Ex.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 50 App. section 2410b.
+This section is referred to in section 2375 of this title; title 50 App. section 2410b.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

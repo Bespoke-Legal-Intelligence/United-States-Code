@@ -54,7 +54,7 @@
 
 &emsp;&emsp;(C) such laboratory, and each analyst performing DNA analyses at such laboratory, will undergo, at regular intervals of not to exceed 180 days, external proficiency testing by a DNA proficiency testing program meeting the standards issued under section 14131 of this title.
 
-(b) Within 30 days after November 18, 1988, the Director shall promulgate regulations to implement this section (including the information that must be included and the requirements that the States must meet) in submitting the applications required under this section.
+(b) Within 30 days after November 18, 1988, the Director shall promulgate regulations to implement this section (including the information that must be included and the requirements thatthe States must meet) in submitting the applications required under this section.
 
 (Pub. L. 90–351, title I, §503, as added Pub. L. 100–690, title VI, §6091(a), Nov. 18, 1988, 102 Stat. 4331; amended Pub. L. 101–649, title V, §507(a), Nov. 29, 1990, 104 Stat. 5050; Pub. L. 102–232, title III, §306(a)(6), Dec. 12, 1991, 105 Stat. 1751; Pub. L. 103–322, title XXI, §210302(b), Sept. 13, 1994, 108 Stat. 2065.)
 

@@ -22,7 +22,7 @@
 
 &emsp;(1) is married, shall be ineligible to make an election under this section unless a waiver is made under section 8339(j)(1) of this title; or
 
-&emsp;(2) has a former spouse, shall be ineligible to make an election under this section if the former spouse is entitled to benefits under section 8341(h) or 8345(j) of this title (based on the service of the employee or Member) under the terms of a decree of divorce or annulment, or a court order or court-approved property settlement incident to any such decree, with respect to which the Office has been duly notified.
+&emsp;(2) has a former spouse, shall be ineligible to make an election under this section if the former spouse is entitled to benefits under section 8341(h) or 8345(j) of this title (based on the service of the employee or Member) under theterms of a decree of divorce or annulment, or a court order or court-approved property settlement incident to any such decree, with respect to which the Office has been duly notified.
 
 (e) An employee or Member who is married at the time of retiring under this subchapter and who makes an election under this section may, during the 18-month period beginning on the date of retirement, make the election provided for under section 8339(<i>o</i>) of this title, subject to the deposit requirement thereunder.
 
@@ -30,11 +30,11 @@
 
 #### Amendments
 
-<b>1993</b>—Subsec. (a). Pub. L. 103–66, §11002(a)(1), substituted “any employee or Member who has a life-threatening affliction or other critical medical condition” for “an employee or Member”.
+1993—Subsec. (a). Pub. L. 103–66, §11002(a)(1), substituted “any employee or Member who has a life-threatening affliction or other critical medical condition” for “an employee or Member”.
 
 Subsec. (f). Pub. L. 103–66, §11002(a)(2), struck out subsec. (f) which prohibited election of alternative form of annuity where commencement date would be after Dec. 1, 1990, with certain exceptions.
 
-<b>1990</b>—Subsec. (c). Pub. L. 101–428 substituted “(a)–(i), (n), and (q)” for “(a)–(i) and (n)”.
+1990—Subsec. (c). Pub. L. 101–428 substituted “(a)–(i), (n), and (q)” for “(a)–(i) and (n)”.
 
 Subsec. (f). Pub. L. 101–508 added subsec. (f).
 
@@ -86,7 +86,7 @@ Exceptions.—The Office of Personnel Management shall prescribe regulations to 
 
 &emsp;“(1) in the case of any individual who is separated from Government service involuntarily, other than for cause on charges of misconduct or delinquency; and
 
-&emsp;“(2) in the case of any individual as to whom the application of this section would be against equityand good conscience, due to a life-threatening affliction or other critical medical condition affecting such individual.
+&emsp;“(2) in the case of any individual as to whom the application of this section would be against equity and good conscience, due to a life-threatening affliction or other critical medical condition affecting such individual.
 
 “(d)
 
@@ -104,7 +104,7 @@ Continued Applicability.—The preceding provisions of this section (disregardin
 
 &emsp;“(2) section 7001(a)(4) of the Omnibus Budget Reconciliation Act of 1990 \[Pub. L. 101–508, set out as a note above\].”
 
-\[Section 7001(a)(2)(C)(ii) of Pub. L. 101–508 provided that: “The amendments made by clause (i) \[amending section 4005 of Pub. L. 101–239 and section 6001 of Pub. L. 100–203, set out as notes above and below\] shall not apply in any case in which the first half of the lump-sum payment involved was paid before the beginning of the 11-month period which ends on the date of the enactment of this Act \[Nov. 5, 1990\].”\]
+\[Section 7001(a)(2)(C)(ii) of Pub. L. 101–508 provided that: “The amendments made by clause (i) \[amending section 4005 of Pub. L. 101–239 and section 6001 of Pub. L. 100–203, set out as notes above and below\] shall not apply in any case in which the first half of the lump-sum payment involved was paid before the beginning ofthe 11-month period which ends on the date of the enactment of this Act \[Nov. 5, 1990\].”\]
 
 Similar provisions were contained in the following acts:
 

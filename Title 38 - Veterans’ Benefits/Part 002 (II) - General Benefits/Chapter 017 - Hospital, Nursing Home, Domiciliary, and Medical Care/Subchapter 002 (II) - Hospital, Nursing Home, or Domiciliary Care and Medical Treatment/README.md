@@ -11,7 +11,7 @@
 
 - [&sect; 01710 - Eligibility for hospital, nursing home, and domiciliary care](%C2%A7%2001710%20-%20Eligibility%20for%20hospital%2C%20nursing%20home%2C%20and%20domiciliary%20care.md)
 - [&sect; 01711 - Care during examinations and in emergencies](%C2%A7%2001711%20-%20Care%20during%20examinations%20and%20in%20emergencies.md)
-- [&sect; 01712 - Eligibility for outpatient services](%C2%A7%2001712%20-%20Eligibility%20for%20outpatient%20services.md)
+- [&sect; 01712 - Dental care; drugs and medicines for certain disabled veterans; vaccines](%C2%A7%2001712%20-%20Dental%20care%3B%20drugs%20and%20medicines%20for%20certain%20disabled%20veterans%3B%20vaccines.md)
 - [&sect; 01712A - Eligibility for readjustment counseling and related mental health services](%C2%A7%2001712A%20-%20Eligibility%20for%20readjustment%20counseling%20and%20related%20mental%20health%20services.md)
 - [&sect; 01712B - Counseling for former prisoners of war](%C2%A7%2001712B%20-%20Counseling%20for%20former%20prisoners%20of%20war.md)
 - [&sect; 01713 - Medical care for survivors and dependents of certain veterans](%C2%A7%2001713%20-%20Medical%20care%20for%20survivors%20and%20dependents%20of%20certain%20veterans.md)

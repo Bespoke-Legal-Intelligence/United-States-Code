@@ -4,37 +4,29 @@
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), the taxable income of any holder of a residual interest in a REMIC for any taxable year shall in no event be less than the excess inclusion for such taxable year.
+&emsp;The taxable income of any holder of a residual interest in a REMIC for any taxable year shall in no event be less than the excess inclusion for such taxable year.
 
-#### (2) Exception for certain financial institutions
+#### (2) Special rule for affiliated groups
 
-&emsp;Paragraph (1) shall not apply to any organization to which section 593 applies. The Secretary may by regulations provide that the preceding sentence shall not apply where necessary or appropriate to prevent avoidance of tax imposed by this chapter.
+&emsp;All members of an affiliated group filing a consolidated return shall be treated as 1 taxpayer for purposes of this subsection.
 
-#### (3) Special rule for affiliated groups
-
-&emsp;All members of an affiliated group filing a consolidated return shall be treated as 1 taxpayer for purposes of this subsection, except that paragraph (2) shall be applied separately with respect to each corporation which is a member of such group and to which section 593 applies.
-
-#### (4) Treatment of certain subsidiaries
-
-#### (A) In general
-
-&emsp;&emsp;For purposes of this subsection, a corporation to which section 593 applies and each qualified subsidiary of such corporation shall be treated as a single corporation to which section 593 applies.
-
-#### (B) Qualified subsidiary
-
-&emsp;&emsp;For purposes of this subsection, the term “qualified subsidiary” means any corporation—
-
-&emsp;&emsp;&emsp;(i) all the stock of which, and substantially all the indebtedness of which, is held directly by the corporation to which section 593 applies, and
-
-&emsp;&emsp;&emsp;(ii) which is organized and operated exclusively in connection with the organization and operation of 1 or more REMIC's.
-
-#### (5) Coordination with section 172
+#### (3) Coordination with section 172
 
 &emsp;Any excess inclusion for any taxable year shall not be taken into account—
 
 &emsp;&emsp;(A) in determining under section 172 the amount of any net operating loss for such taxable year, and
 
 &emsp;&emsp;(B) in determining taxable income for such taxable year for purposes of the 2nd sentence of section 172(b)(2).
+
+#### (4) Coordination with minimum tax
+
+&emsp;For purposes of part VI of subchapter A of this chapter—
+
+&emsp;&emsp;(A) the reference in section 55(b)(2) to taxable income shall be treated as a reference to taxable income determined without regard to this subsection,
+
+&emsp;&emsp;(B) the alternative minimum taxable income of any holder of a residual interest in a REMIC for any taxable year shall in no event be less than the excess inclusion for such taxable year, and
+
+&emsp;&emsp;(C) any excess inclusion shall be disregarded for purposes of computing the alternative tax net operating loss deduction.
 
 #### (b) Organizations subject to unrelated business tax
 
@@ -128,7 +120,7 @@ If a residual interest in a REMIC is held by a real estate investment trust, und
 
 &emsp;&emsp;(C) any organization described in section 1381(a)(2)(C).
 
-> &emsp;For purposes of subparagraph (A), the rules of section 168(h)(2)(D) (relating to treatment of certain taxable instrumentalities) shall apply; except that, in the case of the Federal HomeLoan Mortgage Corporation, clause (ii) of such section shall not apply.
+> &emsp;For purposes of subparagraph (A), the rules of section 168(h)(2)(D) (relating to treatment of certain taxable instrumentalities) shall apply; except that, in the case of the Federal Home Loan Mortgage Corporation, clause (ii) of such section shall not apply.
 
 #### (6) Treatment of pass-thru entities
 
@@ -180,9 +172,25 @@ If a residual interest in a REMIC is held by a real estate investment trust, und
 
 Except as provided in regulations, with respect to any variable contract (as defined in section 817), there shall be no adjustment in the reserve to the extent of any excess inclusion.
 
-(Added Pub. L. 99–514, title VI, §671(a), Oct. 22, 1986, 100 Stat. 2311; amended Pub. L. 100–647, title I, §1006(t)(13), (15), (16)(B), (17), (23), (26), (27), Nov. 10, 1988, 102 Stat. 3423, 3426, 3427.)
+(Added Pub. L. 99–514, title VI, §671(a), Oct. 22, 1986, 100 Stat. 2311; amended Pub. L. 100–647, title I, §1006(t)(13), (15), (16)(B), (17), (23), (26), (27), Nov. 10, 1988, 102 Stat. 3423, 3426, 3427; Pub. L. 104–188, title I, §§1616(b)(10), 1704(h)(1), Aug. 20, 1996, 110 Stat. 1857, 1881.)
 
 #### Amendments
+
+1996—Subsec. (a)(1). Pub. L. 104–188, §1616(b)(10)(A), substituted “The” for “Except as provided in paragraph (2), the”.
+
+Subsec. (a)(2). Pub. L. 104–188, §1616(b)(10)(B), (C), redesignated par. (3) as (2), struck out “, except that paragraph (2) shall be applied separately with respect to each corporation which is a member of such group and to which section 593 applies” after “of this subsection”, and struck out former par. (2) which read as follows: “
+
+Exception for certain financial institutions.—Paragraph (1) shall not apply to any organization to which section 593 applies. The Secretary may by regulations provide that the preceding sentence shall not apply where necessary or appropriate to prevent avoidance of tax imposed by this chapter.”
+
+Subsec. (a)(3). Pub. L. 104–188, §1616(b)(10)(B), redesignated par. (5) as (3). Former par. (3) redesignated (2).
+
+Subsec. (a)(4). Pub. L. 104–188, §1616(b)(10)(B), (D), redesignated par. (6) as (4), struck out at end “The preceding sentence shall not apply to any organization to which section 593 applies, except to the extent provided in regulations prescribed by the Secretary under paragraph (2).”, and struck out former par. (4) which related to certain subsidiaries being treated as single corporations to which section 593 applied.
+
+Subsec. (a)(5). Pub. L. 104–188, §1616(b)(10)(B), redesignated par. (5) as (3).
+
+Subsec. (a)(6). Pub. L. 104–188, §1616(b)(10)(B), redesignated par. (6) as (4).
+
+Pub. L. 104–188, §1704(h)(1), added par. (6).
 
 1988—Subsec. (a)(3), (4). Pub. L. 100–647, §1006(t)(15), added pars. (3) and (4).
 
@@ -195,6 +203,12 @@ Subsec. (d). Pub. L. 100–647, §1006(t)(23), inserted at end “Rules similar 
 Subsec. (e). Pub. L. 100–647, §1006(t)(16)(B), added subsec. (e).
 
 Subsec. (f). Pub. L. 100–647, §1006(t)(26), added subsec. (f).
+
+#### Effective Date of 1996 Amendment
+
+Amendment by section 1616(b)(10) of Pub. L. 104–188 applicable to taxable years beginning after Dec. 31, 1995, but not applicable to any residual interest held by a taxpayer if such interest has been held by such taxpayer at all times since Oct. 31, 1995, see section 1616(c)(1), (4) of Pub. L. 104–188, set out as a note under section 593 of this title.
+
+Section 1704(h)(2) of Pub. L. 104–188 provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effect as if included in the amendments made by section 671 of the Tax Reform Act of 1986 \[Pub. L. 99–514\] unless the taxpayer elects to apply such amendment only to taxable years beginning after the date of the enactment of this Act \[Aug. 20, 1996\].”
 
 #### Effective Date of 1988 Amendment
 
@@ -216,5 +230,5 @@ Amendment by section 1006(t)(13), (15), (17), (23), (26), (27) of Pub. L. 100–
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 26, 860C, 860D, 860F, 7701 of this title.
+This section is referred to in sections 26, 860C, 860D, 860F, 860J, 860K, 7701 of this title.
 

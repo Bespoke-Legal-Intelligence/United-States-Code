@@ -82,7 +82,7 @@ Sec. 2. The seal shall be of the design that is attached hereto and made a part 
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-[Image not captured: ]
+[Image not captured: t211501.gif]
 
 #### Section Referred to in Other Sections
 

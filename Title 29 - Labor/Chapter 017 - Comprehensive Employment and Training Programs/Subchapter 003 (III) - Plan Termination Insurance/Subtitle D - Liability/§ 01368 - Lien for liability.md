@@ -6,7 +6,7 @@ If any person liable to the corporation under section 1362, 1363, or 1364 of thi
 
 #### (b) Term of lien
 
-The lien imposed by subsection (a) of this section arises on the date of termination of a plan,and continues until the liability imposed under section 1362, 1363, or 1364 of this title is satisfied or becomes unenforceable by reason of lapse of time.
+The lien imposed by subsection (a) of this section arises on the date of termination of a plan, and continues until the liability imposed under section 1362, 1363, or 1364 of this title is satisfied or becomes unenforceable by reason of lapse of time.
 
 #### (c) Priority
 
@@ -60,7 +60,7 @@ A former subsec. (f) of this section was originally subsec. (e) of section 1362 
 
 #### Amendments
 
-1989—Subsec. (a). Pub. L. 101–239, §7881(f)(12), struck out “to the extent such amount does not exceed 30 percent of the collective net worth of all persons described in section 1362(a) of this title” after “the amount of such liability” and substituted “in the amount of such liability (including interest) upon all property andrights to property, whether real or personal, belonging to such person, except that such lien may not be in an amount in excess of 30 percent of the collective net worth of all persons described in section 1362(a) of this title” for “to the extent such amount does not exceed 30 percent of the collective net worth of all persons described in section 1362(a) of this title upon all property and rights to property, whether real or personal, belonging to such person.”
+1989—Subsec. (a). Pub. L. 101–239, §7881(f)(12), struck out “to the extent such amount does not exceed 30 percent of the collective net worth of all persons described in section 1362(a) of this title” after “the amount of such liability” and substituted “in the amount of such liability (including interest) upon all property and rights to property, whether real or personal, belonging to such person, except that such lien may not be in an amount in excess of 30 percent of the collective net worth of all persons described in section 1362(a) of this title” for “to the extent such amount does not exceed 30 percent of the collective net worth of all persons described in section 1362(a) of this title upon all property and rights to property, whether real or personal, belonging to such person.”
 
 Pub. L. 101–239, §7881(f)(3)(B), struck out at end “The preceding provisions of this subsection shall be applied in a manner consistent with the provisions of section 1364(d) of this title relating to treatment of multiple controlled groups.”
 
@@ -96,7 +96,7 @@ Section 7894(g)(4)(B) of Pub. L. 101–239 provided that: “The amendment made 
 
 #### Effective Date of 1987 Amendment
 
-Amendment by Pub. L. 100–203 applicable with respect to plan terminations under section 1341 of this title with respect to which notices of intent to terminate are provided under section 1341(a)(2) of this title after Dec. 17, 1987, and plan terminations with respect to which proceedings are instituted by the Pension Benefit Guaranty Corporation under section 1342 of this title after that date, see section 9312(d)(1) of Pub. L. 100–203, as amended, set out as a note under section 1301 of this title.
+Amendment by Pub. L. 100–203 applicable with respect to plan terminations under section 1341 of this title with respect to which notices of intent to terminate are provided under section 1341(a)(2) of this title after Dec. 17, 1987, and plan terminations with respect to which proceedings are instituted by the PensionBenefit Guaranty Corporation under section 1342 of this title after that date, see section 9312(d)(1) of Pub. L. 100–203, as amended, set out as a note under section 1301 of this title.
 
 #### Effective Date of 1986 Amendment
 

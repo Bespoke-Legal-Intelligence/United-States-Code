@@ -2,7 +2,7 @@
 
 #### (a) Authorization to insure; “supplemental loan” defined
 
-With respect to a multifamily project, hospital, or group practice facility covered by a mortgage insured under any section or subchapter of this chapter or covered by a mortgage held by the Secretary, the Secretary is authorized, upon such terms and conditions as he may prescribe, to make commitments to insure, and to insure, supplemental loans (including advances during construction or improvement) made by financial institutions approved by the Secretary. As used in this section, “supplemental loan” means a loan, advance of credit, or purchase of an obligation representing a loan or advance of credit made for the purpose of financing  improvements  or  additions  to  such project, hospital, or facility: <i>Provided</i>, That a loan involving a nursing home, hospital, or a group practice facility may also be made for the purpose of financing equipment to be used in the operation of such nursing home, hospital, or facility.
+With respect to a multifamily project, hospital, or group practice facility covered by a mortgage insured under any section or subchapter of this chapter or covered by a mortgage held by the Secretary, the Secretary is authorized, upon such terms and conditions as he may prescribe, to make commitments to insure, and to insure, supplemental loans (including advances during construction or improvement) made by financial institutions approved by the Secretary. As used in this section, “supplemental loan” means a loan, advance of credit, or purchase of an obligation representing a loan or advance of credit made for the purpose of financing improvements or additions to such project, hospital, or facility: <i>Provided</i>, That a loan involving a nursing home, hospital, or a group practice facility may also be made for the purpose of financing equipment to be used in the operation of such nursing home, hospital, or facility.
 
 #### (b) Eligibility for insurance
 
@@ -22,7 +22,7 @@ To be eligible for insurance under this section, a supplemental loan shall—
 
 #### (c) Applicability of other provisions of law
 
-The provisions of subsections (d), (e), (g), (h), (i), (j), (k), <i>(l)</i>, and (n) of section 1713 of this title shall be applicable to loans insured under this section, except that (1) all references to the term “mortgage” shall be construed to refer to the term “loan” as used in this section, (2) loans involving projects covered by a mortgage insured under section 1715e of this title that is the obligation of the Cooperative Management Housing Insurance Fund shall be insured under and shall be the obligation of such fund, and (3) loans involving projects covered by a mortgage insured under section 1715z–1 of this title shall be insured under and shall be the obligation of the Special Risk Insurance Fund.
+The provisions of subsections (d), (e), (g), (h), (i), (j), (k), (<i>l</i>), and (n) of section 1713 of this title shall be applicable to loans insured under this section, except that (1) all references to the term “mortgage” shall be construed to refer to the term “loan” as used in this section, (2) loans involving projects covered by a mortgage insured under section 1715e of this title that is the obligation of the Cooperative Management Housing Insurance Fund shall be insured under and shall be the obligation of such fund, and (3) loans involving projects covered by a mortgage insured under section 1715z–1 of this title shall be insured under and shall be the obligation of the Special Risk Insurance Fund.
 
 #### (d) Authorization to insure loans for improvements or additions; terms and conditions; limitation on amount
 
@@ -54,55 +54,7 @@ Notwithstanding the foregoing, the Secretary may insure a loan for improvements 
 
 (4) The Secretary shall provide that any person obligated on the note for any loan insured under this section be regulated or restricted, until the termination of all obligations of the Secretary under the insurance, by the Secretary as to rents or sales, charges, capital structure, rate of return, and methods of operations of the multifamily project to such an extent and in such manner as to provide reasonable rentals to tenants and a reasonable return on the investment.
 
-#### (f) Insurance for second mortgage financing
-
-(1) Notwithstanding any other provision of this section, the Secretary may, upon such terms and conditions as the Secretary may prescribe, make a commitment to insure and insure equity loans and acquisition loans made by financial institutions approved by the Secretary and State housing finance agencies that enter into risk-sharing agreements with the Secretary.
-
-(2)(A) For purposes of this section, the term “equity loan” means a loan or advance of credit to the owner of eligible low income housing (as defined in section 229 of the Low-Income Housing Preservation and Resident Homeownership Act of 1990 \[12 U.S.C. 4119\]) who agrees to extend the low-income affordability restrictions on the housing pursuant to an approved plan of action under such Act \[12 U.S.C. 4101 et seq.\].
-
-(B) To be eligible for insurance under this paragraph, an equity loan shall—
-
-&emsp;(i) be limited to an amount equal to the amount of rehabilitation costs required by the plan of action and related charges and the lesser of (I) 70 percent of the preservation equity in the project, as determined by the Secretary under such Act \[12 U.S.C. 4101 et seq.\], or (II) the amount the Secretary determines can be supported by the project on the basis of an 8 percent return on the preservation equity (assuming normal debt service coverages); and
-
-&emsp;(ii) provide for the lender to deposit (on behalf of the borrowing owner) 10 percent of the loan amount in an escrow account, controlled by the Secretary or a State housing finance agency approved by the Secretary, which shall be made available to the owner upon the expiration of the 5-year period beginning on the date the loan is made, subject to compliance with section 222(d) of such Act \[12 U.S.C. 4112(d)\]; <sup>1</sup>
-
-(3)(A) For purposes of this section, the term “acquisition loan” means a loan or advance of credit to a qualified purchaser of eligible low-income housing (as defined in section 231 of the Low-Income Housing Preservation and Resident Homeownership Act of 1990 \[12 U.S.C. 4121\]) acquiring the housing under section 220 or 221 of such Act \[12 U.S.C. 4110 or 4111\] who agrees to extend the low-income affordability restrictions pursuant to an approved plan of action under such Act \[12 U.S.C. 4101 et seq.\].
-
-(B) To be eligible for insurance under this paragraph, an acquisition loan shall be limited to 95 percent of the preservation equity of the housing determined under section 229(8) of the Low-Income Housing Preservation and Resident Homeownership Act of 1990 \[12 U.S.C. 4119(8)\] and the amount of rehabilitation costs required by the plan of action and related charges and,<sup>2</sup> except that the loan may include, if the qualified purchaser is a priority purchaser as defined under section 231 of such Act \[12 U.S.C. 4121\], any expenses associated with the acquisition, loan closing, and implementation of the plan of action, subject to approval by the Secretary.
-
-(4) The provisions of subsections (d), (e), (g), (h), (i), (j), (k), (<i>l</i>), and (n) of section 1713 of this title shall be applicable to loans insured under this subsection, except that—
-
-&emsp;(A) all references to the term “mortgage” shall be construed to refer to the term “loan” as used in this subsection;
-
-&emsp;(B) loans involving projects covered by a mortgage insured under section 1715z–1 of this title shall be insured under and shall be the obligations of the Special Risk Insurance Fund; and
-
-&emsp;(C) with respect to any sale under foreclosure of a mortgage on the project that is senior to the equity loan insured under this subsection and when the equity loan is secured by a mortgage, the Secretary may—
-
-&emsp;&emsp;(i) issue regulations providing that, in order to receive insurance benefits, the insured mortgagee shall either assign the equity or acquisition loan to the Secretary or bid the amount necessary to acquire the project and convey title to the project to the Secretary, in which case the insurance benefits paid by the Secretary shall include the amount bid by the mortgagee to satisfy the senior mortgage at the foreclosure sale; and
-
-&emsp;&emsp;(ii) if the equity or acquisition loan has been assigned to the Secretary, bid, in addition to amounts authorized under section 1713(k) of this title, any sum not in excess of the total unpaid indebtedness secured by such senior mortgage and the equity or acquisition loan, plus taxes, insurance, foreclosure costs, fees, and other expenses.
-
-(5) Loans insured under this subsection shall—
-
-&emsp;(A)(i) in the case of equity loans, have a term not to exceed 40 years and amortization provisions which will, to the extent practicable, support the loan amount authorized under paragraph (2)(B); and
-
-&emsp;(ii) in the case of acquisition loans, have a term of not less than 40 years; and
-
-&emsp;(B) bear interest at such rate as may be agreed upon by the mortgagor and mortgagee and be secured in such manner as the Secretary may require; and
-
-&emsp;(C) contain such other terms, conditions, and restrictions as the Secretary may prescribe, including phased advances of equity loan proceeds to reflect project rent levels.
-
-(6) When underwriting an equity or acquisition loan under this subsection, the Secretary may assume that the rental assistance provided in accordance with an approved plan of action under section 222 of the Cranston-Gonzalez National Affordable Housing Act \[42 U.S.C. 12752\] will be extended for the full term of the contract entered into under such Act. The Secretary may accelerate repayment of a loan under this subsection if rental assistance is not extended under section 222(b) of such Act or the Secretary is unable to develop a revised package of incentives to the owner comparable to those received under the original approved plan of action.
-
-(7) If the Secretary is unable to extend the term of rental assistance for the full term of the contract entered into under section 222(b) of the Cranston-Gonzalez National Affordable Housing Act \[42 U.S.C. 12752(b)\], the Secretary may take such actions as the Secretary determines to be appropriate to avoid default, avoid disruption ofthe sound ownership and management of the housing, and otherwise minimize the cost to the Federal Government.
-
-(8) A mortgagee approved by the Secretary may not withhold consent to an equity or acquisition loan on a property on which that mortgagee holds a mortgage.
-
-(10) <sup>3</sup> The Secretary shall renegotiate and modify the terms of an equity loan insured under this subsection, at the request of the owner of the project for which the loan is made, if—
-
-&emsp;(1) the loan was made during the period beginning 30 days before October 28, 1992, and ending 90 days after October 28, 1992, under this subsection; and
-
-&emsp;(2) the loan was made pursuant to a plan of action under the provisions of the Emergency Low Income Housing Preservation Act of 1987 and accepted by the Secretary for processing in December 1991.
+#### (f) Repealed. Pub. L. 104–204, title II, Sept. 26, 1996, 110 Stat. 2885
 
 #### (g) Extension of rental assistance for term of loan
 
@@ -116,17 +68,11 @@ Notwithstanding the foregoing, the Secretary may insure a loan for improvements 
 
 (2) A mortgagee approved by the Secretary may not withhold consent to a rehabilitation loan insured in connection with eligible multifamily housing on which that mortgagee holds a mortgage.
 
-(June 27, 1934, ch. 847, title II, §241, as added Aug. 1, 1968, Pub. L. 90–448, title III, §307, 82 Stat. 508; amended Dec. 31, 1970, Pub. L. 91–609, title I, §111, 84 Stat. 1772; Aug. 22, 1974, Pub. L. 93–383, title III, §313, 88 Stat. 684; Aug. 3, 1976, Pub. L. 94–375, §5, 90 Stat. 1070; Oct. 31, 1978, Pub. L. 95–557, title III, §311(b), 92 Stat. 2098; Nov. 9, 1978, Pub. L. 95–619, title II, §247, 92 Stat. 3234; Dec. 21, 1979, Pub. L. 96–153, title III, §319, 93 Stat. 1119; Oct. 8, 1980, Pub. L. 96–399, title III, §314, 94 Stat. 1645; Nov. 30, 1983, Pub. L. 98–181, title IV, §404(b)(14), 97 Stat. 1210; Oct. 17, 1984, Pub. L. 98–479, title II, §204(a)(11), (12), 98 Stat. 2232; Feb. 5, 1988, Pub. L. 100–242, title II, §231, title IV, §429(c), 101 Stat. 1884, 1918; Dec. 15, 1989, Pub. L. 101–235, title II, §§203(c), (d), 204(b), 103 Stat. 2038, 2039; Nov. 28, 1990, Pub. L. 101–625, title VI, §602(a), 104 Stat. 4275; Oct. 28, 1992, Pub. L. 102–550, title III, §§316(a), (b), 317(c), 106 Stat. 3771, 3772.)
-
-#### References in Text
-
-The Low-Income Housing Preservation and Resident Homeownership Act of 1990, referred to in subsec. (f)(2), (3), is title II of Pub. L. 100–242, Feb. 5, 1988, 101 Stat. 1877, as amended, which is classified principally to chapter 42 (§4101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of this title and Tables.
-
-The Cranston-Gonzalez National Affordable Housing Act, referred to in subsec. (f)(6), is Pub. L. 101–625, Nov. 28, 1990, 104 Stat. 4079. For complete classification of this Act to the Code, see Short Title note set out under section 12701 of Title 42, The Public Health and Welfare, and Tables.
-
-The Emergency Low Income Housing Preservation Act of 1987, referred to in subsec. (f)(10)(2), is title II of Pub. L. 100–242, Feb. 5, 1988, 101 Stat. 1877, which, as amended by Pub. L. 101–625, is known as the Low-Income Housing Preservation and Resident Homeownership Act of 1990. Subtitles A and B of title II, which were formerly set out as a note under section 1715<i>l</i> of this title and which amended this section, were amended generally by Pub. L. 101–625 and are classified to subchapter I (§4101 et seq.) of chapter 42 of this title. Subtitles C and D of title II amended section 1715z–15 of this title and sections 1437f, 1472, 1485, and 1487 of Title 42. Another subtitle C of title II of Pub. L. 100–242, as added by Pub. L. 102–550, is classified generally to subchapter II (§4141 et seq.) of chapter 42 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of this title and Tables.
+(June 27, 1934, ch. 847, title II, §241, as added Aug. 1, 1968, Pub. L. 90–448, title III, §307, 82 Stat. 508; amended Dec. 31, 1970, Pub. L. 91–609, title I, §111, 84 Stat. 1772; Aug. 22, 1974, Pub. L. 93–383, title III, §313, 88 Stat. 684; Aug. 3, 1976, Pub. L. 94–375, §5, 90 Stat. 1070; Oct. 31, 1978, Pub. L. 95–557, title III, §311(b), 92 Stat. 2098; Nov. 9, 1978, Pub. L. 95–619, title II, §247, 92 Stat. 3234; Dec. 21, 1979, Pub. L. 96–153, title III, §319, 93 Stat. 1119; Oct. 8, 1980, Pub. L. 96–399, title III, §314, 94 Stat. 1645; Nov. 30, 1983, Pub. L. 98–181, title IV, §404(b)(14), 97 Stat. 1210; Oct. 17, 1984, Pub. L. 98–479, title II, §204(a)(11), (12), 98 Stat. 2232; Feb. 5, 1988, Pub. L. 100–242, title II, §231, title IV, §429(c), 101 Stat. 1884, 1918; Dec. 15, 1989, Pub. L. 101–235, title II, §§203(c), (d), 204(b), 103 Stat. 2038, 2039; Nov. 28, 1990, Pub. L. 101–625, title VI, §602(a), 104 Stat. 4275; Oct. 28, 1992, Pub. L. 102–550, title III, §§316(a), (b), 317(c), 106 Stat. 3771, 3772; Sept. 26, 1996, title II, Pub. L. 104–204, 110 Stat. 2885.)
 
 #### Amendments
+
+1996—Subsec. (f). Pub. L. 104–204 struck out subsec. (f), which related to insurance for second mortgage financing.
 
 1992—Subsec. (f)(2)(B)(i). Pub. L. 102–550, §316(a)(1), inserted “the amount of rehabilitation costs required by the plan of action and related charges and” after “equal to”.
 
@@ -190,7 +136,11 @@ Amendment by section 231 of Pub. L. 100–242 applicable to any project that is 
 
 #### Regulations
 
-Section 316(c) of Pub. L. 102–550 provided that: “Not later than the expiration of the 45-day period beginning on the date of the enactment of this Act \[Oct. 28, 1992\], the Secretary shall issue regulations implementing section 241(f)(1) of the National Housing Act \[12 U.S.C. 1715z–6(f)(1)\]. The regulations shall not be subject to the requirements of subsections (b) and (c) of section 553 of title 5, United States Code.”
+Section 316(c) of Pub. L. 102–550 directed Secretary, not later than the expiration of 45-day period beginning on Oct. 28, 1992, to issue regulations implementing subsec. (f)(1) of this section and provided that such regulations are not subject to requirements of 5 U.S.C. 553.
+
+#### Insurance for Second Mortgage Financing Not To Be Offered as Incentive Under LIHPRHA and ELIHPA
+
+Insurance for second mortgage financing provided under former subsec. (f) of this section not to be offered as incentive under the Low-Income Housing Preservation and Resident Homeownership Act of 1990 (12 U.S.C. 4101 et seq.) and the Emergency Low Income Housing Preservation Act of 1987 (Pub. L. 100–242, title II, Feb. 5, 1988, 101 Stat. 1877, as amended), see title II in part of Pub. L. 104–204, set out as a Low-Income Housing Preservation note under section 4101 of this title.
 
 #### Delegation of Processing of Mortgage Insurance
 
@@ -199,10 +149,4 @@ Secretary of Housing and Urban Development to implement system of mortgage insur
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 1715z–19, 4109, 4110, 4112, 4119 of this title; title 42 section 4822.
-
-<i><sup>1</sup></i><i> So in original. The semicolon probably should be a period.</i>
-
-<i><sup>2</sup></i><i> So in original. The word “and” probably should not appear.</i>
-
-<i><sup>3</sup></i><i> So in original. Probably should be “(9)”.</i>
 

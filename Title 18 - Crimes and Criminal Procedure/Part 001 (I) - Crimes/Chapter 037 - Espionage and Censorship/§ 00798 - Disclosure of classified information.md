@@ -8,7 +8,7 @@
 
 &emsp;(3) concerning the communication intelligence activities of the United States or any foreign government; or
 
-&emsp;(4) obtained by the process of communication intelligence from the communications ofany foreign government, knowing the same to have been obtained by such processes—
+&emsp;(4) obtained by the process of communication intelligence from the communications of any foreign government, knowing the same to have been obtained by such processes—
 
 Shall be fined under this title or imprisoned not more than ten years, or both.
 
@@ -46,9 +46,9 @@ The term “unauthorized person” means any person who, or agency which, is not
 
 (4) Notwithstanding section 524(c) of title 28, there shall be deposited in the Crime Victims Fund established under section 1402 of the Victims of Crime Act of 1984 (42 U.S.C. 10601) all amounts from the forfeiture of property under this subsection remaining after the payment of expenses for forfeiture and sale authorized by law.
 
-(5) As used in this subsection, the term “State” means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Trust Territory of the Pacific Islands, and any territory or possession of the United States.
+(5) As used in this subsection, the term “State” means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, and any territory or possession of the United States.
 
-(Added Oct. 31, 1951, ch. 655, §24(a), 65 Stat. 719; amended Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(L), 108 Stat. 2147; Oct. 14, 1994, Pub. L. 103–359, title VIII, §804(a), 108 Stat. 3439.)
+(Added Oct. 31, 1951, ch. 655, §24(a), 65 Stat. 719; amended Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(L), 108 Stat. 2147; Oct. 14, 1994, Pub. L. 103–359, title VIII, §804(a), 108 Stat. 3439; Oct. 11, 1996, Pub. L. 104–294, title VI, §602(c), 110 Stat. 3503.)
 
 #### Codification
 
@@ -56,13 +56,11 @@ Another section 798 was renumbered section 798A of this title.
 
 #### Amendments
 
+1996—Subsec. (d)(5). Pub. L. 104–294 struck out “the Trust Territory of the Pacific Islands,” after “Puerto Rico,”.
+
 1994—Subsec. (a). Pub. L. 103–322 substituted “fined under this title” for “fined not more than $10,000” in concluding provisions.
 
 Subsec. (d). Pub. L. 103–359 added subsec. (d).
-
-#### Termination of Trust Territory of the Pacific Islands
-
-For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 
 #### Canal Zone
 

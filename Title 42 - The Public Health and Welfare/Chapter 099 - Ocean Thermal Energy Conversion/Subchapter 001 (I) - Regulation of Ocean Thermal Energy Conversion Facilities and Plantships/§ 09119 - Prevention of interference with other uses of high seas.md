@@ -6,7 +6,7 @@ Each license shall include such conditions as may be necessary and appropriate t
 
 #### (b) Rules and regulations
 
-The Administrator shall promulgate regulations specifying under what conditions and inwhat circumstances the thermal plume of an ocean thermal energy conversion facility or plantship licensed under this chapter will be deemed—
+The Administrator shall promulgate regulations specifying under what conditions and in what circumstances the thermal plume of an ocean thermal energy conversion facility or plantship licensed under this chapter will be deemed—
 
 &emsp;(1) to impinge on so as to degrade the thermal gradient used by another ocean thermal energy conversion facility or plantship, or
 

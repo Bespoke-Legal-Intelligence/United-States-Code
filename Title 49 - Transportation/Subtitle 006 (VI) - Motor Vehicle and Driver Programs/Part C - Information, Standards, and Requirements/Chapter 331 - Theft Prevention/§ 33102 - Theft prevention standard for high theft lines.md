@@ -36,7 +36,9 @@ Records and Reports.—This chapter does not authorize the Secretary to require 
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

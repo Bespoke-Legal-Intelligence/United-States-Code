@@ -2,11 +2,15 @@
 
 #### (a) Inventory and identification
 
-The Secretary of the Smithsonian Institution, in consultation and cooperation with traditional Indian religious leaders and government officials of Indian tribes, shall—
+(1) The Secretary of the Smithsonian Institution, in consultation and cooperation with traditional Indian religious leaders and government officials of Indian tribes, shall—
 
-&emsp;(1) inventory the Indian human remains and Indian funerary objects in the possession or control of the Smithsonian Institution; and
+&emsp;(A) inventory the Indian human remains and Indian funerary objects in the possession or control of the Smithsonian Institution; and
 
-&emsp;(2) using the best available scientific and historical documentation, identify the origins of such remains and objects.
+&emsp;(B) using the best available scientific and historical documentation, identify the origins of such remains and objects.
+
+(2) The inventory made by the Secretary of the Smithsonian Institution under paragraph (1) shall be completed not later than June 1, 1998.
+
+(3) For purposes of this subsection, the term “inventory” means a simple, itemized list that, to the extent practicable, identifies, based upon available information held by the Smithsonian Institution, the geographic and cultural affiliation of the remains and objects referred to in paragraph (1).
 
 #### (b) Notice in case of identification of tribal origin
 
@@ -30,9 +34,15 @@ Nothing in this section shall be interpreted as—
 
 #### (f) Authorization of appropriations
 
-There is authorized to be appropriated $1,000,000 for fiscal year 1991 and such sums as may be necessary for succeeding fiscal years to carry out this section.
+There is authorized to be appropriated $1,000,000 for fiscal year 1991 and such sums as may be necessary for succeeding fiscal years to carry out this section and section 80q–9a of this title.
 
-(Pub. L. 101–185, §11, Nov. 28, 1989, 103 Stat. 1343.)
+(Pub. L. 101–185, §11, Nov. 28, 1989, 103 Stat. 1343; Pub. L. 104–278, §3, Oct. 9, 1996, 110 Stat. 3355.)
+
+#### Amendments
+
+1996—Subsec. (a). Pub. L. 104–278, §3(a), designated existing provisions as par. (1), added pars. (2) and (3), and redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1).
+
+Subsec. (f). Pub. L. 104–278, §3(b), inserted “and section 80q–9a of this title” after “to carry out this section”.
 
 #### Section Referred to in Other Sections
 

@@ -1,6 +1,6 @@
 ### §571. Warrant officers: grades
 
-(a) The regular warrant officer grades in the armed forces corresponding to the pay gradesprescribed for warrant officers by section 201(b) of title 37 are as follows:
+(a) The regular warrant officer grades in the armed forces corresponding to the pay grades prescribed for warrant officers by section 201(b) of title 37 are as follows:
 
 > Warrant officer grade:
 
@@ -44,7 +44,7 @@ Section 1101 of title XI of Pub. L. 102–190 provided that: “This title \[ena
 
 #### Transition and Savings Provisions
 
-Section 541(c), (d) of Pub. L. 103–337 provided that:
+Section 541(c), (d) of Pub. L. 103–337, as amended by Pub. L. 104–106, div. A, title XV, §1504(a)(3), Feb. 10, 1996, 110 Stat. 513, provided that:
 
 “(c)
 
@@ -52,11 +52,11 @@ Transition for Certain Regular Warrant Officers Serving in a Higher Temporary Gr
 
 &emsp;“(A) is serving in a temporary grade below chief warrant officer, W–5, that is higher than that warrant officer's permanent grade;
 
-&emsp;“(B) is on a list of officers recommended for promotion to a temporary grade below chief warrant officer W–5; or
+&emsp;“(B) is on a list of officers recommended for promotion to a temporary grade below chief warrant officer, W–5; or
 
 &emsp;“(C) is on a list of officers recommended for promotion to a permanent grade higher than the grade in which that warrant officer is serving;
 
-> shall be considered to have been recommended by a board convened under section 573 of title 10, United States Code, as amended by this \[sic\] subsection (b), for promotion to the permanent grade equivalent to the grade in which that warrant officer is serving or for which that warrant officer has been recommended for promotion, as the case may be.
+> shall be considered to have been recommended by a board convened under section 573 of title 10, United States Code, as amended by subsection (b), for promotion to the permanent grade equivalent to the grade in which that warrant officer is serving or for which that warrant officer has been recommended for promotion, as the case may be.
 
 “(2) An officer referred to in subparagraph (A) of paragraph (1) who is not promoted to the grade to which that warrant officer is considered under such subsection to have been recommended for promotion because that officer's name is removed from a list of officers who are considered under such paragraph to have been recommended for promotion shall be considered by a board convened under section 573 of title 10, United States Code, as amended by subsection (b), for promotion to the permanent grade equivalent to the temporary grade in which that warrant officer was serving on the effective date of this section as if that warrant officer were serving in the permanent grade.
 
@@ -102,7 +102,7 @@ Certain Officers To Be Considered as Recommended for Promotion.—A regular warr
 
 “(b)
 
-Board Consideration for Officers Removed From Promotion List.—An officer referred to in paragraph (1) of subsection (a) who is not promoted to the grade to which he is considered under such subsection to have been recommended for promotion because his name is removed from a list of officers who are considered under such paragraph to have been recommended for promotion shall be considered by a board convened under section 573 of title 10, United States Code, as amended by this title, for promotion to the permanent grade equivalent to the temporary grade in which he was serving on the effective date of this title as if he were serving in his permanent grade.
+Board Consideration for Officers Removed From Promotion List.—An officer referred to in paragraph (1) of subsection (a) who is not promoted to the grade to which he is considered under such subsection to have been recommended for promotion because his name is removed from a list of officers who are considered under such paragraph to have been recommended for promotion shall be considered by a board convened under section 573 of title 10, United States Code, as amended by this title, for promotion to the permanent grade equivalent to the temporary grade in which hewas serving on the effective date of this title as if he were serving in his permanent grade.
 
 “(c)
 

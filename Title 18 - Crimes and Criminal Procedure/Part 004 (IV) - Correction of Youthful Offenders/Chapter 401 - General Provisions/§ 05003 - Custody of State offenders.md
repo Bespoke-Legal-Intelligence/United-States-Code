@@ -8,7 +8,7 @@
 
 &emsp;(B) for receiving in exchange persons convicted of criminal offenses in the courts of the United States, to serve their sentence in appropriate institutions or facilities of the State or territory by designation as provided in section 4082(b) <sup>1</sup> of this title, this exchange to be made according to formulas or conditions which may be negotiated in the contract; or
 
-&emsp;(C) for compensating the United States by means of a combination of monetary paymentand of receipt of persons convicted of criminal offenses in the courts of the United States, according to formulas or conditions which may be negotiated in the contract.
+&emsp;(C) for compensating the United States by means of a combination of monetary payment and of receipt of persons convicted of criminal offenses in the courts of the United States, according to formulas or conditions which may be negotiated in the contract.
 
 (3) No such contract shall provide for the receipt of more State or territory prisoners by the United States than are transferred to that State or territory by such contract.
 

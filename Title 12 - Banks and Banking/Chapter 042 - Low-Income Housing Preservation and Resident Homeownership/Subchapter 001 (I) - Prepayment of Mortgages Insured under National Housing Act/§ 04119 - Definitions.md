@@ -20,9 +20,7 @@ For purposes of this subchapter:
 
 &emsp;(3) The term “low-income affordability restrictions” means limits imposed by regulation or regulatory agreement on tenant rents, rent contributions, or income eligibility in eligible low-income housing.
 
-&emsp;(4)(A) The term “low-income tenants” means families or persons with incomes that exceed 50 percent of the median income for the area (as determined by the Secretary with adjustments for family size) but do not exceed 80 percent of the median income for the area (as determined by the Secretary with adjustments for family size).
-
-&emsp;(B) The term “very low-income tenants” means families or persons with incomes that are less than or equal to 50 percent of the median income for the area (as determined by the Secretary with adjustments for family size).
+&emsp;(4) The terms “low-income families or persons” and “very low-income families or persons” mean families or persons whose incomes do not exceed the respective levels established for low-income families and very low-income families, respectively, under section 1437a(b)(2) of title 42.
 
 &emsp;(5) The term “moderate-income families or persons” means families or persons whose incomes are between 80 percent and 95 percent of the median income for the area, as determined by the Secretary with adjustments for smaller and larger families.
 
@@ -46,7 +44,7 @@ For purposes of this subchapter:
 
 &emsp;&emsp;&emsp;(ii) any debt secured by the property; and
 
-&emsp;&emsp;(B) for purposes of determining incentives under section <sup>1</sup> 4110 and 4111 of this title and determining the amount of an acquisition loan under the provisions of section 1715z–6(f)(3) of this title—
+&emsp;&emsp;(B) for purposes of determining incentives under section <sup>1</sup> 4110 and 4111 of this title and determining the amount of an acquisition loan under the provisions of section 1715z–6(f)(3) <sup>2</sup> of this title—
 
 &emsp;&emsp;&emsp;(i) the preservation value of the housing determined under section 4103(b)(2) of this title; less
 
@@ -66,9 +64,9 @@ For purposes of this subchapter:
 
 (Pub. L. 100–242, title II, §229, as added Pub. L. 101–625, title VI, §601(a), Nov. 28, 1990, 104 Stat. 4271; amended Pub. L. 102–550, title III, §§310, 317(a)(5), Oct. 28, 1992, 106 Stat. 3765, 3772; Pub. L. 103–327, title II, Sept. 28, 1994, 108 Stat. 2316.)
 
-#### Amendment of Section
+#### References in Text
 
-<i>For termination of amendment by title II of Pub. L. 103–327, see Effective and Termination Dates of 1994 Amendment note below.</i>
+Section 1715z–6(f) of this title, referred to in par. (8)(B), was repealed by Pub. L. 104–204, title II, Sept. 26, 1996, 110 Stat. 2885.
 
 #### Codification
 
@@ -76,7 +74,11 @@ Amendment by Pub. L. 103–327 is based on section 601(e) of title VI of S. 2281
 
 #### Amendments
 
-1994—Par. (4). Pub. L. 103–327 temporarily amended par. (4) generally. Prior to amendment, par. (4) read as follows: “The terms ‘low-income families or persons’ and ‘very low-income families or persons’ mean families or persons whose incomes do not exceed the respective levels established for low-income families and very low-income families, respectively, under section 1437a(b)(2) of title 42.” See Effective and Termination Dates of 1994 Amendment note below.
+1994—Par. (4). Pub. L. 103–327 temporarily amended par. (4) to read as follows:
+
+“(4)(A) The term ‘low-income tenants’ means families or persons with incomes that exceed 50 percent of the median income for the area (as determined by the Secretary with adjustments for family size) but do not exceed 80 percent of the median income for the area (as determined by the Secretary with adjustments for family size).
+
+“(B) The term ‘very low-income tenants’ means families or persons with incomes that are less than or equal to 50 percent of the median income for the area (as determined by the Secretary with adjustments for family size).” See Effective and Termination Dates of 1994 Amendment note below.
 
 1992—Par. (1)(A)(i). Pub. L. 102–550, §310, substituted “receiving loan management assistance under section 1437f of title 42 due to a conversion from section 1701s of this title” for “assisted under section 1701s of this title or section 1437f of title 42”.
 
@@ -88,7 +90,9 @@ Amendment by Pub. L. 103–327 effective only during fiscal year 1995, see provi
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1715z–6, 1715z–15, 4104, 4109, 4122, 4146 of this title.
+This section is referred to in sections 1715z–15, 4104, 4109, 4122, 4146 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “sections”.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

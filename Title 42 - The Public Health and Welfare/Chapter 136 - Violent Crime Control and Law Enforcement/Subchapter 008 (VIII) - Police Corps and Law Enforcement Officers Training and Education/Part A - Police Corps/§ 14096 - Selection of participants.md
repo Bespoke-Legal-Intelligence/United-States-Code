@@ -42,7 +42,7 @@ Each State participating in the Police Corps program shall make special efforts 
 
 #### (d) Enrollment of applicant
 
-(1) An applicant shall be accepted into a State Police Corps program on the condition that the applicant will be matriculated in, or accepted for admission at, a 4-year institution of higher education—
+(1) An applicant shall be accepted into a State Police Corps program on the condition that theapplicant will be matriculated in, or accepted for admission at, a 4-year institution of higher education—
 
 &emsp;(A) as a full-time student in an undergraduate program; or
 

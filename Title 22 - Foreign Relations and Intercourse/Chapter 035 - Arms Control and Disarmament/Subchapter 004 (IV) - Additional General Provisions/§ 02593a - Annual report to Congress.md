@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Not later than January 31 of each year, the President shall submit to the Speaker of the House of Representatives and to the chairman of the Committee on Foreign Relations of the Senate a report prepared by the Director, in consultation with the Secretary of State, the Secretary of Defense, the Secretary of Energy, the Chairman of the Joint Chiefs of Staff, and the Director of Central Intelligence, on the status of United States policy and actions with respect to arms control, nonproliferation, and disarmament. Such report shall include—
+Not later than January 31 of each year, the President shall submit to the Speaker of theHouse of Representatives and to the chairman of the Committee on Foreign Relations of the Senate a report prepared by the Director, in consultation with the Secretary of State, the Secretary of Defense, the Secretary of Energy, the Chairman of the Joint Chiefs of Staff, and the Director of Central Intelligence, on the status of United States policy and actions with respect to arms control, nonproliferation, and disarmament. Such report shall include—
 
 &emsp;(1) a detailed statement concerning the arms control and disarmament objectives of the executive branch of Government for the forthcoming year;
 
@@ -22,7 +22,7 @@ Not later than January 31 of each year, the President shall submit to the Speake
 
 &emsp;&emsp;(C) recommendations as to any steps that should be considered to redress any damage to United States national security and to reduce compliance problems; and
 
-&emsp;(7) a discussion of any material noncompliance by foreign governments with their binding commitments to the United States with respect to the prevention of the spread of nuclear explosive devices (as defined in section 830(4) of the Nuclear Proliferation Prevention Act of 1994) by non-nuclear-weapon states (as defined in section 830(5) of that Act) or the acquisition by such states of unsafeguarded special nuclear material (as defined in section 830(8) of that Act), including—
+&emsp;(7) a discussion of any material noncompliance by foreign governments with their binding commitments to the United States with respect to the prevention of the spread of nuclear explosive devices (as defined in section 6305(4) of this title) by non-nuclear-weapon states (as defined in section 6305(5) of this title) or the acquisition by such states of unsafeguarded special nuclear material (as defined in section 6305(8) of this title), including—
 
 &emsp;&emsp;(A) a net assessment of the aggregate military significance of all such violations;
 
@@ -40,27 +40,19 @@ If the President in consecutive reports submitted to the Congress under this sec
 
 (Pub. L. 87–297, title IV, §51, as added and amended Pub. L. 103–236, title VII, §717(a)(3), title VIII, §828(a), Apr. 30, 1994, 108 Stat. 498, 520.)
 
-#### Amendment of Section
-
-<i>For termination of amendment by section 851 of Pub. L. 103–236, see Effective and Termination Dates of 1994 Amendment note below.</i>
-
-#### References in Text
-
-Section 830 of the Nuclear Proliferation Prevention Act of 1994, referred to in subsec. (a)(7), is section 830 of Pub. L. 103–236 which is set out in the Nuclear Proliferation Prevention; Effective and Termination Dates of 1994 Amendment note under section 3201 of this title.
-
 #### Prior Provisions
 
 A prior section 51 of Pub. L. 87–297 was renumbered section 49 and is classified to section 2591 of this title.
 
 #### Amendments
 
-1994—Subsec. (a)(5) to (7). Pub. L. 103–236, §§828(a)(1)–(3), 851, temporarily struck out “and” at end of par. (5), substituted “; and” for period at end of par. (6), and added par. (7). See Effective and Termination Dates of 1994 Amendment note below.
+1994—Subsec. (a)(5) to (7). Pub. L. 103–236, §828(a)(1)–(3), struck out “and” at end of par. (5), substituted “; and” for period at end of par. (6), and added par. (7).
 
-Subsec. (c). Pub. L. 103–236, §§828(a)(4), 851, temporarily added subsec. (c). See Effective and Termination Dates of 1994 Amendment note below.
+Subsec. (c). Pub. L. 103–236, §828(a)(4), added subsec. (c).
 
-#### Effective and Termination Dates of 1994 Amendment
+#### Effective Date of 1994 Amendment
 
-Amendment by section 828(a) of Pub. L. 103–236 effective 60 days after Apr. 30, 1994, and ceases to be effective and is repealed on date of enactment of first Foreign Relations Authorization Act enacted after Apr. 30, 1994, and any provision repealed by that amendment shall be reenacted, see sections 831 and 851 of Pub. L. 103–236, set out in the Nuclear Proliferation Prevention; Effective and Termination Dates of 1994 Amendment note under section 3201 of this title.
+Amendment by section 828(a) of Pub. L. 103–236 effective 60 days after Apr. 30, 1994, see section 831 of Pub. L. 103–236, set out as an Effective Date note under section 6301 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -4,11 +4,11 @@
 
 It shall be unlawful for any person to offer to enter into, enter into, or confirm the execution of, any transaction involving any commodity, which is or may be used for (1) hedging any transaction in interstate commerce in such commodity or the products or byproducts thereof, or (2) determining the price basis of any such transaction in interstate commerce in such commodity, or (3) delivering any such commodity sold, shipped, or received in interstate commerce for the fulfillment thereof—
 
-&emsp;(A) if such transaction is, is of the character of, or is commonly known to the trade as, a “wash sale,” “cross trade,” or “accommodation trade,” or is a fictitious sale; or
+&emsp;(A) if such transaction is, is of the character of, or is commonly known to the trade as, a“wash sale,” “cross trade,” or “accommodation trade,” or is a fictitious sale; or
 
 &emsp;(B) if such transaction is used to cause any price to be reported, registered, or recorded which is not a true and bona fide price.
 
-Nothing in this section shall be construed to prevent the exchange of futures in connectionwith cash commodity transactions or of futures for cash commodities, or of transfer trades or office trades if made in accordance with board of trade rules applying to such transactions and such rules shall have been approved by the Commission.
+Nothing in this section shall be construed to prevent the exchange of futures in connection with cash commodity transactions or of futures for cash commodities, or of transfer trades or office trades if made in accordance with board of trade rules applying to such transactions and such rules shall have been approved by the Commission.
 
 #### (b) Regulated option trading
 
@@ -56,7 +56,7 @@ Notwithstanding the provisions of subsection (c) of this section—
 
 &emsp;&emsp;(C) the grantor and futures commission merchant comply with any additional uniform and reasonable terms and conditions the Commission may prescribe, including registration with the Commission.
 
-> The Commission may permit persons not domiciled in the United States to grant options under this subsection, other than options on a commodity specifically set forth in section 2 of this title prior to October 23, 1974, under such additional rules, regulations, and orders as the Commission may adopt to provide protection to purchasers that are substantially the equivalent of those applicable to grantors domiciled in theUnited States. The Commission may terminate the right of any person to grant, offer, or sell options under this subsection only after a hearing, including a finding that the continuation of such right is contrary to the public interest: <i>Provided</i>, That pending the completion of such termination proceedings, the Commission may suspend the right to grant, offer, or sell options of any person whose activities in the Commission's judgment present a substantial risk to the public interest.
+> The Commission may permit persons not domiciled in the United States to grant options under this subsection, other than options on a commodity specifically set forth in section 2 of this title prior to October 23, 1974, under such additional rules, regulations, and orders as the Commission may adopt to provide protection to purchasers that are substantially the equivalent of those applicable to grantors domiciled in the United States. The Commission may terminate the right of any person to grant, offer, or sell options under this subsection only after a hearing, including a finding that the continuation of such right is contrary to the public interest: <i>Provided</i>, That pending the completion of such termination proceedings, the Commission may suspend the right to grant, offer, or sell options of any person whose activities in the Commission's judgment present a substantial risk to the public interest.
 
 #### (e) Rules and regulations
 

@@ -66,7 +66,9 @@ Nonapplication.—This section does not apply to a motor vehicle—
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

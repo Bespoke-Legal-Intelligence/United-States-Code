@@ -32,7 +32,7 @@ Any creditor or lessor may supply additional information or explanation with any
 
 &emsp;&emsp;In prescribing the form of the table under subparagraph (A), the Board may—
 
-&emsp;&emsp;&emsp;(i) list the items required to be included in the table in a different order than the order in which such items are set forth in paragraph (1)(A) or (4)(A) of section 1637(c) of this title; and
+&emsp;&emsp;&emsp;(i) list the items required to be included in the table in a different order than theorder in which such items are set forth in paragraph (1)(A) or (4)(A) of section 1637(c) of this title; and
 
 &emsp;&emsp;&emsp;(ii) subject to subparagraph (C), employ terminology which is different than the terminology which is employed in section 1637(c) of this title if such terminology conveys substantially the same meaning.
 
@@ -40,7 +40,7 @@ Any creditor or lessor may supply additional information or explanation with any
 
 &emsp;&emsp;Either the heading or the statement under the heading which relates to the time period referred to in section 1637(c)(1)(A)(iii) of this title shall contain the term “grace period”.
 
-(Pub. L. 90–321, title I, §122, May 29, 1968, 82 Stat. 152; Pub. L. 93–495, title III, §307(e), (f), Oct. 28,1974, 88 Stat. 1516, 1517; Pub. L. 96–221, title VI, §611, Mar. 31, 1980, 94 Stat. 175; Pub. L. 100–583, §2(b), Nov. 3, 1988, 102 Stat. 2966; Pub. L. 100–709, §2(d), Nov. 23, 1988, 102 Stat. 4731.)
+(Pub. L. 90–321, title I, §122, May 29, 1968, 82 Stat. 152; Pub. L. 93–495, title III, §307(e), (f), Oct. 28, 1974, 88 Stat. 1516, 1517; Pub. L. 96–221, title VI, §611, Mar. 31, 1980, 94 Stat. 175; Pub. L. 100–583, §2(b), Nov. 3, 1988, 102 Stat. 2966; Pub. L. 100–709, §2(d), Nov. 23, 1988, 102 Stat. 4731.)
 
 #### Amendments
 

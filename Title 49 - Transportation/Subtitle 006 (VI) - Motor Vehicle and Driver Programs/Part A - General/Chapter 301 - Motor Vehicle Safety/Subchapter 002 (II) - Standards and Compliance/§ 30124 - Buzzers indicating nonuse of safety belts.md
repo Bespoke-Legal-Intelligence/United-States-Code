@@ -6,7 +6,9 @@ A motor vehicle safety standard prescribed under this chapter may not require or
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

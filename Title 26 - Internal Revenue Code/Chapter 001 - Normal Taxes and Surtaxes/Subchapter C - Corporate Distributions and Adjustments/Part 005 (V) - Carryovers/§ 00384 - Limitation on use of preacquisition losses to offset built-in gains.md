@@ -142,7 +142,7 @@ The Secretary shall prescribe such regulations as may be necessary to carry out 
 
 1988—Subsec. (a). Pub. L. 100–647, §2004(m)(1)(A), amended subsec. (a) generally, making changes in substance and structure.
 
-Subsec. (b). Pub. L. 100–647, §2004(m)(3), substituted “corporations under common control” for “50 percent of gain corporation held” in heading and amended text generally. Prior to amendment, text read as follows:“Subsection (a) shall not apply if more than 50 percent of the stock (by vote and value) of the gain corporation was held throughout the 5-year period ending on the acquisition date—
+Subsec. (b). Pub. L. 100–647, §2004(m)(3), substituted “corporations under common control” for “50 percent of gain corporation held” in heading and amended text generally. Prior to amendment, text read as follows: “Subsection (a) shall not apply if more than 50 percent of the stock (by vote and value) of the gain corporation was held throughout the 5-year period ending on the acquisition date—
 
 &emsp;“(1) in any case described in subsection (a)(1), by members of the affiliated group referred to in subsection (a)(1), or
 

@@ -10,23 +10,23 @@
 
 &emsp;(4) knowingly, and with intent to defraud, produces, traffics in, has control or custody of, or possesses device-making equipment;
 
-&emsp;(5) <sup>1</sup> knowingly and with intent to defraud uses, produces, traffics in, has control or custody of, or possesses a telecommunications instrument that has been modified or altered to obtain unauthorized use of telecommunications services; or <sup>2</sup>
+&emsp;(5) knowingly and with intent to defraud effects transactions, with 1 or more access devices issued to another person or persons, to receive payment or any other thing of value during any 1-year period the aggregate value of which is equal to or greater than $1,000;
 
-&emsp;(6) <sup>3</sup> knowingly and with intent to defraud uses, produces, traffics in, has control or custody of, or possesses—
-
-&emsp;&emsp;(A) a scanning receiver; or
-
-&emsp;&emsp;(B) hardware or software used for altering or modifying telecommunications instruments to obtain unauthorized access to telecommunications services,
-
-&emsp;(5) <sup>4</sup> knowingly and with intent to defraud effects transactions, with 1 or more access devices issued to another person or persons, to receive payment or any other thing of value during any 1-year period the aggregate value of which is equal to or greater than $1,000;
-
-&emsp;(6) <sup>5</sup> without the authorization of the issuer of the access device, knowingly and with intent to defraud solicits a person for the purpose of—
+&emsp;(6) without the authorization of the issuer of the access device, knowingly and with intent to defraud solicits a person for the purpose of—
 
 &emsp;&emsp;(A) offering an access device; or
 
-&emsp;&emsp;(B) selling information regarding or an application to obtain an access device; or
+&emsp;&emsp;(B) selling information regarding or an application to obtain an access device;
 
-&emsp;(7) <sup>6</sup> without the authorization of the credit card system member or its agent, knowingly and with intent to defraud causes or arranges for another person to present to the member or its agent, for payment, 1 or more evidences or records of transactions made by an access device;
+&emsp;(7) knowingly and with intent to defraud uses, produces, traffics in, has control or custody of, or possesses a telecommunications instrument that has been modified or altered to obtain unauthorized use of telecommunications services;
+
+&emsp;(8) knowingly and with intent to defraud uses, produces, traffics in, has control or custody of, or possesses—
+
+&emsp;&emsp;(A) a scanning receiver; or
+
+&emsp;&emsp;(B) hardware or software used for altering or modifying telecommunications instruments to obtain unauthorized access to telecommunications services,<sup>1</sup> or
+
+&emsp;(9) without the authorization of the credit card system member or its agent, knowingly and with intent to defraud causes or arranges for another person to present to the member or its agent, for payment, 1 or more evidences or records of transactions made by an access device;
 
 > shall, if the offense affects interstate or foreign commerce, be punished as provided in subsection (c) of this section.
 
@@ -36,9 +36,9 @@
 
 (c) The punishment for an offense under subsection (a) or (b)(1) of this section is—
 
-&emsp;(1) a fine under this title or twice the value obtained by the offense, whichever is greater, or imprisonment for not more than ten years, or both, in the case of an offense under subsection (a)(2), (3), (5), (6), or (7) of this section which does not occur after a conviction for another offense under either such subsection, or an attempt to commit an offense punishable under this paragraph;
+&emsp;(1) a fine under this title or twice the value obtained by the offense, whichever is greater, or imprisonment for not more than ten years, or both, in the case of an offense under subsection (a)(2), (3), (5), (6), (7), (8), or (9) of this section which does not occur after a conviction for another offense under either such subsection, or an attempt to commit an offense punishable under this paragraph;
 
-&emsp;(2) a fine under this title or twice the value obtained by the offense, whichever is greater, or imprisonment for not more than fifteen years, or both, in the case of an offense under subsection (a)(1), (4), (5), or (6) of this section which does not occur after a conviction for another offense under either such subsection, or an attempt to commit an offense punishable under this paragraph; and
+&emsp;(2) a fine under this title or twice the value obtained by the offense, whichever is greater, or imprisonment for not more than fifteen years, or both, in the case of an offense under subsection (a)(1), (4), (5), (6), (7), or (8) of this section which does not occur after a conviction for another offense under either such subsection, or an attempt to commit an offense punishable under this paragraph; and
 
 &emsp;(3) a fine under this title or twice the value obtained by the offense, whichever is greater, or imprisonment for not more than twenty years, or both, in the case of an offense under subsection (a) of this section which occurs after a conviction for another offense under such subsection, or an attempt to commit an offense punishable under this paragraph.
 
@@ -58,15 +58,35 @@
 
 &emsp;(6) the term “device-making equipment” means any equipment, mechanism, or impression designed or primarily used for making an access device or a counterfeit access device; and
 
-&emsp;(7) <sup>7</sup> the term “credit card system member” means a financial institution or other entity that is a member of a credit card system, including an entity, whether affiliated with oridentical to the credit card issuer, that is the sole member of a credit card system.
+&emsp;(7) the term “credit card system member” means a financial institution or other entity that is a member of a credit card system, including an entity, whether affiliated with or identical to the credit card issuer, that is the sole member of a credit card system.
 
-&emsp;(7) <sup>8</sup> the term “scanning receiver” means a device or apparatus that can be used to intercept a wire or electronic communication in violation of chapter 119.
+&emsp;(8) the term “scanning receiver” means a device or apparatus that can be used to intercept a wire or electronic communication in violation of chapter 119.
 
 (f) This section does not prohibit any lawfully authorized investigative, protective, or intelligence activity of a law enforcement agency of the United States, a State, or a political subdivision of a State, or of an intelligence agency of the United States, or any activity authorized under chapter 224 of this title. For purposes of this subsection, the term “State” includes a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
 
-(Added Pub. L. 98–473, title II, §1602(a), Oct. 12, 1984, 98 Stat. 2183; amended Pub. L. 99–646, §44(b), Nov. 10, 1986, 100 Stat. 3601; Pub. L. 101–647, title XII, §1205(f), Nov. 29, 1990, 104 Stat. 4831; Pub. L. 103–322, title XXV, §250007, title XXXIII, §330016(2)(I), Sept. 13, 1994, 108 Stat. 2087, 2148; Pub. L. 103–414, title II, §206, Oct. 25, 1994, 108 Stat. 4291.)
+(Added Pub. L. 98–473, title II, §1602(a), Oct. 12, 1984, 98 Stat. 2183; amended Pub. L. 99–646, §44(b), Nov. 10, 1986, 100 Stat. 3601; Pub. L. 101–647, title XII, §1205(f), Nov. 29, 1990, 104 Stat. 4831; Pub. L. 103–322, title XXV, §250007, title XXXIII, §330016(2)(I), Sept. 13, 1994, 108 Stat. 2087, 2148; Pub. L. 103–414, title II, §206, Oct. 25, 1994, 108 Stat. 4291; Pub. L. 104–294, title VI, §601(<i>l</i>), Oct. 11, 1996, 110 Stat. 3501.)
 
 #### Amendments
+
+1996—Subsec. (a)(5). Pub. L. 104–294, §601(<i>l</i>)(1)(A), redesignated par. (5), relating to instruments that have been modified or altered to obtain unauthorized access to telecommunications services, as (7).
+
+Subsec. (a)(6). Pub. L. 104–294, §601(<i>l</i>)(1)(C), in par. (6) relating to solicitations, struck out “or” at end.
+
+Pub. L. 104–294, §601(<i>l</i>)(1)(A), redesignated par. (6), relating to scanning receivers or other hardware or software used to obtain unauthorized access to telecommunications services, as (8).
+
+Subsec. (a)(7). Pub. L. 104–294, §601(<i>l</i>)(1)(A), (C), redesignated par. (5), relating to instruments that have been modified or altered to obtain unauthorized access to telecommunications services, as (7), and struck out “or” at end. Par. transferred to appear in numerical order to reflect probable intent of Congress. Former par. (7) redesignated (9).
+
+Pub. L. 104–294, §601(<i>l</i>)(1)(B), redesignated par. (7) as (9).
+
+Subsec. (a)(8). Pub. L. 104–294, §601(<i>l</i>)(1)(A), (D), redesignated par. (6), relating to scanning receivers or other hardware or software used to obtain unauthorized access to telecommunications services, as (8) and inserted “or” at end. Par. transferred to appear in numerical order to reflect probable intent of Congress.
+
+Subsec. (a)(9). Pub. L. 104–294, §601(<i>l</i>)(1)(B), redesignated par. (7) as (9).
+
+Subsec. (c)(1). Pub. L. 104–294, §601(<i>l</i>)(3)(A), substituted “(7), (8), or (9)” for “or (7)”.
+
+Subsec. (c)(2). Pub. L. 104–294, §601(<i>l</i>)(3)(B), substituted “(6), (7), or (8)” for “or (6)”.
+
+Subsec. (e)(7), (8). Pub. L. 104–294, §601(<i>l</i>)(2), redesignated par. (7), defining “scanning receiver”, as (8).
 
 1994—Subsec. (a)(3). Pub. L. 103–322, §250007(1)(A), and Pub. L. 103–414, §206(a)(1), amended par. (3) identically, striking “or” at end.
 
@@ -110,19 +130,5 @@ Section 1603 of Pub. L. 98–473 directed Attorney General to report to Congress
 
 This section is referred to in sections 981, 982, 1030, 1961, 2326, 2516 of this title; title 31 section 9703.
 
-<i><sup>1</sup></i><i> So in original. Another par. (5) is set out below.</i>
-
-<i><sup>2</sup></i><i> So in original. The word “or” probably should not appear.</i>
-
-<i><sup>3</sup></i><i> So in original. Another par. (6) is set out below.</i>
-
-<i><sup>4</sup></i><i> So in original. Probably should be “(7)”.</i>
-
-<i><sup>5</sup></i><i> So in original. Probably should be “(8)”.</i>
-
-<i><sup>6</sup></i><i> So in original. Probably should be “(9)”.</i>
-
-<i><sup>7</sup></i><i> So in original. Another par. (7) is set out below.</i>
-
-<i><sup>8</sup></i><i> So in original. Probably should be “(8)”.</i>
+<i><sup>1</sup></i><i> So in original. The comma probably should be a semicolon.</i>
 

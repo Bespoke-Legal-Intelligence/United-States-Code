@@ -46,7 +46,7 @@ In general.—Notwithstanding section 1341 of title 28 and without regard to the
 
 &emsp;(2)
 
-Limitation in relief.—Relief may be granted under this subsection only if the ratioof assessed value to true market value of motor carrier transportation property exceeds, by at least 5 percent, the ratio of assessed value to true market value of other commercial and industrial property in the same assessment jurisdiction.
+Limitation in relief.—Relief may be granted under this subsection only if the ratio of assessed value to true market value of motor carrier transportation property exceeds, by at least 5 percent, the ratio of assessed value to true market value of other commercial and industrial property in the same assessment jurisdiction.
 
 &emsp;(3)
 

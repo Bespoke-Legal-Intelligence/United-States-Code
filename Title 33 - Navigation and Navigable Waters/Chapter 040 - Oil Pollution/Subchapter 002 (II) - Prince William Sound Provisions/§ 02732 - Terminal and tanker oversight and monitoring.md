@@ -68,7 +68,7 @@
 
 #### (3) Responsibilities
 
-&emsp;Each Association shall be responsible for reviewing policies relating to the operation and maintenance of the oil terminal facilities andcrude oil tankers which affect or may affect the environment in the vicinity of their respective terminals. Each Association shall provide a forum among the owners and operators of the terminal facilities, the owners and operators of crude oil tankers calling at those facilities, the United States, and the State of Alaska to discuss and to make recommendations concerning all permits, plans, and site-specific regulations governing the activities and actions of the terminal facilities which affect or may affect the environment in the vicinity of the terminal facilities and of crude oil tankers calling at those facilities.
+&emsp;Each Association shall be responsible for reviewing policies relating to the operation and maintenance of the oil terminal facilities and crude oil tankers which affect or may affect the environment in the vicinity of their respective terminals. Each Association shall provide a forum among the owners and operators of the terminal facilities, the owners and operators of crude oil tankers calling at those facilities, the United States, and the State of Alaska to discuss and to make recommendations concerning all permits, plans, and site-specific regulations governing the activities and actions of the terminal facilities which affect or may affect the environment in the vicinity of the terminal facilities and of crude oil tankers calling at those facilities.
 
 #### (4) Designation of existing organization
 
@@ -142,7 +142,7 @@
 
 &emsp;&emsp;&emsp;(i) For the appointments by the Governor of the State of Alaska, one-third shall serve for 3 years, one-third shall serve for 2 years, and one-third shall serve for one year.
 
-&emsp;&emsp;&emsp;(ii) For the representatives of municipalities required by subsection (d)(2)(A)(vii) of this section, a drawing of lots among the appointees shall determine that one-third of that group serves for 3 years, one-third serves for 2 years, and the remainder serves for 1 year.
+&emsp;&emsp;&emsp;(ii) For the representatives of municipalities required by subsection (d)(2)(A)(vii) of this section, a drawing of lots among the appointees shall determinethat one-third of that group serves for 3 years, one-third serves for 2 years, and the remainder serves for 1 year.
 
 #### (4) Self-governing
 
@@ -268,7 +268,7 @@ Appointments, designations, and selections of individuals to serve as members of
 
 &emsp;The owners or operators of terminal facilities or crude oil tankers operating in Prince William Sound shall provide, on an annual basis, an aggregate amount of not more than $2,000,000, as determined by the Secretary. Such amount—
 
-&emsp;&emsp;(A) shall provide for the establishment and operation on the environmental oversight and monitoring program in Prince William Sound;
+&emsp;&emsp;(A) shall provide for the establishment and operation on the environmental oversightand monitoring program in Prince William Sound;
 
 &emsp;&emsp;(B) shall be adjusted annually by the Anchorage Consumer Price Index; and
 
@@ -338,7 +338,7 @@ The requirements of subsections (c) through (<i>l</i>) of this section, as such 
 
 #### (2) Cook Inlet
 
-&emsp;With respect to the Cook Inlet Program, the terminal facilities, offshore facilities, or crude oil tanker owners and operators enter into a contract with a voluntary advisory organization to fund that organization on an annualbasis and the President annually certifies that the organization fosters the general goals and purposes of this section and is broadly representative of the communities and interests in the vicinity of the terminal facilities and Cook Inlet.
+&emsp;With respect to the Cook Inlet Program, the terminal facilities, offshore facilities, or crude oil tanker owners and operators enter into a contract with a voluntary advisory organization to fund that organization on an annual basis and the President annually certifies that the organization fosters the general goals and purposes of this section and is broadly representative of the communities and interests in the vicinity of the terminal facilities and Cook Inlet.
 
 (Pub. L. 101–380, title V, §5002, Aug. 18, 1990, 104 Stat. 544.)
 

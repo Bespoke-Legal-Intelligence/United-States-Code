@@ -2,7 +2,7 @@
 
 #### (a) Three year plan; annual revisions; general and specific requirements
 
-In order to be eligible to participate in programs under this subchapter, a State shall submit to the Commissioner a State plan for vocational rehabilitation services for a 3-year period, or shall submit the plan on such date, and at such regular intervals, as the Secretary may determine to be appropriate to coincide with the intervals at which the State submits State plans under other Federal laws, such as part B of the Individuals with Disabilities Education Act (20 U.S.C. 1411 et seq.). In order to be eligible to participate in programs under this subchapter, a State, upon the request of the Commissioner, shall make such annual revisions in the plan as may be necessary. Each such plan shall—
+In order to be eligible to participate in programs under this subchapter, a State shall submit to the Commissioner a State plan for vocational rehabilitation services for a 3-year period, or shall submit the plan on such date, and at such regular intervals, as the Secretary may determine to be appropriate to coincide with the intervals at which the State submits State plans under other Federal laws, such as part B of the Individuals with Disabilities Education Act (20 U.S.C. 1411 et seq.). In order to be eligible to participate in programs under this subchapter, aState, upon the request of the Commissioner, shall make such annual revisions in the plan as may be necessary. Each such plan shall—
 
 #### (1) State agency for plan administration, designation; separate agencies for services to individuals who are blind and for other services; joint program; political subdivision participation, waiver; qualification of State agency
 
@@ -86,7 +86,7 @@ In order to be eligible to participate in programs under this subchapter, a Stat
 
 #### (8) Determination regarding availability of comparable services and benefits under any other program
 
-> &emsp;provide, at a minimum, for the provision of the vocational rehabilitation services specified in paragraphs (1) through (3) and paragraph (12) of section 723(a) of this title, and forthe provision of such other services as are specified under such section after a determination that comparable services and benefits are not available under any other program, except that such a determination shall not be required—
+> &emsp;provide, at a minimum, for the provision of the vocational rehabilitation services specified in paragraphs (1) through (3) and paragraph (12) of section 723(a) of this title, and for the provision of such other services as are specified under such section after a determination that comparable services and benefits are not available under any other program, except that such a determination shall not be required—
 
 &emsp;&emsp;(A) if the determination would delay the provision of such services to any individual at extreme medical risk; or
 
@@ -106,7 +106,7 @@ In order to be eligible to participate in programs under this subchapter, a Stat
 
 #### (10) Reports of State agency; form; scope of information; time of report; correctness and verification
 
-&emsp;(A) provide that the State agency will make such reports in such form, containing such information (including the data described in subparagraph (D) of paragraph (9) of this subsection, periodic estimates of the population of individuals with disabilities eligible for services under this chapter in such State, specifications of the number of such individuals who will be served with funds provided under this chapter and the outcomes and service goals to be achieved for such individuals in each priority category specified in accordance with paragraph (5) of this subsection, and the service costs for each such category), and at such time as the Commissioner may require to carry out the functions of the Commissioner under this subchapter, and comply with such provisions as are necessary to assure the correctness and verification of such reports; and
+&emsp;(A) provide that the State agency will make such reports in such form, containing such information (including the data described in subparagraph (D) of paragraph (9) of this subsection, periodic estimates of the population of individuals with disabilities eligible for services under this chapter in such State, specifications of the number of such individuals who will be served with funds providedunder this chapter and the outcomes and service goals to be achieved for such individuals in each priority category specified in accordance with paragraph (5) of this subsection, and the service costs for each such category), and at such time as the Commissioner may require to carry out the functions of the Commissioner under this subchapter, and comply with such provisions as are necessary to assure the correctness and verification of such reports; and
 
 &emsp;(B) provide that reports under subparagraph (A) will include information on—
 
@@ -118,7 +118,7 @@ In order to be eligible to participate in programs under this subchapter, a Stat
 
 #### (11) Intergovernmental cooperation
 
-&emsp;(A) provide for interagency cooperation with, and the utilization of the services and facilities of, the State agencies administering the State's public assistance programs, other programs for individuals with disabilities, veterans programs, community mental health programs, manpower programs, and public employment offices, and the Social Security Administration of the Department of Health and Human Services, the Department of Veterans Affairs, and other Federal, State, and local public agencies providing services related to the rehabilitation of individuals with disabilities (specifically including arrangements for the coordination of services to individuals eligible for services under this chapter, the Individuals with Disabilities Education Act (20 U.S.C. 1400 et seq.), the Carl D. Perkins Vocational and Applied Technology Education Act (20 U.S.C. 2301 et seq.), and the Act entitled “An Act to create a Committee on Purchases of Blind-made Products, and for other purposes”, approved June 25, 1938 (commonly known as the Wagner-O'Day Act; 41 U.S.C. 46 et seq.);
+&emsp;(A) provide for interagency cooperation with, and the utilization of the services and facilities of, the State agencies administering the State's public assistance programs, other programs for individuals with disabilities, veterans programs, community mental health programs, manpower programs, and public employment offices, and the Social Security Administration of the Department of Health and Human Services, the Department of Veterans Affairs, and other Federal, State, and local public agencies providing services related to the rehabilitation of individuals with disabilities (specifically including arrangements for the coordination of services to individuals eligible for services under this chapter, the Individuals with Disabilities Education Act (20 U.S.C. 1400 et seq.), the Carl D. Perkins Vocational and Applied Technology Education Act (20 U.S.C. 2301 et seq.), and the Javits-Wagner-O'Day Act (41 U.S.C. 46 et seq.);
 
 &emsp;(B) provide that cooperation under subparagraph (A) shall include, to the extent practicable, means for providing training to staff of the agencies described in subparagraph (A) as to the availability and benefits of, and eligibility standards for, vocational rehabilitation services, in order to enhance the opportunity of individuals receiving the services described in subparagraph (A) to obtain vocational rehabilitation services; and
 
@@ -160,7 +160,7 @@ In order to be eligible to participate in programs under this subchapter, a Stat
 
 &emsp;&emsp;(C) review of the efficacy of the criteria employed with respect to ineligibility determinations described in paragraph (9)(C) <sup>2</sup> of this subsection with a view toward the relative need for services to significant segments of the population of individuals with disabilities and the need for expansion of services to those individuals with the most severe disabilities; and
 
-&emsp;&emsp;(D) outreach procedures to identify and serve individuals with disabilities who are minorities and individuals with disabilities who have been unserved or underserved by the vocational rehabilitation system;
+&emsp;&emsp;(D) outreach procedures to identify and serve individuals with disabilities who areminorities and individuals with disabilities who have been unserved or underserved by the vocational rehabilitation system;
 
 #### (16) Employment review and reevaluation
 
@@ -206,7 +206,7 @@ In order to be eligible to participate in programs under this subchapter, a Stat
 
 #### (23) Public meetings; notice and comment; response
 
-> &emsp;(A) provide satisfactory assurances that in the formulation of policies governing the provision of the rehabilitation services consistent with the State plan, and any revisions, that the State agency conducts public meetings throughout the State, after appropriate and sufficient notice, to allow interested groups and organizations and all segments of the public an opportunity to comment on the State plan before development of the plan by the State, (B) include a summary of such comments and the State agency's response to such comments, and (C) provide satisfactory assurances that the State agency will consult with the Director of the client assistance program under section 732 of this title in the formulation of policies governing the provision of vocational rehabilitation services consistent with the State plan and other revisions;
+> &emsp;(A) provide satisfactory assurances that in the formulation of policies governing the provision of the rehabilitation services consistent with the State plan, and any revisions, that the State agency conducts public meetings throughout the State, after appropriate and sufficient notice, to allow interested groups and organizations and all segments of the public an opportunity to comment on the Stateplan before development of the plan by the State, (B) include a summary of such comments and the State agency's response to such comments, and (C) provide satisfactory assurances that the State agency will consult with the Director of the client assistance program under section 732 of this title in the formulation of policies governing the provision of vocational rehabilitation services consistent with the State plan and other revisions;
 
 #### (24) Goals and public education
 
@@ -234,7 +234,7 @@ In order to be eligible to participate in programs under this subchapter, a Stat
 
 #### (25) Use of supported employment funds
 
-> &emsp;provide assurances satisfactory to the Secretary that the State has an acceptable plan for carrying out part C of subchapter VI of this chapter, including the use of funds under that part to supplement funds under part B ofthis subchapter for the cost of services leading to supported employment;
+> &emsp;provide assurances satisfactory to the Secretary that the State has an acceptable plan for carrying out part C of subchapter VI of this chapter, including the use of funds under that part to supplement funds under part B of this subchapter for the cost of services leading to supported employment;
 
 #### (26) Manner of providing personal assistance services
 
@@ -330,7 +330,7 @@ In order to be eligible to participate in programs under this subchapter, a Stat
 
 The Commissioner shall approve any plan which the Commissioner finds fulfills the conditions specified in subsection (a) of this section, and shall disapprove any plan which does not fulfill such conditions. Prior to such disapproval, the Commissioner shall notify a State of the intention to disapprove its plan, and shall afford such State reasonable notice and opportunity for hearing.
 
-(Pub. L. 93–112, title I, §101, Sept. 26, 1973, 87 Stat. 363; Pub. L. 93–516, title I, §111(b)–(d), Dec. 7, 1974, 88 Stat. 1619, 1620; Pub. L. 93–651, title I, §111(b)–(d), Nov. 21, 1974, 89 Stat. 2–5; Pub. L. 95–602, title I, §§102, 122(b)(1), Nov. 6, 1978, 92 Stat. 2957, 2987; Pub. L. 98–221, title I, §104(a)(2), Feb. 22, 1984, 98 Stat. 18; Pub. L. 98–524, §4(f), Oct. 19, 1984, 98 Stat. 2489; Pub. L. 99–506, title I, §103(d)(2), title II, §202, title X, §1001(b)(1)–(4), Oct. 21, 1986, 100 Stat. 1810, 1814, 1841, 1842; Pub. L. 100–630, title II, §202(b), Nov. 7, 1988, 102 Stat. 3304; Pub. L. 102–54, §13(k)(1)(A), June 13, 1991, 105 Stat. 276; Pub. L. 102–119, §26(e), Oct. 7, 1991, 105 Stat. 607; Pub. L. 102–569, title I, §§102(<i>o</i>), (p)(7), 122, Oct. 29, 1992, 106 Stat. 4355, 4356, 4367; Pub. L. 103–73, title I, §§102(2), 107(a), Aug. 11, 1993, 107 Stat. 718, 719.)
+(Pub. L. 93–112, title I, §101, Sept. 26, 1973, 87 Stat. 363; Pub. L. 93–516, title I, §111(b)–(d), Dec. 7, 1974, 88 Stat. 1619, 1620; Pub. L. 93–651, title I, §111(b)–(d), Nov. 21, 1974, 89 Stat. 2–5; Pub. L. 95–602, title I, §§102, 122(b)(1), Nov. 6, 1978, 92 Stat. 2957, 2987; Pub. L. 98–221, title I, §104(a)(2), Feb. 22, 1984, 98 Stat. 18; Pub. L. 98–524, §4(f), Oct. 19, 1984, 98 Stat. 2489; Pub. L. 99–506, title I,§103(d)(2), title II, §202, title X, §1001(b)(1)–(4), Oct. 21, 1986, 100 Stat. 1810, 1814, 1841, 1842; Pub. L. 100–630, title II, §202(b), Nov. 7, 1988, 102 Stat. 3304; Pub. L. 102–54, §13(k)(1)(A), June 13, 1991, 105 Stat. 276; Pub. L. 102–119, §26(e), Oct. 7, 1991, 105 Stat. 607; Pub. L. 102–569, title I, §§102(<i>o</i>), (p)(7), 122, Oct. 29, 1992, 106 Stat. 4355, 4356, 4367; Pub. L. 103–73, title I, §§102(2), 107(a), Aug. 11, 1993, 107 Stat. 718, 719; Pub. L. 104–106, div. D, title XLIII, §4321(i)(7), Feb. 10, 1996, 110 Stat. 676.)
 
 #### References in Text
 
@@ -346,7 +346,7 @@ Paragraph (9)(C) of this subsection, referred to in subsec. (a)(15)(C), was rede
 
 The Carl D. Perkins Vocational and Applied Technology Education Act, referred to in subsec. (a)(11)(A), is Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended, which is classified generally to chapter 44 (§2301 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 2301 of Title 20 and Tables.
 
-The Wagner-O'Day Act, referred to in subsec. (a)(11)(A), (28), is act June 25, 1938, ch. 697, 52 Stat. 1196, as amended, known as the Javits-Wagner-O'Day Act, which is classified to sections 46 to 48c of Title 41, Public Contracts. For complete classification of this Act to the Code, see Tables.
+The Javits-Wagner-O'Day Act and the Wagner-O'Day Act, referred to in subsec. (a)(11)(A), (28), is act June 25, 1938, ch. 697, 52 Stat. 1196, as amended, which is classified to sections 46 to 48c of Title 41, Public Contracts. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 
@@ -357,6 +357,8 @@ For history of Pub. L. 93–651, which enacted amendments identical to Pub. L. 9
 Prior similar provisions were contained in former sections 35, 41c, and 42–1 of this title.
 
 #### Amendments
+
+1996—Subsec. (a)(11)(A). Pub. L. 104–106 substituted “the Javits-Wagner-O'Day Act (41 U.S.C. 46 et seq.)” for “the Act entitled ‘An Act to create a Committee on Purchases of Blind-made Products, and for other purposes’, approved June 25, 1938 (commonly known as the Wagner-O'Day Act; 41 U.S.C. 46 et seq.)”.
 
 1993—Subsec. (a)(10)(A). Pub. L. 103–73, §107(a)(1), substituted “described in subparagraph (D)” for “described in subparagraph (C)”.
 
@@ -580,7 +582,7 @@ Subsec. (c). Pub. L. 95–602, §§102(b), 122(b)(1), designated existing provis
 
 Subsec. (d). Pub. L. 95–602, §102(c), substituted provisions authorizing judicial review of determinations by the Commissioner in the Court of Appeals for the circuit in which the State is located provided a petition is filed within thirty days after the date notice of the final determination was received by the State, permitting additional submissions and presentations, and granting the court jurisdiction to administer appropriate relief in accordance with chapter 7 of title 5, except with respect to interim relief for a determination under subsec. (c) and to the standard of relief under section 706(2)(E) of title 5 for provisions authorizing judicial review of the action of the Secretary in the United States district court for the district where the capital of the State is located and providing review of such action be on the record in accordance with chapter 7 of title 5.
 
-1974—Subsec. (a)(6). Pub. L. 93–516, §111(b), inserted parenthetical provisions relating to the requirement that the State take affirmative action to employ andadvance in employment qualified handicapped individuals covered under, and on the same terms and conditions as set forth in section 793 of this title.
+1974—Subsec. (a)(6). Pub. L. 93–516, §111(b), inserted parenthetical provisions relating to the requirement that the State take affirmative action to employ and advance in employment qualified handicapped individuals covered under, and on the same terms and conditions as set forth in section 793 of this title.
 
 Pub. L. 93–651, §111(b), amended subsec. (a)(6) in exactly the same manner as it was amended by Pub. L. 93–516.
 
@@ -591,6 +593,10 @@ Pub. L. 93–651, §111(c), amended subsec. (a)(9) in exactly the same manner as
 Subsec. (a)(15). Pub. L. 93–516, §111(d), substituted “needs for rehabilitation facilities and review of the efficacy of the criteria employed with respect to ineligibility determinations described in subclause (C) of clause (9) of this subsection” for “needs for rehabilitation.”
 
 Pub. L. 93–651, §111(d), amended subsec. (a)(15) in exactly the same manner as it was amended by Pub. L. 93–516.
+
+#### Effective Date of 1996 Amendment
+
+For effective date and applicability of amendment by Pub. L. 104–106, see section 4401 of Pub. L. 104–106, set out as a note under section 251 of Title 41, Public Contracts.
 
 #### Effective Date of 1992 Amendment
 

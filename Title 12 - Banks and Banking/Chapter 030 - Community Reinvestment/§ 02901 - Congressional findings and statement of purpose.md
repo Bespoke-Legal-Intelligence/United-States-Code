@@ -8,7 +8,7 @@
 
 &emsp;(3) regulated financial institutions have continuing and affirmative obligation to help meet the credit needs of the local communities in which they are chartered.
 
-(b) It is the purpose of this chapter to require each appropriate Federal financial supervisoryagency to use its authority when examining financial institutions, to encourage such institutions to help meet the credit needs of the local communities in which they are chartered consistent with the safe and sound operation of such institutions.
+(b) It is the purpose of this chapter to require each appropriate Federal financial supervisory agency to use its authority when examining financial institutions, to encourage such institutions to help meet the credit needs of the local communities in which they are chartered consistent with the safe and sound operation of such institutions.
 
 (Pub. L. 95–128, title VIII, §802, Oct. 12, 1977, 91 Stat. 1147.)
 

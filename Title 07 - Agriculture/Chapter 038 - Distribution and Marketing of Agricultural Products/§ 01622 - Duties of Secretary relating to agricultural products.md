@@ -28,7 +28,7 @@ To conduct and cooperate in consumer education for the more effective utilizatio
 
 #### (g) Collection and dissemination of marketing information
 
-To collect and disseminate marketing information, including adequate outlook information on a market-area basis, for the purpose of anticipating and meeting consumer requirements, aiding in the maintenance of farm income, and bringing about a balance between production and utilization of agricultural products.
+To collect and disseminate marketing information, including adequate outlook informationon a market-area basis, for the purpose of anticipating and meeting consumer requirements, aiding in the maintenance of farm income, and bringing about a balance between production and utilization of agricultural products.
 
 #### (h) Inspection and certification of products in interstate commerce; credit and future availability of funds; investment; certificates as evidence; penalties
 
@@ -46,13 +46,13 @@ To assist in improving transportation services and facilities and in obtaining e
 
 To collect, tabulate, and disseminate statistics on marketing agricultural products, including, but not restricted to statistics on market supplies, storage stocks, quantity, quality, and condition of such products in various positions in the marketing channel, utilization of such products, and shipments and unloads thereof.
 
-#### <i>(l)</i> Development of procurement standards and specifications
+#### (<i>l</i>) Development of procurement standards and specifications
 
 To develop and promulgate, for the use and at the request of any Federal agency or State, procurement standards and specifications for agricultural products, and submit such standards and specifications to such agency or State for use or adoption for procurement purposes.
 
 #### (m) Promotion of research for handling, storing, preserving, etc.
 
-To conduct, assist, encourage, and promote research, investigation, and experimentation to determine the most efficient and practicalmeans, methods, and processes for the handling, storing, preserving, protecting, processing, and distributing of agricultural commodities to the end that such commodities may be marketed in an orderly manner and to the best interest of the producers thereof.
+To conduct, assist, encourage, and promote research, investigation, and experimentation to determine the most efficient and practical means, methods, and processes for the handling, storing, preserving, protecting, processing, and distributing of agricultural commodities to the end that such commodities may be marketed in an orderly manner and to the best interest of the producers thereof.
 
 #### (n) General research, services, and activities
 
@@ -142,7 +142,7 @@ Authorization of appropriations.—There are authorized to be appropriated such 
 
 “(c)
 
-Consultation.—In preparing the report required under subsection (a) and establishing the price discovery and reporting system required under subsection (b),the Secretary shall consult with lamb producers and other persons in the national lamb industry.”
+Consultation.—In preparing the report required under subsection (a) and establishing the price discovery and reporting system required under subsection (b), the Secretary shall consult with lamb producers and other persons in the national lamb industry.”
 
 #### Research To Investigate Extent to Which Grade Standards Governing Cosmetic Appearance Affect Pesticide Use in Production of Perishable Commodities; Advisory Committee; Report
 

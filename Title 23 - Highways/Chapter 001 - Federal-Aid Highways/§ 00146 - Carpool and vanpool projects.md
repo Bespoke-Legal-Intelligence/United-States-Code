@@ -16,7 +16,7 @@ Pub. L. 97–424, title I, §163, Jan. 6, 1983, 96 Stat. 2136, as amended by Pub
 
 #### Expenditure of Administrative Funds for Carpooling and Vanpooling Programs
 
-Pub. L. 97–424, title I, §123(b), Jan. 6, 1983, 96 Stat. 2113, provided that: “The Secretary of Transportation is authorized and directed to expend such sums as are necessary out of the administrative funds authorized by subsection (a) of section 104, title 23, United States Code, to carry out the provisions of subsection (d) of section 126 of the Federal-Aid Highway Act of 1978 \[section 126(d) of Pub. L. 95–599, set out as a note above\].”
+Pub. L. 97–424, title I, §123(b), Jan. 6, 1983, 96 Stat. 2113, provided that: “The Secretary of Transportation is authorized and directed to expend such sums as are necessary out of the administrative funds authorized by subsection (a) of section 104, title 23, United States Code, to carry out the provisions of subsection (d) of section 126 of the Federal-Aid Highway Act of 1978 \[section 126(d) of Pub. L. 95–599, set out below\].”
 
 #### Grants to States, Counties, etc., To Promote Carpooling and Vanpooling Programs
 
@@ -26,7 +26,7 @@ Section 126(d)–(h) of Pub. L. 95–599, as amended by Pub. L. 102–240, title
 
 “(e) The Secretary of Transportation is authorized to make grants and loans to States, counties, municipalities, metropolitan planning organizations, and other units of local and regional government consistent with the policy of subsection (d) of this section. Such grants and loans shall be awarded in a manner which emphasizes energy conservation, although the Secretary may use other factors as he deems appropriate. The Federal share of the costs of any project approved under this subsection shall not exceed 75 per centum. No grant awarded under this subsection may be used for the purchase or lease of vehicles.
 
-“(f) There is hereby authorized to be appropriated, out of the Highway Trust Fund, not to exceed $1,000,000 for the fiscal year ending September 30, 1979, $1,000,000 for the fiscal year ending September 30, 1980, and $1,000,000 for the fiscal year ending September 30, 1981, for expenditures incurred by the Secretary of Transportation in carrying out the provisions of subsection (d)of this section, and $3,000,000 for the fiscal year ending September 30, 1979, and $9,000,000 for the fiscal year ending September 30, 1980, for the purpose of carrying out the program described in subsection (e) of this section.
+“(f) There is hereby authorized to be appropriated, out of the Highway Trust Fund, not to exceed $1,000,000 for the fiscal year ending September 30, 1979, $1,000,000 for the fiscal year ending September 30, 1980, and $1,000,000 for the fiscal year ending September 30, 1981, for expenditures incurred by the Secretary of Transportation in carrying out the provisions of subsection (d) of this section, and $3,000,000 for the fiscal year ending September 30, 1979, and $9,000,000 for the fiscal year ending September 30, 1980, for the purpose of carrying out the program described in subsection (e) of this section.
 
 “(g) The Secretary of Transportation shall not approve any project under subsection (d) or (e) of this section or under section 146 of title 23, United States Code; which will have an adverse effect on any mass transportation system.
 

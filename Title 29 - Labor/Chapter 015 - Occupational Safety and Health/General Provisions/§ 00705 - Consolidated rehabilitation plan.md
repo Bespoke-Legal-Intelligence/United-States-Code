@@ -2,7 +2,7 @@
 
 #### (a) Election by State; agency concurrence
 
-In order to secure increased flexibility to respond to the varying needs and local conditions within the State, and in order to permit more effective and interrelated planning and operation of its rehabilitation programs, the State may submit a consolidated rehabilitation plan which includes the State's plan under section 721(a) of this title and its program for persons with developmental disabilities under the Developmental Disabilities Assistance and Bill of Rights Act \[42 U.S.C. 6000 et seq.\]: <i>Provided,</i> That the agency administering such State's program under such Act concurs in the submission of such a consolidated rehabilitation plan.
+In order to secure increased flexibility to respond to the varying needs and local conditions within the State, and in order to permit more effective and interrelated planning and operation of its rehabilitation programs, the State may submit a consolidated rehabilitation plan which includes the State's plan under section 721(a) of this title and its program for persons with developmental disabilities under the Developmental Disabilities Assistance and Bill of Rights Act \[42 U.S.C. 6000 et seq.\]: <i>Provided</i>, That the agency administering such State's program under such Act concurs in the submission of such a consolidated rehabilitation plan.
 
 #### (b) Approval by Secretary of consolidated rehabilitation plan meeting statutory requirements; submission by State of separate rehabilitation plans
 
@@ -14,7 +14,7 @@ Such a consolidated rehabilitation plan must comply with, and be administered in
 
 #### (c) Noncompliance; assistance termination procedures
 
-Findings of noncompliance in the administration of an approved consolidated rehabilitation plan, and any reductions, suspensions, or terminations of assistance as a result thereof, shall be carried out in accordance with the procedures set forth in subsections (c) and (d) of section 727 of this title.
+Findings of noncompliance in the administration of an approved consolidated rehabilitation plan, and any reductions, suspensions, or terminations of assistance as a result thereof, shall be carried out in accordance with the proceduresset forth in subsections (c) and (d) of section 727 of this title.
 
 (Pub. L. 93–112, §6, Sept. 26, 1973, 87 Stat. 359; Pub. L. 99–506, title X, §1001(a)(2), Oct. 21, 1986, 100 Stat. 1841; Pub. L. 100–630, title II, §201(b), Nov. 7, 1988, 102 Stat. 3303; Pub. L. 102–569, title I, §128(b)(1), Oct. 29, 1992, 106 Stat. 4388.)
 

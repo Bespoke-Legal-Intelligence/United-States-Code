@@ -28,6 +28,10 @@ Whoever violates subsection (a) of this section shall be fined not more than $10
 
 (June 19, 1934, ch. 652, title V, §508, formerly §509, as added Sept. 13, 1960, Pub. L. 96–752, §9, 74 Stat. 897; renumbered §508, Dec. 8, 1980, Pub. L. 96–507, §1, 94 Stat. 2747.)
 
+#### Prior Provisions
+
+A prior section 508 of act June 19, 1934, ch. 652, was renumbered section 507 by section 1 of Pub. L. 96–507, and is classified to section 508 of this title.
+
 #### Section Referred to in Other Sections
 
 This section is referred to in section 503 of this title.

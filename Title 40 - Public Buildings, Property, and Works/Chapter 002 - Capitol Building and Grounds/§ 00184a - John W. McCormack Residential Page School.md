@@ -26,7 +26,7 @@ Upon the acquisition on behalf of the United States of all real property under t
 
 #### (g) Designation; employment of services under supervision and control of Architect of Capitol: joint approval and direction of Speaker and President pro tempore; annual estimates to Congress; regulations governing Architect of Capitol
 
-The building constructed on the real property acquired under this section shall be designated the “John W. McCormack Residential Page School”. The employment of all services (other than that of the United States Capitol Police) necessary for its protection, care, maintenance, and use, for which appropriations are made by Congress, shall be under the control and supervision of the Architect of the Capitol. Such supervision and control shall be subject to the joint approval and direction of the Speaker and the President pro tempore. The Architect shall submit annually to the Congress estimates in detail for all services, other than those of the United States Capitol Police or those provided in connection with the conduct of school operations and the personal supervision of pages, and for all other expenses in connection with the protection, care, maintenance, and use of the John W. McCormack Residential Page School. The Speaker and the President pro tempore shall prescribe, from time to time, regulations governing the Architect in the provision of services and the protection, care, and maintenance, of the John W. McCormack Residential Page School.
+The building constructed on the real property acquired under this section shall be designated the “John W. McCormack Residential Page School”. The employment of all services (other than that of the United States Capitol Police) necessary for its protection, care, maintenance, and use, for which appropriations are made by Congress, shall be under the control and supervision of the Architect of the Capitol. Such supervision and control shall be subject to the joint approval and direction of the Speaker and the President pro tempore. The Architect shall submit annually to the Congress estimates in detail for all services, other than those of the United States Capitol Police or those providedin connection with the conduct of school operations and the personal supervision of pages, and for all other expenses in connection with the protection, care, maintenance, and use of the John W. McCormack Residential Page School. The Speaker and the President pro tempore shall prescribe, from time to time, regulations governing the Architect in the provision of services and the protection, care, and maintenance, of the John W. McCormack Residential Page School.
 
 #### (h) Joint appointee for supervision and control over page activities; regulations; Residence Superintendent of Pages: appointment, compensation, and duties; additional personnel: appointment and compensation
 
@@ -40,15 +40,19 @@ The Speaker of the House of Representatives and the President pro tempore of the
 
 > Such officers, subject to the approval of the Speaker and the President pro tempore, jointly shall appoint and fix the per annum gross rate of pay of a Residence Superintendent of Pages, who shall perform such duties with respect to the supervision of pages resident therein as those officials shall prescribe. In addition, such officers, subject to the approval of the Speaker and the President pro tempore, jointly shall appoint and fix the per annum gross rates of pay of such additional personnel as may be necessary to assist those officers and the Residence Superintendent of Pages in carrying out their functions under this section.
 
-#### (i) Sections 88a and 88b of title 2 unaffected
+#### (i) Section 88b of title 2 unaffected
 
-Nothing in section 88b–1 of title 2 and this section shall affect the operation of section 88a of title 2 or section 88b of title 2, relating to educational facilities of pages and other minors who are congressional employees.
+Nothing in section 88b–1 of title 2 and this section shall affect the operation of section 88b of title 2, relating to educational facilities of pages and other minors who are congressional employees.
 
-(Pub. L. 91–510, title IV, §492, Oct. 26, 1970, 84 Stat. 1199; Pub. L. 93–198, title IV, §421, Dec. 24, 1973, 87 Stat. 789.)
+(Pub. L. 91–510, title IV, §492, Oct. 26, 1970, 84 Stat. 1199; Pub. L. 93–198, title IV, §421, Dec. 24, 1973, 87 Stat. 789; Pub. L. 104–186, title II, §204(34)(C), Aug. 20, 1996, 110 Stat. 1734.)
 
 #### References in Text
 
 Section 88b–1 of title 2 and this section, referred to in subsec. (i), were in the original “this part”, meaning part 9 of title IV of Pub. L. 91–510, Oct. 26, 1970, 84 Stat. 1199, which enacted section 88b–1 of Title 2, The Congress, and this section, repealed section 88c of Title 2, and enacted a provision set out as a note under section 88b–1 of Title 2.
+
+#### Amendments
+
+1996—Subsec. (i). Pub. L. 104–186 struck out “section 88a of title 2 or” after “affect the operation of”.
 
 #### Effective Date
 

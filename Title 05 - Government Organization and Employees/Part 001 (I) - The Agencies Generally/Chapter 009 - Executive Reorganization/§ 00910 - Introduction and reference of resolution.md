@@ -12,7 +12,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 5 U.S.C. 133z–12.
 
@@ -22,9 +24,9 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-<b>1984</b>—Subsec. (b). Pub. L. 98–614 substituted “75 calendar days” for “45 calendar days”.
+1984—Subsec. (b). Pub. L. 98–614 substituted “75 calendar days” for “45 calendar days”.
 
-<b>1977</b>—Pub. L. 95–17 substituted “Introduction and reference of resolution” for “Reference of resolution to committee” in section catchline, designated existing provisions as subsec. (b), substituted “the Committee on Governmental Affairs of the Senate and the Committee on Government Operations of the House” for “a committee” and inserted requirement that the Committee shall make its recommendation to the House or Senate within 45 calendar days of continuous session of Congress following the date of a resolution's introduction, and added subsec. (a).
+1977—Pub. L. 95–17 substituted “Introduction and reference of resolution” for “Reference of resolution to committee” in section catchline, designated existing provisions as subsec. (b), substituted “the Committee on Governmental Affairs of the Senate and the Committee on Government Operations of the House” for “a committee” and inserted requirement that the Committee shall make its recommendation to the House or Senate within 45 calendar days of continuous session of Congress following the date of a resolution's introduction, and added subsec. (a).
 
 #### Change of Name
 

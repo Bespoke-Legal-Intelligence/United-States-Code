@@ -2,7 +2,7 @@
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in sections 362, 386, 548, 612 of this title.
+This subchapter is referred to in sections 228, 271, 362, 386, 548, 612 of this title.
 
 
 ---

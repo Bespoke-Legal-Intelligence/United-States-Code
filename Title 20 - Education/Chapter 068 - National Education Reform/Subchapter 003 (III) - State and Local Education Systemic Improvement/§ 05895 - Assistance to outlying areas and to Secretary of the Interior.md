@@ -8,7 +8,7 @@
 
 #### (2) Inapplicability of Public Law 95–134
 
-&emsp;The provisions of Public Law 95–134, permitting the consolidation of grants to the insularareas, shall not apply to funds received by such areas under this subchapter.
+&emsp;The provisions of Public Law 95–134, permitting the consolidation of grants to the insular areas, shall not apply to funds received by such areas under this subchapter.
 
 #### (b) Secretary of the Interior
 
@@ -16,27 +16,21 @@
 
 &emsp;The funds reserved for the Secretary of the Interior under section 5884(a)(1)(B) of this title shall be made in a payment which shall be pursuant to an agreement between the Secretary and the Secretary of the Interior containing such assurances and terms as the Secretary determines shall best achieve the provisions of this section and this chapter. The agreement shall, at a minimum, contain assurances that—
 
-&emsp;&emsp;(A) a panel, as set forth in paragraph (4) of this subsection, shall be established;
+&emsp;&emsp;(A) a panel, as set forth in paragraph (3), shall be established;
 
 &emsp;&emsp;(B) a reform and improvement plan, designed to increase student learning and assist students in meeting the National Education Goals, meeting the requirements pertaining to State improvement plans required in section 5886 of this title and providing for the fundamental restructuring and improvement of elementary and secondary education in schools funded by the Bureau, shall be developed by such panel; and
 
-&emsp;&emsp;(C) the provisions and activities required under such State improvement plans, including the requirements for timetables for opportunity-to-learn standards, shall be carried out in the same time frames and under the same conditions stipulated for the States in sections 5885 and 5886 of this title, provided that for these purposes, the term “local educational agencies” shall be interpreted to mean “schools funded by the Bureau”.
+&emsp;&emsp;(C) the provisions and activities required under such State improvement plans shall be carried out in the same time frames and under the same conditions stipulated for the States in sections 5885 and 5886 of this title, provided that for these purposes, the term “local educational agencies” shall be interpreted to mean “schools funded by the Bureau”.
 
-#### (2) Voluntary submission
-
-&emsp;The provisions applicable to the States in section 5843 of this title shall apply to the Bureau plan with regard to voluntary submission of standards and assessments to the National Education Standards and Improvement Council for review and certification.
-
-#### (3) Plan specifics
+#### (2) Plan specifics
 
 &emsp;The reform and improvement plan shall include, in addition to the requirements described above, specific provisions for—
 
-&emsp;&emsp;(A) opportunity to learn standards pertaining to residential programs and transportation costs associated with programs located on or near reservations or serving students in off-reservation residential boarding schools;
+&emsp;&emsp;(A) review and incorporation of the National Education Goals and the voluntarynational content standards and voluntary national student performance standards, provided that such review shall include the issues of cultural and language differences; and
 
-&emsp;&emsp;(B) review and incorporation of the National Education Goals and the voluntary national content standards, voluntary natural student performance standards, and voluntary natural opportunity-to-learn standards developed under part B of subchapter II of this chapter, provided that such review shall include the issues of cultural and language differences; and
+&emsp;&emsp;(B) provision for coordination of the efforts of the Bureau with the efforts for school improvement of the States and local educational agencies in which the schools funded by the Bureau are located, including the development of the partnerships outlined in section 5886(g)(2) of this title.
 
-&emsp;&emsp;(C) provision for coordination of the efforts of the Bureau with the efforts for school improvement of the States and local educational agencies in which the schools funded by the Bureau are located, including the development of the partnerships outlined in section 5886(g)(2) of this title.
-
-#### (4) Panel
+#### (3) Panel
 
 &emsp;(A) To carry out the provisions of this section, and to develop the plan for system-wide reform and improvement required under the agreement required under paragraph (1), the Secretary of the Interior shall establish a panel coordinated by the Assistant Secretary of the Interior for Indian Affairs. Such panel shall consist of—
 
@@ -62,15 +56,15 @@
 
 &emsp;&emsp;&emsp;(VIII) The organization representing the school boards required by statute for schools funded by the Bureau serving students on the Navajo reservation.
 
-&emsp;(B) Including the additional members required by paragraph (5), a majority of the members of such panel shall be from the entities designated under subparagraph (A)(iii).
+&emsp;(B) Including the additional members required by paragraph (4), a majority of the members of such panel shall be from the entities designated under subparagraph (A)(iii).
 
-#### (5) Additional members
+#### (4) Additional members
 
-&emsp;In addition, the members of the panel described in paragraph (4) shall designate for full membership on the panel four additional members—
+&emsp;In addition, the members of the panel described in paragraph (3) shall designate for full membership on the panel four additional members—
 
 &emsp;&emsp;(A) one of whom shall be a representative of a national organization which represents primarily national Indian education concerns; and
 
-&emsp;&emsp;(B) three of whom shall be chairpersons (or their designees) of Indian tribes with schools funded by the Bureau on their reservations (other than those specifically represented by organizations referred to in paragraph (4)), provided that preference for no less than two of these members shall be given to Indian tribes with a significant number of schools funded by the Bureau on their reservations, or with a significant percentage of their children enrolled in schools funded by the Bureau.
+&emsp;&emsp;(B) three of whom shall be chairpersons (or their designees) of Indian tribes with schools funded by the Bureau on their reservations (other than those specifically represented by organizations referred to in paragraph (3)), provided that preference for no less than two of these members shall be given to Indian tribes with a significant number of schools funded by the Bureau on their reservations, or with a significant percentage of their children enrolled in schools funded by the Bureau.
 
 #### (c) Bureau of Indian Affairs cost analysis and studies
 
@@ -84,7 +78,7 @@
 
 #### (2) Cost analysis purpose
 
-&emsp;The purpose of the cost analysis provided for in paragraph (1)(A) shall be to provide the Bureau and the panel described in subsection (b)(4) of this section with baseline data regarding the current state of operations funded by the Bureau and to provide a framework for the implementation of opportunity-to-learn standards or strategies. Such analysis shall evaluate the costs of providing a program in each school operated or supported by the Bureau for the next succeeding academic year and shall be based on—
+&emsp;The purpose of the cost analysis provided for in paragraph (1)(A) shall be to provide the Bureau and the panel described in subsection (b)(3) of this section with baseline data regarding the current state of operations funded by the Bureau. Such analysis shall evaluate the costs of providing a program in each school operated or supported by the Bureau for the next succeeding academic year and shall be based on—
 
 &emsp;&emsp;(A) the standards either published in the Federal Register and effective for schools funded by the Bureau on October 20, 1994, or the State or regional standards in effect on October 20, 1994, for a Bureau funded school;
 
@@ -94,7 +88,7 @@
 
 #### (3) Feasibility study purpose
 
-&emsp;(A) The purpose of the feasibility analysis provided for in paragraph (1)(B) shall be to determine whether it is feasible and desirable for the Bureau to replace or modify the weighted student unit formula system in effect on March 31, 1994.
+&emsp;(A) The purpose of the feasibility analysis provided for in paragraph (1)(B) shall be to determine whether it is feasible and desirable for the Bureau to replace or modify the weightedstudent unit formula system in effect on March 31, 1994.
 
 &emsp;(B) For the purposes of the feasibility analysis described in paragraph (1)(B), the term “school-based budget system” means a system based upon an initial determination, at each school site, of the number of students who shall be served at the site, the needs of those students, the standards which will best meet those needs (including any standards or conditions reflecting local community input and such community's program), the personnel profile necessary to establish such program and the cost (determined on an actual basis) of funding such a program. Such a system shall include procedures to aggregate the determinations for each school site to determine the amount needed to fund all Bureau funded schools, to prepare a budget submission based upon such aggregate, and to provide for a mechanism for distributing such sums as may be appropriated based upon the determination at each school site.
 
@@ -112,9 +106,9 @@ The Secretary of the Interior may use not more than one percent of the funds rec
 
 #### (f) Study
 
-In cooperation with the panel established in subsection (b)(4) of this section, the Secretary of the Interior shall conduct a study to evaluate the feasibility of contracting with a private management firm for the operation of one or more Bureau operated schools to facilitate the achievement of the National Education Goals and the efficient use of funds in the education of Indian children, and to report to the persons identified in subsection (c)(4) of this section and to the panel described in subsection (b)(4) of thissection not later than 12 months after October 20, 1994.
+In cooperation with the panel established in subsection (b)(3) of this section, the Secretary of the Interior shall conduct a study to evaluate the feasibility of contracting with a private management firm for the operation of one or more Bureau operated schools to facilitate the achievement of the National Education Goals and the efficient use of funds in the education of Indian children, and to report to the persons identified in subsection (c)(4) of this section and to the panel described in subsection (b)(3) of this section not later than 12 months after October 20, 1994.
 
-(Pub. L. 103–227, title III, §315, Mar. 31, 1994, 108 Stat. 181; Pub. L. 103–382, title III, §384, Oct. 20, 1994, 108 Stat. 4018.)
+(Pub. L. 103–227, title III, §315, Mar. 31, 1994, 108 Stat. 181; Pub. L. 103–382, title III, §384, Oct. 20, 1994, 108 Stat. 4018; Pub. L. 104–134, title I, §101(d) \[title VII, §703(a)(14)\], Apr. 26, 1996, 110 Stat. 1321–211, 1321–253; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.)
 
 #### References in Text
 
@@ -124,13 +118,35 @@ The Indian Self-Determination and Education Assistance Act referred to in subsec
 
 #### Amendments
 
+1996—Subsec. (b)(1)(A). Pub. L. 104–134, §101(d) \[title VII, §703(a)(14)(A)(iv)\], substituted “paragraph (3)” for “paragraph (4) of this subsection”.
+
+Subsec. (b)(1)(C). Pub. L. 104–134, §101(d) \[title VII, §703(a)(14)(A)(i)\], struck out “, including the requirements for timetables for opportunity-to-learn standards,” after “such State improvement plans”.
+
+Subsec. (b)(2). Pub. L. 104–134, §101(d) \[title VII, §703(a)(14)(A)(ii), (iii)\], redesignated par. (3) as (2) and struck out heading and text of former par. (2). Text read as follows: “The provisions applicable to the States in section 5843 of this title shall apply to the Bureau plan with regard to voluntary submission of standards and assessments to the National Education Standards and Improvement Council for review and certification.”
+
+Subsec. (b)(2)(A). Pub. L. 104–134, §101(d) \[title VII, §703(a)(14)(A)(v)(III)\], substituted “and voluntary national student performance standards” for “, voluntary natural student performance standards, and voluntary natural opportunity-to-learn standards developed under part B of subchapter II of this chapter”.
+
+Pub. L. 104–134, §101(d) \[title VII, §703(a)(14)(A)(v)(I), (II)\], redesignated subpar. (B) as (A) and struck out former subpar. (A) which read as follows: “opportunity to learn standards pertaining to residential programs and transportation costs associated with programs located on or near reservations or serving students in off-reservation residential boarding schools;”.
+
+Subsec. (b)(2)(B), (C). Pub. L. 104–134, §101(d) \[title VII, §703(a)(14)(A)(v)(II)\], redesignated subpar. (C) as (B). Former subpar. (B) redesignated (A).
+
+Subsec. (b)(3). Pub. L. 104–134, §101(d) \[title VII, §703(a)(14)(A)(iii)\], redesignated par. (4) as (3). Former par. (3) redesignated (2).
+
+Subsec. (b)(3)(B). Pub. L. 104–134, §101(d) \[title VII, §703(a)(14)(A)(vi)\], substituted “paragraph (4)” for “paragraph (5)”.
+
+Subsec. (b)(4), (5). Pub. L. 104–134, §101(d) \[title VII, §703(a)(14)(A)(iii), (vii)\], redesignated par. (5) as (4) and substituted “paragraph (3)” for “paragraph (4)” in introductory provisions and in subpar. (B). Former par. (4) redesignated (3).
+
+Subsec. (c)(2). Pub. L. 104–134, §101(d) \[title VII, §703(a)(14)(B)\], in introductory provisions, substituted “subsection (b)(3)” for “subsection (b)(4)”, and struck out “and to provide a framework for the implementation of opportunity-to-learn standards or strategies” after “funded by the Bureau”.
+
+Subsec. (f). Pub. L. 104–134, §101(d) \[title VII, §703(a)(14)(C)\], substituted “subsection (b)(3)” for “subsection (b)(4)” in two places.
+
 1994—Subsec. (c). Pub. L. 103–382, §384(a)(1), amended heading and text of subsec. (c) generally. Prior to amendment, text contained pars. (1) and (2) relating to BIA cost analysis, reserving up to $500,000 for one fiscal year for cost analysis, specifying contents of cost analysis, and directing that such analysis be reported to Congressional committees.
 
 Subsecs. (e), (f). Pub. L. 103–382, §384(a)(2), added subsecs. (e) and (f).
 
 #### Change of Name
 
-Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Economic and Educational Opportunities of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Fifth Congress, Jan. 7, 1997.
 
 #### Section Referred to in Other Sections
 

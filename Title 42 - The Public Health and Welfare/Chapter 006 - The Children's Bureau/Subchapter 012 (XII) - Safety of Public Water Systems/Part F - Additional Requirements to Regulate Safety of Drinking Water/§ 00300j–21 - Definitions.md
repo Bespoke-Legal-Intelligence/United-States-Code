@@ -36,13 +36,15 @@ As used in this part—
 
 &emsp;The term “lead-lined tank” means a water reservoir container in a drinking water cooler which container is constructed of lead or which has an interior surface which is not lead free.
 
-(July 1, 1944, ch. 373, title XIV, §1461, as added Oct. 31, 1988, Pub. L. 100–572, §2(a), 102 Stat. 2884; amended Oct. 20, 1994, Pub. L. 103–382, title III, §391(p), 108 Stat. 4024.)
+(July 1, 1944, ch. 373, title XIV, §1461, as added Oct. 31, 1988, Pub. L. 100–572, §2(a), 102 Stat. 2884; amended Oct. 20, 1994, Pub. L. 103–382, title III, §391(p), 108 Stat. 4024; Aug. 6, 1996, Pub. L. 104–182, title V, §501(f)(7), 110 Stat. 1692.)
 
 #### References in Text
 
 The Defense Dependent's Education Act of 1978, referred to in par. (3)(C), probably means the Defense Dependents’ Education Act of 1978, title XIV of Pub. L. 95–561, Nov. 1, 1978, 92 Stat. 2365, as amended, which is classified principally to chapter 25A (§921 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 921 of Title 20 and Tables.
 
 #### Amendments
+
+1996—Pub. L. 104–182 made technical amendment to section catchline and first word of text.
 
 1994—Par. (3)(A). Pub. L. 103–382, §391(p)(1), substituted “section 8801 of title 20” for “section 198 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 3381)”.
 

@@ -98,7 +98,7 @@
 
 #### (ii) 5 p.m. cash availability
 
-&emsp;&emsp;&emsp;Not more than $400 (or the maximum amount allowable in the case of a withdrawal from an automated teller machinebut not more than $400) of funds deposited by one or more checks to which this subparagraph applies shall be available for cash withdrawal not later than 5 o'clock post meridian of the business day on which such funds are available under subparagraph (A).
+&emsp;&emsp;&emsp;Not more than $400 (or the maximum amount allowable in the case of a withdrawal from an automated teller machine but not more than $400) of funds deposited by one or more checks to which this subparagraph applies shall be available for cash withdrawal not later than 5 o'clock post meridian of the business day on which such funds are available under subparagraph (A).
 
 #### (iii) $100 availability
 

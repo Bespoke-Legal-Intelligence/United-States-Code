@@ -1,6 +1,6 @@
 ### §1071. Purpose of this chapter
 
-The purpose of this chapter is to create and maintain high morale in the uniformed servicesby providing an improved and uniform program of medical and dental care for members and certain former members of those services, and for their dependents.
+The purpose of this chapter is to create and maintain high morale in the uniformed services by providing an improved and uniform program of medical and dental care for members and certain former members of those services, and for their dependents.
 
 (Added Pub. L. 85–861, §1(25)(B), Sept. 2, 1958, 72 Stat. 1445; amended Pub. L. 89–614, §2(1), Sept. 30, 1966, 80 Stat. 862; Pub. L. 96–513, title V, §511(34)(A), (B), Dec. 12, 1980, 94 Stat. 2922.)
 
@@ -26,7 +26,7 @@ A prior section 1071, act Aug. 10, 1956, ch. 1041, 70A Stat. 81, which stated th
 
 #### Amendments
 
-1980—Pub. L. 96–513 substituted “Purpose of this chapter” for “Purpose of sections 1071–1087 of this title” in section catchline, and substituted reference to this chapter for reference to sections 1071–1087 of this title in text.
+1980—Pub. L. 96–513 substituted “Purpose of this chapter” for “Purpose of sections 1071–1087 of thistitle” in section catchline, and substituted reference to this chapter for reference to sections 1071–1087 of this title in text.
 
 1966—Pub. L. 89–614 substituted “1087” for “1085” in section catchline and text.
 
@@ -45,6 +45,40 @@ Pub. L. 100–180, div. A, title VII, §701, Dec. 4, 1987, 101 Stat. 1108, provi
 #### Short Title of 1966 Amendment
 
 Section 1 of Pub. L. 89–614 provided: “That this Act \[enacting sections 1086 and 1087 of this title, amending this section and sections 1072 to 1074, 1076 to 1079, 1082, and 1084 of this title, and enacting provisions set out as a note under this section\] may be cited as the ‘Military Medical Benefits Amendments of 1966’.”
+
+#### External Peer Review for Defense Health Program Extramural Medical Research Involving Human Subjects
+
+Pub. L. 104–201, div. A, title VII, §742, Sept. 23, 1996, 110 Stat. 2600, provided that:
+
+“(a)
+
+Establishment of External Peer Review Process.—The Secretary of Defense shall establish a peer review process that will use persons who are not officers or employees of the Government to review the research protocols of medical research projects.
+
+“(b)
+
+Peer Review Requirements.—Funds of the Department of Defense may not be obligated or expended for any medical research project unless the research protocol for the project has been approved by the external peer review process established under subsection (a).
+
+“(c)
+
+Medical Research Project Defined.—For purposes of this section, the term ‘medical research project’ means a research project that—
+
+&emsp;“(1) involves the participation of human subjects;
+
+&emsp;“(2) is conducted solely by a non-Federal entity; and
+
+&emsp;“(3) is funded through the Defense Health Program account.
+
+“(d)
+
+Effective Date.—The peer review requirements of subsection (b) shall take effect on October 1, 1996, and, except as provided in subsection (e), shall apply to all medical research projects proposed funded on or after that date, including medical research projects funded pursuant to any requirement of law enacted before, on, or after that date.
+
+“(e)
+
+Exceptions.—Only the following medical research projects shall be exempt from the peer review requirements of subsection (b):
+
+&emsp;“(1) A medical research project that the Secretary determines has been substantially completed by October 1, 1996.
+
+&emsp;“(2) A medical research project funded pursuant to any provision of law enacted on or after that date if the provision of law specifically refers to this section and specifically states that the peer review requirements do not apply.”
 
 #### Annual Beneficiary Survey
 

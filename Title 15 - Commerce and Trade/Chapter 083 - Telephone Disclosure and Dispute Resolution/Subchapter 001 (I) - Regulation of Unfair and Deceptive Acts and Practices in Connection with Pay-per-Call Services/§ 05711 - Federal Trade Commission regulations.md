@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) clearly and conspicuously disclose in any advertising the cost of the use of such telephone number, including the total cost or the cost per minute and any other fees for that service and for any other pay-per-call service to which the caller may be transferred;
 
-&emsp;&emsp;(B) in the case of an advertisement which offers a prize or award or a service or product at no cost or for a reduced cost, clearly and conspicuously disclose the odds of being able to receive such prize, award, service, or product at no cost or reduced cost, or, if such odds are not calculable in advance, disclose the factors determining such odds;
+&emsp;&emsp;(B) in the case of an advertisement which offers a prize or award or a service or product at no cost or for a reduced cost, clearlyand conspicuously disclose the odds of being able to receive such prize, award, service, or product at no cost or reduced cost, or, if such odds are not calculable in advance, disclose the factors determining such odds;
 
 &emsp;&emsp;(C) in the case of an advertisement that promotes a service that is not operated or expressly authorized by a Federal agency but that provides information on a Federal program, include at the beginning of such advertisement a clear disclosure that the service is not authorized, endorsed, or approved by any Federal agency;
 
@@ -56,7 +56,7 @@
 
 &emsp;&emsp;&emsp;(i) display any charges for pay-per-call services in a part of the consumer's bill that is identified as not being related to local and long distance telephone charges; and
 
-&emsp;&emsp;&emsp;(ii) for each charge so displayed, specify, at a minimum, the type of service, theamount of the charge, and the date, time, and duration of the call;
+&emsp;&emsp;&emsp;(ii) for each charge so displayed, specify, at a minimum, the type of service, the amount of the charge, and the date, time, and duration of the call;
 
 &emsp;&emsp;(I) be liable for refunds to consumers who have been billed for pay-per-call services pursuant to programs that have been found to have violated the regulations prescribed pursuant to this section or subchapter II of this chapter or any other Federal law; and
 
@@ -106,5 +106,5 @@ Any violation of any rule prescribed under subsection (a) of this section shall 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 5712, 5713 of this title.
+This section is referred to in sections 5712, 5713, 5714 of this title.
 

@@ -2,11 +2,11 @@
 
 When used in this chapter—
 
-&emsp;(1) the term “Advisory Board” means the National Agricultural Research and Extension Users Advisory Board;
+&emsp;(1) the term “Advisory Board” means the National Agricultural Research, Extension, Education, and Economics Advisory Board;
 
 &emsp;(2) the term “agricultural research” means research in the food and agricultural sciences;
 
-&emsp;(3) the term “aquaculture” means the propagation and rearing of aquacultural species, including, but not limited to, any species of finfish, mollusk, or crustacean (or other aquatic invertebrate), amphibian, reptile, or aquatic plant, in controlled or selected environments;
+&emsp;(3) the term “aquaculture” means the propagation and rearing of aquacultural species, including, but not limited to, any species of finfish, mollusk, or crustacean (or other aquatic invertebrate), amphibian, reptile, ornamental fish, or aquatic plant, in controlled or selected environments;
 
 &emsp;(4) the terms “college” and “university” mean an educational institution in any State which (A) admits as regular students only persons having a certificate of graduation from a school providing secondary education, or the recognized equivalent of such a certificate, (B) is legally authorized within such State to provide a program of education beyond secondary education, (C) provides an educational program for which a bachelor's degree or any other higher degree is awarded, (D) is a public or other nonprofit institution, and (E) is accredited by a nationally recognized accrediting agency or association;
 
@@ -38,7 +38,7 @@ When used in this chapter—
 
 &emsp;&emsp;(J) international food and agricultural issues, such as agricultural development, development of institutions, germ plasm collection and preservation, information exchange and storage, and scientific exchanges;
 
-&emsp;(9) the term “Joint Council” means the Joint Council on Food and Agricultural Sciences;
+&emsp;(9) the term “Hispanic-serving institution” has the meaning given the term by section 1059c(b)(1) of title 20;
 
 &emsp;(10) the term “land-grant colleges and universities” means those institutions eligible to receive funds under the Act of July 2, 1862 (12 Stat. 503–505, as amended; 7 U.S.C. 301–305, 307 and 308), or the Act of August 30, 1890 (26 Stat. 417–419, as amended; 7 U.S.C. 321–326 and 328), including the Tuskegee Institute;
 
@@ -64,7 +64,7 @@ When used in this chapter—
 
 &emsp;&emsp;(E) the Act of October 10, 1962 (16 U.S.C. 582a et seq.), commonly known as the McIntire-Stennis Act of 1962; and
 
-&emsp;&emsp;(F) subchapters V, VI, XI, and XII of this chapter;
+&emsp;&emsp;(F) subchapters V, VI, XI, and XII of this chapter; and
 
 &emsp;(17) the term “sustainable agriculture” means an integrated system of plant and animal production practices having a site-specific application that will, over the long-term—
 
@@ -76,11 +76,9 @@ When used in this chapter—
 
 &emsp;&emsp;(D) sustain the economic viability of farm operations; and
 
-&emsp;&emsp;(E) enhance the quality of life for farmers and society as a whole; and
+&emsp;&emsp;(E) enhance the quality of life for farmers and society as a whole.
 
-&emsp;(18) the term “Technology Board” means the Agricultural Science and Technology Review Board established in section 3123a of this title.
-
-(Pub. L. 95–113, title XIV, §1404, Sept. 29, 1977, 91 Stat. 983; Pub. L. 97–98, title XIV, §1404, Dec. 22, 1981, 95 Stat. 1297; Pub. L. 99–198, title XIV, §1403, Dec. 23, 1985, 99 Stat. 1544; Pub. L. 101–624, title XVI, §1603, Nov. 28, 1990, 104 Stat. 3705; Pub. L. 102–237, title IV, §402(3), Dec. 13, 1991, 105 Stat. 1863.)
+(Pub. L. 95–113, title XIV, §1404, Sept. 29, 1977, 91 Stat. 983; Pub. L. 97–98, title XIV, §1404, Dec. 22, 1981, 95 Stat. 1297; Pub. L. 99–198, title XIV, §1403, Dec. 23, 1985, 99 Stat. 1544; Pub. L. 101–624, title XVI, §1603, Nov. 28, 1990, 104 Stat. 3705; Pub. L. 102–237, title IV, §402(3), Dec. 13, 1991, 105 Stat. 1863; Pub. L. 104–127, title VIII, §§802(b)(1), 815(b), 820(a), 853(b)(1), Apr. 4, 1996, 110 Stat. 1159, 1167, 1168, 1172.)
 
 #### References in Text
 
@@ -97,6 +95,14 @@ Act of March 2, 1887, referred to in pars. (13) and (16)(C), is act Mar. 2, 1887
 Act of October 10, 1962, referred to in pars. (15) and 16(E), is Pub. L. 87–788, Oct. 10, 1962, 76 Stat. 806, as amended, known as the McIntire-Stennis Act of 1962, which is classified generally to subchapter III (§582a et seq.) of chapter 3 of Title 16, Conservation. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
+
+1996—Par. (1). Pub. L. 104–127, §802(b)(1), substituted “National Agricultural Research, Extension, Education, and Economics Advisory Board” for “National Agricultural Research and Extension Users Advisory Board”.
+
+Par. (3). Pub. L. 104–127, §820(a), inserted “ornamental fish,” after “reptile,”.
+
+Par. (9). Pub. L. 104–127, §815(b), amended par. (9) generally. Prior to amendment, par. (9) read as follows: “the term ‘Joint Council’ means the Joint Council on Food and Agricultural Sciences;”.
+
+Pars. (16) to (18). Pub. L. 104–127, §853(b)(1), inserted “and” at end of par. (16), substituted a period for “; and” at end of par. (17), and struck out par. (18) which read as follows: “the term ‘Technology Board’ means the Agricultural Science and Technology Review Board established in section 3123a of this title.”
 
 1991—Par. (18). Pub. L. 102–237 inserted “and” after “Science”.
 
@@ -128,5 +134,5 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 450i, 2027, 3319, 3292, 5801, 5931 of this title.
+This section is referred to in sections 390, 450i, 2027, 3319, 5801 of this title.
 

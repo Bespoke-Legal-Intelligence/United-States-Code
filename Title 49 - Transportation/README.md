@@ -1,5 +1,5 @@
 
-49 U.S.C.<br>United States Code, 1995 Edition<br>Title 49 - TRANSPORTATION<br>From the U.S. Government Publishing Office, www.gpo.gov
+49 U.S.C.<br>United States Code, 1996 Edition<br>Title 49 - TRANSPORTATION<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 49—TRANSPORTATION
 
@@ -22,7 +22,7 @@
 
 #### Amendments
 
-1995—Pub. L. 104–88, title I, §102(b), Dec. 29, 1995, 109 Stat. 852, substituted “TRANSPORTATION” for “COMMERCE” in item for subtitle IV.
+1995—Pub. L. 104–88, title I, §102(b), Dec. 29, 1995, 109 Stat. 852, as amended by Pub. L. 104–287, §6(f)(1), Oct. 11, 1996, 110 Stat. 3399, substituted “TRANSPORTATION” for “COMMERCE” in item for subtitle IV.
 
 1994—Pub. L. 103–272, §1(b), July 5, 1994, 108 Stat. 745, amended subtitle analysis generally, substituting “OTHER GOVERNMENT AGENCIES . . .1101” for “TRANSPORTATION PROGRAMS . . .3101” in item for subtitle II, “GENERAL AND INTERMODAL PROGRAMS . . .5101” for “\[RESERVED—AIR TRANSPORTATION\]” in item for subtitle III, and “RAIL PROGRAMS . . .20101” for “\[RESERVED—MISCELLANEOUS\]” in item for subtitle V, and adding items for subtitles VI, VII, VIII, IX, and X.
 
@@ -30,9 +30,13 @@
 
 Table Showing Disposition of Former Sections of Title 49
 
-<i>Title 49      Former Sections     </i>
+<i>Title 49</i>
 
-<i>Title 49         New Sections        </i>
+<i>Former Sections</i>
+
+<i>Title 49</i>
+
+<i>New Sections</i>
 
 1(1), (2)
 
@@ -846,7 +850,7 @@ Rep.
 
 11901
 
-19a<i>(l)</i>
+19a(<i>l</i>)
 
 11703
 
@@ -2306,7 +2310,7 @@ Rep.
 
 10541
 
-903<i>(l)</i>
+903(<i>l</i>)
 
 10929
 
@@ -3578,7 +3582,7 @@ Rep.
 
 42112
 
-1371(<i>l)</i>
+1371(<i>l</i>)
 
 41903
 
@@ -3594,7 +3598,7 @@ Rep.
 
 41104
 
-1371(<i>o)</i>
+1371(<i>o</i>)
 
 41106
 
@@ -3926,7 +3930,7 @@ Rep.
 
 41731
 
-1389(<i>l)</i>
+1389(<i>l</i>)
 
 41737
 
@@ -4350,7 +4354,7 @@ Rep.
 
 46506
 
-1472(<i>l)</i>
+1472(<i>l</i>)
 
 46505
 
@@ -4374,7 +4378,7 @@ Rep.
 
 46501
 
-1472(<i>o)</i>
+1472(<i>o</i>)
 
 T. 28 §538
 
@@ -4766,7 +4770,7 @@ Rep.
 
 Rep.
 
-1551(a)(4)(A) (related to 49:1371(<i>l))</i>
+1551(a)(4)(A) (related to 49:1371(<i>l</i>))
 
 41903
 
@@ -4994,7 +4998,7 @@ Rep.
 
 5337
 
-1602(i)–(<i>l)</i>
+1602(i)–(<i>l</i>)
 
 5309
 
@@ -5090,7 +5094,7 @@ Rep.
 
 5334
 
-1607(<i>l)</i>
+1607(<i>l</i>)
 
 5305
 
@@ -5102,7 +5106,7 @@ Rep.
 
 5303
 
-1607(<i>o)</i>
+1607(<i>o</i>)
 
 5306
 
@@ -5130,7 +5134,7 @@ Rep.
 
 5336
 
-1607a(k)(3), (<i>l)</i>
+1607a(k)(3), (<i>l</i>)
 
 Rep.
 
@@ -5138,7 +5142,7 @@ Rep.
 
 5307
 
-1607a(m)(2)–(<i>o)</i>
+1607a(m)(2)–(<i>o</i>)
 
 5336
 
@@ -5262,7 +5266,7 @@ Rep.
 
 5334
 
-1608(<i>l)</i>
+1608(<i>l</i>)
 
 5326
 
@@ -5826,7 +5830,7 @@ Rep.
 
 102
 
-1657(<i>l)</i>
+1657(<i>l</i>)
 
 331
 
@@ -5838,7 +5842,7 @@ Rep.
 
 329
 
-1657(<i>o)</i>
+1657(<i>o</i>)
 
 325
 
@@ -6470,7 +6474,7 @@ Rep.
 
 60102
 
-2002(<i>l)</i>
+2002(<i>l</i>)
 
 60108
 
@@ -7456,6 +7460,32 @@ Pub. L. 100–561, title III, §308, Oct. 31, 1988, 102 Stat. 2817, which provid
 
 #### Legislative Purpose and Construction
 
+Section 9 of Pub. L. 104–287, Oct. 11, 1996, 110 Stat. 3400, provided that:
+
+“(a)
+
+No Substantive Change.—This Act restates, without substantive change, laws enacted before March 1, 1996, that were replaced by this Act. This Act may not be construed as making a substantive change in the laws replaced. Laws enacted after February 29, 1996, that are inconsistent with this Act supersede this Act to the extent of the inconsistency.
+
+“(b)
+
+References.—A reference to a law replaced by this Act, including a reference in a regulation, order, or other law, is deemed to refer to the corresponding provision enacted by this Act.
+
+“(c)
+
+Continuing Effect.—An order, rule, or regulation in effect under a law replaced by this Act continues in effect under the corresponding provision enacted by this Act until repealed, amended, or superseded.
+
+“(d)
+
+Actions and Offenses Under Prior Law.—An action taken or an offense committed under a law replaced by this Act is deemed to have been taken or committed under the corresponding provision enacted by this Act.
+
+“(e)
+
+Inferences.—An inference of a legislative construction is not to be drawn by reason of the location in the United States Code of a provision enacted by this Act or by reason of a caption or catchline of the provision.
+
+“(f)
+
+Severability.—If a provision enacted by this Act is held invalid, all valid provisions that are severable from the invalid provision remain in effect. If a provision enacted by this Act is held invalid in any of its applications, the provision remains valid for all valid applications that are severable from any of the invalid applications.”
+
 Section 10 of Pub. L. 103–429, Oct. 31, 1994, 108 Stat. 4391, provided that:
 
 “(a)
@@ -7480,7 +7510,7 @@ Inferences.—An inference of a legislative construction is not to be drawn by r
 
 “(f)
 
-Severability.—If a provision enacted by this Act is held invalid, all valid provisions that are severable from the invalid provision remain in effect. If a provision enacted by this Act is held invalid in any of its applications, the provision remains valid for all valid applications that are severable from any of the invalid applications.”
+Severability.—If a provision enacted by this Act is held invalid, all valid provisions that are severablefrom the invalid provision remain in effect. If a provision enacted by this Act is held invalid in any of its applications, the provision remains valid for all valid applications that are severable from any of the invalid applications.”
 
 Section 6 of Pub. L. 103–272, July 5, 1994, 108 Stat. 1378, provided that:
 
@@ -7550,9 +7580,13 @@ Section 3 of Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1466, provided that:
 
 “(e) An inference of a legislative construction is not to be drawn by reason of the location in the United States Code of a provision enacted by this Act or by reason of the caption or catchline thereof.
 
-“(f) If a provision enacted by this Act is held invalid, all valid provisions that are severable from the invalid provision remain in effect. If a provision of this Act is held invalid in any of its applications, the provision remains valid for all valid applications that are severable from any of the invalid applications.”
+“(f) If a provision enacted by this Act is held invalid, all valid provisions that are severable from the invalid provision remain in effect. If a provision of this Act isheld invalid in any of its applications, the provision remains valid for all valid applications that are severable from any of the invalid applications.”
 
 #### Repeals and Savings Provisions
+
+Section 10(a) of Pub. L. 104–287, Oct. 11, 1996, 110 Stat. 3401, provided that: “The repeal of a law by this Act may not be construed as a legislative inference that the provision was or was not in effect before its repeal.”
+
+Section 10(b) of Pub. L. 104–287, Oct. 11, 1996, 110 Stat. 3401, repealed specified laws, except for rights and duties that matured, penalties that were incurred, and proceedings that were begun before Oct. 11, 1996.
 
 Section 11(a) of Pub. L. 103–429, Oct. 31, 1994, 108 Stat. 4391, provided that: “The repeal of a law by this Act may not be construed as a legislative inference that the provision was or was not in effect before its repeal.”
 
@@ -7566,7 +7600,7 @@ Section 6(a) of Pub. L. 98–216, Feb. 14, 1984, 98 Stat. 7, provided that: “T
 
 Section 6(b) of Pub. L. 98–216, Feb. 14, 1984, 98 Stat. 7, repealed specified laws, except for rights and duties that matured, penalties that were incurred, and proceedings that were begun before Feb. 14, 1984.
 
-Section 7(a) of Pub. L. 97–449, Jan. 12, 1983, 96 Stat. 2443, provided that: “The repeal of a law by this Actmay not be construed as a legislative inference that the provision was or was not in effect before its repeal.”
+Section 7(a) of Pub. L. 97–449, Jan. 12, 1983, 96 Stat. 2443, provided that: “The repeal of a law by this Act may not be construed as a legislative inference that the provision was or was not in effect before its repeal.”
 
 Section 7(b) of Pub. L. 97–449, Jan. 12, 1983, 96 Stat. 2443, repealed specified laws, except for rights and duties that matured, penalties that were incurred, and proceedings that were begun before Jan. 12, 1983.
 

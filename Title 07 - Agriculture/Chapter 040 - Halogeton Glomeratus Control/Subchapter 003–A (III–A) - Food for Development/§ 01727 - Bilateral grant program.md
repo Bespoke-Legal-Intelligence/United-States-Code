@@ -8,7 +8,7 @@ The President shall establish a program under which agricultural commodities are
 
 To carry out the policies and accomplish the objectives described in section 1691 of this title, the Administrator may negotiate and execute agreements with least developed countries to provide commodities to such countries on a grant basis.
 
-(July 10, 1954, ch. 469, title III, §301, as added Aug. 3, 1977, Pub. L. 95–88, title II, §211(a)(2), 91 Stat. 548; amended Aug. 14, 1979, Pub. L. 96–53, title II, §204(a), 93 Stat. 369; Dec. 23, 1985, Pub. L. 99–198, title XI, §1112(a)(3), 99 Stat. 1478; Oct. 31, 1988, Pub. L. 100–576, §4(a)(1), 102 Stat. 2898; Nov. 28, 1990, Pub. L. 101–624, title XV, §1512, 104 Stat. 3641.)
+(July 10, 1954, ch. 469, title III, §301, as added Aug. 3, 1977, Pub. L. 95–88, title II, §211(a)(2), 91Stat. 548; amended Aug. 14, 1979, Pub. L. 96–53, title II, §204(a), 93 Stat. 369; Dec. 23, 1985, Pub. L. 99–198, title XI, §1112(a)(3), 99 Stat. 1478; Oct. 31, 1988, Pub. L. 100–576, §4(a)(1), 102 Stat. 2898; Nov. 28, 1990, Pub. L. 101–624, title XV, §1512, 104 Stat. 3641.)
 
 #### Prior Provisions
 

@@ -36,7 +36,7 @@ Pests in the Mails.—
 
 &emsp;“(1)
 
-In general.—Subject to paragraph (2), the Secretary of Agriculture shall hereafter operate a program, under terms and conditions acceptable to the Postal Service, to protect Hawaii from the introduction of prohibited plants, plant pests, and injurious animals that may be contained in mail received in Hawaii, except that this subsection shall not apply to mail that originates and is intended for delivery outside the United States.
+In general.—Subject to paragraph (2), the Secretary of Agriculture shall hereafter operate a program, under terms and conditions acceptable to the Postal Service, to protect Hawaii from the introduction of prohibited plants, plant pests, and injurious animals that may be contained in mail received in Hawaii, except that this subsection shall not apply tomail that originates and is intended for delivery outside the United States.
 
 &emsp;“(2)
 

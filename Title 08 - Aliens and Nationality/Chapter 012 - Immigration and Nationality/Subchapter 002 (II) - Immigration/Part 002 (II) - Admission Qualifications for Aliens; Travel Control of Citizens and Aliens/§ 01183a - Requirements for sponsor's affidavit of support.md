@@ -1,0 +1,270 @@
+### §1183a. Requirements for sponsor's affidavit of support
+
+#### (a) Enforceability
+
+#### (1) Terms of affidavit
+
+&emsp;No affidavit of support may be accepted by the Attorney General or by any consular officer to establish that an alien is not excludable as a public charge under section 1182(a)(4) of this title unless such affidavit is executed by a sponsor of the alien as a contract—
+
+&emsp;&emsp;(A) in which the sponsor agrees to provide support to maintain the sponsored alien at an annual income that is not less than 125 percent of the Federal poverty line during the period in which the affidavit is enforceable;
+
+&emsp;&emsp;(B) that is legally enforceable against the sponsor by the sponsored alien, the Federal Government, any State (or any political subdivision of such State), or by any other entity that provides any means-tested public benefit (as defined in subsection (e) <sup>1</sup> of this section), consistent with the provisions of this section; and
+
+&emsp;&emsp;(C) in which the sponsor agrees to submit to the jurisdiction of any Federal or State court for the purpose of actions brought under subsection (b)(2) of this section.
+
+#### (2) Period of enforceability
+
+&emsp;An affidavit of support shall be enforceable with respect to benefits provided for an alien before the date the alien is naturalized as a citizen of the United States, or, if earlier, the termination date provided under paragraph (3).
+
+#### (3) Termination of period of enforceability upon completion of required period of employment, etc.
+
+#### (A) In general
+
+&emsp;&emsp;An affidavit of support is not enforceable after such time as the alien (i) has worked 40 qualifying quarters of coverage as defined under title II of the Social Security Act \[42 U.S.C. 401 et seq.\] or can be credited with such qualifying quarters as provided under subparagraph (B), and (ii) in the case of any such qualifying quarter creditable for any period beginning after December 31, 1996, did not receive any Federal means-tested public benefit (as provided under section 1613 of this title) during any such period.
+
+#### (B) Qualifying quarters
+
+&emsp;&emsp;For purposes of this section, in determining the number of qualifying quarters of coverage under title II of the Social Security Act \[42 U.S.C. 401 et seq.\] an alien shall be credited with—
+
+&emsp;&emsp;&emsp;(i) all of the qualifying quarters of coverage as defined under title II of the Social Security Act worked by a parent of such alien while the alien was under age 18, and
+
+&emsp;&emsp;&emsp;(ii) all of the qualifying quarters worked by a spouse of such alien during their marriage and the alien remains married to such spouse or such spouse is deceased.
+
+> &emsp;&emsp;No such qualifying quarter of coverage that is creditable under title II of the Social Security Act for any period beginning after December 31, 1996, may be credited to an alien under clause (i) or (ii) if the parent or spouse (as the case may be) of such alien received any Federal means-tested public benefit (as provided under section 1613 of this title) during the period for which such qualifying quarter of coverage is so credited.
+
+#### (C) Provision of information to save system
+
+&emsp;&emsp;The Attorney General shall ensure that appropriate information regarding the application of this paragraph is provided to the system for alien verification of eligibility (SAVE) described in section 1137(d)(3) of the Social Security Act \[42 U.S.C. 1320b–7(d)(3)\].
+
+#### (b) Reimbursement of government expenses
+
+#### (1) Request for reimbursement
+
+#### (A) Requirement
+
+&emsp;&emsp;Upon notification that a sponsored alien has received any means-tested public benefit, the appropriate nongovernmental entity which provided such benefit or the appropriate entity of the Federal Government, a State, or any political subdivision of a State shall request reimbursement by the sponsor in an amount which is equal to the unreimbursed costs of such benefit.
+
+#### (B) Regulations
+
+&emsp;&emsp;The Attorney General, in consultation with the heads of other appropriate Federal agencies, shall prescribe such regulations as may be necessary to carry out subparagraph (A).
+
+#### (2) Actions to compel reimbursement
+
+#### (A) In case of nonresponse
+
+&emsp;&emsp;If within 45 days after a request for reimbursement under paragraph (1)(A), the appropriate entity has not received a response from the sponsor indicating a willingness to commence payment an action may be brought against the sponsor pursuant to the affidavit of support.
+
+#### (B) In case of failure to pay
+
+&emsp;&emsp;If the sponsor fails to abide by the repayment terms established by the appropriate entity, the entity may bring an action against the sponsor pursuant to the affidavit of support.
+
+#### (C) Limitation on actions
+
+&emsp;&emsp;No cause of action may be brought under this paragraph later than 10 years after the date on which the sponsored alien last received any means-tested public benefit to which the affidavit of support applies.
+
+#### (3) Use of collection agencies
+
+&emsp;If the appropriate entity under paragraph (1)(A) requests reimbursement from the sponsor or brings an action against the sponsor pursuant to the affidavit of support, the appropriate entity may appoint or hire an individual or other person to act on behalf of such entity acting under the authority of law for purposes of collecting any amounts owed.
+
+#### (c) Remedies
+
+Remedies available to enforce an affidavit of support under this section include any or all of the remedies described in section 3201, 3203, 3204, or 3205 of title 28, as well as an order for specific performance and payment of legal fees and other costs of collection, and include corresponding remedies available under State law. A Federal agency may seek to collect amounts owed under this section in accordance with the provisions of subchapter II of chapter 37 of title 31.
+
+#### (d) Notification of change of address
+
+#### (1) General requirement
+
+&emsp;The sponsor shall notify the Attorney General and the State in which the sponsored alien is currently a resident within 30 days of any change of address of the sponsor during the period in which an affidavit of support is enforceable.
+
+#### (2) Penalty
+
+&emsp;Any person subject to the requirement of paragraph (1) who fails to satisfy such requirement shall, after notice and opportunity to be heard, be subject to a civil penalty of—
+
+&emsp;&emsp;(A) not less than $250 or more than $2,000, or
+
+&emsp;&emsp;(B) if such failure occurs with knowledge that the sponsored alien has received any means-tested public benefits (other than benefits described in section 1611(b), 1613(c)(2), or 1621(b) of this title) not less than $2,000 or more than $5,000.
+
+> &emsp;The Attorney General shall enforce this paragraph under appropriate regulations.
+
+#### (e) Jurisdiction
+
+An action to enforce an affidavit of support executed under subsection (a) of this section may be brought against the sponsor in any appropriate court—
+
+&emsp;(1) by a sponsored alien, with respect to financial support; or
+
+&emsp;(2) by the appropriate entity of the Federal Government, a State or any political subdivision of a State, or by any other nongovernmental entity under subsection (b)(2) of this section, with respect to reimbursement.
+
+#### (f) “Sponsor” defined
+
+#### (1) In general
+
+&emsp;For purposes of this section the term “sponsor” in relation to a sponsored alien means an individual who executes an affidavit of support with respect to the sponsored alien and who—
+
+&emsp;&emsp;(A) is a citizen or national of the United States or an alien who is lawfully admitted to the United States for permanent residence;
+
+&emsp;&emsp;(B) is at least 18 years of age;
+
+&emsp;&emsp;(C) is domiciled in any of the several States of the United States, the District of Columbia, or any territory or possession of the United States;
+
+&emsp;&emsp;(D) is petitioning for the admission of the alien under section 1154 of this title; and
+
+&emsp;&emsp;(E) demonstrates (as provided in paragraph (6)) the means to maintain an annual income equal to at least 125 percent of the Federal poverty line.
+
+#### (2) Income requirement case
+
+&emsp;Such term also includes an individual who does not meet the requirement of paragraph (1)(E) but accepts joint and several liability together with an individual under paragraph (5).
+
+#### (3) Active duty armed services case
+
+&emsp;Such term also includes an individual who does not meet the requirement of paragraph (1)(E) but is on active duty (other than active duty for training) in the Armed Forces of the United States, is petitioning for the admission of the alien under section 1154 of this title as the spouse or child of the individual, and demonstrates (as provided in paragraph (6)) the means to maintain an annual income equal to at least 100 percent of the Federal poverty line.
+
+#### (4) Certain employment-based immigrants case
+
+&emsp;Such term also includes an individual—
+
+&emsp;&emsp;(A) who does not meet the requirement of paragraph (1)(D), but is the relative of the sponsored alien who filed a classification petition for the sponsored alien as an employment-based immigrant under section 1153(b) of this title or who has a significant ownership interest in the entity that filed such a petition; and
+
+&emsp;&emsp;(B)(i) who demonstrates (as provided under paragraph (6)) the means to maintain an annual income equal to at least 125 percent of the Federal poverty line, or
+
+&emsp;&emsp;(ii) does not meet the requirement of paragraph (1)(E) but accepts joint and several liability together with an individual under paragraph (5).
+
+#### (5) Non-petitioning case
+
+&emsp;Such term also includes an individual who does not meet the requirement of paragraph (1)(D) but who accepts joint and several liability with a petitioning sponsor under paragraph (2) or relative of an employment-based immigrant under paragraph (4) and who demonstrates (as provided under paragraph (6)) the means to maintain an annual income equal to at least 125 percent of the Federal poverty line.
+
+#### (6) Demonstration of means to maintain income
+
+#### (A) In general
+
+#### (i) Method of demonstration
+
+&emsp;&emsp;&emsp;For purposes of this section, a demonstration of the means to maintain income shall include provision of a certified copy of the individual's Federal income tax return for the individual's 3 most recent taxable years and a written statement, executed under oath or as permitted under penalty of perjury under section 1746 of title 28 that the copies are certified copies of such returns.
+
+#### (ii) Flexibility
+
+&emsp;&emsp;&emsp;For purposes of this section, aliens may demonstrate the means to maintain income through demonstration of significant assets of the sponsored alien or of the sponsor, if such assets are available for the support of the sponsored alien.
+
+#### (iii) Percent of poverty
+
+&emsp;&emsp;&emsp;For purposes of this section, a reference to an annual income equal to at least a particular percentage of the Federal poverty line means an annual income equal to at least such percentage of the Federal poverty line for a family unit of a size equal to the number of members of the sponsor's household (including family and non-family dependents) plus the total number of other dependents and aliens sponsored by that sponsor.
+
+#### (B) Limitation
+
+&emsp;&emsp;The Secretary of State, or the Attorney General in the case of adjustment of status, may provide that the demonstration under subparagraph (A) applies only to the most recent taxable year.
+
+#### (h) <sup>2</sup> “Federal poverty line” defined
+
+For purposes of this section, the term “Federal poverty line” means the level of income equal to the official poverty line (as defined by the Director of the Office of Management and Budget, as revised annually by the Secretary of Health and Human Services, in accordance with section 9902(2) of title 42) that is applicable to a family of the size involved.
+
+#### (i) Sponsor's social security account number required to be provided
+
+(1) An affidavit of support shall include the social security account number of each sponsor.
+
+(2) The Attorney General shall develop an automated system to maintain the social security account number data provided under paragraph (1).
+
+(3) The Attorney General shall submit an annual report to the Committees on the Judiciary of the House of Representatives and the Senate setting forth—
+
+&emsp;(A) for the most recent fiscal year for which data are available the number of sponsors under this section and the number of sponsors in compliance with the financial obligations of this section; and
+
+&emsp;(B) a comparison of such numbers with the numbers of such sponsors for the preceding fiscal year.
+
+(June 27, 1952, ch. 477, title II, ch. 2, §213A, as added Aug. 22, 1996, Pub. L. 104–193, title IV, §423(a), 110 Stat. 2271; amended Sept. 30, 1996, Pub. L. 104–208, div. C, title V, §551(a), 110 Stat. 3009–675.)
+
+#### References in Text
+
+Subsection (e) of this section, referred to in subsec. (a)(1)(B), does not define “means-tested public benefit”.
+
+The Social Security Act, referred to in subsec. (a)(3)(A), (B), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II of the Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+
+#### Amendments
+
+1996—Pub. L. 104–208 amended section generally, substituting subsecs. (a) to (i) for former subsecs. (a) to (f) relating to requirements for sponsor's affidavits of support.
+
+#### Effective Date of 1996 Amendments; Promulgation of Form
+
+Section 551(c) of div. C of Pub. L. 104–208 provided that:
+
+“(1)
+
+In general.—The amendments made by this section \[enacting this section, amending sections 1631 and 1632 of this title, and repealing provisions set out as a note under this section\] shall apply to affidavits of support executed on or after a date specified by the Attorney General, which date shall be not earlier than 60 days (and not later than 90 days) after the date the Attorney General formulates the form for such affidavits under paragraph (2).
+
+“(2)
+
+Promulgation of form.—Not later than 90 days after the date of the enactment of this Act \[Sept. 30, 1996\], the Attorney General, in consultation with the heads of other appropriate agencies, shall promulgate a standard form for an affidavit of support consistent with the provisions of section 213A of the Immigration and Nationality Act \[this section\], as amended by subsection (a).”
+
+Section 423(c) of Pub. L. 104–193 provided that subsec. (a) of this section was applicable to affidavits of support executed on or after a date specified by Attorney General, which date was to be not earlier than 60 days (and not later than 90 days) after date Attorney General formulated form for such affidavits under subsec. (b) of this section, prior to repeal by Pub. L. 104–208, div. C, title V, §551(b)(2), Sept. 30, 1996, 104 Stat. 3009–679.
+
+#### Pilot Programs To Require Bonding
+
+Section 564 of div. C of Pub. L. 104–208 provided that:
+
+“(a)
+
+In General.—
+
+&emsp;“(1) The Attorney General of the United States shall establish a pilot program in 5 district offices of the Immigration and Naturalization Service to require aliens to post a bond in addition to the affidavit requirements under section 213A of the Immigration and Nationality Act \[8 U.S.C. 1183a\] and the deeming requirements under section 421 of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 (8 U.S.C. 1631). Any pilot program established pursuant to this subsection shall require an alien to post a bond in an amount sufficient to cover the cost of benefits described in section 213A(d)(2)(B) of the Immigration and Nationality Act (as amended by section 551(a) of this division) for the alien and the alien's dependents and shall remain in effect until the departure, naturalization, or death of the alien.
+
+&emsp;“(2) Suit on any such bonds may be brought under the terms and conditions set forth in section 213A of the Immigration and Nationality Act \[8 U.S.C. 1183a\].
+
+“(b)
+
+Regulations.—Not later than 180 days after the date of the enactment of this Act \[Sept. 30, 1996\], the Attorney General shall issue regulations for establishing the pilot programs, including—
+
+&emsp;“(1) criteria and procedures for—
+
+&emsp;&emsp;“(A) certifying bonding companies for participation in the program, and
+
+&emsp;&emsp;“(B) debarment of any such company that fails to pay a bond, and
+
+&emsp;“(2) criteria for setting the amount of the bond to assure that the bond is in an amount that is not less than the cost of providing benefits under the programs described in subsection (a)(1) for the alien and the alien's dependents for 6 months.
+
+“(c)
+
+Authorization of Appropriations.—There are authorized to be appropriated such sums as may be necessary to carry out this section.
+
+“(d)
+
+Annual Reporting Requirement.—Beginning 9 months after the date of implementation of the pilot program, the Attorney General shall submit annually to the Committees on the Judiciary of the House of Representatives and the Senate a report on the effectiveness of the program. The Attorney General shallsubmit a final evaluation of the program not later than 1 year after termination.
+
+“(e)
+
+Sunset.—The pilot program under this section shall terminate after 3 years of operation.
+
+“(f)
+
+Bonds in Addition to Sponsorship and Deeming Requirements.—\[Amended section 1183 of this title.\]”
+
+#### Benefits Not Subject to Reimbursement
+
+Section 423(d) of Pub. L. 104–193 provided that: “Requirements for reimbursement by a sponsor for benefits provided to a sponsored alien pursuant to an affidavit of support under section 213A of the Immigration and Nationality Act \[8 U.S.C. 1183a\] shall not apply with respect to the following:
+
+&emsp;“(1) Medical assistance described in section 401(b)(1)(A) \[8 U.S.C. 1611(b)(1)(A)\] or assistance described in section 411(b)(1) \[8 U.S.C. 1621(b)(1)\].
+
+&emsp;“(2) Short-term, non-cash, in-kind emergency disaster relief.
+
+&emsp;“(3) Assistance or benefits under the National School Lunch Act \[42 U.S.C. 1751 et seq.\].
+
+&emsp;“(4) Assistance or benefits under the Child Nutrition Act of 1966 \[42 U.S.C. 1771 et seq.\].
+
+&emsp;“(5) Public health assistance for immunizations (not including any assistance under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\]) with respect to immunizable diseases and for testing and treatment of symptoms of communicable diseases whether or not such symptoms are caused by a communicable disease.
+
+&emsp;“(6) Payments for foster care and adoption assistance under parts B and E of title IV of the Social Security Act \[42 U.S.C. 620 et seq., 670 et seq.\] for a parent or a child, but only if the foster or adoptive parent (or parents) of such child is a qualified alien (as defined in section 431 \[8 U.S.C. 1641\]).
+
+&emsp;“(7) Programs, services, or assistance (such as soup kitchens, crisis counseling and intervention, and short-term shelter) specified by the Attorney General, in the Attorney General's sole and unreviewable discretion after consultation with appropriate Federal agencies and departments, which (A) deliver in-kind services at the community level, including through public or private nonprofit agencies; (B) do not condition the provision of assistance, the amount of assistance provided, or the cost of assistance provided on the individual recipient's income or resources; and (C) are necessary for the protection of life or safety.
+
+&emsp;“(8) Programs of student assistance under titles IV, V, IX, and X of the Higher Education Act of 1965 \[20 U.S.C. 1070 et seq., 1101 et seq., 1134 et seq., 1135 et seq., 42 U.S.C. 2751 et seq.\], and titles III, VII, and VIII of the Public Health Service Act \[42 U.S.C. 241 et seq., 292 et seq., 296 et seq.\].
+
+&emsp;“(9) Benefits under the Head Start Act \[42 U.S.C. 9831 et seq.\].
+
+&emsp;“(10) Means-tested programs under the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6301 et seq.\].
+
+&emsp;“(11) Benefits under the Job Training Partnership Act \[29 U.S.C. 1501 et seq.\].”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 1182, 1183, 1371, 1631, 1632 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. Section enacted without a subsec. (g).</i>
+

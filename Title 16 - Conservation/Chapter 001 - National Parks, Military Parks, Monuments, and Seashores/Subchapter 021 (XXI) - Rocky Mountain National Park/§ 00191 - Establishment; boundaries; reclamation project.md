@@ -8,6 +8,12 @@ The tract of land in the State of Colorado particularly described by and include
 
 A statement in this section as originally enacted that the tract described was then a part of certain counties in Colorado has been omitted as historically obsolete.
 
+#### Additions to Rocky Mountain National Park
+
+The following provisions authorized the addition of lands to Rocky Mountain National Park:
+
+Pub. L. 104–158, §2(b)(1), July 9, 1996, 110 Stat. 1406.
+
 #### Cross References
 
 Boundaries of Rocky Mountain National Park enlarged, revised, and excluded lands transferred, see sections 192 and 192a of this title.

@@ -4,11 +4,11 @@
 
 #### (1) In general
 
-&emsp;The Secretary shall provide for the establishment and maintenance of crop acreagebases for each program crop, including any program crop produced under an established practice of double cropping.
+&emsp;The Secretary shall provide for the establishment and maintenance of crop acreage bases for each program crop, including any program crop produced under an established practice of double cropping.
 
 #### (2) Limitation
 
-&emsp;The sum of the crop acreage bases on the farm may not exceed the cropland on the farm, except to the extent there is an established practice of double cropping on the farm.
+&emsp;The sum of the crop acreage bases on the farm may not exceed the cropland on thefarm, except to the extent there is an established practice of double cropping on the farm.
 
 #### (3) “Double cropping” defined
 
@@ -44,7 +44,7 @@ For purposes of this Act, acreage considered planted to a program crop shall con
 
 &emsp;(2) any acreage on the farm that producers were prevented from planting to the crop because of drought, flood, or other natural disaster, or other condition beyond the control of the producers;
 
-&emsp;(3) acreage in an amount equal to the difference between the permitted acreage for a program crop and the acreage planted to the crop, if the acreage considered to be planted is devoted to conservation uses or the production of commodities permitted by the Secretary under the programs established for any of the 1991 through 1997 crops of wheat, feed grains, upland cotton, and rice established under sections 1445b–3a(c)(1)(E), 1444f(c)(1)(E), 1444–2(c)(1)(D), and 1441–2(c)(1)(D) of this title, respectively;
+&emsp;(3) acreage in an amount equal to the difference between the permitted acreage for a program crop and the acreage planted to the crop, if the acreage considered to be planted is devoted to conservation uses or the production of commodities permitted by the Secretary under the programs established for any of the 1991 through 1997 crops of wheat, feed grains, upland cotton, and rice established under sections 1445b–3a(c)(1)(E), 1444f(c)(1)(E), 1444–2(c)(1)(D),<sup>1</sup> and 1441–2(c)(1)(D) of this title, respectively;
 
 &emsp;(4) acreage in an amount equal to the difference between the permitted acreage for a program crop and the acreage planted to the crop, if the acreage considered to be planted is devoted to the production of commodities in accordance with section 1464 of this title;
 
@@ -52,9 +52,9 @@ For purposes of this Act, acreage considered planted to a program crop shall con
 
 &emsp;(6) acreage in an amount not to exceed 20 percent of the crop acreage base for a crop of feed grains or wheat if—
 
-&emsp;&emsp;(A) the acreage is planted to dry peas,<sup>1</sup> (limited to Austrian peas, wrinkled, seed, green, yellow, and umatilla) and lentils; and
+&emsp;&emsp;(A) the acreage is planted to dry peas,<sup>2</sup> (limited to Austrian peas, wrinkled, seed, green, yellow, and umatilla) and lentils; and
 
-&emsp;&emsp;(B) payments are not received by producers under sections 1444f(c)(1)(E) and 1445b–3a(c)(1)(E) of this title, as the case may be;
+&emsp;&emsp;(B) payments are not received by producers under sections 1444f(c)(1)(E) and 1445b–3a(c)(1)(E) <sup>1</sup> of this title, as the case may be;
 
 &emsp;(7) the crop acreage base for the crop, if producers on the farm forgo receiving any payments under the program established under subchapter II of this chapter for the crop and certify that no acreage on the farm was planted to—
 
@@ -62,11 +62,11 @@ For purposes of this Act, acreage considered planted to a program crop shall con
 
 &emsp;&emsp;(B) any fruit or vegetable crop (including potatoes and dry edible beans) not designated as an industrial or experimental crop by the Secretary, in excess of normal plantings; and
 
-&emsp;(8) any acreage on the farm for which the crop acreage base for the crop on the farm wasadjusted because of a condition or occurrence beyond the control of the producer pursuant to subsection (h) of this section.
+&emsp;(8) any acreage on the farm for which the crop acreage base for the crop on the farm was adjusted because of a condition or occurrence beyond the control of the producer pursuant to subsection (h) of this section.
 
 #### (d) Construction of planting history
 
-For the purpose of determining the crop acreage base for the 1991 and subsequent crop years for any farm, the county committee, in accordance with regulations prescribed by the Secretary, may construct a planting history for such crop if—
+For the purpose of determining the crop acreage base for the 1991 and subsequent crop yearsfor any farm, the county committee, in accordance with regulations prescribed by the Secretary, may construct a planting history for such crop if—
 
 &emsp;(1) planting records for such crop for any of the 5 crop years preceding such crop year are incomplete or unavailable; or
 
@@ -114,6 +114,8 @@ A producer who is eligible to receive a deficiency payment for any program crop 
 
 This Act, referred to in subsec. (c), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, as amended, known as the Agricultural Act of 1949, which is classified principally to this chapter (§1421 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
 
+Sections 1441–2, 1444–2, 1444f, and 1445b–3a of this title, referred to in subsec. (c)(3), (6)(B), were repealed by Pub. L. 104–127, title I, §171(b)(2)(A)–(D), Apr. 4, 1996, 110 Stat. 938.
+
 The Food Security Act of 1985, referred to in subsec. (e), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354, as amended. Title XII of the Act, popularly known as the “Sodbuster Law”, is classified principally to chapter 58 (§3801 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Tables.
 
 #### Prior Provisions
@@ -146,9 +148,11 @@ Amendment by Pub. L. 101–624 effective beginning with 1991 crop of an agricult
 
 Section 2 of Pub. L. 101–81 provided that the amendment made by that section is effective only for 1990 crops.
 
-#### Section Referred to in Other Sections
+#### Inapplicability of Section
 
-This section is referred to in sections 1441–2, 1444–2, 1444f, 1445b–3a of this title.
+Section inapplicable to 1996 through 2002 crops of loan commodities, peanuts, and sugar and inapplicable to milk during period beginning Apr. 4, 1996, and ending Dec. 31, 2002, see section 7301(b)(1)(K) of this title.
 
-<i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. The comma probably should not appear.</i>
 

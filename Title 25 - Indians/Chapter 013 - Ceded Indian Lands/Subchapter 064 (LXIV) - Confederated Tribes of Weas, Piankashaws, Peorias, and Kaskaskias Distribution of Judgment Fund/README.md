@@ -1,7 +1,5 @@
 ### SUBCHAPTER LXIV — CONFEDERATED TRIBES OF WEAS, PIANKASHAWS, PEORIAS, AND KASKASKIAS: DISTRIBUTION OF JUDGMENT FUND
 
-<i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
-
 
 ---
 

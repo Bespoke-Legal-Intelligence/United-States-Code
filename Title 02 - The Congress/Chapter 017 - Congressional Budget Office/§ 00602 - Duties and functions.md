@@ -34,7 +34,7 @@ At the request of the Committee on the Budget of either House, personnel of the 
 
 #### (f) Reports to budget committees
 
-(1) On or before February 15 of each year, the Director shall submit to the Committees on the Budget of the House of Representatives and the Senate a report, for the fiscal year commencing on October 1 of that year, with respect to fiscal policy, including (A) alternative levels of total revenues, total new budget authority, and total outlays (including related surpluses and deficits), and (B) the levels of tax expenditures under existing law, taking into account projected economic factors and any changes in such levels based on proposals in the budget submitted by the President for such fiscal year. Suchreport shall also include a discussion of national budget priorities, including alternative ways of allocating new budget authority and budget outlays for such fiscal year among major programs or functional categories, taking into account how such alternative allocations will meet major national needs and affect balanced growth and development of the United States.
+(1) On or before February 15 of each year, the Director shall submit to the Committees on the Budget of the House of Representatives and the Senate a report, for the fiscal year commencing on October 1 of that year, with respect to fiscal policy, including (A) alternative levels of total revenues, total new budget authority, and total outlays (including related surpluses and deficits), and (B) the levels of tax expenditures under existing law, taking into account projected economic factors and any changes in such levels based on proposals in the budget submitted by the President for such fiscal year. Such report shall also include a discussion of national budget priorities, including alternative ways of allocating new budget authority and budget outlays for such fiscal year among major programs or functional categories, taking into account how such alternative allocations will meet major national needs and affect balanced growth and development of the United States.
 
 (2) The Director shall from time to time submit to the Committees on the Budget of the House of Representatives and the Senate such further reports (including reports revising the report required by paragraph (1)) as may be necessary or appropriate to provide such Committees with information, data, and analyses for the performance of their duties and functions.
 
@@ -42,7 +42,7 @@ At the request of the Committee on the Budget of either House, personnel of the 
 
 #### (g) Use of computers and other techniques
 
-The Director may equip the Office with up-to-date computer capability (upon approval of the Committee on House Administration of the House of Representatives and the Committee on Rules and Administration of the Senate), obtain the services of experts and consultants in computer technology, and develop techniques for the evaluation of budgetary requirements.
+The Director may equip the Office with up-to-date computer capability (upon approval of the Committee on House Oversight of the House of Representatives and the Committee on Rules and Administration of the Senate), obtain the services of experts and consultants in computer technology, and develop techniques for the evaluation of budgetary requirements.
 
 #### (h) Studies
 
@@ -74,13 +74,15 @@ The Director may equip the Office with up-to-date computer capability (upon appr
 
 &emsp;&emsp;(iii) the effect of Federal private sector mandates in the bill or joint resolution on the national economy, including the effect on productivity, economic growth, full employment, creation of productive jobs, and international competitiveness of United States goods and services.
 
-(Pub. L. 93–344, title II, §202, July 12, 1974, 88 Stat. 304; Pub. L. 99–177, title II, §221, Dec. 12, 1985, 99 Stat. 1060; Pub. L. 101–508, title XIII, §13112(a)(3), Nov. 5, 1990, 104 Stat. 1388–608; Pub. L. 104–4, title I, §102(1), Mar. 22, 1995, 109 Stat. 60.)
+(Pub. L. 93–344, title II, §202, July 12, 1974, 88 Stat. 304; Pub. L. 99–177, title II, §221, Dec. 12, 1985, 99 Stat. 1060; Pub. L. 101–508, title XIII, §13112(a)(3), Nov. 5, 1990, 104 Stat. 1388–608; Pub. L. 104–4, title I, §102(1), Mar. 22, 1995, 109 Stat. 60; Pub. L. 104–186, title II, §213, Aug. 20, 1996, 110 Stat. 1745.)
 
 #### Codification
 
 Section is comprised of section 202 of Pub. L. 93–344. Subsec. (e)(2) of section 202 of Pub. L. 93–344 repealed section 571 of former Title 31, Money and Finance.
 
 #### Amendments
+
+1996—Subsec. (g). Pub. L. 104–186 substituted “House Oversight” for “House Administration”.
 
 1995—Subsec. (c)(2), (3). Pub. L. 104–4, §102(1)(A), added par. (2) and redesignated former par. (2) as (3).
 
@@ -93,10 +95,6 @@ Subsec. (h). Pub. L. 104–4, §102(1)(B), amended heading and text of subsec. (
 Subsec. (f)(3). Pub. L. 99–177, §221(b), added par. (3).
 
 Subsec. (h). Pub. L. 99–177, §221(c), added subsec. (h).
-
-#### Change of Name
-
-Committee on House Administration of House of Representatives treated as referring to Committee on House Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of this title.
 
 #### Effective Date of 1995 Amendment
 

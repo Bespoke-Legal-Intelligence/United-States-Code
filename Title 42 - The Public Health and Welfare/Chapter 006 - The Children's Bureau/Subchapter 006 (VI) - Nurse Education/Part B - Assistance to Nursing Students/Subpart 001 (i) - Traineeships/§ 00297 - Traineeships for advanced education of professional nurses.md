@@ -14,7 +14,7 @@ In making grants for traineeships under subsection (a) of this section, the Secr
 
 #### (c) Preference in provision of traineeships
 
-The Secretary may make a grant under subsection (a) of this section only if the applicant involved agrees that, in providing traineeships under such subsection, the applicant will give preference to individuals who are residents of health professional shortage areas designated under section 254e of this title.
+The Secretary may make a grant under subsection (a) of this section only if the applicant involved agrees that, in providing traineeships under such subsection, the applicant will give preference to individuals who are residents ofhealth professional shortage areas designated under section 254e of this title.
 
 #### (d) Eligibility of individuals in master's degree programs
 
@@ -32,7 +32,7 @@ The Secretary may make a grant under subsection (a) of this section only if the 
 
 #### (1) Authorization of appropriations
 
-&emsp;For the purpose of carrying out this section, there is authorized to be appropriated$20,000,000 for each of the fiscal years 1993 and 1994.
+&emsp;For the purpose of carrying out this section, there is authorized to be appropriated $20,000,000 for each of the fiscal years 1993 and 1994.
 
 #### (2) Limitation regarding certain traineeships
 

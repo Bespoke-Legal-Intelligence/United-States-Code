@@ -6,7 +6,7 @@
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in sections 428, 602, 671, 1301, 1306a, 1308, 1309, 1311, 1315, 1316, 1318, 1319, 1320b–2,1320b–3, 1320b–7, 1382, 1382c, 1395v, 1396a, 1396b, 1396d of this title; title 7 sections 2012, 2014; title 8 section 1255a; title 26 section 6103; title 29 section 802.
+This subchapter is referred to in sections 428, 671, 1301, 1306a, 1308, 1309, 1311, 1315, 1316, 1318, 1319, 1320b–2, 1320b–3, 1320b–7, 1382, 1382c, 1395v, 1396a, 1396b, 1396d of this title; title 7 sections 2012, 2014; title 8 section 1255a; title 26 section 6103; title 29 section 802.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “to in”.</i>
 

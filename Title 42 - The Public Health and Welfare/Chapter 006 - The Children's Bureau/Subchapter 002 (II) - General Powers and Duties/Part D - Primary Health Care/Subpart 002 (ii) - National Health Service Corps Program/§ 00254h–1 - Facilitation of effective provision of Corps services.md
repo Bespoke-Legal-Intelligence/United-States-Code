@@ -26,7 +26,7 @@ With respect to individuals who have entered into contracts for obligated servic
 
 #### (d) Assistance in establishing local professional relationships
 
-The Secretary shall assist Corps members in establishing appropriate professional relationships between the Corps member involved and the health professions community of the geographic area with respect to which the member is assigned, including such relationships with hospitals, with health professions schools, with area health education centers under section 295g–1 <sup>1</sup> of this title, with health education and training centers under such section, and with border health education and training centers under such section. Such assistance shall include assistance in obtaining faculty appointments at health professions schools.
+The Secretary shall assist Corps members in establishing appropriate professional relationships between the Corps member involved and the health professions community of the geographic area with respect to which the member is assigned, including such relationships with hospitals, with health professions schools, witharea health education centers under section 295g–1 <sup>1</sup> of this title, with health education and training centers under such section, and with border health education and training centers under such section. Such assistance shall include assistance in obtaining faculty appointments at health professions schools.
 
 #### (e) Temporary relief from Corps duties
 

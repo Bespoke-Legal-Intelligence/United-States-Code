@@ -32,7 +32,7 @@ The Secretary may, in any cooperative agreement entered into under this section 
 
 &emsp;(1) such remedial action was completed prior to November 8, 1978, and unless the application for such reimbursement was filed by such owner within one year after an agreement under this section or section 7915 of this title is approved by the Secretary and the Commission, and
 
-&emsp;(2) the Secretary is satisfied that such action adequately achieves the purposes of this chapter with respect to the site concerned and is consistent with the standards established bythe Administrator pursuant to section 2022(a) of this title.
+&emsp;(2) the Secretary is satisfied that such action adequately achieves the purposes of this chapter with respect to the site concerned and is consistent with the standards established by the Administrator pursuant to section 2022(a) of this title.
 
 (Pub. L. 95–604, title I, §103, Nov. 8, 1978, 92 Stat. 3024.)
 

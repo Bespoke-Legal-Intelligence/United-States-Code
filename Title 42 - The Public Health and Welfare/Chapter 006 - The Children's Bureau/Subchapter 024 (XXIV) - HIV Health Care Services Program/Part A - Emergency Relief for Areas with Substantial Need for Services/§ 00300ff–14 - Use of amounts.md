@@ -4,7 +4,7 @@
 
 The Secretary may not make a grant under section 300ff–11(a) of this title to the chief elected official of an eligible area unless such political subdivision agrees that—
 
-&emsp;(1) subject to paragraph (2), the allocation of funds and services within the eligible area will be made in accordance with the priorities established, pursuant to section 300ff–12(b)(3)(A) of this title, by the HIV health services planning council that serves such eligible area; and
+&emsp;(1) subject to paragraph (2), the allocation of funds and services within the eligible area will be made in accordance with the priorities established, pursuant to section 300ff–12(b)(3)(A) <sup>1</sup> of this title, by the HIV health services planning council that serves such eligible area; and
 
 &emsp;(2) funds provided under section 300ff–11 of this title will be expended only for the purposes described in subsections (b) and (c) of this section.
 
@@ -12,9 +12,9 @@ The Secretary may not make a grant under section 300ff–11(a) of this title to 
 
 #### (1) In general
 
-&emsp;The chief elected official shall use amounts received under a grant under section 300ff–11 ofthis title to provide direct financial assistance to entities described in paragraph (2) for the purpose of delivering or enhancing HIV-related—
+&emsp;The chief elected official shall use amounts received under a grant under section 300ff–11 of this title to provide direct financial assistance to entities described in paragraph (2) for the purpose of delivering or enhancing HIV-related—
 
-&emsp;&emsp;(A) outpatient and ambulatory health and support services, including case management and comprehensive treatment services, for individuals and families with HIV disease; and
+&emsp;&emsp;(A) outpatient and ambulatory health and support services, including case management, substance abuse treatment and mental health treatment, and comprehensive treatment services, which shall include treatment education and prophylactic treatment for opportunistic infections, for individuals and families with HIV disease; and
 
 &emsp;&emsp;(B) inpatient case management services that prevent unnecessary hospitalization or that expedite discharge, as medically appropriate, from inpatient facilities.
 
@@ -22,11 +22,15 @@ The Secretary may not make a grant under section 300ff–11(a) of this title to 
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraph (B), direct financial assistance may be provided under paragraph (1) to public or nonprofit private entities, including hospitals (which may include Department of Veterans Affairs facilities), community-based organizations, hospices, ambulatory care facilities, community health centers, migrant health centers, and homeless health centers.
+&emsp;&emsp;Subject to subparagraph (B), direct financial assistance may be provided under paragraph (1) to public or nonprofit private entities,,<sup>2</sup> or private for-profit entities if such entities are the only available provider of quality HIV care in the area, including hospitals (which may include Department of Veterans Affairs facilities), community-based organizations, hospices, ambulatory care facilities, community health centers, migrant health centers, homeless health centers, substance abuse treatment programs, and mental health programs.
 
 #### (B) Priority
 
 &emsp;&emsp;In providing direct financial assistance under paragraph (1) the chief elected official shall give priority to entities that are currently participating in Health Resources and Services Administration HIV health care demonstration projects.
+
+#### (3) Priority for women, infants and children
+
+&emsp;For the purpose of providing health and support services to infants, children, and women with HIV disease, including treatment measures to prevent the perinatal transmission of HIV, the chief elected official of an eligible area, in accordance with the established priorities of the planning council, shall use, from the grants made for the area under section 300ff–11(a) of this title for a fiscal year, not less than the percentage constituted by the ratio of the population in such area of infants, children, and women with acquired immune deficiency syndrome to the general population in such area of individuals with such syndrome.
 
 #### (c) Limited expenditures for personnel needs
 
@@ -80,17 +84,39 @@ The Secretary may not make a grant under section 300ff–11(a) of this title to 
 
 &emsp;&emsp;A determination by the HIV health services planning council of whether an entity referred to in subparagraph (A) meets the criteria for a waiver under such subparagraph shall be made without regard to whether the entity accepts voluntary donations for the purpose of providing services to the public.
 
-#### (e) Administration and planning
+#### (e) Administration
 
-The chief executive officer of an eligible area shall not use in excess of 5 percent of amounts received under a grant awarded under this part for administration, accounting, reporting, and program oversight functions.
+#### (1) In general
+
+&emsp;The chief executive officer of an eligible area shall not use in excess of 5 percent of amounts received under a grant awarded under this part for administration,.<sup>3</sup> In the case of entities and subcontractors to which such officer allocates amounts received by the officer under the grant, the officer shall ensure that, of the aggregate amount so allocated, the total of the expenditures by such entities for administrative expenses does not exceed 10 percent (without regard to whether particular entities expend more than 10 percent for such expenses).
+
+#### (2) Administrative activities
+
+&emsp;For the purposes of paragraph (1), amounts may be used for administrative activities that include—
+
+&emsp;&emsp;(A) routine grant administration and monitoring activities, including the development of applications for part A funds, the receipt and disbursal of program funds, the development and establishment of reimbursement and accounting systems, the preparation of routine programmatic and financial reports, and compliance with grant conditions and audit requirements; and
+
+&emsp;&emsp;(B) all activities associated with the grantee's contract award procedures, including the development of requests for proposals, contract proposal review activities, negotiation and awarding of contracts, monitoring of contracts through telephone consultation, written documentation or onsite visits, reporting on contracts, and funding reallocation activities.
+
+#### (3) Subcontractor administrative costs
+
+&emsp;For the purposes of this subsection, subcontractor administrative activities include—
+
+&emsp;&emsp;(A) usual and recognized overhead, including established indirect rates for agencies;
+
+&emsp;&emsp;(B) management oversight of specific programs funded under this subchapter; and
+
+&emsp;&emsp;(C) other types of program support such as quality assurance, quality control, and related activities.
 
 #### (f) Construction
 
 A State may not use amounts received under a grant awarded under this part to purchase or improve land, or to purchase, construct, or permanently improve (other than minor remodeling) any building or other facility, or to make cash payments to intended recipients of services.
 
-(July 1, 1944, ch. 373, title XXVI, §2604, as added Aug. 18, 1990, Pub. L. 101–381, title I, §101(3), 104 Stat. 580; amended Nov. 2, 1994, Pub. L. 103–446, title XII, §1203(a)(3), 108 Stat. 4689.)
+(July 1, 1944, ch. 373, title XXVI, §2604, as added Aug. 18, 1990, Pub. L. 101–381, title I, §101(3), 104 Stat. 580; amended Nov. 2, 1994, Pub. L. 103–446, title XII, §1203(a)(3), 108 Stat. 4689; May 20, 1996, Pub. L. 104–146, §3(b)(4), 110 Stat. 1351.)
 
 #### References in Text
+
+Section 300ff–12(b) of this title, referred to in subsec. (a)(1), was amended by Pub. L. 104–146, §3(b)(1)(D), May 20, 1996, 110 Stat. 1348, to redesignate pars. (2) and (3) as (3) and (4), respectively. As so redesignated, par. (3)(A) relates to establishment or designation of councils and par. (4)(A) relates to establishment of priorities by planning councils.
 
 The Social Security Act, referred to in subsec. (d)(1), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XIX of the Social Security Act is classified generally to subchapter XIX (§1396 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
@@ -100,13 +126,35 @@ A prior section 2604 of act July 1, 1944, was successively renumbered by subsequ
 
 #### Amendments
 
+1996—Subsec. (b)(1)(A). Pub. L. 104–146, §3(b)(4)(A), inserted “, substance abuse treatment and mental health treatment,” after “case management” and “which shall include treatment education and prophylactic treatment for opportunistic infections,” after “treatment services,”.
+
+Subsec. (b)(2)(A). Pub. L. 104–146, §3(b)(4)(B), inserted “, or private for-profit entities if such entities are the only available provider of quality HIV care in the area,” after “nonprofit private entities,” and substituted “homeless health centers, substance abuse treatment programs, and mental health programs” for “and homeless health centers”.
+
+Subsec. (b)(3). Pub. L. 104–146, §3(b)(4)(C), added par. (3).
+
+Subsec. (e). Pub. L. 104–146, §3(b)(4)(C), struck out “and planning” after “Administration” in heading, designated existing provisions as par. (1), inserted par. heading, struck out “accounting, reporting, and program oversight functions” after “for administration,”, inserted at end “In the case of entities and subcontractors to which such officer allocates amounts received by the officer under the grant, the officer shall ensure that, of the aggregate amount so allocated, the total of the expenditures by such entities for administrative expenses does not exceed 10 percent (without regard to whether particular entities expend more than 10 percent for such expenses).”, and added pars. (2) and (3).
+
 1994—Subsec. (b)(2)(A). Pub. L. 103–446 substituted “Department of Veterans Affairs facilities” for “Veterans Administration facilities”.
 
 #### Change of Name
 
 Reference to Veterans Administration deemed to refer to Department of Veterans Affairs pursuant to section 10 of Pub. L. 100–527, set out as a Department of Veterans Affairs Act note under section 301 of Title 38, Veterans’ Benefits.
 
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–146 effective Oct. 1, 1996, see section 13 of Pub. L. 104–146, set out as a note under section 300ff–11 of this title.
+
+#### Reference to Community, Migrant, Public Housing, or Homeless Health Center Considered Reference to Health Center
+
+Reference to community health center, migrant health center, public housing health center, or homeless health center considered reference to health center, see section 4(c) of Pub. L. 104–299, set out as a note under section 254b of this title.
+
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 300ff–11, 300ff–12, 300ff–15 of this title.
+This section is referred to in sections 300ff–11, 300ff–12, 300ff–15, 300ff–22 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original.</i>
+
+<i><sup>3</sup></i><i> So in original. The comma probably should not appear.</i>
 

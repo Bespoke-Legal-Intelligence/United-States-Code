@@ -1,6 +1,6 @@
 ### §1300g–1. Redesignation of tribe
 
-The Indians designated as the Tiwa Indians of Ysleta, Texas, by the Tiwa Indians Act shall, onand after August 18, 1987, be known and designated as the Ysleta del Sur Pueblo. Any reference in any law, map, regulation, document, record, or other paper of the United States to the Tiwa Indians of Ysleta, Texas, shall be deemed to be a reference to the Ysleta del Sur Pueblo.
+The Indians designated as the Tiwa Indians of Ysleta, Texas, by the Tiwa Indians Act shall, on and after August 18, 1987, be known and designated as the Ysleta del Sur Pueblo. Any reference in any law, map, regulation, document, record, or other paper of the United States to the Tiwa Indians of Ysleta, Texas, shall be deemed to be a reference to the Ysleta del Sur Pueblo.
 
 (Pub. L. 100–89, title I, §102, Aug. 18, 1987, 101 Stat. 666.)
 

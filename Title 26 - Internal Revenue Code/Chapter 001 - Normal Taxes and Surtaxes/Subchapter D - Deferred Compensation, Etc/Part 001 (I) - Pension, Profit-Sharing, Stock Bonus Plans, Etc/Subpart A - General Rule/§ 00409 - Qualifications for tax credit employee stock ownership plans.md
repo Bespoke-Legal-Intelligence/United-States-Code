@@ -18,7 +18,7 @@ Except as otherwise provided in this title, for purposes of this title, the term
 
 &emsp;&emsp;(A) the plan provides for the allocation for the plan year of all employer securities transferred to it or purchased by it (because of the requirements of section 41(c)(1)(B)) <sup>1</sup> to the accounts of all participants who are entitled to share in such allocation, and
 
-&emsp;&emsp;(B) for the plan year the allocation to each participant so entitled is an amount which bears substantially the same proportion tothe amount of all such securities allocated to all such participants in the plan for that year as the amount of compensation paid to such participant during that year bears to the compensation paid to all such participants during that year.
+&emsp;&emsp;(B) for the plan year the allocation to each participant so entitled is an amount which bears substantially the same proportion to the amount of all such securities allocated to all such participants in the plan for that year as the amount of compensation paid to such participant during that year bears to the compensation paid to all such participants during that year.
 
 #### (2) Compensation in excess of $100,000 disregarded
 
@@ -90,7 +90,7 @@ A plan meets the requirements of this subsection only if it provides that no emp
 
 #### (g) Transferred amounts must stay in plan even though investment credit is redetermined or recaptured
 
-A plan meets the requirement of this subsection only if it provides that amounts whichare transferred to the plan (because of the requirements of section 48(n)(1) or 41(c)(1)(B)) <sup>2</sup> shall remain in the plan (and, if allocated under the plan, shall remain so allocated) even though part or all of the employee plan credit or the credit allowed under section 41 <sup>2</sup> (relating to employee stock ownership credit) is recaptured or redetermined. For purposes of the preceding sentence, the references to section 48(n)(1) <sup>2</sup> and the employee plan credit shall refer to such section and credit as in effect before the enactment of the Tax Reform Act of 1984.
+A plan meets the requirement of this subsection only if it provides that amounts which are transferred to the plan (because of the requirements of section 48(n)(1) or 41(c)(1)(B)) <sup>2</sup> shall remain in the plan (and, if allocated under the plan, shall remain so allocated) even though part or all of the employee plan credit or the credit allowed under section 41 <sup>2</sup> (relating to employee stock ownership credit) is recaptured or redetermined. For purposes of the preceding sentence, the references to section 48(n)(1) <sup>2</sup> and the employee plan credit shall refer to such section and credit as in effect before the enactment of the Tax Reform Act of 1984.
 
 #### (h) Right to demand employer securities; put option
 
@@ -130,7 +130,7 @@ A plan meets the requirement of this subsection only if it provides that amounts
 
 #### (7) Exception where employee elected diversification
 
-&emsp;Paragraph (1)(A) shall not apply with respect to the portion of the participant's account which the employee elected to have reinvested under section 401(a)(28)(B).
+&emsp;Paragraph (1)(A) shall not apply with respect to the portion of the participant's accountwhich the employee elected to have reinvested under section 401(a)(28)(B).
 
 #### (i) Reimbursement for expenses of establishing and administering plan
 
@@ -208,7 +208,7 @@ For purposes of this section—
 
 #### (C) Where common parent owns 100 percent of first tier subsidiary
 
-&emsp;&emsp;For purposes of subparagraph (A), if the common parent owns directly stock possessing all of the voting power of all classes of stock and all of the nonvoting stock, in a first tier subsidiary, and if the first tier subsidiary owns directly stock possessing at least 50 percent of the voting power of all classes of stock, and at least 50 percent of each class of nonvoting stock, in a second tier subsidiary of the common parent, such second tier subsidiary (and all other corporations below it in the chain which would meet the 80 percent test of section 1563(a) if the second tier subsidiary were the commonparent) shall be treated as includible corporations.
+&emsp;&emsp;For purposes of subparagraph (A), if the common parent owns directly stock possessing all of the voting power of all classes of stock and all of the nonvoting stock, in a first tier subsidiary, and if the first tier subsidiary owns directly stock possessing at least 50 percent of the voting power of all classes of stock, and at least 50 percent of each class of nonvoting stock, in a second tier subsidiary of the common parent, such second tier subsidiary (and all other corporations below it in the chain which would meet the 80 percent test of section 1563(a) if the second tier subsidiary were the common parent) shall be treated as includible corporations.
 
 #### (5) Nonvoting common stock may be acquired in certain cases
 
@@ -292,7 +292,7 @@ A plan meets the requirements of this subsection if—
 
 &emsp;&emsp;&emsp;(i) in which the participant separates from service by reason of the attainment of normal retirement age under the plan, disability, or death, or
 
-&emsp;&emsp;&emsp;(ii) which is the 5th plan year following the plan year in which the participantotherwise separates from service, except that this clause shall not apply if the participant is reemployed by the employer before distribution is required to begin under this clause.
+&emsp;&emsp;&emsp;(ii) which is the 5th plan year following the plan year in which the participant otherwise separates from service, except that this clause shall not apply if the participant is reemployed by the employer before distribution is required to begin under this clause.
 
 #### (B) Exception for certain financed securities
 
@@ -354,7 +354,7 @@ Subsec. (n)(2)(C)(i), (3)(A)(ii). Pub. L. 101–239, §7304(a)(2)(B), struck out
 
 Subsec. (e)(5). Pub. L. 100–647, §1018(t)(4)(H), substituted “paragraph (3)” for “paragraph (2) or (3)”.
 
-Subsec. (h)(2). Pub. L. 100–647, §1018(t)(4)(B), substituted “paragraph (1)(B)” for “section 409(<i>o)”.</i>
+Subsec. (h)(2). Pub. L. 100–647, §1018(t)(4)(B), substituted “paragraph (1)(B)” for “section 409(<i>o</i>)”.
 
 Subsec. (h)(7). Pub. L. 100–647, §1011B(j)(5), added par. (7).
 
@@ -374,7 +374,7 @@ Subsec. (<i>o</i>)(1)(A). Pub. L. 100–647, §1011B(i)(3), substituted “if th
 
 Subsec. (<i>o</i>)(1)(A)(ii). Pub. L. 100–647, §1011B(i)(1), substituted “distribution is required to begin under this clause” for “such year”.
 
-1986—Subsec. (a)(3). Pub. L. 99–514, §1174(b)(2), inserted reference to subsec. (<i>o).</i>
+1986—Subsec. (a)(3). Pub. L. 99–514, §1174(b)(2), inserted reference to subsec. (<i>o</i>).
 
 Subsec. (d). Pub. L. 99–514, §1899A(11), substituted “participant's” for “participants's”.
 
@@ -388,19 +388,19 @@ Subsec. (e)(3). Pub. L. 99–514, §1854(f)(1)(B)–(D), inserted “or benefici
 
 Subsec. (e)(5). Pub. L. 99–514, §1854(f)(1)(A), added par. (5).
 
-Subsec. (h)(2). Pub. L. 99–514, §1854(f)(3)(C), inserted “, except that such plan may distribute employer securities subject to a requirement that such securities may be resold to the employer under terms which meet the requirements of section 409(<i>o)”.</i>
+Subsec. (h)(2). Pub. L. 99–514, §1854(f)(3)(C), inserted “, except that such plan may distribute employer securities subject to a requirement that such securities may be resold to the employer under terms which meet the requirements of section 409(<i>o</i>)”.
 
 Subsec. (h)(5), (6). Pub. L. 99–514, §1174(c)(1)(A), added pars. (5) and (6).
 
 Subsec. (<i>l</i>)(4). Pub. L. 99–514, §1176(b), added par. (4) relating to acquisition of nonvoting common stock.
 
-Subsec. (n). Pub. L. 99–514, §1854(a)(3)(A), added subsec. (n). Former subsec. (n) redesignated (<i>o).</i>
+Subsec. (n). Pub. L. 99–514, §1854(a)(3)(A), added subsec. (n). Former subsec. (n) redesignated (<i>o</i>).
 
 Subsec. (n)(1). Pub. L. 99–514, §1172(b)(1), as amended by Pub. L. 100–647, §1011B(g)(1), inserted “or section 2057” in two places in introductory provisions, “or any decedent if the executor of the estate of such decedent makes a qualified sale to which section 2057 applies,” in subpar. (A)(i), and “or the decedent” in subpar. (A)(ii).
 
 Subsec. (<i>o</i>). Pub. L. 99–514, §1174(b)(1), added subsec. (<i>o</i>). Former subsec. (<i>o</i>) redesignated (p).
 
-Pub. L. 99–514, §1854(a)(3)(A), redesignated former subsec. (n) as (<i>o).</i>
+Pub. L. 99–514, §1854(a)(3)(A), redesignated former subsec. (n) as (<i>o</i>).
 
 Subsec. (p). Pub. L. 99–514, §1174(b)(1), redesignated former subsec. (<i>o</i>) as (p).
 
@@ -516,7 +516,7 @@ Amendment by Pub. L. 97–448 effective, except as otherwise provided, as if it 
 
 Amendment by section 331(c)(1) of Pub. L. 97–34 applicable to taxable years ending after Dec. 31, 1982, see section 331(f)(2) of Pub. L. 97–34, set out as a note under section 404 of this title.
 
-Section 337(b) of Pub. L. 97–34, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by this section \[amending this section\] shall apply to distributions described in section 409A(d) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (or any corresponding provision of prior law) made after March 29, 1975.”
+Section 337(b) of Pub. L. 97–34, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:“The amendments made by this section \[amending this section\] shall apply to distributions described in section 409A(d) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (or any corresponding provision of prior law) made after March 29, 1975.”
 
 Amendment by sections 334 and 336 of Pub. L. 97–34 applicable to taxable years beginning after Dec. 31, 1981, see section 339 of Pub. L. 97–34, set out as a note under section 401 of this title.
 
@@ -560,7 +560,7 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 133, 401, 404, 411, 414, 415, 1042, 4975, 4978, 4979A, 4980 of this title; title 28 section 3010; title 29 sections 1054, 1055.
+This section is referred to in sections 401, 404, 411, 414, 415, 1042, 4975, 4978, 4979A, 4980 of this title; title 28 section 3010; title 29 sections 1054, 1055.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

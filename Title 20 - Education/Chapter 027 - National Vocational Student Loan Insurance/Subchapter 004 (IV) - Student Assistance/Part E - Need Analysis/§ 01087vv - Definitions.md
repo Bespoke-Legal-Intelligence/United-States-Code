@@ -14,7 +14,7 @@ The term “untaxed income and benefits” means—
 
 &emsp;(1) child support received;
 
-&emsp;(2) welfare benefits, including aid to families with dependent children under a State plan approved under part A of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\] and aid to dependent children;
+&emsp;(2) welfare benefits, including assistance under a State program funded under part A of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\] and aid to dependent children;
 
 &emsp;(3) workman's compensation;
 
@@ -38,7 +38,7 @@ The term “untaxed income and benefits” means—
 
 &emsp;(13) payments to individual retirement accounts and Keogh accounts excluded from income for Federal income tax purposes; and
 
-&emsp;(14) any other untaxed income and benefits, such as Black Lung Benefits, Refugee Assistance, railroad retirement benefits, or JobTraining Partnership Act \[29 U.S.C. 1501 et seq.\] noneducational benefits.
+&emsp;(14) any other untaxed income and benefits, such as Black Lung Benefits, Refugee Assistance, railroad retirement benefits, or Job Training Partnership Act \[29 U.S.C. 1501 et seq.\] noneducational benefits.
 
 #### (c) Veteran and veterans’ education benefits
 
@@ -118,7 +118,7 @@ The term “net assets” means the current market value at the time of applicat
 
 (1) The tax on income paid to the Governments of the Commonwealth of Puerto Rico, Guam, American Samoa, the Virgin Islands, or the Commonwealth of the Northern Mariana Islands, the Republic of the Marshall Islands, the Federated States of Micronesia, or Palau under the laws applicable to those jurisdictions, or the comparable tax paid to the central government of a foreign country, shall be treated as Federal income taxes.
 
-(2) References in this part to title 26, Federal income tax forms, and the Internal Revenue Service shall, for purposes of the tax described in paragraph (1), be treated as references to the corresponding laws, tax forms, and tax collection agencies of those jurisdictions, respectively, subject to such adjustments as the Secretary may provide by regulation.
+(2) References in this part to title 26, Federal income tax forms, and the Internal Revenue Service shall, for purposes of the tax describedin paragraph (1), be treated as references to the corresponding laws, tax forms, and tax collection agencies of those jurisdictions, respectively, subject to such adjustments as the Secretary may provide by regulation.
 
 #### (i) Current balance
 
@@ -128,7 +128,7 @@ The term “current balance of checking and savings accounts” does not include
 
 (1) For purposes of determining a student's eligibility for funds under this subchapter and part C of subchapter I of chapter 34 of title 42, estimated financial assistance not received under this subchapter and part C of subchapter I of chapter 34 of title 42 shall include all scholarships, grants, loans, or other assistance known to the institution at the time the determination of the student's need is made, including veterans’ education benefits as defined in subsection (c) of this section.
 
-(2)(A) Except as provided in subparagraph (B), for purposes of determining a student's eligibility for funds under this subchapter and part C of subchapter I of chapter 34 of title 42, tuitionprepayment plans shall reduce the cost of attendance (as determined under section 1087<i>ll</i> of this title) by the amount of the prepayment, and shall not be considered estimated financial assistance.
+(2)(A) Except as provided in subparagraph (B), for purposes of determining a student's eligibility for funds under this subchapter and part C of subchapter I of chapter 34 of title 42, tuition prepayment plans shall reduce the cost of attendance (as determined under section 1087<i>ll</i> of this title) by the amount of the prepayment, and shall not be considered estimated financial assistance.
 
 (B) If the institutional expense covered by the prepayment must be part of the student's cost of attendance for accounting purposes, the prepayment shall be considered estimated financial assistance.
 
@@ -160,7 +160,7 @@ The term “current balance of checking and savings accounts” does not include
 
 The term “business assets” means property that is used in the operation of a trade or business, including real estate, inventories, buildings, machinery, and other equipment, patents, franchise rights, and copyrights.
 
-(Pub. L. 89–329, title IV, §480, as added Pub. L. 99–498, title IV, §406(a), Oct. 17, 1986, 100 Stat. 1472; amended Pub. L. 100–50, §14(28), June 3, 1987, 101 Stat. 353; Pub. L. 100–369, §7(b), July 18, 1988, 102 Stat. 837; Pub. L. 101–610, title I, §185(3), (4), Nov. 16, 1990, 104 Stat. 3168; Pub. L. 102–325, title IV, §471(a), July 23, 1992, 106 Stat. 606; Pub. L. 103–82, title I, §102(c)(4), (5), Sept. 21, 1993, 107 Stat. 824; Pub. L. 103–208, §2(g)(17)–(20), Dec. 20, 1993, 107 Stat. 2474.)
+(Pub. L. 89–329, title IV, §480, as added Pub. L. 99–498, title IV, §406(a), Oct. 17, 1986, 100 Stat. 1472; amended Pub. L. 100–50, §14(28), June 3, 1987, 101 Stat. 353; Pub. L. 100–369, §7(b), July 18, 1988, 102 Stat. 837; Pub. L. 101–610, title I, §185(3), (4), Nov. 16, 1990, 104 Stat. 3168; Pub. L. 102–325, title IV, §471(a), July 23, 1992, 106 Stat. 606; Pub. L. 103–82, title I, §102(c)(4), (5), Sept. 21, 1993, 107 Stat. 824; Pub. L. 103–208, §2(g)(17)–(20), Dec. 20, 1993, 107 Stat. 2474; Pub. L. 104–193, title I, §110(h)(2), Aug. 22, 1996, 110 Stat. 2172.)
 
 #### References in Text
 
@@ -170,7 +170,7 @@ This chapter, referred to in subsec. (a)(2), was in the original “this Act”,
 
 The Social Security Act, referred to in subsecs. (b)(2) and (e)(4), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Parts A and E of title IV of the Act are classified generally to parts A (§601 et seq.) and E (§670 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
-The Job Training Partnership Act, referred to in subsec. (b)(14), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, as amended, which is classified generally to chapter 19 (§1501 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of Title 29 and Tables.
+The Job Training Partnership Act, referred to in subsec. (b)(14), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322,as amended, which is classified generally to chapter 19 (§1501 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of Title 29 and Tables.
 
 Title 10, chapter 2, referred to in subsec. (c)(2)(A), relates to the organization of the Department of Defense. For provisions relating to the Reserve Officer Training Corps, see chapters 102 and 103 of Title 10, Armed Forces.
 
@@ -188,7 +188,9 @@ Amendment by section 2(g)(19) of Pub. L. 103–208 (which was effective as if in
 
 #### Amendments
 
-1993—Subsec. (a)(2). Pub. L. 103–82, §102(c)(4), inserted “, and no portion of a national service educationalaward or post-service benefit received by an individual under title I of the National and Community Service Act of 1990,” after “by an individual”.
+1996—Subsec. (b)(2). Pub. L. 104–193 substituted “assistance under a State program funded” for “aid to families with dependent children under a State plan approved”.
+
+1993—Subsec. (a)(2). Pub. L. 103–82, §102(c)(4), inserted “, and no portion of a national service educational award or post-service benefit received by an individual under title I of the National and Community Service Act of 1990,” after “by an individual”.
 
 Subsec. (c)(2). Pub. L. 103–208, §2(g)(17), made technical amendment to references to titles of the United States Code in subpars. (A) to (H).
 
@@ -219,6 +221,10 @@ Subsecs. (b), (c). Pub. L. 100–50, §14(28)(E), substituted subsec. (b) consis
 Subsec. (d)(2)(F). Pub. L. 100–50, §14(28)(F), substituted “annual total resources (including all sources of resources other than parents)” for “an annual total income”.
 
 Subsecs. (f) to (h). Pub. L. 100–50, §14(28)(G), added subsecs. (f) to (h).
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–193 effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, set out as a note under section 601 of Title 42, The Public Health and Welfare.
 
 #### Effective Date of 1993 Amendments
 

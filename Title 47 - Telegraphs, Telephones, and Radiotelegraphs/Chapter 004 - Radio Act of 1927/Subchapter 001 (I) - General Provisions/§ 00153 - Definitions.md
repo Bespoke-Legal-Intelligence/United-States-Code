@@ -2,97 +2,269 @@
 
 For the purposes of this chapter, unless the context otherwise requires—
 
-(a) “Wire communication” or “communication by wire” means the transmission of writing, signs, signals, pictures, and sounds of all kinds by aid of wire, cable, or other like connection between the points of origin and reception of such transmission, including all instrumentalities, facilities, apparatus, and services (among other things, the receipt, forwarding, and delivery of communications) incidental to such transmission.
+#### (1) Affiliate
 
-(b) “Radio communication” or “communication by radio” means the transmission by radio of writing, signs, signals, pictures, and sounds of all kinds, including all instrumentalities, facilities, apparatus, and services (among other things, the receipt, forwarding, and delivery of communications) incidental to such transmission.
+&emsp;The term “affiliate” means a person that (directly or indirectly) owns or controls, is owned or controlled by, or is under common ownership or control with, another person. For purposes of this paragraph, the term “own” means to own an equity interest (or the equivalent thereof) of more than 10 percent.
 
-(c) “Licensee” means the holder of a radio station license granted or continued in force under authority of this chapter.
+#### (2) Amateur station
 
-(d) “Transmission of energy by radio” or “radio transmission of energy” includes both such transmission and all instrumentalities, facilities, and services incidental to such transmission.
+&emsp;The term “amateur station” means a radio station operated by a duly authorized person interested in radio technique solely with a personal aim and without pecuniary interest.
 
-(e) “Interstate communication” or “interstate transmission” means communication or transmission (1) from any State, Territory, or possession of the United States (other than the Canal Zone), or the District of Columbia, to any other State, Territory, or possession of the United States (other than the Canal Zone), or the District of Columbia, (2) from or to the United States to or from the Canal Zone, insofar as such communication or transmission takes place within the United States, or (3) between points within the United States but through a foreign country; but shall not, with respect to the provisions of subchapter II of this chapter (other than section 223 of this title), include wire or radio communication between points in the same State, Territory, or possession of the United States, or the District of Columbia, through any place outside thereof, if such communication is regulated by a State commission.
+#### (3) AT\&T Consent Decree
 
-(f) “Foreign communication” or “foreign transmission” means communication or transmission from or to any place in the United States to or from a foreign country, or between a station in the United States and a mobile station located outside the United States.
+&emsp;The term “AT\&T Consent Decree” means the order entered August 24, 1982, in the antitrust action styled United States v. Western Electric, Civil Action No. 82–0192, in the United States District Court for the District of Columbia, and includes any judgment or order with respect to such action entered on or after August 24, 1982.
 
-(g) “United States” means the several States and Territories, the District of Columbia, and the possessions of the United States, but does not include the Canal Zone.
+#### (4) Bell operating company
 
-(h) “Common carrier” or “carrier” means any person engaged as a common carrier for hire, in interstate or foreign communication by wire or radio or interstate or foreign radio transmission of energy, except where reference is made to common carriers not subject to this chapter; but a person engaged in radio broadcasting shall not, insofar as such person is so engaged, be deemed a common carrier.
+&emsp;The term “Bell operating company”—
 
-(i) “Person” includes an individual, partnership, association, joint-stock company, trust, or corporation.
+&emsp;&emsp;(A) means any of the following companies: Bell Telephone Company of Nevada, Illinois Bell Telephone Company, Indiana Bell Telephone Company, Incorporated, Michigan Bell Telephone Company, New England Telephone and Telegraph Company, New Jersey Bell Telephone Company, New York Telephone Company, U S West Communications Company, South Central Bell Telephone Company, Southern Bell Telephone and Telegraph Company, Southwestern Bell Telephone Company, The Bell Telephone Company of Pennsylvania, The Chesapeake and Potomac Telephone Company, The Chesapeake and Potomac Telephone Company of Maryland, The Chesapeake and Potomac Telephone Company of Virginia, The Chesapeake and Potomac Telephone Company of West Virginia, The Diamond StateTelephone Company, The Ohio Bell Telephone Company, The Pacific Telephone and Telegraph Company, or Wisconsin Telephone Company; and
 
-(j) “Corporation” includes any corporation, joint-stock company, or association.
+&emsp;&emsp;(B) includes any successor or assign of any such company that provides wireline telephone exchange service; but
 
-(k) “Radio station” or “station” means a station equipped to engage in radio communication or radio transmission of energy.
+&emsp;&emsp;(C) does not include an affiliate of any such company, other than an affiliate described in subparagraph (A) or (B).
 
-(<i>l</i>) “Mobile station” means a radio-communication station capable of being moved and which ordinarily does move.
+#### (5) Broadcast station
 
-(m) “Land station” means a station, other than a mobile station, used for radio communication with mobile stations.
+&emsp;The term “broadcast station”, “broadcasting station”, or “radio broadcast station” means a radio station equipment to engage in broadcasting as herein defined.
 
-(n) “Mobile service” means a radio communication service carried on between mobile stations or receivers and land stations, and by mobile stations communicating among themselves, and includes (1) both one-way and two-way radio communication services, (2) a mobile service which provides a regularly interacting group of base, mobile, portable, and associated control and relay stations (whether licensed on an individual, cooperative, or multiple basis) for private one-way or two-way land mobile radio communications by eligible users over designated areas of operation, and (3) any service for which a license is required in a personal communications service established pursuant to the proceeding entitled “Amendment to the Commission's Rules to Establish New Personal Communications Services” (GEN Docket No. 90–314; ET Docket No. 92–100), or any successor proceeding.
+#### (6) Broadcasting
 
-(<i>o</i>) “Broadcasting” means the dissemination of radio communications intended to be received by the public, directly or by the intermediary of relay stations.
+&emsp;The term “broadcasting” means the dissemination of radio communications intended to be received by the public, directly or by the intermediary of relay stations.
 
-(p) “Chain broadcasting” means simultaneous broadcasting of an identical program by two or more connected stations.
+#### (7) Cable service
 
-(q) “Amateur station” means a radio station operated by a duly authorized person interested in radio technique solely with a personal aim and without pecuniary interest.
+&emsp;The term “cable service” has the meaning given such term in section 522 of this title.
 
-(r) “Telephone exchange service” means service within a telephone exchange, or within a connected system of telephone exchanges within the same exchange area operated to furnish to subscribers intercommunicating service of the character ordinarily furnished by a single exchange, and which is covered by the exchange service charge.
+#### (8) Cable system
 
-(s) “Telephone toll service” means telephone service between stations in different exchange areas for which there is made a separate charge not included in contracts with subscribers for exchange service.
+&emsp;The term “cable system” has the meaning given such term in section 522 of this title.
 
-(t) “State commission” means the commission, board, or official (by whatever name designated) which under the laws of any State has regulatory jurisdiction with respect to intrastate operations of carriers.
+#### (9) Chain broadcasting
 
-(u) “Connecting carrier” means a carrier described in clauses (2), (3), or (4) of section 152(b) of this title.
+&emsp;The term “chain broadcasting” means simultaneous broadcasting of an identical program by two or more connected stations.
 
-(v) “State” includes the District of Columbia and the Territories and possessions.
+#### (10) Common carrier
 
-(w)(1) “Ship” or “vessel” includes every description of watercraft or other artificial contrivance, except aircraft, used or capable of being used as a means of transportation on water, whether or not it is actually afloat.
+&emsp;The term “common carrier” or “carrier” means any person engaged as a common carrier for hire, in interstate or foreign communication by wire or radio or interstate or foreign radio transmission of energy, except where reference is made to common carriers not subject to this chapter; but a person engaged in radio broadcasting shall not, insofar as such person is so engaged, be deemed a common carrier.
 
-(2) A ship shall be considered a passenger ship if it carries or is licensed or certificated to carry more than twelve passengers.
+#### (11) Connecting carrier
 
-(3) A cargo ship means any ship not a passenger ship.
+&emsp;The term “connecting carrier” means a carrier described in clauses (2), (3), or (4) of section 152(b) of this title.
 
-(4) A passenger is any person carried on board a ship or vessel except (1) the officers and crew actually employed to man and operate the ship, (2) persons employed to carry on the business of the ship, and (3) persons on board a ship when they are carried, either because of the obligation laid upon the master to carry shipwrecked, distressed, or other persons in like or similar situations or by reason of any circumstance over which neither the master, the owner, nor the charterer (if any) has control.
+#### (12) Construction permit
 
-(5) “Nuclear ship” means a ship provided with a nuclear powerplant.
+&emsp;The term “construction permit” or “permit for construction” means that instrument of authorization required by this chapter or the rules and regulations of the Commission made pursuant to this chapter for the construction of a station, or the installation of apparatus, for the transmission of energy, or communications, or signals by radio, by whatever name the instrument may be designated by the Commission.
 
-(x) “Radiotelegraph auto alarm” on a ship of the United States subject to the provisions of part II of subchapter III of this chapter means an automatic alarm receiving apparatus which responds to the radiotelegraph alarm signal and has been approved by the Commission. “Radiotelegraph auto alarm” on a foreign ship means an automatic alarm receiving apparatus which responds to the radiotelegraph alarm signal and has been approved by the government of the country in which the ship is registered: <i>Provided</i>, That the United States and the country in which the ship is registered are parties to the same treaty, convention, or agreement prescribing the requirements for such apparatus. Nothing in this chapter or in any other provision of law shall be construed to require the recognition of a radiotelegraph auto alarm as complying with part II of subchapter III of this chapter, on a foreign ship subject to part II of subchapter III of this chapter, where the country in which the ship is registered and the United States are not parties to the same treaty, convention, or agreement prescribing the requirements for such apparatus.
+#### (13) Corporation
 
-(y)(1) “Operator” on a ship of the United States means, for the purpose of parts II and III of subchapter III of this chapter, a person holding a radio operator's license of the proper class as prescribed and issued by the Commission.
+&emsp;The term “corporation” includes any corporation, joint-stock company, or association.
 
-(2) “Operator” on a foreign ship means, for the purpose of part II of subchapter III of this chapter, a person holding a certificate as such of the proper class complying with the provisions of the radio regulations annexed to the International Telecommunication Convention in force, or complying with an agreement or treaty between the United States and the country in which the ship is registered.
+#### (14) Customer premises equipment
 
-(z)(1) “Radio officer” on a ship of the United States means, for the purpose of part II of subchapter III of this chapter, a person holding at least a first or second class radiotelegraph operator's license as prescribed and issued by the Commission. When such person is employed to operate a radiotelegraph station aboard a ship of the United States, he is also required to be licensed as a “radio officer” in accordance with chapter 71 of title 46.
+&emsp;The term “customer premises equipment” means equipment employed on the premises of a person (other than a carrier) to originate, route, or terminate telecommunications.
 
-(2) “Radio officer” on a foreign ship means, for the purpose of part II of subchapter III of this chapter, a person holding at least a first or second class radiotelegraph operator's certificate complying with the provisions of the radio regulations annexed to the International Telecommunication Convention in force.
+#### (15) Dialing parity
 
-(aa) “Harbor” or “port” means any place to which ships may resort for shelter or to load or unload passengers or goods, or to obtain fuel, water, or supplies. This term shall apply to such places whether proclaimed public or not and whether natural or artificial.
+&emsp;The term “dialing parity” means that a person that is not an affiliate of a local exchange carrier is able to provide telecommunications services in such a manner that customers have the ability to route automatically, without the use of any access code, their telecommunications to the telecommunications services provider of the customer's designation from among 2 or more telecommunications services providers (including such local exchange carrier).
 
-(bb) “Safety convention” means the International Convention for the Safety of Life at Sea in force and the regulations referred to therein.
+#### (16) Exchange access
 
-(cc) “Station license”, “radio station license”, or “license” means that instrument of authorization required by this chapter or the rules and regulations of the Commission made pursuant to this chapter, for the use or operation of apparatus for transmission of energy, or communications, or signals by radio, by whatever name the instrument may be designated by the Commission.
+&emsp;The term “exchange access” means the offering of access to telephone exchange services or facilities for the purpose of the origination or termination of telephone toll services.
 
-(dd) “Broadcast station”, “broadcasting station”, or “radio broadcast station” means a radio station equipment to engage in broadcasting as herein defined.
+#### (17) Foreign communication
 
-(ee) “Construction permit” or “permit for construction” means that instrument of authorization required by this chapter or the rules and regulations of the Commission made pursuant to this chapter for the construction of a station, or the installation of apparatus, for the transmission of energy, or communications, or signals by radio, by whatever name the instrument may be designated by the Commission.
+&emsp;The term “foreign communication” or “foreign transmission” means communication or transmission from or to any place in the United States to or from a foreign country, or between a station in the United States and a mobile station located outside the United States.
 
-(ff) “Great Lakes Agreement” means the Agreement for the Promotion of Safety on the Great Lakes by Means of Radio in force and the regulations referred to therein.
+#### (18) Great Lakes Agreement
 
-(June 19, 1934, ch. 652, title I, §3, 48 Stat. 1065; May 20, 1937, ch. 229, §2, 50 Stat. 189; Proc. No. 2695, eff. July 4, 1946, 11 F.R. 7517, 60 Stat. 1352; July 16, 1952, ch. 879, §2, 66 Stat. 711; Apr. 27, 1954, ch. 175, §§2, 3, 68 Stat. 64; Aug. 13, 1954, ch. 729, §3, 68 Stat. 707; Aug. 13, 1954, ch. 735, §1, 68 Stat. 729; Aug. 6, 1956, ch. 973, §3, 70 Stat. 1049; Aug. 13, 1965, Pub. L. 89–121, §1, 79 Stat. 511; May 3, 1968, Pub. L. 90–299, §2, 82 Stat. 112; Sept. 13, 1982, Pub. L. 97–259, title I, §120(b), 96 Stat. 1097; Aug. 10, 1993, Pub. L. 103–66, title VI, §6002(b)(2)(B)(ii), 107 Stat. 396.)
+&emsp;The term “Great Lakes Agreement” means the Agreement for the Promotion of Safety on the Great Lakes by Means of Radio in force and the regulations referred to therein.
+
+#### (19) Harbor
+
+&emsp;The term “harbor” or “port” means any place to which ships may resort for shelter or to load or unload passengers or goods, or to obtain fuel, water, or supplies. This term shall apply to such places whether proclaimed public or not and whether natural or artificial.
+
+#### (20) Information service
+
+&emsp;The term “information service” means the offering of a capability for generating, acquiring, storing, transforming, processing, retrieving, utilizing, or making available information via telecommunications, and includes electronic publishing, but does not include any use of any such capability for the management, control, or operation of a telecommunications system or the management of a telecommunications service.
+
+#### (21) InterLATA service
+
+&emsp;The term “interLATA service” means telecommunications between a point located in a local access and transport area and a point located outside such area.
+
+#### (22) Interstate communication
+
+&emsp;The term “interstate communication” or “interstate transmission” means communication or transmission (A) from any State, Territory, or possession of the United States (other than the Canal Zone), or the District of Columbia, to any other State, Territory, or possession of the United States (other than the Canal Zone), or the District of Columbia, (B) from or to the United States to or from the Canal Zone, insofar as such communication or transmission takes place within the United States, or (C) between points within theUnited States but through a foreign country; but shall not, with respect to the provisions of subchapter II of this chapter (other than section 223 of this title), include wire or radio communication between points in the same State, Territory, or possession of the United States, or the District of Columbia, through any place outside thereof, if such communication is regulated by a State commission.
+
+#### (23) Land station
+
+&emsp;The term “land station” means a station, other than a mobile station, used for radio communication with mobile stations.
+
+#### (24) Licensee
+
+&emsp;The term “licensee” means the holder of a radio station license granted or continued in force under authority of this chapter.
+
+#### (25) Local access and transport area
+
+&emsp;The term “local access and transport area” or “LATA” means a contiguous geographic area—
+
+&emsp;&emsp;(A) established before February 8, 1996, by a Bell operating company such that no exchange area includes points within more than 1 metropolitan statistical area, consolidated metropolitan statistical area, or State, except as expressly permitted under the AT\&T Consent Decree; or
+
+&emsp;&emsp;(B) established or modified by a Bell operating company after February 8, 1996, and approved by the Commission.
+
+#### (26) Local exchange carrier
+
+&emsp;The term “local exchange carrier” means any person that is engaged in the provision of telephone exchange service or exchange access. Such term does not include a person insofar as such person is engaged in the provision of a commercial mobile service under section 332(c) of this title, except to the extent that the Commission finds that such service should be included in the definition of such term.
+
+#### (27) Mobile service
+
+&emsp;The term “mobile service” means a radio communication service carried on between mobile stations or receivers and land stations, and by mobile stations communicating among themselves, and includes (A) both one-way and two-way radio communication services, (B) a mobile service which provides a regularly interacting group of base, mobile, portable, and associated control and relay stations (whether licensed on an individual, cooperative, or multiple basis) for private one-way or two-way land mobile radio communications by eligible users over designated areas of operation, and (C) any service for which a license is required in a personal communications service established pursuant to the proceeding entitled “Amendment to the Commission's Rules to Establish New Personal Communications Services” (GEN Docket No. 90–314; ET Docket No. 92–100), or any successor proceeding.
+
+#### (28) Mobile station
+
+&emsp;The term “mobile station” means a radio-communication station capable of being moved and which ordinarily does move.
+
+#### (29) Network element
+
+&emsp;The term “network element” means a facility or equipment used in the provision of a telecommunications service. Such term also includes features, functions, and capabilities that are provided by means of such facility or equipment, including subscriber numbers, databases, signaling systems, and information sufficient for billing and collection or used in the transmission, routing, or other provision of a telecommunications service.
+
+#### (30) Number portability
+
+&emsp;The term “number portability” means the ability of users of telecommunications services to retain, at the same location, existing telecommunications numbers without impairment of quality, reliability, or convenience when switching from one telecommunications carrier to another.
+
+#### (31) Operator
+
+&emsp;(A) The term “operator” on a ship of the United States means, for the purpose of parts II and III of subchapter III of this chapter, a person holding a radio operator's license of the proper class as prescribed and issued by the Commission.
+
+&emsp;(B) “Operator” on a foreign ship means, for the purpose of part II of subchapter III of this chapter, a person holding a certificate as such of the proper class complying with the provisions of the radio regulations annexed to the International Telecommunication Convention in force, or complying with an agreement or treaty between the United States and the country in which the ship is registered.
+
+#### (32) Person
+
+&emsp;The term “person” includes an individual, partnership, association, joint-stock company, trust, or corporation.
+
+#### (33) Radio communication
+
+&emsp;The term “radio communication” or “communication by radio” means the transmission by radio of writing, signs, signals, pictures, and sounds of all kinds, including all instrumentalities, facilities, apparatus, and services (among other things, the receipt, forwarding, and delivery of communications) incidental to such transmission.
+
+#### (34) Radio officer
+
+&emsp;(A) The term “radio officer” on a ship of the United States means, for the purpose of part II of subchapter III of this chapter, a person holding at least a first or second class radiotelegraph operator's license as prescribed and issued by the Commission. When such person is employed to operate a radiotelegraph station aboard a ship of the United States, he is also required to be licensed as a “radio officer” in accordance with chapter 71 of title 46.
+
+&emsp;(B) “Radio officer” on a foreign ship means, for the purpose of part II of subchapter III of this chapter, a person holding at least a first or second class radiotelegraph operator's certificate complying with the provisions of the radio regulations annexed to the International Telecommunication Convention in force.
+
+#### (35) Radio station
+
+&emsp;The term “radio station” or “station” means a station equipped to engage in radiocommunication or radio transmission of energy.
+
+#### (36) Radiotelegraph auto alarm
+
+&emsp;The term “radiotelegraph auto alarm” on a ship of the United States subject to the provisions of part II of subchapter III of this chapter means an automatic alarm receiving apparatus which responds to the radiotelegraph alarm signal and has been approved by the Commission. “Radiotelegraph auto alarm” on a foreign ship means an automatic alarm receiving apparatus which responds to the radiotelegraph alarm signal and has been approved by the government of the country in which the ship is registered: <i>Provided</i>, That the United States and the country in which the ship is registered are parties to the same treaty, convention, or agreement prescribing the requirements for such apparatus. Nothing in this chapter or in any other provision of law shall be construed to require the recognition of a radiotelegraph auto alarm as complying with part II of subchapter III of this chapter, on a foreign ship subject to part II of subchapter III of this chapter, where the country in which the ship is registered and the United States are not parties to the same treaty, convention, or agreement prescribing the requirements for such apparatus.
+
+#### (37) Rural telephone company
+
+&emsp;The term “rural telephone company” means a local exchange carrier operating entity to the extent that such entity—
+
+&emsp;&emsp;(A) provides common carrier service to any local exchange carrier study area that does not include either—
+
+&emsp;&emsp;&emsp;(i) any incorporated place of 10,000 inhabitants or more, or any part thereof, based on the most recently available population statistics of the Bureau of the Census; or
+
+&emsp;&emsp;&emsp;(ii) any territory, incorporated or unincorporated, included in an urbanized area, as defined by the Bureau of the Census as of August 10, 1993;
+
+&emsp;&emsp;(B) provides telephone exchange service, including exchange access, to fewer than 50,000 access lines;
+
+&emsp;&emsp;(C) provides telephone exchange service to any local exchange carrier study area with fewer than 100,000 access lines; or
+
+&emsp;&emsp;(D) has less than 15 percent of its access lines in communities of more than 50,000 on February 8, 1996.
+
+#### (38) Safety convention
+
+&emsp;The term “safety convention” means the International Convention for the Safety of Life at Sea in force and the regulations referred to therein.
+
+#### (39) Ship
+
+&emsp;(A) The term “ship” or “vessel” includes every description of watercraft or other artificial contrivance, except aircraft, used or capable of being used as a means of transportation on water, whether or not it is actually afloat.
+
+&emsp;(B) A ship shall be considered a passenger ship if it carries or is licensed or certificated to carry more than twelve passengers.
+
+&emsp;(C) A cargo ship means any ship not a passenger ship.
+
+&emsp;(D) A passenger is any person carried on board a ship or vessel except (1) the officers and crew actually employed to man and operate the ship, (2) persons employed to carry on the business of the ship, and (3) persons on board a ship when they are carried, either because of the obligation laid upon the master to carry shipwrecked, distressed, or other persons in like or similar situations or by reason of any circumstance over which neither the master, the owner, nor the charterer (if any) has control.
+
+&emsp;(E) “Nuclear ship” means a ship provided with a nuclear powerplant.
+
+#### (40) State
+
+&emsp;The term “State” includes the District of Columbia and the Territories and possessions.
+
+#### (41) State commission
+
+&emsp;The term “State commission” means the commission, board, or official (by whatever name designated) which under the laws of any State has regulatory jurisdiction with respect to intrastate operations of carriers.
+
+#### (42) Station license
+
+&emsp;The term “station license”, “radio station license”, or “license” means that instrument of authorization required by this chapter or the rules and regulations of the Commission made pursuant to this chapter, for the use or operation of apparatus for transmission of energy, or communications, or signals by radio, by whatever name the instrument may be designated by the Commission.
+
+#### (43) Telecommunications
+
+&emsp;The term “telecommunications” means the transmission, between or among points specified by the user, of information of the user's choosing, without change in the form or content of the information as sent and received.
+
+#### (44) Telecommunications carrier
+
+&emsp;The term “telecommunications carrier” means any provider of telecommunications services, except that such term does not include aggregators of telecommunications services (as defined in section 226 of this title). A telecommunications carrier shall be treated as a common carrier under this chapter only to the extent that it is engaged in providing telecommunications services, except that the Commission shall determine whether the provision of fixed and mobile satellite service shall be treated as common carriage.
+
+#### (45) Telecommunications equipment
+
+&emsp;The term “telecommunications equipment” means equipment, other than customer premises equipment, used by a carrier to provide telecommunications services, and includes software integral to such equipment (including upgrades).
+
+#### (46) Telecommunications service
+
+&emsp;The term “telecommunications service” means the offering of telecommunications for a fee directly to the public, or to such classes of users as to be effectively available directly to the public, regardless of the facilities used.
+
+#### (47) Telephone exchange service
+
+&emsp;The term “telephone exchange service” means (A) service within a telephone exchange, or within a connected system of telephone exchanges within the same exchange area operated to furnish to subscribers intercommunicating service of the character ordinarily furnished by a single exchange, and which is covered by the exchange service charge, or (B) comparable service provided through a system of switches, transmission equipment, or other facilities (or combination thereof) by which a subscriber can originate and terminate a telecommunications service.
+
+#### (48) Telephone toll service
+
+&emsp;The term “telephone toll service” means telephone service between stations in different exchange areas for which there is made a separate charge not included in contracts with subscribers for exchange service.
+
+#### (49) Transmission of energy by radio
+
+&emsp;The term “transmission of energy by radio” or “radio transmission of energy” includes both such transmission and all instrumentalities, facilities, and services incidental to such transmission.
+
+#### (50) United States
+
+&emsp;The term “United States” means the several States and Territories, the District of Columbia, and the possessions of the United States, but does not include the Canal Zone.
+
+#### (51) Wire communication
+
+&emsp;The term “wire communication” or “communication by wire” means the transmission of writing, signs, signals, pictures, and sounds of all kinds by aid of wire, cable, or other like connection between the points of origin and reception of such transmission, including all instrumentalities, facilities, apparatus, and services (among other things, the receipt, forwarding, and delivery of communications) incidental to such transmission.
+
+(June 19, 1934, ch. 652, title I, §3, 48 Stat. 1065; May 20, 1937, ch. 229, §2, 50 Stat. 189; Proc. No. 2695, eff. July 4, 1946, 11 F.R. 7517, 60 Stat. 1352; July 16, 1952, ch. 879, §2, 66 Stat. 711; Apr. 27, 1954, ch. 175, §§2, 3, 68 Stat. 64; Aug. 13, 1954, ch. 729, §3, 68 Stat. 707; Aug. 13, 1954, ch. 735, §1, 68 Stat. 729; Aug. 6, 1956, ch. 973, §3, 70 Stat. 1049; Aug. 13, 1965, Pub. L. 89–121, §1, 79 Stat. 511; May 3, 1968, Pub. L. 90–299, §2, 82 Stat. 112; Sept. 13, 1982, Pub. L. 97–259, title I, §120(b), 96 Stat. 1097; Aug. 10, 1993, Pub. L. 103–66, title VI, §6002(b)(2)(B)(ii), 107 Stat. 396; Feb. 8, 1996, Pub. L. 104–104, §3(a), (c), 110 Stat. 58, 61.)
 
 #### References in Text
 
-For definition of Canal Zone, referred to in subsecs. (e) and (g), see section 3602(b) of Title 22, Foreign Relations and Intercourse.
+For definition of Canal Zone, referred to in pars. (22) and (50), see section 3602(b) of Title 22, Foreign Relations and Intercourse.
 
-Part II of subchapter III of this chapter, referred to in subsecs. (x), (y), and (z), is classified to section 351 et seq. of this title. Part III of subchapter III of this chapter, referred to in subsec. (y), is classified to section 381 et seq. of this title.
+Part II of subchapter III of this chapter, referred to in pars. (31), (34), and (36), is classified to section 351 et seq. of this title. Part III of subchapter III of this chapter, referred to in par. (31)(A), is classified to section 381 et seq. of this title.
 
 #### Codification
 
-In subsec. (z)(1), “chapter 71 of title 46” substituted for “the Act of May 12, 1948 (46 U.S.C. 229a–h)” on authority of Pub. L. 98–89, §2(b), Aug. 26, 1983, 97 Stat. 598, section 1 of which enacted Title 46, Shipping.
+In par. (34)(A), “chapter 71 of title 46” substituted for “the Act of May 12, 1948 (46 U.S.C. 229a–h)” on authority of Pub. L. 98–89, §2(b), Aug. 26, 1983, 97 Stat. 598, section 1 of which enacted Title 46, Shipping.
 
-References to Philippine Islands in subsecs. (e) and (g) of this section omitted on authority of Proc. No. 2695, issued pursuant to section 1394 of Title 22, Foreign Relations and Intercourse, which proclamation recognized the independence of Philippine Islands as of July 4, 1946. Proc. No. 2695 is set out under section 1394 of Title 22.
+References to Philippine Islands in pars. (22) and (50) of this section omitted on authority of Proc. No. 2695, issued pursuant to section 1394 of Title 22, Foreign Relations and Intercourse, which proclamation recognized the independence of Philippine Islands as of July 4, 1946. Proc. No. 2695 is set out under section 1394 of Title 22.
 
 #### Amendments
+
+1996—Pub. L. 104–104, §3(a)(2), (c)(4)–(8), redesignated subsecs. (a) to (ff) as pars. (1) to (32), respectively, realigned margins, inserted headings and words “The term”, changed capitalization, added pars. (33) to (51), reordered pars. in alphabetical order based on headings of pars. and renumbered pars. as so reordered.
+
+Subsecs. (e), (n). Pub. L. 104–104, §3(c)(1), redesignated clauses (1) to (3) as (A) to (C), respectively.
+
+Subsec. (r). Pub. L. 104–104, §3(a)(1), designated existing provisions as subpar. (A) and added subpar. (B).
+
+Subsec. (w). Pub. L. 104–104, §3(c)(2), redesignated pars. (1) to (5) as subpars. (A) to (E), respectively.
+
+Subsecs. (y), (z). Pub. L. 104–104, §3(c)(3), redesignated pars. (1) and (2) as subpars. (A) and (B), respectively.
 
 1993—Subsec. (n). Pub. L. 103–66, §6002(b)(2)(B)(ii)(I), inserted cl. (1) designation and added cls. (2) and (3).
 
@@ -150,6 +322,10 @@ Section 19 of act July 16, 1952, provided that: “This Act \[enacting section 1
 
 &emsp;“(2) The amendments made by this Act to section 402 of the Communications Act of 1934 \[section 402 of this title\] (relating to judicial review of orders and decisions of the Commission) shall not apply with respect to any action or appeal which is pending before any court on the date of enactment of this Act \[July 16, 1952\].”
 
+#### Common Terminology
+
+Section 3(b) of Pub. L. 104–104 provided that: “Except as otherwise provided in this Act \[see Short Title of 1996 Amendment note set out under section 609 of this title\], the terms used in this Act have the meanings provided in section 3 of the Communications Act of 1934 (47 U.S.C. 153), as amended by this section.”
+
 #### Great Lakes Agreement
 
 The Great Lakes Agreement, referred to in this section, relates to the bilateral Agreement for the Promotion of Safety on the Great Lakes by Means of Radio, signed at Ottawa, Canada, Feb. 21, 1952; entered into force Nov. 13, 1954, 3 UST 4926. A subsequent agreement for Promotion of Safety on the Great Lakes by Means of Radio, 1973, was signed at Ottawa, Canada, Feb. 26, 1973, and entered into force May 16, 1975, 25 UST 935.
@@ -176,5 +352,5 @@ Service or other valuable consideration as used in provisions relating to disclo
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 225, 332, 541, 556, 557, 741 of this title; title 7 section 924; title 15 section 78c; title 18 section 2510; title 22 section 1465ff.
+This section is referred to in sections 224, 225, 271, 273, 274, 332, 541, 556, 557, 741 of this title; title 7 section 924; title 15 section 78c; title 18 section 2510; title 22 section 1465ff.
 

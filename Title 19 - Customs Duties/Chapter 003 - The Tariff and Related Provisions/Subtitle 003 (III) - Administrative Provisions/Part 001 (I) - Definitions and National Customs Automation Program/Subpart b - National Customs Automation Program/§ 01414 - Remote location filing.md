@@ -14,7 +14,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;In order to qualify for filing from a remote location, a Program participant must have the capability to provide, on an entry-by-entry basis, for the following:
+&emsp;&emsp;In order to qualify for filing from a remote location, a Program participant must havethe capability to provide, on an entry-by-entry basis, for the following:
 
 &emsp;&emsp;&emsp;(i) The electronic entry of merchandise.
 

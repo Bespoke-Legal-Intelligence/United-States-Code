@@ -4,7 +4,7 @@
 
 The first annual report submitted to the Congress under section 3534 of this title—
 
-&emsp;(1) after the end of the 5-year period beginning on the date on which the WTO Agreemententers into force with respect to the United States, and
+&emsp;(1) after the end of the 5-year period beginning on the date on which the WTO Agreement enters into force with respect to the United States, and
 
 &emsp;(2) after the end of every 5-year period thereafter,
 

@@ -16,7 +16,9 @@ Subject to sections 41309 and 42111 of this title, a citizen of the United State
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -26,11 +28,11 @@ Historical and Revision Notes
 
 49 App.:1371(d) (4)(A)(ii) (related to joint rates, fares), (B).
 
-Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §401(d)(4)(A)(ii) (related to joint rates, fares), (B); added Nov. 9, 1977, Pub. L. 95–163, §9, 91 Stat. 1281; restated Oct. 24, 1978, Pub. L. 95–504, §9, 92 Stat. 1713.
+Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §401(d) (4)(A)(ii) (related to joint rates, fares), (B); added Nov. 9, 1977, Pub. L. 95–163, §9, 91 Stat. 1281; restated Oct. 24, 1978, Pub. L. 95–504, §9, 92 Stat. 1713.
 
 &nbsp;
 
-49 App.:1551(b) (1)(E).
+49 App.:1551(b)(1)(E).
 
 Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1601(b)(1)(E); added Oct. 4, 1984, Pub. L. 98–443, §3(e), 98 Stat. 1704.
 
@@ -38,5 +40,5 @@ In this section, before clause (1), the words “Notwithstanding any other provi
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 40109, 41110, 46301 of this title.
+This section is referred to in section 41110 of this title.
 

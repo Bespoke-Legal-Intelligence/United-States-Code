@@ -14,7 +14,7 @@ Section 962(a) of Pub. L. 91–172 provided that: “The amendments made by sect
 
 #### Report on Inventory of Cases in Tax Court
 
-Pub. L. 99–514, title XV, §1552(c), Oct. 22, 1986, 100 Stat. 2753, provided that: “The Secretary of the Treasury or his delegate and the Tax Court shall each prepare a report for 1987 and for each 2-calendar year period thereafter on the inventory of cases in the TaxCourt and the measures to close cases more efficiently. Such reports shall be submitted to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate.”
+Pub. L. 99–514, title XV, §1552(c), Oct. 22, 1986, 100 Stat. 2753, provided that: “The Secretary of the Treasury or his delegate and the Tax Court shall each prepare a report for 1987 and for each 2-calendar year period thereafter on the inventory of cases in the Tax Court and the measures to close cases more efficiently. Such reports shall be submitted to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate.”
 
 #### Continuation of Status
 

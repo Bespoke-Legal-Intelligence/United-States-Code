@@ -31,7 +31,7 @@ Pub. L. 89–197, §§1–11, Sept. 22, 1965, 79 Stat. 828, as amended by Pub. L
 
 #### Coordination of Federal Law Enforcement and Crime Prevention Programs
 
-Designation of Attorney General to coordinate federal law enforcement and crime prevention program, see Ex. Ord. No. 11396, Feb. 7, 1968, 33 F.R. 2689, set out as a note preceding section 1 of this title.
+Designation of Attorney General to coordinate Federal law enforcement and crime prevention program, see Ex. Ord. No. 11396, Feb. 7, 1968, 33 F.R. 2689, set out as a note preceding section 1 of this title.
 
 <i><sup>1</sup></i><i> So in original. First word only of item should be capitalized.</i>
 

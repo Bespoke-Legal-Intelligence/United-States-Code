@@ -2,7 +2,7 @@ Part C—HOPE for Youth: Youthbuild
 
 #### Part Referred to in Other Sections
 
-This part is referred to in section 12870 of this title; title 12 section 1701u.
+This part is referred to in section 12870 of this title; title 12 section 1701u; title 25 section 4183.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “homes”.</i>
 
@@ -22,4 +22,5 @@ This part is referred to in section 12870 of this title; title 12 section 1701u.
 - [&sect; 12899f - Definitions](%C2%A7%2012899f%20-%20Definitions.md)
 - [&sect; 12899g - Management and technical assistance](%C2%A7%2012899g%20-%20Management%20and%20technical%20assistance.md)
 - [&sect; 12899h - Contracts](%C2%A7%2012899h%20-%20Contracts.md)
+- [&sect; 12899h&#8211;1 - Ineligibility of Indian tribes](%C2%A7%2012899h%E2%80%931%20-%20Ineligibility%20of%20Indian%20tribes.md)
 - [&sect; 12899i - Regulations](%C2%A7%2012899i%20-%20Regulations.md)

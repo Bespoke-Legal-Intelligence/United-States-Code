@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary is authorized to provide education and organizational support assistance, inconjunction with other assistance made available under this part—
+The Secretary is authorized to provide education and organizational support assistance, in conjunction with other assistance made available under this part—
 
 &emsp;(1) to facilitate the education of low-income homeowners and tenants;
 

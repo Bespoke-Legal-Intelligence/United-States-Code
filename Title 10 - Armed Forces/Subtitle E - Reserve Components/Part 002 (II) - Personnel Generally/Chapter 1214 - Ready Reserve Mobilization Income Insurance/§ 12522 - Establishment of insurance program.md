@@ -1,0 +1,20 @@
+### §12522. Establishment of insurance program
+
+(a)
+
+Establishment.—The Secretary shall establish for members of the Ready Reserve (including the Coast Guard Reserve) an insurance program to be known as the “Ready Reserve Mobilization Income Insurance Program”.
+
+(b)
+
+Administration.—The insurance program shall be administered by the Secretary. The Secretary may prescribe in regulations such rules, procedures, and policies as the Secretary considers necessary or appropriate to carry out the insurance program.
+
+(c)
+
+Agreement With Secretary of Transportation.—The Secretary and the Secretary of Transportation shall enter into an agreement with respect to the administration of the insurance program for the Coast Guard Reserve.
+
+(Added Pub. L. 104–106, div. A, title V, §512(a)(1), Feb. 10, 1996, 110 Stat. 299.)
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 12521 of this title.
+

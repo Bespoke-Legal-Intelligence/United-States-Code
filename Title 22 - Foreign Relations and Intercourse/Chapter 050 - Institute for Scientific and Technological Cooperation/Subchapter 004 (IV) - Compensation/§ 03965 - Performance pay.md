@@ -46,7 +46,7 @@ Section 173(a)–(c) of Pub. L. 103–236, as amended by Pub. L. 103–415, §1(
 
 “(a)
 
-Prohibition on Awards.—Notwithstanding any other provision of law, the Secretary of State may notaward or pay performance payments for fiscal years 1994 and 1995 under section 405 of the Foreign Service Act of 1980 (22 U.S.C. 3965), unless the Secretary awards or pays performance awards to other Federal employees for such fiscal years.
+Prohibition on Awards.—Notwithstanding any other provision of law, the Secretary of State may not award or pay performance payments for fiscal years 1994 and 1995 under section 405 of the Foreign Service Act of 1980 (22 U.S.C. 3965), unless the Secretary awards or pays performance awards to other Federal employees for such fiscal years.
 
 “(b)
 

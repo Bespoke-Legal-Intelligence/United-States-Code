@@ -6,17 +6,14 @@
 | :--- | ---: |
 | [5601\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2005601%20-%20Purpose.md) | Purpose. |
 | [5602\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2005602%20-%20Definitions.md) | Definitions. |
-| [5603\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2005603%20-%20Development%20of%20agricultural%20trade%20strategy.md) | Development of agricultural trade strategy. |
+| [5603\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2005603%20-%20Agricultural%20export%20promotion%20strategy.md) | Agricultural export promotion strategy. |
 | (a) | In general. |
-| (b) | Goals. |
-| (c) | Contents. |
-| (d) | Establishment of priority markets. |
-| (e) | Review of strategy. |
-| (f) | Confidentiality. |
-| (g) | Information. |
-| (h) | Termination. |
+| (b) | Purpose of strategy. |
+| (c) | Goals of strategy. |
+| (d) | Priority markets. |
 | [5604\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2005604%20-%20Preservation%20of%20traditional%20markets.md) | Preservation of traditional markets. |
 | [5605\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2005605%20-%20Independence%20of%20authorities.md) | Independence of authorities. |
+| [5606\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2005606%20-%20Implementation%20of%20commitments%20under%20Uruguay%20Round%20Agreements.md) | Implementation of commitments under Uruguay Round Agreements. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -41,11 +38,11 @@
 | (e) | Restrictions on use of credit guarantees. |
 | (f) | Restrictions. |
 | (g) | Terms. |
-| (h) | Foreign agricultural components. |
+| (h) | United States agricultural commodities. |
 | (i) | Ineligibility of financial institutions. |
 | (j) | Conditions for fish and processed fish products. |
-| (k) | Set-asides. |
-| [5623\.](Subchapter%20002%20%28II%29%20-%20Agricultural%20Export%20Programs/Part%20A%20-%20Programs/%C2%A7%2005623%20-%20Market%20promotion%20program.md) | Market promotion program. |
+| (k) | Processed and high-value products. |
+| [5623\.](Subchapter%20002%20%28II%29%20-%20Agricultural%20Export%20Programs/Part%20A%20-%20Programs/%C2%A7%2005623%20-%20Market%20access%20program.md) | Market access program. |
 | (a) | In general. |
 | (b) | Type of assistance. |
 | (c) | Requirements for participation. |
@@ -71,7 +68,7 @@
 | [5641\.](Subchapter%20002%20%28II%29%20-%20Agricultural%20Export%20Programs/Part%20B%20-%20Implementation/%C2%A7%2005641%20-%20Funding%20levels.md) | Funding levels. |
 | (a) | Direct credit programs. |
 | (b) | Export credit guarantee programs. |
-| (c) | Marketing promotion programs. |
+| (c) | Market access programs. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -87,6 +84,7 @@
 | (e) | Funding levels. |
 | (f) | Effect on third countries. |
 | (g) | Consistency with international obligations. |
+| (h) | Priority funding for intermediate products. |
 | [5652\.](Subchapter%20003%20%28III%29%20-%20Export%20Enhancement%20Program/%C2%A7%2005652%20-%20Relief%20from%20unfair%20trade%20practices.md) | Relief from unfair trade practices. |
 | (a) | Use of programs. |
 | (b) | Consultations required. |
@@ -112,7 +110,7 @@
 | [5663\.](Subchapter%20004%20%28IV%29%20-%20General%20Provisions/Part%20A%20-%20Program%20Controls/%C2%A7%2005663%20-%20Departmental%20administration%20system.md) | Departmental administration system. |
 | (a) | In general. |
 | (b) | Accessibility of information. |
-| [5664\.](Subchapter%20004%20%28IV%29%20-%20General%20Provisions/Part%20A%20-%20Program%20Controls/%C2%A7%2005664%20-%20Regulations.md) | Regulations. |
+| [5664\.](Subchapter%20004%20%28IV%29%20-%20General%20Provisions/Part%20A%20-%20Program%20Controls/%C2%A7%2005664%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93127%2C%20title%20II%2C%20%C2%A7248%2C%20Apr.%204%2C%201996%2C%20110%20Stat.%20969.md) | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -133,6 +131,7 @@
 | [5674\.](Subchapter%20004%20%28IV%29%20-%20General%20Provisions/Part%20B%20-%20Miscellaneous%20Provisions/%C2%A7%2005674%20-%20Trade%20consultations%20concerning%20imports.md) | Trade consultations concerning imports. |
 | (a) | Consultation between agencies. |
 | (b) | Consultation with Trade Representative. |
+| (c) | Monitoring compliance with sanitary and phytosanitary measures. |
 | [5675\.](Subchapter%20004%20%28IV%29%20-%20General%20Provisions/Part%20B%20-%20Miscellaneous%20Provisions/%C2%A7%2005675%20-%20Technical%20assistance%20in%20trade%20negotiations.md) | Technical assistance in trade negotiations. |
 | [5676\.](Subchapter%20004%20%28IV%29%20-%20General%20Provisions/Part%20B%20-%20Miscellaneous%20Provisions/%C2%A7%2005676%20-%20Limitation%20on%20use%20of%20certain%20export%20promotion%20programs.md) | Limitation on use of certain export promotion programs. |
 | (a) | In general. |
@@ -140,6 +139,25 @@
 | (c) | Certification. |
 | (d) | Regulations. |
 | (e) | Applicability. |
+| [5677\.](Subchapter%20004%20%28IV%29%20-%20General%20Provisions/Part%20B%20-%20Miscellaneous%20Provisions/%C2%A7%2005677%20-%20Trade%20compensation%20and%20assistance%20programs.md) | Trade compensation and assistance programs. |
+| (a) | In general. |
+| (b) | Compensation or provision of funds. |
+| (c) | Determination of amount of compensation or funds. |
+| (d) | Duration of program. |
+| (e) | Commodity Credit Corporation. |
+| (f) | Exception to carrying out program. |
+| (g) | Partial year embargoes. |
+| (h) | Short supply embargoes. |
+| [5678\.](Subchapter%20004%20%28IV%29%20-%20General%20Provisions/Part%20B%20-%20Miscellaneous%20Provisions/%C2%A7%2005678%20-%20Edward%20R.%20Madigan%20United%20States%20Agricultural%20Export%20Excellence%20Award.md) | Edward R. Madigan United States Agricultural Export Excellence Award. |
+| (a) | Findings. |
+| (b) | Establishment. |
+| (c) | Selection of recipient. |
+| (d) | Presentation of award. |
+| (e) | Publication of award. |
+| (f) | Categories for which award may be given. |
+| (g) | Criteria for qualification. |
+| (h) | Board. |
+| (i) | Funding. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -152,7 +170,7 @@
 | (a) | Establishment. |
 | (b) | Duties. |
 | (c) | Use of Service. |
-| [5693\.](Subchapter%20005%20%28V%29%20-%20Foreign%20Agricultural%20Service/%C2%A7%2005693%20-%20Establishment%20of%20Foreign%20Agricultural%20Service.md) | Establishment of Foreign Agricultural Service. |
+| [5693\.](Subchapter%20005%20%28V%29%20-%20Foreign%20Agricultural%20Service/%C2%A7%2005693%20-%20Duties%20of%20Foreign%20Agricultural%20Service.md) | Duties of Foreign Agricultural Service. |
 | [5694\.](Subchapter%20005%20%28V%29%20-%20Foreign%20Agricultural%20Service/%C2%A7%2005694%20-%20Staff%20of%20Foreign%20Agricultural%20Service.md) | Staff of Foreign Agricultural Service. |
 | (a) | Personnel of Service. |
 | (b) | Rank of Foreign Agricultural Service officers in foreign missions. |
@@ -164,19 +182,24 @@
 
 |  |  |
 | :--- | ---: |
-| [5711\.](Subchapter%20006%20%28VI%29%20-%20Reports/%C2%A7%2005711%20-%20Long-term%20agricultural%20trade%20strategy%20report.md) | Long-term agricultural trade strategy report. |
-| (a) | In general. |
-| (b) | Frequency. |
-| (c) | Contents. |
-| (d) | Consultation. |
-| (e) | Update. |
-| (f) | Treatment as annual budget submission. |
-| (g) | Availability of report. |
+| [5711\.](Subchapter%20006%20%28VI%29%20-%20Reports/%C2%A7%2005711%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93127%2C%20title%20II%2C%20%C2%A7241%28c%29%281%29%2C%20Apr.%204%2C%201996%2C%20110%20Stat.%20964.md) | Repealed. |
 | [5712\.](Subchapter%20006%20%28VI%29%20-%20Reports/%C2%A7%2005712%20-%20Export%20reporting%20and%20contract%20sanctity.md) | Export reporting and contract sanctity. |
 | (a) | Export sales reports. |
 | (b) | Failure to report. |
 | (c) | Contract sanctity. |
 | [5713\.](Subchapter%20006%20%28VI%29%20-%20Reports/%C2%A7%2005713%20-%20Other%20reports%20to%20Congress.md) | Other reports to Congress. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### SUBCHAPTER VII—FOREIGN MARKET DEVELOPMENT COOPERATOR PROGRAM
+
+|  |  |
+| :--- | ---: |
+| [5721\.](Subchapter%20007%20%28VII%29%20-%20Foreign%20Market%20Development%20Cooperator%20Program/%C2%A7%2005721%20-%20%E2%80%9CEligible%20trade%20organization%E2%80%9D%20defined.md) | “Eligible trade organization” defined. |
+| [5722\.](Subchapter%20007%20%28VII%29%20-%20Foreign%20Market%20Development%20Cooperator%20Program/%C2%A7%2005722%20-%20Foreign%20market%20development%20cooperator%20program.md) | Foreign market development cooperator program. |
+| (a) | In general. |
+| (b) | Administration. |
+| [5723\.](Subchapter%20007%20%28VII%29%20-%20Foreign%20Market%20Development%20Cooperator%20Program/%C2%A7%2005723%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -195,3 +218,4 @@ The Agricultural Trade Act of 1978, comprising this chapter, was originally enac
 - [Subchapter 004 (IV) - General Provisions](Subchapter%20004%20%28IV%29%20-%20General%20Provisions/README.md)
 - [Subchapter 005 (V) - Foreign Agricultural Service](Subchapter%20005%20%28V%29%20-%20Foreign%20Agricultural%20Service/README.md)
 - [Subchapter 006 (VI) - Reports](Subchapter%20006%20%28VI%29%20-%20Reports/README.md)
+- [Subchapter 007 (VII) - Foreign Market Development Cooperator Program](Subchapter%20007%20%28VII%29%20-%20Foreign%20Market%20Development%20Cooperator%20Program/README.md)

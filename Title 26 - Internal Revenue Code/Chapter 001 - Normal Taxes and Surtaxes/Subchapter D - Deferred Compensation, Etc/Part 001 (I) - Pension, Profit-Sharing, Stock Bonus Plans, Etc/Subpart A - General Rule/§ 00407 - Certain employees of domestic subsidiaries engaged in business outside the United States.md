@@ -24,7 +24,7 @@
 
 &emsp;&emsp;&emsp;(iii) 90 percent or more of its gross income for such period (or such part) was derived from the active conduct of a trade or business.
 
-> &emsp;&emsp;If for the period (or part thereof) referred to in clauses (ii) and (iii) such corporation has no gross income, the provisions of clauses (ii) and (iii) shall be treated as satisfied if it is reasonable to anticipate that, with respect to the first taxable year thereafter for which such corporation has gross income, the provisions of such clauses will be satisfied.
+> &emsp;&emsp;If for the period (or part thereof) referred to in clauses (ii) and (iii) such corporation hasno gross income, the provisions of clauses (ii) and (iii) shall be treated as satisfied if it is reasonable to anticipate that, with respect to the first taxable year thereafter for which such corporation has gross income, the provisions of such clauses will be satisfied.
 
 #### (B) Domestic parent corporation
 
@@ -72,13 +72,17 @@ An individual who is treated as an employee of a domestic parent corporation und
 
 &emsp;(1) Section 72(f) (relating to special rules for computing employees’ contributions).
 
-&emsp;(2) Section 101(b) (relating to employees’ death benefits).
+&emsp;(2) Section 2039 (relating to annuities).
 
-&emsp;(3) Section 2039 (relating to annuities).
+(Added Pub. L. 88–272, title II, §220(b), Feb. 26, 1964, 78 Stat. 60; amended Pub. L. 91–172, title V, §515(c)(3), Dec. 30, 1969, 83 Stat. 646; Pub. L. 93–406, title II, §§1016(a)(5), 2005(c)(13), Sept. 2, 1974, 88 Stat. 929, 992; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 98–21, title III, §321(d), Apr. 20, 1983, 97 Stat. 119; Pub. L. 98–369, div. A, title IV, §491(d)(16)–(18), July 18, 1984, 98 Stat. 850; Pub. L. 99–514, title XI, §§1112(d)(3), 1114(b)(9)(B), (C), title XVIII, §1852(e)(2)(D), Oct. 22, 1986, 100 Stat. 2445, 2451, 2868; Pub. L. 100–647, title I, §1011A(b)(1)(C), (16), Nov. 10, 1988, 102 Stat. 3472, 3475; Pub. L. 101–239, title VII, §§7811(g)(3), 7831(f), Dec. 19, 1989, 103 Stat. 2409, 2427; Pub. L. 102–318, title V, §521(b)(15), July 3, 1992, 106 Stat. 311; Pub. L. 104–188, title I, §§1401(b)(8), 1402(b)(2), Aug. 20, 1996, 110 Stat. 1789, 1790.)
 
-(Added Pub. L. 88–272, title II, §220(b), Feb. 26, 1964, 78 Stat. 60; amended Pub. L. 91–172, title V, §515(c)(3), Dec. 30, 1969, 83 Stat. 646; Pub. L. 93–406, title II, §§1016(a)(5), 2005(c)(13), Sept. 2, 1974, 88 Stat. 929, 992; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 98–21, title III, §321(d), Apr. 20, 1983, 97 Stat. 119; Pub. L. 98–369, div. A, title IV, §491(d)(16)–(18), July 18, 1984, 98 Stat. 850; Pub. L. 99–514, title XI, §§1112(d)(3), 1114(b)(9)(B), (C), title XVIII, §1852(e)(2)(D), Oct. 22, 1986, 100 Stat. 2445, 2451, 2868; Pub. L. 100–647, title I, §1011A(b)(1)(C), (16), Nov. 10, 1988, 102 Stat. 3472, 3475; Pub. L. 101–239, title VII, §§7811(g)(3), 7831(f), Dec. 19, 1989, 103 Stat. 2409, 2427; Pub. L. 102–318, title V, §521(b)(15), July 3, 1992, 106 Stat. 311.)
+#### Repeal of Subsection (c)
+
+<i>Pub. L. 104–188, title I, §1401(b)(8), (c), Aug. 20, 1996, 110 Stat. 1789, provided that, applicable to taxable years beginning after Dec. 31, 1999, with retention of certain transition rules, subsection (c) of this section is repealed.</i>
 
 #### Amendments
+
+1996—Subsec. (e)(2), (3). Pub. L. 104–188, §1402(b)(2), redesignated par. (3) as (2) and struck out former par. (2)which read as follows: “Section 101(b) (relating to employees’ death benefits).”
 
 1992—Subsec. (c). Pub. L. 102–318 substituted “402(d)” for “402(e)”.
 
@@ -115,6 +119,12 @@ Subsec. (d)(2). Pub. L. 98–369, §491(d)(18)(C), struck out “(or section 405
 Subsec. (c). Pub. L. 93–406, §2005(c)(13), substituted “subsections (a)(2) and (e) of section 402” for “section 72(n), section 402(a)(2)”.
 
 1969—Subsec. (c). Pub. L. 91–172 substituted “provisions and limitation of tax” for “provisions” in heading, and substituted “section 72(n), section 402(a)(2),” for “section 402(a)(2)” in text.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by section 1401(b)(8) of Pub. L. 104–188 applicable to taxable years beginning after Dec. 31, 1999, with retention of certain transition rules, see section 1401(c) of Pub. L. 104–188, set out as a note under section 402 of this title.
+
+Amendment by section 1402(b)(2) of Pub. L. 104–188 applicable with respect to decedents dying after Aug. 20, 1996, see section 1402(c) of Pub. L. 104–188, set out as a note under section 101 of this title.
 
 #### Effective Date of 1992 Amendment
 
@@ -162,7 +172,11 @@ Section applicable to taxable years ending after Dec. 31, 1963, see section 220(
 
 #### Regulations
 
-Secretary of the Treasury or his delegate to issue before Feb. 1, 1988, final regulations to carry out amendments made by sections 1112 and 1114 of Pub. L. 99–514, see section 1141 of Pub. L. 99–514, set out as a note under section 401 of this title.
+Secretary of the Treasury or his delegate to issue before Feb. 1, 1988, final regulations to carry out amendments made by sections 1112 and 1114 of Pub. L. 99–514,see section 1141 of Pub. L. 99–514, set out as a note under section 401 of this title.
+
+#### Plan Amendments Not Required Until January 1, 1998
+
+For provisions directing that if any amendments made by subtitle D \[§§1401–1465\] of title I of Pub. L. 104–188 require an amendment to any plan or annuity contract, such amendment shall not be required to be made before the first day of the first plan year beginning on or after Jan. 1, 1998, see section 1465 of Pub. L. 104–188, set out as a note under section 401 of this title.
 
 #### Plan Amendments Not Required Until January 1, 1994
 

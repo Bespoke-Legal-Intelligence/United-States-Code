@@ -6,7 +6,7 @@ Without further appropriation and without fiscal year limitation, the Secretarie
 
 #### References in Text
 
-The Pacific Northwest Electric Power Planning and Conservation Act, referred to in text, is Pub. L. 96–501, Dec. 5, 1980, 94 Stat. 2697, which is classified principally to this chapter (§839 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 839 of this title and Tables.
+The Pacific Northwest Electric Power Planning and Conservation Act, referred to in text, is Pub. L. 96–501, Dec. 5, 1980, 94 Stat. 2697, which is classified principallyto this chapter (§839 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 839 of this title and Tables.
 
 #### Codification
 

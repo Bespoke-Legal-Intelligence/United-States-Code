@@ -6,7 +6,7 @@ Commercial Practices.—The Secretary of Transportation may carry out this chapt
 
 (b)
 
-Issuance of Policies and Disposition of Claims.—(1) The Secretary may issue insurance policies to carry out this chapter. The Secretary may prescribe the forms, amounts insured under the policies, and premiums charged. The Secretary may change an amount of insurance or a premium for an existing policy only with the consent of the insured.
+Issuance of Policies and Disposition of Claims.—(1) The Secretary may issue insurance policies to carry out this chapter. The Secretary may prescribe the forms, amounts insured underthe policies, and premiums charged. The Secretary may change an amount of insurance or a premium for an existing policy only with the consent of the insured.
 
 (2) For a claim under insurance authorized by this chapter, the Secretary may—
 
@@ -28,13 +28,15 @@ Budget.—The Secretary shall submit annually a budget program for carrying out 
 
 (e)
 
-Accounts.—The Secretary shall maintain a set of accounts. The Comptroller General shall audit those accounts under chapter 35 of title 31. Notwithstanding chapter 35, the Comptroller General shall allow credit for expenditures under this chapter made consistent with commercial practices in the aviation insurance business when shown to be necessary because of the business activities authorized by this chapter.
+Accounts.—The Secretary shall maintain a set of accounts for audit under chapter 35 of title 31. Notwithstanding chapter 35, the Comptroller General shall allow credit for expenditures under this chapter made consistent with commercial practices in the aviation insurance business when shown to be necessary because of the business activities authorized by this chapter.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1171.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1171; Pub. L. 104–316, title I, §127(e), Oct. 19, 1996, 110 Stat. 3840.)
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -92,9 +94,13 @@ In subsection (c)(1), the words “and when practical shall” are substituted f
 
 In subsection (c)(2), the words “pay reasonable compensation” are substituted for “allow . . . fair and reasonable compensation” for consistency in the revised title. The words “an underwriting agent” are substituted for “such companies or groups of companies”, and the words “the agent writes” are substituted for “written by such companies or groups of companies as underwriting agent”, for clarity. The word “payment” is substituted for “allowance” for consistency.
 
-In subsection (c)(3), the words “intermediary” and “fee or other” are omitted as surplus. The word “for”is substituted for “by virtue of his participation in” to eliminate unnecessary words.
+In subsection (c)(3), the words “intermediary” and “fee or other” are omitted as surplus. The word “for” is substituted for “by virtue of his participation in” to eliminate unnecessary words.
 
 In subsection (d), the word “prepare” is omitted as being included in “submit”. The words “for carrying out this chapter” are substituted for “in the performance of, and with respect to, the functions, powers, and duties vested in him by this subchapter” for consistency and to eliminate unnecessary words. The words “under chapter 91 of title 31” are substituted for “by the Government Corporation Control Act, as amended (59 Stat. 597; 31 U.S.C. 841)” in section 1307(f) of the Act of August 23, 1958 (Public Law 85–726, 72 Stat. 804) because of section 4(b) of the Act of September 13, 1982 (Public Law 97–258, 96 Stat. 1067).
 
 In subsection (e), the words “under chapter 35 of title 31” are substituted for “in accordance with the provisions of the Accounting and Auditing Act of 1950” in section 1307(f) of the Act of August 23, 1958 (Public Law 85–726, 72 Stat. 804) because of section 4(b) of the Act of September 13, 1982 (Public Law 97–258, 96 Stat. 1067). The words “<i>Provided</i>, That . . . the Secretary may exercise the powers conferred in said subchapter, perform the duties and functions” are omitted as surplus. The words “Notwithstanding chapter 35” are added for clarity. The words “Comptroller General” are substituted for “General Accounting Office” because of 31:702.
+
+#### Amendments
+
+1996—Subsec. (e). Pub. L. 104–316 substituted “for audit” for “. The Comptroller General shall audit those accounts”.
 

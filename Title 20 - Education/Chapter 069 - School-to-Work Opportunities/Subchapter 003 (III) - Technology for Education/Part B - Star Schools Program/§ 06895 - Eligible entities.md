@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(A) a public agency or corporation established for the purpose of developing and operating telecommunications networks to enhance educational opportunities provided by educational institutions, teacher training centers, and other entities, except that any such agency or corporation shall represent the interests of elementary and secondary schools that are eligible to participate in the program under part A of subchapter I of this chapter; or
 
-&emsp;&emsp;(B) a partnership that will provide telecommunications services and which includes 3 or more of the following entities, at least 1 of which shall be an agency described in clause (i) or (ii):
+&emsp;&emsp;(B) a partnership that will provide telecommunications services and which includes3 or more of the following entities, at least 1 of which shall be an agency described in clause (i) or (ii):
 
 &emsp;&emsp;&emsp;(i) a local educational agency that serves a significant number of elementary and secondary schools that are eligible for assistance under part A of subchapter I of this chapter, or elementary and secondary schools operated or funded for Indian children by the Department of the Interior eligible under section 6331(b)(2) <sup>1</sup> of this title;
 

@@ -10,7 +10,7 @@ In the development of such plan, the Secretary shall consider the historic, arch
 
 #### (c) Scenic roads and other means of transit
 
-The Secretary shall, as a part of his comprehensive planning process, conduct a detailed study of the need for, and alternative routes of, scenic roads and other means of transit to and within the recreation area. In conducting such study the Secretary shall consider the alternative for upgrading existing roads and shall, in particular, study the need for and alternative routes of roads or other means of transit providing access to scenic views of and from the Western rim of Hells Canyon.
+The Secretary shall, as a part of his comprehensive planning process, conduct a detailed study of the need for, and alternative routes of, scenic roads and other means of transit to and within the recreation area. In conducting such study the Secretary shall consider the alternative for upgrading existing roads and shall, in particular, study the need for and alternativeroutes of roads or other means of transit providing access to scenic views of and from the Western rim of Hells Canyon.
 
 #### (d) Wilderness areas; review by Secretary; recommendations of President to Congress; notice of hearings and meetings
 

@@ -4,11 +4,11 @@ For purposes of this subchapter—
 
 &emsp;(1) “agency” means any Executive agency, any military department, the Government Printing Office, and the Library of Congress;
 
-&emsp;(2) “employee” has the meaning given it by section 2105 of this title;
+&emsp;(2) “employee” has the meaning given the term in subsection (a) of section 2105 of this title, except that such term also includes an employee described in subsection (c) of that section;
 
 &emsp;(3) “basic work requirement” means the number of hours, excluding overtime hours, which an employee is required to work or is required to account for by leave or otherwise;
 
-&emsp;(4) “credit hours” means any hours, within a flexible schedule established under section 6122 of this title, which are in excess of an employee's basic work requirement and which theemployee elects to work so as to vary the length of a workweek or a workday;
+&emsp;(4) “credit hours” means any hours, within a flexible schedule established under section 6122 of this title, which are in excess of an employee's basic work requirement and which the employee elects to work so as to vary the length of a workweek or a workday;
 
 &emsp;(5) “compressed schedule” means—
 
@@ -26,9 +26,15 @@ For purposes of this subchapter—
 
 &emsp;&emsp;(B) in the case of any other unit, by the corresponding provisions applicable under the personnel system covering this unit.
 
-(Added Pub. L. 97–221, §2(a)(2), July 23, 1982, 96 Stat. 227; amended Pub. L. 101–163, title III, §312, Nov. 21, 1989, 103 Stat. 1065.)
+(Added Pub. L. 97–221, §2(a)(2), July 23, 1982, 96 Stat. 227; amended Pub. L. 101–163, title III, §312, Nov. 21, 1989, 103 Stat. 1065; Pub. L. 104–106, div. A, title X, §1041, Feb. 10, 1996, 110 Stat. 433.)
 
 #### Amendments
 
-<b>1989</b>—Par. (1). Pub. L. 101–163 inserted “the Government Printing Office,” after “military department,”.
+1996—Par. (2). Pub. L. 104–106 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “ ‘employee’ has the meaning given it by section 2105 of this title;”.
+
+1989—Par. (1). Pub. L. 101–163 inserted “the Government Printing Office,” after “military department,”.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 6103 of this title.
 

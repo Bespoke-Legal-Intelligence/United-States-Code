@@ -38,5 +38,5 @@ Amendment by Pub. L. 98–369 effective Oct. 1, 1984, except as otherwise provid
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 654, 1396a, 1396b of this title; title 29 section 1169.
+This section is referred to in sections 652, 654, 666, 1396a, 1396b of this title; title 29 section 1169.
 

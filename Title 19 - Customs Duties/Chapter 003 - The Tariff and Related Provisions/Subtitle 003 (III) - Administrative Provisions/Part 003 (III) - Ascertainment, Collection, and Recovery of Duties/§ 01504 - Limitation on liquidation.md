@@ -2,7 +2,7 @@
 
 #### (a) Liquidation
 
-Unless an entry is extended under subsection (b) of this section or suspended as required bystatute or court order, except as provided in section 1675(a)(3) of this title, an entry of merchandise not liquidated within one year from:
+Unless an entry is extended under subsection (b) of this section or suspended as required by statute or court order, except as provided in section 1675(a)(3) of this title, an entry of merchandise not liquidated within one year from:
 
 &emsp;(1) the date of entry of such merchandise;
 
@@ -30,15 +30,17 @@ If the liquidation of any entry is suspended, the Secretary shall by regulation 
 
 #### (d) Removal of suspension
 
-Except as provided in section 1675(a)(3) of this title, when a suspension required by statute or court order is removed, the Customs Service shall liquidate the entry within 6 months after receiving notice of the removal from the Department of Commerce, other agency, or a court with jurisdiction over the entry. Any entry not liquidated by the Customs Service within 6 months after receiving such notice shall be treated as having been liquidated at the rate of duty, value, quantity, and amount of duty asserted at the time of entry by the importer of record.
+Except as provided in section 1675(a)(3) of this title, when a suspension required by statute or court order is removed, the Customs Service shall liquidate the entry, unless liquidation is extended under subsection (b) of this section, within 6 months after receiving notice of the removal from the Department of Commerce, other agency, or a court with jurisdiction over the entry. Any entry (other than an entry with respect to which liquidation has been extended under subsection (b) of this section) not liquidated by the Customs Service within 6 months after receiving such notice shall be treated as having been liquidated at the rate of duty, value, quantity, and amount of duty asserted at the time of entry by the importer of record.
 
-(June 17, 1930, ch. 497, title IV, §504, as added Oct. 3, 1978, Pub. L. 95–410, title II, §209(a), 92 Stat. 902; amended Oct. 30, 1984, Pub. L. 98–573, title I, §191(d), 98 Stat. 2971; Dec. 8, 1993, Pub. L. 103–182, title VI, §641, 107 Stat. 2204; Dec. 8, 1994, Pub. L. 103–465, title II, §220(c), 108 Stat. 4865.)
+(June 17, 1930, ch. 497, title IV, §504, as added Oct. 3, 1978, Pub. L. 95–410, title II, §209(a), 92 Stat. 902; amended Oct. 30, 1984, Pub. L. 98–573, title I, §191(d), 98 Stat. 2971; Dec. 8, 1993, Pub. L. 103–182, title VI, §641, 107 Stat. 2204; Dec. 8, 1994, Pub. L. 103–465, title II, §220(c), 108 Stat. 4865; Oct. 11, 1996, Pub. L. 104–295, §3(a)(7), 110 Stat. 3516.)
 
 #### Prior Provisions
 
 A prior section 1504, act June 17, 1930, ch. 497, title IV, §504, 46 Stat. 732, related to duties on coverings and containers, prior to repeal by Pub. L. 87–456, title III, §301(a), May 24, 1962, 76 Stat. 75, effective, pursuant to section 501(a) of Pub. L. 87–456, with respect to articles entered, or withdrawn from warehouse, for consumption on or after Aug. 31, 1963.
 
 #### Amendments
+
+1996—Subsec. (d). Pub. L. 104–295 inserted “, unless liquidation is extended under subsection (b) of this section,” after “shall liquidate the entry” in first sentence, and “(other than an entry with respect to which liquidation has been extended under subsection (b) of this section)” after “Any entry” in second sentence.
 
 1994—Subsec. (a). Pub. L. 103–465, §220(c)(1), inserted “except as provided in section 1675(a)(3) of this title,” before “an entry of merchandise not liquidated” in introductory provisions.
 
@@ -68,9 +70,13 @@ Subsec. (c). Pub. L. 98–573, §191(d)(3), substituted “importer of record”
 
 Subsec. (d). Pub. L. 98–573, §191(d)(4), substituted “importer of record” for “importer, his consignee, or agent”.
 
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–295 applicable as of Dec. 8, 1993, see section 3(b) of Pub. L. 104–295, set out as a note under section 1321 of this title.
+
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the date on which the WTOAgreement enters into force with respect to the United States \[Jan. 1, 1995\], and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of this chapter after such date, see section 291 of Pub. L. 103–465, set out as a note under section 1671 of this title.
+Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the date on which the WTO Agreement enters into force with respect to the United States \[Jan. 1, 1995\], and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of this chapter after such date, see section 291 of Pub. L. 103–465, set out as a note under section 1671 of this title.
 
 #### Effective Date of 1984 Amendment
 

@@ -4,7 +4,7 @@
 
 (1) The Secretary is also authorized to make or insure loans to associations, including corporations not operated for profit, Indian tribes on Federal and State reservations and other federally recognized Indian tribes, and public and quasi-public agencies to provide for the application or establishment of soil conservation practices, shifts in land use, the conservation, development, use, and control of water, and the installation or improvement of drainage or waste disposal facilities, recreational developments, and essential community facilities including necessary related equipment, all primarily serving farmers, ranchers, farm tenants, farm laborers, rural businesses, and other rural residents, and to furnish financial assistance or other aid in planning projects for such purposes. The Secretary may also make loans to any borrower to whom a loan has been made under the Rural Electrification Act of 1936 (7 U.S.C. 901 et seq.), for the conservation, development, use, and control of water, and the installation of drainage or waste disposal facilities, primarily serving farmers, ranchers, farm tenants, farm laborers, rural businesses, and other rural residents. When any loan made for a purpose specified in this paragraph is sold out of the Agricultural Credit Insurance Fund as an insured loan, the interest or other income thereon paid to an insured holder shall be included in gross income for purposes of chapter 1 of title 26. With respect to loans of less than $500,000 made or insured under this paragraph that are evidenced by notes and mortgages, as distinguished from bond issues, borrowers shall not be required to appoint bond counsel to review the legal validity of the loan whenever the Secretary has available legal counsel to perform such review.
 
-(2) The Secretary is authorized to make grants aggregating not to exceed $500,000,000 in any fiscal year to such associations to finance specific projects for works for the development, storage, treatment, purification, or distribution of water or the collection, treatment, or disposal of waste in rural areas. The amount of any grant made under the authority of this paragraph shall not exceed 75 per centum of the development cost of the project to serve the area which the association determines can be feasibly served by the facility and to adequately serve the reasonably foreseeable growth needs of the area. The Secretary shall fix the grant rate for each project in conformity with regulations issued by the Secretary that shall provide for a graduated scale of grant rates establishing higher rates for projects in communities that have lower community population and income levels.
+(2) The Secretary is authorized to make grants aggregating not to exceed $590,000,000 in any fiscal year to such associations to finance specific projects for works for the development, storage, treatment, purification, or distribution of water or the collection, treatment, or disposal of waste in rural areas. The amount of any grant made under the authority of this paragraph shall not exceed 75 per centum of the development cost of the project to serve the area which the association determines can be feasibly served by the facility and to adequately serve the reasonably foreseeable growth needs of the area. The Secretary shall fix the grant rate for each project in conformity with regulations issued by the Secretary that shall provide for a graduated scale of grant rates establishing higher rates for projects in communities that have lower community population and income levels.
 
 (3) No grant shall be made under paragraph (2) of this subsection in connection with any project unless the Secretary determines that the project (i) will serve a rural area which, if such project is carried out, is not likely to decline in population below that for which the project was designed, (ii) is designed and constructed so that adequate capacity will or can be made available to serve the present population of the area to the extent feasible and to serve the reasonably foreseeable growth needs of the area, and (iii) is necessary for an orderly community development consistent with a comprehensive community water, waste disposal, or other development plan of the rural area.
 
@@ -12,111 +12,125 @@
 
 (B) The term “project” shall include facilities providing central service or facilities serving individual properties, or both.
 
-(5) Repealed. Pub. L. 92–419, title I, §110, Aug. 30, 1972, 86 Stat. 659.
+(5)
+
+Application requirements.—Not earlier than 60 days before a preliminary application is filed for a loan under paragraph (1) or a grant under paragraph (2) for a water or waste disposal purpose, a notice of the intent of the applicant to apply for the loan or grant shall be published in a general circulation newspaper. The selection of engineers for a project design shall be done by a request for proposals by the applicant.
 
 (6) The Secretary may make grants aggregating not to exceed $30,000,000 in any fiscal year to public bodies or such other agencies as the Secretary may determine having authority to prepare comprehensive plans for the development of water or waste disposal systems in rural areas which do not have funds available for immediate undertaking of the preparation of such plan.
 
-(7) As used in this chapter, the terms “rural” and “rural area” shall not include any area in any city or town which has a population in excess of ten thousand inhabitants, except that (A) for the purpose of loans for essential community facilities under subsection (a)(1) of this section, the terms “rural” and “rural area” may include any area in any city or town that has a population not in excess of twenty thousand inhabitants; and (B) for purposes of loans and grants for private business enterprises under sections 1924(b), 1932 and 1942(b), (c), and (d) of this title the terms “rural” and “rural area” may include all territory of a State that is not within the outer boundary of any city having a population of fifty thousand or more and its immediately adjacent urbanized and urbanizing areas with a population density of more than one hundred persons per square mile, as determined by the Secretary of Agriculture according to the latest decennial census of the United States: <i>Provided</i>, That special consideration for such loans andgrants shall be given to areas other than cities having a population of more than twenty-five thousand.
+(7)
+
+Definition of rural and rural areas.—For the purpose of water and waste disposal grants and direct and guaranteed loans provided under paragraphs (1) and (2), the terms “rural” and “rural area” mean a city, town, or unincorporated area that has a population of no more than 10,000 inhabitants.
 
 (8) In each instance where the Secretary receives two or more applications for financial assistance for projects that would serve substantially the same group of residents within a single rural area, and one such application is submitted by a city, town, county or other unit of general local government, he shall, in the absence of substantial reasons to the contrary, provide such assistance to such city, town, county or other unit of general local government.
 
-(9) No Federal funds shall be authorized for use unless it be certified by the appropriate State water pollution control agency that the water supply system authorized will not result in pollution of waters of the State in excess of standards established by that agency.
+(9)
 
-(10) In the case of sewers and waste disposal systems, no Federal funds shall be advanced hereunder unless the appropriate State water pollution control agency shall certify that the effluent therefrom shall conform with appropriate State and Federal water pollution control standards when and where established.
+Conformity with state drinking water standards.—No Federal funds shall be made available under this section for a water system unless the Secretary determines that the water system will make significant progress toward meeting the standards established under title XIV of the Public Health Service Act (commonly known as the “Safe Drinking Water Act”) (42 U.S.C. 300f et seq.).
 
-(11)(A)(i) The Secretary may make grants, not to exceed $15,000,000 annually, to public bodies, private nonprofit community development corporations or entities, or such other agencies as the Secretary may select to enable such recipients—
+(10)
 
-&emsp;(I) to identify and analyze business opportunities, including opportunities in export markets, that will use local rural economic and human resources;
+Conformity with federal and state water pollution control standards.—No Federal funds shall be made available under this section for a water treatment discharge or waste disposal system unless the Secretary determines that the effluent from the system conforms with applicable Federal and State water pollution control standards.
 
-&emsp;(II) to identify, train, and provide technical assistance to existing or prospective rural entrepreneurs and managers;
+(11)
 
-&emsp;(III) to establish business support centers and otherwise assist in the creation of new rural businesses, the development of methods of financing local businesses, and enhancing the capacity of local individuals and entities to engage in sound economic activities; and
+Rural business opportunity grants.—
 
-&emsp;(IV) to conduct regional, community, and local economic development planning and coordination, and leadership development.
+&emsp;(A)
 
-(ii) In awarding such grants, the Secretary shall consider, among other criteria to be established by the Secretary—
+In general.—The Secretary may make grants, not to exceed $1,500,000 annually, to public bodies, private nonprofit community development corporations or entities, or such other agencies as the Secretary may select to enable the recipients—
 
-&emsp;(I) the extent to which the applicant provides development services in its rural service area; and
+&emsp;&emsp;(i) to identify and analyze business opportunities, including opportunities in export markets, that will use local rural economic and human resources;
 
-&emsp;(II) the capability of the applicant to carry out the purposes of this section.
+&emsp;&emsp;(ii) to identify, train, and provide technical assistance to existing or prospective rural entrepreneurs and managers;
 
-(iii) The Secretary shall ensure, to the extent practicable, that assistance provided under this subsection is coordinated with and delivered in cooperation with similar services or assistance provided to rural residents by the Extension Service or other Federal agencies.
+&emsp;&emsp;(iii) to establish business support centers and otherwise assist in the creation of new rural businesses, the development of methods of financing local businesses, and the enhancement of the capacity of local individuals and entities to engage in sound economic activities;
 
-(iv) For grants under this subparagraph, there are authorized to be appropriated to the Secretary $7,500,000 in each fiscal year.
+&emsp;&emsp;(iv) to conduct regional, community, and local economic development planning and coordination, and leadership development; and
 
-(B)(i) The Secretary shall establish and implement a program to make loans for the benefit of any town or city that—
+&emsp;&emsp;(v) to establish centers for training, technology, and trade that will provide training to rural businesses in the utilization of interactive communications technologies to develop international trade opportunities and markets.
 
-&emsp;(I) has a population of less than 20,000 individuals; and
+&emsp;(B)
 
-&emsp;(II) is financially unable to obtain funds as quickly as needed to correct emergency conditions or situations needing urgent attention.
+Criteria.—In awarding the grants, the Secretary shall consider, among other criteria to be established by the Secretary—
 
-(ii) The Secretary shall promulgate regulations—
+&emsp;&emsp;(i) the extent to which the applicant provides development services in the rural service area of the applicant; and
 
-&emsp;(I) targeting the program established under this subparagraph toward needy communities in rural areas; and
+&emsp;&emsp;(ii) the capability of the applicant to accomplish the activities described in the relevant clauses of subparagraph (A).
 
-&emsp;(II) defining the term “emergency conditions or situations needing urgent attention”.
+&emsp;(C)
 
-(iii) The Secretary shall approve or reject applications for loans under this subparagraph within 30 days after receipt.
+Coordination.—The Secretary shall ensure, to the maximum extent practicable, that assistance provided under this paragraph is coordinated with and delivered in cooperation with similar services or assistance provided to rural residents by the Cooperative State Research, Education, and Extension Service or other Federal agencies.
 
-(iv) The Secretary shall not loan more than $50,000 to a single borrower under this subparagraph, and all loans under this subparagraph shall be for not more than 2 years.
+&emsp;(D)
 
-(v) The Secretary may respond to the credit needs of rural towns or cities eligible to participate in the program authorized under this subparagraph by making loans that are eligible for refinancing after the expiration of the 2-year period described in clause (iv), and payments under such loans may be set at a level that is sufficiently low during such 2-year period so that the financially troubled town or city can participate in the program established under this subparagraph. The Secretary shall assist such borrowers in obtaining financing through existing Farmers Home Administration programs so that such borrowers are able to pay the balance due on each loan at the end of such 2-year period.
-
-(vi) To carry out the emergency lending program authorized by the program established under this subparagraph, there are authorized to be appropriated $2,500,000 for fiscal year 1991, and $5,000,000 for fiscal year 1992 and for each subsequent fiscal year.
+Authorization of appropriations.—There are authorized to be appropriated to carry out this paragraph $7,500,000 for each of fiscal years 1996 through 2002.
 
 (12)(A) The Secretary shall, in cooperation with institutions eligible to receive funds under the Act of July 2, 1862 (12 Stat. 503–505, as amended; 7 U.S.C. 301–305, 307 and 308), or the Act of August 30, 1890 (26 Stat. 417–419, as amended; 7 U.S.C. 321–326 and 328), including the Tuskegee Institute and State, substate, and regional planning bodies, establish a system for the dissemination of information and technical assistance on federally sponsored or funded programs. The system shall be for the use of institutions eligible to receive funds under the Act of July 2, 1862 (12 Stat. 503–505, as amended; 7 U.S.C. 301–305, 307, and 308), or the Act of August 30, 1890 (26 Stat. 417–419, as amended; 7 U.S.C. 321–326 and 328), including the Tuskegee Institute and State, substate, and regional planning bodies, and other persons concerned with rural development.
 
 (B) The informational system developed under this paragraph shall contain all pertinent information, including, but not limited to, information contained in the Federal Procurement Data System, Federal Assistance Program Retrieval System, Catalogue of Federal Domestic Assistance, Geographic Distribution of Federal Funds, United States Census, and Code of Federal Regulations.
 
-(C) The Secretary shall obtain from all other Federal departments and agencies comprehensive, relevant, and applicable information onprograms under their jurisdiction that are operated in rural areas.
+(C) The Secretary shall obtain from all other Federal departments and agencies comprehensive, relevant, and applicable information on programs under their jurisdiction that are operated in rural areas.
 
 (D) Of the sums authorized to be appropriated to carry out the provisions of this chapter, not more than $1,000,000 per year may be expended to carry out the provisions of this paragraph.
 
 (13) In the making of loans and grants for community waste disposal and water facilities under paragraphs (1) and (2) of this subsection the Secretary shall accord highest priority to the application of any municipality or other public agency (including an Indian tribe on a Federal or State reservation or other federally recognized Indian tribal group) in a rural community having a population not in excess of five thousand five hundred and which, in the case of water facility loans, has a community water supply system, where the Secretary determines that due to unanticipated diminution or deterioration of its water supply, immediate action is needed, or in the case of waste disposal, has a community waste disposal system, where the Secretary determines that due to unanticipated occurrences the system is not adequate to the needs of the community. The Secretary shall utilize the Soil Conservation Service in rendering technical assistance to applicants under this paragraph to the extent he deems appropriate.
 
-(14)(A) The Secretary, under such reasonable rules and conditions as he shall establish, shall make grants to eligible volunteer fire departments for up to 50 per centum of the cost of firefighting equipment needed by such departments but which such departments are unable to purchase through the resources otherwise available to them, and for the cost of the training necessary to enable such departments to use such equipment efficiently.
+(14)
 
-(B) For the purposes of this subsection, the term “eligible volunteer fire department” means any established volunteer fire department in a rural town, village, or unincorporated area where the population is less than two thousand but greater than two hundred, as reasonably determined by the Secretary.
+Rural water and wastewater technical assistance and training programs.—
 
-(15)(A) The Secretary may make or insure loans in the full amount thereof, but not to exceed $1,000,000 for any such loan, to associations, including corporations not operated for profit, Indian tribes on Federal and State reservations and other federally recognized Indian tribes, and public and quasi-public agencies, for the purpose of financing the construction, acquisition, and operation of transmission facilities for any electric system that is owned and operated by a public body located in a rural area and as of October 1, 1976, was receiving bulk power from any of the following agencies of the Department of the Interior:
+&emsp;(A)
 
-&emsp;(i) the Southwestern Power Administration,
+In general.—The Secretary may make grants to private nonprofit organizations for the purpose of enabling them to provide to associations described in paragraph (1) of this subsection technical assistance and training to—
 
-&emsp;(ii) the Southeastern Power Administration,
+&emsp;&emsp;(i) identify, and evaluate alternative solutions to, problems relating to the obtaining, storage, treatment, purification, or distribution of water or the collection, treatment, or disposal of waste in rural areas;
 
-&emsp;(iii) the Bonneville Power Administration,
+&emsp;&emsp;(ii) prepare applications to receive financial assistance for any purpose specified in paragraph (2) of this subsection from any public or private source; and
 
-&emsp;(iv) the Bureau of Reclamation, or
+&emsp;&emsp;(iii) improve the operation and maintenance practices at any existing works for the storage, treatment, purification, or distribution of water or the collection, treatment, or disposal of waste in rural areas.
 
-&emsp;(v) the Alaska Power Administration.
+&emsp;(B)
 
-> A loan may not be made or insured under this paragraph unless the Secretary determines that the applicant for the loan cannot obtain sufficient credit elsewhere from reliable sources at reasonable rates and terms for financing the construction, acquisition, and operation of such facilities.
+Selection priority.—In selecting recipients of grants to be made under subparagraph (A), the Secretary shall give priority to private nonprofit organizations that have experience in providing the technical assistance and training described in subparagraph (A) to associations serving rural areas in which residents have low income and in which water supply systems or waste facilities are unhealthful.
 
-(B) Interest or other income from obligations evidencing loans guaranteed under this paragraph shall be included in gross income for the purposes of chapter 1 of title 26.
+&emsp;(C)
 
-(C) The authority provided to the Secretary by subparagraph (A) of this paragraph shall terminate September 30, 2006.
+Funding.—Not less than 1 nor more than 3 percent of any funds appropriated to carry out paragraph (2) of this subsection for any fiscal year shall be reserved for grants under subparagraph (A) unless the applications, qualifying for grants, received by the Secretary from eligible nonprofit organizations for the fiscal year total less than 1 per centum of those funds.
 
-(16)(A) The Secretary may make grants to private nonprofit organizations for the purpose of enabling them to provide to associations described in paragraph (1) of this subsection technical assistance and training to—
+(15) In the case of water and waste disposal facility projects serving more than one separate rural community, the Secretary shall use the median population level and the community income level of all the separate communities to be served in applying the standards specified in paragraph (2) of this subsection and section 1927(a)(3)(A) of this title.
 
-&emsp;(i) identify, and evaluate alternative solutions to, problems relating to the obtaining, storage, treatment, purification, or distribution of water or the collection, treatment, or disposal of waste in rural areas;
+(16) Grants under paragraph (2) of this subsection may be used to pay the local share requirements of another Federal grant-in-aid program to the extent permitted under the law providing for such grant-in-aid program.
 
-&emsp;(ii) prepare applications to receive financial assistance for any purpose specified in paragraph (2) of this subsection from any public or private source; and
-
-&emsp;(iii) improve the operation and maintenance practices at any existing works for the storage, treatment, purification, or distribution of water or the collection, treatment, or disposal of waste in rural areas.
-
-(B) In selecting recipients of grants to be made under subparagraph (A), the Secretary shall give priority to private nonprofit organizations that have experience in providing the technical assistance and training described in subparagraph (A) to associations serving rural areas in which residents have low income and in which water supply systems or waste facilities are unhealthful.
-
-(C) Not less than 1 nor more than 2 per centum of any funds provided in Appropriations Acts to carry out paragraph (2) of this subsection for any fiscal year shall be reserved for grants under subparagraph (A) unless the applications, qualifying for grants, received by the Secretary from eligible nonprofit organizations for the fiscal year total less than 1 per centum of those funds.
-
-(17) In the case of water and waste disposal facility projects serving more than one separate rural community, the Secretary shall use the median population level and the community income level of all the separate communities to be served in applying the standards specified in paragraph (2) of this subsection and section 1927(a)(3)(A) of this title.
-
-(18) Grants under paragraph (2) of this subsection may be used to pay the local share requirements of another Federal grant-in-aid program to the extent permitted under the law providing for such grant-in-aid program.
-
-(19)(A) In the approval and administration of a loan made under paragraph (1) for a water or waste disposal facility, the Secretary shall consider fully any recommendation made by the loan applicant or borrower concerning the technical design and choice of materials to be used for such facility.
+(17)(A) In the approval and administration of a loan made under paragraph (1) for a water orwaste disposal facility, the Secretary shall consider fully any recommendation made by the loan applicant or borrower concerning the technical design and choice of materials to be used for such facility.
 
 (B) If the Secretary determines that a design or materials, other than those that were recommended, should be used in the water or waste disposal facility, the Secretary shall provide such applicant or borrower with a comprehensive justification for such determination.
 
-(20) In making or insuring loans or making grants under this subsection, the Secretary maynot condition approval of such loans or grants upon any requirement, condition or certification other than those specified under this chapter.
+(18) In making or insuring loans or making grants under this subsection, the Secretary may not condition approval of such loans or grants upon any requirement, condition or certification other than those specified under this chapter.
+
+(19)
+
+Community facilities grant program.—
+
+&emsp;(A)
+
+In general.—The Secretary may make grants, in a total amount not to exceed $10,000,000 for any fiscal year, to associations, units of general local government, nonprofit corporations, and federally recognized Indian tribes to provide the Federal share of the cost of developing specific essential community facilities in rural areas.
+
+&emsp;(B)
+
+Federal share.—
+
+&emsp;&emsp;(i)
+
+In general.—Except as provided in clauses (ii) and (iii), the Secretary shall, by regulation, establish the amount of the Federal share of the cost of the facility under this paragraph.
+
+&emsp;&emsp;(ii)
+
+Maximum amount.—The amount of a grant provided under this paragraph for a facility shall not exceed 75 percent of the cost of developing the facility.
+
+&emsp;&emsp;(iii)
+
+Graduated scale.—The Secretary shall provide for a graduated scale for the amount of the Federal share provided under this paragraph, with higher Federal shares for facilities in communities that have lower community population and income levels, as determined by the Secretary.
 
 #### (b) Curtailment or limitation of service prohibited
 
@@ -128,19 +142,55 @@ The service provided or made available through any such association shall not be
 
 Any amounts appropriated under this section shall remain available until expended, and any amounts authorized for any fiscal year under this section but not appropriated may be appropriated for any succeeding fiscal year.
 
-(Pub. L. 87–128, title III, §306, Aug. 8, 1961, 75 Stat. 308; Pub. L. 87–703, title IV, §401(2), Sept. 27, 1962, 76 Stat. 632; Pub. L. 89–240, §1, Oct. 7, 1965, 79 Stat. 931; Pub. L. 89–769, §6(b), Nov. 6, 1966, 80 Stat. 1318; Pub. L. 90–488, §§3–5, Aug. 15, 1968, 82 Stat. 770; Pub. L. 91–524, title VIII, §806(a), Nov. 30, 1970, 84 Stat. 1383; Pub. L. 91–606, title III, §302(2), Dec. 31, 1970, 84 Stat. 1759; Pub. L. 91–617, §1(a), Dec. 31, 1970, 84 Stat. 1855; Pub. L. 92–419, title I, §§104–112, Aug. 30, 1972, 86 Stat. 658, 659; Pub. L. 91–524, title VIII, §816(c), as added Pub. L. 93–86, §1(27)(B), Aug. 10, 1973, 87 Stat. 240; Pub. L. 95–334, title I, §§104–107(a), Aug. 4, 1978, 92 Stat. 421, 422; Pub. L. 96–355, §7, Sept. 24, 1980, 94 Stat. 1174; Pub. L. 96–438, §2(1), Oct. 13, 1980, 94 Stat. 1871; Pub. L. 97–35, title I, §121, Aug. 13, 1981, 95 Stat. 368; Pub. L. 99–198, title XIII, §1304(a), Dec. 23, 1985, 99 Stat. 1519; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 101–624, title XXIII, §§2316(b), 2321, 2328, 2329, 2341, 2342, 2393, Nov. 28, 1990, 104 Stat. 4008, 4010, 4017, 4026, 4027, 4057; Pub. L. 102–237, title VII, §701(a), (h)(1)(A), (B), Dec. 13, 1991, 105 Stat. 1879, 1880; Pub. L. 103–129, §3, Nov. 1, 1993, 107 Stat. 1366; Pub. L. 103–354, title II, §235(b)(5), Oct. 13, 1994, 108 Stat. 3222.)
+(Pub. L. 87–128, title III, §306, Aug. 8, 1961, 75 Stat. 308; Pub. L. 87–703, title IV, §401(2), Sept. 27, 1962, 76 Stat. 632; Pub. L. 89–240, §1, Oct. 7, 1965, 79 Stat. 931; Pub. L. 89–769, §6(b), Nov. 6, 1966, 80 Stat. 1318; Pub. L. 90–488, §§3–5, Aug. 15, 1968, 82 Stat. 770; Pub. L. 91–524, title VIII, §806(a), Nov. 30, 1970, 84 Stat. 1383; Pub. L. 91–606, title III, §302(2), Dec. 31, 1970, 84 Stat. 1759; Pub. L. 91–617, §1(a), Dec. 31, 1970, 84 Stat. 1855; Pub. L. 92–419, title I, §§104–112, Aug. 30, 1972, 86 Stat. 658, 659; Pub. L. 91–524, title VIII, §816(c), as added Pub. L. 93–86, §1(27)(B), Aug. 10, 1973, 87 Stat. 240; Pub. L. 95–334, title I, §§104–107(a), Aug. 4, 1978, 92 Stat. 421, 422; Pub. L. 96–355, §7, Sept. 24, 1980, 94 Stat. 1174; Pub. L. 96–438, §2(1), Oct. 13, 1980, 94 Stat. 1871; Pub. L. 97–35, title I, §121, Aug. 13, 1981, 95 Stat. 368; Pub. L. 99–198, title XIII, §1304(a), Dec. 23, 1985, 99 Stat. 1519; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 101–624, title XXIII, §§2316(b), 2321, 2328, 2329, 2341, 2342, 2393, Nov. 28, 1990, 104 Stat. 4008, 4010, 4017, 4026, 4027, 4057; Pub. L. 102–237, title VII, §701(a), (h)(1)(A), (B), Dec. 13, 1991, 105 Stat. 1879, 1880; Pub. L. 103–129, §3, Nov. 1, 1993, 107 Stat. 1366; Pub. L. 103–354, title II, §235(b)(5), Oct. 13, 1994, 108 Stat. 3222; Pub. L. 104–127, title VII, §§741(a), 758, 763, Apr. 4, 1996, 110 Stat. 1122, 1132, 1148.)
 
 #### References in Text
 
 The Rural Electrification Act of 1936, referred to in subsec. (a)(1), is act May 20, 1936, ch. 432, 49 Stat. 1363, as amended, which is classified generally to chapter 31 (§901 et seq.) of this title. For complete classification of this Act to the Code, see section 901 of this title and Tables.
 
-For definition of “this chapter”, referred to in subsec. (a)(7), (12)(D), (20), see note set out under section 1921 of this title.
+The Public Health Service Act, referred to in subsec. (a)(9), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended. Title XIV of the Act, known as the Safe Drinking Water Act, is classified principally to subchapter XII (§300f et seq.) of chapter 6A of Title 42, The Public Health and Welfare. For complete classification of these Acts to the Code, see Short Title note and Short Title of 1974 Amendments note set out under section 201 of Title 42 and Tables.
 
 Act of July 2, 1862 (12 Stat. 503–505, as amended; 7 U.S.C. 301–305, 307 and 308), referred to in subsec. (a)(12)(A), is act July 2, 1862, ch. 130, 12 Stat. 503, as amended, popularly known as the Morrill Act and also as the First Morrill Act, which is classified generally to subchapter I (§301 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 301 of this title and Tables.
 
 Act of August 30, 1890 (26 Stat. 417–419, as amended; 7 U.S.C. 321–326 and 328), referred to in subsec. (a)(12)(A), is act Aug. 30, 1890, ch. 841, 26 Stat. 417, as amended, popularly known as the Agricultural College Act of 1890 and also as the Second Morrill Act, which is classified generally to subchapter II (§321 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 321 of this title and Tables.
 
+For definition of “this chapter”, referred to in subsec. (a)(12)(D), (18), see note set out under section 1921 of this title.
+
 #### Amendments
+
+1996—Subsec. (a)(2). Pub. L. 104–127, §741(a)(1), substituted “$590,000,000” for “$500,000,000”.
+
+Subsec. (a)(5). Pub. L. 104–127, §758, added par. (5).
+
+Subsec. (a)(7). Pub. L. 104–127, §741(a)(2), added par. (7) and struck out former par. (7) which read as follows: “As used in this chapter, the terms ‘rural’ and ‘rural area’ shall not include any area in any city or town which has a population in excess of ten thousand inhabitants, except that (A) for the purpose of loans for essential community facilities under subsection (a)(1) ofthis section, the terms ‘rural’ and ‘rural area’ may include any area in any city or town that has a population not in excess of twenty thousand inhabitants; and (B) for purposes of loans and grants for private business enterprises under sections 1924(b), 1932 and 1942(b), (c), and (d) of this title the terms ‘rural’ and ‘rural area’ may include all territory of a State that is not within the outer boundary of any city having a population of fifty thousand or more and its immediately adjacent urbanized and urbanizing areas with a population density of more than one hundred persons per square mile, as determined by the Secretary of Agriculture according to the latest decennial census of the United States: <i>Provided</i>, That special consideration for such loans and grants shall be given to areas other than cities having a population of more than twenty-five thousand.”
+
+Subsec. (a)(9), (10). Pub. L. 104–127, §741(a)(3), added pars. (9) and (10) and struck out former pars. (9) and (10) which read as follows:
+
+“(9) No Federal funds shall be authorized for use unless it be certified by the appropriate State water pollution control agency that the water supply system authorized will not result in pollution of waters of the State in excess of standards established by that agency.
+
+“(10) In the case of sewers and waste disposal systems, no Federal funds shall be advanced hereunder unless the appropriate State water pollution control agency shall certify that the effluent therefrom shall conform with appropriate State and Federal water pollution control standards when and where established.”
+
+Subsec. (a)(11). Pub. L. 104–127, §741(a)(3), added par. (11) and struck out former par. (11) which authorized grants to public bodies, private nonprofit community development corporations or entities, or other agencies to enable such recipients to (1) identify and analyze business opportunities, including opportunities in export markets, that would use local rural economic and human resources, (2) identify, train, and provide technical assistance to existing or prospective rural entrepreneurs and managers, (3) establish business support centers and otherwise assist in creation of new rural businesses, development of methods of financing local businesses, and enhancing capacity of local individuals and entities to engage in sound economic activities, and (4) conduct regional, community, and local economic development planning and coordination, and leadership development.
+
+Subsec. (a)(14). Pub. L. 104–127, §741(a)(6)(A)–(D)(i), inserted par. heading and headings for subpars. (A) to (C), and realigned margins of subpars. and cls. (i) to (iii) of subpar. (A).
+
+Pub. L. 104–127, §741(a)(4), (5), redesignated par. (16) as (14) and struck out former par. (14) which read as follows:
+
+“(14)(A) The Secretary, under such reasonable rules and conditions as he shall establish, shall make grants to eligible volunteer fire departments for up to 50 per centum of the cost of firefighting equipment needed by such departments but which such departments are unable to purchase through the resources otherwise available to them, and for the cost of the training necessary to enable such departments to use such equipment efficiently.
+
+“(B) For the purposes of this subsection, the term ‘eligible volunteer fire department’ means any established volunteer fire department in a rural town, village, or unincorporated area where the population is less than two thousand but greater than two hundred, as reasonably determined by the Secretary.”
+
+Subsec. (a)(14)(C). Pub. L. 104–127, §741(a)(6)(D)(ii), which directed substitution of “3 percent of any funds appropriated” for “2 per centum of any funds provided in appropriations Acts”, was executed by making the substitution for “2 per centum of any funds provided in Appropriations Acts”, to reflect the probable intent of Congress.
+
+Subsec. (a)(15). Pub. L. 104–127, §741(a)(4), (5), redesignated par. (17) as (15) and struck out former par. (15) which authorized making or insuring of loans to associations, including corporations not operated for profit, Indian tribes on Federal and State reservations and other federally recognized Indian tribes, and public and quasi-public agencies, for purpose of financing construction, acquisition, and operation of transmission facilities for any electric system owned and operated by a public body located in a rural area which was, as of October 1, 1976, receiving bulk power from designated agencies of Department of the Interior.
+
+Subsec. (a)(16) to (18). Pub. L. 104–127, §741(a)(5), redesignated pars. (18) to (20) as (16) to (18), respectively. Former pars. (16) to (18) redesignated (14) to (16), respectively.
+
+Subsec. (a)(19). Pub. L. 104–127, §763, added par. (19).
+
+Pub. L. 104–127, §741(a)(5), redesignated par. (19) as (17).
+
+Subsec. (a)(20). Pub. L. 104–127, §741(a)(5), redesignated par. (20) as (18).
 
 1994—Subsec. (a)(15)(C), (D). Pub. L. 103–354 redesignated subpar. (D) as (C) and struck out former subpar. (C) which read as follows: “The Administrator of the Rural Electrification Administration shall administer loans made or insured under this paragraph.”
 
@@ -164,7 +214,7 @@ Subsec. (a)(20). Pub. L. 101–624, §2329, added par. (20).
 
 Subsec. (a)(21). Pub. L. 101–624, §2393, added par. (21).
 
-1986—Subsec. (a)(1), (15)(B). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification wastranslated as “title 26” thus requiring no change in text.
+1986—Subsec. (a)(1), (15)(B). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
 1985—Subsec. (a)(2). Pub. L. 99–198 provided for graduated scale of grant rates for each project and higher rates in communities having lower community population and income levels.
 
@@ -240,8 +290,6 @@ Amendment by Pub. L. 89–769 applicable with respect to any major disaster occu
 
 Powers, duties, and assets of agencies, offices, and other entities within Department of Agriculture relating to rural development functions transferred to Rural Development Administration by section 2302(b) of Pub. L. 101–624.
 
-Functions of Secretary of the Interior with respect to Southwestern Power Administration, Southeastern Power Administration, Bonneville Power Administration, Alaska Power Administration, and power marketing functions of Bureau of Reclamation transferred to Secretary of Energy by section 7152(a) of Title 42, The Public Health and Welfare, with each Administration to be preserved as a distinct organizational entity within Department of Energy and headed by an Administrator and functions of Bureau of Reclamation transferred to be exercised by Secretary through a separate Administration within Department of Energy.
-
 #### Temporary Expanded Eligibility of Certain Timber-Dependent Communities in Pacific Northwest for Loans and Grants From Rural Development Administration
 
 Pub. L. 103–427, Oct. 31, 1994, 108 Stat. 4373, provided that:
@@ -270,15 +318,7 @@ Effect on State Allotments of Funds.—This section shall not be taken into cons
 
 #### Rural Wastewater Treatment Circuit Rider Program
 
-Section 2324 of Pub. L. 101–624 provided that:
-
-“(a)
-
-Establishment.—The Secretary shall establish a national rural wastewater circuit rider grant program that shall be modeled after the existing National Rural Water Association Rural Water Circuit Rider Program that receives funding from the Farmers Home Administration.
-
-“(b)
-
-Limitation on Authorization of Appropriations.—There are authorized to be appropriated $4,000,000 for each fiscal year to carry out the program established under subsection (a).”
+Section 2324 of Pub. L. 101–624 directed Secretary to establish national rural wastewater circuit rider grant program that was to be modeled after existing National Rural Water Association Rural Water Circuit Rider Program that received funding from Farmers Home Administration and authorized $4,000,000 for each fiscal year to carry out such program, prior to repeal by Pub. L. 104–127, title VII, §703, Apr. 4, 1996, 110 Stat. 1108.
 
 #### Interest Rate Restructuring for Certain Borrowers
 
@@ -290,5 +330,5 @@ Pub. L. 100–233, title VI, §620, Jan. 6, 1988, 101 Stat. 1684, provided that:
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1926–1, 1927, 1929, 1929a, 1931, 1932, 1983a, 1992, 2001a, 2008, 2008b, 2008c, 2204b, 6942, 6944 of this title; title 16 section 2106; title 42 sections 3122, 5153.
+This section is referred to in sections 917, 1927, 1929, 1929a, 1983, 1983a, 1992, 2001a, 2009, 2009d, 2204b, 6613, 6942, 6944 of this title; title 16 section 2106; title 42 sections 3122, 5153.
 

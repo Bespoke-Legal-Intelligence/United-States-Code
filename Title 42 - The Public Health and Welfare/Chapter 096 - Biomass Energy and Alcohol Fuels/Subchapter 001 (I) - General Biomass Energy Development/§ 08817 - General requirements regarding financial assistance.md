@@ -62,7 +62,7 @@ An insured loan may not be made, and a loan guarantee may not be issued, under t
 
 #### (e) Contracts and instruments of Secretary concerned backed by full faith and credit of United States
 
-All contracts and instruments of the Secretary concerned to provide, or providing, for financial assistance shall be general obligations of the United States backed by its full faith and credit.
+All contracts and instruments of the Secretary concerned to provide, or providing, for financial assistance shall be general obligationsof the United States backed by its full faith and credit.
 
 #### (f) Contestability of contracts
 

@@ -42,7 +42,7 @@ Amendment by Pub. L. 98–270 effective Oct. 1, 1983, see section 313 of Pub. L.
 
 #### Effective Date of 1980 Amendment
 
-Amendment  by  Pub.  L.  96–302  inapplicable  to  disasters commencing on or before Oct. 1, 1980, see section 119(d) of Pub. L. 96–302, set out as a note under section 636 of this title.
+Amendment by Pub. L. 96–302 inapplicable to disasters commencing on or before Oct. 1, 1980, see section 119(d) of Pub. L. 96–302, set out as a note under section 636 of this title.
 
 #### Programs Administered by the Department of Commerce
 

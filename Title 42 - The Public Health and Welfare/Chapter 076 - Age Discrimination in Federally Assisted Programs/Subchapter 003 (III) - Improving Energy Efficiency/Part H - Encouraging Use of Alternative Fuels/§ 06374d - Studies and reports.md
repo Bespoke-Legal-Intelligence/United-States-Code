@@ -20,7 +20,7 @@
 
 &emsp;(A) a comprehensive analysis of the air quality, global climate change, and other positive and negative environmental impacts, if any, including fuel displacement effects, associated with the production, storage, distribution, and use of all alternative motor vehicle fuels under this part, as compared to gasoline and diesel fuels; and
 
-&emsp;(B) an extended reasonable forecast of the change, if any, in air quality, global climate change, and other environmental effects ofproducing, storing, distributing, and using alternative motor vehicle fuels, utilizing such reasonable energy security, policy, economic, and other scenarios as may be appropriate.
+&emsp;(B) an extended reasonable forecast of the change, if any, in air quality, global climate change, and other environmental effects of producing, storing, distributing, and using alternative motor vehicle fuels, utilizing such reasonable energy security, policy, economic, and other scenarios as may be appropriate.
 
 (2) In carrying out the study under this subsection, the Administrator of the Environmental Protection Agency shall consult with the Secretaries of Energy and Transportation. Nothing in this paragraph shall be construed to require such Administrator to obtain the approval of the Secretary of Energy or the Secretary of Transportation for any actions taken under this subsection.
 

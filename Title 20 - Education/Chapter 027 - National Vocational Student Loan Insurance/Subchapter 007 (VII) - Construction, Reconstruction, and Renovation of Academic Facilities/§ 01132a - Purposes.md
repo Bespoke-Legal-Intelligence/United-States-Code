@@ -16,7 +16,7 @@ The Secretary shall carry out programs of financial assistance to institutions o
 
 &emsp;(3) to detect, remove, or otherwise contain asbestos hazards in academic and other facilities used by students, in accordance with regulations prescribed by the Secretary;
 
-&emsp;(4) to construct, reconstruct, or renovate the Nation's academic research and instructionalinstrumentation and facilities, including libraries (including renovation of libraries to promote the use of new technologies and preservation of library materials), and to acquire and maintain special research and instructional instrumentation and equipment;
+&emsp;(4) to construct, reconstruct, or renovate the Nation's academic research and instructional instrumentation and facilities, including libraries (including renovation of libraries topromote the use of new technologies and preservation of library materials), and to acquire and maintain special research and instructional instrumentation and equipment;
 
 &emsp;(5) to provide facilities for advanced skill training programs that relate to emerging technologies and skill needs;
 

@@ -20,11 +20,9 @@
 
 &emsp;&emsp;&emsp;(iii) any United States person owning, at the time the transaction takes place, 10 percent or more of the value of any class of stock outstanding of such foreign corporation;
 
-&emsp;&emsp;(E) a description of the various classes of stock outstanding, and a list showing the name and address of, and number of shares held by, each United States person who is a shareholder of record owning at any time during the annual accounting period 5 percent or more in value of any class of stock outstanding of such foreign corporation, and
+&emsp;&emsp;(E) a description of the various classes of stock outstanding, and a list showing the name and address of, and number of shares held by, each United States person who is a shareholder of record owning at any time during the annual accounting period 5 percent or more in value of any class of stock outstanding of such foreign corporation.
 
-&emsp;&emsp;(F) such information as the Secretary may require for purposes of carrying out the provisions of section 453C.<sup>1</sup>
-
-> &emsp;The Secretary may also require the furnishing of any other information which is similar or related in nature to that specified in the preceding sentence or which the Secretary determines to be appropriate to carry out the provisions of this title..<sup>2</sup>
+> &emsp;The Secretary may also require the furnishing of any other information which is similar or related in nature to that specified in the preceding sentence or which the Secretary determines to be appropriate to carry out the provisions of this title..<sup>1</sup>
 
 #### (2) Period for which information is to be furnished, etc.
 
@@ -54,7 +52,7 @@
 
 &emsp;If a United States person fails to furnish, within the time prescribed under paragraph (2) of subsection (a), any information with respect to any foreign corporation required under paragraph (1) of subsection (a), then—
 
-&emsp;&emsp;(A) in applying section 901 (relating to taxes of foreign countries and possessions of the United States) to such United States person for the taxable year, the amount of taxes (other than taxes reduced under subparagraph (B)) paid or deemed paid (other than those deemed paid under section 904(c)) to any foreign country or possession of the United States for the taxable year shall be reduced by 10 percent, and
+&emsp;&emsp;(A) in applying section 901 (relating to taxes of foreign countries and possessions ofthe United States) to such United States person for the taxable year, the amount of taxes (other than taxes reduced under subparagraph (B)) paid or deemed paid (other than those deemed paid under section 904(c)) to any foreign country or possession of the United States for the taxable year shall be reduced by 10 percent, and
 
 &emsp;&emsp;(B) in applying sections 902 (relating to foreign tax credit for corporate stockholder in foreign corporation) and 960 (relating to special rules for foreign tax credit) to any such United States person which is a corporation (or to any person who acquires from any other person any portion of the interest of such other person in any such foreign corporation, but only to the extent of such portion) for any taxable year, the amount of taxes paid or deemed paid by each foreign corporation with respect to which such person is required to furnish information during the annual accounting period or periods with respect to which such information is required under paragraph (2) of subsection (a) shall be reduced by 10 percent.
 
@@ -100,17 +98,13 @@ For purposes of this section—
 
 &emsp;The annual accounting period of a foreign corporation is the annual period on the basis of which such corporation regularly computes its income in keeping its books. In the case of a specified foreign corporation (as defined in section 898), the taxable year of such corporation shall be treated as its annual accounting period.
 
-#### (e) <sup>3</sup> Cross references
+#### (f) Cross references
 
 &emsp;&emsp;<b>(1) For provisions relating to penalties for violations of this section, see section 7203.</b>
 
 &emsp;&emsp;<b>(2) For definition of the term “United States person”, see section 7701(a)(30).</b>
 
-(Added Pub. L. 86–780, §6(a), Sept. 14, 1960, 74 Stat. 1014; amended Pub. L. 87–834, §20(a), Oct. 16, 1962, 76 Stat. 1059; Pub. L. 88–554, §4(b)(6), Aug. 31, 1964, 78 Stat. 764; Pub. L. 94–455, title X, §1031(b)(5), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1623, 1834; Pub. L. 97–248, title III, §338(a)–(c), Sept. 3, 1982, 96 Stat. 631; Pub. L. 99–514, title XII, §§1202(c), 1245(b)(5), Oct. 22, 1986, 100 Stat. 2530, 2581; Pub. L. 101–239, title VII, §7712(a), Dec. 19, 1989, 103 Stat. 2393; Pub. L. 101–508, title XI, §11701(f), Nov. 5, 1990, 104 Stat. 1388–508.)
-
-#### References in Text
-
-Section 453C, referred to in subsec. (a)(1)(F), was repealed by Pub. L. 100–203, title X, §10202(a)(1), Dec. 22, 1987, 101 Stat. 1330–388.
+(Added Pub. L. 86–780, §6(a), Sept. 14, 1960, 74 Stat. 1014; amended Pub. L. 87–834, §20(a), Oct. 16, 1962, 76 Stat. 1059; Pub. L. 88–554, §4(b)(6), Aug. 31, 1964, 78 Stat. 764; Pub. L. 94–455, title X, §1031(b)(5), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1623, 1834; Pub. L. 97–248, title III, §338(a)–(c), Sept. 3, 1982, 96 Stat. 631; Pub. L. 99–514, title XII, §§1202(c), 1245(b)(5), Oct. 22, 1986, 100 Stat. 2530, 2581; Pub. L. 101–239, title VII, §7712(a), Dec. 19, 1989, 103 Stat. 2393; Pub. L. 101–508, title XI, §11701(f), Nov. 5, 1990, 104 Stat.1388–508; Pub. L. 104–188, title I, §1704(f)(5)(A), (t)(40), (46), Aug. 20, 1996, 110 Stat. 1880, 1889.)
 
 #### Prior Provisions
 
@@ -118,7 +112,15 @@ A prior section 6038 was renumbered section 6040 of this title.
 
 #### Amendments
 
-1990—Subsec. (e)(2). Pub. L. 101–508, which directed amendment of subsec. (e)(2) by inserting at end “In the case of a specified foreign corporation (as defined in section 898), the taxable year of such corporation shall be treated as its annual accounting period.”, was executed to subsec. (e)(2) relating to annual accounting periods to reflect the probable intent of Congress.
+1996—Subsec. (a)(1)(E), (F). Pub. L. 104–188, §1704(f)(5)(A), substituted period for “, and” at end of subpar. (E) and struck out subpar. (F) which read as follows: “such information as the Secretary may require for purposes of carrying out the provisions of section 453C.”
+
+Subsec. (e). Pub. L. 104–188, §1704(t)(40), redesignated subsec. (e), relating to cross references, as (f).
+
+Subsec. (e)(2). Pub. L. 104–188, §1704(t)(46), made technical amendment to directory language of Pub. L. 101–508. See 1990 Amendment note below.
+
+Subsec. (f). Pub. L. 104–188, §1704(t)(40), redesignated subsec. (e), relating to cross references, as (f).
+
+1990—Subsec. (e)(2). Pub. L. 101–508, as amended by Pub. L. 104–188, §1704(t)(46), in subsec. (e) relating to definitions, inserted at end of par. (2) “In the case of a specified foreign corporation (as defined in section 898), the taxable year of such corporation shall be treated as its annual accounting period.”
 
 1989—Subsec. (a)(1). Pub. L. 101–239, §7712(a)(2), inserted before period at end “or which the Secretary determines to be appropriate to carry out the provisions of this title.”
 
@@ -166,7 +168,7 @@ Amendment by Pub. L. 101–508 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1989 Amendment
 
-Section 7712(b) of Pub. L. 101–239 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to returns and statements the due date for which (determined without regard to extensions) is after December 31, 1989.”
+Section 7712(b) of Pub. L. 101–239 provided that: “The amendments made by subsection (a) \[amending thissection\] shall apply to returns and statements the due date for which (determined without regard to extensions) is after December 31, 1989.”
 
 #### Effective Date of 1986 Amendment
 
@@ -188,15 +190,11 @@ Section 20(e)(1) of Pub. L. 87–834 provided that: “The amendments made by su
 
 #### Effective Date
 
-Section 6(c) of Pub. L. 86–780, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by subsection (a) \[enacting this section and amending section 902 of this title\] shall apply to taxable years of domestic corporations beginning after December 31, 1960, with respect to information relating to a foreign corporation or a foreign subsidiary described in section 6038(a) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as added bysubsection (a)) for its annual accounting periods beginning after December 31, 1960.”
+Section 6(c) of Pub. L. 86–780, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by subsection (a) \[enacting this section and amending section 902 of this title\] shall apply to taxable years of domestic corporations beginning after December 31, 1960, with respect to information relating to a foreign corporation or a foreign subsidiary described in section 6038(a) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as added by subsection (a)) for its annual accounting periods beginning after December 31, 1960.”
 
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 318, 901, 902, 964 of this title.
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
-
-<i><sup>2</sup></i><i> So in original.</i>
-
-<i><sup>3</sup></i><i> So in original. Probably should have been redesignated (f) by Pub. L. 97–248.</i>
+<i><sup>1</sup></i><i> So in original.</i>
 

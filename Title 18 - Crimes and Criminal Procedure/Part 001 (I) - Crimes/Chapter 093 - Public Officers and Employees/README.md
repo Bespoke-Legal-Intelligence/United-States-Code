@@ -21,7 +21,12 @@
 | [1917\.](%C2%A7%2001917%20-%20Interference%20with%20civil%20service%20examinations.md) | Interference with civil service examinations. |
 | [1918\.](%C2%A7%2001918%20-%20Disloyalty%20and%20asserting%20the%20right%20to%20strike%20against%20the%20Government.md) | Disloyalty and asserting the right to strike against the Government. |
 | [1919\.](%C2%A7%2001919%20-%20False%20statement%20to%20obtain%20unemployment%20compensation%20for%20Federal%20service.md) | False statement to obtain unemployment compensation for Federal service. |
-| [1920\.](%C2%A7%2001920%20-%20False%20statement%20or%20fraud%20to%20obtain%20Federal%20employee%27s%20compensation.md) | False statement or fraud to obtain Federal employee's compensation. |
+| [1920\.](%C2%A7%2001920%20-%20False%20statement%20or%20fraud%20to%20obtain%20Federal%20employee%27s%20compensation.md) | False statement or fraud to obtain Federal employees’ compensation.<sup>1</sup> |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+|  |  |
+| :--- | ---: |
 | [1921\.](%C2%A7%2001921%20-%20Receiving%20Federal%20employees%E2%80%99%20compensation%20after%20marriage.md) | Receiving Federal employees’ compensation after marriage. |
 | [1922\.](%C2%A7%2001922%20-%20False%20or%20withheld%20report%20concerning%20Federal%20employees%E2%80%99%20compensation.md) | False or withheld report concerning Federal employees’ compensation. |
 | [1923\.](%C2%A7%2001923%20-%20Fraudulent%20receipt%20of%20payments%20of%20missing%20persons.md) | Fraudulent receipt of payments of missing persons. |
@@ -30,6 +35,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1996—Pub. L. 104–294, title VI, §604(b)(44), Oct. 11, 1996, 110 Stat. 3509, substituted “employees’ ” for “employee's” in item 1920.
 
 1994—Pub. L. 103–359, title VIII, §808(b), Oct. 14, 1994, 108 Stat. 3454, added item 1924.
 
@@ -58,6 +65,8 @@ Officers—
 Postal employee having interest in mail contract, see section 440 of this title.
 
 Purchase of claims for fees by court officials, see section 291 of this title.
+
+<i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
 
 
 ---

@@ -7,7 +7,7 @@
 | 161 to 176. Repealed or Transferred. |  |
 | [177\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000177%20-%20Patents%20for%20lands%20in%20New%20Mexico%20held%20under%20color%20of%20title.md) | Patents for lands in New Mexico held under color of title. |
 | [178\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000178%20-%20Patents%20for%20lands%20in%20New%20Mexico%3B%20lands%20contiguous%20to%20Spanish%20or%20Mexican%20land%20grants.md) | Patents for lands in New Mexico; lands contiguous to Spanish or Mexican land grants. |
-| 179, 180. Repealed. |  |
+| 179, 180. | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -96,10 +96,10 @@
 | (i) | State law. |
 | (j) | Inspections. |
 | (k) | Damages for failure to comply. |
-| (<i>l)</i> | Payment of financial guarantee. |
+| (<i>l</i>) | Payment of financial guarantee. |
 | (m) | Bond release. |
 | (n) | Conveyance to surface owner. |
-| (<i>o)</i> | Definitions. |
+| (<i>o</i>) | Definitions. |
 | (p) | Minerals covered. |
 | [300\.](Subchapter%20010%20%28X%29%20-%20Stock-Raising%20Homestead/%C2%A7%2000300%20-%20Repealed.%20Pub.%20L.%2094%E2%80%93579%2C%20title%20VII%2C%20%C2%A7704%28a%29%2C%20Oct.%2021%2C%201976%2C%2090%20Stat.%202792.md) | Repealed. |
 | [301\.](Subchapter%20010%20%28X%29%20-%20Stock-Raising%20Homestead/%C2%A7%2000301%20-%20Rules%20and%20regulations.md) | Rules and regulations. |

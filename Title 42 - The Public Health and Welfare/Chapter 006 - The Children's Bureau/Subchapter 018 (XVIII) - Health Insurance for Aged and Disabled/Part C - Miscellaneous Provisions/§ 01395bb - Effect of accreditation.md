@@ -1,10 +1,12 @@
 ### §1395bb. Effect of accreditation
 
-(a) Except as provided in subsection (b) of this section and the second sentence of section 1395z of this title, if—
+#### (a) In general
+
+Except as provided in subsection (b) <sup>1</sup> of this section and the second sentence of section 1395z of this title, if—
 
 &emsp;(1) an institution is accredited as a hospital by the Joint Commission on Accreditation of Hospitals, and
 
-&emsp;(2)(A) such institution authorizes the Commission to release to the Secretary upon his request (or such State agency as the Secretary may designate) a copy of the most current accreditation survey of such institution made by such Commission, together with any other information directly related to the survey as the Secretary may require (including corrective action plans),<sup>1</sup>
+&emsp;(2)(A) such institution authorizes the Commission to release to the Secretary upon his request (or such State agency as the Secretary may designate) a copy of the most current accreditation survey of such institution made by such Commission, together with any other information directly related to the survey as the Secretary may require (including corrective action plans),<sup>2</sup>
 
 &emsp;(B) such Commission releases such a copy and any such information to the Secretary,
 
@@ -14,13 +16,53 @@
 
 &emsp;(4) any standard, promulgated by the Secretary pursuant to paragraph (9) thereof, which is higher than the requirements prescribed for accreditation by such Commission.
 
-> If such Commission, as a condition for accreditation of a hospital, requires a utilization review plan (or imposes another requirement which serves substantially the same purpose), requires a discharge planning process (or imposes another requirement which serves substantially the same purpose), or imposes a standard which the Secretary determines is at least equivalent to the standard promulgated by the Secretary as described in paragraph (4) of this subsection, the Secretary is authorized to find that all institutions so accredited by such Commission comply also with clause (A) or (B) of section 1395x(e)(6) of this title or the standard described in such paragraph (4), as the case may be. In addition, if the Secretary finds that accreditation of an entity by the American Osteopathic Association or any other national accreditation body provides reasonable assurance that any or all of the conditions of section 1395k(a)(2)(F)(i), 1395x(e), 1395x(f), 1395x(j), 1395x(<i>o</i>), 1395x(p)(4)(A) or (B), paragraphs (15) and (16) of section 1395x(s), section 1395x(aa)(2), 1395x(cc)(2), 1395x(dd)(2), or 1395x(mm)(1) of this title, as the case may be, are met, he may, to the extent he deems it appropriate, treat such entity as meeting the condition or conditions with respect to which he made such finding. The Secretary may not disclose any accreditation survey (other than a survey with respect to a home health agency) made and released to him by the Joint Commission on Accreditation of Hospitals, the American Osteopathic Association, or any other national accreditation body, of an entity accredited by such body, except that the Secretary may disclose such a survey and information related to such a survey to the extent such survey and information relate to an enforcement action taken by the Secretary.
+> If such Commission, as a condition for accreditation of a hospital, requires a utilization review plan (or imposes another requirement which serves substantially the same purpose), requires a discharge planning process (or imposes another requirement which serves substantially the same purpose), or imposes a standard which the Secretary determines is at least equivalent to the standard promulgated by the Secretary as described in paragraph (4) of this subsection, the Secretary is authorized to find that all institutions so accredited by such Commission comply also with clause (A) or (B) of section 1395x(e)(6) of this title or the standard described in such paragraph (4), as the case may be.
 
-(b) Notwithstanding any other provision of this subchapter, if the Secretary finds that a hospital has significant deficiencies (as defined in regulations pertaining to health and safety), the hospital shall, after the date of notice of such finding to the hospital and for such period as may be prescribed in regulations, be deemed not to meet the requirements of the numbered paragraphs of section 1395x(e) of this title.
+#### (b) Accreditation by American Osteopathic Association or other national accreditation body
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1865, as added July 30, 1965, Pub. L. 89–97, title I, §102(a), 79 Stat. 326; amended Oct. 30, 1972, Pub. L. 92–603, title II, §§234(h), 244(b), 86 Stat. 1413, 1423; Sept. 3, 1982, Pub. L. 97–248, title I, §§122(g)(4), 128(d)(3), 96 Stat. 362, 367; July 18, 1984, Pub. L. 98–369, div. B, title III, §§2345(a), 2346(a), 98 Stat. 1096; Oct. 21, 1986, Pub. L. 99–509, title IX, §§9305(c)(3), 9320(h)(3), 100 Stat. 1990, 2016; Dec. 22, 1987, Pub. L. 100–203, title IV, §§4025(b), 4072(d), 101 Stat. 1330–117, as amended July 1, 1988, Pub. L. 100–360, title IV, §411(d)(4)(B)(ii), 102 Stat. 774; July 1, 1988, Pub. L. 100–360, title II, §§204(c)(3), (d)(3), 102 Stat. 728, 729; Oct. 13, 1988, Pub. L. 100–485, title VI, §608(d)(20)(D), 102 Stat. 2420; Dec. 13, 1989, Pub. L. 101–234, title II, §201(a), 103 Stat. 1981; Dec. 19, 1989, Pub. L. 101–239, title VI, §§6003(g)(3)(C)(iv), 6019(a)–(c), 6115(c), 103 Stat. 2153, 2165, 2166, 2219; Nov. 5, 1990, Pub. L. 101–508, title IV, §4163(c)(3), 104 Stat. 1388–100; Oct. 31, 1994, Pub. L. 103–432, title I, §145(c)(4), 108 Stat. 4427.)
+(1) In addition, if the Secretary finds that accreditation of a provider entity (as defined in paragraph (4)) by the American Osteopathic Association or any other national accreditation body demonstrates that all of the applicable conditions or requirements of this subchapter (other than the requirements of section 1395m(j) of this title or the conditions and requirements under section 1395rr(b) of this title) are met or exceeded—
+
+&emsp;(A) in the case of a provider entity not described in paragraph (3)(B), the Secretary shall treat such entity as meeting those conditions or requirements with respect to which the Secretary made such finding; or
+
+&emsp;(B) in the case of a provider entity described in paragraph (3)(B), the Secretary may treat such entity as meeting those conditions or requirements with respect to which the Secretary made such finding.
+
+(2) In making such a finding, the Secretary shall consider, among other factors with respect to a national accreditation body, its requirements for accreditation, its survey procedures, its ability to provide adequate resources for conducting required surveys and supplying information for use in enforcement activities, its monitoring procedures for provider entities found out of compliance with the conditions or requirements, and its ability to provide the Secretary with necessary data for validation.
+
+(3)(A) Except as provided in subparagraph (B), not later than 60 days after the date of receipt of a written request for a finding under paragraph (1) (with any documentation necessary to make a determination on the request), the Secretary shall publish a notice identifying the national accreditation body making the request, describing the nature of the request, and providing a period of at least 30 days for the public to comment on the request. The Secretary shall approve or deny a request for such a finding, and shall publish notice of such approval or denial, not later than 210 days after the date of receipt of the request (with such documentation). Such an approval shall be effective with respect to accreditation determinations made on or after such effective date (which may not be later than the date of publication of the approval) as the Secretary specifies in the publication notice.
+
+(B) The 210-day and 60-day deadlines specified in subparagraph (A) shall not apply in the case of any request for a finding with respect to accreditation of a provider entity to which the conditions and requirements of section <sup>3</sup> 1395i–3 and 1395x(j) of this title apply.
+
+(4) For purposes of this section, the term “provider entity” means a provider of services, supplier, facility, clinic, agency, or laboratory.
+
+#### (c) Disclosure of accreditation survey
+
+The Secretary may not disclose any accreditation survey (other than a survey with respect to a home health agency) made and released to him by the Joint Commission on Accreditation of Hospitals, the American Osteopathic Association, or any other national accreditation body, of an entity accredited by such body, except that the Secretary may disclose such a survey and information related to such a survey to the extent such survey and information relate to an enforcement action taken by the Secretary.
+
+#### (d) Deficiencies
+
+Notwithstanding any other provision of this subchapter, if the Secretary finds that a provider entity has significant deficiencies (as defined in regulations pertaining to health and safety), the entity shall, after the date of notice of such finding to the entity and for such period as may be prescribed in regulations, be deemed not to meet the conditions or requirements the entity has been treated as meeting pursuant to subsection (a) or (b)(1) of this section.
+
+#### (e) State or local accreditation
+
+For provisions relating to validation surveys of entities that are treated as meeting applicable conditions or requirements of this subchapter pursuant to subsection (a) or (b)(1) of this section, see section 1395aa(c) of this title.
+
+(Aug. 14, 1935, ch. 531, title XVIII, §1865, as added July 30, 1965, Pub. L. 89–97, title I, §102(a), 79 Stat. 326; amended Oct. 30, 1972, Pub. L. 92–603, title II, §§234(h), 244(b), 86 Stat. 1413, 1423; Sept. 3, 1982, Pub. L. 97–248, title I, §§122(g)(4), 128(d)(3), 96 Stat. 362, 367; July 18, 1984, Pub. L. 98–369, div. B, title III, §§2345(a), 2346(a), 98 Stat. 1096; Oct. 21, 1986, Pub. L. 99–509, title IX, §§9305(c)(3), 9320(h)(3), 100 Stat. 1990, 2016; Dec. 22, 1987, Pub. L. 100–203, title IV, §§4025(b), 4072(d), 101 Stat. 1330–117, as amended July 1, 1988, Pub. L. 100–360, title IV, §411(d)(4)(B)(ii), 102 Stat. 774; July 1, 1988, Pub. L. 100–360, title II, §§204(c)(3), (d)(3), 102 Stat. 728, 729; Oct. 13, 1988, Pub. L. 100–485, title VI, §608(d)(20)(D), 102 Stat. 2420; Dec. 13, 1989, Pub. L. 101–234, title II, §201(a), 103 Stat. 1981; Dec. 19, 1989, Pub. L. 101–239, title VI, §§6003(g)(3)(C)(iv), 6019(a)–(c), 6115(c), 103 Stat. 2153, 2165, 2166, 2219; Nov. 5, 1990, Pub. L. 101–508, title IV, §4163(c)(3), 104 Stat. 1388–100; Oct. 31, 1994, Pub. L. 103–432, title I, §145(c)(4), 108 Stat. 4427; Apr. 26, 1996, Pub. L. 104–134, title I, §101(d) \[title V, §516(b), (c)(2)\], 110 Stat. 1321–211, 1321–246, 1321–247; renumbered title I, May 2, 1996, Pub. L. 104–140, §1(a), 110 Stat. 1327.)
+
+#### References in Text
+
+Subsection (b) of this section, referred to in subsec. (a), was redesignated subsec. (d) and a new subsec. (b) added by Pub. L. 104–134, title I, §101(d) \[title V, §516(b)(1), (3)\], Apr. 26, 1996, 110 Stat. 1321–211, 1321–246; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.
 
 #### Amendments
+
+1996—Subsec. (a). Pub. L. 104–134, §101(d) \[title V, §516(b)(2), (3)\], struck out after second sentence: “In addition, if the Secretary finds that accreditation of an entity by the American Osteopathic Association or any other national accreditation body provides reasonable assurance that any or all of the conditions of section 1395k(a)(2)(F)(i), 1395x(e), 1395x(f), 1395x(j), 1395x(<i>o</i>), 1395x(p)(4)(A) or (B), paragraphs (15) and (16) of section 1395x(s), section 1395x(aa)(2), 1395x(cc)(2), 1395x(dd)(2), or 1395x(mm)(1) of this title, as the case may be, are met, he may, to the extent he deems it appropriate, treat such entity as meeting the condition or conditions with respect to which he made such finding.” and redesignated fourth sentence as subsec. (c).
+
+Subsec. (b). Pub. L. 104–134, §101(d) \[title V, §516(b)(3)\], added subsec. (b). Former subsec. (b) redesignated (d).
+
+Subsec. (c). Pub. L. 104–134, §101(d) \[title V, §516(b)(2)\], redesignated fourth sentence of subsec. (a) as subsec. (c).
+
+Subsec. (d). Pub. L. 104–134, §101(d) \[title V, §516(b)(1), (c)(2)(A)\], redesignated subsec. (b) as (d) and substituted “a provider entity” for “a hospital”, “the entity” for “the hospital” in two places, and “the conditions or requirements the entity has been treated as meeting pursuant to subsection (a) or (b)(1) of this section” for “the requirements of the numbered paragraphs of section 1395x(e) of this title”.
+
+Subsec. (e). Pub. L. 104–134, §101(d) \[title V, §516(c)(2)(B)\], added subsec. (e).
 
 1994—Subsec. (a). Pub. L. 103–432 struck out “1395m(c)(3),” after “conditions of section 1395k(a)(2)(F)(i),” in closing provisions.
 
@@ -56,7 +98,7 @@ Pub. L. 99–509, §9320(h)(3), substituted “paragraphs (12) and (13)” for �
 
 Pub. L. 98–369, §2345(a), struck out “(on a confidential basis)” after “release to the Secretary” in par. (2), and inserted provision that the Secretary may not disclose any accreditation survey made and released to him by the Joint Commission on Accreditation of Hospitals, the American Osteopathic Association, or any other national accreditation body, of an entity accredited by such body, in provisions following par. (4).
 
-1982—Subsec. (a). Pub. L. 97–248, §122(g)(4), substituted “(<i>o</i>), or (dd)” for “or (<i>o)”.</i>
+1982—Subsec. (a). Pub. L. 97–248, §122(g)(4), substituted “(<i>o</i>), or (dd)” for “or (<i>o</i>)”.
 
 Subsec. (b). Pub. L. 97–248, §128(d)(3), substituted “a hospital” for “an institution” and “the hospital” for “such institution”.
 
@@ -116,11 +158,15 @@ Amendment by section 128(d)(3) of Pub. L. 97–248 effective Sept. 3, 1982, see 
 
 #### Effective Date of 1972 Amendment
 
-Amendment by section 234(h) of Pub. L. 92–603 applicable with respect to providers of services for fiscalyears beginning after the fifth month following October 1972, see section 234(i) of Pub. L. 92–603, set out as a note under section 1395x of this title.
+Amendment by section 234(h) of Pub. L. 92–603 applicable with respect to providers of services for fiscal years beginning after the fifth month following October 1972, see section 234(i) of Pub. L. 92–603, set out as a note under section 1395x of this title.
 
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 1320c–9, 1395x, 1395aa of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be followed by “and”.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be followed by “and”.</i>
+
+<i><sup>3</sup></i><i> So in original. Probably should be “sections”.</i>
 

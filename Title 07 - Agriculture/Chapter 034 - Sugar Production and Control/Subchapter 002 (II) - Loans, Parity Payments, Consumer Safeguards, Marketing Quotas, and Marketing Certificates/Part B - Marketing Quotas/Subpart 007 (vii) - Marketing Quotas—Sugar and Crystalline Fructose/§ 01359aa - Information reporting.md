@@ -16,7 +16,7 @@ The Secretary may require a producer of sugarcane or sugar beets to report, in t
 
 #### (c) Penalty
 
-Any person willfully failing or refusing to furnish the information, or furnishing willfully any false information, shall be subject to a civil penalty of not more than $10,000 for each such violation.
+Any person willfully failing or refusing to furnish the information, or furnishing willfully anyfalse information, shall be subject to a civil penalty of not more than $10,000 for each such violation.
 
 #### (d) Monthly reports
 
@@ -39,6 +39,10 @@ Subsec. (d). Pub. L. 102–237, §111(c)(2), (4), redesignated subsec. (c) as (d
 #### Effective Date
 
 Subpart effective beginning with the 1991 crop of an agricultural commodity, with provision for prior crops, see section 1171 of Pub. L. 101–624, set out as an Effective Date of 1990 Amendment note under section 1421 of this title.
+
+#### Inapplicability of Section
+
+Section inapplicable to 1996 through 2002 crops of loan commodities, peanuts, and sugar and inapplicable to milk during period beginning Apr. 4, 1996, and ending Dec. 31, 2002, see section 7301(a)(1)(E) of this title.
 
 #### Section Referred to in Other Sections
 

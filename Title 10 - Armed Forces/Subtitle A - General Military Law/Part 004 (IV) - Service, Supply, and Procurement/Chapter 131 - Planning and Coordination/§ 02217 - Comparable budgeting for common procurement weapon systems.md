@@ -12,7 +12,7 @@ Matters To Be Included in Annual Defense Budgets.—In preparing the defense bud
 
 (b)
 
-Comptroller.—The Secretary shall carry out this section through the Comptroller of the Department of Defense.<sup>1</sup>
+Comptroller.—The Secretary shall carry out this section through the Under Secretary of Defense (Comptroller).
 
 (c)
 
@@ -22,11 +22,13 @@ Definitions.—In this section:
 
 &emsp;(2) The term “common procurement weapon system” means a weapon system for which two or more of the Army, Navy, Air Force, and Marine Corps request procurement funds in a defense budget.
 
-(Added Pub. L. 100–370, §1(d)(3)(A), July 19, 1988, 102 Stat. 843.)
+(Added Pub. L. 100–370, §1(d)(3)(A), July 19, 1988, 102 Stat. 843; amended Pub. L. 104–106, div. A, title XV, §1503(a)(20), Feb. 10, 1996, 110 Stat. 512.)
 
 #### Historical and Revision Notes
 
 Section is based on Pub. L. 99–500, §101(c) \[title X, §955\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–173, and Pub. L. 99–591, §101(c) \[title X, §955\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–173; Pub. L. 99–661, div. A, title IX, formerly title IV, §955, Nov. 14, 1986, 100 Stat. 3953, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “Under Secretary of Defense (Comptroller)”.</i>
+#### Amendments
+
+1996—Subsec. (b). Pub. L. 104–106 substituted “Under Secretary of Defense (Comptroller)” for “Comptroller of the Department of Defense”.
 

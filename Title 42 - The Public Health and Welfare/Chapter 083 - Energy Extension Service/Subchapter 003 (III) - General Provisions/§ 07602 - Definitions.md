@@ -94,7 +94,7 @@ Provisions similar to those in subsecs. (b) and (d) of this section were contain
 
 Subsec. (b)(5). Pub. L. 101–549, §107(a)(3), added par. (5).
 
-Subsec. (g). Pub. L. 101–549, §108(j)(2), inserted at end “Such term includes any precursors to the formation of any air pollutant, to the extent the Administrator has identified such precursor or precursors for the particular purpose for which the term ‘air pollutant’ is used.”
+Subsec. (g). Pub. L. 101–549, §108(j)(2), inserted at end “Such term includes any precursors to the formation ofany air pollutant, to the extent the Administrator has identified such precursor or precursors for the particular purpose for which the term ‘air pollutant’ is used.”
 
 Subsec. (h). Pub. L. 101–549, §109(b), inserted before period at end “, whether caused by transformation, conversion, or combination with other air pollutants”.
 
@@ -120,7 +120,7 @@ Subsecs. (i) to (p). Pub. L. 95–95, §301(a), added subsecs. (i) to (p).
 
 1970—Subsec. (a). Pub. L. 91–604, §15(c)(1), substituted definition of “Administrator” as meaning Administrator of the Environmental Protection Agency for definition of “Secretary” as meaning Secretary of Health, Education, and Welfare.
 
-Subsecs. (g), (h). Pub. L. 91–604, §15(a)(1), added subsec. (g) defining “air pollutant”, redesignated former subsec. (g) as (h) and substituted references to effects on soil, water, crops, vegetation, manmade materials, animals, wildlife, weather, visibility, and climate forreferences to injury to agricultural crops and livestock, and inserted references to effects on economic values and on personal comfort and well being.
+Subsecs. (g), (h). Pub. L. 91–604, §15(a)(1), added subsec. (g) defining “air pollutant”, redesignated former subsec. (g) as (h) and substituted references to effects on soil, water, crops, vegetation, manmade materials, animals, wildlife, weather, visibility, and climate for references to injury to agricultural crops and livestock, and inserted references to effects on economic values and on personal comfort and well being.
 
 1967—Pub. L. 90–148 reenacted section without change.
 

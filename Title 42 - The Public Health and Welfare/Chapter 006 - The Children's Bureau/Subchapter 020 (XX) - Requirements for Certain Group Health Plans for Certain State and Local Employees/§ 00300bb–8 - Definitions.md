@@ -4,7 +4,7 @@ For purposes of this subchapter—
 
 #### (1) Group health plan
 
-&emsp;The term “group health plan” has the meaning given such term in section 162(i)(2) <sup>1</sup> of title 26.
+&emsp;The term “group health plan” has the meaning given such term in 5000(b) <sup>1</sup> of title 26. Such term shall not include any plan substantially all of the coverage under which is for qualified long-term care services (as defined in section 7702B(c) of title 26).
 
 #### (2) Covered employee
 
@@ -20,6 +20,8 @@ For purposes of this subchapter—
 
 &emsp;&emsp;&emsp;(ii) as the dependent child of the employee.
 
+> &emsp;&emsp;Such term shall also include a child who is born to or placed for adoption with the covered employee during the period of continuation coverage under this subchapter.
+
 #### (B) Special rule for terminations and reduced employment
 
 &emsp;&emsp;In the case of a qualifying event described in section 300bb–3(2) of this title, the term “qualified beneficiary” includes the covered employee.
@@ -28,17 +30,25 @@ For purposes of this subchapter—
 
 &emsp;The term “plan administrator” has the meaning given the term “administrator” by section 1002(16)(A) of title 29.
 
-(July 1, 1944, ch. 373, title XXII, §2208, as added Apr. 7, 1986, Pub. L. 99–272, title X, §10003(a), 100 Stat. 236; amended Nov. 10, 1988, Pub. L. 100–647, title III, §3011(b)(7), 102 Stat. 3625; Dec. 19, 1989, Pub. L. 101–239, title VI, §6801(c)(1), 103 Stat. 2297.)
-
-#### References in Text
-
-Section 162(i)(2) of title 26, referred to in par. (1), was repealed by Pub. L. 101–239, title VI, §6202(b)(3)(A), Dec. 19, 1989, 103 Stat. 2233. For definition of “group health plan”, see section 5000 of Title 26, Internal Revenue Code.
+(July 1, 1944, ch. 373, title XXII, §2208, as added Apr. 7, 1986, Pub. L. 99–272, title X, §10003(a), 100 Stat. 236; amended Nov. 10, 1988, Pub. L. 100–647, title III, §3011(b)(7), 102 Stat. 3625; Dec. 19, 1989, Pub. L. 101–239, title VI, §6801(c)(1), 103 Stat. 2297; Aug. 21, 1996, Pub. L. 104–191, title I, §102(d), title III, §321(d)(3), title IV, §421(a)(3), 110 Stat. 1978, 2059, 2088.)
 
 #### Amendments
+
+1996—Par. (1). Pub. L. 104–191, §321(d)(3), inserted at end “Such term shall not include any plan substantially all of the coverage under which is for qualified long-term care services (as defined in section 7702B(c) of title 26).”
+
+Pub. L. 104–191, §102(d), substituted “5000(b)” for “section 162(i)(2)”.
+
+Par. (3)(A). Pub. L. 104–191, §421(a)(3), inserted at end “Such term shall also include a child who is born to or placed for adoption with the covered employee during the period of continuation coverage under this subchapter.”
 
 1989—Par. (2). Pub. L. 101–239 substituted “the performance of services by the individual for 1 or more persons maintaining the plan (including as an employee defined in section 401(c)(1) of title 26)” for “the individual's employment or previous employment with an employer”.
 
 1988—Par. (1). Pub. L. 100–647 substituted “section 162(i)(2) of the Internal Revenue Code of 1986” for “section 162(i)(3) of the Internal Revenue Code of 1954”, which for purposes of codification was translated as “section 162(i)(2) of title 26”.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by section 321(d)(3) of Pub. L. 104–191 applicable to contracts issued after Dec. 31, 1996, see section 321(f) of Pub. L. 104–191, set out as an Effective Date note under section 7702B of Title 26, Internal Revenue Code.
+
+Amendment by section 421(a)(3) of Pub. L. 104–191 effective Jan. 1, 1997, regardless of whether the qualifying event occurred before, on, or after such date, see section 421(d) of Pub. L. 104–191, set out as a note under section 4980B of Title 26.
 
 #### Effective Date of 1989 Amendment
 

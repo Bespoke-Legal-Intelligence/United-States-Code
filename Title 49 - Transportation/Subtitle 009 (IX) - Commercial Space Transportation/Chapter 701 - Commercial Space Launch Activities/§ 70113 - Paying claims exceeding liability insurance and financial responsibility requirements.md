@@ -60,7 +60,7 @@ Congressional Resolutions.—(1) In this subsection, “resolution”—
 
 (3) A resolution introduced in the Senate shall be referred immediately to a committee by the President of the Senate. All resolutions related to the same plan shall be referred to the same committee.
 
-(4)(A) If the committee of the Senate to which a resolution has been referred does not reportthe resolution within 20 calendar days after it is referred, a motion is in order to discharge the committee from further consideration of the resolution or to discharge the committee from further consideration of the plan.
+(4)(A) If the committee of the Senate to which a resolution has been referred does not report the resolution within 20 calendar days after it is referred, a motion is in order to discharge the committee from further consideration of the resolution or to discharge the committee from further consideration of the plan.
 
 (B) A motion to discharge may be made only by an individual favoring the resolution and is highly privileged (except that the motion may not be made after the committee has reported a resolution on the plan). Debate on the motion is limited to one hour, to be divided equally between those favoring and those opposing the resolution. An amendment to the motion is not in order. A motion to reconsider the vote by which the motion is agreed to or disagreed to is not in order.
 
@@ -78,17 +78,21 @@ Congressional Resolutions.—(1) In this subsection, “resolution”—
 
 &emsp;(C) a motion to proceed to the consideration of other business.
 
-&emsp;(D) an appeal from a decision of the chair related to the application of the rules of the Senate to the procedures related to resolution.
+&emsp;(D) an appeal from a decision of the chair related to the application of the rules of the Senate to the procedures related to a resolution.
 
 (f)
 
 Application.—This section applies to a license issued or transferred under this chapter for which the Secretary receives a complete and valid application not later than December 31, 1999.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1338.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1338; Pub. L. 104–287, §5(94), Oct. 11, 1996, 110 Stat. 3398.)
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+Pub. L. 103–272
+
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -110,15 +114,15 @@ Oct. 30, 1984, Pub. L. 98–575, §16(b)(1)–(4), 98 Stat. 3061; restated Nov. 
 
 70113(d)(1)
 
-49 App.:2615(b) (4)(A).
+49 App.:2615(b)(4)(A).
 
 70113(d)(2)
 
-49 App.:2615(b) (4)(B).
+49 App.:2615(b)(4)(B).
 
 70113(d)(3)
 
-49 App.:2615(b) (4)(C).
+49 App.:2615(b)(4)(C).
 
 70113(e)(1)
 
@@ -169,4 +173,12 @@ In subsection (e)(3), the words “once introduced with respect to a compensatio
 In subsection (e)(4)(A), the word “either” is omitted as surplus.
 
 In subsection (f), the word “only” is omitted as surplus.
+
+#### Pub. L. 104–287
+
+This amends 49:70113(e)(6)(D) to correct an error in the codification enacted by section 1 of the Act of July 5, 1994 (Public Law 103–272, 108 Stat. 1340).
+
+#### Amendments
+
+1996—Subsec. (e)(6)(D). Pub. L. 104–287 substituted “related to a resolution” for “related to resolution”.
 

@@ -32,7 +32,7 @@ For purposes of subsection (a)—
 
 For purposes of subsections (a) and (b), in the case of communications services rendered before November 1 of a calendar year for which a bill has not been rendered before the close of such year, a bill shall be treated as having been first rendered on December 31 of such year.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 503; Sept. 2, 1958, Pub. L. 85–859, title I, §133(a), 72 Stat. 1289; June 30, 1959, Pub. L. 86–75, §5, 73 Stat. 158; June 30, 1960, Pub. L. 86–564, title II, §202(a)(2), 74 Stat. 290; June 30, 1961, Pub. L. 87–72, §3(a)(2), 75 Stat. 193; June 28, 1962, Pub. L. 87–508, §3(a)(2), 76 Stat. 114; June 29, 1963, Pub. L. 88–52, §3(a)(2), 77 Stat. 72; June 30, 1964, Pub. L. 88–348, §2(a)(2), 78 Stat. 237; June 21, 1965, Pub. L. 89–44, title III, §302, title VII, §701(b)(2)(B), 79 Stat. 145, 156; Mar. 15, 1966, Pub. L. 89–368, title II, §202(a), 80 Stat. 66; Apr. 12, 1968, Pub. L. 90–285, §1(a)(3), 82 Stat. 92; June 28, 1968, Pub. L. 90–364, title I, §105(b)(1), (2), 82 Stat. 265; Dec. 30, 1969, Pub. L. 91–172, title VII, §702(b)(1), (2), 83 Stat. 660; Dec. 31, 1970, Pub. L. 91–614, title II, §201(b)(1), (2), 84 Stat. 1843; Dec. 5, 1980, Pub. L. 96–499, title XI, §1151, 94 Stat. 2694; Aug. 13, 1981, Pub. L. 97–34, title VIII, §821, 95 Stat. 351; Sept. 3, 1982, Pub. L. 97–248, title II, §282(a), 96 Stat. 568; July 18, 1984, Pub. L. 98–369, div. A, title I, §26, 98 Stat. 507; Oct. 22, 1986, Pub. L. 99–514, title XVIII, §1801(b), 100 Stat. 2785; Dec. 22, 1987, Pub. L. 100–203, title X, §10501, 101 Stat. 1330–438; Nov. 5, 1990, Pub. L. 101–508, title XI, §11217(a), 104 Stat. 1388–437.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 503; Sept. 2, 1958, Pub. L. 85–859, title I, §133(a), 72 Stat. 1289; June 30, 1959, Pub. L. 86–75, §5, 73 Stat. 158; June 30, 1960, Pub. L. 86–564, title II, §202(a)(2), 74 Stat.290; June 30, 1961, Pub. L. 87–72, §3(a)(2), 75 Stat. 193; June 28, 1962, Pub. L. 87–508, §3(a)(2), 76 Stat. 114; June 29, 1963, Pub. L. 88–52, §3(a)(2), 77 Stat. 72; June 30, 1964, Pub. L. 88–348, §2(a)(2), 78 Stat. 237; June 21, 1965, Pub. L. 89–44, title III, §302, title VII, §701(b)(2)(B), 79 Stat. 145, 156; Mar. 15, 1966, Pub. L. 89–368, title II, §202(a), 80 Stat. 66; Apr. 12, 1968, Pub. L. 90–285, §1(a)(3), 82 Stat. 92; June 28, 1968, Pub. L. 90–364, title I, §105(b)(1), (2), 82 Stat. 265; Dec. 30, 1969, Pub. L. 91–172, title VII, §702(b)(1), (2), 83 Stat. 660; Dec. 31, 1970, Pub. L. 91–614, title II, §201(b)(1), (2), 84 Stat. 1843; Dec. 5, 1980, Pub. L. 96–499, title XI, §1151, 94 Stat. 2694; Aug. 13, 1981, Pub. L. 97–34, title VIII, §821, 95 Stat. 351; Sept. 3, 1982, Pub. L. 97–248, title II, §282(a), 96 Stat. 568; July 18, 1984, Pub. L. 98–369, div. A, title I, §26, 98 Stat. 507; Oct. 22, 1986, Pub. L. 99–514, title XVIII, §1801(b), 100 Stat. 2785; Dec. 22, 1987, Pub. L. 100–203, title X, §10501, 101 Stat. 1330–438; Nov. 5, 1990, Pub. L. 101–508, title XI, §11217(a), 104 Stat. 1388–437.)
 
 #### Repeal
 
@@ -64,57 +64,24 @@ For purposes of subsections (a) and (b), in the case of communications services 
 
 1986—Subsec. (b)(2). Pub. L. 99–514 inserted “1985,” after “1984,” in table.
 
-1984—Subsec. (b)(2). Pub. L. 98–369 substituted “During 1983, 1984, 1986, or 1987” for “During 1983, 1984, or1985” in item relating to an applicable percentage of 3 and substituted “During 1988 or thereafter” for “During 1986 or thereafter” in item relating to an applicable percentage of 0.
+1984—Subsec. (b)(2). Pub. L. 98–369 substituted “During 1983, 1984, 1986, or 1987” for “During 1983, 1984, or 1985” in item relating to an applicable percentage of 3 and substituted “During 1988 or thereafter” for “During 1986 or thereafter” in item relating to an applicable percentage of 0.
 
 1982—Subsec. (a). Pub. L. 97–248 added subsec. (a) and struck out former subsec. (a) which provided that there was a tax on communication services specified as local telephone service, toll telephone service, and teletypewriter exchange service, directed that the tax was to be paid by the person paying for such services, and designated the tax as the percentage of the amount paid for the services as set out in the following table:
 
-<b>“Amounts paid pursuant to</b>
+&nbsp;
 
-<b> bills first rendered—</b>
-
-<b>Percent—</b>
-
-&nbsp;&nbsp;“Before January 1, 1973
-
-10
-
-&nbsp;&nbsp;During 1973
-
-9
-
-&nbsp;&nbsp;During 1974
-
-8
-
-&nbsp;&nbsp;During 1975
-
-7
-
-&nbsp;&nbsp;During 1976
-
-6
-
-&nbsp;&nbsp;During 1977
-
-5
-
-&nbsp;&nbsp;During 1978
-
-4
-
-&nbsp;&nbsp;During 1979
-
-3
-
-&nbsp;&nbsp;During 1980 or 1981
-
-2
-
-&nbsp;&nbsp;During 1982, 1983, or 1984
-
-1”
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+| <b>“Amounts paid pursuant to bills first rendered—</b> | <b>Percent—</b> |
+| :--- | ---: |
+| “Before January 1, 1973 | 10 |
+| During 1973 | 9 |
+| During 1974 | 8 |
+| During 1975 | 7 |
+| During 1976 | 6 |
+| During 1977 | 5 |
+| During 1978 | 4 |
+| During 1979 | 3 |
+| During 1980 or 1981 | 2 |
+| During 1982, 1983, or 1984 | 1” |
 
 Subsec. (b). Pub. L. 97–248 added subsec. (b) and struck out former subsec. (b) which provided that the tax imposed by former subsec. (a) would not apply to amounts paid pursuant to bills first rendered on or after January 1, 1985.
 
@@ -130,7 +97,7 @@ Subsec. (b). Pub. L. 96–499, §1151(b), substituted “1983” for “1982”.
 
 Subsec. (b). Pub. L. 91–614, §201(b)(2), substituted “January 1, 1982” for “January 1, 1974”.
 
-1969—Subsec. (a)(2). Pub. L. 91–172, §702(b)(1), increased rate of tax on amounts paid for for communication services from 5 to 10 percent during 1970, from 3 to 5 percent during 1971, from 1 to 3 percent during 1972, and imposed a 1 percent tax on amounts paid for communication services during 1973.
+1969—Subsec. (a)(2). Pub. L. 91–172, §702(b)(1), increased rate of tax on amounts paid for communication services from 5 to 10 percent during 1970, from 3 to 5 percent during 1971, from 1 to 3 percent during 1972, and imposed a 1 percent tax on amounts paid for communication services during 1973.
 
 Subsec. (b). Pub. L. 91–172, §702(b)(2), substituted “January 1, 1974” for “January 1, 1973”.
 

@@ -32,7 +32,7 @@ In accordance with regulations issued under this section—
 
 #### (b) Report to Congress
 
-Using the information gathered under subsection (a) of this section, the Secretaries of Agriculture and Interior shall, not later than June 1, 1995, submit to the Congress a report on the disposition of unprocessed timber harvested from Federal lands west of the 100th meridian in the contiguous 48 States, and recommendations concerning the practice of indirect substitution of such timber for exported timber harvestedfrom private lands. Specifically, such report shall—
+Using the information gathered under subsection (a) of this section, the Secretaries of Agriculture and Interior shall, not later than June 1, 1995, submit to the Congress a report on the disposition of unprocessed timber harvested from Federal lands west of the 100th meridian in the contiguous 48 States, and recommendations concerning the practice of indirect substitution of such timber for exported timber harvested from private lands. Specifically, such report shall—
 
 &emsp;(1) analyze the effects of indirect substitution on market efficiency;
 
@@ -52,7 +52,7 @@ Using the information gathered under subsection (a) of this section, the Secreta
 
 &emsp;(A) If the Secretary concerned finds, on the record and after an opportunity for a hearing, that a person, with willful disregard for the prohibition contained in sections 620 to 620j of this title against exporting Federal timber, exported or caused to be exported unprocessed timber originating from Federal lands in violation of sections 620 to 620j of this title, such Secretary may assess against such person a civil penalty of not more than $500,000 for each violation, or 3 times the gross value of the unprocessed timber involved in the violation, whichever amount is greater.
 
-&emsp;(B)(i) Subject to clause (ii), if the Secretary of Commerce finds, on the record and after an opportunity for a hearing, that a person, with willful disregard for the restrictions contained in an order of the Secretary under section 620c(a) of this title on exports of unprocessed timber from public lands, exported or caused to be exported unprocessed timber originating from public lands in violation of such order, the Secretary may assess against such person a civil penalty of not more than $500,000 for each violation, or 3 times the gross value of the unprocessed timber involved in the violation, whichever amount is greater.
+&emsp;(B)(i) Subject to clause (ii), if the Secretary of Commerce finds, on the record and after an opportunity for a hearing, that a person, with willful disregard for the restrictions contained in an order of the Secretary under section 620c(a) of this title on exports of unprocessed timber from public lands, exported or caused to be exported unprocessed timber originating from public lands in violation of such order, the Secretary may assess against such person a civil penalty of not more than $500,000 foreach violation, or 3 times the gross value of the unprocessed timber involved in the violation, whichever amount is greater.
 
 &emsp;(ii) Clause (i) shall not apply with respect to exports of unprocessed timber originating from public lands in a State that is administering and enforcing a program under section 620c(d) of this title.
 

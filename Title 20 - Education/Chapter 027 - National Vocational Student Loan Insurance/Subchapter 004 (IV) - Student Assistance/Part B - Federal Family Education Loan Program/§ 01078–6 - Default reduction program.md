@@ -4,7 +4,7 @@
 
 #### (1) Sale of loan
 
-&emsp;(A) Each guaranty agency shall enter into an agreement with the Secretary which shall provide that upon securing consecutive payments for 12 months of amounts owed on a loan for which the Secretary has made a payment under paragraph (1) of section 1078(c) of this title, the guaranty agency (pursuant to anagreement with the Secretary) or the Secretary shall, if practicable, sell the loan to an eligible lender. Such loan shall not be sold to an eligible lender who has been found by the guaranty agency or the Secretary to have substantially failed to exercise the due diligence required of lenders under this part. Neither the guaranty agency nor the Secretary shall demand from a borrower as monthly payment amounts referred to in this paragraph more than is reasonable and affordable based upon the borrower's total financial circumstances.
+&emsp;(A) Each guaranty agency shall enter into an agreement with the Secretary which shall provide that upon securing consecutive payments for 12 months of amounts owed on a loan for which the Secretary has made a payment under paragraph (1) of section 1078(c) of this title, the guaranty agency (pursuant to an agreement with the Secretary) or the Secretary shall, if practicable, sell the loan to an eligible lender. Such loan shall not be sold to an eligible lender who has been found by the guaranty agency or the Secretary to have substantially failed to exercise the due diligence required of lenders under this part. Neither the guaranty agency nor the Secretary shall demand from a borrower as monthly payment amounts referred to in this paragraph more than is reasonable and affordable based upon the borrower's total financial circumstances.
 
 &emsp;(B) An agreement between the guaranty agency and the Secretary for purposes of this paragraph shall provide—
 
@@ -28,7 +28,7 @@
 
 #### (b) Special rule
 
-Each guaranty agency shall establish a program which allows a borrower with a defaulted loan or loans to renew eligibility for all title IV student financial assistance (regardless of whether the defaulted loan has been sold to an eligible lender) upon the borrower's payment of 6 consecutive monthly payments. The guaranty agency shall not demand from a borrower as a monthly payment amount under this subsection more than is reasonable and affordable based upon the borrower's total financial circumstances. A borrower may only obtain the benefit of this subsection with respect to renewed eligibility once.
+Each guaranty agency shall establish a program which allows a borrower with a defaulted loan or loans to renew eligibility for all title IV student financial assistance (regardless of whether the defaulted loan has been sold to an eligible lender) upon the borrower's payment of 6 consecutive monthly payments. The guaranty agency shall not demand from a borrower as a monthly payment amount under this subsectionmore than is reasonable and affordable based upon the borrower's total financial circumstances. A borrower may only obtain the benefit of this subsection with respect to renewed eligibility once.
 
 (Pub. L. 89–329, title IV, §428F, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1394; amended Pub. L. 100–50, §10(u), June 3, 1987, 101 Stat. 346; Pub. L. 101–239, title II, §2005(a), Dec. 19, 1989, 103 Stat. 2116; Pub. L. 102–325, title IV, §420, July 23, 1992, 106 Stat. 534; Pub. L. 103–208, §2(c)(38)–(40), Dec. 20, 1993, 107 Stat. 2466.)
 

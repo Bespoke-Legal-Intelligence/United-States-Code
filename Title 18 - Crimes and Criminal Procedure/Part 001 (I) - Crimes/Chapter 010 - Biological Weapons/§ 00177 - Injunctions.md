@@ -6,7 +6,7 @@ In General.—The United States may obtain in a civil action an injunction again
 
 &emsp;(1) the conduct prohibited under section 175 of this title;
 
-&emsp;(2) the preparation, solicitation, attempt, or conspiracy to engage in conduct prohibited under section 175 of this title; or
+&emsp;(2) the preparation, solicitation, attempt, threat, or conspiracy to engage in conduct prohibited under section 175 of this title; or
 
 &emsp;(3) the development, production, stockpiling, transferring, acquisition, retention, or possession, or the attempted development, production, stockpiling, transferring, acquisition, retention, or possession of any biological agent, toxin, or delivery system of a type or in a quantity that under the circumstances has no apparent justification for prophylactic, protective, or other peaceful purposes.
 
@@ -18,5 +18,9 @@ Affirmative Defense.—It is an affirmative defense against an injunction under 
 
 &emsp;(2) such biological agent, toxin, or delivery system is of a type and quantity reasonable for that purpose.
 
-(Added Pub. L. 101–298, §3(a), May 22, 1990, 104 Stat. 202.)
+(Added Pub. L. 101–298, §3(a), May 22, 1990, 104 Stat. 202; amended Pub. L. 104–132, title V, §511(b)(2), Apr. 24, 1996, 110 Stat. 1284.)
+
+#### Amendments
+
+1996—Subsec. (a)(2). Pub. L. 104–132 inserted “threat,” after “attempt,”.
 

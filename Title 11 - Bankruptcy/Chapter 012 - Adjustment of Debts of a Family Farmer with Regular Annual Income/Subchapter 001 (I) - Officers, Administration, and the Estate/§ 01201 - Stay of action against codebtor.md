@@ -1,6 +1,6 @@
 ### §1201. Stay of action against codebtor
 
-(a) Except as provided in subsections (b) and (c) of this section, after the order for relief under this chapter, a creditor may not act, or commence or continue any civil action, to collect all or any part of a consumer debt of the debtor from any individual that is liable on such debt with the debtor, or that secured such debt, unless—
+(a) Except as provided in subsections (b) and (c) of this section, after the order for relief under this chapter, a creditor may not act, or commence or continue any civil action, to collect all or any part of a consumer debt of the debtor from any individual that is liable on suchdebt with the debtor, or that secured such debt, unless—
 
 &emsp;(1) such individual became liable on or secured such debt in the ordinary course of such individual's business; or
 

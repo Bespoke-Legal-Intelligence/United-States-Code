@@ -1,18 +1,18 @@
 ### §12004. Strength in grade: reserve general and flag officers in an active status
 
-(a) The authorized strengths of the Army, Air Force, and Marine Corps in reserve general officers in an active status, and the authorized strength of the Navy in reserve officers in the grades of rear admiral (lower half) and rear admiral in an active-status, are as follows:
+(a) The authorized strengths of the Army, Air Force, and Marine Corps in reserve general officers in an active status, and the authorized strength of the Navy in reserve officers in the grades of rear admiral (lower half) and rear admiral in an active status, are as follows:
 
 &emsp;&emsp;Army
 
-207&nbsp;
+207&nbsp;&nbsp;
 
 &emsp;&emsp;Air Force
 
-157&nbsp;
+157&nbsp;&nbsp;
 
 &emsp;&emsp;Navy
 
-48&nbsp;
+48&nbsp;&nbsp;
 
 &emsp;&emsp;Marine Corps
 
@@ -60,7 +60,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-(2) The remaining authorizations for the Navy under subsection (a) shall be distributed among such other staff corps as are established by the Secretary of the Navy under the authority provided by section 5150(b) of this title, except that—
+(2) The remaining authorizations for the Navy under subsection (a) shall be distributed among such other staff corps as are established by theSecretary of the Navy under the authority provided by section 5150(b) of this title, except that—
 
 &emsp;(A) if the Secretary has established a Supply Corps, the authorized strength for the Supply Corps shall be seven; and
 
@@ -74,11 +74,19 @@
 
 (2) An officer of the Naval Reserve or the Marine Corps Reserve may not be reduced in permanent grade because of a reduction in the number authorized by this section for his grade.
 
-(Added Pub. L. 103–337, div. A, title XVI, §1662(a)(1), Oct. 5, 1994, 108 Stat. 2984.)
+(Added Pub. L. 103–337, div. A, title XVI, §1662(a)(1), Oct. 5, 1994, 108 Stat. 2984; amended Pub. L. 104–106, div. A, title XV, §1501(b)(9), Feb. 10, 1996, 110 Stat. 496.)
 
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in sections 3218, 5457(a), 5458(a), and 8218 of this title, prior to repeal by Pub. L. 103–337, §1662(a)(3).
+
+#### Amendments
+
+1996—Subsec. (a). Pub. L. 104–106 substituted “active status, are” for “active-status, are”.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–106 effective as if included in the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as enacted on Oct. 5, 1994, see section 1501(f)(3) of Pub. L. 104–106, set out as a note under section 113 of this title.
 
 #### Cross References
 

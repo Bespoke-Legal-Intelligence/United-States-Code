@@ -26,7 +26,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 5 U.S.C. 837.
 
@@ -46,7 +48,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-<b>1994</b>—Pub. L. 103–329 amended text generally. Prior to amendment, text read as follows:
+1994—Pub. L. 103–329 amended text generally. Prior to amendment, text read as follows:
 
 “(a) Under regulations prescribed under section 5707 of this title, an employee who is engaged on official business for the Government is entitled to not in excess of—
 
@@ -68,17 +70,17 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 &emsp;“(4) airplane landing and tie-down fees.”
 
-<b>1980</b>—Subsec. (a)(1). Pub. L. 96–346, §2(1), substituted “20 cents” for “11 cents”.
+1980—Subsec. (a)(1). Pub. L. 96–346, §2(1), substituted “20 cents” for “11 cents”.
 
 Subsec. (a)(2). Pub. L. 96–346, §2(2), substituted “25 cents” for “20 cents”.
 
 Subsec. (a)(3). Pub. L. 96–346, §2(3), substituted “45 cents” for “24 cents”.
 
-<b>1975</b>—Subsec. (a). Pub. L. 94–22 struck out “or other individual performing services for the Government”after “employee”, substituted “for the Government” for “inside or outside his designated post of duty or place of service”, increased from 8 to 11 cents the allowance for use of a motorcycle, from 12 to 20 cents the allowance for use of an automobile, and from 12 to 24 cents the allowance for use of an airplane, and inserted provision relating to the limitation of an allowance to the cost of travel by Government vehicle when an employee chooses a privately owned vehicle in lieu of a Government vehicle.
+1975—Subsec. (a). Pub. L. 94–22 struck out “or other individual performing services for the Government” after “employee”, substituted “for the Government” for “inside or outside his designated post of duty or place of service”, increased from 8 to 11 cents the allowance for use of a motorcycle, from 12 to 20 cents the allowance for use of an automobile, and from 12 to 24 cents the allowance for use of an airplane, and inserted provision relating to the limitation of an allowance to the cost of travel by Government vehicle when an employee chooses a privately owned vehicle in lieu of a Government vehicle.
 
 Subsec. (b). Pub. L. 94–22 inserted “authorized” after “allowance”, struck out “or other individual performing service for the Government” after “employee”, and provided for reimbursement of airplane landing and tie-down fee.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 5707, 5724 of this title; title 2 section 476; title 7 sections 3128, 3194, 3335, 4108, 5843; title 13 sections 24, 26; title 16 sections 971a, 971b, 2443, 3608, 3641, 5608, 5709; title 22 section 1474; title 24 section 415; title 28 section 1821; title 30 section 812; title 33 section 1320; title 37 section 404; title 38 section 111; title 42 section 2477.
+This section is referred to in sections 5707, 5724 of this title; title 2 section 476; title 7 sections 3128, 5843; title 13 sections 24, 26; title 16 sections 971a, 971b, 2443, 3608, 3641, 5608, 5709; title 22 section 1474; title 24 section 415; title 28 section 1821; title 30 section 812; title 33 section 1320; title 37 section 404; title 38 section 111; title 42 section 2477.
 

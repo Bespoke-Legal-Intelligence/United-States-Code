@@ -6,7 +6,7 @@
 
 &emsp;(2) physical requirements if, in the opinion of the Office or other examining agency, after considering the recommendation of an accredited physician, the preference eligible is physically able to perform efficiently the duties of the position.
 
-(b) If an examining agency determines that, on the basis of evidence before it, a preference eligible under section 2108(3)(C) of this title who has a compensable service-connected disability of 30 percent or more is not able to fulfill the physical requirements of the position, the examining agency shall notify the Office of the determination and, at the same time, the examining agency shall notify the preference eligible of the reasons for the determination and of the right torespond, within 15 days of the date of the notification, to the Office. The Office shall require a demonstration by the appointing authority that the notification was timely sent to the preference eligible's last known address and shall, before the selection of any other person for the position, make a final determination on the physical ability of the preference eligible to perform the duties of the position, taking into account any additional information provided in any such response. When the Office has completed its review of the proposed disqualification on the basis of physical disability, it shall send its findings to the appointing authority and the preference eligible. The appointing authority shall comply with the findings of the Office. The functions of the Office under this subsection may not be delegated.
+(b) If an examining agency determines that, on the basis of evidence before it, a preference eligible under section 2108(3)(C) of this title who has a compensable service-connected disability of 30 percent or more is not able to fulfill the physical requirements of the position, the examining agency shall notify the Office of the determination and, at the same time, the examining agency shall notify the preference eligible of the reasons for the determination and of the right to respond, within 15 days of the date of the notification, to the Office. The Office shall require a demonstration by the appointing authority that the notification was timely sent to the preference eligible's last known address and shall, before the selection of any other person for the position, make a final determination on the physical ability of the preference eligible to perform the duties of the position, taking into account any additional information provided in any such response. When the Office has completed its review of the proposed disqualification on the basis of physical disability, it shall send its findings to the appointing authority and the preference eligible. The appointing authority shall comply with the findings of the Office. The functions of the Office under this subsection may not be delegated.
 
 (Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 420; Pub. L. 95–454, title III, §307(c), title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1148, 1224.)
 
@@ -16,7 +16,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 5 U.S.C. 854 (1st 2 sentences, less so much as relates to promotion, retention, and transfer).
 
@@ -28,7 +30,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-<b>1978</b>—Pub. L. 95–454 designated existing provisions as subsec. (a), substituted “Office of Personnel Management” and “Office” for “Civil Service Commission” and “Commission”, respectively, and added subsec. (b).
+1978—Pub. L. 95–454 designated existing provisions as subsec. (a), substituted “Office of Personnel Management” and “Office” for “Civil Service Commission” and “Commission”, respectively, and added subsec. (b).
 
 #### Effective Date of 1978 Amendment
 
@@ -36,5 +38,5 @@ Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 3320 of this title; title 22 section 1438.
+This section is referred to in section 3320 of this title; title 10 section 1599c; title 22 section 1438.
 

@@ -20,9 +20,9 @@ Within 2 years after October 24, 1992, the Nuclear Regulatory Commission shall e
 
 &emsp;The Nuclear Regulatory Commission shall establish a certification process to ensure that the Corporation complies with standards established under subsection (a) of this section.
 
-#### (2) Annual application for certificate of compliance
+#### (2) Periodic application for certificate of compliance
 
-&emsp;The Corporation shall apply at least annually to the Nuclear Regulatory Commission for a certificate of compliance under paragraph (1). The Nuclear Regulatory Commission, in consultation with the Environmental Protection Agency, shall review any such application and any determination made under subsection (b)(2) of this section shall be based on the results of any such review.
+&emsp;The Corporation shall apply to the Nuclear Regulatory Commission for a certificate of compliance under paragraph (1) periodically, as determined by the Commission, but not less than every 5 years. The Commission shall review any such application and any determination made under subsection (b)(2) of this section shall be based on the results of any such review.
 
 #### (3) Treatment of certificate of compliance
 
@@ -40,15 +40,19 @@ Within 2 years after October 24, 1992, the Nuclear Regulatory Commission shall e
 
 #### (C) Limitation
 
-&emsp;&emsp;The Nuclear Regulatory Commission shall limit its finding under subsection (b)(2) of this section to a determination of whether the facilities are in compliance with thestandards established under subsection (a) of this section.
+&emsp;&emsp;The Nuclear Regulatory Commission shall limit its finding under subsection (b)(2) of this section to a determination of whether the facilities are in compliance with the standards established under subsection (a) of this section.
 
 #### (d) Requirement for operation
 
 The gaseous diffusion uranium enrichment facilities of the Department may not be operated by the Corporation unless the Nuclear Regulatory Commission, in consultation with the Environmental Protection Agency, makes a determination of compliance under subsection (b) of this section or approves a plan prepared by the Department for achieving compliance required under subsection (b) of this section.
 
-(Aug. 1, 1946, ch. 724, title II, §1701, as added Oct. 24, 1992, Pub. L. 102–486, title XI, §1101, 106 Stat. 2951.)
+(Aug. 1, 1946, ch. 724, title II, §1701, as added Oct. 24, 1992, Pub. L. 102–486, title XI, §1101, 106 Stat. 2951; amended Apr. 26, 1996, Pub. L. 104–134, title III, §3116(b)(3), 110 Stat. 1321–349.)
+
+#### Amendments
+
+1996—Subsec. (c)(2). Pub. L. 104–134 amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “The Corporation shall apply at least annually to the Nuclear Regulatory Commission for a certificate of compliance under paragraph (1). The Nuclear Regulatory Commission, in consultation with the Environmental Protection Agency, shall review any such application and any determination made under subsection (b)(2) of this section shall be based on the results of any such review.”
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 2201 of this title.
+This section is referred to in sections 2201, 2239, 2243, 2282 of this title.
 

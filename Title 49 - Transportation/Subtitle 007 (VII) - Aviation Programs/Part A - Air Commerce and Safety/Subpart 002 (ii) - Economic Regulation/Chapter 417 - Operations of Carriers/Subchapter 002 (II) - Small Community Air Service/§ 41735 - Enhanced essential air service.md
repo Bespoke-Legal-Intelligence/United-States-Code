@@ -58,7 +58,9 @@ Ending, Suspending, and Reducing Air Transportation.—An air carrier may end, s
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -76,11 +78,11 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §419(c); added Oct. 24, 1978, Pu
 
 41735(c)
 
-49 App.:1389(c) (5)–(7).
+49 App.:1389(c)(5)–(7).
 
 41735(d)
 
-49 App.:1389(c) (3)(A), (B).
+49 App.:1389(c)(3)(A), (B).
 
 41735(e)
 
@@ -102,5 +104,5 @@ In subsection (d)(3), the words “For service for which the Government pays 100
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 40109, 41110, 46301 of this title.
+This section is referred to in section 41110 of this title.
 

@@ -28,7 +28,7 @@
 | (a) | Adequacy; criteria. |
 | (b) | Traffic considerations. |
 | (c) | Certificate; issuance; validity; inspection; review of suspension or revocation by Secretary. |
-| (d) | Publication in Federal Register; list of certificated ports or terminals. |
+| (d) | Publication of list of certificated ports or terminals. |
 | (e) | Entry; denial. |
 | (f) | Surveys. |
 | [1906\.](%C2%A7%2001906%20-%20Incidents%20involving%20ships.md) | Incidents involving ships. |
@@ -60,12 +60,24 @@
 | (e) | Federal intervention. |
 | [1911\.](%C2%A7%2001911%20-%20Authority%20of%20Secretary%20under%20port%20and%20tanker%20safety%20program%20unaffected.md) | Authority of Secretary under port and tanker safety program unaffected. |
 | [1912\.](%C2%A7%2001912%20-%20International%20law.md) | International law. |
+| [1913\.](%C2%A7%2001913%20-%20Compliance%20reports.md) | Compliance reports. |
+| (a) | In general. |
+| (b) | Report on inability to comply. |
+| (c) | Congressional action. |
+| [1914\.](%C2%A7%2001914%20-%20Coordination.md) | Coordination. |
+| (a) | Establishment of Marine Debris Coordinating Committee. |
+| (b) | Membership. |
+| (c) | Meetings. |
+| (d) | Monitoring. |
+| [1915\.](%C2%A7%2001915%20-%20Plastic%20pollution%20public%20education%20program.md) | Plastic pollution public education program. |
+| (a) | Outreach program. |
+| (b) | Citizen Pollution Patrols. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in title 18 section 1956.
+This chapter is referred to in sections 1913, 1914, 1915 of this title; title 16 sections 2403, 2405; title 18 section 1956.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
@@ -90,3 +102,6 @@ This chapter is referred to in title 18 section 1956.
 - [&sect; 01910 - Legal actions](%C2%A7%2001910%20-%20Legal%20actions.md)
 - [&sect; 01911 - Authority of Secretary under port and tanker safety program unaffected](%C2%A7%2001911%20-%20Authority%20of%20Secretary%20under%20port%20and%20tanker%20safety%20program%20unaffected.md)
 - [&sect; 01912 - International law](%C2%A7%2001912%20-%20International%20law.md)
+- [&sect; 01913 - Compliance reports](%C2%A7%2001913%20-%20Compliance%20reports.md)
+- [&sect; 01914 - Coordination](%C2%A7%2001914%20-%20Coordination.md)
+- [&sect; 01915 - Plastic pollution public education program](%C2%A7%2001915%20-%20Plastic%20pollution%20public%20education%20program.md)

@@ -2,15 +2,15 @@
 
 #### (a) Local sale and barter of commodities
 
-An agreement entered into between the Administrator and a private voluntary organization or cooperative to provide food assistance through such organization or cooperative under this subchapter may provide for the sale or barter in the recipient country of the commodities to be provided under such agreement.
+An agreement entered into between the Administrator and a private voluntary organization or cooperative to provide food assistance through such organization or cooperative under this subchapter may provide for the sale or barter in the recipient country, or in a country in the same region, of the commodities to be provided under such agreement.
 
 #### (b) Minimum level of local sales
 
-In carrying out agreements of the type referred to in subsection (a) of this section, the Administrator shall permit private voluntary organizations and cooperatives to sell, in recipient countries, an amount of commodities equal to not less than 10 percent of the aggregate amounts of all commodities distributed under non-emergency programs under this subchapter for each fiscal year, to generate foreign currency proceeds to be used as provided in this section.
+In carrying out agreements of the type referred to in subsection (a) of this section, the Administrator shall permit private voluntary organizations and cooperatives to sell, in recipient countries, or in countries in the same region, an amount of commodities equal to not less than 15 percent of the aggregate amounts of all commodities distributed under non-emergency programs under this subchapter for each fiscal year, to generate foreign currency proceeds to be used as provided in this section.
 
 #### (c) Description of intended uses
 
-A private voluntary organization or cooperative submitting a proposal to enter into a non-emergency food assistance agreement under this subchapter shall include in such proposal a description of the intended uses of any foreign currency proceeds that may be generated through the sale, in the recipient country, of any commodities provided under an agreement entered into between the Administrator and the organization or cooperative.
+A private voluntary organization or cooperative submitting a proposal to enter into a non-emergency food assistance agreement under this subchapter shall include in such proposal a description of the intended uses of any foreign currency proceeds that may be generated through the sale, in the recipient country, or in a country in the same region, of any commodities provided under an agreement entered into between the Administrator and the organization or cooperative.
 
 #### (d) Use
 
@@ -18,19 +18,27 @@ Foreign currencies generated from any partial or full sale or barter of commodit
 
 &emsp;(1) be used to transport, store, distribute, and otherwise enhance the effectiveness of the use of agricultural commodities provided under this subchapter;
 
-&emsp;(2) be used to implement income generating, community development, health, nutrition, cooperative development, agricultural, and other developmental activities within the recipient country; or
+&emsp;(2) be used to implement income generating, community development, health, nutrition, cooperative development, agricultural, and other developmental activities within the recipient country or within a country in the same region; or
 
 &emsp;(3) be invested and any interest earned on such investment may be used for the purposes for which the assistance was provided to that organization, without further appropriation by Congress.
 
-(July 10, 1954, ch. 469, title II, §203, 68 Stat. 458; May 28, 1956, ch. 327, title II, §208(c), 70 Stat. 201; Aug. 13, 1957, Pub. L. 85–128, §1(3), 71 Stat. 345; Sept. 21, 1959, Pub. L. 86–341, title I, §3, 73 Stat. 606; May 14, 1960, Pub. L. 86–472, ch. VI, §601(b), 74 Stat. 140; Aug. 8, 1961, Pub. L. 87–128, title II, §202(1), 75 Stat. 307; Oct. 8, 1964, Pub. L. 88–638, §1(13), (14), 78 Stat. 1037; Nov. 11, 1966, Pub. L. 89–808, §2(C), 80 Stat. 1535; Aug. 3, 1977, Pub. L. 95–88, title II, §209, 91 Stat. 548; Oct. 12, 1984, Pub. L. 98–473, title III, §305, 98 Stat. 2195; Nov. 28, 1990, Pub. L. 101–624, title XV, §1512, 104 Stat. 3638.)
+(July 10, 1954, ch. 469, title II, §203, 68 Stat. 458; May 28, 1956, ch. 327, title II, §208(c), 70 Stat. 201; Aug. 13, 1957, Pub. L. 85–128, §1(3), 71 Stat. 345; Sept. 21, 1959, Pub. L. 86–341, title I, §3, 73 Stat. 606; May 14, 1960, Pub. L. 86–472, ch. VI, §601(b), 74 Stat. 140; Aug. 8, 1961, Pub. L. 87–128, title II, §202(1), 75 Stat. 307; Oct. 8, 1964, Pub. L. 88–638, §1(13), (14), 78 Stat. 1037; Nov. 11, 1966, Pub. L. 89–808, §2(C), 80 Stat. 1535; Aug. 3, 1977, Pub. L. 95–88, title II, §209, 91 Stat. 548; Oct. 12, 1984, Pub. L. 98–473, title III, §305, 98 Stat. 2195; Nov. 28, 1990, Pub. L. 101–624, title XV, §1512, 104 Stat. 3638; Apr. 4, 1996, Pub. L. 104–127, title II, §208, 110 Stat. 954.)
 
 #### Amendments
+
+1996—Subsec. (a). Pub. L. 104–127, §208(1), inserted “, or in a country in the same region,” after “in the recipient country”.
+
+Subsec. (b). Pub. L. 104–127, §208(2), inserted “or in countries in the same region,” after “in recipient countries,” and substituted “15 percent” for “10 percent”.
+
+Subsec. (c). Pub. L. 104–127, §208(3), inserted “or in a country in the same region,” after “recipient country,”.
+
+Subsec. (d)(2). Pub. L. 104–127, §208(4), inserted “or within a country in the same region” after “recipient country”.
 
 1990—Pub. L. 101–624 amended section generally, substituting present provisions for provisions relating to the payment of costs and charges by the Commodity Credit Corporation for packaging, enrichment, preservation, processing, transportation, handling, and other incidental charges relating to commodities.
 
 1984—Pub. L. 98–473 inserted following cl. (4): “in the case of commodities for urgent and extraordinary relief requirements, including pre-positioned commodities, transportation costs from designated points of entry or ports of entry abroad to storage and distribution sites and associated storage and distribution costs;”.
 
-1977—Pub. L. 95–88 substituted “transportation from United States ports to designated points of entry abroad in the case (1) of landlocked countries, (2) where ports cannot be used effectively because of natural or other disturbances, (3) where carriers to a specific country are unavailable, or (4) where a substantial savings in costs or time can be effected by the utilization of points of entry other than ports” for “, or, in the case of landlocked countries, transportation from United States ports to designated points of entry abroad”.
+1977—Pub. L. 95–88 substituted “transportation from United States ports to designated points of entry abroad in the case (1) of landlocked countries, (2) where ports cannot be used effectively because of natural or other disturbances, (3) where carriers to a specificcountry are unavailable, or (4) where a substantial savings in costs or time can be effected by the utilization of points of entry other than ports” for “, or, in the case of landlocked countries, transportation from United States ports to designated points of entry abroad”.
 
 1966—Pub. L. 89–808 reenacted, with linguistic changes, existing provisions for payment of costs and charges, included costs of acquisition, packaging, enrichment, preservation, fortification, processing, handling, other incidents, struck out provisions for authorization of appropriations for reimbursement of CCC, limitation on amount, and use of funds for purchase of foreign currencies, now covered by section 1724 of this title, and deleted other provisions for use of agencies, organizations, and facilities in making transfers, now covered by section 1722 of this title, and provision for transfer of funds from the CCC to such other Federal agency designated by the President for payment of ocean freight costs or for purchase of foreign currencies under this subchapter.
 
@@ -65,8 +73,4 @@ Section 1(13) of Pub. L. 88–638 provided that the substitution of “1965” f
 #### Effective Date of 1959 Amendment
 
 Section 3 of Pub. L. 86–341 provided that the amendment made by that section is effective Jan. 1, 1960.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1736<i>o</i> of this title.
 

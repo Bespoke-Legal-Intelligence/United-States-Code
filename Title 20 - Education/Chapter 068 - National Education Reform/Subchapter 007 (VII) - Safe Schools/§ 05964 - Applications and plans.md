@@ -20,7 +20,7 @@ In order to receive a grant under this subchapter, an eligible local educational
 
 &emsp;(8) a description of how, in subsequent fiscal years, the grantee will integrate the violence prevention activities the grantee carries out with funds under this subchapter with activities carried out under the grantee's comprehensive plan for drug and violence prevention adopted under the Drug-Free Schools and Communities Act of 1986;
 
-&emsp;(9) a description of how the grantee will coordinate the grantee's school crime and violence prevention efforts with education, law enforcement, judicial, health, and social service programs supported under the Juvenile Justice and Delinquency Prevention Act of 1974 \[42 U.S.C. 5601 et seq.\], and other appropriate agencies and organizations serving the community;
+&emsp;(9) a description of how the grantee will coordinate the grantee's school crime and violence prevention efforts with education, law enforcement, judicial, health, and social service programs supported under the JuvenileJustice and Delinquency Prevention Act of 1974 \[42 U.S.C. 5601 et seq.\], and other appropriate agencies and organizations serving the community;
 
 &emsp;(10) a description of how the grantee will inform parents about the extent of crime and violence in their children's schools and maximize the participation of parents in the grantee's violence prevention activities;
 

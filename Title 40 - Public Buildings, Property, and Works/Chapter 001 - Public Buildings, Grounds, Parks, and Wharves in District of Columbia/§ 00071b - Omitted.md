@@ -54,7 +54,7 @@ It will also result in long-range savings to the Federal Government. The regiona
 
 Annual savings of at least $25,000 should result from the reorganization plan.
 
-The functions to be abolished by the reorganization plan are provided for in sections 2(e), 3, 4, 5(d), and 6(b)of the act approved June 6, 1924, entitled “An Act providing for a comprehensive development of the park and playground system of the National Capital” (43 Stat. 463), as amended (66 Stat. 783, 40 U.S.C. 71a(e), 71b, 71c, 71d(d), and 71E(b)).
+The functions to be abolished by the reorganization plan are provided for in sections 2(e), 3, 4, 5(d), and 6(b) of the act approved June 6, 1924, entitled “An Act providing for a comprehensive development of the park and playground system of the National Capital” (43 Stat. 463), as amended (66 Stat. 783, 40 U.S.C. 71a(e), 71b, 71c, 71d(d), and 71E(b)).
 
 I have found, after investigation, that each reorganization included in the accompanying reorganization plan is necessary to accomplish one or more of the purposes set forth in section 2(a) of the Reorganization Act of 1949, as amended.
 

@@ -72,7 +72,7 @@ Any local educational agency which desires to receive assistance under section 1
 
 &emsp;&emsp;(v) programs to support early childhood education efforts at the preschool and school level.
 
-&emsp;(C) In conducting programs under this paragraph, local educational agencies shall place a priority on recruiting students and individuals from minority groups.
+&emsp;(C) In conducting programs under this paragraph, local educational agencies shall place apriority on recruiting students and individuals from minority groups.
 
 &emsp;(D) Local educational agencies may conduct programs under this paragraph in consortia with institutions of higher education.
 

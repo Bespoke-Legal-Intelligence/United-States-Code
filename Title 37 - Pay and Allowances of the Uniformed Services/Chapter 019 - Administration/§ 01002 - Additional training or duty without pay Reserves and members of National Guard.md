@@ -1,6 +1,6 @@
 ### §1002. Additional training or duty without pay: Reserves and members of National Guard
 
-(a) A member of the National Guard, or of a reserve component of a uniformed service, may, with his consent, be given additional training or other duty as provided by law, without pay, as may be authorized by the Secretary concerned.
+(a) A member of the National Guard, or of a reserve component of a uniformed service, may, with his consent, be given additional training orother duty as provided by law, without pay, as may be authorized by the Secretary concerned.
 
 (b) A member who performs training or other duty without pay under subsection (a) may, in the discretion of the Secretary concerned, be authorized the travel and transportation allowances prescribed by section 404(a)–(d), and (f), of this title for travel performed to and from that training or duty, and, during the performance of that training or duty, be furnished with subsistence and quarters in kind or commutation thereof at a rate to be fixed by the Secretary concerned.
 
@@ -20,9 +20,15 @@ Historical and Revision Notes
 
 1002(a)
 
+&nbsp;
+
 1002(b)
 
+&nbsp;
+
 1002(c)
+
+&nbsp;
 
 1002(d)
 

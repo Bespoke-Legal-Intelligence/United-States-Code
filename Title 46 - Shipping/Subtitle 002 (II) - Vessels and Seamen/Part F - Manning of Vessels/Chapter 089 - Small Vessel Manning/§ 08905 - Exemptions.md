@@ -2,9 +2,11 @@
 
 (a) Section 8903 of this title applies to a recreational vessel operated in dealer demonstrations only if the Secretary decides that the application of section 8903 is necessary for recreational vessel safety under section 4302(d) of this title.
 
-(b) Section 8904 of this title does not apply to a vessel of less than 200 gross tons engaged in the offshore mineral and oil industry if the vessel has offshore mineral and oil industry sites or equipment as its ultimate destination or place of departure.
+(b) Section 8904 of this title does not apply to a vessel of less than 200 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title engaged in the offshore mineral and oil industry if the vessel has offshore mineral and oil industry sites or equipment as its ultimate destination or place of departure.
 
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 556.)
+(c) Section 8904 of this title does not apply to an oil spill response vessel while engaged in oil spill response or training activities.
+
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 556; Pub. L. 104–324, title VII, §734, title XI, §1104(f), Oct. 19, 1996, 110 Stat. 3941, 3967.)
 
 Historical and Revision Notes
 
@@ -25,4 +27,10 @@ Section 8905 provides for certain exemptions from the requirements of this chapt
 Subsection (a) exempts dealer demonstration recreational vessels from the licensed operator requirement in section 8903 unless the Secretary decides that safety considerations require the application of that section.
 
 Subsection (b) exempts an offshore supply vessel of less than 200 gross tons from the licensed operator requirement under section 8904 when used in the offshore mineral and oil industry.
+
+#### Amendments
+
+1996—Subsec. (b). Pub. L. 104–324, §734, inserted “as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title” after “200 gross tons”.
+
+Subsec. (c). Pub. L. 104–324, §1104(f), added subsec. (c).
 

@@ -1,0 +1,54 @@
+### §688. Retired members: authority to order to active duty; duties
+
+(a)
+
+Authority.—Under regulations prescribed by the Secretary of Defense, a member described in subsection (b) may be ordered to active duty by the Secretary of the military department concerned at any time.
+
+(b)
+
+Covered Members.—Except as provided in subsection (d), subsection (a) applies to the following members of the armed forces:
+
+&emsp;(1) A retired member of the Regular Army, Regular Navy, Regular Air Force, or Regular Marine Corps.
+
+&emsp;(2) A member of the Retired Reserve who was retired under section 1293, 3911, 3914, 6323, 8911, or 8914 of this title.
+
+&emsp;(3) A member of the Fleet Reserve or Fleet Marine Corps Reserve.
+
+(c)
+
+Duties of Member Ordered to Active Duty.—The Secretary concerned may, to the extent consistent with other provisions of law, assign a member ordered to active duty under this section to such duties as the Secretary considers necessary in the interests of national defense.
+
+(d)
+
+Exclusion of Officers Retired on Selective Early Retirement Basis.—The following officers may not be ordered to active duty under this section:
+
+&emsp;(1) An officer who retired under section 638 of this title.
+
+&emsp;(2) An officer who—
+
+&emsp;&emsp;(A) after having been notified that the officer was to be considered for early retirement under section 638 of this title by a board convened under section 611(b) of this title and before being considered by that board, requested retirement under section 3911, 6323, or 8911 of this title; and
+
+&emsp;&emsp;(B) was retired pursuant to that request.
+
+(e)
+
+Limitation of Period of Recall Service.—A member ordered to active duty under subsection (a) may not serve on active duty pursuant to orders under that subsection for more than 12 months within the 24 months following the first day of the active duty to which ordered under that subsection.
+
+(f)
+
+Waiver for Periods of War or National Emergency.—Subsections (d) and (e) do not apply in time of war or of national emergency declared by Congress or the President.
+
+(Added Pub. L. 104–201, div. A, title V, §521(a), Sept. 23, 1996, 110 Stat. 2515.)
+
+#### Prior Provisions
+
+A prior section 688, added Pub. L. 96–513, title I, §106, Dec. 12, 1980, 94 Stat. 2868; amended Pub. L. 98–94, title X, §1017(b)(1)–(3), Sept. 24, 1983, 97 Stat. 669; Pub. L. 99–145, title V, §516, Nov. 8, 1985, 99 Stat. 630; Pub. L. 102–190, div. A, title V, §506(a), Dec. 5, 1991, 105 Stat. 1359; Pub. L. 103–160, div. A, title V, §563, Nov. 30, 1993, 107 Stat. 1669, provided that certain retired members of the armed forces could be ordered to active duty, prior to repeal by Pub. L. 104–201, div. A, title V, §521(a), (b), Sept. 23, 1996, 110 Stat. 2515, 2517, effective Sept. 30, 1997. See sections 688 to 690 of this title.
+
+#### Effective Date
+
+Section 521(b) of Pub. L. 104–201 provided that: “The amendments made by this section \[enacting this section and sections 689 and 690 of this title, amending section 6151 of this title, and repealing former section 688 of this title\] shall take effect on September 30, 1997.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 101, 689, 690, 12307 of this title; title 37 sections 302f, 403a; title 38 sections 3013, 3231, 3511, 4312; title 50 App. section 592.
+

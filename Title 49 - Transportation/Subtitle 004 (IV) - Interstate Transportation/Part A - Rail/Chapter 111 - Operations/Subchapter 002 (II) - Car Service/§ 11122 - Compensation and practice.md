@@ -4,7 +4,7 @@
 
 &emsp;(1) the compensation to be paid for the use of a locomotive, freight car, or other vehicle;
 
-&emsp;(2) the other terms of any arrangement for the use by a rail carrier of a locomotive, freight car, or other vehicle not owned by the rail carrier using the locomotive, freight car, or other vehicle, whether or not owned by another carrier, shipper, or third person; and
+&emsp;(2) the other terms of any arrangement for the use by a rail carrier of a locomotive,freight car, or other vehicle not owned by the rail carrier using the locomotive, freight car, or other vehicle, whether or not owned by another carrier, shipper, or third person; and
 
 &emsp;(3) sanctions for nonobservance.
 

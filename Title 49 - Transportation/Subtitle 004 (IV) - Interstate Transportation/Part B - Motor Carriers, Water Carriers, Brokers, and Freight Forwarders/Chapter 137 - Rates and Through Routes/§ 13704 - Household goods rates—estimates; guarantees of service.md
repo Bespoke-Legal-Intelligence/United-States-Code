@@ -6,7 +6,7 @@ In General.—
 
 &emsp;(1)
 
-Authority.—Subject to the provisions of paragraph (2) of this subsection, a motor carrier providing transportation of household goods subject to jurisdiction under subchapterI of chapter 135 may establish a rate for the transportation of household goods which is based on the carrier's written, binding estimate of charges for providing such transportation.
+Authority.—Subject to the provisions of paragraph (2) of this subsection, a motor carrier providing transportation of household goods subject to jurisdiction under subchapter I of chapter 135 may establish a rate for the transportation of household goods which is based on the carrier's written, binding estimate of charges for providing such transportation.
 
 &emsp;(2)
 
@@ -22,7 +22,7 @@ Authority.—Subject to the provisions of paragraph (2) of this subsection, a mo
 
 &emsp;(2)
 
-Authority of secretary to require nonguaranteed service rates.—Before a carrier may establish a rate for any service under paragraph (1) of this subsection, the Secretary may require such carrier to have in effect and keep in effect, during any period such rate is in effect under paragraph (1), a rate for such service which does not guarantee the pick up and delivery of household goods at the times specified in the contract for such services and which does not provide a penalty or per diem payment in the event the carrier fails to pick up or deliver household goods at the specified time.
+Authority of secretary to require nonguaranteed service rates.—Before a carrier may establish a rate for any service under paragraph (1) of this subsection, the Secretary may require such carrier to have in effect and keep in effect, during any period such rate is in effect under paragraph (1), a rate for suchservice which does not guarantee the pick up and delivery of household goods at the times specified in the contract for such services and which does not provide a penalty or per diem payment in the event the carrier fails to pick up or deliver household goods at the specified time.
 
 (Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 872.)
 

@@ -144,5 +144,5 @@ Section effective thirty days after Dec. 23, 1985, see section 401 of Pub. L. 99
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 2279aa–9 of this title.
+This section is referred to in sections 2202a, 2279aa–9 of this title.
 

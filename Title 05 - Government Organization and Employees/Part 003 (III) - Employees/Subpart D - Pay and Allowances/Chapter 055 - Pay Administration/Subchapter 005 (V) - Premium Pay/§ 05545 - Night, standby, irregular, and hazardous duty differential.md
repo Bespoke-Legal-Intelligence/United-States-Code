@@ -12,7 +12,7 @@
 
 (c) The head of an agency, with the approval of the Office of Personnel Management, may provide that—
 
-&emsp;(1) an employee in a position requiring him regularly to remain at, or within the confines of, his station during longer than ordinary periods of duty, a substantial part of which consists of remaining in a standby status rather than performing work, shall receive premium pay for this duty on an annual basis instead of premium pay provided by other provisions of this subchapter, except for irregular, unscheduled overtime duty in excess of his regularlyscheduled weekly tour. Premium pay under this paragraph is determined as an appropriate percentage, not in excess of 25 percent, of such part of the rate of basic pay for the position as does not exceed the minimum rate of basic pay for GS–10 (including any applicable locality-based comparability payment under section 5304 or similar provision of law and any applicable special rate of pay under section 5305 or similar provision of law) (or, for a position described in section 5542(a)(3) of this title, of the basic pay of the position), by taking into consideration the number of hours of actual work required in the position, the number of hours required in a standby status at or within the confines of the station, the extent to which the duties of the position are made more onerous by night, Sunday, or holiday work, or by being extended over periods of more than 40 hours a week, and other relevant factors; or
+&emsp;(1) an employee in a position requiring him regularly to remain at, or within the confines of, his station during longer than ordinary periods of duty, a substantial part of which consists of remaining in a standby status rather than performing work, shall receive premium pay for this duty on an annual basis instead of premium pay provided by other provisions of this subchapter, except for irregular, unscheduled overtime duty in excess of his regularly scheduled weekly tour. Premium pay under this paragraph is determined as an appropriate percentage, not in excess of 25 percent, of such part of the rate of basic pay for the position as does not exceed the minimum rate of basic pay for GS–10 (including any applicable locality-based comparability payment under section 5304 or similar provision of law and any applicable special rate of pay under section 5305 or similar provision of law) (or, for a position described in section 5542(a)(3) of this title, of the basic pay of the position), by taking into consideration the number of hours of actual work required in the position, the number of hours required in a standby status at or within the confines of the station, the extent to which the duties of the position are made more onerous by night, Sunday, or holiday work, or by being extended over periods of more than 40 hours a week, and other relevant factors; or
 
 &emsp;(2) an employee in a position in which the hours of duty cannot be controlled administratively, and which requires substantial amounts of irregular, unscheduled overtime duty with the employee generally being responsible for recognizing, without supervision, circumstances which require the employee to remain on duty, shall receive premium pay for this duty on an annual basis instead of premium pay provided by other provisions of this subchapter, except for regularly scheduled overtime, night, and Sunday duty, and for holiday duty. Premium pay under this paragraph is an appropriate percentage, not less than 10 percent nor more than 25 percent, of the rate of basic pay for the position, as determined by taking into consideration the frequency and duration of irregular, unscheduled overtime duty required in the position.
 
@@ -32,7 +32,9 @@ Act
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 (a), (b)
 
@@ -92,27 +94,27 @@ GS–10, referred to in subsec. (c)(1), is contained in the General Schedule whi
 
 #### Amendments
 
-<b>1992</b>—Subsec. (d). Pub. L. 102–378 made technical correction to directory language of Pub. L. 101–509, §529 \[title II, §203\]. See 1990 Amendment note below.
+1992—Subsec. (d). Pub. L. 102–378 made technical correction to directory language of Pub. L. 101–509, §529 \[title II, §203\]. See 1990 Amendment note below.
 
-<b>1990</b>—Subsec. (c)(1). Pub. L. 101–509, §529 \[title I, §101(b)(3)(E)\], inserted “(including any applicable locality-based comparability payment under section 5304 or similar provision of law and any applicable special rate of pay under section 5305 or similar provision of law)” after “GS–10”.
+1990—Subsec. (c)(1). Pub. L. 101–509, §529 \[title I, §101(b)(3)(E)\], inserted “(including any applicable locality-based comparability payment under section 5304 or similar provision of law and any applicable special rate of pay under section 5305 or similar provision of law)” after “GS–10”.
 
 Subsec. (d). Pub. L. 101–509, §529 \[title II, §203\], as amended by Pub. L. 102–378, struck out “irregular or intermittent” before “duty involving unusual” in first sentence and inserted “, except in such circumstances as the Office may by regulation prescribe” after “thereof” in par. (1).
 
-<b>1989</b>—Subsec. (c)(2). Pub. L. 101–173 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “an employee in a position in which the hours of duty cannot be controlled administratively, and which requires substantial amounts of irregular, unscheduled, overtime duty with the employee generally being responsible for recognizing, without supervision, circumstances which require him to remain on duty, shall receive premium pay for this duty on an annual basis instead of premium pay provided by other provisions of this subchapter, except for regularly scheduled overtime, night, and Sunday duty, and for holiday duty. Premium pay under this paragraph is determined as an appropriate percentage, not less than 10 percent nor more than 25 percent, of such part of the rate of basic pay for the position as does not exceed the minimum rate of basic pay for GS–10, by taking into consideration the frequency and duration of irregular unscheduled overtime duty required in the position.”
+1989—Subsec. (c)(2). Pub. L. 101–173 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “an employee in a position in which the hours of duty cannot be controlled administratively, and which requires substantial amounts of irregular, unscheduled, overtime duty with the employee generally being responsible for recognizing, without supervision, circumstances which require him to remain on duty, shall receive premium pay for this duty on an annual basis instead of premium pay provided by other provisions of this subchapter, except for regularly scheduled overtime, night, and Sunday duty, and for holiday duty. Premium pay under this paragraph is determined as an appropriate percentage, not less than 10 percent nor more than 25 percent, of such part of the rate of basic pay for the position as does not exceed the minimum rate of basic pay for GS–10, by taking into consideration the frequency and duration of irregular unscheduled overtime duty required in the position.”
 
-<b>1982</b>—Subsec. (a). Pub. L. 97–258 substituted “section 5141” for “section 180”.
+1982—Subsec. (a). Pub. L. 97–258 substituted “section 5141” for “section 180”.
 
-<b>1979</b>—Subsec. (c)(2). Pub. L. 96–54 substituted “percent” for “per centum” wherever appearing.
+1979—Subsec. (c)(2). Pub. L. 96–54 substituted “percent” for “per centum” wherever appearing.
 
-<b>1978</b>—Subsecs. (c), (d). Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission” and “Office” for “Commission” wherever appearing.
+1978—Subsecs. (c), (d). Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission” and “Office” for “Commission” wherever appearing.
 
-<b>1975</b>—Pub. L. 94–183 struck out “Sunday,” after “Night,” in section catchline.
+1975—Pub. L. 94–183 struck out “Sunday,” after “Night,” in section catchline.
 
-<b>1970</b>—Subsec. (c)(2). Pub. L. 91–231 corrected the system of premium compensation of employees whose work schedules cannot be administratively controlled by providing for separate treatment for irregular, unscheduled, and overtime duty on one hand and for duty at night, on Sundays, and on holidays on the other.
+1970—Subsec. (c)(2). Pub. L. 91–231 corrected the system of premium compensation of employees whose work schedules cannot be administratively controlled by providing for separate treatment for irregular, unscheduled, and overtime duty on one hand and for duty at night, on Sundays, and on holidays on the other.
 
-<b>1968</b>—Subsec. (c)(1). Pub. L. 90–556 inserted “(or, for a position described in section 5542(a)(3) of this title, of the basic pay of the position)” after “GS–10”.
+1968—Subsec. (c)(1). Pub. L. 90–556 inserted “(or, for a position described in section 5542(a)(3) of this title, of the basic pay of the position)” after “GS–10”.
 
-<b>1967</b>—Subsec. (e)(2). Pub. L. 90–206 substituted “not less than 10 percent nor more than 25 percent” for “not in excess of 15 percent”.
+1967—Subsec. (e)(2). Pub. L. 90–206 substituted “not less than 10 percent nor more than 25 percent” for “not in excess of 15 percent”.
 
 #### Effective Date of 1990 Amendment
 

@@ -10,7 +10,7 @@ A prior section 1128, Pub. L. 89–329, title VI, §608, Nov. 8, 1965, 79 Stat. 
 
 Sections 1129 and 1129a were omitted in the general revision of this subchapter by Pub. L. 96–374.
 
-Section 1129, Pub. L. 89–329, title VI, §609, Nov. 8, 1965, 79 Stat. 1266; Pub. L. 92–318, title I, §131(d)(2)(D), June23, 1972, 86 Stat. 260, prohibited equipment grants for sectarian instruction or religious worship.
+Section 1129, Pub. L. 89–329, title VI, §609, Nov. 8, 1965, 79 Stat. 1266; Pub. L. 92–318, title I, §131(d)(2)(D), June 23, 1972, 86 Stat. 260, prohibited equipment grants for sectarian instruction or religious worship.
 
 Section 1129a, Pub. L. 89–329, title VI, §610, as added Pub. L. 90–575, title II, §243, Oct. 16, 1968, 82 Stat. 1041, provided for consultation with the National Science Foundation in regard to the purchase of laboratory equipment.
 

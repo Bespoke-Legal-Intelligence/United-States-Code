@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Each State educational agency that desires to receive an allotment under this subchaptershall submit an application to the Secretary at such time and in such manner as the Secretary may determine.
+&emsp;Each State educational agency that desires to receive an allotment under this subchapter shall submit an application to the Secretary at such time and in such manner as the Secretary may determine.
 
 #### (2) Additional information
 
@@ -14,7 +14,7 @@
 
 &emsp;&emsp;(B) an assurance that State law provides adequate authority to carry out each component of the State's improvement plan developed, or to be developed under section 5886 of this title, or that such authority will be sought;
 
-&emsp;&emsp;(C) an assurance that the State content standards and State student performance standards developed for student achievement are not less rigorous than such standards used prior to March 31, 1994;
+&emsp;&emsp;(C) an assurance that the State content standards and State student performancestandards developed for student achievement are not less rigorous than such standards used prior to March 31, 1994;
 
 &emsp;&emsp;(D) an assurance that the State will provide for broad public participation in the planning process; and
 
@@ -34,11 +34,15 @@ A State educational agency's application for the second year of assistance under
 
 &emsp;(1) cover the second through fifth years of the State's participation;
 
-&emsp;(2) include a copy of the State's improvement plan that meets the requirements of section 5886 of this title, or if the State improvement plan is not complete, a statement of the steps the State will take to complete the plan and a schedule for doing so; and
+&emsp;(2) except in the case of a State educational agency submitting the information described in section 5886(n)(4) of this title, include a copy of the State's improvement plan that meets the requirements of section 5886 of this title, or if the State improvement plan is not complete, a statement of the steps the State will take to complete the plan and a schedule for doing so; and
 
 &emsp;(3) include an explanation of how the State educational agency will use funds received under this subchapter, including how such agency will make subgrants to local educational agencies in accordance with section 5889(a) of this title, and how such agency will use such funds received under this subchapter for education preservice programs and professional development activities in accordance with section 5889(b) of this title.
 
-(Pub. L. 103–227, title III, §305, Mar. 31, 1994, 108 Stat. 159.)
+(Pub. L. 103–227, title III, §305, Mar. 31, 1994, 108 Stat. 159; Pub. L. 104–134, title I, §101(d) \[title VII, §705(b)\], Apr. 26, 1996, 110 Stat. 1321–211, 1321–256; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.)
+
+#### Amendments
+
+1996—Subsec. (c)(2). Pub. L. 104–134 inserted “except in the case of a State educational agency submitting the information described in section 5886(n)(4) of this title,” before “include”.
 
 #### Section Referred to in Other Sections
 

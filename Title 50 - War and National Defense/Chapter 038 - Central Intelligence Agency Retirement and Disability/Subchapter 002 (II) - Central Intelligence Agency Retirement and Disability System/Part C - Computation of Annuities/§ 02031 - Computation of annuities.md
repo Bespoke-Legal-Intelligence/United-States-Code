@@ -28,7 +28,7 @@
 
 &emsp;&emsp;The portion of an annuity referred to in subparagraph (A) with respect to service after April 6, 1986, shall be the product of—
 
-&emsp;&emsp;&emsp;(i) the amount computed under paragraph (1), using the participant's length of service after that date and the participant's high-3 average pay, as determinedby using the annual rate of basic pay that would be payable for full-time service; and
+&emsp;&emsp;&emsp;(i) the amount computed under paragraph (1), using the participant's length of service after that date and the participant's high-3 average pay, as determined by using the annual rate of basic pay that would be payable for full-time service; and
 
 &emsp;&emsp;&emsp;(ii) the ratio which the participant's actual service after April 6, 1986 (as determined by prorating the participant's total service after that date to reflect the service that was performed on a part-time basis) bears to the total service after that date that would be creditable for the participant if all the service had been performed on a full-time basis.
 
@@ -160,7 +160,7 @@
 
 #### (3) Amount of annuity
 
-&emsp;(A) The annual amount of an annuity for the surviving child of a participant covered byparagraph (1)(A) or (2)(A) of this subsection (or covered by paragraph (1)(A) or (2)(A) of section 2052(c) of this title) is the smallest of the following:
+&emsp;(A) The annual amount of an annuity for the surviving child of a participant covered by paragraph (1)(A) or (2)(A) of this subsection (or covered by paragraph (1)(A) or (2)(A) of section 2052(c) of this title) is the smallest of the following:
 
 &emsp;&emsp;(i) 60 percent of the participant's high-3 average pay, as determined under subsection (a)(4) of this section, divided by the number of children.
 
@@ -224,13 +224,13 @@
 
 #### (1) Recomputation of retired participant's annuity upon divorce
 
-&emsp;An annuity which is reduced under this section (or any similar prior provision of law) toprovide a survivor annuity for a spouse shall, if the marriage of the retired participant to such spouse is dissolved, be recomputed and paid for each full month during which a retired participant is not married (or is remarried, if there is no election in effect under paragraph (2)) as if the annuity had not been so reduced, subject to any reduction required to provide a survivor annuity under subsection (b) or (c) of section 2032 of this title or under section 2036 of this title.
+&emsp;An annuity which is reduced under this section (or any similar prior provision of law) to provide a survivor annuity for a spouse shall, if the marriage of the retired participant to such spouse is dissolved, be recomputed and paid for each full month during which a retired participant is not married (or is remarried, if there is no election in effect under paragraph (2)) as if the annuity had not been so reduced, subject to any reduction required to provide a survivor annuity under subsection (b) or (c) of section 2032 of this title or under section 2036 of this title.
 
 #### (2) Election of survivor annuity upon subsequent remarriage
 
 #### (A) In general
 
-&emsp;&emsp;Upon remarriage, the retired participant may irrevocably elect, by means of a signed writing received by the Director within one year after such remarriage, to receive a reduced annuity for the purpose of providing an annuity for the new spouse of the retired participant in the event such spouse survives the retired participant. Such reduction shall be equal to the reduction in effect immediately before the dissolution of the previous marriage (unless such reduction is adjusted under section 2032(b)(5) of this title or elected under subparagraph (B)).
+&emsp;&emsp;Upon remarriage, the retired participant may irrevocably elect, by means of a signedwriting received by the Director within one year after such remarriage, to receive a reduced annuity for the purpose of providing an annuity for the new spouse of the retired participant in the event such spouse survives the retired participant. Such reduction shall be equal to the reduction in effect immediately before the dissolution of the previous marriage (unless such reduction is adjusted under section 2032(b)(5) of this title or elected under subparagraph (B)).
 
 #### (B) When annuity previously not (or not fully) reduced
 
@@ -274,7 +274,7 @@
 
 #### (2) Regulations
 
-&emsp;The Director shall prescribe regulations to provide for the application of paragraph (1) of this subsection and of subsection (b) of section 2111 of this title in any case in which an annuitant has a former spouse who was married to the recalled annuitant at any time during theperiod of recall service and who qualifies for an annuity under section 2032(b) of this title.
+&emsp;The Director shall prescribe regulations to provide for the application of paragraph (1) of this subsection and of subsection (b) of section 2111 of this title in any case in which an annuitant has a former spouse who was married to the recalled annuitant at any time during the period of recall service and who qualifies for an annuity under section 2032(b) of this title.
 
 #### (j) Offset of annuities by amount of social security benefit
 

@@ -90,15 +90,15 @@
 
 #### Amendments
 
-<b>1993</b>—Pub. L. 103–89, §3(a)(2), Sept. 30, 1993, 107 Stat. 981, struck out item for chapter 54 “Performance Management and Recognition System”.
+1993—Pub. L. 103–89, §3(a)(2), Sept. 30, 1993, 107 Stat. 981, struck out item for chapter 54 “Performance Management and Recognition System”.
 
-<b>1986</b>—Pub. L. 99–335, title I, §101(b), June 6, 1986, 100 Stat. 588, added item for chapter 84.
+1986—Pub. L. 99–335, title I, §101(b), June 6, 1986, 100 Stat. 588, added item for chapter 84.
 
-<b>1985</b>—Pub. L. 99–169, title VIII, §801(b), Dec. 4, 1985, 99 Stat. 1010, added items for subpart H and chapter 91.
+1985—Pub. L. 99–169, title VIII, §801(b), Dec. 4, 1985, 99 Stat. 1010, added items for subpart H and chapter 91.
 
-<b>1984</b>—Pub. L. 98–615, title II, §201(b), Nov. 8, 1984, 98 Stat. 3214, substituted “Performance Management and Recognition System” for “Merit Pay and Cash Awards” in item for chapter 54.
+1984—Pub. L. 98–615, title II, §201(b), Nov. 8, 1984, 98 Stat. 3214, substituted “Performance Management and Recognition System” for “Merit Pay and Cash Awards” in item for chapter 54.
 
-<b>1978</b>—Pub. L. 95–454, title I, §101(b)(1), title II, §203(b), title V, §503(i), title VI, §601(b), title VII, §703(b), title IX, §906(c)(5), Oct. 13, 1978, 92 Stat. 1118, 1134, 1184, 1188, 1217, 1227, added items for chapters 23, 34, 47, 54, and 72, substituted in item for chapter 43 “Appraisal” for “Rating” and in item for chapter 71 “Labor-Management Relations” for “Policies”, and inserted in heading of subpart F “Labor-Management and” before “Employee”.
+1978—Pub. L. 95–454, title I, §101(b)(1), title II, §203(b), title V, §503(i), title VI, §601(b), title VII, §703(b), title IX, §906(c)(5), Oct. 13, 1978, 92 Stat. 1118, 1134, 1184, 1188, 1217, 1227, added items for chapters 23, 34, 47, 54, and 72, substituted in item for chapter 43 “Appraisal” for “Rating” and in item for chapter 71 “Labor-Management Relations” for “Policies”, and inserted in heading of subpart F “Labor-Management and” before “Employee”.
 
 #### Part Referred to in Other Sections
 

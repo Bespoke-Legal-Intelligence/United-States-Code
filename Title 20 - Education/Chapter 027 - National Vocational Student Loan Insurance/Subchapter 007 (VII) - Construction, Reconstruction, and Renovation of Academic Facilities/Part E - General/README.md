@@ -8,6 +8,8 @@ Pub. L. 102–325, title VII, §708(a), July 23, 1992, 106 Stat. 754, redesignat
 
 A prior part E, comprising sections 1132f to 1132f–9 of this title, was redesignated part D of this subchapter.
 
+<i><sup>1</sup></i><i> So in original. Probably should be “section.”</i>
+
 
 ---
 

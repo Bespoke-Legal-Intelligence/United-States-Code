@@ -58,7 +58,7 @@ An application submitted under subsection (a) of this section shall contain the 
 
 &emsp;&emsp;(A) the applicant is not seeking assistance under subsection (a) or (b) of section 12571 of this title, but requests national service educational awards for individuals serving in service positions described in section 12573 of this title; or
 
-&emsp;&emsp;(B) the applicant requests national service educational awards for service positions described in section 12573 of this title, but the positions are not positions in a national service program described in section 12572(a) of this title for which assistance may be provided under subsection (a) or (b) of section 12571 of this title.
+&emsp;&emsp;(B) the applicant requests national service educational awards for service positions described in section 12573 of this title, but thepositions are not positions in a national service program described in section 12572(a) of this title for which assistance may be provided under subsection (a) or (b) of section 12571 of this title.
 
 #### (2) Special application requirements
 

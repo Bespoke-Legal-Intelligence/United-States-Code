@@ -22,7 +22,7 @@
 
 #### (1) In general
 
-&emsp;Section 6225 shall not apply to any adjustment necessary to correct a mathematical orclerical error (as defined in section 6213(g)(2)) appearing on the partnership return.
+&emsp;Section 6225 shall not apply to any adjustment necessary to correct a mathematical or clerical error (as defined in section 6213(g)(2)) appearing on the partnership return.
 
 #### (2) Exception
 

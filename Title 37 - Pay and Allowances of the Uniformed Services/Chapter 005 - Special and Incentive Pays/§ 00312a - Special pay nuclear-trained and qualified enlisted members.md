@@ -16,7 +16,7 @@
 
 (d) Under regulations prescribed by the Secretary of the Navy, refunds, on a pro rata basis, of sums paid under subsection (a) may be required, and further payments terminated, if the member who has received the payment fails to complete his reenlistment contract or fails to maintain his technical qualification for duty in connection with supervision, operation, and maintenance of naval nuclear propulsion plants.
 
-(e) Provisions of this section shall be effective only in the cases of members who, on or beforeJune 30, 1975, execute the required written agreement to remain in active service.
+(e) Provisions of this section shall be effective only in the cases of members who, on or before June 30, 1975, execute the required written agreement to remain in active service.
 
 (Added Pub. L. 92–581, §1(3), Oct. 27, 1972, 86 Stat. 1277; amended Pub. L. 97–295, §3(3), Oct. 12, 1982, 96 Stat. 1303; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117.)
 

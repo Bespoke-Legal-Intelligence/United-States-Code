@@ -14,7 +14,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 113, 1001 of this title.
+This chapter is referred to in section 1001 of this title.
 
 
 ---

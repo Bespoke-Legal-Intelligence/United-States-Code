@@ -52,7 +52,7 @@ The Committee on Standards of Official Conduct shall adopt rules providing—
 
 &emsp;(D) Developing and carrying out, subject to the approval of the chairman, periodic educational briefings for Members, officers and employees of the House on those laws, rules, regulations, or other standards of conduct applicable to them.
 
-(4) No information provided to the Committee on Standards of Official Conduct by a Member, officer or employee of the House of Representatives when seeking advice regarding prospective conduct of such Member, officer or employee may be used as the basis for initiating an investigation under clause 4(e)(1)(B) of rule X of the Rules of the House of Representatives, if suchMember, officer or employee acts in accordance with the written advice of the committee.
+(4) No information provided to the Committee on Standards of Official Conduct by a Member, officer or employee of the House of Representatives when seeking advice regarding prospective conduct of such Member, officer or employee may be used as the basis for initiating an investigation under clause 4(e)(1)(B) of rule X of the Rules of the House of Representatives, if such Member, officer or employee acts in accordance with the written advice of the committee.
 
 #### (j) Effective date
 

@@ -12,7 +12,7 @@
 
 (c) When an employee described in subsection (b) of this section is in an injured status, transportation of dependents and household and personal effects may be provided under this section only when prolonged hospitalization or treatment is anticipated.
 
-(d) Transportation on request of a dependent may be authorized under this section only when there is a reasonable relationship between the circumstances of the dependent and the destination requested.
+(d) Transportation on request of a dependent may be authorized under this section only whenthere is a reasonable relationship between the circumstances of the dependent and the destination requested.
 
 (e) Instead of providing transportation for dependents under this section, when the travel has been completed the head of the agency concerned may authorize—
 
@@ -24,7 +24,7 @@
 
 (g) When the head of the agency concerned determines that an emergency exists and that a sale would be in the best interests of the United States, he may provide for the public or private sale of motor vehicles and other bulky items of the household and personal effects of an employee described in subsection (b) of this section. Before a sale, and if practicable, a reasonable effort shall be made to determine the desires of interested persons. The net proceeds from the sale shall be sent to the owner or other person entitled thereto under regulations prescribed by the head of the agency concerned. If there is no owner or other person entitled thereto, or if the owner or other person or their addresses are not ascertained within 1 year from the date of sale, the net proceeds may be covered into the Treasury of the United States as miscellaneous receipts.
 
-(h) A claim for net proceeds covered into the Treasury under subsection (g) of this section may be filed with the General Accounting Office by the owner, his heir or next of kin, or his legal representative at any time before the end of 5 years from the date the proceeds are covered into the Treasury. When a claim is filed, the General Accounting Office shall allow or disallow it. A claim that is allowed shall be paid from the appropriation for refunding money erroneously received and covered. If a claim is not filed before the end of 5 years from the date the proceeds are covered into the Treasury, it is barred from being acted on by the General Accounting Office or the courts.
+(h) A claim for net proceeds covered into the Treasury under subsection (g) of this section may be filed with the Administrator of General Services by the owner, his heir or next of kin, or his legal representative at any time before the end of 5 years from the date the proceeds are covered into the Treasury. When a claim is filed, the Administrator of General Services shall allow or disallow it. A claim that is allowed shall be paid from the appropriation for refunding money erroneously received and covered. If a claim is not filed before the end of 5 years from the date the proceeds are covered into the Treasury, it is barred from being acted on by the Administrator of General Services or the courts.
 
 (i) This section does not amend or repeal—
 
@@ -34,7 +34,7 @@
 
 &emsp;(3) chapter 171 of title 28.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 491; Pub. L. 90–83, §1(33), Sept. 11, 1967, 81 Stat. 201; Pub. L. 102–190, div. A, title X, §1063(a), Dec. 5, 1991, 105 Stat. 1476.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 491; Pub. L. 90–83, §1(33), Sept. 11, 1967, 81 Stat. 201; Pub. L. 102–190, div. A, title X, §1063(a), Dec. 5, 1991, 105 Stat. 1476; Pub. L. 104–316, title II, §202(a), Oct. 19, 1996, 110 Stat. 3842.)
 
 Historical and Revision Notes<br>1966
 
@@ -44,7 +44,9 @@ Act
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 (a)
 
@@ -146,13 +148,11 @@ Act
 
 Oct. 19, 1965, Pub. L. 89–271, 79 Stat. 992.
 
-Only that portion of the source law applicable to civilian officers and employees and their dependents iscodified in this section. That portion of the source law applicable to members of the uniformed services and their dependents is codified in 37 U.S.C. 554(a) by section 5(2) of this bill.
+Only that portion of the source law applicable to civilian officers and employees and their dependents is codified in this section. That portion of the source law applicable to members of the uniformed services and their dependents is codified in 37 U.S.C. 554(a) by section 5(2) of this bill.
 
 #### Amendments
 
-<b>1991</b>—Subsec. (i)(1). Pub. L. 102–190 substituted “6522, or 9712” for “4713, 6522, 9712, or 9713”.
+1996—Subsec. (h). Pub. L. 104–316 substituted “Administrator of General Services” for “General Accounting Office” wherever appearing.
 
-#### Transfer of Functions
-
-Functions of Comptroller General under this section transferred, effective June 30, 1996, to Director of Office of Management and Budget, see section 211 of Pub. L. 104–53, set out as a note under section 501 of Title 31, Money and Finance.
+1991—Subsec. (i)(1). Pub. L. 102–190 substituted “6522, or 9712” for “4713, 6522, 9712, or 9713”.
 

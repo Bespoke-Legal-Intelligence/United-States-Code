@@ -6,7 +6,7 @@ The President may prescribe such policies, not inconsistent with the provisions 
 
 #### (b) Delegation of authority
 
-Any authority conferred upon any executive agency or the head thereof by the provisions ofthis subchapter may be delegated, and successive redelegation thereof may be authorized, by such head to any official in such agency or to the head of any other executive agency.
+Any authority conferred upon any executive agency or the head thereof by the provisions of this subchapter may be delegated, and successive redelegation thereof may be authorized, by such head to any official in such agency or to the head of any other executive agency.
 
 #### (c) Employment of personnel
 

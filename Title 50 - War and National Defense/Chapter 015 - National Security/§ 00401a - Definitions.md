@@ -10,7 +10,7 @@ As used in this Act:
 
 &emsp;(4) The term “intelligence community” includes—
 
-&emsp;&emsp;(A) the Office of the Director of Central Intelligence, which shall include the Office of the Deputy Director of Central Intelligence, the National Intelligence Council (as provided for in section 403–5(b)(3) <sup>1</sup> of this title),and such other offices as the Director may designate;
+&emsp;&emsp;(A) the Office of the Director of Central Intelligence, which shall include the Office of the Deputy Director of Central Intelligence, the National Intelligence Council (as provided for in section 403–5(b)(3) <sup>1</sup> of this title), and such other offices as the Director may designate;
 
 &emsp;&emsp;(B) the Central Intelligence Agency;
 
@@ -18,7 +18,7 @@ As used in this Act:
 
 &emsp;&emsp;(D) the Defense Intelligence Agency;
 
-&emsp;&emsp;(E) the Central Imagery Office;
+&emsp;&emsp;(E) the National Imagery and Mapping Agency;
 
 &emsp;&emsp;(F) the National Reconnaissance Office;
 
@@ -38,7 +38,7 @@ As used in this Act:
 
 &emsp;(6) The term “National Foreign Intelligence Program” refers to all programs, projects, and activities of the intelligence community, as well as any other programs of the intelligence community designated jointly by the Director of Central Intelligence and the head of a United States department or agency or by the President. Such term does not include programs, projects, or activities of the military departments to acquire intelligence solely for the planning and conduct of tactical military operations by United States Armed Forces.
 
-(July 26, 1947, ch. 343, §3, as added Oct. 24, 1992, Pub. L. 102–496, title VII, §702, 106 Stat. 3188; amended Oct. 14, 1994, Pub. L. 103–359, title V, §501(a)(1), 108 Stat. 3428.)
+(July 26, 1947, ch. 343, §3, as added Oct. 24, 1992, Pub. L. 102–496, title VII, §702, 106 Stat. 3188; amended Oct. 14, 1994, Pub. L. 103–359, title V, §501(a)(1), 108 Stat. 3428; Sept. 23, 1996, Pub. L. 104–201, div. A, title XI, §1122(b)(1), 110 Stat. 2687.)
 
 #### References in Text
 
@@ -48,7 +48,13 @@ This title, referred to in par. (5)(B), probably should be “this Act”, meani
 
 #### Amendments
 
+1996—Par. (4)(E). Pub. L. 104–201 substituted “National Imagery and Mapping Agency” for “Central Imagery Office”.
+
 1994—Par. (4)(E). Pub. L. 103–359 substituted “the Central Imagery Office” for “the central imagery authority within the Department of Defense”.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–201 effective Oct. 1, 1996, see section 1124 of Pub. L. 104–201, set out as a note under section 193 of Title 10, Armed Forces.
 
 #### Authority of Secretary of State
 

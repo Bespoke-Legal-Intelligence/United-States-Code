@@ -30,7 +30,7 @@ If for any 12-month period beginning on or after January 1, 1981, the Secretary,
 
 #### (4) Availability of variable rates
 
-&emsp;(A) For any loan made pursuant to section 1078–1 <sup>1</sup> or 1078–2 of this title and disbursed onor after July 1, 1987, or any loan made pursuant to such section prior to such date that is refinanced pursuant to section 1078–1(d) <sup>1</sup> or 1078–2(d) of this title, the applicable rate of interest during any 12-month period beginning on July 1 and ending on June 30 shall be determined under subparagraph (B), except that such rate shall not exceed 12 percent.
+&emsp;(A) For any loan made pursuant to section 1078–1 <sup>1</sup> or 1078–2 of this title and disbursed on or after July 1, 1987, or any loan made pursuant to such section prior to such date that is refinanced pursuant to section 1078–1(d) <sup>1</sup> or 1078–2(d) of this title, the applicable rate of interest during any 12-month period beginning on July 1 and ending on June 30 shall be determined under subparagraph (B), except that such rate shall not exceed 12 percent.
 
 &emsp;(B) For any 12-month period beginning on July 1 and ending on June 30, the rate determined under this subparagraph is determined on the preceding June 1 and is equal to—
 
@@ -88,7 +88,7 @@ Notwithstanding subsections (a) and (b) of this section, with respect to any loa
 
 #### (1) In general
 
-&emsp;Notwithstanding subsections (a), (b), (d), and (e) of this section, with respect to any loan made, insured, or guaranteed under this part (other than a loan made pursuant to section 1078–2 or 1078–3 of this title) for which the first disbursement is made on or after July 1, 1994, the applicable rate of interest shall, during any 12-month period beginning on July 1 and ending on June 30, be determined on the preceding June 1 and be equal to—
+&emsp;Notwithstanding subsections (a), (b), (d), and (e) of this section, with respect to any loan made, insured, or guaranteed under this part\(other than a loan made pursuant to section 1078–2 or 1078–3 of this title) for which the first disbursement is made on or after July 1, 1994, the applicable rate of interest shall, during any 12-month period beginning on July 1 and ending on June 30, be determined on the preceding June 1 and be equal to—
 
 &emsp;&emsp;(A) the bond equivalent rate of 91-day Treasury bills auctioned at the final auction held prior to such June 1; plus
 

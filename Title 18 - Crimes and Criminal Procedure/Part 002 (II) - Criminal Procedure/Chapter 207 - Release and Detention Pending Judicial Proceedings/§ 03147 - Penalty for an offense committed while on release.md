@@ -12,7 +12,7 @@ A person convicted of an offense committed while released under this chapter sha
 
 #### Prior Provisions
 
-A prior section 3147, added Pub. L. 89–465, §3(a), June 22, 1966, 80 Stat. 215, related to appeals from conditions of release, prior to repeal in the revision of this chapter by section 203(a) of Pub. L. 98–473.
+A prior section 3147, added Pub. L. 89–465, §3(a), June 22, 1966, 80 Stat. 215, related to appeals from conditionsof release, prior to repeal in the revision of this chapter by section 203(a) of Pub. L. 98–473.
 
 #### Amendments
 
@@ -30,5 +30,5 @@ Amendment by Pub. L. 98–473 effective Nov. 1, 1987, and applicable only to off
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 3156 of this title; title 28 section 994.
+This section is referred to in section 3156 of this title; title 8 section 1535; title 28 section 994.
 

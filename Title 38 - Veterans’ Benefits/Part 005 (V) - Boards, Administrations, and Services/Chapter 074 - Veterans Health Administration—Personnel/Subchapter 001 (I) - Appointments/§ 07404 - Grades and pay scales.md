@@ -44,9 +44,9 @@ Full grade.
 
 Associate grade.
 
-(2) A person may not hold the director grade in the Physician and Dentist Schedule unless theperson is serving as a director of a hospital, domiciliary, center, or outpatient clinic (independent), or comparable position. A person may not hold the executive grade in that Schedule unless the person holds the position of chief of staff at a hospital, center, or outpatient clinic (independent), or comparable position.
+(2) A person may not hold the director grade in the Physician and Dentist Schedule unless the person is serving as a director of a hospital, domiciliary, center, or outpatient clinic (independent), or comparable position. A person may not hold the executive grade in that Schedule unless the person holds the position of chief of staff at a hospital, center, or outpatient clinic (independent), or comparable position.
 
-(c) Notwithstanding the provisions of section 7425(a) of this title, a person appointed under section 7306 of this title who is not eligible for special pay under subchapter III shall be deemed to be a career appointee for the purposes of sections 4507 and 5384 of title 5.
+(c) Notwithstanding the provisions of section 7425(a) of this title, a person appointed under section 7306 of this title who is not eligible forspecial pay under subchapter III shall be deemed to be a career appointee for the purposes of sections 4507 and 5384 of title 5.
 
 (d) Except as provided under subchapter III and in section 7457 of this title, pay may not be paid at a rate in excess of the rate of basic pay for an appropriate level authorized by section 5315 or 5316 of title 5 for positions in the Executive Schedule, as follows:
 
@@ -74,11 +74,11 @@ Subsec. (d)(1). Pub. L. 102–405, §302(c)(1), substituted “Under Secretary f
 
 Section 308 of Pub. L. 102–585 provided that: “The amendments made by sections 301, 302, 303, and 304 \[amending this section and sections 7451 and 7452 of this title\] shall take effect with respect to the first pay period beginning on or after the end of the six-month period beginning on the date of the enactment of this Act \[Nov. 4, 1992\].”
 
-#### Adjustment of Pay Rates Effective for Pay Periods Beginning On or After January 1, 1996
+#### Adjustment of Pay Rates Effective for Pay Periods Beginning On or After January 1, 1997
 
-Ex. Ord. No. 12984, Dec. 28, 1995, 61 F.R. 237, set out as a note under section 5332 of Title 5, Government Organization and Employees, provided for an adjustment of the pay rates under this section effective on the first day of the first applicable pay period beginning on or after Jan. 1, 1996. See Schedule set out below:
+Ex. Ord. No. 13033, Dec. 27, 1996, 61 F.R. 68987, set out as a note under section 5332 of Title 5, Government Organization and Employees, provided for an adjustment of the pay rates under this section effective on the first day of the first applicable pay period beginning on or after Jan. 1, 1997. See Schedule set out below:
 
-Schedule 3<br><i>Veterans Health Administration Schedules, Department of Veterans Affairs</i><br>(Effective on the first day of the first applicable pay period beginning on or after January 1, 1996)
+Schedule 3<br><i>Veterans Health Administration Schedules, Department of Veterans Affairs</i><br>(Effective on the first day of the first applicable pay period beginning on or after January 1, 1997)
 
 &nbsp;
 
@@ -90,15 +90,15 @@ Schedule for the Office of the Under Secretary for Health (38 U.S.C. 7306) <sup
 
 Deputy Under Secretary for Health
 
-<sup>2</sup> $117,692
+<sup>2</sup> $120,399
 
 Associate Deputy Under Secretary for Health
 
-<sup>3</sup> 112,726
+<sup>3</sup> 115,319
 
 Assistant Under Secretaries for Health
 
-<sup>3</sup> 109,404
+<sup>3</sup> 111,920
 
 &nbsp;
 
@@ -108,155 +108,155 @@ Maximum
 
 Medical Directors
 
-$93,344
+$95,491
 
-$105,792
+<sup>3</sup> $108,225
 
 Service Directors
 
-81,278
+83,147
 
-100,939
+103,261
 
 Director, National Center for Preventive Health
 
-69,300
+70,894
 
-100,939
+103,261
 
 Physician and Dentist Schedule
 
 Director Grade
 
-$81,278
+$83,147
 
-$100,939
+$103,261
 
 Executive Grade
 
-75,051
+76,777
 
-95,649
+97,849
 
 Chief Grade
 
-69,300
+70,894
 
-90,090
+92,161
 
 Senior Grade
 
-58,915
+60,270
 
-76,591
+78,351
 
 Intermediate Grade
 
-49,856
+51,003
 
-64,814
+66,303
 
 Full Grade
 
-41,926
+42,890
 
-54,508
+55,760
 
 Associate Grade
 
-34,981
+35,786
 
-45,475
+46,523
 
 Clinical Podiatrist and Optometrist Schedule
 
 Chief Grade
 
-$69,300
+$70,894
 
-$90,090
+$92,161
 
 Senior Grade
 
-58,915
+60,270
 
-76,591
+78,351
 
 Intermediate Grade
 
-49,856
+51,003
 
-64,814
+66,303
 
 Full Grade
 
-41,926
+42,890
 
-54,508
+55,760
 
 Associate Grade
 
-34,981
+35,786
 
-45,475
+46,523
 
 Physician Assistant and Expanded-Function Dental Auxiliary Schedule <sup>4</sup>
 
 Director Grade
 
-$69,300
+$70,894
 
-$90,090
+$92,161
 
 Assistant Director Grade
 
-58,915
+60,270
 
-76,591
+78,351
 
 Chief Grade
 
-49,856
+51,003
 
-64,814
+66,303
 
 Senior Grade
 
-41,926
+42,890
 
-54,508
+55,760
 
 Intermediate Grade
 
-34,981
+35,786
 
-45,475
+46,523
 
 Full Grade
 
-28,912
+29,577
 
-37,588
+38,451
 
 Associate Grade
 
-24,880
+25,452
 
-32,341
+33,084
 
 Junior Grade
 
-21,269
+21,758
 
-27,650
+28,283
 
-<sup>1</sup> This schedule does not apply to the Assistant Under Secretary for Nursing Programs or the Director of Nursing Service. Pay for these positions is set by the Under Secretary for Health under 38 U.S.C. 7451.
+<sup>1</sup> This schedule does not apply to the Assistant Under Secretary for Nursing Programs or the Director of Nursing Services. Pay for these positions is set by the Under Secretary for Health under 38 U.S.C. 7451.
 
 <sup>2</sup> Pursuant to section 7404(d)(1) of title 38, United States Code, the rate of basic pay payable to this employee is limited to the rate for level IV of the Executive Schedule, which is $115,700.
 
 <sup>3</sup> Pursuant to section 7404(d)(2) of title 38, United States Code, the rate of basic pay payable to these employees is limited to the rate for level V of the Executive Schedule, which is $108,200.
 
-<sup>4</sup> Pursuant to section 301(a) of Public Law 102–40, these positions are paid according to the Nurse Schedule in 38 U.S.C. 4107(b) \[former section 4107(b) of Title 38, Veterans’ Benefits\] as in effect on August 14, 1990, with subsequent adjustments.
+<sup>4</sup> Pursuant to section 301(a) of Public Law 102–40, these positions are paid according to the Nurse Schedule in 38 U.S.C. 4107(b) \[former section 4107(b) of this title\] as in effect on August 14, 1990, with subsequent adjustments.
 
 #### Executive Order No. 11413
 
@@ -284,7 +284,7 @@ Ex. Ord. No. 11691, Dec. 15, 1972, 37 F.R. 27607, as amended by Ex. Ord. No. 117
 
 #### Executive Order No. 11739
 
-Ex. Ord. No. 11739, Oct. 3, 1973, 38 F.R. 27581, which provided for adjustment of pay rates effective Oct. 1, 1973, was superseded by Ex. Ord. No. 11811, Oct. 7, 1974, 39 F.R. 36302, formerly set out as a note under section 5332 of Title 5.
+Ex. Ord. No. 11739, Oct. 3, 1973, 38 F.R. 27581, which provided for adjustment of pay rates effective Oct. 1,1973, was superseded by Ex. Ord. No. 11811, Oct. 7, 1974, 39 F.R. 36302, formerly set out as a note under section 5332 of Title 5.
 
 #### Executive Order No. 11811
 
@@ -364,7 +364,11 @@ Ex. Ord. No. 12826, Dec. 30, 1992, 57 F.R. 62909, which provided for adjustment 
 
 #### Executive Order No. 12944
 
-Ex. Ord. No. 12944, Dec. 28, 1994, 60 F.R. 309, which provided for adjustment of pay rates effective Jan. 1, 1995, was superseded by Ex. Ord. No. 12984, Dec. 28, 1995, 61 F.R. 237, set out as a note under section 5332 of Title 5.
+Ex. Ord. No. 12944, Dec. 28, 1994, 60 F.R. 309, which provided for adjustment of pay rates effective Jan. 1, 1995, was superseded by Ex. Ord. No. 12984, Dec. 28, 1995, 61 F.R. 237, formerly set out as a note under section 5332 of Title 5.
+
+#### Executive Order No. 12984
+
+Ex. Ord. No. 12984, Dec. 28, 1995, 61 F.R. 237, which provided for adjustment of pay rates effective Jan. 1, 1996, was superseded by Ex. Ord. No. 13033, Dec. 27, 1996, 61F.R. 68987, set out as a note under section 5332 of Title 5.
 
 #### Section Referred to in Other Sections
 

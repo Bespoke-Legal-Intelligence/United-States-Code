@@ -4,7 +4,7 @@
 
 #### (1) Required
 
-&emsp;Except as provided in paragraph (2), the Board shall establish not less than two nor more than six Regional Centers to carry out the activities specified in this section and such other activities as the Board shall from time to time specify.
+&emsp;Except as provided in paragraph (2), the Corporate Board shall establish not less than two nor more than six Regional Centers to carry out the activities specified in this section and such other activities as the Corporate Board shall from time to time specify.
 
 #### (2) Exception
 
@@ -18,7 +18,7 @@
 
 #### (2) Competition
 
-&emsp;An organization that desires to be selected as a host institution for a Regional Center shall submit an application to the Board. The Board shall determine the location of the Regional Centers based on a competitive review of the contents of such applications and shall consider the ability of the applicant to carry out the activities specified in this section.
+&emsp;An organization that desires to be selected as a host institution for a Regional Center shall submit an application to the Corporate Board. The Corporate Board shall determine the location of the Regional Centers based on a competitive review of the contents of such applications and shall consider the ability of the applicant to carry out the activities specified in this section.
 
 #### (c) Matching of funds
 
@@ -30,7 +30,7 @@
 
 &emsp;&emsp;(B) that the institution is qualified to carry out the activities required of a Regional Center; and
 
-&emsp;&emsp;(C) concerning such other matters as the Board determines to be appropriate.
+&emsp;&emsp;(C) concerning such other matters as the Corporate Board determines to be appropriate.
 
 #### (2) Consortium
 
@@ -40,7 +40,7 @@
 
 Each Regional Center shall be headed by a full-time Regional Director who shall—
 
-&emsp;(1) be selected by the Board; and
+&emsp;(1) be selected by the Corporate Board; and
 
 &emsp;(2) have a scientific or engineering background or have experience in the development of new products or processes in the public or private sector.
 
@@ -58,11 +58,11 @@ Each Regional Center shall—
 
 &emsp;(5) make use of existing programs in scientific, engineering, technical, and management education that will support the accelerated commercialization of new nonfood, nonfeed products and processes using agricultural commodities;
 
-&emsp;(6) advise the Board on the viability of specific applications submitted for financial assistance and on the type of assistance, if any, to be provided;
+&emsp;(6) advise the Corporate Board on the viability of specific applications submitted for financial assistance and on the type of assistance, if any, to be provided;
 
 &emsp;(7) coordinate their activities with the Small Business Development Centers; and
 
-&emsp;(8) coordinate their activities with the Center.
+&emsp;(8) coordinate their activities with the Corporation.
 
 #### (f) Review of proposals for assistance
 
@@ -72,19 +72,29 @@ Each Regional Center shall—
 
 #### (2) Review
 
-&emsp;The Directors of the Regional Centers shall work in consultation with the Advisory Council appointed under section 5905(c) of this title to obtain peer review and evaluation of applications submitted to the Regional Centers.
+&emsp;The Directors of the Regional Centers shall work to obtain peer review and evaluation of applications submitted to the Regional Centers.
 
-#### (3) Role of Advisory Council
+#### (3) Recommendation
 
-&emsp;The Advisory Council shall review applications submitted to the Regional Centers. The Advisory Council shall, by majority vote, make a nonbinding recommendation on each proposal to the appropriate Regional Director.
+&emsp;The Regional Director, based on the comments of the reviewers, shall make and submit a recommendation to the Board, which shall not be binding on the Board.
 
-#### (4) Recommendation
-
-&emsp;The Regional Director, after consideration of the Advisory Council's recommendation and based on the comments of the reviewers, shall make and submit a recommendation to the Board along with the recommendation of the Advisory Council. A recommendation submitted by a Regional Director or the Advisory Council shall not be binding on the Board.
-
-(Pub. L. 101–624, title XVI, §1663, Nov. 28, 1990, 104 Stat. 3765; Pub. L. 102–237, title IV, §405(b), Dec. 13, 1991, 105 Stat. 1864.)
+(Pub. L. 101–624, title XVI, §1663, Nov. 28, 1990, 104 Stat. 3765; Pub. L. 102–237, title IV, §405(b), Dec. 13, 1991, 105 Stat. 1864; Pub. L. 104–127, title VII, §727, Apr. 4, 1996, 110 Stat. 1119.)
 
 #### Amendments
+
+1996—Subsecs. (a)(1), (b)(2), (c)(1)(C), (d)(1), (e)(6). Pub. L. 104–127, §727(1), substituted “Corporate Board” for “Board” wherever appearing.
+
+Subsec. (e)(8). Pub. L. 104–127, §727(2), substituted “Corporation” for “Center”.
+
+Subsec. (f)(2) to (4). Pub. L. 104–127, §727(3), in par. (2), struck out “in consultation with the Advisory Council appointed under section 5905(c) of this title” before “to obtain peer review”, added par. (3), and struck out former pars. (3) and (4) which read as follows:
+
+“(3)
+
+Role of advisory council.—The Advisory Council shall review applications submitted to the Regional Centers. The Advisory Council shall, by majority vote, make a nonbinding recommendation on each proposal to the appropriate Regional Director.
+
+“(4)
+
+Recommendation.—The Regional Director, after consideration of the Advisory Council's recommendation and based on the comments of the reviewers, shall make and submit a recommendation to the Board along with the recommendation of the Advisory Council. A recommendation submitted by a Regional Director or the Advisory Council shall not be binding on the Board.”
 
 1991—Subsec. (a)(2). Pub. L. 102–237 substituted “No Regional Centers may be established” for “A Regional Center may not be established or operated”.
 

@@ -14,7 +14,7 @@
 
 &emsp;&emsp;(B) For the school year 1996–1997 and subsequent years—
 
-&emsp;&emsp;&emsp;(i) the school serves an eligible school attendance area in which not less than 50percent of the children are from low-income families; or
+&emsp;&emsp;&emsp;(i) the school serves an eligible school attendance area in which not less than 50 percent of the children are from low-income families; or
 
 &emsp;&emsp;&emsp;(ii) not less than 50 percent of the children enrolled in the school are from such families.
 
@@ -32,7 +32,7 @@
 
 #### (4) Special rule
 
-&emsp;(A) Except as provided in subsection (b) of this section, the Secretary may, through publication of a notice in the Federal Register, exempt schoolwide programs under this section from statutory or regulatory provisions of any other noncompetitive formula grant program administered by the Secretary, or any discretionary grant program administered by the Secretary (other than formula or discretionary grant programs under the Individuals with Disabilities Education Act \[20 U.S.C. 1400 et seq.\]), to support schoolwide programs, if the intent and purposes of such other programs are met.
+&emsp;(A) Except as provided in subsection (b) of this section, the Secretary may, through publication of a notice in the Federal Register, exempt schoolwide programs under this section from statutory or regulatory provisions of any other noncompetitive formula grant program administered by the Secretary, orany discretionary grant program administered by the Secretary (other than formula or discretionary grant programs under the Individuals with Disabilities Education Act \[20 U.S.C. 1400 et seq.\]), to support schoolwide programs, if the intent and purposes of such other programs are met.
 
 &emsp;(B) A school that chooses to use funds from such other programs shall not be relieved of the requirements relating to health, safety, civil rights, gender equity, student and parental participation and involvement, services to private school children, maintenance of effort, comparability of services, uses of Federal funds to supplement, not supplant non-Federal funds, or the distribution of funds to State or local educational agencies that apply to the receipt of funds from such programs.
 
@@ -156,7 +156,7 @@ The National and Community Service Act of 1990, referred to in subsec. (b)(2)(C)
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 6311, 6312, 6313, 6315, 6319, 6320, 6322, 6394, 6396, 6493, 6672, 7815, 8102, 8622, 8651, 8941 of this title; title 42 sections 3030g–12, 9855c.
+This section is referred to in sections 6311, 6312, 6313, 6315, 6319, 6320, 6394, 6396, 6493, 6672, 7815, 8102, 8622, 8651, 8941 of this title; title 42 sections 3030g–12, 9855c.
 
 <i><sup>1</sup></i><i> So in original. No cls. (v) and (vi) have been enacted.</i>
 

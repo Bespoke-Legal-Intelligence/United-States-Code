@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(i) a pre-election report, which shall be filed no later than the 12th day before (or posted by registered or certified mail no later than the 15th day before) any election in which such candidate is seeking election, or nomination for election, and which shall be complete as of the 20th day before such election;
 
-&emsp;&emsp;(ii) a post-general election report, which shall be filed no later than the 30th day afterany general election in which such candidate has sought election, and which shall be complete as of the 20th day after such general election; and
+&emsp;&emsp;(ii) a post-general election report, which shall be filed no later than the 30th day after any general election in which such candidate has sought election, and which shall be complete as of the 20th day after such general election; and
 
 &emsp;&emsp;(iii) additional quarterly reports, which shall be filed no later than the 15th day after the last day of each calendar quarter, and which shall be complete as of the last day of each calendar quarter: except that the report for the quarter ending December 31 shall be filed no later than January 31 of the following calendar year; and
 
@@ -24,7 +24,7 @@
 
 &emsp;(A) in any calendar year during which a general election is held to fill such office—
 
-&emsp;&emsp;(i) the treasurer shall file monthly reports if such committee has on January 1 of such year, received contributions aggregating $100,000 or made expenditures aggregating $100,000 or anticipates receiving contributions aggregating $100,000 or more or making expenditures aggregating $100,000 or more during such year: such monthly reports shall be filed no later than the 20th day after the last day of each month and shall be complete as of the last day of the month, except that, in lieu of filing the report otherwise due in November and December, a pre-general election report shall be filed in accordance with paragraph (2)(A)(i), a post-general election report shall be filed in accordance with paragraph (2)(A)(ii), and a year end report shall be filed no later than January 31 of the following calendar year;
+&emsp;&emsp;(i) the treasurer shall file monthly reports if such committee has on January 1 of suchyear, received contributions aggregating $100,000 or made expenditures aggregating $100,000 or anticipates receiving contributions aggregating $100,000 or more or making expenditures aggregating $100,000 or more during such year: such monthly reports shall be filed no later than the 20th day after the last day of each month and shall be complete as of the last day of the month, except that, in lieu of filing the report otherwise due in November and December, a pre-general election report shall be filed in accordance with paragraph (2)(A)(i), a post-general election report shall be filed in accordance with paragraph (2)(A)(ii), and a year end report shall be filed no later than January 31 of the following calendar year;
 
 &emsp;&emsp;(ii) the treasurer of the other principal campaign committees of a candidate for the office of President shall file a pre-election report or reports in accordance with paragraph (2)(A)(i), a post-general election report in accordance with paragraph (2)(A)(ii), and quarterly reports in accordance with paragraph (2)(A)(iii); and
 
@@ -54,11 +54,11 @@
 
 (B) The notification required under this paragraph shall be in addition to all other reporting requirements under this Act.
 
-(7) The reports required to be filed by this subsection shall be cumulative during the calendar year to which they relate, but where there has been no change in an item reported in a previousreport during such year, only the amount need be carried forward.
+(7) The reports required to be filed by this subsection shall be cumulative during the calendar year to which they relate, but where there has been no change in an item reported in a previous report during such year, only the amount need be carried forward.
 
 (8) The requirement for a political committee to file a quarterly report under paragraph (2)(A)(iii) or paragraph (4)(A)(i) shall be waived if such committee is required to file a pre-election report under paragraph (2)(A)(i), or paragraph (4)(A)(ii) during the period beginning on the 5th day after the close of the calendar quarter and ending on the 15th day after the close of the calendar quarter.
 
-(9) The Commission shall set filing dates for reports to be filed by principal campaign committees of candidates seeking election, or nomination for election, in special elections and political committees filing under paragraph (4)(A) which make contributions to or expenditures on behalf of a candidate or candidates in special elections. The Commission shall require no more than one pre-election report for each election and one post-election report for the election which fills the vacancy. The Commission may waive any reporting obligation of committees required to file for special elections if any report required by paragraph (2) or (4) is required to be filed within 10 days of a report required under this subsection. The Commission shall establish the reporting dates within 5 days of the setting of such election and shall publish such dates and notify the principal campaign committees of all candidates in such election of the reporting dates.
+(9) The Commission shall set filing dates for reports to be filed by principal campaign committees of candidates seeking election, or nomination for election, in special elections and political committees filing under paragraph (4)(A) which make contributions to or expenditures on behalf of a candidate or candidates in special elections. The Commission shall require no more than one pre-election report for each election and one post-election report for the election which fills the vacancy. The Commission may waive any reporting obligation of committees required to file for special elections if any report required by paragraph (2) or (4) is required to be filed within 10 days of a report required under this subsection. The Commission shall establishthe reporting dates within 5 days of the setting of such election and shall publish such dates and notify the principal campaign committees of all candidates in such election of the reporting dates.
 
 (10) The treasurer of a committee supporting a candidate for the office of Vice President (other than the nominee of a political party) shall file reports in accordance with paragraph (3).
 
@@ -182,7 +182,7 @@ Each report under this section shall disclose—
 
 &emsp;(A) the information required by subsection (b)(6)(B)(iii) of this section, indicating whether the independent expenditure is in support of, or in opposition to, the candidate involved;
 
-&emsp;(B) under penalty of perjury, a certification whether or not such independent expenditureis made in cooperation, consultation, or concert, with, or at the request or suggestion of, any candidate or any authorized committee or agent of such candidate; and
+&emsp;(B) under penalty of perjury, a certification whether or not such independent expenditure is made in cooperation, consultation, or concert, with, or at the request or suggestion of, any candidate or any authorized committee or agent of such candidate; and
 
 &emsp;(C) the identification of each person who made a contribution in excess of $200 to the person filing such statement which was made for the purpose of furthering an independent expenditure.
 

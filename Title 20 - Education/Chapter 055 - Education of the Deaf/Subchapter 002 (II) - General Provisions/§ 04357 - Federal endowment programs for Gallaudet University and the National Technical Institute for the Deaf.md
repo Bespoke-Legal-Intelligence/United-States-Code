@@ -54,7 +54,7 @@ After notice and an opportunity for a hearing, the Secretary is authorized to re
 
 &emsp;(2) fails to comply with the investment standards and limitations under this section; or
 
-&emsp;(3) fails to account properly to the Secretary concerning the investment of or expenditures from the Federal endowment fund corpus or income.
+&emsp;(3) fails to account properly to the Secretary concerning the investment of or expendituresfrom the Federal endowment fund corpus or income.
 
 #### (g) Definitions
 

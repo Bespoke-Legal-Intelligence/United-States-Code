@@ -4,7 +4,7 @@
 
 &emsp;(1) no longer meets the requirements of this chapter and regulations prescribed under this chapter applicable to that certificate of documentation; or
 
-&emsp;(2) is placed under the command of a person not a citizen of the United States.
+&emsp;(2) is placed under the command of a person not a citizen of the United States in violation of section 12110(d) of this title.
 
 (b) An invalid certificate of documentation must be surrendered as provided by regulations prescribed by the Secretary of Transportation.
 
@@ -22,7 +22,7 @@
 
 (3) The Secretary may approve the surrender of the certificate of documentation of a documented vessel covered by a mortgage filed or recorded under section 31321 of this title only if the mortgagee consents.
 
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 588; Pub. L. 100–710, title I, §103(a), Nov. 23, 1988, 102 Stat. 4749.)
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 588; Pub. L. 100–710, title I, §103(a), Nov. 23, 1988, 102 Stat. 4749; Pub. L. 104–324, title III, §301(d)(2)(A), Oct. 19, 1996, 110 Stat. 3916.)
 
 Historical and Revision Notes<br>1983
 
@@ -47,6 +47,8 @@ This amends section 12111 of title 46, United States Code, concerning surrenderi
 Section 12111(c)(3) is changed to prohibit the approval of the surrendering of a certificate of documentation for any vessel with a mortgage filed or recorded with the Secretary, not just a vessel with a preferred mortgage.
 
 #### Amendments
+
+1996—Subsec. (a)(2). Pub. L. 104–324 inserted “in violation of section 12110(d) of this title” before period at end.
 
 1988—Pub. L. 100–710 substituted “Surrender and invalidation” for “Invalidation” in section catchline, added subsecs. (b) and (c), and struck out former subsec. (b) which read as follows: “Except as provided by section 30(O) of the Merchant Marine Act, 1920 (46 App. U.S.C. 961(a)), an invalid certificate of documentation shall be surrendered as provided by regulations prescribed by the Secretary.”
 

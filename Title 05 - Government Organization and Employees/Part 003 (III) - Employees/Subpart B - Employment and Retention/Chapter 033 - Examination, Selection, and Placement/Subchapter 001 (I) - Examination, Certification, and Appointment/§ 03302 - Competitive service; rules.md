@@ -16,7 +16,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 5 U.S.C. 633(1) (less function of Civil Service Commission), (2)8 (last sentence).
 
@@ -28,11 +30,11 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-<b>1993</b>—Par. (2). Pub. L. 103–94 substituted “and 7203” for “7203, 7321, and 7322”.
+1993—Par. (2). Pub. L. 103–94 substituted “and 7203” for “7203, 7321, and 7322”.
 
-<b>1979</b>—Par. (2). Pub. L. 96–54 amended par. (2) in same manner as amendment by section 703(c)(1) of Pub. L. 95–454. See 1978 Amendment note below.
+1979—Par. (2). Pub. L. 96–54 amended par. (2) in same manner as amendment by section 703(c)(1) of Pub. L. 95–454. See 1978 Amendment note below.
 
-<b>1978</b>—Par. (2). Pub. L. 95–454 substituted “7202, 7203” for “7152, 7153”.
+1978—Par. (2). Pub. L. 95–454 substituted “7202, 7203” for “7152, 7153”.
 
 Pub. L. 95–228 struck out reference to section 3306(a)(1) of this title. Amendments by section 703(c)(1) and (c)(2) of Pub. L. 95–454 appear to have been inadvertently reversed. Subsec. (c)(1) purported to amend subsec. (c)(1) of section 2105 of this title, and subsec. (c)(2) purported to amend par. (2) of this section. However, the amendments specified by Pub. L. 95–454, §703(c)(1) and (2), were impossible to execute literally. Thus, amendment by Pub. L. 95–454, §703(c)(2) was executed to section 2105 of this title, and amendment by section 703(c)(1) was executed to this section as the probable intent of Congress.
 
@@ -64,7 +66,7 @@ WHEREAS the development of skills is most effectively achieved through a program
 
 NOW, THEREFORE, by virtue of the authority vested in me by the Constitution of the United States, by sections 3301 and 3302 of title 5, United States Code, and as President of the United States, it is ordered as follows:
 
-Section 1. (a) Subject to paragraph (b) of this section, the head of an agency may make an excepted appointment, to be known as a “veterans readjustment appointment”, to any position in the competitive service up to and including GS–5 or the equivalent thereof, of a veteran or disabled veteran as defined in section 2108(1), (2), of title 5, United States Code, who:
+Section 1. (a) Subject to paragraph (b) of this section, the head of an agency may make an excepted appointment, to be known as a “veterans readjustment appointment”, to any position in the competitive serviceup to and including GS–5 or the equivalent thereof, of a veteran or disabled veteran as defined in section 2108(1), (2), of title 5, United States Code, who:
 
 (1) served on active duty in the armed forces of the United States during the Vietnam era;
 
@@ -108,5 +110,5 @@ Sec. 7. This order is effective 14 days after its date.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3304, 3361 of this title.
+This section is referred to in sections 3304, 3361 of this title; title 10 section 1784.
 

@@ -26,7 +26,7 @@ Withholding Payments.—(1) The Secretary may withhold a payment under a grant a
 
 &emsp;(B) the hearing officer if the officer decides an extension is necessary because the sponsor did not follow the schedule the officer established.
 
-(3) A person adversely affected by an order of the Secretary withholding a payment may applyfor review of the order by filing a petition in the United States Court of Appeals for the District of Columbia Circuit or in the court of appeals of the United States for the circuit in which the project is located. The petition must be filed not later than 60 days after the order is served on the petitioner.
+(3) A person adversely affected by an order of the Secretary withholding a payment may apply for review of the order by filing a petition in the United States Court of Appeals for the District of Columbia Circuit or in the court of appeals of the United States for the circuit in which the project is located. The petition must be filed not later than 60 days after the order is served on the petitioner.
 
 (e)
 
@@ -40,7 +40,9 @@ Judicial Enforcement.—For any violation of this chapter or any grant assurance
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

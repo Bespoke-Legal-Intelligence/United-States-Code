@@ -22,7 +22,7 @@
 
 (1) Each member of the National Council shall serve for a term of 3 years, except that the terms of service of the members initially appointed after November 6, 1978, shall be (as specified by the President) for such fewer number of years as will provide for the expiration of terms on a staggered basis.
 
-(2)(A) No member of the Council may serve more than two consecutive full terms beginningon the date of initial service on the Council. Members may serve after the expiration of their terms until their successors have taken office.
+(2)(A) No member of the Council may serve more than two consecutive full terms beginning on the date of initial service on the Council. Members may serve after the expiration of their terms until their successors have taken office.
 
 (B) As used in this paragraph:
 

@@ -30,7 +30,7 @@ A debt collector may not use any false, deceptive, or misleading representation 
 
 &emsp;(10) The use of any false representation or deceptive means to collect or attempt to collect any debt or to obtain information concerning a consumer.
 
-&emsp;(11) Except as otherwise provided for communications to acquire location information under section 1692b of this title, the failure to disclose clearly in all communications made to collect a debt or to obtain information about a consumer, that the debt collector is attempting to collect a debt and that any information obtained will be used for that purpose.
+&emsp;(11) The failure to disclose in the initial written communication with the consumer and, in addition, if the initial communication with the consumer is oral, in that initial oral communication, that the debt collector is attempting to collect a debt and that any information obtained will be used for that purpose, and the failure to disclose in subsequent communications that the communication is from a debt collector, except that this paragraph shall not apply to a formal pleading made in connection with a legal action.
 
 &emsp;(12) The false representation or implication that accounts have been turned over to innocent purchasers for value.
 
@@ -42,5 +42,13 @@ A debt collector may not use any false, deceptive, or misleading representation 
 
 &emsp;(16) The false representation or implication that a debt collector operates or is employed by a consumer reporting agency as defined by section 1681a(f) of this title.
 
-(Pub. L. 90–321, title VIII, §807, as added Pub. L. 95–109, Sept. 20, 1977, 91 Stat. 877.)
+(Pub. L. 90–321, title VIII, §807, as added Pub. L. 95–109, Sept. 20, 1977, 91 Stat. 877; amended Pub. L. 104–208, div. A, title II, §2305(a), Sept. 30, 1996, 110 Stat. 3009–425.)
+
+#### Amendments
+
+1996—Par. (11). Pub. L. 104–208 amended par. (11) generally. Prior to amendment, par. (11) read as follows: “Except as otherwise provided for communications to acquire location information under section 1692b of this title, the failure to disclose clearly in all communications made to collect a debt or to obtain information about a consumer, that the debt collector is attempting to collect a debt and that any information obtained will be used for that purpose.”
+
+#### Effective Date of 1996 Amendment
+
+Section 2305(b) of div. A of Pub. L. 104–208 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect 90 days after the date of enactment of this Act \[Sept. 30, 1996\] and shall apply to all communications made after that date of enactment.”
 

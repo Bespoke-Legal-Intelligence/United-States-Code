@@ -64,7 +64,7 @@ The United States shall be deemed to own Federal property for the purposes of th
 
 &emsp;&emsp;(B) requires that the property be used in perpetuity for the public purposes for which the property was conveyed;
 
-&emsp;&emsp;(C) requires the grantee of the property to report to the Federal Government (or itsagent) regarding information on the use of the property;
+&emsp;&emsp;(C) requires the grantee of the property to report to the Federal Government (or its agent) regarding information on the use of the property;
 
 &emsp;&emsp;(D) except with the approval of the Federal Government (or its agent), prohibits the sale, lease, assignment, or other disposal of the property unless such sale, lease, assignment, or other disposal is to another eligible government agency; and
 
@@ -84,13 +84,61 @@ Beginning with fiscal year 1995, a local educational agency shall be deemed to m
 
 #### (f) Special rule
 
-Beginning with fiscal year 1994, and notwithstanding any other provision of law limiting the period during which fiscal year 1994 funds may be obligated, the Secretary shall treat the local educational agency serving the Wheatland R–II School District, Wheatland, Missouri, as meeting the eligibility requirements of section 2(a)(1)(C) of the Act of September 30, 1950 (Public Law 874, 81st Congress) (as such section was in effect on the day preceding October 20, 1994) (20 U.S.C. 237(a)(1)(C)) or subsection (a)(1)(C) of this section.
+Beginning with fiscal year 1994, and notwithstanding any other provision of law limiting the period during which fiscal year 1994 funds may be obligated, the Secretary shall treat the localeducational agency serving the Wheatland R–II School District, Wheatland, Missouri, as meeting the eligibility requirements of section 2(a)(1)(C) of the Act of September 30, 1950 (Public Law 874, 81st Congress) (as such section was in effect on the day preceding October 20, 1994) (20 U.S.C. 237(a)(1)(C)) or subsection (a)(1)(C) of this section.
 
-(Pub. L. 89–10, title VIII, §8002, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3749.)
+#### (g) Former districts
+
+#### (1) In general
+
+&emsp;Where the school district of any local educational agency described in paragraph (2) is formed at any time after 1938 by the consolidation of two or more former school districts, such agency may elect (at any time such agency files an application under section 7705 of this title) for any fiscal year after fiscal year 1994 to have (A) the eligibility of such local educational agency, and (B) the amount which such agency shall be eligible to receive, determined under this section only with respect to such of the former school districts comprising such consolidated school districts as such agency shall designate in such election.
+
+#### (2) Eligible local educational agencies
+
+&emsp;A local educational agency referred to in paragraph (1) is any local educational agency that, for fiscal year 1994 or any preceding fiscal year, applied for and was determined eligible under section 2(c) of the Act of September 30, 1950 (Public Law 874, 81st Congress) as such section was in effect for such fiscal year.
+
+#### (h) Hold-harmless amounts
+
+#### (1) In general
+
+&emsp;Except as provided in paragraph (2)(A), the total amount that the Secretary shall pay under subsection (b) of this section to a local educational agency that is otherwise eligible for a payment under this section—
+
+&emsp;&emsp;(A) for fiscal year 1995 shall not be less than 85 percent of the amount such agency received for fiscal year 1994 under section 2 of the Act of September 30, 1950 (Public Law 874, 81st Congress) as such section was in effect on September 30, 1994; or
+
+&emsp;&emsp;(B) for fiscal year 1996 shall not be less than 85 percent of the amount such agency received for fiscal year 1995 under subsection (b) of this section.
+
+#### (2) Ratable reductions
+
+&emsp;(A)(i) If necessary in order to make payments to local educational agencies in accordance with paragraph (1) for any fiscal year, the Secretary first shall ratably reduce payments under subsection (b) of this section for such year to local educational agencies that do not receive a payment under this subsection for such year.
+
+&emsp;(ii) If additional funds become available for making payments under subsection (b) of this section for such year, then payments that were reduced under clause (i) shall be increased on the same basis as such payments were reduced.
+
+&emsp;(B)(i) If the sums made available under this subchapter for any fiscal year are insufficient to pay the full amounts that all local educational agencies in all States are eligible to receive under paragraph (1) after the application of subparagraph (A) for such year, then the Secretary shall ratably reduce payments under paragraph (1) to all such agencies for such year.
+
+&emsp;(ii) If additional funds become available for making payments under paragraph (1) for such fiscal year, then payments that were reduced under clause (i) shall be increased on the same basis as such payments were reduced.
+
+#### (i) Priority payments
+
+Notwithstanding subsection (b)(1)(B) of this section, and for any fiscal year beginning with fiscal year 1997 for which the amount appropriated to carry out this section exceeds the amount so appropriated for fiscal year 1996, the Secretary shall first use such excess amount to increase the payment that would otherwise be made under this section to not more than 50 percent of the maximum amount determined under subsection (b) of this section for any local educational agency that—
+
+&emsp;(1) received a payment under this section for fiscal year 1996;
+
+&emsp;(2) serves a school district that contains all or a portion of a United States military academy;
+
+&emsp;(3) serves a school district in which the local tax assessor has certified that at least 60 percent of the real property is federally owned; and
+
+&emsp;(4) demonstrates to the satisfaction of the Secretary that such agency's per-pupil revenue derived from local sources for current expenditures is not less than that revenue for the preceding fiscal year.
+
+(Pub. L. 89–10, title VIII, §8002, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3749; amended Pub. L. 104–195, §§1, 6, Sept. 16, 1996, 110 Stat. 2379, 2382.)
 
 #### References in Text
 
-Section 2 of the Act of September 30, 1950 (Public Law 874, 81st Congress) (as such section was in effect on the day preceding October 20, 1994), referred to in subsec. (f), means section 2 of act Sept. 30, 1950, ch. 1124, which was classified to section 237 of this title prior to repeal by Pub. L. 103–382, title III, §331(b), Oct. 20, 1994, 108 Stat. 3965.
+Section 2 of the Act of September 30, 1950, referred to in subsecs. (f), (g)(2), and (h)(1)(A), means section 2 of act Sept. 30, 1950, ch. 1124, which was classified to section 237 of this title prior to repeal by Pub. L. 103–382, title III, §331(b), Oct. 20, 1994, 108 Stat. 3965.
+
+#### Amendments
+
+1996—Subsecs. (g), (h). Pub. L. 104–195, §1, added subsecs. (g) and (h).
+
+Subsec. (i). Pub. L. 104–195, §6, added subsec. (i).
 
 #### Section Referred to in Other Sections
 

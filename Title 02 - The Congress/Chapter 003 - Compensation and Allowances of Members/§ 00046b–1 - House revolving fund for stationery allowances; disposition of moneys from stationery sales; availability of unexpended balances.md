@@ -8,7 +8,3 @@ There is established a revolving fund for the purpose of administering the funds
 
 Stationery room of House of Representatives redesignated Office Supply Service.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 25b, 46b–2 of this title.
-

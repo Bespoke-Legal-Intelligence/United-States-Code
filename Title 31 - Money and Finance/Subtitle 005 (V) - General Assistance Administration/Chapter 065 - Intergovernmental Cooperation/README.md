@@ -19,7 +19,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in title 42 section 3232.
+This chapter is referred to in section 3336 of this title; title 42 section 3232.
 
 
 ---

@@ -2,7 +2,7 @@
 
 #### Amendments
 
-<b>1978</b>—Pub. L. 95–454, title VIII, §801(a)(3)(A)(i), Oct. 13, 1978, 92 Stat. 1221, redesignated former subchapter VI as VII.
+1978—Pub. L. 95–454, title VIII, §801(a)(3)(A)(i), Oct. 13, 1978, 92 Stat. 1221, redesignated former subchapter VI as VII.
 
 #### Subchapter Referred to in Other Sections
 

@@ -6,5 +6,5 @@ Trust or restricted tribal or tribal corporation property mortgaged pursuant to 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 488, 489, 490, 492, 493, 494 of this title.
+This section is referred to in sections 488, 489, 490, 492, 493, 494 of this title; title 7 section 1985.
 

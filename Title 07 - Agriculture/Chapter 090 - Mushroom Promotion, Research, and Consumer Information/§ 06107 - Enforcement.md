@@ -38,7 +38,7 @@ A civil action authorized to be brought under this section shall be referred to 
 
 #### (2) Record
 
-&emsp;The Secretary shall promptly file in such court a certified copy of the record on whichthe Secretary found that the person had committed a violation.
+&emsp;The Secretary shall promptly file in such court a certified copy of the record on which the Secretary found that the person had committed a violation.
 
 #### (3) Standard of review
 

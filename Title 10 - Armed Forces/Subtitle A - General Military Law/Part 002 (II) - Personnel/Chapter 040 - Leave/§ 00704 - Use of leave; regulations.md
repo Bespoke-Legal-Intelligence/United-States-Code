@@ -46,6 +46,36 @@ In subsection (b), 37:33(e) (less 1st sentence) is omitted as executed.
 
 Section effective Nov. 1, 1962, see section 15 of Pub. L. 87–649, set out as a note preceding section 101 of Title 37, Pay and Allowances of the Uniformed Services.
 
+#### Facilitating Granting of Leave for Attendance at Hearings Involving Parental Support Obligations
+
+Pub. L. 104–193, title III, §363(b), Aug. 22, 1996, 110 Stat. 2248, provided that:
+
+“(1)
+
+Regulations.—The Secretary of each military department, and the Secretary of Transportation with respect to the Coast Guard when it is not operating as a service in the Navy, shall prescribe regulations to facilitate the granting of leave to a member of the Armed Forces under the jurisdiction of that Secretary in a case in which—
+
+&emsp;“(A) the leave is needed for the member to attend a hearing described in paragraph (2);
+
+&emsp;“(B) the member is not serving in or with a unit deployed in a contingency operation (as defined in section 101 of title 10, United States Code); and
+
+&emsp;“(C) the exigencies of military service (as determined by the Secretary concerned) do not otherwise require that such leave not be granted.
+
+“(2)
+
+Covered hearings.—Paragraph (1) applies to a hearing that is conducted by a court or pursuant to an administrative process established under State law, in connection with a civil action—
+
+&emsp;“(A) to determine whether a member of the Armed Forces is a natural parent of a child; or
+
+&emsp;“(B) to determine an obligation of a member of the Armed Forces to provide child support.
+
+“(3)
+
+Definitions.—For purposes of this subsection—
+
+&emsp;“(A) The term ‘court’ has the meaning given that term in section 1408(a) of title 10, United States Code.
+
+&emsp;“(B) The term ‘child support’ has the meaning given such term in section 459(i) of the Social Security Act (42 U.S.C. 659(i)).”
+
 #### Section Referred to in Other Sections
 
 This section is referred to in section 702 of this title.

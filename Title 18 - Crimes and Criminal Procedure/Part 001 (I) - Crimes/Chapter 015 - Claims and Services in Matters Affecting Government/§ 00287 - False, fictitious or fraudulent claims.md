@@ -42,5 +42,5 @@ Liability of persons making false claims; jurisdiction and parties; duty of dist
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 14, 1345, 3059A of this title; title 10 section 2324; title 12 section 1833a.
+This section is referred to in sections 14, 24, 1345, 3059A of this title; title 10 section 2324; title 12 section 1833a; title 41 section 256.
 

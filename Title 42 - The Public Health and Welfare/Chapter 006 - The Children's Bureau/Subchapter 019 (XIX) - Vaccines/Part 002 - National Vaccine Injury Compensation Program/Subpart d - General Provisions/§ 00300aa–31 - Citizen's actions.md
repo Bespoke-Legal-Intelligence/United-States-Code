@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-Except as provided in subsection (b) of this section, any person may commence in a district court of the United States a civil action on such person's own behalf against the Secretary where there is alleged a failure of the Secretary to perform any act or duty under this part.
+Except as provided in subsection (b) of this section, any person may commence in a district court of the United States a civil action on suchperson's own behalf against the Secretary where there is alleged a failure of the Secretary to perform any act or duty under this part.
 
 #### (b) Notice
 

@@ -6,7 +6,7 @@
 
 (c) The issuance, transfer, or exchange of a security, or the making or delivery of an instrument of transfer under a plan confirmed under section 1225 of this title, may not be taxed under any law imposing a stamp tax or similar tax.
 
-(d) The court may authorize the proponent of a plan to request a determination, limited to questions of law, by a State or local governmental unit charged with responsibility for collection or determination of a tax on or measuredby income, of the tax effects, under section 346 of this title and under the law imposing such tax, of the plan. In the event of an actual controversy, the court may declare such effects after the earlier of—
+(d) The court may authorize the proponent of a plan to request a determination, limited to questions of law, by a State or local governmental unit charged with responsibility for collection or determination of a tax on or measured by income, of the tax effects, under section 346 of this title and under the law imposing such tax, of the plan. In the event of an actual controversy, the court may declare such effects after the earlier of—
 
 &emsp;(1) the date on which such governmental unit responds to the request under this subsection; or
 

@@ -170,15 +170,15 @@ Property to which paragraph applies.—Property described in this subparagraph c
 
 &nbsp;&nbsp;“March 5, 1986
 
-&nbsp;$176,844,000  �7E�7E
+&nbsp;$176,844,000&nbsp;&nbsp;
 
 &nbsp;&nbsp;February 5, 1986
 
-&nbsp;&nbsp;64,567,000  �7E�7E
+&nbsp;&nbsp;64,567,000&nbsp;&nbsp;
 
 &nbsp;&nbsp;April 22, 1986
 
-&nbsp;&nbsp;64,598,000  �7E�7E
+&nbsp;&nbsp;64,598,000&nbsp;&nbsp;
 
 &nbsp;&nbsp;May 22, 1986
 
@@ -196,7 +196,7 @@ Amendment by section 1901(b)(26)(C), (D) of Pub. L. 94–455 effective for taxab
 
 #### Applicability of Certain Amendments by Pub. L. 99–514 in Relation to Treaty Obligations of United States
 
-For nonapplication of amendments by sections 1211(b)(1)(A) and 1212(a) of Pub. L. 99–514 to the extent application of such amendments would be contrary to any treaty obligation of the United States in effect on Oct. 22, 1986, with provision that for such purposes any amendment by title I of Pub. L. 100–647 be treated as if it had been included in the provision of Pub. L. 99–514 to which such amendment relates, see section 1012(aa)(3), (4) of Pub. L. 100–647, set out as a note under section 861 of this title.
+For nonapplication of amendments by sections 1211(b)(1)(A) and 1212(a) of Pub. L. 99–514 to the extentapplication of such amendments would be contrary to any treaty obligation of the United States in effect on Oct. 22, 1986, with provision that for such purposes any amendment by title I of Pub. L. 100–647 be treated as if it had been included in the provision of Pub. L. 99–514 to which such amendment relates, see section 1012(aa)(3), (4) of Pub. L. 100–647, set out as a note under section 861 of this title.
 
 #### Qualified Research and Experimental Expenditures; Allocation and Appointment; Definitions; Special Rules; Effective Dates
 

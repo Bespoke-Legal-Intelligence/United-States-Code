@@ -56,7 +56,7 @@ Each production credit association shall continue as a Federally chartered instr
 
 #### Prior Provisions
 
-A prior section 2071, Pub. L. 92–181, title II, §2.0, Dec. 10, 1971, 85 Stat. 590; Pub. L. 100–233, title VIII, §802(h), Jan. 6, 1988, 101 Stat. 1711, related to establishment and branches of Federal intermediate credit banks, prior to the general amendment of this subchapter by Pub. L. 100–233, §401.
+A prior section 2071, Pub. L. 92–181, title II, §2.0, Dec. 10, 1971, 85 Stat. 590; Pub. L. 100–233, title VIII, §802(h),Jan. 6, 1988, 101 Stat. 1711, related to establishment and branches of Federal intermediate credit banks, prior to the general amendment of this subchapter by Pub. L. 100–233, §401.
 
 #### Amendments
 

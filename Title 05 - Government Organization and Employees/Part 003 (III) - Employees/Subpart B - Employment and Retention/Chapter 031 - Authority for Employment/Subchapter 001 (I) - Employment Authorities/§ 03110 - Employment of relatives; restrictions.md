@@ -28,7 +28,7 @@
 
 #### Amendments
 
-<b>1978</b>—Subsec. (d). Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission”.
+1978—Subsec. (d). Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission”.
 
 #### Effective Date of 1978 Amendment
 

@@ -8,7 +8,7 @@ Definitions.—In this section—
 
 &emsp;&emsp;(A) has the same meaning given that term in section 3 of the Small Business Act (15 U.S.C. 632); but
 
-&emsp;&emsp;(B) does not include a concern, or group of concerns controlled by the same socially and economically disadvantaged individual, that has average annual gross receipts over the prior 3 fiscal years of more than $16,015,000, as adjusted by the Secretary of Transportation for inflation.
+&emsp;&emsp;(B) does not include a concern, or group of concerns controlled by the same socially andeconomically disadvantaged individual, that has average annual gross receipts over the prior 3 fiscal years of more than $16,015,000, as adjusted by the Secretary of Transportation for inflation.
 
 &emsp;(2) “socially and economically disadvantaged individual” has the same meaning given that term in section 8(d) of the Act (15 U.S.C. 637(d)) and relevant subcontracting regulations prescribed under section 8(d), except that women are presumed to be socially and economically disadvantaged.
 
@@ -30,7 +30,9 @@ Historical and Revision Notes
 
 Pub. L. 103–272
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

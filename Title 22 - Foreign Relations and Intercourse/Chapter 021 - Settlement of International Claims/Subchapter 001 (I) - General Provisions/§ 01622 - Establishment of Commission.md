@@ -12,6 +12,10 @@ The Commission may prescribe such rules and regulations as may be necessary to e
 
 <i>Pub. L. 89–348, §2(7), Nov. 8, 1965, 79 Stat. 1312, modified subsection (c) of this section to require annual submission instead of semiannual submission to the Congress by the Foreign Claims Settlement Commission of its report concerning its operations under the International Claims Settlement Act of 1949.</i>
 
+#### References to This Subchapter Deemed To Include Section 119 of H.R. 2076
+
+References to this subchapter deemed to include section 119 of H.R. 2076, see section 119(b) of H.R. 2076, as enacted into law by Pub. L. 104–91, set out as an Authority of Foreign Claims Settlement Commission note under section 1644 of this title.
+
 #### Amendments
 
 1966—Subsec. (a). Pub. L. 89–554 repealed subsec. (a) which related to the composition, appointment, chairman, quorum, and acting members of the Commission.
@@ -50,7 +54,7 @@ There is hereby established the Foreign Claims Settlement Commission of the Unit
 
 (a) All functions of the War Claims Commission and of the members, officers, and employees thereof are hereby transferred to the Foreign Claims Settlement Commission of the United States.
 
-(b) All functions of the International Claims Commission of the United States (hereinafter referred to as the International Claims Commission) and the members, officers, and employees thereof are hereby transferred to the Foreign Claims Settlement Commission of the United States.
+(b) All functions of the International Claims Commission of the United States (hereinafter referred to as theInternational Claims Commission) and the members, officers, and employees thereof are hereby transferred to the Foreign Claims Settlement Commission of the United States.
 
 (c) The functions of the Secretary of State and of the Department of State with respect to the International Claims Commission and its affairs, exclusive of the functions of the said Secretary and Department under sections 3(c), 4(b), and 5, and the first sentence of section 8(d), of the International Claims Settlement Act of 1949, 64 Stat. 12, as amended \[22 U.S.C. 1622(c), 1623(b), 1624, and 1627(d)\], are hereby transferred to the Commission.
 
@@ -62,7 +66,7 @@ There are hereby vested in the Chairman all functions of the Commission with res
 
 #### Sec. 4. Abolitions
 
-(a) The War Claims Commission provided for in the War Claims Act of 1948, 62, Stat. 1240, as amended \[50 App. U.S.C. 2001 et seq.\] and the International Claims Commission, provided for in the International Claims Settlement Act of 1949, as amended \[22 U.S.C. 1621–1627\], including the offices of the members of each of the said commissions, and the office of Commissioner providedfor in the aforesaid Joint Resolution of August 4, 1939, are hereby abolished.
+(a) The War Claims Commission provided for in the War Claims Act of 1948, 62, Stat. 1240, as amended \[50 App. U.S.C. 2001 et seq.\] and the International Claims Commission, provided for in the International Claims Settlement Act of 1949, as amended \[22 U.S.C. 1621–1627\], including the offices of the members of each of the said commissions, and the office of Commissioner provided for in the aforesaid Joint Resolution of August 4, 1939, are hereby abolished.
 
 (b) The functions of the Secretary of State under the third and fourth sentences of section 3(c) of the International Claims Settlement Act of 1949, as amended \[22 U.S.C. 1622(c)\], are hereby abolished.
 

@@ -3,13 +3,8 @@
 | Sec. |  |
 | :--- | ---: |
 | [3181\.](%C2%A7%2003181%20-%20Scope%20and%20limitation%20of%20chapter.md) | Scope and limitation of chapter. |
-| [3182\.](%C2%A7%2003182%20-%20Fugitives%20from%20State%20or%20Territory%20to%20State%2C%20District%20or%20Territory.md) | Fugitives from State or Territory to State, District or Territory. |
-| [3183\.](%C2%A7%2003183%20-%20Fugitives%20from%20State%2C%20Territory%2C%20or%20Possession%20into%20extraterritorial%20jurisdiction%20of%20United%20States.md) | Fugitives from State, Territory <sup>1</sup> or Possession into extraterritorial jurisdiction of United States. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |
-| :--- | ---: |
+| [3182\.](%C2%A7%2003182%20-%20Fugitives%20from%20State%20or%20Territory%20to%20State%2C%20District%2C%20or%20Territory.md) | Fugitives from State or Territory to State, District, or Territory. |
+| [3183\.](%C2%A7%2003183%20-%20Fugitives%20from%20State%2C%20Territory%2C%20or%20Possession%20into%20extraterritorial%20jurisdiction%20of%20United%20States.md) | Fugitives from State, Territory, or Possession into extraterritorial jurisdiction of United States. |
 | [3184\.](%C2%A7%2003184%20-%20Fugitives%20from%20foreign%20country%20to%20United%20States.md) | Fugitives from foreign country to United States. |
 | [3185\.](%C2%A7%2003185%20-%20Fugitives%20from%20country%20under%20control%20of%20United%20States%20into%20the%20United%20States.md) | Fugitives from country under control of United States into the United States. |
 | [3186\.](%C2%A7%2003186%20-%20Secretary%20of%20State%20to%20surrender%20fugitive.md) | Secretary of State to surrender fugitive. |
@@ -28,6 +23,8 @@
 
 #### Amendments
 
+1996—Pub. L. 104–294, title VI, §601(f)(9), (10), Oct. 11, 1996, 110 Stat. 3500, inserted comma after “District” in item 3182 and after “Territory” in item 3183.
+
 1990—Pub. L. 101–623, §11(b), Nov. 21, 1990, 104 Stat. 3356, added item 3196.
 
 #### Federal Rules of Criminal Procedure
@@ -42,15 +39,13 @@ Removal proceedings, see rule 40.
 
 Removal of offenders against the United States, from district of arrest to district of commission of crime, see section 3042 of this title.
 
-<i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
-
 
 ---
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
 - [&sect; 03181 - Scope and limitation of chapter](%C2%A7%2003181%20-%20Scope%20and%20limitation%20of%20chapter.md)
-- [&sect; 03182 - Fugitives from State or Territory to State, District or Territory](%C2%A7%2003182%20-%20Fugitives%20from%20State%20or%20Territory%20to%20State%2C%20District%20or%20Territory.md)
+- [&sect; 03182 - Fugitives from State or Territory to State, District, or Territory](%C2%A7%2003182%20-%20Fugitives%20from%20State%20or%20Territory%20to%20State%2C%20District%2C%20or%20Territory.md)
 - [&sect; 03183 - Fugitives from State, Territory, or Possession into extraterritorial jurisdiction of United States](%C2%A7%2003183%20-%20Fugitives%20from%20State%2C%20Territory%2C%20or%20Possession%20into%20extraterritorial%20jurisdiction%20of%20United%20States.md)
 - [&sect; 03184 - Fugitives from foreign country to United States](%C2%A7%2003184%20-%20Fugitives%20from%20foreign%20country%20to%20United%20States.md)
 - [&sect; 03185 - Fugitives from country under control of United States into the United States](%C2%A7%2003185%20-%20Fugitives%20from%20country%20under%20control%20of%20United%20States%20into%20the%20United%20States.md)

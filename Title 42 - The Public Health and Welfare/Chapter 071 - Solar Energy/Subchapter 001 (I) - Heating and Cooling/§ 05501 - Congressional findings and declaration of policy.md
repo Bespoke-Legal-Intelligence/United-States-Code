@@ -10,7 +10,7 @@
 
 &emsp;(4) the technologies for combined solar heating and cooling still require research, development, testing and demonstration, but no insoluble technical problem is now foreseen in achieving commercial use of such technologies;
 
-&emsp;(5) the early development and export of viable solar heating equipment and combined solar heating and cooling equipment, consistent with the established preeminence of the United States in the field of high technologyproducts, can make a valuable contribution to our balance of trade;
+&emsp;(5) the early development and export of viable solar heating equipment and combined solar heating and cooling equipment, consistent with the established preeminence of the United States in the field of high technology products, can make a valuable contribution to our balance of trade;
 
 &emsp;(6) the widespread use of solar energy in place of conventional methods for the heating and cooling of buildings would have a significantly beneficial effect upon the environment;
 
@@ -20,7 +20,7 @@
 
 &emsp;(9) innovation and creativity in the development of solar heating and combined solar heating and cooling components and systems can be fostered through encouraging direct contact between the manufacturers of such systems and the architects, engineers, developers, contractors, and other persons interested in installing such systems in buildings;
 
-&emsp;(10) evaluation of the performance and reliability of solar heating and combined solar heating and cooling technologies can be expedited by testing under carefully controlled conditions; and
+&emsp;(10) evaluation of the performance and reliability of solar heating and combined solarheating and cooling technologies can be expedited by testing under carefully controlled conditions; and
 
 &emsp;(11) commercial application of solar heating and combined solar heating and cooling technologies can be expedited by early commercial demonstration under practical conditions.
 

@@ -1,4 +1,4 @@
-### §1703 . Delay or destruction of mail or newspapers
+### §1703. Delay or destruction of mail or newspapers
 
 (a) Whoever, being a Postal Service officer or employee, unlawfully secretes, destroys, detains, delays, or opens any letter, postal card, package, bag, or mail entrusted to him or which shall come into his possession, and which was intended to be conveyed by mail, or carried or delivered by any carrier or other employee of the Postal Service, or forwarded through or delivered from any post office or station thereof established by authority of the Postmaster General or the Postal Service, shall be fined under this title or imprisoned not more than five years, or both.
 
@@ -24,7 +24,7 @@ This section \[section 37\] corrects typographical errors in section 1703 of tit
 
 #### Amendments
 
-1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $500” in subsec. (a) and “fined under this title” for “fined not more than $100” in last par.
+1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $500” in subsec. (a) and“fined under this title” for “fined not more than $100” in last par.
 
 1970—Subsec. (a). Pub. L. 91–375, §6(j)(16)(A), amended subsec. (a) generally, which prior to amendment read as follows: “Whoever, being a postmaster or Postal Service employee, unlawfully detains, delays, or opens any letter, postal card, package, bag, or mail intrusted to him or which shall come into his possession, and which was intended to be conveyed by mail, or carried or delivered by any carrier or other employee of the Postal Service, or forwarded through or delivered from any post office or station thereof established by authority of the Postmaster General; or secretes, or destroys any such letter, postal card, package, bag, or mail, shall be fined not more than $500 or imprisoned not more than five years, or both.”
 
@@ -36,5 +36,5 @@ Subsec. (b). Act May 24, 1949, §37(b), substituted “newspapers” for “news
 
 #### Effective Date of 1970 Amendment
 
-Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on date established therefor by Board of Governors of United States Postal Service and published by it in Federal Register, see section 15(a) ofPub. L. 91–375, set out as an Effective Date note preceding section 101 of Title 39, Postal Service.
+Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on date established therefor by Board of Governors of United States Postal Service and published by it in Federal Register, see section 15(a) of Pub. L. 91–375, set out as an Effective Date note preceding section 101 of Title 39, Postal Service.
 

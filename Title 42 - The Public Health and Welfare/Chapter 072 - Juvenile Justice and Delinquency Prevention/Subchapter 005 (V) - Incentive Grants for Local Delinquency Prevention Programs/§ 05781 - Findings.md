@@ -20,7 +20,7 @@ The Congress finds that—
 
 For short title of title V of Pub. L. 93–415, which enacted this subchapter, as the “Incentive Grants for Local Delinquency Prevention Programs Act”, see section 501 of Pub. L. 93–415, as added by Pub. L. 102–586, set out as a note under section 5601 of this title.
 
-#### Study
+#### GAO Studies and Reports
 
-Section 5(b) of Pub. L. 102–586 provided that: “After the program established by subsection (a) \[enacting this subchapter\] has been funded for two years, the General Accounting Office shall prepare and submit to Congress a study of the effects of the program in encouraging States and units of general local government to comply with the requirements of part B of title II \[probably means part B of title II of Pub. L. 93–415, 42 U.S.C. 5631 et seq.\].”
+Section 5(b) of Pub. L. 102–586, as amended by Pub. L. 104–316, title I, §122(n), Oct. 19, 1996, 110 Stat. 3838, provided that: “Under such conditions as the Comptroller General of the United States determines appropriate, the General Accounting Office may conduct studies and report to Congress on the effects of the program established by subsection (a) \[enacting this subchapter\] in encouraging States and units of general local government to comply with the requirements of part B of title II of the Juvenile Justice and Delinquency Prevention Act of 1974 (42 U.S.C. 5631–5633).”
 

@@ -16,13 +16,15 @@ The Director shall administer the system in accordance with regulations prescrib
 
 #### (c) Finality of decisions of DCI
 
-In the interests of the security of the foreign intelligence activities of the United States and in order further to implement section 403–3(c)(5) of this title that the Director of Central Intelligence shall be responsible for protecting intelligence sources and methods from unauthorized disclosure, and notwithstanding the provisions of chapter 7 of title 5 or any other provision of law (except section 2155(b) of this title), any determination by the Director authorized by this chapter shall be final and conclusive and shall not be subject to review by any court.
+In the interests of the security of the foreign intelligence activities of the United States and in order further to implement section 403–3(c)(5) <sup>1</sup> of this title that the Director of Central Intelligence shall be responsible for protecting intelligence sources and methods from unauthorized disclosure, and notwithstanding the provisions of chapter 7 of title 5 or any other provision of law (except section 2155(b) of this title), any determination by the Director authorized by this chapter shall be final and conclusive and shall not be subject to review by any court.
 
 (Pub. L. 88–643, title II, §201, as added Pub. L. 102–496, title VIII, §802, Oct. 24, 1992, 106 Stat. 3201; amended Pub. L. 103–178, title II, §202(a)(2), Dec. 3, 1993, 107 Stat. 2026.)
 
 #### References in Text
 
 The Central Intelligence Agency Retirement Act of 1964 for Certain Employees, referred to in subsec. (a)(1), is Pub. L. 88–643, Oct. 13, 1964, 78 Stat. 1043, as amended, which was formerly set out as a note under section 403 of this title. Pub. L. 88–643 was revised generally by Pub. L. 102–496, title VIII, §802, Oct. 24, 1992, 106 Stat. 3196, and is now known as the Central Intelligence Agency Retirement Act. As so revised, title II of Pub. L. 88–643 is classified generally to this subchapter.
+
+Section 403–3(c)(5) of this title, referred to in subsec. (c), was redesignated section 403–3(c)(6) of this title by Pub. L. 104–293, title VIII, §807(a)(2), Oct. 11, 1996, 110 Stat. 3480.
 
 #### Prior Provisions
 
@@ -39,4 +41,6 @@ Amendment by Pub. L. 103–178 effective Feb. 1, 1993, see section 202(b) of Pub
 #### Section Referred to in Other Sections
 
 This section is referred to in section 2155 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

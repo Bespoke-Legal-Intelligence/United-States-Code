@@ -26,7 +26,7 @@ The report shall contain a description of actions taken by the Bank in pursuance
 
 &emsp;(F) any recommendations for increasing the participation of banks and other institutions in the programs authorized under section 635(b)(1)(E) of this title.
 
-(3) For the purpose of this subsection, the Bank's report shall be transmitted to the Committee on Small Business of the Senate and the Committee on Small Business of the House of Representatives.
+(3) For the purpose of this subsection, the Bank's report shall be transmitted to the Committee on Small Business of the Senate and theCommittee on Small Business of the House of Representatives.
 
 #### (d) Actions taken by Bank to aid industries, preserve and create highly skilled jobs, and enhance opportunity for business growth and expansion; comments of Advisory Committee
 

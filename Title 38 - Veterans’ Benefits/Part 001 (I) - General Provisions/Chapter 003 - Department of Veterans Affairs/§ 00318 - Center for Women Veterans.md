@@ -2,7 +2,7 @@
 
 (a) There is in the Department a Center for Women Veterans. There is at the head of the Center a Director.
 
-(b) The Director shall be a noncareer appointee in the Senior Executive Service. The Director shall be appointed for a term of six years.
+(b) The Director shall be a career or noncareer appointee in the Senior Executive Service. The Director shall be appointed for a term of six years.
 
 (c) The Director reports directly to the Secretary or the Deputy Secretary concerning the activities of the Center.
 
@@ -26,7 +26,7 @@
 
 &emsp;(9) Publicize the results of medical research which are of particular significance to veterans who are women.
 
-&emsp;(10) Advise the Secretary and other appropriate officials on the effectiveness of the Department's efforts to accomplish the goals of section 492B of the Public Health Service Act (relating to the inclusion of women and minorities in clinical research) and of particular health conditions affecting women's health which should be studied as part of the Department's medical research program and promote cooperation between the Department and other sponsors of medical research of potential benefit to veterans who are women.
+&emsp;(10) Advise the Secretary and other appropriate officials on the effectiveness of the Department's efforts to accomplish the goals of section 492B of the Public Health Service Act (42 U.S.C. 289a–2) with respect to the inclusion of women in clinical research and on particular health conditions affecting women's health which should be studied as part of the Department's medical research program and promote cooperation between the Department and other sponsors of medical research of potential benefit to veterans who are women.
 
 &emsp;(11) Provide support and administrative services to the Advisory Committee on Women Veterans established under section 542 of this title.
 
@@ -42,11 +42,7 @@
 
 &emsp;(3) a report on the activities and significant accomplishments of the Center during the preceding fiscal year.
 
-(Added Pub. L. 103–446, title V, §509(a), Nov. 2, 1994, 108 Stat. 4666.)
-
-#### References in Text
-
-Section 492B of the Public Health Service Act, referred to in subsec. (d)(10), is classified to section 289a–2 of Title 42, The Public Health and Welfare.
+(Added Pub. L. 103–446, title V, §509(a), Nov. 2, 1994, 108 Stat. 4666; amended Pub. L. 104–275, title V, §501(a), (d), Oct. 9, 1996, 110 Stat. 3340, 3341.)
 
 #### Prior Provisions
 
@@ -69,4 +65,32 @@ Prior sections 401 and 402 were renumbered sections 1301 and 1302 of this title,
 Prior section 403, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1127; Pub. L. 91–96, §2, Oct. 27, 1969, 83 Stat. 144, defined Reserve Officer Training Corps annual training duty and authorized travel to and from such duty as active military service for the purposes of chapter 11 of this title and former section 722 of this title, prior to repeal by Pub. L. 97–306, title I, §113(b)(1), (d), Oct. 14, 1982, 96 Stat. 1432, 1433, effective Oct. 1, 1982, with respect to deaths and disabilities resulting from diseases or injuries incurred or aggravated after Sept. 30, 1982, and Oct. 1, 1983, with respect to deaths and disabilities incurred or aggravated before Oct. 1, 1982.
 
 Prior sections 404, 410 to 418, and 421 to 423 were renumbered sections 1304, 1310 to 1318, and 1321 to 1323 of this title, respectively.
+
+#### Amendments
+
+1996—Subsec. (b). Pub. L. 104–275, §501(a), inserted “career or” before “noncareer”.
+
+Subsec. (d)(10). Pub. L. 104–275, §501(d), substituted “(42 U.S.C. 289a–2) with respect to the inclusion of women in clinical research and on” for “(relating to the inclusion of women and minorities in clinical research) and of”.
+
+#### Assessment of Use by Women Veterans of Department of Veterans Affairs Health Services
+
+Pub. L. 104–262, title III, §323, Oct. 9, 1996, 110 Stat. 3196, provided that:
+
+“(a)
+
+Reports to Under Secretary for Health.—The Center for Women Veterans of the Department of Veterans Affairs (established under section 509 of Public Law 103–446 \[enacting this section and section 317 of this title and repealing former section 317 of this title\]), in consultation with the Advisory Committee on Women Veterans, shall assess the use by women veterans of health services through the Department of Veterans Affairs, including counseling for sexual trauma and mental health services. The Center shall submit to the Under Secretary for Health of the Department of Veterans Affairs a report not later than April 1, 1997, and April 1 of each of the two following years, on—
+
+&emsp;“(1) the extent to which women veterans described in paragraphs (1) and (2) of section 1710(a) of title 38, United States Code, fail to seek, or face barriers in seeking, health services through the Department, and the reasons therefor; and
+
+&emsp;“(2) recommendations, if indicated, for encouraging greater use of such services, including (if appropriate) public service announcements and other outreach efforts.
+
+“(b)
+
+Reports to Congressional Committees.—Not later than July 1, 1997, and July 1 of each of the two following years, the Secretary of Veterans Affairs shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report containing—
+
+&emsp;“(1) the most recent report of the Center for Women Veterans under subsection (a);
+
+&emsp;“(2) the views of the Under Secretary for Health on such report's findings and recommendations; and
+
+&emsp;“(3) a description of the steps being taken by the Secretary to remedy any problems described in the report.”
 

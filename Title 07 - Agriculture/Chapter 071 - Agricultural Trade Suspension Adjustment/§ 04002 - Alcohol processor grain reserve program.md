@@ -32,7 +32,7 @@ Whenever any quantity of grain stored in the processor grain reserve under this 
 
 #### (f) Purposes for which grain to be used
 
-Grain on which an eligible processor has received a loan under this section may not be used for any purpose other than the manufacture of alcohol for use as a fuel, and the Secretary shall establish such safeguards as the Secretary deems necessary to assure that such grain is not used for any other purpose and is not used in any manner that would unduly depress, manipulate, or curtail the free market in such grain.
+Grain on which an eligible processor has received a loan under this section may not be usedfor any purpose other than the manufacture of alcohol for use as a fuel, and the Secretary shall establish such safeguards as the Secretary deems necessary to assure that such grain is not used for any other purpose and is not used in any manner that would unduly depress, manipulate, or curtail the free market in such grain.
 
 #### (g) Terms and conditions of loan; security; nonrecourse loans
 
@@ -56,7 +56,7 @@ The Secretary may use the facilities of the Commodity Credit Corporation to carr
 
 #### (k) Authorization of appropriations; appropriation acts as determining amount and extent of loans; expiration of authority to make loans
 
-There are authorized to be appropriated such sums as may be necessary to carry out this section. Any loans made under this section shall be made to such extent and such amounts as provided in appropriation Acts. The authority tomake loans under this section shall expire five years after December 3, 1980.
+There are authorized to be appropriated such sums as may be necessary to carry out this section. Any loans made under this section shall be made to such extent and such amounts as provided in appropriation Acts. The authority to make loans under this section shall expire five years after December 3, 1980.
 
 (Pub. L. 96–494, title II, §209, Dec. 3, 1980, 94 Stat. 2575.)
 

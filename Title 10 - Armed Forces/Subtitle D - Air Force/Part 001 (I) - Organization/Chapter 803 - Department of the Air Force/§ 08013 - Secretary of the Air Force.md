@@ -74,7 +74,7 @@ Another prior section 8013 was renumbered section 8014 of this title and subsequ
 
 #### Order of Succession
 
-For order of succession in event of death, permanent disability, or resignation of Secretary of Defense, see Ex. Ord. No. 12787, Dec. 31, 1991, 57 F.R. 517, set out as a note under section 3347 of Title 5, Government Organization and Employees.
+For order of succession in event of death, permanent disability, or resignation of Secretary of Defense, see Ex. Ord. No. 13000, Apr. 24, 1996, 61 F.R. 18483, set out as a note under section 3347 of Title 5, Government Organization and Employees.
 
 For order of succession in event of death, permanent disability, or resignation of Secretary of the Air Force, see Ex. Ord. No. 12909, Apr. 22, 1994, 59 F.R. 21909, set out as a note under section 3347 of Title 5.
 
@@ -92,5 +92,5 @@ Establishment of advisory committees and panels for research and development act
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 162, 8033 of this title.
+This section is referred to in sections 162, 8033, 10174 of this title.
 

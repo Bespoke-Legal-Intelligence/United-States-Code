@@ -64,7 +64,7 @@
 
 (i) Except as provided in section 518 of title 28, relating to litigation before the Supreme Court, attorneys designated by the Chairman of the Board may appear for the Board, and represent the Board, in any civil action brought in connection with any function carried out by the Board pursuant to this title or as otherwise authorized by law.
 
-(j) The Chairman of the Board may appoint such personnel as may be necessary to perform the functions of the Board. Any appointmentmade under this subsection shall comply with the provisions of this title, except that such appointment shall not be subject to the approval or supervision of the Office of Personnel Management or the Executive Office of the President (other than approval required under section 3324 or subchapter VIII of chapter 33).
+(j) The Chairman of the Board may appoint such personnel as may be necessary to perform the functions of the Board. Any appointment made under this subsection shall comply with the provisions of this title, except that such appointment shall not be subject to the approval or supervision of the Office of Personnel Management or the Executive Office of the President (other than approval required under section 3324 or subchapter VIII of chapter 33).
 
 (k) The Board shall prepare and submit to the President, and, at the same time, to the appropriate committees of Congress, an annual budget of the expenses and other items relating to the Board which shall, as revised, be included as a separate item in the budget required to be transmitted to the Congress under section 1105 of title 31.
 
@@ -86,15 +86,15 @@ A prior section 1204 was renumbered section 1211(b) of this title by Pub. L. 101
 
 #### Amendments
 
-<b>1994</b>—Subsec. (a)(1). Pub. L. 103–446, which directed the amendment of par. (1) by substituting “section 4303” for “section 4323” could not be executed because the phrase “section 4323” does not appear in text subsequent to the intervening amendment by Pub. L. 103–353 substituting “chapter 43” for “section 4323”. See below.
+1994—Subsec. (a)(1). Pub. L. 103–446, which directed the amendment of par. (1) by substituting “section 4303” for “section 4323” could not be executed because the phrase “section 4323” does not appear in text subsequent to the intervening amendment by Pub. L. 103–353 substituting “chapter 43” for “section 4323”. See below.
 
 Pub. L. 103–353 substituted “chapter 43” for “section 4323”.
 
 Subsec. (m). Pub. L. 103–424 added subsec. (m).
 
-<b>1992</b>—Subsec. (a)(1). Pub. L. 102–568 substituted “4323” for “2023”.
+1992—Subsec. (a)(1). Pub. L. 102–568 substituted “4323” for “2023”.
 
-<b>1989</b>—Pub. L. 101–12, §3(a)(7), renumbered section 1205 of this title as this section.
+1989—Pub. L. 101–12, §3(a)(7), renumbered section 1205 of this title as this section.
 
 Pub. L. 101–12, §3(a)(7)(A), struck out “and Special Counsel” after “Board” in section catchline.
 
@@ -136,7 +136,7 @@ Subsec. (j). Pub. L. 101–12, §3(a)(7)(F), (I), redesignated former subsec. (i
 
 Subsecs. (k), (<i>l</i>). Pub. L. 101–12, §3(a)(7)(F), redesignated former subsecs. (j) and (k) as (k) and (<i>l</i>), respectively.
 
-<b>1982</b>—Subsec. (j). Pub. L. 97–258 substituted “section 1105 of title 31” for “section 201 of the Budget and Accounting Act, 1921 (31 U.S.C. 11)”.
+1982—Subsec. (j). Pub. L. 97–258 substituted “section 1105 of title 31” for “section 201 of the Budget and Accounting Act, 1921 (31 U.S.C. 11)”.
 
 #### Effective Date of 1994 Amendments
 

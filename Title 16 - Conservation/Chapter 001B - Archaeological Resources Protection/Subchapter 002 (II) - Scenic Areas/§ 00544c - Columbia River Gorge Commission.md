@@ -8,7 +8,7 @@
 
 &emsp;(B) the States of Oregon and Washington shall provide to the Commission, State agencies, and the counties under State law the authority to carry out their respective functions and responsibilities in accordance with the provisions of paragraph (1)(A) of this subsection; and
 
-&emsp;(C) the States of Oregon and Washington shall appoint members of the Commission asprovided in clauses (i) through (iii), subject to applicable State law: <i>Provided</i>, That the Governor of either State may extend the time for appointment of Commission members ninety days to provide more time for the States and counties to make such appointments. Membership of the Commission shall be as follows:
+&emsp;(C) the States of Oregon and Washington shall appoint members of the Commission as provided in clauses (i) through (iii), subject to applicable State law: <i>Provided</i>, That the Governor of either State may extend the time for appointment of Commission members ninety days to provide more time for the States andcounties to make such appointments. Membership of the Commission shall be as follows:
 
 &emsp;&emsp;(i) six members, comprised of one resident from each of the following counties: Hood River, Multnomah, and Wasco Counties, Oregon, and Clark, Klickitat, and Skamania Counties, Washington, to be appointed by the governing body of each of the respective counties: <i>Provided</i>, That in the event the governing body of a county fails to make such appointment, the Governor of the State in which the county is located shall appoint such member;
 

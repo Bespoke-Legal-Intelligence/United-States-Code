@@ -54,7 +54,7 @@ Such board of directors shall administer the affairs of the bank fairly and impa
 
 The board of directors of each Bank shall determine the terms and conditions under which such Bank may indemnify its directors, officers, employees or agents.
 
-(July 22, 1932, ch. 522, §7, 47 Stat. 730; May 28, 1935, ch. 150, §3, 49 Stat. 294; Aug. 11, 1955, ch. 783, title I, §109(a)(2), 69 Stat. 640; Sept. 22, 1959, Pub. L. 86–349, §§1, 2, 73 Stat. 625; Sept. 8, 1961, Pub. L. 87–211, §1, 75 Stat. 486; Sept. 19, 1962, Pub. L. 87–676, 76 Stat. 559; Dec. 26, 1974, Pub. L. 93–541, §3, 88 Stat. 1739; Aug. 9, 1989, Pub. L. 101–73, title VII, §§707, 710(b)(4), 103 Stat. 417, 418.)
+(July 22, 1932, ch. 522, §7, 47 Stat. 730; May 28, 1935, ch. 150, §3, 49 Stat. 294; Aug. 11, 1955, ch. 783,title I, §109(a)(2), 69 Stat. 640; Sept. 22, 1959, Pub. L. 86–349, §§1, 2, 73 Stat. 625; Sept. 8, 1961, Pub. L. 87–211, §1, 75 Stat. 486; Sept. 19, 1962, Pub. L. 87–676, 76 Stat. 559; Dec. 26, 1974, Pub. L. 93–541, §3, 88 Stat. 1739; Aug. 9, 1989, Pub. L. 101–73, title VII, §§707, 710(b)(4), 103 Stat. 417, 418.)
 
 #### References in Text
 

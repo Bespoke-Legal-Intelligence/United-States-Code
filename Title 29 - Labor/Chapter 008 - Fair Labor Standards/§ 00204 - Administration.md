@@ -14,7 +14,7 @@ The principal office of the Administrator shall be in the District of Columbia, 
 
 #### (d) Biennial report to Congress; studies of exemptions to hour and wage provisions and means to prevent curtailment of employment opportunities
 
-(1) The Secretary shall submit biennially in January a report to the Congress covering his activities for the preceding two years and including such information, data, and recommendations for further legislation in connection with the matters covered by this chapter as he may find advisable. Such report shall contain an evaluation and appraisal by the Secretary of the minimum wages and overtime coverage established by this chapter, together with his recommendations to the Congress. In making such evaluation and appraisal, the Secretary shall take into consideration any changes which may have occurred in the cost of living and in productivity and the level of wages in manufacturing, the ability of employers to absorb wage increases, and such other factors as he may deem pertinent. Such report shall also include a summary of the special certificates issued under section 214(b) of this title.
+(1) The Secretary shall submit biennially in January a report to the Congress covering his activities for the preceding two years and including such information, data, and recommendations for further legislation in connection with the matters covered by this chapter as he may find advisable. Such report shall contain anevaluation and appraisal by the Secretary of the minimum wages and overtime coverage established by this chapter, together with his recommendations to the Congress. In making such evaluation and appraisal, the Secretary shall take into consideration any changes which may have occurred in the cost of living and in productivity and the level of wages in manufacturing, the ability of employers to absorb wage increases, and such other factors as he may deem pertinent. Such report shall also include a summary of the special certificates issued under section 214(b) of this title.
 
 (2) The Secretary shall conduct studies on the justification or lack thereof for each of the special exemptions set forth in section 213 of this title, and the extent to which such exemptions apply to employees of establishments described in subsection (g) of such section and the economic effects of the application of such exemptions to such employees. The Secretary shall submit a report of his findings and recommendations to the Congress with respect to the studies conducted under this paragraph not later than January 1, 1976.
 
@@ -90,5 +90,5 @@ Pub. L. 95–151, §2(e), Nov. 1, 1977, 91 Stat. 1246, provided for the establis
 
 #### Definition of “Secretary”
 
-Section 6 of act Aug. 12, 1955, provided that: “The term ‘Secretary’ as used in this Act and in amendmentsmade by this Act \[amending this section and sections 205, 206, 208, and 210 of this title\] means the Secretary of Labor.”
+Section 6 of act Aug. 12, 1955, provided that: “The term ‘Secretary’ as used in this Act and in amendments made by this Act \[amending this section and sections 205, 206, 208, and 210 of this title\] means the Secretary of Labor.”
 

@@ -14,11 +14,11 @@ Section 704(a)(1) of the Ethics Reform Act of 1989, referred to in subsec. (a), 
 
 #### Amendments
 
-<b>1994</b>—Pub. L. 103–356 designated existing provisions as subsec. (a), substituted “Subject to subsection (b), effective” for “Effective”, and added subsec. (b).
+1994—Pub. L. 103–356 designated existing provisions as subsec. (a), substituted “Subject to subsection (b), effective” for “Effective”, and added subsec. (b).
 
-<b>1990</b>—Pub. L. 101–509 substituted “5303” for “5305”.
+1990—Pub. L. 101–509 substituted “5303” for “5305”.
 
-<b>1989</b>—Pub. L. 101–194 substituted “corresponds to the most recent percentage change in the ECI (relative to the date described in the next sentence), as determined under section 704(a)(1) of the Ethics Reform Act of 1989. The appropriate date under this sentence is the first day of the fiscal year in which such adjustment in the rates of pay under the General Schedule takes effect” for “corresponds to the overall average percentage (as set forth in the report transmitted to the Congress under such section 5305) of the adjustment in the rates of pay under the General Schedule”.
+1989—Pub. L. 101–194 substituted “corresponds to the most recent percentage change in the ECI (relative to the date described in the next sentence), as determined under section 704(a)(1) of the Ethics Reform Act of 1989. The appropriate date under this sentence is the first day of the fiscal year in which such adjustment in the rates of pay under the General Schedule takes effect” for “corresponds to the overall average percentage (as set forth in the report transmitted to the Congress under such section 5305) of the adjustment in the rates of pay under the General Schedule”.
 
 #### Effective Date of 1994 Amendment
 
@@ -44,7 +44,7 @@ Salary Levels.—
 
 &emsp;“(1)
 
-Executive positions.—Effective the first day of the first applicable pay period that begins on or after January 1, 1991, the rate of basic pay for positions in the Executive Schedule shall be increased in the amount of 25 percent of their respective rates (as last in effect before the increase), rounded to the nearest multiple of $100 (or, if midway between multiples of $100, to the next higher multiple of $100).
+Executive positions.—Effective the first day of the first applicable pay period that begins on orafter January 1, 1991, the rate of basic pay for positions in the Executive Schedule shall be increased in the amount of 25 percent of their respective rates (as last in effect before the increase), rounded to the nearest multiple of $100 (or, if midway between multiples of $100, to the next higher multiple of $100).
 
 &emsp;“(2)
 
@@ -60,7 +60,7 @@ Exceptions.—Nothing in subparagraph (A) shall affect the rate of basic pay for
 
 &emsp;“(3)
 
-Judicial positions.—Effective the first day of the first applicable pay period that begins on or afterJanuary 1, 1991, the rate of basic pay for the Chief Justice of the United States, an associate justice of the Supreme Court of the United States, a judge of a United States circuit court, a judge of a district court of the United States, and a judge of the United States Court of International Trade shall be increased in the amount of 25 percent of their respective rates (as last in effect before the increase), rounded to the nearest multiple of $100 (or, if midway between multiples of $100, to the next higher multiple of $100).
+Judicial positions.—Effective the first day of the first applicable pay period that begins on or after January 1, 1991, the rate of basic pay for the Chief Justice of the United States, an associate justice of the Supreme Court of the United States, a judge of a United States circuit court, a judge of a district court of the United States, and a judge of the United States Court of International Trade shall be increased in the amount of 25 percent of their respective rates (as last in effect before the increase), rounded to the nearest multiple of $100 (or, if midway between multiples of $100, to the next higher multiple of $100).
 
 “(b)
 
@@ -148,7 +148,7 @@ Pub. L. 97–377, title I, §129(b)–(d), Dec. 21, 1982, 96 Stat. 1914, provide
 
 #### Fiscal Year 1983 Limitation on Use of Funds for Pay Adjustments for Certain Positions
 
-Pub. L. 97–276, §101(e), Oct. 2, 1982, 96 Stat. 1189, as amended by Pub. L. 97–377, title I, §129(a), Dec. 21, 1982, 96 Stat. 1914, provided in part that: “the provisions of section 306(a), (b), and (d) of S. 2939 \[Ninety-seventh Congress, 2nd Session, as reported Sept. 22, 1982\] shallapply to any appropriation, fund, or authority made available for the period October 1, 1982, through September 30, 1983, by this or any other Act.” Section 306(a), (b), and (d) of S. 2939, Ninety-seventh Congress, 2nd Session, as reported Sept. 22, 1982, provided that:
+Pub. L. 97–276, §101(e), Oct. 2, 1982, 96 Stat. 1189, as amended by Pub. L. 97–377, title I, §129(a), Dec. 21, 1982, 96 Stat. 1914, provided in part that: “the provisions of section 306(a), (b), and (d) of S. 2939 \[Ninety-seventh Congress, 2nd Session, as reported Sept. 22, 1982\] shall apply to any appropriation, fund, or authority made available for the period October 1, 1982, through September 30, 1983, by this or any other Act.” Section 306(a), (b), and (d) of S. 2939, Ninety-seventh Congress, 2nd Session, as reported Sept. 22, 1982, provided that:
 
 “(a) No part of the funds appropriated for the fiscal year ending September 30, 1983, by this Act or any other Act may be used to pay the salary or pay of any individual in an office or position in the legislative, executive, or judicial branch, or in the government of the District of Columbia, at a rate which exceeds the rate (or maximum rate, if higher) of salary or basic pay payable for such office or position for September 30, 1982, if the rate of salary or basic pay for that office or position is—
 
@@ -198,7 +198,7 @@ Pub. L. 97–92, §141, Dec. 15, 1981, 95 Stat. 1200, provided that:
 
 &emsp;“(3) $57,500, if such individual has an office or position the salary or pay for which corresponds to the rate of basic pay for level V of the Executive Schedule under section 5316 of title 5, United States Code.
 
-“(b)(1) For purposes of subsection (a), any rate of salary or pay shall be considered to correspond to the basic pay for a level of the Executive Schedule if the rate of salary or pay for that office or position is (i) fixed at a rate which is equal to or greater than the rate of basic pay for that level of the Executive Schedule or (ii) limited to a maximum rate which is equal to or greater than the rate of basic pay for such level (or to a percentage of such a maximum rate) by reason of section 5308 of title 5, United States Code, or any other provision of law (other than the provisions of such section 305, as made applicable by section 101(g) of this joint resolution) or congressional resolution.
+“(b)(1) For purposes of subsection (a), any rate of salary or pay shall be considered to correspond to the basic pay for a level of the Executive Schedule if the rate of salary or pay for that office or position is (i)fixed at a rate which is equal to or greater than the rate of basic pay for that level of the Executive Schedule or (ii) limited to a maximum rate which is equal to or greater than the rate of basic pay for such level (or to a percentage of such a maximum rate) by reason of section 5308 of title 5, United States Code, or any other provision of law (other than the provisions of such section 305, as made applicable by section 101(g) of this joint resolution) or congressional resolution.
 
 “(2) In applying subsection (a) for any office or position for which the rate of salary or basic pay is limited to a percentage of such a maximum rate, there shall be substituted, in lieu of the amount specified in subsection (a) for that office or position, an amount equal to such percentage of the specified amount.
 

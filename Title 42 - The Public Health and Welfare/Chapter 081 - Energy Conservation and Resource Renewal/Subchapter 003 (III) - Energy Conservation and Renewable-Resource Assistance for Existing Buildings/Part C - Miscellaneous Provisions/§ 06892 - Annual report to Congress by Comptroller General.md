@@ -12,7 +12,7 @@ Each report submitted by the Comptroller General under subsection (a) of this se
 
 &emsp;(2) an estimate of the energy savings which have resulted thereby;
 
-&emsp;(3) a thorough evaluation of the effectiveness of the programs authorized by this subchapter or by amendments made by this title in achieving the energy conservation or renewable resource potential available in the sectors and regions affected by such programs;
+&emsp;(3) a thorough evaluation of the effectiveness of the programs authorized by this subchapter or by amendments made by this titlein achieving the energy conservation or renewable resource potential available in the sectors and regions affected by such programs;
 
 &emsp;(4) a review of the extent and effectiveness of compliance monitoring of programs established by this subchapter or by amendments made by this title and any evidence as to the occurrence of fraud with respect to such programs; and
 

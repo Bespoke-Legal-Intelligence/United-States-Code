@@ -10,7 +10,7 @@
 
 &emsp;(4) for any person to fail or to refuse to make any report required pursuant to section 360nn(b) of this title or to furnish or preserve any information required pursuant to section 360nn(f) of this title; or
 
-&emsp;(5) for any person (A) to fail to issue a certification as required by section 360kk(h) of this title, or (B) to issue such a certification when such certification is not based upon a test or testing program meeting the requirements of section 360kk(h) of this title or when the issuer, in the exercise of due care, wouldhave reason to know that such certification is false or misleading in a material respect.
+&emsp;(5) for any person (A) to fail to issue a certification as required by section 360kk(h) of this title, or (B) to issue such a certification when such certification is not based upon a test or testing program meeting the requirements of section 360kk(h) of this title or when the issuer, in the exercise of due care, would have reason to know that such certification is false or misleading in a material respect.
 
 (b) The Secretary may exempt any electronic product, or class thereof, from all or part of subsection (a) of this section, upon such conditions as he may find necessary to protect the public health or welfare, for the purpose of research, investigations, studies, demonstrations, or training, or for reasons of national security.
 

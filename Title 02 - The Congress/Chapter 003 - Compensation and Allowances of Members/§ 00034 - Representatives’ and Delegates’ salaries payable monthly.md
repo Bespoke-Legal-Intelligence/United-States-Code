@@ -8,7 +8,3 @@ Representatives and Delegates-elect to Congress, whose credentials in due form o
 
 R.S. §38 derived from act Mar. 3, 1873, ch. 226, §1, 17 Stat. 488.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 25b of this title.
-

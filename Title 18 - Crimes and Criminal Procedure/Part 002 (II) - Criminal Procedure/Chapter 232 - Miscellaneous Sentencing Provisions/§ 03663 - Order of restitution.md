@@ -1,8 +1,16 @@
 ### §3663. Order of restitution
 
-(a)(1) The court, when sentencing a defendant convicted of an offense under this title or section 46312, 46502, or 46504 of title 49, may order, in addition to or, in the case of a misdemeanor, in lieu of any other penalty authorized by law, that the defendant make restitution to any victim of such offense.
+(a)(1)(A) The court, when sentencing a defendant convicted of an offense under this title, section 401, 408(a), 409, 416, 420, or 422(a) of the Controlled Substances Act (21 U.S.C. 841, 848(a), 849, 856, 861, 863) (but in no case shall a participant in an offense under such sections be considered a victim of such offense under this section), or section 46312, 46502, or 46504 of title 49, other than an offense described in section 3663A(c), may order, in addition to or, in the case of a misdemeanor, in lieu of any other penalty authorized by law, that the defendant make restitution to any victim of such offense, or if the victim is deceased, to the victim's estate. The court may also order, if agreed to by the parties in a plea agreement, restitution to persons other than the victim of the offense.
 
-(2) For the purposes of restitution, a victim of an offense that involves as an element a scheme, a conspiracy, or a pattern of criminal activity means any person directly harmed by the defendant's criminal conduct in the course of the scheme, conspiracy, or pattern.
+(B)(i) The court, in determining whether to order restitution under this section, shall consider—
+
+&emsp;(I) the amount of the loss sustained by each victim as a result of the offense; and
+
+&emsp;(II) the financial resources of the defendant, the financial needs and earning ability of the defendant and the defendant's dependents, and such other factors as the court deems appropriate.
+
+(ii) To the extent that the court determines that the complication and prolongation of the sentencing process resulting from the fashioning of an order of restitution under this section outweighs the need to provide restitution to any victims, the court may decline to make such an order.
+
+(2) For the purposes of this section, the term “victim” means a person directly and proximately harmed as a result of the commission of an offense for which restitution may be ordered including, in the case of an offense that involves as an element a scheme, conspiracy, or pattern of criminal activity, any person directly harmed by the defendant's criminal conduct in the course of the scheme, conspiracy, or pattern. In the case of a victim who is under 18 years of age, incompetent, incapacitated, or deceased, the legal guardian of the victim or representative of the victim's estate, another family member, or any other person appointed as suitable by the court, may assume the victim's rights under this section, but in no event shall the defendant be named as such representative or guardian.
 
 (3) The court may also order restitution in any criminal case to the extent agreed to by the parties in a plea agreement.
 
@@ -34,55 +42,51 @@
 
 &emsp;(5) in any case, if the victim (or if the victim is deceased, the victim's estate) consents, make restitution in services in lieu of money, or make restitution to a person or organization designated by the victim or the estate.
 
-(c) If the court decides to order restitution under this section, the court shall, if the victim is deceased, order that the restitution be made to the victim's estate.
+(c)(1) Notwithstanding any other provision of law (but subject to the provisions of subsections (a)(1)(B)(i)(II) and (ii),<sup>1</sup> when sentencing a defendant convicted of an offense described in section 401, 408(a), 409, 416, 420, or 422(a) of the Controlled Substances Act (21 U.S.C. 841, 848(a), 849, 856, 861, 863), in which there is no identifiable victim, the court may order that the defendant make restitution in accordance with this subsection.
 
-(d) To the extent that the court determines that the complication and prolongation of the sentencing process resulting from the fashioning of an order of restitution under this section outweighs the need to provide restitution to any victims, the court may decline to make such an order.
+(2)(A) An order of restitution under this subsection shall be based on the amount of public harm caused by the offense, as determined by the court in accordance with guidelines promulgated by the United States Sentencing Commission.
 
-(e)(1) The court shall not impose restitution with respect to a loss for which the victim has received or is to receive compensation, except that the court may, in the interest of justice, order restitution to any person who has compensated the victim for such loss to the extent that such person paid the compensation. An order of restitution shall require that all restitution to victims under such order be made before any restitution to any other person under such order is made.
+(B) In no case shall the amount of restitution ordered under this subsection exceed the amount of the fine ordered for the offense charged in the case.
 
-(2) Any amount paid to a victim under an order of restitution shall be set off against any amount later recovered as compensatory damages by such victim in—
+(3) Restitution under this subsection shall be distributed as follows:
 
-&emsp;(A) any Federal civil proceeding; and
+&emsp;(A) 65 percent of the total amount of restitution shall be paid to the State entity designated to administer crime victim assistance in the State in which the crime occurred.
 
-&emsp;(B) any State civil proceeding, to the extent provided by the law of that State.
+&emsp;(B) 35 percent of the total amount of restitution shall be paid to the State entity designated to receive Federal substance abuse block grant funds.
 
-(f)(1) The court may require that such defendant make restitution under this section within a specified period or in specified installments.
+(4) The court shall not make an award under this subsection if it appears likely that such award would interfere with a forfeiture under chapter 46 or chapter 96 of this title or under the Controlled Substances Act (21 U.S.C. 801 et seq.).
 
-(2) The end of such period or the last such installment shall not be later than—
+(5) Notwithstanding section 3612(c) or any other provision of law, a penalty assessment under section 3013 or a fine under subchapter C of chapter 227 shall take precedence over an order of restitution under this subsection.
 
-&emsp;(A) the end of the period of probation, if probation is ordered;
+(6) Requests for community restitution under this subsection may be considered in all plea agreements negotiated by the United States.
 
-&emsp;(B) five years after the end of the term of imprisonment imposed, if the court does not order probation; and
+(7)(A) The United States Sentencing Commission shall promulgate guidelines to assist courts in determining the amount of restitution that may be ordered under this subsection.
 
-&emsp;(C) five years after the date of sentencing in any other case.
+(B) No restitution shall be ordered under this subsection until such time as the Sentencing Commission promulgates guidelines pursuant to this paragraph.
 
-(3) If not otherwise provided by the court under this subsection, restitution shall be made immediately.
+(d) An order of restitution made pursuant to this section shall be issued and enforced in accordance with section 3664.
 
-(4) The order of restitution shall require the defendant to make restitution directly to the victim or other person eligible under this section, or to deliver the amount or property due as restitution to the Attorney General or the person designated under section 604(a)(18) of title 28 for transfer to such victim or person.
+(Added Pub. L. 97–291, §5(a), Oct. 12, 1982, 96 Stat. 1253, §3579; renumbered §3663 and amended Pub. L. 98–473, title II, §212(a)(1), (3), Oct. 12, 1984, 98 Stat. 1987, 2010; Pub. L. 98–596, §9, Oct. 30, 1984, 98 Stat. 3138; Pub. L. 99–646, §§8(b), 20(a), 77(a), 78(a), 79(a), Nov. 10, 1986, 100 Stat. 3593, 3596, 3618, 3619; Pub. L. 100–182, §13, Dec. 7, 1987, 101 Stat. 1268; Pub. L. 100–185, §12, Dec. 11, 1987, 101 Stat. 1285; Pub. L. 100–690, title VII, §7042, Nov. 18, 1988, 102 Stat. 4399; Pub. L. 101–647, title XXV, §2509, title XXXV, §3595, Nov. 29, 1990, 104 Stat. 4863, 4931; Pub. L. 103–272, §5(e)(12), July 5, 1994, 108 Stat. 1374; Pub. L. 103–322, title IV, §§40504, 40505, Sept. 13, 1994, 108 Stat. 1947; Pub. L. 104–132, title II, §205(a), Apr. 24, 1996, 110 Stat. 1229; Pub. L. 104–294, title VI, §§601(r)(1), (2), 605(<i>l</i>), Oct. 11, 1996, 110 Stat. 3502, 3510.)
 
-(g) If such defendant is placed on probation or sentenced to a term of supervised release under this title, any restitution ordered under this section shall be a condition of such probation or supervised release. The court may revoke probation or a term of supervised release, or modify the term or conditions of probation or a term of supervised release, or hold a defendant in contempt pursuant to section 3583(e) if the defendant fails to comply with such order. In determining whether to revoke probation or a term of supervised release, modify the term or conditions of probation or supervised release, or hold a defendant serving a term of supervised release in contempt, the court shall consider the defendant's employment status, earning ability, financial resources, the willfulness of the defendant's failure to pay, and any other special circumstances that may have a bearing on the defendant's ability to pay.
+#### References in Text
 
-(h) An order of restitution may be enforced—
-
-&emsp;(1) by the United States—
-
-&emsp;&emsp;(A) in the manner provided for the collection and payment of fines in subchapter B of chapter 229 of this title; or
-
-&emsp;&emsp;(B) in the same manner as a judgment in a civil action; and
-
-&emsp;(2) by a victim named in the order to receive the restitution, in the same manner as a judgment in a civil action.
-
-(i)(1) A Federal agency shall immediately suspend all Federal benefits provided by the agency to the defendant, and shall terminate the defendant's eligibility for Federal benefits administered by that agency, upon receipt of a certified copy of a written judicial finding that the defendant is delinquent in making restitution in accordance with any schedule of payments or any requirement of immediate payment imposed under this section.
-
-(2) Any written finding of delinquency described in paragraph (1) shall be made by a court, after a hearing, upon motion of the victim named in the order to receive the restitution or upon motion of the United States.
-
-(3) A defendant found to be delinquent may subsequently seek a written finding from the court that the defendant has rectified the delinquency or that the defendant has made and will make good faith efforts to rectify the delinquency. The defendant's eligibility for Federal benefits shall be reinstated upon receipt by the agency of a certified copy of such a finding.
-
-(4) In this subsection, “Federal benefit” means a grant, contract, loan, professional license, or commercial license provided by an agency of the United States.
-
-(Added Pub. L. 97–291, §5(a), Oct. 12, 1982, 96 Stat. 1253, §3579; renumbered §3663 and amended Pub. L. 98–473, title II, §212(a)(1), (3), Oct. 12, 1984, 98 Stat. 1987, 2010; Pub. L. 98–596, §9, Oct. 30, 1984, 98 Stat. 3138; Pub. L. 99–646, §§8(b), 20(a), 77(a), 78(a), 79(a), Nov. 10, 1986, 100 Stat. 3593, 3596, 3618, 3619; Pub. L. 100–182, §13, Dec. 7, 1987, 101 Stat. 1268; Pub. L. 100–185, §12, Dec. 11, 1987, 101 Stat. 1285; Pub. L. 100–690, title VII, §7042, Nov. 18, 1988, 102 Stat. 4399; Pub. L. 101–647, title XXV, §2509, title XXXV, §3595, Nov. 29, 1990, 104 Stat. 4863, 4931; Pub. L. 103–272, §5(e)(12), July 5, 1994, 108 Stat. 1374; Pub. L. 103–322, title IV, §§40504, 40505, Sept. 13, 1994, 108 Stat. 1947.)
+The Controlled Substances Act, referred to in subsec. (c)(4), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, as amended, which is classified principally to subchapter I (§801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 21 and Tables.
 
 #### Amendments
+
+1996—Subsec. (a)(1). Pub. L. 104–132, §205(a)(1)(A)–(E), substituted “(a)(1)(A) The court” for “(a)(1) The court”, inserted “, section 401, 408(a), 409, 416, 420, or 422(a) of the Controlled Substances Act (21 U.S.C. 841, 848(a), 849, 856, 861, 863) (but in no case shall a participant in an offense under such sections be considered a victim of such offense under this section),” before “or section 46312,”, “other than an offense described in section 3663A(c),” after “title 49”, and “, or if the victim is deceased, to the victim's estate” before period at end, and added subpar. (B).
+
+Subsec. (a)(1)(A). Pub. L. 104–294, §601(r)(1), inserted at end “The court may also order, if agreed to by the parties in a plea agreement, restitution to persons other than the victim of the offense.”
+
+Subsec. (a)(2). Pub. L. 104–132, §205(a)(1)(F), as amended by Pub. L. 104–294, §605(<i>l</i>), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “For the purposes of restitution, a victim of an offense that involves as an element a scheme, a conspiracy, or a pattern of criminal activity means any person directly harmed by the defendant's criminal conduct in the course of the scheme, conspiracy, or pattern.”
+
+Subsec. (c). Pub. L. 104–132, §205(a)(2), (3), added subsec. (c) and struck out former subsec. (c) which read as follows: “If the court decides to order restitution under this section, the court shall, if the victim is deceased, order that the restitution be made to the victim's estate.”
+
+Subsec. (c)(4). Pub. L. 104–294, §601(r)(2), inserted “or chapter 96” after “under chapter 46”.
+
+Subsec. (d). Pub. L. 104–132, §205(a)(2), (3), added subsec. (d) and struck out former subsec. (d) which read as follows: “To the extent that the court determines that the complication and prolongation of the sentencing process resulting from the fashioning of an order of restitution under this section outweighs the need to provide restitution to any victims, the court may decline to make such an order.”
+
+Subsecs. (e) to (i). Pub. L. 104–132, §205(a)(2), struck out subsecs. (e) to (i), relating to provisions for restitution to persons who had compensated victims for their loss as well as offsets for restitution received by victims against amounts later recovered as compensatory damages, court orders that defendant make restitution in specified time period or in specified installments, payment of restitution as condition of probation or of supervised release, enforcement of restitution orders by United States or by victim, and supervision, termination, or restoration of eligibility for Federal benefits of persons delinquent in making restitution, respectively.
 
 1994—Subsec. (a)(1). Pub. L. 103–272 substituted “section 46312, 46502, or 46504 of title 49” for “under subsection (h), (i), (j), or (n) of section 902 of the Federal Aviation Act of 1958 (49 U.S.C. 1472)”.
 
@@ -122,6 +126,10 @@ Subsec. (g). Pub. L. 98–473, §212(a)(3)(A), amended subsec. (g) generally. Pr
 
 Subsec. (h). Pub. L. 98–473, §212(a)(3)(B), amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows: “An order of restitution may be enforced by the United States in the manner provided for the collection of fines and penalties by section 3565 or by a victim named in the order to receive the restitution in the same manner as a judgment in a civil action.”
 
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–132 to be effective, to extent constitutionally permissible, for sentencing proceedings in cases in which defendant is convicted on or after Apr. 24, 1996, see section 211 of Pub. L. 104–132, set out as a note under section 2248 of this title.
+
 #### Effective Date of 1987 Amendment
 
 Amendment by Pub. L. 100–182 applicable with respect to offenses committed after Dec. 7, 1987, see section 26 of Pub. L. 100–182, set out as a note under section 3006A of this title.
@@ -154,5 +162,7 @@ Section 7 of Pub. L. 97–291 required the Attorney General to report, by Oct. 1
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 43, 228, 2248, 2259, 2264, 2327, 3525, 3556, 3563, 3664 of this title; title 12 section 1831k.
+This section is referred to in sections 43, 228, 2248, 2259, 2264, 2327, 3525, 3556, 3563, 3613, 3664 of this title; title 12 section 1831k; title 21 section 853.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “(ii)),”.</i>
 

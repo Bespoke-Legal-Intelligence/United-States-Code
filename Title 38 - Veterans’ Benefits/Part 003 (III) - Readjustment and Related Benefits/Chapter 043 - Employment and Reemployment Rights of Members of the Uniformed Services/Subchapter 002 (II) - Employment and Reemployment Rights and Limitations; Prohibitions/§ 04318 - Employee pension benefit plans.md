@@ -18,7 +18,7 @@
 
 &emsp;&emsp;(ii) if such last employer is no longer functional, to the plan.
 
-(2) A person reemployed under this chapter shall be entitled to accrued benefits pursuant to subsection (a) that are contingent on the making of, or derived from, employee contributions or elective deferrals (as defined in section 402(g)(3) of the Internal Revenue Code of 1986) only to the extent the person makes payment to the plan with respect to such contributions or deferrals. No such payment may exceed the amount the person would have been permitted or required to contribute had the person remained continuously employed by the employer throughout the period of service described in subsection (a)(2)(B). Any payment to the plan described in this paragraph shall be made during the period beginning with the date of reemployment and whose duration is three times the period of the person's service in the uniformed services, not to exceed five years.
+(2) A person reemployed under this chapter shall be entitled to accrued benefits pursuant to subsection (a) that are contingent on the making of, or derived from, employee contributions or elective deferrals (as defined in section 402(g)(3) of the Internal Revenue Code of 1986) only to the extent the person makes payment to the plan with respect to such contributions or deferrals. No such payment may exceed the amount the person would have been permitted or required to contribute had the person remained continuously employed by the employer throughout the period of service described in subsection (a)(2)(B). Any payment to the plan described in this paragraph shall be made during the period beginning with the date of reemployment and whose duration is three times the period of the person's service in the uniformed services, such payment period not to exceed five years.
 
 (3) For purposes of computing an employer's liability under paragraph (1) or the employee's contributions under paragraph (2), the employee's compensation during the period of service described in subsection (a)(2)(B) shall be computed—
 
@@ -26,9 +26,9 @@
 
 &emsp;(B) in the case that the determination of such rate is not reasonably certain, on the basis of the employee's average rate of compensation during the 12-month period immediately preceding such period (or, if shorter, the period of employment immediately preceding such period).
 
-(c) Any employer who reemploys a person under this chapter and who is an employer contributing to a multiemployer plan, as defined in section 3(37) of the Employee Retirement Income Security Act of 1974, under which benefits are or may be payable to such person by reason of the obligations set forth in this chapter, shall, within 30 days after the date of such reemployment, provide information, in writing, ofsuch reemployment to the administrator of such plan.
+(c) Any employer who reemploys a person under this chapter and who is an employer contributing to a multiemployer plan, as defined in section 3(37) of the Employee Retirement Income Security Act of 1974, under which benefits are or may be payable to such person by reason of the obligations set forth in this chapter, shall, within 30 days after the date of such reemployment, provide information, in writing, of such reemployment to the administrator of such plan.
 
-(Added Pub. L. 103–353, §2(a), Oct. 13, 1994, 108 Stat. 3162.)
+(Added Pub. L. 103–353, §2(a), Oct. 13, 1994, 108 Stat. 3162; amended Pub. L. 104–275, title III, §311(8), Oct. 9, 1996, 110 Stat. 3335.)
 
 #### References in Text
 
@@ -40,11 +40,19 @@ Section 402(g)(3) of the Internal Revenue Code of 1986, referred to in subsec. (
 
 A prior section 4318 was renumbered section 7618 of this title.
 
+#### Amendments
+
+1996—Subsec. (b)(2). Pub. L. 104–275 substituted “services, such payment period” for “services,” in last sentence.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–275 effective Oct. 13, 1994, see section 313 of Pub. L. 104–275, set out as a note under section 4301 of this title.
+
 #### Effective Date
 
 Section effective with respect to reemployments initiated on or after the first day after the 60-day period beginning Oct. 13, 1994, with transition rules, except that an employee pension benefit plan not in compliance with this section or section 8(h)(1) of Pub. L. 103–353 on Oct. 13, 1994, has two years to come into compliance, see section 8 of Pub. L. 103–353, set out as a note under section 4301 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 4303, 4312, 4316 of this title; title 2 section 1316.
+This section is referred to in sections 4303, 4312, 4316 of this title; title 2 section 1316; title 3 section 416.
 

@@ -104,15 +104,89 @@ In the case of property held by one person for life with remainder to another pe
 
 &emsp;If a depreciation deduction is allowable under subsection (a) with respect to any right described in section 197(e)(7), such deduction shall be computed by using the straight line method and a useful life of 108 months.
 
-#### (g) Cross references
+#### (g) Depreciation under income forecast method
+
+#### (1) In general
+
+&emsp;If the depreciation deduction allowable under this section to any taxpayer with respect to any property is determined under the income forecast method or any similar method—
+
+&emsp;&emsp;(A) the income from the property to be taken into account in determining the depreciation deduction under such method shall be equal to the amount of income earned in connection with the property before the close of the 10th taxable year following the taxable year in which the property was placed in service,
+
+&emsp;&emsp;(B) the adjusted basis of the property shall only include amounts with respect to which the requirements of section 461(h) are satisfied,
+
+&emsp;&emsp;(C) the depreciation deduction under such method for the 10th taxable year beginning after the taxable year in which the property was placed in service shall be equal to the adjusted basis of such property as of the beginning of such 10th taxable year, and
+
+&emsp;&emsp;(D) such taxpayer shall pay (or be entitled to receive) interest computed under the look-back method of paragraph (2) for any recomputation year.
+
+#### (2) Look-back method
+
+&emsp;The interest computed under the look-back method of this paragraph for any recomputation year shall be determined by—
+
+&emsp;&emsp;(A) first determining the depreciation deductions under this section with respect to such property which would have been allowable for prior taxable years if the determination of the amounts so allowable had been made on the basis of the sum of the following (instead of the estimated income from such property)—
+
+&emsp;&emsp;&emsp;(i) the actual income earned in connection with such property for periods before the close of the recomputation year, and
+
+&emsp;&emsp;&emsp;(ii) an estimate of the future income to be earned in connection with such property for periods after the recomputation year and before the close of the 10th taxable year following the taxable year in which the property was placed in service,
+
+&emsp;&emsp;(B) second, determining (solely for purposes of computing such interest) the overpayment or underpayment of tax for each such prior taxable year which would result solely from the application of subparagraph (A), and
+
+&emsp;&emsp;(C) then using the adjusted overpayment rate (as defined in section 460(b)(7)), compounded daily, on the overpayment or underpayment determined under subparagraph (B).
+
+> &emsp;For purposes of the preceding sentence, any cost incurred after the property is placed in service (which is not treated as a separate property under paragraph (5)) shall be taken into account by discounting (using the Federal mid-term rate determined under section 1274(d) as of the time such cost is incurred) such cost to its value as of the date the property is placed in service. The taxpayer may elect with respect to any property to have the preceding sentence not apply to such property.
+
+#### (3) Exception from look-back method
+
+&emsp;Paragraph (1)(D) shall not apply with respect to any property which had a cost basis of $100,000 or less.
+
+#### (4) Recomputation year
+
+&emsp;For purposes of this subsection, except as provided in regulations, the term “recomputation year” means, with respect to any property, the 3d and the 10th taxable years beginning after the taxable year in which the property was placed in service, unless the actual income earned in connection with the property for the period before the close of such 3d or 10th taxable year is within 10 percent of the income earned in connection with the property for such period which was taken into account under paragraph (1)(A).
+
+#### (5) Special rules
+
+#### (A) Certain costs treated as separate property
+
+&emsp;&emsp;For purposes of this subsection, the following costs shall be treated as separate properties:
+
+&emsp;&emsp;&emsp;(i) Any costs incurred with respect to any property after the 10th taxable year beginning after the taxable year in which the property was placed in service.
+
+&emsp;&emsp;&emsp;(ii) Any costs incurred after the property is placed in service and before the close of such 10th taxable year if such costs are significant and give rise to a significant increase in the income from the property which was not included in the estimated income from the property.
+
+#### (B) Syndication income from television series
+
+&emsp;&emsp;In the case of property which is 1 or more episodes in a television series, income from syndicating such series shall not be required to be taken into account under this subsection before the earlier of—
+
+&emsp;&emsp;&emsp;(i) the 4th taxable year beginning after the date the first episode in such series is placed in service, or
+
+&emsp;&emsp;&emsp;(ii) the earliest taxable year in which the taxpayer has an arrangement relating to the future syndication of such series.
+
+#### (C) Special rules for financial exploitation of characters, etc.
+
+&emsp;&emsp;For purposes of this subsection, in the case of television and motion picture films, theincome from the property shall include income from the exploitation of characters, designs, scripts, scores, and other incidental income associated with such films, but only to the extent that such income is earned in connection with the ultimate use of such items by, or the ultimate sale of merchandise to, persons who are not related persons (within the meaning of section 267(b)) to the taxpayer.
+
+#### (D) Collection of interest
+
+&emsp;&emsp;For purposes of subtitle F (other than sections 6654 and 6655), any interest required to be paid by the taxpayer under paragraph (1) for any recomputation year shall be treated as an increase in the tax imposed by this chapter for such year.
+
+#### (E) Determinations
+
+&emsp;&emsp;For purposes of paragraph (2), determinations of the amount of income earned in connection with any property shall be made in the same manner as for purposes of applying the income forecast method; except that any income from the disposition of such property shall be taken into account.
+
+#### (F) Treatment of pass-thru entities
+
+&emsp;&emsp;Rules similar to the rules of section 460(b)(4) shall apply for purposes of this subsection.
+
+#### (h) Cross references
 
 &emsp;&emsp;<b>(1) For additional rule applicable to depreciation of improvements in the case of mines, oil and gas wells, other natural deposits, and timber, see section 611.</b>
 
 &emsp;&emsp;<b>(2) For amortization of goodwill and certain other intangibles, see section 197.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 51; Sept. 2, 1958, Pub. L. 85–866, title I, §89(b), 72 Stat. 1665; Oct. 16, 1962, Pub. L. 87–834, §13(b), (c)(1), 76 Stat. 1034; Nov. 8, 1966, Pub. L. 89–800, §2, 80 Stat. 1513; June 13, 1967, Pub. L. 90–26, §§1, 2(b), 81 Stat. 57, 58; Dec. 30, 1969, Pub. L. 91–172, title IV, §441(a), title V, §521(a), (d), 83 Stat. 625, 649, 653; Dec. 10, 1971, Pub. L. 92–178, title I, §109(a), 85 Stat. 508; Jan. 3, 1975, Pub. L. 93–625, §3(c), 88 Stat. 2109; Oct. 4, 1976, Pub. L. 94–455, title II, §§202(c)(3), 203(a), title XIX, §§1901(a)(27), 1906(b)(13)(A), title XXI, §2124(c)(1), (d)(1), 90 Stat. 1530, 1768, 1834, 1918; Nov. 12, 1977, Pub. L. 95–171, §4(a), 91 Stat. 1355; Nov. 6, 1978, Pub. L. 95–600, title III, §§312(c)(4), 367, title VII, §701(f)(4), (6), 92 Stat. 2826, 2857, 2901, 2902; Nov. 8, 1978, Pub. L. 95–615, §7(a), 92 Stat. 3098; Nov. 9, 1978, Pub. L. 95–618, title III, §301(d)(3), (e)(1), 92 Stat. 3200, 3201; Dec. 17, 1980, Pub. L. 96–541, §§2(c), (d), 3, 94 Stat. 3204, 3205; Dec. 28, 1980, Pub. L. 96–613, §2(a), 94 Stat. 3579; Aug. 13, 1981, Pub. L. 97–34, title II, §§203(a)–(c)(1), (d), 209(d)(3), 212(d)(1), 264(a), 95 Stat. 221, 222, 227, 239, 264; Jan. 6, 1983, Pub. L. 97–424, title V, §541(a)(2), 96 Stat. 2192; July 18, 1984, Pub. L. 98–369, div. A, title X, §1064, 98 Stat. 1047; Oct. 22, 1986, Pub. L. 99–514, title II, §201(d)(1), title XV, §1511(c)(4), title XVIII, §1809(d)(1), 100 Stat. 2139, 2745, 2821; Nov. 10, 1988, Pub. L. 100–647, title I, §1002(a)(22), (24), (31), (i)(1), 102 Stat. 3356, 3357, 3370; Dec. 19, 1989, Pub. L. 101–239, title VII, §§7622(b)(1) \[(d)(1)\], 7645(a), 103 Stat. 2378, 2381; Nov. 5, 1990, Pub. L. 101–508, title XI, §11812(a), (b)(1), 104 Stat. 1388–534; Aug. 10, 1993, Pub. L. 103–66, title XIII, §§13206(c)(2), 13261(b), (f)(1), 107 Stat. 466, 538, 539.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 51; Sept. 2, 1958, Pub. L. 85–866, title I, §89(b), 72 Stat. 1665; Oct. 16, 1962, Pub. L. 87–834, §13(b), (c)(1), 76 Stat. 1034; Nov. 8, 1966, Pub. L. 89–800, §2, 80 Stat. 1513; June 13, 1967, Pub. L. 90–26, §§1, 2(b), 81 Stat. 57, 58; Dec. 30, 1969, Pub. L. 91–172, title IV, §441(a), title V, §521(a), (d), 83 Stat. 625, 649, 653; Dec. 10, 1971, Pub. L. 92–178, title I, §109(a), 85 Stat. 508; Jan. 3, 1975, Pub. L. 93–625, §3(c), 88 Stat. 2109; Oct. 4, 1976, Pub. L. 94–455, title II, §§202(c)(3), 203(a), title XIX, §§1901(a)(27), 1906(b)(13)(A), title XXI, §2124(c)(1), (d)(1), 90 Stat. 1530, 1768, 1834, 1918; Nov. 12, 1977, Pub. L. 95–171, §4(a), 91 Stat. 1355; Nov. 6, 1978, Pub. L. 95–600, title III, §§312(c)(4), 367, title VII, §701(f)(4), (6), 92 Stat. 2826, 2857, 2901, 2902; Nov. 8, 1978, Pub. L. 95–615, §7(a), 92 Stat. 3098; Nov. 9, 1978, Pub. L. 95–618, title III, §301(d)(3), (e)(1), 92 Stat. 3200, 3201; Dec. 17, 1980, Pub. L. 96–541, §§2(c), (d), 3, 94 Stat. 3204, 3205; Dec. 28, 1980, Pub. L. 96–613, §2(a), 94 Stat. 3579; Aug. 13, 1981, Pub. L. 97–34, title II, §§203(a)–(c)(1), (d), 209(d)(3), 212(d)(1), 264(a), 95 Stat. 221, 222, 227, 239, 264; Jan. 6, 1983, Pub. L. 97–424, title V, §541(a)(2), 96 Stat. 2192; July 18, 1984, Pub. L. 98–369, div. A, title X, §1064, 98 Stat. 1047; Oct. 22, 1986, Pub. L. 99–514, title II, §201(d)(1), title XV, §1511(c)(4), title XVIII, §1809(d)(1), 100 Stat. 2139, 2745, 2821; Nov. 10, 1988, Pub. L. 100–647, title I, §1002(a)(22), (24), (31), (i)(1), 102 Stat. 3356, 3357, 3370; Dec. 19, 1989, Pub. L. 101–239, title VII, §§7622(b)(1) \[(d)(1)\], 7645(a), 103 Stat. 2378, 2381; Nov. 5, 1990, Pub. L. 101–508, title XI, §11812(a), (b)(1), 104 Stat. 1388–534; Aug. 10, 1993, Pub. L. 103–66, title XIII, §§13206(c)(2), 13261(b), (f)(1), 107 Stat. 466, 538, 539; Aug. 20, 1996, Pub. L. 104–188, title I, §1604(a), 110 Stat. 1836.)
 
 #### Amendments
+
+1996—Subsecs. (g), (h). Pub. L. 104–188 added subsec. (g) and redesignated former subsec. (g) as (h).
 
 1993—Subsec. (c). Pub. L. 103–66, §13261(b)(2), amended heading and text of subsec. (c) generally. Prior to amendment, text read as follows: “The basis on which exhaustion, wear and tear, and obsolescence are to be allowed in respect of any property shall be the adjusted basis provided in section 1011 for the purpose of determining the gain on the sale or other disposition of such property.”
 
@@ -126,7 +200,7 @@ Subsec. (g). Pub. L. 103–66, §13261(b)(1), (f)(1), redesignated subsec. (f) a
 
 &emsp;“(1) the straight line method,
 
-&emsp;“(2) the declining balance method, using a rate not exceeding twice the rate which would have been usedhad the annual allowance been computed under the method described in paragraph (1),
+&emsp;“(2) the declining balance method, using a rate not exceeding twice the rate which would have been used had the annual allowance been computed under the method described in paragraph (1),
 
 &emsp;“(3) the sum of the years-digits method, and
 
@@ -142,7 +216,7 @@ Subsec. (c). Pub. L. 101–508, §11812(a)(1), redesignated subsec. (g) as (c) a
 
 > Paragraphs (2), (3), and (4) of subsection (b) shall not apply to any motion picture film, video tape, or sound recording.”
 
-Subsec. (d). Pub. L. 101–508, §11812(a)(1), redesignated subsec. (h) as (d) and struck out former subsec. (d) “Agreement as to useful life on which depreciation rate is based” which read as follows: “Where, under regulations prescribed by the Secretary, the taxpayer and the Secretary have, after August 16, 1954, entered into an agreement in writing specifically dealing with the useful life and rate of depreciation of any property, the rate so agreed upon shall be binding on both the taxpayer and the Secretary in the absence of facts or circumstances not taken into consideration in the adoption of such agreement. The responsibility of establishing the existence of such facts and circumstances shall rest with the party initiating the modification. Any change in the agreed rate and useful life specified in the agreement shall not be effective for taxable years before the taxable year in which notice in writing by certified mail or registered mail is served by the party to the agreement initiating such change. This subsection shall not apply with respect to property to which section 168 applies.”
+Subsec. (d). Pub. L. 101–508, §11812(a)(1), redesignated subsec. (h) as (d) and struck out former subsec. (d) “Agreement as to useful life on which depreciation rate is based” which read as follows: “Where, under regulations prescribed by the Secretary, the taxpayer and the Secretary have, after August 16, 1954, entered into an agreement in writing specifically dealing with the useful life and rate of depreciation of any property, therate so agreed upon shall be binding on both the taxpayer and the Secretary in the absence of facts or circumstances not taken into consideration in the adoption of such agreement. The responsibility of establishing the existence of such facts and circumstances shall rest with the party initiating the modification. Any change in the agreed rate and useful life specified in the agreement shall not be effective for taxable years before the taxable year in which notice in writing by certified mail or registered mail is served by the party to the agreement initiating such change. This subsection shall not apply with respect to property to which section 168 applies.”
 
 Subsec. (e). Pub. L. 101–508, §11812(a)(1), redesignated subsec. (r) as (e) and struck out former subsec. (e) which related to changes in method of depreciation from declining balance method and changes with respect to sections 1245 and 1250 property.
 
@@ -272,7 +346,7 @@ Subsec. (m). Pub. L. 94–455, §1906(b)(13)(A), struck out in pars. (1) and (3)
 
 Subsec. (n). Pub. L. 94–455, §2124(c)(1), added subsec. (n). Former subsec. (n) redesignated (p).
 
-Subsec. (<i>o</i>). Pub. L. 94–455, §2124(d)(1), added subsec. (<i>o).</i>
+Subsec. (<i>o</i>). Pub. L. 94–455, §2124(d)(1), added subsec. (<i>o</i>).
 
 Subsec. (p). Pub. L. 94–455, §2124(c)(1), redesignated former subsec. (n) as (p).
 
@@ -284,7 +358,7 @@ Subsec. (p). Pub. L. 94–455, §2124(c)(1), redesignated former subsec. (n) as 
 
 Subsecs. (j), (k). Pub. L. 91–172, §521(a), added subsecs. (j) and (k). Former subsec. (j) redesignated (m).
 
-Subsec. (<i>l</i>). Pub. L. 91–172, §441(a), added subsec. (<i>l).</i>
+Subsec. (<i>l</i>). Pub. L. 91–172, §441(a), added subsec. (<i>l</i>).
 
 Subsec. (m). Pub. L. 91–172, §521(a), redesignated former subsec. (j) as (m).
 
@@ -300,6 +374,22 @@ Subsecs. (f) to (i). Pub. L. 87–834, §13(c)(1), added subsec. (f) and redesig
 
 1958—Subsec. (d). Pub. L. 85–866 inserted “certified mail or” before “registered mail”.
 
+#### Effective Date of 1996 Amendment
+
+Section 1604(b) of Pub. L. 104–188 provided that:
+
+“(1)
+
+In general.—The amendment made by subsection (a) \[amending this section\] shall apply to property placed in service after September 13, 1995.
+
+“(2)
+
+Binding contracts.—The amendment made by subsection (a) shall not apply to any property produced or acquired by the taxpayer pursuant to a written contract which was binding on September 13, 1995, and at all times thereafter before such production or acquisition.
+
+“(3)
+
+Underpayments of income tax.—No addition to tax shall be made under section 6662 of such Code \[probably means section 6662 of this title\] as a result of the application of subsection (d) of that section (relating to substantial understatements of income tax) with respect to any underpayment of income tax for any taxable year ending before such date of enactment \[probably means the date of enactment of Pub. L. 104–188, Aug. 20, 1996\], to the extent such underpayment was created or increased by the amendments made by subsection (a).”
+
 #### Effective Date of 1993 Amendment
 
 Section 13206(c)(3) of Pub. L. 103–66 provided that: “The amendments made by this subsection \[amending this section and section 305 of this title\] shall take effect on April 30, 1993.”
@@ -308,7 +398,7 @@ Amendment by section 13261(b) and (f)(1) of Pub. L. 103–66 applicable, except 
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–508 applicable to property placed in service after Nov. 5, 1990, but not applicable to any property to which section 168 of this title does not apply by reason of subsec. (f)(5) of section 168, and not applicable to rehabilitation expenditures describedin section 252(f)(5) of Pub. L. 99–514, see section 11812(c) of Pub. L. 101–508, set out as a note under section 42 of this title.
+Amendment by Pub. L. 101–508 applicable to property placed in service after Nov. 5, 1990, but not applicable to any property to which section 168 of this title does not apply by reason of subsec. (f)(5) of section 168, and not applicable to rehabilitation expenditures described in section 252(f)(5) of Pub. L. 99–514, see section 11812(c) of Pub. L. 101–508, set out as a note under section 42 of this title.
 
 #### Effective Date of 1989 Amendment
 
@@ -394,7 +484,7 @@ Section 521(g) of Pub. L. 91–172 provided that: “The amendments made by this
 
 #### Effective Date of 1967 Amendment
 
-Amendment by Pub. L. 90–26 applicable with respect to taxable years ending after March 9, 1967, see section 4 of Pub. L. 90–26, set out as a note under section 48 of this title.
+Amendment by Pub. L. 90–26 applicable with respect to taxable years ending after March 9, 1967, see section4 of Pub. L. 90–26, set out as a note under section 48 of this title.
 
 #### Effective Date of 1966 Amendment
 

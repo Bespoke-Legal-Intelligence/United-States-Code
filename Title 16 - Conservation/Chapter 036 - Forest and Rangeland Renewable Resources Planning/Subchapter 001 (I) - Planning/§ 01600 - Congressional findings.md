@@ -52,5 +52,5 @@ Section 21 of Pub. L. 94–588 provided that: “If any provision of this Act \[
 
 #### Act Referred to in Other Sections
 
-The National Forest Management Act of 1976 is referred to in sections 460<i>ll</i>, 460qq, 497b, 539d, 544k, 544<i>o</i>, 620 of this title; title 43 section 1635.
+The National Forest Management Act of 1976 is referred to in sections 460<i>ll</i>, 460qq, 497b, 539d, 544k, 544<i>o</i>, 545b, 620 of this title; title 43 section 1635.
 

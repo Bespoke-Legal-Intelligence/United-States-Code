@@ -37,39 +37,17 @@
 
 &emsp;(B) For service in any of the following executive positions, the annual rate applicable to that position as follows:
 
-&nbsp;&nbsp;Position
+&nbsp;
 
-Rate
-
-&nbsp;Deputy Service Director
-
-$20,000
-
-&nbsp;Service Director
-
-25,000
-
-&nbsp;Deputy Assistant Under Secretary for   Health
-
-27,500
-
-&nbsp;Assistant Under Secretary for Health
-
-30,000
-
-&nbsp;Associate Deputy Under Secretary for   Health
-
-35,000
-
-&nbsp;Deputy Under Secretary for Health
-
-40,000
-
-&nbsp;Under Secretary for Health
-
-45,000
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+| &nbsp;&nbsp;Position | Rate |
+| :--- | ---: |
+| &nbsp;Deputy Service Director | $20,000 |
+| &nbsp;Service Director | 25,000 |
+| &nbsp;Deputy Assistant Under Secretary for   Health | 27,500 |
+| &nbsp;Assistant Under Secretary for Health | 30,000 |
+| &nbsp;Associate Deputy Under Secretary for   Health | 35,000 |
+| &nbsp;Deputy Under Secretary for Health | 40,000 |
+| &nbsp;Under Secretary for Health | 45,000 |
 
 &emsp;(C) For service by a physician who serves only a portion of a year in an executive position listed in subparagraph (A) or (B) or who serves a portion of a year in such a position and also serves a portion of that year in another position or grade for which special pay is provided under this section, the annual rate shall be calculated on the basis of the proportion of time served in the position or positions for which special pay is provided.
 

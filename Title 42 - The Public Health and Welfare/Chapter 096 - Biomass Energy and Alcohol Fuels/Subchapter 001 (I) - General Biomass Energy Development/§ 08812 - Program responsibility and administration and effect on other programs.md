@@ -46,7 +46,7 @@
 
 &emsp;&emsp;(iii) the procedures established for accepting, evaluating, and awarding financial assistance will provide for categories of biomass energy projects, according to size and provide to the maximum extent practicable the simplest procedures for small producers.
 
-(2) The procedural requirements of subparagraphs (A) through (D) of paragraph (1) shall notapply to either Secretary to the extent that the Secretary finds that other procedures are adopted for the solicitation, evaluation, and awarding of financial assistance which will result in applications being processed more expeditiously.
+(2) The procedural requirements of subparagraphs (A) through (D) of paragraph (1) shall not apply to either Secretary to the extent that the Secretary finds that other procedures are adopted for the solicitation, evaluation, and awarding of financial assistance which will result in applications being processed more expeditiously.
 
 #### (c) Notice to and reviewing functions of other Secretary concerning application for financial assistance
 
@@ -62,7 +62,7 @@
 
 (3) Reviews of projects under the provisions of subsection (a)(2)(C) of this section or paragraph (1)(B) by the Secretary of Agriculture shall be for the purpose of considering the national, regional, and local agricultural policy impacts of such project on agricultural supply, production, and use, and reviews by the Secretary of Energy under such provisions shall be for the purpose of considering national energy policy impacts and the technical feasibility of the project.
 
-(4) The Secretary of Agriculture and the Secretary of Energy may jointly establish categories of projects to which paragraphs (1) and (2) shall not apply. Within 90 days after June 30, 1980, the Secretaries shall identify potential categories and make an initial determination of exempted categories.
+(4) The Secretary of Agriculture and the Secretary of Energy may jointly establish categories of projects to which paragraphs (1) and\(2) shall not apply. Within 90 days after June 30, 1980, the Secretaries shall identify potential categories and make an initial determination of exempted categories.
 
 #### (d) Notification of applicant upon disapproval of application for financial assistance
 

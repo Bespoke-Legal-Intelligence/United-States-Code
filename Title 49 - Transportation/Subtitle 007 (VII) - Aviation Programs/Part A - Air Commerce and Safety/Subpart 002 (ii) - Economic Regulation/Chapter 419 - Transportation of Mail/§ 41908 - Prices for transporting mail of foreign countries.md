@@ -10,7 +10,7 @@ Changes.—The Postal Service may authorize an air carrier holding a certificate
 
 (c)
 
-Collecting Compensation.—(1) When an air carrier holding a certificate that authorizes foreign air transportation transports mail of a foreign country—
+Collecting Compensation.—(1) When an air carrier holding a certificate that authorizesforeign air transportation transports mail of a foreign country—
 
 &emsp;(A) under an arrangement with a government of a foreign country or foreign postal administration made or approved under this section, the carrier must collect its compensation for the transportation from the foreign country under the arrangement; and
 
@@ -22,7 +22,9 @@ Collecting Compensation.—(1) When an air carrier holding a certificate that au
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -32,7 +34,7 @@ Historical and Revision Notes
 
 49 App.:1375(f)(1) (2d, 3d sentences).
 
-Aug. 23, 1958, Pub. L. 85–726, §405(f)(1) (2d– last sentences), (2), 72 Stat. 761.
+Aug. 23, 1958, Pub. L. 85–726, §405(f)(1) (2d–last sentences), (2), 72 Stat. 761.
 
 41908(b)
 

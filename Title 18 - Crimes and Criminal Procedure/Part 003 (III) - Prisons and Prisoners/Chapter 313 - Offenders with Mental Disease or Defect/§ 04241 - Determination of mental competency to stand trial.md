@@ -54,5 +54,5 @@ Section 401 of chapter IV (§§401–406) of title II of Pub. L. 98–473 provid
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 4246, 4247 of this title.
+This section is referred to in sections 4246, 4247 of this title; title 10 section 876b.
 

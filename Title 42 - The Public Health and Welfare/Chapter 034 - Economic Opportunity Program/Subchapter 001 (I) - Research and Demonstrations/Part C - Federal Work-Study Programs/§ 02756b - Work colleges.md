@@ -8,7 +8,7 @@ The purpose of this section is to recognize, encourage, and promote the use of c
 
 #### (1) Source of funds
 
-&emsp;In addition to the sums appropriated under subsection (f) of this section, funds allocatedto the institution under this part and part E of this title \[20 U.S.C. 1087aa et seq.\] may be transferred for use under this section to provide flexibility in strengthening the self-help-through-work element in financial aid packaging.
+&emsp;In addition to the sums appropriated under subsection (f) of this section, funds allocated to the institution under this part and part E of this title \[20 U.S.C. 1087aa et seq.\] may be transferred for use under this section to provide flexibility in strengthening the self-help-through-work element in financial aid packaging.
 
 #### (2) Activities authorized
 

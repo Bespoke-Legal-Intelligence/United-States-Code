@@ -10,7 +10,7 @@ Definitions.—In this section—
 
 (b)
 
-Labeling Requirements and Contents.—(1) Under regulations of the Administrator ofthe Environmental Protection Agency, a manufacturer of automobiles shall attach a label to a prominent place on each automobile manufactured in a model year. The dealer shall maintain the label on the automobile. The label shall contain the following information:
+Labeling Requirements and Contents.—(1) Under regulations of the Administrator of the Environmental Protection Agency, a manufacturer of automobiles shall attach a label to aprominent place on each automobile manufactured in a model year. The dealer shall maintain the label on the automobile. The label shall contain the following information:
 
 &emsp;(A) the fuel economy of the automobile.
 
@@ -86,7 +86,9 @@ Historical and Revision Notes
 
 Pub. L. 103–272
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

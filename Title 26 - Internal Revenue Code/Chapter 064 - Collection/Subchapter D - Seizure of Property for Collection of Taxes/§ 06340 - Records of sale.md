@@ -16,5 +16,5 @@ A copy of such record, or any part thereof, certified by the Secretary shall be 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 6337 of this title; title 18 section 3613.
+This section is referred to in section 6337 of this title.
 

@@ -34,7 +34,9 @@ Act
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 42 U.S.C. 1371 (a)–(c).
 
@@ -56,7 +58,7 @@ Section 8 of Pub. L. 102–107, Aug. 17, 1991, 105 Stat. 546, which contained pr
 
 #### Amendments
 
-<b>1991</b>—Subsec. (a)(1). Pub. L. 102–164, §301(b), substituted “90 days” for “180 days”.
+1991—Subsec. (a)(1). Pub. L. 102–164, §301(b), substituted “90 days” for “180 days”.
 
 Subsec. (c). Pub. L. 102–164, §301(a), struck out subsec. (c) which read as follows:
 
@@ -64,17 +66,17 @@ Subsec. (c). Pub. L. 102–164, §301(a), struck out subsec. (c) which read as f
 
 “(2) The aggregate amount of compensation payable on the basis of Federal service (as defined in subsection (a)) to any individual with respect to any benefit year shall not exceed 13 times the individual's weekly benefit amount for total unemployment.”
 
-<b>1982</b>—Subsec. (a)(1). Pub. L. 97–362, §201(a), substituted provision that “Federal service” means active service (not including active duty in a reserve status unless for a continuous period of 180 days or more) in the armed forces or the Commissioned Corps of the National Oceanic and Atmospheric Administration if with respect to that service the individual was discharged or released under honorable conditions (and, if an officer, did not resign for the good of the service), and the individual was discharged or released after completing his first full term of active service which the individual initially agreed to serve, or the individual was discharged or released before completing such term of active service for the convenience of the Government under an early release program, because of medical disqualification, pregnancy, parenthood, or any service-incurred injury or disability, because of hardship, or because of personality disorders or inaptitude but only if the service was continuous for 365 days or more, for provision that “Federal service” meant active service, including active duty for training purposes, in the armed forces or the Commissioned Corps of the National Oceanic and Atmospheric Administration which either began after January 31, 1955, or terminated after October 27, 1958, if that service was continuous for 365 days or more, or was terminated earlier because of an actual service-incurred injury or disability, and with respect to that service, the individual was discharged or released under honorable conditions, did not resign or voluntarily leave the service, and was not released or discharged for cause as defined by the Department of Defense.
+1982—Subsec. (a)(1). Pub. L. 97–362, §201(a), substituted provision that “Federal service” means active service (not including active duty in a reserve status unless for a continuous period of 180 days or more) in the armed forces or the Commissioned Corps of the National Oceanic and Atmospheric Administration if with respect to that service the individual was discharged or released under honorable conditions (and, if an officer, did not resign for the good of the service), and the individual was discharged or released after completing his first full term of active service which the individual initially agreed to serve, or the individual was discharged or released before completing such term of active service for the convenience of the Government under an early release program, because of medical disqualification, pregnancy, parenthood, or any service-incurred injury or disability, because of hardship, or because of personality disorders or inaptitude but only if the service was continuous for 365 days or more, for provision that “Federal service” meant active service, including active duty for training purposes, in the armed forces or the Commissioned Corps of the National Oceanic and Atmospheric Administration which either began after January 31, 1955, or terminated after October 27, 1958, if that service was continuous for 365 days or more, or was terminated earlier because of an actual service-incurred injury or disability, and with respect to that service, the individual was discharged or released under honorable conditions, did not resign or voluntarily leave the service, and was not released or discharged for cause as defined by the Department of Defense.
 
 Subsec. (c). Pub. L. 97–362, §201(b), added subsec. (c).
 
-<b>1981</b>—Subsec. (a)(1)(B). Pub. L. 97–35 substituted “honorable conditions;” for “conditions other than dishonorable; and” in cl. (i), and “did not resign or voluntarily leave the service; and” for “was not given a bad conduct discharge, or, if an officer, did not resign for the good of the service;” in cl. (ii), and added cl. (iii).
+1981—Subsec. (a)(1)(B). Pub. L. 97–35 substituted “honorable conditions;” for “conditions other than dishonorable; and” in cl. (i), and “did not resign or voluntarily leave the service; and” for “was not given a bad conduct discharge, or, if an officer, did not resign for the good of the service;” in cl. (ii), and added cl. (iii).
 
-<b>1980</b>—Subsec. (a)(1). Pub. L. 96–215 inserted “or the Commissioned Corps of the National Oceanic and Atmospheric Administration” after “armed forces” in provisions preceding subpar. (A).
+1980—Subsec. (a)(1). Pub. L. 96–215 inserted “or the Commissioned Corps of the National Oceanic and Atmospheric Administration” after “armed forces” in provisions preceding subpar. (A).
 
 Subsec. (a)(1)(A). Pub. L. 96–364 substituted “365” for “90”.
 
-<b>1976</b>—Subsec. (a)(3). Pub. L. 94–566 added the Virgin Islands to definition of “State”.
+1976—Subsec. (a)(3). Pub. L. 94–566 added the Virgin Islands to definition of “State”.
 
 #### Effective Date of 1991 Amendment
 

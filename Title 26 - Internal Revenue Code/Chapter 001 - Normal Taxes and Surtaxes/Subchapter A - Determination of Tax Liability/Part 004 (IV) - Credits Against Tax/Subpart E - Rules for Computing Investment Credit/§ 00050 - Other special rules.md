@@ -16,10 +16,8 @@ Under regulations prescribed by the Secretary—
 
 &nbsp;
 
-| &nbsp; | &nbsp; |
+| <b>If the property ceases to be investment credit property within—</b> | <b>The recapture percentage is:</b> |
 | :--- | ---: |
-| <b>If the property ceases to be</b> | <b>The recapture</b> |
-| &nbsp;<b>investment credit property within—</b> | <b>percentage is:</b> |
 | (i) One full year after placed in service | 100&nbsp;&nbsp;&nbsp; |
 | (ii) One full year after the close of the period described in clause (i) | 80&nbsp;&nbsp;&nbsp; |
 | (iii) One full year after the close of the period described in clause (ii) | 60&nbsp;&nbsp;&nbsp; |
@@ -38,7 +36,7 @@ Under regulations prescribed by the Secretary—
 
 #### (C) Certain sales and leasebacks
 
-&emsp;&emsp;Under regulations prescribed by the Secretary, a sale by, and leaseback to, a taxpayer who, when the property is placed in service, will be a lessee to whom the rules referred to in subsection (c)(4) apply shall not be treated as a cessation described in subparagraph (A) to the extent that the amount which will be passed through to the lessee under such rules with respect to such property is not less than the qualified rehabilitation expenditures properly taken into account by the lessee under section 47(d) with respect to such property.
+&emsp;&emsp;Under regulations prescribed by the Secretary, a sale by, and leaseback to, a taxpayer who, when the property is placed in service, will be a lessee to whom the rules referred to in subsection (d)(5) apply shall not be treated as a cessation described in subparagraph (A) to the extent that the amount which will be passed through to the lessee under such rules with respect to such property is not less than the qualified rehabilitation expenditures properly taken into account by the lessee under section 47(d) with respect to such property.
 
 #### (D) Coordination with paragraph (1)
 
@@ -46,7 +44,7 @@ Under regulations prescribed by the Secretary—
 
 #### (E) Special rules
 
-&emsp;&emsp;Rules similar to the rules of this paragraph shall apply in cases where qualified progress expenditures were taken into account under the rules referred to in section 48(a)(5)(A).
+&emsp;&emsp;Rules similar to the rules of this paragraph shall apply in cases where qualified progress expenditures were taken into account under the rules referred to in section 48(a)(5).
 
 #### (3) Carrybacks and carryovers adjusted
 
@@ -192,7 +190,9 @@ For purposes of this subpart, rules similar to the rules of the following provis
 
 &emsp;(7) Section 48(r) (relating to certain 501(d) organizations).
 
-(Added Pub. L. 101–508, title XI, §11813(a), Nov. 5, 1990, 104 Stat. 1388–546.)
+> Paragraphs (1)(A), (2)(A), and (4) of the section 46(e) referred to in paragraph (1) of this subsection shall not apply to any taxable year beginning after December 31, 1995.
+
+(Added Pub. L. 101–508, title XI, §11813(a), Nov. 5, 1990, 104 Stat. 1388–546; amended Pub. L. 104–188, title I, §§1616(b)(1), 1702(h)(11), 1704(t)(29), Aug. 20, 1996, 110 Stat. 1856, 1874, 1889.)
 
 #### References in Text
 
@@ -201,6 +201,20 @@ The date of the enactment of the Revenue Reconciliation Act of 1990, referred to
 #### Prior Provisions
 
 A prior section 50, Pub. L. 92–178, title I, §101(a), Dec. 10, 1971, 85 Stat. 498, related to restoration of credit for investment in certain depreciable property, prior to repeal by Pub. L. 95–600, title III, §312(c)(1), Nov. 6, 1978, 92 Stat. 2826, applicable to taxable years ending after Dec. 31, 1978.
+
+#### Amendments
+
+1996—Subsec. (a)(2)(C). Pub. L. 104–188, §1704(t)(29), substituted “subsection (d)(5)” for “subsection (c)(4)”.
+
+Subsec. (a)(2)(E). Pub. L. 104–188, §1702(h)(11), substituted “48(a)(5)” for “48(a)(5)(A)”.
+
+Subsec. (d). Pub. L. 104–188, §1616(b)(1), inserted closing provisions.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by section 1616(b)(1) of Pub. L. 104–188 applicable to taxable years beginning after Dec. 31, 1995, see section 1616(c) of Pub. L. 104–188, set out as a note under section 593 of this title.
+
+Amendment by section 1702(h)(11) of Pub. L. 104–188 effective, except as otherwise expressly provided, as if included in the provision of the Revenue Reconciliation Act of 1990, Pub. L. 101–508, title XI, to which such amendment relates, see section 1702(i) of Pub. L. 104–188, set out as a note under section 38 of this title.
 
 #### Effective Date
 
@@ -212,7 +226,7 @@ For provisions that nothing in this section be construed to affect treatment of 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 29, 30, 47, 49, 55, 179A, 196, 312, 1371, 1503 of this title.
+This section is referred to in sections 29, 30, 47, 49, 55, 179, 179A, 196, 312, 1371, 1503 of this title.
 
 <i><sup>1</sup></i><i> So in original. The period probably should be a semicolon.</i>
 

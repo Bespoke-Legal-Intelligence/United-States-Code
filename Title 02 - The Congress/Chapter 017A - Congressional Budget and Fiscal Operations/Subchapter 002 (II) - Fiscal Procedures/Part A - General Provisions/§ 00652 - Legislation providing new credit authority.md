@@ -8,7 +8,7 @@ It shall not be in order in either the House of Representatives or the Senate to
 
 For purposes of this Act, the term “new credit authority” means credit authority (as defined in section 622(10) of this title) not provided by law on the effective date of this section, including any increase in or addition to credit authority provided by law on such date.
 
-(Pub. L. 93–344, title IV, §402, July 12, 1974, 88 Stat. 318; Pub. L. 99–177, title II, §212, Dec. 12, 1985, 99 Stat. 1058; Pub. L. 101–508, title XIII, §13207(a)(1)(H), Nov. 5, 1990, 104 Stat. 1388–618.)
+(Pub. L. 93–344, title IV, §402, July 12, 1974, 88 Stat. 318; Pub. L. 99–177, title II, §212, Dec. 12,1985, 99 Stat. 1058; Pub. L. 101–508, title XIII, §13207(a)(1)(H), Nov. 5, 1990, 104 Stat. 1388–618.)
 
 #### References in Text
 

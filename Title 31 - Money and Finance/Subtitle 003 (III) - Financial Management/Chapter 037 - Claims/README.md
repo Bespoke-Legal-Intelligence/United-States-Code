@@ -5,7 +5,7 @@
 | Sec. |  |
 | :--- | ---: |
 | [3701\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2003701%20-%20Definitions%20and%20application.md) | Definitions and application. |
-| [3702\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2003702%20-%20Authority%20of%20the%20Comptroller%20General%20to%20settle%20claims.md) | Authority of the Comptroller General to settle claims. |
+| [3702\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2003702%20-%20Authority%20to%20settle%20claims.md) | Authority to settle claims. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -24,6 +24,10 @@
 | [3719\.](Subchapter%20002%20%28II%29%20-%20Claims%20of%20the%20United%20States%20Government/%C2%A7%2003719%20-%20Reports%20on%20debt%20collection%20activities.md) | Reports on debt collection activities. |
 | [3720\.](Subchapter%20002%20%28II%29%20-%20Claims%20of%20the%20United%20States%20Government/%C2%A7%2003720%20-%20Collection%20of%20payments.md) | Collection of payments. |
 | [3720A.](Subchapter%20002%20%28II%29%20-%20Claims%20of%20the%20United%20States%20Government/%C2%A7%2003720A%20-%20Reduction%20of%20tax%20refund%20by%20amount%20of%20debt.md) | Reduction of tax refund by amount of debt. |
+| [3720B.](Subchapter%20002%20%28II%29%20-%20Claims%20of%20the%20United%20States%20Government/%C2%A7%2003720B%20-%20Barring%20delinquent%20Federal%20debtors%20from%20obtaining%20Federal%20loans%20or%20loan%20insurance%20guarantees.md) | Barring delinquent Federal debtors from obtaining Federal loans or loan insurance guarantees. |
+| [3720C.](Subchapter%20002%20%28II%29%20-%20Claims%20of%20the%20United%20States%20Government/%C2%A7%2003720C%20-%20Debt%20Collection%20Improvement%20Account.md) | Debt Collection Improvement Account. |
+| [3720D.](Subchapter%20002%20%28II%29%20-%20Claims%20of%20the%20United%20States%20Government/%C2%A7%2003720D%20-%20Garnishment.md) | Garnishment. |
+| [3720E.](Subchapter%20002%20%28II%29%20-%20Claims%20of%20the%20United%20States%20Government/%C2%A7%2003720E%20-%20Dissemination%20of%20information%20regarding%20identity%20of%20delinquent%20debtors.md) | Dissemination of information regarding identity of delinquent debtors. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -48,6 +52,10 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1996—Pub. L. 104–316, title II, §202(n)(2), Oct. 19, 1996, 110 Stat. 3844, substituted “Authority to settle claims” for “Authority of the Comptroller General to settle claims” in item 3702.
+
+Pub. L. 104–134, title III, §31001(j)(2), (<i>o</i>)(2), (r)(2), (t)(2), Apr. 26, 1996, 110 Stat. 1321–365, 1321–371, 1321–373, 1321–375, added items 3720B to 3720E.
 
 1989—Pub. L. 101–203, §1(b)(2), Dec. 7, 1989, 103 Stat. 1805, substituted “investigative or law enforcement officers of the Department of Justice” for “the Federal Bureau of Investigation” in item 3724.
 

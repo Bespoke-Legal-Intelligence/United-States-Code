@@ -1,6 +1,6 @@
 ### §4214. Account of fees; certification
 
-Every consular officer responsible for the collection of fees, in rendering his account of fees received, shall furnish a full transcript of the register which he is required to keep, and certify that such transcript is an accurate and complete record of all fees received for the period shown.
+Every consular officer responsible for the collection of fees, in rendering his account of fees received, shall furnish a full transcript of theregister which he is required to keep, and certify that such transcript is an accurate and complete record of all fees received for the period shown.
 
 (R.S. §1728; June 28, 1955, ch. 196, 69 Stat. 187.)
 

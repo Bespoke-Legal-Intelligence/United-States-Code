@@ -4,7 +4,7 @@ Not later than 180 days after October 24, 1992, the Secretary of State shall pre
 
 &emsp;(1) a cost-benefit analysis comparing (A) the relative merits of the indefinite storage and safeguarding of such materials in the independent states of the former Soviet Union and (B) its acquisition by the United States by purchase, barter, or other means;
 
-&emsp;(2) a discussion of relevant issues such as the protection of United States uranium producers from dumping, the relative vulnerability of these stocks of special nuclear materials to illegal proliferation, and the potential electrical and other savings associated with their being made available in the fuel cycle in the United States; and
+&emsp;(2) a discussion of relevant issues such as the protection of United States uranium producers from dumping, the relative vulnerability of these stocks of special nuclear materials to illegal proliferation, and the potential electrical and other savings associated with theirbeing made available in the fuel cycle in the United States; and
 
 &emsp;(3) a discussion of how highly enriched uranium stocks could be diluted for reactor fuel.
 

@@ -6,13 +6,13 @@ In order to receive funds under this subpart, a State educational agency, in con
 
 &emsp;(2) identify Teacher Corps schools within the State, where Teacher Corps members shall be assigned, provided that not more than 10 percent of all public schools in the State may be designated Teacher Corps schools;
 
-&emsp;(3) provide assurances that the State educational agency, in cooperation with localeducational agencies, shall assist in employment placement within such State for Teacher Corps members in Teacher Corps schools;
+&emsp;(3) provide assurances that the State educational agency, in cooperation with local educational agencies, shall assist in employment placement within such State for Teacher Corps members in Teacher Corps schools;
 
 &emsp;(4) provide assurances that the State educational agency, in cooperation with local educational agencies, shall ensure that Teacher Corps members are paid at rates comparable to other entry level teachers in the school district where the Teacher Corps member is assigned;
 
 &emsp;(5) provide assurances that the local educational agencies in which the Teacher Corps members shall be placed shall establish or expand induction programs that assist Teacher Corps members in adjusting to the new school and community where such members shall teach, including working with a mentor teacher in the school building where the Teacher Corps members are placed; and
 
-&emsp;(6) describe how the State educational agency shall monitor and report to the Secretary not less than annually on the operation of programs assisted under this subpart and on the compliance of individuals who receive Teacher Corps scholarships with the provisions of this subpart.
+&emsp;(6) describe how the State educational agency shall monitor and report to the Secretary not less than annually on the operation of programs assisted under this subpart and on thecompliance of individuals who receive Teacher Corps scholarships with the provisions of this subpart.
 
 (Pub. L. 89–329, title V, §544, as added Pub. L. 102–325, title V, §501(a), July 23, 1992, 106 Stat. 690.)
 

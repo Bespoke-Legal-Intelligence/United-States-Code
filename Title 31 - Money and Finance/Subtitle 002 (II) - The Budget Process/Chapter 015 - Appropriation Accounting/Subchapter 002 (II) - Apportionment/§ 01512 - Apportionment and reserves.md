@@ -54,7 +54,7 @@ R.S. §3679(c)(2); Mar. 3, 1905, ch. 1484, §4(1st par.), 33 Stat. 1257; Feb. 27
 
 31:665(c)(4)(words before 1st comma).
 
-In subsection (a), the word “appropriation” is substituted for “appropriations or funds” because of the definition of “appropriation” in section 1511 of the revised title. The words “at a rate” are substituted for “in a manner” for clarity. The words “indefinite period” are substituted for “not limited to a definite period of time” for consistency in the revised title. The words “An apportionment may be reapportioned under this section” are substituted for 31:665(c)(4)(words after 1st comma) to eliminate unnecessary words.
+In subsection (a), the word “appropriation” is substituted for “appropriations or funds” because of the definition of “appropriation” in section 1511 of the revised title. The words “at a rate” are substituted for“in a manner” for clarity. The words “indefinite period” are substituted for “not limited to a definite period of time” for consistency in the revised title. The words “An apportionment may be reapportioned under this section” are substituted for 31:665(c)(4)(words after 1st comma) to eliminate unnecessary words.
 
 In subsection (b)(1), before clause (A), the word “apportioned” is substituted for “distributed” for consistency in the revised section.
 
@@ -66,7 +66,7 @@ In subsection (c)(2), the words “appropriation requests” are substituted for
 
 #### References in Text
 
-The Impoundment Control Act of 1974, referred to in subsec. (c)(2), is title X of Pub. L. 93–344, July 12, 1974, 88 Stat. 332, as amended, which is classified principally to chapter 17B (§681 et seq.) of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under section 681 of Title 2 and Tables.
+The Impoundment Control Act of 1974, referred to in subsec. (c)(2), is parts A and B of title X of Pub. L. 93–344, July 12, 1974, 88 Stat. 332, as amended, which is classified principally to subchapters I (§681) and II (§682 et seq.) of chapter 17B of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under section 681 of Title 2 and Tables.
 
 #### Apportionment of Funds Appropriated to District of Columbia Government
 

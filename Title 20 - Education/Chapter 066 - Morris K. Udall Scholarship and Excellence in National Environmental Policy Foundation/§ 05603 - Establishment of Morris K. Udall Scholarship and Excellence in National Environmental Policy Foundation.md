@@ -36,9 +36,11 @@ In general.—The term of office of each member of the Board shall be six years,
 
 &emsp;&emsp;(ii) as designated by the President, one Trustee appointed pursuant to subsection (b)(1) of this section and two Trustees appointed pursuant to subsection (b)(3) of this section shall each serve four years; and
 
-&emsp;&emsp;(iii) as designated by the President, one Trustee appointed pursuant to subsection (b)(1) of this section, one Trustee appointed pursuant to subsection (b)(2) of this section, and one Trustee appointed pursuant to subsection (b)(3) of this section shall each serve six years; and
+&emsp;&emsp;(iii) as designated by the President, one Trustee appointed pursuant to subsection (b)(1) of this section, one Trustee appointed pursuant to subsection (b)(2) of this section, and one Trustee appointed pursuant to subsection (b)(3) of this section shall each serve six years;
 
-&emsp;(B) a Trustee appointed to fill a vacancy shall serve for the remainder of the term for which the Trustee's predecessor was appointed and shall be appointed in the same manner as the original appointment for that vacancy was made.
+&emsp;(B) a Trustee appointed to fill a vacancy shall serve for the remainder of the term for which the Trustee's predecessor was appointed and shall be appointed in the same manner as the original appointment for that vacancy was made; and
+
+&emsp;(C) a Trustee may serve after the expiration of the Trustee's term until a successor has been chosen.
 
 #### (d) Travel and subsistence pay
 
@@ -58,7 +60,11 @@ The Foundation shall be located in Tucson, Arizona.
 
 &emsp;The Executive Director of the Foundation shall be compensated at the rate specified for employees in level IV of the Executive Schedule under section 5315 of title 5.
 
-(Pub. L. 102–259, §5, Mar. 19, 1992, 106 Stat. 79.)
+(Pub. L. 102–259, §5, Mar. 19, 1992, 106 Stat. 79; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §655\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–369.)
+
+#### Amendments
+
+1996—Subsec. (c)(1)(C). Pub. L. 104–208 added subpar. (C).
 
 #### Section Referred to in Other Sections
 

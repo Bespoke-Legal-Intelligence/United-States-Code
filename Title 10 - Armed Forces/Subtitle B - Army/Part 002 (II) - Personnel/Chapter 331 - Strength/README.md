@@ -2,13 +2,16 @@
 
 | Sec. |  |
 | :--- | ---: |
-| \[3201 to 3207, 3209. Repealed.\] |  |
+| [3201\.](%C2%A7%2003201%20-%20Officers%20on%20active%20duty%20minimum%20strength%20based%20on%20requirements.md) | Officers on active duty: minimum strength based on requirements. |
+| \[3202 to 3207, 3209. Repealed.\] |  |
 | [3210\.](%C2%A7%2003210%20-%20Regular%20Army%20strength%20in%20grade%3B%20general%20officers.md) | Regular Army: strength in grade; general officers. |
 | \[3211 to 3225, 3230. Repealed.\] |  |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1996—Pub. L. 104–106, div. A, title V, §505(a)(2), Feb. 10, 1996, 110 Stat. 296, added item 3201.
 
 1994—Pub. L. 103–337, div. A, title XVI, §1672(b)(2), Oct. 5, 1994, 108 Stat. 3015, struck out items 3212 “Army Reserve; Army National Guard of the United States: strength in grade; temporary increases”, 3217 “Reserves: commissioned officers in active status”, 3218 “Reserves: strength in grade; general officers in active status”, 3219 “Reserves: strength in grade; commissioned officers in grades below brigadier general in active status”, 3220 “Reserve officers: distribution”, 3221 “Army Reserve”, 3222 “Army Reserve, exclusive of members on active duty”, 3223 “Army Reserve: warrant officers”, 3224 “Army National Guard of United States”, and 3225 “Army National Guard and Army National Guard of United States, exclusive of members on active duty”.
 
@@ -31,7 +34,7 @@ Authorized strength generally, see section 521 et seq. of this title.
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 03201 - Repealed. Pub. L. 96&#8211;513, title II, &sect;202, Dec. 12, 1980, 94 Stat. 2878](%C2%A7%2003201%20-%20Repealed.%20Pub.%20L.%2096%E2%80%93513%2C%20title%20II%2C%20%C2%A7202%2C%20Dec.%2012%2C%201980%2C%2094%20Stat.%202878.md)
+- [&sect; 03201 - Officers on active duty minimum strength based on requirements](%C2%A7%2003201%20-%20Officers%20on%20active%20duty%20minimum%20strength%20based%20on%20requirements.md)
 - [&sect; 03202 - Repealed. Pub. L. 101&#8211;510, div. A, title IV, &sect;403(b)(1)(A), Nov. 5, 1990, 104 Stat. 1545](%C2%A7%2003202%20-%20Repealed.%20Pub.%20L.%20101%E2%80%93510%2C%20div.%20A%2C%20title%20IV%2C%20%C2%A7403%28b%29%281%29%28A%29%2C%20Nov.%205%2C%201990%2C%20104%20Stat.%201545.md)
 - [&sect; 03203 to 3207 - Repealed. Pub. L. 96&#8211;513, title II, &sect;202, Dec. 12, 1980, 94 Stat. 2878](%C2%A7%2003203%20to%203207%20-%20Repealed.%20Pub.%20L.%2096%E2%80%93513%2C%20title%20II%2C%20%C2%A7202%2C%20Dec.%2012%2C%201980%2C%2094%20Stat.%202878.md)
 - [&sect; 03209 - Repealed. Pub. L. 96&#8211;513, title II, &sect;202, Dec. 12, 1980, 94 Stat. 2878](%C2%A7%2003209%20-%20Repealed.%20Pub.%20L.%2096%E2%80%93513%2C%20title%20II%2C%20%C2%A7202%2C%20Dec.%2012%2C%201980%2C%2094%20Stat.%202878.md)

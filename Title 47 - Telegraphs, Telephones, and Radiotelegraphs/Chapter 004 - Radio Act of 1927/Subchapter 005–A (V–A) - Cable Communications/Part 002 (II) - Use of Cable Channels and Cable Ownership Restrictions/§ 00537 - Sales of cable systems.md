@@ -1,34 +1,20 @@
 ### §537. Sales of cable systems
 
-#### (a) 3-year holding period required
+A franchising authority shall, if the franchise requires franchising authority approval of a sale or transfer, have 120 days to act upon any request for approval of such sale or transfer that contains or is accompanied by such information as is required in accordance with Commission regulations and by the franchising authority. If the franchising authority fails to render a final decision on the request within 120 days, such request shall be deemed granted unless the requesting party and the franchising authority agree to an extension of time.
 
-Except as provided in this section, no cable operator may sell or otherwise transfer ownership in a cable system within a 36-month period following either the acquisition or initial construction of such system by such operator.
+(June 19, 1934, ch. 652, title VI, §617, as added Oct. 5, 1992, Pub. L. 102–385, §13, 106 Stat. 1489; amended Feb. 8, 1996, Pub. L. 104–104, title III, §301(i), 110 Stat. 117.)
 
-#### (b) Treatment of multiple transfers
+#### Amendments
 
-In the case of a sale of multiple systems, if the terms of the sale require the buyer to subsequently transfer ownership of one or more such systems to one or more third parties, such transfers shall be considered a part of the initial transaction.
+1996—Pub. L. 104–104 redesignated subsec. (e) as entire section, substituted “A franchising authority” for “
 
-#### (c) Exceptions
-
-Subsection (a) of this section shall not apply to—
-
-&emsp;(1) any transfer of ownership interest in any cable system which is not subject to Federal income tax liability;
-
-&emsp;(2) any sale required by operation of any law or any act of any Federal agency, any State or political subdivision thereof, or any franchising authority; or
-
-&emsp;(3) any sale, assignment, or transfer, to one or more purchasers, assignees, or transferees controlled by, controlling, or under common control with, the seller, assignor, or transferor.
-
-#### (d) Waiver authority
-
-The Commission may, consistent with the public interest, waive the requirement of subsection (a) of this section, except that, if the franchise requires franchise authority approval of a transfer, the Commission shall not waive such requirements unless the franchise authority has approved the transfer. The Commission shall use its authority under this subsection to permit appropriate transfers in the cases of default, foreclosure, or other financial distress.
-
-#### (e) Limitation on duration of franchising authority power to disapprove transfers
-
-In the case of any sale or transfer of ownership of any cable system after the 36-month period following acquisition of such system, a franchising authority shall, if the franchise requires franchising authority approval of a sale or transfer, have 120 days to act upon any request for approval of such sale or transfer that contains or is accompanied by such information as is required in accordance with Commission regulations and by the franchising authority. If the franchising authority fails to render a final decision on the request within 120 days, such request shall be deemed granted unless the requesting party and the franchising authority agree to an extension of time.
-
-(June 19, 1934, ch. 652, title VI, §617, as added Oct. 5, 1992, Pub. L. 102–385, §13, 106 Stat. 1489.)
+Limitation on Duration of Franchising Authority Power To Disapprove Transfers.—In the case of any sale or transfer of ownership of any cable system after the 36-month period following acquisition of such system, a franchising authority”, and struck out subsecs. (a) to (d) which related to three-year holding period requirement, treatment of multiple transfers, exceptions to holding requirement, and waiver authority.
 
 #### Effective Date
 
 Section effective 60 days after Oct. 5, 1992, see section 28 of Pub. L. 102–385, set out as an Effective Date of 1992 Amendment note under section 325 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 573 of this title.
 

@@ -14,7 +14,7 @@ The purpose of this subpart is to assist, through matching grants, in the planni
 
 #### Effective Date of 1978 Amendment
 
-Section 403 of Pub. L. 95–567 provided that: “The provisions of this Act \[enacting section 395 of this title,amending this section and sections 391, 392, 393, 394, and 396 to 398 of this title, repealing sections 392a and 395 of this title, and enacting provisions set out as notes under this section, sections 392 and 396 of this title, and section 5316 of Title 5, Government Organization and Employees\], and the amendments made by this Act, shall take effect on the date of the enactment of this Act \[Nov. 2, 1978\].”
+Section 403 of Pub. L. 95–567 provided that: “The provisions of this Act \[enacting section 395 of this title, amending this section and sections 391, 392, 393, 394, and 396 to 398 of this title, repealing sections 392a and 395 of this title, and enacting provisions set out as notes under this section, sections 392 and 396 of this title, and section 5316 of Title 5, Government Organization and Employees\], and the amendments made by this Act, shall take effect on the date of the enactment of this Act \[Nov. 2, 1978\].”
 
 #### Grants
 

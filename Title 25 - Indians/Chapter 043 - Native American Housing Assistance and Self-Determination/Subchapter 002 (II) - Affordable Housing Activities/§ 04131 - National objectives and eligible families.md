@@ -1,0 +1,56 @@
+### §4131. National objectives and eligible families
+
+#### (a) Primary objective
+
+The national objectives of this chapter are—
+
+&emsp;(1) to assist and promote affordable housing activities to develop, maintain, and operate affordable housing in safe and healthy environments on Indian reservations and in other Indian areas for occupancy by low-income Indian families;
+
+&emsp;(2) to ensure better access to private mortgage markets for Indian tribes and their members and to promote self-sufficiency of Indian tribes and their members;
+
+&emsp;(3) to coordinate activities to provide housing for Indian tribes and their members with Federal, State, and local activities to further economic and community development for Indian tribes and their members;
+
+&emsp;(4) to plan for and integrate infrastructure resources for Indian tribes with housing development for tribes; and
+
+&emsp;(5) to promote the development of private capital markets in Indian country and to allow such markets to operate and grow, thereby benefiting Indian communities.
+
+#### (b) Eligible families
+
+#### (1) In general
+
+&emsp;Except as provided under paragraph (2), assistance under eligible housing activities under this chapter shall be limited to low-income Indian families on Indian reservations and other Indian areas.
+
+#### (2) Exception to low-income requirement
+
+&emsp;A recipient may provide assistance for homeownership activities under section 4132(2) of this title, model activities under section 4132(6) of this title, or loan guarantee activities under subchapter VI of this chapter to Indian families who are not low-income families, to the extent that the Secretary approves the activities pursuant to such section or subchapter because there is a need for housing for such families that cannot reasonably be met without such assistance. The Secretary shall establish limits on the amount of assistance that may be provided under this chapter for activities for families who are not low-income families.
+
+#### (3) Non-Indian families
+
+&emsp;Notwithstanding paragraph (1), a recipient may provide housing or housing assistance provided through affordable housing activities assisted with grant amounts under this chapter for a non-Indian family on an Indian reservation or other Indian area if the recipient determines that the presence of the family on the Indian reservation or other Indian area is essential to the well-being of Indian families and the need for housing for the family cannot reasonably be met without such assistance.
+
+#### (4) Preference for tribal members and other Indian families
+
+&emsp;The Indian housing plan for an Indian tribe may require preference, for housing or housing assistance provided through affordable housing activities assisted with grant amounts provided under this chapter on behalf of such tribe, to be given (to the extent practicable) to Indian families who are members of such tribe, or to other Indian families. In any case in which the applicable Indian housing plan foran Indian tribe provides for preference under this paragraph, the recipient for the tribe shall ensure that housing activities that are assisted with grant amounts under this chapter for such tribe are subject to such preference.
+
+#### (5) Exemption
+
+&emsp;Title VI of the Civil Rights Act of 1964 \[42 U.S.C. 2000d et seq.\] and title VIII of the Civil Rights Act of 1968 \[42 U.S.C. 3601 et seq.\] shall not apply to actions by Indian tribes under this subsection.
+
+(Pub. L. 104–330, title II, §201, Oct. 26, 1996, 110 Stat. 4031.)
+
+#### References in Text
+
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 104–330, Oct. 26, 1996, 110 Stat. 4016, known as the Native American Housing Assistance and Self-Determination Act of 1996. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of this title and Tables.
+
+The Civil Rights Act of 1964, referred to in subsec. (b)(5), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended. Title VI of the Act is classified generally to subchapter V (§2000d et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
+
+The Civil Rights Act of 1968, referred to in subsec. (b)(5), is Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 73, as amended. Title VIII of the Act, known as the Fair Housing Act, is classified principally to subchapter I (§3601 et seq.) of chapter 45 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of Title 42 and Tables.
+
+#### Effective Date
+
+Section effective Oct. 1, 1997, except as otherwise expressly provided, see section 107 of Pub. L. 104–330, set out as a note under section 4101 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 4135 of this title.
+

@@ -30,19 +30,31 @@ The provisions of section 1278(a) of this title,<sup>2</sup> shall apply to the 
 
 &emsp;In addition, in order to provide reasonable public access and vehicle parking for public use and enjoyment of the recreation area, consistent with the preservation and enhancement of the natural and scenic values of the recreation area, the Secretary may, with the consent of the owner thereof, acquire such lands and interests in lands to construct such parking and related facilities at other appropriate locations outside the boundaries of, but within one mile of the recreation area as may be necessary and appropriate. Any such lands shall be managed in accordance with the management provisions for the recreation area as defined in subsection (a) of this section.
 
+#### (4) Access to river
+
+&emsp;(A) In order to facilitate public safety, use, and enjoyment of the recreation area, and to protect, to the maximum extent feasible, the scenic and natural resources of the area, the Secretary is authorized and directed to acquire such lands or interests in lands and to take such actions as are necessary to provide access by noncommercial entities on the north side of the Gauley River at the area known as Woods Ferry utilizing existing roads and rights-of-way. Such actions by the Secretary shall include the construction of parking and related facilities in the vicinity of Woods Ferry for noncommercial use on lands acquired pursuant to paragraph (3) or on lands acquired with the consent of the owner thereof within the boundaries of the recreation area.
+
+&emsp;(B) If necessary, in the discretion of the Secretary, in order to minimize environmental impacts, including visual impacts, within portions of the recreation area immediately adjacent to the river, the Secretary may, by contract or otherwise, provide transportation services for noncommercial visitors, at reasonable cost, between such parking facilities and the river.
+
+&emsp;(C) Nothing in subparagraph (A) shall affect the rights of any person to continue to utilize, pursuant to a lease in effect on April 1, 1993, any right of way acquired pursuant to such lease which authorizes such person to use an existing road referred to in subparagraph (A). Except as provided under paragraph (2) relating to access immediately downstream of the Summersville project, until there is compliance with this paragraph the Secretary is prohibited from acquiring or developing any other river access points within the recreation area.
+
 #### (f) Properties and facilities of Federal agencies
 
-After consultation with any other Federal agency managing lands and waters within or contiguous to the recreation area, the Secretary shall enter into a memorandum of understanding with such other Federal agency to identify those areas within the recreation area which are (1) under the administrative jurisdiction of such other agency; (2) directly related to the operation of the Summersville project; and (3) essential to the operation of such project. The memorandum of understanding shall also include provisions regarding the management of all such lands and waters in a manner consistent with the operation of such project and the management of the recreation area.
+After consultation with any other Federal agency managing lands and waters within orcontiguous to the recreation area, the Secretary shall enter into a memorandum of understanding with such other Federal agency to identify those areas within the recreation area which are (1) under the administrative jurisdiction of such other agency; (2) directly related to the operation of the Summersville project; and (3) essential to the operation of such project. The memorandum of understanding shall also include provisions regarding the management of all such lands and waters in a manner consistent with the operation of such project and the management of the recreation area.
 
-(Pub. L. 100–534, title II, §202, Oct. 26, 1988, 102 Stat. 2702.)
+(Pub. L. 100–534, title II, §202, Oct. 26, 1988, 102 Stat. 2702; Pub. L. 104–333, div. I, title IV, §406(c)(2), Nov. 12, 1996, 110 Stat. 4150.)
 
 #### References in Text
 
 This Act, referred to in subsecs. (a) and (b), is Pub. L. 100–534, Oct. 26, 1988, 102 Stat. 2699, known as the West Virginia National Interest River Conservation Act of 1987, which enacted this subchapter and sections 460m–26 to 460m–29 of this title, amended sections 460m–15 and 1274 of this title, and enacted provisions set out as notes under sections 460m–15 and 1274 of this title. For complete classification of this Act to the Code, see Short Title of 1988 Amendment note set out under section 460m–15 of this title and Tables.
 
+#### Amendments
+
+1996—Subsec. (e)(4). Pub. L. 104–333 added par. (4).
+
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 460ww–2, 460ww–4 of this title.
+This section is referred to in sections 460m–30, 460ww–2, 460ww–4 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a period.</i>
 

@@ -32,7 +32,7 @@ It is the purpose of this chapter to—
 
 &emsp;(6) expand and strengthen existing service programs with demonstrated experience in providing structured service opportunities with visible benefits to the participants and community;
 
-&emsp;(7) build on the existing organizational service infrastructure of Federal, State, and localprograms and agencies to expand full-time and part-time service opportunities for all citizens; and
+&emsp;(7) build on the existing organizational service infrastructure of Federal, State, and local programs and agencies to expand full-time and part-time service opportunities for all citizens; and
 
 &emsp;(8) provide tangible benefits to the communities in which national service is performed.
 
@@ -40,7 +40,7 @@ It is the purpose of this chapter to—
 
 #### References in Text
 
-This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, as amended, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, as amended, which is classified principally to this chapter. For complete classification ofthis Act to the Code, see Short Title note set out below and Tables.
 
 #### Amendments
 
@@ -72,7 +72,7 @@ Section 301 of title III of Pub. L. 101–610 provided that: “This title \[ena
 
 #### Compliance With Buy American Act
 
-Section 501 of Pub. L. 103–82 provided that: “No funds appropriated pursuant to this Act \[see Tables for classification\] (including the amendments made by this Act) may be expended by an entity unless the entity agrees that in expending the assistance the entity will comply with sections 2 through 4 of the Act of March 3, 1933 (41 U.S.C. 10a–10c \[41 U.S.C. 10a, 10b, 10b–1\], popularly known as the ‘Buy American Act’).”
+Section 501 of Pub. L. 103–82 provided that: “No funds appropriated pursuant to this Act \[see Tables for classification\] (including the amendments made by this Act) may be expended by an entity unless the entity agrees that in expending the assistance the entity will comply with sections 2 through 4 of the Act of March 3, 1933 (41 U.S.C. 10a–10c \[41 U.S.C. 10a, 10b, former 10b–1\], popularly known as the ‘Buy American Act’).”
 
 #### Sense of Congress; Requirement Regarding Notice
 

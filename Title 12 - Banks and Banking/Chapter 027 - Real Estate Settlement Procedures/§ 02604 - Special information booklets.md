@@ -18,7 +18,7 @@ Each booklet shall be in such form and detail as the Secretary shall prescribe a
 
 &emsp;(5) an explanation of the unfair practices and unreasonable or unnecessary charges to be avoided by the prospective buyer with respect to a real estate settlement.
 
-> Such booklets shall take into consideration differences in real estate settlement procedureswhich may exist among the several States and territories of the United States and among separate political subdivisions within the same State and territory.
+> Such booklets shall take into consideration differences in real estate settlement procedures which may exist among the several States and territories of the United States and among separate political subdivisions within the same State and territory.
 
 #### (c) Estimate of charges
 
@@ -46,5 +46,5 @@ Amendment by Pub. L. 94–205 effective Jan. 2, 1976, with the Secretary authori
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2607, 2613 of this title.
+This section is referred to in section 2607 of this title.
 

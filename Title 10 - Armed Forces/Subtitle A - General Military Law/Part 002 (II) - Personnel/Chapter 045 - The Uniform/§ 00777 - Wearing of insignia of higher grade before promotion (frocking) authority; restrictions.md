@@ -1,0 +1,46 @@
+### §777. Wearing of insignia of higher grade before promotion (frocking): authority; restrictions
+
+(a)
+
+Authority.—An officer who has been selected for promotion to the next higher grade may be authorized, under regulations and policies of the Department of Defense and subject to subsection (b), to wear the insignia for that next higher grade. An officer who is so authorized to wear the insignia of the next higher grade is said to be “frocked” to that grade.
+
+(b)
+
+Restrictions.—An officer may not be authorized to wear the insignia for a grade as described in subsection (a) unless—
+
+&emsp;(1) the Senate has given its advice and consent to the appointment of the officer to that grade; and
+
+&emsp;(2) the officer is serving in, or has received orders to serve in, a position for which that grade is authorized.
+
+(c)
+
+Benefits Not To Be Construed as Accruing.—(1) Authority provided to an officer as described in subsection (a) to wear the insignia of the next higher grade may not be construed as conferring authority for that officer to—
+
+&emsp;(A) be paid the rate of pay provided for an officer in that grade having the same number of years of service as that officer; or
+
+&emsp;(B) assume any legal authority associated with that grade.
+
+(2) The period for which an officer wears the insignia of the next higher grade under such authority may not be taken into account for any of the following purposes:
+
+&emsp;(A) Seniority in that grade.
+
+&emsp;(B) Time of service in that grade.
+
+(d)
+
+Limitation on Number of Officers Frocked to Specified Grades.—(1) The total number of colonels and Navy captains on the active-duty list who are authorized as described in subsection (a) to wear the insignia for the grade of brigadier general or rear admiral (lower half), as the case may be, may not exceed the following:
+
+&emsp;(A) During fiscal years 1996 and 1997, 75.
+
+&emsp;(B) During fiscal year 1998, 55.
+
+&emsp;(C) After fiscal year 1998, 35.
+
+(2) The number of officers of an armed force on the active-duty list who are authorized as described in subsection (a) to wear the insignia for a grade to which a limitation on total number applies under section 523(a) of this title for a fiscal year may not exceed 1 percent of the total number provided for the officers in that grade in that armed force in the administration of the limitation under that section for that fiscal year.
+
+(Added Pub. L. 104–106, div. A, title V, §503(a)(1), Feb. 10, 1996, 110 Stat. 294.)
+
+#### Temporary Variation of Limitations on Numbers of Frocked Officers
+
+Section 503(b) of Pub. L. 104–106 provided that: “In the administration of section 777(d)(2) of title 10, United States Code (as added by subsection (a)), the percent limitation applied under that section for fiscal year 1996 shall be 2 percent (instead of 1 percent).”
+

@@ -4,7 +4,7 @@
 
 (b) The notice referred to in subsection (a) shall consist of—
 
-&emsp;(1) the words “mask force”,<sup>1</sup> the sumbol <sup>2</sup> \*M\*, or the symbol M (the letter M in a circle); and
+&emsp;(1) the words “mask force”,<sup>1</sup> the sumbol <sup>2</sup> \*M\*, or the symbol (M) (the letter M in a circle); and
 
 &emsp;(2) the name of the owner or owners of the mask work or an abbreviation by which the name is recognized or is generally known.
 

@@ -40,7 +40,7 @@ Pub. L. 101–440, §1, Oct. 18, 1990, 104 Stat. 1006, provided that: “This Ac
 
 Pub. L. 101–383, §1, Sept. 15, 1990, 104 Stat. 727, provided that: “This Act \[enacting sections 6249 to 6249c of this title, amending sections 6202, 6232, 6239 to 6241, 6247, 6251, and 6285 of this title, and amending provisions set out as a note under section 2071 of Title 50, Appendix, War and National Defense\] may be referred to as the ‘Energy Policy and Conservation Act Amendments of 1990’.”
 
-Pub. L. 101–360, §1, Aug. 10, 1990, 104 Stat. 421, provided: “That this Act \[amending sections 6251 and 6285of this title and provisions set out as a note under section 2071 of Title 50, Appendix, War and National Defense\] may be referred to as the ‘Energy Policy and Conservation Act Short-Term Extension Amendment of 1990’.”
+Pub. L. 101–360, §1, Aug. 10, 1990, 104 Stat. 421, provided: “That this Act \[amending sections 6251 and 6285 of this title and provisions set out as a note under section 2071 of Title 50, Appendix, War and National Defense\] may be referred to as the ‘Energy Policy and Conservation Act Short-Term Extension Amendment of 1990’.”
 
 Pub. L. 101–262, §1, Mar. 31, 1990, 104 Stat. 124, provided: “That this Act \[amending sections 6251 and 6285 of this title and provisions set out as a note under section 2071 of Title 50, Appendix, War and National Defense\] may be referred to as the ‘Energy Policy and Conservation Act Extension Amendment of 1990’.”
 
@@ -114,7 +114,7 @@ Secs. 7 and 8. Revoked by Ex. Ord. No. 12919, §904(a)(7), June 3, 1994, 59 F.R.
 
 Sec. 9. All orders, regulations, circulars or other directives issued and all other action taken prior to the date of this order that would be valid under the authority delegated by this Order, are hereby confirmed and ratified and shall be deemed to have been issued under this order.
 
-Sec. 10. (a)(1) The Secretary of Energy, hereinafter referred to as the Secretary, shall develop, with the concurrence of the Director of the Office of Management and Budget, and in consultation with the Secretary of Defense, the Secretary of Housing and Urban Development, the Administrator of Veterans’ Affairs, the Administrator of General Services, and the heads of such other Executive agencies as he deems appropriate, the ten-year plan for energy conservation with respect to Government buildings, as provided by section 381(a)(2) of the Energy Policy and Conservation Act (42 U.S.C. 6361(a)(2)).
+Sec. 10. (a)(1) The Secretary of Energy, hereinafter referred to as the Secretary, shall develop, with theconcurrence of the Director of the Office of Management and Budget, and in consultation with the Secretary of Defense, the Secretary of Housing and Urban Development, the Administrator of Veterans’ Affairs, the Administrator of General Services, and the heads of such other Executive agencies as he deems appropriate, the ten-year plan for energy conservation with respect to Government buildings, as provided by section 381(a)(2) of the Energy Policy and Conservation Act (42 U.S.C. 6361(a)(2)).
 
 (2) The goals established in subsection (b) shall apply to the following categories of Federally-owned buildings: (i) office buildings, (ii) hospitals, (iii) schools, (iv) prison facilities, (v) multi-family dwellings, (vi) storage facilities, and (vii) such other categories of buildings for which the Administrator determines the establishment of energy-efficiency performance goals is feasible.
 
@@ -130,7 +130,7 @@ Sec. 10. (a)(1) The Secretary of Energy, hereinafter referred to as the Secretar
 
 (e)(1) The head of each Executive agency that maintains any existing building or will maintain any new building shall submit no later than six months after the issuance of guidelines pursuant to subsection (d), to the Secretary a ten-year plan designed to the maximum extent practicable to meet the goals in subsection (b) for the total of existing or new Federal buildings. Such ten-year plans shall only consider improvements that are cost-effective consistent with the criteria established by the Director of the Office of Management and Budget (OMB Circular A–94) and the method established pursuant to subsection (c) of this Section. The plan submitted shall specify appropriate energy-saving initiatives and shall estimate the expected improvements by fiscal year in terms of specific accomplishments—energy savings and cost savings—together with the estimated costs of achieving the savings.
 
-(2) The plans submitted shall, to the maximum extent practicable, include the results of preliminary energyaudits of all existing buildings with over 30,000 gross square feet of space owned and maintained by Executive agencies. Further, the second annual report submitted under subsection (g)(2) of this Section shall, to the maximum extent practicable, include the results of preliminary energy audits of all existing buildings with more than 5,000 but not more than 30,000 gross square feet of space. The purpose of such preliminary energy audits shall be to identify the type, size, energy use level and major energy using systems of existing Federal buildings.
+(2) The plans submitted shall, to the maximum extent practicable, include the results of preliminary energy audits of all existing buildings with over 30,000 gross square feet of space owned and maintained by Executive agencies. Further, the second annual report submitted under subsection (g)(2) of this Section shall, to the maximum extent practicable, include the results of preliminary energy audits of all existing buildings with more than 5,000 but not more than 30,000 gross square feet of space. The purpose of such preliminary energy audits shall be to identify the type, size, energy use level and major energy using systems of existing Federal buildings.
 
 (3) The Secretary shall evaluate agency plans relative to the guidelines established pursuant to subsection (d) for such plans and relative to the cost estimating method established pursuant to subsection (c). Plans determined to be deficient by the Secretary will be returned to the submitting agency head for revision and resubmission within 60 days.
 
@@ -156,7 +156,7 @@ Sec. 10. (a)(1) The Secretary of Energy, hereinafter referred to as the Secretar
 
 Ex. Ord. No. 12759, Apr. 17, 1991, 56 F.R. 16257, as amended by Ex. Ord. No. 12902, §701, Mar. 8, 1994, 59 F.R. 11471, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Energy Policy and Conservation Act, as amended (Public Law 94–163, 89 Stat. 871, 42 U.S.C. 6201 <i>et seq.)</i>, the Motor Vehicle Information and Cost Savings Act, as amended (15 U.S.C. 1901 <i>et seq.)</i>, section 205(a) of the Federal Property and Administrative Services Act, as amended (40 U.S.C. 486(a)), and section 301 of title 3 of the United States Code, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Energy Policy and Conservation Act, as amended (Public Law 94–163, 89 Stat. 871, 42 U.S.C. 6201 <i>et seq</i>.), the Motor Vehicle Information and Cost Savings Act, as amended (15 U.S.C. 1901 <i>et seq</i>.), section 205(a) of the Federal Property and Administrative Services Act, as amended (40 U.S.C. 486(a)), and section 301 of title 3 of the United States Code, it is hereby ordered as follows:
 
 \[
 
@@ -218,7 +218,7 @@ Sec. 111. The term “industrial facilities” means any fixed equipment, buildi
 
 Sec. 112. The term “life cycle cost” refers to life cycle cost calculated pursuant to the methodology established by 10 CFR 436.11.
 
-Sec. 113. The term “prioritization survey” means a rapid assessment that will be used by an agency to identify those facilities with the highest priority projects based on the degree of cost effectiveness and to schedule comprehensive facility audits prior to project implementation. The prioritization survey shall include information such as the following:
+Sec. 113. The term “prioritization survey” means a rapid assessment that will be used by an agency to identify those facilities with the highest priority projects based on the degree of cost effectiveness and toschedule comprehensive facility audits prior to project implementation. The prioritization survey shall include information such as the following:
 
 (a) the type, size, energy and water use levels of the major energy and water using systems in place at the facility; and
 
@@ -262,7 +262,7 @@ Sec. 304. <i>Solar and Other Renewable Energy</i>. The goal of the Federal Gover
 
 Sec. 305. <i>Minimization of Petroleum-Based Fuel Use in Federal Buildings and Facilities</i>. All agencies shall develop and implement programs to reduce the use of petroleum in their buildings and facilities by switching to a less-polluting and nonpetroleum-based energy source, such as natural gas or solar and other renewable energy sources. Where alternative fuels are not practical or cost-effective, agencies shall strive to improve the efficiency with which they use the petroleum. Each agency shall survey its buildings and facilities that utilize petroleum-based fuel systems to determine where the potential for a dual-fuel capability exists and shall provide dual-fuel capability where cost-effective and practicable.
 
-Sec. 306. <i>New Space</i>. (a) <i>New Federal Facility Construction</i>. Each agency involved in the construction of a new facility that is to be either owned by or leased to the Federal Government shall:
+Sec. 306. <i>New Space</i>. (a) <i>New Federal Facility Construction</i>. Each agency involved in the construction of a newfacility that is to be either owned by or leased to the Federal Government shall:
 
 &emsp;(1) design and construct such facility to minimize the life cycle cost of the facility by utilizing energy efficiency, water conservation, or solar or other renewable energy technologies;
 
@@ -286,7 +286,7 @@ Sec. 308. <i>Annual Reporting Requirements</i>. (a) As required under the Act, t
 
 Sec. 309. <i>Report on Full Fuel Cycle Analysis</i>. DOE shall prepare a report on the issues involved in instituting life cycle analysis for Federal energy and product purchases that address the full fuel cycle costs, including issues concerning energy exploration, development, processing, transportation, storage, distribution, consumption, and disposal, and related impacts on the environment. The report shall examine methods for conducting life cycle analysis and implementing such analysis in the Federal sector and shall make appropriate recommendations. The report shall be forwarded to the President for review.
 
-Sec. 310. <i>Agency Accountability</i>. One year after the date of this order, and every 2 years thereafter, the President's Management Council shall report to thePresident about efforts and actions by agencies to meet the requirements of this order. In addition, each agency head shall designate a senior official, at the Assistant Secretary level or above, to be responsible for achieving the requirements of this order and shall appoint such official to the 656 Committee. The 656 Committee shall also work to ensure the implementation of this order. The agency senior official and the 656 Committee shall coordinate implementation with the Federal Environmental Executive and Agency Environmental Executives established under Executive Order No. 12873 \[42 U.S.C. 6961 note\].
+Sec. 310. <i>Agency Accountability</i>. One year after the date of this order, and every 2 years thereafter, the President's Management Council shall report to the President about efforts and actions by agencies to meet the requirements of this order. In addition, each agency head shall designate a senior official, at the Assistant Secretary level or above, to be responsible for achieving the requirements of this order and shall appoint such official to the 656 Committee. The 656 Committee shall also work to ensure the implementation of this order. The agency senior official and the 656 Committee shall coordinate implementation with the Federal Environmental Executive and Agency Environmental Executives established under Executive Order No. 12873 \[42 U.S.C. 6961 note\].
 
 #### PART 4—USE OF INNOVATIVE FINANCING AND CONTRACTUAL MECHANISMS
 
@@ -308,7 +308,7 @@ Sec. 501. <i>Technical Assistance</i>. (a) To assist Federal energy managers in 
 
 &emsp;(4) the capabilities and technologies available through the national energy laboratories; and
 
-&emsp;(5) an annually-updated guidance manual for Federal energy managers that includes, at a minimum, new sample contracts or contract provisions, position descriptions, case studies, recent guidance, and success stories.
+&emsp;(5) an annually-updated guidance manual for Federal energy managers that includes, at a minimum,new sample contracts or contract provisions, position descriptions, case studies, recent guidance, and success stories.
 
 (b) The Secretary of Energy, in coordination with the Administrator of General Services, shall make available through the Task Force, within 180 days of the date of this order:
 
@@ -338,7 +338,7 @@ Sec. 501. <i>Technical Assistance</i>. (a) To assist Federal energy managers in 
 
 (j) The lists, guidelines, and services in this section of the order shall be updated periodically.
 
-Sec. 502. <i>Retention of Savings and Rebates</i>. (a) Within a reasonable time after the date of this order, the Director of OMB, along with the Secretary of Energy, the Secretary of Defense, and the Administrator of General Services, to the extent practicable and permitted by law, shall develop guidelines and implement procedures to allow agencies, in fiscal year 1995 and beyond, to retain utility rebates and incentives received by the agency and savings from energy efficiency and waterconservation efforts as provided in section 152 of the Energy Policy Act of 1992 \[enacting sections 8258a and 8258b of this title, amending sections 8252 to 8256, 8258, and 8259 of this title, and repealing provisions set out as a note under section 8253 of this title\] and 10 U.S.C. 2865 and 2866.
+Sec. 502. <i>Retention of Savings and Rebates</i>. (a) Within a reasonable time after the date of this order, the Director of OMB, along with the Secretary of Energy, the Secretary of Defense, and the Administrator of General Services, to the extent practicable and permitted by law, shall develop guidelines and implement procedures to allow agencies, in fiscal year 1995 and beyond, to retain utility rebates and incentives received by the agency and savings from energy efficiency and water conservation efforts as provided in section 152 of the Energy Policy Act of 1992 \[enacting sections 8258a and 8258b of this title, amending sections 8252 to 8256, 8258, and 8259 of this title, and repealing provisions set out as a note under section 8253 of this title\] and 10 U.S.C. 2865 and 2866.
 
 Sec. 503. <i>Performance Evaluations</i>. To recognize the responsibilities of facility managers, designers, energy managers, their superiors, and, to the extent practicable and appropriate, others critical to the implementation of this order, heads of agencies shall include successful implementation of energy efficiency, water conservation, and solar and other renewable energy projects in their position descriptions and performance evaluations.
 

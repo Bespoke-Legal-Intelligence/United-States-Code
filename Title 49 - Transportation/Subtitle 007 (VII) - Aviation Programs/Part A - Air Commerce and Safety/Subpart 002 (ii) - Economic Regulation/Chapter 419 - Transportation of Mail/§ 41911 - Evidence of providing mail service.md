@@ -10,7 +10,9 @@ When and in the form required by the United States Postal Service, an air carrie
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

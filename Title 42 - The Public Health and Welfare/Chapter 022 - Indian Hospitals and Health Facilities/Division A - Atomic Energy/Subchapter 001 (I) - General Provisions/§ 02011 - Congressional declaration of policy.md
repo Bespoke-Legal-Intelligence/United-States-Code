@@ -12,6 +12,10 @@ Atomic energy is capable of application for peaceful as well as military purpose
 
 Provisions similar to those comprising this section were contained in section 1 of act Aug. 1, 1946, ch. 724, 60 Stat. 755, which was classified to section 1801 of this title, prior to the general amendment and renumbering of act Aug. 1, 1946, by act Aug. 30, 1954.
 
+#### Short Title of 1996 Amendment
+
+Pub. L. 104–134, title III, §3101, Apr. 26, 1996, 110 Stat. 1321–335, provided that: “This subchapter \[subch. A (§§3101–3117) of ch. 1 of title III of Pub. L. 104–134, enacting sections 2297h to 2297h–13 of this title, amending sections 2014, 2239, 2243, 2282, 2296b–7, 2297f, and 2297f–1 of this title and section 9101 of Title 31, Money and Finance, repealing sections 2297 to 2297e–7 of this title, and enacting provisions set out as notes under section 2297 of this title and section 9101 of Title 31\] may be cited as the ‘USEC Privatization Act’.”
+
 #### Short Title of 1988 Amendment
 
 Pub. L. 100–408, §1, Aug. 20, 1988, 102 Stat. 1066, provided that: “This Act \[enacting section 2282a of this title, amending sections 2014, 2210, and 2273 of this title, and enacting provisions set out as notes under sections 2014 and 2210 of this title\] may be cited as the ‘Price-Anderson Amendments Act of 1988’.”

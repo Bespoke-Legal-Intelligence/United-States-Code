@@ -26,7 +26,7 @@
 - [&sect; 01656 - Extent of authority](%C2%A7%2001656%20-%20Extent%20of%20authority.md)
 - [10](10.md)
 - [&sect; 01691 - United States policy](%C2%A7%2001691%20-%20United%20States%20policy.md)
-- [&sect; 01691a - Global food aid needs](%C2%A7%2001691a%20-%20Global%20food%20aid%20needs.md)
+- [&sect; 01691a - Food aid to developing countries](%C2%A7%2001691a%20-%20Food%20aid%20to%20developing%20countries.md)
 - [Subchapter 001 (I) - Barter](Subchapter%20001%20%28I%29%20-%20Barter/README.md)
 - [Subchapter 002 (II) - Trade and Development Assistance](Subchapter%20002%20%28II%29%20-%20Trade%20and%20Development%20Assistance/README.md)
 - [Subchapter 003 (III) - Emergency and Private Assistance Programs](Subchapter%20003%20%28III%29%20-%20Emergency%20and%20Private%20Assistance%20Programs/README.md)

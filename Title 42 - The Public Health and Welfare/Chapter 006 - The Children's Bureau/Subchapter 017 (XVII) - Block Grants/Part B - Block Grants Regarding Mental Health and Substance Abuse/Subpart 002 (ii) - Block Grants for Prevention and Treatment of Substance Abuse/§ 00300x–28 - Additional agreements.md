@@ -16,7 +16,7 @@ A funding agreement for a grant under section 300x–21 of this title is that th
 
 #### (1) In general
 
-&emsp;Upon the request of a State, the Secretary may provide to a State a waiver of any or all of the requirements established in this section if the Secretary determines that, with respect to services for the prevention and treatment of substance abuse, the requirement involved is unnecessary for maintaining quality in the provision of such services in the State.
+&emsp;Upon the request of a State, the Secretary may provide to a State a waiver of any or allof the requirements established in this section if the Secretary determines that, with respect to services for the prevention and treatment of substance abuse, the requirement involved is unnecessary for maintaining quality in the provision of such services in the State.
 
 #### (2) Date certain for acting upon request
 

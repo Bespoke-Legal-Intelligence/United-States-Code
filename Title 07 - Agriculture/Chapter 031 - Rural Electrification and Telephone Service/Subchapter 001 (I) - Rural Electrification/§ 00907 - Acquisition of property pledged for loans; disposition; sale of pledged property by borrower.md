@@ -14,5 +14,5 @@ No borrower of funds under sections 904 or 922 of this title shall, without the 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 903, 932 of this title.
+This section is referred to in section 932 of this title.
 

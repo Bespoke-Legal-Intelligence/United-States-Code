@@ -8,7 +8,7 @@
 
 &emsp;(1) any requirement of the new source performance standards relating to sulfur dioxide promulgated under section 7411 of this title as of December 8, 1983; and
 
-&emsp;(2) any regulation relating to sulfur dioxide standards or limitations contained in a State implementation plan approved under section 7410 of this title as of December 8, 1983: <i>Provided,</i> That such exemption shall expire eighteen months after December 8, 1983, unless the Administrator determines that such plant is making all emissions reductions practicable to prevent exceedances of the national ambient air quality standards for sulfur dioxide.
+&emsp;(2) any regulation relating to sulfur dioxide standards or limitations contained in a State implementation plan approved under section 7410 of this title as of December 8, 1983: <i>Provided</i>, That such exemption shall expire eighteen months after December 8, 1983, unless the Administrator determines that such plant is making all emissions reductions practicable to prevent exceedances of the national ambient air quality standards for sulfur dioxide.
 
 (July 14, 1955, ch. 360, title III, §325, as added Dec. 8, 1983, Pub. L. 98–213, §11, 97 Stat. 1461; amended Nov. 15, 1990, Pub. L. 101–549, title VIII, §806, 104 Stat. 2689; Nov. 2, 1994, Pub. L. 103–437, §15(s), 108 Stat. 4594.)
 

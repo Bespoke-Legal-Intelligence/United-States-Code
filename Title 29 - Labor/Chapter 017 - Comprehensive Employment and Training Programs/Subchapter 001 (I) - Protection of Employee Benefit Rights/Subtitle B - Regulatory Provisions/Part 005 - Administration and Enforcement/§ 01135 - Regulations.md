@@ -56,7 +56,7 @@ Definitions and Special Rules.—For purposes of this section—
 
 &emsp;“(1) The term ‘real estate entity’ means an entity which, at any time within two years after the closing of its offering period has invested or has contracted to invest at least 75 percent of the value of its net assets available for investment in direct or indirect ownership of ‘real estate assets’ or ‘interests in real property’.
 
-&emsp;“(2) The term ‘real estate asset’ means real property (including an interest in real property) and anyshare of stock or beneficial interest, partnership interest, depository receipt, or any other interest in any other real estate entity.
+&emsp;“(2) The term ‘real estate asset’ means real property (including an interest in real property) and any share of stock or beneficial interest, partnership interest, depository receipt, or any other interest in any other real estate entity.
 
 &emsp;“(3) The term ‘interest in real property’ includes, directly or indirectly, the following:
 

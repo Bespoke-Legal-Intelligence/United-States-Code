@@ -86,7 +86,9 @@ Act
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 5 U.S.C. 2211(b) (less (15)).
 
@@ -102,61 +104,61 @@ The deletion of paragraph (6) of 5 U.S.C. 5313 reflects the abolition of the pos
 
 #### Amendments
 
-<b>1994</b>—Pub. L. 103–325 inserted item relating to Administrator of the Community Development Financial Institutions Fund.
+1994—Pub. L. 103–325 inserted item relating to Administrator of the Community Development Financial Institutions Fund.
 
 Pub. L. 103–296 inserted item relating to Deputy Commissioner of Social Security, Social Security Administration.
 
-<b>1993</b>—Pub. L. 103–160 substituted “Under Secretary of Defense for Acquisition and Technology” for “Under Secretary of Defense for Acquisition”.
+1993—Pub. L. 103–160 substituted “Under Secretary of Defense for Acquisition and Technology” for “Under Secretary of Defense for Acquisition”.
 
-<b>1992</b>—Pub. L. 102–550 inserted item relating to Director of the Office of Federal Housing Enterprise Oversight, Department of Housing and Urban Development.
+1992—Pub. L. 102–550 inserted item relating to Director of the Office of Federal Housing Enterprise Oversight, Department of Housing and Urban Development.
 
-<b>1991</b>—Pub. L. 102–233 substituted “Independent Members, Thrift Depositor Protection Oversight Board” for “Independent Members, Oversight Board, Resolution Trust Corporation”.
+1991—Pub. L. 102–233 substituted “Independent Members, Thrift Depositor Protection Oversight Board” for “Independent Members, Oversight Board, Resolution Trust Corporation”.
 
-<b>1990</b>—Pub. L. 101–576 inserted item relating to Deputy Director for Management, Office of Management and Budget.
+1990—Pub. L. 101–576 inserted item relating to Deputy Director for Management, Office of Management and Budget.
 
 Pub. L. 101–509 inserted items relating to Deputy Secretary of Health and Human Services, Deputy Secretary of the Interior, Deputy Secretary of Education, and Deputy Secretary of Housing and Urban Development.
 
-<b>1989</b>—Pub. L. 101–73 inserted item relating to Independent Members, Oversight Board, Resolution Trust Corporation.
+1989—Pub. L. 101–73 inserted item relating to Independent Members, Oversight Board, Resolution Trust Corporation.
 
-<b>1988</b>—Pub. L. 100–679 inserted item relating to Deputy Director of Office of Management and Budget and struck out item relating to Director of Office of Management and Budget.
+1988—Pub. L. 100–679 inserted item relating to Deputy Director of Office of Management and Budget and struck out item relating to Director of Office of Management and Budget.
 
 Pub. L. 100–527 substituted “Deputy Secretary of Veterans Affairs” for “Administrator of Veterans’ Affairs”.
 
-<b>1987</b>—Pub. L. 100–204 struck out item relating to Ambassadors at Large.
+1987—Pub. L. 100–204 struck out item relating to Ambassadors at Large.
 
-<b>1986</b>—Pub. L. 99–619 inserted item relating to Deputy Secretary of Labor.
+1986—Pub. L. 99–619 inserted item relating to Deputy Secretary of Labor.
 
 Pub. L. 99–348 inserted item relating to Under Secretary of Defense for Acquisition.
 
-<b>1984</b>—Pub. L. 98–216 substituted “Director of the Office of Management and Budget” for “Director of the Bureau of the Budget”.
+1984—Pub. L. 98–216 substituted “Director of the Office of Management and Budget” for “Director of the Bureau of the Budget”.
 
-<b>1983</b>—Pub. L. 98–80 inserted item relating to Administrator of Environmental Protection Agency.
+1983—Pub. L. 98–80 inserted item relating to Administrator of Environmental Protection Agency.
 
 Pub. L. 97–499, §3(1), inserted item relating to Administrator, Federal Highway Administration.
 
-<b>1980</b>—Pub. L. 96–465 inserted item relating to Ambassadors at Large.
+1980—Pub. L. 96–465 inserted item relating to Ambassadors at Large.
 
-<b>1979</b>—Pars. (1)–(24). Pub. L. 96–54 struck out paragraph designations for positions listed herein.
+1979—Pars. (1)–(24). Pub. L. 96–54 struck out paragraph designations for positions listed herein.
 
-<b>1978</b>—Par. (24). Pub. L. 95–454 added par. (24) relating to Director of Office of Personnel Management.
+1978—Par. (24). Pub. L. 95–454 added par. (24) relating to Director of Office of Personnel Management.
 
-<b>1977</b>—Par. (1). Pub. L. 95–140 substituted “Deputy Secretary of Defense” for “Deputy Secretaries of Defense (2)”.
+1977—Par. (1). Pub. L. 95–140 substituted “Deputy Secretary of Defense” for “Deputy Secretaries of Defense (2)”.
 
 Par. (22). Pub. L. 95–91 substituted “Deputy Secretary of Energy” for “Administrator of Energy Research and Development Administration”.
 
-<b>1976</b>—Par. (21). Pub. L. 94–237 struck out par. (21) relating to Director of Special Action Office for Drug Abuse Prevention.
+1976—Par. (21). Pub. L. 94–237 struck out par. (21) relating to Director of Special Action Office for Drug Abuse Prevention.
 
 Par. (23). Pub. L. 94–561 added par. (23) relating to Deputy Secretary of Agriculture.
 
-<b>1975</b>—Pub. L. 94–82 substituted provisions applying level II of Executive Schedule to positions for which annual rate of basic pay shall be rate determined with respect to such level under chapter 11 of title 2, as adjusted by section 5318 of this title, for provisions applying such level II to positions for which annual rate of basic pay is $30,000.
+1975—Pub. L. 94–82 substituted provisions applying level II of Executive Schedule to positions for which annual rate of basic pay shall be rate determined with respect to such level under chapter 11 of title 2, as adjusted by section 5318 of this title, for provisions applying such level II to positions for which annual rate of basic pay is $30,000.
 
-<b>1974</b>—Par. (7). Pub. L. 93–496 substituted “Deputy Secretary of Transportation” for “Under Secretary for Transportation”.
+1974—Par. (7). Pub. L. 93–496 substituted “Deputy Secretary of Transportation” for “Under Secretary for Transportation”.
 
 Par. (8). Pub. L. 93–438 substituted “Chairman, Nuclear Regulatory Commission” for “Chairman, Atomic Energy Commission”.
 
 Par. (22). Pub. L. 93–438 added par. (22) relating to Deputy Secretary of Energy.
 
-<b>1972</b>—Par. (1). Pub. L. 92–596 substituted “Deputy Secretaries of Defense (2)” for “Deputy Secretary of Defense”.
+1972—Par. (1). Pub. L. 92–596 substituted “Deputy Secretaries of Defense (2)” for “Deputy Secretary of Defense”.
 
 Par. (2). Pub. L. 92–352 substituted “Deputy Secretary of State” for “Under Secretary of State”.
 
@@ -164,11 +166,11 @@ Par. (6). Pub. L. 92–302 added par. (6) relating to Deputy Secretary of the Tr
 
 Par. (21). Pub. L. 92–255 added par. (21) relating to Director of Special Action Office for Drug Abuse Prevention.
 
-<b>1971</b>—Par. (20). Pub. L. 91–644 added par. (20) relating to position of Deputy Attorney General being formerly level III under former section 5314(1) of this title.
+1971—Par. (20). Pub. L. 91–644 added par. (20) relating to position of Deputy Attorney General being formerly level III under former section 5314(1) of this title.
 
-<b>1968</b>—Par. (19). Pub. L. 90–407 added par. (19) relating to Director of National Science Foundation.
+1968—Par. (19). Pub. L. 90–407 added par. (19) relating to Director of National Science Foundation.
 
-<b>1966</b>—Pub. L. 89–670 substituted “Under Secretary of Transportation” for “Administrator of the Federal Aviation Agency” in item (7), and inserted item (19) relating to Administrator, Federal Aviation Administration.
+1966—Pub. L. 89–670 substituted “Under Secretary of Transportation” for “Administrator of the Federal Aviation Agency” in item (7), and inserted item (19) relating to Administrator, Federal Aviation Administration.
 
 #### Effective Date of 1991 Amendment
 
@@ -214,7 +216,7 @@ Section 5 of Pub. L. 94–561 provided that:
 
 #### Effective Date of 1974 Amendment
 
-Amendment of Pub. L. 93–438 effective 120 days after Oct. 11, 1974, or on such earlier date as President mayprescribe and publish in Federal Register, except that officers provided for in sections 5811 to 5820 of Title 42, The Public Health and Welfare, may be nominated and appointed at any time after Oct. 11, 1974, see section 312(a) of Pub. L. 93–438, set out as an Effective Date; Interim Appointments note under section 5801 of Title 42.
+Amendment of Pub. L. 93–438 effective 120 days after Oct. 11, 1974, or on such earlier date as President may prescribe and publish in Federal Register, except that officers provided for in sections 5811 to 5820 of Title 42, The Public Health and Welfare, may be nominated and appointed at any time after Oct. 11, 1974, see section 312(a) of Pub. L. 93–438, set out as an Effective Date; Interim Appointments note under section 5801 of Title 42.
 
 #### Effective Date of 1972 Amendment
 
@@ -238,59 +240,61 @@ United States Information Agency, including the Office of Director, referred to 
 
 #### Salary Increases
 
-<b>1996</b>—Salaries of positions at level II continued at $133,600 per annum by Ex. Ord. No. 12984, Dec. 28, 1995, 61 F.R. 237, set out as a note under section 5332 of this title.
+1997—Salaries of positions at level II continued at $133,600 per annum by Ex. Ord. No. 13033, Dec. 27, 1996, 61 F.R. 68987, set out as a note under section 5332 of this title.
 
-<b>1995</b>—Salaries of positions at level II continued at $133,600 per annum by Ex. Ord. No. 12944, Dec. 28, 1994, 60 F.R. 309.
+1996—Salaries of positions at level II continued at $133,600 per annum by Ex. Ord. No. 12984, Dec. 28, 1995, 61 F.R. 237.
 
-<b>1993</b>—Salaries of positions at level II increased to $133,600 per annum, effective on the first day of the first pay period beginning on or after Jan. 1, 1993, as provided by Ex. Ord. No. 12826, Dec. 30, 1992, 57 F.R. 62909.
+1995—Salaries of positions at level II continued at $133,600 per annum by Ex. Ord. No. 12944, Dec. 28, 1994, 60 F.R. 309.
 
-<b>1992</b>—Salaries of positions at level II increased to $129,500 per annum, effective on the first day of the first pay period beginning on or after Jan. 1, 1992, as provided by Ex. Ord. No. 12786, Dec. 26, 1991, 56 F.R. 67453.
+1993—Salaries of positions at level II increased to $133,600 per annum, effective on the first day of the first pay period beginning on or after Jan. 1, 1993, as provided by Ex. Ord. No. 12826, Dec. 30, 1992, 57 F.R. 62909.
 
-<b>1991</b>—Salaries of positions at level II increased to $125,100 per annum, effective on the first day of the first pay period beginning on or after Jan. 1, 1991, as provided by Ex. Ord. No. 12736, Dec. 12, 1990, 55 F.R. 51385.
+1992—Salaries of positions at level II increased to $129,500 per annum, effective on the first day of the first pay period beginning on or after Jan. 1, 1992, as provided by Ex. Ord. No. 12786, Dec. 26, 1991, 56 F.R. 67453.
 
-<b>1990</b>—Salaries of positions at level II continued at $89,500 per annum, and increased to $96,600 per annum, effective on the first day of the first pay period beginning on or after Jan. 31, 1990, as provided by Ex. Ord. No. 12698, Dec. 23, 1989, 54 F.R. 53473.
+1991—Salaries of positions at level II increased to $125,100 per annum, effective on the first day of the first pay period beginning on or after Jan. 1, 1991, as provided by Ex. Ord. No. 12736, Dec. 12, 1990, 55 F.R. 51385.
 
-<b>1989</b>—Salaries of positions at level II continued at $89,500 per annum, see Ex. Ord. No. 12663, Jan. 6, 1989, 54 F.R. 791.
+1990—Salaries of positions at level II continued at $89,500 per annum, and increased to $96,600 per annum, effective on the first day of the first pay period beginning on or after Jan. 31, 1990, as provided by Ex. Ord. No. 12698, Dec. 23, 1989, 54 F.R. 53473.
 
-<b>1988</b>—Salaries of positions at level II continued at $89,500 per annum by Ex. Ord. No. 12622, Dec. 31, 1987, 53 F.R. 222.
+1989—Salaries of positions at level II continued at $89,500 per annum, see Ex. Ord. No. 12663, Jan. 6, 1989, 54 F.R. 791.
 
-<b>1987</b>—Salaries of positions at level II increased to $89,500 per annum, on recommendation of the President of the United States, see note set out under section 358 of Title 2, The Congress.
+1988—Salaries of positions at level II continued at $89,500 per annum by Ex. Ord. No. 12622, Dec. 31, 1987, 53 F.R. 222.
+
+1987—Salaries of positions at level II increased to $89,500 per annum, on recommendation of the President of the United States, see note set out under section 358 of Title 2, The Congress.
 
 Salaries of positions at level II increased to $77,400 per annum, effective on the first day of the first pay period beginning on or after Jan. 1, 1987, as provided by Ex. Ord. No. 12578, Dec. 31, 1986, 52 F.R. 505.
 
-<b>1985</b>—Salaries of positions at level II increased to $75,100 per annum, effective on the first day of the first pay period beginning on or after Jan. 1, 1985, as provided by Ex. Ord. No. 12496, Dec. 28, 1984, 50 F.R. 211, as amended by Ex. Ord. No. 12540, Dec. 30, 1985, 51 F.R. 577.
+1985—Salaries of positions at level II increased to $75,100 per annum, effective on the first day of the first pay period beginning on or after Jan. 1, 1985, as provided by Ex. Ord. No. 12496, Dec. 28, 1984, 50 F.R. 211, as amended by Ex. Ord. No. 12540, Dec. 30, 1985, 51 F.R. 577.
 
-<b>1984</b>—Salaries of positions at level II increased to $72,600 per annum, effective on the first day of the first pay period beginning on or after Jan. 1, 1984, as provided by Ex. Ord. No. 12456, Dec. 30, 1983, 49 F.R. 347, as amended Ex. Ord. No. 12477, May 23, 1984, 49 F.R. 22041; Ex. Ord. No. 12487, Sept. 14, 1984, 49 F.R. 36493.
+1984—Salaries of positions at level II increased to $72,600 per annum, effective on the first day of the first pay period beginning on or after Jan. 1, 1984, as provided by Ex. Ord. No. 12456, Dec. 30, 1983, 49 F.R. 347, as amended Ex. Ord. No. 12477, May 23, 1984, 49 F.R. 22041; Ex. Ord. No. 12487, Sept. 14, 1984, 49 F.R. 36493.
 
-<b>1982</b>—Salaries of positions at level II increased to $77,300 per annum, effective on the first day of the first pay period beginning on or after Oct. 1, 1982, as provided by Ex. Ord. No. 12387, Oct. 8, 1982, 47 F.R. 44981. Ex. Ord. No. 12387 further provided that pursuant to section 101(e) of Pub. L. 97–276 funds are not available to pay a salary at a rate which exceeds the rate in effect on Sept. 30, 1982, which was $60,662.50.
+1982—Salaries of positions at level II increased to $77,300 per annum, effective on the first day of the first pay period beginning on or after Oct. 1, 1982, as provided by Ex. Ord. No. 12387, Oct. 8, 1982, 47 F.R. 44981. Ex. Ord. No. 12387 further provided that pursuant to section 101(e) of Pub. L. 97–276 funds are not available to pay a salary at a rate which exceeds the rate in effect on Sept. 30, 1982, which was $60,662.50.
 
 Maximum rate payable after Dec. 17, 1982, increased from $60,662.50 to $69,800.00, see Pub. L. 97–377, title I, §129(b)–(d), Dec. 21, 1982, 96 Stat. 1914, set out as a note under section 5318 of this title.
 
 Limitations on use of funds for fiscal year ending Sept. 30, 1983, appropriated by any Act to pay the salary or pay of any individual in legislative, executive, or judicial branch in position equal to or above level V of the Executive Schedule, see section 101(e) of Pub. L. 97–276, as amended, set out as a note under section 5318 of this title.
 
-<b>1981</b>—Salaries of positions at level II increased to $74,300 per annum, effective on the first day of the first pay period beginning on or after Oct. 1, 1981, as provided by Ex. Ord. No. 12330, Oct. 15, 1981, 46 F.R. 50921. Ex. Ord. No. 12330 further provided that pursuant to section 101(c) of Pub. L. 97–51 funds are not available to pay a salary at a rate which exceeds the rate in effect on Sept. 30, 1981, which was $60,662.50.
+1981—Salaries of positions at level II increased to $74,300 per annum, effective on the first day of the first pay period beginning on or after Oct. 1, 1981, as provided by Ex. Ord. No. 12330, Oct. 15, 1981, 46 F.R. 50921. Ex. Ord. No. 12330 further provided that pursuant to section 101(c) of Pub. L. 97–51 funds are not available to pay a salary at a rate which exceeds the rate in effect on Sept. 30, 1981, which was $60,662.50.
 
 Limitations on use of funds for fiscal year ending Sept. 30, 1982, appropriated by any Act to pay the salary or pay of any individual in legislative, executive, or judicial branch in position equal to or above level V of the Executive Schedule, see sections 101(g) and 141 of Pub. L. 97–92, set out as a note under section 5318 of this title.
 
-<b>1980</b>—Salaries of positions at level II increased to $70,900 per annum, effective on the first day of the first pay period beginning on or after Oct. 1, 1980, as provided by Ex. Ord. No. 12248, Oct. 16, 1980, 45 F.R. 69199. Ex. Ord. No. 12248, further provided that pursuant to section 101(c) of Pub. L. 96–369, funds are not available to pay a salary at a rate which exceeds the rate in effect on Sept. 30, 1980, which was $60,662.50.
+1980—Salaries of positions at level II increased to $70,900 per annum, effective on the first day of the first pay period beginning on or after Oct. 1, 1980, as provided by Ex. Ord. No. 12248, Oct. 16, 1980, 45 F.R. 69199. Ex. Ord. No. 12248, further provided that pursuant to section 101(c) of Pub. L. 96–369, funds are not available to pay a salary at a rate which exceeds the rate in effect on Sept. 30, 1980, which was $60,662.50.
 
 Limitations on use of funds for fiscal year ending Sept. 30, 1981, appropriated by any Act to pay the salary or pay of any individual in legislative, executive, or judicial branch in position equal to or above level V of the Executive Schedule, see section 101(c) of Pub. L. 96–536, as amended, set out as a note under section 5318 of this title.
 
-<b>1979</b>—Salaries of positions at level II increased to $65,000 per annum, effective on the first day of the first pay period beginning on or after Oct. 1, 1979, as provided by Ex. Ord. No. 12165, Oct. 9, 1979, 44 F.R. 58671, as amended by Ex. Ord. No. 12200, Mar. 12, 1980, 45 F.R. 16443. Ex. Ord. No. 12165 further provided that pursuant to section 101(c) of Pub. L. 96–86 funds appropriated for fiscal year 1980 may not be used to pay a salary at a rate which exceeds an increase of 5.5 percent over the rate in effect on Sept. 30, 1978, which is a maximum rate payable of $60,662.50.
+1979—Salaries of positions at level II increased to $65,000 per annum, effective on the first day of the first pay period beginning on or after Oct. 1, 1979, as provided by Ex. Ord. No. 12165, Oct. 9, 1979, 44 F.R. 58671, as amended by Ex. Ord. No. 12200, Mar. 12, 1980, 45 F.R. 16443. Ex. Ord. No. 12165 further provided that pursuant to section 101(c) of Pub. L. 96–86 funds appropriated for fiscal year 1980 may not be used to pay a salary at a rate which exceeds an increase of 5.5 percent over the rate in effect on Sept. 30, 1978, which is a maximum rate payable of $60,662.50.
 
-Applicability to funds appropriated by any Act for fiscal year ending Sept. 30, 1980, of limitation of section304 of Pub. L. 95–391 on use of funds to pay the salary or pay of any individual in legislative, executive, or judicial branch in position equal to or above level V of the Executive Schedule, see section 101 of Pub. L. 96–86, set out as a note under section 5318 of this title.
+Applicability to funds appropriated by any Act for fiscal year ending Sept. 30, 1980, of limitation of section 304 of Pub. L. 95–391 on use of funds to pay the salary or pay of any individual in legislative, executive, or judicial branch in position equal to or above level V of the Executive Schedule, see section 101 of Pub. L. 96–86, set out as a note under section 5318 of this title.
 
-<b>1978</b>—Salaries of positions at level II increased to $60,700 per annum, effective in the first pay period beginning on or after Oct. 1, 1978, as provided by Ex. Ord. No. 12087, Oct. 7, 1978, 43 F.R. 46823. Ex. Ord. No. 12087, further provided that pursuant to the Legislative Branch Appropriation Act, 1979, funds are not available to pay a salary at a rate which exceeds the rate in effect on Sept. 30, 1978, which was $57,500.
+1978—Salaries of positions at level II increased to $60,700 per annum, effective in the first pay period beginning on or after Oct. 1, 1978, as provided by Ex. Ord. No. 12087, Oct. 7, 1978, 43 F.R. 46823. Ex. Ord. No. 12087, further provided that pursuant to the Legislative Branch Appropriation Act, 1979, funds are not available to pay a salary at a rate which exceeds the rate in effect on Sept. 30, 1978, which was $57,500.
 
 Limitations on use of funds for fiscal year ending Sept. 30, 1979, appropriated by any Act to pay the salary or pay of any individual in legislative, executive, or judicial branch in position equal or above level V of the Executive Schedule, see section 304 of Pub. L. 95–391 and section 613 of Pub. L. 95–429, set out as a note under section 5318 of this title.
 
-<b>1977</b>—Salaries of positions at level II increased to $57,500 per annum, on recommendation of the President of the United States, see note set out under section 358 of Title 2, The Congress.
+1977—Salaries of positions at level II increased to $57,500 per annum, on recommendation of the President of the United States, see note set out under section 358 of Title 2, The Congress.
 
-<b>1976</b>—Salaries of positions at level II increased to $46,800 per annum, effective on the first day of the first pay period beginning on or after Oct. 1, 1976, see Ex. Ord. No. 11941, Oct. 1, 1976, 41 F.R. 43889. Ex. Ord. No. 11941, further provided that pursuant to the Legislative Branch Appropriation Act, 1977, funds are not available to pay a salary at a rate which exceeds the rate in effect on Sept. 30, 1976, which was $44,600.
+1976—Salaries of positions at level II increased to $46,800 per annum, effective on the first day of the first pay period beginning on or after Oct. 1, 1976, see Ex. Ord. No. 11941, Oct. 1, 1976, 41 F.R. 43889. Ex. Ord. No. 11941, further provided that pursuant to the Legislative Branch Appropriation Act, 1977, funds are not available to pay a salary at a rate which exceeds the rate in effect on Sept. 30, 1976, which was $44,600.
 
-<b>1975</b>—Salaries of positions at level II increased to $44,600 per annum, effective on the first day of the first pay period beginning on or after Oct. 1, 1975, by Ex. Ord. No. 11883, Oct. 6, 1975, 40 F.R. 47091.
+1975—Salaries of positions at level II increased to $44,600 per annum, effective on the first day of the first pay period beginning on or after Oct. 1, 1975, by Ex. Ord. No. 11883, Oct. 6, 1975, 40 F.R. 47091.
 
-<b>1969</b>—Salaries of positions at level II increased from $30,000 to $42,500 per annum, commencing on the first day of the pay period which begins after February 14, 1969, on recommendation of the President of the United States, see note set out under section 358 of Title 2, The Congress.
+1969—Salaries of positions at level II increased from $30,000 to $42,500 per annum, commencing on the first day of the pay period which begins after February 14, 1969, on recommendation of the President of the United States, see note set out under section 358 of Title 2, The Congress.
 
 #### Pay Increase; Effective Date
 
@@ -302,5 +306,5 @@ Director of Federal Bureau of Investigation, Department of Justice to receive co
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 5377, 5380, 8432, 8701, 8714b of this title; title 2 section 362; title 3 sections 105, 106, 108; title 10 section 973; title 18 section 207; title 22 section 3961; title 25 section 4042; title 26 section 3121; title 28 section 591; title 31 section 703; title 42 sections 210, 410, 1864, 4346, 5871, 5872, 6612, 7132, 7211, 7291, 7293.
+This section is referred to in sections 5315, 5377, 5380, 8432, 8701, 8714b of this title; title 2 section 362; title 3 sections 105, 106, 108; title 10 section 973; title 18 section 207; title 22 section 3961; title 25 section 4042; title 26 section 3121; title 28 section 591; title 31 section 703; title 42 sections 210, 410, 1864, 4346, 5871, 5872, 6612, 7132, 7211, 7291, 7293.
 

@@ -8,11 +8,11 @@ For purposes of this part—
 
 &emsp;The alternative minimum tax foreign tax credit for any taxable year shall be the credit which would be determined under section 27(a) for such taxable year if—
 
-&emsp;&emsp;(A) the amount determined under section 55(b)(1)(A) were the tax against which such credit was taken for purposes of section 904 for the taxable year and all prior taxable years beginning after December 31, 1986,
+&emsp;&emsp;(A) the pre-credit tentative minimum tax were the tax against which such credit was taken for purposes of section 904 for the taxable year and all prior taxable years beginning after December 31, 1986,
 
 &emsp;&emsp;(B) section 904 were applied on the basis of alternative minimum taxable income instead of taxable income, and
 
-&emsp;&emsp;(C) the determination of whether any income is high-taxed income for purposes of section 904(d)(2) were made on the basis of the applicable rate specified in section 55(b)(1)(A) in lieu of the highest rate of tax specified in section 1 or 11 (whichever applies).
+&emsp;&emsp;(C) the determination of whether any income is high-taxed income for purposes of section 904(d)(2) were made on the basis of the applicable rate specified in subparagraph (A)(i) or (B)(i) of section 55(b)(1) (whichever applies) in lieu of the highest rate of tax specified in section 1 or 11 (whichever applies).
 
 #### (2) Limitation to 90 percent of tax
 
@@ -20,9 +20,9 @@ For purposes of this part—
 
 &emsp;&emsp;The alternative minimum tax foreign tax credit for any taxable year shall not exceed the excess (if any) of—
 
-&emsp;&emsp;&emsp;(i) the amount determined under section 55(b)(1)(A) for the taxable year, over
+&emsp;&emsp;&emsp;(i) the pre-credit tentative minimum tax for the taxable year, over
 
-&emsp;&emsp;&emsp;(ii) 10 percent of the amount which would be determined under section 55(b)(1)(A) without regard to the alternative tax net operating loss deduction and section 57(a)(2)(E).
+&emsp;&emsp;&emsp;(ii) 10 percent of the amount which would be the pre-credit tentative minimum tax without regard to the alternative tax net operating loss deduction and section 57(a)(2)(E).
 
 #### (B) Carryback and carryforward
 
@@ -40,9 +40,17 @@ For purposes of this part—
 
 &emsp;&emsp;&emsp;(iv) all of such distributions by such corporation to United States persons are used by such persons in a trade or business conducted in the United States.
 
+#### (3) Pre-credit tentative minimum tax
+
+&emsp;For purposes of this subsection, the term “pre-credit tentative minimum tax” means—
+
+&emsp;&emsp;(A) in the case of a taxpayer other than a corporation, the amount determined under the first sentence of section 55(b)(1)(A)(i), or
+
+&emsp;&emsp;(B) in the case of a corporation, the amount determined under section 55(b)(1)(B)(i).
+
 #### (b) Minimum tax not to apply to income eligible for section 936 credit
 
-In the case of any corporation for which a credit is allowable for the taxable year under section 936, alternative minimum taxable income shall not include any amount with respect to which the requirements of subparagraph (A) or (B) of section 936(a)(1) are met.
+In the case of any corporation for which a credit is allowable for the taxable year under section 30A or 936, alternative minimum taxable income shall not include any income with respect to which a credit is determined under section 30A or 936.
 
 #### (c) Treatment of estates and trusts
 
@@ -142,7 +150,7 @@ For purposes of this subtitle (other than this part), any amount shall not fail 
 
 &emsp;&emsp;(A) such child's earned income (as defined in section 911(d)(2)) for the taxable year, plus
 
-&emsp;&emsp;(B) $1,000 (or, if greater, the child's share of the unused parental minimum tax exemption).
+&emsp;&emsp;(B) twice the amount in effect for the taxable year under section 63(c)(5)(A) (or, if greater, the child's share of the unused parental minimum tax exemption).
 
 #### (2) Limitation based on parental minimum tax
 
@@ -182,19 +190,27 @@ For purposes of this subtitle (other than this part), any amount shall not fail 
 
 #### (B) Certain rules made applicable
 
-&emsp;&emsp;A child's share of any unused parental minimum tax exemption shall be determined under rules similar to the rules of section 1(i)(3)(B),<sup>1</sup> and rules similar to the rules of paragraphs (3)(D) and (5) of section 1(g) shall apply for purposes of this paragraph.
+&emsp;&emsp;A child's share of any unused parental minimum tax exemption shall be determined under rules similar to the rules of section 1(g)(3)(B), and rules similar to the rules of paragraphs (3)(D) and (5) of section 1(g) shall apply for purposes of this paragraph.
 
-(Added Pub. L. 99–514, title VII, §701(a), Oct. 22, 1986, 100 Stat. 2336; amended Pub. L. 100–647, title I, §§1007(e), 1014(e)(5)(A), Nov. 10, 1988, 102 Stat. 3432, 3561; Pub. L. 101–239, title VII, §§7611(f)(5)(B), (6), 7612(e)(1), 7811(d)(1)(A), (j)(7), Dec. 19, 1989, 103 Stat. 2373, 2374, 2408, 2412; Pub. L. 101–508, title XI, §§11101(d)(3), 11531(b)(2), 11702(d), 11801(c)(2)(D), Nov. 5, 1990, 104 Stat. 1388–405, 1388–490, 1388–514, 1388–523; Pub. L. 102–486, title XIX, §1915(c)(3), Oct. 24, 1992, 106 Stat. 3024.)
-
-#### References in Text
-
-Section 1(i)(3)(B), referred to in subsec. (j)(3)(B), was redesignated section 1(g)(3)(B) of this title by Pub. L. 101–508, title XI, §11101(d)(2), Nov. 5, 1990, 104 Stat. 1388–405.
-
-#### Codification
-
-Pub. L. 101–508, title XI, §11801(c)(2)(B), Nov. 5, 1990, 104 Stat. 1388–523, which directed that pars. (1) and (2) of “section 59(g) are each amended by striking ‘beginning after 1989’ ”, could not be executed because subsec. (g) of this section contains neither paragraphs nor such language. Such amendment was executed to pars. (1) and (2)(A) of section 56(g) of this title to reflect the probable intent of Congress.
+(Added Pub. L. 99–514, title VII, §701(a), Oct. 22, 1986, 100 Stat. 2336; amended Pub. L. 100–647, title I, §§1007(e), 1014(e)(5)(A), Nov. 10, 1988, 102 Stat. 3432, 3561; Pub. L. 101–239, title VII, §§7611(f)(5)(B), (6), 7612(e)(1), 7811(d)(1)(A), (j)(7), Dec. 19, 1989, 103 Stat. 2373, 2374, 2408, 2412; Pub. L. 101–508, title XI, §§11101(d)(3), 11531(b)(2), 11702(d), 11801(c)(2)(D), Nov. 5, 1990, 104 Stat. 1388–405, 1388–490, 1388–514, 1388–523; Pub. L. 102–486, title XIX, §1915(c)(3), Oct. 24, 1992, 106 Stat. 3024; Pub. L. 104–188, title I, §§1601(b)(2)(D), 1702(a)(1), 1703(e), 1704(m)(3), Aug. 20, 1996, 110 Stat. 1833, 1868, 1875, 1883.)
 
 #### Amendments
+
+1996—Subsec. (a)(1)(A). Pub. L. 104–188, §1703(e)(1), substituted “the pre-credit tentative minimum tax” for “the amount determined under section 55(b)(1)(A)”.
+
+Subsec. (a)(1)(C). Pub. L. 104–188, §1703(e)(2), substituted “specified in subparagraph (A)(i) or (B)(i) of section 55(b)(1) (whichever applies)” for “specified in section 55(b)(1)(A)”.
+
+Subsec. (a)(2)(A)(i). Pub. L. 104–188, §1703(e)(1), substituted “the pre-credit tentative minimum tax” for “the amount determined under section 55(b)(1)(A)”.
+
+Subsec. (a)(2)(A)(ii). Pub. L. 104–188, §1703(e)(3), substituted “which would be the pre-credit tentative minimum tax” for “which would be determined under section 55(b)(1)(A)”.
+
+Subsec. (a)(3). Pub. L. 104–188, §1703(e)(4), added par. (3).
+
+Subsec. (b). Pub. L. 104–188, §1601(b)(2)(D), substituted “section 30A or 936, alternative minimum taxable income shall not include any income with respect to which a credit is determined under section 30A or 936.” for “section 936, alternative minimum taxable income shall not include any amount with respect to which the requirements of subparagraph (A) or (B) of section 936(a)(1) are met.”
+
+Subsec. (j)(1)(B). Pub. L. 104–188, §1704(m)(3), substituted “twice the amount in effect for the taxable year under section 63(c)(5)(A)” for “$1,000”.
+
+Subsec. (j)(3)(B). Pub. L. 104–188, §1702(a)(1), substituted “section 1(g)(3)(B)” for “section 1(i)(3)(B)”.
 
 1992—Subsec. (a)(2)(A)(ii). Pub. L. 102–486 substituted “and section 57(a)(2)(E)” for “and the alternative tax energy preference deduction under section 56(h)”.
 
@@ -236,6 +252,16 @@ Subsec. (i). Pub. L. 100–647, §1007(e)(4), inserted “(other than this part)
 
 Subsec. (j). Pub. L. 100–647, §1014(e)(5)(A), added subsec. (j).
 
+#### Effective Date of 1996 Amendment
+
+Amendment by section 1601(b)(2)(D) of Pub. L. 104–188 applicable to taxable years beginning after Dec. 31, 1995, except as otherwise provided, see section 1601(c) of Pub. L. 104–188, set out as an Effective Date note under section 30A of this title.
+
+Amendment by section 1702(a)(1) of Pub. L. 104–188 effective, except as otherwise expressly provided, as if included in the provision of the Revenue Reconciliation Act of 1990, Pub. L. 101–508, title XI, to which such amendment relates, see section 1702(i) of Pub. L. 104–188, set out as a note under section 38 of this title.
+
+Amendment by section 1703(e) of Pub. L. 104–188 effective as if included in the provision of the Revenue Reconciliation Act of 1993, Pub. L. 103–66, §§13001–13444, to which such amendment relates, see section 1703(<i>o</i>) of Pub. L. 104–188, set out as a note under section 39 of this title.
+
+Amendment by section 1704(m)(3) of Pub. L. 104–188 applicable to taxable years beginning after Dec. 31, 1995, see section 1704(m)(4) of Pub. L. 104–188, set out as a note under section 1 of this title.
+
 #### Effective Date of 1992 Amendment
 
 Amendment by Pub. L. 102–486 applicable to taxable years beginning after Dec. 31, 1992, see section 1915(d) of Pub. L. 102–486, set out as a note under section 56 of this title.
@@ -262,7 +288,7 @@ In general.—The amendment made by paragraph (1) \[amending this section\] shal
 
 “(B)
 
-Special rule for year which includes march 31, 1990.—In the case of any taxable year (of a corporation described in subparagraph (C) of section 59(a)(2) of the Internal Revenue Code of 1986 (as added by paragraph (1))) which begins after December 31, 1989, and includes March 31, 1990, the amount determined under clause (ii)of section 59(a)(2)(A) of such Code shall be an amount which bears the same ratio to the amount which would have been determined under such clause without regard to this subparagraph as the number of days in such taxable year on or before March 31, 1990, bears to the total number of days in such taxable year.”
+Special rule for year which includes march 31, 1990.—In the case of any taxable year (of a corporation described in subparagraph (C) of section 59(a)(2) of the Internal Revenue Code of 1986 (as added by paragraph (1))) which begins after December 31, 1989, and includes March 31, 1990, the amount determined under clause (ii) of section 59(a)(2)(A) of such Code shall be an amount which bears the same ratio to the amount which would have been determined under such clause without regard to this subparagraph as the number of days in such taxable year on or before March 31, 1990, bears to the total number of days in such taxable year.”
 
 Amendment by section 7811(d)(1)(A), (j)(7) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 7817 of Pub. L. 101–239, set out as a note under section 1 of this title.
 

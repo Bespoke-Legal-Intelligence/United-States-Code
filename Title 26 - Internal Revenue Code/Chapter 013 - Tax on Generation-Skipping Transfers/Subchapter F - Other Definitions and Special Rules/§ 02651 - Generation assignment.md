@@ -42,7 +42,7 @@ An individual who is not assigned to a generation by reason of the foregoing pro
 
 &emsp;(1) an individual born not more than 121/2 years after the date of the birth of the transferor assigned to the transferor's generation,
 
-&emsp;(2) an individual born more than 121/2 years but not more than 371/2 years after the date of the birth of the transferor assigned to the first generation younger than the transferor, and
+&emsp;(2) an individual born more than 121/2 years but not more than 371/2 years after the date ofthe birth of the transferor assigned to the first generation younger than the transferor, and
 
 &emsp;(3) similar rules for a new generation every 25 years.
 

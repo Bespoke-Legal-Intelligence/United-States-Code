@@ -30,7 +30,7 @@ The research program established under this subpart shall encompass the social, 
 
 &emsp;&emsp;(H) alcoholism and alcohol abuse among women;
 
-&emsp;(4) secure from time to time and for such periods as he deems advisable, the assistance and advice of experts, scholars, and consultants from the United States or abroad;
+&emsp;(4) secure from time to time and for such periods as he deems advisable, the assistance andadvice of experts, scholars, and consultants from the United States or abroad;
 
 &emsp;(5) promote the coordination of research programs conducted by the Institute, and similar programs conducted by the National Institute of Drug Abuse and by other departments, agencies, organizations, and individuals, including all National Institutes of Health research activities which are or may be related to the problems of individuals suffering from alcoholism or alcohol abuse or those of their families or the impact of alcohol abuse on other health problems;
 

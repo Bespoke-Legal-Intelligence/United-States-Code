@@ -10,7 +10,9 @@ The purpose of this chapter is to reduce traffic accidents and deaths and injuri
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -23,6 +25,10 @@ Historical and Revision Notes
 Sept. 9, 1966, Pub. L. 89–563, §1, 80 Stat. 718.
 
 The words “Congress hereby declares that”, “to persons”, and “Congress determines that” are omitted as surplus. The words “motor vehicle” before “equipment” are added for consistency. The words “and to expand the national driver register” are omitted because section 401 of the National Traffic and Motor Vehicle Safety Act of 1966 (Public Law 89–563, 80 Stat. 730), the only section in this law related to the national driver register, was superseded by the National Driver Register Act of 1982 (Public Law 97–364, 96 Stat. 1740).
+
+#### Short Title of 1996 Amendment
+
+Pub. L. 104–152, §1, July 2, 1996, 110 Stat. 1384, provided that: “This Act \[amending sections 30501 to 30505 and 33109 of this title and enacting provisions set out as a note under section 30502 of this title\] may be cited as the ‘Anti-Car Theft Improvements Act of 1996’.”
 
 #### National Highway Traffic Safety Administration Authorization Act of 1991
 
@@ -116,7 +122,7 @@ Standard.—The Secretary may, as part of any action taken under section 2503, a
 
 #### “SEC. 2507. BRAKE PERFORMANCE STANDARDS FOR PASSENGER CARS.
 
-“Not later than December 31, 1993, the Secretary, in accordance with the National Traffic and Motor Vehicle Safety Act of 1966 \[formerly 15 U.S.C. 1381 et seq.\], shall publish an advance notice of proposed rulemaking to consider the need for any additional brake performance standards for passenger cars, including antilock brake standards. The Secretary shall complete such rulemaking (in accordance with section 2502(b)(2)(B)(ii)) not later than 36 months from the dateof initiation of such advance notice of proposed rulemaking. In order to facilitate and encourage innovation and early application of economical and effective antilock brake systems for all such vehicles, the Secretary shall, as part of the rulemaking, consider any such brake system adopted by a manufacturer.
+“Not later than December 31, 1993, the Secretary, in accordance with the National Traffic and Motor Vehicle Safety Act of 1966 \[formerly 15 U.S.C. 1381 et seq.\], shall publish an advance notice of proposed rulemaking to consider the need for any additional brake performance standards for passenger cars, including antilock brake standards. The Secretary shall complete such rulemaking (in accordance with section 2502(b)(2)(B)(ii)) not later than 36 months from the date of initiation of such advance notice of proposed rulemaking. In order to facilitate and encourage innovation and early application of economical and effective antilock brake systems for all such vehicles, the Secretary shall, as part of the rulemaking, consider any such brake system adopted by a manufacturer.
 
 #### “\[SEC. 2508. Repealed. Pub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379.\]
 

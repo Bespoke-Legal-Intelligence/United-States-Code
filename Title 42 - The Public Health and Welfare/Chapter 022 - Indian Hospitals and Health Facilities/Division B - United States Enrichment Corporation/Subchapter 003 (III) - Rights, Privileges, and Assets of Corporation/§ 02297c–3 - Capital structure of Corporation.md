@@ -22,7 +22,7 @@
 
 #### (b) Payment of dividends
 
-The Corporation shall pay into miscellaneous receipts of the Treasury of the United States or such other fund as is provided by law, dividends on the capital stock, out of earnings of the Corporation, as a return on the investment represented by such stock. Until privatization occurs under section 2297d–1 of this title, the Corporation shall pay as dividends to the Treasury of the United States all net revenues remaining at the end of each fiscal year not required for operating expenses or for deposit into the Working Capital Account established in section 2297b–15 of this title.
+The Corporation shall pay into miscellaneous receipts of the Treasury of the United States or such other fund as is provided by law, dividends on the capital stock, out of earnings of the Corporation, as a return on the investment represented by such stock. Until privatization occurs under section 2297d–1 of this title, the Corporation shall pay as dividends to the Treasury of the United States all net revenues remainingat the end of each fiscal year not required for operating expenses or for deposit into the Working Capital Account established in section 2297b–15 of this title.
 
 #### (c) Prohibition on additional Federal assistance
 
@@ -30,9 +30,13 @@ Except as otherwise specifically provided in this division, the Corporation shal
 
 #### (d) Sole recovery of unrecovered costs
 
-Receipt by the United States of the proceeds from the sale of stock issued by the Corporationunder subsection (a)(1) of this section, and the dividends paid under subsection (b) of this section, shall constitute the sole recovery by the United States of previously unrecovered costs (including depreciation and imputed interest on original plant investments in the Department's gaseous diffusion plants) that have been incurred by the United States for uranium enrichment activities prior to the transition date.
+Receipt by the United States of the proceeds from the sale of stock issued by the Corporation under subsection (a)(1) of this section, and the dividends paid under subsection (b) of this section, shall constitute the sole recovery by the United States of previously unrecovered costs (including depreciation and imputed interest on original plant investments in the Department's gaseous diffusion plants) that have been incurred by the United States for uranium enrichment activities prior to the transition date.
 
 (Aug. 1, 1946, ch. 724, title II, §1404, as added Oct. 24, 1992, Pub. L. 102–486, title IX, §901, 106 Stat. 2935.)
+
+#### Repeal of Section
+
+<i>Section repealed effective as of date on which 100 percent of ownership of United States Enrichment Corporation has been transferred to private investors, see section 3116(a)(1) of Pub. L. 104–134, set out as a note under section 2297 of this title.</i>
 
 #### Section Referred to in Other Sections
 

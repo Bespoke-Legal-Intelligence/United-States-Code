@@ -22,7 +22,7 @@ With respect to leases issued after August 3, 1977, the Secretary shall include 
 
 #### (f) Approval of changes in terms and conditions of leases
 
-Any change required by subsection (c) or (d) of this section in the terms and conditions of anycoal lease on Indian lands existing on August 3, 1977, shall require the approval of the Secretary.
+Any change required by subsection (c) or (d) of this section in the terms and conditions of any coal lease on Indian lands existing on August 3, 1977, shall require the approval of the Secretary.
 
 #### (g) Participation of tribes
 

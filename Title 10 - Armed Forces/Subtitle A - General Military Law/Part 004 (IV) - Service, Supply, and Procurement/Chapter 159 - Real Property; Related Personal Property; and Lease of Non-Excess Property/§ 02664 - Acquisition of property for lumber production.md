@@ -34,7 +34,7 @@
 
 (f) A person named in subsection (a) may accept for the United States a gift of any property named in subsection (b), including temporary use, for any purpose named in subsection (a).
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 148; Sept. 2, 1958, Pub. L. 85–861, §33(a)(15), 72 Stat. 1565; Dec. 12, 1980, Pub. L. 96–513, title V, §511(90), 94 Stat. 2928; Aug. 6, 1981, Pub. L. 97–31, §12(3)(A), 95 Stat. 153; Oct. 12, 1982, Pub. L. 97–295, §1(32), 96 Stat. 1296; Apr. 21, 1987, Pub. L. 100–26, §7(d)(6), 101 Stat. 281.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 148; Sept. 2, 1958, Pub. L. 85–861, §33(a)(15), 72 Stat. 1565; Dec. 12, 1980, Pub. L. 96–513, title V, §511(90), 94 Stat. 2928; Aug. 6, 1981, Pub. L. 97–31, §12(3)(A), 95 Stat. 153; Oct. 12, 1982, Pub. L. 97–295, §1(32), 96 Stat.1296; Apr. 21, 1987, Pub. L. 100–26, §7(d)(6), 101 Stat. 281.)
 
 Historical and Revision Notes<br>1956
 

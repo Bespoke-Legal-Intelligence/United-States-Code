@@ -20,7 +20,7 @@ In carrying out the provisions of this subchapter, the Secretary shall issue, no
 
 #### (c) Protection of rights and privacy of parents and students
 
-The Secretary shall take appropriate action, in accordance with the provisions of section 1232g <sup>1</sup> of this title, to assure the protection of the confidentiality of any personally identifiable data, information, and records collected or maintained by the Secretary and by State and local educational agencies pursuant to the provisions of this subchapter.
+The Secretary shall take appropriate action, in accordance with the provisions of section 1232g <sup>1</sup> of this title, to assure the protection ofthe confidentiality of any personally identifiable data, information, and records collected or maintained by the Secretary and by State and local educational agencies pursuant to the provisions of this subchapter.
 
 #### (d) Hiring of qualified personnel
 

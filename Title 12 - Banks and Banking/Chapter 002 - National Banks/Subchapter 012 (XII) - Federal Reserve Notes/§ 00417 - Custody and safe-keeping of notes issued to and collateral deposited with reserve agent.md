@@ -28,5 +28,5 @@ For transfer of functions to Secretary of the Treasury, see note set out under s
 
 #### Cross References
 
-Gold coinage discontinued, see section 5112 of Title 31. Money and Finance.
+Gold coinage discontinued, see section 5112 of Title 31, Money and Finance.
 

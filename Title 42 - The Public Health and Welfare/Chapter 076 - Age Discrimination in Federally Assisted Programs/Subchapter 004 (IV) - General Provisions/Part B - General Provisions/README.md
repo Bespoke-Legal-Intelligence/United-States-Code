@@ -6,7 +6,7 @@ Part B—General Provisions
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
 - [&sect; 06391 - Prohibited actions](%C2%A7%2006391%20-%20Prohibited%20actions.md)
-- [&sect; 06392 - Conflicts of interest](%C2%A7%2006392%20-%20Conflicts%20of%20interest.md)
+- [&sect; 06392 - Repealed. Pub. L. 104&#8211;106, div. D, title XLIII, &sect;4304(b)(8), Feb. 10, 1996, 110 Stat. 664](%C2%A7%2006392%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93106%2C%20div.%20D%2C%20title%20XLIII%2C%20%C2%A74304%28b%29%288%29%2C%20Feb.%2010%2C%201996%2C%20110%20Stat.%20664.md)
 - [&sect; 06393 - Administrative procedure and judicial review](%C2%A7%2006393%20-%20Administrative%20procedure%20and%20judicial%20review.md)
 - [&sect; 06394 - Prohibited acts](%C2%A7%2006394%20-%20Prohibited%20acts.md)
 - [&sect; 06395 - Enforcement](%C2%A7%2006395%20-%20Enforcement.md)

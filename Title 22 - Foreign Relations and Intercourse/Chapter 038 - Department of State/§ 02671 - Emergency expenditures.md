@@ -60,7 +60,7 @@ With regard to the repatriation loan program, the Secretary of State shall—
 
 &emsp;(5) obtain addresses from the Internal Revenue Service for all delinquent accounts which have social security numbers;
 
-&emsp;(6) report defaults to commercial credit bureaus as provided in section 3711(f) of title 31;
+&emsp;(6) report defaults to commercial credit bureaus as provided in section 3711(e) of title 31;
 
 &emsp;(7) be permitted to use any funds necessary to contract with commercial collection agencies, notwithstanding section 3718(c) <sup>1</sup> of title 31;
 
@@ -72,7 +72,7 @@ With regard to the repatriation loan program, the Secretary of State shall—
 
 &emsp;(11) implement the interest and penalty provisions in paragraphs (8), (9), and (10) for all current and future loans, regardless of whether the debts were incurred before or after May 1, 1983.
 
-(Aug. 1, 1956, ch. 841, title I, §4, 70 Stat. 890; renumbered title I, Aug. 24, 1982, Pub. L. 97–241, title II, §202(a), 96 Stat. 282; Nov. 22, 1983, Pub. L. 98–164, title I, §122(a), 97 Stat. 1023; Apr. 30, 1994, Pub. L. 103–236, title I, §125, 108 Stat. 393.)
+(Aug. 1, 1956, ch. 841, title I, §4, 70 Stat. 890; renumbered title I, Aug. 24, 1982, Pub. L. 97–241, title II, §202(a), 96 Stat. 282; Nov. 22, 1983, Pub. L. 98–164, title I, §122(a), 97 Stat. 1023; Apr. 30, 1994, Pub. L. 103–236, title I, §125, 108 Stat. 393; Oct. 19, 1996, Pub. L. 104–316, title I, §115(g)(2)(D), 110 Stat. 3835.)
 
 #### References in Text
 
@@ -85,6 +85,8 @@ In subsec. (a), “section 3526(e) of title 31” substituted for “section 291
 Section was formerly classified to section 170i of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, §1, Sept. 6, 1966, 80 Stat. 378.
 
 #### Amendments
+
+1996—Subsec. (d)(6). Pub. L. 104–316 substituted “section 3711(e)” for “section 3711(f)”.
 
 1994—Subsec. (c). Pub. L. 103–236 struck out “and the Foreign Service” after “Department of State” and substituted “a periodic” for “an annual confidential”.
 

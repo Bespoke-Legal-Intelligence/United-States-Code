@@ -28,7 +28,9 @@ Employee Protective Arrangements.—(1) As a condition of financial assistance u
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -54,7 +56,7 @@ In subsection (b)(3), the words “section 11347 of this title” are substitute
 
 #### References in Text
 
-Act of March 3, 1931, referred to in subsec. (a), is act Mar. 3, 1931, ch. 411, 46 Stat. 1494, as amended, known as the Davis-Bacon Act, which is classified generally to sections 276a to 276a–5 of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 276a of Title 40 and Tables.
+Act of March 3, 1931, referred to in subsec. (a), is act Mar. 3, 1931, ch. 411, 46 Stat. 1494, as amended, known as the Davis-Bacon Act, which is classified generally to sections 276a to 276a–5 of Title 40, Public Buildings,Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 276a of Title 40 and Tables.
 
 Reorganization Plan No. 14 of 1950, referred to in subsec. (a), is set out in the Appendix to Title 5, Government Organization and Employees.
 

@@ -1,6 +1,8 @@
 ### §60101. Definitions
 
-(a) In this chapter—
+(a)
+
+General.—In this chapter—
 
 &emsp;(1) “existing liquefied natural gas facility”—
 
@@ -10,19 +12,19 @@
 
 &emsp;&emsp;&emsp;(ii) the appropriate State or local authority, if the facility is not subject to the jurisdiction of the Commission under the Natural Gas Act (15 U.S.C. 717 et seq.); but
 
-&emsp;&emsp;(B) does not include a facility on which construction is begun after November 29, 1979, without the approval.
+&emsp;&emsp;(B) does not include a facility on which construction is begun after November 29, 1979, without the approval;
 
-&emsp;(2) “gas” means natural gas, flammable gas, or toxic or corrosive gas.
+&emsp;(2) “gas” means natural gas, flammable gas, or toxic or corrosive gas;
 
-&emsp;(3) “gas pipeline facility” includes a pipeline, a right of way, a facility, a building, or equipment used in transporting gas or treating gas during its transportation.
+&emsp;(3) “gas pipeline facility” includes a pipeline, a right of way, a facility, a building, or equipment used in transporting gas or treating gas during its transportation;
 
 &emsp;(4) “hazardous liquid” means—
 
 &emsp;&emsp;(A) petroleum or a petroleum product; and
 
-&emsp;&emsp;(B) a substance the Secretary of Transportation decides may pose an unreasonable risk to life or property when transported by a hazardous liquid pipeline facility in a liquid state (except for liquefied natural gas).
+&emsp;&emsp;(B) a substance the Secretary of Transportation decides may pose an unreasonable risk to life or property when transported by a hazardous liquid pipeline facility in a liquid state (except for liquefied natural gas);
 
-&emsp;(5) “hazardous liquid pipeline facility” includes a pipeline, a right of way, a facility, a building, or equipment used or intended to be used in transporting hazardous liquid.
+&emsp;(5) “hazardous liquid pipeline facility” includes a pipeline, a right of way, a facility, a building, or equipment used or intended to be used in transporting hazardous liquid;
 
 &emsp;(6) “interstate gas pipeline facility”—
 
@@ -32,9 +34,9 @@
 
 &emsp;&emsp;&emsp;(ii) subject to the jurisdiction of the Commission under the Natural Gas Act (15 U.S.C. 717 et seq.); but
 
-&emsp;&emsp;(B) does not include a gas pipeline facility transporting gas from an interstate gas pipeline in a State to a direct sales customer in that State buying gas for its own consumption.
+&emsp;&emsp;(B) does not include a gas pipeline facility transporting gas from an interstate gas pipeline in a State to a direct sales customer in that State buying gas for its own consumption;
 
-&emsp;(7) “interstate hazardous liquid pipeline facility” means a hazardous liquid pipeline facility used to transport hazardous liquid in interstate or foreign commerce.
+&emsp;(7) “interstate hazardous liquid pipeline facility” means a hazardous liquid pipeline facility used to transport hazardous liquid in interstate or foreign commerce;
 
 &emsp;(8) “interstate or foreign commerce”—
 
@@ -48,45 +50,45 @@
 
 &emsp;&emsp;&emsp;(i) a place in a State and a place outside that State; or
 
-&emsp;&emsp;&emsp;(ii) places in the same State through a place outside the State.
+&emsp;&emsp;&emsp;(ii) places in the same State through a place outside the State;
 
 &emsp;(9) “intrastate gas pipeline facility” means—
 
-&emsp;&emsp;(A) a gas pipeline facility and transportation of gas within a State not subject to the jurisdiction of the Commission under the Natural Gas Act (15 U.S.C. 717 et seq.); and
+&emsp;&emsp;(A) a gas pipeline facility and transportation of gas within a State not subject tothe jurisdiction of the Commission under the Natural Gas Act (15 U.S.C. 717 et seq.); and
 
-&emsp;&emsp;(B) a gas pipeline facility transporting gas from an interstate gas pipeline in a State to a direct sales customer in that State buying gas for its own consumption.
+&emsp;&emsp;(B) a gas pipeline facility transporting gas from an interstate gas pipeline in a State to a direct sales customer in that State buying gas for its own consumption;
 
-&emsp;(10) “intrastate hazardous liquid pipeline facility” means a hazardous liquid pipeline facility that is not an interstate hazardous liquid pipeline facility.
+&emsp;(10) “intrastate hazardous liquid pipeline facility” means a hazardous liquid pipeline facility that is not an interstate hazardous liquid pipeline facility;
 
-&emsp;(11) “liquefied natural gas” means natural gas in a liquid or semisolid state.
+&emsp;(11) “liquefied natural gas” means natural gas in a liquid or semisolid state;
 
-&emsp;(12) “liquefied natural gas accident” means a release, burning, or explosion of liquefied natural gas from any cause, except a release, burning, or explosion that, under regulations prescribed by the Secretary, does not pose a threat to public health or safety, property, or the environment.
+&emsp;(12) “liquefied natural gas accident” means a release, burning, or explosion of liquefied natural gas from any cause, except a release, burning, or explosion that, under regulations prescribed by the Secretary, does not pose a threat to public health or safety, property, or the environment;
 
-&emsp;(13) “liquefied natural gas conversion” means conversion of natural gas into liquefied natural gas or conversion of liquefied natural gas into natural gas.
+&emsp;(13) “liquefied natural gas conversion” means conversion of natural gas into liquefied natural gas or conversion of liquefied natural gas into natural gas;
 
 &emsp;(14) “liquefied natural gas pipeline facility”—
 
 &emsp;&emsp;(A) means a gas pipeline facility used for transporting or storing liquefied natural gas, or for liquefied natural gas conversion, in interstate or foreign commerce; but
 
-&emsp;&emsp;(B) does not include any part of a structure or equipment located in navigable waters (as defined in section 3 of the Federal Power Act (16 U.S.C. 796)).
+&emsp;&emsp;(B) does not include any part of a structure or equipment located in navigable waters (as defined in section 3 of the Federal Power Act (16 U.S.C. 796));
 
-&emsp;(15) “municipality” means a political subdivision of a State.
+&emsp;(15) “municipality” means a political subdivision of a State;
 
-&emsp;(16) “new liquefied natural gas pipeline facility” means a liquefied natural gas pipeline facility except an existing liquefied natural gas pipeline facility.
+&emsp;(16) “new liquefied natural gas pipeline facility” means a liquefied natural gas pipeline facility except an existing liquefied natural gas pipeline facility;
 
-&emsp;(17) “person”, in addition to its meaning under section 1 of title 1 (except as to societies), includes a State, a municipality, and a trustee, receiver, assignee, or personal representative of a person.
+&emsp;(17) “person”, in addition to its meaning under section 1 of title 1 (except as to societies), includes a State, a municipality, and a trustee, receiver, assignee, or personal representative of a person;
 
-&emsp;(18) “pipeline facility” means a gas pipeline facility and a hazardous liquid pipeline facility.
+&emsp;(18) “pipeline facility” means a gas pipeline facility and a hazardous liquid pipeline facility;
 
-&emsp;(19) “pipeline transportation” means transporting gas and transporting hazardous liquid.
+&emsp;(19) “pipeline transportation” means transporting gas and transporting hazardous liquid;
 
-&emsp;(20) “State” means a State of the United States, the District of Columbia, and Puerto Rico.
+&emsp;(20) “State” means a State of the United States, the District of Columbia, and Puerto Rico;
 
 &emsp;(21) “transporting gas”—
 
 &emsp;&emsp;(A) means the gathering, transmission, or distribution of gas by pipeline, or the storage of gas, in interstate or foreign commerce; but
 
-&emsp;&emsp;(B) does not include gathering gas in a rural area outside a populated area designated by the Secretary as a nonrural area.
+&emsp;&emsp;(B) does not include the gathering of gas, other than gathering through regulated gathering lines, in those rural locations that are located outside the limits of any incorporated or unincorporated city, town, or village, or any other designated residential or commercial area (including a subdivision, business, shopping center, or community development) or any similar populated area that the Secretary of Transportation determines to be a nonrural area, except that the term “transporting gas” includes the movement of gas through regulated gathering lines;
 
 &emsp;(22) “transporting hazardous liquid”—
 
@@ -98,11 +100,17 @@
 
 &emsp;&emsp;&emsp;(ii) onshore production, refining, or manufacturing facilities; or
 
-&emsp;&emsp;&emsp;(iii) storage or in-plant piping systems associated with onshore production, refining, or manufacturing facilities.
+&emsp;&emsp;&emsp;(iii) storage or in-plant piping systems associated with onshore production, refining, or manufacturing facilities;
+
+&emsp;(23) “risk management” means the systematic application, by the owner or operator of a pipeline facility, of management policies, procedures, finite resources, and practices to the tasks of identifying, analyzing, assessing, reducing, and controlling risk in order to protect employees, the general public, the environment, and pipeline facilities;
+
+&emsp;(24) “risk management plan” means a management plan utilized by a gas or hazardous liquid pipeline facility owner or operator that encompasses risk management; and
+
+&emsp;(25) “Secretary” means the Secretary of Transportation.
 
 (b)
 
-Gathering Lines.—(1)(A) Not later than October 24, 1994, the Secretary shall define by regulation the term “gathering line”.
+Gathering Lines.—(1)(A) Not later than October 24, 1994, the Secretary shall prescribe standards defining the term “gathering line”.
 
 (B) In defining “gathering line” for gas, the Secretary—
 
@@ -110,17 +118,17 @@ Gathering Lines.—(1)(A) Not later than October 24, 1994, the Secretary shall d
 
 &emsp;(ii) is not bound by a classification the Commission establishes under the Natural Gas Act (15 U.S.C. 717 et seq.).
 
-(2)(A) Not later than October 24, 1995, the Secretary shall define by regulation the term “regulated gathering line”. In defining the term, the Secretary shall consider factors such as location, length of line from the well site, operating pressure, throughput, and the composition of the transported gas or hazardous liquid, as appropriate, in deciding on the types of lines that functionally are gathering but should be regulated under this chapter because of specific physical characteristics.
+(2)(A) Not later than October 24, 1995, the Secretary, if appropriate, shall prescribe standards defining the term “regulated gathering line”. In defining the term, the Secretary shall consider factors such as location, length of line from the well site, operating pressure, throughput, and the composition of the transported gas or hazardous liquid, as appropriate, in deciding on the types of lines that functionally are gathering but should be regulated under this chapter because of specific physical characteristics.
 
 (B)(i) The Secretary also shall consider diameter when defining “regulated gathering line” for hazardous liquid.
 
 (ii) The definition of “regulated gathering line” for hazardous liquid may not include a crude oil gathering line that has a nominal diameter of not more than 6 inches, is operated at low pressure, and is located in a rural area that is not unusually sensitive to environmental damage.
 
-(Pub. L. 103–272, §§1(e), 4(s), July 5, 1994, 108 Stat. 1301, 1371.)
+(Pub. L. 103–272, §§1(e), 4(s), July 5, 1994, 108 Stat. 1301, 1371; Pub. L. 104–287, §5(90), Oct. 11, 1996, 110 Stat. 3398; Pub. L. 104–304, §§3, 20(f), Oct. 12, 1996, 110 Stat. 3793, 3805.)
 
 #### Amendment of Subsection (a)(21) and (22)
 
-<i>Pub. L. 103–272, §4(s), July 5, 1994, 108 Stat. 1371, provided that, effective on the date the regulations required under subsec. (b) of this section are effective, subsection (a)(21) and (22) of this section is amended to read as follows:</i>
+<i>Pub. L. 103–272, §4(s), July 5, 1994, 108 Stat. 1371, provided that, effective on the date the regulations required under subsec. (b) of this</i><i>section are effective, subsection (a)(21) and (22) of this section is amended to read as follows:</i>
 
 (21) “transporting gas”—
 
@@ -152,7 +160,9 @@ Historical and Revision Notes
 
 Pub. L. 103–272, §1(e)
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -298,7 +308,9 @@ In subsection (a), before clause (1), the text of 49 App.:1671(10) and 2001(11) 
 
 Pub. L. 103–272, §4(s)
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -318,13 +330,39 @@ Oct. 24, 1992, Pub. L. 102–508, §208(a), 106 Stat. 3303.
 
 Section 4(s) reflects an amendment to the restatement required by sections 109(a) and 208(a) of the Pipeline Safety Act of 1992 (Public Law 102–508, 106 Stat. 3294, 3303).
 
+#### Pub. L. 104–287
+
+This amends 49:60101 for consistency with the style of title 49.
+
 #### References in Text
 
 The Natural Gas Act, referred to in subsecs. (a)(1)(A)(ii), (6)(A)(ii), (9)(A) and (b)(1)(B)(ii), is act June 21, 1938, ch. 556, 52 Stat. 821, as amended, which is classified generally to chapter 15B (§717 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 717w of Title 15 and Tables.
 
+#### Amendments
+
+1996—Subsec. (a). Pub. L. 104–287 inserted heading.
+
+Subsec. (a)(1) to (20). Pub. L. 104–304, §3(a)(1), substituted semicolon for period at end of pars. (1) to (20).
+
+Subsec. (a)(21)(B). Pub. L. 104–304, §3(a)(2), added subpar. (B) and struck out former subpar. (B) which read as follows: “does not include gathering gas in a rural area outside a populated area designated by the Secretary as a nonrural area;”.
+
+Pub. L. 104–304, §3(a)(1), substituted semicolon for period at end.
+
+Subsec. (a)(22). Pub. L. 104–304, §3(a)(1), substituted semicolon for period at end.
+
+Subsec. (a)(23) to (25). Pub. L. 104–304, §3(a)(3), added pars. (23) to (25).
+
+Subsec. (b)(1)(A). Pub. L. 104–304, §20(f), substituted “prescribe standards defining” for “define by regulation”.
+
+Subsec. (b)(2)(A). Pub. L. 104–304, §§3(b), 20(f), inserted “, if appropriate,” after “Not later than October 24, 1995, the Secretary” and substituted “prescribe standards defining” for “define by regulation”.
+
 #### Effective Date of 1994 Amendment
 
-Section 4(s) of Pub. L. 103–272 provided that the amendment made by that section is effective on thedate the regulation required under subsec. (b) of this section is effective.
+Section 4(s) of Pub. L. 103–272 provided that the amendment made by that section is effective on the date the regulation required under subsec. (b) of this section is effective.
+
+#### Short Title of 1996 Amendment
+
+Section 1 of Pub. L. 104–304 provided that: “This Act \[enacting sections 60126 to 60128 of this title, amending this section and sections 60102, 60105 to 60110, 60113 to 60118, 60123 to 60125 of this title, and enacting provisions set out as a note under section 60301 of this title\] may be cited as the ‘Accountable Pipeline Safety and Partnership Act of 1996’.”
 
 #### Section Referred to in Other Sections
 

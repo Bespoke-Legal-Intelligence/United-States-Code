@@ -2,27 +2,25 @@
 
 #### (a) Frequencies; compliance with regulations; stations on vessels
 
-Radio stations belonging to and operated by the United States shall not be subject to the provisions of sections 301 and 303 of this title. All such Government stations shall use such frequencies as shall be assigned to each or to eachclass by the President. All such stations, except stations on board naval and other Government vessels while at sea or beyond the limits of the continental United States, when transmitting any radio communication or signal other than a communication or signal relating to Government business, shall conform to such rules and regulations designed to prevent interference with other radio stations and the rights of others as the Commission may prescribe.
+Radio stations belonging to and operated by the United States shall not be subject to the provisions of sections 301 and 303 of this title. All such Government stations shall use such frequencies as shall be assigned to each or to each class by the President. All such stations, except stations on board naval and other Government vessels while at sea or beyond the limits of the continental United States, when transmitting any radio communication or signal other than a communication or signal relating to Government business, shall conform to such rules and regulations designed to prevent interference with other radio stations and the rights of others as the Commission may prescribe.
 
-#### (b) Vessels of Maritime Administration or Inland and Coastwise Waterways Service
-
-Radio stations on board vessels of the Maritime Administration of the Department of Transportation or the Inland and Coastwise Waterways Service shall be subject to the provisions of this subchapter.
-
-#### (c) Call letters
+#### (b) Call letters
 
 All stations owned and operated by the United States, except mobile stations of the Army of the United States, and all other stations on land and sea, shall have special call letters designated by the Commission.
 
-#### (d) Stations operated by foreign governments
+#### (c) Stations operated by foreign governments
 
 The provisions of sections 301 and 303 of this title notwithstanding, the President may, provided he determines it to be consistent with and in the interest of national security, authorize a foreign government, under such terms and conditions as he may prescribe, to construct and operate at the seat of government of the United States a low-power radio station in the fixed service at or near the site of the embassy or legation of such foreign government for transmission of its messages to points outside the United States, but only (1) where he determines that the authorization would be consistent with the national interest of the United States and (2) where such foreign government has provided reciprocal privileges to the United States to construct and operate radio stations within territories subject to its jurisdiction. Foreign government stations authorized pursuant to the provisions of this subsection shall conform to such rules and regulations as the President may prescribe. The authorization of such stations, and the renewal, modification, suspension, revocation, or other termination of such authority shall be in accordance with such procedures as may be established by the President and shall not be subject to the other provisions of this chapter or of subchapter II of chapter 5, and chapter 7, of title 5.
 
-(June 19, 1934, ch. 652, title III, §305, 48 Stat. 1083; Oct. 11, 1962, Pub. L. 87–795, 76 Stat. 903; Aug. 6, 1981, Pub. L. 97–31, §12(150), 95 Stat. 167.)
+(June 19, 1934, ch. 652, title III, §305, 48 Stat. 1083; Oct. 11, 1962, Pub. L. 87–795, 76 Stat. 903; Aug. 6, 1981, Pub. L. 97–31, §12(150), 95 Stat. 167; Feb. 8, 1996, Pub. L. 104–104, title IV, §403(h)(1), 110 Stat. 131.)
 
 #### Codification
 
-In subsec. (d), “subchapter II of chapter 5, and chapter 7, of title 5” substituted for “the Administrative Procedure Act” on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
+In subsec. (c), “subchapter II of chapter 5, and chapter 7, of title 5” substituted for “the Administrative Procedure Act” on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
 
 #### Amendments
+
+1996—Subsecs. (b) to (d). Pub. L. 104–104 redesignated subsecs. (c) and (d) as (b) and (c), respectively, and struck out former subsec. (b) which read as follows: “Radio stations on board vessels of the Maritime Administration of the Department of Transportation or the Inland and Coastwise Waterways Service shall be subject to the provisions of this subchapter.”
 
 1981—Subsec. (b). Pub. L. 97–31 substituted “Maritime Administration of the Department of Transportation” for “United States Shipping Board Bureau or the United States Shipping Board Merchant Fleet Corporation”. For prior transfers of functions, see Transfer of Functions note set out below.
 
@@ -50,7 +48,7 @@ There is hereby established in the Executive Office of the President the Office 
 
 #### Sec. 3. Director and Deputy
 
-(a) There shall be at the head of the Office the Director of the Office of Telecommunications Policy, hereinafter referred to as the Director. The Director shall be appointed by the President by and with the advice and consent of the Senate and shall be compensated at the rate now or hereafter provided for Level III of the Executive Schedule Pay Rates (5 U.S.C. 5314).
+(a) There shall be at the head of the Office the Director of the Office of Telecommunications Policy, hereinafter referred to as the Director. The Director shall be appointed by the President by and with the advice andconsent of the Senate and shall be compensated at the rate now or hereafter provided for Level III of the Executive Schedule Pay Rates (5 U.S.C. 5314).
 
 (b) There shall be in the Office a Deputy Director of the Office of Telecommunications Policy who shall be appointed by the President by and with the advice and consent of the Senate and shall be compensated at the rate now or hereafter provided for Level IV of the Executive Schedule Pay Rates (5 U.S.C. 5315). The Deputy Director shall perform such functions as the Director may from time to time prescribe and, unless the President shall designate another person to so act, shall act as Director during the absence or disability of the Director or in the event of vacancy in the office of Director.
 
@@ -64,7 +62,7 @@ There is hereby established in the Executive Office of the President the Office 
 
 #### Sec. 5. Abolition of Office
 
-That office of Assistant Director of the Office of Emergency Preparedness held by the Director of Telecommunications Management under Executive Order No. 10995 of February 16, 1962, as amended, is abolished. The Director of the Office of Emergency Preparednessshall make such provisions as he may deem to be necessary with respect to winding up any outstanding affairs of the office abolished by the foregoing provisions of this section.
+That office of Assistant Director of the Office of Emergency Preparedness held by the Director of Telecommunications Management under Executive Order No. 10995 of February 16, 1962, as amended, is abolished. The Director of the Office of Emergency Preparedness shall make such provisions as he may deem to be necessary with respect to winding up any outstanding affairs of the office abolished by the foregoing provisions of this section.
 
 #### Sec. 6. Incidental Transfers
 
@@ -98,7 +96,7 @@ The new Office of Telecommunications Policy would play three essential roles:
 
 3\. Finally, the new Office would enable the executive branch to speak with a clearer vote and to act as a more effective partner in discussions of communications policy with both the Congress and the Federal Communications Commission. This action would take away none of the prerogatives or functions assigned to the Federal Communications Commission by the Congress. It is my hope, however, that the new Office and the Federal Communications Commission would cooperate in achieving certain reforms in telecommunications policy, especially in their procedures for allocating portions of the radio spectrum for government and civilian use. Our current procedures must be more flexible if they are to deal adequately with problems such as the worsening spectrum shortage.
 
-Each reorganization included in the plan which accompanies this message is necessary to accomplish one or more of the purposes set forth in section 901(a) of title 5 of the United States Code. In particular, the plan is responsive to section 901(a)(1), “to promote the better execution of the laws, the more effective management of the executive branch and of its agencies and functions, and the expeditious administration of the public business;” and section 901(a)(3), “to increase the efficiency of the operations of the government to the fullest extent practicable.”
+Each reorganization included in the plan which accompanies this message is necessary to accomplish oneor more of the purposes set forth in section 901(a) of title 5 of the United States Code. In particular, the plan is responsive to section 901(a)(1), “to promote the better execution of the laws, the more effective management of the executive branch and of its agencies and functions, and the expeditious administration of the public business;” and section 901(a)(3), “to increase the efficiency of the operations of the government to the fullest extent practicable.”
 
 The reorganization provided for in this plan make necessary the appointment and compensation of new officers, as specified in sections 3(a) and 3(b) of the plan. The rates of compensation fixed for these officers are comparable to those fixed for other officers in the executive branch who have similar responsibilities.
 
@@ -112,7 +110,7 @@ The White House, February 9, 1970.
 
 #### Executive Order No. 10995
 
-Ex. Ord. No. 10995, eff. Feb. 16, 1962, 27 F.R. 1519, as amended by Ex. Ord. No. 11084, eff. Feb. 18, 1963, 28 F.R.1531, which related to the assignment of telecommunications management functions, was revoked by Ex. Ord. No. 11556, eff. Sept. 14, 1970, 35 F.R. 14193, formerly set out below.
+Ex. Ord. No. 10995, eff. Feb. 16, 1962, 27 F.R. 1519, as amended by Ex. Ord. No. 11084, eff. Feb. 18, 1963, 28 F.R. 1531, which related to the assignment of telecommunications management functions, was revoked by Ex. Ord. No. 11556, eff. Sept. 14, 1970, 35 F.R. 14193, formerly set out below.
 
 #### Executive Order No. 11556
 

@@ -14,5 +14,5 @@ Section 5 of act May 24, 1939, provided that: “All Acts or parts of Acts incon
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1181f–2 of this title.
+This section is referred to in sections 869–4, 1181f–2 of this title.
 

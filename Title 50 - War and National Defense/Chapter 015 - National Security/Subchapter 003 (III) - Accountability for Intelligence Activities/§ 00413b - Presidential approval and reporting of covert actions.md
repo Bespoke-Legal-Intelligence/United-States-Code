@@ -44,7 +44,7 @@ As used in this subchapter, the term “covert action” means an activity or ac
 
 &emsp;(2) traditional diplomatic or military activities or routine support to such activities;
 
-&emsp;(3) traditional law enforcement activities conducted by United States Government lawenforcement agencies or routine support to such activities; or
+&emsp;(3) traditional law enforcement activities conducted by United States Government law enforcement agencies or routine support to such activities; or
 
 &emsp;(4) activities to provide routine support to the overt activities (other than activities described in paragraph (1), (2), or (3)) of other United States Government agencies abroad.
 

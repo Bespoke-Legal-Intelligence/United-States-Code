@@ -24,13 +24,13 @@ The transfers of funds between the United States and any specified possession re
 
 In addition to the amount determined under subsection (a), the United States shall pay to each specified possession at such times and in such manner as determined by the Secretary—
 
-&emsp;(1) the amount of the taxes deducted and withheld by the United States under chapter 24 with respect to compensation paid to members of the Armed Forces who are stationed in such possession but who have no income tax liability to such possession with respect to such compensation by reason of the Soldiers’ andSailors’ Civil Relief Act (50 App. U.S.C. 501 et seq.), and
+&emsp;(1) the amount of the taxes deducted and withheld by the United States under chapter 24 with respect to compensation paid to members of the Armed Forces who are stationed in such possession but who have no income tax liability to such possession with respect to such compensation by reason of the Soldiers’ and Sailors’ Civil Relief Act (50 App. U.S.C. 501 et seq.), and
 
 &emsp;(2) the amount of the taxes deducted and withheld under chapter 24 with respect to amounts paid for services performed as an employee of the United States (or any agency thereof) in a specified possession with respect to an individual unless section 931 or 932(c) applies.
 
 #### (e) Regulations
 
-The Secretary shall prescribe such regulations as may be necessary to carry out the provisions of this section and sections 931 and 932, including regulations prohibiting the rebate of taxes covered over which are allocable to United States source income and prescribing the information which the individuals to whom such sections may apply shall furnish to the Secretary.
+The Secretary shall prescribe such regulations as may be necessary to carry out the provisionsof this section and sections 931 and 932, including regulations prohibiting the rebate of taxes covered over which are allocable to United States source income and prescribing the information which the individuals to whom such sections may apply shall furnish to the Secretary.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 909; Oct. 31, 1972, Pub. L. 92–606, §1(b), 86 Stat. 1495; Oct. 4, 1976, Pub. L. 94–455, title XIX, §1906(b)(13)(A), 90 Stat. 1834; Sept. 3, 1982, Pub. L. 97–248, title III, §§307(a)(16), 308(a), 96 Stat. 590, 591; Aug. 5, 1983, Pub. L. 98–67, title I, §102(a), 97 Stat. 369; Oct. 22, 1986, Pub. L. 99–514, title XII, §1276(a), 100 Stat. 2599; Nov. 10, 1988, Pub. L. 100–647, title I, §1012(y), 102 Stat. 3530.)
 

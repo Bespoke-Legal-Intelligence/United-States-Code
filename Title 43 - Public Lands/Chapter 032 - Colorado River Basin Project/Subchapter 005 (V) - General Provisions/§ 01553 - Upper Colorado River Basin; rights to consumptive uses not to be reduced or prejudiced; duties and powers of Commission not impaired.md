@@ -2,7 +2,7 @@
 
 (a) Rights of the upper basin to the consumptive use of water available to that basin from the Colorado River system under the Colorado River Compact shall not be reduced or prejudiced by any use of such water in the lower basin.
 
-(b) Nothing in this chapter shall be construed so as to impair, conflict with, or otherwise change the duties and powers of the Upper Colorado River Commission.
+(b) Nothing in this chapter shall be construed so as to impair, conflict with, or otherwisechange the duties and powers of the Upper Colorado River Commission.
 
 (Pub. L. 90–537, title VI, §603, Sept. 30, 1968, 82 Stat. 901.)
 

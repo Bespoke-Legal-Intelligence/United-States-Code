@@ -92,7 +92,7 @@
 
 (4) A supplementary annuity under this subsection—
 
-&emsp;(A) shall be payable to a survivor only for calendar months ending before the calendar month in which such survivor first satisfies the minimum age requirement under section 202(e)(1)(B)(i) or 202(f)(1)(B)(i) of the Social Security Act, as the case may be;
+&emsp;(A) shall be payable to a survivor only for calendar months ending before the calendarmonth in which such survivor first satisfies the minimum age requirement under section 202(e)(1)(B)(i) or 202(f)(1)(B)(i) of the Social Security Act, as the case may be;
 
 &emsp;(B) shall not be payable to a survivor who would not be entitled to benefits under subsection (e) or (f) of section 202 of the Social Security Act based on the wages and self-employment income of the deceased annuitant (determined, as of the date of the annuitant's death, as if the survivor had attained age 60 and made appropriate application for benefits, but without regard to any restriction under either such subsection relating to remarriage); and
 
@@ -110,7 +110,7 @@
 
 (g)(1) If the widow or widower of an annuitant under section 8452 (hereinafter in this subsection referred to as a “disability annuitant”) is determined under subsection (a) to be entitled to an annuity based on the service of such disability annuitant, the annuity of the widow or widower shall be equal to 50 percent of the amount determined under paragraph (2) (or one-half thereof if designated for this purpose under section 8419 of this title), rather than of the amount referred to in subsection (a).
 
-(2)(A) Except as provided in subparagraph (B), the amount on which the annuity of the widow or widower of a disability annuitant is based shall be the amount of the annuity to which such disability annuitant was entitled, as computed under section 8452 (including appropriate reduction under subsection (a)(2) of such sectionand any adjustments under section 8462 allowed under section 8452), as of the day before the date of the disability annuitant's death.
+(2)(A) Except as provided in subparagraph (B), the amount on which the annuity of the widow or widower of a disability annuitant is based shall be the amount of the annuity to which such disability annuitant was entitled, as computed under section 8452 (including appropriate reduction under subsection (a)(2) of such section and any adjustments under section 8462 allowed under section 8452), as of the day before the date of the disability annuitant's death.
 
 (B)(i) In the case of a widow or widower entitled to an annuity based on the service of a disability annuitant who dies before age 62, the amount under clause (ii) shall apply instead of the amount which would otherwise apply under subparagraph (A).
 
@@ -142,11 +142,11 @@ The Social Security Act, referred to in subsec. (f)(3), (4), is act Aug. 14, 193
 
 #### Amendments
 
-<b>1988</b>—Subsec. (a)(1). Pub. L. 100–238, §131(b)(1), inserted “(or one-half thereof, if designated for this purpose under section 8419 of this title),” after “with respect to the annuitant,”.
+1988—Subsec. (a)(1). Pub. L. 100–238, §131(b)(1), inserted “(or one-half thereof, if designated for this purpose under section 8419 of this title),” after “with respect to the annuitant,”.
 
 Subsec. (g)(1). Pub. L. 100–238, §131(b)(2), inserted “(or one-half thereof if designated for this purpose under section 8419 of this title)” after “paragraph (2)”.
 
-<b>1986</b>—Subsec. (c)(2)(B)(i)(I). Pub. L. 99–556 which directed that subsec. (c)(2)(B)(i)(I) of this section be amended generally was executed to subsec. (c)(2)(B)(i)(I) of this section, as the probable intent of Congress. Prior to the amendment, subcl. (I) read as follows: “on the day after the date on which the former employee or Member would have attained age 62; or”.
+1986—Subsec. (c)(2)(B)(i)(I). Pub. L. 99–556 which directed that subsec. (c)(2)(B)(i)(I) of this section be amended generally was executed to subsec. (c)(2)(B)(i)(I) of this section, as the probable intent of Congress. Prior to the amendment, subcl. (I) read as follows: “on the day after the date on which the former employee or Member would have attained age 62; or”.
 
 #### Section Referred to in Other Sections
 

@@ -14,7 +14,7 @@ Other changes were made in phraseology without change of substance.
 
 #### Prior Provisions
 
-A prior section 217 of this title was redesignated section 212.
+A prior section 217 of this title was renumbered section 212.
 
 #### Amendments
 

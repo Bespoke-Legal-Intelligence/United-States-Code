@@ -2,7 +2,13 @@
 
 #### (a) Short-term credit guarantees
 
-The Commodity Credit Corporation may guarantee the repayment of credit made available to finance commercial export sales of agricultural commodities, including processed agricultural products and high-value agricultural products, from privately owned stocks on credit terms that do not exceed a 3-year period.
+#### (1) In general
+
+&emsp;The Commodity Credit Corporation may guarantee the repayment of credit made available to finance commercial export sales of agricultural commodities, including processed agricultural products and high-value agricultural products, from privately owned stocks on credit terms that do not exceed a 3-year period.
+
+#### (2) Supplier credits
+
+&emsp;In carrying out this section, the Commodity Credit Corporation may issue guarantees for the repayment of credit made available for a period of not more than 180 days by a United States exporter to a buyer in a foreign country.
 
 #### (b) Intermediate-term credit guarantees
 
@@ -32,7 +38,7 @@ The Commodity Credit Corporation may use export credit guarantees authorized und
 
 &emsp;&emsp;(A) developing countries; and
 
-&emsp;&emsp;(B) countries that are emerging democracies that have committed to carry out, or are carrying out, policies that promote economic freedom, private domestic production of food commodities for domestic consumption, and the creation and expansion of efficient domestic markets for the purchase and sale of agricultural commodities; and
+&emsp;&emsp;(B) countries that are emerging markets that have committed to carry out, or are carrying out, policies that promote economic freedom, private domestic production of food commodities for domestic consumption, and the creation and expansion of efficient domestic markets for the purchase and sale of agricultural commodities; and
 
 &emsp;(4) for such other purposes as the Secretary determines appropriate, consistent with the provisions of subsection (c) of this section.
 
@@ -42,41 +48,65 @@ Export credit guarantees authorized by this section shall not be used for foreig
 
 #### (f) Restrictions
 
-The Commodity Credit Corporation shall not make credit guarantees available in connection with sales of agricultural commodities to any country that the Secretary determines cannot adequately service the debt associated with such sale.
+#### (1) In general
+
+&emsp;The Commodity Credit Corporation shall not make credit guarantees available in connection with sales of agricultural commodities to any country that the Secretary determines cannot adequately service the debt associated with such sale.
+
+#### (2) Criteria for determination
+
+&emsp;In making the determination required under paragraph (1) with respect to credit guarantees under subsection (b) of this section for a country, the Secretary may consider, in addition to financial, macroeconomic, and monetary indicators—
+
+&emsp;&emsp;(A) whether an International Monetary Fund standby agreement, Paris Club rescheduling plan, or other economic restructuring plan is in place with respect to the country;
+
+&emsp;&emsp;(B) whether the country is addressing issues such as—
+
+&emsp;&emsp;&emsp;(i) the convertibility of the currency of the country;
+
+&emsp;&emsp;&emsp;(ii) adequate legal protection for foreign investments;
+
+&emsp;&emsp;&emsp;(iii) the viability of the financial markets of the country; and
+
+&emsp;&emsp;&emsp;(iv) adequate legal protection for the private property rights of citizens of the country; or
+
+&emsp;&emsp;(C) any other factors that are relevant to the ability of the country to service the debt of the country.
 
 #### (g) Terms
 
 Export credit guarantees issued pursuant to this section shall contain such terms and conditions as the Commodity Credit Corporation determines to be necessary.
 
-#### (h) Foreign agricultural components
+#### (h) United States agricultural commodities
 
-The Commodity Credit Corporation shall finance or guarantee under this section only United States agricultural commodities. The Commodity Credit Corporation shall not finance or guarantee under this section the value of any foreign agricultural component.
+The Commodity Credit Corporation shall finance or guarantee under this section only United States agricultural commodities.
 
 #### (i) Ineligibility of financial institutions
 
-A financial institution shall be ineligible to receive an assignment of a credit guarantee issued by the Commodity Credit Corporation under this section if it is determined by the Corporation, at the time of the assignment, that such financial institution—
+#### (1) In general
 
-&emsp;(1) is not in a sound financial condition;
+&emsp;A financial institution shall be ineligible to receive an assignment of a credit guarantee issued by the Commodity Credit Corporation under this section if it is determined by the Corporation, at the time of the assignment, that such financial institution—
 
-&emsp;(2) is the financial institution issuing the letter of credit or a subsidiary of such institution; or
+&emsp;&emsp;(A) is the financial institution issuing the letter of credit or a subsidiary of such institution; or
 
-&emsp;(3) is owned or controlled by an entity that owns or controls that financial institution issuing the letter of credit.
+&emsp;&emsp;(B) is owned or controlled by an entity that owns or controls that financial institution issuing the letter of credit.
+
+#### (2) Third country banks
+
+&emsp;The Commodity Credit Corporation may guarantee under subsections (a) and (b) of this section the repayment of credit made available to finance an export sale irrespective of whether the obligor is located in the country to which the export sale is destined.
 
 #### (j) Conditions for fish and processed fish products
 
 In making available any guarantees of credit under this section in connection with sales of fish and processed fish products, the Secretary shall make such guarantees available under terms and conditions that are comparable to the terms and conditions that apply to guarantees provided with respect to sales of other agricultural commodities under this section.
 
-#### (k) Set-asides
+#### (k) Processed and high-value products
 
 #### (1) In general
 
-&emsp;In issuing export credit guarantees under this section in connection with sales to the independent states of the former Soviet Union, the Commodity Credit Corporation shall, to the extent practicable and subject to paragraph (2), ensure that no less than 35 percent of the total amount of credit guarantees issued for a fiscal year are issued to promote the export of processed and high-value agricultural products and that the balance are issued to promote the export of bulk or raw agricultural commodities.
+&emsp;In issuing export credit guarantees under this section, the Commodity Credit Corporation shall, subject to paragraph (2), ensure that not less than 25 percent for each of fiscal years 1996 and 1997, 30 percent for each of fiscal years 1998 and 1999, and 35 percent for each of fiscal years 2000, 2001, and 2002, of the total amount of credit guarantees issued for a fiscal year is issued to promote the export of processed or high-value agricultural products and that the balance is issued to promote the export of bulk or raw agricultural commodities.
 
 #### (2) Limitation
 
-&emsp;The 35 percent requirement of paragraph (1) shall apply for a fiscal year only to the extent that the percentage of the total amount of credit guarantees issued for that fiscal year under this section to promote the export to all countries of processed and high-value agricultural products is less than 25 percent.
+&emsp;The percentage requirement of paragraph (1) shall apply for a fiscal year to the extent that a reduction in the total amount of credit guarantees issued for the fiscal year is not required to meet the percentage requirement.
 
-(Pub. L. 95–501, title II, §202, as added Pub. L. 101–624, title XV, §1531, Nov. 28, 1990, 104 Stat. 3673; amended Pub. L. 102–237, title III, §334, Dec. 13, 1991, 105 Stat. 1859; Pub. L. 102–511, title VII, §§708, 709(a), Oct. 24, 1992, 106 Stat. 3351.)
+(Pub. L. 95–501, title II, §202, as added Pub. L. 101–624, title XV, §1531, Nov. 28, 1990, 104 Stat. 3673; amended Pub. L. 102–237, title III, §334, Dec. 13, 1991, 105 Stat. 1859; Pub. L. 102–511, title VII, §§708, 709(a), Oct. 24, 1992, 106 Stat. 3351; Pub. L. 104–127, title II, §§243(a), 277(c)(3), Apr. 4, 1996, 110 Stat. 965, 979.)
 
 #### References in Text
 
@@ -88,6 +118,26 @@ A prior section 202 of Pub. L. 95–501 enacted section 1707c of this title prio
 
 #### Amendments
 
+1996—Subsec. (a). Pub. L. 104–127, §243(a)(1), designated existing provisions as par. (1), inserted heading, and added par. (2).
+
+Subsec. (d)(3)(B). Pub. L. 104–127, §277(c)(3), substituted “emerging markets” for “emerging democracies”.
+
+Subsec. (f). Pub. L. 104–127, §243(a)(2), designated existing provisions as par. (1), inserted heading, and added par. (2).
+
+Subsec. (h). Pub. L. 104–127, §243(a)(3), added subsec. (h) and struck out heading and text of former subsec. (h). Text read as follows: “The Commodity Credit Corporation shall finance or guarantee under this section only United States agricultural commodities. The Commodity Credit Corporation shall not finance or guarantee under this section the value of any foreign agricultural component.”
+
+Subsec. (i). Pub. L. 104–127, §243(a)(4), designated existing provisions as par. (1), inserted heading, struck out former par. (1) which read as follows: “is not in a sound financial condition;”, redesignated pars. (2) and (3) as subpars. (A) and (B), respectively, of par. (1), and added par. (2).
+
+Subsec. (k). Pub. L. 104–127, §243(a)(5), added subsec. (k) and struck out heading and text of former subsec. (k). Text read as follows:
+
+“(1)
+
+In general.—In issuing export credit guarantees under this section in connection with sales to the independent states of the former Soviet Union, the Commodity Credit Corporation shall, to the extent practicable and subject to paragraph (2), ensure that no less than 35 percent of the total amount of credit guarantees issued for a fiscal year are issued to promote theexport of processed and high-value agricultural products and that the balance are issued to promote the export of bulk or raw agricultural commodities.
+
+“(2)
+
+Limitation.—The 35 percent requirement of paragraph (1) shall apply for a fiscal year only to the extent that the percentage of the total amount of credit guarantees issued for that fiscal year under this section to promote the export to all countries of processed and high-value agricultural products is less than 25 percent.”
+
 1992—Subsecs. (a), (b). Pub. L. 102–511, §709(a)(1), inserted “, including processed agricultural products and high-value agricultural products,” after “agricultural commodities”.
 
 Subsec. (c). Pub. L. 102–511, §708(a), inserted sentence at end.
@@ -98,13 +148,17 @@ Subsec. (k). Pub. L. 102–511, §709(a)(2), added subsec. (k).
 
 1991—Subsec. (i). Pub. L. 102–237 substituted “issued by the Commodity Credit Corporation under this section if it is determined by the Corporation, at the time of the assignment, that” for “or proceeds payable under a credit guarantee issued by the Commodity Credit Corporation under this section if it is determined by the Corporation that”.
 
-#### Promotion of Agricultural Exports to Emerging Democracies
+#### Regulations
 
-Section 1542 of title XV of Pub. L. 101–624, as amended by Pub. L. 102–237, title III, §338, Dec. 13, 1991, 105 Stat. 1859; Pub. L. 102–511, title VII, §706, Oct. 24, 1992, 106 Stat. 3350; Pub. L. 103–182, title III, §321(g), Dec. 8, 1993, 107 Stat. 2112, provided that:
+Section 243(d) of Pub. L. 104–127 provided that: “Not later than 180 days after the date of enactment of this Act \[Apr. 4, 1996\], the Secretary of Agriculture shall issue regulations to carry out the amendments made by this section \[amending this section and sections 5602 and 5641 of this title\].”
+
+#### Promotion of Agricultural Exports to Emerging Markets
+
+Section 1542 of title XV of Pub. L. 101–624, as amended by Pub. L. 102–237, title III, §338, Dec. 13, 1991, 105 Stat. 1859; Pub. L. 102–511, title VII, §706, Oct. 24, 1992, 106 Stat. 3350; Pub. L. 103–182, title III, §321(g), Dec. 8, 1993, 107 Stat. 2112; Pub. L. 104–127, title II, §§277(a), 278, Apr. 4, 1996, 110 Stat. 977, 979, provided that:
 
 “(a)
 
-Guarantees To Be Made Available.—The Commodity Credit Corporation, for the fiscal years 1991 through 1995 shall make available not less than $1,000,000,000 of direct credits or export credit guarantees for exports to emerging democracies under section 201 or 202 of the Agricultural Trade Act of 1978 \[7 U.S.C. 5621, 5622\], in addition to the amounts required or authorized under section 211 of that Act \[7 U.S.C. 5641\] for such program.
+Funding.—The Commodity Credit Corporation shall make available for fiscal years 1996 through 2002 not less than $1,000,000,000 of direct credits or export credit guarantees for exports to emerging markets under section 201 or 202 of the Agricultural Trade Act of 1978 (7 U.S.C. 5621 and 5622), in addition to the amounts acquired or authorized under section 211 of the Act (7 U.S.C. 5641) for the program.
 
 “(b)
 
@@ -114,21 +168,19 @@ Facilities and Services.—A portion of such export credit guarantees shall be m
 
 &emsp;“(2) the provision of services or United States produced goods,
 
-> in emerging democracies by United States persons to improve handling, marketing, processing, storage, or distribution of imported agricultural commodities and products thereof if the Secretary of Agriculture determines that such guarantees will primarily promote the export of United States agricultural commodities (as defined in section 101(6) \[102(7)\] of the AgriculturalTrade Act of 1978 \[7 U.S.C. 5602(7)\]). The Commodity Credit Corporation shall give priority under this subsection—
+> in emerging markets by United States persons to improve handling, marketing, processing, storage, or distribution of imported agricultural commodities and products thereof if the Secretary of Agriculture determines that such guarantees will primarily promote the export of United States agricultural commodities (as defined in section 102(7) of the Agricultural Trade Act of 1978 \[7 U.S.C. 5602(7)\]). The Commodity Credit Corporation shall give priority under this subsection to—
 
-&emsp;“(1) to opportunities or projects identified under subsection (d)(1);
+&emsp;“(A) projects that encourage the privatization of the agricultural sector or that benefit private farms or cooperatives in emerging markets; and
 
-&emsp;“(2) to projects that encourage the privatization of the agricultural sector or that benefit private farms or cooperatives in emerging democracies; and
-
-&emsp;“(3) to projects for which nongovernmental persons agree to assume a relatively larger share of the costs.
+&emsp;“(B) projects for which nongovernmental persons agree to assume a relatively larger share of the costs.
 
 “(c)
 
-Consultations.—Before the authority under this section is exercised, the Secretary of Agriculture shall consult with exporters of United States agricultural commodities (as defined in section 101(6) \[102(7)\] of the Agricultural Trade Act of 1978 \[7 U.S.C. 5602(7)\]), nongovernmental experts, and other Federal Government agencies in order to ensure that facilities in an emerging democracy for which financing is guaranteed under paragraph (1)(B) do not primarily benefit countries which are in close geographic proximity to that emerging democracy.
+Consultations.—Before the authority under this section is exercised, the Secretary of Agriculture shall consult with exporters of United States agricultural commodities (as defined in section 102(7) of the Agricultural Trade Act of 1978 \[7 U.S.C. 5602(7)\]), nongovernmental experts, and other Federal Government agencies in order to ensure that facilities in an emerging market for which financing is guaranteed under paragraph (1)(B) do not primarily benefit countries which are in close geographic proximity to that emerging market.
 
 “(d)
 
-E (Kika) de la Garza Agricultural Fellowship Program.—The Secretary of Agriculture (hereafter in this section referred to as the ‘Secretary’) shall establish a program, to be known as the ‘E (Kika) de la Garza Agricultural Fellowship Program’, to develop agricultural markets in emerging democracies and to promote cooperation and exchange of information between agricultural institutions and agribusinesses in the United States and the Soviet Union, as follows:
+E (Kika) de la Garza Agricultural Fellowship Program.—The Secretary of Agriculture (hereafter in this section referred to as the ‘Secretary’) shall establish a program, to be known as the ‘E (Kika) de la Garza Agricultural Fellowship Program’, to develop agricultural markets in emerging markets and to promote cooperation and exchange of information between agricultural institutions and agribusinesses in the United States and emerging markets, as follows:
 
 &emsp;“(1)
 
@@ -140,21 +192,21 @@ In general.—
 
 &emsp;&emsp;&emsp;“(i)
 
-Establishment of program.—For each of the fiscal years 1991 through 1995, the Secretary of Agriculture (hereafter in this section referred to as the ‘Secretary’), in order to develop, maintain, or expand markets for United States agricultural exports, is directed to make available to emerging democracies the expertise of the United States to make assessments of the food and rural business systems needs of such democracies, make recommendations on measures necessary to enhance the effectiveness of those systems, and identify specific opportunities and projects to enhance the effectiveness of those systems.
+Establishment of program.—For each of the fiscal years 1991 through 2002, the Secretary of Agriculture (hereafter in this section referred to as the ‘Secretary’), in order to develop, maintain, or expand markets for United States agricultural exports, is directed to make available to emerging markets the expertise of the United States to make assessments of the food and rural business systems needs of such democracies \[markets\], make recommendations on measures necessary to enhance the effectiveness of the systems, including potential reductions in trade barriers, and identify and carry out specific opportunities and projects to enhance the effectiveness of those systems.
 
 &emsp;&emsp;&emsp;“(ii)
 
-Extent of program.—The Secretary shall implement this paragraph with respect to at least 3 emerging democracies in each fiscal year.
+Extent of program.—The Secretary shall implement this paragraph with respect to at least 3 emerging markets in each fiscal year.
 
 &emsp;&emsp;“(B)
 
-Experts from the united states.—The Secretary shall implement the requirements of subparagraph (A)—
+Experts from the united states.—The Secretary may implement the requirements of subparagraph (A)—
 
-&emsp;&emsp;&emsp;“(i) by providing assistance to teams consisting primarily of agricultural consultants, farmers, other persons from the private sector, and government officials expert in assessing the food and rural business systems of other countries to enable such teams to conduct the assessments, make the recommendations, and identify the opportunities and projects specified in subparagraph (A) in emerging democracies;
+&emsp;&emsp;&emsp;“(i) by providing assistance to teams consisting primarily of agricultural consultants, farmers, other persons from the private sector, and government officials expert in assessing the food and rural business systems of other countries to enable such teams to conduct the assessments, make the recommendations, and identify the opportunities and projects specified in subparagraph (A) in emerging markets;
 
-&emsp;&emsp;&emsp;“(ii) by providing necessary subsistence expenses in the United States and necessary transportation expenses by individuals designated by emerging democracies to enable such individuals to consult with food and rural business system experts in the United States to enhance such systems of such emerging democracies; and
+&emsp;&emsp;&emsp;“(ii) by providing necessary subsistence expenses in the United States and necessary transportation expenses by individuals designated by emerging markets to enable such individuals to consult with food and rural business system experts in the United States to enhance such systems of such emerging markets; and
 
-&emsp;&emsp;&emsp;“(iii) by providing for necessary subsistence expenses in emerging democracies and necessary transportation expenses of United States agricultural producers and other individuals knowledgeable in agricultural and agribusiness matters to assist in transferring their knowledge and expertise to entities in emerging democracies.
+&emsp;&emsp;&emsp;“(iii) by providing for necessary subsistence expenses in emerging markets and necessary transportation expenses of United States agricultural producers and other individuals knowledgeable in agricultural and agribusiness matters to assist in transferring their knowledge and expertise to entities in emerging markets.
 
 &emsp;&emsp;“(C)
 
@@ -162,7 +214,7 @@ Cost-sharing.—The Secretary shall encourage the nongovernmental experts descri
 
 &emsp;&emsp;“(D)
 
-Technical assistance.—The Secretary is authorized to provide, or pay the necessary costs for, technical assistance to enable individuals or other entities to implement the recommendations or to carry out the opportunities and projects identified under paragraph (1)(A).
+Technical assistance.—The Secretary is authorized to provide, or pay the necessary costs for, technical assistance (including the establishment of extension services) to enable individuals or other entities to implement the recommendations or to carry out the opportunities and projects identified under paragraph (1)(A). Notwithstanding any other provision of law, the assistance shall include assistance for administrative and overhead expenses of the International Cooperation and Development Program Area of the Foreign Agriculture Service, to the extent that the expenses were incurred pursuant to reimbursable agreements entered into prior to September 30, 1993, the expenses do not exceed $2,000,000 per year, and the expenses are not incurred for information technology systems.
 
 &emsp;&emsp;“(E)
 
@@ -170,17 +222,13 @@ Reports to secretary.—A team that receives assistance under subparagraph (B) s
 
 &emsp;&emsp;“(F)
 
-Report to congress.—The Secretary shall annually submit to the Committee on Agriculture, Nutrition, and Forestry of the Senate and the Committee on Agriculture and the Committee on Foreign Affairs \[now Committee on International Relations\] of the House of Representatives, a report summarizing the activities carried out under this paragraph, including a summary of the assessments and recommendations prepared under this paragraph, and the Secretary shall also make the assessments and recommendations available to the public.
+Advisory committee.—To provide the Secretary with information that may be useful to the Secretary in carrying out the provisions of this paragraph, the Secretary shall establish an advisory committee composed of representatives of the various sectors of the food and rural business systems of the United States.
 
 &emsp;&emsp;“(G)
 
-Advisory committee.—To provide the Secretary with information that may be useful to the Secretary in carrying out the provisions of this paragraph, the Secretary shall establish an advisory committee composed of representatives of the various sectors of the food and rural business systems of the United States.
-
-&emsp;&emsp;“(H)
-
 Use of ccc.—The Secretary shall implement this paragraph through the funds and facilities of the Commodity Credit Corporation. The authority provided under this paragraph shall be in addition to and not in place of any other authority of the Secretary or the Commodity Credit Corporation.
 
-&emsp;&emsp;“(I)
+&emsp;&emsp;“(H)
 
 Level of assistance.—The Secretary shall provide assistance under this paragraph of not more than $10,000,000 in any fiscal year.
 
@@ -190,13 +238,13 @@ Agricultural information program.—
 
 &emsp;&emsp;“(A)
 
-Establishment of program.—The Secretary shall establish a program, administered to complement the emerging democracies export promotion program developed under this section, to initiate and develop collaboration between the United States Department of Agriculture, United States agribusinesses, and appropriate agricultural institutions in the Soviet Union in order to promote the exchange of information and resources that will make a long-term contribution to the establishment of a free market food production and distribution system in the Soviet Union and the enhancement of agricultural trade with the United States.
+Establishment of program.—The Secretary shall establish a program, administered to complement the emerging markets export promotion program developed under this section, to initiate and develop collaboration between the United States Department of Agriculture, United States agribusinesses, and appropriate agricultural institutions in emerging markets in order to promote the exchange of information and resources that will make a long-term contribution to the establishment of free market food production and distribution systems in emerging markets and the enhancement of agricultural trade with the United States.
 
 &emsp;&emsp;“(B)
 
 Implementation.—The Secretary shall draw on the Department of Agriculture's experience to design, implement, and evaluate, on a cost-sharing basis with cooperating agricultural institutions, a program to—
 
-&emsp;&emsp;&emsp;“(i) compile, through contacts with the Government of the Soviet Union and private sector officials in the Soviet Union, a list of their agricultural institutions, including the location, capabilities, and needs of the institutions;
+&emsp;&emsp;&emsp;“(i) compile, through contacts with the governments of emerging markets and private sector officials in emerging markets, a list of their agricultural institutions, including the location, capabilities, and needs of the institutions;
 
 &emsp;&emsp;&emsp;“(ii) make such information available through an appropriate agency of the Department of Agriculture to agribusinesses and agricultural institutions in the United States and other agencies of the United States Government; and
 
@@ -204,51 +252,19 @@ Implementation.—The Secretary shall draw on the Department of Agriculture's ex
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) to review available agricultural information resources, to determine which would be useful for the purposes of this program;
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) to arrange for the exchange of persons associated with such agricultural institutions and agribusinesses with experience or interest in the areas of need identified in clause (i); and
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) to arrange for the exchange of persons associated with such agricultural institutions and agribusinesses with experience or interest in the areas of need identified in clause (i);
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(III) to help establish contacts between agricultural entrepreneurs and businesses in the United States and the Soviet Union, which may include individuals and entities participating in the program established under paragraph (1), to facilitate cooperation and joint enterprises.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(III) to help establish contacts between agricultural entrepreneurs and businesses in the United States and emerging markets, which may include individuals and entities participating in the program established under paragraph (1), to facilitate cooperation and joint enterprises; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(IV) to provide for the exchange of administrators and faculty members from agricultural and other institutions to strengthen and revise educational programs in agricultural economics, agribusiness, and agrarian law, to support change towards a free market economy in emerging markets.
 
 &emsp;&emsp;“(C)
 
-Consultation and coordination.—The Secretary shall consult and coordinate with the Secretary of State and the Agency for International Development in the formulation and implementation of this program in conjunction with overall assistance to the Soviet Union.
+Consultation and coordination.—The Secretary shall consult and coordinate with the Secretary of State and the Agency for International Development in the formulation and implementation of this program in conjunction with overall assistance to emerging markets.
 
 &emsp;&emsp;“(D)
-
-Definition.—For the purposes of this subsection, the term ‘Soviet Union’ means the Soviet Union, its successor entities, or any of the individual republics of the Soviet Union.
-
-&emsp;&emsp;“(E)
 
 Authorization for appropriations.—There are authorized to be appropriated such sums as may be necessary to carry out the program established under this paragraph.
-
-&emsp;“(3)
-
-Agricultural fellowships for nafta countries.—
-
-&emsp;&emsp;“(A)
-
-In general.—The Secretary shall grant fellowships to individuals from countries that are parties to the North American Free Trade Agreement (referred to in this paragraph as ‘NAFTA’) to study agriculture in the United States, and to individuals in the United States to study agriculture in other NAFTA countries.
-
-&emsp;&emsp;“(B)
-
-Purpose.—The purpose of fellowships granted under this paragraph is—
-
-&emsp;&emsp;&emsp;“(i) to allow the recipients to expand their knowledge and understanding of agricultural systems and practices in other NAFTA countries;
-
-&emsp;&emsp;&emsp;“(ii) to facilitate the improvement of agricultural systems in NAFTA countries; and
-
-&emsp;&emsp;&emsp;“(iii) to establish and expand agricultural trade linkages between the United States and other NAFTA countries.
-
-&emsp;&emsp;“(C)
-
-Eligible recipients.—The Secretary may provide fellowships under this paragraph to agricultural producers and consultants, government officials, and other individuals from the private and public sectors.
-
-&emsp;&emsp;“(D)
-
-Acceptance of gifts.—The Secretary may accept money, funds, property, and services of every kind by gift, devise, bequest, grant, or otherwise, and may in any manner, dispose of all of the holdings and use the receipts generated from the disposition to carry out this paragraph. Receipts under this paragraph shall remain available until expended.
-
-&emsp;&emsp;“(E)
-
-Authorization of appropriation.—There are authorized to be appropriated such sums as are necessary to carry out this paragraph.
 
 “(e)
 
@@ -256,11 +272,11 @@ Foreign Debt Burdens.—
 
 &emsp;“(1)
 
-Effect of credits.—In carrying out the program described in subsection (a), the Secretary of Agriculture shall ensure that the credits for which repayment is guaranteed under subsection (a) do not negatively affect the political and economic situation in emerging democracies by excessively adding to the foreign debt burdens of such countries.
+Effect of credits.—In carrying out the program described in subsection (a), the Secretary of Agriculture shall ensure that the credits for which repayment is guaranteed under subsection (a) do not negatively affect the political and economic situation in emerging markets by excessively adding to the foreign debt burdens of such countries.
 
 &emsp;“(2)
 
-Consultation and report.—Not later than 6 months after the effective date of this title \[Nov. 28, 1990\], and not later than the end of each 6-month period occurring thereafter, the Secretary of Agriculture, in consultation with other appropriate Federal departments, shall prepare and transmit to the Committee on Foreign Affairs and the Committee on Agriculture of the House of Representatives, and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report to assist the Congress in assessing the extent to which credits for which repayment is guaranteed under subsection (a) meet the requirements of paragraph (1). The report shall include—
+Consultation and report.—Subject to section 217 of the Department of Agriculture Reorganization Act of 1994 (7 U.S.C. 6917), not later than 6 months after the effective date of this title \[Nov. 28, 1990\], and not later than the end of each 6-month period occurring thereafter, the Secretary of Agriculture, in consultation with other appropriate Federal departments, shall prepare and transmit to the Committee on Foreign Affairs \[now Committee on International Relations\] and the Committee on Agriculture of the House of Representatives, and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report to assist the Congress in assessing the extent to which credits for which repayment is guaranteed under subsection (a) meet the requirements of paragraph (1). The report shall include—
 
 &emsp;&emsp;“(A) the amount and allocation, by country, of credit guarantees issued under subsection (a);
 
@@ -276,15 +292,11 @@ Consultation and report.—Not later than 6 months after the effective date of t
 
 “(f)
 
-Emerging Democracy.—As used in this section, the term ‘emerging democracy’ means any country that, as determined by the President, is taking steps toward—
+Emerging Market.—In this section and section 1543 \[7 U.S.C. 3293\], the term ‘emerging market’ means any country that the Secretary determines—
 
-&emsp;“(1) political pluralism, based on progress toward free and fair elections and a multiparty political system;
+&emsp;“(1) is taking steps toward a market-oriented economy through the food, agriculture, or rural business sectors of the economy of the country; and
 
-&emsp;“(2) economic reform, based on progress toward a market-oriented economy;
-
-&emsp;“(3) respect for internationally recognized human rights; and
-
-&emsp;“(4) a willingness to build a friendly relationship with the United States.”
+&emsp;“(2) has the potential to provide a viable and significant market for United States agricultural commodities or products of United States agricultural commodities.”
 
 #### Presidential Determination of Emerging Democracies
 

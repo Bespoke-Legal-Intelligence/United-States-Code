@@ -1,8 +1,12 @@
 ### §559. Obscene programming
 
-Whoever transmits over any cable system any matter which is obscene or otherwise unprotected by the Constitution of the United States shall be fined not more than $10,000 or imprisoned not more than 2 years, or both.
+Whoever transmits over any cable system any matter which is obscene or otherwise unprotected by the Constitution of the United States shall be fined under title 18 or imprisoned not more than 2 years, or both.
 
-(June 19, 1934, ch. 652, title VI, §639, as added Oct. 30, 1984, Pub. L. 98–549, §2, 98 Stat. 2801.)
+(June 19, 1934, ch. 652, title VI, §639, as added Oct. 30, 1984, Pub. L. 98–549, §2, 98 Stat. 2801; amended Feb. 8, 1996, Pub. L. 104–104, title V, §503, 110 Stat. 136.)
+
+#### Amendments
+
+1996—Pub. L. 104–104 substituted “under title 18” for “not more than $10,000”.
 
 #### Effective Date
 

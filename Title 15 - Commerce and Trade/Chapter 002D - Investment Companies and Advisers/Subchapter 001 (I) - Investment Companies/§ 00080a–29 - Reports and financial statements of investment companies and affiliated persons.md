@@ -2,23 +2,37 @@
 
 #### (a) Annual report by company
 
-Every registered investment company shall file annually with the Commission such information, documents, and reports as investment companies having securities registered on a national securities exchange are required to file annually pursuant to section 78m(a) of this title and the rules and regulations issued thereunder.
+Every registered investment company shall file annually with the Commission such information, documents, and reports as investment companies having securities registered on a national securities exchange are required to file annually pursuant to section 13(a) of the Securities Exchange Act of 1934 \[15 U.S.C. 78m(a)\] and the rules and regulations issued thereunder.
 
 #### (b) Semi-annual or quarterly filing of information; copies of periodic or interim reports sent to security holders
 
 Every registered investment company shall file with the Commission—
 
-&emsp;(1) such information and documents (other than financial statements) as the Commission may require, on a semi-annual or quarterly basis, to keep reasonably current the information and documents contained in the registration statement of such company filed under this subchapter; and
+&emsp;(1) such information, documents, and reports (other than financial statements), as the Commission may require to keep reasonably current the information and documents contained in the registration statement of such company filed under this subchapter; <sup>1</sup>
 
 &emsp;(2) copies of every periodic or interim report or similar communication containing financial statements and transmitted to any class of such company's security holders, such copies to be filed not later than ten days after such transmission.
 
 > Any information or documents contained in a report or other communication to security holders filed pursuant to paragraph (2) of this subsection may be incorporated by reference in any report subsequently or concurrently filed pursuant to paragraph (1) of this subsection.
 
-#### (c) Reports under this section in lieu of reports under other provisions of law
+#### (c) Minimizing reporting burdens
 
-The Commission shall issue rules and regulations permitting the filing with the Commission, and with any national securities exchange concerned, of copies of periodic reports, or of extracts therefrom, filed by any registered investment company pursuant to subsections (a) and (b) of this section, in lieu of any reports and documents required of such company under section 78m or 78<i>o</i>(d) of this title.
+(1) The Commission shall take such action as it deems necessary or appropriate, consistent with the public interest and the protection of investors, to avoid unnecessary reporting by, and minimize the compliance burdens on, registered investment companies and their affiliated persons in exercising its authority—
 
-#### (d) Semi-annual reports to stockholders
+&emsp;(A) under subsection (f) of this section; and
+
+&emsp;(B) under subsection (b)(1) of this section, if the Commission requires the filing of information, documents, and reports under that subsection on a basis more frequently than semiannually.
+
+(2) Action taken by the Commission under paragraph (1) shall include considering, and requesting public comment on—
+
+&emsp;(A) feasible alternatives that minimize the reporting burdens on registered investment companies; and
+
+&emsp;(B) the utility of such information, documents, and reports to the Commission in relation to the costs to registered investment companies and their affiliated persons of providing such information, documents, and reports.
+
+#### (d) Reports under this section in lieu of reports under other provisions of law
+
+The Commission shall issue rules and regulations permitting the filing with the Commission, and with any national securities exchange concerned, of copies of periodic reports, or of extracts therefrom, filed by any registered investment company pursuant to subsections (a) and (b) of this section, in lieu of any reports and documents required of such company under section 13 or 15(d) of the Securities Exchange Act of 1934 \[15 U.S.C. 78m or 78<i>o</i>(d)\].
+
+#### (e) Semi-annual reports to stockholders
 
 Every registered investment company shall transmit to its stockholders, at least semi-annually, reports containing such of the following information and financial statements or their equivalent, as of a reasonably current date, as the Commission may prescribe by rules and regulations for the protection of investors, which reports shall not be misleading in any material respect in the light of the reports required to be filed pursuant to subsections (a) and (b) of this section:
 
@@ -36,15 +50,53 @@ Every registered investment company shall transmit to its stockholders, at least
 
 > <i>Provided</i>, That if in the judgment of the Commission any item required under this subsection is inapplicable or inappropriate to any specified type or types of investment company, the Commission may by rules and regulations permit in lieu thereof the inclusion of such item of a comparable character as it may deem applicable or appropriate to such type or types of investment company.
 
-#### (e) Certificate of independent public accountants
+#### (f) Additional information
 
-Financial statements contained in annual reports required pursuant to subsections (a) and (d) of this section, if required by the rules and regulations of the Commission, shall be accompanied by a certificate of independent public accountants. The certificate of such independent public accountants shall be based upon an audit not less in scope or procedures followed than that which independent public accountants would ordinarily make for the purpose of presenting comprehensive and dependable financial statements, and shall contain such information as the Commission may prescribe, by rules and regulations in the public interest or for the protection of investors, as to the nature and scope of the audit and the findings and opinion of the accountants. Each such report shall state that such independent public accountants have verified securities owned, either by actual examination, or by receipt of a certificate from the custodian, as the Commission may prescribe by rules and regulations.
+The Commission may, by rule, require that semiannual reports containing the information set forth in subsection (e) of this section include such other information as the Commission deems necessary or appropriate in the public interest or for the protection of investors.
 
-#### (f) Duties and liabilities of affiliated persons
+#### (g) <sup>2</sup> Certificate of independent public accountants
 
-Every person who is directly or indirectly the beneficial owner of more than 10 per centum of any class of outstanding securities (other than short-term paper) of which a registered closed-end company is the issuer or who is an officer, director, member of an advisory board, investment adviser, or affiliated person of an investment adviser of such a company shall in respect of his transactions in any securities of such company (other than short-term paper) be subject to the same duties and liabilities as those imposed by section 78p of this title upon certain beneficial owners, directors, and officers in respect of their transactions in certain equity securities.
+Financial statements contained in annual reports required pursuant to subsections (a) and (e) of this section, if required by the rules and regulations of the Commission, shall be accompanied by a certificate of independent public accountants. The certificate of such independent public accountants shall be based upon an audit not less in scope or procedures followed than that which independent public accountants would ordinarily make for the purpose of presenting comprehensive and dependable financial statements, and shall contain such information as the Commission may prescribe, by rules and regulations in the public interest or for the protection of investors, as to the nature and scope of the audit and the findings and opinion of the accountants. Each such report shall state that such independent public accountants have verified securities owned, either by actual examination, or by receipt of a certificate from the custodian, as the Commission may prescribe by rules and regulations.
 
-(Aug. 22, 1940, ch. 686, title I, §30, 54 Stat. 836.)
+#### (h) <sup>3</sup> Duties and liabilities of affiliated persons
+
+Every person who is directly or indirectly the beneficial owner of more than 10 per centum of any class of outstanding securities (other than short-term paper) of which a registered closed-end company is the issuer or who is an officer, director, member of an advisory board, investment adviser, or affiliated person of an investment adviser of such a company shall in respect of his transactions in any securities of such company (other than short-term paper) be subject to the same duties and liabilities as those imposed by section 16 of the Securities Exchange Act of 1934 \[15 U.S.C. 78p\] upon certain beneficial owners, directors, and officers in respect of their transactions in certain equity securities.
+
+#### (g) <sup>2</sup> Disclosure to church plan participants
+
+A person that maintains a church plan that is excluded from the definition of an investment company solely by reason of section 80a–3(c)(14) of this title shall provide disclosure to plan participants, in writing, and not less frequently than annually, and for new participants joining such a plan after May 31, 1996, as soon as is practicable after joining such plan, that—
+
+&emsp;(1) the plan, or any company or account maintained to manage or hold plan assets and interests in such plan, company, or account, are not subject to registration, regulation, or reporting under this subchapter, the Securities Act of 1933 \[15 U.S.C. 77a et seq.\], the Securities Exchange Act of 1934 \[15 U.S.C. 78a et seq.\], or State securities laws; and
+
+&emsp;(2) plan participants and beneficiaries therefore will not be afforded the protections of those provisions.
+
+#### (h) <sup>3</sup> Notice to Commission
+
+The Commission may issue rules and regulations to require any person that maintains a church plan that is excluded from the definition of an investment company solely by reason of section 80a–3(c)(14) of this title to file a notice with the Commission containing such information and in such form as the Commission may prescribe as necessary or appropriate in the public interest or consistent with the protection of investors.
+
+(Aug. 22, 1940, ch. 686, title I, §30, 54 Stat. 836; Oct. 11, 1996, Pub. L. 104–290, title II, §206, title V, §508(g), 110 Stat. 3430, 3449.)
+
+#### References in Text
+
+The Securities Act of 1933, referred to in subsec. (g)(1), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, as amended, which is classified generally to subchapter I (§77a et seq.) of chapter 2A of this title. For complete classification of this Act to the Code, see section 77a of this title and Tables.
+
+The Securities Exchange Act of 1934, referred to in subsec. (g)(1), is act June 6, 1934, ch. 404, 48 Stat. 881, as amended, which is classified principally to chapter 2B (§78a et seq.) of this title. For complete classification of this Act to the Code, see section 78a of this title and Tables.
+
+#### Amendments
+
+1996—Subsec. (b)(1). Pub. L. 104–290, §206(1), added par. (1) and struck out former par. (1) which read as follows: “such information and documents (other than financial statements) as the Commission may require, on a semi-annual or quarterly basis, to keep reasonably current the information and documents contained in the registration statement of such company filed under this subchapter; and”.
+
+Subsecs. (c) to (e). Pub. L. 104–290, §206(2), (3), added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively. Former subsec. (e) redesignated (g).
+
+Subsec. (f). Pub. L. 104–290, §206(2), (4), added subsec. (f). Former subsec. (f) redesignated (h).
+
+Subsec. (g). Pub. L. 104–290, §508(g), added subsec. (g), relating to disclosure to church plan participants.
+
+Pub. L. 104–290, §206(2), (5), redesignated subsec. (e), relating to certificate of independent public accountants, as (g), and substituted “pursuant to subsections (a) and (e) of this section” for “pursuant to subsections (a) and (d) of this section”.
+
+Subsec. (h). Pub. L. 104–290, §508(g), added subsec. (h), relating to notice to Commission.
+
+Pub. L. 104–290, §206(2), redesignated subsec. (f), relating to duties and liabilities of affiliated persons, as (h).
 
 #### Transfer of Functions
 
@@ -62,5 +114,11 @@ Reports by registered investment company in lieu of registration statement, see 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 80a–2, 80a–6, 80a–8, 80a–24, 80a–30, 80a–63 of this title.
+This section is referred to in sections 80a–2, 80a–6, 80a–8, 80a–24, 80a–63 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by “and”.</i>
+
+<i><sup>2</sup></i><i> So in original. Two subsecs. (g) have been enacted.</i>
+
+<i><sup>3</sup></i><i> So in original. Two subsecs. (h) have been enacted.</i>
 

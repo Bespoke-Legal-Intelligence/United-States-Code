@@ -62,7 +62,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) the amount treated as a parachute payment shall not include the portion of such payment which the taxpayer establishes by clear and convincing evidence is reasonable compensation for personal services to be rendered on or after the date of the change described in paragraph (2)(A)(i), and
 
-&emsp;&emsp;(B) the amount treated as an excess parachute payment shall be reduced by the portion of such payment which the taxpayer establishes by clear and convincing evidence is reasonable compensation for personal services actually rendered before the date of the change described in paragraph (2)(A)(i).
+&emsp;&emsp;(B) the amount treated as an excess parachute payment shall be reduced by the portion of such payment which the taxpayer establishes by clear and convincing evidence isreasonable compensation for personal services actually rendered before the date of the change described in paragraph (2)(A)(i).
 
 > &emsp;For purposes of subparagraph (B), reasonable compensation for services actually rendered before the date of the change described in paragraph (2)(A)(i) shall be first offset against the base amount.
 
@@ -98,9 +98,11 @@ For purposes of this section—
 
 &emsp;&emsp;(A) a plan described in section 401(a) which includes a trust exempt from tax under section 501(a),
 
-&emsp;&emsp;(B) an annuity plan described in section 403(a), or
+&emsp;&emsp;(B) an annuity plan described in section 403(a),
 
-&emsp;&emsp;(C) a simplified employee pension (as defined in section 408(k)).
+&emsp;&emsp;(C) a simplified employee pension (as defined in section 408(k)), or
+
+&emsp;&emsp;(D) a simple retirement account described in section 408(p).
 
 #### (c) Disqualified individuals
 
@@ -110,7 +112,7 @@ For purposes of this section, the term “disqualified individual” means any i
 
 &emsp;(2) is an officer, shareholder, or highly-compensated individual.
 
-> For purposes of this section, a personal service corporation (or similar entity) shall be treated as an individual. For purposes of paragraph (2),the term “highly-compensated individual” only includes an individual who is (or would be if the individual were an employee) a member of the group consisting of the highest paid 1 percent of the employees of the corporation or, if less, the highest paid 250 employees of the corporation.
+> For purposes of this section, a personal service corporation (or similar entity) shall be treated as an individual. For purposes of paragraph (2), the term “highly-compensated individual” only includes an individual who is (or would be if the individual were an employee) a member of the group consisting of the highest paid 1 percent of the employees of the corporation or, if less, the highest paid 250 employees of the corporation.
 
 #### (d) Other definitions and special rules
 
@@ -148,9 +150,11 @@ For purposes of this section—
 
 The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section (including regulations for the application of this section in the case of related corporations and in the case of personal service corporations).
 
-(Added Pub. L. 98–369, div. A, title I, §67(a), July 18, 1984, 98 Stat. 585; amended Pub. L. 99–121, title I, §102(c)(4), Oct. 11, 1985, 99 Stat. 508; Pub. L. 99–514, title XVIII, §1804(j), Oct. 22, 1986, 100 Stat. 2807; Pub. L. 100–647, title I, §1018(d)(6)–(8), Nov. 10, 1988, 102 Stat. 3581.)
+(Added Pub. L. 98–369, div. A, title I, §67(a), July 18, 1984, 98 Stat. 585; amended Pub. L. 99–121, title I, §102(c)(4), Oct. 11, 1985, 99 Stat. 508; Pub. L. 99–514, title XVIII, §1804(j), Oct. 22, 1986, 100 Stat. 2807; Pub. L. 100–647, title I, §1018(d)(6)–(8), Nov. 10, 1988, 102 Stat. 3581; Pub. L. 104–188, title I, §1421(b)(9)(A), Aug. 20, 1996, 110 Stat. 1798.)
 
 #### Amendments
+
+1996—Subsec. (b)(6)(D). Pub. L. 104–188 added subpar. (D).
 
 1988—Subsec. (b)(5)(A). Pub. L. 100–647, §1018(d)(6), substituted “section 1361(b) but without regard to paragraph (1)(C) thereof)” for “section 1361(b))” in cl. (i) and inserted at end “Stock described in section 1504(a)(4) shall not be taken into account under clause (ii)(I) if the payment does not adversely affect the shareholder's redemption and liquidation rights.”
 
@@ -173,6 +177,10 @@ Subsec. (c). Pub. L. 99–514, §1804(j)(5), inserted provision defining “high
 Subsec. (d)(2). Pub. L. 99–514, §1804(j)(8), substituted “performed personal services for the corporation” for “was an employee of the corporation”.
 
 Subsec. (d)(5). Pub. L. 99–514, §1804(j)(4), added par. (5).
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–188 applicable to taxable years beginning after Dec. 31, 1996, see section 1421(e) of Pub. L. 104–188, set out as a note under section 72 of this title.
 
 #### Effective Date of 1988 Amendment
 
@@ -197,6 +205,10 @@ In general.—The amendments made by this section \[enacting this section and se
 “(2)
 
 Special rule for contract amendments.—Any contract entered into before June 15, 1984, which is amended after June 14, 1984, in any significant relevant aspect shall be treated as a contract entered into after June 14, 1984.”
+
+#### Plan Amendments Not Required Until January 1, 1998
+
+For provisions directing that if any amendments made by subtitle D \[§§1401–1465\] of title I of Pub. L. 104–188 require an amendment to any plan or annuity contract, such amendment shall not be required to be made before the first day of the first plan year beginning on or after Jan. 1, 1998, see section 1465 of Pub. L. 104–188, set out as a note under section 401 of this title.
 
 #### Plan Amendments Not Required Until January 1, 1989
 

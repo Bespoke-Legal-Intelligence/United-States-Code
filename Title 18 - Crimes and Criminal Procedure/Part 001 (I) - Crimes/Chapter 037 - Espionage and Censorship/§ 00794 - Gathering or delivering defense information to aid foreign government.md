@@ -12,6 +12,8 @@
 
 &emsp;(B) any of the person's property used, or intended to be used, in any manner or part, to commit, or to facilitate the commission of, such violation.
 
+> For the purposes of this subsection, the term “State” includes a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
+
 (2) The court, in imposing sentence on a defendant for a conviction of a violation of this section, shall order that the defendant forfeit to the United States all property described in paragraph (1) of this subsection.
 
 (3) The provisions of subsections (b), (c) and (e) through (p) of section 413 of the Comprehensive Drug Abuse Prevention and Control Act of 1970 (21 U.S.C. 853(b), (c), and (e)–(p)) shall apply to—
@@ -26,7 +28,7 @@
 
 (4) Notwithstanding section 524(c) of title 28, there shall be deposited in the Crime Victims Fund in the Treasury all amounts from the forfeiture of property under this subsection remaining after the payment of expenses for forfeiture and sale authorized by law.
 
-(June 25, 1948, ch. 645, 62 Stat. 737; Sept. 3, 1954, ch. 1261, title II, §201, 68 Stat. 1219; Aug. 27, 1986, Pub. L. 99–399, title XIII, §1306(b), 100 Stat. 898; Nov. 18, 1988, Pub. L. 100–690, title VII, §7064, 102 Stat. 4404; Sept. 13, 1994, Pub. L. 103–322, title VI, §60003(a)(2), 108 Stat. 1968; Oct. 14, 1994, Pub. L. 103–359, title VIII, §804(b)(2), 108 Stat. 3440.)
+(June 25, 1948, ch. 645, 62 Stat. 737; Sept. 3, 1954, ch. 1261, title II, §201, 68 Stat. 1219; Aug. 27, 1986,Pub. L. 99–399, title XIII, §1306(b), 100 Stat. 898; Nov. 18, 1988, Pub. L. 100–690, title VII, §7064, 102 Stat. 4404; Sept. 13, 1994, Pub. L. 103–322, title VI, §60003(a)(2), 108 Stat. 1968; Oct. 14, 1994, Pub. L. 103–359, title VIII, §804(b)(2), 108 Stat. 3440; Oct. 11, 1996, Pub. L. 104–294, title VI, §§604(b)(2), 607(b), 110 Stat. 3506, 3511.)
 
 #### Historical and Revision Notes
 
@@ -46,7 +48,11 @@ Section 101(a) of the Foreign Intelligence Surveillance Act of 1978, referred to
 
 #### Amendments
 
-1994—Subsec. (a). Pub. L. 103–322 substituted for period at end “, except that the sentence of death shallnot be imposed unless the jury or, if there is no jury, the court, further finds that the offense resulted in the identification by a foreign power (as defined in section 101(a) of the Foreign Intelligence Surveillance Act of 1978) of an individual acting as an agent of the United States and consequently in the death of that individual, or directly concerned nuclear weaponry, military spacecraft or satellites, early warning systems, or other means of defense or retaliation against large-scale attack; war plans; communications intelligence or cryptographic information; or any other major weapons system or major element of defense strategy.”
+1996—Subsec. (a). Pub. L. 104–294, §604(b)(2), amended directory language of Pub. L. 103–322, §60003(a)(2). See 1994 Amendment note below.
+
+Subsec. (d)(1). Pub. L. 104–294, §607(b), inserted at end “For the purposes of this subsection, the term ‘State’ includes a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States.”
+
+1994—Subsec. (a). Pub. L. 103–322, as amended by Pub. L. 104–294, §604(b)(2), substituted for period at end “, except that the sentence of death shall not be imposed unless the jury or, if there is no jury, the court, further finds that the offense resulted in the identification by a foreign power (as defined in section 101(a) of the Foreign Intelligence Surveillance Act of 1978) of an individual acting as an agent of the United States and consequently in the death of that individual, or directly concerned nuclear weaponry, military spacecraft or satellites, early warning systems, or other means of defense or retaliation against large-scale attack; war plans; communications intelligence or cryptographic information; or any other major weapons system or major element of defense strategy.”
 
 Subsec. (d)(3). Pub. L. 103–359 substituted “(p)” for “(<i>o</i>)” in two places.
 
@@ -55,6 +61,10 @@ Subsec. (d)(3). Pub. L. 103–359 substituted “(p)” for “(<i>o</i>)” in 
 1986—Subsec. (d). Pub. L. 99–399 added subsec. (d).
 
 1954—Act Sept. 3, 1954, increased the penalty for peacetime espionage and corrected a deficiency on the sentencing authority by increasing penalty to death or imprisonment for any term of years.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by section 604(b)(2) of Pub. L. 104–294 effective Sept. 13, 1994, see section 604(d) of Pub. L. 104–294, set out as a note under section 13 of this title.
 
 #### Temporary Extension of Section
 

@@ -20,7 +20,7 @@ Act Feb. 20, 1905, ch. 592, §12, 33 Stat. 727.
 
 #### Amendments
 
-1988—Subsec. (a). Pub. L. 100–667 substituted “ten” for “twenty” and “setting forth those goods or servicesrecited in the registration on or in connection with which the mark is in use in commerce and attaching to the affidavit a specimen or facsimile showing current use of the mark, or showing that any” for “showing that said mark is in use in commerce or showing that its”.
+1988—Subsec. (a). Pub. L. 100–667 substituted “ten” for “twenty” and “setting forth those goods or services recited in the registration on or in connection with which the mark is in use in commerce and attaching to the affidavit a specimen or facsimile showing current use of the mark, or showing that any” for “showing that said mark is in use in commerce or showing that its”.
 
 1982—Subsecs. (a), (b). Pub. L. 97–247 struck out “still” after “showing that said mark is”, and inserted “in commerce” after “use”.
 
@@ -48,7 +48,7 @@ For transfer of functions of other officers, employees, and agencies of Departme
 
 #### Pending Applications
 
-Act July 5, 1946, ch. 540, title XI, §51, as added Nov. 16, 1988, Pub. L. 100–667, title I, §135, 102 Stat. 3948, provided that: “All certificates of registration based upon applications for registration pending in the Patent and Trademark Office on the effective date of the Trademark Law Revision Act of 1988 \[see Effective Date of 1988 Amendment note set out under section 1051 of this title\] shall remain in force for a period of 10 years.”
+Act July 5, 1946, ch. 540, title XI, §51, as added Nov. 16, 1988, Pub. L. 100–667, title I, §135, 102 Stat. 3948, provided that: “All certificates of registration based upon applications for registration pending in the Patent andTrademark Office on the effective date of the Trademark Law Revision Act of 1988 \[see Effective Date of 1988 Amendment note set out under section 1051 of this title\] shall remain in force for a period of 10 years.”
 
 #### Section Referred to in Other Sections
 

@@ -1,5 +1,5 @@
 
-11 U.S.C.<br>United States Code, 1995 Edition<br>Title 11 - BANKRUPTCY<br>From the U.S. Government Publishing Office, www.gpo.gov
+11 U.S.C.<br>United States Code, 1996 Edition<br>Title 11 - BANKRUPTCY<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 11—BANKRUPTCY
 
@@ -32,9 +32,13 @@
 
 Table I<br>This Table lists the sections of former Title 11, Bankruptcy, and indicates the sections of Title 11, as revised by Pub. L. 95–598 which cover similar and related subject matter.
 
-<i>Title 11      Former Sections     </i>
+<i>Title 11</i>
 
-<i>Title 11         New Sections        </i>
+<i>Former Sections</i>
+
+<i>Title 11</i>
+
+<i>New Sections</i>
 
 1(1)–(3)
 
@@ -448,7 +452,7 @@ Rep.
 
 549(c)
 
-44(h)–(<i>l)</i>
+44(h)–(<i>l</i>)
 
 Rep.
 
@@ -608,7 +612,7 @@ Rep.
 
 322(c)
 
-78(j)–(<i>l)</i>
+78(j)–(<i>l</i>)
 
 Rep.
 
@@ -1016,7 +1020,7 @@ Rep.
 
 1168
 
-205(k), (<i>l)</i>
+205(k), (<i>l</i>)
 
 Rep.
 
@@ -1028,7 +1032,7 @@ Rep.
 
 1167, 1171(a)
 
-205(<i>o)</i>
+205(<i>o</i>)
 
 1170
 
@@ -2698,9 +2702,13 @@ Rep.
 
 Table II<br>This Table lists the sections of revised Title 11, Bankruptcy, and indicates the sections of former Title 11, which covered similar and related subject matter.
 
-<i>Title 11         New Sections        </i>
+<i>Title 11</i>
 
-<i>Title 11      Former Sections     </i>
+<i>New Sections</i>
+
+<i>Title 11</i>
+
+<i>Former Sections</i>
 
 101(1)–(3)
 
@@ -3966,7 +3974,7 @@ T. 15 §78c(a)(4), (5)
 
 1170
 
-205(<i>o)</i>
+205(<i>o</i>)
 
 1171(a)
 
@@ -4124,7 +4132,7 @@ Pub. L. 95–598, title IV, §401(a), Nov. 6, 1978, 92 Stat. 2682, provided that
 
 #### Effective Date
 
-Pub. L. 95–598, title IV, §402, Nov. 6, 1978, 92 Stat. 2682, as amended by Pub. L. 98–249, §1(a), Mar. 31, 1984, 98 Stat. 116; Pub. L. 98–271, §1(a), Apr. 30, 1984, 98 Stat. 163; Pub. L. 98–299, §1(a), May 25, 1984, 98 Stat. 214; Pub. L. 98–325, §1(a), June 20, 1984, 98 Stat. 268; Pub. L. 98–353, title I, §§113, 121(a), July 10, 1984, 98 Stat. 343, 345; Pub. L. 98–454, title X, §1001, Oct. 5, 1984, 98 Stat. 1745, provided that:
+Pub. L. 95–598, title IV, §402, Nov. 6, 1978, 92 Stat. 2682, as amended by Pub. L. 98–249, §1(a), Mar. 31, 1984, 98Stat. 116; Pub. L. 98–271, §1(a), Apr. 30, 1984, 98 Stat. 163; Pub. L. 98–299, §1(a), May 25, 1984, 98 Stat. 214; Pub. L. 98–325, §1(a), June 20, 1984, 98 Stat. 268; Pub. L. 98–353, title I, §§113, 121(a), July 10, 1984, 98 Stat. 343, 345; Pub. L. 98–454, title X, §1001, Oct. 5, 1984, 98 Stat. 1745, provided that:
 
 “(a) Except as otherwise provided in this title \[sections 401 to 411\], this Act \[for classification to the Code, see Tables\] shall take effect on October 1, 1979.
 

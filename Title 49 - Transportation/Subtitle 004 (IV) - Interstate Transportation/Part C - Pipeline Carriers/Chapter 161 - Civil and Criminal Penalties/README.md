@@ -1,15 +1,8 @@
 ### <b>CHAPTER 161—CIVIL AND CRIMINAL PENALTIES</b>
 
-#### CHAPTER 161—CIVIL AND CRIMINAL PENALTIES <sup>1</sup>
-
 | Sec. |  |
 | :--- | ---: |
 | [16101\.](%C2%A7%2016101%20-%20General%20civil%20penalties.md) | General civil penalties. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |
-| :--- | ---: |
 | [16102\.](%C2%A7%2016102%20-%20Recordkeeping%20and%20reporting%20violations.md) | Recordkeeping and reporting violations. |
 | [16103\.](%C2%A7%2016103%20-%20Unlawful%20disclosure%20of%20information.md) | Unlawful disclosure of information. |
 | [16104\.](%C2%A7%2016104%20-%20Disobedience%20to%20subpenas.md) | Disobedience to subpenas. |
@@ -18,7 +11,9 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<i><sup>1</sup></i><i> So in original. Probably should not appear.</i>
+#### Amendments
+
+1996—Pub. L. 104–287, §5(46), Oct. 11, 1996, 110 Stat. 3393, struck out duplicative chapter heading.
 
 
 ---

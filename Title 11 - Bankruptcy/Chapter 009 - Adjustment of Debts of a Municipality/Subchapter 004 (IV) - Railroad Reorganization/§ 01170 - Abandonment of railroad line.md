@@ -18,7 +18,7 @@
 
 (e)(1) In authorizing any abandonment of a railroad line under this section, the court shall require the rail carrier to provide a fair arrangement at least as protective of the interests of employees as that established under section 11347 <sup>1</sup> of title 49.
 
-(2) Nothing in this subsection shall be deemed to affect the priorities or timing of payment of employee protection which might have existed in the absence of this subsection.
+(2) Nothing in this subsection shall be deemed to affect the priorities or timing of payment ofemployee protection which might have existed in the absence of this subsection.
 
 (Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2643; Pub. L. 96–448, title II, §227(a), Oct. 14, 1980, 94 Stat. 1931; Pub. L. 98–353, title III, §521, July 10, 1984, 98 Stat. 388; Pub. L. 104–88, title III, §302(2), Dec. 29, 1995, 109 Stat. 943.)
 

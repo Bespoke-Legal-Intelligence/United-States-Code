@@ -1,12 +1,14 @@
 ### §605. Sale or lease of property, supplies, or services
 
-Any sale or lease of property, supplies, or services to the Congressional Budget Office shall be deemed to be a sale or lease of such property, supplies, or services to the Congress subject to section 111b of this title.
+(a) Any sale or lease of property, supplies, or services to the Congressional Budget Office shall be deemed to be a sale or lease to the Congress subject to section 111b of this title.
 
-(Pub. L. 104–53, title I, Nov. 19, 1995, 109 Stat. 527.)
+(b) Subsection (a) of this section shall apply with respect to fiscal years beginning after September 30, 1996.
+
+(Pub. L. 104–197, title I, §104, Sept. 16, 1996, 110 Stat. 2404.)
 
 #### References in Text
 
-Section 111b of this title, referred to in text, was in the original a reference to section 903 of Pub. L. 98–63, title I, July 30, 1983, 97 Stat. 336, which is classified to section 111b of this title and in part as a note set out under section 111b of this title.
+Section 111b of this title, referred to in subsec. (a), was in the original a reference to section 903 of the Supplemental Appropriations Act, 1983, Pub. L. 98–63, title I, July 30, 1983, 97 Stat. 336, which is classified to section 111b of this title and in part as a note set out under section 111b of this title.
 
 #### Codification
 
@@ -15,6 +17,8 @@ Section was enacted as part of the appropriation act cited as the credit to this
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in the following prior appropriation acts:
+
+Pub. L. 104–53, title I, Nov. 19, 1995, 109 Stat. 527.
 
 Pub. L. 103–283, title I, July 22, 1994, 108 Stat. 1433.
 

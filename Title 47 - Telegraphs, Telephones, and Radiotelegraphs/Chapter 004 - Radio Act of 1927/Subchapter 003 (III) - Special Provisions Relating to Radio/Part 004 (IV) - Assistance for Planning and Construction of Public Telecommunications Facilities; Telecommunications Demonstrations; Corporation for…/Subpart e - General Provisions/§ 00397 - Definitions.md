@@ -32,7 +32,7 @@ For the purposes of this part—
 
 &emsp;(B) as gifts, grants, donations, contributions, or payments from any State, or any educational institution, for the construction or operation of noncommercial educational broadcast stations or for the production, acquisition, distribution, or dissemination of educational television or radio programs, or payments in exchange for services or materials with respect to the provision of educational or instructional television or radio programs.
 
-> Such term includes the fair market value of personal services of volunteers, as computed using the valuation standards established by the Corporation and approved by the Comptroller General pursuant to section 396(g)(5) of this title, but only with respect to such services provided to public telecommunications entities after such standards are approved by the Comptroller General and only, with respect to such an entity in a fiscal year, to the extent that the value of the services does not exceed 5 percent of the total non-Federal financial support of the entity in such fiscal year.
+> Such term includes the fair market value of personal services of volunteers, as computed using the valuation standards established by the Corporation, but only, with respect to such an entity in a fiscal year, to the extent that the value of the services does not exceed 5 percent of the total non-Federal financial support of the entity in such fiscal year.
 
 (10) The term “preoperational expenses” means all nonconstruction costs incurred by new telecommunications entities before the date on which they begin providing service to the public, and all nonconstruction costs associated with expansion of existing entities before the date on which such expanded capacity is activated, except that such expenses shall not include any portion of the salaries of any personnel employed by an operating public telecommunications entity.
 
@@ -44,7 +44,7 @@ For the purposes of this part—
 
 &emsp;(B) disseminates public telecommunications services to the public.
 
-(13) The term “public telecommunications facilities” means apparatus necessary for production, interconnection, captioning, broadcast, or other distribution of programming, including, but not limited to, studio equipment, cameras, microphones, audio and video storage or reproduction equipment, or both, signal processors and switchers, towers, antennas, transmitters, translators, microwave equipment, mobile equipment, satellite communications equipment, instructional television fixed service equipment, subsidiary communications authorization transmitting and receiving equipment, cable television equipment, video and audio cassettes and discs, optical fiber communications equipment, and other means of transmitting, emitting, storing, and receiving images andsounds, or intelligence, except that such term does not include the buildings to house such apparatus (other than small equipment shelters which are part of satellite earth stations, translators, microwave interconnection facilities, and similar facilities).
+(13) The term “public telecommunications facilities” means apparatus necessary for production, interconnection, captioning, broadcast, or other distribution of programming, including, but not limited to, studio equipment, cameras, microphones, audio and video storage or reproduction equipment, or both, signal processors and switchers, towers, antennas, transmitters, translators, microwave equipment, mobile equipment, satellite communications equipment, instructional television fixed service equipment, subsidiary communications authorization transmitting and receiving equipment, cable television equipment, video and audio cassettes and discs, optical fiber communications equipment, and other means of transmitting, emitting, storing, and receiving images and sounds, or intelligence, except that such term does not include the buildings to house such apparatus (other than small equipment shelters which are part of satellite earth stations, translators, microwave interconnection facilities, and similar facilities).
 
 (14) The term “public telecommunications services” means noncommercial educational and cultural radio and television programs, and related noncommercial instructional or informational material that may be transmitted by means of electronic communications.
 
@@ -54,7 +54,7 @@ For the purposes of this part—
 
 (17) The term “system of public telecommunications entities” means any combination of public telecommunications entities acting cooperatively to produce, acquire, or distribute programs, or to undertake related activities.
 
-(June 19, 1934, ch. 652, title III, §397, formerly §394, as added May 1, 1962, Pub. L. 87–447, 76 Stat. 67; renumbered §397 and amended Nov. 7, 1967, Pub. L. 90–129, title I, §§103(f), 105, 106, title II, §201(3), (6), 81 Stat. 366–368; Dec. 31, 1975, Pub. L. 94–192, §5, 89 Stat. 1100; June 5, 1976, Pub. L. 94–309, §6, 90 Stat. 684; Nov. 2, 1978, Pub. L. 95–567, title IV, §401, 92 Stat. 2422; Aug. 13, 1981, Pub. L. 97–35, title XII, §1234(b), 95 Stat. 736; Oct. 18, 1990, Pub. L. 101–437, title II, §203(b), 104 Stat. 1000.)
+(June 19, 1934, ch. 652, title III, §397, formerly §394, as added May 1, 1962, Pub. L. 87–447, 76 Stat. 67; renumbered §397 and amended Nov. 7, 1967, Pub. L. 90–129, title I, §§103(f), 105, 106, title II, §201(3), (6), 81 Stat. 366–368; Dec. 31, 1975, Pub. L. 94–192, §5, 89 Stat. 1100; June 5, 1976, Pub. L. 94–309, §6, 90 Stat. 684; Nov. 2, 1978, Pub. L. 95–567, title IV, §401, 92 Stat. 2422; Aug. 13, 1981, Pub. L. 97–35, title XII, §1234(b), 95 Stat. 736; Oct. 18, 1990, Pub. L. 101–437, title II, §203(b), 104 Stat. 1000; Oct. 19, 1996, Pub. L. 104–316, title I, §126(a), 110 Stat. 3840.)
 
 #### References in Text
 
@@ -65,6 +65,8 @@ This part, referred to in provision preceding par. (1), commences with section 3
 A prior section 397, act June 19, 1934, ch. 652, title III, §397, as added May 1, 1962, Pub. L. 87–447, 76 Stat. 67, was renumbered section 398 by Pub. L. 90–129, and is classified to section 398 of this title.
 
 #### Amendments
+
+1996—Par. (9). Pub. L. 104–208, in closing provisions, struck out “and approved by the Comptroller General pursuant to section 396(g)(5) of this title” after “by the Corporation” and “with respect to such services provided to public telecommunications entities after such standards are approved by the Comptroller General and only” before “, with respect to such an entity”.
 
 1990—Par. (2). Pub. L. 101–437, §203(b)(1), substituted “subpart D” for “subpart C”.
 

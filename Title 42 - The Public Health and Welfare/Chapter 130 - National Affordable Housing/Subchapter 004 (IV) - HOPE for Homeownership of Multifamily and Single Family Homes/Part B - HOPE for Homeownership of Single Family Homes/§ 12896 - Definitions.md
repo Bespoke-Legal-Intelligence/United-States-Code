@@ -8,7 +8,7 @@ For purposes of this part:
 
 &emsp;(3) The term “eligible family” means a family or individual who—
 
-&emsp;&emsp;(A) has an income that does not exceed 80 percent of the median income for the area,as determined by the Secretary with adjustments for smaller and larger families; and
+&emsp;&emsp;(A) has an income that does not exceed 80 percent of the median income for the area, as determined by the Secretary with adjustments for smaller and larger families; and
 
 &emsp;&emsp;(B) is a first-time homebuyer.
 
@@ -18,11 +18,11 @@ For purposes of this part:
 
 &emsp;(6) The term “homeownership program” means a program for homeownership under this part.
 
-&emsp;(7) The term “Indian housing authority” has the meaning given such term in section 1437a(b)(11) of this title.
+&emsp;(7) The term “Indian housing authority” has the meaning given such term in section 3(b)(11) <sup>1</sup> of the United States Housing Act of 1937.
 
-&emsp;(8) The term “low-income family” has the meaning given such term in section 1437a(b)(2) of this title.
+&emsp;(8) The term “low-income family” has the meaning given such term in section 3(b)(2) of the United States Housing Act of 1937 \[42 U.S.C. 1437a(b)(2)\].
 
-&emsp;(9) The term “public housing agency” has the meaning given such term in section 1437a(b)(6) of this title.
+&emsp;(9) The term “public housing agency” has the meaning given such term in section 3(b)(6) of the United States Housing Act of 1937 \[42 U.S.C. 1437a(b)(6)\].
 
 &emsp;(10) The term “recipient” means an applicant approved to receive a grant under this part or such other entity specified in the approved application that will assume the obligations of the recipient under this part.
 
@@ -42,7 +42,11 @@ For purposes of this part:
 
 The United States Housing Act of 1937, referred to in par. (4), is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 653, and amended, which is classified generally to chapter 8 (§1437 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1437 of this title and Tables.
 
+Section 3(b)(11) of the United States Housing Act of 1937, referred to in par. (7), was classified to section 1437a(b)(11) of this title prior to repeal by Pub. L. 104–330, title V, §501(b)(1)(D), Oct. 26, 1996, 110 Stat. 4041.
+
 #### Amendments
 
 1992—Par. (4). Pub. L. 102–550 inserted “the Federal Deposit Insurance Corporation, the Secretary of Defense, the Secretary of Transportation, the General Services Administration, any other Federal agency,” after “Corporation,” and substituted “(excluding public or Indian housing under the United States Housing Act of 1937 and including” for “(including scattered site single family properties, and”.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -1,10 +1,10 @@
 ### §1007. Deductions from pay
 
-(a) The pay of an officer of an armed force may be withheld, under section 5512 of title 5, only for an indebtedness to the United States admitted by the officer or shown by the judgment of a court, or upon a special order issued in the discretion of the Secretary concerned.
+(a) The pay of an officer of an armed force may be withheld, under section 5512 of title 5, only for an indebtedness to the United States admitted by the officer or shown by the judgment of a court, or upon a special order issued in the discretion of the Secretary of Defense (or the Secretary of Transportation, in the case of an officer of the Coast Guard when the Coast Guard is not operating as a service in the Navy), or upon the denial of relief of an officer pursuant to section 3527 of title 31.
 
 (b) An amount due to the United States from an enlisted member of the Army or the Air Force for articles sold to him on credit under section 4621(a)(1) or 9621(a)(1) of title 10, as the case may be, shall be deducted from the next pay due him after the sale is reported. An amount due the United States from an enlisted member of the Army or the Air Force for tobacco sold to him by the United States under section 4623 or 9623 of title 10 shall be deducted from his pay in the manner provided for the settlement of clothing accounts.
 
-(c) Under regulations prescribed by the Secretary concerned, an amount that a member of the uniformed services is administratively determined to owe the United States or any of its instrumentalities may be deducted from his pay in monthly installments. However, after the deduction of pay forfeited by the sentence of a court-martial, if any, or otherwise authorized by law to be withheld, the deductions authorized by this section may not reduce the pay actually received for any month to less than one-third of his pay for that month.
+(c) Under regulations prescribed by the Secretary concerned, an amount that a member of the uniformed services is administratively determined to owe the United States or any of its instrumentalities may be deducted from his pay in monthly installments. However, after the deduction of pay forfeited by the sentence of a court-martial, if any, or otherwise authorized bylaw to be withheld, the deductions authorized by this section may not reduce the pay actually received for any month to less than one-third of his pay for that month.
 
 (d) Subject to subsection (c), an amount due the United States from an enlisted member of the Army or the Air Force may be deducted from his pay on final statement, or from his savings on his clothing allowance.
 
@@ -32,7 +32,7 @@
 
 (5) This subsection does not apply to an enlisted member, warrant officer, or limited duty officer of a reserve component.
 
-(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 491; Pub. L. 89–718, §§71, 72, Nov. 2, 1966, 80 Stat. 1124; Pub. L. 90–83, §5(3), Sept. 11, 1967, 81 Stat. 221; Pub. L. 98–525, title XIII, §1305, Oct. 19, 1984, 98 Stat. 2613; Pub. L. 99–145, title VI, §684, Nov. 8, 1985, 99 Stat. 666; Pub. L. 100–180, div. A, title VI, §633(a), Dec. 4, 1987, 101 Stat. 1105; Pub. L. 101–189, div. A, title III, §343(a), Nov. 29, 1989, 103 Stat. 1420; Pub. L. 101–510, div. A, title XV, §1533(b), Nov. 5, 1990, 104 Stat. 1735; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–484, div. A, title X, §1054(a)(7), Oct. 23, 1992, 106 Stat. 2502; Pub. L. 103–337, div. A, title III, §371(a), Oct. 5, 1994, 108 Stat. 2735.)
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 491; Pub. L. 89–718, §§71, 72, Nov. 2, 1966, 80 Stat. 1124; Pub. L. 90–83, §5(3), Sept. 11, 1967, 81 Stat. 221; Pub. L. 98–525, title XIII, §1305, Oct. 19, 1984, 98 Stat. 2613; Pub. L. 99–145, title VI, §684, Nov. 8, 1985, 99 Stat. 666; Pub. L. 100–180, div. A, title VI, §633(a), Dec. 4, 1987, 101 Stat. 1105; Pub. L. 101–189, div. A, title III, §343(a), Nov. 29, 1989, 103 Stat. 1420; Pub. L. 101–510, div. A, title XV, §1533(b), Nov. 5, 1990, 104 Stat. 1735; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–484, div. A, title X, §1054(a)(7), Oct. 23, 1992, 106 Stat. 2502; Pub. L. 103–337, div. A, title III, §371(a), Oct. 5, 1994, 108 Stat. 2735; Pub. L. 104–106, div. A, title IX, §913(c)(2), Feb. 10, 1996, 110 Stat. 411; Pub. L. 104–201, div. A, title X, §1009(c)(1), Sept. 23, 1996, 110 Stat. 2635.)
 
 Historical and Revision Notes
 
@@ -135,6 +135,10 @@ Section 4623 of title 10, referred to in subsec. (b), was repealed by Pub. L. 91
 Provisions similar to those in subsec. (i) of this section were contained in section 44c of Title 24, Hospitals and Asylums, prior to repeal by Pub. L. 101–189, §347(4).
 
 #### Amendments
+
+1996—Subsec. (a). Pub. L. 104–201 inserted “(or the Secretary of Transportation, in the case of an officer of the Coast Guard when the Coast Guard is not operating as a service in the Navy)” after “Secretary of Defense”.
+
+Pub. L. 104–106 substituted “Secretary of Defense, or upon the denial of relief of an officer pursuant to section 3527 of title 31” for “Secretary concerned”.
 
 1994—Subsec. (i)(1). Pub. L. 103–337 substituted “$1.00” for “50 cents”.
 

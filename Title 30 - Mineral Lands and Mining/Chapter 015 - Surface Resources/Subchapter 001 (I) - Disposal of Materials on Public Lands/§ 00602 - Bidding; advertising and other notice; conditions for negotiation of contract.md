@@ -1,6 +1,6 @@
 ### §602. Bidding; advertising and other notice; conditions for negotiation of contract
 
-(a) The Secretary shall dispose of materials under this subchapter to the highest responsible qualified bidder after formal advertising and such other public notice as he deems appropriate: <i>Provided, however,</i> That the Secretary may authorize negotiation of a contract for the disposal of materials if—
+(a) The Secretary shall dispose of materials under this subchapter to the highest responsible qualified bidder after formal advertising and such other public notice as he deems appropriate: <i>Provided, however</i>, That the Secretary may authorize negotiation of a contract for the disposal of materials if—
 
 &emsp;(1) the contract is for the sale of less than two hundred fifty thousand board-feet of timber; or, if
 
@@ -14,7 +14,7 @@
 
 #### Amendments
 
-1980—Subsec. (b). Pub. L. 96–470 struck out subsec. (b) which required a report to be made to Congress on Apr.1 and Oct. 1 of each year of the contracts made under subsec. (a)(2) and (3) during the period since the date of the last report, which report was to name each purchaser, furnish the appraised value of the material involved, state the amount of each contract, and describe the circumstances leading to the determination that the contract should be entered into by negotiation instead of competitive bidding after formal advertising.
+1980—Subsec. (b). Pub. L. 96–470 struck out subsec. (b) which required a report to be made to Congress on Apr. 1 and Oct. 1 of each year of the contracts made under subsec. (a)(2) and (3) during the period since the date of the last report, which report was to name each purchaser, furnish the appraised value of the material involved, state the amount of each contract, and describe the circumstances leading to the determination that the contract should be entered into by negotiation instead of competitive bidding after formal advertising.
 
 1976—Subsec. (b). Pub. L. 94–273 substituted “April” for “January” and “October” for “July”.
 

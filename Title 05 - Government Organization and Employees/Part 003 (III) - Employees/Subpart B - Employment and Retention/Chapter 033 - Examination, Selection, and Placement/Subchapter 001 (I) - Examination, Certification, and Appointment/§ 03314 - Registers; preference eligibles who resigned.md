@@ -10,7 +10,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 5 U.S.C. 865.
 
@@ -22,7 +24,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-<b>1978</b>—Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission”.
+1978—Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission”.
 
 #### Effective Date of 1978 Amendment
 
@@ -30,5 +32,5 @@ Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 3320 of this title; title 22 section 1438.
+This section is referred to in section 3320 of this title; title 10 section 1599c; title 22 section 1438.
 

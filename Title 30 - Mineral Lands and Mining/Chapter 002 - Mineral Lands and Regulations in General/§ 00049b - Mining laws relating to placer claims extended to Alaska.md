@@ -14,7 +14,7 @@ Section was formerly classified to sections 119 and 381a of Title 48, Territorie
 
 #### Effective Date
 
-Section 3 of act May 4, 1934, provided that: “This Act \[enacting this section\] shall take effect thirty days subsequent to the date of convening of the first regularsession of the Alaska Territorial Legislature which is held after the passage of this Act \[May 4, 1934\].”
+Section 3 of act May 4, 1934, provided that: “This Act \[enacting this section\] shall take effect thirty days subsequent to the date of convening of the first regular session of the Alaska Territorial Legislature which is held after the passage of this Act \[May 4, 1934\].”
 
 #### Admission of Alaska as State
 

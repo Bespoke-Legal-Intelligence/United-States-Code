@@ -30,7 +30,7 @@ Planning grants may be used for activities to develop homeownership programs (wh
 
 #### (1) Form and procedures
 
-&emsp;An application for a planning grant shall be submitted by an applicant in such form and in accordance with such procedures as the Secretary shall establish.
+&emsp;An application for a planning grant shall be submitted by an applicant in such form and inaccordance with such procedures as the Secretary shall establish.
 
 #### (2) Minimum requirements
 
@@ -48,7 +48,7 @@ Planning grants may be used for activities to develop homeownership programs (wh
 
 #### (d) Selection criteria
 
-The Secretary shall, by regulation, establish selection criteria for a national competition forassistance under this section, which shall include—
+The Secretary shall, by regulation, establish selection criteria for a national competition for assistance under this section, which shall include—
 
 &emsp;(1) the qualifications or potential capabilities of the applicant;
 

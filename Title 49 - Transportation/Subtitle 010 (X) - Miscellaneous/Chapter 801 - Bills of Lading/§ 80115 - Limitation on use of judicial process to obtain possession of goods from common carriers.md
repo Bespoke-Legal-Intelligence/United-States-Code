@@ -12,7 +12,9 @@ Delivery.—A common carrier may be compelled by judicial process to deliver goo
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

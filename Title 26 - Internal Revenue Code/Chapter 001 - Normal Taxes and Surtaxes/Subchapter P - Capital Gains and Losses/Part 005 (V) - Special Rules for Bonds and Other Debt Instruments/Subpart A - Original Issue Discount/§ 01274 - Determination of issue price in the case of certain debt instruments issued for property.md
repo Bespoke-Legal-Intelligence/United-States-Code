@@ -34,7 +34,7 @@ For purposes of this section—
 
 &emsp;&emsp;For purposes of subparagraph (A), the term “potentially abusive situation” means—
 
-&emsp;&emsp;&emsp;(i) a tax shelter (as defined in section 6662(d)(2)(C)(ii)),<sup>1</sup> and
+&emsp;&emsp;&emsp;(i) a tax shelter (as defined in section 6662(d)(2)(C)(iii)), and
 
 &emsp;&emsp;&emsp;(ii) any other situation which, by reason of—
 
@@ -106,7 +106,7 @@ For purposes of this section—
 
 #### (iii) Aggregation of transactions
 
-&emsp;&emsp;&emsp;For purposes of this subparagraph, all sales and exchanges which are part of the same transaction (or a series of relatedtransactions) shall be treated as 1 sale or exchange.
+&emsp;&emsp;&emsp;For purposes of this subparagraph, all sales and exchanges which are part of the same transaction (or a series of related transactions) shall be treated as 1 sale or exchange.
 
 #### (D) Debt instruments which are publicly traded or issued for publicly traded property
 
@@ -140,11 +140,8 @@ For purposes of this section—
 
 &nbsp;
 
-| &nbsp; | &nbsp; |
+| <b> In the case of a  debt instrument  with a term of:</b> | <b>The applicable Federal rate is:</b> |
 | :--- | ---: |
-| <b>In the case of a</b> |  |
-| <b> debt instrument</b> | <b>The applicable Federal</b> |
-| <b> with a term of:</b> | <b> rate is:</b> |
 | &nbsp;Not over 3 years | The Federal short-term rate. |
 | &nbsp;Over 3 years but    not over 9 years | The Federal mid-term rate. |
 | &nbsp;Over 9 years | The Federal long-term rate. |
@@ -197,13 +194,11 @@ For purposes of this section—
 
 &emsp;This subsection shall apply to any debt instrument given in consideration for the sale or exchange of any property if, pursuant to a plan, the transferor or any related person leases a portion of such property after such sale or exchange.
 
-(Added Pub. L. 98–369, div. A, title I, §41(a), July 18, 1984, 98 Stat. 538; amended Pub. L. 99–121, title I, §§101(a)(1), (b), (c), 102(b), Oct. 11, 1985, 99 Stat. 505, 506, 508; Pub. L. 99–514, title XVIII, §1803(a)(14)(A), Oct. 22, 1986, 100 Stat. 2797; Pub. L. 101–239, title VII, §7721(c)(11), Dec. 19, 1989, 103 Stat. 2400.)
-
-#### References in Text
-
-Section 6662(d)(2)(C)(ii), referred to in subsec. (b)(3)(B)(i), was redesignated section 6662(d)(2)(C)(iii) by Pub. L. 103–465, title VII, §744(a), Dec. 8, 1994, 108 Stat. 5011.
+(Added Pub. L. 98–369, div. A, title I, §41(a), July 18, 1984, 98 Stat. 538; amended Pub. L. 99–121, title I, §§101(a)(1), (b), (c), 102(b), Oct. 11, 1985, 99 Stat. 505, 506, 508; Pub. L. 99–514, title XVIII, §1803(a)(14)(A), Oct. 22, 1986, 100 Stat. 2797; Pub. L. 101–239, title VII, §7721(c)(11), Dec. 19, 1989, 103 Stat. 2400; Pub. L. 104–188, title I, §1704(t)(78), Aug. 20, 1996, 110 Stat. 1891.)
 
 #### Amendments
+
+1996—Subsec. (b)(3)(B)(i). Pub. L. 104–188 substituted “section 6662(d)(2)(C)(iii)” for “section 6662(d)(2)(C)(ii)”.
 
 1989—Subsec. (b)(3)(B)(i). Pub. L. 101–239 substituted “section 6662(d)(2)(C)(ii)” for “section 6661(b)(2)(C)(ii)”.
 
@@ -219,7 +214,7 @@ Subsec. (c)(3). Pub. L. 99–121, §101(a)(1)(D), redesignated par. (4) as (3). 
 
 Subsec. (c)(4). Pub. L. 99–121, §102(b), added par. (4). Former par. (4) redesignated (3).
 
-Subsec. (d)(1)(B) to (D). Pub. L. 99–121, §101(b)(1), amended subpars. (B) to (D) generally, in subpar. (B) substituting provisions setting a monthly schedule for the determination of Federal rates for provisions which had formerly set a semi-annual schedule for the determination of such rates, in subpar. (C) substituting provisions setting a monthly schedule for the determination of Federal short-term, mid-term, and long-term rates based on the average market yield during any 1-month period ending in the month in which the determination is made for former provisions which had directed that the Federal rate determined under subpar. (A) apply during the appropriate 6-month period, and in subpar. (D) substituting provisions allowing a lower rate in certain cases for provisions relating to the setting of the Federal rate for any 6-month period.
+Subsec. (d)(1)(B) to (D). Pub. L. 99–121, §101(b)(1), amended subpars. (B) to (D) generally, in subpar. (B) substituting provisions setting a monthly schedule for the determination of Federal rates for provisions which had formerly set a semi-annual schedule for the determination of such rates, in subpar. (C) substituting provisions setting a monthly schedule for the determination of Federal short-term, mid-term, and long-term rates based on the average market yield during any 1-month period ending in the month in which the determination is made for former provisions which had directed that the Federal rate determined under subpar. (A) apply during the appropriate 6-month period, and insubpar. (D) substituting provisions allowing a lower rate in certain cases for provisions relating to the setting of the Federal rate for any 6-month period.
 
 Subsec. (d)(2). Pub. L. 99–121, §101(b)(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “In the case of any sale or exchange, the determination of the applicable Federal rate shall be made as of the first day on which there is a binding contract in writing for the sale or exchange.”
 
@@ -259,7 +254,5 @@ Provisions respecting treatment of debt instruments received in exchange for pro
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 42, 108, 143, 148, 163, 249, 280G, 382, 411, 412, 453, 460, 467, 468, 483, 514, 846, 857, 860B, 860E, 988, 1258, 1273, 1274A, 1275, 1288, 1297, 6621, 7520, 7872 of this title; title 29 sections 1054, 1082, 1083, 1084.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+This section is referred to in sections 42, 108, 143, 148, 163, 167, 249, 280G, 382, 411, 412, 453, 460, 467, 468, 483, 514, 846, 857, 860B, 860E, 860I, 988, 1258, 1273, 1274A, 1275, 1288, 1297, 6621, 7520, 7872 of this title; title 29 sections 1054, 1082, 1083, 1084.
 

@@ -16,7 +16,7 @@ In order to—
 
 #### (b) Appointment; supervision; removal
 
-(1) There shall be at the head of the Office an Inspector General who shall be appointed by the President, by and with the advice and consent of the Senate. This appointment shall be made without regard to political affiliation and shall be solely on the basis of integrity, compliance with the security standards of the Agency, and prior experience in the field of foreign intelligence. Such appointment shall also be made on the basis of demonstrated ability in accounting,financial analysis, law, management analysis, public administration, or auditing.
+(1) There shall be at the head of the Office an Inspector General who shall be appointed by the President, by and with the advice and consent of the Senate. This appointment shall be made without regard to political affiliation and shall be solely on the basis of integrity, compliance with the security standards of the Agency, and prior experience in the field of foreign intelligence. Such appointment shall also be made on the basis of demonstrated ability in accounting, financial analysis, law, management analysis, public administration, or auditing.
 
 (2) The Inspector General shall report directly to and be under the general supervision of the Director.
 
@@ -64,7 +64,7 @@ It shall be the duty and responsibility of the Inspector General appointed under
 
 &emsp;(B) an investigation, inspection, or audit carried out by the Inspector General should focus upon the Director or Acting Director; or
 
-&emsp;(C) the Inspector General, after exhausting all possible alternatives, is unable to obtain significant documentary information in thecourse of an investigation, inspection, or audit, the Inspector General shall immediately report such matter to the intelligence committees.
+&emsp;(C) the Inspector General, after exhausting all possible alternatives, is unable to obtain significant documentary information in the course of an investigation, inspection, or audit, the Inspector General shall immediately report such matter to the intelligence committees.
 
 (4) Pursuant to Title V of the National Security Act of 1947 \[50 U.S.C. 413 et seq.\], the Director shall submit to the intelligence committees any report or findings and recommendations of an inspection, investigation, or audit conducted by the office which has been requested by the Chairman or Ranking Minority Member of either committee.
 

@@ -22,7 +22,7 @@
 
 &emsp;&emsp;(B) in any other case, the corporation shall pay a benefit based on the designated benefit and the assumptions prescribed by the corporation at the time that the corporation received the designated benefit.
 
-> &emsp;The corporation shall make payments under subparagraph (B) available in the same forms and at the same times as a guaranteed benefit under section 1322 of this title would be available to be paid, except that the corporation may make a benefit available in the form of asingle sum if the plan provided a single sum benefit (other than a single sum described in subsection (b)(2)(A) of this section).
+> &emsp;The corporation shall make payments under subparagraph (B) available in the same forms and at the same times as a guaranteed benefit under section 1322 of this title would be available to be paid, except that the corporation may make a benefit available in the form of a single sum if the plan provided a single sum benefit (other than a single sum described in subsection (b)(2)(A) of this section).
 
 #### (b) Definitions
 

@@ -6,11 +6,11 @@
 
 &emsp;(A) conforms to the standards and specifications to which the manufacturer represents it has been manufactured; and
 
-&emsp;(B) has been inspected, tested, and certified as provided in subsections (b) and (c) of this section.
+&emsp;(B) has been inspected, tested, and certified as provided in subsections (b), (c), and (d) of this section.
 
 (2)(A) Paragraph (1)(B) of this subsection shall not apply to fasteners which are part of a lot of 50 fasteners or less if, within 10 working days after the delivery of such fasteners, or as soon as practicable thereafter—
 
-&emsp;(i) inspection, testing, and certification as provided in subsections (b) and (c) of this section is carried out; and
+&emsp;(i) inspection, testing, and certification as provided in subsections (b), (c), and (d) of this section is carried out; and
 
 &emsp;(ii) written notice detailing the results of such inspection, testing, and certification is sent (I) to all purchasers of such fasteners, except retail sellers and retail consumers, and (II) to any retail seller or retail consumer who, prior to delivery, requests such written notice.
 
@@ -34,15 +34,41 @@ If a laboratory performing the inspection and testing under subsection (b)(1) of
 
 &emsp;(1) state the manufacturer's name, the part description, and the lot number and note the grade identification mark and insignia found on the fastener;
 
-&emsp;(2) reference the standards and specifications disclosed by the manufacturer with respect to such lot under subsection (b)(1) of this section or, where applicable, certified by the manufacturer under section 5406(c)(1) of this title;
+&emsp;(2) reference the standards and specifications disclosed by the manufacturer with respect to such lot under subsection (b)(1) of this section;
 
-&emsp;(3) list the markings and characteristics selected under the Secretary's procedures for testing, such as the chemical, dimensional, physical, mechanical, and any other significant characteristics required by the standards and specifications described in paragraph (2) and specify the results of the inspection and testing under subsection (b)(1) of this section;
+&emsp;(3) list the markings and characteristics selected under the Secretary's procedures for testing significant characteristics required by the standards and specifications described in paragraph (2) and specify the results of the inspection and testing under subsection (b)(1) of this section;
 
-&emsp;(4) state whether, based on the samples provided as representative of the lot, such lot has been found after such inspection and testing to conform to such standards and specifications; and
+&emsp;(4) except as provided in subsection (d) of this section, state whether, based on the samples provided as representative of the lot, such lot has been found after such inspection and testing to conform to such standards and specifications; and
 
 &emsp;(5) bear the original signature of a laboratory employee or officer determined by the Secretary to be responsible for the accuracy of the report and of the inspection and testing to which it relates.
 
-(Pub. L. 101–592, §5, Nov. 16, 1990, 104 Stat. 2945.)
+#### (d) Alternative procedure for chemical characteristics
+
+Notwithstanding the requirements of subsections (b) and (c) of this section, a manufacturer shall be deemed to have demonstrated, for purposes of subsection (a)(1) of this section, that the chemical characteristics of a lot conform to the standards and specifications to which themanufacturer represents such lot has been manufactured if the following requirements are met:
+
+&emsp;(1) The coil or heat number of metal from which such lot was fabricated has been inspected and tested with respect to its chemical characteristics by a laboratory accredited in accordance with the procedures and conditions specified by the Secretary under section 5405 of this title.
+
+&emsp;(2) Such laboratory has provided to the manufacturer, either directly or through the metal manufacturer, a written inspection and testing report, which shall be in a form prescribed by the Secretary by regulation, listing the chemical characteristics of such coil or heat number.
+
+&emsp;(3) The report described in paragraph (2) indicates that the chemical characteristics of such coil or heat number conform to those required by the standards and specifications to which the manufacturer represents such lot has been manufactured.
+
+&emsp;(4) The manufacturer demonstrates that such lot has been fabricated from the coil or heat number of metal to which the report described in paragraphs (2) and (3) relates.
+
+> In prescribing the form of report required by subsection (c) of this section, the Secretary shall provide for an alternative to the statement required by subsection (c)(4) of this section, insofar as such statement pertains to chemical characteristics, for cases in which a manufacturer elects to use the procedure permitted by this subsection.
+
+(Pub. L. 101–592, §5, Nov. 16, 1990, 104 Stat. 2945; Pub. L. 104–113, §11(d), Mar. 7, 1996, 110 Stat. 780.)
+
+#### Amendments
+
+1996—Subsec. (a)(1)(B), (2)(A)(i). Pub. L. 104–113, §11(d)(1), substituted “subsections (b), (c), and (d) of this section” for “subsections (b) and (c) of this section”.
+
+Subsec. (c)(2). Pub. L. 104–113, §11(d)(2), struck out “or, where applicable, certified by the manufacturer under section 5406(c)(1) of this title” after “subsection (b)(1) of this section”.
+
+Subsec. (c)(3). Pub. L. 104–113, §11(d)(3), struck out “, such as the chemical, dimensional, physical, mechanical, and any other” after “procedures for testing”.
+
+Subsec. (c)(4). Pub. L. 104–113, §11(d)(4), inserted “except as provided in subsection (d) of this section,” before “state whether”.
+
+Subsec. (d). Pub. L. 104–113, §11(d)(5), added subsec. (d).
 
 #### Section Referred to in Other Sections
 

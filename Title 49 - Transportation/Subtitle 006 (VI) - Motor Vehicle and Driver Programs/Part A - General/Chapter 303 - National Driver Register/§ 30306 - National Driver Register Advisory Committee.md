@@ -58,7 +58,9 @@ Relationship to Other Laws.—The Committee is exempt from sections 10(e) and (f
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -80,5 +82,5 @@ In subsection (h), the cross-reference is used to avoid repeating the same langu
 
 #### References in Text
 
-Sections 10 and 14 of the Federal Advisory Committee Act, referred to in subsec. (i), are sections 10 and 14 of Pub. L. 92–463, which are set out in the Appendix to Title 5, Government Organization and Employees.
+Sections 10 and 14 of the Federal Advisory Committee Act, referred to in subsec. (i), are sections 10 and 14 ofPub. L. 92–463, which are set out in the Appendix to Title 5, Government Organization and Employees.
 

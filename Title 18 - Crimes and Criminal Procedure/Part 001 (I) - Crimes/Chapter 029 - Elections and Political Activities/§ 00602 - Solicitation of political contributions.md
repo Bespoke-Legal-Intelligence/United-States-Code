@@ -1,4 +1,4 @@
-### §602 . Solicitation of political contributions
+### §602. Solicitation of political contributions
 
 (a) It shall be unlawful for—
 
@@ -34,7 +34,7 @@ Section 301(8) of the Federal Election Campaign Act of 1971, referred to in subs
 
 1994—Pub. L. 103–322, which directed the amendment of this section by substituting “under this title” for “not more than $5,000”, could not be executed because the phrase “not more than $5,000” does not appear in text. See 1993 Amendment note below.
 
-1993—Pub. L. 103–94 designated existing provisions as subsec. (a), substituted “; to knowingly solicit any contribution within the meaning of section 301(8) of theFederal Election Campaign Act of 1971 from any other such officer, employee, or person. Any person who violates this section shall be fined under this title or imprisoned not more than 3 years, or both” for “to knowingly solicit, any contribution within the meaning of section 301(8) of the Federal Election Campaign Act of 1971 from any other such officer, employee, or person. Any person who violates this section shall be fined not more than $5,000 or imprisoned not more than three years, or both” in par. (4), and added subsec. (b).
+1993—Pub. L. 103–94 designated existing provisions as subsec. (a), substituted “; to knowingly solicit any contribution within the meaning of section 301(8) of the Federal Election Campaign Act of 1971 from any other such officer, employee, or person. Any person who violates this section shall be fined under this title or imprisoned not more than 3 years, or both” for “to knowingly solicit, any contribution within the meaning of section 301(8) of the Federal Election Campaign Act of 1971 from any other such officer, employee, or person. Any person who violates this section shall be fined not more than $5,000 or imprisoned not more than three years, or both” in par. (4), and added subsec. (b).
 
 1980—Pub. L. 96–187 amended section generally to conform its terms to revision of the Federal Election Campaign Act of 1971 by title I of Pub. L. 96–187.
 
@@ -45,10 +45,6 @@ Amendment by Pub. L. 103–94 effective 120 days after Oct. 6, 1993, but not to 
 #### Effective Date of 1980 Amendment
 
 Amendment by Pub. L. 96–187 effective Jan. 8, 1980, see section 301(a) of Pub. L. 96–187, set out as a note under section 431 of Title 2, The Congress.
-
-#### Delegate From District of Columbia
-
-Provisions of Federal Corrupt Practices Act applicable with respect to Delegate to House of Representatives from District of Columbia in same manner and to same extent as applicable with respect to a Representative, see section 25b of Title 2, The Congress.
 
 #### Cross References
 

@@ -40,7 +40,9 @@ Delegation.—(1) Subject to regulations, supervision, and review the Administra
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -122,5 +124,5 @@ In subsection (d)(3), the words “exercising delegated authority” and “with
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 106, 44701, 44711, 45302, 45303, 46301, 46310, 46316, 47531 of this title.
+This section is referred to in sections 106, 44701, 44711, 45302, 45304, 46310, 47531 of this title.
 

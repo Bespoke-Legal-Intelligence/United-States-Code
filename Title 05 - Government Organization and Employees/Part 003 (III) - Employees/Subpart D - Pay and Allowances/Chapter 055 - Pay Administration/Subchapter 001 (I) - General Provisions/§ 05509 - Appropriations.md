@@ -10,7 +10,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 \[Uncodified\].
 
@@ -49,6 +51,8 @@ Authorization of Appropriations.—There are authorized to be appropriated, out 
 “(b)
 
 Restriction Relating to Appropriations Under the Civil Service Reform Act of 1978.—No funds may be appropriated to the Merit Systems Protection Board or the Office of Special Counsel pursuant to section 903 of the Civil Service Reform Act of 1978 \[Pub. L. 95–454\] (5 U.S.C. 5509 note).”
+
+\[Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §§641, 642\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–365, provided that, effective on Oct. 1, 1998, section 8(a)(1) of Pub. L. 101–12, set out above, is amended by striking out “1993, 1994, 1995, 1996, and 1997,” and inserting in lieu thereof “1998, 1999, 2000, 2001, and 2002”.\]
 
 #### Authorization of Appropriations
 

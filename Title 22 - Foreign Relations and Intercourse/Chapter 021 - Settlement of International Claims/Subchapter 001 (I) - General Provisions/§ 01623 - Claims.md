@@ -20,7 +20,7 @@ The Commission shall have jurisdiction to receive, examine, adjudicate, and rend
 
 #### (b) Notice of filing time; publication; basis of decisions; finality of decision
 
-The Commission shall give public notice of the time when, and the limit of time within which, claims may be filed, which notice shall be published in the Federal Register. In addition, the Commission is authorized and directed to mail a similar notice to the last known address of each person appearing in the records of the Department of State as having indicated an intention of filing a claim with respect to a matter concerning which the Commission has jurisdiction under this subchapter. All decisions shall be upon such evidence and written legal contentions as may be presented within such period as may be prescribed therefor by the Commission, and upon the results of any independent investigation of cases which the Commission may deem it advisable to make. Each decision by the Commission pursuant to this subchapter shall be by majority vote, and shall state the reason for such decision, and shall constitute a full and final disposition of the case in which the decision is rendered.
+The Commission shall give public notice of the time when, and the limit of time within which, claims may be filed, which notice shall be published in the Federal Register. In addition, the Commission is authorized and directed to mail a similar notice to the last known address of each person appearing in the records of the Department of State as having indicated an intention of filing a claim with respect to a matter concerning which the Commission has jurisdiction under this subchapter. All decisions shall be upon such evidence and written legal contentions as may be presented within such period as may be prescribed therefor by the Commission, and upon the results of any independent investigation of cases which the Commission may deem it advisable to make. Each decision by theCommission pursuant to this subchapter shall be by majority vote, and shall state the reason for such decision, and shall constitute a full and final disposition of the case in which the decision is rendered.
 
 #### (c) Administration of oaths; examination of witnesses; subpenas; reporting of hearings; witness fees; contempt
 
@@ -28,7 +28,7 @@ Any member of the Commission, or any employee of the Commission, designated in w
 
 #### (d) Depositions
 
-The Commission may order testimony to be taken by deposition in any inquiry or hearing pending before it at any stage of such proceeding or hearing. Such depositions may be taken,under such regulations as the Commission may prescribe, before any person designated by the Commission and having power to administer oaths. Any person may be compelled to appear and depose, and to produce books, papers, documents, records, correspondence, and other evidence in the same way as witnesses may be compelled to appear and testify and produce documentary evidence before the Commission, as hereinabove provided. If a witness whose testimony may be desired to be taken by deposition be in a foreign country, the deposition may be taken, provided the laws of the foreign country so permit, by a consular officer, or by an officer or employee of the Commission, or other person commissioned by the Commission, or under letters rogatory issued by the Commission. Witnesses whose depositions are taken as authorized in this subsection, and the persons taking the same, shall severally be entitled to the same fees as are paid for like services in the courts of the United States.
+The Commission may order testimony to be taken by deposition in any inquiry or hearing pending before it at any stage of such proceeding or hearing. Such depositions may be taken, under such regulations as the Commission may prescribe, before any person designated by the Commission and having power to administer oaths. Any person may be compelled to appear and depose, and to produce books, papers, documents, records, correspondence, and other evidence in the same way as witnesses may be compelled to appear and testify and produce documentary evidence before the Commission, as hereinabove provided. If a witness whose testimony may be desired to be taken by deposition be in a foreign country, the deposition may be taken, provided the laws of the foreign country so permit, by a consular officer, or by an officer or employee of the Commission, or other person commissioned by the Commission, or under letters rogatory issued by the Commission. Witnesses whose depositions are taken as authorized in this subsection, and the persons taking the same, shall severally be entitled to the same fees as are paid for like services in the courts of the United States.
 
 #### (e) Penalties
 
@@ -52,13 +52,17 @@ The Commission may in its discretion enter an award with respect to one or more 
 
 #### (j) Compliance with administrative procedure law
 
-The Commission shall comply with the provisions of subchapter II of chapter 5, and chapter 7, of title 5 except as otherwise specifically provided by this subchapter.
+The Commission shall comply with the provisions of subchapter II of chapter 5, and chapter7, of title 5 except as otherwise specifically provided by this subchapter.
 
 #### (k) Compliance with principles of international law, justice and equity; fair market value
 
 In exercising authority granted after October 8, 1986, under this chapter or any other Act, the Commission, in determining the value of claims of the Government of the United States or of nationals of the United States (as defined in this chapter or such other Act) against any foreign government for losses arising from the nationalization or other taking of property, shall comply with the principles set forth in subsection (a)(2) of this section.
 
 (Mar. 10, 1950, ch. 54, title I, §4, 64 Stat. 13; Aug. 9, 1955, ch. 645, §§1, 2, 69 Stat. 562; July 24, 1968, Pub. L. 90–421, §1(1), 82 Stat. 420; Oct. 8, 1986, Pub. L. 99–451, §1, 100 Stat. 1138.)
+
+#### References to This Subchapter Deemed To Include Section 119 of H.R. 2076
+
+References to this subchapter deemed to include section 119 of H.R. 2076, see section 119(b) of H.R. 2076, as enacted into law by Pub. L. 104–91, set out as an Authority of Foreign Claims Settlement Commission note under section 1644 of this title.
 
 #### Codification
 
@@ -70,7 +74,7 @@ In subsec. (j), “subchapter II of chapter 5, and chapter 7, of title 5” subs
 
 Subsec. (k). Pub. L. 99–451, §1(b), added subsec. (k).
 
-1968—Subsec. (f). Pub. L. 90–421 struck out provisions which authorized the Commission to determine the amount of attorney's fees, such fees not to exceed 10% of the award and any written agreement between attorney and claimant as to fees to be conclusive upon the Commission, if the agreed upon fees do not exceed 10% of the award, provisions which authorized the Secretary of the Treasury to deduct the fees from theamount of the award and to pay it directly to the attorney, any agreement to the contrary to be unlawful and void, provisions which authorized the Commission to give notice by mail to each claimant of the provisions of this subsection, and provisions which authorized the Commission to recover any fees paid in contravention of this subsection, the recipient to forfeit all rights under this subchapter.
+1968—Subsec. (f). Pub. L. 90–421 struck out provisions which authorized the Commission to determine the amount of attorney's fees, such fees not to exceed 10% of the award and any written agreement between attorney and claimant as to fees to be conclusive upon the Commission, if the agreed upon fees do not exceed 10% of the award, provisions which authorized the Secretary of the Treasury to deduct the fees from the amount of the award and to pay it directly to the attorney, any agreement to the contrary to be unlawful and void, provisions which authorized the Commission to give notice by mail to each claimant of the provisions of this subsection, and provisions which authorized the Commission to recover any fees paid in contravention of this subsection, the recipient to forfeit all rights under this subchapter.
 
 1955—Act Aug. 9, 1955, §1, amended credit to section by designating act Mar. 10, 1950, as “title I”.
 

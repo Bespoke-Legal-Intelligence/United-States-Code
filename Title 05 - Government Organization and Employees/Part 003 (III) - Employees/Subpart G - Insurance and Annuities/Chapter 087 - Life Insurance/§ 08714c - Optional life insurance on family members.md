@@ -2,7 +2,7 @@
 
 (a) Under the conditions, directives, and terms specified in sections 8709 through 8712 of this title, the Office of Personnel Management, without regard to section 5 of title 41, may purchase a policy which shall make available to each employee insured under section 8702 of this title amounts of optional life insurance (without accidental death and dismemberment insurance) on the employee's family members.
 
-(b) The optional life insurance on family members provided under this section shall be made available to each eligible employee who elects coverage under this section, under conditions the Office shall prescribe, in the amount of $5,000 for a spouse and $2,500 for each child described in section 8701(d). The employee may stop coverage elected under this section at any time.
+(b) The optional life insurance on family members provided under this section shall be made available to each eligible employee who elects coverage under this section, under conditionsthe Office shall prescribe, in the amount of $5,000 for a spouse and $2,500 for each child described in section 8701(d). The employee may stop coverage elected under this section at any time.
 
 (c)(1) Except as otherwise provided in this subsection, the optional life insurance on family members shall stop at the earlier of the employee's death, the employee's separation from the service, or 12 months after discontinuance of pay, subject to a provision for temporary extension of life insurance coverage and for conversion to individual policies of life insurance under conditions approved by the Office.
 
@@ -26,11 +26,11 @@
 
 #### Amendments
 
-<b>1986</b>—Subsec. (c)(1). Pub. L. 99–336 amended Pub. L. 98–353, §206, generally. See 1984 Amendment note below.
+1986—Subsec. (c)(1). Pub. L. 99–336 amended Pub. L. 98–353, §206, generally. See 1984 Amendment note below.
 
 Pub. L. 99–335 amended par. (1) generally, effective Jan. 1, 1977. Prior to such effective date, par. (1) read as follows: “Optional life insurance on family members shall stop at the earlier of the employee's death, the employee's separation from the service, 12 months after discontinuance of pay, or the employee's entry on active duty or active duty for training, as provided in sections 8706(a) and 8706(c) of this title, subject to provision for a 31-day temporary extension of insurance coverage and for conversion to individual policies under conditions approved by the Office. Justices and judges of the United States described in section 8701(a)(5)(ii) and (iii) of this chapter are deemed to continue in active employment for purposes of this chapter.”
 
-<b>1984</b>—Subsec. (c)(1). Pub. L. 98–353, §206, as amended generally by Pub. L. 99–336, inserted sentence which deemed justices and judges described in section 8701(a)(5)(ii) and (iii) of this chapter to continue in active employment for purposes of this chapter.
+1984—Subsec. (c)(1). Pub. L. 98–353, §206, as amended generally by Pub. L. 99–336, inserted sentence which deemed justices and judges described in section 8701(a)(5)(ii) and (iii) of this chapter to continue in active employment for purposes of this chapter.
 
 #### Effective Date of 1986 Amendment
 

@@ -2,7 +2,7 @@
 
 #### Amendments
 
-<b>1979</b>—Pub. L. 96–54, §2(a)(10), Aug. 14, 1979, 93 Stat. 381, added heading for subchapter I.
+1979—Pub. L. 96–54, §2(a)(10), Aug. 14, 1979, 93 Stat. 381, added heading for subchapter I.
 
 
 ---

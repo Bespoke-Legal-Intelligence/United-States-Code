@@ -36,7 +36,7 @@ For purposes of this part:
 
 &emsp;(4) The term “homeownership program” means a program for homeownership under this part.
 
-&emsp;(5) The term “Indian housing authority” has the meaning given such term in section 1437a(b)(11) of this title.
+&emsp;(5) The term “Indian housing authority” has the meaning given such term in section 1437a(b)(11) <sup>1</sup> of this title.
 
 &emsp;(6) The term “low-income family” has the meaning given such term in section 1437a(b)(2) of this title.
 
@@ -57,6 +57,8 @@ For purposes of this part:
 (Pub. L. 101–625, title IV, §426, Nov. 28, 1990, 104 Stat. 4170; Pub. L. 102–550, title I, §181(d), (e), (h), Oct. 28, 1992, 106 Stat. 3735, 3736.)
 
 #### References in Text
+
+Section 1437a(b)(11) of this title, referred to in par. (5), was repealed by Pub. L. 104–330, title V, §501(b)(1)(D), Oct. 26, 1996, 110 Stat. 4041.
 
 This title, referred to in par. (8), means title IV of Pub. L. 101–625, known as the Homeownership and Opportunity Through HOPE Act, and probably should have been “this subtitle”, meaning subtitle B (§§421–431) of title IV of Pub. L. 101–625, which is classified principally to this part. For complete classification of title IV of Pub. L. 101–625 to the Code, see Short Title note set out under section 1437aaa of this title and Tables.
 

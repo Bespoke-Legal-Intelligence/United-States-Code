@@ -14,7 +14,7 @@ Agricultural commodities provided to a least developed country under this sectio
 
 #### Prior Provisions
 
-A prior section 304 of act July 10, 1954, ch. 469, title III, 68 Stat. 459, which enacted section 1693 of this title, prior to repeal by Pub. L. 89–808, §2(D), Nov. 11, 1966, 80 Stat. 1535.
+A prior section 304 of act July 10, 1954, ch. 469, title III, 68 Stat. 459, enacted section 1693 of this title, prior to repeal by Pub. L. 89–808, §2(D), Nov. 11, 1966, 80 Stat. 1535.
 
 #### Amendments
 
@@ -28,7 +28,7 @@ Amendment by Pub. L. 101–624 effective Jan. 1, 1991, see section 1513 of Pub. 
 
 #### Effective Date of 1978 Amendment
 
-Amendment by Pub. L. 95–424 effective Oct. 1, 1978, see section 605 of Pub. L. 95–424, set out as a note under section 2151 of Title 22, Foreign Relations and Intercourse.
+Amendment by Pub. L. 95–424 effective Oct. 1, 1978, see section 605 of Pub. L. 95–424, set out as a note undersection 2151 of Title 22, Foreign Relations and Intercourse.
 
 #### Effective Date
 

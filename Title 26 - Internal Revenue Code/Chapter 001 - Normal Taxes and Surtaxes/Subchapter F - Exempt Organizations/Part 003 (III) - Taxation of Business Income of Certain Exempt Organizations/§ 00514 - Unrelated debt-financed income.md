@@ -10,7 +10,7 @@ In computing under section 512 the unrelated business taxable income for any tax
 
 #### (2) Percentage of deductions taken into account
 
-&emsp;There shall be allowed as a deduction with respect to each debt-financed property an amount determined by applying (except asprovided in the last sentence of this paragraph) the percentage derived under paragraph (1) to the sum determined under paragraph (3). The percentage derived under this paragraph shall not be applied with respect to the deduction of any capital loss resulting from the carryback or carryover of net capital losses under section 1212.
+&emsp;There shall be allowed as a deduction with respect to each debt-financed property an amount determined by applying (except as provided in the last sentence of this paragraph) the percentage derived under paragraph (1) to the sum determined under paragraph (3). The percentage derived under this paragraph shall not be applied with respect to the deduction of any capital loss resulting from the carryback or carryover of net capital losses under section 1212.
 
 #### (3) Deductions allowable
 
@@ -30,7 +30,7 @@ In computing under section 512 the unrelated business taxable income for any tax
 
 &emsp;&emsp;(D) any property to the extent that it is used in any trade or business described in paragraph (1), (2), or (3) of section 513(a).
 
-> &emsp;For purposes of subparagraph (A), substantially all the use of a property shall be considered to be substantially related to the exercise or performance by an organization of its charitable, educational, or other purpose or function constituting the basis for its exemption under section 501 if such property is real property subject to a lease to a medical clinic entered into primarily for purposes which are substantially related (aside from the need of such organization for income or funds or the use it makes of the rents derived) to the exercise or performance by such organization of its charitable, educational, or other purpose or function constituting the basis for its exemption under section 501.
+> &emsp;For purposes of subparagraph (A), substantially all the use of a property shall be considered to be substantially related to the exercise or performance by an organization of its charitable, educational, or other purpose or function constituting the basis for its exemption under section 501 if such property is real property subject to a lease to a medical clinic entered into primarily for purposes which are substantially related (aside from the need ofsuch organization for income or funds or the use it makes of the rents derived) to the exercise or performance by such organization of its charitable, educational, or other purpose or function constituting the basis for its exemption under section 501.
 
 #### (2) Special rule for related uses
 
@@ -148,7 +148,7 @@ In computing under section 512 the unrelated business taxable income for any tax
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), the term “acquisition indebtedness” does not, for purposes of this section, include indebtedness incurred by a qualified organization in acquiring or improving any real property. For purposes of this paragraph, an interest in a mortgage shall in no event be treated as real property.
+&emsp;&emsp;Except as provided in subparagraph (B), the term “acquisition indebtedness” does not, for purposes of this section, include indebtedness incurred by a qualified organization in acquiring or improving any realproperty. For purposes of this paragraph, an interest in a mortgage shall in no event be treated as real property.
 
 #### (B) Exceptions
 
@@ -190,7 +190,7 @@ In computing under section 512 the unrelated business taxable income for any tax
 
 #### (D) Other pass-thru entities; tiered entities
 
-&emsp;&emsp;Rules similar to the rules of subparagraph (B)(vi) shall also apply in the case of anypass-thru entity other than a partnership and in the case of tiered partnerships and other entities.
+&emsp;&emsp;Rules similar to the rules of subparagraph (B)(vi) shall also apply in the case of any pass-thru entity other than a partnership and in the case of tiered partnerships and other entities.
 
 #### (E) Certain allocations permitted
 
@@ -298,7 +298,7 @@ For purposes of this subtitle, if the property was acquired in a complete or par
 
 #### (e) Allocation rules
 
-Where debt-financed property is held for purposes described in subsection (b)(1)(A), (B), (C), or (D) as well as for other purposes, proper allocation shall be made with respect to basis, indebtedness, and income and deductions. The allocations required by this section shall be made in accordance with regulations prescribed by the Secretary to the extent proper to carry out the purposes of this section.
+Where debt-financed property is held for purposes described in subsection (b)(1)(A), (B), (C),or (D) as well as for other purposes, proper allocation shall be made with respect to basis, indebtedness, and income and deductions. The allocations required by this section shall be made in accordance with regulations prescribed by the Secretary to the extent proper to carry out the purposes of this section.
 
 #### (f) Personal property leased with real property
 
@@ -416,7 +416,7 @@ Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if in
 
 Section 1016(a)(5)(B) of Pub. L. 100–647 provided that: “The amendment made by subparagraph (A) \[amending this section\] shall apply with respect to interests in the organization acquired after June 10, 1987, except that such amendment shall not apply to any such interest acquired after June 10, 1987, pursuant to a binding written contract in effect on June 10, 1987, and at all times thereafter before such acquisition.”
 
-Amendment by sections 1016(a)(6) and 1018(u)(13) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Actof 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
+Amendment by sections 1016(a)(6) and 1018(u)(13) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
 Amendment by section 2004(h) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provisions of the Revenue Act of 1987, Pub. L. 100–203, title X, to which such amendment relates, see section 2004(u) of Pub. L. 100–647, set out as a note under section 56 of this title.
 
@@ -502,7 +502,7 @@ Amendment by section 1901(a)(72) of Pub. L. 94–455 applicable with respect to 
 
 #### Effective Date of 1975 Amendment
 
-Amendment by Pub. L. 93–625 effective July 1, 1975, and applicable to amounts outstanding on such date orarising thereafter, see section 7(e) of Pub. L. 93–625, set out as an Effective Date note under section 6621 of this title.
+Amendment by Pub. L. 93–625 effective July 1, 1975, and applicable to amounts outstanding on such date or arising thereafter, see section 7(e) of Pub. L. 93–625, set out as an Effective Date note under section 6621 of this title.
 
 #### Effective Date of 1969 Amendment
 
@@ -522,5 +522,5 @@ Section 1607 of Pub. L. 99–514 provided that: “For purposes of applying sect
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 50, 168, 512, 4942 of this title.
+This section is referred to in sections 50, 168, 512, 529, 4942 of this title.
 

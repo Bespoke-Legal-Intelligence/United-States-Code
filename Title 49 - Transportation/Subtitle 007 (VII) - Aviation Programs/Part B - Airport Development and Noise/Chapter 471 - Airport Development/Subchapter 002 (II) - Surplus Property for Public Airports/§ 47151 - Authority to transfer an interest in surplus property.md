@@ -26,7 +26,9 @@ Disposing of Interests Not Given Under This Subchapter.—An interest in surplus
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

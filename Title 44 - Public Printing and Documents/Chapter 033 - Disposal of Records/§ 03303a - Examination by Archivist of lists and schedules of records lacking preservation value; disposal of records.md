@@ -6,9 +6,9 @@
 
 &emsp;(2) empower the agency to dispose of those records in accordance with regulations promulgated under section 3302 of this title.
 
-(b) Authorizations granted under lists and schedules submitted to the Archivist under section 3303 of this title, and schedules promulgated by the Archivist under subsection (d) of this section, shall be mandatory, subject to section 2909 of this title. As between an authorization granted under lists and schedules submitted to the Archivist under section 3303 of this title and an authorization contained in a schedule promulgated under subsection (d) of this section, application of the authorization providing for the shorter retention period shall be required, subject to section 2909 of this title.
+(b) Authorizations granted under lists and schedules submitted to the Archivist under section 3303 of this title, and schedules promulgated by the Archivist under subsection (d) of this section, shall be mandatory, subject to section 2909 of this title. As between an authorization granted under lists and schedules submitted to the Archivist under section 3303 of this title and an authorization contained in a schedulepromulgated under subsection (d) of this section, application of the authorization providing for the shorter retention period shall be required, subject to section 2909 of this title.
 
-(c) The Archivist may request advice and counsel from the Committee on Rules and Administration of the Senate and the Committee on House Administration of the House of Representatives with respect to the disposal of any particular records under this chapter whenever he considers that—
+(c) The Archivist may request advice and counsel from the Committee on Rules and Administration of the Senate and the Committee on House Oversight of the House of Representatives with respect to the disposal of any particular records under this chapter whenever he considers that—
 
 &emsp;(1) those particular records may be of special interest to the Congress; or
 
@@ -16,15 +16,17 @@
 
 > However, this subsection does not require the Archivist to request such advice and counsel as a regular procedure in the general disposal of records under this chapter.
 
-(d) The Archivist shall promulgate schedules authorizing the disposal, after the lapse of specified periods of time, of records of a specified form or character common to several or allagencies if such records will not, at the end of the periods specified, have sufficient administrative, legal, research, or other value to warrant their further preservation by the United States Government. A Federal agency may request changes in such schedules for its records pursuant to section 2909 of this title.
+(d) The Archivist shall promulgate schedules authorizing the disposal, after the lapse of specified periods of time, of records of a specified form or character common to several or all agencies if such records will not, at the end of the periods specified, have sufficient administrative, legal, research, or other value to warrant their further preservation by the United States Government. A Federal agency may request changes in such schedules for its records pursuant to section 2909 of this title.
 
 (e) The Archivist may approve and effect the disposal of records that are in his legal custody, provided that records that had been in the custody of another existing agency may not be disposed of without the written consent of the head of the agency.
 
 (f) The Archivist shall make an annual report to the Congress concerning the disposal of records under this chapter, including general descriptions of the types of records disposed of and such other information as he considers appropriate to keep the Congress fully informed regarding the disposal of records under this chapter.
 
-(Added Pub. L. 91–287, §1, June 23, 1970, 84 Stat. 320; amended Pub. L. 95–440, §1, Oct. 10, 1978, 92 Stat. 1063; Pub. L. 98–497, title I, §107(b)(24), (25)(B), title II, §204, Oct. 19, 1984, 98 Stat. 2290, 2294.)
+(Added Pub. L. 91–287, §1, June 23, 1970, 84 Stat. 320; amended Pub. L. 95–440, §1, Oct. 10, 1978, 92 Stat. 1063; Pub. L. 98–497, title I, §107(b)(24), (25)(B), title II, §204, Oct. 19, 1984, 98 Stat. 2290, 2294; Pub. L. 104–186, title II, §223(10), Aug. 20, 1996, 110 Stat. 1752.)
 
 #### Amendments
+
+1996—Subsec. (c). Pub. L. 104–186 substituted “House Oversight” for “House Administration”.
 
 1984—Pub. L. 98–497, §107(b)(25)(B), substituted “Archivist” for “Administrator of General Services” in section catchline.
 
@@ -37,10 +39,6 @@ Subsecs. (b) to (f). Pub. L. 98–497, §107(b)(24)(B), substituted “Archivist
 1978—Subsec. (b). Pub. L. 95–440, §1(a), made schedules promulgated by Administrator under subsec. (d) of this section mandatory; inserted provision for application of authorization providing for shorter retention period as between an authorization granted under lists and schedules submitted under section 3303 of this title and an authorization in a schedule promulgated under subsec. (d) of this section; and struck out provision making permissive authorizations granted under subsec. (d) schedules.
 
 Subsec. (d). Pub. L. 95–440, §1(b), (c), substituted “shall” for “may” in first sentence and authorized Federal agencies to request changes in disposal schedules for its records pursuant to section 2909 of this title.
-
-#### Change of Name
-
-Committee on House Administration of House of Representatives treated as referring to Committee on House Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Effective Date of 1984 Amendment
 

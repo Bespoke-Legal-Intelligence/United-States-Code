@@ -18,7 +18,7 @@ No court other than the District Court for the District of Columbia or a court o
 
 #### (d) Subpenas
 
-In any action for a declaratory judgment brought pursuant to section 1973b or 1973c of this title, subpenas for witnesses who are required to attend the District Court for the District of Columbia may be served in any judicial district of the United States: <i>Provided,</i> That no writ of subpena shall issue for witnesses without the District of Columbia at a greater distance than one hundred miles from the place of holding court without the permission of the District Court for the District of Columbia being first had upon proper application and cause shown.
+In any action for a declaratory judgment brought pursuant to section 1973b or 1973c of this title, subpenas for witnesses who are required to attend the District Court for the District of Columbia may be served in any judicial district of the United States: <i>Provided</i>, That no writ of subpena shall issue for witnesses without the District of Columbia at a greater distance than one hundred miles from the place of holding court without the permission of the District Court for the District of Columbia being first had upon proper application and cause shown.
 
 #### (e) Attorney's fees
 

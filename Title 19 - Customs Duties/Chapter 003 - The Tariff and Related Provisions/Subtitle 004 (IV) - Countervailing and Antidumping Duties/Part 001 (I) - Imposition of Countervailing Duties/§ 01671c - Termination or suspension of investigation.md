@@ -52,7 +52,7 @@ The administering authority may suspend an investigation if the government of th
 
 #### (1) General rule
 
-&emsp;If the administering authority determines that extraordinary circumstances are present in a case, it may suspend an investigation upon the acceptance of an agreement from agovernment described in subsection (b) of this section, or from exporters described in subsection (b) of this section, if the agreement will eliminate completely the injurious effect of exports to the United States of the subject merchandise.
+&emsp;If the administering authority determines that extraordinary circumstances are present in a case, it may suspend an investigation upon the acceptance of an agreement from a government described in subsection (b) of this section, or from exporters described in subsection (b) of this section, if the agreement will eliminate completely the injurious effect of exports to the United States of the subject merchandise.
 
 #### (2) Certain additional requirements
 
@@ -212,7 +212,7 @@ If the administering authority, within 20 days after the date of publication of 
 
 #### (j) Determination not to take agreement into account
 
-In making a final determination under section 1671d of this title, or in conducting a review under section 1675 of this title, in a case in which the administering authority has terminated a suspension of investigation under subsection (i)(1) of this section, or continued an investigation under subsection (g) of this section, the Commission and the administering authority shall consider all of the subject merchandise, without regard to the effect of any agreement under subsection (b) or (c) of this section.
+In making a final determination under section 1671d of this title, or in conducting a reviewunder section 1675 of this title, in a case in which the administering authority has terminated a suspension of investigation under subsection (i)(1) of this section, or continued an investigation under subsection (g) of this section, the Commission and the administering authority shall consider all of the subject merchandise, without regard to the effect of any agreement under subsection (b) or (c) of this section.
 
 #### (k) Termination of investigations initiated by administering authority
 
@@ -278,7 +278,7 @@ Subsec. (i)(1)(A). Pub. L. 103–465, §264(c)(6), substituted “1671b(d)(2)”
 
 Subsec. (j). Pub. L. 103–465, §233(a)(5)(M), substituted “subject merchandise” for “merchandise which is the subject of the investigation”.
 
-Subsec. (<i>l</i>). Pub. L. 103–465, §218(a)(1), added subsec. (<i>l).</i>
+Subsec. (<i>l</i>). Pub. L. 103–465, §218(a)(1), added subsec. (<i>l</i>).
 
 1988—Subsecs. (g)(2), (h)(1). Pub. L. 100–418 substituted “subparagraph (C), (D), (E), (F), or (G) of section 1677(9) of this title” for “subparagraph (C), (D), (E), and (F) of section 1677(9) of this title”.
 

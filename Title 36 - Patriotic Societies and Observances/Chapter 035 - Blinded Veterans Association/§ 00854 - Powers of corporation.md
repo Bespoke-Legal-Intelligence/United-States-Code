@@ -10,7 +10,7 @@ The corporation shall have power—
 
 &emsp;(4) to charge and collect membership dues;
 
-&emsp;(5) to adopt, amend, apply, and alter a constitution and bylaws not inconsistent with the laws of the United States of America or any State in which the corporation is to operate,for the management of its property and the regulation of its affairs;
+&emsp;(5) to adopt, amend, apply, and alter a constitution and bylaws not inconsistent with the laws of the United States of America or any State in which the corporation is to operate, for the management of its property and the regulation of its affairs;
 
 &emsp;(6) to contract and be contracted with;
 
@@ -18,7 +18,7 @@ The corporation shall have power—
 
 &emsp;(8) to transfer, lease, or convey real or personal property;
 
-&emsp;(9) to borrow money for the purposes of the corporation and issue bonds or other evidences of indebtedness therefor and secure the same by mortgage or pledge subject to applicable Federal or State laws; and
+&emsp;(9) to borrow money for the purposes of the corporation and issue bonds or other evidencesof indebtedness therefor and secure the same by mortgage or pledge subject to applicable Federal or State laws; and
 
 &emsp;(10) to do any and all acts necessary and proper to carry out the purposes of the corporation.
 

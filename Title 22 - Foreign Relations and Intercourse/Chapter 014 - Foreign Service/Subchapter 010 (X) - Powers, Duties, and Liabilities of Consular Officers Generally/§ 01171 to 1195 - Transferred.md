@@ -14,7 +14,7 @@ Section 1175, R.S. §1709; Mar. 3, 1911, ch. 223, 36 Stat. 1083; June 10, 1921, 
 
 Section 1176, R.S. §1710; July 12, 1940, ch. 618, 54 Stat. 760, which related to notification of death of decedent and transmission of inventory of effects of decedent, was transferred to section 4196 of this title.
 
-Section 1177, R.S. §1711; July 12, 1940, ch. 618, 54 Stat. 760, which related to a consular or diplomatic officerfollowing testamentary directions and assistance to a testamentary appointee, was transferred to section 4197 of this title.
+Section 1177, R.S. §1711; July 12, 1940, ch. 618, 54 Stat. 760, which related to a consular or diplomatic officer following testamentary directions and assistance to a testamentary appointee, was transferred to section 4197 of this title.
 
 Section 1178, act June 30, 1902, ch. 1331, §1, 32 Stat. 546, which related to execution of a bond as administrator or guardian and to an action on bond, was transferred to section 4198 of this title.
 

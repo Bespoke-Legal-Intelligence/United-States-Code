@@ -42,7 +42,7 @@ If any article or substance sold in commerce is defined as a banned hazardous su
 
 > An order under this paragraph shall specify the form and content of any notice required to be given under the order.
 
-(2) If the Commission determines (after affording interested persons, including consumers and consumer organizations, an opportunity for a hearing in accordance with subsection (e) of this section) that any toy or other article intended for use by children that is not a banned hazardous substance contains a defect which creates a substantial risk of injury to children (because of the pattern of defect, the number of defective toys or such articles distributed in commerce, the severity of the risk, or otherwise) and that action under this paragraph is in the public interest, the Commission may order the manufacturer, distributor, or dealer to take whichever of the following actions the person to whom the order is directed elects:
+(2) If the Commission determines (after affording interested persons, including consumers and consumer organizations, an opportunity for a hearing in accordance with subsection (e) of thissection) that any toy or other article intended for use by children that is not a banned hazardous substance contains a defect which creates a substantial risk of injury to children (because of the pattern of defect, the number of defective toys or such articles distributed in commerce, the severity of the risk, or otherwise) and that action under this paragraph is in the public interest, the Commission may order the manufacturer, distributor, or dealer to take whichever of the following actions the person to whom the order is directed elects:
 
 &emsp;(A) If repairs to or changes in the toy or article can be made so that it will not contain a defect which creates a substantial risk of injury to children, to make such repairs or changes.
 
@@ -56,7 +56,7 @@ If any article or substance sold in commerce is defined as a banned hazardous su
 
 (1) No charge shall be made to any person (other than a manufacturer, distributor, or dealer) who avails himself of any remedy provided under an order issued under subsection (b) or (c) of this section, and the person subject to the order shall reimburse each person (other than a manufacturer, distributor, or dealer) who is entitled to such a remedy for any reasonable and foreseeable expenses incurred by such person in availing himself of such remedy.
 
-(2) An order issued under subsection (a), (b), or (c) of this section with respect to a toy, article or substance may require any person who is a manufacturer, distributor, or dealer of the toy, article or substance to reimburse any other person who is a manufacturer, distributor, or dealer of such toy, article or substance for such otherperson's expenses in connection with carrying out the order, if the Commission determines such reimbursement to be in the public interest.
+(2) An order issued under subsection (a), (b), or (c) of this section with respect to a toy, article or substance may require any person who is a manufacturer, distributor, or dealer of the toy, article or substance to reimburse any other person who is a manufacturer, distributor, or dealer of such toy, article or substance for such other person's expenses in connection with carrying out the order, if the Commission determines such reimbursement to be in the public interest.
 
 #### (e) Hearing; representative of class
 

@@ -2,7 +2,7 @@
 
 #### (a) Air pollutant list; publication and revision by Administrator; issuance of air quality criteria for air pollutants
 
-(1) For the purpose of establishing national primary and secondary ambient air qualitystandards, the Administrator shall within 30 days after December 31, 1970, publish, and shall from time to time thereafter revise, a list which includes each air pollutant—
+(1) For the purpose of establishing national primary and secondary ambient air quality standards, the Administrator shall within 30 days after December 31, 1970, publish, and shall from time to time thereafter revise, a list which includes each air pollutant—
 
 &emsp;(A) emissions of which, in his judgment, cause or contribute to air pollution which may reasonably be anticipated to endanger public health or welfare;
 
@@ -104,7 +104,7 @@ The Administrator shall, after consultation with the Secretary of Transportation
 
 &emsp;(B) evaluates the extent to which the Department of Transportation's existing air quality-related transportation programs and such Department's proposed budget will achieve the goals of and compliance with this chapter; and
 
-&emsp;(C) recommends what, if any, changes to such existing programs and proposed budget as well as any statutory authority relating to air quality-related transportation programs that would improve the achievement of the goals of and compliance with this chapter.
+&emsp;(C) recommends what, if any, changes to such existing programs and proposed budget aswell as any statutory authority relating to air quality-related transportation programs that would improve the achievement of the goals of and compliance with this chapter.
 
 (4) In each report to Congress after the first report required under paragraph (3), the Secretary of Transportation shall include a description of the actions taken to implement the changes recommended in the preceding report.
 

@@ -24,7 +24,7 @@ For purposes of this title—
 
 #### (B) Exempt function income
 
-&emsp;&emsp;For purposes of subparagraph (A), the term “exempt function income” means the grossincome from dues, fees, charges, or similar amounts paid by members of the organization as consideration for providing such members or their dependents or guests goods, facilities, or services in furtherance of the purposes constituting the basis for the exemption of the organization to which such income is paid. Such term also means all income (other than an amount equal to the gross income derived from any unrelated trade or business regularly carried on by such organization computed as if the organization were subject to paragraph (1)), which is set aside—
+&emsp;&emsp;For purposes of subparagraph (A), the term “exempt function income” means the gross income from dues, fees, charges, or similar amounts paid by members of the organization as consideration for providing such members or their dependents or guests goods, facilities, or services in furtherance of the purposes constituting the basis for the exemption of the organization to which such income is paid. Such term also means all income (other than an amount equal to the gross income derived from any unrelated trade or business regularly carried on by such organization computed as if the organization were subject to paragraph (1)), which is set aside—
 
 &emsp;&emsp;&emsp;(i) for a purpose specified in section 170(c)(4), or
 
@@ -114,7 +114,7 @@ The modifications referred to in subsection (a) are the following:
 
 &emsp;&emsp;(B) property held primarily for sale to customers in the ordinary course of the trade or business.
 
-> &emsp;There shall also be excluded all gains or losses recognized, in connection with the organization's investment activities, from the lapse or termination of options to buy or sell securities (as defined in section 1236(c)) or real property and all gains or losses from the forfeiture of good-faith deposits (that are consistent with established business practice) for the purchase, sale, or lease of real property in connection with the organization's investment activities. This paragraph shall not apply with respect to the cutting of timber which is considered, on the application of section 631, as a sale or exchange of such timber.
+> &emsp;There shall also be excluded all gains or losses recognized, in connection with the organization's investment activities, from the lapse ortermination of options to buy or sell securities (as defined in section 1236(c)) or real property and all gains or losses from the forfeiture of good-faith deposits (that are consistent with established business practice) for the purchase, sale, or lease of real property in connection with the organization's investment activities. This paragraph shall not apply with respect to the cutting of timber which is considered, on the application of section 631, as a sale or exchange of such timber.
 
 &emsp;(6) The net operating loss deduction provided in section 172 shall be allowed, except that—
 
@@ -174,7 +174,7 @@ The modifications referred to in subsection (a) are the following:
 
 &emsp;&emsp;&emsp;(I) the date which is 30 months after the date of the acquisition of such property, or
 
-&emsp;&emsp;&emsp;(II) the date specified by the Secretary in order to assure an orderly disposition ofproperty held by persons described in subparagraph (A), and
+&emsp;&emsp;&emsp;(II) the date specified by the Secretary in order to assure an orderly disposition of property held by persons described in subparagraph (A), and
 
 &emsp;&emsp;(iv) while such property was held by the organization, the aggregate expenditures on improvements and development activities included in the basis of the property are (or were) not in excess of 20 percent of the net selling price of such property.
 
@@ -186,6 +186,44 @@ The modifications referred to in subsection (a) are the following:
 
 > &emsp;For purposes of this subparagraph, real property includes an interest in a mortgage.
 
+&emsp;(17)
+
+Treatment of certain amounts derived from foreign corporations.—
+
+&emsp;&emsp;(A)
+
+In general.—Notwithstanding paragraph (1), any amount included in gross income under section 951(a)(1)(A) shall be included as an item of gross income derived from an unrelated trade or business to the extent the amount so included is attributable to insurance income (as defined in section 953) which, if derived directly by the organization, would be treated as gross income from an unrelated trade or business. There shall be allowed all deductions directly connected with amounts included in gross income under the preceding sentence.
+
+&emsp;&emsp;(B)
+
+Exception.—
+
+&emsp;&emsp;&emsp;(i)
+
+In general.—Subparagraph (A) shall not apply to income attributable to a policy of insurance or reinsurance with respect to which the person (directly or indirectly) insured is—
+
+&emsp;&emsp;&emsp;&emsp;(I) such organization,
+
+&emsp;&emsp;&emsp;&emsp;(II) an affiliate of such organization which is exempt from tax under section 501(a), or
+
+&emsp;&emsp;&emsp;&emsp;(III) a director or officer of, or an individual who (directly or indirectly) performs services for, such organization or affiliate but only if the insurance covers primarily risks associated with the performance of services in connection with such organization or affiliate.
+
+&emsp;&emsp;&emsp;(ii)
+
+Affiliate.—For purposes of this subparagraph—
+
+&emsp;&emsp;&emsp;&emsp;(I)
+
+In general.—The determination as to whether an entity is an affiliate of an organization shall be made under rules similar to the rules of section 168(h)(4)(B).
+
+&emsp;&emsp;&emsp;&emsp;(II)
+
+Special rule.—Two or more organizations (and any affiliates of such organizations) shall be treated as affiliates if such organizations are colleges or universities described in section 170(b)(1)(A)(ii) or organizations described in section 170(b)(1)(A)(iii) and participate in an insurance arrangement that provides for any profits from such arrangement to be returned to the policyholders in their capacity as such.
+
+&emsp;&emsp;(C)
+
+Regulations.—The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this paragraph, including regulations for the application of this paragraph in the case of income paid through 1 or more entities or between 2 or more chains of entities.
+
 #### (c) Special rules for partnerships
 
 #### (1) In general
@@ -196,13 +234,69 @@ The modifications referred to in subsection (a) are the following:
 
 &emsp;If the taxable year of the organization is different from that of the partnership, the amounts to be included or deducted in computing the unrelated business taxable income under paragraph (1) shall be based upon the income and deductions of the partnership for any taxable year of the partnership ending within or with the taxable year of the organization.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 170; Apr. 7, 1958, Pub. L. 85–367, §1(a), 72 Stat. 80; July 17, 1964, Pub. L. 88–380, §1, 78 Stat. 333; Nov. 13, 1966, Pub. L. 89–809, title I, §104(g), 80 Stat. 1559; Dec. 30, 1969, Pub. L. 91–172, title I, §121(b)(1), (2), 83 Stat. 537, 538; Aug. 29, 1972, Pub. L. 92–418, §1(b), 86 Stat. 656; Sept. 3, 1976, Pub. L. 94–396, §1(a), 90 Stat. 1201; Oct. 4, 1976, Pub. L. 94–455, title XIX, §§1901(b)(8)(F), 1906(b)(13)(A), 1951(b)(8)(A), 90 Stat. 1794, 1834, 1839; Oct. 20, 1976, Pub. L. 94–568, §1(b), 90 Stat. 2697; Aug. 15, 1978, Pub. L. 95–345, §2(a)(2), (b), 92 Stat. 481; Jan. 12, 1983, Pub. L. 97–448, title I, §102(m)(3), 96 Stat. 2374; July 18, 1984, Pub. L. 98–369, div. A, title V, §511(b), 98 Stat. 860; Oct. 22, 1986, Pub. L. 99–514, title XVIII, §1851(a)(10), 100 Stat. 2861; Dec. 22, 1987, Pub. L. 100–203, title X, §10213(a), 101 Stat. 1330–406; Nov. 10, 1988, Pub. L. 100–647, title I, §1018(t)(2)(B), 102 Stat. 3587; Nov. 5, 1990, Pub. L. 101–508, title XI, §11801(a)(23), 104 Stat. 1388–521; Aug. 10, 1993, Pub. L. 103–66, title XIII, §§13145(a), 13147(a), 13148(a), (b), 107 Stat. 443, 444.)
+#### (d) Treatment of dues of agricultural or horticultural organizations
+
+#### (1) In general
+
+&emsp;If—
+
+&emsp;&emsp;(A) an agricultural or horticultural organization described in section 501(c)(5) requires annual dues to be paid in order to be a member of such organization, and
+
+&emsp;&emsp;(B) the amount of such required annual dues does not exceed $100,
+
+> &emsp;in no event shall any portion of such dues be treated as derived by such organization from an unrelated trade or business by reason of any benefits or privileges to which members of such organization are entitled.
+
+#### (2) Indexation of $100 amount
+
+&emsp;In the case of any taxable year beginning in a calendar year after 1995, the $100 amount in paragraph (1) shall be increased by an amount equal to—
+
+&emsp;&emsp;(A) $100, multiplied by
+
+&emsp;&emsp;(B) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, by substituting “calendar year 1994” for “calendar year 1992” in subparagraph (B) thereof.
+
+#### (3) Dues
+
+&emsp;For purposes of this subsection, the term “dues” means any payment (whether or not designated as dues) which is required to be made in order to be recognized by the organization as a member of the organization.
+
+(Aug. 16, 1954, ch. 736, 68A Stat. 170; Apr. 7, 1958, Pub. L. 85–367, §1(a), 72 Stat. 80; July 17, 1964, Pub. L. 88–380, §1, 78 Stat. 333; Nov. 13, 1966, Pub. L. 89–809, title I, §104(g), 80 Stat. 1559; Dec. 30, 1969, Pub. L. 91–172, title I, §121(b)(1), (2), 83 Stat. 537, 538; Aug. 29, 1972, Pub. L. 92–418, §1(b), 86 Stat. 656; Sept. 3, 1976, Pub. L. 94–396, §1(a), 90 Stat. 1201; Oct. 4, 1976, Pub. L. 94–455, title XIX, §§1901(b)(8)(F), 1906(b)(13)(A), 1951(b)(8)(A), 90 Stat. 1794, 1834, 1839; Oct. 20, 1976, Pub. L. 94–568, §1(b), 90 Stat. 2697; Aug. 15, 1978, Pub. L. 95–345, §2(a)(2), (b), 92 Stat. 481; Jan. 12, 1983, Pub. L. 97–448, title I, §102(m)(3), 96 Stat. 2374; July 18, 1984, Pub. L. 98–369, div. A, title V, §511(b), 98 Stat. 860; Oct. 22, 1986, Pub. L. 99–514, title XVIII, §1851(a)(10), 100 Stat. 2861; Dec. 22, 1987, Pub. L. 100–203, title X, §10213(a), 101 Stat. 1330–406; Nov. 10, 1988, Pub. L. 100–647, title I, §1018(t)(2)(B), 102 Stat. 3587; Nov. 5, 1990, Pub. L. 101–508, title XI, §11801(a)(23), 104 Stat. 1388–521; Aug. 10, 1993, Pub. L. 103–66, title XIII, §§13145(a), 13147(a), 13148(a), (b), 107 Stat. 443, 444; Aug. 20, 1996, Pub. L. 104–188, title I, §§1115(a), 1316(c), 1603(a), 110 Stat. 1761, 1786, 1835.)
+
+#### Adjustment of Amount of Annual Dues Threshold for Tax Years Beginning in 1997
+
+<i>For adjustment of maximum amount of annual dues paid to agricultural or horticultural organizations under subsec. (d)(1) of this section for tax years beginning in 1997, see section 3.10 of Revenue Procedure 96–59, set out as a note under section 1 of this title.</i>
+
+#### Enactment of Subsection (e)
+
+<i>Pub. L. 104–188, title I, §1316(c), (f), Aug. 20, 1996, 110 Stat. 1786, 1787, provided that, applicable to taxable years beginning after Dec. 31, 1997, this section is amended by adding a new subsection (e) to read as follows:</i>
+
+#### (e) Special rules applicable to S corporations
+
+#### (1) In general
+
+&emsp;If an organization described in section 1361(c)(7) holds stock in an S corporation—
+
+&emsp;&emsp;(A) such interest shall be treated as an interest in an unrelated trade or business, and
+
+&emsp;&emsp;(B) notwithstanding any other provision of this part—
+
+&emsp;&emsp;&emsp;<i>(i) all items of income, loss, or deduction taken into account under section 1366(a), and</i>
+
+&emsp;&emsp;&emsp;<i>(ii) any gain or loss on the disposition of the stock in the S corporation,</i>
+
+> &emsp;shall be taken into account in computing the unrelated business taxable income of such organization.
+
+#### (2) Basis reduction
+
+&emsp;Except as provided in regulations, for purposes of paragraph (1), the basis of any stock acquired by purchase (within the meaning of section 1012) shall be reduced by the amount of any dividends received by the organization with respect to the stock.
 
 #### References in Text
 
 The date of the enactment of the Tax Reform Act of 1984, referred to in subsec. (a)(3)(E)(ii)(II), (III), is the date of enactment of division A of Pub. L. 98–369, which was approved July 18, 1984.
 
 #### Amendments
+
+1996—Subsec. (b)(17). Pub. L. 104–188, §1603(a), added par. (17).
+
+Subsec. (d). Pub. L. 104–188, §1115(a), added subsec. (d).
 
 1993—Subsec. (b)(1). Pub. L. 103–66, §13148(a), inserted “amounts received or accrued as consideration for entering into agreements to make loans,” before “and annuities”.
 
@@ -216,7 +310,7 @@ Subsec. (c)(2), (3). Pub. L. 103–66, §13145(a), redesignated par. (3) as (2),
 
 &emsp;“(B) such organization's share of the partnership deductions shall be allowed in computing unrelated business taxable income.”
 
-1990—Subsec. (b)(14). Pub. L. 101–508 struck out par. (14) which read as follows: “Except as provided in paragraph (4), in the case of a church, or convention or association of churches, for taxable years beginning before January 1, 1976, there shall be excluded all gross income derived from a trade or business and all deductions directly connected with the carrying on of such trade or business if such trade or business was carried on by such organization or its predecessor before May 27, 1969.”
+1990—Subsec. (b)(14). Pub. L. 101–508 struck out par. (14) which read as follows: “Except as provided in paragraph (4), in the case of a church, or convention or association of churches, for taxable years beginning before January 1, 1976, there shall be excluded all gross income derived from a trade or business and all deductions directly connected with the carrying on of such trade or business if such trade or business was carriedon by such organization or its predecessor before May 27, 1969.”
 
 1988—Subsec. (a)(3)(E)(ii)(II). Pub. L. 100–647 substituted “subclause (I)” for “subclause (II)” and a period for comma at end.
 
@@ -278,6 +372,38 @@ Subsec. (b)(15) to (17). Pub. L. 91–172, §121(b)(2)(C), added pars. (15) to (
 
 1958—Subsec. (b)(13). Pub. L. 85–367 added par. (13).
 
+#### Effective Date of 1996 Amendment
+
+Section 1115(b) of Pub. L. 104–188 provided that:
+
+“(1)
+
+In general.—The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1986.
+
+“(2)
+
+Transitional rule.—If—
+
+&emsp;“(A) for purposes of applying part III of subchapter F of chapter 1 of the Internal Revenue Code of 1986 to any taxable year beginning before January 1, 1987, an agricultural or horticultural organization did not treat any portion of membership dues received by it as income derived in an unrelated trade or business, and
+
+&emsp;“(B) such organization had a reasonable basis for not treating such dues as income derived in an unrelated trade or business,
+
+> then, for purposes of applying such part III to any such taxable year, in no event shall any portion of such dues be treated as derived in an unrelated trade or business.
+
+“(3)
+
+Reasonable basis.—For purposes of paragraph (2), an organization shall be treated as having a reasonable basis for not treating membership dues as income derived in an unrelated trade or business if the taxpayer's treatment of such dues was in reasonable reliance on any of the following:
+
+&emsp;“(A) Judicial precedent, published rulings, technical advice with respect to the organization, or a letter ruling to the organization.
+
+&emsp;“(B) A past Internal Revenue Service audit of the organization in which there was no assessment attributable to the reclassification of membership dues for purposes of the tax on unrelated business income.
+
+&emsp;“(C) Long-standing recognized practice of agricultural or horticultural organizations.”
+
+Amendment by section 1316(c) of Pub. L. 104–188 applicable to taxable years beginning after Dec. 31, 1997, see section 1316(f) of Pub. L. 104–188, set out as a note under section 170 of this title.
+
+Section 1603(b) of Pub. L. 104–188 provided that: “The amendment made by this section \[amending this section\] shall apply to amounts included in gross income in any taxable year beginning after December 31, 1995.”
+
 #### Effective Date of 1993 Amendment
 
 Section 13145(b) of Pub. L. 103–66 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to partnership years beginning on or after January 1, 1994.”
@@ -308,7 +434,7 @@ Amendment by Pub. L. 97–448 effective, except as otherwise provided, as if it 
 
 #### Effective Date of 1978 Amendment
 
-Amendment by Pub. L. 95–345 applicable with respect to amounts received after Dec. 31, 1976, as paymentswith respect to securities loans (as defined in subsec. (a)(5) of this section), and transfers of securities, under agreements described in section 1058 of this title, occurring after such date, see section 2(e) of Pub. L. 95–345, set out as a note under section 509 of this title.
+Amendment by Pub. L. 95–345 applicable with respect to amounts received after Dec. 31, 1976, as payments with respect to securities loans (as defined in subsec. (a)(5) of this section), and transfers of securities, under agreements described in section 1058 of this title, occurring after such date, see section 2(e) of Pub. L. 95–345, set out as a note under section 509 of this title.
 
 #### Effective Date of 1976 Amendments
 
@@ -348,7 +474,7 @@ Section 1951(b)(8)(B) of Pub. L. 94–455 provided that: “Notwithstanding subp
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
 #### Cross References
 

@@ -18,7 +18,7 @@ Another section 202 of Pub. L. 95–188 amended section 302 of this title.
 
 1988—Pub. L. 100–418 inserted “, including an analysis of the impact of the exchange rate of the dollar on those trends” after “the Nation” in cl. (1).
 
-1978—Pub. L. 95–523 substituted provisions relating to the annual independent written reports of the Board of Governors to the Congress for provisions relating to the consultations of the Board of Governors with Congress at semi-annual hearings, substituted “the objectives and plans with respect to the ranges” for “such ranges”, inserted “of the monetary and credit aggregates disclosed in the reports submitted under this section” after “growth or diminution”, and inserted proviso respecting the inclusion of an explanation of reasons for revisions or deviations in subsequent consultations and reports.
+1978—Pub. L. 95–523 substituted provisions relating to independent written reports of the Board of Governors to the Congress for provisions relating to the consultations of the Board of Governors with Congress at semi-annual hearings, substituted “the objectives and plans with respect to the ranges” for “such ranges”, inserted “of the monetary and credit aggregates disclosed in the reports submitted under this section” after “growth or diminution”, and inserted proviso respecting the inclusion of an explanation of reasons for revisions or deviations in subsequent consultations and reports.
 
 #### Change of Name
 

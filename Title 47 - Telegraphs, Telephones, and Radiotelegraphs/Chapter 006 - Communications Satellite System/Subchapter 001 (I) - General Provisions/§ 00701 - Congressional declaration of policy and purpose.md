@@ -48,7 +48,7 @@ Policy.—The Congress declares that it is the policy of the United States—
 
 &emsp;&emsp;“(B) avoid significant economic harm to the global system of Intelsat; and
 
-&emsp;“(3) to authorize use and operation of any additional space segment facilities only if the obligations of the United States under article XIV(d) of the Intelsat Agreement have been met.
+&emsp;“(3) to authorize use and operation of any additional space segment facilities only if the obligationsof the United States under article XIV(d) of the Intelsat Agreement have been met.
 
 “(b)
 

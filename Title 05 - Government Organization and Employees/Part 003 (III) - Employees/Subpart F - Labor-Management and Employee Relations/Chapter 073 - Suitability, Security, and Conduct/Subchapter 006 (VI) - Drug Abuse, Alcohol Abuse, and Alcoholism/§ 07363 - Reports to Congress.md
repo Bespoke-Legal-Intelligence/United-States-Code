@@ -26,5 +26,3 @@ The date of the enactment of the Federal Employee Substance Abuse Education and 
 
 This section is referred to in sections 7361, 7362 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be followed by “of”.</i>
-

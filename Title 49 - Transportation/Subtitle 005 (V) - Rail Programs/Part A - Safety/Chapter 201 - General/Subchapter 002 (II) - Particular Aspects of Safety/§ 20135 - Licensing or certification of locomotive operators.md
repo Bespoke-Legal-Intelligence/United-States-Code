@@ -50,7 +50,9 @@ Opportunity to Examine and Comment on Information.—The Secretary, employer, or
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

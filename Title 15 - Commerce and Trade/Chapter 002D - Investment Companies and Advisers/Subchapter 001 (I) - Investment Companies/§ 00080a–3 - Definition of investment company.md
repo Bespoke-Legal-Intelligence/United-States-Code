@@ -2,19 +2,19 @@
 
 #### (a) Definitions
 
-When used in this subchapter, “investment company” means any issuer which—
+(1) When used in this subchapter, “investment company” means any issuer which—
 
-&emsp;(1) is or holds itself out as being engaged primarily, or proposes to engage primarily, in the business of investing, reinvesting, or trading in securities;
+&emsp;(A) is or holds itself out as being engaged primarily, or proposes to engage primarily, inthe business of investing, reinvesting, or trading in securities;
 
-&emsp;(2) is engaged or proposes to engage in the business of issuing face-amount certificates of the installment type, or has been engaged in such business and has any such certificate outstanding; or
+&emsp;(B) is engaged or proposes to engage in the business of issuing face-amount certificates of the installment type, or has been engaged in such business and has any such certificate outstanding; or
 
-&emsp;(3) is engaged or proposes to engage in the business of investing, reinvesting, owning, holding, or trading in securities, and owns or proposes to acquire investment securities having a value exceeding 40 per centum of the value of such issuer's total assets (exclusive of Government securities and cash items) on an unconsolidated basis.
+&emsp;(C) is engaged or proposes to engage in the business of investing, reinvesting, owning, holding, or trading in securities, and owns or proposes to acquire investment securities having a value exceeding 40 per centum of the value of such issuer's total assets (exclusive of Government securities and cash items) on an unconsolidated basis.
 
-> As used in this section, “investment securities” includes all securities except (A) Government securities, (B) securities issued by employees’ securities companies, and (C) securities issued by majority-owned subsidiaries of the owner which are not investment companies.
+(2) As used in this section, “investment securities” includes all securities except (A) Government securities, (B) securities issued by employees’ securities companies, and (C) securities issued by majority-owned subsidiaries of the owner which (i) are not investment companies, and (ii) are not relying on the exception from the definition of investment company in paragraph (1) or (7) of subsection (c) of this section.
 
 #### (b) Exemption from provisions
 
-Notwithstanding paragraph (3) of subsection (a) of this section, none of the following persons is an investment company within the meaning of this subchapter:
+Notwithstanding paragraph (3) <sup>1</sup> of subsection (a) of this section, none of the following persons is an investment company within the meaning of this subchapter:
 
 &emsp;(1) Any issuer primarily engaged, directly or through a wholly-owned subsidiary or subsidiaries, in a business or businesses other than that of investing, reinvesting, owning, holding, or trading in securities.
 
@@ -26,13 +26,25 @@ Notwithstanding paragraph (3) of subsection (a) of this section, none of the fol
 
 Notwithstanding subsection (a) of this section, none of the following persons is an investment company within the meaning of this subchapter:
 
-&emsp;(1) Any issuer whose outstanding securities (other than short-term paper) are beneficially owned by not more than one hundred persons and which is not making and does not presently propose to make a public offering of its securities. For purposes of this paragraph:
+&emsp;(1) Any issuer whose outstanding securities (other than short-term paper) are beneficially owned by not more than one hundred persons and which is not making and does not presently propose to make a public offering of its securities. Such issuer shall be deemed to be an investment company for purposes of the limitations set forth in subparagraphs (A)(i) and (B)(i) of section 80a–12(d)(1) of this title governing the purchase or other acquisition by such issuer of any security issued by any registered investment company and the sale of any security issued by any registered open-end investment company to any such issuer. For purposes of this paragraph:
 
-&emsp;&emsp;(A) Beneficial ownership by a company shall be deemed to be beneficial ownership by one person, except that, if the company owns 10 per centum or more of the outstanding voting securities of the issuer, the beneficial ownership shall be deemed to be that of the holders of such company's outstanding securities (other than short-term paper) unless, as of the date of the most recent acquisition by such company of securities of that issuer, the value of all securities owned by such company of all issuers which are or would, but for the exception set forth in this subparagraph, be excluded from the definition of investment company solely by this paragraph, does not exceed 10 per centum of the value of the company's total assets. Such issuer nonetheless is deemed to be an investment company for purposes of section 80a–12(d)(1) of this title.
+&emsp;&emsp;(A) Beneficial ownership by a company shall be deemed to be beneficial ownership by one person, except that, if the company owns 10 per centum or more of the outstanding voting securities of the issuer, and is or, but for the exception provided for in this paragraph or paragraph (7), would be an investment company, the beneficial ownership shall be deemed to be that of the holders of such company's outstanding securities (other than short-term paper).
 
 &emsp;&emsp;(B) Beneficial ownership by any person who acquires securities or interests in securities of an issuer described in the first sentence of this paragraph shall be deemed to be beneficial ownership by the person from whom such transfer was made, pursuant to such rules and regulations as the Commission shall prescribe as necessary or appropriate in the public interest and consistent with the protection of investors and the purposes fairly intended by the policy and provisions of this subchapter, where the transfer was caused by legal separation, divorce, death, or other involuntary event.
 
-&emsp;(2) Any person primarily engaged in the business of underwriting and distributing securities issued by other persons, selling securities to customers, and acting as broker, or any one or more of such activities, whose gross income normally is derived principally from such business and related activities.
+&emsp;(2)(A) Any person primarily engaged in the business of underwriting and distributing securities issued by other persons, selling securities to customers, acting as broker, and acting as market intermediary, or any one or more of such activities, whose gross income normally is derived principally from such business and related activities.
+
+&emsp;(B) For purposes of this paragraph—
+
+&emsp;&emsp;(i) the term “market intermediary” means any person that regularly holds itself out as being willing contemporaneously to engage in, and that is regularly engaged in, the business of entering into transactions on both sides of the market for a financial contract or one or more such financial contracts; and
+
+&emsp;&emsp;(ii) the term “financial contract” means any arrangement that—
+
+&emsp;&emsp;&emsp;(I) takes the form of an individually negotiated contract, agreement, or option to buy, sell, lend, swap, or repurchase, or other similar individually negotiated transaction commonly entered into by participants in the financial markets;
+
+&emsp;&emsp;&emsp;(II) is in respect of securities, commodities, currencies, interest or other rates, other measures of value, or any other financial or economic interest similar in purpose or function to any of the foregoing; and
+
+&emsp;&emsp;&emsp;(III) is entered into in response to a request from a counter party for a quotation, or is otherwise entered into and structured to accommodate the objectives of the counter party to such arrangement.
 
 &emsp;(3) Any bank or insurance company; any savings and loan association, building and loan association, cooperative bank, homestead association, or similar institution, or any receiver, conservator, liquidator, liquidating agent, or similar official or person thereof or therefor; or any common trust fund or similar fund maintained by a bank exclusively for the collective investment and reinvestment of moneys contributed thereto by the bank in its capacity as a trustee, executor, administrator, or guardian.
 
@@ -42,7 +54,27 @@ Notwithstanding subsection (a) of this section, none of the following persons is
 
 &emsp;(6) Any company primarily engaged, directly or through majority-owned subsidiaries, in one or more of the businesses described in paragraphs (3), (4), and (5) of this subsection, or in one or more of such businesses (from which not less than 25 per centum of such company's gross income during its last fiscal year was derived) together with an additional business or businesses other than investing, reinvesting, owning, holding, or trading in securities.
 
-&emsp;(7) Reserved.
+&emsp;(7)(A) Any issuer, the outstanding securities of which are owned exclusively by persons who, at the time of acquisition of such securities, are qualified purchasers, and which is not making and does not at that time propose to make a public offering of such securities. Securities that are owned by persons who received the securities from a qualified purchaser as a gift or bequest, or in a case in which the transfer was caused by legal separation, divorce, death, or other involuntary event, shall be deemed to be owned by a qualified purchaser, subject to such rules, regulations, and orders as the Commission may prescribe as necessary or appropriate in the public interest or for the protection of investors.
+
+&emsp;(B) Notwithstanding subparagraph (A), an issuer is within the exception provided by this paragraph if—
+
+&emsp;&emsp;(i) in addition to qualified purchasers, outstanding securities of that issuer are beneficially owned by not more than 100 persons who are not qualified purchasers, if—
+
+&emsp;&emsp;&emsp;(I) such persons acquired any portion of the securities of such issuer on or before September 1, 1996; and
+
+&emsp;&emsp;&emsp;(II) at the time at which such persons initially acquired the securities of such issuer, the issuer was excepted by paragraph (1); and
+
+&emsp;&emsp;(ii) prior to availing itself of the exception provided by this paragraph—
+
+&emsp;&emsp;&emsp;(I) such issuer has disclosed to each beneficial owner, as determined under paragraph (1), that future investors will be limited to qualified purchasers, and that ownership in such issuer is no longer limited to not more than 100 persons; and
+
+&emsp;&emsp;&emsp;(II) concurrently with or after such disclosure, such issuer has provided each beneficial owner, as determined under paragraph (1), with a reasonable opportunity to redeem any part or all of their interests in the issuer, notwithstanding any agreement to the contrary between the issuer and such persons, for that person's proportionate share of the issuer's net assets.
+
+&emsp;(C) Each person that elects to redeem under subparagraph (B)(ii)(II) shall receive an amount in cash equal to that person's proportionate share of the issuer's net assets, unless the issuer elects to provide such person with the option of receiving, and such person agrees to receive, all or a portion of such person's share in assets of the issuer. If the issuer elects to provide such persons with such an opportunity, disclosure concerning such opportunity shall be made in the disclosure required by subparagraph (B)(ii)(I).
+
+&emsp;(D) An issuer that is excepted under this paragraph shall nonetheless be deemed to be an investment company for purposes of the limitations set forth in subparagraphs (A)(i) and (B)(i) of section 80a–12(d)(1) of this title relating to the purchase or other acquisition by such issuer of any security issued by any registered investment company and the sale of any security issued by any registered open-end investment company to any such issuer.
+
+&emsp;(E) For purposes of determining compliance with this paragraph and paragraph (1), an issuer that is otherwise excepted under this paragraph and an issuer that is otherwise excepted under paragraph (1) shall not be treated by the Commission as being a single issuer for purposes of determining whether the outstanding securities of the issuer excepted under paragraph (1) are beneficially owned by not more than 100 persons or whether the outstanding securities of the issuer excepted under this paragraph are owned by persons that are not qualified purchasers. Nothing in this subparagraph shall be construed to establish that a person is a bona fide qualified purchaser for purposes of this paragraph or a bona fide beneficial owner for purposes of paragraph (1).
 
 &emsp;(8) Any company subject to regulation under the Public Utility Holding Company Act of 1935 \[15 U.S.C. 79 et seq.\].
 
@@ -104,13 +136,39 @@ Notwithstanding subsection (a) of this section, none of the following persons is
 
 &emsp;(13) Any security holders’ protective committee or similar issuer having outstanding and issuing no securities other than certificates of deposit and short-term paper.
 
-(Aug. 22, 1940, ch. 686, title I, §3, 54 Stat. 797; Oct. 21, 1942, ch. 619, title I, §162(e), 56 Stat. 867; July 1, 1966, Pub. L. 89–485, §13(i), 80 Stat. 243; Dec. 14, 1970, Pub. L. 91–547, §3(a), (b), 84 Stat. 1414; Feb. 5, 1976, Pub. L. 94–210, title III, §308(c), 90 Stat. 57; Oct. 21, 1980, Pub. L. 96–477, title I, §102, title VII, §703, 94 Stat. 2276, 2295; Dec. 4, 1987, Pub. L. 100–181, title VI, §§604–606, 101 Stat. 1260; Dec. 8, 1995, Pub. L. 104–62, §2(a), 109 Stat. 682.)
+&emsp;(14) Any church plan described in section 414(e) of title 26, if, under any such plan, no part of the assets may be used for, or diverted to, purposes other than the exclusive benefit of plan participants or beneficiaries, or any company or account that is—
+
+&emsp;&emsp;(A) established by a person that is eligible to establish and maintain such a plan under section 414(e) of title 26; and
+
+&emsp;&emsp;(B) substantially all of the activities of which consist of—
+
+&emsp;&emsp;&emsp;(i) managing or holding assets contributed to such church plans or other assets which are permitted to be commingled with the assets of church plans under title 26; or
+
+&emsp;&emsp;&emsp;(ii) administering or providing benefits pursuant to church plans.
+
+(Aug. 22, 1940, ch. 686, title I, §3, 54 Stat. 797; Oct. 21, 1942, ch. 619, title I, §162(e), 56 Stat. 867; July 1, 1966, Pub. L. 89–485, §13(i), 80 Stat. 243; Dec. 14, 1970, Pub. L. 91–547, §3(a), (b), 84 Stat. 1414; Feb. 5, 1976, Pub. L. 94–210, title III, §308(c), 90 Stat. 57; Oct. 21, 1980, Pub. L. 96–477, title I, §102, title VII, §703, 94 Stat. 2276, 2295; Dec. 4, 1987, Pub. L. 100–181, title VI, §§604–606, 101 Stat. 1260; Dec. 8, 1995, Pub. L. 104–62, §2(a), 109 Stat. 682; Oct. 11, 1996, Pub. L. 104–290, title II, §209(a), (c), title V, §508(a), 110 Stat. 3432, 3435, 3447.)
 
 #### References in Text
+
+Paragraph (3) of subsection (a) of this section, referred to in subsec. (b), was redesignated subsec. (a)(1)(C) by Pub. L. 104–290, title II, §209(c)(3), (4), Oct. 11, 1996, 110 Stat. 3435.
 
 The Public Utility Holding Company Act of 1935, referred to in subsec. (c)(8), is act Aug. 26, 1935, ch. 687, title I, 49 Stat. 838, as amended, which is classified generally to chapter 2C (§79 et seq.) of this title. For complete classification of this Act to the Code, see section 79 of this title and Tables.
 
 #### Amendments
+
+1996—Subsec. (a). Pub. L. 104–290, §209(c)(1)–(5), designated existing introductory provisions as par. (1), redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, and designated existing concluding provisions as par. (2).
+
+Subsec. (a)(2)(C). Pub. L. 104–290, §209(c)(6), substituted “which (i) are” for “which are” and added cl. (ii).
+
+Subsec. (c)(1). Pub. L. 104–290, §209(a)(1), inserted after first sentence “Such issuer shall be deemed to be an investment company for purposes of the limitations set forth in subparagraphs (A)(i) and (B)(i) of section 80a–12(d)(1) of this title governing the purchase or other acquisition by such issuer of any security issued by any registered investment company and the sale of any security issued by any registered open-end investment company to any such issuer.”
+
+Subsec. (c)(1)(A). Pub. L. 104–290, §209(a)(2), inserted “and is or, but for the exception provided for in this paragraph or paragraph (7), would be an investment company,” after “voting securities of the issuer,” and struck out “unless, as of the date of the most recent acquisition by such company of securities of that issuer, the value of all securities owned by such company of all issuers which are or would, but for the exception set forth in this subparagraph, be excluded from the definition of investment company solely by this paragraph, does not exceed 10 per centum of the value of the company's total assets. Such issuer nonetheless is deemed to be an investment company for purposes of section 80a–12(d)(1) of this title” after “(other than short-term paper)”.
+
+Subsec. (c)(2). Pub. L. 104–290, §209(a)(3), designated existing provisions as subpar. (A), substituted “acting as broker, and acting as market intermediary,” for “and acting as broker,”, and added subpar. (B).
+
+Subsec. (c)(7). Pub. L. 104–290, §209(a)(4), added par. (7) and struck out former par. (7) “Reserved.”
+
+Subsec. (c)(14). Pub. L. 104–290, §508(a), added par. (14).
 
 1995—Subsec. (c)(10). Pub. L. 104–62 amended par. (10) generally. Prior to amendment, par. (10) read as follows: “Any company organized and operated exclusively for religious, educational, benevolent, fraternal, charitable, or reformatory purposes, no part of the net earnings of which inures to the benefit of any private shareholder or individual.”
 
@@ -118,7 +176,7 @@ The Public Utility Holding Company Act of 1935, referred to in subsec. (c)(8), i
 
 Subsec. (c)(7). Pub. L. 100–181, §605, substituted “Reserved.” for “Any company (A) which is subject to regulation under section 314 of title 49, except that this exception shall not apply to a company which the Commission finds and by order declares to be primarily engaged, directly or indirectly, in the business of investing, reinvesting, owning, holding, or trading in securities, or (B) whose entire outstanding stock is owned or controlled by a company excepted under clause (A) hereof, if the assets of the controlled company consist substantially of securities issued by companies which are subject to regulation under section 314 of title 49.”
 
-Subsec. (c)(11). Pub. L. 100–181, §606(1), substituted “Internal Revenue Code of 1986” for “Internal RevenueCode of 1954” wherever appearing, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+Subsec. (c)(11). Pub. L. 100–181, §606(1), substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954” wherever appearing, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
 Pub. L. 100–181, §606(2), (3), substituted “; or any governmental plan” for “or which holds only assets of governmental plans” and “trusts or governmental plans, or both” for “trusts”.
 
@@ -151,6 +209,10 @@ Subsecs. (c)(12) to (15). Pub. L. 91–547, §3(b)(2), redesignated pars. (14) a
 1966—Subsec. (c)(4). Pub. L. 89–485 repealed provisions which exempt holding company affiliates granted a general voting permit by the Board of Governors of the Federal Reserve System before 1940 and any such affiliates with a later voting permit concerning which determinations were made of being primarily engaged, directly or indirectly, in the business of holding the stock of, and managing or controlling, banks, banking associations, savings banks, or trust companies.
 
 1942—Subsec. (c)(13). Act Oct. 31, 1942, inserted “as amended”.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by section 209 of Pub. L. 104–290 effective on earlier of 180 days after Oct. 11, 1996, or date on which required rulemaking is completed, see section 209(e) of Pub. L. 104–290 set out as a note under section 80a–2 of this title.
 
 #### Effective Date of 1995 Amendment
 
@@ -188,9 +250,29 @@ Taxable Years to Which Amendments Applicable.—The amendments made by this sect
 
 “(2) In the case of a stock bonus, pension, profit sharing or annuity plan put into effect after September 1, 1942, such a plan shall be considered as satisfying the requirements of section 165(a)(3), (4), (5), and (6) \[of Title 26, I.R.C. 1939\] for the period beginning with the date such plan is put into effect and ending December 31, 1944, if the provisions thereof satisfy such requirements by December 31, 1944, and if by that time such provisions are made effective for all purposes as of a date not later than the effective date of such plan or January 1, 1944, whichever is the later.”
 
+#### Regulations
+
+Section 209(d)(1) of Pub. L. 104–290 provided that: “Not later than 1 year after the date of enactment of this Act \[Oct. 11, 1996\], the Commission shall prescribe rules to implement the requirements of section 3(c)(1)(B) of the Investment Company Act of 1940 (15 U.S.C. 80a–3(c)(1)(B)), as amended by this section.”
+
+Section 209(d)(3) of Pub. L. 104–290 provided that: “Not later than 1 year after the date of enactment of this Act \[Oct. 11, 1996\], the Commission shall prescribe rules pursuant to its authority under section 6 of the Investment Company Act of 1940 \[15 U.S.C. 80a–6\] to permit the ownership of securities by knowledgeable employees of the issuer of the securities or an affiliated person without loss of the exception of the issuer under paragraph (1) or (7) of section 3(c) of that Act \[15 U.S.C. 80a–3(c)\] from treatment as an investment company under that Act \[15 U.S.C. 80a–1 et seq.\].”
+
+Section 209(d)(4) of Pub. L. 104–290 provided that: “Not later than 180 days after the date of enactment of this Act \[Oct. 11, 1996\], the Commission shall prescribe rules defining the term ‘beneficial owner’ for purposes of section 3(c)(7)(B) of the Investment Company Act of 1940 \[15 U.S.C. 80a–3(c)(7)(B)\], as amended by this Act.”
+
 #### Transfer of Functions
 
 For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
+
+#### Protection of Church Employee Benefit Plans Under State Law
+
+Section 508(f) of Pub. L. 104–290 provided that:
+
+“(1)
+
+Registration requirements.—Any security issued by or any interest or participation in any church plan, company, or account that is excluded from thedefinition of an investment company under section 3(c)(14) of the Investment Company Act of 1940 \[15 U.S.C. 80a–3(c)(14)\], as added by subsection (a) of this section, and any offer, sale, or purchase thereof, shall be exempt from any law of a State that requires registration or qualification of securities.
+
+“(2)
+
+Treatment of church plans.—No church plan described in section 414(e) of the Internal Revenue Code of 1986 \[26 U.S.C. 414(e)\], no person or entity eligible to establish and maintain such a plan under the Internal Revenue Code of 1986 \[26 U.S.C. 1 et seq.\], no company or account that is excluded from the definition of an investment company under section 3(c)(14) of the Investment Company Act of 1940 \[15 U.S.C. 80a–3(c)(14)\], as added by subsection (a) of this section, and no trustee, director, officer, or employee of or volunteer for any such plan, person, entity, company, or account shall be required to qualify, register, or be subject to regulation as an investment company or as a broker, dealer, investment adviser, or agent under the laws of any State solely because such plan, person, entity, company, or account buys, holds, sells, or trades in securities for its own account or in its capacity as a trustee or administrator of or otherwise on behalf of, or for the account of, or provides investment advice to, for, or on behalf of, any such plan, person, or entity or any company or account that is excluded from the definition of an investment company under section 3(c)(14) of the Investment Company Act of 1940, as added by subsection (a) of this section.”
 
 #### Cross References
 
@@ -200,5 +282,7 @@ Value as to assets of registered investment companies, definition of, see sectio
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 77c, 77z–2, 78c, 78<i>l</i>, 78u–5, 80a–2, 80a–3a, 80a–6, 80a–7, 80a–58, 80a–62, 80a–64, 80b–3, 80b–5, 6102 of this title; title 26 sections 851, 6049.
+This section is referred to in sections 77c, 77z–2, 78c, 78<i>l</i>, 78u–5, 80a–2, 80a–3a, 80a–6, 80a–7, 80a–29, 80a–58, 80a–62, 80a–64, 80b–3, 80b–5, 6102 of this title; title 26 sections 851, 6049.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

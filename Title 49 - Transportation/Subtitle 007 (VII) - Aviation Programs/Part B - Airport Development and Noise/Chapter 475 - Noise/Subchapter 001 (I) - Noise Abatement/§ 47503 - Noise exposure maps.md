@@ -16,7 +16,9 @@ Revised Maps.—If a change in the operation of an airport will establish a subs
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

@@ -44,5 +44,5 @@ Recovery exclusion with respect to recovery of bad debts, prior taxes, and delin
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 12, 26, 111, 532, 534, 535, 536, 545, 556, 563, 936, 1297, 6601, 7518 of this title; title 46 App. section 1177.
+This section is referred to in sections 12, 26, 30A, 111, 532, 534, 535, 536, 545, 556, 563, 936, 1297, 6601, 7518 of this title; title 46 App. section 1177.
 

@@ -21,20 +21,13 @@
 | 9, 10. | Repealed or Omitted. |
 | [10a.](%C2%A7%2000010a%20-%20American%20materials%20required%20for%20public%20use.md) | American materials required for public use. |
 | [10b.](%C2%A7%2000010b%20-%20Contracts%20for%20public%20works%3B%20specification%20for%20use%20of%20American%20materials%3B%20blacklisting%20contractors%20violating%20requirements.md) | Contracts for public works; specification for use of American materials; blacklisting contractors violating requirements. |
-| 10b–1. | Prohibition on procurement contracts; exceptions. |
-| (a) | Federal contracts for goods or services of foreign origin. |
-| (b) | Exceptions to prohibition. |
-| (c) | Authority of President or Federal agency heads to authorize contracts. |
-| (d) | Limitation on authority of Federal agency heads to authorize contracts. |
-| (e) | Non-delegability of agency heads’ authority. |
-| (f) | Other authorities to bar procurement from non-designated countries not affected. |
-| (g) | Ownership or control of contractors or subcontractors by citizens or nationals of foreign countries. |
-| (h) | Definitions. |
+| 10b–1. | Omitted. |
 | 10b–2. | Limitation on authority to waive Buy American Act requirement. |
 | (a) | Determination by Secretary of Defense. |
 | (b) | Report to Congress. |
 | (c) | “Buy American Act” defined. |
-| [10c.](%C2%A7%2000010c%20-%20Definition%20of%20terms%20used%20in%20sections%2010a%2C%2010b%2C%2010b%E2%80%931%2C%20and%2010c.md) | Definition of terms used in sections 10a, 10b, 10b–1, and 10c. |
+| 10b–3. | Annual report relating to Buy American Act. |
+| [10c.](%C2%A7%2000010c%20-%20Definition%20of%20terms%20used%20in%20sections%2010a%2C%2010b%2C%20and%2010c.md) | Definition of terms used in sections 10a, 10b, and 10c. |
 | [10d.](%C2%A7%2000010d%20-%20Clarification%20of%20Congressional%20intent%20regarding%20sections%2010a%20and%2010b%28a%29.md) | Clarification of Congressional intent regarding sections 10a and 10b(a). |
 | [11\.](%C2%A7%2000011%20-%20No%20contracts%20or%20purchases%20unless%20authorized%20or%20under%20adequate%20appropriation%3B%20report%20to%20the%20Congress.md) | No contracts or purchases unless authorized or under adequate appropriation; report to the Congress. |
 | [11a.](%C2%A7%2000011a%20-%20Contracts%20for%20fuel%20by%20Secretary%20of%20the%20Army%20without%20regard%20to%20current%20fiscal%20year.md) | Contracts for fuel by Secretary of the Army without regard to current fiscal year. |
@@ -54,7 +47,7 @@
 | [22\.](%C2%A7%2000022%20-%20Interest%20of%20Member%20of%20Congress.md) | Interest of Member of Congress. |
 | [23\.](%C2%A7%2000023%20-%20Orders%20or%20contracts%20for%20material%20placed%20with%20Government-owned%20establishments%20deemed%20obligations.md) | Orders or contracts for material placed with Government-owned establishments deemed obligations. |
 | [24\.](%C2%A7%2000024%20-%20Contracts%20for%20transportation%20of%20moneys%2C%20bullion%2C%20coin%2C%20and%20securities.md) | Contracts for transportation of moneys, bullion, coin, and securities. |
-| 24a to 34. Omitted or Repealed. |  |
+| 24a to 34. | Omitted or Repealed. |
 | [35\.](%C2%A7%2000035%20-%20Contracts%20for%20materials%2C%20etc.%2C%20exceeding%20%2410%2C000%3B%20representations%20and%20stipulations.md) | Contracts for materials, etc., exceeding $10,000; representations and stipulations. |
 | [36\.](%C2%A7%2000036%20-%20Liability%20for%20contract%20breach%3B%20cancellation%3B%20completion%20by%20Government%20agency%3B%20employee%27s%20wages.md) | Liability for contract breach; cancellation; completion by Government agency; employee's wages. |
 | [37\.](%C2%A7%2000037%20-%20Distribution%20of%20list%20of%20persons%20breaching%20contract%3B%20future%20contracts%20prohibited.md) | Distribution of list of persons breaching contract; future contracts prohibited. |
@@ -140,9 +133,10 @@ Ex. Ord. No. 10925, Mar. 6, 1961, 26 F.R. 1977, which related to nondiscriminati
 - [&sect; 00010 - Omitted](%C2%A7%2000010%20-%20Omitted.md)
 - [&sect; 00010a - American materials required for public use](%C2%A7%2000010a%20-%20American%20materials%20required%20for%20public%20use.md)
 - [&sect; 00010b - Contracts for public works; specification for use of American materials; blacklisting contractors violating requirements](%C2%A7%2000010b%20-%20Contracts%20for%20public%20works%3B%20specification%20for%20use%20of%20American%20materials%3B%20blacklisting%20contractors%20violating%20requirements.md)
-- [&sect; 00010b&#8211;1 - Prohibition on procurement contracts; exceptions](%C2%A7%2000010b%E2%80%931%20-%20Prohibition%20on%20procurement%20contracts%3B%20exceptions.md)
+- [&sect; 00010b&#8211;1 - Omitted](%C2%A7%2000010b%E2%80%931%20-%20Omitted.md)
 - [&sect; 00010b&#8211;2 - Limitation on authority to waive Buy American Act requirement](%C2%A7%2000010b%E2%80%932%20-%20Limitation%20on%20authority%20to%20waive%20Buy%20American%20Act%20requirement.md)
-- [&sect; 00010c - Definition of terms used in sections 10a, 10b, 10b&#8211;1, and 10c](%C2%A7%2000010c%20-%20Definition%20of%20terms%20used%20in%20sections%2010a%2C%2010b%2C%2010b%E2%80%931%2C%20and%2010c.md)
+- [&sect; 00010b&#8211;3 - Annual report relating to Buy American Act](%C2%A7%2000010b%E2%80%933%20-%20Annual%20report%20relating%20to%20Buy%20American%20Act.md)
+- [&sect; 00010c - Definition of terms used in sections 10a, 10b, and 10c](%C2%A7%2000010c%20-%20Definition%20of%20terms%20used%20in%20sections%2010a%2C%2010b%2C%20and%2010c.md)
 - [&sect; 00010d - Clarification of Congressional intent regarding sections 10a and 10b(a)](%C2%A7%2000010d%20-%20Clarification%20of%20Congressional%20intent%20regarding%20sections%2010a%20and%2010b%28a%29.md)
 - [&sect; 00011 - No contracts or purchases unless authorized or under adequate appropriation; report to the Congress](%C2%A7%2000011%20-%20No%20contracts%20or%20purchases%20unless%20authorized%20or%20under%20adequate%20appropriation%3B%20report%20to%20the%20Congress.md)
 - [&sect; 00011a - Contracts for fuel by Secretary of the Army without regard to current fiscal year](%C2%A7%2000011a%20-%20Contracts%20for%20fuel%20by%20Secretary%20of%20the%20Army%20without%20regard%20to%20current%20fiscal%20year.md)
@@ -155,7 +149,7 @@ Ex. Ord. No. 10925, Mar. 6, 1961, 26 F.R. 1977, which related to nondiscriminati
 - [&sect; 00016a to 16d - Omitted](%C2%A7%2000016a%20to%2016d%20-%20Omitted.md)
 - [&sect; 00017 to 19 - Repealed. Oct. 21, 1941, ch. 452, 55 Stat. 743](%C2%A7%2000017%20to%2019%20-%20Repealed.%20Oct.%2021%2C%201941%2C%20ch.%20452%2C%2055%20Stat.%20743.md)
 - [&sect; 00020 - Repealed. Pub. L. 103&#8211;355, title II, &sect;2452, Oct. 13, 1994, 108 Stat. 3326](%C2%A7%2000020%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93355%2C%20title%20II%2C%20%C2%A72452%2C%20Oct.%2013%2C%201994%2C%20108%20Stat.%203326.md)
-- [&sect; 00020a, 20b - Omitted](%C2%A7%2000020a%2C%2020b%20-%20Omitted.md)
+- [&sect; 00020a, 20b - Repealed. Pub. L. 104&#8211;106, div. D, title XLIII, &sect;4321(i)(10), (11), Feb. 10, 1996, 110 Stat. 676](%C2%A7%2000020a%2C%2020b%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93106%2C%20div.%20D%2C%20title%20XLIII%2C%20%C2%A74321%28i%29%2810%29%2C%20%2811%29%2C%20Feb.%2010%2C%201996%2C%20110%20Stat.%20676.md)
 - [&sect; 00021 - Repealed. Pub. L. 97&#8211;258, &sect;5(b), Sept. 13, 1982, 96 Stat. 1069](%C2%A7%2000021%20-%20Repealed.%20Pub.%20L.%2097%E2%80%93258%2C%20%C2%A75%28b%29%2C%20Sept.%2013%2C%201982%2C%2096%20Stat.%201069.md)
 - [&sect; 00022 - Interest of Member of Congress](%C2%A7%2000022%20-%20Interest%20of%20Member%20of%20Congress.md)
 - [&sect; 00023 - Orders or contracts for material placed with Government-owned establishments deemed obligations](%C2%A7%2000023%20-%20Orders%20or%20contracts%20for%20material%20placed%20with%20Government-owned%20establishments%20deemed%20obligations.md)

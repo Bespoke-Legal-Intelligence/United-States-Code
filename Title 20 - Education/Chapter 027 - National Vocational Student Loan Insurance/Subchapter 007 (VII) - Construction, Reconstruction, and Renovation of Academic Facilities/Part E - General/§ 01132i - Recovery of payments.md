@@ -2,7 +2,7 @@
 
 #### (a) Public benefit
 
-The Congress declares that, if a facility constructed with the aid of a grant under part A of this subchapter, or part B of this subchapter as such part was in effect prior to July 23, 1992, is used as an academic facility for 20 years following completion of such construction, the public benefit accruing to the United States will equal in value the amount of the grant. The period of 20 years after completion of such construction shall therefore be deemed to be the period of Federal interest in such facility for the purposes of this subchapter.
+The Congress declares that, if a facility constructed with the aid of a grant under part A of this subchapter, or part B of this subchapter as such part was in effect prior to July 23, 1992, isused as an academic facility for 20 years following completion of such construction, the public benefit accruing to the United States will equal in value the amount of the grant. The period of 20 years after completion of such construction shall therefore be deemed to be the period of Federal interest in such facility for the purposes of this subchapter.
 
 #### (b) Recovery upon cessation of public benefit
 

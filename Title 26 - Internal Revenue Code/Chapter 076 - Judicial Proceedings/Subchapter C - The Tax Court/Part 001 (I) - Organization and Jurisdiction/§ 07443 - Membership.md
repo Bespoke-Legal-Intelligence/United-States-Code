@@ -82,13 +82,15 @@ Amendment by act Mar. 2, 1955, effective Mar. 1, 1955, see section 5 of act Mar.
 
 1987—Salaries of judges increased to $89,500 per annum, on recommendation of the President of the United States, see note set out under section 358 of Title 2, The Congress.
 
-1977—Salaries of judges increased to $54,500 per annum, on recommendation of the President of the United States, see note set out under section 358 of Title 2.
+1977—Salaries of judges increased to $54,500 per annum, on recommendation of the President of theUnited States, see note set out under section 358 of Title 2.
 
 1969—Salaries of judges increased to $40,000 per annum, on recommendation of the President of the United States, see note set out under section 358 of Title 2.
 
 #### Certification by Judge of Travel Expenses
 
 Provisions authorizing the travel expenses of the judges of the United States Tax Court to be paid upon the written certificate of the judge were contained in the following appropriation acts:
+
+Sept. 30, 1996, Pub. L. 104–208, div. A, title I, §101(f) \[title IV\], 110 Stat. 3009–314, 3009–344.
 
 Nov. 19, 1995, Pub. L. 104–52, title IV, 109 Stat. 491.
 

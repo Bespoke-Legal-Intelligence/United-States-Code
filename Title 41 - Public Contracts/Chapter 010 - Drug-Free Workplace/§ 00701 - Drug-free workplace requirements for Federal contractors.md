@@ -4,7 +4,7 @@
 
 #### (1) Requirement for persons other than individuals
 
-&emsp;No person, other than an individual, shall be considered a responsible source, under the meaning of such term as defined in section 403(8) of this title, for the purposes of being awarded a contract for the procurement of any property or services of a value greater than the simplified acquisition threshold (as defined in section 403(11) of this title) by any Federal agency, other than a contract for the procurement of commercial items as defined in section 403 of this title, unless such person has certified to the contracting agency that it will provide a drug-free workplace by—
+&emsp;No person, other than an individual, shall be considered a responsible source, under the meaning of such term as defined in section 403(8) of this title, for the purposes of being awarded a contract for the procurement of any property or services of a value greater than the simplified acquisition threshold (as defined in section 403(11) of this title) by any Federal agency, other than a contract for the procurement of commercial items (as defined in section 403(12) of this title), unless such person agrees to provide a drug-free workplace by—
 
 &emsp;&emsp;(A) publishing a statement notifying employees that the unlawful manufacture, distribution, dispensation, possession, or use of a controlled substance is prohibited in the person's workplace and specifying the actions that will be taken against employees for violations of such prohibition;
 
@@ -18,7 +18,7 @@
 
 &emsp;&emsp;&emsp;(iv) the penalties that may be imposed upon employees for drug abuse violations;
 
-&emsp;&emsp;(C) making it a requirement that each employee to be engaged in the performance ofsuch contract be given a copy of the statement required by subparagraph (A);
+&emsp;&emsp;(C) making it a requirement that each employee to be engaged in the performance of such contract be given a copy of the statement required by subparagraph (A);
 
 &emsp;&emsp;(D) notifying the employee in the statement required by subparagraph (A), that as a condition of employment on such contract, the employee will—
 
@@ -34,7 +34,7 @@
 
 #### (2) Requirement for individuals
 
-&emsp;No Federal agency shall enter into a contract with an individual unless such contract includes a certification by the individual that the individual will not engage in the unlawful manufacture, distribution, dispensation, possession, or use of a controlled substance in the performance of the contract.
+&emsp;No Federal agency shall enter into a contract with an individual unless such individual agrees that the individual will not engage in the unlawful manufacture, distribution, dispensation, possession, or use of a controlled substance in the performance of the contract.
 
 #### (b) Suspension, termination, or debarment of contractor
 
@@ -42,11 +42,9 @@
 
 &emsp;Each contract awarded by a Federal agency shall be subject to suspension of payments under the contract or termination of the contract, or both, and the contractor thereunder or the individual who entered the contract with the Federal agency, as applicable, shall be subject to suspension or debarment in accordance with the requirements of this section if the head of the agency determines that—
 
-&emsp;&emsp;(A) the contractor or individual has made a false certification under subsection (a) of this section;
+&emsp;&emsp;(A) the contractor violates the requirements of subparagraph (A), (B), (C), (D), (E), or (F) of subsection (a)(1) of this section; or
 
-&emsp;&emsp;(B) the contractor violates such certification by failing to carry out the requirements of subparagraph (A), (B), (C), (D), (E), or (F) of subsection (a)(1) of this section; or
-
-&emsp;&emsp;(C) such a number of employees of such contractor have been convicted of violations of criminal drug statutes for violations occurring in the workplace as to indicate that the contractor has failed to make a good faith effort to provide a drug-free workplace as required by subsection (a) of this section.
+&emsp;&emsp;(B) such a number of employees of such contractor have been convicted of violations of criminal drug statutes for violations occurring in the workplace as to indicate that the contractor has failed to make a good faith effort to provide a drug-free workplace as required by subsection (a) of this section.
 
 #### (2) Conduct of suspension, termination, and debarment proceedings
 
@@ -58,11 +56,23 @@
 
 &emsp;Upon issuance of any final decision under this subsection requiring debarment of a contractor or individual, such contractor or individual shall be ineligible for award of any contract by any Federal agency, and for participation in any future procurement by any Federal agency, for a period specified in the decision, not to exceed 5 years.
 
-(Pub. L. 100–690, title V, §5152, Nov. 18, 1988, 102 Stat. 4304; Pub. L. 103–355, title IV, §4104(d), title VIII, §8301(f), Oct. 13, 1994, 108 Stat. 3342, 3397.)
+(Pub. L. 100–690, title V, §5152, Nov. 18, 1988, 102 Stat. 4304; Pub. L. 103–355, title IV, §4104(d), titleVIII, §8301(f), Oct. 13, 1994, 108 Stat. 3342, 3397; Pub. L. 104–106, div. D, title XLIII, §§4301(a)(3), 4321(i)(13), Feb. 10, 1996, 110 Stat. 656, 677.)
 
 #### Amendments
 
+1996—Subsec. (a)(1). Pub. L. 104–106, §4321(i)(13), substituted “(as defined in section 403(12) of this title)” for “as defined in section 403 of this title” in introductory provisions.
+
+Pub. L. 104–106, §4301(a)(3)(A), substituted “agrees to” for “has certified to the contracting agency that it will” in introductory provisions.
+
+Subsec. (a)(2). Pub. L. 104–106, §4301(a)(3)(B), substituted “individual agrees” for “contract includes a certification by the individual”.
+
+Subsec. (b)(1). Pub. L. 104–106, §4301(a)(3)(C), redesignated subpar. (B) as (A), struck out “such certification by failing to carry out” after “contractor violates”, redesignated subpar. (C) as (B), and struck out former subpar. (A) which read as follows: “the contractor or individual has made a false certification under subsection (a) of this section;”.
+
 1994—Subsec. (a)(1). Pub. L. 103–355 substituted “greater than the simplified acquisition threshold (as defined in section 403(11) of this title) by any Federal agency, other than a contract for the procurement of commercial items as defined in section 403 of this title,” for “of $25,000 or more from any Federal agency” in introductory provisions.
+
+#### Effective Date of 1996 Amendment
+
+For effective date and applicability of amendment by Pub. L. 104–106, see section 4401 of Pub. L. 104–106, set out as a note under section 251 of this title.
 
 #### Effective Date of 1994 Amendment
 

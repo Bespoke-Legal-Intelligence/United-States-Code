@@ -8,7 +8,7 @@
 
 (2) The provisions of paragraph (1) of this subsection shall not apply with respect to any period during which a person is participating in a work-release program or is residing in a halfway house.
 
-(b)(1) All or any part of the compensation not paid to a veteran by reason of subsection (a) of this section may, as appropriate in an individual case, be apportioned under the same terms andconditions as are provided under section 5307 of this title.
+(b)(1) All or any part of the compensation not paid to a veteran by reason of subsection (a) of this section may, as appropriate in an individual case, be apportioned under the same terms and conditions as are provided under section 5307 of this title.
 
 (2) All or any part of the dependency and indemnity compensation not paid to a surviving spouse or child by reason of subsection (a) of this section may, as appropriate in an individual case, be apportioned as follows:
 

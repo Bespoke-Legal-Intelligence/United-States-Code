@@ -26,7 +26,7 @@ For any fiscal year in which the amount appropriated to carry out this section i
 
 #### (A) Population basis
 
-&emsp;&emsp;Except as provided in subparagraph (B), from such remainder for each such fiscal year, the Commissioner shall make an allotment to the eligible system within a State of an amount bearing the same ratio to such remainder as the population of the State bears to the population of all States.
+&emsp;&emsp;Except as provided in subparagraph (B), from such remainder for each such fiscalyear, the Commissioner shall make an allotment to the eligible system within a State of an amount bearing the same ratio to such remainder as the population of the State bears to the population of all States.
 
 #### (B) Minimums
 
@@ -48,7 +48,7 @@ For any fiscal year in which the amount appropriated to carry out this section i
 
 #### (d) Proportional reduction
 
-To provide minimum allotments to systems within States (as increased under subsection (c)(5) of this section) under subsection (c)(3)(B) of this section, or to provide minimum allotments to systems within States (as increased under subsection (c)(5) of this section) under subsection (c)(4)(B) of this section, the Commissioner shall proportionately reduce the allotments of the remaining systems within States under subsection (c)(3) of this section, with such adjustments as may be necessary to prevent the allotment of any such remaining system within a State from being reduced to less than the minimum allotment for a system within a State (as increased under subsection (c)(5) of this section) under subsection (c)(3)(B) of this section, or the minimum allotment for a State (as increasedunder subsection (c)(5) of this section) under subsection (c)(4)(B) of this section, as appropriate.
+To provide minimum allotments to systems within States (as increased under subsection (c)(5) of this section) under subsection (c)(3)(B) of this section, or to provide minimum allotments to systems within States (as increased under subsection (c)(5) of this section) under subsection (c)(4)(B) of this section, the Commissioner shall proportionately reduce the allotments of the remaining systems within States under subsection (c)(3) of this section, with such adjustments as may be necessary to prevent the allotment of any such remaining system within a State from being reduced to less than the minimum allotment for a system within a State (as increased under subsection (c)(5) of this section) under subsection (c)(3)(B) of this section, or the minimum allotment for a State (as increased under subsection (c)(5) of this section) under subsection (c)(4)(B) of this section, as appropriate.
 
 #### (e) Reallotment
 
@@ -110,7 +110,7 @@ The Commissioner may delegate the administration of this program to the Commissi
 
 #### (<i>l</i>) Report
 
-The Commissioner shall annually prepare and submit to the Committee on Education andLabor of the House of Representatives and the Committee on Labor and Human Resources of the Senate a report describing the types of services and activities being undertaken by programs funded under this section, the total number of individuals served under this section, the types of disabilities represented by such individuals, and the types of issues being addressed on behalf of such individuals.
+The Commissioner shall annually prepare and submit to the Committee on Education and Labor of the House of Representatives and the Committee on Labor and Human Resources of the Senate a report describing the types of services and activities being undertaken by programs funded under this section, the total number of individuals served under this section, the types of disabilities represented by such individuals, and the types of issues being addressed on behalf of such individuals.
 
 #### (m) Authorization of appropriations
 
@@ -142,7 +142,7 @@ Subsec. (b). Pub. L. 103–73, §112(c)(2), added subsec. (b) and struck out hea
 
 “(1)
 
-Allotments.—For any fiscal year in which the amount appropriated to carry out this section is less than $5,500,000, the Commissioner may make grants from such amount to eligible systems within States to plan for, develop outreach strategies for, and carry out protection and advocacy programs authorized under this section for individuals with disabilities who meet the requirements of paragraphs (1) and (2) of subsection (a) of this section.
+Allotments.—For any fiscal year in which the amount appropriated to carry out this section is less than $5,500,000, the Commissioner may make grants from such amount to eligible systems within States to plan for, develop outreach strategies for, and carry out protection and advocacy programs authorized underthis section for individuals with disabilities who meet the requirements of paragraphs (1) and (2) of subsection (a) of this section.
 
 “(2)
 
@@ -172,7 +172,7 @@ Subsec. (n). Pub. L. 103–73, §112(c)(5), redesignated subsec. (i) as (n).
 
 #### Change of Name
 
-Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Economic and Educational Opportunities of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Fifth Congress, Jan. 7, 1997.
 
 #### Section Referred to in Other Sections
 

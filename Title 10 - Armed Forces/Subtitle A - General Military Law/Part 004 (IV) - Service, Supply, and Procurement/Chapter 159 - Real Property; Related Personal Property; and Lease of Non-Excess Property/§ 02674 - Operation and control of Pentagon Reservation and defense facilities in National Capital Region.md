@@ -1,0 +1,56 @@
+### §2674. Operation and control of Pentagon Reservation and defense facilities in National Capital Region
+
+(a)(1) Jurisdiction, custody, and control over, and responsibility for, the operation, maintenance, and management of the Pentagon Reservation is transferred to the Secretary of Defense.
+
+(2) Before March 1 of each year, the Secretary of Defense shall transmit to the congressional committees specified in paragraph (3) a report on the state of the renovation of the Pentagon Reservation and a plan for the renovation work to be conducted in the fiscal year beginning in the year in which the report is transmitted.
+
+(3) The committees referred to in paragraph (2) are—
+
+&emsp;(A) the Committee on Armed Services and the Committee on Environment and Public Works of the Senate; and
+
+&emsp;(B) the Committee on National Security and the Committee on Transportation and Infrastructure of the House of Representatives.
+
+(b) The Secretary may appoint military or civilian personnel or contract personnel to perform law enforcement and security functions for property occupied by, or under the jurisdiction, custody, and control of the Department of Defense, and located in the National Capital Region. Such individuals—
+
+&emsp;(1) may be armed with appropriate firearms required for personal safety and for the proper execution of their duties, whether on Department of Defense property or in travel status; and
+
+&emsp;(2) shall have the same powers (other than the service of civil process) as sheriffs and constables upon the property referred to in the first sentence to enforce the laws enacted for the protection of persons and property, to prevent breaches of the peace and suppress affrays or unlawful assemblies, and to enforce any rules or regulations with respect to such property prescribed by duly authorized officials.
+
+(c)(1) The Secretary may prescribe such rules and regulations as the Secretary considers appropriate to ensure the safe, efficient, and secure operation of the Pentagon Reservation, including rules and regulations necessary to govern the operation and parking of motor vehicles on the Pentagon Reservation.
+
+(2) Any person who violates a rule or regulation prescribed under this subsection is liable to the United States for a civil penalty of not more than $1,000.
+
+(3) Any person who willfully violates any rule or regulation prescribed pursuant to this subsection commits a Class B misdemeanor.
+
+(d) The Secretary of Defense may establish rates and collect charges for space, services, protection, maintenance, construction, repairs, alterations, or facilities provided at the Pentagon Reservation.
+
+(e)(1) There is established in the Treasury of the United States a revolving fund to be known as the Pentagon Reservation Maintenance Revolving Fund (hereafter in this section referred to as the “Fund”). There shall be deposited into the Fund funds collected by the Secretary for space and services and other items provided an organization or entity using any facility or land on the Pentagon Reservation pursuant to subsection (d).
+
+(2) Monies deposited into the Fund shall be available, without fiscal year limitation, for expenditure for real property management, operation, protection, construction, repair, alteration and related activities for the Pentagon Reservation.
+
+(f) In this section:
+
+&emsp;(1) The term “Pentagon Reservation” means that area of land (consisting of approximately 280 acres) and improvements thereon, located in Arlington, Virginia, on which the Pentagon Office Building, Federal Building Number 2, the Pentagon heating and sewage treatment plants, and other related facilities are located, including various areas designated for the parking of vehicles.
+
+&emsp;(2) The term “National Capital Region” means the geographic area located within the boundaries of (A) the District of Columbia, (B) Montgomery and Prince Georges Counties in the State of Maryland, (C) Arlington, Fairfax, Loudoun, and Prince William Counties and the City of Alexandria in the Commonwealth of Virginia, and (D) all cities and other units of government within the geographic areas of such District, Counties, and City.
+
+(Added Pub. L. 101–510, div. B, title XXVIII, §2804(a)(1), Nov. 5, 1990, 104 Stat. 1784; amended Pub. L. 102–190, div. A, title X, §1061(a)(18), div. B, title XXVIII, §2864, Dec. 5, 1991, 105 Stat. 1473, 1561; Pub. L. 104–106, div. A, title XV, §1502(a)(24), Feb. 10, 1996, 110 Stat. 505; Pub. L. 104–201, div. A, title III, §369(a), (b)(1), Sept. 23, 1996, 110 Stat. 2498.)
+
+#### Prior Provisions
+
+A prior section 2674, added Pub. L. 85–861, §1(51), Sept. 2, 1958, 72 Stat. 1459; amended Pub. L. 87–651, title I, §112(b), Sept. 7, 1962, 76 Stat. 511; Pub. L. 88–174, title VI, §608, Nov. 7, 1963, 77 Stat. 328; Pub. L. 89–188, title VI, §613, Sept. 16, 1965, 79 Stat. 819; Pub. L. 89–568, title VI, §608, Sept. 12, 1966, 80 Stat. 756; Pub. L. 91–511, title VI, §607(2)–(4), Oct. 26, 1970, 84 Stat. 1224; Pub. L. 92–145, title VII, §707(1), Oct. 27, 1971, 85 Stat. 411; Pub. L. 93–166, title VI, §608(1), Nov. 29, 1973, 87 Stat. 682; Pub. L. 94–107, title VI, §607(2)–(4), Oct. 7, 1975, 89 Stat. 566; Pub. L. 95–82, title VI, §608(a), Aug. 1, 1977, 91 Stat. 377; Pub. L. 95–356, title VI, §603(h)(1), Sept. 8, 1978, 92 Stat. 582; Pub. L. 96–125, title VIII, §801, Nov. 26, 1979, 93 Stat. 947; Pub. L. 97–99, title IX, §907, Dec. 23, 1981, 95 Stat. 1385, related to minor construction projects, prior to repeal by Pub. L. 97–214, §§7(1), 12(a), July 12, 1982, 96 Stat. 173, 176, effective Oct. 1, 1982, and applicable to military construction projects, and to construction and acquisition of military family housing authorized before, on, or after such date. See section 2805 of this title.
+
+#### Amendments
+
+1996—Pub. L. 104–201, §369(b)(1), substituted “of Pentagon Reservation and defense facilities in National Capital Region” for “of the Pentagon Reservation” in section catchline.
+
+Subsec. (a)(2). Pub. L. 104–106, §1502(a)(24)(A), substituted “congressional committees specified in paragraph (3)” for “Committees on Armed Services of the Senate and the House of Representatives, the Committee on Environment and Public Works of the Senate, and the Committee on Public Works and Transportation of the House of Representatives”.
+
+Subsec. (a)(3). Pub. L. 104–106, §1502(a)(24)(B), added par. (3).
+
+Subsec. (b). Pub. L. 104–201, §369(a), substituted “in the National Capital Region” for “at the Pentagon Reservation”.
+
+1991—Subsec. (b)(2). Pub. L. 102–190, §2864, amended par. (2) generally. Prior to amendment, par. (2) read as follows: “shall have the same powers as sheriffs and constables to enforce the laws, rules, or regulations enacted for the protection of persons and property.”
+
+Subsec. (c)(3). Pub. L. 102–190, §1061(a)(18), substituted “misdemeanor” for “misdeameanor”.
+

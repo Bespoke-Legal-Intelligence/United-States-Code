@@ -6,7 +6,7 @@ In the case of any individual who dies while in active service as a member of th
 
 &emsp;(1) any tax imposed by this subtitle shall not apply with respect to the taxable year in which falls the date of his death, or with respect to any prior taxable year ending on or after the first day he so served in a combat zone after June 24, 1950; and
 
-&emsp;(2) any tax under this subtitle and under the corresponding provisions of prior revenue laws for taxable years preceding those specified in paragraph (1) which is unpaid at the date of his death (including interest, additions to the tax, and additional amounts) shall not be assessed, and if assessed the assessment shall be abated, and if collected shall be credited or refunded as an overpayment.
+&emsp;(2) any tax under this subtitle and under the corresponding provisions of prior revenue laws for taxable years preceding those specified in paragraph (1) which is unpaid at the date of his death (including interest, additions to thetax, and additional amounts) shall not be assessed, and if assessed the assessment shall be abated, and if collected shall be credited or refunded as an overpayment.
 
 #### (b) Individuals in missing status
 
@@ -86,7 +86,7 @@ In general.—The amendment made by subsection (a) \[amending this section\] sha
 
 “(2)
 
-Statute of limitations waived.—Notwithstanding section 6511 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], the time for filing a claim for credit or refund of any overpayment of tax resulting from the amendment made by subsection (a) shall not expire before the date 1 year after the date of the enactment of this Act.”
+Statute of limitations waived.—Notwithstanding section 6511 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], the time for filing a claim for credit or refund of any overpayment of tax resulting from the amendment made by subsection (a) shall notexpire before the date 1 year after the date of the enactment of this Act.”
 
 #### Effective Date of 1976 Amendment
 
@@ -102,7 +102,7 @@ Section 4(c) of Pub. L. 93–597, as amended by Pub. L. 99–514, §2, Oct. 22, 
 
 #### Treatment of Director General of Multinational Force in Sinai
 
-Section 722(g)(4) of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:“For purposes of section 692(c) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], the Director General of the Multinational Force and Observers in the Sinai who died on February 15, 1984, shall be treated as if he were a civilian employee of the United States while he served as such Director General.”
+Section 722(g)(4) of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “For purposes of section 692(c) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], the Director General of the Multinational Force and Observers in the Sinai who died on February 15, 1984, shall be treated as if he were a civilian employee of the United States while he served as such Director General.”
 
 #### Section Referred to in Other Sections
 

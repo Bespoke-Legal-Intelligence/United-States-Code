@@ -32,5 +32,5 @@ Section 471m, act Mar. 4, 1927, ch. 513, §14, 44 Stat. 1454, which made provisi
 
 Section 471n, act Mar. 4, 1927, ch. 513, §15, 44 Stat. 1455, which authorized the Secretary of the Interior to promulgate rules and regulations necessary to the administration of sections 471 to 471<i>o</i> of this title, appoint employees, make expenditures, and investigate, experiment, and improve the reindeer industry and cooperate in the development of plant and animal life, was transferred to section 316n of Title 43.
 
-Section 471<i>o,</i> act Mar. 4, 1927, ch. 513, §16, 44 Stat. 1455, which continued in force and effect laws applicable to lands or resources in the same manner as they had applied prior to enactment of sections 471 to 471<i>o</i> of this title with regard to ingress and egress upon lands for any authorized purpose including prospecting for and mining extraction of minerals, was transferred to section 316<i>o</i> of Title 43.
+Section 471<i>o</i>, act Mar. 4, 1927, ch. 513, §16, 44 Stat. 1455, which continued in force and effect laws applicable to lands or resources in the same manner as they had applied prior to enactment of sections 471 to 471<i>o</i> of this title with regard to ingress and egress upon lands for any authorized purpose including prospecting for and mining extraction of minerals, was transferred to section 316<i>o</i> of Title 43.
 

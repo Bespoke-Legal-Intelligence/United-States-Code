@@ -90,7 +90,3 @@ Marine Corps Reserve Policy Board, see section 10304 of this title.
 
 Naval Reserve Policy Board, see section 10303 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 101 of this title.
-

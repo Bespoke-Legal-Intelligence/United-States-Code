@@ -1,6 +1,0 @@
-### §410ii–2. Chaco Culture Archeological Protection Sites; additions and deletions
-
-The Secretary of the Interior shall continue to search for additional evidences of Chacoan sites and submit to Congress within two years of December 19, 1980 and thereafter as needed, his recommendations for additions to, or deletions from, the list of archeological protection sites in section 410ii–1(b) of this title. Additions to or deletions from such list shall be made only by an Act of Congress.
-
-(Pub. L. 96–550, title V, §503, Dec. 19, 1980, 94 Stat. 3228.)
-

@@ -12,5 +12,5 @@ Interest required to be paid under sections 258a to 258e–1 of this title shall
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 258a of this title; title 10 section 7422; title 16 section 831c; title 25 section 500a; title 33 section 598; title 39 section 410; title 42 sections 1502, 1594a, 2222; title 50 section 167f.
+This section is referred to in section 258a of this title; title 10 section 7422; title 16 section 831c; title 25 section500a; title 33 section 598; title 39 section 410; title 42 sections 1502, 1594a, 2222; title 50 section 167f.
 

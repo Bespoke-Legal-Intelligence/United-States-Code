@@ -2,7 +2,7 @@
 
 #### (a) Engage in work, promulgate rules and regulations, etc., to implement and administer this subchapter
 
-The Secretary or the State pursuant to an approved State program, shall have the power and authority, if not granted it otherwise, to engage in any work and to do all things necessary or expedient, including promulgation of rules and regulations, to implement and administer the provisions of this subchapter.
+The Secretary or the State pursuant to an approved State program, shall have the power andauthority, if not granted it otherwise, to engage in any work and to do all things necessary or expedient, including promulgation of rules and regulations, to implement and administer the provisions of this subchapter.
 
 #### (b) Engage in cooperative projects
 
@@ -14,7 +14,7 @@ The Secretary or the State pursuant to an approved State program, may request th
 
 #### (d) Construct and operate plants for control and treatment of water pollution resulting from mine drainage
 
-The Secretary or the State pursuant to an approved State program, shall have the power and authority to construct and operate a plant or plants for the control and treatment of water pollution resulting from mine drainage. The extent of this control and treatment may be dependent upon the ultimate use of the water: <i>Provided</i>, That the above provisions of this paragraph shall not be deemed in any way to repeal or supersede any portion of the Federal Water Pollution Control Act (33 U.S.C.A. 1151, et seq.as amended) \[33 U.S.C. 1251 et seq.\] and no control or treatment under this subsection shall in any way be less than that required under the Federal Water Pollution Control Act. The construction of a plant or plants may include major interceptors and other facilities appurtenant to the plant.
+The Secretary or the State pursuant to an approved State program, shall have the power and authority to construct and operate a plant or plants for the control and treatment of water pollution resulting from mine drainage. The extent of this control and treatment may be dependent upon the ultimate use of the water: <i>Provided</i>, That the above provisions of this paragraph shall not be deemed in any way to repeal or supersede any portion of the Federal Water Pollution Control Act (33 U.S.C.A. 1151, et seq. as amended) \[33 U.S.C. 1251 et seq.\] and no control or treatment under this subsection shall in any way be less than that required under the Federal Water Pollution Control Act. The construction of a plant or plants may include major interceptors and other facilities appurtenant to the plant.
 
 #### (e) Transfer funds
 

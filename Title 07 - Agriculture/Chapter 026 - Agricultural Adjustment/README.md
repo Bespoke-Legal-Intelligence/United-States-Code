@@ -131,7 +131,7 @@ Agricultural Adjustment Act of 1938, see section 1281 et seq. of this title.
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 499b–1, 671, 672, 673, 1446 of this title; title 12 section 1150a; title 18 section 433; title 41 section 22.
+This chapter is referred to in sections 499b–1, 671, 672, 673, 1446, 7271 of this title; title 12 section 1150a; title 18 section 433; title 41 section 22.
 
 
 ---

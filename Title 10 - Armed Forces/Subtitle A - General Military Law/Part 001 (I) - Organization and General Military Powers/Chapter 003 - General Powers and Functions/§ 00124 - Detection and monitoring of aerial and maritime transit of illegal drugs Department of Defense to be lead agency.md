@@ -56,7 +56,7 @@ Evaluation of Systems.—The Secretary of Defense shall identify and evaluate ex
 
 “(c)
 
-Systems Plan.—Based on the results of the evaluation under subsection (b), the Secretary of Defense shall prepare a plan for the development, acquisition, and use of improved counter-drug detection and monitoring systems by the Armed Forces. In developing the plan, the Secretary shall also make every effort to determine which counter-drug detection and monitoringsystems should be eliminated from the counter-drug program based on the results of such evaluation. The plan shall include an estimate by the Secretary of the full cost to implement the plan, including the cost to develop, procure, operate, and maintain equipment used in counter-drug detection and monitoring activities performed under the plan and training and personnel costs associated with such activities.
+Systems Plan.—Based on the results of the evaluation under subsection (b), the Secretary of Defense shall prepare a plan for the development, acquisition, and use of improved counter-drug detection and monitoring systems by the Armed Forces. In developing the plan, the Secretary shall also make every effort to determine which counter-drug detection and monitoring systems should be eliminated from the counter-drug program based on the results of such evaluation. The plan shall include an estimate by the Secretary of the full cost to implement the plan, including the cost to develop, procure, operate, and maintain equipment used in counter-drug detection and monitoring activities performed under the plan and training and personnel costs associated with such activities.
 
 “(d)
 

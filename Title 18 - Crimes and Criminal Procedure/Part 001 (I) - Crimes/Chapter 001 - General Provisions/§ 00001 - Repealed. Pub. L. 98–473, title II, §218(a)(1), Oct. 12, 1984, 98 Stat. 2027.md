@@ -4,7 +4,13 @@ Section, acts June 25, 1948, ch. 645, 62 Stat. 684; Oct. 30, 1984, Pub. L. 98–
 
 #### Effective Date of Repeal
 
-Repeal of section effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect ofsuch repeal, see section 235(a)(1) of Pub. L. 98–473, set out as an Effective Date note under section 3551 of this title.
+Repeal of section effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of such repeal, see section 235(a)(1) of Pub. L. 98–473, set out as an Effective Date note under section 3551 of this title.
+
+#### Short Title of 1996 Amendments
+
+Pub. L. 104–294, §1, Oct. 11, 1996, 110 Stat. 3488, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Economic Espionage Act of 1996’.”
+
+Pub. L. 104–132, §1, Apr. 24, 1996, 110 Stat. 1214, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Antiterrorism and Effective Death Penalty Act of 1996’.”
 
 #### Short Title of 1994 Amendment
 
@@ -29,4 +35,8 @@ Pub. L. 99–646, §1, Nov. 10, 1986, 100 Stat. 3592, provided that: “This Act
 #### Short Title of 1984 Amendment
 
 Section 200 of title II (§§200–2304) of Pub. L. 98–473 provided that: “This title \[see Tables for classification\] may be cited as the ‘Comprehensive Crime Control Act of 1984’.”
+
+#### Severability
+
+Pub. L. 104–132, title IX, §904, Apr. 24, 1996, 110 Stat. 1319, provided that: “If any provision of this Act \[see Short Title of 1996 Amendments note above\], an amendment made by this Act, or the application of such provision or amendment to any person or circumstance is held to be unconstitutional, the remainder of this Act, the amendments made by this Act, and the application of the provisions of such to any person or circumstance shall not be affected thereby.”
 

@@ -38,7 +38,7 @@ For the purpose of this section—
 
 #### (d) Exemption of specified transfers or dispositions
 
-With respect to a real property loan secured by a lien on residential real property containingless than five dwelling units, including a lien on the stock allocated to a dwelling unit in a cooperative housing corporation, or on a residential manufactured home, a lender may not exercise its option pursuant to a due-on-sale clause upon—
+With respect to a real property loan secured by a lien on residential real property containing less than five dwelling units, including a lien on the stock allocated to a dwelling unit in a cooperative housing corporation, or on a residential manufactured home, a lender may not exercise its option pursuant to a due-on-sale clause upon—
 
 &emsp;(1) the creation of a lien or other encumbrance subordinate to the lender's security instrument which does not relate to a transfer of rights of occupancy in the property;
 

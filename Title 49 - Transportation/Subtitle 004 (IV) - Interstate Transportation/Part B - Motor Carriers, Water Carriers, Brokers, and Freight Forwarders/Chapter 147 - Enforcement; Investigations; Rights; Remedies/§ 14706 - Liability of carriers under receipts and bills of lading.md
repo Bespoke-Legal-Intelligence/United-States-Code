@@ -6,7 +6,7 @@ General Liability.—
 
 &emsp;(1)
 
-Motor carriers and freight forwarders.—A carrier providing transportation or service subject to jurisdiction under subchapter I or III of chapter 135 shall issue a receipt or bill of lading for property it receives for transportation under this part. That carrier and any other carrier that delivers the property and is providing transportation or service subject to jurisdiction under subchapter I or III of chapter 135 or chapter 105 are liable to the person entitled to recover under the receipt or bill of lading. The liability imposed under this paragraph is for the actual loss or injury to the property caused by (A) the receiving carrier, (B) the delivering carrier, or (C) another carrier over whose line or route the property is transported in the United States or from a place in the United States to a place in an adjacent foreign country when transported under a through bill of lading and, except in the case of a freight forwarder, applies to property reconsigned or diverted under a tariff under section 13702. Failure to issue a receipt or bill of lading does not affect the liability of a carrier. A deliveringcarrier is deemed to be the carrier performing the line-haul transportation nearest the destination but does not include a carrier providing only a switching service at the destination.
+Motor carriers and freight forwarders.—A carrier providing transportation or service subject to jurisdiction under subchapter I or III of chapter 135 shall issue a receipt or bill of lading for property it receives for transportation under this part. That carrier and any other carrier that delivers the property and is providing transportation or service subject to jurisdiction under subchapter I or III of chapter 135 or chapter 105 are liable to the person entitled to recover under the receipt or bill of lading. The liability imposed under this paragraph is for the actual loss or injury to the property caused by (A) the receiving carrier, (B) the delivering carrier, or (C) another carrier over whose line or route the property is transported in the United States or from a place in the United States to a place in an adjacent foreign country when transported under a through bill of lading and, except in the case of a freight forwarder, applies to property reconsigned or diverted under a tariff under section 13702. Failure to issue a receipt or bill of lading does not affect the liability of a carrier. A delivering carrier is deemed to be the carrier performing the line-haul transportation nearest the destination but does not include a carrier providing only a switching service at the destination.
 
 &emsp;(2)
 
@@ -70,7 +70,7 @@ Minimum Period for Filing Claims.—
 
 &emsp;(1)
 
-In general.—A carrier may not provide by rule, contract, or otherwise, a period of less than 9 months for filing a claim against it under this section and a period of less than 2 years for bringing a civil action against it under this section. The period for bringing a civil action is computed from the date the carrier gives a person written notice that the carrier has disallowed any part of the claim specified in the notice.
+In general.—A carrier may not provide by rule, contract, or otherwise, a period of less than 9 months for filing a claim against it under this section and a period of less than 2years for bringing a civil action against it under this section. The period for bringing a civil action is computed from the date the carrier gives a person written notice that the carrier has disallowed any part of the claim specified in the notice.
 
 &emsp;(2)
 
@@ -90,7 +90,7 @@ Modifications and Reforms.—
 
 &emsp;(1)
 
-Study.—The Secretary shall conduct a study to determine whether any modificationsor reforms should be made to the loss and damage provisions of this section, including those related to limitation of liability by carriers.
+Study.—The Secretary shall conduct a study to determine whether any modifications or reforms should be made to the loss and damage provisions of this section, including those related to limitation of liability by carriers.
 
 &emsp;(2)
 
@@ -106,17 +106,17 @@ Factors to consider.—In conducting the study, the Secretary, at a minimum, sha
 
 &emsp;(3)
 
-Report.—Not later than 12 months after the effective date of this section, the Secretary shall submit to Congress a report on the results of the study, together with any recommendations of the Secretary (including legislative recommendations) for implementing modifications or reforms identified by the Secretary as being appropriate.
+Report.—Not later than 12 months after January 1, 1996, the Secretary shall submit to Congress a report on the results of the study, together with any recommendations of the Secretary (including legislative recommendations) for implementing modifications or reforms identified by the Secretary as being appropriate.
 
-(Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 907.)
-
-#### References in Text
-
-For the effective date of this section, referred to in subsec. (g)(3), as Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 701 of this title.
+(Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 907; amended Pub. L. 104–287, §5(38), Oct. 11, 1996, 110 Stat. 3392.)
 
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in sections 10730 and 11707 of this title prior to the general amendment of this subtitle by Pub. L. 104–88, §102(a).
+
+#### Amendments
+
+1996—Subsec. (g)(3). Pub. L. 104–287 substituted “January 1, 1996” for “the effective date of this section”.
 
 #### Section Referred to in Other Sections
 

@@ -10,7 +10,7 @@ In the performance of, and with respect to, the functions, powers, and duties un
 
 #### (b) Use of funds
 
-Funds made available to the Secretary pursuant to the provisions of this subchapter shall bedeposited in a checking account or accounts with the Treasurer of the United States. Receipts and assets obtained or held by the Secretary in connection with the performance of functions under this subchapter, and all funds available for carrying out the functions of the Secretary under this subchapter (including appropriations therefor, which are hereby authorized), shall be available, in such amounts as may from year to year be authorized by the Congress, for the administrative expenses of the Secretary in connection with the performance of such functions.
+Funds made available to the Secretary pursuant to the provisions of this subchapter shall be deposited in a checking account or accounts with the Treasurer of the United States. Receipts and assets obtained or held by the Secretary in connection with the performance of functions under this subchapter, and all funds available for carrying out the functions of the Secretary under this subchapter (including appropriations therefor, which are hereby authorized), shall be available, in such amounts as may from year to year be authorized by the Congress, for the administrative expenses of the Secretary in connection with the performance of such functions.
 
 #### (c) Legal powers
 

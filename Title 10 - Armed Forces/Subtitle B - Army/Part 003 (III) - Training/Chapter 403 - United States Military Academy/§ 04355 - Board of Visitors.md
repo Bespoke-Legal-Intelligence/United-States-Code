@@ -6,7 +6,7 @@
 
 &emsp;(2) three other members of the Senate designated by the Vice President or the President pro tempore of the Senate, two of whom are members of the Committee on Appropriations of the Senate;
 
-&emsp;(3) the chairman of the Committee on Armed Services of the House of Representatives, or his designee;
+&emsp;(3) the chairman of the Committee on National Security of the House of Representatives, or his designee;
 
 &emsp;(4) four other members of the House of Representatives designated by the Speaker of the House of Representatives, two of whom are members of the Committee on Appropriations of the House of Representatives; and
 
@@ -24,9 +24,9 @@
 
 (g) Upon approval by the Secretary, the Board may call in advisers for consultation.
 
-(h) While performing his duties, each member of the Board and each adviser is entitled to not more than $5 a day and shall be reimbursed under Government travel regulations for his travel expenses.
+(h) While performing his duties, each member of the Board and each adviser shall be reimbursed under Government travel regulations for his travel expenses.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 245; Dec. 23, 1980, Pub. L. 96–579, §13(a), 94 Stat. 3369.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 245; Dec. 23, 1980, Pub. L. 96–579, §13(a), 94 Stat. 3369; Feb. 10, 1996, Pub. L. 104–106, div. A, title X, §1061(e)(2), title XV, §1502(a)(12), 110 Stat. 443, 503.)
 
 Historical and Revision Notes
 
@@ -37,6 +37,8 @@ Historical and Revision Notes
 <i>Source (Statutes at Large)</i>
 
 4355(a)
+
+&nbsp;
 
 4355(b)
 
@@ -84,13 +86,13 @@ In subsection (h), the words “called for consultation by the Board in connecti
 
 #### Amendments
 
+1996—Subsec. (a)(3). Pub. L. 104–106, §1502(a)(12), substituted “National Security” for “Armed Services”.
+
+Subsec. (h). Pub. L. 104–106, §1061(e)(2), struck out “is entitled to not more than $5 a day and” after “each adviser”.
+
 1980—Subsec. (b). Pub. L. 96–579 required member whose term of office had expired to continue service until appointment of a successor.
-
-#### Change of Name
-
-Committee on Armed Services of House of Representatives treated as referring to Committee on National Security of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Similar Provisions
 
-Similar provisions relating to the United States Naval Academy are classified to section 6968 of thistitle, and those relating to the Air Force Academy are classified to section 9355 of this title.
+Similar provisions relating to the United States Naval Academy are classified to section 6968 of this title, and those relating to the Air Force Academy are classified to section 9355 of this title.
 

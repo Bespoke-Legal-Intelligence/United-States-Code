@@ -10,5 +10,5 @@ Disposition of moneys received from royalties and rentals of public lands, see s
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1335, 1337, 1339 of this title; title 16 section 470h.
+This section is referred to in sections 1335, 1337 of this title; title 16 section 470h.
 

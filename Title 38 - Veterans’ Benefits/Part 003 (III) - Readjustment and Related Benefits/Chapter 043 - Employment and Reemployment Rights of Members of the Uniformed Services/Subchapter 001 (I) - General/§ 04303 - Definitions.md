@@ -22,7 +22,7 @@ For the purposes of this chapter—
 
 &emsp;(B) In the case of a National Guard technician employed under section 709 of title 32, the term “employer” means the adjutant general of the State in which the technician is employed.
 
-&emsp;(C) Except as an actual employer of employees, an employee pension benefit plan described in section 3(2) of the Employee Retirement Income Security Act of 1974 (29 U.S.C.1002(2)) shall be deemed to be an employer only with respect to the obligation to provide benefits described in section 4318.
+&emsp;(C) Except as an actual employer of employees, an employee pension benefit plan described in section 3(2) of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1002(2)) shall be deemed to be an employer only with respect to the obligation to provide benefits described in section 4318.
 
 &emsp;(5) The term “Federal executive agency” includes the United States Postal Service, the Postal Rate Commission, any nonappropriated fund instrumentality of the United States, any Executive agency (as that term is defined in section 105 of title 5) other than an agency referred to in section 2302(a)(2)(C)(ii) of title 5, and any military department (as that term is defined in section 102 of title 5) with respect to the civilian employees of that department.
 
@@ -54,9 +54,9 @@ For the purposes of this chapter—
 
 &emsp;&emsp;(D) the type of operation or operations of the employer, including the composition, structure, and functions of the work force of such employer; the geographic separateness, administrative, or fiscal relationship of the facility or facilities in question to the employer.
 
-&emsp;(16) The term “uniformed services” means the Armed Forces, the Army National Guard and the Air National Guard when engaged in active duty for training, inactive duty training, or full-time National Guard duty, the commissioned corps of the Public Health Service, and any other category of persons designated by the President in time of war or emergency.
+&emsp;(16) The term “uniformed services” means the Armed Forces, the Army National Guard and the Air National Guard when engaged in active duty for training, inactive duty training, or full-time National Guard duty, the commissioned corps of the Public Health Service, and any other category of persons designated by the President in time of war or national emergency.
 
-(Added Pub. L. 103–353, §2(a), Oct. 13, 1994, 108 Stat. 3150.)
+(Added Pub. L. 103–353, §2(a), Oct. 13, 1994, 108 Stat. 3150; amended Pub. L. 104–275, title III, §311(2), Oct. 9, 1996, 110 Stat. 3334.)
 
 #### Prior Provisions
 
@@ -64,11 +64,19 @@ A prior section 4303, applicable to reemployments initiated before the end of th
 
 Another prior section 4303 was renumbered section 7603 of this title.
 
+#### Amendments
+
+1996—Par. (16). Pub. L. 104–275 inserted “national” before “emergency”.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–275 effective Oct. 13, 1994, see section 313 of Pub. L. 104–275, set out as a note under section 4301 of this title.
+
 #### Effective Date
 
 Section effective with respect to reemployments initiated on or after the first day after the 60-day period beginning Oct. 13, 1994, with transition rules, see section 8 of Pub. L. 103–353, set out as a note under section 4301 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 2 section 1316.
+This section is referred to in title 2 section 1316; title 3 section 416.
 

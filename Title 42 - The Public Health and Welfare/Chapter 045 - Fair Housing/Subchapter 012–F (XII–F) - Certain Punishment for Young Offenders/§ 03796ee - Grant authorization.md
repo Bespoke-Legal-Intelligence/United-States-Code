@@ -26,7 +26,7 @@ The alternative methods of punishment referred to in subsection (a) of this sect
 
 #### References in Text
 
-The Job Training Partnership Act, referred to in subsec. (b)(3), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322,as amended. Part B of title IV of the Act is classified generally to part B (§1691 et seq.) of subchapter IV of chapter 19 of Title 29, Labor. For complete classification of the Act to the Code, see Short Title note set out under section 1501 of Title 29 and Tables.
+The Job Training Partnership Act, referred to in subsec. (b)(3), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, as amended. Part B of title IV of the Act is classifiedgenerally to part B (§1691 et seq.) of subchapter IV of chapter 19 of Title 29, Labor. For complete classification of the Act to the Code, see Short Title note set out under section 1501 of Title 29 and Tables.
 
 #### Prior Provisions
 

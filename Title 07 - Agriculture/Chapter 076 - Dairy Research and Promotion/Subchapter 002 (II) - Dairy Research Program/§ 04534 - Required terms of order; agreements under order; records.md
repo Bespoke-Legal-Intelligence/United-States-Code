@@ -60,7 +60,7 @@ Any agreement made under subsection (a)(2)(G) of this section shall provide that
 
 &emsp;(2) such plan or project shall become effective on the approval of the Secretary; and
 
-&emsp;(3) such person shall keep accurate records of all of its transactions, account for funds received and expended, make periodic reports to the board of activities conducted to carry outsuch plan or project, and submit such other reports as the Secretary or the board may require.
+&emsp;(3) such person shall keep accurate records of all of its transactions, account for funds received and expended, make periodic reports to the board of activities conducted to carry out such plan or project, and submit such other reports as the Secretary or the board may require.
 
 #### (c) Confidentiality of records; disclosure exceptions; penalty for violation
 

@@ -65,69 +65,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Part B—National Education Standards and Improvement Council
-
-|  |  |
-| :--- | ---: |
-| [5841\.](Subchapter%20002%20%28II%29%20-%20National%20Education%20Reform%20Leadership%2C%20Standards%2C%20and%20Assessments/Part%20B%20-%20National%20Education%20Standards%20and%20Improvement%20Council/%C2%A7%2005841%20-%20Purpose.md) | Purpose. |
-| [5842\.](Subchapter%20002%20%28II%29%20-%20National%20Education%20Reform%20Leadership%2C%20Standards%2C%20and%20Assessments/Part%20B%20-%20National%20Education%20Standards%20and%20Improvement%20Council/%C2%A7%2005842%20-%20National%20Education%20Standards%20and%20Improvement%20Council.md) | National Education Standards and Improvement Council. |
-| (a) | Establishment. |
-| (b) | Composition. |
-| (c) | Appointment rules and qualifications. |
-| (d) | Terms. |
-| (e) | Date of appointment. |
-| (f) | Initiation. |
-| (g) | Retention. |
-| (h) | Vacancy. |
-| (i) | Compensation. |
-| (j) | Conflict of interest. |
-| (k) | Travel. |
-| (<i>l)</i> | Officers. |
-| [5843\.](Subchapter%20002%20%28II%29%20-%20National%20Education%20Reform%20Leadership%2C%20Standards%2C%20and%20Assessments/Part%20B%20-%20National%20Education%20Standards%20and%20Improvement%20Council/%C2%A7%2005843%20-%20Duties.md) | Duties. |
-| (a) | Voluntary national content standards; voluntary national student performance standards. |
-| (b) | State content standards; State student performance standards. |
-| (c) | Voluntary national opportunity-to-learn standards. |
-| (d) | State opportunity-to-learn standards. |
-| (e) | General provision regarding voluntary national standards. |
-| (f) | State assessments. |
-| (g) | Performance of duties. |
-| (h) | Special rules. |
-| [5844\.](Subchapter%20002%20%28II%29%20-%20National%20Education%20Reform%20Leadership%2C%20Standards%2C%20and%20Assessments/Part%20B%20-%20National%20Education%20Standards%20and%20Improvement%20Council/%C2%A7%2005844%20-%20Annual%20reports.md) | Annual reports. |
-| [5845\.](Subchapter%20002%20%28II%29%20-%20National%20Education%20Reform%20Leadership%2C%20Standards%2C%20and%20Assessments/Part%20B%20-%20National%20Education%20Standards%20and%20Improvement%20Council/%C2%A7%2005845%20-%20Powers%20of%20Council.md) | Powers of Council. |
-| (a) | Hearings. |
-| (b) | Information. |
-| (c) | Postal services. |
-| (d) | Use of facilities. |
-| (e) | Administrative arrangements and support. |
-| (f) | Gifts. |
-| [5846\.](Subchapter%20002%20%28II%29%20-%20National%20Education%20Reform%20Leadership%2C%20Standards%2C%20and%20Assessments/Part%20B%20-%20National%20Education%20Standards%20and%20Improvement%20Council/%C2%A7%2005846%20-%20Publication%20for%20public%20comment.md) | Publication for public comment. |
-| (a) | Transmittal. |
-| (b) | Publication. |
-| [5847\.](Subchapter%20002%20%28II%29%20-%20National%20Education%20Reform%20Leadership%2C%20Standards%2C%20and%20Assessments/Part%20B%20-%20National%20Education%20Standards%20and%20Improvement%20Council/%C2%A7%2005847%20-%20Administrative%20provisions.md) | Administrative provisions. |
-| (a) | Meetings. |
-| (b) | Quorum. |
-| (c) | Voting. |
-| (d) | Public access. |
-| [5848\.](Subchapter%20002%20%28II%29%20-%20National%20Education%20Reform%20Leadership%2C%20Standards%2C%20and%20Assessments/Part%20B%20-%20National%20Education%20Standards%20and%20Improvement%20Council/%C2%A7%2005848%20-%20Director%20and%20staff%3B%20experts%20and%20consultants.md) | Director and staff; experts and consultants. |
-| (a) | Director. |
-| (b) | Appointment and pay of employees. |
-| (c) | Experts and consultants. |
-| (d) | Staff of Federal agencies. |
-| [5849\.](Subchapter%20002%20%28II%29%20-%20National%20Education%20Reform%20Leadership%2C%20Standards%2C%20and%20Assessments/Part%20B%20-%20National%20Education%20Standards%20and%20Improvement%20Council/%C2%A7%2005849%20-%20Opportunity-to-learn%20development%20grants.md) | Opportunity-to-learn development grants. |
-| (a) | Opportunity-to-learn development grants. |
-| (b) | Applications. |
-| (c) | Report. |
-| [5850\.](Subchapter%20002%20%28II%29%20-%20National%20Education%20Reform%20Leadership%2C%20Standards%2C%20and%20Assessments/Part%20B%20-%20National%20Education%20Standards%20and%20Improvement%20Council/%C2%A7%2005850%20-%20Assessment%20development%20and%20evaluation%20grants.md) | Assessment development and evaluation grants. |
-| (a) | Grants authorized. |
-| (b) | Applications. |
-| (c) | Requirements. |
-| [5851\.](Subchapter%20002%20%28II%29%20-%20National%20Education%20Reform%20Leadership%2C%20Standards%2C%20and%20Assessments/Part%20B%20-%20National%20Education%20Standards%20and%20Improvement%20Council/%C2%A7%2005851%20-%20Evaluation.md) | Evaluation. |
-| (a) | Grant. |
-| (b) | Report. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Part C—Leadership in Educational Technology
+#### Part B—Leadership in Educational Technology
 
 |  |
 | :--- |
@@ -135,15 +73,11 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Part D—Authorization of Appropriations
+#### Part C—Authorization of Appropriations
 
 |  |  |
 | :--- | ---: |
-| [5871\.](Subchapter%20002%20%28II%29%20-%20National%20Education%20Reform%20Leadership%2C%20Standards%2C%20and%20Assessments/Part%20D%20-%20Authorization%20of%20Appropriations/%C2%A7%2005871%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
-| (a) | National Education Goals Panel. |
-| (b) | National Education Standards and Improvement Council. |
-| (c) | Opportunity-to-learn development grants. |
-| (d) | Assessment development and evaluation grants. |
+| [5871\.](Subchapter%20002%20%28II%29%20-%20National%20Education%20Reform%20Leadership%2C%20Standards%2C%20and%20Assessments/Part%20C%20-%20Authorization%20of%20Appropriations/%C2%A7%2005871%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -161,6 +95,7 @@
 | (b) | State allotments. |
 | (c) | Reallotments. |
 | (d) | Maintenance of effort. |
+| (e) | Direct grants to local educational agencies. |
 | [5885\.](Subchapter%20003%20%28III%29%20-%20State%20and%20Local%20Education%20Systemic%20Improvement/%C2%A7%2005885%20-%20State%20applications.md) | State applications. |
 | (a) | Application. |
 | (b) | First year. |
@@ -169,7 +104,7 @@
 | (a) | Basic scope of plan. |
 | (b) | Plan development. |
 | (c) | Teaching, learning, standards, and assessments. |
-| (d) | Opportunity-to-learn standards and strategies. |
+| (d) | Repealed. |
 | (e) | Governance, accountability and management. |
 | (f) | Parental and community support and involvement. |
 | (g) | Making the improvements systemwide. |
@@ -177,10 +112,10 @@
 | (i) | Dropout strategies. |
 | (j) | Coordination with school-to-work programs. |
 | (k) | Benchmarks and timelines. |
-| (<i>l)</i> | Coordinating strategies. |
+| (<i>l</i>) | Coordinating strategies. |
 | (m) | Program improvement and accountability. |
 | (n) | Peer review and secretarial approval. |
-| (<i>o)</i> | Regular review. |
+| (<i>o</i>) | Regular review. |
 | (p) | Amendments to plan. |
 | (q) | Preexisting State plans and panels. |
 | [5887\.](Subchapter%20003%20%28III%29%20-%20State%20and%20Local%20Education%20Systemic%20Improvement/%C2%A7%2005887%20-%20Secretary%27s%20review%20of%20applications%3B%20payments.md) | Secretary's review of applications; payments. |
@@ -225,7 +160,7 @@
 | (d) | Secretary of Defense. |
 | (e) | Grants. |
 | (f) | Study. |
-| [5896\.](Subchapter%20003%20%28III%29%20-%20State%20and%20Local%20Education%20Systemic%20Improvement/%C2%A7%2005896%20-%20Clarification%20regarding%20State%20standards%20and%20assessments.md) | Clarification regarding State standards and assessments. |
+| [5896\.](Subchapter%20003%20%28III%29%20-%20State%20and%20Local%20Education%20Systemic%20Improvement/%C2%A7%2005896%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93134%2C%20title%20I%2C%20%C2%A7101%28d%29%20%5Btitle%20VII%2C%20%C2%A7703%28a%29%2815%29%28A%29%5D%2C%20Apr.%2026%2C%201996%2C%20110%20Stat.%201321%E2%80%93211%2C%201321%E2%80%93254%3B%20renumbered%E2%80%A6.md) | Repealed. |
 | [5897\.](Subchapter%20003%20%28III%29%20-%20State%20and%20Local%20Education%20Systemic%20Improvement/%C2%A7%2005897%20-%20State%20planning%20for%20improving%20student%20achievement%20through%20integration%20of%20technology%20into%20curriculum.md) | State planning for improving student achievement through integration of technology into curriculum. |
 | (a) | Purpose. |
 | (b) | Program authorized. |
@@ -237,6 +172,9 @@
 | [5899\.](Subchapter%20003%20%28III%29%20-%20State%20and%20Local%20Education%20Systemic%20Improvement/%C2%A7%2005899%20-%20State%20and%20local%20government%20control%20of%20education.md) | State and local government control of education. |
 | (a) | Findings. |
 | (b) | Reaffirmation. |
+| [5900\.](Subchapter%20003%20%28III%29%20-%20State%20and%20Local%20Education%20Systemic%20Improvement/%C2%A7%2005900%20-%20Limitations.md) | Limitations. |
+| (a) | Prohibited conditions. |
+| (b) | Limitation on government officials. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -282,8 +220,7 @@
 | (c) | Research, dissemination, and coordination. |
 | (d) | Endorsement of skill standards systems. |
 | (e) | Relationship with civil rights laws. |
-| (f) | Coordination. |
-| (g) | Financial assistance. |
+| (f) | Financial assistance. |
 | [5935\.](Subchapter%20005%20%28V%29%20-%20National%20Skill%20Standards%20Board/%C2%A7%2005935%20-%20Deadlines.md) | Deadlines. |
 | [5936\.](Subchapter%20005%20%28V%29%20-%20National%20Skill%20Standards%20Board/%C2%A7%2005936%20-%20Reports.md) | Reports. |
 | [5937\.](Subchapter%20005%20%28V%29%20-%20National%20Skill%20Standards%20Board/%C2%A7%2005937%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
@@ -379,7 +316,7 @@
 | (i) | Standards for conduct and evaluation of research. |
 | (j) | Additional responsibilities of Assistant Secretary. |
 | (k) | Independent evaluations. |
-| (<i>l)</i> | Definitions. |
+| (<i>l</i>) | Definitions. |
 | (m) | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -400,7 +337,7 @@
 | (i) | Nominations for Board membership. |
 | (j) | Ex officio members. |
 | (k) | Chair. |
-| (<i>l)</i> | Terms of office. |
+| (<i>l</i>) | Terms of office. |
 | (m) | Meetings of Board. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -504,7 +441,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 6102, 6103, 6112, 6123, 6124, 6143, 6144, 6311, 6312, 6317, 6367, 6396, 6434, 6645, 6648, 6671, 6843, 6845, 6900, 7112, 7115, 7206, 7301, 7351, 7426, 7431, 7545, 8101, 8852, 8857, 8904, 8941 of this title; title 25 section 2001.
+This chapter is referred to in sections 6102, 6103, 6112, 6123, 6124, 6143, 6144, 6311, 6312, 6367, 6396, 6434, 6645, 6648, 6671, 6843, 6845, 6900, 7112, 7115, 7206, 7301, 7351, 7426, 7431, 7545, 8101, 8852, 8857, 8904, 8941 of this title; title 25 section 2001.
 
 
 ---

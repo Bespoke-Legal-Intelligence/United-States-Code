@@ -8,7 +8,7 @@
 
 > To the extent authorized by a provision of statute other than this subchapter, the allowances and differentials provided by this subchapter may be paid to an employee officially stationed in a foreign area who is not a citizen of the United States.
 
-(b) Allowances granted under this subchapter may be paid in advance, or advance of funds may be made therefor, through the proper disbursing official in such sums as are considered advisable in consideration of the need and the period of time during which expenditures must be made in advance by the employee. An advance of funds not subsequently covered by allowances accrued to the employee under this subchapter is recoverable by the Government by—
+(b) Allowances granted under this subchapter may be paid in advance, or advance of funds may be made therefor, through the proper disbursing official in such sums as are considered advisablein consideration of the need and the period of time during which expenditures must be made in advance by the employee. An advance of funds not subsequently covered by allowances accrued to the employee under this subchapter is recoverable by the Government by—
 
 &emsp;(1) setoff against accrued pay, compensation, amount of retirement credit, or other amount due the employee from the Government; and
 
@@ -36,7 +36,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 (a)
 
@@ -64,7 +66,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-<b>1991</b>—Subsecs. (d), (e). Pub. L. 102–138 added subsecs. (d) and (e).
+1991—Subsecs. (d), (e). Pub. L. 102–138 added subsecs. (d) and (e).
 
 #### Delegation of Functions
 

@@ -18,7 +18,7 @@ The definitions in section 40102(a) of title 49 apply to this section.
 
 &emsp;(E) by regulation, apply to civil aircraft the laws and regulations on entry and clearance of vessels, to the extent and under conditions the Secretary considers necessary.
 
-(2) A person violating a customs regulation prescribed under paragraph (1)(A)–(D) of thissubsection or a public health or customs law or regulation made applicable to aircraft by a regulation under paragraph (1)(A)–(D) is liable to the Government for a civil penalty of $5,000 for each violation. An aircraft involved in the violation may be seized and forfeited under the customs laws. The Secretary of the Treasury may remit or mitigate a penalty and forfeiture under this paragraph.
+(2) A person violating a customs regulation prescribed under paragraph (1)(A)–(D) of this subsection or a public health or customs law or regulation made applicable to aircraft by a regulation under paragraph (1)(A)–(D) is liable to the Government for a civil penalty of $5,000 for each violation. An aircraft involved in the violation may be seized and forfeited under the customs laws. The Secretary of the Treasury may remit or mitigate a penalty and forfeiture under this paragraph.
 
 (3) A person violating a regulation made applicable under paragraph (1)(E) of this subsection or an immigration regulation prescribed under paragraph (1)(E) is liable to the Government for a civil penalty of $5,000 for each violation. The Secretary of the Treasury or the Attorney General may remit or mitigate a penalty under this paragraph.
 
@@ -38,7 +38,7 @@ A decision to remit or mitigate a civil penalty under this section is final. Whe
 
 #### (e) Summary seizure of aircraft
 
-(1) An aircraft subject to a lien under this section may be seized summarily by and placed in the custody of a person authorized by regulations of the appropriate Secretary or the Attorney General. A report of the case shall be sent to the Attorney General. The Attorney General shall bring promptly a civil action in rem to enforce the lien or notify the appropriate Secretary that the action will not be brought.
+(1) An aircraft subject to a lien under this section may be seized summarily by and placed in the custody of a person authorized by regulations of the appropriate Secretary or the Attorney General. A report of the case shall be sentto the Attorney General. The Attorney General shall bring promptly a civil action in rem to enforce the lien or notify the appropriate Secretary that the action will not be brought.
 
 (2) An aircraft seized under this section shall be released from custody when—
 

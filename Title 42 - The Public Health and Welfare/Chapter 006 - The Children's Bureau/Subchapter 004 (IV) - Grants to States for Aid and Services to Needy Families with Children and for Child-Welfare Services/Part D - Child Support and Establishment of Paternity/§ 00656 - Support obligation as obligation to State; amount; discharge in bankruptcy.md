@@ -1,20 +1,30 @@
 ### §656. Support obligation as obligation to State; amount; discharge in bankruptcy
 
-(a)(1) The support rights assigned to the State under section 602(a)(26) of this title or secured on behalf of a child receiving foster care maintenance payments shall constitute an obligation owed to such State by the individual responsible for providing such support. Such obligation shall be deemed for collection purposes to be collectible under all applicable State and local processes.
+#### (a) Collection processes
+
+(1) The support rights assigned to the State or secured on behalf of a child receiving foster care maintenance payments shall constitute an obligation owed to such State by the individual responsible for providing such support. Such obligation shall be deemed for collection purposes to be collectible under all applicable State and local processes.
 
 (2) The amount of such obligation shall be—
 
 &emsp;(A) the amount specified in a court order which covers the assigned support rights, or
 
-&emsp;(B) if there is no court order, an amount determined by the State in accordance with a formula approved by the Secretary, and
+&emsp;(B) if there is no court order, an amount determined by the State in accordance with a formula approved by the Secretary, and <sup>1</sup>
 
-(3) Any amounts collected from an absent parent under the plan shall reduce, dollar for dollar, the amount of his obligation under subparagraphs (A) and (B) of paragraph (2).
+(3) Any amounts collected from a noncustodial parent under the plan shall reduce, dollar for dollar, the amount of his obligation under subparagraphs (A) and (B) of paragraph (2).
 
-(b) A debt which is a child support obligation assigned to a State under section 602(a)(26) of this title is not released by a discharge in bankruptcy under title 11.
+#### (b) Nondischargeability
 
-(Aug. 14, 1935, ch. 531, title IV, §456, as added Jan. 4, 1975, Pub. L. 93–647, §101(a), 88 Stat. 2356; amended Nov. 6, 1978, Pub. L. 95–598, title III, §328, 92 Stat. 2679; Aug. 13, 1981, Pub. L. 97–35, title XXIII, §2334(a), 95 Stat. 863; July 18, 1984, Pub. L. 98–369, div. B, title VI, §2663(c)(15), 98 Stat. 1167; Aug. 16, 1984, Pub. L. 98–378, §11(b)(2), 98 Stat. 1318.)
+A debt (as defined in section 101 of title 11) owed under State law to a State (as defined in such section) or municipality (as defined in such section) that is in the nature of support and that is enforceable under this part is not released by a discharge in bankruptcy under title 11.
+
+(Aug. 14, 1935, ch. 531, title IV, §456, as added Jan. 4, 1975, Pub. L. 93–647, §101(a), 88 Stat. 2356; amended Nov. 6, 1978, Pub. L. 95–598, title III, §328, 92 Stat. 2679; Aug. 13, 1981, Pub. L. 97–35, title XXIII, §2334(a), 95 Stat. 863; July 18, 1984, Pub. L. 98–369, div. B, title VI, §2663(c)(15), 98 Stat. 1167; Aug. 16, 1984, Pub. L. 98–378, §11(b)(2), 98 Stat. 1318; Aug. 22, 1996, Pub. L. 104–193, title I, §108(c)(13), title III, §§374(b), 395(d)(2)(C), 110 Stat. 2166, 2255, 2260.)
 
 #### Amendments
+
+1996—Subsec. (a)(1). Pub. L. 104–193, §108(c)(13), struck out “under section 602(a)(26) of this title” before “or secured on behalf of a child”.
+
+Subsec. (a)(3). Pub. L. 104–193, §395(d)(2)(C), substituted “a noncustodial parent” for “an absent parent”.
+
+Subsec. (b). Pub. L. 104–193, §374(b), inserted heading and amended text generally. Prior to amendment, text read as follows: “A debt which is a child support obligation assigned to a State under section 602(a)(26) of this title is not released by a discharge in bankruptcy under title 11.”
 
 1984—Subsec. (a)(1). Pub. L. 98–378, §11(b)(2), inserted “or secured on behalf of a child receiving foster care maintenance payments” after “section 602(a)(26) of this title”.
 
@@ -26,7 +36,15 @@ Subsec. (a)(3). Pub. L. 98–369, §2663(c)(15)(C), (D), redesignated former par
 
 1981—Subsec. (b). Pub. L. 97–35 added subsec. (b).
 
-1978—Subsec. (b). Pub. L. 95–598 repealed provision declaring a debt which is a child support obligation assigned to a State under section 602(a)(26) of this title as not released by a discharge in bankruptcy under the Bankruptcy Act.
+1978—Subsec. (b). Pub. L. 95–598 repealed provision declaring a debt which is a child support obligation assigned to a State under section 602(a)(26) of this title asnot released by a discharge in bankruptcy under the Bankruptcy Act.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by section 108(c)(13) of Pub. L. 104–193 effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as an Effective Date note under section 601 of this title.
+
+Amendment by section 374(b) of Pub. L. 104–193 applicable only with respect to cases commenced under Title 11, Bankruptcy, after Aug. 22, 1996, see section 374(c) of Pub. L. 104–193, set out as a note under section 523 of Title 11.
+
+For provisions relating to effective date of title III of Pub. L. 104–193, see section 395(a)–(c) of Pub. L. 104–193, set out as a note under section 654 of this title.
 
 #### Effective Date of 1984 Amendments
 
@@ -45,4 +63,6 @@ Amendment by Pub. L. 95–598 effective Nov. 6, 1978, see section 402(d) of Pub.
 #### Section Referred to in Other Sections
 
 This section is referred to in section 654 of this title.
+
+<i><sup>1</sup></i><i> So in original. The “, and” probably should be a period.</i>
 

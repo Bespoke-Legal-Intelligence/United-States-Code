@@ -12,7 +12,9 @@ Financial Responsibility.—To protect passengers and shippers using an aircraft
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -26,11 +28,11 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §401(q); added Oct. 24, 1978, Pu
 
 &nbsp;
 
-49 App.:1551(b) (1)(E).
+49 App.:1551(b)(1)(E).
 
 Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1601(b)(1)(E); added Oct. 4, 1984, Pub. L. 98–443, §3(e), 98 Stat. 1704.
 
-In subsection (a), the words “citizen of the United States” and “citizen” are substituted for “applicant for such certificate or the air carrier” for clarity and consistency because only a citizen of the United States may be an “air carrier” as defined in section 40102(a) of the revised title and receive a certificate. The words “as the case may be” are omitted as surplus. The words “to provide air transportation as an air carrier under section 41102 of this title” are added for clarity. The words “approved by the Secretary” are substituted for “governing the filing and approval . . . in the amount prescribed by the Board” to eliminate unnecessary words. The words “The policy or plan must be sufficient to pay” are substituted for “which are conditioned to pay . . . amounts” for clarity. The words “forwhich such applicant or such air carrier may become liable for” are omitted as surplus.
+In subsection (a), the words “citizen of the United States” and “citizen” are substituted for “applicant for such certificate or the air carrier” for clarity and consistency because only a citizen of the United States may be an “air carrier” as defined in section 40102(a) of the revised title and receive a certificate. The words “as the case may be” are omitted as surplus. The words “to provide air transportation as an air carrier under section 41102 of this title” are added for clarity. The words “approved by the Secretary” are substituted for “governing the filing and approval . . . in the amount prescribed by the Board” to eliminate unnecessary words. The words “The policy or plan must be sufficient to pay” are substituted for “which are conditioned to pay . . . amounts” for clarity. The words “for which such applicant or such air carrier may become liable for” are omitted as surplus.
 
 In subsection (b), the word “passengers” is substituted for “travelers” for consistency in this chapter. The words “issued . . . under section 41102 of this title” are added for clarity. The word “arrangement” is omitted as surplus. The word “provide” is substituted for “perform” for consistency in the revised title.
 

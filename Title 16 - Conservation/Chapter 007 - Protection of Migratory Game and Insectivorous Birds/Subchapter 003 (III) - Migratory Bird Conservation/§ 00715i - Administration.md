@@ -6,7 +6,7 @@ Areas of lands, waters, or interests therein acquired or reserved pursuant to th
 
 #### (b) Management and public and private agency agreements authorization
 
-In administering such areas, the Secretary is authorized to manage timber, range, and agricultural crops; to manage other species of animals, including but not limited to fenced range animals, with the objectives of perpetuating,distributing, and utilizing the resources; and to enter into agreements with public and private agencies.
+In administering such areas, the Secretary is authorized to manage timber, range, and agricultural crops; to manage other species of animals, including but not limited to fenced range animals, with the objectives of perpetuating, distributing, and utilizing the resources; and to enter into agreements with public and private agencies.
 
 (Feb. 18, 1929, ch. 257, §10, 45 Stat. 1224; 1939 Reorg. Plan No. II, §4(f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433; Oct. 15, 1966, Pub. L. 89–669, §7(b), 80 Stat. 929; Dec. 28, 1973, Pub. L. 93–205, §13(b), 87 Stat. 902; Nov. 8, 1978, Pub. L. 95–616, §5(b), 92 Stat. 3114.)
 

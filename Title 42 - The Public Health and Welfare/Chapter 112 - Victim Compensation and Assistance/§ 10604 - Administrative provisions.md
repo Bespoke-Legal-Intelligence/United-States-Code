@@ -6,7 +6,7 @@ The Director may establish such rules, regulations, guidelines, and procedures a
 
 #### (b) Recordkeeping
 
-Each recipient of sums under this chapter shall keep such records as the Director shall prescribe, including records that fully disclose the amount and disposition by such recipient of such sums, the total cost of the undertaking for which such sums are used, and that portion of the cost of the undertaking supplied by othersources, and such other records as will facilitate an effective audit.
+Each recipient of sums under this chapter shall keep such records as the Director shall prescribe, including records that fully disclose the amount and disposition by such recipient of such sums, the total cost of the undertaking for which such sums are used, and that portion of the cost of the undertaking supplied by other sources, and such other records as will facilitate an effective audit.
 
 #### (c) Access of Director to books and records for purpose of audit and examination
 
@@ -22,7 +22,7 @@ No person shall on the ground of race, color, religion, national origin, handica
 
 #### (f) Failure to comply with provisions; notice and hearing; power of Director
 
-If, after reasonable notice and opportunity for a hearing on the record, the Director finds that a State has failed to comply substantially with any provision of this chapter or a rule, regulation, guideline, or procedure issued under this chapter, or an application submitted in accordance with this chapter or the provisions of any other applicable law, the Director shall—
+If, after reasonable notice and opportunity for a hearing on the record, the Director finds thata State has failed to comply substantially with any provision of this chapter or a rule, regulation, guideline, or procedure issued under this chapter, or an application submitted in accordance with this chapter or the provisions of any other applicable law, the Director shall—
 
 &emsp;(1) terminate payments to such State;
 
@@ -38,7 +38,7 @@ The Director shall, on December 31, 1990, and on June 30 every two years thereaf
 
 Each entity receiving sums made available under this chapter for administrative purposes shall certify that such sums will not be used to supplant State or local funds, but will be used to increase the amount of such funds that would, in the absence of Federal funds, be made available for these purposes.
 
-(Pub. L. 98–473, title II, §1407, Oct. 12, 1984, 98 Stat. 2176; Pub. L. 99–646, §48, Nov. 10, 1986, 100 Stat. 3605; Pub. L. 100–690, title VII, §7123(b)(10)–(14), Nov. 18, 1988, 102 Stat. 4421, 4422; Pub. L. 103–322, title XXIII, §§230206, 230207, Sept. 13, 1994, 108 Stat. 2080.)
+(Pub. L. 98–473, title II, §1407, Oct. 12, 1984, 98 Stat. 2176; Pub. L. 99–646, §48, Nov. 10, 1986, 100 Stat. 3605; Pub. L. 100–690, title VII, §7123(b)(10)–(14), Nov. 18, 1988, 102 Stat. 4421, 4422; Pub. L. 103–322, title XXIII, §§230206, 230207, Sept. 13, 1994, 108 Stat. 2080; Pub. L. 104–294, title VI, §604(b)(9), Oct. 11, 1996, 110 Stat. 3507.)
 
 #### References in Text
 
@@ -46,7 +46,9 @@ This chapter, referred to in subsec. (h), was in the original “this Act”, an
 
 #### Amendments
 
-1994—Subsec. (g). Pub. L. 103–322, §230207, which directed the substitution of “and on June 30 every two years thereafter” for “and on December 31 every two years thereafter”, was executed by making the substitution for “and on December 31 every 2 years thereafter”, to reflect the probable intent of Congress.
+1996—Subsec. (g). Pub. L. 104–294 amended directory language of Pub. L. 103–322, §230207. See 1994 Amendment note below.
+
+1994—Subsec. (g). Pub. L. 103–322, §230207, as amended by Pub. L. 104–294, substituted “and on June 30 every two years thereafter” for “and on December 31 every 2 years thereafter”.
 
 Subsec. (h). Pub. L. 103–322, §230206, added subsec. (h).
 
@@ -62,7 +64,15 @@ Subsec. (g). Pub. L. 100–690, §7123(b)(14), substituted “Director” for �
 
 1986—Subsecs. (g), (h). Pub. L. 99–646 redesignated subsec. (h) as (g) and substituted “1402”, which was translated as “section 10601 of this title” for “1302”, which had been editorially translated as “section 10601 of this title”, thereby requiring no change in text.
 
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–294 effective Sept. 13, 1994, see section 604(d) of Pub. L. 104–294, set out as a note under section 13 of Title 18, Crimes and Criminal Procedure.
+
 #### Effective Date of 1988 Amendment
 
 Amendment by Pub. L. 100–690 not applicable with respect to a State compensation program that was an eligible State crime victim compensation program on Nov. 18, 1988, until Oct. 1, 1991, see section 7129 of Pub. L. 100–690, as amended, set out as a note under section 10601 of this title.
+
+#### Reports on Amounts Received and Distributed From Fines for Violations of Trade Secrets Provisions
+
+Section 101(c) of Pub. L. 104–294 provided that: “Not later than 2 years and 4 years after the date of the enactment of this Act \[Oct. 11, 1996\], the Attorney General shall report to Congress on the amounts received and distributed from fines for offenses under this chapter \[probably means chapter 90 of title 18, added by section 101(a) of Pub. L. 104–294\] deposited in the Crime Victims Fund established by section 1402 of the Victims of Crime Act of 1984 (42 U.S.C. 10601).”
 

@@ -28,6 +28,8 @@
 
 &emsp;(13) Primary and preventive health care services for women (as defined in section 1074d(b) of this title).
 
+&emsp;(14) Preventive health care screening for colon or prostate cancer, at the intervals and using the screening methods prescribed under section 1074d(a)(2) of this title.
+
 (b) The following types of health care may not be provided under section 1076 of this title:
 
 &emsp;(1) Domiciliary or custodial care.
@@ -46,7 +48,7 @@
 
 (2) In this section, the term “hospice care” means the items and services described in section 1861(dd) of the Social Security Act (42 U.S.C. 1395x(dd)).
 
-(Added Pub. L. 85–861, §1(25)(B), Sept. 2, 1958, 72 Stat. 1447; amended Pub. L. 89–614, §2(4), Sept. 30, 1966, 80 Stat. 863; Pub. L. 98–525, title VI, §633(a), title XIV, §§1401(e)(3), 1405(22), Oct. 19, 1984, 98 Stat. 2544, 2617, 2623; Pub. L. 99–145, title VI, §651(b), Nov. 8, 1985, 99 Stat. 656; Pub. L. 102–190, div. A, title VII, §§702(a), 703, Dec. 5, 1991, 105 Stat. 1400, 1401; Pub. L. 103–160, div. A, title VII, §701(b), Nov. 30, 1993, 107 Stat. 1686; Pub. L. 103–337, div. A, title VII, §§703(b), 705, Oct. 5, 1994, 108 Stat. 2798, 2799.)
+(Added Pub. L. 85–861, §1(25)(B), Sept. 2, 1958, 72 Stat. 1447; amended Pub. L. 89–614, §2(4), Sept. 30, 1966, 80 Stat. 863; Pub. L. 98–525, title VI, §633(a), title XIV, §§1401(e)(3), 1405(22), Oct. 19,1984, 98 Stat. 2544, 2617, 2623; Pub. L. 99–145, title VI, §651(b), Nov. 8, 1985, 99 Stat. 656; Pub. L. 102–190, div. A, title VII, §§702(a), 703, Dec. 5, 1991, 105 Stat. 1400, 1401; Pub. L. 103–160, div. A, title VII, §701(b), Nov. 30, 1993, 107 Stat. 1686; Pub. L. 103–337, div. A, title VII, §§703(b), 705, Oct. 5, 1994, 108 Stat. 2798, 2799; Pub. L. 104–201, div. A, title VII, §701(b)(1), Sept. 23, 1996, 110 Stat. 2587.)
 
 Historical and Revision Notes
 
@@ -95,6 +97,8 @@ Pub. L. 96–154, title VII, §769, Dec. 21, 1979, 93 Stat. 1163.
 A prior section 1077, act Aug. 10, 1956, ch. 1041, 70A Stat. 84, related to distribution of ballots, envelopes, and voting instructions, prior to repeal by Pub. L. 85–861, §36B(5), Sept. 2, 1958, 72 Stat. 1570, as superseded by the Federal Voting Assistance Act of 1955 which is classified to subchapter I–D (§1973cc et seq.) of chapter 20 of Title 42, The Public Health and Welfare.
 
 #### Amendments
+
+1996—Subsec. (a)(14). Pub. L. 104–201 added cl. (14).
 
 1994—Subsec. (b)(2)(B). Pub. L. 103–337, §705, inserted “, voice prostheses,” after “artificial limbs”.
 

@@ -34,6 +34,18 @@ Section 1 of Pub. L. 89–509 provided: “That this Act \[amending this section
 
 Section 6 of act Aug. 12, 1946, as amended by section 10 of Pub. L. 89–509, provided that: “There is hereby authorized to be appropriated the sum of $50,000 for the purposes of this Act \[this subchapter\] and there are hereby authorized to be appropriated annually hereafter such sums as may be necessary to maintain and administer said national air and space museum including salaries and all other necessary expenses.”
 
+#### Construction of Museum Center
+
+Pub. L. 104–222, Oct. 1, 1996, 110 Stat. 3025, provided that:
+
+#### “SECTION 1. CONSTRUCTION OF MUSEUM CENTER.
+
+“The Board of Regents of the Smithsonian Institution is authorized to construct the Smithsonian Institution National Air and Space Museum Dulles Center at Washington Dulles International Airport.
+
+#### “SEC. 2. LIMITATION ON USE OF FUNDS.
+
+“No appropriated funds may be used to pay any expense of the construction authorized by section 1.”
+
 #### Extension at Washington Dulles International Airport
 
 Pub. L. 103–57, Aug. 2, 1993, 107 Stat. 279, provided that:

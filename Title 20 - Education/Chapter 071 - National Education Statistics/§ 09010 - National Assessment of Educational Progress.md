@@ -48,7 +48,7 @@ The Commissioner shall, with the advice of the National Assessment Governing Boa
 
 &emsp;(A) The Commissioner shall ensure that all personally identifiable information about students, their educational performance, and their families, and that information with respect to individual schools, remains confidential, in accordance with section 552a of title 5.
 
-&emsp;(B) Notwithstanding any other provision of law, the Commissioner may decline to make available to the public for a period, not to exceed ten years after initial use, cognitive questions that the Commissioner intends to reuse in the future.
+&emsp;(B) Notwithstanding any other provision of law, the Commissioner may decline to makeavailable to the public for a period, not to exceed ten years after initial use, cognitive questions that the Commissioner intends to reuse in the future.
 
 #### (d) Participation
 
@@ -104,7 +104,7 @@ The Commissioner shall, with the advice of the National Assessment Governing Boa
 
 #### (1) In general
 
-&emsp;(A) The Secretary shall provide for continuing review of the National Assessment, Stateassessments, and student performance levels, by one or more nationally recognized evaluation organizations, such as the National Academy of Education and the National Academy of Sciences.
+&emsp;(A) The Secretary shall provide for continuing review of the National Assessment, State assessments, and student performance levels, by one or more nationally recognized evaluation organizations, such as the National Academy of Education and the National Academy of Sciences.
 
 &emsp;(B) Such continuing review shall address—
 

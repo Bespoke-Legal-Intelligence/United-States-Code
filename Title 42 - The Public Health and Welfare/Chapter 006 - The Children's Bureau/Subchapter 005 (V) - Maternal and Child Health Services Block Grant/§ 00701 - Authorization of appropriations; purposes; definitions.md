@@ -20,7 +20,7 @@
 
 &emsp;&emsp;(B) projects designed to increase the participation of obstetricians and pediatricians under the program under this subchapter and under state <sup>1</sup> plans approved under subchapter XIX of this chapter,
 
-&emsp;&emsp;(C) integrated maternal and child health service delivery systems (of the type described in section 1320b–6 of this title and using, once developed, the model application form developed under section 6506(a) of the Omnibus Budget Reconciliation Act of 1989),
+&emsp;&emsp;(C) integrated maternal and child health service delivery systems (of the type described in section 1320b–6 <sup>2</sup> of this title and using, once developed, the model application form developed under section 6506(a) of the Omnibus Budget Reconciliation Act of 1989),
 
 &emsp;&emsp;(D) maternal and child health centers which (i) provide prenatal, delivery, and postpartum care for pregnant women and preventive and primary care services for infants up to age one, and (ii) operate under the direction of a not-for-profit hospital,
 
@@ -57,6 +57,8 @@
 #### References in Text
 
 The Public Health Service Act, referred to in subsec. (a), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended, which is classified generally to chapter 6A (§201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.
+
+Section 1320b–6 of this title, referred to in subsec. (a)(3)(C), was repealed by Pub. L. 104–193, title I, §108(g)(7), Aug. 22, 1996, 110 Stat. 2168.
 
 Section 6506(a) of the Omnibus Budget Reconciliation Act of 1989, referred to in subsec. (a)(3)(C), is section 6506(a) of Pub. L. 101–239 which is set out below.
 
@@ -170,35 +172,11 @@ Section 2194 of Pub. L. 97–35 provided that:
 
 &emsp;“(C) The term ‘consolidated State programs’ means the consolidated health programs, other than the consolidated Federal programs.
 
-“(d) The provisions of chapter 2 of subtitle C of title XVII of this Act \[sections 1741–1745 of Pub. L. 97–35, which were repealed and reenacted as section 7301–7305 of Title 31, Money and Finance, by Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 877\] shall not apply to this subtitle (or the programs under the amendments made by this title \[probably should be subtitle\]) and, specifically, section 1745 of this Act \[set out as a note under section 1243 of Title 31\] shall not apply to financial and compliance audits conducted under section 506(b) of the Social Security Act \[section 706(b) of this title\] (as amended by this subtitle).”
+“(d) The provisions of chapter 2 of subtitle C of title XVII of this Act \[sections 1741–1745 of Pub. L. 97–35, which were repealed and reenacted as section 7301–7305 of Title 31, Money and Finance, by Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 877\] shall not apply to this subtitle (or the programs under the amendments made by this title \[probably should be subtitle\]) and, specifically, section1745 of this Act \[set out as a note under section 1243 of Title 31\] shall not apply to financial and compliance audits conducted under section 506(b) of the Social Security Act \[section 706(b) of this title\] (as amended by this subtitle).”
 
 #### Development of Model Applications for Maternal and Child Assistance Programs
 
-Section 6506(a) of Pub. L. 101–239 provided that:
-
-“(1)
-
-In general.—The Secretary of Health and Human Services shall develop, by not later than one year after the date of the enactment of this Act \[Dec. 19, 1989\] and in consultation with the Secretary of Agriculture, a model application form for use in applying, simultaneously, for assistance for a pregnant woman or a child less than 6 years of age under maternal and child assistance programs (as defined in paragraph (3)). In developing such form, the Secretary is not authorized to change any requirement with respect to eligibility under any maternal and child assistance program.
-
-“(2)
-
-Dissemination of model form.—The Secretary shall provide for publication in the Federal Register of the model application form developed under paragraph (1) and shall send a copy of such form to each State agency responsible for administering a maternal and child assistance program.
-
-“(3)
-
-Maternal and child assistance program defined.—In this subsection, the term ‘maternal and child assistance program’ means any of the following programs:
-
-&emsp;“(A) The maternal and child health services block grant program under title V of the Social Security Act \[this subchapter\].
-
-&emsp;“(B) The medicaid program under title XIX of the Social Security Act \[subchapter XIX of this chapter\].
-
-&emsp;“(C) The migrant and community health centers programs under sections 329 and 330 of the Public Health Service Act \[sections 254b and 254c of this title\].
-
-&emsp;“(D) The grant program for the homeless under section 340 of the Public Health Service Act \[section 256 of this title\].
-
-&emsp;“(E) The ‘WIC’ program under section 17 of the Child Nutrition Act of 1966 \[section 1786 of this title\].
-
-&emsp;“(F) The head start program under the Head Start Act \[section 9831 et seq. of this title\].”
+Section 6506(a) of Pub. L. 101–239 directed Secretary of Health and Human Services to develop, not later than one year after Dec. 19, 1989, a model application form for use in applying for assistance for pregnant women and for children less than 6 years old under maternal and child assistance programs and required publication of model form in Federal Register and dissemination of form to State agencies.
 
 #### Research on Infant Mortality and Medicaid Services
 
@@ -232,15 +210,19 @@ Field testing and evaluation.—The Secretary shall complete publication of the 
 
 &emsp;“(3)
 
-Availability and distribution.—The Secretary shall make the handbook available to pregnant women and families with young children, and shall provide copies of the handbook to maternal and child health programs (including maternal and child health clinics supported through either title V or title XIX of the Social Security Act \[this subchapter and subchapter XIX of this chapter\], community and migrant health centers under sections 329 and 330 of the Public Health Service Act \[sections 254b and 254c of this title\], the grant program for the homeless under section 340 of the Public Health Service Act \[section 256 of this title\], the ‘WIC’ program under section 17 of the Child Nutrition Act of 1966 \[section 1786 of this title\], and the head start program under the Head Start Act \[section 9831 et seq. of this title\]) that serve high-risk women. The Secretary shall coordinate the distribution of the handbook with State maternal and child health departments, State and local public health clinics, private providers of obstetric and pediatric care, and community groups where applicable. The Secretary shall make efforts to involve private entities in the distribution of the handbook under this paragraph.
+Availability and distribution.—The Secretary shall make the handbook available to pregnant women and families with young children, and shall provide copies of the handbook to maternal and child health programs (including maternal and child health clinics supported through either title V or title XIX of the Social Security Act \[this subchapter and subchapter XIX of this chapter\], community and migrant health centers under sections 329 and 330 of the Public Health Service Act \[former sections 254b and 254c of this title\], the grant program for the homeless under section 340 of the Public Health Service Act \[former section 256 of this title\], the ‘WIC’ program under section 17 of the Child Nutrition Act of 1966 \[section 1786 of this title\], and the head start program under the Head Start Act \[section 9831 et seq. of this title\]) that serve high-risk women. The Secretary shall coordinate the distribution of the handbook with State maternal and child health departments, State and local public health clinics, private providers of obstetric and pediatric care, and community groups where applicable. The Secretary shall make efforts to involve private entities in the distribution of the handbook under this paragraph.
 
 “(b)
 
 Authorization of Appropriations.—There are authorized to be appropriated $1,000,000 for each of fiscal years 1991, 1992, and 1993, for carrying out the purposes of this section.”
+
+\[Reference to community health center, migrant health center, public housing health center, or homeless health center considered reference to health center, see section 4(c) of Pub. L. 104–299, set out as a note under section 254b of this title.\]
 
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 256b, 702, 705, 706, 709 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

@@ -60,9 +60,25 @@ Section 1415 of title XIV of Pub. L. 95–561 provided that:
 
 Section 1401 of title XIV of Pub. L. 95–561 provided that: “This title \[enacting this chapter, section 429 of Title 37, Pay and Allowances of the Uniformed Services, and section 1769b of Title 42, The Public Health and Welfare, amending sections 1773 and 1789 of Title 42, and enacting provisions set out as a note under this section\] may be cited as the ‘Defense Dependents’ Education Act of 1978’.”
 
+#### Pilot Program on Private Operation of Defense Dependents’ Schools
+
+Pub. L. 104–106, div. A, title III, §355, Feb. 10, 1996, 110 Stat. 269, provided that:
+
+“(a)
+
+Pilot Program.—The Secretary of Defense may conduct a pilot program to evaluate the feasibility of using private contractors to operate schools of the defense dependents’ education system established under section 1402(a) of the Defense Dependents’ Education Act of 1978 (20 U.S.C. 921(a)).
+
+“(b)
+
+Selection of School for Program.—If the Secretary conducts the pilot program, the Secretary shall select one school of the defense dependents’ education system for participation in the program and provide for the operation of the school by a private contractor for not less than one complete school year.
+
+“(c)
+
+Report.—Not later than 30 days after the end of the first school year in which the pilot program is conducted, the Secretary shall submit to Congress a report on the results of the program. The report shall include the recommendation of the Secretary with respect to the extent to which other schools of the defense dependents’ education system should be operated by private contractors.”
+
 #### Section Referred to in Other Sections
 
-This section is referred to in section 927 of this title.
+This section is referred to in section 927 of this title; title 10 section 2164.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “receive”.</i>
 

@@ -26,7 +26,7 @@ Section was formerly classified to section 1857f–6 of this title.
 
 A prior section 208 of act July 14, 1955, as added Nov. 21, 1967, Pub. L. 90–148, §2, 81 Stat. 501, was renumbered section 209 by Pub. L. 91–604 and is classified to section 7543 of this title.
 
-Another prior section 208 of act July 14, 1955, as added Oct. 20, 1965, Pub. L. 89–272, title I, §101(8), 79 Stat. 994,was renumbered section 212 by Pub. L. 90–148, renumbered section 213 by Pub. L. 91–604, renumbered 214 by Pub. L. 93–319, and renumbered section 216 by Pub. L. 95–95, and is classified to section 7550 of this title.
+Another prior section 208 of act July 14, 1955, as added Oct. 20, 1965, Pub. L. 89–272, title I, §101(8), 79 Stat. 994, was renumbered section 212 by Pub. L. 90–148, renumbered section 213 by Pub. L. 91–604, renumbered 214 by Pub. L. 93–319, and renumbered section 216 by Pub. L. 95–95, and is classified to section 7550 of this title.
 
 #### Amendments
 

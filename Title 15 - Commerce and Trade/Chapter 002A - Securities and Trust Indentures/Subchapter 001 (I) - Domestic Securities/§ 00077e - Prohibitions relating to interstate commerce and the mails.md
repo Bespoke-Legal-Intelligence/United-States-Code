@@ -12,7 +12,7 @@ Unless a registration statement is in effect as to a security, it shall be unlaw
 
 It shall be unlawful for any person, directly or indirectly—
 
-&emsp;(1) to make use of any means or instruments of transportation or communication in interstate commerce or of the mails to carry ortransmit any prospectus relating to any security with respect to which a registration statement has been filed under this subchapter, unless such prospectus meets the requirements of section 77j of this title; or
+&emsp;(1) to make use of any means or instruments of transportation or communication in interstate commerce or of the mails to carry or transmit any prospectus relating to any security with respect to which a registration statement has been filed under this subchapter, unless such prospectus meets the requirements of section 77j of this title; or
 
 &emsp;(2) to carry or cause to be carried through the mails or in interstate commerce any such security for the purpose of sale or for delivery after sale, unless accompanied or preceded by a prospectus that meets the requirements of subsection (a) of section 77j of this title.
 
@@ -35,6 +35,10 @@ Subsec. (c). Act Aug. 10, 1954, added subsec. (c).
 #### Effective Date of 1954 Amendment
 
 Amendment by act Aug. 10, 1954, effective 60 days after Aug. 10, 1954, see note under section 77b of this title.
+
+#### Increased Access to Foreign Business Information
+
+Pub. L. 104–290, title I, §109, Oct. 11, 1996, 110 Stat. 3426, provided that: “Not later than 1 year after the date of enactment of this Act \[Oct. 11, 1996\], the Commission shall adopt rules under the Securities Act of 1933 \[15 U.S.C. 77a et seq.\] concerning the status under the registration provisions of the Securities Act of 1933 of foreign press conferences and foreign press releases by persons engaged in the offer and sale of securities.”
 
 #### Cross References
 

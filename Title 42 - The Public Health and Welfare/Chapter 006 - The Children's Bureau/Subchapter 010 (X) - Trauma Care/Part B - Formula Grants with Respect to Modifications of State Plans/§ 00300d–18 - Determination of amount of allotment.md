@@ -46,7 +46,7 @@ Subject to the extent of amounts made available in appropriations Acts, the amou
 
 #### (1) In general
 
-&emsp;Amounts described in paragraph (2) shall, in accordance with paragraph (3), be allotted by the Secretary to States receiving paymentsunder section 300d–11(a) of this title for the fiscal year (other than any State referred to in paragraph (2)(C)).
+&emsp;Amounts described in paragraph (2) shall, in accordance with paragraph (3), be allotted bythe Secretary to States receiving payments under section 300d–11(a) of this title for the fiscal year (other than any State referred to in paragraph (2)(C)).
 
 #### (2) Type of amounts
 

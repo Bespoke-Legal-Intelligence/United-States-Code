@@ -14,7 +14,7 @@ For purposes of this subchapter, a community may be a city, county, or multicity
 
 (2) If there is no agency of the type referred to in paragraph (1) because of any change in the assistance furnished to programs for economically disadvantaged persons, the Secretary shall give priority in the designation of Head Start agencies to any successor agency that is operating a Head Start program in substantially the same manner as the predecessor agency that did receive funds in the fiscal year preceding the fiscal year for which the determination is made.
 
-(3) Notwithstanding any other provision of this subsection, the Secretary shall not give such priority to any agency with respect to which financial assistance has been terminated, or an application for refunding has been denied, under this subchapter by the Secretary after affording such agency reasonable notice and opportunity for a full and fair hearing in accordance with section 9841(a)(3) of this title.
+(3) Notwithstanding any other provision of this subsection, the Secretary shall not give such priority to any agency with respect towhich financial assistance has been terminated, or an application for refunding has been denied, under this subchapter by the Secretary after affording such agency reasonable notice and opportunity for a full and fair hearing in accordance with section 9841(a)(3) of this title.
 
 #### (d) Designation; Head Start agency; qualified applicants
 
@@ -82,7 +82,7 @@ Subsec. (c)(1). Pub. L. 103–252, §107(b)(2), (3), (5), inserted “(subject t
 
 Subsec. (c)(2). Pub. L. 103–252, §107(b)(1), (3), (4), (6), redesignated par. (1)(B) as (2) and realigned margins, substituted “If” for “except that, if” and “paragraph (1)” for “subparagraph (A)”, and struck out former par. (2) which read as follows:
 
-“(2)(A) The Secretary shall conduct a full review of each designated Head Start agency at least once during each 3-year period, and shall determine whether each agency meets program and fiscal requirements established by the Secretary.
+“(2)(A) The Secretary shall conduct a full review of each designated Head Start agency at least once duringeach 3-year period, and shall determine whether each agency meets program and fiscal requirements established by the Secretary.
 
 “(B) The Secretary shall conduct a review of each newly designated Head Start agency immediately after the completion of the first year such agency carries out a Head Start program.
 
@@ -124,7 +124,7 @@ Pub. L. 102–401, §2(h)(1), substituted “(c), (d), and (e)” for “(c) and
 
 Subsecs. (f), (g). Pub. L. 102–401, §2(h)(2), redesignated subsecs. (e) and (f) as (f) and (g), respectively.
 
-1990—Subsec. (c). Pub. L. 101–501, §107, designated existing provisions as par. (1), redesignated former par. (1)as subpar. (A), added subpar. (B) and pars. (2) to (4), and struck out former par. (2) and last sentence which read as follows:
+1990—Subsec. (c). Pub. L. 101–501, §107, designated existing provisions as par. (1), redesignated former par. (1) as subpar. (A), added subpar. (B) and pars. (2) to (4), and struck out former par. (2) and last sentence which read as follows:
 
 &emsp;“(2) except that if there is no such agency because of any change in the assistance furnished to programs for economically disadvantaged persons, then the Secretary shall give priority in the designation of Head Start agencies to any successor agency which is operated in substantially the same manner as the predecessor agency which did receive funds in the fiscal year preceding the fiscal year for which the determination is made.
 

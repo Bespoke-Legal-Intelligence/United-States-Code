@@ -23,7 +23,7 @@
 | (i) | Assessments. |
 | (j) | Books and records of Board. |
 | (k) | Investment of funds. |
-| (<i>l)</i> | Prohibition on use of funds. |
+| (<i>l</i>) | Prohibition on use of funds. |
 | (m) | Books and records. |
 | (n) | Other terms and conditions. |
 | [7105\.](%C2%A7%2007105%20-%20Referenda.md) | Referenda. |
@@ -56,6 +56,10 @@
 | (b) | Administrative expenses. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Chapter Referred to in Other Sections
+
+This chapter is referred to in section 7401 of this title.
 
 
 ---

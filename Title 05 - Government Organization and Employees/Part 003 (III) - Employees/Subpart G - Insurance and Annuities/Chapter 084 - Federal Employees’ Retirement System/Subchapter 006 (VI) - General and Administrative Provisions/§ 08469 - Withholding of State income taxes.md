@@ -1,6 +1,6 @@
 ### §8469. Withholding of State income taxes
 
-(a) The Office shall, in accordance with this section, enter into an agreement with any State within 120 days of a request for agreement from the proper State official. The agreement shall provide that the Office shall withhold State income tax in the case of the monthly annuity of any annuitant who voluntarily requests, in writing, such withholding. The amounts withheldduring any calendar quarter shall be held in the Fund and disbursed to the States during the month following that calendar quarter.
+(a) The Office shall, in accordance with this section, enter into an agreement with any State within 120 days of a request for agreement from the proper State official. The agreement shall provide that the Office shall withhold State income tax in the case of the monthly annuity of any annuitant who voluntarily requests, in writing, such withholding. The amounts withheld during any calendar quarter shall be held in the Fund and disbursed to the States during the month following that calendar quarter.
 
 (b) An annuitant may have in effect at any time only one request for withholding under this section, and an annuitant may not have more than two such requests in effect during any one calendar year.
 

@@ -24,11 +24,11 @@
 
 (3) Any unused entitlement of World War II or Korean conflict veterans which expired under provisions of law in effect before October 23, 1970, is hereby restored and shall not expire until used.
 
-(4) A veteran's entitlement under this chapter shall not be reduced by any entitlement used by the veteran's spouse which was based upon the provisions of paragraph (3) of section 3701(b) of this title.
+(4) A veteran's entitlement under this chapter shall not be reduced by any entitlement used bythe veteran's spouse which was based upon the provisions of paragraph (3) of section 3701(b) of this title.
 
 (b) In computing the aggregate amount of guaranty or insurance housing loan entitlement available to a veteran under this chapter, the Secretary may exclude the amount of guaranty or insurance housing loan entitlement used for any guaranteed, insured, or direct loan under the following circumstances:
 
-&emsp;(1)(A) The property which secured the loan has been disposed of by the veteran or hasbeen destroyed by fire or other natural hazard; and
+&emsp;(1)(A) The property which secured the loan has been disposed of by the veteran or has been destroyed by fire or other natural hazard; and
 
 &emsp;(B) the loan has been repaid in full, or the Secretary has been released from liability as to the loan, or if the Secretary has suffered a loss on such loan, the loss has been paid in full.
 
@@ -170,17 +170,11 @@ Section 10 of Pub. L. 93–569 provided that: “The provisions of this Act \[se
 
 #### Effective Date of 1967 Amendment
 
-Amendment by Pub. L. 90–77 effective first day of first calendar month which begins more than ten daysafter Aug. 31, 1967, see section 405 of Pub. L. 90–77, set out as a note under section 101 of this title.
+Amendment by Pub. L. 90–77 effective first day of first calendar month which begins more than ten days after Aug. 31, 1967, see section 405 of Pub. L. 90–77, set out as a note under section 101 of this title.
 
 #### Annual Reports on Veterans Receiving Guaranteed Mortgage Loans as Result of Amendments by Pub. L. 102–547
 
-Section 2(c) of Pub. L. 102–547 provided that: “The Secretary of Veterans Affairs shall transmit a report to the Committees on Veterans’ Affairs of the Senate and House of Representatives no later than December 31, 1994, and annually thereafter. The report shall contain—
-
-&emsp;“(1) a declaration of the number of veterans (as defined by section 3701(b)(5) of title 38, United States Code) who receive mortgage loans guaranteed by the Secretary as a result of the amendments made by subsection (a) \[amending this section and section 3701 of this title\];
-
-&emsp;“(2) a comparison of the default rate of veterans described in paragraph (1) with the default rate for all other veterans who have received loans guaranteed or insured by the Secretary; and
-
-&emsp;“(3) a comparison of the proportion of veterans who receive mortgage loans guaranteed by the Secretary as a result of the amendments made by subsection (a) who are first time homebuyers with the proportion of all other veterans who receive mortgage loans guaranteed or insured by the Secretary and who are first time homebuyers.”
+Section 2(c) of Pub. L. 102–547 directed Secretary of Veterans Affairs to transmit report on selected reserve veterans receiving guaranteed mortgage loans to Committees on Veterans’ Affairs of Senate and House of Representatives no later than Dec. 31, 1994, and annually thereafter, prior to repeal by Pub. L. 104–110, title II, §201(b), Feb. 13, 1996, 110 Stat. 770.
 
 #### References in Other Laws
 

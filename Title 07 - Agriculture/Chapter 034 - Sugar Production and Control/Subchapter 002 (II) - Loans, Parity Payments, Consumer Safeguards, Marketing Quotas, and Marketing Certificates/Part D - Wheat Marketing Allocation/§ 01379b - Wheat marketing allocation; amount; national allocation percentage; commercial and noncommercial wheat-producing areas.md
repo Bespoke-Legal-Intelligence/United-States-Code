@@ -42,7 +42,7 @@ Section 402(b)(C) of Pub. L. 91–524, as added by section 1(9) of Pub. L. 93–
 
 #### Effective and Termination Dates of 1970 Amendment
 
-Section 402(a), formerly section 402, of Pub. L. 91–524 provided that the amendment made by that section iseffective only with respect to 1971, 1972, and 1973 crops of wheat.
+Section 402(a), formerly section 402, of Pub. L. 91–524 provided that the amendment made by that section is effective only with respect to 1971, 1972, and 1973 crops of wheat.
 
 #### Effective and Termination Dates of 1965 Amendment
 
@@ -56,23 +56,17 @@ Section 202(10) of Pub. L. 88–297 provided that the amendment made by that sec
 
 Section 202(11) of Pub. L. 88–297 provided that the amendment made by that section is effective with respect to crops planted for harvest in calendar year 1966 and any subsequent year.
 
-#### Inapplicability to 1991 Through 1995 Crops of Wheat
+#### Inapplicability of Section
+
+Section inapplicable to 1996 through 2002 crops of loan commodities, peanuts, and sugar and inapplicable to milk during period beginning Apr. 4, 1996, and ending Dec. 31, 2002, see section 7301(a)(1)(H) of this title.
 
 Section inapplicable to 1991 through 1995 crops of wheat, see section 303 of Pub. L. 101–624, set out as a note under section 1331 of this title.
 
-#### Inapplicability to 1986 Through 1990 Crops of Wheat
-
 Section inapplicable to 1986 through 1990 crops of wheat, see section 310(b) of Pub. L. 99–198, set out as a note under section 1331 of this title.
-
-#### Inapplicability to 1982 Through 1985 Crops of Wheat
 
 Section inapplicable to 1982 through 1985 crops of wheat, see section 303 of Pub. L. 97–98, set out as a note under section 1331 of this title.
 
-#### Inapplicability to 1978 Through 1981 Crops of Wheat
-
 Section inapplicable to 1978 through 1981 crops of wheat, see section 404 of Pub. L. 95–113, set out as a note under section 1331 of this title.
-
-#### Inapplicability to 1974 Through 1977 Wheat Crops of Subsecs. (a), (b), (f), and (h)
 
 Section 402(b)(A) of Pub. L. 91–524, as added by section 1(9) of Pub. L. 93–86, provided that: “Section 379b of the Agricultural Adjustment Act of 1938 (which provides for a wheat marketing certificate program) \[this section\] shall not be applicable to the 1974 through 1977 crops of wheat, except as provided in paragraphs (B) and (C) of this subsection \[amending this section and section 1379c of this title\].”
 

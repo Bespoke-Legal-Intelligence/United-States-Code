@@ -1,6 +1,6 @@
 ### §4118. Regulations
 
-(a) The Office of Personnel Management, after considering the needs and requirements of each agency for training its employees and after consulting with the agencies principally concerned, shall prescribe regulations containing the principles, standards, and related requirements for the programs, and plans thereunder, for the training of employees under this chapter, including requirements for coordination of andreasonable uniformity in the agency training programs and plans. The regulations shall provide for the maintenance of necessary information concerning the general conduct of the training activities of each agency, and such other information as is necessary to enable the President and Congress to discharge effectively their respective duties and responsibilities for supervision, control, and review of these training programs. The regulations also shall cover—
+(a) The Office of Personnel Management, after considering the needs and requirements of each agency for training its employees and after consulting with the agencies principally concerned, shall prescribe regulations containing the principles, standards, and related requirements for the programs, and plans thereunder, for the training of employees under this chapter, including requirements for coordination of and reasonable uniformity in the agency training programs and plans. The regulations shall provide for the maintenance of necessary information concerning the general conduct of the training activities of each agency, and such other information as is necessary to enable the President and Congress to discharge effectively their respective duties and responsibilities for supervision, control, and review of these training programs. The regulations also shall cover—
 
 &emsp;(1) requirements concerning the determination and continuing review by each agency of its training needs and requirements;
 
@@ -32,7 +32,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 5 U.S.C. 2305.
 
@@ -50,7 +52,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-<b>1994</b>—Subsec. (a)(7). Pub. L. 103–226, §2(a)(9)(A), struck out before semicolon at end “by, in, and through non-Government facilities”.
+1994—Subsec. (a)(7). Pub. L. 103–226, §2(a)(9)(A), struck out before semicolon at end “by, in, and through non-Government facilities”.
 
 Subsecs. (b) to (d). Pub. L. 103–226, §2(a)(9)(B), (C), redesignated subsecs. (c) and (d) as (b) and (c), respectively, and struck out former subsec. (b) which read as follows: “In addition to the matters set forth by subsection (a) of this section, the regulations, concerning training of employees by, in, or through non-Government facilities, shall—
 
@@ -60,7 +62,7 @@ Subsecs. (b) to (d). Pub. L. 103–226, §2(a)(9)(B), (C), redesignated subsecs.
 
 &emsp;“(3) prohibit training an employee for the purpose of filling a position by promotion if there is in the agency concerned another employee, of equal ability and suitability, fully qualified to fill the position and available at, or within a reasonable distance from, the place where the duties of the position are to be performed.”
 
-<b>1978</b>—Subsecs. (a), (c), (d). Pub. L. 95–454 substituted “Office of Personnel Management” and “Office” for “Civil Service Commission” and “Commission”, respectively, wherever appearing.
+1978—Subsecs. (a), (c), (d). Pub. L. 95–454 substituted “Office of Personnel Management” and “Office” for “Civil Service Commission” and “Commission”, respectively, wherever appearing.
 
 #### Effective Date of 1978 Amendment
 

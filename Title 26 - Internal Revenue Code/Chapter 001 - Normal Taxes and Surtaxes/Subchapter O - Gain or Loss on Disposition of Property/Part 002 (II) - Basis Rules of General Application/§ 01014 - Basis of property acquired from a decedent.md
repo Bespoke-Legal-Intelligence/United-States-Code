@@ -56,7 +56,7 @@ If stock owned by a decedent in a DISC or former DISC (as defined in section 992
 
 &emsp;&emsp;(A) appreciated property was acquired by the decedent by gift during the 1-year period ending on the date of the decedent's death, and
 
-&emsp;&emsp;(B) such property is acquired from the decedent by (or passes from the decedent to) the donor of such property (or the spouse of such donor),
+&emsp;&emsp;(B) such property is acquired from the decedent by (or passes from the decedent to)the donor of such property (or the spouse of such donor),
 
 > &emsp;the basis of such property in the hands of such donor (or spouse) shall be the adjusted basis of such property in the hands of the decedent immediately before the death of the decedent.
 
@@ -132,7 +132,7 @@ Amendment by section 2005(a)(1) of Pub. L. 94–455 applicable in respect of dec
 
 #### Effective Date of 1971 Amendment
 
-Amendment by Pub. L. 92–178 applicable with respect to taxable years ending after Dec. 31, 1971, except that a corporation may not be a DISC for any taxable year beginning before Jan. 1972, see section 507 of Pub. L. 92–178, set out as a note under section 991 of this title.
+Amendment by Pub. L. 92–178 applicable with respect to taxable years ending after Dec. 31, 1971, except thata corporation may not be a DISC for any taxable year beginning before Jan. 1972, see section 507 of Pub. L. 92–178, set out as a note under section 991 of this title.
 
 #### Effective Date of 1958 Amendment
 
@@ -148,5 +148,5 @@ Pub. L. 96–223, title IV, §401(d), Apr. 2, 1980, 94 Stat. 300, as amended by 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 42, 179, 197, 338, 355, 382, 551, 644, 1001, 1223, 1246, 1291, 2032A, 2654 of this title.
+This section is referred to in sections 42, 179, 197, 338, 355, 382, 551, 644, 1001, 1223, 1246, 1291, 1367, 2032A, 2654 of this title.
 

@@ -86,7 +86,7 @@ Subsection (a).—The amendments made by subsection (a) \[amending this section\
 
 Subsections (b)
 
-and (c).—The amendments made by subsection (b) \[amending this section\] and (c) \[amending section 7456 of this title\] shall take effect on the date of the enactment of this Act.”
+and (c).—The amendments made by subsection (b) \[amending this section\] and (c)\[amending section 7456 of this title\] shall take effect on the date of the enactment of this Act.”
 
 #### Effective Date of 1972 Amendment
 

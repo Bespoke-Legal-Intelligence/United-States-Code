@@ -6,7 +6,7 @@ The Attorney General may delegate any of his functions under this subchapter to 
 
 #### (b) Rules and regulations
 
-The Attorney General may promulgate and enforce any rules, regulations, and procedureswhich he may deem necessary and appropriate for the efficient execution of his functions under this subchapter.
+The Attorney General may promulgate and enforce any rules, regulations, and procedures which he may deem necessary and appropriate for the efficient execution of his functions under this subchapter.
 
 #### (c) Acceptance of devices, bequests, gifts, and donations
 

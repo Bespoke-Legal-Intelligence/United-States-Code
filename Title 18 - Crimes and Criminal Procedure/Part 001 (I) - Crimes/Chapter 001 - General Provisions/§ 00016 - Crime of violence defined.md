@@ -1,4 +1,4 @@
-### §16 . Crime of violence defined
+### §16. Crime of violence defined
 
 The term “crime of violence” means—
 
@@ -10,5 +10,5 @@ The term “crime of violence” means—
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 8 section 1101; title 20 section 1232g; title 40 sections 212a, 212a–3.
+This section is referred to in sections 3181, 3663A of this title; title 8 sections 1101, 1227; title 20 section 1232g; title 21 section 841; title 40 sections 212a, 212a–3; title 42 section 13981.
 

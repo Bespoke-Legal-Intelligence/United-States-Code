@@ -2,7 +2,7 @@
 
 #### (a) Development by Securities and Exchange Commission; time of taking effect
 
-For purposes of developing a reliable energy data base related to the production of crude oil and natural gas, the Securities and Exchange Commission shall take such steps as may be necessary to assure the development and observance of accounting practices to be followed in the preparation of accounts by persons engaged, in whole or in part, in the production of crude oil or natural gas in the United States. Such practices shall be developed not later than 24 months after December 22, 1975, and shall take effect with respect to the fiscal year of eachsuch person which begins 3 months after the date on which such practices are prescribed or made effective under the authority of subsection (b)(2) of this section.
+For purposes of developing a reliable energy data base related to the production of crude oil and natural gas, the Securities and Exchange Commission shall take such steps as may be necessary to assure the development and observance of accounting practices to be followed in the preparation of accounts by persons engaged, in whole or in part, in the production of crude oil or natural gas in the United States. Such practices shall be developed not later than 24 months after December 22, 1975, and shall take effect with respect to the fiscal year of each such person which begins 3 months after the date on which such practices are prescribed or made effective under the authority of subsection (b)(2) of this section.
 
 #### (b) Consultation with Secretary, General Accounting Office and Federal Energy Regulatory Commission; rules; reliance on practices developed by Financial Accounting Standards Board; opportunity to submit written comment
 
@@ -40,7 +40,7 @@ The Securities and Exchange Commission shall assure that accounting practices de
 
 &emsp;(3) Such other information, projections, and relationships of collected data as shall be necessary to facilitate the compilation of such data base.
 
-(Pub. L. 94–163, title V, §503, Dec. 22, 1975, 89 Stat. 958; Pub. L. 95–91, title III, §301, title IV, §402, title VII, §§703, 707, Aug. 4, 1977, 91 Stat. 577, 583, 606, 607.)
+(Pub. L. 94–163, title V, §503, Dec. 22, 1975, 89 Stat. 958; Pub. L. 95–91, title III, §301, title IV,§402, title VII, §§703, 707, Aug. 4, 1977, 91 Stat. 577, 583, 606, 607.)
 
 #### Transfer of Functions
 

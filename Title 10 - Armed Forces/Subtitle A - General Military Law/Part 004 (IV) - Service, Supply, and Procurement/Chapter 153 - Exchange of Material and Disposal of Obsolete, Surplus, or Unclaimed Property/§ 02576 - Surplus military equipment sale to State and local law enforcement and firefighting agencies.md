@@ -2,7 +2,7 @@
 
 (a) The Secretary of Defense, under regulations prescribed by him, may sell to State and local law enforcement and firefighting agencies, at fair market value, pistols, revolvers, shotguns, rifles of a caliber not exceeding .30, ammunition for such firearms, gas masks, and protective body armor which (1) are suitable for use by such agencies in carrying out law enforcement and firefighting activities, and (2) have been determined to be surplus property under the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 471 et seq.).
 
-(b) Such surplus military equipment shall not be sold under the provisions of this section to a State or local law enforcement or firefighting agency unless request therefor is made by such agency, in such form and manner as the Secretary of Defense shall prescribe, and such request, with respect to the type and amount of equipment so requested, is certified as being necessary and suitable for the operation of such agency by the Governor (or such State official as he may designate) of the State in which such agency is located. Equipment sold to a State or local law enforcement or firefighting agency under this section shall not exceed, in quantity, the amount requested and certified for such agency and shall be for the exclusive use of such agency. Such equipment may not be sold, or otherwise transferred, by such agency to any individual or public or private organization or agency.
+(b) Such surplus military equipment shall not be sold under the provisions of this section to aState or local law enforcement or firefighting agency unless request therefor is made by such agency, in such form and manner as the Secretary of Defense shall prescribe, and such request, with respect to the type and amount of equipment so requested, is certified as being necessary and suitable for the operation of such agency by the Governor (or such State official as he may designate) of the State in which such agency is located. Equipment sold to a State or local law enforcement or firefighting agency under this section shall not exceed, in quantity, the amount requested and certified for such agency and shall be for the exclusive use of such agency. Such equipment may not be sold, or otherwise transferred, by such agency to any individual or public or private organization or agency.
 
 (Added Pub. L. 90–500, title IV, §403(a) Sept. 20, 1968, 82 Stat. 851; amended Pub. L. 96–513, title V, §511(85), Dec. 12, 1980, 94 Stat. 2927.)
 
@@ -17,4 +17,68 @@ The Federal Property and Administrative Services Act of 1949, referred to in sub
 #### Effective Date of 1980 Amendment
 
 Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under section 101 of this title.
+
+#### Sale of Aircraft for Wildfire Suppression Purposes
+
+Pub. L. 104–307, Oct. 14, 1996, 110 Stat. 3811, provided that:
+
+#### “SECTION 1. SHORT TITLE.
+
+“This Act may be cited as the ‘Wildfire Suppression Aircraft Transfer Act of 1996’.
+
+#### “SEC. 2. AUTHORITY TO SELL AIRCRAFT AND PARTS FOR WILDFIRE SUPPRESSION PURPOSES.
+
+“(a)
+
+Authority.—(1) Notwithstanding section 202 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 483) and subject to subsections (b) and (c), the Secretary of Defense may, during the period beginning on October 1, 1996, and ending on September 30, 2000, sell the aircraft and aircraft parts referred to in paragraph (2) to persons or entities that contract with the Federal Government for the delivery of fire retardant by air in order to suppress wildfire.
+
+“(2) Paragraph (1) applies to aircraft and aircraft parts of the Department of Defense that are determined by the Secretary to be—
+
+&emsp;“(A) excess to the needs of the Department; and
+
+&emsp;“(B) acceptable for commercial sale.
+
+“(b)
+
+Conditions of Sale.—Aircraft and aircraft parts sold under subsection (a)—
+
+&emsp;“(1) may be used only for the provision of airtanker services for wildfire suppression purposes; and
+
+&emsp;“(2) may not be flown or otherwise removed from the United States unless dispatched by the National Interagency Fire Center in support of an international agreement to assist in wildfire suppression efforts or for other purposes jointly approved by the Secretary of Defense and the Secretary of Agriculture in writing in advance.
+
+“(c)
+
+Certification of Persons and Entities.—The Secretary of Defense may sell aircraft and aircraft parts to a person or entity under subsection (a) only if the Secretary of Agriculture certifies to the Secretary of Defense, in writing, before the sale that the person or entity is capable of meeting the terms and conditions of a contract to deliver fire retardant by air.
+
+“(d)
+
+Regulations.—(1) As soon as practicable after the date of the enactment of this Act \[Oct. 14, 1996\], the Secretary of Defense shall, in consultation with the Secretary of Agriculture and the Administrator of General Services, prescribe regulations relating to the sale of aircraft and aircraft parts under this section.
+
+“(2) The regulations shall—
+
+&emsp;“(A) ensure that the sale of the aircraft and aircraft parts is made at fair market value (as determined by the Secretary of Defense) and, to the extent practicable, on a competitive basis;
+
+&emsp;“(B) require a certification by the purchaser that the aircraft and aircraft parts will be used only in accordance with the conditions set forth in subsection (b);
+
+&emsp;“(C) establish appropriate means of verifying and enforcing the use of the aircraft and aircraft parts by the purchaser and other end users in accordance with the conditions set forth in subsections (b) and (e); and
+
+&emsp;“(D) ensure, to the maximum extent practicable, that the Secretary consults with the Administrator of General Services and with the heads of appropriate departments and agencies of the Federal Government regarding alternative requirements for such aircraft and aircraft parts before the sale of such aircraft and aircraft parts under this section.
+
+“(e)
+
+Additional Terms and Conditions.—The Secretary of Defense may require such other terms and conditions in connection with each sale of aircraft and aircraft parts under this section as the Secretary considers appropriate for such sale. Such terms and conditions shall meet the requirements of the regulations prescribed under subsection (d).
+
+“(f)
+
+Report.—Not later than March 31, 2000, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives a report on the Secretary's exercise of authority under this section. The report shall set forth—
+
+&emsp;“(1) the number and type of aircraft sold under the authority, and the terms and conditions under which the aircraft were sold;
+
+&emsp;“(2) the persons or entities to which the aircraft were sold; and
+
+&emsp;“(3) an accounting of the current use of the aircraft sold.
+
+“(g)
+
+Construction.—Nothing in this section may be construed as affecting the authority of the Administrator of the Federal Aviation Administration under any other provision of law.”
 

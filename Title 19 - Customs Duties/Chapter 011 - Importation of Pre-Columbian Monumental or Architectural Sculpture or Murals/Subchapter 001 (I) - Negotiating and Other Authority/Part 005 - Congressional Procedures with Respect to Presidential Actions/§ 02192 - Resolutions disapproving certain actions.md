@@ -8,7 +8,7 @@
 
 &emsp;(B) a joint resolution of the two Houses of Congress, the matter after the resolving clause of which is as follows: “That the Congress does not approve \_\_\_\_\_\_ transmitted to the Congress on \_\_\_\_\_\_.”, with the first blank space being filled in accordance with paragraph (2), and the second blank space being filled with the appropriate date.
 
-(2) The first blank space referred to in paragraph (1)(B) shall be filled as follows: in the case of a resolution referred to in section 2437(c)(2) of this title, with the phrase “the report of the President submitted under section \_\_\_\_\_\_ of the Trade Act of 1974 with respect to \_\_\_\_\_\_” (with the first blank space being filled with “402(b)” or “409(b)”, as appropriate, and the second blank space being filled with the name of the country involved).
+(2) The first blank space referred to in paragraph (1)(B) shall be filled, in the case of a resolution referred to in section 2437(c)(2) of this title, with the phrase “the report of the President submitted under section \_\_\_\_\_\_ of the Trade Act of 1974 with respect to \_\_\_\_\_\_” (with the first blank space being filled with “402(b)” or “409(b)”, as appropriate, and the second blank space being filled with the name of the country involved).
 
 #### (b) Reference to committees
 
@@ -64,7 +64,7 @@ All resolutions introduced in the House of Representatives shall be referred to 
 
 (3) Consideration in the Senate of any veto message with respect to a joint resolution described in subsection (a)(2)(B) of this section or section 2193(a) of this title, including consideration of all debatable motions and appeals in connection therewith, shall be limited to 10 hours, to be equally divided between, and controlled by, the majority leader and the minority leader or their designees.
 
-(Pub. L. 93–618, title I, §152, Jan. 3, 1975, 88 Stat. 2004; Pub. L. 96–39, title IX, §902(a)(1), title XI, §1106(c)(5), July 26, 1979, 93 Stat. 299, 312; Pub. L. 98–573, title II, §248(b), Oct. 30, 1984, 98 Stat. 2998; Pub. L. 101–382, title I, §132(c)(2)–(5), Aug. 20, 1990, 104 Stat. 646, 647; Pub. L. 103–465, title II, §261(d)(1)(A)(ii), Dec. 8, 1994, 108 Stat. 4909.)
+(Pub. L. 93–618, title I, §152, Jan. 3, 1975, 88 Stat. 2004; Pub. L. 96–39, title IX, §902(a)(1), title XI, §1106(c)(5), July 26, 1979, 93 Stat. 299, 312; Pub. L. 98–573, title II, §248(b), Oct. 30, 1984, 98 Stat. 2998; Pub. L. 101–382, title I, §132(c)(2)–(5), Aug. 20, 1990, 104 Stat. 646, 647; Pub. L. 103–465, title II, §261(d)(1)(A)(ii), Dec. 8, 1994, 108 Stat. 4909; Pub. L. 104–295, §20(b)(10), Oct. 11, 1996, 110 Stat. 3527.)
 
 #### References in Text
 
@@ -74,7 +74,9 @@ Sections 402(b) and 409(b) of the Trade Act of 1974, referred to in subsec. (a)(
 
 #### Amendments
 
-1994—Subsec. (a)(2). Pub. L. 103–465 struck out “(B)” before “in the case” and struck out subpar. (A) which read as follows: “in the case of a resolution referred to in section 1303(e) of this title, with the phrase ‘the determination of the Secretary of the Treasury under section 303(d) of the Tariff Act of 1930’; and”.
+1996—Subsec. (a)(2). Pub. L. 104–295 amended directory language of Pub. L. 103–465. See 1994 Amendment note below.
+
+1994—Subsec. (a)(2). Pub. L. 103–465, as amended by Pub. L. 104–295, substituted comma for “as follows:” after “shall be filled” in introductory provisions, struck out “(B)” before “in the case”, and struck out subpar. (A) which read as follows: “in the case of a resolution referred to in section 1303(e) of this title, with the phrase ‘the determination of the Secretary of the Treasury under section 303(d) of the Tariff Act of 1930’; and”.
 
 1990—Subsec. (a)(1)(B). Pub. L. 101–382, §132(c)(2), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “a resolution of either House of the Congress, the matter after the resolving clause of which is as follows: ‘That the \_\_\_\_\_\_ does not approve \_\_\_\_\_\_ transmitted to the Congress on \_\_\_\_\_\_.’, with the first blank space being filled with the name of the resolving House, the second blank space being filled in accordance with paragraph (2), and the third blank space being filled with the appropriate date.”
 

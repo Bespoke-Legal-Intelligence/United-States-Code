@@ -20,7 +20,7 @@
 
 (4)(A) Upon the appeal of the transferor after a determination described in paragraph (3) is made, the Secretary shall, in a timely manner, review and make a determination (or a redetermination in any case in which the Secretary made the determination described in such paragraph) with respect to whether the loan is current and whether the purchaser of the property meets the requirements of paragraph (1)(B) of this subsection. The Secretary shall transmit, in writing, a notice of the nature of such determination to the transferor and the holder and shall inform them of the action that shall or may be taken under subparagraph (B) of this paragraph as a result of the determination of the Secretary.
 
-(B)(i) If the Secretary determines under subparagraph (A) of this paragraph that the loan iscurrent and that the purchaser meets the requirements of paragraph (1)(B) of this subsection, the holder shall approve the assumption of the loan, and the transferor shall be relieved of all liability to the Secretary with respect to such loan.
+(B)(i) If the Secretary determines under subparagraph (A) of this paragraph that the loan is current and that the purchaser meets the requirements of paragraph (1)(B) of this subsection, the holder shall approve the assumption of the loan, and the transferor shall be relieved of all liability to the Secretary with respect to such loan.
 
 (ii) If the Secretary determines under subparagraph (A) of this paragraph that the purchaser does not meet the requirements of paragraph (1)(B) of this subsection, the Secretary may direct the holder to approve the assumption of the loan if—
 
@@ -52,7 +52,7 @@
 
 &emsp;(A) in the case of loans other than loans to finance the purchase of real property described in section 3733(a)(1) of this title, only to loans for which commitments are made on or after March 1, 1988; and
 
-&emsp;(B) in the case of loans to finance the purchase of such property, only to loans which are closed more than 45 days after the date of the enactment of the Veterans’ Benefits and Programs Improvement Act of 1988.
+&emsp;(B) in the case of loans to finance the purchase of such property, only to loans which are closed more than 45 days after the date ofthe enactment of the Veterans’ Benefits and Programs Improvement Act of 1988.
 
 (2) This section shall not apply to a loan which the Secretary has sold without recourse.
 

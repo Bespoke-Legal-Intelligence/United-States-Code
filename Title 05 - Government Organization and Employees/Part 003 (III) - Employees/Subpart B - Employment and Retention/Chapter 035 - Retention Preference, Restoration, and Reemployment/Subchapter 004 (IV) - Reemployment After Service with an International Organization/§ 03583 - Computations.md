@@ -1,6 +1,6 @@
 ### §3583. Computations
 
-A computation under this subchapter before reemployment is made in the same manner as if the employee had received basic pay, or basic pay plus additional pay in the case of a Congressional employee, at the rate at which it would have been payable had the employee continued in the position in which he was serving at the time of transfer.
+A computation under this subchapter before reemployment is made in the same manner as if the employee had received basic pay, or basic pay plus additional pay in the case of a Congressional employee, at the rate at which it wouldhave been payable had the employee continued in the position in which he was serving at the time of transfer.
 
 (Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 431.)
 
@@ -10,7 +10,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 5 U.S.C. 2333(c).
 

@@ -40,7 +40,7 @@ The Secretary may not provide financial assistance under subsection (a) of this 
 
 #### (e) Authorization of appropriations
 
-(1) For the purpose of carrying out subsection (b)(1) of this section, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 1989 through 1996.
+(1) For the purpose of carrying out subsection (b)(1) of this section, there are authorized to beappropriated such sums as may be necessary for each of the fiscal years 1989 through 1996.
 
 (2) For the purpose of carrying out subsection (b)(2) of this section, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 1989 through 1996.
 
@@ -67,6 +67,10 @@ Subsec. (b)(2)(B)(iii). Pub. L. 100–690, §2617(b)(2), which directed substitu
 #### Effective Date of 1988 Amendment
 
 Amendment by Pub. L. 100–690 effective immediately after enactment of Pub. L. 100–607, which was approved Nov. 4, 1988, see section 2600 of Pub. L. 100–690, set out as a note under section 242m of this title.
+
+#### Reference to Community, Migrant, Public Housing, or Homeless Health Center Considered Reference to Health Center
+
+Reference to community health center, migrant health center, public housing health center, or homeless health center considered reference to health center, see section 4(c) of Pub. L. 104–299, set out as a note under section 254b of this title.
 
 #### Findings and Sense of Congress
 

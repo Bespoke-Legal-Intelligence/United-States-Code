@@ -8,9 +8,8 @@
 | [1104\.](%C2%A7%2001104%20-%20Definitions.md) | Definitions. |
 | [1105\.](%C2%A7%2001105%20-%20Judicial%20review.md) | Judicial review. |
 | (a) | Special court; exclusive jurisdiction for civil actions. |
-| (b) | Exclusive review by writ of certiorari to Supreme Court. |
+| (b) | Appeal. |
 | (c) | Scope of review of administrative actions. |
-| (d) | Assignment of additional judges. |
 | [1106\.](%C2%A7%2001106%20-%20Exemption%20from%20transfer%20taxes%20and%20fees%3B%20recordation.md) | Exemption from transfer taxes and fees; recordation. |
 | [1107\.](%C2%A7%2001107%20-%20Repealed.%20Pub.%20L.%2099%E2%80%93509%2C%20title%20IV%2C%20%C2%A74033%28c%29%281%29%28C%29%28i%29%28I%29%2C%20Oct.%2021%2C%201986%2C%20100%20Stat.%201908.md) | Repealed. |
 | [1108\.](%C2%A7%2001108%20-%20Concerted%20economic%20action.md) | Concerted economic action. |

@@ -80,7 +80,7 @@ For purposes of this section—
 
 #### (f) Qualified benefits defined
 
-For purposes of this section, the term “qualified benefit” means any benefit which, with the application of subsection (a), is not includible in the gross income of the employee by reason of an express provision of this chapter (other than section 117, 127, or 132). Such term includes any group term life insurance which is includible in gross income only because it exceeds the dollar limitation of section 79 and such term includes any other benefit permitted under regulations.
+For purposes of this section, the term “qualified benefit” means any benefit which, with theapplication of subsection (a), is not includible in the gross income of the employee by reason of an express provision of this chapter (other than section 106(b), 117, 127, or 132). Such term includes any group term life insurance which is includible in gross income only because it exceeds the dollar limitation of section 79 and such term includes any other benefit permitted under regulations. Such term shall not include any product which is advertised, marketed, or offered as long-term care insurance.
 
 #### (g) Special rules
 
@@ -124,7 +124,7 @@ For purposes of this section, the term “qualified benefit” means any benefit
 
 The Secretary shall prescribe such regulations as may be necessary to carry out the provisions of this section.
 
-(Added Pub. L. 95–600, title I, §134(a), Nov. 6, 1978, 92 Stat. 2783; amended Pub. L. 96–222, title I, §101(a)(6)(A), Apr. 1, 1980, 94 Stat. 196; Pub. L. 96–605, title II, §§201(b)(2), 226(a), Dec. 28, 1980, 94 Stat. 3527, 3529; Pub. L. 96–613, §5(b)(2), Dec. 28, 1980, 94 Stat. 3581; Pub. L. 98–369, div. A, title V, §531(b)(1)–(4)(A), July 18, 1984, 98 Stat. 881, 882; Pub. L. 98–611, §1(d)(3)(A), Oct. 31, 1984, 98 Stat. 3177; Pub. L. 98–612, §1(b)(3)(B), Oct. 31, 1984, 98 Stat. 3181; Pub. L. 99–514, title XI, §1151(d)(1), title XVIII, §1853(b)(1), Oct. 22, 1986, 100 Stat. 2504, 2870; Pub. L. 100–647, title I, §§1011B(a)(11)–(13), 1018(t)(6), title IV, §4002(b)(2), title VI, §6051(b), Nov. 10, 1988, 102 Stat. 3484, 3485, 3589, 3643, 3696; Pub. L. 101–140, title II, §203(a)(1), (3), (b)(2), Nov. 8, 1989, 103 Stat. 830, 831; Pub. L. 101–239, title VII, §7814(b), Dec. 19, 1989, 103 Stat. 2413; Pub. L. 101–508, title XI, §11801(c)(3), Nov. 5, 1990, 104 Stat. 1388–523.)
+(Added Pub. L. 95–600, title I, §134(a), Nov. 6, 1978, 92 Stat. 2783; amended Pub. L. 96–222, title I, §101(a)(6)(A), Apr. 1, 1980, 94 Stat. 196; Pub. L. 96–605, title II, §§201(b)(2), 226(a), Dec. 28, 1980, 94 Stat. 3527, 3529; Pub. L. 96–613, §5(b)(2), Dec. 28, 1980, 94 Stat. 3581; Pub. L. 98–369, div. A, title V, §531(b)(1)–(4)(A), July 18, 1984, 98 Stat. 881, 882; Pub. L. 98–611, §1(d)(3)(A), Oct. 31, 1984, 98 Stat. 3177; Pub. L. 98–612, §1(b)(3)(B), Oct. 31, 1984, 98 Stat. 3181; Pub. L. 99–514, title XI, §1151(d)(1), title XVIII, §1853(b)(1), Oct. 22, 1986, 100 Stat. 2504, 2870; Pub. L. 100–647, title I, §§1011B(a)(11)–(13), 1018(t)(6), title IV, §4002(b)(2), title VI, §6051(b), Nov. 10, 1988, 102 Stat. 3484, 3485, 3589, 3643, 3696; Pub. L. 101–140, title II, §203(a)(1), (3), (b)(2), Nov. 8, 1989, 103 Stat. 830, 831; Pub. L. 101–239, title VII, §7814(b), Dec. 19, 1989, 103 Stat. 2413; Pub. L. 101–508, title XI, §11801(c)(3), Nov. 5, 1990, 104 Stat. 1388–523; Pub. L. 104–191, title III, §§301(d), 321(c)(1), Aug. 21, 1996, 110 Stat. 2051, 2058.)
 
 #### Codification
 
@@ -132,9 +132,13 @@ Pub. L. 101–140, §203(a)(1), amended this section to read as if the amendment
 
 #### Prior Provisions
 
-A prior section 125 was renumbered section 137 of this title.
+A prior section 125 was renumbered section 138 of this title.
 
 #### Amendments
+
+1996—Subsec. (f). Pub. L. 104–191, §321(c)(1), inserted at end “Such term shall not include any product which is advertised, marketed, or offered as long-term care insurance.”
+
+Pub. L. 104–191, §301(d), inserted “106(b),” before “117”.
 
 1990—Subsec. (f). Pub. L. 101–508 substituted “section 117,” for “section 117, 124,”.
 
@@ -201,6 +205,12 @@ Subsec. (i). Pub. L. 98–369, §531(b)(4)(A), redesignated subsec. (h) as (i).
 Subsec. (g)(3)(B). Pub. L. 96–222 substituted “employment requirement” for “service requirement” in cls. (i) and (ii).
 
 Subsec. (g)(4). Pub. L. 96–613, §5(b)(2), and Pub. L. 96–605, §201(b)(2), made identical amendments by substituting “controlled groups, etc.” for “controlled groups” in heading, and by substituting “subsection (b), (c), or (m) of section 414” for “subsection (b) or (c) of section 414” in text.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by section 301(d) of Pub. L. 104–191 applicable to taxable years beginning after Dec. 31, 1996, see section 301(j) of Pub. L. 104–191, set out as a note under section 62 of this title.
+
+Amendment by section 321(c)(1) of Pub. L. 104–191 applicable to contracts issued after Dec. 31, 1996, see section 321(f) of Pub. L. 104–191, set out as an Effective Date note under section 7702B of this title.
 
 #### Effective Date of 1989 Amendments
 
@@ -292,7 +302,7 @@ Special rule where contributions or reimbursements suspended.—For purposes of 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 79, 414, 3121, 3306, 6039D, 7701 of this title; title 42 section 409.
+This section is referred to in sections 79, 414, 415, 3121, 3306, 6039D, 7701 of this title; title 42 section 409.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “subparagraph”.</i>
 

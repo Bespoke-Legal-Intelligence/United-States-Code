@@ -28,7 +28,7 @@ For purposes of this section—
 
 &emsp;&emsp;(D)(i) receives funds under—
 
-&emsp;&emsp;&emsp;(I) section 254b, 254c, or 256 of this title,
+&emsp;&emsp;&emsp;(I) section 254b, 254c, or 256 of this title,<sup>1</sup>
 
 &emsp;&emsp;&emsp;(II) subchapter V of this chapter, or
 
@@ -78,6 +78,10 @@ Notwithstanding any other provision of this subchapter, ambulatory prenatal care
 
 #### References in Text
 
+Sections 254b and 254c of this title, referred to in subsec. (b)(2)(D)(i)(I), were in the original references to sections 329 and 330 of the Public Health Service Act, act July 1, 1944, which were omitted in the general amendment of subpart I (§254b et seq.) of part D of subchapter II of chapter 6A of this title by Pub. L. 104–299, §2, Oct. 11, 1996, 110 Stat. 3626. Sections 2 and 3(a) of Pub. L. 104–299 enacted new sections 330 and 330A of act July 1, 1944, which are classified, respectively, to sections 254b and 254c of this title.
+
+Section 256 of this title, referred to in subsec. (b)(2)(D)(i)(I), was repealed by Pub. L. 104–299, §4(a)(3), Oct. 11, 1996, 110 Stat. 3645.
+
 The Indian Health Care Improvement Act, referred to in subsec. (b)(2)(D)(i)(III), is Pub. L. 94–437, Sept. 30, 1976, 90 Stat. 1400, as amended. Title V of the Indian Health Care Improvement Act is classified generally to subchapter IV (§1651 et seq.) of chapter 18 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 25 and Tables.
 
 Section 4(a) of the Agriculture and Consumer Protection Act of 1973, referred to in subsec. (b)(2)(D)(ii)(II), is section 4(a) of Pub. L. 93–86, Aug. 10, 1973, 87 Stat. 249, as amended, which is set out as a note under section 612c of Title 7, Agriculture.
@@ -90,7 +94,7 @@ A prior section 1920 of act Aug. 14, 1935, was renumbered section 1928 and is cl
 
 #### Amendments
 
-1990—Subsec. (b)(1)(B). Pub. L. 101–508, §4605(a)(1), inserted “or” at end of cl. (i), redesignated cl. (iii) as (ii) and amended it generally, and struck out former cl. (ii). Prior to amendment, cls. (ii) and (iii) read as follows:
+1990—Subsec. (b)(1)(B). Pub. L. 101–508, §4605(a)(1), inserted “or” at end of cl. (i), redesignated cl. (iii) as (ii)and amended it generally, and struck out former cl. (ii). Prior to amendment, cls. (ii) and (iii) read as follows:
 
 “(ii) the day that is 45 days after the date on which the provider makes the determination referred to in subparagraph (A), or
 
@@ -133,4 +137,6 @@ Section applicable to ambulatory prenatal care furnished in calendar quarters be
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 1396a, 1396b of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

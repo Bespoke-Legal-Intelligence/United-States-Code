@@ -22,7 +22,7 @@ The Administrator of General Services shall provide annual awards to Federal emp
 
 &emsp;&emsp;(F) maintaining a high number of alternative fueled vehicles used relative to comparable conventionally fueled motor vehicles used; and
 
-&emsp;(2) to fuel efficiency in Federal motor vehicle use through the promotion of such measures as increased use of fuel-efficient vehicles, carpooling, ride-sharing, regular maintenance, and other conservation and awareness measures.
+&emsp;(2) to fuel efficiency in Federal motor vehicle use through the promotion of such measures as increased use of fuel-efficient vehicles, carpooling, ride-sharing, regular maintenance,and other conservation and awareness measures.
 
 #### (c) Authorization of appropriations
 

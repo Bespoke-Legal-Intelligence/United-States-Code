@@ -1,4 +1,0 @@
-### \[§2782. Repealed. Pub. L. 101–510, div. A, title XIV, §1405(c)(1), Nov. 5, 1990, 104 Stat. 1680\]
-
-Section, added Pub. L. 101–189, div. A, title XVI, §1603(a)(1), Nov. 29, 1989, 103 Stat. 1597, related to limits on restoration of unobligated balances withdrawn from availability for obligation.
-

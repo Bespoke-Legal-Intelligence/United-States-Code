@@ -56,7 +56,7 @@ After August 3, 1977, and subject to valid existing rights no surface coal minin
 
 &emsp;(3) which will adversely affect any publicly owned park or places included in the National Register of Historic Sites unless approved jointly by the regulatory authority and the Federal, State, or local agency with jurisdiction over the park or the historic site;
 
-&emsp;(4) within one hundred feet of the outside right-of-way line of any public road, except where mine access roads or haulage roads joinsuch right-of-way line and except that the regulatory authority may permit such roads to be relocated or the area affected to lie within one hundred feet of such road, if after public notice and opportunity for public hearing in the locality a written finding is made that the interests of the public and the landowners affected thereby will be protected; or
+&emsp;(4) within one hundred feet of the outside right-of-way line of any public road, except where mine access roads or haulage roads join such right-of-way line and except that the regulatory authority may permit such roads to be relocated or the area affected to lie within one hundred feet of such road, if after public notice and opportunity for public hearing in the locality a written finding is made that the interests of the public and the landowners affected thereby will be protected; or
 
 &emsp;(5) within three hundred feet from any occupied dwelling, unless waived by the owner thereof, nor within three hundred feet of any public building, school, church, community, or institutional building, public park, or within one hundred feet of a cemetery.
 

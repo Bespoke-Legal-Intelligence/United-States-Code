@@ -10,7 +10,7 @@ All sealed bids or competitive proposals received in response to a solicitation 
 
 #### (c) Opening of bids; promptness of award; written notice
 
-Sealed bids shall be opened publicly at the time and place stated in the solicitation. The executive agency shall evaluate the bids in accordance with subsection (a) of this section without discussions with the bidders and, except as provided in subsection (b) of this section, shall award a contract with reasonable promptness to the responsible source whose bid conforms to the solicitation and is most advantageous to the United States, considering only price and the other price-related factors included in the solicitation. The award of a contract shall be made by transmitting, in writing or by electronic means, notice of the award to the successful bidder. Within 3 days after the date of contract award, the executive agency shall notify, in writing or by electronic means,each bidder not awarded the contract that the contract has been awarded.
+Sealed bids shall be opened publicly at the time and place stated in the solicitation. The executive agency shall evaluate the bids in accordance with subsection (a) of this section without discussions with the bidders and, except as provided in subsection (b) of this section, shall award a contract with reasonable promptness to the responsible source whose bid conforms to the solicitation and is most advantageous to the United States, considering only price and the other price-related factors included in the solicitation. The award of a contract shall be made by transmitting, in writing or by electronic means, notice of the award to the successful bidder. Within 3 days after the date of contract award, the executive agency shall notify, in writing or by electronic means, each bidder not awarded the contract that the contract has been awarded.
 
 #### (d) Discussions with offerors; written notification
 
@@ -20,7 +20,9 @@ Sealed bids shall be opened publicly at the time and place stated in the solicit
 
 &emsp;(B) based on the proposals received and without discussions with the offerors (other than discussions conducted for the purpose of minor clarification), if, as required by section 253a(b)(2)(B)(i) of this title, the solicitation included a statement that proposals are intended to be evaluated, and award made, without discussions, unless discussions are determined to be necessary.
 
-(2) Except as otherwise provided in subsection (b) of this section, the executive agency shall award a contract with reasonable promptness to the responsible source whose proposal is most advantageous to the United States, considering only cost or price and the other factors included in the solicitation. The executive agency shall award the contract by transmitting, in writing or by electronic means, notice of the award to such source and, within 3 days after the date of contract award, shall notify, in writing or by electronic means, all other offerors of the rejection of their proposals.
+(2) If the contracting officer determines that the number of offerors that would otherwise be included in the competitive range under paragraph (1)(A) exceeds the number at which an efficient competition can be conducted, the contracting officer may limit the number of proposals in the competitive range, in accordance with the criteria specified in the solicitation, to the greatest number that will permit an efficient competition among the offerors rated most highly in accordance with such criteria.
+
+(3) Except as otherwise provided in subsection (b) of this section, the executive agency shall award a contract with reasonable promptness to the responsible source whose proposal is most advantageous to the United States, considering only cost or price and the other factors included in the solicitation. The executive agency shall award the contract by transmitting, in writing or by electronic means, notice of the award to such source and, within 3 days after the date of contract award, shall notify, in writing or by electronic means, all other offerors of the rejection of their proposals.
 
 #### (e) Post-award debriefings
 
@@ -50,13 +52,35 @@ Sealed bids shall be opened publicly at the time and place stated in the solicit
 
 &emsp;(B) the same information that would have been provided to the original offerors.
 
-(6) The contracting officer shall include a summary of the debriefing in the contract file.
+#### (f) Preaward debriefings
 
-#### (f) Antitrust violations
+(1) When the contracting officer excludes an offeror submitting a competitive proposal from the competitive range (or otherwise excludes such an offeror from further consideration prior to the final source selection decision), the excluded offeror may request in writing, within 3 days after the date on which the excluded offeror receives notice of its exclusion, a debriefing prior to award. The contracting officer shall make every effort to debrief the unsuccessful offeror as soon as practicable but may refuse the request for a debriefing if it is not in the best interests of the Government to conduct a debriefing at that time.
+
+(2) The contracting officer is required to debrief an excluded offeror in accordance with subsection (e) of this section only if that offeror requested and was refused a preaward debriefing under paragraph (1) of this subsection.
+
+(3) The debriefing conducted under this subsection shall include—
+
+&emsp;(A) the executive agency's evaluation of the significant elements in the offeror's offer;
+
+&emsp;(B) a summary of the rationale for the offeror's exclusion; and
+
+&emsp;(C) reasonable responses to relevant questions posed by the debriefed offeror as to whether source selection procedures set forth in the solicitation, applicable regulations, andother applicable authorities were followed by the executive agency.
+
+(4) The debriefing conducted pursuant to this subsection may not disclose the number or identity of other offerors and shall not disclose information about the content, ranking, or evaluation of other offerors’ proposals.
+
+#### (g) Summary of debriefing
+
+The contracting officer shall include a summary of any debriefing conducted under subsection (e) or (f) of this section in the contract file.
+
+#### (h) Alternative dispute resolution
+
+The Federal Acquisition Regulation shall include a provision encouraging the use of alternative dispute resolution techniques to provide informal, expeditious, and inexpensive procedures for an offeror to consider using before filing a protest, prior to the award of a contract, of the exclusion of the offeror from the competitive range (or otherwise from further consideration) for that contract.
+
+#### (i) Antitrust violations
 
 If the agency head considers that a bid or proposal evidences a violation of the antitrust laws, such agency head shall refer the bid or proposal to the Attorney General for appropriate action.
 
-#### (g) Planning for future competition
+#### (j) Planning for future competition
 
 (1)(A) In preparing a solicitation for the award of a development contract for a major system, the head of an agency shall consider requiring in the solicitation that an offeror include in its offer proposals described in subparagraph (B). In determining whether to require such proposals, the head of the agency shall give due consideration to the purposes for which the system is being procured and the technology necessary to meet the system's required capabilities. If such proposals are required, the head of the agency shall consider them in evaluating the offeror's price.
 
@@ -66,7 +90,7 @@ If the agency head considers that a bid or proposal evidences a violation of the
 
 &emsp;(ii) With respect to items that are likely to be required in substantial quantities during the system's service life, proposals to incorporate in the design of the major system items which the United States will be able to acquire competitively in the future.
 
-(2)(A) In preparing a solicitation for the award of a production contract for a major system, the head of an agency shall consider requiring in the solicitation that an offeror include in its offer proposals described in subparagraph (B). In determining whether to require such proposals, the head of the agency shall give due consideration to the purposes for which the system isbeing procured and the technology necessary to meet the system's required capabilities. If such proposals are required, the head of the agency shall consider them in evaluating the offeror's price.
+(2)(A) In preparing a solicitation for the award of a production contract for a major system, the head of an agency shall consider requiring in the solicitation that an offeror include in its offer proposals described in subparagraph (B). In determining whether to require such proposals, the head of the agency shall give due consideration to the purposes for which the system is being procured and the technology necessary to meet the system's required capabilities. If such proposals are required, the head of the agency shall consider them in evaluating the offeror's price.
 
 (B) The proposals that the head of an agency is to consider requiring in a solicitation for the award of a production contract are proposals identifying opportunities to ensure that the United States will be able to obtain on a competitive basis items procured in connection with the system that are likely to be reprocured in substantial quantities during the service life of the system. Proposals submitted in response to such requirement may include the following:
 
@@ -76,15 +100,13 @@ If the agency head considers that a bid or proposal evidences a violation of the
 
 (3) If the head of an agency is making a noncompetitive award of a development contract or a production contract for a major system, the factors specified in paragraphs (1) and (2) to be considered in evaluating an offer for a contract may be considered as objectives in negotiating the contract to be awarded.
 
-#### (h) Protest file
+#### (k) Protest file
 
 (1) If, in the case of a solicitation for a contract issued by, or an award or proposed award of a contract by, the head of an executive agency, a protest is filed pursuant to the procedures in subchapter V of chapter 35 of title 31, and an actual or prospective offeror so requests, a file of the protest shall be established by the procuring activity and reasonable access shall be provided to actual or prospective offerors.
 
 (2) Information exempt from disclosure under section 552 of title 5 may be redacted in a file established pursuant to paragraph (1) unless an applicable protective order provides otherwise.
 
-(3) Regulations implementing this subsection shall be consistent with the regulations regarding the preparation and submission of an agency's protest file (the so-called “rule 4 file”) for protests to the General Services Board of Contract Appeals under section 759 of title 40.
-
-#### (i) Agency actions on protests
+#### (<i>l</i>) Agency actions on protests
 
 If, in connection with a protest, the head of an executive agency determines that a solicitation, proposed award, or award does not comply with the requirements of law or regulation, the head of such executive agency—
 
@@ -92,9 +114,37 @@ If, in connection with a protest, the head of an executive agency determines tha
 
 &emsp;(2) may pay costs described in paragraph (1) of section 3554(c) of such title within the limits referred to in paragraph (2) of such section.
 
-(June 30, 1949, ch. 288, title III, §303B, as added July 18, 1984, Pub. L. 98–369, div. B, title VII, §2711(a)(2), 98 Stat. 1179; Oct. 30, 1984, Pub. L. 98–577, title II, §201(a), 98 Stat. 3068; Oct. 13, 1994, Pub. L. 103–355, title I, §§1061(c), 1063–1066, 108 Stat. 3267–3269.)
+#### (m) Prohibition on release of contractor proposals
+
+(1) Except as provided in paragraph (2), a proposal in the possession or control of an executive agency may not be made available to any person under section 552 of title 5.
+
+(2) Paragraph (1) does not apply to any proposal that is set forth or incorporated by reference in a contract entered into between the agency and the contractor that submitted the proposal.
+
+(3) In this subsection, the term “proposal” means any proposal, including a technical, management, or cost proposal, submitted by a contractor in response to the requirements of a solicitation for a competitive proposal.
+
+(June 30, 1949, ch. 288, title III, §303B, as added July 18, 1984, Pub. L. 98–369, div. B, title VII, §2711(a)(2), 98 Stat. 1179; amended Oct. 30, 1984, Pub. L. 98–577, title II, §201(a), 98 Stat. 3068; Oct. 13, 1994, Pub. L. 103–355, title I, §§1061(c), 1063–1066, 108 Stat. 3267–3269; Feb. 10, 1996, Pub. L. 104–106, div. D, title XLI, §§4103(b), 4104(b), div. E, title LVI, §5607(c), 110 Stat. 644, 645, 701; Sept. 23, 1996, Pub. L. 104–201, div. A, title VIII, §821(b), title X, §1074(b)(7), 110 Stat. 2609, 2660.)
+
+#### References in Text
+
+The antitrust laws, referred to in subsec. (i), are classified generally to section 1 et seq. of Title 15, Commerce and Trade.
 
 #### Amendments
+
+1996—Subsec. (d)(2), (3). Pub. L. 104–106, §4103(b), added par. (2) and redesignated former par. (2) as (3).
+
+Subsec. (e)(6). Pub. L. 104–106, §4104(b)(1), struck out par. (6) which read as follows: “The contracting officer shall include a summary of the debriefing in the contract file.”
+
+Subsecs. (f) to (h). Pub. L. 104–106, §4104(b)(3), added subsecs. (f) to (h). Former subsecs. (f) to (h) redesignated (i) to (k), respectively.
+
+Subsecs. (i), (j). Pub. L. 104–106, §4104(b)(2), redesignated subsecs. (f) and (g) as (i) and (j), respectively. Former subsec. (i) redesignated (<i>l</i>).
+
+Subsec. (k). Pub. L. 104–106, §5607(c), as amended by Pub. L. 104–201, §1074(b)(7), struck out par. (3) which read as follows: “Regulations implementing this subsection shall be consistent with the regulations regarding the preparation and submission of an agency's protest file (the so-called ‘rule 4 file’) for protests to the General Services Board of Contract Appeals under section 759 of title 40.”
+
+Pub. L. 104–106, §4104(b)(2), redesignated subsec. (h) as (k).
+
+Subsec. (<i>l</i>). Pub. L. 104–106, §4104(b)(2), redesignated subsec. (i) as (<i>l</i>).
+
+Subsec. (m). Pub. L. 104–201, §821(b), added subsec. (m).
 
 1994—Subsec. (a). Pub. L. 103–355, §1061(c)(1), inserted “, and award a contract,” after “competitive proposals”.
 
@@ -122,6 +172,14 @@ Subsec. (i). Pub. L. 103–355, §1066, added subsec. (i).
 
 1984—Subsec. (f). Pub. L. 98–577 added subsec. (f).
 
+#### Effective Date of 1996 Amendments
+
+Section 1074(b)(7) of Pub. L. 104–201 provided that the amendment made by that section is effective Feb. 10, 1996.
+
+For effective date and applicability of amendment by sections 4103(b) and 4104(b) of Pub. L. 104–106, see section 4401 of Pub. L. 104–106, set out as a note under section 251 of this title.
+
+Amendment by section 5607(c) of Pub. L. 104–106 effective 180 days after Feb. 10, 1996, see section 5701 of Pub. L. 104–106, set out as an Effective Date note under section 1401 of Title 40, Public Buildings, Property, and Works.
+
 #### Effective Date of 1994 Amendment
 
 For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under section 251 of this title.
@@ -144,7 +202,7 @@ Ex. Ord. No. 12979, Oct. 25, 1995, 60 F.R. 55171, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to ensure effective and efficient expenditure of public funds and fair and expeditious resolution of protests to the award of Federal procurement contracts, it is hereby ordered as follows:
 
-Section 1. Heads of executive departments and agencies (“agencies”) engaged in the procurement of supplies and services shall prescribe administrative procedures for the resolution of protests to the award of their procurement contracts as an alternative to protests in fora outside the procuring agencies. Procedures prescribed pursuant to this order shall:
+Section 1. Heads of executive departments and agencies (“agencies”) engaged in the procurement of supplies and services shall prescribe administrative procedures for the resolution of protests to the award oftheir procurement contracts as an alternative to protests in fora outside the procuring agencies. Procedures prescribed pursuant to this order shall:
 
 (a) emphasize that whenever conduct of a procurement is contested, all parties should use their best efforts to resolve the matter with agency contracting officers;
 
@@ -168,5 +226,5 @@ The definitions in section 472 of Title 40, Public Buildings, Property, and Work
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 257 of this title; title 40 section 759.
+This section is referred to in sections 253m, 257, 431 of this title.
 

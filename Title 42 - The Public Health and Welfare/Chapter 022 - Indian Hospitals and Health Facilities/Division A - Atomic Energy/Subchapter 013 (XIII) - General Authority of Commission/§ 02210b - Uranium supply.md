@@ -30,7 +30,7 @@ The criteria referred to in subsection (a) of this section shall also include, b
 
 #### (d) Excessive imports; investigation by United States International Trade Commission
 
-The Secretary or <sup>1</sup> Energy, at any time, may determine on the basis of the monitoring and annual reports required under this section that source material or special nuclear material fromforeign sources is being imported in such increased quantities as to be a substantial cause of serious injury, or threat thereof, to the United States uranium mining and milling industry. Based on that determination, the United States Trade Representative shall request that the United States International Trade Commission initiate an investigation under section 2251 <sup>2</sup> of title 19.
+The Secretary or <sup>1</sup> Energy, at any time, may determine on the basis of the monitoring and annual reports required under this section that source material or special nuclear material from foreign sources is being imported in such increased quantities as to be a substantial cause of serious injury, or threat thereof, to the United States uranium mining and milling industry. Based on that determination, the United States Trade Representative shall request that the United States International Trade Commission initiate an investigation under section 2251 <sup>2</sup> of title 19.
 
 #### (e) Excessive imports for contracts or options as threatening national security; investigation by Secretary of Commerce; recommendation for further investigation
 

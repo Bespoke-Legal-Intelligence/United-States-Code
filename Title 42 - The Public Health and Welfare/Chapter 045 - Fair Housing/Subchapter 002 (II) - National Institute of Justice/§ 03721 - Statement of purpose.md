@@ -26,6 +26,38 @@ A prior section 3721, Pub. L. 90–351, title I, §201, June 19, 1968, 82 Stat. 
 
 Amendment by Pub. L. 98–473 effective Oct. 12, 1984, see section 609AA(a) of Pub. L. 98–473, set out as an Effective Date note under section 3711 of this title.
 
+#### Assessing and Reducing Threat to Law Enforcement Officers From Criminal Use of Firearms and Ammunition
+
+Pub. L. 104–132, title VIII, §809, Apr. 24, 1996, 110 Stat. 1311, provided that:
+
+“(a) The Secretary of the Treasury, in conjunction with the Attorney General, shall conduct a study and make recommendations concerning—
+
+&emsp;“(1) the extent and nature of the deaths and serious injuries, in the line of duty during the last decade, for law enforcement officers, including—
+
+&emsp;&emsp;“(A) those officers who were feloniously killed or seriously injured and those that died or were seriously injured as a result of accidents or other non-felonious causes;
+
+&emsp;&emsp;“(B) those officers feloniously killed or seriously injured with firearms, those killed or seriously injured with, separately, handguns firing handgun caliber ammunition, handguns firing rifle caliber ammunition, rifles firing rifle caliber ammunition, rifles firing handgun caliber ammunition and shotguns;
+
+&emsp;&emsp;“(C) those officers feloniously killed or seriously injured with firearms, and killings or serious injuries committed with firearms taken by officers’ assailants from officers, and those committed with other officers’ firearms; and
+
+&emsp;&emsp;“(D) those killed or seriously injured because shots attributable to projectiles defined as ‘armor piercing ammunition’ under section 921(a)(17)(B)(i) and (ii) of title 18, United States Code, pierced the protective material of bullet resistant vests and bullet resistant headgear;
+
+&emsp;“(2) whether current passive defensive strategies, such as body armor, are adequate to counter the criminal use of firearms against law officers; and
+
+&emsp;“(3) the calibers of ammunition that are—
+
+&emsp;&emsp;“(A) sold in the greatest quantities;
+
+&emsp;&emsp;“(B) their common uses, according to consultations with industry, sporting organizations and law enforcement;
+
+&emsp;&emsp;“(C) the calibers commonly used for civilian defensive or sporting uses that would be affected by any prohibition on non-law enforcement sales of such ammunition, if such ammunition is capable of penetrating minimum level bullet resistant vests; and
+
+&emsp;&emsp;“(D) recommendations for increase in body armor capabilities to further protect law enforcement from threat.
+
+“(b) In conducting the study, the Secretary shall consult with other Federal, State and local officials, non-governmental organizations, including all national police organizations, national sporting organizations and national industry associations with expertise in this area and such other individuals as shall be deemed necessary. Such study shall be presented to Congress twelve months after the enactment of this Act \[Apr. 24, 1996\] and made available to the public, including any data tapes or data used to form such recommendations.
+
+“(c) There are authorized to be appropriated for the study and recommendations such sums as may be necessary.”
+
 #### National Commission to Support Law Enforcement
 
 Pub. L. 101–647, title XXXIV, Nov. 29, 1990, 104 Stat. 4918, as amended by Pub. L. 103–322, title XXVI, §260002, Sept. 13, 1994, 108 Stat. 2089, provided that:
@@ -154,7 +186,7 @@ Mails.—The Commission may use the United States mails in the same manner and u
 
 “The Commission shall cease to exist upon the expiration of the 60-day period beginning on the date on which the Commission submits its report under section 3407.”
 
-Pub. L. 101–515, title II, §211(B), Nov. 5, 1990, 104 Stat. 2122, as amended by Pub. L. 103–322, title XXVI, §260001, Sept. 13, 1994, 108 Stat. 2088, provided that:
+Pub. L. 101–515, title II, §211(B), Nov. 5, 1990, 104 Stat. 2122, as amended by Pub. L. 103–322, title XXVI, §260001, Sept. 13, 1994, 108 Stat. 2088; Pub. L. 104–316, title I, §122(m), Oct. 19, 1996, 110 Stat. 3838, provided that:
 
 “(B)(a) This subsection may be cited as the ‘National Commission to Support Law Enforcement Act’.
 
@@ -246,7 +278,7 @@ In general.—The Commission shall be composed of 29 members as follows:
 
 &emsp;“(2)
 
-Comptroller general.—The Comptroller General shall serve in an advisory capacity and shall oversee the methodology and approve of the Commission study.
+Comptroller general.—The Comptroller General may serve in an advisory capacity, may oversee the methodology, and may approve of the Commission study.
 
 &emsp;“(3)
 

@@ -24,7 +24,7 @@ In order to commemorate the bicentennial of the Constitution, there is establish
 
 &emsp;(A) the date on which a successor has taken office; or
 
-&emsp;(B) the date on which the Congress adjourns sine die to end the session of Congress thatcommences after the date on which the member's term expired.
+&emsp;(B) the date on which the Congress adjourns sine die to end the session of Congress that commences after the date on which the member's term expired.
 
 #### (c) Officers
 

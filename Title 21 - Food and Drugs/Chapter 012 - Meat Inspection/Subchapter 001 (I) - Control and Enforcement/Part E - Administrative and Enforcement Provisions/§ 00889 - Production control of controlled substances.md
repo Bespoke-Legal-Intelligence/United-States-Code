@@ -12,7 +12,7 @@ As used in this section:
 
 #### (b) Persons ineligible for Federal agricultural program benefits
 
-Notwithstanding any other provision of law, following December 23, 1985, any person who is convicted under Federal or State law of planting, cultivation, growing, producing, harvesting, or storing a controlled substance in any crop year shall be ineligible for—
+Notwithstanding any other provision of law, following December 23, 1985, any person who isconvicted under Federal or State law of planting, cultivation, growing, producing, harvesting, or storing a controlled substance in any crop year shall be ineligible for—
 
 &emsp;(1) as to any commodity produced during that crop year, and the four succeeding crop years, by such person—
 

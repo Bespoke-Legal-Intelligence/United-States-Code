@@ -26,7 +26,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 5 U.S.C. 3032.
 
@@ -36,7 +38,7 @@ In paragraph (1), the words “of America” are omitted as unnecessary.
 
 In paragraph (2), the word “agency” is substituted for “Government agency”. The term “Executive agency” is substituted for the reference to “each executive department of the Government, each independent establishment or agency in the executive branch of the Government, including each corporation wholly owned (either directly or through one or more corporations) by the Government”. The exception of “a Government controlled corporation” is added to preserve the application of this subchapter to corporations wholly owned by the Government.
 
-In paragraph (3), the word “employee” is substituted for “individual in the civilian service” in view of the definition of “employee” in section 2105. Reference to “ambassadors, ministers, and officers of the ForeignService under the Department of State” is omitted as included in the definition of “employee”.
+In paragraph (3), the word “employee” is substituted for “individual in the civilian service” in view of the definition of “employee” in section 2105. Reference to “ambassadors, ministers, and officers of the Foreign Service under the Department of State” is omitted as included in the definition of “employee”.
 
 In paragraph (4), the words “of the United States of America” are omitted as unnecessary.
 
@@ -76,7 +78,7 @@ Section 521 of Pub. L. 86–707, Sept. 6, 1960, 74 Stat. 802, Overseas Different
 
 #### Transitional Provisions for Payment of Allowances and Differentials
 
-Section 522 of Pub. L. 86–707, Sept. 6, 1960, 74 Stat. 802. Overseas Differentials and Allowances Act, provided that: “Notwithstanding any provision of this Act \[enacting chapter 37 of former title 5 (now covered by this subchapter), amending other sections as shown in the Tables, and enacting provisions set out as notes under this section and section 912 of Title 26, Internal Revenue Code\] and until such time as regulations are issued under this Act, employees shall continue to be paid allowances and differentials in accordance with rules and regulations issued pursuant to the laws in effect immediately prior to the enactment of this Act \[Sept. 6, 1960\] and such rules and regulations may be amended or revoked in accordance with the provision of such laws.”
+Section 522 of Pub. L. 86–707, Sept. 6, 1960, 74 Stat. 802, Overseas Differentials and Allowances Act, provided that: “Notwithstanding any provision of this Act \[enacting chapter 37 of former title 5 (now covered by this subchapter), amending other sections as shown in the Tables, and enacting provisions set out as notes under this section and section 912 of Title 26, Internal Revenue Code\] and until such time as regulations are issued under this Act, employees shall continue to be paid allowances and differentials in accordance with rules and regulations issued pursuant to the laws in effect immediately prior to the enactment of this Act \[Sept. 6, 1960\] and such rules and regulations may be amended or revoked in accordance with the provision of such laws.”
 
 #### Ex. Ord. No. 10903. Delegation of Regulatory Authority
 
@@ -94,7 +96,7 @@ Section 1. The Secretary of State is hereby designated and empowered to perform 
 
 (d) The authority vested in the President by other provisions of law (including section 235(2) \[now 707(a)(2)\] of title 38 of the United States Code) to prescribe regulations governing representation allowances similar to those authorized by section 905 of the Foreign Service Act of 1980 (22 U.S.C. 4085).
 
-(e) The authority vested in the President by section 5912 of title 5 of the United States Code to approve regulations prescribed by heads of agencies (under which employees who are citizens of the United States permanently stationed in foreign countries may be furnished, without cost to them, living quarters, including heat,fuel, and light, in government-owned or rented buildings).
+(e) The authority vested in the President by section 5912 of title 5 of the United States Code to approve regulations prescribed by heads of agencies (under which employees who are citizens of the United States permanently stationed in foreign countries may be furnished, without cost to them, living quarters, including heat, fuel, and light, in government-owned or rented buildings).
 
 (f) \[Repealed by Ex. Ord. No. 12292, §4(f), Feb. 23, 1981, 46 F.R. 13967\]
 
@@ -150,9 +152,7 @@ Sec. 5. (a) The following-described Executive order and parts thereof are hereby
 
 (b) Existing rules and regulations prescribed in or pursuant to the Executive order provisions revoked by section 5(a) of this order, other existing rules and regulations pertaining to allowances, differentials, and other benefits corresponding to those authorized by the provisions of law referred to in this order and actions heretofore taken in pursuance of any thereof shall remain in effect until hereafter superseded in pursuance of the provisions of this order.
 
-Sec. 6. This order and such of the regulations prescribed by the Secretary of State, the Director of the Office of Management and Budget, and the Office of Personnel Management thereunder as the Secretary, Director, and Office shall, respectively, determine, shall be published in the
-
-Federal Register.
+Sec. 6. This order and such of the regulations prescribed by the Secretary of State, the Director of the Office of Management and Budget, and the Office of Personnel Management thereunder as the Secretary, Director, and Office shall, respectively, determine, shall be published in the Federal Register.
 
 #### Ex. Ord. No. 11137. Allowances and Benefits
 

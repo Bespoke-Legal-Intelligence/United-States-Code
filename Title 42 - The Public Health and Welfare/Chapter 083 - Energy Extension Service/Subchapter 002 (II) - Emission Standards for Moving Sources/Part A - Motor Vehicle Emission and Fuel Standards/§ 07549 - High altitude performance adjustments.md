@@ -8,7 +8,7 @@
 
 #### (b) Regulations
 
-(1) Instructions respecting each class or category of vehicles or engines to which this title applies providing for such vehicle and engine adjustments and modifications as may be necessary to insure emission control performance at different altitudes shall be submitted by the manufacturer to the Administrator pursuant to regulations promulgated by the Administrator.
+(1) Instructions respecting each class or category of vehicles or engines to which this titleapplies providing for such vehicle and engine adjustments and modifications as may be necessary to insure emission control performance at different altitudes shall be submitted by the manufacturer to the Administrator pursuant to regulations promulgated by the Administrator.
 
 (2) Any knowing violation by a manufacturer of requirements of the Administrator under paragraph (1) shall be treated as a violation by such manufacturer of section 7522(a)(3) of this title for purposes of the penalties contained in section 7524 of this title.
 
@@ -24,7 +24,7 @@ Before January 1, 1981 the authority provided by this section shall be available
 
 #### (e) High altitude testing
 
-(1) The Administrator shall promptly establish at least one testing center (in addition to thetesting centers existing on November 15, 1990) located at a site that represents high altitude conditions, to ascertain in a reasonable manner whether, when in actual use throughout their useful life (as determined under section 7521(d) of this title), each class or category of vehicle and engines to which regulations under section 7521 of this title apply conforms to the emissions standards established by such regulations. For purposes of this subsection, the term “high altitude conditions” refers to high altitude as defined in regulations of the Administrator in effect as of November 15, 1990.
+(1) The Administrator shall promptly establish at least one testing center (in addition to the testing centers existing on November 15, 1990) located at a site that represents high altitude conditions, to ascertain in a reasonable manner whether, when in actual use throughout their useful life (as determined under section 7521(d) of this title), each class or category of vehicle and engines to which regulations under section 7521 of this title apply conforms to the emissions standards established by such regulations. For purposes of this subsection, the term “high altitude conditions” refers to high altitude as defined in regulations of the Administrator in effect as of November 15, 1990.
 
 (2) The Administrator, in cooperation with the Secretary of Energy and the Administrator of the Federal Transit Administration, and such other agencies as the Administrator deems appropriate, shall establish a research and technology assessment center to provide for the development and evaluation of less-polluting heavy-duty engines and fuels for use in buses, heavy-duty trucks, and non-road engines and vehicles, which shall be located at a high-altitude site that represents high-altitude conditions. In establishing and funding such a center, the Administrator shall give preference to proposals which provide for local cost-sharing of facilities and recovery of costs of operation through utilization of such facility for the purposes of this section.
 

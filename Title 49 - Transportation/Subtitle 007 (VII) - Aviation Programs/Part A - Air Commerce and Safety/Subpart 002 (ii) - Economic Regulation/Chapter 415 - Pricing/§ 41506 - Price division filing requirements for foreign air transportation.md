@@ -6,7 +6,9 @@ Every air carrier and foreign air carrier shall keep currently on file with the 
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -20,7 +22,7 @@ Aug. 23, 1958, Pub. L. 85–726, §403(d), 72 Stat. 759.
 
 &nbsp;
 
-49 App.:1551(a) (4)(B) (related to 49 App.:1373(d)), (b)(1)(E).
+49 App.:1551(a)(4)(B) (related to 49 App.:1373(d)), (b)(1)(E).
 
 Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1601(a)(4)(B) (related to §403(d)), (b)(1)(E); added Oct. 4, 1984, Pub. L. 98–443, §3(c), (e), 98 Stat. 1703, 1704.
 
@@ -28,5 +30,5 @@ The words “foreign air transportation” are substituted for “air transporta
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 40109, 41110, 46301 of this title.
+This section is referred to in section 41110 of this title.
 

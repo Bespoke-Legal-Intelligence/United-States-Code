@@ -18,7 +18,7 @@ To be eligible to participate in the Scholarship Program, an individual must—
 
 &emsp;(3) submit an application to participate in the Scholarship Program; and
 
-&emsp;(4) sign and submit to the Secretary, at the time of submittal of such application, a written contract (described in subsection (f) of this section) to accept payment of a scholarship and to serve (in accordance with this subpart) for the applicable period of obligated service in a health professional shortage area.
+&emsp;(4) sign and submit to the Secretary, at the time of submittal of such application, a written contract (described in subsection (f) of this section) to accept payment of a scholarshipand to serve (in accordance with this subpart) for the applicable period of obligated service in a health professional shortage area.
 
 #### (c) Review and evaluation of information and forms by prospective applicant
 
@@ -72,7 +72,7 @@ The written contract (referred to in this subpart) between the Secretary and an 
 
 &emsp;&emsp;&emsp;(i) to accept provision of such a scholarship to the individual;
 
-&emsp;&emsp;&emsp;(ii) to maintain enrollment in a course of study described in subsection (b)(1)(B) ofthis section until the individual completes the course of study;
+&emsp;&emsp;&emsp;(ii) to maintain enrollment in a course of study described in subsection (b)(1)(B) of this section until the individual completes the course of study;
 
 &emsp;&emsp;&emsp;(iii) while enrolled in such course of study, to maintain an acceptable level of academic standing (as determined under regulations of the Secretary by the educational institution offering such course of study); and
 
@@ -134,7 +134,7 @@ Not later than March 1 of each year, the Secretary shall submit to the Congress 
 
 &emsp;&emsp;(iv) if known, the basis for the decision of the individuals to breach the contract under subsection (f) of this section; and
 
-&emsp;(6) the effectiveness of the Secretary in recruiting health professionals to participate in the Scholarship Program, and in encouraging and assisting such professionals with respect to providing primary health services to health professional shortage areas after the completion of the period of obligated service under such Program.
+&emsp;(6) the effectiveness of the Secretary in recruiting health professionals to participate inthe Scholarship Program, and in encouraging and assisting such professionals with respect to providing primary health services to health professional shortage areas after the completion of the period of obligated service under such Program.
 
 (July 1, 1944, ch. 373, title III, §338A, formerly title VII, §751, as added Oct. 12, 1976, Pub. L. 94–484, title IV, §408(b)(1), 90 Stat. 2281; amended Dec. 19, 1977, Pub. L. 95–215, §5, 91 Stat. 1506; Nov. 9, 1978, Pub. L. 95–623, §12(c), 92 Stat. 3457; Nov. 10, 1978, Pub. L. 95–626, title I, §113(b), 92 Stat. 3563; July 10, 1979, Pub. L. 96–32, §7(i), 93 Stat. 84; renumbered §338A and amended Aug. 13, 1981, Pub. L. 97–35, title XXVII, §2709(a), (b), 95 Stat. 908; Oct. 22, 1985, Pub. L. 99–129, title II, §210(b), 99 Stat. 537; Nov. 4, 1988, Pub. L. 100–607, title VI, §629(a)(2), 102 Stat. 3146; Nov. 5, 1990, Pub. L. 101–509, title V, §529 \[title I, §101(b)(4)(K)\], 104 Stat. 1427, 1440; Nov. 16, 1990, Pub. L. 101–597, title II, §201, title IV, §401(b)\[(a)\], 104 Stat. 3021, 3035.)
 
@@ -198,7 +198,7 @@ Pub. L. 101–597, §201(d)(2)(C), added par. (6).
 
 Subsec. (c). Pub. L. 97–35, §2709(b)(2), (3), substituted “254<i>o</i>” for “294w” in par. (1), and inserted provisions relating to information concerning meeting the service obligation in par. (2).
 
-Subsec. (f). Pub. L. 97–35, §2709(b)(4)–(6), in par. (1) substituted reference to sections 254d to 254h and 254j of this title, for reference to subpart II of part D of subchapter II of this chapter, in par. (2) substituted reference to sections 254d to 254h, 254j and 254k of this title, for reference to subpart II of part D of subchapterII of this chapter, and in par. (3) substituted “254<i>o</i>” for “294w”.
+Subsec. (f). Pub. L. 97–35, §2709(b)(4)–(6), in par. (1) substituted reference to sections 254d to 254h and 254j of this title, for reference to subpart II of part D of subchapter II of this chapter, in par. (2) substituted reference to sections 254d to 254h, 254j and 254k of this title, for reference to subpart II of part D of subchapter II of this chapter, and in par. (3) substituted “254<i>o</i>” for “294w”.
 
 Subsec. (j). Pub. L. 97–35, §2709(b)(7), struck out subsec. (j) which related to consultation and participation of schools.
 

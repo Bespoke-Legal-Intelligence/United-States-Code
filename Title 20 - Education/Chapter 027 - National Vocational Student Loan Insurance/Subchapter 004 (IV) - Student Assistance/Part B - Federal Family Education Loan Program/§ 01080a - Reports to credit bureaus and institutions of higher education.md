@@ -12,7 +12,7 @@ For the purpose of promoting responsible repayment of loans covered by Federal l
 
 #### (b) Additional information
 
-Such agreements may also provide for the disclosure by such organizations to the Secretary or a guaranty agency, whichever insures or guarantees a loan, upon receipt of a notice under subsection (a)(2) of this section that such a loan is in default, of information concerning the borrower's location or other information which may assist the Secretary, the guaranty agency, the eligible lender, or the subsequent holder in collecting the loan.
+Such agreements may also provide for the disclosure by such organizations to the Secretary or a guaranty agency, whichever insures or guarantees a loan, upon receipt of a notice under subsection (a)(2) of this section that sucha loan is in default, of information concerning the borrower's location or other information which may assist the Secretary, the guaranty agency, the eligible lender, or the subsequent holder in collecting the loan.
 
 #### (c) Contents of agreements
 

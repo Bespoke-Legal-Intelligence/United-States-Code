@@ -262,7 +262,7 @@ Purposes.—The purposes of this title \[see Tables for classification\] are to�
 
 Ex. Ord. No. 12661, Dec. 27, 1988, 54 F.R. 779, as amended by Ex. Ord. No. 12697, Dec. 22, 1989, 54 F.R. 53037; Ex. Ord. No. 12716, May 24, 1990, 55 F.R. 21831; Ex. Ord. No. 12774, Sept. 27, 1991, 56 F.R. 49835, provided:
 
-By virtue of the authority vested in me as President by the Constitution and laws of the United States of America, including the Omnibus Trade and Competitiveness Act of 1988 (P.L. 100–418, 102 Stat. 1107) (“Omnibus Trade Act”) \[see Short Title note above\], the Tariff Act of 1930 (Chapter 497, 46 Stat. 590, June 17, 1930), as amended (“Tariff Act”) \[19 U.S.C. 1202 et seq.\], the National Defense Authorization Act, Fiscal Year 1989 (P.L. 100–456, 102 Stat. 1918) (“Defense Authorization Act”) \[see Tables for classification\], section 301 of Title 3 of the United States Code, and, in general, to ensure that the international trade policy of the United States shall be conducted and administered in a way that achieves the economic, foreign policy, and national security objectives of the United States and in a coordinated manner under the direction of the President, it is hereby ordered as follows:
+By virtue of the authority vested in me as President by the Constitution and laws of the United States of America, including the Omnibus Trade and Competitiveness Act of 1988 (P.L. 100–418, 102 Stat. 1107) (“Omnibus Trade Act”) \[see Short Title note above\], the Tariff Act of 1930 (Chapter 497, 46 Stat. 590, June 17, 1930), as amended (“Tariff Act”) \[19 U.S.C. 1202 et seq.\], the National Defense Authorization Act, Fiscal Year 1989 (P.L. 100–456, 102 Stat. 1918) (“Defense Authorization Act”) \[see Tables for classification\], section 301 of Title3 of the United States Code, and, in general, to ensure that the international trade policy of the United States shall be conducted and administered in a way that achieves the economic, foreign policy, and national security objectives of the United States and in a coordinated manner under the direction of the President, it is hereby ordered as follows:
 
 #### PART I—TRADE, CUSTOMS, AND TARIFF LAWS
 
@@ -274,7 +274,7 @@ Sec. 1–301. <i>Steel Imports</i>. The functions vested in the President by sec
 
 Sec. 1–401. <i>Telecommunications Trade</i>. The functions vested in the President by sections 1375 and 1376(e) of the Omnibus Trade Act \[19 U.S.C. 3104, 3105(e)\], regarding certain telecommunications negotiations as may be ordered by the President and reports thereon to Congressional Committees, are delegated to the United States Trade Representative.
 
-Sec. 1–501. <i>Uniform Fee on Imports</i>. The functions vested in the President by section 1428 of the Omnibus Trade Act \[19 U.S.C. 2397, 19 U.S.C. 2397 note\], regarding negotiations to obtain authority under the GeneralAgreement on Tariffs and Trade to impose a small uniform fee on imports, are delegated to the United States Trade Representative.
+Sec. 1–501. <i>Uniform Fee on Imports</i>. The functions vested in the President by section 1428 of the Omnibus Trade Act \[19 U.S.C. 2397, 19 U.S.C. 2397 note\], regarding negotiations to obtain authority under the General Agreement on Tariffs and Trade to impose a small uniform fee on imports, are delegated to the United States Trade Representative.
 
 #### PART II—EXPORT ENHANCEMENT
 
@@ -348,7 +348,7 @@ Sec. 3–401. \[Revoked by Ex. Ord. No. 12774, §3(a), Sept. 27, 1991, 56 F.R. 4
 
 Sec. 4–101. <i>Buy American Act of 1988.</i>
 
-(1) The functions vested in the President by section 7002 of the Omnibus Trade Act, regarding section 4(d) of Title III of the Buy American Act of 1933, as amended (41 U.S.C. 10a–10d) \[41 U.S.C. 10b–1\], are delegated to the Secretary of Defense.
+(1) The functions vested in the President by section 7002 of the Omnibus Trade Act, regarding section 4(d) of Title III of the Buy American Act of 1933, as amended (41 U.S.C. 10a–10d) \[former 41 U.S.C. 10b–1\], are delegated to the Secretary of Defense.
 
 (2) The functions vested in the President by section 7003 of the Omnibus Trade Act, regarding the annual report required by subsection (d) of section 305 of the Trade Agreements Act of 1979, as amended (19 U.S.C. 2515), are delegated to the United States Trade Representative.
 

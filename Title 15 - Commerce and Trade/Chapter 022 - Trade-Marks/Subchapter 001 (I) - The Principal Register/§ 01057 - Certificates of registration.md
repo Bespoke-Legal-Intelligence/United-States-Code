@@ -10,7 +10,7 @@ A certificate of registration of a mark upon the principal register provided by 
 
 #### (c) Application to register mark considered constructive use
 
-Contingent on the registration of a mark on the principal register provided by this chapter, the filing of the application to register such mark shall constitute constructive use of the mark, conferring a right of priority, nationwide in effect, on or in connection with the goods or services specified in the registration against any other person except for a person whose mark has not been abandoned and who, prior to such filing—
+Contingent on the registration of a mark on the principal register provided by this chapter, the filing of the application to register such mark shall constitute constructive use of themark, conferring a right of priority, nationwide in effect, on or in connection with the goods or services specified in the registration against any other person except for a person whose mark has not been abandoned and who, prior to such filing—
 
 &emsp;(1) has used the mark;
 

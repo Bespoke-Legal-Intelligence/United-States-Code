@@ -28,7 +28,7 @@ In any investigation or inquiry conducted for the purpose of ascertaining the co
 
 &emsp;&emsp;(D) any other person he may deem proper;
 
-> &emsp;to appear before the appropriate customs officer at the time and place within the customs territory of the United States specified in the summons (except that no witness may be required to appear at any place more than one hundred miles distant from the place where he was served with the summons), to produce records, as defined in subsection (c)(1)(A) of this section, and to give such testimony, under oath, as may be relevant to such investigation or inquiry; and
+> &emsp;to appear before the appropriate customs officer at the time and place within the customs territory of the United States specified in the summons (except that no witness may be required to appear at any place more than one hundred miles distant from the place where he was served with the summons), to produce records, as defined in subsection (d)(1)(A) of this section, and to give such testimony, under oath, as may be relevant to such investigation or inquiry; and
 
 &emsp;(3) take, or cause to be taken, such testimony of the person concerned, under oath, as may be relevant to such investigation or inquiry.
 
@@ -38,15 +38,15 @@ In any investigation or inquiry conducted for the purpose of ascertaining the co
 
 (2) Before commencing an audit, the Customs Service auditor shall inform the party to be audited of his right to an entry conference at which time the purpose will be explained and an estimated termination date set. Upon completion of on-site audit activities, the Customs Service auditor shall schedule a closing conference to explain the preliminary results of the audit.
 
-(3) Except as provided in paragraph (5), if the estimated or actual termination date for an audit passes without the Customs Service auditor providing a closing conference to explain the results of the audit, the person being audited may petition in writing for such a conference to the appropriate regional commissioner, who, upon receipt of such a request, shall provide for such a conference to be held within 15 days after the date of receipt.
+(3) Except as provided in paragraph (5), if the estimated or actual termination date for an audit passes without the Customs Service auditor providing a closing conference to explain the results of the audit, the person being audited may petition in writing for such a conference to the officer designated pursuant to regulations, who, upon receipt of such a request, shall provide for such a conference to be held within 15 days after the date of receipt.
 
-(4) Except as provided in paragraph (5), the Customs Service auditor shall complete the formal written audit report within 90 days following the closing conference unless the appropriate regional commissioner provides written notice to the person being audited of the reason for any delay and the anticipated completion date. After application of any exemption contained in section 552 of title 5, a copy of the formal written audit report shall be sent to the person audited no later than 30 days following completion of the report.
+(4) Except as provided in paragraph (5), the Customs Service auditor shall complete the formal written audit report within 90 days following the closing conference unless the officer designated pursuant to regulations provides written notice to the person being audited of the reason for any delay and the anticipated completion date. After application of any exemption contained in section 552 of title 5, a copy of the formal written audit report shall be sent to the person audited no later than 30 days following completion of the report.
 
 (5) Paragraphs (3) and (4) shall not apply after the Customs Service commences a formal investigation with respect to the issue involved.
 
 #### (c) Service of summons
 
-A summons issued pursuant to this section may be served by any person designated in the summons to serve it. Service upon a natural person may be made by personal delivery of the summons to him. Service may be made upon a domestic or foreign corporation or upon a partnership or other unincorporated association which is subject to suit under a common name, by delivering the summons to an officer, or managing or general agent, or to any other agent authorized by appointment or by law to receive service of process. The certificate of service signed by the person serving the summons is prima facie evidence of the facts it states on the hearing of an application for the enforcement of the summons. When the summons requires the production of records, such records shall be described in the summons with reasonable specificity.
+A summons issued pursuant to this section may be served by any person designated in the summons to serve it. Service upon a natural person may be made by personal delivery of thesummons to him. Service may be made upon a domestic or foreign corporation or upon a partnership or other unincorporated association which is subject to suit under a common name, by delivering the summons to an officer, or managing or general agent, or to any other agent authorized by appointment or by law to receive service of process. The certificate of service signed by the person serving the summons is prima facie evidence of the facts it states on the hearing of an application for the enforcement of the summons. When the summons requires the production of records, such records shall be described in the summons with reasonable specificity.
 
 #### (d) Special procedures for third-party summonses
 
@@ -114,7 +114,7 @@ The Customs Service shall identify and publish a list of the records or entry in
 
 #### (2) Certification
 
-&emsp;A recordkeeper may be certified as a participant in the recordkeeping compliance program after meeting the general recordkeeping requirements established under the program or after negotiating an alternative program suited to the needs of the recordkeeper and the Customs Service. Certification requirements shall take into account the size and nature of the importing business and the volume of imports. In order to be certified, the recordkeeper must be able to demonstrate that it—
+&emsp;A recordkeeper may be certified as a participant in the recordkeeping compliance programafter meeting the general recordkeeping requirements established under the program or after negotiating an alternative program suited to the needs of the recordkeeper and the Customs Service. Certification requirements shall take into account the size and nature of the importing business and the volume of imports. In order to be certified, the recordkeeper must be able to demonstrate that it—
 
 &emsp;&emsp;(A) understands the legal requirements for recordkeeping, including the nature of the records required to be maintained and produced and the time periods involved;
 
@@ -186,7 +186,7 @@ The Customs Service shall identify and publish a list of the records or entry in
 
 &emsp;&emsp;&emsp;(ii) is generally in compliance with the appropriate procedures and requirements of the program;
 
-> &emsp;&emsp;does not produce a demanded record or information for a specific release or provide the information by acceptable alternative means, the Customs Service, in the absence of willfulness or repeated violations, shall issue a written notice of the violation to the recordkeeper in lieu of a monetary penalty. Repeated violations by the recordkeeper may result in the issuance of penalties and removal of certification under the program until corrective action, satisfactory to the Customs Service, is taken.
+> &emsp;&emsp;does not produce a demanded record or information for a specific release or provide the information by acceptable alternative means, the Customs Service, in the absence of willfulness or repeated violations, shallissue a written notice of the violation to the recordkeeper in lieu of a monetary penalty. Repeated violations by the recordkeeper may result in the issuance of penalties and removal of certification under the program until corrective action, satisfactory to the Customs Service, is taken.
 
 #### (B) Contents of notice
 
@@ -206,7 +206,7 @@ The Customs Service shall identify and publish a list of the records or entry in
 
 &emsp;&emsp;The Secretary shall promulgate regulations to implement this paragraph. Such regulations may specify the time periods for compliance with a demand for information and provide guidelines which define repeated violations for purposes of this paragraph. Any penalty issued for a recordkeeping violation shall take into account the degree of compliance compared to the total number of importations, the nature of the demanded records and the recordkeeper's cooperation.
 
-(June 17, 1930, ch. 497, title IV, §509, 46 Stat. 733; June 25, 1948, ch. 646, §26, 62 Stat. 990; June 2, 1970, Pub. L. 91–271, title III, §301(n), 84 Stat. 289; Oct. 3, 1978, Pub. L. 95–410, title I, §105, 92 Stat. 889; Oct. 27, 1986, Pub. L. 99–570, title III, §3117,100 Stat. 3207–84; Dec. 8, 1993, Pub. L. 103–182, title II, §205(b), title VI, §615, 107 Stat. 2094, 2175.)
+(June 17, 1930, ch. 497, title IV, §509, 46 Stat. 733; June 25, 1948, ch. 646, §26, 62 Stat. 990; June 2, 1970, Pub. L. 91–271, title III, §301(n), 84 Stat. 289; Oct. 3, 1978, Pub. L. 95–410, title I, §105, 92 Stat. 889; Oct. 27, 1986, Pub. L. 99–570, title III, §3117, 100 Stat. 3207–84; Dec. 8, 1993, Pub. L. 103–182, title II, §205(b), title VI, §615, 107 Stat. 2094, 2175; Oct. 11, 1996, Pub. L. 104–295, §3(a)(1), (10), 110 Stat. 3515, 3516.)
 
 #### References in Text
 
@@ -219,6 +219,10 @@ Provisions substantially the same, in most respects, as those in this section, w
 Prior provisions similar to those in this section and section 1510 of this title were made by R.S. §§2922–2924, repealed by section 29 of the Customs Administrative Act of 1890, 26 Stat. 141.
 
 #### Amendments
+
+1996—Subsec. (a)(2). Pub. L. 104–295, §3(a)(1), substituted “(d)(1)(A)” for “(c)(1)(A)” in concluding provisions.
+
+Subsec. (b)(3), (4). Pub. L. 104–295, §3(a)(10), substituted “officer designated pursuant to regulations” for “appropriate regional commissioner”.
 
 1993—Subsec. (a). Pub. L. 103–182, §615(1)(A), substituted “, fees and taxes” for “and taxes” in two places in introductory provisions.
 
@@ -256,11 +260,15 @@ Subsecs. (e) to (g). Pub. L. 103–182, §615(5), added subsecs. (e) to (g).
 
 Subsec. (c)(1)(A). Pub. L. 99–570, §3117(2), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “The term ‘records’ includes statements, declarations, or documents required to be kept under section 1508 of this title.”
 
-1978—Pub. L. 95–410 substituted subsec. (a) to (c) provisions for examination of books and witnesses for prior provisions for examination of importer and others, which authorized appropriate customs officers to issue citations for examination under oath of any owner, importer, consignee, agent, or other person upon any material matter or thing respecting any imported merchandise then under consideration or previously imported within one year, in ascertaining the classification or the value thereof or the rate or amount of duty and to require production of any letters, accounts, contracts, invoices, or other documents relating to the merchandise, and the reduction of the testimony to writing, required the testimony to be filed and preserved under Customs Court rules, and authorized consideration of the evidence in subsequent proceedings relating to the merchandise.
+1978—Pub. L. 95–410 substituted subsec. (a) to (c) provisions for examination of books and witnesses for prior provisions for examination of importer and others, which authorized appropriate customs officers to issue citations for examination under oath of any owner, importer, consignee, agent, or other person upon any material matter or thing respecting any imported merchandise then under consideration or previously imported within one year, in ascertaining the classification or the value thereof or the rate oramount of duty and to require production of any letters, accounts, contracts, invoices, or other documents relating to the merchandise, and the reduction of the testimony to writing, required the testimony to be filed and preserved under Customs Court rules, and authorized consideration of the evidence in subsequent proceedings relating to the merchandise.
 
 1970—Pub. L. 91–271 substituted “Appropriate customs officer” for “Collectors and appraisers”.
 
 1948—Act June 25, 1948, struck out “and judges and divisions of the United States Customs Court” after “Collectors and appraisers” in first sentence.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–295 applicable as of Dec. 8, 1993, see section 3(b) of Pub. L. 104–295, set out as a note under section 1321 of this title.
 
 #### Effective Date of 1993 Amendment
 

@@ -32,7 +32,7 @@
 
 #### (C) Carryover of capital losses from nonelection years denied
 
-&emsp;&emsp;In computing the net capital gain referred to in paragraph (1)(B), section 1212 shall not apply to losses incurred in or with respect to taxable years before the first taxable year to which the election applies.
+&emsp;&emsp;In computing the net capital gain referred to in paragraph (1)(B), section 1212 shall notapply to losses incurred in or with respect to taxable years before the first taxable year to which the election applies.
 
 #### (b) Years to which election applies
 
@@ -58,7 +58,7 @@ For purposes of this section—
 
 #### (d) Treatment of distributed and undistributed capital gains by a qualified shareholder
 
-Every qualified shareholder of a foreign investment company for any taxable year of suchcompany with respect to which an election pursuant to subsection (a) is in effect shall include, in computing his long-term capital gains—
+Every qualified shareholder of a foreign investment company for any taxable year of such company with respect to which an election pursuant to subsection (a) is in effect shall include, in computing his long-term capital gains—
 
 &emsp;(1) for his taxable year in which received, his pro rata share of the distributed portion of the net capital gain for such taxable year of such company, and
 

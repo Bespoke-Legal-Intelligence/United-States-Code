@@ -1,6 +1,6 @@
 ### §640c–3. Payments; interest
 
-(a) Notwithstanding any other provision of law, the Secretary of the Interior shall not, indisbursing funds provided under sections 640a to 640c–3 of this title, use any method of payment which was not used during fiscal year 1987 in the disbursement of funds provided under sections 640a to 640c–3 of this title.
+(a) Notwithstanding any other provision of law, the Secretary of the Interior shall not, in disbursing funds provided under sections 640a to 640c–3 of this title, use any method of payment which was not used during fiscal year 1987 in the disbursement of funds provided under sections 640a to 640c–3 of this title.
 
 (b)(1)(A) Notwithstanding any provision of law other than subparagraph (B), any interest or investment income that accrues on any funds provided under sections 640a to 640c–3 of this title after such funds are paid to the Navajo Community College and before such funds are expended for the purpose for which such funds were provided under sections 640a to 640c–3 of this title shall be the property of the Navajo Community College and shall not be taken into account by any officer or employee of the Federal Government in determining whether to provide assistance, or the amount of assistance, to the Navajo Community College under any provision of Federal law.
 

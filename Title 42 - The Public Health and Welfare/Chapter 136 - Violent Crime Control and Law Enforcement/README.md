@@ -2,26 +2,52 @@
 
 #### SUBCHAPTER I—PRISONS
 
-#### Part A—Violent Offender Incarceration and Truth in Sentencing Incentive Grants
+#### Part A—Violent Offender Incarceration and Truth-in-Sentencing Incentive Grants
 
 | Sec. |  |
 | :--- | ---: |
-| [13701\.](Subchapter%20001%20%28I%29%20-%20Prisons/Part%20A%20-%20Violent%20Offender%20Incarceration%20and%20Truth%20in%20Sentencing%20Incentive%20Grants/%C2%A7%2013701%20-%20Grants%20for%20correctional%20facilities.md) | Grants for correctional facilities. |
-| (a) | Grant authorization. |
-| (b) | Eligibility. |
-| (c) | Consideration. |
-| [13702\.](Subchapter%20001%20%28I%29%20-%20Prisons/Part%20A%20-%20Violent%20Offender%20Incarceration%20and%20Truth%20in%20Sentencing%20Incentive%20Grants/%C2%A7%2013702%20-%20Truth%20in%20Sentencing%20Incentive%20Grants.md) | Truth in Sentencing Incentive Grants. |
-| (a) | Truth in Sentencing Grant program. |
-| (b) | Allocation of Truth in Sentencing Incentive funds. |
-| [13703\.](Subchapter%20001%20%28I%29%20-%20Prisons/Part%20A%20-%20Violent%20Offender%20Incarceration%20and%20Truth%20in%20Sentencing%20Incentive%20Grants/%C2%A7%2013703%20-%20Violent%20Offender%20Incarceration%20Grants.md) | Violent Offender Incarceration Grants. |
-| (a) | Violent Offender Incarceration Grant program. |
-| (b) | Allocation of Violent Offender Incarceration funds. |
-| [13704\.](Subchapter%20001%20%28I%29%20-%20Prisons/Part%20A%20-%20Violent%20Offender%20Incarceration%20and%20Truth%20in%20Sentencing%20Incentive%20Grants/%C2%A7%2013704%20-%20Matching%20requirement.md) | Matching requirement. |
-| [13705\.](Subchapter%20001%20%28I%29%20-%20Prisons/Part%20A%20-%20Violent%20Offender%20Incarceration%20and%20Truth%20in%20Sentencing%20Incentive%20Grants/%C2%A7%2013705%20-%20Rules%20and%20regulations.md) | Rules and regulations. |
-| [13706\.](Subchapter%20001%20%28I%29%20-%20Prisons/Part%20A%20-%20Violent%20Offender%20Incarceration%20and%20Truth%20in%20Sentencing%20Incentive%20Grants/%C2%A7%2013706%20-%20Technical%20assistance%20and%20training.md) | Technical assistance and training. |
-| [13707\.](Subchapter%20001%20%28I%29%20-%20Prisons/Part%20A%20-%20Violent%20Offender%20Incarceration%20and%20Truth%20in%20Sentencing%20Incentive%20Grants/%C2%A7%2013707%20-%20Evaluation.md) | Evaluation. |
-| [13708\.](Subchapter%20001%20%28I%29%20-%20Prisons/Part%20A%20-%20Violent%20Offender%20Incarceration%20and%20Truth%20in%20Sentencing%20Incentive%20Grants/%C2%A7%2013708%20-%20Definitions.md) | Definitions. |
-| [13709\.](Subchapter%20001%20%28I%29%20-%20Prisons/Part%20A%20-%20Violent%20Offender%20Incarceration%20and%20Truth%20in%20Sentencing%20Incentive%20Grants/%C2%A7%2013709%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+| [13701\.](Subchapter%20001%20%28I%29%20-%20Prisons/Part%20A%20-%20Violent%20Offender%20Incarceration%20and%20Truth-in-Sentencing%20Incentive%20Grants/%C2%A7%2013701%20-%20Definitions.md) | Definitions. |
+| [13702\.](Subchapter%20001%20%28I%29%20-%20Prisons/Part%20A%20-%20Violent%20Offender%20Incarceration%20and%20Truth-in-Sentencing%20Incentive%20Grants/%C2%A7%2013702%20-%20Authorization%20of%20grants.md) | Authorization of grants. |
+| (a) | In general. |
+| (b) | Regional compacts. |
+| (c) | Applicability. |
+| [13703\.](Subchapter%20001%20%28I%29%20-%20Prisons/Part%20A%20-%20Violent%20Offender%20Incarceration%20and%20Truth-in-Sentencing%20Incentive%20Grants/%C2%A7%2013703%20-%20Violent%20offender%20incarceration%20grants.md) | Violent offender incarceration grants. |
+| (a) | Eligibility for minimum grant. |
+| (b) | Additional amount for increased percentage of persons sentenced and time served. |
+| (c) | Additional amount for increased rate of incarceration and percentage of sentence served. |
+| [13704\.](Subchapter%20001%20%28I%29%20-%20Prisons/Part%20A%20-%20Violent%20Offender%20Incarceration%20and%20Truth-in-Sentencing%20Incentive%20Grants/%C2%A7%2013704%20-%20Truth-in-sentencing%20incentive%20grants.md) | Truth-in-sentencing incentive grants. |
+| (a) | Eligibility. |
+| (b) | Exception. |
+| [13705\.](Subchapter%20001%20%28I%29%20-%20Prisons/Part%20A%20-%20Violent%20Offender%20Incarceration%20and%20Truth-in-Sentencing%20Incentive%20Grants/%C2%A7%2013705%20-%20Special%20rules.md) | Special rules. |
+| (a) | Sharing of funds with counties and other units of local government. |
+| (b) | Additional requirement. |
+| (c) | Funds for juvenile offenders. |
+| (d) | Private facilities. |
+| (e) | “Part 1 violent crime” defined. |
+| [13706\.](Subchapter%20001%20%28I%29%20-%20Prisons/Part%20A%20-%20Violent%20Offender%20Incarceration%20and%20Truth-in-Sentencing%20Incentive%20Grants/%C2%A7%2013706%20-%20Formula%20for%20grants.md) | Formula for grants. |
+| (a) | Allocation of violent offender incarceration grants under section 13703. |
+| (b) | Allocation of truth-in-sentencing grants under section 13704. |
+| (c) | Unavailable data. |
+| (d) | Regional compacts. |
+| [13707\.](Subchapter%20001%20%28I%29%20-%20Prisons/Part%20A%20-%20Violent%20Offender%20Incarceration%20and%20Truth-in-Sentencing%20Incentive%20Grants/%C2%A7%2013707%20-%20Accountability.md) | Accountability. |
+| (a) | Fiscal requirements. |
+| (b) | Administrative provisions. |
+| [13708\.](Subchapter%20001%20%28I%29%20-%20Prisons/Part%20A%20-%20Violent%20Offender%20Incarceration%20and%20Truth-in-Sentencing%20Incentive%20Grants/%C2%A7%2013708%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+| (a) | In general. |
+| (b) | Limitations on funds. |
+| [13709\.](Subchapter%20001%20%28I%29%20-%20Prisons/Part%20A%20-%20Violent%20Offender%20Incarceration%20and%20Truth-in-Sentencing%20Incentive%20Grants/%C2%A7%2013709%20-%20Payments%20for%20incarceration%20on%20tribal%20lands.md) | Payments for incarceration on tribal lands. |
+| (a) | Reservation of funds. |
+| (b) | Grants to Indian tribes. |
+| (c) | Applications. |
+| [13710\.](Subchapter%20001%20%28I%29%20-%20Prisons/Part%20A%20-%20Violent%20Offender%20Incarceration%20and%20Truth-in-Sentencing%20Incentive%20Grants/%C2%A7%2013710%20-%20Payments%20to%20eligible%20States%20for%20incarceration%20of%20criminal%20aliens.md) | Payments to eligible States for incarceration of criminal aliens. |
+| (a) | In general. |
+| (b) | Authorization of appropriations. |
+| (c) | Administration. |
+| (d) | Report to Congress. |
+| [13711\.](Subchapter%20001%20%28I%29%20-%20Prisons/Part%20A%20-%20Violent%20Offender%20Incarceration%20and%20Truth-in-Sentencing%20Incentive%20Grants/%C2%A7%2013711%20-%20Support%20of%20Federal%20prisoners%20in%20non-Federal%20institutions.md) | Support of Federal prisoners in non-Federal institutions. |
+| (a) | In general. |
+| (b) | Authorization of appropriations. |
+| [13712\.](Subchapter%20001%20%28I%29%20-%20Prisons/Part%20A%20-%20Violent%20Offender%20Incarceration%20and%20Truth-in-Sentencing%20Incentive%20Grants/%C2%A7%2013712%20-%20Report%20by%20Attorney%20General.md) | Report by Attorney General. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -156,7 +182,7 @@
 | (i) | Investigations and inspections. |
 | (j) | Federal share. |
 | (k) | Evaluation. |
-| (<i>l)</i> | Definitions. |
+| (<i>l</i>) | Definitions. |
 | [13793\.](Subchapter%20002%20%28II%29%20-%20Crime%20Prevention/Part%20D%20-%20Family%20and%20Community%20Endeavor%20Schools%20Grant%20Program/%C2%A7%2013793%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | (a) | In general. |
 | (b) | Programs. |
@@ -481,6 +507,10 @@ I74subpart 1—education and training for judges and court personnel in state co
 | (a) | Report. |
 | (b) | Use of components. |
 | [14015\.](Subchapter%20003%20%28III%29%20-%20Violence%20Against%20Women/Part%20E%20-%20Violence%20Against%20Women%20Act%20Improvements/%C2%A7%2014015%20-%20Report%20on%20recordkeeping%20relating%20to%20domestic%20violence.md) | Report on recordkeeping relating to domestic violence. |
+| [14016\.](Subchapter%20003%20%28III%29%20-%20Violence%20Against%20Women/Part%20E%20-%20Violence%20Against%20Women%20Act%20Improvements/%C2%A7%2014016%20-%20Enforcement%20of%20statutory%20rape%20laws.md) | Enforcement of statutory rape laws. |
+| (a) | Sense of Senate. |
+| (b) | Justice Department program on statutory rape. |
+| (c) | Violence against women initiative. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -550,6 +580,20 @@ I74subpart 1—education and training for judges and court personnel in state co
 | (d) | Release of information. |
 | (e) | Immunity for good faith conduct. |
 | (f) | Compliance. |
+| (g) | Fingerprints. |
+| [14072\.](Subchapter%20006%20%28VI%29%20-%20Crimes%20Against%20Children/%C2%A7%2014072%20-%20FBI%20database.md) | FBI database. |
+| (a) | Definitions. |
+| (b) | Establishment. |
+| (c) | Registration requirement. |
+| (d) | Length of registration. |
+| (e) | Verification. |
+| (f) | Community notification. |
+| (g) | Notification of FBI of changes in residence. |
+| (h) | Fingerprints. |
+| (i) | Penalty. |
+| (j) | Release of information. |
+| (k) | Notification upon release. |
+| [14073\.](Subchapter%20006%20%28VI%29%20-%20Crimes%20Against%20Children/%C2%A7%2014073%20-%20Immunity%20for%20good%20faith%20conduct.md) | Immunity for good faith conduct. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

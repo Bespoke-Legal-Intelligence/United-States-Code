@@ -26,7 +26,7 @@ To implement the policy enunciated in subsection (a) of this section, the Congre
 
 &emsp;(3) It is further an appropriate Federal function to support scientific and technological efforts which are expected to provide results beneficial to the public but which the private sector may be unwilling or unable to support.
 
-&emsp;(4) Scientific and technological activities which may be properly supported exclusively by the Federal Government should be distinguished from those in which interests are shared with State and local governments and the private sector. Among these entities, cooperative relationships should be established which encourage the appropriate sharing of science and technology decisionmaking, funding support, and program planning and execution.
+&emsp;(4) Scientific and technological activities which may be properly supported exclusivelyby the Federal Government should be distinguished from those in which interests are shared with State and local governments and the private sector. Among these entities, cooperative relationships should be established which encourage the appropriate sharing of science and technology decisionmaking, funding support, and program planning and execution.
 
 &emsp;(5) The Federal Government should support and utilize engineering and its various disciplines and make maximum use of the engineering community, whenever appropriate, as an essential element in the Federal policymaking process.
 
@@ -54,7 +54,7 @@ The Congress declares that, in order to expedite and facilitate the implementati
 
 &emsp;(9) The Federal Government should support applied scientific research, when appropriate, in proportion to the probability of its usefulness, insofar as this probability can be determined; but while maximizing the beneficial consequences of technology, the Government should act to minimize foreseeable injurious consequences.
 
-&emsp;(10) Federal departments, agencies, and instrumentalities should establish procedures toinsure among them the systematic interchange of scientific data and technological findings developed under their programs.
+&emsp;(10) Federal departments, agencies, and instrumentalities should establish procedures to insure among them the systematic interchange of scientific data and technological findings developed under their programs.
 
 (Pub. L. 94–282, title I, §102, May 11, 1976, 90 Stat. 460.)
 

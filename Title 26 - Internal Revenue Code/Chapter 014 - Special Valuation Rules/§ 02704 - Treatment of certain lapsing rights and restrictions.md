@@ -82,9 +82,17 @@ For purposes of this section—
 
 #### (3) Attribution
 
-&emsp;The rule of section 2701(e)(3)(A) shall apply for purposes of determining the interests held by any individual.
+&emsp;The rule of section 2701(e)(3) shall apply for purposes of determining the interests held by any individual.
 
-(Added Pub. L. 101–508, title XI, §11602(a), Nov. 5, 1990, 104 Stat. 1388–498.)
+(Added Pub. L. 101–508, title XI, §11602(a), Nov. 5, 1990, 104 Stat. 1388–498; amended Pub. L. 104–188, title I, §1702(f)(3)(C), Aug. 20, 1996, 110 Stat. 1871.)
+
+#### Amendments
+
+1996—Subsec. (c)(3). Pub. L. 104–188 substituted “section 2701(e)(3)” for “section 2701(e)(3)(A)”.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–188 effective, except as otherwise expressly provided, as if included in the provision of the Revenue Reconciliation Act of 1990, Pub. L. 101–508, title XI, to which such amendment relates, see section 1702(i) of Pub. L. 104–188, set out as a note under section 38 of this title.
 
 #### Section Referred to in Other Sections
 
@@ -119,9 +127,9 @@ This section is referred to in section 2702 of this title.
 
 Pub. L. 98–67 repealed amendments made by Pub. L. 97–248. See 1982 Amendment note below.
 
-1982—Pub. L. 97–248, title III, §§307(b)(1), (6), 308(a), Sept. 3, 1982, 96 Stat. 590, 591, provided that, applicable to payments of interest, dividends, and patronage dividends paid or credited after June 30, 1983, the heading of subtitle C is amended to read “Employment Taxes and Collection of Income Tax at Source”, the caption of chapter 24 is amended by striking out “On Wages”, and the caption of chapter 25 is amended by inserting “And Collection Of Income Taxes At Source” after “Employment Taxes”. Section 102(a), (b) of Pub. L. 98–67, title I, Aug. 5, 1983, 97 Stat. 369, repealed subtitle A (§§301–308) of title III of Pub. L. 97–248 as of the close of June 30, 1983, and provided that the Internal Revenue Code of 1954 \[now 1986\] \[this title\] shall be applied and administered (subject to certain exceptions) as if such subtitle A (and the amendments made by such subtitle A) had not been enacted.
+1982—Pub. L. 97–248, title III, §§307(b)(1), (6), 308(a), Sept. 3, 1982, 96 Stat. 590, 591, provided that, applicable to payments of interest, dividends, and patronage dividends paid or credited after June 30, 1983, the heading of subtitle C is amended to read “Employment Taxes and Collection of Income Tax at Source”, the captionof chapter 24 is amended by striking out “On Wages”, and the caption of chapter 25 is amended by inserting “And Collection Of Income Taxes At Source” after “Employment Taxes”. Section 102(a), (b) of Pub. L. 98–67, title I, Aug. 5, 1983, 97 Stat. 369, repealed subtitle A (§§301–308) of title III of Pub. L. 97–248 as of the close of June 30, 1983, and provided that the Internal Revenue Code of 1954 \[now 1986\] \[this title\] shall be applied and administered (subject to certain exceptions) as if such subtitle A (and the amendments made by such subtitle A) had not been enacted.
 
 #### Subtitle Referred to in Other Sections
 
-This subtitle is referred to in sections 1314, 1398, 6305, 7508, 7512, 7519, 7873 of this title; title 33 section 902.
+This subtitle is referred to in sections 1314, 1398, 6305, 6656, 7508, 7512, 7519, 7873 of this title; title 33 section 902.
 

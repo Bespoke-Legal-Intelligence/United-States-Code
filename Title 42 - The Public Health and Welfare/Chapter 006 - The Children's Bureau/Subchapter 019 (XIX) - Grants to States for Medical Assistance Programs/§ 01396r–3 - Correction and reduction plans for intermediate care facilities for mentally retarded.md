@@ -12,9 +12,9 @@ If the Secretary finds that an intermediate care facility for the mentally retar
 
 As conditions of approval of any reduction plan submitted pursuant to subsection (a)(2) of this section, the State must—
 
-&emsp;(1) provide for a hearing to be held at the affected facility at least 35 days prior to submission of the reduction plan, with reasonable notice thereof to the staff and residents of thefacility, responsible members of the residents’ families, and the general public;
+&emsp;(1) provide for a hearing to be held at the affected facility at least 35 days prior to submission of the reduction plan, with reasonable notice thereof to the staff and residents of the facility, responsible members of the residents’ families, and the general public;
 
-&emsp;(2) demonstrate that the State has successfully provided home and community services similar to the services proposed to be provided under the reduction plan for similar individuals eligible for medical assistance; and
+&emsp;(2) demonstrate that the State has successfully provided home and community servicessimilar to the services proposed to be provided under the reduction plan for similar individuals eligible for medical assistance; and
 
 &emsp;(3) provide assurances that the requirements of subsection (c) of this section shall be met with respect to the reduction plan.
 

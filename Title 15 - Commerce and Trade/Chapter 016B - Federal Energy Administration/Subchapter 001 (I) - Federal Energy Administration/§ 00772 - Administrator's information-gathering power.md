@@ -2,7 +2,7 @@
 
 #### (a) Comprehensive and particular energy information; categorical groupings; monitoring activity and policy guidance
 
-The Administrator shall collect, assemble, evaluate, and analyze energy information bycategorical groupings, established by the Administrator, of sufficient comprehensiveness and particularity to permit fully informed monitoring and policy guidance with respect to the exercise of his functions under this chapter.
+The Administrator shall collect, assemble, evaluate, and analyze energy information by categorical groupings, established by the Administrator, of sufficient comprehensiveness and particularity to permit fully informed monitoring and policy guidance with respect to the exercise of his functions under this chapter.
 
 #### (b) Information and data to Administrator from owners or operators of facilities or business premises engaged in energy matters
 

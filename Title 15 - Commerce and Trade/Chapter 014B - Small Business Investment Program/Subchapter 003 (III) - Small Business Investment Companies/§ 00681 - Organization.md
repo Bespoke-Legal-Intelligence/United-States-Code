@@ -2,27 +2,81 @@
 
 #### (a) Incorporation and charter under State law, period of succession; area of operations
 
-A small business investment company shall be an incorporated body or a limited partnership organized and chartered or otherwise existing under State law solely for the purpose of performing the functions and conducting the activities contemplated under this subchapter, which, if incorporated, has succession for a period of not less than thirty years unless sooner dissolved by its shareholders, and if a limited partnership, has succession for a period of not less than ten years, and possesses the powers reasonably necessary to perform such functions and conduct such activities. The area in which the company is to conduct its operations, and the establishment of branch offices or agencies (if authorized by the articles), shall be subject to the approval of the Administration.
+A small business investment company shall be an incorporated body, a limited liability company, or a limited partnership organized and chartered or otherwise existing under State law solely for the purpose of performing the functions and conducting the activities contemplated under this subchapter, which, if incorporated, has succession for a period of not less than thirty years unless sooner dissolved by its shareholders, and if a limited partnership, has succession for a period of not less than ten years, and possesses the powers reasonably necessary to perform such functions and conduct such activities. The area in which the company is to conduct its operations, and the establishment of branch offices or agencies (if authorized by the articles), shall be subject to the approval of the Administration.
 
 #### (b) Articles of incorporation; approval
 
 The articles of any small business investment company shall specify in general terms the objects for which the company is formed, the name assumed by such company, the area or areas in which its operations are to be carried on, the place where its principal office is to be located, and the amount and classes of its shares of capital stock. Such articles may contain any other provisions not inconsistent with this chapter that the company may see fit to adopt for the regulation of its business and the conduct of its affairs. Such articles and any amendments thereto adopted from time to time shall be subject to the approval of the Administration.
 
-#### (c) Forwarding of articles for approval or disapproval; matters considered; issuance of license
+#### (c) Issuance of license
 
-The articles and amendments thereto shall be forwarded to the Administration for consideration and approval or disapproval. In determining whether to approve such a company's articles and permit it to operate under the provisions of this chapter, the Administration shall give due regard, among other things, to the need and availability for the financing of small business concerns in the geographic area in which the proposed company is to commence business, the general business reputation and character of the proposed owners and management of the company, and the probability of successful operations of such company including adequate profitability and financial soundness. After consideration of all relevant factors, if it approves the company's articles, the Administration may in its discretion approve the company to operate under the provisions of this chapter and issue the company a license for such operation.
+#### (1) Submission of application
 
-#### (d) Companies financing disadvantaged persons
+&emsp;Each applicant for a license to operate as a small business investment company under this chapter shall submit to the Administrator an application, in a form and including such documentation as may be prescribed by the Administrator.
 
-Notwithstanding any other provision of this chapter, a small business investment company, the investment policy of which is that its investments will be made solely in small business concerns which will contribute to a well-balanced national economy by facilitating ownership in such concerns by persons whose participation in the free enterprise system is hampered because of social or economic disadvantages may be organized and chartered under State business or nonprofit corporation statutes, or formed as a limited partnership, and may be licensed by the Administration to operate under the provisions of this chapter.
+#### (2) Procedures
 
-(Pub. L. 85–699, title III, §301, Aug. 21, 1958, 72 Stat. 691; Pub. L. 86–502, §4, June 11, 1960, 74 Stat. 196; Pub. L. 87–341, §11(a), (b), Oct. 3, 1961, 75 Stat. 756; Pub. L. 90–104, title II, §202, Oct. 11, 1967, 81 Stat. 269; Pub. L. 92–595, §2(b), Oct. 27, 1972, 86 Stat. 1314; Pub. L. 94–305, title I, §106(b)–(d), June 4, 1976, 90 Stat. 666; Pub. L. 95–507, title I, §104, Oct. 24, 1978, 92 Stat. 1758; Pub. L. 100–590, title I, §105, Nov. 3, 1988, 102 Stat. 2993.)
+#### (A) Status
+
+&emsp;&emsp;Not later than 90 days after the initial receipt by the Administrator of an application under this subsection, the Administrator shall provide the applicant with a written report detailing the status of the application and any requirements remaining for completion of the application.
+
+#### (B) Approval or disapproval
+
+&emsp;&emsp;Within a reasonable time after receiving a completed application submitted in accordance with this subsection and in accordance with such requirements as the Administrator may prescribe by regulation, the Administrator shall—
+
+&emsp;&emsp;&emsp;(i) approve the application and issue a license for such operation to the applicant if the requirements of this section are satisfied; or
+
+&emsp;&emsp;&emsp;(ii) disapprove the application and notify the applicant in writing of the disapproval.
+
+#### (3) Matters considered
+
+&emsp;In reviewing and processing any application under this subsection, the Administrator—
+
+&emsp;&emsp;(A) shall determine whether—
+
+&emsp;&emsp;&emsp;(i) the applicant meets the requirements of subsections (a) and (c) of section 682 of this title; and
+
+&emsp;&emsp;&emsp;(ii) the management of the applicant is qualified and has the knowledge, experience, and capability necessary to comply with this chapter;
+
+&emsp;&emsp;(B) shall take into consideration—
+
+&emsp;&emsp;&emsp;(i) the need for and availability of financing for small business concerns in the geographic area in which the applicant is to commence business;
+
+&emsp;&emsp;&emsp;(ii) the general business reputation of the owners and management of the applicant; and
+
+&emsp;&emsp;&emsp;(iii) the probability of successful operations of the applicant, including adequate profitability and financial soundness; and
+
+&emsp;&emsp;(C) shall not take into consideration any projected shortage or unavailability of leverage.
+
+#### (4) Exception
+
+#### (A) In general
+
+&emsp;&emsp;Notwithstanding any other provision of this chapter, the Administrator may, in the discretion of the Administrator and based on a showing of special circumstances and good cause, approve an application and issue a license under this subsection with respect to any applicant that—
+
+&emsp;&emsp;&emsp;(i) has private capital of not less than $3,000,000;
+
+&emsp;&emsp;&emsp;(ii) would otherwise be issued a license under this subsection, except that the applicant does not satisfy the requirements of section 682(a) of this title; and
+
+&emsp;&emsp;&emsp;(iii) has a viable business plan reasonably projecting profitable operations and a reasonable timetable for achieving a level of private capital that satisfies the requirements of section 682(a) of this title.
+
+#### (B) Leverage
+
+&emsp;&emsp;An applicant licensed pursuant to the exception provided in this paragraph shall not be eligible to receive leverage as a licensee until the applicant satisfies the requirements of section 682(a) of this title.
+
+(Pub. L. 85–699, title III, §301, Aug. 21, 1958, 72 Stat. 691; Pub. L. 86–502, §4, June 11, 1960, 74 Stat. 196; Pub. L. 87–341, §11(a), (b), Oct. 3, 1961, 75 Stat. 756; Pub. L. 90–104, title II, §202, Oct. 11, 1967, 81 Stat. 269; Pub. L. 92–595, §2(b), Oct. 27, 1972, 86 Stat. 1314; Pub. L. 94–305, title I, §106(b)–(d), June 4, 1976, 90 Stat. 666; Pub. L. 95–507, title I, §104, Oct. 24, 1978, 92 Stat. 1758; Pub. L. 100–590, title I, §105, Nov. 3, 1988, 102 Stat. 2993; Pub. L. 104–208, div. D, title II, §208(b)(1)–(3)(A), Sept. 30, 1996, 110 Stat. 3009–741, 3009–742.)
 
 #### References in Text
 
-For definition of “this chapter”, referred to in subsecs. (b) to (d), see References in Text note set out under section 661 of this title.
+For definition of “this chapter”, referred to in subsecs. (b) and (c), see References in Text note set out under section 661 of this title.
 
 #### Amendments
+
+1996—Subsec. (a). Pub. L. 104–208, §208(b)(1), substituted “body, a limited liability company, or” for “body or” in first sentence.
+
+Subsec. (c). Pub. L. 104–208, §208(b)(2), inserted heading and amended text of subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The articles and amendments thereto shall be forwarded to the Administration for consideration and approval or disapproval. In determining whether to approve such a company's articles and permit it to operate under the provisions of this chapter, the Administration shall give due regard, among other things, to the need and availability for the financing of small business concerns in the geographic area in which the proposed company is to commence business, the general business reputation and character of the proposed owners and management of the company, and the probability ofsuccessful operations of such company including adequate profitability and financial soundness. After consideration of all relevant factors, if it approves the company's articles, the Administration may in its discretion approve the company to operate under the provisions of this chapter and issue the company a license for such operation.”
+
+Subsec. (d). Pub. L. 104–208, §208(b)(3)(A), struck out subsec. (d) which read as follows: “Notwithstanding any other provision of this chapter, a small business investment company, the investment policy of which is that its investments will be made solely in small business concerns which will contribute to a well-balanced national economy by facilitating ownership in such concerns by persons whose participation in the free enterprise system is hampered because of social or economic disadvantages may be organized and chartered under State business or nonprofit corporation statutes, or formed as a limited partnership, and may be licensed by the Administration to operate under the provisions of this chapter.”
 
 1988—Subsec. (a). Pub. L. 100–590 substituted “, if incorporated, has succession for a period of not less than thirty years unless sooner dissolved by its shareholders, and if a limited partnership, has succession for a period of not less than ten years,” for “has succession for a period of not less than thirty years unless sooner dissolved by its shareholders or partners”.
 
@@ -52,6 +106,10 @@ Subsec. (e). Pub. L. 87–341, §11(b)(3), repealed subsec. (e) which provided f
 
 Section 211 of title II of Pub. L. 90–104 provided that: “The effective date of this title \[amending this section and sections 682 to 684, 686, 687, 687b, and 692 of this title\] shall be ninety days after enactment \[Oct. 11, 1967\], except that, with respect to section 207 \[amending section 686 of this title\], it shall be January 1, 1968.”
 
+#### Savings Provision
+
+Section 208(b)(3)(B) of div. D of Pub. L. 104–208 provided that: “The repeal under subparagraph (A) \[repealing subsec. (d) of this section\] shall not be construed to require the Administrator to cancel, revoke, withdraw, or modify any license issued under section 301(d) of the Small Business Investment Act of 1958 \[subsec. (d) of this section\] before the date of enactment of this Act \[Sept. 30, 1996\].”
+
 #### Regulatory Review
 
 Pub. L. 102–366, title IV, §408(d), Sept. 4, 1992, 106 Stat. 1017, directed Small Business Administration, not later than 90 days after Sept. 4, 1992, to complete a review of regulations intended to provide for safety and soundness of small business investment companies which obtain financing from the Administration under provisions of the Small Business Investment Act of 1958, 15 U.S.C. 661 et seq., and to exempt from such regulations, or to separately regulate, companies which do not obtain financing from the Administration.
@@ -64,5 +122,5 @@ Pub. L. 102–366, title IV, §417(b), Sept. 4, 1992, 106 Stat. 1019, provided t
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 662, 682, 683, 687, 687b, 687j, 687<i>l</i>, 697f of this title; title 11 section 109; title12 sections 1431, 1464; title 26 sections 1044, 1202; title 42 sections 5305, 9815.
+This section is referred to in sections 662, 682, 683, 687, 697f of this title; title 11 section 109; title 12 sections 1431, 1464; title 26 sections 1044, 1202; title 42 sections 5305, 9815.
 

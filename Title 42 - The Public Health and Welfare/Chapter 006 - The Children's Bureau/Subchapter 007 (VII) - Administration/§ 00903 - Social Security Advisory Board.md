@@ -6,11 +6,11 @@ There shall be established a Social Security Advisory Board (in this section ref
 
 #### (b) Functions of Board
 
-On and after the date the Commissioner takes office, the Board shall advise the Commissioner on policies related to the old-age, survivors, and disability insurance program under subchapterII of this chapter and the supplemental security income program under subchapter XVI of this chapter. Specific functions of the Board shall include—
+On and after the date the Commissioner takes office, the Board shall advise the Commissioner on policies related to the old-age, survivors, and disability insurance program under subchapter II of this chapter and the supplemental security income program under subchapter XVI of this chapter. Specific functions of the Board shall include—
 
 &emsp;(1) analyzing the Nation's retirement and disability systems and making recommendations with respect to how the old-age, survivors, and disability insurance program and the supplemental security income program, supported by other public and private systems, can most effectively assure economic security;
 
-&emsp;(2) studying and making recommendations relating to the coordination of programs that provide health security with programs described in paragraph (1);
+&emsp;(2) studying and making recommendations relating to the coordination of programs thatprovide health security with programs described in paragraph (1);
 
 &emsp;(3) making recommendations to the President and to the Congress with respect to policies that will ensure the solvency of the old-age, survivors, and disability insurance program, both in the short-term and the long-term;
 
@@ -86,13 +86,13 @@ The Board shall be exempt from the provisions of the Federal Advisory Committee 
 
 #### (i) Personnel
 
-The Board shall, without regard to the provisions of title 5 relating to the competitive service, appoint a Staff Director who shall be paid at a rate equivalent to a rate established for the Senior Executive Service under section 5382 of title 5. The Board shall appoint such additional personnel as the Board determines to be necessary to provide adequate clerical support for the Board, and may compensate such additionalpersonnel without regard to the provisions of title 5 relating to the competitive service.
+The Board shall, without regard to the provisions of title 5 relating to the competitive service, appoint a Staff Director, and three professional staff members one of whom shall be appointed from among individuals approved by the members of the Board who are not members of the political party represented by the majority of the Board, who shall be paid at a rate equivalent to a rate established for the Senior Executive Service under section 5382 of title 5. The Board shall appoint such additional personnel as the Board determines to be necessary to provide adequate clerical support for the Board, and may compensate such additional personnel without regard to the provisions of title 5 relating to the competitive service.
 
 #### (j) Authorization of appropriations
 
 There are authorized to be appropriated, out of the Federal Disability Insurance Trust Fund, the Federal Old-Age and Survivors Insurance Trust Fund, and the general fund of the Treasury, such sums as are necessary to carry out the purposes of this section.
 
-(Aug. 14, 1935, ch. 531, title VII, §703, 49 Stat. 636; Aug. 28, 1950, ch. 809, title III, pt. 6, §361(c), (d), 64 Stat. 558; July 18, 1984, Pub. L. 98–369, div. B, title VI, §2663(<i>l</i>)(1), 98 Stat. 1171; Aug. 15, 1994, Pub. L. 103–296, title I, §103, 108 Stat. 1467.)
+(Aug. 14, 1935, ch. 531, title VII, §703, 49 Stat. 636; Aug. 28, 1950, ch. 809, title III, pt. 6, §361(c), (d), 64 Stat. 558; July 18, 1984, Pub. L. 98–369, div. B, title VI, §2663(<i>l</i>)(1), 98 Stat. 1171; Aug. 15, 1994, Pub. L. 103–296, title I, §103, 108 Stat. 1467; Mar. 29, 1996, Pub. L. 104–121, title I, §108, 110 Stat. 857.)
 
 #### References In Text
 
@@ -101,6 +101,8 @@ The Federal Advisory Committee Act, referred to in subsec. (h), is Pub. L. 92–
 The provisions of title 5 relating to the competitive service, referred to in subsec. (i), are classified generally to section 3301 et seq. of Title 5.
 
 #### Amendments
+
+1996—Subsec. (i). Pub. L. 104–121 inserted “, and three professional staff members one of whom shall be appointed from among individuals approved by the members of the Board who are not members of the political party represented by the majority of the Board,” after “Staff Director”.
 
 1994—Pub. L. 103–296 amended section generally. Prior to amendment, section read as follows: “The Secretary is authorized to appoint and fix the compensation of such officers and employees, and to make such expenditures, as may be necessary for carrying out his functions under this chapter. Appointments of attorneys and experts may be made without regard to the civil-service laws.”
 

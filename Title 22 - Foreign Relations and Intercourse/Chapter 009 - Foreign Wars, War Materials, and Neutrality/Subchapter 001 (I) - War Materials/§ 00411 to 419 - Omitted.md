@@ -26,17 +26,17 @@ Section 419, act Mar. 11, 1941, ch. 11, §10, 55 Stat. 33, related to effect of 
 
 #### Additional Defense Aid to Other Countries; Lease of Certain Ships, Barges, Etc.
 
-Acts Feb. 7, 1942, ch. 46, title III, §301, 56 Stat. 82; Oct. 26, 1942, ch. 629, title I, §103, 56 Stat. 994; Feb. 19, 1943, ch. 1, §4, 57 Stat. 4, June 26, 1943, ch. 147, §118, 57 Stat. 217; June 22, 1944, ch. 269, §121, 58 Stat. 322; May 29, 1945, ch. 130, §119, 59 Stat. 222, provided for additional defense aid to countries deemed vital to the defense ofthe United States and for the lease of ships for periods not extending beyond the termination of the national emergency.
+Acts Feb. 7, 1942, ch. 46, title III, §301, 56 Stat. 82; Oct. 26, 1942, ch. 629, title I, §103, 56 Stat. 994; Feb. 19, 1943, ch. 1, §4, 57 Stat. 4, June 26, 1943, ch. 147, §118, 57 Stat. 217; June 22, 1944, ch. 269, §121, 58 Stat. 322; May 29, 1945, ch. 130, §119, 59 Stat. 222, provided for additional defense aid to countries deemed vital to the defense of the United States and for the lease of ships for periods not extending beyond the termination of the national emergency.
 
 #### Limitation on Appropriations
 
 Act Apr. 28, 1942, ch. 247, title II, §201, 56 Stat. 233, provided that limitation of $2,500,000,000 shall apply to all appropriations made to the Navy Department since Mar. 11, 1941.
 
-#### Definitions
-
-Act Mar. 5, 1942, ch. 141, title III, §303, 56 Stat. 131, provided that the term “defense article” shall be deemed to include defense information and services, and the expenses in connection with the procurement or supplying of defense articles, information, and services.
-
 #### Reduction in Value of Defense Articles
 
 The value of defense articles was reduced to $800,000,000 by act Dec. 17, 1941, ch. 591, title I, §102, 55 Stat. 813, and as thus limited was made inapplicable to the War Department after Dec. 17, 1941.
+
+#### Definitions
+
+Act Mar. 5, 1942, ch. 141, title III, §303, 56 Stat. 131, provided that the term “defense article” shall be deemed to include defense information and services, and the expenses in connection with the procurement or supplying of defense articles, information, and services.
 

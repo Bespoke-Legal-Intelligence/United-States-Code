@@ -1,0 +1,30 @@
+### §7463. Issuance of orders
+
+#### (a) Issuance
+
+To effectuate the purposes of this subchapter specified in section 7461(b) of this title, the Secretary shall issue an order applicable to producers, handlers, and importers of kiwifruit. Any such order shall be national in scope. Not more than 1 order shall be in effect under this subchapter at any 1 time.
+
+#### (b) Procedure
+
+#### (1) Proposal for issuance of order
+
+&emsp;Any person that will be affected by this subchapter may request the issuance of, and submit a proposal for, an order under this subchapter.
+
+#### (2) Proposed order
+
+&emsp;Not later than 90 days after the receipt of a request and proposal for an order, the Secretary shall publish a proposed order and give due notice and opportunity for public comment on the proposed order.
+
+#### (3) Issuance of order
+
+&emsp;After notice and opportunity for public comment are provided under paragraph (2), the Secretary shall issue an order, taking into consideration the comments received and including in the order provisions necessary to ensure that the order is in conformity with this subchapter.
+
+#### (c) Amendments
+
+The Secretary may amend any order issued under this section. The provisions of this subchapter applicable to an order shall be applicable to an amendment to an order.
+
+(Pub. L. 104–127, title V, §554, Apr. 4, 1996, 110 Stat. 1065.)
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 7462, 7464, 7465, 7466, 7470, 7471 of this title.
+

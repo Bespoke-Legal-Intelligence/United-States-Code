@@ -1,6 +1,6 @@
 ### §2682. Facilities for defense agencies
 
-The maintenance and repair of a real property facility for an activity or agency of the Department of Defense (other than a military department) financed from appropriations for military functions of the Department of Defense will be accomplished by or through a military department designated by the Secretary of Defense. A real property facility under the jurisdiction of the Department of Defense which is used by anactivity or agency of the Department of Defense (other than a military department) shall be under the jurisdiction of a military department designated by the Secretary of Defense.
+The maintenance and repair of a real property facility for an activity or agency of the Department of Defense (other than a military department) financed from appropriations for military functions of the Department of Defense will be accomplished by or through a military department designated by the Secretary of Defense. A real property facility under the jurisdiction of the Department of Defense which is used by an activity or agency of the Department of Defense (other than a military department) shall be under the jurisdiction of a military department designated by the Secretary of Defense.
 
 (Added Pub. L. 88–174, title VI, §609(a)(1), Nov. 7, 1963, 77 Stat. 329; amended Pub. L. 97–214, §10(a)(7), July 12, 1982, 96 Stat. 175.)
 

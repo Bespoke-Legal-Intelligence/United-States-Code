@@ -6,7 +6,7 @@ Except as otherwise expressly provided by law, no person shall be prosecuted, tr
 
 #### Historical and Revision Notes
 
-Based on section 746(g) of title 8, U.S.C., 1940 ed., Aliens and Nationality, and on title 18, U.S.C., 1940 ed.,§582 (R.S. §1044; Apr. 13, 1876, ch. 56, 19 Stat. 32; Nov. 17, 1921, ch. 124, §1, 42 Stat. 220; Dec. 27, 1927, ch. 6, 45 Stat. 51; Oct. 14, 1940, ch. 876, title I, subchap. III, §346(g), 54 Stat. 1167).
+Based on section 746(g) of title 8, U.S.C., 1940 ed., Aliens and Nationality, and on title 18, U.S.C., 1940 ed., §582 (R.S. §1044; Apr. 13, 1876, ch. 56, 19 Stat. 32; Nov. 17, 1921, ch. 124, §1, 42 Stat. 220; Dec. 27, 1927, ch. 6, 45 Stat. 51; Oct. 14, 1940, ch. 876, title I, subchap. III, §346(g), 54 Stat. 1167).
 
 Section 582 of title 18, U.S.C., 1940 ed., and section 746(g) of title 8, U.S.C., 1940 ed., Aliens and Nationality, were consolidated. “Except as otherwise expressly provided by law” was inserted to avoid enumeration of exceptive provisions.
 

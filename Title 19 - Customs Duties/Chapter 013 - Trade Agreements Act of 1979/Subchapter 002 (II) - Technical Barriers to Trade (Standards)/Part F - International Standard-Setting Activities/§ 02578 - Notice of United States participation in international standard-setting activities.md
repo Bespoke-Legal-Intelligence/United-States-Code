@@ -26,7 +26,7 @@ The information to be provided in the notice under subsection (b) of this sectio
 
 #### (d) Public comment
 
-The agency specified in subsection (c)(2)(D) of this section shall provide an opportunity for public comment with respect to the standards for which the agency is responsible and shall take the comments into account in participating in the consideration of the standards and in proposing matters to be considered by the organization.
+The agency specified in subsection (c)(2)(D) of this section shall provide an opportunity for public comment with respect to the standards for which the agency is responsible and shalltake the comments into account in participating in the consideration of the standards and in proposing matters to be considered by the organization.
 
 (Pub. L. 96–39, title IV, §491, as added Pub. L. 103–465, title IV, §432, Dec. 8, 1994, 108 Stat. 4970.)
 
@@ -36,5 +36,5 @@ Part effective on the date of entry into force of the WTO Agreement with respect
 
 #### Designation of Agency
 
-Secretary of Agriculture designated under this section as official responsible for informing public of sanitary and phytosanitary standard-setting activities ofeach international standard-setting organization, see par. (4) of Proc. No. 6780, Mar. 23, 1995, 60 F.R. 15847, set out as a note under section 3511 of this title.
+Secretary of Agriculture designated under this section as official responsible for informing public of sanitary and phytosanitary standard-setting activities of each international standard-setting organization, see par. (4) of Proc. No. 6780, Mar. 23, 1995, 60 F.R. 15847, set out as a note under section 3511 of this title.
 

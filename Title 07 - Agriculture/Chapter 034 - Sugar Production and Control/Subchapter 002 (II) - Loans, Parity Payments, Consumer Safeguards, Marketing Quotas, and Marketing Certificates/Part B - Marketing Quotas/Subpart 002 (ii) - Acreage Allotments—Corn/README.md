@@ -4,6 +4,10 @@ subpart ii—acreage allotments—corn
 
 1954—Act Aug. 28, 1954, ch. 1041, title III, §303, 68 Stat. 902, substituted “Acreage Allotments—Corn” for “Marketing Quotas—Corn” in subpart II heading.
 
+#### Subpart Referred to in Other Sections
+
+This subpart is referred to in section 7301 of this title.
+
 
 ---
 

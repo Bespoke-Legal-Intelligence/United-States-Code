@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary is authorized to select institutions for voluntary participation in a Quality Assurance Program that provides participating institutions with an alternative management approach through which individual schools develop and implement their own comprehensive systems to verify student financial aid application data, thereby enhancing program integrity within the student aid delivery system. The Quality Assurance Program authorized by this section shall be based on criteria that include demonstrated institutional performance, as determined by the Secretary, and shall take into consideration current quality assurance goals, as determined by the Secretary.
+The Secretary is authorized to select institutions for voluntary participation in a Quality Assurance Program that provides participating institutions with an alternative management approach through which individual schools develop and implement their own comprehensive systems to verify student financial aid application data, thereby enhancing program integrity within the student aid delivery system. The Quality Assurance Program authorized by thissection shall be based on criteria that include demonstrated institutional performance, as determined by the Secretary, and shall take into consideration current quality assurance goals, as determined by the Secretary.
 
 #### (b) Exemption from requirements
 

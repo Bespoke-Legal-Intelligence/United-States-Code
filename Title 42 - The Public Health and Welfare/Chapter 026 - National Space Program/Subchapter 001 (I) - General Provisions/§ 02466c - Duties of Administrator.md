@@ -26,7 +26,7 @@ Notwithstanding the provisions of subsection (a) of this section, the Administra
 
 #### Codification
 
-Section was enacted as part of the National Aeronautics and Space Administration Authorization Act of 1986, and not as part of the National Aeronautics and Space Act of 1958 which is classified principally to this chapter.
+Section was enacted as part of the National Aeronautics and Space Administration Authorization Act of1986, and not as part of the National Aeronautics and Space Act of 1958 which is classified principally to this chapter.
 
 #### Amendments
 

@@ -6,7 +6,7 @@ The Secretary shall conduct a program of competitive grants to States for the pu
 
 #### (b) Preference
 
-Except with respect to the States of Alaska and Hawaii, the Secretary shall give preferencein awarding grants to States which file, with their application for funds under this section, assurances satisfactory to the Secretary that—
+Except with respect to the States of Alaska and Hawaii, the Secretary shall give preference in awarding grants to States which file, with their application for funds under this section, assurances satisfactory to the Secretary that—
 
 &emsp;(1) the State has established a veterinary medical training program with one or more States without colleges of veterinary medicine which consists of appropriate cooperative agreements providing for a sharing of curriculum and costs by the individual States;
 

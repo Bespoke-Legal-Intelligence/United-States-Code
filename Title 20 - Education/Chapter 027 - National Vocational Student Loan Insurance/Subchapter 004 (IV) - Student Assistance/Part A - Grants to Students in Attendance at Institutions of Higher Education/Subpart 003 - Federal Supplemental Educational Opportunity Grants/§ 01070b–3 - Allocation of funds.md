@@ -14,7 +14,7 @@
 
 &emsp;(i) $5,000;
 
-&emsp;(ii) an amount equal to (I) 90 percent of the amount received and used under this subpart in the second preceding fiscal year by eligible institutions offering comparable programs of instruction, divided by (II) the number of students enrolled at such comparable institutionsin such fiscal year, multiplied by (III) the number of students enrolled at the applicant institution in such fiscal year; or
+&emsp;(ii) an amount equal to (I) 90 percent of the amount received and used under this subpart in the second preceding fiscal year by eligible institutions offering comparable programs of instruction, divided by (II) the number of students enrolled at such comparable institutions in such fiscal year, multiplied by (III) the number of students enrolled at the applicant institution in such fiscal year; or
 
 &emsp;(iii) 90 percent of the institution's allocation under this part for the preceding fiscal year.
 
@@ -66,7 +66,7 @@ From one-quarter of the remainder of the amount appropriated pursuant to section
 
 &emsp;(A) establish various income categories for dependent and independent undergraduate students;
 
-&emsp;(B) establish an expected family contribution for each income category of dependent and independent undergraduate students, determined on the basis of the average expected family contribution (computed in accordance with part E of this subchapter) of a representative sample within each income category for the second preceding fiscal year;
+&emsp;(B) establish an expected family contribution for each income category of dependentand independent undergraduate students, determined on the basis of the average expected family contribution (computed in accordance with part E of this subchapter) of a representative sample within each income category for the second preceding fiscal year;
 
 &emsp;(C) compute 75 percent of the average cost of attendance for all undergraduate students;
 

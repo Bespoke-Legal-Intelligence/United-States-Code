@@ -36,7 +36,7 @@ Advance payments under subsection (a) of this section may be made only upon adeq
 
 #### (f) Conditions for payments for commercial items
 
-(1) Payments under subsection (a) of this section for commercial items may be made undersuch terms and conditions as the head of the executive agency determines are appropriate or customary in the commercial marketplace and are in the best interests of the United States. The head of the executive agency shall obtain adequate security for such payments. If the security is in the form of a lien in favor of the United States, such lien is paramount to all other liens and is effective immediately upon the first payment, without filing, notice, or other action by the United States.
+(1) Payments under subsection (a) of this section for commercial items may be made under such terms and conditions as the head of the executive agency determines are appropriate or customary in the commercial marketplace and are in the best interests of the United States. The head of the executive agency shall obtain adequate security for such payments. If the security is in the form of a lien in favor of the United States, such lien is paramount to all other liens and is effective immediately upon the first payment, without filing, notice, or other action by the United States.
 
 (2) Advance payments made under subsection (a) of this section for commercial items may include payments, in a total amount of not more than 15 percent of the contract price, in advance of any performance of work under the contract.
 
@@ -44,7 +44,7 @@ Advance payments under subsection (a) of this section may be made only upon adeq
 
 #### (g) Action in case of fraud
 
-(1) In any case in which the remedy coordination official of an executive agency finds that there is substantial evidence that the request of a contractor for advance, partial, or progress payment under a contract awarded by that executive agency is based on fraud, the remedy coordination official shall recommend that the executive agency reduce or suspend further payments to such contractor.
+(1) In any case in which the remedy coordination official of an executive agency finds thatthere is substantial evidence that the request of a contractor for advance, partial, or progress payment under a contract awarded by that executive agency is based on fraud, the remedy coordination official shall recommend that the executive agency reduce or suspend further payments to such contractor.
 
 (2) The head of an executive agency receiving a recommendation under paragraph (1) in the case of a contractor's request for payment under a contract shall determine whether there is substantial evidence that the request is based on fraud. Upon making such a determination, the head of the executive agency may reduce or suspend further payments to the contractor under such contract.
 
@@ -66,13 +66,15 @@ Advance payments under subsection (a) of this section may be made only upon adeq
 
 (9) In this subsection, the term “remedy coordination official”, with respect to an executive agency, means the person or entity in that executive agency who coordinates within that executive agency the administration of criminal, civil, administrative, and contractual remedies resulting from investigations of fraud or corruption related to procurement activities.
 
-(June 30, 1949, ch. 288, title III, §305, 63 Stat. 396; July 12, 1952, ch. 703, §1(m), 66 Stat. 594; Aug. 28, 1958, Pub. L. 85–800, §4, 72 Stat. 966; Oct. 13, 1994, Pub. L. 103–355, title II, §2051(a)–(e), 108 Stat. 3303, 3304.)
+(June 30, 1949, ch. 288, title III, §305, 63 Stat. 396; July 12, 1952, ch. 703, §1(m), 66 Stat. 594; Aug. 28, 1958, Pub. L. 85–800, §4, 72 Stat. 966; Oct. 13, 1994, Pub. L. 103–355, title II, §2051(a)–(e), 108 Stat. 3303, 3304; Feb. 10, 1996, Pub. L. 104–106, div. D, title XLIII, §4321(a)(4), 110 Stat. 671.)
 
 #### References in Text
 
 Level IV of the Executive Schedule, referred to in subsec. (g)(8), is set out in section 5315 of Title 5, Government Organization and Employees.
 
 #### Amendments
+
+1996—Subsecs. (e) to (g). Pub. L. 104–106 made technical correction to directory language of Pub. L. 103–355, §2051(e). See 1994 Amendment note below.
 
 1994—Pub. L. 103–355, §2051(a)(1), inserted section catchline.
 
@@ -90,11 +92,15 @@ Subsec. (d). Pub. L. 103–355, §2051(d), inserted before period at end of thir
 
 Pub. L. 103–355, §2051(a)(5), redesignated subsec. (c) as (d).
 
-Subsecs. (e) to (g). Pub. L. 103–355, §2051(e), added subsecs. (e) to (g).
+Subsecs. (e) to (g). Pub. L. 103–355, §2051(e), as amended by Pub. L. 104–106, added subsecs. (e) to (g).
 
 1958—Pub. L. 85–800 authorized advance or other payments under contracts for property or services by agency and insertion in bid solicitations of provision limiting advance or progress payments to small business concerns, restricted payments under subsec. (a) of this section to unpaid contract price, and reworded generally conditions for making advance payments.
 
 1952—Subsecs. (a), (b). Act July 12, 1952, substituted “property” for “supplies” wherever appearing.
+
+#### Effective Date of 1996 Amendment
+
+Section 4321(a) of Pub. L. 104–106 provided that the amendment made by that section is effective as of Oct. 13, 1994, and as if included in Pub. L. 103–355 as enacted.
 
 #### Effective Date of 1994 Amendment
 
@@ -106,7 +112,7 @@ Section effective July 1, 1949, see section 605 of act June 30, 1949, set out as
 
 #### Exemption of Functions
 
-Functions authorized by Foreign Assistance Act of 1961, as amended, as exempt, see Ex. Ord. No. 11223, eff.May 12, 1965, 30 F.R. 6635, set out as a note under section 2393 of Title 22, Foreign Relations and Intercourse.
+Functions authorized by Foreign Assistance Act of 1961, as amended, as exempt, see Ex. Ord. No. 11223, eff. May 12, 1965, 30 F.R. 6635, set out as a note under section 2393 of Title 22, Foreign Relations and Intercourse.
 
 #### Relationship to Prompt Payment Requirements
 
@@ -124,5 +130,5 @@ Agency head, definition of, see section 259 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 257, 262 of this title; title 19 section 2081; title 26 section 7608.
+This section is referred to in sections 257, 262 of this title; title 8 section 1363a; title 19 section 2081; title 26 section 7608.
 

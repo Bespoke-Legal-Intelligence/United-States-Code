@@ -118,11 +118,11 @@ Except as otherwise provided in this section, this section shall apply to—
 
 #### (C) Special rule for citrus and almond growers
 
-&emsp;&emsp;An election under this paragraph shall not apply with respect to any item which is attributable to the planting, cultivation, maintenance, or development of any citrus or almond grove (or part thereof) and which is incurred before the close of the 4th taxable year beginning with the taxable year in which the trees were planted. For purposesof the preceding sentence, the portion of a citrus or almond grove planted in 1 taxable year shall be treated separately from the portion of such grove planted in another taxable year.
+&emsp;&emsp;An election under this paragraph shall not apply with respect to any item which is attributable to the planting, cultivation, maintenance, or development of any citrus or almond grove (or part thereof) and which is incurred before the close of the 4th taxable year beginning with the taxable year in which the trees were planted. For purposes of the preceding sentence, the portion of a citrus or almond grove planted in 1 taxable year shall be treated separately from the portion of such grove planted in another taxable year.
 
 #### (D) Election
 
-&emsp;&emsp;Unless the Secretary otherwise consents, an election under this paragraph may be made only for the taxpayer's 1st taxable year which begins after December 31, 1986, and during which the taxpayer engages in a farming business. Any such election, once made, may be revoked only with the consent of the Secretary.
+&emsp;&emsp;Unless the Secretary otherwise consents, an election under this paragraph may be made only for the taxpayer's 1st taxable year which begins after December 31, 1986, and during which the taxpayer engages in a farming business. Any such election, oncemade, may be revoked only with the consent of the Secretary.
 
 #### (e) Definitions and special rules for purposes of subsection (d)
 
@@ -224,7 +224,7 @@ Except as otherwise provided in this section, this section shall apply to—
 
 &emsp;&emsp;&emsp;(i) interest on any indebtedness directly attributable to production expenditures with respect to such property shall be assigned to such property, and
 
-&emsp;&emsp;&emsp;(ii) interest on any other indebtedness shall be assigned to such property to the extent that the taxpayer's interest costs could have been reduced if production expenditures (not attributable to indebtedness described in clause (i)) had not been incurred.
+&emsp;&emsp;&emsp;(ii) interest on any other indebtedness shall be assigned to such property to theextent that the taxpayer's interest costs could have been reduced if production expenditures (not attributable to indebtedness described in clause (i)) had not been incurred.
 
 #### (B) Exception for qualified residence interest
 
@@ -414,7 +414,7 @@ Revocation of election.—If a taxpayer engaged in a farming business involving 
 
 #### Effective Date
 
-Section 7831(d)(2) of Pub. L. 101–239 provided that: “If any interest costs incurred after December 31, 1986, areattributable to costs incurred before January 1, 1987, the amendments made by section 803 of the Tax Reform Act of 1986 \[section 803 of Pub. L. 99–514, enacting this section, amending sections 48, 267, 312, 447, 464, and 471 of this title, and repealing sections 189, 278, and 280 of this title\] shall apply to such interest costs only to the extent such interest costs are attributable to costs which were required to be capitalized under section 263 of the Internal Revenue Code of 1954 and which would have been taken into account in applying section 189 of the Internal Revenue Code of 1954 (as in effect before its repeal by section 803 of the Tax Reform Act of 1986) or, if applicable, section 266 of such Code.”
+Section 7831(d)(2) of Pub. L. 101–239 provided that: “If any interest costs incurred after December 31, 1986, are attributable to costs incurred before January 1, 1987, the amendments made by section 803 of the Tax Reform Act of 1986 \[section 803 of Pub. L. 99–514, enacting this section, amending sections 48, 267, 312, 447, 464, and 471 of this title, and repealing sections 189, 278, and 280 of this title\] shall apply to such interest costs only to the extent such interest costs are attributable to costs which were required to be capitalized under section 263 of the Internal Revenue Code of 1954 and which would have been taken into account in applying section 189 of the Internal Revenue Code of 1954 (as in effect before itsrepeal by section 803 of the Tax Reform Act of 1986) or, if applicable, section 266 of such Code.”
 
 Section 803(d) of Pub. L. 99–514, as amended by Pub. L. 100–647, title I, §1008(b)(7), Nov. 10, 1988, 102 Stat. 3438; Pub. L. 101–239, title VII, §7831(d)(1), Dec. 19, 1989, 103 Stat. 2426, provided that:
 

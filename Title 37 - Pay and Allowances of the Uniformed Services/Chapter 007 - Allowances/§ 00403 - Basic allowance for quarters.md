@@ -1,14 +1,22 @@
 ### §403. Basic allowance for quarters
 
-(a)(1) Except as otherwise provided by law, a member of a uniformed service who is entitledto basic pay is entitled to a basic allowance for quarters at the monthly rates prescribed in accordance with section 1009 of this title or as otherwise prescribed by law, according to the pay grade in which he is assigned or distributed for basic pay purposes. The allowance authorized by this section may be paid in advance.
+(a)(1) Except as otherwise provided by law, a member of a uniformed service who is entitled to basic pay is entitled to a basic allowance for quarters at the monthly rates prescribed in accordance with section 1009 of this title or as otherwise prescribed by law, according to the pay grade in which he is assigned or distributed for basic pay purposes. The allowance authorized by this section may be paid in advance.
 
 (2) A member of a uniformed service with dependents is not entitled to a basic allowance for quarters as a member with dependents unless the member makes an annual certification to the Secretary concerned indicating the status of each dependent of the member. The certification shall be made in accordance with regulations prescribed by the Secretary of Defense.
 
-(b) Except as otherwise provided by law, a member of a uniformed service who is assigned to quarters of the United States or a housing facility under the jurisdiction of a uniformed service, appropriate to his grade, rank, or rating and adequate for himself, and his dependents, if with dependents, is not entitled to a basic allowance for quarters. However, subject to the provisions of subsection (j), a member without dependents who is in a pay grade above pay grade E–6 and who is assigned to quarters of the United States or a housing facility under the jurisdiction of a uniformed service, appropriate to his grade or rank and adequate for himself, may elect not to occupy those quarters and instead to receive the basic allowance for quarters prescribed for his pay grade by this section.
+(b)(1) Except as otherwise provided by law, a member of a uniformed service who is assigned to quarters of the United States or a housing facility under the jurisdiction of a uniformed service, appropriate to his grade, rank, or rating and adequate for himself, and his dependents, if with dependents, is not entitled to a basic allowance for quarters.
+
+(2) Subject to the provisions of subsection (j), a member without dependents who is in a pay grade above pay grade E–6 and who is assigned to quarters of the United States or a housing facility under the jurisdiction of a uniformed service, appropriate to his grade or rank and adequate for himself, may elect not to occupy those quarters and instead to receive the basic allowance for quarters prescribed for his pay grade by this section.
+
+(3) Subject to the provisions of subsection (j), a member without dependents who is in pay grade E–6 and who is assigned to quarters of the United States that do not meet the minimum adequacy standards established by the Department of Defense for members in such pay grade, or to a housing facility under the jurisdiction of a uniformed service that does not meet such standards, may elect not to occupy such quarters or facility and instead to receive the basic allowance for quarters prescribed for the member's pay grade by this section.
 
 (c)(1) A member of a uniformed service without dependents who makes a permanent change of station for assignment to a unit conducting field operations is not entitled to a basic allowance for quarters while on that initial field duty unless his commanding officer certifies that the member was necessarily required to procure quarters at his expense.
 
-(2) A member of a uniformed service without dependents who is in a pay grade below pay grade E–7 is not entitled to a basic allowance for quarters while he is on sea duty. A member of a uniformed service without dependents who is in a pay grade above E–6 who is assigned to sea duty under a permanent change of station is not entitled to a basic allowance for quarters if the unit to which the member is ordered is deployed and the permanent station of the unit is different than the permanent station from which the member is reporting.
+(2)(A) Except as provided in subparagraphs (B) and (C), a member of a uniformed service without dependents who is in a pay grade below pay grade E–6 is not entitled to a basic allowance for quarters while he is on sea duty.
+
+(B) Under regulations prescribed by the Secretary concerned, the Secretary may authorize the payment of a basic allowance for quarters to a member of a uniformed service without dependents who is serving in pay grade E–5 and is assigned to sea duty. In prescribing regulations under this subparagraph, the Secretary concerned shall consider the availability of quarters for members serving in pay grade E–5.
+
+(C) Notwithstanding section 421 of this title, two members of the uniformed services in a pay grade below pay grade E–6 who are married to each other, have no other dependents, and are simultaneously assigned to sea duty are jointly entitled to one basic allowance for quarters during the period of such simultaneous sea duty. The amount of the allowance shall be based on the without dependents rate for the pay grade of the senior member of the couple. However, this subparagraph shall not apply to a couple if one or both of the members are entitled to a basic allowance for quarters under subparagraph (B).
 
 (d)(1) A member of a uniformed service who is assigned to quarters of the United States or a housing facility under the jurisdiction of a uniformed service may not be denied the basic allowance for quarters if, because of orders of competent authority, his dependents are prevented from occupying those quarters.
 
@@ -44,7 +52,7 @@
 
 (3) The application of this subsection to a member of a uniformed service shall not affect the entitlement of that member to a basic allowance for quarters at a partial rate under section 1009(c) of this title.
 
-(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 470; Pub. L. 88–132, §10, Oct. 2, 1963, 77 Stat. 216; Pub. L. 89–718, §§49(a)(1), 54, Nov. 2, 1966, 80 Stat. 1121, 1122; Pub. L. 90–207, §1(3), Dec. 16, 1967, 81 Stat. 651; Pub. L. 92–129, title II, §204, Sept. 28, 1971, 85 Stat. 358; Pub. L. 93–64, title I, §105, July 9, 1973, 87 Stat. 148; Pub. L. 93–419, §3(6), Sept. 19, 1974, 88 Stat. 1152; Pub. L. 96–343, §4(a)(1), (2), Sept. 8, 1980, 94 Stat. 1125; Pub. L. 96–513, title V, §516(10), Dec. 12, 1980, 94 Stat. 2938; Pub. L. 96–579, §§6(a)–(c), 7, Dec. 23, 1980, 94 Stat. 3367, 3368; Pub. L. 97–22, §11(b)(2), July 10, 1981, 95 Stat. 138; Pub. L. 98–94, title IX, §907(a), Sept. 24, 1983, 97 Stat. 637; Pub. L. 98–525, title VI, §§602(c), 604(a), Oct. 19, 1984, 98 Stat. 2534, 2537; Pub. L. 99–145, title VI, §§604(a), 605(a), title VIII, §809(b), title XIII, §1303(b)(6), Nov. 8, 1985, 99 Stat. 638, 681, 740; Pub. L. 99–227, §1, Dec. 28, 1985, 99 Stat. 1745; Pub. L. 100–26, §8(d)(5), Apr. 21, 1987, 101 Stat. 285; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–190, div. A, title VI, §§602(a), 604(a), 632(a), Dec. 5, 1991, 105 Stat. 1373, 1374, 1380; Pub. L. 103–337, div. A, title VI, §604(a), (b), Oct. 5, 1994, 108 Stat. 2782.)
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 470; Pub. L. 88–132, §10, Oct. 2, 1963, 77 Stat. 216; Pub. L. 89–718, §§49(a)(1), 54, Nov. 2, 1966, 80 Stat. 1121, 1122; Pub. L. 90–207, §1(3), Dec. 16, 1967, 81 Stat. 651; Pub. L. 92–129, title II, §204, Sept. 28, 1971, 85 Stat. 358; Pub. L. 93–64, title I, §105, July 9, 1973, 87 Stat. 148; Pub. L. 93–419, §3(6), Sept. 19, 1974,88 Stat. 1152; Pub. L. 96–343, §4(a)(1), (2), Sept. 8, 1980, 94 Stat. 1125; Pub. L. 96–513, title V, §516(10), Dec. 12, 1980, 94 Stat. 2938; Pub. L. 96–579, §§6(a)–(c), 7, Dec. 23, 1980, 94 Stat. 3367, 3368; Pub. L. 97–22, §11(b)(2), July 10, 1981, 95 Stat. 138; Pub. L. 98–94, title IX, §907(a), Sept. 24, 1983, 97 Stat. 637; Pub. L. 98–525, title VI, §§602(c), 604(a), Oct. 19, 1984, 98 Stat. 2534, 2537; Pub. L. 99–145, title VI, §§604(a), 605(a), title VIII, §809(b), title XIII, §1303(b)(6), Nov. 8, 1985, 99 Stat. 638, 681, 740; Pub. L. 99–227, §1, Dec. 28, 1985, 99 Stat. 1745; Pub. L. 100–26, §8(d)(5), Apr. 21, 1987, 101 Stat. 285; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–190, div. A, title VI, §§602(a), 604(a), 632(a), Dec. 5, 1991, 105 Stat. 1373, 1374, 1380; Pub. L. 103–337, div. A, title VI, §604(a), (b), Oct. 5, 1994, 108 Stat. 2782; Pub. L. 104–106, div. A, title VI, §§603(a), 604(a), Feb. 10, 1996, 110 Stat. 357, 358; Pub. L. 104–201, div. A, title VI, §§604(a)–(c), 605, Sept. 23, 1996, 110 Stat. 2540, 2541.)
 
 Historical and Revision Notes
 
@@ -55,6 +63,8 @@ Historical and Revision Notes
 <i>Source (Statutes at Large)</i>
 
 403(a)
+
+&nbsp;
 
 403(b)
 
@@ -104,6 +114,14 @@ In subsection (g), the word “including” is substituted for the words “and 
 
 #### Amendments
 
+1996—Subsec. (b). Pub. L. 104–106, §603(a), designated first sentence as par. (1), designated second sentence as par. (2) and substituted “Subject” for “However, subject”, and added par. (3).
+
+Subsec. (b)(3). Pub. L. 104–201, §605, substituted “Subject to the provisions of subsection (j), a member” for “A member”.
+
+Subsec. (c)(2). Pub. L. 104–201, §604(a)–(c), designated first sentence as subpar. (A) and substituted “Except as provided in subparagraphs (B) and (C), a member” for “A member”, added subpars. (B) and (C), and struck out former second sentence which read as follows: “A member of a uniformed service without dependents who is in a pay grade above E–5 who is assigned to sea duty under a permanent change of station is not entitled to a basic allowance for quarters if the unit to which the member is ordered is deployed and the permanent station of the unit is different than the permanent station from which the member is reporting.”
+
+Pub. L. 104–106, §604(a), substituted “E–6” for “E–7” in first sentence and “E–5” for “E–6” in second sentence.
+
 1994—Subsec. (<i>l</i>). Pub. L. 103–337 substituted “180 days” for “90 days” wherever appearing.
 
 1991—Subsec. (a). Pub. L. 102–190, §604(a)(1), designated existing provisions as par. (1) and added par. (2).
@@ -132,7 +150,7 @@ Subsec. (c)(3). Pub. L. 99–145, §605(a)(3), struck out par. (3) which provide
 
 Subsec. (k). Pub. L. 99–145, §809(b), substituted “25-year period” for “15-year period”.
 
-Subsec. (<i>l</i>). Pub. L. 99–227 added subsec. (<i>l).</i>
+Subsec. (<i>l</i>). Pub. L. 99–227 added subsec. (<i>l</i>).
 
 1984—Pub. L. 98–525, §602(c)(2), struck out “; variable housing allowance” in section catchline.
 
@@ -150,7 +168,7 @@ Subsec. (a). Pub. L. 96–343, §4(a)(1), designated existing provisions as par.
 
 Subsec. (b). Pub. L. 96–579, §6(a)(1), (2), substituted in second sentence “subject to the provisions of subsection (j)” for “except as provided by regulations prescribed under subsection (j)”, “member” for “commissioned officer”, and “F–6” for “C–3”. Because “C–3” did not appear in this subsection, “F–6” was substituted for “O–3” as the probable intent of Congress.
 
-Subsec. (c). Pub. L. 96–579, §6(b), reenacted existing text in provisions designated as pars. (1) and (3), and substituted par. (2) respecting nonentitlement to basic allowance for quarters when on sea duty for member of a uniformed service in pay grade below E–7 or above E–6 for prior nonentitlement provision for such member when on sea duty.
+Subsec. (c). Pub. L. 96–579, §6(b), reenacted existing text in provisions designated as pars. (1) and (3), and substituted par. (2) respecting nonentitlement to basicallowance for quarters when on sea duty for member of a uniformed service in pay grade below E–7 or above E–6 for prior nonentitlement provision for such member when on sea duty.
 
 Subsec. (e). Pub. L. 96–513, §516(10)(A), substituted “National Oceanic and Atmospheric Administration” for “Environmental Science Services Administration”.
 
@@ -253,6 +271,14 @@ Subsec. (e). Pub. L. 89–718 substituted “Environmental Science Services Admi
 
 1963—Subsec. (b). Pub. L. 88–132 authorized election by certain officers without dependents not to occupy government quarters.
 
+#### Effective Date of 1996 Amendments
+
+Section 604(e) of Pub. L. 104–201 provided that: “The amendments made by this section \[amending this section and section 403a of this title\] shall take effect on July 1, 1997.”
+
+Section 603(b) of Pub. L. 104–106 provided that: “The amendments made by this section \[amending this section\] shall take effect on July 1, 1996.”
+
+Section 604(b) of Pub. L. 104–106 provided that: “The amendments made by this section \[amending this section\] shall take effect on July 1, 1996.”
+
 #### Effective Date of 1994 Amendment
 
 Section 604(c) of Pub. L. 103–337 provided that: “The amendments made by this section \[amending this section\] shall take effect as of October 1, 1993.”
@@ -275,7 +301,7 @@ Section 605(b) of Pub. L. 99–145 provided that:
 
 “(2) The amendment made by paragraph (3) of subsection (a) \[amending this section\] shall take effect on January 1, 1986.”
 
-Amendment by section 809(b) of Pub. L. 99–145 effective Oct. 1, 1985, see section 813 of Pub. L. 99–145, set out in a Military Family Policy and Programs note under section 113 of Title 10, Armed Forces.
+Amendment by section 809(b) of Pub. L. 99–145 effective Oct. 1, 1985, see section 813 of Pub. L. 99–145, formerly set out in a Military Family Policy and Programs note under section 113 of Title 10, Armed Forces.
 
 #### Effective Date of 1984 Amendment
 
@@ -359,7 +385,7 @@ Pub. L. 100–456, div. A, title VI, §601(c), Sept. 29, 1988, 102 Stat. 1976, p
 
 #### Increase in Basic Allowance for Quarters Effective January 1, 1988
 
-The basic allowance for quarters for members of the uniformed services increased by 2 percent effective Jan. 1, 1988, see section 601(b) of Pub. L. 100–180, as amended, set out as a note under section 1009 of this title.
+The basic allowance for quarters for members of the uniformed services increased by 2 percent effective Jan.1, 1988, see section 601(b) of Pub. L. 100–180, as amended, set out as a note under section 1009 of this title.
 
 #### Minimum Rate of Quarters Allowance Set at Rate as of December 31, 1984
 
@@ -376,7 +402,7 @@ Section 602(a) of Pub. L. 98–525, as amended by Pub. L. 99–661, div. A, titl
 | “ ‘Pay Grade | Without Dependents | With Dependents |  |
 | :--- | :---: | :---: | ---: |
 | Full Rate | Partial Rate <sup>1</sup> |  |  |
-| Commissioned   officers: |  |  |  |
+| Commissioned officers: |  |  |  |
 | O–10 | $537.30 | $50.70 | $660.90&nbsp; |
 | O–9 | 537\.30 | 50\.70 | 660\.90&nbsp; |
 | O–8 | 537\.30 | 50\.70 | 660\.90&nbsp; |
@@ -387,12 +413,12 @@ Section 602(a) of Pub. L. 98–525, as amended by Pub. L. 99–661, div. A, titl
 | O–3 | 345\.30 | 22\.20 | 420\.90&nbsp; |
 | O–2 | 278\.10 | 17\.70 | 360\.90&nbsp; |
 | O–1 | 238\.50 | 13\.20 | 323\.70&nbsp; |
-| Warrant   officers: |  |  |  |
+| Warrant officers: |  |  |  |
 | W–4 | 391\.20 | 25\.20 | 453\.90&nbsp; |
 | W–3 | 330\.30 | 20\.70 | 405\.90&nbsp; |
 | W–2 | 297\.00 | 15\.90 | 379\.50&nbsp; |
 | W–1 | 251\.40 | 13\.80 | 330\.90&nbsp; |
-| Enlisted   members: |  |  |  |
+| Enlisted members: |  |  |  |
 | E–9 | 315\.30 | 18\.60 | 429\.90&nbsp; |
 | E–8 | 292\.20 | 15\.30 | 400\.50&nbsp; |
 | E–7 | 249\.30 | 12\.00 | 372\.60&nbsp; |
@@ -421,7 +447,7 @@ Section 4(c) of Pub. L. 96–343 provided that:
 
 “(1) During fiscal year 1981, a member of a uniformed service entitled to basic allowance for quarters under section 403 of title 37, United States Code, may be paid a variable housing allowance under this subsection whenever assigned to duty in an area of the United States (other than Alaska and Hawaii) which is a high housing cost area with respect to such member. A member with dependents who is assigned to an unaccompanied tour of duty outside the United States may be paid a variable housing allowance under this subsection while serving such tour of duty for any period during which the member's dependents reside in an area of the United States which would qualify the member to receive a variable housing allowance under this subsection if assigned to duty in that area.
 
-“(2) The monthly amount of a variable housing allowance under this subsection for any member may not exceed the difference between (A) the average monthlycost of housing in that area for members of the uniformed services serving in the same pay grade as that member (as determined under regulations prescribed under paragraph (4)), and (B) 115 percent of the amount of the basic allowance for quarters to which that member is entitled.
+“(2) The monthly amount of a variable housing allowance under this subsection for any member may not exceed the difference between (A) the average monthly cost of housing in that area for members of the uniformed services serving in the same pay grade as that member (as determined under regulations prescribed under paragraph (4)), and (B) 115 percent of the amount of the basic allowance for quarters to which that member is entitled.
 
 “(3) For the purposes of this subsection, an area shall be considered to be a high housing cost area with respect to a member of a uniformed service whenever the average monthly cost of housing in that area for members serving in the same pay grade as that member (as determined under regulations prescribed under paragraph (4)) exceeds 115 percent of the amount of the basic allowance for quarters of that member.
 
@@ -439,7 +465,7 @@ Act Oct. 12, 1949, ch. 681, title III, §302(f), 63 Stat. 812, as amended by Pub
 
 #### Enlisted Members Without Dependents
 
-Act Oct. 12, 1949, ch. 681, title III, 302(g), 63 Stat. 812, which provided that enlisted members without dependents shall be entitled to a basic allowance for quarters at the rate of $51.30 per month, was repealed by Pub. L. 87–531, §2, July 10, 1962, 76 Stat. 152. Laws effective after Jan. 9, 1962, that are inconsistent with Pub. L. 87–649, to be considered as superseding Pub. L. 87–649 to the extent of the inconsistency, see section 12(a) of Pub. L. 87–649, set out as a note preceding section 101 of this title.
+Act Oct. 12, 1949, ch. 681, title III, 302(g), 63 Stat. 812, which provided that enlisted members without dependents shall be entitled to a basic allowance for quartersat the rate of $51.30 per month, was repealed by Pub. L. 87–531, §2, July 10, 1962, 76 Stat. 152. Laws effective after Jan. 9, 1962, that are inconsistent with Pub. L. 87–649, to be considered as superseding Pub. L. 87–649 to the extent of the inconsistency, see section 12(a) of Pub. L. 87–649, set out as a note preceding section 101 of this title.
 
 #### Authority of Secretaries With Respect to Payment of Quarters Allowances
 
@@ -459,5 +485,5 @@ Assimilation of pay and allowances, see section 1003 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 407, 420, 1003, 1009 of this title; title 32 section 107; title 50 App. section 454.
+This section is referred to in sections 407, 420, 1003, 1009 of this title; title 10 section 2882; title 14 section 686; title 32 section 107; title 50 App. section 454.
 

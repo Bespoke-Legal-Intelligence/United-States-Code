@@ -2,9 +2,9 @@
 
 If any merchandise entered or withdrawn for exportation without payment of the duties thereon, or with intent to obtain a drawback of the duties paid, or of any other allowances given by law on the exportation thereof, is relanded at any place in the United States without entry having been made, such merchandise shall be considered as having been imported into the United States contrary to law, and each person concerned shall be fined under this title or imprisoned not more than two years, or both; and such merchandise shall be forfeited.
 
-The term “any place in the United States”, as used in this section, shall not include Virgin Islands, American Samoa, Wake Island, Midway Islands, Kingman Reef, Johnston Island, or Guam.
+The term “any place in the United States”, as used in this section, shall not include the Virgin Islands, American Samoa, Wake Island, Midway Islands, Kingman Reef, Johnston Island, or Guam.
 
-(June 25, 1948, ch. 645, 62 Stat. 716; June 30, 1955, ch. 258, §2(c), 69 Stat. 242; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §§330004(18), 330016(1)(K), 108 Stat. 2142, 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 716; June 30, 1955, ch. 258, §2(c), 69 Stat. 242; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §§330004(18), 330016(1)(K), 108 Stat. 2142, 2147; Oct. 11, 1996, Pub. L. 104–294, title VI, §604(b)(23), 110 Stat. 3508.)
 
 #### Historical and Revision Notes
 
@@ -16,11 +16,17 @@ Minor changes were made in phraseology.
 
 #### Amendments
 
+1996—Pub. L. 104–294 amended Pub. L. 103–322, §330004(18). See 1994 Amendment note below.
+
 1994—Pub. L. 103–322, §330016(1)(K), substituted “fined under this title” for “fined not more than $5,000” in first par.
 
-Pub. L. 103–322, §330004(18), struck out “the Philippine Islands,” before “Virgin Islands” in last par.
+Pub. L. 103–322, §330004(18), as amended by Pub. L. 104–294, §604(b)(23), struck out “Philippine Islands,” before “Virgin Islands” in last par.
 
 1955—Act June 30, 1955, inserted reference to Johnston Island in last par.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–294 effective Sept. 13, 1994, see section 604(d) of Pub. L. 104–294, set out as a note under section 13 of this title.
 
 #### Effective Date of 1955 Amendment
 

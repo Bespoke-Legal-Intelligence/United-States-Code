@@ -1,5 +1,5 @@
 
-35 U.S.C.<br>United States Code, 1995 Edition<br>Title 35 - PATENTS<br>From the U.S. Government Publishing Office, www.gpo.gov
+35 U.S.C.<br>United States Code, 1996 Edition<br>Title 35 - PATENTS<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 35—PATENTS
 
@@ -20,9 +20,13 @@
 
 Table Showing Disposition of All Sections of Former Title 35
 
-<i>Title 35      Former Sections     </i>
+<i>Title 35</i>
 
-<i>Title 35         New Sections        </i>
+<i>Former Sections</i>
+
+<i>Title 35</i>
+
+<i>New Sections</i>
 
 1
 

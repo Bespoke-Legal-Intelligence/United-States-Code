@@ -50,5 +50,5 @@ In subsection (c)(2), the words “<i>Provided</i>, That” are omitted because 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 2 section 104a; title 42 sections 2996h, 10711.
+This section is referred to in title 2 sections 104a, 104b; title 42 sections 2996h, 10711.
 

@@ -30,7 +30,7 @@
 
 (b) The Armed Forces Policy Council shall advise the Secretary of Defense on matters of broad policy relating to the armed forces and shall consider and report on such other matters as the Secretary of Defense may direct.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 8; Aug. 6, 1958, Pub. L. 85–599, §9(c), 72 Stat. 521; Oct. 27, 1972, Pub. L. 92–596, §5, 86 Stat. 1318; Oct. 21, 1977, Pub. L. 95–140, §3(b), 91 Stat. 1173; Sept. 24, 1983, Pub. L. 98–94, title XII, §1213, 97 Stat. 687; Oct. 18, 1986, Pub. L. 99–500, §101(c) \[title X, §903(e)\], 100 Stat. 1783–82, 1783–133, and Oct. 30, 1986, Pub. L. 99–591, §101(c) \[title X, §903(e)\], 100 Stat. 3341–82, 3341–133; Nov. 14, 1986, Pub. L. 99–661, div. A, title IX, formerly title IV, §903(e), 100 Stat. 3912, renumbered title IX, Apr. 21, 1987, Pub. L. 100–26, §3(5), 101 Stat. 273; Nov. 30, 1993, Pub. L. 103–160, div. A, title IX, §904(d)(1), (3), 107 Stat. 1728.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 8; Aug. 6, 1958, Pub. L. 85–599, §9(c), 72 Stat. 521; Oct. 27, 1972,Pub. L. 92–596, §5, 86 Stat. 1318; Oct. 21, 1977, Pub. L. 95–140, §3(b), 91 Stat. 1173; Sept. 24, 1983, Pub. L. 98–94, title XII, §1213, 97 Stat. 687; Oct. 18, 1986, Pub. L. 99–500, §101(c) \[title X, §903(e)\], 100 Stat. 1783–82, 1783–133, and Oct. 30, 1986, Pub. L. 99–591, §101(c) \[title X, §903(e)\], 100 Stat. 3341–82, 3341–133; Nov. 14, 1986, Pub. L. 99–661, div. A, title IX, formerly title IV, §903(e), 100 Stat. 3912, renumbered title IX, Apr. 21, 1987, Pub. L. 100–26, §3(5), 101 Stat. 273; Nov. 30, 1993, Pub. L. 103–160, div. A, title IX, §904(d)(1), (3), 107 Stat. 1728.)
 
 Historical and Revision Notes
 
@@ -41,6 +41,8 @@ Historical and Revision Notes
 <i>Source (Statutes at Large)</i>
 
 171(a)
+
+&nbsp;
 
 171(b)
 

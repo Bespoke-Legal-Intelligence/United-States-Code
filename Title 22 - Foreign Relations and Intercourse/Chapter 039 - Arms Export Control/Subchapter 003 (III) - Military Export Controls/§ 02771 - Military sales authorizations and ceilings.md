@@ -10,21 +10,17 @@ There are authorized to be appropriated to the President to carry out this chapt
 
 (2) Of the aggregate amount of financing provided under this section, not more than $553,900,000 for fiscal year 1986 and not more than $553,900,000 for fiscal year 1987 may be made available at concessional rates of interest. If a country is released from its contractual liability to repay the United States Government with respect to financing provided under this section, such financing shall not be considered to be financing provided at concessional rates of interest for purposes of the limitation established by this paragraph.
 
-#### (c) Extended repayment terms
+#### (c) Interest rates
 
-For fiscal year 1986 and fiscal year 1987, the principal amount of credits provided under section 2763 of this title at market rates of interest with respect to Greece, the Republic of Korea, the Philippines, Portugal, Spain, Thailand, and Turkey shall (if and to the extent each country so desires) be repaid in not more than twenty years, following a grace period of ten years on repayment of principal.
+Loans available under section 2763 of this title shall be provided at rates of interest that are not less than the current average market yield on outstanding marketable obligations of the United States of comparable maturities.
 
-#### (d) Aggregate acquisition cost ceiling for ordered excess defense articles
-
-The aggregate acquisition cost to the United States of excess defense articles ordered by the President in any fiscal year after fiscal year 1976 for delivery to foreign countries or international organizations under the authority of chapter 2 of part II of the Foreign Assistance Act of 1961 \[22 U.S.C. 2311\] or pursuant to sales under this chapter may not exceed $250,000,000 (exclusive of ships and their onboard stores and supplies transferred in accordance with law, and of any defense articles with respect to which the President submits a certification under section 2776(b) of this title.).<sup>1</sup>
-
-(Pub. L. 90–629, ch. 3, §31, Oct. 22, 1968, 82 Stat. 1324; Pub. L. 91–672, §2, Jan. 12, 1971, 84 Stat. 2053; Pub. L. 92–226, pt. IV, §401(a), (b), Feb. 7, 1972, 86 Stat. 32; Pub. L. 93–189, §25(5), (6), Dec. 17, 1973, 87 Stat. 730; Pub. L. 93–559, §45(a)(6), (7), Dec. 30, 1974, 88 Stat. 1815; Pub. L. 94–329, title II, §210(a)–(c)(1), June 30, 1976, 90 Stat. 740; Pub. L. 95–92, §19, Aug. 4, 1977, 91 Stat. 623; Pub. L. 95–384, §20, Sept. 26, 1978, 92 Stat. 741; Pub. L. 96–92, §17(a), Oct. 29, 1979, 93 Stat. 708; Pub. L. 96–533, title I, §§104(d), 105(b)(3), 106(a)–(c), Dec. 16, 1980, 94 Stat. 3133–3136; Pub. L. 97–113, title I, §105, Dec. 29, 1981, 95 Stat. 1521; Pub. L. 98–151, §101(b)(2), Nov. 14, 1983, 97 Stat. 969, 970; Pub. L. 99–83, title I, §101(a), (b), Aug. 8, 1985, 99 Stat. 193; Pub. L. 101–513, title V, §596(c), Nov. 5, 1990, 104 Stat. 2062.)
-
-#### References in Text
-
-The Foreign Assistance Act of 1961, referred to in subsec. (d), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended. Chapter 2 of part II of the Foreign Assistance Act of 1961, is classified generally to part 2 of subchapter II (§2311 et seq.) of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+(Pub. L. 90–629, ch. 3, §31, Oct. 22, 1968, 82 Stat. 1324; Pub. L. 91–672, §2, Jan. 12, 1971, 84 Stat. 2053; Pub. L. 92–226, pt. IV, §401(a), (b), Feb. 7, 1972, 86 Stat. 32; Pub. L. 93–189, §25(5), (6), Dec. 17, 1973, 87 Stat. 730; Pub. L. 93–559, §45(a)(6), (7), Dec. 30, 1974, 88 Stat. 1815; Pub. L. 94–329, title II, §210(a)–(c)(1), June 30, 1976, 90 Stat. 740; Pub. L. 95–92, §19, Aug. 4, 1977, 91 Stat. 623; Pub. L. 95–384, §20, Sept. 26, 1978, 92 Stat. 741; Pub. L. 96–92, §17(a), Oct. 29, 1979, 93 Stat. 708; Pub. L. 96–533, title I, §§104(d), 105(b)(3), 106(a)–(c), Dec. 16, 1980, 94 Stat. 3133–3136; Pub. L. 97–113, title I, §105, Dec. 29, 1981, 95 Stat. 1521; Pub. L. 98–151, §101(b)(2), Nov. 14, 1983, 97 Stat. 969, 970; Pub. L. 99–83, title I, §101(a), (b), Aug. 8, 1985, 99 Stat. 193; Pub. L. 101–513, title V, §596(c), Nov. 5, 1990, 104 Stat. 2062; Pub. L. 104–164, title I, §§101, 104(b)(2)(C), July 21, 1996, 110 Stat. 1422, 1427.)
 
 #### Amendments
+
+1996—Subsec. (c). Pub. L. 104–164, §101, amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “For fiscal year 1986 and fiscal year 1987, the principal amount of credits provided under section 2763 of this title at market rates of interest with respect to Greece, the Republic of Korea, the Philippines, Portugal, Spain, Thailand, and Turkey shall (if and to the extent each country so desires) be repaid in not more than twenty years, following a grace period of ten years on repayment of principal.”
+
+Subsec. (d). Pub. L. 104–164, §104(b)(2)(C), struck out subsec. (d) which read as follows: “The aggregate acquisition cost to the United States of excess defense articles ordered by the President in any fiscal year after fiscal year 1976 for delivery to foreign countries or international organizations under the authority of chapter 2 of part II of the Foreign Assistance Act of 1961 or pursuant to sales under this chapter may not exceed $250,000,000 (exclusive of ships and their onboard stores and supplies transferred in accordance with law, and of any defense articles with respect to which the President submits a certification under section 2776(b) of this title.).”
 
 1990—Subsec. (d). Pub. L. 101–513 inserted “, and of any defense articles with respect to which the President submits a certification under section 2776(b) of this title.” after “law”.
 
@@ -48,7 +44,7 @@ Subsec. (b). Pub. L. 97–113, §105(b), prescribed in par. (1) $800,000,000 lim
 
 Subsec. (c). Pub. L. 97–113, §105(c)(1)–(3), substituted “fiscal year 1982 and for the fiscal year 1983” for “fiscal year 1981”, “$550,000,000” for “$500,000,000”, and “each such year” for “such year”.
 
-1980—Subsec. (a). Pub. L. 96–533, §§104(d), 106(a), placed a limit on extension of credits and loan guaranties not to exceed amount established in appropriationof funds to carry out this chapter and substituted “$500,000,000 for the fiscal year 1981” for “$673,500,000 for the fiscal year 1980”.
+1980—Subsec. (a). Pub. L. 96–533, §§104(d), 106(a), placed a limit on extension of credits and loan guaranties not to exceed amount established in appropriation of funds to carry out this chapter and substituted “$500,000,000 for the fiscal year 1981” for “$673,500,000 for the fiscal year 1980”.
 
 Subsec. (b). Pub. L. 96–533, §106(b), in revising subsec. (b), substituted par. (1) and (2) limits on amount of credits or participations in credits and loan guaranties for fiscal year 1981 in amounts of $500,000,000 and $2,616,000,000 for prior combined sum limited to $2,235,000,000 for fiscal year 1980 and substituted par. (3) earmarking minimum of $1,400,000,000 only for Israel for fiscal year 1981, including availability of $200,000,000 for costs associated with relocation of Israeli forces from the Sinai for prior prescription of minimum sum of $1,000,000,000 as available only for Israel.
 
@@ -117,6 +113,4 @@ Section 17(b) of Pub. L. 96–92 provided that: “Of the principal amount of lo
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 2442, 3402 of this title.
-
-<i><sup>1</sup></i><i> So in original. The period after “title” probably should not appear.</i>
 

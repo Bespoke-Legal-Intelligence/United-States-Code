@@ -35,13 +35,13 @@ Each participant shall be deemed to consent and agree to such deductions from ba
 | &nbsp; | Percent of basic salary |
 | :--- | ---: |
 | Time of service: |  |
-| July 1, 1924, through October 15, 1960, inclusive | 5&nbsp; |
-| October 16, 1960, through December 31, 1969, inclusive | 61/2 |
+| July 1, 1924, through October 15, 1960, inclusive | 5&nbsp;&nbsp;&nbsp; |
+| October 16, 1960, through December 31, 1969, inclusive | 61/2&nbsp; |
 | On and after January 1, 1970 | 7&nbsp; |
 
 > Special contributions for refunds under subparagraph (B) shall equal the amount of the refund received by the participant.
 
-(2) Notwithstanding paragraph (1), a special contribution for prior nondeposit service as a National Guard technician which would be creditable toward retirement under subchapter III ofchapter 83 of title 5, and for which a special contribution has not been made, shall be equal to the special contribution for such service computed in accordance with the schedule in paragraph (1) multiplied by the percentage of such service that is creditable under section 4056 of this title.
+(2) Notwithstanding paragraph (1), a special contribution for prior nondeposit service as a National Guard technician which would be creditable toward retirement under subchapter III of chapter 83 of title 5, and for which a special contribution has not been made, shall be equal to the special contribution for such service computed in accordance with the schedule in paragraph (1) multiplied by the percentage of such service that is creditable under section 4056 of this title.
 
 (3) Special contributions under this subsection shall include interest computed from the midpoint of each service period included in the computation, or from the date refund was paid, to the date of payment of the special contribution or commencing date of annuity, whichever is earlier. <sup>1</sup> Interest shall be compounded at the annual rate of 4 percent to December 31, 1976, and 3 percent thereafter. No interest shall be charged on special contributions for any period of separation from Government service which began before October 1, 1956. Special contributions may be paid in installments (including by allotment of pay) when authorized by the Secretary of State.
 
@@ -81,7 +81,7 @@ Effective with respect to pay periods beginning after December 31, 1986, in admi
 
 #### Amendment of Section
 
-<i>Section 1(a) and (c) of Ex. Ord. No. 12446, Oct. 17, 1983, 48 F.R. 48443, set out as a note under section 4067 of this title, provided that the second sentence of subsec. (d)(3) of this section, applicable (i) to contributions for civilian service performed on or after the first day of Nov. 1983, (ii) to contributions for prior refunds to participants for which application is received by the employing agency on and after such first day of Nov. 1983, and (iii) to excess contributions under section 4055(h) of this title and voluntary contributions under section 4065(a) of this title from the first day of Nov. 1983, is deemed to be amended to provide that interest</i><i>shall be compounded at the annual rate of 3 percent per annum through December 31, 1984, and thereafter at a rate equal to the overall average yield to the Fund during the preceding fiscal year from all obligations purchased by the Secretary of the Treasury during such fiscal year under section 4059 of this title, as determined by the Secretary of the Treasury.</i>
+<i>Section 1(a) and (c) of Ex. Ord. No. 12446, Oct. 17, 1983, 48 F.R. 48443, set out as a note under section 4067 of this title, provided that the second sentence of subsec. (d)(3) of this section, applicable (i) to contributions for civilian service performed on or after the first day of Nov. 1983, (ii) to contributions for prior refunds to participants for which application is received by the employing agency on and after such first day of Nov. 1983, and (iii) to excess contributions under section 4055(h) of this title and voluntary contributions under section 4065(a) of this title from the first day of Nov. 1983, is deemed to be amended to provide that interest shall be compounded at the annual rate of 3 percent per annum through December 31, 1984, and thereafter at a rate equal to the overall average yield to the Fund during the preceding fiscal year from all obligations purchased by the Secretary of the Treasury during such fiscal year under section 4059 of this title, as determined by the Secretary of the Treasury.</i>
 
 #### References in Text
 

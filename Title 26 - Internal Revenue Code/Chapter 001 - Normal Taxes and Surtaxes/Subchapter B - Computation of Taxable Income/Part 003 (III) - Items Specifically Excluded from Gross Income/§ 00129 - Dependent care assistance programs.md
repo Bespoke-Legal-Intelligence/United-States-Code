@@ -40,7 +40,7 @@
 
 #### (c) Payments to related individuals
 
-No amount paid or incurred during the taxable year of an employee by an employer in providing dependent care assistance to such employee shall be excluded under subsection (a) if such amount was paid or incurred to an individual—
+No amount paid or incurred during the taxable year of an employee by an employer in providing dependent care assistance to such employeeshall be excluded under subsection (a) if such amount was paid or incurred to an individual—
 
 &emsp;(1) with respect to whom, for such taxable year, a deduction is allowable under section 151(c) (relating to personal exemptions for dependents) to such employee or the spouse of such employee, or
 
@@ -58,7 +58,7 @@ No amount paid or incurred during the taxable year of an employee by an employer
 
 #### (3) Eligibility
 
-&emsp;The program shall benefit employees who qualify under a classification set up by theemployer and found by the Secretary not to be discriminatory in favor of employees described in paragraph (2), or their dependents.
+&emsp;The program shall benefit employees who qualify under a classification set up by the employer and found by the Secretary not to be discriminatory in favor of employees described in paragraph (2), or their dependents.
 
 #### (4) Principal shareholders or owners
 
@@ -84,7 +84,7 @@ No amount paid or incurred during the taxable year of an employee by an employer
 
 #### (B) Salary reduction agreements
 
-&emsp;&emsp;For purposes of subparagraph (A), in the case of any benefits provided through a salary reduction agreement, a plan may disregard any employees whose compensation is less than $25,000. For purposes of this subparagraph, the term “compensation” has the meaning given such term by section 414(q)(7), except that, under rules prescribed by the Secretary, an employer may elect to determine compensation on any other basis which does not discriminate in favor of highly compensated employees.
+&emsp;&emsp;For purposes of subparagraph (A), in the case of any benefits provided through a salary reduction agreement, a plan may disregard any employees whose compensation is less than $25,000. For purposes of this subparagraph, the term “compensation” has the meaning given such term by section 414(q)(4), except that, under rules prescribed by the Secretary, an employer may elect to determine compensation on any other basis which does not discriminate in favor of highly compensated employees.
 
 #### (9) Excluded employees
 
@@ -118,7 +118,7 @@ For purposes of this section—
 
 #### (A) Ownership of stock
 
-&emsp;&emsp;Ownership of stock in a corporation shall be determined in accordance with the rules provided under subsections (d) and (e) of section 1563 (without regard to section 1563(e)(3)(C)).
+&emsp;&emsp;Ownership of stock in a corporation shall be determined in accordance with the rulesprovided under subsections (d) and (e) of section 1563 (without regard to section 1563(e)(3)(C)).
 
 #### (B) Interest in unincorporated trade or business
 
@@ -150,7 +150,7 @@ For purposes of this section—
 
 > &emsp;In the case of a failure to provide the information required under the preceding sentence, the preceding sentence shall not apply if it is shown that the taxpayer exercised due diligence in attempting to provide the information so required.
 
-(Added Pub. L. 97–34, title I, §124(e)(1), Aug. 13, 1981, 95 Stat. 198; amended Pub. L. 97–448, title I, §101(e), Jan. 12, 1983, 96 Stat. 2366; Pub. L. 98–369, div. A, title IV, §474(r)(6), July 18, 1984, 98 Stat. 839; Pub. L. 99–514, title I, §104(b)(1), title XI, §§1114(b)(4), 1151(c)(5), (f), (g)(4), 1163(a), (b), Oct. 22, 1986, 100 Stat. 2104, 2450, 2503, 2506, 2507, 2510; Pub. L. 100–485, title VII, §703(c)(2), Oct. 13, 1988, 102 Stat. 2427; Pub. L. 100–647, title I, §1011B(a)(14), (15), (18), (30), (31)(A), (c)(1), (2)(A), title III, §3021(a)(14), Nov. 10, 1988, 102 Stat. 3485, 3487–3489, 3631; Pub. L. 101–140, title II, §§203(a)(1), (2), 204(a)(1)–(3)(C), Nov. 8, 1989, 103 Stat. 830, 832; Pub. L. 101–239, title VII, §7811(h)(2), Dec. 19, 1989, 103 Stat. 2409.)
+(Added Pub. L. 97–34, title I, §124(e)(1), Aug. 13, 1981, 95 Stat. 198; amended Pub. L. 97–448, title I, §101(e), Jan. 12, 1983, 96 Stat. 2366; Pub. L. 98–369, div. A, title IV, §474(r)(6), July 18, 1984, 98 Stat. 839; Pub. L. 99–514, title I, §104(b)(1), title XI, §§1114(b)(4), 1151(c)(5), (f), (g)(4), 1163(a), (b), Oct. 22, 1986, 100 Stat. 2104, 2450, 2503, 2506, 2507, 2510; Pub. L. 100–485, title VII, §703(c)(2), Oct. 13, 1988, 102 Stat. 2427; Pub. L. 100–647, title I, §1011B(a)(14), (15), (18), (30), (31)(A), (c)(1), (2)(A), title III, §3021(a)(14), Nov. 10, 1988, 102 Stat. 3485, 3487–3489, 3631; Pub. L. 101–140, title II, §§203(a)(1), (2), 204(a)(1)–(3)(C), Nov. 8, 1989, 103 Stat. 830, 832; Pub. L. 101–239, title VII, §7811(h)(2), Dec. 19, 1989, 103 Stat. 2409; Pub. L. 104–188, title I, §1431(c)(1)(B), Aug. 20, 1996, 110 Stat. 1803.)
 
 #### Codification
 
@@ -158,9 +158,11 @@ Pub. L. 101–140, §203(a)(1), amended this section to read as if the amendment
 
 #### Prior Provisions
 
-A prior section 129 was renumbered section 137 of this title.
+A prior section 129 was renumbered section 138 of this title.
 
 #### Amendments
+
+1996—Subsec. (d)(8)(B). Pub. L. 104–188 substituted “section 414(q)(4)” for “section 414(q)(7)”.
 
 1989—Subsec. (a). Pub. L. 101–239 struck out at end “For purposes of the preceding sentence, marital status shall be determined under the rules of paragraphs (3) and (4) of section 21(e).”
 
@@ -190,7 +192,7 @@ Subsec. (d)(9). Pub. L. 101–140, §204(a)(2)(A), added par. (9).
 
 Subsec. (e)(6). Pub. L. 101–140, §204(a)(3)(C), substituted “(8)” for “(7)”.
 
-1988—Subsec. (a)(2). Pub. L. 100–647, §1011B(c)(2)(A), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The aggregate amount excluded from the gross income of the taxpayer under this section for any taxable year shall not exceed $5,000 ($2,500 in the case of a separate return by a married individual).”
+1988—Subsec. (a)(2). Pub. L. 100–647, §1011B(c)(2)(A), amended par. (2) generally. Prior to amendment, par.\(2) read as follows: “The aggregate amount excluded from the gross income of the taxpayer under this section for any taxable year shall not exceed $5,000 ($2,500 in the case of a separate return by a married individual).”
 
 Subsec. (d)(1)(B). Pub. L. 100–647, §1011B(a)(30), substituted “(7)” for “(6)”, see Codification note above.
 
@@ -247,6 +249,10 @@ Subsec. (d)(3). Pub. L. 97–448, §101(e)(1)(A), (B), redesignated former par. 
 Subsec. (d)(4) to (7). Pub. L. 97–448, §101(e)(1)(A), redesignated former pars. (3) to (6) as (4) to (7), respectively.
 
 Subsec. (e)(7). Pub. L. 97–448, §101(e)(2), substituted “shall be allowed to the employee under any other section of this chapter for any amount excluded from the gross income of the employee” for “shall be allowed under any other section of this chapter for any amount excluded from income”.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–188 applicable to years beginning after Dec. 31, 1996, except that in determining whether an employee is a highly compensated employee for years beginning in 1997, such amendment to be treated as having been in effect for years beginning in 1996, see section 1431(d)(1) of Pub. L. 104–188, set out as a note under section 414 of this title.
 
 #### Effective Date of 1989 Amendments
 
@@ -315,6 +321,10 @@ Secretary of the Treasury or his delegate to issue before Feb. 1, 1988, final re
 #### Nonenforcement of Amendment Made by Section 1151 of Pub. L. 99–514 for Fiscal Year 1990
 
 No monies appropriated by Pub. L. 101–136 to be used to implement or enforce section 1151 of Pub. L. 99–514 or the amendments made by such section, see section 528 of Pub. L. 101–136, set out as a note under section 89 of this title.
+
+#### Plan Amendments Not Required Until January 1, 1998
+
+For provisions directing that if any amendments made by subtitle D \[§§1401–1465\] of title I of Pub. L. 104–188 require an amendment to any plan or annuity contract, such amendment shall not be required to be made before the first day of the first plan year beginning on or after Jan. 1, 1998, see section 1465 of Pub. L. 104–188, set out as a note under section 401 of this title.
 
 #### Plan Amendments Not Required Until January 1, 1989
 

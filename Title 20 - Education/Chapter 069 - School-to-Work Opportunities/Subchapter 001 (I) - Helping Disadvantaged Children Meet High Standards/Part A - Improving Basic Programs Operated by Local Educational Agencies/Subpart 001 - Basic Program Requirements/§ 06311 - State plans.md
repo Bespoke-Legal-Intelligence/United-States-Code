@@ -36,7 +36,7 @@
 
 &emsp;&emsp;&emsp;(II) describe two levels of high performance, proficient and advanced, that determine how well children are mastering the material in the State content standards; and
 
-&emsp;&emsp;&emsp;(III) describe a third level of performance, partially proficient, to provide complete information about the progress of the lower performing children toward achieving to the proficient and advanced levels of performance.
+&emsp;&emsp;&emsp;(III) describe a third level of performance, partially proficient, to provide complete information about the progress ofthe lower performing children toward achieving to the proficient and advanced levels of performance.
 
 &emsp;(E) For the subjects in which students will be served under this part, but for which a State is not required by subparagraphs (A), (B), and (C) to develop, and has not otherwise developed such standards, the State plan shall describe a strategy for ensuring that such students are taught the same knowledge and skills and held to the same expectations as are all children.
 
@@ -56,7 +56,7 @@
 
 #### (3) Assessments
 
-&emsp;Each State plan shall demonstrate that the State has developed or adopted a set of high-quality, yearly student assessments, including assessments in at least mathematics and reading or language arts, that will be used as the primary means of determining the yearly performance of each local educational agency andschool served under this part in enabling all children served under this part to meet the State's student performance standards. Such assessments shall—
+&emsp;Each State plan shall demonstrate that the State has developed or adopted a set of high-quality, yearly student assessments, including assessments in at least mathematics and reading or language arts, that will be used as the primary means of determining the yearly performance of each local educational agency and school served under this part in enabling all children served under this part to meet the State's student performance standards. Such assessments shall—
 
 &emsp;&emsp;(A) be the same assessments used to measure the performance of all children, if the State measures the performance of all children;
 
@@ -110,7 +110,7 @@
 
 #### (7) Transitional assessments
 
-&emsp;(A) If a State does not have assessments that meet the requirements of paragraph (3) and proposes to develop such assessments underparagraph (6)(B), the State may propose to use a transitional set of yearly statewide assessments that will assess the performance of complex skills and challenging subject matter.
+&emsp;(A) If a State does not have assessments that meet the requirements of paragraph (3) and proposes to develop such assessments under paragraph (6)(B), the State may propose to use a transitional set of yearly statewide assessments that will assess the performance of complex skills and challenging subject matter.
 
 &emsp;(B) For any year in which a State uses transitional assessments, the State shall devise a procedure for identifying local educational agencies under paragraphs (3) and (7) of section 6317(d) of this title, and schools under paragraphs (1) and (7) of section 6317(c) of this title, that rely on accurate information about the academic progress of each such local educational agency and school.
 
@@ -120,7 +120,7 @@
 
 &emsp;&emsp;(A) how the State educational agency will help each local educational agency and school affected by the State plan develop the capacity to comply with each of the requirements of sections 6312(c)(1)(D), 6314(b), and 6315(c) of this title that is applicable to such agency or school; and
 
-&emsp;&emsp;(B) such other factors the State deems appropriate (which may include opportunity-to-learn standards or strategies developed under the Goals 2000: Educate America Act \[20 U.S.C. 5801 et seq.\]) to provide students an opportunity to achieve the knowledge and skills described in the challenging content standards adopted by the State.
+&emsp;&emsp;(B) such other factors the State deems appropriate to provide students an opportunity to achieve the knowledge and skills described in the challenging content standards adopted by the State.
 
 #### (c) Other provisions to support teaching and learning
 
@@ -188,21 +188,25 @@ Each State plan shall contain assurances that—
 
 #### (f) Limitation on conditions
 
-Nothing in this part shall be construed to authorize an officer or employee of the Federal Government to mandate, direct, or control a State, local educational agency, or school's specific instructional content or student performance standards and assessments, opportunity-to-learn standards or strategies, curriculum, or program of instruction, as a condition of eligibility to receive funds under this part.
+Nothing in this part shall be construed to authorize an officer or employee of the Federal Government to mandate, direct, or control a State, local educational agency, or school's specific instructional content or student performance standards and assessments, curriculum, or program of instruction, as a condition of eligibility to receive funds under this part.
 
-#### (g) Prohibition
-
-Nothing in this chapter shall be construed to require any State educational agency, local educational agency, or school, to implement opportunity-to-learn standards or strategies developed by such State under the Goals 2000: Educate America Act \[20 U.S.C. 5801 et seq.\].
-
-#### (h) Special rule
+#### (g) Special rule
 
 If the aggregate State expenditure by a State educational agency for the operation of elementary and secondary education programs in the State is less than such agency's aggregate Federal expenditure for the State operation of all Federal elementary and secondary education programs, then the State plan shall include assurances and specific provisions that such State will provide State expenditures for the operation of elementary and secondary education programs equal to or exceeding the level of Federal expenditures for such operation by October 1, 1998.
 
-(Pub. L. 89–10, title I, §1111, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3523.)
+(Pub. L. 89–10, title I, §1111, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3523; amended Pub. L. 104–134, title I, §101(d) \[title VII, §703(b)(1)\], Apr. 26, 1996, 110 Stat. 1321–211, 1321–254; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.)
 
 #### References in Text
 
-The Goals 2000: Educate America Act, referred to in subsecs. (a)(1), (b)(1)(B), (8)(B), and (g), is Pub. L. 103–227, Mar. 31, 1994, 108 Stat. 125 (except titles V and IX), as amended, which is classified principally to chapter 68 (§5801 et seq.) of this title (except subchapters V (§5931 et seq.) and IX (§6001 et seq.)). Title III of the Act is classified generally to subchapter III (§5881 et seq.) of chapter 68 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
+The Goals 2000: Educate America Act, referred to in subsecs. (a)(1) and (b)(1)(B), is Pub. L. 103–227, Mar. 31, 1994, 108 Stat. 125 (except titles V and IX), as amended, which is classified principally to chapter 68 (§5801 et seq.) of this title (except subchapters V (§5931 et seq.) and IX (§6001 et seq.)). Title III of the Act is classified generally to subchapter III (§5881 et seq.) of chapter 68 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
+
+#### Amendments
+
+1996—Subsec. (b)(8)(B). Pub. L. 104–134, §101(d) \[title VII, §703(b)(1)(A)\], struck out “(which may include opportunity-to-learn standards or strategies developed under the Goals 2000: Educate America Act)” after “the State deems appropriate”.
+
+Subsec. (f). Pub. L. 104–134, §101(d) \[title VII, §703(b)(1)(B)\], struck out “opportunity-to-learn standards or strategies,” before “curriculum”.
+
+Subsecs. (g), (h). Pub. L. 104–134, §101(d) \[title VII, §703(b)(1)(C), (D)\], redesignated subsec. (h) as (g) and struck out heading and text of former subsec. (g). Text read as follows: “Nothing in this chapter shall be construed to require any State educational agency, local educational agency, or school, to implement opportunity-to-learn standards or strategies developed by such State under the Goals 2000: Educate America Act.”
 
 #### Section Referred to in Other Sections
 

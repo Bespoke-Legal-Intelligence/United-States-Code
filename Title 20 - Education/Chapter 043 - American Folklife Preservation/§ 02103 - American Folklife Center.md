@@ -22,7 +22,7 @@ The Center shall be under the direction of a Board of Trustees. The Board shall 
 
 &emsp;(7) the Director of the Center.
 
-> In making appointments from private life under clause 2, the President pro tempore of the Senate and the Speaker of the House of Representatives shall give due consideration to the appointment of individuals who collectively will provide appropriate regional balance on the Board. Not more than three of the members appointed by the President pro tempore of the Senate or by the Speaker of the House of Representatives may be affiliated with the same political party.
+> In making appointments from private life under clause 2, the President pro tempore of the Senate and the Speaker of the House of Representatives shall give due consideration to the appointment of individuals who collectively will provide appropriate regional balance on the Board. Not more than three of the members appointed by the President pro tempore of theSenate or by the Speaker of the House of Representatives may be affiliated with the same political party.
 
 #### (c) Term of office
 

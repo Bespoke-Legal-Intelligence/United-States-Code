@@ -2,7 +2,7 @@
 
 #### (a) Support for research
 
-The Administrator shall, in consultation with the Federal Communications Commission, seek to promote research by Federal agencies, State agencies, and private entities to reduce the cost and improve the capabilities of telecommunications devices and systems that provide accessibility to hearing-impaired and speech-impaired individuals.
+The Administrator shall, in consultation with the Federal Communications Commission, seekto promote research by Federal agencies, State agencies, and private entities to reduce the cost and improve the capabilities of telecommunications devices and systems that provide accessibility to hearing-impaired and speech-impaired individuals.
 
 #### (b) Planning to assimilate technological developments
 

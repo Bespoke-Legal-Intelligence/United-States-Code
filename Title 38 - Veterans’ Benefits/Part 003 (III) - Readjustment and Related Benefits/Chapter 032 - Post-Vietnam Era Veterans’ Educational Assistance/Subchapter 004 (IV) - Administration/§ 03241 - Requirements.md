@@ -52,7 +52,7 @@ Pub. L. 101–237, §423(a)(5)(B), substituted “employment during and since th
 
 Subsec. (b). Pub. L. 100–689, §106(b)(2), substituted “1691(a) (other than clause (1))” for “1691(a)(1)”.
 
-1986—Subsec. (a). Pub. L. 99–576, §§308(b), 310(c)(1), (2), designated existing provisions as subsec. (a), substituted “section 1787) shall be applicable with respect to individuals who are pursuing programs of educationwhile serving on active duty” for “sections 1777, 1780(c), and 1787) shall be applicable to the program”, and inserted “1685,” after “1683,”.
+1986—Subsec. (a). Pub. L. 99–576, §§308(b), 310(c)(1), (2), designated existing provisions as subsec. (a), substituted “section 1787) shall be applicable with respect to individuals who are pursuing programs of education while serving on active duty” for “sections 1777, 1780(c), and 1787) shall be applicable to the program”, and inserted “1685,” after “1683,”.
 
 Subsec. (b). Pub. L. 99–576, §310(c)(3), added subsec. (b).
 

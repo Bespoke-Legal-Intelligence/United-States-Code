@@ -4,7 +4,7 @@
 
 It is the sense of Congress that the Secretary of Agriculture carry out a program authorized by section 424 of the Agricultural Act of 1949 \[7 U.S.C. 1433c\]. Such program, if implemented, shall provide for the following:
 
-&emsp;(1) Advance recourse loans shall be made available only to those producers of a commodity who are unable to obtain sufficientcredit elsewhere to finance the production of the 1986 crop of that commodity, taking into consideration prevailing private and cooperative rates and terms for loans for similar purposes (as determined by the Secretary) in the community in or near which the applicant resides. A producer who has received a commitment or been furnished sufficient credit or a loan for production of the 1986 crop of a commodity shall not be eligible for an advance recourse loan to finance the production of that commodity for such crop year.
+&emsp;(1) Advance recourse loans shall be made available only to those producers of a commodity who are unable to obtain sufficient credit elsewhere to finance the production of the 1986 crop of that commodity, taking into consideration prevailing private and cooperative rates and terms for loans for similar purposes (as determined by the Secretary) in the community in or near which the applicant resides. A producer who has received a commitment or been furnished sufficient credit or a loan for production of the 1986 crop of a commodity shall not be eligible for an advance recourse loan to finance the production of that commodity for such crop year.
 
 &emsp;(2) Advance recourse loans shall be made available to producers of a commodity at the applicable nonrecourse loan rate for the commodity (as determined by the Secretary). Within the limits set out in paragraphs (5) and (7), advance recourse loans shall be available—
 
@@ -14,7 +14,7 @@ It is the sense of Congress that the Secretary of Agriculture carry out a progra
 
 &emsp;&emsp;(C) to producers of other commodities on an amount of the commodity equal to one-half of the farm yield for the commodity multiplied by the farm acreage intended to be planted to the commodity for harvest in 1986, as determined by the Secretary.
 
-&emsp;(3) An advance recourse loan under section 424 \[7 U.S.C. 1433c\] shall come due at such time immediately following harvest as the Secretary determines appropriate. Each loan contract entered into under section 424 shall specify the date on which the loan is to come due.
+&emsp;(3) An advance recourse loan under section 424 \[7 U.S.C. 1433c\] shall come due at such time immediately following harvest as the Secretary determines appropriate. Each loan contract entered into under section 424 shallspecify the date on which the loan is to come due.
 
 &emsp;(4)(A) The Secretary shall establish procedures, when practicable, under which a producer, simultaneously with repayment of his recourse loan, may obtain a nonrecourse loan on his crop (as otherwise provided for in the Agricultural Act of 1949 \[7 U.S.C. 1421 et seq.\]) in an amount sufficient to repay his recourse loan.
 

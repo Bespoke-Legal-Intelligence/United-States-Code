@@ -2,7 +2,7 @@
 
 #### (a) Articles made from imported merchandise
 
-Upon the exportation or destruction under customs supervision of articles manufactured or produced in the United States with the use of imported merchandise, provided that those articles have not been used prior to such exportation or destruction, the full amount of the duties paid upon the merchandise so used shall be refunded as drawback, less 1 per centum of such duties, except that such duties shall not be so refunded upon the exportation or destruction of flour or by-products produced from imported wheat. Where two or more products result from the manipulation of imported merchandise, the drawback shall be distributed to the several products in accordance with their relative values at the time of separation.
+Upon the exportation or destruction under customs supervision of articles manufactured or produced in the United States with the use of imported merchandise, provided that those articles have not been used prior to such exportation or destruction, the full amount of the duties paid upon the merchandise so used shall be refunded as drawback, less 1 per centum of such duties, except that such duties shall not be so refunded upon the exportation or destruction offlour or by-products produced from imported wheat. Where two or more products result from the manipulation of imported merchandise, the drawback shall be distributed to the several products in accordance with their relative values at the time of separation.
 
 #### (b) Substitution for drawback purposes
 
@@ -18,7 +18,7 @@ Upon the exportation, or destruction under the supervision of the Customs Servic
 
 &emsp;(3) which has been entered or withdrawn for consumption; and
 
-&emsp;(4) which, within 3 years after release from the custody of the Customs Service, has beenreturned to the custody of the Customs Service for exportation or destruction under the supervision of the Customs Service;
+&emsp;(4) which, within 3 years after release from the custody of the Customs Service, has been returned to the custody of the Customs Service for exportation or destruction under the supervision of the Customs Service;
 
 > the full amount of the duties paid upon such merchandise, less 1 percent, shall be refunded as drawback.
 
@@ -60,7 +60,7 @@ No drawback shall be allowed under the provisions of this section unless the com
 
 &emsp;(B) is not used within the United States before such exportation or destruction;
 
-> then upon such exportation or destruction 99 percent of the amount of each duty, tax, or fee so paid shall be refunded as drawback. The exporter (or destroyer) has the right to claim drawback under this paragraph, but may endorse such right to the importer or any intermediate party.
+> then upon such exportation or destruction 99 percent of the amount of each duty, tax, or feeso paid shall be refunded as drawback. The exporter (or destroyer) has the right to claim drawback under this paragraph, but may endorse such right to the importer or any intermediate party.
 
 (2) Subject to paragraph (4), if there is, with respect to imported merchandise on which was paid any duty, tax, or fee imposed under Federal law because of its importation, any other merchandise (whether imported or domestic), that—
 
@@ -78,7 +78,7 @@ No drawback shall be allowed under the provisions of this section unless the com
 
 &emsp;&emsp;&emsp;(II) received from the person who imported and paid any duty due on the imported merchandise a certificate of delivery transferring to the party the imported merchandise, commercially interchangeable merchandise, or any combination of imported and commercially interchangeable merchandise (and any such transferred merchandise, regardless of its origin, will be treated as the imported merchandise and any retained merchandise will be treated as domestic merchandise);
 
-> then upon the exportation or destruction of such other merchandise the amount of each such duty, tax, and fee paid regarding the imported merchandise shall be refunded as drawback, but in no case may the total drawback on the imported merchandise, whether available under this paragraph or any other provision of law orany combination thereof, exceed 99 percent of that duty, tax, or fee.
+> then upon the exportation or destruction of such other merchandise the amount of each such duty, tax, and fee paid regarding the imported merchandise shall be refunded as drawback, but in no case may the total drawback on the imported merchandise, whether available under this paragraph or any other provision of law or any combination thereof, exceed 99 percent of that duty, tax, or fee.
 
 (3) The performing of any operation or combination of operations (including, but not limited to, testing, cleaning, repacking, inspecting, sorting, refurbishing, freezing, blending, repairing, reworking, cutting, slitting, adjusting, replacing components, relabeling, disassembling, and unpacking), not amounting to manufacture or production for drawback purposes under the preceding provisions of this section on—
 
@@ -118,7 +118,7 @@ Any drawback of duties that may be authorized under the provisions of this chapt
 
 &emsp;(B) the total amount of customs duties paid on the good to the NAFTA country.
 
-(3) If Canada ceases to be a NAFTA country and the suspension of the operation of the United States-Canada Free-Trade Agreement thereafter terminates, then for purposes of subsections (a), (b), (f), (h), (j)(2), and (q) of this section, the shipment to Canada during the period such Agreement is in operation of an article made from or substituted for, as appropriate, a drawback eligible good under section 204(a) of the United States-Canada Free-Trade Implementation Act of 1988 does not constitute an exportation.
+(3) If Canada ceases to be a NAFTA country and the suspension of the operation of the United States-Canada Free-Trade Agreement thereafter terminates, then for purposes of subsections (a), (b), (f), (h), (j)(2), and (q) of this section, the shipment to Canada during the period such Agreement is in operation of an article made from or substituted for, as appropriate, adrawback eligible good under section 204(a) of the United States-Canada Free-Trade Implementation Act of 1988 does not constitute an exportation.
 
 #### (<i>o</i>) Vessels built for account of resident of NAFTA country
 
@@ -212,6 +212,22 @@ Packaging material, when used on or for articles or merchandise exported or dest
 
 (2) A drawback entry for refund filed pursuant to any subsection of this section shall be deemed filed pursuant to any other subsection of this section should it be determined that drawback is not allowable under the entry as originally filed but is allowable under such other subsection.
 
+(3)(A) The Customs Service may, notwithstanding the limitation set forth in paragraph (1), extend the time for filing a drawback claim for a period not to exceed 18 months, if—
+
+&emsp;(i) the claimant establishes to the satisfaction of the Customs Service that the claimant was unable to file the drawback claim because of an event declared by the President to be a major disaster on or after January 1, 1994; and
+
+&emsp;(ii) the claimant files a request for such extension with the Customs Service—
+
+&emsp;&emsp;(I) within 1 year from the last day of the 3-year period referred to in paragraph (1), or
+
+&emsp;&emsp;(II) within 1 year after October 11, 1996,
+
+> &emsp;whichever is later.
+
+(B) If an extension is granted with respect to a request filed under this paragraph, the periods of time for retaining records set forth in subsection (t) of this section and section 1508(c)(3) of this title shall be extended for an additional 18 months or, in a case to which subparagraph (A)(ii) applies, for a period not to exceed 1 year from the date the claim is filed.
+
+(C) For purposes of this paragraph, the term “major disaster” has the meaning given that term in section 5122(2) of title 42.
+
 #### (s) Designation of merchandise by successor
 
 (1) For purposes of subsection (b) of this section, a drawback successor may designate imported merchandise used by the predecessor before the date of succession as the basis for drawback on articles manufactured by the drawback successor after the date of succession.
@@ -220,7 +236,7 @@ Packaging material, when used on or for articles or merchandise exported or dest
 
 &emsp;(A) imported merchandise which the predecessor, before the date of succession, imported; or
 
-&emsp;(B) imported merchandise, commercially interchangeable merchandise, or any combination of imported and commercially interchangeable merchandise for which the successor received, before the date of succession, from the person who imported and paid any duty due on the imported merchandise a certificate of delivery transferring to the successor such merchandise;
+&emsp;(B) imported merchandise, commercially interchangeable merchandise, or any combination of imported and commercially interchangeable merchandise for which the predecessor received, before the date of succession, from the person who imported and paid any duty due on the imported merchandise a certificate of delivery transferring to the predecessor such merchandise;
 
 > as the basis for drawback on merchandise possessed by the drawback successor after the date of succession.
 
@@ -258,7 +274,7 @@ Merchandise that is exported or destroyed to satisfy any claim for drawback shal
 
 &emsp;Notwithstanding paragraph (1), drawback shall also be available pursuant to subsection (a) of this section with respect to any tobacco subject to the over-quota rate of duty established under a tariff-rate quota.
 
-(June 17, 1930, ch. 497, title III, §313, 46 Stat. 693; May 17, 1932, ch. 190, 47 Stat. 158; June 26, 1936, ch. 830, title IV, §§402, 403, 49 Stat. 1960; Aug. 8, 1951, ch. 297, 65 Stat. 175; Aug. 8, 1953, ch. 397, §12, 67 Stat. 515; Aug. 6, 1956, ch. 1021, §2, 70 Stat. 1076; Aug. 18, 1958, Pub. L. 85–673, §1, 72 Stat. 624; Oct. 22, 1968, Pub. L. 90–630, §2(b), 82 Stat. 1328; Jan. 12, 1971, Pub. L. 91–692, §3(a), 84 Stat. 2076; Dec. 28, 1980, Pub. L. 96–609, title II, §201(a), 94 Stat. 3560; Oct. 30, 1984, Pub. L. 98–573, title II, §202, 98 Stat. 2973; Oct. 22, 1986, Pub. L. 99–514, title XVIII, §1888(2), 100 Stat. 2924; Sept. 28, 1988, Pub. L. 100–449, title II, §204(c)(3), 102 Stat. 1862; Aug. 20, 1990, Pub. L. 101–382, title I, §134(a)(1), (2), title III, §484A(a), 104 Stat. 649, 707; Dec. 8, 1993, Pub. L. 103–182, title II, §203(b)(3), (c), title VI, §632(a), 107 Stat. 2089, 2092, 2192; Dec. 8, 1994, Pub. L. 103–465, title IV, §§404(e)(5)(A), 422(d), 108 Stat. 4961, 4965.)
+(June 17, 1930, ch. 497, title III, §313, 46 Stat. 693; May 17, 1932, ch. 190, 47 Stat. 158; June 26, 1936, ch. 830, title IV, §§402, 403, 49 Stat. 1960; Aug. 8, 1951, ch. 297, 65 Stat. 175; Aug. 8, 1953, ch. 397, §12, 67 Stat. 515; Aug. 6, 1956, ch. 1021, §2, 70 Stat. 1076; Aug. 18, 1958, Pub. L. 85–673, §1, 72 Stat. 624; Oct. 22, 1968, Pub. L. 90–630, §2(b), 82 Stat. 1328; Jan. 12, 1971, Pub. L. 91–692, §3(a), 84 Stat. 2076; Dec. 28, 1980, Pub. L. 96–609, title II, §201(a), 94 Stat. 3560; Oct. 30, 1984, Pub. L. 98–573, title II, §202, 98 Stat. 2973; Oct. 22, 1986, Pub. L. 99–514, title XVIII, §1888(2), 100 Stat. 2924; Sept. 28, 1988, Pub. L. 100–449, title II, §204(c)(3), 102 Stat. 1862; Aug. 20, 1990, Pub. L. 101–382, title I, §134(a)(1), (2), title III, §484A(a), 104 Stat. 649, 707; Dec. 8, 1993, Pub. L. 103–182, title II, §203(b)(3), (c), title VI, §632(a), 107 Stat. 2089, 2092, 2192; Dec. 8, 1994, Pub. L. 103–465, title IV, §§404(e)(5)(A), 422(d), 108 Stat. 4961, 4965; Oct. 11, 1996, Pub. L. 104–295, §§7, 10, 21(e)(4), 110 Stat. 3518, 3519, 3530.)
 
 #### References in Text
 
@@ -285,6 +301,14 @@ R.S. §3048, which was not repealed, read as follows: “So much money as may be
 Permanent appropriations to pay debentures and other charges arising from duties, drawbacks, bounties, and allowances were also contained in R.S. §3689, incorporated in section 711 of former Title 31, Money and Finance, prior to repeal effective July 1, 1935, by act June 26, 1934, ch. 756, §§1, 2, 48 Stat. 1225.
 
 #### Amendments
+
+1996—Subsec. (j)(2). Pub. L. 104–295, §21(e)(4)(A), realigned margins.
+
+Subsec. (r)(3). Pub. L. 104–295, §7, added par. (3).
+
+Subsec. (s)(2)(B). Pub. L. 104–295, §10, substituted “predecessor” for “successor” in two places.
+
+Subsec. (t). Pub. L. 104–295, §21(e)(4)(B), made technical amendment to reference in original act which appears as reference to this chapter.
 
 1994—Subsec. (w). Pub. L. 103–465, §422(d), designated existing provisions as par. (1), inserted heading, and added par. (2).
 
@@ -314,7 +338,7 @@ Subsec. (<i>o</i>). Pub. L. 101–382, §134(a)(2), inserted at end “This subs
 
 Subsec. (p). Pub. L. 101–382, §484A(a), added subsec. (p).
 
-1988—Subsecs. (n), (<i>o</i>). Pub. L. 100–449 added subsecs. (n) and (<i>o).</i>
+1988—Subsecs. (n), (<i>o</i>). Pub. L. 100–449 added subsecs. (n) and (<i>o</i>).
 
 1986—Subsec. (j)(2), (3). Pub. L. 99–514, §1888(2)(A), redesignated par. (3) as (2) and redesignated par. (4) relating to imported packaging material as (3).
 
@@ -370,7 +394,7 @@ Section 632(b) of Pub. L. 103–182 provided that: “Notwithstanding section 51
 
 #### Effective Date of 1990 Amendment
 
-Amendment by section 484A(a) of Pub. L. 101–382 applicable to claims filed or liquidated on or after Jan. 1, 1988, and claims that are unliquidated, under protest, or in litigation on Aug. 20, 1990, see section 484A(c) of Pub. L. 101–382, set out as a note under section 1309 of this title.
+Amendment by section 484A(a) of Pub. L. 101–382 applicable to claims filed or liquidated on or after Jan. 1, 1988, and claims that are unliquidated, under protest, or in litigation on Aug. 20, 1990, see section 484A(c) ofPub. L. 101–382, set out as a note under section 1309 of this title.
 
 #### Effective and Termination Dates of 1988 Amendment
 

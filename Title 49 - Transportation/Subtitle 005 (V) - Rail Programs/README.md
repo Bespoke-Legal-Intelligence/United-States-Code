@@ -47,12 +47,15 @@
 |  |  |  |
 | :--- | :---: | ---: |
 | [<b>281.</b>](Part%20E%20-%20Miscellaneous/Chapter%20281%20-%20Law%20Enforcement/README.md) | <b>Law Enforcement</b> | <b>28101</b> |
+| [<b>283.</b>](Part%20E%20-%20Miscellaneous/Chapter%20283%20-%20Standard%20Work%20Day/README.md) | <b>Standard Work Day</b> | <b>28301</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
 
-1994—Pub. L. 103–440, title I, §103(b)(1), Nov. 2, 1994, 108 Stat. 4618, added part D and item for chapter 261, struck out former part D “MISCELLANEOUS” and former item for chapter 261 “Law Enforcement . . . 26101”, and added part E and item for chapter 281.
+1996—Pub. L. 104–287, §5(56)(B), Oct. 11, 1996, 110 Stat. 3394, added item for chapter 283.
+
+1994—Pub. L. 103–440, title I, §103(b)(1), Nov. 2, 1994, 108 Stat. 4618, added part D and item for chapter 261, struck out former part D “MISCELLANEOUS” and former item for chapter 261 “Law Enforcement . . . 26101”, and added part E and item for chapter 281.
 
 
 ---

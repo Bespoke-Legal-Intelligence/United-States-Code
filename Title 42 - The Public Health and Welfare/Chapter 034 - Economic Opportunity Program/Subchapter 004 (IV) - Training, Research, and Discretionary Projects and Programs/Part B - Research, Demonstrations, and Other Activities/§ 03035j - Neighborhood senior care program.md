@@ -28,7 +28,7 @@ As used in this section:
 
 #### (4) Application
 
-&emsp;To be eligible to receive a grant under this section, an entity shall submit an applicationto the Assistant Secretary at such time, in such manner, and containing such information as the Assistant Secretary may reasonably require. Each application shall—
+&emsp;To be eligible to receive a grant under this section, an entity shall submit an application to the Assistant Secretary at such time, in such manner, and containing such information as the Assistant Secretary may reasonably require. Each application shall—
 
 &emsp;&emsp;(A) describe the activities in the program for which assistance is sought;
 
@@ -52,7 +52,7 @@ The Assistant Secretary shall, to the extent appropriations are available, enter
 
 &emsp;(3) coordinate the neighborhood senior care programs;
 
-&emsp;(4) provide ongoing analysis of and collection of data on the neighborhood senior care programs and provide such data to the Assistant Secretary;
+&emsp;(4) provide ongoing analysis of and collection of data on the neighborhood senior careprograms and provide such data to the Assistant Secretary;
 
 &emsp;(5) serve as a liaison to State agencies interested in establishing neighborhood senior care programs; and
 

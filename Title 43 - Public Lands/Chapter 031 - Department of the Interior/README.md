@@ -37,6 +37,7 @@
 | [1471d.](%C2%A7%2001471d%20-%20Availability%20of%20appropriations%20for%20transportation%2C%20reprint%2C%20telephone%2C%20and%20library%20membership%20expenses.md) | Availability of appropriations for transportation, reprint, telephone, and library membership expenses. |
 | [1471e.](%C2%A7%2001471e%20-%20Reimbursement%20of%20employee%20license%20costs%20and%20certification%20fees.md) | Reimbursement of employee license costs and certification fees. |
 | [1471f.](%C2%A7%2001471f%20-%20Availability%20of%20appropriations%20for%20incremental%20funding%20of%20research%20work%20orders%20for%20cooperative%20agreements.md) | Availability of appropriations for incremental funding of research work orders for cooperative agreements. |
+| [1471g.](%C2%A7%2001471g%20-%20Availability%20of%20appropriations%20to%20support%20Memorial%20Day%20and%20Fourth%20of%20July%20ceremonies%20and%20activities%20in%20National%20Capital%20Region.md) | Availability of appropriations to support Memorial Day and Fourth of July ceremonies and activities in National Capital Region. |
 | [1472\.](%C2%A7%2001472%20-%20Bureau%20of%20Reclamation%20working%20capital%20fund.md) | Bureau of Reclamation working capital fund. |
 | (a) | Establishment; management of support activities of Bureau |
 | (b) | Fund credits; transfers to fund. |
@@ -94,6 +95,7 @@
 - [&sect; 01471d - Availability of appropriations for transportation, reprint, telephone, and library membership expenses](%C2%A7%2001471d%20-%20Availability%20of%20appropriations%20for%20transportation%2C%20reprint%2C%20telephone%2C%20and%20library%20membership%20expenses.md)
 - [&sect; 01471e - Reimbursement of employee license costs and certification fees](%C2%A7%2001471e%20-%20Reimbursement%20of%20employee%20license%20costs%20and%20certification%20fees.md)
 - [&sect; 01471f - Availability of appropriations for incremental funding of research work orders for cooperative agreements](%C2%A7%2001471f%20-%20Availability%20of%20appropriations%20for%20incremental%20funding%20of%20research%20work%20orders%20for%20cooperative%20agreements.md)
+- [&sect; 01471g - Availability of appropriations to support Memorial Day and Fourth of July ceremonies and activities in National Capital Region](%C2%A7%2001471g%20-%20Availability%20of%20appropriations%20to%20support%20Memorial%20Day%20and%20Fourth%20of%20July%20ceremonies%20and%20activities%20in%20National%20Capital%20Region.md)
 - [&sect; 01472 - Bureau of Reclamation working capital fund](%C2%A7%2001472%20-%20Bureau%20of%20Reclamation%20working%20capital%20fund.md)
 - [&sect; 01473 - Acceptance of contributions from private and public sources by Mineral Management Service](%C2%A7%2001473%20-%20Acceptance%20of%20contributions%20from%20private%20and%20public%20sources%20by%20Mineral%20Management%20Service.md)
 - [&sect; 01473a - Acceptance of contributions by Secretary; cooperation with prosecution of projects](%C2%A7%2001473a%20-%20Acceptance%20of%20contributions%20by%20Secretary%3B%20cooperation%20with%20prosecution%20of%20projects.md)

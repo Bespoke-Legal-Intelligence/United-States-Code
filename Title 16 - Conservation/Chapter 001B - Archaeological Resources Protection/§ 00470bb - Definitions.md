@@ -4,7 +4,7 @@ As used in this chapter—
 
 &emsp;(1) The term “archaeological resource” means any material remains of past human life or activities which are of archaeological interest, as determined under uniform regulations promulgated pursuant to this chapter. Such regulations containing such determination shall include, but not be limited to: pottery, basketry, bottles, weapons, weapon projectiles, tools, structures or portions of structures, pit houses, rock paintings, rock carvings, intaglios, graves, human skeletal materials, or any portion or piece of any of the foregoing items. Nonfossilized and fossilized paleontological specimens, or any portion or piece thereof, shall not be considered archaeological resources, under the regulations under this paragraph, unless found in archaeological context. No item shall be treated as an archaeological resource under regulations under this paragraph unless such item is at least 100 years of age.
 
-&emsp;(2) The term “Federal land manager” means, with respect to any public lands, the Secretary of the department, or the head of any other agency or instrumentality of the United States, having primary management authority over such lands. In the case of any public lands or Indian lands with respect to which no department, agency, or instrumentality has primary management authority, such termmeans the Secretary of the Interior. If the Secretary of the Interior consents, the responsibilities (in whole or in part) under this chapter of the Secretary of any department (other than the Department of the Interior) or the head of any other agency or instrumentality may be delegated to the Secretary of the Interior with respect to any land managed by such other Secretary or agency head, and in any such case, the term “Federal land manager” means the Secretary of the Interior.
+&emsp;(2) The term “Federal land manager” means, with respect to any public lands, the Secretary of the department, or the head of any other agency or instrumentality of the United States, having primary management authority over such lands. In the case of any public lands or Indian lands with respect to which no department, agency, or instrumentality has primary management authority, such term means the Secretary of the Interior. If the Secretary of the Interior consents, the responsibilities (in whole or in part) under this chapter of the Secretary of any department (other than the Department of the Interior) or the head of any other agency or instrumentality may be delegated to the Secretary of the Interior with respect to any land managed by such other Secretary or agency head, and in any such case, the term “Federal land manager” means the Secretary of the Interior.
 
 &emsp;(3) The term “public lands” means—
 
@@ -38,5 +38,5 @@ The Alaska Native Claims Settlement Act, referred to in par. (5), is Pub. L. 92�
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 470ii of this title.
+This section is referred to in section 470ii of this title; title 10 section 2684.
 

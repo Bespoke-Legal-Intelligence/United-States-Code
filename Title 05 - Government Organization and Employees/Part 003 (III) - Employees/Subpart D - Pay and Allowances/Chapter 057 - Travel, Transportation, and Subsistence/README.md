@@ -41,6 +41,9 @@
 | [5733\.](Subchapter%20002%20%28II%29%20-%20Travel%20and%20Transportation%20Expenses%3B%20New%20Appointees%2C%20Student%20Trainees%2C%20and%20Transferred%20Employees/%C2%A7%2005733%20-%20Expeditious%20travel.md) | Expeditious travel. |
 | [5734\.](Subchapter%20002%20%28II%29%20-%20Travel%20and%20Transportation%20Expenses%3B%20New%20Appointees%2C%20Student%20Trainees%2C%20and%20Transferred%20Employees/%C2%A7%2005734%20-%20Travel%2C%20transportation%2C%20and%20relocation%20expenses%20of%20employees%20transferred%20from%20the%20Postal%20Service.md) | Travel, transportation, and relocation expenses of employees transferred from the Postal Service. |
 | [5735\.](Subchapter%20002%20%28II%29%20-%20Travel%20and%20Transportation%20Expenses%3B%20New%20Appointees%2C%20Student%20Trainees%2C%20and%20Transferred%20Employees/%C2%A7%2005735%20-%20Travel%2C%20transportation%2C%20and%20relocation%20expenses%20of%20employees%20transferring%20to%20the%20United%20States%20Postal%20Service.md) | Travel, transportation, and relocation expenses of employees transferring to the United States Postal Service. |
+| [5736\.](Subchapter%20002%20%28II%29%20-%20Travel%20and%20Transportation%20Expenses%3B%20New%20Appointees%2C%20Student%20Trainees%2C%20and%20Transferred%20Employees/%C2%A7%2005736%20-%20Travel%2C%20transportation%2C%20and%20relocation%20expenses%20of%20certain%20nonappropriated%20fund%20employees.md) | Travel, transportation, and relocation expenses of certain nonappropriated fund employees. |
+| [5737\.](Subchapter%20002%20%28II%29%20-%20Travel%20and%20Transportation%20Expenses%3B%20New%20Appointees%2C%20Student%20Trainees%2C%20and%20Transferred%20Employees/%C2%A7%2005737%20-%20Relocation%20expenses%20of%20an%20employee%20who%20is%20performing%20an%20extended%20assignment.md) | Relocation expenses of an employee who is performing an extended assignment. |
+| [5738\.](Subchapter%20002%20%28II%29%20-%20Travel%20and%20Transportation%20Expenses%3B%20New%20Appointees%2C%20Student%20Trainees%2C%20and%20Transferred%20Employees/%C2%A7%2005738%20-%20Regulations.md) | Regulations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -62,32 +65,35 @@
 | [5753\.](Subchapter%20004%20%28IV%29%20-%20Miscellaneous%20Provisions/%C2%A7%2005753%20-%20Recruitment%20and%20relocation%20bonuses.md) | Recruitment and relocation bonuses. |
 | [5754\.](Subchapter%20004%20%28IV%29%20-%20Miscellaneous%20Provisions/%C2%A7%2005754%20-%20Retention%20allowances.md) | Retention allowances. |
 | [5755\.](Subchapter%20004%20%28IV%29%20-%20Miscellaneous%20Provisions/%C2%A7%2005755%20-%20Supervisory%20differentials.md) | Supervisory differentials. |
+| [5756\.](Subchapter%20004%20%28IV%29%20-%20Miscellaneous%20Provisions/%C2%A7%2005756%20-%20Home%20marketing%20incentive%20payment.md) | Home marketing incentive payment. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
 
-<b>1994</b>—Pub. L. 103–337, div. A, title III, §345(a)(2), Oct. 5, 1994, 108 Stat. 2724, added item 5735.
+1996—Pub. L. 104–201, div. A, title XVI, §1605(a)(2), title XVII, §1723(c), Sept. 23, 1996, 110 Stat. 2736, 2759, added items 5736 to 5738 and 5756.
 
-<b>1992</b>—Pub. L. 102–378, §2(46), Oct. 2, 1992, 106 Stat. 1353, struck out “; manpower shortage positions” after “trainees” in item 5723 and added item 5755.
+1994—Pub. L. 103–337, div. A, title III, §345(a)(2), Oct. 5, 1994, 108 Stat. 2724, added item 5735.
 
-<b>1990</b>—Pub. L. 101–509, title V, §529 \[title II, §§206(a)(2), 208(b)\], Nov. 5, 1990, 104 Stat. 1427, 1457, 1460, added items 5706b, 5753, and 5754.
+1992—Pub. L. 102–378, §2(46), Oct. 2, 1992, 106 Stat. 1353, struck out “; manpower shortage positions” after “trainees” in item 5723 and added item 5755.
+
+1990—Pub. L. 101–509, title V, §529 \[title II, §§206(a)(2), 208(b)\], Nov. 5, 1990, 104 Stat. 1427, 1457, 1460, added items 5706b, 5753, and 5754.
 
 Pub. L. 101–391, §4(b), Sept. 25, 1990, 104 Stat. 750, added item 5707a.
 
-<b>1986</b>—Pub. L. 99–234, title I, §§103(b), 106(b), Jan. 2, 1986, 99 Stat. 1758, 1759, added items 5706a and 5734.
+1986—Pub. L. 99–234, title I, §§103(b), 106(b), Jan. 2, 1986, 99 Stat. 1758, 1759, added items 5706a and 5734.
 
-<b>1983</b>—Pub. L. 98–151, §118(a)(7)(A)(ii), Nov. 14, 1983, 97 Stat. 979, added items 5724b and 5724c.
+1983—Pub. L. 98–151, §118(a)(7)(A)(ii), Nov. 14, 1983, 97 Stat. 979, added items 5724b and 5724c.
 
-<b>1978</b>—Pub. L. 95–454, title IV, §409(c), Oct. 13, 1978, 92 Stat. 1173, added item 5752.
+1978—Pub. L. 95–454, title IV, §409(c), Oct. 13, 1978, 92 Stat. 1173, added item 5752.
 
-<b>1975</b>—Pub. L. 94–22, §7, May 19, 1975, 89 Stat. 86, inserted “and reports” after “Regulations” in item 5707.
+1975—Pub. L. 94–22, §7, May 19, 1975, 89 Stat. 86, inserted “and reports” after “Regulations” in item 5707.
 
-<b>1970</b>—Pub. L. 91–563, §4(b), Dec. 19, 1970, 84 Stat. 1477, added heading of Subchapter IV and item 5751.
+1970—Pub. L. 91–563, §4(b), Dec. 19, 1970, 84 Stat. 1477, added heading of Subchapter IV and item 5751.
 
 Pub. L. 91–481, §1(2), Oct. 21, 1970, 84 Stat. 1081, added item 5709.
 
-<b>1967</b>—Pub. L. 90–206, title II, §222(c)(2), Dec. 16, 1967, 81 Stat. 641, added item 5733.
+1967—Pub. L. 90–206, title II, §222(c)(2), Dec. 16, 1967, 81 Stat. 641, added item 5733.
 
 Pub. L. 90–83 §1(37)(B), Sept. 11, 1967, 81 Stat. 205, added item 5724a.
 

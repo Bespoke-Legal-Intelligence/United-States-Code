@@ -72,5 +72,5 @@ Amendment by section 1006(t)(2)(A)(i), (19) of Pub. L. 100–647 effective, exce
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 860G of this title.
+This section is referred to in sections 860G, 860L of this title.
 

@@ -14,7 +14,7 @@ Upon the basis of facts disclosed by the reports of the Securities and Exchange 
 
 &emsp;(5) when the indenture contains provisions which are misleading or deceptive, or when full and fair disclosure is not made to prospective investors of the effect of important indenture provisions; or
 
-&emsp;(6) when, by reason of the fact that trust indentures are commonly prepared by the obligor or underwriter in advance of the public offering of the securities to be issued thereunder, such investors are unable to participate in the preparation thereof, and, by reason oftheir lack of understanding of the situation, such investors would in any event be unable to procure the correction of the defects enumerated in this subsection.
+&emsp;(6) when, by reason of the fact that trust indentures are commonly prepared by the obligor or underwriter in advance of the public offering of the securities to be issued thereunder, such investors are unable to participate in the preparation thereof, and, by reason of their lack of understanding of the situation, such investors would in any event be unable to procure the correction of the defects enumerated in this subsection.
 
 #### (b) Declaration of policy
 

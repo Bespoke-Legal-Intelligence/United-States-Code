@@ -46,7 +46,7 @@ The specific objective of the United States under this subchapter shall be to cr
 
 #### (B) Implementing bill
 
-&emsp;&emsp;The implementing bill referred to in subparagraph (A) shall contain only those provisions that are necessary or appropriate to implement an extension of the provisions of section 1677(5B)(B), (C), (D), and (E) of this title as in effect on the day before the date of the enactment of the implementing bill or as modified to reflect the determination of the Subsidies Committee to extend Articles 6.1, 8, and 9 of the Subsidies Agreement.
+&emsp;&emsp;The implementing bill referred to in subparagraph (A) shall contain only those provisions that are necessary or appropriate to implement an extension of the provisions of section 1677(5B)(B), (C), (D), and (E) of thistitle as in effect on the day before the date of the enactment of the implementing bill or as modified to reflect the determination of the Subsidies Committee to extend Articles 6.1, 8, and 9 of the Subsidies Agreement.
 
 #### (C) Supporting information
 
@@ -84,11 +84,15 @@ The Secretary of Commerce, in consultation with other appropriate departments an
 
 > Not later than 4 years and 6 months after December 8, 1994, the Secretary of Commerce shall submit to the Congress a report on the review required under this subsection.
 
-(Pub. L. 103–465, title II, §282, Dec. 8, 1994, 108 Stat. 4927.)
+(Pub. L. 103–465, title II, §282, Dec. 8, 1994, 108 Stat. 4927; Pub. L. 104–295, §20(b)(16), Oct. 11, 1996, 110 Stat. 3527.)
 
 #### Codification
 
 Section is comprised of section 282 of Pub. L. 103–465. Subsec. (c)(4) of section 282 of Pub. L. 103–465 amended section 2191 of this title.
+
+#### Amendments
+
+1996—Subsec. (d). Pub. L. 104–295 realigned margins.
 
 #### Uruguay Round Agreements: Entry Into Force
 

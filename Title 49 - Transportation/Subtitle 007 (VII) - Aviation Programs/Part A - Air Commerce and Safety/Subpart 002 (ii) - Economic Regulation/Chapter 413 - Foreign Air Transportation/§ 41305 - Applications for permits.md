@@ -22,7 +22,9 @@ Terms.—The Secretary may impose terms for providing foreign air transportation
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -36,7 +38,7 @@ Aug. 23, 1958, Pub. L. 85–726, §402(c), (e) (related to terms, conditions, or
 
 &nbsp;
 
-49 App.:1551(b) (1)(E).
+49 App.:1551(b)(1)(E).
 
 Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1601(b)(1)(E); added Oct. 4, 1984, Pub. L. 98–443, §3(e), 98 Stat. 1704.
 
@@ -48,7 +50,7 @@ Aug. 23, 1958, Pub. L. 85–726, §402(d), 72 Stat. 758; Feb. 15, 1980, Pub. L. 
 
 &nbsp;
 
-49 App.:1551(b) (1)(E).
+49 App.:1551(b)(1)(E).
 
 41305(b)
 
@@ -56,15 +58,11 @@ Aug. 23, 1958, Pub. L. 85–726, §402(d), 72 Stat. 758; Feb. 15, 1980, Pub. L. 
 
 &nbsp;
 
-49 App.:1551(b) (1)(E).
+49 App.:1551(b)(1)(E).
 
 In subsection (a)(1), before clause (A), the words “A person must apply . . . to the Secretary of Transportation to be issued a permit under section 41302 of this title” are added for clarity. Clause (C) is added for clarity.
 
 In subsection (a)(2), the words “give due notice thereof to the public by” are omitted as surplus. The word “response” is substituted for “protest or memorandum” to eliminate unnecessary words. The word “expeditiously” is substituted for “speedily” for consistency in this chapter.
 
 In subsection (b), the words “reasonable” and “conditions, or limitations” are omitted as surplus. The words “for providing foreign air transportation” are added for clarity.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 40109, 46301 of this title.
 

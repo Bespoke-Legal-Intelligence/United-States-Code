@@ -7,7 +7,7 @@
 | [1164\.](%C2%A7%2001164%20-%20Warrant%20officers%20separation%20for%20age.md) | Warrant officers: separation for age. |
 | [1165\.](%C2%A7%2001165%20-%20Regular%20warrant%20officers%20separation%20during%20three-year%20probationary%20period.md) | Regular warrant officers: separation during three-year probationary period. |
 | [1166\.](%C2%A7%2001166%20-%20Regular%20warrant%20officers%20elimination%20for%20unfitness%20or%20unsatisfactory%20performance.md) | Regular warrant officers: elimination for unfitness or unsatisfactory performance. |
-| \[1167. | Repealed.\] |
+| [1167\.](%C2%A7%2001167%20-%20Members%20under%20confinement%20by%20sentence%20of%20court-martial%20separation%20after%20six%20months%20confinement.md) | Members under confinement by sentence of court-martial: separation after six months confinement. |
 | [1168\.](%C2%A7%2001168%20-%20Discharge%20or%20release%20from%20active%20duty%20limitations.md) | Discharge or release from active duty: limitations. |
 | [1169\.](%C2%A7%2001169%20-%20Regular%20enlisted%20members%20limitations%20on%20discharge.md) | Regular enlisted members: limitations on discharge. |
 | [1170\.](%C2%A7%2001170%20-%20Regular%20enlisted%20members%20minority%20discharge.md) | Regular enlisted members: minority discharge. |
@@ -18,11 +18,15 @@
 | [1174a.](%C2%A7%2001174a%20-%20Special%20separation%20benefits%20programs.md) | Special separation benefits programs. |
 | [1175\.](%C2%A7%2001175%20-%20Voluntary%20separation%20incentive.md) | Voluntary separation incentive. |
 | [1176\.](%C2%A7%2001176%20-%20Enlisted%20members%20retention%20after%20completion%20of%2018%20or%20more%2C%20but%20less%20than%2020%2C%20years%20of%20service.md) | Enlisted members: retention after completion of 18 or more, but less than 20, years of service. |
-| [1177\.](%C2%A7%2001177%20-%20Members%20who%20are%20permanently%20nonworldwide%20assignable%20mandatory%20discharge%20or%20retirement%3B%20counseling.md) | Members who are permanently nonworldwide assignable: mandatory discharge or retirement; counseling. |
+| \[1177. | Repealed.\] |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1996—Pub. L. 104–134, title II, §2707(a)(2), Apr. 26, 1996, 110 Stat. 1321–330, struck out item 1177 “Members infected with HIV–1 virus: mandatory discharge or retirement”.
+
+Pub. L. 104–106, div. A, title V, §§563(a)(1)(B), 567(a)(2), Feb. 10, 1996, 110 Stat. 325, 329, added item 1167 and substituted “Members infected with HIV–1 virus: mandatory discharge or retirement” for “Members who are permanently nonworldwide assignable: mandatory discharge or retirement; counseling” in item 1177.
 
 1994—Pub. L. 103–337, div. A, title V, §560(a)(2), title XVI, §1671(b)(10), Oct. 5, 1994, 108 Stat. 2778, 3013, struck out items 1162 “Reserves: discharge” and 1163 “Reserve components: members; limitations on separation” and added item 1177.
 
@@ -48,7 +52,7 @@
 - [&sect; 01164 - Warrant officers separation for age](%C2%A7%2001164%20-%20Warrant%20officers%20separation%20for%20age.md)
 - [&sect; 01165 - Regular warrant officers separation during three-year probationary period](%C2%A7%2001165%20-%20Regular%20warrant%20officers%20separation%20during%20three-year%20probationary%20period.md)
 - [&sect; 01166 - Regular warrant officers elimination for unfitness or unsatisfactory performance](%C2%A7%2001166%20-%20Regular%20warrant%20officers%20elimination%20for%20unfitness%20or%20unsatisfactory%20performance.md)
-- [&sect; 01167 - Repealed. Pub. L. 96&#8211;513, title I, &sect;109(b)(3), Dec. 12, 1980, 94 Stat. 2870](%C2%A7%2001167%20-%20Repealed.%20Pub.%20L.%2096%E2%80%93513%2C%20title%20I%2C%20%C2%A7109%28b%29%283%29%2C%20Dec.%2012%2C%201980%2C%2094%20Stat.%202870.md)
+- [&sect; 01167 - Members under confinement by sentence of court-martial separation after six months confinement](%C2%A7%2001167%20-%20Members%20under%20confinement%20by%20sentence%20of%20court-martial%20separation%20after%20six%20months%20confinement.md)
 - [&sect; 01168 - Discharge or release from active duty limitations](%C2%A7%2001168%20-%20Discharge%20or%20release%20from%20active%20duty%20limitations.md)
 - [&sect; 01169 - Regular enlisted members limitations on discharge](%C2%A7%2001169%20-%20Regular%20enlisted%20members%20limitations%20on%20discharge.md)
 - [&sect; 01170 - Regular enlisted members minority discharge](%C2%A7%2001170%20-%20Regular%20enlisted%20members%20minority%20discharge.md)
@@ -59,4 +63,4 @@
 - [&sect; 01174a - Special separation benefits programs](%C2%A7%2001174a%20-%20Special%20separation%20benefits%20programs.md)
 - [&sect; 01175 - Voluntary separation incentive](%C2%A7%2001175%20-%20Voluntary%20separation%20incentive.md)
 - [&sect; 01176 - Enlisted members retention after completion of 18 or more, but less than 20, years of service](%C2%A7%2001176%20-%20Enlisted%20members%20retention%20after%20completion%20of%2018%20or%20more%2C%20but%20less%20than%2020%2C%20years%20of%20service.md)
-- [&sect; 01177 - Members who are permanently nonworldwide assignable mandatory discharge or retirement; counseling](%C2%A7%2001177%20-%20Members%20who%20are%20permanently%20nonworldwide%20assignable%20mandatory%20discharge%20or%20retirement%3B%20counseling.md)
+- [&sect; 01177 - Repealed. Pub. L. 104&#8211;134, title II, &sect;2707(a)(1), Apr. 26, 1996, 110 Stat. 1321&#8211;330](%C2%A7%2001177%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93134%2C%20title%20II%2C%20%C2%A72707%28a%29%281%29%2C%20Apr.%2026%2C%201996%2C%20110%20Stat.%201321%E2%80%93330.md)

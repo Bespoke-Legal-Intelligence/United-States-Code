@@ -32,7 +32,7 @@
 | [427\.](%C2%A7%2000427%20-%20Agriculture%20research%3B%20declaration%20of%20policy%3B%20duties%20of%20Secretary%20of%20Agriculture%3B%20use%20of%20existing%20facilities.md) | Agriculture research; declaration of policy; duties of Secretary of Agriculture; use of existing facilities. |
 | 427a to 427h. Repealed. |  |
 | [427i.](%C2%A7%2000427i%20-%20Agricultural%20research%3B%20authorization%20of%20additional%20appropriations%3B%20administrative%20expenses%3B%20availability%20of%20special%20research%20fund.md) | Agricultural research; authorization of additional appropriations; administrative expenses; availability of special research fund. |
-| 427j, 428. Repealed or Omitted. |  |
+| 427j, 428. | Repealed or Omitted. |
 | [428a.](%C2%A7%2000428a%20-%20Acquisition%20of%20land%3B%20options.md) | Acquisition of land; options. |
 | [428b.](%C2%A7%2000428b%20-%20Wheat%20and%20feed%20grains%20research%3B%20regional%20and%20national%20research%20programs%3B%20utilization%20of%20services%20of%20Federal%2C%20State%20and%20private%20agencies%E2%80%A6.md) | Wheat and feed grains research; regional and national research programs; utilization of services of Federal, State and private agencies; authorization of appropriations. |
 | [428c.](%C2%A7%2000428c%20-%20Rice%20research.md) | Rice research. |
@@ -86,7 +86,7 @@
 | (i) | Rules. |
 | (j) | Application of other laws. |
 | (k) | Emphasis on sustainable agriculture. |
-| (<i>l)</i> | Consultation with Technology Board. |
+| (<i>l</i>) | Consultation with Technology Board. |
 | [450j.](%C2%A7%2000450j%20-%20Indemnity%20payments%20to%20dairy%20farmers%20and%20manufacturers%20of%20dairy%20products%3B%20milk%20removed%20for%20its%20residue%20of%20chemical%20or%20toxic%20substances%E2%80%A6.md) | Indemnity payments to dairy farmers and manufacturers of dairy products; milk removed for its residue of chemical or toxic substances; nuclear radiation or fallout contaminants; other legal recourse. |
 | [450k.](%C2%A7%2000450k%20-%20Authorization%20of%20appropriations%20for%20dairy%20farmer%20indemnities.md) | Authorization of appropriations for dairy farmer indemnities. |
 | 450<i>l.</i> | Expiration of dairy farmer indemnity program. |

@@ -33,7 +33,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 5 U.S.C. 1010 (3d sentence).
 
@@ -49,11 +51,11 @@ Level IV of the Executive Schedule, referred to in subsec. (b)(1), is set out in
 
 #### Amendments
 
-<b>1992</b>—Subsec. (c). Pub. L. 102–378 substituted “shall” for “shall,”.
+1992—Subsec. (c). Pub. L. 102–378 substituted “shall” for “shall,”.
 
-<b>1990</b>—Pub. L. 101–509 amended section generally. Prior to amendment, section read as follows: “Administrative law judges appointed under section 3105 of this title are entitled to pay prescribed by the Office of Personnel Management independently of agency recommendations or ratings and in accordance with subchapter III of this chapter and chapter 51 of this title.”
+1990—Pub. L. 101–509 amended section generally. Prior to amendment, section read as follows: “Administrative law judges appointed under section 3105 of this title are entitled to pay prescribed by the Office of Personnel Management independently of agency recommendations or ratings and in accordance with subchapter III of this chapter and chapter 51 of this title.”
 
-<b>1978</b>—Pub. L. 95–454, §906(a)(2), substituted “Office of Personnel Management” for “Civil Service Commission”.
+1978—Pub. L. 95–454, §906(a)(2), substituted “Office of Personnel Management” for “Civil Service Commission”.
 
 Pub. L. 95–251 substituted “Administrative law judges” for “Hearing examiners” in section catchline and text.
 

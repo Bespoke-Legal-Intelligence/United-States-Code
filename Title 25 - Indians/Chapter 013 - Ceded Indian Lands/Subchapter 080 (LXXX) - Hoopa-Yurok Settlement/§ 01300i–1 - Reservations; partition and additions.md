@@ -48,7 +48,7 @@ Effective with the partition of the joint reservation as provided in subsection 
 
 #### (e) Management of the Yurok Reservation
 
-The Secretary shall be responsible for the management of the unallotted trust land and assets of the Yurok Reservation until such time as the Yurok Tribe has been organized pursuant to section 1300i–8 of this title. Thereafter, those lands and assets shall be administered as tribal trust land and the Yurok reservation governed by the Yurok Tribe as other reservations are governed by the tribes of those reservations.
+The Secretary shall be responsible for the management of the unallotted trust land and assets of the Yurok Reservation until such time as the Yurok Tribe has been organized pursuant tosection 1300i–8 of this title. Thereafter, those lands and assets shall be administered as tribal trust land and the Yurok reservation governed by the Yurok Tribe as other reservations are governed by the tribes of those reservations.
 
 #### (f) Criminal and civil jurisdiction
 

@@ -3,7 +3,7 @@ Subpart C—Taxable Year for Which Deductions Taken
 | Sec. |  |
 | :--- | ---: |
 | [461\.](%C2%A7%2000461%20-%20General%20rule%20for%20taxable%20year%20of%20deduction.md) | General rule for taxable year of deduction. |
-| \[462, 463. Repealed.\] |  |
+| \[462, 463. | Repealed.\] |
 | [464\.](%C2%A7%2000464%20-%20Limitations%20on%20deductions%20for%20certain%20farming.md) | Limitations on deductions for certain farming expenses.<sup>1</sup> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

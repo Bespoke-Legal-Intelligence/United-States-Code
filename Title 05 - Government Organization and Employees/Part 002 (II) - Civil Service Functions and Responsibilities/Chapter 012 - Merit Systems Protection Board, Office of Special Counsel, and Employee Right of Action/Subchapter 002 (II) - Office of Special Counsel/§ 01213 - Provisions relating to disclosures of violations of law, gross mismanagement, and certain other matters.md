@@ -18,7 +18,7 @@
 
 (b) Whenever the Special Counsel receives information of a type described in subsection (a) of this section, the Special Counsel shall review such information and, within 15 days after receiving the information, determine whether there is a substantial likelihood that the information discloses a violation of any law, rule, or regulation, or gross mismanagement, gross waste of funds, abuse of authority, or substantial and specific danger to public health and safety.
 
-(c)(1) Subject to paragraph (2), if the Special Counsel makes a positive determination under subsection (b) of this section, the Special Counsel shall promptly transmit the informationwith respect to which the determination was made to the appropriate agency head and require that the agency head—
+(c)(1) Subject to paragraph (2), if the Special Counsel makes a positive determination under subsection (b) of this section, the Special Counsel shall promptly transmit the information with respect to which the determination was made to the appropriate agency head and require that the agency head—
 
 &emsp;(A) conduct an investigation with respect to the information and any related matters transmitted by the Special Counsel to the agency head; and
 
@@ -58,9 +58,9 @@
 
 &emsp;(B) the report of the agency under subsection (c)(1) of this section contains the information required under subsection (d) of this section.
 
-(3) The Special Counsel shall transmit any agency report received pursuant to subsection (c) of this section, any comments provided by the complainant pursuant to subsection (e)(1), and any appropriate comments or recommendations by the Special Counsel to the President, the congressional committees with jurisdiction over the agency which the disclosure involves, and the Comptroller General.
+(3) The Special Counsel shall transmit any agency report received pursuant to subsection (c) of this section, any comments provided by the complainant pursuant to subsection (e)(1), and any appropriate comments or recommendations by the Special Counsel to the President and the congressional committees with jurisdiction over the agency which the disclosure involves.
 
-(4) Whenever the Special Counsel does not receive the report of the agency within the time prescribed in subsection (c)(2) of this section, the Special Counsel shall transmit a copy of the information which was transmitted to the agency head to the President, the congressional committees with jurisdiction over the agency which the disclosure involves, and the Comptroller General together with a statement noting the failure of the head of the agency to file the required report.
+(4) Whenever the Special Counsel does not receive the report of the agency within the time prescribed in subsection (c)(2) of this section, the Special Counsel shall transmit a copy of the information which was transmitted to the agency head to the President and the congressional committees with jurisdiction over the agency which the disclosure involves together with a statement noting the failure of the head of the agency to file the required report.
 
 (f) In any case in which evidence of a criminal violation obtained by an agency in an investigation under subsection (c) of this section is referred to the Attorney General—
 
@@ -82,7 +82,7 @@
 
 &emsp;&emsp;(ii) other offices available for receiving disclosures, should the individual wish to pursue the matter further.
 
-(h) The identity of any individual who makes a disclosure described in subsection (a) may notbe disclosed by the Special Counsel without such individual's consent unless the Special Counsel determines that the disclosure of the individual's identity is necessary because of an imminent danger to public health or safety or imminent violation of any criminal law.
+(h) The identity of any individual who makes a disclosure described in subsection (a) may not be disclosed by the Special Counsel without such individual's consent unless the Special Counsel determines that the disclosure of the individual's identity is necessary because of an imminent danger to public health or safety or imminent violation of any criminal law.
 
 (i) Except as specifically authorized under this section, the provisions of this section shall not be considered to authorize disclosure of any information by any agency or any person which is—
 
@@ -92,7 +92,13 @@
 
 (j) With respect to any disclosure of information described in subsection (a) which involves foreign intelligence or counterintelligence information, if the disclosure is specifically prohibited by law or by Executive order, the Special Counsel shall transmit such information to the National Security Advisor, the Permanent Select Committee on Intelligence of the House of Representatives, and the Select Committee on Intelligence of the Senate.
 
-(Added Pub. L. 101–12, §3(a)(13), Apr. 10, 1989, 103 Stat. 21.)
+(Added Pub. L. 101–12, §3(a)(13), Apr. 10, 1989, 103 Stat. 21; amended Pub. L. 104–316, title I, §103(a), Oct. 19, 1996, 110 Stat. 3828.)
+
+#### Amendments
+
+1996—Subsec. (e)(3). Pub. L. 104–316, §103(a)(1), substituted “President and” for “President,” and struck out “, and the Comptroller General” before period at end.
+
+Subsec. (e)(4). Pub. L. 104–316, §103(a)(2), substituted “President and” for “President,” and struck out “, and the Comptroller General” before “together with a”.
 
 #### Section Referred to in Other Sections
 

@@ -16,7 +16,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 5 U.S.C. 854 (1st 2 sentences, so much as relates to transfer).
 
@@ -30,9 +32,9 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-<b>1978</b>—Pub. L. 95–454 substituted “Office of Personnel Management” and “Office” for “Civil Service Commission” and “Commission”, respectively.
+1978—Pub. L. 95–454 substituted “Office of Personnel Management” and “Office” for “Civil Service Commission” and “Commission”, respectively.
 
-<b>1975</b>—Pub. L. 94–183 struck out “, except an appointment made under section 3311 of title 39” after “or made with the advice and consent of, the Senate”.
+1975—Pub. L. 94–183 struck out “, except an appointment made under section 3311 of title 39” after “or made with the advice and consent of, the Senate”.
 
 #### Effective Date of 1978 Amendment
 
@@ -44,5 +46,5 @@ Definition of preference eligible, see section 2108 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 22 section 1438.
+This section is referred to in title 10 section 1599c; title 22 section 1438.
 

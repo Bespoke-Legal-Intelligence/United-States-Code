@@ -1,6 +1,6 @@
 ### §1703. Contracts for hospital care and medical services in non-Department facilities
 
-(a) When Department facilities are not capable of furnishing economical hospital care or medical services because of geographical inaccessibility or are not capable of furnishing the care or services required, the Secretary, as authorized in section 1710 or 1712 of this title, may contract with non-Department facilities in order to furnish any of the following:
+(a) When Department facilities are not capable of furnishing economical hospital care or medical services because of geographical inaccessibility or are not capable of furnishing the care or services required, the Secretary, as authorized in section 1710 of this title, may contract with non-Department facilities in order to furnish any of the following:
 
 &emsp;(1) Hospital care or medical services to a veteran for the treatment of—
 
@@ -12,11 +12,11 @@
 
 &emsp;(2) Medical services for the treatment of any disability of—
 
-&emsp;&emsp;(A) a veteran described in section 1712(a)(1)(B) of this title;
+&emsp;&emsp;(A) a veteran described in section 1710(a)(1)(B) of this title;
 
-&emsp;&emsp;(B) a veteran described in paragraph (2), (3), or (4) of section 1712(a) of this title, for a purpose described in section 1712(a)(5)(B) of this title;
+&emsp;&emsp;(B) a veteran who (i) has been furnished hospital care, nursing home care, domiciliary care, or medical services, and (ii) requires medical services to complete treatment incident to such care or services; or
 
-&emsp;&emsp;(C) a veteran described in section 1712(a)(3) (other than a veteran who is a former prisoner of war) of this title if the Secretary has determined, based on an examination by a physician employed by the Department (or, in areas where no such physician is available, by a physician carrying out such function under a contract or fee arrangement), that the medical condition of such veteran precludes appropriate treatment in Department facilities.
+&emsp;&emsp;(C) a veteran described in section 1710(a)(2)(E) of this title, or a veteran who is in receipt of increased pension, or additional compensation or allowances based on the need of regular aid and attendance or by reason of being permanently housebound (or who, but for the receipt of retired pay, would be in receipt of such pension, compensation, or allowance), if the Secretary has determined, based on an examination by a physician employed by the Department (or, in areas where no such physician is available, by a physician carrying out such function under a contract or fee arrangement), that the medical condition of such veteran precludes appropriate treatment in Department facilities.
 
 &emsp;(3) Hospital care or medical services for the treatment of medical emergencies which pose a serious threat to the life or health of a veteran receiving medical services in a Department facility or nursing home care under section 1720 of this title until such time following the furnishing of care in the non-Department facility as the veteran can be safely transferred to a Department facility.
 
@@ -26,7 +26,7 @@
 
 &emsp;(6) Diagnostic services necessary for determination of eligibility for, or of the appropriate course of treatment in connection with, furnishing medical services at independent Department out-patient clinics to obviate the need for hospital admission.
 
-&emsp;(7) Outpatient dental services and treatment, and related dental appliances, for a veteran described in section 1712(b)(1)(F) of this title.
+&emsp;(7) Outpatient dental services and treatment, and related dental appliances, for a veteran described in section 1712(a)(1)(F) of this title.
 
 &emsp;(8) Diagnostic services (on an inpatient or outpatient basis) for observation or examination of a person to determine eligibility for a benefit or service under laws administered by the Secretary.
 
@@ -34,13 +34,23 @@
 
 (c) The Secretary shall include in the budget documents which the Secretary submits to Congress for any fiscal year a detailed report on the furnishing of contract care and services during the most recently completed fiscal year under this section, sections 1712A, 1720, 1720A, 1724, and 1732 of this title, and section 115 of the Veterans’ Benefits and Services Act of 1988 (Public Law 100–322; 102 Stat. 501).
 
-(Added Pub. L. 99–272, title XIX, §19012(b)(1), Apr. 7, 1986, 100 Stat. 380, §603; amended Pub. L. 99–166, title I, §102(b)(1), Dec. 3, 1985, 99 Stat. 943; Pub. L. 99–272, title XIX, §19012(c)(5)(A), Apr. 7, 1986, 100 Stat. 382; Pub. L. 100–322, title I, §§101(e)(3), 104, 112(a), May 20, 1988, 102 Stat. 492, 493, 499; Pub. L. 100–687, div. B, title XV, §1503(a)(1), Nov. 18, 1988, 102 Stat. 4133; Pub. L. 102–54, §14(b)(9), June 13, 1991, 105 Stat. 283; renumbered §1703 and amended Pub. L. 102–83, §§4(a)(1), (3)–(5), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 403–406; Pub. L. 102–585, title V, §501, Nov. 4, 1992, 106 Stat. 4955.)
+(Added Pub. L. 99–272, title XIX, §19012(b)(1), Apr. 7, 1986, 100 Stat. 380, §603; amended Pub. L. 99–166, title I, §102(b)(1), Dec. 3, 1985, 99 Stat. 943; Pub. L. 99–272, title XIX, §19012(c)(5)(A), Apr. 7, 1986, 100 Stat. 382; Pub. L. 100–322, title I, §§101(e)(3), 104, 112(a), May 20, 1988, 102 Stat. 492, 493, 499; Pub. L. 100–687, div. B, title XV, §1503(a)(1), Nov. 18, 1988, 102 Stat. 4133; Pub. L. 102–54, §14(b)(9), June 13, 1991, 105 Stat. 283; renumbered §1703 and amended Pub. L. 102–83, §§4(a)(1), (3)–(5), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 403–406; Pub. L. 102–585, title V, §501, Nov. 4, 1992, 106 Stat. 4955; Pub. L. 104–262, title I, §104(b), Oct. 9, 1996, 110 Stat. 3184.)
 
 #### References in Text
 
 Section 115 of the Veterans’ Benefits and Services Act of 1988, referred to in subsec. (c), is set out as a note under section 1712 of this title.
 
 #### Amendments
+
+1996—Subsec. (a). Pub. L. 104–262, §104(b)(1), struck out “or 1712” after “, as authorized in section 1710” in introductory provisions.
+
+Subsec. (a)(2)(A). Pub. L. 104–262, §104(b)(2)(A), substituted “1710(a)(1)(B)” for “1712(a)(1)(B)”.
+
+Subsec. (a)(2)(B). Pub. L. 104–262, §104(b)(2)(B), added subpar. (B) and struck out former subpar. (B) which read as follows: “a veteran described in paragraph (2), (3), or (4) of section 1712(a) of this title, for a purpose described in section 1712(a)(5)(B) of this title;”.
+
+Subsec. (a)(2)(C). Pub. L. 104–262, §104(b)(2)(C), substituted “section 1710(a)(2)(E) of this title, or a veteran who is in receipt of increased pension, or additional compensation or allowances based on the need of regular aid and attendance or by reason of being permanently housebound (or who, but for the receipt of retired pay, would be in receipt of such pension, compensation, or allowance),” for “section 1712(a)(3) (other than a veteran who is a former prisoner of war) of this title”.
+
+Subsec. (a)(7). Pub. L. 104–262, §104(b)(3), substituted “1712(a)(1)(F)” for “1712(b)(1)(F)”.
 
 1992—Subsec. (a)(1)(C). Pub. L. 102–585 added subpar. (C).
 
@@ -72,7 +82,7 @@ Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administ
 
 Pub. L. 102–54, §14(b)(9)(C), inserted before period at end “(Public Law 100–322; 102 Stat. 501)”.
 
-1988—Subsec. (a). Pub. L. 100–322, §104(b)(1), substituted “furnish any of the following:” for “furnish—”.
+1988—Subsec. (a). Pub. L. 100–322, §104(b)(1), substituted  “furnish  any  of  the  following:”  for “furnish—”.
 
 Subsec. (a)(1). Pub. L. 100–322, §104(b)(2), (3), substituted “Hospital” for “hospital” and the period for semicolon at end.
 
@@ -98,7 +108,7 @@ Subsec. (c). Pub. L. 100–322, §112(a), added subsec. (c).
 
 1986—Subsec. (a)(5). Pub. L. 99–272, §19012(c)(5)(A), made conforming amendment to Pub. L. 99–166, §102(b)(1). See 1985 Amendment note below.
 
-1985—Subsec. (a)(5). Pub. L. 99–166, §102(b)(1), as amended by Pub. L. 99–272, §19012(c)(5)(A), inserted “(other than the Commonwealth of Puerto Rico)” after “in a State” and substituted “contiguous States and the Commonwealth of Puerto Rico” for “contiguous States, but the authority of the Administrator under this paragraph with respect to the Commonwealth of Puerto Rico shall expire on September 30, 1988, and until such date the Administrator may, if necessary toprevent hardship, waive the applicability to the Commonwealth of Puerto Rico of the restrictions in this paragraph with respect to hospital patient loads and the incidence of the furnishing of medical services”.
+1985—Subsec. (a)(5). Pub. L. 99–166, §102(b)(1), as amended by Pub. L. 99–272, §19012(c)(5)(A), inserted “(other than the Commonwealth of Puerto Rico)” after “in a State” and substituted “contiguous States and the Commonwealth of Puerto Rico” for “contiguous States, but the authority of the Administrator under this paragraph with respect to the Commonwealth of Puerto Rico shall expire on September 30, 1988, and until such date the Administrator may, if necessary to prevent hardship, waive the applicability to the Commonwealth of Puerto Rico of the restrictions in thisparagraph with respect to hospital patient loads and the incidence of the furnishing of medical services”.
 
 #### Effective Date of 1988 Amendments
 
@@ -120,5 +130,5 @@ Section 102(b)(2)–(5) of Pub. L. 99–166, as amended by Pub. L. 99–272, tit
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1710, 1712, 1712A, 2303 of this title; title 42 section 1395cc.
+This section is referred to in sections 1712, 1712A, 2303 of this title; title 42 section 1395cc.
 

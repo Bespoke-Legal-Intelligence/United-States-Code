@@ -18,7 +18,7 @@ Each Agricultural Trade Officer shall, through the Agricultural Counselor or Att
 
 #### (e) Office functions and activities
 
-Each Agricultural Trade Officer shall be responsible for the exercise of the functions of the United States Agricultural Trade Office, and shall have the authority to direct and supervise all personnel and activities thereof.
+Each Agricultural Trade Officer shall be responsible for the exercise of the functions of theUnited States Agricultural Trade Office, and shall have the authority to direct and supervise all personnel and activities thereof.
 
 #### (f) Personnel; employment of local nationals
 
@@ -30,7 +30,7 @@ No employee of any United States Agricultural Trade Office may engage in any bus
 
 #### (h) Diplomatic privileges and immunities
 
-Upon the request of the Secretary of Agriculture, the Secretary of State shall request forAgricultural Trade Officers and personnel of United States Agricultural Trade Offices diplomatic privileges and immunities equivalent to those enjoyed by members of the Foreign Service of comparable rank and salary.
+Upon the request of the Secretary of Agriculture, the Secretary of State shall request for Agricultural Trade Officers and personnel of United States Agricultural Trade Offices diplomatic privileges and immunities equivalent to those enjoyed by members of the Foreign Service of comparable rank and salary.
 
 (Aug. 28, 1954, ch. 1041, title VI, §605A, as added Oct. 21, 1978, Pub. L. 95–501, title IV, §401(1), 92 Stat. 1688; amended Oct. 17, 1980, Pub. L. 96–465, title II, §2206(b)(1), 94 Stat. 2162.)
 
@@ -49,10 +49,6 @@ Amendment by Pub. L. 96–465 effective Feb. 15, 1981, except as otherwise provi
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
 References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1736m of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

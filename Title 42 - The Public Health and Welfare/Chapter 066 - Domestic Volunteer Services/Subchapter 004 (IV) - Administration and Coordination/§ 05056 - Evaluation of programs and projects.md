@@ -60,7 +60,7 @@ Section 5047 of this title, referred to in subsec. (b), was repealed by Pub. L. 
 
 1989—Subsec. (a). Pub. L. 101–204 inserted “(including the VISTA Literacy Corps which shall be evaluated as a separate program at least once every 3 years)” after “this chapter” in first sentence.
 
-1986—Subsec. (a). Pub. L. 99–551, §8(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Director shall biennially measure and evaluate the impact of all programs authorized by this chapter, their effectiveness in achieving stated goals in general, and in relation to their cost, their impact on related programs, and their structure and mechanisms for delivery of services. Evaluations shall be conducted by persons not immediately involved in the administration of the program or any project of such program being evaluated. Such evaluation shall also measure and evaluate compliance with the equitable distribution requirement of section 5054 of this title.”
+1986—Subsec. (a). Pub. L. 99–551, §8(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Director shall biennially measure and evaluate the impact of all programs authorized by this chapter, their effectiveness in achieving stated goals in general, and in relation to their cost, their impact on related programs, and their structure and mechanismsfor delivery of services. Evaluations shall be conducted by persons not immediately involved in the administration of the program or any project of such program being evaluated. Such evaluation shall also measure and evaluate compliance with the equitable distribution requirement of section 5054 of this title.”
 
 Subsecs. (f), (g). Pub. L. 99–551, §8(b), added subsec. (f) and redesignated former subsec. (f) as (g).
 
@@ -68,7 +68,7 @@ Subsecs. (f), (g). Pub. L. 99–551, §8(b), added subsec. (f) and redesignated 
 
 #### Change of Name
 
-Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Economic and Educational Opportunities of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Fifth Congress, Jan. 7, 1997.
 
 #### Effective Date of 1993 Amendment
 

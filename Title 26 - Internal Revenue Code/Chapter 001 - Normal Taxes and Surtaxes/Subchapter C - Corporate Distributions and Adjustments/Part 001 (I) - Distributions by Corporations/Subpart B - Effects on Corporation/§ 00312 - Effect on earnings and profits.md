@@ -58,11 +58,11 @@ In making the adjustments to the earnings and profits of a corporation under sub
 
 &emsp;&emsp;(B) for purposes of the computation of the earnings and profits of the corporation for any period beginning after February 28, 1913, shall be determined by using as the adjusted basis the adjusted basis (under the law applicable to the year in which the sale or other disposition was made) for determining gain.
 
-> &emsp;Gain or loss so realized shall increase or decrease the earnings and profits to, but not beyond, the extent to which such a realized gain or loss was recognized in computing taxable income under the law applicable to the year in which such sale or disposition was made. Where, in determining the adjusted basis used in computing such realized gain or loss, theadjustment to the basis differs from the adjustment proper for the purpose of determining earnings and profits, then the latter adjustment shall be used in determining the increase or decrease above provided. For purposes of this subsection, a loss with respect to which a deduction is disallowed under section 1091 (relating to wash sales of stock or securities), or the corresponding provision of prior law, shall not be deemed to be recognized.
+> &emsp;Gain or loss so realized shall increase or decrease the earnings and profits to, but not beyond, the extent to which such a realized gain or loss was recognized in computing taxable income under the law applicable to the year in which such sale or disposition was made. Where, in determining the adjusted basis used in computing such realized gain or loss, the adjustment to the basis differs from the adjustment proper for the purpose of determining earnings and profits, then the latter adjustment shall be used in determining the increase or decrease above provided. For purposes of this subsection, a loss with respect to which a deduction is disallowed under section 1091 (relating to wash sales of stock or securities), or the corresponding provision of prior law, shall not be deemed to be recognized.
 
 #### (2) Effect on earnings and profits of receipt of tax-free distributions
 
-&emsp;Where a corporation receives (after February 28, 1913) a distribution from a second corporation which (under the law applicable to the year in which the distribution was made) was not a taxable dividend to the shareholders of the second corporation, the amount of such distribution shall not increase the earnings and profits of the first corporation in the following cases:
+&emsp;Where a corporation receives (after February 28, 1913) a distribution from a second corporation which (under the law applicable tothe year in which the distribution was made) was not a taxable dividend to the shareholders of the second corporation, the amount of such distribution shall not increase the earnings and profits of the first corporation in the following cases:
 
 &emsp;&emsp;(A) no such increase shall be made in respect of the part of such distribution which (under such law) is directly applied in reduction of the basis of the stock in respect of which the distribution was made; and
 
@@ -108,7 +108,7 @@ If a corporation distributes property with respect to its stock and if, at the t
 
 #### (1) General rule
 
-&emsp;For purposes of computing the earnings and profits of a corporation for any taxable year beginning after June 30, 1972, the allowance fordepreciation (and amortization, if any) shall be deemed to be the amount which would be allowable for such year if the straight line method of depreciation had been used for each taxable year beginning after June 30, 1972.
+&emsp;For purposes of computing the earnings and profits of a corporation for any taxable year beginning after June 30, 1972, the allowance for depreciation (and amortization, if any) shall be deemed to be the amount which would be allowable for such year if the straight line method of depreciation had been used for each taxable year beginning after June 30, 1972.
 
 #### (2) Exception
 
@@ -270,7 +270,7 @@ For purposes of subsection (a)(2), the terms “original issue discount” and �
 
 #### References in Text
 
-Section 115(h) of the Internal Revenue Code of 1939, referred to in subsec. (d)(2), was classified to section 115(h) of former Title 26, Internal Revenue Code. Section 115(h) was repealed by section 7851(a)(1) of this title. For table of comparisons of the 1939 Code to the 1986 Code \[formerly I.R.C. 1954\], see Table I precedingsection 1 of this title. See, also, section 7851(e) of this title for provision that references in the 1986 Code to a provision of the 1939 Code, not then applicable, shall be deemed a reference to the corresponding provision of the 1986 Code, then applicable.
+Section 115(h) of the Internal Revenue Code of 1939, referred to in subsec. (d)(2), was classified to section 115(h) of former Title 26, Internal Revenue Code. Section 115(h) was repealed by section 7851(a)(1) of this title. For table of comparisons of the 1939 Code to the 1986 Code \[formerly I.R.C. 1954\], see Table I preceding section 1 of this title. See, also, section 7851(e) of this title for provision that references in the 1986 Code to a provision of the 1939 Code, not then applicable, shall be deemed a reference to the corresponding provision of the 1986 Code, then applicable.
 
 #### Amendments
 
@@ -336,7 +336,7 @@ Pub. L. 98–369, §61(b), substituted “40 years” for “35 years” in tabl
 
 Subsec. (n). Pub. L. 98–369, §61(a)(1), added subsec. (n).
 
-Subsec. (<i>o</i>). Pub. L. 98–369, §61(c)(1)(B), added subsec. (<i>o).</i>
+Subsec. (<i>o</i>). Pub. L. 98–369, §61(c)(1)(B), added subsec. (<i>o</i>).
 
 1983—Subsec. (j)(3). Pub. L. 97–448 substituted “Redemptions” for “Partial liquidations and redemptions” in heading, and in text struck out “in partial liquidation or” after “distributes amounts”.
 
@@ -348,7 +348,7 @@ Subsec. (m). Pub. L. 97–248, §310(b)(3), added subsec. (m).
 
 1981—Subsec. (k)(3), (4). Pub. L. 97–34 added par. (3), redesignated former par. (3) as (4) substituted “The provisions of paragraphs (1) and (3)” for “The provisions of paragraph (1)”, and inserted provision that the rules of section 168(f)(2) shall apply in determining the earnings and profits of the corporation in the case of recovery property (within the meaning of section 168).
 
-1980—Subsec. (<i>l</i>). Pub. L. 96–589 added subsec. (<i>l).</i>
+1980—Subsec. (<i>l</i>). Pub. L. 96–589 added subsec. (<i>l</i>).
 
 1978—Subsec. (c)(3). Pub. L. 95–628 substituted “gain recognized to the corporation on the distribution” for “gain to the corporation recognized under subsection (b), (c), or (d) of section 311, under section 341(f), or under section 617(d)(1), 1245(a), 1250(a), 1251(c), 1252(a), or 1254(a)”.
 
@@ -382,7 +382,7 @@ Pub. L. 88–272 inserted reference to section 1250(a).
 
 Subsec. (k). Pub. L. 87–403 added subsec. (k).
 
-Subsec. (<i>l</i>). Pub. L. 87–834, §14(b)(1), added subsec. (<i>l).</i>
+Subsec. (<i>l</i>). Pub. L. 87–834, §14(b)(1), added subsec. (<i>l</i>).
 
 #### Effective Date of 1990 Amendment
 
@@ -420,7 +420,7 @@ Section 1804(f)(3) of Pub. L. 99–514 provided that: “Paragraph (7) of sectio
 
 #### Effective Date of 1985 Amendment
 
-Amendment by Pub. L. 99–121 applicable with respect to property placed in service by the taxpayer after May8, 1985, with specified exceptions, see section 105(b) of Pub. L. 99–121, set out as a note under section 168 of this title.
+Amendment by Pub. L. 99–121 applicable with respect to property placed in service by the taxpayer after May 8, 1985, with specified exceptions, see section 105(b) of Pub. L. 99–121, set out as a note under section 168 of this title.
 
 #### Effective Date of 1984 Amendment
 
@@ -516,7 +516,7 @@ Amendment by Pub. L. 88–272 applicable to dispositions after Dec. 31, 1963, in
 
 #### Effective Date of 1962 Amendments
 
-Amendment by section 13(f)(3) of Pub. L. 87–834 applicable to taxable years beginning after Dec. 31, 1962, seesection 13(g) of Pub. L. 87–834, set out as an Effective Date note under section 1245 of this title.
+Amendment by section 13(f)(3) of Pub. L. 87–834 applicable to taxable years beginning after Dec. 31, 1962, see section 13(g) of Pub. L. 87–834, set out as an Effective Date note under section 1245 of this title.
 
 Amendment by section 14(b)(1) of Pub. L. 87–834 applicable with respect to taxable years beginning after Dec. 31, 1962, see section 14(c) of Pub. L. 87–834, set out as an Effective Date note under section 1246 of this title.
 
@@ -524,7 +524,7 @@ Section 3(g) of Pub. L. 87–403 provided that: “The amendments made by this s
 
 #### Savings Provision
 
-For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 29 of this title.
+For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into accountprior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 29 of this title.
 
 #### Plan Amendments Not Required Until January 1, 1989
 

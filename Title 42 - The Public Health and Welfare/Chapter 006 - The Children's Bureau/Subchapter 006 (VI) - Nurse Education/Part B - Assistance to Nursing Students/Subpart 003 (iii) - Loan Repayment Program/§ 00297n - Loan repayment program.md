@@ -42,9 +42,9 @@ In entering into agreements under subsection (a) of this section, the Secretary 
 
 For purposes of this section:
 
-&emsp;(1) The term “community health center” has the meaning given such term in section 254c(a) of this title.
+&emsp;(1) The term “community health center” has the meaning given such term in section 254c(a) <sup>1</sup> of this title.
 
-&emsp;(2) The term “migrant health center” has the meaning given such term in section 254b(a)(1) of this title.
+&emsp;(2) The term “migrant health center” has the meaning given such term in section 254b(a)(1) <sup>1</sup> of this title.
 
 &emsp;(3) The term “rural health clinic” has the meaning given such term in section 1395x(aa)(2) of this title.
 
@@ -54,9 +54,17 @@ For the purpose of payments under agreements entered into under subsection (a) o
 
 (July 1, 1944, ch. 373, title VIII, §846, as added Oct. 13, 1992, Pub. L. 102–408, title II, §211(a)(3), 106 Stat. 2078.)
 
+#### References in Text
+
+Sections 254b and 254c of this title, referred to in subsec. (f)(1), (2), were in the original references to sections 329 and 330, meaning sections 329 and 330 of act July 1, 1944, which were omitted in the general amendment of subpart I (§254b et seq.) of part D of subchapter II of this chapter by Pub. L. 104–299, §2, Oct. 11, 1996, 110 Stat. 3626. Sections 2 and 3(a) of Pub. L. 104–299 enacted new sections 330 and 330A of act July 1, 1944, which are classified, respectively, to sections 254b and 254c of this title.
+
 #### Prior Provisions
 
-A prior section 297n, act July 1, 1944, ch. 373, title VIII, §847, as added Nov. 4, 1988, Pub. L. 100–607, title VII, §716, 102 Stat. 3163; amended Nov. 18, 1988, Pub. L. 100–690, title II, §2616(b), 102 Stat. 4240, established ademonstration program for student loans with respect to service in certain health care facilities in underserved areas, prior to repeal by Pub. L. 102–408, title II, §210, Oct. 13, 1992, 106 Stat. 2078.
+A prior section 297n, act July 1, 1944, ch. 373, title VIII, §847, as added Nov. 4, 1988, Pub. L. 100–607, title VII, §716, 102 Stat. 3163; amended Nov. 18, 1988, Pub. L. 100–690, title II, §2616(b), 102 Stat. 4240, established a demonstration program for student loans with respect to service in certain health care facilities in underserved areas, prior to repeal by Pub. L. 102–408, title II, §210, Oct. 13, 1992, 106 Stat. 2078.
 
 A prior section 846 of act July 1, 1944, was classified to section 297k of this title and was repealed by Pub. L. 97–35.
+
+#### Reference to Community, Migrant, Public Housing, or Homeless Health Center Considered Reference to Health Center
+
+Reference to community health center, migrant health center, public housing health center, or homeless health center considered reference to health center, see section 4(c) of Pub. L. 104–299, set out as a note under section 254b of this title.
 

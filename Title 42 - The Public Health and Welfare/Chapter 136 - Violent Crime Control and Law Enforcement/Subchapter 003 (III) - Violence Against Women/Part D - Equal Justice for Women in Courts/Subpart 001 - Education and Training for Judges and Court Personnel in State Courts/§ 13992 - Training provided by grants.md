@@ -38,7 +38,7 @@ Training provided pursuant to grants made under this part may include current in
 
 &emsp;(18) the need for orders of protection, and the implications of mutual orders of protection, dual arrest policies, and mediation in domestic violence cases; and
 
-&emsp;(19) recognition of and response to gender-motivated crimes of violence other than rape,sexual assault and domestic violence, such as mass or serial murder motivated by the gender of the victims.
+&emsp;(19) recognition of and response to gender-motivated crimes of violence other than rape, sexual assault and domestic violence, such as mass or serial murder motivated by the gender of the victims.
 
 (Pub. L. 103–322, title IV, §40412, Sept. 13, 1994, 108 Stat. 1943.)
 

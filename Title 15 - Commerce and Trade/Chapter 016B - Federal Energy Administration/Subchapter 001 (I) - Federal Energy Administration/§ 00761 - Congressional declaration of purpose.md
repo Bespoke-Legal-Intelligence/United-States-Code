@@ -2,7 +2,7 @@
 
 #### (a) Objectives
 
-The Congress hereby declares that the general welfare and the common defense and security require positive and effective action to conserve scarce energy supplies, to insure fair and efficient distribution of, and the maintenance of fair and reasonable consumer prices for, suchsupplies, to promote the expansion of readily usable energy sources, and to assist in developing policies and plans to meet the energy needs of the Nation.
+The Congress hereby declares that the general welfare and the common defense and security require positive and effective action to conserve scarce energy supplies, to insure fair and efficient distribution of, and the maintenance of fair and reasonable consumer prices for, such supplies, to promote the expansion of readily usable energy sources, and to assist in developing policies and plans to meet the energy needs of the Nation.
 
 #### (b) Necessity for reorganization
 
@@ -90,7 +90,7 @@ Section 29 of Pub. L. 93–275, as amended by Pub. L. 94–385, title I, §110, 
 
 &emsp;“(2) no amounts authorized to be appropriated in such paragraph may be used to carry out the functions identified as assigned to the Office of Nuclear Affairs as of January 1, 1976.
 
-“(c) No amounts authorized to be appropriated in paragraphs (5) (B) and (7) of subsection (a) may be used to carry out solar energy research, development, or demonstration activities.
+“(c) No amounts authorized to be appropriated in paragraphs (5) (B) and (7) of subsection (a) may be usedto carry out solar energy research, development, or demonstration activities.
 
 “(d) Subject to the provisions of any other law enacted after the date of the enactment of this subsection \[July 21, 1977\], if any function for which funds are authorized to be appropriated by this section is transferred by or pursuant to any such provision of law to any department, agency, or office, the unexpended balances of appropriations, authorizations, allocations, and other funds, held, used, arising from, available to, or to be made available in connection with such function shall be transferred to such department, agency, or office, but shall continue to be subject to any restriction to which they were subject before such transfer.”
 

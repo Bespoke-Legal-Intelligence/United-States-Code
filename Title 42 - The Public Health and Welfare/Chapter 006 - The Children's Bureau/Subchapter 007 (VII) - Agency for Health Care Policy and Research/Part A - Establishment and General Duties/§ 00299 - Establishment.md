@@ -16,7 +16,7 @@ There shall be at the head of the Agency an official to be known as the Administ
 
 #### Prior Provisions
 
-A prior section 299, act July 1, 1944, ch. 373, title IX, §900, as added Oct. 6, 1965, Pub. L. 89–239, §2, 79 Stat.926; amended Oct. 30, 1970, Pub. L. 91–515, title I, §102, 84 Stat. 1297, set forth Congressional declaration of purpose of this subchapter to encourage and assist regional cooperative arrangements among medical schools, research institutions, and hospitals for research, training and medical data exchange, and to improve quality and capacity of health manpower and facilities available throughout the nation, prior to repeal by Pub. L. 99–117, §12(d), Oct. 7, 1985, 99 Stat. 495.
+A prior section 299, act July 1, 1944, ch. 373, title IX, §900, as added Oct. 6, 1965, Pub. L. 89–239, §2, 79 Stat. 926; amended Oct. 30, 1970, Pub. L. 91–515, title I, §102, 84 Stat. 1297, set forth Congressional declaration of purpose of this subchapter to encourage and assist regional cooperative arrangements among medical schools, research institutions, and hospitals for research, training and medical data exchange, and to improve quality and capacity of health manpower and facilities available throughout the nation, prior to repeal by Pub. L. 99–117, §12(d), Oct. 7, 1985, 99 Stat. 495.
 
 A prior section 901 of act July 1, 1944, was classified to section 299a of this title prior to repeal by Pub. L. 99–117.
 
@@ -35,6 +35,38 @@ Transfer of personnel, assets, and liabilities.—Personnel of the Department of
 “(2)
 
 Savings provisions.—With respect to functions vested in the Administrator for Health Care Policy and Research pursuant to the amendments made by this section, all orders, rules, regulations, grants, contracts, certificates, licenses, privileges, and other determinations, actions, or official documents, of the Department of Health and Human Services that have been issued, made, granted, or allowed to become effective in the performance of such functions, and that are effective on the date of the enactment of this Act \[Dec. 19, 1989\], shall continue in effect according to their terms unless changed pursuant to law.”
+
+#### Ex. Ord. No. 13017. Advisory Commission on Consumer Protection and Quality in Health Care Industry
+
+Ex. Ord. No. 13017, Sept. 5, 1996, 61 F.R. 47659, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Federal Advisory Committee Act, as amended (5 U.S.C. App.), it is hereby ordered as follows:
+
+Section 1. <i>Establishment</i>. (a) There is established the Advisory Commission on Consumer Protection and Quality in the Health Care Industry (the “Commission”). The Commission shall be composed of not more than 20 members to be appointed by the President. The members will be consumers, institutional health care providers, health care professionals, other health care workers, health care insurers, health care purchasers, State and local government representatives, and experts in health care quality, financing, and administration.
+
+(b) The Secretary of Health and Human Services and the Secretary of Labor shall serve as Co-Chairs of the Commission. The Co-Chairs shall report through the Vice President to the President.
+
+Sec. 2. <i>Functions</i>. (a) The Commission shall advise the President on changes occurring in the health care system and recommend such measures as may be necessary to promote and assure health care quality and value, and protect consumers and workers in the health care system. In particular, the Commission shall:
+
+(1) Review the available data in the area of consumer information and protections for those enrolled in health care plans and make such recommendations as may be necessary for improvements;
+
+(2) Review existing and planned work that defines, measures, and promotes quality of health care, and help build further consensus on approaches to assure and promote quality of care in a changing delivery system; and
+
+(3) Collect and evaluate data on changes in availability of treatment and services, and make such recommendations as may be necessary for improvements.
+
+(b) For the purpose of carrying out its functions, the Commission may hold hearings, establish subcommittees, and convene and act at such times and places as the Commission may find advisable.
+
+Sec. 3. <i>Reports</i>. The Commission shall make a preliminary report to the President by September 30, 1997. A final report shall be submitted to the President 18 months after the Commission's first meeting.
+
+Sec. 4. <i>Administration</i>. (a) To the extent permitted by law, the heads of executive departments and agencies, and independent agencies (collectively “agencies”) shall provide the Commission, upon request, with such information as it may require for the purposes of carrying out its functions.
+
+(b) Members of the Commission may receive compensation for their work on the Commission not to exceed the daily rate specified for Level IV of the Executive Schedule (5 U.S.C. 5315). While engaged in the work of the Commission, members appointed from among private citizens of the United States may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by law for persons serving intermittently in the Government service (5 U.S.C. 5701–5707) to the extent funds are available for such purposes.
+
+(c) To the extent permitted by law and subject to the availability of appropriations, the Department of Health and Human Services shall provide the Commission with administrative services, funds, facilities, staff, and other support services necessary for the performance of the Commission's functions. The Secretary of Health and Human Services shall perform the administrative functions of the President under the Federal Advisory Committee Act, as amended (5 U.S.C. App.), with respect to the Commission.
+
+Sec. 5. <i>General Provision</i>. The Commission shall terminate 30 days after submitting its final report, but not later than 2 years from the date of this order, unless extended by the President.
+
+William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Section Referred to in Other Sections
 

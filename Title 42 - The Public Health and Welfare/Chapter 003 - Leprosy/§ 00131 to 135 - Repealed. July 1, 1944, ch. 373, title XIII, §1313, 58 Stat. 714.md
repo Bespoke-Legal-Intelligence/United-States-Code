@@ -6,7 +6,7 @@ Section 132, act Feb. 3, 1917, ch. 26, §4, 39 Stat. 873, provided for erection 
 
 Section 133, act Feb. 3, 1917, ch. 26, §2, 39 Stat. 873, provided for receipt of lepers into the home. See section 255 of this title.
 
-Section 134, act Feb. 3, 1917, ch. 26, §3, 39 Stat. 873, provided for regulations governing the home. See sections 255 and 256 of this title.
+Section 134, act Feb. 3, 1917, ch. 26, §3, 39 Stat. 873, provided for regulations governing the home. See section 255 of this title.
 
 Section 135, act Feb. 3, 1917, ch. 26, §5, 39 Stat. 873, provided for additional pay of officers detailed to duty at said home. See section 210 of this title.
 

@@ -70,5 +70,5 @@ Termination of effectiveness.—Paragraph (1) shall not be effective on and afte
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 4625 of this title; title 12 section 1706c; title 29 section 1784.
+This section is referred to in section 4625 of this title; title 12 section 1706c; title 19 section 1313; title 29 section 1784.
 

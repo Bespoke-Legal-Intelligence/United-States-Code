@@ -12,7 +12,7 @@ For purposes of this part, the term “issuing or assuming a stock option in a t
 
 #### (b) Acquisition of new stock
 
-For purposes of this part, if stock is received by an individual in a distribution to which section 305, 354, 355, 356, or 1036 (or so much of section 1031 as relates to section 1036) applies, and such distribution was made with respect to stock transferred to him upon his exercise of the option, such stock shall be considered as having been transferred to him on his exercise of such option. A similar rule shall be applied in the case of a series of such distributions.
+For purposes of this part, if stock is received by an individual in a distribution to which section 305, 354, 355, 356, or 1036 (or so much of section 1031 as relates to section 1036) applies, and such distribution was made with respect tostock transferred to him upon his exercise of the option, such stock shall be considered as having been transferred to him on his exercise of such option. A similar rule shall be applied in the case of a series of such distributions.
 
 #### (c) Disposition
 
@@ -44,7 +44,7 @@ For purposes of this part, if stock is received by an individual in a distributi
 
 #### (B) Statutory option stock
 
-&emsp;&emsp;For purpose of subparagraph (A), the term “statutory option stock” means any stock acquired through the exercise of a qualified stock option, an incentive stock option, an option granted under an employee stock purchase plan, or a restricted stock option.
+&emsp;&emsp;For purpose of subparagraph (A), the term “statutory option stock” means any stock acquired through the exercise of an incentive stock option or an option granted under an employee stock purchase plan.
 
 #### (4) Transfers between spouses or incident to divorce
 
@@ -72,7 +72,7 @@ For purposes of this part, the term “subsidiary corporation” means any corpo
 
 #### (g) Special rule for applying subsections (e) and (f)
 
-In applying subsections (e) and (f) for purposes of section <sup>1</sup> 422(a)(2) and 423(a)(2), there shall besubstituted for the term “employer corporation” wherever it appears in subsection (e) and (f) the term “grantor corporation” or the term “corporation issuing or assuming a stock option in a transaction to which section 424(a) applies” as the case may be.
+In applying subsections (e) and (f) for purposes of section <sup>1</sup> 422(a)(2) and 423(a)(2), there shall be substituted for the term “employer corporation” wherever it appears in subsection (e) and (f) the term “grantor corporation” or the term “corporation issuing or assuming a stock option in a transaction to which section 424(a) applies” as the case may be.
 
 #### (h) Modification, extension, or renewal of option
 
@@ -108,13 +108,15 @@ For purposes of this part, if the grant of an option is subject to approval by s
 
 &emsp;&emsp;<b>For provisions requiring the reporting of certain acts with respect to a qualified stock option, an incentive stock option, options granted under employer stock purchase plans, or a restricted stock option, see section 6039.</b>
 
-(Added Pub. L. 88–272, title II, §221(a), Feb. 26, 1964, 78 Stat. 71, §425; amended Pub. L. 97–34, title II, §251(b)(2)–(4), Aug. 13, 1981, 95 Stat. 259; Pub. L. 97–448, title I, §102(j)(5), (6), Jan. 12, 1983, 96 Stat. 2373; Pub. L. 98–369, div. A, title V, §555(b), July 18, 1984, 98 Stat. 898; Pub. L. 100–647, title I, §1018(<i>l</i>)(1), (2), Nov. 10, 1988, 102 Stat. 3584; Pub. L. 101–239, title VII, §7811(m)(6), Dec. 19, 1989, 103 Stat. 2412; renumbered §424 and amended Pub. L. 101–508, title XI, §11801(c)(9)(A)(i), (F), Nov. 5, 1990, 104 Stat. 1388–524, 1388–525.)
+(Added Pub. L. 88–272, title II, §221(a), Feb. 26, 1964, 78 Stat. 71, §425; amended Pub. L. 97–34, title II, §251(b)(2)–(4), Aug. 13, 1981, 95 Stat. 259; Pub. L. 97–448, title I, §102(j)(5), (6), Jan. 12, 1983, 96 Stat. 2373; Pub. L. 98–369, div. A, title V, §555(b), July 18, 1984, 98 Stat. 898; Pub. L. 100–647, title I, §1018(<i>l</i>)(1), (2), Nov. 10, 1988, 102 Stat. 3584; Pub. L. 101–239, title VII, §7811(m)(6), Dec. 19, 1989, 103 Stat. 2412; renumbered §424 and amended Pub. L. 101–508, title XI, §11801(c)(9)(A)(i), (F), Nov. 5, 1990, 104 Stat. 1388–524, 1388–525; Pub. L. 104–188, title I, §1702(h)(13), Aug. 20, 1996, 110 Stat. 1874.)
 
 #### Prior Provisions
 
 A prior section 424, added Pub. L. 88–272, title II, §221(a), Feb. 26, 1964, 78 Stat. 69; amended Pub. L. 94–455, title VI, §603(c), title XIV, §1402(b)(1)(F), (2), Oct. 4, 1976, 90 Stat. 1574, 1732, related to restricted stock options, prior to repeal by Pub. L. 101–508, title XI, §11801(a)(21), Nov. 5, 1990, 104 Stat. 1388–521. For savings provisions, see section 11821(b) of Pub. L. 101–508, set out as a note under section 29 of this title.
 
 #### Amendments
+
+1996—Subsec. (c)(3)(B). Pub. L. 104–188 substituted “an incentive stock option or an option granted under an employee stock purchase plan” for “a qualified stock option, an incentive stock option, an option granted under an employee stock purchase plan, or a restricted stock option”.
 
 1990—Pub. L. 101–508, §11801(c)(9)(A)(i), renumbered section 425 of this title as this section.
 
@@ -152,6 +154,10 @@ Subsec. (g). Pub. L. 97–34, §251(b)(3), inserted reference to section 422A(a)
 
 Subsec. (h)(3)(B). Pub. L. 97–34, §251(b)(4), inserted reference to section 422A(b)(5).
 
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–188 effective, except as otherwise expressly provided, as if included in the provision of the Revenue Reconciliation Act of 1990, Pub. L. 101–508, title XI, to which such amendment relates, see section 1702(i) of Pub. L. 104–188, set out as a note under section 38 of this title.
+
 #### Effective Date of 1989 Amendment
 
 Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 7817 of Pub. L. 101–239, set out as a note under section 1 of this title.
@@ -172,7 +178,7 @@ Amendment by section 102(j)(5) of title I of Pub. L. 97–448 effective, except 
 
 #### Effective Date of 1981 Amendment
 
-Amendment by Pub. L. 97–34 applicable with respect to options granted on or after Jan. 1, 1976, and exercised on or after Jan. 1, 1981, or outstanding on Jan. 1, 1981, or granted on or after Jan. 1, 1976, and outstanding Aug. 13, 1981, see section 251(c) of Pub. L. 97–34, set out as an Effective Date note under section 422 of this title.
+Amendment by Pub. L. 97–34 applicable with respect to options granted on or after Jan. 1, 1976, and exercisedon or after Jan. 1, 1981, or outstanding on Jan. 1, 1981, or granted on or after Jan. 1, 1976, and outstanding Aug. 13, 1981, see section 251(c) of Pub. L. 97–34, set out as an Effective Date note under section 422 of this title.
 
 #### Effective Date
 

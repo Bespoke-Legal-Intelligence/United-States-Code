@@ -134,7 +134,7 @@ For purposes of this part, the term “controlled group of corporations” means
 
 #### (2) Attribution from partnerships
 
-&emsp;Stock owned, directly or indirectly, by or for a partnership shall be considered as owned by any partner having an interest of 5 percent or more in either the capital or profits of thepartnership in proportion to his interest in capital or profits, whichever such proportion is the greater.
+&emsp;Stock owned, directly or indirectly, by or for a partnership shall be considered as owned by any partner having an interest of 5 percent or more in either the capital or profits of the partnership in proportion to his interest in capital or profits, whichever such proportion is the greater.
 
 #### (3) Attribution from estates or trusts
 
@@ -184,7 +184,7 @@ For purposes of this part, the term “controlled group of corporations” means
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), stock constructively owned by a person by reason of the application of paragraph (1), (2), (3), (4), (5), or (6) of subsection (e) shall, for purposes of applying such paragraphs, be treated as actually owned by such person.
+&emsp;&emsp;Except as provided in subparagraph (B), stock constructively owned by a person by reason of the application of paragraph (1),\(2), (3), (4), (5), or (6) of subsection (e) shall, for purposes of applying such paragraphs, be treated as actually owned by such person.
 
 #### (B) Members of family
 
@@ -198,7 +198,7 @@ For purposes of this part, the term “controlled group of corporations” means
 
 &emsp;&emsp;(B) If stock is owned (within the meaning of subsection (d)) by two or more persons, such stock shall be considered as owned by the person whose ownership of such stock results in the corporation being a component member of a controlled group. If by reason of the preceding sentence, a corporation would (but for this sentence) become a component member of two controlled groups, it shall be treated as a component member of one controlled group. The determination as to the group of which such corporation is a component member shall be made under regulations prescribed by the Secretary which are consistent with the purposes of this part.
 
-&emsp;&emsp;(C) If stock is owned by a person within the meaning of subsection (d) and such ownership results in the corporation being acomponent member of a controlled group, such stock shall not be treated as excluded stock under subsection (c)(2), if by reason of treating such stock as excluded stock the result is that such corporation is not a component member of a controlled group of corporations.
+&emsp;&emsp;(C) If stock is owned by a person within the meaning of subsection (d) and such ownership results in the corporation being a component member of a controlled group, such stock shall not be treated as excluded stock under subsection (c)(2), if by reason of treating such stock as excluded stock the result is that such corporation is not a component member of a controlled group of corporations.
 
 #### (4) Franchised corporation
 
@@ -264,5 +264,5 @@ Section applicable with respect to taxable years ending after Dec. 31, 1963, see
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 38, 41, 52, 120, 127, 129, 144, 147, 179, 194, 243, 263A, 267, 269B, 368, 382, 384, 404, 409, 414, 447, 460, 465, 585, 613A, 806, 831, 848, 861, 904, 927, 936, 993, 1042, 1202, 1504, 1551, 1561, 5061; title 29 sections 1060, 1107, 1322.
+This section is referred to in sections 38, 41, 52, 120, 127, 129, 144, 147, 179, 194, 243, 263A, 267, 269B, 368, 382, 384, 404, 409, 414, 447, 460, 465, 585, 593, 613A, 806, 831, 848, 861, 904, 927, 936, 993, 1042, 1202, 1504, 1551, 1561, 5061 of this title; title 2 section 691e; title 29 sections 1060, 1107, 1322.
 

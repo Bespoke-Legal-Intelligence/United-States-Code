@@ -42,7 +42,7 @@ Notwithstanding any other provisions of this chapter, no person desiring to regi
 
 (7) No information provided to or obtained by the Commission from any Federal banking agency pursuant to a request under paragraph (5) regarding any affiliated person that is subject to examination by or reporting requirements of a Federal banking agency may be disclosed to any other person (other than as provided in section 12 of this title or section 12a(6) of this title), without the prior written approval of the Federal banking agency.
 
-(8) The Commission shall notify a Federal banking agency of any concerns of the Commission regarding significant financial or operational risks resulting from the activities of anyfutures commission merchant to any affiliated person thereof that is subject to examination by or reporting requirements of the Federal banking agency.
+(8) The Commission shall notify a Federal banking agency of any concerns of the Commission regarding significant financial or operational risks resulting from the activities of any futures commission merchant to any affiliated person thereof that is subject to examination by or reporting requirements of the Federal banking agency.
 
 (9) The Commission, by rule, regulation, or order, may exempt any person or class of persons under such terms and conditions and for such periods as the Commission shall provide in the rule, regulation, or order, from this subsection and the rules and regulations issued under this subsection. In granting the exemption, the Commission shall consider, among other factors—
 

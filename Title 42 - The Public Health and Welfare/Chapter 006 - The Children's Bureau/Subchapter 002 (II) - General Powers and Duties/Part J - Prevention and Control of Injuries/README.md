@@ -16,5 +16,6 @@ Pub. L. 103–43, title XX, §2008(i)(2)(B)(i), June 10, 1993, 107 Stat. 213, re
 - [&sect; 00280b - Research](%C2%A7%2000280b%20-%20Research.md)
 - [&sect; 00280b&#8211;1 - Prevention and control activities](%C2%A7%2000280b%E2%80%931%20-%20Prevention%20and%20control%20activities.md)
 - [&sect; 00280b&#8211;1a - Interpersonal violence within families and among acquaintances](%C2%A7%2000280b%E2%80%931a%20-%20Interpersonal%20violence%20within%20families%20and%20among%20acquaintances.md)
+- [&sect; 00280b&#8211;1b - Prevention of traumatic brain injury](%C2%A7%2000280b%E2%80%931b%20-%20Prevention%20of%20traumatic%20brain%20injury.md)
 - [&sect; 00280b&#8211;2 - General provisions](%C2%A7%2000280b%E2%80%932%20-%20General%20provisions.md)
 - [&sect; 00280b&#8211;3 - Authorization of appropriations](%C2%A7%2000280b%E2%80%933%20-%20Authorization%20of%20appropriations.md)

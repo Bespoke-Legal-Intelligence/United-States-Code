@@ -44,7 +44,7 @@
 
 > &emsp;were not achieved.
 
-(3) Any amounts not charged to public body, cooperative, and Federal agency customers by reason of paragraph (2) of this subsection shall be recovered through supplemental rate charges for all other power sold by the Administrator to all customers. Rates charged public body, cooperative, or Federal agency customers pursuant to this subsection shall not include any costs or benefits of a net revenue surplus or deficiency occurring for the period ending June 30, 1985, to the extent such surplus or deficiency is caused by—
+(3) Any amounts not charged to public body, cooperative, and Federal agency customers by reason of paragraph (2) of this subsection shallbe recovered through supplemental rate charges for all other power sold by the Administrator to all customers. Rates charged public body, cooperative, or Federal agency customers pursuant to this subsection shall not include any costs or benefits of a net revenue surplus or deficiency occurring for the period ending June 30, 1985, to the extent such surplus or deficiency is caused by—
 
 &emsp;(A) a difference between actual power deliveries and power deliveries projected for the purpose of establishing rates to direct service industrial customers under subsection (c)(1) of this subsection, and
 
@@ -60,7 +60,7 @@
 
 &emsp;(A) for the period prior to July 1, 1985, at a level which the Administrator estimates will be sufficient to recover the cost of resources the Administrator determines are required to serve such customers’ load and the net costs incurred by the Administrator pursuant to section 839c(c) of this title, based upon the Administrator's projected ability to make power available to such customers pursuant to their contracts, to the extent that such costs are not recovered through rates applicable to other customers; and
 
-&emsp;(B) for the period beginning July 1, 1985, at a level which the Administrator determines to be equitable in relation to the retail rates charged by the public body and cooperativecustomers to their industrial consumers in the region.
+&emsp;(B) for the period beginning July 1, 1985, at a level which the Administrator determines to be equitable in relation to the retail rates charged by the public body and cooperative customers to their industrial consumers in the region.
 
 (2) The determination under paragraph (1)(B) of this subsection shall be based upon the Administrator's applicable wholesale rates to such public body and cooperative customers and the typical margins included by such public body and cooperative customers in their retail industrial rates but shall take into account—
 
@@ -94,7 +94,7 @@ Except to the extent that the allocation of costs and benefits is governed by pr
 
 #### (h) Surcharges
 
-Notwithstanding any other provision of this section (except the provisions of subsection (a) of this section), the Administrator shall adjust power rates to include any surcharges arising under section 839b(f) of this title, and shall allocate any revenues from such charges in such manner as the Administrator determines will help achieve the purposes of section 839b(f) of this title.
+Notwithstanding any other provision of this section (except the provisions of subsection (a) of this section), the Administrator shall adjustpower rates to include any surcharges arising under section 839b(f) of this title, and shall allocate any revenues from such charges in such manner as the Administrator determines will help achieve the purposes of section 839b(f) of this title.
 
 #### (i) Procedures
 
@@ -146,7 +146,7 @@ In order to further the purposes of this chapter and to protect the consumers of
 
 (3) Payments made pursuant to this subsection shall be made solely from the fund established by section 11 of the Federal Columbia River Transmission System Act \[16 U.S.C. 838i\]. The provisions of section 13 of such Act \[16 U.S.C. 838k\], and any appropriations provided to the Administrator under any law, shall not be available for such payments. The authorization of payments under this subsection shall not be construed as an obligation of the United States.
 
-(4) No payment may be made under this subsection with respect to any land or interests in land owned by the United States within the region and administered by any Federal agency\(other than the Administrator), without regard to how the United States obtained ownership thereof, including lands or interests therein acquired or withdrawn by a Federal agency for purposes of such agency and subsequently made available to the Administrator for such facilities.
+(4) No payment may be made under this subsection with respect to any land or interests in land owned by the United States within the region and administered by any Federal agency (other than the Administrator), without regard to how the United States obtained ownership thereof, including lands or interests therein acquired or withdrawn by a Federal agency for purposes of such agency and subsequently made available to the Administrator for such facilities.
 
 (Pub. L. 96–501, §7, Dec. 5, 1980, 94 Stat. 2723.)
 
@@ -162,7 +162,7 @@ The Federal Power Act, referred to in subsec. (k), is act June 10, 1920, ch. 285
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 824k, 832m, 839c, 839f, 839g of this title.
+This section is referred to in sections 824k, 832m, 838<i>l</i>, 839c, 839f, 839g of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

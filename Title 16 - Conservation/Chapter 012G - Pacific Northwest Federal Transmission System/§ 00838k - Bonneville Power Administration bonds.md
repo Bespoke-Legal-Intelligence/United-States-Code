@@ -6,9 +6,9 @@ The Administrator is authorized to issue and sell to the Secretary of the Treasu
 
 #### (b) Payment of principal, premiums, and interest from net proceeds; “net proceeds” defined
 
-The principal of, premiums, if any, and interest on such bonds shall be payable solely from the Administrator's net proceeds as hereinafter defined. “Net proceeds” shall mean for the purposes of this section the remainder of the Administrator's gross receipts from all sources after first deducting trust funds and the costs listed in section 838i(b)(2) through (b)(7), (b)(11), and (b)(12) of this title, and shall include reserve or other funds created from such receipts.
+The principal of, premiums, if any, and interest on such bonds shall be payable solely fromthe Administrator's net proceeds as hereinafter defined. “Net proceeds” shall mean for the purposes of this section the remainder of the Administrator's gross receipts from all sources after first deducting trust funds and the costs listed in section 838i(b)(2) through (b)(7), (b)(11), and (b)(12) of this title, and shall include reserve or other funds created from such receipts.
 
-#### (c) Purchase and sale by Secretary of Treasury; public debt transactions
+#### (c) Purchase and sale by Secretary of the Treasury; public debt transactions
 
 The Secretary of the Treasury shall purchase forthwith any bonds issued by the Administrator under this chapter and for that purpose is authorized to use as a public debt transaction the proceeds from the sale of any securities issued under chapter 31 of title 31, as now or hereafter in force, and the purposes for which securities may be issued under chapter 31 of title 31, as now or hereafter in force, are extended to include any purchases of the bonds issued by the Administrator under this chapter. The Secretary of the Treasury may, at any time, sell any of the bonds acquired by him under this chapter. All redemptions, purchases, and sales by the Secretary of the Treasury of such bonds shall be treated as public debt transactions of the United States.
 
@@ -20,7 +20,7 @@ The Pacific Northwest Electric Power Planning and Conservation Act, referred to 
 
 #### Codification
 
-In subsec. (c), “chapter 31 of title 31” substituted for “the Second Liberty Bond Act” on authority of Pub. L.97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In subsec. (c), “chapter 31 of title 31” substituted for “the Second Liberty Bond Act” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 #### Amendments
 
@@ -38,5 +38,5 @@ Functions of Secretary of the Interior with respect to Bonneville Power Administ
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 838i, 839e of this title; title 2 section 905.
+This section is referred to in sections 838i, 838<i>l</i>, 839e of this title; title 2 section 905.
 

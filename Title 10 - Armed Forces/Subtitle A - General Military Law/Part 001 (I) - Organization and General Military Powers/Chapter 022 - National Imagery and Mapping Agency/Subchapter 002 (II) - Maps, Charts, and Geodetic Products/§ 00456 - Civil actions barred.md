@@ -1,0 +1,24 @@
+### §456. Civil actions barred
+
+(a)
+
+Claims Barred.—No civil action may be brought against the United States on the basis of the content of a navigational aid prepared or disseminated by the National Imagery and Mapping Agency.
+
+(b)
+
+Navigational Aids Covered.—Subsection (a) applies with respect to a navigational aid in the form of a map, a chart, or a publication and any other form or medium of product or information in which the National Imagery and Mapping Agency prepares or disseminates navigational aids.
+
+(Added Pub. L. 103–337, div. A, title X, §1074(b), Oct. 5, 1994, 108 Stat. 2861, §2798; renumbered §456 and amended Pub. L. 104–201, div. A, title XI, §1112(b), Sept. 23, 1996, 110 Stat. 2682.)
+
+#### Amendments
+
+1996—Pub. L. 104–201 renumbered section 2798 of this title as this section and substituted “National Imagery and Mapping Agency” for “Defense Mapping Agency” wherever appearing.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–201 effective Oct. 1, 1996, see section 1124 of Pub. L. 104–201, set out as a note under section 193 of this title.
+
+#### Effective Date
+
+Section 1074(d) of Pub. L. 103–337 provided that: “Section 2798 \[now 456\] of title 10, United States Code, as added by subsection (b), shall take effect on the date of the enactment of this Act \[Oct. 5, 1994\] and shall apply with respect to (1) civil actions brought before such date that are pending adjudication on such date, and (2) civil actions brought on or after such date.”
+

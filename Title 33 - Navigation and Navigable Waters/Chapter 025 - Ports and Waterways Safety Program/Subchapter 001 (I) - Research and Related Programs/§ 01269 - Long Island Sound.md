@@ -62,13 +62,17 @@ The Office shall assist the Management Conference of the Long Island Sound Study
 
 #### (e) Authorizations
 
-(1) There is authorized to be appropriated to the Administrator for the implementation of this section, other than subsection (d) of this section, such sums as may be necessary for each of the fiscal years 1991 through 1996.
+(1) There is authorized to be appropriated to the Administrator for the implementation of this section, other than subsection (d) of this section, such sums as may be necessary for each of the fiscal years 1991 through 2001.
 
-(2) There is authorized to be appropriated to the Administrator for the implementation of subsection (d) of this section not to exceed $3,000,000 for each of the fiscal years 1991 through 1996.
+(2) There is authorized to be appropriated to the Administrator for the implementation of subsection (d) of this section not to exceed $3,000,000 for each of the fiscal years 1991 through 2001.
 
-(June 30, 1948, ch. 758, title I, §119, as added Nov. 16, 1990, Pub. L. 101–596, title II, §202, 104 Stat. 3004.)
+(June 30, 1948, ch. 758, title I, §119, as added Nov. 16, 1990, Pub. L. 101–596, title II, §202, 104 Stat. 3004; amended Oct. 12, 1996, Pub. L. 104–303, title V, §583, 110 Stat. 3791.)
 
 #### References in Text
 
 The Marine Protection, Research, and Sanctuaries Act, referred to in subsec. (c)(4), probably means the Marine Protection, Research, and Sanctuaries Act of 1972, Pub. L. 92–532, Oct. 23, 1972, 86 Stat. 1052, as amended, which is classified generally to chapters 32 (§1431 et seq.) and 32A (§1447 et seq.) of Title 16, Conservation, and chapters 27 (§1401 et seq.) and 41 (§2801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1401 of this title and Tables.
+
+#### Amendments
+
+1996—Subsec. (e). Pub. L. 104–303 substituted “2001” for “1996” in pars. (1) and (2).
 

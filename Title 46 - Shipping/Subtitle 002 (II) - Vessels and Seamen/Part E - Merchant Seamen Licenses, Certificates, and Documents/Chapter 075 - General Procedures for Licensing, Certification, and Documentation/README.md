@@ -7,10 +7,13 @@
 | [7503\.](%C2%A7%2007503%20-%20Dangerous%20drugs%20as%20grounds%20for%20denial.md) | Dangerous drugs as grounds for denial. |
 | [7504\.](%C2%A7%2007504%20-%20Travel%20and%20expense%20reimbursement.md) | Travel and expense reimbursement. |
 | [7505\.](%C2%A7%2007505%20-%20Review%20of%20information%20in%20National%20Driver%20Register.md) | Review of information in National Driver Register. |
+| [7506\.](%C2%A7%2007506%20-%20Convention%20tonnage%20for%20licenses%2C%20certificates%2C%20and%20documents.md) | Convention tonnage for licenses, certificates, and documents. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1996—Pub. L. 104–324, title VII, §745(b), Oct. 19, 1996, 110 Stat. 3943, added item 7506.
 
 1990—Pub. L. 101–380, title IV, §4105(c), Aug. 18, 1990, 104 Stat. 513, added item 7505.
 
@@ -26,3 +29,4 @@
 - [&sect; 07503 - Dangerous drugs as grounds for denial](%C2%A7%2007503%20-%20Dangerous%20drugs%20as%20grounds%20for%20denial.md)
 - [&sect; 07504 - Travel and expense reimbursement](%C2%A7%2007504%20-%20Travel%20and%20expense%20reimbursement.md)
 - [&sect; 07505 - Review of information in National Driver Register](%C2%A7%2007505%20-%20Review%20of%20information%20in%20National%20Driver%20Register.md)
+- [&sect; 07506 - Convention tonnage for licenses, certificates, and documents](%C2%A7%2007506%20-%20Convention%20tonnage%20for%20licenses%2C%20certificates%2C%20and%20documents.md)

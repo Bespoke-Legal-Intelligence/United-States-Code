@@ -66,5 +66,5 @@ Definition of public utility, see section 247 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 172, 243, 246, 246A, 247, 263, 277, 301, 469, 512, 596, 805, 810, 812, 815, 832, 833, 1059, 1244 of this title.
+This section is referred to in sections 172, 243, 246, 246A, 247, 263, 277, 301, 469, 512, 805, 810, 812, 815, 832, 833, 1059, 1244 of this title.
 

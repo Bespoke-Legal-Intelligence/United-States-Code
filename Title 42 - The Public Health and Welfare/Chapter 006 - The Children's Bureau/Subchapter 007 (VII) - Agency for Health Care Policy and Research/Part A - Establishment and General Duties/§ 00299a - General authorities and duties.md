@@ -48,7 +48,7 @@ Subsection (d) of this section, referred to in subsec. (a)(2), was redesignated 
 
 The Social Security Act, referred to in subsec. (e), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended, which is classified generally to chapter 7 (§301 et seq.) of this title. Titles XVIII and XIX of the Social Security Act are classified generally to subchapters XVIII (§1395 et seq.) and XIX (§1396 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
-The Social Security Amendments of 1967, referred to in subsec. (e), is Pub. L. 90–248, Jan. 2, 1968, 81 Stat. 821, as amended. For complete classification of this Act tothe Code, see Short Title of 1968 Amendment note set out under section 1305 of this title and Tables.
+The Social Security Amendments of 1967, referred to in subsec. (e), is Pub. L. 90–248, Jan. 2, 1968, 81 Stat. 821, as amended. For complete classification of this Act to the Code, see Short Title of 1968 Amendment note set out under section 1305 of this title and Tables.
 
 #### Prior Provisions
 

@@ -30,7 +30,7 @@
 
 #### (4) Federal share
 
-&emsp;The Federal share of assistance under this section shall be 100 percent; except that the Federal share of assistance under this section for construction and site development costs (including installation of utilities) at a mobile home group site shall be 75 percent of the eligible cost of such assistance. The State or local government receiving assistance under this section shall pay any cost which is not paid for from the Federal share.
+&emsp;The Federal share of assistance under this section shall be 100 percent; except that theFederal share of assistance under this section for construction and site development costs (including installation of utilities) at a mobile home group site shall be 75 percent of the eligible cost of such assistance. The State or local government receiving assistance under this section shall pay any cost which is not paid for from the Federal share.
 
 #### (b) Temporary mortgage and rental payments
 

@@ -24,13 +24,13 @@ Section 280b–9, act July 1, 1944, ch. 373, title III, §397, formerly §399, a
 
 Section 280b–10, act July 1, 1944, ch. 373, title III, §398, formerly §399a, as added Oct. 22, 1965, Pub. L. 89–291, §2, 79 Stat. 1066; renumbered §399, Mar. 13, 1970, Pub. L. 91–212, §10(c)(3), 84 Stat. 67; renumbered §398, July 23, 1974, Pub. L. 93–353, title II, §204, 88 Stat. 373, related to the continuing availability of appropriated funds.
 
-Section 280b–11, act July 1, 1944, ch. 373, title III, §399, formerly §399b, as added Oct. 22, 1965, Pub. L. 89–291, §2, 79 Stat. 1066; renumbered §399a and amended Mar. 13, 1970, Pub. L. 91–212, §10(c)(3), (d)(2)(A), 84 Stat. 67; renumbered §399, July 23, 1974, Pub. L. 93–353, title II, §204, 88 Stat. 373; Oct. 17, 1979, Pub. L. 96–88, title V, §509(b), 93 Stat. 695, related to the maintenance of records by recipients of grants and audits thereof by the Secretary of Health and Human Services and the Comptroller General of the United States.
+Section 280b–11, act July 1, 1944, ch. 373, title III, §399, formerly §399b, as added Oct. 22, 1965, Pub. L. 89–291, §2,79 Stat. 1066; renumbered §399a and amended Mar. 13, 1970, Pub. L. 91–212, §10(c)(3), (d)(2)(A), 84 Stat. 67; renumbered §399, July 23, 1974, Pub. L. 93–353, title II, §204, 88 Stat. 373; Oct. 17, 1979, Pub. L. 96–88, title V, §509(b), 93 Stat. 695, related to the maintenance of records by recipients of grants and audits thereof by the Secretary of Health and Human Services and the Comptroller General of the United States.
 
 A prior section 280b–12, act July 1, 1944, ch. 373, title III, §399b, as added Mar. 13, 1970, Pub. L. 91–212, §9, 84 Stat. 65, related to transfer of funds, prior to repeal by Pub. L. 93–353, title II, §204, July 23, 1974, 88 Stat. 373, applicable with respect to fiscal years beginning after June 30, 1974.
 
 #### Amendments
 
-1993—Pub. L. 103–183, §204, amended section generally. Prior to amendment, section read as follows: “To carryout sections 280b and 280b–1 of this title, there are authorized to be appropriated $10,000,000 for each of the fiscal years 1988, 1989, and 1990, $30,000,000 for fiscal year 1991, and such sums as may be necessary for each of the fiscal years 1992 and 1993.”
+1993—Pub. L. 103–183, §204, amended section generally. Prior to amendment, section read as follows: “To carry out sections 280b and 280b–1 of this title, there are authorized to be appropriated $10,000,000 for each of the fiscal years 1988, 1989, and 1990, $30,000,000 for fiscal year 1991, and such sums as may be necessary for each of the fiscal years 1992 and 1993.”
 
 1990—Pub. L. 101–558 struck out subsec. (a) designation, inserted before period at end of first sentence “, $30,000,000 for fiscal year 1991, and such sums as may be necessary for each of the fiscal years 1992 and 1993”, and struck out at end “Of the amounts appropriated under this section for any fiscal year, not more than 20 percent may be used for Federal administrative expenses to carry out such section for such fiscal year.”
 

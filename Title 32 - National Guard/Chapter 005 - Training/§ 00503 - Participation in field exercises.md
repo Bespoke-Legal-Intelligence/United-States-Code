@@ -1,12 +1,14 @@
 ### §503. Participation in field exercises
 
-(a) Under such regulations as the President may prescribe, the Secretary of the Army and the Secretary of the Air Force, as the case may be, may provide for the participation of the National Guard in encampments, maneuvers, outdoor target practice, or other exercises for field or coast-defense instruction, independently of or in conjunction with the Army or the Air Force, or both.
+(a)(1) Under such regulations as the President may prescribe, the Secretary of the Army and the Secretary of the Air Force, as the case may be, may provide for the participation of the National Guard in encampments, maneuvers, outdoor target practice, or other exercises for field or coast-defense instruction, independently of or in conjunction with the Army or the Air Force, or both.
+
+(2) Paragraph (1) includes authority to provide for participation of the National Guard in conjunction with the Army or the Air Force, orboth, in joint exercises for instruction to prepare the National Guard for response to civil emergencies and disasters.
 
 (b) Amounts necessary for the pay, subsistence, transportation, and other proper expenses of any part of the National Guard of a State or Territory, Puerto Rico, or the District of Columbia participating in an exercise under subsection (a) may be set aside from funds allocated to it from appropriations for field or coast-defense instruction.
 
 (c) Members of the National Guard participating in an exercise under subsection (a) may, after being mustered, be paid for the period beginning with the date of leaving home and ending with the date of return, as determined in advance. If otherwise correct, such a payment passes to the credit of the disbursing officer.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 610; Sept. 29, 1988, Pub. L. 100–456, div. A, title XII, §1234(b)(1), 102 Stat. 2059.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 610; Sept. 29, 1988, Pub. L. 100–456, div. A, title XII, §1234(b)(1), 102 Stat. 2059; Feb. 10, 1996, Pub. L. 104–106, div. A, title V, §517, 110 Stat. 309.)
 
 Historical and Revision Notes
 
@@ -37,6 +39,8 @@ In subsection (b), the words “Amounts necessary” are substituted for the wor
 In subsection (c), the words “Members of the National Guard participating in an exercise under subsection (a)” are substituted for the words “When any portion of the National Guard shall participate in encampments, maneuvers, or other exercises, including outdoor target practice, for field or coast-defense instruction, under the provisions of this title”. The words “duly”, “at any time”, “rendezvous”, “both dates inclusive”, and “making the same” are omitted as surplusage.
 
 #### Amendments
+
+1996—Subsec. (a). Pub. L. 104–106 designated existing provisions as par. (1) and added par. (2).
 
 1988—Subsec. (b). Pub. L. 100–456 struck out “the Canal Zone,” after “Puerto Rico,”.
 

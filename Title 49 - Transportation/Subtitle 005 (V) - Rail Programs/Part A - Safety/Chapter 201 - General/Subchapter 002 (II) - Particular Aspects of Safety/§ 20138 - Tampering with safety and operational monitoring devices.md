@@ -20,7 +20,9 @@ Penalties.—(1) A railroad carrier operating a train on which a safety or opera
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -28,7 +30,7 @@ Historical and Revision Notes
 
 20138
 
-45:431(<i>o).</i>
+45:431(<i>o</i>).
 
 Oct 16, 1970, Pub. L. 91–458, 84 Stat. 971, §202(<i>o</i>); added June 22, 1988, Pub. L. 100–342, §21, 102 Stat. 638; Sept. 3, 1992, Pub. L. 102–365, §2(3), 106 Stat. 972.
 

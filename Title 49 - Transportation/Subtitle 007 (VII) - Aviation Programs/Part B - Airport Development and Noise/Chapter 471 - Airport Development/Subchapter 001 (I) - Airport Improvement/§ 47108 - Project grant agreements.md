@@ -38,7 +38,9 @@ Changing Workscope.—With the consent of the sponsor, the Secretary may amend a
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -66,7 +68,7 @@ Sept. 3, 1982, Pub. L. 97–248, §512(b), 96 Stat. 688; restated Dec. 30, 1987,
 
 Sept. 3, 1982, Pub. L. 97–248, 96 Stat. 324, §512(d); added Dec. 30, 1987, Pub. L. 100–223, §110(b), 101 Stat. 1502.
 
-In subsection (a), the words “on behalf of the United States” are omitted as surplus. The words “or sponsors” are omitted because of 1:1. The words “of the application” are omitted as surplus. The words “under section 47110 of this title” are added for clarity. The words “and conditions” are omitted as being includedin “terms”. The words “for the project” are added for clarity. The words “an offer of a grant for a project” are substituted for “In any case where the Secretary approves a project grant application for a project . . . the offer” to eliminate unnecessary words. The words “(including future fiscal years)” are omitted as surplus. The words “An offer that is accepted in writing by the sponsor is an agreement binding on the Government and the sponsor” are substituted for “If and when an offer is accepted in writing by the sponsor, the offer and acceptance shall comprise an agreement constituting an obligation of the United States and of the sponsor” to eliminate unnecessary words. The words “which have been or may be incurred” are omitted as surplus.
+In subsection (a), the words “on behalf of the United States” are omitted as surplus. The words “or sponsors” are omitted because of 1:1. The words “of the application” are omitted as surplus. The words “under section 47110 of this title” are added for clarity. The words “and conditions” are omitted as being included in “terms”. The words “for the project” are added for clarity. The words “an offer of a grant for a project” are substituted for “In any case where the Secretary approves a project grant application for a project . . . the offer” to eliminate unnecessary words. The words “(including future fiscal years)” are omitted as surplus. The words “An offer that is accepted in writing by the sponsor is an agreement binding on the Government and the sponsor” are substituted for “If and when an offer is accepted in writing by the sponsor, the offer and acceptance shall comprise an agreement constituting an obligation of the United States and of the sponsor” to eliminate unnecessary words. The words “which have been or may be incurred” are omitted as surplus.
 
 In subsection (b)(1), the words “by a sponsor” are omitted as surplus. The words “amount the Government will pay” are substituted for “obligation of the United States” for clarity and consistency in this section.
 

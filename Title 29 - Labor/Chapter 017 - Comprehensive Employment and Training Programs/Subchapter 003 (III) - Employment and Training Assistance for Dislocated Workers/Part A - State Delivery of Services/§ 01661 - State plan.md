@@ -54,7 +54,7 @@ Each State plan shall contain provisions demonstrating to the satisfaction of th
 
 #### (c) Review and approval of State plans
 
-The Secretary shall review any plan submitted under subsection (a) of this section, and any comments thereon submitted by the State job training coordinating council pursuant to subsection (b)(9) of this section, and shall notify a State as to any deficiencies in such plan within 30 days after submission. Unless a State has been so notified, the Secretary shall approve the plan within 45 days after submission. The Secretary shall not finally disapprove the plan of any State except after notice and opportunity for a hearing.
+The Secretary shall review any plan submitted under subsection (a) of this section, and anycomments thereon submitted by the State job training coordinating council pursuant to subsection (b)(9) of this section, and shall notify a State as to any deficiencies in such plan within 30 days after submission. Unless a State has been so notified, the Secretary shall approve the plan within 45 days after submission. The Secretary shall not finally disapprove the plan of any State except after notice and opportunity for a hearing.
 
 #### (d) Modifications
 

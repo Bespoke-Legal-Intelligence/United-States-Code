@@ -66,7 +66,7 @@ Each establishment of the Retirement Home shall have a Board of trustees which s
 
 (C) The chairman may appoint, in addition to such ad hoc committees as the chairman determines to be appropriate, a standing executive committee to act for, and in the name of, the Retirement Home Board at such times and on such matters as the chairman considers necessary to expedite the efficient and timely management of each facility maintained as a separate facility of the Retirement Home.
 
-(D) The chairman may appoint an administrative staff to assist the chairman in the performance of the duties of the chairman. The chairman shall determine the rates of pay applicable to such staff, except that a staff member who is a member of the Armed Forces on active duty orwho is a full-time officer or employee of the United States shall receive no additional pay by reason of service on the administrative staff.
+(D) The chairman may appoint an administrative staff to assist the chairman in the performance of the duties of the chairman. The chairman shall determine the rates of pay applicable to such staff, except that a staff member who is a member of the Armed Forces on active duty or who is a full-time officer or employee of the United States shall receive no additional pay by reason of service on the administrative staff.
 
 (2) The Secretaries of the military departments shall select the chairman for each Local Board from the members of that Board. The term of office of the chairman of a Local Board shall be three years.
 
@@ -76,9 +76,11 @@ Each establishment of the Retirement Home shall have a Board of trustees which s
 
 (2) A member whose term of office has expired may continue to serve until the successor for the member is appointed or designated.
 
-#### (f) First appointment and designation
+(3) The Chairman of the Retirement Home Board may appoint a member of the Retirement Home Board for a second consecutive term. The Chairman of a Local Board may appoint a member of that Local Board for a second consecutive term.
 
-Not later than the effective date specified in section 1541(a), members of the Retirement Home Board and the members of each Local Board shall be first appointed to staggered terms.
+#### (f) Early expiration of term
+
+A member of the Armed Forces or Federal civilian employee who is appointed as a member of the Retirement Home Board or a Local Board may serve as a board member only so long as the member of the Armed Forces or Federal civilian employee is assigned to or serving in the duty position that gave rise to the appointment as a board member.
 
 #### (g) Vacancies
 
@@ -108,13 +110,17 @@ Not later than the effective date specified in section 1541(a), members of the R
 
 &emsp;(B) the date on which the last of the five members required by subsection (b) of this section to be appointed is first appointed.
 
-(Pub. L. 101–510, div. A, title XV, §1515, Nov. 5, 1990, 104 Stat. 1726; Pub. L. 102–190, div. A, title X, §1062(a)(4), Dec. 5, 1991, 105 Stat. 1475; Pub. L. 103–160, div. A, title III, §366(b), Nov. 30, 1993, 107 Stat. 1630.)
+(Pub. L. 101–510, div. A, title XV, §1515, Nov. 5, 1990, 104 Stat. 1726; Pub. L. 102–190, div. A, title X, §1062(a)(4), Dec. 5, 1991, 105 Stat. 1475; Pub. L. 103–160, div. A, title III, §366(b), Nov. 30, 1993, 107 Stat. 1630; Pub. L. 104–201, div. A, title X, §1051(a), (b)(1), Sept. 23, 1996, 110 Stat. 2648.)
 
 #### References in Text
 
-For the effective date specified in section 1541(a), referred to in subsecs. (f) and (i)(2)(A), see Effective Date note set out under section 401 of this title.
+For the effective date specified in section 1541(a), referred to in subsec. (i)(2)(A), see Effective Date note set out under section 401 of this title.
 
 #### Amendments
+
+1996—Subsec. (e)(3). Pub. L. 104–201, §1051(a), added par. (3).
+
+Subsec. (f). Pub. L. 104–201, §1051(b)(1), amended heading and text of subsec. (f) generally. Prior to amendment, text read as follows: “Not later than the effective date specified in section 1541(a), members of the Retirement Home Board and the members of each Local Board shall be first appointed to staggered terms.”
 
 1993—Subsec. (d)(1). Pub. L. 103–160 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The Secretary of Defense shall select one of the members of the Retirement Home Board to serve as chairman. The term of office of the chairman of the Retirement Home Board shall be five years.”
 
@@ -128,7 +134,11 @@ Reference to Comptroller of the Department of Defense to be treated as reference
 
 #### Effective Date
 
-Section effective one year after Nov. 5, 1990, except that provisions of this section relating to appointment and designation of members of Retirement Home Board and Local Boards effective Oct. 1, 1991, see section 1541(a), (c) of Pub. L. 101–510, set out as a note under section 401 of this title.
+Section effective one year after Nov. 5, 1990, except that provisions of this section relating to appointment and designation of members of Retirement Home Boardand Local Boards effective Oct. 1, 1991, see section 1541(a), (c) of Pub. L. 101–510, set out as a note under section 401 of this title.
+
+#### Savings Provision
+
+Section 1051(b)(2) of Pub. L. 104–201 provided that: “The amendment made by this subsection \[amending this section\] shall not affect the staggered terms of members of the Armed Forces Retirement Home Board or a Local Board of the Retirement Home under section 1515(f) of such Act \[subsec. (f) of this section\], as such section is in effect before the date of the enactment of this Act \[Sept. 23, 1996\].”
 
 #### Section Referred to in Other Sections
 

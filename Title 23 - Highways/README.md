@@ -1,5 +1,5 @@
 
-23 U.S.C.<br>United States Code, 1995 Edition<br>Title 23 - HIGHWAYS<br>From the U.S. Government Publishing Office, www.gpo.gov
+23 U.S.C.<br>United States Code, 1996 Edition<br>Title 23 - HIGHWAYS<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 23—HIGHWAYS
 
@@ -26,9 +26,13 @@
 
 Table Showing Disposition of All Sections of Former Title 23
 
-<i>Title 23      Former Sections     </i>
+<i>Title 23</i>
 
-<i>Title 23         New Sections        </i>
+<i>Former Sections</i>
+
+<i>Title 23</i>
+
+<i>New Sections</i>
 
 1
 

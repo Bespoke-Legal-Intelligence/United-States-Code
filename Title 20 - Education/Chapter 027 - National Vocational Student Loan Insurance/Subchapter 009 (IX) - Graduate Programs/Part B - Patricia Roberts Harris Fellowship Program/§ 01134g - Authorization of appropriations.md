@@ -6,7 +6,7 @@ There are authorized to be appropriated $60,000,000 for fiscal year 1993 and suc
 
 #### Prior Provisions
 
-A prior section 1134g, Pub. L. 89–329, title IX, §924, as added Pub. L. 96–374, title IX, §902(a), Oct. 3, 1980, 94Stat. 1484, authorized appropriations for fiscal years 1981 to 1985 for grant program to assist graduate and professional students, prior to the general revision of this subchapter by Pub. L. 99–498. See section 1134u(b) of this title.
+A prior section 1134g, Pub. L. 89–329, title IX, §924, as added Pub. L. 96–374, title IX, §902(a), Oct. 3, 1980, 94 Stat. 1484, authorized appropriations for fiscal years 1981 to 1985 for grant program to assist graduate and professional students, prior to the general revision of this subchapter by Pub. L. 99–498. See section 1134u(b) of this title.
 
 Another prior section 1134g, Pub. L. 89–329, title IX, §924, as added Pub. L. 92–318, title I, §181(a), June 23, 1972, 86 Stat. 307; amended Pub. L. 94–482, title I, §171(b), Oct. 12, 1976, 90 Stat. 2161, related to fellowship stipends, additional allowances to institutions of higher education, and deductions, prior to the general revision of this part by Pub. L. 96–374.
 

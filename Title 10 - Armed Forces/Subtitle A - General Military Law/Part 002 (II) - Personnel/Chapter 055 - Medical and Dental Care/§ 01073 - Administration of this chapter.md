@@ -46,9 +46,247 @@ For effective date of amendment by Pub. L. 89–614, see section 3 of Pub. L. 89
 
 The directory language of, but not the amendment made by, Pub. L. 89–718, §8(a), Nov. 2, 1966, 80 Stat. 1117, cited as a credit to this section, was repealed by Pub. L. 97–295, §6(b), Oct. 12, 1982, 96 Stat. 1314.
 
+#### Inclusion of Certain Designated Providers in Uniformed Services Health Care Delivery System
+
+Pub. L. 104–201, div. A, title VII, subtitle C, Sept. 23, 1996, 110 Stat. 2592, as amended by Pub. L. 104–208, div. A, title I, §101(b) \[title VIII, §8131(a)\], Sept. 30, 1996, 110 Stat. 3009–71, 3009–117, provided that:
+
+#### “SEC. 721. DEFINITIONS.
+
+“In this subtitle:
+
+&emsp;“(1) The term ‘administering Secretaries’ means the Secretary of Defense, the Secretary of Transportation, and the Secretary of Health and Human Services.
+
+&emsp;“(2) The term ‘agreement’ means the agreement required under section 722(b) between the Secretary of Defense and a designated provider.
+
+&emsp;“(3) The term ‘capitation payment’ means an actuarially sound payment for a defined set of health care services that is established on a per enrollee per month basis.
+
+&emsp;“(4) The term ‘covered beneficiary’ means a beneficiary under chapter 55 of title 10, United StatesCode, other than a beneficiary under section 1074(a) of such title.
+
+&emsp;“(5) The term ‘designated provider’ means a public or nonprofit private entity that was a transferee of a Public Health Service hospital or other station under section 987 of the Omnibus Budget Reconciliation Act of 1981 (Public Law 97–35; 42 U.S.C. 248b) and that, before the date of the enactment of this Act \[Sept. 23, 1996\], was deemed to be a facility of the uniformed services for the purposes of chapter 55 of title 10, United States Code. The term includes any legal successor in interest of the transferee.
+
+&emsp;“(6) The term ‘enrollee’ means a covered beneficiary who enrolls with a designated provider.
+
+&emsp;“(7) The term ‘health care services’ means the health care services provided under the health plan known as the ‘TRICARE PRIME’ option under the TRICARE program.
+
+&emsp;“(8) The term ‘Secretary’ means the Secretary of Defense.
+
+&emsp;“(9) The term ‘TRICARE program’ means the managed health care program that is established by the Secretary of Defense under the authority of chapter 55 of title 10, United States Code, principally section 1097 of such title, and includes the competitive selection of contractors to financially underwrite the delivery of health care services under the Civilian Health and Medical Program of the Uniformed Services.
+
+#### “SEC. 722. INCLUSION OF DESIGNATED PROVIDERS IN UNIFORMED SERVICES HEALTH CARE DELIVERY SYSTEM.
+
+“(a)
+
+Inclusion in System.—The health care delivery system of the uniformed services shall include the designated providers.
+
+“(b)
+
+Agreements to Provide Managed Health Care Services.—(1) After consultation with the other administering Secretaries, the Secretary of Defense shall negotiate and enter into an agreement with each designated provider under which the designated provider will provide health care services in or through managed care plans to covered beneficiaries who enroll with the designated provider.
+
+“(2) The agreement shall be entered into on a sole source basis. The Federal Acquisition Regulation, except for those requirements regarding competition, issued pursuant to section 25(c) of the Office of Federal Procurement Policy Act (41 U.S.C. 421(c)) shall apply to the agreements as acquisitions of commercial items.
+
+“(3) The implementation of an agreement is subject to availability of funds for such purpose.
+
+“(c)
+
+Effective Date of Agreements.—Unless an earlier effective date is agreed upon by the Secretary and the designated provider, the agreement shall take effect upon the later of the following:
+
+&emsp;“(1) The date on which a managed care support contract under the TRICARE program is implemented in the service area of the designated provider.
+
+&emsp;“(2) October 1, 1997.
+
+“(d)
+
+Temporary Continuation of Existing Participation Agreements.—The Secretary shall extend the participation agreement of a designated provider in effect immediately before the date of the enactment of this Act \[Sept. 23, 1996\] under section 718(c) of the National Defense Authorization Act for Fiscal Year 1991 (Public Law 101–510; \[former\] 42 U.S.C. 248c \[note\]) until the agreement required by this section takes effect under subsection (c).
+
+“(e)
+
+Service Area.—The Secretary may not reduce the size of the service area of a designated provider below the size of the service area in effect as of September 30, 1996.
+
+“(f)
+
+Compliance With Administrative Requirements.—(1) Unless otherwise agreed upon by the Secretary and a designated provider, the designated provider shall comply with necessary and appropriate administrative requirements established by the Secretary for other providers of health care services and requirements established by the Secretary of Health and Human Services for risk-sharing contractors under section 1876 of the Social Security Act (42 U.S.C. 1395mm). The Secretary and the designated provider shall determine and apply only such administrative requirements as are minimally necessary and appropriate. A designated provider shall not be required to comply with a law or regulation of a State government requiring licensure as a health insurer or health maintenance organization.
+
+“(2) A designated provider may not contract out more than five percent of its primary care enrollment without the approval of the Secretary, except in the case of primary care contracts between a designated provider and a primary care contractor in force on the date of the enactment of this Act \[Sept. 23, 1996\].
+
+#### “SEC. 723. PROVISION OF UNIFORM BENEFIT BY DESIGNATED PROVIDERS.
+
+“(a)
+
+Uniform Benefit Required.—A designated provider shall offer to enrollees the health benefit option prescribed and implemented by the Secretary under section 731 of the National Defense Authorization Act for Fiscal Year 1994 (Public Law 103–160; 10 U.S.C. 1073 note), including accompanying cost-sharing requirements.
+
+“(b)
+
+Time for Implementation of Benefit.—A designated provider shall offer the health benefit option described in subsection (a) to enrollees upon the later of the following:
+
+&emsp;“(1) The date on which health care services within the health care delivery system of the uniformed services are rendered through the TRICARE program in the region in which the designated provider operates.
+
+&emsp;“(2) October 1, 1997.
+
+“(c)
+
+Adjustments.—The Secretary may establish a later date under subsection (b)(2) or prescribe reduced cost-sharing requirements for enrollees.
+
+#### “SEC. 724. ENROLLMENT OF COVERED BENEFICIARIES.
+
+“(a)
+
+Fiscal Year 1997
+
+Limitation.—(1) During fiscal year 1997, the number of covered beneficiaries who are enrolled in managed care plans offered by designated providers may not exceed the number of such enrollees as of October 1, 1995.
+
+“(2) The Secretary may waive the limitation under paragraph (1) if the Secretary determines that additional enrollment authority for a designated provider is required to accommodate covered beneficiaries who are dependents of members of the uniformed services entitled to health care under section 1074(a) of title 10, United States Code.
+
+“(b)
+
+Permanent Limitation.—For each fiscal year beginning after September 30, 1997, the number of enrollees in managed care plans offered by designated providers may not exceed 110 percent of the number of such enrollees as of the first day of the immediately preceding fiscal year. The Secretary may waive this limitation as provided in subsection (a)(2).
+
+“(c)
+
+Retention of Current Enrollees.—An enrollee in the managed care plan of a designated provider as of September 30, 1997, or such earlier date as the designated provider and the Secretary may agree upon, shall continue receiving services from the designated provider pursuant to the agreement entered into under section 722 unless the enrollee disenrolls from the designated provider. Except as provided in subsection (e), the administering Secretaries may not disenroll such an enrollee unless the disenrollment is agreed to by the Secretary and the designated provider.
+
+“(d)
+
+Additional Enrollment Authority.—Other covered beneficiaries may also receive health care services from a designated provider, except that the designated provider may market such services to, and enroll, only those covered beneficiaries who—
+
+&emsp;“(1) do not have other primary health insurance coverage (other than Medicare coverage) covering basic primary care and inpatient and outpatient services; or
+
+&emsp;“(2) are enrolled in the direct care system under the TRICARE program, regardless of whether the coveredbeneficiaries were users of the health care delivery system of the uniformed services in prior years.
+
+“(e)
+
+Special Rule for Medicare-Eligible Beneficiaries.—If a covered beneficiary who desires to enroll in the managed care program of a designated provider is also entitled to hospital insurance benefits under part A of title XVIII of the Social Security Act (42 U.S.C. 1395c et seq.), the covered beneficiary shall elect whether to receive health care services as an enrollee or under part A of title XVIII of the Social Security Act. The Secretary may disenroll an enrollee who subsequently violates the election made under this subsection and receives benefits under part A of title XVIII of the Social Security Act.
+
+“(f)
+
+Information Regarding Eligible Covered Beneficiaries.—The Secretary shall provide, in a timely manner, a designated provider with an accurate list of covered beneficiaries within the marketing area of the designated provider to whom the designated provider may offer enrollment.
+
+#### “SEC. 725. APPLICATION OF CHAMPUS PAYMENT RULES.
+
+“(a)
+
+Application of Payment Rules.—Subject to subsection (b), the Secretary shall require a private facility or health care provider that is a health care provider under the Civilian Health and Medical Program of the Uniformed Services to apply the payment rules described in section 1074(c) of title 10, United States Code, in imposing charges for health care that the private facility or provider provides to enrollees of a designated provider.
+
+“(b)
+
+Authorized Adjustments.—The payment rules imposed under subsection (a) shall be subject to such modifications as the Secretary considers appropriate. The Secretary may authorize a lower rate than the maximum rate that would otherwise apply under subsection (a) if the lower rate is agreed to by the designated provider and the private facility or health care provider.
+
+“(c)
+
+Regulations.—The Secretary shall prescribe regulations to implement this section after consultation with the other administering Secretaries.
+
+“(d)
+
+Conforming Amendment.—\[Amended section 1074 of this title.\]
+
+#### “SEC. 726. PAYMENTS FOR SERVICES.
+
+“(a)
+
+Form of Payment.—Unless otherwise agreed to by the Secretary and a designated provider, the form of payment for health care services provided by a designated provider shall be on a full risk capitation payment basis. The capitation payments shall be negotiated and agreed upon by the Secretary and the designated provider. In addition to such other factors as the parties may agree to apply, the capitation payments shall be based on the utilization experience of enrollees and competitive market rates for equivalent health care services for a comparable population to such enrollees in the area in which the designated provider is located.
+
+“(b)
+
+Limitation on Total Payments.—Total capitation payments for health care services to a designated provider shall not exceed an amount equal to the cost that would have been incurred by the Government if the enrollees had received such health care services through a military treatment facility, the TRICARE program, or the Medicare program, as the case may be.
+
+“(c)
+
+Establishment of Payment Rates on Annual Basis.—The Secretary and a designated provider shall establish capitation payments on an annual basis, subject to periodic review for actuarial soundness and to adjustment for any adverse or favorable selection reasonably anticipated to result from the design of the program under this subtitle.
+
+“(d)
+
+Alternative Basis for Calculating Payments.—After September 30, 1999, the Secretary and a designated provider may mutually agree upon a new basis for calculating capitation payments.
+
+#### “SEC. 727. REPEAL OF SUPERSEDED AUTHORITIES.
+
+“(a)
+
+Repeals.—\[Repealed sections 248c and 248d of Title 42, The Public Health and Welfare, and section 718(c) of Pub. L. 101–510 and section 726 of Pub. L. 104–106, set out as notes under section 248c of Title 42.\]
+
+“(b)
+
+Effective Date.—The amendments made by paragraphs (1), (2), and (3) of subsection (a) shall take effect on October 1, 1997.”
+
+\[Pub. L. 104–208, div. A, title I, §101(b) \[title VIII, §8131(b)\], Sept. 30, 1996, 110 Stat. 3009–71, 3009–117, provided that: “The amendments made by subsection (a) \[amending section 722 of Pub. L. 104–201, set out above\] shall take effect as of the date of the enactment of the National Defense Authorization Act for Fiscal Year 1997 \[Sept. 23, 1996\] as if section 722 of such Act had been enacted as so amended.”\]
+
+#### Definition of TRICARE Program
+
+Pub. L. 104–106, div. A, title VII, §711, Feb. 10, 1996, 110 Stat. 374, provided that: “For purposes of this subtitle \[subtitle B (§§711–718) of title VII of div. A of Pub. L. 104–106, amending section 1097 of this title, enacting provisions set out as notes below, and amending provisions set out as a note below\], the term ‘TRICARE program’ means the managed health care program that is established by the Secretary of Defense under the authority of chapter 55 of title 10, United States Code, principally section 1097 of such title, and includes the competitive selection of contractors to financially underwrite the delivery of health care services under the Civilian Health and Medical Program of the Uniformed Services.”
+
+#### Training in Health Care Management and Administration for TRICARE Lead Agents
+
+Pub. L. 104–106, div. A, title VII, §715, Feb. 10, 1996, 110 Stat. 375, provided that:
+
+“(a)
+
+Provision of Training.—Not later than six months after the date of the enactment of this Act \[Feb. 10, 1996\], the Secretary of Defense shall implement a professional educational program to provide appropriate training in health care management and administration—
+
+&emsp;“(1) to each commander of a military medical treatment facility of the Department of Defense who is selected to serve as a lead agent to coordinate the delivery of health care by military and civilian providers under the TRICARE program; and
+
+&emsp;“(2) to appropriate members of the support staff of the treatment facility who will be responsible for daily operation of the TRICARE program.
+
+“(b)
+
+Report on Implementation.—Not later than six months after the date of the enactment of this Act, the Secretary of Defense shall submit to Congress a report describing the professional educational program implemented pursuant to this section.”
+
+#### Pilot Program of Individualized Residential Mental Health Services
+
+Pub. L. 104–106, div. A, title VII, §716, Feb. 10, 1996, 110 Stat. 375, provided that:
+
+“(a)
+
+Program Required.—(1) During fiscal year 1996, the Secretary of Defense, in consultation with the other administering Secretaries under chapter 55 of title 10, United States Code, shall implement a pilot program to provide residential and wraparound services to children described in paragraph (2) who are in need of mental health services. The Secretary shall implement the pilot program for an initial period of at least two years in a military health care region in which the TRICARE program has been implemented.
+
+“(2) A child shall be eligible for selection to participate in the pilot program if the child is a dependent (as described in subparagraph (D) or (I) of section 1072(2) of title 10, United States Code) who—
+
+&emsp;“(A) is eligible for health care under section 1079 or 1086 of such title; and
+
+&emsp;“(B) has a serious emotional disturbance that is generally regarded as amenable to treatment.
+
+“(b)
+
+Wraparound Services Defined.—For purposes of this section, the term ‘wraparound services’ means individualized mental health services that are providedprincipally to allow a child to remain in the family home or other least-restrictive and least-costly setting, but also are provided as an aftercare planning service for children who have received acute or residential care. Such term includes nontraditional mental health services that will assist the child to be maintained in the least-restrictive and least-costly setting.
+
+“(c)
+
+Pilot Program Agreement.—Under the pilot program the Secretary of Defense shall enter into one or more agreements that require a mental health services provider under the agreement—
+
+&emsp;“(1) to provide wraparound services to a child described in subsection (a)(2);
+
+&emsp;“(2) to continue to provide such services as needed during the period of the agreement even if the child moves to another location within the same TRICARE program region during that period; and
+
+&emsp;“(3) to share financial risk by accepting as a maximum annual payment for such services a case-rate reimbursement not in excess of the amount of the annual standard CHAMPUS residential treatment benefit payable (as determined in accordance with section 8.1 of chapter 3 of volume II of the CHAMPUS policy manual).
+
+“(d)
+
+Report.—Not later than March 1, 1998, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives a report on the program carried out under this section. The report shall contain—
+
+&emsp;“(1) an assessment of the effectiveness of the program; and
+
+&emsp;“(2) the Secretary's views regarding whether the program should be implemented throughout the military health care system.”
+
+#### Evaluation and Report on TRICARE Program Effectiveness
+
+Pub. L. 104–106, div. A, title VII, §717, Feb. 10, 1996, 110 Stat. 376, provided that:
+
+“(a)
+
+Evaluation Required.—The Secretary of Defense shall arrange for an on-going evaluation of the effectiveness of the TRICARE program in meeting the goals of increasing the access of covered beneficiaries under chapter 55 of title 10, United States Code, to health care and improving the quality of health care provided to covered beneficiaries, without increasing the costs incurred by the Government or covered beneficiaries. The evaluation shall specifically address—
+
+&emsp;“(1) the impact of the TRICARE program on military retirees with regard to access, costs, and quality of health care services; and
+
+&emsp;“(2) identify noncatchment areas in which the health maintenance organization option of the TRICARE program is available or is proposed to become available.
+
+“(b)
+
+Entity To Conduct Evaluation.—The Secretary may use a federally funded research and development center to conduct the evaluation required by subsection (a).
+
+“(c)
+
+Annual Report.—Not later than March 1, 1997, and each March 1 thereafter, the Secretary shall submit to Congress a report describing the results of the evaluation under subsection (a) during the preceding year.”
+
 #### Use of Health Maintenance Organization Model as Option for Military Health Care
 
-Pub. L. 103–160, div. A, title VII, §731, Nov. 30, 1993, 107 Stat. 1696, as amended by Pub. L. 103–337, div. A, title VII, §715, Oct. 5, 1994, 108 Stat. 2803, provided that:
+Pub. L. 103–160, div. A, title VII, §731, Nov. 30, 1993, 107 Stat. 1696, as amended by Pub. L. 103–337, div. A, title VII, §715, Oct. 5, 1994, 108 Stat. 2803; Pub. L. 104–106, div. A, title VII, §714, Feb. 10, 1996, 110 Stat. 374, provided that:
 
 “(a)
 
@@ -60,11 +298,15 @@ Elements of Option.—The Secretary shall offer covered beneficiaries who enroll
 
 “(c)
 
-Government Costs.—The health benefit option required under subsection (a) shall be administered so that the costs incurred by the Secretary under each managed health care initiative that includes the option are no greater than the costs that would otherwise be incurred to provide health care to the covered beneficiaries who enroll in the option.
+Government Costs.—The health benefit option required under subsection (a) shall be administered so that the costs incurred by the Secretary under the TRICARE program are no greater than the costs that would otherwise be incurred to provide health care to the members of the uniformed services and covered beneficiaries who participate in the TRICARE program.
 
 “(d)
 
-Covered Beneficiary Defined.—For purposes of this section, the term ‘covered beneficiary’ means a beneficiary under chapter 55 of title 10, United States Code, other than a beneficiary under section 1074(a) of such title.
+Definitions.—For purposes of this section:
+
+&emsp;“(1) The term ‘covered beneficiary’ means a beneficiary under chapter 55 of title 10, United States Code, other than a beneficiary under section 1074(a) of such title.
+
+&emsp;“(2) The term ‘TRICARE program’ means the managed health care program that is established by the Secretary of Defense under the authority of chapter 55 of title 10, United States Code, principally section 1097 of such title, and includes the competitive selection of contractors to financially underwrite the delivery of health care services under the Civilian Health and Medical Program of the Uniformed Services.
 
 “(e)
 
@@ -78,7 +320,7 @@ Modification of Existing Contracts.—In the case of managed health care contrac
 
 Pub. L. 104–61, title VI, Dec. 1, 1995, 109 Stat. 649, provided in part: “That the date for implementation of the nation-wide managed care military health services system shall be extended to September 30, 1997”.
 
-Pub. L. 103–139, title VIII, §8025, Nov. 11, 1993, 107 Stat. 1443, provided that: “Notwithstanding any other provision of law, to establish region-wide, at-risk, fixed price managed care contracts possessing features similar to those of the CHAMPUS Reform Initiative, the Secretary of Defense shall submit to the Congress a plan to implement a nation-wide managed health care program for the military health services system not later than December 31, 1993: <i>Provided</i>, That the program shall include, but not be limited to: (1) a uniform, stabilized benefit structure characterized by a triple option health benefit feature; (2) a regionally-based health care management system; (3) cost minimization incentives including ‘gatekeeping’ and annual enrollment procedures, capitation budgeting, and at-risk managed care support contracts; and (4) full and open competition for all managed care support contracts: <i>Provided further</i>, That the implementation of the nation-wide managed care military health services system shall be completed by September 30, 1996: <i>Provided further</i>, That the Department shall competitively award contracts in fiscal year 1994 for at least four new region-wide, at-risk, fixed price managed care support contracts consistent with the nation-wide plan, that one such contract shall include the State of Florida (which may include Department of Veterans Affairs’ medical facilities with the concurrence of the Secretary of Veterans Affairs), one such contract shall include the States of Washington and Oregon, and one such contract shall include the State of Texas: <i>Provided further</i>, That any law or regulation of a State or local government relating to health insurance, prepaid health plans, or other health care delivery, administration, and financing methods shall be preempted and shall not apply to any region-wide, at-risk, fixed price managed care contract entered into pursuant to chapter 55 of title 10, United States Code: <i>Provided further</i>, That the Department shall competitively award within 13 months after the date of enactment of this Act \[Nov. 11, 1993\] two contracts for stand-alone, at-risk managed mental health services in high utilization, high-cost areas, consistent with the management and service delivery features in operation in Department of Defense managed mental health care contracts: <i>Provided further</i>, That the Assistant Secretary of Defense for Health Affairs shall, during the current fiscal year, initiate through competitive procedures a managed health care program for eligible beneficiaries in the area of Homestead Air Force Base with benefits and services substantially identical to those established to serve beneficiary populations in areas where military medical facilities have been terminated, to include retail pharmacy networks available to Medicare-eligible beneficiaries, and shall present a plan to implement this program to the House and Senate Committees on Appropriations not later than January 15, 1994.”
+Pub. L. 103–139, title VIII, §8025, Nov. 11, 1993, 107 Stat. 1443, provided that: “Notwithstanding any other provision of law, to establish region-wide, at-risk, fixed price managed care contracts possessing features similar to those of the CHAMPUS Reform Initiative, the Secretary of Defense shall submit to the Congress a plan to implement a nation-wide managed health care program for the military health services system not later than December 31, 1993: <i>Provided</i>, That the program shall include, but not be limited to: (1) a uniform, stabilized benefit structure characterized by a triple option health benefit feature; (2) a regionally-based health care management system; (3) cost minimization incentives including ‘gatekeeping’ and annual enrollment procedures, capitation budgeting, and at-risk managed care support contracts; and (4) full and open competition for all managed care support contracts: <i>Provided further</i>, That the implementation of the nation-wide managed care military health services system shall be completed by September 30, 1996: <i>Provided further</i>, That the Department shall competitively award contracts in fiscal year 1994 for at least four new region-wide, at-risk, fixed price managed care support contracts consistent with the nation-wide plan, that one such contract shall include the State of Florida\(which may include Department of Veterans Affairs’ medical facilities with the concurrence of the Secretary of Veterans Affairs), one such contract shall include the States of Washington and Oregon, and one such contract shall include the State of Texas: <i>Provided further</i>, That any law or regulation of a State or local government relating to health insurance, prepaid health plans, or other health care delivery, administration, and financing methods shall be preempted and shall not apply to any region-wide, at-risk, fixed price managed care contract entered into pursuant to chapter 55 of title 10, United States Code: <i>Provided further</i>, That the Department shall competitively award within 13 months after the date of enactment of this Act \[Nov. 11, 1993\] two contracts for stand-alone, at-risk managed mental health services in high utilization, high-cost areas, consistent with the management and service delivery features in operation in Department of Defense managed mental health care contracts: <i>Provided further</i>, That the Assistant Secretary of Defense for Health Affairs shall, during the current fiscal year, initiate through competitive procedures a managed health care program for eligible beneficiaries in the area of Homestead Air Force Base with benefits and services substantially identical to those established to serve beneficiary populations in areas where military medical facilities have been terminated, to include retail pharmacy networks available to Medicare-eligible beneficiaries, and shall present a plan to implement this program to the House and Senate Committees on Appropriations not later than January 15, 1994.”
 
 #### Condition on Expansion of CHAMPUS Reform Initiative to Other Locations
 
@@ -192,7 +434,7 @@ Treatment of Limitation on Funds for Program.—No provision of law stated as a 
 
 #### Extension of CHAMPUS Reform Initiative for Certain States
 
-Pub. L. 102–172, title VIII, §8032, Nov. 26, 1991, 105 Stat. 1178, provided: “That notwithstanding any otherprovision of law, the CHAMPUS Reform Initiative contract for California and Hawaii shall be extended until February 1, 1994, within the limits and rates specified in the contract: <i>Provided further</i>, That the Department shall competitively award contracts for the geographic expansion of the CHAMPUS Reform Initiative in Florida (which may include Department of Veterans Affairs medical facilities with the concurrence of the Secretary of Veterans Affairs), Washington, Oregon, and the Tidewater region of Virginia: <i>Provided further</i>, That competitive expansion of the CHAMPUS Reform Initiative may occur in any other regions that the Assistant Secretary of Defense for Health Affairs deems appropriate.”
+Pub. L. 102–172, title VIII, §8032, Nov. 26, 1991, 105 Stat. 1178, provided: “That notwithstanding any other provision of law, the CHAMPUS Reform Initiative contract for California and Hawaii shall be extended until February 1, 1994, within the limits and rates specified in the contract: <i>Provided further</i>, That the Department shall competitively award contracts for the geographic expansion of the CHAMPUS Reform Initiative in Florida (which may include Department of Veterans Affairs medical facilities with the concurrence of the Secretary of Veterans Affairs), Washington, Oregon, and the Tidewater region of Virginia: <i>Provided further</i>, That competitive expansion of the CHAMPUS Reform Initiative may occur in any other regions that the Assistant Secretary of Defense for Health Affairs deems appropriate.”
 
 #### Conditions on Expansion of CHAMPUS Reform Initiative
 
@@ -222,7 +464,7 @@ Pub. L. 101–510, div. A, title VII, §716, Nov. 5, 1990, 104 Stat. 1585, provi
 
 “(a)
 
-Prohibition.—During the period beginning on the date of the enactment of this Act \[Nov. 5, 1990\] and ending on September 30, 1995, the Secretary of a military department may not take any action to close a military medical facility under the jurisdiction of that Secretary or reduce the level of care provided at such a medical facility until 90 days after the date on which the Secretary submits to Congress a report described in subsection (b).
+Prohibition.—During the period beginning on the date of the enactment of this Act \[Nov. 5, 1990\] andending on September 30, 1995, the Secretary of a military department may not take any action to close a military medical facility under the jurisdiction of that Secretary or reduce the level of care provided at such a medical facility until 90 days after the date on which the Secretary submits to Congress a report described in subsection (b).
 
 “(b)
 
@@ -278,7 +520,7 @@ CHAMPUS Defined.—In this section, the term ‘CHAMPUS’ has the meaning given
 
 #### CHAMPUS Reform Initiative
 
-Pub. L. 99–661, div. A, title VII, §702, Nov. 14, 1986, 100 Stat. 3899, as amended by Pub. L. 100–180, div. A, titleVII, §732(a), (c), Dec. 4, 1987, 101 Stat. 1119, provided that:
+Pub. L. 99–661, div. A, title VII, §702, Nov. 14, 1986, 100 Stat. 3899, as amended by Pub. L. 100–180, div. A, title VII, §732(a), (c), Dec. 4, 1987, 101 Stat. 1119, provided that:
 
 “(a)
 
@@ -318,7 +560,7 @@ Study of Health Care Alternatives.—(1) The demonstration project required by s
 
 &emsp;“(C) methods to guarantee that community hospitals are given equal consideration with other health care providers for provision of health care services under contracts with the Department of Defense.
 
-“(2) The Secretary shall submit to Congress a report discussing the matters evaluated in the study required by paragraph (1) before the end of the 90-day period beginning on the date of the enactment of this Act \[Nov. 14, 1986\].
+“(2) The Secretary shall submit to Congress a report discussing the matters evaluated in the study requiredby paragraph (1) before the end of the 90-day period beginning on the date of the enactment of this Act \[Nov. 14, 1986\].
 
 “(c)
 

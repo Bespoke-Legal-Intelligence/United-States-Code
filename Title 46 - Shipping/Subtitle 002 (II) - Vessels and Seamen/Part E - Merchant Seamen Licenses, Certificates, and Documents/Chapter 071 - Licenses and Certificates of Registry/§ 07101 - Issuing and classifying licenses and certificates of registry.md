@@ -32,7 +32,7 @@
 
 &emsp;(2) is of sound health and has no physical limitations that would hinder or prevent the performance of a pilot's duties;
 
-&emsp;(3) has a thorough physical examination each year while holding the license, except that this requirement does not apply to an individual who will serve as a pilot only on a vessel of less than 1,600 gross tons;
+&emsp;(3) has a thorough physical examination each year while holding the license, except that this requirement does not apply to an individual who will serve as a pilot only on a vessel of less than 1,600 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title;
 
 &emsp;(4) demonstrates, to the satisfaction of the Secretary, that the applicant has the requisite general knowledge and skill to hold the license;
 
@@ -58,7 +58,7 @@
 
 (i) The Secretary shall require the testing of an individual who applies for issuance or renewal of a license or certificate of registry under this chapter for use of a dangerous drug in violation of law or Federal regulation.
 
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 539; Pub. L. 98–557, §29(a), Oct. 30, 1984, 98 Stat. 2873; Pub. L. 101–380, title IV, §4101(a), Aug. 18, 1990, 104 Stat. 509.)
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 539; Pub. L. 98–557, §29(a), Oct. 30, 1984, 98 Stat. 2873; Pub. L. 101–380, title IV, §4101(a), Aug. 18, 1990, 104 Stat. 509; Pub. L. 104–324, title VII, §720, Oct. 19, 1996, 110 Stat. 3938.)
 
 Historical and Revision Notes
 
@@ -128,6 +128,8 @@ Sections 205(a)(3)(A) or (B) and 206(b)(7) of the National Driver Register Act o
 
 #### Amendments
 
+1996—Subsec. (e)(3). Pub. L. 104–324 inserted “as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title” after “1,600 gross tons”.
+
 1990—Subsecs. (g) to (i). Pub. L. 101–380 added subsecs. (g) to (i).
 
 1984—Subsec. (e)(3). Pub. L. 98–557 inserted exemption for pilots on a vessel of less than 1,600 gross tons.
@@ -138,7 +140,7 @@ Amendment by Pub. L. 101–380 applicable to incidents occurring after Aug. 18, 
 
 #### Plan for Licensing Operators of Fishing Industry Vessels
 
-Pub. L. 100–424, §3, Sept. 9, 1988, 102 Stat. 1590, provided that: “The Secretary of the department in which the Coast Guard is operating shall, within two years after the date of enactment of this Act \[Sept. 9, 1988\], and in close consultation with the Commercial Fishing Industry Vessel Advisory Committee established under section 4508 of title 46, United States Code (as amended by this Act), prepare and submit to the Congress a plan for the licensing of operators of documented fishing, fish processing, and fish tender vessels. The plan shall take into consideration the nature and variety of thedifferent United States fisheries and of the vessels engaged in those fisheries, the need to license all operators or only those working in certain types of fisheries or vessels, and other relevant factors.”
+Pub. L. 100–424, §3, Sept. 9, 1988, 102 Stat. 1590, provided that: “The Secretary of the department in which the Coast Guard is operating shall, within two years after the date of enactment of this Act \[Sept. 9, 1988\], and in close consultation with the Commercial Fishing Industry Vessel Advisory Committee established under section 4508 of title 46, United States Code (as amended by this Act), prepare and submit to the Congress a plan for the licensing of operators of documented fishing, fish processing, and fish tender vessels. The plan shall take into consideration the nature and variety of the different United States fisheries and of the vessels engaged in those fisheries, the need to license all operators or only those working in certain types of fisheries or vessels, and other relevant factors.”
 
 #### Section Referred to in Other Sections
 

@@ -12,7 +12,7 @@ The Secretary shall—
 
 The Secretary shall establish a clearinghouse or otherwise provide for the collection and dissemination of information on exemplary projects for improving education that were developed in accordance with section 1105b(b) of this title. The Secretary may utilize the National Diffusion Network in carrying out the requirements of this section.
 
-(Pub. L. 89–329, title V, §537, as added Pub. L. 102–325, title V, §501(a), July 23, 1992, 106 Stat.686; amended Pub. L. 103–208, §2(j)(5), Dec. 20, 1993, 107 Stat. 2481.)
+(Pub. L. 89–329, title V, §537, as added Pub. L. 102–325, title V, §501(a), July 23, 1992, 106 Stat. 686; amended Pub. L. 103–208, §2(j)(5), Dec. 20, 1993, 107 Stat. 2481.)
 
 #### Amendments
 

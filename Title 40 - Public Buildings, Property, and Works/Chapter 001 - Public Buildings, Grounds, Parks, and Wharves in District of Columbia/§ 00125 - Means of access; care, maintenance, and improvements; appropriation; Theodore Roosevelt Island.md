@@ -14,7 +14,7 @@ Section is also set out in D.C. Code, §8–159.
 
 #### Transfer of Functions
 
-“Director of the National Park Service” substituted for “director”, meaning Director of Public Buildingsand Public Parks of National Capital. See Transfer of Functions note set out under section 124 of this title.
+“Director of the National Park Service” substituted for “director”, meaning Director of Public Buildings and Public Parks of National Capital. See Transfer of Functions note set out under section 124 of this title.
 
 “National Capital Planning Commission” substituted for “National Capital Park and Planning Commission” on authority of act June 6, 1924, ch. 270, §9, as added July 19, 1952, which transferred functions of latter to former. See section 71h of this title and Transfer of Functions note thereunder.
 

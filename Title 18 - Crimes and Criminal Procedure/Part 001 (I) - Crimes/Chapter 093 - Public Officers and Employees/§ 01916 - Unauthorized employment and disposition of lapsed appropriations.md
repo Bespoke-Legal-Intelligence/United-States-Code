@@ -6,9 +6,9 @@ Whoever—
 
 &emsp;(2) violates the provision of section 5501 of title 5 that money accruing from lapsed salaries or from unused appropriations for salaries shall be covered into the Treasury of the United States;
 
-> shall be fined not more than $1,000 or imprisoned not more than one year.
+> shall be fined under this title or imprisoned not more than one year.
 
-(Added Pub. L. 89–554, §3(d), Sept. 6, 1966, 80 Stat. 608.)
+(Added Pub. L. 89–554, §3(d), Sept. 6, 1966, 80 Stat. 608; amended Pub. L. 104–294, title VI, §601(a)(8), Oct. 11, 1996, 110 Stat. 3498.)
 
 Historical and Revision Notes
 
@@ -16,7 +16,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 5 U.S.C. 47 (less so much as relates to removal).
 
@@ -27,4 +29,8 @@ Aug. 23, 1912, ch. 350, §5 (less so much as relates to removal), 37 Stat. 414.
 The statement of the acts prohibited is supplied from section 4 of the Act of Aug. 5, 1882, ch. 389, 22 Stat. 255, as amended June 22, 1906, ch. 3514, §§6, 8, 34 Stat. 449, and Sept. 23, 1950, ch. 1010, §7, 64 Stat. 986, which is codified in sections 3103 and 5501 of title 5, United States Code.
 
 The words “upon conviction thereof” are omitted as unnecessary because punishment can be imposed only after conviction.
+
+#### Amendments
+
+1996—Pub. L. 104–294 substituted “fined under this title” for “fined not more than $1,000” in concluding provisions.
 

@@ -10,7 +10,7 @@ Not later than 30 months after the date on which the collection of assessments b
 
 #### (b) Purpose of referendum
 
-The referendum referred to in subsection (a) of this section is for the purpose of determining whether the issuance of the order is approved or favored by not less than a majority of the producers, producer-handlers, and importers votingin the referendum. The order shall continue in effect only with such a majority.
+The referendum referred to in subsection (a) of this section is for the purpose of determining whether the issuance of the order is approved or favored by not less than a majority of the producers, producer-handlers, and importers voting in the referendum. The order shall continue in effect only with such a majority.
 
 #### (c) Confidentiality
 

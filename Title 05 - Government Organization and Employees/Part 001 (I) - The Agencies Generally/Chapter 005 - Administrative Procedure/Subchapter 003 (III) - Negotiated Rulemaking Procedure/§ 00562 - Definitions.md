@@ -30,15 +30,11 @@ For the purposes of this subchapter, the term—
 
 (Added Pub. L. 101–648, §3(a), Nov. 29, 1990, 104 Stat. 4970, §582; renumbered §562, Pub. L. 102–354, §3(a)(2), Aug. 26, 1992, 106 Stat. 944.)
 
-#### Repeal of Section
-
-<i>Section repealed effective six years after Nov. 29, 1990, see section 5 of Pub. L. 101–648, as amended, set out as an Effective Date of Repeal; Savings Provision note under section 561 of this title.</i>
-
 #### References in Text
 
 The Federal Advisory Committee Act, referred to in par. (7), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to this title.
 
 #### Amendments
 
-<b>1992</b>—Pub. L. 102–354 renumbered section 582 of this title as this section.
+1992—Pub. L. 102–354 renumbered section 582 of this title as this section.
 

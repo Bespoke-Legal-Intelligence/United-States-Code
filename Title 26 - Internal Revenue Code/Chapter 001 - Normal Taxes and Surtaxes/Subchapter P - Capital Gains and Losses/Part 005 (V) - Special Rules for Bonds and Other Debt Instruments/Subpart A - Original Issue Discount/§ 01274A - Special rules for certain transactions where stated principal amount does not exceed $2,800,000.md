@@ -16,7 +16,7 @@ For purposes of this section, the term “qualified debt instrument” means any
 
 &emsp;&emsp;(A) section 1274 shall not apply, and
 
-&emsp;&emsp;(B) interest on such debt instument <sup>1</sup> shall be taken into account by both the borrower and the lender under the cash receipts and disbursements method of accounting.
+&emsp;&emsp;(B) interest on such debt instrument shall be taken into account by both the borrower and the lender under the cash receipts and disbursements method of accounting.
 
 #### (2) Cash method debt instrument
 
@@ -80,13 +80,15 @@ The Secretary shall prescribe such regulations as may be necessary to carry out 
 
 &emsp;(3) regulations relating to the treatment of transfers of cash method debt instruments.
 
-(Added Pub. L. 99–121, title I, §102(a), Oct. 11, 1985, 99 Stat. 506; amended Pub. L. 101–508, title XI, §11813(b)(22), Nov. 5, 1990, 104 Stat. 1388–555.)
+(Added Pub. L. 99–121, title I, §102(a), Oct. 11, 1985, 99 Stat. 506; amended Pub. L. 101–508, title XI, §11813(b)(22), Nov. 5, 1990, 104 Stat. 1388–555; Pub. L. 104–188, title I, §1704(t)(62), Aug. 20, 1996, 110 Stat. 1890.)
 
 #### References in Text
 
 The date of the enactment of the Revenue Reconciliation Act of 1990, referred to in subsec. (b), is the date of enactment of Pub. L. 101–508, which was approved Nov. 5, 1990.
 
 #### Amendments
+
+1996—Subsec. (c)(1)(B). Pub. L. 104–188 substituted “instrument” for “instument”.
 
 1990—Subsec. (b). Pub. L. 101–508 inserted “, as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1990” after “section 48(b)”.
 
@@ -105,6 +107,4 @@ For provisions that nothing in amendment by Pub. L. 101–508 be construed to af
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 483, 1274 of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should be “instrument”.</i>
 

@@ -2,43 +2,29 @@
 
 #### (a) Assistance authorized
 
-The Center, at the discretion of the Board, may provide to entities described in subsection (b) of this section for projects commercializing new nonfood, nonfeed products using agricultural commodities, financial assistance in the form of—
+The Corporation, at the discretion of the Corporate Board, may provide to entities described in subsection (b) of this section for projects commercializing new nonfood, nonfeed products using agricultural commodities, financial assistance in the form of—
 
-&emsp;(1) loans made or insured by the Center;
+&emsp;(1) loans made or insured by the Corporation;
 
-&emsp;(2) interest subsidy payments made by the Center (pursuant to an agreement between the Center, the lender, and the borrower) to the lender in amounts determined pursuant to the agreement;
+&emsp;(2) interest subsidy payments made by the Corporation (pursuant to an agreement between the Corporation, the lender, and the borrower) to the lender in amounts determined pursuant to the agreement;
 
-&emsp;(3) venture capital invested by the Center in the form of a convertible debenture; and
+&emsp;(3) venture capital invested by the Corporation in the form of a convertible debenture; and
 
-&emsp;(4) repayable grants that are matched by private or local public funds and that are repaid as agreed in a contract between the Center and the entity.
+&emsp;(4) repayable grants that are matched by private or local public funds and that are repaid as agreed in a contract between the Corporation and the entity.
 
 #### (b) Eligible entities
 
-To obtain financial assistance for commercialization of nonfood, nonfeed products from the Center, an entity shall be a university or other institution of higher education, a nonprofit organization, a cooperative, or a business concern.
+To obtain financial assistance for commercialization of nonfood, nonfeed products from the Corporation, an entity shall be a university or other institution of higher education, a nonprofit organization, a cooperative, or a business concern.
 
-#### (c) Advisory Council
+#### (c) Application requirements
 
-The Board shall appoint an Advisory Council to advise the Board and Regional Centers concerning all applications for assistance submitted under this section. The conflict of interest provisions of subsection (i) of section 5903 of this title shall apply to the Advisory Council. In appointing members of the Advisory Council, the Board shall ensure regional participation on the Advisory Council. The Advisory Council shall—
+#### (1) Filed with Executive Director
 
-&emsp;(1) review (or coordinate the review of) the technical, engineering, financial, and managerial soundness and marketing potential of the applications;
-
-&emsp;(2) by majority vote, make a nonbinding recommendation on each application submitted under this section;
-
-&emsp;(3) monitor the progress of ongoing projects and provide technical and business counseling as needed;
-
-&emsp;(4) monitor the operation of the Regional Centers; and
-
-&emsp;(5) provide technical and business counseling to entities that are not seeking financial assistance from the Center, but which are engaged in commercializing nonfood, nonfeed uses of agricultural commodities.
-
-#### (d) Application requirements
-
-#### (1) Filed with Director
-
-&emsp;To obtain financial assistance from the Center under this section, an eligible entity shall file an application with the Director.
+&emsp;To obtain financial assistance from the Corporation under this section, an eligible entity shall file an application with the Executive Director.
 
 #### (2) Contents
 
-&emsp;An application submitted to the Director under paragraph (1) shall—
+&emsp;An application submitted to the Executive Director under paragraph (1) shall—
 
 &emsp;&emsp;(A) describe the proposal of the entity for the commercialization of a new product consistent with this section, including documentation that such proposal is—
 
@@ -62,9 +48,9 @@ The Board shall appoint an Advisory Council to advise the Board and Regional Cen
 
 &emsp;&emsp;(H) provide assurances that the project will result in the creation of new jobs in rural communities.
 
-#### (e) Priorities
+#### (d) Priorities
 
-The Board shall give priority to—
+The Corporate Board shall give priority to—
 
 &emsp;(1) applications that shall create jobs in economically distressed rural areas;
 
@@ -72,9 +58,9 @@ The Board shall give priority to—
 
 &emsp;(3) applications that have private financial participation.
 
-#### (f) Additional criteria
+#### (e) Additional criteria
 
-The Board shall establish additional criteria for use in selecting among equivalent applications. Such criteria shall emphasize—
+The Corporate Board shall establish additional criteria for use in selecting among equivalent applications. Such criteria shall emphasize—
 
 &emsp;(1) the quantity and quality of jobs that are likely to be created in rural communities;
 
@@ -86,13 +72,21 @@ The Board shall establish additional criteria for use in selecting among equival
 
 &emsp;(5) the likely level of returns to the Fund and the items described in paragraphs (2), (6), (8), and (9) of section 5904(c) of this title.
 
-(Pub. L. 101–624, title XVI, §1661, Nov. 28, 1990, 104 Stat. 3762.)
+(Pub. L. 101–624, title XVI, §1661, Nov. 28, 1990, 104 Stat. 3762; Pub. L. 104–127, title VII, §725, Apr. 4, 1996, 110 Stat. 1119.)
 
-#### Termination of Advisory Councils
+#### Amendments
 
-Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by the Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+1996—Subsec. (a). Pub. L. 104–127, §725(1), (2), substituted “Corporation” for “Center” wherever appearing and substituted “Corporate Board” for “Board” in introductory provisions.
+
+Subsec. (b). Pub. L. 104–127, §725(1), substituted “Corporation” for “Center”.
+
+Subsec. (c). Pub. L. 104–127, §725(3), (4), redesignated subsec. (d) as (c) and struck out former subsec. (c) which provided for appointment of Advisory Council to advise Board and Regional Centers concerning applications for assistance submitted under this section.
+
+Pub. L. 104–127, §725(1), (5), substituted “Corporation” for “Center” in par. (1) and “Executive Director” for “Director” in par. (1) heading and text and introductory provisions of par. (2).
+
+Subsecs. (d) to (f). Pub. L. 104–127, §725(2), (4), redesignated subsecs. (e) and (f) as (d) and (e), respectively, and substituted “Corporate Board” for “Board”.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 5902, 5903, 5906, 5907, 5908 of this title.
+This section is referred to in sections 5902, 5903, 5906, 5907, 5908, 5909 of this title.
 

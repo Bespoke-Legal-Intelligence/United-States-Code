@@ -24,7 +24,7 @@ General Authority.—In carrying out this chapter, the Secretary of Transportati
 
 (b)
 
-Procedures for Prescribing Regulations.—(1) The Secretary of Transportation shall prepare an agenda listing all areas in which the Secretary intends to propose regulations governing activities under this chapter within the following 12 months. The Secretary shall publish the proposed agenda in the Federal Register as part of the Secretary's semiannual regulatory agenda that lists regulatory activities of the Federal Transit Administration. The Secretary shall submit the agenda to the Committees on Public Works and Transportation and Appropriations of the House of Representatives and the Committees on Banking, Housing, and Urban Affairs and Appropriations of the Senate on the day the agenda is published.
+Procedures for Prescribing Regulations.—(1) The Secretary of Transportation shall prepare an agenda listing all areas in which the Secretary intends to propose regulations governing activities under this chapter within the following 12 months. The Secretary shall publish the proposed agenda in the Federal Register as part of the Secretary's semiannual regulatory agenda that lists regulatory activities of the Federal Transit Administration. The Secretary shall submit the agenda to the Committees on Transportation and Infrastructure and Appropriations of the House of Representatives and the Committees on Banking, Housing, and Urban Affairs and Appropriations of the Senate on the day the agenda is published.
 
 (2) Except for emergency regulations, the Secretary of Transportation shall give interested parties at least 60 days to participate in a regulatory proceeding under this chapter by submitting written information, views, or arguments, with or without an oral presentation, except when the Secretary for good cause finds that public notice and comment are unnecessary because of the routine nature or insignificant impact of the regulation or that an emergency regulation should be issued. The Secretary may extend the 60-day period if the Secretary decides the period is insufficient to allow diligent individuals to prepare comments or that other circumstances justify an extension.
 
@@ -38,7 +38,7 @@ Budget Program and Set of Accounts.—The Secretary of Transportation shall—
 
 &emsp;(1) submit each year a budget program as provided in section 9103 of title 31; and
 
-&emsp;(2) maintain a set of accounts the Comptroller General shall audit under chapter 35 of title 31.
+&emsp;(2) maintain a set of accounts for audit under chapter 35 of title 31.
 
 (d)
 
@@ -96,11 +96,13 @@ Relationship to Other Laws.—(1) Section 9107(a) of title 31 applies to the Sec
 
 (2) Section 3709 of the Revised Statutes (41 U.S.C. 5) applies to a contract for more than $1,000 for services or supplies related to property acquired under this chapter.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 836.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 836; Pub. L. 104–287, §5(9), Oct. 11, 1996, 110 Stat. 3389; Pub. L. 104–316, title I, §127(a), Oct. 19, 1996, 110 Stat. 3840.)
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -168,13 +170,13 @@ Reorg. Plan No. 2 of 1968, eff. June 30, 1968, §1(a)(1) (related to authority a
 
 In subsections (c)–(f), and (j), the relevant substantive provisions of 12:1749a are substituted for “shall . . . have the functions, powers, and duties set forth in section 1749a of title 12, except subsections (c)(2) and (f) of such section” for clarity. The reference to subsection (c)(2) is omitted as obsolete because section 201(d)(1) of the Housing and Community Development Technical Amendments Act of 1984 (Public Law 98–479, 98 Stat. 2228) repealed 12:1749a(c)(2). The words “(in addition to any authority otherwise vested in him)” are omitted as surplus.
 
-In subsection (a), the text of 49 App.:1608(a) (1st sentence related to 12:1749a(c)(8)) is omitted as obsolete. Before clause (1), the words “carrying out this chapter”are substituted for “the performance of, and with respect to, the functions, powers, and duties vested in him by this chapter” to eliminate unnecessary words. In clause (1), the words “(except terms the Secretary of Labor prescribes under section 5333(b) of this title)” are added for clarity because 49 App.:1608(a) only applies to the Secretary of Transportation and does not supersede the responsibility of the Secretary of Labor. In clause (3), the word “civil” is added for clarity. The words “contract, or other” are omitted as surplus. In clause (4), the words “bid for and . . . at any foreclosure or any other sale” are omitted as surplus. In clause (6), the words “at public or private sale”, “real or personal”, and “upon such terms as he may fix” are omitted as surplus. Clause (8) is substituted for 49 App.:1608(a) (1st sentence related to 12:1749a(c)(7)) to eliminate unnecessary words. In clause (9), the word “provisions” is omitted as surplus. The words “carry out this chapter” are substituted for “assure that the purposes of this subchapter will be achieved” to eliminate unnecessary words.
+In subsection (a), the text of 49 App.:1608(a) (1st sentence related to 12:1749a(c)(8)) is omitted as obsolete. Before clause (1), the words “carrying out this chapter” are substituted for “the performance of, and with respect to, the functions, powers, and duties vested in him by this chapter” to eliminate unnecessary words. In clause (1), the words “(except terms the Secretary of Labor prescribes under section 5333(b) of this title)” are added for clarity because 49 App.:1608(a) only applies to the Secretary of Transportation and does not supersede the responsibility of the Secretary of Labor. In clause (3), the word “civil” is added for clarity. The words “contract, or other” are omitted as surplus. In clause (4), the words “bid for and . . . at any foreclosure or any other sale” are omitted as surplus. In clause (6), the words “at public or private sale”, “real or personal”, and “upon such terms as he may fix” are omitted as surplus. Clause (8) is substituted for 49 App.:1608(a) (1st sentence related to 12:1749a(c)(7)) to eliminate unnecessary words. In clause (9), the word “provisions” is omitted as surplus. The words “carry out this chapter” are substituted for “assure that the purposes of this subchapter will be achieved” to eliminate unnecessary words.
 
 In subsection (b), the words “regulatory” and “regulatory proceeding” are substituted for “rulemaking” for consistency in the revised title and because “rule” and “regulation” are synonymous.
 
 In subsection (b)(1), the words “Federal Transit Administration” are substituted for “Urban Mass Transportation Administration” because of section 3004(b) of the Intermodal Surface Transportation Efficiency Act of 1991 (Public Law 102–240, 105 Stat. 2088). The words “also” and “required by the first sentence of this paragraph” are omitted as surplus.
 
-In subsection (c), before clause (1), the words “In the performance of, and with respect to, the functions, powers, and duties vested in him by this subchapter . . . notwithstanding the provisions of any other law” are omitted as surplus. In clause (1), the words “prepare . . . and” and “for wholly owned Government corporations” are omitted as surplus.
+In subsection (c), before clause (1), the words “In the performance of, and with respect to, the functions, powers, and duties vested in him by this subchapter. . . notwithstanding the provisions of any other law” are omitted as surplus. In clause (1), the words “prepare . . . and” and “for wholly owned Government corporations” are omitted as surplus.
 
 Subsection (d) is substituted for 49 App.:1608(a) (1st sentence related to 12:1749a(b) and last sentence) to eliminate unnecessary words.
 
@@ -190,9 +192,11 @@ Subsection (i) is substituted for section 1(a)(1) (related to authority and func
 
 Subsection (j)(1) is substituted for 49 App.:1608(a) (1st sentence related to 12:1749a(e)) to eliminate unnecessary words.
 
-#### Change of Name
+#### Amendments
 
-Committee on Public Works and Transportation of House of Representatives treated as referring to Committee on Transportation and Infrastructure of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+1996—Subsec. (b)(1). Pub. L. 104–287 substituted “Transportation and Infrastructure” for “Public Works and Transportation”.
+
+Subsec. (c)(2). Pub. L. 104–316 substituted “for” for “the Comptroller General shall”.
 
 #### Section Referred to in Other Sections
 

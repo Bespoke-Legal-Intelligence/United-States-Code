@@ -2,7 +2,7 @@
 
 #### (a) Payment schedule
 
-From the sums appropriated therefor and the allotment under this subpart, subject to the conditions set forth in this section and in section 627 of this title, the Secretary shall from time to time pay to each State that has a plan developed in accordance with section 622 of this title an amount equal to 75 per centum of the total sum expended under the plan (including the cost of administration of the plan) in meeting the costs of State, district, county, or other local child welfare services.
+From the sums appropriated therefor and the allotment under this subpart, subject to the conditions set forth in this section, the Secretary shall from time to time pay to each State that has a plan developed in accordance with section 622 of this title an amount equal to 75 per centum of the total sum expended under the plan (including the cost of administration of the plan) in meeting the costs of State, district, county, or other local child welfare services.
 
 #### (b) Computation and method of payment
 
@@ -24,11 +24,9 @@ No payment may be made to a State under this part in excess of the payment made 
 
 (Aug. 14, 1935, ch. 531, title IV, §423, as added Jan. 2, 1968, Pub. L. 90–248, title II, §240(c), 81 Stat. 913; amended Apr. 21, 1976, Pub. L. 94–273, §22, 90 Stat. 379; June 17, 1980, Pub. L. 96–272, title I, §103(a), 94 Stat. 518; Aug. 10, 1993, Pub. L. 103–66, title XIII, §13711(b)(2), 107 Stat. 655; Oct. 31, 1994, Pub. L. 103–432, title II, §202(d)(1), 108 Stat. 4454.)
 
-#### Amendment of Subsection (a)
-
-<i>Pub. L. 103–432, title II, §202(d)(1), (e), Oct. 31, 1994, 108 Stat. 4454, provided that, effective with respect to fiscal years beginning on or after Apr. 1, 1996, subsection (a) of this section is amended by striking out “and in section 627 of this title”.</i>
-
 #### Amendments
+
+1994—Subsec. (a). Pub. L. 103–432 struck out “and in section 627 of this title” after “set forth in this section”.
 
 1993—Subsec. (a). Pub. L. 103–66 substituted “under this subpart” for “under this part”.
 

@@ -46,7 +46,7 @@ For purposes of this subchapter:
 
 #### (8) Implement
 
-&emsp;The term “implement” refers to those actions necessary to effectuate fully andpromptly a final determination of the Division not later than 30 calendar days after the effective date of the final determination.
+&emsp;The term “implement” refers to those actions necessary to effectuate fully and promptly a final determination of the Division not later than 30 calendar days after the effective date of the final determination.
 
 #### (9) Participant
 

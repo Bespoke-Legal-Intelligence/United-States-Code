@@ -52,9 +52,9 @@
 
 &emsp;&emsp;&emsp;(i) participate in the coordination of activities between such program and the early and periodic screening, diagnostic, and treatment program under section 1396d(a)(4)(B) of this title (including the establishment of periodicity and content standards for early and periodic screening, diagnostic, and treatment services), to ensure that such programs are carried out without duplication of effort,
 
-&emsp;&emsp;&emsp;(ii) participate in the arrangement and carrying out of coordination agreements described in section 1396a(a)(11) of this title (relating to coordination of care and services available under this subchapter and subchapter XIX of this chapter),
+&emsp;&emsp;&emsp;(ii) participate in the arrangement and carrying out of coordination agreementsdescribed in section 1396a(a)(11) of this title (relating to coordination of care and services available under this subchapter and subchapter XIX of this chapter),
 
-&emsp;&emsp;&emsp;(iii) participate in the coordination of activities within the State with programscarried out under this subchapter and related Federal grant programs (including supplemental food programs for mothers, infants, and children, related education programs, and other health, developmental disability, and family planning programs), and
+&emsp;&emsp;&emsp;(iii) participate in the coordination of activities within the State with programs carried out under this subchapter and related Federal grant programs (including supplemental food programs for mothers, infants, and children, related education programs, and other health, developmental disability, and family planning programs), and
 
 &emsp;&emsp;&emsp;(iv) provide, directly and through their providers and institutional contractors, for services to identify pregnant women and infants who are eligible for medical assistance under subparagraph (A) or (B) of section 1396a(<i>l</i>)(1) of this title and, once identified, to assist them in applying for such assistance.
 
@@ -98,7 +98,7 @@ Pub. L. 101–239, §6503(b)(4), redesignated former par. (2) as (5).
 
 Subsec. (a)(5)(A). Pub. L. 101–239, §6503(b)(5)(B), substituted “will establish” for “will provide”.
 
-Subsec. (a)(5)(C)(i). Pub. L. 101–239, §6503(b)(5)(C), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “a substantial proportion of the sums expended by the State for carrying out this subchapter for the provision of health services to mothers and children, with special consideration given (where appropriate) to the continuation of the funding of special projects in the State previously funded under this subchapter (as in effect before August 13, 1981), and”.
+Subsec. (a)(5)(C)(i). Pub. L. 101–239, §6503(b)(5)(C), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “a substantial proportion of the sums expended by the State for carrying out this subchapter for the provision of health services to mothers and children, with special consideration given (where appropriate) to the continuation of the funding of specialprojects in the State previously funded under this subchapter (as in effect before August 13, 1981), and”.
 
 Subsec. (a)(5)(C)(ii). Pub. L. 101–239, §6501(b), substituted “subparagraphs (A) through (D) of section 701(a)(1) of this title” for “paragraphs (1) through (3) of section 701(a) of this title”.
 
@@ -132,5 +132,5 @@ Amendment by section 137 of Pub. L. 97–248 effective as if originally included
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 702, 703, 704, 706, 709, 4728 of this title.
+This section is referred to in sections 702, 703, 704, 706, 709, 710, 4728 of this title.
 

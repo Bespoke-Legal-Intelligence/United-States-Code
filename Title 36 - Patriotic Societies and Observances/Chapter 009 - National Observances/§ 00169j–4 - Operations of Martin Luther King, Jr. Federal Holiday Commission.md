@@ -6,7 +6,7 @@ The Commission shall first meet within 30 days after August 27, 1984. At this fi
 
 #### (b) Donations
 
-The Commission may encourage the participation of, and accept, use, and dispose of donations of money, property, and personal services from, individuals and public and private organizations to assist the Commission in carrying out its responsibilities under this Act.
+The Commission may encourage the participation of, and accept, use, and dispose of donations of money, property, and personal services from,individuals and public and private organizations to assist the Commission in carrying out its responsibilities under this Act.
 
 (Pub. L. 98–399, §5, Aug. 27, 1984, 98 Stat. 1474; Pub. L. 101–30, §7, May 17, 1989, 103 Stat. 61.)
 

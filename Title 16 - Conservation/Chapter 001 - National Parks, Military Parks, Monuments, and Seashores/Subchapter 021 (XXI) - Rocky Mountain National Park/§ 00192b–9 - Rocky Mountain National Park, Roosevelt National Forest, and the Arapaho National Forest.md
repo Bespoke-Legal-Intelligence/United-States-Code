@@ -36,3 +36,15 @@ This Act, referred to in subsecs. (a) and (b), is Pub. L. 96–560, Dec. 22, 198
 
 Public Law 95–450 (92 Stat. 1099), referred to in subsec. (a), is Pub. L. 95–450, Oct. 11, 1978, 92 Stat. 1095, as amended, known as the Indian Peaks Wilderness Area, the Arapaho National Recreation Area and the Oregon Islands Wilderness Area Act, which is classified principally to subchapter XCIV (§460jj et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 460jj of this title and Tables.
 
+#### Encouragement of Land Exchanges
+
+Pub. L. 104–333, div. I, title IV, §408(b), Nov. 12, 1996, 110 Stat. 4153, provided that:
+
+“(1)
+
+Lands inside rocky mountain national park.—Promptly following enactment of this Act \[Nov. 12, 1996\], the Secretary of the Interior shall seek to acquire by donation or exchange those lands within the boundaries of Rocky Mountain National Park owned by the city of Longmont, Colorado, that are referred to in section 111(d) of the Act commonly referred to as the ‘Colorado Wilderness Act of 1980’ (Public Law 96–560; 94 Stat. 3272; 16 U.S.C. 192b–9(d)).
+
+“(2)
+
+Other lands.—The Secretary of Agriculture shall immediately and actively pursue negotiations with the city of Longmont, Colorado, concerning the city's proposed exchange of lands owned by the city and located in and near Coulson Gulch for other lands owned by the United States. The Secretary shall report to Congress 2 calendar years after the date of enactment of this Act \[Nov. 12, 1996\], and every 2 years thereafter on the progress of such negotiations until negotiations are complete.”
+

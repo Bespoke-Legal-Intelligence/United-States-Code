@@ -16,7 +16,7 @@
 
 (1) Each State or the appropriate agency thereof may, for the purposes of this section, pursuant to procedures and standards established by the State, determine the maximum efficient rate of production and, if any, the temporary emergency production rate, for each field (other than a field on Federal lands) within such State which produces, or is determined to be capable of producing, significant volumes of crude oil or natural gas, or both.
 
-(2) If a State or the appropriate agency thereof has determined the maximum efficient rate of production and, if any, the temporary emergency production rate, or both, or their equivalents (however characterized), for any field (other than a field on Federal lands) within such State, the President may, by rule or order, during a severe energy supply interruption, require the production of such fields at the rates of production established by the State.
+(2) If a State or the appropriate agency thereof has determined the maximum efficient rate of production and, if any, the temporary emergency production rate, or both, or their equivalents (however characterized), for any field (other than a field on Federal lands) within such State, the President may, by rule or order, during a severe energy supply interruption, requirethe production of such fields at the rates of production established by the State.
 
 #### (c) Fields composed of Federal and non-Federal land
 

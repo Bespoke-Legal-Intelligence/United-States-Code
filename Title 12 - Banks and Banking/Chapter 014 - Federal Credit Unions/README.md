@@ -85,6 +85,7 @@
 | (b) | Application; agreement. |
 | (c) | Approval of application. |
 | (d) | Certificate of insurance. |
+| (e) | Prohibition on certain associations. |
 | [1782\.](Subchapter%20002%20%28II%29%20-%20Share%20Insurance/%C2%A7%2001782%20-%20Administration%20of%20insurance%20fund.md) | Administration of insurance fund. |
 | (a) | Reports of condition. |
 | (b) | Annual certified statements. |
@@ -129,10 +130,10 @@
 | (i) | Suspension or removal of institution-affiliated party charged with crime. |
 | (j) | Jurisdiction of hearing; procedure; judicial review. |
 | (k) | Jurisdiction and enforcement; penalty. |
-| (<i>l)</i> | Criminal penalty for violation of certain orders. |
+| (<i>l</i>) | Criminal penalty for violation of certain orders. |
 | (m) | Definitions. |
 | (n) | Notice or order to State board supervising State-chartered credit union. |
-| (<i>o)</i> | Notice of proceedings to State board supervising State-chartered credit union; effect of corrective action by State board; attack on validity of notice or order. |
+| (<i>o</i>) | Notice of proceedings to State board supervising State-chartered credit union; effect of corrective action by State board; attack on validity of notice or order. |
 | (p) | Proceedings; powers of Board; court enforcement of subpenas; witness fees; expenses and attorneys’ fees. |
 | (q) | Compliance with monetary transaction recordkeeping and report requirements. |
 | (r) | “Institution-affiliated party” defined. |
@@ -152,10 +153,10 @@
 | (i) | Damages. |
 | (j) | Board as liquidating agent of State-chartered credit unions. |
 | (k) | Extent of insurance coverage; insurance of public funds; insurance regarding pension and profit-sharing plans. |
-| (<i>l)</i> | Payment; discharge of liability. |
+| (<i>l</i>) | Payment; discharge of liability. |
 | (m) | Undisclosed names. |
 | (n) | Withholding of payment due to liability of credit union member. |
-| (<i>o)</i> | Unclaimed insured accounts; limitations. |
+| (<i>o</i>) | Unclaimed insured accounts; limitations. |
 | (p) | Sale of assets; security for loans; approval of court; agreements affecting interest of Board in any asset acquired by it. |
 | (q) | Prohibition on certain acquisitions of assets. |
 | (r) | Foreign investigations. |
@@ -218,7 +219,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 1818, 1831k, 1831t, 2804, 4009, 4309, 4742 of this title; title 7 sections 2007b, 2019; title 15 sections 1607, 1681s, 1691c, 1692<i>l</i>, 1693<i>o</i>; title 18 section 709; title 42 section 5318a.
+This chapter is referred to in sections 1818, 1831k, 1831t, 2804, 4009, 4309, 4742 of this title; title 7 section 2019; title 15 sections 1607, 1681s, 1691c, 1692<i>l</i>, 1693<i>o</i>; title 18 section 709; title 42 section 5318a.
 
 
 ---

@@ -4,7 +4,7 @@ The Secretary of Agriculture may conduct, in cooperation and coordination with c
 
 #### (a) Rural development extension programs
 
-Rural development extension programs shall consist of the collection, interpretation, and dissemination of useful information and knowledge from research and other sources to units of multistate regional agencies, State, county, municipal, and other units of government, multicounty planning and development districts, organizations of citizens contributing to community and rural development, businesses, Indian tribes on Federal or State reservations or other federally recognized Indian tribal groups, and industries that employ or may employ people in rural areas. These programs also shall include technical services and educational activities, including instruction for persons not enrolled as students in colleges or universities, to facilitate and encourage the use and practical application of this information. These programs may also include feasibility studies and planning assistance.
+Rural development extension programs shall consist of the collection, interpretation, and dissemination of useful information and knowledge from research and other sources to units of multistate regional agencies, State, county, municipal, and other units of government, multicounty planning and development districts, organizations of citizens contributing to community and rural development, businesses, Indian tribes on Federal or State reservations or other federally recognized Indian tribal groups, and industries that employ or may employ people in rural areas. The rural development extension programs shall also promote coordinated and integrated rural community initiatives that advance and empower capacity building through leadership development, entrepreneurship, business development and management training, and strategic planning to increase jobs, income, and quality of life in rural communities. These programs also shall include technical services and educational activities, including instruction for persons not enrolled as students in colleges or universities, to facilitate and encourage the use and practical application of this information. These programs may also include feasibility studies and planning assistance.
 
 #### (b) Rural development research
 
@@ -12,7 +12,7 @@ Rural development research shall consist of research, investigations, and basic 
 
 #### (c) Small farm research programs
 
-Small farm research programs shall consist of programs of research to develop new approaches for initiating and upgrading small farm operations through management techniques, agricultural production techniques, farm machinery technology, new products, new marketing techniques, and small farm finance; to develop new enterprises that can use labor, skills, or natural resources available to the small farm family; or that will help to increase the quality and availability of services and facilities needed by the small farm family.
+Small farm research programs shall consist of programs of research to develop new approaches for initiating and upgrading small farm operations through management techniques, agricultural production techniques, farm machinery technology, new products, new marketing techniques, and small farm finance; to develop new enterprises that can use labor, skills, or natural resources available to the small farm family; orthat will help to increase the quality and availability of services and facilities needed by the small farm family.
 
 #### (d) Small farm extension programs
 
@@ -22,87 +22,7 @@ Small farm extension programs shall consist of extension programs to improve sma
 
 Special grants programs shall consist of extension and research programs to strengthen research and education on national and regional issues in rural development, including the assessment of alternative policies and strategies for rural development and balanced growth; to develop alternative strategies for national and regional investment, and the creation of employment, in rural areas; to develop alternative energy policies to meet rural development needs; and to strengthen rural development programs of agencies of the Department of Agriculture and those in other Federal departments and agencies.
 
-#### (f) Competitive grants for financially stressed farmers, dislocated farmers, and rural families
-
-#### (1) Grant program
-
-#### (A) Program beneficiaries
-
-&emsp;&emsp;The Secretary shall provide competitive grants for programs that meet the criteria specified in subparagraph (B) to develop counseling, retraining, and educational assistance for farmers, dislocated farmers, and rural families, who have been adversely affected by the current farm and rural economic crisis.
-
-#### (B) Grant criteria
-
-&emsp;&emsp;In order to be eligible to receive a grant under this subsection, an applicant must provide suitable assurances that—
-
-&emsp;&emsp;&emsp;(i) not less than one-half of the grant funds to the applicant will be used for clinical outreach counseling and crisis management assistance, as required by subparagraph (C);
-
-&emsp;&emsp;&emsp;(ii) a significant number of farms within the State have a ratio of debts to assets of 40 percent or more, the State's rural economy has been facing adverse economic conditions for a period of years, or such other conditions exist, as determined by the Secretary, such that the assistance provided under this subsection is necessary or appropriate;
-
-&emsp;&emsp;&emsp;(iii) the planning and implementation of the provision of services under this subsection will be coordinated with the appropriate State agency for mental health, department of health, office of rural health, and any other State agency or department responsible for assisting persons in rural areas of the State; and
-
-&emsp;&emsp;&emsp;(iv) the planning and implementation of the provision of services under this subsection will be coordinated with the appropriate local governments and other public and private nonprofit agencies and organizations located in rural areas and involved in addressing problems related to the mental health of rural residents.
-
-#### (C) Counseling and outreach required
-
-&emsp;&emsp;Not less than 50 percent of the grant funds to a State under this subsection shall be used to provide clinical outreach counseling and crisis management assistance.
-
-#### (D) Other services to be provided
-
-&emsp;&emsp;In addition to the counseling and outreach services required under subparagraph (C), the following services may also be provided through programs funded under this section:
-
-&emsp;&emsp;&emsp;(i) Assistance in evaluating individual or family finances, preparing financial plans, and implementing financial plans and management strategies.
-
-&emsp;&emsp;&emsp;(ii) Evaluation of vocational skills and counseling in enhancing such skills.
-
-&emsp;&emsp;&emsp;(iii) Assistance in obtaining training in basic, remedial, and literacy skills.
-
-&emsp;&emsp;&emsp;(iv) Assistance in job search and training in job-seeking skills.
-
-&emsp;&emsp;&emsp;(v) Assistance in obtaining training for operating a business or enterprise.
-
-&emsp;&emsp;&emsp;(vi) Formal on-the-job training to the extent practicable.
-
-&emsp;&emsp;&emsp;(vii) Tuition assistance (including fees, books, and other educational expenses) to the extent practicable.
-
-&emsp;&emsp;&emsp;(viii) Assistance for local officials and groups in developing income and employment alternatives.
-
-#### (E) Authority of grant recipients to contract for delivery of services
-
-&emsp;&emsp;The recipients of a grant under this subsection may contract for the delivery of such services with units of local government, State agencies, accredited educational institutions, and other appropriate public and private nonprofit agencies and organizations.
-
-#### (F) Development of comprehensive plan
-
-&emsp;&emsp;The Agricultural Extension Service of the Department of Agriculture shall work with the appropriate State office of rural health, State department or agency of mental health, and other State agencies, units of local government, and other public and private nonprofit agencies and organizations in developing an annual comprehensive plan for the use of the grant funds and the delivery of services provided for in this subsection. For recipients in a State to be eligible for a grant under this subsection in any fiscal year, the Cooperative Extension Service within the State must develop and sign a Memorandum of Agreement with the appropriate State department or agency of mental health and other State agencies as may be appropriate to carry out the comprehensive plan. Such agreement and plan must emphasize the development and delivery of counseling and outreach programs as provided under subparagraph (B).
-
-#### (2) Grant period
-
-&emsp;Grants may be made under paragraph (1) to eligible applicants in any State applying for such grants until December 23, 1995.
-
-#### (g) Rural economic and business development
-
-#### (1) In general
-
-&emsp;The Secretary shall establish an Extension Service rural economic and business development program to enable States or counties to employ specialists as Cooperative Extension Service staff of the State or county to assist individuals in creating new businesses, including cooperatives, or to assist existing businesses, and to assist such businesses regarding advanced telecommunications, computer technologies, technical or management assistance, business and financial planning, and other related matters, and to assist community leaders in community economic analysis and strategic planning.
-
-#### (2) Function of specialists
-
-&emsp;Specialists employed under paragraph (1) shall provide economic development information and assistance concerning business creation, business planning and advice, advanced telecommunications, business management, computer operations, and other technical assistance to community leaders and private sector entrepreneurs and cooperatives operating in the State or county that employs such specialists.
-
-#### (3) Procedures and limitations
-
-&emsp;The Secretary shall establish policies, procedures, and limitations that shall apply to States and counties that desire to participate in the program established under this subsection. States and counties shall determine the types of rural economic and business development specialists that are needed by such States and counties. In States with land-grant colleges and universities eligible to receive funds under the Act of July 2, 1862 (7 U.S.C. 301 et seq.), and the Act of August 30, 1890 (7 U.S.C. 321 et seq.), including Tuskegee University, such eligible institutions shall determine the types of rural economic and business development specialists needed.
-
-#### (4) Payment of salary
-
-&emsp;The Secretary shall make grants to States and counties that participate in the program established under this section in an amount equal to 60 percent of the total amount of the salary paid to any specialists employed under such program, and the State or county shall provide funds for the remaining 40 percent of such salary. Land-grant colleges and universities eligible to receive funds under the Act ofAugust 30, 1890 (7 U.S.C. 321 et seq.), including Tuskegee University, shall be exempt from the 40 percent salary matching requirement.
-
-#### (5) Limitations on authorization of appropriations
-
-&emsp;To carry out this section, there are authorized to be appropriated $5,000,000 in fiscal year 1991, $10,000,000 in fiscal year 1992, $15,000,000 in fiscal year 1993, and $20,000,000 in fiscal year 1994 and each subsequent fiscal year. Amounts appropriated under this section shall remain available until expended.
-
-#### (6) Coordination
-
-&emsp;The Secretary shall ensure that the activities of the Extension Service rural economic and business development program established under this subsection are coordinated with the Small Business Administration to ensure that there is no duplication of activities in any local area, county or region.
+#### (f), (g) Repealed. Pub. L. 104–127, title VII, §792(a), title VIII, §871, Apr. 4, 1996, 110 Stat. 1152, 1175
 
 #### (h) Rural development extension work
 
@@ -234,43 +154,27 @@ Special grants programs shall consist of extension and research programs to stre
 
 &emsp;For grants under this subsection, there are authorized to be appropriated $5,000,000 for fiscal year 1991, $10,000,000 for fiscal year 1992, $15,000,000 for fiscal year 1993, and $20,000,000 for fiscal year 1994 and each subsequent fiscal year. Amounts appropriated under this subsection shall remain available until expended.
 
-#### (j) Research grants
-
-#### (1) In general
-
-&emsp;In addition to the programs already conducted under this section, the Secretary shall also establish and carry out a program to award competitive research grants to land-grant colleges and universities, research foundations, and centers established by land-grant universities, State agricultural experiment stations, and to all colleges and universities having demonstrable capability in rural development research, as determined by the Secretary, to carry out research to—
-
-&emsp;&emsp;(A) determine factors which impact upon rural economic development whether favorably or unfavorably;
-
-&emsp;&emsp;(B) estimate the relative impacts of these factors;
-
-&emsp;&emsp;(C) develop methodologies to investigate policy options for rural economic development;
-
-&emsp;&emsp;(D) evaluate the impact of Federal and State economic development policies and programs designed to improve economic competitiveness and diversification;
-
-&emsp;&emsp;(E) support strategic planning for economic investments;
-
-&emsp;&emsp;(F) improve human resources; and
-
-&emsp;&emsp;(G) improve the data base for rural development decisionmaking in rural areas.
-
-#### (2) Limitation on authorization of appropriations
-
-&emsp;To carry out this subsection, there are authorized to be appropriated to the Secretary not to exceed $3,000,000 in each fiscal year. Amounts appropriated under this subsection shall remain available until expended.
-
-(Pub. L. 92–419, title V, §502, as added Pub. L. 97–98, title XIV, §1444(a), Dec. 22, 1981, 95 Stat. 1323; amended Pub. L. 99–198, title XIV, §1440(a), Dec. 23, 1985, 99 Stat. 1560; Pub. L. 100–219, §2, Dec. 29, 1987, 101 Stat. 1456; Pub. L. 101–624, title XXIII, §§2346, 2349, 2389(a)–(c)(1), 2390(b)(1), Nov.28, 1990, 104 Stat. 4032, 4037, 4053–4055; Pub. L. 102–237, title IV, §403(a), title VII, §704, Dec. 13, 1991, 105 Stat. 1863, 1881.)
+(Pub. L. 92–419, title V, §502, as added Pub. L. 97–98, title XIV, §1444(a), Dec. 22, 1981, 95 Stat. 1323; amended Pub. L. 99–198, title XIV, §1440(a), Dec. 23, 1985, 99 Stat. 1560; Pub. L. 100–219, §2, Dec. 29, 1987, 101 Stat. 1456; Pub. L. 101–624, title XXIII, §§2346, 2349, 2389(a)–(c)(1), 2390(b)(1), Nov. 28, 1990, 104 Stat. 4032, 4037, 4053–4055; Pub. L. 102–237, title IV, §403(a), title VII, §704, Dec. 13, 1991, 105 Stat. 1863, 1881; Pub. L. 104–127, title VII, §792(a), title VIII, §§871, 886, Apr. 4, 1996, 110 Stat. 1152, 1175, 1180.)
 
 #### References in Text
 
-Act of July 2, 1862, referred to in subsecs. (g)(3) and (i)(4), is act July 2, 1862, ch. 130, 12 Stat. 503, as amended, popularly known as the “First Morrill Act”, which is classified generally to subchapter I (§301 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 301 of this title and Tables.
+Act of July 2, 1862, referred to in subsec. (i)(4), is act July 2, 1862, ch. 130, 12 Stat. 503, as amended, popularly known as the “First Morrill Act”, which is classified generally to subchapter I (§301 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 301 of this title and Tables.
 
-Act of August 30, 1890, referred to in subsecs. (g)(3), (4) and (i)(4), is act Aug. 30, 1890, ch. 841, 26 Stat. 417, as amended, popularly known as the “Agricultural College Act of 1890” and also as the “Second Morrill Act”, which is classified generally to subchapter II (§321 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 321 of this title and Tables.
+Act of August 30, 1890, referred to in subsec. (i)(4), is act Aug. 30, 1890, ch. 841, 26 Stat. 417, as amended, popularly known as the “Agricultural College Act of 1890” and also as the “Second Morrill Act”, which is classified generally to subchapter II (§321 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 321 of this title and Tables.
 
 #### Prior Provisions
 
 A prior section 2662, Pub. L. 92–419, title V, §502, Aug. 30, 1972, 86 Stat. 671; Pub. L. 95–113, title XIV, §1440, Sept. 29, 1977, 91 Stat. 1005, related to programs authorization and cooperation and coordination with colleges and universities, prior to repeal by Pub. L. 97–98, title XIV, §1444(a), Dec. 22, 1981, 95 Stat. 1326.
 
 #### Amendments
+
+1996—Subsec. (a). Pub. L. 104–127, §886, inserted after first sentence “The rural development extension programs shall also promote coordinated and integrated rural community initiatives that advance and empower capacity building through leadership development, entrepreneurship, business development and management training, and strategic planning to increase jobs, income, and quality of life in rural communities.”
+
+Subsec. (f). Pub. L. 104–127, §792(a), struck out subsec. (f), which related to competitive grants for financially stressed farmers, dislocated farmers, and rural families.
+
+Subsec. (g). Pub. L. 104–127, §871, struck out subsec. (g), which authorized establishment of Extension Service rural economic and business development program to enable States or counties to employ specialists as Cooperative Extension Service staff to assist individuals in creating new businesses, or to assist existing businesses.
+
+Subsec. (j). Pub. L. 104–127, §871, struck out subsec. (j), which authorized program to award competitive grants to carry out rural development research.
 
 1991—Subsec. (b). Pub. L. 102–237, §403(a)(2)(A), redesignated subsec. (b), relating to rural development extension work, as (h).
 
@@ -346,37 +250,11 @@ Section effective Dec. 22, 1981, see section 1801 of Pub. L. 97–98, set out as
 
 #### Effect of Amendments on Current Grant Recipients
 
-Section 2389(d) of Pub. L. 101–624 provided that: “The eight States receiving grants under section 502(f) of the Rural Development Act of 1972 (7 U.S.C. 2662(f)) during fiscal year 1990 shall continue to be eligible to receive grants (in an amount not to exceed the amount received during that fiscal year) under that section notwithstanding that such grants be awarded competitively, so long as such States comply with the requirement under subparagraph (C) \[probably means subsec. (f)(1)(C) of this section\] that not less than one-half of such grant amount shall be used for clinical outreach counseling and crisis management assistance.”
+Section 2389(d) of Pub. L. 101–624 provided that 8 States receiving grants under 7 U.S.C. 2662(f) during fiscal year 1990 could continue to be eligible to receive grants (in an amount not to exceed the amount received during that fiscal year) under that section notwithstanding that such grants be awarded competitively, so long as such States complied with requirement that not less than one-half of such grant amountwas to be used for clinical outreach counseling and crisis management assistance, prior to repeal by Pub. L. 104–127, title VII, §792(b)(1), Apr. 4, 1996, 100 Stat. 1152.
 
 #### Rural Health Infrastructure Improvement
 
-Section 2391 of Pub. L. 101–624 provided that:
-
-“(a)
-
-Grant for Demonstration Project.—The Secretary of Agriculture shall award a grant for the establishment of a project to demonstrate a model approach to improving rural health infrastructure. The project established with such grant shall—
-
-&emsp;“(1) carry out systematic, community-based rural health needs assessments;
-
-&emsp;“(2) identify and coordinate available health services resources;
-
-&emsp;“(3) improve community infrastructure through health education and information and leadership development and training; and
-
-&emsp;“(4) develop community generated health improvement strategies.
-
-“(b)
-
-Project Implementation.—The project established under subsection (a) shall be implemented through the cooperation of—
-
-&emsp;“(1) an academic medical center with accredited health professions schools, including schools of medicine, dentistry, public health, nursing, and allied health;
-
-&emsp;“(2) the Cooperative Extension System of a land-grant university; and
-
-&emsp;“(3) county-based citizens’ organizations concerned with rural health services.
-
-“(c)
-
-Limitations on Authorization of Appropriations.—To carry out subsection (a), there are authorized to be appropriated such sums as may be necessary in each fiscal year. Amounts appropriated under this subsection shall remain available until expended.”
+Section 2391 of Pub. L. 101–624 provided for award of grant for establishment of project to demonstrate model approach to improving rural health infrastructure, which was to carry out systematic, community-based rural health needs assessments, identify and coordinate available health services resources, improve community infrastructure through health education and information and leadership development and training, and develop community generated health improvement strategies, and further provided for project implementation and limitations on authorization of appropriations, prior to repeal by Pub. L. 104–127, title VII, §709, Apr. 4, 1996, 110 Stat. 1112.
 
 #### Section Referred to in Other Sections
 

@@ -18,7 +18,7 @@ Definitions.—(A) As used in subsection (a) with respect to a Congressional Med
 
 &emsp;(B) As used in this subsection, “Congressional Medal of Honor” means a medal awarded under section 3741, 6241, or 8741 of title 10.
 
-(June 25, 1948, ch. 645, 62 Stat. 732; May 24, 1949, ch. 139, §16, 63 Stat. 92; Sept. 13, 1994, Pub. L. 103–322, title XXXII, §320109, title XXXIII, §330016(1)(E), 108 Stat. 2113, 2146; Nov. 2, 1994, Pub. L. 103–442, 108 Stat. 4630.)
+(June 25, 1948, ch. 645, 62 Stat. 732; May 24, 1949, ch. 139, §16, 63 Stat. 92; Sept. 13, 1994, Pub. L. 103–322, title XXXII, §320109, title XXXIII, §330016(1)(E), 108 Stat. 2113, 2146; Nov. 2, 1994, Pub. L. 103–442, 108 Stat. 4630; Oct. 11, 1996, Pub. L. 104–294, title VI, §604(b)(16), 110 Stat. 3507.)
 
 #### Historical and Revision Notes
 
@@ -32,17 +32,23 @@ Minor changes were made in phraseology.
 
 #### 1949 Act
 
-This section \[section 16\] clarifies the wording of section 704 of title 18, U.S.C., to embrace all service decorations awarded to members of the armed forces whether by the Army, Navy, Air Force, or other branch ofsuch forces. (See note to sec. 5 \[of 1949 Act, set out in Legislative History note under section 244 of title 18\]).
+This section \[section 16\] clarifies the wording of section 704 of title 18, U.S.C., to embrace all service decorations awarded to members of the armed forces whether by the Army, Navy, Air Force, or other branch of such forces. (See note to sec. 5 \[of 1949 Act, set out in Legislative History note under section 244 of title 18\]).
 
 #### Amendments
 
+1996—Subsec. (a). Pub. L. 104–294 amended Pub. L. 103–322, §320109(1). See 1994 Amendment note below.
+
 1994—Subsec. (a). Pub. L. 103–322, §§320109(2), 330016(1)(E), amended subsec. (a) identically, substituting “fined under this title” for “fined not more than $250”.
 
-Pub. L. 103–322, §320109(1), designated existing provisions as subsec. (a) and inserted heading.
+Pub. L. 103–322, §320109(1), as amended by Pub. L. 104–294, §604(b)(16), designated existing provisions as subsec. (a) and inserted heading.
 
 Subsec. (b). Pub. L. 103–322, §320109(3), added subsec. (b).
 
 Subsec. (b)(2)(B). Pub. L. 103–442 inserted “, 6241, or 8741” after “3741”.
 
 1949—Act May 24, 1949, covered all service decorations awarded members of the armed forces by any of the armed services.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–294 effective Sept. 13, 1994, see section 604(d) of Pub. L. 104–294, set out as a note under section 13 of this title.
 

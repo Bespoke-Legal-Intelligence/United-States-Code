@@ -6,7 +6,7 @@ The information contained in any registration application or report or amendment
 
 #### (b) Disclosure of fact of examination or investigation; exceptions
 
-Subject to the provisions of subsections (c) and (d) of section 80b–9 of this title and section 78x(c) of this title, the Commission, or any member, officer, or employee thereof, shall not make public the fact that any examination or investigation under this subchapter is being conducted, or the results of or any facts ascertained during any such examination or investigation; and no member, officer, or employee of the Commission shall disclose to any person other than a member, officer, or employee of the Commission any information obtained as a result of any such examination or investigation except with the approval of the Commission. The provisions of this subsection shall not apply—
+Subject to the provisions of subsections (c) and (d) of section 80b–9 of this title and section 78x(c) of this title, the Commission, or anymember, officer, or employee thereof, shall not make public the fact that any examination or investigation under this subchapter is being conducted, or the results of or any facts ascertained during any such examination or investigation; and no member, officer, or employee of the Commission shall disclose to any person other than a member, officer, or employee of the Commission any information obtained as a result of any such examination or investigation except with the approval of the Commission. The provisions of this subsection shall not apply—
 
 &emsp;(1) in the case of any hearing which is public under the provisions of section 80b–12 of this title; or
 
@@ -27,4 +27,12 @@ No provision of this subchapter shall be construed to require, or to authorize t
 #### Transfer of Functions
 
 For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
+
+#### Investor Access to Information
+
+Pub. L. 104–290, title III, §306, Oct. 11, 1996, 110 Stat. 3439, provided that: “The Commission shall—
+
+&emsp;“(1) provide for the establishment and maintenance of a readily accessible telephonic or other electronic process to receive inquiries regarding disciplinary actions and proceedings involving investment advisers and persons associated with investment advisers; and
+
+&emsp;“(2) provide for prompt response to any inquiry described in paragraph (1).”
 

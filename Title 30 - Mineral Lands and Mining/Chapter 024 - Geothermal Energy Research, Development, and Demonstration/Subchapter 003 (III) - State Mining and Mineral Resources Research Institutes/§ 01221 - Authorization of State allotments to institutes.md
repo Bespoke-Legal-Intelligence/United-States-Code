@@ -4,7 +4,7 @@
 
 (2)(A) Funds appropriated under this section shall be made available for grants to be matched on a basis of no less than 2 non-Federal dollars for each Federal dollar.
 
-(B) If there is more than one such eligible college or university in a State, funds appropriated under this subchapter shall, in the absence of adesignation to the contrary by act of the legislature of the State, be granted to one such college or university designated by the Governor of the State.
+(B) If there is more than one such eligible college or university in a State, funds appropriated under this subchapter shall, in the absence of a designation to the contrary by act of the legislature of the State, be granted to one such college or university designated by the Governor of the State.
 
 (C) Where a State does not have a public college or university eligible under section 1230 of this title, the Committee on Mining and Mineral Resources Research established in section 1229 of this title (hereafter in this subchapter referred to as the “Committee”) may allocate the State's allotment to one private college or university which it determines to be eligible under such section.
 
@@ -30,7 +30,7 @@ Subsec. (b). Pub. L. 100–483, §4, substituted “production of fuel and nonfu
 
 #### Short Title
 
-For short title of Pub. L. 98–409, which enacted this subchapter, as the Mining and Mineral Resources Research Institute Act of 1984, see section 11 of Pub. L. 98–409, set out as a note under section 1201 of this title.
+For short title of Pub. L. 98–409, which enacted this subchapter, as the Mining and Mineral Resources Institutes Act, see section 11 of Pub. L. 98–409, as amended, set out as a note under section 1201 of this title.
 
 #### Section Referred to in Other Sections
 

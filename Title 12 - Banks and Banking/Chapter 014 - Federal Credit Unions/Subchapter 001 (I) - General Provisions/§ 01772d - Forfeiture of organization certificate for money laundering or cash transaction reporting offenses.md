@@ -22,7 +22,7 @@
 
 #### (b) Factors to be considered
 
-In determining whether a franchise shall be forfeited under subsection (a) of this section, theBoard shall take into account the following factors:
+In determining whether a franchise shall be forfeited under subsection (a) of this section, the Board shall take into account the following factors:
 
 &emsp;(1) The extent to which directors, committee members, or senior executive officers (as defined by the Board in regulations which the Board shall prescribe) of the credit union knew of, or were involved in, the commission of the money laundering offense of which the credit union was found guilty.
 

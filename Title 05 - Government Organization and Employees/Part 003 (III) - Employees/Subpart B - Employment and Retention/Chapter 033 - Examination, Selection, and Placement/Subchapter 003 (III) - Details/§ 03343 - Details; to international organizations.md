@@ -26,7 +26,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 (a)
 
@@ -50,7 +52,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-<b>1969</b>—Subsec. (b). Pub. L. 91–175 substituted “5” for “3” and inserted provision enabling President, regarding an agency employee detailed to an international organization for 5 years, to extend the 5-year period for up to an additional 3 years.
+1969—Subsec. (b). Pub. L. 91–175 substituted “5” for “3” and inserted provision enabling President, regarding an agency employee detailed to an international organization for 5 years, to extend the 5-year period for up to an additional 3 years.
 
 #### Details to International Organizations
 

@@ -1,6 +1,0 @@
-### §1294. Public information and education on recycling and reuse of wastewater, use of land treatment, and reduction of wastewater volume
-
-The Administrator shall develop and operate within one year of December 27, 1977, a continuing program of public information and educationon recycling and reuse of wastewater (including sludge), the use of land treatment, and methods for the reduction of wastewater volume.
-
-(June 30, 1948, ch. 758, title II, §214, as added Dec. 27, 1977, Pub. L. 95–217, §38, 91 Stat. 1581.)
-

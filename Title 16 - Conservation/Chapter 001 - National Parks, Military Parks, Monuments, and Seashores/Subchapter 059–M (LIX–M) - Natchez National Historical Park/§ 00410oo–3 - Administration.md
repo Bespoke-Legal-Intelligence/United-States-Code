@@ -24,11 +24,11 @@ Notwithstanding any other provision of law, the Secretary may accept and expend 
 
 #### (d) General management plan
 
-Within three complete fiscal years after October 7, 1988, the Secretary shall submit to theCommittee on Interior and Insular Affairs of the United States House of Representatives and to the Committee on Energy and Natural Resources of the United States Senate a general management plan for the park. The plan shall be prepared in accordance with section 1a–7(b) of this title. Such plan shall identify appropriate facilities for proper interpretation of the site for visitors.
+Within three complete fiscal years after October 7, 1988, the Secretary shall submit to the Committee on Interior and Insular Affairs of the United States House of Representatives and to the Committee on Energy and Natural Resources of the United States Senate a general management plan for the park. The plan shall be prepared in accordance with section 1a–7(b) of this title. Such plan shall identify appropriate facilities for proper interpretation of the site for visitors.
 
 (Pub. L. 100–479, §4, Oct. 7, 1988, 102 Stat. 2325.)
 
 #### Change of Name
 
-Committee on Interior and Insular Affairs of the House of Representatives changed to Committee on Natural Resources of the House of Representatives on Jan. 5, 1993, by House Resolution No. 5, One Hundred Third Congress. Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Interior and Insular Affairs of the House of Representatives changed to Committee on Natural Resources of the House of Representatives onJan. 5, 1993, by House Resolution No. 5, One Hundred Third Congress. Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 

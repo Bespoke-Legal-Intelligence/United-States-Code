@@ -56,7 +56,7 @@ In the case of a foreign corporation, except where the context clearly indicates
 
 &emsp;&emsp;(B) which, but for this subsection, would not be treated as income effectively connected with the conduct of a trade or business within the United States,
 
-> &emsp;may elect for such taxable year to treat all such income as income which is effectively connected with the conduct of a trade or business within the United States. In such case, such income shall be taxable as provided in subsection (a)(1) whether or not such corporation is engaged in trade or business within theUnited States during the taxable year. An election under this paragraph for any taxable year shall remain in effect for all subsequent taxable years, except that it may be revoked with the consent of the Secretary with respect to any taxable year.
+> &emsp;may elect for such taxable year to treat all such income as income which is effectively connected with the conduct of a trade or business within the United States. In such case, such income shall be taxable as provided in subsection (a)(1) whether or not such corporation is engaged in trade or business within the United States during the taxable year. An election under this paragraph for any taxable year shall remain in effect for all subsequent taxable years, except that it may be revoked with the consent of the Secretary with respect to any taxable year.
 
 #### (2) Election after revocation, etc.
 
@@ -98,7 +98,7 @@ Subsec. (e). Pub. L. 99–514, §1236(a), inserted “The preceding sentence sha
 
 1976—Subsecs. (c)(1)(A), (2), (d). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
-1966—Pub. L. 89–809 substantially revised the income tax treatment of foreign corporations, introduced the concept of taxable income effectively connected with the conduct of a trade or business within the United States into provisions dealing with the imposition of tax, substituted a concept of gross income that included gross income derived from sources within the United States not effectively connected with the conduct of a trade or business within the United States and gross income effectively connected with the conduct of a trade or business within the United States for a concept of gross income that included only gross income from sources within the United States, and inserted provisions for an election to treat real property income as income connected with United States business, treatment of interest on United States obligations received by banks organized in possessions, and the returns of tax by agents, and inserted cross reference to section 906(b)(1).
+1966—Pub. L. 89–809 substantially revised the income tax treatment of foreign corporations, introduced the concept of taxable income effectively connected with the conduct of a trade or business within the United States into provisions dealing with the imposition oftax, substituted a concept of gross income that included gross income derived from sources within the United States not effectively connected with the conduct of a trade or business within the United States and gross income effectively connected with the conduct of a trade or business within the United States for a concept of gross income that included only gross income from sources within the United States, and inserted provisions for an election to treat real property income as income connected with United States business, treatment of interest on United States obligations received by banks organized in possessions, and the returns of tax by agents, and inserted cross reference to section 906(b)(1).
 
 #### Effective Date of 1988 Amendment
 
@@ -128,7 +128,7 @@ Amendment by Pub. L. 96–499 applicable to disposition after June 18, 1980, see
 
 #### Effective Date of 1978 Amendment
 
-Amendment by Pub. L. 95–600 applicable to taxable years beginning after Dec. 31, 1978, see section 301(c) ofPub. L. 95–600, set out as a note under section 11 of this title.
+Amendment by Pub. L. 95–600 applicable to taxable years beginning after Dec. 31, 1978, see section 301(c) of Pub. L. 95–600, set out as a note under section 11 of this title.
 
 #### Effective Date of 1966 Amendment
 

@@ -26,7 +26,7 @@ Prior to—
 
 #### References in Text
 
-Section 7412(b)(1), referred to in subsec. (c)(2), was amended generally by Pub. L. 101–549, title III, §301, Nov. 15, 1990, 104 Stat. 2531, and, as so amended, no longer contains a subpar. (A).
+Section 7412(b)(1), referred to in subsec. (c)(2), was amended generally by Pub. L. 101–549, title III, §301,Nov. 15, 1990, 104 Stat. 2531, and, as so amended, no longer contains a subpar. (A).
 
 #### Codification
 

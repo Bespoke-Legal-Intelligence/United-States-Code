@@ -2,7 +2,7 @@
 
 (a)
 
-Civil Actions by Board.—The National Transportation Safety Board may bring a civil action in a district court of the United States against a person to enforce section 1132, 1134(b) or (f)(1)(related to an aircraft accident), or 1155(a) of this title or a regulation prescribed or order issued under any of those sections. An action under this subsection may be brought in the judicial district in which the person does business or the violation occurred.
+Civil Actions by Board.—The National Transportation Safety Board may bring a civilaction in a district court of the United States against a person to enforce section 1132, 1134(b) or (f)(1)(related to an aircraft accident), or 1155(a) of this title or a regulation prescribed or order issued under any of those sections. An action under this subsection may be brought in the judicial district in which the person does business or the violation occurred.
 
 (b)
 
@@ -20,7 +20,9 @@ Participation of Board.—On request of the Attorney General, the Board may part
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -40,7 +42,7 @@ Oct. 15, 1966, Pub. L. 89–670, §6(d) (1st sentence), 80 Stat. 938.
 
 &nbsp;
 
-49 App.:1903(a) (1)(A).
+49 App.:1903(a)(1)(A).
 
 Jan. 3, 1975, Pub. L. 93–633, §304(a)(1)(A), 88 Stat. 2168.
 
@@ -54,7 +56,7 @@ Jan. 3, 1975, Pub. L. 93–633, §304(a)(1)(A), 88 Stat. 2168.
 
 &nbsp;
 
-49 App.:1903(a) (1)(A).
+49 App.:1903(a)(1)(A).
 
 1151(c)
 
@@ -66,7 +68,7 @@ Jan. 3, 1975, Pub. L. 93–633, §304(a)(1)(A), 88 Stat. 2168.
 
 &nbsp;
 
-49 App.:1903(a) (1)(A).
+49 App.:1903(a)(1)(A).
 
 In this section, the words “section 1132, 1134(b) or (f)(1) (related to an aircraft accident), or 1155(a) of this title” are substituted for “issued under this chapter” and “provisions of this chapter” because those sections restate the relevant provisions of 49 App.:ch. 20 carried out by the National Transportation Safety Board.
 

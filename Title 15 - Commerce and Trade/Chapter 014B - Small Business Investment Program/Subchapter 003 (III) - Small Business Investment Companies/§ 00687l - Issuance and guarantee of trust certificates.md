@@ -2,7 +2,7 @@
 
 #### (a) Issuance; debentures or participating securities composing trust or pool
 
-The Administration is authorized to issue trust certificates representing ownership of all or a fractional part of debentures issued by small business investment companies, including companies operating under the authority of section 681(d) of this title, and guaranteed by the Administration under this chapter, or participating securities which are issued by such companies and purchased and guaranteed pursuant to section 683(g) of this title: <i>Provided</i>, That such trust certificates shall be based on and backed by a trust or pool approved by the Administration and composed solely of guaranteed debentures or guaranteed participating securities.
+The Administration is authorized to issue trust certificates representing ownership of all or a fractional part of debentures issued by small business investment companies and guaranteed by the Administration under this chapter, or participating securities which are issued by such companies and purchased and guaranteed pursuant to section 683(g) of this title: <i>Provided</i>, That such trust certificates shall be based on and backed by a trust or pool approved by the Administration and composed solely of guaranteed debentures or guaranteed participating securities.
 
 #### (b) Terms and conditions of guarantee; payment of principal and interest
 
@@ -24,41 +24,61 @@ The Administration shall not collect a fee for any guarantee under this section:
 
 #### (f) Central registration requirements; regulation of brokers and dealers
 
-(1) The Administration shall provide for a central registration of all trust certificates sold pursuant to this section. Such central registration shall include with respect to each sale—
+(1) The Administration shall provide for a central registration of all trust certificates sold pursuant to this section.
 
-&emsp;(A) identification of each small business investment company;
-
-&emsp;(B) the interest rate or prioritized payment rate paid by the small business investment company;
-
-&emsp;(C) commissions, fees, or discounts paid to brokers and dealers in trust certificates;
-
-&emsp;(D) identification of each purchaser of the trust certificate;
-
-&emsp;(E) the price paid by the purchaser for the trust certificate;
-
-&emsp;(F) the interest rate on the trust certificate;
-
-&emsp;(G) the fee of any agent for carrying out the functions described in paragraph (2); and
-
-&emsp;(H) such other information as the Administration deems appropriate.
-
-(2) The Administrator shall contract with an agent or agents to carry out on behalf of the Administration the pooling and the central registration functions of this section including, notwithstanding any other provision of law, maintenance on behalf of and under the direction of the Administration, such commercial bank accounts as may be necessary to facilitate trusts or pools backed by debentures or participating securities guaranteed under this chapter, and the issuance of trust certificates to facilitate such poolings. Such agent or agents shall provide a fidelity bond or insurance in such amounts as the Administration determines to be necessary to fully protect the interests of the Government.
+(2) The Administrator shall contract with an agent or agents to carry out on behalf of the Administration the pooling and the central registration functions of this section including, notwithstanding any other provision of law, maintenance on behalf of and under the direction of the Administration, such commercial bank accounts or investments in obligations of the United States as may be necessary to facilitate trusts or pools backed by debentures or participating securities guaranteed under this chapter, and the issuance of trust certificates to facilitate such poolings. Such agent or agents shall provide a fidelity bond or insurance in such amounts as the Administration determines to be necessary to fully protect the interests of the Government.
 
 (3) Prior to any sale, the Administrator shall require the seller to disclose to a purchaser of a trust certificate issued pursuant to this section, information on the terms, conditions, and yield of such instrument.
 
 (4) The Administrator is authorized to regulate brokers and dealers in trust certificates sold pursuant to this section.
 
-(Pub. L. 85–699, title III, §321, as added Pub. L. 99–272, title XVIII, §18005(a), Apr. 7, 1986, 100 Stat. 364; amended Pub. L. 101–162, title V, (5), Nov. 21, 1989, 103 Stat. 1028; Pub. L. 102–366, title IV, §404, Sept. 4, 1992, 106 Stat. 1013.)
+(5) Nothing in this subsection shall prohibit the use of a book-entry or other electronic form of registration for trust certificates.
+
+(Pub. L. 85–699, title III, §319, formerly §321, as added Pub. L. 99–272, title XVIII, §18005(a), Apr. 7, 1986, 100 Stat. 364; amended Pub. L. 101–162, title V, (5), Nov. 21, 1989, 103 Stat. 1028; Pub. L. 102–366, title IV, §404, Sept. 4, 1992, 106 Stat. 1013; renumbered §319 and amended Pub. L. 104–208, div. D, title II, §§205(b), 208(h)(1)(E), (F), Sept. 30, 1996, 110 Stat. 3009–738, 3009–747.)
 
 #### References in Text
 
 For definition of “this chapter”, referred to in subsecs. (a) and (f)(2), see References in Text note set out under section 661 of this title.
 
+#### Prior Provisions
+
+A prior section 319 of Pub. L. 85–699, which amended section 80a–18 of this title, was renumbered section 317.
+
 #### Amendments
+
+1996—Subsec. (a). Pub. L. 104–208, §208(h)(1)(F)(i), struck out “, including companies operating under the authority of section 681(d) of this title,” after “investment companies”.
+
+Subsec. (f)(1). Pub. L. 104–208, §205(b)(1), struck out at end “Such central registration shall include with respect to each sale—
+
+&emsp;“(A) identification of each small business investment company;
+
+&emsp;“(B) the interest rate or prioritized payment rate paid by the small business investment company;
+
+&emsp;“(C) commissions, fees, or discounts paid to brokers and dealers in trust certificates;
+
+&emsp;“(D) identification of each purchaser of the trust certificate;
+
+&emsp;“(E) the price paid by the purchaser for the trust certificate;
+
+&emsp;“(F) the interest rate on the trust certificate;
+
+&emsp;“(G) the fee of any agent for carrying out the functions described in paragraph (2); and
+
+&emsp;“(H) such other information as the Administration deems appropriate.”
+
+Subsec. (f)(2). Pub. L. 104–208, §208(h)(1)(F)(ii), inserted “or investments in obligations of the United States” after “accounts”.
+
+Subsec. (f)(5). Pub. L. 104–208, §205(b)(2), added par. (5).
 
 1992—Pub. L. 102–366 amended section generally, in subsec. (a) authorizing issuance of trust certificates representing ownership of participating securities, in subsec. (b) inserting provisions authorizing Administration to guarantee payment of redemption price of and priority payments on participating securities, in subsec. (e)(2) including participating securities within prohibition against preclusion or limitation of Administration's ownership rights, and in subsec. (f) in par. (1) substituting provisions relating to small business investment company for provisions relating to development company and requiring prioritized payment rate to be included in central registration requirements, and in par. (2) inserting provisions relating to participating securities, contracts to carry out pooling, and maintenance of commercial bank accounts.
 
 1989—Subsec. (a). Pub. L. 101–162 inserted “, including companies operating under the authority of section 681(d) of this title,” after “investment companies”.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by section 205 of Pub. L. 104–208 effective Oct. 1, 1996, see section 3 of Pub. L. 104–208, set out as a note under section 633 of this title.
+
+Amendment by section 208 of Pub. L. 104–208 effective Sept. 30, 1996, see section 208(j) of Pub. L. 104–208, set out as a note under section 634 of this title.
 
 #### Regulations
 
@@ -74,5 +94,5 @@ Nothing in amendment by Pub. L. 102–366 to be construed to affect applicabilit
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 683, 687m of this title.
+This section is referred to in section 687m of this title.
 

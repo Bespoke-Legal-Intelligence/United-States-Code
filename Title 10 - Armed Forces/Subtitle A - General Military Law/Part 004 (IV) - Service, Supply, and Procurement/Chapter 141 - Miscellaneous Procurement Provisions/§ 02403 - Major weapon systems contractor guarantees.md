@@ -42,7 +42,13 @@
 
 > The Secretary may not delegate authority under this subsection to any person who holds a position below the level of Assistant Secretary of Defense or Assistant Secretary of a military department.
 
-(e) Before making a waiver under subsection (d) with respect to a weapon system that is a major defense acquisition program for the purpose of section 2432 of this title, the Secretary of Defense shall notify the Committees on Armed Services and on Appropriations of the Senate and House of Representatives in writing of his intention to waive any or all of the requirements of subsection (b) with respect to that system and shall include in the notice an explanation of the reasons for the waiver.
+(e)(1) Before making a waiver under subsection (d) with respect to a weapon system that is a major defense acquisition program for the purpose of section 2432 of this title, the Secretary of Defense shall submit to the congressional committees specified in paragraph (2) notice in writing of his intention to waive any or all of the requirements of subsection (b) with respect to that system and shall include in the notice an explanation of the reasons for the waiver.
+
+(2) The committees referred to in paragraph (1) are—
+
+&emsp;(A) the Committee on Armed Services and the Committee on Appropriations of the Senate; and
+
+&emsp;(B) the Committee on National Security and the Committee on Appropriations of the House of Representatives.
 
 (f) The requirement for a guarantee under subsection (b)(3) applies only in the case of a contract for a weapon system that is in mature full-scale production. However, nothing in this section prohibits the head of the agency concerned from negotiating a guarantee similar to the guarantee described in that subsection for a weapon system not yet in mature full-scale production. When a contract for a weapon system not yet in mature full-scale production is not to include the full guarantee described in subsection (b)(3), the Secretary shall comply with the notice requirements of subsection (e).
 
@@ -70,13 +76,15 @@
 
 (3) This section does not apply to the Coast Guard or to the National Aeronautics and Space Administration.
 
-(Added Pub. L. 98–525, title XII, §1234(a), Oct. 19, 1984, 98 Stat. 2601; amended Pub. L. 99–433, title I, §110(g)(5), Oct. 1, 1986, 100 Stat. 1004; Pub. L. 100–26, §7(k)(2), Apr. 21, 1987, 101 Stat. 284; Pub. L. 103–355, title II, §2402, Oct. 13, 1994, 108 Stat. 3324.)
+(Added Pub. L. 98–525, title XII, §1234(a), Oct. 19, 1984, 98 Stat. 2601; amended Pub. L. 99–433, title I, §110(g)(5), Oct. 1, 1986, 100 Stat. 1004; Pub. L. 100–26, §7(k)(2), Apr. 21, 1987, 101 Stat. 284; Pub. L. 103–355, title II, §2402, Oct. 13, 1994, 108 Stat. 3324; Pub. L. 104–106, div. A, title XV, §1502(a)(21), Feb. 10, 1996, 110 Stat. 505.)
 
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in Pub. L. 98–212, title VII, §794, Dec. 8, 1983, 97 Stat. 1454, which was set out as a note under section 2304 of this title, prior to repeal by Pub. L. 98–525, §1234(b), eff. Jan. 1, 1985.
 
 #### Amendments
+
+1996—Subsec. (e). Pub. L. 104–106 designated existing provisions as par. (1), substituted “shall submit to the congressional committees specified in paragraph (2) notice” for “shall notify the Committees on Armed Services and on Appropriations of the Senate and House of Representatives”, and added par. (2).
 
 1994—Subsec. (e). Pub. L. 103–355, §2402(a), struck out par. (1) designation and par. (2) which read as follows: “Not later than February 1 of each year, the Secretary of Defense shall submit to the committees specified in paragraph (1) a report identifying each waiver made under subsection (d) during the preceding calendar year for a weapon system that is not a major defense acquisition program for the purpose of section 2432 of this title and shall include in the report an explanation of the reasons for the waivers.”
 
@@ -86,17 +94,13 @@ Subsec. (h)(2), (3). Pub. L. 103–355, §2402(b), added par. (2) and redesignat
 
 1986—Subsec. (e). Pub. L. 99–433 substituted “section 2432” for “section 139a” in pars. (1) and (2).
 
-#### Change of Name
-
-Committee on Armed Services of House of Representatives treated as referring to Committee on National Security of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
-
 #### Effective Date of 1994 Amendment
 
 For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under section 251 of Title 41, Public Contracts.
 
 #### Written Warranties in Prime Contracts for Major Systems Acquisitions for Coast Guard
 
-Pub. L. 102–143, title I, Oct. 28, 1991, 105 Stat. 920, which directed Secretary of Transportation to issueregulations requiring written warranties to be included in all contracts with prime contractors for major systems acquisitions of the Coast Guard, with certain exceptions, was from the Department of Transportation and Related Agencies Appropriations Act, 1992, and was not repeated in subsequent appropriation acts. Similar provisions were contained in the following prior appropriations acts:
+Pub. L. 102–143, title I, Oct. 28, 1991, 105 Stat. 920, which directed Secretary of Transportation to issue regulations requiring written warranties to be included in all contracts with prime contractors for major systems acquisitions of the Coast Guard, with certain exceptions, was from the Department of Transportation and Related Agencies Appropriations Act, 1992, and was not repeated in subsequent appropriation acts. Similar provisions were contained in the following prior appropriations acts:
 
 Pub. L. 101–516, title I, Nov. 5, 1990, 104 Stat. 2158.
 

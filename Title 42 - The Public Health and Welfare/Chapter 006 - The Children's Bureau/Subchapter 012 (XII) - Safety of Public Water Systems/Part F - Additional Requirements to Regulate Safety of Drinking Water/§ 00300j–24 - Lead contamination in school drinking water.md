@@ -26,7 +26,11 @@ Each State shall provide for the dissemination to local educational agencies, pr
 
 &emsp;In the case of drinking water coolers, such program shall include measures for the reduction or elimination of lead contamination from those water coolers which are not lead free and which are located in schools. Such measures shall be adequate to ensure that within 15 months after October 31, 1988, all such water coolers in schools under the jurisdiction of such agencies are repaired, replaced, permanently removed, or rendered inoperable unless the cooler is tested and found (within the limits of testing accuracy) not to contribute lead to drinking water.
 
-(July 1, 1944, ch. 373, title XIV, §1464, as added Oct. 31, 1988, Pub. L. 100–572, §2(a), 102 Stat. 2886.)
+(July 1, 1944, ch. 373, title XIV, §1464, as added Oct. 31, 1988, Pub. L. 100–572, §2(a), 102 Stat. 2886; amended Aug. 6, 1996, Pub. L. 104–182, title V, §501(f)(10), 110 Stat. 1692.)
+
+#### Amendments
+
+1996—Pub. L. 104–182 made technical amendment to section catchline and subsec. (a) designation.
 
 #### Section Referred to in Other Sections
 

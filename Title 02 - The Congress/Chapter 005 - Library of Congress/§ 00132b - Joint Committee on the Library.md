@@ -1,12 +1,12 @@
 ### §132b. Joint Committee on the Library
 
-The Joint Committee of Congress on the Library shall, on and after January 3, 1947, consist of the chairman and four members of the Committee on Rules and Administration of the Senate and the chairman and four members of the Committee on House Administration of the House of Representatives.
+The Joint Committee of Congress on the Library shall, on and after January 3, 1947, consist of the chairman and four members of the Committee on Rules and Administration of the Senate and the chairman and four members of the Committee on House Oversight of the House of Representatives.
 
-(Aug. 2, 1946, ch. 753, title II, §223, 60 Stat. 838.)
+(Aug. 2, 1946, ch. 753, title II, §223, 60 Stat. 838; Aug. 20, 1996, Pub. L. 104–186, title II, §205, 110 Stat. 1742.)
 
-#### Change of Name
+#### Amendments
 
-Committee on House Administration of House of Representatives treated as referring to Committee on House Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of this title.
+1996—Pub. L. 104–186 substituted “House Oversight” for “House Administration”.
 
 #### Effective Date
 

@@ -8,11 +8,9 @@ As used in this subchapter:
 
 #### (2) Child care certificate
 
-&emsp;The term “child care certificate” means a certificate (that may be a check or other disbursement) that is issued by a State or local government under this subchapter directly to a parent who may use such certificate only as payment for child care services. Nothing in this subchapter shall preclude the use of such certificates for sectarian child care services if freely chosen by the parent. For purposes of this subchapter, child care certificates shall not be considered to be grants or contracts.
+&emsp;The term “child care certificate” means a certificate (that may be a check or other disbursement) that is issued by a State or local government under this subchapter directly to a parent who may use such certificate only as payment for child care services or as a deposit for child care services if such a deposit is required of other children being cared for by the provider. Nothing in this subchapter shall preclude the use of such certificates for sectarian child care services if freely chosen by the parent. For purposes of this subchapter, child care certificates shall not be considered to be grants or contracts.
 
-#### (3) Elementary school
-
-&emsp;The term “elementary school” means a day or residential school that provides elementary education, as determined under State law.
+#### (3) Repealed. Pub. L. 104–193, title VI, §614(2), Aug. 22, 1996, 110 Stat. 2287
 
 #### (4) Eligible child
 
@@ -20,7 +18,7 @@ As used in this subchapter:
 
 &emsp;&emsp;(A) who is less than 13 years of age;
 
-&emsp;&emsp;(B) whose family income does not exceed 75 percent of the State median income for a family of the same size; and
+&emsp;&emsp;(B) whose family income does not exceed 85 percent of the State median income for a family of the same size; and
 
 &emsp;&emsp;(C) who—
 
@@ -40,7 +38,7 @@ As used in this subchapter:
 
 > &emsp;&emsp;applicable to the child care services it provides; or
 
-&emsp;&emsp;(B) a child care provider that is 18 years of age or older who provides child care services only to eligible children who are, by affinity or consanguinity, or by court decree, the grandchild, niece, or nephew of such provider, if such provider is registered and complies with any State requirements that govern child care provided by the relative involved.
+&emsp;&emsp;(B) a child care provider that is 18 years of age or older who provides child care services only to eligible children who are, by affinity or consanguinity, or by court decree, the grandchild, great grandchild, sibling (if such provider lives in a separate residence), niece, or nephew of such provider, if such provider complies with any applicable requirements that govern child care provided by the relative involved.
 
 #### (6) Family child care provider
 
@@ -52,15 +50,13 @@ As used in this subchapter:
 
 #### (8) Lead agency
 
-&emsp;The term “lead agency” means the agency designated under section 9858(a) of this title.
+&emsp;The term “lead agency” means the agency designated under section 9858(a) <sup>1</sup> of this title.
 
 #### (9) Parent
 
 &emsp;The term “parent” includes a legal guardian or other person standing in loco parentis.
 
-#### (10) Secondary school
-
-&emsp;The term “secondary school” means a day or residential school which provides secondary education, as determined under State law.
+#### (10) Repealed. Pub. L. 104–193, title VI, §614(5), Aug. 22, 1996, 110 Stat. 2287
 
 #### (11) Secretary
 
@@ -72,15 +68,41 @@ As used in this subchapter:
 
 #### (13) State
 
-&emsp;The term “State” means any of the several States, the District of Columbia, the Virgin Islands of the United States, the Commonwealth of Puerto Rico, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and the Trust Territory of the Pacific Islands.
+&emsp;The term “State” means any of the several States, the District of Columbia, the Virgin Islands of the United States, the Commonwealth of Puerto Rico, Guam, American Samoa, or the Commonwealth of the Northern Mariana Islands.
 
 #### (14) Tribal organization
 
-&emsp;The term “tribal organization” has the meaning given it in section 450b(<i>l</i>) of title 25.
+#### (A) In general
 
-(Pub. L. 97–35, title VI, §658P, as added Pub. L. 101–508, title V, §5082(2), Nov. 5, 1990, 104 Stat. 1388–248; amended Pub. L. 102–401, §3, Oct. 7, 1992, 106 Stat. 1959; Pub. L. 102–586, §8(c), Nov. 4, 1992, 106 Stat. 5036; Pub. L. 103–171, §8, Dec. 2, 1993, 107 Stat. 1994.)
+&emsp;&emsp;The term “tribal organization” has the meaning given it in section 450b(<i>l</i>) of title 25.
+
+#### (B) Other organizations
+
+&emsp;&emsp;Such term includes a Native Hawaiian Organization, as defined in section 4909(4) <sup>1</sup> of title 20 and a private nonprofit organizationestablished for the purpose of serving youth who are Indians or Native Hawaiians.
+
+(Pub. L. 97–35, title VI, §658P, as added Pub. L. 101–508, title V, §5082(2), Nov. 5, 1990, 104 Stat. 1388–248; amended Pub. L. 102–401, §3, Oct. 7, 1992, 106 Stat. 1959; Pub. L. 102–586, §8(c), Nov. 4, 1992, 106 Stat. 5036; Pub. L. 103–171, §8, Dec. 2, 1993, 107 Stat. 1994; Pub. L. 104–193, title VI, §614, Aug. 22, 1996, 110 Stat. 2287.)
+
+#### References in Text
+
+Section 9858 of this title, referred to in par. (8), does not contain a subsec. (a) and does not relate to designation of lead agencies. For provisions relating to designation of a State agency to act as a lead agency, see section 9858b(a) of this title.
+
+Section 4909 of title 20, referred to in par. (14)(B), was repealed by Pub. L. 103–382, title III, §363, Oct. 20, 1994, 108 Stat. 3975.
 
 #### Amendments
+
+1996—Par. (2). Pub. L. 104–193, §614(1), in first sentence, inserted “or as a deposit for child care services if such a deposit is required of other children being cared for by the provider” after “payment for child care services”.
+
+Par. (3). Pub. L. 104–193, §614(2), struck out heading and text of par. (3). Text read as follows: “The term ‘elementary school’ means a day or residential school that provides elementary education, as determined under State law.”
+
+Par. (4)(B). Pub. L. 104–193, §614(3), substituted “85 percent” for “75 percent”.
+
+Par. (5)(B). Pub. L. 104–193, §614(4), inserted “great grandchild, sibling (if such provider lives in a separate residence),” after “grandchild,”, struck out “is registered and” after “such provider”, and substituted “any applicable requirements” for “any State requirements”.
+
+Par. (10). Pub. L. 104–193, §614(5), struck out heading and text of par. (10). Text read as follows: “The term ‘secondary school’ means a day or residential school which provides secondary education, as determined under State law.”
+
+Par. (13). Pub. L. 104–193, §614(6), inserted “or” after “Samoa,” and struck out “, and the Trust Territory of the Pacific Islands” after “Northern Mariana Islands”.
+
+Par. (14). Pub. L. 104–193, §614(7), designated existing text as subpar. (A), inserted heading, and added subpar. (B).
 
 1993—Pars. (7), (14). Pub. L. 103–171 made technical correction to directory language of Pub. L. 102–586, §8(c)(2). See 1992 Amendment note below.
 
@@ -94,17 +116,19 @@ Par. (14). Pub. L. 102–586, §8(c)(2)(B), as amended by Pub. L. 103–171, whi
 
 Pub. L. 102–401, §3(b)(2), substituted “section 450b(<i>l</i>) of title 25” for “section 450b(c) of title 25”.
 
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–193 effective Oct. 1, 1996, see section 615 of Pub. L. 104–193, set out as a note under section 9858 of this title.
+
 #### Effective Date of 1992 Amendments
 
 Amendment by Pub. L. 102–586 effective Nov. 4, 1992, but not applicable with respect to fiscal years beginning before Oct. 1, 1992, see section 8(d) of Pub. L. 102–586, set out as a note under section 9858h of this title.
 
 Amendment by Pub. L. 102–401 effective Oct. 7, 1992, but not applicable with respect to fiscal years beginning before Oct. 1, 1992, see section 4 of Pub. L. 102–401, set out as a note under section 9835 of this title.
 
-#### Termination of Trust Territory of the Pacific Islands
-
-For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
-
 #### Section Referred to in Other Sections
 
-This section is referred to in section 9858a of this title.
+This section is referred to in sections 9858a, 9858i of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

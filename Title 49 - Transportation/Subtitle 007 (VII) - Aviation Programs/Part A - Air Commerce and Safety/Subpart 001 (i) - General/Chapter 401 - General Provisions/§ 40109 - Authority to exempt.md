@@ -12,11 +12,11 @@ Air Carriers and Foreign Air Carriers Not Engaged Directly in Operating Aircraft
 
 (b)
 
-Safety Regulation.—The Administrator of the Federal Aviation Administration may grant an exemption from a regulation prescribed in carrying out sections 40103(b)(1) and (2), 40119, 44901, 44903, 44906, and 44935–44937 of this title when the Administrator decides the exemption is in the public interest.
+Safety Regulation.—The Administrator of the Federal Aviation Administration may grant an exemption from a regulation prescribed in carrying out sections 40103(b)(1) and (2), 40119,44901, 44903, 44906, and 44935–44937 of this title when the Administrator decides the exemption is in the public interest.
 
 (c)
 
-Other Economic Regulation.—Except as provided in this section, the Secretary may exempt to the extent the Secretary considers necessary a person or class of persons from a provision of chapter 411, sections 41301–41306, 41308–41310(a), 41501, 41503, 41504, 41506, 41510, 41511, 41701, 41702, 41705–41709, 41711, 41712, and 41731–41742, chapter 419, subchapter II of chapter 421, and section 46301(b) of this title, or a regulation or term prescribed under any of those provisions, when the Secretary decides that the exemption is consistent with the public interest.
+Other Economic Regulation.—Except as provided in this section, the Secretary may exempt to the extent the Secretary considers necessary a person or class of persons from a provision of chapter 411, chapter 413 (except sections 41307 and 41310(b)–(f)), chapter 415 (except sections 41502, 41505, and 41507–41509), chapter 417 (except sections 41703, 41704, 41710, 41713, and 41714), chapter 419, subchapter II of chapter 421, and sections 44909 and 46301(b) of this title, or a regulation or term prescribed under any of those provisions, when the Secretary decides that the exemption is consistent with the public interest.
 
 (d)
 
@@ -76,11 +76,15 @@ Emergency Air Transportation by Foreign Air Carriers.—(1) To the extent that t
 
 Notice and Opportunity for Hearing.—The Secretary may act under subsections (d) and (f)(3)(B) of this section only after giving the air carrier notice and an opportunity for a hearing.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1104.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1104; Pub. L. 104–287, §5(65), Oct. 11, 1996, 110 Stat. 3395.)
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+Pub. L. 103–272
+
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -100,7 +104,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §416(b)(3)–(6); added Oct. 24,
 
 &nbsp;
 
-49 App.:1551(b) (1)(E).
+49 App.:1551(b)(1)(E).
 
 Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1601(b)(1)(E); added Oct. 4, 1984, Pub. L. 98–443, §3(e), 98 Stat. 1704.
 
@@ -110,7 +114,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1601(b)(1)(E); added Oct. 4, 19
 
 &nbsp;
 
-49 App.:1551(b) (1)(E).
+49 App.:1551(b)(1)(E).
 
 &nbsp;
 
@@ -126,7 +130,7 @@ Aug. 23, 1958, Pub. L. 85–726, §416(b)(1), 72 Stat. 771; restated Oct. 24, 19
 
 &nbsp;
 
-49 App.:1551(b) (1)(E).
+49 App.:1551(b)(1)(E).
 
 40109(d)
 
@@ -134,7 +138,7 @@ Aug. 23, 1958, Pub. L. 85–726, §416(b)(1), 72 Stat. 771; restated Oct. 24, 19
 
 &nbsp;
 
-49 App.:1551(b) (1)(E).
+49 App.:1551(b)(1)(E).
 
 40109(e)
 
@@ -142,7 +146,7 @@ Aug. 23, 1958, Pub. L. 85–726, §416(b)(1), 72 Stat. 771; restated Oct. 24, 19
 
 &nbsp;
 
-49 App.:1551(b) (1)(E).
+49 App.:1551(b)(1)(E).
 
 40109(f)
 
@@ -150,7 +154,7 @@ Aug. 23, 1958, Pub. L. 85–726, §416(b)(1), 72 Stat. 771; restated Oct. 24, 19
 
 &nbsp;
 
-49 App.:1551(b) (1)(E).
+49 App.:1551(b)(1)(E).
 
 40109(g)
 
@@ -160,7 +164,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §416(b)(7); added Feb. 15, 1980,
 
 &nbsp;
 
-49 App.:1551(b) (1)(E).
+49 App.:1551(b)(1)(E).
 
 40109(h)
 
@@ -168,7 +172,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §416(b)(7); added Feb. 15, 1980,
 
 &nbsp;
 
-49 App.:1551(b) (1)(E).
+49 App.:1551(b)(1)(E).
 
 In this section, the words “requirements of”, “term”, and “or limitation” are omitted as surplus. The word “rule” is omitted as being synonymous with “regulation”. The word “unreasonable” is substituted for “undue” for consistency in the revised title and with other titles of the United States Code.
 
@@ -190,7 +194,7 @@ In subsection (f)(3), the words “the State of” are omitted as surplus.
 
 In subsection (f)(3)(A), the words “under this subsection” are substituted for “from section 1371 of this title or any other requirement of this chapter”, the words “2 places” are substituted for “points both of which are”, and the word “between” is substituted for “one of which is in . . . and the other in”, to eliminate unnecessary words.
 
-In subsection (f)(3)(B), the word “only” is added for clarity. The words “promulgated by the Board”, “by such air carrier to points within such State”, and “but not limited to” are omitted as surplus. The word “Alaska” is substituted for “such State” for clarity. The cross-reference is to section 41732(b)(1)(B) to correct an error in the source provisions. The cross-reference in 49 App.:1386(b)(6) to 49 App.:1389(c)(2) should have been to 49 App.:1389(f)(2). This error was not corrected when 49 App.:1389 was restated by section 202(b) of the Airport and Airway Safety and Capacity Expansion Act of 1987 (Public Law 100–223, 101 Stat. 1508). The comparableprovision is 49 App.:1389(k)(1)(A)(ii), restated as section 41732(b)(1)(B).
+In subsection (f)(3)(B), the word “only” is added for clarity. The words “promulgated by the Board”, “by such air carrier to points within such State”, and “but not limited to” are omitted as surplus. The word “Alaska” is substituted for “such State” for clarity. The cross-reference is to section 41732(b)(1)(B) to correct an error in the source provisions. The cross-reference in 49 App.:1386(b)(6) to 49 App.:1389(c)(2) should have been to 49 App.:1389(f)(2). This error was not corrected when 49 App.:1389 was restated by section 202(b) of the Airport and Airway Safety and Capacity Expansion Act of 1987 (Public Law 100–223, 101 Stat. 1508). The comparable provision is 49 App.:1389(k)(1)(A)(ii), restated as section 41732(b)(1)(B).
 
 In subsection (g), the word “exemption” is substituted for “authorization” and “authority” for clarity and consistency.
 
@@ -200,13 +204,27 @@ In subsection (g)(3), the words “a period” are omitted as surplus.
 
 In subsection (h), the words “The Secretary may act under subsections (d) and (f)(3)(B) of this section” are added because of the restatement. The word “notice” does not appear in 49 App.:1386(b)(6) (words between 5th and 6th commas) but is made applicable to both of the restated source provisions for consistency with subchapter II of chapter 5 of title 5, United States Code. The words “opportunity for a” are added for consistency in the revised title.
 
+#### Pub. L. 104–287
+
+This amends 49:40109(c) to correct an error in the codification enacted by section 1 of the Act of July 5, 1994 (Public Law 103–272, 108 Stat. 1105), to include in the cross-reference sections enacted after the cutoff date for the codification of title 49 as enacted by section 1 of the Act (Public Law 103–272, 108 Stat. 745), and to make it easier to include future sections in the cross-reference by restating it in terms of chapters.
+
+#### Amendments
+
+1996—Subsec. (c). Pub. L. 104–287, §5(65)(B), substituted “sections 44909 and 46301(b)” for “section 46301(b)”.
+
+Pub. L. 104–287, §5(65)(A), substituted “chapter 413 (except sections 41307 and 41310(b)–(f)), chapter 415 (except sections 41502, 41505, and 41507–41509), chapter 417 (except sections 41703, 41704, 41710, 41713, and 41714),” for “sections 41301–41306, 41308–41310(a), 41501, 41503, 41504, 41506, 41510, 41511, 41701, 41702, 41705–41709, 41711, 41712, and 41731–41742,”.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–287 effective July 5, 1994, see section 8(1) of Pub. L. 104–287, set out as a note under section 5303 of this title.
+
 #### Authority To Grant Exemptions to Government Aircraft
 
 Pub. L. 103–411, §3(b), Oct. 25, 1994, 108 Stat. 4237, provided that:
 
 “(1)
 
-In general.—The Administrator of the Federal Aviation Administration may grant an exemption to any unit of Federal, State, or local government from any requirement of part A of subtitle VII of title 49, United States Code, that would otherwise be applicable to current or future aircraft of such unit of government as a result of the amendment made by subsection (a) of this section \[amending section 40102 of this title\].
+In general.—The Administrator of the Federal Aviation Administration may grant an exemption to any unit of Federal, State, or local government from any requirement of part A of subtitle VII of title 49,United States Code, that would otherwise be applicable to current or future aircraft of such unit of government as a result of the amendment made by subsection (a) of this section \[amending section 40102 of this title\].
 
 “(2)
 

@@ -6,7 +6,9 @@ Amounts are available from the Airport and Airway Trust Fund established under s
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -30,5 +32,5 @@ This section is substituted for the source provisions for clarity and because of
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 47108, 49101, 49102, 49105 of this title.
+This section is referred to in sections 47108, 50101, 50102, 50105 of this title.
 

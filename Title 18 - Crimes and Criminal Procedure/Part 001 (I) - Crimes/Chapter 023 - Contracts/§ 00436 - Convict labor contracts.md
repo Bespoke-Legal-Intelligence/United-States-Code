@@ -12,7 +12,7 @@ This section consolidates sections 708 and 709 of title 18, U.S.C., 1940 ed., as
 
 Words “department or agency thereof” were inserted to clarify scope of section. See definition of department and agency in section 6 of this title.
 
-To retain uniformity words “shall be deemed guilty of a misdemeanor, and,” were omitted. The reference to misdemeanor is now covered by the definition in section 1 of this title.
+To retain uniformity words “shall be deemed guilty of a misdemeanor, and,” were omitted. The reference tomisdemeanor is now covered by the definition in section 1 of this title.
 
 Words “on conviction thereof” were omitted as unnecessary since punishment can follow only upon conviction.
 

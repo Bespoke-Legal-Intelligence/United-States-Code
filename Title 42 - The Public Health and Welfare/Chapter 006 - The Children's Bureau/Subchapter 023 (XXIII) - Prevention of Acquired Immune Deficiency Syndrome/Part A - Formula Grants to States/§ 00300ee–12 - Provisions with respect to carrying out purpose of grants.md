@@ -12,7 +12,7 @@ A State may expend payments received under section 300eeâ€“11(a) of this titleâ€
 
 &emsp;(5) to provide technical assistance to public entities, to nonprofit private entities concerned with such syndrome, to schools, and to employers, for the purpose of developing information programs relating to such syndrome;
 
-&emsp;(6) with respect to education and training programs for the prevention of such syndrome, to conduct such programs for health professionals (including allied health professionals), public safety workers (including emergency response employees), teachers, school administrators, and other appropriate education personnel;
+&emsp;(6) with respect to education and training programs for the prevention of such syndrome, to conduct such programs for health professionals (including allied health professionals), public safety workers (including emergencyresponse employees), teachers, school administrators, and other appropriate education personnel;
 
 &emsp;(7) to conduct appropriate programs for educating school-aged children with respect to such syndrome, after consulting with local school boards;
 

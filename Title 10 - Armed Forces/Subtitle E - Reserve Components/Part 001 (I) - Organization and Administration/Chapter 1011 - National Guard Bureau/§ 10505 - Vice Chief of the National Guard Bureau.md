@@ -40,3 +40,7 @@ Succession After Chief and Vice Chief.—When there is a vacancy in the offices 
 
 Provisions similar to those in subsecs. (d) and (e) of this section were contained in section 3040(d) of this title, prior to repeal by Pub. L. 103–337, §904(b)(1).
 
+#### Section Referred to in Other Sections
+
+This section is referred to in section 641 of this title.
+

@@ -54,7 +54,7 @@
 
 &emsp;&emsp;&emsp;(II) provide the State concerned with the opportunity to advise and assist the Trade Representative in the preparation of factual information and argumentation for any written or oral presentations by the United States in consultations or in proceedings of a panel or the Appellate Body regarding the matter.
 
-&emsp;&emsp;(iv) If a dispute settlement panel or the Appellate Body finds that the law of a Stateis inconsistent with any of the Uruguay Round Agreements, the Trade Representative shall consult with the State concerned in an effort to develop a mutually agreeable response to the report of the panel or the Appellate Body and shall make every effort to ensure that the State concerned is involved in the development of the United States position regarding the response.
+&emsp;&emsp;(iv) If a dispute settlement panel or the Appellate Body finds that the law of a State is inconsistent with any of the Uruguay Round Agreements, the Trade Representative shall consult with the State concerned in an effort to develop a mutually agreeable response to the report of the panel or the Appellate Body and shall make every effort to ensure that the State concerned is involved in the development of the United States position regarding the response.
 
 #### (D) Notice to States regarding consultations on foreign subcentral government laws
 
@@ -66,7 +66,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;No State law, or the application of such a State law, may be declared invalid as to any person or circumstance on the ground that the provision or application is inconsistent with any of the Uruguay Round Agreements, except in an action brought by the United States for the purpose of declaring such law or application invalid.
+&emsp;&emsp;No State law, or the application of such a State law, may be declared invalid as to any person or circumstance on the ground that the provision or application is inconsistent with any of the Uruguay Round Agreements,except in an action brought by the United States for the purpose of declaring such law or application invalid.
 
 #### (B) Procedures governing action
 
@@ -124,7 +124,7 @@
 
 #### (d) Statement of administrative action
 
-The statement of administrative action approved by the Congress under section 3511(a) of this title shall be regarded as an authoritative expression by the United States concerning the interpretation and application of the UruguayRound Agreements and this Act in any judicial proceeding in which a question arises concerning such interpretation or application.
+The statement of administrative action approved by the Congress under section 3511(a) of this title shall be regarded as an authoritative expression by the United States concerning the interpretation and application of the Uruguay Round Agreements and this Act in any judicial proceeding in which a question arises concerning such interpretation or application.
 
 (Pub. L. 103–465, title I, §102, Dec. 8, 1994, 108 Stat. 4815.)
 

@@ -2,7 +2,7 @@
 
 #### (a) Development
 
-The Corporation may develop, in cooperation with the heads of other Federal agencies, regulations designed to permit, where appropriate, joint programs in which activities supported with assistance made available under this division are coordinated with activities supported with assistance made available under programsadministered by the heads of such agencies (including the Job Training Partnership Act (29 U.S.C. 1501 et seq.)).
+The Corporation may develop, in cooperation with the heads of other Federal agencies, regulations designed to permit, where appropriate, joint programs in which activities supported with assistance made available under this division are coordinated with activities supported with assistance made available under programs administered by the heads of such agencies (including the Job Training Partnership Act (29 U.S.C. 1501 et seq.)).
 
 #### (b) Standards
 

@@ -52,7 +52,7 @@ Two-thirds of the votes cast at a meeting of the Board at which a quorum is pres
 
 #### (j) Other terms and conditions
 
-The Secretary shall authorize the Board to hire a staff director and shall detail staff of the Department of Agriculture or allow for the hiring of staff and may, subject to necessary appropriations, pay necessary expenses incurred by such Board in carrying out the provisions of this chapter, as determined appropriate by the Secretary.
+The Secretary shall authorize the Board to hire a staff director and shall detail staff of theDepartment of Agriculture or allow for the hiring of staff and may, subject to necessary appropriations, pay necessary expenses incurred by such Board in carrying out the provisions of this chapter, as determined appropriate by the Secretary.
 
 #### (k) Responsibilities of Board
 

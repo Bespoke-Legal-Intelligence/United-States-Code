@@ -70,7 +70,7 @@
 | (i) | Violation of posting requirements. |
 | (j) | Authority of Commission to assess civil penalties. |
 | (k) | Determination of serious violation. |
-| (<i>l)</i> | Procedure for payment of civil penalties. |
+| (<i>l</i>) | Procedure for payment of civil penalties. |
 | [667\.](%C2%A7%2000667%20-%20State%20jurisdiction%20and%20plans.md) | State jurisdiction and plans. |
 | (a) | Assertion of State standards in absence of applicable Federal standards. |
 | (b) | Submission of State plan for development and enforcement of State standards to preempt applicable Federal standards. |
@@ -135,7 +135,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 671a, 1553 of this title; title 2 sections 1302, 1341, 1371, 1434; title 15 sections 2080, 2603; title 25 section 450m; title 30 section 951; title 31 section 1105; title 42 sections 280b–1, 300ee–2, 2297b–11, 4853a, 6971, 7412, 11021, 11022.
+This chapter is referred to in sections 671a, 1553 of this title; title 2 sections 1302, 1341, 1371, 1434; title 3 sections 402, 425; title 15 sections 2080, 2603; title 25 section 450m; title 30 section 951; title 31 section 1105; title 42 sections 280b–1, 300ee–2, 2297b–11, 2297h–13, 4853a, 6971, 7412, 11021, 11022.
 
 
 ---
@@ -179,6 +179,5 @@ This chapter is referred to in sections 671a, 1553 of this title; title 2 sectio
 - [Subchapter 004 (IV) - National Council on Disability](Subchapter%20004%20%28IV%29%20-%20National%20Council%20on%20Disability/README.md)
 - [Subchapter 005 (V) - Rights and Advocacy](Subchapter%20005%20%28V%29%20-%20Rights%20and%20Advocacy/README.md)
 - [Subchapter 006 (VI) - Employment Opportunities for Individuals with Disabilities](Subchapter%20006%20%28VI%29%20-%20Employment%20Opportunities%20for%20Individuals%20with%20Disabilities/README.md)
-- [Part A - Individuals with Severe Disabilities](Part%20A%20-%20Individuals%20with%20Severe%20Disabilities/README.md)
-- [Part B - Independent Living Services for Older Individuals Who Are Blind](Part%20B%20-%20Independent%20Living%20Services%20for%20Older%20Individuals%20Who%20Are%20Blind/README.md)
+- [Subchapter 007 (VII) - Independent Living Services and Centers for Independent Living](Subchapter%20007%20%28VII%29%20-%20Independent%20Living%20Services%20and%20Centers%20for%20Independent%20Living/README.md)
 - [Subchapter 008 (VIII) - Special Demonstrations and Training Projects](Subchapter%20008%20%28VIII%29%20-%20Special%20Demonstrations%20and%20Training%20Projects/README.md)

@@ -6,9 +6,9 @@ For purposes of this section, the term “coastal zone enhancement objective” 
 
 &emsp;(1) Protection, restoration, or enhancement of the existing coastal wetlands base, or creation of new coastal wetlands.
 
-&emsp;(2) Preventing or significantly reducing threats to life and destruction of property byeliminating development and redevelopment in high-hazard areas, managing development in other hazard areas, and anticipating and managing the effects of potential sea level rise and Great Lakes level rise.
+&emsp;(2) Preventing or significantly reducing threats to life and destruction of property by eliminating development and redevelopment in high-hazard areas, managing development in other hazard areas, and anticipating and managing the effects of potential sea level rise and Great Lakes level rise.
 
-&emsp;(3) Attaining increased opportunities for public access, taking into account current and future public access needs, to coastal areas of recreational, historical, aesthetic, ecological, or cultural value.
+&emsp;(3) Attaining increased opportunities for public access, taking into account current andfuture public access needs, to coastal areas of recreational, historical, aesthetic, ecological, or cultural value.
 
 &emsp;(4) Reducing marine debris entering the Nation's coastal and ocean environment by managing uses and activities that contribute to the entry of such debris.
 
@@ -20,9 +20,15 @@ For purposes of this section, the term “coastal zone enhancement objective” 
 
 &emsp;(8) Adoption of procedures and enforceable policies to help facilitate the siting of energy facilities and Government facilities and energy-related activities and Government activities which may be of greater than local significance.
 
+&emsp;(9) Adoption of procedures and policies to evaluate and facilitate the siting of public and private aquaculture facilities in the coastal zone, which will enable States to formulate, administer, and implement strategic plans for marine aquaculture.
+
 #### (b) Limits on grants
 
-Subject to the limitations and goals established in this section, the Secretary may make grants to coastal states to provide funding for development and submission for Federal approval of program changes that support attainment of one or more coastal zone enhancement objectives.
+(1) Subject to the limitations and goals established in this section, the Secretary may make grants to coastal states to provide funding for development and submission for Federal approval of program changes that support attainment of one or more coastal zone enhancement objectives.
+
+(2)(A) In addition to any amounts provided under section 1455 of this title, and subject to the availability of appropriations, the Secretary may make grants under this subsection to States for implementing program changes approved by the Secretary in accordance with section 1455(e) of this title.
+
+(B) Grants under this paragraph to implement a program change may not be made in any fiscal year after the second fiscal year that begins after the approval of that change by the Secretary.
 
 #### (c) Evaluation of State proposals by Secretary
 
@@ -50,13 +56,17 @@ Beginning in fiscal year 1991, not less than 10 percent and not more than 20 per
 
 If the Secretary finds that the State is not undertaking the actions committed to under the terms of the grant, the Secretary shall suspend the State's eligibility for further funding under this section for at least one year.
 
-(Pub. L. 89–454, title III, §309, as added Pub. L. 94–370, §8, July 26, 1976, 90 Stat. 1028; amended Pub. L. 96–464, §8, Oct. 17, 1980, 94 Stat. 2064; Pub. L. 101–508, title VI, §6210, Nov. 5, 1990, 104 Stat. 1388–309; Pub. L. 102–587, title II, §2205(b)(1)(B), Nov. 4, 1992, 106 Stat. 5050.)
+(Pub. L. 89–454, title III, §309, as added Pub. L. 94–370, §8, July 26, 1976, 90 Stat. 1028; amended Pub. L. 96–464, §8, Oct. 17, 1980, 94 Stat. 2064; Pub. L. 101–508, title VI, §6210, Nov. 5, 1990, 104 Stat. 1388–309; Pub. L. 102–587, title II, §2205(b)(1)(B), Nov. 4, 1992, 106 Stat. 5050; Pub. L. 104–150, §§3, 7(2), June 3, 1996, 110 Stat. 1380, 1382.)
 
 #### Codification
 
 November 5, 1990, referred to in subsec. (d), was in the original “the date of enactment of this section”, and was translated as meaning the date of enactment of section 6210 of Pub. L. 101–508, which amended this section generally, to reflect the probable intent of Congress.
 
 #### Amendments
+
+1996—Subsec. (a)(9). Pub. L. 104–150, §7(2), added par. (9).
+
+Subsec. (b). Pub. L. 104–150, §3, designated existing provisions as par. (1) and added par. (2).
 
 1992—Subsec. (b). Pub. L. 102–587 substituted “coastal states” for “coastal States”.
 

@@ -4,8 +4,7 @@
 
 | Sec. |  |
 | :--- | ---: |
-| 91 to 95. | Omitted or Repealed. |
-| [96\.](Subchapter%20001%20%28I%29%20-%20Purchase%20of%20Supplies/%C2%A7%2000096%20-%20Copies%20of%20contracts%20furnished%20to%20General%20Accounting%20Office%20before%20payment.md) | Copies of contracts furnished to General Accounting Office before payment. |
+| 91 to 96. | Omitted or Repealed. |
 | [97\.](Subchapter%20001%20%28I%29%20-%20Purchase%20of%20Supplies/%C2%A7%2000097%20-%20Proposals%20or%20bids%20for%20contracts%20to%20be%20preserved.md) | Proposals or bids for contracts to be preserved. |
 | [98\.](Subchapter%20001%20%28I%29%20-%20Purchase%20of%20Supplies/%C2%A7%2000098%20-%20Purchase%20of%20supplies%20without%20authority.md) | Purchase of supplies without authority. |
 | [99\.](Subchapter%20001%20%28I%29%20-%20Purchase%20of%20Supplies/%C2%A7%2000099%20-%20Contracts%20for%20supplies%20in%20advance%20of%20appropriations.md) | Contracts for supplies in advance of appropriations. |

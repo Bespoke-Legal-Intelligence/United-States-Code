@@ -1,8 +1,8 @@
 ### §1113. Attempt to commit murder or manslaughter
 
-Except as provided in section 113 of this title, whoever, within the special maritime and territorial jurisdiction of the United States, attempts to commit murder or manslaughter, shall, for an attempt to commit murder be imprisoned not more than twenty years or fined under this title, or both, and for an attempt to commit manslaughter be imprisoned not more than three years or fined under this title, or both.
+Except as provided in section 113 of this title, whoever, within the special maritime and territorial jurisdiction of the United States, attempts to commit murder or manslaughter, shall, for an attempt to commit murder be imprisoned not more than twenty years or fined under this title, or both, and for an attempt to commit manslaughter be imprisoned not more than seven years or fined under this title, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 756; Nov. 18, 1988, Pub. L. 100–690, title VII, §7058(c), 102 Stat. 4403; Nov. 29, 1990, Pub. L. 101–647, title XXXV, §3534, 104 Stat. 4925.)
+(June 25, 1948, ch. 645, 62 Stat. 756; Nov. 18, 1988, Pub. L. 100–690, title VII, §7058(c), 102 Stat. 4403; Nov. 29, 1990, Pub. L. 101–647, title XXXV, §3534, 104 Stat. 4925; Apr. 24, 1996, Pub. L. 104–132, title VII, §705(a)(5), 110 Stat. 1295.)
 
 #### Historical and Revision Notes
 
@@ -14,6 +14,8 @@ Mandatory punishment provision was rephrased in the alternative.
 
 #### Amendments
 
+1996—Pub. L. 104–132 substituted “seven years” for “three years”.
+
 1990—Pub. L. 101–647 struck out final period at end.
 
 1988—Pub. L. 100–690 substituted “shall, for an attempt to commit murder be imprisoned not more than twenty years or fined under this title, or both, and for an attempt to commit manslaughter be imprisoned not more than three years or fined under this title, or both.” for “shall be fined not more than $1,000 or imprisoned not more than three years, or both”.
@@ -24,5 +26,5 @@ Actions aboard aircraft in special aircraft jurisdiction of United States in vio
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 115, 930, 1116, 1119, 5032 of this title; title 49 section 46506.
+This section is referred to in sections 115, 930, 1114, 1116, 1119, 5032 of this title; title 49 section 46506.
 

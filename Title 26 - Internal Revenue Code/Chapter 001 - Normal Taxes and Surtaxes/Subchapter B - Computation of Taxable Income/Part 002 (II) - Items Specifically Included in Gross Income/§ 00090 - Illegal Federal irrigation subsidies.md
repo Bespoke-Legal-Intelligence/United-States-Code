@@ -18,7 +18,7 @@ For purposes of this section—
 
 #### (2) Federal irrigation water
 
-&emsp;The term “Federal irrigation water” means any water made available for agricultural purposes from the operation of any reclamation or irrigation project referred to in paragraph (8) of section 202 of the Reclamation Reform Act of 1982.
+&emsp;The term “Federal irrigation water” means any water made available for agricultural purposes from the operation of any reclamation or irrigation project referred to in paragraph\(8) of section 202 of the Reclamation Reform Act of 1982.
 
 #### (c) Denial of deduction
 

@@ -6,7 +6,7 @@ Except as provided in subsection (d) of this section, any oil or gas produced fr
 
 #### (b) Condition precedent to exportation; express finding by President of no increase in reliance on imported oil or gas
 
-Before any oil or gas subject to this section may be exported under the requirements and provisions of the Export Administration Act of 1969, the President shall make and publish an express finding that such exports will not increase reliance on imported oil or gas, are in the national interest, and are in accord with the provisions of the Export Administration Act of 1969.
+Before any oil or gas subject to this section may be exported under the requirements and provisions of the Export Administration Act of 1969, the President shall make and publish an express finding that such exports will not increasereliance on imported oil or gas, are in the national interest, and are in accord with the provisions of the Export Administration Act of 1969.
 
 #### (c) Report of findings by President to Congress; joint resolution of disagreement with findings of President
 

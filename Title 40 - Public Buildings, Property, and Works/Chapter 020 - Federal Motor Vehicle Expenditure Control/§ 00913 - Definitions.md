@@ -2,7 +2,7 @@
 
 For purposes of this chapter—
 
-&emsp;(1) the term “executive agency” means an Executive agency (as such term is defined in section 105 of title 5), which operates at leastthree hundred motor vehicles, except that such term does not include the Tennessee Valley Authority;
+&emsp;(1) the term “executive agency” means an Executive agency (as such term is defined in section 105 of title 5), which operates at least three hundred motor vehicles, except that such term does not include the Tennessee Valley Authority;
 
 &emsp;(2) the term “Director” means the Director of the Office of Management and Budget;
 

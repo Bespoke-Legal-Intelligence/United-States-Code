@@ -42,7 +42,7 @@ If any notice of disapproval of a repository site designation has been submitted
 
 &emsp;&emsp;(i) the procedure with respect to that or other resolutions of the Senate with respect to such site shall be the same as if no resolution from the House with respect to such site had been received; but
 
-&emsp;&emsp;(ii) on any vote on final passage of a resolution of the Senate with respect to such site, a resolution from the House with respect to such site where the text is identical shall be automatically substituted for the resolution of the Senate.
+&emsp;&emsp;(ii) on any vote on final passage of a resolution of the Senate with respect to suchsite, a resolution from the House with respect to such site where the text is identical shall be automatically substituted for the resolution of the Senate.
 
 #### (e) Procedures applicable to House of Representatives
 
@@ -56,7 +56,7 @@ If any notice of disapproval of a repository site designation has been submitted
 
 (3) Upon the expiration of 60 days of continuous session after the introduction of the first resolution of repository siting approval with respect to any site, each committee to which such resolution was referred shall be discharged from further consideration of such resolution, and such resolution shall be referred to the appropriate calendar, unless such resolution or an identical resolution was previously reported by each committee to which it was referred.
 
-(4) It shall be in order for the Speaker to recognize a Member favoring a resolution to call up a resolution of repository siting approval afterit has been on the appropriate calendar for 5 legislative days. When any such resolution is called up, the House shall proceed to its immediate consideration and the Speaker shall recognize the Member calling up such resolution and a Member opposed to such resolution for 2 hours of debate in the House, to be equally divided and controlled by such Members. When such time has expired, the previous question shall be considered as ordered on the resolution to adoption without intervening motion. No amendment to any such resolution shall be in order, nor shall it be in order to move to reconsider the vote by which such resolution is agreed to or disagreed to.
+(4) It shall be in order for the Speaker to recognize a Member favoring a resolution to call up a resolution of repository siting approval after it has been on the appropriate calendar for 5 legislative days. When any such resolution is called up, the House shall proceed to its immediate consideration and the Speaker shall recognize the Member calling up such resolution and a Member opposed to such resolution for 2 hours of debate in the House, to be equally divided and controlled by such Members. When such time has expired, the previous question shall be considered as ordered on the resolution to adoption without intervening motion. No amendment to any such resolution shall be in order, nor shall it be in order to move to reconsider the vote by which such resolution is agreed to or disagreed to.
 
 (5) If the House receives from the Senate a resolution of repository siting approval with respect to any site, then the following procedure shall apply:
 

@@ -22,15 +22,15 @@
 
 > shall be fined under this title or imprisoned not more than six months, or both.
 
-(c) For the purpose of this section “foreign government”, “foreign official”, “internationally protected person”, “international organization”, and “official guest” shall have the same meanings as those provided in section 1116(b) of this title.
+(c) For the purpose of this section “foreign government”, “foreign official”, “internationally protected person”, “international organization”, “national of the United States”, and “official guest” shall have the same meanings as those provided in section 1116(b) of this title.
 
 (d) Nothing contained in this section shall be construed or applied so as to abridge the exercise of rights guaranteed under the first amendment to the Constitution of the United States.
 
-(e) If the victim of an offense under subsection (a) is an internationally protected person, the United States may exercise jurisdiction over the offense if the alleged offender is present within the United States, irrespective of the place where the offense was committed or the nationality of the victim or the alleged offender. As used in this subsection, the United States includes all areas under the jurisdiction of the United States including any of the places within the provisions of sections 5 and 7 of this title and section 46501(2) of title 49.
+(e) If the victim of an offense under subsection (a) is an internationally protected person outside the United States, the United States may exercise jurisdiction over the offense if (1) the victim is a representative, officer, employee, or agent of the United States, (2) an offender is a national of the United States, or (3) an offender is afterwards found in the United States. As used in this subsection, the United States includes all areas under the jurisdiction of the United States including any of the places within the provisions of sections 5 and 7 of this title and section 46501(2) of title 49.
 
 (f) In the course of enforcement of subsection (a) and any other sections prohibiting a conspiracy or attempt to violate subsection (a), the Attorney General may request assistance from any Federal, State, or local agency, including the Army, Navy, and Air Force, any statute, rule, or regulation to the contrary, notwithstanding.
 
-(June 25, 1948, ch. 645, 62 Stat. 688; Aug. 27, 1964, Pub. L. 88–493, §1, 78 Stat. 610; Oct. 24, 1972, Pub. L. 92–539, title III, §301, 86 Stat. 1072; Oct. 8, 1976, Pub. L. 94–467, §5, 90 Stat. 1999; Nov. 9, 1977, Pub. L. 95–163, §17(b)(1), 91 Stat. 1286; Oct. 24, 1978, Pub. L. 95–504, §2(b), 92 Stat. 1705; Nov. 18, 1988, Pub. L. 100–690, title VI, §6478, 102 Stat. 4381; July 5, 1994, Pub. L. 103–272, §5(e)(2), 108 Stat. 1373; Sept. 13, 1994, Pub. L. 103–322, title XXXII, §320101(b), title XXXIII, §330016(1)(G), (K), 108 Stat. 2108, 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 688; Aug. 27, 1964, Pub. L. 88–493, §1, 78 Stat. 610; Oct. 24, 1972, Pub. L. 92–539, title III, §301, 86 Stat. 1072; Oct. 8, 1976, Pub. L. 94–467, §5, 90 Stat. 1999; Nov. 9, 1977, Pub. L. 95–163, §17(b)(1), 91 Stat. 1286; Oct. 24, 1978, Pub. L. 95–504, §2(b), 92 Stat. 1705; Nov. 18, 1988, Pub. L. 100–690, title VI, §6478, 102 Stat. 4381; July 5, 1994, Pub. L. 103–272, §5(e)(2), 108 Stat. 1373; Sept. 13, 1994, Pub. L. 103–322, title XXXII, §320101(b), title XXXIII, §330016(1)(G), (K), 108 Stat. 2108, 2147; Apr. 24, 1996, Pub. L. 104–132, title VII, §721(d), 110 Stat. 1298; Oct. 11, 1996, Pub. L. 104–294, title VI, §604(b)(12)(A), 110 Stat. 3507.)
 
 #### Historical and Revision Notes
 
@@ -40,9 +40,17 @@ Punishment provision was rewritten to make it more definite by substituting a ma
 
 #### Amendments
 
-1994—Subsec. (a). Pub. L. 103–322, §320101(b)(2), (3), inserted “, or inflicts bodily injury,” after “weapon” and substituted “under this title” for “not more than $10,000” before “or imprisoned not more than ten years”.
+1996—Subsec. (a). Pub. L. 104–294 repealed Pub. L. 103–322, §320101(b)(1). See 1994 Amendment note below.
 
-Pub. L. 103–322, §§320101(b)(1), 330016(1)(K), amended subsec. (a) identically, substituting “under this title” for “not more than $5,000” before “or imprisoned not more than three years”.
+Subsec. (c). Pub. L. 104–132, §721(d)(1), inserted “ ‘national of the United States’,” before “and ‘official guest’ ”.
+
+Subsec. (e). Pub. L. 104–132, §721(d)(2), inserted first sentence and struck out former first sentence which read as follows: “If the victim of an offense under subsection (a) is an internationally protected person, the United States may exercise jurisdiction over the offense if the alleged offender is present within the United States, irrespective of the place where the offense was committed or the nationality of the victim or the alleged offender.”
+
+1994—Subsec. (a). Pub. L. 103–322, §330016(1)(K), substituted “under this title” for “not more than $5,000” before “or imprisoned not more than three years”.
+
+Pub. L. 103–322, §320101(b)(2), (3), inserted “, or inflicts bodily injury,” after “weapon” and substituted “under this title” for “not more than $10,000” before “or imprisoned not more than ten years”.
+
+Pub. L. 103–322, §320101(b)(1), which provided for amendment identical to Pub. L. 103–322, §330016(1)(K), above, was repealed by Pub. L. 104–294, §604(b)(12)(A).
 
 Subsec. (b). Pub. L. 103–322, §330016(1)(G), in concluding provisions, substituted “under this title” for “not more than $500”.
 
@@ -69,6 +77,10 @@ Subsecs. (d) to (f). Pub. L. 94–467 added subsecs. (e) and (f) and redesignate
 Subsecs. (b) to (e). Pub. L. 92–539 added subsecs. (b) to (e).
 
 1964—Pub. L. 88–493 included heads of foreign states or governments and foreign ministers.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–294 effective Sept. 13, 1994, see section 604(d) of Pub. L. 104–294, set out as a note under section 13 of this title.
 
 #### Short Title of 1976 Amendment
 

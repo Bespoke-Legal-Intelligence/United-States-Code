@@ -4,7 +4,7 @@
 
 The Director shall make available to the public—
 
-&emsp;(1) any written agreement or other written statement for which a violation may be redressed by the Director or any modification to or termination thereof, unless the Director, inthe Director's discretion, determines that public disclosure would be contrary to the public interest;
+&emsp;(1) any written agreement or other written statement for which a violation may be redressed by the Director or any modification to or termination thereof, unless the Director, in the Director's discretion, determines that public disclosure would be contrary to the public interest;
 
 &emsp;(2) any order that is issued with respect to any administrative enforcement proceeding initiated by the Director under this subchapter and that has become final in accordance with sections 4633 and 4634 of this title; and
 

@@ -14,7 +14,7 @@ With respect to the programs authorized in subchapters II through VIII of this c
 
 #### (3) Inequitable treatment
 
-&emsp;Patterns of inequitable treatment of minorities have been documented in all major junctures of the vocational rehabilitation process. As compared to white Americans, a larger percentage of African-American applicants to the vocational rehabilitation system is denied acceptance. Of applicants accepted for service, a larger percentage of African-American cases is closed without being rehabilitated. Minorities are provided less training than their white counterparts. Consistently, less money is spent on minorities than on their white counterparts.
+&emsp;Patterns of inequitable treatment of minorities have been documented in all major junctures of the vocational rehabilitation process. As compared to white Americans, a larger percentage of African-American applicants to the vocational rehabilitation system is denied acceptance. Of applicants accepted for service, a larger percentage of African-American cases is closed without being rehabilitated. Minoritiesare provided less training than their white counterparts. Consistently, less money is spent on minorities than on their white counterparts.
 
 #### (4) Recruitment
 

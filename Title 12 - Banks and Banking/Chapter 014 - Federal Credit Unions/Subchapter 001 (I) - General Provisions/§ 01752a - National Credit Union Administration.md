@@ -6,7 +6,7 @@ There is established in the executive branch of the Government an independent ag
 
 #### (b) Membership of Board; designation of Chairman
 
-The Board shall consist of three members, who are broadly representative of the public interest, appointed by the President, by and with the advice and consent of the Senate. In appointing the members of the Board, the President shalldesignate the Chairman. Not more than two members of the Board shall be members of the same political party.
+The Board shall consist of three members, who are broadly representative of the public interest, appointed by the President, by and with the advice and consent of the Senate. In appointingthe members of the Board, the President shall designate the Chairman. Not more than two members of the Board shall be members of the same political party.
 
 #### (c) Term of office
 
@@ -44,7 +44,7 @@ Section 5 of act June 29, 1948 provided that the Act was to become effective on 
 
 1978—Pub. L. 95–630 generally revised section to eliminate the position of Administrator and to vest the management of the National Credit Union Administration in the National Credit Union Administration Board.
 
-1970—Pub. L. 91–206 designated existing provisions as subsec. (a), substituted provisions establishing an independent agency known as the National Credit UnionAdministration and an Administrator of such National Credit Union Administration for provisions establishing a Bureau of Federal Credit Unions under the supervision of a Director, which Director was appointed by, and, under the general direction and supervision of, the Secretary of Health, Education, and Welfare, and added subsecs. (b) to (f).
+1970—Pub. L. 91–206 designated existing provisions as subsec. (a), substituted provisions establishing an independent agency known as the National Credit Union Administration and an Administrator of such National Credit Union Administration for provisions establishing a Bureau of Federal Credit Unions under the supervision of a Director, which Director was appointed by, and, under the general direction and supervision of, the Secretary of Health, Education, and Welfare, and added subsecs. (b) to (f).
 
 #### Effective Date of 1978 Amendment
 
@@ -57,6 +57,68 @@ Section 6 of Pub. L. 91–206 provided that:
 “(a) All functions, property, records, and personnel of the Bureau of Federal Credit Unions are transferred to the National Credit Union Administration created by this Act \[which generally amended this chapter\].
 
 “(b) The Director of the Bureau of Federal Credit Unions in office on the date of enactment of this Act \[Mar. 10, 1970\] shall serve as acting Administrator of the National Credit Union Administration pending the appointment of an Administrator in accordance with section 3 of the Federal Credit Union Act as amended by this Act \[this section\].”
+
+#### Study of Corporate Credit Unions
+
+Pub. L. 104–208, div. A, title II, §2606, Sept. 30, 1996, 110 Stat. 3009–473, provided that:
+
+“(a)
+
+Definitions.—For purposes of this section, the following definitions shall apply:
+
+&emsp;“(1)
+
+Administration.—The term ‘Administration’ means the National Credit Union Administration.
+
+&emsp;“(2)
+
+Board.—The term ‘Board’ means the National Credit Union Administration Board.
+
+&emsp;“(3)
+
+Corporate credit union.—The term ‘corporate credit union’ has the meaning given such term by rule or regulation of the Board.
+
+&emsp;“(4)
+
+Fund.—The term ‘Fund’ means the National Credit Union Share Insurance Fund established under section 203 of the Federal Credit Union Act \[12 U.S.C. 1783\].
+
+&emsp;“(5)
+
+Secretary.—The term ‘Secretary’ means the Secretary of the Treasury.
+
+“(b)
+
+Study.—
+
+&emsp;“(1)
+
+In general.—The Secretary, in consultation with the Board, the Corporation, the Comptroller of the Currency, and the Administration, shall conduct a study and evaluation of—
+
+&emsp;&emsp;“(A) the oversight and supervisory practices of the Administration concerning the Fund, including the treatment of amounts deposited in the Fund pursuant to section 202(c) of the Federal Credit Union Act \[12 U.S.C. 1782(c)\], including analysis of—
+
+&emsp;&emsp;&emsp;“(i) whether those amounts should be—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) refundable; or
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) treated as expenses; and
+
+&emsp;&emsp;&emsp;“(ii) the use of those amounts in determining equity capital ratios;
+
+&emsp;&emsp;“(B) the potential for, and potential effects of, administration of the Fund by an entity other than the Administration;
+
+&emsp;&emsp;“(C) the 10 largest corporate credit unions in the United States, conducted in cooperation with appropriate employees of other Federal agencies with expertise in the examination of federally insured financial institutions, including—
+
+&emsp;&emsp;&emsp;“(i) the investment practices of those credit unions; and
+
+&emsp;&emsp;&emsp;“(ii) the financial stability, financial operations, and financial controls of those credit unions;
+
+&emsp;&emsp;“(D) the regulations of the Administration; and
+
+&emsp;&emsp;“(E) the supervision of corporate credit unions by the Administration.
+
+“(c)
+
+Report.—Not later than 12 months after the date of enactment of this Act \[Sept. 30, 1996\], the Secretary shall submit to the appropriate committees of the Congress, a report that includes the results of the study and evaluation conducted under subsection (b), together with any recommendations that the Secretary considers to be appropriate.”
 
 #### Study of Credit Union System by General Accounting Office
 

@@ -8,7 +8,7 @@
 
 &emsp;(3) the Comptroller of the Currency, the National Credit Union Administration, and the Director of the Office of Thrift Supervision have recognized the importance of alternative mortgage transactions and have adopted regulations authorizing federally chartered depository institutions to engage in alternative mortgage financing.
 
-(b) It is the purpose of this chapter to eliminate the discriminatory impact that those regulations have upon nonfederally chartered housing creditors and provide them with parity with federally chartered institutions by authorizing all housing creditors to make, purchase, and enforce alternative mortgage transactions so long as the transactions are in conformity with the regulations issued by the Federal agencies.
+(b) It is the purpose of this chapter to eliminate the discriminatory impact that those regulations have upon nonfederally chartered housing creditors and provide them with parity with federally chartered institutions by authorizing all housing creditors to make, purchase, and enforce alternative mortgage transactions so longas the transactions are in conformity with the regulations issued by the Federal agencies.
 
 (Pub. L. 97–320, title VIII, §802, Oct. 15, 1982, 96 Stat. 1545; Pub. L. 101–73, title VII, §744(c), Aug. 9, 1989, 103 Stat. 438.)
 

@@ -6,7 +6,7 @@
 | :--- | ---: |
 | [3301\.](Subchapter%20001%20%28I%29%20-%20Examination%2C%20Certification%2C%20and%20Appointment/%C2%A7%2003301%20-%20Civil%20service%3B%20generally.md) | Civil service; generally. |
 | [3302\.](Subchapter%20001%20%28I%29%20-%20Examination%2C%20Certification%2C%20and%20Appointment/%C2%A7%2003302%20-%20Competitive%20service%3B%20rules.md) | Competitive service; rules. |
-| [3303\.](Subchapter%20001%20%28I%29%20-%20Examination%2C%20Certification%2C%20and%20Appointment/%C2%A7%2003303%20-%20Political%20recommendations.md) | Political recommendations. |
+| [3303\.](Subchapter%20001%20%28I%29%20-%20Examination%2C%20Certification%2C%20and%20Appointment/%C2%A7%2003303%20-%20Competitive%20service%3B%20recommendations%20of%20Senators%20or%20Representatives.md) | Competitive service; recommendations of Senators or Representatives. |
 | [3304\.](Subchapter%20001%20%28I%29%20-%20Examination%2C%20Certification%2C%20and%20Appointment/%C2%A7%2003304%20-%20Competitive%20service%3B%20examinations.md) | Competitive service; examinations. |
 | [3304a.](Subchapter%20001%20%28I%29%20-%20Examination%2C%20Certification%2C%20and%20Appointment/%C2%A7%2003304a%20-%20Competitive%20service%3B%20career%20appointment%20after%203%20years%E2%80%99%20temporary%20service.md) | Competitive service; career appointment after 3 years’ temporary service. |
 | [3305\.](Subchapter%20001%20%28I%29%20-%20Examination%2C%20Certification%2C%20and%20Appointment/%C2%A7%2003305%20-%20Competitive%20service%3B%20examinations%3B%20when%20held.md) | Competitive service; examinations; when held. |
@@ -132,29 +132,33 @@
 
 #### Amendments
 
-<b>1995</b>—Pub. L. 104–52, title IV, §4(2), Nov. 19, 1995, 109 Stat. 490, redesignated item 3329 “Government-wide list of vacant positions” as item 3330.
+1996—Pub. L. 104–197, title III, §315(b)(1), Sept. 16, 1996, 110 Stat. 2416, substituted “Competitive service; recommendations of Senators or Representatives” for “Political recommendations” in item 3303.
 
-<b>1993</b>—Pub. L. 103–94, §8(b), Oct. 6, 1993, 107 Stat. 1007, substituted “Political recommendations” for “Competitive service; recommendations of Senators or Representatives” in item 3303.
+Pub. L. 104–106, div. A, title X, §1037(b)(2), Feb. 10, 1996, 110 Stat. 432, which directed substitution of “3330. Government-wide list of vacant positions” for the item relating to section 3329, as added by section 4431(b) of Pub. L. 104–484, could not be executed because of the intervening amendment by Pub. L. 104–52, §4(2). See 1995 Amendment note below.
 
-<b>1992</b>—Pub. L. 102–484, div. A, title V, §544(b), div. D, title XLIV, §4431(b), Oct. 23, 1992, 106 Stat. 2415, 2720, added two items 3329.
+1995—Pub. L. 104–52, title IV, §4(2), Nov. 19, 1995, 109 Stat. 490, redesignated item 3329 “Government-wide list of vacant positions” as item 3330.
+
+1993—Pub. L. 103–94, §8(b), Oct. 6, 1993, 107 Stat. 1007, substituted “Political recommendations” for “Competitive service; recommendations of Senators or Representatives” in item 3303.
+
+1992—Pub. L. 102–484, div. A, title V, §544(b), div. D, title XLIV, §4431(b), Oct. 23, 1992, 106 Stat. 2415, 2720, added two items 3329.
 
 Pub. L. 102–378, §2(13)(B), Oct. 2, 1992, 106 Stat. 1347, struck out item 3342 “Federal participants in executive exchange programs”.
 
-<b>1990</b>—Pub. L. 101–509, title V, §529 \[title I, §101(b)(9)(C)(iii)\], Nov. 5, 1990, 104 Stat. 1427, 1441, substituted “Appointments to positions classified above GS–15” for “Appointments at GS–16, 17, and 18” in item 3324.
+1990—Pub. L. 101–509, title V, §529 \[title I, §101(b)(9)(C)(iii)\], Nov. 5, 1990, 104 Stat. 1427, 1441, substituted “Appointments to positions classified above GS–15” for “Appointments at GS–16, 17, and 18” in item 3324.
 
 Pub. L. 101–416, §2(a)(2), Oct. 12, 1990, 104 Stat. 903, added item 3342.
 
-<b>1989</b>—Pub. L. 101–194, title V, §506(a)(2), Nov. 30, 1989, 103 Stat. 1758, added item 3393a.
+1989—Pub. L. 101–194, title V, §506(a)(2), Nov. 30, 1989, 103 Stat. 1758, added item 3393a.
 
 Pub. L. 101–12, §5(b), Apr. 10, 1989, 103 Stat. 33, added item 3352.
 
-<b>1988</b>—Pub. L. 100–398, §7(a)(3), Aug. 17, 1988, 102 Stat. 988, inserted “agency” after “Executive” in item 3345.
+1988—Pub. L. 100–398, §7(a)(3), Aug. 17, 1988, 102 Stat. 988, inserted “agency” after “Executive” in item 3345.
 
-<b>1985</b>—Pub. L. 99–145, title XVI, §1622(a)(2), Nov. 8, 1985, 99 Stat. 777, added item 3328.
+1985—Pub. L. 99–145, title XVI, §1622(a)(2), Nov. 8, 1985, 99 Stat. 777, added item 3328.
 
-<b>1979</b>—Pub. L. 96–54, §2(a)(13), Aug. 14, 1979, 93 Stat. 382, struck out item 3315a “Registers; individuals receiving compensation for work injuries”.
+1979—Pub. L. 96–54, §2(a)(13), Aug. 14, 1979, 93 Stat. 382, struck out item 3315a “Registers; individuals receiving compensation for work injuries”.
 
-<b>1978</b>—Pub. L. 95–454, title III, §§303(b), 307(h)(2), 309(b), title IV, §403(b), title IX, §906(c)(4), Oct. 13, 1978, 92 Stat. 1146, 1149, 1152, 1165, 1227, substituted “probationary period” for “probation; period of” in item 3321, struck out item 3319 “Competitive service; selection; members of family restriction”, added items 3327 and 3391 to 3397, and struck out items 3391 to 3398.
+1978—Pub. L. 95–454, title III, §§303(b), 307(h)(2), 309(b), title IV, §403(b), title IX, §906(c)(4), Oct. 13, 1978, 92 Stat. 1146, 1149, 1152, 1165, 1227, substituted “probationary period” for “probation; period of” in item 3321, struck out item 3319 “Competitive service; selection; members of family restriction”, added items 3327 and 3391 to 3397, and struck out items 3391 to 3398.
 
 Pub. L. 95–437, §3(b), Oct. 10, 1978, 92 Stat. 1058, added heading for subchapter VII and items 3391 to 3398.
 
@@ -164,25 +168,23 @@ Pub. L. 95–251, §2(c)(3), Mar. 27, 1978, 92 Stat. 184, substituted “adminis
 
 Pub. L. 95–228, §2(a), Feb. 10, 1978, 92 Stat. 25, struck out item 3306 “Competitive service; departmental service; apportionment”.
 
-<b>1975</b>—Pub. L. 94–183, §2(7), Dec. 31, 1975, 89 Stat. 1057, struck out item 3364 “Promotion; substitute employees in the postal field service”.
+1975—Pub. L. 94–183, §2(7), Dec. 31, 1975, 89 Stat. 1057, struck out item 3364 “Promotion; substitute employees in the postal field service”.
 
-<b>1972</b>—Pub. L. 92–297, §§2(b), 3(b), May 16, 1972, 86 Stat. 142, 144, substituted “maximum age entrance requirements, exceptions” for “maximum age requirement; restriction on use of appropriated funds” in item 3307, and added subchapter VII and items 3381 to 3385.
+1972—Pub. L. 92–297, §§2(b), 3(b), May 16, 1972, 86 Stat. 142, 144, substituted “maximum age entrance requirements, exceptions” for “maximum age requirement; restriction on use of appropriated funds” in item 3307, and added subchapter VII and items 3381 to 3385.
 
-<b>1971</b>—Pub. L. 91–648, title IV, §402(b), Jan. 5, 1971, 84 Stat. 1925, added heading for subchapter VI and items 3371 to 3376.
+1971—Pub. L. 91–648, title IV, §402(b), Jan. 5, 1971, 84 Stat. 1925, added heading for subchapter VI and items 3371 to 3376.
 
-<b>1970</b>—Pub. L. 91–375, §6(c)(7)(B), Aug. 12, 1970, 84 Stat. 776, struck out item 3327 “Postmasters; standards for determination of qualifications”.
+1970—Pub. L. 91–375, §6(c)(7)(B), Aug. 12, 1970, 84 Stat. 776, struck out item 3327 “Postmasters; standards for determination of qualifications”.
 
-<b>1967</b>—Pub. L. 90–105, §1(b), Oct. 11, 1967, 81 Stat. 273, added item 3304a.
+1967—Pub. L. 90–105, §1(b), Oct. 11, 1967, 81 Stat. 273, added item 3304a.
 
 Pub. L. 90–83, §1(9)(B), Sept. 11, 1967, 81 Stat. 197, added item 3315a.
 
-<b>1966</b>—Pub. L. 89–762, §1(b), Nov. 5, 1966, 80 Stat. 1312, struck out item 3342 “Details; field to departmental service prohibited”.
+1966—Pub. L. 89–762, §1(b), Nov. 5, 1966, 80 Stat. 1312, struck out item 3342 “Details; field to departmental service prohibited”.
 
 #### Chapter Referred to in Other Sections
 
 This chapter is referred to in title 31 section 3801; title 42 sections 290aa, 2297b–4.
-
-<i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
 
 
 ---

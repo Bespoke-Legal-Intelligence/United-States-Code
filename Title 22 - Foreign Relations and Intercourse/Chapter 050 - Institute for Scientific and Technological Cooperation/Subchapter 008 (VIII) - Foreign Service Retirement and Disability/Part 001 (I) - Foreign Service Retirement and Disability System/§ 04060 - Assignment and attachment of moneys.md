@@ -2,7 +2,7 @@
 
 #### (a) Annuities and severance pay benefits
 
-(1) An individual entitled to an annuity from the Fund may make allotments or assignments of amounts from such annuity for such purposes as the Secretary of State in his or her sole discretion considers appropriate.
+(1) An individual entitled to an annuity from the Fund may make allotments or assignmentsof amounts from such annuity for such purposes as the Secretary of State in his or her sole discretion considers appropriate.
 
 (2) Notwithstanding section 3727 of title 31 or any other law, a member of the Service who is entitled to receive benefits under section 4009(b)(1) of this title may assign to any person the whole or any part of those benefits. Any such assignment shall be on a form approved by the Secretary of the Treasury and a copy of such assignment form shall be deposited with the Secretary of the Treasury by the member executing the assignment.
 
@@ -26,7 +26,7 @@
 
 (2) Except with respect to obligations between participants and former spouses, payments under this part which would otherwise be made to a participant or annuitant based upon his or her service shall be paid (in whole or in part) by the Secretary of State to another individual to the extent expressly provided for in the terms of any order or any court decree of legal separation, or the terms of any court order or court-approved property settlement agreement incident to any court decree of legal separation.
 
-(3) Paragraphs (1) and (2) shall apply only to payments made under this part for periods beginning after the date of receipt by the Secretary of State of written notice of such decree,order, or agreement, and such additional information and such documentation as the Secretary of State may require.
+(3) Paragraphs (1) and (2) shall apply only to payments made under this part for periods beginning after the date of receipt by the Secretary of State of written notice of such decree, order, or agreement, and such additional information and such documentation as the Secretary of State may require.
 
 (4) Any payment under this subsection to an individual bars recovery by any other individual.
 

@@ -1,6 +1,6 @@
 ### §169j–1. Martin Luther King, Jr. Federal Holiday Commission
 
-There is established a commission to be known as the Martin Luther King, Jr. FederalHoliday Commission (hereinafter in this Act referred to as the “Commission”).
+There is established a commission to be known as the Martin Luther King, Jr. Federal Holiday Commission (hereinafter in this Act referred to as the “Commission”).
 
 (Pub. L. 98–399, §2, Aug. 27, 1984, 98 Stat. 1473.)
 

@@ -2,7 +2,7 @@
 
 (a)
 
-General Penalty.—A person knowingly and willfully violating section 60114(c) or 60118(a) of this title or a regulation prescribed or order issued under this chapter shall be fined under title 18, imprisoned for not more than 5 years, or both.
+General Penalty.—A person knowingly and willfully violating section 60114(c),<sup>1</sup> 60118(a), or 60128 of this title or a regulation prescribed or order issued under this chapter shall be fined under title 18, imprisoned for not more than 5 years, or both.
 
 (b)
 
@@ -10,7 +10,7 @@ Penalty for Damaging or Destroying Facility.—A person knowingly and willfully 
 
 (c)
 
-Penalty for Damaging or Destroying Sign.—A person knowingly and willfully defacing, damaging, removing, or destroying a pipeline sign or right-of-way marker required by a law or regulation of the United States shall be fined under title 18, imprisoned for not more than one year, or both.
+Penalty for Damaging or Destroying Sign.—A person knowingly and willfully defacing, damaging, removing, or destroying a pipeline sign or right-of-way marker required by alaw or regulation of the United States shall be fined under title 18, imprisoned for not more than one year, or both.
 
 (d)
 
@@ -24,15 +24,19 @@ Penalty for Not Using One-Call Notification System or Not Heeding Location Infor
 
 &emsp;(2) subsequently damages—
 
-&emsp;&emsp;(A) a pipeline facility that results in death, serious bodily harm, or actual damage to property of more than $50,000; or
+&emsp;&emsp;(A) a pipeline facility that results in death, serious bodily harm, or actual damage to property of more than $50,000;
 
-&emsp;&emsp;(B) a hazardous liquid pipeline facility that results in the release of more than 50 barrels of product.
+&emsp;&emsp;(B) a pipeline facility that does not report the damage promptly to the operator of the pipeline facility and to other appropriate authorities; or
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1325.)
+&emsp;&emsp;(C) a hazardous liquid pipeline facility that results in the release of more than 50 barrels of product.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1325; Pub. L. 104–304, §§14, 18(b)(1), Oct. 12, 1996, 110 Stat. 3803, 3804.)
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -86,7 +90,19 @@ In subsection (a), the word “prescribed” is added for consistency in the rev
 
 In subsection (b), the word “damaging” is substituted for “injures”, and the word “damage” is substituted for “injure”, for clarity.
 
+#### References in Text
+
+Section 60114(c) of this title, referred to in subsec. (a), was redesignated section 60114(b) by Pub. L. 104–304, §20(d), Oct. 12, 1996, 110 Stat. 3804.
+
+#### Amendments
+
+1996—Subsec. (a). Pub. L. 104–304, §18(b)(1), substituted “, 60118(a), or 60128” for “or 60118(a)”.
+
+Subsec. (d)(2). Pub. L. 104–304, §14, added subpar. (B) and redesignated former subpar. (B) as (C).
+
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 60108, 60114 of this title; title 18 section 2516.
+This section is referred to in section 60108 of this title; title 18 sections 2332b, 2516.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

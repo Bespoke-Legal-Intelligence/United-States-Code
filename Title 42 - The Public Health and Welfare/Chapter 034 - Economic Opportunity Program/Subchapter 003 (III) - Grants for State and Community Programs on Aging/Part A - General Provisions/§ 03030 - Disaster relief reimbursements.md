@@ -10,7 +10,7 @@
 
 #### (b) Setting aside of funds by Assistant Secretary
 
-(1) At the beginning of each fiscal year the Assistant Secretary shall set aside, for payment toStates under subsection (a) of this section, an amount equal to 2 percent of the total amount appropriated and available to carry out subchapter IV of this chapter.
+(1) At the beginning of each fiscal year the Assistant Secretary shall set aside, for payment to States under subsection (a) of this section, an amount equal to 2 percent of the total amount appropriated and available to carry out subchapter IV of this chapter.
 
 (2) Amounts set aside under paragraph (1) which are not obligated by the end of the third quarter of any fiscal year shall be made available to carry out subchapter IV of this chapter.
 
@@ -30,7 +30,7 @@ The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to
 
 Subsec. (a)(1). Pub. L. 103–171, §2(10), substituted “Robert T. Stafford Disaster Relief and Emergency Assistance Act” for “Disaster Relief and Emergency Assistance Act”.
 
-1992—Subsec. (a)(1). Pub. L. 102–375, §§102(b)(10)(A), 309(1)(A), substituted “area agencies on aging” for “area agencies” and inserted “(and related supplies)” after “supportive services”.
+1992—Subsec. (a)(1). Pub. L. 102–375, §§102(b)(10)(A), 309(1)(A), substituted “area agencies on aging” for“area agencies” and inserted “(and related supplies)” after “supportive services”.
 
 Subsec. (a)(2). Pub. L. 102–375, §309(2), substituted “2 percent” for “5 percent” and “to carry out subchapter IV of this chapter” for “for carrying out the purposes of section 3035a of this title”.
 

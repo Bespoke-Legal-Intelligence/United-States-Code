@@ -72,11 +72,11 @@
 
 For purposes of this section, the term “Committees” means the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate.
 
-(June 17, 1930, ch. 497, title IV, §413, as added Dec. 8, 1993, Pub. L. 103–182, title VI, §631(2), 107 Stat. 2189.)
+(June 17, 1930, ch. 497, title IV, §413, as added Dec. 8, 1993, Pub. L. 103–182, title VI, §631(2), 107 Stat. 2189; amended Oct. 11, 1996, Pub. L. 104–295, §21(e)(15), 110 Stat. 3531.)
 
-#### Codification
+#### Amendments
 
-December 8, 1993, referred to in subsec. (a)(1), was in the original “the date of the enactment of this Act”,which was translated as meaning the date of enactment of Pub. L. 103–182, which enacted this section, to reflect the probable intent of Congress.
+1996—Subsec. (a)(1). Pub. L. 104–295 made technical amendment to reference in original act which appears in text as reference to December 8, 1993.
 
 #### Section Referred to in Other Sections
 

@@ -4,19 +4,23 @@
 
 General.—An air carrier holding a certificate issued under section 41102 of this title to provide foreign air transportation—
 
-&emsp;(1) may end or suspend the transportation to a place under the certificate only when the carrier gives at least 90 days notice of its intention to end or suspend the transportation to the Secretary, any community affected by that decision, and the State authority of the State in which a community is located; and
+&emsp;(1) may end or suspend the transportation to a place under the certificate only when the carrier gives at least 90 days notice of its intention to end or suspend the transportation to the Secretary of Transportation, any community affected by that decision, and the State authority of the State in which a community is located; and
 
-&emsp;(2) if it is the only air carrier holding a certificate to provide non-stop or single-plane foreign air transportation between 2 places, may end or suspend the transportation between those places only when the carrier gives at least 60 days notice of its intention to end or suspend the transportation to the Secretary and each community directly affected by that decision.
+&emsp;(2) if it is the only air carrier holding a certificate to provide non-stop or single-planeforeign air transportation between 2 places, may end or suspend the transportation between those places only when the carrier gives at least 60 days notice of its intention to end or suspend the transportation to the Secretary and each community directly affected by that decision.
 
 (b)
 
 Temporary Suspension.—The Secretary may authorize the temporary suspension of foreign air transportation under subsection (a) of this section when the Secretary finds the suspension is in the public interest.
 
-(Added Pub. L. 103–429, §6(51)(A), Oct. 31, 1994, 108 Stat. 4384.)
+(Added Pub. L. 103–429, §6(51)(A), Oct. 31, 1994, 108 Stat. 4384; amended Pub. L. 104–287, §5(72), Oct. 11, 1996, 110 Stat. 3396.)
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+Pub. L. 103–429
+
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -30,13 +34,13 @@ Aug. 23, 1958, Pub. L. 85–726, §401(j), 72 Stat. 756, as restated Oct. 24, 19
 
 &nbsp;
 
-49 App.:1551(a) (1)(D).
+49 App.:1551(a)(1)(D).
 
 Aug. 23, 1958, Pub. L. 85–726, §1601(a)(1)(D), as added Oct. 24, 1978, Pub. L. 95–504, §40(a), 92 Stat. 1744.
 
 &nbsp;
 
-49 App.:1551(b) (1)(E).
+49 App.:1551(b)(1)(E).
 
 Aug. 23, 1958, Pub. L. 85–726, §1601(b)(1)(E), as added Oct. 4, 1984, Pub. L. 98–443, §3(e), 98 Stat. 1704.
 
@@ -44,7 +48,7 @@ Aug. 23, 1958, Pub. L. 85–726, §1601(b)(1)(E), as added Oct. 4, 1984, Pub. L.
 
 49 App.:1371(j)(1) (last sentence).
 
-49 App.:1551(a) (1)(D), (b)(1)(E).
+49 App.:1551(a)(1)(D), (b)(1)(E).
 
 In the section, the text of 49 App.:1371(j) (related to interstate and overseas transportation of persons) is omitted because of 49 App.:1551(a)(1)(D). The text of 49 App.:1371(j) (related to other interstate and overseas air transportation and the domestic air transportation of mail) is omitted because a certificate of public convenience and necessity is no longer required. See H.R. Rept. 98–793, 98th Cong., 2d Sess., p. 10 (1984). The text of 49 App.:1371(j) (related to essential air transportation) is omitted as superseded by 49 App.:1389, restated as subchapter II of chapter 417 of title 49.
 
@@ -55,6 +59,14 @@ In subsection (a)(1), the words “which it is providing” are omitted as surpl
 In subsection (a)(2), the words “between those places” are substituted for “being provided by such air carrier under such certificate” to eliminate unnecessary words.
 
 In subsection (b), the words “by regulation or otherwise” are omitted as surplus. The words “when the Secretary finds the suspension is in” are substituted for “as may be” for clarity and consistency.
+
+#### Pub. L. 104–287
+
+This amends 49:41312(a)(1) to conform to the style of title 49.
+
+#### Amendments
+
+1996—Subsec. (a)(1). Pub. L. 104–287 substituted “Secretary of Transportation” for “Secretary”.
 
 #### Effective Date
 

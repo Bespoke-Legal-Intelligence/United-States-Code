@@ -1,6 +1,6 @@
 ### §1997f. Report to Congress
 
-The Attorney General shall include in his report to Congress on the business of the Department of Justice prepared pursuant to section 522 of title 28—
+The Attorney General shall include in the report to Congress on the business of the Department of Justice prepared pursuant to section 522 of title 28—
 
 &emsp;(1) a statement of the number, variety, and outcome of all actions instituted pursuant to this subchapter including the history of, precise reasons for, and procedures followed in initiation or intervention in each case in which action was commenced;
 
@@ -12,9 +12,11 @@ The Attorney General shall include in his report to Congress on the business of 
 
 &emsp;(5) the progress made in each Federal institution toward meeting existing promulgated standards for such institutions or constitutionally guaranteed minima.
 
-(Pub. L. 96–247, §8, May 23, 1980, 94 Stat. 353; Pub. L. 97–256, title II, §201(b), Sept. 8, 1982, 96 Stat. 817.)
+(Pub. L. 96–247, §8, May 23, 1980, 94 Stat. 353; Pub. L. 97–256, title II, §201(b), Sept. 8, 1982, 96 Stat. 817; Pub. L. 104–134, title I, §101\[(a)\] \[title VIII, §803(e)\], Apr. 26, 1996, 110 Stat. 1321, 1321–73; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.)
 
 #### Amendments
+
+1996—Pub. L. 104–134 substituted “the report” for “his report” in introductory provisions .
 
 1982—Pub. L. 97–256 substituted “Attorney General” for “Attorney”.
 

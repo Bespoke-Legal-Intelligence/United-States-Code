@@ -50,7 +50,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) any amount with respect to which the taxpayer is protected against loss through guarantees, stop-loss agreements, or other similar arrangements, and
 
-&emsp;&emsp;&emsp;&emsp;(II) except to the extent provided in regulations, any amount borrowed from a person who has an interest (other than as a creditor) in the activity in which the property is used or from a related person to a person (other than the taxpayer) having such an interest.
+&emsp;&emsp;&emsp;&emsp;(II) except to the extent provided in regulations, any amount borrowed froma person who has an interest (other than as a creditor) in the activity in which the property is used or from a related person to a person (other than the taxpayer) having such an interest.
 
 &emsp;&emsp;&nbsp;In the case of amounts borrowed by a corporation from a shareholder, subclause (II) shall not apply to an interest as a share-holder.<sup>1</sup>
 
@@ -140,7 +140,7 @@
 
 &emsp;Any increase in tax under paragraph (1) shall not be treated as tax imposed by this chapter for purposes of determining the amount of any credit allowable under subpart A, B, D, or G.
 
-(Added Pub. L. 99–514, title II, §211(a), Oct. 22, 1986, 100 Stat. 2166; amended Pub. L. 100–647, titleI, §1002(e)(1)–(3), (8)(B), Nov. 10, 1988, 102 Stat. 3367, 3369; Pub. L. 101–508, title XI, §11813(a), Nov. 5, 1990, 104 Stat. 1388–543.)
+(Added Pub. L. 99–514, title II, §211(a), Oct. 22, 1986, 100 Stat. 2166; amended Pub. L. 100–647, title I, §1002(e)(1)–(3), (8)(B), Nov. 10, 1988, 102 Stat. 3367, 3369; Pub. L. 101–508, title XI, §11813(a), Nov. 5, 1990, 104 Stat. 1388–543.)
 
 #### References in Text
 
@@ -160,7 +160,7 @@ A prior section 49, Pub. L. 91–172, title VII, §703(a), Dec. 30, 1969, 83 Sta
 
 &emsp;“(ii) shall be added to the carryforwards from the taxable year before applying paragraph (2).”
 
-Subsec. (c)(5)(B)(i). Pub. L. 100–647, §1002(e)(3), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “The term ‘regular investment credit’ has the meaning given such term by section 48(<i>o)”.</i>
+Subsec. (c)(5)(B)(i). Pub. L. 100–647, §1002(e)(3), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “The term ‘regular investment credit’ has the meaning given such term by section 48(<i>o</i>)”.
 
 Subsec. (c)(5)(C). Pub. L. 100–647, §1002(e)(8)(B), struck out subpar. (C) which related to portion of credits attributable to regular investment credit.
 

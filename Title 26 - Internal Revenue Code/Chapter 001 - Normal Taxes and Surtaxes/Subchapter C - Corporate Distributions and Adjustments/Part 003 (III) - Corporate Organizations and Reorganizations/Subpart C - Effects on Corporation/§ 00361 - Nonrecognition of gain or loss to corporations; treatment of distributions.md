@@ -56,7 +56,7 @@ No gain or loss shall be recognized to a corporation if such corporation is a pa
 
 #### (C) Treatment of liabilities
 
-&emsp;&emsp;If any property distributed in the distribution referred to in paragraph (1) is subject to a liability or the shareholder assumes a liability of the distributing corporation inconnection with the distribution, then, for purposes of subparagraph (A), the fair market value of such property shall be treated as not less than the amount of such liability.
+&emsp;&emsp;If any property distributed in the distribution referred to in paragraph (1) is subject to a liability or the shareholder assumes a liability of the distributing corporation in connection with the distribution, then, for purposes of subparagraph (A), the fair market value of such property shall be treated as not less than the amount of such liability.
 
 #### (3) Treatment of certain transfers to creditors
 

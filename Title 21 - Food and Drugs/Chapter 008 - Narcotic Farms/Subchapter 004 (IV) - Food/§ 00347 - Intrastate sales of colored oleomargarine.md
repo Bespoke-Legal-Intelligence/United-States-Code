@@ -2,7 +2,7 @@
 
 #### (a) Law governing
 
-Colored oleomargarine or colored margarine which is sold in the same State or Territory inwhich it is produced shall be subject in the same manner and to the same extent to the provisions of this chapter as if it had been introduced in interstate commerce.
+Colored oleomargarine or colored margarine which is sold in the same State or Territory in which it is produced shall be subject in the same manner and to the same extent to the provisionsof this chapter as if it had been introduced in interstate commerce.
 
 #### (b) Labeling and packaging requirements
 

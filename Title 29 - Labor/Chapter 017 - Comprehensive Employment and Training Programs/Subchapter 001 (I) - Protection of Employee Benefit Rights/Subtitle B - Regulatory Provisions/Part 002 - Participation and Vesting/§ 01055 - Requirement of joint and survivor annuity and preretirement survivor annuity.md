@@ -110,6 +110,14 @@ Each pension plan to which this section applies shall provide that—
 
 > In the case of a participant who is separated from service, the applicable election period under subparagraph (B) with respect to benefits accrued before the date of such separation from service shall not begin later than such date.
 
+(8) Notwithstanding any other provision of this subsection—
+
+&emsp;(A)(i) A plan may provide the written explanation described in paragraph (3)(A) after the annuity starting date. In any case to which this subparagraph applies, the applicable election period under paragraph (7) shall not end before the 30th day after the date on which such explanation is provided.
+
+&emsp;(ii) The Secretary may by regulations limit the application of clause (i), except that such regulations may not limit the period of time by which the annuity starting date precedes the provision of the written explanation other than by providing that the annuity starting date may not be earlier than termination of employment.
+
+&emsp;(B) A plan may permit a participant to elect (with any applicable spousal consent) to waive any requirement that the written explanation be provided at least 30 days before the annuity starting date (or to waive the 30-day requirement under subparagraph (A)) if the distribution commences more than 7 days after such explanation is provided.
+
 #### (d) “Qualified joint and survivor annuity” defined
 
 For purposes of this section, the term “qualified joint and survivor annuity” means an annuity—
@@ -194,7 +202,7 @@ Definitions.—For purposes of clause (i)—
 
 &emsp;&emsp;&emsp;(I)
 
-Applicable mortality table.—The term “applicable mortality table” means the table prescribed by the Secretary of the Treasury. Such table shall be based on the prevailing commissioners’ standard table (described in section 807(d)(5)(A) of title 26) used to determine reserves for group annuity contracts issued on the date as of which present value is being determined (without regard to any other subparagraph of section 807(d)(5) of such title).
+Applicable mortality table.—The term “applicable mortality table” means the table prescribed by the Secretary ofthe Treasury. Such table shall be based on the prevailing commissioners’ standard table (described in section 807(d)(5)(A) of title 26) used to determine reserves for group annuity contracts issued on the date as of which present value is being determined (without regard to any other subparagraph of section 807(d)(5) of such title).
 
 &emsp;&emsp;&emsp;(II)
 
@@ -202,7 +210,7 @@ Applicable interest rate.—The term “applicable interest rate” means the an
 
 &emsp;(B)
 
-Exception.—In the case of a distribution from a plan that was adopted and in effectprior to December 8, 1994, the present value of any distribution made before the earlier of—
+Exception.—In the case of a distribution from a plan that was adopted and in effect prior to December 8, 1994, the present value of any distribution made before the earlier of—
 
 &emsp;&emsp;(i) the later of when a plan amendment applying subparagraph (A) is adopted or made effective, or
 
@@ -242,9 +250,11 @@ No consent of a spouse shall be effective for purposes of subsection (g)(1) or (
 
 In prescribing regulations under this section, the Secretary of the Treasury shall consult with the Secretary of Labor.
 
-(Pub. L. 93–406, title I, §205, Sept. 2, 1974, 88 Stat. 862; Pub. L. 98–397, title I, §103(a), Aug. 23, 1984, 98 Stat. 1429; Pub. L. 99–514, title XI, §§1139(c)(2), 1145(b), title XVIII, §1898(b)(1)(B), (2)(B), (3)(B), (4)(B), (5)(B), (6)(B), (7)(B), (8)(B), (9)(B), (10)(B), (11)(B), (12)(B), (13)(B), (14)(B), Oct. 22, 1986, 100 Stat. 2488, 2491, 2945–2951; Pub. L. 101–239, title VII, §§7861(d)(2), 7862(d)(1)(B), (3), (6)–(9), 7891(a)(1), (b)(3), (c), (e), 7894(c)(7)(A), Dec. 19, 1989, 103 Stat. 2431, 2434, 2445, 2447, 2449; Pub. L. 103–465, title VII, §767(c)(2), Dec. 8, 1994, 108 Stat. 5039.)
+(Pub. L. 93–406, title I, §205, Sept. 2, 1974, 88 Stat. 862; Pub. L. 98–397, title I, §103(a), Aug. 23, 1984, 98 Stat. 1429; Pub. L. 99–514, title XI, §§1139(c)(2), 1145(b), title XVIII, §1898(b)(1)(B), (2)(B), (3)(B), (4)(B), (5)(B), (6)(B), (7)(B), (8)(B), (9)(B), (10)(B), (11)(B), (12)(B), (13)(B), (14)(B), Oct. 22, 1986, 100 Stat. 2488, 2491, 2945–2951; Pub. L. 101–239, title VII, §§7861(d)(2), 7862(d)(1)(B), (3), (6)–(9), 7891(a)(1), (b)(3), (c), (e), 7894(c)(7)(A), Dec. 19, 1989, 103 Stat. 2431, 2434, 2445, 2447, 2449; Pub. L. 103–465, title VII, §767(c)(2), Dec. 8, 1994, 108 Stat. 5039; Pub. L. 104–188, title I, §1451(b), Aug. 20, 1996, 110 Stat. 1815.)
 
 #### Amendments
+
+1996—Subsec. (c)(8). Pub. L. 104–188 added par. (8).
 
 1994—Subsec. (g)(3). Pub. L. 103–465 amended par. (3) generally. Prior to amendment, par. (3) read as follows:
 
@@ -324,7 +334,7 @@ Subsec. (h)(2). Pub. L. 99–514, §1898(b)(12)(B), amended par. (2) generally. 
 
 Subsec. (j). Pub. L. 99–514, §1898(b)(4)(B)(iii), added subsec. (j). Former subsec. (j) redesignated (k).
 
-Subsec. (k). Pub. L. 99–514, §1898(b)(10)(B), added subsec. (k). Former subsec. (k) redesignated (<i>l).</i>
+Subsec. (k). Pub. L. 99–514, §1898(b)(10)(B), added subsec. (k). Former subsec. (k) redesignated (<i>l</i>).
 
 Pub. L. 99–514, §1898(b)(4)(B)(iii), redesignated subsec. (j) as (k).
 
@@ -350,9 +360,13 @@ Subsec. (i). Pub. L. 98–397 substituted provisions relating to increased costs
 
 Subsec. (j). Pub. L. 98–397 added subsec. (j).
 
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–188 applicable to plan years beginning after Dec. 31, 1996, see section 1451(c) ofPub. L. 104–188, set out as a note under section 417 of Title 26, Internal Revenue Code.
+
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–465 applicable to plan years and limitation years beginning after Dec. 31, 1994, except that employer may elect to treat such amendment as effective on or after Dec. 8, 1994, with provisions relating to reduction of accrued benefits and timing of plan amendment, see section 767(d) of Pub. L. 103–465, set out as a note under section 411 of Title 26, Internal Revenue Code.
+Amendment by Pub. L. 103–465 applicable to plan years and limitation years beginning after Dec. 31, 1994, except that employer may elect to treat such amendment as effective on or after Dec. 8, 1994, with provisions relating to reduction of accrued benefits, exception, and timing of plan amendment, see section 767(d) of Pub. L. 103–465, as amended, set out as a note under section 411 of Title 26, Internal Revenue Code.
 
 #### Effective Date of 1989 Amendment
 
@@ -381,6 +395,10 @@ Amendment by section 1898(b)(1)(B), (2)(B), (3)(B), (5)(B), (7)(B), (9)(B), (10)
 Amendment by Pub. L. 98–397 applicable to plan years beginning after Dec. 31, 1984, except as otherwise provided, see sections 302 and 303 of Pub. L. 98–397, set out as a note under section 1001 of this title.
 
 Nothing in amendment by Pub. L. 98–397 to prevent any distribution required by reason of failure to comply with terms of loan made on or before Aug. 18, 1985, and secured by portion of participant's accrued benefit, see section 1898(b)(4)(C)(ii) of Pub. L. 99–514, set out as an Effective Date of 1986 Amendment note under section 417 of Title 26, Internal Revenue Code.
+
+#### Plan Amendments Not Required Until January 1, 1998
+
+For provisions directing that if any amendments made by subtitle D \[§§1401–1465\] of title I of Pub. L. 104–188 require an amendment to any plan or annuity contract, such amendment shall not be required to be made before the first day of the first plan year beginning on or after Jan. 1, 1998, see section 1465 of Pub. L. 104–188, set out as a note under section 401 of Title 26, Internal Revenue Code.
 
 #### Plan Amendments Not Required Until January 1, 1989
 

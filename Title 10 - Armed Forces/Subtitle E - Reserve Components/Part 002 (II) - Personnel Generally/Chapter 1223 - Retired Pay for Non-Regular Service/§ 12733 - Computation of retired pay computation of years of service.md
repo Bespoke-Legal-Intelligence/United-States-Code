@@ -6,11 +6,11 @@ For the purpose of computing the retired pay of a person under this chapter, the
 
 &emsp;(2) The person's days of full-time service under sections 316, 502, 503, 504, and 505 of title 32 while performing annual training duty or while attending a prescribed course of instruction at a school designated as a service school by law or by the Secretary concerned.
 
-&emsp;(3) One day for each point credited to the person under clause (B) or (C) of section 12732(a)(2) of this title, but not more than 60 days in any one year.
+&emsp;(3) One day for each point credited to the person under clause (B) <sup>1</sup> (C), or (D) of section 12732(a)(2) of this title, but not more than 60 days in any one year of service before the year of service in which the date of the enactment of the National Defense Authorization Act for Fiscal Year 1997 occurs and not more than 75 days in any subsequent year of service.
 
 &emsp;(4) 50 days for each year before July 1, 1949, and proportionately for each fraction of a year, of service (other than active service) in a reserve component of an armed force, in the Army or the Air Force without component, or in any other category covered by section 12732(a)(1) of this title, except a regular component.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 103, §1333; Sept. 2, 1958, Pub. L. 85–861, §33(a)(10), 72 Stat. 1565; renumbered §12733 and amended Oct. 5, 1994, Pub. L. 103–337, div. A, title XVI, §1662(j)(1), 108 Stat. 2998, 3002.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 103, §1333; Sept. 2, 1958, Pub. L. 85–861, §33(a)(10), 72 Stat. 1565; renumbered §12733 and amended Oct. 5, 1994, Pub. L. 103–337, div. A, title XVI, §1662(j)(1), 108 Stat. 2998, 3002; Sept. 23, 1996, Pub. L. 104–201, div. A, title V, §§531(a), 543(b)(2), 110 Stat. 2517, 2522.)
 
 Historical and Revision Notes<br>1956
 
@@ -50,7 +50,15 @@ Clause (1) is substituted for 10:1036b(i). In clause (3), the words “and propo
 
 The change is necessary so that active service and service described in section 1332(a)(2)(A)(ii) that was performed on or before July 1, 1949, may be counted in computing retired pay, as provided by the source law, section 303(i) of the Army and Air Force Vitalization and Retirement Equalization Act of 1948 (62 Stat. 1088) and in accordance with the opinion of the Judge Advocate General of the Army (JAGA 1956/1908, Feb. 13, 1956).
 
+#### References in Text
+
+The date of the enactment of the National Defense Authorization Act for Fiscal Year 1997, referred to in par. (3), is the date of enactment of Pub. L. 104–201, which was approved Sept. 23, 1996.
+
 #### Amendments
+
+1996—Par. (3). Pub. L. 104–201, §543(b)(2), substituted “(C), or (D)” for “or (C)”.
+
+Pub. L. 104–201, §531(a), which directed amendment of section 12733(3), without specifying the Code title to be amended, by inserting before period at end “of service before the year of service in which the date of the enactment of the National Defense Authorization Act for Fiscal Year 1997 occurs and not more than 75 days in any subsequent year of service”, was executed to par. (3) of this section to reflect the probable intent of Congress.
 
 1994—Pub. L. 103–337 renumbered section 1333 of this title as this section, substituted “Computation of retired pay: computation of years of service” for “Computation of years of service in computing retired pay” as section catchline, and amended text generally, changing style and references to other sections.
 
@@ -72,5 +80,7 @@ Retirement or separation for physical disability, computation of service, see se
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1208, 1405, 12739 of this title.
+This section is referred to in sections 1208, 1405, 2126, 12739 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

@@ -6,9 +6,13 @@ The Congress commits itself to a sound balance between rural and urban America. 
 
 #### (b) Location of Federal facilities
 
-Congress hereby directs the heads of all executive departments and agencies of the Government to establish and maintain departmental policies and procedures giving first priority to the location of new offices and other facilities in rural areas as defined in the private business enterprise exception in section 1926(a)(7) of title 7.
+Congress hereby directs the heads of all executive departments and agencies of the Government to establish and maintain departmental policies and procedures giving first priority to the location of new offices and other facilities in rural areas as defined in the private business enterprise exception in section 1926(a)(7) <sup>1</sup> of title 7.
 
 (Pub. L. 91–524, title IX, §901, Nov. 30, 1970, 84 Stat. 1383; Pub. L. 92–419, title VI, §601, Aug. 30, 1972, 86 Stat. 674; Pub. L. 94–273, §7(3), Apr. 21, 1976, 90 Stat. 378; Pub. L. 96–355, §6, Sept. 24, 1980, 94 Stat. 1174.)
+
+#### References in Text
+
+Section 1926(a)(7) of title 7, referred to in subsec. (b), was repealed and a new section 1926(a)(7) was added by Pub. L. 104–127, title VII, §741(a)(2), Apr. 4, 1996, 110 Stat. 1123. As added, section 1926(a)(7) of title 7 defines “rural areas” but no longer contains provisions relating to a private business enterprise exception.
 
 #### Codification
 
@@ -43,4 +47,6 @@ Ex. Ord. No. 11797, July 31, 1974, 39 F.R. 27893, which delegated to the Secreta
 #### Section Referred to in Other Sections
 
 This section is referred to in title 16 section 1609.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

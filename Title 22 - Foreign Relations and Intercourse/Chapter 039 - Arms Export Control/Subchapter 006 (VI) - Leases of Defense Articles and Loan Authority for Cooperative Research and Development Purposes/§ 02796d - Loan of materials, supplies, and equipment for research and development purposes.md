@@ -10,7 +10,7 @@
 
 #### (b) Reimbursement of consumed materials, etc.
 
-The materials, supplies, or equipment loaned to a country under this section may be expendedor otherwise consumed in connection with any testing or evaluation program without a requirement for reimbursement of the United States if the Secretary—
+The materials, supplies, or equipment loaned to a country under this section may be expended or otherwise consumed in connection with any testing or evaluation program without a requirement for reimbursement of the United States if the Secretary—
 
 &emsp;(1) determines that the success of the research, development, test, or evaluation depends upon expending or otherwise consuming the materials, supplies, or equipment loaned to the country; and
 
@@ -20,13 +20,15 @@ The materials, supplies, or equipment loaned to a country under this section may
 
 The Secretary of Defense may not loan to a country under this section any material if the material is a strategic and critical material and if, at the time the loan is to be made, the quantity of the material in the National Defense Stockpile (provided for under section 98b of title 50) is less than the quantity of such material to be stockpiled, as determined by the President under section 98b(a) of title 50.
 
-#### (d) “NATO or major non-NATO ally” defined
+#### (d) “NATO ally” defined
 
-For purposes of this section, the term “NATO or major non-NATO ally” means a member country of the North Atlantic Treaty Organization (other than the United States) or a foreign country other than a member nation of NATO designated as a major non-NATO ally under section 2350a(i)(3) of title 10.
+For purposes of this section, the term “NATO ally” means a member country of the North Atlantic Treaty Organization (other than the United States).
 
-(Pub. L. 90–629, ch. 6, §65, as added Pub. L. 100–456, div. A, title X, §1003(a), Sept. 29, 1988, 102 Stat. 2038; amended Pub. L. 102–25, title VII, §705(d)(2), Apr. 6, 1991, 105 Stat. 120.)
+(Pub. L. 90–629, ch. 6, §65, as added Pub. L. 100–456, div. A, title X, §1003(a), Sept. 29, 1988, 102 Stat. 2038; amended Pub. L. 102–25, title VII, §705(d)(2), Apr. 6, 1991, 105 Stat. 120; Pub. L. 104–164, title I, §147(a)(3)(B), July 21, 1996, 110 Stat. 1435.)
 
 #### Amendments
+
+1996—Subsec. (d). Pub. L. 104–164 struck out “or major non-NATO” after “NATO” and “or a foreign country other than a member nation of NATO designated as a major non-NATO ally under section 2350a(i)(3) of title 10” after “(other than the United States)”.
 
 1991—Subsec. (d). Pub. L. 102–25 substituted “section 2350a(i)(3) of title 10” for “section 2767a of this title”.
 

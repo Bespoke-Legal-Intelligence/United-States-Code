@@ -24,7 +24,7 @@
 
 &emsp;(G) net national economic costs and benefits of each such system;
 
-&emsp;(H) the extent to which each system complies with the provisions of section 410 of theAct approved November 16, 1973 (87 Stat. 594), commonly known as the Trans-Alaska Pipeline Authorization Act;
+&emsp;(H) the extent to which each system complies with the provisions of section 410 of the Act approved November 16, 1973 (87 Stat. 594), commonly known as the Trans-Alaska Pipeline Authorization Act;
 
 &emsp;(I) the effect of each such system on international relations, including the status and time schedule for any necessary Canadian approvals and plans;
 

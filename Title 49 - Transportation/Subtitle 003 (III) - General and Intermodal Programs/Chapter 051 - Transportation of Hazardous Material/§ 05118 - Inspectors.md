@@ -32,7 +32,9 @@ Allocation of Other Inspectors.—The Secretary shall allocate, as the Secretary
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

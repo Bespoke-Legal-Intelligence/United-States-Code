@@ -24,7 +24,7 @@
 
 (4) Constructive service credited an officer under this subsection is in addition to any service credited that officer under subsection (a) and shall be credited at the time of the original appointment of the officer or assignment to or designation in an officer category in which advanced education or training or special experience is required.
 
-(c) Constructive service may not be credited under subsection (b) for education, training, or experience obtained while serving as a commissioned officer (other than a warrant officer) on active duty or in an active status. However, in the case of an officer who completes advanced education or receives an advanced degree while on active duty or in an active status and in less than the number of years normally required to complete such advanced education or receivesuch advanced degree, constructive service may, subject to regulations prescribed under subsection (a)(2), be credited to the officer under subsection (b)(1)(A) to the extent that the number of years normally required to complete such advanced education or receive such advanced degree exceeds the actual number of years in which such advanced education or degree is obtained by the officer.
+(c) Constructive service may not be credited under subsection (b) for education, training, or experience obtained while serving as a commissioned officer (other than a warrant officer) on active duty or in an active status. However, in the case of an officer who completes advanced education or receives an advanced degree while on active duty or in an active status and in less than the number of years normally required to complete such advanced education or receive such advanced degree, constructive service may, subject to regulations prescribed under subsection (a)(2), be credited to the officer under subsection (b)(1)(A) to the extent that the number of years normally required to complete such advanced education or receive such advanced degree exceeds the actual number of years in which such advanced education or degree is obtained by the officer.
 
 (d) If the Secretary of Defense determines that the number of qualified judge advocates serving on the active-duty list of the Army, Navy, Air Force, or Marine Corps in grades below lieutenant commander or major is critically below the number needed by that armed force in those grades, the Secretary of Defense may authorize the Secretary of the military department concerned to credit any person who is receiving an original appointment with a view to assignment to the Judge Advocate General's Corps of the Army or appointment to the Judge Advocate General's Corps of the Navy, or who is receiving an original appointment in the Air Force or Marine Corps with a view to designation as a judge advocate, with a period of constructive service in such an amount (in addition to any amount credited such person under subsection (b)) as will result in the grade of such person being that of captain or, in the case of the Navy, lieutenant, and the date of rank of such person being junior to that of all other officers of the same grade serving on the active-duty list.
 
@@ -42,7 +42,7 @@
 
 #### Prior Provisions
 
-Provisions similar to those in this section were contained in sections 3353, 5600, and 8353 of this title, prior to repeal by Pub. L. 103–337, §1629(a)(1), (c)(1).
+Provisions similar to those in this section were contained in sections 3353, 5600, and 8353 of this title, prior to repeal by Pub. L. 103–337, §1629(a)(1), (c)(1) and Pub. L. 104–106, §1501(c)(26).
 
 #### Amendments
 
@@ -52,11 +52,7 @@ Provisions similar to those in this section were contained in sections 3353, 560
 
 Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under section 10001 of this title.
 
-#### Cross References
-
-Commissioned officers in Navy and Marine Corps, service credit upon original appointment, see section 5600 of this title.
-
 #### Section Referred to in Other Sections
 
-This section is referred to in section 12320 of this title.
+This section is referred to in sections 2121, 12320 of this title.
 

@@ -10,7 +10,7 @@ The President is authorized to negotiate and conclude an agreement, including th
 
 &emsp;(3) Such economic cost shall reflect the time value of money and be determined using the rate determined for an equivalent loan by the Federal Financing Bank as of the date these funds are advanced, and using an inflation rate consistent with the determinations made under the provisions of section 215 of the Compact.
 
-&emsp;(4) If the Government of Palau has not paid such net economic costs to the United States by the 15th anniversary of the effective date of the Compact, then the United States shall beautomatically paid such sums from the fund established under section 211(f) of the Compact.
+&emsp;(4) If the Government of Palau has not paid such net economic costs to the United States by the 15th anniversary of the effective date of the Compact, then the United States shall be automatically paid such sums from the fund established under section 211(f) of the Compact.
 
 &emsp;(5) The provision of section 211(b) funds, as appropriated by Public Law 99–349 and pursuant to this subsection, shall be in fulfillment of all United States obligations under such section 211(b) of the Compact and shall be subject to section 236 of the Compact.
 
@@ -30,7 +30,7 @@ The Compact, referred to in subsecs. (a) and (b), is the Compact of Free Associa
 
 For Oct. 1, 1994, as the date the Compact of Free Association with Palau entered into full force and effect, referred to in subsecs. (a)(1), (2), (4) and (b), see Proc. No. 6726, Sept. 27, 1994, 59 F.R. 49777, set out as a note under section 1931 of this title.
 
-Public Law 99–349, referred to in subsecs. (a)(5) and (b), is Pub. L. 99–349, July 2, 1986, 100 Stat. 710, as amended. For complete classification of this Act to the Code, see Tables.
+Public Law 99–349, referred to in subsecs. (a)(5) and (b), is Pub. L. 99–349, July 2, 1986, 100 Stat. 710, asamended. For complete classification of this Act to the Code, see Tables.
 
 Public Law 99–658, referred to in subsec. (b), is Pub. L. 99–658, Nov. 14, 1986, 100 Stat. 3672, as amended, which is classified generally to part A of this subchapter. For complete classification of this Act to the Code, see Tables.
 

@@ -28,19 +28,21 @@ To carry out the policy of this subchapter, the Secretary (in consultation with 
 
 &emsp;&emsp;(C) the provision of support for the internationalization of resident instruction programs of the universities and colleges described in subparagraph (A); and
 
-&emsp;(8) establish, in cooperation with the Secretary of State, a program, to be coordinated through the International Arid Land Consortium, to enhance collaboration and cooperation between institutions possessing research capabilities applied to the development, management, and reclamation of arid lands.
+&emsp;(8) continue, in cooperation with the Secretary of State, a program, coordinated through the International Arid Land Consortium, to enhance collaboration and cooperation between institutions possessing research capabilities applied to the development, management, and reclamation of arid lands.
 
 #### (b) Enhancing linkages
 
-The Secretary shall draw upon and enhance the resources of the land-grant colleges and universities, and other colleges and universities, for developing linkages among these institutions, the Federal Government, international research centers, and counterpart agencies and institutions in both the developed and less-developed countries to serve the purposes of agricultureand the economy of the United States and to make a substantial contribution to the cause of improved food and agricultural progress throughout the world.
+The Secretary shall draw upon and enhance the resources of the land-grant colleges and universities, and other colleges and universities, for developing linkages among these institutions, the Federal Government, international research centers, and counterpart agencies and institutions in both the developed and less-developed countries to serve the purposes of agriculture and the economy of the United States and to make a substantial contribution to the cause of improved food and agricultural progress throughout the world.
 
 #### (c) Provision of specialized or technical services
 
 The Secretary may provide specialized or technical services, on an advance of funds or a reimbursable basis, to United States colleges and universities and other nongovernmental organizations carrying out international food, agricultural, and related research, extension, and teaching development projects and activities. All funds received in payment for furnishing such specialized or technical services shall be deposited to the credit of the appropriation from which the cost of providing such services has been paid or is to be charged.
 
-(Pub. L. 95–113, title XIV, §1458, Sept. 29, 1977, 91 Stat. 1015; Pub. L. 97–98, title XIV, §1436, Dec. 22, 1981, 95 Stat. 1313; Pub. L. 99–198, title XIV, §1418, Dec. 23, 1985, 99 Stat. 1550; Pub. L. 101–624, title XVI, §1613(a), (b), (d)(1), Nov. 28, 1990, 104 Stat. 3724, 3726; Pub. L. 102–237, title IV, §402(11), Dec. 13, 1991, 105 Stat. 1863.)
+(Pub. L. 95–113, title XIV, §1458, Sept. 29, 1977, 91 Stat. 1015; Pub. L. 97–98, title XIV, §1436, Dec. 22, 1981, 95 Stat. 1313; Pub. L. 99–198, title XIV,§1418, Dec. 23, 1985, 99 Stat. 1550; Pub. L. 101–624, title XVI, §1613(a), (b), (d)(1), Nov. 28, 1990, 104 Stat. 3724, 3726; Pub. L. 102–237, title IV, §402(11), Dec. 13, 1991, 105 Stat. 1863; Pub. L. 104–127, title VIII, §816, Apr. 4, 1996, 110 Stat. 1167.)
 
 #### Amendments
+
+1996—Subsec. (a)(8). Pub. L. 104–127 substituted “continue” for “establish” after “(8)” and struck out “to be” before “coordinated”.
 
 1991—Subsec. (a)(3). Pub. L. 102–237 substituted a semicolon for period at end.
 

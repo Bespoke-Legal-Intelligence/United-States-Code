@@ -32,5 +32,5 @@ In subsection (b), the words “of the Government” and “from duty” are omi
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 2 section 60a–2; title 5 sections 3374, 5306; title 22 sections 277d–3, 1461b, 3622, 3723; title 40 section 491; title 42 sections 2204, 2204a, 2210, 2295, 2394.
+This section is referred to in title 2 section 60a–2; title 5 sections 3374, 5306; title 22 sections 277d–3, 1461b, 3622; title 40 section 491; title 42 sections 2204, 2204a, 2210, 2295, 2394.
 

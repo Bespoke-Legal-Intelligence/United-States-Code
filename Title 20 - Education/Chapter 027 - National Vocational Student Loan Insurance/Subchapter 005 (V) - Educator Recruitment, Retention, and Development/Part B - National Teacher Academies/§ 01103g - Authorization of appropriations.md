@@ -8,7 +8,7 @@ There are authorized to be appropriated $35,000,000 for fiscal year 1993 and suc
 
 #### (1) Appropriations less than $14,000,000
 
-&emsp;If the amount appropriated pursuant to the authority of subsection (a) of this section is less than $14,000,000, then not more than $2,000,000 shall be available for each NationalTeacher Academy subject area in the order in which such subject areas are listed in section 1103(b)(1) of this title, until such funds are expended.
+&emsp;If the amount appropriated pursuant to the authority of subsection (a) of this section is less than $14,000,000, then not more than $2,000,000 shall be available for each National Teacher Academy subject area in the order in which such subject areas are listed in section 1103(b)(1) of this title, until such funds are expended.
 
 #### (2) Appropriations equal to or in excess of $14,000,000
 

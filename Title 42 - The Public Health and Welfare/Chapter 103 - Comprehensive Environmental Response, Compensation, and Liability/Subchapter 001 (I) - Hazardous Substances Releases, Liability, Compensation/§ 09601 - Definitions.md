@@ -16,9 +16,9 @@ For purpose of this subchapter—
 
 &emsp;(7) The term “drinking water supply” means any raw or finished water source that is or may be used by a public water system (as defined in the Safe Drinking Water Act \[42 U.S.C. 300f et seq.\]) or as drinking water by one or more individuals.
 
-&emsp;(8) The term “environment” means (A) the navigable waters, the waters of the contiguous zone, and the ocean waters of which the natural resources are under the exclusive management authority of the United States under the Magnuson Fishery Conservation and Management Act \[16 U.S.C. 1801 et seq.\], and (B) any other surface water, ground water, drinking water supply, land surface or subsurface strata, or ambient air within the United States or under the jurisdiction of the United States.
+&emsp;(8) The term “environment” means (A) the navigable waters, the waters of the contiguous zone, and the ocean waters of which the natural resources are under the exclusive management authority of the United States under the Magnuson-Stevens Fishery Conservation and Management Act \[16 U.S.C. 1801 et seq.\], and (B) any other surface water, ground water, drinking water supply, land surface or subsurface strata, or ambient air within the United States or under the jurisdiction of the United States.
 
-&emsp;(9) The term “facility” means (A) any building, structure, installation, equipment, pipe or pipeline (including any pipe into a sewer or publicly owned treatment works), well, pit, pond, lagoon, impoundment, ditch, landfill, storage container, motor vehicle, rolling stock, or aircraft, or (B) any site or area where a hazardous substance has been deposited, stored, disposed of, or placed, or otherwise come to be located; but does not include any consumer product in consumer use or any vessel.
+&emsp;(9) The term “facility” means (A) any building, structure, installation, equipment, pipe or pipeline (including any pipe into a sewer orpublicly owned treatment works), well, pit, pond, lagoon, impoundment, ditch, landfill, storage container, motor vehicle, rolling stock, or aircraft, or (B) any site or area where a hazardous substance has been deposited, stored, disposed of, or placed, or otherwise come to be located; but does not include any consumer product in consumer use or any vessel.
 
 &emsp;(10) The term “federally permitted release” means (A) discharges in compliance with a permit under section 1342 of title 33, (B) discharges resulting from circumstances identified and reviewed and made part of the public record with respect to a permit issued or modified under section 1342 of title 33 and subject to a condition of such permit, (C) continuous or anticipated intermittent discharges from a point source, identified in a permit or permit application under section 1342 of title 33, which are caused by events occurring within the scope of relevant operating or treatment systems, (D) discharges in compliance with a legally enforceable permit under section 1344 of title 33, (E) releases in compliance with a legally enforceable final permit issued pursuant to section 3005(a) through (d) of the Solid Waste Disposal Act \[42 U.S.C. 6925(a)–(d)\] from a hazardous waste treatment, storage, or disposal facility when such permit specifically identifies the hazardous substances and makes such substances subject to a standard of practice, control procedure or bioassay limitation or condition, or other control on the hazardous substances in such releases, (F) any release in compliance with a legally enforceable permit issued under section 1412 of title 33 of <sup>1</sup> section 1413 of title 33, (G) any injection of fluids authorized under Federal underground injection control programs or State programs submitted for Federal approval (and not disapproved by the Administrator of the Environmental Protection Agency) pursuant to part C of the Safe Drinking Water Act \[42 U.S.C. 300h et seq.\], (H) any emission into the air subject to a permit or control regulation under section 111 \[42 U.S.C. 7411\], section 112 \[42 U.S.C. 7412\], title I part C \[42 U.S.C. 7470 et seq.\], title I part D \[42 U.S.C. 7501 et seq.\], or State implementation plans submitted in accordance with section 110 of the Clean Air Act \[42 U.S.C. 7410\] (and not disapproved by the Administrator of the Environmental Protection Agency), including any schedule or waiver granted, promulgated, or approved under these sections, (I) any injection of fluids or other materials authorized under applicable State law (i) for the purpose of stimulating or treating wells for the production of crude oil, natural gas, or water, (ii) for the purpose of secondary, tertiary, or other enhanced recovery of crude oil or natural gas, or (iii) which are brought to the surface in conjunction with the production of crude oil or natural gas and which are reinjected, (J) the introduction of any pollutant into a publicly owned treatment works when such pollutant is specified in and in compliance with applicable pretreatment standards of section 1317 (b) or (c) of title 33 and enforceable requirements in a pretreatment program submitted by a State or municipality for Federal approval under section 1342 of title 33, and (K) any release of source, special nuclear, or byproduct material, as those terms are defined in the Atomic Energy Act of 1954 \[42 U.S.C. 2011 et seq.\], in compliance with a legally enforceable license, permit, regulation, or order issued pursuant to the Atomic Energy Act of 1954.
 
@@ -28,13 +28,13 @@ For purpose of this subchapter—
 
 &emsp;(13) The term “guarantor” means any person, other than the owner or operator, who provides evidence of financial responsibility for an owner or operator under this chapter.
 
-&emsp;(14) The term “hazardous substance” means (A) any substance designated pursuant to section 1321(b)(2)(A) of title 33, (B) any element, compound, mixture, solution, or substance designated pursuant to section 9602 of this title, (C) any hazardous waste having the characteristics identified under or listed pursuant to section 3001 of the Solid Waste Disposal Act \[42 U.S.C. 6921\] (but not including any waste the regulation of which under the Solid Waste Disposal Act \[42 U.S.C. 6901 et seq.\] has beensuspended by Act of Congress), (D) any toxic pollutant listed under section 1317(a) of title 33, (E) any hazardous air pollutant listed under section 112 of the Clean Air Act \[42 U.S.C. 7412\], and (F) any imminently hazardous chemical substance or mixture with respect to which the Administrator has taken action pursuant to section 2606 of title 15. The term does not include petroleum, including crude oil or any fraction thereof which is not otherwise specifically listed or designated as a hazardous substance under subparagraphs (A) through (F) of this paragraph, and the term does not include natural gas, natural gas liquids, liquefied natural gas, or synthetic gas usable for fuel (or mixtures of natural gas and such synthetic gas).
+&emsp;(14) The term “hazardous substance” means (A) any substance designated pursuant to section 1321(b)(2)(A) of title 33, (B) any element, compound, mixture, solution, or substance designated pursuant to section 9602 of this title, (C) any hazardous waste having the characteristics identified under or listed pursuant to section 3001 of the Solid Waste Disposal Act \[42 U.S.C. 6921\] (but not including any waste the regulation of which under the Solid Waste Disposal Act \[42 U.S.C. 6901 et seq.\] has been suspended by Act of Congress), (D) any toxic pollutant listed under section 1317(a) of title 33, (E) any hazardous air pollutant listed under section 112 of the Clean Air Act \[42 U.S.C. 7412\], and (F) any imminently hazardous chemical substance or mixture with respect to which the Administrator has taken action pursuant to section 2606 of title 15. The term does not include petroleum, including crude oil or any fraction thereof which is not otherwise specifically listed or designated as a hazardous substance under subparagraphs (A) through (F) of this paragraph, and the term does not include natural gas, natural gas liquids, liquefied natural gas, or synthetic gas usable for fuel (or mixtures of natural gas and such synthetic gas).
 
 &emsp;(15) The term “navigable waters” or “navigable waters of the United States” means the waters of the United States, including the territorial seas.
 
-&emsp;(16) The term “natural resources” means land, fish, wildlife, biota, air, water, ground water, drinking water supplies, and other such resources belonging to, managed by, held in trust by, appertaining to, or otherwise controlled by the United States (including the resources of the fishery conservation zone established by the Magnuson Fishery Conservation and Management Act \[16 U.S.C. 1801 et seq.\]), any State or local government, any foreign government, any Indian tribe, or, if such resources are subject to a trust restriction on alienation, any member of an Indian tribe.
+&emsp;(16) The term “natural resources” means land, fish, wildlife, biota, air, water, ground water, drinking water supplies, and other such resources belonging to, managed by, held in trust by, appertaining to, or otherwise controlled by the United States (including the resources of the fishery conservation zone established by the Magnuson-Stevens Fishery Conservation and Management Act \[16 U.S.C. 1801 et seq.\]), any State or local government, any foreign government, any Indian tribe, or, if such resources are subject to a trust restriction on alienation, any member of an Indian tribe.
 
-&emsp;(17) The term “offshore facility” means any facility of any kind located in, on, or under, any of the navigable waters of the United States, and any facility of any kind which is subject to the jurisdiction of the United States and is located in, on, or under any other waters, other than a vessel or a public vessel.
+&emsp;(17) The term “offshore facility” means any facility of any kind located in, on, or under, any of the navigable waters of the United States, and any facility of any kind which is subject to the jurisdiction of the UnitedStates and is located in, on, or under any other waters, other than a vessel or a public vessel.
 
 &emsp;(18) The term “onshore facility” means any facility (including, but not limited to, motor vehicles and rolling stock) of any kind located in, on, or under, any land or nonnavigable waters within the United States.
 
@@ -48,17 +48,139 @@ For purpose of this subchapter—
 
 &emsp;(D) The term “owner or operator” does not include a unit of State or local government which acquired ownership or control involuntarily through bankruptcy, tax delinquency, abandonment, or other circumstances in which the government involuntarily acquires title by virtue of its function as sovereign. The exclusion provided under this paragraph shall not apply to any State or local government which has caused or contributed to the release or threatened release of a hazardous substance from the facility, and such a State or local government shall be subject to the provisions of this chapter in the same manner and to the same extent, both procedurally and substantively, as any nongovernmental entity, including liability under section 9607 of this title.
 
+&emsp;(E)
+
+Exclusion of lenders not participants in management.—
+
+&emsp;&emsp;(i)
+
+Indicia of ownership to protect security.—The term “owner or operator” does not include a person that is a lender that, without participating in the management of a vessel or facility, holds indicia of ownership primarily to protect the security interest of the person in the vessel or facility.
+
+&emsp;&emsp;(ii)
+
+Foreclosure.—The term “owner or operator” does not include a person that is a lender that did not participate in management of a vessel or facility prior to foreclosure, notwithstanding that the person—
+
+&emsp;&emsp;&emsp;(I) forecloses on the vessel or facility; and
+
+&emsp;&emsp;&emsp;(II) after foreclosure, sells, re-leases (in the case of a lease finance transaction), or liquidates the vessel or facility, maintains business activities, winds up operations, undertakes a response action under section 9607(d)(1) of this title or under the direction of an on-scene coordinator appointed under the National Contingency Plan, with respect to the vessel or facility, or takes any other measure to preserve, protect, or prepare the vessel or facility prior to sale or disposition,
+
+> &emsp;&emsp;if the person seeks to sell, re-lease (in the case of a lease finance transaction), or otherwise divest the person of the vessel or facility at the earliest practicable, commercially reasonable time, on commercially reasonable terms, taking into account market conditions and legal and regulatory requirements.
+
+&emsp;(F)
+
+Participation in management.—For purposes of subparagraph (E)—
+
+&emsp;&emsp;(i) the term “participate in management”—
+
+&emsp;&emsp;&emsp;(I) means actually participating in the management or operational affairs of a vessel or facility; and
+
+&emsp;&emsp;&emsp;(II) does not include merely having the capacity to influence, or the unexercised right to control, vessel or facility operations;
+
+&emsp;&emsp;(ii) a person that is a lender and that holds indicia of ownership primarily to protect a security interest in a vessel or facility shall be considered to participate in management only if, while the borrower is still in possession of the vessel or facility encumbered by the security interest, the person—
+
+&emsp;&emsp;&emsp;(I) exercises decisionmaking control over the environmental compliance related to the vessel or facility, such that the person has undertaken responsibility for the hazardous substance handling or disposal practices related to the vessel or facility; or
+
+&emsp;&emsp;&emsp;(II) exercises control at a level comparable to that of a manager of the vessel or facility, such that the person has assumed or manifested responsibility—
+
+&emsp;&emsp;&emsp;&emsp;(aa) for the overall management of the vessel or facility encompassing day-to-day decisionmaking with respect to environmental compliance; or
+
+&emsp;&emsp;&emsp;&emsp;(bb) over all or substantially all of the operational functions (as distinguished from financial or administrative functions) of the vessel or facility other than the function of environmental compliance;
+
+&emsp;&emsp;(iii) the term “participate in management” does not include performing an act or failing to act prior to the time at which a security interest is created in a vessel or facility; and
+
+&emsp;&emsp;(iv) the term “participate in management” does not include—
+
+&emsp;&emsp;&emsp;(I) holding a security interest or abandoning or releasing a security interest;
+
+&emsp;&emsp;&emsp;(II) including in the terms of an extension of credit, or in a contract or security agreement relating to the extension, a covenant, warranty, or other term or condition that relates to environmental compliance;
+
+&emsp;&emsp;&emsp;(III) monitoring or enforcing the terms and conditions of the extension of credit or security interest;
+
+&emsp;&emsp;&emsp;(IV) monitoring or undertaking 1 or more inspections of the vessel or facility;
+
+&emsp;&emsp;&emsp;(V) requiring a response action or other lawful means of addressing the release or threatened release of a hazardous substance in connection with the vessel or facility prior to, during, or on the expiration of the term of the extension of credit;
+
+&emsp;&emsp;&emsp;(VI) providing financial or other advice or counseling in an effort to mitigate, prevent, or cure default or diminution in the value of the vessel or facility;
+
+&emsp;&emsp;&emsp;(VII) restructuring, renegotiating, or otherwise agreeing to alter the terms and conditions of the extension of credit or security interest, exercising forbearance;
+
+&emsp;&emsp;&emsp;(VIII) exercising other remedies that may be available under applicable law for the breach of a term or condition of the extension of credit or security agreement; or
+
+&emsp;&emsp;&emsp;(IX) conducting a response action under section 9607(d) of this title or under the direction of an on-scene coordinator appointed under the National Contingency Plan,
+
+> &emsp;&emsp;if the actions do not rise to the level of participating in management (within the meaning of clauses (i) and (ii)).
+
+&emsp;(G)
+
+Other terms.—As used in this chapter:
+
+&emsp;&emsp;(i)
+
+Extension of credit.—The term “extension of credit” includes a lease finance transaction—
+
+&emsp;&emsp;&emsp;(I) in which the lessor does not initially select the leased vessel or facility and does not during the lease term control the daily operations or maintenance of the vessel or facility; or
+
+&emsp;&emsp;&emsp;(II) that conforms with regulations issued by the appropriate Federal banking agency or the appropriate State bank supervisor (as those terms are defined in section 1813 of title 12 <sup>2</sup> or with regulations issued by the National Credit Union Administration Board, as appropriate.
+
+&emsp;&emsp;(ii)
+
+Financial or administrative function.—The term “financial or administrative function” includes a function such as that of a credit manager, accounts payable officer, accounts receivable officer, personnel manager, comptroller, or chief financial officer, or a similar function.
+
+&emsp;&emsp;(iii)
+
+Foreclosure; foreclose.—The terms “foreclosure” and “foreclose” mean, respectively, acquiring, and to acquire, a vessel or facility through—
+
+&emsp;&emsp;&emsp;(I)(aa) purchase at sale under a judgment or decree, power of sale, or nonjudicial foreclosure sale;
+
+&emsp;&emsp;&emsp;(bb) a deed in lieu of foreclosure, or similar conveyance from a trustee; or
+
+&emsp;&emsp;&emsp;(cc) repossession,
+
+> &emsp;&emsp;if the vessel or facility was security for an extension of credit previously contracted;
+
+&emsp;&emsp;&emsp;(II) conveyance pursuant to an extension of credit previously contracted, including the termination of a lease agreement; or
+
+&emsp;&emsp;&emsp;(III) any other formal or informal manner by which the person acquires, for subsequent disposition, title to or possession of a vessel or facility in order to protect the security interest of the person.
+
+&emsp;&emsp;(iv)
+
+Lender.—The term “lender” means—
+
+&emsp;&emsp;&emsp;(I) an insured depository institution (as defined in section 1813 of title 12);
+
+&emsp;&emsp;&emsp;(II) an insured credit union (as defined in section 1752 of title 12);
+
+&emsp;&emsp;&emsp;(III) a bank or association chartered under the Farm Credit Act of 1971 (12 U.S.C. 2001 et seq.);
+
+&emsp;&emsp;&emsp;(IV) a leasing or trust company that is an affiliate of an insured depository institution;
+
+&emsp;&emsp;&emsp;(V) any person (including a successor or assignee of any such person) that makes a bona fide extension of credit to or takes or acquires a security interest from a nonaffiliated person;
+
+&emsp;&emsp;&emsp;(VI) the Federal National Mortgage Association, the Federal Home Loan Mortgage Corporation, the Federal Agricultural Mortgage Corporation, or any other entity that in a bona fide manner buys or sells loans or interests in loans;
+
+&emsp;&emsp;&emsp;(VII) a person that insures or guarantees against a default in the repayment of an extension of credit, or acts as a surety with respect to an extension of credit, to a nonaffiliated person; and
+
+&emsp;&emsp;&emsp;(VIII) a person that provides title insurance and that acquires a vessel or facility as a result of assignment or conveyance in the course of underwriting claims and claims settlement.
+
+&emsp;&emsp;(v)
+
+Operational function.—The term “operational function” includes a function such as that of a facility or plant manager, operations manager, chief operating officer, or chief executive officer.
+
+&emsp;&emsp;(vi)
+
+Security interest.—The term “security interest” includes a right under a mortgage, deed of trust, assignment, judgmentlien, pledge, security agreement, factoring agreement, or lease and any other right accruing to a person to secure the repayment of money, the performance of a duty, or any other obligation by a nonaffiliated person.
+
 &emsp;(21) The term “person” means an individual, firm, corporation, association, partnership, consortium, joint venture, commercial entity, United States Government, State, municipality, commission, political subdivision of a State, or any interstate body.
 
-&emsp;(22) The term “release” means any spilling, leaking, pumping, pouring, emitting, emptying, discharging, injecting, escaping, leaching, dumping, or disposing into the environment (including the abandonment or discarding of barrels, containers, and other closed receptacles containing any hazardous substance or pollutant or contaminant), but excludes (A) any release which results in exposure to persons solely within a workplace, with respect to a claim which such persons may assert against the employer of such persons, (B) emissions from the engine exhaust of a motor vehicle, rolling stock, aircraft, vessel, or pipeline pumping station engine, (C) release of source, byproduct, or special nuclear material from a nuclear incident, as those terms are defined in the Atomic Energy Act of 1954 \[42 U.S.C. 2011 et seq.\], if such release is subject to requirements with respect to financial protection established by the Nuclear Regulatory Commission under section 170 of such Act \[42 U.S.C.2210\], or, for the purposes of section 9604 of this title or any other response action, any release of source byproduct, or special nuclear material from any processing site designated under section 7912(a)(1) or 7942(a) of this title, and (D) the normal application of fertilizer.
+&emsp;(22) The term “release” means any spilling, leaking, pumping, pouring, emitting, emptying, discharging, injecting, escaping, leaching, dumping, or disposing into the environment (including the abandonment or discarding of barrels, containers, and other closed receptacles containing any hazardous substance or pollutant or contaminant), but excludes (A) any release which results in exposure to persons solely within a workplace, with respect to a claim which such persons may assert against the employer of such persons, (B) emissions from the engine exhaust of a motor vehicle, rolling stock, aircraft, vessel, or pipeline pumping station engine, (C) release of source, byproduct, or special nuclear material from a nuclear incident, as those terms are defined in the Atomic Energy Act of 1954 \[42 U.S.C. 2011 et seq.\], if such release is subject to requirements with respect to financial protection established by the Nuclear Regulatory Commission under section 170 of such Act \[42 U.S.C. 2210\], or, for the purposes of section 9604 of this title or any other response action, any release of source byproduct, or special nuclear material from any processing site designated under section 7912(a)(1) or 7942(a) of this title, and (D) the normal application of fertilizer.
 
-&emsp;(23) The terms “remove” or “removal” means <sup>2</sup> the cleanup or removal of released hazardous substances from the environment, such actions as may be necessary taken in the event of the threat of release of hazardous substances into the environment, such actions as may be necessary to monitor, assess, and evaluate the release or threat of release of hazardous substances, the disposal of removed material, or the taking of such other actions as may be necessary to prevent, minimize, or mitigate damage to the public health or welfare or to the environment, which may otherwise result from a release or threat of release. The term includes, in addition, without being limited to, security fencing or other measures to limit access, provision of alternative water supplies, temporary evacuation and housing of threatened individuals not otherwise provided for, action taken under section 9604(b) of this title, and any emergency assistance which may be provided under the Disaster Relief and Emergency Assistance Act \[42 U.S.C. 5121 et seq.\].
+&emsp;(23) The terms “remove” or “removal” means <sup>3</sup> the cleanup or removal of released hazardous substances from the environment, such actions as may be necessary taken in the event of the threat of release of hazardous substances into the environment, such actions as may be necessary to monitor, assess, and evaluate the release or threat of release of hazardous substances, the disposal of removed material, or the taking of such other actions as may be necessary to prevent, minimize, or mitigate damage to the public health or welfare or to the environment, which may otherwise result from a release or threat of release. The term includes, in addition, without being limited to, security fencing or other measures to limit access, provision of alternative water supplies, temporary evacuation and housing of threatened individuals not otherwise provided for, action taken under section 9604(b) of this title, and any emergency assistance which may be provided under the Disaster Relief and Emergency Assistance Act \[42 U.S.C. 5121 et seq.\].
 
-&emsp;(24) The terms “remedy” or “remedial action” means <sup>2</sup> those actions consistent with permanent remedy taken instead of or in addition to removal actions in the event of a release or threatened release of a hazardous substance into the environment, to prevent or minimize the release of hazardous substances so that they do not migrate to cause substantial danger to present or future public health or welfare or the environment. The term includes, but is not limited to, such actions at the location of the release as storage, confinement, perimeter protection using dikes, trenches, or ditches, clay cover, neutralization, cleanup of released hazardous substances and associated contaminated materials, recycling or reuse, diversion, destruction, segregation of reactive wastes, dredging or excavations, repair or replacement of leaking containers, collection of leachate and runoff, onsite treatment or incineration, provision of alternative water supplies, and any monitoring reasonably required to assure that such actions protect the public health and welfare and the environment. The term includes the costs of permanent relocation of residents and businesses and community facilities where the President determines that, alone or in combination with other measures, such relocation is more cost-effective than and environmentally preferable to the transportation, storage, treatment, destruction, or secure disposition offsite of hazardous substances, or may otherwise be necessary to protect the public health or welfare; the term includes offsite transport and offsite storage, treatment, destruction, or secure disposition of hazardous substances and associated contaminated materials.
+&emsp;(24) The terms “remedy” or “remedial action” means <sup>3</sup> those actions consistent with permanent remedy taken instead of or in addition to removal actions in the event of a release or threatened release of a hazardous substance into the environment, to prevent or minimize the release of hazardous substances so that they do not migrate to cause substantial danger to present or future public health or welfare or the environment. The term includes, but is not limited to, such actions at the location of the release as storage, confinement, perimeter protection using dikes, trenches, or ditches, clay cover, neutralization, cleanup of released hazardous substances and associated contaminated materials, recycling or reuse, diversion, destruction, segregation of reactive wastes, dredging or excavations, repair or replacement of leaking containers, collection of leachate and runoff, onsite treatment or incineration, provision of alternative water supplies, and any monitoring reasonably required to assure that such actions protect the public health and welfare and the environment. The term includes the costs of permanent relocation of residents and businesses and community facilities where the President determines that, alone or in combination with other measures, such relocation is more cost-effective than and environmentally preferable to the transportation, storage, treatment, destruction, or secure disposition offsite of hazardous substances, or may otherwise be necessary to protect the public health or welfare; the term includes offsite transport and offsite storage, treatment, destruction, or secure disposition of hazardous substances and associated contaminated materials.
 
-&emsp;(25) The terms “respond” or “response” means <sup>2</sup> remove, removal, remedy, and remedial action;,<sup>3</sup> all such terms (including the terms “removal” and “remedial action”) include enforcement activities related thereto.
+&emsp;(25) The terms “respond” or “response” means <sup>3</sup> remove, removal, remedy, and remedial action;,<sup>4</sup> all such terms (including the terms “removal” and “remedial action”) include enforcement activities related thereto.
 
-&emsp;(26) The terms “transport” or “transportation” means <sup>2</sup> the movement of a hazardous substance by any mode, including a hazardous liquid pipeline facility (as defined in section 60101(a)(5) of title 49), and in the case of a hazardous substance which has been accepted for transportation by a common or contract carrier, the term “transport” or “transportation” shall include any stoppage in transit which is temporary, incidental to the transportation movement, and at the ordinary operating convenience of a common or contract carrier, and any such stoppage shall be considered as a continuity of movement and not as the storage of a hazardous substance.
+&emsp;(26) The terms “transport” or “transportation” means <sup>3</sup> the movement of a hazardous substance by any mode, including a hazardous liquid pipeline facility (as defined in section 60101(a) of title 49), and in the case of a hazardous substance which has been accepted for transportation by a common or contract carrier, the term “transport” or “transportation” shall include any stoppage in transit which is temporary, incidental to the transportation movement, and at the ordinary operating convenience of a common or contract carrier, and any such stoppage shall be considered as a continuity of movement and not as the storage of a hazardous substance.
 
 &emsp;(27) The terms “United States” and “State” include the several States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, American Samoa, the United States Virgin Islands, the Commonwealth of the Northern Marianas, and any other territory or possession over which the United States has jurisdiction.
 
@@ -68,7 +190,7 @@ For purpose of this subchapter—
 
 &emsp;(30) The terms “territorial sea” and “contiguous zone” shall have the meaning provided in section 1362 of title 33.
 
-&emsp;(31) The term “national contingency plan” means the national contingency plan published under section 1321(c) <sup>4</sup> of title 33 or revised pursuant to section 9605 of this title.
+&emsp;(31) The term “national contingency plan” means the national contingency plan published under section 1321(c) <sup>5</sup> of title 33 or revised pursuant to section 9605 of this title.
 
 &emsp;(32) The terms “liable” or “liability” under this subchapter shall be construed to be the standard of liability which obtains under section 1321 of title 33.
 
@@ -106,15 +228,15 @@ For purpose of this subchapter—
 
 &emsp;(38) The term “incineration vessel” means any vessel which carries hazardous substances for the purpose of incineration of such substances, so long as such substances or residues of such substances are on board.
 
-(Pub. L. 96–510, title I, §101, Dec. 11, 1980, 94 Stat. 2767; Pub. L. 96–561, title II, §238(b), Dec. 22, 1980, 94 Stat. 3300; Pub. L. 99–499, title I, §§101, 114(b), 127(a), title V, §517(c)(2), Oct. 17, 1986, 100 Stat. 1615, 1652, 1692, 1774; Pub. L. 100–707, title I, §109(v), Nov. 23, 1988, 102 Stat. 4710; Pub. L. 103–429, §7(e)(1), Oct. 31, 1994, 108 Stat. 4390.)
+(Pub. L. 96–510, title I, §101, Dec. 11, 1980, 94 Stat. 2767; Pub. L. 96–561, title II, §238(b), Dec. 22, 1980, 94 Stat. 3300; Pub. L. 99–499, title I, §§101, 114(b), 127(a), title V, §517(c)(2), Oct. 17, 1986, 100 Stat. 1615, 1652, 1692, 1774; Pub. L. 100–707, title I, §109(v), Nov. 23, 1988, 102 Stat. 4710; Pub. L. 103–429, §7(e)(1), Oct. 31, 1994, 108 Stat. 4390; Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], title II, §2502(b), Sept. 30, 1996, 110 Stat. 3009, 3009–41, 3009–464; Pub. L. 104–287, §6(j)(1), Oct. 11, 1996, 110 Stat. 3399.)
 
 #### References in Text
 
-This chapter, referred to in pars. (5), (13), (20)(D), and (35)(C), (D), was in the original “this Act”, meaning Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, as amended, known as the Comprehensive Environmental Response, Compensation, and Liability Act of 1980. For complete classification of this Act to the Code, see Short Title note below and Tables.
+This chapter, referred to in pars. (5), (13), (20)(D), (G), and (35)(C), (D), was in the original “this Act”, meaning Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, as amended, known as the Comprehensive Environmental Response, Compensation, and Liability Act of 1980. For complete classification of this Act to the Code, see Short Title note below and Tables.
 
-The Safe Drinking Water Act, referred to in pars. (7) and (10), is Pub. L. 93–523, Dec. 16, 1974, 88 Stat. 1660, asamended, which is classified principally to subchapter XII (§300f et seq.) of chapter 6A of this title. Part C of the Safe Drinking Water Act is classified generally to part C (§300h et seq.) of subchapter XII of chapter 6A of this title. For complete classification of this Act to the Code, see Short Title of 1974 Amendments note set out under section 201 of this title and Tables.
+The Safe Drinking Water Act, referred to in pars. (7) and (10), is title XIV of act July 1, 1944, as added Dec. 16, 1974, Pub. L. 93–523, §2(a), 88 Stat. 1660, as amended, which is classified generally to subchapter XII (§300f et seq.) of chapter 6A of this title. Part C of the Safe Drinking Water Act is classified generally to part C (§300h et seq.) of subchapter XII of chapter 6A of this title. For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.
 
-The Magnuson Fishery Conservation and Management Act, referred to in pars. (8) and (16), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, which is classified principally to chapter 38 (§1801 et seq.) of Title 16, Conservation. The fishery conservation zone established by this Act, referred to in par. (16), was established by section 101 of this Act (16 U.S.C. 1811), which as amended generally by Pub. L. 99–659, title I, §101(b), Nov. 14, 1986, 100 Stat. 3706, relates to United States sovereign rights and fishery management authority over fish within the exclusive economic zone as defined in section 1802 of Title 16. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 16 and Tables.
+The Magnuson-Stevens Fishery Conservation and Management Act, referred to in pars. (8) and (16), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, which is classified principally to chapter 38 (§1801 et seq.) of Title 16, Conservation. The fishery conservation zone established by this Act, referred to in par. (16), was established by section 101 of this Act (16 U.S.C. 1811), which as amended generally by Pub. L. 99–659, title I, §101(b), Nov. 14, 1986, 100 Stat. 3706, relates to United States sovereign rights and fishery management authority over fish within the exclusive economic zone as defined in section 1802 of Title 16. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 16 and Tables.
 
 The Clean Air Act, referred to in par. (10), is act July 14, 1955, ch. 360, as amended generally by Pub. L. 88–206, Dec. 17, 1963, 77 Stat. 392, and later by Pub. L. 95–95, Aug. 7, 1977, 91 Stat. 685. The Clean Air Act was originally classified to chapter 15B (§1857 et seq.) of this title. On enactment of Pub. L. 95–95, the Act was reclassified to chapter 85 (§7401 et seq.) of this title. Parts C and D of title I of the Clean Air Act are classified generally to parts C (§7470 et seq.) and D (§7501 et seq.), respectively, of subchapter I of chapter 85 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of this title and Tables.
 
@@ -122,15 +244,19 @@ The Atomic Energy Act of 1954, referred to in pars. (10) and (22), is act Aug. 3
 
 The Solid Waste Disposal Act, referred to in par. (14), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat. 997, as amended generally by Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2795, which is classified generally to chapter 82 (§6901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of this title and Tables.
 
+The Farm Credit Act of 1971, referred to in par. (20)(G)(iv)(III), is Pub. L. 92–181, Dec. 10, 1971, 85 Stat. 583, as amended, which is classified generally to chapter 23 (§2001 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 2001 of Title 12 and Tables.
+
 The Disaster Relief and Emergency Assistance Act, referred to in par. (23), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, as amended, known as the Robert T. Stafford Disaster Relief and Emergency Assistance Act, which is classified principally to chapter 68 (§5121 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of this title and Tables.
 
 Section 1321(c) of title 33, referred to in par. (31), was amended generally by Pub. L. 101–380, title IV, §4201(a), Aug. 18, 1990, 104 Stat. 523, and no longer contains provisions directing the publishing of a National Contingency Plan. However, such provisions are contained in section 1321(d) of Title 33, Navigation and Navigable Waters.
 
-#### Codification
-
-In par. (26), “section 60101(a)(5) of title 49” substituted for “the Pipeline Safety Act”, probably meaning “the Hazardous Liquid Pipeline Safety Act of 1979”, on authority of Pub. L. 103–272, §6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
-
 #### Amendments
+
+1996—Pars. (8), (16). Pub. L. 104–208, §101(a) \[title II, §211(b)\], substituted “Magnuson-Stevens Fishery” for “Magnuson Fishery”.
+
+Par. (20)(E) to (G). Pub. L. 104–208, §2502(b), added subpars. (E) to (G).
+
+Par. (26). Pub. L. 104–287 substituted “section 60101(a) of title 49” for “the Pipeline Safety Act”.
 
 1994—Par. (26). Pub. L. 103–429 substituted “a hazardous liquid pipeline facility” for “pipeline”.
 
@@ -152,7 +278,7 @@ Pars. (17) to (19). Pub. L. 99–499, §101(f), inserted “The term” and subs
 
 Par. (20)(A). Pub. L. 99–499, §101(f), inserted “The term”.
 
-Pub. L. 99–499, §101(b)(2), amended cl. (iii) generally. Prior to amendment, cl. (iii) read as follows: “in the case of any abandoned facility, any person who owned, operated, or otherwise controlled activities at such facility immediately prior to such abandonment.”
+Pub. L. 99–499, §101(b)(2), amended cl. (iii) generally. Prior to amendment, cl. (iii) read as follows: “in thecase of any abandoned facility, any person who owned, operated, or otherwise controlled activities at such facility immediately prior to such abandonment.”
 
 Pub. L. 99–499, §101(b)(3), in provisions following subcl. (iii), substituted a period for the semicolon at end.
 
@@ -166,7 +292,7 @@ Par. (22). Pub. L. 99–499, §101(c), (f), inserted “The term” and “(incl
 
 Par. (23). Pub. L. 99–499, §101(f), inserted “The terms” and substituted a period for the semicolon at end.
 
-Par. (24). Pub. L. 99–499, §101(d), (f), inserted “The terms” and substituted “and associated contaminated materials” for “or contaminated materials” and “welfare; the term includes offsite transport and offsite storage, treatment, destruction, or secure disposition of hazardous substances and associated contaminated materials.” for “welfare. The term does not include offsite transport of hazardous substances, or the storage, treatment, destruction, or secure disposition offsite of such hazardous substances or contaminated materials unless the President determines that such actions (A) are more cost-effective than other remedial actions, (B) will create new capacity to manage, in compliance with subtitle C of the Solid Waste Disposal Act \[42 U.S.C. 6921 et seq.\], hazardous substances in addition to those located at the affected facility, or (C) are necessary to protect public health or welfare or the environment from a present or potential risk which may be created by further exposure to the continued presence of such substances or materials;”. The part of §101(f) of Pub. L. 99–499 which directed amendment of par. (24) by changing the semicolon at end to a period could not be executed in view of prior amendment of par. (24) by §101(d) of Pub. L. 99–499 which substituted language at end ofpar. (24) ending in a period for former language ending in a semicolon.
+Par. (24). Pub. L. 99–499, §101(d), (f), inserted “The terms” and substituted “and associated contaminated materials” for “or contaminated materials” and “welfare; the term includes offsite transport and offsite storage, treatment, destruction, or secure disposition of hazardous substances and associated contaminated materials.” for “welfare. The term does not include offsite transport of hazardous substances, or the storage, treatment, destruction, or secure disposition offsite of such hazardous substances or contaminated materials unless the President determines that such actions (A) are more cost-effective than other remedial actions, (B) will create new capacity to manage, in compliance with subtitle C of the Solid Waste Disposal Act \[42 U.S.C. 6921 et seq.\], hazardous substances in addition to those located at the affected facility, or (C) are necessary to protect public health or welfare or the environment from a present or potential risk which may be created by further exposure to the continued presence of such substances or materials;”. The part of §101(f) of Pub. L. 99–499 which directed amendment of par. (24) by changing the semicolon at end to a period could not be executed in view of prior amendment of par. (24) by §101(d) of Pub. L. 99–499 which substituted language at end of par. (24) ending in a period for former language ending in a semicolon.
 
 Par. (25). Pub. L. 99–499, §101(e), (f), inserted “The terms” and “, all such terms (including the terms ‘removal’ and ‘remedial action’) include enforcement activities related thereto.” The part of §101(f) of Pub. L. 99–499 which directed amendment of par. (25) by changing the semicolon at end to a period could not be executed in view of prior amendment of par. (25) by §101(e) of Pub. L. 99–499 inserting language and a period at end of par. (25).
 
@@ -188,7 +314,13 @@ Par. (37). Pub. L. 99–499, §114(b), added par. (37).
 
 Par. (38). Pub. L. 99–499, §127(a), added par. (38).
 
-1980—Pars. (8), (10). Pub. L. 96–561 substituted “Magnuson Fishery Conservation and Management Act” for “Fishery Conservation and Management Act of 1976”.
+1980—Pars. (8), (16). Pub. L. 96–561 substituted “Magnuson Fishery Conservation and Management Act” for “Fishery Conservation and Management Act of 1976”.
+
+#### Effective Date of 1996 Amendment
+
+Section 101(a) \[title II, §211(b)\] of div. A of Pub. L. 104–208 provided that the amendment made by that section is effective 15 days after Oct. 11, 1996.
+
+Amendment by section 2502(b) of Pub. L. 104–208 applicable with respect to any claim that has not been finally adjudicated as of Sept. 30, 1996, see section 2505 of Pub. L. 104–208, set out as a note under section 6991b of this title.
 
 #### Effective Date of 1986 Amendment
 
@@ -198,7 +330,11 @@ Amendment by section 517(c)(2) of Pub. L. 99–499 effective Jan. 1, 1987, see s
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96–561 effective 15 days after Dec. 22, 1980, see section 238 of Pub. L. 96–561, set out as a Short Title of 1980 Amendment note under section 1801 of Title 16, Conservation.
+Section 238(b) of Pub. L. 96–561 provided that the amendment made by that section is effective 15 days after Dec. 22, 1980.
+
+#### Short Title of 1996 Amendment
+
+Section 2501 of div. A of Pub. L. 104–208 provided that: “This subtitle \[subtitle E (§§2501–2505) of title II of div. A of Pub. L. 104–208, amending this section and sections 6991b and 9607 of this title and enacting provisions set out as a note under section 6991b of this title\] may be cited as the ‘Asset Conservation, Lender Liability, and Deposit Insurance Protection Act of 1996’.”
 
 #### Short Title of 1992 Amendment
 
@@ -210,7 +346,7 @@ Section 1 of Pub. L. 99–499 provided that: “This Act \[enacting subchapter I
 
 #### Short Title
 
-Section 1 of Pub. L. 96–510 provided: “That this Act \[enacting this chapter, section 6911a of this title, and sections 4611, 4612, 4661, 4662, 4681, and 4682 of Title 26, Internal Revenue Code, amending section 6911 of this title, section 1364 of Title 33, Navigation and Navigable Waters, and section 11901 of Title 49, Transportation, and enacting provisions set out as notes under section 6911 of this title and sections 1 and 4611 of Title 26\] may be cited as the ‘Comprehensive Environmental Response, Compensation, and Liability Act of 1980’.”
+Section 1 of Pub. L. 96–510 provided: “That this Act \[enacting this chapter, section 6911a of this title, andsections 4611, 4612, 4661, 4662, 4681, and 4682 of Title 26, Internal Revenue Code, amending section 6911 of this title, section 1364 of Title 33, Navigation and Navigable Waters, and section 11901 of Title 49, Transportation, and enacting provisions set out as notes under section 6911 of this title and sections 1 and 4611 of Title 26\] may be cited as the ‘Comprehensive Environmental Response, Compensation, and Liability Act of 1980’.”
 
 #### Transfer of Functions
 
@@ -232,13 +368,15 @@ Administrator.—The term ‘Administrator’ means the Administrator of the Env
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 300g–1, 2297, 6991, 9602, 9603, 9607, 9613, 9624, 9656, 11004 of this title; title 7 section 1985; title 10 sections 2692, 2701, 2707, 2708, 2810; title 14 section 690; title 33 section 2701.
+This section is referred to in sections 300g–1, 2297, 6991, 6991b, 9602, 9603, 9607, 9613, 9624, 9656, 11004 of this title; title 7 section 1985; title 10 sections 2692, 2701, 2707, 2708, 2810; title 14 section 690; title 33 section 2701.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “or”.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “mean”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be followed by a closing parenthesis.</i>
 
-<i><sup>3</sup></i><i> So in original.</i>
+<i><sup>3</sup></i><i> So in original. Probably should be “mean”.</i>
 
-<i><sup>4</sup></i><i> See References in Text note below.</i>
+<i><sup>4</sup></i><i> So in original.</i>
+
+<i><sup>5</sup></i><i> See References in Text note below.</i>
 

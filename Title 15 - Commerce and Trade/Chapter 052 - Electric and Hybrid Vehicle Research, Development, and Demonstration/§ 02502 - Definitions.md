@@ -14,7 +14,7 @@ As used in this chapter, the term—
 
 &emsp;&emsp;(D) at a minimum, can be produced, distributed, operated, and disposed of in compliance with any applicable requirement of Federal law;
 
-&emsp;(3) “commercial electric or hybrid vehicle” includes any electric or hybrid vehicle which can be used (A) for business or agricultural production purposes on farms (e.g. tractors and trucks) or in rural areas, or (B) for commercial purposes in urban areas;
+&emsp;(3) “commercial electric or hybrid vehicle” includes any electric or hybrid vehicle which can be used (A) for business or agricultural production purposes on farms (e.g. tractorsand trucks) or in rural areas, or (B) for commercial purposes in urban areas;
 
 &emsp;(4) “electric vehicle” means a vehicle which is powered by an electric motor drawing current from rechargeable storage batteries, fuel cells, or other portable sources of electrical current, and which may include a nonelectrical source of power designed to charge batteries and components thereof;
 
@@ -30,7 +30,7 @@ As used in this chapter, the term—
 
 #### Codification
 
-Par. (1), which read “ ‘Administrator’ means the Administrator of the Energy Research and DevelopmentAdministration”, has been omitted from the Code in view of the termination of the Energy Research and Development Administration and the transfer of the functions of the Administration and the Administrator thereof to the Secretary of Energy pursuant to sections 301(a) and 703 of Pub. L. 95–91 which are classified to sections 7151(a) and 7293 of Title 42, The Public Health and Welfare. “Secretary of Energy” has been substituted for “Administrator” wherever appearing in this chapter.
+Par. (1), which read “ ‘Administrator’ means the Administrator of the Energy Research and Development Administration”, has been omitted from the Code in view of the termination of the Energy Research and Development Administration and the transfer of the functions of the Administration and the Administrator thereof to the Secretary of Energy pursuant to sections 301(a) and 703 of Pub. L. 95–91 which are classified to sections 7151(a) and 7293 of Title 42, The Public Health and Welfare. “Secretary of Energy” has been substituted for “Administrator” wherever appearing in this chapter.
 
 Par. (7), which read “ ‘Secretary’ means the Secretary of Transportation”, has been omitted from the Code as unnecessary. In view of the substitution of “Secretary of Energy” for “Administrator” in this chapter, and for clarity, “Secretary of Transportation” has been substituted for “Secretary” wherever appearing in this chapter.
 

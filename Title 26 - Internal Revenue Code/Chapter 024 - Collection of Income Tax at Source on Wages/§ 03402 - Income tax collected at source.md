@@ -12,7 +12,7 @@
 
 #### (2) Amount of wages
 
-&emsp;For purposes of applying tables or procedures prescribed under paragraph (1), the term “the amount of wages” means the amount by which the wages exceed the number of withholding exemptions claimed multiplied by the amount of one such exemption. The amount of each withholding exemption shall be equal to the amount of one personal exemption provided in section 151(b), prorated to the payroll period. The maximum number of withholding exemptions permitted shall be calculated in accordance with regulations prescribed by the Secretary under this section, taking into account any reduction in withholding to which an employee is entitled under this section.
+&emsp;For purposes of applying tables or procedures prescribed under paragraph (1), the term“the amount of wages” means the amount by which the wages exceed the number of withholding exemptions claimed multiplied by the amount of one such exemption. The amount of each withholding exemption shall be equal to the amount of one personal exemption provided in section 151(b), prorated to the payroll period. The maximum number of withholding exemptions permitted shall be calculated in accordance with regulations prescribed by the Secretary under this section, taking into account any reduction in withholding to which an employee is entitled under this section.
 
 #### (b) Percentage method of withholding
 
@@ -32,7 +32,7 @@
 
 (3) In any case in which wages are paid by an employer without regard to any payroll period or other period, the amount to be deducted and withheld shall be that applicable in the case of a miscellaneous payroll period containing a number of days equal to the number of days (including Sundays and holidays) which have elapsed since the date of the last payment of such wages by such employer during the calendar year, or the date of commencement of employment with such employer during such year, or January 1 of such year, whichever is the later.
 
-(4) In any case in which the period, or the time described in paragraph (3), in respect of any wages is less than one week, the Secretary, under regulations prescribed by him, may authorize an employer to determine the amount to be deducted and withheld under the tables applicable in the case of a weekly payroll period, in which case the aggregate of the wages paid tothe employee during the calendar week shall be considered the weekly wages.
+(4) In any case in which the period, or the time described in paragraph (3), in respect of any wages is less than one week, the Secretary, under regulations prescribed by him, may authorize an employer to determine the amount to be deducted and withheld under the tables applicable in the case of a weekly payroll period, in which case the aggregate of the wages paid to the employee during the calendar week shall be considered the weekly wages.
 
 (5) If the wages exceed the highest wage bracket, in determining the amount to be deducted and withheld under this subsection, the wages may, at the election of the employer, be computed to the nearest dollar.
 
@@ -54,7 +54,7 @@ If the remuneration paid by an employer to an employee for services performed du
 
 &emsp;&emsp;(A) an exemption for himself unless he is an individual described in section 151(d)(2);
 
-&emsp;&emsp;(B) if the employee is married, any exemption to which his spouse is entitled, or would be entitled if such spouse were an employee receiving wages, under subparagraph (A) or (D), but only if such spouse does not have in effect a withholding exemption certificate claiming such exemption;
+&emsp;&emsp;(B) if the employee is married, any exemption to which his spouse is entitled, or would be entitled if such spouse were an employee receiving wages, under subparagraph (A) or (D), but only if such spouse does not have ineffect a withholding exemption certificate claiming such exemption;
 
 &emsp;&emsp;(C) an exemption for each individual with respect to whom, on the basis of facts existing at the beginning of such day, there may reasonably be expected to be allowable an exemption under section 151(c) for the taxable year under subtitle A in respect of which amounts deducted and withheld under this chapter in the calendar year in which such day falls are allowed as a credit;
 
@@ -82,7 +82,7 @@ If the remuneration paid by an employer to an employee for services performed du
 
 #### (A) First certificate furnished
 
-&emsp;&emsp;A withholding exemption certificate furnished the employer in cases in which noprevious such certificate is in effect shall take effect as of the beginning of the first payroll period ending, or the first payment of wages made without regard to a payroll period, on or after the date on which such certificate is so furnished.
+&emsp;&emsp;A withholding exemption certificate furnished the employer in cases in which no previous such certificate is in effect shall take effect as of the beginning of the first payroll period ending, or the first payment of wages made without regard to a payroll period, on or after the date on which such certificate is so furnished.
 
 #### (B) Furnished to take place of existing certificate
 
@@ -204,7 +204,7 @@ In the case of tips which constitute wages, subsection (a) shall be applicable o
 
 &emsp;&emsp;(A) as not married, if (i) he is legally separated from his spouse under a decree of divorce or separate maintenance, or (ii) either he or his spouse is, or on any preceding day within the calendar year was, a nonresident alien; or
 
-&emsp;&emsp;(B) as married, if (i) his spouse (other than a spouse referred to in subparagraph (A)) died within the portion of his taxable year which precedes such day, or (ii) his spouse died during one of the two taxable years immediately preceding the current taxableyear and, on the basis of facts existing at the beginning of such day, the employee reasonably expects, at the close of his taxable year, to be a surviving spouse (as defined in section 2(a)).
+&emsp;&emsp;(B) as married, if (i) his spouse (other than a spouse referred to in subparagraph (A)) died within the portion of his taxable year which precedes such day, or (ii) his spouse died during one of the two taxable years immediately preceding the current taxable year and, on the basis of facts existing at the beginning of such day, the employee reasonably expects, at the close of his taxable year, to be a surviving spouse (as defined in section 2(a)).
 
 #### (m) Withholding allowances
 
@@ -276,7 +276,7 @@ Notwithstanding any other provision of this section, an employer shall not be re
 
 &emsp;&emsp;&emsp;(ii) in the case of an annuity, at such time (after the date on which such request is furnished to the payor) as the Secretary shall by regulations prescribe.
 
-> &emsp;Such a request may be changed or terminated by furnishing to the person making the payments a written statement of change or termination which shall take effect in the samemanner as provided in subparagraph (C). At the election of the payor, any such request (or statement of change or revocation) may take effect earlier than as provided in subparagraph (C).
+> &emsp;Such a request may be changed or terminated by furnishing to the person making the payments a written statement of change or termination which shall take effect in the same manner as provided in subparagraph (C). At the election of the payor, any such request (or statement of change or revocation) may take effect earlier than as provided in subparagraph (C).
 
 #### (5) Special rule for sick pay paid pursuant to certain collective-bargaining agreements
 
@@ -294,13 +294,45 @@ Notwithstanding any other provision of this section, an employer shall not be re
 
 #### (p) Voluntary withholding agreements
 
-The Secretary is authorized by regulations to provide for withholding—
+#### (1) Certain Federal payments
 
-&emsp;(1) from remuneration for services performed by an employee for his employer which (without regard to this subsection) does not constitute wages, and
+#### (A) In general
 
-&emsp;(2) from any other type of payment with respect to which the Secretary finds that withholding would be appropriate under the provisions of this chapter,
+&emsp;&emsp;If, at the time a specified Federal payment is made to any person, a request by such person is in effect that such payment be subject to withholding under this chapter, then for purposes of this chapter and so much of subtitle F as relates to this chapter, such payment shall be treated as if it were a payment of wages by an employer to an employee.
 
-> if the employer and the employee, or in the case of any other type of payment the person making and the person receiving the payment, agree to such withholding. Such agreement shall be made in such form and manner as the Secretary may by regulations provide. For purposes of this chapter (and so much of subtitle F as relates to this chapter) remuneration or other payments with respect to which such agreement is made shall be treated as if they were wages paid by an employer to an employee to the extent that such remuneration is paid or other payments are made during the period for which the agreement is in effect.
+#### (B) Amount withheld
+
+&emsp;&emsp;The amount to be deducted and withheld under this chapter from any payment to which any request under subparagraph (A) applies shall be an amount equal to the percentage of such payment specified in such request. Such a request shall apply to any payment only if the percentage specified is 7, 15, 28, or 31 percent or such other percentage as is permitted under regulations prescribed by the Secretary.
+
+#### (C) Specified Federal payments
+
+&emsp;&emsp;For purposes of this paragraph, the term “specified Federal payment” means—
+
+&emsp;&emsp;&emsp;(i) any payment of a social security benefit (as defined in section 86(d)),
+
+&emsp;&emsp;&emsp;(ii) any payment referred to in the second sentence of section 451(d) which is treated as insurance proceeds,
+
+&emsp;&emsp;&emsp;(iii) any amount which is includible in gross income under section 77(a), and
+
+&emsp;&emsp;&emsp;(iv) any other payment made pursuant to Federal law which is specified by the Secretary for purposes of this paragraph.
+
+#### (D) Requests for withholding
+
+&emsp;&emsp;Rules similar to the rules that apply to annuities under subsection (<i>o</i>)(4) shall apply to requests under this paragraph and paragraph (2).
+
+#### (2) Voluntary withholding on unemployment benefits
+
+&emsp;If, at the time a payment of unemployment compensation (as defined in section 85(b)) is made to any person, a request by such person is in effect that such payment be subject to withholding under this chapter, then for purposes of this chapter and so much of subtitle F as relates to this chapter, such payment shall be treated as if it were a payment of wages by an employer to an employee. The amount to be deducted and withheld under this chapter from any payment to which any request under this paragraph applies shall be an amount equal to 15 percent of such payment.
+
+#### (3) Authority for other voluntary withholding
+
+&emsp;The Secretary is authorized by regulations to provide for withholding—
+
+&emsp;&emsp;(A) from remuneration for services performed by an employee for the employee's employer which (without regard to this paragraph) does not constitute wages, and
+
+&emsp;&emsp;(B) from any other type of payment with respect to which the Secretary finds that withholding would be appropriate under the provisions of this chapter,
+
+> &emsp;if the employer and employee, or the person making and the person receiving such other type of payment, agree to such withholding. Such agreement shall be in such form and manner as the Secretary may by regulations prescribe. For purposes of this chapter (and so much of subtitle F as relates to this chapter), remuneration or other payments with respect to which such agreement is made shall be treated as if they were wages paid by an employer to an employee to the extent that such remuneration is paid or other payments are made during the period for which the agreement is in effect.
 
 #### (q) Extension of withholding to certain gambling winnings
 
@@ -408,53 +440,7 @@ The Secretary is authorized by regulations to provide for withholding—
 
 &emsp;&emsp;(B) which consists of providing a highway motor vehicle for the use of the employee.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 457; Aug. 9, 1955, ch. 666, §2, 69 Stat. 605; Sept. 21, 1961, Pub. L. 87–256, §110(g)(2), 75 Stat. 537; Feb. 26, 1964, Pub. L. 88–272, title III, §302(a), (b), 78 Stat. 140; July 30, 1965, Pub. L. 89–97, title III, §313(d)(3)–(5), 79 Stat. 384; Sept. 29, 1965, Pub. L. 89–212, §2(c), 79 Stat. 859; Mar. 15, 1966, Pub. L. 89–368, title I, §101(a)–(e)(3), 80 Stat. 38–61; June 28, 1968, Pub. L. 90–364, title I, §102(c), 82 Stat. 256; June 30, 1969, Pub. L. 91–36, §2(a), 83 Stat. 42; Aug. 7, 1969, Pub. L. 91–53, §6(a), 83 Stat. 96; Dec. 30, 1969, Pub. L. 91–172, title VIII, §805(a)–(e), (f)(1), (g), 83 Stat. 686, 704–708; Dec. 10, 1971, Pub. L. 92–178, title II, §208(a), (b)(1), (c)–(h)(1), 85 Stat. 512–517; Mar. 29, 1975, Pub. L. 94–12, title II, §§202(b), 205, 89 Stat. 29, 32; Dec. 23, 1975, Pub. L. 94–164, §§2(b)(2), 5(a)(1), 89 Stat. 971, 975; June 30, 1976, Pub. L. 94–331, §3(a)(1), 90 Stat. 782; Sept. 3, 1976, Pub. L. 94–396, §2(a)(1), 90 Stat. 1201; Sept. 17, 1976, Pub. L. 94–414, §3(a)(1), 90 Stat. 1273; Oct. 4, 1976, Pub. L. 94–455, title IV, §401(d), title V, §§502(b), 504(c)(3), title XII, §1207(d), title XIX, §§1903(a)(17), 1906(b)(13)(A), 90 Stat. 1557, 1559, 1566, 1705, 1810, 1834; May 23, 1977, Pub. L. 95–30, title I, §105, title IV, §405(a), 91 Stat. 140, 156; Nov. 6, 1978, Pub. L. 95–600, title I, §§101(e), 102(c), title VI, §601(b)(2), 92 Stat. 2770, 2771, 2896; Dec. 24, 1980, Pub. L. 96–601, §4(a)–(d), 94 Stat. 3496, 3497; Aug. 13, 1981, Pub. L. 97–34, title I, §101(e), 95 Stat. 184; Sept. 3, 1982, Pub. L. 97–248, title III, §§317(a), 334(d), 96 Stat. 607, 627; Aug. 5, 1983, Pub. L. 98–67, title I, §104(d)(3), 97 Stat. 380; May 24, 1985, Pub. L. 99–44, §3, 99 Stat. 77; Oct. 22, 1986, Pub. L. 99–514, title I, §104(b)(15), title XIII, §§1301(j)(8), 1303(b)(4), title XV, §1581(b), 100 Stat. 2106, 2658, 2766; Dec. 22, 1987, Pub. L. 100–203, title X, §10302(a), 101 Stat. 1330–429; Nov.10, 1988, Pub. L. 100–647, title I, §1003(a)(2), 102 Stat. 3382; Nov. 5, 1990, Pub. L. 101–508, title XI, §11801(a)(41), 104 Stat. 1388–521; July 3, 1992, Pub. L. 102–318, title V, §522(b)(2)(D), 106 Stat. 314; Oct. 24, 1992, Pub. L. 102–486, title XIX, §§1934(a), 1942(a), 106 Stat. 3031, 3036; Dec. 8, 1994, Pub. L. 103–465, title VII, §§701(a), 702(a), 108 Stat. 4995, 4996.)
-
-#### Amendment of Subsection (p)
-
-<i>Pub. L. 103–465, title VII, §702(a), (d), Dec. 8, 1994, 108 Stat. 4996, 4997, provided that, applicable to payments made after Dec. 31, 1996, subsection (p) of this section is amended to read as follows:</i>
-
-#### (p) Voluntary withholding agreements
-
-#### (1) Certain Federal payments
-
-#### (A) In general
-
-&emsp;&emsp;If, at the time a specified Federal payment is made to any person, a request by such person is in effect that such payment be subject to withholding under this chapter, then for purposes of this chapter and so much of subtitle F as relates to this chapter, such payment shall be treated as if it were a payment of wages by an employer to an employee.
-
-#### (B) Amount withheld
-
-&emsp;&emsp;The amount to be deducted and withheld under this chapter from any payment to which any request under subparagraph (A) applies shall be an amount equal to the percentage of such payment specified in such request. Such a request shall apply to any payment only if the percentage specified is 7, 15, 28, or 31 percent or such other percentage as is permitted under regulations prescribed by the Secretary.
-
-#### (C) Specified Federal payments
-
-&emsp;&emsp;For purposes of this paragraph, the term “specified Federal payment” means—
-
-&emsp;&emsp;&emsp;<i>(i) any payment of a social security benefit (as defined in section 86(d)),</i>
-
-&emsp;&emsp;&emsp;<i>(ii) any payment referred to in the second sentence of section 451(d) which is treated as insurance proceeds,</i>
-
-&emsp;&emsp;&emsp;<i>(iii) any amount which is includible in gross income under section 77(a), and</i>
-
-&emsp;&emsp;&emsp;<i>(iv) any other payment made pursuant to Federal law which is specified by the Secretary for purposes of this paragraph.</i>
-
-#### (D) Requests for withholding
-
-&emsp;&emsp;Rules similar to the rules that apply to annuities under subsection (<i>o</i>)(4) shall apply to requests under this paragraph and paragraph (2).
-
-#### (2) Voluntary withholding on unemployment benefits
-
-&emsp;If, at the time a payment of unemployment compensation (as defined in section 85(b)) is made to any person, a request by such person is in effect that such payment be subject to withholding under this chapter, then for purposes of this chapter and so much of subtitle F as relates to this chapter, such payment shall be treated as if it were a payment of wages by an employer to an employee. The amount to be deducted and withheld under this chapter from any payment to which any request under this paragraph applies shall be an amount equal to 15 percent of such payment.
-
-#### (3) Authority for other voluntary withholding
-
-&emsp;The Secretary is authorized by regulations to provide for withholding—
-
-&emsp;&emsp;(A) from remuneration for services performed by an employee for the employee's employer which (without regard to this paragraph) does not constitute wages, and
-
-&emsp;&emsp;(B) from any other type of payment with respect to which the Secretary finds that withholding would be appropriate under the provisions of this chapter,
-
-> &emsp;if the employer and employee, or the person making and the person receiving such other type of payment, agree to such withholding. Such agreement shall be in such form and manner as the Secretary may by regulations prescribe. For purposes of this chapter (and so much of subtitle F as relates to this chapter), remuneration or other payments with respect to which such agreement is made shall be treated as if they were wages paid by an employer to an employee to the extent that such remuneration is paid or other payments are made during the period for which the agreement is in effect.
+(Aug. 16, 1954, ch. 736, 68A Stat. 457; Aug. 9, 1955, ch. 666, §2, 69 Stat. 605; Sept. 21, 1961, Pub. L. 87–256, §110(g)(2), 75 Stat. 537; Feb. 26, 1964, Pub. L. 88–272, title III, §302(a), (b), 78 Stat. 140; July 30, 1965, Pub. L. 89–97, title III, §313(d)(3)–(5), 79 Stat. 384; Sept. 29, 1965, Pub. L. 89–212, §2(c), 79 Stat. 859; Mar. 15, 1966, Pub. L. 89–368, title I, §101(a)–(e)(3), 80 Stat. 38–61; June 28, 1968, Pub. L. 90–364, title I, §102(c), 82 Stat. 256; June 30, 1969, Pub. L. 91–36, §2(a), 83 Stat. 42; Aug. 7, 1969, Pub. L. 91–53, §6(a), 83 Stat. 96; Dec. 30, 1969, Pub. L. 91–172, title VIII, §805(a)–(e), (f)(1), (g), 83 Stat. 686, 704–708; Dec. 10, 1971, Pub. L. 92–178, title II, §208(a), (b)(1), (c)–(h)(1), 85 Stat. 512–517; Mar. 29, 1975, Pub. L. 94–12, title II, §§202(b), 205, 89 Stat. 29, 32; Dec. 23, 1975, Pub. L. 94–164, §§2(b)(2), 5(a)(1), 89 Stat. 971, 975; June 30, 1976, Pub. L. 94–331, §3(a)(1), 90 Stat. 782; Sept. 3, 1976, Pub. L. 94–396, §2(a)(1), 90 Stat. 1201; Sept. 17, 1976, Pub. L. 94–414, §3(a)(1), 90 Stat. 1273; Oct. 4, 1976, Pub. L. 94–455, title IV, §401(d), title V, §§502(b), 504(c)(3), title XII, §1207(d), title XIX, §§1903(a)(17), 1906(b)(13)(A), 90 Stat. 1557, 1559, 1566, 1705, 1810, 1834; May 23, 1977, Pub. L. 95–30, title I, §105, title IV, §405(a), 91 Stat. 140, 156; Nov. 6, 1978, Pub. L. 95–600, title I, §§101(e), 102(c), title VI, §601(b)(2), 92 Stat. 2770, 2771, 2896; Dec. 24, 1980, Pub. L. 96–601, §4(a)–(d), 94 Stat. 3496, 3497; Aug. 13, 1981, Pub. L. 97–34, title I, §101(e), 95 Stat. 184; Sept. 3, 1982, Pub. L. 97–248, title III, §§317(a), 334(d), 96 Stat. 607, 627; Aug. 5,1983, Pub. L. 98–67, title I, §104(d)(3), 97 Stat. 380; May 24, 1985, Pub. L. 99–44, §3, 99 Stat. 77; Oct. 22, 1986, Pub. L. 99–514, title I, §104(b)(15), title XIII, §§1301(j)(8), 1303(b)(4), title XV, §1581(b), 100 Stat. 2106, 2658, 2766; Dec. 22, 1987, Pub. L. 100–203, title X, §10302(a), 101 Stat. 1330–429; Nov. 10, 1988, Pub. L. 100–647, title I, §1003(a)(2), 102 Stat. 3382; Nov. 5, 1990, Pub. L. 101–508, title XI, §11801(a)(41), 104 Stat. 1388–521; July 3, 1992, Pub. L. 102–318, title V, §522(b)(2)(D), 106 Stat. 314; Oct. 24, 1992, Pub. L. 102–486, title XIX, §§1934(a), 1942(a), 106 Stat. 3031, 3036; Dec. 8, 1994, Pub. L. 103–465, title VII, §§701(a), 702(a), 108 Stat. 4995, 4996.)
 
 #### References in Text
 
@@ -466,7 +452,15 @@ The date of the enactment of this subsection, referred to in subsec. (r)(4), is 
 
 #### Amendments
 
-1994—Subsec. (r). Pub. L. 103–465, §701(a), added subsec. (r).
+1994—Subsec. (p). Pub. L. 103–465, §702(a), reenacted heading without change and amended text of subsec. (p) generally. Prior to amendment, text read as follows: “The Secretary is authorized by regulations to provide for withholding—
+
+&emsp;“(1) from remuneration for services performed by an employee for his employer which (without regard to this subsection) does not constitute wages, and
+
+&emsp;“(2) from any other type of payment with respect to which the Secretary finds that withholding would be appropriate under the provisions of this chapter,
+
+> if the employer and the employee, or in the case of any other type of payment the person making and the person receiving the payment, agree to such withholding. Such agreement shall be made in such form and manner as the Secretary may by regulations provide. For purposes of this chapter (and so much of subtitle F as relates to this chapter) remuneration or other payments with respect to which such agreement is made shall be treated as if they were wages paid by an employer to an employee to the extent that such remuneration is paid or other payments are made during the period for which the agreement is in effect.”
+
+Subsec. (r). Pub. L. 103–465, §701(a), added subsec. (r).
 
 1992—Subsec. (<i>o</i>)(6). Pub. L. 102–318 substituted “3405(e)(1)” for “3405(d)(1)”.
 
@@ -486,7 +480,7 @@ Subsec. (q)(3)(A), (C). Pub. L. 102–486, §1942(a), substituted “$5,000” f
 
 1988—Subsec. (m)(1). Pub. L. 100–647 substituted “section 62(a) (other than paragraph (10) thereof))” for “section 62) (other than paragraph (13) thereof)”.
 
-1987—Subsec. (f)(3)(B). Pub. L. 100–203 amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “A withholding exemption certificate furnished the employer in cases in which a previous such certificate is in effect shall take effect with respect to the first payment of wages made on or afterthe first status determination date which occurs at least 30 days from the date on which such certificate is so furnished, except that at the election of the employer such certificate may be made effective with respect to any payment of wages made on or after the date on which such certificate is so furnished; but a certificate furnished pursuant to paragraph (2)(C) shall not take effect, and may not be made effective, with respect to any payment of wages made in the calendar year in which the certificate is furnished. For purposes of this subparagraph the term ‘status determination date’ means January 1, May 1, July 1, and October 1 of each year.”
+1987—Subsec. (f)(3)(B). Pub. L. 100–203 amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “A withholding exemption certificate furnished the employer in cases in which a previous such certificate is in effect shall take effect with respect to the first payment of wages made on or after the first status determination date which occurs at least 30 days from the date on which such certificate is so furnished, except that at the election of the employer such certificate may be made effective with respect to any payment of wages made on or after the date on which such certificate is so furnished; but a certificate furnished pursuant to paragraph (2)(C) shall not take effect, and may not be made effective, with respect to any payment of wages made in the calendar year in which the certificate is furnished. For purposes of this subparagraph the term ‘status determination date’ means January 1, May 1, July 1, and October 1 of each year.”
 
 1986—Subsec. (f)(1). Pub. L. 99–514, §104(b)(15)(F), substituted “standard deduction” for “zero bracket” and “subparagraph (E)” for “subparagraph (G)” in last sentence.
 
@@ -548,7 +542,7 @@ Subsec. (<i>o</i>)(4), (5). Pub. L. 96–601, §4(b), added pars. (4) and (5).
 
 1978—Subsec. (a). Pub. L. 95–600, §101(e)(1), substituted “With respect to wages paid after December 31, 1978, the tables so prescribed shall be the same as the tables prescribed under this subsection which were in effect on January 1, 1975, except that such tables shall be modified to the extent necessary to reflect the amendments made by sections 101 and 102 of the Tax Reduction and Simplification Act of 1977 and the amendments made by section 101 of the Revenue Act of 1978.” for “With respect to wages paid after May 31, 1977, and before January 1, 1979, the tables so prescribed shall be the same as the tables prescribed under this subsection which were in effect on January 1, 1976; except that such tables shall be modified to the extent necessary so that, had they been in effect for all of 1977, they would reflect the full year effect of the amendments made by sections 101 and 102 of the Tax Reduction and Simplification Act of 1977. With respect to wages paid after December 31, 1978, the tables so prescribed shall be the same as the tables prescribed under this subsection which were in effect on January 1, 1975, except that such tables shall be modified to the extent necessary to reflect the amendments made by sections 101 and 102 of the Tax Reduction and Simplification Act of 1977.”.
 
-Subsec. (b)(1). Pub. L. 95–600, §102(c)(1), increased the amounts set out in the table for one withholding exemption for each of the payroll period categories from $14.40, $28.80, $31.30, $62.50, $187.50, $375.00, $750.00 and$2.10 to $19.23, $38.46, $41.66, $83.33, $250.00, $500.00, $1,000.00 and $2.74, respectively.
+Subsec. (b)(1). Pub. L. 95–600, §102(c)(1), increased the amounts set out in the table for one withholding exemption for each of the payroll period categories from $14.40, $28.80, $31.30, $62.50, $187.50, $375.00, $750.00 and $2.10 to $19.23, $38.46, $41.66, $83.33, $250.00, $500.00, $1,000.00 and $2.74, respectively.
 
 Subsec. (m)(1). Pub. L. 95–600, §§101(e)(2), 102(c)(2), substituted “$1,000” for “$750”, “$3,400” for “$3,200” and “$2,300” for “$2,200”.
 
@@ -672,7 +666,7 @@ Subsec. (c)(1). Pub. L. 89–368, §101(c), replaced existing tables with separa
 
 Subsec. (f)(1)(F), (3)(B). Pub. L. 89–368, §101(e)(1), (3), added par. (1)(F) and, in par. (3)(B), changed definition of “status determination date” from January 1 and July 1 of each year to January 1, May 1, July 1, and October 1 of each year.
 
-Subsec. (<i>l</i>). Pub. L. 89–368, §101(d), added subsec. (<i>l).</i>
+Subsec. (<i>l</i>). Pub. L. 89–368, §101(d), added subsec. (<i>l</i>).
 
 Subsec. (m). Pub. L. 89–368, §101(e)(2), added subsec. (m).
 

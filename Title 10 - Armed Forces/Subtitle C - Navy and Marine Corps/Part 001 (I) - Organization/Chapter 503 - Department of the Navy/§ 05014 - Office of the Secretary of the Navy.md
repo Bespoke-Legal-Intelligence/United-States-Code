@@ -76,7 +76,7 @@
 
 (3) The total number of general and flag officers assigned or detailed to permanent duty in the Office of the Secretary of the Navy, the Office of the Chief of Naval Operations, and the Headquarters, Marine Corps, may not exceed the number equal to 85 percent of the number of general and flag officers assigned or detailed to such duty on the date of the enactment of this subsection.
 
-(4) The limitations in paragraphs (1), (2), and (3) do not apply in time of war or during a national emergency declared by the President or Congress. The limitation in paragraph (2) doesnot apply whenever the President determines that it is in the national interest to increase the number of officers assigned or detailed to permanent duty in the Office of the Secretary of the Navy, the Office of the Chief of Naval Operations, or the Headquarters, Marine Corps.
+(4) The limitations in paragraphs (1), (2), and (3) do not apply in time of war or during a national emergency declared by the President or Congress. The limitation in paragraph (2) does not apply whenever the President determines that it is in the national interest to increase the number of officers assigned or detailed to permanent duty in the Office of the Secretary of the Navy, the Office of the Chief of Naval Operations, or the Headquarters, Marine Corps.
 
 (Added Pub. L. 99–433, title V, §511(c)(4), Oct. 1, 1986, 100 Stat. 1045; amended Pub. L. 100–180, div. A, title XIII, §1314(b)(7), Dec. 4, 1987, 101 Stat. 1175; Pub. L. 100–456, div. A, title III, §325(b), Sept. 29, 1988, 102 Stat. 1955; Pub. L. 101–189, div. A, title VI, §652(a)(4), Nov. 29, 1989, 103 Stat. 1461.)
 

@@ -58,7 +58,7 @@ The Administrator is authorized to make grants to a municipality to assist in th
 
 #### (j) Assistance for recycle, reuse, and land treatment projects
 
-The Administrator is authorized to make a grant to any grantee who received an increased grant pursuant to section 1282(a)(2) of this title. Such grant may pay up to 100 per centum of the costs of technical evaluation of the operation of the treatment works, costs of training of persons (other than employees of the grantee), and costs of disseminating technical information on the operation of the treatment works.
+The Administrator is authorized to make a grant to any grantee who received an increasedgrant pursuant to section 1282(a)(2) of this title. Such grant may pay up to 100 per centum of the costs of technical evaluation of the operation of the treatment works, costs of training of persons (other than employees of the grantee), and costs of disseminating technical information on the operation of the treatment works.
 
 (June 30, 1948, ch. 758, title I, §105, as added Oct. 18, 1972, Pub. L. 92–500, §2, 86 Stat. 825; amended Jan. 2, 1975, Pub. L. 93–592, §2, 88 Stat. 1925; Dec. 27, 1977, Pub. L. 95–217, §§8, 9, 91 Stat. 1568.)
 

@@ -16,11 +16,15 @@
 
 (3) A discharge in bankruptcy under title 11 that is entered less than 5 years after the termination of an agreement under this section does not discharge the member signing such agreement from a debt arising under such agreement or under paragraph (1). This paragraph applies to any case commenced under title 11 after September 30, 1981.
 
-(c) No bonus may be paid under this section with respect to an enlistment in the Army after September 30, 1996.
+(c) No bonus may be paid under this section with respect to an enlistment in the Army after September 30, 1998.
 
-(Added Pub. L. 97–60, title I, §117(c)(1), Oct. 14, 1981, 95 Stat. 996; amended Pub. L. 98–14, §2, Mar. 30, 1983, 97 Stat. 55; Pub. L. 98–525, title VI, §621(a), Oct. 19, 1984, 98 Stat. 2540; Pub. L. 100–180, div. A, title VI, §626(a), Dec. 4, 1987, 101 Stat. 1104; Pub. L. 102–25, title VII, §702(b)(2), Apr. 6, 1991, 105 Stat. 117; Pub. L. 103–160, div. A, title VI, §613(e), Nov. 30, 1993, 107 Stat. 1681; Pub. L. 103–337, div. A, title VI, §613(c), Oct. 5, 1994, 108 Stat. 2783.)
+(Added Pub. L. 97–60, title I, §117(c)(1), Oct. 14, 1981, 95 Stat. 996; amended Pub. L. 98–14, §2, Mar. 30, 1983, 97 Stat. 55; Pub. L. 98–525, title VI, §621(a), Oct. 19, 1984, 98 Stat. 2540; Pub. L. 100–180, div. A, title VI, §626(a), Dec. 4, 1987, 101 Stat. 1104; Pub. L. 102–25, title VII, §702(b)(2), Apr. 6, 1991, 105 Stat. 117; Pub. L. 103–160, div. A, title VI, §613(e), Nov. 30, 1993, 107 Stat. 1681; Pub. L. 103–337, div. A, title VI, §613(c), Oct. 5, 1994, 108 Stat. 2783; Pub. L. 104–106, div. A, title VI, §613(c), Feb. 10, 1996, 110 Stat. 359; Pub. L. 104–201, div. A, title VI, §613(c), Sept. 23, 1996, 110 Stat. 2544.)
 
 #### Amendments
+
+1996—Subsec. (c). Pub. L. 104–201 substituted “September 30, 1998” for “September 30, 1997”.
+
+Pub. L. 104–106 substituted “September 30, 1997” for “September 30, 1996”.
 
 1994—Subsec. (c). Pub. L. 103–337 substituted “September 30, 1996” for “September 30, 1995”.
 
@@ -41,8 +45,4 @@ Section 613(h)(3) of Pub. L. 103–160 provided that: “The amendment made by s
 #### Effective Date
 
 Section applicable to enlistments and reenlistments after Oct. 14, 1981, see section 117(d) of Pub. L. 97–60, set out as an Effective Date of 1981 Amendment note under section 308 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 10 section 227.
 

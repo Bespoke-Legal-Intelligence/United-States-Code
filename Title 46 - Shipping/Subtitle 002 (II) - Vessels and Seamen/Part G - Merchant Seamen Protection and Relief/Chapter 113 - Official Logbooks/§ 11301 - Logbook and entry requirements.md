@@ -4,7 +4,7 @@
 
 &emsp;(1) on a voyage from a port in the United States to a foreign port; or
 
-&emsp;(2) of at least 100 gross tons and is on a voyage between a port of the United States on the Atlantic Ocean and on the Pacific Ocean.
+&emsp;(2) of at least 100 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title and is on a voyage between a port of the United States on the Atlantic Ocean and on the Pacific Ocean.
 
 (b) The master of the vessel shall make or have made in the official logbook the following entries:
 
@@ -24,7 +24,7 @@
 
 &emsp;(8) each marriage on board, with the names and ages of the parties.
 
-&emsp;(9) the name of each seaman who ceases to be a crewmember (except by death), with the place, time, manner, and the cause why the seaman ceased to be a crewmember.
+&emsp;(9) the name of each seaman who ceases to be a crewmember (except by death), with theplace, time, manner, and the cause why the seaman ceased to be a crewmember.
 
 &emsp;(10) the wages due to a seaman who dies during the voyage and the gross amount of all deductions to be made from the wages.
 
@@ -32,7 +32,7 @@
 
 &emsp;(12) when a marine casualty occurs, a statement about the casualty and the circumstances under which it occurred, made immediately after the casualty when practicable to do so.
 
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 581; Pub. L. 98–557, §30, Oct. 30, 1984, 98 Stat. 2875.)
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 581; Pub. L. 98–557, §30, Oct. 30, 1984, 98 Stat. 2875; Pub. L. 104–324, title VII, §742, Oct. 19, 1996, 110 Stat. 3942.)
 
 Historical and Revision Notes
 
@@ -47,6 +47,8 @@ Historical and Revision Notes
 Section 11301 requires United States vessels on certain types of voyages to have an official logbook and lists the types of entries that must be made in the logbook.
 
 #### Amendments
+
+1996—Subsec. (a)(2). Pub. L. 104–324 inserted “as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title” after “100 gross tons”.
 
 1984—Subsec. (a). Pub. L. 98–557 amended subsec. (a) generally, which prior to amendment read as follows: “A vessel of the United States on a voyage between a port in the United States and a port in a foreign country, and a vessel of the United States of at least 75 gross tons on a voyage between a port of the United States on the Atlantic Ocean and a port of the United States on the Pacific Ocean, shall have an official logbook.”
 

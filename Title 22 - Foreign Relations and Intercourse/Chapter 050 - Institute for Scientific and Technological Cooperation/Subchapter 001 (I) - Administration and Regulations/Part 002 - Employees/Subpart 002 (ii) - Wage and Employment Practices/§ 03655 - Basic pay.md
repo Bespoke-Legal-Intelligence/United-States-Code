@@ -6,13 +6,17 @@ The head of each agency, in accordance with the provisions of this subpart, shal
 
 #### (b) Relationship of same or similar work performed in United States or certain other areas outside United States
 
-The rates of basic pay may be established and revised in relation to the rates of basic pay for the same or similar work performed in the United States or in such areas outside the United States as may be designated in the regulations prescribed under section 3663 of this title.
+The rates of basic pay may be established and revised in relation to the rates of basic pay for the same or similar work performed in the United States or in such areas outside the United States as may be designated in the regulations prescribed under section 3663 <sup>1</sup> of this title.
 
 #### (c) Adjustments in rates; limits
 
 The head of each agency may make adjustments in rates of basic pay established under subsection (b) of this section in amounts not to exceed the amounts of the adjustments made from time to time by or under statute in the corresponding rates of basic pay for the same or similar work referred to in such subsection (b) of this section. The head of the agency may designate the effective date of any such adjustment, except that that date may not be earlier than the effective date of the adjustment in the corresponding rate of basic pay.
 
 (Pub. L. 96–70, title I, §1215, Sept. 27, 1979, 93 Stat. 465.)
+
+#### References in Text
+
+Section 3663 of this title, referred to in subsec. (b), was amended generally by Pub. L. 104–201, div. C, title XXXV, §3535, Sept. 23, 1996, 110 Stat. 2863, and, as so amended, no longer authorizes the prescribing of regulations.
 
 #### Adoption of Basic Pay Schedule and Regulations Governing Other Matters Relating to Pay and Employment Practices
 
@@ -25,4 +29,6 @@ For provisions requiring consultations with the Secretary of Defense for agencie
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 3656, 3658, 3659 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

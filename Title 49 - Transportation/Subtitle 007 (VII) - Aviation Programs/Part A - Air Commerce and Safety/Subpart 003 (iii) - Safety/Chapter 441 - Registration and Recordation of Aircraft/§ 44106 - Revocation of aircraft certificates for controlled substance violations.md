@@ -24,7 +24,7 @@ Advice to Holders and Opportunity To Answer.—Before the Administrator revokes 
 
 (d)
 
-Appeals.—(1) A person whose certificate is revoked by the Administrator under subsection (b) of this section may appeal the revocation order to the National Transportation Safety Board. The Board shall affirm or reverse the order after providing notice and a hearing on the record. In conducting the hearing, the Boardis not bound by the findings of fact of the Administrator.
+Appeals.—(1) A person whose certificate is revoked by the Administrator under subsection (b) of this section may appeal the revocation order to the National Transportation Safety Board. The Board shall affirm or reverse the order after providing notice and a hearing on the record. In conducting the hearing, the Board is not bound by the findings of fact of the Administrator.
 
 (2) When a person files an appeal with the Board under this subsection, the order of the Administrator revoking the certificate is stayed. However, if the Administrator advises the Board that safety in air transportation or air commerce requires the immediate effectiveness of the order—
 
@@ -48,7 +48,9 @@ Acquittal.—(1) The Administrator may not revoke, and the Board may not affirm 
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -56,25 +58,25 @@ Historical and Revision Notes
 
 44106(a)
 
-49 App.:1401(e) (2)(C).
+49 App.:1401(e)(2)(C).
 
-Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §501(e)(2)(A)–(C), (F); added Oct. 19, 1984, Pub. L. 98–499, §4(a), 98 Stat. 2314, 2315.
+Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §501(e)(2)(A)– (C), (F); added Oct. 19, 1984, Pub. L. 98–499, §4(a), 98 Stat. 2314, 2315.
 
 44106(b)
 
-49 App.:1401(e) (2)(A) (less last sentence).
+49 App.:1401(e)(2)(A) (less last sentence).
 
 44106(c)
 
-49 App.:1401(e) (2)(B) (1st sentence).
+49 App.:1401(e)(2)(B) (1st sentence).
 
 44106(d)
 
-49 App.:1401(e) (2)(B) (2d–last sentences).
+49 App.:1401(e)(2)(B) (2d–last sentences).
 
 44106(e)
 
-49 App.:1401(e) (2)(A) (last sentence), (F).
+49 App.:1401(e)(2)(A) (last sentence), (F).
 
 In subsection (b)(2), the words “knowing that the aircraft was to be used for the activity described in paragraph (1)(A) of this subsection” are substituted for “with knowledge of such intended use” for clarity.
 

@@ -64,7 +64,9 @@ Relationship to Other Laws.—(1) Sections 5323(a)(1)(D) and 5333(b) of this tit
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

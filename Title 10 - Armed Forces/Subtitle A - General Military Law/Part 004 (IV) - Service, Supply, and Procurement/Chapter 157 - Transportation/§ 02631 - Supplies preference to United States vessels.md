@@ -54,5 +54,5 @@ Ronald Reagan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2350b, 2551 of this title; title 46 App. section 1241s.
+This section is referred to in sections 2350b, 2643 of this title; title 46 App. section 1241s.
 

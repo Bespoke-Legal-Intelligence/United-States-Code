@@ -66,7 +66,7 @@
 
 (6) Any payment made under paragraph (1) which is later denied under paragraph (3)(B) is a claim of the United States Government for purposes of section 3711 of title 31.
 
-(e)(1) Under regulations prescribed by the President, the benefits provided by the Soldiers’ and Sailors’ Civil Relief Act of 1940, including the benefits provided by section 701 of such Act but excluding the benefits provided by sections 104, 105, 106, 400 through 408,<sup>1</sup> 501 through 512, and514 of such Act, shall be provided in the case of any individual who is a captive.
+(e)(1) Under regulations prescribed by the President, the benefits provided by the Soldiers’ and Sailors’ Civil Relief Act of 1940, including the benefits provided by section 701 of such Actbut excluding the benefits provided by sections 104, 105, 106, 400 through 408,<sup>1</sup> 501 through 512, and 514 of such Act, shall be provided in the case of any individual who is a captive.
 
 (2) In applying such Act under this subsection—
 
@@ -140,13 +140,13 @@ The date of the enactment of the Victims of Terrorism Compensation Act \[title V
 
 Section 802 of the Victims of Terrorism Compensation Act \[Pub. L. 99–399\], referred to in subsec. (d)(2), is set out as a note below.
 
-The Soldiers’ and Sailors’ Relief Act of 1940, referred to in subsec. (e)(1), is act Oct. 17, 1940, ch. 888, 54 Stat. 1178, as amended, which is classified to section 501 et seq. of the Appendix to Title 50, War and National Defense. Sections 104, 105, 106, 400 through 408, 501 through 512, 514, and 701 of the Act are classified to sections 514, 515, 516, 540 through 548, 561 through 572, 574, and 591, respectively, of the Appendix to Title 50. For complete classification of this Act to the Code, see section 501 of Appendix to Title 50 and Tables.
+The Soldiers’ and Sailors’ Relief Act of 1940, referred to in subsec. (e)(1), is act Oct. 17, 1940, ch. 888, 54 Stat. 1178, as amended, which is classified to section 501 etseq. of the Appendix to Title 50, War and National Defense. Sections 104, 105, 106, 400 through 408, 501 through 512, 514, and 701 of the Act are classified to sections 514, 515, 516, 540 through 548, 561 through 572, 574, and 591, respectively, of the Appendix to Title 50. For complete classification of this Act to the Code, see section 501 of Appendix to Title 50 and Tables.
 
 Section 408, referred to in subsec. (e)(1), is section 408 of act Oct. 17, 1940, ch. 888, 54 Stat. 1185, as amended, which was classified to section 548 of the Appendix to Title 50, War and National Defense, and was repealed by Pub. L. 102–12, §9(18), Mar. 18, 1991, 105 Stat. 40.
 
 #### Amendments
 
-<b>1991</b>—Subsec. (f)(3)(A). Pub. L. 102–83 substituted “section 3524 of title 38” for “section 1724 of title 38”.
+1991—Subsec. (f)(3)(A). Pub. L. 102–83 substituted “section 3524 of title 38” for “section 1724 of title 38”.
 
 #### Short Title
 

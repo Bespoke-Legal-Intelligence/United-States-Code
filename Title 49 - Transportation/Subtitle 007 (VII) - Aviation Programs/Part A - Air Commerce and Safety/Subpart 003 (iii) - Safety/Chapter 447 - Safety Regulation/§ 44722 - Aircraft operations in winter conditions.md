@@ -6,7 +6,9 @@ The Administrator of the Federal Aviation Administration shall prescribe regulat
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -19,4 +21,8 @@ Historical and Revision Notes
 Oct. 31, 1992, Pub. L. 102–581, §124, 106 Stat. 4885.
 
 The words “Before November 1, 1992” are omitted as obsolete. The words “prescribe regulations requiring” are substituted for “require, by regulation”, and the words “other factors the Administrator considers appropriate” are substituted for “among other things”, for consistency in the revised title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 46301, 46316 of this title.
 

@@ -20,7 +20,7 @@ In determining the amount of any State's Federal share of the expenditures incur
 
 #### (1) In kind contributions
 
-&emsp;The non-Federal share of the cost of any project assisted by a grant or an allotment under this subchapter may be provided in kind.
+&emsp;The non-Federal share of the cost of any project assisted by a grant or an allotmentunder this subchapter may be provided in kind.
 
 #### (2) Contributions of political subdivisions, public, or private entities
 

@@ -34,7 +34,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in title 2 sections 1302, 1314, 1371, 1434.
+This chapter is referred to in title 2 sections 1302, 1314, 1371, 1434; title 3 sections 402, 414.
 
 
 ---

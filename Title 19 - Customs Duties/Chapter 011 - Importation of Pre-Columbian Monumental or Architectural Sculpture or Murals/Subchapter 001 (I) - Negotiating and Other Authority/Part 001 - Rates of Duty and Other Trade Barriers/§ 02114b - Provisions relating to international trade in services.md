@@ -6,7 +6,7 @@
 
 &emsp;(B) develop a data base for assessing the adequacy of Government policies and actions pertaining to services, including, but not limited to, data on trade, both aggregate and pertaining to individual service industries;
 
-&emsp;(C) collect and analyze, in consultation with appropriate agencies, information pertainingto the international operations and competitiveness of United States service industries, including information with respect to—
+&emsp;(C) collect and analyze, in consultation with appropriate agencies, information pertaining to the international operations and competitiveness of United States service industries, including information with respect to—
 
 &emsp;&emsp;(i) policies of foreign governments toward foreign and United States service industries;
 

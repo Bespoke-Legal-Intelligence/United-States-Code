@@ -52,5 +52,5 @@ Period of limitation on action for recovery of erroneous refund, see section 653
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 302, 4961, 6013, 6503, 6672, 6694, 6703 of this title.
+This section is referred to in sections 302, 4961, 6013, 6103, 6503, 6672, 6694, 6703 of this title.
 

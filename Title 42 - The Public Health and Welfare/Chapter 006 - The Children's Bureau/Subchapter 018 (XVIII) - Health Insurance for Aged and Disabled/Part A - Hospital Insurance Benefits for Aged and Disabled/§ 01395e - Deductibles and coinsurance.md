@@ -28,7 +28,7 @@
 
 #### (b) Inpatient hospital deductible; application
 
-(1) The inpatient hospital deductible for 1987 shall be $520. The inpatient hospital deductible for any succeeding year shall be an amountequal to the inpatient hospital deductible for the preceding calendar year, changed by the Secretary's best estimate of the payment-weighted average of the applicable percentage increases (as defined in section 1395ww(b)(3)(B) of this title) which are applied under section 1395ww(d)(3)(A) of this title for discharges in the fiscal year that begins on October 1 of such preceding calendar year, and adjusted to reflect changes in real case mix (determined on the basis of the most recent case mix data available). Any amount determined under the preceding sentence which is not a multiple of $4 shall be rounded to the nearest multiple of $4 (or, if it is midway between two multiples of $4, to the next higher multiple of $4).
+(1) The inpatient hospital deductible for 1987 shall be $520. The inpatient hospital deductible for any succeeding year shall be an amount equal to the inpatient hospital deductible for the preceding calendar year, changed by the Secretary's best estimate of the payment-weighted average of the applicable percentage increases (as defined in section 1395ww(b)(3)(B) of this title) which are applied under section 1395ww(d)(3)(A) of this title for discharges in the fiscal year that begins on October 1 of such preceding calendar year, and adjusted to reflect changes in real case mix (determined on the basis of the most recent case mix data available). Any amount determined under the preceding sentence which is not a multiple of $4 shall be rounded to the nearest multiple of $4 (or, if it is midway between two multiples of $4, to the next higher multiple of $4).
 
 (2) The Secretary shall promulgate the inpatient hospital deductible and all coinsurance amounts under this section between September 1 and September 15 of the year preceding the year to which they will apply.
 
@@ -38,7 +38,7 @@
 
 &emsp;(B) to the coinsurance amounts under subsection (a) of this section for inpatient hospital services, inpatient rural primary care hospital services and post-hospital extended care services furnished in that year.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1813, as added July 30, 1965, Pub. L. 89–97, title I, §102(a), 79 Stat. 292; amended Jan. 2, 1968, Pub. L. 90–248, title I, §§129(c)(3), (4), 135(a), 137(b), 81 Stat. 847, 848, 852, 854; Aug. 13, 1981, Pub. L. 97–35, title XXI, §§2131(a), 2132(a), 95 Stat. 797; Sept. 3, 1982, Pub. L. 97–248, title I, §122(e), 96 Stat. 361; Apr. 7, 1986, Pub. L. 99–272, title IX, §9125(a), 100 Stat. 168; Oct. 21, 1986, Pub. L. 99–509, title IX, §9301(a), 100 Stat. 1981; Dec. 22, 1987, Pub. L. 100–203, title IV, §4002(f)(3), as added July 1, 1988, Pub. L. 100–360, title IV, §411(b)(1)(H)(ii), 102 Stat. 769; July 1, 1988, Pub. L. 100–360, title I, §102, 102 Stat. 685; Dec. 13, 1989, Pub. L. 101–234, title I, §101(a), 103 Stat. 1979; Oct. 31, 1994, Pub. L. 103–432, title I, §102(g)(2), (3), 108 Stat. 4404.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1813, as added July 30, 1965, Pub. L. 89–97, title I, §102(a), 79 Stat. 292; amended Jan. 2, 1968, Pub. L. 90–248, title I, §§129(c)(3), (4), 135(a), 137(b), 81 Stat. 847, 848, 852, 854; Aug. 13, 1981, Pub. L. 97–35, title XXI, §§2131(a), 2132(a), 95 Stat. 797; Sept. 3, 1982, Pub. L. 97–248, title I, §122(e), 96 Stat. 361; Apr.7, 1986, Pub. L. 99–272, title IX, §9125(a), 100 Stat. 168; Oct. 21, 1986, Pub. L. 99–509, title IX, §9301(a), 100 Stat. 1981; Dec. 22, 1987, Pub. L. 100–203, title IV, §4002(f)(3), as added July 1, 1988, Pub. L. 100–360, title IV, §411(b)(1)(H)(ii), 102 Stat. 769; July 1, 1988, Pub. L. 100–360, title I, §102, 102 Stat. 685; Dec. 13, 1989, Pub. L. 101–234, title I, §101(a), 103 Stat. 1979; Oct. 31, 1994, Pub. L. 103–432, title I, §102(g)(2), (3), 108 Stat. 4404.)
 
 #### Amendments
 
@@ -106,7 +106,7 @@ Section 2132(b) of Pub. L. 97–35 provided that: “The amendments made by subs
 
 #### Effective Date of 1968 Amendment
 
-Amendment by section 129(c)(3), (4) of Pub. L. 90–248 applicable with respect to services furnished after Mar. 31, 1968, see section 129(d) of Pub. L. 90–248, set out as a note under section 1395d of this title.
+Amendment by section 129(c)(3), (4) of Pub. L. 90–248 applicable with respect to services furnished after Mar.31, 1968, see section 129(d) of Pub. L. 90–248, set out as a note under section 1395d of this title.
 
 Section 135(d) of Pub. L. 90–248 provided that: “The amendments made by this section \[amending this section and sections 1395<i>l</i> and 1395cc of this title\] shall apply with respect to payment for blood (or packed red blood cells) furnished an individual after December 31, 1967.”
 
@@ -162,7 +162,7 @@ Section 104(b) of Pub. L. 100–360, as amended by Pub. L. 100–485, title VI, 
 
 &emsp;“(1)(A) section 1813(a)(1) of such Act \[subsec. (a)(1) of this section\] (as amended by this subtitle \[subtitle A (§§101–104) of title I of Pub. L. 100–360\]) shall not apply to services furnished during that spell of illness during 1989, and
 
-&emsp;“(B) if that individual begins a period of hospitalization (as defined in such section) during 1989 after the end of that spell of illness, the first period of hospitalization during 1989 that begins after that spell of illness shall be considered to be (for purposesof such section) the first period of hospitalization that begins during that year; and
+&emsp;“(B) if that individual begins a period of hospitalization (as defined in such section) during 1989 after the end of that spell of illness, the first period of hospitalization during 1989 that begins after that spell of illness shall be considered to be (for purposes of such section) the first period of hospitalization that begins during that year; and
 
 &emsp;“(2) the amount of any deductible under section 1813(a)(2) of such Act (as amended by this subtitle) shall be reduced during that spell of illness during 1989 to the extent the deductible under such section was applied during the spell of illness.”
 

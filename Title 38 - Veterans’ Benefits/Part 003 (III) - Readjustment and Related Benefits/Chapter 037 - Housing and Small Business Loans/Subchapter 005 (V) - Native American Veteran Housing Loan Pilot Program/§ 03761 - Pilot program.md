@@ -14,23 +14,9 @@ Section 8(b) of Pub. L. 102–547 provided that: “In carrying out the direct h
 
 #### Annual Reports on Pilot Program
 
-Section 8(d) of Pub. L. 102–547 provided that: “Not later than February 1 of each of 1994 through 1998, the Secretary of Veterans Affairs shall transmit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report relating to—
-
-&emsp;“(1) the implementation of the Native American veterans direct housing loan pilot program established under subchapter V of chapter 37 of title 38, United States Code (as added by subsection (a)), during the period ending on September 30 of the year preceding the date of the report;
-
-&emsp;“(2) the Secretary's exercise of the authority provided under section 3762(c)(1)(B) of such title (as so added) to make loans exceeding the maximum loan amount;
-
-&emsp;“(3) the appraisals performed for the Secretary during that period under the authority of section 3732(d)(2) of such title (as so added), including a description of—
-
-&emsp;&emsp;“(A) the manner in which such appraisals were performed;
-
-&emsp;&emsp;“(B) the qualifications of the appraisers who performed such appraisals; and
-
-&emsp;&emsp;“(C) the actions taken by the Secretary with respect to such appraisals to protect the interests of veterans and the United States; and
-
-&emsp;“(4) the Secretary's recommendations, if any, for legislation regarding the pilot program.”
+Section 8(d) of Pub. L. 102–547 directed Secretary of Veterans Affairs to transmit report relating to implementation of Native American veterans direct housing loan pilot program established under this subchapter to Committees on Veterans’ Affairs of Senate and House of Representatives not later than Feb. 1 of each of years 1994 through 1998, prior to repeal by Pub. L. 104–110, title II, §201(b), Feb. 13, 1996, 110 Stat. 770.
 
 #### Authorization of Appropriations for Native American Veteran Housing Loans
 
-Section 8(e) of Pub. L. 102–547 provided that: “New direct loan obligations for Native American veteranhousing loans under subchapter V of chapter 37 of title 38, United States Code (as added by subsection (a)), may be incurred only to the extent that appropriations of budget authority to cover the anticipated cost, as defined in section 502 of the Congressional Budget Act of 1974 \[2 U.S.C. 661a\], for such loans are made in advance. There is authorized to be appropriated for such purpose $5,000,000 for fiscal year 1993, which amount shall remain available without fiscal year limitation.”
+Section 8(e) of Pub. L. 102–547 provided that: “New direct loan obligations for Native American veteran housing loans under subchapter V of chapter 37 of title 38, United States Code (as added by subsection (a)), may be incurred only to the extent that appropriations of budget authority to cover the anticipated cost, as defined in section 502 of the Congressional Budget Act of 1974 \[2 U.S.C. 661a\], for such loans are made in advance. There is authorized to be appropriated for such purpose $5,000,000 for fiscal year 1993, which amount shall remain available without fiscal year limitation.”
 

@@ -46,5 +46,5 @@ Civil commitment and rehabilitation of narcotic addicts, penalties for escape or
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2516, 3050, 3592 of this title; title 28 section 2902; title 42 section 3425.
+This section is referred to in sections 2516, 3050, 3592 of this title; title 8 section 1537; title 28 section 2902; title 42 section 3425.
 

@@ -32,7 +32,7 @@ The foreclosure commissioner shall serve the notice of default and foreclosure s
 
 #### (i) Notice under clauses (i) and (ii)
 
-&emsp;&emsp;&emsp;Notice under clauses (i) and (ii) of subparagraph (A) shall be mailed not less than21 days before the date of the foreclosure sale, and shall be mailed to the current owner and mortgagor at the last known address of the current owner and mortgagor, or, if none, to the address of the security property, or, at the discretion of the foreclosure commissioner, to any other address believed to be that of such current owner and mortgagor.
+&emsp;&emsp;&emsp;Notice under clauses (i) and (ii) of subparagraph (A) shall be mailed not less than 21 days before the date of the foreclosure sale, and shall be mailed to the current owner and mortgagor at the last known address of the current owner and mortgagor, or, if none, to the address of the security property, or, at the discretion of the foreclosure commissioner, to any other address believed to be that of such current owner and mortgagor.
 
 #### (ii) Notice under clause (iii)
 
@@ -44,7 +44,7 @@ The foreclosure commissioner shall serve the notice of default and foreclosure s
 
 #### (C) Effectiveness of notice
 
-&emsp;&emsp;Notice by mail pursuant to this section or section 3756(c) of this title shall be deemed duly given upon mailing, whether or not received by the addressee and whether or not a return receipt is received or the notice is returned.
+&emsp;&emsp;Notice by mail pursuant to this section or section 3756(c) of this title shall be deemedduly given upon mailing, whether or not received by the addressee and whether or not a return receipt is received or the notice is returned.
 
 #### (3) Publication
 

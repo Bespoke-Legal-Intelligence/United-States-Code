@@ -4,7 +4,7 @@
 
 If the Administrator finds that—
 
-&emsp;(1)(A)(i) the manufacture, distribution in commerce, processing, use, or disposal of a chemical substance or mixture, or that any combination of such activities, may present an unreasonable risk of injury to health or the environment,
+&emsp;(1)(A)(i) the manufacture, distribution in commerce, processing, use, or disposal of a chemical substance or mixture, or that any combination of such activities, may presentan unreasonable risk of injury to health or the environment,
 
 &emsp;(ii) there are insufficient data and experience upon which the effects of such manufacture, distribution in commerce, processing, use, or disposal of such substance or mixture or of any combination of such activities on health or the environment can reasonably be determined or predicted, and
 
@@ -48,7 +48,7 @@ If the Administrator finds that—
 
 (4) Any rule under subsection (a) of this section requiring the testing of and submission of data for a particular chemical substance or mixture shall expire at the end of the reimbursement period (as defined in subsection (c)(3)(B) of this section) which is applicable to test data for such substance or mixture unless the Administrator repeals the rule before such date; and a rule under subsection (a) of this section requiring the testing of and submission of data for a category of chemical substances or mixtures shall expire with respect to a chemical substance or mixture included in the category at the end of the reimbursement period (as so defined) which is applicable to test data for such substance or mixture unless the Administrator before such date repeals the application of the rule to such substance or mixture or repeals the rule.
 
-(5) Rules issued under subsection (a) of this section (and any substantive amendment thereto or repeal thereof) shall be promulgated pursuant to section 553 of title 5 except that (A) the Administrator shall give interested persons an opportunity for the oral presentation of data,views, or arguments, in addition to an opportunity to make written submissions; (B) a transcript shall be made of any oral presentation; and (C) the Administrator shall make and publish with the rule the findings described in paragraph (1)(A) or (1)(B) of subsection (a) of this section and, in the case of a rule respecting a mixture, the finding described in paragraph (2) of such subsection.
+(5) Rules issued under subsection (a) of this section (and any substantive amendment thereto or repeal thereof) shall be promulgated pursuant to section 553 of title 5 except that (A) the Administrator shall give interested persons an opportunity for the oral presentation of data, views, or arguments, in addition to an opportunity to make written submissions; (B) a transcript shall be made of any oral presentation; and (C) the Administrator shall make and publish with the rule the findings described in paragraph (1)(A) or (1)(B) of subsection (a) of this section and, in the case of a rule respecting a mixture, the finding described in paragraph (2) of such subsection.
 
 #### (c) Exemption
 
@@ -88,7 +88,7 @@ If the Administrator finds that—
 
 &emsp;(ii) to any other person who has been required under this subparagraph to contribute with respect to the costs of complying with such rule, for a portion of the amount such person was required to contribute.
 
-> In promulgating rules for the determination of fair and equitable reimbursement to the persons described in clauses (i) and (ii) for costs incurred with respect to a chemical substance or mixture, the Administrator shall, after consultation with the Attorney General and the Federal Trade Commission, consider the factors described in the second sentence of paragraph (3)(A). An order under this subparagraph shall, for purposes of judicial review, be considered final agency action.
+> In promulgating rules for the determination of fair and equitable reimbursement to the personsdescribed in clauses (i) and (ii) for costs incurred with respect to a chemical substance or mixture, the Administrator shall, after consultation with the Attorney General and the Federal Trade Commission, consider the factors described in the second sentence of paragraph (3)(A). An order under this subparagraph shall, for purposes of judicial review, be considered final agency action.
 
 (B) If any exemption is granted under paragraph (2) on the basis of the fact that one or more persons are developing test data pursuant to a rule promulgated under subsection (a) of this section and if after such exemption is granted the Administrator determines that no such person has complied with such rule, the Administrator shall (i) after providing written notice to the person who holds such exemption and an opportunity for a hearing, by order terminate such exemption, and (ii) notify in writing such person of the requirements of the rule with respect to which such exemption was granted.
 
@@ -178,7 +178,7 @@ Section effective Jan. 1, 1977, except as provided in subsec. (f) of this sectio
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2604, 2606, 2607, 2611, 2613, 2614, 2617 to 2620, 2623, 2625, 2626, 2630 of this title; title 42 section 9604.
+This section is referred to in sections 2604, 2606, 2607, 2611, 2613, 2614, 2617 to 2620, 2623, 2625, 2626, 2630 of this title; title 21 section 346a; title 42 section 9604.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “preceding”.</i>
 

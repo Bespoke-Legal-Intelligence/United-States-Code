@@ -10,13 +10,13 @@ The Customs Service shall collect any increased or additional duties and fees du
 
 #### (c) Interest
 
-Interest assessed due to an underpayment of duties, fees, or interest shall accrue, at a rate determined by the Secretary, from the date the importer of record is required to deposit estimated duties, fees, and interest to the date of liquidation or reliquidation of the applicable entry or reconciliation. Interest on excess moneys deposited shall accrue, at a rate determined by the Secretary, from the date the importer of record deposits estimated duties, fees, and interest to the date of liquidation or reliquidation of the applicable entry or reconciliation.
+Interest assessed due to an underpayment of duties, fees, or interest shall accrue, at a rate determined by the Secretary, from the date the importer of record is required to deposit estimated duties, fees, and interest to the date of liquidation or reliquidation of the applicable entry or reconciliation. Interest on excess moneys deposited shall accrue, at a rate determined by the Secretary, from the date the importer of record deposits estimated duties, fees, and interest or, in a case in which a claim is made under section 1520(d) of this title, from the date on which such claim is made, to the date of liquidation or reliquidation of the applicable entry or reconciliation.
 
 #### (d) Delinquency
 
 If duties, fees, and interest determined to be due or refunded are not paid in full within the 30-day period specified in subsection (b) of this section, any unpaid balance shall be considered delinquent and bear interest by 30-day periods, at a rate determined by the Secretary, from the date of liquidation or reliquidation until the full balance is paid. No interest shall accrue during the 30-day period in which payment is actually made.
 
-(June 17, 1930, ch. 497, title IV, §505, 46 Stat. 732; June 2, 1970, Pub. L. 91–271, title II, §204(c), 84 Stat. 283; Oct. 3, 1978, Pub. L. 95–410, title I, §103, 92 Stat. 889; Jan. 12, 1983, Pub. L. 97–446, title II, §201(e), 96 Stat. 2350; Oct. 30, 1984, Pub. L. 98–573, title II, §210(a), 98 Stat. 2977; Dec. 8, 1993, Pub. L. 103–182, title VI, §642(a), 107 Stat. 2205.)
+(June 17, 1930, ch. 497, title IV, §505, 46 Stat. 732; June 2, 1970, Pub. L. 91–271, title II, §204(c), 84 Stat. 283; Oct. 3, 1978, Pub. L. 95–410, title I, §103, 92 Stat. 889; Jan. 12, 1983, Pub. L. 97–446, title II, §201(e), 96 Stat. 2350; Oct. 30, 1984, Pub. L. 98–573, title II, §210(a), 98 Stat. 2977; Dec. 8, 1993, Pub. L. 103–182, title VI, §642(a), 107 Stat. 2205; Oct. 11, 1996, Pub. L. 104–295, §2(a), 110 Stat. 3515.)
 
 #### Prior Provisions
 
@@ -25,6 +25,8 @@ Provisions similar to those in this section were contained in act Sept. 21, 1922
 A prior provision that the collector or person acting as such should ascertain, fix, and liquidate the rate and amount of duties, and the dutiable costs and charges, was contained in act Oct. 3, 1913, ch. 16, §III, M, 38 Stat. 186, the provisions of which were substituted for provisions of the same nature contained in the Customs Administrative Act of June 10, 1890, ch. 407, §13, 26 Stat. 136, as amended by the Payne-Aldrich Tariff Act of Aug. 5, 1909, ch. 6, §28, 36 Stat. 99.
 
 #### Amendments
+
+1996—Subsec. (c). Pub. L. 104–295 inserted “or, in a case in which a claim is made under section 1520(d) of this title, from the date on which such claim is made,” after “deposits estimated duties, fees, and interest”.
 
 1993—Pub. L. 103–182 amended section generally, substituting provisions relating to deposit, collection or refund of duties, fees, and interest for provisions relating to deposit, collection, or refund of duties and interest.
 
@@ -35,6 +37,10 @@ A prior provision that the collector or person acting as such should ascertain, 
 1978—Subsec. (a). Pub. L. 95–410 authorized deposit of estimated duties to be made as prescribed by regulations after time of making entry but not later than thirty days after date of entry.
 
 1970—Pub. L. 91–271 reorganized existing provisions into subsecs. (a) and (b), and struck out provisions authorizing receipt by a collector of various reports and the performance of certain functions in connection with the liquidation of an entry.
+
+#### Effective Date of 1996 Amendment
+
+Section 2(b) of Pub. L. 104–295 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to claims made pursuant to section 520(d) of the Tariff Act of 1930 (19 U.S.C. 1520(d)) on or after June 7, 1996.”
 
 #### Effective Date of 1984 Amendment
 

@@ -2,9 +2,9 @@
 
 (a) The pay of an individual in arrears to the United States shall be withheld until he has accounted for and paid into the Treasury of the United States all sums for which he is liable.
 
-(b) When pay is withheld under subsection (a) of this section, the General Accounting Office, on request of the individual, his agent, or his attorney, shall report immediately to the Attorney General the balance due; and the Attorney General, within 60 days, shall order suit to be commenced against the individual.
+(b) When pay is withheld under subsection (a) of this section, the employing agency, on request of the individual, his agent, or his attorney, shall report immediately to the Attorney General the balance due; and the Attorney General, within 60 days, shall order suit to be commenced against the individual.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 477; Pub. L. 92–310, title II, §202, June 6, 1972, 86 Stat. 202.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 477; Pub. L. 92–310, title II, §202, June 6, 1972, 86 Stat. 202; Pub. L. 104–316, title I, §103(b), Oct. 19, 1996, 110 Stat. 3828.)
 
 Historical and Revision Notes
 
@@ -12,7 +12,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 5 U.S.C. 82.
 
@@ -24,7 +26,9 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-<b>1972</b>—Subsec. (b). Pub. L. 92–310 struck out “and his sureties” after “against the individual”.
+1996—Subsec. (b). Pub. L. 104–316 substituted “employing agency” for “General Accounting Office”.
+
+1972—Subsec. (b). Pub. L. 92–310 struck out “and his sureties” after “against the individual”.
 
 #### Cross References
 

@@ -1,4 +1,4 @@
-### §1043. Sale of property to comply with conflict-of-interest requirements
+### §1043. Sale of property to comply with conflict-of-interest requirements
 
 #### (a) Nonrecognition of gain
 
@@ -14,7 +14,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) an officer or employee of the executive branch of the Federal Government, but does not mean a special Government employee as defined in section 202 of title 18, United States Code, and
 
-&emsp;&emsp;(B) any spouse or minor or dependent child whose ownership of any property is attributable under any statute, regulation, rule, or executive order referred to in paragraph (2) to a person referred to in subparagraph (A).
+&emsp;&emsp;(B) any spouse or minor or dependent child whose ownership of any property is attributable under any statute, regulation, rule,or executive order referred to in paragraph (2) to a person referred to in subparagraph (A).
 
 #### (2) Certificate of divestiture
 
@@ -82,5 +82,5 @@ Section 6(a)(2) of Pub. L. 101–280 provided that:
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1016, 1044, 1223 of this title.
+This section is referred to in sections 1016, 1223 of this title.
 

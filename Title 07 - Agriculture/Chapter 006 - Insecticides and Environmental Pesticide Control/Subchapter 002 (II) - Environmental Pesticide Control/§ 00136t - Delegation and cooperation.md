@@ -6,7 +6,7 @@ All authority vested in the Administrator by virtue of the provisions of this su
 
 #### (b) Cooperation
 
-The Administrator shall cooperate with Department of Agriculture, any other Federalagency, and any appropriate agency of any State or any political subdivision thereof, in carrying out the provisions of this subchapter, and in securing uniformity of regulations.
+The Administrator shall cooperate with Department of Agriculture, any other Federal agency, and any appropriate agency of any State or any political subdivision thereof, in carrying out the provisions of this subchapter, and in securing uniformity of regulations.
 
 (June 25, 1947, ch. 125, §22, as added Oct. 21, 1972, Pub. L. 92–516, §2, 86 Stat. 996.)
 

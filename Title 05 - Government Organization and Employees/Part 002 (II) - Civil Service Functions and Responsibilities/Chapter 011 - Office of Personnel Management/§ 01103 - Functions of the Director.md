@@ -38,7 +38,7 @@
 
 (4) Paragraphs (1) and (2) of this subsection and section 1105 of this title shall not apply to the establishment of any schedules or rates of basic pay or allowances under subpart D of part III of this title. The preceding sentence does not apply to the establishment of the procedures, methodology, or criteria used to establish such schedules, rates, or allowances.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 399; Pub. L. 95–454, title II, §201(a), Oct. 13, 1978, 92 Stat. 1119; Pub. L. 99–251, title III, §§301, 302, Feb. 27, 1986, 100 Stat. 26.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 399; Pub. L. 95–454, title II, §201(a), Oct. 13, 1978, 92 Stat. 1119;Pub. L. 99–251, title III, §§301, 302, Feb. 27, 1986, 100 Stat. 26.)
 
 Historical and Revision Notes
 
@@ -46,7 +46,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 \[Uncodified\].
 
@@ -60,11 +62,11 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-<b>1986</b>—Subsec. (a)(9). Pub. L. 99–251, §301, added par. (9).
+1986—Subsec. (a)(9). Pub. L. 99–251, §301, added par. (9).
 
 Subsec. (b)(4). Pub. L. 99–251, §302, added par. (4).
 
-<b>1978</b>—Pub. L. 95–454 substituted “Functions of the Director” for “Chairman; Vice Chairman; Executive Director” in section catchline, and in text provisions relating to the functions of the Director of the Office of Personnel Management for provisions relating to the Chairman, Vice Chairman, and Executive Director of the United States Civil Service Commission.
+1978—Pub. L. 95–454 substituted “Functions of the Director” for “Chairman; Vice Chairman; Executive Director” in section catchline, and in text provisions relating to the functions of the Director of the Office of Personnel Management for provisions relating to the Chairman, Vice Chairman, and Executive Director of the United States Civil Service Commission.
 
 #### Effective Date of 1978 Amendment
 

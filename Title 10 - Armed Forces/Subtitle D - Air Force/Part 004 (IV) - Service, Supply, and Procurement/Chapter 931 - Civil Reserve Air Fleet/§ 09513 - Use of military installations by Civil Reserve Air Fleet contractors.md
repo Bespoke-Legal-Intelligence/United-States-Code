@@ -6,7 +6,7 @@ Contract Authority.—(1) The Secretary of the Air Force—
 
 &emsp;(A) may, by contract entered into with any contractor, authorize such contractor to use one or more Air Force installations designated by the Secretary; and
 
-&emsp;(B) with the consent of the Secretary of another military department, may, by contractentered into with any contractor, authorize the contractor to use one or more installations, designated by the Secretary of the Air Force, that is under the jurisdiction of the Secretary of such other military department.
+&emsp;(B) with the consent of the Secretary of another military department, may, by contract entered into with any contractor, authorize the contractor to use one or more installations, designated by the Secretary of the Air Force, that is under the jurisdiction of the Secretary of such other military department.
 
 (2) The Secretary of the Air Force may include in the contract such terms and conditions as the Secretary determines appropriate to promote the national defense or to protect the interests of the United States.
 

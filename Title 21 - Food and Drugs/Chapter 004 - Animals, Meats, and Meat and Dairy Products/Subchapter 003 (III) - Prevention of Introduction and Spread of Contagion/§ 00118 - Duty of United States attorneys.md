@@ -1,6 +1,6 @@
 ### §118. Duty of United States attorneys
 
-It shall be the duty of the several United States attorneys to prosecute all violations of this Act which shall be brought to their notice or knowledge by any person making the complaint under oath; and the same shall be heard before any district court of the United States or Territorial court holden within the district in which such violation of this Act has been committed.
+It shall be the duty of the several United States attorneys to prosecute all violations ofthis Act which shall be brought to their notice or knowledge by any person making the complaint under oath; and the same shall be heard before any district court of the United States or Territorial court holden within the district in which such violation of this Act has been committed.
 
 (May 29, 1884, ch. 60, §9, 23 Stat. 33; June 25, 1948, ch. 646, §1, 62 Stat. 909.)
 
@@ -18,7 +18,7 @@ Act June 25, 1948, ch. 646, §39, 62 Stat. 992, repealed act Mar. 3, 1911, ch. 2
 
 #### Extension of Provisions to Live Poultry
 
-Act Feb. 7, 1928, ch. 30, 45 Stat. 59, extended the provisions of this section to live poultry.
+Act Feb. 7, 1928, ch. 30, 45 Stat. 59, extended the terms and provisions of this section to live poultry.
 
 #### Federal Rules of Criminal Procedure
 

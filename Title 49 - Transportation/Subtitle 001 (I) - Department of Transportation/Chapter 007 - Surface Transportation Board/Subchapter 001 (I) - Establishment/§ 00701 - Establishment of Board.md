@@ -12,7 +12,7 @@ Membership.—(1) The Board shall consist of 3 members, to be appointed by the P
 
 (3) The term of each member of the Board shall be 5 years and shall begin when the termof the predecessor of that member ends. An individual appointed to fill a vacancy occurring before the expiration of the term for which the predecessor of that individual was appointed, shall be appointed for the remainder of that term. When the term of office of a member ends, the member may continue to serve until a successor is appointed and qualified, but for a period not to exceed one year. The President may remove a member for inefficiency, neglect of duty, or malfeasance in office.
 
-(4) On the effective date of this section, the members of the Interstate Commerce Commission serving unexpired terms on the date of the enactment of the ICC Termination Act of 1995 shall become members of the Board, to serve for a period of time equal to the remainder of the term for which they were originally appointed to the Interstate Commerce Commission. Any member of the Interstate Commerce Commission whose term expires on December 31, 1995, shall become a member of the Board, subject to paragraph (3).
+(4) On January 1, 1996, the members of the Interstate Commerce Commission serving unexpired terms on December 29, 1995, shall become members of the Board, to serve for a period of time equal to the remainder of the term for which they were originally appointed to the Interstate Commerce Commission. Any member of the Interstate Commerce Commission whose term expires on December 31, 1995, shall become a member of the Board, subject to paragraph (3).
 
 (5) No individual may serve as a member of the Board for more than 2 terms. In the case of an individual who becomes a member of the Board pursuant to paragraph (4), or an individual appointed to fill a vacancy occurring before the expiration of the term for which the predecessor of that individual was appointed, such individual may not be appointed for more than one additional term.
 
@@ -36,13 +36,11 @@ Chairman.—(1) There shall be at the head of the Board a Chairman, who shall be
 
 &emsp;(E) supervise the expenditure of funds allocated by the Board for major programs and purposes.
 
-(Added Pub. L. 104–88, title II, §201(a), Dec. 29, 1995, 109 Stat. 932.)
+(Added Pub. L. 104–88, title II, §201(a), Dec. 29, 1995, 109 Stat. 932; amended Pub. L. 104–287, §5(5), Oct. 11, 1996, 110 Stat. 3389.)
 
-#### References in Text
+#### Amendments
 
-For the effective date of this section, referred to in subsec. (b)(4), as Jan. 1, 1996, see Effective Date note below.
-
-The date of the enactment of the ICC Termination Act of 1995, referred to in subsec. (b)(4), is the date of enactment of Pub. L. 104–88, which was approved Dec. 29, 1995.
+1996—Subsec. (b)(4). Pub. L. 104–287 substituted “January 1, 1996” for “the effective date of this section” and “December 29, 1995,” for “the date of the enactment of the ICC Termination Act of 1995”.
 
 #### Effective Date
 
@@ -72,7 +70,7 @@ Proceedings.—(1) The provisions of this Act shall not affect any proceedings o
 
 “(B) Any proceeding involving a pipeline carrier under subtitle IV of title 49, United States Code, shall be continued to be heard by the Board under such subtitle, as in effect on the day before the effective date of this section \[see Effective Date note above\], until completion of such proceeding.
 
-“(C) Any proceeding involving the merger of a motor carrier property under subtitle IV of title 49, United States Code, shall continue to be heard by the Board under such subtitle, as in effect on the day before the effective date of this section, until completion of such proceeding.
+“(C) Any proceeding involving the merger of a motor carrier property under subtitle IV of title 49, UnitedStates Code, shall continue to be heard by the Board under such subtitle, as in effect on the day before the effective date of this section, until completion of such proceeding.
 
 “(4) Any proceeding with respect to any tariff, rate charge, classification, rule, regulation, or service that was pending under the Intercoastal Shipping Act, 1933 \[former 46 App. U.S.C. 843 et seq.\] or the Shipping Act, 1916 \[46 App. U.S.C. 801 et seq.\] before the Federal Maritime Commission on November 1, 1995, shall continue to be heard until completion or issuance of a final order thereon under all applicable laws in effect as of November 1, 1995.
 

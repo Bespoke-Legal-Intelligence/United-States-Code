@@ -86,7 +86,7 @@ Section 5703 of title 5, referred to in subsec. (j), was amended generally by Pu
 
 #### Change of Name
 
-Committee on Foreign Affairs of House of Representatives treated as referring to Committee on International Relations of House of Representatives and Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Foreign Affairs of House of Representatives treated as referring to Committee on International Relations of House of Representatives and Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Economic and Educational Opportunities of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Fifth Congress, Jan. 7, 1997.
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 

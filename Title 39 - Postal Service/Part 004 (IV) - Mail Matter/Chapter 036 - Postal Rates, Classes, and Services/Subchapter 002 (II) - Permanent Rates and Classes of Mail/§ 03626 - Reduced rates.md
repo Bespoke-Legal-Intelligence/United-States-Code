@@ -10,7 +10,7 @@
 
 &emsp;(C) the term “institutional-costs contribution”, as used with respect to a class of mail or kind of mailer, means that portion of the estimated revenues to the Postal Service from such class of mail or kind of mailer which remains after subtracting an amount equal to the estimated costs attributable to such class of mail or kind of mailer.
 
-(3)(A) Except as provided in paragraph (4) or (5), rates of postage for a class of mail or kind of mailer under former section 4358, 4452(b), 4452(c), 4554(b), or 4554(c) of this title shall be established in a manner such that the estimated revenues to be received by the Postal Service from such class of mail or kind of mailer shall be equal to the sum of—
+(3)(A) Except as provided in paragraph (4) or (5), rates of postage for a class of mail or kind of mailer under former section 4358, 4452(b), 4452(c), 4554(b), or 4554(c) of this title shall be established in a manner such that the estimatedrevenues to be received by the Postal Service from such class of mail or kind of mailer shall be equal to the sum of—
 
 &emsp;(i) the estimated costs attributable to such class of mail or kind of mailer; and
 
@@ -44,7 +44,7 @@
 
 (2) Any material described in paragraph (1) of this subsection shall qualify to be entered and mailed as second class mail in accordance with the applicable provisions of former section 4352 through former section 4357 of this title.
 
-(3) For purposes of this subsection, the term “institution of higher education” has the meaning given it by section 1201(a) of the Higher Education Act of 1965 (20 U.S.C. 1141(a)).
+(3) For purposes of this subsection, the term “institution of higher education” has the meaning given it by section 1201(a) of the Higher Education Act of 1965 (20 U.S.C. 1141(a)), and includes a nonprofit organization that coordinates a network of college-level courses that is sponsored primarily by nonprofit educational institutions for an older adult constituency.
 
 (c) In the administration of this section, one conservation publication published by an agency of a State which is responsible for management and conservation of the fish or wildlife resources of such State shall be considered a publication of a qualified nonprofit organization which qualifies for rates of postage under former section 4358(d) of this title.
 
@@ -68,7 +68,7 @@
 
 (2) Paragraph (1) of this subsection shall not apply to an issue of a publication if the total paid circulation of such issue is less than 10,000 copies.
 
-(h) In the administration of this section, the number of copies of a subscription publication mailed to nonsubscribers during a calendar year at rates under subsections (a), (b), and (c) of former section 4358 of this title may not exceed 10 percent of the number of copies of such publication mailed at such rates to subscribers.
+(h) In the administration of this section, the number of copies of a subscription publicationmailed to nonsubscribers during a calendar year at rates under subsections (a), (b), and (c) of former section 4358 of this title may not exceed 10 percent of the number of copies of such publication mailed at such rates to subscribers.
 
 \[(i) Repealed. Pub. L. 103–123, title VII, §704(a)(3)(A), Oct. 28, 1993, 107 Stat. 1269.\]
 
@@ -120,7 +120,7 @@
 
 (2) Paragraph (1) shall not apply with respect to a periodical publication of a qualified nonprofit organization.
 
-(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 762; Pub. L. 93–328, §1, June 30, 1974, 88 Stat. 287; Pub. L. 94–421, §11, Sept. 24, 1976, 90 Stat. 1311; Pub. L. 95–593, §11(c), Nov. 4, 1978, 92 Stat. 2538; Pub. L. 99–272, title XV, §§15102(b)(1), (c), 15104, 15105, Apr. 7, 1986, 100 Stat. 330, 331; Pub. L. 99–509, title VI, §6003(a), Oct. 21, 1986, 100 Stat. 1933; Pub. L. 101–509, title II, §§1(a), 3, Nov. 5, 1990, 104 Stat. 1397, 1399; Pub. L. 102–141, title II, Oct. 28, 1991, 105 Stat. 842, 843; Pub. L. 103–123, title VII, §§704(a)(1), (3)(A), 705(a)–(c), 708(e), Oct. 28, 1993, 107 Stat. 1267, 1269, 1271, 1273; Pub. L. 103–329, title VI, §639, Sept. 30, 1994, 108 Stat. 2432.)
+(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 762; Pub. L. 93–328, §1, June 30, 1974, 88 Stat. 287; Pub. L. 94–421, §11, Sept. 24, 1976, 90 Stat. 1311; Pub. L. 95–593, §11(c), Nov. 4, 1978, 92 Stat. 2538; Pub. L. 99–272, title XV, §§15102(b)(1), (c), 15104, 15105, Apr. 7, 1986, 100 Stat. 330, 331; Pub. L. 99–509, title VI, §6003(a), Oct. 21, 1986, 100 Stat. 1933; Pub. L. 101–509, title II, §§1(a), 3, Nov. 5, 1990, 104 Stat. 1397, 1399; Pub. L. 102–141, title II, Oct. 28, 1991, 105 Stat. 842, 843; Pub. L. 103–123, title VII, §§704(a)(1), (3)(A), 705(a)–(c), 708(e), Oct. 28, 1993, 107 Stat. 1267, 1269, 1271, 1273; Pub. L. 103–329, title VI, §639, Sept. 30, 1994, 108 Stat. 2432; Pub. L. 104–255, §2, Oct. 9, 1996, 110 Stat. 3169.)
 
 #### References in Text
 
@@ -131,6 +131,8 @@ Section 513 of the Internal Revenue Code of 1986, referred to in subsecs. (j)(1)
 The phrase “shall take effect immediately and shall stay in effect hereafter”, referred to in subsec. (j)(1)(D)(III), probably means that the provision shall take effect Sept. 30, 1994, the date of enactment of Pub. L. 103–329, which enacted subsec. (j)(1)(D)(III), and shall stay in effect after that date.
 
 #### Amendments
+
+1996—Subsec. (b)(3). Pub. L. 104–255 inserted before period “, and includes a nonprofit organization that coordinates a network of college-level courses that is sponsored primarily by nonprofit educational institutions for an older adult constituency”.
 
 1994—Subsec. (j)(1)(D)(III). Pub. L. 103–329 added cl. (III).
 
@@ -146,7 +148,7 @@ Subsec. (j)(1)(D). Pub. L. 103–123, §705(a), added subpar. (D).
 
 Subsec. (j)(3). Pub. L. 103–123, §705(c), designated existing provisions as subpar. (A) and added subpar. (B).
 
-Subsec. (k), (<i>l</i>). Pub. L. 103–123, §708(e), redesignated subsec. (k), defining “advertising”, as (<i>l).</i>
+Subsec. (k), (<i>l</i>). Pub. L. 103–123, §708(e), redesignated subsec. (k), defining “advertising”, as (<i>l</i>).
 
 Subsec. (m). Pub. L. 103–123, §705(b), added subsec. (m).
 

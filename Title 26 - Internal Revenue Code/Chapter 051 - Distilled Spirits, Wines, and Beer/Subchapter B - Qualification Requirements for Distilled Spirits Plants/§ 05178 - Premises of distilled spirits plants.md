@@ -14,7 +14,7 @@
 
 &emsp;(A) Any person establishing a distilled spirits plant may, as described in his application for registration, produce distilled spirits from any source or substance.
 
-&emsp;(B) The distilling system shall be continuous and shall be so designed and constructed andso connected as to prevent the unauthorized removal of distilled spirits before their production gauge.
+&emsp;(B) The distilling system shall be continuous and shall be so designed and constructed and so connected as to prevent the unauthorized removal of distilled spirits before their production gauge.
 
 &emsp;(C) The Secretary is authorized to order and require—
 

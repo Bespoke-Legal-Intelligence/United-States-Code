@@ -6,7 +6,7 @@ The United States International Trade Commission (referred to in this subtitle a
 
 #### (b) Terms of office
 
-The terms of office of the commissioners holding office on January 3, 1975, which (but for thissentence) would expire on June 16, 1975, June 16, 1976, June 16, 1977, June 16, 1978, June 16, 1979, and June 16, 1980, shall expire on December 16, 1976, June 16, 1978, December 16, 1979, June 16, 1981, December 16, 1982, and June 16, 1984, respectively. The term of office of each commissioner appointed after such date shall expire 9 years from the date of the expiration of the term for which his predecessor was appointed, except that—
+The terms of office of the commissioners holding office on January 3, 1975, which (but for this sentence) would expire on June 16, 1975, June 16, 1976, June 16, 1977, June 16, 1978, June 16, 1979, and June 16, 1980, shall expire on December 16, 1976, June 16, 1978, December 16, 1979, June 16, 1981, December 16, 1982, and June 16, 1984, respectively. The term of office of each commissioner appointed after such date shall expire 9 years from the date of the expiration of the term for which his predecessor was appointed, except that—
 
 &emsp;(1) any commissioner appointed to fill a vacancy occurring prior to the expiration of the term for which his predecessor was appointed shall be appointed for the remainder of such term, and
 
@@ -20,7 +20,7 @@ The terms of office of the commissioners holding office on January 3, 1975, whic
 
 &emsp;(B) has the longest period of continuous service as a commissioner,
 
-> shall serve as chairman of the Commission for the portion of such term preceding the date on which an individual designated by the President takes office as chairman.
+> shall serve as chairman of the Commission for the portion of such term preceding the date onwhich an individual designated by the President takes office as chairman.
 
 (2) After June 16, 1978, the terms of office for the chairman and vice chairman of the Commission shall be as follows:
 
@@ -28,11 +28,11 @@ The terms of office of the commissioners holding office on January 3, 1975, whic
 
 &emsp;(B) Each term of office thereafter shall begin on the day after the closing date of the immediately preceding term of office and end at the close of the 2-year period beginning on such day.
 
-(3)(A) The President may not designate as the chairman of the Commission for any term any commissioner who is a member of the political party of which the chairman of the Commission for the immediately preceding term is a member.
+(3)(A) The President may not designate as the chairman of the Commission for any term any commissioner who is a member of the political party of which the chairman of the Commission for the immediately preceding term is a member, or who has less than 1 year of continuous service as a commissioner as of the date such designation is being made.
 
 (B) The President may not designate as the vice chairman of the Commission for any term any commissioner who is a member of the political party of which the chairman for that term is a member.
 
-(C) If any commissioner does not complete a term as chairman or vice chairman by reason of death, resignation, removal from office as a commissioner, or expiration of his term of office as a commissioner, the President shall designate as the chairman or vice chairman, as the case may be, for the remainder of such term a commissioner who is a member of the same political party.
+(C) If any commissioner does not complete a term as chairman or vice chairman by reason of death, resignation, removal from office as a commissioner, or expiration of his term of office as a commissioner, the President shall designate as the chairman or vice chairman, as the case may be, for the remainder of such term a commissioner who is a member of the same political party. Designation of a chairman under this subparagraph may be made without regard to the 1-year continuous service requirement under subparagraph (A).
 
 (4) The vice chairman shall act as chairman in case of the absence or disability of the chairman. During any period in which there is no chairman or vice chairman, the commissioner having the longest period of continuous service as a commissioner shall act as chairman.
 
@@ -60,11 +60,11 @@ The terms of office of the commissioners holding office on January 3, 1975, whic
 
 &emsp;&emsp;(ii) he is taking action which differs from the action agreed upon by both such groups, or that he will not take any action, then the remedy finding agreed upon by either such group may be considered by the Congress as the remedy finding of the Commission and shall, for purposes of section 2253 of this title, be treated as the remedy finding of the Commission.
 
-(3) In any proceeding to which paragraph (1) applies in which the commissioners voting areequally divided on a determination that serious injury exists, or that market disruption exists, the Commission shall report to the President the determination of each group of commissioners. In any proceeding to which paragraph (2) applies, the Commission shall report to the President the remedy finding of each group of commissioners voting.
+(3) In any proceeding to which paragraph (1) applies in which the commissioners voting are equally divided on a determination that serious injury exists, or that market disruption exists, the Commission shall report to the President the determination of each group of commissioners. In any proceeding to which paragraph (2) applies, the Commission shall report to the President the remedy finding of each group of commissioners voting.
 
 (4) In a case to which paragraph (2)(B)(ii) applies, for purposes of section 2253(a) of this title, notwithstanding section 2192(a)(1)(A) of this title, the second blank space in the joint resolution described in such section 2192(a)(1)(A) of this title shall be filled with the appropriate date and the following: “The action which shall take effect under section 203(a) of the Trade Act of 1974 is the finding or recommendation agreed upon by Commissioners \_\_\_\_\_\_\_\_\_\_\_\_\_\_, \_\_\_\_\_\_\_\_\_\_\_\_\_\_, and \_\_\_\_\_\_\_\_\_\_\_\_.” The three blank spaces shall be filled with the names of the appropriate Commissioners.
 
-(5) Whenever, in any case in which the Commission is authorized to make an investigation upon its own motion, upon complaint, or upon application of any interested party, one-half of the number of commissioners voting agree that the investigation should be made, such investigation shall thereupon be carried out in accordance with the statutory authority covering the matter in question. Whenever the Commission is authorized to hold hearings in the course of any investigation and one-half of the number of commissioners voting agree that hearings should be held, such hearings shall thereupon be held in accordance with the statutory authority covering the matter in question.
+(5) Whenever, in any case in which the Commission is authorized to make an investigation upon its own motion, upon complaint, or upon application of any interested party, one-half of the number of commissioners voting agree that the investigation should be made, such investigation shall thereupon be carried out in accordance with the statutory authority covering the matter in question. Whenever the Commission is authorized to hold hearings in the course of any investigation and one-half of the number of commissioners voting agree that hearings should be held, such hearings shall thereupon beheld in accordance with the statutory authority covering the matter in question.
 
 #### (e) Authorization of appropriations
 
@@ -88,10 +88,6 @@ The Commission shall be considered to be an independent regulatory agency for pu
 
 (June 17, 1930, ch. 497, title III, §330, 46 Stat. 696; Aug. 7, 1953, ch. 348, title II, §201, 67 Stat. 472; Jan. 3, 1975, Pub. L. 93–618, title I, §§172(a), (b), 175(b), 88 Stat. 2009–2011; Oct. 4, 1976, Pub. L. 94–455, title XVIII, §1801(a), (b), 90 Stat. 1762; Aug. 17, 1977, Pub. L. 95–106, §§1, 2(a), 91 Stat. 867; Oct. 10, 1978, Pub. L. 95–430, 92 Stat. 1020; Jan. 12, 1983, Pub. L. 97–456, §1(a), 96 Stat. 2503; Oct. 30, 1984, Pub. L. 98–573, title II, §248(c), title VII, §701, 98 Stat. 2998, 3043; Apr. 7, 1986, Pub. L. 99–272, title XIII, §13021, 100 Stat. 305; Dec. 22, 1987, Pub. L. 100–203, title IX, §9502, 101 Stat. 1330–380; Aug. 23, 1988, Pub. L. 100–418, title I, §§1401(b)(4), 1611, 1612, 102 Stat. 1240, 1262; Nov. 10, 1988, Pub. L. 100–647, title IX, §9001(a)(15), 102 Stat. 3808; Dec. 7, 1989, Pub. L. 101–207, §2, 103 Stat. 1833; Aug. 20, 1990, Pub. L. 101–382, title I, §101, 104 Stat. 633; Dec. 4, 1991, Pub. L. 102–185, §1(a)(1), (2), (c)(1), 105 Stat. 1280.)
 
-#### Amendment of Subsection (c)(3)(A), (C)
-
-<i>Pub. L. 102–185, §1(a)(2), (3)(B), Dec. 4, 1991, 105 Stat. 1280, provided that, applicable to terms beginning on and after June 17, 1996, subsection (c)(3)(A) of this section is amended by inserting “, or who has less than 1 year of continuous service as a commissioner as of the date such designation is being made” before the period and subsection (c)(3)(C) of this section is amended by adding at the end thereof the following new sentence: “Designation of a chairman under this subparagraph may be made without regard to the 1-year continuous service requirement under subparagraph (A).”</i>
-
 #### References in Text
 
 Section 203(a) of the Trade Act of 1974, referred to in subsec. (d)(4), is classified to section 2253(a) of this title.
@@ -114,13 +110,17 @@ Provisions similar to those in this section were contained in act Sept. 8, 1916,
 
 > shall serve as chairman of the Commission for the portion of such term preceding the date on which an individual designated by the President takes office as chairman.”
 
-Subsec. (c)(3)(A). Pub. L. 102–185, §1(a)(1)(A), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “The President may not designate as the chairman of the Commission for any term—
+Subsec. (c)(3)(A). Pub. L. 102–185, §1(a)(2)(A), inserted “, or who has less than 1 year of continuous service as a commissioner as of the date such designation is being made” before the period.
+
+Pub. L. 102–185, §1(a)(1)(A), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “The President may not designate as the chairman of the Commission for any term—
 
 &emsp;“(i) either of the two commissioners with the shortest period of service on the Commission as of the beginning date of the term of office for which the designation of chairman is to be made; or
 
 &emsp;“(ii) any commissioner who is a member of the political party of which the chairman of the Commission for the immediately preceding term is a member.”
 
-Subsec. (c)(3)(C). Pub. L. 102–185, §1(a)(1)(B), struck out at end “Designation of a chairman under this subparagraph may be made without regard to the limitation set forth in subparagraph (A)(i).”
+Subsec. (c)(3)(C). Pub. L. 102–185, §1(a)(2)(B), inserted at end “Designation of a chairman under this subparagraph may be made without regard to the 1-year continuous service requirement under subparagraph (A).”
+
+Pub. L. 102–185, §1(a)(1)(B), struck out at end “Designation of a chairman under this subparagraph may be made without regard to the limitation set forth in subparagraph (A)(i).”
 
 1990—Subsec. (e)(2). Pub. L. 101–382 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “There are authorized to be appropriated to the Commission for necessary expenses (including the rental of conference rooms in the District of Columbia and elsewhere) for fiscal year 1990 not to exceed $39,943,000; of which not to exceed $2,500 may be used, subject to approval by the Chairman of the Commission, for reception and entertainment expenses. No part of any sum that is appropriated under the authority of this paragraph may be used by the Commission for the making of any special study, investigation, or report that is requested by any agency of the executive branch unless that agency reimburses the Commission for the cost thereof.”
 

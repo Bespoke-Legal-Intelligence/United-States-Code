@@ -14,7 +14,7 @@ Any person who has entered into an agreement of indemnification under section 22
 
 (1) Before issuing an order assessing a civil penalty against any person under this section, the Secretary shall provide to such person notice of the proposed penalty. Such notice shall inform such person of his opportunity to elect in writing within thirty days after the date of receipt of such notice to have the procedures of paragraph (3) (in lieu of those of paragraph (2)) apply with respect to such assessment.
 
-(2)(A) Unless an election is made within thirty calendar days after receipt of notice under paragraph (1) to have paragraph (3) apply with respect to such penalty, the Secretary shall assess the penalty, by order, after a determination of violation has been made on the record after an opportunity for an agency hearing pursuant to section 554 of title 5 before an administrativelaw judge appointed under section 3105 of such title 5. Such assessment order shall include the administrative law judge's findings and the basis for such assessment.
+(2)(A) Unless an election is made within thirty calendar days after receipt of notice under paragraph (1) to have paragraph (3) apply with respect to such penalty, the Secretary shall assess the penalty, by order, after a determination of violation has been made on the record after an opportunity for an agency hearing pursuant to section 554 of title 5 before an administrative law judge appointed under section 3105 of such title 5. Such assessment order shall include the administrative law judge's findings and the basis for such assessment.
 
 (B) Any person against whom a penalty is assessed under this paragraph may, within sixty calendar days after the date of the order of the Secretary assessing such penalty, institute an action in the United States court of appeals for the appropriate judicial circuit for judicial review of such order in accordance with chapter 7 of title 5. The court shall have jurisdiction to enter a judgment affirming, modifying, or setting aside in whole or in part, the order of the Secretary, or the court may remand the proceeding to the Secretary for such further action as the court may direct.
 
@@ -40,7 +40,7 @@ The provisions of this section shall not apply to:
 
 &emsp;(5) Princeton University (and any subcontractors or suppliers thereto) for activities associated with Princeton Plasma Physics Laboratory;
 
-&emsp;(6) The Associated Universities, Inc. (and any subcontractors or suppliers thereto) for activities associated with the Brookhaven National Laboratory; and
+&emsp;(6) The Associated Universities, Inc. (and any subcontractors or suppliers thereto) foractivities associated with the Brookhaven National Laboratory; and
 
 &emsp;(7) Battelle Memorial Institute (and any subcontractors or suppliers thereto) for activities associated with Pacific Northwest Laboratory.
 

@@ -6,7 +6,7 @@ The Commission shall promptly adjust and pay damages for injuries to vessels, or
 
 #### Amendments
 
-1985—Pub. L. 99–209 struck out provisions limiting the amount of the claim to $120,000, and inserted provisionthat no payment for damages on a claim may be made under this section unless the claim is filed with the Commission within 2 years after the date of the injury, or within 1 year after Dec. 23, 1985, whichever is later.
+1985—Pub. L. 99–209 struck out provisions limiting the amount of the claim to $120,000, and inserted provision that no payment for damages on a claim may be made under this section unless the claim is filed with the Commission within 2 years after the date of the injury, or within 1 year after Dec. 23, 1985, whichever is later.
 
 #### Effective Date of 1985 Amendment
 

@@ -54,7 +54,7 @@ Any investigator, agent, or other internal revenue officer by whatever term desi
 
 #### (2) Liquidation of corporations and business entities
 
-&emsp;If a corporation or business entity established or acquired as part of an undercover operation under subparagraph (B) of paragraph (1) with a net value over $50,000 is to be liquidated, sold, or otherwise disposed of, the Service, as much in advance as the Commissioner or his delegate determines is practicable, shall report the circumstances to the Secretary and the Comptroller General of the United States. The proceeds of the liquidation, sale, or other disposition, after obligations are met, shall be deposited in the Treasury of the United States as miscellaneous receipts.
+&emsp;If a corporation or business entity established or acquired as part of an undercover operation under subparagraph (B) of paragraph (1) with a net value over $50,000 is to be liquidated, sold, or otherwise disposed of, the Service, as much in advance as the Commissioner or his delegate determines is practicable, shall report the circumstances to the Secretary. The proceeds of the liquidation, sale, or other disposition, after obligations are met, shall be deposited in the Treasury of the United States as miscellaneous receipts.
 
 #### (3) Deposit of proceeds
 
@@ -72,9 +72,19 @@ Any investigator, agent, or other internal revenue officer by whatever term desi
 
 &emsp;&emsp;(i) the number, by programs, of undercover investigative operations pending as of the end of the 1-year period for which such report is submitted;
 
-&emsp;&emsp;(ii) the number, by programs, of undercover investigative operations commenced in the 1-year period preceding the period for which such report is submitted; and
+&emsp;&emsp;(ii) the number, by programs, of undercover investigative operations commenced in the 1-year period for which such report is submitted;
 
-&emsp;&emsp;(iii) the number, by programs, of undercover investigative operations closed in the 1-year period preceding the period for which such report is submitted and, with respect to each such closed undercover operation, the results obtained and any civil claims made with respect thereto.
+&emsp;&emsp;(iii) the number, by programs, of undercover investigative operations closed in the 1-year period for which such report is submitted, and
+
+&emsp;&emsp;(iv) the following information with respect to each undercover investigative operationpending as of the end of the 1-year period for which such report is submitted or closed during such 1-year period—
+
+&emsp;&emsp;&emsp;(I) the date the operation began and the date of the certification referred to in the last sentence of paragraph (1),
+
+&emsp;&emsp;&emsp;(II) the total expenditures under the operation and the amount and use of the proceeds from the operation,
+
+&emsp;&emsp;&emsp;(III) a detailed description of the operation including the potential violation being investigated and whether the operation is being conducted under grand jury auspices, and
+
+&emsp;&emsp;&emsp;(IV) the results of the operation including the results of criminal proceedings.
 
 #### (5) Definitions
 
@@ -94,29 +104,51 @@ Any investigator, agent, or other internal revenue officer by whatever term desi
 
 #### (C) Undercover investigative operation
 
-&emsp;&emsp;The terms “undercover investigative operation” and “undercover operation” mean any undercover investigative operation of the Service—
+&emsp;&emsp;The term “undercover investigative operation” means any undercover investigative operation of the Service; except that, for purposes of subparagraphs (A) and (C) of paragraph (4), such term only includes an operation which is exempt from section 3302 or 9102 of title 31, United States Code.
 
-&emsp;&emsp;&emsp;(i) in which—
+#### (6) Application of section
 
-&emsp;&emsp;&emsp;&emsp;(I) the gross receipts (excluding interest earned) exceed $50,000; or
+&emsp;The provisions of this subsection—
 
-&emsp;&emsp;&emsp;&emsp;(II) expenditures, both recoverable and nonrecoverable (other than expenditures for salaries of employees), exceed $150,000; and
+&emsp;&emsp;(A) shall apply after November 17, 1988, and before January 1, 1990, and
 
-&emsp;&emsp;&emsp;(ii) which is exempt from section 3302 or 9102 of title 31, United States Code.
+&emsp;&emsp;(B) shall apply after the date of the enactment of this paragraph and before January 1, 2001.
 
-> &emsp;&emsp;Clauses (i) and (ii) shall not apply with respect to the report required under subparagraph (B) of paragraph (4).
+> &emsp;All amounts expended pursuant to this subsection during the period described in subparagraph (B) shall be recovered to the extent possible, and deposited in the Treasury of the United States as miscellaneous receipts, before January 1, 2001.
 
-(Added Pub. L. 85–859, title II, §204(14), Sept. 2, 1958, 72 Stat. 1429; amended Pub. L. 87–863, §6(a), Oct. 23, 1962, 76 Stat. 1143; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 100–690, title VII, §7601(c)(1), (2), Nov. 18, 1988, 102 Stat. 4504; Pub. L. 101–508, title XI, §11704(a)(32), (33), Nov. 5, 1990, 104 Stat. 1388–519.)
+(Added Pub. L. 85–859, title II, §204(14), Sept. 2, 1958, 72 Stat. 1429; amended Pub. L. 87–863, §6(a), Oct. 23, 1962, 76 Stat. 1143; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 100–690, title VII, §7601(c)(1), (2), Nov. 18, 1988, 102 Stat. 4504; Pub. L. 101–508, title XI, §11704(a)(32), (33), Nov. 5, 1990, 104 Stat. 1388–519; Pub. L. 104–168, title XII, §1205(b)–(c)(2), July 30, 1996, 110 Stat. 1471, 1472; Pub. L. 104–316, title I, §113, Oct. 19, 1996, 110 Stat. 3833.)
 
 #### References in Text
 
-Section 254(c) of title 41, referred to in subsec. (c)(1)(A)(i)(V), was repealed by Pub. L. 103–355, title II,§2251(b), Oct. 13, 1994, 108 Stat. 3320. See section 254d of Title 41, Public Contracts.
+Section 254(c) of title 41, referred to in subsec. (c)(1)(A)(i)(V), was repealed by Pub. L. 103–355, title II, §2251(b), Oct. 13, 1994, 108 Stat. 3320. See section 254d of Title 41, Public Contracts.
+
+The date of the enactment of this paragraph, referred to in subsec. (c)(6)(B), is the date of enactment of Pub. L. 104–168, which was approved July 30, 1996.
 
 #### Prior Provisions
 
 A prior section 7608 was renumbered section 7612 of this title.
 
 #### Amendments
+
+1996—Subsec. (c)(2). Pub. L. 104–316 struck out “and the Comptroller General of the United States” after “Secretary”.
+
+Subsec. (c)(4)(B)(ii). Pub. L. 104–168, §1205(c)(1)(A), (B), struck out “preceding the period” after “in the 1-year period” and “and” at end.
+
+Subsec. (c)(4)(B)(iii), (iv). Pub. L. 104–168, §1205(c)(1)(C), added cls. (iii) and (iv) and struck out former cl. (iii) which read as follows: “the number, by programs, of undercover investigative operations closed in the 1-year period preceding the period for which such report is submitted and, with respect to each such closed undercover operation, the results obtained and any civil claims made with respect thereto.”
+
+Subsec. (c)(5)(C). Pub. L. 104–168, §1205(c)(2), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The terms ‘undercover investigative operation’ and ‘undercover operation’ mean any undercover investigative operation of the Service—
+
+&emsp;“(i) in which—
+
+&emsp;&emsp;“(I) the gross receipts (excluding interest earned) exceed $50,000; or
+
+&emsp;&emsp;“(II) expenditures, both recoverable and nonrecoverable (other than expenditures for salaries of employees), exceed $150,000; and
+
+&emsp;“(ii) which is exempt from section 3302 or 9102 of title 31, United States Code.
+
+> Clauses (i) and (ii) shall not apply with respect to the report required under subparagraph (B) of paragraph (4).”
+
+Subsec. (c)(6). Pub. L. 104–168, §1205(b), added par. (6).
 
 1990—Subsec. (c)(1)(B). Pub. L. 101–508, §11704(a)(32), struck out comma after “operations”.
 
@@ -130,9 +162,13 @@ Subsec. (c). Pub. L. 100–690, §7601(c)(2), added subsec. (c).
 
 1962—Pub. L. 87–863 redesignated existing provisions as subsec. (a), added subsec. (a) heading, and added subsec. (b).
 
+#### Effective Date of 1996 Amendment
+
+Section 1205(c)(3) of Pub. L. 104–168 provided that: “The amendments made by this subsection \[amending this section\] shall take effect on the date of the enactment of this Act \[July 30, 1996\].”
+
 #### Effective Date of 1988 Amendment
 
-Section 7601(c)(3) of Pub. L. 100–690, as amended by Pub. L. 101–647, title XXXIII, §3301(a), Nov. 29, 1990, 104 Stat. 4917, provided that: “The amendments made by this subsection \[amending this section\] shall take effect on the date of the enactment of this Act \[Nov. 18, 1988\] and shall cease to apply after December 31, 1991; and all amounts expended pursuant to such amendments shall be recovered to the extent possible, and deposited in the Treasury of the United States as miscellaneous receipts, before January 1, 1992.”
+Section 7601(c)(3) of Pub. L. 100–690, as amended by Pub. L. 101–647, title XXXIII, §3301(a), Nov. 29, 1990, 104 Stat. 4917; Pub. L. 104–168, title XII, §1205(a), July 30, 1996, 110 Stat. 1471, provided that: “The amendments made by this subsection \[amending this section\] shall take effect on the date of the enactment of this Act \[Nov. 18, 1988\].”
 
 #### Effective Date of 1962 Amendment
 

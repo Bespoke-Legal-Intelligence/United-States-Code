@@ -6,7 +6,9 @@ Sections 31704 and 31705 of this title do not limit the amount of money a State 
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

@@ -40,9 +40,11 @@ To carry out subsection (b) of this section, the TPCC shall develop and implemen
 
 &emsp;(3) identify areas of overlap and duplication among Federal export promotion activities and propose means of eliminating them;
 
-&emsp;(4) propose to the President an annual unified Federal trade promotion budget that supports the plan for priority activities and improved coordination established under paragraph (2) and eliminates funding for the areas of overlap and duplication identified under paragraph (3); and
+&emsp;(4) propose to the President an annual unified Federal trade promotion budget that supports the plan for priority activities and improved coordination established under paragraph (2) and eliminates funding for the areas of overlap and duplication identified under paragraph (3);
 
-&emsp;(5) review efforts by the States (as defined in section 4721(i) of this title) to promote United States exports and propose means of developing cooperation between State and Federal efforts, including co-location, cost-sharing between Federal and State export promotion programs, and sharing of market research data.
+&emsp;(5) review efforts by the States (as defined in section 4721(i) of this title) to promote United States exports and propose means of developing cooperation between State and Federal efforts, including co-location, cost-sharing between Federal and State export promotion programs, and sharing of market research data; and
+
+&emsp;(6) reflect the recommendations of the United States National Tourism Organization to the degree considered appropriate by the TPCC.
 
 #### (d) Membership
 
@@ -92,13 +94,15 @@ The chairperson of the TPCC shall prepare and submit to the Committee on Banking
 
 &emsp;(2) the implementation of sections 5823 and 5824 of title 22 <sup>1</sup> concerning funding for export promotion activities and the interagency working groups on energy of the TPCC.
 
-(Pub. L. 100–418, title II, §2312, as added Pub. L. 102–429, title II, §201, Oct. 21, 1992, 106 Stat. 2199; amended Pub. L. 104–66, title I, §1022(a), Dec. 21, 1995, 109 Stat. 713.)
+(Pub. L. 100–418, title II, §2312, as added Pub. L. 102–429, title II, §201, Oct. 21, 1992, 106 Stat. 2199; amended Pub. L. 104–66, title I, §1022(a), Dec. 21, 1995, 109 Stat. 713; Pub. L. 104–288, §8, Oct. 11, 1996, 110 Stat. 3407.)
 
 #### References in Text
 
 Sections 5823 and 5824 of title 22, referred to in subsec. (f)(2), was, in the original, “sections 303 and 304 of the Freedom for Russia and Emerging Democracies and Open Markets Support Act of 1992 (22 U.S.C. 5823 and 5824)”, and was translated as meaning sections 303 and 304 of the Freedom for Russia and Emerging Eurasian Democracies and Open Markets Support Act of 1992, Pub. L. 102–511, to reflect the probable intent of Congress.
 
 #### Amendments
+
+1996—Subsec. (c)(6). Pub. L. 104–288 added par. (6).
 
 1995—Subsec. (f). Pub. L. 104–66 amended heading and text of subsec. (f) generally. Prior to amendment, text read as follows: “The chairperson of the TPCC shall prepare and submit to the Committee on Banking, Housing, and Urban Affairs of the Senate, and the Committee on Foreign Affairs of the House of Representatives, not later than September 30, 1993, and annually thereafter, a report describing the strategic plan developed by the TPCC pursuant to subsection (c) of this section, the implementation of such plan, and any revisions thereto.”
 

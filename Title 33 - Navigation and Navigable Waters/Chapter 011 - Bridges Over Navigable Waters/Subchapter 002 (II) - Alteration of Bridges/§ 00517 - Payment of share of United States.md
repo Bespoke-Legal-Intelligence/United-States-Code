@@ -2,7 +2,7 @@
 
 Following service of the order requiring alteration of the bridge, the Secretary of Transportation may make partial payments as the work progresses to the extent that funds have been appropriated. The total payments out of Federal funds shall not exceed the proportionate share of the United States of the total cost of the project paid or incurred by the bridge owner, and, if such total cost exceeds the cost guaranteed by the bridge owner, shall not exceed the proportionate share of the United States of such guaranteed cost, except that if the cost of the work exceeds the guaranteed cost by reason of emergencies, conditions beyond the control of the owner, or unforeseen or undetermined conditions, the Secretary of Transportation may, after full review of all the circumstances, provide for additional payments by the United States to help defray such excess cost to the extent he deems to be reasonable and proper, and shall certify such additional payments to the Secretary of the Treasury for payment. All payments to any bridge owner herein provided for shall be made by the Secretary of the Treasury through the Fiscal Service upon certifications of the Secretary of Transportation.
 
-(June 21, 1940, ch. 409, §7, 54 Stat. 499; 1940 Reorg. Plan No. III, §1(a)(1), eff. June 30, 1940, 5 F.R. 2107, 54 Stat. 1231; Aug. 14, 1958, Pub. L. 85–640, §1(d), 72 Stat. 596; Dec. 31, 1970, Pub. L. 91–605, title I, §118, 84 Stat. 1725; Jan. 12, 1983, Pub. L. 97–449, §2(d)(1), 96 Stat. 2440.)
+(June 21, 1940, ch. 409, §7, 54 Stat. 499; 1940 Reorg. Plan No. III, §1(a)(1), eff. June 30, 1940, 5 F.R.2107, 54 Stat. 1231; Aug. 14, 1958, Pub. L. 85–640, §1(d), 72 Stat. 596; Dec. 31, 1970, Pub. L. 91–605, title I, §118, 84 Stat. 1725; Jan. 12, 1983, Pub. L. 97–449, §2(d)(1), 96 Stat. 2440.)
 
 #### Amendments
 
@@ -10,7 +10,7 @@ Following service of the order requiring alteration of the bridge, the Secretary
 
 1970—Pub. L. 91–605 substituted provision permitting Secretary of Transportation to make payments for design work performed prior to the actual commencement of bridge alteration but after the order to alter has been issued for provision requiring Secretary of War to approve alteration plans, the cost guaranty, the fixing of proportionate shares as between the United States and bridge owner, and the commencement of the alteration, before the Chief of Engineers may make payments for bridge alteration, inserted reference to Secretary of Transportation in second sentence, and substituted “Secretary of Transportation” for “Secretary of War” in third sentence.
 
-1958—Pub. L. 85–640 struck out provisions which required Secretary of War to furnish to Secretary of the Treasury a certified copy of his approval of the plansand specifications and guaranty, and of his order fixing the proportionate shares, and which required the Secretary of the Treasury to set aside the share of the United States for the project.
+1958—Pub. L. 85–640 struck out provisions which required Secretary of War to furnish to Secretary of the Treasury a certified copy of his approval of the plans and specifications and guaranty, and of his order fixing the proportionate shares, and which required the Secretary of the Treasury to set aside the share of the United States for the project.
 
 #### Transfer of Functions
 

@@ -2,7 +2,7 @@
 
 #### (a) Violations of licensing requirements
 
-Any person who (1) violates any licensing provision of section 2073, 2077, 2092, 2093, 2111, 2112, 2131, 2133, 2134, 2137, or 2139 of this title or any rule, regulation, or order issued thereunder, or any term, condition, or limitation of any license issued thereunder, or (2) commits any violation for which a license may be revoked under section 2236 of this title, shall be subject to a civil penalty, to be imposed by the Commission, of not to exceed $100,000 for each such violation. If any violation is a continuing one, each day of such violation shall constitute a separate violation for the purpose of computing the applicable civil penalty. The Commission shall have the power to compromise, mitigate, or remit such penalties.
+Any person who (1) violates any licensing or certification provision of section 2073, 2077, 2092, 2093, 2111, 2112, 2131, 2133, 2134, 2137, 2139, or 2297f of this title or any rule, regulation, or order issued thereunder, or any term, condition, or limitation of any license or certification issued thereunder, or (2) commits any violation for which a license may be revoked under section 2236 of this title, shall be subject to a civil penalty, to be imposed by the Commission, of not to exceed $100,000 for each such violation. If any violation is a continuing one, each day of such violation shall constitute a separate violation for the purpose of computing the applicable civil penalty. The Commission shall have the power to compromise, mitigate, or remit such penalties.
 
 #### (b) Notice
 
@@ -12,15 +12,17 @@ Whenever the Commission has reason to believe that a person has become subject t
 
 On the request of the Commission, the Attorney General is authorized to institute a civil action to collect a penalty imposed pursuant to this section. The Attorney General shall have the exclusive power to compromise, mitigate, or remit such civil penalties as are referred to him for collection.
 
-(Aug. 1, 1946, ch. 724, title I, §234, as added Dec. 24, 1969, Pub. L. 91–161, §4, 83 Stat. 444; amended June 30, 1980, Pub. L. 96–295, title II, §206, 94 Stat. 787; renumbered title I, Oct. 24, 1992, Pub. L. 102–486, title IX, §902(a)(8), 106 Stat. 2944.)
+(Aug. 1, 1946, ch. 724, title I, §234, as added Dec. 24, 1969, Pub. L. 91–161, §4, 83 Stat. 444; amended June 30, 1980, Pub. L. 96–295, title II, §206, 94 Stat. 787; renumbered title I, Oct. 24, 1992, Pub. L. 102–486, title IX, §902(a)(8), 106 Stat. 2944; Apr. 26, 1996, Pub. L. 104–134, title III, §3116(d), 110 Stat. 1321–350.)
 
 #### Amendments
+
+1996—Subsec. (a). Pub. L. 104–134, in first sentence, substituted “any licensing or certification provision of section 2073, 2077, 2092, 2093, 2111, 2112, 2131, 2133, 2134, 2137, 2139, or 2297f of this title” for “any licensing provision of section 2073, 2077, 2092, 2093, 2111, 2112, 2131, 2133, 2134, 2137, or 2139 of this title” and “any license or certification issued thereunder” for “any license issued thereunder”.
 
 1980—Subsec. (a). Pub. L. 96–295 substituted $100,000 penalty limitation per violation for $5,000 limit per violation and $25,000 limit for all violations taking place within any thirty consecutive day period.
 
 #### Transfer of Functions
 
-Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of this title. See also Transfer of Functions notes set out under those sections.
+Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of this title. Seealso Transfer of Functions notes set out under those sections.
 
 #### Section Referred to in Other Sections
 

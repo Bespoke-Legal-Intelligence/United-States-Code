@@ -8,7 +8,7 @@ There is established in the Department of Agriculture the position of Under Secr
 
 #### (1) Principal functions
 
-&emsp;The Secretary shall delegate to the Under Secretary of Agriculture for Food Safety those functions and duties under the jurisdiction of the Department that are primarily related to food safety.
+&emsp;The Secretary shall delegate to the Under Secretary of Agriculture for Food Safety thosefunctions and duties under the jurisdiction of the Department that are primarily related to food safety.
 
 #### (2) Additional functions
 
@@ -18,7 +18,7 @@ There is established in the Department of Agriculture the position of Under Secr
 
 #### (d) Technical and scientific review groups
 
-The Secretary, acting through the Under Secretary for Research, Education, and Economics, may, without regard to the provisions of title 5governing appointment in the competitive service, and without regard to the provisions of chapter 51 and subchapter III of chapter 53 of title 5 relating to classification and General Schedule pay rates—
+The Secretary, acting through the Under Secretary for Research, Education, and Economics, may, without regard to the provisions of title 5 governing appointment in the competitive service, and without regard to the provisions of chapter 51 and subchapter III of chapter 53 of title 5 relating to classification and General Schedule pay rates—
 
 &emsp;(1) establish such technical and scientific review groups as are needed to carry out the functions of the Department; and
 

@@ -48,9 +48,9 @@ Notwithstanding any other provision of this chapter, there are authorized to be 
 
 This chapter, referred to in subsecs. (a) to (d), (f), and (g), was in the original “this Act”, meaning Pub. L. 87–256, Sept. 21, 1961, 75 Stat. 527, as amended, known as the Mutual Educational and Cultural Exchange Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2451 of this title and Tables.
 
-Section 3651 of the Revised Statutes (31 U.S.C. 543), referred to in subsec. (b), was repealed by Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+Section 3651 of the Revised Statutes (31 U.S.C. 543), referred to in subsec. (b), was repealed by Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1068, the first section of which enacted Title 31, Money and Finance.
 
-The Agricultural Trade Development and Assistance Act of 1954, as amended, referred to in subsec. (d)(2)(ii),is act July 10, 1954, ch. 469, 68 Stat. 454, as amended, which is classified principally to chapter 41 (§1691 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of Title 7 and Tables.
+The Agricultural Trade Development and Assistance Act of 1954, as amended, referred to in subsec. (d)(2)(ii), is act July 10, 1954, ch. 469, 68 Stat. 454, as amended, which is classified principally to chapter 41 (§1691 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of Title 7 and Tables.
 
 Sections 1513(b)(6) and 1513(h) of this title, referred to in subsec. (d)(2)(iv), were repealed by act Aug. 26, 1954, ch. 937, title V, §542(a), 68 Stat. 861.
 

@@ -12,11 +12,11 @@
 
 #### Amendments
 
-<b>1989</b>—Pub. L. 101–12, §3(a)(2), substituted a semicolon for the comma after “office” in section catchline.
+1989—Pub. L. 101–12, §3(a)(2), substituted a semicolon for the comma after “office” in section catchline.
 
 Subsec. (b). Pub. L. 101–12, §3(a)(3), substituted “the member's” for “his” in first sentence and struck out “of this title” after “section 1201” in second sentence.
 
-<b>1987</b>—Subsec. (b). Pub. L. 100–202 inserted provision permitting any new member serving portion of seven-year term to continue serving until successor is appointed and has qualified, with exception limiting duration of such service.
+1987—Subsec. (b). Pub. L. 100–202 inserted provision permitting any new member serving portion of seven-year term to continue serving until successor is appointed and has qualified, with exception limiting duration of such service.
 
 #### Effective Date of 1989 Amendment
 

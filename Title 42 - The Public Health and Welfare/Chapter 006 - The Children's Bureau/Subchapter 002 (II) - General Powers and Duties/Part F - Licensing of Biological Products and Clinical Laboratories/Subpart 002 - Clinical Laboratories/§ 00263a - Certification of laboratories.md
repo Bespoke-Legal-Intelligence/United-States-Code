@@ -242,7 +242,7 @@ No person may solicit or accept materials derived from the human body for labora
 
 #### (2) Compliance with requirements and standards
 
-&emsp;The Secretary shall conduct inspections of laboratories under paragraph (1) to determine their compliance with the requirements of subsection (d) of this section and the standards issued under subsection (f) of this section. Inspections of laboratories not accreditedunder subsection (e) of this section shall be conducted on a biennial basis or with such other frequency as the Secretary determines to be necessary to assure compliance with such requirements and standards. Inspections of laboratories accredited under subsection (e) of this section shall be conducted on such basis as the Secretary determines is necessary to assure compliance with such requirements and standards.
+&emsp;The Secretary shall conduct inspections of laboratories under paragraph (1) to determine their compliance with the requirements of subsection (d) of this section and the standards issued under subsection (f) of this section. Inspections of laboratories not accredited under subsection (e) of this section shall be conducted on a biennial basis or with such other frequency as the Secretary determines to be necessary to assure compliance with such requirements and standards. Inspections of laboratories accredited under subsection (e) of this section shall be conducted on such basis as the Secretary determines is necessary to assure compliance with such requirements and standards.
 
 #### (h) Intermediate sanctions
 
@@ -312,13 +312,13 @@ No person may solicit or accept materials derived from the human body for labora
 
 #### (j) Injunctions
 
-Whenever the Secretary has reason to believe that continuation of any activity by a laboratory would constitute a significant hazard to the public health the Secretary may bring suit in the district court of the United States for the district in which such laboratory is situated toenjoin continuation of such activity. Upon proper showing, a temporary injunction or restraining order against continuation of such activity pending issuance of a final order under this subsection shall be granted without bond by such court.
+Whenever the Secretary has reason to believe that continuation of any activity by a laboratory would constitute a significant hazard to the public health the Secretary may bring suit in the district court of the United States for the district in which such laboratory is situated to enjoin continuation of such activity. Upon proper showing, a temporary injunction or restraining order against continuation of such activity pending issuance of a final order under this subsection shall be granted without bond by such court.
 
 #### (k) Judicial review
 
 #### (1) Petition
 
-&emsp;Any laboratory which has had an intermediate sanction imposed under subsection (h) of this section or has had its certificate suspended, revoked, or limited under subsection (i) of this section may, at any time within 60 days after the date the action of the Secretary under subsection (i) or (h) of this section becomes final, file a petition with the United States court of appeals for the circuit wherein the laboratory has its principal place of business for judicial review of such action. As soon as practicable after receipt of the petition, the clerk of the court shall transmit a copy of the petition to the Secretary or other officer designated by the Secretary for that purpose. As soon as practicable after receipt of the copy, the Secretary shall file in the court the record on which the action of the Secretary is based, as provided in section 2112 of title 28.
+&emsp;Any laboratory which has had an intermediate sanction imposed under subsection (h) of this section or has had its certificate suspended, revoked, or limited under subsection (i) of this section may, at any time within 60 days after the date the action of the Secretary under subsection (i) or (h) of this section becomes final, file a petition with the United States court of appeals for the circuit wherein the laboratory has its principal place of business for judicial review of such action. As soon as practicable after receipt of the petition, the clerk of the court shall transmit a copy of the petition to the Secretary or other officer designated by the Secretary for that purpose. As soon as practicable after receipt of the copy,the Secretary shall file in the court the record on which the action of the Secretary is based, as provided in section 2112 of title 28.
 
 #### (2) Additional evidence
 
@@ -374,7 +374,7 @@ On April 1, 1990 and annually thereafter, the Secretary shall compile and make a
 
 > &emsp;together with a statement of the reasons for the revocation, suspension, limitation, or sanction,
 
-&emsp;(3) a list of laboratories subject to intermediate sanctions under subsection (h) of thissection together with a statement of the reasons for the sanctions,
+&emsp;(3) a list of laboratories subject to intermediate sanctions under subsection (h) of this section together with a statement of the reasons for the sanctions,
 
 &emsp;(4) a list of laboratories whose accreditation has been withdrawn or revoked together with a statement of the reasons for the withdrawal or revocation,
 
@@ -386,7 +386,7 @@ On April 1, 1990 and annually thereafter, the Secretary shall compile and make a
 
 #### (<i>o</i>) Delegation
 
-In carrying out this section, the Secretary may, pursuant to agreement, use the services or facilities of any Federal or State or local public agency or nonprofit private organization, and may pay therefor in advance or by way of reimbursement, and in such installments, as the Secretary may determine.
+In carrying out this section, the Secretary may, pursuant to agreement, use the services orfacilities of any Federal or State or local public agency or nonprofit private organization, and may pay therefor in advance or by way of reimbursement, and in such installments, as the Secretary may determine.
 
 #### (p) State laws
 
@@ -406,7 +406,7 @@ The Social Security Act, referred to in subsecs. (i)(3) and (n)(6), is act Aug. 
 
 #### Amendments
 
-1988—Pub. L. 100–578 substituted “Certification of laboratories” for “Licensing of laboratories” in section catchline, and amended text generally, revising and restating as subsecs. (a) to (q) provisions of former subsecs. (a) to (<i>l).</i>
+1988—Pub. L. 100–578 substituted “Certification of laboratories” for “Licensing of laboratories” in section catchline, and amended text generally, revising and restating as subsecs. (a) to (q) provisions of former subsecs. (a) to (<i>l</i>).
 
 #### Change of Name
 
@@ -430,7 +430,7 @@ Section 4 of Pub. L. 100–578 directed Secretary to conduct studies and submit 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 263a–2, 300aa–2, 1395x, 1395aa of this title.
+This section is referred to in sections 263a–2, 300aa–2, 1395x, 1395aa of this title; title 35 section 287.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “by the”.</i>
 

@@ -8,10 +8,13 @@
 | [1344\.](%C2%A7%2001344%20-%20Bank%20fraud.md) | Bank fraud. |
 | [1345\.](%C2%A7%2001345%20-%20Injunctions%20against%20fraud.md) | Injunctions against fraud. |
 | [1346\.](%C2%A7%2001346%20-%20Definition%20of%20%E2%80%9Cscheme%20or%20artifice%20to%20defraud%E2%80%9D.md) | Definition of “scheme or artifice to defraud”. |
+| [1347\.](%C2%A7%2001347%20-%20Health%20care%20fraud.md) | Health care fraud. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1996—Pub. L. 104–191, title II, §242(a)(2), Aug. 21, 1996, 110 Stat. 2016, added item 1347.
 
 1990—Pub. L. 101–647, title XXXV, §3541, Nov. 29, 1990, 104 Stat. 4925, substituted “or” for “and” in item 1342.
 
@@ -40,3 +43,4 @@ This chapter is referred to in title 29 section 1111.
 - [&sect; 01344 - Bank fraud](%C2%A7%2001344%20-%20Bank%20fraud.md)
 - [&sect; 01345 - Injunctions against fraud](%C2%A7%2001345%20-%20Injunctions%20against%20fraud.md)
 - [&sect; 01346 - Definition of &#8220;scheme or artifice to defraud&#8221;](%C2%A7%2001346%20-%20Definition%20of%20%E2%80%9Cscheme%20or%20artifice%20to%20defraud%E2%80%9D.md)
+- [&sect; 01347 - Health care fraud](%C2%A7%2001347%20-%20Health%20care%20fraud.md)

@@ -1,4 +1,4 @@
-### §3597 . Use of State facilities
+### §3597. Use of State facilities
 
 (a)
 

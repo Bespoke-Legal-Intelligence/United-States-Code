@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(B) an expert or consultant who is under contract under section 3109 of this title with the United States or any agency, department, or establishment thereof, including, in the case of an organization performing services under such section, any individual involved in the performance of such services;
 
-&emsp;&emsp;(C) an individual employed by, or occupying an office or position in, the government of a territory or possession of the United States or the government of the District of Columbia;
+&emsp;&emsp;(C) an individual employed by, or occupying an office or position in, the governmentof a territory or possession of the United States or the government of the District of Columbia;
 
 &emsp;&emsp;(D) a member of a uniformed service;
 
@@ -72,7 +72,7 @@
 
 (3) When an employee deposits a gift of more than minimal value for disposal or for official use pursuant to paragraph (2), or within 30 days after accepting travel or travel expenses as provided in paragraph (1)(B)(ii) unless such travel or travel expenses are accepted in accordance with specific instructions of his or her employing agency, the employee shall file a statement with his or her employing agency or its delegate containing the information prescribed in subsection (f) for that gift.
 
-(d) The Congress consents to the accepting, retaining, and wearing by an employee of a decoration tendered in recognition of active field service in time of combat operations or awarded for other outstanding or unusually meritorious performance, subject to the approval of the employing agency of such employee. Without this approval, the decoration is deemed to have been accepted on behalf of the United States, shall become the property of the United States, and shall be deposited by the employee, within sixty days of acceptance, with the employing agency for official use, for forwarding to the Administrator of General Services for disposal in accordance with subsection (e)(1), or for disposal in accordance with subsection (e)(2).
+(d) The Congress consents to the accepting, retaining, and wearing by an employee of a decoration tendered in recognition of active field service in time of combat operations or awarded for other outstanding or unusually meritorious performance, subject to the approval of the employing agency of such employee. Without this approval, the decoration is deemed to have been accepted on behalf of the United States, shall become the property of the United States, and shall be deposited by the employee, within sixtydays of acceptance, with the employing agency for official use, for forwarding to the Administrator of General Services for disposal in accordance with subsection (e)(1), or for disposal in accordance with subsection (e)(2).
 
 (e)(1) Except as provided in paragraph (2), gifts and decorations that have been deposited with an employing agency for disposal shall be (A) returned to the donor, or (B) forwarded to the Administrator of General Services for transfer, donation, or other disposal in accordance with the provisions of the Federal Property and Administrative Services Act of 1949. However, no gift or decoration that has been deposited for disposal may be sold without the approval of the Secretary of State, upon a determination that the sale will not adversely affect the foreign relations of the United States. Gifts and decorations may be sold by negotiated sale.
 
@@ -182,11 +182,11 @@ Section 108A of the Mutual Educational and Cultural Exchange Act of 1961, referr
 
 #### Amendments
 
-<b>1986</b>—Subsecs. (a)(1)(G), (e)(2). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
+1986—Subsecs. (a)(1)(G), (e)(2). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
-<b>1978</b>—Subsec. (a)(6)(A). Pub. L. 95–426, §712(a)(1), substituted “(e)(1)” for “(e)”.
+1978—Subsec. (a)(6)(A). Pub. L. 95–426, §712(a)(1), substituted “(e)(1)” for “(e)”.
 
-Subsec. (a)(6)(B). Pub. L. 95–426, §712(a)(2), inserted “, except that those responsibilities (other than responsibilities involving approval of the employing agency) specified in subsection (c)(2), (d), and (g)(2)(B) shall be carried out by the Secretary of the Senate”.
+Subsec. (a)(6)(B). Pub. L. 95–426, §712(a)(2), inserted “, except that those responsibilities (other than responsibilities involving approval of the employing agency) specified in subsection (c)(2), (d), and (g)(2)(B) shall be carried out by the Secretary of the Senate”.
 
 Subsec. (c)(2). Pub. L. 95–426, §712(b)(1), substituted “subsection (e)(1) or provide for its disposal in accordance with subsection (e)(2)” for “subsection (e)”.
 
@@ -194,7 +194,7 @@ Subsec. (d). Pub. L. 95–426, §712(b)(2), substituted “official use, for for
 
 Subsec. (e). Pub. L. 95–426, §712(c), designated existing provisions as par. (1), substituted “Except as provided in paragraph (2), gifts” for “Gifts”, “(A)” and “(B)” for “(1)” and “(2)”, respectively, and added par. (2).
 
-<b>1977</b>—Subsec. (a). Pub. L. 95–105 in par. (1) inserted provisions expanding definition of “employee” to include an officer or employee of the United States Postal Service or Postal Rate Commission, certain experts and consultants, the Vice President, and any Delegate to Congress, in par. (2) incorporated existing provisions into subpars. (A) and (C) and added subpar. (B), in par. (3) substituted reference to tangible or intangible present for reference to present, in par. (4) inserted reference to award, and added pars. (5) and (6).
+1977—Subsec. (a). Pub. L. 95–105 in par. (1) inserted provisions expanding definition of “employee” to include an officer or employee of the United States Postal Service or Postal Rate Commission, certain experts and consultants, the Vice President, and any Delegate to Congress, in par. (2) incorporated existing provisions into subpars. (A) and (C) and added subpar. (B), in par. (3) substituted reference to tangible or intangible present for reference to present, in par. (4) inserted reference to award, and added pars. (5) and (6).
 
 Subsec. (b). Pub. L. 95–105 designated existing provisions as par. (1) and added par. (2).
 

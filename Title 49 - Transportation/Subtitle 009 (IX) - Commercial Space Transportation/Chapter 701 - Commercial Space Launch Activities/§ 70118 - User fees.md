@@ -6,7 +6,9 @@ The Secretary of Transportation may collect a user fee for a regulatory or other
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

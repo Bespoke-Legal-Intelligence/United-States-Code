@@ -6,15 +6,11 @@
 
 (c) An enlisted member of the Army, Navy, Air Force, or Marine Corps may not assign his pay, and if he does so, the assignment is void.
 
-(d) The Secretary of the military department concerned,<sup>1</sup> may allow a—
+(d) Under regulations prescribed by the Secretary of Defense, a member of the Army, Navy, Air Force, or Marine Corps and a contract surgeon of the Army, Navy, or Air Force may make allotments from the pay of the member or surgeon for the purpose of supporting relatives or for any other purpose that the Secretary considers proper. Such allotments may include a maximum of six allotments considered to be discretionary under such regulations. For a member or former member entitled to retired or retainer pay, a maximum of six discretionary allotments authorized during active military service may be continued into retired status, and new discretionary allotments may be authorized so long as the total number of discretionary allotments does not exceed six.
 
-&emsp;(1) member of the Army, Navy, Air Force, or Marine Corps; or
+(e) If an allotment made under subsection (d) is paid to the allottee before the disbursing officer receives a notice of discontinuance from the officer required by regulation to furnish the notice, the amount of the allotment shall be credited to the disbursing officer. If an allotment is erroneously paid because the officer required by regulation to so report failed to report the death of the allotter or any other fact that makes the allotment not payable, the amount of the payment not recovered from the allottee shall, if practicable, be collected by the Secretary concerned from the officer who failed to make the report.
 
-&emsp;(2) contract surgeon of the Army, Navy, or Air Force;
-
-> to make allotments from his pay for the support of his relatives, or for any other purpose that the Secretary concerned considers proper. If an allotment made under this subsection is paid to the allottee before the disbursing officer receives a notice of discontinuance from the officer required by regulation to furnish the notice, the amount of the allotment shall be credited to the disbursing officer. If an allotment is erroneously paid because the officer required by regulation to so report failed to report the death of the allotter or any other fact that makes the allotment not payable, the amount of the payment not recovered from the allottee shall, if practicable, be collected by the Secretary concerned, from the officer who failed to make the report.
-
-(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 484; Pub. L. 89–718, §67, Nov. 2, 1966, 80 Stat. 1123; Pub. L. 99–145, title VI, §683(a)(1), (2), Nov. 8, 1985, 99 Stat. 665; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117.)
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 484; Pub. L. 89–718, §67, Nov. 2, 1966, 80 Stat. 1123; Pub. L. 99–145, title VI, §683(a)(1), (2), Nov. 8, 1985, 99 Stat. 665; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 104–201, div. A, title VI, §651(a), Sept. 23, 1996, 110 Stat. 2582.)
 
 Historical and Revision Notes
 
@@ -74,11 +70,19 @@ Historical and Revision Notes
 
 #### Amendments
 
+1996—Subsecs. (d), (e). Pub. L. 104–201 added subsecs. (d) and (e) and struck out former subsec. (d) which read as follows: “The Secretary of the military department concerned, may allow a—
+
+&emsp;“(1) member of the Army, Navy, Air Force, or Marine Corps; or
+
+&emsp;“(2) contract surgeon of the Army, Navy, or Air Force;
+
+> to make allotments from his pay for the support of his relatives, or for any other purpose that the Secretary concerned considers proper. If an allotment made under this subsection is paid to the allottee before the disbursing officer receives a notice of discontinuance from the officer required by regulation to furnish the notice, the amount of the allotment shall be credited to the disbursing officer. If an allotment is erroneously paid because the officer required by regulation to so report failed to report the death of the allotter or any other fact that makes the allotment not payable, the amount of the payment not recovered from the allottee shall, if practicable, be collected by the Secretary concerned, from the officer who failed to make the report.”
+
 1991—Subsec. (b). Pub. L. 102–25 struck out “of this section” after “subsection (a)”.
 
 1985—Pub. L. 99–145, §683(a)(2), inserted reference to Navy and Marine Corps in section catchline.
 
-Subsec. (a). Pub. L. 99–145, §683(a)(1)(A), (C), substituted “Secretary of the military department concerned” for “Secretary of the Army or the Secretary of the Air Force, as the case may be” and “commissionedofficer of the Army, Navy, Air Force, or Marine Corps” for “commissioned officer of the Army or the Air Force”.
+Subsec. (a). Pub. L. 99–145, §683(a)(1)(A), (C), substituted “Secretary of the military department concerned” for “Secretary of the Army or the Secretary of the Air Force, as the case may be” and “commissioned officer of the Army, Navy, Air Force, or Marine Corps” for “commissioned officer of the Army or the Air Force”.
 
 Subsec. (b). Pub. L. 99–145, §683(a)(1)(B), inserted reference to Navy.
 
@@ -92,5 +96,11 @@ Subsec. (d)(2). Pub. L. 99–145, §683(a)(1)(B), inserted reference to Navy.
 
 1966—Subsec. (d). Pub. L. 89–718 substituted “Secretary concerned” for “Chief of Finance (in cases involving the Army) or by the Secretary of the Air Force” in provision for collection erroneously paid allotments.
 
-<i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
+#### Regulations
+
+Section 651(b) of Pub. L. 104–201 provided that: “The Secretaries of the military departments shall prescribe regulations under subsection (d) of section 701 of title 37, United States Code, as added by subsection (a), not later than October 1, 1997.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in title 10 section 2882; title 14 section 686.
 

@@ -62,7 +62,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 (1)–(4)
 
@@ -118,13 +120,35 @@ Apr. 4, 1953, ch. 17, §1(e), 67 Stat. 21.
 
 Only that portion of the source law which is applicable to civilian officers and employees and their dependents is codified in this section.
 
-In paragraph (1), the word “agency” is substituted for “department”. The words “including such term when used in the amendment made by section 16” are omitted as surplusage. The words “an Executive agency and a military department” are coextensive with and substituted for “any executive department, independent establishment, or agency (including corporations) in the executive branch of the Federal Government” in view of the definitions in sections 105 and 102, and on authority of 5 U.S.C. 933a which provides that general legislation governing employment, compensation, and the status of employees of the United States applies to employees of the General Accounting Office in the same manner as if they were in the executive branch.
+In paragraph (1), the word “agency” is substituted for “department”. The words “including such term when used in the amendment made by section 16” are omitted as surplusage. The words “an Executive agency and a military department” are coextensive with and substituted for “any executive department, independent establishment, or agency (including corporations) in the executive branch of the Federal Government” in view of the definitions in sections 105 and 102, and on authority of 5 U.S.C. 933a which provides that general legislation governing employment, compensation, andthe status of employees of the United States applies to employees of the General Accounting Office in the same manner as if they were in the executive branch.
 
 In paragraph (3)(A), the word “lawful” is omitted as unnecessary in view of the accepted recognition of the fact that the word “wife” means a lawful wife. In paragraph (3)(E), the words “head of the agency concerned or his designee” are substituted for “head of the department concerned, or subordinate designated by him”.
 
 The definitions in paragraphs (5) and (6), which do not appear in, but are based on, the source law are created for legislative convenience.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
+
+#### Accounting for Civilian Employees and Contractors of United States
+
+Pub. L. 104–106, div. A, title V, §569(e), Feb. 10, 1996, 110 Stat. 352, provided that:
+
+“(1) The Secretary of State shall carry out a comprehensive study of the provisions of subchapter VII of chapter 55 of title 5, United States Code (commonly referred to as the ‘Missing Persons Act of 1942’) (5 U.S.C. 5561 et seq.) and any other law or regulation establishing procedures for the accounting for of \[sic\] civilian employees of the United States or contractors of the United States who serve with or accompany the Armed Forces in the field. The purpose of the study shall be to determine the means, if any, by which those procedures may be improved.
+
+“(2) The Secretary of State shall carry out the study required under paragraph (1) in consultation with the Secretary of Defense, the Secretary of Transportation, the Director of Central Intelligence, and the heads of such other departments and agencies of the United States as the President designates for that purpose.
+
+“(3) In carrying out the study, the Secretary of State shall examine the procedures undertaken when a civilian employee referred to in paragraph (1) becomes involuntarily absent as a result of a hostile action, or under circumstances suggesting that the involuntary absence is a result of a hostile action, and whose status is undetermined or who is unaccounted for, including procedures for—
+
+&emsp;“(A) search and rescue for the employee;
+
+&emsp;“(B) determining the status of the employee;
+
+&emsp;“(C) reviewing and changing the status of the employee;
+
+&emsp;“(D) determining the rights and benefits accorded to the family of the employee; and
+
+&emsp;“(E) maintaining and providing appropriate access to the records of the employee and the investigation into the status of the employee.
+
+“(4) Not later than one year after the date of the enactment of this Act \[Feb. 10, 1996\], the Secretary of State shall submit to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives a report on the study carried out by the Secretary under this subsection. The report shall include the recommendations, if any, of the Secretary for legislation to improve the procedures covered by the study.”
 
 #### Benefits for United States Hostages in Iraq and Kuwait and United States Hostages Captured in Lebanon
 

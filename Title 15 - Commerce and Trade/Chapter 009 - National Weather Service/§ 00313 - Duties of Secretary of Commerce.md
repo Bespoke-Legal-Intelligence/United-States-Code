@@ -1,6 +1,6 @@
 ### §313. Duties of Secretary of Commerce
 
-The Secretary of Commerce shall have charge of the forecasting of weather, the issue of storm warnings, the display of weather and flood signals for the benefit of agriculture, commerce, and navigation, the gauging and reporting ofrivers, the maintenance and operation of seacoast telegraph lines and the collection and transmission of marine intelligence for the benefit of commerce and navigation, the reporting of temperature and rain-fall conditions for the cotton interests, the display of frost and cold-wave signals, the distribution of meteorological information in the interests of agriculture and commerce, and the taking of such meteorological observations as may be necessary to establish and record the climatic conditions of the United States, or as are essential for the proper execution of the foregoing duties.
+The Secretary of Commerce shall have charge of the forecasting of weather, the issue of storm warnings, the display of weather and flood signals for the benefit of agriculture, commerce, and navigation, the gauging and reporting of rivers, the maintenance and operation of seacoast telegraph lines and the collection and transmission of marine intelligence for the benefit of commerce and navigation, the reporting of temperature and rain-fall conditions for the cotton interests, the display of frost and cold-wave signals, the distribution of meteorological information in the interests of agriculture and commerce, and the taking of such meteorological observations as may be necessary to establish and record the climatic conditions of the United States, or as are essential for the proper execution of the foregoing duties.
 
 (Oct. 1, 1890, ch. 1266, §3, 26 Stat. 653; May 20, 1926, ch. 344, §5 (e), 44 Stat. 571; June 23, 1938, ch. 601, title XI, §1107(k), 52 Stat. 1029; 1940 Reorg. Plan No. IV, §8, eff. June 30, 1940, 5 F.R. 2421, 54 Stat. 1236; 1965 Reorg. Plan No. 2, §§1, 2, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318.)
 
@@ -12,7 +12,7 @@ The Secretary of Commerce shall have charge of the forecasting of weather, the i
 
 #### Repeals
 
-Pub. L. 85–726, title XIV, §1401(b), Aug. 23, 1958, 72 Stat. 806, repealed act June 23, 1938, ch. 601, title XI, §1107(k), 52 Stat. 1029, cited to the credit of this section.
+Pub. L. 85–726, title XIV, §1401(b), Aug. 23, 1958, 72 Stat. 806, repealed act June 23, 1938, ch. 601, title XI,§1107(k), 52 Stat. 1029, cited to the credit of this section.
 
 #### Transfer of Functions
 
@@ -272,7 +272,7 @@ Consultation.—In preparing portions of the report that address Weather Forecas
 
 “\[Amended section 407 of Pub. L. 100–685, set out below, and repealed section 408 of Pub. L. 100–685, formerly set out below.\]”
 
-\[References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.\]
+\[References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the GeneralSchedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.\]
 
 #### Purchase of Atmospheric Wind Data
 
@@ -324,7 +324,7 @@ Pub. L. 98–8, title I, §104, Mar. 24, 1983, 97 Stat. 34, provided that:
 
 #### Study of Thunderstorms and Atmospheric Disturbances; Reports; Expenditures; Cooperation of Other Departments
 
-Act June 16, 1948, ch. 483, 62 Stat. 470, as amended Oct. 19, 1980, Pub. L. 96–470, title I, §103(b), 94 Stat. 2237, provided: “That the Chief of the Weather Bureau is authorized and directed to study fully and thoroughly the internal structure of thunderstorms, hurricanes, cyclones, and other severe atmospheric disturbances, particularly the degree of turbulence within such storms and the development, maintenance, and magnitude of updrafts and downdrafts with a view to establishing methods by which the characteristics of particular thunderstorms may be forecast and methods by which the characteristics of such storms may be determined on visual observation from outside of the immediate thunderstorm area. Such study shall be concluded atthe earliest practicable date and a final report submitted to Congress.
+Act June 16, 1948, ch. 483, 62 Stat. 470, as amended Oct. 19, 1980, Pub. L. 96–470, title I, §103(b), 94 Stat. 2237, provided: “That the Chief of the Weather Bureau is authorized and directed to study fully and thoroughly the internal structure of thunderstorms, hurricanes, cyclones, and other severe atmospheric disturbances, particularly the degree of turbulence within such storms and the development, maintenance, and magnitude of updrafts and downdrafts with a view to establishing methods by which the characteristics of particular thunderstorms may be forecast and methods by which the characteristics of such storms may be determined on visual observation from outside of the immediate thunderstorm area. Such study shall be concluded at the earliest practicable date and a final report submitted to Congress.
 
 “
 

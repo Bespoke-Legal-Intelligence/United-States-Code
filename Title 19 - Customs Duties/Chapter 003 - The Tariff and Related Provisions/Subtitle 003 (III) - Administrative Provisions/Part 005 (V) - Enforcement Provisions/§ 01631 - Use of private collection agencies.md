@@ -16,9 +16,21 @@ Any contract entered into under subsection (a) of this section shall provide tha
 
 &emsp;&emsp;(B) laws and regulations of the United States Government and State governments related to debt collection practices.
 
-(June 17, 1930, ch. 497, title IV, §631, as added Dec. 8, 1993, Pub. L. 103–182, title VI, §671, 107 Stat. 2217.)
+#### (c) Payment of costs
+
+The debtor shall be assessed and pay any and all costs associated with collection efforts pursuant to this section. Notwithstanding section 3302(b) of title 31, any sum so collected shall be used to pay the costs of debt collection services.
+
+(June 17, 1930, ch. 497, title IV, §631, as added Dec. 8, 1993, Pub. L. 103–182, title VI, §671, 107 Stat. 2217; amended Oct. 11, 1996, Pub. L. 104–295, §3(a)(9), 110 Stat. 3516.)
 
 #### References in Text
 
 The customs laws, referred to in subsec. (a), are classified generally to this title.
+
+#### Amendments
+
+1996—Subsec. (c). Pub. L. 104–295, which directed amendment of subsec. (a) of this section by adding at the end a new subsec. (c), was executed by adding subsec. (c) at the end of this section, to reflect the probable intent of Congress.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–295 applicable as of Dec. 8, 1993, see section 3(b) of Pub. L. 104–295, set out as a note under section 1321 of this title.
 

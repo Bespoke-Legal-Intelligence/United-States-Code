@@ -8,7 +8,7 @@ Merchandise upon which any duties or charges are unpaid, remaining in bonded war
 
 Provisions similar to those in this section were contained in act Sept. 21, 1922, ch. 356, title IV, §559, 42 Stat. 977. That section was superseded by section 559 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
-Prior provisions that goods, remaining in public store or bonded warehouse beyond three years, should be regarded as abandoned and sold, and the proceeds paid into the Treasury, and that the Secretary might pay the proceeds to the owner, etc., after deducting duties, charges and expenses, were contained in R.S. §§2971 and2972, prior to repeal by act Sept. 21, 1922, ch. 356, title IV, §642, 42 Stat. 989.
+Prior provisions that goods, remaining in public store or bonded warehouse beyond three years, should be regarded as abandoned and sold, and the proceeds paid into the Treasury, and that the Secretary might pay the proceeds to the owner, etc., after deducting duties, charges and expenses, were contained in R.S. §§2971 and 2972, prior to repeal by act Sept. 21, 1922, ch. 356, title IV, §642, 42 Stat. 989.
 
 #### Amendments
 
@@ -22,7 +22,7 @@ Period of time prior to Oct. 3, 1978, disregarded in application of amendment to
 
 #### Effective Date of 1938 Amendment
 
-Section 23(b) of act June 25, 1938, provided as follows: “The amendments made by subsection (a) of this section \[amending this section\] shall apply in the case of grain imported prior to the effective date of this act \[see note set out under section 1401 of this title\] which, on such date, has not become abandoned to the Government under section 491 or 559 of the Tariff Act of 1930 \[section 1491 or 1559 of this title\], and which has remained in the custody of customs officers.”
+Section 23(b) of act June 25, 1938, provided as follows: “The amendments made by subsection (a) of this section \[amending this section\] shall apply in the case of grain imported prior to the effective date of this act \[see note set out under section 1401 of this title\] which,on such date, has not become abandoned to the Government under section 491 or 559 of the Tariff Act of 1930 \[section 1491 or 1559 of this title\], and which has remained in the custody of customs officers.”
 
 #### Extension of Three-Year Period
 

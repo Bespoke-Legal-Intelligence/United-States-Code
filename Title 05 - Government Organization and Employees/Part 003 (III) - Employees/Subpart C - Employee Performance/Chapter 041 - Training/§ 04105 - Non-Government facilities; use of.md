@@ -10,7 +10,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 5 U.S.C. 2308.
 
@@ -26,7 +28,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-<b>1994</b>—Pub. L. 103–226 struck out subsec. (a) designation and subsecs. (b) and (c), which read as follows:
+1994—Pub. L. 103–226 struck out subsec. (a) designation and subsecs. (b) and (c), which read as follows:
 
 “(b) An agency program for the training of employees by, in, and through non-Government facilities under this chapter shall—
 

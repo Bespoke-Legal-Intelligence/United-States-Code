@@ -34,7 +34,7 @@ If property was acquired by a corporation in connection with a reorganization to
 
 &emsp;&emsp;(B) is not contributed by a shareholder as such,
 
-> &emsp;then the basis of any property acquired with such money during the 12-month period beginning on the day the contribution is received shall be reduced by the amount of such contribution. The excess (if any) of the amount of such contribution over the amount of the reduction under the preceding sentence shall be applied to the reduction (as of the last day of the period specified in the preceding sentence)of the basis of any other property held by the taxpayer. The particular properties to which the reductions required by this paragraph shall be allocated shall be determined under regulations prescribed by the Secretary.
+> &emsp;then the basis of any property acquired with such money during the 12-month period beginning on the day the contribution is received shall be reduced by the amount of such contribution. The excess (if any) of the amount of such contribution over the amount of the reduction under the preceding sentence shall be applied to the reduction (as of the last day of the period specified in the preceding sentence) of the basis of any other property held by the taxpayer. The particular properties to which the reductions required by this paragraph shall be allocated shall be determined under regulations prescribed by the Secretary.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 118; Oct. 22, 1968, Pub. L. 90–621, §2(b), 82 Stat. 1311; Oct. 4, 1976, Pub. L. 94–455, title XIX, §1906(b)(13)(A), title XXI, §2120(b), 90 Stat. 1834, 1913; Oct. 22, 1986, Pub. L. 99–514, title VIII, §824(b), 100 Stat. 2374.)
 

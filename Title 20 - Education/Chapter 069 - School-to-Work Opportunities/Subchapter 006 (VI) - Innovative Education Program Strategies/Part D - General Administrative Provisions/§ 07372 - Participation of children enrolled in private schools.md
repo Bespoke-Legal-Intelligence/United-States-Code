@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;To the extent consistent with the number of children in the school district of a local educational agency which is eligible to receive funds under this subchapter or which serves the area in which a program or project assisted under this subchapter is located who are enrolled in private nonprofit elementary and secondary schools, or with respect to instructional or personnel training programs funded by the State educational agency from funds made available for State use, such agency, after consultation with appropriate private school officials, shall provide for the benefit of such children in such schools secular, neutral, and nonideological services, materials, and equipment, including the participation of the teachers of such children (and other educational personnel serving such children) in training programs, and the repair, minor remodeling, or construction of public facilities as may be necessary for their provision (consistent with subsection (c) of this section), or, if such services, materials, and equipment are not feasible or necessary in one or more such private schools as determined by the local educational agency after consultation with the appropriate private school officials, shall provide such other arrangements as will assure equitable participation of such children in the purposes and benefits of this subchapter.
+&emsp;To the extent consistent with the number of children in the school district of a local educational agency which is eligible to receive funds under this subchapter or which serves the area in which a program or project assisted under this subchapter is located who are enrolled in private nonprofit elementary and secondary schools, or with respect to instructional or personnel training programs funded by the State educational agency from funds made available for State use, such agency, after consultation with appropriate private school officials, shall provide for the benefit of such children in such schools secular, neutral, and nonideological services, materials, and equipment, including the participation of the teachers of such children (and other educational personnel serving such children) in training programs, and the repair, minor remodeling, or construction of public facilities as may be necessary for their provision (consistent with subsection (c) of this section), or, if such services, materials, and equipment are not feasible or necessary in one or more such private schools as determined by the localeducational agency after consultation with the appropriate private school officials, shall provide such other arrangements as will assure equitable participation of such children in the purposes and benefits of this subchapter.
 
 #### (2) Other provisions for services
 
@@ -44,7 +44,7 @@ If by reason of any provision of law a State or local educational agency is proh
 
 #### (f) Determination
 
-Any determination by the Secretary under this section shall continue in effect until theSecretary determines that there will no longer be any failure or inability on the part of the State or local educational agency to meet the requirements of subsections (a) and (b) of this section.
+Any determination by the Secretary under this section shall continue in effect until the Secretary determines that there will no longer be any failure or inability on the part of the State or local educational agency to meet the requirements of subsections (a) and (b) of this section.
 
 #### (g) Payment from State allotment
 
@@ -58,7 +58,7 @@ When the Secretary arranges for services pursuant to this section, the Secretary
 
 #### (2) Court action
 
-&emsp;If a State or local educational agency is dissatisfied with the Secretary's final action after a proceeding under paragraph (1), such agency may, not later than 60 days after notice of such action, file with the United States court of appeals for the circuit in which such State is located a petition for review of that action. A copy of the petition shall be transmitted by the clerk of the court to the Secretary. The Secretary thereupon shall file in the court the record of the proceedings on which the Secretary based this action, as provided in section 2112 of title 28.
+&emsp;If a State or local educational agency is dissatisfied with the Secretary's final action after a proceeding under paragraph (1), such agency may, not later than 60 days after notice of such action, file with the United States court of appeals for the circuit in which suchState is located a petition for review of that action. A copy of the petition shall be transmitted by the clerk of the court to the Secretary. The Secretary thereupon shall file in the court the record of the proceedings on which the Secretary based this action, as provided in section 2112 of title 28.
 
 #### (3) Remand to Secretary
 

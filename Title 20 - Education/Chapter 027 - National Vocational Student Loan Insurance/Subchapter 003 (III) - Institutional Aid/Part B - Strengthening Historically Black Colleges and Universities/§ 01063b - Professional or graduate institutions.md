@@ -8,7 +8,7 @@
 
 #### (b) Duration
 
-Grants shall be made for a period not to exceed 5 years. No more than two 5-year grants (for a period of not more than 10 years) may be made to any one undergraduate or postgraduate institution.
+Grants shall be made for a period not to exceed 5 years.
 
 #### (c) Uses of funds
 
@@ -86,7 +86,7 @@ Any institution eligible for a grant under this section shall submit an applicat
 
 Of the amount appropriated to carry out this section for any fiscal year—
 
-&emsp;(1) the first $12,000,000 (or any lesser amount appropriated) shall be available only for the purposes of making grants to institutions or programs described in subparagraphs (A) through (E) of subsection (e)(1) of this section;
+&emsp;(1) the first $12,000,000 (or any lesser amount appropriated) shall be available only for the purposes of making grants to institutions orprograms described in subparagraphs (A) through (E) of subsection (e)(1) of this section;
 
 &emsp;(2) any amount appropriated in excess of $12,000,000 shall be available—
 
@@ -94,9 +94,11 @@ Of the amount appropriated to carry out this section for any fiscal year—
 
 &emsp;&emsp;(B) secondly for the purposes of making grants to institutions or programs described in subparagraphs (A) through (P) of subsection (e)(1) of this section.
 
-(Pub. L. 89–329, title III, §326, as added Pub. L. 99–498, title III, §301(a), Oct. 17, 1986, 100 Stat. 1297; amended Pub. L. 100–50, §2(a)(9), (10), June 3, 1987, 101 Stat. 335; Pub. L. 102–325, title III, §303(f)(1), (g), July 23, 1992, 106 Stat. 475, 476; Pub. L. 103–208, §2(a)(9), Dec. 20, 1993, 107 Stat. 2457.)
+(Pub. L. 89–329, title III, §326, as added Pub. L. 99–498, title III, §301(a), Oct. 17, 1986, 100 Stat. 1297; amended Pub. L. 100–50, §2(a)(9), (10), June 3, 1987, 101 Stat. 335; Pub. L. 102–325, title III, §303(f)(1), (g), July 23, 1992, 106 Stat. 475, 476; Pub. L. 103–208, §2(a)(9), Dec. 20, 1993, 107 Stat. 2457; Pub. L. 104–141, §2, May 6, 1996, 110 Stat. 1328.)
 
 #### Amendments
+
+1996—Subsec. (b). Pub. L. 104–141 struck out at end “No more than two 5-year grants (for a period of not more than 10 years) may be made to any one undergraduate or postgraduate institution.”
 
 1993—Subsec. (e)(2). Pub. L. 103–208 redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows: “has been accredited by a nationally recognized accrediting agency or association or has been approved by a nationally recognized approving agency; and”.
 
@@ -129,6 +131,18 @@ Amendment by Pub. L. 102–325 effective Oct. 1, 1992, see section 2 of Pub. L. 
 #### Effective Date of 1987 Amendment
 
 Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Education Amendments of 1986, Pub. L. 99–498, see section 27 of Pub. L. 100–50, set out as a note under section 1001 of this title.
+
+#### Congressional Findings
+
+Section 1 of Pub. L. 104–141 provided that: “The Congress finds the following:
+
+&emsp;“(1) The Historically Black Graduate Professional Schools identified under section 326 of the Higher Education Act \[20 U.S.C. 1063b\] may receive grant funds if the Secretary of Education determines that such institutions make a substantial contribution to the legal, medical, dental, veterinary, or other graduate opportunity for African Americans.
+
+&emsp;“(2) The health professions schools which participate under section 326 train 50 percent of the Nation's African American physicians, 50 percent of the Nation's African American dentists, 50 percent of the Nation's African American pharmacists, and 75 percent of the Nation's African American veterinarians.
+
+&emsp;“(3) A majority of the graduates of these schools practice in poor urban and rural areas of the country providing care to many disadvantaged Americans.
+
+&emsp;“(4) The survival of these schools will contribute to the improved health status of disadvantaged persons, and of all Americans.”
 
 #### Section Referred to in Other Sections
 

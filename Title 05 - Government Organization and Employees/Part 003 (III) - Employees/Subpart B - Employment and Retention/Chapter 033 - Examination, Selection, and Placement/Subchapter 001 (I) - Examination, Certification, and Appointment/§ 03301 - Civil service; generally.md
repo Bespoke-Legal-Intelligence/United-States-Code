@@ -16,7 +16,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 5 U.S.C. 631 (less last 16 words).
 
@@ -244,7 +246,7 @@ Section 3. (a) Upon consideration of the report of the Committee on Civil Servic
 
 (d) The Board, in consultation with the Office, shall determine the regulations and procedures under this section governing the recruitment and examination of applicants for attorney positions, and the selection, appointment, promotion and transfer of attorneys, in the classified service.
 
-(e) The Office shall in the manner determined by the Board establish a register or registers for attorney positions in the classified service and such positions shall thereafter be filled from such registers as are designated by the Board. Unless otherwise determined by the Board, any register so established shall not be in effect for a period longer than one year from the date of its establishment. Upon request of the Board, the Office shall appoint regional or local boards of examiners composed of persons approved by the Board, within or without the Federal service, to interview and examine applicants as the Board shall direct.
+(e) The Office shall in the manner determined by the Board establish a register or registers for attorney positions in the classified service and such positions shall thereafter be filled from such registers as are designated by the Board. Unless otherwise determined by the Board, any register so established shall not be in effect for a period longer than one year from the date ofits establishment. Upon request of the Board, the Office shall appoint regional or local boards of examiners composed of persons approved by the Board, within or without the Federal service, to interview and examine applicants as the Board shall direct.
 
 (f) The number of names to be placed upon any register of eligibles for attorney positions shall be limited to the number recommended by the Board; and such registers shall not be ranked according to the ratings received by the eligibles, except that persons entitled to veterans’ preference as defined in section 1 of Civil Service Rule VI shall be appropriately designated thereon.
 
@@ -322,7 +324,7 @@ As used in these Rules:
 
 (b) In addition to the names of persons who qualify in competitive examinations, the names of persons who have lost eligibility on a career or career-conditional register because of service in the armed forces, and the names of persons who lost opportunity for certification or who have served under career or career-conditional appointment when the Office determines that they should be given certification, may also be entered at such places on appropriate registers and under such conditions as the Office may prescribe.
 
-(c) Whenever the Office of Personnel Management (1) is unable to certify a sufficient number of names to permit the appointing officer to consider three eligibles for appointment to a fourth-class postmaster position in accordance with the regular procedure, or (2) finds that a particular rate of compensation for fourth-classpostmaster positions is too low to warrant regular competitive examinations for such positions, it may authorize appointment to any such position or positions in accordance with such procedure as may be prescribed by the Office. Persons appointed under this subsection may acquire competitive status subject to satisfactory completion of a probationary period prescribed by the Office.
+(c) Whenever the Office of Personnel Management (1) is unable to certify a sufficient number of names to permit the appointing officer to consider three eligibles for appointment to a fourth-class postmaster position in accordance with the regular procedure, or (2) finds that a particular rate of compensation for fourth-class postmaster positions is too low to warrant regular competitive examinations for such positions, it may authorize appointment to any such position or positions in accordance with such procedure as may be prescribed by the Office. Persons appointed under this subsection may acquire competitive status subject to satisfactory completion of a probationary period prescribed by the Office.
 
 #### §2.2. Appointments
 
@@ -486,7 +488,7 @@ Each agency shall report to the Office, in such manner and at such times as the 
 
 #### §7.3. Reemployment Rights
 
-The Office, whenever it determines it to be necessary, shall prescribe regulations governing the release of employees (both within the competitive service and the excepted service) by any agency in the executive branch of the Government for employment in any otheragency, and governing the establishment, granting, and exercise of rights to reemployment in the agencies from which employees are released.
+The Office, whenever it determines it to be necessary, shall prescribe regulations governing the release of employees (both within the competitive service and the excepted service) by any agency in the executive branch of the Government for employment in any other agency, and governing the establishment, granting, and exercise of rights to reemployment in the agencies from which employees are released.
 
 #### §7.4. Citizenship
 
@@ -546,7 +548,7 @@ The career-conditional appointment of any employee entitled to veteran preferenc
 
 #### §204
 
-In order to effectuate the purposes of section 1310 of the Supplemental Appropriations Act, 1952 (65 Stat. 757), as amended \[set out as a note under section 3101 of this title\], the Office shall, after consultation with the agencies concerned, determine the division of allowable permanent appointments within and between the excepted service and the competitive service.
+In order to effectuate the purposes of section 1310 of the Supplemental Appropriations Act, 1952 (65 Stat.757), as amended \[set out as a note under section 3101 of this title\], the Office shall, after consultation with the agencies concerned, determine the division of allowable permanent appointments within and between the excepted service and the competitive service.
 
 #### §205
 
@@ -616,7 +618,7 @@ Ex. Ord. No. 11202, Mar. 5, 1965, 30 F.R. 3185, which established career or care
 
 Ex. Ord No. 11203, Mar. 12, 1965; 30 F.R. 3417, as amended by Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, provided:
 
-By virtue of the authority vested in me by Section 2 of the Civil Service Act (22 Stat. 403) and Section 1753 of the Revised Statutes of the United States (5 U.S.C. 631) \[sections 3301 and 7301 of this title\] and as President of the United States, it is hereby ordered as follows—
+By virtue of the authority vested in me by Section 2 of the Civil Service Act (22 Stat. 403) and Section 1753 of the Revised Statutes of the United States (5 U.S.C.631) \[sections 3301 and 7301 of this title\] and as President of the United States, it is hereby ordered as follows—
 
 Section 1. Any employee of the Treasury Department serving under an appointment under Schedule B of the Civil Service Rules in a position concerned with the protection of the life and safety of the President, members of his immediate family, or other persons for whom similar protective services are provided by law (which responsibility is hereinafter referred to as the protective function) may have his appointment converted to a career appointment if:
 
@@ -738,7 +740,7 @@ Sec. 5. <i>Conversion of incumbents</i>. On the day Civil Service Rule IX become
 
 #### Part III. Administration
 
-Sec. 6. <i>Office responsibilities</i>. The Office of Personnel Management is responsible to the President for the effective implementation and administration of the executive assignment system established by this Order. The Office shall continuously review operations under this system, shall recommend promptly to the President any changes that are necessary to improve this system, and shall report periodically to the President any significant developments in the operation of the system. The Office shall recommend to the President a program of special honors and awards for the recognition of persons assigned to Career Executive Assignments and a program for the development and training of persons assigned to Career Executive Assignments. The training program shall include the establishment of specialtraining and educational facilities, and provide for the relevant use of outside training facilities.
+Sec. 6. <i>Office responsibilities</i>. The Office of Personnel Management is responsible to the President for the effective implementation and administration of the executive assignment system established by this Order. The Office shall continuously review operations under this system, shall recommend promptly to the President any changes that are necessary to improve this system, and shall report periodically to the President any significant developments in the operation of the system. The Office shall recommend to the President a program of special honors and awards for the recognition of persons assigned to Career Executive Assignments and a program for the development and training of persons assigned to Career Executive Assignments. The training program shall include the establishment of special training and educational facilities, and provide for the relevant use of outside training facilities.
 
 Sec. 7. <i>Responsibilities of the agencies</i>. The head of each agency in which there are positions covered by Civil Service Rule IX shall periodically review with the Office of Personnel Management his plans for staffing. The head of a newly established agency shall initially review with the Office his plans for staffing as soon as practicable after the establishment of the agency. The head of each agency shall cooperate fully with the Office in the establishment of special facilities and special boards and panels that are required under Civil Service Rule IX as a means of recruiting persons of the highest quality.
 
@@ -764,7 +766,7 @@ Section 1. Civil Service Rule VI is amended by adding the following Section:
 
 #### “Section 6.8. Specified Exceptions
 
-“Positions in the Department of the Interior whose incumbents serve as the principal representative of the Secretary in their respective regions shall be listed in Schedule C for grades not exceeding grade GS–15 of the General Schedule and shall be designated Noncareer Executive Assignments for positions graded higher than GS–15. Incumbents of these positions who are, on February 15, 1975, in the competitive service shall not be affected by the foregoing provisions of this Section.”
+“Positions in the Department of the Interior whose incumbents serve as the principal representative of the Secretary in their respective regions shall be listed in Schedule C for grades not exceeding grade GS–15 of theGeneral Schedule and shall be designated Noncareer Executive Assignments for positions graded higher than GS–15. Incumbents of these positions who are, on February 15, 1975, in the competitive service shall not be affected by the foregoing provisions of this Section.”
 
 Sec. 2. Civil Service Rule IX is amended by adding the following:
 
@@ -830,13 +832,13 @@ Ex. Ord. No. 12008, Aug. 25, 1977, 42 F.R. 43373, as amended by Ex. Ord. No. 121
 
 #### Ex. Ord. No. 12015. Career or Career-Conditional Appointments in Competitive Service for Students Completing Approved Career-Related Work-Study Programs
 
-Ex. Ord. No. 12015, Oct. 26, 1977, 42 F.R. 56947, as amended by Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, provided:
+Ex. Ord. No. 12015, Oct. 26, 1977, 42 F.R. 56947, as amended by Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055; Ex. Ord. No. 13024, Nov. 7, 1996, 61 F.R. 58125, provided:
 
 By virtue of the authority vested in me by Sections 3301 and 3302 of Title 5 of the United States Code, and as President of the United States of America, it is hereby ordered as follows:
 
 Section 1. As used in this order “career-related work-study programs” are those programs established by the Office of Personnel Management which provide for a formally-arranged schedule of periods of attendance at an accredited school combined with periods of career-related work in a Federal agency under a Schedule B appointment.
 
-Sec. 2. The appointment of a student to a position in a career-related work-study program may be converted noncompetitively to a career or career-conditional appointment if the student:
+Sec. 2. The appointment of a student to a position in a career-related work-study program may be converted noncompetitively to a term, career, or career-conditional appointment if the student:
 
 (a) has completed within the preceding 120 days an educational program that meets the provisions established by the Office of Personnel Management;
 
@@ -844,13 +846,13 @@ Sec. 2. The appointment of a student to a position in a career-related work-stud
 
 (c) is recommended for such an appointment by the employing agency in which the career-related work was performed; and,
 
-(d) satisfies such other requirements and conditions as the Office of Personnel Management may prescribe for career or career-conditional appointment of an individual in career-related work-study programs.
+(d) satisfies such other requirements and conditions as the Office of Personnel Management may prescribe for term, career, or career-conditional appointment of an individual in career-related work-study programs.
 
 Sec. 3. The Office of Personnel Management shall prescribe such regulations as it deems necessary to carry out the provisions of this order and to provide for the continuation of planning, implementation and evaluation of employment programs for students throughout the Government. These regulations shall provide for the periodic evaluation of the work of each student and require that each student's continuation in the program shall be dependent upon a finding of satisfactory performance.
 
-Sec. 4. Executive Order No. 11813 of October 7, 1974, is hereby revoked.
+Sec. 4. Students converted to term appointment under section 2 may subsequently be converted noncompetitively to a career or career-conditional appointment before the term appointment expires.
 
-Jimmy Carter.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Sec. 5. Executive Order No. 11813 of October 7, 1974, is hereby revoked.
 
 #### Ex. Ord. No. 12021. Amending the Civil Service Rules To Except Certain Positions From the Career Service
 
@@ -996,7 +998,7 @@ Ex. Ord. No. 12596, May 7, 1987, 52 F.R. 17537, provided:
 
 By the authority vested in me as President by the Constitution and laws of the United States of America, including sections 3301 and 3302 of title 5 of the United States Code, it is hereby ordered as follows:
 
-Section 1. An individual who is employed in a Professional or Administrative Career position under Schedule B under the authority of 5 C.F.R. 213.3202(<i>l</i>) may be converted noncompetitively to a career or career-conditional appointment at GS–9, provided the individual meets the qualifications and other requirements established by the Director of the Office of Personnel Management, and further provided the individual's performance is determined by the employing agency, in a careful and formal evaluation, to warrant such conversion at GS–9.
+Section 1. An individual who is employed in a Professional or Administrative Career position under Schedule B under the authority of 5 C.F.R. 213.3202(<i>l</i>) may be converted noncompetitively to a career or career-conditional appointment at GS–9, provided the individual meets the qualifications and other requirements established by the Director of the Office of Personnel Management, and further provided the individual's performance is determined by the employing agency, in acareful and formal evaluation, to warrant such conversion at GS–9.
 
 Sec. 2. The Director of the Office of Personnel Management shall prescribe such regulations as may be necessary to implement this Order.
 
@@ -1066,7 +1068,7 @@ George Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Ex. Ord. No. 12940, Nov. 28, 1994, 59 F.R. 61519, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including sections 3301 and 3302 of title 5, United States Code, and having determined that it is necessary and warranted by conditions of good administration that certain positions in the Department of Agriculture continue to be excluded from the coverage of section 2302 of title 5, United States Code, and excepted from the competitive service because of their confidential, policy-determining, policy-making, or policy-advocating character, in order to ensure their deep involvement in the development and advocacy of Administration proposals and policies and to ensure their effective and vigorous implementation, and as a result of a reorganization of the Department of Agriculture carried out pursuant to Public Law 103–354 \[7 U.S.C. 6901 et seq.\], it is hereby ordered that subsection (c) of section 6.8 of Civil Service Rule VI (5 C.F.R. 6.8) is revised to read as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including sections 3301 and 3302 of title 5, United States Code, and having determined that it is necessary and warranted by conditions of good administration that certain positions in the Department of Agriculture continue to be excluded from the coverage of section 2302 of title 5, United States Code, and excepted from the competitive service because of their confidential, policy-determining, policy-making, or policy-advocating character, in order to ensure their deep involvement in the development and advocacy of Administration proposals and policies and to ensure their effective and vigorous implementation, and as aresult of a reorganization of the Department of Agriculture carried out pursuant to Public Law 103–354 \[7 U.S.C. 6901 et seq.\], it is hereby ordered that subsection (c) of section 6.8 of Civil Service Rule VI (5 C.F.R. 6.8) is revised to read as follows:
 
 “(c) Within the Department of Agriculture, positions the incumbents of which serve as State Executive Directors of the Consolidated Farm Service Agency and positions the incumbents of which serve as State Directors or State Directors-at-Large for Rural Economic and Community Development shall be listed in Schedule C for all grades of the General Schedule.”
 

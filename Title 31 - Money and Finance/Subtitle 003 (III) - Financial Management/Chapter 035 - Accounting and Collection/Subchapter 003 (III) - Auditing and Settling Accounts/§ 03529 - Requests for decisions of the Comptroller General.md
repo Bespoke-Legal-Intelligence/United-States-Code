@@ -6,9 +6,15 @@
 
 &emsp;(2) a voucher presented to a certifying official for certification.
 
-(b) The Comptroller General shall issue a decision requested under this section.
+(b)(1) Except as provided in paragraph (2), the Comptroller General shall issue a decision requested under this section.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 967.)
+(2) A decision requested under this section concerning a function transferred to or vested in the Director of the Office of Management and Budget under section 211(a) of the Legislative Branch Appropriations Act, 1996 (109 Stat. 535), as in effect immediately before the effective date of title II of the General Accounting Office Act of 1996, or under this Act, shall be issued—
+
+&emsp;(A) by the Director of the Office of Management and Budget, except as provided in subparagraph (B); or
+
+&emsp;(B) in the case of a function delegated by the Director to another agency, by the head of the agency to which the function was delegated.
+
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 967; Pub. L. 104–316, title II, §204, Oct. 19, 1996, 110 Stat. 3845.)
 
 Historical and Revision Notes
 
@@ -43,6 +49,16 @@ Dec. 29, 1941, ch. 641, §§3(words after semicolon), 4(related to §3 ), 55 Sta
 In subsection (a), before clause (1), the text of 31:82e(related to 82d) is omitted as unnecessary because it does not apply to 31:82d. The words “of law” in 31:82d(words after semicolon) are omitted as surplus. In clause (1), the words “or under them” in 31:74(last par. words before 4th comma) are omitted as unnecessary. In clause (2), the words “a payment on” in 31:82d(words after semicolon) are omitted as surplus.
 
 In subsection (b), the word “issue” is substituted for “render” in 31:74(last par. words before 4th comma) and “obtain” in 31:82d(words after semicolon) because of the restatement.
+
+#### References in Text
+
+Section 211(a) of the Legislative Branch Appropriations Act, 1996, as in effect immediately before the effective date of title II of the General Accounting Office Act of 1996, referred to in subsec. (b)(2), is section 211(a) of Pub. L. 104–53, which is set out as a note under section 501 of this title, as in effect before Oct. 19, 1996, the date of enactment of the General Accounting Office Act of 1996, Pub. L. 104–316, section 203 of which amended section 211 of Pub. L. 104–53 generally.
+
+This Act, referred to in subsec. (b)(2), probably means Pub. L. 104–316, Oct. 19, 1996, 110 Stat. 3286, known as the General Accounting Office Act of 1996, which enacted subsec. (b)(2) of this section. For complete classification of this Act to the Code, see Tables.
+
+#### Amendments
+
+1996—Subsec. (b). Pub. L. 104–316 designated existing provisions as par. (1) and substituted “Except as provided in paragraph (2), the Comptroller General” for “The Comptroller General”, and added par. (2).
 
 #### Section Referred to in Other Sections
 

@@ -18,7 +18,7 @@ The purposes of this subchapter are to—
 
 #### Effective Date
 
-Section 9(a) of Pub. L. 98–549 provided that: “Except where otherwise expressly provided, the provisions of this Act \[enacting this subchapter and section 611 of this title, amending sections 152, 224, 309, and 605 of this title, section 2511 of Title 18, Crimes and Criminal Procedure, and section 1805 of Title 50, War and National Defense, and enacting provisions set out as notes under this section and sections 543, 605, and 609 of this title\] and the amendments made thereby shall take effect 60 days after the date of enactment of this Act \[Oct. 30, 1984\].”
+Section 9(a) of Pub. L. 98–549 provided that: “Except where otherwise expressly provided, the provisions of this Act \[enacting this subchapter and section 611 of this title, amending sections 152, 224, 309, and 605 of this title, section 2511 of Title 18, Crimes and Criminal Procedure, and section 1805 of Title 50, War and NationalDefense, and enacting provisions set out as notes under this section and sections 543, 605, and 609 of this title\] and the amendments made thereby shall take effect 60 days after the date of enactment of this Act \[Oct. 30, 1984\].”
 
 #### Short Title
 
@@ -58,7 +58,7 @@ Findings.—The Congress finds and declares the following:
 
 &emsp;“(9) The Federal Government has a substantial interest in having cable systems carry the signals of local commercial television stations because the carriage of such signals is necessary to serve the goals contained in section 307(b) of the Communications Act of 1934 \[47 U.S.C. 307(b)\] of providing a fair, efficient, and equitable distribution of broadcast services.
 
-&emsp;“(10) A primary objective and benefit of our Nation's system of regulation of television broadcastingis the local origination of programming. There is a substantial governmental interest in ensuring its continuation.
+&emsp;“(10) A primary objective and benefit of our Nation's system of regulation of television broadcasting is the local origination of programming. There is a substantial governmental interest in ensuring its continuation.
 
 &emsp;“(11) Broadcast television stations continue to be an important source of local news and public affairs programming and other local broadcast services critical to an informed electorate.
 
@@ -70,7 +70,7 @@ Findings.—The Congress finds and declares the following:
 
 &emsp;“(15) A cable television system which carries the signal of a local television broadcaster is assisting the broadcaster to increase its viewership, and thereby attract additional advertising revenues that otherwise might be earned by the cable system operator. As a result, there is an economic incentive for cable systems to terminate the retransmission of the broadcast signal, refuse to carry new signals, or reposition a broadcast signal to a disadvantageous channel position. There is a substantial likelihood that absent the reimposition of such a requirement, additional local broadcast signals will be deleted, repositioned, or not carried.
 
-&emsp;“(16) As a result of the economic incentive that cable systems have to delete, reposition, or not carry local broadcast signals, coupled with the absence of a requirement that such systems carry local broadcast signals, the economic viability of free local broadcast television and its ability to originate quality local programming will be seriously jeopardized.
+&emsp;“(16) As a result of the economic incentive that cable systems have to delete, reposition, or not carry local broadcast signals, coupled with the absence of a requirement that such systems carry local broadcastsignals, the economic viability of free local broadcast television and its ability to originate quality local programming will be seriously jeopardized.
 
 &emsp;“(17) Consumers who subscribe to cable television often do so to obtain local broadcast signals which they otherwise would not be able to receive, or to obtain improved signals. Most subscribers to cable television systems do not or cannot maintain antennas to receive broadcast television services, do not have input selector switches to convert from a cable to antenna reception system, or cannot otherwise receive broadcast television services. The regulatory system created by the Cable Communications Policy Act of 1984 was premised upon the continued existence of mandatory carriage obligations for cable systems, ensuring that local stations would be protected from anticompetitive conduct by cable systems.
 
@@ -106,5 +106,5 @@ Pub. L. 102–385, §27, Oct. 5, 1992, 106 Stat. 1503, provided that: “Nothing
 
 #### Effect of Cable Communications Policy Act of 1984 on Jurisdiction of Federal Communications Commission Respecting Wire or Radio Communications Through Cable Systems
 
-Section 3(b) of Pub. L. 98–549 provided that: “The provisions of this Act \[enacting this subchapter and section 611 of this title, amending sections 152, 224, 309, and 605 of this title, section 2511 of Title 18, Crimes and Criminal Procedure, and section 1805 of Title 50, War and National Defense, and enacting provisions set outas notes under this section and sections 543, 605, and 609 of this title\] and amendments made by this Act shall not be construed to affect any jurisdiction the Federal Communications Commission may have under the Communications Act of 1934 \[this chapter\] with respect to any communication by wire or radio (other than cable service, as defined in section 602(5) of such Act \[section 522(5) of this title\]) which is provided through a cable system, or persons or facilities engaged in such communications.”
+Section 3(b) of Pub. L. 98–549 provided that: “The provisions of this Act \[enacting this subchapter and section 611 of this title, amending sections 152, 224, 309, and 605 of this title, section 2511 of Title 18, Crimes and Criminal Procedure, and section 1805 of Title 50, War and National Defense, and enacting provisions set out as notes under this section and sections 543, 605, and 609 of this title\] and amendments made by this Act shall not be construed to affect any jurisdiction the Federal Communications Commission may have under the Communications Act of 1934 \[this chapter\] with respect to any communication by wire or radio (other than cable service, as defined in section 602(5) of such Act \[section 522(5) of this title\]) which is provided through a cable system, or persons or facilities engaged in such communications.”
 

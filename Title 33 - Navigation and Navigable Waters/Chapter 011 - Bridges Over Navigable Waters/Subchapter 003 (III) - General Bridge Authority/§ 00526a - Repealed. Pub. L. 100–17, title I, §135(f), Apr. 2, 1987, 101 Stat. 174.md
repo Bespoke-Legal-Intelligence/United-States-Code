@@ -1,6 +1,6 @@
 ### §526a. Repealed. Pub. L. 100–17, title I, §135(f), Apr. 2, 1987, 101 Stat. 174
 
-Section, act Pub. L. 93–87, title I, §133(b), Aug. 13, 1973, 87 Stat. 267, authorized Secretary of Transportation to promulgate regulations establishing guidelines governing any increase in tolls for use of any bridge constructed pursuant to either the General Bridge Act of 1906 or the General Bridge Act of 1946.
+Section, act Pub. L. 93–87, title I, §133(b), Aug. 13, 1973, 87 Stat. 267, authorized Secretary of Transportation to promulgate regulations establishing guidelines governing any increase in tolls for use of anybridge constructed pursuant to either the General Bridge Act of 1906 or the General Bridge Act of 1946.
 
 #### Study of Toll Bridge Authority; Investigation and Study of Federal Statutes and Regulations; Report to Congress
 

@@ -12,10 +12,13 @@
 | [12737\.](%C2%A7%2012737%20-%20Limitation%20on%20active%20duty.md) | Limitation on active duty. |
 | [12738\.](%C2%A7%2012738%20-%20Limitations%20on%20revocation%20of%20retired%20pay.md) | Limitations on revocation of retired pay. |
 | [12739\.](%C2%A7%2012739%20-%20Computation%20of%20retired%20pay.md) | Computation of retired pay. |
+| [12740\.](%C2%A7%2012740%20-%20Eligibility%20denial%20upon%20certain%20punitive%20discharges%20or%20dismissals.md) | Eligibility: denial upon certain punitive discharges or dismissals. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1996—Pub. L. 104–106, div. A, title VI, §632(a)(2), Feb. 10, 1996, 110 Stat. 365, added item 12740.
 
 1994—Pub. L. 103–337, div. A, title XVI, §1662(j)(1), Oct. 5, 1994, 108 Stat. 2998, renumbered chapter 67 of this title as this chapter and amended analysis generally, renumbering items 1331 to 1338 as items 12731 to 12738, respectively, substituting “Entitlement to retired pay: computation of years of service” for “Computation of years of service in determining entitlement to retired pay” in item 12732 and “Computation of retired pay: computation of years of service” for “Computation of years of service in computing retired pay” in item 12733, and adding item 12739.
 
@@ -31,7 +34,7 @@ Retention after qualifications for retired pay, see section 12308 of this title.
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 1053, 1064, 1065, 1076, 1331, 1370, 1407, 1409, 1447, 1451, 1452, 1463, 3961, 8961, 10153, 12307, 12308, 12319, 14901, 14905 of this title; title 5 sections 8332, 8411; title 38 sections 1965, 1968, 2301, 2306; title 50 section 2082.
+This chapter is referred to in sections 1053, 1064, 1065, 1076, 1076c, 1331, 1370, 1407, 1409, 1447, 1452, 1463, 3961, 8961, 10153, 12307, 12308, 12319, 14901, 14905 of this title; title 5 sections 8332, 8411; title 38 sections 1965, 1968, 2301, 2306; title 50 section 2082.
 
 
 ---
@@ -48,3 +51,4 @@ This chapter is referred to in sections 1053, 1064, 1065, 1076, 1331, 1370, 1407
 - [&sect; 12737 - Limitation on active duty](%C2%A7%2012737%20-%20Limitation%20on%20active%20duty.md)
 - [&sect; 12738 - Limitations on revocation of retired pay](%C2%A7%2012738%20-%20Limitations%20on%20revocation%20of%20retired%20pay.md)
 - [&sect; 12739 - Computation of retired pay](%C2%A7%2012739%20-%20Computation%20of%20retired%20pay.md)
+- [&sect; 12740 - Eligibility denial upon certain punitive discharges or dismissals](%C2%A7%2012740%20-%20Eligibility%20denial%20upon%20certain%20punitive%20discharges%20or%20dismissals.md)

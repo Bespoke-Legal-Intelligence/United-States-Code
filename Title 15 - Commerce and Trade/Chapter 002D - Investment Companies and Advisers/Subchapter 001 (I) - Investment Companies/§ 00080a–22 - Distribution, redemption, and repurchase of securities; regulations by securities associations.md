@@ -40,7 +40,7 @@ No registered investment company shall suspend the right of redemption, or postp
 
 #### (f) Restrictions on transferability or negotiability of securities
 
-No registered open-end company shall restrict the transferability or negotiability of any security of which it is the issuer except in conformity with the statements with respect thereto contained in its registration statement nor in contravention of such rules and regulations as the Commission may prescribe in the interests of the holders of all of the outstanding securities of such investment company.
+No registered open-end company shall restrict the transferability or negotiability of any security of which it is the issuer except in conformity with the statements with respect theretocontained in its registration statement nor in contravention of such rules and regulations as the Commission may prescribe in the interests of the holders of all of the outstanding securities of such investment company.
 
 #### (g) Issuance of securities for services or property other than cash
 
@@ -76,5 +76,5 @@ Definition of term, prospectus, see section 80a–2 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 80a–2, 80a–6 of this title.
+This section is referred to in sections 80a–2, 80a–6, 80a–12 of this title.
 

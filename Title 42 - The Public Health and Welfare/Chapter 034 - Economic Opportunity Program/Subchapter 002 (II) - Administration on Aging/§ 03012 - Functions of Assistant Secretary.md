@@ -14,7 +14,7 @@ It shall be the duty and function of the Administration to—
 
 &emsp;(5) develop plans, conduct and arrange for research in the field of aging, and assist in the establishment and implementation of programs designed to meet the needs of older individuals for supportive services, including nutrition, hospitalization, education and training services (including preretirement training, and continuing education), low-cost transportation and housing, and health (including mental health) services;
 
-&emsp;(6) provide technical assistance and consultation to States and political subdivisionsthereof with respect to programs for the aged and aging;
+&emsp;(6) provide technical assistance and consultation to States and political subdivisions thereof with respect to programs for the aged and aging;
 
 &emsp;(7) prepare, publish, and disseminate educational materials dealing with the welfare of older individuals;
 
@@ -38,7 +38,7 @@ It shall be the duty and function of the Administration to—
 
 &emsp;(17) develop, in coordination with other agencies, a national plan for meeting the needs for trained personnel in the field of aging, and for training persons for carrying out programs related to the objectives of this chapter, and conduct and provide for the conducting of such training;
 
-&emsp;(18) consult with national organizations representing minority individuals to develop and disseminate training packages and to provide technical assistance efforts designed to assist State and area agencies on aging, and service providers, in providing services to older individuals with greatest economic need or individuals with greatest social need, with particular attention to and specific objectives for providing services to low-income minority individuals;
+&emsp;(18) consult with national organizations representing minority individuals to develop anddisseminate training packages and to provide technical assistance efforts designed to assist State and area agencies on aging, and service providers, in providing services to older individuals with greatest economic need or individuals with greatest social need, with particular attention to and specific objectives for providing services to low-income minority individuals;
 
 &emsp;(19) collect for each fiscal year, for fiscal years beginning after September 30, 1988, directly or by contract, statistical data regarding programs and activities carried out with funds provided under this chapter, including—
 
@@ -102,7 +102,7 @@ It shall be the duty and function of the Administration to—
 
 &emsp;(26) develop guidelines and a model job description for choosing and evaluating legal assistance developers referred to in sections 3027(a)(18) and 3058j(b)(2) of this title;
 
-&emsp;(27)(A) conduct a study to determine ways in which Federal funds might be more effectively targeted to low-income minority older individuals, and older individuals residing in rural areas, to better meet the needs of States with a disproportionate number of older individuals with greatest economic need and older individuals with greatest social need;
+&emsp;(27)(A) conduct a study to determine ways in which Federal funds might be more effectivelytargeted to low-income minority older individuals, and older individuals residing in rural areas, to better meet the needs of States with a disproportionate number of older individuals with greatest economic need and older individuals with greatest social need;
 
 &emsp;(B) conduct a study to determine ways in which Federal funds might be more effectively targeted to better meet the needs of States with disproportionate numbers of older individuals, including methods of allotting funds under subchapter III of this chapter, using the most recent estimates of the population of older individuals; and
 
@@ -162,7 +162,7 @@ In order to strengthen the involvement of the Administration in the development 
 
 &emsp;(D) provide technical assistance to State agencies and to other public and nonprofit private agencies and organizations to assist the agencies and organizations in planning, improving, developing, and carrying out programs and activities relating to the special problems of elder abuse, neglect, and exploitation; and
 
-&emsp;(E) conduct research and demonstration projects regarding the causes, prevention, identification, and treatment of elder abuse, neglect, and exploitation.
+&emsp;(E) conduct research and demonstration projects regarding the causes, prevention,identification, and treatment of elder abuse, neglect, and exploitation.
 
 (3)(A) The Assistant Secretary shall carry out paragraph (2) through grants or contracts.
 
@@ -338,7 +338,7 @@ Subsec. (a)(8) to (11). Pub. L. 95–478, §102(a)(1), redesignated former pars.
 
 Subsec. (a)(12). Pub. L. 95–478, §§102(a)(1), 503(b)(4), redesignated former par. (11) as (12) and substituted “older individuals” and “such individuals” for “older persons” and “such persons”. Former par. (12) redesignated (13).
 
-Subsec. (a)(13). Pub. L. 95–478, §§102(a)(1), 503(b)(4)(A), redesignated former par. (12) as (13) and substituted “older individuals” for “older persons”. Former par. (13) redesignated (14).
+Subsec. (a)(13). Pub. L. 95–478, §§102(a)(1), 503(b)(4)(A), redesignated former par. (12) as (13) and substituted“older individuals” for “older persons”. Former par. (13) redesignated (14).
 
 Subsec. (a)(14). Pub. L. 95–478, §102(a)(1), redesignated former par. (13) as (14). Former par. (14) redesignated (15).
 

@@ -26,7 +26,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 5 U.S.C. 1045b.
 
@@ -46,15 +48,15 @@ A prior section 593 was renumbered section 583 of this title.
 
 #### Amendments
 
-<b>1992</b>—Pub. L. 102–354, §2(2), renumbered section 573 of this title as this section.
+1992—Pub. L. 102–354, §2(2), renumbered section 573 of this title as this section.
 
 Subsec. (b)(4). Pub. L. 102–354, §2(3), substituted “section 595(b)” for “section 575(b)”.
 
-<b>1986</b>—Subsec. (a). Pub. L. 99–470, §1(a)(1), substituted “101” for “91”.
+1986—Subsec. (a). Pub. L. 99–470, §1(a)(1), substituted “101” for “91”.
 
 Subsec. (b)(6). Pub. L. 99–470, §1(a)(2), substituted “40” for “36”.
 
 #### Development of Administrative Conference
 
-The Administrative Conference of the United States, established as a permanent body by the Administrative Conference Act, Pub. L. 88–499, Aug. 30, 1964, 78 Stat. 615, was preceded by two temporary Conferences. The first was called by President Eisenhower in 1953 and adopted a final report which was transmitted to the President who acknowledged receipt of it on March 3, 1955. The second was established by President Kennedy by Executive Order No. 10934, Apr. 14, 1961, 26 F.R. 3233, which, by its terms, called for a final report to the President by December 31, 1962. The final report recommended a continuing Conference consisting of both government personnel and outside experts.
+The Administrative Conference of the United States, established as a permanent body by the Administrative Conference Act, Pub. L. 88–499, Aug. 30, 1964, 78 Stat.615, was preceded by two temporary Conferences. The first was called by President Eisenhower in 1953 and adopted a final report which was transmitted to the President who acknowledged receipt of it on March 3, 1955. The second was established by President Kennedy by Executive Order No. 10934, Apr. 14, 1961, 26 F.R. 3233, which, by its terms, called for a final report to the President by December 31, 1962. The final report recommended a continuing Conference consisting of both government personnel and outside experts.
 

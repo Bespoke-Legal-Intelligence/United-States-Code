@@ -18,17 +18,21 @@ The Director shall, in consultation with the Board—
 
 (1) The Director shall, in consultation with the Board, ensure that appropriate procedures for fiscal control and fund accounting are established for the financial operations of the Congressional Award Program, and that such operations are administered by personnel with expertise in accounting and financial management. Such personnel may be retained under contract. In carrying out this paragraph, the Director shall ensure that the liabilities of the Board do not, for any calendar year, exceed the assets of the Board.
 
-(2)(A) The Comptroller General of the United States shall determine, for calendar years 1993 and 1994, whether the Director has substantially complied with paragraph (1). The findings made by the Comptroller General under the preceding sentence shall be included in the first report submitted under section 807(b) of this title after December 31, 1994.
+(2)(A) The Comptroller General of the United States shall determine, for calendar years 1993 <sup>1</sup> 1994, 1995, 1996, 1997, and 1998, whether the Director has substantially complied with paragraph (1). The findings made by the Comptroller General under the preceding sentence shall be included in the first report submitted under section 807(b) of this title after December 31, 1994.
 
 (B) If the Director fails to substantially comply with paragraph (1), the Board shall take such actions as may be necessary to prepare, pursuant to section 808 of this title, for the orderly cessation of the activities of the Board.
 
-(Pub. L. 96–114, §5, Nov. 16, 1979, 93 Stat. 853; Pub. L. 102–457, §2, Oct. 23, 1992, 106 Stat. 2265.)
+(Pub. L. 96–114, §5, Nov. 16, 1979, 93 Stat. 853; Pub. L. 102–457, §2, Oct. 23, 1992, 106 Stat. 2265; Pub. L. 104–208, div. A, title V, §5401(a), Sept. 30, 1996, 110 Stat. 3009–511.)
 
 #### Amendments
+
+1996—Subsec. (c)(2)(A). Pub. L. 104–208 substituted “1994, 1995, 1996, 1997, and 1998” for “and 1994”.
 
 1992—Subsec. (c). Pub. L. 102–457 added subsec. (c).
 
 #### Section Referred to in Other Sections
 
 This section is referred to in section 802 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

@@ -8,7 +8,7 @@ Subject to the requirements of section 1224 of this title, the Secretary—
 
 &emsp;(2) shall require appropriate vessels which operate in an area of a vessel traffic service to utilize or comply with that service;
 
-&emsp;(3) may require vessels to install and use specified navigation equipment, communications equipment, electronic relative motion analyzer equipment, or any electronic or other device necessary to comply with a vessel traffic service or which is necessary in the interests of vessel safety: <i>Provided</i>, That the Secretary shall not require fishing vessels under 300 gross tons or recreational vessels 65 feet or less to possess or use the equipment or devices required by this subsection solely under the authority of this chapter;
+&emsp;(3) may require vessels to install and use specified navigation equipment, communications equipment, electronic relative motion analyzer equipment, or any electronic or other device necessary to comply with a vessel traffic service or which is necessary in the interests of vessel safety: <i>Provided</i>, That the Secretary shall not require fishing vessels under 300 gross tons as measured under section 14502 of title 46, or an alternate tonnage measured under section 14302 of that title as prescribed by the Secretary under section 14104 of that title or recreational vessels 65 feet or less to possess or use the equipment or devices required by this subsection solely under the authority of this chapter;
 
 &emsp;(4) may control vessel traffic in areas subject to the jurisdiction of the United States which the Secretary determines to be hazardous, or under conditions of reduced visibility, adverse weather, vessel congestion, or other hazardous circumstances by—
 
@@ -24,7 +24,7 @@ Subject to the requirements of section 1224 of this title, the Secretary—
 
 #### (b) Special powers
 
-The Secretary may order any vessel, in a port or place subject to the jurisdiction of the United States or in the navigable waters of the United States, to operate or anchor in a manner he directs if—
+The Secretary may order any vessel, in a port or place subject to the jurisdiction of the UnitedStates or in the navigable waters of the United States, to operate or anchor in a manner he directs if—
 
 &emsp;(1) he has reasonable cause to believe such vessel does not comply with any regulation issued under this chapter or any other applicable law or treaty;
 
@@ -66,7 +66,7 @@ Except pursuant to international treaty, convention, or agreement, to which the 
 
 &emsp;(2) transit through the navigable waters of the United States which form a part of an international strait.
 
-(Pub. L. 92–340, §4, formerly title I, §103, July 10, 1972, 86 Stat. 426; renumbered and amended Pub. L. 95–474, §2, Oct. 17, 1978, 92 Stat. 1472; Pub. L. 101–380, title IV, §4107(a), Aug. 18, 1990, 104 Stat. 514.)
+(Pub. L. 92–340, §4, formerly title I, §103, July 10, 1972, 86 Stat. 426; renumbered and amended Pub. L. 95–474, §2, Oct. 17, 1978, 92 Stat. 1472; Pub. L.101–380, title IV, §4107(a), Aug. 18, 1990, 104 Stat. 514; Pub. L. 104–324, title VII, §705, Oct. 19, 1996, 110 Stat. 3934.)
 
 #### References in Text
 
@@ -75,6 +75,8 @@ The date of enactment of this Act, referred to in subsec. (c)(3)(A), probably me
 For the International Regulations for Preventing Collisions at Sea, 1972, referred to in subsec. (c)(5)(A), see International Regulations for Preventing Collisions at Sea, 1972, set out as a note under section 1602 of this title.
 
 #### Amendments
+
+1996—Subsec. (a)(3). Pub. L. 104–324 inserted “as measured under section 14502 of title 46, or an alternate tonnage measured under section 14302 of that title as prescribed by the Secretary under section 14104 of that title” after “300 gross tons”.
 
 1990—Subsec. (a). Pub. L. 101–380, §4107(a)(1), substituted “Secretary—” for “Secretary may—”.
 

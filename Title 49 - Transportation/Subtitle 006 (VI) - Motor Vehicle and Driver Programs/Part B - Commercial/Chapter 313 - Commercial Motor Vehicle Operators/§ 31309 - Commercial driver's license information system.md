@@ -48,7 +48,9 @@ Fee System.—If the Secretary establishes an information system under this sect
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

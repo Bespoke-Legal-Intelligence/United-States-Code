@@ -56,7 +56,7 @@ Subsecs. (a), (b). Pub. L. 99–433, §522(d)(1), substituted subsecs. (a) and (
 
 “(a) The Vice Chief of Staff and the Deputy Chiefs of Staff shall be general officers detailed to those positions.
 
-“(b) If the Chief of Staff is absent or disabled or if that office is vacant, the officer who is highest on thefollowing list and who is not absent or disabled shall, unless otherwise directed by the President, perform the duties of the Chief of Staff until a successor is appointed or the absence or disability ceases:
+“(b) If the Chief of Staff is absent or disabled or if that office is vacant, the officer who is highest on the following list and who is not absent or disabled shall, unless otherwise directed by the President, perform the duties of the Chief of Staff until a successor is appointed or the absence or disability ceases:
 
 &emsp;“(1) The Vice Chief of Staff.
 

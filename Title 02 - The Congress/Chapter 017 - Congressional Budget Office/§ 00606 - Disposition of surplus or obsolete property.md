@@ -1,8 +1,10 @@
 ### §606. Disposition of surplus or obsolete property
 
-The Director of the Congressional Budget Office shall have the authority, within the limits of available appropriations, to dispose of surplus or obsolete personal property by inter-agency transfer, donation, or discarding.
+(a) The Director of the Congressional Budget Office shall have the authority, within the limits of available appropriations, to dispose of surplus or obsolete personal property by inter-agency transfer, donation, or discarding.
 
-(Pub. L. 104–53, title I, Nov. 19, 1995, 109 Stat. 527.)
+(b) Subsection (a) of this section shall apply with respect to fiscal years beginning after September 30, 1996.
+
+(Pub. L. 104–197, title I, §105, Sept. 16, 1996, 110 Stat. 2404.)
 
 #### Codification
 
@@ -11,6 +13,8 @@ Section was enacted as part of the appropriation act cited as the credit to this
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in the following prior appropriation acts:
+
+Pub. L. 104–53, title I, Nov. 19, 1995, 109 Stat. 527.
 
 Pub. L. 103–283, title I, July 22, 1994, 108 Stat. 1433.
 

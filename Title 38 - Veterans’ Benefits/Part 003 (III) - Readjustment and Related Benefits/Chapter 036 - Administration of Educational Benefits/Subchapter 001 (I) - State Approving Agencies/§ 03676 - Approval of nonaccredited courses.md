@@ -36,7 +36,7 @@
 
 &emsp;(3) Educational and experience qualifications of directors, administrators, and instructors are adequate.
 
-&emsp;(4) The institution maintains a written record of the previous education and training of the eligible person and clearly indicates that appropriate credit has been given by the institution for previous education and training, with the training period shortened proportionately and the eligible person and the Secretary so notified.
+&emsp;(4) The institution maintains a written record of the previous education and training of the eligible person and clearly indicatesthat appropriate credit has been given by the institution for previous education and training, with the training period shortened proportionately and the eligible person and the Secretary so notified.
 
 &emsp;(5) A copy of the course outline, schedule of tuition, fees, and other charges, regulations pertaining to absence, grading policy, and rules of operation and conduct will be furnished the eligible person upon enrollment.
 

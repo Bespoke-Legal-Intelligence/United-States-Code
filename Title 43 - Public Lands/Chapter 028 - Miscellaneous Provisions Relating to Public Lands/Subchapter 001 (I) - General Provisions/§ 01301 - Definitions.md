@@ -18,7 +18,7 @@ When used in this subchapter and subchapter II of this chapter—
 
 (e) The term “natural resources” includes, without limiting the generality thereof, oil, gas, and all other minerals, and fish, shrimp, oysters, clams, crabs, lobsters, sponges, kelp, and other marine animal and plant life but does not include water power, or the use of water for the production of power;
 
-(f) The term “lands beneath navigable waters” does not include the beds of streams in lands now or heretofore constituting a part of the public lands of the United States if such streams were not meandered in connection with the public survey of such lands under the laws of the United States and if the title to the beds of such streams was lawfully patented or conveyed by the United States or any State to any person;
+(f) The term “lands beneath navigable waters” does not include the beds of streams in lands now or heretofore constituting a part of the public lands of the United States if such streams were not meandered in connection with the public survey of such lands under the laws of the United States and if the title to the beds of suchstreams was lawfully patented or conveyed by the United States or any State to any person;
 
 (g) The term “State” means any State of the Union;
 
@@ -66,5 +66,5 @@ Applicability of this chapter to the State of Hawaii, see section 5(i) of Pub. L
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1302, 1331, 1340, 2102 of this title; title 15 section 1171; title 28 section 2409a; title 33 section 2701.
+This section is referred to in sections 1302, 1331, 1340, 2102 of this title; title 15 section 1171; title 28 section 2409a; title 33 sections 2701, 2716.
 

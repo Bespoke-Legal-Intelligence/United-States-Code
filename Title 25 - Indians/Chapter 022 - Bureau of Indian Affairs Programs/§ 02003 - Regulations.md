@@ -10,7 +10,7 @@ The provisions of parts 31, 33, 36, 39, 42, and 43 of title 25 of the Code of Fe
 
 #### (c) Regulations prescribed after June 30, 1989
 
-After June 30, 1989, no regulation prescribed for the application of any program providedunder this chapter shall become effective unless—
+After June 30, 1989, no regulation prescribed for the application of any program provided under this chapter shall become effective unless—
 
 &emsp;(1) the regulation has been published as a proposed regulation in the Federal Register,
 

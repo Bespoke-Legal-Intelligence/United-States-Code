@@ -14,7 +14,7 @@ In issuing a permit for artificial reefs under section 403 of this title, sectio
 
 #### (b) Terms and conditions of permits
 
-(1) Each permit issued by the Secretary subject to this section shall specify the design and location for construction of the artificial reef and the types and quantities of materials that may be used in constructing such artificial reef. In addition, each such permit shall specify such terms and conditions for the construction, operation, maintenance, monitoring, and managing the use of the artificial reef as are necessary for compliance with all applicable provisions of law and as are necessary to ensure the protection of the environment and human safety and property.
+(1) Each permit issued by the Secretary subject to this section shall specify the design and location for construction of the artificial reef and the types and quantities of materials that may be used in constructing such artificial reef. In addition, each such permit shall specify such terms and conditions for the construction, operation, maintenance, monitoring, and managing the use of the artificial reef as are necessary forcompliance with all applicable provisions of law and as are necessary to ensure the protection of the environment and human safety and property.
 
 (2) Before issuing a permit under section 1342 of this title for any activity relating to the siting, design, construction, operation, maintenance, monitoring, or managing of an artificial reef, the Administrator of the Environmental Protection Agency shall consult with the Secretary to ensure that such permit is consistent with any permit issued by the Secretary subject to this section.
 
@@ -26,7 +26,7 @@ In issuing a permit for artificial reefs under section 403 of this title, sectio
 
 (3) The Secretary may not issue a permit subject to this section to a person unless that person demonstrates to the Secretary the financial ability to assume liability for all damages that may arise with respect to an artificial reef and for which such permittee may be liable.
 
-(4) Any person who has transferred title to artificial reef construction materials to a person to whom a permit is issued in accordance withsubsection (a) of this section shall not be liable for damages arising from the use of such materials in an artificial reef, if such materials meet applicable requirements of the plan published under section 2103 of this title and are not otherwise defective at the time title is transferred.
+(4) Any person who has transferred title to artificial reef construction materials to a person to whom a permit is issued in accordance with subsection (a) of this section shall not be liable for damages arising from the use of such materials in an artificial reef, if such materials meet applicable requirements of the plan published under section 2103 of this title and are not otherwise defective at the time title is transferred.
 
 #### (d) Liability of the United States
 

@@ -14,7 +14,7 @@ Landowners shall be eligible for cost sharing under this program if they own one
 
 #### (d) Administration
 
-The Secretary shall administer this section in accordance with regulations the Secretary shall develop in consultation with the committee described in section 2109(c) of this title. Regulations issued under title X of the Agricultural Act of 1970 \[16 U.S.C. 1501 et seq.\], as added by the Agriculture and Consumer Protection Act of 1973, to the extent not inconsistent with the provisions of this section, shall remain in effect until revoked or amended by regulations issued under this subsection. The regulations issued under this subsection shall include guidelines for the administration of this section at the Federal and State levels, and shall identify the measures and activities eligible for cost sharing under this section.
+The Secretary shall administer this section in accordance with regulations the Secretary shall develop in consultation with the committee described in section 2109(c) of this title. Regulations issued under title X of the Agricultural Act of 1970, as in effect before the amendment made by section 336(d)(1) of the Federal Agriculture Improvement and Reform Act of 1996, to the extent not inconsistent with the provisions of this section, shall remain in effect until revoked or amended by regulations issued under this subsection. The regulations issued under this subsection shall include guidelines for the administration of this section at the Federal and State levels, and shall identify the measures and activities eligible for cost sharing under this section.
 
 #### (e) Individual forest management plans as basis for agreements between landowners and Secretary; preparation of plans
 
@@ -22,7 +22,7 @@ Individual forest management plans developed by the landowner in cooperation wit
 
 #### (f) Cost sharing for implementation of appropriate forestry practices and measures set forth in agreement; apportionment; maximum amount
 
-In return for the agreement by the landowner, the Secretary shall agree to share the cost of implementing those forestry practices and measures set forth in the agreement for which the Secretary determines that cost sharing is appropriate. The portion of such cost (including labor) to be shared shall be that portion that the Secretary determines is necessary and appropriate to implement the forestry practices and measures under the agreement, but not more than 75 percent of the actual costs incurred by the landowner. The maximum amount any individual may receive annually under the program authorized by this section shall be determined by the Secretary in consultation with the committee described in section 2109(c) of this title.
+In return for the agreement by the landowner, the Secretary shall agree to share the cost of implementing those forestry practices and measures set forth in the agreement for which the Secretary determines that cost sharing is appropriate. The portion of such cost (including labor) to be shared shall be that portion that the Secretary determines is necessary and appropriate to implement the forestry practices and measures under the agreement, but not more than 75 percent of the actual costs incurred by the landowner. The maximum amount any individual may receive annually under the programauthorized by this section shall be determined by the Secretary in consultation with the committee described in section 2109(c) of this title.
 
 #### (g) Prerequisites for distribution of funds available for cost sharing
 
@@ -34,23 +34,25 @@ The Secretary may, if the Secretary determines that doing so will contribute to 
 
 #### (i) Applicability of other Federal authorities in implementation of provisions
 
-In implementing this section, the Secretary may use the authorities provided in sections 1001, 1002, 1003, 1004, and 1008 of the AgriculturalAct of 1970 \[16 U.S.C. 1501, 1502, 1503, 1504, and 1508\], as added by the Agriculture and Consumer Protection Act of 1973.
+In implementing this section, the Secretary may use the authorities provided in sections 1001, 1002, 1003, 1004, and 1008 of the Agricultural Act of 1970, as in effect before the amendment made by section 336(d)(1) of the Federal Agriculture Improvement and Reform Act of 1996.
 
 #### (j) Authorization of appropriations
 
-There are hereby authorized to be appropriated annually such sums as may be needed to implement this section, including funds necessary for technical assistance and expenses associated therewith.
+There are hereby authorized to be appropriated for each of fiscal years 1996 through 2002 such sums as may be needed to implement this section, including funds necessary for technical assistance and expenses associated therewith.
 
-#### (k) Termination of program
-
-The program developed by the Secretary under this section shall terminate on December 31, 1995.
-
-(Pub. L. 95–313, §4, July 1, 1978, 92 Stat. 367; Pub. L. 101–624, title XII, §§1214, 1224(1), Nov. 28, 1990, 104 Stat. 3525, 3542.)
+(Pub. L. 95–313, §4, July 1, 1978, 92 Stat. 367; Pub. L. 101–624, title XII, §§1214, 1224(1), Nov. 28, 1990, 104 Stat. 3525, 3542; Pub. L. 104–127, title III, §§336(a)(2)(B), 373, Apr. 4, 1996, 110 Stat. 1005, 1015.)
 
 #### References in Text
 
-The Agricultural Act of 1970, referred to in subsec. (d), is Pub. L. 91–524, Nov. 30, 1970, 84 Stat. 1358, as amended. Title X of the Agricultural Act of 1970 as added by the Agriculture and Consumer Protection Act of 1973 is classified generally to chapter 34 (§1501 et seq.) of this title. For complete classification of this Act to the Code see Short Title of 1970 Amendment note set out under section 1281 of Title 7, Agriculture, and Tables.
+The Agricultural Act of 1970, referred to in subsecs. (d) and (i), is Pub. L. 91–524, Nov. 30, 1970, 84 Stat. 1358, as amended. Title X of the Act (§§1001–1008, 1010) was classified generally to chapter 34 (§1501 et seq.) of this title prior to repeal by section 336(d)(1) of the Federal Agriculture Improvement and Reform Act of 1996, Pub. L. 104–127, title III, Apr. 4, 1996, 110 Stat. 1006. For complete classification of this Act to the Code see Short Title of 1970 Amendment note set out under section 1281 of Title 7, Agriculture, and Tables.
 
 #### Amendments
+
+1996—Subsecs. (d), (i). Pub. L. 104–127, §336(a)(2)(B), substituted “as in effect before the amendment made by section 336(d)(1) of the Federal Agriculture Improvement and Reform Act of 1996” for “as added by the Agriculture and Consumer Protection Act of 1973”.
+
+Subsec. (j). Pub. L. 104–127, §373(1), substituted “for each of fiscal years 1996 through 2002” for “annually”.
+
+Subsec. (k). Pub. L. 104–127, §373(2), struck out subsec. (k) which read as follows: “The program developed by the Secretary under this section shall terminate on December 31, 1995.”
 
 1990—Subsecs. (d), (f). Pub. L. 101–624, §1224(1), made technical amendment to references to section 2109(c) of this title to reflect renumbering of corresponding section of original act.
 

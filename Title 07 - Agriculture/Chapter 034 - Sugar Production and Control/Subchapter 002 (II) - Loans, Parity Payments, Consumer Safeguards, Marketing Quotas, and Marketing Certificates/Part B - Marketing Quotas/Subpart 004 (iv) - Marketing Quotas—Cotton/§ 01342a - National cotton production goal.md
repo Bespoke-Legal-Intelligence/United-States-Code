@@ -12,3 +12,7 @@ The Secretary shall, not later than November 15, of the calendar years 1970 thro
 
 Section 601 of Pub. L. 91–524 provided that this section is effective beginning with the 1971 crop of upland cotton.
 
+#### Inapplicability of Section
+
+Section inapplicable to 1996 through 2002 crops of loan commodities, peanuts, and sugar and inapplicable to milk during period beginning Apr. 4, 1996, and ending Dec. 31, 2002, see section 7301(a)(1)(A) of this title.
+

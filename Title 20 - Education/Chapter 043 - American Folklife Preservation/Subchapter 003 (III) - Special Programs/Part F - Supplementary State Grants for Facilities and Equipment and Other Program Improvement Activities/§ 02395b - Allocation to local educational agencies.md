@@ -12,7 +12,7 @@ In each fiscal year for which a State receives a grant under this part, each eli
 
 #### References in Text
 
-Section 2712 of this title, referred to in subsec. (b), was in the original “section 1006 of the Elementary and Secondary Education Act of 1965”, Pub. L. 89–10, and was omitted in the general amendment of that Act by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519.
+Section 2712 of this title, referred to in subsec. (b), was in the original “section 1006 of the Elementary and Secondary Education Act of 1965”, Pub. L. 89–10, andwas omitted in the general amendment of that Act by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519.
 
 #### Section Referred to in Other Sections
 

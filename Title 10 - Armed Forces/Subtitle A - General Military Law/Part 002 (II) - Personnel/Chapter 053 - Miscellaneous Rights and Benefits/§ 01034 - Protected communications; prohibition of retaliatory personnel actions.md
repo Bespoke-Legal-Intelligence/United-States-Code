@@ -42,11 +42,11 @@ Inspector General Investigation of Underlying Allegations.—Upon receiving an a
 
 (e)
 
-Reports on Investigations.—(1) Not later than 30 days after completion of an investigation under subsection (c) or (d), the Inspector General shall submit a report on the results of the investigation to the Secretary of Defense (or to the Secretary of Transportation in the case of a member of the Coast Guard when the Coast Guard is not operating as a service in the Navy) and the member of the armed forces who made the allegation investigated.
+Reports on Investigations.—(1) Not later than 30 days after completion of an investigation under subsection (c) or (d), the Inspector General shall submit a report on the results of the investigation to the Secretary of Defense (or to the Secretary of Transportation in the case ofa member of the Coast Guard when the Coast Guard is not operating as a service in the Navy) and the member of the armed forces who made the allegation investigated.
 
 (2) In the copy of the report submitted to the member, the Inspector General shall ensure the maximum disclosure of information possible, with the exception of information that is not required to be disclosed under section 552 of title 5.
 
-(3) If, in the course of an investigation of an allegation under this section, the Inspector General determines that it is not possible to submit the report required by paragraph (1) within 90days after the date of receipt of the allegation being investigated, the Inspector General shall provide to the Secretary of Defense (or to the Secretary of Transportation in the case of a member of the Coast Guard when the Coast Guard is not operating as a service in the Navy) and to the member making the allegation a notice—
+(3) If, in the course of an investigation of an allegation under this section, the Inspector General determines that it is not possible to submit the report required by paragraph (1) within 90 days after the date of receipt of the allegation being investigated, the Inspector General shall provide to the Secretary of Defense (or to the Secretary of Transportation in the case of a member of the Coast Guard when the Coast Guard is not operating as a service in the Navy) and to the member making the allegation a notice—
 
 &emsp;(A) of that determination (including the reasons why the report may not be submitted within that time); and
 
@@ -200,7 +200,7 @@ Deadline for Regulations.—The Secretary of Defense and the Secretary of Transp
 
 “(i)
 
-Content of Regulations.—In prescribing regulations under section 1034 of title 10, United States Code, as amended by this section, the Secretary of Defense and the Secretary of Transportation shall provide forappropriate procedural protections for the subject of any investigation carried out under the provisions of that section, including a process for appeal and review of investigative findings.”
+Content of Regulations.—In prescribing regulations under section 1034 of title 10, United States Code, as amended by this section, the Secretary of Defense and the Secretary of Transportation shall provide for appropriate procedural protections for the subject of any investigation carried out under the provisions of that section, including a process for appeal and review of investigative findings.”
 
 Section 846(b) of Pub. L. 100–456 provided that: “The Secretary of Defense and the Secretary of Transportation shall prescribe the regulations required by subsection (g) \[now (i)\] of section 1034 of title 10, United States Code, as amended by subsection (a), not later than 180 days after the date of the enactment of this Act \[Sept. 29, 1988\].”
 

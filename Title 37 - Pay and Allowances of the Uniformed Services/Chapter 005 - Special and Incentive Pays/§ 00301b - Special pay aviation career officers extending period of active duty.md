@@ -2,7 +2,7 @@
 
 (a)
 
-Bonus Authorized.—An aviation officer described in subsection (b) who, during the period beginning on January 1, 1989, and ending on September 30, 1995, executes a written agreement to remain on active duty in aviation service for at least one year may, upon the acceptance of the agreement by the Secretary concerned, be paid a retention bonus as provided in this section.
+Bonus Authorized.—An aviation officer described in subsection (b) who, during the period beginning on January 1, 1989, and ending on September 30, 1998, executes a written agreement to remain on active duty in aviation service for at least one year may, upon the acceptance of the agreement by the Secretary concerned, be paid a retention bonus as provided in this section.
 
 (b)
 
@@ -62,7 +62,7 @@ Reports.—(1) Not later than February 15 of each year, the Secretaries concerne
 
 &emsp;(C) an examination of the desirability of targeting the retention bonus program toward officers in a critical aviation specialty rather than on the basis of experience or other criteria.
 
-(2) Not later than March 15 of each year, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives copies of the reports submitted to the Secretary under paragraph (1)with regard to the preceding fiscal year, together with such comments and recommendations as the Secretary considers appropriate.
+(2) Not later than March 15 of each year, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives copies of the reports submitted to the Secretary under paragraph (1) with regard to the preceding fiscal year, together with such comments and recommendations as the Secretary considers appropriate.
 
 (j)
 
@@ -76,9 +76,15 @@ Definitions.—In this section:
 
 &emsp;(4) The term “operational flying duty” has the meaning given such term in section 301a(a)(6)(A) of this title.
 
-(Added Pub. L. 96–342, title VIII, §806(a)(i), Sept. 8, 1980, 94 Stat. 1095; amended Pub. L. 97–60, title I, §113, Oct. 14, 1981, 95 Stat. 995; Pub. L. 98–94, title IX, §904(a), Sept. 24, 1983, 97 Stat. 635; Pub. L. 98–525, title VI, §622(a), Oct. 19, 1984, 98 Stat. 2540; Pub. L. 99–145, title VI, §636, Nov. 8, 1985, 99 Stat. 648; Pub. L. 99–661, div. A, title VI, §631(a), Nov. 14, 1986, 100 Stat. 3883; Pub. L. 100–180, div. A, title VI, §622(a), Dec. 4, 1987, 101 Stat. 1100; Pub. L. 101–189, div. A, title VI, §632(a), Nov. 29, 1989, 103 Stat. 1451; Pub. L. 102–190, div. A, title VI, §612(a)(1), Dec. 5, 1991, 105 Stat. 1376; Pub. L. 102–484, div. A, title VI, §612(c), title X, §1054(a)(1), Oct. 23, 1992, 106 Stat. 2421, 2502; Pub. L. 103–160, div. A, title VI, §613(a), Nov. 30, 1993, 107 Stat. 1681; Pub. L. 103–337, div. A, title VI, §613(a), Oct. 5, 1994, 108 Stat. 2783.)
+(Added Pub. L. 96–342, title VIII, §806(a)(i), Sept. 8, 1980, 94 Stat. 1095; amended Pub. L. 97–60, title I, §113, Oct. 14, 1981, 95 Stat. 995; Pub. L. 98–94, title IX, §904(a), Sept. 24, 1983, 97 Stat. 635; Pub. L. 98–525, title VI, §622(a), Oct. 19, 1984, 98 Stat. 2540; Pub. L. 99–145, title VI, §636, Nov. 8, 1985, 99 Stat. 648; Pub. L. 99–661, div. A, title VI, §631(a), Nov. 14, 1986, 100 Stat. 3883; Pub. L. 100–180, div. A, title VI, §622(a), Dec. 4, 1987, 101 Stat. 1100; Pub. L. 101–189, div. A, title VI, §632(a), Nov. 29, 1989, 103 Stat. 1451; Pub. L. 102–190, div. A, title VI, §612(a)(1), Dec. 5, 1991, 105 Stat. 1376; Pub. L. 102–484, div. A, title VI, §612(c), title X,§1054(a)(1), Oct. 23, 1992, 106 Stat. 2421, 2502; Pub. L. 103–160, div. A, title VI, §613(a), Nov. 30, 1993, 107 Stat. 1681; Pub. L. 103–337, div. A, title VI, §613(a), Oct. 5, 1994, 108 Stat. 2783; Pub. L. 104–106, div. A, title VI, §613(a), title XV, §1502(b), Feb. 10, 1996, 110 Stat. 359, 506; Pub. L. 104–201, div. A, title VI, §613(a), Sept. 23, 1996, 110 Stat. 2544.)
 
 #### Amendments
+
+1996—Subsec. (a). Pub. L. 104–201 substituted “September 30, 1998,” for “September 30, 1997”.
+
+Pub. L. 104–106, §613(a), substituted “September 30, 1997” for “September 30, 1995,”.
+
+Subsec. (i)(2). Pub. L. 104–106, §1502(b), substituted “Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives” for “Committees on Armed Services of the Senate and House of Representatives”.
 
 1994—Subsec. (a). Pub. L. 103–337 substituted “September 30, 1995” for “September 30, 1994”.
 
@@ -130,10 +136,6 @@ Subsec. (f). Pub. L. 98–94, §904(a)(2), substituted “September 30, 1984” 
 
 1981—Subsecs. (e), (f). Pub. L. 97–60 added subsecs. (e) and (f).
 
-#### Change of Name
-
-Committee on Armed Services of House of Representatives treated as referred to Committee on National Security of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
-
 #### Effective Date of 1987 Amendment
 
 Section 622(b) of Pub. L. 100–180 provided that:
@@ -176,13 +178,21 @@ Section 632(c) of Pub. L. 101–189 provided that:
 
 #### Coverage of Period of Lapsed Authority
 
+Section 613(i) of Pub. L. 104–106 provided that:
+
+“(1) In the case of an officer described in section 301b(b) of title 37, United States Code, who executes an agreement described in paragraph (2) during the 90-day period beginning on the date of the enactment of this Act \[Feb. 10, 1996\], the Secretary concerned may treat the agreement for purposes of the retention bonus authorized under the agreement as having been executed and accepted on the first date on which the officer would have qualified for such an agreement had the amendment made by subsection (a) \[amending this section\] taken effect on October 1, 1995.
+
+“(2) An agreement referred to in this subsection is a service agreement with the Secretary concerned that is a condition for the payment of a retention bonus under section 301b of title 37, United States Code.
+
+“(3) For purposes of this subsection, the term ‘Secretary concerned’ has the meaning given that term in section 101(5) of title 37, United States Code.”
+
 Section 613(i) of Pub. L. 103–160 provided that:
 
 “(1) In the case of an officer described in paragraph (2) who executes an agreement described in paragraph (3) during the 90-day period beginning on the date of the enactment of this Act \[Nov. 30, 1993\], the Secretary concerned may treat the agreement for purposes of the retention bonus or special pay authorized under the agreement as having been executed and accepted on the first date on which the officer would have qualified for such an agreement had the amendments made by subsections (a) and (g) \[amending this section and provisions set out as a note under section 302 of this title\] taken effect on October 1, 1993.
 
-“(2) An officer referred to in paragraph (1) is an officer described in section 301b(b) of title 37, United States Code, or in section 613(a)(2) of the National Defense Authorization Act, Fiscal Year 1989 \[Pub. L. 100–456\] (37 U.S.C. 302 note), who, during the period beginning on October 1, 1993, and ending on the date of the enactment of this Act, would have qualified for an agreement described in paragraph (3) had the amendments made by subsections (a) and (g) taken effect on October 1, 1993.
+“(2) An officer referred to in paragraph (1) is an officer described in section 301b(b) of title 37, United States Code, or in section 613(a)(2) of the National Defense Authorization Act, Fiscal Year 1989 \[Pub. L. 100–456\] (\[former\] 37 U.S.C. 302 note), who, during the period beginning on October 1, 1993, and ending on the date of the enactment of this Act, would have qualified for an agreement described in paragraph (3) had the amendments made by subsections (a) and (g) taken effect on October 1, 1993.
 
-“(3) An agreement referred to in this subsection is a service agreement with the Secretary concerned that is a condition for the payment of a retention bonus under section 301b of title 37, United States Code, or special pay under section 613 of the National Defense Authorization Act, Fiscal Year 1989 (37 U.S.C. 302 note).
+“(3) An agreement referred to in this subsection is a service agreement with the Secretary concerned that is a condition for the payment of a retention bonus under section 301b of title 37, United States Code, or special pay under section 613 of the National Defense Authorization Act, Fiscal Year 1989 (\[former\] 37 U.S.C. 302 note).
 
 “(4) For purposes of this subsection, the term ‘Secretary concerned’ has the meaning given that term in section 101(5) of title 37, United States Code.”
 
@@ -208,7 +218,7 @@ Section 632(d) of Pub. L. 101–189 provided that:
 
 “(1) In the case of an aviation officer described in paragraph (2) who executes an agreement under section 301b of title 37, United States Code, during the 90-day period beginning on the date of the enactment of this Act \[Nov. 29, 1989\], the Secretary concerned may deem such agreement to have been executed and accepted for purposes of such section on the first date on which the officer would have qualified for such an agreement had the amendment made by subsection (a) \[amending this section\] taken effect on October 1, 1989.
 
-“(2) An aviation officer referred to in paragraph (1) is an officer who, during the period beginning on October 1, 1989, and ending on the date of the enactment of this Act, would have qualified for an agreement under such section had the amendment made by subsection (a) taken effect on October 1, 1989.
+“(2) An aviation officer referred to in paragraph (1) is an officer who, during the period beginning on October1, 1989, and ending on the date of the enactment of this Act, would have qualified for an agreement under such section had the amendment made by subsection (a) taken effect on October 1, 1989.
 
 “(3) For purposes of this subsection, the term ‘Secretary concerned’ has the meaning given that term by section 101(5) of title 37, United States Code.”
 

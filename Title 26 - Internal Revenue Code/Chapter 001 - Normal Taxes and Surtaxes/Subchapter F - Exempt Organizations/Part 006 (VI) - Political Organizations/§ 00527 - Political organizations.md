@@ -156,7 +156,7 @@ For purposes of this section—
 
 > &emsp;&emsp;Nothing in this subsection shall be construed to require any designation where there is only one political committee with respect to a candidate.
 
-(Added Pub. L. 93–625, §10(a), Jan. 3, 1975, 88 Stat. 2116; amended Pub. L. 94–455, title XIX, §1901(b)(33)(C), Oct. 4, 1976, 90 Stat. 1801; Pub. L. 95–502, title III, §302(a), Oct. 21, 1978, 92 Stat. 1702; Pub. L. 95–600, title III, §301(b)(6), Nov. 6, 1978, 92 Stat. 2821; Pub. L. 97–34, title I, §128(a), Aug. 13, 1981, 95 Stat. 203; Pub. L. 98–369, div. A, title IV, §474(r)(16), title VII, §722(c), July 18, 1984, 98 Stat. 843, 973; Pub. L. 99–514, title I, §112(b)(1), Oct. 22, 1986, 100 Stat. 2108; Pub. L. 100–647, title I, §1001(b)(3)(B), Nov. 10, 1988, 102 Stat. 3349.)
+(Added Pub. L. 93–625, §10(a), Jan. 3, 1975, 88 Stat. 2116; amended Pub. L. 94–455, title XIX, §1901(b)(33)(C), Oct. 4, 1976, 90 Stat. 1801; Pub. L.95–502, title III, §302(a), Oct. 21, 1978, 92 Stat. 1702; Pub. L. 95–600, title III, §301(b)(6), Nov. 6, 1978, 92 Stat. 2821; Pub. L. 97–34, title I, §128(a), Aug. 13, 1981, 95 Stat. 203; Pub. L. 98–369, div. A, title IV, §474(r)(16), title VII, §722(c), July 18, 1984, 98 Stat. 843, 973; Pub. L. 99–514, title I, §112(b)(1), Oct. 22, 1986, 100 Stat. 2108; Pub. L. 100–647, title I, §1001(b)(3)(B), Nov. 10, 1988, 102 Stat. 3349.)
 
 #### References in Text
 
@@ -202,7 +202,7 @@ Section 128(b) of Pub. L. 97–34 provided that: “The amendments made by this 
 
 #### Effective Date of 1978 Amendment
 
-Amendment by section 301(b)(6) of Pub. L. 95–600 applicable to taxable years beginning after Dec. 31, 1978,see section 301(c) of Pub. L. 95–600, set out as a note under section 11 of this title.
+Amendment by section 301(b)(6) of Pub. L. 95–600 applicable to taxable years beginning after Dec. 31, 1978, see section 301(c) of Pub. L. 95–600, set out as a note under section 11 of this title.
 
 #### Effective Date of 1978 Amendment; Election Campaign Contributions; Collateral
 

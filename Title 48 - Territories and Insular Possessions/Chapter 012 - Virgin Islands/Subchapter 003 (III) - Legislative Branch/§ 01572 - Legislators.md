@@ -6,7 +6,7 @@ The term of office of each member of the legislature shall be two years. The ter
 
 #### (b) Qualifications of members
 
-No person shall be eligible to be a member of the legislature who is not a citizen of the United States, who has not attained the age of twenty-one years, who is not a qualified voter in the Virgin Islands, who has not been a bona fide resident of the Virgin Islands for at least three years next preceding the date of his election, or who has been convicted of a felony or of a crime involving moral turpitude and has not received a pardon restoring his civil rights. Federal employees and persons employed in the legislative, executive or judicial branches of the government of the Virgin Islands shall not be eligible for membership in the legislature.
+No person shall be eligible to be a member of the legislature who is not a citizen of the UnitedStates, who has not attained the age of twenty-one years, who is not a qualified voter in the Virgin Islands, who has not been a bona fide resident of the Virgin Islands for at least three years next preceding the date of his election, or who has been convicted of a felony or of a crime involving moral turpitude and has not received a pardon restoring his civil rights. Federal employees and persons employed in the legislative, executive or judicial branches of the government of the Virgin Islands shall not be eligible for membership in the legislature.
 
 #### (c) Appointment of electoral officers; popular election of members of boards of election
 
@@ -14,7 +14,7 @@ All officers and employees charged with the duty of directing the administration
 
 #### (d) Immunity of members
 
-No member of the legislature shall be held to answer before any tribunal other than the legislature for any speech or debate in the legislature and the members shall in all cases, excepttreason, felony, or breach of the peace, be privileged from arrest during their attendance at the sessions of the legislature and in going to and returning from the same.
+No member of the legislature shall be held to answer before any tribunal other than the legislature for any speech or debate in the legislature and the members shall in all cases, except treason, felony, or breach of the peace, be privileged from arrest during their attendance at the sessions of the legislature and in going to and returning from the same.
 
 #### (e) Compensation and allowances
 

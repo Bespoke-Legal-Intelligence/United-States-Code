@@ -32,7 +32,7 @@ The unit of power shall be the watt, which is equal to ten million units of powe
 
 #### Energy—joule; kilowatt—hour
 
-The units of energy shall be (a) the joule, which is equivalent to the energy supplied by a power of one watt operating for one second, and\(b) the kilowatt-hour, which is equivalent to the energy supplied by a power of one thousand watts operating for one hour.
+The units of energy shall be (a) the joule, which is equivalent to the energy supplied by a power of one watt operating for one second, and (b) the kilowatt-hour, which is equivalent to the energy supplied by a power of one thousand watts operating for one hour.
 
 #### Intensity of light—candela
 

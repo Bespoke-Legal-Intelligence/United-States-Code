@@ -2,237 +2,279 @@
 
 #### (a) Development and operation grants
 
-The Secretary, acting through the Center, shall make grants to the States, based on the population of children under the age of 18 in each State that applies for a grant under this section, for purposes of assisting the States in improving the child protective service system of each such State in—
+The Secretary shall make grants to the States, based on the population of children under the age of 18 in each State that applies for a grant under this section, for purposes of assisting the States in improving the child protective services system of each such State in—
 
-&emsp;(1) the intake and screening of reports of abuse and neglect through the improvement of the receipt of information, decisionmaking, public awareness, and training of staff;
+&emsp;(1) the intake, assessment, screening, and investigation of reports of abuse and neglect;
 
-&emsp;(2)(A) investigating such reports through improving response time, decisionmaking, referral to services, and training of staff;
+&emsp;(2)(A) creating and improving the use of multidisciplinary teams and interagency protocols to enhance investigations; and
 
-&emsp;(B) creating and improving the use of multidisciplinary teams and interagency protocols to enhance investigations; and
+&emsp;(B) improving legal preparation and representation, including—
 
-&emsp;(C) improving legal preparation and representation;
+&emsp;&emsp;(i) procedures for appealing and responding to appeals of substantiated reports of abuse and neglect; and
 
-&emsp;(3) case management and delivery services provided to families through the improvement of response time in service provision, improving the training of staff, and increasing the numbers of families to be served;
+&emsp;&emsp;(ii) provisions for the appointment of an individual appointed to represent a child in judicial proceedings;
 
-&emsp;(4) enhancing the general child protective system by improving assessment tools, automation systems that support the program, information referral systems, and the overall training of staff to meet minimum competencies; or
+&emsp;(3) case management and delivery of services provided to children and their families;
 
-&emsp;(5) developing, strengthening, and carrying out child abuse and neglect prevention, treatment, and research programs.
+&emsp;(4) enhancing the general child protective system by improving risk and safety assessment tools and protocols, automation systems that support the program and track reports of child abuse and neglect from intake through final disposition and information referral systems;
 
-> Not more than 15 percent of a grant under this subsection may be expended for carrying out paragraph (5). The preceding sentence does not apply to any program or activity authorized in any of paragraphs (1) through (4).
+&emsp;(5) developing, strengthening, and facilitating training opportunities and requirements for individuals overseeing and providing services to children and their families through the child protection system;
+
+&emsp;(6) developing and facilitating training protocols for individuals mandated to report child abuse or neglect;
+
+&emsp;(7) developing, strengthening, and supporting child abuse and neglect prevention, treatment, and research programs in the public and private sectors;
+
+&emsp;(8) developing, implementing, or operating—
+
+&emsp;&emsp;(A) information and education programs or training programs designed to improve the provision of services to disabled infants with life-threatening conditions for—
+
+&emsp;&emsp;&emsp;(i) professional and paraprofessional personnel concerned with the welfare of disabled infants with life-threatening conditions, including personnel employed in child protective services programs and health-care facilities; and
+
+&emsp;&emsp;&emsp;(ii) the parents of such infants; and
+
+&emsp;&emsp;(B) programs to assist in obtaining or coordinating necessary services for families of disabled infants with life-threatening conditions, including—
+
+&emsp;&emsp;&emsp;(i) existing social and health services;
+
+&emsp;&emsp;&emsp;(ii) financial assistance; and
+
+&emsp;&emsp;&emsp;(iii) services necessary to facilitate adoptive placement of any such infants who have been relinquished for adoption; or
+
+&emsp;(9) developing and enhancing the capacity of community-based programs to integrate shared leadership strategies between parents and professionals to prevent and treat child abuse and neglect at the neighborhood level.
 
 #### (b) Eligibility requirements
 
-In order for a State to qualify for a grant under subsection (a) of this section, such State shall—
+#### (1) State plan
 
-&emsp;(1) have in effect a State law relating to child abuse and neglect, including—
+#### (A) In general
 
-&emsp;&emsp;(A) provisions for the reporting of known and suspected instances of child abuse and neglect; and
+&emsp;&emsp;To be eligible to receive a grant under this section, a State shall, at the time of the initial grant application and every 5 years thereafter, prepare and submit to the Secretary a State plan that specifies the areas of the child protective services system described in subsection (a) of this section that the State intends to address with amounts received under the grant.
 
-&emsp;&emsp;(B) provisions for immunity from prosecution under State and local laws for persons who report instances of child abuse or neglect for circumstances arising from such reporting;
+#### (B) Additional requirement
 
-&emsp;(2) provide that upon receipt of a report of known or suspected instances of child abuse or neglect an investigation shall be initiated promptly to substantiate the accuracy of the report, and, upon a finding of abuse or neglect, immediate steps shall be taken to protect the health and welfare of the abused or neglected child and of any other child under the same care who may be in danger of abuse or neglect;
+&emsp;&emsp;After the submission of the initial grant application under subparagraph (A), the State shall provide notice to the Secretary of any substantive changes to any State law relating to the prevention of child abuse and neglect that may affect the eligibility of the State under this section.
 
-&emsp;(3) demonstrate that there are in effect throughout the State, in connection with the enforcement of child abuse and neglect laws and with the reporting of suspected instances of child abuse and neglect, such—
+#### (2) Coordination
 
-&emsp;&emsp;(A) administrative procedures;
+&emsp;A State plan submitted under paragraph (1) shall, to the maximum extent practicable, be coordinated with the State plan under part B of title IV of the Social Security Act \[42 U.S.C. 620 et seq.\] relating to child welfare services and family preservation and family support services, and shall contain an outline of the activities that the State intends to carry out using amounts received under the grant to achieve the purposes of this subchapter, including—
 
-&emsp;&emsp;(B) personnel trained in child abuse and neglect prevention and treatment;
+&emsp;&emsp;(A) an assurance in the form of a certification by the chief executive officer of the State that the State has in effect and is enforcing a State law, or has in effect and is operating a Statewide program, relating to child abuse and neglect that includes—
 
-&emsp;&emsp;(C) training procedures;
+&emsp;&emsp;&emsp;(i) provisions or procedures for the reporting of known and suspected instances of child abuse and neglect;
 
-&emsp;&emsp;(D) institutional and other facilities (public and private); and
+&emsp;&emsp;&emsp;(ii) procedures for the immediate screening, safety assessment, and prompt investigation of such reports;
 
-&emsp;&emsp;(E) such related multidisciplinary programs and services,
+&emsp;&emsp;&emsp;(iii) procedures for immediate steps to be taken to ensure and protect the safety of the abused or neglected child and of any other child under the same care who may also be in danger of abuse or neglect and ensuring their placement in a safe environment;
 
-> &emsp;as may be necessary or appropriate to ensure that the State will deal effectively with child abuse and neglect cases in the State;
+&emsp;&emsp;&emsp;(iv) provisions for immunity from prosecution under State and local laws and regulations for individuals making good faith reports of suspected or known instances of child abuse or neglect;
 
-&emsp;(4) provide for—
+&emsp;&emsp;&emsp;(v) methods to preserve the confidentiality of all records in order to protect the rights of the child and of the child's parents or guardians, including requirements ensuring that reports and records made and maintained pursuant to the purposes of this subchapter and subchapter III of this chapter shall only be made available to—
 
-&emsp;&emsp;(A) methods to preserve the confidentiality of all records in order to protect the rights of the child and of the child's parents or guardians, including methods to ensure that disclosure (and redisclosure) of information concerning child abuse or neglect involving specific individuals is made only to persons or entities that the State determines have a need for such information directly related to purposes of this subchapter and subchapters III and V of this chapter; and
+&emsp;&emsp;&emsp;&emsp;(I) individuals who are the subject of the report;
 
-&emsp;&emsp;(B) requirements for the prompt disclosure of all relevant information to any Federal, State, or local governmental entity, or any agent of such entity, with a need for such information in order to carry out its responsibilities under law to protect children from abuse and neglect;
+&emsp;&emsp;&emsp;&emsp;(II) Federal, State, or local government entities, or any agent of such entities, having a need for such information in order to carry out its responsibilities under law to protect children from abuse and neglect;
 
-&emsp;(5) provide for the cooperation of law enforcement officials, courts of competent jurisdiction, and appropriate State agencies providing human services;
+&emsp;&emsp;&emsp;&emsp;(III) child abuse citizen review panels;
 
-&emsp;(6) provide that in every case involving an abused or neglected child which results in a judicial proceeding a guardian ad litem shall be appointed to represent the child in such proceedings;
+&emsp;&emsp;&emsp;&emsp;(IV) child fatality review panels;
 
-&emsp;(7) provide that the aggregate of support for programs or projects related to child abuse and neglect assisted by State funds shall not be reduced below the level provided during fiscal year 1973, and set forth policies and procedures designed to ensure that Federal funds made available under this subchapter and subchapters III and V of this chapter for any fiscal year shall be so used as to supplement and, to the extent practicable, increase the level of State funds which would, in the absence of Federal funds, be available for such programs and projects;
+&emsp;&emsp;&emsp;&emsp;(V) a grand jury or court, upon a finding that information in the record is necessary for the determination of an issue before the court or grand jury; and
 
-&emsp;(8) provide for dissemination of information, including efforts to encourage more accurate reporting, to the general public with respect to the problem of child abuse and neglect and the facilities and prevention and treatment methods available to combat instances of child abuse and neglect;
+&emsp;&emsp;&emsp;&emsp;(VI) other entities or classes of individuals statutorily authorized by the State to receive such information pursuant to a legitimate State purpose;
 
-&emsp;(9) to the extent feasible, ensure that parental organizations combating child abuse and neglect receive preferential treatment; and
+&emsp;&emsp;&emsp;(vi) provisions which allow for public disclosure of the findings or information about the case of child abuse or neglect which has resulted in a child fatality or near fatality;
 
-&emsp;(10) have in place for the purpose of responding to the reporting of medical neglect (including instances of withholding of medically indicated treatment from disabled infants with life-threatening conditions), procedures or programs, or both (within the State child protective services system), to provide for—
+&emsp;&emsp;&emsp;(vii) the cooperation of State law enforcement officials, court of competent jurisdiction, and appropriate State agencies providing human services in the investigation, assessment, prosecution, and treatment of child abuse or neglect;
 
-&emsp;&emsp;(A) coordination and consultation with individuals designated by and within appropriate health-care facilities;
+&emsp;&emsp;&emsp;(viii) provisions requiring, and procedures in place that facilitate the prompt expungement of any records that are accessible to the general public or are used for purposes of employment or other background checks in cases determined to be unsubstantiated or false, except that nothing in this section shall prevent State child protective services agencies from keeping information on unsubstantiated reports in their casework files to assist in future risk and safety assessment;
 
-&emsp;&emsp;(B) prompt notification by individuals designated by and within appropriate health-care facilities of cases of suspected medical neglect (including instances of withholding of medically indicated treatment from disabled infants with life-threatening conditions); and
+&emsp;&emsp;&emsp;(ix) provisions and procedures requiring that in every case involving an abused or neglected child which results in a judicial proceeding, a guardian ad litem, who may be an attorney or a court appointed special advocate (or both), shall be appointed to represent the child in such proceedings—
 
-&emsp;&emsp;(C) authority, under State law, for the State child protective service system to pursue any legal remedies, including the authority to initiate legal proceedings in a court of competent jurisdiction, as may be necessary to prevent the withholding of medically indicated treatment from disabled infants with life-threatening conditions.
+&emsp;&emsp;&emsp;&emsp;(I) to obtain first-hand, a clear understanding of the situation and needs of the child; and
 
-#### (c) State program plan
+&emsp;&emsp;&emsp;&emsp;(II) to make recommendations to the court concerning the best interests of the child;
 
-To be eligible to receive a grant under this section, a State shall submit every four years a plan to the Secretary that specifies the child protective service system area or areas described in subsection (a) of this section that the State intends to address with funds received under the grant. The plan shall describe the current system capacity of the State in the relevant area or areas from which to assess programs with grant funds and specify the manner in which funds from the State's programs will be used to make improvements. The plan required under this subsection shall contain, with respect to each area in which the State intends to use funds from the grant, the following information with respect to the State:
+&emsp;&emsp;&emsp;(x) the establishment of citizen review panels in accordance with subsection (c);
 
-#### (1) Intake and screening
+&emsp;&emsp;&emsp;(xi) provisions, procedures, and mechanisms to be effective not later than 2 years after October 3, 1996—
 
-#### (A) Staffing
+&emsp;&emsp;&emsp;&emsp;(I) for the expedited termination of parental rights in the case of any infant determined to be abandoned under State law; and
 
-&emsp;&emsp;The number of child protective service workers responsible for the intake and screening of reports of abuse and neglect relative to the number of reports filed in the previous year.
+&emsp;&emsp;&emsp;&emsp;(II) by which individuals who disagree with an official finding of abuse or neglect can appeal such finding;
 
-#### (B) Training
+&emsp;&emsp;&emsp;(xii) provisions, procedures, and mechanisms to be effective not later than 2 years after October 3, 1996, that assure that the State does not require reunification of a surviving child with a parent who has been found by a court of competent jurisdiction—
 
-&emsp;&emsp;The types and frequency of pre-service and in-service training programs available to support direct line and supervisory personnel in report-taking, screening, decision-making, and referral for investigation.
+&emsp;&emsp;&emsp;&emsp;(I) to have committed murder (which would have been an offense under section 1111(a) of title 18 if the offense had occurred in the special maritime or territorial jurisdiction of the United States) of another child of such parent;
 
-#### (C) Public education
+&emsp;&emsp;&emsp;&emsp;(II) to have committed voluntary manslaughter (which would have been an offense under section 1112(a) of title 18 if the offense had occurred in the special maritime or territorial jurisdiction of the United States) of another child of such parent;
 
-&emsp;&emsp;An assessment of the State or local agency's public education program with respect to—
+&emsp;&emsp;&emsp;&emsp;(III) to have aided or abetted, attempted, conspired, or solicited to commit such murder or voluntary manslaughter; or
 
-&emsp;&emsp;&emsp;(i) what is child abuse and neglect;
+&emsp;&emsp;&emsp;&emsp;(IV) to have committed a felony assault that results in the serious bodily injury to the surviving child or another child of such parent; and
 
-&emsp;&emsp;&emsp;(ii) who is obligated to report and who may choose to report; and
+&emsp;&emsp;&emsp;(xiii) an assurance that, upon the implementation by the State of the provisions, procedures, and mechanisms under clause (xii), conviction of any one of the felonies listed in clause (xii) constitute grounds under State law for the termination of parental rights of the convicted parent as to the surviving children (although case-by-case determinations of whether or not to seek termination of parental rights shall be within the sole discretion of the State);
 
-&emsp;&emsp;&emsp;(iii) how to report.
+&emsp;&emsp;(B) an assurance that the State has in place procedures for responding to the reporting of medical neglect (including instances of withholding of medically indicated treatment from disabled infants with life-threatening conditions), procedures or programs, or both (within the State child protective services system), to provide for—
 
-#### (2) Investigation of reports
+&emsp;&emsp;&emsp;(i) coordination and consultation with individuals designated by and within appropriate health-care facilities;
 
-#### (A) Response time
+&emsp;&emsp;&emsp;(ii) prompt notification by individuals designated by and within appropriatehealth-care facilities of cases of suspected medical neglect (including instances of withholding of medically indicated treatment from disabled infants with life-threatening conditions); and
 
-&emsp;&emsp;The number of reports of child abuse and neglect filed in the State in the previous year where appropriate, the agency response time to each with respect to initial investigation, the number of substantiated and unsubstantiated reports, and where appropriate, the response time with respect to the provision of services.
+&emsp;&emsp;&emsp;(iii) authority, under State law, for the State child protective services system to pursue any legal remedies, including the authority to initiate legal proceedings in a court of competent jurisdiction, as may be necessary to prevent the withholding of medically indicated treatment from disabled infants with life threatening <sup>1</sup> conditions;
 
-#### (B) Staffing
+&emsp;&emsp;(C) a description of—
 
-&emsp;&emsp;The number of child protective service workers responsible for the investigation of child abuse and neglect reports relative to the number of reports investigated in the previous year.
+&emsp;&emsp;&emsp;(i) the services to be provided under the grant to individuals, families, or communities, either directly or through referrals aimed at preventing the occurrence of child abuse and neglect;
 
-#### (C) Interagency coordination
+&emsp;&emsp;&emsp;(ii) the training to be provided under the grant to support direct line and supervisory personnel in report taking, screening, assessment, decision making, and referral for investigating suspected instances of child abuse and neglect; and
 
-&emsp;&emsp;A description of the extent to which interagency coordination processes exist and are available Statewide,<sup>1</sup> and whether protocols or formal policies governing interagency relationships exist in the following areas—
+&emsp;&emsp;&emsp;(iii) the training to be provided under the grant for individuals who are required to report suspected cases of child abuse and neglect; and
 
-&emsp;&emsp;&emsp;(i) multidisciplinary investigation teams among child welfare and law enforcement agencies;
+&emsp;&emsp;(D) an assurance or certification that the programs or projects relating to child abuse and neglect carried out under part B of title IV of the Social Security Act \[42 U.S.C. 620 et seq.\] comply with the requirements set forth in paragraph (1) and this paragraph.
 
-&emsp;&emsp;&emsp;(ii) interagency coordination for the prevention, intervention and treatment ofchild abuse and neglect among agencies responsible for child protective services, criminal justice, schools, health, mental health, and substance abuse; and
+#### (3) Limitation
 
-&emsp;&emsp;&emsp;(iii) special interagency child fatality review panels, including a listing of those agencies that are involved.
+&emsp;With regard to clauses (v) and (vi) of paragraph (2)(A), nothing in this section shall be construed as restricting the ability of a State to refuse to disclose identifying information concerning the individual initiating a report or complaint alleging suspected instances of child abuse or neglect, except that the State may not refuse such a disclosure where a court orders such disclosure after such court has reviewed, in camera, the record of the State related to the report or complaint and has found it has reason to believe that the reporter knowingly made a false report.
 
-#### (D) Training
+#### (4) Definitions
 
-&emsp;&emsp;The types and frequency of pre-service and in-service training programs available to support direct line and supervisory personnel in such areas as investigation, risk assessment, court preparation, and referral to and provision of services.
+&emsp;For purposes of this subsection—
 
-#### (E) Legal representation
+&emsp;&emsp;(A) the term “near fatality” means an act that, as certified by a physician, places the child in serious or critical condition; and
 
-&emsp;&emsp;A description of the State agency's current capacity for legal representation, including the manner in which workers are prepared and trained for court preparation and attendance, including procedures for appealing substantiated reports of abuse and neglect.
+&emsp;&emsp;(B) the term “serious bodily injury” means bodily injury which involves substantial risk of death, extreme physical pain, protracted and obvious disfigurement, or protracted loss or impairment of the function of a bodily member, organ, or mental faculty.
 
-#### (3) Case management and delivery of ongoing family services
+#### (c) Citizen review panels
 
-&emsp;For children for whom a report of abuse and neglect has been substantiated and the children remain in their own homes and are not currently at risk of removal, the State shall assess the activities and the outcomes of the following services:
+#### (1) Establishment
 
-#### (A) Response time
+#### (A) In general
 
-&emsp;&emsp;The number of cases opened for services as a result of investigation of child abuse and neglect reports filed in the previous year, including the response time with respect to the provision of services from the time of initial report and initial investigation.
+&emsp;&emsp;Except as provided in subparagraph (B), each State to which a grant is made under this section shall establish not less than 3 citizen review panels.
 
-#### (B) Staffing
+#### (B) Exceptions
 
-&emsp;&emsp;The number of child protective service workers responsible for providing services to children and their families in their own homes as a result of investigation of reports of child abuse and neglect.
+#### (i) Establishment of panels by States receiving minimum allotment
 
-#### (C) Training
+&emsp;&emsp;&emsp;A State that receives the minimum allotment of $175,000 under section 5116b(b)(1)(A) of this title for a fiscal year shall establish not less than 1 citizen review panel.
 
-&emsp;&emsp;The types and frequency of pre-service and in-service training programs available to support direct line and supervisory personnel in such areas as risk assessment, court preparation, provision of services and determination of case disposition, including how such training is evaluated for effectiveness.
+#### (ii) Designation of existing entities
 
-#### (D) Interagency coordination
+&emsp;&emsp;&emsp;A State may designate as panels for purposes of this subsection one or more existing entities established under State or Federal law, such as child fatality panels or foster care review panels, if such entities have the capacity to satisfy the requirements of paragraph (4) and the State ensures that such entities will satisfy such requirements.
 
-&emsp;&emsp;The extent to which treatment services for the child and other family members are coordinated with child welfare, social service, mental health, education, and other agencies.
+#### (2) Membership
 
-#### (4) General system enhancement
+&emsp;Each panel established pursuant to paragraph (1) shall be composed of volunteer members who are broadly representative of the community in which such panel is established, including members who have expertise in the prevention and treatment of child abuse and neglect.
 
-#### (A) Automation
+#### (3) Meetings
 
-&emsp;&emsp;A description of the capacity of current automated systems for tracking reports of child abuse and neglect from intake through final disposition and how personnel are trained in the use of such system.
+&emsp;Each panel established pursuant to paragraph (1) shall meet not less than once every 3 months.
 
-#### (B) Assessment tools
+#### (4) Functions
 
-&emsp;&emsp;A description of whether, how, and what risk assessment tools are used for screening reports of abuse and neglect, determining whether child abuse and neglect has occurred, and assessing the appropriate level of State agency protection and intervention, including the extent to which such tool is used statewide and how workers are trained in its use.
+#### (A) In general
 
-#### (C) Information and referral
+&emsp;&emsp;Each panel established pursuant to paragraph (1) shall, by examining the policies and procedures of State and local agencies and where appropriate, specific cases, evaluate the extent to which the agencies are effectively discharging their child protection responsibilities in accordance with—
 
-&emsp;&emsp;A description and assessment of the extent to which a State has in place—
+&emsp;&emsp;&emsp;(i) the State plan under subsection (b) of this section;
 
-&emsp;&emsp;&emsp;(i) information and referral systems, including their availability and ability to link families to various child welfare services such as homemakers, intensive family-based services, emergency caretakers, home health visitors, daycare and services outside the child welfare system such as housing, nutrition, health care, special education, income support, and emergency resource assistance; and
+&emsp;&emsp;&emsp;(ii) the child protection standards set forth in subsection (b) of this section; and
 
-&emsp;&emsp;&emsp;(ii) efforts undertaken to disseminate to the public information concerning the problem of child abuse and neglect and the prevention and treatment programs and services available to combat instances of such abuse and neglect.
+&emsp;&emsp;&emsp;(iii) any other criteria that the panel considers important to ensure the protection of children, including—
 
-#### (D) Staff capacity and competence
+&emsp;&emsp;&emsp;&emsp;(I) a review of the extent to which the State child protective services system is coordinated with the foster care and adoption programs established under part E of title IV of the Social Security Act \[42 U.S.C. 670 et seq.\]; and
 
-&emsp;&emsp;An assessment of basic and specialized training needs of all staff and current training provided staff. Assessment of the competencies of staff with respect to minimum knowledge in areas such as child development, cultural and ethnic diversity, functions and relationship of other systems to child protective services and in specific skills such as interviewing, assessment, and decisionmaking relative to the child and family, and the need for training consistent with such minimum competencies.
+&emsp;&emsp;&emsp;&emsp;(II) a review of child fatalities and near fatalities (as defined in subsection (b)(4) of this section).
 
-#### (5) Innovative approaches
+#### (B) Confidentiality
 
-&emsp;A description of—
+#### (i) In general
 
-&emsp;&emsp;(A) research and demonstration efforts for developing, strengthening, and carrying out child abuse and neglect prevention, treatment, and research programs, including the interagency efforts at the State level; and
+&emsp;&emsp;&emsp;The members and staff of a panel established under paragraph (1)—
 
-&emsp;&emsp;(B) the manner in which proposed research and development activities build on existing capacity in the programs being addressed.
+&emsp;&emsp;&emsp;&emsp;(I) shall not disclose to any person or government official any identifying information about any specific child protection case with respect to which the panel is provided information; and
 
-#### (d) Waivers
+&emsp;&emsp;&emsp;&emsp;(II) shall not make public other information unless authorized by State statute.
 
-#### (1) General rule
+#### (ii) Civil sanctions
 
-&emsp;Subject to paragraph (3) of this subsection, any State which does not qualify for assistance under subsection (a) of this section may be granted a waiver of any requirement under paragraph (2) of this subsection—
+&emsp;&emsp;&emsp;Each State that establishes a panel pursuant to paragraph (1) shall establish civil sanctions for a violation of clause (i).
 
-&emsp;&emsp;(A) for a period of not more than one year, if the Secretary makes a finding that such State is making a good faith effort to comply with any such requirement, and for a second one-year period if the Secretary makes a finding that such State is making substantial progress to achieve such compliance; or
+#### (5) State assistance
 
-&emsp;&emsp;(B) for a nonrenewable period of not more than two years in the case of a State the legislature of which meets only biennially, if the Secretary makes a finding that suchState is making a good faith effort to comply with such requirement.
+&emsp;Each State that establishes a panel pursuant to paragraph (1)—
 
-#### (2) Extension
+&emsp;&emsp;(A) shall provide the panel access to information on cases that the panel desires to review if such information is necessary for the panel to carry out its functions under paragraph (4); and
 
-&emsp;(A) Subject to paragraph (3) of this subsection, any State whose waiver under paragraph (1) expired as of the end of fiscal year 1986 may be granted an extension of such waiver, if the Secretary makes a finding that such State is making a good faith effort to comply with the requirements under subsection (b) of this section—
+&emsp;&emsp;(B) shall provide the panel, upon its request, staff assistance for the performance of the duties of the panel.
 
-&emsp;&emsp;(i) through the end of fiscal year 1988; or
+#### (6) Reports
 
-&emsp;&emsp;(ii) in the case of a State the legislature of which meets biennially, through the end of the fiscal year 1989 or the end of the next regularly scheduled session of such legislature, whichever is earlier.
+&emsp;Each panel established under paragraph (1) shall prepare and make available to the public, on an annual basis, a report containing a summary of the activities of the panel.
 
-&emsp;(B) This provision shall be effective retroactively to October 1, 1986.
+#### (d) Annual State data reports
 
-#### (3) Requirements under subsection (b)(10)
+Each State to which a grant is made under this section shall annually work with the Secretary to provide, to the maximum extent practicable, a report that includes the following:
 
-&emsp;No waiver under paragraph (1) or (2) may apply to any requirement under subsection (b)(10) of this section.
+&emsp;(1) The number of children who were reported to the State during the year as abused or neglected.
 
-#### (e) Reduction of funds in case of failure to obligate
+&emsp;(2) Of the number of children described in paragraph (1), the number with respect to whom such reports were—
 
-If a State fails to obligate funds awarded under subsection (a) of this section before the expiration of the 18-month period beginning on the date of such award, the next award made to such State under this section after the expiration of such period shall be reduced by an amount equal of <sup>2</sup> the amount of such unobligated funds unless the Secretary determines that extraordinary reasons justify the failure to so obligate.
+&emsp;&emsp;(A) substantiated;
 
-#### (f) Restrictions relating to child welfare services
+&emsp;&emsp;(B) unsubstantiated; or
 
-Programs or projects relating to child abuse and neglect assisted under part B of title IV of the Social Security Act \[42 U.S.C. 620 et seq.\] shall comply with the requirements set forth in paragraphs (1)(A), (2), (4), (5), and (10) of subsection (b) of this section.
+&emsp;&emsp;(C) determined to be false.
 
-#### (g) Compliance and education grants
+&emsp;(3) Of the number of children described in paragraph (2)—
 
-The Secretary is authorized to make grants to the States for purposes of developing, implementing, or operating—
+&emsp;&emsp;(A) the number that did not receive services during the year under the State program funded under this section or an equivalent State program;
 
-&emsp;(1) the procedures or programs required under subsection (b)(10) of this section;
+&emsp;&emsp;(B) the number that received services during the year under the State program funded under this section or an equivalent State program; and
 
-&emsp;(2) information and education programs or training programs designed to improve the provision of services to disabled infants with life-threatening conditions for—
+&emsp;&emsp;(C) the number that were removed from their families during the year by disposition of the case.
 
-&emsp;&emsp;(A) professional and paraprofessional personnel concerned with the welfare of disabled infants with life-threatening conditions, including personnel employed in child protective services programs and health-care facilities; and
+&emsp;(4) The number of families that received preventive services from the State during the year.
 
-&emsp;&emsp;(B) the parents of such infants; and
+&emsp;(5) The number of deaths in the State during the year resulting from child abuse or neglect.
 
-&emsp;(3) programs to assist in obtaining or coordinating necessary services for families of disabled infants with life-threatening conditions, including—
+&emsp;(6) Of the number of children described in paragraph (5), the number of such children who were in foster care.
 
-&emsp;&emsp;(A) existing social and health services;
+&emsp;(7) The number of child protective services workers responsible for the intake and screening of reports filed in the previous year.
 
-&emsp;&emsp;(B) financial assistance; and
+&emsp;(8) The agency response time with respect to each such report with respect to initial investigation of reports of child abuse or neglect.
 
-&emsp;&emsp;(C) services necessary to facilitate adoptive placement of any such infants who have been relinquished for adoption.
+&emsp;(9) The response time with respect to the provision of services to families and children where an allegation of abuse or neglect has been made.
 
-(Pub. L. 93–247, title I, §107, formerly §8, as added Pub. L. 100–294, title I, §101, Apr. 25, 1988, 102 Stat. 110; renumbered title I, §107, Pub. L. 101–126, §3(a)(1), (2), Oct. 25, 1989, 103 Stat. 764; amended Pub. L. 102–295, title I, §114(a)–(c), May 28, 1992, 106 Stat. 192, 195; Pub. L. 102–586, §9(b), Nov. 4, 1992, 106 Stat. 5037.)
+&emsp;(10) The number of child protective services workers responsible for intake, assessment, and investigation of child abuse and neglect reports relative to the number of reports investigated in the previous year.
+
+&emsp;(11) The number of children reunited with their families or receiving family preservation services that, within five years, result in subsequent substantiated reports of child abuse and neglect, including the death of the child.
+
+&emsp;(12) The number of children for whom individuals were appointed by the court to represent the best interests of such children and the average number of out of court contacts between such individuals and children.
+
+#### (e) Annual report by Secretary
+
+Within 6 months after receiving the State reports under subsection (d) of this section, the Secretary shall prepare a report based on information provided by the States for the fiscal year under such subsection and shall make the report and such information available to the Congress and the national clearinghouse for information relating to child abuse.
+
+(Pub. L. 93–247, title I, §106, formerly §8, as added Pub. L. 100–294, title I, §101, Apr. 25, 1988, 102 Stat. 110; renumbered title I, §107, Pub. L. 101–126, §3(a)(1), (2), Oct. 25, 1989, 103 Stat. 764; amended Pub. L. 102–295, title I, §114(a)–(c), May 28, 1992, 106 Stat. 192, 195; Pub. L. 102–586, §9(b), Nov. 4, 1992, 106 Stat. 5037; renumbered §106 and amended Pub. L. 104–235, title I, §§107, 113(a)(1)(A), Oct. 3, 1996, 110 Stat. 3071, 3079.)
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (f), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part B of title IV of the Social Security Act is classified generally to part B (§620 et seq.) of subchapter IV of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+The Social Security Act, referred to in subsecs. (b)(2) and (c)(4)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Parts B and E of title IV of the Act are classified generally to part B (§620 et seq.) and part E (§670 et seq.), respectively, of subchapter IV of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+
+#### Codification
+
+October 3, 1996, referred to in subsec. (b)(2)(A)(xi), (xii), was in the original “the date of the enactment of this section”, which was translated as meaning the date of enactment of Pub. L. 104–235, which amended this section generally, to reflect the probable intent of Congress.
+
+#### Prior Provisions
+
+A prior section 106 of Pub. L. 93–247 was renumbered section 105 and is classified to section 5106 of this title.
 
 #### Amendments
 
-1992—Subsec. (a). Pub. L. 102–295, §114(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Secretary, through the Center, is authorized to make grants to the States for purposes of assisting the States in developing, strengthening, and carrying out child abuse and neglect prevention and treatment programs.”
+1996—Pub. L. 104–235 reenacted section catchline without change and amended text generally, revising and restating subsecs. (a) and (b), substituting provisions relating to citizen review panels for provisions relating to State program plan in subsec. (c), provisions relating to annual State data reports for provisions relating to waivers in subsec. (d), provisions relating to annual report by Secretary for provisions relating to reduction of funds in case of failure to obligate in subsec. (e), and striking out subsecs. (f) and (g) which related to child welfare services and compliance and education grants, respectively.
+
+1992—Subsec. (a). Pub. L. 102–295, §114(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Secretary, through the Center, is authorized to make grants to the States for purposes of assisting the States in developing, strengthening, andcarrying out child abuse and neglect prevention and treatment programs.”
 
 Subsec. (b)(4). Pub. L. 102–586 amended par. (4) generally. Prior to amendment, par. (4) read as follows: “provide for methods to preserve the confidentiality of all records in order to protect the rights of the child and of the child's parents or guardians;”.
 
@@ -274,9 +316,7 @@ Section 9(a) of Pub. L. 102–586 provided that: “The Congress finds that—
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 5106b, 5106c, 5106h of this title.
+This section is referred to in sections 5106c, 5106h of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be “to”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be “life-threatening”.</i>
 

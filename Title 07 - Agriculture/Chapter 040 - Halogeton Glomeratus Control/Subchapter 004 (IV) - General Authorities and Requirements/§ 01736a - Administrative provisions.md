@@ -4,11 +4,11 @@
 
 #### (1) Acquisitions
 
-&emsp;The importing country shall acquire the agricultural commodities to be financed under subchapter II of this chapter.
+&emsp;The importing country or private entity that enters into an agreement under subchapter II of this chapter shall acquire the agricultural commodities to be financed under subchapter II of this chapter.
 
 #### (2) Invitation for bid
 
-&emsp;No purchase of agricultural commodities from private stock or purchase of ocean transportation shall be financed under subchapter II of this chapter unless such purchases are made on the basis of an invitation for bid thatis publicly advertised in the United States, and on the basis of bid offerings that shall conform to such invitation and be received and publicly opened in the United States. All awards in the purchase of commodities or ocean transportation financed under subchapter II of this chapter shall be consistent with open, competitive, and responsive bid procedures, as determined appropriate by the Secretary.
+&emsp;No purchase of agricultural commodities from private stock or purchase of ocean transportation shall be financed under subchapter II of this chapter unless such purchases are made on the basis of an invitation for bid that is publicly advertised in the United States, and on the basis of bid offerings that shall conform to such invitation and be received and publicly opened in the United States. All awards in the purchase of commodities or ocean transportation financed under subchapter II of this chapter shall be consistent with open, competitive, and responsive bid procedures, as determined appropriate by the Secretary. Resulting contracts may contain such terms and conditions as the Secretary determines are necessary and appropriate.
 
 #### (b) Agents
 
@@ -16,7 +16,7 @@
 
 #### (A) General rule
 
-&emsp;&emsp;Except as provided in subparagraph (B), if it is determined appropriate, the Secretary or the Commodity Credit Corporation may serve as the purchasing or shipping agent, or both, for the importing country in arranging the purchase or shipping of commodities financed under subchapter II of this chapter.
+&emsp;&emsp;Except as provided in subparagraph (B), if it is determined appropriate, the Secretary or the Commodity Credit Corporation may serve as the purchasing or shipping agent, or both, for the importer or importing country in arranging the purchase or shipping of commodities financed under subchapter II of this chapter.
 
 #### (B) Exception
 
@@ -30,7 +30,7 @@
 
 #### (A) Fees
 
-&emsp;&emsp;Notwithstanding any other provision of law, the Secretary or the Commodity Credit Corporation may enter into an agreement with the importing country that contains the terms and conditions that will govern the provision of purchasing or shipping agent services by the Secretary or the Corporation, including the establishment of fees for such services. Any such fees shall be fair and reasonable in relation to the services performed and shall be available as reimbursement for costs incurred in providing such services.
+&emsp;&emsp;Notwithstanding any other provision of law, the Secretary or the Commodity Credit Corporation may enter into an agreement with the importer or importing country that contains the terms and conditions that will govern the provision of purchasing or shipping agent services by the Secretary or the Corporation, including the establishment of fees for such services. Any such fees shall be fair and reasonable in relation to the services performed and shall be available as reimbursement for costs incurred in providing such services.
 
 #### (B) Prohibition on commissions
 
@@ -54,17 +54,13 @@
 
 &emsp;The Administrator shall transfer, arrange for the transportation, and take other steps necessary to make available agricultural commodities to be provided under subchapter III and subchapter III–A of this chapter.
 
-#### (2) Full and open competition
+#### (2) Freight procurement
 
-&emsp;No purchase of agricultural commodities from private stocks or purchase of ocean transportation services by the United States Government shall be financed under subchapters III and III–A of this chapter unless such purchases are made on the basis of full and open competition utilizing such procedures as are determined necessary and appropriate by the Administrator.
+&emsp;Notwithstanding the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 471 et seq.) or other similar provisions of law relating to the making or performance of Federal Government contracts, ocean transportation under subchapters III and III–A of this chapter may be procured on the basis of full and open competitive procedures. Resulting contracts may contain such terms and conditions as the Administrator determines are necessary and appropriate.
 
 #### (3) Avoidance of conflict of interest
 
-&emsp;Freight agents employed by the Agency for International Development under subchapters III and III–A of this chapter shall not represent any foreign government during the period of their contract with the United States Government.
-
-#### (4) Ocean transportation services
-
-&emsp;Notwithstanding any provision of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 471 et seq.) or other similar provisions relating to the making or performance of Federal Government contracts, the Administrator may procure ocean transportation services under this chapter under such full and open competitive procedures as the Administrator determines are necessary and appropriate.
+&emsp;Freight agents employed by the Agency for International Development under subchaptersIII and III–A of this chapter shall not represent any foreign government during the period of their contract with the United States Government.
 
 #### (d) Timing of shipments
 
@@ -96,27 +92,41 @@ An agreement under subchapters II and III–A of this chapter shall, to the exte
 
 &emsp;&emsp;(A) the countries and organizations receiving food and other assistance provided to each country and organization under this chapter;
 
-&emsp;&emsp;(B) a general description of the projects or activities implemented under this chapter, including local currency funded activities; and
+&emsp;&emsp;(B) a general description of the projects or activities implemented under this chapter, including local currency funded activities;
 
-&emsp;&emsp;(C) a statement of the amount of agricultural commodities made available to each country pursuant to section 1431(b) of this title and the Food for Progress Act of 1985 \[7 U.S.C. 1736<i>o</i>\].
+&emsp;&emsp;(C) a statement of the amount of agricultural commodities made available to each country pursuant to section 1431(b) of this title and the Food for Progress Act of 1985 \[7 U.S.C. 1736<i>o</i>\]; and
+
+&emsp;&emsp;(D) an assessment of the progress towards achieving food security in each country receiving food assistance from the United States Government, with special emphasis on the nutritional status of the poorest populations in each country.
 
 #### (3) Submission
 
 &emsp;The President shall submit such report not later than January 15 of each year to the Committee on Agriculture and the Committee on Foreign Affairs of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate.
 
-#### (g) World Food Day report
-
-On World Food Day, October 16 of each year, the President shall submit to the appropriate committees of Congress a report, prepared with the assistance of the Secretary and the Administrator, assessing progress towards food security in each country receiving United States Government food assistance. Special emphasis should be given in such report to the nutritional status of the poorest populations in such countries.
-
-(July 10, 1954, ch. 469, title IV, §407, as added Nov. 11, 1966, Pub. L. 89–808, §2(E), 80 Stat. 1537; amended July 29, 1968, Pub. L. 90–436, §8, 82 Stat. 451; Dec. 20, 1975, Pub. L. 94–161, title II, §210, 89 Stat. 854; Nov. 5, 1990, Pub. L. 101–508, title I, §1204(b)(3), 104 Stat. 1388–11; Nov. 28, 1990, Pub. L. 101–624, title XV, §1512, 104 Stat. 3650; Dec. 13, 1991, Pub. L. 102–237, title III, §§319, 324, 325, 328, 329, 332, 105 Stat. 1857, 1858; Dec. 21, 1995, Pub. L. 104–66, title I, §1011(e), 109 Stat. 709.)
+(July 10, 1954, ch. 469, title IV, §407, as added Nov. 11, 1966, Pub. L. 89–808, §2(E), 80 Stat. 1537; amended July 29, 1968, Pub. L. 90–436, §8, 82 Stat. 451; Dec. 20, 1975, Pub. L. 94–161, title II, §210, 89 Stat. 854; Nov. 5, 1990, Pub. L. 101–508, title I, §1204(b)(3), 104 Stat. 1388–11; Nov. 28, 1990, Pub. L. 101–624, title XV, §1512, 104 Stat. 3650; Dec. 13, 1991, Pub. L. 102–237, title III, §§319, 324, 325, 328, 329, 332, 105 Stat. 1857, 1858; Dec. 21, 1995, Pub. L. 104–66, title I, §1011(e), 109 Stat. 709; Apr. 4, 1996, Pub. L. 104–127, title II, §216, 110 Stat. 957.)
 
 #### References in Text
 
-The Federal Property and Administrative Services Act of 1949, referred to in subsec. (c)(4), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Provisions of the Act relating to procurement procedures are classified generally to subchapter IV (§251 et seq.) of chapter 4 of Title 41, Public Contracts. For complete classification of this Act to the Code, see Short Title note set out under section 471 of Title 40, Public Buildings, Property, and Works, and Tables.
+The Federal Property and Administrative Services Act of 1949, referred to in subsec. (c)(2), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Provisions of the Act relating to procurement procedures are classified generally to subchapter IV (§251 et seq.) of chapter 4 of Title 41, Public Contracts. For complete classification of this Act to the Code, see Short Title note set out under section 471 of Title 40, Public Buildings, Property, and Works, and Tables.
 
 The Food for Progress Act of 1985, referred to in subsec. (f)(2)(C), is Pub. L. 99–198, title XI, §1110, Dec. 23, 1985, 99 Stat. 1472, as amended, which is classified to section 1736<i>o</i> of this title.
 
 #### Amendments
+
+1996—Pub. L. 104–127, §216(2)–(5), which directed amendment of subsecs. (c), (d), (g), and (h), respectively, of this section, was executed to subsecs. (b), (c), (f), and (g), respectively, of this section, to reflect the probable intent of Congress and the intervening amendment by Pub. L. 104–66 which struck out subsec. (b) and redesignated subsecs. (c) to (h) as (b) to (g), respectively. See 1995 Amendment note below.
+
+Subsec. (a)(1). Pub. L. 104–127, §216(1)(A), inserted “or private entity that enters into an agreement under subchapter II of this chapter” after “importing country”.
+
+Subsec. (a)(2). Pub. L. 104–127, §216(1)(B), inserted at end “Resulting contracts may contain such terms and conditions as the Secretary determines are necessary and appropriate.”
+
+Subsec. (b)(1)(A), (2)(A). Pub. L. 104–127, §216(2), inserted “importer or” before “importing country”.
+
+Subsec. (c)(2). Pub. L. 104–127, §216(3)(A), added par. (2) and struck out heading and text of former par. (2). Text read as follows: “No purchase of agricultural commodities from private stocks or purchase of ocean transportation services by the United States Government shall be financed under subchapters III and III–A of this chapter unless such purchases are made on the basis of full and open competition utilizing such procedures as are determined necessary and appropriate by the Administrator.”
+
+Subsec. (c)(4). Pub. L. 104–127, §216(3)(B), struck out heading and text of par. (4). Text read as follows: “Notwithstanding any provision of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 471 et seq.) or other similar provisions relating to the making or performance of Federal Government contracts, the Administrator may procure ocean transportation services under this chapter under such full and open competitive procedures as the Administrator determines are necessary and appropriate.”
+
+Subsec. (f)(2)(D). Pub. L. 104–127, §216(4), added subpar. (D).
+
+Subsec. (g). Pub. L. 104–127, §216(5), struck out heading and text of subsec. (g). Text read as follows: “On World Food Day, October 16 of each year, the President shall submit to the appropriate committees of Congress a report, prepared with the assistance of the Secretary and the Administrator, assessing progress towards food security in each country receiving United States Government food assistance. Special emphasis should be given in such report to the nutritional status of the poorest populations in such countries.”
 
 1995—Subsecs. (b) to (h). Pub. L. 104–66 redesignated subsecs. (c) to (h) as (b) to (g), respectively, and struck out former subsec. (b) which required reporting of agricultural commodity or ocean transportation supplier fees.
 
@@ -166,5 +176,5 @@ For provisions requiring Food Assistance Policy Council to prepare annual report
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1431, 1736n of this title.
+This section is referred to in section 1431 of this title.
 

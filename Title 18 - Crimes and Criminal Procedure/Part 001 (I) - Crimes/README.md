@@ -56,12 +56,7 @@
 | [<b>67.</b>](Chapter%20067%20-%20Military%20and%20Navy/README.md) | <b>Military and Navy</b> | <b>1381</b> |
 | <b>\[68.</b> | <b>Repealed.\]</b> |  |
 | [<b>69.</b>](Chapter%20069%20-%20Nationality%20and%20Citizenship/README.md) | <b>Nationality and citizenship</b> | <b>1421</b> |
-| [<b>71.</b>](Chapter%20071%20-%20Obscenity/README.md) | <b>Obscenity</b> | <b><sup>2</sup></b><b> 1461</b> |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |  |
-| :--- | :---: | ---: |
+| [<b>71.</b>](Chapter%20071%20-%20Obscenity/README.md) | <b>Obscenity</b> | <b>1460</b> |
 | [<b>73.</b>](Chapter%20073%20-%20Obstruction%20of%20Justice/README.md) | <b>Obstruction of justice</b> | <b>1501</b> |
 | [<b>75.</b>](Chapter%20075%20-%20Passports%20and%20Visas/README.md) | <b>Passports and visas</b> | <b>1541</b> |
 | [<b>77.</b>](Chapter%20077%20-%20Peonage%20and%20Slavery/README.md) | <b>Peonage and slavery</b> | <b>1581</b> |
@@ -72,6 +67,7 @@
 | [<b>85.</b>](Chapter%20085%20-%20Prison-Made%20Goods/README.md) | <b>Prison-made goods</b> | <b>1761</b> |
 | [<b>87.</b>](Chapter%20087%20-%20Prisons/README.md) | <b>Prisons</b> | <b>1791</b> |
 | [<b>89.</b>](Chapter%20089%20-%20Professions%20and%20Occupations/README.md) | <b>Professions and occupations</b> | <b>1821</b> |
+| [<b>90.</b>](Chapter%20090%20-%20Protection%20of%20Trade%20Secrets/README.md) | <b>Protection of trade secrets</b> | <b>1831</b> |
 | [<b>91.</b>](Chapter%20091%20-%20Public%20Lands/README.md) | <b>Public lands</b> | <b>1851</b> |
 | [<b>93.</b>](Chapter%20093%20-%20Public%20Officers%20and%20Employees/README.md) | <b>Public officers and employees</b> | <b>1901</b> |
 | [<b>95.</b>](Chapter%20095%20-%20Racketeering/README.md) | <b>Racketeering</b> | <b>1951</b> |
@@ -86,18 +82,13 @@
 | [<b>109.</b>](Chapter%20109%20-%20Searches%20and%20Seizures/README.md) | <b>Searches and seizures</b> | <b>2231</b> |
 | [<b>109A.</b>](Chapter%20109A%20-%20Sexual%20Abuse/README.md) | <b>Sexual abuse</b> | <b>2241</b> |
 | [<b>110.</b>](Chapter%20110%20-%20Sexual%20Exploitation%20and%20Other%20Abuse%20of%20Children/README.md) | <b>Sexual exploitation and other abuse of children</b> | <b>2251</b> |
-| [<b>110A.</b>](Chapter%20110A%20-%20Domestic%20Violence/README.md) | <b>Domestic violence</b> | <b>2261</b> |
+| [<b>110A.</b>](Chapter%20110A%20-%20Domestic%20Violence%20and%20Stalking/README.md) | <b>Domestic violence and stalking</b> | <b>2261</b> |
 | [<b>111.</b>](Chapter%20111%20-%20Shipping/README.md) | <b>Shipping</b> | <b>2271</b> |
 | [<b>113.</b>](Chapter%20113%20-%20Stolen%20Property/README.md) | <b>Stolen property</b> | <b>2311</b> |
 | [<b>113A.</b>](Chapter%20113A%20-%20Telemarketing%20Fraud/README.md) | <b>Telemarketing fraud</b> | <b>2325</b> |
 | [<b>113B.</b>](Chapter%20113B%20-%20Terrorism/README.md) | <b>Terrorism</b> | <b>2331</b> |
-| <b>113B.</b><b><sup>3</sup></b> | <b>Torture</b> | <b>2340</b> |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |  |
-| :--- | :---: | ---: |
-| [<b>114.</b>](Chapter%20114%20-%20Trafficking%20in%20Contraband%20Cigarettes/README.md) | <b>Trafficking in Contraband Cigarettes </b><b><sup>4</sup></b> | <b>2341</b> |
+| [<b>113C.</b>](Chapter%20113C%20-%20Torture/README.md) | <b>Torture</b> | <b>2340</b> |
+| [<b>114.</b>](Chapter%20114%20-%20Trafficking%20in%20Contraband%20Cigarettes/README.md) | <b>Trafficking in Contraband Cigarettes </b><b><sup>2</sup></b> | <b>2341</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -105,18 +96,27 @@
 | :--- | :---: | ---: |
 | [<b>115.</b>](Chapter%20115%20-%20Treason%2C%20Sedition%2C%20and%20Subversive%20Activities/README.md) | <b>Treason, sedition, and subversive activities</b> | <b>2381</b> |
 | [<b>117.</b>](Chapter%20117%20-%20Transportation%20for%20Illegal%20Sexual%20Activity%20and%20Related%20Crimes/README.md) | <b>Transportation for illegal sexual activity and related crimes</b> | <b>2421</b> |
-| [<b>119.</b>](Chapter%20119%20-%20Wire%20and%20Electronic%20Communications%20Interception%20and%20Interception%20of%20Oral%20Communications/README.md) | <b>Wire and electronic communications interception and interception of oral communications </b><b><sup>5</sup></b> | <b>2510</b> |
+| [<b>118.</b>](Chapter%20118%20-%20War%20Crimes/README.md) | <b>War crimes</b> | <b>2441</b> |
+| [<b>119.</b>](Chapter%20119%20-%20Wire%20and%20Electronic%20Communications%20Interception%20and%20Interception%20of%20Oral%20Communications/README.md) | <b>Wire and electronic communications interception and interception of oral communications </b><b><sup>3</sup></b> | <b>2510</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 |  |  |  |
 | :--- | :---: | ---: |
 | [<b>121.</b>](Chapter%20121%20-%20Stored%20Wire%20and%20Electronic%20Communications%20and%20Transactional%20Records%20Access/README.md) | <b>Stored wire and electronic communications and transactional records access</b> | <b>2701</b> |
-| [<b>123.</b>](Chapter%20123%20-%20Prohibition%20on%20Release%20and%20Use%20of%20Certain%20Personal%20Information%20from%20State%20Motor%20Vehicle%20Records/README.md) | <b>Prohibition on release and use of certain personal information from State motor vehicle records</b> | <b><sup>6</sup></b><b> 2271</b> |
+| [<b>123.</b>](Chapter%20123%20-%20Prohibition%20on%20Release%20and%20Use%20of%20Certain%20Personal%20Information%20from%20State%20Motor%20Vehicle%20Records/README.md) | <b>Prohibition on release and use of certain personal information from State motor vehicle records</b> | <b><sup>4</sup></b><b> 2271</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1996—Pub. L. 104–294, title I, §101(b), title VI, §§601(j)(2)(B), 605(c), (p)(3), Oct. 11, 1996, 110 Stat. 3491, 3501, 3509, 3510, substituted “1461” for “1460” in item for chapter 71, added item for chapter 90, and substituted “2340” for “2340.” in item for chapter 113C and “2441” for “2401” in item for chapter 118.
+
+Pub. L. 104–201, div. A, title X, §1069(b)(4), Sept. 23, 1996, 110 Stat. 2656, inserted “and stalking” after “violence” in item for chapter 110A.
+
+Pub. L. 104–192, §2(b), Aug. 21, 1996, 110 Stat. 2104, added item for chapter 118.
+
+Pub. L. 104–132, title III, §303(c)(2), Apr. 24, 1996, 110 Stat. 1253, and Pub. L. 104–294, title VI, §601(j)(2)(A), Oct. 11, 1996, 110 Stat. 3501, amended analysis identically, redesignating item 113B, relating to torture, as 113C.
 
 1994—Pub. L. 103–322, title XXXIII, §330021(1), Sept. 13, 1994, 108 Stat. 2150, which directed the amendment of this title by striking “kidnaping” each place it appears and inserting “kidnapping”, was executed by substituting “Kidnapping” for “Kidnaping” in item for chapter 55, to reflect the probable intent of Congress.
 
@@ -241,6 +241,7 @@ Act July 14, 1956, ch. 595, §2, 70 Stat. 540, added item for chapter 2.
 - [Chapter 085 - Prison-Made Goods](Chapter%20085%20-%20Prison-Made%20Goods/README.md)
 - [Chapter 087 - Prisons](Chapter%20087%20-%20Prisons/README.md)
 - [Chapter 089 - Professions and Occupations](Chapter%20089%20-%20Professions%20and%20Occupations/README.md)
+- [Chapter 090 - Protection of Trade Secrets](Chapter%20090%20-%20Protection%20of%20Trade%20Secrets/README.md)
 - [Chapter 091 - Public Lands](Chapter%20091%20-%20Public%20Lands/README.md)
 - [Chapter 093 - Public Officers and Employees](Chapter%20093%20-%20Public%20Officers%20and%20Employees/README.md)
 - [Chapter 095 - Racketeering](Chapter%20095%20-%20Racketeering/README.md)
@@ -255,15 +256,16 @@ Act July 14, 1956, ch. 595, §2, 70 Stat. 540, added item for chapter 2.
 - [Chapter 109 - Searches and Seizures](Chapter%20109%20-%20Searches%20and%20Seizures/README.md)
 - [Chapter 109A - Sexual Abuse](Chapter%20109A%20-%20Sexual%20Abuse/README.md)
 - [Chapter 110 - Sexual Exploitation and Other Abuse of Children](Chapter%20110%20-%20Sexual%20Exploitation%20and%20Other%20Abuse%20of%20Children/README.md)
-- [Chapter 110A - Domestic Violence](Chapter%20110A%20-%20Domestic%20Violence/README.md)
+- [Chapter 110A - Domestic Violence and Stalking](Chapter%20110A%20-%20Domestic%20Violence%20and%20Stalking/README.md)
 - [Chapter 111 - Shipping](Chapter%20111%20-%20Shipping/README.md)
 - [Chapter 113 - Stolen Property](Chapter%20113%20-%20Stolen%20Property/README.md)
 - [Chapter 113A - Telemarketing Fraud](Chapter%20113A%20-%20Telemarketing%20Fraud/README.md)
 - [Chapter 113B - Terrorism](Chapter%20113B%20-%20Terrorism/README.md)
-- [Chapter 113B - Torture](Chapter%20113B%20-%20Torture/README.md)
+- [Chapter 113C - Torture](Chapter%20113C%20-%20Torture/README.md)
 - [Chapter 114 - Trafficking in Contraband Cigarettes](Chapter%20114%20-%20Trafficking%20in%20Contraband%20Cigarettes/README.md)
 - [Chapter 115 - Treason, Sedition, and Subversive Activities](Chapter%20115%20-%20Treason%2C%20Sedition%2C%20and%20Subversive%20Activities/README.md)
 - [Chapter 117 - Transportation for Illegal Sexual Activity and Related Crimes](Chapter%20117%20-%20Transportation%20for%20Illegal%20Sexual%20Activity%20and%20Related%20Crimes/README.md)
+- [Chapter 118 - War Crimes](Chapter%20118%20-%20War%20Crimes/README.md)
 - [Chapter 119 - Wire and Electronic Communications Interception and Interception of Oral Communications](Chapter%20119%20-%20Wire%20and%20Electronic%20Communications%20Interception%20and%20Interception%20of%20Oral%20Communications/README.md)
 - [Chapter 121 - Stored Wire and Electronic Communications and Transactional Records Access](Chapter%20121%20-%20Stored%20Wire%20and%20Electronic%20Communications%20and%20Transactional%20Records%20Access/README.md)
 - [Chapter 123 - Prohibition on Release and Use of Certain Personal Information from State Motor Vehicle Records](Chapter%20123%20-%20Prohibition%20on%20Release%20and%20Use%20of%20Certain%20Personal%20Information%20from%20State%20Motor%20Vehicle%20Records/README.md)

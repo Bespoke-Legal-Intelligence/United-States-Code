@@ -20,10 +20,6 @@ Section was formerly classified to section 1173 of this title, and prior thereto
 
 Section 38 of act June 25, 1948, provided that the amendment made by that act is effective Sept. 1, 1948.
 
-#### American Institute in Taiwan
-
-Employees of the American Institute in Taiwan authorized to assist and protect interests of United States persons by performing acts such as are authorized to be performed outside the United States for consular purposes by these sections, see section 1–201 of Ex. Ord. No. 12143, June 22, 1979, 44 F.R. 37191, set out as a note under section 3301 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 4191 of this title.

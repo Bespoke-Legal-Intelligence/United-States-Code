@@ -14,7 +14,9 @@ Act
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 5 U.S.C. 756(c).
 
@@ -46,7 +48,7 @@ The words “maximum rate of basic pay for GS–15” and “minimum rate of bas
 
 #### Amendments
 
-<b>1988</b>—Pub. L. 100–566 designated existing provisions as subsec. (a) and added subsec. (b).
+1988—Pub. L. 100–566 designated existing provisions as subsec. (a) and added subsec. (b).
 
 #### Personnel Not Affected by 1967 Increase
 

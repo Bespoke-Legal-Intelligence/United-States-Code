@@ -32,7 +32,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 5 U.S.C. 3071.
 
@@ -52,9 +54,9 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-<b>1979</b>—Par. (3)(B). Pub. L. 96–54 substituted “Mayor” for “Commissioner”.
+1979—Par. (3)(B). Pub. L. 96–54 substituted “Mayor” for “Commissioner”.
 
-<b>1968</b>—Par. (3)(B). Pub. L. 90–623 substituted “Commissioner” for “Board of Commissioners”.
+1968—Par. (3)(B). Pub. L. 90–623 substituted “Commissioner” for “Board of Commissioners”.
 
 #### Effective Date of 1979 Amendment
 

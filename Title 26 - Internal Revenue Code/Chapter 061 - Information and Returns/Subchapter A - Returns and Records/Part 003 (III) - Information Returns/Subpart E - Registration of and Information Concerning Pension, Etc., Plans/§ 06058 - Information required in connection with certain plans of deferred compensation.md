@@ -10,7 +10,7 @@ Not less than 30 days before a merger, consolidation, or transfer of assets or l
 
 #### (c) Employer
 
-For purposes of this section, the term “employer” includes a person described in section401(c)(4) and an individual who establishes an individual retirement plan.
+For purposes of this section, the term “employer” includes a person described in section 401(c)(4) and an individual who establishes an individual retirement plan.
 
 #### (d) Coordination with income tax returns, etc.
 

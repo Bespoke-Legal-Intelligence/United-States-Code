@@ -10,7 +10,7 @@ Congress finds that—
 
 &emsp;(4) the workplace in the United States is changing in response to heightened international competition and new technologies, and such forces, which are ultimately beneficial to the Nation, are shrinking the demand for and undermining the earning power of unskilled labor;
 
-&emsp;(5) the United States lacks a comprehensive and coherent system to help its youths acquire the knowledge, skills, abilities, and information about and access to the labor market necessary to make an effective transition fromschool to career-oriented work or to further education and training;
+&emsp;(5) the United States lacks a comprehensive and coherent system to help its youths acquire the knowledge, skills, abilities, and information about and access to the labor market necessary to make an effective transition from school to career-oriented work or to further education and training;
 
 &emsp;(6) students in the United States can achieve high academic and occupational standards, and many learn better and retain more when the students learn in context, rather than in the abstract;
 

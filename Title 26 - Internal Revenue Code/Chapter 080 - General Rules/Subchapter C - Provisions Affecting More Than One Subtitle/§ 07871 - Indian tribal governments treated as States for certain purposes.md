@@ -50,7 +50,7 @@ Paragraph (2) of subsection (a) shall apply with respect to any transaction only
 
 #### (1) In general
 
-&emsp;Subsection (a) of section 103 shall apply to any obligation (not described in paragraph (2))issued by an Indian tribal government (or subdivision thereof) only if such obligation is part of an issue substantially all of the proceeds of which are to be used in the exercise of any essential governmental function.
+&emsp;Subsection (a) of section 103 shall apply to any obligation (not described in paragraph (2)) issued by an Indian tribal government (or subdivision thereof) only if such obligation is part of an issue substantially all of the proceeds of which are to be used in the exercise of any essential governmental function.
 
 #### (2) No exemption for private activity bonds
 
@@ -132,7 +132,7 @@ Paragraph (2) of subsection (a) shall apply with respect to any transaction only
 
 #### (d) Treatment of subdivisions of Indian tribal governments as political subdivisions
 
-For the purposes specified in subsection (a), a subdivision of an Indian tribal government shall be treated as a political subdivision of a State if\(and only if) the Secretary determines (after consultation with the Secretary of the Interior) that such subdivision has been delegated the right to exercise one or more of the substantial governmental functions of the Indian tribal government.
+For the purposes specified in subsection (a), a subdivision of an Indian tribal government shall be treated as a political subdivision of a State if (and only if) the Secretary determines (after consultation with the Secretary of the Interior) that such subdivision has been delegated the right to exercise one or more of the substantial governmental functions of the Indian tribal government.
 
 #### (e) Essential governmental function
 
@@ -230,5 +230,5 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 164, 170, 2055, 2106, 2522, 4227, 4484, 6420, 6421, 6427, 7701 of this title; title 25 section 566.
+This section is referred to in sections 164, 170, 401, 2055, 2106, 2522, 4227, 4484, 6420, 6421, 6427, 7701 of this title; title 25 section 566.
 

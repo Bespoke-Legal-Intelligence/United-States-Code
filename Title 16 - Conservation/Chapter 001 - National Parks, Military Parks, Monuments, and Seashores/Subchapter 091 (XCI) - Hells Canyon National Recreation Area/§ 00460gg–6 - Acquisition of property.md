@@ -6,7 +6,7 @@ The Secretary is authorized to acquire such lands or interests in land (includin
 
 #### (b) Acquisition without consent of owners; limitations; scenic easements
 
-The Secretary is further authorized to acquire by purchase with donated or appropriated funds such lands or interests in lands without the consent of the owner only if (1) he deems that all reasonable efforts to acquire such lands or interests therein by negotiation have failed, and (2) the total acreage of all other lands within the recreation area to which he has acquired fee simple title or, lesser interests therein without the consent of the owner is less than 5 per centum of the total acreage which is privately owned within the recreation area on December 31, 1975: <i>Provided</i>, That the Secretary may acquire scenic easements in lands without the consent of the owner and without restriction to such 5 per centum limitation: <i>Provided further</i>, That the Secretary may only acquire sceniceasements in lands without the consent of the owner after the date of publication of the regulations required by section 460gg–7 of this title when he determines that such lands are being used, or are in imminent danger of being used, in a manner incompatible with such regulations.
+The Secretary is further authorized to acquire by purchase with donated or appropriated funds such lands or interests in lands without the consent of the owner only if (1) he deems that all reasonable efforts to acquire such lands or interests therein by negotiation have failed, and (2) the total acreage of all other lands within the recreation area to which he has acquired fee simple title or, lesser interests therein without the consent of the owner is less than 5 per centum of the total acreage which is privately owned within the recreation area on December 31, 1975: <i>Provided</i>, That the Secretary may acquire scenic easements in lands without the consent of the owner and without restriction to such 5 per centum limitation: <i>Provided further</i>, That the Secretary may only acquire scenic easements in lands without the consent of the owner after the date of publication of the regulations required by section 460gg–7 of this title when he determines that such lands are being used, or are in imminent danger of being used, in a manner incompatible with such regulations.
 
 #### (c) Donation of Oregon land; donation or exchange of Idaho land
 
@@ -18,7 +18,7 @@ As used in this subchapter the term “scenic easement” means the right to con
 
 #### (e) Offers to sell land; hardship from delay
 
-The Secretary shall give prompt and careful consideration to any offer made by a person owning land within the recreation area to sell such land to the United States. The Secretary shall specifically consider any hardship to such person which might result from an undue delay in acquiring his property.
+The Secretary shall give prompt and careful consideration to any offer made by a personowning land within the recreation area to sell such land to the United States. The Secretary shall specifically consider any hardship to such person which might result from an undue delay in acquiring his property.
 
 #### (f) Exchange of land; equalization payments
 

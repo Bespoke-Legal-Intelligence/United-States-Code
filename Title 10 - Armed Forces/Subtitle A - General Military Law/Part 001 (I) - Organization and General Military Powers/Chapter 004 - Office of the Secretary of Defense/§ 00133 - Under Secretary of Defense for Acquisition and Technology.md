@@ -46,7 +46,7 @@ A prior section 133 was renumbered section 113 of this title.
 
 #### Amendments
 
-1993—Pub. L. 103–160 substituted “Under Secretary of Defense for Acquisition and Technology” for “Under Secretary of Defense for Acquisition” in section catchline and in subsecs. (a), (b), and (e)(1).
+1993—Pub. L. 103–160 substituted “Under Secretary of Defense for Acquisition and Technology” for “UnderSecretary of Defense for Acquisition” in section catchline and in subsecs. (a), (b), and (e)(1).
 
 1988—Subsec. (d)(1). Pub. L. 100–456 inserted provision that policies provide for coordination of annual plans developed by each such element for the conduct of audit and oversight functions within each contracting activity.
 
@@ -68,9 +68,13 @@ Redesignations.—The office of Under Secretary of Defense for Acquisition in th
 
 “(f)
 
-References in Other Laws.—Any reference to the Under Secretary of Defense for Acquisition or theDeputy Under Secretary of Defense for Acquisition in any provision of law other than title 10, United States Code, or in any rule, regulation, or other paper of the United States shall be treated as referring to the Under Secretary of Defense for Acquisition and Technology or the Deputy Under Secretary of Defense for Acquisition and Technology, respectively.”
+References in Other Laws.—Any reference to the Under Secretary of Defense for Acquisition or the Deputy Under Secretary of Defense for Acquisition in any provision of law other than title 10, United States Code, or in any rule, regulation, or other paper of the United States shall be treated as referring to the Under Secretary of Defense for Acquisition and Technology or the Deputy Under Secretary of Defense for Acquisition and Technology, respectively.”
 
 #### Improvement in Defense Research and Procurement Liaison With Israel
 
 Section 1006 of Pub. L. 100–456, as amended by Pub. L. 103–160, div. A, title IX, §904(f), Nov. 30, 1993, 107 Stat. 1729, provided that: “The Secretary of Defense, in consultation with the Under Secretary of Defense for Acquisition and Technology, shall designate for duty in Israel an individual or individuals to serve as the primary liaison between the procurement and research and development activities of the United States Armed Forces and those of the State of Israel.”
+
+#### Order of Succession
+
+For order of succession in event of death, disability, or resignation of Secretary, see Ex. Ord. No. 13000, Apr. 24, 1996, 61 F.R. 18483, set out as a note under section 3347 of Title 5, Government Organization and Employees.
 

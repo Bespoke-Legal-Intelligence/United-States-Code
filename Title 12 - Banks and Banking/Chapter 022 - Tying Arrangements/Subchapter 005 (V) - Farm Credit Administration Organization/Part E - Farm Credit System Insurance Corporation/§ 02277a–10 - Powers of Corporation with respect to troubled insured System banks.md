@@ -2,7 +2,7 @@
 
 #### (a) Authority to provide assistance
 
-#### (1) In general
+#### (1) Stand-alone assistance
 
 &emsp;The Corporation, in its sole discretion and on such terms and conditions as the Board of Directors may prescribe, may make loans to, purchase the assets or securities of, assume the liabilities of, or make contributions to, any insured System bank if such action is taken—
 
@@ -12,9 +12,9 @@
 
 &emsp;&emsp;(C) to reduce the risk to the Corporation posed by the bank when severe financial conditions threaten the stability of a significant number of insured System banks or of insured System banks possessing significant financial resources.
 
-#### (2) Enumerated powers
+#### (2) Facilitation of mergers or consolidation
 
-#### (A) Facilitation of mergers or consolidation
+#### (A) In general
 
 &emsp;&emsp;To facilitate a merger or consolidation of a qualifying insured System bank, the sale of assets of such insured System bank to another insured System bank, the assumption of such insured System bank's liabilities by such other insured System bank, or the acquisition of the stock of such insured System bank by such other insured System bank, the Corporation, in its sole discretion and on such terms and conditions as the Board of Directors may prescribe, may—
 
@@ -38,11 +38,45 @@
 
 #### (3) Limitation
 
-#### (A) Cost of liquidation
+#### (A) Least-cost resolution
 
-&emsp;&emsp;Assistance shall not be provided to an insured System bank under this subsection if the amount of such assistance exceeds an amount determined by the Corporation to be the cost of liquidating the bank (including paying the insured obligations issued on behalf of the bank). This subparagraph shall not apply to the provision of assistance to a bank if the Corporation determines that the continued operation of the bank is essential to provide adequate agricultural credit services in the area of operations of the bank.
+&emsp;&emsp;Assistance may not be provided to an insured System bank under this subsection unless the means of providing the assistance is the least costly means of providing the assistance by the Farm Credit Insurance Fund of all possible alternatives available to the Corporation, including liquidation of the bank (including paying the insured obligations issued on behalf of the bank). Before making a least-cost determination under this subparagraph, the Corporation shall accord such other insured System banks as the Corporation determines to be appropriate the opportunity to submit information relating to the determination.
 
-#### (B) Purchase of stock
+#### (B) Determining least costly approach
+
+&emsp;&emsp;In determining the least costly alternative under subparagraph (A), the Corporation shall—
+
+&emsp;&emsp;&emsp;(i) evaluate alternatives on a present-value basis, using a reasonable discount rate;
+
+&emsp;&emsp;&emsp;(ii) document the evaluation and the assumptions on which the evaluation is based; and
+
+&emsp;&emsp;&emsp;(iii) retain the documentation for not less than 5 years.
+
+#### (C) Time of determination
+
+#### (i) General rule
+
+&emsp;&emsp;&emsp;For purposes of this subsection, the determination of the costs of providing any assistance under any provision of this section with respect to any insured System bank shall be made as of the date on which the Corporation makes the determination to provide the assistance to the institution under this section.
+
+#### (ii) Rule for liquidations
+
+&emsp;&emsp;&emsp;For purposes of this subsection, the determination of the costs of liquidation of any insured System bank shall be made as of the earliest of—
+
+&emsp;&emsp;&emsp;&emsp;(I) the date on which a conservator is appointed for the insured System bank;
+
+&emsp;&emsp;&emsp;&emsp;(II) the date on which a receiver is appointed for the insured System bank; or
+
+&emsp;&emsp;&emsp;&emsp;(III) the date on which the Corporation makes any determination to provide any assistance under this section with respect to the insured System bank.
+
+#### (D) Rule for stand-alone assistance
+
+&emsp;&emsp;Before providing any assistance under paragraph (1), the Corporation shall evaluate the adequacy of managerial resources of the insured System bank. The continued service of any director or senior ranking officer who serves in a policymaking role for the assisted insured System bank, as determined by the Corporation, shall be subject to approval by the Corporation as a condition of assistance.
+
+#### (E) Discretionary determinations
+
+&emsp;&emsp;Any determination that the Corporation makes under this paragraph shall be in the sole discretion of the Corporation.
+
+#### (F) Purchase of stock
 
 &emsp;&emsp;The Corporation may not use its authority under this subsection to purchase any stock of an insured System bank. The preceding sentence shall not be construed to limit the ability of the Corporation to enter into and enforce covenants and agreements that it determines to be necessary to protect the financial interests of the Corporation.
 
@@ -52,7 +86,7 @@
 
 #### (5) Reports
 
-&emsp;The Corporation, in its annual report to Congress, shall report the total amount saved, or it estimates to be saved, by the Corporation exercising the authority provided to the Corporation in this subsection.
+&emsp;The Corporation, in its annual report to Congress, shall report the total amount saved,or it estimates to be saved, by the Corporation exercising the authority provided to the Corporation in this subsection.
 
 #### (b) Authority to pledge or sell assets
 
@@ -88,9 +122,19 @@ As used in this section, the terms “insured System bank” and “bank” incl
 
 The Corporation shall not exercise any authority under this section during the 5-year period prior to January 1, 1993.
 
-(Pub. L. 92–181, title V, §5.61, as added Pub. L. 100–233, title III, §302, Jan. 6, 1988, 101 Stat. 1616; amended Pub. L. 101–220, §6(b)(4), Dec. 12, 1989, 103 Stat. 1880; Pub. L. 101–624, title XVIII, §1836(b), Nov. 28, 1990, 104 Stat. 3833.)
+(Pub. L. 92–181, title V, §5.61, as added Pub. L. 100–233, title III, §302, Jan. 6, 1988, 101 Stat. 1616; amended Pub. L. 101–220, §6(b)(4), Dec. 12, 1989, 103 Stat. 1880; Pub. L. 101–624, title XVIII, §1836(b), Nov. 28, 1990, 104 Stat. 3833; Pub. L. 104–105, title II, §217, Feb. 10, 1996, 110 Stat. 179.)
 
 #### Amendments
+
+1996—Subsec. (a)(1). Pub. L. 104–105, §217(b)(1), substituted “Stand-alone assistance” for “In general” in par. heading.
+
+Subsec. (a)(2). Pub. L. 104–105, §217(b)(2)(A), substituted “Facilitation of mergers or consolidation” for “Enumerated powers” in par. heading.
+
+Subsec. (a)(2)(A). Pub. L. 104–105, §217(b)(2)(B), substituted “In general” for “Facilitation of mergers or consolidation” in subpar. heading.
+
+Subsec. (a)(3)(A). Pub. L. 104–105, §217(a)(2), added subpar. (A) and struck out heading and text of former subpar. (A). Text read as follows: “Assistance shall not be provided to an insured System bank under this subsection if the amount of such assistance exceeds an amount determined by the Corporation to be the cost of liquidating the bank (including paying the insured obligations issued on behalf of the bank). This subparagraph shall not apply to the provision of assistance to a bank if the Corporation determines that the continued operation of the bank is essential to provide adequate agricultural credit services in the area of operations of the bank.”
+
+Subsec. (a)(3)(B) to (F). Pub. L. 104–105, §217(a), added subpars. (B) to (E) and redesignated former subpar. (B) as (F).
 
 1990—Subsec. (f). Pub. L. 101–624 substituted “prior to January 1, 1993” for “beginning on the date of the enactment of this part”.
 

@@ -26,9 +26,17 @@ Definition.—In this section, “contraband” means—
 
 &emsp;&emsp;(B) coin, obligation, or other security of the government of a foreign country;
 
-&emsp;(4) material or equipment used, or intended to be used, in making a coin, obligation, or other security referred to in clause (3) of this subsection; or
+&emsp;(4) material or equipment used, or intended to be used, in making a coin, obligation, or other security referred to in clause (3) of this subsection;
 
-&emsp;(5) a cigarette involved in a violation of chapter 114 of title 18 or a regulation prescribed under chapter 114.
+&emsp;(5) a cigarette involved in a violation of chapter 114 of title 18 or a regulation prescribed under chapter 114; or
+
+&emsp;(6)(A) a counterfeit label for a phonorecord, copy of a computer program or computer program documentation or packaging, or copy of a motion picture or other audiovisual work (as defined in section 2318 of title 18);
+
+&emsp;(B) a phonorecord or copy in violation of section 2319 of title 18;
+
+&emsp;(C) a fixation of a sound recording or music video of a live musical performance in violation of section 2319A of title 18; or
+
+&emsp;(D) any good bearing a counterfeit mark (as defined in section 2320 of title 18).
 
 (b)
 
@@ -40,11 +48,13 @@ Prohibitions.—A person may not—
 
 &emsp;(3) use an aircraft, vehicle, or vessel to facilitate the transportation, concealment, receipt, possession, purchase, sale, exchange, or giving away of contraband.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1353.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1353; Pub. L. 104–153, §13, July 2, 1996, 110 Stat. 1389.)
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -119,6 +129,10 @@ In subsection (a)(4), the words “equipment used” are substituted for “appa
 In subsection (a)(5), the text of 49 App.:787(g) is omitted as unnecessary because the term “cigarettes” does not appear in 49 App.: ch. 11 and because the definition of “contraband cigarettes” referred to is part of 18:ch. 114.
 
 In subsection (b), before clause (1), the words “A person may not” are substituted for “It shall be unlawful” for consistency in the revised title. In clause (1), the word “transport” is substituted for “transport, carry, or convey” because it is inclusive. In clause (2), the words “or upon the person of anyone in or upon any vessel, vehicle, or aircraft” are omitted as unnecessary. In clause (3), the word “transportation” is substituted for “transportation, carriage, conveyance” for consistency in this section. The word “barter” is omitted as being included in “exchange”.
+
+#### Amendments
+
+1996—Subsec. (a)(6). Pub. L. 104–153 added par. (6).
 
 #### Section Referred to in Other Sections
 

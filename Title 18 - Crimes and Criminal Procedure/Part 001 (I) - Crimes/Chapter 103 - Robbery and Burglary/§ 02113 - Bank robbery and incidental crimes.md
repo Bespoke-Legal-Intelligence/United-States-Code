@@ -2,13 +2,13 @@
 
 (a) Whoever, by force and violence, or by intimidation, takes, or attempts to take, from the person or presence of another, or obtains or attempts to obtain by extortion any property or money or any other thing of value belonging to, or in the care, custody, control, management, or possession of, any bank, credit union, or any savings and loan association; or
 
-Whoever enters or attempts to enter any bank, credit union, or any savings and loan association, or any building used in whole or in part as a bank, credit union, or as a savings and loan association, with intent to commit in such bank,credit union, or in such savings and loan association, or building, or part thereof, so used, any felony affecting such bank, credit union, or such savings and loan association and in violation of any statute of the United States, or any larceny—
+Whoever enters or attempts to enter any bank, credit union, or any savings and loan association, or any building used in whole or in part as a bank, credit union, or as a savings and loan association, with intent to commit in such bank, credit union, or in such savings and loan association, or building, or part thereof, so used, any felony affecting such bank, credit union, or such savings and loan association and in violation of any statute of the United States, or any larceny—
 
 Shall be fined under this title or imprisoned not more than twenty years, or both.
 
-(b) Whoever takes and carries away, with intent to steal or purloin, any property or money or any other thing of value exceeding $100 belonging to, or in the care, custody, control, management, or possession of any bank, credit union, or any savings and loan association, shall be fined under this title or imprisoned not more than ten years, or both; or
+(b) Whoever takes and carries away, with intent to steal or purloin, any property or money or any other thing of value exceeding $1,000 belonging to, or in the care, custody, control, management, or possession of any bank, credit union, or any savings and loan association, shall be fined under this title or imprisoned not more than ten years, or both; or
 
-Whoever takes and carries away, with intent to steal or purloin, any property or money or any other thing of value not exceeding $100 belonging to, or in the care, custody, control, management, or possession of any bank, credit union, or any savings and loan association, shall be fined not more than $1,000 or imprisoned not more than one year, or both.
+Whoever takes and carries away, with intent to steal or purloin, any property or money or any other thing of value not exceeding $1,000 belonging to, or in the care, custody, control, management, or possession of any bank, credit union, or any savings and loan association, shall be fined not more than $1,000 or imprisoned not more than one year, or both.
 
 (c) Whoever receives, possesses, conceals, stores, barters, sells, or disposes of, any property or money or other thing of value which has been taken or stolen from a bank, credit union, or savings and loan association in violation of subsection (b), knowing the same to be property which has been stolen shall be subject to the punishment provided in subsection (b) for the taker.
 
@@ -18,7 +18,7 @@ Whoever takes and carries away, with intent to steal or purloin, any property or
 
 (f) As used in this section the term “bank” means any member bank of the Federal Reserve System, and any bank, banking association, trust company, savings bank, or other banking institution organized or operating under the laws of the United States, including a branch or agency of a foreign bank (as such terms are defined in paragraphs (1) and (3) of section 1(b) of the International Banking Act of 1978), and any institution the deposits of which are insured by the Federal Deposit Insurance Corporation.
 
-(g) As used in this section the term “credit union” means any Federal credit union and any State-chartered credit union the accounts of which are insured by the National Credit Union Administration Board, and any “Federal credit union” as defined in section 2 of the Federal Credit Union Act.
+(g) As used in this section the term “credit union” means any Federal credit union and any State-chartered credit union the accounts of which are insured by the National Credit Union Administration Board, and any “Federal credit union” as defined in section 2 of the Federal Credit Union Act. The term “State-chartered credit union” includes a credit union chartered under the laws of a State of the United States, the District of Columbia, or any commonwealth, territory, or possession of the United States.
 
 (h) As used in this section, the term “savings and loan association” means—
 
@@ -26,7 +26,7 @@ Whoever takes and carries away, with intent to steal or purloin, any property or
 
 &emsp;(2) a corporation described in section 3(b)(1)(C) of the Federal Deposit Insurance Act (12 U.S.C. 1813(b)(1)(C)) that is operating under the laws of the United States.
 
-(June 25, 1948, ch. 645, 62 Stat. 796; Aug. 3, 1950, ch. 516, 64 Stat. 394; Apr. 8, 1952, ch. 164, 66 Stat. 46; Sept. 22, 1959, Pub. L. 86–354, §2, 73 Stat. 639; Oct. 19, 1970, Pub. L. 91–468, §8, 84 Stat. 1017; Oct. 12, 1984, Pub. L. 98–473, title II, §1106, 98 Stat. 2145; Nov. 10, 1986, Pub. L. 99–646, §68, 100 Stat. 3616; Aug. 9, 1989, Pub. L. 101–73, title IX, §962(a)(7), (d), 103 Stat. 502, 503; Nov. 29, 1990, Pub. L. 101–647, title XXV, §2597(<i>l</i>), 104 Stat. 4911; Sept. 13, 1994, Pub. L. 103–322, title VI, §60003(a)(9), title XXXII, §320608, title XXXIII, §330016(1)(K), (L), 108 Stat. 1969, 2120, 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 796; Aug. 3, 1950, ch. 516, 64 Stat. 394; Apr. 8, 1952, ch. 164, 66 Stat. 46; Sept. 22, 1959, Pub. L. 86–354, §2, 73 Stat. 639; Oct. 19, 1970, Pub. L. 91–468, §8, 84 Stat. 1017; Oct. 12, 1984, Pub. L. 98–473, title II, §1106, 98 Stat. 2145; Nov. 10, 1986, Pub. L. 99–646, §68, 100 Stat. 3616; Aug. 9, 1989, Pub. L. 101–73, title IX, §962(a)(7), (d), 103 Stat. 502, 503; Nov. 29, 1990, Pub. L. 101–647, title XXV, §2597(<i>l</i>), 104 Stat. 4911; Sept. 13, 1994, Pub. L. 103–322, title VI, §60003(a)(9), title XXXII, §320608, title XXXIII, §330016(1)(K), (L), 108 Stat. 1969, 2120, 2147; Oct. 11, 1996, Pub. L. 104–294, title VI, §§606(a), 607(d), 110 Stat. 3511.)
 
 #### Historical and Revision Notes
 
@@ -54,7 +54,11 @@ Section 2 of the Federal Credit Union Act, referred to in subsec. (g), is classi
 
 #### Amendments
 
-1994—Subsecs. (a), (b). Pub. L. 103–322, §330016(1)(K), substituted “fined under this title” for “fined not morethan $5,000” in last par. of subsec. (a) and first par. of subsec. (b).
+1996—Subsec. (b). Pub. L. 104–294, §606(a), substituted “exceeding $1,000” for “exceeding $100” in two places.
+
+Subsec. (g). Pub. L. 104–294, §607(d), inserted at end “The term ‘State-chartered credit union’ includes a credit union chartered under the laws of a State of the United States, the District of Columbia, or any commonwealth, territory, or possession of the United States.”
+
+1994—Subsecs. (a), (b). Pub. L. 103–322, §330016(1)(K), substituted “fined under this title” for “fined not more than $5,000” in last par. of subsec. (a) and first par. of subsec. (b).
 
 Subsec. (d). Pub. L. 103–322, §330016(1)(L), substituted “fined under this title” for “fined not more than $10,000”.
 

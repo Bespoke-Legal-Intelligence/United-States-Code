@@ -6,7 +6,9 @@ The enactment of the Act of October 17, 1978 (Public Law 95–473, 92 Stat. 1337
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

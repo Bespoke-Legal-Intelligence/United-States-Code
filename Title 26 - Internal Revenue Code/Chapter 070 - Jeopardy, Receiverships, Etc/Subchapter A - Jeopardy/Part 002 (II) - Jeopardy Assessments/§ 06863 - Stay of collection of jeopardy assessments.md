@@ -78,7 +78,7 @@ Subsec. (b)(3)(A). Pub. L. 94–455, §1204(c)(8), substituted “an assessment 
 
 Subsec. (b)(3)(B)(ii). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
-Subsec. (b)(3)(C). Pub. L. 94–455, §1906(a)(38), struck out subpar. (C) which had limited the applicability ofsubpars. (A) and (B) to jeopardy assessments made on or after Jan. 1, 1955, with respect to taxes imposed by this title, and with respect to taxes imposed by the Internal Revenue Code of 1939.
+Subsec. (b)(3)(C). Pub. L. 94–455, §1906(a)(38), struck out subpar. (C) which had limited the applicability of subpars. (A) and (B) to jeopardy assessments made on or after Jan. 1, 1955, with respect to taxes imposed by this title, and with respect to taxes imposed by the Internal Revenue Code of 1939.
 
 Subsec. (c). Pub. L. 94–455, §1204(c)(9), added subsec. (c).
 

@@ -9,7 +9,7 @@
 | [335\.](%C2%A7%2000335%20-%20Extension%20of%20provisions%20as%20to%20allotments.md) | Extension of provisions as to allotments. |
 | [336\.](%C2%A7%2000336%20-%20Allotments%20to%20Indians%20making%20settlement.md) | Allotments to Indians making settlement. |
 | [337\.](%C2%A7%2000337%20-%20Allotments%20in%20national%20forests.md) | Allotments in national forests. |
-| 337a, 338. Repealed. |  |
+| 337a, 338. | Repealed. |
 | [339\.](%C2%A7%2000339%20-%20Tribes%20excepted%20from%20certain%20provisions.md) | Tribes excepted from certain provisions. |
 | [340\.](%C2%A7%2000340%20-%20Extension%20of%20certain%20provisions.md) | Extension of certain provisions. |
 | [341\.](%C2%A7%2000341%20-%20Power%20to%20grant%20rights-of-way%20not%20affected.md) | Power to grant rights-of-way not affected. |

@@ -7,7 +7,7 @@
 | [953\.](%C2%A7%2000953%20-%20Private%20correspondence%20with%20foreign%20governments.md) | Private correspondence with foreign governments. |
 | [954\.](%C2%A7%2000954%20-%20False%20statements%20influencing%20foreign%20government.md) | False statements influencing foreign government. |
 | [955\.](%C2%A7%2000955%20-%20Financial%20transactions%20with%20foreign%20governments.md) | Financial transactions with foreign governments. |
-| [956\.](%C2%A7%2000956%20-%20Conspiracy%20to%20injure%20property%20of%20foreign%20government.md) | Conspiracy to injure property of foreign government. |
+| [956\.](%C2%A7%2000956%20-%20Conspiracy%20to%20kill%2C%20kidnap%2C%20maim%2C%20or%20injure%20persons%20or%20damage%20property%20in%20a%20foreign%20country.md) | Conspiracy to kill, kidnap, maim, or injure persons or damage property in a foreign country. |
 | [957\.](%C2%A7%2000957%20-%20Possession%20of%20property%20in%20aid%20of%20foreign%20government.md) | Possession of property in aid of foreign government. |
 | [958\.](%C2%A7%2000958%20-%20Commission%20to%20serve%20against%20friendly%20nation.md) | Commission to serve against friendly nation. |
 | [959\.](%C2%A7%2000959%20-%20Enlistment%20in%20foreign%20service.md) | Enlistment in foreign service. |
@@ -19,22 +19,18 @@
 | [965\.](%C2%A7%2000965%20-%20Verified%20statements%20as%20prerequisite%20to%20vessel%27s%20departure.md) | Verified statements as prerequisite to vessel's departure. |
 | [966\.](%C2%A7%2000966%20-%20Departure%20of%20vessel%20forbidden%20for%20false%20statements.md) | Departure of vessel forbidden for false statements. |
 | [967\.](%C2%A7%2000967%20-%20Departure%20of%20vessel%20forbidden%20in%20aid%20of%20neutrality.md) | Departure of vessel forbidden in aid of neutrality. |
-| \[968, 969. Repealed.\] |  |
+| \[968, 969. | Repealed.\] |
 | [970\.](%C2%A7%2000970%20-%20Protection%20of%20property%20occupied%20by%20foreign%20governments.md) | Protection of property occupied by foreign governments. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
 
+1996—Pub. L. 104–132, title VII, §704(b), Apr. 24, 1996, 110 Stat. 1295, substituted “Conspiracy to kill, kidnap, maim, or injure persons or damage property in a foreign country” for “Conspiracy to injure property of foreign government” in item 956.
+
 1990—Pub. L. 101–647, title XII, §1207(a), title XXXV, §3530, Nov. 29, 1990, 104 Stat. 4832, 4924, struck out item 968 “Exportation of war materials to certain countries” and item 969 “Exportation of arms, liquors and narcotics to Pacific Islands”.
 
 1972—Pub. L. 92–539, title IV, §402, Oct. 24, 1972, 86 Stat. 1073, added item 970.
-
-<i><sup>1</sup></i><i> So in original. Probably should be subsection “(d).”</i>
-
-<i><sup>2</sup></i><i> So in original. Two subsecs. (g) have been enacted.</i>
-
-<i><sup>3</sup></i><i> So in original. Probably should be “(e)”.</i>
 
 
 ---
@@ -46,7 +42,7 @@
 - [&sect; 00953 - Private correspondence with foreign governments](%C2%A7%2000953%20-%20Private%20correspondence%20with%20foreign%20governments.md)
 - [&sect; 00954 - False statements influencing foreign government](%C2%A7%2000954%20-%20False%20statements%20influencing%20foreign%20government.md)
 - [&sect; 00955 - Financial transactions with foreign governments](%C2%A7%2000955%20-%20Financial%20transactions%20with%20foreign%20governments.md)
-- [&sect; 00956 - Conspiracy to injure property of foreign government](%C2%A7%2000956%20-%20Conspiracy%20to%20injure%20property%20of%20foreign%20government.md)
+- [&sect; 00956 - Conspiracy to kill, kidnap, maim, or injure persons or damage property in a foreign country](%C2%A7%2000956%20-%20Conspiracy%20to%20kill%2C%20kidnap%2C%20maim%2C%20or%20injure%20persons%20or%20damage%20property%20in%20a%20foreign%20country.md)
 - [&sect; 00957 - Possession of property in aid of foreign government](%C2%A7%2000957%20-%20Possession%20of%20property%20in%20aid%20of%20foreign%20government.md)
 - [&sect; 00958 - Commission to serve against friendly nation](%C2%A7%2000958%20-%20Commission%20to%20serve%20against%20friendly%20nation.md)
 - [&sect; 00959 - Enlistment in foreign service](%C2%A7%2000959%20-%20Enlistment%20in%20foreign%20service.md)

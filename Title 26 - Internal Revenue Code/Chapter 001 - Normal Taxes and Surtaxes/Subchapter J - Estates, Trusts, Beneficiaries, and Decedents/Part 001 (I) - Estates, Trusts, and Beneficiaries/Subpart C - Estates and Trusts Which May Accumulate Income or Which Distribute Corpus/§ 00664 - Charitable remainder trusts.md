@@ -50,7 +50,7 @@ A charitable remainder annuity trust and a charitable remainder unitrust shall, 
 
 &emsp;&emsp;(A) the amount of the trust income, if such amount is less than the amount required to be distributed under paragraph (2)(A), and
 
-&emsp;&emsp;(B) any amount of the trust income which is in excess of the amount required to be distributed under paragraph (2)(A), to the extent that (by reason of subparagraph (A)) the aggregate of the amounts paid in prior yearswas less than the aggregate of such required amounts.
+&emsp;&emsp;(B) any amount of the trust income which is in excess of the amount required to be distributed under paragraph (2)(A), to the extent that (by reason of subparagraph (A)) the aggregate of the amounts paid in prior years was less than the aggregate of such required amounts.
 
 #### (e) Valuation for purposes of charitable contribution
 
@@ -60,7 +60,7 @@ For purposes of determining the amount of any charitable contribution, the remai
 
 #### (1) General rule
 
-&emsp;If a trust would, but for a qualified contingency, meet the requirements of paragraph (1)(A) or (2)(A) of subsection (d), such trust shall be treated as meeting such requirements.
+&emsp;If a trust would, but for a qualified contingency, meet the requirements of paragraph\(1)(A) or (2)(A) of subsection (d), such trust shall be treated as meeting such requirements.
 
 #### (2) Value determined without regard to qualified contingency
 

@@ -30,29 +30,49 @@ The contracting officer's decision on the claim shall be final and conclusive an
 
 #### (d) Alternative means of dispute resolution
 
-Notwithstanding any other provision of this chapter, a contractor and a contracting officer may use any alternative means of dispute resolution under subchapter IV of chapter 5 of title 5, or other mutually agreeable procedures, for resolving claims. In a case in which such alternative means of dispute resolution or other mutually agreeable procedures are used, the contractor shall certify that the claim is made in good faith, that the supporting data are accurate and complete to the best of his or her knowledge and belief, and that the amount requested accurately reflects the contract adjustment for which the contractor believes the Government is liable. All provisions of subchapter IV of chapter 5 of title 5, shall apply to such alternative means of dispute resolution.
+Notwithstanding any other provision of this chapter, a contractor and a contracting officer may use any alternative means of dispute resolution under subchapter IV of chapter 5 of title 5 (as in effect on September 30, 1995), or other mutually agreeable procedures, for resolving claims. The contractor shall certify the claim when required to do so as provided under subsection (c)(1) of this section or as otherwise required by law. All provisions of subchapter IV of chapter 5 of title 5 (as in effect on September 30, 1995) shall apply to such alternative means of dispute resolution.
 
 #### (e) Termination of authority to engage in alternative means of dispute resolution; savings provision
 
-The authority of agencies to engage in alternative means of dispute resolution proceedings under subsection (d) of this section shall cease to be effective on October 1, 1999, except that such authority shall continue in effect with respect to then pending dispute resolution proceedings which, in the judgment of the agencies that are parties to such proceedings, require such continuation, until such proceedings terminate. In any case in which the contracting officer rejects a contractor's request for alternative dispute resolution proceedings, the contracting officer shall provide the contractor with a written explanation, citing one or more of the conditions in section 572(b) of title 5 or such other specific reasons that alternative dispute resolution procedures are inappropriate for the resolution of the dispute. In any case in which a contractor rejects a request of an agency for alternative dispute resolution proceedings, the contractor shall inform the agency in writing of the contractor's specific reasons for rejecting the request.
+In any case in which the contracting officer rejects a contractor's request for alternative dispute resolution proceedings, the contracting officer shall provide the contractor with a written explanation, citing one or more of the conditions in section 572(b) of title 5 (as in effect onSeptember 30, 1995) or such other specific reasons that alternative dispute resolution procedures are inappropriate for the resolution of the dispute. In any case in which a contractor rejects a request of an agency for alternative dispute resolution proceedings, the contractor shall inform the agency in writing of the contractor's specific reasons for rejecting the request.
 
-(Pub. L. 95–563, §6, Nov. 1, 1978, 92 Stat. 2384; Pub. L. 101–552, §6(a), Nov. 15, 1990, 104 Stat. 2745; Pub. L. 102–572, title IX, §907(a)(1), Oct. 29, 1992, 106 Stat. 4518; Pub. L. 103–355, title II, §§2351(a)\[(1)\], (b), (e), 2352, Oct. 13, 1994, 108 Stat. 3322.)
+(Pub. L. 95–563, §6, Nov. 1, 1978, 92 Stat. 2384; Pub. L. 101–552, §6(a), Nov. 15, 1990, 104 Stat. 2745; Pub. L. 102–572, title IX, §907(a)(1), Oct. 29, 1992, 106 Stat. 4518; Pub. L. 103–355, title II, §§2351(a)\[(1)\], (b), (e), 2352, Oct. 13, 1994, 108 Stat. 3322; Pub. L. 104–106, div. D, title XLIII, §§4321(a)(6), (7), 4322(b)(6), Feb. 10, 1996, 110 Stat. 671, 677; Pub. L. 104–320, §6, Oct. 19, 1996, 110 Stat. 3871.)
 
 #### Amendments
 
-1994—Subsec. (a). Pub. L. 103–355, §2351(a)\[(1)\], inserted after second sentence “Each claim by a contractor against the government relating to a contract and each claim by the government against a contractor relating to a contract shall be submitted within 6 years after the accrual of the claim. The preceding sentence does not apply to a claim by the government against a contractor that is based on a claim by the contractor involving fraud.”
+1996—Subsec. (a). Pub. L. 104–106, §4321(a)(6), made technical correction to Pub. L. 103–355, §2351(a). See 1994 Amendment note below.
+
+Subsec. (d). Pub. L. 104–320, §6(1), substituted “The contractor shall certify the claim when required to do so as provided under subsection (c)(1) of this section or as otherwise required by law.” for “In a case in which such alternative means of dispute resolution or other mutually agreeable procedures are used, the contractor shall certify that the claim is made in good faith, that the supporting data are accurate and complete to the best of his or her knowledge and belief, and that the amount requested accurately reflects the contract adjustment for which the contractor believes the Government is liable.”
+
+Pub. L. 104–106, §4322(b)(6), inserted “(as in effect on September 30, 1995)” after “title 5” in two places.
+
+Subsec. (e). Pub. L. 104–320, §6(2), struck out first sentence which read as follows: “The authority of agencies to engage in alternative means of dispute resolution proceedings under subsection (d) of this section shall cease to be effective on October 1, 1999, except that such authority shall continue in effect with respect to then pending dispute resolution proceedings which, in the judgment of the agencies that are parties to such proceedings, require such continuation, until such proceedings terminate.”
+
+Pub. L. 104–106, §4322(b)(6), inserted “(as in effect on September 30, 1995)” after “title 5”.
+
+Pub. L. 104–106, §4321(a)(7), made technical amendment to Pub. L. 103–355, §2352(b). See 1994 Amendment note below.
+
+1994—Subsec. (a). Pub. L. 103–355, §2351(a)(1), as amended by Pub. L. 104–106, §4321(a)(6), inserted after second sentence “Each claim by a contractor against the government relating to a contract and each claim by the government against a contractor relating to a contract shall be submitted within 6 years after the accrual of the claim. The preceding sentence does not apply to a claim by the government against a contractor that is based on a claim by the contractor involving fraud.”
 
 Subsec. (c). Pub. L. 103–355, §2351(b), substituted “$100,000” for “$50,000” wherever appearing.
 
 Subsec. (c)(4). Pub. L. 103–355, §2351(e), substituted “tribunal concerned” for “agency board of contract appeals” and “tribunal concerned,” for “board,”.
 
-Subsec. (e). Pub. L. 103–355, §2352, substituted “October 1, 1999” for “October 1, 1995” and inserted after first sentence “In any case in which the contracting officer rejects a contractor's request for alternative dispute resolution proceedings, the contracting officer shall provide the contractor with a written explanation, citing one or more of the conditions in section 572(b) of title 5 or such other specific reasons that alternative dispute resolution procedures are inappropriate for the resolution of the dispute. In any case in which a contractor rejects a request of an agency for alternative dispute resolution proceedings, the contractor shall inform the agency in writing of the contractor's specific reasons for rejecting the request.”
+Subsec. (e). Pub. L. 103–355, §2352(b), as amended by Pub. L. 104–106, §4321(a)(7), inserted after first sentence “In any case in which the contracting officer rejects a contractor's request for alternative dispute resolution proceedings, the contracting officer shall provide the contractor with a written explanation, citing one or more of the conditions in section 572(b) of title 5 or such other specific reasons that alternative dispute resolution procedures are inappropriate for the resolution of the dispute. In any case in which a contractor rejects a request of an agency for alternative dispute resolution proceedings, the contractor shall inform the agency in writing of the contractor's specific reasons for rejecting the request.”
+
+Pub. L. 103–355, §2352(a), substituted “October 1, 1999” for “October 1, 1995”.
 
 1992—Subsec. (c)(1). Pub. L. 102–572, §907(a)(1)(A), struck out “and” after “belief,” and inserted before period at end “, and that the certifier is duly authorized to certify the claim on behalf of the contractor”.
 
 Subsec. (c)(6), (7). Pub. L. 102–572, §907(a)(1)(B), added pars. (6) and (7).
 
 1990—Subsecs. (d), (e). Pub. L. 101–552 added subsecs. (d) and (e).
+
+#### Effective Date of 1996 Amendment
+
+Section 4321(a) of Pub. L. 104–106 provided that the amendment made by that section is effective as of Oct. 13, 1994, and as if included in Pub. L. 103–355 as enacted.
+
+For effective date and applicability of amendment by section 4322(b)(6) of Pub. L. 104–106, see section 4401 of Pub. L. 104–106, set out as a note under section 251 of this title.
 
 #### Effective Date of 1994 Amendment
 
@@ -63,10 +83,6 @@ For effective date and applicability of amendment by Pub. L. 103–355, see sect
 Section 907(a)(2) of Pub. L. 102–572 provided that: “The amendment made by paragraph (1)(B) \[amending this section\] shall be effective with respect to all claims filed before, on, or after the date of the enactment of this Act \[Oct. 29, 1992\], except for those claims which, before such date of enactment, have been the subject of an appeal to an agency board of contract appeals or a suit in the United States Claims Court.”
 
 Section 907(a)(4) of Pub. L. 102–572 provided that: “The amendments made by paragraph (1)(A) \[amending this section\] shall be effective with respect to certifications executed more than 60 days after the effective date of amendments to the Federal Acquisition Regulation implementing the amendments made by paragraph (1)(A) with respect to the certification of claims.” \[For effective date of implementing regulations, see 59 F.R. 11368, Mar. 10, 1994.\]
-
-#### Termination Date of 1990 Amendment; Savings Provision
-
-For termination Oct. 1, 1995, of authority of agencies to use dispute resolution proceedings, with exceptions, under amendments by Pub. L. 101–552, see section 11 of Pub. L. 101–552, set out as a Termination Date; Savings Provision note under section 571 of Title 5, Government Organization and Employees.
 
 #### Effect of Contract Provisions Providing for Submission of Claims Earlier Than Six Years After Accrual
 

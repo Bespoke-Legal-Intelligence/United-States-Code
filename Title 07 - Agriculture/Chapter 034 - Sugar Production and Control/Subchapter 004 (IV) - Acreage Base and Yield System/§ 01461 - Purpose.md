@@ -24,3 +24,7 @@ Amendment by Pub. L. 101–624 effective beginning with 1991 crop of an agricult
 
 Section 1031 of Pub. L. 99–198 provided that this subchapter is effective for 1986 through 1990 crops of wheat, feed grains, upland cotton, and rice.
 
+#### Inapplicability of Section
+
+Section inapplicable to 1996 through 2002 crops of loan commodities, peanuts, and sugar and inapplicable to milk during period beginning Apr. 4, 1996, and ending Dec. 31, 2002, see section 7301(b)(1)(K) of this title.
+

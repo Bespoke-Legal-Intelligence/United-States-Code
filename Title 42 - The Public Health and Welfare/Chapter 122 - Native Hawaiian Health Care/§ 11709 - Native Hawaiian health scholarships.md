@@ -4,7 +4,7 @@
 
 Subject to the availability of funds appropriated under the authority of subsection (c) of this section, the Secretary shall provide funds through a direct grant or a cooperative agreement to Kamehameha School/Bishop Estate for the purpose of providing scholarship assistance to students who—
 
-&emsp;(1) meet the requirements of section 254b of this title, and
+&emsp;(1) meet the requirements of section 254b <sup>1</sup> of this title, and
 
 &emsp;(2) are Native Hawaiians.
 
@@ -28,6 +28,10 @@ There are authorized to be appropriated such sums as may be necessary for fiscal
 
 (Pub. L. 100–579, §10, as added Pub. L. 102–396, title IX, §9168, Oct. 6, 1992, 106 Stat. 1948.)
 
+#### References in Text
+
+Section 254b of this title, referred to in subsec. (a)(1), was in the original a reference to section 329 of the Public Health Service Act, act July 1, 1944, which was omitted in the general amendment of subpart I (§254b et seq.) of part D of subchapter II of chapter 6A of this title by Pub. L. 104–299, §2, Oct. 11, 1996, 110 Stat. 3626. Section 2 of Pub. L. 104–299 enacted a new section 330 of act July 1, 1944, which is classified to section 254b of this title.
+
 #### Codification
 
 Section enacted by section 1 of S. 2681, One Hundred Second Congress, as passed by the Senate on Aug. 7, 1992, which was enacted into law by section 9168 of Pub. L. 102–396. Section 9168, which referred to S. 2681, as passed by the Senate on “September 12, 1992”, has been treated as referring to S. 2681, as passed by the Senate on Aug. 7, 1992, to reflect the probable intent of Congress.
@@ -37,4 +41,6 @@ Section enacted by section 1 of S. 2681, One Hundred Second Congress, as passed 
 A prior section 11709, Pub. L. 100–579, §11, Oct. 31, 1988, 102 Stat. 2923; Pub. L. 100–690, title II, §2311, Nov. 18, 1988, 102 Stat. 4229, which related to compliance with Budget Act, was amended generally by Pub. L. 102–396, title IX, §9168, Oct. 6, 1992, 106 Stat. 1948, and transferred to section 11710 of this title.
 
 A prior section 10 of Pub. L. 100–579 repealed section 1621d of Title 25, Indians.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

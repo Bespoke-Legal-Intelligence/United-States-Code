@@ -20,7 +20,7 @@
 
 (b) The Secretary shall maintain the five grade levels for nurses employed by the Department under section 7401(1) of this title as specified in the Nurse Schedule in section 7404(b) of this title. The Secretary shall, pursuant to regulations prescribed to carry out this subchapter, establish grades for other covered positions as the Secretary considers appropriate.
 
-(c)(1) For each grade in a covered position, there shall be a range of basic pay. The maximum rate of basic pay for a grade shall be 133 percent of the minimum rate of basic pay for the grade, except that, if the Secretary determines that a higher maximum rate is necessary with respect to any such grade in order to recruit and retain a sufficient number of high-quality health-care personnel, the Secretary may raise the maximum rate of basic pay for that grade to a rate not in excess of 175 percent of the minimum rate of basic pay for the grade. Whenever the Secretary exercises the authority under the preceding sentence to establish the maximum rate of basic pay at a rate in excess of 133 percent of the minimum rate for that grade, the Secretary shall, in the next annual report required by subsection (g), provide justification for doing so to the Committees on Veterans’ Affairs of the Senate and House of Representatives.
+(c)(1) For each grade in a covered position, there shall be a range of basic pay. The maximum rate of basic pay for a grade shall be 133 percent of the minimum rate of basic pay for the grade, except that, if the Secretary determines that a higher maximum rate is necessary with respect to any such grade in order to recruit and retain a sufficient number of high-quality health-care personnel, the Secretary may raise the maximum rate of basic pay for that grade to a rate not in excess of 175 percent of the minimum rate of basic pay for the grade. Whenever the Secretary exercises the authority under thepreceding sentence to establish the maximum rate of basic pay at a rate in excess of 133 percent of the minimum rate for that grade, the Secretary shall, in the next annual report required by subsection (g), provide justification for doing so to the Committees on Veterans’ Affairs of the Senate and House of Representatives.
 
 (2) The maximum rate of basic pay for any grade for a covered position may not exceed the maximum rate of basic pay established for positions in level V of the Executive Schedule under section 5316 of title 5.
 
@@ -48,7 +48,7 @@
 
 (ii) For the purposes of this subparagraph, certified registered nurse anesthetists who are so employed by such entities shall be deemed to be corresponding health-care professionals to the certified registered nurse anesthetists employed by the facility.
 
-(iii) The authority of the director to use such additional data under this subparagraph with respect to certified registered nurse anesthetists expires on April 1, 1995.
+(iii) The authority of the director to use such additional data under this subparagraph with respect to certified registered nurse anesthetists expires on January 1, 1998.
 
 (D) The Under Secretary for Health shall prescribe regulations providing for the adjustment of the rates of basic pay for Regional and Central Office employees in covered positions in order to assure that those rates are sufficient and competitive.
 
@@ -56,7 +56,7 @@
 
 (4) If the director of a Department health-care facility, or the Under Secretary for Health with respect to Regional and Central Office employees, determines, after any survey under paragraph (3)(B) or at any other time that an adjustment in rates of pay is scheduled to take place under this subsection, that it is not necessary to adjust the rates of basic pay for employees in a grade of a covered position at that facility in order to carry out the purpose of this section, such an adjustment for employees at that facility in that grade shall not be made. Whenever a director makes such a determination, the director shall within 10 days notify the Under Secretary for Health of the decision and the reasons for the decision.
 
-(5) Information collected by the Department in surveys conducted under this subsection isnot subject to disclosure under section 552 of title 5.
+(5) Information collected by the Department in surveys conducted under this subsection is not subject to disclosure under section 552 of title 5.
 
 (6) In this subsection—
 
@@ -96,13 +96,15 @@
 
 (h) For the purposes of this section, the term “health-care facility” means a medical center, an independent outpatient clinic, or an independent domiciliary facility.
 
-(Added Pub. L. 101–366, title I, §102(b), Aug. 15, 1990, 104 Stat. 431, §4141; renumbered §7451 and amended Pub. L. 102–40, title III, §301(b), (c), title IV, §401(c)(1)(A), (2), May 7, 1991, 105 Stat. 208, 238; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 102–585, title III, §§301(b)–303, 304(b), 307, Nov. 4, 1992, 106 Stat. 4951–4953; Pub. L. 103–446, title XII, §1201(c)(7), (e)(23), Nov. 2, 1994, 108 Stat. 4684, 4686.)
+(Added Pub. L. 101–366, title I, §102(b), Aug. 15, 1990, 104 Stat. 431, §4141; renumbered §7451 and amended Pub. L. 102–40, title III, §301(b), (c), title IV, §401(c)(1)(A), (2), May 7, 1991, 105 Stat. 208, 238; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 102–585, title III, §§301(b)–303, 304(b), 307, Nov. 4, 1992, 106 Stat. 4951–4953; Pub. L. 103–446, title XII, §1201(c)(7), (e)(23), Nov. 2, 1994, 108 Stat. 4684, 4686; Pub. L. 104–110, title I, §101(i), Feb. 13, 1996, 110 Stat. 768.)
 
 #### References in Text
 
 The General Schedule, referred to in subsec. (d)(1)(A), is set out under section 5332 of Title 5, Government Organization and Employees.
 
 #### Amendments
+
+1996—Subsec. (d)(3)(C)(iii). Pub. L. 104–110 substituted “January 1, 1998” for “April 1, 1995”.
 
 1994—Subsec. (d)(3)(C)(i)(I). Pub. L. 103–446, §1201(e)(23), substituted “labor-market area” for “labor market area”.
 
@@ -176,6 +178,10 @@ New Pay Rates.—The rates of basic pay established pursuant to section 4141 \[n
 
 Section 301(a) of Pub. L. 102–40 provided that: “Physician assistants and expanded-function dental auxiliaries shall continue to be paid after August 14, 1990, according to the Nurse Schedule in section 4107(b) of title 38 \[former section 4107(b) of this title\], United States Code, as in effect on August 14, 1990, until the effective date of a determination by the Secretary to convert those occupations to ‘covered positions’ and pay them pursuant to section 7451 of such title, as redesignated by section 401(c).”
 
+#### Ratification of Actions During Period of Expired Authority
+
+Any action taken by Secretary of Veterans Affairs before Feb. 13, 1996, under provision of law amended by title I of Pub. L. 104–110 that was taken during period beginning on date on which authority of Secretary under such provision of law expired and ending on Feb. 13, 1996, considered to have same force and effect as if such amendment had been in effect at time of that action, see section 103 of Pub. L. 104–110, set out as a note under section 1710 of this title.
+
 #### Nursing Personnel Qualification Standards
 
 Section 305 of Pub. L. 102–585 provided that:
@@ -212,7 +218,7 @@ Review.—The Secretary of Veterans Affairs shall conduct a review of—
 
 “(b)
 
-Report.—The Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on the review and assessment conducted under subsection (a). To the extent that the review discloses difficulties in obtaining accurate data in the survey process with respect to the Chief Nurse position at Department facilities, the Secretary shall include in the report recommendations for corrective action. The Secretary shall also include inthe report (1) a listing of the salary differential (expressed as a percentage) between the Chief Nurse at a facility and the highest paid nurse (excluding certified registered nurse anesthetists) serving in a position subordinate to the Chief Nurse, and (2) an analysis of such data. The report shall be submitted not later than 12 months after the date of the enactment of this Act \[Nov. 4, 1992\].”
+Report.—The Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on the review and assessment conducted under subsection (a). To the extent that the review discloses difficulties in obtaining accurate data in the survey process with respect to the Chief Nurse position at Department facilities, the Secretary shall include in the report recommendations for corrective action. The Secretary shall also include in the report (1) a listing of the salary differential (expressed as a percentage) between the Chief Nurse at a facility and the highest paid nurse (excluding certified registered nurse anesthetists) serving in a position subordinate to the Chief Nurse, and (2) an analysis of such data. The report shall be submitted not later than 12 months after the date of the enactment of this Act \[Nov. 4, 1992\].”
 
 #### Section Referred to in Other Sections
 

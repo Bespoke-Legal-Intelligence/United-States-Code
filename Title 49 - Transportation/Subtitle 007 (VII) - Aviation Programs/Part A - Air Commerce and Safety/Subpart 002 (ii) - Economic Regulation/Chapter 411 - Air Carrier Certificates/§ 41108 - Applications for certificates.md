@@ -18,7 +18,7 @@ Notice, Response, and Actions on Applications.—(1) When an application is file
 
 &emsp;(C) dismiss the application on its merits.
 
-(2) An order of dismissal issued by the Secretary under paragraph (1)(C) of this subsection is a final order and may be reviewed judicially under section 46110 of this title.
+(2) An order of dismissal issued by the Secretary under paragraph (1)(C) of this subsectionis a final order and may be reviewed judicially under section 46110 of this title.
 
 (3) If the Secretary provides an opportunity for a hearing under paragraph (1)(A) of this subsection, an initial or recommended decision shall be issued not later than 150 days after the date the Secretary provides the opportunity. The Secretary shall issue a final order on the application not later than 90 days after the decision is issued. However, if the Secretary does not act within the 90-day period, the initial or recommended decision on an application to provide—
 
@@ -40,7 +40,9 @@ Proof Requirements.—(1) A citizen applying for a certificate must prove that t
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -54,7 +56,7 @@ Aug. 23, 1958, Pub. L. 85–726, §401(b), 72 Stat. 754; Oct. 24, 1978, Pub. L. 
 
 &nbsp;
 
-49 App.:1551(b) (1)(E).
+49 App.:1551(b)(1)(E).
 
 Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1601(b)(1)(E); added Oct. 4, 1984, Pub. L. 98–443, §3(e), 98 Stat. 1704.
 
@@ -66,7 +68,7 @@ Aug. 23, 1958, Pub. L. 85–726, 401(c), 72 Stat. 754; restated Oct. 24, 1978, P
 
 &nbsp;
 
-49 App.:1551(b) (1)(E).
+49 App.:1551(b)(1)(E).
 
 41108(c)
 
@@ -76,7 +78,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §401(d)(9); added Oct. 24, 1978,
 
 &nbsp;
 
-49 App.:1551(b) (1)(E).
+49 App.:1551(b)(1)(E).
 
 In subsection (a), the words “of public convenience and necessity under section 41102 of this title” are added for clarity.
 
@@ -86,7 +88,7 @@ In subsection (b)(2), the words “An order of dismissal issued by the Secretary
 
 In subsection (b)(3), before clause (A), the words “If the Secretary provides an opportunity for a hearing under paragraph (1)(A) of this subsection” are substituted for “If the Board determines that any application should be set for a public hearing under clause (A) of the second sentence of paragraph (1) of this subsection” to eliminate unnecessary words. The words “provides the opportunity” are substituted for “of such determination” for clarity. The words “for a certificate” are omitted as surplus. The words “to provide” are substituted for “to engage in” for consistency in the revised title.
 
-In subsection (b)(4), the words “If the Secretary acts under paragraph (1)(B) of this subsection” are added for clarity. The words “after beginning the procedure onthe application” are substituted for “after the Board begins to make a determination with respect to an application under the simplified procedures established by the Board in regulations pursuant to subsection (p) of this section” to eliminate unnecessary words.
+In subsection (b)(4), the words “If the Secretary acts under paragraph (1)(B) of this subsection” are added for clarity. The words “after beginning the procedure on the application” are substituted for “after the Board begins to make a determination with respect to an application under the simplified procedures established by the Board in regulations pursuant to subsection (p) of this section” to eliminate unnecessary words.
 
 In subsection (b)(5), the word “particular” is omitted as surplus. The words “by order” are omitted as surplus because of 5:ch. 5, subch. II.
 

@@ -1,14 +1,14 @@
 ### §4324. Enforcement of rights with respect to Federal executive agencies
 
-(a)(1) A person who receives from the Secretary a notification pursuant to section 4322(e) of an unsuccessful effort to resolve a complaint relating to a Federal executive agency may request that the Secretary refer the complaint for litigation before the Merit Systems Protection Board. The Secretary shall refer the complaint to the Office of Special Counsel established by section 1211 of title 5.
+(a)(1) A person who receives from the Secretary a notification pursuant to section 4322(e) may request that the Secretary refer the complaint for litigation before the Merit Systems Protection Board. The Secretary shall refer the complaint to the Office of Special Counsel established by section 1211 of title 5.
 
 (2)(A) If the Special Counsel is reasonably satisfied that the person on whose behalf a complaint is referred under paragraph (1) is entitled to the rights or benefits sought, the Special Counsel (upon the request of the person submitting the complaint) may appear on behalf of, and act as attorney for, the person and initiate an action regarding such complaint before the Merit Systems Protection Board.
 
 (B) If the Special Counsel declines to initiate an action and represent a person before the Merit Systems Protection Board under subparagraph (A), the Special Counsel shall notify such person of that decision.
 
-(b) A person may submit a complaint against a Federal executive agency under this subchapter directly to the Merit Systems Protection Board if that person—
+(b) A person may submit a complaint against a Federal executive agency or the Office of Personnel Management under this subchapter directly to the Merit Systems Protection Board if that person—
 
-&emsp;(1) has chosen not to apply to the Secretary for assistance regarding a complaint under section 4322(c);
+&emsp;(1) has chosen not to apply to the Secretary for assistance under section 4322(a);
 
 &emsp;(2) has received a notification from the Secretary under section 4322(e);
 
@@ -16,9 +16,9 @@
 
 &emsp;(4) has received a notification of a decision from the Special Counsel under subsection (a)(2)(B).
 
-(c)(1) The Merit Systems Protection Board shall adjudicate any complaint brought beforethe Board pursuant to subsection (a)(2)(A) or (b). A person who seeks a hearing or adjudication by submitting such a complaint under this paragraph may be represented at such hearing or adjudication in accordance with the rules of the Board.
+(c)(1) The Merit Systems Protection Board shall adjudicate any complaint brought before the Board pursuant to subsection (a)(2)(A) or (b). A person who seeks a hearing or adjudication by submitting such a complaint under this paragraph may be represented at such hearing or adjudication in accordance with the rules of the Board.
 
-(2) If the Board determines that a Federal executive agency has not complied with the provisions of this chapter relating to the employment or reemployment of a person by the agency, the Board shall enter an order requiring the agency or employee to comply with such provisions and to compensate such person for any loss of wages or benefits suffered by such person by reason of such lack of compliance.
+(2) If the Board determines that a Federal executive agency or the Office of Personnel Management has not complied with the provisions of this chapter relating to the employment or reemployment of a person by the agency, the Board shall enter an order requiring the agency or Office to comply with such provisions and to compensate such person for any loss of wages or benefits suffered by such person by reason of such lack of compliance.
 
 (3) Any compensation received by a person pursuant to an order under paragraph (2) shall be in addition to any other right or benefit provided for by this chapter and shall not diminish any such right or benefit.
 
@@ -28,11 +28,25 @@
 
 (2) Such person may be represented in the Federal Circuit proceeding by the Special Counsel unless the person was not represented by the Special Counsel before the Merit Systems Protection Board regarding such order or decision.
 
-(Added Pub. L. 103–353, §2(a), Oct. 13, 1994, 108 Stat. 3166.)
+(Added Pub. L. 103–353, §2(a), Oct. 13, 1994, 108 Stat. 3166; amended Pub. L. 104–275, title III, §311(11), Oct. 9, 1996, 110 Stat. 3336.)
 
 #### Prior Provisions
 
 A prior section 4324 was renumbered section 7624 of this title.
+
+#### Amendments
+
+1996—Subsec. (a)(1). Pub. L. 104–275, §311(11)(A), struck out “of an unsuccessful effort to resolve a complaint relating to a Federal executive agency” after “notification pursuant to section 4322(e)”.
+
+Subsec. (b). Pub. L. 104–275, §311(11)(B)(i), inserted “or the Office of Personnel Management” after “Federal executive agency” in introductory provisions.
+
+Subsec. (b)(1). Pub. L. 104–275, §311(11)(B)(ii), substituted “under section 4322(a)” for “regarding a complaint under section 4322(c)”.
+
+Subsec. (c)(2). Pub. L. 104–275, §311(11)(C), inserted “or the Office of Personnel Management” after “Federal executive agency” and substituted “Office to comply” for “employee to comply”.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–275 effective Oct. 13, 1994, see section 313 of Pub. L. 104–275, set out as a note under section 4301 of this title.
 
 #### Effective Date
 
@@ -40,5 +54,5 @@ Section effective with respect to reemployments initiated on or after the first 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 4322, 4332 of this title.
+This section is referred to in sections 4322, 4332 of this title; title 3 section 416.
 

@@ -26,7 +26,9 @@ Effect of Notification.—(1) When a transferee notifies the common carrier that
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

@@ -48,7 +48,7 @@ Each institution of higher education desiring to receive a grant under this subp
 
 &emsp;&emsp;&emsp;(iv) the institution will locate public community agencies or elementary or secondary schools which serve educationally or economically disadvantaged youth and will give priority in providing mentoring services to economically disadvantaged children and youth through community-based organizations or elementary or secondary schools;
 
-&emsp;&emsp;(C) demonstrate that the institution of higher education has participated, prior to applying for a grant under this subpart, in community service activities, including the conduct of a cooperative education program; and
+&emsp;&emsp;(C) demonstrate that the institution of higher education has participated, prior toapplying for a grant under this subpart, in community service activities, including the conduct of a cooperative education program; and
 
 &emsp;&emsp;(D) contain such other assurances as the Secretary may reasonably require.
 

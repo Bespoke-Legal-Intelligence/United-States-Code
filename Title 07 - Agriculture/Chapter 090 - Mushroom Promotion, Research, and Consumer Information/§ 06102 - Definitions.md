@@ -48,7 +48,7 @@ As used in this chapter—
 
 #### (12) Promotion
 
-&emsp;The term “promotion” means any action determined by the Secretary to enhance the image or desirability of mushrooms, including paid advertising.
+&emsp;The term “promotion” means any action determined by the Secretary to enhance theimage or desirability of mushrooms, including paid advertising.
 
 #### (13) Research
 

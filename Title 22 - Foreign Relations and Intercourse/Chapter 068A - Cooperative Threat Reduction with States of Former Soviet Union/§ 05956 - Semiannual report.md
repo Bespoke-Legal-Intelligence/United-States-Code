@@ -12,15 +12,21 @@ Not later than April 30 and not later than October 30 of each year, the Presiden
 
 &emsp;(5) A description of how all of the activities carried out under the authority of this chapter and other laws providing authority for cooperative threat reduction are coordinated with similar activities that are carried out under any other authority, including activities relating to military-to-military contacts, environmental restoration, and housing.
 
-(Pub. L. 103–160, div. A, title XII, §1207, Nov. 30, 1993, 107 Stat. 1782; Pub. L. 103–337, div. A, title XII, §§1202, 1208(b), Oct. 5, 1994, 108 Stat. 2882, 2887.)
+(Pub. L. 103–160, div. A, title XII, §1207, Nov. 30, 1993, 107 Stat. 1782; Pub. L. 103–337, div. A, title XII, §§1202, 1208(b), Oct. 5, 1994, 108 Stat. 2882, 2887; Pub. L. 104–106, div. A, title XV, §1504(a)(7), Feb. 10, 1996, 110 Stat. 513.)
 
 #### Amendments
 
-1994—Pub. L. 103–337, §1202(1), (2), substituted “Not later than April 30 and not later than October 30 of each year,” for “Not later than April 30, 1994, and not later than October 30, 1994,” and “under programs described in section 5952(b) of this title” for “under this chapter” in introductory provisions.
+1996—Pub. L. 104–106 made technical corrections to directory language of Pub. L. 103–337, §1202. See 1994 Amendment notes below.
 
-Par. (3). Pub. L. 103–337, §1202(3), substituted “the programs described in section 5952(b) of this title” for “this chapter”.
+1994—Pub. L. 103–337, §1202(1), (2), as amended by Pub. L. 104–106, substituted “Not later than April 30 and not later than October 30 of each year,” for “Not later than April 30, 1994, and not later than October 30, 1994,” and “under programs described in section 5952(b) of this title” for “under this chapter” in introductory provisions.
+
+Par. (3). Pub. L. 103–337, §1202(3), as amended by Pub. L. 104–106, §1504(a)(7)(A), substituted “the programs described in section 5952(b) of this title” for “this chapter”.
 
 Par. (5). Pub. L. 103–337, §1208(b), added par. (5).
+
+#### Effective Date of 1996 Amendment
+
+Section 1504(a) of Pub. L. 104–106 provided that the amendment made by that section is effective as of Oct. 5, 1994, and as if included in Pub. L. 103–337 as enacted.
 
 #### Delegation of Functions
 

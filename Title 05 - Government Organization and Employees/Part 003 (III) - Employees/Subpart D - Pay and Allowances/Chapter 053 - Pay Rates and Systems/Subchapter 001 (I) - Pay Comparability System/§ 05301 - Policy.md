@@ -18,7 +18,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 5 U.S.C. 1171.
 
@@ -32,7 +34,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-<b>1990</b>—Pub. L. 101–509 amended section generally. Prior to amendment, section read as follows:
+1990—Pub. L. 101–509 amended section generally. Prior to amendment, section read as follows:
 
 “(a) It is the policy of Congress that Federal pay fixing for employees under statutory pay systems be based on the principles that—
 
@@ -54,9 +56,9 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 &emsp;“(3) chapter 73 of title 38, relating to the Department of Medicine and Surgery, Veterans’ Administration.”
 
-<b>1980</b>—Subsec. (c)(2). Pub. L. 96–465 substituted “section 403 of the Foreign Service Act of 1980” for “subchapter IV of chapter 14 of title 22”.
+1980—Subsec. (c)(2). Pub. L. 96–465 substituted “section 403 of the Foreign Service Act of 1980” for “subchapter IV of chapter 14 of title 22”.
 
-<b>1971</b>—Pub. L. 91–656 designated provisions of first sentence as subsec. (a), incorporating former cl. (1) in cls. (1) and (2), and former cl. (2) in cl. (3), and inserted “for employees under statutory pay systems” after “Federal pay fixing”; substituted subsec. (b) reading “The pay rates of each statutory pay system shall be fixed and adjusted in accordance with the principles under subsection (a) of this section and the provisions of sections 5305, 5306, and 5308 of this title” for former second sentence providing “Pay levels for the several Federal statutory pay systems shall be interrelated, and pay levels shall be set and adjusted in accordance with these principles”; and added subsec. (c).
+1971—Pub. L. 91–656 designated provisions of first sentence as subsec. (a), incorporating former cl. (1) in cls. (1) and (2), and former cl. (2) in cl. (3), and inserted “for employees under statutory pay systems” after “Federal pay fixing”; substituted subsec. (b) reading “The pay rates of each statutory pay system shall be fixed and adjusted in accordance with the principles under subsection (a) of this section and the provisions of sections 5305, 5306, and 5308 of this title” for former second sentence providing “Pay levels for the several Federal statutory pay systems shall be interrelated, and pay levels shall be set and adjusted in accordance with these principles”; and added subsec. (c).
 
 #### Effective Date of 1990 Amendment
 
@@ -84,7 +86,7 @@ Section 529 \[§1\] of Pub. L. 101–509 provided that:
 
 “(a)
 
-Short Title.—This section, and the sections immediately following this section through section 412,inclusive \[section 529 \[§§1–412\] of Pub. L. 101–509, see Tables for classification\], may be cited as the ‘Federal Employees Pay Comparability Act of 1990’ (hereinafter in this section referred to as ‘FEPCA’).
+Short Title.—This section, and the sections immediately following this section through section 412, inclusive \[section 529 \[§§1–412\] of Pub. L. 101–509, see Tables for classification\], may be cited as the ‘Federal Employees Pay Comparability Act of 1990’ (hereinafter in this section referred to as ‘FEPCA’).
 
 “(b)
 

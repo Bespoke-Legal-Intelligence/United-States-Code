@@ -22,7 +22,7 @@
 
 &emsp;&emsp;&emsp;(i) to determine the effectiveness of the policy in increasing the participation of parents; and
 
-&emsp;&emsp;&emsp;(ii) to identify barriers to greater participation by parents in activities authorized by this section, giving particular attention to parents who are economically disadvantaged, are disabled, have limited English proficiency, have limited literacy, or are of any racial or ethnic minority background; and
+&emsp;&emsp;&emsp;(ii) to identify barriers to greater participation by parents in activities authorized by this section, giving particular attention to parents who are economically disadvantaged, are disabled, have limitedEnglish proficiency, have limited literacy, or are of any racial or ethnic minority background; and
 
 &emsp;&emsp;(F) use the findings of the evaluations described in subparagraph (E) in designing strategies for school improvement and revising, if necessary, the parental involvement policies described in this subsection and subsection (b)(1) of this section.
 
@@ -78,7 +78,7 @@ Each school served under this part shall—
 
 As a component of the school-level parental involvement policy developed under subsection (b) of this section, each school served under this part shall jointly develop with parents for all children served under this part a school-parent compact that outlines how parents, the entire school staff, and students will share the responsibility for improved student achievement and the means by which the school and parents will build and develop a partnership to help children achieve the State's high standards. Such compact shall—
 
-&emsp;(1) describe the school's responsibility to provide high-quality curriculum and instruction in a supportive and effective learning environment that enables the children served under this part to meet the State's student performance standards, and the ways in which each parent will be responsible for supporting their children's learning, such as monitoring attendance, homework completion, and television watching; volunteering in their child's classroom; and participating, as appropriate, in decisions relating to the education of their children and positive use of extracurricular time; and
+&emsp;(1) describe the school's responsibility to provide high-quality curriculum and instruction in a supportive and effective learning environment that enables the children served under this part to meet the State's student performance standards, and the ways in which each parent will be responsible for supporting their children's learning, such as monitoring attendance, homework completion, and television watching; volunteering in their child's classroom; and participating, as appropriate, in decisions relating to the education of theirchildren and positive use of extracurricular time; and
 
 &emsp;(2) address the importance of communication between teachers and parents on an ongoing basis through, at a minimum—
 

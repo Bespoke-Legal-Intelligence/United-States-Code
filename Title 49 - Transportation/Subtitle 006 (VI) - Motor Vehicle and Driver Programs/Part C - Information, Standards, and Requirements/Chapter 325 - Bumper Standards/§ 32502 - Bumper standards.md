@@ -56,7 +56,9 @@ Research.—The Secretary shall conduct research necessary to carry out this cha
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

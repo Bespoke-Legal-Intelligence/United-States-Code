@@ -70,7 +70,7 @@ The Secretary, acting through the Administrator, shall—
 
 &emsp;(17) in collaboration with the National Institute on Aging, and in consultation with the National Institute on Drug Abuse, the National Institute on Alcohol Abuse and Alcoholism and the National Institute of Mental Health, as appropriate, promote and evaluate substance abuse services for older Americans in need of such services, and mental health services for older Americans who are seriously mentally ill; and
 
-&emsp;(18) promote the coordination of service programs conducted by other departments, agencies, organizations and individuals that are or may be related to the problems of individuals suffering from mental illness or substance abuse, including liaisons with the Social Security Administration, Health Care Financing Administration, and other programs of the Department, as well as liaisons with the Department of Education, Department of Justice, and other Federal Departments and offices, as appropriate.
+&emsp;(18) promote the coordination of service programs conducted by other departments, agencies, organizations and individuals that are or may be related to the problems of individualssuffering from mental illness or substance abuse, including liaisons with the Social Security Administration, Health Care Financing Administration, and other programs of the Department, as well as liaisons with the Department of Education, Department of Justice, and other Federal Departments and offices, as appropriate.
 
 #### (e) Associate Administrator for Alcohol Prevention and Treatment Policy
 
@@ -122,7 +122,7 @@ The Secretary, acting through the Administrator, shall—
 
 &emsp;&emsp;&emsp;(iii) prepare, for inclusion in the biennial report required pursuant to subsection (k) of this section, a description of activities of the Committee, including findings made by the Committee regarding—
 
-&emsp;&emsp;&emsp;&emsp;(I) the extent of expenditures made for women's substance abuse and mental health services by the agencies of the Administration; and
+&emsp;&emsp;&emsp;&emsp;(I) the extent of expenditures made for women's substance abuse and mentalhealth services by the agencies of the Administration; and
 
 &emsp;&emsp;&emsp;&emsp;(II) the estimated level of funding needed for substance abuse and mental health services to meet the needs of women;
 
@@ -138,7 +138,7 @@ The Secretary, acting through the Administrator, shall—
 
 #### (3) Study
 
-&emsp;(A) The Secretary, acting through the Assistant Secretary for Personnel, shall conduct a study to evaluate the extent to whichwomen are represented among senior personnel at the Administration.
+&emsp;(A) The Secretary, acting through the Assistant Secretary for Personnel, shall conduct a study to evaluate the extent to which women are represented among senior personnel at the Administration.
 
 &emsp;(B) Not later than 90 days after July 10, 1992, the Assistant Secretary for Personnel shall provide the Advisory Committee for Women's Services with a study plan, including the methodology of the study and any sampling frames. Not later than 180 days after July 10, 1992, the Assistant Secretary shall prepare and submit directly to the Advisory Committee a report concerning the results of the study conducted under subparagraph (A).
 
@@ -160,7 +160,7 @@ The Secretary, acting through the Administrator, shall—
 
 #### (2) Compensation and expenses
 
-&emsp;(A) Experts and consultants whose services are obtained under paragraph (1) shall be paid or reimbursed for their expenses associated with traveling to and from their assignment location in accordance with sections 5724, 5724a(a)(1), 5724a(a)(3), and 5726(c) of title 5.
+&emsp;(A) Experts and consultants whose services are obtained under paragraph (1) shall be paid or reimbursed for their expenses associated with traveling to and from their assignment location in accordance with sections 5724, 5724a(a), 5724a(c), and 5726(c) of title 5.
 
 &emsp;(B) Expenses specified in subparagraph (A) may not be allowed in connection with the assignment of an expert or consultant whose services are obtained under paragraph (1), unless and until the expert or consultant agrees in writing to complete the entire period of assignment or one year, whichever is shorter, unless separated or reassigned for reasons beyond the control of the expert or consultant that are acceptable to the Secretary. If the expert or consultant violates the agreement, the money spent by the United States for the expenses specified in subparagraph (A) is recoverable from the expert or consultant as a debt of the United States. The Secretary may waive in whole or in part a right of recovery under this subparagraph.
 
@@ -200,9 +200,9 @@ With respect to awards of grants, cooperative agreements, and contracts under th
 
 #### (m) Authorization of appropriations
 
-For the purpose of providing grants, cooperative agreements, and contracts under this section, there are authorized to be appropriated$25,000,000 for fiscal year 1993, and such sums as may be necessary for fiscal year 1994.
+For the purpose of providing grants, cooperative agreements, and contracts under this section, there are authorized to be appropriated $25,000,000 for fiscal year 1993, and such sums as may be necessary for fiscal year 1994.
 
-(July 1, 1944, ch. 373, title V, §501, formerly Pub. L. 93–282, title II, §201, May 14, 1974, 88 Stat. 134, as amended Pub. L. 94–371, §8, July 26, 1976, 90 Stat. 1040; renumbered §501 of act July 1, 1944, and amended Apr. 26, 1983, Pub. L. 98–24, §2(b)(2), 97 Stat. 176; Oct. 19, 1984, Pub. L. 98–509, title II, §201, title III, §301(c)(1), 98 Stat. 2359, 2364; Oct. 27, 1986, Pub. L. 99–570, title IV, §4003, 100 Stat. 3207–106; Nov. 18, 1988, Pub. L. 100–690, title II, §2058(a)(2), 102 Stat. 4213; Aug. 16, 1989, Pub. L. 101–93, §3(f), 103 Stat. 611; July 10, 1992, Pub. L. 102–321, title I, §101(a), 106 Stat. 324.)
+(July 1, 1944, ch. 373, title V, §501, formerly Pub. L. 93–282, title II, §201, May 14, 1974, 88 Stat. 134, as amended Pub. L. 94–371, §8, July 26, 1976, 90 Stat. 1040; renumbered §501 of act July 1, 1944, and amended Apr. 26, 1983, Pub. L. 98–24, §2(b)(2), 97 Stat. 176; Oct. 19, 1984, Pub. L. 98–509, title II, §201, title III, §301(c)(1), 98 Stat. 2359, 2364; Oct. 27, 1986, Pub. L. 99–570, title IV, §4003, 100 Stat. 3207–106; Nov. 18, 1988, Pub. L. 100–690, title II, §2058(a)(2), 102 Stat. 4213; Aug. 16, 1989, Pub. L. 101–93, §3(f), 103 Stat. 611; July 10, 1992, Pub. L. 102–321, title I, §101(a), 106 Stat. 324; Sept. 23, 1996, Pub. L. 104–201, div. A, title XVII, §1723(a)(3)(A), 110 Stat. 2759.)
 
 #### References in Text
 
@@ -219,6 +219,8 @@ Section was formerly classified to section 3511 of this title prior to renumberi
 A prior section 501 of act July 1, 1944, which was classified to section 219 of this title, was successively renumbered by subsequent acts and transferred, see section 238 of this title.
 
 #### Amendments
+
+1996—Subsec. (g)(2)(A). Pub. L. 104–201 substituted “5724a(a), 5724a(c)” for “5724a(a)(1), 5724a(a)(3)”.
 
 1992—Pub. L. 102–321 amended section generally, substituting provisions relating to the Substance Abuse and Mental Health Services Administration for provisions relating to the Alcohol, Drug Abuse, and Mental Health Administration.
 
@@ -260,7 +262,11 @@ Centers for Disease Control changed to Centers for Disease Control and Preventio
 
 Section 161 of Pub. L. 102–321 provided that: “Reference in any other Federal law, Executive order, rule, regulation, or delegation of authority, or any document of or pertaining to the Alcohol, Drug Abuse and Mental Health Administration or to the Administrator of the Alcohol, Drug Abuse and Mental Health Administration shall be deemed to refer to the Substance Abuse and Mental Health Services Administration or to the Administrator of the Substance Abuse and Mental Health Services Administration.”
 
-Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee onCommerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–201 effective 180 days after Sept. 23, 1996, see section 1725(a) of Pub. L. 104–201, set out as a note under section 5722 of Title 5, Government Organization and Employees.
 
 #### Effective Date of 1992 Amendment
 
@@ -278,7 +284,7 @@ Substance Abuse and Mental Health Services Administration.—Except as specifica
 
 “(b)
 
-National Institutes.—Except as specifically provided otherwise in this Act or an amendment made by this Act, there are transferred to the appropriate Directors of the National Institute on Alcohol Abuse and Alcoholism, the National Institute on Drug Abuse and the National Institute of Mental Health, through the Director of the National Institutes of Health, all research related functions which the Administrator of the Alcohol, Drug Abuse and Mental Health Administration exercised before the date of the enactment ofthis Act and all related functions of any officer or employee of the Alcohol, Drug Abuse, and Mental Health Administration.
+National Institutes.—Except as specifically provided otherwise in this Act or an amendment made by this Act, there are transferred to the appropriate Directors of the National Institute on Alcohol Abuse and Alcoholism, the National Institute on Drug Abuse and the National Institute of Mental Health, through the Director of the National Institutes of Health, all research related functions which the Administrator of the Alcohol, Drug Abuse and Mental Health Administration exercised before the date of the enactment of this Act and all related functions of any officer or employee of the Alcohol, Drug Abuse, and Mental Health Administration.
 
 “(c)
 
@@ -346,7 +352,7 @@ Effect on Legal Actions.—Except as provided in subsection (e)—
 
 “(d)
 
-No Abatement of Actions or Proceedings.—No action or other proceeding commenced by or against any officer in his official capacity as an officer of theDepartment of Health and Human Services with respect to functions transferred by this subtitle shall abate by reason of the enactment of this Act \[see Tables for classification\]. No cause of action by or against the Department of Health and Human Services with respect to functions transferred by this subtitle, or by or against any officer thereof in his official capacity, shall abate by reason of the enactment of this Act. Causes of action and actions with respect to a function transferred by this subtitle, or other proceedings may be asserted by or against the United States or the Administrator of the Alcohol, Drug Abuse and Mental Health Administration or the Directors of the National Institute on Alcohol Abuse and Alcoholism, the National Institute on Drug Abuse, and the National Institute of Mental Health, as may be appropriate, and, in an action pending when this Act takes effect \[see Effective Date of 1992 Amendment note set out under section 236 of this title\], the court may at any time, on its own motion or that of any party, enter an order which will give effect to the provisions of this subsection.
+No Abatement of Actions or Proceedings.—No action or other proceeding commenced by or against any officer in his official capacity as an officer of the Department of Health and Human Services with respect to functions transferred by this subtitle shall abate by reason of the enactment of this Act \[see Tables for classification\]. No cause of action by or against the Department of Health and Human Services with respect to functions transferred by this subtitle, or by or against any officer thereof in his official capacity, shall abate by reason of the enactment of this Act. Causes of action and actions with respect to a function transferred by this subtitle, or other proceedings may be asserted by or against the United States or the Administrator of the Alcohol, Drug Abuse and Mental Health Administration or the Directors of the National Institute on Alcohol Abuse and Alcoholism, the National Institute on Drug Abuse, and the National Institute of Mental Health, as may be appropriate, and, in an action pending when this Act takes effect \[see Effective Date of 1992 Amendment note set out under section 236 of this title\], the court may at any time, on its own motion or that of any party, enter an order which will give effect to the provisions of this subsection.
 
 “(e)
 

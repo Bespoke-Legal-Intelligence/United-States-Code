@@ -3,7 +3,7 @@
 | Sec. |  |
 | :--- | ---: |
 | [7801\.](%C2%A7%2007801%20-%20Authority%20of%20Department%20of%20the%20Treasury.md) | Authority of Department of the Treasury. |
-| [7802\.](%C2%A7%2007802%20-%20Commissioner%20of%20Internal%20Revenue%3B%20Assistant%20Commissioner%20%28Employee%20Plans%20and%20Exempt%20Organizations%29.md) | Commissioner of Internal Revenue; Assistant Commissioner (Employee Plans and Exempt Organizations). |
+| [7802\.](%C2%A7%2007802%20-%20Commissioner%20of%20Internal%20Revenue%3B%20Assistant%20Commissioners%3B%20Taxpayer%20Advocate.md) | Commissioner of Internal Revenue; Assistant Commissioners; Taxpayer Advocate. |
 | [7803\.](%C2%A7%2007803%20-%20Other%20personnel.md) | Other personnel. |
 | [7804\.](%C2%A7%2007804%20-%20Effect%20of%20reorganization%20plans.md) | Effect of reorganization plans. |
 | [7805\.](%C2%A7%2007805%20-%20Rules%20and%20regulations.md) | Rules and regulations. |
@@ -17,6 +17,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1996—Pub. L. 104–168, title I, §101(b)(3), July 30, 1996, 110 Stat. 1456, added item 7802 and struck out former item 7802 “Commissioner of Internal Revenue; Assistant Commissioner (Employee Plans and Exempt Organizations)”.
 
 1988—Pub. L. 100–647, title VI, §6230(b), Nov. 10, 1988, 102 Stat. 3734, added item 7811.
 
@@ -34,7 +36,7 @@
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
 - [&sect; 07801 - Authority of Department of the Treasury](%C2%A7%2007801%20-%20Authority%20of%20Department%20of%20the%20Treasury.md)
-- [&sect; 07802 - Commissioner of Internal Revenue; Assistant Commissioner (Employee Plans and Exempt Organizations)](%C2%A7%2007802%20-%20Commissioner%20of%20Internal%20Revenue%3B%20Assistant%20Commissioner%20%28Employee%20Plans%20and%20Exempt%20Organizations%29.md)
+- [&sect; 07802 - Commissioner of Internal Revenue; Assistant Commissioners; Taxpayer Advocate](%C2%A7%2007802%20-%20Commissioner%20of%20Internal%20Revenue%3B%20Assistant%20Commissioners%3B%20Taxpayer%20Advocate.md)
 - [&sect; 07803 - Other personnel](%C2%A7%2007803%20-%20Other%20personnel.md)
 - [&sect; 07804 - Effect of reorganization plans](%C2%A7%2007804%20-%20Effect%20of%20reorganization%20plans.md)
 - [&sect; 07805 - Rules and regulations](%C2%A7%2007805%20-%20Rules%20and%20regulations.md)

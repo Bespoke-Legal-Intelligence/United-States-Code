@@ -14,7 +14,7 @@ General rule.—Subject to paragraph (2) of this subsection, no State or politic
 
 &emsp;(2)
 
-Continuation of hawaii's authority.—Nothing in this subsection and the amendments made by the Surface Freight Forwarder Deregulation Act of 1986 shall be construed to affect the authority of the State of Hawaii to continue to regulate a motor carrier operating within the State of Hawaii.
+Continuation of hawaii's authority.—Nothing in this subsection and the amendments made by the Surface Freight Forwarder Deregulation Act of 1986 shall be construed to affect the authority of the State of Hawaii tocontinue to regulate a motor carrier operating within the State of Hawaii.
 
 (c)
 

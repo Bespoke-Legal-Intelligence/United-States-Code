@@ -26,7 +26,7 @@
 
 #### (3) Removal from list
 
-&emsp;Any person whose name has been included in a list published under paragraph (1) may petition the Secretary to be removed from such list. If the Secretary finds that such person has not committed any violations described in paragraph (2) for a period of not less than 3 years after the date on which the person's name was so published, the Secretary shall remove such person from the list as of the next publication of the list under paragraph (2).
+&emsp;Any person whose name has been included in a list published under paragraph (1) may petition the Secretary to be removed from such list. If the Secretary finds that such person has not committed any violations described in paragraph (2) for a period of not less than 3 years after the date on which the person's name was so published, the Secretary shall remove such person from the list as of the next publication of the list under paragraph (1).
 
 #### (4) Reasonable care required for subsequent imports
 
@@ -58,11 +58,15 @@
 
 &emsp;For purposes of this subsection, the term “country” means a foreign country or territory, including any overseas dependent territory or possession of a foreign country.
 
-(June 17, 1930, ch. 497, title IV, §592A, as added Dec. 8, 1994, Pub. L. 103–465, title III, §333, 108 Stat. 4947.)
+(June 17, 1930, ch. 497, title IV, §592A, as added Dec. 8, 1994, Pub. L. 103–465, title III, §333, 108 Stat. 4947; amended Oct. 11, 1996, Pub. L. 104–295, §20(c)(3), 110 Stat. 3528.)
 
 #### References in Text
 
 The customs laws, referred to in subsec. (a)(1), (2), are classified generally to this title.
+
+#### Amendments
+
+1996—Subsec. (a)(3). Pub. L. 104–295 substituted “list under paragraph (1)” for “list under paragraph (2)”.
 
 #### Effective Date
 

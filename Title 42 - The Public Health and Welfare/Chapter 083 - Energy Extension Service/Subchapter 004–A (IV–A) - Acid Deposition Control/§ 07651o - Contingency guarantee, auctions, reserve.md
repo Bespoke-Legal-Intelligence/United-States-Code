@@ -36,7 +36,7 @@ Within 36 months after November 15, 1990, the Administrator shall promulgate reg
 
 #### (2) Sales
 
-&emsp;Allowances in the subaccount shall be offered for direct sale to any person at the times and in the amounts specified in table 1 at a price of $1,500 per allowance, adjusted by the Consumer Price Index in the same manner as provided in paragraph (3). Requests to purchase allowances from the Direct Sale Subaccount established under paragraph (1) shall be approved in the order of receipt until no allowances remain in such subaccount, except that an opportunity to purchase such allowances shall be provided to the independent power producers referred to in this subsection before such allowances are offered to any other person. Each applicant shall be required to pay 50 percent of the total purchase price of the allowances within 6 months after the approval of the request to purchase. The remainder shall be paid on or before the transfer of the allowances.
+&emsp;Allowances in the subaccount shall be offered for direct sale to any person at the times and in the amounts specified in table 1 at a price of $1,500 per allowance, adjusted by the Consumer Price Index in the same manner as provided in paragraph (3). Requests to purchase allowances from the Direct Sale Subaccount established under paragraph (1) shall be approved in the order of receipt until no allowances remain in such subaccount, except that an opportunity to purchase such allowances shall be provided to the independent power producers referred to in this subsection before such allowances are offered to anyother person. Each applicant shall be required to pay 50 percent of the total purchase price of the allowances within 6 months after the approval of the request to purchase. The remainder shall be paid on or before the transfer of the allowances.
 
 Table 1
 
@@ -50,9 +50,7 @@ Spot Sale (same year)
 
 Advance Sale
 
-1993–1999
-
-25,000
+1993–1999DD25,000
 
 2000 and after
 
@@ -108,7 +106,7 @@ Allowances sold in the spot sale in any year are allowances which may only be us
 
 #### (2) Annual auctions
 
-&emsp;Commencing in 1993 and in each year thereafter, the Administrator shall conduct auctions at which the allowances referred to in paragraph (1) shall be offered for sale in accordance with regulations promulgated by the Administrator, in consultation with the Secretary of the Treasury, within 12 months of November 15, 1990. The allowances referred to in paragraph (1) shall be offered for sale at auction in the amounts specified in table 2. The auction shall be open to any person. A person wishing to bid for such allowances shall submit (by a date set by the Administrator) to the Administrator (on a sealed bid schedule provided by the Administrator) offers to purchase specified numbers of allowances at specified prices. Such regulations shall specify that the auctioned allowances shall be allocated and sold on the basis of bid price, starting with the highest-priced bid and continuing until all allowances for sale at such auction have been allocated. The regulations shall not permit that a minimum price be set for the purchase of withheld allowances. Allowances purchased at the auction may be used for any purpose and at any time after the auction, subject to the provisions of this subchapter.
+&emsp;Commencing in 1993 and in each year thereafter, the Administrator shall conduct auctions at which the allowances referred to inparagraph (1) shall be offered for sale in accordance with regulations promulgated by the Administrator, in consultation with the Secretary of the Treasury, within 12 months of November 15, 1990. The allowances referred to in paragraph (1) shall be offered for sale at auction in the amounts specified in table 2. The auction shall be open to any person. A person wishing to bid for such allowances shall submit (by a date set by the Administrator) to the Administrator (on a sealed bid schedule provided by the Administrator) offers to purchase specified numbers of allowances at specified prices. Such regulations shall specify that the auctioned allowances shall be allocated and sold on the basis of bid price, starting with the highest-priced bid and continuing until all allowances for sale at such auction have been allocated. The regulations shall not permit that a minimum price be set for the purchase of withheld allowances. Allowances purchased at the auction may be used for any purpose and at any time after the auction, subject to the provisions of this subchapter.
 
 Table 2
 
@@ -116,7 +114,9 @@ Table 2
 
 Year of Sale
 
-Spot Auction (same year)
+Spot
+
+Auction (same year)
 
 Advance Auction
 

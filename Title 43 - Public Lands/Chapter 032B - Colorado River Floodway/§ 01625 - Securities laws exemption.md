@@ -2,7 +2,7 @@
 
 #### (a) Laws; termination date of exempt status
 
-A Native Corporation shall be exempt from the provisions, as amended, of the InvestmentCompany Act of 1940 (54 Stat. 789) \[15 U.S.C. 80a–1 et seq.\], the Securities Act of 1933 (48 Stat. 74) \[15 U.S.C. 77a et seq.\], and the Securities Exchange Act of 1934 (48 Stat. 881) \[15 U.S.C. 78a et seq.\] until the earlier of the day after—
+A Native Corporation shall be exempt from the provisions, as amended, of the Investment Company Act of 1940 (54 Stat. 789) \[15 U.S.C. 80a–1 et seq.\], the Securities Act of 1933 (48 Stat. 74) \[15 U.S.C. 77a et seq.\], and the Securities Exchange Act of 1934 (48 Stat. 881) \[15 U.S.C. 78a et seq.\] until the earlier of the day after—
 
 &emsp;(1) the date on which the corporation issues shares of stock other than Settlement Common Stock in a transaction where—
 
@@ -56,7 +56,7 @@ The Securities Exchange Act of 1934, referred to in subsecs. (a) and (c), is act
 
 #### Amendments
 
-1988—Pub. L. 100–241 amended section generally. Prior to amendment, section read as follows: “Any corporation organized pursuant to this chapter shall be exempt from the provisions of the Investment Company Act of 1940 (54 Stat. 789) \[15 U.S.C. 80a–1 et seq.\], the Securities Act of 1933 (48 Stat. 74) \[15 U.S.C. 77a et seq.\], and the Securities Exchange Act of 1934 (48 Stat. 881), as amended \[15 U.S.C. 78a et seq.\], through December 31, 1991. Nothing in this section, however, shall be construed to mean that any such corporation shall or shall not, after such date, be subject to the provisions of such Acts. Any such corporation which, but for this section, would be subject to the provisions of the Securities Exchange Act of 1934 shall transmit to its stockholders each year a report containing substantially all the information required to be included in an annual report to stockholders by a corporation which is subject to the provisions of such Act.”
+1988—Pub. L. 100–241 amended section generally. Prior to amendment, section read as follows: “Any corporation organized pursuant to this chapter shall be exempt from the provisions of the Investment Company Act of 1940 (54 Stat. 789) \[15 U.S.C. 80a–1 et seq.\], the Securities Act of 1933 (48 Stat. 74) \[15 U.S.C. 77a et seq.\], and theSecurities Exchange Act of 1934 (48 Stat. 881), as amended \[15 U.S.C. 78a et seq.\], through December 31, 1991. Nothing in this section, however, shall be construed to mean that any such corporation shall or shall not, after such date, be subject to the provisions of such Acts. Any such corporation which, but for this section, would be subject to the provisions of the Securities Exchange Act of 1934 shall transmit to its stockholders each year a report containing substantially all the information required to be included in an annual report to stockholders by a corporation which is subject to the provisions of such Act.”
 
 #### Construction of Alaska Native Claims Settlement Act With Pub. L. 94–204
 

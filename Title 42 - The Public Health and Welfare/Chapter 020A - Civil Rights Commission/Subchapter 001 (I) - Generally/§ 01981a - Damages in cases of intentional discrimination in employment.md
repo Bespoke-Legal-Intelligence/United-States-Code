@@ -78,5 +78,5 @@ Section effective Nov. 21, 1991, except as otherwise provided, see section 402 o
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1988 of this title; title 2 sections 1202, 1311.
+This section is referred to in section 1988 of this title; title 2 sections 1202, 1311; title 3 section 411.
 

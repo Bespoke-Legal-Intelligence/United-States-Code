@@ -6,7 +6,7 @@
 
 &emsp;(2) disclosure of information for a determination if evidence is inadmissible because it is the primary product of an unlawful act occurring prior to June 19, 1968, or because it was obtained by the exploitation of an unlawful act occurring prior to June 19, 1968, shall not be required unless such information may be relevant to a pending claim of such inadmissibility; and
 
-&emsp;(3) no claim shall be considered that evidence of an event is inadmissible on the ground that such evidence was obtained by the exploitation of an unlawful act occurring prior to June 19, 1968, if such event occurred more than five years after such allegedly unlawful act.
+&emsp;(3) no claim shall be considered that evidence of an event is inadmissible on the ground that such evidence was obtained by the exploitation of an unlawful act occurring priorto June 19, 1968, if such event occurred more than five years after such allegedly unlawful act.
 
 (b) As used in this section “unlawful act” means any act the use of any electronic, mechanical, or other device (as defined in section 2510(5) of this title) in violation of the Constitution or laws of the United States or any regulation or standard promulgated pursuant thereto.
 
@@ -19,4 +19,8 @@ Section 701 of title VII of Pub. L. 91–452 provided that: “The Congress find
 #### Applicability to Proceedings
 
 Section 703 of title VII of Pub. L. 91–452 provided that: “This title \[enacting this section and provisions set as notes under this section\] shall apply to all proceedings, regardless of when commenced, occurring after the date of its enactment \[Oct. 15, 1970\]. Paragraph (3) of subsection (a) of section 3504, chapter 223, title 18, United States Code, shall not apply to any proceeding in which all information to be relied upon to establish inadmissibility was possessed by the party making such claim and adduced in such proceeding prior to such enactment.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in title 8 section 1534.
 

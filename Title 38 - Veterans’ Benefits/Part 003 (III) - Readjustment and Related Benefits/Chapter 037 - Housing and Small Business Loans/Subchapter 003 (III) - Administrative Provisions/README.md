@@ -25,3 +25,4 @@ This subchapter is referred to in section 113 of this title.
 - [&sect; 03733 - Property management](%C2%A7%2003733%20-%20Property%20management.md)
 - [&sect; 03734 - Annual submission of information on the Loan Guaranty Revolving Fund and the Guaranty and Indemnity Fund](%C2%A7%2003734%20-%20Annual%20submission%20of%20information%20on%20the%20Loan%20Guaranty%20Revolving%20Fund%20and%20the%20Guaranty%20and%20Indemnity%20Fund.md)
 - [&sect; 03735 - Housing assistance for homeless veterans](%C2%A7%2003735%20-%20Housing%20assistance%20for%20homeless%20veterans.md)
+- [&sect; 03736 - Reporting requirements](%C2%A7%2003736%20-%20Reporting%20requirements.md)

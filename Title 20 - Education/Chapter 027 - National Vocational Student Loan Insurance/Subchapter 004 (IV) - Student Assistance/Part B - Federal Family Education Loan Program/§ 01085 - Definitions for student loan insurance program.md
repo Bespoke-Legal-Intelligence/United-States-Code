@@ -68,9 +68,9 @@ As used in this part:
 
 &emsp;&emsp;(E) an eligible institution which meets the requirements of paragraphs (2) through (5) of this subsection;
 
-&emsp;&emsp;(F) for purposes only of purchasing and holding loans made by other lenders underthis part, the Student Loan Marketing Association or an agency of any State functioning as a secondary market;
+&emsp;&emsp;(F) for purposes only of purchasing and holding loans made by other lenders under this part, the Student Loan Marketing Association or the Holding Company of the Student Loan Marketing Association, including any subsidiary of the Holding Company, created pursuant to section 1087–3 of this title, or an agency of any State functioning as a secondary market;
 
-&emsp;&emsp;(G) for purposes of making loans under sections 1078–1(d),<sup>1</sup> 1078–2(d), 1078–3, and 1087–2(q) of this title, the Student Loan Marketing Association;
+&emsp;&emsp;(G) for purposes of making loans under sections 1078–1(d),<sup>1</sup> 1078–2(d), 1078–3, and 1087–2(q) of this title, the Student Loan Marketing Association or the Holding Company of the Student Loan Marketing Association, including any subsidiary of the Holding Company, created pursuant to section 1087–3 of this title;
 
 &emsp;&emsp;(H) for purposes of making loans under sections 1078(h) and 1078(j) of this title, a guaranty agency;
 
@@ -156,7 +156,7 @@ Except as provided in subsection (m) of this section, the term “default” inc
 
 #### (1) In general
 
-&emsp;(A) Except as provided in paragraph (2), the term “cohort default rate” means, for any fiscal year in which 30 or more current and former students at the institution enter repayment on loans under section 1078, 1078–1,<sup>2</sup> or 1078–8 of this title received for attendance at the institution, the percentage of those current and former students who enter repayment on such loans (or on the portion of a loan made under section 1078–3 of this title that is used to repay any such loans) received for attendance at that institution in that fiscal year who default before the end of the following fiscal year. The Secretary shall require that each guaranty agency that has insured loans for current or former students of the institution afford such institution a reasonable opportunity (as specified by the Secretary) to review and correct errors in the information required to be provided to the Secretary by the guaranty agency for the purposes of calculating a cohort default rate for such institution, prior to the calculation of such rate.
+&emsp;(A) Except as provided in paragraph (2), the term “cohort default rate” means, for any fiscal year in which 30 or more current and former students at the institution enter repayment on loans under section 1078, 1078–1,<sup>2</sup> or 1078–8 of this title received for attendance at the institution, the percentage of those current and former students who enter repayment on such loans (or on the portion of a loan made under section 1078–3 of this title that is used to repay any such loans) received for attendance at that institution in that fiscal year who default before the end of the following fiscal year. The Secretary shall require that each guaranty agency that has insured loans for current or former students of the institution afford such institution a reasonable opportunity (as specified by the Secretary) to review and correct errors in the information required to be provided to the Secretary by theguaranty agency for the purposes of calculating a cohort default rate for such institution, prior to the calculation of such rate.
 
 &emsp;(B) In determining the number of students who default before the end of such fiscal year, the Secretary shall include only loans for which the Secretary or a guaranty agency has paid claims for insurance, and, in considering appeals with respect to cohort default rates pursuant to subsection (a)(3) of this section, exclude any loans which, due to improper servicing or collection, would, as demonstrated by the evidence submitted in support of the institution's timely appeal to the Secretary, result in an inaccurate or incomplete calculation of such cohort default rate.
 
@@ -210,7 +210,7 @@ Except as provided in subsection (m) of this section, the term “default” inc
 
 &emsp;In establishing criteria for purposes of paragraph (1)(C), the Secretary shall consider the borrower's income and debt-to-income ratio as primary factors.
 
-(Pub. L. 89–329, title IV, §435, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1408; amended Pub. L. 100–50, §10(aa), June 3, 1987, 101 Stat. 347; Pub. L. 101–239, title II, §§2003(a)(2), 2007(a), Dec. 19, 1989, 103 Stat. 2113, 2120; Pub. L. 101–508, title III, §3004(a), Nov. 5, 1990, 104 Stat. 1388–26; Pub. L. 101–542, title III, §301, Nov. 8, 1990, 104 Stat. 2387; Pub. L. 102–26, §2(a)(1), Apr. 9, 1991, 105 Stat. 123; Pub. L. 102–325, title IV, §§416(e)(2), 427(a), (b)(1), (c)–(g), July 23, 1992, 106 Stat. 519, 549, 550; Pub. L. 103–66, title IV, §§4046(b)(1), 4106(b), Aug. 10, 1993, 107 Stat. 362, 368; Pub. L. 103–208, §2(c)(55)–(62), Dec. 20, 1993, 107 Stat. 2468, 2469; Pub. L. 103–235, §1, Apr. 28, 1994, 108 Stat. 381; Pub. L. 103–382, title III, §357, Oct. 20, 1994, 108 Stat. 3967.)
+(Pub. L. 89–329, title IV, §435, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat.1408; amended Pub. L. 100–50, §10(aa), June 3, 1987, 101 Stat. 347; Pub. L. 101–239, title II, §§2003(a)(2), 2007(a), Dec. 19, 1989, 103 Stat. 2113, 2120; Pub. L. 101–508, title III, §3004(a), Nov. 5, 1990, 104 Stat. 1388–26; Pub. L. 101–542, title III, §301, Nov. 8, 1990, 104 Stat. 2387; Pub. L. 102–26, §2(a)(1), Apr. 9, 1991, 105 Stat. 123; Pub. L. 102–325, title IV, §§416(e)(2), 427(a), (b)(1), (c)–(g), July 23, 1992, 106 Stat. 519, 549, 550; Pub. L. 103–66, title IV, §§4046(b)(1), 4106(b), Aug. 10, 1993, 107 Stat. 362, 368; Pub. L. 103–208, §2(c)(55)–(62), Dec. 20, 1993, 107 Stat. 2468, 2469; Pub. L. 103–235, §1, Apr. 28, 1994, 108 Stat. 381; Pub. L. 103–382, title III, §357, Oct. 20, 1994, 108 Stat. 3967; Pub. L. 104–208, div. A, title I, §101(e) \[title VI, §602(b)(1)(A)\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–283.)
 
 #### References in Text
 
@@ -228,6 +228,10 @@ A prior section 1085, Pub. L. 89–329, title IV, §435, Nov. 8, 1965, 79 Stat. 
 
 #### Amendments
 
+1996—Subsec. (d)(1)(F). Pub. L. 104–208, §101(e) \[title VI, §602(b)(1)(A)(i)\], inserted “or the Holding Company of the Student Loan Marketing Association, including any subsidiary of the Holding Company, created pursuant to section 1087–3 of this title,” after “Student Loan Marketing Association”.
+
+Subsec. (d)(1)(G). Pub. L. 104–208, §101(e) \[title VI, §602(b)(1)(A)(ii)\], inserted “or the Holding Company of the Student Loan Marketing Association, including any subsidiary of the Holding Company, created pursuant to section 1087–3 of this title” after “Student Loan Marketing Association”.
+
 1994—Subsec. (a)(2)(C). Pub. L. 103–235 substituted “July 1, 1998” for “July 1, 1994”.
 
 Subsec. (<i>o</i>)(1). Pub. L. 103–382, §357(1)–(3), struck out “or” at end of subpar. (A), added subpar. (B), and redesignated former subpar. (B) as (C).
@@ -242,7 +246,7 @@ Subsec. (d)(2). Pub. L. 103–208, §2(c)(57), realigned margins of closing prov
 
 Subsec. (d)(2)(D). Pub. L. 103–208, §2(c)(56), substituted “lender;” for “lender; and”.
 
-Subsec. (d)(3). Pub. L. 103–208, §2(c)(58), substituted “subsection (m)” for “subsection (<i>o)”.</i>
+Subsec. (d)(3). Pub. L. 103–208, §2(c)(58), substituted “subsection (m)” for “subsection (<i>o</i>)”.
 
 Subsec. (d)(6). Pub. L. 103–66, §4106(b)(2), added par. (6).
 
@@ -254,7 +258,7 @@ Pub. L. 103–208, §2(c)(59), substituted “section 1078, 1078–1, or 1078–
 
 Pub. L. 103–66, §4046(b)(1)(A), inserted “(or on the portion of a loan made under section 1078–3 of this title that is used to repay any such loans)” after “on such loans”.
 
-Subsec. (m)(1)(B). Pub. L. 103–208, §2(c)(60)(B), substituted “and, in considering appeals with respect tocohort default rates pursuant to subsection (a)(3) of this section, exclude any loans which, due to improper servicing or collection, would, as demonstrated by the evidence submitted in support of the institution's timely appeal to the Secretary, result in an inaccurate or incomplete calculation of such cohort default rate.” for “and, in calculating the cohort default rate, exclude any loans which, due to improper servicing or collection, would result in an inaccurate or incomplete calculation of the cohort default rate.”
+Subsec. (m)(1)(B). Pub. L. 103–208, §2(c)(60)(B), substituted “and, in considering appeals with respect to cohort default rates pursuant to subsection (a)(3) of this section, exclude any loans which, due to improper servicing or collection, would, as demonstrated by the evidence submitted in support of the institution's timely appeal to the Secretary, result in an inaccurate or incomplete calculation of such cohort default rate.” for “and, in calculating the cohort default rate, exclude any loans which, due to improper servicing or collection, would result in an inaccurate or incomplete calculation of the cohort default rate.”
 
 Subsec. (m)(1)(C). Pub. L. 103–66, §4046(b)(1)(B), inserted “(or on the portion of a loan made under section 1078–3 of this title that is used to repay any such loans)” after “on such loans”.
 
@@ -270,7 +274,7 @@ Subsec. (m)(4). Pub. L. 103–208, §2(c)(62), added par. (4).
 
 &emsp;“(C) with respect to students who are nationals of the United States, an institution outside the United States which is comparable to an institution of higher education or to a vocational school and which has been approved by the Secretary for the purpose of this part,
 
-> except that such term does not include any such institution or school which employs or uses commissioned salesmen to promote the availability of any loan program described in section 1078(a)(1), 1078–1, or 1078–2 of this title at that institution or school.”
+> except that such term does not include any such institution or school which employs or uses commissionedsalesmen to promote the availability of any loan program described in section 1078(a)(1), 1078–1, or 1078–2 of this title at that institution or school.”
 
 Subsec. (a)(2). Pub. L. 102–325, §427(a)(3), struck out “and” at end of subpar. (B)(i), substituted “fiscal year 1993; and” for “any succeeding fiscal year.” in subpar. (B)(ii), and added subpar. (B)(iii).
 
@@ -294,7 +298,7 @@ Subsec. (m). Pub. L. 102–325, §427(g), amended subsec. (m) generally, revisin
 
 Subsec. (n). Pub. L. 102–325, §427(f), struck out subsec. (n) which related to impact of loss of accreditation on certification or recertification as an eligible institution.
 
-Subsec. (<i>o</i>). Pub. L. 102–325, §416(e)(2), added subsec. (<i>o).</i>
+Subsec. (<i>o</i>). Pub. L. 102–325, §416(e)(2), added subsec. (<i>o</i>).
 
 1991—Subsec. (c)(1). Pub. L. 102–26 substituted “or who are beyond the age of compulsory school attendance in the State in which the institution is located” for “and who have the ability to benefit (as determined by the institution under section 1088(d) of this title) from the training offered by such institution;”.
 
@@ -320,6 +324,10 @@ Subsec. (g)(2). Pub. L. 100–50, §10(aa)(4), added par. (2) and struck out for
 
 Subsec. (h). Pub. L. 100–50, §10(aa)(5), struck out “Definition of” before “Parental” in heading.
 
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–208 effective on reorganization effective date as defined in section 1087–3(h) of this title, see section 101(e) \[title VI, §602(b)(1)(B)\] of Pub. L. 104–208, set out as a note under section 1078–3 of this title.
+
 #### Effective Date of 1993 Amendments
 
 Amendments by section 2(c)(55), (60)(B) of Pub. L. 103–208 applicable with respect to determination (and appeals from determinations) of cohort default rates for fiscal year 1989 and any succeeding fiscal year, amendments by section 2(c)(56)–(58), (61) of Pub. L. 103–208 effective, except as otherwise provided, as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, amendment by section 2(c)(59) of Pub. L. 103–208 effective on and after 30 days after Dec. 20, 1993, amendment by section 2(c)(60)(A) of Pub. L. 103–208 effective on and after Oct. 1, 1994, and amendment by section 2(c)(62) effective on and after Dec. 20, 1993, see section 5(a), (b)(2), (3), (7), (8) of Pub. L. 103–208, set out as a note under section 1003 of this title.
@@ -328,7 +336,7 @@ Amendment by section 4046(b)(1) of Pub. L. 103–66 effective July 1, 1994, see 
 
 #### Effective Date of 1991 Amendment
 
-Section 2(d)(1) of Pub. L. 102–26 provided that: “The amendments made by this section \[amending this section and sections 1078–1, 1088, 1091, 1094, and 1141 of this title\] shall apply to any grant, loan, or work assistanceto cover the cost of instruction for periods of enrollment beginning on or after July 1, 1991.”
+Section 2(d)(1) of Pub. L. 102–26 provided that: “The amendments made by this section \[amending this section and sections 1078–1, 1088, 1091, 1094, and 1141 of this title\] shall apply to any grant, loan, or work assistance to cover the cost of instruction for periods of enrollment beginning on or after July 1, 1991.”
 
 #### Effective Date of 1990 Amendment
 

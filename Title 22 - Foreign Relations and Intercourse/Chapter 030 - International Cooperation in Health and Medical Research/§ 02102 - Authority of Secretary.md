@@ -24,7 +24,7 @@ To carry out his responsibilities under this section the Secretary may—
 
 For the purposes of this section—
 
-&emsp;(1) The term “health research” shall include, but not be limited to, research, investigations, and studies relating to causes and methods of prevention of accidents, including but not limited to highway and aviation accidents.
+&emsp;(1) The term “health research” shall include, but not be limited to, research, investigations,and studies relating to causes and methods of prevention of accidents, including but not limited to highway and aviation accidents.
 
 &emsp;(2) The term “participating foreign countries” means those foreign countries which cooperate with the United States in carrying out the purposes of this section.
 

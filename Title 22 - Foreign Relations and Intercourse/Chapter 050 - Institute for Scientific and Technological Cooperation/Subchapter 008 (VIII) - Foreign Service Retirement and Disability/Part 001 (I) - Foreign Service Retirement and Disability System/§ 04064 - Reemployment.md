@@ -2,7 +2,7 @@
 
 #### (a) Termination of annuity; coverage under same retirement system or another contributory retirement system; rights and benefits
 
-<sup>1</sup> (1)(A) Except in the case of an annuitant who makes an election under subsection (b) of this section, if any former participant, who has retired and is receiving an annuity under this part or part II of this subchapter, becomes employed in an appointive or elective position in the Government, payment of any annuity under either part to the annuitant shall terminate effective on the date of the employment and the reemployment service shall be covered service under the rules of the system under which the appointment is made.
+<sup>1</sup> (1)(A) Except in the case of an annuitant who makes an election under subsection (b) of this section, if any former participant, who has retired and is receiving an annuity under this part or part II of this subchapter, becomes employed in an appointive or elective position in the Government, payment of any annuity under either part to the annuitant shall terminate effectiveon the date of the employment and the reemployment service shall be covered service under the rules of the system under which the appointment is made.
 
 (B) If the annuity of an individual is terminated under subparagraph (A) and that individual becomes covered under the same retirement system from which that annuity is terminated, that individual shall be entitled to a redetermination of rights under that system upon termination of the employment.
 
@@ -30,7 +30,7 @@
 
 (C) For purposes of this section, the term “annuity” means the annuity earned by the reemployed member based on his or her service irrespective of whether or not the amount payable is reduced by the amount of an annuity payable under section 4054 or 4060(b) of this title.
 
-(4) Upon termination of the part-time, intermittent, or temporary employment referred to in paragraph (1), payment of the full annuity ofan annuitant who has made an election under paragraph (1) of this subsection shall resume.
+(4) Upon termination of the part-time, intermittent, or temporary employment referred to in paragraph (1), payment of the full annuity of an annuitant who has made an election under paragraph (1) of this subsection shall resume.
 
 #### (c) Amount of annuity on resumption; amount resulting from redetermination of rights
 

@@ -8,11 +8,23 @@
 
 &emsp;(3) firefighting equipment, its use, and precautionary measures to guard against fire;
 
-&emsp;(4) inspections and tests related to clauses (1)–(3) of this subsection; and
+&emsp;(4) inspections and tests related to paragraphs (1), (2), and (3) of this subsection; and
 
 &emsp;(5) the use of vessel stores and other supplies of a dangerous nature.
 
-(b) Equipment subject to regulation under this section may not be used on any vessel without prior approval as prescribed by regulation.
+(b)(1) Equipment and material subject to regulation under this section may not be used on any vessel without prior approval of the Secretary.
+
+(2) Except with respect to use on a public vessel, the Secretary may treat an approval ofequipment or materials by a foreign government as approval by the Secretary for purposes of paragraph (1) if the Secretary determines that—
+
+&emsp;(A) the design standards and testing procedures used by that government meet the requirements of the International Convention for the Safety of Life at Sea, 1974;
+
+&emsp;(B) the approval of the equipment or material by the foreign government will secure the safety of individuals and property on board vessels subject to inspection; and
+
+&emsp;(C) for lifesaving equipment, the foreign government—
+
+&emsp;&emsp;(i) has given equivalent treatment to approvals of lifesaving equipment by the Secretary; and
+
+&emsp;&emsp;(ii) otherwise ensures that lifesaving equipment approved by the Secretary may be used on vessels that are documented and subject to inspection under the laws of that country.
 
 (c) In prescribing regulations for sailing school vessels, the Secretary shall consult with representatives of the private sector having experience in the operation of vessels likely to be certificated as sailing school vessels. The regulations shall—
 
@@ -28,11 +40,11 @@
 
 (g) In prescribing regulations for fish processing or fish tender vessels, the Secretary shall consult with representatives of the private sector having experience in the operation of these vessels. The regulations shall reflect the specialized nature and economics of fish processing or fish tender vessel operations and the character, design, and construction of fish processing or fish tender vessels.
 
-(h) The Secretary shall establish appropriate structural fire protection, manning, operating, and equipment requirements for vessels of at least 100 gross tons but less than 300 gross tons carrying not more than 150 passengers on domestic voyages, which meet the eligibility criteria of section 2113(4) of this title.
+(h) The Secretary shall establish appropriate structural fire protection, manning, operating, and equipment requirements for vessels of at least 100 gross tons but less than 300 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title carrying not more than 150 passengers on domestic voyages, which meet the eligibility criteria of section 2113(4) of this title.
 
-(i) The Secretary shall establish appropriate structural fire protection, manning, operating, and equipment requirements for former public vessels of the United States of at least 100 gross tons but less that 500 gross tons carrying not more than 150 passengers on domestic voyages, which meet the eligibility criteria of section 2113(5) of this title.
+(i) The Secretary shall establish appropriate structural fire protection, manning, operating, and equipment requirements for former public vessels of the United States of at least 100 gross tons but less that 500 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title carrying not more than 150 passengers on domestic voyages, which meet the eligibility criteria of section 2113(5) of this title.
 
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 513; Pub. L. 98–364, title IV, §402(5), July 17, 1984, 98 Stat. 446; Pub. L. 103–206, title V, §512(a), Dec. 20, 1993, 107 Stat. 2442.)
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 513; Pub. L. 98–364, title IV, §402(5), July 17, 1984, 98 Stat. 446; Pub. L. 103–206, title V, §512(a), Dec. 20, 1993, 107 Stat. 2442; Pub. L. 104–324, title VI, §604(a), (c), title VII, §712, Oct. 19, 1996, 110 Stat. 3930, 3931, 3936.)
 
 Historical and Revision Notes
 
@@ -136,6 +148,14 @@ Section 3306 contains broad authority to prescribe regulations for the proper in
 
 #### Amendments
 
+1996—Subsec. (a)(4). Pub. L. 104–324, §604(c), substituted “paragraphs (1), (2), and (3)” for “clauses (1)–(3)”.
+
+Subsec. (b). Pub. L. 104–324, §604(a), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Equipment subject to regulation under this section may not be used on any vessel without prior approval as prescribed by regulation.”
+
+Subsec. (h). Pub. L. 104–324, §712(1), inserted “as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title” after “300 gross tons”.
+
+Subsec. (i). Pub. L. 104–324, §712(2), inserted “as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title” after “500 gross tons”.
+
 1993—Subsecs. (h), (i). Pub. L. 103–206 added subsecs. (h) and (i).
 
 1984—Subsec. (g). Pub. L. 98–364 added subsec. (g).
@@ -147,6 +167,14 @@ Section 512(b), (c) of Pub. L. 103–206 provided that:
 “(b) The Secretary of Transportation shall, within twenty-four months of the date of enactment of this Act \[Dec. 20, 1993\], prescribe regulations establishing the structural fire protection, manning, operating, and equipment requirements for vessels which meet the requirements of subsections (h) and (i) of section 3306 of title 46, United States Code, as amended by this Act.
 
 “(c) Before the Secretary of Transportation prescribes regulations under subsections (h) and (i) of section 3306 of title 46, United States Code, as amended by this Act, the Secretary may prescribe the route, service, manning, and equipment for those vessels based on existing passenger vessel and small passenger vessel regulations.”
+
+#### Foreign Approvals
+
+Section 604(b) of Pub. L. 104–324 provided that: “The Secretary of Transportation, in consultation with other interested Federal agencies, shall work with foreign governments to have those governments approve the use of the same equipment and materials on vessels documented under the laws of those countries that the Secretary requires on United States documented vessels.”
+
+#### International Convention for Safety of Life at Sea
+
+For International Conventions for the Safety of Life at Sea to which the United States has been a party, see section 1602 of Title 33, Navigation and Navigable Waters, and notes thereunder.
 
 #### Section Referred to in Other Sections
 

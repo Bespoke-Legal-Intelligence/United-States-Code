@@ -14,7 +14,7 @@ No person shall—
 
 (1) The application required by subsection (a) shall be in such form, shall be submitted at such times, and shall contain such information, as the Secretary shall by regulations prescribe.
 
-(2) Permits under this section shall, under such regulations as the Secretary shall prescribe, designate and limit the acts which are permitted, and the place where and time when such acts may be performed. Such permits shall be issued in such form and under such conditions as the Secretary may by regulations prescribe.
+(2) Permits under this section shall, under such regulations as the Secretary shall prescribe, designate and limit the acts which are permitted, and the place where and time whensuch acts may be performed. Such permits shall be issued in such form and under such conditions as the Secretary may by regulations prescribe.
 
 #### (c) Disapproval of application
 
@@ -30,7 +30,7 @@ Any application submitted under this section may be disapproved and the permit d
 
 #### (d) Changes after issuance of permit
 
-With respect to any change relating to the information contained in the application for a permit issued under this section, the Secretarymay by regulations require the filing of written notice of such change and, where the change affects the terms of the permit, require the filing of an amended application.
+With respect to any change relating to the information contained in the application for a permit issued under this section, the Secretary may by regulations require the filing of written notice of such change and, where the change affects the terms of the permit, require the filing of an amended application.
 
 #### (e) Suspension or revocation
 

@@ -1,6 +1,6 @@
 ### §1146a. Contracting authority subject to appropriations
 
-The authority to enter into contracts or other obligations under this Act (other than amendments made to part B of subchapter IV of thischapter) shall be effective for any fiscal year only to such extent or in such amounts as are provided in appropriation Acts.
+The authority to enter into contracts or other obligations under this Act (other than amendments made to part B of subchapter IV of this chapter) shall be effective for any fiscal year only to such extent or in such amounts as are provided in appropriation Acts.
 
 (Pub. L. 99–498, §3, Oct. 17, 1986, 100 Stat. 1278.)
 

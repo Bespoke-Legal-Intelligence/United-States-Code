@@ -54,6 +54,8 @@ Act
 
 2208(c)
 
+&nbsp;
+
 2208(d)
 
 5:172d(a).
@@ -150,197 +152,29 @@ Section 1204(b) of Pub. L. 98–94 provided that: “The amendment made by subse
 
 #### Oversight of Defense Business Operations Fund
 
-Pub. L. 103–337, div. A, title III, §311(b)–(g), Oct. 5, 1994, 108 Stat. 2708, 2709, provided that:
+Pub. L. 103–337, div. A, title III, §311(b)–(e), Oct. 5, 1994, 108 Stat. 2708, which related to purchase from other sources, limitation on inclusion of certain costs in DBOF charges, procedures for accumulation of funds, and annual reports and budget, was repealed and restated in section 2216a(d)(2)(B), (f) to (h)(3) of this title by Pub. L. 104–106, div. A, title III, §371(a)(1), (b)(1), Feb. 10, 1996, 110 Stat. 277–279.
 
-“(b)
-
-Purchase From Other Sources.—The Secretary of Defense or the Secretary of a military department may purchase goods and services that are available for purchase from the Defense Business Operations Fund from a source other than the Fund if the Secretary determines that such source offers a more competitive rate for the goods and services than the Fund offers.
-
-“(c)
-
-Limitation on Inclusion of Certain Costs in DBOF Charges.—A charge imposed for a good or service provided through the Fund may not include amounts necessary to cover costs incurred in connection with the closure or realignment of a military installation.
-
-“(d)
-
-Procedures for Accumulation of Funds.—The Secretary of Defense shall establish billing procedures to ensure that the balance in the Fund does not exceed the amount necessary to provide for the working capital requirements of the Fund, as determined by the Secretary.
-
-“(e)
-
-Annual Reports and Budget.—The Secretary of Defense shall annually submit to the congressional defense committees, at the same time that the President submits the budget under section 1105 of title 31, United States Code, the following:
-
-&emsp;“(1) A detailed report that contains a statement of all receipts and disbursements of the Fund (including such a statement for each subaccount of the Fund) for the year for which the report is submitted.
-
-&emsp;“(2) A detailed proposed budget for the operation of the Fund for the fiscal year for which the budget is submitted.
-
-&emsp;“(3) A comparison of the amounts actually expended for the operation of the Fund for the previous fiscal year with the amount proposed for the operation of the Fund for that fiscal year in the budget.
-
-“(f)
-
-Implementation of Improvement Plan.—(1) Not later than February 1, 1995, the Secretary of Defense shall submit to the congressional defense committees a report on the progress made in implementing the Defense Business Operations Fund Improvement Plan, dated September 1993. The report shall describe theprogress made in reaching the milestones established in the plan and provide an explanation for any failure to meet any such milestone. The Secretary shall submit a copy of the report to the Comptroller General of the United States at the same time that the Secretary submits the report to the congressional defense committees.
-
-“(2) The Comptroller General shall monitor and evaluate the progress of the Department of Defense in developing and implementing the improvement plan referred to in paragraph (1).
-
-“(3) Not later than March 1, 1995, the Comptroller General shall submit to the congressional defense committees a report containing the following:
-
-&emsp;“(A) An evaluation of the progress report submitted to the congressional defense committees by the Secretary of Defense pursuant to paragraph (1).
-
-&emsp;“(B) The findings and conclusions of the Comptroller General resulting from the monitoring and evaluation conducted under paragraph (2).
-
-&emsp;“(C) Any recommendations for legislation or administrative action concerning the Fund that the Comptroller General considers appropriate.
-
-“(g)
-
-Definition.—In this section, the term ‘Fund’ means the Defense Business Operations Fund.”
+Pub. L. 103–337, div. A, title III, §311(f), (g), Oct. 5, 1994, 108 Stat. 2709, required Secretary of Defense to submit to congressional defense committees, not later than Feb. 1, 1995, a report on progress made in implementing the Defense Business Operations Fund Improvement Plan, dated September 1993, and required Comptroller General to monitor and evaluate the Department of Defense implementation of the Plan and to report to congressional defense committees not later than Mar. 1, 1995.
 
 #### Charges for Goods and Services Provided Through Defense Business Operations Fund
 
-Section 333(a), (b) of Pub. L. 103–160 provided that:
-
-“(a)
-
-In General.—Charges for goods and services provided through the Defense Business Operations Fund—
-
-&emsp;“(1) shall include amounts necessary to recover the full costs of—
-
-&emsp;&emsp;“(A) the development, implementation, operation, and maintenance of systems supporting the wholesale supply and maintenance activities of the Department of Defense; and
-
-&emsp;&emsp;“(B) the use of military personnel in the provision of the goods and services, as computed by calculating, to the maximum extent practicable, such costs if employees of the Department of Defense were used in the provision of the goods and services; and
-
-&emsp;“(2) shall not include amounts necessary to recover the costs of a military construction project (as such term is defined in section 2801(b) of title 10, United States Code), other than a minor construction project financed by the Defense Business Operations Fund pursuant to section 2805(c)(1) of such title.
-
-“(b)
-
-Defense Finance Accounting Services.—The full cost of the operation of the Defense Finance Accounting Service shall be financed within the Defense Business Operations Fund through charges for goods and services provided through the Fund.”
+Section 333(a), (b) of Pub. L. 103–160, which provided that charges for goods and services provided through Defense Business Operations Fund were to include amounts necessary to recover full costs of development, implementation, operation, and maintenance of systems supporting wholesale supply and maintenance activities of Department of Defense and use of military personnel in provision of goods and services, and were not to include amounts necessary to recover costs of military construction project other than minor construction project financed by Defense Business Operations Fund pursuant to section 2805(c)(1) of this title, and which required full cost of operation of Defense Finance Accounting Service to be financed within Defense Business Operations Fund through charges for goods and services provided through Fund, was repealed and restated in section 2216a(d)(1)(A), (C), (2)(A) of this title by Pub. L. 104–106, div. A, title III, §371(a)(1), (b)(2), Feb. 10, 1996, 110 Stat. 277–279.
 
 #### Capital Asset Subaccount
 
-Section 342 of Pub. L. 102–484, as amended by Pub. L. 103–160, div. A, title III, §333(c), Nov. 30, 1993, 107 Stat. 1622, provided that:
-
-“(a)
-
-Use of Subaccount for Capital Assets Depreciation Charges.—Charges for goods and services provided through the Defense Business Operations Fund shall include amounts for depreciation of capital assets, set in accordance with generally accepted accounting principles. Amounts charged for depreciation shall be credited to a separate capital asset subaccount established within the Fund.
-
-“(b)
-
-Award of Contracts.—The Secretary of Defense may award contracts for capital assets of the Fund in advance of the availability of funds in the subaccount.
-
-“(c)
-
-Annual Report.—The Secretary of Defense shall submit to the congressional defense committees each year, at the same time that the President submits the budget to the Congress under section 1105 of title 31, United States Code, a report that specifies—
-
-&emsp;“(1) the opening balance of the subaccount as of the beginning of the fiscal year in which the report is submitted;
-
-&emsp;“(2) the estimated amounts to be credited to the subaccount in the fiscal year in which the report is submitted;
-
-&emsp;“(3) the estimated amounts of outlays to be paid out of the subaccount in the fiscal year in which the report is submitted;
-
-&emsp;“(4) the estimated balance of the subaccount at the end of the fiscal year in which the report is submitted; and
-
-&emsp;“(5) a statement of how much of the estimated balance at the end of the fiscal year in which the report is submitted will be needed to pay outlays in the immediately following fiscal year that are in excess of the amount to be credited to the subaccount in the immediately following fiscal year.
-
-“(d)
-
-Authorization.—There is hereby authorized to be appropriated to the Fund subaccount for fiscal years 1993 and 1994 such sums as may be necessary to pay outlays for capital assets in excess of the amount otherwise available in the subaccount.
-
-“(e)
-
-Definitions.—For purposes of this section:
-
-&emsp;“(1) The term ‘capital assets’ means the following capital assets that have a development or acquisition cost of not less than $15,000:
-
-&emsp;&emsp;“(A) Minor construction projects financed by the Fund pursuant to section 2805(c)(1) of title 10, United States Code.
-
-&emsp;&emsp;“(B) Automatic data processing equipment, software, other equipment, and other capital improvements.
-
-&emsp;“(2) The term ‘Fund’ means the Defense Business Operations Fund.”
+Section 342 of Pub. L. 102–484, as amended by Pub. L. 103–160, div. A, title III, §333(c), Nov. 30, 1993, 107 Stat.1622, which provided that charges for goods and services provided through the Defense Business Operations Fund include amounts for depreciation of capital assets which were to be credited to a separate capital asset subaccount in the Fund, authorized Secretary of Defense to award contracts for capital assets of the Fund in advance of availability of funds in the subaccount, required Secretary to submit annual reports to congressional defense committees, authorized appropriations to the Fund for fiscal years 1993 and 1994, and defined terms, was repealed and restated in section 2216a(d)(1)(B), (e), (h)(4), and (i) of this title by Pub. L. 104–106, div. A, title III, §371(a)(1), (b)(3), Feb. 10, 1996, 110 Stat. 277–279.
 
 #### Limitations on Use of Defense Business Operations Fund
 
-Pub. L. 102–190, div. A, title III, §316, Dec. 5, 1991, 105 Stat. 1338, as amended by Pub. L. 102–484, div. A, title III, §341, Oct. 23, 1992, 106 Stat. 2374; Pub. L. 103–160, div. A, title III, §§331, 332, Nov. 30, 1993, 107 Stat. 1620; Pub. L. 103–337, div. A, title III, §311(a), Oct. 5, 1994, 108 Stat. 2708, provided that:
-
-“(a)
-
-Management Method.—The Secretary of Defense may manage the performance of the working-capital funds and industrial, commercial, and support type activities described in subsection (b) through the use of a single Defense Business Operations Fund (in this section referred to as the ‘Fund’). Except for the funds and activities specified in subsection (b), no other functions, activities, funds, or accounts of the Department of Defense may be managed through the Defense Business Operations Fund.
-
-“(b)
-
-Funds and Activities Included.—The funds and activities referred to in subsection (a) are—
-
-&emsp;“(1) working-capital funds established under section 2208 of title 10, United States Code, and in existence on the date of the enactment of this Act \[Dec. 5, 1991\];
-
-&emsp;“(2) those activities that, on the date of the enactment of this Act, are funded through the use of a working-capital fund established under that section; and
-
-&emsp;“(3) the Defense Finance and Accounting Service, the Defense Industrial Plant Equipment Center, the Defense Commissary Agency, the Defense Technical Information Service, and the Defense Reutilization and Marketing Service.
-
-“(c)
-
-Separate Accounting, Reporting, and Auditing of Funds and Activities.—For purposes of accounting, financial reporting, and auditing, the Secretary of Defense shall maintain—
-
-&emsp;“(1) the separate identity of each fund and activity managed through the Fund that (before the establishment of the Fund) was managed as a separate fund or activity; and
-
-&emsp;“(2) separate records for each function for which payment is made through the Fund and which (before the establishment of the Fund) was paid directly through appropriations, including the separate identity of the appropriation account used to pay for the performance of the function.
-
-“(d)
-
-Comprehensive Management Plan.—(1) Not later than 30 days after the date of the enactment of the National Defense Authorization Act for Fiscal Year1994 \[Nov. 30, 1993\], the Secretary of Defense shall submit to the congressional defense committees a comprehensive management plan for the Defense Business Operations Fund. The Secretary shall identify in the plan the actions the Secretary will take to improve the implementation and operation of the Defense Business Operations Fund.
-
-“(2)(A) The plan shall also include the following matters:
-
-&emsp;“(i) The specific tasks to be performed to address the serious shortcomings that exist in the Fund's implementation and operation.
-
-&emsp;“(ii) Milestones for starting and completing each task.
-
-&emsp;“(iii) A statement of the resources needed to complete each task.
-
-&emsp;“(iv) The specific organizations within the Department of Defense that are responsible for accomplishing each task.
-
-&emsp;“(v) Department of Defense plans to monitor the implementation of all corrective actions.
-
-“(B) The plan shall also address the following specific areas:
-
-&emsp;“(i) The management and organizational structure of the Fund.
-
-&emsp;“(ii) The development and implementation of the policies and procedures, including cash management and internal controls, applicable to the Fund.
-
-&emsp;“(iii) Management reporting, including financial and operational reporting.
-
-&emsp;“(iv) Accuracy and reliability of cost accounting data.
-
-&emsp;“(v) Development and use of performance indicators to measure the efficiency and effectiveness of Fund operations.
-
-&emsp;“(vi) The status of efforts to develop and implement new financial systems for the Fund.
-
-“(e)
-
-Progress Report on Implementation.—Not later than February 1, 1994, the Secretary of Defense shall submit to the congressional defense committees a report on the progress made in implementing the comprehensive management plan required by subsection (d). The report shall describe the progress made in reaching the milestones established in the plan and provide an explanation for the failure to meet any of the milestones. The Secretary shall submit a copy of the report to the Comptroller General of the United States at the same time the Secretary submits the report to the congressional defense committees.
-
-“(f)
-
-Responsibilities of the Comptroller General.—(1) The Comptroller General shall monitor and evaluate the progress of the Department of Defense in developing and implementing the comprehensive management plan required by subsection (d).
-
-“(2) Not later than March 1, 1994, the Comptroller General shall submit to the congressional defense committees a report containing the following:
-
-&emsp;“(A) The findings and conclusions of the Comptroller General resulting from the monitoring and evaluation conducted under paragraph (1).
-
-&emsp;“(B) An evaluation of the progress report submitted to the congressional defense committees by the Secretary of Defense pursuant to subsection (e).
-
-&emsp;“(C) Any recommendations for legislation or administrative action concerning the Fund that the Comptroller General considers appropriate.”
+Pub. L. 102–190, div. A, title III, §316, Dec. 5, 1991, 105 Stat. 1338, as amended by Pub. L. 102–484, div. A, title III, §341, Oct. 23, 1992, 106 Stat. 2374; Pub. L. 103–160, div. A, title III, §§331, 332, Nov. 30, 1993, 107 Stat. 1620; Pub. L. 103–337, div. A, title III, §311(a), Oct. 5, 1994, 108 Stat. 2708, which authorized Secretary of Defense to manage performance of certain working-capital funds established under this section, the Defense Finance and Accounting Service, the Defense Industrial Plan Equipment Center, the Defense Commissary Agency, the Defense Technical Information Service, the Defense Reutilization and Marketing Service, and certain activities funded through use of working-capital fund established under this section, directed Secretary to maintain separate accounting, reporting, and auditing of such funds and activities, required Secretary to submit to congressional defense committees, by not later than 30 days after Nov. 30, 1993, a comprehensive management plan and, by not later than Feb. 1, 1994, a progress report on plan's implementation, and directed Comptroller General to monitor and evaluate the plan and submit to congressional defense committees, not later than Mar. 1, 1994, a report, was repealed and restated in section 2216a(a)–(c) of this title by Pub. L. 104–106, div. A, title III, §371(a)(1), (b)(4), Feb. 10, 1996, 110 Stat. 277, 279.
 
 #### Defense Business Operations Fund
 
-Section 8121 of Pub. L. 102–172 provided that:
-
-“(a) There is established on the books of the Treasury a fund entitled the ‘Defense Business Operations Fund’ (hereinafter referred to as the ‘Fund’) to be operated as a working capital fund under the provisions of section 2208 of title 10, United States Code. Existing organizations which shall operate as part of the Fund shall include, but not be limited to, (1) The Defense Finance and Accounting Service; (2) The Defense Commissary Agency; (3) The Defense Technical Information Center; (4) The Defense Reutilization and Marketing Service; and (5) The Defense Industrial Plant Equipment Service.
-
-“(b) Upon the enactment of this Act \[Nov. 26, 1991\], there shall be transferred to the Fund all assets and balances of working capital funds heretofore established under the provisions of section 2208 of title 10, United States Code.
-
-“(c) Amounts charged for supplies and services provided by the Fund shall include capital asset charges which shall be calculated so that the total amount of the charges assessed during any fiscal year shall equal the total amount of (1) the costs of equipment purchased during that fiscal year by the Fund for the purpose of providing supplies and services by the Fund and (2) the costs, other than costs of military construction, of capital improvements made for the purpose of providing services by the Fund.
-
-“(d) Capital asset charges collected pursuant to the provisions of subsection (c) shall be credited to a subaccount of the Fund which shall be available only for the payment of: (1) the costs of equipment purchased by the Fund for the purpose of providing supplies and services by the Fund and (2) the costs other than costs of military construction, of capital improvements made for the purposes of providing services by the Fund.”
+Section 8121 of Pub. L. 102–172, which established on the books of the Treasury a fund entitled the “Defense Business Operations Fund” to be operated as a working capital fund under the provisions of this section and to include certain existing organizations including the Defense Finance and Accounting Service, the Defense Commissary Agency, the Defense Technical Information Center, the Defense Reutilization and Marketing Service, and the Defense Industrial Plant Equipment Service, directed transfer of assets and balances of those organizations to the Fund, provided for budgeting and accounting of charges for supplies and services provided by the Fund, and directed that capital asset charges collected be credited to a subaccount of the Fund, was repealed by Pub. L. 104–106, div. A, title III, §371(b)(5), Feb. 10, 1996, 110 Stat. 280. See section 2216a of this title.
 
 #### Sale of Inventories for Performance of Contracts With Defense Department
 
-Pub. L. 96–154, title VII, §767, Dec. 21, 1979, 93 Stat. 1163, which had provided that supplies available in inventories financed by working capital funds established pursuant to this section could, on and after Dec. 21, 1979, be sold to contractors for use in performing contracts with the Department of Defense, was repealed and reenacted in subsec. (h) of this section by Pub. L. 97–295, §§1(22), 6(b), Oct. 12, 1982, 96 Stat. 1290, 1315.
+Pub. L. 96–154, title VII, §767, Dec. 21, 1979, 93 Stat. 1163, which had provided that supplies available in inventories financed by working capital funds established pursuant to this section could, on and after Dec. 21, 1979, be sold to contractors for use in performing contracts with the Department of Defense, was repealed and restated in subsec. (h) of this section by Pub. L. 97–295, §§1(22), 6(b), Oct. 12, 1982, 96 Stat. 1290, 1315.
 
 #### Cross References
 
@@ -348,5 +182,5 @@ Sale of articles acquired with working capital funds, see sections 4621 and 9621
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 129, 2210, 2350c, 4543, 4621, 7227, 9621 of this title; title 40 section 484.
+This section is referred to in sections 129, 2210, 2216a, 2350c, 4543, 4621, 7227, 7606, 9621 of this title; title 40 section 484.
 

@@ -2,7 +2,7 @@
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in sections 1437f, 1437u of this title.
+This subchapter is referred to in sections 1437d, 1437f, 1437u of this title.
 
 
 ---
@@ -26,4 +26,4 @@ This subchapter is referred to in sections 1437f, 1437u of this title.
 - [&sect; 12711 - Protection of State and local authority](%C2%A7%2012711%20-%20Protection%20of%20State%20and%20local%20authority.md)
 - [&sect; 12712 - 5-year energy efficiency plan](%C2%A7%2012712%20-%205-year%20energy%20efficiency%20plan.md)
 - [&sect; 12713 - Eligibility under first-time homebuyer programs](%C2%A7%2012713%20-%20Eligibility%20under%20first-time%20homebuyer%20programs.md)
-- [&sect; 12714 - Maximum annual limitation on rent increases resulting from employment](%C2%A7%2012714%20-%20Maximum%20annual%20limitation%20on%20rent%20increases%20resulting%20from%20employment.md)
+- [&sect; 12714 - Repealed. Pub. L. 104&#8211;99, title IV, &sect;404(a), Jan. 26, 1996, 110 Stat. 44](%C2%A7%2012714%20-%20Repealed.%20Pub.%20L.%20104%E2%80%9399%2C%20title%20IV%2C%20%C2%A7404%28a%29%2C%20Jan.%2026%2C%201996%2C%20110%20Stat.%2044.md)

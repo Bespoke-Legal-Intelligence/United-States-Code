@@ -24,7 +24,7 @@ Encourage interstate and regional cooperation in the planning, acquisition, and 
 
 #### (f) Research and education
 
-(1) Sponsor, engage in, and assist in research relating to outdoor recreation, directly or by contract or cooperative agreements, and make payments for such purposes without regard to the limitations of section 3324(a) and (b) of title 31 concerning advances of funds when he considers such action in the public interest, (2) undertakes studies and assemble information concerning outdoor recreation, directly or by contractor cooperative agreement, and disseminate such information without regard to the provisions of section 3204 of title 39, and (3) cooperate with educational institutions and others in order to assist in establishing education programs and activities and to encourage public use and benefits from outdoor recreation.
+(1) Sponsor, engage in, and assist in research relating to outdoor recreation, directly or by contract or cooperative agreements, and make payments for such purposes without regard to the limitations of section 3324(a) and (b) of title 31 concerning advances of funds when he considers such action in the public interest, (2) undertakes studies and assemble information concerning outdoor recreation, directly or by contract or cooperative agreement, and disseminate such information without regard to the provisions of section 3204 of title 39, and (3) cooperate with educational institutions and others in order to assist in establishing education programs and activities and to encourage public use and benefits from outdoor recreation.
 
 #### (g) Federal interdepartmental cooperation; coordination of Federal plans and activities; expenditures; reimbursement
 

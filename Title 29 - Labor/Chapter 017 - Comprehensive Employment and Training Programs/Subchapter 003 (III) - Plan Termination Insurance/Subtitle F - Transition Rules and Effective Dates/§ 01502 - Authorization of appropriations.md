@@ -16,7 +16,7 @@
 
 &emsp;(A) shall first reserve—
 
-&emsp;&emsp;(i) an amount of not less than 3.3 percent of the amount available for parts A and C ofsubchapter II of this chapter for such fiscal year to carry out section 1671 of this title; and
+&emsp;&emsp;(i) an amount of not less than 3.3 percent of the amount available for parts A and C of subchapter II of this chapter for such fiscal year to carry out section 1671 of this title; and
 
 &emsp;&emsp;(ii) an amount of not less than 3.2 percent of the amount available for parts A and C of subchapter II of this chapter for such fiscal year to carry out section 1672 of this title; and
 

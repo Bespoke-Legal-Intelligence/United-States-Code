@@ -8,7 +8,7 @@ Section 776b, acts July 29, 1947, ch. 345, §4, 61 Stat. 512; July 11, 1957, Pub
 
 Section 776c, acts July 29, 1947, ch. 345, §5, 61 Stat. 512; July 11, 1957, Pub. L. 85–102, §3, 71 Stat. 294, related to penalties and forfeitures, and procedures involving violations. See section 3631 et seq. of this title.
 
-Section 776d, acts July 29, 1947, ch. 345, §6, 61 Stat. 513; July 11, 1957, Pub. L. 85–102, §3, 71 Stat. 294; Oct. 17, 1968, Pub. L. 90–578, title IV, §402(b)(2), 82 Stat. 1118; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, provided enforcement procedures for this chapter. See section 3631 et seq. of this title.
+Section 776d, acts July 29, 1947, ch. 345, §6, 61 Stat. 513; July 11, 1957, Pub. L. 85–102, §3, 71 Stat. 294; Oct. 17,1968, Pub. L. 90–578, title IV, §402(b)(2), 82 Stat. 1118; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, provided enforcement procedures for this chapter. See section 3631 et seq. of this title.
 
 Section 776e, acts July 29, 1947, ch. 345, §7, 61 Stat. 514; July 11, 1957, Pub. L. 85–102, §4, 71 Stat. 294, related to the cooperation of Federal agencies and the conduct of scientific investigations. See section 3631 et seq. of this title.
 
@@ -24,7 +24,7 @@ Section 10 of act July 29, 1947, which provided that this Act \[this chapter\] s
 
 #### Short Title
 
-Section 1 of act July 29, 1947, as amended by Pub. L. 85–102, §3, July 11, 1957, 71 Stat. 294, which provided thatthis Act \[this chapter\] may be cited as the “Sockeye Salmon or Pink Salmon Fishing Act of 1947”, was repealed by Pub. L. 99–5, §13, Mar. 15, 1985, 99 Stat. 15.
+Section 1 of act July 29, 1947, as amended by Pub. L. 85–102, §3, July 11, 1957, 71 Stat. 294, which provided that this Act \[this chapter\] may be cited as the “Sockeye Salmon or Pink Salmon Fishing Act of 1947”, was repealed by Pub. L. 99–5, §13, Mar. 15, 1985, 99 Stat. 15.
 
 #### Savings Provision
 

@@ -106,7 +106,7 @@ Scope of Rulemaking.—Issues to be considered in the rulemaking proceeding to b
 
 “(c)
 
-Additional Procedural Changes.—In conducting the rulemaking proceeding to carry out subsection (a), the Commission shall identify and transmit to Congress any other procedural changes relating to oil pipeline rates which the Commission determines are necessary to avoid unnecessary regulatory costs and delays and for which additional legislative authority may be necessary.
+Additional Procedural Changes.—In conducting the rulemaking proceeding to carry out subsection (a), the Commission shall identify and transmit to Congress any other procedural changes relating to oil pipeline rates which the Commission determines are necessary to avoid unnecessary regulatory costs anddelays and for which additional legislative authority may be necessary.
 
 “(d)
 

@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(A) any part of the amount determined by the executor as the tax imposed by chapter 11, or
 
-&emsp;&emsp;(B) any part of any installment under section 6166 (including any part of a deficiency prorated to any installment under such section).
+&emsp;&emsp;(B) any part of any installment under section 6166 (including any part of a deficiencyprorated to any installment under such section).
 
 > &emsp;for a reasonable period not in excess of 10 years from the date prescribed by section 6151(a) for payment of the tax (or, in the case of an amount referred to in subparagraph (B), if later, not beyond the date which is 12 months after the due date for the last installment).
 
@@ -44,7 +44,7 @@ Extensions of time for payment of any portion of a claim for tax under chapter 1
 
 &emsp;&emsp;<b>For authority of the Secretary to require security in case of an extension under subsection (a)(2) or subsection (b), see section 6165.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 762; Sept. 2, 1958, Pub. L. 85–866, title II, §206(c), 72 Stat. 1684; Dec. 30, 1969, Pub. L. 91–172, title I, §101(j)(37), 83 Stat. 530; Dec. 31, 1970, Pub. L. 91–614, title I, §101(h),84 Stat. 1838; Sept. 2, 1974, Pub. L. 93–406, title II, §1016(a)(7), 88 Stat. 929; Oct. 4, 1976, Pub. L. 94–455, title XIII, §1307(d)(2)(C), title XVI, §1605(b)(3), title XIX, §1906(b)(13)(A), title XX, §2004(c)(1), (2), 90 Stat. 1727, 1754, 1834, 1867, 1868; Apr. 2, 1980, Pub. L. 96–223, title I, §101(f)(1)(H), 94 Stat. 252; Dec. 24, 1980, Pub. L. 96–589, §6(i)(8), 94 Stat. 3410; Aug. 13, 1981, Pub. L. 97–34, title IV, §422(e)(1), 95 Stat. 316; Aug. 23, 1988, Pub. L. 100–418, title I, §1941(b)(2)(B)(viii), 102 Stat. 1323.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 762; Sept. 2, 1958, Pub. L. 85–866, title II, §206(c), 72 Stat. 1684; Dec. 30, 1969, Pub. L. 91–172, title I, §101(j)(37), 83 Stat. 530; Dec. 31, 1970, Pub. L. 91–614, title I, §101(h), 84 Stat. 1838; Sept. 2, 1974, Pub. L. 93–406, title II, §1016(a)(7), 88 Stat. 929; Oct. 4, 1976, Pub. L. 94–455, title XIII, §1307(d)(2)(C), title XVI, §1605(b)(3), title XIX, §1906(b)(13)(A), title XX, §2004(c)(1), (2), 90 Stat. 1727, 1754, 1834, 1867, 1868; Apr. 2, 1980, Pub. L. 96–223, title I, §101(f)(1)(H), 94 Stat. 252; Dec. 24, 1980, Pub. L. 96–589, §6(i)(8), 94 Stat. 3410; Aug. 13, 1981, Pub. L. 97–34, title IV, §422(e)(1), 95 Stat. 316; Aug. 23, 1988, Pub. L. 100–418, title I, §1941(b)(2)(B)(viii), 102 Stat. 1323.)
 
 #### Amendments
 
@@ -116,7 +116,7 @@ Amendment by Pub. L. 91–172 effective Jan. 1, 1970, see section 101(k)(1) of P
 
 #### Effective Date of 1958 Amendment
 
-Section 206(f) of Pub. L. 85–866, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by this section \[enacting section 6166 of this title and amending this section and sections 6503 and 6601 of this title\] shall apply to estates of decedents with respect to which the date for the filing of the estate tax return (including extensions thereof) prescribed by section 6075(a) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] is after the date of the enactment of this Act \[Sept. 2, 1958\]; except that (1) section 6166(i) of such Code as added by this section shall apply to estates of decedents dying after August 16, 1954, but only if the date for the filing of the estate tax return (including extensions thereof) expired on or before the date of the enactment of this Act \[Sept. 2, 1958\], and (2) notwithstanding section 6166(a) of such Code, if an election under such section is required to be made before the sixtieth day after the date of theenactment of this Act \[Sept. 2, 1958\] such an election shall be considered timely if made on or before such sixtieth day.”
+Section 206(f) of Pub. L. 85–866, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by this section \[enacting section 6166 of this title and amending this section and sections 6503 and 6601 of this title\] shall apply to estates of decedents with respect to which the date for the filing of the estate tax return (including extensions thereof) prescribed by section 6075(a) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] is after the date of the enactment of this Act \[Sept. 2, 1958\]; except that (1) section 6166(i) of such Code as added by this section shall apply to estates of decedents dying after August 16, 1954, but only if the date for the filing of the estate tax return (including extensions thereof) expired on or before the date of the enactment of this Act \[Sept. 2, 1958\], and (2) notwithstanding section 6166(a) of such Code, if an election under such section is required to be made before the sixtieth day after the date of the enactment of this Act \[Sept. 2, 1958\] such an election shall be considered timely if made on or before such sixtieth day.”
 
 #### Cross References
 

@@ -8,7 +8,7 @@ utilize or employ the services, personnel, equipment, or facilities of any other
 
 #### (b) Employment of personnel
 
-appoint officers and employees, including attorneys, for the Agency in accordance with the provisions of title 5 governing appointment in the competitive service, and fix their compensation in accordance with chapter 51 and with subchapter III of chapter 53 of such title, relating to classification and General Schedule pay rates, except that the Director may, to the extent the Director determines necessary to the discharge of his responsibilities, appoint and fix the compensation of employees possessing specialized technical expertise without regard to the provisions of title 5 governing appointments in the competitive service and the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates, if the Director ensures that—
+appoint officers and employees, including attorneys, for the Agency in accordance with the provisions of title 5 governing appointment in the competitive service, and fix their compensation in accordance with chapter 51 and with subchapter III of chapter 53 of such title, relating to classification and General Schedule pay rates,except that the Director may, to the extent the Director determines necessary to the discharge of his responsibilities, appoint and fix the compensation of employees possessing specialized technical expertise without regard to the provisions of title 5 governing appointments in the competitive service and the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates, if the Director ensures that—
 
 &emsp;(1) any employee who is appointed under this exception is not paid at a rate—
 
@@ -68,7 +68,7 @@ The General Schedule, referred to in subsec. (b), is set out under section 5332 
 
 “(2) the Director shall make adequate provision for administrative review of any determination to suspend or dismiss any officer or employee appointed under the foregoing exception; and
 
-“(3) an officer or employee of the Agency serving under a career or career conditional appointment on August 17, 1977, may not be involuntarily deprived, while employed by the Agency, of any rights normallygranted such officer or employee in the competitive service;”.
+“(3) an officer or employee of the Agency serving under a career or career conditional appointment on August 17, 1977, may not be involuntarily deprived, while employed by the Agency, of any rights normally granted such officer or employee in the competitive service;”.
 
 1991—Subsecs. (h) to (j). Pub. L. 102–228 added subsec. (h) and redesignated former subsecs. (h) and (i) as (i) and (j), respectively.
 

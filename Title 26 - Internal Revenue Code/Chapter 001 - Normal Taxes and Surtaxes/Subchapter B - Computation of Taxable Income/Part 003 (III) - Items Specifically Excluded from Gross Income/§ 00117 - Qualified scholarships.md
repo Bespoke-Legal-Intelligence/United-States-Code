@@ -36,7 +36,7 @@ Subsections (a) and (d) shall not apply to that portion of any amount received w
 
 &emsp;&emsp;(A) such employee, or
 
-&emsp;&emsp;(B) any person treated as an employee (or whose use is treated as an employee use) under the rules of section 132(f).<sup>1</sup>
+&emsp;&emsp;(B) any person treated as an employee (or whose use is treated as an employee use) under the rules of section 132(h).
 
 #### (3) Reduction must not discriminate in favor of highly compensated, etc.
 
@@ -48,13 +48,11 @@ Subsections (a) and (d) shall not apply to that portion of any amount received w
 
 &emsp;In the case of the education of an individual who is a graduate student at an educational organization described in section 170(b)(1)(A)(ii) and who is engaged in teaching or research activities for such organization, paragraph (2) shall be applied as if it did not contain the phrase “(below the graduate level)”.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 38; Sept. 21, 1961, Pub. L. 87–256, §110(a), 75 Stat. 535; Oct. 4, 1976, Pub. L. 94–455, title XIX, §1901(b)(8)(A), (c)(3), 90 Stat. 1794, 1803; Dec. 17, 1980, Pub. L. 96–541, §5(a)(1), 94 Stat. 3205; July 18, 1984, Pub. L. 98–369, div. A, title V, §532(a), 98 Stat. 887; Oct. 22, 1986, Pub. L. 99–514, title I, §123(a), title XI, §§1114(b)(2), 1151(g)(2), 100 Stat. 2112, 2450, 2506; Nov. 10, 1988, Pub. L. 100–647, title I, §1011B(a)(31)(B), title IV, §4001(b)(2), 102 Stat. 3488, 3643; Nov. 8, 1989, Pub. L. 101–140, title II, §203(a)(1), (2), 103 Stat. 830.)
-
-#### References in Text
-
-Section 132(f), referred to in subsec. (d)(2)(B), was redesignated section 132(g) by Pub. L. 102–486, title XIX, §1911(b), Oct. 24, 1992, 106 Stat. 3012, and was redesignated section 132(h) by Pub. L. 103–66, title XIII, §13213(d)(2), Aug. 10, 1993, 107 Stat. 474.
+(Aug. 16, 1954, ch. 736, 68A Stat. 38; Sept. 21, 1961, Pub. L. 87–256, §110(a), 75 Stat. 535; Oct. 4, 1976, Pub. L. 94–455, title XIX, §1901(b)(8)(A), (c)(3), 90 Stat. 1794, 1803; Dec. 17, 1980, Pub. L. 96–541, §5(a)(1), 94 Stat. 3205; July 18, 1984, Pub. L. 98–369, div. A, title V, §532(a), 98 Stat. 887; Oct. 22, 1986, Pub. L. 99–514, title I, §123(a), title XI, §§1114(b)(2), 1151(g)(2), 100 Stat. 2112, 2450, 2506; Nov. 10, 1988, Pub. L. 100–647, title I, §1011B(a)(31)(B), title IV, §4001(b)(2), 102 Stat. 3488, 3643; Nov. 8, 1989, Pub. L. 101–140, title II, §203(a)(1), (2), 103 Stat. 830; Aug. 20, 1996, Pub. L. 104–188, title I, §1703(n)(14), 110 Stat. 1878.)
 
 #### Amendments
+
+1996—Subsec. (d)(2)(B). Pub. L. 104–188 substituted “section 132(h)” for “section 132(f)”.
 
 1989—Subsec. (d)(4). Pub. L. 101–140, §203(a)(2), amended par. (4) to read as if amendments by Pub. L. 100–647, §1011B(a)(31)(B), had not been enacted, see 1988 Amendment note below.
 
@@ -108,9 +106,13 @@ Subsec. (b)(2)(B). Pub. L. 94–455, §1901(b)(8)(A), substituted “educational
 
 1961—Subsec. (b)(2)(A). Pub. L. 87–256 included cases where the grantor of the scholarship or fellowship grant is a foreign government, an international organization, or a binational or multinational educational and cultural foundation or commission created or continued pursuant to the Mutual Educational and Cultural Exchange Act of 1961.
 
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–188 effective as if included in the provision of the Revenue Reconciliation Act of 1993, Pub. L. 103–66, §§13001–13444, to which such amendment relates, see section 1703(<i>o</i>) of Pub. L. 104–188, set out as a note under section 39 of this title.
+
 #### Effective Date of 1989 Amendment
 
-Amendment by Pub. L. 101–140 effective as if included in section 1151 of Pub. L. 99–514, see section 203(c) of Pub. L. 101–140, set out as a note under section 79 of this title.
+Amendment by Pub. L. 101–140 effective as if included in section 1151 of Pub. L. 99–514, see section 203(c) ofPub. L. 101–140, set out as a note under section 79 of this title.
 
 #### Effective Date of 1988 Amendment
 
@@ -166,7 +168,7 @@ Section 1853(f) of Pub. L. 99–514 provided that:
 
 “(1) A tuition reduction plan shall be treated as meeting the requirements of section 117(d)(3) of the Internal Revenue Code of 1954 \[now 1986\] if—
 
-&emsp;“(A) such plan would have met the requirements of such section (as amended by this section but without regard to the lack of evidence that benefits undersuch plan were the subject of good faith bargaining) on the day on which eligibility to participate in the plan was closed,
+&emsp;“(A) such plan would have met the requirements of such section (as amended by this section but without regard to the lack of evidence that benefits under such plan were the subject of good faith bargaining) on the day on which eligibility to participate in the plan was closed,
 
 &emsp;“(B) at all times thereafter, the tuition reductions available under such plan are available on substantially the same terms to all employees eligible to participate in such plan, and
 
@@ -217,6 +219,4 @@ Prizes and awards as includible in gross income, see section 74 of this title.
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 74, 125, 127, 135, 414, 1441, 3121, 3231, 3306, 3401, 4941, 4945 of this title; title 42 section 409.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -25,21 +25,22 @@
 | [681\.](Subchapter%20003%20%28III%29%20-%20Small%20Business%20Investment%20Companies/%C2%A7%2000681%20-%20Organization.md) | Organization. |
 | (a) | Incorporation and charter under State law, period of succession; area of operations. |
 | (b) | Articles of incorporation; approval. |
-| (c) | Forwarding of articles for approval or disapproval; matters considered; issuance of license. |
-| (d) | Companies financing disadvantaged persons. |
+| (c) | Issuance of license. |
 | [682\.](Subchapter%20003%20%28III%29%20-%20Small%20Business%20Investment%20Companies/%C2%A7%2000682%20-%20Capital%20requirements.md) | Capital requirements. |
-| (a) | Amount of paid-in capital and paid-in surplus; sound and profitable operations and active and prudent management; determination of financial viability. |
+| (a) | Amount. |
 | (b) | Sale of shares of stock to banking organizations. |
-| (c) | Ownership or control of stock; limitation on aggregate amount. |
+| (c) | Diversification of ownership. |
 | [683\.](Subchapter%20003%20%28III%29%20-%20Small%20Business%20Investment%20Companies/%C2%A7%2000683%20-%20Borrowing%20operations.md) | Borrowing operations. |
 | (a) | Authority to issue obligations. |
 | (b) | Debentures and participating securities. |
-| (c) | Purchase and guarantee operations of Administration. |
-| (d) | Payments on guaranteed debentures. |
-| (e) | Inclusion of funds in determining private capital of small business investment companies. |
-| (f) | Redemption or repurchase of stock; factors in determining price; use of payments from guaranteed debentures; deposit of monies; purpose for which available. |
+| (c) | Third party debt. |
+| (d) | Requirement to finance smaller enterprises. |
+| (e) | Capital impairment. |
+| (f) | Redemption or repurchase of preferred stock. |
 | (g) | Guarantee of payment of and authority to purchase participating securities. |
 | (h) | Computation of amounts due under participating securities. |
+| (i) | Leverage fee. |
+| (j) | Calculation of subsidy rate. |
 | [684\.](Subchapter%20003%20%28III%29%20-%20Small%20Business%20Investment%20Companies/%C2%A7%2000684%20-%20Equity%20capital%20for%20small-business%20concerns.md) | Equity capital for small-business concerns. |
 | (a) | Function of investment companies. |
 | (b) | Conditions. |
@@ -77,7 +78,7 @@
 | (a) | Investigation of violations. |
 | (b) | Examinations and reports. |
 | (c) | Examinations of small business investment companies. |
-| (d) | Valuation guidelines and responsibility. |
+| (d) | Valuations. |
 | [687c.](Subchapter%20003%20%28III%29%20-%20Small%20Business%20Investment%20Companies/%C2%A7%2000687c%20-%20Injunctions%20and%20other%20orders.md) | Injunctions and other orders. |
 | (a) | Grounds; jurisdiction of court. |
 | (b) | Equity jurisdiction of licensee and assets thereof. |
@@ -98,8 +99,7 @@
 | (a) | Report violations. |
 | (b) | Exemption from reporting requirements. |
 | [687h.](Subchapter%20003%20%28III%29%20-%20Small%20Business%20Investment%20Companies/%C2%A7%2000687h%20-%20Jurisdiction%20and%20service%20of%20process.md) | Jurisdiction and service of process. |
-| [687i.](Subchapter%20003%20%28III%29%20-%20Small%20Business%20Investment%20Companies/%C2%A7%2000687i%20-%20Interest%20rate%20on%20debentures.md) | Interest rate on debentures. |
-| [687j.](Subchapter%20003%20%28III%29%20-%20Small%20Business%20Investment%20Companies/%C2%A7%2000687j%20-%20Extension%20of%20benefits%20to%20joint%20ownership%20companies.md) | Extension of benefits to joint ownership companies. |
+| 687i, 687j. Repealed. |  |
 | [687k.](Subchapter%20003%20%28III%29%20-%20Small%20Business%20Investment%20Companies/%C2%A7%2000687k%20-%20Guaranteed%20obligations%20not%20eligible%20for%20purchase%20by%20Federal%20Financing%20Bank.md) | Guaranteed obligations not eligible for purchase by Federal Financing Bank. |
 | 687<i>l.</i> | Issuance and guarantee of trust certificates. |
 | (a) | Issuance; debentures or participating securities composing trust or pool. |
@@ -177,8 +177,11 @@
 | (a) | Guarantees; Administration authority; regulatory terms and conditions; full faith and credit; subordination of debentures. |
 | (b) | Statutory terms and conditions. |
 | (c) | Commercial loan interest rate. |
-| (d) | Administrative expenses; additional charge. |
+| (d) | Charges for Administration expenses. |
 | (e) | “Qualified State or local development company” defined; exception for rural company; authority. |
+| (f) | Effective date. |
+| (g) | Calculation of subsidy rate. |
+| (h) | Required actions upon default. |
 | [697a.](Subchapter%20005%20%28V%29%20-%20Loans%20to%20State%20and%20Local%20Development%20Companies/%C2%A7%2000697a%20-%20Private%20debenture%20sales.md) | Private debenture sales. |
 | [697b.](Subchapter%20005%20%28V%29%20-%20Loans%20to%20State%20and%20Local%20Development%20Companies/%C2%A7%2000697b%20-%20Pooling%20of%20debentures.md) | Pooling of debentures. |
 | (a) | Issuance; debentures composing trust or pool. |
@@ -186,7 +189,7 @@
 | (c) | Full faith and credit of United States. |
 | (d) | Collection of fees. |
 | (e) | Subrogation rights; ownership rights in debentures. |
-| (f) | Central registration requirements; regulation of brokers and dealers. |
+| (f) | Central registration requirements; regulation of brokers and dealers; electronic registration. |
 | [697c.](Subchapter%20005%20%28V%29%20-%20Loans%20to%20State%20and%20Local%20Development%20Companies/%C2%A7%2000697c%20-%20Restrictions%20on%20development%20company%20assistance.md) | Restrictions on development company assistance. |
 | [697d.](Subchapter%20005%20%28V%29%20-%20Loans%20to%20State%20and%20Local%20Development%20Companies/%C2%A7%2000697d%20-%20Accredited%20Lenders%20Program.md) | Accredited Lenders Program. |
 | (a) | Establishment. |

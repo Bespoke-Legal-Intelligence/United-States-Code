@@ -2,7 +2,7 @@
 
 (a)
 
-CINC Initiative Fund.—From funds made available in any fiscal year for the budget account in the Department of Defense known as the “CINC Initiative Fund”, the Chairman of the Joint Chiefs of Staff may provide funds to the commander of a combatant command, upon the request of the commander, or, with respect to a geographic area or areas not within thearea of responsibility of a commander of a combatant command, to an officer designated by the Chairman of the Joint Chiefs of Staff for such purpose. The Chairman may provide such funds for any of the activities named in subsection (b).
+CINC Initiative Fund.—From funds made available in any fiscal year for the budget account in the Department of Defense known as the “CINC Initiative Fund”, the Chairman of the Joint Chiefs of Staff may provide funds to the commander of a combatant command, upon the request of the commander, or, with respect to a geographic area or areas not within the area of responsibility of a commander of a combatant command, to an officer designated by the Chairman of the Joint Chiefs of Staff for such purpose. The Chairman may provide such funds for any of the activities named in subsection (b).
 
 (b)
 
@@ -56,7 +56,7 @@ Inclusion of NORAD.—For purposes of this section, the Commander, United States
 
 #### Amendments
 
-1993—Subsec. (a). Pub. L. 103–35, §201(a)(1), substituted “the Chairman of the Joint Chiefs of Staff may provide funds to the commander of a combatant command, upon the request of the commander, or, with respect to a geographic area or areas not within the area of responsibility of a commander of a combatant command, to an officer designated by the Chairman of the Joint Chiefs of Staff for such purpose” for “the Chairman of the Joint Chiefs of Staff may provide funds to the commander of a combatant command, upon the request of the commander, or to the Director of the Joint Staff with respect to an area or areas not within the area of responsibility of a commander of a combatant command.”
+1993—Subsec. (a). Pub. L. 103–35, §201(a)(1), substituted “the Chairman of the Joint Chiefs of Staff may provide funds to the commander of a combatant command, upon the request of the commander, or, with respect to a geographic area or areas not within the areaof responsibility of a commander of a combatant command, to an officer designated by the Chairman of the Joint Chiefs of Staff for such purpose” for “the Chairman of the Joint Chiefs of Staff may provide funds to the commander of a combatant command, upon the request of the commander, or to the Director of the Joint Staff with respect to an area or areas not within the area of responsibility of a commander of a combatant command.”
 
 Subsec. (b)(7). Pub. L. 103–35, §201(a)(2), struck out second of two identical parenthetical phrases at end of par. (7) which read as follows: “(including transportation, translation, and administrative expenses)”.
 
@@ -80,7 +80,7 @@ Priority.—The Chairman of the Joint Chiefs of Staff, in considering requests f
 
 &emsp;“(1) requests for funds to be used for activities that would enhance the war fighting capability, readiness, and sustainability of the forces assigned to the commander requesting the funds; and
 
-&emsp;“(2) the provision of funds to be used for activities with respect to an area or areas not within the areaof responsibility of a commander of a combatant command that would reduce the threat to, or otherwise increase, the national security of the United States.”
+&emsp;“(2) the provision of funds to be used for activities with respect to an area or areas not within the area of responsibility of a commander of a combatant command that would reduce the threat to, or otherwise increase, the national security of the United States.”
 
 Subsec. (e)(1)(C). Pub. L. 102–484, §934(d), amended subpar. (C) generally. Prior to amendment, subsec. (C) read as follows: “not more than $5,000,000 may be used to provide military education and training (including transportation, translation, and administrative expenses) to military and related civilian personnel of foreign countries as authorized by subsection (b)(7).”
 

@@ -134,7 +134,7 @@ For purposes of section 952(a)(2), the term “foreign base company income” me
 
 #### (C) Exception for certain dividends
 
-&emsp;&emsp;Subparagraph (A)(i) shall not apply to any dividend with respect to any stock which isattributable to earnings and profits of the distributing corporation accumulated during any period during which the person receiving such dividend did not hold such stock either directly, or indirectly through a chain of one or more subsidiaries each of which meets the requirements of subparagraph (A)(i).
+&emsp;&emsp;Subparagraph (A)(i) shall not apply to any dividend with respect to any stock which is attributable to earnings and profits of the distributing corporation accumulated during any period during which the person receiving such dividend did not hold such stock either directly, or indirectly through a chain of one or more subsidiaries each of which meets the requirements of subparagraph (A)(i).
 
 #### (d) Foreign base company sales income
 
@@ -194,7 +194,7 @@ For purposes of section 952(a)(2), the term “foreign base company income” me
 
 For purposes of subsection (a)(4), the term “foreign base company shipping income” means income derived from, or in connection with, the use (or hiring or leasing for use) of any aircraft or vessel in foreign commerce, or from, or in connection with the performance of services directly related to the use of any such aircraft, or vessel, or from the sale, exchange, or other disposition of any such aircraft or vessel. Such term includes, but is not limited to—
 
-&emsp;(1) dividends and interest received from a foreign corporation in respect of which taxes are deemed paid under section 902, and gain from the sale, exchange, or other dispositionof stock or obligations of such a foreign corporation to the extent that such dividends, interest, and gains are attributable to foreign base company shipping income, and
+&emsp;(1) dividends and interest received from a foreign corporation in respect of which taxes are deemed paid under section 902, and gain from the sale, exchange, or other disposition of stock or obligations of such a foreign corporation to the extent that such dividends, interest, and gains are attributable to foreign base company shipping income, and
 
 &emsp;(2) that portion of the distributive share of the income of a partnership attributable to foreign base company shipping income.
 
@@ -232,9 +232,11 @@ For purposes of this section—
 
 &emsp;&emsp;For purposes of this paragraph, the average daily production of foreign crude oil or natural gas of any related group for any taxable year (and the conversion of cubic feet of natural gas into barrels) shall be determined under rules similar to the rules of section 613A except that only crude oil or natural gas from a well located outside the United States shall be taken into account.
 
-(Added Pub. L. 87–834, §12(a), Oct. 16, 1962, 76 Stat. 1009; amended Pub. L. 91–172, title IX, §909(a), Dec. 30, 1969, 83 Stat. 718; Pub. L. 94–12, title VI, §602(b), (c)(1), (2), (d)(1), (e), Mar. 29, 1975, 89 Stat. 58, 60, 64; Pub. L. 94–455, title X, §§1023(a), 1024(a), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1620, 1834; Pub. L. 97–248, title II, §212(a)–(e), Sept. 3, 1982, 96 Stat. 451, 452; Pub. L. 98–369, div. A, title I, §137(a), title VII, §712(f), July 18, 1984, 98 Stat. 672, 947; Pub. L. 99–514, title XII, §§1201(c), 1221(a)(1), (b)(3)(B), (c)(1)–(3)(A), (d), (e), 1223(a), title XVIII, §1810(k), Oct. 22, 1986, 100 Stat. 2525, 2549, 2553, 2557, 2830; Pub. L. 100–647, title I, §§1012(i)(12), (14)(A), (18), (20), (25)(B), 1018(u)(38), Nov. 10, 1988, 102 Stat. 3509–3512, 3592; Pub. L. 101–239, title VII, §7811(i)(3), Dec. 19, 1989, 103 Stat. 2409; Pub. L. 103–66, title XIII, §§13233(a)(1), 13235(a)(3), (b), 13239(d), Aug. 10, 1993, 107 Stat. 502, 504, 505, 509.)
+(Added Pub. L. 87–834, §12(a), Oct. 16, 1962, 76 Stat. 1009; amended Pub. L. 91–172, title IX, §909(a), Dec. 30, 1969, 83 Stat. 718; Pub. L. 94–12, title VI, §602(b), (c)(1), (2), (d)(1), (e), Mar. 29, 1975, 89 Stat. 58, 60, 64; Pub. L. 94–455, title X, §§1023(a), 1024(a), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1620, 1834; Pub. L. 97–248, title II, §212(a)–(e), Sept. 3, 1982, 96 Stat. 451, 452; Pub. L. 98–369, div. A, title I, §137(a), title VII, §712(f), July 18, 1984, 98 Stat. 672, 947; Pub. L. 99–514, title XII, §§1201(c), 1221(a)(1), (b)(3)(B), (c)(1)–(3)(A), (d), (e), 1223(a), title XVIII, §1810(k),Oct. 22, 1986, 100 Stat. 2525, 2549, 2553, 2557, 2830; Pub. L. 100–647, title I, §§1012(i)(12), (14)(A), (18), (20), (25)(B), 1018(u)(38), Nov. 10, 1988, 102 Stat. 3509–3512, 3592; Pub. L. 101–239, title VII, §7811(i)(3), Dec. 19, 1989, 103 Stat. 2409; Pub. L. 103–66, title XIII, §§13233(a)(1), 13235(a)(3), (b), 13239(d), Aug. 10, 1993, 107 Stat. 502, 504, 505, 509; Pub. L. 104–188, title I, §1704(t)(25), Aug. 20, 1996, 110 Stat. 1888.)
 
 #### Amendments
+
+1996—Subsec. (c)(3)(A)(i). Pub. L. 104–188 amended directory language of Pub. L. 101–239, §7811(i)(3)(A). See 1989 Amendment note below.
 
 1993—Subsec. (b)(8). Pub. L. 103–66, §13235(a)(3)(B), struck out “(1),” after “such corporation under paragraph”.
 
@@ -248,7 +250,7 @@ Subsec. (g)(1). Pub. L. 103–66, §13235(a)(3)(A), inserted at end “Such term
 
 1989—Subsec. (c)(3)(A). Pub. L. 101–239, §7811(i)(3)(C), inserted at end “To the extent provided in regulations, payments made by a partnership with 1 or more corporate partners shall be treated as made by such corporate partners in proportion to their respective interests in the partnership.”
 
-Subsec. (c)(3)(A)(i). Pub. L. 101–239, §7811(i)(3)(A), which directed amendment of cl. (i) by substituting “is a corporation created” for “is created”, was executed by making the substitution for “is created” the first time it appears, as the probable intent of Congress.
+Subsec. (c)(3)(A)(i). Pub. L. 101–239, §7811(i)(3)(A), as amended by Pub. L. 104–188, substituted “is a corporation created” for “is created” after “person which (I)”.
 
 Subsec. (c)(3)(A)(ii). Pub. L. 101–239, §7811(i)(3)(B), substituted “from a corporation which is a related person” for “from a related person”.
 
@@ -418,8 +420,8 @@ Phase-in percentage.—For purposes of subparagraph (A):
 | :--- | ---: |
 | &nbsp;<b>“In the case of taxable</b> | <b>The phase-in</b> |
 | &nbsp;&nbsp;<b>years beginning in:</b> | <b>percentage is:</b> |
-| 1987 | 75&nbsp; |
-| 1988 | 50&nbsp; |
+| 1987 | 75&nbsp;&nbsp; |
+| 1988 | 50&nbsp;&nbsp; |
 | 1989 | 25\. |
 
 &emsp;“(C)
@@ -464,7 +466,7 @@ Section 909(b) of Pub. L. 91–172 provided that: “The amendment made by subse
 
 #### Applicability of Certain Amendments by Pub. L. 99–514 in Relation to Treaty Obligations of United States
 
-For applicability of amendment by section 1201(c) of Pub. L. 99–514 notwithstanding any treaty obligation of the United States in effect on Oct. 22, 1986, with provision that for such purposes any amendment by title I of Pub. L. 100–647 be treated as if it had been included in the provision of Pub. L. 99–514 to which such amendment relates, see section 1012(aa)(2), (4) of Pub. L. 100–647, set out as a note under section 861 of this title.
+For applicability of amendment by section 1201(c) of Pub. L. 99–514 notwithstanding any treaty obligation ofthe United States in effect on Oct. 22, 1986, with provision that for such purposes any amendment by title I of Pub. L. 100–647 be treated as if it had been included in the provision of Pub. L. 99–514 to which such amendment relates, see section 1012(aa)(2), (4) of Pub. L. 100–647, set out as a note under section 861 of this title.
 
 #### Plan Amendments Not Required Until January 1, 1989
 

@@ -4,13 +4,23 @@
 
 (b) Any interested person shall have the right of judicial review of any legal question regarding the interpretation of the terms “regular dealer” and “manufacturer”, as defined pursuant to subsection (a) of this section.
 
-(June 30, 1936, ch. 881, §11, as added Oct. 13, 1994, Pub. L. 103–355, title VII, §7201(4), 108 Stat. 3378.)
+(June 30, 1936, ch. 881, §11, as added Oct. 13, 1994, Pub. L. 103–355, title VII, §7201(4), 108 Stat. 3378; amended Feb. 10, 1996, Pub. L. 104–106, div. D, title XLIII, §4321(f)(1)(A), 110 Stat. 675.)
 
-#### Codification
+#### Prior Provisions
 
-Another section 11 of act June 30, 1936, is classified to section 44 of this title.
+A prior section 11 of act June 30, 1936, was renumbered section 12, and is classified to section 44 of this title.
+
+Another prior section 11 of act June 30, 1936, was renumbered section 13, and is classified to section 45 of this title.
+
+#### Amendments
+
+1996—Pub. L. 104–106 transferred section in original so as to appear after section 43a of this title.
+
+#### Effective Date of 1996 Amendment
+
+For effective date and applicability of amendment by Pub. L. 104–106, see section 4401 of Pub. L. 104–106, set out as a note under section 251 of this title.
 
 #### Effective Date
 
-For effective date and applicability of section, see section 10001 of Pub. L. 103–355, set out as an Effective Date of 1994 Amendment note under section 251 of this title.
+For effective date and applicability of section, see section 10001 of Pub. L. 103–355, set out as an EffectiveDate of 1994 Amendment note under section 251 of this title.
 

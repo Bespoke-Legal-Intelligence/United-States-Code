@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-If, under section 1382(b)(2) or (4), or (c)(2)(B), a deduction is allowable to an organization for the taxable year for amounts paid in redemption of nonqualified written notices of allocation or non-qualified per-unit retain certificates, then the tax imposed by this chapter on such organization for the taxable year shall be the lesser of the following:
+If, under section 1382(b)(2) or (4), or (c)(2)(B), a deduction is allowable to an organization for thetaxable year for amounts paid in redemption of nonqualified written notices of allocation or non-qualified per-unit retain certificates, then the tax imposed by this chapter on such organization for the taxable year shall be the lesser of the following:
 
 &emsp;(1) the tax for the taxable year computed with such deduction; or
 
@@ -18,7 +18,7 @@ If, under section 1382(b)(2) or (4), or (c)(2)(B), a deduction is allowable to a
 
 (2) For purposes of determining the decrease in tax under subsection (a)(2)(B), the stated dollar amount of any nonqualified written notice of allocation or nonqualified per-unit retain certificate which is to be treated under such subsection as a qualified written notice of allocation or qualified per-unit retain certificate (as the case may be) shall be the amount paid in redemption of such written notice of allocation or per-unit retain certificate which is allowable as a deduction under section 1382(b)(2) or (4), or (c)(2)(B) for the taxable year.
 
-(3) If the tax imposed by this chapter for the taxable year is the amount determined undersubsection (a)(2), then the deduction described in subsection (a) shall not be taken into account for any purpose of this subtitle other than for purposes of this section.
+(3) If the tax imposed by this chapter for the taxable year is the amount determined under subsection (a)(2), then the deduction described in subsection (a) shall not be taken into account for any purpose of this subtitle other than for purposes of this section.
 
 (Added Pub. L. 87–834, §17(a), Oct. 16, 1962, 76 Stat. 1047; amended Pub. L. 89–809, title II, §211(a)(5)–(7), Nov. 13, 1966, 80 Stat. 1581.)
 

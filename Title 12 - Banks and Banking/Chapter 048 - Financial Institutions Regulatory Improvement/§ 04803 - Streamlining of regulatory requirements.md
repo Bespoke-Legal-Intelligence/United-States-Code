@@ -12,9 +12,11 @@ During the 2-year period beginning on September 23, 1994, each Federal banking a
 
 &emsp;&emsp;(C) with respect to regulations prescribed pursuant to section 1828(<i>o</i>) of this title, consider the impact that such standards have on the availability of credit for small business, residential, and agricultural purposes, and on low- and moderate-income communities;
 
-&emsp;(2) work jointly with the other Federal banking agencies to make uniform all regulations and guidelines implementing common statutory or supervisory policies; and
+&emsp;(2) review the extent to which existing regulations require insured depository institutions and insured credit unions to produce unnecessary internal written policies and eliminate such requirements, where appropriate;
 
-&emsp;(3) submit a joint report to the Congress at the end of such 2-year period detailing theprogress of the agencies in carrying out this subsection.
+&emsp;(3) work jointly with the other Federal banking agencies to make uniform all regulations and guidelines implementing common statutory or supervisory policies; and
+
+&emsp;(4) submit a joint report to the Congress at the end of such 2-year period detailing the progress of the agencies in carrying out this subsection.
 
 #### (b) Review of disclosures
 
@@ -26,9 +28,13 @@ The Board of Governors of the Federal Reserve System, in consultation with the c
 
 &emsp;(3) not later than 2 years after completion of the review required by paragraph (1), submit a report to the Congress on the results of its actions taken in accordance with this subsection and any recommended legislative actions.
 
-(Pub. L. 103–325, title III, §303, Sept. 23, 1994, 108 Stat. 2215.)
+(Pub. L. 103–325, title III, §303, Sept. 23, 1994, 108 Stat. 2215; Pub. L. 104–208, div. A, title II, §2242, Sept. 30, 1996, 110 Stat. 3009–418.)
 
 #### References in Text
 
 The Truth in Lending Act, referred to in subsec. (b)(1), is title I of Pub. L. 90–321, May 29, 1968, 82 Stat. 146, as amended, which is classified generally to subchapter I (§1601 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 15 and Tables.
+
+#### Amendments
+
+1996—Subsec. (a)(2) to (4). Pub. L. 104–208 added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively.
 

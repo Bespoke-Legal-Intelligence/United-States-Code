@@ -2,7 +2,7 @@
 
 #### (a) Allowance of deduction
 
-Where a donor transfers during the calendar year by gift an interest in property to a doneewho at the time of the gift is the donor's spouse, there shall be allowed as a deduction in computing taxable gifts for the calendar year an amount with respect to such interest equal to its value.
+Where a donor transfers during the calendar year by gift an interest in property to a donee who at the time of the gift is the donor's spouse, there shall be allowed as a deduction in computing taxable gifts for the calendar year an amount with respect to such interest equal to its value.
 
 #### (b) Life estate or other terminable interest
 
@@ -120,7 +120,7 @@ If the spouse of the donor is not a citizen of the United States—
 
 > This subsection shall not apply to any transfer resulting from the acquisition of rights under a joint and survivor annuity described in subsection (f)(6).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 412; Dec. 31, 1970, Pub. L. 91–614, title I, §102(c)(3), 84 Stat. 1841; Oct. 4, 1976, Pub. L. 94–455, title XIX, §1902(a)(12)(E), title XX, §2002(b), 90 Stat. 1806, 1854; Aug. 13, 1981, Pub. L. 97–34, title IV, §403(b)(1), (2), (d)(2), 95 Stat. 301, 303; Jan. 12, 1983, Pub. L. 97–448, title I, §104(a)(2)(B), (4)–(6), 96 Stat. 2380, 2381; Oct. 22, 1986, Pub. L. 99–514, title XVIII, §1879(n)(1), 100 Stat. 2910; Nov. 10, 1988, Pub. L. 100–647, title V, §5033(b), title VI, §6152(b), 102 Stat. 3672, 3725; Dec. 19, 1989, Pub. L. 101–239, title VII, §7815(d)(1)(A), (2), 103 Stat. 2415; Nov. 5, 1990, Pub. L. 101–508, title XI, §11702(g)(1), 104 Stat. 1388–515; Oct. 24, 1992, Pub. L. 102–486, title XIX, §1941(b), 106 Stat. 3036.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 412; Dec. 31, 1970, Pub. L. 91–614, title I, §102(c)(3), 84 Stat. 1841; Oct. 4, 1976, Pub. L. 94–455, title XIX, §1902(a)(12)(E), title XX, §2002(b), 90 Stat. 1806, 1854; Aug. 13, 1981, Pub. L. 97–34, title IV, §403(b)(1), (2), (d)(2), 95 Stat. 301, 303; Jan. 12,1983, Pub. L. 97–448, title I, §104(a)(2)(B), (4)–(6), 96 Stat. 2380, 2381; Oct. 22, 1986, Pub. L. 99–514, title XVIII, §1879(n)(1), 100 Stat. 2910; Nov. 10, 1988, Pub. L. 100–647, title V, §5033(b), title VI, §6152(b), 102 Stat. 3672, 3725; Dec. 19, 1989, Pub. L. 101–239, title VII, §7815(d)(1)(A), (2), 103 Stat. 2415; Nov. 5, 1990, Pub. L. 101–508, title XI, §11702(g)(1), 104 Stat. 1388–515; Oct. 24, 1992, Pub. L. 102–486, title XIX, §1941(b), 106 Stat. 3036.)
 
 #### References in Text
 
@@ -202,7 +202,7 @@ Section 2002(d)(2) of Pub. L. 94–455 provided that: “The amendment made by s
 
 #### Effective Date of 1970 Amendment
 
-Amendment by Pub. L. 91–614 applicable with respect to gifts made after Dec. 31, 1970, see section 102(e) of Pub. L. 91–614, set out as a note under section 2501 of this title.
+Amendment by Pub. L. 91–614 applicable with respect to gifts made after Dec. 31, 1970, see section 102(e) ofPub. L. 91–614, set out as a note under section 2501 of this title.
 
 #### Application of Amendments by Section 5033 of Pub. L. 100–647 to Estates of, or Gifts by, Noncitizen and Nonresident Individuals
 
@@ -212,7 +212,7 @@ For provisions directing that in the case of the estate of, or gift by, an indiv
 
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
-#### Special Rule for Certain Transfers in October 1984
+#### Special Rule for Certain Transfers in October 1984
 
 Section 1879(n)(3) of Pub. L. 99–514 provided that: “An election under section 2523(f) of the Internal Revenue Code of 1954 \[now 1986\] with respect to an interest in property which—
 

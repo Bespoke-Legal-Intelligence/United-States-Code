@@ -20,7 +20,7 @@ Nonapplication.—Subsection (a)(1) of this section does not apply to—
 
 &emsp;(2) a person—
 
-&emsp;&emsp;(A) establishing that the person had no reason to know, by exercising reasonable care, that the vehicle or equipment does not comply with the standard; or
+&emsp;&emsp;(A) establishing that the person had no reason to know, by exercising reasonablecare, that the vehicle or equipment does not comply with the standard; or
 
 &emsp;&emsp;(B) holding, without knowing about a noncompliance and before that first purchase, a certificate issued under section 32504 of this title stating that the vehicle or equipment complies with the standard.
 
@@ -44,7 +44,9 @@ Liability Under Other Law.—Compliance with a standard under this chapter does 
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

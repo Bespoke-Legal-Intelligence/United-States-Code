@@ -14,7 +14,7 @@
 
 &emsp;(A) so as to apply the minimum restrictions needed to protect the health and safety of the public or the common defense and security; and
 
-&emsp;(B) upon a determination that the unauthorized dissemination of such information couldreasonably be expected to result in a significant adverse effect on the health and safety of the public or the common defense and security by significantly increasing the likelihood of—
+&emsp;(B) upon a determination that the unauthorized dissemination of such information could reasonably be expected to result in a significant adverse effect on the health and safety of the public or the common defense and security by significantly increasing the likelihood of—
 
 &emsp;&emsp;(i) illegal production of nuclear weapons, or
 

@@ -1,12 +1,12 @@
 ### §2375. Gift of utility to city; charges and terms for utilities transferred to other transferees
 
-The Commission may give the utility to the city incorporated at the community; and must charge in selling the utility to any other transferee: <i>Provided,</i> That at Los Alamos, utilities may be given to the county or other local governmental entity. The charges and terms for the transfer of any utility may be established by advertising and competitive bid, or by negotiated sale or other transfer at such prices, terms, and conditions as the Commission shall determine to be fair and equitable.
+The Commission may give the utility to the city incorporated at the community; and must charge in selling the utility to any other transferee: <i>Provided</i>, That at Los Alamos, utilities may be given to the county or other local governmental entity. The charges and terms for the transfer of any utility may be established by advertising and competitive bid, or by negotiated sale or other transfer at such prices, terms, and conditions as the Commission shall determine to be fair and equitable.
 
 (Aug. 4, 1955, ch. 543, ch. 7, §75, 69 Stat. 480; Sept. 28, 1962, Pub. L. 87–719, §21, 76 Stat. 666.)
 
 #### Amendments
 
-1962—Pub. L. 87–719 inserted “: <i>Provided,</i> That at Los Alamos, utilities may be given to the county or other local governmental entity” after “transferee”.
+1962—Pub. L. 87–719 inserted “: <i>Provided</i>, That at Los Alamos, utilities may be given to the county or other local governmental entity” after “transferee”.
 
 #### Transfer of Functions
 

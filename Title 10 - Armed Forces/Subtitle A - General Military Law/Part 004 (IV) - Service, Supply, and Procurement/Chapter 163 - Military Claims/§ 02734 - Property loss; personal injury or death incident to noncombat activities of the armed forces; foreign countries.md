@@ -20,7 +20,7 @@
 
 (c) The Secretary concerned may appoint any officer or employee under the jurisdiction of the Secretary to act as an approval authority for claims determined to be allowable under subsection (a) in an amount in excess of $10,000.
 
-(d) If the Secretary concerned considers that a claim in excess of $100,000 is meritorious, and the claim otherwise is payable under this section, the Secretary may pay the claimant $100,000 and report any meritorious amount in excess of $100,000 to the Comptroller General for payment under section 1304 of title 31.
+(d) If the Secretary concerned considers that a claim in excess of $100,000 is meritorious, and the claim otherwise is payable under this section, the Secretary may pay the claimant $100,000 and report any meritorious amount in excess of $100,000 to the Secretary of the Treasury for payment under section 1304 of title 31.
 
 (e) Except as provided in subsection (d), no claim may be paid under this section unless the amount tendered is accepted by the claimant in full satisfaction.
 
@@ -30,7 +30,7 @@
 
 (h) The Secretary of Defense may designate any claims commission appointed under subsection (a) to settle and pay, as provided in this section, claims for damage caused by a civilian employee of the Department of Defense other than an employee of a military department. Payments of claims under this subsection shall be made from appropriations as provided in section 2732 of this title.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 154; Sept. 2, 1958, Pub. L. 85–861, §1(55), 72 Stat. 1461; Sept. 1, 1959, Pub. L. 86–223, §1(1), 73 Stat. 453; Apr. 8, 1960, Pub. L. 86–411, 74 Stat. 16; Sept. 26, 1968, Pub. L. 90–521, §§1, 3, 82 Stat. 874; July 8, 1970, Pub. L. 91–312, §1, 84 Stat. 412; July 8, 1974, Pub. L. 93–336, §2, 88 Stat. 292; Dec. 12, 1980, Pub. L. 96–513, title V, §511(95), 94 Stat. 2928; Oct. 30, 1984, Pub. L. 98–564, §2, 98 Stat. 2918; Nov. 5, 1990, Pub. L. 101–510, div. A, title XIV, §1481(j)(4)(A), 104 Stat. 1709.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 154; Sept. 2, 1958, Pub. L. 85–861, §1(55), 72 Stat. 1461; Sept. 1, 1959, Pub. L. 86–223, §1(1), 73 Stat. 453; Apr. 8, 1960, Pub. L. 86–411, 74 Stat. 16; Sept. 26, 1968, Pub. L. 90–521, §§1, 3, 82 Stat. 874; July 8, 1970, Pub. L. 91–312, §1, 84 Stat. 412; July 8, 1974, Pub. L. 93–336, §2, 88 Stat. 292; Dec. 12, 1980, Pub. L. 96–513, title V, §511(95), 94 Stat. 2928; Oct. 30, 1984, Pub. L. 98–564, §2, 98 Stat. 2918; Nov. 5, 1990, Pub. L. 101–510, div. A, title XIV, §1481(j)(4)(A), 104 Stat. 1709; Oct. 19, 1996, Pub. L. 104–316, title II, §202(e), 110 Stat. 3842.)
 
 Historical and Revision Notes<br>1956
 
@@ -44,7 +44,13 @@ Act
 
 2734(a)
 
+&nbsp;
+
+&nbsp;
+
 2734(b)
+
+&nbsp;
 
 2734(c)
 
@@ -78,7 +84,7 @@ In subsection (a)(2), the words “United States” are substituted for the word
 
 In subsection (b), the word “accident” is omitted as surplusage. The words “except that claims arising out of accidents or incidents occurring after December 6, 1941, but prior to May 1, 1943, may be presented at any time prior to May 1, 1944” are omitted as executed. Clauses (2) and (3) are substituted for 31:224d (3d proviso).
 
-In subsection (c), the first 28 words of the second proviso of 31:224d and the words “but does not exceed$5,000” are omitted as covered by subsection (a). The words “commanding officer or other” are omitted as surplusage. The word “commissioned” is inserted for clarity. The word “designated” is substituted for the words “may prescribe”.
+In subsection (c), the first 28 words of the second proviso of 31:224d and the words “but does not exceed $5,000” are omitted as covered by subsection (a). The words “commanding officer or other” are omitted as surplusage. The word “commissioned” is inserted for clarity. The word “designated” is substituted for the words “may prescribe”.
 
 In subsection (d), the word “may” is substituted for the words “shall have authority, if he deems”. The words “that would otherwise be covered by this section” are inserted for clarity. The words “to be meritorious” and “character of such” are omitted as surplusage.
 
@@ -117,6 +123,8 @@ In subsections (a)(1) and (2), the words “a foreign country” are substituted
 In subsection (h), the word “settle” is substituted for the words “consider, ascertain, adjust, determine,”, since the word “settle”, as defined in section 2731 of this title, includes those actions. The words “as provided in this section” are substituted for the words “as described in section 224d of this title” and 31:224i–1 (2d sentence).
 
 #### Amendments
+
+1996—Subsec. (d). Pub. L. 104–316 substituted “Secretary of the Treasury” for “Comptroller General”.
 
 1990—Subsec. (h). Pub. L. 101–510 substituted “as provided in section 2732 of this title” for “available to the Office of the Secretary of Defense for the payment of claims”.
 
@@ -165,10 +173,6 @@ Subsec. (h). Pub. L. 85–861, §1(55)(F), added subsec. (h).
 #### Effective Date of 1980 Amendment
 
 Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under section 101 of this title.
-
-#### Transfer of Functions
-
-Functions of Comptroller General under this section transferred, effective June 30, 1996, to Director of Office of Management and Budget, see section 211 of Pub. L. 104–53, set out as a note under section 501 of Title 31, Money and Finance.
 
 #### Section Referred to in Other Sections
 

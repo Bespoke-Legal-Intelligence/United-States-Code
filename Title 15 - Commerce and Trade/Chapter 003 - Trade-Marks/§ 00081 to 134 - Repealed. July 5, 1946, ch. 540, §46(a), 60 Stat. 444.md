@@ -2,9 +2,13 @@
 
 Distribution Table
 
-<i>Title 15      Former Sections     </i>
+<i>Title 15</i>
 
-<i>Title 15         New Sections        </i>
+<i>Former Sections</i>
+
+<i>Title 15</i>
+
+<i>New Sections</i>
 
 81
 

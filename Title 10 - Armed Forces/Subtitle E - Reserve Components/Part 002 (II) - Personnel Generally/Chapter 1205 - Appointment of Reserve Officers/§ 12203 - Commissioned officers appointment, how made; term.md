@@ -1,18 +1,10 @@
 ### §12203. Commissioned officers: appointment, how made; term
 
-(a) Appointments of Reserves in commissioned grades below lieutenant colonel and commander, except commissioned warrant officer, shall be made by the President alone. Appointments of Reserves in commissioned grades above major and lieutenant commander shall be made by the President, by and with the advice and consent of the Senate, except as provided in section 624, 12213, or 12214 of this title.
+(a) Appointments of reserve officers in commissioned grades above lieutenant colonel and commander or below, except commissioned warrant officer, shall be made by the President alone. Appointments of reserve officers in commissioned grades above lieutenant colonel and commander shall be made by the President, by and with the advice and consent of the Senate, except as provided in section 624, 12213, or 12214 of this title.
 
 (b) Appointments of Reserves in commissioned grades are for an indefinite term and are held during the pleasure of the President.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 25, §593; Sept. 2, 1958, Pub. L. 85–861, §1(10)(C), 72 Stat. 1440; Sept. 28, 1971, Pub. L. 92–129, title VI, §601, 85 Stat. 361; Dec. 12, 1980, Pub. L. 96–513, title V, §501(7), 94 Stat. 2907; renumbered §12203 and amended Oct. 5, 1994, Pub. L. 103–337, div. A, title XVI, §§1632, 1662(c)(2), 1675(b)(1), 108 Stat. 2965, 2990, 3017.)
-
-#### Amendment of Subsection (a)
-
-<i>Pub. L. 103–337, div. A, title XVI, §§1632, 1691(b)(1), Oct. 5, 1994, 108 Stat. 2965, 3026, provided that, effective Oct. 1, 1996, subsection (a) of this section is amended—</i>
-
-<i>(1) in the first sentence, by striking out “Reserves in commissioned grades below lieutenant colonel and commander” and inserting in lieu thereof “reserve officers in commissioned grades of lieutenant colonel and commander or below”; and</i>
-
-<i>(2) in the second sentence, by striking out “Reserves in commissioned grades above major and lieutenant commander” and inserting in lieu thereof “reserve officers in commissioned grades above lieutenant colonel and commander”.</i>
+(Aug. 10, 1956, ch. 1041, 70A Stat. 25, §593; Sept. 2, 1958, Pub. L. 85–861, §1(10)(C), 72 Stat. 1440; Sept. 28, 1971, Pub. L. 92–129, title VI, §601, 85 Stat. 361; Dec. 12, 1980, Pub. L. 96–513, title V, §501(7), 94 Stat. 2907; renumbered §12203 and amended Oct. 5, 1994, Pub. L. 103–337, div. A, title XVI, §§1632, 1662(c)(2), 1675(b)(1), 108 Stat. 2965, 2990, 3017; Feb. 10, 1996, Pub. L. 104–106, div. A, title XV, §1501(a)(6), 110 Stat. 495.)
 
 Historical and Revision Notes<br>1956
 
@@ -25,6 +17,8 @@ Act
 <i>Source (Statutes at Large)</i>
 
 593(a)
+
+&nbsp;
 
 593(b)
 
@@ -62,15 +56,23 @@ The exception is inserted to reflect section 3352(b) of title 10, United States 
 
 #### Amendments
 
+1996—Subsec. (a). Pub. L. 104–106 made technical correction to directory language of Pub. L. 103–337, §1632. See 1994 Amendment note below.
+
 1994—Pub. L. 103–337, §1662(c)(2), renumbered section 593 of this title as this section.
 
 Subsec. (a). Pub. L. 103–337, §1675(b), substituted “12213, or 12214” for “3352, or 8352”.
+
+Pub. L. 103–337, §1632, as amended by Pub. L. 104–106, substituted “reserve officers in commissioned grades of lieutenant colonel and commander or below” for “Reserves in commissioned grades below lieutenant colonel and commander” and “reserve officers in commissioned grades above lieutenant colonel and commander” for “Reserves in commissioned grades above major and lieutenant commander”.
 
 1980—Subsec. (a). Pub. L. 96–513 inserted reference to section 624 of this title.
 
 1971—Subsec. (a). Pub. L. 92–129 substituted “below lieutenant colonel and commander” for “below general officer and flag officer”, “in commissioned grades above major and lieutenant commander” for “as general and flag officers”, and “section 3352 or 8352 of this title” for “section 3352 of this title”.
 
 1958—Subsec. (a). Pub. L. 85–861 inserted “, except as provided in section 3352 of this title” after “consent of the Senate”.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–106 effective as if included in the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as enacted on Oct. 5, 1994, see section 1501(f)(3) of Pub. L. 104–106, set out as a note under section 113 of this title.
 
 #### Effective Date of 1994 Amendment
 
@@ -92,5 +94,5 @@ Reserve warrant officers, appointment, see section 12241 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 12213, 14308 of this title; title 14 section 271.
+This section is referred to in section 14308 of this title; title 14 section 271.
 

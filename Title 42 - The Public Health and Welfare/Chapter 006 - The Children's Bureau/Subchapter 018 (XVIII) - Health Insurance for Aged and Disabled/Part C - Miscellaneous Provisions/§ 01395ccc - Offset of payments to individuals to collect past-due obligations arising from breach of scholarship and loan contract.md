@@ -24,7 +24,7 @@
 
 &emsp;&emsp;(i) the Secretary shall immediately inform the Attorney General, and the Attorney General shall immediately commence an action to recover the full amount of the past-due obligation, and
 
-&emsp;&emsp;(ii) subject to paragraph (4), the Secretary shall immediately exclude the individual from the program under this subchapter, until such time as the entire past-due obligation has been repaid.
+&emsp;&emsp;(ii) subject to paragraph (4), the Secretary shall immediately exclude the individual from the program under this subchapter,until such time as the entire past-due obligation has been repaid.
 
 (3) If the individual refuses to enter into an agreement or breaches any provision of the agreement—
 
@@ -64,13 +64,13 @@ This section shall not preclude the United States from applying other provisions
 
 Amounts equal to the amounts deducted pursuant to this section shall be transferred from the Trust Fund from which the payment to the individual, provider, or other entity would otherwise have been made, to the general fund in the Treasury, and shall be credited as payment of the past-due obligation of the individual from whom (or with respect to whom) the deduction was made.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1892, as added Dec. 22, 1987, Pub. L. 100–203, title IV, §4052(a),101 Stat. 1330–95; amended July 1, 1988, Pub. L. 100–360, title IV, §411(f)(10)(A), (C)(i), 102 Stat. 780; Oct. 13, 1988, Pub. L. 100–485, title VI, §608(d)(21)(E)–(H), 102 Stat. 2420.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1892, as added Dec. 22, 1987, Pub. L. 100–203, title IV, §4052(a), 101 Stat. 1330–95; amended July 1, 1988, Pub. L. 100–360, title IV, §411(f)(10)(A), (C)(i), 102 Stat. 780; Oct. 13, 1988, Pub. L. 100–485, title VI, §608(d)(21)(E)–(H), 102 Stat. 2420.)
 
 #### References in Text
 
 Section 204(a)(1) of the Public Health Service Amendments of 1987, referred to in subsec. (a)(1)(B), is section 204(a)(1) of Pub. L. 100–177, title II, Dec. 1, 1987, 101 Stat. 1000, which is set out as a note under section 254<i>o</i> of this title.
 
-The Public Health Service Act, referred to in subsecs. (a)(1)(B)(iii) and (b), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended. Subpart II of part D of title III of the Act is classified generally to subpart II (§254d et seq.) of part D of subchapter II of chapter 6A of this title. Subpart I of part C of title VII of the Act was classified generally to subpart I (§294 et seq.) of part C of subchapter V of chapter 6A of this title and was omitted in the general revision of subchapter V by Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 1994. See subpart I (§292 et seq.) of part A of subchapter V of chapter 6A of this title. Subpart III of part F of title VII of the Public Health Service Act (as in effect before October 1, 1976) was classified to subpart III (§295g–21 et seq.) of part F of subchapter V of chapter 6A of this title, prior to repeal by Pub. L. 94–484, title IV, §409(a), Oct. 12, 1976, 90 Stat. 2290. For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.
+The Public Health Service Act, referred to in subsecs. (a)(1)(B)(iii) and (b), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended. Subpart II of part D of title III of the Act is classified generally to subpart II (§254d et seq.) of part D of subchapter II of chapter 6A of this title. Subpart I of part C of title VII of the Act was classified generally to subpart I (§294 et seq.) of part C of subchapter V of chapter 6A of this title and was omitted in the general revision of subchapter V by Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 1994. See subpart I (§292 et seq.) of part A of subchapter V of chapter 6A of this title. Subpart III of part F of title VII of the Public Health Service Act (as in effect before October 1, 1976) was classified to subpart III (§295g–21 et seq.) of part F of subchapter V of chapter 6A of this title, prior to repeal by Pub. L. 94–484, title IV, §409(a), Oct. 12,1976, 90 Stat. 2290. For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.
 
 #### Amendments
 
@@ -131,4 +131,10 @@ Section 4052(c) of Pub. L. 100–203 provided that: “The amendments made by th
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 254<i>o</i>, 292f of this title; title 25 section 1616a.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “individual's”.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
+
+<i><sup>3</sup></i><i> So in original. Probably should be “individuals”.</i>
 

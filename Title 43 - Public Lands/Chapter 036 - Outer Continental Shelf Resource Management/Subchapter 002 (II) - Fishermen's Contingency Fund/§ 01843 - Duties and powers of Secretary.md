@@ -22,7 +22,7 @@ The Secretary of the Interior shall establish regulations requiring all material
 
 &emsp;(B) if the damage set forth in the claim was sustained prior to September 18, 1978;
 
-&emsp;(C) in the case of a claim for damage to, or loss of, fishing gear, in an amount in excess ofthe replacement value of the fishing gear with respect to which the claim is filed; and
+&emsp;(C) in the case of a claim for damage to, or loss of, fishing gear, in an amount in excess of the replacement value of the fishing gear with respect to which the claim is filed; and
 
 &emsp;(D) for any portion of the damages claimed with respect to which the claimant has received, or will receive, compensation from insurance.
 

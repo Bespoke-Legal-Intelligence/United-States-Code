@@ -16,21 +16,19 @@ As used in subchapters I, II, III, and X of this chapter—
 
 &emsp;(6) the terms “local educational agency” and “State educational agency” have the meaning given such terms in section 8801 of this title;
 
-&emsp;(7) the term “opportunity-to-learn standards” means the criteria for, and the basis of, assessing the sufficiency or quality of the resources, practices, and conditions necessary at each level of the education system (schools, local educational agencies, and States) to provide all students with an opportunity to learn the material in voluntary national content standards or State content standards;
+&emsp;(7) the term “outlying areas” means Guam, American Samoa, the Virgin Islands, the Commonwealth of the Northern Mariana Islands, Palau (until the effective date of the Compact of Free Association with the Government of Palau), the Republic of the Marshall Islands, and the Federated States of Micronesia;
 
-&emsp;(8) the term “outlying areas” means Guam, American Samoa, the Virgin Islands, the Commonwealth of the Northern Mariana Islands, Palau (until the effective date of the Compact of Free Association with the Government of Palau), the Republic of the Marshall Islands, and the Federated States of Micronesia;
+&emsp;(8) the term “performance standards” means concrete examples and explicit definitions of what students have to know and be able to do to demonstrate that such students are proficient in the skills and knowledge framed by content standards;
 
-&emsp;(9) the term “performance standards” means concrete examples and explicit definitions of what students have to know and be able to do to demonstrate that such students are proficient in the skills and knowledge framed by content standards;
+&emsp;(9) the term “related services” has the same meaning given such term under section 1401(a)(17) of this title;
 
-&emsp;(10) the term “related services” has the same meaning given such term under section 1401(a)(17) of this title;
+&emsp;(10) the term “State assessment” means measures of student performance which include at least 1 instrument of evaluation, and may include other measures of student performance, for a specific purpose and use which are intended to evaluate the progress of all students in the State toward learning the material in State content standards in 1 or more subject areas;
 
-&emsp;(11) the term “State assessment” means measures of student performance which include at least 1 instrument of evaluation, and may include other measures of student performance, for a specific purpose and use which are intended to evaluate the progress of all students in the State toward learning the material in State content standards in 1 or more subject areas;
+&emsp;(11) the term “school” means a public school that is under the authority of the State educational agency or a local educational agency or, for the purpose of carrying out section 5895(b) of this title, a school that is operated or funded by the Bureau;
 
-&emsp;(12) the term “school” means a public school that is under the authority of the State educational agency or a local educational agency or, for the purpose of carrying out section 5895(b) of this title, a school that is operated or funded by the Bureau;
+&emsp;(12) the term “Secretary”, unless otherwise provided, means the Secretary of Education; and
 
-&emsp;(13) the term “Secretary”, unless otherwise provided, means the Secretary of Education; and
-
-&emsp;(14) the term “State”, unless otherwise provided, means each of the 50 States, the District of Columbia, the Commonwealth of Puerto Rico, and each of the outlying areas.
+&emsp;(13) the term “State”, unless otherwise provided, means each of the 50 States, the District of Columbia, the Commonwealth of Puerto Rico, and each of the outlying areas.
 
 #### (b) Subchapters IV, V, VI, VII, VIII, and IX
 
@@ -42,15 +40,17 @@ For the purpose of subchapters IV, V, VI, VII, VIII, and IX of this chapter—
 
 &emsp;(3) the term “Secretary”, unless otherwise provided, means the Secretary of Education.
 
-(Pub. L. 103–227, §3, Mar. 31, 1994, 108 Stat. 129; Pub. L. 103–382, title III, §394(f)(1), Oct. 20, 1994, 108 Stat. 4027.)
+(Pub. L. 103–227, §3, Mar. 31, 1994, 108 Stat. 129; Pub. L. 103–382, title III, §394(f)(1), Oct. 20, 1994, 108 Stat. 4027; Pub. L. 104–134, title I, §101(d) \[title VII, §703(a)(3)\], Apr. 26, 1996, 110 Stat. 1321–211, 1321–252; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.)
 
 #### References in Text
 
 Subchapters I to X, referred to in text, were in the original references to titles I to X of Pub. L. 103–227, Mar. 31, 1994, 108 Stat. 131–265. Titles I, III, IV, V, VI, and VIII are classified generally to subchapters I (§5811 et seq.), III (§5881 et seq.), IV (§5911 et seq.), V (§5931 et seq.), VI (§5951), and VIII (§5981 et seq.), respectively, of this chapter. Title II enacted subchapter II (§5821 et seq.) of this chapter and section 3425 of this title, amended section 5093 of this title and section 5315 of Title 5, Government Organization and Employees, and enacted provisions set out as a note under section 5093 of this title. Title VII enacted subchapter VII (§5961 et seq.) of this chapter and amended section 1221e–1 of this title. Title IX enacted subchapter IX (§6001 et seq.) of this chapter, amended sections 2422, 3155, 3412, 3419, 3462, and 4085b of this title, repealed section 1221e of this title, and enacted provisions set out as notes under sections 1221e and 3155 of this title. Title X enacted subchapter X (§6061 et seq.) of this chapter and section 3351 of this title, amended sections 1107, 1232h, 2421, 3381 to 3384, and 3386 of this title, sections 1632, 1633, and 1635 of Title 29, Labor, and section 11903a of Title 42, The Public Health and Welfare, and enacted provisions set out as notes under section 6301 of this title and section 11901 of Title 42. For complete classification of titles I to X to the Code, see Tables.
 
-For Oct. 1, 1994, as the date the Compact of Free Association with the Government of Palau takes effect, referred to in par. (8), see Proc. No. 6726, Sept. 27, 1994, 59 F.R. 49777, set out as a note under section 1931 of Title 48, Territories and Insular Possessions.
+For Oct. 1, 1994, as the date the Compact of Free Association with the Government of Palau takes effect, referred to in par. (7), see Proc. No. 6726, Sept. 27, 1994, 59 F.R. 49777, set out as a note under section 1931 of Title 48, Territories and Insular Possessions.
 
 #### Amendments
+
+1996—Subsec. (a)(7) to (14). Pub. L. 104–134 redesignated pars. (8) to (14) as (7) to (13), respectively, and struck out former par. (7) which read as follows: “the term ‘opportunity-to-learn standards’ means the criteria for, and the basis of, assessing the sufficiency or quality of the resources, practices, and conditions necessary at each level of the education system (schools, local educational agencies, and States) to provide all students with an opportunity to learn the material in voluntary national content standards or State content standards;”.
 
 1994—Subsec. (a)(6). Pub. L. 103–382, §394(f)(1)(A)(i), substituted “section 8801” for “section 2891”.
 

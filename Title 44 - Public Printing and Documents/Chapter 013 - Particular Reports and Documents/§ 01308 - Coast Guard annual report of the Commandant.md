@@ -1,6 +1,6 @@
 ### §1308. Coast Guard: annual report of the Commandant
 
-The Secretary of the Department of Transportation may authorize the printing of the annualreport of the Commandant of the Coast Guard in such editions as the interests of the Government and of the public require.
+The Secretary of the Department of Transportation may authorize the printing of the annual report of the Commandant of the Coast Guard in such editions as the interests of the Government and of the public require.
 
 (Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1267.)
 

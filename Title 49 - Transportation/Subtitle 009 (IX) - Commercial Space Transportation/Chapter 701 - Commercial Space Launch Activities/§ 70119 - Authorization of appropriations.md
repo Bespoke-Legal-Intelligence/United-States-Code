@@ -10,7 +10,9 @@ The following amounts may be appropriated to the Secretary of Transportation for
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

@@ -18,7 +18,7 @@ The Congress finds that—
 
 (h) In light of competing demands and the urgent need to protect and to give high priority to natural systems in the coastal zone, present state and local institutional arrangements for planning and regulating land and water uses in such areas are inadequate.
 
-(i) The key to more effective protection and use of the land and water resources of the coastal zone is to encourage the states to exercise their full authority over the lands and waters in the coastal zone by assisting the states, in cooperation with Federal and local governmentsand other vitally affected interests, in developing land and water use programs for the coastal zone, including unified policies, criteria, standards, methods, and processes for dealing with land and water use decisions of more than local significance.
+(i) The key to more effective protection and use of the land and water resources of the coastal zone is to encourage the states to exercise their full authority over the lands and waters in the coastal zone by assisting the states, in cooperation with Federal and local governments and other vitally affected interests, in developing land and water use programs for the coastal zone, including unified policies, criteria, standards, methods, and processes for dealing with land and water use decisions of more than local significance.
 
 (j) The national objective of attaining a greater degree of energy self-sufficiency would be advanced by providing Federal financial assistance to meet state and local needs resulting from new or expanded energy activity in or affecting the coastal zone.
 
@@ -44,6 +44,10 @@ Subsecs. (k) to (m). Pub. L. 101–508, §6203(a)(3), added subsecs. (k) to (m).
 
 Subsec. (i). Pub. L. 94–370, §2(3), added subsec. (i).
 
+#### Short Title of 1996 Amendment
+
+Pub. L. 104–150, §1, June 3, 1996, 110 Stat. 1380, provided that: “This Act \[enacting section 1465 of this title, amending sections 1454, 1455a, 1456a, 1456b, 1461, and 1464 of this title, and enacting provisions set out as a note under section 1454 of this title\] may be cited as the ‘Coastal Zone Protection Act of 1996’.”
+
 #### Short Title of 1990 Amendment
 
 Section 6201 of title VI of Pub. L. 101–508 provided that: “This subtitle \[subtitle C (§§6201–6217) of title VI of Pub. L. 101–508, enacting sections 1455b, 1456c, and 1460 of this title, amending this section and sections 1452 to 1456b, 1458, 1461, and 1464 of this title, and enacting provisions set out as notes under this section and section 1455 of this title\] may be cited as the ‘Coastal Zone Act Reauthorization Amendments of 1990’.”
@@ -54,7 +58,7 @@ Pub. L. 99–272, title VI, §6041, Apr. 7, 1986, 100 Stat. 124, provided that: 
 
 #### Short Title of 1980 Amendment
 
-Section 1 of Pub. L. 96–464 provided: “That this Act \[enacting sections 1455a and 1463a of this title, amending this section and sections 1452, 1453, 1455, 1456a, 1456b, 1458, 1461, 1462, and 1464 of this title, and enacting provisions set out as notes under sections 1455, 1458, and 1463a of this title\] may be cited as the ‘Coastal Zone Management Improvement Act of 1980’.”
+Section 1 of Pub. L. 96–464 provided: “That this Act \[enacting sections 1455a and 1463a of this title, amending this section and sections 1452, 1453, 1455, 1456a, 1456b, 1458, 1461, 1462, and 1464 of this title, and enactingprovisions set out as notes under sections 1455, 1458, and 1463a of this title\] may be cited as the ‘Coastal Zone Management Improvement Act of 1980’.”
 
 #### Short Title of 1976 Amendment
 

@@ -40,7 +40,7 @@ The Secretary shall by grant or contract on a biennial basis, with the Council o
 
 &emsp;(6) providing, through the institutions, agencies, and organizations selected under paragraph (4), for not more than 6 months prior to entry of such individuals upon their course of training for the legal profession, or following entry, training designed to assist them to complete successfully such training for the legal profession;
 
-&emsp;(7) paying such stipends (including allowances for participant travel and for their dependents) as the Secretary may determine for such individuals for any such period of preliminary training for the legal profession during which such individuals maintain satisfactory academic progress toward the J.D. orLL.B. degree, as determined by the respective institution; and
+&emsp;(7) paying such stipends (including allowances for participant travel and for their dependents) as the Secretary may determine for such individuals for any such period of preliminary training for the legal profession during which such individuals maintain satisfactory academic progress toward the J.D. or LL.B. degree, as determined by the respective institution; and
 
 &emsp;(8) paying for administrative activities of the institutions of higher education, agencies, or organizations which receive subgrants or contracts under paragraph (6), or with which such contracts are entered into, to the extent that such activities are for the purpose of furthering the activities described in paragraphs (1) through (7).
 

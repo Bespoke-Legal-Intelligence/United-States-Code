@@ -2,7 +2,7 @@
 
 #### (a) Establishment in Department of Health and Human Services
 
-The Secretary shall establish in the Department of Health and Human Services an appropriate administrative arrangement to provide a centralized focus for planning and coordinating of all departmental activities affecting adoption and foster care and for carrying out the provisions of this subchapter. The Secretary shall make available such consultant services, on-site technical assistance and personnel, together with appropriate administrative expenses, including salaries and travel costs, as are necessary for carrying out such purposes, including services to facilitate the adoption of children with special needs and particularly of disabled infants with life-threatening conditions and services to couples considering adoption of children with special needs. The Secretary shall, not later than 12 months after May 28, 1992, prepare and submit to the committees of Congress having jurisdiction over such services reports, as appropriate, containing appropriate data concerning the manner in which activities were carried out under this subchapter, and such reports shall be made available to the public.
+The Secretary shall establish in the Department of Health and Human Services an appropriate administrative arrangement to provide a centralized focus for planning and coordinating of all departmental activities affecting adoption and foster care and for carrying out the provisions of this subchapter. The Secretary shall make available such consultant services, on-site technical assistance and personnel, together with appropriate administrative expenses, including salaries and travel costs, as are necessary for carrying out such purposes, including services to facilitate the adoption of children with special needs and particularly of disabled infants with life-threatening conditions and services to couples considering adoption of children with special needs.
 
 #### (b) Implementation authorities
 
@@ -18,11 +18,13 @@ In connection with carrying out the provisions of this subchapter, the Secretary
 
 &emsp;(5) encourage involvement of corporations and small businesses in supporting adoption as a positive family-strengthening option, including the establishment of adoption benefit programs for employees who adopt children;
 
-&emsp;(6) continue to study the nature, scope, and effects of the placement of children in adoptive homes (not including the homes of stepparents or relatives of the child in question) by persons or agencies which are not licensed by or subject to regulation by any governmental entity;
+&emsp;(6) study the nature, scope, and effects of the placement of children in kinship care arrangements, pre-adoptive, or adoptive homes;
 
-&emsp;(7) consult with other appropriate Federal departments and agencies in order to promote maximum coordination of the services and benefits provided under programs carried out by such departments and agencies with those carried out by the Secretary, and provide for the coordination of such aspects of all programs within the Department of Health and Human Services relating to adoption;
+&emsp;(7) study the efficacy of States contracting with public or private nonprofit agencies (including community-based and other organizations), or sectarian institutions for the recruitment of potential adoptive and foster families and to provide assistance in the placement of children for adoption;
 
-&emsp;(8) maintain (directly or by grant to or contract with public or private nonprofit agencies or organizations) a National Resource Center for Special Needs Adoption to—
+&emsp;(8) consult with other appropriate Federal departments and agencies in order to promote maximum coordination of the services and benefits provided under programs carried out by such departments and agencies with those carried out by the Secretary, and provide for the coordination of such aspects of all programs within the Department of Health and Human Services relating to adoption;
+
+&emsp;(9) maintain (directly or by grant to or contract with public or private nonprofit agencies or organizations) a National Resource Center for Special Needs Adoption to—
 
 &emsp;&emsp;(A) promote professional leadership development of minorities in the adoption field;
 
@@ -30,7 +32,7 @@ In connection with carrying out the provisions of this subchapter, the Secretary
 
 &emsp;&emsp;(C) facilitate the development of interdisciplinary approaches to meet the needs of children who are waiting for adoption and the needs of adoptive families; and
 
-&emsp;(9) provide (directly or by grant to or contract with States, local government entities, public or private nonprofit licensed child welfare or adoption agencies or adoptive family groups and community-based organizations with experience in working with minority populations) for the provision of programs aimed at increasing the number of minority children (who are in foster care and have the goal of adoption) placed in adoptive families, with a special emphasis on recruitment of minority families—
+&emsp;(10) provide (directly or by grant to or contract with States, local government entities, public or private nonprofit licensed child welfare or adoption agencies or adoptive family groups and community-based organizations with experience in working with minority populations) for the provision of programs aimed at increasing the number of minority children (who are in foster care and have the goal of adoption) placed in adoptive families, with a special emphasis on recruitment of minority families—
 
 &emsp;&emsp;(A) which may include such activities as—
 
@@ -82,15 +84,29 @@ In connection with carrying out the provisions of this subchapter, the Secretary
 
 (1) The Secretary shall make grants for improving State efforts to increase the placement of foster care children legally free for adoption, according to a pre-established plan and goals for improvement. Grants funded by this section must include a strong evaluation component which outlines the innovations used to improve the placement of special needs children who are legally free for adoption, and the successes and failures of the initiative. The evaluations will be submitted to the Secretary who will compile the results of projects funded by this section and submit a report to the appropriate committees of Congress. The emphasis of this program must focus on the improvement of the placement rate—not the aggregate number of special needs children placed in permanent homes. The Secretary, when reviewing grant applications <sup>1</sup> shall give priority to grantees who propose improvements designed to continue in the absence of Federal funds.
 
-(2) Each State entering into an agreement under this subsection shall submit an application to the Secretary for each fiscal year in a form and manner determined to be appropriate by the Secretary. Each application shall include verification of the placements described in paragraph (1).
+(2)(A) Each State entering into an agreement under this subsection shall submit an application to the Secretary that describes the manner in which the State will use funds during the 3 fiscal years subsequent to the date of the application to accomplish the purposes of this section. Such application shall be in a form and manner determined to be appropriate by the Secretary. Each application shall include verification of the placements described in paragraph (1).
+
+(B) The Secretary shall provide, directly or by grant to or contract with public or private nonprofit agencies or organizations—
+
+&emsp;(i) technical assistance and resource and referral information to assist State or local governments with termination of parental rights issues, in recruiting and retaining adoptive families, in the successful placement of children with special needs, and in the provision of pre- and post-placement services, including post-legal adoption services; and
+
+&emsp;(ii) other assistance to help State and local governments replicate successful adoption-related projects from other areas in the United States.
 
 (3)(A) Payments under this subsection shall begin during fiscal year 1989. Payments under this section during any fiscal year shall not exceed $1,000,000. No payment may be made under this subsection unless an amount in excess of $5,000,000 is appropriated for such fiscal year under section 5115(a) of this title.
 
 (B) Any payment made to a State under this subsection which is not used by such State for the purpose provided in paragraph (1) during the fiscal year payment is made shall revert to the Secretary on October 1st of the next fiscal year and shall be used to carry out the purposes of this subchapter.
 
-(Pub. L. 95–266, title II, §203, Apr. 24, 1978, 92 Stat. 209; Pub. L. 98–457, title II, §203, Oct. 9, 1984, 98 Stat. 1756; Pub. L. 100–294, title II, §202, Apr. 25, 1988, 102 Stat. 122; Pub. L. 102–295, title IV, §403, May 28, 1992, 106 Stat. 213.)
+(Pub. L. 95–266, title II, §203, Apr. 24, 1978, 92 Stat. 209; Pub. L. 98–457, title II, §203, Oct. 9, 1984, 98 Stat. 1756; Pub. L. 100–294, title II, §202, Apr. 25, 1988, 102 Stat. 122; Pub. L. 102–295, title IV, §403, May 28, 1992, 106 Stat. 213; Pub. L. 104–235, title II, §212, Oct. 3, 1996, 110 Stat. 3090.)
 
 #### Amendments
+
+1996—Subsec. (a). Pub. L. 104–235, §212(1), struck out at end “The Secretary shall, not later than 12 months after May 28, 1992, prepare and submit to the committees of Congress having jurisdiction over such services reports, as appropriate, containing appropriate data concerning the manner in which activities were carried out under this subchapter, and such reports shall be made available to the public.”
+
+Subsec. (b)(6). Pub. L. 104–235, §212(2)(A), amended par. (6) generally. Prior to amendment, par. (6) read as follows: “continue to study the nature, scope, and effects of the placement of children in adoptive homes (not including the homes of stepparents or relatives of the child in question) by persons or agencies which are not licensed by or subject to regulation by any governmental entity;”.
+
+Subsec. (b)(7) to (10). Pub. L. 104–235, §212(2)(B), (C), added par. (7) and redesignated former pars. (7) to (9) as (8) to (10), respectively.
+
+Subsec. (d)(2). Pub. L. 104–235, §212(3), designated existing provisions as subpar. (A), substituted “that describes the manner in which the State will use funds during the 3 fiscal years subsequent to the date of the application to accomplish the purposes of this section. Such application shall be” for “for each fiscal year”, and added subpar. (B).
 
 1992—Subsec. (a). Pub. L. 102–295, §403(1), inserted “, on-site technical assistance” after “consultant services” and “including salaries and travel costs,” after “administrative expenses,” and inserted at end “The Secretary shall, not later than 12 months after May 28, 1992, prepare and submit to the committees of Congress having jurisdiction over such services reports, as appropriate, containing appropriate data concerning the manner in which activities were carried out under this subchapter, and such reports shall be made available to the public.”
 
@@ -115,10 +131,6 @@ Subsec. (b)(4). Pub. L. 98–457, §203(c)(3)(A), substituted “adoptive family
 Subsec. (b)(5), (6). Pub. L. 98–457, §203(c)(3)(B), (C), added pars. (5) and (6). Former par. (5) redesignated (7).
 
 Subsec. (b)(7). Pub. L. 98–457, §203(c)(3)(C), (D), redesignated former par. (5) as (7) and substituted “Health and Human Services” for “Health, Education, and Welfare”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5115 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Chairman shall report annually to the Speaker of the House of Representatives, the President of the Senate, and to the President of the United States on the participation of the United States in the international financial institutions. The Chairman shall present such report to the Speaker of the House of Representatives and the President of the Senate not later than April 1 of each year following the close of the fiscal year covered by such report, exceptthat the report for fiscal year 1989 shall be submitted not later than June 1, 1990.
+The Chairman shall report annually to the Speaker of the House of Representatives, the President of the Senate, and to the President of the United States on the participation of the United States in the international financial institutions. The Chairman shall present such report to the Speaker of the House of Representatives and the President of the Senate not later than April 1 of each year following the close of the fiscal year covered by such report, except that the report for fiscal year 1989 shall be submitted not later than June 1, 1990.
 
 #### (b) Contents of reports
 
@@ -50,7 +50,7 @@ As used in this title, title XVIII, and title XIX:
 
 #### (2) International financial institutions
 
-&emsp;The term “international financial institutions” means the International Monetary Fund, International Bank for Reconstruction and Development, European Bank for Reconstruction and Development, International Development Association, International Finance Corporation, Multilateral Investment Guarantee Agency, African Development Bank, African Development Fund, Asian Development Bank, Inter-American Development Bank, and Inter-American Investment Corporation.
+&emsp;The term “international financial institutions” means the International Monetary Fund, International Bank for Reconstruction and Development, European Bank for Reconstruction and Development, International Development Association, International Finance Corporation, Multilateral Investment Guarantee Agency, African Development Bank, African Development Fund, Asian Development Bank, Inter-American Development Bank <sup>1</sup> Bank for Economic Cooperation and Development in the Middle East and North Africa,,<sup>2</sup> and Inter-American Investment Corporation.
 
 #### (3) Multilateral development institutions
 
@@ -64,17 +64,19 @@ As used in this title, title XVIII, and title XIX:
 
 Upon request of the Committee on Banking, Finance and Urban Affairs of the House of Representatives, the Chairman shall testify before the Committee to support and explain each annual report required by subsection (a) of this section. If the President has delegated to a person or persons other than the Chairman the authority to manage United States participation in the international financial institutions which was vested in the President by section 1(b) of the Reorganization Plan No. 4 of 1965, such person or persons shall, upon request of the Committee, accompany the Chairman and testify before the Committee with regard to such report. The Chairman and such other person or persons shall assess, in their testimony, the effectiveness of the international financial institutions, the major issues affecting United States participation, the major developments in the past year, the prospects for the coming year, United States policy goals with respect to the international financial institutions, and any specific issues addressed to them by any member of the Committee.
 
-(Pub. L. 95–118, title XVII, §1701, as added Pub. L. 101–240, title V, §541(a), Dec. 19, 1989, 103 Stat. 2514; amended Pub. L. 101–513, title V, §562(c)(10)(A), Nov. 5, 1990, 104 Stat. 2036.)
+(Pub. L. 95–118, title XVII, §1701, as added Pub. L. 101–240, title V, §541(a), Dec. 19, 1989, 103 Stat. 2514; amended Pub. L. 101–513, title V, §562(c)(10)(A), Nov. 5, 1990, 104 Stat. 2036; Pub. L. 104–208, div. A, title I, §101(c) \[title VII, §710(a)\], Sept. 30, 1996, 110 Stat. 3009–121, 3009–181.)
 
 #### References in Text
 
-Section 2018(c) of the International Narcotics Act of 1986, referred to in subsec. (b)(6), means section 2018(c)of Pub. L. 99–570, known as the International Narcotics Control Act of 1986, which is set out as a note under section 2291 of this title.
+Section 2018(c) of the International Narcotics Act of 1986, referred to in subsec. (b)(6), means section 2018(c) of Pub. L. 99–570, known as the International Narcotics Control Act of 1986, which is set out as a note under section 2291 of this title.
 
-This title and titles VII, XIII, XVIII, and XIX, referred to in subsecs. (b)(9), (10) and (c), are titles XVII, VII, XIII, XVIII, and XIX, respectively, of Pub. L. 95–118. Title VII enacted sections 262d and 262e of this title, repealed sections 283y, 284m, and 290g–9 of this title, and enacted provisions set out as a note under section 262c of this title. Title XIII is classified to sections 262m to 262m–6 of this title. Title XVII is classified to sections 262r to 262r–2 of this title. Title XVIII is classified to sections 262s to 262s–2 of this title. Title XIX is classified to section 262t of this title. For complete classification of these titles to the Code, see Tables.
+This title and titles VII, XIII, XVIII, and XIX, referred to in subsecs. (b)(9), (10) and (c), are titles XVII, VII, XIII, XVIII, and XIX, respectively, of Pub. L. 95–118. Title VII enacted sections 262d and 262e of this title, repealed sections 283y, 284m, and 290g–9 of this title, and enacted provisions set out as a note under section 262c of this title. Title XIII is classified to sections 262m to 262m–7 of this title. Title XVII is classified to sections 262r to 262r–2 of this title. Title XVIII is classified to sections 262s to 262s–2 of this title. Title XIX is classified to section 262t of this title. For complete classification of these titles to the Code, see Tables.
 
 Reorganization Plan No. 4 of 1965, referred to in subsec. (d), is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
+
+1996—Subsec. (c)(2). Pub. L. 104–208 inserted “Bank for Economic Cooperation and Development in the Middle East and North Africa,” after “Inter-American Development Bank”.
 
 1990—Subsec. (c)(2). Pub. L. 101–513 inserted “European Bank for Reconstruction and Development,” before “International Development Association,”.
 
@@ -85,4 +87,8 @@ Committee on Banking, Finance and Urban Affairs of House of Representatives trea
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 262<i>o</i>–1, 262p–4<i>o</i>, 262p–4p, 2421 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
+
+<i><sup>2</sup></i><i> So in original.</i>
 

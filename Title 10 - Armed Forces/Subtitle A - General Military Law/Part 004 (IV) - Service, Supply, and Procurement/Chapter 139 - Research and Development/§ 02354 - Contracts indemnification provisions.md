@@ -84,7 +84,7 @@ In subsection (a), the words “Liability on account of”, and “of such claim
 
 In subsections (a) and (b), the words “United States” are substituted for the word “Government”.
 
-In subsection (b), the words “made under subsection (a), that provides for indemnification” are substituted for the words “so providing \* \* \* with respect to any alleged liability for such death”. The words “appropriate” and “or actions filed \* \* \* or made” are omitted as surplusage.
+In subsection (b), the words “made under subsection (a), that provides for indemnification” are substitutedfor the words “so providing \* \* \* with respect to any alleged liability for such death”. The words “appropriate” and “or actions filed \* \* \* or made” are omitted as surplusage.
 
 In subsection (c), the words “by the Government”, “authority of”, and “for such purpose” are omitted as surplusage.
 
@@ -96,5 +96,5 @@ Delegation of authority, see section 2356 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 284, 1887, 2356 of this title; title 42 sections 241, 284, 1870, 1887.
+This section is referred to in sections 284, 1887 of this title; title 42 sections 241, 284, 1870, 1887.
 

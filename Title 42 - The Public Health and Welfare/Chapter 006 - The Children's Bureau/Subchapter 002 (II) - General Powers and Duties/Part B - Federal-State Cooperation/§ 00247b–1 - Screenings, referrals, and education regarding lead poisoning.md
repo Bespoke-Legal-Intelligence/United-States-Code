@@ -18,11 +18,11 @@
 
 #### (2) Authority regarding certain entities
 
-&emsp;With respect to a geographic area with a need for activities authorized in paragraph (1), in any case in which neither the State nor the political subdivision in which such area is located has applied for a grant under paragraph (1), the Secretary may make a grant under such paragraph to any grantee under section 254b, 254c, 256, or 256a of this title for carrying out such activities in the area.
+&emsp;With respect to a geographic area with a need for activities authorized in paragraph (1), in any case in which neither the State nor the political subdivision in which such area is located has applied for a grant under paragraph (1), the Secretary may make a grant under such paragraph to any grantee under section 254b, 254c, 256, or 256a of this title <sup>1</sup> for carrying out such activities in the area.
 
 #### (3) Provision of all services and activities through each grantee
 
-&emsp;In making grants under paragraph (1), the Secretary shall ensure that each of the activities described in such paragraph is provided through each grantee under such paragraph.The Secretary may authorize such a grantee to provide the services and activities directly, or through arrangements with other providers.
+&emsp;In making grants under paragraph (1), the Secretary shall ensure that each of the activities described in such paragraph is provided through each grantee under such paragraph. The Secretary may authorize such a grantee to provide the services and activities directly, or through arrangements with other providers.
 
 #### (b) Status as medicaid provider
 
@@ -78,7 +78,7 @@ No grant may be made under subsection (a) of this section, unless an application
 
 #### (2) Applicability to certain secondary agreements for provision of services
 
-&emsp;Paragraph (1) shall not apply in the case of a provider through which a grantee under subsection (a) of this section provides services under such subsection if the Secretary hasprovided a waiver under subsection (b)(2) of this section regarding the provider.
+&emsp;Paragraph (1) shall not apply in the case of a provider through which a grantee under subsection (a) of this section provides services under such subsection if the Secretary has provided a waiver under subsection (b)(2) of this section regarding the provider.
 
 #### (f) Method and amount of payment
 
@@ -142,6 +142,10 @@ For purposes of this section, the term “political subdivision” includes Indi
 
 #### References in Text
 
+Sections 254b and 254c of this title, referred to in subsec. (a)(2), were in the original references to sections 329 and 330, meaning sections 329 and 330 of act July 1, 1944, which were omitted in the general amendment of subpart I (§254b et seq.) of part D of this subchapter by Pub. L. 104–299, §2, Oct. 11, 1996, 110 Stat. 3626. Sections 2 and 3(a) of Pub. L. 104–299 enacted new sections 330 and 330A of act July 1, 1944, which are classified, respectively, to sections 254b and 254c of this title.
+
+Sections 256 and 256a of this title, referred to in subsec. (a)(2), were repealed by Pub. L. 104–299, §4(a)(3), Oct. 11, 1996, 110 Stat. 3645.
+
 The Social Security Act, referred to in subsecs. (b)(1) and (d)(5), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles V and XIX of the Act are classified generally to subchapters V (§701 et seq.) and XIX (§1396 et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
 #### Prior Provisions
@@ -153,4 +157,6 @@ A prior section 247b–1, Pub. L. 95–626, title IV, §401, Nov. 10, 1978, 92 S
 1993—Subsec. (<i>l</i>)(1). Pub. L. 103–183 substituted “through 1998” for “through 1997”.
 
 1992—Pub. L. 102–531 amended section generally, substituting present provisions for provisions relating to grants to States for lead poisoning prevention, grant applications, conditions for approval, method and amount of payment, reduction of amount, recordkeeping and audits, inclusion of Indian tribes as grant recipients, and authorization of appropriations.
+
+<i><sup>1</sup></i><i> See References in Text notes below.</i>
 

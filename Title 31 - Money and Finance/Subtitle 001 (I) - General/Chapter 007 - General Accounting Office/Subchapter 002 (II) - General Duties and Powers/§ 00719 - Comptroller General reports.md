@@ -10,7 +10,7 @@
 
 &emsp;(A) a review of activities under sections 717(b)–(d) and 731(e)(2) of this title, including recommendations under section 717(c) of this title;
 
-&emsp;(B) information on carrying out duties and powers of the Comptroller General under clauses (A) and (C) of this paragraph, subsections (g) and (h) of this section, and sections 717, 731(e)(2), 734, 1112, and 1113 of this title; and
+&emsp;(B) information on carrying out duties and powers of the Comptroller General under clauses (A) and (C) of this paragraph, subsections (g) and (h) <sup>1</sup> of this section, and sections 717, 731(e)(2), 734, 1112, and 1113 of this title; and
 
 &emsp;(C) the name of each officer and employee of the General Accounting Office assigned or detailed to a committee of Congress, the committee to which the officer or employee is assigned or detailed, the length of the period of assignment or detail, a statement on whether the assignment or detail is finished or continuing, and compensation paid out of appropriations available to the Comptroller General for the period of the assignment or detail that has been completed.
 
@@ -28,19 +28,11 @@
 
 &emsp;(3) as frequently as practicable on audits carried out under sections 713 and 714 of this title.
 
-(d) The Comptroller General shall report each year to the Committees on Finance and Governmental Affairs of the Senate, the Committees on Ways and Means and Government Operations of the House of Representatives, and the Joint Committee on Taxation. Each report shall include—
+(d) The Comptroller General shall report on analyses carried out under section 712(3) of this title to the Committees on Governmental Affairs and Appropriations of the Senate, the Committees on Government Operations and Appropriations of the House, and the committees with jurisdiction over legislation related to the operation of each executive agency.
 
-&emsp;(1) procedures and requirements the Comptroller General, the Commissioner of Internal Revenue, and the Director of the Bureau of Alcohol, Tobacco, and Firearms, prescribe to protect the confidentiality of returns and return information made available to the Comptroller General under section 713(b)(1) of this title;
+(e) The Comptroller General shall give the President information on expenditures and accounting the President requests.
 
-&emsp;(2) the scope and subject matter of audits under section 713 of this title; and
-
-&emsp;(3) findings, conclusions, or recommendations the Comptroller General develops as a result of an audit under section 713 of this title, including significant evidence of inefficiency or mismanagement.
-
-(e) The Comptroller General shall report on analyses carried out under section 712(3) of this title to the Committees on Governmental Affairs and Appropriations of the Senate, the Committees on Government Operations and Appropriations of the House, and the committees with jurisdiction over legislation related to the operation of each executive agency.
-
-(f) The Comptroller General shall give the President information on expenditures and accounting the President requests.
-
-(g) When the Comptroller General submits a report to Congress, the Comptroller General shall deliver copies of the report to—
+(f) When the Comptroller General submits a report to Congress, the Comptroller General shall deliver copies of the report to—
 
 &emsp;(1) the Committees on Governmental Affairs and Appropriations of the Senate;
 
@@ -50,7 +42,7 @@
 
 &emsp;(4) any other committee of Congress requesting a copy.
 
-(h)(1) The Comptroller General shall prepare—
+(g)(1) The Comptroller General shall prepare—
 
 &emsp;(A) each month a list of reports issued during the prior month; and
 
@@ -58,13 +50,13 @@
 
 (2) A copy of each list shall be sent to each committee of Congress and each member of Congress. On request, the Comptroller General promptly shall provide a copy of a report to a committee or member.
 
-(i) On request of a committee of Congress, the Comptroller General shall explain to and discuss with the committee or committee staff a report the Comptroller General makes that would help the committee—
+(h) On request of a committee of Congress, the Comptroller General shall explain to and discuss with the committee or committee staff a report the Comptroller General makes that would help the committee—
 
 &emsp;(1) evaluate a program or activity of an agency within the jurisdiction of the committee; or
 
 &emsp;(2) in its consideration of proposed legislation.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 894.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 894; Pub. L. 104–316, title I, §115(b), Oct. 19, 1996, 110 Stat. 3834.)
 
 Historical and Revision Notes
 
@@ -168,7 +160,7 @@ In subsections (e) and (g), the words “Governmental Affairs . . . of the Sen
 
 In subsection (e), the words “carried out under section 712(3) of this title” are added because of the restatement. The words “legislative” before “committees”, and “respective”, are omitted as surplus. The words “executive agency” are substituted for “agencies” because of section 102 of the revised title.
 
-In subsection (f), the word “President” is substituted for “Office of Management and Budget” because sections 101 and 102(a) of Reorganization Plan No. 2 of 1970\(eff. July 1, 1970, 84 Stat. 2085) redesignated the Bureau of the Budget as the Office of Management and Budget and transferred all functions of the Bureau to the President.
+In subsection (f), the word “President” is substituted for “Office of Management and Budget” because sections 101 and 102(a) of Reorganization Plan No. 2 of 1970 (eff. July 1, 1970, 84 Stat. 2085) redesignated the Bureau of the Budget as the Office of Management and Budget and transferred all functions of the Bureau to the President.
 
 In subsection (g), before clause (1), the words “Comptroller General” are substituted for “General Accounting Office” in 31:1172 for consistency. In clause (3), the words “committee of Congress” are substituted for “other committee of the House or Senate, or any joint committee of the two Houses” for consistency and to eliminate unnecessary words. The words in the parentheses are included for consistency with section 101 of the revised title. The word “establishment” in 31:1157 is omitted as surplus. Clause (4) is substituted for 31:1173 to eliminate unnecessary words.
 
@@ -178,6 +170,20 @@ In subsection (h)(2), the words “committee of Congress” are substituted for 
 
 In subsection (i), before clause (1), the words “committee of Congress” are substituted for “committee of the House or Senate, or of any joint committee of the two Houses” for consistency and to eliminate unnecessary words. The words “making the request” are omitted as surplus. The words “Comptroller General” are substituted for “General Accounting Office” for consistency. In clause (1), the word “evaluate” is substituted for “review” for consistency in the revised title. In clause (2), the words “including requests for appropriations” are omitted as surplus.
 
+#### References in Text
+
+Subsections (g) and (h) of this section, referred to in subsec. (b)(1)(B), were redesignated subsecs. (f) and (g),respectively, by Pub. L. 104–316, title I, §115(b)(2), Oct. 19, 1996, 110 Stat. 3834.
+
+#### Amendments
+
+1996—Subsecs. (d) to (i). Pub. L. 104–316 redesignated subsecs. (e) to (i) as (d) to (h), respectively, and struck out former subsec. (d) which read as follows: “The Comptroller General shall report each year to the Committees on Finance and Governmental Affairs of the Senate, the Committees on Ways and Means and Government Operations of the House of Representatives, and the Joint Committee on Taxation. Each report shall include—
+
+&emsp;“(1) procedures and requirements the Comptroller General, the Commissioner of Internal Revenue, and the Director of the Bureau of Alcohol, Tobacco, and Firearms, prescribe to protect the confidentiality of returns and return information made available to the Comptroller General under section 713(b)(1) of this title;
+
+&emsp;“(2) the scope and subject matter of audits under section 713 of this title; and
+
+&emsp;“(3) findings, conclusions, or recommendations the Comptroller General develops as a result of an audit under section 713 of this title, including significant evidence of inefficiency or mismanagement.”
+
 #### Change of Name
 
 Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
@@ -185,4 +191,6 @@ Committee on Government Operations of House of Representatives treated as referr
 #### Section Referred to in Other Sections
 
 This section is referred to in section 731 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

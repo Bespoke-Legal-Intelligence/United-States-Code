@@ -2,7 +2,7 @@
 
 #### (a) Requirement
 
-Every person required to deduct and withhold from an employee a tax under section 3101 or 3402, or who would have been required to deduct and withhold a tax under section 3402 (determined without regard to subsection (n)) if the employee had claimed no more than one withholding exemption, or every employer engaged in a trade or business who pays remuneration for services performed by an employee, including the cash value of such remuneration paid in any medium other than cash, shall furnish to each such employee in respect of the remuneration paid by such person to such employee during the calendar year, on or before January 31 of the succeeding year, or, if his employment isterminated before the close of such calendar year, within 30 days after the date of receipt of a written request from the employee if such 30-day period ends before January 31, a written statement showing the following:
+Every person required to deduct and withhold from an employee a tax under section 3101 or 3402, or who would have been required to deduct and withhold a tax under section 3402 (determined without regard to subsection (n)) if the employee had claimed no more than one withholding exemption, or every employer engaged in a trade or business who pays remuneration for services performed by an employee, including the cash value of such remuneration paid in any medium other than cash, shall furnish to each such employee in respect of the remuneration paid by such person to such employee during the calendar year, on or before January 31 of the succeeding year, or, if his employment is terminated before the close of such calendar year, within 30 days after the date of receipt of a written request from the employee if such 30-day period ends before January 31, a written statement showing the following:
 
 &emsp;(1) the name of such person,
 
@@ -20,9 +20,11 @@ Every person required to deduct and withhold from an employee a tax under sectio
 
 &emsp;(8) the total amount of elective deferrals (within the meaning of section 402(g)(3)) and compensation deferred under section 457,
 
-&emsp;(9) the total amount incurred for dependent care assistance with respect to such employee under a dependent care assistance program described in section 129(d), and
+&emsp;(9) the total amount incurred for dependent care assistance with respect to such employee under a dependent care assistance program described in section 129(d),
 
-&emsp;(10) in the case of an employee who is a member of the Armed Forces of the United States, such employee's earned income as determined for purposes of section 32 (relating to earned income credit).
+&emsp;(10) in the case of an employee who is a member of the Armed Forces of the United States, such employee's earned income as determined for purposes of section 32 (relating to earned income credit), and
+
+&emsp;(11) the amount contributed to any medical savings account (as defined in section 220(d)) of such employee or such employee's spouse.
 
 > In the case of compensation paid for service as a member of a uniformed service, the statement shall show, in lieu of the amount required to be shown by paragraph (5), the total amount of wages as defined in section 3121(a), computed in accordance with such section and section 3121(i)(2). In the case of compensation paid for service as a volunteer or volunteer leader within the meaning of the Peace Corps Act, the statement shall show, in lieu of the amount required to be shown by paragraph (5), the total amount of wages as defined in section 3121(a), computed in accordance with such section and section 3121(i)(3). In the case of tips received by an employee in the course of his employment, the amounts required to be shown by paragraphs (3) and (5) shall include only such tips as are included in statements furnished to the employer pursuant to section 6053(a). The amounts required to be shown by paragraph (5) shall not include wages which are exempted pursuant to sections 3101(c) and 3111(c) from the taxes imposed by sections 3101 and 3111.
 
@@ -90,7 +92,7 @@ A duplicate of any statement made pursuant to this section and in accordance wit
 
 > &emsp;To the extent practicable, the information required under the preceding sentence shall be furnished on or with the statement (if any) required under subsection (a).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 747; Aug. 1, 1956, ch. 837, title IV, §412, 70 Stat. 879; Sept. 22, 1961, Pub. L. 87–293, title II, §202(a)(4), 75 Stat. 626; July 30, 1965, Pub. L. 89–97, title I, §107, title III, §313(e)(1), 79 Stat. 337, 384; Jan. 2, 1968, Pub. L. 90–248, title V, §502(c)(1), (2), 81 Stat. 934; Dec. 30, 1969, Pub. L. 91–172, title VIII, §805(f)(2), 83 Stat. 708; Oct. 30, 1972, Pub. L. 92–603, title II, §293(a)–(c), 86 Stat. 1459; Sept. 2, 1974, Pub. L. 93–406, title II, §1022(k), 88 Stat. 943; Oct. 4, 1976, Pub. L. 94–455, title XIX, §1906(a)(5), (b)(13)(A), 90 Stat. 1824, 1834; Dec. 20, 1977, Pub. L. 95–216, title III, §317(b)(3), 91 Stat. 1540; Nov. 6, 1978, Pub. L. 95–600, title I, §105(c), 92 Stat. 2776; Dec. 24, 1980, Pub. L. 96–601, §4(e), 94 Stat. 3497; Sept. 3, 1982, Pub. L. 97–248, title III, §§307(a)(7), 308(a), 96 Stat. 589, 591; Oct. 25, 1982, Pub. L. 97–362, title I, §107(a), 96 Stat. 1731; Aug. 5, 1983, Pub. L. 98–67, title I, §102(a), 97 Stat. 369; Oct. 22, 1986, Pub. L. 99–514, title XI, §1105(b), 100 Stat. 2419; Nov. 10, 1988, Pub. L. 100–647, title I, §§1011B(c)(2)(B), 1018(u)(33), 102 Stat. 3489, 3592; Dec. 8, 1994, Pub. L. 103–465, title VII, §721(b), 108 Stat. 5002.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 747; Aug. 1, 1956, ch. 837, title IV, §412, 70 Stat. 879; Sept. 22, 1961, Pub. L. 87–293, title II, §202(a)(4), 75 Stat. 626; July 30, 1965, Pub. L. 89–97, title I, §107, title III, §313(e)(1), 79 Stat. 337, 384; Jan. 2, 1968, Pub. L. 90–248, title V, §502(c)(1), (2), 81 Stat. 934; Dec. 30, 1969, Pub. L. 91–172, title VIII, §805(f)(2), 83 Stat. 708; Oct. 30, 1972, Pub. L. 92–603, title II, §293(a)–(c), 86 Stat. 1459; Sept. 2, 1974, Pub. L. 93–406, title II, §1022(k), 88 Stat. 943; Oct. 4, 1976, Pub. L. 94–455, title XIX, §1906(a)(5), (b)(13)(A), 90 Stat. 1824, 1834; Dec. 20, 1977, Pub. L. 95–216, title III, §317(b)(3), 91 Stat. 1540; Nov. 6, 1978, Pub. L. 95–600, title I, §105(c), 92 Stat. 2776; Dec. 24, 1980, Pub. L. 96–601, §4(e), 94 Stat. 3497; Sept. 3, 1982, Pub. L. 97–248, title III, §§307(a)(7), 308(a), 96 Stat. 589, 591; Oct. 25, 1982, Pub. L. 97–362, title I, §107(a), 96 Stat. 1731; Aug. 5, 1983, Pub. L. 98–67, title I, §102(a), 97 Stat. 369; Oct. 22, 1986, Pub. L. 99–514, title XI, §1105(b), 100 Stat. 2419; Nov. 10, 1988, Pub. L. 100–647, title I, §§1011B(c)(2)(B), 1018(u)(33), 102 Stat. 3489, 3592; Dec. 8, 1994, Pub. L. 103–465, title VII, §721(b), 108 Stat. 5002; Aug. 21, 1996, Pub. L. 104–191, title III, §301(c)(3), 110 Stat. 2049.)
 
 #### References in Text
 
@@ -99,6 +101,8 @@ The Peace Corps Act, referred to in subsec. (a), is Pub. L. 87–293, Sept. 22, 
 The Social Security Act, referred to in subsecs. (c) and (e)(2)(C), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended, which is classified generally to chapter 7 (§301 et seq.) of Title 42, The Public Health and Welfare. Part A of title XVIII of the Social Security Act is classified to part A (§1395c et seq.) of subchapter XVIII of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Amendments
+
+1996—Subsec. (a)(11). Pub. L. 104–191 added par. (11).
 
 1994—Subsec. (a)(10). Pub. L. 103–465 added par. (10).
 
@@ -147,6 +151,10 @@ Subsec. (c). Pub. L. 89–97, §107, required the statements to show the proport
 1956—Subsec. (a). Act Aug. 1, 1956, §412(a), inserted provisions prescribing contents of statement in the case of compensation paid for service as a member of the uniformed services.
 
 Subsec. (b). Act Aug. 1, 1956, §412(b), required the furnishing of a statement if during the calendar year any amount was required to be withheld as tax under section 3101 of this title.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–191 applicable to taxable years beginning after Dec. 31, 1996, see section 301(j) of Pub. L. 104–191, set out as a note under section 62 of this title.
 
 #### Effective Date of 1994 Amendment
 
@@ -218,5 +226,5 @@ Fraudulent statement or failure to furnish statement to employee, see sections 6
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3102, 3121, 3202, 3402, 3509, 6040, 6041A, 6053, 6103, 6314, 6674, 6724, 7204 of this title; title 42 sections 1320b–14, 1395y.
+This section is referred to in sections 408, 3102, 3121, 3202, 3402, 3509, 6040, 6041A, 6053, 6103, 6314, 6674, 6724, 7204 of this title; title 42 sections 1320b–14, 1395y.
 

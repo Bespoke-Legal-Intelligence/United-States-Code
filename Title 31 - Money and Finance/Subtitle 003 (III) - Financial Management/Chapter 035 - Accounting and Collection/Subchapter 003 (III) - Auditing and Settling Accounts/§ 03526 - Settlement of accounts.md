@@ -18,7 +18,7 @@
 
 &emsp;(C) an official from clearing an account of questioned items as prescribed by law.
 
-(d) On settling an account of the Government, the balance certified by the Comptroller General is conclusive on the executive branch of the Government. On the initiative of the Comptroller General or on request of an individual whose accounts are settled or the head of the agency to which the account relates, the Comptroller General may change the account within a year after settlement. The decision of the Comptroller General to change the account is conclusive on the executive branch.
+(d) On settling an account of the Government, the balance certified by the Comptroller General is conclusive on the executive branch of theGovernment. On the initiative of the Comptroller General or on request of an individual whose accounts are settled or the head of the agency to which the account relates, the Comptroller General may change the account within a year after settlement. The decision of the Comptroller General to change the account is conclusive on the executive branch.
 
 (e) When an amount of money is expended under law for a treaty or relations with a foreign country, the President may—
 

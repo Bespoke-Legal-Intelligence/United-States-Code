@@ -52,5 +52,5 @@ The employer may require that the eligible employee obtain subsequent recertific
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 2612 of this title; title 2 section 1312.
+This section is referred to in section 2612 of this title; title 2 section 1312; title 3 section 412.
 

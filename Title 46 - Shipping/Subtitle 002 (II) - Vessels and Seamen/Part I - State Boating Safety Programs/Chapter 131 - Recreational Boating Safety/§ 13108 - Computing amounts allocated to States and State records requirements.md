@@ -2,7 +2,7 @@
 
 (a) Amounts allocated and distributed under section 13103 of this title shall be computed and paid to the States as follows:
 
-&emsp;(1) During the second quarter of a fiscal year and on the basis of computations made under section 13105 of this title and submitted by the States for the proceeding fiscal year, the Secertary <sup>1</sup> shall determine the percentage of the amounts available to which each eligible State is entitled for the next fiscal year.
+&emsp;(1) During the second quarter of a fiscal year and on the basis of computations made under section 13105 of this title and submitted by the States for the preceding fiscal year, the Secretary shall determine the percentage of the amounts available to which each eligible State is entitled for the next fiscal year.
 
 &emsp;(2) Notice of the percentage and of the dollar amount, if it can be determined, for each State shall be provided to the States at the earliest practicable time.
 
@@ -18,7 +18,7 @@
 
 (d) The Secretary shall provide for the accounting, budgeting, and other fiscal procedures that are necessary and reasonable to carry out this section properly and efficiently. Records related to amounts allocated under this chapter shall be made available to the Secretary and the Comptroller General to conduct audits.
 
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 596; Pub. L. 98–369, div. A, title X, §1011(f), July 18, 1984, 98 Stat. 1013; Pub. L. 101–595, title III, §312(d), Nov. 16, 1990, 104 Stat. 2987.)
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 596; Pub. L. 98–369, div. A, title X, §1011(f), July 18, 1984, 98 Stat. 1013; Pub. L. 101–595, title III, §312(d), Nov. 16, 1990, 104 Stat. 2987; Pub. L. 104–324, title VII, §746(a)(3), (4), Oct. 19, 1996, 110 Stat. 3943.)
 
 Historical and Revision Notes
 
@@ -30,9 +30,11 @@ Historical and Revision Notes
 
 46:1480
 
-Section 13108 sets forth the manner that the Secretary shall compute the amounts to be allocated tothe States, State record requirements, and authority for the General Accounting Office to review the records when conducting audits.
+Section 13108 sets forth the manner that the Secretary shall compute the amounts to be allocated to the States, State record requirements, and authority for the General Accounting Office to review the records when conducting audits.
 
 #### Amendments
+
+1996—Subsec. (a)(1). Pub. L. 104–324 substituted “preceding” for “proceeding” and “Secretary” for “Secertary”.
 
 1990—Subsec. (a)(1). Pub. L. 101–595 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “During the last quarter of a fiscal year and on the basis of computations made under section 13105 of this title and submitted by the States, the Secretary shall determine the percentage of the amounts available for the next fiscal year to which each eligible State is entitled.”
 
@@ -41,6 +43,4 @@ Section 13108 sets forth the manner that the Secretary shall compute the amounts
 #### Effective Date of 1984 Amendment
 
 Amendment by Pub. L. 98–369 effective Oct. 1, 1984, to apply with respect to fiscal years beginning after Sept. 30, 1984, see section 1013 of Pub. L. 98–369, set out as a note under section 13101 of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should be “Secretary”.</i>
 

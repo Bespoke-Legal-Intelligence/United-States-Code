@@ -6,7 +6,7 @@ Grants under sections 1671 and 1672 of this title shall be subject to the Single
 
 #### References in Text
 
-The Single Audit Act of 1984, referred to in text, is Pub. L. 98–502, Oct. 19, 1984, 98 Stat. 2327, which is classified generally to chapter 75 (§7501 et seq.) of Title 31, Money and Finance. For complete classification of thisAct to the Code, see Short Title note set out under section 7501 of Title 31 and Tables.
+The Single Audit Act of 1984, referred to in text, is Pub. L. 98–502, Oct. 19, 1984, 98 Stat. 2327, as amended, which is classified generally to chapter 75 (§7501 et seq.) of Title 31, Money and Finance. For complete classification of this Act to the Code, see Short Title note set out under section 7501 of Title 31 and Tables.
 
 #### Effective Date
 

@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(B) in the case of a grant for fiscal year 1994, the State will expend not less than 10 percent of the grant to increase (relative to fiscal year 1993) funding for such system; and
 
-&emsp;&emsp;(C) in the case of a grant for any subsequent fiscal year, the State will expend for such system not less than an amount equalto the amount expended by the State for fiscal year 1994.
+&emsp;&emsp;(C) in the case of a grant for any subsequent fiscal year, the State will expend for such system not less than an amount equal to the amount expended by the State for fiscal year 1994.
 
 #### (2) Waiver
 

@@ -6,7 +6,7 @@ The Secretary is authorized to conduct examinations and investigations for the p
 
 #### (b) Availability to owner of part of analysis samples
 
-Where a sample of a food, drug, or cosmetic is collected for analysis under this chapter theSecretary shall, upon request, provide a part of such official sample for examination or analysis by any person named on the label of the article, or the owner thereof, or his attorney or agent; except that the Secretary is authorized, by regulations, to make such reasonable exceptions from, and impose such reasonable terms and conditions relating to, the operation of this subsection as he finds necessary for the proper administration of the provisions of this chapter.
+Where a sample of a food, drug, or cosmetic is collected for analysis under this chapter the Secretary shall, upon request, provide a part of such official sample for examination or analysis by any person named on the label of the article, or the owner thereof, or his attorney or agent; except that the Secretary is authorized, by regulations, to make such reasonable exceptions from, and impose such reasonable terms and conditions relating to, the operation of this subsection as he finds necessary for the proper administration of the provisions of this chapter.
 
 #### (c) Records of other departments and agencies
 

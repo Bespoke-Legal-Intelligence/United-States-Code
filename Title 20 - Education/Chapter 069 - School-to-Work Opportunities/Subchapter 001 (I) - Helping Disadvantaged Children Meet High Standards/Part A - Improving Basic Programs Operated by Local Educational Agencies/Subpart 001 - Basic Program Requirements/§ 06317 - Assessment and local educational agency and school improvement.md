@@ -36,7 +36,7 @@ Each State educational agency and local educational agency receiving funds under
 
 &emsp;(A) Each school identified under paragraph (1) shall—
 
-&emsp;&emsp;(i) in consultation with parents, the local educational agency, and the school support team, develop or revise a school plan in ways that have the greatest likelihood of improving the performance of participating children in meeting the State's student performance standards, which may include reviewing the schools’ plan in the context of theopportunity-to-learn standards or strategies developed by such State under the Goals 2000: Educate America Act \[20 U.S.C. 5801 et seq.\]; and
+&emsp;&emsp;(i) in consultation with parents, the local educational agency, and the school support team, develop or revise a school plan in ways that have the greatest likelihood of improving the performance of participating children in meeting the State's student performance standards; and
 
 &emsp;&emsp;(ii) submit the plan or revised plan to the local educational agency for approval.
 
@@ -78,11 +78,9 @@ Each State educational agency and local educational agency receiving funds under
 
 &emsp;&emsp;(V) making alternative governance arrangements such as the creation of a public charter school;
 
-&emsp;&emsp;(VI) reconstituting the school staff;
+&emsp;&emsp;(VI) reconstituting the school staff; and
 
-&emsp;&emsp;(VII) authorizing students to transfer, including transportation costs, to other public schools served by the local educational agency; and
-
-&emsp;&emsp;(VIII) implementing opportunity-to-learn standards or strategies developed by such State under the Goals 2000: Educate America Act \[20 U.S.C. 5801 et seq.\].
+&emsp;&emsp;(VII) authorizing students to transfer, including transportation costs, to other public schools served by the local educational agency.
 
 &emsp;(ii) Notwithstanding clause (i), corrective actions taken pursuant to this part shall not include the actions described in subclause (I), (III), (IV), (VI), or (VII) of clause (i) until the State has developed assessments that meet the requirements of subparagraph (C) of section 6311(b)(3) of this title.
 
@@ -96,7 +94,7 @@ Each State educational agency and local educational agency receiving funds under
 
 &emsp;&emsp;(A) make technical assistance under section 6318 of this title available to the schools farthest from meeting the State's challenging student performance standards, if requested by the school or local educational agency; and
 
-&emsp;&emsp;(B) if such agency determines that a local educational agency failed to carry out the local educational agency's responsibilities under paragraphs (4) and (5), take such corrective actions as the State educationalagency deems appropriate and which are in compliance with State law.
+&emsp;&emsp;(B) if such agency determines that a local educational agency failed to carry out the local educational agency's responsibilities under paragraphs (4) and (5), take such corrective actions as the State educational agency deems appropriate and which are in compliance with State law.
 
 #### (7) Special rule
 
@@ -130,7 +128,7 @@ Each State educational agency and local educational agency receiving funds under
 
 &emsp;(A) Each local educational agency identified under paragraph (3) shall, in consultation with schools, parents, and educational experts, revise its local educational agency plan under section 6312 of this title in ways that have the greatest likelihood of improving the performance of schools served by the local educational agency under this part in meeting the State's student performance standards.
 
-&emsp;(B) Such revision shall include determining why the local educational agency's plan failed to bring about increased achievement, and may include reviewing the local educational agency's plan in the context of the opportunity-to-learn standards or strategies developed by such State under the Goals 2000: Educate America Act \[20 U.S.C. 5801 et seq.\].
+&emsp;(B) Such revision shall include determining why the local educational agency's plan failed to bring about increased achievement.
 
 #### (5) State educational agency responsibility
 
@@ -162,15 +160,13 @@ Each State educational agency and local educational agency receiving funds under
 
 &emsp;&emsp;(III) removal of particular schools from the jurisdiction of the local educational agency and establishment of alternative arrangements for public governance and supervision of such schools;
 
-&emsp;&emsp;(IV) implementation of the opportunity-to-learn standards or strategies developed by such State under the Goals 2000: Educate America Act \[20 U.S.C. 5801 et seq.\];
+&emsp;&emsp;(IV) appointment by the State educational agency of a receiver or trustee to administer the affairs of the local educational agency in place of the superintendent and school board;
 
-&emsp;&emsp;(V) appointment by the State educational agency of a receiver or trustee to administer the affairs of the local educational agency in place of the superintendent and school board;
+&emsp;&emsp;(V) the abolition or restructuring of the local educational agency;
 
-&emsp;&emsp;(VI) the abolition or restructuring of the local educational agency;
+&emsp;&emsp;(VI) the authorizing of students to transfer from a school operated by one local educational agency to a school operated by another local educational agency; and
 
-&emsp;&emsp;(VII) the authorizing of students to transfer from a school operated by one local educational agency to a school operated by another local educational agency; and
-
-&emsp;&emsp;(VIII) a joint plan between the State and the local educational agency that addresses specific elements of student performance problems and that specifies State and local responsibilities under the plan.
+&emsp;&emsp;(VII) a joint plan between the State and the local educational agency that addresses specific elements of student performance problems and that specifies State and local responsibilities under the plan.
 
 &emsp;(ii) Notwithstanding clause (i), corrective actions taken pursuant to this part shall not include the actions described in subclauses (I), (II), and (III) of clause (i) until the State has developed assessments that meet the requirements of paragraph (3)(C) of section 6311(b) of this title.
 
@@ -184,13 +180,21 @@ Each State educational agency and local educational agency receiving funds under
 
 Nothing in this section shall be construed to alter or otherwise affect the rights, remedies, and procedures afforded school or school district employees under Federal, State, or local laws (including applicable regulations or court orders) or under the terms of collective bargaining agreements, memoranda of understanding, or other agreements between such employees and their employers.
 
-(Pub. L. 89–10, title I, §1116, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3542.)
+(Pub. L. 89–10, title I, §1116, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3542;amended Pub. L. 104–134, title I, §101(d) \[title VII, §703(b)(2)\], Apr. 26, 1996, 110 Stat. 1321–211, 1321–255; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.)
 
 #### References in Text
 
 Section 1020 of the Elementary and Secondary Education Act of 1965 (as such section was in effect on the day preceding October 20, 1994), referred to in subsec. (c)(1)(A), means section 1020 of Pub. L. 89–10, as added by Pub. L. 100–297, title I, §1001, Apr. 28, 1988, 102 Stat. 164, which was classified to section 2730 of this title prior to the general amendment of Pub. L. 89–10 by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519.
 
-The Goals 2000: Educate America Act, referred to in subsecs. (c)(2)(A)(i), (5)(B)(i)(VIII) and (d)(4)(B), (6)(B)(i)(IV), is Pub. L. 103–227, Mar. 31, 1994, 108 Stat. 125 (except titles V and IX), as amended, which is classified principally to chapter 68 (§5801 et seq.) of this title (except subchapters V (§5931 et seq.) and IX (§6001 et seq.)). For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
+#### Amendments
+
+1996—Subsec. (c)(2)(A)(i). Pub. L. 104–134, §101(d) \[title VII, §703(b)(2)(A)(i)\], struck out “, which may include reviewing the schools’ plan in the context of the opportunity-to-learn standards or strategies developed by such State under the Goals 2000: Educate America Act” after “student performance standards”.
+
+Subsec. (c)(5)(B)(i)(VI) to (VIII). Pub. L. 104–134, §101(d) \[title VII, §703(b)(2)(A)(ii)\], inserted “and” at end of subcl. (VI), substituted period for “; and” at end of subcl. (VII), and struck out subcl. (VIII) which read as follows: “implementing opportunity-to-learn standards or strategies developed by such State under the Goals 2000: Educate America Act.”
+
+Subsec. (d)(4)(B). Pub. L. 104–134, §101(d) \[title VII, §703(b)(2)(B)(i)\], struck out “, and may include reviewing the local educational agency's plan in the context of the opportunity-to-learn standards or strategies developed by such State under the Goals 2000: Educate America Act” after “achievement”.
+
+Subsec. (d)(6)(B)(i)(IV) to (VIII). Pub. L. 104–134, §101(d) \[title VII, §703(b)(2)(B)(ii)\], redesignated subcls. (V) to (VIII) as (IV) to (VII), respectively, and struck out former subcl. (IV) which read as follows: “implementation of the opportunity-to-learn standards or strategies developed by such State under the Goals 2000: Educate America Act;”.
 
 #### Section Referred to in Other Sections
 

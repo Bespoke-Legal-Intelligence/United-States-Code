@@ -25,7 +25,7 @@ Pub. L. 103–305, title II, §205(a)(2), Aug. 23, 1994, 108 Stat. 1583, added i
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in title 39 section 5402.
+This chapter is referred to in sections 40109, 46301 of this title; title 39 section 5402.
 
 
 ---

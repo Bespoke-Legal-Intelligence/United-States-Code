@@ -22,7 +22,7 @@ In the case of variable contracts, the basis of each asset in a segregated asset
 
 #### (c) Separate accounting
 
-For purposes of this part (other than section 809), a life insurance company which issues variable contracts shall separately account for the various income, exclusion, deduction, asset, reserve, and other liability items properly attributable to such variable contracts. For such items as are not accounted for directly, separate accounting shall be made—
+For purposes of this part (other than section 809), a life insurance company which issues variable contracts shall separately account for thevarious income, exclusion, deduction, asset, reserve, and other liability items properly attributable to such variable contracts. For such items as are not accounted for directly, separate accounting shall be made—
 
 &emsp;(1) in accordance with the method regularly employed by such company, if such method is reasonable, and
 
@@ -36,15 +36,19 @@ For purposes of this part, the term “variable contract” means a contract—
 
 &emsp;(2) which—
 
-&emsp;&emsp;(A) provides for the payment of annuities, or
+&emsp;&emsp;(A) provides for the payment of annuities,
 
-&emsp;&emsp;(B) is a life insurance contract, and
+&emsp;&emsp;(B) is a life insurance contract, or
+
+&emsp;&emsp;(C) provides for funding of insurance on retired lives as described in section 807(c)(6), and
 
 &emsp;(3) under which—
 
-&emsp;&emsp;(A) in the case of an annuity contract, the amounts paid in, or the amount paid out, reflect the investment return and the market value of the segregated asset account, or
+&emsp;&emsp;(A) in the case of an annuity contract, the amounts paid in, or the amount paid out, reflect the investment return and the market value of the segregated asset account,
 
-&emsp;&emsp;(B) in the case of a life insurance contract, the amount of the death benefit (or the period of coverage) is adjusted on the basis of the investment return and the market value of the segregated asset account.
+&emsp;&emsp;(B) in the case of a life insurance contract, the amount of the death benefit (or the period of coverage) is adjusted on the basis of the investment return and the market value of the segregated asset account, or
+
+&emsp;&emsp;(C) in the case of funds held under a contract described in paragraph (2)(C), the amounts paid in, or the amounts paid out, reflect the investment return and the market value of the segregated asset account.
 
 > If a contract ceases to reflect current investment return and current market value, such contract shall not be considered as meeting the requirements of paragraph (3) after such cessation. Paragraph (3) shall be applied without regard to whether there is a guarantee, and obligations under such guarantee which exceed obligations under the contract without regard to such guarantee shall be accounted for as part of the company's general account.
 
@@ -110,7 +114,7 @@ For purposes of this part, the term “annuity contract” includes a contract w
 
 &emsp;In determining whether a segregated asset account is adequately diversified for purposes of paragraph (1), each United States Government agency or instrumentality shall be treated as a separate issuer.
 
-(Added Pub. L. 98–369, div. A, title II, §211(a), July 18, 1984, 98 Stat. 750; amended Pub. L. 99–514, title XVIII, §1821(m), (t)(1), Oct. 22, 1986, 100 Stat. 2841, 2844; Pub. L. 100–647, title VI, §6080(a), Nov. 10, 1988, 102 Stat. 3710.)
+(Added Pub. L. 98–369, div. A, title II, §211(a), July 18, 1984, 98 Stat. 750; amended Pub. L. 99–514, title XVIII, §1821(m), (t)(1), Oct. 22, 1986, 100 Stat. 2841, 2844; Pub. L. 100–647, title VI, §6080(a), Nov. 10, 1988, 102 Stat. 3710; Pub. L. 104–188, title I, §1611(a), Aug. 20, 1996, 110 Stat. 1845.)
 
 #### Prior Provisions
 
@@ -120,6 +124,10 @@ Another prior section 817, act Aug. 16, 1954, ch. 736, §817, as added Mar. 13, 
 
 #### Amendments
 
+1996—Subsec. (d)(2)(C). Pub. L. 104–188, §1611(a)(1), added subpar. (C).
+
+Subsec. (d)(3)(C). Pub. L. 104–188, §1611(a)(2), added subpar. (C).
+
 1988—Subsec. (h)(6). Pub. L. 100–647 added par. (6).
 
 1986—Subsec. (d). Pub. L. 99–514, §1821(t)(1), inserted at end “Paragraph (3) shall be applied without regard to whether there is a guarantee, and obligations under such guarantee which exceed obligations under the contract without regard to such guarantee shall be accounted for as part of the company's general account.”
@@ -127,6 +135,10 @@ Another prior section 817, act Aug. 16, 1954, ch. 736, §817, as added Mar. 13, 
 Subsec. (h)(1). Pub. L. 99–514, §1821(m)(2), struck out last sentence which read as follows: “For purposes of this paragraph and paragraph (2), beneficial interests in a regulated investment company or in a trust shall not be treated as 1 investment if all of the beneficial interests in such company or trust are held by 1 or more segregated asset accounts of 1 or more insurance companies.”
 
 Subsec. (h)(3) to (5). Pub. L. 99–514, §1821(m)(1), added pars. (3) and (4), redesignated former par. (4) as (5), and struck out former par. (3) which read as follows: “In the case of a segregated asset account with respect to variable life insurance contracts, paragraph (1) shall not apply in the case of securities issued by the United States Treasury which are owned by a regulated investment company or by a trust all the beneficial interests in which are held by 1 or more segregated asset accounts of the company issuing the contract.”
+
+#### Effective Date of 1996 Amendment
+
+Section 1611(b) of Pub. L. 104–188 provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1995.”
 
 #### Effective Date of 1988 Amendment
 
@@ -162,5 +174,5 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 860E, 4982, 7702 of this title.
+This section is referred to in sections 817A, 860E, 4982, 7702 of this title.
 

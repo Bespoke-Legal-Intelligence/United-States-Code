@@ -56,13 +56,9 @@ Officers in Health-Professions Competitive Categories.—The Secretary of each m
 
 (Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2926.)
 
-#### Effective Date of Section
-
-<i>Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under section 10001 of this title.</i>
-
 #### Prior Provisions
 
-Provisions similar to those in subsec. (b) of this section were contained in sections 5895 and 5901 of this title, prior to repeal by Pub. L. 103–337, §1629(b)(2).
+Provisions similar to those in subsec. (b) of this section were contained in section 5895 of this title, prior to repeal by Pub. L. 103–337, §1629(b)(2).
 
 #### Section Referred to in Other Sections
 

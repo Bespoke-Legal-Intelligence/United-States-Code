@@ -12,6 +12,10 @@ The Secretary of the Treasury shall instruct the United States Executive Directo
 
 Similar provisions were contained in the following appropriation acts:
 
+Pub. L. 104–208, div. A, title I, §101(c) \[title V, §514\], Sept. 30, 1996, 110 Stat. 3009–121, 3009–143.
+
+Pub. L. 104–107, title V, §514, Feb. 12, 1996, 110 Stat. 725.
+
 Pub. L. 103–306, title V, §514, Aug. 23, 1994, 108 Stat. 1628.
 
 Pub. L. 103–87, title V, §514, Sept. 30, 1993, 107 Stat. 948.

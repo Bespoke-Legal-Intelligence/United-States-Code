@@ -6,19 +6,33 @@ The Secretary in cooperation with the Secretary of the Interior shall develop an
 
 #### (b) Federal regulation in exclusive economic zone
 
-(1) In the absence of an approved and implemented fishery management plan under the Magnuson Fishery Conservation and Management Act (16 U.S.C. 1801 et seq.), and after consultation with the appropriate Councils, the Secretary may implement regulations to govern fishing in the exclusive economic zone that are—
+(1) In the absence of an approved and implemented fishery management plan under the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1801 et seq.), and after consultation with the appropriate Councils, the Secretary may implement regulations to govern fishing in the exclusive economic zone that are—
 
-&emsp;(A) necessary to support the effective implementation of a coastal fishery management plan; and
+&emsp;(A) compatible with the effective implementation of a coastal fishery management plan; and
 
-&emsp;(B) consistent with the national standards set forth in section 301 of the Magnuson Fishery Conservation and Management Act (16 U.S.C. 1851).
+&emsp;(B) consistent with the national standards set forth in section 301 of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1851).
 
-> The regulations may include measures recommended by the Commission to the Secretary that are necessary to support the provisions of the coastal fishery management plan. Regulations issued by the Secretary to implement an approved fishery management plan prepared by the appropriate Councils or the Secretary under the Magnuson Fishery Conservation and Management Act (16 U.S.C. 1801 et seq.) shall supersede any conflicting regulations issued by the Secretary under this subsection.
+> The regulations may include measures recommended by the Commission to the Secretary that are necessary to support the provisions of the coastal fishery management plan. Regulations issued by the Secretary to implement an approved fishery management plan prepared by the appropriate Councils or the Secretary under the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1801 et seq.) shall supersede any conflicting regulations issued by the Secretary under this subsection.
 
-(2) The provisions of sections 307, 308, 309, 310, and 311 of the Magnuson Fishery Conservation and Management Act (16 U.S.C. 1857, 1858, 1859, 1860, and 1861) regarding prohibited acts, civil penalties, criminal offenses, civil forfeitures, and enforcement shall apply with respect to regulations issued under this subsection as if such regulations were issued under the Magnuson Fishery Conservation and Management Act (16 U.S.C. 1801 et seq.).
+(2) The provisions of sections 307, 308, 309, 310, and 311 of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1857, 1858, 1859, 1860, and 1861) regarding prohibited acts, civil penalties, criminal offenses, civil forfeitures, and enforcement shall apply with respect to regulations issued under this subsection as if such regulations were issued under the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1801 et seq.).
 
-(Pub. L. 103–206, title VIII, §804, Dec. 20, 1993, 107 Stat. 2449.)
+(Pub. L. 103–206, title VIII, §804, Dec. 20, 1993, 107 Stat. 2449; Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41; Pub. L. 104–297, title IV, §404(b), Oct. 11, 1996, 110 Stat. 3619.)
 
 #### References in Text
 
-The Magnuson Fishery Conservation and Management Act, referred to in subsec. (b), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, which is classified principally to chapter 38 (§1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
+The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (b), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, which is classified principally to chapter 38 (§1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
+
+#### Amendments
+
+1996—Subsec. (b). Pub. L. 104–208 substituted “Magnuson-Stevens Fishery” for “Magnuson Fishery” wherever appearing.
+
+Subsec. (b)(1)(A). Pub. L. 104–297 substituted “compatible with” for “necessary to support”.
+
+#### Effective Date of 1996 Amendment
+
+Section 101(a) \[title II, §211(b)\] of div. A of Pub. L. 104–208 provided that the amendment made by that section is effective 15 days after Oct. 11, 1996.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 5107b of this title.
 

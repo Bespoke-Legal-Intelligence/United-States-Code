@@ -50,7 +50,7 @@ The Alaska Statehood Act, as amended, referred to in subsec. (a), is Pub. L. 85�
 
 Act of July 9, 1968 (82 Stat. 307), referred to in subsec. (c), is Pub. L. 90–392, July 9, 1968, 82 Stat. 307, known as the Second Supplemental Appropriation Act, 1968, which is not classified to the Code.
 
-The United States Court of Claims, referred to in subsec. (c), and the United States Court of Customs and Patent Appeals were merged effective Oct. 1, 1982, into a new United States Court of Appeals for the Federal Circuit by Pub. L. 97–164, Apr. 2, 1982, 96 Stat. 25, which also created a United States Claims Court \[now United States Court of Federal Claims\] that inherited the trial jurisdiction of the Court of Claims. See sections 48, 171 et seq., 791 et seq., and 1491 et seq. of Title 28, Judiciary and Judicial Procedure.
+The United States Court of Claims, referred to in subsec. (c), and the United States Court of Customs and Patent Appeals were merged effective Oct. 1, 1982, intoa new United States Court of Appeals for the Federal Circuit by Pub. L. 97–164, Apr. 2, 1982, 96 Stat. 25, which also created a United States Claims Court \[now United States Court of Federal Claims\] that inherited the trial jurisdiction of the Court of Claims. See sections 48, 171 et seq., 791 et seq., and 1491 et seq. of Title 28, Judiciary and Judicial Procedure.
 
 Act of July 13, 1970 (84 Stat. 431), referred to in subsec. (c), is Pub. L. 91–335, July 13, 1970, 84 Stat. 431, which enacted section 1211 of Title 25, Indians. For complete classification of this Act to the Code, see Tables.
 

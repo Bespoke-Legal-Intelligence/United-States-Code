@@ -2,7 +2,7 @@
 
 It is unlawful for any person who is a United States citizen, or a foreign national on board a vessel documented or numbered under the laws of the United States, or subject to the jurisdiction of the United States under a reciprocating state agreement negotiated under section 1428(e) of this title—
 
-&emsp;(1) to violate any provision of this chapter, any regulation issued under this chapter, or any term, condition, or restriction of any license or permit issued to such person under this chapter;
+&emsp;(1) to violate any provision of this chapter, any regulation issued under this chapter, orany term, condition, or restriction of any license or permit issued to such person under this chapter;
 
 &emsp;(2) to engage in exploration or commercial recovery after the revocation, or during the period of suspension, of an applicable license or permit issued under this chapter, to engage in a particular exploration or commercial recovery activity during the period such activity has been suspended under this chapter, or to fail to modify a particular exploration or commercial recovery activity for which modification was required under this chapter;
 

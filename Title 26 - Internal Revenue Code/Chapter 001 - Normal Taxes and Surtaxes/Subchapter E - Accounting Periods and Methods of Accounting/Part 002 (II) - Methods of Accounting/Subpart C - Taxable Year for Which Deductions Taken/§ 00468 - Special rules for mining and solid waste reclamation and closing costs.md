@@ -102,7 +102,7 @@ For purposes of this section—
 
 #### (A) Current reclamation costs
 
-&emsp;&emsp;The term “current reclamation costs” means the amount which the taxpayer wouldbe required to pay for qualified reclamation costs if the reclamation activities were performed currently.
+&emsp;&emsp;The term “current reclamation costs” means the amount which the taxpayer would be required to pay for qualified reclamation costs if the reclamation activities were performed currently.
 
 #### (B) Current closing costs
 
@@ -156,7 +156,7 @@ For purposes of this section—
 
 &emsp;The term “reserve property” means any property with respect to which a reserve is established under subsection (a)(1).
 
-(Added Pub. L. 98–369, div. A, title I, §91(b)(1), July 18, 1984, 98 Stat. 601; amended Pub. L. 99–514, title XVIII, §§1807(a)(3)(A), (C), 1899A(14), Oct. 22, 1986, 100 Stat. 2811, 2959; Pub. L. 101–508, title XI, §11802(c), Nov. 5, 1990, 104 Stat. 1388–529.)
+(Added Pub. L. 98–369, div. A, title I, §91(b)(1), July 18, 1984, 98 Stat. 601; amended Pub. L.99–514, title XVIII, §§1807(a)(3)(A), (C), 1899A(14), Oct. 22, 1986, 100 Stat. 2811, 2959; Pub. L. 101–508, title XI, §11802(c), Nov. 5, 1990, 104 Stat. 1388–529.)
 
 #### References in Text
 

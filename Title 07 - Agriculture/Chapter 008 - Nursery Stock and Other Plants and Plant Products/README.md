@@ -20,7 +20,7 @@
 | [163\.](%C2%A7%2000163%20-%20Violations%3B%20forgery%2C%20alterations%2C%20etc.%2C%20of%20certificates%3B%20punishment%3B%20civil%20penalty.md) | Violations; forgery, alterations, etc., of certificates; punishment; civil penalty. |
 | [164\.](%C2%A7%2000164%20-%20Duty%20of%20United%20States%20attorneys%20to%20prosecute.md) | Duty of United States attorneys to prosecute. |
 | [164a.](%C2%A7%2000164a%20-%20Enforcement%20of%20quarantine%20against%20nursery%20stock%20and%20plant%20products%3B%20search%20and%20seizure.md) | Enforcement of quarantine against nursery stock and plant products; search and seizure. |
-| 165, 165a. Repealed or Omitted. |  |
+| 165, 165a. | Repealed or Omitted. |
 | [166\.](%C2%A7%2000166%20-%20State%20terminal%20inspection%3B%20transmission%20of%20mailed%20packages%20for%20State%20inspection%3B%20nonmailable%20matter%3B%20punishment%20for%20violations%3B%20rules%20and%E2%80%A6.md) | State terminal inspection; transmission of mailed packages for State inspection; nonmailable matter; punishment for violations; rules and regulations by United States Postal Service. |
 | [167\.](%C2%A7%2000167%20-%20Rules%20governing%20District%20of%20Columbia.md) | Rules governing District of Columbia. |
 

@@ -6,9 +6,9 @@ Whoever, except under direction of the Attorney General or the Commissioner of t
 
 Whoever, when applying for an immigrant or nonimmigrant visa, permit, or other document required for entry into the United States, or for admission to the United States personates another, or falsely appears in the name of a deceased individual, or evades or attempts to evade the immigration laws by appearing under an assumed or fictitious name without disclosing his true identity, or sells or otherwise disposes of, or offers to sell or otherwise dispose of, or utters, such visa, permit, or other document, to any person not authorized by law to receive such document; or
 
-Whoever knowingly makes under oath, or as permitted under penalty of perjury under section 1746 of title 28, United States Code, knowingly subscribes as true, any false statement with respect to a material fact in any application, affidavit, or other document required by the immigration laws or regulations prescribed thereunder, or knowingly presents any such application, affidavit, or other document containing any such false statement—
+Whoever knowingly makes under oath, or as permitted under penalty of perjury under section 1746 of title 28, United States Code, knowingly subscribes as true, any false statement with respect to a material fact in any application, affidavit, or other document required by the immigration laws or regulations prescribed thereunder, or knowingly presents any such application, affidavit, or other document which contains any such false statement or which fails to contain any reasonable basis in law or fact—
 
-Shall be fined under this title or imprisoned not more than 10 years, or both.
+Shall be fined under this title or imprisoned not more than 25 years (if the offense was committed to facilitate an act of international terrorism (as defined in section 2331 of this title)), 20 years (if the offense was committed to facilitate a drug trafficking crime (as defined in section 929(a) of this title)), 10 years (in the case of the first or second such offense, if the offense was not committed to facility <sup>1</sup> such an act of international terrorism or a drug trafficking crime), or 15 years (in the case of any other offense), or both.
 
 (b) Whoever uses—
 
@@ -20,9 +20,9 @@ Shall be fined under this title or imprisoned not more than 10 years, or both.
 
 > for the purpose of satisfying a requirement of section 274A(b) of the Immigration and Nationality Act, shall be fined under this title, imprisoned not more than 5 years, or both.
 
-(c) This section does not prohibit any lawfully authorized investigative, protective, or intelligence activity of a law enforcement agency of the United States, a State, or a subdivision of a State, or of an intelligence agency of the United States, or any activity authorized under title V of the Organized Crime Control Act of 1970 (18 U.S.C. note prec. 3481).<sup>1</sup>
+(c) This section does not prohibit any lawfully authorized investigative, protective, or intelligence activity of a law enforcement agency of the United States, a State, or a subdivision of a State, or of an intelligence agency of the United States, or any activity authorized under title V of the Organized Crime Control Act of 1970 (18 U.S.C. note prec. 3481).<sup>2</sup> For purposes of this section, the term “State” means a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
 
-(June 25, 1948, ch. 645, 62 Stat. 771; June 27, 1952, ch. 477, title IV, §402(a), 66 Stat. 275; Oct. 18, 1976, Pub. L. 94–550, §5, 90 Stat. 2535; Nov. 6, 1986, Pub. L. 99–603, title I, §103(a), 100 Stat. 3380; Oct. 24, 1988, Pub. L. 100–525, §2(c), 102 Stat. 2610; Nov. 29, 1990, Pub. L. 101–647, title XXXV, §3550, 104 Stat. 4926; Sept. 13, 1994, Pub. L. 103–322, title XIII, §130009(a)(4), (5), title XXXIII, §330011(p), 108 Stat. 2030, 2145.)
+(June 25, 1948, ch. 645, 62 Stat. 771; June 27, 1952, ch. 477, title IV, §402(a), 66 Stat. 275; Oct. 18, 1976, Pub. L. 94–550, §5, 90 Stat. 2535; Nov. 6, 1986, Pub. L. 99–603, title I, §103(a), 100 Stat. 3380; Oct. 24, 1988, Pub. L. 100–525, §2(c), 102 Stat. 2610; Nov. 29, 1990, Pub. L. 101–647, title XXXV, §3550, 104 Stat. 4926; Sept. 13, 1994, Pub. L. 103–322, title XIII, §130009(a)(4), (5), title XXXIII, §330011(p), 108 Stat. 2030, 2145; Sept. 30, 1996, Pub. L. 104–208, div. C, title II, §§211(a)(2), 214, 110 Stat. 3009–569, 3009–572; Oct. 11, 1996, Pub. L. 104–294, title VI, §607(m), 110 Stat. 3512.)
 
 #### Historical and Revision Notes
 
@@ -40,9 +40,13 @@ The immigration laws, referred to in subsec. (a), are classified generally to ch
 
 Section 274A(b) of the Immigration and Nationality Act, referred to in subsec. (b), is classified to section 1324a(b) of Title 8.
 
-Title V of the Organized Crime Control Act of 1970, referred to in subsec. (c), is title V of Pub. L. 91–452, Oct. 15, 1970, 84 Stat. 933, which was set out as a note preceding section 3481 of this title, and was repealed by Pub. L. 98–473, title II, §1209(b), Oct. 12, 1984, 98 Stat. 2163. See section 3521 et seq. of this title.
+Title V of the Organized Crime Control Act of 1970, referred to in subsec. (c), is title V of Pub. L. 91–452,Oct. 15, 1970, 84 Stat. 933, which was set out as a note preceding section 3481 of this title, and was repealed by Pub. L. 98–473, title II, §1209(b), Oct. 12, 1984, 98 Stat. 2163. See section 3521 et seq. of this title.
 
 #### Amendments
+
+1996—Subsec. (a). Pub. L. 104–208 substituted “which contains any such false statement or which fails to contain any reasonable basis in law or fact” for “containing any such false statement” in fourth par. and “imprisoned not more than 25 years (if the offense was committed to facilitate an act of international terrorism (as defined in section 2331 of this title)), 20 years (if the offense was committed to facilitate a drug trafficking crime (as defined in section 929(a) of this title)), 10 years (in the case of the first or second such offense, if the offense was not committed to facility such an act of international terrorism or a drug trafficking crime), or 15 years (in the case of any other offense)” for “imprisoned not more than 10 years” in concluding par.
+
+Subsec. (c). Pub. L. 104–294 inserted at end “For purposes of this section, the term ‘State’ means a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States.”
 
 1994—Subsec. (a). Pub. L. 103–322, §330011(p), amended directory language of Pub. L. 101–647, §3550. See 1990 Amendment note below.
 
@@ -59,6 +63,10 @@ Subsec. (b). Pub. L. 103–322, §130009(a)(5), in concluding provisions, substi
 1976—Pub. L. 94–550 inserted “, or as permitted under penalty of perjury under section 1746 of title 28, United States Code, knowingly subscribes as true,” after “Whoever knowingly makes under oath” in fourth par.
 
 1952—Act June 27, 1952, made section applicable to entry documents other than visas and permits.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by section 211(a)(2) of Pub. L. 104–208 applicable with respect to offenses occurring on or after Sept. 30, 1996, see section 211(c) of Pub. L. 104–208, set out as a note under section 1028 of this title.
 
 #### Effective Date of 1994 Amendment
 
@@ -82,7 +90,9 @@ Immigration visas and permits, see section 1201 et seq. of Title 8, Aliens and N
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 14 of this title; title 8 sections 1101, 1251, 1324a.
+This section is referred to in sections 14, 982, 1961, 2516 of this title; title 8 sections 1101, 1227, 1324a.
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be “facilitate”.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

@@ -36,7 +36,7 @@ For the purposes of this section, the term “health assessments” shall includ
 
 #### (g) Cost recovery
 
-In any case in which a health assessment performed under this section discloses the exposure of a population to the release of a hazardous substance, the costs of such health assessment may be recovered as a cost of response under section 9607 of this title from persons causing or contributing to such release of such hazardous substance or, in the case of multiple releases contributing to such exposure, to all such release.
+In any case in which a health assessment performed under this section discloses the exposure of a population to the release of a hazardous substance, the costs of such health assessmentmay be recovered as a cost of response under section 9607 of this title from persons causing or contributing to such release of such hazardous substance or, in the case of multiple releases contributing to such exposure, to all such release.
 
 (Pub. L. 89–272, title II, §3019, as added Pub. L. 98–616, title II, §247(a), Nov. 8, 1984, 98 Stat. 3265.)
 

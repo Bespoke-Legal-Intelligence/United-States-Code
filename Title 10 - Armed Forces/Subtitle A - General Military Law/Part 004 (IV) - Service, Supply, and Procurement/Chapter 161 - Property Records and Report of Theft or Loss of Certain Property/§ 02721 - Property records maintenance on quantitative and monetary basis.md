@@ -26,6 +26,8 @@ Historical and Revision Notes
 
 2701(a)
 
+&nbsp;
+
 2701(b)
 
 5:172i (less last sentence).
@@ -49,6 +51,20 @@ Pub. L. 102–190, §347(b), designated existing provisions as subsec. (a) and a
 #### Implementation of 1991 Amendment
 
 Section 347(c) of Pub. L. 102–190 provided that: “The Secretary of Defense shall establish the uniform system of valuation described in section 2458(a)(3) of title 10, United States Code (as added by subsection (a)), and prescribe the regulations required by section 2721(b) of such title (as added by subsection (b)), not later than 180 days after the date of the enactment of this Act \[Dec. 5, 1991\].”
+
+#### Inventory Investigations
+
+Section 343 of Pub. L. 100–456 provided that:
+
+“(a)
+
+Undercover Investigations.—(1) Congress finds that the use of undercover investigative techniques by the Department of Defense enhances the ability of the Department of Defense to detect and investigate theft of Government property (including munitions) from the Department of Defense supply system.
+
+“(2) The Secretary of Defense is urged to continue to conduct undercover investigations to detect and investigate thefts referred to in paragraph (1).
+
+“(b)
+
+Inventory Security Incident Repository.—The Secretary of Defense shall establish and maintain a centralized computer system for recording and organizing information on theft, fraud, and breach of security and incidents involving the loss of Department of Defense supplies (including munitions).”
 
 #### Cross References
 

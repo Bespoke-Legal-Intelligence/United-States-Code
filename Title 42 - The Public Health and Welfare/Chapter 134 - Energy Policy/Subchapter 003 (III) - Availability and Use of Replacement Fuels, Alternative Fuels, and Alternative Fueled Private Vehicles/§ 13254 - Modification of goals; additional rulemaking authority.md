@@ -2,11 +2,11 @@
 
 #### (a) Examination of goals
 
-Within 3 years after October 24, 1992, and periodically thereafter, the Secretary shall examine the goals established under section 13252(b)(2) of this title, in the context of the program goals stated under section 13252(a) of this title, to determine if the goals under section 13252(b)(2) of this title, including the applicable percentage requirements and dates, should be modified under this section. The Secretary shall publishin the Federal Register the results of each examination under this subsection and provide an opportunity for public comment.
+Within 3 years after October 24, 1992, and periodically thereafter, the Secretary shall examine the goals established under section 13252(b)(2) of this title, in the context of the program goals stated under section 13252(a) of this title, to determine if the goals under section 13252(b)(2) of this title, including the applicable percentage requirements and dates, should be modified under this section. The Secretary shall publish in the Federal Register the results of each examination under this subsection and provide an opportunity for public comment.
 
 #### (b) Modification of goals
 
-If, after analysis of information obtained in connection with carrying out subsection (a) of this section or section 13252 of this title, or other information, and taking into account the determination of technical and economic feasibility made under section 13252(b)(2) of this title, the Secretary determines that goals described in section 13252(b)(2) of this title, including the percentage requirements or dates, are not achievable, the Secretary, in consultation with appropriate Federal agencies, shall, by rule, establish goals that are achievable, for purposes of this subchapter. The modification of goals under this section may include changing the target dates specified in section 13252(b)(2) of this title.
+If, after analysis of information obtained in connection with carrying out subsection (a) ofthis section or section 13252 of this title, or other information, and taking into account the determination of technical and economic feasibility made under section 13252(b)(2) of this title, the Secretary determines that goals described in section 13252(b)(2) of this title, including the percentage requirements or dates, are not achievable, the Secretary, in consultation with appropriate Federal agencies, shall, by rule, establish goals that are achievable, for purposes of this subchapter. The modification of goals under this section may include changing the target dates specified in section 13252(b)(2) of this title.
 
 #### (c) Additional rulemaking authority
 

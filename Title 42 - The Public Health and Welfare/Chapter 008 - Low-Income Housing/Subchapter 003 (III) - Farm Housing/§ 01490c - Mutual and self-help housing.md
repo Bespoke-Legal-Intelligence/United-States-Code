@@ -14,7 +14,7 @@ In order to carry out the purposes of this section, the Secretary of Agriculture
 
 &emsp;(2) to make grants to, or contract with, national or regional private nonprofit corporations to provide training and technical assistance to public or private nonprofit corporations, agencies, institutions, organizations, and other associations, including Indian tribes, eligible to receive assistance under this section in order to expand the use of authorities contained in this section and to improve performance; and
 
-&emsp;(3) to make loans, on such terms and conditions and in such amounts as he deems necessary, to needy low-income individuals participating in programs of mutual or self-help housing approved by him, for the acquisition and development of land and for the purchase of such other building materials as may be necessary in order to enable them, by providing substantially all of their own labor, and bycooperating with others participating in such programs, to carry out to completion the construction of decent, safe, and sanitary dwellings for such individuals and their families, subject to the following limitations:
+&emsp;(3) to make loans, on such terms and conditions and in such amounts as he deems necessary, to needy low-income individuals participating in programs of mutual or self-help housing approved by him, for the acquisition and development of land and for the purchase of such other building materials as may be necessary in order to enable them, by providing substantially all of their own labor, and by cooperating with others participating in such programs, to carry out to completion the construction of decent, safe, and sanitary dwellings for such individuals and their families, subject to the following limitations:
 
 &emsp;&emsp;(A) there is reasonable assurance of repayment of the loan;
 
@@ -150,5 +150,5 @@ Amendment by Pub. L. 97–35 effective Oct. 1, 1981, see section 371 of Pub. L. 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1437bb, 1483, 12805 of this title.
+This section is referred to in sections 1483, 12805 of this title; title 7 section 2204f.
 

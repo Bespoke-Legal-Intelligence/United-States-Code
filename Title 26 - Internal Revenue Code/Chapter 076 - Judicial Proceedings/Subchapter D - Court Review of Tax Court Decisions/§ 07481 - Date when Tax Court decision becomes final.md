@@ -68,7 +68,7 @@ Notwithstanding subsection (a), if—
 
 &emsp;(3) within 1 year after the date the decision of the Tax Court becomes final under subsection (a), the taxpayer files a petition in the Tax Court for a determination that the amount of interest claimed by the Secretary exceeds the amount of interest imposed by this title,
 
-> then the Tax Court may reopen the case solely to determine whether the taxpayer has made an overpayment of such interest and the amount of any such overpayment. If the Tax Court determines under this subsection that the taxpayer has made an overpayment of interest, then that determination shall be treated under section 6512(b)(1) as a determination of an overpayment of tax. An order of the Tax Court redetermining the interest due, when entered upon the records of the court, shall be reviewable in the same manner as a decision of the Tax Court.
+> then the Tax Court may reopen the case solely to determine whether the taxpayer has made an overpayment of such interest and the amount of any such overpayment. If the Tax Court determines under this subsection that the taxpayer has made an overpayment of interest, then thatdetermination shall be treated under section 6512(b)(1) as a determination of an overpayment of tax. An order of the Tax Court redetermining the interest due, when entered upon the records of the court, shall be reviewable in the same manner as a decision of the Tax Court.
 
 #### (d) Decisions relating to estate tax extended under section 6166
 

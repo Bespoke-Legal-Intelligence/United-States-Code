@@ -6,15 +6,35 @@
 
 (2) Each adult member of a household shall be jointly and severally liable for the value of any overissuance of coupons.
 
-#### (b) Reduction of allotment; cash payments; collection by State agencies
+#### (b) Collection of overissuances
 
-(1)(A) In the case of any ineligibility determination under section 2015(b) of this title, the household of which such ineligible individual is a member is required to agree to a reduction in the allotment of the household of which such individual is a member, or payment in cash, in accordance with a schedule determined by the Secretary, that will be sufficient to reimburse the Federal Government for the value of any overissuance of coupons resulting from the activity that was the basis of the ineligibility determination. If a household refuses to make an election on the date of receipt (or, if the date of receipt is not a business day, on the next business day) of a demand for an election, or elects to make a payment in cash under the provisions of the preceding sentence and fails to do so, the household shall be subject to an allotment reduction.
+#### (1) In general
 
-(B) State agencies shall collect any claim against a household arising from the overissuance of coupons based on an ineligibility determination under section 2015(b) of this title, other than claims collected pursuant to subparagraph (A), by using other means of collection, unless the State agency demonstrates to the satisfaction of the Secretary that such other means are not cost effective.
+&emsp;Except as otherwise provided in this subsection, a State agency shall collect any overissuance of coupons issued to a household by—
 
-(2)(A) State agencies shall collect any claim against a household arising from the overissuance of coupons, other than claims the collection of which is provided for in paragraph (1) of this subsection and claims arising from an error of the State agency, by reducing the monthly allotments of the household, except that the household shall be given notice permitting it to elect another means of repayment and given 10 days to make such an election before the State agency commences action to reduce the household's monthly allotment. These collections shall be limited to 10 per centum of the monthly allotment (or $10 per month, whenever that would result in a faster collection rate).
+&emsp;&emsp;(A) reducing the allotment of the household;
 
-(B) State agencies may collect any claim against a household arising from the overissuance of coupons, other than claims collected pursuant to paragraph (1) or subparagraph (A), by using other means of collection.
+&emsp;&emsp;(B) withholding amounts from unemployment compensation from a member of the household under subsection (c) of this section;
+
+&emsp;&emsp;(C) recovering from Federal pay or a Federal income tax refund under subsection (d) of this section; or
+
+&emsp;&emsp;(D) any other means.
+
+#### (2) Cost effectiveness
+
+&emsp;Paragraph (1) shall not apply if the State agency demonstrates to the satisfaction of the Secretary that all of the means referred to in paragraph (1) are not cost effective.
+
+#### (3) Maximum reduction absent fraud
+
+&emsp;If a household received an overissuance of coupons without any member of the household being found ineligible to participate in the program under section 2015(b)(1) of this title and a State agency elects to reduce the allotment of the household under paragraph (1)(A), the State agency shall not reduce the monthly allotment of the household under paragraph (1)(A) by an amount in excess of the greater of—
+
+&emsp;&emsp;(A) 10 percent of the monthly allotment of the household; or
+
+&emsp;&emsp;(B) $10.
+
+#### (4) Procedures
+
+&emsp;A State agency shall collect an overissuance of coupons issued to a household under paragraph (1) in accordance with the requirements established by the State agency for providing notice, electing a means of payment, and establishing a time schedule for payment.
 
 #### (c) Food stamp intercept of unemployment benefits
 
@@ -34,11 +54,15 @@
 
 #### (d) Recovery of overissuance of coupons
 
-The amount of an overissuance of coupons as determined under subsection (b) of this section and except for claims arising from an error of the State agency, that has not been recovered pursuant to such subsection may be recovered from Federal pay (including salaries and pensions) as authorized by section 5514 of title 5.
+The amount of an overissuance of coupons, as determined under subsection (b)(1) of this section, that has not been recovered pursuant to such subsection may be recovered from Federal pay (including salaries and pensions) as authorized by section 5514 of title 5 or a Federal income tax refund as authorized by section 3720A of title 31.
 
-(Pub. L. 88–525, §13, Aug. 31, 1964, 78 Stat. 707; Pub. L. 95–113, title XIII, §1301, Sept. 29, 1977, 91 Stat. 974; Pub. L. 97–35, title I, §113, Aug. 13, 1981, 95 Stat. 363; Pub. L. 97–253, title I, §§177, 178, Sept. 8, 1982, 96 Stat. 781, 782; Pub. L. 99–198, title XV, §§1533–1535(a), Dec. 23, 1985, 99 Stat. 1583; Pub. L. 100–435, title VI, §§601, 602, Sept. 19, 1988, 102 Stat. 1674; Pub. L. 101–624, title XVII, §1746, Nov. 28, 1990, 104 Stat. 3796; Pub. L. 102–237, title IX, §911, Dec. 13, 1991, 105 Stat. 1887; Pub. L. 103–66, title XIII, §§13941(b), 13951(a), Aug. 10, 1993, 107 Stat. 676, 677.)
+(Pub. L. 88–525, §13, Aug. 31, 1964, 78 Stat. 707; Pub. L. 95–113, title XIII, §1301, Sept. 29, 1977, 91 Stat. 974; Pub. L. 97–35, title I, §113, Aug. 13, 1981, 95 Stat. 363; Pub. L. 97–253, title I, §§177, 178, Sept. 8, 1982, 96 Stat. 781, 782; Pub. L. 99–198, title XV, §§1533–1535(a), Dec. 23, 1985, 99 Stat. 1583; Pub. L. 100–435, title VI, §§601, 602, Sept. 19, 1988, 102 Stat. 1674; Pub. L. 101–624, title XVII, §1746, Nov. 28, 1990, 104 Stat. 3796; Pub. L. 102–237, title IX, §911, Dec. 13, 1991, 105 Stat. 1887; Pub. L. 103–66, title XIII, §§13941(b), 13951(a), Aug. 10,1993, 107 Stat. 676, 677; Pub. L. 104–193, title VIII, §844(a), Aug. 22, 1996, 110 Stat. 2332.)
 
 #### Amendments
+
+1996—Subsec. (b). Pub. L. 104–193, §844(a)(1), added subsec. (b) and struck out former subsec. (b) which provided for reduction of allotment for households with ineligible individuals and collection by State agencies of claims against households arising from overissuance of coupons.
+
+Subsec. (d). Pub. L. 104–193, §844(a)(2), substituted “, as determined under subsection (b)(1) of this section,” for “as determined under subsection (b) of this section and except for claims arising from an error of the State agency,” and inserted before period at end “or a Federal income tax refund as authorized by section 3720A of title 31”.
 
 1993—Subsec. (a)(1). Pub. L. 103–66, §13951(a), in fifth sentence, struck out “(after a determination on any request for a waiver for good cause related to the claim has been made by the Secretary)” after “30 days from the date on which the bill for collection” and in sixth sentence substituted “1 year” for “2 years”.
 

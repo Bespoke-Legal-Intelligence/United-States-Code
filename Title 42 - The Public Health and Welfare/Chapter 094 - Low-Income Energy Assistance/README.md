@@ -39,7 +39,7 @@
 | (i) | Certain recipients of supplemental security income ineligible for payments or assistance. |
 | (j) | State verification of income eligibility; policies and procedures applicable. |
 | (k) | Limitation on use of funds; waiver. |
-| (<i>l)</i> | State tax credits to energy suppliers who supply home energy at reduced rates to low-income households. |
+| (<i>l</i>) | State tax credits to energy suppliers who supply home energy at reduced rates to low-income households. |
 | 8625\. | Nondiscrimination provisions. |
 | (a) | Prohibitions. |
 | (b) | Procedures applicable to secure compliance. |

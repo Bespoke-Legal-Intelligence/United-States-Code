@@ -16,7 +16,7 @@ A prior section 5.29 of Pub. L. 92–181 was renumbered section 5.43 and is set 
 
 Subsec. (b). Pub. L. 100–233 struck out “may” before “threaten to impair public confidence”.
 
-Pub. L. 100–233, §805(bb)(2), substituted “of the institution's shareholders or the investors in Farm CreditSystem obligations or may threaten to impair public confidence in the institution or the Farm Credit System” for “in Farm Credit System obligations”.
+Pub. L. 100–233, §805(bb)(2), substituted “of the institution's shareholders or the investors in Farm Credit System obligations or may threaten to impair public confidence in the institution or the Farm Credit System” for “in Farm Credit System obligations”.
 
 #### Effective Date of 1988 Amendment
 

@@ -37,6 +37,7 @@
 | [142i.](%C2%A7%2000142i%20-%20United%20States%20Capitol%20Preservation%20Commission%3B%20provision%20of%20financial%20management%20services%20and%20support%20by%20Library%20of%20Congress.md) | United States Capitol Preservation Commission; provision of financial management services and support by Library of Congress. |
 | [142j.](%C2%A7%2000142j%20-%20John%20C.%20Stennis%20Center%20for%20Public%20Service%20Training%20and%20Development%3B%20disbursement%20of%20funds%2C%20computation%20and%20disbursement%20of%20basic%20pay%2C%20and%E2%80%A6.md) | John C. Stennis Center for Public Service Training and Development; disbursement of funds, computation and disbursement of basic pay, and provision of financial management services and support by Library of Congress; payment for services. |
 | [142k.](%C2%A7%2000142k%20-%20Library%20of%20Congress%20disbursing%20office%3B%20payroll%20processing%20functions.md) | Library of Congress disbursing office; payroll processing functions. |
+| 142<i>l.</i> | Disbursing Officer of Library of Congress; disbursements for Office of Compliance; voucher certifications, accountability and relief by Comptroller General. |
 | [143\.](%C2%A7%2000143%20-%20Appropriations%20for%20Library%20Building%20and%20Grounds.md) | Appropriations for Library Building and Grounds. |
 | [143a.](%C2%A7%2000143a%20-%20Disbursement%20of%20funds.md) | Disbursement of funds. |
 | [143b.](%C2%A7%2000143b%20-%20Payments%20in%20advance%20for%20subscriptions%20or%20other%20charges.md) | Payments in advance for subscriptions or other charges. |
@@ -108,49 +109,48 @@
 | (a) | Recognition. |
 | (b) | Position established. |
 | (c) | Poetry program. |
-| 178 to 178<i>l</i>. Repealed. |  |
-| [179\.](%C2%A7%2000179%20-%20National%20Film%20Registry%20of%20Library%20of%20Congress.md) | National Film Registry of Library of Congress. |
-| [179a.](%C2%A7%2000179a%20-%20Duties%20of%20Librarian%20of%20Congress.md) | Duties of Librarian of Congress. |
-| (a) | Study of film preservation. |
-| (b) | Powers. |
-| (c) | Seal. |
-| (d) | Development of standards. |
-| [179b.](%C2%A7%2000179b%20-%20National%20Film%20Preservation%20Board.md) | National Film Preservation Board. |
+| 178 to 179k. Repealed. |  |
+| 179<i>l.</i> | National Film Registry of Library of Congress. |
+| [179m.](%C2%A7%2000179m%20-%20Duties%20of%20Librarian%20of%20Congress.md) | Duties of Librarian of Congress. |
+| (a) | Powers. |
+| (b) | Use of seal. |
+| [179n.](%C2%A7%2000179n%20-%20National%20Film%20Preservation%20Board.md) | National Film Preservation Board. |
 | (a) | Number and appointment. |
-| (b) | Chairperson. |
+| (b) | Chair. |
 | (c) | Term of office. |
 | (d) | Quorum. |
-| (e) | Basic pay. |
+| (e) | Reimbursement of expenses. |
 | (f) | Meetings. |
 | (g) | Conflict of interest. |
-| [179c.](%C2%A7%2000179c%20-%20Responsibilities%20and%20powers%20of%20Board.md) | Responsibilities and powers of Board. |
+| 179<i>o.</i> | Responsibilities and powers of Board. |
 | (a) | In general. |
 | (b) | Nomination of films. |
-| (c) | General powers. |
-| [179d.](%C2%A7%2000179d%20-%20National%20Film%20Registry%20Collection%20of%20the%20Library%20of%20Congress.md) | National Film Registry Collection of the Library of Congress. |
+| (c) | Powers. |
+| [179p.](%C2%A7%2000179p%20-%20National%20Film%20Registry%20Collection%20of%20Library%20of%20Congress.md) | National Film Registry Collection of Library of Congress. |
 | (a) | Acquisition of archival quality copies. |
 | (b) | Additional materials. |
 | (c) | Property of United States. |
 | (d) | National Film Registry Collection. |
-| [179e.](%C2%A7%2000179e%20-%20Seal%20of%20National%20Film%20Registry.md) | Seal of National Film Registry. |
+| [179q.](%C2%A7%2000179q%20-%20Seal%20of%20National%20Film%20Registry.md) | Seal of National Film Registry. |
 | (a) | Use of seal. |
 | (b) | Effective date of seal. |
-| [179f.](%C2%A7%2000179f%20-%20Remedies.md) | Remedies. |
+| [179r.](%C2%A7%2000179r%20-%20Remedies.md) | Remedies. |
 | (a) | Jurisdiction. |
 | (b) | Relief. |
-| [179g.](%C2%A7%2000179g%20-%20Limitations%20of%20remedies.md) | Limitations of remedies. |
-| [179h.](%C2%A7%2000179h%20-%20Staff%20of%20Board%3B%20experts%20and%20consultants.md) | Staff of Board; experts and consultants. |
+| [179s.](%C2%A7%2000179s%20-%20Limitations%20of%20remedies.md) | Limitations of remedies. |
+| [179t.](%C2%A7%2000179t%20-%20Staff%20of%20Board%3B%20experts%20and%20consultants.md) | Staff of Board; experts and consultants. |
 | (a) | Staff. |
 | (b) | Experts and consultants. |
-| [179i.](%C2%A7%2000179i%20-%20Definitions.md) | Definitions. |
-| [179j.](%C2%A7%2000179j%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
-| [179k.](%C2%A7%2000179k%20-%20Effective%20date.md) | Effective date. |
+| [179u.](%C2%A7%2000179u%20-%20Definitions.md) | Definitions. |
+| [179v.](%C2%A7%2000179v%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+| [179w.](%C2%A7%2000179w%20-%20Effective%20date.md) | Effective date. |
 | [180\.](%C2%A7%2000180%20-%20Legislative%20information%20retrieval%20system.md) | Legislative information retrieval system. |
 | (a) | Purpose. |
 | (b) | “Legislative information” defined. |
 | (c) | Development of single system to serve entire Congress. |
 | (d) | Development and approval of plan. |
 | (e) | Availability of information to public. |
+| [181\.](%C2%A7%2000181%20-%20Program%20for%20exchange%20of%20information%20among%20legislative%20branch%20agencies.md) | Program for exchange of information among legislative branch agencies. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -194,6 +194,7 @@
 - [&sect; 00142i - United States Capitol Preservation Commission; provision of financial management services and support by Library of Congress](%C2%A7%2000142i%20-%20United%20States%20Capitol%20Preservation%20Commission%3B%20provision%20of%20financial%20management%20services%20and%20support%20by%20Library%20of%20Congress.md)
 - [&sect; 00142j - John C. Stennis Center for Public Service Training and Development; disbursement of funds, computation and disbursement of basic pay, and&#8230;](%C2%A7%2000142j%20-%20John%20C.%20Stennis%20Center%20for%20Public%20Service%20Training%20and%20Development%3B%20disbursement%20of%20funds%2C%20computation%20and%20disbursement%20of%20basic%20pay%2C%20and%E2%80%A6.md)
 - [&sect; 00142k - Library of Congress disbursing office; payroll processing functions](%C2%A7%2000142k%20-%20Library%20of%20Congress%20disbursing%20office%3B%20payroll%20processing%20functions.md)
+- [&sect; 00142l - Disbursing Officer of Library of Congress; disbursements for Office of Compliance; voucher certifications, accountability and relief by&#8230;](%C2%A7%2000142l%20-%20Disbursing%20Officer%20of%20Library%20of%20Congress%3B%20disbursements%20for%20Office%20of%20Compliance%3B%20voucher%20certifications%2C%20accountability%20and%20relief%20by%E2%80%A6.md)
 - [&sect; 00143 - Appropriations for Library Building and Grounds](%C2%A7%2000143%20-%20Appropriations%20for%20Library%20Building%20and%20Grounds.md)
 - [&sect; 00143a - Disbursement of funds](%C2%A7%2000143a%20-%20Disbursement%20of%20funds.md)
 - [&sect; 00143b - Payments in advance for subscriptions or other charges](%C2%A7%2000143b%20-%20Payments%20in%20advance%20for%20subscriptions%20or%20other%20charges.md)
@@ -250,16 +251,18 @@
 - [&sect; 00176 - Mass Book Deacidification Facility; operation by Librarian of Congress](%C2%A7%2000176%20-%20Mass%20Book%20Deacidification%20Facility%3B%20operation%20by%20Librarian%20of%20Congress.md)
 - [&sect; 00177 - Poet Laureate Consultant in Poetry](%C2%A7%2000177%20-%20Poet%20Laureate%20Consultant%20in%20Poetry.md)
 - [&sect; 00178 to 178l - Repealed. Pub. L. 102&#8211;307, title II, &sect;214, June 26, 1992, 106 Stat. 272](%C2%A7%2000178%20to%20178l%20-%20Repealed.%20Pub.%20L.%20102%E2%80%93307%2C%20title%20II%2C%20%C2%A7214%2C%20June%2026%2C%201992%2C%20106%20Stat.%20272.md)
-- [&sect; 00179 - National Film Registry of Library of Congress](%C2%A7%2000179%20-%20National%20Film%20Registry%20of%20Library%20of%20Congress.md)
-- [&sect; 00179a - Duties of Librarian of Congress](%C2%A7%2000179a%20-%20Duties%20of%20Librarian%20of%20Congress.md)
-- [&sect; 00179b - National Film Preservation Board](%C2%A7%2000179b%20-%20National%20Film%20Preservation%20Board.md)
-- [&sect; 00179c - Responsibilities and powers of Board](%C2%A7%2000179c%20-%20Responsibilities%20and%20powers%20of%20Board.md)
-- [&sect; 00179d - National Film Registry Collection of the Library of Congress](%C2%A7%2000179d%20-%20National%20Film%20Registry%20Collection%20of%20the%20Library%20of%20Congress.md)
-- [&sect; 00179e - Seal of National Film Registry](%C2%A7%2000179e%20-%20Seal%20of%20National%20Film%20Registry.md)
-- [&sect; 00179f - Remedies](%C2%A7%2000179f%20-%20Remedies.md)
-- [&sect; 00179g - Limitations of remedies](%C2%A7%2000179g%20-%20Limitations%20of%20remedies.md)
-- [&sect; 00179h - Staff of Board; experts and consultants](%C2%A7%2000179h%20-%20Staff%20of%20Board%3B%20experts%20and%20consultants.md)
-- [&sect; 00179i - Definitions](%C2%A7%2000179i%20-%20Definitions.md)
-- [&sect; 00179j - Authorization of appropriations](%C2%A7%2000179j%20-%20Authorization%20of%20appropriations.md)
-- [&sect; 00179k - Effective date](%C2%A7%2000179k%20-%20Effective%20date.md)
+- [&sect; 00179 to 179k - Repealed. Pub. L. 104&#8211;285, title I, &sect;114, Oct. 11, 1996, 110 Stat. 3382](%C2%A7%2000179%20to%20179k%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93285%2C%20title%20I%2C%20%C2%A7114%2C%20Oct.%2011%2C%201996%2C%20110%20Stat.%203382.md)
+- [&sect; 00179l - National Film Registry of Library of Congress](%C2%A7%2000179l%20-%20National%20Film%20Registry%20of%20Library%20of%20Congress.md)
+- [&sect; 00179m - Duties of Librarian of Congress](%C2%A7%2000179m%20-%20Duties%20of%20Librarian%20of%20Congress.md)
+- [&sect; 00179n - National Film Preservation Board](%C2%A7%2000179n%20-%20National%20Film%20Preservation%20Board.md)
+- [&sect; 00179o - Responsibilities and powers of Board](%C2%A7%2000179o%20-%20Responsibilities%20and%20powers%20of%20Board.md)
+- [&sect; 00179p - National Film Registry Collection of Library of Congress](%C2%A7%2000179p%20-%20National%20Film%20Registry%20Collection%20of%20Library%20of%20Congress.md)
+- [&sect; 00179q - Seal of National Film Registry](%C2%A7%2000179q%20-%20Seal%20of%20National%20Film%20Registry.md)
+- [&sect; 00179r - Remedies](%C2%A7%2000179r%20-%20Remedies.md)
+- [&sect; 00179s - Limitations of remedies](%C2%A7%2000179s%20-%20Limitations%20of%20remedies.md)
+- [&sect; 00179t - Staff of Board; experts and consultants](%C2%A7%2000179t%20-%20Staff%20of%20Board%3B%20experts%20and%20consultants.md)
+- [&sect; 00179u - Definitions](%C2%A7%2000179u%20-%20Definitions.md)
+- [&sect; 00179v - Authorization of appropriations](%C2%A7%2000179v%20-%20Authorization%20of%20appropriations.md)
+- [&sect; 00179w - Effective date](%C2%A7%2000179w%20-%20Effective%20date.md)
 - [&sect; 00180 - Legislative information retrieval system](%C2%A7%2000180%20-%20Legislative%20information%20retrieval%20system.md)
+- [&sect; 00181 - Program for exchange of information among legislative branch agencies](%C2%A7%2000181%20-%20Program%20for%20exchange%20of%20information%20among%20legislative%20branch%20agencies.md)

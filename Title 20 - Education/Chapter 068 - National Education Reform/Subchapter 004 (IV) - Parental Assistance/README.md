@@ -4,8 +4,6 @@
 
 This subchapter is referred to in section 5802 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “Department of Education”.</i>
-
 
 ---
 

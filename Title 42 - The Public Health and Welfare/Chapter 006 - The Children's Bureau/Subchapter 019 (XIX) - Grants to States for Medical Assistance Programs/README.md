@@ -2,13 +2,7 @@
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in sections 233, 247b–1, 247b–5, 254b, 254c, 254e, 254h, 254n, 254t, 256, 256a, 256b, 263a, 280c–6, 280d, 290bb–1, 290ff, 290ff–1, 299a, 300e, 300e–6, 300<i>l</i>, 300<i>l</i>–1, 300x–3, 300x–24, 300z–5, 300aa–15, 300ff–14, 300ff–25, 300ff–42, 300ff–52, 602, 606, 652, 654, 671, 672, 673, 682, 701, 704, 705, 706, 709, 902, 904, 912, 1301, 1302, 1306, 1308, 1309, 1310, 1315, 1316, 1318, 1320a–1, 1320a–3, 1320a–5, 1320a–7, 1320a–7a, 1320a–7b, 1320b–2, 1320b–3, 1320b–4, 1320b–5, 1320b–7, 1320b–8, 1320b–14, 1320c–2, 1320c–10, 1382, 1382b, 1382g, 1382h, 1382i, 1383c, 1395b–1, 1395b–2, 1395b–4, 1395i–3, 1395u, 1395v, 1395w–1, 1395w–4, 1395x, 1395z, 1395cc, 1395mm, 1395ss, 1395tt, 1395vv, 1395ww, 1395bbb, 1397d, 1758, 1766, 1769, 1769h, 1786, 1997, 3012, 3013, 3026, 3035b, 3035<i>l</i>, 3058d, 3058e, 3058k, 6024, 8013, 8624, 10805, 11398, 11707 of this title; title 7 sections 2012, 2017, 2020, 3178; title 8 sections 1255a, 1522; title 10 sections 1079, 1095;title 12 sections 1715w, 1715z–7; title 20 sections 1413, 1481, 6082; title 24 section 170a; title 25 sections 1616m, 1642, 1643, 1644, 1645, 1680c; title 26 section 6103; title 29 sections 720, 1144, 1169, 1583, 2231; title 38 sections 1722, 1729, 5503, 7423, 8126.
-
-<i><sup>1</sup></i><i> So in original. Probably should be “individual's”.</i>
-
-<i><sup>2</sup></i><i> See References in Text note below.</i>
-
-<i><sup>3</sup></i><i> So in original. Probably should be “individuals”.</i>
+This subchapter is referred to in sections 233, 247b–1, 247b–5, 254b, 254e, 254h, 254n, 254t, 256b, 263a, 280c–6, 280d, 290bb–1, 290ff, 290ff–1, 299a, 300e, 300e–6, 300<i>l</i>, 300<i>l</i>–1, 300x–3, 300x–24, 300z–5, 300aa–15, 300ff–14, 300ff–25, 300ff–42, 300ff–52, 300gg, 300gg–41, 602, 608, 609, 611, 652, 654, 654a, 671, 672, 673, 701, 704, 705, 706, 709, 902, 904, 912, 1301, 1302, 1306, 1308, 1309, 1310, 1315, 1316, 1318, 1320a–1, 1320a–3, 1320a–5, 1320a–7, 1320a–7a, 1320a–7b, 1320a–7d, 1320b–2, 1320b–3, 1320b–4, 1320b–5, 1320b–7, 1320b–8, 1320c–2, 1320c–10, 1320d, 1382, 1382b, 1382g, 1382h, 1382i, 1383, 1383c, 1395b–1, 1395b–2, 1395b–4, 1395i, 1395i–3, 1395u, 1395v, 1395w–1, 1395w–4, 1395x, 1395z, 1395cc, 1395mm, 1395ss, 1395tt, 1395vv, 1395ww, 1395bbb, 1397d, 1758, 1766, 1769, 1769h, 1786, 1997, 3012, 3013, 3026, 3035b, 3035<i>l</i>, 3058d, 3058e, 3058k, 6024, 8013, 8624, 10805, 11398, 11707 of this title; title 7 sections 2012, 3178; title 8 sections 1255a, 1522, 1611, 1612, 1613; title 10 sections 1079, 1095; title 12 sections 1715w, 1715z–7; title 20 sections 1413, 1481, 6082; title 21 section 862a; title 24 section 170a; title 25 sections 1616m, 1642, 1643, 1644, 1645, 1680c; title 26 sections 6103, 9801; title 29 sections 720, 1144, 1169, 1181, 1583, 2231; title 38 sections 1722, 1729, 5503, 7423, 8126.
 
 
 ---
@@ -46,4 +40,5 @@ This subchapter is referred to in sections 233, 247b–1, 247b–5, 254b, 254c, 
 - [&sect; 01396s - Program for distribution of pediatric vaccines](%C2%A7%2001396s%20-%20Program%20for%20distribution%20of%20pediatric%20vaccines.md)
 - [&sect; 01396t - Home and community care for functionally disabled elderly individuals](%C2%A7%2001396t%20-%20Home%20and%20community%20care%20for%20functionally%20disabled%20elderly%20individuals.md)
 - [&sect; 01396u - Community supported living arrangements services](%C2%A7%2001396u%20-%20Community%20supported%20living%20arrangements%20services.md)
+- [&sect; 01396u&#8211;1 - Assuring coverage for certain low-income families](%C2%A7%2001396u%E2%80%931%20-%20Assuring%20coverage%20for%20certain%20low-income%20families.md)
 - [&sect; 01396v - References to laws directly affecting medicaid program](%C2%A7%2001396v%20-%20References%20to%20laws%20directly%20affecting%20medicaid%20program.md)

@@ -14,10 +14,13 @@
 | [2109\.](%C2%A7%2002109%20-%20Practical%20military%20training.md) | Practical military training. |
 | [2110\.](%C2%A7%2002110%20-%20Logistical%20support.md) | Logistical support. |
 | [2111\.](%C2%A7%2002111%20-%20Personnel%20administrators%20and%20instructors.md) | Personnel: administrators and instructors. |
+| [2111a.](%C2%A7%2002111a%20-%20Detail%20of%20officers%20to%20senior%20military%20colleges.md) | Detail of officers to senior military colleges. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1996—Pub. L. 104–106, div. A, title V, §545(b), Feb. 10, 1996, 110 Stat. 318, added item 2111a.
 
 1991—Pub. L. 102–190, div. A, title V, §522(b)(2), Dec. 5, 1991, 105 Stat. 1362, substituted “Army Reserve and Army National Guard” for “military junior colleges” in item 2107a.
 
@@ -48,3 +51,4 @@ This chapter is referred to in title 5 section 8140; title 37 section 209.
 - [&sect; 02109 - Practical military training](%C2%A7%2002109%20-%20Practical%20military%20training.md)
 - [&sect; 02110 - Logistical support](%C2%A7%2002110%20-%20Logistical%20support.md)
 - [&sect; 02111 - Personnel administrators and instructors](%C2%A7%2002111%20-%20Personnel%20administrators%20and%20instructors.md)
+- [&sect; 02111a - Detail of officers to senior military colleges](%C2%A7%2002111a%20-%20Detail%20of%20officers%20to%20senior%20military%20colleges.md)

@@ -6,7 +6,9 @@ When a proposed airport noise or access restriction is disapproved under this su
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

@@ -21,7 +21,7 @@
 | [217\.](%C2%A7%2000217%20-%20Acceptance%20of%20consideration%20for%20adjustment%20of%20farm%20indebtedness.md) | Acceptance of consideration for adjustment of farm indebtedness. |
 | [218\.](%C2%A7%2000218%20-%20Voiding%20transactions%20in%20violation%20of%20chapter%3B%20recovery%20by%20the%20United%20States.md) | Voiding transactions in violation of chapter; recovery by the United States. |
 | [219\.](%C2%A7%2000219%20-%20Officers%20and%20employees%20acting%20as%20agents%20of%20foreign%20principals.md) | Officers and employees acting as agents of foreign principals. |
-| \[220 to 222. Redesignated.\] |  |
+| \[220 to 222. Renumbered.\] |  |
 | \[223. | Repealed.\] |
 | [224\.](%C2%A7%2000224%20-%20Bribery%20in%20sporting%20contests.md) | Bribery in sporting contests. |
 | [225\.](%C2%A7%2000225%20-%20Continuing%20financial%20crimes%20enterprise.md) | Continuing financial crimes enterprise. |
@@ -52,7 +52,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in title 15 section 2625; title 22 section 3622; title 42 sections 280d–11, 9843a, 12651b, 12651g; title 48 section 1907; title 49 section 32306.
+This chapter is referred to in title 10 section 1588; title 15 section 2625; title 22 section 3622; title 42 sections 280d–11, 9843a, 12651b, 12651g; title 48 section 1907; title 49 section 32306.
 
 
 ---
@@ -78,7 +78,7 @@ This chapter is referred to in title 15 section 2625; title 22 section 3622; tit
 - [&sect; 00217 - Acceptance of consideration for adjustment of farm indebtedness](%C2%A7%2000217%20-%20Acceptance%20of%20consideration%20for%20adjustment%20of%20farm%20indebtedness.md)
 - [&sect; 00218 - Voiding transactions in violation of chapter; recovery by the United States](%C2%A7%2000218%20-%20Voiding%20transactions%20in%20violation%20of%20chapter%3B%20recovery%20by%20the%20United%20States.md)
 - [&sect; 00219 - Officers and employees acting as agents of foreign principals](%C2%A7%2000219%20-%20Officers%20and%20employees%20acting%20as%20agents%20of%20foreign%20principals.md)
-- [&sect; 00220 to 222 - Redesignated](%C2%A7%2000220%20to%20222%20-%20Redesignated.md)
+- [&sect; 00220 to 222 - Renumbered &sect;&sect;215 to 217](%C2%A7%2000220%20to%20222%20-%20Renumbered%20%C2%A7%C2%A7215%20to%20217.md)
 - [&sect; 00223 - Repealed. Pub. L. 87&#8211;849, &sect;1(c), Oct. 23, 1962, 76 Stat. 1125](%C2%A7%2000223%20-%20Repealed.%20Pub.%20L.%2087%E2%80%93849%2C%20%C2%A71%28c%29%2C%20Oct.%2023%2C%201962%2C%2076%20Stat.%201125.md)
 - [&sect; 00224 - Bribery in sporting contests](%C2%A7%2000224%20-%20Bribery%20in%20sporting%20contests.md)
 - [&sect; 00225 - Continuing financial crimes enterprise](%C2%A7%2000225%20-%20Continuing%20financial%20crimes%20enterprise.md)

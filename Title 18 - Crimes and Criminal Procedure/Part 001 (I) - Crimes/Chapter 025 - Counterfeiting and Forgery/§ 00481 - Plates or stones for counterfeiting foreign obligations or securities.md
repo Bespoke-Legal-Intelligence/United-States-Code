@@ -1,4 +1,4 @@
-### §481 . Plates or stones for counterfeiting foreign obligations or securities
+### §481. Plates or stones for counterfeiting foreign obligations or securities
 
 Whoever, within the United States except by lawful authority, controls, holds, or possesses any plate, stone, or other thing, or any part thereof, from which has been printed or may be printed any counterfeit note, bond, obligation, or other security, in whole or in part, of any foreign government, bank, or corporation, or uses such plate, stone, or other thing, or knowingly permits or suffers the same to be used in counterfeiting such foreign obligations, or any part thereof; or
 

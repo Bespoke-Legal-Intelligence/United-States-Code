@@ -1,4 +1,4 @@
-### §876 . Mailing threatening communications
+### §876. Mailing threatening communications
 
 Whoever knowingly deposits in any post office or authorized depository for mail matter, to be sent or delivered by the Postal Service or knowingly causes to be delivered by the Postal Service according to the direction thereon, any communication, with or without a name or designating mark subscribed thereto, addressed to any other person, and containing any demand or request for ransom or reward for the release of any kidnapped person, shall be fined under this title or imprisoned not more than twenty years, or both.
 

@@ -2,5 +2,5 @@
 
 There are hereby authorized to be appropriated such sums as may be necessary to carry out the provisions of this chapter.
 
-(Mar. 4, 1907, ch. 2907, title IV, §410, as added Dec. 15, 1967, Pub. L. 90–201, §16, 81 Stat. 600.)
+(Mar. 4, 1907, ch. 2907, title IV, §411, formerly §410, as added Dec. 15, 1967, Pub. L. 90–201, §16, 81 Stat. 600; renumbered §411, Apr. 4, 1996, Pub. L. 104–127, title IX, §918(a)(1)(A), 110 Stat. 1188.)
 

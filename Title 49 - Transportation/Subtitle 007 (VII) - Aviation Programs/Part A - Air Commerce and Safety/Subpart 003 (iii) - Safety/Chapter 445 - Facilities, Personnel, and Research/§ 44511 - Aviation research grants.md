@@ -2,7 +2,7 @@
 
 (a)
 
-General Authority.—The Administrator of the Federal Aviation Administration may make grants to institutions of higher education and nonprofit research organizations to conduct aviation research in areas the Administratorconsiders necessary for the long-term growth of civil aviation.
+General Authority.—The Administrator of the Federal Aviation Administration may make grants to institutions of higher education and nonprofit research organizations to conduct aviation research in areas the Administrator considers necessary for the long-term growth of civil aviation.
 
 (b)
 
@@ -24,13 +24,15 @@ Records.—Each person receiving a grant under this section shall maintain recor
 
 (e)
 
-Annual Report.—The Administrator shall submit an annual report to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate on carrying out this section.
+Annual Report.—The Administrator shall submit an annual report to the Committee on Science of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate on carrying out this section.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1181.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1181; Pub. L. 104–287, §5(74), Oct. 11, 1996, 110 Stat. 3396.)
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -48,11 +50,11 @@ In subsection (c), the words “providing grants” are substituted for “the f
 
 In subsection (d), the words “money provided under the grant” are substituted for “grant funds” for consistency.
 
-#### Change of Name
+#### Amendments
 
-Committee on Science, Space, and Technology of House of Representatives treated as referring to Committee on Science of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+1996—Subsec. (e). Pub. L. 104–287 substituted “Committee on Science” for “Committee on Science, Space, and Technology”.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 106, 40119, 44501, 44508, 48102, 49103 of this title.
+This section is referred to in sections 106, 40119, 44501, 44508, 48102, 50103 of this title.
 

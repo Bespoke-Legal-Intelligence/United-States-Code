@@ -50,7 +50,7 @@ Actions not in the public interest.—The Board may investigate any action taken
 
 &emsp;(6)
 
-Effect of approval.—If the Board approves the agreement or renews approval ofthe agreement, it may be made and carried out under its terms and under the conditions required by the Board, and the antitrust laws, as defined in the first section of the Clayton Act (15 U.S.C. 12), do not apply to parties and other persons with respect to making or carrying out the agreement.
+Effect of approval.—If the Board approves the agreement or renews approval of the agreement, it may be made and carried out under its terms and under the conditions required by the Board, and the antitrust laws, as defined in the first section of the Clayton Act (15 U.S.C. 12), do not apply to parties and other persons with respect to making or carrying out the agreement.
 
 (b)
 
@@ -76,7 +76,7 @@ Expiration of Approvals; Renewals.—Subject to subsection (c), approval of an a
 
 (e)
 
-Existing Agreements.—Agreements approved under former section 10706(b) and in effect on the day before the effective date of this section shall be treated for purposes of this section as approved by the Board under this section beginning on such effective date.
+Existing Agreements.—Agreements approved under former section 10706(b) and in effect on December 31, 1995, shall be treated for purposes of this section as approved by the Board under this section beginning on January 1, 1996.
 
 (f)
 
@@ -88,7 +88,7 @@ Undercharge claims.—Nothing in this section shall serve as a basis for any und
 
 &emsp;(2)
 
-Obligation of shipper.—Nothing in this title, the ICC Termination Act of 1995, or any amendments or repeals made by such Act shall be construed as creating any obligation for a shipper based solely on a classification that was on file with the Interstate Commerce Commission or elsewhere on the day before the effective date of this section.
+Obligation of shipper.—Nothing in this title, the ICC Termination Act of 1995, or any amendments or repeals made by such Act shall be construed as creating any obligation for a shipper based solely on a classification that was on file with the Interstate Commerce Commission or elsewhere on December 31, 1995.
 
 (g)
 
@@ -126,19 +126,23 @@ Mileage limitation.—No carrier subject to jurisdiction under subchapter I or I
 
 Single Line Rate Defined.—In this section, the term “single line rate” means a rate, charge, or allowance proposed by a single motor carrier that is applicable only over its line and for which the transportation can be provided by that carrier.
 
-(Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 869.)
+(Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 869; amended Pub. L. 104–287, §5(28), Oct. 11, 1996, 110 Stat. 3391.)
 
 #### References in Text
 
 Former section 10706(b), referred to in subsec. (e), probably means section 10706(b) of this title as in effect before that section was omitted and a new section 10706 enacted in the general amendment of this subtitle by Pub. L. 104–88, title I, §102(a), Dec. 29, 1995, 109 Stat. 804, 812.
-
-For the effective date of this section, referred to in subsecs. (e) and (f)(2), as Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 701 of this title.
 
 The ICC Termination Act of 1995, referred to in subsec. (f)(2), is Pub. L. 104–88, Dec. 29, 1995, 109 Stat. 803. For complete classification of this Act to the Code, see Short Title of 1995 Amendment note set out under section 101 of this title and Tables.
 
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in section 10706 of this title prior to the general amendment of this subtitle by Pub. L. 104–88, §102(a).
+
+#### Amendments
+
+1996—Subsec. (e). Pub. L. 104–287, §5(28)(A), substituted “December 31, 1995,” for “the day before the effective date of this section” and “January 1, 1996” for “such effective date”.
+
+Subsec. (f)(2). Pub. L. 104–287, §5(28)(B), substituted “December 31, 1995” for “the day before the effective date of this section”.
 
 #### Abolition of Interstate Commerce Commission
 

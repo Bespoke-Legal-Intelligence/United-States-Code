@@ -4,10 +4,13 @@
 | :--- | ---: |
 | [3101\.](%C2%A7%2003101%20-%20Authority%20to%20suspend%20inspection.md) | Authority to suspend inspection. |
 | [3102\.](%C2%A7%2003102%20-%20Immersion%20suits.md) | Immersion suits. |
+| [3103\.](%C2%A7%2003103%20-%20Use%20of%20reports%2C%20documents%2C%20and%20records.md) | Use of reports, documents, and records. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1996—Pub. L. 104–324, title VI, §603(b), Oct. 19, 1996, 110 Stat. 3930, added item 3103.
 
 1988—Pub. L. 100–424, §8(a)(3), Sept. 9, 1988, 102 Stat. 1593, substituted “Immersion” for “Exposure” in item 3102.
 
@@ -22,3 +25,4 @@
 
 - [&sect; 03101 - Authority to suspend inspection](%C2%A7%2003101%20-%20Authority%20to%20suspend%20inspection.md)
 - [&sect; 03102 - Immersion suits](%C2%A7%2003102%20-%20Immersion%20suits.md)
+- [&sect; 03103 - Use of reports, documents, and records](%C2%A7%2003103%20-%20Use%20of%20reports%2C%20documents%2C%20and%20records.md)

@@ -6,7 +6,7 @@
 | [2631a.](%C2%A7%2002631a%20-%20Contingency%20planning%20sealift%20and%20related%20intermodal%20transportation%20requirements.md) | Contingency planning: sealift and related intermodal transportation requirements. |
 | [2632\.](%C2%A7%2002632%20-%20Transportation%20to%20and%20from%20certain%20places%20of%20employment%20and%20on%20military%20installations.md) | Transportation to and from certain places of employment and on military installations. |
 | [2633\.](%C2%A7%2002633%20-%20Stevedoring%20and%20terminal%20services%20vessels%20carrying%20cargo%20or%20passengers%20sponsored%20by%20military%20department.md) | Stevedoring and terminal services: vessels carrying cargo or passengers sponsored by military department. |
-| [2634\.](%C2%A7%2002634%20-%20Motor%20vehicles%20for%20members%20on%20change%20of%20permanent%20station.md) | Motor vehicles: for members on change of permanent station. |
+| [2634\.](%C2%A7%2002634%20-%20Motor%20vehicles%20transportation%20or%20storage%20for%20members%20on%20change%20of%20permanent%20station%20or%20extended%20deployment.md) | Motor vehicles: transportation or storage for members on change of permanent station or extended deployment. |
 | [2635\.](%C2%A7%2002635%20-%20Medical%20emergency%20helicopter%20transportation%20assistance%20and%20limitation%20of%20individual%20liability.md) | Medical emergency helicopter transportation assistance and limitation of individual liability. |
 | [2636\.](%C2%A7%2002636%20-%20Deductions%20from%20carriers%20because%20of%20loss%20or%20damage%20to%20material%20in%20transit.md) | Deductions from carriers because of loss or damage to material in transit. |
 | [2637\.](%C2%A7%2002637%20-%20Transportation%20in%20certain%20areas%20outside%20the%20United%20States.md) | Transportation in certain areas outside the United States. |
@@ -15,10 +15,17 @@
 | [2640\.](%C2%A7%2002640%20-%20Charter%20air%20transportation%20of%20members%20of%20the%20armed%20forces.md) | Charter air transportation of members of the armed forces. |
 | [2641\.](%C2%A7%2002641%20-%20Transportation%20of%20certain%20veterans%20on%20Department%20of%20Defense%20aeromedical%20evacuation%20aircraft.md) | Transportation of certain veterans on Department of Defense aeromedical evacuation aircraft. |
 | [2642\.](%C2%A7%2002642%20-%20Reimbursement%20rate%20for%20airlift%20services%20provided%20to%20Central%20Intelligence%20Agency.md) | Reimbursement rate for airlift services provided to Central Intelligence Agency. |
+| [2643\.](%C2%A7%2002643%20-%20Commissary%20and%20exchange%20services%20transportation%20overseas.md) | Commissary and exchange services: transportation overseas. |
+| [2644\.](%C2%A7%2002644%20-%20Control%20of%20transportation%20systems%20in%20time%20of%20war.md) | Control of transportation systems in time of war. |
+| [2645\.](%C2%A7%2002645%20-%20Indemnification%20of%20Department%20of%20Transportation%20for%20losses%20covered%20by%20vessel%20war%20risk%20insurance.md) | Indemnification of Department of Transportation for losses covered by vessel war risk insurance. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1996—Pub. L. 104–201, div. A, title III, §368(a)(2)(B), title IX, §906(d)(1), title X, §1079(b)(2), Sept. 23, 1996, 110 Stat. 2498, 2620, 2670, substituted “Motor vehicles: transportation or storage for members on change of permanent station or extended deployment” for “Motor vehicles: for members on change of permanent station” in item 2634 and added items 2644 and 2645.
+
+Pub. L. 104–106, div. A, title III, §334(b), Feb. 10, 1996, 110 Stat. 262, added item 2643.
 
 1993—Pub. L. 103–160, div. A, title XI, §1173(b), Nov. 30, 1993, 107 Stat. 1767, added item 2631a.
 
@@ -42,7 +49,7 @@ Pub. L. 99–550, §2(a)(2), Oct. 27, 1986, 100 Stat. 3070, struck out item 2637
 
 1965—Pub. L. 89–101, §1(2), July 30, 1965, 79 Stat. 425, substituted “change of permanent station” for “permanent change of station” in item 2634.
 
-1962—Pub. L. 87–651, title I, §111(c), Sept. 7, 1962, 76 Stat. 511, substituted “Stevedoring and terminal services: vessels carrying cargo or passengers sponsored by military department” for “Terminal Services, furnishto commercial steamship companies” in item 2633, and added item 2634.
+1962—Pub. L. 87–651, title I, §111(c), Sept. 7, 1962, 76 Stat. 511, substituted “Stevedoring and terminal services: vessels carrying cargo or passengers sponsored by military department” for “Terminal Services, furnish to commercial steamship companies” in item 2633, and added item 2634.
 
 1957—Pub. L. 85–44, §2, June 1, 1957, 71 Stat. 45, added item 2633.
 
@@ -55,7 +62,7 @@ Pub. L. 99–550, §2(a)(2), Oct. 27, 1986, 100 Stat. 3070, struck out item 2637
 - [&sect; 02631a - Contingency planning sealift and related intermodal transportation requirements](%C2%A7%2002631a%20-%20Contingency%20planning%20sealift%20and%20related%20intermodal%20transportation%20requirements.md)
 - [&sect; 02632 - Transportation to and from certain places of employment and on military installations](%C2%A7%2002632%20-%20Transportation%20to%20and%20from%20certain%20places%20of%20employment%20and%20on%20military%20installations.md)
 - [&sect; 02633 - Stevedoring and terminal services vessels carrying cargo or passengers sponsored by military department](%C2%A7%2002633%20-%20Stevedoring%20and%20terminal%20services%20vessels%20carrying%20cargo%20or%20passengers%20sponsored%20by%20military%20department.md)
-- [&sect; 02634 - Motor vehicles for members on change of permanent station](%C2%A7%2002634%20-%20Motor%20vehicles%20for%20members%20on%20change%20of%20permanent%20station.md)
+- [&sect; 02634 - Motor vehicles transportation or storage for members on change of permanent station or extended deployment](%C2%A7%2002634%20-%20Motor%20vehicles%20transportation%20or%20storage%20for%20members%20on%20change%20of%20permanent%20station%20or%20extended%20deployment.md)
 - [&sect; 02635 - Medical emergency helicopter transportation assistance and limitation of individual liability](%C2%A7%2002635%20-%20Medical%20emergency%20helicopter%20transportation%20assistance%20and%20limitation%20of%20individual%20liability.md)
 - [&sect; 02636 - Deductions from carriers because of loss or damage to material in transit](%C2%A7%2002636%20-%20Deductions%20from%20carriers%20because%20of%20loss%20or%20damage%20to%20material%20in%20transit.md)
 - [&sect; 02637 - Transportation in certain areas outside the United States](%C2%A7%2002637%20-%20Transportation%20in%20certain%20areas%20outside%20the%20United%20States.md)
@@ -64,3 +71,6 @@ Pub. L. 99–550, §2(a)(2), Oct. 27, 1986, 100 Stat. 3070, struck out item 2637
 - [&sect; 02640 - Charter air transportation of members of the armed forces](%C2%A7%2002640%20-%20Charter%20air%20transportation%20of%20members%20of%20the%20armed%20forces.md)
 - [&sect; 02641 - Transportation of certain veterans on Department of Defense aeromedical evacuation aircraft](%C2%A7%2002641%20-%20Transportation%20of%20certain%20veterans%20on%20Department%20of%20Defense%20aeromedical%20evacuation%20aircraft.md)
 - [&sect; 02642 - Reimbursement rate for airlift services provided to Central Intelligence Agency](%C2%A7%2002642%20-%20Reimbursement%20rate%20for%20airlift%20services%20provided%20to%20Central%20Intelligence%20Agency.md)
+- [&sect; 02643 - Commissary and exchange services transportation overseas](%C2%A7%2002643%20-%20Commissary%20and%20exchange%20services%20transportation%20overseas.md)
+- [&sect; 02644 - Control of transportation systems in time of war](%C2%A7%2002644%20-%20Control%20of%20transportation%20systems%20in%20time%20of%20war.md)
+- [&sect; 02645 - Indemnification of Department of Transportation for losses covered by vessel war risk insurance](%C2%A7%2002645%20-%20Indemnification%20of%20Department%20of%20Transportation%20for%20losses%20covered%20by%20vessel%20war%20risk%20insurance.md)

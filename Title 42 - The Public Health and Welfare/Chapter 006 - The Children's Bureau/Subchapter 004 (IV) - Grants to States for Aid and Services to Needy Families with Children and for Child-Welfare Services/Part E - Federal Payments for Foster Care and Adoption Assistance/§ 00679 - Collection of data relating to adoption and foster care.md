@@ -18,7 +18,7 @@
 
 &emsp;(D) evaluate the financial and administrative impact of implementing each such method.
 
-(3) Not later than October 1, 1987, the Advisory Committee shall submit to the Secretary and the Congress a report setting forth the results ofthe study required by paragraph (1) and evaluating and making recommendations with respect to the various methods of establishing, administering, and financing a system for the collection of data with respect to adoption and foster care in the United States.
+(3) Not later than October 1, 1987, the Advisory Committee shall submit to the Secretary and the Congress a report setting forth the results of the study required by paragraph (1) and evaluating and making recommendations with respect to the various methods of establishing, administering, and financing a system for the collection of data with respect to adoption and foster care in the United States.
 
 (4)(A) Subject to subparagraph (B), the membership and organization of the Advisory Committee shall be determined by the Secretary.
 
@@ -68,7 +68,7 @@ Any data collection system developed and implemented under this section shall—
 
 &emsp;(1) avoid unnecessary diversion of resources from agencies responsible for adoption and foster care;
 
-&emsp;(2) assure that any data that is collected is reliable and consistent over time and among jurisdictions through the use of uniform definitions and methodologies;
+&emsp;(2) assure that any data that is collected is reliable and consistent over time and amongjurisdictions through the use of uniform definitions and methodologies;
 
 &emsp;(3) provide comprehensive national information with respect to—
 

@@ -78,7 +78,7 @@ Section 304(b) of Pub. L. 102–86 provided that: “Any actions by the Secretar
 
 #### Ratification of Action of Administrator in Contracting
 
-Section 206(a)(2) of Pub. L. 99–576 ratified actions by the Administrator of Veterans’ Affairs in contractingunder subsec. (a) of this section with respect to the period beginning Oct. 1, 1986, and ending Oct. 28, 1986.
+Section 206(a)(2) of Pub. L. 99–576 ratified actions by the Administrator of Veterans’ Affairs in contracting under subsec. (a) of this section with respect to the period beginning Oct. 1, 1986, and ending Oct. 28, 1986.
 
 #### Reports on Use of Funds
 

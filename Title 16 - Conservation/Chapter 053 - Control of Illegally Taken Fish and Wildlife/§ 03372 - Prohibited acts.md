@@ -4,7 +4,7 @@
 
 It is unlawful for any person—
 
-&emsp;(1) to import, export, transport, sell, receive, acquire, or purchase any fish or wildlife or plant taken, possessed, transported, or sold in violation of any law, treaty, or regulation of the United States or in violation of any Indian tribal law;
+&emsp;(1) to import, export, transport, sell, receive, acquire, or purchase any fish or wildlife orplant taken, possessed, transported, or sold in violation of any law, treaty, or regulation of the United States or in violation of any Indian tribal law;
 
 &emsp;(2) to import, export, transport, sell, receive, acquire, or purchase in interstate or foreign commerce—
 

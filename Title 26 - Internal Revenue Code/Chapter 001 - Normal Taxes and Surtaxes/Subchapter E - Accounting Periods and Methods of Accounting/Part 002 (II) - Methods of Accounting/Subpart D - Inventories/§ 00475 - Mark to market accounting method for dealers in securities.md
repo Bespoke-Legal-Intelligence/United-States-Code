@@ -190,5 +190,5 @@ Qualified security.—For purposes of this paragraph, the term ‘qualified secu
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 988 of this title.
+This section is referred to in sections 860L, 988 of this title.
 

@@ -6,11 +6,11 @@ Within sixty days after the Secretary has given public notice that a stockyard i
 
 #### (b) Detail required; form
 
-Such schedules shall plainly state all such rates and charges in such detail as the Secretary may require, and shall also state any rules or regulations which in any manner change, affect, or determine any part or the aggregate of such rates or charges, or the value of the stockyard services furnished. The Secretary may determine and prescribe the form and manner inwhich such schedules shall be prepared, arranged, and posted, and may from time to time make such changes in respect thereto as may be found expedient.
+Such schedules shall plainly state all such rates and charges in such detail as the Secretary may require, and shall also state any rules or regulations which in any manner change, affect, or determine any part or the aggregate of such rates or charges, or the value of the stockyard services furnished. The Secretary may determine and prescribe the form and manner in which such schedules shall be prepared, arranged, and posted, and may from time to time make such changes in respect thereto as may be found expedient.
 
 #### (c) Changes
 
-No changes shall be made in the rates or charges so filed and published, except after ten days’ notice to the Secretary and to the public filed and published as aforesaid, which shall plainly state the changes proposed to be made and the time such changes will go into effect; but the Secretary may, for good cause shown, allow changes on less than ten days’ notice, or modify the requirements of this section in respect to publishing, posting, and filing of schedules, either in particular instances or by a general order applicable to special or peculiar circumstances or conditions.
+No changes shall be made in the rates or charges so filed and published, except after tendays’ notice to the Secretary and to the public filed and published as aforesaid, which shall plainly state the changes proposed to be made and the time such changes will go into effect; but the Secretary may, for good cause shown, allow changes on less than ten days’ notice, or modify the requirements of this section in respect to publishing, posting, and filing of schedules, either in particular instances or by a general order applicable to special or peculiar circumstances or conditions.
 
 #### (d) Rejection by Secretary
 

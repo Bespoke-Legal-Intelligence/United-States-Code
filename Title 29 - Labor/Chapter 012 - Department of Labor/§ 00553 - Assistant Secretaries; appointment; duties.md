@@ -32,7 +32,7 @@ Section 2(b)(3) of Pub. L. 99–619 provided that: “Any reference in any law, 
 
 #### Present Incumbent
 
-Section 2(f)(2) of Pub. L. 99–619 provided that: “The incumbent in the position of Assistant Secretary of Labor for Veterans’ Employment on the date of enactment of this Act \[Nov. 6, 1986\] may serve as AssistantSecretary of Labor for Veterans’ Employment and Training at the pleasure of the President after such date and the amendments made by subsection (b)(2) \[amending section 5315 of Title 5, Government Organization and Employees\] shall apply to such incumbent.”
+Section 2(f)(2) of Pub. L. 99–619 provided that: “The incumbent in the position of Assistant Secretary of Labor for Veterans’ Employment on the date of enactment of this Act \[Nov. 6, 1986\] may serve as Assistant Secretary of Labor for Veterans’ Employment and Training at the pleasure of the President after such date and the amendments made by subsection (b)(2) \[amending section 5315 of Title 5, Government Organization and Employees\] shall apply to such incumbent.”
 
 #### Cross References
 

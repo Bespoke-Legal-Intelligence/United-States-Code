@@ -18,7 +18,7 @@ For purposes of this chapter—
 
 &emsp;(5) the term “Administrator” means the agency head designated by section 5611(b) of this title;
 
-&emsp;(6) the term “law enforcement and criminal justice” means any activity pertaining to crime prevention, control, or reduction or the enforcement of the criminal law, including, but not limited to police efforts to prevent, control, or reduce crime or to apprehend criminals, activities of courts having criminal jurisdiction and related agencies (including prosecutorial and defender services), activities of corrections, probation, or parole authorities, and programs relating to the prevention, control, or reduction of juvenile delinquency or narcotic addiction;
+&emsp;(6) the term “law enforcement and criminal justice” means any activity pertaining to crime prevention, control, or reduction or the enforcement of the criminal law, including, but not limited to police efforts to prevent, control, or reduce crime or to apprehend criminals, activities of courts having criminaljurisdiction and related agencies (including prosecutorial and defender services), activities of corrections, probation, or parole authorities, and programs relating to the prevention, control, or reduction of juvenile delinquency or narcotic addiction;
 
 &emsp;(7) the term “State” means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Trust Territory of the Pacific Islands, the Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands;
 
@@ -58,7 +58,7 @@ For purposes of this chapter—
 
 &emsp;&emsp;&emsp;(ii) determined the reasons for the behavior that caused such juvenile to be brought before the court and made subject to such order;
 
-&emsp;&emsp;&emsp;(iii) determined that all dispositions (including treatment), other than placement in a secure detention facility or a securecorrectional facility, have been exhausted or are clearly inappropriate; and
+&emsp;&emsp;&emsp;(iii) determined that all dispositions (including treatment), other than placement in a secure detention facility or a secure correctional facility, have been exhausted or are clearly inappropriate; and
 
 &emsp;&emsp;&emsp;(iv) submitted to the court a written report stating the results of the review conducted under clause (i) and the determinations made under clauses (ii) and (iii);
 

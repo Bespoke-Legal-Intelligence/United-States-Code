@@ -2,45 +2,99 @@
 
 #### (a) Establishment
 
-Before the end of the 2-year period beginning on April 25, 1988, the Secretary shall through the Center, or by contract of no less than 3 years duration let through a competition, establish a national clearinghouse for information relating to child abuse.
+The Secretary shall through the Department, or by one or more contracts of not less than 3 years duration let through a competition, establish a national clearinghouse for information relating to child abuse.
 
 #### (b) Functions
 
-The Director shall, through the clearinghouse established by subsection (a) of this section—
+The Secretary shall, through the clearinghouse established by subsection (a) of this section—
 
-&emsp;(1) maintain, coordinate, and disseminate information on all programs, including private programs, that show promise of success with respect to the prevention, identification, and treatment of child abuse and neglect, including the information provided by the National Center for Child Abuse and Neglect under section 5105(b) of this title;
+&emsp;(1) maintain, coordinate, and disseminate information on all programs, including private programs, that show promise of success with respect to the prevention, assessment, identification, and treatment of child abuse and neglect; and
 
 &emsp;(2) maintain and disseminate information relating to—
 
-&emsp;&emsp;(A) the incidence of cases of child abuse and neglect in the general population;
+&emsp;&emsp;(A) the incidence of cases of child abuse and neglect in the United States;
 
-&emsp;&emsp;(B) the incidence of such cases in populations determined by the Secretary under section 105(a)(1) of the Child Abuse Prevention, Adoption, and Family Services Act of 1988;
+&emsp;&emsp;(B) the incidence of such cases in populations determined by the Secretary under section 105(a)(1) of the Child Abuse Prevention, Adoption, and Family Services Act of 1988; and
 
-&emsp;&emsp;(C) the incidence of any such cases related to alcohol or drug abuse; and
-
-&emsp;&emsp;(D) State and local recordkeeping with respect to such cases; and
-
-&emsp;(3) directly or through contract, identify effective programs carried out by the States pursuant to subchapter III of this chapter and provide technical assistance to the States in the implementation of such programs.
+&emsp;&emsp;(C) the incidence of any such cases related to alcohol or drug abuse.
 
 #### (c) Coordination with available resources
 
-In establishing a national clearinghouse as required by subsection (a) of this section, the Director shall—
+#### (1) In general
 
-&emsp;(1) consult with other Federal agencies that operate similar clearinghouses;
+&emsp;In establishing a national clearinghouse as required by subsection (a) of this section, the Secretary shall—
 
-&emsp;(2) consult with the head of each agency that is represented on the task force on the development of the components for information collection and management of such clearinghouse;
+&emsp;&emsp;(A) consult with other Federal agencies that operate similar clearinghouses;
 
-&emsp;(3) develop a Federal data system involving the elements under subsection (b) of this section which, to the extent practicable, coordinates existing State, regional, and local data systems; and
+&emsp;&emsp;(B) consult with the head of each agency involved with child abuse and neglect and mechanisms for the sharing of such information among other Federal agencies and clearinghouses on the development of the components for information collection and management of such clearinghouse;
 
-&emsp;(4) solicit public comment on the components of such clearinghouse.
+&emsp;&emsp;(C) develop a Federal data system involving the elements under subsection (b) of this section which, to the extent practicable, coordinates existing Federal, State, regional, and local child welfare data systems which shall include—
 
-(Pub. L. 93–247, title I, §104, formerly §5, Jan. 31, 1974, 88 Stat. 7; Pub. L. 95–266, title I, §104, Apr. 24, 1978, 92 Stat. 206; Pub. L. 98–457, title I, §104, Oct. 9, 1984, 98 Stat. 1751; Pub. L. 100–294, title I, §101, Apr. 25, 1988, 102 Stat. 105; renumbered title I, §104, and amended Pub. L. 101–126, §§3(a)(1), (2), (b)(2), 6, Oct. 25, 1989, 103 Stat. 764, 765, 768.)
+&emsp;&emsp;&emsp;(i) standardized data on false, unfounded, unsubstantiated, and substantiated reports; and
+
+&emsp;&emsp;&emsp;(ii) information on the number of deaths due to child abuse and neglect;
+
+&emsp;&emsp;(D) through a national data collection and analysis program and in consultation with appropriate State and local agencies and experts in the field, collect, compile, and make available State child abuse and neglect reporting information which, to the extent practical, shall be universal and case specific and integrated with other case-based fostercare and adoption data collected by the Secretary;
+
+&emsp;&emsp;(E) compile, analyze, and publish a summary of the research conducted under section 5105(a) <sup>1</sup> of this title; and
+
+&emsp;&emsp;(F) solicit public comment on the components of such clearinghouse.
+
+#### (2) Confidentiality requirement
+
+&emsp;In carrying out paragraph (1)(D), the Secretary shall ensure that methods are established and implemented to preserve the confidentiality of records relating to case specific data.
+
+(Pub. L. 93–247, title I, §103, formerly §5, Jan. 31, 1974, 88 Stat. 7; Pub. L. 95–266, title I, §104, Apr. 24, 1978, 92 Stat. 206; Pub. L. 98–457, title I, §104, Oct. 9, 1984, 98 Stat. 1751; Pub. L. 100–294, title I, §101, Apr. 25, 1988, 102 Stat. 105; renumbered title I, §104, and amended Pub. L. 101–126, §§3(a)(1), (2), (b)(2), 6, Oct. 25, 1989, 103 Stat. 764, 765, 768; renumbered §103 and amended Pub. L. 104–235, title I, §§104, 113(a)(1)(A), Oct. 3, 1996, 110 Stat. 3066, 3079.)
 
 #### References in Text
 
 Section 105(a)(1) of the Child Abuse Prevention, Adoption, and Family Services Act of 1988, referred to in subsec. (b)(2)(B), is section 105(a)(1) of Pub. L. 100–294, which is set out as a note under section 5105 of this title.
 
+Section 5105(a) of this title, referred to in subsec. (c)(1)(E), was in the original a reference to section 105(a), meaning section 105(a) of Pub. L. 93–247 which was renumbered section 104 by Pub. L. 104–235, title I, §113(a)(1)(A), Oct. 3, 1996, 110 Stat. 3079. Section 106 of Pub. L. 93–247 was renumbered section 105 and is classified to section 5106 of this title.
+
+#### Prior Provisions
+
+A prior section 103 of Pub. L. 93–247 was classified to section 5103 of this title prior to repeal by Pub. L. 104–235.
+
 #### Amendments
+
+1996—Subsec. (a). Pub. L. 104–235, §104(1), amended heading and text generally. Prior to amendment, text read as follows: “Before the end of the 2-year period beginning on April 25, 1988, the Secretary shall through the Center, or by contract of no less than 3 years duration let through a competition, establish a national clearinghouse for information relating to child abuse.”
+
+Subsec. (b). Pub. L. 104–235, §104(2)(A), substituted “Secretary” for “Director” in introductory provisions.
+
+Subsec. (b)(1). Pub. L. 104–235, §104(2)(B)(ii), which directed striking out “, including” and all that followed and inserting “; and”, was executed to reflect the probable intent of Congress by substituting “; and” for “, including the information provided by the National Center for Child Abuse and Neglect under section 5105(b) of this title;” which was all that followed “, including” the second place it appeared.
+
+Pub. L. 104–235, §104(2)(B)(ii), inserted “assessment,” after “prevention,”.
+
+Subsec. (b)(2). Pub. L. 104–235, §104(2)(C), substituted “United States” for “general population” in subpar. (A) and struck out subpar. (D) which read as follows: “State and local recordkeeping with respect to such cases; and”.
+
+Subsec. (b)(3). Pub. L. 104–235, §104(2)(D), struck out par. (3) which read as follows: “directly or through contract, identify effective programs carried out by the States pursuant to subchapter III of this chapter and provide technical assistance to the States in the implementation of such programs.”
+
+Subsec. (c)(1). Pub. L. 104–235, §104(3)(A), designated existing provisions as par. (1), inserted heading, and substituted “Secretary” for “Director” in introductory provisions. Former par. (1) redesignated (1)(A).
+
+Subsec. (c)(1)(A). Pub. L. 104–235, §104(3)(B), redesignated par. (1) as (1)(A) and realigned margin.
+
+Subsec. (c)(1)(B). Pub. L. 104–235, §104(3)(B), (C), redesignated par. (2) as (1)(B), realigned margin, and substituted “involved with child abuse and neglect and mechanisms for the sharing of such information among other Federal agencies and clearinghouses” for “that is represented on the task force”.
+
+Subsec. (c)(1)(C). Pub. L. 104–235, §104(3)(B), (C), redesignated par. (3) as (1)(C), realigned margin, and substituted “Federal, State, regional, and local child welfare data systems which shall include—
+
+&emsp;“(i) standardized data on false, unfounded, unsubstantiated, and substantiated reports; and
+
+&emsp;“(ii) information on the number of deaths due to child abuse and neglect;”
+
+> for “State, regional, and local data systems; and”.
+
+Subsec. (c)(1)(D). Pub. L. 104–235, §104(3)(F), added subpar. (D). Former subpar. (D) redesignated (F).
+
+Pub. L. 104–235, §104(3)(B), redesignated par. (4) as (1)(D) and realigned margin.
+
+Subsec. (c)(1)(E). Pub. L. 104–235, §104(3)(F), added subpar. (E).
+
+Subsec. (c)(1)(F). Pub. L. 104–235, §104(3)(E), redesignated subpar. (D) as (F).
+
+Subsec. (c)(2). Pub. L. 104–235, §104(3)(G), added par. (2). Former par. (2) redesignated (1)(B).
+
+Subsec. (c)(3), (4). Pub. L. 104–235, §104(3)(B), redesignated pars. (3) and (4) as (1)(C) and (1)(D), respectively.
 
 1989—Subsec. (b)(1). Pub. L. 101–126, §3(b)(2)(A), made technical amendment to reference to section 5105(b) of this title to reflect renumbering of corresponding section of original act.
 
@@ -48,7 +102,7 @@ Subsec. (b)(2)(B). Pub. L. 101–126, §3(b)(2)(B), inserted “of the Child Abu
 
 Subsec. (b)(3). Pub. L. 101–126, §6, added par. (3).
 
-1988—Pub. L. 100–294 amended section generally, substituting provisions relating to national clearinghouse for information relating to child abuse for provisionsrelating to authorization of appropriations and funding requirements for child abuse and neglect and sexual abuse programs and projects. See section 5106h of this title.
+1988—Pub. L. 100–294 amended section generally, substituting provisions relating to national clearinghouse for information relating to child abuse for provisions relating to authorization of appropriations and funding requirements for child abuse and neglect and sexual abuse programs and projects. See section 5106h of this title.
 
 1984—Pub. L. 98–457, §104(a), struck out designation “(a)” before “There are hereby authorized”, inserted provisions authorizing appropriations of $33,500,000 for fiscal year 1984, $40,000,000 for fiscal year 1985, $41,500,000 for fiscal year 1986, and $43,100,000 for fiscal year 1987, and substituted “this section except as provided in the succeeding sentence, (A) not less than $9,000,000 shall be available in each fiscal year to carry out section 5103(b) of this title (relating to State grants), (B) not less than $11,000,000 shall be available in each fiscal year to carry out sections 5103(a) (relating to demonstration or service projects), 5101(b)(1) and 5101(b)(3) (relating to information dissemination), 5101(b)(5) (relating to research), and 5103(c)(2) (relating to training, technical assistance, and information dissemination) of this title, giving special consideration to continued funding of child abuse and neglect programs or projects (previously funded by the Department of Health and Human Services) of national or regional scope and demonstated \[sic\] effectiveness, (C) $5,000,000 shall be available in each such year for grants and contracts under section 5103(a) of this title for identification, treatment, and prevention of sexual abuse, and (D) $5,000,000 shall be available in each such year for the purpose of making additional grants to the States to carry out the provisions of section 5103(c)(1) of this title. With respect to any fiscal year in which the total amount appropriated under this section is less than $30,000,000, funds shall first be available as provided in clauses (A) and (B) in the preceding sentence and of the remainder one-half shall be available as provided for in clause (C) and one-half as provided for in clause (D) in the preceding sentence” for “this section, not less than 50 per centum shall be used for making grants or contracts under sections 5101(b)(5) of this title (relating to research) and 5103(a) of this title (relating to demonstration or service projects), giving special consideration to continued Federal funding of child abuse and neglect programs or projects (previously funded by the Department of Health, Education, and Welfare) of national or regional scope and demonstrated effectiveness, of not less than 25 per centum shall be used for making grants or contracts under section 5103(b)(1) of this title (relating to grants to States) for the fiscal years ending September 30, 1978, and September 30, 1979, respectively, and not less than 30 per centum shall be used for making grants or contracts under section 5103(b)(1) of this title (relating to grants to States) for each of the fiscal years ending September 30, 1980, and September 30, 1981, respectively”.
 
@@ -56,7 +110,7 @@ Pub. L. 98–457, §104(b), struck out subsec. (b) which authorized appropriatio
 
 1978—Pub. L. 95–266 designated existing provisions as subsec. (a), inserted provisions authorizing appropriations for fiscal year ending Sept. 30, 1978, through fiscal year ending Sept. 30, 1981, and provisions setting forth funding requirements for child abuse and neglect programs and projects, and added subsec. (b).
 
-#### Section Referred to in Other Sections
+Subsec. (c)(3), (4). Pub. L. 104–235, §104(3)(B), redesignated pars. (3) and (4) as (1)(C) and (1)(D), respectively.
 
-This section is referred to in sections 5105, 5106h of this title.
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

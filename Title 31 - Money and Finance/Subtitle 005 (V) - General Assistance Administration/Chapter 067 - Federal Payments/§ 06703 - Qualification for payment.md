@@ -28,7 +28,7 @@ In General.—The Secretary shall issue regulations establishing procedures unde
 
 &emsp;(12) Programs under the Carl Perkins Vocational Educational and Applied Technology Education Act (20 U.S.C. 2301 et seq.).
 
-&emsp;(13) The demonstration partnership programs including the community initiative targeted to minority youth under section 203 of the Human Services Reauthorization Act of 1994 (Public Law 103–252).
+&emsp;(13) The demonstration partnership programs including the community initiative targeted to minority youth under section 203 <sup>1</sup> of the Human Services Reauthorization Act of 1994 (Public Law 103–252).
 
 &emsp;(14) The runaway and homeless youth program and the transitional living program for homeless youth under title III of the Juvenile Justice and Delinquency Prevention Act (Public Law 102–586).
 
@@ -36,7 +36,7 @@ In General.—The Secretary shall issue regulations establishing procedures unde
 
 &emsp;(16) After-school activities for school aged children under the Child Care and Development Block Grant Act (42 U.S.C. 9858 et seq.).
 
-&emsp;(17) The community-based family resource programs under section 401 of the Human Services Reauthorization Act of 1994 (Public Law 103–252).
+&emsp;(17) The community-based family resource programs under section 401 <sup>1</sup> of the Human Services Reauthorization Act of 1994 (Public Law 103–252).
 
 &emsp;(18) The family violence programs under the Child Abuse Prevention and Treatment Act Amendments of 1984.
 
@@ -44,7 +44,7 @@ In General.—The Secretary shall issue regulations establishing procedures unde
 
 (b)
 
-Notice to Agency.—Upon receipt of notice under subsection (a) from an eligible unit of general local government, the Secretary shall notify the head of the appropriate Federal agency for each program listed in subsection (a) that is identified in the notice as a program under which an activity will be conducted with assistance under this chapter. The notification shall state that the unit has elected to use some or all of its assistance under this chapter for activities under that program. The head of a Federal agency that receives such a notification shall ensure that such use is in compliance with the laws and regulations applicable to that program, except that any requirement to provide matching funds shall not apply to that use.
+Notice to Agency.—Upon receipt of notice under subsection (a) from an eligible unit of general local government, the Secretary shall notify the head of the appropriate Federal agency for each program listed in subsection (a) that is identified in the notice as a program underwhich an activity will be conducted with assistance under this chapter. The notification shall state that the unit has elected to use some or all of its assistance under this chapter for activities under that program. The head of a Federal agency that receives such a notification shall ensure that such use is in compliance with the laws and regulations applicable to that program, except that any requirement to provide matching funds shall not apply to that use.
 
 (c)
 
@@ -72,7 +72,7 @@ General Requirements for Qualification.—A unit of general local government qua
 
 &emsp;(5) all laborers and mechanics employed by contractors or subcontractors in the performance of any contract and subcontract for the repair, renovation, alteration, or construction, including painting and decorating, of any building or work that is financed in whole or in part by a grant under this title, shall be paid wages not less than those determined by the Secretary of Labor in accordance with the Act of March 3, 1931 (commonly known as the Davis-Bacon Act); as amended (40 U.S.C. 276a–276a–5). The Secretary of Labor shall have the authority and functions set forth in Reorganization Plan No. 14 of 1950 (15 FR 3176; 64 Stat. 1267) and section 2 of the Act of June 1, 1934 (commonly known as the Copeland Anti-Kickback Act), as amended (40 U.S.C. 276c, 48 Stat. 948);
 
-&emsp;(6) the government will use accounting, audit, and fiscal procedures that conform to guidelines which shall be prescribed by the Secretary after consultation with the Comptroller General of the United States. As applicable, amounts received under this chapter shall be audited in compliance with the Single Audit Act of 1984;
+&emsp;(6) the government will use accounting, audit, and fiscal procedures that conform to guidelines which shall be prescribed by the Secretary. As applicable, amounts received under this chapter shall be audited in compliance with the Single Audit Act of 1984;
 
 &emsp;(7) after reasonable notice to the government, the government will make available to the Secretary and the Comptroller General of the United States, with the right to inspect, records the Secretary reasonably requires to review compliance with this chapter or the Comptroller General of the United States reasonably requires to review compliance and operations under section 6718(b);
 
@@ -108,11 +108,11 @@ Payment conditions.—The Secretary may make a payment to a unit of general loca
 
 &emsp;&emsp;(B) will comply with subsection (d) and regulations prescribed under subsection (d).
 
-(Added Pub. L. 103–322, title III, §31001(a), Sept. 13, 1994, 108 Stat. 1861.)
+(Added Pub. L. 103–322, title III, §31001(a), Sept. 13, 1994, 108 Stat. 1861; amended Pub. L. 104–316, title I, §115(j), Oct. 19, 1996, 110 Stat. 3835.)
 
 #### References in Text
 
-The Elementary and Secondary Education Act of 1965, referred to in subsec. (a)(1), (9), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended generally by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519. Parts A and B of chapter 1 of title I of the Act were classified generally to parts A (§2711 et seq.) and B (§2741 et seq.) of division 1 of subchapter I of chapter 47 of Title 20, Education, prior to being omitted in the general amendment of Pub. L. 89–10 by Pub. L. 103–382. See parts A (§6311 et seq.) and B (§6361 et seq.) of subchapter I of chapter 70 of Title 20. Section 5122 of the Act was classified to section 3192 of Title 20 prior to being omitted in the general amendment of Pub. L. 89–10 by Pub. L. 103–382. See section 7101 et seq. of Title 20.
+The Elementary and Secondary Education Act of 1965, referred to in subsec. (a)(1), (9), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended generally by Pub.L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519. Parts A and B of chapter 1 of title I of the Act were classified generally to parts A (§2711 et seq.) and B (§2741 et seq.) of division 1 of subchapter I of chapter 47 of Title 20, Education, prior to being omitted in the general amendment of Pub. L. 89–10 by Pub. L. 103–382. See parts A (§6311 et seq.) and B (§6361 et seq.) of subchapter I of chapter 70 of Title 20. Section 5122 of the Act was classified to section 3192 of Title 20 prior to being omitted in the general amendment of Pub. L. 89–10 by Pub. L. 103–382. See section 7101 et seq. of Title 20.
 
 Section 682 of the Community Services Block Grant Act, referred to in subsec. (a)(2), is classified to section 9910c of Title 42, The Public Health and Welfare.
 
@@ -138,9 +138,9 @@ Sections 203 and 401 of the Human Services Reauthorization Act of 1994 (Public L
 
 The Juvenile Justice and Delinquency Prevention Act, referred to in subsec. (a)(14), probably means the Juvenile Justice and Delinquency Prevention Act of 1974, Pub. L. 93–415, Sept. 7, 1974, 88 Stat. 1109, as amended. Title III of the Act is classified generally to subchapter III (§5701 et seq.) of chapter 72 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 5601 of Title 42 and Tables.
 
-The Stewart B. McKinney Homeless Assistance Act, referred to in subsec. (a)(15), is Pub. L. 100–77, July 22, 1987, 101 Stat. 482, as amended. Subtitle F of title VII of the Act is classified generally to part F (§11481 et seq.) of subchapter VI of chapter 119 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of Title 42 and Tables.
+The Stewart B. McKinney Homeless Assistance Act, referred to in subsec. (a)(15), is Pub. L. 100–77, July 22, 1987, 101 Stat. 482, as amended. Subtitle F of title VII of the Act was classified generally to part F (§11481 et seq.) of subchapter VI of chapter 119 of Title 42 prior to its repeal by Pub. L. 104–235, title I, §142(b), Oct. 3, 1996, 110 Stat. 3089. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of Title 42 and Tables.
 
-The Child Care and Development Block Grant Act, referred to in subsec. (a)(16), probably means the Child Care and Development Block Grant Act of 1990, subchapter C (§§658A–658R) of chapter 8 of subtitle A oftitle VI of Pub. L. 97–35, as added by Pub. L. 101–508, title V, §5082(2), Nov. 5, 1990, 104 Stat. 1388–236, as amended, which is classified generally to subchapter II–B (§9858 et seq.) of chapter 105 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 9801 of Title 42 and Tables.
+The Child Care and Development Block Grant Act, referred to in subsec. (a)(16), probably means the Child Care and Development Block Grant Act of 1990, subchapter C (§§658A–658R) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, as added by Pub. L. 101–508, title V, §5082(2), Nov. 5, 1990, 104 Stat. 1388–236, as amended, which is classified generally to subchapter II–B (§9858 et seq.) of chapter 105 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 9801 of Title 42 and Tables.
 
 The Child Abuse Prevention and Treatment Act Amendments of 1984, referred to in subsec. (a)(18), probably means the Child Abuse Amendments of 1984, Pub. L. 98–457, Oct. 9, 1984, 98 Stat. 1749, as amended. Title III of the Act, relating to family violence programs, is classified generally to chapter 110 (§10401 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title of 1984 Amendment note set out under section 5101 of Title 42 and Tables.
 
@@ -150,11 +150,15 @@ Reorganization Plan No. 14 of 1950, referred to in subsec. (d)(5), is set out in
 
 Section 2 of the Act of June 1, 1934, referred to in subsec. (d)(5), probably means section 2 of act June 13, 1934, ch. 482, 48 Stat. 948, which is classified to section 276c of Title 40, Public Buildings, Property, and Works.
 
-The Single Audit Act of 1984, referred to in subsec. (d)(6), is Pub. L. 98–502, Oct. 19, 1984, 98 Stat. 2327, which is classified generally to chapter 75 (§7501 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7501 of this title and Tables.
+The Single Audit Act of 1984, referred to in subsec. (d)(6), is Pub. L. 98–502, Oct. 19, 1984, 98 Stat. 2327, as amended, which is classified generally to chapter 75 (§7501 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7501 of this title and Tables.
 
 #### Prior Provisions
 
 A prior section 6703, Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 1012; Pub. L. 98–185, §3, Nov. 30, 1983, 97 Stat. 1309, related to State and Local Government Fiscal Assistance Trust Fund, prior to repeal by Pub. L. 99–272, title XIV, §14001(a)(1), (e), Apr. 7, 1986, 100 Stat. 327, 329, eff. Oct. 18, 1986.
+
+#### Amendments
+
+1996—Subsec. (d)(6). Pub. L. 104–316 struck out “after consultation with the Comptroller General of the United States” after “by the Secretary”.
 
 #### Section Referred to in Other Sections
 

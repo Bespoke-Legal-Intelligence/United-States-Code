@@ -6,12 +6,7 @@
 | [14102\.](%C2%A7%2014102%20-%20Selection%20boards%20appointment%20and%20composition.md) | Selection boards: appointment and composition. |
 | [14103\.](%C2%A7%2014103%20-%20Oath%20of%20members.md) | Oath of members. |
 | [14104\.](%C2%A7%2014104%20-%20Confidentiality%20of%20board%20proceedings.md) | Confidentiality of board proceedings. |
-| [14105\.](%C2%A7%2014105%20-%20Notice%20of%20convening%20of%20promotion%20board.md) | Notice of convening of selection board.<sup>1</sup> |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |
-| :--- | ---: |
+| [14105\.](%C2%A7%2014105%20-%20Notice%20of%20convening%20of%20promotion%20board.md) | Notice of convening of promotion board. |
 | [14106\.](%C2%A7%2014106%20-%20Communication%20with%20board%20by%20officers%20under%20consideration.md) | Communication with board by officers under consideration. |
 | [14107\.](%C2%A7%2014107%20-%20Information%20furnished%20by%20the%20Secretary%20concerned%20to%20promotion%20boards.md) | Information furnished by the Secretary concerned to promotion boards. |
 | [14108\.](%C2%A7%2014108%20-%20Recommendations%20by%20promotion%20boards.md) | Recommendations by promotion boards. |
@@ -22,11 +17,13 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### Amendments
+
+1996—Pub. L. 104–106, div. A, title XV, §1501(b)(23), Feb. 10, 1996, 110 Stat. 497, substituted “promotion” for “selection” in item 14105.
+
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 113, 14001, 14006, 14502 of this title.
-
-<i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
+This chapter is referred to in sections 14001, 14006, 14502 of this title.
 
 
 ---

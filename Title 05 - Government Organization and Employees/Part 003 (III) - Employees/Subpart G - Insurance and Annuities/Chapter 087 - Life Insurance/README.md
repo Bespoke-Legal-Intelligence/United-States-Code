@@ -27,21 +27,21 @@
 
 #### Amendments
 
-<b>1994</b>—Pub. L. 103–409, §2(b), Oct. 25, 1994, 108 Stat. 4232, added item 8714d.
+1994—Pub. L. 103–409, §2(b), Oct. 25, 1994, 108 Stat. 4232, added item 8714d.
 
-<b>1988</b>—Pub. L. 100–238, title I, §108(a)(2)(B), Jan. 8, 1988, 101 Stat. 1747, added item 8713.
+1988—Pub. L. 100–238, title I, §108(a)(2)(B), Jan. 8, 1988, 101 Stat. 1747, added item 8713.
 
-<b>1984</b>—Pub. L. 98–353, title II, §208(b), July 10, 1984, 98 Stat. 351, inserted “; assignment of ownership” in item 8706.
+1984—Pub. L. 98–353, title II, §208(b), July 10, 1984, 98 Stat. 351, inserted “; assignment of ownership” in item 8706.
 
-<b>1980</b>—Pub. L. 96–427, §§2(e), 7(b), 8(c), and 9(b), Oct. 10, 1980, 94 Stat. 1832, 1836, 1837, added items 8714b and 8714c, substituted “Definitions” for “Definition” in item 8701, and struck out item 8713 “Advisory committee”.
+1980—Pub. L. 96–427, §§2(e), 7(b), 8(c), and 9(b), Oct. 10, 1980, 94 Stat. 1832, 1836, 1837, added items 8714b and 8714c, substituted “Definitions” for “Definition” in item 8701, and struck out item 8713 “Advisory committee”.
 
-<b>1967</b>—Pub. L. 90–206, title IV, §404(2), Dec. 16, 1967, 81 Stat. 648, added item 8714a.
+1967—Pub. L. 90–206, title IV, §404(2), Dec. 16, 1967, 81 Stat. 648, added item 8714a.
 
 Pub. L. 90–83, §1(94), Sept. 11, 1967, 81 Stat. 219, substituted “Advisory committee” for “Advisors” in item 8713.
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 1103, 1308, 3373, 3374, 3582, 5304, 5362, 5948 of this title; title 2 sections 31b–5, 72a; title 20 section 125; title 22 sections 2025, 2391, 3649, 3658, 4606; title 25 section 450i; title 28 sections 332, 627, 634, 996; title 38 sections 7438, 7453, 7458; title 39 section 1005; title 40 section 214d; title 42 sections 2996d, 4276, 10704; title 45 section 1206.
+This chapter is referred to in sections 1103, 1308, 3373, 3374, 3582, 5304, 5362, 5948 of this title; title 2 sections31b–5, 72a, 92, 130a; title 20 section 125; title 22 sections 2025, 2391, 3649, 3658, 4606; title 25 section 450i; title 28 sections 332, 627, 634, 996; title 38 sections 7438, 7453, 7458; title 39 section 1005; title 40 section 214d; title 42 sections 2996d, 4276, 10704; title 45 section 1206.
 
 
 ---

@@ -98,7 +98,19 @@
 
 &emsp;(C) The term “nonappropriated fund instrumentality” means a nonappropriated fund instrumentality described in section 2105(c) of this title.
 
-(Added Pub. L. 90–83, §1(34)(C), Sept. 11, 1967, 81 Stat. 201; amended Pub. L. 95–454, title IV, §408(a)(3), Oct. 13, 1978, 92 Stat. 1173; Pub. L. 96–70, title I, §1231(d), Sept. 27, 1979, 93 Stat. 470;Pub. L. 96–465, title II, §2305, Oct. 17, 1980, 94 Stat. 2165; Pub. L. 100–325, §2(i)(2), May 30, 1988, 102 Stat. 582; Pub. L. 101–474, §5(k), Oct. 30, 1990, 104 Stat. 1100; Pub. L. 101–509, title V, §529 \[title I, §101(b)(9)(J)\], Nov. 5, 1990, 104 Stat. 1427, 1442; Pub. L. 103–337, div. A, title III, §343(a), Oct. 5, 1994, 108 Stat. 2721.)
+(i)(1) In the case of an employee of the Department of Defense who is entitled to severance pay under this section, the Secretary of Defense or the Secretary of the military department concerned may, upon application by the employee, pay the total amount of the severance pay to the employee in one lump sum.
+
+(2)(A) If an employee paid severance pay in a lump sum under this subsection is reemployed by the Government of the United States or the government of the District of Columbia at such time that, had the employee been paid severance pay in regular pay periods under subsection (b), the payments of such pay would have been discontinued under subsection (d) upon such reemployment, the employee shall repay to the Department of Defense (for the military department that formerly employed the employee, if applicable) an amount equal to the amount of severance pay to which the employee was entitled under this section that would not have been paid to the employee under subsection (d) by reason of such reemployment.
+
+(B) The period of service represented by an amount of severance pay repaid by an employee under subparagraph (A) shall be considered service for which severance pay has not been received by the employee under this section.
+
+(C) Amounts repaid to an agency under this paragraph shall be credited to the appropriation available for the pay of employees of the agency for the fiscal year in which received. Amounts so credited shall be merged with, and shall be available for the same purposes and the same period as, the other funds in that appropriation.
+
+(3) If an employee fails to repay to an agency an amount required to be repaid under paragraph (2)(A), that amount is recoverable from the employee as a debt due the United States.
+
+(4) This subsection applies with respect to severance pay payable under this section for separations taking effect on or after the date of the enactment of the National Defense Authorization Act for Fiscal Year 1996 and before October 1, 1999.
+
+(Added Pub. L. 90–83, §1(34)(C), Sept. 11, 1967, 81 Stat. 201; amended Pub. L. 95–454, title IV, §408(a)(3), Oct. 13, 1978, 92 Stat. 1173; Pub. L. 96–70, title I, §1231(d), Sept. 27, 1979, 93 Stat. 470; Pub. L. 96–465, title II, §2305, Oct. 17, 1980, 94 Stat. 2165; Pub. L. 100–325, §2(i)(2), May 30, 1988, 102 Stat. 582; Pub. L. 101–474, §5(k), Oct. 30, 1990, 104 Stat. 1100; Pub. L. 101–509, title V, §529 \[title I, §101(b)(9)(J)\], Nov. 5, 1990, 104 Stat. 1427, 1442; Pub. L. 103–337, div. A, title III, §343(a), Oct. 5, 1994, 108 Stat. 2721; Pub. L. 104–106, div. A, title X, §1035, Feb. 10, 1996, 110 Stat. 430.)
 
 Historical and Revision Notes
 
@@ -142,23 +154,27 @@ Section 3(a) of the Panama Canal Act of 1979, referred to in subsec. (a)(2)(iii)
 
 Section 609(b)(1) of the Foreign Service Act of 1980, referred to in subsec. (a)(2)(vi), is classified to section 4009(b)(1) of Title 22.
 
+The date of the enactment of the National Defense Authorization Act for Fiscal Year 1996, referred to in subsec. (i)(4), is the date of enactment of Pub. L. 104–106 which was approved Feb. 10, 1996.
+
 #### Amendments
 
-<b>1994</b>—Subsec. (h). Pub. L. 103–337 added subsec. (h).
+1996—Subsec. (i). Pub. L. 104–106 added subsec. (i).
 
-<b>1990</b>—Subsec. (a)(1)(E). Pub. L. 101–474, §5(k)(1), added subpar. (E).
+1994—Subsec. (h). Pub. L. 103–337 added subsec. (h).
+
+1990—Subsec. (a)(1)(E). Pub. L. 101–474, §5(k)(1), added subpar. (E).
 
 Subsec. (a)(2)(i). Pub. L. 101–509 substituted “employee (other” for “employee, other”, inserted “or an employee whose pay is fixed under section 5376)” before “whose rate”, and substituted “the Executive Schedule” for “GS–18”.
 
 Subsec. (b). Pub. L. 101–474, §5(k)(2), inserted at end “However, the Director of the Administrative Office of the United States Courts may prescribe regulations to effect the application and operation of this section to the agencies specified in subsection (a)(1)(E) of this section.”
 
-<b>1988</b>—Subsec. (a)(2)(i). Pub. L. 100–325 inserted reference to Federal Bureau of Investigation and Drug Enforcement Administration Senior Executive Service.
+1988—Subsec. (a)(2)(i). Pub. L. 100–325 inserted reference to Federal Bureau of Investigation and Drug Enforcement Administration Senior Executive Service.
 
-<b>1980</b>—Subsec. (a)(2)(vi). Pub. L. 96–465 inserted “benefits under section 609(b)(1) of the Foreign Service Act of 1980 or any” after “to receive”.
+1980—Subsec. (a)(2)(vi). Pub. L. 96–465 inserted “benefits under section 609(b)(1) of the Foreign Service Act of 1980 or any” after “to receive”.
 
-<b>1979</b>—Subsec. (a)(2)(iii). Pub. L. 96–70 substituted “areas and installations in the Republic of Panama made available to the United States pursuant to the Panama Canal Treaty of 1977 and related agreements (as described in section 3(a) of the Panama Canal Act of 1979)” for “Canal Zone”.
+1979—Subsec. (a)(2)(iii). Pub. L. 96–70 substituted “areas and installations in the Republic of Panama made available to the United States pursuant to the Panama Canal Treaty of 1977 and related agreements (as described in section 3(a) of the Panama Canal Act of 1979)” for “Canal Zone”.
 
-<b>1978</b>—Subsec. (a)(2)(i). Pub. L. 95–454 inserted reference to a member of the Senior Executive Service.
+1978—Subsec. (a)(2)(i). Pub. L. 95–454 inserted reference to a member of the Senior Executive Service.
 
 #### Effective Date of 1994 Amendment
 

@@ -4,25 +4,25 @@
 
 The Secretary of the Treasury, in order to avoid expense and inconvenience to the Government disproportionate to the amount of revenue that would otherwise be collected, is authorized, under such regulations as he shall prescribe, to—
 
-&emsp;(1) disregard a difference of an amount specified by the Secretary by regulation, but not less than $20, between the total estimated duties, fees, and taxes deposited, or the total duties, fees, and taxes tentatively assessed, with respect to any entry of merchandise and the total amount of duties, fees, and taxes actually accruing thereon;
+&emsp;(1) disregard a difference of an amount specified by the Secretary by regulation, but not less than $20, between the total estimated duties, fees, and taxes deposited, or the total duties, fees, and taxes tentatively assessed, with respect to any entry of merchandise and the total amount of duties, fees, taxes, and interest actually accruing thereon;
 
 &emsp;(2) admit articles free of duty and of any tax imposed on or by reason of importation, but the aggregate fair retail value in the country of shipment of articles imported by one person on one day and exempted from the payment of duty shall not exceed an amount specified by the Secretary by regulation, but not less than—
 
 &emsp;&emsp;(A) $100 in the case of articles sent as bona fide gifts from persons in foreign countries to persons in the United States ($200 in the case of articles sent as bona fide gifts from persons in the Virgin Islands, Guam, and American Samoa), or
 
-&emsp;&emsp;(B) $200 in the case of articles accompanying, and for the personal or household use of, persons arriving in the United States who are not entitled to any exemption from duty under subheading 9804.00.30 or 9804.00.70 of title I of this Act,<sup>1</sup> or
+&emsp;&emsp;(B) $200 in the case of articles accompanying, and for the personal or household use of, persons arriving in the United States who are not entitled to any exemption from duty under subheading 9804.00.30, 9804.00.65, or 9804.00.70 of title I of this Act,<sup>1</sup> or
 
 &emsp;&emsp;(C) $200 in any other case.
 
 > &emsp;The privilege of this subdivision (2) shall not be granted in any case in which merchandise covered by a single order or contract is forwarded in separate lots to secure the benefit of this subdivision (2); and
 
-&emsp;(3) waive the collection of duties, fees, and taxes due on entered merchandise when suchduties, fees, or taxes are less than $20 or such greater amount as may be specified by the Secretary by regulation.
+&emsp;(3) waive the collection of duties, fees, taxes, and interest due on entered merchandise when such duties, fees, taxes, or interest are less than $20 or such greater amount as may be specified by the Secretary by regulation.
 
 #### (b) Reduction or modification of exemption
 
 The Secretary of the Treasury is authorized by regulations to prescribe exceptions to any exemption provided for in subsection (a) of this section whenever he finds that such action is consistent with the purpose of subsection (a) of this section or is necessary for any reason to protect the revenue or to prevent unlawful importations.
 
-(June 17, 1930, ch. 497, title III, §321, as added June 25, 1938, ch. 679, §7, 52 Stat. 1081; amended Aug. 8, 1953, ch. 397, §13, 67 Stat. 515; Sept. 21, 1961, Pub. L. 87–261, §2(c), 75 Stat. 541; June 30, 1965, Pub. L. 89–62, §2, 79 Stat. 208; Jan. 3, 1975, Pub. L. 93–618, title VI, §610(a), 88 Stat. 2075; Oct. 3, 1978, Pub. L. 95–410, title II, §205, 92 Stat. 900; Jan. 12, 1983, Pub. L. 97–446, title I, §115(b), 96 Stat. 2335; Aug. 23, 1988, Pub. L. 100–418, title I, §1214(h)(2), 102 Stat. 1157; Dec. 8, 1993, Pub. L. 103–182, title VI, §651, 107 Stat. 2209.)
+(June 17, 1930, ch. 497, title III, §321, as added June 25, 1938, ch. 679, §7, 52 Stat. 1081; amended Aug. 8, 1953, ch. 397, §13, 67 Stat. 515; Sept. 21, 1961, Pub. L. 87–261, §2(c), 75 Stat. 541; June 30, 1965, Pub. L. 89–62, §2, 79 Stat. 208; Jan. 3, 1975, Pub. L. 93–618, title VI, §610(a), 88 Stat. 2075; Oct. 3, 1978, Pub. L. 95–410, title II, §205, 92 Stat. 900; Jan. 12, 1983, Pub. L. 97–446, title I, §115(b), 96 Stat. 2335; Aug. 23, 1988, Pub. L. 100–418, title I, §1214(h)(2), 102 Stat. 1157; Dec. 8, 1993, Pub. L. 103–182, title VI, §651, 107 Stat. 2209; Oct. 11, 1996, Pub. L. 104–295, §3(a)(8), (12), 110 Stat. 3516.)
 
 #### References in Text
 
@@ -30,13 +30,19 @@ Title I of this Act, referred to in subsec. (a)(2)(B), means title I of act June
 
 #### Amendments
 
+1996—Subsec. (a)(1). Pub. L. 104–295, §3(a)(12)(A), substituted “duties, fees, taxes, and interest actually accruing” for “duties, fees, and taxes actually accruing”.
+
+Subsec. (a)(2)(B). Pub. L. 104–295, §3(a)(8), inserted “, 9804.00.65,” after “9804.00.30”.
+
+Subsec. (a)(3). Pub. L. 104–295, §3(a)(12)(B), substituted “taxes, and interest” for “and taxes” and “taxes, or interest” for “or taxes”.
+
 1993—Subsec. (a)(1). Pub. L. 103–182, §651(1), substituted “of an amount specified by the Secretary by regulation, but not less than $20,” for “of less than $10”, inserted “, fees,” after “duties” wherever appearing, and struck out “and” at end.
 
 Subsec. (a)(2). Pub. L. 103–182, §651(2), substituted “shall not exceed an amount specified by the Secretary by regulation, but not less than—” for “shall not exceed—” in introductory provisions, substituted “$100” and “$200” for “$50” and “$100”, respectively, in subpar. (A), substituted “$200” for “$25” in subpar. (B), substituted “$200” for “$5” in subpar. (C), and substituted “; and” for period at end.
 
 Subsec. (a)(3). Pub. L. 103–182, §651(3), added par. (3).
 
-Subsec. (b). Pub. L. 103–182, §651(4), struck out “to diminish any dollar amount specified in subsection (a) of this section and” after “authorized by regulations” and substituted “subsection (a) of this section” for “such subsection” in two places.
+Subsec. (b). Pub. L. 103–182, §651(4), struck out “to diminish any dollar amount specified in subsection (a) of this section and” after “authorized by regulations” andsubstituted “subsection (a) of this section” for “such subsection” in two places.
 
 1988—Subsec. (a)(2)(B). Pub. L. 100–418 substituted “subheading 9804.00.30 or 9804.00.70” for “item 812.25 or 813.31”.
 
@@ -53,6 +59,10 @@ Subsec. (a)(2). Pub. L. 95–410, §205(b)(1)–(3), substituted in: subpar. (A)
 1961—Subsec. (a). Pub. L. 87–261 inserted “(b)(2) or” after “paragraph 1798”.
 
 1953—Act Aug. 8, 1953, (1) divided section into subsections; (2) increased from $1 to $3 the difference between deposited or assessed duties and actual duties which may be disregarded by the collector; (3) permitted free entry of bona fide gifts from persons outside the United States up to $10; (4) allowed persons to bring with them articles up to $10 in value for their personal use; (5) continued to allow free entry up to $1 in other cases; and (6) enabled the Secretary of the Treasury to reduce these amounts if he found such action necessary to protect the revenue.
+
+#### Effective Date of 1996 Amendment
+
+Section 3(b) of Pub. L. 104–295 provided that: “The amendments made by this section \[amending this section and sections 1401, 1431, 1504, 1508, 1509, 1515, 1592, and 1631 of this title and repealing section 1707 of this title\] shall apply as of December 8, 1993.”
 
 #### Effective Date of 1988 Amendment
 

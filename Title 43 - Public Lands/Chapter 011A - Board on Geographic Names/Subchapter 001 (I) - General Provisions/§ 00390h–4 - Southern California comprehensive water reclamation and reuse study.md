@@ -6,7 +6,7 @@ The Secretary is authorized to conduct a study to assess the feasibility of a co
 
 #### (b) Cooperation with State; Federal share
 
-The Secretary shall conduct the study authorized by this section in cooperation with theState of California and appropriate local and regional entities. The Federal share of the costs associated with this study shall not exceed 50 per centum of the total.
+The Secretary shall conduct the study authorized by this section in cooperation with the State of California and appropriate local and regional entities. The Federal share of the costs associated with this study shall not exceed 50 per centum of the total.
 
 #### (c) Report
 

@@ -2,7 +2,7 @@
 
 #### (a) Responsibilities of Federal agencies; program for identification, evaluation, nomination, and protection
 
-(1) The heads of all Federal agencies shall assume responsibility for the preservation of historic properties which are owned or controlled by such agency. Prior to acquiring, constructing, or leasing buildings for purposes of carryingout agency responsibilities, each Federal agency shall use, to the maximum extent feasible, historic properties available to the agency. Each agency shall undertake, consistent with the preservation of such properties and the mission of the agency and the professional standards established pursuant to section 470a(g) of this title, any preservation, as may be necessary to carry out this section.
+(1) The heads of all Federal agencies shall assume responsibility for the preservation of historic properties which are owned or controlled by such agency. Prior to acquiring, constructing, or leasing buildings for purposes of carrying out agency responsibilities, each Federal agency shall use, to the maximum extent feasible, historic properties available to the agency. Each agency shall undertake, consistent with the preservation of such properties and the mission of the agency and the professional standards established pursuant to section 470a(g) of this title, any preservation, as may be necessary to carry out this section.
 
 (2) Each Federal agency shall establish (unless exempted pursuant to section 470v of this title), in consultation with the Secretary, a preservation program for the identification, evaluation, and nomination to the National Register of Historic Places, and protection of historic properties. Such program shall ensure—
 
@@ -36,7 +36,7 @@ Consistent with the agency's missions and mandates, all Federal agencies shall c
 
 #### (e) Review of plans of transferees of surplus federally owned historic properties
 
-The Secretary shall review and approve the plans of transferees of surplus federally owned historic properties not later than ninety days after his receipt of such plans to ensure that the prehistorical, historical, architectural, or culturally significant values will be preserved or enhanced.
+The Secretary shall review and approve the plans of transferees of surplus federally owned historic properties not later than ninety daysafter his receipt of such plans to ensure that the prehistorical, historical, architectural, or culturally significant values will be preserved or enhanced.
 
 #### (f) Planning and actions to minimize harm to National Historic Landmarks
 
@@ -48,7 +48,7 @@ Each Federal agency may include the costs of preservation activities of such age
 
 #### (h) Annual preservation awards program
 
-The Secretary shall establish an annual preservation awards program under which he may make monetary awards in amounts of not to exceed $1,000 and provide citations for special achievement to officers and employees of Federal, State, and certified local governments inrecognition of their outstanding contributions to the preservation of historic resources. Such program may include the issuance of annual awards by the President of the United States to any citizen of the United States recommended for such award by the Secretary.
+The Secretary shall establish an annual preservation awards program under which he may make monetary awards in amounts of not to exceed $1,000 and provide citations for special achievement to officers and employees of Federal, State, and certified local governments in recognition of their outstanding contributions to the preservation of historic resources. Such program may include the issuance of annual awards by the President of the United States to any citizen of the United States recommended for such award by the Secretary.
 
 #### (i) Environmental impact statement
 
@@ -80,7 +80,7 @@ Subsec. (a)(2). Pub. L. 102–575, §4012(2), amended par. (2) generally. Prior 
 
 Subsec. (c). Pub. L. 102–575, §4006(b), substituted “section 470a(h)” for “section 470a(g)”.
 
-Subsecs. (k), (<i>l</i>). Pub. L. 102–575, §4011(3), added subsecs. (k) and (<i>l).</i>
+Subsecs. (k), (<i>l</i>). Pub. L. 102–575, §4011(3), added subsecs. (k) and (<i>l</i>).
 
 #### Section Referred to in Other Sections
 

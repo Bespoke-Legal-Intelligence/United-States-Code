@@ -6,7 +6,7 @@ The Administrator shall—
 
 &emsp;(1) develop arson detection techniques to assist Federal agencies and States and local jurisdictions in improving arson prevention, detection, and control;
 
-&emsp;(2) provide training and instructional materials in the skills and knowledge necessary to assist Federal, State, and local fire service and law enforcement personnel in arson prevention, detection, and control, with particularemphasis on the needs of volunteer firefighters for improved and more widely available arson training courses;
+&emsp;(2) provide training and instructional materials in the skills and knowledge necessary to assist Federal, State, and local fire service and law enforcement personnel in arson prevention, detection, and control, with particular emphasis on the needs of volunteer firefighters for improved and more widely available arson training courses;
 
 &emsp;(3) formulate methods for collection of arson data which would be compatible with methods of collection used for the uniform crime statistics of the Federal Bureau of Investigation;
 

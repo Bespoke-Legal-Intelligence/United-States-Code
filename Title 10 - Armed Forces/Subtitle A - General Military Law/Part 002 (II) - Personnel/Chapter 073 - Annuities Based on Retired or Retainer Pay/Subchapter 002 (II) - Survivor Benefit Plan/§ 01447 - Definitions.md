@@ -2,71 +2,129 @@
 
 In this subchapter:
 
-(1) The term “Plan” means the Survivor Benefit Plan established by this subchapter.
+&emsp;(1)
 
-(2) The term “base amount” means—
+Plan.—The term “Plan” means the Survivor Benefit Plan established by this subchapter.
 
-&emsp;(A) in the case of a person who dies after becoming entitled to retired pay, the amount of monthly retired pay (determined without regard to any reduction under section 1409(b)(2) of this title) to which the person—
+&emsp;(2)
 
-&emsp;&emsp;(i) was entitled when he became eligible for that pay; or
+Standard annuity.—The term “standard annuity” means an annuity provided by virtue of eligibility under section 1448(a)(1)(A) of this title.
 
-&emsp;&emsp;(ii) later became entitled by being advanced on the retired list, performing active duty, or being transferred from the temporary disability retired list to the permanent disability retired list;
+&emsp;(3)
 
-&emsp;(B) in the case of a person who would have become eligible for reserve-component retired pay but for the fact that he died before becoming 60 years of age, the amount of monthly retired pay for which the person would have been eligible—
+Reserve-component annuity.—The term “reserve-component annuity” means an annuity provided by virtue of eligibility under section 1448(a)(1)(B) of this title.
 
-&emsp;&emsp;(i) if he had been 60 years of age on the date of his death, for purposes of an annuity to become effective on the day after his death in accordance with a designation made under section 1448(e) of this title; or
+&emsp;(4)
 
-&emsp;&emsp;(ii) upon becoming 60 years of age (if he had lived to that age), for purposes of an annuity to become effective on the 60th anniversary of his birth in accordance with a designation made under section 1448(e) of this title; or
+Retired pay.—The term “retired pay” includes retainer pay paid under section 6330 of this title.
 
-&emsp;(C) any amount which is less than the amount otherwise applicable under clause (A) or (B) with respect to an annuity provided under the Plan but which is not less than $300 and which is designated by the person (with the concurrence of the person's spouse, if required under section 1448(a)(3) of this title) providing the annuity on or before (i) the first day for which he becomes eligible for retired pay, in the case of a person providing a standard annuity, or (ii) the end of the 90-day period beginning on the date on which he receives the notification required by section 12731(d) of this title that he has completed the years of service required for eligibility for reserve-component retired pay, in the case of a person providing a reserve-component annuity.
+&emsp;(5)
 
-(3) The term “widow” means the surviving wife of a person who, if not married to the person at the time he became eligible for retired pay—
+Reserve-component retired pay.—The term “reserve-component retired pay” means retired pay under chapter 1223 of this title (or under chapter 67 of this title as in effect before the effective date of the Reserve Officer Personnel Management Act).
 
-&emsp;(A) was married to him for at least one year immediately before his death; or
+&emsp;(6)
 
-&emsp;(B) is the mother of issue by that marriage.
+Base amount.—The term “base amount” means the following:
 
-(4) The term “widower” means the surviving husband of a person who, if not married to the person at the time she became eligible for retired pay—
+&emsp;&emsp;(A)
 
-&emsp;(A) was married to her for at least one year immediately before her death; or
+Full amount under standard annuity.—In the case of a person who dies after becoming entitled to retired pay, such term means the amount of monthly retired pay (determined without regard to any reduction under section 1409(b)(2) of this title) to which the person—
 
-&emsp;(B) is the father of issue by that marriage.
+&emsp;&emsp;&emsp;(i) was entitled when he became eligible for that pay; or
 
-(5) The term “dependent child” means a person who is—
+&emsp;&emsp;&emsp;(ii) later became entitled by being advanced on the retired list, performing active duty, or being transferred from the temporary disability retired list to the permanent disability retired list.
 
-&emsp;(A) unmarried;
+&emsp;&emsp;(B)
 
-&emsp;(B) (i) under 18 years of age; (ii) at least 18, but under 22, years of age and pursuing a full-time course of study or training in a high school, trade school, technical or vocational institute, junior college, college, university, or comparable recognized educational institution; or (iii) incapable of supporting himself because of a mental or physical incapacity existing before his eighteenth birthday or incurred on or after that birthday, but before his twenty-second birthday, while pursuing such a full-time course of study or training; and
+Full amount under reserve-component annuity.—In the case of a person who would have become eligible for reserve-component retired pay but for the fact that he died before becoming 60 years of age, such term means the amount of monthly retired pay for which the person would have been eligible—
 
-&emsp;(C) the child of a person to whom the Plan applies, including (i) an adopted child, and (ii) a stepchild, foster child, or recognized natural child who lived with that person in a regular parent-child relationship.
+&emsp;&emsp;&emsp;(i) if he had been 60 years of age on the date of his death, for purposes of an annuity to become effective on the day after his death in accordance with a designation made under section 1448(e) of this title; or
 
-> For the purpose of this paragraph, a child whose twenty-second birthday occurs before July 1 or after August 31 of a calendar year, and while he is regularly pursuing such a course of study or training, is considered to have become 22 years of age on the first day of July after that birthday. A child who is a student is considered not to have ceased to be a student during an interim between school years if the interim is not more than 150 days and if he shows to the satisfaction of the Secretary of Defense that he has a bona fide intention of continuing to pursue a course of study or training in the same or a different school during the school semester (or other period into which the school year is divided) immediately after the interim. Under this paragraph, a foster child, to qualify as the dependent child of a person to whom the Plan applies, must, at the time of the death of that person, also reside with, and receive over one-half of his support from, that person, and not be cared for under a social agency contract. The temporary absence of a foster child from the residence of that person, while he is a student as described in this paragraph, will not be considered to affect the residence of such a foster child.
+&emsp;&emsp;&emsp;(ii) upon becoming 60 years of age (if he had lived to that age), for purposes of an annuity to become effective on the 60th anniversary of his birth in accordance with a designation made under section 1448(e) of this title.
 
-(6) The term “former spouse” means the surviving former husband or wife of a person who is eligible to participate in the Plan.
+&emsp;&emsp;(C)
 
-(7) The term “court” has the meaning given that term by section 1408(a)(1) of this title.
+Reduced amount.—Such term means any amount less than the amount otherwise applicable under subparagraph (A) or (B) with respect to an annuity provided under the Plan but which is not less than $300 and which is designated by the person (with the concurrence of the person's spouse, if required under section 1448(a)(3) of this title) providing the annuity on or before—
 
-(8) The term “court order” means a court's final decree of divorce, dissolution, or annulment or a court ordered, ratified, or approved property settlement incident to such a decree (including a final decree modifying the terms of a previously issued decree of divorce, dissolution, or annulment or of a court ordered, ratified, or approved property settlement agreement incident to such previously issued decree).
+&emsp;&emsp;&emsp;(i) the first day for which he becomes eligible for retired pay, in the case of a person providing a standard annuity, or
 
-(9) The term “final decree” means a decree from which no appeal may be taken or from which no appeal has been taken within the time allowed for the taking of such appeals under the laws applicable to such appeals, or a decree from which timely appeal has been taken and such appeal has been finally decided under the laws applicable to such appeals.
+&emsp;&emsp;&emsp;(ii) the end of the 90-day period beginning on the date on which he receives the notification required by section 12731(d) of this title that he has completed the years of service required for eligibility for reserve-component retired pay, in the case of a person providing a reserve-component annuity.
 
-(10) The term “regular on its face”, when used in connection with a court order, means a court order that meets the conditions prescribed in section 1408(b)(2) of this title.
+&emsp;(7)
 
-(11) The term “retired pay” includes retainer pay paid under section 6330 of this title.
+Widow.—The term “widow” means the surviving wife of a person who, if not married to the person at the time he became eligible for retired pay—
 
-(12) The term “standard annuity” means an annuity provided by virtue of eligibility under section 1448(a)(1)(A) of this title.
+&emsp;&emsp;(A) was married to him for at least one year immediately before his death; or
 
-(13) The term “reserve-component annuity” means an annuity provided by virtue of eligibility under section 1448(a)(1)(B) of this title.
+&emsp;&emsp;(B) is the mother of issue by that marriage.
 
-(14) The term “reserve-component retired pay” means retired pay under chapter 1223 of this title (or under chapter 67 of this title as in effect before the effective date of the Reserve Officer Personnel Management Act).
+&emsp;(8)
 
-(Added Pub. L. 92–425, §1(3), Sept. 21, 1972, 86 Stat. 706; amended Pub. L. 94–496, §1(1), Oct. 14, 1976, 90 Stat. 2375; Pub. L. 95–397, title II, §201, Sept. 30, 1978, 92 Stat. 843; Pub. L. 96–402, §2, Oct. 9, 1980, 94 Stat. 1705; Pub. L. 97–252, title X, §1003(a), Sept. 8, 1982, 96 Stat. 735; Pub. L. 98–94, title IX, §941(c)(1), Sept. 24, 1983, 97 Stat. 653; Pub. L. 99–145, title VII, §§719(1), (2), 721(b), Nov. 8, 1985, 99 Stat. 675, 676; Pub. L. 99–348, title III, §301(a)(1), July 1, 1986, 100 Stat. 702; Pub. L. 99–661, div. A, title XIII, §1343(a)(8)(A), Nov. 14, 1986, 100 Stat. 3992; Pub. L. 100–180, div. A, title XII, §1231(17), Dec. 4, 1987, 101 Stat. 1161; Pub. L. 101–189, div. A, title XIV, §1407(a)(1)–(3), Nov. 29, 1989, 103 Stat. 1588; Pub. L. 101–510, div. A, title XIV, §1484(<i>l</i>)(4)(C)(i), Nov. 5, 1990, 104 Stat. 1720; Pub. L. 103–337, div. A, title XVI, §1671(d), Oct. 5, 1994, 108 Stat. 3014.)
+Widower.—The term “widower” means the surviving husband of a person who, if not married to the person at the time she became eligible for retired pay—
+
+&emsp;&emsp;(A) was married to her for at least one year immediately before her death; or
+
+&emsp;&emsp;(B) is the father of issue by that marriage.
+
+&emsp;(9)
+
+Surviving spouse.—The term “surviving spouse” means a widow or widower.
+
+&emsp;(10)
+
+Former spouse.—The term “former spouse” means the surviving former husband or wife of a person who is eligible to participate in the Plan.
+
+&emsp;(11)
+
+Dependent child.—
+
+&emsp;&emsp;(A)
+
+In general.—The term “dependent child” means a person who—
+
+&emsp;&emsp;&emsp;(i) is unmarried;
+
+&emsp;&emsp;&emsp;(ii) is (I) under 18 years of age, (II) at least 18, but under 22, years of age and pursuing a full-time course of study or training in a high school, trade school, technical or vocational institute, junior college, college, university, or comparable recognized educational institution, or (III) incapable of self support because of a mental or physical incapacity existing before the person's eighteenth birthday or incurred on or after that birthday, but before the person's twenty-second birthday, while pursuing such a full-time course of study or training; and
+
+&emsp;&emsp;&emsp;(iii) is the child of a person to whom the Plan applies, including (I) an adopted child, and (II) a stepchild, foster child, or recognized natural child who lived with that person in a regular parent-child relationship.
+
+&emsp;&emsp;(B)
+
+Special rules for college students.—For the purpose of subparagraph (A), a child whose twenty-second birthday occurs before July 1 or after August 31 of a calendar year, and while regularly pursuing such a course of study or training, is considered to have become 22 years of age on the first day of July after that birthday. A child who is a student is considered not to have ceased to be a student during an interim between school years if the interim is not more than 150 days and if the child shows to the satisfaction of the Secretary of Defense that the child has a bona fide intention of continuing to pursue a course of study or training in the same or a different school during the school semester (or other period into which the school year is divided) immediately after the interim.
+
+&emsp;&emsp;(C)
+
+Foster children.—A foster child, to qualify under this paragraph as the dependent child of a person to whom the Plan applies, must, at the time of the death of that person, also reside with, and receive over one-half of his support from, that person, and not be cared for under a social agency contract. The temporary absence of a foster child from the residence of that person, while a student as described in this paragraph, shall not be considered to affect the residence of such a foster child.
+
+&emsp;(12)
+
+Court.—The term “court” has the meaning given that term by section 1408(a)(1) of this title.
+
+&emsp;(13)
+
+Court order.—
+
+&emsp;&emsp;(A)
+
+In general.—The term “court order” means a court's final decree of divorce, dissolution, or annulment or a court ordered, ratified, or approved property settlement incident to such a decree (including a final decree modifying the terms of a previously issued decree of divorce, dissolution, annulment, or legal separation, or of a court ordered, ratified, or approved property settlement agreement incident to such previously issued decree).
+
+&emsp;&emsp;(B)
+
+Final decree.—The term “final decree” means a decree from which no appeal may be taken or from which no appeal has been taken within the time allowed for the taking of such appeals under the laws applicable to such appeals, or a decree from which timely appeal has been taken and such appeal has been finally decided under the laws applicable to such appeals.
+
+&emsp;&emsp;(C)
+
+Regular on its face.—The term “regular on its face”, when used in connection with a court order, means a court order that meets the conditions prescribed in section 1408(b)(2) of this title.
+
+(Added Pub. L. 92–425, §1(3), Sept. 21, 1972, 86 Stat. 706; amended Pub. L. 94–496, §1(1), Oct. 14, 1976, 90 Stat. 2375; Pub. L. 95–397, title II, §201, Sept. 30, 1978, 92 Stat. 843; Pub. L. 96–402, §2, Oct. 9, 1980, 94 Stat. 1705; Pub. L. 97–252, title X, §1003(a), Sept. 8, 1982, 96 Stat. 735; Pub. L. 98–94, title IX, §941(c)(1), Sept. 24, 1983, 97 Stat. 653; Pub. L. 99–145, title VII, §§719(1), (2), 721(b), Nov. 8, 1985, 99 Stat. 675, 676; Pub. L. 99–348, title III, §301(a)(1), July 1, 1986, 100 Stat. 702; Pub. L. 99–661, div. A, title XIII, §1343(a)(8)(A), Nov. 14, 1986, 100 Stat. 3992; Pub. L. 100–180, div. A, title XII, §1231(17), Dec. 4, 1987, 101 Stat. 1161; Pub. L. 101–189, div. A, title XIV, §1407(a)(1)–(3), Nov. 29, 1989, 103 Stat. 1588; Pub. L. 101–510, div. A, title XIV, §1484(<i>l</i>)(4)(C)(i), Nov. 5, 1990, 104 Stat. 1720; Pub. L. 103–337, div. A, title XVI, §1671(d), Oct. 5, 1994, 108 Stat. 3014; Pub. L. 104–201, div. A, title VI, §634, Sept. 23, 1996, 110 Stat. 2551.)
 
 #### References in Text
 
-Chapter 67 of this title as in effect before the effective date of the Reserve Officer Personnel Management Act, referred to in par. (14), means chapter 67 (§1331 et seq.) of this title prior to its transfer to part II of subtitle E of this title, its renumbering as chapter 1223, and its general revision by section 1662(j)(1) of Pub. L. 103–337. A new chapter 67 (§1331) of this title was added by section 1662(j)(7) of Pub. L. 103–337. For effective date of the Reserve Officer Personnel Management Act (Pub. L. 103–337, title XVI), see section 1691 of Pub. L. 103–337, set out as an Effective Date note under section 10001 of this title.
+Chapter 67 of this title as in effect before the effective date of the Reserve Officer Personnel Management Act, referred to in par. (5), means chapter 67 (§1331 et seq.) of this title prior to its transfer to part II of subtitle E of this title, its renumbering as chapter 1223, and its general revision by section 1662(j)(1) of Pub. L. 103–337. A new chapter 67 (§1331) of this title was added by section 1662(j)(7) of Pub. L. 103–337. For effective date of the Reserve Officer Personnel Management Act (Pub. L. 103–337, title XVI), see section 1691 of Pub. L. 103–337, set out as an Effective Date note under section 10001 of this title.
 
 #### Amendments
+
+1996—Pub. L. 104–201 amended section generally, making changes in the order, style, and substance of definitions of terms used in this subchapter and adding definition of “surviving spouse”.
 
 1994—Par. (2)(C). Pub. L. 103–337, §1671(d)(2), substituted “12731(d)” for “1331(d)”.
 
@@ -130,7 +188,7 @@ Effective Date.—Except as otherwise provided in this title, the amendments mad
 
 “(b)
 
-Prospective Benefits Only.—No benefit shall accrue to any person by reason of the enactment of this title for any period before the effective date under subsection (a).”
+Prospective Benefits Only.—No benefit shall accrue to any person by reason of the enactment of thistitle for any period before the effective date under subsection (a).”
 
 #### Effective Date of 1982 Amendment; Transition Provisions
 
@@ -166,13 +224,7 @@ Section 1 of Pub. L. 96–402 provided: “That this Act \[amending this section
 
 #### End of 90-Day Period With Respect to Certain Individuals
 
-Section 208 of Pub. L. 95–397, as amended by Pub. L. 96–107, title VIII, §816, Nov. 9, 1979, 93 Stat. 818, provided that: “With respect to any individual who—
-
-&emsp;“(1) would be eligible for retired pay under chapter 67 \[now 1223\] of title 10, United States Code, on the effective date of this title \[see Effective Date of 1978 Amendment note set out above\] but for the fact that such individual is under 60 years of age; or
-
-&emsp;“(2) receives, before January 1, 1980, a notification that such individual has completed the years of service required for eligibility for such retired pay;
-
-> the 90-day period referred to in section 1447(2)(C) of title 10, United States Code (as amended by section 201 of this Act), and in sections 1448(a)(2) and 1448(a)(4)(B) of title 10, United States Code (as amended by section 202(a) of this Act) shall be considered to end on March 31, 1980.”
+Section 208 of Pub. L. 95–397, as amended by Pub. L. 96–107, title VIII, §816, Nov. 9, 1979, 93 Stat. 818, provided that the 90-day period referred to in former sections 1447(2)(C) and 1448(a)(2) and (4)(B) of this title was to be considered to end on Mar. 31, 1980, for an individual who would have been eligible for retired pay under former chapter 67 of this title on the effective date of title II of Pub. L. 95–397 (see Effective Date of 1978 Amendment note above), but for the fact such individual was under 60 years of age, or for an individual who received before Jan. 1, 1980, a notification that such individual had completed the years of service required for eligibility for such retired pay.
 
 #### Section Referred to in Other Sections
 

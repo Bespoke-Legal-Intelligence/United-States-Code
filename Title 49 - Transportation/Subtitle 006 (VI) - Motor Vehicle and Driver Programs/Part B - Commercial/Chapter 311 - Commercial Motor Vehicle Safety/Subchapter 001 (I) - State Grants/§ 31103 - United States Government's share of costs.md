@@ -6,7 +6,9 @@ The Secretary of Transportation shall reimburse a State, from a grant made under
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

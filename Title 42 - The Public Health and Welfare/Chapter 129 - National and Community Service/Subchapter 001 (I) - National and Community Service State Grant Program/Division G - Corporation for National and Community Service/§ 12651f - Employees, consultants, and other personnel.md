@@ -94,13 +94,13 @@ The head of any Federal department or agency may detail on a reimbursable basis,
 
 #### (B) Compensation
 
-&emsp;&emsp;If a member of the staff appointed under subparagraph (A) was appointed without regard to the provisions described in clauses (i) and (ii) of subparagraph (A), the rate of compensation for such member may not exceed the maximum rate of basic pay payable for GS–13 of the General Schedule under section 5332 of title 5.
+&emsp;&emsp;If a member of the staff appointed under subparagraph (A) was appointed without regard to the provisions described in clauses (i) and (ii) of subparagraph (A), the rate of compensation for such member may not exceed the maximum rate of basic pay payablefor GS–13 of the General Schedule under section 5332 of title 5.
 
 (Pub. L. 101–610, title I, §195, as added and amended Pub. L. 103–82, title II, §§202(a), 203(a)(1)(B), Sept. 21, 1993, 107 Stat. 883, 891.)
 
 #### References in Text
 
-Section 8E of the Inspector General Act of 1978, referred to in subsec. (a), is section 8E of Pub. L. 95–452,as added by Pub. L. 103–82, title II, §202(g)(1), Sept. 21, 1993, 107 Stat. 889, which was renumbered section 8F of the Act by Pub. L. 103–204, §23(a)(3), Dec. 17, 1993, 107 Stat. 2408, and is set out in the Appendix to Title 5, Government Organization and Employees.
+Section 8E of the Inspector General Act of 1978, referred to in subsec. (a), is section 8E of Pub. L. 95–452, as added by Pub. L. 103–82, title II, §202(g)(1), Sept. 21, 1993, 107 Stat. 889, which was renumbered section 8F of the Act by Pub. L. 103–204, §23(a)(3), Dec. 17, 1993, 107 Stat. 2408, and is set out in the Appendix to Title 5, Government Organization and Employees.
 
 The provisions of title 5 governing appointments in the competitive service, referred to in subsecs. (b)(1) and (f)(4)(A)(i), are classified generally to section 3301 et seq. of Title 5.
 

@@ -12,7 +12,7 @@ The on-the-ground field offices, field supervisory offices, and regional offices
 
 #### References in Text
 
-The Bankhead-Jones Farm Tenant Act, referred to in subsec. (a), is act July 22, 1937, ch. 517, 50 Stat. 522, as amended. Title III of the Bankhead Jones Farm Tenant Act is classified generally to subchapter III (§1010 etseq.) of chapter 33 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1000 of Title 7 and Tables.
+The Bankhead-Jones Farm Tenant Act, referred to in subsec. (a), is act July 22, 1937, ch. 517, 50 Stat. 522, as amended. Title III of the Bankhead Jones Farm Tenant Act is classified generally to subchapter III (§1010 et seq.) of chapter 33 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1000 of Title 7 and Tables.
 
 Section 471 of this title, referred to in subsec. (a), was repealed by Pub. L. 94–579, title VII, §704(a), Oct. 21, 1976, 90 Stat. 2792.)
 
@@ -23,6 +23,10 @@ Section 471 of this title, referred to in subsec. (a), was repealed by Pub. L. 9
 #### Transfer of Functions
 
 For transfer of certain enforcement functions of Secretary or other official in Department of Agriculture under this subchapter to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, see note set out under section 1601 of this title.
+
+#### Land Conveyances Involving Joliet Army Ammunition Plant, Illinois
+
+Pub. L. 104–106, div. B, title XXIX, Feb. 10, 1996, 110 Stat. 594, provided that title XXIX could be cited as the “Illinois Land Conservation Act of 1995” and provided for conversion of Joliet Army Ammunition Plant to Midewin National Tallgrass Prairie, Illinois, to be managed by the Secretary of Agriculture as part of National Forest System, and for conveyance of certain real property at the Arsenal for a national cemetery, a Will County, Illinois, landfill, and industrial parks to replace all or a part of lost economic activity, with provisions prohibiting construction of title XXIX to restrict or lessen degree of cleanup required to be carried out under environmental laws, and provisions authorizing retention of real property used for environmental cleanup by Secretary of the Army until transfer occurs.
 
 #### Section Referred to in Other Sections
 

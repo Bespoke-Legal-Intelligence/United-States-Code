@@ -12,7 +12,7 @@ This section is derived primarily from second paragraph of section 593 of title 
 
 Words “shall be deemed guilty of a misdemeanor” were omitted in view of definition of misdemeanor in section 1 of this title.
 
-The bribery provisions of such sections were alike and indeed were patterned after section 593 of said title 12, U.S.C., 1940 ed., Banks and Banking, incorporated in this section and section 217 of this title. Therefore, and in the light of sections 952 and 1243 of title 12, U.S.C., 1940 ed., Banks and Banking, this section was written as a consolidated section without change of substance or effect and with only such changes of phraseology as were necessary to effect the consolidation and secure uniformity of style.
+The bribery provisions of such sections were alike and indeed were patterned after section 593 of said title 12, U.S.C., 1940 ed., Banks and Banking, incorporated in this section and section 217 of this title. Therefore, and in the light of sections 952 and 1243 of title 12, U.S.C.,1940 ed., Banks and Banking, this section was written as a consolidated section without change of substance or effect and with only such changes of phraseology as were necessary to effect the consolidation and secure uniformity of style.
 
 Other provisions of said sections 593, 952, 981, 1124, 1243 and 1314 of title 12, U.S.C., 1940 ed., are incorporated in sections 217, 655, 1014, 1908, and 1909 of this title.
 
@@ -20,7 +20,7 @@ Other provisions of said sections 593, 952, 981, 1124, 1243 and 1314 of title 12
 
 Section 1(b) of the International Banking Act of 1978, referred to in text, is classified to section 3101 of Title 12, Banks and Banking.
 
-Section 25 of the Federal Reserve Act, referred to in text, is classified to subchapter I (§601 et seq.) of chapter 6 of Title 12. Section 25(a) of the Federal ReserveAct, which is classified to subchapter II (§611 et seq.) of chapter 6 of Title 12, was renumbered section 25A of that act by Pub. L. 102–242, title I, §142(e)(2), Dec. 19, 1991, 105 Stat. 2281.
+Section 25 of the Federal Reserve Act, referred to in text, is classified to subchapter I (§601 et seq.) of chapter 6 of Title 12. Section 25(a) of the Federal Reserve Act, which is classified to subchapter II (§611 et seq.) of chapter 6 of Title 12, was renumbered section 25A of that act by Pub. L. 102–242, title I, §142(e)(2), Dec. 19, 1991, 105 Stat. 2281.
 
 #### Prior Provisions
 

@@ -2,7 +2,7 @@
 
 #### Codification
 
-Section, act Oct. 31, 1949, ch. 792, title IV, §425, as added Dec. 19, 1989, Pub. L. 101–239, title I, §1003(a), 103Stat. 2108, related to reduction of deficiency payments. See Effective and Termination Dates note below.
+Section, act Oct. 31, 1949, ch. 792, title IV, §425, as added Dec. 19, 1989, Pub. L. 101–239, title I, §1003(a), 103 Stat. 2108, related to reduction of deficiency payments. See Effective and Termination Dates note below.
 
 #### Effective and Termination Dates
 

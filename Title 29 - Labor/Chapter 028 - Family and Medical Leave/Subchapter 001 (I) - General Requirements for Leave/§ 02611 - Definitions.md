@@ -60,7 +60,7 @@ As used in this subchapter:
 
 &emsp;The term “health care provider” means—
 
-&emsp;&emsp;(A) a doctor of medicine or osteopathy who is authorized to practice medicine or surgery\(as appropriate) by the State in which the doctor practices; or
+&emsp;&emsp;(A) a doctor of medicine or osteopathy who is authorized to practice medicine or surgery (as appropriate) by the State in which the doctor practices; or
 
 &emsp;&emsp;(B) any other person determined by the Secretary to be capable of providing health care services.
 
@@ -118,5 +118,5 @@ Subchapter effective 6 months after Feb. 5, 1993, except that, in the case of co
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 2 section 1312; title 42 section 12631.
+This section is referred to in title 2 section 1312; title 3 section 412; title 42 section 12631.
 

@@ -12,7 +12,7 @@ Section 179, act May 26, 1924, ch. 190, §21(b), 43 Stat. 165, related to blank 
 
 Section 180, acts Mar. 4, 1929, ch. 690, §1(a)–(c), 45 Stat. 1551; June 24, 1929, ch. 40, 46 Stat. 41, related to reentry or attempted reentry of deported aliens. See sections 1101(g) and 1326 of this title.
 
-Sections 180a to 180d, act Mar. 4, 1929, ch. 690, §§2–5, 45 Stat. 1551, 1552, related to reentry or attempted reentry of deported aliens. See sections 1101, 1182, 1203, 1252 and 1325 of this title.
+Sections 180a to 180d, act Mar. 4, 1929, ch. 690, §§2–5, 45 Stat. 1551, 1552, related to reentry or attempted reentry of deported aliens. See sections 1101, 1182, 1203, and 1325 of this title.
 
 Section 181, act May 25, 1932, ch. 203, §7, 47 Stat. 166, related to reentry of deported aliens. See section 1326 of this title.
 

@@ -166,7 +166,7 @@ The Secretary shall, within 30 days after July 23, 1992, pay the full amount of 
 
 &emsp;Any funds that are returned or otherwise recovered by the Secretary pursuant to this subsection shall be available for expenditure for expenses pursuant to section 1087h of this title.
 
-(Pub. L. 89–329, title IV, §422, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1354; amended Pub. L. 100–203, title III, §§3001(a), 3002(a), Dec. 22, 1987, 101 Stat. 1330–36, 1330–38; Pub. L. 102–325, title IV, §§412, 416(p)(8), July 23, 1992, 106 Stat. 511, 527; Pub. L. 103–66, title IV, §§4041(a), (2)(A), 4042, Aug. 10, 1993, 107 Stat. 354, 357; Pub. L. 103–208, §2(c)(1), Dec. 20, 1993, 107 Stat. 2460.)
+(Pub. L. 89–329, title IV, §422, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1354; amended Pub. L. 100–203, title III, §§3001(a),3002(a), Dec. 22, 1987, 101 Stat. 1330–36, 1330–38; Pub. L. 102–325, title IV, §§412, 416(p)(8), July 23, 1992, 106 Stat. 511, 527; Pub. L. 103–66, title IV, §§4041(a), (2)(A), 4042, Aug. 10, 1993, 107 Stat. 354, 357; Pub. L. 103–208, §2(c)(1), Dec. 20, 1993, 107 Stat. 2460.)
 
 #### References in Text
 
@@ -178,7 +178,7 @@ Amendment by Pub. L. 103–208 (which was effective as if included in Pub. L. 10
 
 #### Prior Provisions
 
-A prior section 1072, Pub. L. 89–329, title IV, §422, Nov. 8, 1965, 79 Stat. 1236; Pub. L. 89–752, §11, Nov. 3, 1966, 80 Stat. 1243; Pub. L. 90–575, title I, §114(b), (c), Oct. 16, 1968, 82 Stat. 1021, 1022; Pub. L. 94–482, title I, §127(a), Oct. 12, 1976, 90 Stat. 2100; Pub. L. 95–43, §1(a)(11)–(13), June 15, 1977, 91 Stat. 213, 214; Pub. L. 95–561, title XIII, §1322(a), Nov. 1, 1978, 92 Stat. 2363; Pub. L. 96–374, title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1503; Pub. L. 99–272, title XVI, §16011, Apr. 7, 1986, 100 Stat. 339, authorized advances to establish or strengthen reserve funds of State and nonprofit private loan insuranceprograms, prior to the general revision of this part by Pub. L. 99–498.
+A prior section 1072, Pub. L. 89–329, title IV, §422, Nov. 8, 1965, 79 Stat. 1236; Pub. L. 89–752, §11, Nov. 3, 1966, 80 Stat. 1243; Pub. L. 90–575, title I, §114(b), (c), Oct. 16, 1968, 82 Stat. 1021, 1022; Pub. L. 94–482, title I, §127(a), Oct. 12, 1976, 90 Stat. 2100; Pub. L. 95–43, §1(a)(11)–(13), June 15, 1977, 91 Stat. 213, 214; Pub. L. 95–561, title XIII, §1322(a), Nov. 1, 1978, 92 Stat. 2363; Pub. L. 96–374, title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1503; Pub. L. 99–272, title XVI, §16011, Apr. 7, 1986, 100 Stat. 339, authorized advances to establish or strengthen reserve funds of State and nonprofit private loan insurance programs, prior to the general revision of this part by Pub. L. 99–498.
 
 #### Amendments
 

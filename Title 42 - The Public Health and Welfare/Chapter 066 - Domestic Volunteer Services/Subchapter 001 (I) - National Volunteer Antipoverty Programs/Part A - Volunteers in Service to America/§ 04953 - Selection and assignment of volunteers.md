@@ -36,7 +36,7 @@ The Director, on the receipt of applications by public or nonprofit private orga
 
 (4) The Director shall ensure that applications for service as a volunteer under this part are available to the public on request to the Corporation (including any State or regional offices of the Agency) <sup>2</sup> and that an individual making such request is informed of the manner in which such application is required to be submitted. A completed application may be submitted by any interested individual to, and shall be accepted by, any office of the Corporation.
 
-(5)(A) The Director shall provide for the assignment of each applicant approved as a volunteer under this part to a project or program that is, to the maximum extent practicable, consistent with the abilities, experiences, and preferences of such applicant that are set forth in the application described in paragraph (4) andthe needs and preferences of projects or programs approved for the assignment of such volunteers.
+(5)(A) The Director shall provide for the assignment of each applicant approved as a volunteer under this part to a project or program that is, to the maximum extent practicable, consistent with the abilities, experiences, and preferences of such applicant that are set forth in the application described in paragraph (4) and the needs and preferences of projects or programs approved for the assignment of such volunteers.
 
 (B) In carrying out subparagraph (A), the Director shall utilize the information system established under paragraph (2)(B).
 
@@ -178,7 +178,7 @@ Subsec. (f). Pub. L. 101–204, §101(b)(1), (d)(2)(C), redesignated subsec. (e)
 
 Subsec. (g). Pub. L. 101–204, §101(b)(1), redesignated former subsec. (f) as (g).
 
-1986—Subsec. (b). Pub. L. 99–551 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The Director, wherever feasible and appropriate, shall assign low-income community volunteers to serve in their home communities in teams with nationally recruited specialist volunteers. The Director shall make efforts to assign volunteers to serve in their home communities or in nearby communities and shall make national efforts to attract other volunteers to serve in the VISTA program.”
+1986—Subsec. (b). Pub. L. 99–551 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The Director, wherever feasible and appropriate,shall assign low-income community volunteers to serve in their home communities in teams with nationally recruited specialist volunteers. The Director shall make efforts to assign volunteers to serve in their home communities or in nearby communities and shall make national efforts to attract other volunteers to serve in the VISTA program.”
 
 1984—Subsec. (a). Pub. L. 98–288, §4(a)(1), inserted “in the local communities in which the volunteers were recruited” and inserted “, including work” in provisions before par. (1).
 
@@ -196,7 +196,7 @@ Subsec. (e). Pub. L. 98–288, §4(c)(1)(A), redesignated subsec. (c) as (e).
 
 Subsec. (f). Pub. L. 98–288, §4(c)(1)(A), (d), redesignated subsec. (d) as (f), and substituted “work in a program or project in any community unless the application for such program or project contains evidence of local support and” for “duties or work in a program or project in any State unless such program or project”.
 
-1979—Subsec. (b). Pub. L. 96–143, §2(a), substituted “Not later than 30 days after” for “Prior to” and inserted provisions that the Director offer to provide each volunteer enrolled for a period of full-time service of not less than one year under this subchapter, and,upon the request of such volunteer, provide such volunteer with an individual and updated plan as described in the preceding two sentences.
+1979—Subsec. (b). Pub. L. 96–143, §2(a), substituted “Not later than 30 days after” for “Prior to” and inserted provisions that the Director offer to provide each volunteer enrolled for a period of full-time service of not less than one year under this subchapter, and, upon the request of such volunteer, provide such volunteer with an individual and updated plan as described in the preceding two sentences.
 
 Subsec. (d). Pub. L. 96–143, §2(b), inserted “in a program or project” after “work” and “or project” after “program” and inserted provisions requiring notification by a Governor or other chief executive officer to the Director that such Governor or other chief executive officer has disapproved a program or project under this section and requiring the Director to terminate a program or project under this section in the event of a timely request by the Governor or other chief executive officer not later than 30 days after the date such request is received or at such date agreed upon by the Director and such Governor or other chief executive officer.
 

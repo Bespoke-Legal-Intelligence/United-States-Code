@@ -96,7 +96,7 @@ An election under subsection (a) may be made or revoked at any time before the e
 
 #### Prior Provisions
 
-A prior section 121 was renumbered section 137 of this title.
+A prior section 121 was renumbered section 138 of this title.
 
 #### Amendments
 
@@ -108,7 +108,7 @@ A prior section 121 was renumbered section 137 of this title.
 
 Subsec. (a). Pub. L. 95–600, §404(a), substituted “55” for “65”, “5-year” for “8-year”, and “3 years” for “5 years”.
 
-Subsec. (b). Pub. L. 95–600, §404(a), in par. (1) substituted provisions respecting dollar limitations foramount of gain for provisions setting forth applicable limitations where the adjusted sales price exceeds $35,000 and added par. (3).
+Subsec. (b). Pub. L. 95–600, §404(a), in par. (1) substituted provisions respecting dollar limitations for amount of gain for provisions setting forth applicable limitations where the adjusted sales price exceeds $35,000 and added par. (3).
 
 Subsec. (d)(2). Pub. L. 95–600, §404(c)(1), substituted “5-year period” for “8-year period”.
 

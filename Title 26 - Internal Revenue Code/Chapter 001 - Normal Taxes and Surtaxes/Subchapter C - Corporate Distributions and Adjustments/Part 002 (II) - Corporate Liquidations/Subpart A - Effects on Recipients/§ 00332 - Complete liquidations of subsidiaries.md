@@ -34,7 +34,7 @@ Section 1804(e)(6)(B) of Pub. L. 99–514 provided that:
 
 “(i)
 
-In general.—Except as provided in clause (iii), the amendment made by subparagraph (A) \[amending this section\] shall apply with respect to plans of complete liquidation adopted after March 28, 1985.
+In general.—Except as provided in clause (iii), the amendment made by subparagraph (A) \[amendingthis section\] shall apply with respect to plans of complete liquidation adopted after March 28, 1985.
 
 “(ii)
 

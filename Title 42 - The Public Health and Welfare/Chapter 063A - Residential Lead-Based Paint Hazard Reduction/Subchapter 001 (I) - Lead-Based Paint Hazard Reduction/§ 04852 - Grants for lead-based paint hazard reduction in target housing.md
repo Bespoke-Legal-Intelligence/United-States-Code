@@ -2,7 +2,13 @@
 
 #### (a) General authority
 
-The Secretary is authorized to provide grants to eligible applicants to evaluate and reduce lead-based paint hazards in priority housing that is not federally assisted housing, federally owned housing, or public housing, in accordance with the provisions of this section.
+The Secretary is authorized to provide grants to eligible applicants to evaluate and reduce lead-based paint hazards in housing that is not federally assisted housing, federally owned housing, or public housing, in accordance with the provisions of this section. Grants shall only be made under this section to provide assistance for housing which meets the following criteria—
+
+&emsp;(1) for grants made to assist rental housing, at least 50 percent of the units must be occupied by or made available to families with incomes at or below 50 percent of the area median income level and the remaining units shall be occupied or made available to families with incomes at or below 80 percent of the area median income level, and in all cases the landlord shall give priority in renting units assisted under this section, for not less than 3 years following the completion of lead abatement activities, to families with a child under the age of six years, except that buildings with five or more units may have 20 percent of the units occupied by families with incomes above 80 percent of area median income level;
+
+&emsp;(2) for grants made to assist housing owned by owner-occupants, all units assisted with grants under this section shall be the principal residence of families with income at or below 80 percent of the area median income level, and not less than 90 percent of the units assisted with grants under this section shall be occupied by a child under the age of six years or shall be units where a child under the age of six years spends a significant amount of time visiting; and
+
+&emsp;(3) notwithstanding paragraphs (1) and (2), Round II grantees who receive assistance under this section may use such assistance for priority housing.
 
 #### (b) Eligible applicants
 
@@ -18,7 +24,7 @@ To receive a grant under this section, a State or unit of local government shall
 
 &emsp;(3) a description of the planned activities to be undertaken with grants under this section, including an estimate of the amount to be allocated to each activity;
 
-&emsp;(4) a description of the forms of financial assistance to owners and occupants of priority housing that will be provided through grants under this section; and
+&emsp;(4) a description of the forms of financial assistance to owners and occupants of housing that will be provided through grants under this section; and
 
 &emsp;(5) such assurances as the Secretary may require regarding the applicant's capacity to carry out the activities.
 
@@ -26,7 +32,7 @@ To receive a grant under this section, a State or unit of local government shall
 
 The Secretary shall award grants under this section on the basis of the merit of the activities proposed to be carried out and on the basis of selection criteria, which shall include—
 
-&emsp;(1) the extent to which the proposed activities will reduce the risk of lead-based paint poisoning to children under the age of 6 who reside in priority housing;
+&emsp;(1) the extent to which the proposed activities will reduce the risk of lead-based paint poisoning to children under the age of 6 who reside in housing;
 
 &emsp;(2) the degree of severity and extent of lead-based paint hazards in the jurisdiction to be served;
 
@@ -40,11 +46,11 @@ The Secretary shall award grants under this section on the basis of the merit of
 
 A grant under this section may be used to—
 
-&emsp;(1) perform risk assessments and inspections in priority housing;
+&emsp;(1) perform risk assessments and inspections in housing;
 
-&emsp;(2) provide for the interim control of lead-based paint hazards in priority housing;
+&emsp;(2) provide for the interim control of lead-based paint hazards in housing;
 
-&emsp;(3) provide for the abatement of lead-based paint hazards in priority housing;
+&emsp;(3) provide for the abatement of lead-based paint hazards in housing;
 
 &emsp;(4) provide for the additional cost of reducing lead-based paint hazards in units undergoing renovation funded by other sources;
 
@@ -52,11 +58,11 @@ A grant under this section may be used to—
 
 &emsp;(6) monitor the blood-lead levels of workers involved in lead hazard reduction activities funded under this section;
 
-&emsp;(7) assist in the temporary relocation of families forced to vacate priority housing while lead hazard reduction measures are being conducted;
+&emsp;(7) assist in the temporary relocation of families forced to vacate housing while lead hazard reduction measures are being conducted;
 
 &emsp;(8) educate the public on the nature and causes of lead poisoning and measures to reduce exposure to lead, including exposure due to residential lead-based paint hazards;
 
-&emsp;(9) test soil, interior surface dust, and the blood-lead levels of children under the age of 6 residing in priority housing after lead-based paint hazard reduction activity has been conducted, to assure that such activity does not cause excessive exposures to lead; and
+&emsp;(9) test soil, interior surface dust, and the blood-lead levels of children under the age of 6 residing in housing after lead-based paint hazard reduction activity has been conducted, to assure that such activity does not cause excessive exposures to lead; and
 
 &emsp;(10) carry out such other activities that the Secretary determines appropriate to promote the purposes of this chapter.
 
@@ -116,7 +122,7 @@ Effective 2 years after the date of promulgation of regulations under section 26
 
 #### (1) In general
 
-&emsp;For purposes of environmental review, decisionmaking, and action pursuant to the National Environmental Policy Act of 1969 \[42 U.S.C. 4321 et seq.\] and other provisions of law that further the purposes of such Act, a grant under this section shall be treated as assistance under the HOME Investment Partnership <sup>1</sup> Act, established under title II of the Cranston-Gonzalez National Affordable Housing Act \[42 U.S.C. 12721 et seq.\], and shall be subject to the regulations promulgated by the Secretary to implement section 288 of such Act \[42 U.S.C. 12838\].
+&emsp;For purposes of environmental review, decisionmaking, and action pursuant to the National Environmental Policy Act of 1969 \[42 U.S.C. 4321 et seq.\] and other provisions of law that further the purposes of such Act, a grant under this section shall be treated as assistance under the HOME Investment Partnership <sup>1</sup> Act, established under title II of the Cranston-Gonzalez National Affordable Housing Act \[42 U.S.C. 12721 et seq.\], and shall besubject to the regulations promulgated by the Secretary to implement section 288 of such Act \[42 U.S.C. 12838\].
 
 #### (2) Applicability
 
@@ -130,7 +136,7 @@ Effective 2 years after the date of promulgation of regulations under section 26
 
 For the purposes of carrying out this chapter, there are authorized to be appropriated $125,000,000 for fiscal year 1993 and $250,000,000 for fiscal year 1994.
 
-(Pub. L. 102–550, title X, §1011, Oct. 28, 1992, 106 Stat. 3901; Pub. L. 103–233, title III, §305(a), Apr. 11, 1994, 108 Stat. 370.)
+(Pub. L. 102–550, title X, §1011, Oct. 28, 1992, 106 Stat. 3901; Pub. L. 103–233, title III, §305(a), Apr. 11, 1994, 108 Stat. 370; Pub. L. 104–134, title I, §101(e) \[title II, §217\], Apr. 26, 1996, 110 Stat. 1321–257, 1321–290; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.)
 
 #### References in Text
 
@@ -140,11 +146,15 @@ This subchapter, referred to in subsec. (i), was in the original “this subtitl
 
 The National Environmental Policy Act of 1969, referred to in subsec. (<i>o</i>)(1), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of this title and Tables.
 
-The Cranston-Gonzalez National Affordable Housing Act, referred to in subsec. (<i>o</i>)(1), is Pub. L. 101–625, Nov.28, 1990, 104 Stat. 4079, as amended. Title II of the Act, known as the HOME Investment Partnerships Act, is classified generally to subchapter II (§12721 et seq.) of chapter 130 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 12701 of this title and Tables.
+The Cranston-Gonzalez National Affordable Housing Act, referred to in subsec. (<i>o</i>)(1), is Pub. L. 101–625, Nov. 28, 1990, 104 Stat. 4079, as amended. Title II of the Act, known as the HOME Investment Partnerships Act, is classified generally to subchapter II (§12721 et seq.) of chapter 130 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 12701 of this title and Tables.
 
 The Departments of Veterans Affairs and Housing and Urban Development, and Independent Agencies Appropriations Act, 1992, referred to in subsec. (<i>o</i>)(2)(B), is Pub. L. 102–139, Oct. 28, 1991, 105 Stat. 736. Title II of the Act relates to appropriations for the Department of Housing and Urban Development. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
+
+1996—Subsec. (a). Pub. L. 104–134, §101(e) \[title II, §217\], substituted “hazards in housing” for “hazards in priority housing” and inserted at end “Grants shall only be made under this section to provide assistance for housing which meets the following criteria—” and pars. (1) to (3).
+
+Subsecs. (c)(4), (d)(1), (e)(1) to (3), (7), (9). Pub. L. 104–134, §101(e) \[title II, §217(a)\], substituted “housing” for “priority housing”.
 
 1994—Subsecs. (<i>o</i>), (p). Pub. L. 103–233 added subsec. (<i>o</i>) and redesignated former subsec. (<i>o</i>) as (p).
 

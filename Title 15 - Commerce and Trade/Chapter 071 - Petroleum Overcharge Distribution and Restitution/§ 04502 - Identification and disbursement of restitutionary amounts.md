@@ -10,7 +10,7 @@
 
 > shall be consistent with the provisions of this chapter.
 
-(2) Nothing in this section shall affect the settlement approved on July 7, 1986, in In Re: theDepartment of Energy Stripper Well Exemption Litigation, M.D.L. No. 378, in the United States District Court for the District of Kansas.
+(2) Nothing in this section shall affect the settlement approved on July 7, 1986, in In Re: the Department of Energy Stripper Well Exemption Litigation, M.D.L. No. 378, in the United States District Court for the District of Kansas.
 
 #### (b) Disbursement of restitutionary amounts as direct restitution to injured persons
 

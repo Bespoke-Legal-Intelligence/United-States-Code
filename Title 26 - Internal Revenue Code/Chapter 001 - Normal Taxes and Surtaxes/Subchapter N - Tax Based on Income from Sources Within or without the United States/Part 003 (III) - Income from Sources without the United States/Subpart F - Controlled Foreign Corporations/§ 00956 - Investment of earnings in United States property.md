@@ -18,7 +18,13 @@ In the case of any controlled foreign corporation, the amount determined under t
 
 #### (1) Applicable earnings
 
-&emsp;For purposes of this section, the term “applicable earnings” has the meaning given to such term by section 956A(b), except that the provisions of such section excluding earnings and profits accumulated in taxable years beginning before October 1, 1993, shall be disregarded.
+&emsp;For purposes of this section, the term “applicable earnings” means, with respect to any controlled foreign corporation, the sum of—
+
+&emsp;&emsp;(A) the amount (not including a deficit) referred to in section 316(a)(1), and
+
+&emsp;&emsp;(B) the amount referred to in section 316(a)(2),
+
+> &emsp;but reduced by distributions made during the taxable year and by earnings and profits described in section 959(c)(1).
 
 #### (2) Special rule for U.S. property acquired before corporation is a controlled foreign corporation
 
@@ -26,7 +32,13 @@ In the case of any controlled foreign corporation, the amount determined under t
 
 #### (3) Special rule where corporation ceases to be controlled foreign corporation
 
-&emsp;Rules similar to the rules of section 956A(e) shall apply for purposes of this section.
+&emsp;If any foreign corporation ceases to be a controlled foreign corporation during any taxable year—
+
+&emsp;&emsp;(A) the determination of any United States shareholder's pro rata share shall be made on the basis of stock owned (within the meaning of section 958(a)) by such shareholder on the last day during the taxable year on which the foreign corporation is a controlled foreign corporation,
+
+&emsp;&emsp;(B) the average referred to in subsection (a)(1)(A) for such taxable year shall be determined by only taking into account quarters ending on or before such last day, and
+
+&emsp;&emsp;(C) in determining applicable earnings, the amount taken into account by reason of being described in paragraph (2) of section 316(a) shall be the portion of the amount so described which is allocable (on a pro rata basis) to the part of such year during which the corporation is a controlled foreign corporation.
 
 #### (c) United States property defined
 
@@ -96,9 +108,13 @@ For purposes of subsection (a), a controlled foreign corporation shall, under re
 
 The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this section, including regulations to prevent the avoidance of the provisons <sup>1</sup> of this section through reorganizations or otherwise.
 
-(Added Pub. L. 87–834, §12(a), Oct. 16, 1962, 76 Stat. 1015; amended Pub. L. 94–455, title X, §1021(a), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1618, 1834; Pub. L. 98–369, div. A, title I, §123(b), title VIII, §801(d)(8), July 18, 1984, 98 Stat. 646, 996; Pub. L. 99–514, title XVIII, §1810(c)(1), Oct. 22, 1986, 100 Stat. 2824; Pub. L. 103–66, title XIII, §13232(a), (b), Aug. 10, 1993, 107 Stat. 501.)
+(Added Pub. L. 87–834, §12(a), Oct. 16, 1962, 76 Stat. 1015; amended Pub. L. 94–455, title X, §1021(a), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1618, 1834; Pub. L. 98–369, div. A, title I, §123(b), title VIII, §801(d)(8), July 18, 1984, 98 Stat. 646, 996; Pub. L. 99–514, title XVIII, §1810(c)(1), Oct. 22, 1986, 100 Stat. 2824; Pub. L. 103–66, title XIII, §13232(a), (b), Aug. 10, 1993, 107 Stat. 501; Pub. L. 104–188, title I, §1501(b)(2), (3), Aug. 20, 1996, 110 Stat. 1825.)
 
 #### Amendments
+
+1996—Subsec. (b)(1). Pub. L. 104–188, §1501(b)(2), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “For purposes of this section, the term ‘applicable earnings’ has the meaning given to such term by section 956A(b), except that the provisions of such section excluding earnings and profits accumulated in taxable years beginning before October 1, 1993, shall be disregarded.”
+
+Subsec. (b)(3). Pub. L. 104–188, §1501(b)(3), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Rules similar to the rules of section 956A(e) shall apply for purposes of this section.”
 
 1993—Subsec. (a). Pub. L. 103–66, §13232(a)(2), added subsec. (a) and struck out former subsec. (a) which consisted of introductory provisions and pars. (1) to (3) setting out general rules for calculating amount of earnings of a controlled foreign corporation invested in United States and pro rata share of the increase for any taxable year in earnings of such a corporation invested in United States property.
 
@@ -116,6 +132,10 @@ Subsec. (b)(3). Pub. L. 98–369, §123(b), added par. (3).
 
 Subsec. (c). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–188 applicable to taxable years of foreign corporations beginning after Dec. 31, 1996, and to taxable years of United States shareholders within which or with which such taxable years of foreign corporations end, see section 1501(d) of Pub. L. 104–188, set out as a note under section 904 of this title.
+
 #### Effective Date of 1993 Amendment
 
 Amendment by Pub. L. 103–66 applicable to taxable years of controlled foreign corporations beginning after Sept. 30, 1993, and to taxable years of United States shareholders in which or with which such taxable years of controlled foreign corporations end, see section 13232(d) of Pub. L. 103–66, set out as a note under section 951 of this title.
@@ -128,7 +148,7 @@ Amendment by Pub. L. 99–514 effective, except as otherwise provided, as if inc
 
 Amendment by section 123(b) of Pub. L. 98–369 applicable to accounts receivable and evidences of indebtedness transferred after Mar. 1, 1984, in taxable years ending after such date, with an exception, see section 123(c) of Pub. L. 98–369, set out as a note under section 864 of this title.
 
-Amendment by section 801(d)(8) of Pub. L. 98–369 applicable to transactions after Dec. 31, 1984, in taxableyears ending after such date, see section 805(a)(1) of Pub. L. 98–369, set out as an Effective Date note under section 921 of this title.
+Amendment by section 801(d)(8) of Pub. L. 98–369 applicable to transactions after Dec. 31, 1984, in taxable years ending after such date, see section 805(a)(1) of Pub. L. 98–369, set out as an Effective Date note under section 921 of this title.
 
 #### Effective Date of 1976 Amendment
 
@@ -140,7 +160,7 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 864, 902, 951, 955, 956A, 958, 964, 4916 of this title.
+This section is referred to in sections 864, 902, 951, 955, 958, 964, 4916 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “provisions”.</i>
 

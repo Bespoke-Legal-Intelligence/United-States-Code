@@ -1,14 +1,16 @@
 ### §1006a. Loans or advancements for financing local share of costs; repayment; interest; maximum amount
 
-The Secretary is authorized to make loans or advancements (a) to local organizations to finance the local share of costs of carrying out works of improvement provided for in this chapter, and (b) to State and local agencies to finance the local share of costs of carrying out works of improvement (as defined in section 1002 of this title) in connection with the eleven watershed improvement programs authorized by section 13 of the Act of December 22, 1944 (58 Stat. 887), as amended and supplemented: <i>Provided</i>, That the works of improvement in connection with said eleven watershed improvement programs shall be integral parts of watershed or subwatershed work plans agreed upon by the Secretary of Agriculture and the concerned State and local agencies. Such loans or advancements shall be made under contracts or agreements which will provide, under such terms and conditions as the Secretary deems appropriate, for the repayment thereof in not more than fifty years from the date when the principal benefits of the works of improvement first become available, with interest at the average rate, as determined by the Secretary of the Treasury, payable by the Treasury upon its marketable public obligations outstanding at the beginning of the fiscal year in which the loan or advancement is made, which are neither due nor callable for redemption for fifteen years from date of issue. With respect to any single plan for works of improvement, the amount of any such loan or advancement shall not exceed $10,000,000.
+The Secretary is authorized to make loans or advancements (a) to local organizations to finance the local share of costs of carrying out works of improvement provided for in this chapter, and (b) to State and local agencies to finance the local share of costs of carrying out works of improvement (as defined in section 1002 of this title) in connection with the eleven watershed improvement programs authorized by section 13 of the Act of December 22, 1944 (58 Stat. 887), as amended and supplemented: <i>Provided</i>, That the works of improvement in connection with said eleven watershed improvement programs shall be integral parts of watershed or subwatershed work plans agreed upon by the Secretary of Agriculture and the concerned State and local agencies. A loan or advance under this section shall be made under a contract or agreement that provides, under such terms and conditions as the Secretary considers appropriate, for the repayment of the loan or advance in not more than 50 years from the date when the principal benefits of the works of improvement first become available, with interest at a rate not to exceed the current market yield for outstanding municipal obligations with remaining periods to maturity comparable to the average maturity for the loan, adjusted to the nearest 1/8 of 1 percent. With respect to any single plan for works of improvement, the amount of any such loan or advancement shall not exceed $10,000,000.
 
-(Aug. 4, 1954, ch. 656, §8, as added Aug. 7, 1956, ch. 1027, §1(g), 70 Stat. 1090; amended May 13, 1960, Pub. L. 86–468, §1, 74 Stat. 131; Sept. 29, 1977, Pub. L. 95–113, title XV, §1508, 91 Stat. 1022.)
+(Aug. 4, 1954, ch. 656, §8, as added Aug. 7, 1956, ch. 1027, §1(g), 70 Stat. 1090; amended May 13, 1960, Pub. L. 86–468, §1, 74 Stat. 131; Sept. 29, 1977, Pub. L. 95–113, title XV, §1508, 91 Stat. 1022; Apr. 4, 1996, Pub. L. 104–127, title VII, §791(b), 110 Stat. 1151.)
 
 #### References in Text
 
 Section 13 of the Act of December 22, 1944 (58 Stat. 887), as amended and supplemented, referred to in text, is section 13 of act Dec. 22, 1944, ch. 665, 58 Stat. 887, which was not classified to the Code.
 
 #### Amendments
+
+1996—Pub. L. 104–127 added second sentence and struck out former second sentence which read as follows: “Such loans or advancements shall be made under contracts or agreements which will provide, under suchterms and conditions as the Secretary deems appropriate, for the repayment thereof in not more than fifty years from the date when the principal benefits of the works of improvement first become available, with interest at the average rate, as determined by the Secretary of the Treasury, payable by the Treasury upon its marketable public obligations outstanding at the beginning of the fiscal year in which the loan or advancement is made, which are neither due nor callable for redemption for fifteen years from date of issue.”
 
 1977—Pub. L. 95–113 substituted “$10,000,000” for “five million dollars” as the maximum amount of a loan or advancement for any single plan for works of improvement.
 
@@ -28,5 +30,5 @@ Section as applicable to all works of improvement and plans for such works under
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1004, 1007, 3811, 3821 of this title; title 7 section 1988.
+This section is referred to in sections 1004, 1007, 3811, 3821 of this title.
 

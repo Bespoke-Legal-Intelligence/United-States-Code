@@ -24,15 +24,23 @@
 
 (d) The Under Secretary of Defense (Comptroller) takes precedence in the Department of Defense after the Under Secretary of Defense for Policy.
 
-(e) The Under Secretary of Defense (Comptroller) shall ensure that the Committees on Armed Services and the Committees on Appropriations of the Senate and House of Representatives are each informed, in a timely manner, regarding all matters relating to the budgetary, fiscal, and analytic activities of the Department of Defense that are under the supervision of the Under Secretary of Defense (Comptroller).
+(e)(1) The Under Secretary of Defense (Comptroller) shall ensure that each congressional committee specified in paragraph (2) is informed, in a timely manner, regarding all matters relating to the budgetary, fiscal, and analytic activities of the Department of Defense that are under the supervision of the Under Secretary of Defense (Comptroller).
 
-(Added Pub. L. 99–433, title I, §107, Oct. 1, 1986, 100 Stat. 998, §137; renumbered §135 and amended Pub. L. 103–160, div. A, title IX, §§901(a)(2), 902(a)(1), (b), Nov. 30, 1993, 107 Stat. 1726, 1727; Pub. L. 103–337, div. A, title IX, §903(a)(1), (2), Oct. 5, 1994, 108 Stat. 2823.)
+(2) The committees referred to in paragraph (1) are—
+
+&emsp;(A) the Committee on Armed Services and the Committee on Appropriations of the Senate; and
+
+&emsp;(B) the Committee on National Security and the Committee on Appropriations of the House of Representatives.
+
+(Added Pub. L. 99–433, title I, §107, Oct. 1, 1986, 100 Stat. 998, §137; renumbered §135 and amended Pub. L. 103–160, div. A, title IX, §§901(a)(2), 902(a)(1), (b), Nov. 30, 1993, 107 Stat. 1726, 1727; Pub. L. 103–337, div. A, title IX, §903(a)(1), (2), Oct. 5, 1994, 108 Stat. 2823; Pub. L. 104–106, div. A, title XV, §1502(a)(6), Feb. 10, 1996, 110 Stat. 502.)
 
 #### Prior Provisions
 
 A prior section 135 was renumbered section 137 of this title.
 
 #### Amendments
+
+1996—Subsec. (e). Pub. L. 104–106 designated existing provisions as par. (1), substituted “each congressional committee specified in paragraph (2) is” for “the Committees on Armed Services and the Committees on Appropriations of the Senate and House of Representatives are each”, and added par. (2).
 
 1994—Pub. L. 103–337, §903(a)(2), substituted “Under Secretary of Defense (Comptroller)” for “Comptroller” as section catchline.
 
@@ -52,7 +60,9 @@ Subsec. (e). Pub. L. 103–160, §902(b), added subsec. (e).
 
 Section 903(d) of Pub. L. 103–337 provided that: “Any reference to the Comptroller of the Department of Defense in any provision of law other than title 10, United States Code, or in any rule, regulation, or other paper of the United States shall be treated as referring to the Under Secretary of Defense (Comptroller).”
 
-Committee on Armed Services of House of Representatives treated as referring to Committee on National Security of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+#### Order of Succession
+
+For order of succession in event of death, disability, or resignation of Secretary, see Ex. Ord. No. 13000, Apr. 24, 1996, 61 F.R. 18483, set out as a note under section 3347 of Title 5, Government Organization and Employees.
 
 #### Section Referred to in Other Sections
 

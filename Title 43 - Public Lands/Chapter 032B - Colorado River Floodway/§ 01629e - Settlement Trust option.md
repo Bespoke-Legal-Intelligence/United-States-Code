@@ -42,7 +42,7 @@
 
 #### (c) Savings
 
-(1) The provisions of this chapter shall continue to apply to any land or interest in land received from the Federal Government pursuant to this chapter and later conveyed to a Settlement Trust as if the land or interest in land were still held by the Native Corporation that conveyed the land or interest in land.
+(1) The provisions of this chapter shall continue to apply to any land or interest in land received from the Federal Government pursuantto this chapter and later conveyed to a Settlement Trust as if the land or interest in land were still held by the Native Corporation that conveyed the land or interest in land.
 
 (2) No timber resources subject to section 1606(i) of this title conveyed to a Settlement Trust shall be sold, exchanged, or otherwise conveyed except as necessary to—
 

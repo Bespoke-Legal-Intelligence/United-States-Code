@@ -14,7 +14,9 @@ Public Records.—Except as provided in subpart II of this part, copies of tarif
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -32,7 +34,7 @@ Aug. 23, 1958, Pub. L. 85–726, §§204(d), 313(b), 1103, 72 Stat. 743, 753, 79
 
 &nbsp;
 
-49 App.:1551(b) (1)(E).
+49 App.:1551(b)(1)(E).
 
 Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1601(b)(1)(E); added Oct. 4, 1984, Pub. L. 98–443, §3(e), 98 Stat. 1704.
 
@@ -52,7 +54,7 @@ Oct. 15, 1966, Pub. L. 89–670, §6(c)(1), 80 Stat. 938; Jan. 12, 1983, Pub. L.
 
 &nbsp;
 
-49 App.:1551(b) (1)(E).
+49 App.:1551(b)(1)(E).
 
 &nbsp;
 
@@ -64,7 +66,7 @@ Oct. 15, 1966, Pub. L. 89–670, §6(c)(1), 80 Stat. 938; Jan. 12, 1983, Pub. L.
 
 &nbsp;
 
-49 App.:1551(b) (1)(E).
+49 App.:1551(b)(1)(E).
 
 In subsection (a), the word “Administrator” in section 313(b) of the Federal Aviation Act of 1958 (Public Law 85–726, 72 Stat. 753) is retained on authority of 49:106(g).
 

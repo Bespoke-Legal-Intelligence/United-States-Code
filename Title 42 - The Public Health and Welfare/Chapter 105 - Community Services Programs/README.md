@@ -92,7 +92,7 @@
 | (i) | Vehicle safety regulations. |
 | (j) | Compensation of staff. |
 | (k) | Flexibility in hours of service requirement. |
-| (<i>l)</i> | Frequent relocation of migrant families. |
+| (<i>l</i>) | Frequent relocation of migrant families. |
 | [9835a.](Subchapter%20002%20%28II%29%20-%20Head%20Start%20Programs/%C2%A7%2009835a%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93252%2C%20title%20I%2C%20%C2%A7106%2C%20May%2018%2C%201994%2C%20108%20Stat.%20629.md) | Repealed. |
 | [9836\.](Subchapter%20002%20%28II%29%20-%20Head%20Start%20Programs/%C2%A7%2009836%20-%20Designation%20of%20Head%20Start%20agencies.md) | Designation of Head Start agencies. |
 | (a) | Authorization; prerequisites. |
@@ -228,10 +228,7 @@
 | (a) | No entitlement to contract or grant. |
 | (b) | Construction of facilities. |
 | [9858e.](Subchapter%20002%E2%80%93B%20%28II%E2%80%93B%29%20-%20Child%20Care%20and%20Development%20Block%20Grant/%C2%A7%2009858e%20-%20Activities%20to%20improve%20quality%20of%20child%20care.md) | Activities to improve quality of child care. |
-| [9858f.](Subchapter%20002%E2%80%93B%20%28II%E2%80%93B%29%20-%20Child%20Care%20and%20Development%20Block%20Grant/%C2%A7%2009858f%20-%20Early%20childhood%20development%20and%20before-%20and%20after-school%20services.md) | Early childhood development and before- and after-school services. |
-| (a) | In general. |
-| (b) | Program description. |
-| (c) | Priority for assistance. |
+| [9858f.](Subchapter%20002%E2%80%93B%20%28II%E2%80%93B%29%20-%20Child%20Care%20and%20Development%20Block%20Grant/%C2%A7%2009858f%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93193%2C%20title%20VI%2C%20%C2%A7608%2C%20Aug.%2022%2C%201996%2C%20110%20Stat.%202284.md) | Repealed. |
 | [9858g.](Subchapter%20002%E2%80%93B%20%28II%E2%80%93B%29%20-%20Child%20Care%20and%20Development%20Block%20Grant/%C2%A7%2009858g%20-%20Administration%20and%20enforcement.md) | Administration and enforcement. |
 | (a) | Administration. |
 | (b) | Enforcement. |
@@ -239,8 +236,8 @@
 | (a) | In general. |
 | (b) | Method of payment. |
 | (c) | Spending of funds by State. |
-| [9858i.](Subchapter%20002%E2%80%93B%20%28II%E2%80%93B%29%20-%20Child%20Care%20and%20Development%20Block%20Grant/%C2%A7%2009858i%20-%20Annual%20report%20and%20audits.md) | Annual report and audits. |
-| (a) | Annual report. |
+| [9858i.](Subchapter%20002%E2%80%93B%20%28II%E2%80%93B%29%20-%20Child%20Care%20and%20Development%20Block%20Grant/%C2%A7%2009858i%20-%20Reports%20and%20audits.md) | Reports and audits. |
+| (a) | Reports. |
 | (b) | Audits. |
 | [9858j.](Subchapter%20002%E2%80%93B%20%28II%E2%80%93B%29%20-%20Child%20Care%20and%20Development%20Block%20Grant/%C2%A7%2009858j%20-%20Report%20by%20Secretary.md) | Report by Secretary. |
 | [9858k.](Subchapter%20002%E2%80%93B%20%28II%E2%80%93B%29%20-%20Child%20Care%20and%20Development%20Block%20Grant/%C2%A7%2009858k%20-%20Limitations%20on%20use%20of%20financial%20assistance%20for%20certain%20purposes.md) | Limitations on use of financial assistance for certain purposes. |

@@ -12,7 +12,7 @@ Placement Program.—The Secretary of Defense may establish a program—
 
 &emsp;(2) to facilitate the employment of such employees by local educational agencies that—
 
-&emsp;&emsp;(A) are receiving grants under title I of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 2701 <sup>1</sup> et seq.) as a result of having within their jurisdictions concentrations of children from low-income families; and
+&emsp;&emsp;(A) are receiving grants under title I of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6301 et seq.) as a result of having within their jurisdictions concentrations of children from low-income families; and
 
 &emsp;&emsp;(B) are also experiencing a shortage of teachers or teachers’ aides.
 
@@ -38,7 +38,7 @@ Selection of Participants.—(1) Selection of civilian employees to participate 
 
 (2) In selecting participants to receive assistance for placement as elementary or secondary school teachers, the Secretary of Defense shall give priority to civilian employees who—
 
-&emsp;(A) have educational, military, or employment experience in science, mathematics, or engineering and agree to seek employment as science, mathematics, or engineering teachers in elementary or secondary schools; or
+&emsp;(A) have educational, military, or employment experience in science, mathematics, orengineering and agree to seek employment as science, mathematics, or engineering teachers in elementary or secondary schools; or
 
 &emsp;(B) have educational, military, or employment experience in another subject area identified by the Secretary, in consultation with the Secretary of Education, as important for national educational objectives and agree to seek employment in that subject area in elementary or secondary schools.
 
@@ -52,9 +52,9 @@ Agreement.—A civilian employee selected to participate in the placement progra
 
 &emsp;(2) to accept—
 
-&emsp;&emsp;(A) in the case of an employee selected for assistance for placement as a teacher, an offer of full-time employment as an elementary or secondary school teacher for not less than five school years with a local educational agency identified under section 1151(b)(2) of this title, to begin the school year after obtaining that certification or licensure; or
+&emsp;&emsp;(A) in the case of an employee selected for assistance for placement as a teacher, an offer of full-time employment as an elementary or secondary school teacher for not less than two school years with a local educational agency identified under section 1151(b)(2) of this title, to begin the school year after obtaining that certification or licensure; or
 
-&emsp;&emsp;(B) in the case of an employee selected for assistance for placement as a teacher's aide, an offer of full-time employment as a teacher's aide in an elementary or secondary school for not less than five school years with a local educational agency identified under section 1151(b)(3) of this title, to begin the school year after obtaining the necessary credentials.
+&emsp;&emsp;(B) in the case of an employee selected for assistance for placement as a teacher's aide, an offer of full-time employment as a teacher's aide in an elementary or secondary school for not less than two school years with a local educational agency identified under section 1151(b)(3) of this title, to begin the school year after obtaining the necessary credentials.
 
 (e)
 
@@ -72,7 +72,7 @@ Stipend for Participants.—(1) Except as provided in paragraph (2), the Secreta
 
 Placement of Participants as Teachers and Teachers’ Aides.—Subsections (h) through (k) of section 1151 of this title shall apply with respect to the placement program authorized by this section.
 
-(Added Pub. L. 102–484, div. D, title XLIV, §4442(a), Oct. 23, 1992, 106 Stat. 2730; amended Pub. L. 103–35, title II, §201(h)(1), May 31, 1993, 107 Stat. 100; Pub. L. 103–160, div. A, title XIII, §1331(c)(2), Nov. 30, 1993, 107 Stat. 1792; Pub. L. 103–382, title III, §391(b)(3), Oct. 20, 1994, 108 Stat. 4021.)
+(Added Pub. L. 102–484, div. D, title XLIV, §4442(a), Oct. 23, 1992, 106 Stat. 2730; amended Pub. L. 103–35, title II, §201(h)(1), May 31, 1993, 107 Stat. 100; Pub. L. 103–160, div. A, title XIII, §1331(c)(2), Nov. 30, 1993, 107 Stat. 1792; Pub. L. 103–382, title III, §391(b)(3), Oct. 20, 1994, 108 Stat. 4021; Pub. L. 104–106, div. A, title XV, §1503(a)(14), Feb. 10, 1996, 110 Stat. 511; Pub. L. 104–201, div. A, title V, §576(b), Sept. 23, 1996, 110 Stat. 2535.)
 
 #### References in Text
 
@@ -81,6 +81,10 @@ The Elementary and Secondary Education Act of 1965, referred to in subsec. (a)(2
 The Higher Education Act of 1965, referred to in subsec. (e)(3), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended. Title IV of the Act is classified generally to subchapter IV (§1070 et seq.) of chapter 28 of Title 20, and part C (§2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
 #### Amendments
+
+1996—Subsec. (a)(2)(A). Pub. L. 104–106 substituted “6301” for “2701”.
+
+Subsec. (d)(2)(A), (B). Pub. L. 104–201 substituted “two school years” for “five school years”.
 
 1994—Subsec. (a)(2)(A). Pub. L. 103–382 struck out “chapter 1 of” after “grants under”.
 
@@ -92,5 +96,7 @@ Subsec. (e)(4). Pub. L. 103–35 struck out par. (4) which read as follows: “A
 
 Amendment by Pub. L. 103–160 not applicable with respect to persons selected by Secretary of Defense before Nov. 30, 1993, to participate in teacher and teacher's aide placement programs established pursuant to sections 1151, 1598, and 2410j of this title or agreements entered into by Secretary before such date with local educational agencies under such sections, see section 1331(h) of Pub. L. 103–160, set out as a note under section 1151 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “6301”.</i>
+#### Savings Provision
+
+Amendments by section 576 of Pub. L. 104–201 not to affect obligations under agreements entered into in accordance with section 1151, 1598, or 2410j of this title before Sept. 23, 1996, see section 576(d) of Pub. L. 104–201, set out as a note under section 1151 of this title.
 

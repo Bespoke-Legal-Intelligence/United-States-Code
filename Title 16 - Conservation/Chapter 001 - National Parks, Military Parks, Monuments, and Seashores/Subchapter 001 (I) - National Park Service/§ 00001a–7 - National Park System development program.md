@@ -40,5 +40,5 @@ Committee on Natural Resources of House of Representatives treated as referring 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 284h, 410ff–3, 410gg–4, 410ii–5, 410<i>oo</i>–3, 410qq–2, 410ww–2, 410yy–5 of this title.
+This section is referred to in sections 284h, 410ff–3, 410gg–4, 410ii–5, 410<i>oo</i>–3, 410qq–2, 410ww–2, 410yy–5, 410ddd of this title.
 

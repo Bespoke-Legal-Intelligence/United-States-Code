@@ -1,5 +1,5 @@
 
-42 U.S.C.<br>United States Code, 1995 Edition<br>Title 42 - THE PUBLIC HEALTH AND WELFARE<br>From the U.S. Government Publishing Office, www.gpo.gov
+42 U.S.C.<br>United States Code, 1996 Edition<br>Title 42 - THE PUBLIC HEALTH AND WELFARE<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 42—THE PUBLIC HEALTH AND WELFARE
 
@@ -164,6 +164,7 @@
 | [<b>134.</b>](Chapter%20134%20-%20Energy%20Policy/README.md) | <b>Energy Policy</b> | <b>13201</b> |
 | [<b>135.</b>](Chapter%20135%20-%20Residency%20and%20Service%20Requirements%20in%20Federally%20Assisted%20Housing/README.md) | <b>Residency and Service Requirements in Federally Assisted Housing</b> | <b>13601</b> |
 | [<b>136.</b>](Chapter%20136%20-%20Violent%20Crime%20Control%20and%20Law%20Enforcement/README.md) | <b>Violent Crime Control and Law Enforcement</b> | <b>13701</b> |
+| [<b>137.</b>](Chapter%20137%20-%20Management%20of%20Rechargeable%20Batteries%20and%20Batteries%20Containing%20Mercury/README.md) | <b>Management of Rechargeable Batteries and Batteries Containing Mercury</b> | <b>14301</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -320,3 +321,4 @@
 - [Chapter 134 - Energy Policy](Chapter%20134%20-%20Energy%20Policy/README.md)
 - [Chapter 135 - Residency and Service Requirements in Federally Assisted Housing](Chapter%20135%20-%20Residency%20and%20Service%20Requirements%20in%20Federally%20Assisted%20Housing/README.md)
 - [Chapter 136 - Violent Crime Control and Law Enforcement](Chapter%20136%20-%20Violent%20Crime%20Control%20and%20Law%20Enforcement/README.md)
+- [Chapter 137 - Management of Rechargeable Batteries and Batteries Containing Mercury](Chapter%20137%20-%20Management%20of%20Rechargeable%20Batteries%20and%20Batteries%20Containing%20Mercury/README.md)

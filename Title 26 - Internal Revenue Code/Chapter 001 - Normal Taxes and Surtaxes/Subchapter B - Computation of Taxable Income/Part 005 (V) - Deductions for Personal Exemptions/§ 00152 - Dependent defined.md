@@ -160,7 +160,7 @@ Subsec. (e). Pub. L. 90–78, §1(a), added subsec. (e).
 
 1958—Subsec. (a)(9). Pub. L. 85–866, §4(a), inserted “(other than an individual who at any time during the taxable year was the spouse, determined without regard to section 153, of the taxpayer)”.
 
-Subsec. (b)(3). Pub. L. 85–866, §4(b), among other changes, struck out provision that “dependent” does not include any individual who is not a United States citizen unless such individual is a resident of United States or of a contiguous country, or of Canal Zone or Panama, and inserted provision barring exclusion from definition of “dependent” any child of taxpayer, legally adopted by him, if, for taxable year of taxpayer, child's principal place of abode is taxpayer's home and child is member of taxpayer's household, if taxpayer is United States citizen.
+Subsec. (b)(3). Pub. L. 85–866, §4(b), among other changes, struck out provision that “dependent” does not include any individual who is not a United States citizen unless such individual is a resident of United States or of a contiguous country, or of Canal Zone or Panama, and inserted provision barring exclusion from definition of “dependent” any child of taxpayer, legallyadopted by him, if, for taxable year of taxpayer, child's principal place of abode is taxpayer's home and child is member of taxpayer's household, if taxpayer is United States citizen.
 
 Subsec. (b)(5). Pub. L. 85–866, §4(c), added par. (5).
 
@@ -218,5 +218,5 @@ Husband and wife, definition of, see section 7701 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1, 2, 21, 32, 42, 51, 105, 120, 125, 132, 151, 153, 170, 213, 7701, 7703 of this title; title 5 section 7342; title 20 section 1232g; title 30 section 28f; title 33 section 909; title 43 section 390bb.
+This section is referred to in sections 1, 2, 21, 32, 42, 51, 72, 105, 120, 125, 132, 151, 153, 170, 213, 220, 7701, 7702B, 7703 of this title; title 5 section 7342; title 20 section 1232g; title 30 section 28f; title 33 section 909; title 43 section 390bb.
 

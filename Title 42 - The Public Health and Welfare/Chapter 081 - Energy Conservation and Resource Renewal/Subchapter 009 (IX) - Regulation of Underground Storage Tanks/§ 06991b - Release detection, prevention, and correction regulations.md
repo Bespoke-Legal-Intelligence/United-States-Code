@@ -12,7 +12,7 @@ In promulgating regulations under this section, the Administrator may distinguis
 
 The regulations promulgated pursuant to this section shall include, but need not be limited to, the following requirements respecting all underground storage tanks—
 
-&emsp;(1) requirements for maintaining a leak detection system, an inventory control systemtogether with tank testing, or a comparable system or method designed to identify releases in a manner consistent with the protection of human health and the environment;
+&emsp;(1) requirements for maintaining a leak detection system, an inventory control system together with tank testing, or a comparable system or method designed to identify releases in a manner consistent with the protection of human health and the environment;
 
 &emsp;(2) requirements for maintaining records of any monitoring or leak detection system or inventory control system or tank testing or comparable system;
 
@@ -26,7 +26,7 @@ The regulations promulgated pursuant to this section shall include, but need not
 
 #### (d) Financial responsibility
 
-(1) Financial responsibility required by this subsection may be established in accordance with regulations promulgated by the Administrator by any one, or any combination, of the following: insurance, guarantee, surety bond, letter of credit, qualification as a self-insurer or any other method satisfactory to the Administrator. In promulgating requirements under this subsection, the Administrator is authorized to specify policy or other contractual terms, conditions, or defenses which are necessary or are unacceptable in establishing such evidence of financial responsibility in order to effectuate the purposes of this subchapter.
+(1) Financial responsibility required by this subsection may be established in accordance with regulations promulgated by the Administrator by any one, or any combination, of thefollowing: insurance, guarantee, surety bond, letter of credit, qualification as a self-insurer or any other method satisfactory to the Administrator. In promulgating requirements under this subsection, the Administrator is authorized to specify policy or other contractual terms, conditions, or defenses which are necessary or are unacceptable in establishing such evidence of financial responsibility in order to effectuate the purposes of this subchapter.
 
 (2) In any case where the owner or operator is in bankruptcy, reorganization, or arrangement pursuant to the Federal Bankruptcy Code or where with reasonable diligence jurisdiction in any State court of the Federal courts cannot be obtained over an owner or operator likely to be solvent at the time of judgment, any claim arising from conduct for which evidence of financial responsibility must be provided under this subsection may be asserted directly against the guarantor providing such evidence of financial responsibility. In the case of any action pursuant to this paragraph such guarantor shall be entitled to invoke all rights and defenses which would have been available to the owner or operator if any action had been brought against the owner or operator by the claimant and which would have been available to the guarantor if an action had been brought against the guarantor by the owner or operator.
 
@@ -56,7 +56,7 @@ The regulations promulgated pursuant to this section shall include, but need not
 
 &emsp;(ii) such State is taking steps to establish a fund pursuant to section 6991c(c)(1) of this title to be submitted as evidence of financial responsibility.
 
-> A suspension by the Administrator pursuant to this paragraph shall extend for a period not to exceed 180 days. A determination to suspend may be made with respect to the same class or category or for the same State at the end of such period, but only if substantial progress has been made in establishing a risk retention group, or the owners or operators in the class or category demonstrate, and the Administrator finds, that the formation of such a group is notpossible and that the State is unable or unwilling to establish such a fund pursuant to clause (ii).
+> A suspension by the Administrator pursuant to this paragraph shall extend for a period not to exceed 180 days. A determination to suspend may be made with respect to the same class or category or for the same State at the end of such period, but only if substantial progress has been made in establishing a risk retention group, or the owners or operators in the class or category demonstrate, and the Administrator finds, that the formation of such a group is not possible and that the State is unable or unwilling to establish such a fund pursuant to clause (ii).
 
 #### (e) New tank performance standards
 
@@ -106,7 +106,7 @@ The Administrator shall, not later than three months prior to the effective date
 
 &emsp;&emsp;&emsp;(iii) capable of carrying out such corrective action properly.
 
-&emsp;&emsp;(B) A situation exists which requires prompt action by the Administrator (or theState) under this paragraph to protect human health and the environment.
+&emsp;&emsp;(B) A situation exists which requires prompt action by the Administrator (or the State) under this paragraph to protect human health and the environment.
 
 &emsp;&emsp;(C) Corrective action costs at a facility exceed the amount of coverage required by the Administrator pursuant to the provisions of subsections (c) and (d)(5) of this section and, considering the class or category of underground storage tank from which the release occurred, expenditures from the Leaking Underground Storage Tank Trust Fund are necessary to assure an effective corrective action.
 
@@ -162,15 +162,25 @@ The Administrator shall, not later than three months prior to the effective date
 
 #### (B) Cost share
 
-&emsp;&emsp;Following the effective date of the regulations under subsection (c) of this section, theState shall pay 10 per centum of the cost of corrective actions undertaken either by the Administrator or by the State under a cooperative agreement, except that the Administrator may take corrective action at a facility where immediate action is necessary to respond to an imminent and substantial endangerment to human health or the environment if the State fails to pay the cost share.
+&emsp;&emsp;Following the effective date of the regulations under subsection (c) of this section, the State shall pay 10 per centum of the cost of corrective actions undertaken either by the Administrator or by the State under a cooperative agreement, except that the Administrator may take corrective action at a facility where immediate action is necessary to respond to an imminent and substantial endangerment to human health or the environment if the State fails to pay the cost share.
 
 #### (8) Emergency procurement powers
 
 &emsp;Notwithstanding any other provision of law, the Administrator may authorize the use of such emergency procurement powers as he deems necessary.
 
-#### (9) Definition of owner
+#### (9) Definition of owner or operator
 
-&emsp;As used in this subsection, the term “owner” does not include any person who, without participating in the management of an underground storage tank and otherwise not engaged in petroleum production, refining, and marketing, holds indicia of ownership primarily to protect the owner's security interest in the tank.
+#### (A) In general
+
+&emsp;&emsp;As used in this subchapter, the terms “owner” and “operator” do not include a person that, without participating in the management of an underground storage tank and otherwise not engaged in petroleum production, refining, or marketing, holds indicia of ownership primarily to protect the person's security interest.
+
+#### (B) Security interest holders
+
+&emsp;&emsp;The provisions regarding holders of security interests in subparagraphs (E) through (G) of section 9601(20) of this title and theprovisions regarding fiduciaries at section 9607(n) of this title shall apply in determining a person's liability as an owner or operator of an underground storage tank for the purposes of this subchapter.
+
+#### (C) Effect on rule
+
+&emsp;&emsp;Nothing in subparagraph (B) shall be construed as modifying or affecting the final rule issued by the Administrator on September 7, 1995 (60 Fed. Reg. 46,692), or as limiting the authority of the Administrator to amend the final rule, in accordance with applicable law. The final rule in effect on September 30, 1996, shall prevail over any inconsistent provision regarding holders of security interests in subparagraphs (E) through (G) of section 9601(20) of this title or any inconsistent provision regarding fiduciaries in section 9607(n) of this title. Any amendment to the final rule shall be consistent with the provisions regarding holders of security interests in subparagraphs (E) through (G) of section 9601(20) of this title and the provisions regarding fiduciaries in section 9607(n) of this title. This subparagraph does not preclude judicial review of any amendment of the final rule made after September 30, 1996.
 
 #### (10) Definition of exposure assessment
 
@@ -180,13 +190,15 @@ The Administrator shall, not later than three months prior to the effective date
 
 &emsp;At any facility where the owner or operator has failed to maintain evidence of financial responsibility in amounts at least equal to the amounts established by subsection (d)(5)(A) of this section (or a lesser amount if such amount is applicable to such facility as a result of subsection (d)(5)(B) of this section) for whatever reason the Administrator shall expend no monies from the Leaking Underground Storage Tank Trust Fund to clean up releases at such facility pursuant to the provisions of paragraph (1) or (2) of this subsection. At such facilities the Administrator shall use the authorities provided in subparagraph (A) of paragraph (1) and paragraph (4) of this subsection and section 6991e of this title to order corrective action to clean up such releases. States acting pursuant to paragraph (7) of this subsection shall use the authorities provided in subparagraph (A) of paragraph (1) and paragraph (4) of this subsection to order corrective action to clean up such releases. Notwithstanding the provisions of this paragraph, the Administrator may use monies from the fund to take the corrective actions authorized by paragraph (5) of this subsection to protect human health at such facilities and shall seek full recovery of the costs of all such actions pursuant to the provisions of paragraph (6)(A) of this subsection and without consideration of the factors in paragraph (6)(B) of this subsection. Nothing in this paragraph shall prevent the Administrator (or a State pursuant to paragraph (7) of this subsection) from taking corrective action at a facility where there is no solvent owner or operator or where immediate action is necessary to respond to an imminent and substantial endangerment of human health or the environment.
 
-(Pub. L. 89–272, title II, §9003, as added Pub. L. 98–616, title VI, §601(a), Nov. 8, 1984, 98 Stat. 3279; amended Pub. L. 99–499, title II, §205(c), (d), Oct. 17, 1986, 100 Stat. 1697, 1698.)
+(Pub. L. 89–272, title II, §9003, as added Pub. L. 98–616, title VI, §601(a), Nov. 8, 1984, 98 Stat. 3279; amended Pub. L. 99–499, title II, §205(c), (d), Oct. 17, 1986, 100 Stat. 1697, 1698; Pub. L. 104–208, div. A, title II, §2503, Sept. 30, 1996, 110 Stat. 3009–468.)
 
 #### References in Text
 
 The Federal Bankruptcy Code, referred to in subsec. (d)(2), probably means a reference to Title 11, Bankruptcy.
 
 #### Amendments
+
+1996—Subsec. (h)(9). Pub. L. 104–208 added par. (9) and struck out heading and text of former par. (9). Text read as follows: “As used in this subsection, the term ‘owner’ does not include any person who, without participating in the management of an underground storage tank and otherwise not engaged in petroleum production, refining, and marketing, holds indicia of ownership primarily to protect the owner's security interest in the tank.”
 
 1986—Subsec. (c)(6). Pub. L. 99–499, §205(c)(1), added par. (6).
 
@@ -198,6 +210,10 @@ Subsec. (d)(2) to (5). Pub. L. 99–499, §205(c)(2), (4), added par. (5) and re
 
 Subsec. (h). Pub. L. 99–499, §205(d), added subsec. (h).
 
+#### Effective Date of 1996 Amendment
+
+Section 2505 of div. A of Pub. L. 104–208 provided that: “The amendments made by this subtitle \[subtitle E (§§2501–2505) of title II of div. A of Pub. L. 104–208, amending this section and sections 9601 and 9607 of this title\] shall be applicable with respect to any claim that has not been finally adjudicated as of the date of enactment of this Act \[Sept. 30, 1996\].”
+
 #### Pollution Liability Insurance
 
 Section 205(h) of Pub. L. 99–499 provided that:
@@ -208,7 +224,7 @@ Study.—The Comptroller General shall conduct a study of the availability of po
 
 “(2)
 
-Report.—The Comptroller General shall report the findings under this subsection to the Congress within 15 months after the enactment of this subsection \[Oct. 17, 1986\]. Such report shall include recommendations for legislative or administrative changes that will enable owners and operators of undergroundstorage tanks to maintain financial responsibility sufficient to provide all clean-up costs and damages that may result from reasonably foreseeable releases and events.”
+Report.—The Comptroller General shall report the findings under this subsection to the Congress within 15 months after the enactment of this subsection \[Oct. 17, 1986\]. Such report shall include recommendations for legislative or administrative changes that will enable owners and operators of underground storage tanks to maintain financial responsibility sufficient to provide all clean-up costs and damages that may result from reasonably foreseeable releases and events.”
 
 #### Section Referred to in Other Sections
 

@@ -50,13 +50,15 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 5 U.S.C. 1007.
 
 June 11, 1946, ch. 324, §8, 60 Stat. 242.
 
-In subsection (b), the word “employee” is substituted for “officer” and “officers” in view of the definition of “employee” in section 2105. The word “either” is added after the word “requires” in the first sentence to eliminate the need for parentheses. The words “the presiding employee or an employee qualified to preside at hearings under section 556 of this title” are substituted for “such officers” in the last sentence. The word “initial” is omitted before “decision”, the final word in the first sentence and the sixth word of the fourth sentence, to avoid confusion between the “initial decision” of the presiding employee and the “initial decision” of the agency.
+In subsection (b), the word “employee” is substituted for “officer” and “officers” in view of the definition of “employee” in section 2105. The word “either” is added after the word “requires” in the first sentence to eliminate the need for parentheses. The words “the presiding employee or an employee qualified to preside at hearings under section 556 of this title” are substituted for “such officers” in the last sentence. The word “initial” is omitted before “decision”, the final word in the first sentence and the sixth word of the fourth sentence, toavoid confusion between the “initial decision” of the presiding employee and the “initial decision” of the agency.
 
 In subsection (c), the word “employees” is substituted for “officers” in view of the definition of “employee” in section 2105.
 
@@ -70,7 +72,7 @@ Section 557a of former Title 5, Executive Departments and Government Officers an
 
 #### Amendments
 
-<b>1976</b>—Subsec. (d). Pub. L. 94–409 added subsec. (d).
+1976—Subsec. (d). Pub. L. 94–409 added subsec. (d).
 
 #### Effective Date of 1976 Amendment
 

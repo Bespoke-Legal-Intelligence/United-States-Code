@@ -14,17 +14,37 @@
 
 &emsp;&emsp;(B) inactive-duty training.
 
+&emsp;(3) Each member of the armed forces who incurs or aggravates an injury, illness, or disease in the line of duty while remaining overnight, between successive periods of inactive-duty training, at or in the vicinity of the site of the inactive-duty training, if the site is outside reasonable commuting distance from the member's residence.
+
 (b) A person described in subsection (a) is entitled to—
 
 &emsp;(1) the medical and dental care appropriate for the treatment of the injury, illness, or disease of that person until the resulting disability cannot be materially improved by further hospitalization or treatment; and
 
 &emsp;(2) subsistence during hospitalization.
 
-(c) A member is not entitled to benefits under this section if the injury, illness, or disease, or aggravation of an injury, illness, or disease described in subsection (a)(2), is the result of the gross negligence or misconduct of the member.
+(c) A member is not entitled to benefits under subsection (b) if the injury, illness, or disease, or aggravation of an injury, illness, or disease described in subsection (a)(2), is the result of the gross negligence or misconduct of the member.
 
-(Added Pub. L. 98–94, title X, §1012(a)(1), Sept. 24, 1983, 97 Stat. 664; amended Pub. L. 98–525, title VI, §631(a)(1), Oct. 19, 1984, 98 Stat. 2542; Pub. L. 98–557, §19(4), Oct. 30, 1984, 98 Stat. 2869; Pub. L. 99–145, title XIII, §1303(a)(7), Nov. 8, 1985, 99 Stat. 739; Pub. L. 99–661, div. A, title VI, §604(a)(1), Nov. 14, 1986, 100 Stat. 3874.)
+(d)(1) The Secretary of the Army shall provide to members of the Selected Reserve of the Army who are assigned to units scheduled for deployment within 75 days after mobilization the following medical and dental services:
+
+&emsp;(A) An annual medical screening.
+
+&emsp;(B) For members who are over 40 years of age, a full physical examination not less often than once every two years.
+
+&emsp;(C) An annual dental screening.
+
+&emsp;(D) The dental care identified in an annual dental screening as required to ensure that a member meets the dental standards required for deployment in the event of mobilization.
+
+(2) The services provided under this subsection shall be provided at no cost to the member.
+
+(Added Pub. L. 98–94, title X, §1012(a)(1), Sept. 24, 1983, 97 Stat. 664; amended Pub. L. 98–525, title VI, §631(a)(1), Oct. 19, 1984, 98 Stat. 2542; Pub. L. 98–557, §19(4), Oct. 30, 1984, 98 Stat. 2869; Pub. L. 99–145, title XIII, §1303(a)(7), Nov. 8, 1985, 99 Stat. 739; Pub. L. 99–661, div. A, title VI, §604(a)(1), Nov. 14, 1986, 100 Stat. 3874; Pub. L. 104–106, div. A, title VII, §§702(a), 704(a), Feb. 10, 1996, 110 Stat. 371, 372.)
 
 #### Amendments
+
+1996—Subsec. (a)(3). Pub. L. 104–106, §702(a), added par. (3).
+
+Subsec. (c). Pub. L. 104–106, §704(a)(1), substituted “subsection (b)” for “this section”.
+
+Subsec. (d). Pub. L. 104–106, §704(a)(2), added subsec. (d).
 
 1986—Pub. L. 99–661 amended section generally substituting “active duty for a period of more than 30 days” for “active duty; injuries, diseases and illnesses incident to duty” in section catchline and new text for prior text which read as follows:
 

@@ -48,7 +48,7 @@ The unassigned beneficiaries premium for any plan year for any assigned operator
 
 #### (1) Accounts
 
-&emsp;The trustees of the Combined Fund shall establish and maintain 3 separate accounts for each of the premiums described in subsections (b), (c), and (d). Such accounts shall be credited with the premiums received and debited with expenditures allocable to such premiums.
+&emsp;The trustees of the Combined Fund shall establish and maintain 3 separate accounts foreach of the premiums described in subsections (b), (c), and (d). Such accounts shall be credited with the premiums received and debited with expenditures allocable to such premiums.
 
 #### (2) Allocations
 
@@ -128,7 +128,7 @@ The trustees of the Combined Fund shall, not later than 60 days after the enactm
 
 #### (i) 1st year payments
 
-&emsp;&emsp;&emsp;In the case of a 1988 agreement operator making contributions under subparagraph (A), the premium of such operator undersubsection (a) shall be reduced by the amount paid under subparagraph (A) by such operator for the plan year beginning February 1, 1993.
+&emsp;&emsp;&emsp;In the case of a 1988 agreement operator making contributions under subparagraph (A), the premium of such operator under subsection (a) shall be reduced by the amount paid under subparagraph (A) by such operator for the plan year beginning February 1, 1993.
 
 #### (ii) Deficit payments
 

@@ -16,7 +16,7 @@ Subsection (a) shall apply to amounts received by the taxpayer for living expens
 
 #### Prior Provisions
 
-A prior section 123 was renumbered section 137 of this title.
+A prior section 123 was renumbered section 138 of this title.
 
 #### Effective Date
 

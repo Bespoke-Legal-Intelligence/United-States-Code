@@ -20,7 +20,7 @@ Pub. L. 102–83 renumbered section 362 of this title as this section.
 
 Pub. L. 102–3 substituted “$436” for “$414”.
 
-1989—Pub. L. 101–237, §112, substituted “Secretary under” for “Administrator under” and “Secretary shall” for “Administrator shall”, and substituted “who—” and pars. (1) and (2) for “who because of disability which is compensable under the provisions of this chapter, wears or uses prosthetic or orthopedic appliance or appliances (including a wheelchair) which the Administrator determines tends to wear out or tear the clothing of such a veteran.”
+1989—Pub. L. 101–237, §112, substituted “Secretary under” for “Administrator under” and “Secretary shall” for “Administrator shall”, and substituted “who—” and pars. (1) and (2) for “who because of disability which is compensable under the provisions ofthis chapter, wears or uses prosthetic or orthopedic appliance or appliances (including a wheelchair) which the Administrator determines tends to wear out or tear the clothing of such a veteran.”
 
 Pub. L. 101–237, §103, substituted “$414” for “$395”.
 
@@ -131,4 +131,8 @@ Section 405(d) of Pub. L. 97–253, cited as a credit to this section, was repea
 #### Disability Compensation and Dependency and Indemnity Compensation Rate Increases
 
 For increases in rates and limitations on Department of Veterans Affairs disability compensation and dependency and indemnity compensation, see notes set out under section 1114 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 5313A of this title.
 

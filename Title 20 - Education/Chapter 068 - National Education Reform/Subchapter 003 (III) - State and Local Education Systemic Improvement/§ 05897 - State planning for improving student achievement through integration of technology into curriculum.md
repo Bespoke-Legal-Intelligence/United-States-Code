@@ -46,11 +46,11 @@ At a minimum, each systemic statewide plan shall—
 
 &emsp;&emsp;(B) ensures that such plan is integrated into the State improvement plan described in section 5886 of this title;
 
-&emsp;(2) be developed in collaboration with the Governor, representatives of the State legislature, the State board of education, institutions of higher education, appropriate State agencies, local educational agencies, public and private telecommunication entities, parents, public and school libraries, students, adult literacy providers, and leaders in the field of technology, through a process of statewide grassroots outreach to local educational agencies and schools in the State;
+&emsp;(2) be developed in collaboration with the Governor, representatives of the State legislature, the State board of education, institutions of higher education, appropriate State agencies, local educational agencies, public and private telecommunication entities, parents, public and school libraries, students,adult literacy providers, and leaders in the field of technology, through a process of statewide grassroots outreach to local educational agencies and schools in the State;
 
 &emsp;(3) identify and describe the requirements for introducing state-of-the-art technologies into the classroom and school library in order to enhance educational curricula, including the installation and ongoing maintenance of basic connections, hardware and the necessary support materials;
 
-&emsp;(4) describe how the application of advanced technologies in the schools will enhance student learning, provide greater access to individualized instruction, promote the standards and strategies described in section 5886(d) of this title, and help make progress toward the achievement of the National Education Goals;
+&emsp;(4) describe how the application of advanced technologies in the schools will enhance student learning, provide greater access to individualized instruction, and help make progress toward the achievement of the National Education Goals;
 
 &emsp;(5) describe how the ongoing training of educational personnel will be provided;
 
@@ -80,19 +80,21 @@ Each State educational agency receiving a grant under this section shall submit 
 
 &emsp;(1) describe the State's progress toward implementation of the provisions of such plan;
 
-&emsp;(2) describe any revisions to the State's long-range plans for technology;
+&emsp;(2) describe any revisions to the State's long-range plans for technology; and
 
-&emsp;(3) describe the extent to which resources provided pursuant to such plan are distributed among schools to promote the standards and strategies described in section 5886(d) of this title; and
-
-&emsp;(4) include any other information the Secretary deems appropriate.
+&emsp;(3) include any other information the Secretary deems appropriate.
 
 #### (f) Authorization of appropriations
 
 There are authorized to be appropriated $5,000,000 for fiscal year 1994 to carry out this section.
 
-(Pub. L. 103–227, title III, §317, Mar. 31, 1994, 108 Stat. 184; Pub. L. 103–382, title III, §361(d), Oct. 20, 1994, 108 Stat. 3975.)
+(Pub. L. 103–227, title III, §317, Mar. 31, 1994, 108 Stat. 184; Pub. L. 103–382, title III, §361(d), Oct. 20, 1994, 108 Stat. 3975; Pub. L. 104–134, title I, §101(d) \[title VII, §703(a)(16)\], Apr. 26, 1996, 110 Stat. 1321–211, 1321–254; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.)
 
 #### Amendments
+
+1996—Subsec. (d)(4). Pub. L. 104–134, §101(d) \[title VII, §703(a)(16)(A)\], struck out “promote the standards and strategies described in section 5886(d) of this title,” after “individualized instruction,”.
+
+Subsec. (e)(2) to (4). Pub. L. 104–134, §101(d) \[title VII, §703(a)(16)(B)\], inserted “and” at end of par. (2), redesignated par. (4) as (3), and struck out former par. (3) which read as follows: “describe the extent to which resources provided pursuant to such plan are distributed among schools to promote the standards and strategies described in section 5886(d) of this title; and”.
 
 1994—Subsec. (b)(3). Pub. L. 103–382 added par. (3).
 

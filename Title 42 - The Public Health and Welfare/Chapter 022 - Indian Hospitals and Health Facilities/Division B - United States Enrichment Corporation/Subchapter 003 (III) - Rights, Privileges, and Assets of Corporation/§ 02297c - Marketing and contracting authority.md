@@ -26,6 +26,10 @@ The Corporation shall act as the exclusive marketing agent on behalf of the Unit
 
 (Aug. 1, 1946, ch. 724, title II, §1401, as added Oct. 24, 1992, Pub. L. 102–486, title IX, §901, 106 Stat. 2934; amended Oct. 29, 1992, Pub. L. 102–572, title IX, §902(b)(1), 106 Stat. 4516.)
 
+#### Repeal of Section
+
+<i>Section repealed effective as of date on which 100 percent of ownership of United States Enrichment Corporation has been transferred to private investors, see section 3116(a)(1) of Pub. L. 104–134, set out as a note under section 2297 of this title.</i>
+
 #### Amendments
 
 1992—Subsec. (b)(2)(A). Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
@@ -36,5 +40,5 @@ Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 2297c–6 of this title.
+This section is referred to in sections 2297c–6, 2297h–6 of this title.
 

@@ -22,7 +22,7 @@ The Congress hereby declares it to be the national policy of the United States t
 
 #### References in Text
 
-This chapter, referred to in subsec. (a)(5), was in the original “this subtitle”, meaning subtitle F (§§6501, 6601–6610) of title VI, Pub. L. 101–508, which is classified generally to this chapter. For complete classification of subtitle F to the Code, see Short Title note below and Tables.
+This chapter, referred to in subsec. (a)(5), was in the original “this subtitle”, meaning subtitle F (§§6501,6601–6610) of title VI, Pub. L. 101–508, which is classified generally to this chapter. For complete classification of subtitle F to the Code, see Short Title note below and Tables.
 
 #### Short Title
 

@@ -10,7 +10,7 @@
 
 &emsp;(4) the two comprehensive medical plans with the largest number of enrollments, as determined by the Office.
 
-(b)(1) Except as provided by paragraphs (2) and (3) of this subsection, the biweekly Government contribution for health benefits for an employee or annuitant enrolled in a health benefits plan under this chapter is adjusted to an amount equal to 60 percent of the average subscription charge determined under subsection (a) of this section. For an employee, the adjustment begins on the first day of the employee's first pay period of each year. For an annuitant, the adjustment begins on the first day of the first period of each year for which an annuity payment is made.
+(b)(1) Except as provided by paragraphs (2) and (3) of this subsection, the biweekly Government contribution for health benefits for an employee or annuitant enrolled in a health benefits plan under this chapter is adjusted to an amount equal to 60 percent of the average subscription charge determined under subsection (a) of this section. For an employee, the adjustment beginson the first day of the employee's first pay period of each year. For an annuitant, the adjustment begins on the first day of the first period of each year for which an annuity payment is made.
 
 (2) The biweekly Government contribution for an employee or annuitant enrolled in a plan under this chapter shall not exceed 75 percent of the subscription charge.
 
@@ -20,7 +20,15 @@
 
 (d) The amount necessary to pay the total charge for enrollment, after the Government contribution is deducted, shall be withheld from the pay of each enrolled employee and (except as provided in subsection (i) of this section) from the annuity of each enrolled annuitant. The withholding for an annuitant shall be the same as that for an employee enrolled in the same health benefits plan and level of benefits.
 
-(e)(1) An employee enrolled in a health benefits plan under this chapter who is placed in a leave without pay status may have his coverage and the coverage of members of his family continued under the plan for not to exceed 1 year under regulations prescribed by the Office. The regulations may provide for the waiving of contributions by the employee and the Government.
+(e)(1)(A) An employee enrolled in a health benefits plan under this chapter who is placed in a leave without pay status may have his coverage and the coverage of members of his family continued under the plan for not to exceed 1 year under regulations prescribed by the Office.
+
+(B) During each pay period in which an enrollment continues under subparagraph (A)—
+
+&emsp;(i) employee and Government contributions required by this section shall be paid on a current basis; and
+
+&emsp;(ii) if necessary, the head of the employing agency shall approve advance payment, recoverable in the same manner as under section 5524a(c), of a portion of basic pay sufficient to pay current employee contributions.
+
+(C) Each agency shall establish procedures for accepting direct payments of employee contributions for the purposes of this paragraph.
 
 (2) An employee who enters on approved leave without pay to serve as a full-time officer or employee of an organization composed primarily of employees as defined by section 8901 of this title, within 60 days after entering on that leave without pay, may file with his employing agency an election to continue his health benefits enrollment and arrange to pay currently into the Employees Health Benefits Fund, through his employing agency, both employee and agency contributions from the beginning of leave without pay. The employing agency shall forward the enrollment charges so paid to the Fund. If the employee does not so elect, his enrollment will continue during nonpay status and end as provided by paragraph (1) of this subsection and implementing regulations.
 
@@ -30,7 +38,7 @@
 
 &emsp;(2) in the case of an elected official, from an appropriation or fund available for payment of other salaries of the same office or establishment;
 
-&emsp;(3) in the case of an employee of the legislative branch who is paid by the Clerk of the House of Representatives, from the contingent fund of the House; and
+&emsp;(3) in the case of an employee of the legislative branch who is paid by the Chief Administrative Officer of the House of Representatives, from the applicable accounts of the House of Representatives; and
 
 &emsp;(4) in the case of an employee in a leave without pay status, from the appropriation or fund which would be used to pay the employee if he were in a pay status.
 
@@ -40,11 +48,11 @@
 
 (B) In determining any amount for which the Postal Service is liable under this paragraph, the amount of the liability shall be prorated to reflect only that portion of total service which is attributable to civilian service performed (by the former postal employee or by the deceased individual referred to in subparagraph (A), as the case may be) after June 30, 1971, as estimated by the Office of Personnel Management.
 
-(h) The Office shall provide for conversion of biweekly rates of contribution specified by this section to rates for employees and annuitants paid on other than a biweekly basis, and for thispurpose may provide for the adjustment of the converted rate to the nearest cent.
+(h) The Office shall provide for conversion of biweekly rates of contribution specified by this section to rates for employees and annuitants paid on other than a biweekly basis, and for this purpose may provide for the adjustment of the converted rate to the nearest cent.
 
 (i) An annuitant whose annuity is insufficient to cover the withholdings required for enrollment in a particular health benefits plan may enroll (or remain enrolled) in such plan, notwithstanding any other provision of this section, if the annuitant elects, under conditions prescribed by regulations of the Office, to pay currently into the Employees Health Benefits Fund, through the retirement system that administers the annuitant's health benefits enrollment, an amount equal to the withholdings that would otherwise be required under this section.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 604; Pub. L. 90–83, §1(96), Sept. 11, 1967, 81 Stat. 219; Pub. L. 91–418, §1(a), Sept. 25, 1970, 84 Stat. 869; Pub. L. 93–246, §1, Jan. 31, 1974, 88 Stat. 3; Pub. L. 94–310, §3(a), June 15, 1976, 90 Stat. 687; Pub. L. 95–437, §4(c)(2)(A), Oct. 10, 1978, 92 Stat. 1059; Pub. L. 95–454, title IX, §906(a)(15), (c)(2)(F), Oct. 13, 1978, 92 Stat. 1226, 1227; Pub. L. 96–54, §2(a)(53), Aug. 14, 1979, 93 Stat. 384; Pub. L. 99–272, title XV, §15202(b), Apr. 7, 1986, 100 Stat. 334; Pub. L. 101–239, title IV, §4003(a), Dec. 19, 1989, 103 Stat. 2135; Pub. L. 101–303, §1(a), (b), May 29, 1990, 104 Stat. 250; Pub. L. 101–508, title VII, §7102(a), (b), Nov. 5, 1990, 104 Stat. 1388–333; Pub. L. 102–378, §2(78), Oct. 2, 1992, 106 Stat. 1355.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 604; Pub. L. 90–83, §1(96), Sept. 11, 1967, 81 Stat. 219; Pub. L.91–418, §1(a), Sept. 25, 1970, 84 Stat. 869; Pub. L. 93–246, §1, Jan. 31, 1974, 88 Stat. 3; Pub. L. 94–310, §3(a), June 15, 1976, 90 Stat. 687; Pub. L. 95–437, §4(c)(2)(A), Oct. 10, 1978, 92 Stat. 1059; Pub. L. 95–454, title IX, §906(a)(15), (c)(2)(F), Oct. 13, 1978, 92 Stat. 1226, 1227; Pub. L. 96–54, §2(a)(53), Aug. 14, 1979, 93 Stat. 384; Pub. L. 99–272, title XV, §15202(b), Apr. 7, 1986, 100 Stat. 334; Pub. L. 101–239, title IV, §4003(a), Dec. 19, 1989, 103 Stat. 2135; Pub. L. 101–303, §1(a), (b), May 29, 1990, 104 Stat. 250; Pub. L. 101–508, title VII, §7102(a), (b), Nov. 5, 1990, 104 Stat. 1388–333; Pub. L. 102–378, §2(78), Oct. 2, 1992, 106 Stat. 1355; Pub. L. 104–186, title II, §215(19), Aug. 20, 1996, 110 Stat. 1747; Pub. L. 104–208, div. A, title I, §101(f) \[title IV, §422\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–343.)
 
 Historical and Revision Notes<br>1966
 
@@ -54,7 +62,9 @@ Act
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 5 U.S.C. 3006.
 
@@ -100,11 +110,15 @@ In subsection (e)(2), the words “as defined by section 8901 of this title” a
 
 #### Amendments
 
-<b>1992</b>—Subsec. (b)(3). Pub. L. 102–378, §2(78)(A), inserted period after “Office)”.
+1996—Subsec. (e)(1). Pub. L. 104–208 struck out at end “The regulations may provide for the waiving of contributions by the employee and the Government.”, inserted subpar. (A) designation, and added subpars. (B) and (C).
+
+Subsec. (f)(3). Pub. L. 104–186 substituted “Chief Administrative Officer of the House of Representatives, from the applicable accounts of the House of Representatives” for “Clerk of the House of Representatives, from the contingent fund of the House”.
+
+1992—Subsec. (b)(3). Pub. L. 102–378, §2(78)(A), inserted period after “Office)”.
 
 Subsec. (c). Pub. L. 102–378, §2(78)(B), substituted “and (except” for “and except”.
 
-<b>1990</b>—Subsec. (c). Pub. L. 101–303, §1(b)(1), inserted “except as provided in subsection (i) of this section)” after “enrolled employee and”.
+1990—Subsec. (c). Pub. L. 101–303, §1(b)(1), inserted “except as provided in subsection (i) of this section)” after “enrolled employee and”.
 
 Subsec. (d). Pub. L. 101–303, §1(b)(2), inserted “(except as provided in subsection (i) of this section)” after “enrolled employee and”.
 
@@ -112,13 +126,13 @@ Subsec. (g)(2). Pub. L. 101–508 designated existing provisions as subpar. (A),
 
 Subsec. (i). Pub. L. 101–303, §1(a), added subsec. (i).
 
-<b>1989</b>—Subsec. (g)(2). Pub. L. 101–239 inserted “or for a survivor of such an individual or of an individual who died on or after October 1, 1986, while employed by the United States Postal Service,” after “1986,”.
+1989—Subsec. (g)(2). Pub. L. 101–239 inserted “or for a survivor of such an individual or of an individual who died on or after October 1, 1986, while employed by the United States Postal Service,” after “1986,”.
 
-<b>1986</b>—Subsec. (g). Pub. L. 99–272 designated existing provisions as par. (1) and added par. (2).
+1986—Subsec. (g). Pub. L. 99–272 designated existing provisions as par. (1) and added par. (2).
 
-<b>1979</b>—Subsec. (b)(1). Pub. L. 96–54 substituted provisions setting forth adjustment amount of the Government contribution of equal to 60 percent of the average subscription charge under subsec. (a) and determinations respecting the commencement date of the adjustment, for provisions setting forth adjustment amounts of the Government contribution of equal to 50 percent of the average subscription charge under subsec. (a) for applicable pay periods beginning in 1974, and equal to 60 percent for pay periods beginning in 1975 and after, and determinations respecting the commencement date of the adjustment.
+1979—Subsec. (b)(1). Pub. L. 96–54 substituted provisions setting forth adjustment amount of the Government contribution of equal to 60 percent of the average subscription charge under subsec. (a) and determinations respecting the commencement date of the adjustment, for provisions setting forth adjustment amounts of the Government contribution of equal to 50 percent of the average subscription charge under subsec. (a) for applicable pay periods beginning in 1974, and equal to 60 percent for pay periods beginning in 1975 and after, and determinations respecting the commencement date of the adjustment.
 
-<b>1978</b>—Subsec. (a). Pub. L. 95–454, §906(a)(15), substituted “Office of Personnel Management” for “Commission” in introductory material, and “Office” for “Commission” in cls. (3) and (4).
+1978—Subsec. (a). Pub. L. 95–454, §906(a)(15), substituted “Office of Personnel Management” for “Commission” in introductory material, and “Office” for “Commission” in cls. (3) and (4).
 
 Subsec. (b)(1). Pub. L. 95–437, §4(c)(2)(A)(i), substituted “paragraphs (2) and (3)” for “paragraph (2)”.
 
@@ -128,9 +142,9 @@ Pub. L. 95–437, §4(c)(2)(A)(ii), added par. (3).
 
 Subsecs. (e)(1), (h). Pub. L. 95–454, §906(a)(15), substituted “Office” for “Commission”.
 
-<b>1976</b>—Subsec. (g). Pub. L. 94–310 provided for payment of Government contributions from annual appropriations which may be made available until expended.
+1976—Subsec. (g). Pub. L. 94–310 provided for payment of Government contributions from annual appropriations which may be made available until expended.
 
-<b>1974</b>—Subsec. (a). Pub. L. 93–246, §1(a), struck out introductory text “Except as provided by subsection (b) of this section, the biweekly Government contribution for health benefits for employees or annuitants enrolled in health benefits plans under this chapter shall be adjusted”, now incorporated in subsec. (b)(1) of this section, required Commission determination of average of subscription charges, and reenacted remainder of existing provisions, substituting “beginning date of each contract year” for “beginning date of the adjustment”.
+1974—Subsec. (a). Pub. L. 93–246, §1(a), struck out introductory text “Except as provided by subsection (b) of this section, the biweekly Government contribution for health benefits for employees or annuitants enrolled in health benefits plans under this chapter shall be adjusted”, now incorporated in subsec. (b)(1) of this section, required Commission determination of average of subscription charges, and reenacted remainder of existing provisions, substituting “beginning date of each contract year” for “beginning date of the adjustment”.
 
 Subsec. (b)(1). Pub. L. 93–246, §1(a), incorporated introductory text of former subsec. (a) reading “Except as provided by subsection (b) of this section, the biweekly Government contribution for health benefits for employees or annuitants enrolled in health benefits plans under this chapter shall be adjusted”, as initial text of provisions designated as subsec. (b)(1), substituted provision for amount of biweekly Government contribution equal to 50 percent of average subscription charge for applicable pay periods commencing in 1974 and 60 percent for applicable pay periods commencing in 1975, and annually thereafter, for former subsec. (a) provision for an amount equal to 40 percent of average of subscription charges and former subsec. (b) provision for 50 percent of subscription charge where the biweekly subscription charge was less than twice the Government contribution.
 
@@ -140,7 +154,7 @@ Subsec. (c). Pub. L. 93–246, §1(b), struck out reference to subsec. (a).
 
 Subsec. (g). Pub. L. 93–246, §1(c), substituted “by this section” for “by subsection (a) of this section”.
 
-<b>1970</b>—Subsec. (a). Pub. L. 91–418, in increasing the Government contribution to the cost of health benefits insurance, substituted provision for adjustment of such contribution, beginning on the first day of the first pay period of each year, to an amount equal to 40 percentof the adjustment, with respect to self alone or self and family enrollments, as applicable, for the highest level of benefits offered by the service benefit plan, the indemnity benefit plan, the two employee organization plans, and the two comprehensive medical plans, for prior provision for a contribution, in addition to requirement of subsec. (c) of this section, of $1.62 if the enrollment is for self or $3.94 if the enrollment is for self and family.
+1970—Subsec. (a). Pub. L. 91–418, in increasing the Government contribution to the cost of health benefits insurance, substituted provision for adjustment of such contribution, beginning on the first day of the first pay period of each year, to an amount equal to 40 percent of the adjustment, with respect to self alone or self and family enrollments, as applicable, for the highest level of benefits offered by the service benefit plan, the indemnity benefit plan, the two employee organization plans, and the two comprehensive medical plans, for prior provision for a contribution, in addition to requirement of subsec. (c) of this section, of $1.62 if the enrollment is for self or $3.94 if the enrollment is for self and family.
 
 #### Effective Date of 1990 Amendments
 
@@ -173,10 +187,6 @@ Section 4(d) of Pub. L. 93–246 provided that: “The determination of the aver
 #### Effective Date of 1970 Amendment
 
 Section 1(b) of Pub. L. 91–418 provided that: “The amendment made by subsection (a) of this section \[amending this section\] shall become effective at the beginning of the first applicable pay period which commences after December 31, 1970.”
-
-#### Transfer of Functions
-
-Certain functions of Clerk of House of Representatives transferred to Director of Non-legislative and Financial Services by section 7 of House Resolution No. 423, One Hundred Second Congress, Apr. 9, 1992. Director of Non-legislative and Financial Services replaced by Chief Administrative Officer of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
 
 #### Payments by Postal Service Relating to Corrected Calculations for Past Health Benefits
 
@@ -212,11 +222,11 @@ Pub. L. 101–76, Aug. 11, 1989, 103 Stat. 556, as amended by Pub. L. 101–508,
 
 #### Contributions by United States Postal Service to Employees Health Benefits Fund
 
-Pub. L. 100–203, title VI, §6003, Dec. 22, 1987, 101 Stat. 1330–277, directed Postal Service to pay $160,000,000 in fiscal year 1988 and $270,000,000 in fiscal year 1989 intoEmployee Health Benefits Fund in addition to any amount deposited into Fund pursuant to this section in each such fiscal year.
+Pub. L. 100–203, title VI, §6003, Dec. 22, 1987, 101 Stat. 1330–277, directed Postal Service to pay $160,000,000 in fiscal year 1988 and $270,000,000 in fiscal year 1989 into Employee Health Benefits Fund in addition to any amount deposited into Fund pursuant to this section in each such fiscal year.
 
 #### Employees Serving on Part-Time Career Employment Basis on October 10, 1978
 
-Section 4(c)(2)(B) of Pub. L. 95–437 provided that: “The amendments made by subparagraph (A) \[amending subsec. (b)(1) and (3) of this section\] shall not apply with respect to any employee serving in a position on a part-time career employment basis on the date of the enactment of this Act \[Oct. 10, 1978\] for such period as the employee continues to serve without a break in service in that or any other position on such part-time basis.”
+Section 4(c)(2)(B) of Pub. L. 95–437 provided that: “The amendments made by subparagraph (A) \[amending subsec. (b)(1) and (3) of this section\] shall not apply with respect to any employee serving in a position on a part-time career employment basis on the date of the enactment of this Act \[Oct. 10, 1978\] for such period as the employee continues to serve without a break inservice in that or any other position on such part-time basis.”
 
 #### Calculation and Payment by Government of Contributions to Contingency Reserves of All Health Benefit Plans
 

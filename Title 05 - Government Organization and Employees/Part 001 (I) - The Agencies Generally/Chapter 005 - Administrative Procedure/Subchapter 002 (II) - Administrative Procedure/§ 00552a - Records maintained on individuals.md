@@ -38,7 +38,7 @@ Definitions.—For purposes of this section—
 
 &emsp;&emsp;&emsp;(iii) matches performed, by an agency (or component thereof) which performs as its principal function any activity pertaining to the enforcement of criminal laws, subsequent to the initiation of a specific criminal or civil law enforcement investigation of a named person or persons for the purpose of gathering evidence against such person or persons;
 
-&emsp;&emsp;&emsp;(iv) matches of tax information (I) pursuant to section 6103(d) of the Internal Revenue Code of 1986, (II) for purposes of tax administration as defined in section 6103(b)(4) of such Code, (III) for the purpose of intercepting a tax refund due an individual under authority granted by section 464 or 1137 of the Social Security Act; or (IV) for the purpose of intercepting a tax refund due an individual under any other tax refund intercept program authorized by statute which has been determined by the Director of the Office of Management and Budget to contain verification, notice, andhearing requirements that are substantially similar to the procedures in section 1137 of the Social Security Act;
+&emsp;&emsp;&emsp;(iv) matches of tax information (I) pursuant to section 6103(d) of the Internal Revenue Code of 1986, (II) for purposes of tax administration as defined in section 6103(b)(4) of such Code, (III) for the purpose of intercepting a tax refund due an individual under authority granted by section 404(e), 464, or 1137 of the Social Security Act; or (IV) for the purpose of intercepting a tax refund due an individual under any other tax refund intercept program authorized by statute which has been determined by the Director of the Office of Management and Budget to contain verification, notice, and hearing requirements that are substantially similar to the procedures in section 1137 of the Social Security Act;
 
 &emsp;&emsp;&emsp;(v) matches—
 
@@ -46,11 +46,9 @@ Definitions.—For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(II) conducted by an agency using only records from systems of records maintained by that agency;
 
-&emsp;&emsp;&nbsp;if the purpose of the match is not to take any adverse financial, personnel, disciplinary, or other adverse action against Federal personnel;
+&emsp;&emsp;&nbsp;if the purpose of the match is not to take any adverse financial, personnel, disciplinary, or other adverse action against Federal personnel; or
 
-&emsp;&emsp;&emsp;(vi) matches performed for foreign counterintelligence purposes or to produce background checks for security clearances of Federal personnel or Federal contractor personnel; or
-
-&emsp;&emsp;&emsp;(vii) matches performed pursuant to section 6103(<i>l</i>)(12) of the Internal Revenue Code of 1986 and section 1144 of the Social Security Act;
+&emsp;&emsp;&emsp;(vi) matches performed for foreign counterintelligence purposes or to produce background checks for security clearances of Federal personnel or Federal contractor personnel;
 
 &emsp;(9) the term “recipient agency” means any agency, or contractor thereof, receiving records contained in a system of records from a source agency for use in a matching program;
 
@@ -78,7 +76,7 @@ Conditions of Disclosure.—No agency shall disclose any record which is contain
 
 &emsp;(6) to the National Archives and Records Administration as a record which has sufficient historical or other value to warrant its continued preservation by the United States Government, or for evaluation by the Archivist of the United States or the designee of the Archivist to determine whether the record has such value;
 
-&emsp;(7) to another agency or to an instrumentality of any governmental jurisdiction within or under the control of the United States for a civil or criminal law enforcement activity if the activity is authorized by law, and if the head of the agency or instrumentality has made a written request to the agency which maintains the record specifying the particular portion desired and the law enforcement activity for which the record is sought;
+&emsp;(7) to another agency or to an instrumentality of any governmental jurisdiction within or under the control of the United States for a civil or criminal law enforcement activity if the activity is authorized by law, and if thehead of the agency or instrumentality has made a written request to the agency which maintains the record specifying the particular portion desired and the law enforcement activity for which the record is sought;
 
 &emsp;(8) to a person pursuant to a showing of compelling circumstances affecting the health or safety of an individual if upon such disclosure notification is transmitted to the last known address of such individual;
 
@@ -88,7 +86,7 @@ Conditions of Disclosure.—No agency shall disclose any record which is contain
 
 &emsp;(11) pursuant to the order of a court of competent jurisdiction; or
 
-&emsp;(12) to a consumer reporting agency in accordance with section 3711(f) of title 31.
+&emsp;(12) to a consumer reporting agency in accordance with section 3711(e) of title 31.
 
 (c)
 
@@ -216,7 +214,7 @@ Civil Remedies.—Whenever any agency
 
 (B) The court may assess against the United States reasonable attorney fees and other litigation costs reasonably incurred in any case under this paragraph in which the complainant has substantially prevailed.
 
-(3)(A) In any suit brought under the provisions of subsection (g)(1)(B) of this section, the court may enjoin the agency from withholding the records and order the production to the complainant of any agency records improperly withheld from him. In such a case the court shall determine the matter de novo, and may examine the contents of any agency records in camera to determine whether the records or any portionthereof may be withheld under any of the exemptions set forth in subsection (k) of this section, and the burden is on the agency to sustain its action.
+(3)(A) In any suit brought under the provisions of subsection (g)(1)(B) of this section, the court may enjoin the agency from withholding the records and order the production to the complainant of any agency records improperly withheld from him. In such a case the court shall determine the matter de novo, and may examine the contents of any agency records in camera to determine whether the records or any portion thereof may be withheld under any of the exemptions set forth in subsection (k) of this section, and the burden is on the agency to sustain its action.
 
 (B) The court may assess against the United States reasonable attorney fees and other litigation costs reasonably incurred in any case under this paragraph in which the complainant has substantially prevailed.
 
@@ -246,7 +244,7 @@ General Exemptions.—The head of any agency may promulgate rules, in accordance
 
 &emsp;(1) maintained by the Central Intelligence Agency; or
 
-&emsp;(2) maintained by an agency or component thereof which performs as its principal function any activity pertaining to the enforcement of criminal laws, including police efforts to prevent, control, or reduce crime or to apprehend criminals, and the activities of prosecutors, courts, correctional, probation, pardon, or parole authorities, and which consists of (A) information compiled for the purpose of identifying individual criminal offenders and alleged offenders and consisting only of identifying data and notations of arrests, the nature and disposition of criminal charges, sentencing, confinement, release, and parole and probation status; (B) information compiled for the purpose of a criminal investigation, including reports of informants and investigators, and associated with an identifiable individual; or (C) reports identifiable to an individual compiled at any stage of the process of enforcement of the criminal laws from arrest or indictment through release from supervision.
+&emsp;(2) maintained by an agency or component thereof which performs as its principal function any activity pertaining to the enforcement of criminal laws, including police efforts to prevent, control, or reduce crime or to apprehend criminals, and the activities of prosecutors, courts, correctional, probation, pardon, or parole authorities, and which consists of (A) information compiled for the purpose of identifying individual criminal offenders and alleged offenders and consisting only of identifying data and notations of arrests, the nature and disposition of criminal charges, sentencing, confinement, release, and parole and probation status; (B) information compiled forthe purpose of a criminal investigation, including reports of informants and investigators, and associated with an identifiable individual; or (C) reports identifiable to an individual compiled at any stage of the process of enforcement of the criminal laws from arrest or indictment through release from supervision.
 
 > At the time rules are adopted under this subsection, the agency shall include in the statement required under section 553(c) of this title, the reasons why the system of records is to be exempted from a provision of this section.
 
@@ -270,7 +268,7 @@ Specific Exemptions.—The head of any agency may promulgate rules, in accordanc
 
 > At the time rules are adopted under this subsection, the agency shall include in the statement required under section 553(c) of this title, the reasons why the system of records is to be exempted from a provision of this section.
 
-(<i>l)</i>
+(<i>l</i>)
 
 Archival Records.—Each agency record which is accepted by the Archivist of the United States for storage, processing, and servicing in accordance with section 3103 of title 44 shall, for the purposes of this section, be considered to be maintained by the agency which deposited the record and shall be subject to the provisions of this section. The Archivist of the United States shall not disclose the record except to the agency which maintains the record, or under rules established by that agency which are not inconsistent with the provisions of this section.
 
@@ -282,7 +280,7 @@ Archival Records.—Each agency record which is accepted by the Archivist of the
 
 Government Contractors.—When an agency provides by a contract for the operation by or on behalf of the agency of a system of records to accomplish an agency function, the agency shall, consistent with its authority, cause the requirements of this section to be applied to such system. For purposes of subsection (i) of this section any such contractor and any employee of such contractor, if such contract is agreed to on or after the effective date of this section, shall be considered to be an employee of an agency.
 
-(2) A consumer reporting agency to which a record is disclosed under section 3711(f) of title 31 shall not be considered a contractor for the purposes of this section.
+(2) A consumer reporting agency to which a record is disclosed under section 3711(e) of title 31 shall not be considered a contractor for the purposes of this section.
 
 (n)
 
@@ -464,15 +462,15 @@ Office of Management and Budget Responsibilities.—The Director of the Office o
 
 &emsp;(2) provide continuing assistance to and oversight of the implementation of this section by agencies.
 
-(Added Pub. L. 93–579, §3, Dec. 31, 1974, 88 Stat. 1897; amended Pub. L. 94–183, §2(2), Dec. 31, 1975, 89 Stat. 1057; Pub. L. 97–365, §2, Oct. 25, 1982, 96 Stat. 1749; Pub. L. 97–375, title II, §201(a), (b), Dec. 21, 1982, 96 Stat. 1821; Pub. L. 97–452, §2(a)(1), Jan. 12, 1983, 96 Stat. 2478; Pub. L. 98–477, §2(c), Oct. 15, 1984, 98 Stat. 2211; Pub. L. 98–497, title I, §107(g), Oct. 19, 1984, 98 Stat. 2292; Pub. L. 100–503, §§2–6(a), 7, 8, Oct. 18, 1988, 102 Stat. 2507–2514; Pub. L. 101–508, title VII, §7201(b)(1), Nov. 5, 1990, 104 Stat. 1388–334; Pub. L. 103–66, title XIII, §13581(c), Aug. 10, 1993, 107 Stat. 611.)
+(Added Pub. L. 93–579, §3, Dec. 31, 1974, 88 Stat. 1897; amended Pub. L. 94–183, §2(2), Dec. 31, 1975, 89 Stat. 1057; Pub. L. 97–365, §2, Oct. 25, 1982, 96 Stat. 1749; Pub. L. 97–375, title II, §201(a), (b), Dec. 21, 1982, 96 Stat. 1821; Pub. L. 97–452, §2(a)(1), Jan. 12, 1983, 96 Stat. 2478; Pub. L. 98–477, §2(c), Oct. 15, 1984, 98 Stat. 2211; Pub. L. 98–497, title I, §107(g), Oct. 19, 1984, 98 Stat. 2292; Pub. L. 100–503, §§2–6(a), 7, 8, Oct. 18, 1988, 102 Stat. 2507–2514; Pub. L. 101–508, title VII, §7201(b)(1), Nov. 5, 1990, 104 Stat. 1388–334; Pub. L. 103–66, title XIII, §13581(c), Aug. 10, 1993, 107 Stat. 611; Pub. L. 104–193, title I, §110(w), Aug. 22, 1996, 110 Stat. 2175; Pub. L. 104–226, §1(b)(3), Oct. 2, 1996, 110 Stat. 3033; Pub. L. 104–316, title I, §115(g)(2)(B), Oct. 19, 1996, 110 Stat. 3835.)
 
 #### References in Text
 
 Section 552(e) of this title, referred to in subsec. (a)(1), was redesignated section 552(f) of this title by section 1802(b) of Pub. L. 99–570.
 
-Section 6103 of the Internal Revenue Code of 1986, referred to in subsec. (a)(8)(B)(iv), (vii), is classified to section 6103 of Title 26, Internal Revenue Code.
+Section 6103 of the Internal Revenue Code of 1986, referred to in subsec. (a)(8)(B)(iv), is classified to section 6103 of Title 26, Internal Revenue Code.
 
-Sections 464, 1137, and 1144 of the Social Security Act, referred to in subsec. (a)(8)(B)(iv), (vii), are classified to sections 664, 1320b–7, and 1320b–14, respectively, of Title 42, The Public Health and Welfare.
+Sections 404, 464, and 1137 of the Social Security Act, referred to in subsec. (a)(8)(B)(iv), are classified to sections 604, 664, and 1320b–7, respectively, of Title 42, The Public Health and Welfare.
 
 For effective date of this section, referred to in subsecs. (k)(2), (5), (7), (<i>l</i>)(2), (3), and (m), see Effective Date note below.
 
@@ -488,11 +486,17 @@ Section 552a of former Title 5, Executive Departments and Government Officers an
 
 #### Amendments
 
-<b>1993</b>—Subsec. (a)(8)(B)(vii). Pub. L. 103–66 added cl. (vii).
+1996—Subsec. (a)(8)(B)(iv)(III). Pub. L. 104–193 substituted “section 404(e), 464,” for “section 464”.
 
-<b>1990</b>—Subsec. (p). Pub. L. 101–508 amended subsec. (p) generally, restating former pars. (1) and (3) as par. (1), adding provisions relating to Data Integrity Boards, and restating former pars. (2) and (4) as (2) and (3), respectively.
+Subsec. (a)(8)(B)(v) to (vii). Pub. L. 104–226 inserted “or” at end of cl. (v), struck out “or” at end of cl. (vi), and struck out cl. (vii) which read as follows: “matches performed pursuant to section 6103(<i>l</i>)(12) of the Internal Revenue Code of 1986 and section 1144 of the Social Security Act;”.
 
-<b>1988</b>—Subsec. (a)(8) to (13). Pub. L. 100–503, §5, added pars. (8) to (13).
+Subsecs. (b)(12), (m)(2). Pub. L. 104–316 substituted “3711(f)” for “3711(e)”.
+
+1993—Subsec. (a)(8)(B)(vii). Pub. L. 103–66 added cl. (vii).
+
+1990—Subsec. (p). Pub. L. 101–508 amended subsec. (p) generally, restating former pars. (1) and (3) as par. (1), adding provisions relating to Data Integrity Boards, and restating former pars. (2) and (4) as (2) and (3), respectively.
+
+1988—Subsec. (a)(8) to (13). Pub. L. 100–503, §5, added pars. (8) to (13).
 
 Subsec. (e)(12). Pub. L. 100–503, §3(a), added par. (12).
 
@@ -514,17 +518,17 @@ Subsec. (u). Pub. L. 100–503, §4, added subsec. (u).
 
 Subsec. (v). Pub. L. 100–503, §6(a), added subsec. (v).
 
-<b>1984</b>—Subsec. (b)(6). Pub. L. 98–497, §107(g)(1), substituted “National Archives and Records Administration” for “National Archives of the United States”, and “Archivist of the United States or the designee of the Archivist” for “Administrator of General Services or his designee”.
+1984—Subsec. (b)(6). Pub. L. 98–497, §107(g)(1), substituted “National Archives and Records Administration” for “National Archives of the United States”, and “Archivist of the United States or the designee of the Archivist” for “Administrator of General Services or his designee”.
 
 Subsec. (<i>l</i>)(1). Pub. L. 98–497, §107(g)(2), substituted “Archivist of the United States” for “Administrator of General Services” in two places.
 
 Subsec. (q). Pub. L. 98–477 designated existing provisions as par. (1) and added par. (2).
 
-<b>1983</b>—Subsec. (b)(12). Pub. L. 97–452 substituted “section 3711(f) of title 31” for “section 3(d) of the Federal Claims Collection Act of 1966 (31 U.S.C. 952(d))”.
+1983—Subsec. (b)(12). Pub. L. 97–452 substituted “section 3711(f) of title 31” for “section 3(d) of the Federal Claims Collection Act of 1966 (31 U.S.C. 952(d))”.
 
 Subsec. (m)(2). Pub. L. 97–452 substituted “section 3711(f) of title 31” for “section 3(d) of the Federal Claims Collection Act of 1966 (31 U.S.C. 952(d))”.
 
-<b>1982</b>—Subsec. (b)(12). Pub. L. 97–365, §2(a), added par. (12).
+1982—Subsec. (b)(12). Pub. L. 97–365, §2(a), added par. (12).
 
 Subsec. (e)(4). Pub. L. 97–375, §201(a), substituted “upon establishment or revision” for “at least annually” after “Federal Register”.
 
@@ -532,11 +536,15 @@ Subsec. (m). Pub. L. 97–365, §2(b), designated existing provisions as par. (1
 
 Subsec. (p). Pub. L. 97–375, §201(b), substituted provisions requiring annual submission of a report by the President to the Speaker of the House and President pro tempore of the Senate relating to the Director of the Office of Management and Budget, individual rights of access, changes or additions to systems of records, and other necessary or useful information, for provisions which had directed the President to submit to the Speaker of the House and the President of the Senate, by June 30 of each calendar year, a consolidated report, separately listing for each Federal agency the number of records contained in any system of records which were exempted from the application of this section under the provisions of subsections (j) and (k) of this section during the preceding calendar year, and the reasons for the exemptions, and such other information as indicate efforts to administer fully this section.
 
-<b>1975</b>—Subsec. (g)(5). Pub. L. 94–183 substituted “to September 27, 1975” for “to the effective date of this section”.
+1975—Subsec. (g)(5). Pub. L. 94–183 substituted “to September 27, 1975” for “to the effective date of this section”.
 
 #### Change of Name
 
 Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note under section 21 of Title 2, The Congress.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–193 effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, set out as a note under section 601 of Title 42, The Public Health and Welfare.
 
 #### Effective Date of 1993 Amendment
 
@@ -572,7 +580,7 @@ Amendment by Pub. L. 98–497 effective Apr. 1, 1985, see section 301 of Pub. L.
 
 #### Effective Date
 
-Section 8 of Pub. L. 93–579 provided that: “The provisions of this Act \[enacting this section and provisions set out as notes under this section\] shall be effective on and after the date of enactment \[Dec. 31, 1974\], except that the amendments made by sections 3 and 4 \[enacting this section and amending analysis preceding section 500 of this title\] shall become effective 270 days following the day on which this Act is enacted.”
+Section 8 of Pub. L. 93–579 provided that: “The provisions of this Act \[enacting this section and provisions set out as notes under this section\] shall be effective on and after the date of enactment \[Dec. 31, 1974\], exceptthat the amendments made by sections 3 and 4 \[enacting this section and amending analysis preceding section 500 of this title\] shall become effective 270 days following the day on which this Act is enacted.”
 
 #### Short Title of 1990 Amendment
 
@@ -610,7 +618,7 @@ Section 7201(c) of Pub. L. 101–508 provided that: “Section 552a(p)(1)(A)(ii)
 
 Pub. L. 101–366, title II, §206(d), Aug. 15, 1990, 104 Stat. 442, provided that:
 
-“(1) In the case of computer matching programs between the Department of Veterans Affairs and the Department of Defense in the administration of education benefits programs under chapters 30 and 32 of title 38 and chapter 106 of title 10, United States Code, the amendments made to section 552a of title 5, United States Code, by the Computer Matching and PrivacyProtection Act of 1988 \[Pub. L. 100–503\] (other than the amendments made by section 10(b) of that Act) \[see Effective Date of 1988 Amendment note above\] shall take effect on October 1, 1990.
+“(1) In the case of computer matching programs between the Department of Veterans Affairs and the Department of Defense in the administration of education benefits programs under chapters 30 and 32 of title 38 and chapter 106 of title 10, United States Code, the amendments made to section 552a of title 5, United States Code, by the Computer Matching and Privacy Protection Act of 1988 \[Pub. L. 100–503\] (other than the amendments made by section 10(b) of that Act) \[see Effective Date of 1988 Amendment note above\] shall take effect on October 1, 1990.
 
 “(2) For purposes of this subsection, the term ‘matching program’ has the same meaning provided in section 552a(a)(8) of title 5, United States Code.”
 
@@ -654,7 +662,7 @@ Section 2 of Pub. L. 93–579 provided that:
 
 &emsp;“(3) permit an individual to gain access to information pertaining to him in Federal agency records, to have a copy made of all or any portion thereof, and to correct or amend such records;
 
-&emsp;“(4) collect, maintain, use, or disseminate any record of identifiable personal information in a manner that assures that such action is for a necessary and lawful purpose, that the information is current and accurate for its intended use, and that adequate safeguards are provided to prevent misuse of such information;
+&emsp;“(4) collect, maintain, use, or disseminate any record of identifiable personal information in a manner that assures that such action is for a necessary and lawful purpose, that the information is current and accurate for its intended use, and that adequatesafeguards are provided to prevent misuse of such information;
 
 &emsp;“(5) permit exemptions from the requirements with respect to records provided in this Act only in those cases where there is an important public policy need for such exemption as has been determined by specific statutory authority; and
 
@@ -692,7 +700,7 @@ For provisions relating to a response to a request for information under this se
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 552b, 1212, 3111, 7133, 8148 of this title; title 7 section 2204b; title 10 sections 424, 1102, 1588; title 12 section 1715z; title 14 section 645; title 15 section 278g–3; title 16 sections 410cc–35, 1536; title 19 section 1631; title 20 sections 1080a, 9010; title 22 section 4355; title 25 section 3205; title 26 sections 6103, 7852; title 31 sections 3701, 3711, 3718, 3729, 3733; title 38 sections 3684A, 5701; title 39 section 410; title 42 sections 300aa–25, 402, 405, 904, 1306, 3544, 9660; title 44 sections 2906, 3501, 3504, 3506; title 46 sections 7702, 9303; title 49 sections 111, 30305; title 50 App. section 2159.
+This section is referred to in sections 552b, 1212, 3111, 7133, 8148 of this title; title 7 sections 2204b, 2279b; title 10 sections 1102, 1506, 1588; title 12 section 1715z; title 14 section 645; title 15 section 278g–3; title 16 sections 410cc–35, 1536; title 19 section 1631; title 20 sections 1080a, 9010; title 22 section 4355; title 25 section 3205; title 26 sections 6103, 7852; title 31 sections 3701, 3711, 3718, 3729, 3733; title 38 sections 3684A, 5701; title 39 section 410; title 42 sections 300aa–25, 402, 405, 904, 1306, 3544, 9660; title 44 sections 2906, 3501, 3504, 3506; title 46 sections 7702, 9303; title 49 sections 111, 30305; title 50 App. section 2159.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

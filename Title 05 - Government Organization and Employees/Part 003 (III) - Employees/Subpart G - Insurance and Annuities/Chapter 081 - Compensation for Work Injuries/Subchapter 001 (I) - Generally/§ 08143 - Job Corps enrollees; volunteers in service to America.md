@@ -20,7 +20,9 @@ Act
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 (a)
 
@@ -78,11 +80,11 @@ Part A of subchapter VIII of chapter 34 of title 42, referred to in subsec. (b),
 
 #### Amendments
 
-<b>1993</b>—Subsec. (b). Pub. L. 103–82 substituted “GS–5 of the General Schedule under section 5332 of title 5, United States Code” for “GS–7”.
+1993—Subsec. (b). Pub. L. 103–82 substituted “GS–5 of the General Schedule under section 5332 of title 5, United States Code” for “GS–7”.
 
-<b>1974</b>—Pub. L. 93–416 struck out “, (b)” after “section 8113(a)”.
+1974—Pub. L. 93–416 struck out “, (b)” after “section 8113(a)”.
 
-<b>1968</b>—Pub. L. 90–623 reenacted section in its entirety making minor changes in phraseology.
+1968—Pub. L. 90–623 reenacted section in its entirety making minor changes in phraseology.
 
 #### Effective Date of 1993 Amendment
 

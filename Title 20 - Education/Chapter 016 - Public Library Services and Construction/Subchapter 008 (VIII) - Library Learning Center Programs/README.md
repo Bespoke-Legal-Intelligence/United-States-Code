@@ -1,9 +1,5 @@
 ### SUBCHAPTER VIII—LIBRARY LEARNING CENTER PROGRAMS
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 351b of this title.
-
 
 ---
 

@@ -1,9 +1,5 @@
 ### SUBCHAPTER X—NUCLEAR NONPROLIFERATION CONTROLS
 
-#### Repeal of Subchapter
-
-<i>For repeal of subchapter by section 851 of Pub. L. 103–236, see Effective and Termination Dates note set out under section 2799aa of this title.</i>
-
 
 ---
 

@@ -16,7 +16,7 @@ The trustees of any railroad undergoing reorganization under section 77 of the B
 
 &emsp;(6) the probable value of the assets of the railroad in the event of liquidation provides reasonable protection to the United States.
 
-> The Secretary shall publish notice of his intention to make such finding in the Federal Register not less than fifteen days prior to such finding, give interested persons, including agencies of the Federal Government, an opportunity to submit written data, views, or arguments (with or without opportunity for oral presentation), and give consideration to the relevant matter presented. The Secretary for good cause shown and upon a finding that extraordinary circumstances warrant doing so may waive the requirements of the preceding sentence. Notwithstanding any other provision of this section, the Secretary, in guaranteeing certificates under this section, is authorized to waive the findings required by paragraphs (1), (5), and (6) of this subsection.
+> The Secretary shall publish notice of his intention to make such finding in the Federal Register not less than fifteen days prior to suchfinding, give interested persons, including agencies of the Federal Government, an opportunity to submit written data, views, or arguments (with or without opportunity for oral presentation), and give consideration to the relevant matter presented. The Secretary for good cause shown and upon a finding that extraordinary circumstances warrant doing so may waive the requirements of the preceding sentence. Notwithstanding any other provision of this section, the Secretary, in guaranteeing certificates under this section, is authorized to waive the findings required by paragraphs (1), (5), and (6) of this subsection.
 
 #### (b) Conditions to guarantee
 
@@ -50,7 +50,7 @@ The Secretary shall issue such rules and regulations as are appropriate to carry
 
 #### References in Text
 
-The Bankruptcy Act, referred to in subsecs. (a) and (c), is act July 1, 1898, ch. 541, 30 Stat. 544, as amended, which was classified generally to former Title 11, Bankruptcy. Section 77 of this Act was classified to section205 of former Title 11. The Act was repealed effective Oct. 1, 1979, by Pub. L. 95–598, §§401(a), 402(a), Nov. 6, 1978, 92 Stat. 2682, section 101 of which enacted revised Title 11. For current provisions relating to railroad reorganization, see subchapter IV (§1161 et seq.) of chapter 11 of Title 11.
+The Bankruptcy Act, referred to in subsecs. (a) and (c), is act July 1, 1898, ch. 541, 30 Stat. 544, as amended, which was classified generally to former Title 11, Bankruptcy. Section 77 of this Act was classified to section 205 of former Title 11. The Act was repealed effective Oct. 1, 1979, by Pub. L. 95–598, §§401(a), 402(a), Nov. 6, 1978, 92 Stat. 2682, section 101 of which enacted revised Title 11. For current provisions relating to railroad reorganization, see subchapter IV (§1161 et seq.) of chapter 11 of Title 11.
 
 #### Amendments
 
@@ -64,7 +64,7 @@ Subsec. (c). Pub. L. 96–101, §7(b), added subsec. (c). Former subsec. (c) was
 
 Subsec. (e). Pub. L. 96–101, §7(c), substituted “$200,000,000” for “$125,000,000” and struck out provision requiring that with respect to a railroad which filed a petition for reorganization during fiscal year 1978, during period Oct. 1, 1979, through Nov. 30, 1979, certificates be issued without regard to limitations of subsec. (a) of this section and with such priority in payment as Secretary deems appropriate to secure repayment, for purpose of continuing service on railroad system at level in effect on Oct. 1, 1979.
 
-Pub. L. 96–86 provided that, with respect to a railroad which filed a petition for reorganization during fiscal year 1978, during period Oct. 1, 1979, through Nov. 30, 1979, certificates shall be issued without regard to limitations of subsec. (a) of this section and with such priority in payment as Secretary deems appropriate to secure repayment, for purpose of continuing service on railroad system at level in effect on Oct. 1, 1979.
+Pub. L. 96–86 provided that, with respect to a railroad which filed a petition for reorganization during fiscal year 1978, during period Oct. 1, 1979, through Nov. 30,1979, certificates shall be issued without regard to limitations of subsec. (a) of this section and with such priority in payment as Secretary deems appropriate to secure repayment, for purpose of continuing service on railroad system at level in effect on Oct. 1, 1979.
 
 1978—Subsec. (a). Pub. L. 95–611 inserted provision authorizing Secretary to waive requirements of paragraphs (1), (5), and (6) of subsec. (a) until Dec. 31, 1979.
 

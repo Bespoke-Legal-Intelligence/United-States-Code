@@ -40,13 +40,17 @@ Duties of conveners.—The convener shall report findings and may make recommend
 
 (Added Pub. L. 101–648, §3(a), Nov. 29, 1990, 104 Stat. 4970, §583; renumbered §563, Pub. L. 102–354, §3(a)(2), Aug. 26, 1992, 106 Stat. 944.)
 
-#### Repeal of Section
-
-<i>Section repealed effective six years after Nov. 29, 1990, see section 5 of Pub. L. 101–648, as amended, set out as an Effective Date of Repeal; Savings Provision note under section 561 of this title.</i>
-
 #### Amendments
 
-<b>1992</b>—Pub. L. 102–354 renumbered section 583 of this title as this section.
+1992—Pub. L. 102–354 renumbered section 583 of this title as this section.
+
+#### Negotiated Rulemaking Committees
+
+Pub. L. 104–320, §11(e), Oct. 19, 1996, 110 Stat. 3874, provided that: “The Director of the Office of Management and Budget shall—
+
+&emsp;“(1) within 180 days of the date of the enactment of this Act \[Oct. 19, 1996\], take appropriate action to expedite the establishment of negotiated rulemaking committees and committees established to resolve disputes under the Administrative Dispute Resolution Act \[Pub. L. 101–552, see Short Title note set out under section 571 of this title\], including, with respect to negotiated rulemaking committees, eliminating any redundant administrative requirements related to filing a committee charter under section 9 of the Federal Advisory Committee Act (5 U.S.C. App.) and providing public notice of such committee under section 564 of title 5, United States Code; and
+
+&emsp;“(2) within one year of the date of the enactment of this Act, submit recommendations to Congress for any necessary legislative changes.”
 
 #### Section Referred to in Other Sections
 

@@ -1,10 +1,10 @@
 ### §4323. Enforcement of rights with respect to a State or private employer
 
-(a)(1) A person who receives from the Secretary a notification pursuant to section 4322(e) of an unsuccessful effort to resolve a complaint relating to a State (as an employer) or a private employer may request that the Secretary referthe complaint to the Attorney General. If the Attorney General is reasonably satisfied that the person on whose behalf the complaint is referred is entitled to the rights or benefits sought, the Attorney General may appear on behalf of, and act as attorney for, the person on whose behalf the complaint is submitted and commence an action for appropriate relief for such person in an appropriate United States district court.
+(a)(1) A person who receives from the Secretary a notification pursuant to section 4322(e) relating to a State (as an employer) or a private employer may request that the Secretary refer the complaint to the Attorney General. If the Attorney General is reasonably satisfied that the person on whose behalf the complaint is referred is entitled to the rights or benefits sought, the Attorney General may appear on behalf of, and act as attorney for, the person on whose behalf the complaint is submitted and commence an action for appropriate relief for such person in an appropriate United States district court.
 
 (2) A person may commence an action for relief with respect to a complaint if that person—
 
-&emsp;(A) has chosen not to apply to the Secretary for assistance regarding the complaint under section 4322(c);
+&emsp;(A) has chosen not to apply to the Secretary for assistance under section 4322(a);
 
 &emsp;(B) has chosen not to request that the Secretary refer the complaint to the Attorney General under paragraph (1); or
 
@@ -36,11 +36,21 @@
 
 (7) A State shall be subject to the same remedies, including prejudgment interest, as may be imposed upon any private employer under this section.
 
-(Added Pub. L. 103–353, §2(a), Oct. 13, 1994, 108 Stat. 3165.)
+(Added Pub. L. 103–353, §2(a), Oct. 13, 1994, 108 Stat. 3165; amended Pub. L. 104–275, title III, §311(10), Oct. 9, 1996, 110 Stat. 3335.)
 
 #### Prior Provisions
 
 A prior section 4323 was renumbered section 7623 of this title.
+
+#### Amendments
+
+1996—Subsec. (a)(1). Pub. L. 104–275, §311(10)(A), struck out “of an unsuccessful effort to resolve a complaint” after “notification pursuant to section 4322(e)”.
+
+Subsec. (a)(2)(A). Pub. L. 104–275, §311(10)(B), substituted “under section 4322(a)” for “regarding the complaint under section 4322(c)”.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–275 effective Oct. 13, 1994, see section 313 of Pub. L. 104–275, set out as a note under section 4301 of this title.
 
 #### Effective Date
 
@@ -48,5 +58,5 @@ Section effective with respect to reemployments initiated on or after the first 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 4322, 4332 of this title; title 2 section 1316.
+This section is referred to in sections 4322, 4332 of this title; title 2 section 1316; title 3 section 416.
 

@@ -20,7 +20,7 @@ The Internal Revenue Code of 1986, referred to in subsec. (a), is classified gen
 
 #### Amendments
 
-1994—Subsec. (b)(2). Pub. L. 103–296 substituted “(for amounts which will be paid from the Federal Old-Age and Survivors Insurance Trust Fund and the Federal Disability Insurance Trust Fund, as estimated by the Commissioner, and for amounts which will be paid from the Federal Hospital Insurance Trust and the Federal Supplementary Medical Insurance Trust Fund, as estimated by the Secretary)” for “(as estimated by the Secretary)”.
+1994—Subsec. (b)(2). Pub. L. 103–296 substituted “(for amounts which will be paid from the Federal Old-Ageand Survivors Insurance Trust Fund and the Federal Disability Insurance Trust Fund, as estimated by the Commissioner, and for amounts which will be paid from the Federal Hospital Insurance Trust and the Federal Supplementary Medical Insurance Trust Fund, as estimated by the Secretary)” for “(as estimated by the Secretary)”.
 
 1986—Subsec. (a). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 

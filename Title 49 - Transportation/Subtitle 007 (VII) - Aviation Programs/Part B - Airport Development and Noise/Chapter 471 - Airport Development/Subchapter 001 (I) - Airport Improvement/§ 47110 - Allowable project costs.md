@@ -14,13 +14,13 @@ Allowable Cost Standards.—A project cost is allowable—
 
 &emsp;(B) if the cost is incurred after June 1, 1989, by the airport operator (regardless of when the grant agreement is executed) as part of a Government-approved noise compatability program (including project formulation costs) and is consistent with all applicable statutory and administrative requirements; or
 
-&emsp;(C) if the Government's share is paid only with amounts apportioned under section 47114(c)(1)(A) and (2) of this title and if the cost is incurred—
+&emsp;(C) if the Government's share is paid only with amounts apportioned under paragraphs (1) and (2) of section 47114(c) of this title and if the cost is incurred—
 
-&emsp;&emsp;(i) during the fiscal year ending September 30, 1994;
+&emsp;&emsp;(i) after September 30, 1996;
 
-&emsp;&emsp;(ii) before a grant agreement is executed for the project but according to an airport layout plan the Secretary approves before the cost is incurred and all applicable statutory and administrative requirements that would apply to the project if the agreement had been executed; and
+&emsp;&emsp;(ii) before a grant agreement is executed for the project; and
 
-&emsp;&emsp;(iii) for work related to a project for which a grant agreement previously was executed during the fiscal year ending September 30, 1994;
+&emsp;&emsp;(iii) in accordance with an airport layout plan approved by the Secretary and with all statutory and administrative requirements that would have been applicable to the project if the project had been carried out after the grant agreement had been executed;
 
 &emsp;(3) to the extent the cost is reasonable in amount;
 
@@ -60,7 +60,7 @@ Terminal Development Costs.—(1) The Secretary may decide that the cost of term
 
 (e)
 
-Letters of Intent.—(1) The Secretary may issue a letter of intent to the sponsor stating an intention to obligate from future budget authority an amount, not more than the Government's share of allowable project costs, foran airport development project (including costs of formulating the project) at a primary or reliever airport. The letter shall establish a schedule under which the Secretary will reimburse the sponsor for the Government's share of allowable project costs, as amounts become available, if the sponsor, after the Secretary issues the letter, carries out the project without receiving amounts under this subchapter.
+Letters of Intent.—(1) The Secretary may issue a letter of intent to the sponsor stating an intention to obligate from future budget authority an amount, not more than the Government's share of allowable project costs, for an airport development project (including costs of formulating the project) at a primary or reliever airport. The letter shall establish a schedule under which the Secretary will reimburse the sponsor for the Government's share of allowable project costs, as amounts become available, if the sponsor, after the Secretary issues the letter, carries out the project without receiving amounts under this subchapter.
 
 (2) Paragraph (1) of this subsection applies to a project—
 
@@ -92,13 +92,19 @@ Nonallowable Costs.—Except as provided in subsection (d) of this section and s
 
 &emsp;(4) providing or installing sculpture or art works.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1264; Pub. L. 103–305, title I, §115, Aug. 23, 1994, 108 Stat. 1579; Pub. L. 103–429, §6(64), Oct. 31, 1994, 108 Stat. 4385.)
+(g)
+
+Use of Discretionary Funds.—A project for which cost reimbursement is provided under subsection (b)(2)(C) shall not receive priority consideration with respect to the use of discretionary funds made available under section 47115 of this title even if the amounts made available under paragraphs (1) and (2) of section 47114(c) are not sufficient to cover the Government's share of the cost of <sup>1</sup> project.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1264; Pub. L. 103–305, title I, §115, Aug. 23, 1994, 108 Stat. 1579; Pub. L. 103–429, §6(64), Oct. 31, 1994, 108 Stat. 4385; Pub. L. 104–264, title I, §144, Oct. 9, 1996, 110 Stat. 3222.)
 
 Historical and Revision Notes
 
 Pub. L. 103–272
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -175,6 +181,16 @@ In subsection (b)(2)(C)(ii), the words “before the cost is incurred” are add
 
 #### Amendments
 
+1996—Subsec. (b)(2)(C). Pub. L. 104–264, §144(a), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “if the Government's share is paid only with amounts apportioned under section 47114(c)(1)(A) and (2) of this title and if the cost is incurred—
+
+&emsp;“(i) during the fiscal year ending September 30, 1994;
+
+&emsp;“(ii) before a grant agreement is executed for the project but according to an airport layout plan the Secretary approves before the cost is incurred and all applicable statutory and administrative requirements that would apply to the project if the agreement had been executed; and
+
+&emsp;“(iii) for work related to a project for which a grant agreement previously was executed during the fiscal year ending September 30, 1994;”.
+
+Subsec. (g). Pub. L. 104–264, §144(b), added subsec. (g).
+
 1994—Subsec. (b)(2). Pub. L. 103–429 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “if the cost is incurred—
 
 &emsp;“(A) after the grant agreement is executed and is for airport development or airport planning carried out after the grant agreement is executed; or
@@ -182,6 +198,10 @@ In subsection (b)(2)(C)(ii), the words “before the cost is incurred” are add
 &emsp;“(B) after June 1, 1989, by the airport operator (regardless of when the grant agreement is executed) as part of a Government-approved noise compatibility program (including project formulation costs) and is consistent with all applicable statutory and administrative requirements;”.
 
 Subsec. (e)(6). Pub. L. 103–305 added par. (6).
+
+#### Effective Date of 1996 Amendment
+
+Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal yearsbeginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
 
 #### Letters of Intent; Duration of Authority and Approval by Congress
 
@@ -197,5 +217,7 @@ Pub. L. 100–457, title III, §334, Sept. 30, 1988, 102 Stat. 2153.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 40117, 47108, 47119 of this title.
+This section is referred to in sections 40117, 47108, 47115, 47119 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “of the”.</i>
 

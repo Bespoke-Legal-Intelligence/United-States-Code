@@ -8,7 +8,7 @@
 
 (d) Of the sum appropriated in any fiscal year under this section, a portion, in an amount determined under section 159(b) of this title, shall be derived from fees authorized by section 159 of this title.
 
-(June 19, 1934, ch. 652, title I, §6, as added Aug. 13, 1981, Pub. L. 97–35, title XII, §1251(a), 95 Stat.738; amended Dec. 8, 1983, Pub. L. 98–214, §2(a), 97 Stat. 1467; Apr. 7, 1986, Pub. L. 99–272, title V, §5002(a)(1), 100 Stat. 117; Nov. 3, 1988, Pub. L. 100–594, §2(a), 102 Stat. 3021; Sept. 28, 1990, Pub. L. 101–396, §2(a), 104 Stat. 848; Aug. 10, 1993, Pub. L. 103–66, title VI, §6003(b), 107 Stat. 401.)
+(June 19, 1934, ch. 652, title I, §6, as added Aug. 13, 1981, Pub. L. 97–35, title XII, §1251(a), 95 Stat. 738; amended Dec. 8, 1983, Pub. L. 98–214, §2(a), 97 Stat. 1467; Apr. 7, 1986, Pub. L. 99–272, title V, §5002(a)(1), 100 Stat. 117; Nov. 3, 1988, Pub. L. 100–594, §2(a), 102 Stat. 3021; Sept. 28, 1990, Pub. L. 101–396, §2(a), 104 Stat. 848; Aug. 10, 1993, Pub. L. 103–66, title VI, §6003(b), 107 Stat. 401.)
 
 #### Amendments
 
@@ -33,6 +33,18 @@ Section 5002(a)(2) of Pub. L. 99–272 provided that: “The amendment made by p
 #### Effective Date of 1983 Amendment
 
 Section 2(b) of Pub. L. 98–214 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to fiscal years beginning after September 30, 1983.”
+
+#### Authorization of Appropriations
+
+Pub. L. 104–104, title VII, §710(a), (b), Feb. 8, 1996, 110 Stat. 160, provided that:
+
+“(a)
+
+In General.—In addition to any other sums authorized by law, there are authorized to be appropriated to the Federal Communications Commission such sums as may be necessary to carry out this Act \[see Short Title of 1996 Amendment note set out under section 609 of this title\] and the amendments made by this Act.
+
+“(b)
+
+Effect on Fees.—For the purposes of section 9(b)(2) (47 U.S.C. 159(b)(2)), additional amounts appropriated pursuant to subsection (a) shall be construed to be changes in the amounts appropriated for the performance of activities described in section 9(a) of the Communications Act of 1934 \[47 U.S.C. 159(a)\].”
 
 #### Section Referred to in Other Sections
 

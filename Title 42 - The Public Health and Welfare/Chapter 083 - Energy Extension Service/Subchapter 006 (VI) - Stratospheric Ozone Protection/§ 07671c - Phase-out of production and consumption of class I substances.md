@@ -90,9 +90,13 @@ Other class I substances
 
 &nbsp;20%
 
+&nbsp;
+
 2001
 
 &nbsp;20%
+
+&nbsp;
 
 #### (b) Termination of production of class I substances
 
@@ -106,7 +110,7 @@ The Administrator shall promulgate regulations within 10 months after November 1
 
 #### (1) Essential uses of methyl chloroform
 
-&emsp;Notwithstanding the termination of production required by subsection (b) of this section, during the period beginning on January 1, 2002, and ending on January 1, 2005, the Administrator, after notice and opportunity for public comment, may, to the extent such action is consistent with the Montreal Protocol, authorize the production of limited quantities of methyl chloroform solely for use in essential applications (such as nondestructive testing for metal fatigue and corrosion of existing airplane engines and airplane parts susceptible to metal fatigue) for which no safe and effective substitute is available. Notwithstanding this paragraph, the authority to produce methyl chloroform for use in medical devices shall be provided in accordance with paragraph (2).
+&emsp;Notwithstanding the termination of production required by subsection (b) of this section, during the period beginning on January 1, 2002,and ending on January 1, 2005, the Administrator, after notice and opportunity for public comment, may, to the extent such action is consistent with the Montreal Protocol, authorize the production of limited quantities of methyl chloroform solely for use in essential applications (such as nondestructive testing for metal fatigue and corrosion of existing airplane engines and airplane parts susceptible to metal fatigue) for which no safe and effective substitute is available. Notwithstanding this paragraph, the authority to produce methyl chloroform for use in medical devices shall be provided in accordance with paragraph (2).
 
 #### (2) Medical devices
 
@@ -144,7 +148,7 @@ The President may, to the extent such action is consistent with the Montreal Pro
 
 (1) Notwithstanding the production phase-out set forth in subsection (a) of this section, the Administrator, after notice and opportunity for public comment, may, to the extent such action is consistent with the Montreal Protocol, authorize the production of limited quantities of halon-1211, halon-1301, and halon-2402 in excess of the amount otherwise permitted pursuant to the schedule under subsection (a) of this section solely for purposes of fire suppression or explosion prevention if the Administrator, in consultation with the Administrator of the United States Fire Administration, determines that no safe and effective substitute has been developed and that such authorization is necessary for fire suppression or explosion prevention purposes. The Administrator shall not authorize production under this paragraph for purposes of fire safety or explosion prevention training or testing of fire suppression or explosion prevention equipment. In no event shall the Administrator grant an exception under this paragraph that permits production after December 31, 1999.
 
-(2) The Administrator shall periodically monitor and assess the status of efforts to obtain substitutes for the substances referred to inparagraph (1) for purposes of fire suppression or explosion prevention and the probability of such substitutes being available by December 31, 1999. The Administrator, as part of such assessment, shall consider any relevant assessments under the Montreal Protocol and the actions of the Parties pursuant to Article 2B of the Montreal Protocol in identifying essential uses and in permitting a level of production or consumption that is necessary to satisfy such uses for which no adequate alternatives are available after December 31, 1999. The Administrator shall report to Congress the results of such assessment in 1994 and again in 1998.
+(2) The Administrator shall periodically monitor and assess the status of efforts to obtain substitutes for the substances referred to in paragraph (1) for purposes of fire suppression or explosion prevention and the probability of such substitutes being available by December 31, 1999. The Administrator, as part of such assessment, shall consider any relevant assessments under the Montreal Protocol and the actions of the Parties pursuant to Article 2B of the Montreal Protocol in identifying essential uses and in permitting a level of production or consumption that is necessary to satisfy such uses for which no adequate alternatives are available after December 31, 1999. The Administrator shall report to Congress the results of such assessment in 1994 and again in 1998.
 
 (3) Notwithstanding the termination of production set forth in subsection (b) of this section, the Administrator, after notice and opportunity for public comment, may, to the extent consistent with the Montreal Protocol, authorize the production of limited quantities of halon-1211, halon-1301, and halon-2402 in the period after December 31, 1999, and before December 31, 2004, solely for purposes of fire suppression or explosion prevention in association with domestic production of crude oil and natural gas energy supplies on the North Slope of Alaska, if the Administrator, in consultation with the Administrator of the United States Fire Administration, determines that no safe and effective substitute has been developed and that such authorization is necessary for fire suppression and explosion prevention purposes. The Administrator shall not authorize production under the paragraph for purposes of fire safety or explosion prevention training or testing of fire suppression or explosion prevention equipment. In no event shall the Administrator authorize under this paragraph any person to produce any such halon in an amount greater than 3 percent of that produced by such person during the baseline year.
 

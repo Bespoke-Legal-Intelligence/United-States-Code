@@ -72,9 +72,11 @@ The Director of the Bureau of Justice Assistance (hereafter in this subchapter r
 
 &emsp;&emsp;(G) drive-by shootings as described in section 36 of title 18;
 
-&emsp;(24) law enforcement and prevention programs relating to gangs, or to youth who are involved or at risk of involvement in gangs; and
+&emsp;(24) law enforcement and prevention programs relating to gangs, or to youth who are involved or at risk of involvement in gangs;
 
-&emsp;(25) developing or improving in a forensic laboratory a capability to analyze deoxyribonucleic acid (hereinafter in this chapter referred to as “DNA”) for identification purposes.
+&emsp;(25) developing or improving in a forensic laboratory a capability to analyze deoxyribonucleic acid (hereinafter in this chapter referred to as “DNA”) for identification purposes; and
+
+&emsp;(26) to develop and implement antiterrorism training programs and to procure equipment for use by local law enforcement authorities.
 
 #### (c) Program evaluation component; waiver
 
@@ -84,7 +86,7 @@ Each program funded under this section shall contain an evaluation component, de
 
 &emsp;(2) the program is designed primarily to provide material resources and supplies, such as laboratory equipment, that would not justify a full evaluation report.
 
-(Pub. L. 90–351, title I, §501, as added and amended Pub. L. 100–690, title V, §5104, title VI, §6091(a), Nov. 18, 1988, 102 Stat. 4301, 4329; Pub. L. 101–647, title VI, §601(b), Nov. 29, 1990, 104 Stat. 4823; Pub. L. 103–322, title X, §100003, title XIV, §140004, title XV, §150003, title XXI, §210302(a), Sept. 13, 1994, 108 Stat. 1996, 2032, 2035, 2065.)
+(Pub. L. 90–351, title I, §501, as added and amended Pub. L. 100–690, title V, §5104, title VI, §6091(a), Nov. 18, 1988, 102 Stat. 4301, 4329; Pub. L. 101–647, title VI, §601(b), Nov. 29, 1990, 104 Stat. 4823; Pub. L. 103–322, title X, §100003, title XIV, §140004, title XV, §150003, title XXI, §210302(a), Sept. 13, 1994, 108 Stat. 1996, 2032, 2035, 2065; Pub. L. 104–132, title VIII, §822(a), Apr. 24, 1996, 110 Stat. 1317.)
 
 #### References in Text
 
@@ -95,6 +97,8 @@ The Controlled Substances Act, referred to in subsec. (b), is title II of Pub. L
 For prior sections 501 of Pub. L. 90–351 and prior sections 3751 of this title, see note set out preceding section 3750 of this title.
 
 #### Amendments
+
+1996—Subsec. (b)(26). Pub. L. 104–132 added par. (26).
 
 1994—Subsec. (b)(22). Pub. L. 103–322, §100003, added par. (22).
 

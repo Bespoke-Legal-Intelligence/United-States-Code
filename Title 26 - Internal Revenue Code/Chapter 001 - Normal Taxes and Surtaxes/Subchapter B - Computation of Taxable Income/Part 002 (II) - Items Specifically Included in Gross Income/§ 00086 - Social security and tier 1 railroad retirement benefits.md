@@ -38,9 +38,9 @@
 
 #### (2) Modified adjusted gross income
 
-&emsp;For purposes of this subsection, the term “modified adjusted gross income” means adusted <sup>1</sup> gross income—
+&emsp;For purposes of this subsection, the term “modified adjusted gross income” means adjusted gross income—
 
-&emsp;&emsp;(A) determined without regard to this section and sections 135, 911, 931, and 933, and
+&emsp;&emsp;(A) determined without regard to this section and sections 135, 137, 911, 931, and 933, and
 
 &emsp;&emsp;(B) increased by the amount of interest received or accrued by the taxpayer during the taxable year which is exempt from tax.
 
@@ -144,7 +144,7 @@ For purposes of—
 
 > any social security benefit shall be treated as an amount received as a pension or annuity.
 
-(Added and amended Pub. L. 98–21, title I, §121(a), title III, §335(b)(2)(A), Apr. 20, 1983, 97 Stat. 80, 130; Pub. L. 98–76, title II, §224(d), Aug. 12, 1983, 97 Stat. 424; Pub. L. 98–369, div. A, title IV, §474(r)(2), div. B, title VI, §2661(<i>o</i>)(1), July 18, 1984, 98 Stat. 839, 1158; Pub. L. 99–272, title XII, §12111(b), title XIII, §13204(a), Apr. 7, 1986, 100 Stat. 287, 313; Pub. L. 99–514, title I, §131(b)(2), title XIII, §1301(j)(8), title XVIII, §1847(b)(2), Oct. 22, 1986, 100 Stat. 2113, 2658, 2856; Pub. L. 100–647, title I, §1001(e), title VI, §6009(c)(1), Nov. 10, 1988, 102 Stat. 3351, 3690; Pub. L. 103–66, title XIII, §13215(a), (b), Aug. 10, 1993, 107 Stat. 475, 476; Pub. L. 103–296, title III, §309(d), Aug. 15, 1994, 108 Stat. 1523.)
+(Added and amended Pub. L. 98–21, title I, §121(a), title III, §335(b)(2)(A), Apr. 20, 1983, 97 Stat. 80, 130; Pub. L. 98–76, title II, §224(d), Aug. 12, 1983, 97 Stat. 424; Pub. L. 98–369, div. A, title IV, §474(r)(2), div. B, title VI, §2661(<i>o</i>)(1), July 18, 1984, 98 Stat. 839, 1158; Pub. L. 99–272, title XII, §12111(b), title XIII, §13204(a), Apr. 7, 1986, 100 Stat. 287, 313; Pub. L. 99–514, title I, §131(b)(2), title XIII, §1301(j)(8), title XVIII, §1847(b)(2), Oct. 22, 1986, 100 Stat. 2113, 2658, 2856; Pub. L. 100–647, title I, §1001(e), title VI, §6009(c)(1), Nov. 10, 1988, 102 Stat. 3351, 3690; Pub. L. 103–66, title XIII, §13215(a), (b), Aug. 10, 1993, 107 Stat. 475, 476; Pub. L. 103–296, title III, §309(d), Aug. 15, 1994, 108 Stat. 1523; Pub. L. 104–188, title I, §§1704(t)(3), 1807(c)(2), Aug. 20, 1996, 110 Stat. 1887, 1902.)
 
 #### References in Text
 
@@ -158,11 +158,15 @@ A prior section 86 was renumbered section 87 of this title.
 
 #### Amendments
 
+1996—Subsec. (b)(2). Pub. L. 104–188, §1704(t)(3), substituted “means adjusted” for “means adusted” in introductory provisions.
+
+Subsec. (b)(2)(A). Pub. L. 104–188, §1807(c)(2), inserted “137,” before “911”.
+
 1994—Subsec. (d)(1). Pub. L. 103–296 struck out at end “For purposes of the preceding sentence, the amount received by any taxpayer shall be determined as if the Social Security Act did not contain section 203(i) thereof.”
 
 1993—Subsec. (a). Pub. L. 103–66, §13215(a), designated existing provisions as par. (1), inserted par. (1) heading, substituted “Except as provided in paragraph (2), gross” for “Gross”, redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, and added par. (2).
 
-Subsec. (c). Pub. L. 103–66, §13215(b), amended heading and text of subsec. (c) generally. Prior to amendment, text read as follows: “For purposes of this section, the term ‘base amount’ means—
+Subsec. (c). Pub. L. 103–66, §13215(b), amended heading and text of subsec. (c) generally. Prior to amendment,text read as follows: “For purposes of this section, the term ‘base amount’ means—
 
 &emsp;“(1) except as otherwise provided in this subsection, $25,000,
 
@@ -197,6 +201,10 @@ Subsec. (f)(2)–(5). Pub. L. 98–369, §2661(<i>o</i>)(1), redesignated pars. 
 1983—Subsec. (a). Pub. L. 98–21, §335(b)(2)(A), inserted “(notwithstanding section 207 of the Social Security Act)”.
 
 Subsec. (d)(4). Pub. L. 98–76 inserted “3(f)(3),” after “3(a),”.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by section 1807(c)(2) of Pub. L. 104–188 applicable to taxable years beginning after Dec. 31, 1996, see section 1807(e) of Pub. L. 104–188, set out as an Effective Date note under section 23 of this title.
 
 #### Effective Date of 1994 Amendment
 
@@ -252,7 +260,5 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 22, 72, 135, 219, 469, 861, 871, 3402, 6050F, 6050G, 6103 of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should be “adjusted”.</i>
+This section is referred to in sections 22, 23, 72, 135, 137, 219, 469, 861, 871, 3402, 6050F, 6050G, 6103 of this title.
 

@@ -34,7 +34,7 @@
 
 (2) Each such agreement shall identify the health-care resources to be shared.
 
-(3) Each such agreement shall provide, and shall specify procedures designed to ensure, thatthe availability of direct health care to individuals who are not primary beneficiaries of the providing agency (A) is on a referral basis from the facility of the other agency, and (B) does not (as determined by the head of the facility of the providing agency) adversely affect the range of services, the quality of care, or the established priorities for care provided to the primary beneficiaries of the providing agency.
+(3) Each such agreement shall provide, and shall specify procedures designed to ensure, that the availability of direct health care to individuals who are not primary beneficiaries of the providing agency (A) is on a referral basis from the facility of the other agency, and (B) does not (as determined by the head of the facility of theproviding agency) adversely affect the range of services, the quality of care, or the established priorities for care provided to the primary beneficiaries of the providing agency.
 
 (4) Each such agreement shall provide that a providing agency shall be reimbursed for the cost of the health-care resources provided under the agreement and that the rate for such reimbursement shall be determined in accordance with the methodology agreed to pursuant to subsection (e) of this section.
 
@@ -120,11 +120,15 @@ Subsecs. (b) to (g). Pub. L. 97–174, §3(a)(3), added subsecs. (b) to (g).
 
 #### Health-Care Sharing Agreements Between Department of Veterans Affairs and Department of Defense
 
-Pub. L. 102–585, title II, Nov. 4, 1992, 106 Stat. 4949, as amended by Pub. L. 103–446, title XII, §1202(e)(1), Nov. 2, 1994, 108 Stat. 4689, provided that:
+Pub. L. 104–262, title III, §302(b)(2), Oct. 9, 1996, 110 Stat. 3193, provided that: “Any services provided pursuant to agreements entered into under section 201 of such Act \[Pub. L. 102–585\] (38 U.S.C. 8111 note) during the period beginning on October 1, 1996, and ending on the date of the enactment of this Act \[Oct. 9, 1996\] are hereby ratified.”
+
+Pub. L. 102–585, title II, Nov. 4, 1992, 106 Stat. 4949, as amended by Pub. L. 103–446, title XII, §1202(e)(1), Nov. 2, 1994, 108 Stat. 4689; Pub. L. 104–262, title III, §302(a), (b)(1), (c), Oct. 9, 1996, 110 Stat. 3193, provided that:
 
 #### “SEC. 201. TEMPORARY EXPANSION OF AUTHORITY FOR SHARING AGREEMENTS.
 
-“The Secretary of Veterans Affairs may enter into an agreement with the Secretary of Defense under this section to expand the availability of health-care sharing arrangements with the Department of Defense under section 8111(c) of title 38, United States Code. Under such an agreement—
+“(a)
+
+Authority.—The Secretary of Veterans Affairs may enter into an agreement with the Secretary of Defense under this section to expand the availability of health-care sharing arrangements with the Department of Defense under section 8111(c) of title 38, United States Code. Under such an agreement—
 
 &emsp;“(1) the head of a Department of Veterans Affairs medical facility may enter into agreements under section 8111(d) of that title with (A) the head of a Department of Defense medical facility, (B) with any other official of the Department of Defense responsible for the provision of care under chapter 55 of title 10, United States Code, to persons who are covered beneficiaries under that chapter, in the region of the Department of Veterans Affairs medical facility, or (C) with a contractor of the Department of Defense responsible for the provision of care under chapter 55 of title 10, United States Code, to persons who are covered beneficiaries under that chapter, in the region of the Department of Veterans Affairs medical facility; and
 
@@ -133,6 +137,10 @@ Pub. L. 102–585, title II, Nov. 4, 1992, 106 Stat. 4949, as amended by Pub. L.
 &emsp;&emsp;“(A) with respect to the Department of Veterans Affairs, any person who is described in section 1713 of title 38, United States Code; and
 
 &emsp;&emsp;“(B) with respect to the Department of Defense, any person who is a covered beneficiary under chapter 55 of title 10, United States Code.
+
+“(b)
+
+Use of Funds.—Any amount received by the Secretary from a non-Federal entity as payment for services provided by the Secretary during a prior fiscal year under an agreement entered into under this section may be obligated by the Secretary during the fiscal year in which the Secretary receives the payment.
 
 #### “SEC. 202. REQUIREMENT FOR IMPROVEMENT IN SERVICES FOR VETERANS.
 
@@ -150,9 +158,7 @@ Pub. L. 102–585, title II, Nov. 4, 1992, 106 Stat. 4949, as amended by Pub. L.
 
 &emsp;“(2) subject to a requirement to pay only part of any such otherwise applicable copayment or deductible, as specified in the guidelines.
 
-#### “SEC. 204. EXPIRATION OF AUTHORITY.
-
-“The authority to provide services pursuant to agreements entered into under section 201 expires on October 1, 1996.
+#### “\[SEC. 204. Repealed. Pub. L. 104–262, title III, §302(b)(1), Oct. 9, 1996, 110 Stat. 3193.\]
 
 #### “SEC. 205. CONSULTATION WITH VETERANS SERVICE ORGANIZATIONS.
 
@@ -174,7 +180,17 @@ Report.—In the report under subsection (a) for fiscal year 1996, the Secretari
 
 &emsp;“(2) An assessment of the cost savings, if any, associated with provision of services under such agreements to retired members of the Armed Forces, dependents of members or former members of a uniformed service, and beneficiaries under section 1713 of title 38, United States Code.
 
-&emsp;“(3) Any plans for administrative action, and any recommendations for legislation, that the Secretaries consider appropriate to include in the report.”
+&emsp;“(3) Any plans for administrative action, and any recommendations for legislation, that the Secretaries consider appropriate to include in the report.
+
+#### “SEC. 207. AUTHORITY TO BILL HEALTH-PLAN CONTRACTS.
+
+“(a)
+
+Right To Recover.—In the case of a primary beneficiary (as described in section 201(a)(2)(B)) who has coverage under a health-plan contract, as defined in section 1729(i)(1)(A) of title 38, United States Code, and who is furnished care or services by a Department medical facility pursuant to this title, the United States shall have the right to recover or collect charges for such care or services from such health-plan contract to the extent that the beneficiary (or the provider of the care or services) would be eligible to receive payment for such care or services from such health-plan contract if the care or services had not been furnished by a department or agency of the United States. Any funds received from such health-plan contract shall be credited to funds that have been allotted to the facility that furnished the care or services.
+
+“(b)
+
+Enforcement.—The right of the United States to recover under such a beneficiary's health-plan contract shall be enforceable in the same manner as that provided by subsections (a)(3), (b), (c)(1), (d), (f), (h), and (i) of section 1729 of title 38, United States Code.”
 
 #### Congressional Findings
 
@@ -196,5 +212,5 @@ Section 3(d) of Pub. L. 97–174 provided that: “The guidelines required to be
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 8102, 8104, 8110 of this title; title 10 sections 1104, 2641.
+This section is referred to in sections 712, 8102, 8104, 8107 of this title; title 10 sections 1104, 2641.
 

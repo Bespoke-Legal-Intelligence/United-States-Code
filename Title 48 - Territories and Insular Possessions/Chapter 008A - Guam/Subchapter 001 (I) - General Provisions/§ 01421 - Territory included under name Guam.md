@@ -1,6 +1,6 @@
 ### §1421. Territory included under name Guam
 
-The territory ceded to the United States in accordance with the provisions of the Treaty of Peace between the United States and Spain, signed at Paris, December 10, 1898, and proclaimed April 11, 1899, and known as the island of Guam in the Marianas Islands, shall continue to be known as Guam.
+The territory ceded to the United States in accordance with the provisions of the Treaty of Peace between the United States and Spain,signed at Paris, December 10, 1898, and proclaimed April 11, 1899, and known as the island of Guam in the Marianas Islands, shall continue to be known as Guam.
 
 (Aug. 1, 1950, ch. 512, §2, 64 Stat. 384.)
 
@@ -24,7 +24,7 @@ In event of political union between Guam and the Commonwealth of the Northern Ma
 
 #### Analysis of Capital Infrastructure Needs of Guam for 1985 to 1990 Timeframe; Report to Congress; Contents
 
-Pub. L. 95–348, §1(a)(6), Aug. 18, 1978, 92 Stat. 487, provided that the Secretary prepare and transmit to theCongress no later than July 1, 1979, an analysis of the capital infrastructure needs of Guam for the 1985 to 1990 timeframe.
+Pub. L. 95–348, §1(a)(6), Aug. 18, 1978, 92 Stat. 487, provided that the Secretary prepare and transmit to the Congress no later than July 1, 1979, an analysis of the capital infrastructure needs of Guam for the 1985 to 1990 timeframe.
 
 #### Submerged Lands, Conveyance to Territory
 

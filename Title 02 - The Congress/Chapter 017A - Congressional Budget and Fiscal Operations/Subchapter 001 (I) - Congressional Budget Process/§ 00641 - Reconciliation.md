@@ -60,7 +60,7 @@ If a concurrent resolution containing directives to one or more committees to de
 
 (3) Paragraphs (1) and (2) shall not apply if a declaration of war by the Congress is in effect.
 
-(4) For purposes of this section, the levels of budget outlays and Federal revenues for a fiscal year shall be determined on the basis of estimates made by the Committee on the Budget of the House of Representatives or of the Senate, as the case may be.
+(4) For purposes of this section, the levels of budget outlays and Federal revenues for a fiscal year shall be determined on the basis of estimates made by the Committee on the Budget ofthe House of Representatives or of the Senate, as the case may be.
 
 (5) The Committee on Rules of the House of Representatives may make in order amendments to achieve changes specified by reconciliation directives contained in a concurrent resolution on the budget if a committee or committees of the House fail to submit recommended changes to its Committee on the Budget pursuant to its instruction.
 

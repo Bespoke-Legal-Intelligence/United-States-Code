@@ -66,7 +66,7 @@ Conditions of Conveyance.—Conveyance of the lands and interests described in s
 
 “(d)
 
-Enforcement.—Upon the request of the Secretary, the Attorney General shall bring any action or take any other steps necessary to enforce the provisions of subsection (c) of this section.
+Enforcement.—Upon the request of the Secretary, the Attorney General shall bring any action ortake any other steps necessary to enforce the provisions of subsection (c) of this section.
 
 “(e)
 

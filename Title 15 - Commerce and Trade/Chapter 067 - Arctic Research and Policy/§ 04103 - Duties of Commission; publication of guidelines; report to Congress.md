@@ -14,7 +14,7 @@
 
 &emsp;(6) recommend methods for improving efficient sharing and dissemination of data and information on the Arctic among interested public and private institutions;
 
-&emsp;(7) offer other recommendations and advice to the Interagency Committee establishedunder section 4106 of this title as it may find appropriate;
+&emsp;(7) offer other recommendations and advice to the Interagency Committee established under section 4106 of this title as it may find appropriate;
 
 &emsp;(8) cooperate with the Governor of the State of Alaska and with agencies and organizations of that State which the Governor may designate with respect to the formulation of Arctic research policy;
 

@@ -2,7 +2,7 @@
 
 (a) It is declared to be the purposes of the Congress in this chapter to—
 
-&emsp;(1) authorize and regulate the construction, location, ownership, and operation of ocean thermal energy conversion facilities connected to the United States by pipeline or cable, or located in whole or in part between the highwater mark and the seaward boundary of the territorial sea of the United States consistent with the Convention on the High Seas, and general principles of international law;
+&emsp;(1) authorize and regulate the construction, location, ownership, and operation of ocean thermal energy conversion facilities connected to the United States by pipeline orcable, or located in whole or in part between the highwater mark and the seaward boundary of the territorial sea of the United States consistent with the Convention on the High Seas, and general principles of international law;
 
 &emsp;(2) authorize and regulate the construction, location, ownership, and operation of ocean thermal energy conversion plantships documented under the laws of the United States, consistent with the Convention on the High Seas and general principles of international law;
 

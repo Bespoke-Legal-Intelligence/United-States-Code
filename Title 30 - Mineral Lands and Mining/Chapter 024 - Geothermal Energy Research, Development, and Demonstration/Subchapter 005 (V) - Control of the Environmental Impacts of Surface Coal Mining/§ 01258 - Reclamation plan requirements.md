@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(B) the capability of the land prior to any mining to support a variety of uses giving consideration to soil and foundation characteristics, topography, and vegetative cover, and, if applicable, a soil survey prepared pursuant to section 1257(b)(16) of this title; and
 
-&emsp;&emsp;(C) the productivity of the land prior to mining, including appropriate classification as prime farm lands, as well as the average yield of food, fiber, forage, or wood products from such lands obtained under high levels of management;
+&emsp;&emsp;(C) the productivity of the land prior to mining, including appropriate classificationas prime farm lands, as well as the average yield of food, fiber, forage, or wood products from such lands obtained under high levels of management;
 
 &emsp;(3) the use which is proposed to be made of the land following reclamation, including a discussion of the utility and capacity of the reclaimed land to support a variety of alternative uses and the relationship of such use to existing land use policies and plans, and the comments of any owner of the surface, State and local governments or agencies thereof which would have to initiate, implement, approve or authorize the proposed use of the land following reclamation;
 

@@ -54,7 +54,19 @@ The Attorney General shall limit the designation of a drug or a group of drugs r
 
 &emsp;&emsp;(B) there is a significant change in the data that led to the issuance of the regulation.
 
-(Pub. L. 91–513, title II, §204, as added Pub. L. 103–200, §2(b)(1), Dec. 17, 1993, 107 Stat. 2334.)
+#### (e) Reinstatement of exemption with respect to ephedrine, pseudoephedrine, and phenylpropanolamine drug products
+
+Pursuant to subsection (d)(1) of this section, the Attorney General shall by regulation reinstate the exemption with respect to a particular ephedrine, pseudoephedrine, or phenylpropanolamine drug product if the Attorney General determines that the drug product is manufactured and distributed in a manner that prevents diversion. In making this determination the Attorney General shall consider the factors listed in subsection (d)(2) of this section. Any regulation issued pursuant to this subsection may be amended or revoked based on the factors listed in subsection (d)(4) of this section.
+
+(Pub. L. 91–513, title II, §204, as added Pub. L. 103–200, §2(b)(1), Dec. 17, 1993, 107 Stat. 2334; amended Pub. L. 104–237, title IV, §401(c), Oct. 3, 1996, 110 Stat. 3108.)
+
+#### Amendments
+
+1996—Subsec. (e). Pub. L. 104–237 added subsec. (e).
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–237 not applicable to sale of any pseudoephedrine or phenylpropanolamine product prior to 12 months after Oct. 3, 1996, except that, on application of manufacturer of particular drug product, Attorney General may exercise sole and judicially unreviewable discretion to extend such effective date up to additional 6 months, see section 401(g) of Pub. L. 104–237, set out as a note under section 802 of this title.
 
 #### Effective Date
 

@@ -54,7 +54,7 @@ To ensure the coordinated economic revitalization and environmental enhancement 
 
 (4)(A) Members of the Board shall serve for the life of the Board.
 
-(B) Members of the Board shall serve without pay and those members who are full time officers or employees of the United States shall receive no additional pay by reason of their service on the Board, except that members of the Board shall be allowed travel or transportation expenses under subchapter I of chapter 57 oftitle 5 while away from their homes or regular places of business and engaged in the actual performance of duties vested in the Board.
+(B) Members of the Board shall serve without pay and those members who are full time officers or employees of the United States shall receive no additional pay by reason of their service on the Board, except that members of the Board shall be allowed travel or transportation expenses under subchapter I of chapter 57 of title 5 while away from their homes or regular places of business and engaged in the actual performance of duties vested in the Board.
 
 (C) Four members of the Board shall constitute a quorum but a lesser number may hold hearings.
 
@@ -94,7 +94,7 @@ To ensure the coordinated economic revitalization and environmental enhancement 
 
 #### (d) Review of environmental, economic, and social impacts of navigation in United States portion of Great Lakes
 
-The Secretary and the Administrator of the Environmental Protection Agency, in cooperation with the Secretary of the Interior, the Administrator of the National Oceanic and Atmospheric Administration, and other appropriate Federal and non-Federal entities, shall carry out a review of the environmental, economic, and social impacts of navigation in the United States portion of the Great Lakes. In carrying out such review, the Secretary and the Administrator shall use existing research, studies, and investigations relating to such impacts to the maximum extent possible. Special emphasis shall be made in such review of the impacts of navigation on the shoreline and on fish and wildlife habitat, including, but not limited to, impacts associated with resuspension of bottomsediment. The Secretary and the Administrator shall submit to Congress an interim report of such review not later than September 30, 1988, and a final report of such review along with recommendations not later than September 30, 1990.
+The Secretary and the Administrator of the Environmental Protection Agency, in cooperation with the Secretary of the Interior, the Administrator of the National Oceanic and Atmospheric Administration, and other appropriate Federal and non-Federal entities, shall carry out a review of the environmental, economic, and social impacts of navigation in the United States portion of the Great Lakes. In carrying out such review, the Secretary and the Administrator shall use existing research, studies, and investigations relating to such impacts to the maximum extent possible. Special emphasis shall be made in such review of the impacts of navigation on the shoreline and on fish and wildlife habitat, including, but not limited to, impacts associated with resuspension of bottom sediment. The Secretary and the Administrator shall submit to Congress an interim report of such review not later than September 30, 1988, and a final report of such review along with recommendations not later than September 30, 1990.
 
 (Pub. L. 99–662, title XI, §1132, Nov. 17, 1986, 100 Stat. 4246.)
 

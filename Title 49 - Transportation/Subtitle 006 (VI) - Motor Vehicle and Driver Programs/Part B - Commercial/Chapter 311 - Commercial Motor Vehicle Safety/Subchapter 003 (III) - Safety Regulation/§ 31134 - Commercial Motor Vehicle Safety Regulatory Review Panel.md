@@ -2,7 +2,7 @@
 
 (a)
 
-Establishment and General Duty.—The Secretary of Transportation shall establish the Commercial Motor Vehicle Safety Regulatory Review Panel. The Panel shall analyze and review State laws and regulations under sections 31140 and 31141 of this title.
+Establishment and General Duty.—The Secretary of Transportation shall establish theCommercial Motor Vehicle Safety Regulatory Review Panel. The Panel shall analyze and review State laws and regulations under sections 31140 and 31141 of this title.
 
 (b)
 
@@ -24,11 +24,11 @@ Composition, Appointment, and Terms.—(1) The Panel shall be composed of 15 mem
 
 &emsp;(A) the Secretary or the Secretary's delegate.
 
-&emsp;(B) 7 individuals appointed by the Secretary from among individuals who represent the interests of States and political subdivisions of States and whose names have been submitted to the Secretary by the Committee on Commerce, Science, and Transportation of the Senate or the Committee on Public Works and Transportation of the House of Representatives.
+&emsp;(B) 7 individuals appointed by the Secretary from among individuals who represent the interests of States and political subdivisions of States and whose names have been submitted to the Secretary by the Committee on Commerce, Science, and Transportation of the Senate or the Committee on Transportation and Infrastructure of the House of Representatives.
 
-&emsp;(C) 7 individuals appointed by the Secretary from among individuals who represent the interests of business, consumer, labor, and safety groups and whose names have been submitted to the Secretary by the Committee on Commerce, Science, and Transportation of the Senate or the Committee on Public Works and Transportation of the House of Representatives.
+&emsp;(C) 7 individuals appointed by the Secretary from among individuals who represent the interests of business, consumer, labor, and safety groups and whose names have been submitted to the Secretary by the Committee on Commerce, Science, and Transportation of the Senate or the Committee on Transportation and Infrastructure of the House of Representatives.
 
-(2) The Secretary shall select the individuals to be appointed under this subsection on the basis of their knowledge, expertise, or experience related to commercial motor vehicle safety. Half of the appointments shall be made from names submitted by the Committee on Commerce, Science, and Transportation of the Senate, and the other half from names submitted by the Committee on Public Works and Transportation of the House of Representatives. Each of these committees shall submit to the Secretary the names of 20 individuals qualified to serve on the Panel.
+(2) The Secretary shall select the individuals to be appointed under this subsection on the basis of their knowledge, expertise, or experience related to commercial motor vehicle safety. Half of the appointments shall be made from names submitted by the Committee on Commerce, Science, and Transportation of the Senate, and the other half from names submitted by the Committee on Transportation and Infrastructure of the House of Representatives. Each of these committees shall submit to the Secretary the names of 20 individuals qualified to serve on the Panel.
 
 (3) The term of each member of the Panel appointed under paragraph (1)(B) and (C) of this subsection is 7 years.
 
@@ -48,7 +48,7 @@ Chairman, Quorum, Meetings, and Pay.—(1) The Secretary is the Chairman of the 
 
 Personnel, Office Space, and Support Services.—On request of the Panel, the Secretary shall—
 
-&emsp;(1) detail personnel of the Department of Transportation to the Panel as necessary toassist the Panel in carrying out its duties and powers; and
+&emsp;(1) detail personnel of the Department of Transportation to the Panel as necessary to assist the Panel in carrying out its duties and powers; and
 
 &emsp;(2) provide office space, supplies, equipment, and other support services to the Panel as necessary for the Panel to carry out its duties and powers.
 
@@ -60,11 +60,13 @@ Hearings and Other Actions.—To carry out the duties and powers of the Panel un
 
 Temporary and Intermittent Services.—Subject to regulations the Panel may prescribe, the Chairman may procure the temporary or intermittent services of experts or consultants under section 3109 of title 5.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1001.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1001; Pub. L. 104–287, §5(9), Oct. 11, 1996, 110 Stat. 3389.)
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -106,7 +108,7 @@ In subsection (d)(4), the words “per diem and travel” are omitted as surplus
 
 In subsection (f), the words “or affirmations” are omitted as unnecessary because of 1:1.
 
-#### Change of Name
+#### Amendments
 
-Committee on Public Works and Transportation of House of Representatives treated as referring to Committee on Transportation and Infrastructure of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+1996—Subsec. (c)(1), (2). Pub. L. 104–287 substituted “Transportation and Infrastructure” for “Public Works and Transportation” wherever appearing.
 

@@ -98,7 +98,7 @@ A hazardous chemical subject to the requirements of this section is any hazardou
 
 #### (f) Fire department access
 
-Upon request to an owner or operator of a facility which files an inventory form under this section by the fire department with jurisdiction over the facility, the owner or operator of the facility shall allow the fire department to conduct an on-site inspection of the facility andshall provide to the fire department specific location information on hazardous chemicals at the facility.
+Upon request to an owner or operator of a facility which files an inventory form under this section by the fire department with jurisdiction over the facility, the owner or operator of the facility shall allow the fire department to conduct an on-site inspection of the facility and shall provide to the fire department specific location information on hazardous chemicals at the facility.
 
 #### (g) Format of forms
 

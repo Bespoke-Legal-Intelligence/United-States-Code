@@ -10,7 +10,7 @@ If the Attorney General determines that a cause of action referred to in section
 
 #### (c) Criminal conviction
 
-(1) When the United States obtains a criminal conviction and the Attorney General determines that the conviction was based in whole or in part on the information contained in a valid declaration filed under section 4201 of this title, the declarant shall have the right to receive not less than $5,000 and not more than $100,000, any such award to be paid from the Financial Institution Information Award Fund established under section 4209 of this title.
+(1) When the United States obtains a criminal conviction and the Attorney General determinesthat the conviction was based in whole or in part on the information contained in a valid declaration filed under section 4201 of this title, the declarant shall have the right to receive not less than $5,000 and not more than $100,000, any such award to be paid from the Financial Institution Information Award Fund established under section 4209 of this title.
 
 (2) In determining the size of any award under paragraph (1), the Attorney General may, in the Attorney General's discretion, consider any appropriate factor, including—
 
@@ -52,7 +52,7 @@ If the Attorney General determines that a cause of action referred to in section
 
 #### (f) Appropriate Federal banking agency exception
 
-For purposes of this section, funds or assets acquired by the United States shall not include any funds or assets acquired by any appropriate Federal banking agency acting in any capacityor the Resolution Trust Corporation acting in any capacity, except for any civil money penalties recovered by a Federal banking agency through a final judgment, order or settlement.
+For purposes of this section, funds or assets acquired by the United States shall not include any funds or assets acquired by any appropriate Federal banking agency acting in any capacity or the Resolution Trust Corporation acting in any capacity, except for any civil money penalties recovered by a Federal banking agency through a final judgment, order or settlement.
 
 (Pub. L. 101–647, title XXV, §2565, Nov. 29, 1990, 104 Stat. 4896.)
 

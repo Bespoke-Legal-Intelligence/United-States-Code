@@ -6,7 +6,7 @@ When used in this chapter—
 
 &emsp;(2) the term “Department of Agriculture” means the United States Department of Agriculture; and
 
-&emsp;(3) the term “advisory committee” means any committee, board, commission, council, conference, panel, task force, or other similar group, or any subcommittee or other subgroup thereof that is established or utilized by the Department of Agriculture in the interest of obtaining advice or recommendations for the President or the Department of Agriculture, except that such term excludes any committee which (A) is composed wholly of full-time officers or employees of the Federal Government,\(B) is established by statute or reorganization plan, or (C) is established by the President.
+&emsp;(3) the term “advisory committee” means any committee, board, commission, council, conference, panel, task force, or other similar group, or any subcommittee or other subgroup thereof that is established or utilized by the Department of Agriculture in the interest of obtaining advice or recommendations for the President or the Department of Agriculture, except that such term excludes any committee which (A) is composed wholly of full-time officers or employees of the Federal Government, (B) is established by statute or reorganization plan, or (C) is established by the President.
 
 (Pub. L. 95–113, title XVIII, §1802, Sept. 29, 1977, 91 Stat. 1041; Pub. L. 97–98, title XI, §1116(a), Dec. 22, 1981, 95 Stat. 1270.)
 

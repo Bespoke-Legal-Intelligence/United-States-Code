@@ -12,6 +12,10 @@ The head of any Federal agency having direct or indirect jurisdiction over a pro
 
 Enforcement functions of Secretary or other official in Department of the Interior and such functions of Secretary or other official in Department of Agriculture, insofar as they involve lands and programs under jurisdiction of that Department, related to compliance with historic preservation under sections 470 to 470a, 470b, and 470c to 470w–6 of this title with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas transferred to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, until first anniversary of date of initial operation of Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§102(e), (f), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out in the Appendix to Title 5, Government Organization and Employees. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under section 719e of Title 15, Commerce and Trade.
 
+#### Reporting Requirements of Advisory Council on Historic Preservation
+
+Pub. L. 104–333, div. I, title V, §509(b), Nov. 12, 1996, 110 Stat. 4157, provided that: “Within 18 months afterthe date of enactment of this Act \[Nov. 12, 1996\], the Advisory Council on Historic Preservation shall submit a report to the appropriate congressional committees containing an analysis of alternatives for modifying the regulatory process for addressing impacts of Federal actions on nationally significant historic properties, as well as alternatives for future promulgation and oversight of regulations for implementation of section 106 of the National Historic Preservation Act \[16 U.S.C. 470f\].”
+
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 407dd, 470a, 470h–2, 470s, 470w–3 of this title; title 23 section 133; title 42 section 5320.

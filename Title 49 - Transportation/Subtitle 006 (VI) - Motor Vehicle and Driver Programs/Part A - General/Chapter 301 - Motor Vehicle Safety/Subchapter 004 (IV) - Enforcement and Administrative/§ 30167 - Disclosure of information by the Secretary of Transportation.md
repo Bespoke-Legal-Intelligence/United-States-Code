@@ -18,7 +18,7 @@ Defect and Noncompliance Information.—Subject to subsection (a) of this sectio
 
 (c)
 
-Information About Manufacturer's Increased Costs.—A manufacturer opposing an action of the Secretary under this chapter because of increased cost shall submit to the Secretary information about the increased cost, including the manufacturer's cost and the cost to retail purchasers, that allows the public and the Secretary to evaluate the manufacturer's statement. The Secretary shall evaluate the information promptly and, subject to subsection (a) of this section, shall make the information and evaluation available to the public. The Secretary shall publish a notice in the Federal Register that the information is available.
+Information About Manufacturer's Increased Costs.—A manufacturer opposing anaction of the Secretary under this chapter because of increased cost shall submit to the Secretary information about the increased cost, including the manufacturer's cost and the cost to retail purchasers, that allows the public and the Secretary to evaluate the manufacturer's statement. The Secretary shall evaluate the information promptly and, subject to subsection (a) of this section, shall make the information and evaluation available to the public. The Secretary shall publish a notice in the Federal Register that the information is available.
 
 (d)
 
@@ -28,7 +28,9 @@ Withholding Information From Congress.—This section does not authorize informa
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

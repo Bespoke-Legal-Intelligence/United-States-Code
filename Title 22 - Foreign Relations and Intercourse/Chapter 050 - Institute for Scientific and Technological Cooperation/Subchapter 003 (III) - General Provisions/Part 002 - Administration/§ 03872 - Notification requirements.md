@@ -12,7 +12,7 @@ The Panama Canal Commission shall provide written advance notification to the Co
 
 #### Codification
 
-Section enacted as part of the Panama Canal Commission Authorization Act, Fiscal Year 1990, and as part of the National Defense Authorization Act for Fiscal Years 1990 and 1991, and not as part of the Panama Canal Act of 1979 which comprises this chapter.
+Section enacted as part of the Panama Canal Commission Authorization Act, Fiscal Year 1990, and aspart of the National Defense Authorization Act for Fiscal Years 1990 and 1991, and not as part of the Panama Canal Act of 1979 which comprises this chapter.
 
 #### Abolition of House Committee on Merchant Marine and Fisheries
 

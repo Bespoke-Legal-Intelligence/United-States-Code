@@ -10,7 +10,7 @@ The Commission shall designate a Patent Compensation Board to consider applicati
 
 (2) Any person seeking to obtain the just compensation provided in section 2181 of this title shall make application therefor to the Commission in accordance with such procedures as the Commission may by regulation establish.
 
-(3) Any person making any invention or discovery useful in the production or utilization of special nuclear material or atomic energy, who is not entitled to compensation or a royalty therefor under this chapter and who has complied with the provisions of section 2181(c) of this title may make application to the Commission for, and the Commission may grant, anaward. The Commission may also, after consultation with the General Advisory Committee, and with the approval of the President, grant an award for any especially meritorious contribution to the development, use, or control of atomic energy.
+(3) Any person making any invention or discovery useful in the production or utilization of special nuclear material or atomic energy, who is not entitled to compensation or a royalty therefor under this chapter and who has complied with the provisions of section 2181(c) of this title may make application to the Commission for, and the Commission may grant, an award. The Commission may also, after consultation with the General Advisory Committee, and with the approval of the President, grant an award for any especially meritorious contribution to the development, use, or control of atomic energy.
 
 #### (c) Standards
 
@@ -26,7 +26,7 @@ Every application under this section shall be barred unless filed within six yea
 
 #### References in Text
 
-Sections 281, 283, and 284 of title 18, referred to in subsec. (a), were repealed by Pub. L. 87–849, §2, Oct. 23, 1962, 76 Stat. 1126, except as sections 281 and 283 apply to retired officers of the Armed Forces of the United States, and were supplanted by sections 203, 205, and 207, respectively, of Title 18, Crimes and Criminal Procedures. For further details, see “Exemptions” note set out under section 281 of Title 18.
+Sections 281, 283, and 284 of title 18, referred to in subsec. (a), were repealed by Pub. L. 87–849, §2, Oct. 23, 1962, 76 Stat. 1126, except as sections 281 and 283 apply to retired officers of the Armed Forces of the United States, and were supplanted by sections 203, 205, and 207, respectively, of Title 18, Crimes and Criminal Procedures. For further details, see “Exemptions” note set out under section 203 of Title 18.
 
 #### Prior Provisions
 
@@ -62,7 +62,7 @@ Ex. Ord. No. 11477, Aug. 7, 1969, 34 F.R. 12937, set out as a note above, when r
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2183, 2184, 2239, 2297e–1, 5814 of this title.
+This section is referred to in sections 2183, 2184, 2239, 2297e–1, 2297h–12, 5814 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

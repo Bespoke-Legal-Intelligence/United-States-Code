@@ -16,7 +16,7 @@ The Administrator for Federal Procurement Policy, in consultation with the Admin
 
 Not later than December 31 of 1993 and thereafter as part of the report required under section 8258(b) of this title, the Secretary of Energy, in consultation with the Administrator for Federal Procurement Policy, the Administrator of General Services, the Secretary of Defense, and the Director of the Defense Logistics Agency, shall report on the progress, status, activities, and results of the programs under subsections (a), (b), and (c) of this section. The report shall include—
 
-&emsp;(1) the types and functions of each product identified under subsection (b) of this section, and efforts undertaken by the Administratorof General Services, the Secretary of Defense, and the Director of the Defense Logistics Agency to encourage the acquisition and use of such products;
+&emsp;(1) the types and functions of each product identified under subsection (b) of this section, and efforts undertaken by the Administrator of General Services, the Secretary of Defense, and the Director of the Defense Logistics Agency to encourage the acquisition and use of such products;
 
 &emsp;(2) the actions taken by the Administrator of General Services, the Secretary of Defense, and the Director of the Defense Logistics Agency to identify products under subsection (b) of this section, the barriers which inhibit implementation of identification of such products, and recommendations for legislative action, if necessary;
 

@@ -1,6 +1,6 @@
 ### §2773. Designation, powers, and accountability of deputy disbursing officials
 
-(a)(1) With the approval of a Secretary of a military department when the Secretary considers it necessary, a disbursing official of the military department may designate a deputy disbursing official—
+(a)(1) Subject to paragraph (3), a disbursing official of the Department of Defense may designate a deputy disbursing official—
 
 &emsp;(A) to make payments as the agent of the disbursing official;
 
@@ -10,11 +10,13 @@
 
 (2) The penalties for misconduct that apply to a disbursing official apply to a deputy disbursing official designated under this subsection.
 
-(b)(1) If a disbursing official of any military department dies, becomes disabled, or is separated from office, a deputy disbursing official may continue the accounts and payments in the name of the former disbursing official until the last day of the 2d month after the month in which the death, disability, or separation occurs. The accounts and payments shall be allowed, audited, and settled as provided by law. The Secretary of the Treasury shall honor checks signed in the name of the former disbursing official in the same way as if the former disbursing official had continued in office.
+(3) A disbursing official may make a designation under paragraph (1) only with the approval of the Secretary of Defense or, in the case of a disbursing official of a military department, the Secretary of that military department.
 
-(2) The deputy disbursing official, and not the former disbursing official or the estate of theformer disbursing official, is liable for the actions of the deputy disbursing official under this subsection.
+(b)(1) If a disbursing official of the Department of Defense dies, becomes disabled, or is separated from office, a deputy disbursing official may continue the accounts and payments in the name of the former disbursing official until the last day of the 2d month after the month in which the death, disability, or separation occurs. The accounts and payments shall be allowed, audited, and settled as provided by law. The Secretary of the Treasury shall honor checks signed in the name of the former disbursing official in the same way as if the former disbursing official had continued in office.
 
-(Added Pub. L. 87–480, §1(1)(A), June 8, 1962, 76 Stat. 94; amended Pub. L. 97–258, §2(b)(7)(B), Sept. 13, 1982, 96 Stat. 1054.)
+(2) The deputy disbursing official, and not the former disbursing official or the estate of the former disbursing official, is liable for the actions of the deputy disbursing official under this subsection.
+
+(Added Pub. L. 87–480, §1(1)(A), June 8, 1962, 76 Stat. 94; amended Pub. L. 97–258, §2(b)(7)(B), Sept. 13, 1982, 96 Stat. 1054; Pub. L. 104–106, div. A, title IX, §913(a)(2), Feb. 10, 1996, 110 Stat. 410.)
 
 Historical and Revision Notes<br>1982
 
@@ -53,6 +55,12 @@ In subsection (b)(1), the word “disabled” is substituted for “incapacity�
 In subsection (b)(2), the words “The deputy disbursing official, and not the former disbursing official or the estate of the former disbursing official” are substituted for “The former disbursing officer or his estate . . . but the deputy disbursing officer shall be responsible therefor” for clarity and because of the restatement. The word “liable” is substituted for “subject to any legal liability or penalty” to eliminate unnecessary words. The word “actions” is substituted for “official acts and defaults”. The words “in the name or in the place of the former disbursing officer” are omitted as unnecessary.
 
 #### Amendments
+
+1996—Subsec. (a)(1). Pub. L. 104–106, §913(a)(2)(A)(i), substituted “Subject to paragraph (3), a disbursing official of the Department of Defense” for “With the approval of a Secretary of a military department when the Secretary considers it necessary, a disbursing official of the military department”.
+
+Subsec. (a)(3). Pub. L. 104–106, §913(a)(2)(A)(ii), added par. (3).
+
+Subsec. (b)(1). Pub. L. 104–106, §913(a)(2)(B), substituted “the Department of Defense” for “any military department”.
 
 1982—Pub. L. 97–258 substituted provisions authorizing a disbursing official of a military department to designate a deputy disbursing official with the same duties and penalties for misconduct as those of the disbursing official and allowing a deputy disbursing official to continue the accounts and payments in the name of a former disbursing official for two months after the death, disability, or separation of the former disbursing official for provisions authorizing any officer of an armed force accountable for public money to entrust it to another officer of an armed force to make disbursement as his agent, with both officers pecuniarily responsible to the United States for that money.
 

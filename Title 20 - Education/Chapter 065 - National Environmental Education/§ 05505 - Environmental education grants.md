@@ -6,7 +6,7 @@ The Administrator may enter into a cooperative agreement or contract, or provide
 
 #### (b) Eligible activities
 
-Activities eligible for grant support pursuant to this section shall include, but not be limitedto, environmental education and training programs for—
+Activities eligible for grant support pursuant to this section shall include, but not be limited to, environmental education and training programs for—
 
 &emsp;(1) design, demonstration, or dissemination of environmental curricula, including development of educational tools and materials;
 

@@ -18,7 +18,7 @@ Provisions of this section as not amended, modified or repealed by the Submerged
 
 #### Cross References
 
-Delegation of powers and duties of Secretary of Interior under reclamation laws, see section 590z–11 of Title 16, Conservation.
+Delegation of powers and duties of Secretary of the Interior under reclamation laws, see section 590z–11 of Title 16, Conservation.
 
 Grand Teton National Park, withdrawn lands within exterior boundary, use for reclamation purposes, see section 406d–5 of Title 16.
 

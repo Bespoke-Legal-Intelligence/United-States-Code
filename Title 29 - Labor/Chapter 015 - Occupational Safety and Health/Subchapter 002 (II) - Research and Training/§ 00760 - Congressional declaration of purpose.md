@@ -6,7 +6,7 @@ The purpose of this subchapter is to—
 
 &emsp;(2) provide for a comprehensive and coordinated approach to the support and conduct of such research, demonstration projects, training, and related activities and to ensure that the approach is in accordance with the long-range plan for research developed under section 761a(g) of this title;
 
-&emsp;(3) promote the transfer of rehabilitation technology to individuals with disabilitiesthrough research and demonstration projects relating to—
+&emsp;(3) promote the transfer of rehabilitation technology to individuals with disabilities through research and demonstration projects relating to—
 
 &emsp;&emsp;(A) the procurement process for the purchase of rehabilitation technology;
 

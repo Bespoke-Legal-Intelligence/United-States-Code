@@ -6,7 +6,7 @@ Agents for Service of Process.—A carrier, a broker, or a freight forwarder pro
 
 (b)
 
-Filing With State.—A motor carrier providing transportation under this part shall also file the designation with the appropriate authority of each State in which it operates. The designation may be changed at any time in the same manner as originally made.
+Filing With State.—A motor carrier providing transportation under this part shall alsofile the designation with the appropriate authority of each State in which it operates. The designation may be changed at any time in the same manner as originally made.
 
 (c)
 

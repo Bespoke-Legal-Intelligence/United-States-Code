@@ -21,7 +21,19 @@
 | 701b–11. | Flood protection projects. |
 | (a) | General considerations; nonstructural alternatives. |
 | (b) | Non-Federal participation through nonstructural alternatives; limitation. |
-| 701b–12. | Compliance with flood plain management and insurance programs. |
+| 701b–12. | Floodplain management requirements. |
+| (a) | Compliance with floodplain management and insurance programs. |
+| (b) | Flood plain management plans. |
+| (c) | Guidelines. |
+| (d) | Technical support. |
+| 701b–13. | Construction of flood control projects by non-Federal interests. |
+| (a) | Authority. |
+| (b) | Studies and design activities. |
+| (c) | Completion of studies and design activities. |
+| (d) | Authority to carry out improvement. |
+| (e) | Reimbursement. |
+| (f) | Specific projects. |
+| (g) | Treatment of flood damage prevention measures. |
 | [701c.](%C2%A7%2000701c%20-%20Rights-of-way%2C%20easements%2C%20etc.%3B%20acquisition%20by%20local%20authorities%3B%20maintenance%20and%20operation%3B%20protection%20of%20United%20States%20from%20liability%E2%80%A6.md) | Rights-of-way, easements, etc.; acquisition by local authorities; maintenance and operation; protection of United States from liability for damages; requisites to run-off and water-flow retardation and soil erosion prevention assistance. |
 | 701c–1. | Acquirement of titles for certain projects and to lands, easements, rights-of-way; reimbursement of local agencies. |
 | 701c–2. | Acquisition and sale of land. |
@@ -40,7 +52,10 @@
 | [701k.](%C2%A7%2000701k%20-%20Crediting%20reimbursements%20for%20lost%2C%20stolen%2C%20or%20damaged%20property.md) | Crediting reimbursements for lost, stolen, or damaged property. |
 | 701<i>l</i>, 701<i>l</i>–1. Repealed. |  |
 | [701m.](%C2%A7%2000701m%20-%20Insufficient%20Congressional%20authorization%3B%20preparations%20for%20and%20modification%20of%20project.md) | Insufficient Congressional authorization; preparations for and modification of project. |
-| [701n.](%C2%A7%2000701n%20-%20Flood%20emergencies%3B%20extraordinary%20wind%2C%20wave%2C%20or%20water%20damage%20to%20federally%20authorized%20hurricane%20or%20shore%20protective%20structures%3B%20emergency%E2%80%A6.md) | Flood emergencies; extraordinary wind, wave, or water damage to federally authorized hurricane or shore protective structures; emergency supplies of drinking water; drought; well construction and water transportation. |
+| [701n.](%C2%A7%2000701n%20-%20Emergency%20response%20to%20natural%20disasters.md) | Emergency response to natural disasters. |
+| (a) | Emergency fund. |
+| (b) | Emergency supplies of drinking water; drought; well construction and water transportation. |
+| (c) | Levee owners manual. |
 | 701<i>o.</i> | Omitted. |
 | [701p.](%C2%A7%2000701p%20-%20Railroad%20bridge%20alterations%20at%20Federal%20expense.md) | Railroad bridge alterations at Federal expense. |
 | [701q.](%C2%A7%2000701q%20-%20Repair%20and%20protection%20of%20highways%2C%20railroads%2C%20and%20utilities%20damaged%20by%20operation%20of%20dams%20or%20reservoir.md) | Repair and protection of highways, railroads, and utilities damaged by operation of dams or reservoir. |
@@ -132,7 +147,8 @@
 - [&sect; 00701b&#8211;9 - Availability of appropriations for expenses incident to operation of power boats or vessels; expenses defined; certification of&#8230;](%C2%A7%2000701b%E2%80%939%20-%20Availability%20of%20appropriations%20for%20expenses%20incident%20to%20operation%20of%20power%20boats%20or%20vessels%3B%20expenses%20defined%3B%20certification%20of%E2%80%A6.md)
 - [&sect; 00701b&#8211;10 - Revolving fund; establishment; availability; reimbursement; transfer of funds; limitation](%C2%A7%2000701b%E2%80%9310%20-%20Revolving%20fund%3B%20establishment%3B%20availability%3B%20reimbursement%3B%20transfer%20of%20funds%3B%20limitation.md)
 - [&sect; 00701b&#8211;11 - Flood protection projects](%C2%A7%2000701b%E2%80%9311%20-%20Flood%20protection%20projects.md)
-- [&sect; 00701b&#8211;12 - Compliance with flood plain management and insurance programs](%C2%A7%2000701b%E2%80%9312%20-%20Compliance%20with%20flood%20plain%20management%20and%20insurance%20programs.md)
+- [&sect; 00701b&#8211;12 - Floodplain management requirements](%C2%A7%2000701b%E2%80%9312%20-%20Floodplain%20management%20requirements.md)
+- [&sect; 00701b&#8211;13 - Construction of flood control projects by non-Federal interests](%C2%A7%2000701b%E2%80%9313%20-%20Construction%20of%20flood%20control%20projects%20by%20non-Federal%20interests.md)
 - [&sect; 00701c - Rights-of-way, easements, etc.; acquisition by local authorities; maintenance and operation; protection of United States from liability&#8230;](%C2%A7%2000701c%20-%20Rights-of-way%2C%20easements%2C%20etc.%3B%20acquisition%20by%20local%20authorities%3B%20maintenance%20and%20operation%3B%20protection%20of%20United%20States%20from%20liability%E2%80%A6.md)
 - [&sect; 00701c&#8211;1 - Acquirement of titles for certain projects and to lands, easements, rights-of-way; reimbursement of local agencies](%C2%A7%2000701c%E2%80%931%20-%20Acquirement%20of%20titles%20for%20certain%20projects%20and%20to%20lands%2C%20easements%2C%20rights-of-way%3B%20reimbursement%20of%20local%20agencies.md)
 - [&sect; 00701c&#8211;2 - Acquisition and sale of land](%C2%A7%2000701c%E2%80%932%20-%20Acquisition%20and%20sale%20of%20land.md)
@@ -151,7 +167,7 @@
 - [&sect; 00701k - Crediting reimbursements for lost, stolen, or damaged property](%C2%A7%2000701k%20-%20Crediting%20reimbursements%20for%20lost%2C%20stolen%2C%20or%20damaged%20property.md)
 - [&sect; 00701l, 701l&#8211;1 - Repealed. Pub. L. 89&#8211;554, &sect;8(a), Sept. 6, 1966, 80 Stat. 650, 656](%C2%A7%2000701l%2C%20701l%E2%80%931%20-%20Repealed.%20Pub.%20L.%2089%E2%80%93554%2C%20%C2%A78%28a%29%2C%20Sept.%206%2C%201966%2C%2080%20Stat.%20650%2C%20656.md)
 - [&sect; 00701m - Insufficient Congressional authorization; preparations for and modification of project](%C2%A7%2000701m%20-%20Insufficient%20Congressional%20authorization%3B%20preparations%20for%20and%20modification%20of%20project.md)
-- [&sect; 00701n - Flood emergencies; extraordinary wind, wave, or water damage to federally authorized hurricane or shore protective structures; emergency&#8230;](%C2%A7%2000701n%20-%20Flood%20emergencies%3B%20extraordinary%20wind%2C%20wave%2C%20or%20water%20damage%20to%20federally%20authorized%20hurricane%20or%20shore%20protective%20structures%3B%20emergency%E2%80%A6.md)
+- [&sect; 00701n - Emergency response to natural disasters](%C2%A7%2000701n%20-%20Emergency%20response%20to%20natural%20disasters.md)
 - [&sect; 00701o - Omitted](%C2%A7%2000701o%20-%20Omitted.md)
 - [&sect; 00701p - Railroad bridge alterations at Federal expense](%C2%A7%2000701p%20-%20Railroad%20bridge%20alterations%20at%20Federal%20expense.md)
 - [&sect; 00701q - Repair and protection of highways, railroads, and utilities damaged by operation of dams or reservoir](%C2%A7%2000701q%20-%20Repair%20and%20protection%20of%20highways%2C%20railroads%2C%20and%20utilities%20damaged%20by%20operation%20of%20dams%20or%20reservoir.md)

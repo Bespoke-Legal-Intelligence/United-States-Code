@@ -36,7 +36,7 @@ Enforcement of copyright in restored works in the absence of a reliance party.�
 
 Enforcement of copyright in restored works as against reliance parties.—As against a reliance party, except to the extent provided in paragraphs (3) and (4), the remedies provided in chapter 5 of this title shall be available, with respect to an act of infringement of a restored copyright, on or after the date of restoration of the restored copyright if the requirements of either of the following subparagraphs are met:
 
-&emsp;&emsp;(A)(i) The owner of the restored copyright (or such owner's agent) or the owner of an exclusive right therein (or such owner's agent) files with the Copyright Office, during the 24-month period beginning on the date of restoration, a notice of intent to enforce the restored copyright; and
+&emsp;&emsp;(A)(i) The owner of the restored copyright (or such owner's agent) or the owner of an exclusive right therein (or such owner's agent) files with the Copyright Office, during the 24-month period beginning on thedate of restoration, a notice of intent to enforce the restored copyright; and
 
 &emsp;&emsp;(ii)(I) the act of infringement commenced after the end of the 12-month period beginning on the date of publication of the notice in the Federal Register;
 
@@ -88,7 +88,7 @@ Notices of intent filed with the copyright office.—(A)(i) A notice of intent f
 
 &emsp;(C) The Register of Copyrights is authorized to fix reasonable fees based on the costs of receipt, processing, recording, and publication of notices of intent to enforce a restored copyright and corrections thereto.
 
-&emsp;(D)(i) Not later than 90 days before the date the Agreement on Trade-Related Aspects of Intellectual Property referred to in section 101(d)(15) of the Uruguay Round Agreements Act enters into force with respect to the United States, the Copyright Office shall issue and publish in the Federal Register regulations governing the filing under this subsection of notices of intent to enforce a restored copyright.
+&emsp;(D)(i) Not later than 90 days before the date the Agreement on Trade-Related Aspects ofIntellectual Property referred to in section 101(d)(15) of the Uruguay Round Agreements Act enters into force with respect to the United States, the Copyright Office shall issue and publish in the Federal Register regulations governing the filing under this subsection of notices of intent to enforce a restored copyright.
 
 &emsp;(ii) Such regulations shall permit owners of restored copyrights to file simultaneously for registration of the restored copyright.
 
@@ -140,7 +140,7 @@ Definitions.—For purposes of this section and section 109(a):
 
 &emsp;&emsp;(B) the date of adherence or proclamation, in the case of any other source country of the restored work.
 
-&emsp;(3) The term “eligible country” means a nation, other than the United States, that is a WTO member country, adheres to the Berne Convention, or is subject to a proclamation under section 104A(g).
+&emsp;(3) The term “eligible country” means a nation, other than the United States, that is a WTO member country, adheres to the Berne Convention, or is subject to a proclamation under subsection (g).
 
 &emsp;(4) The term “reliance party” means any person who—
 
@@ -192,7 +192,7 @@ Definitions.—For purposes of this section and section 109(a):
 
 &emsp;(9) The terms “WTO Agreement” and “WTO member country” have the meanings given those terms in paragraphs (9) and (10), respectively, of section 2 of the Uruguay Round Agreements Act.
 
-(Added Pub. L. 103–182, title III, §334(a), Dec. 8, 1993, 107 Stat. 2115; amended Pub. L. 103–465, title V, §514(a), Dec. 8, 1994, 108 Stat. 4976.)
+(Added Pub. L. 103–182, title III, §334(a), Dec. 8, 1993, 107 Stat. 2115; amended Pub. L. 103–465, title V, §514(a), Dec. 8, 1994, 108 Stat. 4976; Pub. L. 104–295, §20(e)(2), Oct. 11, 1996, 110 Stat. 3529.)
 
 #### References in Text
 
@@ -201,6 +201,8 @@ The date of the enactment of the Uruguay Round Agreements Act, referred to in su
 Sections 2 and 101(d)(15) of the Uruguay Round Agreements Act, referred to in subsecs. (e)(1)(D)(i) and (h)(2)(A), (9), are classified to sections 3501 and 3511(d)(15), respectively, of Title 19, Customs Duties.
 
 #### Amendments
+
+1996—Subsec. (h)(3). Pub. L. 104–295 substituted “subsection (g)” for “section 104A(g)”.
 
 1994—Pub. L. 103–465 substituted “Copyright in restored works” for “Copyright in certain motion pictures” as section catchline and amended text generally, substituting present provisions for provisions restoring copyright in certain motion pictures and providing for effective date of protection as well as use of previously owned copies.
 

@@ -13,6 +13,7 @@
 - [&sect; 00407m&#8211;5 - Inclusion of additional lands and building; administration](%C2%A7%2000407m%E2%80%935%20-%20Inclusion%20of%20additional%20lands%20and%20building%3B%20administration.md)
 - [&sect; 00407m&#8211;6 - Authorization of appropriations](%C2%A7%2000407m%E2%80%936%20-%20Authorization%20of%20appropriations.md)
 - [&sect; 00407m&#8211;7 - Exchange of property](%C2%A7%2000407m%E2%80%937%20-%20Exchange%20of%20property.md)
+- [&sect; 00407m&#8211;8 - Independence National Historical Park boundary adjustment](%C2%A7%2000407m%E2%80%938%20-%20Independence%20National%20Historical%20Park%20boundary%20adjustment.md)
 - [&sect; 00407n - Cooperative agreements between Secretary of the Interior and City of Philadelphia; contents](%C2%A7%2000407n%20-%20Cooperative%20agreements%20between%20Secretary%20of%20the%20Interior%20and%20City%20of%20Philadelphia%3B%20contents.md)
 - [&sect; 00407o - Construction of buildings; acceptance of donations](%C2%A7%2000407o%20-%20Construction%20of%20buildings%3B%20acceptance%20of%20donations.md)
 - [&sect; 00407p - Establishment of advisory commission; composition, appointment, and duties](%C2%A7%2000407p%20-%20Establishment%20of%20advisory%20commission%3B%20composition%2C%20appointment%2C%20and%20duties.md)

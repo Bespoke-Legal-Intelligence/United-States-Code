@@ -12,7 +12,7 @@
 
 #### (b) Unused funds
 
-Whenever the Assistant Secretary determines that any amount allotted to a State under part B or C of this subchapter for a fiscal year under this section will not be used by such State for carrying out the purpose for which the allotment was made, the Assistant Secretary shall make such allotment available for carrying out such purpose to one or more other States to the extent the Assistant Secretary determines that such other States will be able to use such additional amount for carrying out such purpose. Any amount made available to a State from an appropriation for a fiscal year in accordance with the preceding sentence shall, for purposes of this subchapter, be regarded as part of such State's allotment (as determined under subsection (a) of this section) for such year, but shall remain available until the end of the succeeding fiscal year.
+Whenever the Assistant Secretary determines that any amount allotted to a State under part B or C of this subchapter for a fiscal year under this section will not be used by such State for carrying out the purpose for which the allotment was made, the Assistant Secretary shall make such allotment available for carrying out such purpose to one or more other States to theextent the Assistant Secretary determines that such other States will be able to use such additional amount for carrying out such purpose. Any amount made available to a State from an appropriation for a fiscal year in accordance with the preceding sentence shall, for purposes of this subchapter, be regarded as part of such State's allotment (as determined under subsection (a) of this section) for such year, but shall remain available until the end of the succeeding fiscal year.
 
 #### (c) Withholding of funds; disbursement
 
@@ -34,7 +34,7 @@ If the Assistant Secretary finds that any State has failed to qualify under the 
 
 #### (e) Volunteer services coordinator
 
-Grants made from allotments received under this subchapter may be used for paying for thecosts of providing for an area volunteer services coordinator (as described in section 3026(a)(12) of this title) or a State volunteer services coordinator (as described in section 3027(a)(31) of this title).
+Grants made from allotments received under this subchapter may be used for paying for the costs of providing for an area volunteer services coordinator (as described in section 3026(a)(12) of this title) or a State volunteer services coordinator (as described in section 3027(a)(31) of this title).
 
 (Pub. L. 89–73, title III, §304, as added Pub. L. 95–478, title I, §103(b), Oct. 18, 1978, 92 Stat. 1519; amended Pub. L. 97–115, §4, Dec. 29, 1981, 95 Stat. 1597; Pub. L. 98–459, title III, §304, Oct. 9, 1984, 98 Stat. 1772; Pub. L. 100–175, title I, §§123, 155(c), (d), 182(f), Nov. 29, 1987, 101 Stat. 933, 952, 965; Pub. L. 102–375, title III, §304, title IX, §904(a)(10), Sept. 30, 1992, 106 Stat. 1221, 1306; Pub. L. 103–171, §3(a)(13), Dec. 2, 1993, 107 Stat. 1990.)
 
@@ -58,7 +58,7 @@ Subsec. (a)(2). Pub. L. 102–375, §304(a)(1), substituted “1987” for “19
 
 Subsec. (a)(3). Pub. L. 102–375, §304(a)(2), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “No State shall be allotted, from the amount appropriated pursuant to section 3023(a)(3) of this title, less than $50,000 for any fiscal year.”
 
-Subsec. (a)(4). Pub. L. 102–375, §304(a)(3), substituted “data available from the Bureau of the Census, and other reliable demographic data satisfactory” for “satisfactory data available”.
+Subsec. (a)(4). Pub. L. 102–375, §304(a)(3), substituted “data available from the Bureau of the Census, andother reliable demographic data satisfactory” for “satisfactory data available”.
 
 Subsec. (c). Pub. L. 102–375, §304(b), inserted “or the Commissioner does not approve the funding formula required under section 3025(a)(2)(C) of this title” after “requirements of section 3027 of this title”.
 

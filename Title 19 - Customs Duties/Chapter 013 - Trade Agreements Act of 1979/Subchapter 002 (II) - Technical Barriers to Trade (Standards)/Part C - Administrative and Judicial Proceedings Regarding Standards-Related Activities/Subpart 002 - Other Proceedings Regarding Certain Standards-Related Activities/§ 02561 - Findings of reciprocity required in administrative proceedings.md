@@ -18,9 +18,11 @@ This section does not apply with respect to causes of action arising under—
 
 > This section does not apply with respect to petitions and proceedings that are provided for under the practices of any Federal agency for the purpose of ensuring, in accordance with section 553 of title 5, that interested persons are given an opportunity to participate in agency rulemaking or to seek the issuance, amendment, or repeal of a rule.
 
-(Pub. L. 96–39, title IV, §441, July 26, 1979, 93 Stat. 248; Pub. L. 103–182, title III, §351(b)(2)(A), Dec. 8, 1993, 107 Stat. 2122.)
+(Pub. L. 96–39, title IV, §441, July 26, 1979, 93 Stat. 248; Pub. L. 103–182, title III, §351(b)(2)(A), Dec. 8, 1993, 107 Stat. 2122; Pub. L. 104–295, §21(b)(1), Oct. 11, 1996, 110 Stat. 3529.)
 
 #### Amendments
 
-1993—Subsec. (a). Pub. L. 103–182 substituted “Trade Representative” for “Special Representative”.
+1996—Pub. L. 104–295 amended directory language of Pub. L. 103–182. See 1993 Amendment note below.
+
+1993—Subsec. (a). Pub. L. 103–182, as amended by Pub. L. 104–295, substituted “Trade Representative” for “Special Representative”.
 

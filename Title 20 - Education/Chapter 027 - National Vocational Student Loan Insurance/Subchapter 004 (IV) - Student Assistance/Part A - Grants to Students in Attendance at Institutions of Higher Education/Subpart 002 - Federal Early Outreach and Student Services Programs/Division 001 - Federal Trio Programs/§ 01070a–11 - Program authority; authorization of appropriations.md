@@ -20,13 +20,13 @@ The Secretary shall, in accordance with the provisions of this division, carry o
 
 #### (3) Minimum grant level
 
-&emsp;In any year in which the appropriations authorized under this division exceed the prior year appropriation as adjusted for inflation, the Secretary shall use 80 percent of the amount appropriated above the current services level to bring each award up to the minimum grant level or the amount requested by the institution or agency, whichever is less. The minimum grant level (A) for programs authorized under section 1070a–14 or 1070a–17 of this title, shall not be less than $170,000 for fiscal year 1993; (B) for programs authorized under section 1070a–12 or 1070a–16 of this title shall not be less than $180,000 for fiscal year 1994; and (C) for programs authorized under section 1070a–13 or 1070a–15 of this title shall not be less than $190,000 for fiscal year 1995.
+&emsp;In any year in which the appropriations authorized under this division exceed the prior year appropriation as adjusted for inflation, the Secretary shall use 80 percent of the amount appropriated above the current services level to bring each award up to the minimum grant level or the amount requested by the institution or agency, whichever is less.The minimum grant level (A) for programs authorized under section 1070a–14 or 1070a–17 of this title, shall not be less than $170,000 for fiscal year 1993; (B) for programs authorized under section 1070a–12 or 1070a–16 of this title shall not be less than $180,000 for fiscal year 1994; and (C) for programs authorized under section 1070a–13 or 1070a–15 of this title shall not be less than $190,000 for fiscal year 1995.
 
 #### (c) Procedures for awarding grants and contracts
 
 #### (1) Prior experience
 
-&emsp;In making grants and contracts under this division, the Secretary shall consider the prior experience of service delivery under the particular program for which funds are sought by each applicant. For fiscal years after 1985, the level of consideration given to prior experience shall not vary from the level of consideration given this factor for fiscal year 1985, except that in the case of the programs authorized in sections 1070a–15 and 1070a–17 of this title, the level of consideration given to priorexperience shall be the same as the level of consideration given this factor in the other programs authorized in this division.
+&emsp;In making grants and contracts under this division, the Secretary shall consider the prior experience of service delivery under the particular program for which funds are sought by each applicant. For fiscal years after 1985, the level of consideration given to prior experience shall not vary from the level of consideration given this factor for fiscal year 1985, except that in the case of the programs authorized in sections 1070a–15 and 1070a–17 of this title, the level of consideration given to prior experience shall be the same as the level of consideration given this factor in the other programs authorized in this division.
 
 #### (2) Order of awards; program fraud
 
@@ -64,7 +64,7 @@ The Secretary shall, in accordance with the provisions of this division, carry o
 
 #### (3) Technical assistance
 
-&emsp;The Secretary shall provide technical training to applicants for projects and programs authorized under this division. The Secretary shall give priority to serving programs and projects that serve geographic areas and eligible populations which have been underserved by the programs assisted under this division. Technical training activities shall include the provision of information on authorizing legislation, goals and objectives of the program, required activities, eligibility requirements, the application process and application deadlines, and assistance in the development of program proposals and the completion of program applications. Such training shall be furnished at conferences, seminars, and workshops to be conducted at not less than 10 sites throughout the United States to ensure that all areas of the United States with large concentrations of eligible participants are served.
+&emsp;The Secretary shall provide technical training to applicants for projects and programs authorized under this division. The Secretary shall give priority to serving programs and projects that serve geographic areas and eligible populations which have been underserved by the programs assisted under this division. Technical training activities shall include the provision of information on authorizing legislation, goals and objectives of the program, required activities, eligibility requirements, theapplication process and application deadlines, and assistance in the development of program proposals and the completion of program applications. Such training shall be furnished at conferences, seminars, and workshops to be conducted at not less than 10 sites throughout the United States to ensure that all areas of the United States with large concentrations of eligible participants are served.
 
 #### (4) Special rule
 
@@ -140,7 +140,7 @@ Subsec. (c)(2)(A). Pub. L. 103–208, §2(b)(8), inserted “with respect to gra
 
 Subsec. (e). Pub. L. 103–208, §2(b)(9), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “Documentation of an individual's status pursuant to subsection (g)(2) of this section shall be made—
 
-&emsp;“(1) in the case of an individual who is eighteen years of age or younger or a dependent student by providing the Secretary with a signed statement from the parent or legal guardian, verification from another governmental source, a signed financial aid application, or a signed United States or Puerto Rican income tax return; and
+&emsp;“(1) in the case of an individual who is eighteen years of age or younger or a dependent student by providing the Secretary with a signed statement fromthe parent or legal guardian, verification from another governmental source, a signed financial aid application, or a signed United States or Puerto Rican income tax return; and
 
 &emsp;“(2) in the case of an individual who is age 18 or older or who is an independent student, by providing the Secretary with a signed statement from the individual, verification from another governmental source, a signed financial aid form, or a signed United States or Puerto Rican income tax return.”
 

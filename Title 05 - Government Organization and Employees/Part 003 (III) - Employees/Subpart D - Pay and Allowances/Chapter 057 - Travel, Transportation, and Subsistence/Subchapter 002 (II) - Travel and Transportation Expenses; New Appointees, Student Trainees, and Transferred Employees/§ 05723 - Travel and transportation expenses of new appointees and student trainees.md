@@ -1,10 +1,12 @@
 ### §5723. Travel and transportation expenses of new appointees and student trainees
 
-(a) Under such regulations as the President may prescribe and subject to subsections (b) and (c) of this section, an agency may pay from its appropriations—
+(a) Under regulations prescribed under section 5738 of this title and subject to subsections (b) and (c) of this section, an agency may pay from its appropriations—
 
-&emsp;(1) travel expenses (A) of a new appointee, or a student trainee when assigned on completion of college work, to any position, (B) of a new appointee to the Senior Executive Service or the Federal Bureau of Investigation and Drug Enforcement Administration Senior Executive Service, or (C) of any person appointed by the President to a position the rate of pay for which is equal to or higher than the minimum rate of pay payable for a position classified above GS–15 pursuant to section 5108; and
+&emsp;(1) travel expenses (A) of a new appointee, or a student trainee when assigned on completion of college work, to any position, (B) of a new appointee to the Senior Executive Service or the Federal Bureau of Investigation and Drug Enforcement Administration Senior Executive Service, or (C) of any person appointed by the President to a position the rate of pay for which is equal to or higher than the minimum rate of pay payable for a position classified above GS–15 pursuant to section 5108;
 
-&emsp;(2) transportation expenses of his immediate family and his household goods and personal effects to the extent authorized by section 5724 of this title;
+&emsp;(2) transportation expenses of his immediate family and his household goods and personal effects to the extent authorized by section 5724 of this title; and
+
+&emsp;(3) the expenses of transporting a privately owned motor vehicle as authorized under section 5727(c) of this title;
 
 > from his place of residence at the time of selection or assignment to his duty station. If the travel and transportation expenses of a student trainee were paid when he was appointed, they may not be paid when he is assigned after completion of college work. Travel expenses payable under this subsection may include the per diem and mileage allowances authorized for employees by subchapter I of this chapter. Advances of funds may be made for the expenses authorized by this subsection to the extent authorized by section 5724(f) of this title. In the case of an appointee described in paragraph (1) who has performed transition activities under section 3 of the Presidential Transition Act of 1963 (3 U.S.C. 102 note), the provisions of paragraphs (1) and (2) may apply to travel and transportation expenses from the place of residence of such appointee (at the time of relocation following the most recent general elections held to determine the electors of the President) to the assigned duty station of such appointee.
 
@@ -14,7 +16,7 @@
 
 (d) This section does not impair or otherwise affect the authority of an agency under existingstatute to pay travel and transportation expenses of individuals named by subsection (a) of this section.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 502; Pub. L. 95–454, title III, §305, title IV, §409(a), title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1147, 1173, 1224; Pub. L. 98–151, §118(a)(1), Nov. 14, 1983, 97 Stat. 977; Pub. L. 98–473, title I, §120(a), Oct. 12, 1984, 98 Stat. 1968; Pub. L. 100–325, §2(j), May 30, 1988, 102 Stat. 582; Pub. L. 100–398, §6, Aug. 17, 1988, 102 Stat. 987; Pub. L. 101–509, title V, §529 \[title II, §206(b)\], Nov. 5, 1990, 104 Stat. 1427, 1457; Pub. L. 102–378, §2(48), Oct. 2, 1992, 106 Stat. 1353.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 502; Pub. L. 95–454, title III, §305, title IV, §409(a), title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1147, 1173, 1224; Pub. L. 98–151, §118(a)(1), Nov. 14, 1983, 97 Stat. 977; Pub. L. 98–473, title I, §120(a), Oct. 12, 1984, 98 Stat. 1968; Pub. L. 100–325, §2(j), May 30, 1988, 102 Stat. 582; Pub. L. 100–398, §6, Aug. 17, 1988, 102 Stat. 987; Pub. L. 101–509, title V, §529 \[title II, §206(b)\], Nov. 5, 1990, 104 Stat. 1427, 1457; Pub. L. 102–378, §2(48), Oct. 2, 1992, 106 Stat. 1353; Pub. L. 104–201, div. A, title XVII, §§1715(b)(2), 1723(b)(1), Sept. 23, 1996, 110 Stat. 2755, 2759.)
 
 Historical and Revision Notes
 
@@ -22,7 +24,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 5 U.S.C. 73b–3 (less (a)).
 
@@ -44,15 +48,19 @@ Section 3 of the Presidential Transition Act of 1963, referred to in subsecs. (a
 
 #### Amendments
 
-<b>1992</b>—Pub. L. 102–378, §2(48)(A), struck out “; manpower shortage positions” after “trainees” in section catchline.
+1996—Subsec. (a). Pub. L. 104–201, §1723(b)(1), in introductory provisions, substituted “Under regulations prescribed under section 5738 of this title” for “Under such regulations as the President may prescribe”.
+
+Subsec. (a)(3). Pub. L. 104–201, §1715(b)(2), which directed amendment of subsec. (a) by adding par. (3) at the end, was executed by adding par. (3) after par. (2) to reflect the probable intent of Congress.
+
+1992—Pub. L. 102–378, §2(48)(A), struck out “; manpower shortage positions” after “trainees” in section catchline.
 
 Subsecs. (d), (e). Pub. L. 102–378, §2(48)(B), redesignated subsec. (e) as (d) and struck out former subsec. (d) which authorized Office to delegate its authority to determine positions for which there was a manpower shortage for purposes of this section.
 
-<b>1990</b>—Subsec. (a)(1)(A). Pub. L. 101–509, §529 \[title II, §206(b)(1)\], substituted “any position” for “a position in the United States for which the Office of Personnel Management determines there is a manpower shortage”.
+1990—Subsec. (a)(1)(A). Pub. L. 101–509, §529 \[title II, §206(b)(1)\], substituted “any position” for “a position in the United States for which the Office of Personnel Management determines there is a manpower shortage”.
 
 Subsec. (a)(1)(C). Pub. L. 101–509, §529 \[title II, §206(b)(2)\], substituted “the minimum rate of pay payable for a position classified above GS–15 pursuant to section 5108; and” for “the minimum rate of pay prescribed for GS–16; and”.
 
-<b>1988</b>—Subsec. (a). Pub. L. 100–398, §6(2), inserted at end “In the case of an appointee described in paragraph (1) who has performed transition activities under section 3 of the Presidential Transition Act of 1963 (3 U.S.C. 102 note), the provisions of paragraphs (1) and (2) may apply to travel and transportation expenses from the place of residence of such appointee (at the time of relocation following the most recent general elections held to determine the electors of the President) to the assigned duty station of such appointee.”
+1988—Subsec. (a). Pub. L. 100–398, §6(2), inserted at end “In the case of an appointee described in paragraph (1) who has performed transition activities under section 3 of the Presidential Transition Act of 1963 (3 U.S.C. 102 note), the provisions of paragraphs (1) and (2) may apply to travel and transportation expenses from the place of residence of such appointee (at the time of relocation following the most recent general elections held to determine the electors of the President) to the assigned duty station of such appointee.”
 
 Subsec. (a)(1). Pub. L. 100–398, §6(1), which directed that par. (1) be amended by striking out “or (B)” and inserting “or (C)”, could not be executed because phrase “or (B)” did not appear in par. (1) after the intervening amendment by Pub. L. 100–325, see below.
 
@@ -60,15 +68,19 @@ Pub. L. 100–325 inserted reference to Federal Bureau of Investigation and Drug
 
 Subsec. (c). Pub. L. 100–398, §6(3), inserted at end “In the case of an appointee described in subsection (a)(1) who has performed transition activities under section 3 of the Presidential Transition Act of 1963 (3 U.S.C. 102 note), the travel or transportation shall take place at any time after the most recent general elections held to determine the electors of the President.”
 
-<b>1984</b>—Subsec. (a)(1). Pub. L. 98–473 directed amendment of subpar. (C) by striking out “, by and with the advice and consent of the Senate,” which was executed to second subpar. (B) by striking out that phrase following “appointed by the President”, as probable intent of Congress.
+1984—Subsec. (a)(1). Pub. L. 98–473 directed amendment of subpar. (C) by striking out “, by and with the advice and consent of the Senate,” which was executed to second subpar. (B) by striking out that phrase following “appointed by the President”, as probable intent of Congress.
 
-<b>1983</b>—Subsec. (a)(1). Pub. L. 98–151, designated existing provisions as subpars. (A) and (B), and added a second subpar. (B) relating to any person appointed by President.
+1983—Subsec. (a)(1). Pub. L. 98–151, designated existing provisions as subpars. (A) and (B), and added a second subpar. (B) relating to any person appointed by President.
 
-<b>1978</b>—Subsec. (a)(1). Pub. L. 95–454, §906(a)(2), substituted “Office of Personnel Management” for “Civil Service Commission”.
+1978—Subsec. (a)(1). Pub. L. 95–454, §906(a)(2), substituted “Office of Personnel Management” for “Civil Service Commission”.
 
 Pub. L. 95–454, §409(a), inserted reference to a new appointee to the Senior Executive Service.
 
 Subsec. (d). Pub. L. 95–454, §§305, 906(a)(3), struck out “not” before “delegate”, and substituted “Office” for “Commission”.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–201 effective 180 days after Sept. 23, 1996, see section 1725(a) of Pub. L. 104–201, set out as a note under section 5722 of this title.
 
 #### Effective Date of 1990 Amendment
 
@@ -83,10 +95,6 @@ Amendment by Pub. L. 98–151 and promulgation of regulations for amendments by 
 Amendment by sections 305 and 906(a)(2), (3) of Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as a note under section 1101 of this title.
 
 Amendment by section 409(a) of Pub. L. 95–454 effective 9 months after Oct. 13, 1978, and congressional review of provisions of sections 401 through 412 of Pub. L. 95–454, see section 415 of Pub. L. 95–454, set out as an Effective Date note under section 3131 of this title.
-
-#### Delegation of Functions
-
-Authority of President under subsec. (a) of this section to prescribe regulations with respect to payment of travel expenses and transportation expenses delegated to Administrator of General Services, see section 1(5) of Ex. Ord. No. 11609, July 22, 1971, 36 F.R. 13747, set out as a note under section 301 of Title 3, The President.
 
 #### Funding of Amendments by Pub. L. 98–151
 

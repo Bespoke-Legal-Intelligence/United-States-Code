@@ -22,7 +22,7 @@ Section 228k, act Aug. 29, 1935, ch. 812, §11, as restated June 24, 1937, ch. 3
 
 Section 228<i>l</i>, act Aug. 29, 1935, ch. 812, §12, as restated June 24, 1937, ch. 382, pt. I, §1, 50 Stat. 316 and amended Aug. 12, 1955, ch. 869, §4, 69 Stat. 716, related to assignability of annuities and pension payments under this subchapter. See section 231m of this title.
 
-Section 228m, act Aug. 29, 1935, ch. 812, §13, as restated June 24, 1937, ch. 382, pt. I, §1, 50 Stat. 316;amended Sept. 6, 1958, Pub. L. 85–927, pt. I, §4, 72 Stat. 1781, related to penalties under this subchapter. See section 231<i>l</i> of this title.
+Section 228m, act Aug. 29, 1935, ch. 812, §13, as restated June 24, 1937, ch. 382, pt. I, §1, 50 Stat. 316; amended Sept. 6, 1958, Pub. L. 85–927, pt. I, §4, 72 Stat. 1781, related to penalties under this subchapter. See section 231<i>l</i> of this title.
 
 Section 228n, act Aug. 29, 1935, ch. 812, §14, as restated June 24, 1937, ch. 382, pt. I, §1, 50 Stat. 316, related to separability of provisions. See section 231s of this title.
 
@@ -92,7 +92,7 @@ Pub. L. 89–97, title I, §105(a)(2), July 30, 1965, 79 Stat. 335, provided tha
 
 #### Hospital Insurance Benefits for the Aged
 
-Act Aug. 29, 1935, ch. 812, §21, as added July 30, 1965, Pub. L. 89–97, title I, §105(a)(1), 79 Stat. 335, required theRailroad Retirement Board to certify to the Secretary of Health, Education, and Welfare, in order to provide hospital insurance benefits for annuitants, pensioners, and certain other aged individuals for purposes of the Social Security program, the name of anyone aged 65 who was entitled to an annuity or pension under this subchapter, would have been so entitled had he ceased compensated service and had applied for such annuity, or bore a particular relationship to certain qualified employees, and specified such additional information as such certification was to include.
+Act Aug. 29, 1935, ch. 812, §21, as added July 30, 1965, Pub. L. 89–97, title I, §105(a)(1), 79 Stat. 335, required the Railroad Retirement Board to certify to the Secretary of Health, Education, and Welfare, in order to provide hospital insurance benefits for annuitants, pensioners, and certain other aged individuals for purposes of the Social Security program, the name of anyone aged 65 who was entitled to an annuity or pension under this subchapter, would have been so entitled had he ceased compensated service and had applied for such annuity, or bore a particular relationship to certain qualified employees, and specified such additional information as such certification was to include.
 
 #### Increases in Certain Pensions and Annuities
 

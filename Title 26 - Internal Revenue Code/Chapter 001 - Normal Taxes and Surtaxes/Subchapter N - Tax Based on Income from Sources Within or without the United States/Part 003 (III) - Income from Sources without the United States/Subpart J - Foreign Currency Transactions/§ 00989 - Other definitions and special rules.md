@@ -16,7 +16,7 @@ Except as provided in regulations, for purposes of this subpart, the term “app
 
 &emsp;(4) in the case of any other qualified business unit of a taxpayer, the weighted average exchange rate for the taxable year of such qualified business unit.
 
-> For purposes of the preceding sentence, any amount included in income under subparagraph (B) or (C) of section 951(a)(1) shall be treated as an actual distribution made on the last day of the taxable year for which such amount was so included.
+> For purposes of the preceding sentence, any amount included in income under section 951(a)(1)(B) shall be treated as an actual distribution made on the last day of the taxable year for which such amount was so included.
 
 #### (c) Regulations
 
@@ -32,7 +32,7 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 &emsp;(5) providing for the appropriate treatment of related party transactions (including transactions between qualified business units of the same taxpayer).
 
-(Added Pub. L. 99–514, title XII, §1261(a), Oct. 22, 1986, 100 Stat. 2590; amended Pub. L. 100–647, title I, §1012(v)(5), Nov. 10, 1988, 102 Stat. 3529; Pub. L. 103–66, title XIII, §13231(c)(4)(C), Aug. 10, 1993, 107 Stat. 499.)
+(Added Pub. L. 99–514, title XII, §1261(a), Oct. 22, 1986, 100 Stat. 2590; amended Pub. L. 100–647, title I, §1012(v)(5), Nov. 10, 1988, 102 Stat. 3529; Pub. L. 103–66, title XIII, §13231(c)(4)(C), Aug. 10, 1993, 107 Stat. 499; Pub. L. 104–188, title I, §1501(b)(9), Aug. 20, 1996, 110 Stat. 1826.)
 
 #### References in Text
 
@@ -40,9 +40,15 @@ The enactment of this subpart, referred to in subsec. (c)(1), probably means the
 
 #### Amendments
 
+1996—Subsec. (b). Pub. L. 104–188 substituted “section 951(a)(1)(B)” for “subparagraph (B) or (C) of section 951(a)(1)” in closing provisions.
+
 1993—Subsec. (b). Pub. L. 103–66 substituted “subparagraph (B) or (C) of section 951(a)(1)” for “section 951(a)(1)(B)” in last sentence.
 
 1988—Subsec. (b). Pub. L. 100–647 substituted in par. (3) “section 951(a)(1)(A)” for “section 951(a)” and inserted at end “For purposes of the preceding sentence, any amount included in income under section 951(a)(1)(B) shall be treated as an actual distribution made on the last day of the taxable year for which such amount was so included.”
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–188 applicable to taxable years of foreign corporations beginning after Dec. 31, 1996, and to taxable years of United States shareholders within which or with which such taxable years of foreign corporations end, see section 1501(d) of Pub. L. 104–188, set out as a note under section 904 of this title.
 
 #### Effective Date of 1993 Amendment
 

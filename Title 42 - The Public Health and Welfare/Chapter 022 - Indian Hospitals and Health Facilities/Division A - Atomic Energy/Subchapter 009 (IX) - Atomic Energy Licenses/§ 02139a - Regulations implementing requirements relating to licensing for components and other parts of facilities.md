@@ -36,5 +36,5 @@ The performance of functions under the Nuclear Non-Proliferation Act of 1978, Pu
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 22 section 3281; title 50 App. sections 2170, 2416.
+This section is referred to in title 22 sections 3281, 6305; title 50 section 2332; title 50 App. sections 2170, 2416.
 

@@ -16,7 +16,7 @@
 | (b) | Annual inspection of lease sites; training. |
 | (c) | Audit and reconciliation of lease accounts; contracts with certified public accountants; availability of books, accounts, records, etc., necessary for audit. |
 | [1712\.](Subchapter%20001%20%28I%29%20-%20Federal%20Royalty%20Management%20and%20Enforcement/%C2%A7%2001712%20-%20Duties%20of%20lessees%2C%20operators%2C%20and%20motor%20vehicle%20transporters.md) | Duties of lessees, operators, and motor vehicle transporters. |
-| (a) | Payments by lessees; notification to Secretary of assignment of obligation to make payment. |
+| (a) | Liability for royalty payments. |
 | (b) | Development of and compliance with site security plan and minimum site security measures by operators; notification to Secretary of well production. |
 | (c) | Possession of documentation by transporters of oil or gas by motor vehicle or pipeline. |
 | [1713\.](Subchapter%20001%20%28I%29%20-%20Federal%20Royalty%20Management%20and%20Enforcement/%C2%A7%2001713%20-%20Required%20recordkeeping.md) | Required recordkeeping. |
@@ -46,19 +46,46 @@
 | (i) | Reasons on record for amount of penalty. |
 | (j) | Review. |
 | (k) | Failure to pay penalty. |
-| (<i>l)</i> | Nonliability for leases automatically terminated. |
+| (<i>l</i>) | Nonliability for leases automatically terminated. |
 | [1720\.](Subchapter%20001%20%28I%29%20-%20Federal%20Royalty%20Management%20and%20Enforcement/%C2%A7%2001720%20-%20Criminal%20penalties.md) | Criminal penalties. |
-| [1721\.](Subchapter%20001%20%28I%29%20-%20Federal%20Royalty%20Management%20and%20Enforcement/%C2%A7%2001721%20-%20Royalty%20interest%2C%20penalties%2C%20and%20payments.md) | Royalty interest, penalties, and payments. |
+| [1721\.](Subchapter%20001%20%28I%29%20-%20Federal%20Royalty%20Management%20and%20Enforcement/%C2%A7%2001721%20-%20Royalty%20terms%20and%20conditions%2C%20interest%2C%20and%20penalties.md) | Royalty terms and conditions, interest, and penalties. |
 | (a) | Charge on late royalty payment or royalty payment deficiency. |
 | (b) | Charge on late payment made by Secretary to States. |
 | (c) | Deposit in royalty accounts of charges on royalties due and owing Indians. |
 | (d) | Charge on late deposit of royalty fund to an Indian account. |
 | (e) | Nonliability of States for Secretary's failure to comply with the Emergency Petroleum Allocation Act of 1973 or regulations thereunder. |
 | (f) | Limitation on interest charged. |
+| (g) | Omitted. |
+| (h) | Lessee or designee interest. |
+| (i) | Limitation on interest. |
+| (j) | Estimated payment. |
+| (k) | Volume allocation of oil and gas production. |
+| (<i>l</i>) | Production allocation. |
+| [1721a.](Subchapter%20001%20%28I%29%20-%20Federal%20Royalty%20Management%20and%20Enforcement/%C2%A7%2001721a%20-%20Adjustments%20and%20refunds.md) | Adjustments and refunds. |
+| (a) | Adjustments to royalties paid to Secretary or delegated State. |
+| (b) | Refunds. |
 | [1722\.](Subchapter%20001%20%28I%29%20-%20Federal%20Royalty%20Management%20and%20Enforcement/%C2%A7%2001722%20-%20Injunction%20and%20specific%20enforcement%20authority.md) | Injunction and specific enforcement authority. |
 | (a) | Civil action by Attorney General. |
 | (b) | Venue. |
 | [1723\.](Subchapter%20001%20%28I%29%20-%20Federal%20Royalty%20Management%20and%20Enforcement/%C2%A7%2001723%20-%20Rewards.md) | Rewards. |
+| [1724\.](Subchapter%20001%20%28I%29%20-%20Federal%20Royalty%20Management%20and%20Enforcement/%C2%A7%2001724%20-%20Secretarial%20and%20delegated%20States%E2%80%99%20actions%20and%20limitation%20periods.md) | Secretarial and delegated States’ actions and limitation periods. |
+| (a) | In general. |
+| (b) | Limitation period. |
+| (c) | Obligation becomes due. |
+| (d) | Tolling of limitation period. |
+| (e) | Termination of limitations period. |
+| (f) | Records required for determining collections. |
+| (g) | Timely collections. |
+| (h) | Appeals and final agency action. |
+| (i) | Collections of disputed amounts due. |
+| (j) | Enforcement of claim for judicial review. |
+| (k) | Implementation of final decision. |
+| (<i>l</i>) | Stay of payment obligation pending review. |
+| [1725\.](Subchapter%20001%20%28I%29%20-%20Federal%20Royalty%20Management%20and%20Enforcement/%C2%A7%2001725%20-%20Assessments.md) | Assessments. |
+| [1726\.](Subchapter%20001%20%28I%29%20-%20Federal%20Royalty%20Management%20and%20Enforcement/%C2%A7%2001726%20-%20Alternatives%20for%20marginal%20properties.md) | Alternatives for marginal properties. |
+| (a) | Determination of best interests of State concerned and United States. |
+| (b) | Prepayment of royalty. |
+| (c) | Alternative accounting and auditing requirements. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -80,13 +107,15 @@
 | (a) | Action for royalty, interest, or civil penalty; limitations; notice of suit; award of costs and fees. |
 | (b) | Venue; jurisdiction of district court. |
 | (c) | Recovery of civil penalty by State; deposit of rent, royalty, or interest recovery in Treasury of the United States. |
-| [1735\.](Subchapter%20002%20%28II%29%20-%20States%20and%20Indian%20Tribes/%C2%A7%2001735%20-%20Delegation%20to%20States.md) | Delegation to States. |
-| (a) | Authorization of Secretary; permission of Indian tribe required with respect to Indian lands. |
+| [1735\.](Subchapter%20002%20%28II%29%20-%20States%20and%20Indian%20Tribes/%C2%A7%2001735%20-%20Delegation%20of%20royalty%20collections%20and%20related%20activities.md) | Delegation of royalty collections and related activities. |
+| (a) | Authorization of Secretary. |
 | (b) | Prerequisites. |
-| (c) | Promulgation of regulations defining joint functions. |
+| (c) | Ruling as to consistency of State's proposal. |
 | (d) | Promulgation of standards and regulations with respect to delegation. |
-| (e) | Revocation. |
-| (f) | Compensation to State for costs of delegation. |
+| (e) | Revocation; issuance of demand or order by Secretary. |
+| (f) | Compensation to State for costs of delegation; allocation of costs. |
+| (g) | Judicial review. |
+| (h) | Existing delegation. |
 | [1736\.](Subchapter%20002%20%28II%29%20-%20States%20and%20Indian%20Tribes/%C2%A7%2001736%20-%20Shared%20civil%20penalties.md) | Shared civil penalties. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

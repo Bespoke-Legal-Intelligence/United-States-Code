@@ -4,7 +4,7 @@
 
 &emsp;(1) the rates of pay of—
 
-&emsp;&emsp;(A) employees in the legislative, executive, and judicial branches of the Government of the United States (except employees whose pay is disbursed by the Secretary of the Senate or the Clerk of the House of Representatives) and of the government of the District of Columbia, whose rates of pay are fixed by administrative action under law and are not otherwise adjusted under this subchapter;
+&emsp;&emsp;(A) employees in the legislative, executive, and judicial branches of the Government of the United States (except employees whose pay is disbursed by the Secretary of the Senate or the Chief Administrative Officer of the House of Representatives) and of the government of the District of Columbia, whose rates of pay are fixed by administrative action under law and are not otherwise adjusted under this subchapter;
 
 &emsp;&emsp;(B) employees under the Architect of the Capitol, whose rates of pay are fixed under section 166b–3a of title 40, and the Superintendent of Garages, House office buildings; and
 
@@ -28,7 +28,7 @@
 
 (e) Pay may not be paid, by reason of any exercise of authority under this section, at a rate in excess of the rate of basic pay payable for level V of the Executive Schedule.
 
-(Added Pub. L. 91–656, §3(a), Jan. 8, 1971, 84 Stat. 1949; amended Pub. L. 101–509, title V, §529 \[titleI, §101(a)(1)\], Nov. 5, 1990, 104 Stat. 1427, 1437; Pub. L. 102–378, §2(27), Oct. 2, 1992, 106 Stat. 1350.)
+(Added Pub. L. 91–656, §3(a), Jan. 8, 1971, 84 Stat. 1949; amended Pub. L. 101–509, title V, §529 \[title I, §101(a)(1)\], Nov. 5, 1990, 104 Stat. 1427, 1437; Pub. L. 102–378, §2(27), Oct. 2, 1992, 106 Stat. 1350; Pub. L. 104–186, title II, §215(3), Aug. 20, 1996, 110 Stat. 1745.)
 
 #### References in Text
 
@@ -38,19 +38,17 @@ Level V of the Executive Schedule, referred to in subsec. (e), is set out in sec
 
 #### Amendments
 
-<b>1992</b>—Subsec. (a)(1)(B). Pub. L. 102–378 substituted “section 166b–3a” for “section 166b–3”.
+1996—Subsec. (a)(1)(A). Pub. L. 104–186 substituted “Chief Administrative Officer” for “Clerk”.
 
-<b>1990</b>—Pub. L. 101–509 amended section generally, substituting provisions authorizing adjustments in rates of pay, minimum or maximum rates of pay, and monetary limitations or allowances with respect to pay of certain Federal employees for provisions establishing Advisory Committee on Federal Pay and setting forth its duties.
+1992—Subsec. (a)(1)(B). Pub. L. 102–378 substituted “section 166b–3a” for “section 166b–3”.
+
+1990—Pub. L. 101–509 amended section generally, substituting provisions authorizing adjustments in rates of pay, minimum or maximum rates of pay, and monetary limitations or allowances with respect to pay of certain Federal employees for provisions establishing Advisory Committee on Federal Pay and setting forth its duties.
 
 #### Effective Date of 1990 Amendment
 
 Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 \[title III, §305\] of Pub. L. 101–509, set out as a note under section 5301 of this title.
 
-#### Transfer of Functions
-
-Certain functions of Clerk of House of Representatives transferred to Director of Non-legislative and Financial Services by section 7 of House Resolution No. 423, One Hundred Second Congress, Apr. 9, 1992. Director of Non-legislative and Financial Services replaced by Chief Administrative Officer of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
-
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 5376, 5382 of this title; title 10 section 9314; title 40 section 174j–8.
+This section is referred to in sections 5376, 5382 of this title; title 10 sections 1602, 9314; title 40 section 174j–8.
 

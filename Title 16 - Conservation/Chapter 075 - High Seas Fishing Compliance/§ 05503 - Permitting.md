@@ -58,11 +58,19 @@ The Secretary shall establish such conditions and restrictions on each permit is
 
 A permit issued under this section is valid for 5 years. A permit issued under this section is void in the event the vessel is no longer eligible for United States documentation, such documentation is revoked or denied, or the vessel is deleted from such documentation.
 
-(Pub. L. 104–43, title I, §104, Nov. 3, 1995, 109 Stat. 369.)
+(Pub. L. 104–43, title I, §104, Nov. 3, 1995, 109 Stat. 369; Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41.)
 
 #### References in Text
 
 This chapter, referred to in subsec. (e)(2), was in the original “this Act”, and was translated as reading “this title”, meaning title I of Pub. L. 104–43, to reflect the probable intent of Congress.
+
+#### Amendments
+
+1996—Subsec. (d)(1). Pub. L. 104–208 made technical amendment to reference in original act which appears in text as reference to section 1855 of this title.
+
+#### Effective Date of 1996 Amendment
+
+Section 101(a) \[title II, §211(b)\] of div. A of Pub. L. 104–208 provided that the amendment made by that section is effective 15 days after Oct. 11, 1996.
 
 #### Section Referred to in Other Sections
 

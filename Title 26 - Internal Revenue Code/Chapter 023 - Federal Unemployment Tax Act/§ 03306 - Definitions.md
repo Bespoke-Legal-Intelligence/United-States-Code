@@ -34,7 +34,7 @@ For purposes of this chapter—
 
 For purposes of this chapter, the term “wages” means all remuneration for employment, including the cash value of all remuneration (including benefits) paid in any medium other than cash; except that such term shall not include—
 
-&emsp;(1) that part of the remuneration which, after remuneration (other than remuneration referred to in the succeeding paragraphs of this subsection) equal to $7,000 with respect to employment has been paid to an individual by an employer during any calendar year, is paid to such individual by such employer during such calendar year. If an employer (hereinafter referred to as successor employer) during any calendar year acquires substantially all the property used in a trade or business of another employer (hereinafter referred to as a predecessor), or used in a separate unit of a trade or business of a predecessor, and immediately after the acquisition employs in histrade or business an individual who immediately prior to the acquisition was employed in the trade or business of such predecessor, then, for the purpose of determining whether the successor employer has paid remuneration (other than remuneration referred to in the succeeding paragraphs of this subsection) with respect to employment equal to $7,000 to such individual during such calendar year, any remuneration (other than remuneration referred to in the succeeding paragraphs of this subsection) with respect to employment paid (or considered under this paragraph as having been paid) to such individual by such predecessor during such calendar year and prior to such acquisition shall be considered as having been paid by such successor employer;
+&emsp;(1) that part of the remuneration which, after remuneration (other than remuneration referred to in the succeeding paragraphs of this subsection) equal to $7,000 with respect to employment has been paid to an individual by an employer during any calendar year, is paid to such individual by such employer during such calendar year. If an employer (hereinafter referred to as successor employer) during any calendar year acquires substantially all the property used in a trade or business of another employer (hereinafter referred to as a predecessor), or used in a separate unit of a trade or business of a predecessor, and immediately after the acquisition employs in his trade or business an individual who immediately prior to the acquisition was employed in the trade or business of such predecessor, then, for the purpose of determining whether the successor employer has paid remuneration (other than remuneration referred to in the succeeding paragraphs of this subsection) with respect to employment equal to $7,000 to such individual during such calendar year, any remuneration (other than remuneration referred to in the succeeding paragraphs of this subsection) with respect to employment paid (or considered under this paragraph as having been paid) to such individual by such predecessor during such calendar year and prior to such acquisition shall be considered as having been paid by such successor employer;
 
 &emsp;(2) the amount of any payment (including any amount paid by an employer for insurance or annuities, or into a fund, to provide for any such payment) made to, or on behalf of, an employee or any of his dependents under a plan or system established by an employer which makes provision for his employees generally (or for his employees generally and their dependents) or for a class or classes of his employees (or for a class or classes of his employees and their dependents), on account of—
 
@@ -60,9 +60,11 @@ For purposes of this chapter, the term “wages” means all remuneration for em
 
 &emsp;&emsp;(E) under or to an exempt governmental deferred compensation plan (as defined in section 3121(v)(3)),
 
-&emsp;&emsp;(F) to supplement pension benefits under a plan or trust described in any of the foregoing provisions of this paragraph to take into account some portion or all of the increase in the cost of living (as determined by the Secretary of Labor) since retirement but only if such supplemental payments are under a plan which is treated as a welfare plan under section 3(2)(B)(ii) of the Employee Retirement Income Security Act of 1974;<sup>1</sup> or
+&emsp;&emsp;(F) to supplement pension benefits under a plan or trust described in any of the foregoing provisions of this paragraph to take into account some portion or all of the increase in the cost of living (as determined by the Secretary of Labor) since retirement but only if such supplemental payments are under a plan which is treated as a welfare plan under section 3(2)(B)(ii) of the Employee Retirement Income Security Act of 1974; <sup>1</sup>
 
-&emsp;&emsp;(G) under a cafeteria plan (within the meaning of section 125) if such payment would not be treated as wages without regard to such plan and it is reasonable to believe that (if section 125 applied for purposes of this section) section 125 would not treat any wages as constructively received,<sup>2</sup>
+&emsp;&emsp;(G) under a cafeteria plan (within the meaning of section 125) if such payment would not be treated as wages without regard to such plan and it is reasonable to believe that (if section 125 applied for purposes of this section) section 125 would not treat any wages as constructively received, or
+
+&emsp;&emsp;(H) under an arrangement to which section 408(p) applies, other than any elective contributions under paragraph (2)(A)(i) thereof,<sup>2</sup>
 
 &emsp;(6) the payment by an employer (without deduction from the remuneration of the employee)—
 
@@ -94,9 +96,11 @@ For purposes of this chapter, the term “wages” means all remuneration for em
 
 &emsp;(14) the value of any meals or lodging furnished by or on behalf of the employer if at the time of such furnishing it is reasonable to believe that the employee will be able to exclude such items from income under section 119;
 
-&emsp;(15) any payment made by an employer to a survivor or the estate of a former employee after the calendar year in which such employee died; or
+&emsp;(15) any payment made by an employer to a survivor or the estate of a former employee after the calendar year in which such employee died;
 
-&emsp;(16) any benefit provided to or on behalf of an employee if at the time such benefit is provided it is reasonable to believe that the employee will be able to exclude such benefit from income under section 74(c), 117, or 132.
+&emsp;(16) any benefit provided to or on behalf of an employee if at the time such benefit is provided it is reasonable to believe that the employee will be able to exclude such benefit from income under section 74(c), 117, or 132; or
+
+&emsp;(17) any payment made to or for the benefit of an employee if at the time of such payment it is reasonable to believe that the employee will be able to exclude such payment from income under section 106(b).
 
 > Except as otherwise provided in regulations prescribed by the Secretary, any third party which makes a payment included in wages solely by reason of the parenthetical matter contained in subparagraph (A) of paragraph (2) shall be treated for purposes of this chapter and chapter 22 as the employer with respect to such wages. Nothing in the regulations prescribed for purposes of chapter 24 (relating to income tax withholding) which provides an exclusion from “wages” as used in such chapter shall be construed to require a similar exclusion from “wages” in the regulations prescribed for purposes of this chapter.
 
@@ -112,7 +116,7 @@ For purposes of this chapter, the term “employment” means any service perfor
 
 &emsp;&emsp;&emsp;(ii) on each of some 20 days during the calendar year or the preceding calendar year, each day being in a different calendar week, employed in agricultural labor (including labor performed by an alien referred to in subparagraph (B)) for some portion of the day (whether or not at the same moment of time) 10 or more individuals; and
 
-&emsp;&emsp;(B) such labor is not agricultural labor performed before January 1, 1995, by an individual who is an alien admitted to the United States to perform agricultural labor pursuant to sections 214(c) and 101(a)(15)(H) of the Immigration and Nationality Act;
+&emsp;&emsp;(B) such labor is not agricultural labor performed by an individual who is an alien admitted to the United States to perform agricultural labor pursuant to sections 214(c) and 101(a)(15)(H) of the Immigration and Nationality Act;
 
 &emsp;(2) domestic service in a private home, local college club, or local chapter of a college fraternity or sorority unless performed for a person who paid cash remuneration of $1,000 or more to individuals employed in such domestic service in any calendar quarter in the calendar year or the preceding calendar year;
 
@@ -132,7 +136,7 @@ For purposes of this chapter, the term “employment” means any service perfor
 
 &emsp;&emsp;(B) exempt from the tax imposed by section 3301 by virtue of any provision of law which specifically refers to such section (or the corresponding section of prior law) in granting such exemption;
 
-&emsp;(7) service performed in the employ of a State, or any political subdivision thereof, or any instrumentality of any one or more of the foregoing which is wholly owned by one or more States or political subdivisions; and anyservice performed in the employ of any instrumentality of one or more States or political subdivisions to the extent that the instrumentality is, with respect to such service, immune under the Constitution of the United States from the tax imposed by section 3301;
+&emsp;(7) service performed in the employ of a State, or any political subdivision thereof, or any instrumentality of any one or more of the foregoing which is wholly owned by one or more States or political subdivisions; and any service performed in the employ of any instrumentality of one or more States or political subdivisions to the extent that the instrumentality is, with respect to such service, immune under the Constitution of the United States from the tax imposed by section 3301;
 
 &emsp;(8) service performed in the employ of a religious, charitable, educational, or other organization described in section 501(c)(3) which is exempt from income tax under section 501(a);
 
@@ -200,11 +204,13 @@ For purposes of this chapter, the term “unemployment fund” means a special f
 
 &emsp;(2) the amounts specified by section 903(c)(2) of the Social Security Act may, subject to the conditions prescribed in such section, be used for expenses incurred by the State for administration of its unemployment compensation law and public employment offices,<sup>4</sup>
 
-&emsp;(3) amounts may be deducted from unemployment benefits and used to repay overpayments as provided in section 303(g) of the Social Security Act;
+&emsp;(3) nothing in this subsection shall be construed to prohibit deducting any amount from unemployment compensation otherwise payable to an individual and using the amount so deducted to pay for health insurance, or the withholding of Federal, State, or local individual income tax, if the individual elected to have such deduction made and such deduction was made under a program approved by the Secretary of Labor;
 
-&emsp;(4) amounts may be withdrawn for the payment of short-time compensation under a plan approved by the Secretary of Labor; and
+&emsp;(4) amounts may be deducted from unemployment benefits and used to repay overpayments as provided in section 303(g) of the Social Security Act;
 
-&emsp;(5) amounts may be withdrawn for the payment of allowances under a self-employment assistance program (as defined in subsection (t)).
+&emsp;(5) <sup>5</sup> amounts may be withdrawn for the payment of short-time compensation under a plan approved by the Secretary of Labor; and
+
+&emsp;(5) <sup>5</sup> amounts may be withdrawn for the payment of allowances under a self-employment assistance program (as defined in subsection (t)).
 
 #### (g) Contributions
 
@@ -242,13 +248,13 @@ For purposes of this chapter—
 
 &emsp;&emsp;(D) a corporation organized under the laws of the United States or of any State.
 
-> An individual who is a citizen of the Commonwealth of Puerto Rico or the Virgin Islands (butnot otherwise a citizen of the United States) shall be considered, for purposes of this section, as a citizen of the United States.
+> An individual who is a citizen of the Commonwealth of Puerto Rico or the Virgin Islands (but not otherwise a citizen of the United States) shall be considered, for purposes of this section, as a citizen of the United States.
 
 #### (k) Agricultural labor
 
 For purposes of this chapter, the term “agricultural labor” has the meaning assigned to such term by subsection (g) of section 3121, except that for purposes of this chapter subparagraph (B) of paragraph (4) of such subsection (g) shall be treated as reading:
 
-&emsp;&emsp;“(B) in the employ of a group of operators of farms (or a cooperative organization of which such operators are members) in the performance of service described in subparagraph (A), but only if such operators produced more than one-half of the commodity with respect to which such service is performed;” <sup>5</sup>
+&emsp;&emsp;“(B) in the employ of a group of operators of farms (or a cooperative organization of which such operators are members) in the performance of service described in subparagraph (A), but only if such operators produced more than one-half of the commodity with respect to which such service is performed;”.
 
 #### \[(<i>l</i>) Repealed. Sept. 1, 1954, ch. 1212, §4(c), 68 Stat. 1135\]
 
@@ -264,7 +270,7 @@ Notwithstanding the provisions of subsection (c)(6), service performed by office
 
 &emsp;(2) whose business is conducted by a general agent of the Secretary of Commerce.
 
-> For purposes of this chapter, each such general agent shall be considered a legal entity in his capacity as such general agent, separate and distinct from his identity as a person employing individuals on his own account, and the officers and members of the crew of such an American vessel whose business is conducted by a general agent of the Secretary of Commerce shall be deemed to be performing services for such general agent rather than the United States. Each such general agent who in his capacity as such is an employer within the meaning of subsection (a) shall be subject to all the requirements imposed upon an employer under this chapter with respect to service which constitutes employment by reason of this subsection.
+> For purposes of this chapter, each such general agent shall be considered a legal entity in hiscapacity as such general agent, separate and distinct from his identity as a person employing individuals on his own account, and the officers and members of the crew of such an American vessel whose business is conducted by a general agent of the Secretary of Commerce shall be deemed to be performing services for such general agent rather than the United States. Each such general agent who in his capacity as such is an employer within the meaning of subsection (a) shall be subject to all the requirements imposed upon an employer under this chapter with respect to service which constitutes employment by reason of this subsection.
 
 #### (<i>o</i>) Special rule in case of certain agricultural workers
 
@@ -340,7 +346,7 @@ For purposes of subsection (c)(20), an individual shall be treated as a full tim
 
 #### (C) Nonqualified deferred compensation plan
 
-&emsp;&emsp;For purposes of this paragraph, the term “nonqualified deferred compensation plan” means any plan or other arrangement for deferral of compensation other than a plan described in subsection (b)(5).
+&emsp;&emsp;For purposes of this paragraph, the term “nonqualified deferred compensation plan”means any plan or other arrangement for deferral of compensation other than a plan described in subsection (b)(5).
 
 #### (s) Tips treated as wages
 
@@ -386,15 +392,11 @@ For the purposes of this chapter, the term “self-employment assistance program
 
 &emsp;(6) the program meets such other requirements as the Secretary of Labor determines to be appropriate.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 447; Sept. 1, 1954, ch. 1212, §§1, 4(c), 68 Stat. 1130, 1135; June 25, 1959, Pub. L. 86–70, §22(a), 73 Stat. 146; July 12, 1960,Pub. L. 86–624, §18(d), 74 Stat. 416; Sept. 13, 1960, Pub. L. 86–778, title V, §§531(c), 532–534, 543(a), 74 Stat. 983, 984, 986; Sept. 21, 1961, Pub. L. 87–256, §110(f), 75 Stat. 537; Oct. 10, 1962, Pub. L. 87–792, §7(k), 76 Stat. 830; Oct. 13, 1964, Pub. L. 88–650, §4(c), 78 Stat. 1077; Jan. 2, 1968, Pub. L. 90–248, title V, §504(b), 81 Stat. 935; Aug. 7, 1969, Pub. L. 91–53, §1, 83 Stat. 91; Aug. 10, 1970, Pub. L. 91–373, title I, §§101(a), 102(a), 103(a), 105(a), (b), 106(a), title III, §302, 84 Stat. 696, 697, 699, 700, 713; Oct. 4, 1976, Pub. L. 94–455, title XIX, §§1903(a)(16), 1906(b)(13)(C), 90 Stat. 1810, 1834; Oct. 20, 1976, Pub. L. 94–566, title I, §§111 (a), (b), 112(a), 113(a), 114(a), 116(b), title II, §211(a), 90 Stat. 2667–2669, 2672, 2676; Dec. 20, 1977, Pub. L. 95–216, title III, §314(b), 91 Stat. 1536; Oct. 17, 1978, Pub. L. 95–472, §3(a), 92 Stat. 1333; Nov. 6, 1978, Pub. L. 95–600, title I, §164(b)(2), 92 Stat. 2813; Oct. 10, 1979, Pub. L. 96–84, §4(a), (b), 93 Stat. 654; Apr. 1, 1980, Pub. L. 96–222, title I, §101(a)(10)(B)(ii), 94 Stat. 201; Dec. 5, 1980, Pub. L. 96–499, title XI, §1141(b), 94 Stat. 2694; Aug. 13, 1981, Pub. L. 97–34, title I, §124(e)(2)(A), title VIII, §822(a), 95 Stat. 200, 351; Sept. 3, 1982, Pub. L. 97–248, title II, §§271(a), 276(a)(1), (b)(1), (2), 277, 96 Stat. 554, 558, 559; Apr. 20, 1983, Pub. L. 98–21, title III, §§324(b)(1)–(4)(B), 327(c), 328(c), 97 Stat. 123, 124, 127, 128; Oct. 24, 1983, Pub. L. 98–135, title II, §§201(a), 202, 97 Stat. 860; July 18, 1984, Pub. L. 98–369, div. A, title IV, §491(d)(37), title V, §531(d)(3), div. B, title VI, §2661(<i>o</i>)(4), 98 Stat. 851, 884, 1159; Apr. 7, 1986, Pub. L. 99–272, title XII, §12401(b)(2), title XIII, §13303(a), 100 Stat. 297, 327; Oct. 21, 1986, Pub. L. 99–509, title IX, §9002(b)(2)(B), 100 Stat. 1971; Oct. 22, 1986, Pub. L. 99–514, title I, §122(e)(3), title XI, §§1108(g)(8), 1151(d)(2)(B), title XVIII, §§1884(3), 1899A(44), (45), 100 Stat. 2112, 2435, 2505, 2919, 2961; Oct. 31, 1986, Pub. L. 99–595, 100 Stat. 3348; Nov. 10, 1988, Pub. L. 100–647, title I, §§1001(d)(2)(C)(iii), (g)(4)(B)(ii), 1011B(a) (22)(C), (23)(A), 1018(u)(50), title VIII, §8016(a)(3)(B), 102 Stat. 3351, 3352, 3486, 3593, 3792; Nov. 8, 1989, Pub. L. 101–140, title II, §203(a)(2), 103 Stat. 830; July 3, 1992, Pub. L. 102–318, title III, §303(a), title IV, §401(a)(2), title V, §521(b)(35), 106 Stat. 297, 298, 312; Dec. 8, 1993, Pub. L. 103–182, title V, §507(a), (b)(2), 107 Stat. 2153, 2154; Aug. 15, 1994, Pub. L. 103–296, title III, §320(a)(1)(E), 108 Stat. 1535; Dec. 8, 1994, Pub. L. 103–465, title VII, §702(c)(2), 108 Stat. 4997.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 447; Sept. 1, 1954, ch. 1212, §§1, 4(c), 68 Stat. 1130, 1135; June 25, 1959, Pub. L. 86–70, §22(a), 73 Stat. 146; July 12, 1960, Pub. L. 86–624, §18(d), 74 Stat. 416; Sept. 13, 1960, Pub. L. 86–778, title V, §§531(c), 532–534, 543(a), 74 Stat. 983, 984, 986; Sept. 21, 1961, Pub. L. 87–256, §110(f), 75 Stat. 537; Oct. 10, 1962, Pub. L. 87–792, §7(k), 76 Stat. 830; Oct. 13, 1964, Pub. L. 88–650, §4(c), 78 Stat. 1077; Jan. 2, 1968, Pub. L. 90–248, title V, §504(b), 81 Stat. 935; Aug. 7, 1969, Pub. L. 91–53, §1, 83 Stat. 91; Aug. 10, 1970, Pub. L. 91–373, title I, §§101(a), 102(a), 103(a), 105(a), (b), 106(a), title III, §302, 84 Stat. 696, 697, 699, 700, 713; Oct. 4, 1976, Pub. L. 94–455, title XIX, §§1903(a)(16), 1906(b)(13)(C), 90 Stat. 1810, 1834; Oct. 20, 1976, Pub. L. 94–566, title I, §§111 (a), (b), 112(a), 113(a), 114(a), 116(b), title II, §211(a), 90 Stat. 2667–2669, 2672, 2676; Dec. 20, 1977, Pub. L. 95–216, title III, §314(b), 91 Stat. 1536; Oct. 17, 1978, Pub. L. 95–472, §3(a), 92 Stat. 1333; Nov. 6, 1978, Pub. L. 95–600, title I, §164(b)(2), 92 Stat. 2813; Oct. 10, 1979, Pub. L. 96–84, §4(a), (b), 93 Stat. 654; Apr. 1, 1980, Pub. L. 96–222, title I, §101(a)(10)(B)(ii), 94 Stat. 201; Dec. 5, 1980, Pub. L. 96–499, title XI, §1141(b), 94 Stat. 2694; Aug. 13, 1981, Pub. L. 97–34, title I, §124(e)(2)(A), title VIII, §822(a), 95 Stat. 200, 351; Sept. 3, 1982, Pub. L. 97–248, title II, §§271(a), 276(a)(1), (b)(1), (2), 277, 96 Stat. 554, 558, 559; Apr. 20, 1983, Pub. L. 98–21, title III, §§324(b)(1)–(4)(B), 327(c), 328(c), 97 Stat. 123, 124, 127, 128; Oct. 24, 1983, Pub. L. 98–135, title II, §§201(a), 202, 97 Stat. 860; July 18, 1984, Pub. L. 98–369, div. A, title IV, §491(d)(37), title V, §531(d)(3), div. B, title VI, §2661(<i>o</i>)(4), 98 Stat. 851, 884, 1159; Apr. 7, 1986, Pub. L. 99–272, title XII, §12401(b)(2), title XIII, §13303(a), 100 Stat. 297, 327; Oct. 21, 1986, Pub. L. 99–509, title IX, §9002(b)(2)(B), 100 Stat. 1971; Oct. 22, 1986, Pub. L. 99–514, title I, §122(e)(3), title XI, §§1108(g)(8), 1151(d)(2)(B), title XVIII, §§1884(3), 1899A(44), (45), 100 Stat. 2112, 2435, 2505, 2919, 2961; Oct. 31, 1986, Pub. L. 99–595, 100 Stat. 3348; Nov. 10, 1988, Pub. L. 100–647, title I, §§1001(d)(2)(C)(iii), (g)(4)(B)(ii), 1011B(a) (22)(C), (23)(A), 1018(u)(50), title VIII, §8016(a)(3)(B), 102 Stat. 3351, 3352, 3486, 3593, 3792; Nov. 8, 1989, Pub. L. 101–140, title II, §203(a)(2), 103 Stat. 830; July 3, 1992, Pub. L. 102–318, title III, §303(a), title IV, §401(a)(2), title V, §521(b)(35), 106 Stat. 297, 298, 312; Dec. 8, 1993, Pub. L. 103–182, title V, §507(a), (b)(2), 107 Stat. 2153, 2154; Aug. 15, 1994, Pub. L. 103–296, title III, §320(a)(1)(E), 108 Stat. 1535; Dec. 8, 1994, Pub. L. 103–465, title VII, §702(c)(2), 108 Stat. 4997; Aug. 20, 1996, Pub. L. 104–188, title I, §§1203(a), 1421(b)(8)(C), 1704(t)(10), 110 Stat. 1773, 1798, 1888; Aug. 21, 1996, Pub. L. 104–191, title III, §301(c)(2)(B), 110 Stat. 2049.)
 
-#### Amendment of Section
+#### Termination of Amendment
 
-<i>Pub. L. 103–465, title VII, §702(c)(2), (d), Dec. 8, 1994, 108 Stat. 4997, provided that, applicable to payments made after Dec. 31, 1996, subsection (f) of this section is amended by redesignating pars. (3) and (4) as (4) and (5), respectively, and by adding after par. (2) a new par. (3) to read as follows:</i>
-
-(3) nothing in this subsection shall be construed to prohibit deducting any amount from unemployment compensation otherwise payable to an individual and using the amount so deducted to pay for health insurance, or the withholding of Federal, State, or local individual income tax, if the individual elected to have such deduction made and such deduction was made under a program approved by the Secretary of Labor;
-
-<i>For termination of amendment by section 507(e)(2) of Pub. L. 103–182, see Effective and Termination Dates of 1993 Amendment note below.</i>
+<i>For termination of amendment by section 507(e)(2) of Pub. L. 103–182, see Effective and</i><i>Termination Dates of 1993 Amendment note below.</i>
 
 #### References in Text
 
@@ -404,13 +406,23 @@ Subchapter C of chapter 9 of the Internal Revenue Code of 1939, referred to in s
 
 Sections 214(c) and 101(a)(15)(H) of the Immigration and Nationality Act, referred to in subsec. (c)(1)(B), are classified to sections 1184(c) and 1101(a)(15)(H), respectively, of Title 8, Aliens and Nationality.
 
-Sections 303(g), 903(c)(2), and 904(a) of the Social Security Act, referred to in subsecs. (f)(2), (3) and (t)(5), are classified to sections 503(g), 1103(c)(2), and 1104(a), respectively, of Title 42, The Public Health and Welfare.
+Sections 303(g), 903(c)(2), and 904(a) of the Social Security Act, referred to in subsecs. (f)(2), (4) and (t)(5), are classified to sections 503(g), 1103(c)(2), and 1104(a), respectively, of Title 42, The Public Health and Welfare.
 
 The Migrant and Seasonal Agricultural Worker Protection Act, referred to in subsec. (<i>o</i>)(1)(A)(i), is Pub. L. 97–470, Jan. 14, 1983, 96 Stat. 2584, as amended, which is classified generally to chapter 20 (§1801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 29 and Tables.
 
 #### Amendments
 
+1996—Subsec. (b)(5)(H). Pub. L. 104–188, §1421(b)(8)(C), added subpar. (H).
+
+Subsec. (b)(17). Pub. L. 104–191 added par. (17).
+
+Subsec. (c)(1)(B). Pub. L. 104–188, §1203(a), struck out “before January 1, 1995,” after “labor performed”.
+
+Subsec. (k). Pub. L. 104–188, §1704(t)(10), inserted a period at end.
+
 1994—Subsec. (c)(19). Pub. L. 103–296 substituted “(J), (M), or (Q)” for “(J), or (M)” wherever appearing.
+
+Subsec. (f)(3) to (5). Pub. L. 103–465 added par. (3) and redesignated former pars. (3) and (4) as (4) and (5) relating to payment of short-time compensation, respectively.
 
 1993—Subsec. (f)(5). Pub. L. 103–182, §507(b)(2), (e), temporarily added par. (5). See Effective and Termination Dates of 1993 Amendment note below.
 
@@ -542,7 +554,7 @@ Subsec. (j). Pub. L. 94–566, §116(b)(2), inserted reference to the Virgin Isl
 
 Subsec. (n). Pub. L. 94–455, §1903(a)(16)(D), struck out “on or after July 1, 1953,” after “service performed”.
 
-Subsec. (<i>o</i>). Pub. L. 94–566, §112(a), added subsec. (<i>o).</i>
+Subsec. (<i>o</i>). Pub. L. 94–566, §112(a), added subsec. (<i>o</i>).
 
 1970—Subsec. (a). Pub. L. 91–373, §101(a), expanded definition of “employer” by reducing from 4 to 1 the number of individuals which a person had to employ on each of some 20 days during the calendar year or the preceding calendar year in order to qualify as an employer and inserted provisions making a person an employer who paid wages of $1,500 or more during any calendar quarter in the calendar year or the preceding calendar year.
 
@@ -589,6 +601,14 @@ Subsec. (m). Pub. L. 86–778, §532(c), included aircraft in heading and define
 1954—Subsec. (a). Act Sept. 1, 1954, changed definition of employer from “eight or more” to “4 or more”.
 
 Subsec. (<i>l</i>). Act Sept. 1, 1954, repealed subsec. (<i>l</i>) which related to certain employees of Bonneville Power Administrator.
+
+#### Effective Date of 1996 Amendments
+
+Amendment by Pub. L. 104–191 applicable to taxable years beginning after Dec. 31, 1996, see section 301(j) of Pub. L. 104–191, set out as a note under section 62 of this title.
+
+Section 1203(b) of Pub. L. 104–188 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to services performed after December 31, 1994.”
+
+Amendment by section 1421(b)(8)(C) of Pub. L. 104–188 applicable to taxable years beginning after Dec. 31, 1996, see section 1421(e) of Pub. L. 104–188, set out as a note under section 72 of this title.
 
 #### Effective Date of 1994 Amendments
 
@@ -706,7 +726,7 @@ Amendment by Pub. L. 95–472 applicable with respect to taxable years beginning
 
 #### Effective Date of 1977 Amendment
 
-Amendment by Pub. L. 95–216 applicable with respect to wages paid after Dec. 31, 1978, see section 314(c) ofPub. L. 95–216, set out as a note under section 3121 of this title.
+Amendment by Pub. L. 95–216 applicable with respect to wages paid after Dec. 31, 1978, see section 314(c) of Pub. L. 95–216, set out as a note under section 3121 of this title.
 
 #### Effective Date of 1976 Amendment
 
@@ -792,7 +812,11 @@ For purposes of this chapter, the term “wages” shall not include the amount 
 
 #### Nonenforcement of Amendment Made by Section 1151 of Pub. L. 99–514 for Fiscal Year 1990
 
-No monies appropriated by Pub. L. 101–136 to be used to implement or enforce section 1151 of Pub. L. 99–514or the amendments made by such section, see section 528 of Pub. L. 101–136, set out as a note under section 89 of this title.
+No monies appropriated by Pub. L. 101–136 to be used to implement or enforce section 1151 of Pub. L. 99–514 or the amendments made by such section, see section 528 of Pub. L. 101–136, set out as a note under section 89 of this title.
+
+#### Plan Amendments Not Required Until January 1, 1998
+
+For provisions directing that if any amendments made by subtitle D \[§§1401–1465\] of title I of Pub. L. 104–188 require an amendment to any plan or annuity contract, such amendment shall not be required to be made before the first day of the first plan year beginning on or after Jan. 1, 1998, see section 1465 of Pub. L. 104–188, set out as a note under section 401 of this title.
 
 #### Plan Amendments Not Required Until January 1, 1994
 
@@ -846,5 +870,5 @@ This section is referred to in sections 51, 936, 3301, 3304, 3305, 3309, 3510, 6
 
 <i><sup>4</sup></i><i> So in original. The comma probably should be a semicolon.</i>
 
-<i><sup>5</sup></i><i> So in original. Probably should be followed by a period.</i>
+<i><sup>5</sup></i><i> So in original. Two pars. (5) have been enacted.</i>
 

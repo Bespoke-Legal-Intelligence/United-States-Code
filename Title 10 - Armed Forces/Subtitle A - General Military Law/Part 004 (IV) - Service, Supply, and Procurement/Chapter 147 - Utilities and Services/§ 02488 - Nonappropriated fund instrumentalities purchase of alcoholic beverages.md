@@ -2,21 +2,31 @@
 
 (a) The Secretary of Defense shall provide that—
 
-&emsp;(1) covered alcoholic beverage purchases made for resale on a military installation located in the United States shall be made from the most competitive source, price and other factors considered, except that
+&emsp;(1) covered alcoholic beverage purchases made for resale on a military installation located in the United States shall be made from the most competitive source and distributed in the most economical manner, price and other factors considered, except that
 
 &emsp;(2) in the case of malt beverages and wine, such purchases shall be made from, and delivery shall be accepted from, a source within the State in which the military installation concerned is located.
 
 (b) If a military installation located in the contiguous States is located in more than one State, a source of supply in any State in which the installation is located shall be considered for the purposes of subsection (a)(2) to be a source within the State in which the installation is located.
 
-(c) In this section:
+(c)(1) In the case of covered alcoholic beverage purchases of distilled spirits, to determine whether a nonappropriated fund instrumentality of the Department of Defense provides the most economical method of distribution to package stores, the Secretary of Defense shall consider all components of the distribution costs incurred by the nonappropriated fund instrumentality, such as overhead costs (including costs associated with management, logistics, administration, depreciation, and utilities), the costs of carrying inventory, and handling and distribution costs.
+
+(2) If the use of a private distributor would subject covered alcoholic beverage purchases of distilled spirits to direct or indirect State taxation, a nonappropriated fund instrumentality shall be considered to be the most economical method of distribution regardless of the results of the determination under paragraph (1).
+
+(3) The Secretary shall use the agencies performing audit functions on behalf of the armed forces and the Inspector General of the Department of Defense to make determinations under this subsection.
+
+(d) In this section:
 
 &emsp;(1) The term “covered alcoholic beverage purchases” means purchases of alcoholic beverages by a nonappropriated fund instrumentality of the Department of Defense with nonappropriated funds.
 
 &emsp;(2) The term “State” includes the District of Columbia.
 
-(Added Pub. L. 99–661, div. A, title III, §313(a), Nov. 14, 1986, 100 Stat. 3853; amended Pub. L. 100–180, div. A, title III, §312(a), Dec. 4, 1987, 101 Stat. 1073.)
+(Added Pub. L. 99–661, div. A, title III, §313(a), Nov. 14, 1986, 100 Stat. 3853; amended Pub. L. 100–180, div. A, title III, §312(a), Dec. 4, 1987, 101 Stat. 1073; Pub. L. 104–106, div. A, title III, §333, Feb. 10, 1996, 110 Stat. 261.)
 
 #### Amendments
+
+1996—Subsec. (a)(1). Pub. L. 104–106, §333(a), inserted “and distributed in the most economical manner” after “most competitive source”.
+
+Subsecs. (c), (d). Pub. L. 104–106, §333(b), added subsec. (c) and redesignated former subsec. (c) as (d).
 
 1987—Subsec. (a)(2). Pub. L. 100–180 struck out “purchased for resale on a military installation located in the contiguous States” after “malt beverages and wines”.
 

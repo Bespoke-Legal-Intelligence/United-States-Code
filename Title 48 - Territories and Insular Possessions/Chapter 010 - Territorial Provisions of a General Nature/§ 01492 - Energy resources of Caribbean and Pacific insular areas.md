@@ -8,7 +8,7 @@ The Congress finds that—
 
 &emsp;(2) the dependence of such areas on imported sources of energy coupled with the increasing cost and the uncertain availability and supply of such sources of energy will continue to frustrate the political, social, and economic development of such areas by placing increasingly severe fiscal burdens on the local governments of these areas;
 
-&emsp;(3) these insular areas are endowed with a variety of renewable sources of energy which, if developed, would alleviate their dependence on imported sources of energy, relieve the fiscal burden on local governments imposed by the costs of imported fuel, and strengthen the base for political, social, and economic development;
+&emsp;(3) these insular areas are endowed with a variety of renewable sources of energy which, if developed, would alleviate their dependence on imported sources of energy, relieve the fiscal burden on local governments imposed by the costs of imported fuel, and strengthen thebase for political, social, and economic development;
 
 &emsp;(4) appropriate technologies are presently available to develop the renewable energy resources of these insular areas but that comprehensive energy plans have not been adequately developed to meet the energy demands of these areas from renewable energy resources.
 

@@ -18,9 +18,9 @@ Carrier.—The term “carrier” means a motor carrier, a water carrier, and a 
 
 Contract carriage.—The term “contract carriage” means—
 
-&emsp;&emsp;(A) for transportation provided before the effective date of this section, service provided pursuant to a permit issued under section 10923, as in effect on the day before the effective date of this section; and
+&emsp;&emsp;(A) for transportation provided before January 1, 1996, service provided pursuant to a permit issued under section 10923, as in effect on December 31, 1995; and
 
-&emsp;&emsp;(B) for transportation provided on or after such date, service provided under an agreement entered into under section 14101(b).
+&emsp;&emsp;(B) for transportation provided after December 31, 1995, service provided under an agreement entered into under section 14101(b).
 
 &emsp;(5)
 
@@ -126,23 +126,39 @@ United states.—The term “United States” means the States of the United Sta
 
 &emsp;(21)
 
-Vessel.—The term “vessel” means a watercraft or other artificial contrivance thatis used, is capable of being used, or is intended to be used, as a means of transportation by water.
+Vessel.—The term “vessel” means a watercraft or other artificial contrivance that is used, is capable of being used, or is intended to be used, as a means of transportation by water.
 
 &emsp;(22)
 
 Water carrier.—The term “water carrier” means a person providing water transportation for compensation.
 
-(Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 854.)
+(Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 854; amended Pub. L. 104–287, §5(27), Oct. 11, 1996, 110 Stat. 3390.)
+
+#### Historical and Revision Notes
+
+I74Pub. L. 104–287, §5(27)(A)
+
+This amends 49:13102(4)(A) by setting out the effective date of the ICC Termination Act of 1995 (Public Law 104–88, 109 Stat. 803) and the day before that date.
+
+#### Pub. L. 104–287, §5(27)(B)
+
+This amends 49:13102(4)(B) for clarity and consistency.
 
 #### References in Text
 
-Section 10923, as in effect on the day before the effective date of this section, referred to in par. (4)(A), means section 10923 of this title as in effect on the day before Jan. 1, 1996. Section 10923 was omitted in the general amendment of this subtitle by Pub. L. 104–88, title I, §102(a), Dec. 29, 1995, 109 Stat. 804, effective Jan. 1, 1996.
+Section 10923, referred to in par. (4)(A), was omitted in the general amendment of this subtitle by Pub. L. 104–88, title I, §102(a), Dec. 29, 1995, 109 Stat. 804, effective Jan. 1, 1996.
 
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in section 10102 of this title prior to the general amendment of this subtitle by Pub. L. 104–88, §102(a).
 
+#### Amendments
+
+1996—Par. (4)(A). Pub. L. 104–287, §5(27)(A), substituted “January 1, 1996” for “the effective date of this section” and “December 31, 1995” for “the day before the effective date of this section”.
+
+Par. (4)(B). Pub. L. 104–287, §5(27)(B), substituted “after December 31, 1995” for “on or after such date”.
+
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 501, 5102, 14101, 14706, of this title; title 18 section 921; title 29 section 186; title 39 section 5201; title 42 section 4917.
+This section is referred to in sections 501, 5102, 5901, 14101, 14706, of this title; title 18 section 921; title 29 section 186; title 39 section 5201; title 42 section 4917.
 

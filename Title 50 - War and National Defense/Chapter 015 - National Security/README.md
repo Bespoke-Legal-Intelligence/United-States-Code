@@ -19,17 +19,23 @@
 | (e) | Participation of Chairman or Vice Chairman of Joint Chiefs of Staff. |
 | (f) | Participation by Director of National Drug Control Policy. |
 | (g) | Board for Low Intensity Conflict. |
-| (h) | Participation of Director of Central Intelligence. |
+| (h) | Committee on Foreign Intelligence. |
+| (i) | Committee on Transnational Threats. |
+| (j) | Participation of Director of Central Intelligence. |
 | [402a.](Subchapter%20001%20%28I%29%20-%20Coordination%20for%20National%20Security/%C2%A7%2000402a%20-%20Coordination%20of%20counterintelligence%20activities.md) | Coordination of counterintelligence activities. |
 | (a) | Establishment of Counterintelligence Policy Board. |
 | (b) | Function of Board. |
 | (c) | Coordination of counterintelligence matters with Federal Bureau of Investigation. |
-| [403\.](Subchapter%20001%20%28I%29%20-%20Coordination%20for%20National%20Security/%C2%A7%2000403%20-%20Central%20Intelligence%20Agency.md) | Central Intelligence Agency. |
-| (a) | Establishment; Director. |
-| (b) | Deputy Director. |
-| (c) | Commissioned officers as Director or Deputy Director; powers and limitations; effect on commissioned status. |
-| (d) | Office of Director within Agency. |
-| 403–1. | Repealed. |
+| [403\.](Subchapter%20001%20%28I%29%20-%20Coordination%20for%20National%20Security/%C2%A7%2000403%20-%20Office%20of%20the%20Director%20of%20Central%20Intelligence.md) | Office of the Director of Central Intelligence. |
+| (a) | Director of Central Intelligence. |
+| (b) | Deputy Directors of Central Intelligence. |
+| (c) | Military status of Director and Deputy Directors. |
+| (d) | Duties of Deputy Directors. |
+| (e) | Office of the Director of Central Intelligence. |
+| (f) | Assistant Director of Central Intelligence for Collection. |
+| (g) | Assistant Director of Central Intelligence for Analysis and Production. |
+| (h) | Assistant Director of Central Intelligence for Administration. |
+| 403–1. | Central Intelligence Agency. |
 | 403–2. | Intelligence Community contracting. |
 | 403–2a. | Construction of intelligence community facilities; Presidential authorization. |
 | 403–2b. | Limitation on construction of facilities to be used primarily by intelligence community. |
@@ -53,9 +59,18 @@
 | (a) | In general. |
 | (b) | Responsibility for performance of specific functions. |
 | (c) | Use of elements of Department of Defense. |
-| 403–6. | Administrative provisions pertaining to defense elements within intelligence community. |
-| (a) | Consultations with regard to certain appointments. |
-| (b) | Appointment of head of Central Imagery Office. |
+| (d) | Annual evaluation of Director of Central Intelligence. |
+| 403–5a. | Assistance to United States law enforcement agencies. |
+| (a) | Authority to provide assistance. |
+| (b) | Limitation on assistance by elements of Department of Defense. |
+| (c) | Definitions. |
+| 403–6. | Appointment of officials responsible for intelligence-related activities. |
+| (a) | Concurrence of DCI in certain appointments. |
+| (b) | Consultation with DCI in certain appointments. |
+| 403–7. | Prohibition on using journalists as agents or assets. |
+| (a) | Policy. |
+| (b) | Waiver. |
+| (c) | Voluntary cooperation. |
 | [403a.](Subchapter%20001%20%28I%29%20-%20Coordination%20for%20National%20Security/%C2%A7%2000403a%20-%20Definitions%20relating%20to%20Central%20Intelligence%20Agency.md) | Definitions relating to Central Intelligence Agency. |
 | [403b.](Subchapter%20001%20%28I%29%20-%20Coordination%20for%20National%20Security/%C2%A7%2000403b%20-%20Seal%20of%20office%20of%20Central%20Intelligence%20Agency.md) | Seal of office of Central Intelligence Agency. |
 | [403c.](Subchapter%20001%20%28I%29%20-%20Coordination%20for%20National%20Security/%C2%A7%2000403c%20-%20Procurement%20authority%20of%20Central%20Intelligence%20Agency.md) | Procurement authority of Central Intelligence Agency. |
@@ -63,7 +78,6 @@
 | (b) | “Agency head” defined. |
 | (c) | Classes of purchases and contracts; finality of decision; powers delegable. |
 | (d) | Powers not delegable; written findings. |
-| (e) | Automatic data processing equipment and services. |
 | [403d.](Subchapter%20001%20%28I%29%20-%20Coordination%20for%20National%20Security/%C2%A7%2000403d%20-%20Repealed.%20Pub.%20L.%2085%E2%80%93507%2C%20%C2%A721%28b%29%282%29%2C%20July%207%2C%201958%2C%2072%20Stat.%20337.md) | Repealed. |
 | [403e.](Subchapter%20001%20%28I%29%20-%20Coordination%20for%20National%20Security/%C2%A7%2000403e%20-%20Central%20Intelligence%20Agency%20personnel%3B%20allowances%20and%20benefits.md) | Central Intelligence Agency personnel; allowances and benefits. |
 | (a) | Travel, allowances, and related expenses for officers and employees assigned to duty stations outside United States. |
@@ -121,6 +135,10 @@
 | (a) | Officers and employees to whom section 2051 rules apply. |
 | (b) | Survivors of officers and employees to whom section 2052 rules apply. |
 | (c) | Annuities under this section deemed annuities under chapter 83 of title 5. |
+| [403t.](Subchapter%20001%20%28I%29%20-%20Coordination%20for%20National%20Security/%C2%A7%2000403t%20-%20General%20Counsel%20of%20Central%20Intelligence%20Agency.md) | General Counsel of Central Intelligence Agency. |
+| (a) | Appointment. |
+| (b) | Chief legal officer. |
+| (c) | Functions. |
 | [404\.](Subchapter%20001%20%28I%29%20-%20Coordination%20for%20National%20Security/%C2%A7%2000404%20-%20Emergency%20preparedness.md) | Emergency preparedness. |
 | (a) | Employment of personnel. |
 | (b) | Functions. |
@@ -133,14 +151,28 @@
 | (a) | Annual submission of multiyear national foreign intelligence program. |
 | (b) | Time of submission. |
 | (c) | Consistency with budget estimates. |
+| (d) | Specified congressional committees. |
 | [404c.](Subchapter%20001%20%28I%29%20-%20Coordination%20for%20National%20Security/%C2%A7%2000404c%20-%20Annual%20report%20on%20United%20States%20security%20arrangements%20and%20commitments%20with%20other%20nations.md) | Annual report on United States security arrangements and commitments with other nations. |
 | (a) | Report requirements. |
 | (b) | Matters to be included. |
 | (c) | Deadline for report. |
-| [404d.](Subchapter%20001%20%28I%29%20-%20Coordination%20for%20National%20Security/%C2%A7%2000404d%20-%20Annual%20report%20on%20intelligence%20community%20activities.md) | Annual report on intelligence community activities. |
+| (d) | Specified congressional committees. |
+| [404d.](Subchapter%20001%20%28I%29%20-%20Coordination%20for%20National%20Security/%C2%A7%2000404d%20-%20Annual%20report%20on%20intelligence.md) | Annual report on intelligence. |
 | (a) | In general. |
-| (b) | Matters to be covered in annual report. |
+| (b) | Matters covered. |
+| (c) | “Appropriate congressional committees” defined. |
 | (c) | Time for submission. |
+| 404d–1. | Restrictions on intelligence sharing with United Nations. |
+| (a) | Provision of intelligence information to United Nations. |
+| (b) | Periodic and special reports. |
+| (c) | Delegation of duties. |
+| (d) | Relationship to existing law. |
+| (e) | “Appropriate committees of Congress” defined. |
+| [404e.](Subchapter%20001%20%28I%29%20-%20Coordination%20for%20National%20Security/%C2%A7%2000404e%20-%20National%20mission%20of%20National%20Imagery%20and%20Mapping%20Agency.md) | National mission of National Imagery and Mapping Agency. |
+| (a) | In general. |
+| (b) | Requirements and priorities. |
+| (c) | Correction of deficiencies. |
+| [404f.](Subchapter%20001%20%28I%29%20-%20Coordination%20for%20National%20Security/%C2%A7%2000404f%20-%20Collection%20tasking%20authority.md) | Collection tasking authority. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

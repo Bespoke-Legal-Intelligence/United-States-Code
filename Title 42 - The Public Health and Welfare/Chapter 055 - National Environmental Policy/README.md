@@ -117,7 +117,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 1437x, 2243, 3547, 4374, 4852, 5159, 5304, 6508, 7276c, 7616, 7916, 8302, 10133, 10134, 10161, 10165, 10168, 10196, 10247, 12838 of this title; title 7 section 2814; title 10 section 2391; title 15 sections 719f, 719h, 793; title 16 sections 410hh, 460ii–4, 460qq, 470h–2, 497b, 544<i>o</i>, 590h, 797d, 839d, 1261, 1434, 1455, 1536, 1602, 1604, 2705, 3164, 3232, 3233, 3636, 4403, 4404; title 21 section 343; title 23 sections 103, 108, 117, 134, 323; title 25 section 640d–26; title 30 sections 185, 1292; title 33 sections 59c–2, 59j–1, 59k, 59n, 59<i>o</i>, 59y, 59bb, 59cc, 59dd, 59ff, 59gg, 59hh, 1293a, 1344, 1371, 1505; title 43 sections 390h–1, 421h, 1351, 1577, 1597, 1638, 1652, 1723, 1866, 1904, 2006, 2223, 7276c; title 45 sections 917, 1010, 1207, 1212; title 49 sections 5304, 5309, 70304.
+This chapter is referred to in sections 1437x, 2243, 3547, 4374, 4852, 5159, 5304, 6508, 7276c, 7616, 7916, 8302, 10133, 10134, 10161, 10165, 10168, 10196, 10247, 12838 of this title; title 7 section 2814; title 10 sections 2391, 2667; title 15 sections 719f, 719h, 793; title 16 sections 410hh, 460ii–4, 460qq, 470h–2, 497b, 497c, 544<i>o</i>, 797d, 839d, 1261, 1434, 1455, 1536, 1602, 1604, 2403a, 2705, 3164, 3232, 3233, 3636, 4403, 4404; title 23 sections 103, 108, 117, 134, 323; title 25 sections 640d–26, 4115; title 30 sections 185, 1292; title 33 sections 59c–2, 59c–3, 59j–1, 59k, 59n, 59<i>o</i>, 59y, 59bb, 59cc, 59dd, 59ff, 59gg, 59hh, 701b–13, 1293a, 1344, 1371, 1505; title 43 sections 390h–1, 421h, 1351, 1577, 1597, 1638, 1652, 1723, 1866, 1904, 2006, 2223, 7276c; title 45 sections 917, 1010, 1207, 1212; title 49 sections 5304, 5309, 70304.
 
 
 ---

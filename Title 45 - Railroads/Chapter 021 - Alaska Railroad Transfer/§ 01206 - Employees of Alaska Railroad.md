@@ -18,11 +18,11 @@
 
 #### (b) Coverage for employees not transferring to State-owned railroad
 
-Employees of the Alaska Railroad who do not transfer to the State-owned railroad shall be entitled to all of the rights and benefits available to them under Federal law for discontinued employees.
+Employees of the Alaska Railroad who do not transfer to the State-owned railroad shall be entitled to all of the rights and benefits availableto them under Federal law for discontinued employees.
 
 #### (c) Rights and benefits of transferred employees whose employment with State-owned railroad is terminated
 
-Transferred employees whose employment with the State-owned railroad is terminatedduring the two-year period commencing on the date of transfer shall be entitled to all of the rights and benefits of discontinued employees that such employees would have had under Federal law if their termination had occurred immediately before the date of the transfer, except that financial compensation paid to officers of the Alaska Railroad shall be limited to that compensation provided pursuant to section 1203(d)(3)(E) of this title. Such employees shall also be entitled to seniority and other benefits accrued under Federal law while they were employed by the State-owned railroad on the same basis as if such employment had been Federal service.
+Transferred employees whose employment with the State-owned railroad is terminated during the two-year period commencing on the date of transfer shall be entitled to all of the rights and benefits of discontinued employees that such employees would have had under Federal law if their termination had occurred immediately before the date of the transfer, except that financial compensation paid to officers of the Alaska Railroad shall be limited to that compensation provided pursuant to section 1203(d)(3)(E) of this title. Such employees shall also be entitled to seniority and other benefits accrued under Federal law while they were employed by the State-owned railroad on the same basis as if such employment had been Federal service.
 
 #### (d) Lump-sum payment for unused annual leave for employees transferring to State-owned railroad
 

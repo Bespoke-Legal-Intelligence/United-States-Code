@@ -24,19 +24,19 @@
 
 #### (b) Request for possession by Customs
 
-At the request of the consignee of any merchandise, or of the owner or master of the vessel or the person in charge of the vehicle in which the same is imported, any merchandise may be taken possession of by the Customs Service after the expiration of one day after the entry of the vessel or report of the vehicle and may be unladen and held at the risk and expense of the consignee until entry thereof is made.
+At the request of the consignee of any merchandise, or of the owner or master of the vessel or the person in charge of the vehicle in which the same is imported, any merchandise may be taken possession of by the Customs Service after the expiration of one day after the entry of the vessel or report of the vehicle and may beunladen and held at the risk and expense of the consignee until entry thereof is made.
 
 #### (c) Government merchandise
 
 Any imported merchandise that—
 
-&emsp;(1) is described in any of paragraphs (1) through (4) <sup>1</sup> of subsection (a) of this section; and
+&emsp;(1) is described in any of subparagraphs (A) through (D) of subsection (a)(1) of this section; and
 
 &emsp;(2) is consigned to, or owned by, the United States Government;
 
 > shall be stored and disposed of in accordance with such rules and procedures as the Secretary shall by regulation prescribe.
 
-(June 17, 1930, ch. 497, title IV, §490, 46 Stat. 726; June 2, 1970, Pub. L. 91–271, title III, §301(b), 84 Stat. 287; Dec. 8, 1993, Pub. L. 103–182, title VI, §658, 107 Stat. 2212.)
+(June 17, 1930, ch. 497, title IV, §490, 46 Stat. 726; June 2, 1970, Pub. L. 91–271, title III, §301(b), 84 Stat. 287; Dec. 8, 1993, Pub. L. 103–182, title VI, §658, 107 Stat. 2212; Oct. 11, 1996, Pub. L. 104–295, §21(e)(9), 110 Stat. 3531.)
 
 #### Prior Provisions
 
@@ -62,6 +62,8 @@ A prior provision authorizing the collector to require a bond for the production
 
 #### Amendments
 
+1996—Subsec. (c)(1). Pub. L. 104–295 substituted “subparagraphs (A) through (D) of subsection (a)(1)” for “paragraphs (1) through (4) of subsection (a)”.
+
 1993—Subsec. (a). Pub. L. 103–182, §658(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Whenever entry of any imported merchandise is not made within the time provided by law or the regulations prescribed by the Secretary of the Treasury, or whenever entry of such merchandise is incomplete because of failure to pay the estimated duties, or whenever, in the opinion of the appropriate customs officer, entry of such merchandise can not be made for want of proper documents or other cause, or whenever the appropriate customs officer believes that any merchandise is not correctly and legally invoiced, he shall take the merchandise into his custody and send it to a bonded warehouse or public store, to be held at the risk and expense of the consignee until entry is made or completed and the proper documents are produced, or a bond given for their production.”
 
 Subsec. (b). Pub. L. 103–182, §658(2), substituted heading for one which read “At request of consignee” and in text substituted “Customs Service” for “appropriate customs officer”.
@@ -77,6 +79,4 @@ For effective date of amendment by Pub. L. 91–271, see section 203 of Pub. L. 
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 1448, 1484, 1491 of this title.
-
-<i><sup>1</sup></i><i> So in original. Subsec. (a) does not contain pars. (3) and (4).</i>
 

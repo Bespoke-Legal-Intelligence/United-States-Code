@@ -10,17 +10,13 @@ In the exercise of the authorities granted in subsection (a) of this section, th
 
 #### (c) Classes of purchases and contracts; finality of decision; powers delegable
 
-The determinations and decisions provided in subsection (a) of this section to be made by the Agency head may be made with respect to individual purchases and contracts or with respect to classes of purchases or contracts, and shall be final. Except as provided in subsection (d) of this section, the Agency head is authorized to delegate his powers provided in this section, including the making of such determinations and decisions, in his discretion and subject to his direction, to any other officer or officers or officials of the Agency.
+The determinations and decisions provided in subsection (a) of this section to be made by theAgency head may be made with respect to individual purchases and contracts or with respect to classes of purchases or contracts, and shall be final. Except as provided in subsection (d) of this section, the Agency head is authorized to delegate his powers provided in this section, including the making of such determinations and decisions, in his discretion and subject to his direction, to any other officer or officers or officials of the Agency.
 
 #### (d) Powers not delegable; written findings
 
 The power of the Agency head to make the determinations or decisions specified in paragraphs (12) and (15) of section 2304(a) and section 2307(a) of title 10 <sup>1</sup> shall not be delegable. Each determination or decision required by paragraphs (12) and (15) of section 2304(a), by sections 2306 and 2313, or by section 2307(a) of title 10,<sup>1</sup> shall be based upon written findings made by the official making such determinations, which findings shall be final and shall be available within the Agency for a period of at least six years following the date of the determination.
 
-#### (e) Automatic data processing equipment and services
-
-Notwithstanding subsection (e) of section 759 of title 40, the provisions of section 759 of title 40 relating to the procurement of automatic data processing equipment or services shall not apply with respect to such procurement by the Central Intelligence Agency.
-
-(June 20, 1949, ch. 227, §3, 63 Stat. 208; Sept. 27, 1982, Pub. L. 97–269, title V, §502(a), 96 Stat. 1145.)
+(June 20, 1949, ch. 227, §3, 63 Stat. 208; Sept. 27, 1982, Pub. L. 97–269, title V, §502(a), 96 Stat. 1145; Feb. 10, 1996, Pub. L. 104–106, div. E, title LVI, §5607(f), 110 Stat. 702.)
 
 #### Codification
 
@@ -30,9 +26,8 @@ In subsecs. (a) and (d), references to the appropriate sections of title 10 were
 
 &nbsp;
 
-| &nbsp; | &nbsp; |
-| :--- | ---: |
 | <i>Act</i> | <i>Title 10</i> |
+| :--- | ---: |
 | 2(c) | 2304(a) |
 | 3 | 2305(a)–(c) |
 | 4 | 2306, 2313 |
@@ -45,7 +40,13 @@ Sections 2304 and 2305 of title 10 were amended generally by Pub. L. 98–369, a
 
 #### Amendments
 
+1996—Subsec. (e). Pub. L. 104–106 struck out subsec. (e) which read as follows: “Notwithstanding subsection (e) of section 759 of title 40, the provisions of section 759 of title 40 relating to the procurement of automatic data processing equipment or services shall not apply with respect to such procurement by the Central Intelligence Agency.”
+
 1982—Subsec. (e). Pub. L. 97–269 added subsec. (e).
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–106 effective 180 days after Feb. 10, 1996, see section 5701 of Pub. L. 104–106, set out as an Effective Date note under section 1401 of Title 40, Public Buildings, Property, and Works.
 
 #### Effective Date of 1982 Amendment
 

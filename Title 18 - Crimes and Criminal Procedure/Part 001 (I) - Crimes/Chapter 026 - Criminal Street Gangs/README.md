@@ -2,13 +2,13 @@
 
 | Sec. |  |
 | :--- | ---: |
-| [521\.](%C2%A7%2000521%20-%20Criminal%20street%20gangs.md) | Criminal street gangs.<sup>1</sup> |
+| [521\.](%C2%A7%2000521%20-%20Criminal%20street%20gangs.md) | Criminal street gangs. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<i><sup>1</sup></i><i> See 1994 Amendment note below.</i>
+#### Amendments
 
-<i><sup>1</sup></i><i> Editorially supplied. Section 521 added by Pub. L. 103–322 without corresponding enactment of chapter analysis.</i>
+1996—Pub. L. 104–294, title VI, §604(a)(2), Oct. 11, 1996, 110 Stat. 3506, added chapter analysis.
 
 
 ---

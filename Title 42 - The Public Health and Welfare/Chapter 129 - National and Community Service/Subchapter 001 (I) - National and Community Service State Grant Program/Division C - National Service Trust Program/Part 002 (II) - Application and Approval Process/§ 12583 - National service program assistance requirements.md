@@ -10,7 +10,7 @@ An application submitted under section 12582 of this title shall include an assu
 
 #### (b) Impact on participants
 
-An application submitted under section 12582 of this title shall also include an assurance bythe applicant that any national service program carried out by the applicant using assistance provided under section 12571 of this title and any national service program supported by a grant made by the applicant using such assistance will—
+An application submitted under section 12582 of this title shall also include an assurance by the applicant that any national service program carried out by the applicant using assistance provided under section 12571 of this title and any national service program supported by a grant made by the applicant using such assistance will—
 
 &emsp;(1) provide participants in the national service program with the training, skills, and knowledge necessary for the projects that participants are called upon to perform;
 

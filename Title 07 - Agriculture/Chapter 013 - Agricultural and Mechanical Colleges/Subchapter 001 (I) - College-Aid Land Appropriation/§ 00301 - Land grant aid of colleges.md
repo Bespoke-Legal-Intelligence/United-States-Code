@@ -1,6 +1,6 @@
 ### §301. Land grant aid of colleges
 
-There is granted to the several States, for the purposes hereinafter mentioned in this subchapter, an amount of public land, to be apportioned to each State a quantity equal to thirty thousand acres for each Senator and Representative in Congress to which the States are respectively entitled by the apportionment under the census of 1860: <i>Provided,</i> That no mineral lands shall be selected or purchased under the provisions of said sections.
+There is granted to the several States, for the purposes hereinafter mentioned in this subchapter, an amount of public land, to be apportioned to each State a quantity equal to thirty thousand acres for each Senator and Representative in Congress to which the States are respectively entitled by the apportionment under the census of 1860: <i>Provided</i>, That no mineral lands shall be selected or purchased under the provisions of said sections.
 
 (July 2, 1862, ch. 130, §1, 12 Stat. 503.)
 
@@ -14,7 +14,7 @@ Act July 2, 1862, as amended, which is classified to this subchapter, is popular
 
 #### Equity in Educational Land Grant Status
 
-Pub. L. 103–382, title V, part C, Oct. 20, 1994, 108 Stat. 4048, provided that:
+Pub. L. 103–382, title V, part C, Oct. 20, 1994, 108 Stat. 4048, as amended by Pub. L. 104–127, title VIII, §882, Apr. 4, 1996, 110 Stat. 1175, provided that:
 
 #### “SEC. 531. SHORT TITLE.
 
@@ -136,6 +136,10 @@ Withdrawals and expenditures.—The Secretary may not make a withdrawal or expen
 
 &emsp;&emsp;“(B) 40 percent of the adjusted income shall be distributed in equal shares to the 1994 Institutions.
 
+“(d)
+
+Memorandum of Agreement.—Not later than January 6, 1997, the Secretary shall develop and implement a formal memorandum of agreement with the 1994 Institutions to establish programs to ensure that tribally controlled colleges and Native American communities equitably participate in Department of Agriculture employment, programs, services, and resources.
+
 #### “SEC. 534. APPROPRIATIONS.
 
 “(a)
@@ -202,7 +206,7 @@ Requirements for grants.—The Secretary shall make grants under this section—
 
 &emsp;“(3)
 
-Demonstration of need.—The Secretary shall require, as part of an application for a grant under this subsection, a demonstration of need. The Secretary may only award a grant under this subsection to an applicant that demonstrates a failure to obtainfunding for a project after making a reasonable effort to otherwise obtain the funding.
+Demonstration of need.—The Secretary shall require, as part of an application for a grant under this subsection, a demonstration of need. The Secretary may only award a grant under this subsection to an applicant that demonstrates a failure to obtain funding for a project after making a reasonable effort to otherwise obtain the funding.
 
 &emsp;“(4)
 
@@ -250,7 +254,7 @@ Section 2(b) of act Apr. 28, 1947, ch. 43, 61 Stat. 55, provided: “The Secreta
 
 Admission of Alaska into the Union was accomplished Jan. 3, 1959, on issuance of Proc. No. 3269, Jan. 3, 1959, 24 F.R. 81, 73 Stat. c16, as required by sections 1 and 8(c) of Pub. L. 85–508, July 7, 1958, 72 Stat. 339, set out as notes preceding section 21 of Title 48, Territories and Insular Possessions.
 
-Land grant under Alaska Statehood provisions as being in lieu of grant of acreage under sections 301 to 305, 307, 308 of this title (declared not to extend to Alaska), see section 6<i>(l)</i> of Pub. L. 85–508, set out as a note preceding section 21 of Title 48.
+Land grant under Alaska Statehood provisions as being in lieu of grant of acreage under sections 301 to 305, 307, 308 of this title (declared not to extend to Alaska), see section 6(<i>l</i>) of Pub. L. 85–508, set out as a note preceding section 21 of Title 48.
 
 #### Cross References
 

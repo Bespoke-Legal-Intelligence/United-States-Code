@@ -24,7 +24,7 @@ Upon the basis of facts disclosed by the record and reports of the Securities an
 
 &emsp;(3) when investment companies issue securities containing inequitable or discriminatory provisions, or fail to protect the preferences and privileges of the holders of their outstanding securities;
 
-&emsp;(4) when the control of investment companies is unduly concentrated through pyramiding or inequitable methods of control, or is inequitably distributed, or when investment companies are managed by irresponsible persons;
+&emsp;(4) when the control of investment companies is unduly concentrated through pyramiding or inequitable methods of control, or is inequitably distributed, or when investmentcompanies are managed by irresponsible persons;
 
 &emsp;(5) when investment companies, in keeping their accounts, in maintaining reserves, and in computing their earnings and the asset value of their outstanding securities, employ unsound or misleading methods, or are not subjected to adequate independent scrutiny;
 

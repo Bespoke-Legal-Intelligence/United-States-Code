@@ -70,7 +70,7 @@ As used in this section, the term “perform without authority” includes perfo
 
 The effective date of this provision, referred to in subsec. (b)(3), probably means the effective date of subsec. (b)(3), which was added by Pub. L. 103–349, effective 180 days after Oct. 6, 1994. See Effective Date of 1994 Amendment note set out under section 2401 of this title.
 
-The Plant Variety Protection Act Amendments of 1994, referred to in subsec. (b)(3), is Pub. L. 103–349, Oct. 6, 1994, 108 Stat. 3136. For complete classification of this Act to the Code, see Short Title of 1994 Amendment note set out under section 2321 of this title and Tables.
+The Plant Variety Protection Act Amendments of 1994, referred to in subsec. (b)(3), is Pub. L. 103–349, Oct. 6, 1994, 108 Stat. 3136. For complete classification of thisAct to the Code, see Short Title of 1994 Amendment note set out under section 2321 of this title and Tables.
 
 #### Amendments
 

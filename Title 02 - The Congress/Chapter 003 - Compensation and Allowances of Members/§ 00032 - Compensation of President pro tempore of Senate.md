@@ -12,5 +12,3 @@ R.S. §36 derived from act Aug. 16, 1856, ch. 123, §2, 11 Stat. 48.
 
 Compensation of Vice President, see section 104 of Title 3, The President.
 
-Mileage of President of Senate, see section 43a of this title.
-

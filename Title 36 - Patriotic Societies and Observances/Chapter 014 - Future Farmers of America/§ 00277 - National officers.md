@@ -10,7 +10,7 @@ The national student officers of the corporation shall comprise a board of stude
 
 #### (c) Election
 
-The national officers of the corporation shall be elected annually by a majority vote of thedelegates assembled in the annual national convention from among qualified members of the corporation, except that the national advisor shall be the Secretary of Education, the executive secretary shall be a member of the Department of Education, and the treasurer shall be an employee or member of a State agency that directs or supervises a State program of agricultural education under the provisions of the Smith-Hughes Vocational Education Act \[20 U.S.C. 11 et seq.\] or the Vocational Education Act of 1946.
+The national officers of the corporation shall be elected annually by a majority vote of the delegates assembled in the annual national convention from among qualified members of the corporation, except that the national advisor shall be the Secretary of Education, the executive secretary shall be a member of the Department of Education, and the treasurer shall be an employee or member of a State agency that directs or supervises a State program of agricultural education under the provisions of the Smith-Hughes Vocational Education Act \[20 U.S.C. 11 et seq.\] or the Vocational Education Act of 1946.
 
 #### (d) Vote at national convention
 

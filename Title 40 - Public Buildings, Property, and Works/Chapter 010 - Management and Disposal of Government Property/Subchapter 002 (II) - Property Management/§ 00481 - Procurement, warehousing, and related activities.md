@@ -46,11 +46,11 @@ The Administrator shall, in respect of executive agencies, and to the extent tha
 
 #### (c) Exchange or sale of similar items
 
-In acquiring personal property, any executive agency, under regulations to be prescribed by the Administrator, subject to regulations <sup>2</sup> prescribed by the Administrator for Federal Procurement Policy pursuant to the Office of Federal Procurement Policy Act \[41 U.S.C. 401 et seq.\], may exchange or sell similar items and may apply the exchange allowance or proceeds of sale in such cases in whole or in part payment for the property acquired: <i>Provided</i>, That any transaction carried out under the authority of this subsection shall be evidenced in writing. Sales of property pursuant to this subsection shall be governed by section 5 of title 41, except that fixed price sales may be conducted in the same manner and subject to the same conditions as are applicable to the sale of property pursuant to section 484(e)(5) of this title.
+In acquiring personal property, any executive agency, under regulations to be prescribed bythe Administrator, subject to regulations <sup>2</sup> prescribed by the Administrator for Federal Procurement Policy pursuant to the Office of Federal Procurement Policy Act \[41 U.S.C. 401 et seq.\], may exchange or sell similar items and may apply the exchange allowance or proceeds of sale in such cases in whole or in part payment for the property acquired: <i>Provided</i>, That any transaction carried out under the authority of this subsection shall be evidenced in writing. Sales of property pursuant to this subsection shall be governed by section 5 of title 41, except that fixed price sales may be conducted in the same manner and subject to the same conditions as are applicable to the sale of property pursuant to section 484(e)(5) of this title.
 
 #### (d) Utilization of services by executive agencies without reimbursement or transfer of funds
 
-In conformity with policies prescribed by the Administrator under subsection (a) of this section, any executive agency may utilize the services, work, materials, and equipment of any other executive agency, with the consent of such other executive agency, for the inspection of personal property incident to the procurement thereof, and notwithstanding section 1301(a) of title 31 or any other provision of law such otherexecutive agency may furnish such services, work, materials, and equipment for that purpose without reimbursement or transfer of funds.
+In conformity with policies prescribed by the Administrator under subsection (a) of this section, any executive agency may utilize the services, work, materials, and equipment of any other executive agency, with the consent of such other executive agency, for the inspection of personal property incident to the procurement thereof, and notwithstanding section 1301(a) of title 31 or any other provision of law such other executive agency may furnish such services, work, materials, and equipment for that purpose without reimbursement or transfer of funds.
 
 #### (e) Exchange or transfer of excess property
 
@@ -100,13 +100,49 @@ For effective date and applicability of amendment by Pub. L. 103–355, see sect
 
 Amendment by Pub. L. 96–83 effective Oct. 1, 1979, see section 12 of Pub. L. 96–83, set out as a note under section 401 of Title 41, Public Contracts.
 
+#### Cooperative Purchasing
+
+Pub. L. 104–106, div. D, title XLIII, §4309, Feb. 10, 1996, 110 Stat. 670, provided that:
+
+“(a)
+
+Delay in Opening Certain Federal Supply Schedules To Use by State, Local, and Indian Tribal Governments.—The Administrator of General Services may not use the authority of section 201(b)(2) of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 481(b)(2)) to provide for the use of Federal supply schedules of the General Services Administration until after the later of—
+
+&emsp;“(1) the date on which the 18-month period beginning on the date of the enactment of this Act \[Feb. 10, 1996\] expires; or
+
+&emsp;“(2) the date on which all of the following conditions are met:
+
+&emsp;&emsp;“(A) The Administrator has considered the report of the Comptroller General required by subsection (b).
+
+&emsp;&emsp;“(B) The Administrator has submitted comments on such report to Congress as required by subsection (c).
+
+&emsp;&emsp;“(C) A period of 30 days after the date of submission of such comments to Congress has expired.
+
+“(b)
+
+Report.—Not later than one year after the date of the enactment of this Act \[Feb. 10, 1996\], the Comptroller General shall submit to the Administrator of General Services and to Congress a report on the implementation of section 201(b) of the Federal Property and Administrative Services Act of 1949 \[40 U.S.C. 481(b)\]. The report shall include the following:
+
+&emsp;“(1) An assessment of the effect on industry, including small businesses and local dealers, of providing for the use of Federal supply schedules by the entities described in section 201(b)(2)(A) of the Federal Property and Administrative Services Act of 1949.
+
+&emsp;“(2) An assessment of the effect on such entities of providing for the use of Federal supply schedules by them.
+
+“(c)
+
+Comments on Report by Administrator.—Not later than 30 days after receiving the report of the Comptroller General required by subsection (b), the Administrator of General Services shall submit to Congress comments on the report, including the Administrator's comments on whether the Administrator plans to provide any Federal supply schedule for the use of any entity described in section 201(b)(2)(A) of the Federal Property and Administrative Services Act of 1949.
+
+“(d)
+
+Calculation of 30
+
+\-Day Period.—For purposes of subsection (a)(2)(C), the calculation of the 30-day period shall exclude Saturdays, Sundays, and holidays, and any day on which neither House of Congress is in session because of an adjournment sine die, a recess of more than 3 days, or an adjournment of more than 3 days.”
+
 #### Cross References
 
 Laws not applicable to contracts, see section 260 of Title 41, Public Contracts.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 474, 475, 755, 756, 757, 759 of this title; title 10 section 2381; title 22 section 2674; title 25 section 450j; title 28 section 612; title 50 section 491.
+This section is referred to in sections 474, 475, 755, 756, 757 of this title; title 10 section 2381; title 22 section 2674; title 25 section 450j; title 28 section 612; title 50 section 491.
 
 <i><sup>1</sup></i><i> See 1983 Amendment note below.</i>
 

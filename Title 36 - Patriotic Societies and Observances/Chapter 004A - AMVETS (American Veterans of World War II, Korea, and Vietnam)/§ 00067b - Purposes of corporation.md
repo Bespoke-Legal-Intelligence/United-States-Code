@@ -22,7 +22,7 @@ The purposes of this corporation shall be as follows:
 
 &emsp;(10) To honor the memory of those men and women who gave their lives that a free America and a free world might live by the creation of living memorials in the form of additional educational, cultural, and recreational facilities.
 
-&emsp;(11) To operate as a corporation not for profit and that no part of the income or assetsshall inure to the benefit of any of its members, directors, or officers, nor be distributable thereto otherwise than upon dissolution or final liquidation; and that such corporation is organized and shall be operated exclusively for charitable, educational, patriotic, and civic improvement purposes.
+&emsp;(11) To operate as a corporation not for profit and that no part of the income or assets shall inure to the benefit of any of its members, directors, or officers, nor be distributable thereto otherwise than upon dissolution or final liquidation; and that such corporation is organized and shall be operated exclusively for charitable, educational, patriotic, and civic improvement purposes.
 
 (July 23, 1947, ch. 298, §3, 61 Stat. 405; Aug. 15, 1977, Pub. L. 95–98, §1(b)(1), 91 Stat. 830; June 13, 1991, Pub. L. 102–54, §13(n)(1), 105 Stat. 278.)
 

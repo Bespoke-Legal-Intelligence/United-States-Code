@@ -24,7 +24,7 @@
 
 &emsp;(3) a fishing vessel.
 
-&emsp;(4) a fish processing vessel of not more than 5,000 gross tons that—
+&emsp;(4) a fish processing vessel of not more than 5,000 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title that—
 
 &emsp;&emsp;(A)(i) was constructed as a fish processing vessel before August 16, 1974; or
 
@@ -32,7 +32,7 @@
 
 &emsp;&emsp;(B) is not on a foreign voyage.
 
-&emsp;(5) a fish tender vessel of not more than 500 gross tons that—
+&emsp;(5) a fish tender vessel of not more than 500 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribedby the Secretary under section 14104 of this title that—
 
 &emsp;&emsp;(A)(i) was constructed, under construction, or under contract to be constructed as a fish tender vessel before January 1, 1980; or
 
@@ -50,7 +50,7 @@
 
 &emsp;(9) a vessel excluded from the application of this chapter by an international agreement to which the United States Government is a party.
 
-&emsp;(10) an existing vessel of not more than 150 gross tons that is on a domestic voyage.
+&emsp;(10) an existing vessel of not more than 150 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title that is on a domestic voyage.
 
 &emsp;(11) a small passenger vessel on a domestic voyage.
 
@@ -60,7 +60,7 @@
 
 (d) This chapter does not affect an international agreement to which the Government is a party that is not in conflict with the International Convention on Load Lines currently in force for the United States.
 
-(Pub. L. 99–509, title V, §5101(2), Oct. 21, 1986, 100 Stat. 1914; Pub. L. 101–595, title VI, §602(d), Nov. 16, 1990, 104 Stat. 2991.)
+(Pub. L. 99–509, title V, §5101(2), Oct. 21, 1986, 100 Stat. 1914; Pub. L. 101–595, title VI, §602(d), Nov. 16, 1990, 104 Stat. 2991; Pub. L. 104–324, title VII, §719, Oct. 19, 1996, 110 Stat. 3938.)
 
 #### Historical and Revision Notes
 
@@ -68,7 +68,7 @@
 
 Source: Section (U.S. Code) 46 App. U.S.C. 86b, 86c, 88.
 
-The delineation of the vessels that will be subject to load line requirements is made in section 5102 as follows: subsection (a) is an all-inclusive list of vesselssubject to load line requirements, followed by subsection (b) which specifically exempts those vessels to which the requirements do not apply.
+The delineation of the vessels that will be subject to load line requirements is made in section 5102 as follows: subsection (a) is an all-inclusive list of vessels subject to load line requirements, followed by subsection (b) which specifically exempts those vessels to which the requirements do not apply.
 
 Section 5102(a) lists five categories of vessels which are subject to load line requirements. They are as follows:
 
@@ -119,6 +119,12 @@ Section 5102(c) authorizes the Secretary to assign load lines for any vessel exe
 Section 5102(d) provides that this chapter shall not be construed as abrogating the provisions of other treaties and conventions to which the United States is a party, which are not in conflict with the International Convention on Load Lines.
 
 #### Amendments
+
+1996—Subsec. (b)(4). Pub. L. 104–324, §719(1), inserted “as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title” after “5,000 gross tons” in introductory provisions.
+
+Subsec. (b)(5). Pub. L. 104–324, §719(2), inserted “as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title” after “500 gross tons” in introductory provisions.
+
+Subsec. (b)(10). Pub. L. 104–324, §719(3), inserted “as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title” after “150 gross tons”.
 
 1990—Subsec. (b)(5)(B). Pub. L. 101–595 amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “is not on a foreign voyage.”
 

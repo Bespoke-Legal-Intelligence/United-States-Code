@@ -4,9 +4,9 @@
 
 (b) Whoever, for the purpose aforesaid, and with like intent or reason to believe, copies, takes, makes, or obtains, or attempts to copy, take, make, or obtain, any sketch, photograph, photographic negative, blueprint, plan, map, model, instrument, appliance, document, writing, or note of anything connected with the national defense; or
 
-(c) Whoever, for the purpose aforesaid, receives or obtains or agrees or attempts to receive or obtain from any person, or from any source whatever, any document, writing, code book, signal book, sketch, photograph, photographic negative, blueprint, plan, map, model, instrument, appliance, or note, of anything connected with the national defense, knowing or having reason to believe, at the time he receives or obtains, or agrees or attempts to receive or obtain it, that it has been or will be obtained, taken, made, or disposed of by any person contrary to the provisions of this chapter; or
+(c) Whoever, for the purpose aforesaid, receives or obtains or agrees or attempts to receive or obtain from any person, or from any source whatever, any document, writing, code book, signal book, sketch, photograph, photographic negative, blueprint, plan, map, model, instrument, appliance, or note, of anything connected with the national defense, knowing or having reason to believe, at the time he receives or obtains, or agrees or attempts to receive orobtain it, that it has been or will be obtained, taken, made, or disposed of by any person contrary to the provisions of this chapter; or
 
-(d) Whoever, lawfully having possession of, access to, control over, or being entrusted with any document, writing, code book, signal book, sketch, photograph, photographic negative, blueprint, plan, map, model, instrument, appliance, or note relating to the national defense, orinformation relating to the national defense which information the possessor has reason to believe could be used to the injury of the United States or to the advantage of any foreign nation, willfully communicates, delivers, transmits or causes to be communicated, delivered, or transmitted or attempts to communicate, deliver, transmit or cause to be communicated, delivered or transmitted the same to any person not entitled to receive it, or willfully retains the same and fails to deliver it on demand to the officer or employee of the United States entitled to receive it; or
+(d) Whoever, lawfully having possession of, access to, control over, or being entrusted with any document, writing, code book, signal book, sketch, photograph, photographic negative, blueprint, plan, map, model, instrument, appliance, or note relating to the national defense, or information relating to the national defense which information the possessor has reason to believe could be used to the injury of the United States or to the advantage of any foreign nation, willfully communicates, delivers, transmits or causes to be communicated, delivered, or transmitted or attempts to communicate, deliver, transmit or cause to be communicated, delivered or transmitted the same to any person not entitled to receive it, or willfully retains the same and fails to deliver it on demand to the officer or employee of the United States entitled to receive it; or
 
 (e) Whoever having unauthorized possession of, access to, or control over any document, writing, code book, signal book, sketch, photograph, photographic negative, blueprint, plan, map, model, instrument, appliance, or note relating to the national defense, or information relating to the national defense which information the possessor has reason to believe could be used to the injury of the United States or to the advantage of any foreign nation, willfully communicates, delivers, transmits or causes to be communicated, delivered, or transmitted, or attempts to communicate, deliver, transmit or cause to be communicated, delivered, or transmitted the same to any person not entitled to receive it, or willfully retains the same and fails to deliver it to the officer or employee of the United States entitled to receive it; or
 
@@ -16,7 +16,7 @@ Shall be fined under this title or imprisoned not more than ten years, or both.
 
 (g) If two or more persons conspire to violate any of the foregoing provisions of this section, and one or more of such persons do any act to effect the object of the conspiracy, each of the parties to such conspiracy shall be subject to the punishment provided for the offense which is the object of such conspiracy.
 
-(h)(1) Any person convicted of a violation of this section shall forfeit to the United States, irrespective of any provision of State law, any property constituting, or derived from, any proceeds the person obtained, directly or indirectly, from any foreign government, or any faction or party or military or naval force within a foreign country, whether recognized or unrecognized by the United States, as the result of such violation.
+(h)(1) Any person convicted of a violation of this section shall forfeit to the United States, irrespective of any provision of State law, any property constituting, or derived from, any proceeds the person obtained, directly or indirectly, from any foreign government, or any faction or party or military or naval force within a foreign country, whether recognized or unrecognized by the United States, as the result of such violation. For the purposes of this subsection, the term “State” includes a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
 
 (2) The court, in imposing sentence on a defendant for a conviction of a violation of this section, shall order that the defendant forfeit to the United States all property described in paragraph (1) of this subsection.
 
@@ -32,7 +32,7 @@ Shall be fined under this title or imprisoned not more than ten years, or both.
 
 (4) Notwithstanding section 524(c) of title 28, there shall be deposited in the Crime Victims Fund in the Treasury all amounts from the forfeiture of property under this subsection remaining after the payment of expenses for forfeiture and sale authorized by law.
 
-(June 25, 1948, ch. 645, 62 Stat. 736; Sept. 23, 1950, ch. 1024, title I, §18, 64 Stat. 1003; Aug. 27, 1986, Pub. L. 99–399, title XIII, §1306(a), 100 Stat. 898; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(L), 108 Stat. 2147; Oct. 14, 1994, Pub. L. 103–359, title VIII, §804(b)(1), 108 Stat. 3440.)
+(June 25, 1948, ch. 645, 62 Stat. 736; Sept. 23, 1950, ch. 1024, title I, §18, 64 Stat. 1003; Aug. 27, 1986, Pub. L. 99–399, title XIII, §1306(a), 100 Stat. 898; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(L), 108 Stat. 2147; Oct. 14, 1994, Pub. L. 103–359, title VIII, §804(b)(1), 108 Stat. 3440; Oct. 11, 1996, Pub. L. 104–294, title VI, §607(b), 110 Stat. 3511.)
 
 #### Historical and Revision Notes
 
@@ -50,13 +50,15 @@ Minor changes were made in phraseology.
 
 #### Amendments
 
+1996—Subsec. (h)(1). Pub. L. 104–294 inserted at end “For the purposes of this subsection, the term ‘State’ includes a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States.”
+
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $10,000” in undesignated par. after subsec. (f).
 
 Subsec. (h)(3). Pub. L. 103–359 substituted “(p)” for “(<i>o</i>)” in two places.
 
 1986—Subsec. (h). Pub. L. 99–399 added subsec. (h).
 
-1950—Act Sept. 23, 1950, divided section into subdivisions, inserted laboratories and stations, and places where material or instruments for use in time of war are the subject of research or development to the list of facilities and places to which subsection (a) applies, made subsection (d) applicable only in cases in which possession, access, or control is lawful, added subsection (e) to take care of cases in which possession, access, or control, is unlawful, made subsection (f) applicable to instruments and appliances, as well as to documents, records, etc., and provided by subsection (g) a separate penalty for conspiracy to violate any provisions of this section.
+1950—Act Sept. 23, 1950, divided section into subdivisions, inserted laboratories and stations, and placeswhere material or instruments for use in time of war are the subject of research or development to the list of facilities and places to which subsection (a) applies, made subsection (d) applicable only in cases in which possession, access, or control is lawful, added subsection (e) to take care of cases in which possession, access, or control, is unlawful, made subsection (f) applicable to instruments and appliances, as well as to documents, records, etc., and provided by subsection (g) a separate penalty for conspiracy to violate any provisions of this section.
 
 #### Indictment for Violating This Section; Limitation Period
 

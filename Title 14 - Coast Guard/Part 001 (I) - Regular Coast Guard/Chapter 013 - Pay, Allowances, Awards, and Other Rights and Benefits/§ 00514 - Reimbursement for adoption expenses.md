@@ -30,7 +30,7 @@ Regulations.—The Secretary shall prescribe regulations to carry out this secti
 
 Definitions.—In this section:
 
-&emsp;(1) The term “qualifying adoption expenses” means reasonable and necessary expenses that are directly related to the legal adoption of achild under 18 years of age, but only if such adoption is arranged by a State or local government agency which has responsibility under State or local law for child placement through adoption or by a nonprofit, voluntary adoption agency which is authorized by State or local law to place children for adoption. Such term does not include any expense incurred—
+&emsp;(1) The term “qualifying adoption expenses” means reasonable and necessary expenses that are directly related to the legal adoption of a child under 18 years of age, but only if such adoption is arranged by a qualified adoption agency. Such term does not include any expense incurred—
 
 &emsp;&emsp;(A) by an adopting parent for travel; or
 
@@ -46,9 +46,21 @@ Definitions.—In this section:
 
 &emsp;&emsp;(D) medical expenses, including hospital expenses of the biological mother of the child to be adopted and of a newborn infant to be adopted.
 
-(Added Pub. L. 102–190, div. A, title VI, §651(b)(1), Dec. 5, 1991, 105 Stat. 1386; amended Pub. L. 102–484, div. A, title X, §1054(g), Oct. 23, 1992, 106 Stat. 2503.)
+&emsp;(3) The term “qualified adoption agency” means any of the following:
+
+&emsp;&emsp;(A) A State or local government agency which has responsibility under State or local law for child placement through adoption.
+
+&emsp;&emsp;(B) A nonprofit, voluntary adoption agency which is authorized by State or local law to place children for adoption.
+
+&emsp;&emsp;(C) Any other source authorized by a State to provide adoption placement if the adoption is supervised by a court under State or local law.
+
+(Added Pub. L. 102–190, div. A, title VI, §651(b)(1), Dec. 5, 1991, 105 Stat. 1386; amended Pub. L. 102–484, div. A, title X, §1054(g), Oct. 23, 1992, 106 Stat. 2503; Pub. L. 104–201, div. A, title VI, §652(b), Sept. 23, 1996, 110 Stat. 2582.)
 
 #### Amendments
+
+1996—Subsec. (g)(1). Pub. L. 104–201, §652(b)(1), substituted “qualified adoption agency.” for “State orlocal government agency which has responsibility under State or local law for child placement through adoption or by a nonprofit, voluntary adoption agency which is authorized by State or local law to place children for adoption.”
+
+Subsec. (g)(3). Pub. L. 104–201, §652(b)(2), added par. (3).
 
 1992—Subsec. (b). Pub. L. 102–484 inserted a close parenthesis before period at end.
 
@@ -59,4 +71,8 @@ Section effective Dec. 5, 1991, and applicable to adoptions completed on or afte
 #### Reimbursement for Adoptions Completed During Interim Between Test and Permanent Program
 
 For provisions relating to reimbursement for adoption expenses and time period for application, see section 652 of Pub. L. 102–484, set out as a note under section 1052 of Title 10, Armed Forces.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in title 26 section 137.
 

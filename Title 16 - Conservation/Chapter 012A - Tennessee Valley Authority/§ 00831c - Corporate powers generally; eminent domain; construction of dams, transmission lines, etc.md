@@ -14,7 +14,7 @@ Except as otherwise specifically provided in this chapter, the Corporation—
 
 (f) May purchase or lease and hold such real and personal property as it deems necessary or convenient in the transaction of its business, and may dispose of any such personal property held by it.
 
-The board shall select a treasurer and as many assistant treasurers as it deems proper: <i>Provided</i>, That any member of said board may be removed from office at any time by a concurrent resolution of the Senate and the House of Representatives.
+The board shall select a treasurer and as many assistant treasurers as it deems proper: <i>Pro</i><i>vided</i>, That any member of said board may be removed from office at any time by a concurrent resolution of the Senate and the House of Representatives.
 
 (g) Shall have such powers as may be necessary or appropriate for the exercise of the powers herein specifically conferred upon the Corporation.
 
@@ -44,7 +44,7 @@ Subsec. (j), last sentence, directed the directors of the Authority to report th
 
 #### Amendments
 
-1972—Subsec. (f). Pub. L. 92–310 struck out provisions which required the treasurer and assistant treasurers to give bonds for the safekeeping of securities and moneys of the Corporation.
+1972—Subsec. (f). Pub. L. 92–310 struck out provisions which required the treasurer and assistant treasurersto give bonds for the safekeeping of securities and moneys of the Corporation.
 
 1941—Subsec. (k). Act July 18, 1941, amended subsec. (k) generally.
 
@@ -54,7 +54,7 @@ Subsec. (j). Act Aug. 31, 1935, §2, amended subsec. (j) generally.
 
 Subsec. (k). Act Aug. 31, 1935, §3, added subsec. (k).
 
-Subsec. (<i>l</i>). Act Aug. 31, 1935, §13, added subsec. (<i>l).</i>
+Subsec. (<i>l</i>). Act Aug. 31, 1935, §13, added subsec. (<i>l</i>).
 
 #### Change of Name
 

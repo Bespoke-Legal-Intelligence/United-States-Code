@@ -206,7 +206,7 @@ If—
 
 #### (B) Computation year
 
-&emsp;&emsp;For purposes of applying subparagraph (A) with respect to any taxable year of a shareholder, the computation year is the taxable year of the DISC which ends with (or within) the taxable year of the shareholder which precedes the taxable year of the shareholderfor which the amount of deferred DISC income is being determined.
+&emsp;&emsp;For purposes of applying subparagraph (A) with respect to any taxable year of a shareholder, the computation year is the taxable year of the DISC which ends with (or within) the taxable year of the shareholder which precedes the taxable year of the shareholder for which the amount of deferred DISC income is being determined.
 
 #### (C) Distributions-in-excess-of-income
 
@@ -270,7 +270,7 @@ Subsec. (f)(4) to (6). Pub. L. 99–514, §1876(p)(1), redesignated as pars. (4)
 
 Subsec. (f)(7). Pub. L. 99–514, §1876(g), added par. (7).
 
-1984—Subsec. (b)(1)(E). Pub. L. 98–369, §802(b)(1), substituted “of the DISC attributable to qualified export receipts of the DISC for the taxable year which exceed $10,000,000” for “for the taxable year attributable to base period export gross receipts (as defined in subsection (e))”.
+1984—Subsec. (b)(1)(E). Pub. L. 98–369, §802(b)(1), substituted “of the DISC attributable to qualified export receipts of the DISC for the taxable year which exceed $10,000,000” for “for the taxable year attributable tobase period export gross receipts (as defined in subsection (e))”.
 
 Subsec. (b)(1)(F)(i). Pub. L. 98–369, §68(d), substituted “one-seventeenth” for “one/half”.
 

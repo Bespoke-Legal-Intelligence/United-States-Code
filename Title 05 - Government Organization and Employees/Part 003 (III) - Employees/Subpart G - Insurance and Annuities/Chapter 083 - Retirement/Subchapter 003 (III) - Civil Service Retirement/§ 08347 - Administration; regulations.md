@@ -68,13 +68,13 @@
 
 (p) The Director of the Administrative Office of the United States Courts may exclude from the operation of this subchapter an employee of the Administrative Office of the United States Courts, the Federal Judicial Center, or a court named by section 610 of title 28, whose employment is temporary or of uncertain duration.
 
-(q)(1) Under regulations prescribed by the Office of Personnel Management, an employee of the Department of Defense or the Coast Guard who—
+(q)(1) Under regulations prescribed by the Office of Personnel Management, an employee who—
 
 &emsp;(A) has not previously made an election under this subsection or had an opportunity to make an election under this paragraph;
 
 &emsp;(B) has 5 or more years of civilian service creditable under this subchapter; and
 
-&emsp;(C) moves, without a break in service of more than 3 days, to employment in a nonappropriated fund instrumentality of the Department of Defense or the Coast Guard, respectively, described in section 2105(c),
+&emsp;(C) moves, without a break in service of more than 1 year, to employment in a nonappropriated fund instrumentality of the Department of Defense or the Coast Guard, respectively, described in section 2105(c),
 
 > shall be given the opportunity to elect irrevocably, within 30 days after such move, to remain covered as an employee under this subchapter during any employment described in section 2105(c) after such move.
 
@@ -84,13 +84,13 @@
 
 &emsp;(B) is a vested participant in a retirement system established for employees described in section 2105(c), as the term “vested participant” is defined by such system;
 
-&emsp;(C) moves, without a break in service of more than 3 days, to a position in the Department of Defense or the Coast Guard, respectively, that is not described in section 2105(c); and
+&emsp;(C) moves, without a break in service of more than 1 year, to a position that is not described in section 2105(c); and
 
 &emsp;(D) is excluded from coverage under chapter 84 by section 8402(b),
 
 > shall be given the opportunity to elect irrevocably, within 30 days after such move, to remain covered, during any subsequent employment as an employee as defined in section 2105(a) or section 2105(c), by the retirement system applicable to such employee's current or most recent employment described in section 2105(c) rather than be subject to this subchapter.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 583; Pub. L. 90–83, §1(84), Sept. 11, 1967, 81 Stat. 218; Pub. L. 90–623, §1(22), Oct. 22, 1968, 82 Stat. 1313; Pub. L. 95–437, §4(a), Oct. 10, 1978, 92 Stat. 1058; Pub. L. 95–454, title IX, §906(a)(2), (3), (9), (c)(2)(F), Oct. 13, 1978, 92 Stat. 1224, 1225, 1227; Pub. L. 96–54, §2(a)(50), Aug. 14, 1979, 93 Stat. 384; Pub. L. 96–499, title IV, §404(b), Dec. 5, 1980, 94 Stat. 2606; Pub. L. 96–500, §1, Dec. 5, 1980, 94 Stat. 2696; Pub. L. 97–253, title III, §302(b), Sept. 8, 1982, 96 Stat. 793; Pub. L. 99–335, title II, §207(i), June 6, 1986, 100 Stat. 596; Pub. L. 100–238, title I, §108(a)(1), Jan. 8, 1988, 101 Stat. 1747; Pub. L. 101–474, §5(n), Oct. 30, 1990, 104 Stat. 1100; Pub. L. 101–508, title VII, §7202(j)(2), Nov. 5, 1990, 104 Stat. 1388–337; Pub. L. 102–54, §13(b)(5), June 13, 1991, 105 Stat. 274; Pub. L. 102–378, §2(64), Oct. 2, 1992, 106 Stat. 1354; Pub. L. 102–496, title VIII, §803(c), Oct. 24, 1992, 106 Stat. 3253; Pub. L. 103–296, title I, §108(e)(5), Aug. 15, 1994, 108 Stat. 1486.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 583; Pub. L. 90–83, §1(84), Sept. 11, 1967, 81 Stat. 218; Pub. L. 90–623, §1(22), Oct. 22, 1968, 82 Stat. 1313; Pub. L. 95–437, §4(a), Oct. 10, 1978, 92 Stat. 1058; Pub. L. 95–454, title IX, §906(a)(2), (3), (9), (c)(2)(F), Oct. 13, 1978, 92 Stat. 1224, 1225, 1227; Pub. L. 96–54, §2(a)(50), Aug. 14, 1979, 93 Stat. 384; Pub. L. 96–499, title IV, §404(b), Dec. 5, 1980, 94 Stat. 2606; Pub. L. 96–500, §1, Dec. 5, 1980, 94 Stat. 2696; Pub. L. 97–253, title III, §302(b), Sept. 8, 1982, 96 Stat.793; Pub. L. 99–335, title II, §207(i), June 6, 1986, 100 Stat. 596; Pub. L. 100–238, title I, §108(a)(1), Jan. 8, 1988, 101 Stat. 1747; Pub. L. 101–474, §5(n), Oct. 30, 1990, 104 Stat. 1100; Pub. L. 101–508, title VII, §7202(j)(2), Nov. 5, 1990, 104 Stat. 1388–337; Pub. L. 102–54, §13(b)(5), June 13, 1991, 105 Stat. 274; Pub. L. 102–378, §2(64), Oct. 2, 1992, 106 Stat. 1354; Pub. L. 102–496, title VIII, §803(c), Oct. 24, 1992, 106 Stat. 3253; Pub. L. 103–296, title I, §108(e)(5), Aug. 15, 1994, 108 Stat. 1486; Pub. L. 104–106, div. A, title X, §1043(a)(1), Feb. 10, 1996, 110 Stat. 434.)
 
 Historical and Revision Notes<br>1966
 
@@ -100,7 +100,9 @@ Act
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 (a)–(f)
 
@@ -132,7 +134,7 @@ Act
 
 <i>Source (Statutes at Large)</i>
 
-8347(<i>l)</i>
+8347(<i>l</i>)
 
 5 App.: 2252(f).
 
@@ -144,9 +146,13 @@ Section 201(c) of the Central Intelligence Agency Retirement Act, referred to in
 
 #### Amendments
 
-<b>1994</b>—Subsec. (m)(3). Pub. L. 103–296 substituted “Commissioner of Social Security” for “Secretary of Health and Human Services”.
+1996—Subsec. (q)(1). Pub. L. 104–106, §1043(a)(1)(A), struck out “of the Department of Defense or the Coast Guard” after “an employee” in introductory provisions and substituted “1 year” for “3 days” in subpar. (C).
 
-<b>1992</b>—Subsec. (n)(4)(A). Pub. L. 102–496 substituted “the Central Intelligence Agency Retirement Act” for “the Central Intelligence Agency Retirement Act of 1964 for Certain Employees”.
+Subsec. (q)(2)(C). Pub. L. 104–106, §1043(a)(1)(B), substituted “1 year” for “3 days” and struck out “in the Department of Defense or the Coast Guard, respectively,” after “to a position”.
+
+1994—Subsec. (m)(3). Pub. L. 103–296 substituted “Commissioner of Social Security” for “Secretary of Health and Human Services”.
+
+1992—Subsec. (n)(4)(A). Pub. L. 102–496 substituted “the Central Intelligence Agency Retirement Act” for “the Central Intelligence Agency Retirement Act of 1964 for Certain Employees”.
 
 Subsec. (p). Pub. L. 102–378, §2(64)(A), redesignated subsec. (p), relating to employees of Department of Defense and Coast Guard, as (q).
 
@@ -154,27 +160,27 @@ Subsec. (q). Pub. L. 102–378, §2(64)(A), redesignated subsec. (p), relating t
 
 Subsec. (q)(1)(A), (2)(A). Pub. L. 102–378, §2(64)(B), amended subpars. (A) generally. Prior to amendment, subpars. (A) read as follows: “has not previously made or had an opportunity to make an election under this subsection;”.
 
-<b>1991</b>—Subsec. (m)(2). Pub. L. 102–54 substituted “Secretary” for “Administrator”.
+1991—Subsec. (m)(2). Pub. L. 102–54 substituted “Secretary” for “Administrator”.
 
-<b>1990</b>—Subsec. (p). Pub. L. 101–508 added subsec. (p) relating to elections by employees of Department of Defense, Coast Guard, or a nonappropriated fund instrumentality of Department of Defense or Coast Guard.
+1990—Subsec. (p). Pub. L. 101–508 added subsec. (p) relating to elections by employees of Department of Defense, Coast Guard, or a nonappropriated fund instrumentality of Department of Defense or Coast Guard.
 
 Pub. L. 101–474 added subsec. (p) relating to Director of Administrative Office of United States Courts.
 
-<b>1988</b>—Subsec. (<i>o</i>). Pub. L. 100–238 added subsec. (<i>o).</i>
+1988—Subsec. (<i>o</i>). Pub. L. 100–238 added subsec. (<i>o</i>).
 
-<b>1986</b>—Subsec. (n). Pub. L. 99–335 added subsec. (n).
+1986—Subsec. (n). Pub. L. 99–335 added subsec. (n).
 
-<b>1982</b>—Subsec. (m)(3), (4). Pub. L. 97–253 added pars. (3) and (4).
+1982—Subsec. (m)(3), (4). Pub. L. 97–253 added pars. (3) and (4).
 
-<b>1980</b>—Subsec. (c). Pub. L. 96–500, §1(a), substituted “Except to the extent provided under subsection (d) of this section, the decisions of the Office concerning” for “The decisions of the Office concerning”.
+1980—Subsec. (c). Pub. L. 96–500, §1(a), substituted “Except to the extent provided under subsection (d) of this section, the decisions of the Office concerning” for “The decisions of the Office concerning”.
 
 Subsec. (d). Pub. L. 96–500, §1(b), designated existing provisions as par. (1), made such par. (1) subject to the provisions of par. (2), and added par. (2).
 
 Subsec. (m). Pub. L. 96–499 added subsec. (m).
 
-<b>1979</b>—Subsec. (h). Pub. L. 96–54 substituted “Mayor” for “Commissioner”.
+1979—Subsec. (h). Pub. L. 96–54 substituted “Mayor” for “Commissioner”.
 
-<b>1978</b>—Subsecs. (a) to (c). Pub. L. 95–454, §906(a)(2), (3), substituted “Office of Personnel Management” and “Office” for “Civil Service Commission” and “Commission”, respectively.
+1978—Subsecs. (a) to (c). Pub. L. 95–454, §906(a)(2), (3), substituted “Office of Personnel Management” and “Office” for “Civil Service Commission” and “Commission”, respectively.
 
 Subsec. (d). Pub. L. 95–454, §906(a)(9), substituted “Merit Systems Protection Board” for “Commission”, and “Board” for “Commission”.
 
@@ -186,7 +192,11 @@ Pub. L. 95–437 inserted provision prohibiting the Commission from excluding an
 
 Subsec. (h). Pub. L. 95–454, §906(a)(3), substituted “Office” for “Commission”.
 
-<b>1968</b>—Subsec. (h). Pub. L. 90–623 substituted “Commissioner” for “Commissioners”.
+1968—Subsec. (h). Pub. L. 90–623 substituted “Commissioner” for “Commissioners”.
+
+#### Effective Date of 1996 Amendment
+
+For effective date of amendments by Pub. L. 104–106, see Regulations; Effective Date of 1996 Amendment note below.
 
 #### Effective Date of 1994 Amendment
 
@@ -227,6 +237,146 @@ Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section
 #### Effective Date of 1968 Amendment
 
 Amendment by Pub. L. 90–623 intended to restate without substantive change the law in effect on Oct. 22, 1968, see section 6 of Pub. L. 90–623, set out as a note under section 5334 of this title.
+
+#### Regulations; Effective Date of 1996 Amendment
+
+Section 1043(b), (c) of Pub. L. 104–106 provided that:
+
+“(b)
+
+Regulations.—Not later than 6 months after the date of the enactment of this Act \[Feb. 10, 1996\], the Office of Personnel Management (and each of the other administrative authorities, within the meaning of subsection (c)(2)(C)(iii)) shall prescribe any regulations (or make any modifications in existing regulations) necessary to carry out this section \[amending this section and sections 3502 and 8461 of this title and enacting provisions set out as a note under section 3502 of this title\] and the amendments made by this section, including regulations to provide for the notification of individuals who may be affected by the enactment of this section. All regulations (and modifications to regulations) under the preceding sentence shall take effect on the same date.
+
+“(c)
+
+Applicability; Related Provisions.—
+
+&emsp;“(1)
+
+Prospective rules.—Except as otherwise provided in this subsection, the amendments made by this section \[amending this section and sections 3502 and 8461 of this title\] shall apply with respect to moves occurring on or after the effective date of the regulations under subsection (b). Moves occurring on or after the date of the enactment of this Act \[Feb. 10, 1996\] and before the effective date of such regulations shall be subject to applicable provisions of title 5, United States Code, disregarding the amendments made by this section, except that any individual making an election pursuant to this sentence shall be ineligible to make an election otherwise allowable under paragraph (2).
+
+&emsp;“(2)
+
+Retroactive rules.—
+
+&emsp;&emsp;“(A)
+
+In general.—The regulations under subsection (b) shall include provisions for the application of sections 8347(q) and 8461(n) of title 5, United States Code, as amended by this section, with respect to any individual who, at any time after December 31, 1965, and before the effective date of such regulations, moved between positions in circumstances that would have qualified such individual to make an election under the provisions of such section 8347(q) or 8461(n), as so amended, if such provisions had then been in effect.
+
+&emsp;&emsp;“(B)
+
+Deadline; related provisions.—An election pursuant to this paragraph—
+
+&emsp;&emsp;&emsp;“(i) shall be made within 1 year after the effective date of the regulations under subsection (b), and
+
+&emsp;&emsp;&emsp;“(ii) shall have the same force and effect as if it had been timely made at the time of the move,
+
+&nbsp;&nbsp;except that no such election may be made by any individual—
+
+&emsp;&emsp;&emsp;“(I) who has previously made, or had an opportunity to make, an election under section 8347(q) or 8461(n) of title 5, United States Code (as in effect before being amended by this section); however, this subclause shall not be considered to render an individual ineligible, based on an opportunity arising out of a move occurring during the period described in the second sentence of paragraph (1), if no election has in fact been made by such individual based on such move;
+
+&emsp;&emsp;&emsp;“(II) who has not, since the move on which eligibility for the election is based, remained continuously subject (disregarding any break in service of less than 3 days) to CSRS or FERS or both seriatim (if the move was from a NAFI position) or any retirement system (or 2 or more such systems seriatim) established for employees described in section 2105(c) of such title (if the move was to a NAFI position); or
+
+&emsp;&emsp;&emsp;“(III) if such election would be based on a move to the Civil Service Retirement System from a retirement system established for employees described in section 2105(c) of such title.
+
+&emsp;&emsp;“(C)
+
+Transfers of contributions.—
+
+&emsp;&emsp;&emsp;“(i)
+
+In general.—If an individual makes an election under this paragraph to be transferred back to a retirement system in which such individual previously participated (in this section referred to as the ‘previous system’), all individual contributions (including interest) and Government contributions to the retirement system in which such individual is then currently participating (in this section referred to as the ‘current system’), excluding those made to the Thrift Savings Plan or any other defined contribution plan, which are attributable to periods of service performed since the move on which the election is based, shall be paid to the fund, account, or other repository for contributions made under the previous system. For purposes of this section, the term ‘current system’ shall be considered also to include any retirement system (besides the one in which the individual is participating at the time of making the election) in which such individual previously participated since the move on which the election is based.
+
+&emsp;&emsp;&emsp;“(ii)
+
+Condition subsequent relating to repayment of lump-sum credit.—In the case of an individual who has received such individual's lump-sum credit (within the meaning of section 8401(19) of title 5, United States Code, or a similar payment) from such individual's previous system, the payment described in clause (i) shall not be made (and the election to which it relates shall be ineffective) unless such lump-sum credit is redeposited or otherwise paid at such time and in such manner as shall be required under applicable regulations. Regulations to carry out this clause shall include provisions for the computation of interest (consistent with section 8334(e)(2) and (3) of title 5, United States Code), if no provisions for such computation otherwise exist.
+
+&emsp;&emsp;&emsp;“(iii)
+
+Condition subsequent relating to deficiency in payments relative to amounts needed to ensure that benefits are fully funded.—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I)
+
+In general.—Except as provided in subclause (II), the payment described in clause (i) shall not be made (and the election to which it relates shall be ineffective) if the actuarial present value of the future benefits that would be payable under the previous system with respect to service performed by such individual after the move on which the election under this paragraph is based and before the effective date of the election, exceeds the total amounts required to be transferred to the previous system under the preceding provisions of this subparagraph with respect to such service, as determined by the authority administering such previous system (in this section referred to as the ‘administrative authority’).
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II)
+
+Payment of deficiency.—A determination of a deficiency under this clause shall not render an election ineffective if the individual pays or arranges to pay, at a time and in a manner satisfactory to such administrative authority, the full amount of the deficiency described in subclause (I).
+
+&emsp;&emsp;“(D)
+
+Alternative election for an individual then participating in fers.—
+
+&emsp;&emsp;&emsp;“(i)
+
+Applicability.—This subparagraph applies with respect to any individual who—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) is then currently participating in FERS; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) would then otherwise be eligible to make an election under subparagraphs (A) through (C) of this paragraph, determined disregarding the matter in subclause (I) of subparagraph (B) before the first semicolon therein.
+
+&emsp;&emsp;&emsp;“(ii)
+
+Election.—An individual described in clause (i) may, instead of making an election for which such individual is otherwise eligible under this paragraph, elect to have all prior qualifying NAFI service of such individual treated as creditable service for purposes of any annuity under FERS payable out of the Civil Service Retirement and Disability Fund.
+
+&emsp;&emsp;&emsp;“(iii)
+
+Qualifying nafi service.—For purposes of this subparagraph, the term ‘qualifying NAFI service’ means any service which, but for this subparagraph, would be creditable for purposes of any retirement system established for employees described in section 2105(c) of title 5, United States Code.
+
+&emsp;&emsp;&emsp;“(iv)
+
+Service ceases to be creditable for nafi retirement system purposes.—Any qualifying NAFI service that becomes creditable for FERS purposes by virtue of an election made under this subparagraph shall not be creditable for purposes of any retirement system referred to in clause (iii).
+
+&emsp;&emsp;&emsp;“(v)
+
+Conditions.—An election under this subparagraph shall be subject to requirements, similar to those set forth in subparagraph (C), to ensure that—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) appropriate transfers of individual and Government contributions are made to the Civil Service Retirement and Disability Fund; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) the actuarial present value of future benefits under FERS attributable to service made creditable by such election is fully funded.
+
+&emsp;&emsp;“(E)
+
+Alternative election for an individual then participating in a nafi retirement system.—
+
+&emsp;&emsp;&emsp;“(i)
+
+Applicability.—This subparagraph applies with respect to any individual who—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) is then currently participating in any retirement system established for employees described in section 2105(c) of title 5, United States Code (in this subparagraph referred to as a ‘NAFI retirement system’); and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) would then otherwise be eligible to make an election under subparagraphs (A) through (C) of this paragraph (determined disregarding the matter in subclause (I) of subparagraph (B) before the first semicolon therein) based on a move from FERS.
+
+&emsp;&emsp;&emsp;“(ii)
+
+Election.—An individual described in clause (i) may, instead of making an election for which such individual is otherwise eligible under this paragraph, elect to have all prior qualifying FERS service of such individual treated as creditable service for purposes of determining eligibility for benefits under a NAFI retirement system, but not for purposes of computing the amount of any such benefits except as provided in clause (v)(II).
+
+&emsp;&emsp;&emsp;“(iii)
+
+Qualifying fers service.—For purposes of this subparagraph, the term ‘qualifying FERS service’ means any service which, but for this subparagraph, would be creditable for purposes of the Federal Employees’ Retirement System.
+
+&emsp;&emsp;&emsp;“(iv)
+
+Service ceases to be creditable for purposes of fers.—Any qualifying FERS service that becomes creditable for NAFI purposes by virtue of an election made under this subparagraph shall not be creditable for purposes of the Federal Employees’ Retirement System.
+
+&emsp;&emsp;&emsp;“(v)
+
+Funding requirements.—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I)
+
+In general.—Except as provided in subclause (II), nothing in this section or in any other provision of law or any other authority shall be considered to require any payment or transfer of monies in order for an election under this subparagraph to be effective.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II)
+
+Contribution required only if individual elects to have service made creditable for computation purposes as well.—Under regulations prescribed by the appropriate administrative authority, an individual making an election under this subparagraph may further elect to have the qualifying FERS service made creditable for computation purposes under a NAFI retirement system, but only if the individual pays or arranges to pay, at a time and in a manner satisfactory to such administrative authority, the amount necessary to fully fund the actuarial present value of future benefits under the NAFI retirement system attributable to the qualifying FERS service.
+
+&emsp;“(3)
+
+Information.—The regulations under subsection (b) shall include provisions under which any individual—
+
+&emsp;&emsp;“(A) shall, upon request, be provided information or assistance in determining whether such individual is eligible to make an election under paragraph (2) and, if so, the exact amount of any payment which would be required of such individual in connection with any such election; and
+
+&emsp;&emsp;“(B) may seek any other information or assistance relating to any such election.”
 
 #### Treatment of Individuals Electing To Remain Subject to Their Former Retirement System
 

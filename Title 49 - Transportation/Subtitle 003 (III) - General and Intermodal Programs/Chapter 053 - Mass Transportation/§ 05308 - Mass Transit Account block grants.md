@@ -14,7 +14,9 @@ Application of Other Sections.—(1) Sections 5307(a)–(d), (h)–(<i>l</i>), a
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

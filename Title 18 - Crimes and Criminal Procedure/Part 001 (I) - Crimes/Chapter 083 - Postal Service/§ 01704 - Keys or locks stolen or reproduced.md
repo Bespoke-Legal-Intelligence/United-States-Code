@@ -1,4 +1,4 @@
-### §1704 . Keys or locks stolen or reproduced
+### §1704. Keys or locks stolen or reproduced
 
 Whoever steals, purloins, embezzles, or obtains by false pretense any key suited to any lock adopted by the Post Office Department or the Postal Service and in use on any of the mails or bags thereof, or any key to any lock box, lock drawer, or other authorized receptacle for the deposit or delivery of mail matter; or
 

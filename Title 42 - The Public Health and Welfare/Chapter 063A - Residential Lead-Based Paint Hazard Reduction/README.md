@@ -24,10 +24,10 @@
 | (i) | Prohibition of substitution of funds. |
 | (j) | Limitation on use. |
 | (k) | Financial records. |
-| (<i>l)</i> | Report. |
+| (<i>l</i>) | Report. |
 | (m) | Notice of Funding Availability. |
 | (n) | Relationship to other law. |
-| (<i>o)</i> | Environmental review. |
+| (<i>o</i>) | Environmental review. |
 | (p) | Authorization of appropriations. |
 | [4852a.](Subchapter%20001%20%28I%29%20-%20Lead-Based%20Paint%20Hazard%20Reduction/%C2%A7%2004852a%20-%20Task%20force%20on%20lead-based%20paint%20hazard%20reduction%20and%20financing.md) | Task force on lead-based paint hazard reduction and financing. |
 | (a) | In general. |

@@ -56,7 +56,7 @@
 
 (c)(1) An individual who retires under subsection (b) of this section and elects under subsection (d) of this section to receive retired pay under this subsection shall (except as provided in paragraph (2) of this subsection) receive retired pay at the rate of pay in effect at the time of retirement.
 
-(2) An individual who serves as a judge for less than 10 years and who retires under subsection\(b)(3) of this section and elects under subsection (d) of this section to receive retired pay under this subsection shall receive retired pay at a rate equal to one-half of the rate of pay in effect at the time of retirement.
+(2) An individual who serves as a judge for less than 10 years and who retires under subsection (b)(3) of this section and elects under subsection (d) of this section to receive retired pay under this subsection shall receive retired pay at a rate equal to one-half of the rate of pay in effect at the time of retirement.
 
 (3) Retired pay under this subsection shall begin to accrue on the day following the day on which the individual's salary as judge ceases to accrue and shall continue to accrue during the remainder of the individual's life. Retired pay under this subsection shall be paid in the same manner as the salary of a judge.
 

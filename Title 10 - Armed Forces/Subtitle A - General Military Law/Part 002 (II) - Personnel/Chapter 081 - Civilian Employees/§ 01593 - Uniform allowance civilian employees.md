@@ -6,7 +6,7 @@ Allowance Authorized.—(1) The Secretary of Defense may pay an allowance to eac
 
 (2) In lieu of providing an allowance under paragraph (1), the Secretary may provide a uniform to a civilian employee referred to in such paragraph.
 
-(3) This subsection shall not apply with respect to a civilian employee of the Defense Intelligence Agency who is entitled to an allowance under section 1606 of this title.
+(3) This subsection shall not apply with respect to a civilian employee of the Defense Intelligence Agency who is entitled to an allowance under section 1622 of this title.
 
 (b)
 
@@ -20,7 +20,7 @@ Treatment of Allowance.—An allowance paid, or uniform provided, under subsecti
 
 Use of Appropriated Funds for Allowance.—Amounts appropriated annually to the Department of Defense for the pay of civilian employees may be used for uniforms, or for allowance for uniforms, as authorized by this section and section 5901 of title 5.
 
-(Added Pub. L. 101–189, div. A, title III, §336(a)(1), Nov. 29, 1989, 103 Stat. 1419; amended Pub. L. 101–510, div. A, title XIV, §1481(d)(3), Nov. 5, 1990, 104 Stat. 1706.)
+(Added Pub. L. 101–189, div. A, title III, §336(a)(1), Nov. 29, 1989, 103 Stat. 1419; amended Pub. L. 101–510, div. A, title XIV, §1481(d)(3), Nov. 5, 1990, 104 Stat. 1706; Pub. L. 104–201, div. A, title XVI, §1633(e)(1), Sept. 23, 1996, 110 Stat. 2752.)
 
 #### Prior Provisions
 
@@ -28,7 +28,13 @@ Provisions similar to those in subsec. (d) of this section were contained in Pub
 
 #### Amendments
 
+1996—Subsec. (a)(3). Pub. L. 104–201 substituted “section 1622” for “section 1606”.
+
 1990—Subsec. (d). Pub. L. 101–510 added subsec. (d).
+
+#### Effective Date of 1996 Amendment
+
+Section 1635 of Pub. L. 104–201 provided that: “This subtitle \[subtitle B (§§1631–1635) of title XVI of div. A of Pub. L. 104–201, enacting sections 1601 to 1603, 1606 to 1610, and 1612 to 1614 of this title, amending this section, sections 1596, 1605, 1611, and 1621 of this title, and sections 7103 and 7511 of Title 5, Government Organization and Employees, renumbering sections 1599, 1602, 1606, and 1608 of this title as sections 1611, 1621, 1622, and 1623 of this title, respectively, repealing sections 1590, 1601, 1603, and 1604 of this title and section 833 of Title 50, War and National Defense, enacting provisions set out as a note under section 1601 of this title, and repealing provisions set out as a note under section 402 of Title 50\] and the amendments made by this subtitle shall take effect on October 1, 1996.”
 
 #### Effective Date
 
@@ -40,5 +46,5 @@ Pub. L. 101–165, title IX, §9010, Nov. 21, 1989, 103 Stat. 1131, which made a
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1606 of this title.
+This section is referred to in section 1622 of this title; title 37 sections 417, 418.
 

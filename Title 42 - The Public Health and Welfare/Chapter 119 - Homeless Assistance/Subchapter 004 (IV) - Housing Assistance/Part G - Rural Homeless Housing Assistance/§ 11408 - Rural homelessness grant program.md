@@ -96,7 +96,7 @@ In order to be eligible to receive a grant under subsection (a) of this section,
 
 &emsp;(3) an assurance that the assistance to be provided is closely related to the identified needs of the target population;
 
-&emsp;(4) a description of the existing assistance available to the target population, including Federal, State, and local programs, and a description of the manner in which the organization will coordinate with and expand existingassistance or provide assistance not available in the immediate area;
+&emsp;(4) a description of the existing assistance available to the target population, including Federal, State, and local programs, and a description of the manner in which the organization will coordinate with and expand existing assistance or provide assistance not available in the immediate area;
 
 &emsp;(5) an agreement by the organization that the organization will collect data on the projects conducted by the organization, including assistance provided, number and characteristics of persons served, and causes of homelessness for persons served; and
 
@@ -104,7 +104,7 @@ In order to be eligible to receive a grant under subsection (a) of this section,
 
 #### (e) Eligible organizations
 
-Organizations eligible to receive a grant under subsection (a) of this section shall include private nonprofit entities, Indian tribes (as such term is defined in section 5302(a) of this title), and county and local governments.
+Organizations eligible to receive a grant under subsection (a) of this section shall include private nonprofit entities and county and local governments.
 
 #### (f) Federal share
 
@@ -176,9 +176,19 @@ For purposes of this section:
 
 &emsp;Any amount paid to a grant recipient for a fiscal year that remains unobligated at the end of the year shall remain available to the recipient for the purposes for which the payment was made for the next fiscal year. The Secretary shall take such action as may be necessary to recover any amount not obligated by the recipient at the end of the second fiscal year, and shall redistribute the amount to another eligible organization.
 
-(Pub. L. 100–77, title IV, §491, as added Pub. L. 102–550, title XIV, §1408, Oct. 28, 1992, 106 Stat. 4035.)
+(Pub. L. 100–77, title IV, §491, as added Pub. L. 102–550, title XIV, §1408, Oct. 28, 1992, 106 Stat. 4035; amended Pub. L. 104–330, title V, §506(a)(10), Oct. 26, 1996, 110 Stat. 4045.)
 
 #### References in Text
 
 This chapter, referred to in subsec. (c)(2), was in the original “this Act”, meaning Pub. L. 100–77, July 22, 1987, 101 Stat. 482, known as the Stewart B. McKinney Homeless Assistance Act. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of this title and Tables.
+
+#### Amendments
+
+1996—Subsec. (e). Pub. L. 104–330 struck out “, Indian tribes (as such term is defined in section 5302(a) of this title),” after “nonprofit entities”.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–330 effective Oct. 1, 1997, except as otherwise expressly provided, see section 107 of Pub. L. 104–330, set out as an Effective Date note under section 4101 of Title 25, Indians.
+
+Amendment by Pub. L. 104–330 applicable with respect to amounts made available for assistance under this subchapter for fiscal year 1998 and fiscal years thereafter, see section 506(c) of Pub. L. 104–330, set out as a note under section 11371 of this title.
 

@@ -50,7 +50,7 @@ Pub. L. 101–140 amended this section to read as if the amendments made by sect
 
 1989—Subsec. (b)(5). Pub. L. 101–140 amended subsec. (b) to read as if amendments by Pub. L. 100–647, §1011B(a)(27)(B), had not been enacted, see 1988 Amendment note below.
 
-Subsecs. (c), (d). Pub. L. 101–140 amended this section to read as if amendments by Pub. L. 100–647,§1011B(a)(27)(A), had not been enacted, see 1988 Amendment note below.
+Subsecs. (c), (d). Pub. L. 101–140 amended this section to read as if amendments by Pub. L. 100–647, §1011B(a)(27)(A), had not been enacted, see 1988 Amendment note below.
 
 1988—Subsec. (b)(5). Pub. L. 100–647, §1011B(a)(27)(B), added par. (5) relating to limitation in case of benefits to which section 89 applies.
 

@@ -16,7 +16,7 @@
 
 > For purposes of determining the percentage referred to in subparagraph (B), the term “beneficiary country” includes the Commonwealth of Puerto Rico and the United States Virgin Islands. If the cost or value of materials produced in the customs territory of the United States (other than the Commonwealth of Puerto Rico) is included with respect to an article to which this paragraph applies, an amount not to exceed 15 percent of the appraised value of the article at the time it is entered that is attributed to such United States cost or value may be applied toward determining the percentage referred to in subparagraph (B).
 
-(2) The Secretary of the Treasury shall prescribe such regulations as may be necessary to carry out subsection (a) of this section including, but not limited to, regulations providing that, in order to be eligible for duty-free treatment under this chapter, an article must be wholly the growth, product, or manufacture of a beneficiary country, or must be a new or different article of commerce which has been grown, produced, or manufactured in the beneficiary country; but no article or material of abeneficiary country shall be eligible for such treatment by virtue of having merely undergone—
+(2) The Secretary of the Treasury shall prescribe such regulations as may be necessary to carry out subsection (a) of this section including, but not limited to, regulations providing that, in order to be eligible for duty-free treatment under this chapter, an article must be wholly the growth, product, or manufacture of a beneficiary country, or must be a new or different article of commerce which has been grown, produced, or manufactured in the beneficiary country; but no article or material of a beneficiary country shall be eligible for such treatment by virtue of having merely undergone—
 
 &emsp;(A) simple combining or packaging operations, or
 
@@ -150,5 +150,5 @@ Amendment by Pub. L. 103–465 effective on the date of entry into force of the 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 7 section 1444–2.
+This section is referred to in title 7 section 7236.
 

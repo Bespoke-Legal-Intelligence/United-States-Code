@@ -100,5 +100,5 @@ Pub. L. 97–229, §4(c), Aug. 3, 1982, 96 Stat. 252, provided that: “On or be
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 6235, 6238, 6239, 6246, 6249 of this title; title 15 section 714b.
+This section is referred to in sections 6235, 6238, 6239, 6249 of this title; title 15 section 714b.
 

@@ -2,7 +2,7 @@
 
 #### (a) Establishment of program
 
-The Secretary is authorized to establish a national program of Youth Fair Chance grants to pay the Federal share attributable to this part of providing comprehensive services to youth living in high poverty areas in the cities and rural areas of the Nation.
+The Secretary is authorized to establish a national program of Youth Fair Chance grants topay the Federal share attributable to this part of providing comprehensive services to youth living in high poverty areas in the cities and rural areas of the Nation.
 
 #### (b) Eligibility for grants
 

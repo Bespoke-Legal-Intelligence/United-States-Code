@@ -14,9 +14,11 @@ Definitions.—
 
 &emsp;&emsp;(C) the activities of which affect interstate or foreign commerce.
 
+&emsp;“State” means a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
+
 (b)
 
-Penalty.—The sentence of a person convicted of an offense described in subsection (c) shall be increased by up to 10 years if the offense is committed under the circumstances described in subsection (d).
+Penalty.—The sentence of a person convicted of an offense described in subsection (c)shall be increased by up to 10 years if the offense is committed under the circumstances described in subsection (d).
 
 (c)
 
@@ -50,5 +52,9 @@ Circumstances.—The circumstances described in this section are that the offens
 
 &emsp;&emsp;(D) a conspiracy to commit an offense described in subparagraph (A), (B), or (C).
 
-(Added Pub. L. 103–322, title XV, §150001(a), Sept. 13, 1994, 108 Stat. 2034.)
+(Added Pub. L. 103–322, title XV, §150001(a), Sept. 13, 1994, 108 Stat. 2034; amended Pub. L. 104–294, title VI, §607(q), Oct. 11, 1996, 110 Stat. 3513.)
+
+#### Amendments
+
+1996—Subsec. (a). Pub. L. 104–294 inserted at end “ ‘State’ means a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States.”
 

@@ -46,7 +46,7 @@ Section 4 of Pub. L. 86–368 provided that the position of Assistant General Co
 
 #### National Commission on Restructuring Internal Revenue Service
 
-Pub. L. 104–52, title VI, §637, Nov. 19, 1995, 109 Stat. 509, provided that:
+Pub. L. 104–52, title VI, §637, Nov. 19, 1995, 109 Stat. 509, as amended by Pub. L. 104–134, title II, §2904(a),Apr. 26, 1996, 110 Stat. 1321–333; Pub. L. 104–208, Div. A, title I, §101(f) \[title VI, §643(a)–(e)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–365, provided that:
 
 “(a)
 
@@ -74,15 +74,15 @@ Establishment.—To carry out the purposes of this section, there is established
 
 &emsp;“(2)
 
-Composition.—The Commission shall be composed of thirteen members, as follows:
+Composition.—The Commission shall be composed of seventeen members, as follows:
 
 &emsp;&emsp;“(A) Five members appointed by the President, two from the executive branch of the Government, two from private life, and one from an organization that represents a substantial number of Internal Revenue Service employees.
 
-&emsp;&emsp;“(B) Two members appointed by the Majority Leader of the Senate, one from Members of the Senate and one from private life.
+&emsp;&emsp;“(B) Four members appointed by the Majority Leader of the Senate, one from Members of the Senate and three from private life.
 
 &emsp;&emsp;“(C) Two members appointed by the Minority Leader of the Senate, one from Members of the Senate and one from private life.
 
-&emsp;&emsp;“(D) Two members appointed by the Speaker of the House of Representatives, one from Members of the House of Representatives and one from private life.
+&emsp;&emsp;“(D) Four members appointed by the Speaker of the House of Representatives, one from Members of the House of Representatives and three from private life.
 
 &emsp;&emsp;“(E) Two members appointed by the Minority Leader of the House of Representatives, one from Members of the House of Representatives and one from private life.
 
@@ -90,11 +90,11 @@ Composition.—The Commission shall be composed of thirteen members, as follows:
 
 &emsp;“(3)
 
-Chairman.—The Commission shall elect a Chairman from among its members.
+Co-Chairs.—The Commission shall elect Co-Chairs from among its members.
 
 &emsp;“(4)
 
-Meeting; quorum; vacancies.—After its initial meeting, the Commission shall meet upon the call of the Chairman or a majority of its members. Seven members of the Commission shall constitute a quorum. Any vacancy in the Commission shall not affect its powers, but shall be filled in the same manner in which the original appointment was made.
+Meeting; quorum; vacancies.—After its initial meeting, the Commission shall meet upon the call of the Co-Chairs or a majority of its members. Nine members of the Commission shall constitute a quorum. Any vacancy in the Commission shall not affect its powers, but shall be filled in the same manner in which the original appointment was made.
 
 &emsp;“(5)
 
@@ -106,7 +106,7 @@ Appointment.—It is the sense of the Congress that members of the Committee \[C
 
 &emsp;&emsp;“(B)
 
-Initial meeting.—If, after 60 days from the date of the enactment of this section, seven or more members of the Commission have been appointed, members who have been appointed may meet and select a Chairman who thereafter shall have the authority to begin the operations of the Commission, including the hiring of staff.
+Initial meeting.—If, after 60 days from the date of the enactment of this section, seven or more members of the Commission have been appointed, members who have been appointed may meet and select Co-Chairs who thereafter shall have the authority to begin the operations of the Commission, including the hiring of staff.
 
 “(c)
 
@@ -116,7 +116,7 @@ Functions of Commission.—
 
 In general.—The functions of the Commission shall be—
 
-&emsp;&emsp;“(A) to conduct, for a period of not to exceed one year from the date of its first meeting, the review described in paragraph (2), and
+&emsp;&emsp;“(A) to conduct, for a period of not to exceed 15 months from the date of its first meeting, the review described in paragraph (2), and
 
 &emsp;&emsp;“(B) to submit to the Congress a final report of the results of the review, including recommendations for restructuring the IRS.
 
@@ -164,7 +164,7 @@ In general.—(A) The Commission or, on the authorization of the Commission, any
 
 &emsp;&emsp;“(ii) require, by subpoena or otherwise, the attendance and testimony of such witnesses and the production of such books, records, correspondence, memoranda, papers, and documents, as the Commission or such designated subcommittee or designated member may deem advisable.
 
-&emsp;“(B) Subpoenas issued under subparagraph (A)(ii) may be issued under the signature of the Chairman of the Commission, the chairman of any designated subcommittee, or any designated member, and may be served by any person designated by such Chairman, subcommittee chairman, or member. The provisions of sections 102 through 104 of the Revised Statutes of the United States (2 U.S.C. 192–194) shall apply in the case of any failure of any witness to comply with any subpoena or to testify when summoned under authority of this section.
+&emsp;“(B) Subpoenas issued under subparagraph (A)(ii) may be issued under the signature of the Co-Chairs of the Commission, the chairman of any designated subcommittee, or any designated member, and may be served by any person designated by such Co-Chairs, subcommittee chairman, or member. The provisions of sections 102 through 104 of the Revised Statutes of the United States (2 U.S.C. 192–194) shall apply in the case of any failure of any witness to comply with any subpoena or to testify when summoned under authority of this section.
 
 &emsp;“(2)
 
@@ -172,7 +172,7 @@ Contracting.—The Commission may, to such extent and in such amounts as are pro
 
 &emsp;“(3)
 
-Information from federal agencies.—The Commission is authorized to secure directly from any executive department, bureau, agency, board, commission, office, independent establishment, or instrumentality of the Government, information, suggestions, estimates, and statistics for the purposes of this section. Each such department, bureau, agency, board, commission, office, establishment, or instrumentality shall, to the extent authorized by law, furnish such information, suggestions, estimates, and statistics directly to the Commission, upon request made by the Chairman.
+Information from federal agencies.—The Commission is authorized to secure directly from any executive department, bureau, agency, board, commission, office, independent establishment, or instrumentality of the Government, information, suggestions, estimates, and statistics for the purposes of this section. Each such department, bureau, agency, board, commission, office, establishment, or instrumentality shall, to the extent authorized by law, furnish such information, suggestions, estimates, and statistics directly to the Commission, upon request made by the Co-Chairs.
 
 &emsp;“(4)
 
@@ -186,13 +186,17 @@ Assistance from federal agencies.—(A) The Secretary of the Treasury is authori
 
 Postal services.—The Commission may use the United States mails in the same manner and under the same conditions as departments and agencies of the United States.
 
+&emsp;“(6)
+
+Gifts.—The Commission may accept, use, and dispose of gifts or donations of services or property in carrying out its duties under this section.
+
 “(e)
 
 Staff of the Commission.—
 
 &emsp;“(1)
 
-In general.—The Chairman, in accordance with rules agreed upon by the Commission, may appoint and fix the compensation of a staff director and such other personnel as may be necessary to enable the Commission to carry out its functions, without regard to the provisions of title 5, United States Code, governing appointments in the competitive service, and without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates, except that no rate of pay fixed under this subsection may exceed the equivalent of that payable to a person occupying a position at level V of the Executive Schedule under section 5316 of title 5, United States Code. Any Federal Government employee may be detailed to the Commission without reimbursement from the Commission, and such detailee shallretain the rights, status, and privileges of his or her regular employment without interruption.
+In general.—The Co-Chairs, in accordance with rules agreed upon by the Commission, may appoint and fix the compensation of a staff director and such other personnel as may be necessary to enable the Commission to carry out its functions, without regard to the provisions of title 5, United States Code, governing appointments in the competitive service, and without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates, except that no rate of pay fixed under this subsection may exceed the equivalent of that payable to a person occupying a position at level V of the Executive Schedule under section 5316 of title 5, United States Code. Any Federal Government employee may be detailed to the Commission without reimbursement from the Commission, and such detailee shall retain the rights, status, and privileges of his or her regular employment without interruption.
 
 &emsp;“(2)
 
@@ -210,7 +214,7 @@ Compensation.—(A) Except as provided in subparagraph (B), each member of the C
 
 &emsp;“(2)
 
-Travel expenses.—While away from their homes or regular places of business in the performance of services for the Commission, members of the Commission shall be allowed travel expenses, including per diem in lieu of subsistence, in the same manner as persons employed intermittently in the Government service are allowed expenses under section 5703(b) of title 5, United States Code.
+Travel expenses.—While away from their homes or regular places of business in the performance of services for the Commission, members of the Commission may be allowed travel expenses, including per diem in lieu of subsistence, in the same manner as persons employed intermittently in the Government service are allowed expenses under section 5703(b) of title 5, United States Code.
 
 “(g)
 
@@ -218,7 +222,7 @@ Final Report of Commission; Termination.—
 
 &emsp;“(1)
 
-Final report.—Not later than one year after the date of the first meeting of the Commission, the Commission shall submit to the Congress its final report, as described in subsection (c)(2).
+Final report.—Not later than 15 months after the date of the first meeting of the Commission, the Commission shall submit to the Congress its final report, as described in subsection (c)(2).
 
 &emsp;“(2)
 
@@ -233,6 +237,10 @@ Authorization of Appropriations.—Such sums as may be necessary are authorized 
 “(i)
 
 Appropriations.—Notwithstanding any other provision of this Act, $1,000,000 shall be available from fiscal year 1996 funds appropriated to the Internal Revenue Service, ‘Information systems’ account, for the activities of the Commission, to remain available until expended.”
+
+\[Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §643(f)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–366, provided that: “The amendments made by this section \[amending section 637 of Pub. L. 104–52, set out above\] shall take effect as if included in the provisions of the Treasury, Postal Service, and General Government Appropriations Act, 1996 \[Pub. L. 104–52\].”\]
+
+\[Pub. L. 104–134, title II, §2904(b), Apr. 26, 1996, 110 Stat. 1321–333, provided that: “The amendments made by this section \[amending section 637 of Pub. L. 104–52, set out above\] shall take effect as if included in the provisions of the Treasury, Postal Service, and General Government Appropriations Act, 1996 \[Pub. L. 104–52\].”\]
 
 #### Fees for Services Rendered
 
@@ -268,7 +276,7 @@ Designation of officers of Treasury Department to act as Secretary of Treasury, 
 
 #### Fees for Requests for Ruling, Determination, and Similar Letters
 
-Pub. L. 100–203, title X, §10511, Dec. 22, 1987, 101 Stat. 1330–446, as amended by Pub. L. 101–508, title XI, §11319(a), Nov. 5, 1990, 104 Stat. 1388–460; Pub. L. 103–465, title VII, §743, Dec. 8, 1994, 108 Stat. 5011, provided that:
+Pub. L. 100–203, title X, §10511, Dec. 22, 1987, 101 Stat. 1330–446, as amended by Pub. L. 101–508, title XI, §11319(a), Nov. 5, 1990, 104 Stat. 1388–460; Pub. L. 103–465, title VII, §743, Dec. 8, 1994, 108 Stat. 5011; Pub. L. 104–117, §2, Mar. 20, 1996, 110 Stat. 828, provided that:
 
 “(a)
 
@@ -302,19 +310,19 @@ Average fee requirement.—The average fee charged under the program required by
 
 &emsp;&emsp;Employee plan ruling and opinion
 
-$250&nbsp;&nbsp;
+$250&nbsp;&nbsp;&nbsp;
 
 &emsp;&emsp;Exempt organization ruling
 
-$350&nbsp;&nbsp;
+$350&nbsp;&nbsp;&nbsp;
 
 &emsp;&emsp;Employee plan determination
 
-$300&nbsp;&nbsp;
+$300&nbsp;&nbsp;&nbsp;
 
 &emsp;&emsp;Exempt organization determination
 
-$275&nbsp;&nbsp;
+$275&nbsp;&nbsp;&nbsp;
 
 &emsp;&emsp;Chief counsel ruling
 
@@ -322,9 +330,11 @@ $200.&nbsp;
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <i>\[See main edition for text of (a) and (b)\]</i>
+
 “(c)
 
-Application of Section.—Subsection (a) shall apply with respect to requests made on or after the 1st day of the second calendar month beginning after the date of the enactment of this Act \[Dec. 22, 1987\] and before September 30, 1990. Subsection (a) shall also apply with respect to requests made after September 30, 1990, and before October 1, 2000.”
+Application of Section.—Subsection (a) shall apply with respect to requests made on or after the 1st day of the second calendar month beginning after the date of the enactment of this Act \[Dec. 22, 1987\] and before September 30, 1990. Subsection (a) shall also apply with respect to requests made after September 30, 1990, and before October 1, 2003.”
 
 \[Section 11319(b) of Pub. L. 101–508 provided that: “The amendment made by this section \[amending section 10511 of Pub. L. 100–203 set out above\] shall take effect on September 29, 1990, except that no advance payment shall be required for any fee for any requests filed after September 29, 1990, and before the 30th day after the date of the enactment of this Act \[Nov. 5, 1990\].”\]
 
@@ -344,5 +354,5 @@ Pub. L. 94–568, §4, Oct. 20, 1976, 90 Stat. 2698, provided that the Secretary
 
 Department of Justice, see section 501 et seq. of Title 28, Judiciary and Judicial Procedure.
 
-Department of Treasury, see section 301 et seq. of Title 31, Money and Finance.
+Department of the Treasury, see section 301 et seq. of Title 31, Money and Finance.
 

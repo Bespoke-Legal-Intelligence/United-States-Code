@@ -38,7 +38,7 @@ Notwithstanding the provisions of subsection (a) of this section it shall be unl
 
 #### (d) Warrants and rights to subscription
 
-It shall be unlawful for any registered management company to issue any warrant or right to subscribe to or purchase a security of which such company is the issuer, except in the formof warrants or rights to subscribe expiring not later than one hundred and twenty days after their issuance and issued exclusively and ratably to a class or classes of such company's security holders; except that any warrant may be issued in exchange for outstanding warrants in connection with a plan of reorganization.
+It shall be unlawful for any registered management company to issue any warrant or right to subscribe to or purchase a security of which such company is the issuer, except in the form of warrants or rights to subscribe expiring not later than one hundred and twenty days after their issuance and issued exclusively and ratably to a class or classes of such company's security holders; except that any warrant may be issued in exchange for outstanding warrants in connection with a plan of reorganization.
 
 #### (e) Application of section to specific senior securities
 
@@ -86,7 +86,7 @@ Notwithstanding any provision of this subchapter, it shall be unlawful, after Au
 
 The provisions of subparagraphs (A) and (B) of paragraph (1) of subsection (a) of this section shall not apply to investment companies operating under the Small Business Investment Act of 1958 \[15 U.S.C. 661 et seq.\], and the provisions of paragraph (2) of said subsection shall not apply to such companies so long as such class of senior security shall be held or guaranteed by the Small Business Administration.
 
-(Aug. 22, 1940, ch. 686, title I, §18, 54 Stat. 817; Aug. 21, 1958, Pub. L. 85–699, title III, §307(c), 72 Stat. 694; Dec. 14, 1970, Pub. L. 91–547, §10, 84 Stat. 1421; Aug. 21, 1958, Pub. L. 85–699, title III, §319, as added Oct. 27, 1972, Pub. L. 92–595, §2(g), 86 Stat. 1316; June 4, 1975, Pub. L. 94–29, §28(4), 89 Stat. 165; Dec. 4, 1987, Pub. L. 100–181, title VI, §613, 101 Stat. 1261.)
+(Aug. 22, 1940, ch. 686, title I, §18, 54 Stat. 817; Aug. 21, 1958, Pub. L. 85–699, title III, §307(c), 72 Stat. 694; Dec. 14, 1970, Pub. L. 91–547, §10, 84 Stat. 1421; Aug. 21, 1958, Pub. L. 85–699, title III, §317, formerly §319, as added Oct. 27, 1972, Pub. L. 92–595, §2(g), 86 Stat. 1316, renumbered §317,Sept. 30, 1996, Pub. L. 104–208, div. D, title II, §208(h)(1)(E), 110 Stat. 3009–747; June 4, 1975, Pub. L. 94–29, §28(4), 89 Stat. 165; Dec. 4, 1987, Pub. L. 100–181, title VI, §613, 101 Stat. 1261.)
 
 #### References in Text
 

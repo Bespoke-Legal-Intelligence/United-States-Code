@@ -6,11 +6,15 @@
 
 (c) Spouses and dependent children of enlisted members in pay grades E–1, E–2, E–3, and E–4 may not be charged for meals sold at messes in excess of a level sufficient to cover food costs.
 
-(Added Pub. L. 96–513, title IV, §413, Dec. 12, 1980, 94 Stat. 2906; amended Pub. L. 99–145, title VIII, §810(a), Nov. 8, 1985, 99 Stat. 681; Pub. L. 99–661, div. A, title VI, §655, Nov. 14, 1986, 100 Stat. 3891; Pub. L. 101–189, div. A, title III, §321, Nov. 29, 1989, 103 Stat. 1413.)
+(d) When the Coast Guard is not operating as a service in the Navy, the Secretary of Transportation shall establish rates for meals sold at Coast Guard dining facilities, provide for reimbursement of operating expenses and food costs to the appropriations concerned, and reduce the rates for such meals when the Secretary determines that it is in the best interest of the United States to do so.
+
+(Added Pub. L. 96–513, title IV, §413, Dec. 12, 1980, 94 Stat. 2906; amended Pub. L. 99–145, title VIII, §810(a), Nov. 8, 1985, 99 Stat. 681; Pub. L. 99–661, div. A, title VI, §655, Nov. 14, 1986, 100 Stat. 3891; Pub. L. 101–189, div. A, title III, §321, Nov. 29, 1989, 103 Stat. 1413; Pub. L. 104–324, title II, §214(a), Oct. 19, 1996, 110 Stat. 3915.)
 
 #### Amendments
 
-1989—Subsec. (a). Pub. L. 101–189 substituted “and enlisted members” for “or enlisted members entitled to aper diem transportation allowance determined under section 404(d)(2) of this title” and inserted at end “Notwithstanding the preceding sentence, if the Secretary determines that it is in the best interest of the United States, the Secretary may reduce a rate for meals established under this subsection by the amount of that rate attributable to operating expenses.”
+1996—Subsec. (d). Pub. L. 104–324 added subsec. (d).
+
+1989—Subsec. (a). Pub. L. 101–189 substituted “and enlisted members” for “or enlisted members entitled to a per diem transportation allowance determined under section 404(d)(2) of this title” and inserted at end “Notwithstanding the preceding sentence, if the Secretary determines that it is in the best interest of the United States, the Secretary may reduce a rate for meals established under this subsection by the amount of that rate attributable to operating expenses.”
 
 1986—Subsec. (b). Pub. L. 99–661 inserted “or when residing at a military installation pursuant to an agreement in effect on June 30, 1986,” in second sentence.
 
@@ -18,13 +22,13 @@
 
 #### Effective Date of 1985 Amendment
 
-Amendment by Pub. L. 99–145 effective Oct. 1, 1985, see section 813 of Pub. L. 99–145, set out in a Military Family Policy and Programs note under section 113 of Title 10, Armed Forces.
+Amendment by Pub. L. 99–145 effective Oct. 1, 1985, see section 813 of Pub. L. 99–145, formerly set out in a Military Family Policy and Programs note under section 113 of Title 10, Armed Forces.
 
 #### Effective Date
 
 Section effective Sept. 15, 1981, but the authority to prescribe regulations under this section effective on Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as an Effective Date of 1980 Amendment note under section 101 of Title 10, Armed Forces.
 
-#### Section Referred to in Other Sections
+Section Referred to in Other Sections
 
 This section is referred to in section 404 of this title.
 

@@ -28,7 +28,7 @@ Supplemental register, section inapplicable to trademarks on, see section 1094 o
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1094, 1122 of this title; title 19 sections 1526, 1595a; title 48 section 1643.
+This section is referred to in sections 1094, 1122 of this title; title 19 sections 1484, 1526, 1595a; title 48 section 1643.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

@@ -14,7 +14,7 @@
 
 #### (b) State permit programs
 
-At any time after the promulgation of the guidelines required by subsection (i)(2) of section 1314 of this title, the Governor of each State desiring to administer its own permit program for discharges into navigable waters within its jurisdiction may submit to the Administrator a full and complete description of the program it proposes to establish and administer under State law or under an interstate compact. In addition, such State shall submit a statement from the attorney general (or the attorney for those State water pollution control agencies which have independent legal counsel), or from the chief legal officer in the case of an interstate agency, that the laws of such State, or theinterstate compact, as the case may be, provide adequate authority to carry out the described program. The Administrator shall approve each submitted program unless he determines that adequate authority does not exist:
+At any time after the promulgation of the guidelines required by subsection (i)(2) of section 1314 of this title, the Governor of each State desiring to administer its own permit program for discharges into navigable waters within its jurisdiction may submit to the Administrator a full and complete description of the program it proposes to establish and administer under State law or under an interstate compact. In addition, such State shall submit a statement from the attorney general (or the attorney for those State water pollution control agencies which have independent legal counsel), or from the chief legal officer in the case of an interstate agency, that the laws of such State, or the interstate compact, as the case may be, provide adequate authority to carry out the described program. The Administrator shall approve each submitted program unless he determines that adequate authority does not exist:
 
 (1) To issue permits which—
 
@@ -40,7 +40,7 @@ At any time after the promulgation of the guidelines required by subsection (i)(
 
 (4) To insure that the Administrator receives notice of each application (including a copy thereof) for a permit;
 
-(5) To insure that any State (other than the permitting State), whose waters may be affected by the issuance of a permit may submit written recommendations to the permitting State (and the Administrator) with respect to any permit application and, if any part of such written recommendations are not accepted by the permitting State, that the permitting State will notify such affected State (and the Administrator) in writing of its failure to so accept such recommendations together with its reasons for so doing;
+(5) To insure that any State (other than the permitting State), whose waters may be affected by the issuance of a permit may submit written recommendations to the permitting State (and the Administrator) with respect to any permit application and, if any part of such written recommendations are not accepted by the permitting State, that the permitting State will notifysuch affected State (and the Administrator) in writing of its failure to so accept such recommendations together with its reasons for so doing;
 
 (6) To insure that no permit will be issued if, in the judgment of the Secretary of the Army acting through the Chief of Engineers, after consultation with the Secretary of the department in which the Coast Guard is operating, anchorage and navigation of any of the navigable waters would be substantially impaired thereby;
 
@@ -78,7 +78,7 @@ Limitations on partial permit program returns and withdrawals.—A State may ret
 
 #### (e) Waiver of notification requirement
 
-In accordance with guidelines promulgated pursuant to subsection (i)(2) of section 1314 of this title, the Administrator is authorized to waive the requirements of subsection (d) of this section at the time he approves a program pursuant to subsection (b) of this section for any category (including any class, type, or size within such category) of point sources within the State submitting such program.
+In accordance with guidelines promulgated pursuant to subsection (i)(2) of section 1314 of this title, the Administrator is authorized to waive the requirements of subsection (d) of this section at the time he approves a program pursuant to subsection (b) of this section for anycategory (including any class, type, or size within such category) of point sources within the State submitting such program.
 
 #### (f) Point source categories
 
@@ -266,7 +266,7 @@ Subsec. (e). Pub. L. 95–217, §50, substituted “subsection (i)(2) of section
 
 Subsec. (h). Pub. L. 95–217, §66, substituted “where no State program is approved or where the Administrator determines pursuant to section 1319(a) of this title that a State with an approved program has not commenced appropriate enforcement action with respect to such permit,” for “where no State program is approved,”.
 
-Subsec. (<i>l</i>). Pub. L. 95–217, §33(c), added subsec. (<i>l).</i>
+Subsec. (<i>l</i>). Pub. L. 95–217, §33(c), added subsec. (<i>l</i>).
 
 #### Transfer of Functions
 
@@ -300,7 +300,7 @@ Group applications.—With respect to group applications for permits for dischar
 
 Municipalities With Less Than 100,000
 
-Population.—The Administrator shall not require any municipality with a population of less than 100,000 to apply for or obtain a permit for any stormwater discharge associated with an industrial activity other than an airport, powerplant, or uncontrolled sanitarylandfill owned or operated by such municipality before October 1, 1992, unless such permit is required by section 402(p)(2)(A) or (E) of the Federal Water Pollution Control Act \[33 U.S.C. 1342(p)(2)(A), (E)\].
+Population.—The Administrator shall not require any municipality with a population of less than 100,000 to apply for or obtain a permit for any stormwater discharge associated with an industrial activity other than an airport, powerplant, or uncontrolled sanitary landfill owned or operated by such municipality before October 1, 1992, unless such permit is required by section 402(p)(2)(A) or (E) of the Federal Water Pollution Control Act \[33 U.S.C. 1342(p)(2)(A), (E)\].
 
 “(d)
 
@@ -334,7 +334,7 @@ Limitations on statutory construction.—Nothing in this section \[amending sect
 
 &emsp;“(B) to affect the procedures and standards applicable to the Administrator in issuing permits under section 402(a)(1)(B) of the Federal Water Pollution Control Act \[33 U.S.C. 1342(a)(1)(B)\], and
 
-&emsp;“(C) to affect the authority of any State to deny or condition certification under section 401 of such Act \[33 U.S.C. 1341\] with respect to the issuance of permits under section 402(a)(1)(B) of such Act.”
+&emsp;“(C) to affect the authority of any State to deny or condition certification under section 401 of such Act\[33 U.S.C. 1341\] with respect to the issuance of permits under section 402(a)(1)(B) of such Act.”
 
 #### Log Transfer Facilities
 
@@ -358,5 +358,5 @@ Section 54(c)(2) of Pub. L. 95–217 provided that any State permit program appr
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1251, 1283, 1284, 1285, 1288, 1311, 1314, 1317, 1318, 1319, 1321, 1323, 1328, 1341, 1343, 1344, 1345, 1365, 1369, 1371, 1373, 1377, 2104, 2803 of this title; title 42 sections 6903, 6925, 6939e, 9601.
+This section is referred to in sections 1251, 1283, 1284, 1285, 1288, 1311, 1314, 1317, 1318, 1319, 1321, 1323, 1328, 1341, 1343, 1344, 1345, 1365, 1369, 1371, 1373, 1377, 2104, 2803 of this title; title 42 sections 6903, 6924, 6925, 6939e, 9601.
 

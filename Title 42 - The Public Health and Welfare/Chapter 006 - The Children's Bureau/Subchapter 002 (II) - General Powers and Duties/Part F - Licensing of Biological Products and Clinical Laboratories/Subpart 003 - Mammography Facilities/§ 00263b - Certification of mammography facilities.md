@@ -244,7 +244,7 @@ As used in this section:
 
 &emsp;&emsp;&emsp;(II) be certified as qualified to perform radiological procedures by an organization described in paragraph (2)(A); and
 
-&emsp;&emsp;&emsp;(ii) during the 2-year period beginning October 1, 1994, meet training standards for personnel who perform mammography or meet experience requirements which shall at a minimum include 1 year of experience in the performance of mammography; and
+&emsp;&emsp;&emsp;(ii) during the 2-year period beginning October 1, 1994, meet training standardsfor personnel who perform mammography or meet experience requirements which shall at a minimum include 1 year of experience in the performance of mammography; and
 
 &emsp;&emsp;&emsp;(iii) upon the expiration of such 2-year period meet minimum training standards for personnel who perform mammograms;
 
@@ -384,7 +384,7 @@ As used in this section:
 
 &emsp;&emsp;(C) has failed to comply with reasonable requests of the Secretary for any record, information, report, or material that the Secretary concludes is necessary to determine the continued eligibility of the facility for a certificate or continued compliance with the standards established under subsection (f) of this section;
 
-&emsp;&emsp;(D) has refused a reasonable request of the Secretary, any Federal officer or employeeduly designated by the Secretary, or any State officer or employee duly designated by the State, for permission to inspect the facility or the operations and pertinent records of the facility in accordance with subsection (g) of this section;
+&emsp;&emsp;(D) has refused a reasonable request of the Secretary, any Federal officer or employee duly designated by the Secretary, or any State officer or employee duly designated by the State, for permission to inspect the facility or the operations and pertinent records of the facility in accordance with subsection (g) of this section;
 
 &emsp;&emsp;(E) has violated or aided and abetted in the violation of any provision of, or regulation promulgated under, this section; or
 
@@ -530,7 +530,7 @@ In carrying out this section, the Secretary shall consult with appropriate Feder
 
 #### (A) Grants
 
-&emsp;&emsp;The Secretary shall award grants to such entities as the Secretary may determine to be appropriate to establish surveillance systems in selected geographic areas to provide data to evaluate the functioning and effectiveness of breast cancer screening programs in the United States, including assessments of participation rates in screening mammography, diagnostic procedures, incidence of breast cancer, mode of detection (mammography screening or other methods), outcome and follow up information, and such related epidemiologic analyses that may improve early cancer detection and contribute to reduction in breast cancer mortality. Grantsmay be awarded for further research on breast cancer surveillance systems upon the Secretary's review of the evaluation of the program.
+&emsp;&emsp;The Secretary shall award grants to such entities as the Secretary may determine to be appropriate to establish surveillance systems in selected geographic areas to provide data to evaluate the functioning and effectiveness of breast cancer screening programs in the United States, including assessments of participation rates in screening mammography, diagnostic procedures, incidence of breast cancer, mode of detection (mammography screening or other methods), outcome and follow up information, and such related epidemiologic analyses that may improve early cancer detection and contribute to reduction in breast cancer mortality. Grants may be awarded for further research on breast cancer surveillance systems upon the Secretary's review of the evaluation of the program.
 
 #### (B) Use of funds
 
@@ -618,7 +618,7 @@ In carrying out this section, the Secretary shall consult with appropriate Feder
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall, in accordance with this paragraph assess and collect fees from persons described in subsection (d)(1)(A) ofthis section (other than persons who are governmental entities, as determined by the Secretary) to cover the costs of inspections conducted under subsection (g)(1) of this section by the Secretary or a State acting under a delegation under subparagraph (A) of such subsection. Fees may be assessed and collected under this paragraph only in such manner as would result in an aggregate amount of fees collected during any fiscal year which equals the aggregate amount of costs for such fiscal year for inspections of facilities of such persons under subsection (g)(1) of this section. A person's liability for fees shall be reasonably based on the proportion of the inspection costs which relate to such person.
+&emsp;&emsp;The Secretary shall, in accordance with this paragraph assess and collect fees from persons described in subsection (d)(1)(A) of this section (other than persons who are governmental entities, as determined by the Secretary) to cover the costs of inspections conducted under subsection (g)(1) of this section by the Secretary or a State acting under a delegation under subparagraph (A) of such subsection. Fees may be assessed and collected under this paragraph only in such manner as would result in an aggregate amount of fees collected during any fiscal year which equals the aggregate amount of costs for such fiscal year for inspections of facilities of such persons under subsection (g)(1) of this section. A person's liability for fees shall be reasonably based on the proportion of the inspection costs which relate to such person.
 
 #### (B) Deposit and appropriations
 
@@ -670,5 +670,5 @@ Section 3 of Pub. L. 102–539 directed Comptroller General of United States to 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1395m, 1395x of this title.
+This section is referred to in sections 1395m, 1395x of this title; title 38 section 7319.
 

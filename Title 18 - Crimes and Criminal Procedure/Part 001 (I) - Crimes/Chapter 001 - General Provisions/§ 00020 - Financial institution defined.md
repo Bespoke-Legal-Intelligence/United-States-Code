@@ -1,4 +1,4 @@
-### §20 . Financial institution defined
+### §20. Financial institution defined
 
 As used in this title, the term “financial institution” means—
 

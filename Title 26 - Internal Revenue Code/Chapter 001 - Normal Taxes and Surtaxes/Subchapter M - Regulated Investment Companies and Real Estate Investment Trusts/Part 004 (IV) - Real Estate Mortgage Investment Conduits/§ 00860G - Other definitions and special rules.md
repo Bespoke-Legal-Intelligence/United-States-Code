@@ -32,9 +32,11 @@ For purposes of this part—
 
 &emsp;&emsp;&emsp;(ii) is purchased by the REMIC within the 3-month period beginning on the startup day if, except as provided in regulations, such purchase is pursuant to a fixed-price contract in effect on the startup day,
 
-&emsp;&emsp;(B) any qualified replacement mortgage, and
+&emsp;&emsp;(B) any qualified replacement mortgage,
 
-&emsp;&emsp;(C) any regular interest in another REMIC transferred to the REMIC on the startup day in exchange for regular or residual interests in the REMIC.
+&emsp;&emsp;(C) any regular interest in another REMIC transferred to the REMIC on the startup day in exchange for regular or residual interests in the REMIC, and
+
+&emsp;&emsp;(D) any regular interest in a FASIT which is transferred to, or purchased by, the REMIC as described in clauses (i) and (ii) of subparagraph (A) but only if 95 percent or more of the value of the assets of suchFASIT is at all times attributable to obligations described in subparagraph (A) (without regard to such clauses).
 
 > &emsp;For purposes of subparagraph (A), any obligation secured by stock held by a person as a tenant-stockholder (as defined in section 216) in a cooperative housing corporation (as so defined) shall be treated as secured by an interest in real property.
 
@@ -150,9 +152,11 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 &emsp;(5) providing that a mortgage will be treated as a qualified replacement mortgage only if it is part of a bona fide replacement (and not part of a swap of mortgages).
 
-(Added Pub. L. 99–514, title VI, §671(a), Oct. 22, 1986, 100 Stat. 2315; amended Pub. L. 100–647, title I, §1006(t)(5)(A)–(E), (6)–(8)(B), (9)(A), (10), Nov. 10, 1988, 102 Stat. 3420–3422; Pub. L. 101–239, title VII, §7811(c)(9), Dec. 19, 1989, 103 Stat. 2408; Pub. L. 101–508, title XI, §11704(a)(9), Nov. 5, 1990, 104 Stat. 1388–518.)
+(Added Pub. L. 99–514, title VI, §671(a), Oct. 22, 1986, 100 Stat. 2315; amended Pub. L. 100–647, title I, §1006(t)(5)(A)–(E), (6)–(8)(B), (9)(A), (10), Nov. 10, 1988, 102 Stat. 3420–3422; Pub. L. 101–239, title VII, §7811(c)(9), Dec. 19, 1989, 103 Stat. 2408; Pub. L. 101–508, title XI, §11704(a)(9), Nov. 5, 1990, 104 Stat. 1388–518; Pub. L. 104–188, title I, §1621(b)(6), Aug. 20, 1996, 110 Stat. 1867.)
 
 #### Amendments
+
+1996—Subsec. (a)(3)(D). Pub. L. 104–188 added subpar. (D).
 
 1990—Subsec. (a)(3)(A). Pub. L. 101–508 struck out comma after “secured” in introductory provisions.
 
@@ -196,9 +200,13 @@ Subsec. (e). Pub. L. 100–647, §1006(t)(9)(A), redesignated former subsec. (d)
 
 Subsec. (e)(4), (5). Pub. L. 100–647, §1006(t)(10), added pars. (4) and (5).
 
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–188 effective Sept. 1, 1997, see section 1621(d) of Pub. L. 104–188, set out as a note under section 26 of this title.
+
 #### Effective Date of 1989 Amendment
 
-Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, seesection 7817 of Pub. L. 101–239, set out as a note under section 1 of this title.
+Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Technical and Miscellaneous Revenue Act of 1988,Pub. L. 100–647, to which such amendment relates, see section 7817 of Pub. L. 101–239, set out as a note under section 1 of this title.
 
 #### Effective Date of 1988 Amendment
 
@@ -210,5 +218,5 @@ Amendment by section 1006(t)(6)–(8)(B), (10) of Pub. L. 100–647 effective, e
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 860C of this title.
+This section is referred to in sections 860C, 860L of this title.
 

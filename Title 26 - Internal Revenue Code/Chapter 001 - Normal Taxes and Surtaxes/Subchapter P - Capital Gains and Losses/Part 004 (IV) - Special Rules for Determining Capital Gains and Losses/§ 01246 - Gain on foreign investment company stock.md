@@ -48,7 +48,7 @@ For purposes of this section, the term “foreign investment company” means an
 
 #### (c) Stock having transferred or substituted basis
 
-To the extent provided in regulations prescribed by the Secretary, stock in a foreign corporation, the basis of which (in the hands of the taxpayer selling or exchanging such stock) is determined by reference to the basis (in the hands of such taxpayer or any other person) of stock in a foreign investment company, shall be treated as stock of a foreign investment company and held by the taxpayer throughout the holding period for such stock (determined under section 1223).
+To the extent provided in regulations prescribed by the Secretary, stock in a foreign corporation, the basis of which (in the hands of the taxpayer selling or exchanging such stock) is determined by reference to the basis (in the hands of such taxpayer or any other person) of stock in a foreign investment company, shall be treatedas stock of a foreign investment company and held by the taxpayer throughout the holding period for such stock (determined under section 1223).
 
 #### (d) Rules relating to entities holding foreign investment company stock
 
@@ -68,7 +68,7 @@ To the extent provided in regulations prescribed by the Secretary—
 
 #### (2) Deduction for estate tax
 
-&emsp;If stock to which subsection (a) applies is acquired from a decedent, the taxpayer shall, under regulations prescribed by the Secretary or his delegate, be allowed (for the taxable year of the sale or exchange) a deduction from gross income equal to that portion of the decedent's estate tax deemed paid which is attributable to the excess of (A) the value at whichsuch stock was taken into account for purposes of determining the value of the decedent's gross estate, over (B) the value at which it would have been so taken into account if such value had been reduced by the amount described in paragraph (1).
+&emsp;If stock to which subsection (a) applies is acquired from a decedent, the taxpayer shall, under regulations prescribed by the Secretary or his delegate, be allowed (for the taxable year of the sale or exchange) a deduction from gross income equal to that portion of the decedent's estate tax deemed paid which is attributable to the excess of (A) the value at which such stock was taken into account for purposes of determining the value of the decedent's gross estate, over (B) the value at which it would have been so taken into account if such value had been reduced by the amount described in paragraph (1).
 
 #### (f) Information with respect to certain foreign investment companies
 
@@ -80,7 +80,7 @@ This section shall not apply to any gain to the extent such gain is treated as o
 
 #### (h) Cross reference
 
-&emsp;&emsp;<b>For special rules relating to the earnings and profits of foreign investment companies, see section 312(</b><b><i>l).</i></b>
+&emsp;&emsp;<b>For special rules relating to the earnings and profits of foreign investment companies, see section 312(</b><b><i>l</i></b>).
 
 (Added Pub. L. 87–834, §14(a)(1), Oct. 16, 1962, 76 Stat. 1036; amended Pub. L. 94–455, title XIV, §1402(b)(1)(W), (2), title XIX, §§1901(a)(141), (b)(3)(I), (32)(B)(ii), 1906(b)(13)(A), title XX, §2005(a)(5), Oct. 4, 1976, 90 Stat. 1732, 1787, 1793, 1800, 1834, 1877; Pub. L. 96–223, title IV, §401(a), Apr. 2, 1980, 94 Stat. 299; Pub. L. 97–34, title VIII, §832(a), Aug. 13, 1981, 95 Stat. 355; Pub. L. 98–369, div. A, title I, §134(a), title X, §1001(b)(20), (e), July 18, 1984, 98 Stat. 668, 1012; Pub. L. 99–514, title XII, §1235(b), Oct. 22, 1986, 100 Stat. 2574; Pub. L. 100–647, title I, §§1012(p)(21), 1018(<i>o</i>)(2), Nov. 10, 1988, 102 Stat. 3519, 3585.)
 
@@ -148,7 +148,7 @@ Section 832(b) of Pub. L. 97–34 provided that: “The amendment made by subsec
 
 #### Effective Date of 1980 Amendment and Revival of Prior Law
 
-Amendment by Pub. L. 96–223 (repealing section 2005(a)(5) of Pub. L. 94–455 and the amendments madethereby, which had amended this section) applicable in respect of decedents dying after Dec. 31, 1976, and except for certain elections, this title to be applied and administered as if those repealed provisions had not been enacted, see section 401(b), (e) of Pub. L. 96–223, set out as a note under section 1023 of this title.
+Amendment by Pub. L. 96–223 (repealing section 2005(a)(5) of Pub. L. 94–455 and the amendments made thereby, which had amended this section) applicable in respect of decedents dying after Dec. 31, 1976, and except for certain elections, this title to be applied and administered as if those repealed provisions had not been enacted, see section 401(b), (e) of Pub. L. 96–223, set out as a note under section 1023 of this title.
 
 #### Effective Date of 1976 Amendment
 

@@ -62,5 +62,5 @@ Other terms relating to capital losses, see section 1222 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 165, 221, 691, 1212, 1222, 1231 of this title.
+This section is referred to in sections 32, 165, 221, 641, 691, 1212, 1222, 1231 of this title.
 

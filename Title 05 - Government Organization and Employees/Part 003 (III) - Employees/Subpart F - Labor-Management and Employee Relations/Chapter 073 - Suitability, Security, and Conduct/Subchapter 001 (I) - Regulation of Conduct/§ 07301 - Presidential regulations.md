@@ -10,7 +10,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 5 U.S.C. 631 (last 16 words).
 
@@ -22,7 +24,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Short Title of 1993 Amendment
 
-Pub. L. 103–94, §1, Oct. 6, 1993, 107 Stat. 1001, provided: “That this Act \[enacting sections 5520a and 7321 to 7326 of this title and section 610 of Title 18, Crimes and Criminal Procedure, amending sections 1216, 2302, 3302 and 3303 of this title, sections 602 and 603 of Title 18, section 410 of Title 39, Postal Service, and sections 1973d and 9904 of Title 42, The Public Health and Welfare, omitting former sections 7321 to 7328 of this title, and enacting provisions set out as notes under section 7321 of this title and section 410 of Title 39\] may be cited as the ‘Hatch Act Reform Amendments of 1993’.”
+Pub. L. 103–94, §1, Oct. 6, 1993, 107 Stat. 1001, provided: “That this Act \[enacting sections 5520a and 7321 to 7326 of this title and section 610 of Title 18, Crimes and Criminal Procedure, amending sections 1216, 2302, 3302 and 3303 of this title, sections 602 and 603 of Title 18, section 410 of Title 39, Postal Service, and sections1973d and 9904 of Title 42, The Public Health and Welfare, omitting former sections 7321 to 7328 of this title, and enacting provisions set out as notes under section 7321 of this title and section 410 of Title 39\] may be cited as the ‘Hatch Act Reform Amendments of 1993’.”
 
 #### Short Title of 1986 Amendment
 
@@ -34,9 +36,11 @@ For assignment of certain emergency preparedness functions to the Director of th
 
 #### Annual Certification of Drug-Free Workplace Plan Administrators
 
-Pub. L. 104–52, title VI, §624, Nov. 19, 1995, 109 Stat. 502, provided that: “Notwithstanding any provision of law, the President, or his designee, must certify to Congress, annually, that no person or persons with direct or indirect responsibility for administering the Executive Office of the President's Drug-Free Workplace Plan are themselves subject to a program of individual random drug testing.”
+Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §623\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–358, provided that: “Notwithstanding any provision of law, the President, or his designee, must certify to Congress, annually, that no person or persons with direct or indirect responsibility for administering the Executive Office of the President's Drug-Free Workplace Plan are themselves subject to a program of individual random drug testing.”
 
-Similar provisions were contained in the following prior appropriations act:
+Similar provisions were contained in the following prior appropriations acts:
+
+Pub. L. 104–52, title VI, §624, Nov. 19, 1995, 109 Stat. 502.
 
 Pub. L. 103–329, title VI, §638, Sept. 30, 1994, 108 Stat. 2432.
 
@@ -48,55 +52,9 @@ Pursuant to the provisions of section 4 of Executive Order 11491 \[set out as a 
 
 Richard Nixon.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Code of Ethics for Government Service
-
-House Concurrent Resolution No. 175, July 11, 1958, 72 Stat. B12, provided for a Code of Ethics for all Government employees, including officeholders. See Pub. L. 96–303, set out below.
-
 #### Display in Federal Buildings of Code of Ethics for Government Service
 
-Pub. L. 96–303, July 3, 1980, 94 Stat. 855, provided: “That, under such regulations as the Administrator shall prescribe, each agency shall display in appropriate areas of Federal buildings copies of the Code of Ethics for Government Service.
-
-“Sec. 2. (a) The Administrator shall provide for the publication of copies of such Code of Ethics and for their distribution to agencies for use under the first section of this Act.
-
-“(b) The Administrator may accept on behalf of the United States any unconditional gift made for purposes of this Act.
-
-“Sec. 3. For purposes of this Act—
-
-&emsp;“(1) the term ‘agency’ means an Executive agency (as defined by section 105 of title 5, United States Code), the United States Postal Service, and the Postal Rate Commission;
-
-&emsp;“(2) the term ‘Administrator’ means the Administrator of the General Services Administration;
-
-&emsp;“(3) the Code of Ethics for Government Service shall read as follows—
-
-#### “Code of Ethics for Government Service
-
-&emsp;“Any person in Government service should:
-
-&emsp;&emsp;“I. Put loyalty to the highest moral principles and to country above loyalty to persons, party, or Government department.
-
-&emsp;&emsp;“II. Uphold the Constitution, laws, and regulations of the United States and of all governments therein and never be a party to their evasion.
-
-&emsp;&emsp;“III. Give a full day's labor for a full day's pay; giving earnest effort and best thought to the performance of duties.
-
-&emsp;&emsp;“IV. Seek to find and employ more efficient and economical ways of getting tasks accomplished.
-
-&emsp;&emsp;“V. Never discriminate unfairly by the dispensing of special favors or privileges to anyone, whether for remuneration or not; and never accept, for himself or herself or for family members, favors or benefits under circumstances which might be construed by reasonable persons as influencing the performance of governmental duties.
-
-&emsp;&emsp;“VI. Make no private promises of any kind binding upon the duties of office, since a Government employee has no private word which can be binding on public duty.
-
-&emsp;&emsp;“VII. Engage in no business with the Government, either directly or indirectly, which is inconsistent with the conscientious performance of governmental duties.
-
-&emsp;&emsp;“VIII. Never use any information gained confidentially in the performance of governmental duties as a means of making a private profit.
-
-&emsp;&emsp;“IX. Expose corruption wherever discovered.
-
-&emsp;&emsp;“X. Uphold these principles, ever conscious that public office is a public trust.
-
-> &emsp;Your agency ethics official and the Office of Government Ethics are available to answer questions on conflicts of interest; and
-
-&emsp;“(4) the term ‘Federal building’ means any building in which at least 20 individuals are regularly employed by an agency as civilian employees.
-
-“Sec. 4. The provisions of this Act shall take effect October 1, 1980. There shall be no costs imposed on the Federal Government for the printing, framing or other preparation of the Code of Ethics for Government Service under this Act.”
+Pub. L. 96–303, July 3, 1980, 94 Stat. 855, which provided that each agency, under regulations prescribed by Administrator of General Services Administration, display in appropriate areas of Federal buildings copies of the Code of Ethics for Government Service, authorized publication and distribution of such Code, and set forth text of the Code of Ethics for Government Service, was repealed by Pub. L. 104–179, §4(a), Aug. 6, 1996, 110 Stat. 1566.
 
 #### Agency Acceptance of Donations for Federal Employees
 
@@ -230,7 +188,7 @@ Drug use is having serious adverse effects upon a significant proportion of the 
 
 The Federal government, as an employer, is concerned with the well-being of its employees, the successful accomplishment of agency missions, and the need to maintain employee productivity;
 
-The Federal government, as the largest employer in the Nation, can and should show the way towards achieving drug-free workplaces through a program designed to offer drug users a helping hand and, at the same time, demonstrating to drug users and potential drug users that drugs will not be tolerated in the Federal workplace;
+The Federal government, as the largest employer in the Nation, can and should show the way towards achieving drug-free workplaces through a program designed to offer drug users a helping hand and, at thesame time, demonstrating to drug users and potential drug users that drugs will not be tolerated in the Federal workplace;
 
 The profits from illegal drugs provide the single greatest source of income for organized crime, fuel violent street crime, and otherwise contribute to the breakdown of our society;
 
@@ -372,7 +330,7 @@ Section 101. <i>Principles of Ethical Conduct</i>. To ensure that every citizen 
 
 (c) Employees shall not engage in financial transactions using nonpublic Government information or allow the improper use of such information to further any private interest.
 
-(d) An employee shall not, except pursuant to such reasonable exceptions as are provided by regulation, solicit or accept any gift or other item of monetary value from any person or entity seeking official action from, doing business with, or conducting activities regulated by the employee's agency, or whose interests may be substantially affected by the performance or nonperformance of the employee's duties.
+(d) An employee shall not, except pursuant to such reasonable exceptions as are provided by regulation, solicit or accept any gift or other item of monetary value from any person or entity seeking official action from,doing business with, or conducting activities regulated by the employee's agency, or whose interests may be substantially affected by the performance or nonperformance of the employee's duties.
 
 (e) Employees shall put forth honest effort in the performance of their duties.
 
@@ -518,7 +476,7 @@ Section 1. <i>Ethics Pledges</i>. (a) Every senior appointee in every executive 
 
 “4. I will not, within five years after termination of my personal and substantial participation in a trade negotiation, represent, aid or advise any foreign government, foreign political party or foreign business entity with the intent to influence a decision of any officer or employee of any executive agency, in carrying out his or her official duties.
 
-“5. I acknowledge that the Executive order entitled ‘Ethics Commitments by Executive Branch Appointees,’ issued by the President on January 20, 1993, which I have read before signing this document, defines certain of the terms applicable to the foregoing obligations and sets forth the methods for enforcing them. I expressly accept the provisions of that Executive order as a part of this agreement and as binding on me. I understand that the terms of this pledge are in addition to any statutory or other legal restrictions applicable to me by virtue of Federal Government service.”
+“5. I acknowledge that the Executive order entitled ‘Ethics Commitments by Executive Branch Appointees,’ issued by the President on January 20, 1993,which I have read before signing this document, defines certain of the terms applicable to the foregoing obligations and sets forth the methods for enforcing them. I expressly accept the provisions of that Executive order as a part of this agreement and as binding on me. I understand that the terms of this pledge are in addition to any statutory or other legal restrictions applicable to me by virtue of Federal Government service.”
 
 (b) Every trade negotiator who is not a senior appointee and is appointed to a position in an executive agency on or after January 20, 1993, shall (prior to personally and substantially participating in a trade negotiation) sign, and upon signing be contractually committed to, the following pledge (“trade negotiator pledge”):
 
@@ -576,7 +534,7 @@ Sec. 2. <i>Definitions</i>. As used herein and in the pledges:
 
 (m) “Foreign business entity” means a partnership, association, corporation, organization or other combination of persons organized under the laws of or having its principal place of business in a foreign country.
 
-(n) Terms that are used herein and in the pledges, and also used in section 207 of title 18, United States Code, shall be given the same meaning as they have in section 207 and any implementing regulations issued or to be issued by the Office of Government Ethics, except to the extent those terms are otherwise defined in this order.
+(n) Terms that are used herein and in the pledges, and also used in section 207 of title 18, United States Code,shall be given the same meaning as they have in section 207 and any implementing regulations issued or to be issued by the Office of Government Ethics, except to the extent those terms are otherwise defined in this order.
 
 Sec. 3. <i>Waiver</i>. (a) The President may grant to any person a waiver of any restrictions contained in the pledge signed by such person if, and to the extent that, the President certifies in writing that it is in the public interest to grant the waiver.
 
@@ -600,7 +558,7 @@ Sec. 4. <i>Administration</i>. (a) The head of every executive agency shall esta
 
 (c) The Director of the Office of Government Ethics shall:
 
-(1) subject to the prior approval of the White House Counsel, develop a form of the pledges to be completed by senior appointees and trade negotiators and see thatthe pledges and a copy of this Executive order are made available for use by agencies in fulfilling their duties under section 4(a) above;
+(1) subject to the prior approval of the White House Counsel, develop a form of the pledges to be completed by senior appointees and trade negotiators and see that the pledges and a copy of this Executive order are made available for use by agencies in fulfilling their duties under section 4(a) above;
 
 (2) in consultation with the Attorney General or White House Counsel, when appropriate, assist designated agency ethics officers in providing advice to current or former senior appointees and trade negotiators regarding the application of the pledges; and
 

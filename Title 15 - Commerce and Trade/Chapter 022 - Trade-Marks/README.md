@@ -89,7 +89,10 @@
 | (b) | Transfer of certified copies of court papers. |
 | (c) | Notice to Commissioner. |
 | (d) | Civil actions arising out of use of counterfeit marks. |
-| [1117\.](Subchapter%20003%20%28III%29%20-%20General%20Provisions/%C2%A7%2001117%20-%20Recovery%20for%20violation%20of%20rights%3B%20profits%2C%20damages%20and%20costs%3B%20attorney%20fees%3B%20treble%20damages.md) | Recovery for violation of rights; profits, damages and costs; attorney fees; treble damages. |
+| [1117\.](Subchapter%20003%20%28III%29%20-%20General%20Provisions/%C2%A7%2001117%20-%20Recovery%20for%20violation%20of%20rights.md) | Recovery for violation of rights. |
+| (a) | Profits; damages and costs; attorney fees. |
+| (b) | Treble damages for use of counterfeit mark. |
+| (c) | Election of award of statutory damages. |
 | [1118\.](Subchapter%20003%20%28III%29%20-%20General%20Provisions/%C2%A7%2001118%20-%20Destruction%20of%20infringing%20articles.md) | Destruction of infringing articles. |
 | [1119\.](Subchapter%20003%20%28III%29%20-%20General%20Provisions/%C2%A7%2001119%20-%20Power%20of%20court%20over%20registration.md) | Power of court over registration. |
 | [1120\.](Subchapter%20003%20%28III%29%20-%20General%20Provisions/%C2%A7%2001120%20-%20Civil%20liability%20for%20false%20or%20fraudulent%20registration.md) | Civil liability for false or fraudulent registration. |
@@ -128,7 +131,7 @@ The Trade-Mark Act of 1905 superseded the Trade-Mark Act of Mar. 3, 1881, ch. 13
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in title 18 section 2320; title 19 section 1337; title 36 section 380; title 48 section 1643.
+This chapter is referred to in title 18 section 2320; title 19 section 1337; title 22 section 2141c; title 36 section 380; title 48 section 1643.
 
 
 ---

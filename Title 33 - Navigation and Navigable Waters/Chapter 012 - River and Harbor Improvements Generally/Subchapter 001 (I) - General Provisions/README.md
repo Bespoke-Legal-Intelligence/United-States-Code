@@ -68,6 +68,7 @@
 - [&sect; 00575 - Availability of appropriations for expenses incident to operation of power boats or vessels; expenses defined; certification of&#8230;](%C2%A7%2000575%20-%20Availability%20of%20appropriations%20for%20expenses%20incident%20to%20operation%20of%20power%20boats%20or%20vessels%3B%20expenses%20defined%3B%20certification%20of%E2%80%A6.md)
 - [&sect; 00576 - Revolving fund; establishment; availability; reimbursement; transfer of funds; limitation](%C2%A7%2000576%20-%20Revolving%20fund%3B%20establishment%3B%20availability%3B%20reimbursement%3B%20transfer%20of%20funds%3B%20limitation.md)
 - [&sect; 00576a - Purchase of passenger motor vehicles by Corps of Engineers](%C2%A7%2000576a%20-%20Purchase%20of%20passenger%20motor%20vehicles%20by%20Corps%20of%20Engineers.md)
+- [&sect; 00576b - Lease authority](%C2%A7%2000576b%20-%20Lease%20authority.md)
 - [&sect; 00577 - Small river and harbor improvement projects](%C2%A7%2000577%20-%20Small%20river%20and%20harbor%20improvement%20projects.md)
 - [&sect; 00577a - Small-boat navigation projects; charter fishing craft](%C2%A7%2000577a%20-%20Small-boat%20navigation%20projects%3B%20charter%20fishing%20craft.md)
 - [&sect; 00577b - Cost of operation and maintenance of general navigation features of small boat harbor projects; applicable projects](%C2%A7%2000577b%20-%20Cost%20of%20operation%20and%20maintenance%20of%20general%20navigation%20features%20of%20small%20boat%20harbor%20projects%3B%20applicable%20projects.md)

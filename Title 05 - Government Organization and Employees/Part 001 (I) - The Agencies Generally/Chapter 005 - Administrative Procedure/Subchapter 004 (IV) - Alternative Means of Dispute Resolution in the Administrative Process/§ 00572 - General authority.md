@@ -6,7 +6,7 @@
 
 &emsp;(1) a definitive or authoritative resolution of the matter is required for precedential value, and such a proceeding is not likely to be accepted generally as an authoritative precedent;
 
-&emsp;(2) the matter involves or may bear upon significant questions of Government policy that require additional procedures before a final resolution may be made, and such a proceeding would not likely serve to develop a recommended policy for the agency;
+&emsp;(2) the matter involves or may bear upon significant questions of Government policythat require additional procedures before a final resolution may be made, and such a proceeding would not likely serve to develop a recommended policy for the agency;
 
 &emsp;(3) maintaining established policies is of special importance, so that variations among individual decisions are not increased and such a proceeding would not likely reach consistent results among individual decisions;
 
@@ -30,13 +30,9 @@ A prior section 572 was renumbered section 592 of this title.
 
 #### Amendments
 
-<b>1992</b>—Pub. L. 102–354 renumbered section 582 of this title as this section.
-
-#### Termination Date; Savings Provision
-
-For termination of authority under this section, see section 11 of Pub. L. 101–552, set out as a note under section 571 of this title.
+1992—Pub. L. 102–354 renumbered section 582 of this title as this section.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 9 section 10; title 41 section 605.
+This section is referred to in section 575 of this title; title 9 section 10; title 41 section 605.
 

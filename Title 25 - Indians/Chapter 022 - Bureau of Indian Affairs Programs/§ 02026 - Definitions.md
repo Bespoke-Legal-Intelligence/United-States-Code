@@ -34,7 +34,7 @@ For the purpose of this chapter, unless otherwise specified—
 
 &emsp;(13) the term “supervisor” means the individual in the position of ultimate authority at a Bureau school; and
 
-&emsp;(14) the term “tribe” means any Indian tribe, band, nation, or other organized group or community, including any Alaska Native village or regional or village corporation asdefined in or established pursuant to the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\] which is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians.
+&emsp;(14) the term “tribe” means any Indian tribe, band, nation, or other organized group or community, including any Alaska Native village or regional or village corporation as defined in or established pursuant to the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\] which is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians.
 
 (Pub. L. 95–561, title XI, §1146, as added Pub. L. 103–382, title III, §381, Oct. 20, 1994, 108 Stat. 4015.)
 

@@ -10,7 +10,7 @@ This section shall apply only to a forward-looking statement made by—
 
 &emsp;(3) an outside reviewer retained by such issuer making a statement on behalf of such issuer; or
 
-&emsp;(4) an underwriter, with respect to information provided by such issuer or information derived from information provided by the issuer.
+&emsp;(4) an underwriter, with respect to information provided by such issuer or informationderived from information provided by the issuer.
 
 #### (b) Exclusions
 
@@ -166,7 +166,7 @@ For purposes of this section, the following definitions shall apply:
 
 #### (7) Other terms
 
-&emsp;The terms “blank check company”, “rollup transaction”, “partnership”, “limited liabilitycompany”, “executive officer of an entity” and “direct participation investment program”, have the meanings given those terms by rule or regulation of the Commission.
+&emsp;The terms “blank check company”, “rollup transaction”, “partnership”, “limited liability company”, “executive officer of an entity” and “direct participation investment program”, have the meanings given those terms by rule or regulation of the Commission.
 
 (May 27, 1933, ch. 38, title I, §27A, as added Dec. 22, 1995, Pub. L. 104–67, title I, §102(a), 109 Stat. 749.)
 

@@ -18,7 +18,7 @@ Each local educational agency that receives funds under this part for any fiscal
 
 #### (1) In general
 
-&emsp;Each local educational agency and school that receives funds under this part shall use such funds for activities that give teachers and administrators the knowledge and skills to provide students with the opportunity to meet challenging State or local content standards and student performance standards.
+&emsp;Each local educational agency and school that receives funds under this part shall usesuch funds for activities that give teachers and administrators the knowledge and skills to provide students with the opportunity to meet challenging State or local content standards and student performance standards.
 
 #### (2) Professional development activities
 

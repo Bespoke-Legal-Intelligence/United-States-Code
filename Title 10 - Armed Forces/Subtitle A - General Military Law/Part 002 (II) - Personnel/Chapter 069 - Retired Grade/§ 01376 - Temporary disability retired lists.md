@@ -16,6 +16,12 @@ Act
 
 1376(a)
 
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 1376(b)
 
 50:927(a) (less 1st 11 words).
@@ -32,7 +38,7 @@ In subsection (a), the word “maintained” is substituted for the word “esta
 
 In subsection (a), the words “who are in the Retired Reserve” are substituted for 50:927(a) (last 11 words), since section 271 of this title prescribes the conditions for being placed in the Retired Reserve. 50:927(b) (last sentence) is omitted, since the revised section provides that both lists be maintained.
 
-In subsection (b), the words “containing the names placed thereon under section 1202 or 1205 of this title”are substituted for the words “upon which shall be placed the names of all members of his service entitled to such placement pursuant to the provisions of this subchapter”.
+In subsection (b), the words “containing the names placed thereon under section 1202 or 1205 of this title” are substituted for the words “upon which shall be placed the names of all members of his service entitled to such placement pursuant to the provisions of this subchapter”.
 
 1958
 
@@ -62,5 +68,5 @@ Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provi
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1431 of this title; title 33 section 857a; title 42 section 213a.
+This section is referred to in title 33 section 857a; title 42 section 213a.
 

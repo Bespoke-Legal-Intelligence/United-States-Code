@@ -72,7 +72,7 @@
 
 #### (A) IRS funding
 
-&emsp;To the extent that appropriations are enacted that provide additional new budget authority or result in additional outlays (as compared with the CBO baseline constructed in June 1990) for the Internal Revenue Service compliance initiative in any fiscal year, the adjustments for that year shall be those amounts, but shall not exceed the amounts set forth below—
+&emsp;To the extent that appropriations are enacted that provide additional new budget authority or result in additional outlays (as compared with the CBO baseline constructed in June 1990) for the Internal Revenue Service compliance initiative in any fiscal year, the adjustments for that year shall be thoseamounts, but shall not exceed the amounts set forth below—
 
 &emsp;&emsp;(i) for fiscal year 1991, $191,000,000 in new budget authority and $183,000,000 in outlays;
 
@@ -96,7 +96,7 @@
 
 #### (D) Emergency appropriations
 
-&emsp;(i) If, for any fiscal year, appropriations for discretionary accounts are enacted that the President designates as emergency requirements and that the Congress so designates instatute, the adjustment shall be the total of such appropriations in discretionary accounts designated as emergency requirements and the outlays flowing in all years from such appropriations. This subparagraph shall not apply to appropriations to cover agricultural crop disaster assistance.
+&emsp;(i) If, for any fiscal year, appropriations for discretionary accounts are enacted that the President designates as emergency requirements and that the Congress so designates in statute, the adjustment shall be the total of such appropriations in discretionary accounts designated as emergency requirements and the outlays flowing in all years from such appropriations. This subparagraph shall not apply to appropriations to cover agricultural crop disaster assistance.
 
 &emsp;(ii) The costs for operation Desert Shield are to be treated as emergency funding requirements not subject to the defense spending limits. Funding for Desert Shield will be provided through the normal legislative process. Desert Shield costs should be accommodated through Allied burden-sharing, subsequent appropriation Acts, and if the President so chooses, through offsets within other defense accounts. Emergency Desert Shield costs mean those incremental costs associated with the increase in operations in the Middle East and do not include costs that would be experienced by the Department of Defense as part of its normal operations absent Operation Desert Shield.
 
@@ -116,9 +116,35 @@
 
 #### (G) Net guarantee costs
 
-&emsp;The net costs for fiscal year <sup>3</sup> 1994 and 1995 of the appropriation made under section 2186 of title 22 are not subject to the discretionary spending limits or the Appropriations Committee's Foreign Operations Subcommittee's \[section\] 602(b) \[2 U.S.C. 665a(b)\] allocation in fiscal year <sup>3</sup> 1994 and 1995.
+&emsp;The net costs for fiscal years 1994, 1995, and 1997 of the appropriation made under section 2186 of title 22 are not subject to the discretionary spending limits or the Appropriations Committee's Foreign Operations Subcommittee's \[section\] 602(b) \[2 U.S.C. 665a(b)\] allocation in fiscal years 1994, 1995, and 1997.
 
-(Pub. L. 99–177, title II, §251, Dec. 12, 1985, 99 Stat. 1063; Pub. L. 100–119, title I, §102(a), Sept. 29, 1987, 101 Stat. 754; Pub. L. 100–203, title VIII, §8003(f), Dec. 22, 1987, 101 Stat. 1330–282; Pub. L. 101–508, title XIII, §13101(a), (e)(2), Nov. 5, 1990, 104 Stat. 1388–577, 1388–593; Pub. L. 103–66, title XIV, §14002(c)(1), Aug. 10, 1993, 107 Stat. 683; Pub. L. 103–87, title V, §571, Sept. 30, 1993, 107 Stat. 971; Pub. L. 103–306, title V, §562, Aug. 23, 1994, 108 Stat. 1649; Pub. L. 103–354, title I, §119(d)(1), Oct. 13, 1994, 108 Stat. 3208.)
+#### (H) Continuing disability reviews
+
+&emsp;(i) Whenever a bill or joint resolution making appropriations for fiscal year 1996, 1997, 1998, 1999, 2000, 2001, or 2002 is enacted that specifies an amount for continuing disability reviews under the heading “Limitation on Administrative Expenses” for the Social Security Administration, the adjustments for that fiscal year shall be the additional new budget authority provided in that Act for such reviews for that fiscal year and the additional outlays flowing from such amounts, but shall not exceed—
+
+&emsp;&emsp;(I) for fiscal year 1996, $15,000,000 in additional new budget authority and $60,000,000 in additional outlays;
+
+&emsp;&emsp;(II) for fiscal year 1997, $175,000,000 in additional new budget authority and $310,000,000 in additional outlays;
+
+&emsp;&emsp;(III) for fiscal year 1998, $245,000,000 in additional new budget authority and $470,000,000 in additional outlays;
+
+&emsp;&emsp;(IV) for fiscal year 1999, $280,000,000 in additional new budget authority and $520,000,000 in additional outlays;
+
+&emsp;&emsp;(V) for fiscal year 2000, $317,500,000 in additional new budget authority and $520,000,000 in additional outlays;
+
+&emsp;&emsp;(VI) for fiscal year 2001, $317,500,000 in additional new budget authority and $520,000,000 in additional outlays; and
+
+&emsp;&emsp;(VII) for fiscal year 2002, $317,500,000 in additional new budget authority and $520,000,000 in additional outlays.
+
+&emsp;(ii) As used in this subparagraph—
+
+&emsp;&emsp;(I) the term “continuing disability reviews” means reviews or redeterminations as defined under section 401(g)(1)(A) of title 42 and reviews and redeterminations authorized under section 211 of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996;
+
+&emsp;&emsp;(II) the term “additional new budget authority” means new budget authority provided for a fiscal year, in excess of $100,000,000, for the Supplemental Security Income program and specified to pay for the costs of continuing disability reviews attributable to the Supplemental Security Income program; and
+
+&emsp;&emsp;(III) the term “additional outlays” means outlays, in excess of $200,000,000 in a fiscal year, flowing from the amounts specified for continuing disability reviews under the heading “Limitation on Administrative Expenses” for the Social Security Administration, including outlays in that fiscal year flowing from amounts specified in Acts enacted for prior fiscal years (but not before 1996).
+
+(Pub. L. 99–177, title II, §251, Dec. 12, 1985, 99 Stat. 1063; Pub. L. 100–119, title I, §102(a), Sept. 29, 1987, 101 Stat. 754; Pub. L. 100–203, title VIII, §8003(f), Dec. 22, 1987, 101 Stat. 1330–282; Pub. L. 101–508, title XIII, §13101(a), (e)(2), Nov. 5, 1990, 104 Stat. 1388–577, 1388–593; Pub. L. 103–66, title XIV, §14002(c)(1), Aug. 10, 1993, 107 Stat. 683; Pub. L. 103–87, title V, §571, Sept. 30, 1993, 107 Stat. 971; Pub. L. 103–306, title V, §562, Aug. 23, 1994, 108 Stat. 1649; Pub. L. 103–354, title I, §119(d)(1), Oct. 13, 1994, 108 Stat. 3208; Pub. L. 104–121, title I, §103(b), Mar. 29, 1996, 110 Stat. 848; Pub. L. 104–193, title II, §211(d)(5)(B), Aug. 22, 1996, 110 Stat. 2191; Pub. L. 104–208, div. A, title I, §101(c) \[title V, §577\], Sept. 30, 1996, 110 Stat. 3009–121, 3009–169.)
 
 #### Termination of Section
 
@@ -128,11 +154,21 @@
 
 The Omnibus Budget Reconciliation Act of 1990, referred to in subsec. (b)(1)(A), is Pub. L. 101–508, Nov. 5, 1990, 104 Stat. 1388. Title XIII of the Act is known as the Budget Enforcement Act of 1990. For complete classification of title XIII to the Code, see Short Title of 1990 Amendment note set out under section 900 of this title and Tables.
 
+Section 211 of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, referred to in subsec. (b)(2)(H)(ii)(I), is section 211 of Pub. L. 104–193, which amended this section, section 665e of this title, and section 1382c of Title 42, The Public Health and Welfare, enacted provisions set out as a note under section 1382c of Title 42, and amended provisions set out as a note under section 401 of Title 42.
+
 #### Codification
 
 Pub. L. 101–508, §13101(e)(2), redesignated former subsec. (a)(6)(I) of this section as section 257(e) of Pub. L. 99–177, which is classified to section 907(e) of this title.
 
 #### Amendments
+
+1996—Subsec. (b)(2)(G). Pub. L. 104–208 substituted “fiscal years 1994, 1995, and 1997” for “fiscal year 1994 and 1995” in two places.
+
+Subsec. (b)(2)(H). Pub. L. 104–121 added subpar. (H).
+
+Subsec. (b)(2)(H)(i). Pub. L. 104–193, §211(d)(5)(B)(i), substituted “$175,000,000” for “$25,000,000” and “$310,000,000” for “$160,000,000” in subcl. (II), and “$245,000,000” for “$145,000,000” and “$470,000,000” for “$370,000,000” in subcl. (III).
+
+Subsec. (b)(2)(H)(ii)(I). Pub. L. 104–193, §211(d)(5)(B)(ii), amended subcl. (I) generally. Prior to amendment, subcl. (I) read as follows: “the term ‘continuing disability reviews’ has the meaning given such term by section 401(g)(1)(A) of title 42;”.
 
 1994—Subsec. (b)(2)(D)(i). Pub. L. 103–354 inserted at end “This subparagraph shall not apply to appropriations to cover agricultural crop disaster assistance.”
 
@@ -140,7 +176,7 @@ Subsec. (b)(2)(G). Pub. L. 103–306 substituted “1994 and 1995” for “1994
 
 1993—Subsec. (a). Pub. L. 103–66, §14002(c)(1)(A), substituted “1998” for “1995” in heading.
 
-Subsec. (b)(1). Pub. L. 103–66, §14002(c)(1)(B)(i), in introductory provisions, substituted “1995, 1996, 1997, or1998” for “or 1995” and “outyear through 1998” for “outyear through 1995”.
+Subsec. (b)(1). Pub. L. 103–66, §14002(c)(1)(B)(i), in introductory provisions, substituted “1995, 1996, 1997, or 1998” for “or 1995” and “outyear through 1998” for “outyear through 1995”.
 
 Subsec. (b)(1)(B)(iii). Pub. L. 103–66, §14002(c)(1)(B)(ii), added cl. (iii).
 
@@ -172,11 +208,11 @@ Section 119(d)(1) of Pub. L. 103–354 provided that the amendment made by that 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 665, 665b, 665e, 900, 901a, 902, 903, 904, 905, 908, 922 of this title; title 16 section 556c; title 38 section 113; title 39 section 2009a; title 42 sections 5203, 8621, 14212; title 43 section 1474a.
+This section is referred to in sections 665, 665b, 665e, 691a, 691c, 900, 901a, 902, 903, 904, 905, 908, 922 of this title; title 16 section 556c; title 38 section 113; title 39 section 2009a; title 42 sections 5203, 8621, 14212; title 43 section 1474a.
+
+—
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 
 <i><sup>2</sup></i><i> So in original. Probably should be “discretionary”.</i>
-
-<i><sup>3</sup></i><i> So in original. Probably should be “years”.</i>
 

@@ -22,5 +22,5 @@ Within 90 days after December 22, 1975, the Secretary shall prepare and transmit
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 6232, 6234, 6246 of this title.
+This section is referred to in sections 6232, 6234 of this title.
 

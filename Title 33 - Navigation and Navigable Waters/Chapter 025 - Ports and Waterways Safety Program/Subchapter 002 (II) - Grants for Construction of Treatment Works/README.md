@@ -1,0 +1,33 @@
+### SUBCHAPTER II—GRANTS FOR CONSTRUCTION OF TREATMENT WORKS
+
+#### Subchapter Referred to in Other Sections
+
+This subchapter is referred to in sections 1255, 1311, 1313a, 1330, 1371, 1377, 1382, 1384, 1386 of this title; title 40 App. section 214.
+
+
+---
+
+**In this folder** (links to each part and section; generated, not part of GPO's text)
+
+- [&sect; 01281 - Congressional declaration of purpose](%C2%A7%2001281%20-%20Congressional%20declaration%20of%20purpose.md)
+- [&sect; 01281a - Total treatment system funding](%C2%A7%2001281a%20-%20Total%20treatment%20system%20funding.md)
+- [&sect; 01281b - Availability of Farmers Home Administration funds for non-Federal share](%C2%A7%2001281b%20-%20Availability%20of%20Farmers%20Home%20Administration%20funds%20for%20non-Federal%20share.md)
+- [&sect; 01282 - Federal share](%C2%A7%2001282%20-%20Federal%20share.md)
+- [&sect; 01283 - Plans, specifications, estimates, and payments](%C2%A7%2001283%20-%20Plans%2C%20specifications%2C%20estimates%2C%20and%20payments.md)
+- [&sect; 01284 - Limitations and conditions](%C2%A7%2001284%20-%20Limitations%20and%20conditions.md)
+- [&sect; 01285 - Allotment of grant funds](%C2%A7%2001285%20-%20Allotment%20of%20grant%20funds.md)
+- [&sect; 01286 - Reimbursement and advanced construction](%C2%A7%2001286%20-%20Reimbursement%20and%20advanced%20construction.md)
+- [&sect; 01287 - Authorization of appropriations](%C2%A7%2001287%20-%20Authorization%20of%20appropriations.md)
+- [&sect; 01288 - Areawide waste treatment management](%C2%A7%2001288%20-%20Areawide%20waste%20treatment%20management.md)
+- [&sect; 01289 - Basin planning](%C2%A7%2001289%20-%20Basin%20planning.md)
+- [&sect; 01290 - Annual survey](%C2%A7%2001290%20-%20Annual%20survey.md)
+- [&sect; 01291 - Sewage collection systems](%C2%A7%2001291%20-%20Sewage%20collection%20systems.md)
+- [&sect; 01292 - Definitions](%C2%A7%2001292%20-%20Definitions.md)
+- [&sect; 01293 - Loan guarantees](%C2%A7%2001293%20-%20Loan%20guarantees.md)
+- [&sect; 01293a - Contained spoil disposal facilities](%C2%A7%2001293a%20-%20Contained%20spoil%20disposal%20facilities.md)
+- [&sect; 01294 - Public information and education on recycling and reuse of wastewater, use of land treatment, and reduction of wastewater volume](%C2%A7%2001294%20-%20Public%20information%20and%20education%20on%20recycling%20and%20reuse%20of%20wastewater%2C%20use%20of%20land%20treatment%2C%20and%20reduction%20of%20wastewater%20volume.md)
+- [&sect; 01295 - Requirements for American materials](%C2%A7%2001295%20-%20Requirements%20for%20American%20materials.md)
+- [&sect; 01296 - Determination of priority of projects](%C2%A7%2001296%20-%20Determination%20of%20priority%20of%20projects.md)
+- [&sect; 01297 - Guidelines for cost-effectiveness analysis](%C2%A7%2001297%20-%20Guidelines%20for%20cost-effectiveness%20analysis.md)
+- [&sect; 01298 - Cost effectiveness](%C2%A7%2001298%20-%20Cost%20effectiveness.md)
+- [&sect; 01299 - State certification of projects](%C2%A7%2001299%20-%20State%20certification%20of%20projects.md)

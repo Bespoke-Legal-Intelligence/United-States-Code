@@ -66,7 +66,7 @@
 
 (2) The Secretary may sell or redeem securities, obligations, or other invested assets of the Fund under paragraph (1) of this subsection only during a debt issuance suspension period, and only to the extent necessary to obtain any amount of funds not exceeding the amount equal to the total amount of the payments authorized to be made from the Fund under the provisions of this subchapter or chapter 84 of this title or related provisions of law during such period. A sale or redemption may be made under this subsection even if, before the sale or redemption, there is a sufficient amount in the Fund to ensure that such payments are made in a timely manner.
 
-(<i>l</i>)(1) The Secretary of the Treasury shall report to Congress on the operation and status of the Fund during each debt issuance suspension period for which the Secretary is required to take action under paragraph (3) or (4) of subsection (j) of this section. The report shall be submitted as soon as possible after the expiration of such period, but not later than the date that is 30 days after the first normal interest payment date occurring after the expiration of such period. The Secretary shall concurrently transmit a copy of such report to the Comptroller General of the United States.
+(<i>l</i>)(1) The Secretary of the Treasury shall report to Congress on the operation and status of the Fund during each debt issuance suspension period for which the Secretary is required to take action under paragraph (3) or (4) of subsection (j) of this section. The report shall be submitted as soon as possible after the expiration of such period, but not later than the date that is 30 days after the first normal interest payment date occurring after the expiration of such period.
 
 (2) Whenever the Secretary of the Treasury determines that, by reason of the public debt limit, the Secretary will be unable to fully comply with the requirements of subsection (c) of this section, the Secretary shall immediately notify Congress of the determination. The notification shall be made in writing.
 
@@ -76,7 +76,7 @@
 
 (3) In determining any amount for which the Postal Service is liable under this subsection, the amount of the liability shall be prorated to reflect only that portion of total service (used in computing the benefits involved) which is attributable to civilian service performed after June 30, 1971, as estimated by the Office.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 584; Pub. L. 90–83, §1(85), Sept. 11, 1967, 81 Stat. 218; Pub. L. 91–93, title I, §103(a), Oct. 20, 1969, 83 Stat. 137; Pub. L. 93–349, §1, July 12, 1974, 88 Stat. 354; Pub. L. 94–183, §2(37), Dec. 31, 1975, 89 Stat. 1058; Pub. L. 95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 96–70, title I, §1244, Sept. 27, 1979, 93 Stat. 474; Pub. L. 97–253, title III, §306(f), Sept. 8, 1982, 96 Stat. 797; Pub. L. 97–346, §3(g), Oct. 15, 1982, 96 Stat. 1648; Pub. L. 98–216, §3(a)(5), Feb. 14, 1984, 98 Stat. 6; Pub. L. 98–615, §2(7), Nov. 8, 1984, 98 Stat. 3202; Pub. L. 99–335, title II, §207(j), June 6, 1986, 100 Stat. 597; Pub. L. 99–509, title VI, §6002, Oct. 21, 1986, 100 Stat. 1931; Pub. L. 100–203, title V, §5428(d), Dec. 22, 1987, 101 Stat. 1330–274; Pub. L. 101–239, title IV, §4002(a), Dec. 19, 1989, 103 Stat. 2133; Pub. L. 101–508, title VII, §§7001(a)(3), 7101(a), Nov. 5, 1990, 104 Stat. 1388–328, 1388–331; Pub. L. 101–510, div. C, title XXXV, §3506(c), Nov. 5, 1990, 104 Stat. 1847; Pub. L. 103–424, §10, Oct. 29, 1994, 108 Stat. 4366; Pub. L. 104–52, title IV, §2, Nov. 19, 1995, 109 Stat. 490.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 584; Pub. L. 90–83, §1(85), Sept. 11, 1967, 81 Stat. 218; Pub. L. 91–93, title I, §103(a), Oct. 20, 1969, 83 Stat. 137; Pub. L. 93–349, §1, July 12, 1974, 88 Stat. 354; Pub. L. 94–183, §2(37), Dec. 31, 1975, 89 Stat. 1058; Pub. L. 95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92Stat. 1224; Pub. L. 96–70, title I, §1244, Sept. 27, 1979, 93 Stat. 474; Pub. L. 97–253, title III, §306(f), Sept. 8, 1982, 96 Stat. 797; Pub. L. 97–346, §3(g), Oct. 15, 1982, 96 Stat. 1648; Pub. L. 98–216, §3(a)(5), Feb. 14, 1984, 98 Stat. 6; Pub. L. 98–615, §2(7), Nov. 8, 1984, 98 Stat. 3202; Pub. L. 99–335, title II, §207(j), June 6, 1986, 100 Stat. 597; Pub. L. 99–509, title VI, §6002, Oct. 21, 1986, 100 Stat. 1931; Pub. L. 100–203, title V, §5428(d), Dec. 22, 1987, 101 Stat. 1330–274; Pub. L. 101–239, title IV, §4002(a), Dec. 19, 1989, 103 Stat. 2133; Pub. L. 101–508, title VII, §§7001(a)(3), 7101(a), Nov. 5, 1990, 104 Stat. 1388–328, 1388–331; Pub. L. 101–510, div. C, title XXXV, §3506(c), Nov. 5, 1990, 104 Stat. 1847; Pub. L. 103–424, §10, Oct. 29, 1994, 108 Stat. 4366; Pub. L. 104–52, title IV, §2, Nov. 19, 1995, 109 Stat. 490; Pub. L. 104–316, title I, §103(h), Oct. 19, 1996, 110 Stat. 3829.)
 
 Historical and Revision Notes<br>1966
 
@@ -86,7 +86,9 @@ Act
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 (a)–(f)
 
@@ -140,41 +142,43 @@ Section 3506 of the Panama Canal Commission Authorization Act for Fiscal Year 19
 
 #### Amendments
 
-<b>1995</b>—Subsec. (a)(1)(B). Pub. L. 104–52 inserted “in making an allotment or assignment made by an individual under section 8345(h) or 8465(b) of this title,” after “of law),” and “or section 8345(k) or 8469 of this title” before semicolon at end.
+1996—Subsec. (<i>l</i>)(1). Pub. L. 104–316 struck out at end “The Secretary shall concurrently transmit a copy of such report to the Comptroller General of the United States.”
 
-<b>1994</b>—Subsec. (a)(3). Pub. L. 103–424 added par. (3).
+1995—Subsec. (a)(1)(B). Pub. L. 104–52 inserted “in making an allotment or assignment made by an individual under section 8345(h) or 8465(b) of this title,” after “of law),” and “or section 8345(k) or 8469 of this title” before semicolon at end.
 
-<b>1990</b>—Subsec. (a)(1)(B). Pub. L. 101–508, §7001(a)(3), inserted “in administering alternative forms of annuities under sections 8343a and 8420a (and related provisions of law),” before “and in withholding”.
+1994—Subsec. (a)(3). Pub. L. 103–424 added par. (3).
+
+1990—Subsec. (a)(1)(B). Pub. L. 101–508, §7001(a)(3), inserted “in administering alternative forms of annuities under sections 8343a and 8420a (and related provisions of law),” before “and in withholding”.
 
 Subsec. (i)(1). Pub. L. 101–510 substituted “1979, and the amendments made by section 3506 of the Panama Canal Commission Authorization Act for Fiscal Year 1991” for “1979”.
 
 Subsec. (m)(1). Pub. L. 101–508, §7101(a), substituted “July 1, 1971” for “October 1, 1986” in two places.
 
-<b>1989</b>—Subsec. (m). Pub. L. 101–239 added subsec. (m).
+1989—Subsec. (m). Pub. L. 101–239 added subsec. (m).
 
-<b>1987</b>—Subsec. (i)(2). Pub. L. 100–203 substituted “The Panama Canal Commission shall pay to the Fund from funds available to it” for “The Secretary of the Treasury shall pay to the Fund from appropriations”.
+1987—Subsec. (i)(2). Pub. L. 100–203 substituted “The Panama Canal Commission shall pay to the Fund from funds available to it” for “The Secretary of the Treasury shall pay to the Fund from appropriations”.
 
-<b>1986</b>—Subsec. (a). Pub. L. 99–335 inserted reference to provisions of chapter 84 of this title which relate to benefits payable out of the Fund in par. (1)(A), inserted “or 8462” and reference to subchapters II and IV of chapter 84 of this title in par. (1)(B), and inserted reference to chapter 84 of this title in par. (2).
+1986—Subsec. (a). Pub. L. 99–335 inserted reference to provisions of chapter 84 of this title which relate to benefits payable out of the Fund in par. (1)(A), inserted “or 8462” and reference to subchapters II and IV of chapter 84 of this title in par. (1)(B), and inserted reference to chapter 84 of this title in par. (2).
 
 Subsecs. (j) to (<i>l</i>). Pub. L. 99–509 added subsecs. (j) to (<i>l</i>).
 
-<b>1984</b>—Subsec. (a)(1)(B). Pub. L. 98–615 inserted “, in administering survivor annuities and elections providing therefor under sections 8339 and 8341 of this title,”.
+1984—Subsec. (a)(1)(B). Pub. L. 98–615 inserted “, in administering survivor annuities and elections providing therefor under sections 8339 and 8341 of this title,”.
 
 Subsec. (d). Pub. L. 98–216 substituted “chapter 31 of title 31” for “the Second Liberty Bond Act, as amended,”.
 
-<b>1982</b>—Subsec. (a)(1)(B). Pub. L. 97–346 inserted “and in withholding taxes pursuant to section 3405 of title 26”.
+1982—Subsec. (a)(1)(B). Pub. L. 97–346 inserted “and in withholding taxes pursuant to section 3405 of title 26”.
 
 Subsec. (g). Pub. L. 97–253, §306(f), inserted “, less an amount determined by the Office to be appropriate to reflect the value of the deposits made to the credit of the Fund under section 8334(j) of this title” after “allowed for military service”.
 
-<b>1979</b>—Subsec. (i). Pub. L. 96–70 added subsec. (i).
+1979—Subsec. (i). Pub. L. 96–70 added subsec. (i).
 
-<b>1978</b>—Subsecs. (a), (g), (h)(2). Pub. L. 95–454 substituted “Office of Personnel Management” and “Office” for “Civil Service Commission” and “Commission”, respectively, wherever appearing.
+1978—Subsecs. (a), (g), (h)(2). Pub. L. 95–454 substituted “Office of Personnel Management” and “Office” for “Civil Service Commission” and “Commission”, respectively, wherever appearing.
 
-<b>1975</b>—Subsec. (h)(2). Pub. L. 94–183 substituted “30” for “thirty”.
+1975—Subsec. (h)(2). Pub. L. 94–183 substituted “30” for “thirty”.
 
-<b>1974</b>—Subsec. (h). Pub. L. 93–349 added subsec. (h).
+1974—Subsec. (h). Pub. L. 93–349 added subsec. (h).
 
-<b>1969</b>—Subsec. (a). Pub. L. 91–93, §103(a)(1), designated existing provisions as par. (1)(A) and (B) and added par. (2).
+1969—Subsec. (a). Pub. L. 91–93, §103(a)(1), designated existing provisions as par. (1)(A) and (B) and added par. (2).
 
 Subsec. (f). Pub. L. 91–93, §103(a)(2), added subsec. (f) and struck out former subsec. (f) which required the Commission to submit estimates of appropriations necessary to finance the Fund on a normal cost plus interest basis and to carry out this subchapter.
 
@@ -190,7 +194,7 @@ Section 4002(b)(1) of Pub. L. 101–239, which provided that section 4002 of Pub
 
 #### Effective Date of 1987 Amendment
 
-Amendment by Pub. L. 100–203 effective Jan. 1, 1988, see section 5429 of Pub. L. 100–203, set out as a note under section 3683 of Title 22, Foreign Relations and Intercourse.
+Amendment by Pub. L. 100–203 effective Jan. 1, 1988, see section 5429 of Pub. L. 100–203, set out as a note under section 3712 of Title 22, Foreign Relations and Intercourse.
 
 #### Effective Date of 1986 Amendment
 
@@ -224,7 +228,7 @@ Section 103(b)(1) of Pub. L. 91–93 provided that: “The provisions of subsect
 
 #### Payments by Postal Service Relating to Corrected Calculations for Past Retirement COLAs
 
-Pub. L. 103–66, title XI, §11101(a), Aug. 10, 1993, 107 Stat. 413, provided that: “In addition to any other payments required under section 8348(m) of title 5, UnitedStates Code, or any other provision of law, the United States Postal Service shall pay into the Civil Service Retirement and Disability Fund a total of $693,000,000, of which—
+Pub. L. 103–66, title XI, §11101(a), Aug. 10, 1993, 107 Stat. 413, provided that: “In addition to any other payments required under section 8348(m) of title 5, United States Code, or any other provision of law, the United States Postal Service shall pay into the Civil Service Retirement and Disability Fund a total of $693,000,000, of which—
 
 &emsp;“(1) at least one-third shall be paid not later than September 30, 1996;
 
@@ -332,7 +336,7 @@ Section 4002(b)(2) of Pub. L. 101–239, which provided that notwithstanding any
 
 #### Certain Postal Service Annuitants; Additional Amount Payable
 
-Section 4002(b)(3) of Pub. L. 101–239, which provided that first payment made under provisions of section 8348(m) of this title was to include, in addition to the amount which would otherwise have been payable at that time, an amount equal to the sum of any amountswhich would have been due under those provisions in any prior year if this section had been enacted before Oct. 1, 1986, and which provided the method of computation, was repealed by Pub. L. 101–508, title VII, §7101(b), Nov. 5, 1990, 104 Stat. 1388–331.
+Section 4002(b)(3) of Pub. L. 101–239, which provided that first payment made under provisions of section 8348(m) of this title was to include, in addition to the amount which would otherwise have been payable at that time, an amount equal to the sum of any amounts which would have been due under those provisions in any prior year if this section had been enacted before Oct. 1, 1986, and which provided the method of computation, was repealed by Pub. L. 101–508, title VII, §7101(b), Nov. 5, 1990, 104 Stat. 1388–331.
 
 #### Status of Original Subsec. (g) Provisions During Period From Oct. 20, 1969 to June 30, 1970
 

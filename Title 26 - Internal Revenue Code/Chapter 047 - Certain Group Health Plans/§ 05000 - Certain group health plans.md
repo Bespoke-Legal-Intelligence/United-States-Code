@@ -24,7 +24,7 @@ For purposes of this section—
 
 #### (c) Nonconforming group health plan
 
-For purposes of this section, the term “nonconforming group health plan” means a grouphealth plan or large group health plan that at any time during a calendar year does not comply with the requirements of subparagraphs (A) and (C) or subparagraph (B), respectively, of paragraph (1), or with the requirements of paragraph (2), of section 1862(b) of the Social Security Act.
+For purposes of this section, the term “nonconforming group health plan” means a group health plan or large group health plan that at any time during a calendar year does not comply with the requirements of subparagraphs (A) and (C) or subparagraph (B), respectively, of paragraph (1), or with the requirements of paragraph (2), of section 1862(b) of the Social Security Act.
 
 #### (d) Government entities
 
@@ -40,7 +40,7 @@ Section 1862(b) of the Social Security Act, referred to in subsec. (c), is class
 
 1993—Subsec. (a). Pub. L. 103–66, §13561(e)(2)(A)(i), which directed insertion of “(including a self-employed person)” after “employer”, was executed by making the insertion after “employer” the first time it appeared, to reflect the probable intent of Congress.
 
-Subsec. (b)(1). Pub. L. 103–66, §13561(e)(2)(A)(ii), amended heading and text of par. (1) generally. Prior to amendment, text read as follows: “The term ‘group health plan’ means any plan of, or contributed to by, an employer (including a self-insured plan) to provide health care (directly or otherwise) to the employer's employees, former employees, or the families of such employees or former employees.”
+Subsec. (b)(1). Pub. L. 103–66, §13561(e)(2)(A)(ii), amended heading and text of par. (1) generally. Prior to amendment, text read as follows: “The term ‘group health plan’ means any plan of, or contributed to by, an employer (including a self-insured plan) to provide health care (directly or otherwise) to the employer'semployees, former employees, or the families of such employees or former employees.”
 
 Subsec. (b)(2). Pub. L. 103–66, §13561(d)(2), inserted at end “For purposes of the preceding sentence—” and added subpars. (A) to (C).
 
@@ -68,7 +68,7 @@ Section applicable to items and services furnished on or after Jan. 1, 1987, see
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 4980B, 6103 of this title; title 29 section 2614; title 42 sections 1320b–14, 1395y, 1396e.
+This section is referred to in sections 4980B, 6103, 9805 of this title; title 29 section 2614; title 42 sections 1320b–14, 1395y, 1396e.
 
 ## Subtitle E—Alcohol, Tobacco, and Certain Other Excise Taxes
 

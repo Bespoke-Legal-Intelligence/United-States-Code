@@ -1,5 +1,9 @@
 ### SUBCHAPTER I—EXPORT TRADING COMPANIES AND TRADE ASSOCIATIONS
 
+#### Subchapter Referred to in Other Sections
+
+This subchapter is referred to in title 7 sections 7257, 7258.
+
 
 ---
 

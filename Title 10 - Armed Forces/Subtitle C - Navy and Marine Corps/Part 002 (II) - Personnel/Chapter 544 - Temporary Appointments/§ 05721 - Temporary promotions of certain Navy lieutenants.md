@@ -1,32 +1,64 @@
 ### §5721. Temporary promotions of certain Navy lieutenants
 
-(a) An officer in the line of the Navy in the grade of lieutenant who—
+(a)
+
+Promotion Authority for Certain Officers With Critical Skills.—An officer in the line of the Navy in the grade of lieutenant who—
 
 &emsp;(1) has a skill in which the Navy has a critical shortage of personnel (as determined by the Secretary of the Navy); and
 
-&emsp;(2) is serving in a position (as determined by the Secretary of the Navy) which (A) is designated to be held by a lieutenant commander, and (B) requires that an officer serving in such position have the skill possessed by such officer,
+&emsp;(2) is serving in a position (as determined by the Secretary of the Navy) which (A) is designated to be held by a lieutenant commander, and (B) requires that an officer serving in suchposition have the skill possessed by such officer,
 
-> may be temporarily promoted to the grade of lieutenant commander under regulations to be prescribed by the Secretary of the Navy. Appointments under this section shall be made by the President alone.
+> may be temporarily promoted to the grade of lieutenant commander under regulations to be prescribed by the Secretary of the Navy. Appointments under this section shall be made by the President, by and with the advice and consent of the Senate.
 
-(b)(1) An appointment under this section does not change the position on the active-duty list or the permanent, probationary, or acting status of the officer so appointed, prejudice the officer in regard to other promotions or appointments, or abridge the rights or benefits of the officer.
+(b)
+
+Status of Officers Appointed.—(1) An appointment under this section does not change the position on the active-duty list or the permanent, probationary, or acting status of the officer so appointed, prejudice the officer in regard to other promotions or appointments, or abridge the rights or benefits of the officer.
 
 (2) For the purposes of section 523 of this title, an officer holding an appointment under this section is considered as serving in the grade of lieutenant commander.
 
-(c) A temporary promotion under this section may be made only upon the recommendation of a board of officers convened by the Secretary of the Navy for the purpose of recommending officers for such promotions.
+(c)
 
-(d) Each appointment under this section, unless expressly declined, is, without formal acceptance, regarded as accepted on the date such appointment is made, and a member so appointed is entitled to the pay and allowances of the grade of lieutenant commander from the date the appointment is made.
+Board Recommendation Required.—A temporary promotion under this section may be made only upon the recommendation of a board of officers convened by the Secretary of the Navy for the purpose of recommending officers for such promotions.
 
-(e) Unless sooner terminated, an appointment under this section terminates—
+(d)
+
+Acceptance and Effective Date of Appointment.—Each appointment under this section, unless expressly declined, is, without formal acceptance, regarded as accepted on the date such appointment is made, and a member so appointed is entitled to the pay and allowances of the grade of lieutenant commander from the date the appointment is made.
+
+(e)
+
+Termination of Appointment.—Unless sooner terminated, an appointment under this section terminates—
 
 &emsp;(1) on the date the officer who received the appointment is promoted to the permanent grade of lieutenant commander; or
 
 &emsp;(2) on the date the officer is detached from a position described in subsection (a)(2), unless the officer is on a promotion list to the permanent grade of lieutenant commander, in which case the appointment terminates on the date the officer is promoted to that grade.
 
-(f) The authority to make appointments under this section terminates on September 30, 1995.
+(f)
 
-(Added Pub. L. 96–513, title III, §334, Dec. 12, 1980, 94 Stat. 2897; amended Pub. L. 98–94, title IV, §403, Sept. 24, 1983, 97 Stat. 629; Pub. L. 98–525, title V, §514, Oct. 19, 1984, 98 Stat. 2522; Pub. L. 99–661, div. A, title V, §503, Nov. 14, 1986, 100 Stat. 3864; Pub. L. 100–180, div. A, title V, §501(a), Dec. 4, 1987, 101 Stat. 1085; Pub. L. 101–189, div. A, title V, §512(a), Nov. 29, 1989, 103 Stat. 1439; Pub. L. 102–484, div. A, title V, §507, Oct. 23, 1992, 106 Stat. 2405; Pub. L. 103–160, div. A, title V, §508(a), Nov. 30, 1993, 107 Stat. 1647.)
+Limitation on Number of Eligible Positions.—(1) An appointment under this section may only be made for service in a position designated by the Secretary of the Navy for purposes of this section. The number of positions so designated may not exceed 325.
+
+(2) Whenever the Secretary makes a change to the positions designated under paragraph (1), the Secretary shall submit notice of the change in writing to Congress.
+
+(Added Pub. L. 96–513, title III, §334, Dec. 12, 1980, 94 Stat. 2897; amended Pub. L. 98–94, title IV, §403, Sept. 24, 1983, 97 Stat. 629; Pub. L. 98–525, title V, §514, Oct. 19, 1984, 98 Stat. 2522; Pub. L. 99–661, div. A, title V, §503, Nov. 14, 1986, 100 Stat. 3864; Pub. L. 100–180, div. A, title V, §501(a), Dec. 4, 1987, 101 Stat. 1085; Pub. L. 101–189, div. A, title V, §512(a), Nov. 29, 1989, 103 Stat. 1439; Pub. L. 102–484, div. A, title V, §507, Oct. 23, 1992, 106 Stat. 2405; Pub. L. 103–160, div. A, title V, §508(a), Nov. 30, 1993, 107 Stat. 1647; Pub. L. 104–106, div. A, title V, §508(a), (b), (d), Feb. 10, 1996, 110 Stat. 296, 297; Pub. L. 104–201, div. A, title V, §503, Sept. 23, 1996, 110 Stat. 2511.)
 
 #### Amendments
+
+1996—Subsec. (a). Pub. L. 104–201, §503(a), (c), substituted “Officers” for “Officer” in heading and “the President, by and with the advice and consent of the Senate” for “the President alone” in concluding provisions.
+
+Pub. L. 104–106, §508(d)(1), inserted heading.
+
+Subsecs. (b) to (e). Pub. L. 104–106, §508(d)(2)–(5), inserted headings.
+
+Subsec. (f). Pub. L. 104–106, §508(b)(2), added subsec. (f). Former subsec. (f) redesignated (g).
+
+Pub. L. 104–106, §508(a), substituted “September 30, 1996” for “September 30, 1995”.
+
+Subsec. (g). Pub. L. 104–201, §503(b), struck out subsec. (g) which read as follows: “
+
+Termination of Appointment Authority.—The authority to make appointments under this section terminates on September 30, 1996.”
+
+Pub. L. 104–106, §508(d)(6), inserted heading.
+
+Pub. L. 104–106, §508(b)(1), redesignated subsec. (f) as (g).
 
 1993—Subsec. (f). Pub. L. 103–160 substituted “September 30, 1995” for “September 30, 1993”.
 
@@ -41,6 +73,10 @@
 1984—Subsec. (f). Pub. L. 98–525 substituted “September 30, 1986” for “September 30, 1984”.
 
 1983—Subsec. (f). Pub. L. 98–94 substituted “September 30, 1984” for “September 30, 1983”.
+
+#### Effective Date of 1996 Amendment
+
+Section 508(e) of Pub. L. 104–106 provided that: “Subsection (f) of section 5721 of title 10, United States Code, as added by subsection (b)(2), shall take effect at the end of the 30-day period beginning on the date of the enactment of this Act \[Feb. 10, 1996\] and shall apply to any appointment under that section after the end of such period.”
 
 #### Effective Date of 1993 Amendment
 

@@ -46,7 +46,7 @@ For purposes of subsection (a)—
 
 Every person required to make a return under subsection (a) shall furnish to each individual whose name is required to be set forth in such return a written statement showing—
 
-&emsp;(1) the name and address of the person required to make such return, and
+&emsp;(1) the name, address, and phone number of the information contact of the person required to make such return, and
 
 &emsp;(2) the aggregate amount of interest described in subsection (a)(2) (other than points) received by the person required to make such return from the individual to whom the statement is required to be furnished (and the information required under subsection (b)(2)(C)).
 
@@ -64,11 +64,15 @@ Except to the extent provided in regulations prescribed by the Secretary, in the
 
 For purposes of subsection (a), an amount received by a cooperative housing corporation from a tenant-stockholder shall be deemed to be interest received on a mortgage in the course of a trade or business engaged in by such corporation, to the extent of the tenant-stockholder's proportionate share of interest described in section 216(a)(2). Terms used in the preceding sentence shall have the same meanings as when used in section 216.
 
-(Added Pub. L. 98–369, div. A, title I, §145(a), July 18, 1984, 98 Stat. 684; amended Pub. L. 99–514, title XV, §1501(c)(11), title XVIII, §1811(a)(1), Oct. 22, 1986, 100 Stat. 2739, 2832; Pub. L. 101–239, title VII, §7646(a), (b), Dec. 19, 1989, 103 Stat. 2382.)
+(Added Pub. L. 98–369, div. A, title I, §145(a), July 18, 1984, 98 Stat. 684; amended Pub. L. 99–514, title XV, §1501(c)(11), title XVIII, §1811(a)(1), Oct. 22, 1986, 100 Stat. 2739, 2832; Pub. L. 101–239, title VII, §7646(a), (b), Dec. 19, 1989, 103 Stat. 2382; Pub. L. 104–168, title XII, §1201(a)(8), July 30, 1996, 110 Stat. 1469; Pub. L. 104–188, title I, §1704(t)(23), Aug. 20, 1996, 110 Stat. 1888.)
 
 #### Amendments
 
-1989—Subsec. (b)(2)(B). Pub. L. 101–239, §7646(b)(1), which directed amendment of subsec. (b)(1)(B) by inserting “(other than points)” after “such interest”, was executed to subsec. (b)(2)(B), to reflect the probable intent of Congress.
+1996—Subsec. (b)(2)(B). Pub. L. 104–188 made technical amendment to directory language of Pub. L. 101–239, §7646(b)(1). See 1989 Amendment note below.
+
+Subsec. (d)(1). Pub. L. 104–168 substituted “name, address, and phone number of the information contact” for “name and address”.
+
+1989—Subsec. (b)(2)(B). Pub. L. 101–239, §7646(b)(1), as amended by Pub. L. 104–188, inserted “(other than points)” after “such interest”.
 
 Subsec. (b)(2)(C), (D). Pub. L. 102–239, §7646(a), added subpar. (C) and redesignated former subpar. (C) as (D).
 
@@ -78,13 +82,17 @@ Subsec. (d)(2). Pub. L. 102–239, §7646(b)(2), inserted “(other than points)
 
 Subsec. (g). Pub. L. 99–514, §1811(a)(1), added subsec. (g).
 
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–168 applicable to statements required to be furnished after Dec. 31, 1996 (determined without regard to any extension), see section 1201(b) of Pub. L. 104–168, set out as a note under section 6041 of this title.
+
 #### Effective Date of 1989 Amendment
 
 Section 7646(c) of Pub. L. 101–239 provided that: “The amendments made by this section \[amending this section\] shall apply to returns and statements the due date for which (determined without regard to extensions) is after December 31, 1991.”
 
 #### Effective Date of 1986 Amendment
 
-Amendment by section 1501(c)(11) of Pub. L. 99–514 applicable to returns the due date for which (determined without regard to extensions) is after Dec. 31, 1986, see section 1501(e) of Pub. L. 99–514, set out as an Effective Date note under section 6721 of this title.
+Amendment by section 1501(c)(11) of Pub. L. 99–514 applicable to returns the due date for which (determined without regard to extensions) is after Dec. 31, 1986, seesection 1501(e) of Pub. L. 99–514, set out as an Effective Date note under section 6721 of this title.
 
 Amendment by section 1811(a)(1) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 

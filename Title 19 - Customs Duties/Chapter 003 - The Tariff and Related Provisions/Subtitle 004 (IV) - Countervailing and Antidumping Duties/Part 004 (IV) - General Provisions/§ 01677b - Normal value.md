@@ -112,7 +112,7 @@ In determining under this subtitle whether subject merchandise is being, or is l
 
 &emsp;&emsp;(B) were not at prices which permit recovery of all costs within a reasonable period of time,
 
-> &emsp;such sales may be disregarded in the determination of normal value. Whenever such sales are disregarded, normal value shall be based on the remaining sales of the foreign like product in the ordinary course of trade. If no sales made in the ordinary course of trade remain, the normal value shall be based on the constructed value of the merchandise.
+> &emsp;such sales may be disregarded in the determination of normal value. Whenever such sales are disregarded, normal value shall be based on the remaining sales of the foreignlike product in the ordinary course of trade. If no sales made in the ordinary course of trade remain, the normal value shall be based on the constructed value of the merchandise.
 
 #### (2) Definitions and special rules
 
@@ -190,7 +190,7 @@ In determining under this subtitle whether subject merchandise is being, or is l
 
 #### (4) Valuation of factors of production
 
-&emsp;The administering authority, in valuing factors of production under paragraph (1), shall utilize, to the extent possible, the prices or costs of factors of production in one or more market economy countries that are—
+&emsp;The administering authority, in valuing factors of production under paragraph (1), shallutilize, to the extent possible, the prices or costs of factors of production in one or more market economy countries that are—
 
 &emsp;&emsp;(A) at a level of economic development comparable to that of the nonmarket economy country, and
 
@@ -236,7 +236,7 @@ For purposes of subsections (b) and (e) of this section.—
 
 #### (A) In general
 
-&emsp;&emsp;Costs shall normally be calculated based on the records of the exporter or producer of the merchandise, if such records are kept in accordance with the generally accepted accounting principles of the exporting country (or the producing country, where appropriate) and reasonably reflect the costs associated with the production and sale of themerchandise. The administering authority shall consider all available evidence on the proper allocation of costs, including that which is made available by the exporter or producer on a timely basis, if such allocations have been historically used by the exporter or producer, in particular for establishing appropriate amortization and depreciation periods, and allowances for capital expenditures and other development costs.
+&emsp;&emsp;Costs shall normally be calculated based on the records of the exporter or producer of the merchandise, if such records are kept in accordance with the generally accepted accounting principles of the exporting country (or the producing country, where appropriate) and reasonably reflect the costs associated with the production and sale of the merchandise. The administering authority shall consider all available evidence on the proper allocation of costs, including thatwhich is made available by the exporter or producer on a timely basis, if such allocations have been historically used by the exporter or producer, in particular for establishing appropriate amortization and depreciation periods, and allowances for capital expenditures and other development costs.
 
 #### (B) Nonrecurring costs
 
@@ -294,7 +294,7 @@ Subsec. (g). Pub. L. 98–573, §615(3), added subsec. (g).
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the date on which the WTO Agreement enters into force with respect to the UnitedStates \[Jan. 1, 1995\], and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of this chapter after such date, see section 291 of Pub. L. 103–465, set out as a note under section 1671 of this title.
+Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the date on which the WTO Agreement enters into force with respect to the United States \[Jan. 1, 1995\], and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of this chapter after such date, see section 291 of Pub. L. 103–465, set out as a note under section 1671 of this title.
 
 #### Effective Date of 1988 Amendment
 

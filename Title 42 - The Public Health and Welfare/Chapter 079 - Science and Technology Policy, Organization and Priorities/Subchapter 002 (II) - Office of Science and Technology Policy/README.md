@@ -17,8 +17,3 @@ This subchapter is referred to in sections 6632, 6671 of this title.
 - [&sect; 06616 - Additional functions of Director](%C2%A7%2006616%20-%20Additional%20functions%20of%20Director.md)
 - [&sect; 06617 - Coordination with other organizations](%C2%A7%2006617%20-%20Coordination%20with%20other%20organizations.md)
 - [&sect; 06618 - Major science and technology proposals](%C2%A7%2006618%20-%20Major%20science%20and%20technology%20proposals.md)
-- [&sect; 06631 - Establishment of Committee](%C2%A7%2006631%20-%20Establishment%20of%20Committee.md)
-- [&sect; 06632 - Membership of Committee](%C2%A7%2006632%20-%20Membership%20of%20Committee.md)
-- [&sect; 06633 - Federal science, engineering, and technology survey; reports](%C2%A7%2006633%20-%20Federal%20science%2C%20engineering%2C%20and%20technology%20survey%3B%20reports.md)
-- [&sect; 06634 - Continuation of Committee](%C2%A7%2006634%20-%20Continuation%20of%20Committee.md)
-- [&sect; 06635 - Staff and consultant support](%C2%A7%2006635%20-%20Staff%20and%20consultant%20support.md)

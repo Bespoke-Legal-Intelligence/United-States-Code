@@ -23,11 +23,14 @@
 | [<b>18.</b>](Chapter%20018%20-%20Military%20Support%20for%20Civilian%20Law%20Enforcement%20Agencies/README.md) | <b>Military Support for Civilian Law Enforcement Agencies</b> | <b>371</b> |
 | [<b>20.</b>](Chapter%20020%20-%20Humanitarian%20and%20Other%20Assistance/README.md) | <b>Humanitarian and Other Assistance</b> | <b>401</b> |
 | [<b>21.</b>](Chapter%20021%20-%20Department%20of%20Defense%20Intelligence%20Matters/README.md) | <b>Department of Defense Intelligence Matters</b> | <b>421</b> |
-| [<b>22.</b>](Chapter%20022%20-%20Miscellaneous%20Studies%20and%20Reports/README.md) | <b>Miscellaneous Studies and Reports</b> | <b>451</b> |
+| [<b>22.</b>](Chapter%20022%20-%20National%20Imagery%20and%20Mapping%20Agency/README.md) | <b>National Imagery and Mapping Agency</b> | <b>441</b> |
+| [<b>23.</b>](Chapter%20023%20-%20Miscellaneous%20Studies%20and%20Reports/README.md) | <b>Miscellaneous Studies and Reports</b> | <b>471</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1996—Pub. L. 104–201, div. A, title XI, §1123(a)(2), Sept. 23, 1996, 110 Stat. 2688, substituted “National Imagery and Mapping Agency” for “Miscellaneous Studies and Reports” and “441” for “451” in item for chapter 22 and added item for chapter 23.
 
 1994—Pub. L. 103–337, div. A, title V, §554(a)(2), Oct. 5, 1994, 108 Stat. 2773, added item for chapter 22.
 
@@ -70,4 +73,5 @@ Pub. L. 99–433, title VI, §605(a), Oct. 1, 1986, 100 Stat. 1075a, added items
 - [Chapter 018 - Military Support for Civilian Law Enforcement Agencies](Chapter%20018%20-%20Military%20Support%20for%20Civilian%20Law%20Enforcement%20Agencies/README.md)
 - [Chapter 020 - Humanitarian and Other Assistance](Chapter%20020%20-%20Humanitarian%20and%20Other%20Assistance/README.md)
 - [Chapter 021 - Department of Defense Intelligence Matters](Chapter%20021%20-%20Department%20of%20Defense%20Intelligence%20Matters/README.md)
-- [Chapter 022 - Miscellaneous Studies and Reports](Chapter%20022%20-%20Miscellaneous%20Studies%20and%20Reports/README.md)
+- [Chapter 022 - National Imagery and Mapping Agency](Chapter%20022%20-%20National%20Imagery%20and%20Mapping%20Agency/README.md)
+- [Chapter 023 - Miscellaneous Studies and Reports](Chapter%20023%20-%20Miscellaneous%20Studies%20and%20Reports/README.md)

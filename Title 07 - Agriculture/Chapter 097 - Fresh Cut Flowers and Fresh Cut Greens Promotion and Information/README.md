@@ -22,7 +22,7 @@
 | (i) | Prohibition. |
 | (j) | Books and records; reports. |
 | (k) | Consultations with industry experts. |
-| (<i>l)</i> | Other terms of order. |
+| (<i>l</i>) | Other terms of order. |
 | [6805\.](%C2%A7%2006805%20-%20Exclusion%3B%20determinations.md) | Exclusion; determinations. |
 | (a) | Exclusion. |
 | (b) | Making determinations. |
@@ -64,6 +64,10 @@
 | (b) | Administrative expenses. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Chapter Referred to in Other Sections
+
+This chapter is referred to in section 7401 of this title.
 
 
 ---

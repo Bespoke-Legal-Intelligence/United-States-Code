@@ -1,5 +1,9 @@
 ### SUBCHAPTER V—AVLIS AND ALTERNATIVE TECHNOLOGIES FOR URANIUM ENRICHMENT
 
+#### Repeal of Subchapter
+
+<i>Subchapter repealed effective as of date on which 100 percent of ownership of United States Enrichment Corporation has been transferred to private investors, see section 3116(a)(1) of Pub. L. 104–134, set out as a note under section 2297 of this title.</i>
+
 
 ---
 

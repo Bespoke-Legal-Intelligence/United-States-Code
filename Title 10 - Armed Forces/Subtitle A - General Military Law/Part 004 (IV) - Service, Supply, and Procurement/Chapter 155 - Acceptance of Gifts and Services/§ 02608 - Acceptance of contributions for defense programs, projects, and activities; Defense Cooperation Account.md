@@ -2,7 +2,7 @@
 
 (a)
 
-Acceptance Authority.—The Secretary of Defense may accept from any person, foreign government, or international organization any contribution of money or real or personal property made by such person, foreign government, or international organization for use by the Department of Defense.
+Acceptance Authority.—The Secretary of Defense may accept from any person, foreign government, or international organization any contribution of money or real or personal property made by such person, foreign government, or international organization for use by the Department of Defense and may accept from any foreign government or international organization any contribution of services made by such foreign government or international organization for use by the Department of Defense.
 
 (b)
 
@@ -48,7 +48,7 @@ Investment of Money.—(1) Upon request by the Secretary of Defense, the Secreta
 
 (h)
 
-Notification of Conditions.—The Secretary of Defense shall notify Congress of anycondition imposed by the donor on the use of any contribution accepted by the Secretary under the authority of this section.
+Notification of Conditions.—The Secretary of Defense shall notify Congress of any condition imposed by the donor on the use of any contribution accepted by the Secretary under the authority of this section.
 
 (i)
 
@@ -62,9 +62,11 @@ Items Included as Contributions.—In this section, the term “contribution” 
 
 Regulations.—The Secretary of Defense shall prescribe regulations to carry out this section.
 
-(Added Pub. L. 101–403, title II, §202(a)(1), Oct. 1, 1990, 104 Stat. 872; amended Pub. L. 102–190, div. A, title X, §1061(a)(16), Dec. 5, 1991, 105 Stat. 1473; Pub. L. 103–160, div. A, title XI, §1105(b)(1), (2), Nov. 30, 1993, 107 Stat. 1750.)
+(Added Pub. L. 101–403, title II, §202(a)(1), Oct. 1, 1990, 104 Stat. 872; amended Pub. L. 102–190, div. A, title X, §1061(a)(16), Dec. 5, 1991, 105 Stat. 1473; Pub. L. 103–160, div. A, title XI, §1105(b)(1), (2), Nov. 30, 1993, 107 Stat. 1750; Pub. L. 104–201, div. A, title X, §1063, Sept. 23, 1996, 110 Stat. 2652.)
 
 #### Amendments
+
+1996—Subsec. (a). Pub. L. 104–201 inserted before period at end “and may accept from any foreign government or international organization any contribution of services made by such foreign government or international organization for use by the Department of Defense”.
 
 1993—Pub. L. 103–160, §1105(b)(2), inserted “; Defense Cooperation Account” in section catchline.
 

@@ -10,7 +10,7 @@ The corporation shall have power—
 
 &emsp;(4) to choose such officers, managers, agents, and employees as the business of the corporation may require;
 
-&emsp;(5) to adopt, amend, and alter bylaws, not inconsistent with the laws of the United Statesor any State in which the corporation is to operate, for the management of its property and the regulation of its affairs;
+&emsp;(5) to adopt, amend, and alter bylaws, not inconsistent with the laws of the United States or any State in which the corporation is to operate, for the management of its property and the regulation of its affairs;
 
 &emsp;(6) to contract and be contracted with;
 

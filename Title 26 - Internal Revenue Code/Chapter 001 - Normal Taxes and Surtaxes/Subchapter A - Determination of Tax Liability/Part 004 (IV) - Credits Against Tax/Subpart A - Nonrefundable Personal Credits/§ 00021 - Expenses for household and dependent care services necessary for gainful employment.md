@@ -158,17 +158,23 @@ For purposes of this section—
 
 > &emsp;In the case of a failure to provide the information required under the preceding sentence, the preceding sentence shall not apply if it is shown that the taxpayer exercised due diligence in attempting to provide the information so required.
 
+#### (10) Identifying information required with respect to qualifying individuals
+
+&emsp;No credit shall be allowed under this section with respect to any qualifying individual unless the TIN of such individual is included on the return claiming the credit.
+
 #### (f) Regulations
 
 The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this section.
 
-(Added Pub. L. 94–455, title V, §504(a)(1), Oct. 4, 1976, 90 Stat. 1563, §44A; amended Pub. L. 95–600, title I, §121(a), Nov. 6, 1978, 92 Stat. 2779; Pub. L. 97–34, title I §124 (a)–(d), Aug. 13, 1981, 95 Stat. 197, 198; Pub. L. 98–21, title I, §122(c)(1), Apr. 20, 1983, 97 Stat. 87; renumbered §21 and amended Pub. L. 98–369, div. A, title IV, §§423(c)(4), 471(c), 474(c), July 18, 1984, 98 Stat. 801, 826, 830; Pub. L. 99–514, title I, §104(b)(1), Oct. 22, 1986, 100 Stat. 2104; Pub. L. 100–203, title X, §10101(a), Dec. 22, 1987, 101 Stat. 1330–384; Pub. L. 100–485, title VII, §703(a)–(c)(1), Oct. 13, 1988, 102 Stat. 2426, 2427.)
+(Added Pub. L. 94–455, title V, §504(a)(1), Oct. 4, 1976, 90 Stat. 1563, §44A; amended Pub. L. 95–600, title I, §121(a), Nov. 6, 1978, 92 Stat. 2779; Pub. L. 97–34, title I §124 (a)–(d), Aug. 13, 1981, 95 Stat. 197, 198; Pub. L. 98–21, title I, §122(c)(1), Apr. 20, 1983, 97 Stat. 87; renumbered §21 and amended Pub. L. 98–369, div. A, title IV, §§423(c)(4), 471(c), 474(c), July 18, 1984, 98 Stat. 801, 826, 830; Pub. L. 99–514, title I, §104(b)(1), Oct. 22, 1986, 100 Stat. 2104; Pub. L. 100–203, title X, §10101(a), Dec. 22, 1987, 101 Stat. 1330–384; Pub. L. 100–485, title VII, §703(a)–(c)(1), Oct. 13, 1988, 102 Stat. 2426, 2427; Pub. L. 104–188, title I, §1615(b), Aug. 20, 1996, 110 Stat. 1853.)
 
 #### Prior Provisions
 
 A prior section 21 was renumbered section 15 of this title.
 
 #### Amendments
+
+1996—Subsec. (e)(10). Pub. L. 104–188 added par. (10).
 
 1988—Subsec. (b)(1)(A). Pub. L. 100–485, §703(a), substituted “age of 13” for “age of 15”.
 
@@ -238,6 +244,18 @@ Subsec. (e)(2)(B). Pub. L. 97–34, §124(b)(2)(B), substituted “$400” for �
 
 1978—Subsec. (f)(6). Pub. L. 95–600 substituted provision disallowing a credit for any amount paid by a taxpayer to an individual with respect to whom, for the taxable year, a deduction under section 151(e) is allowable either to the taxpayer or his spouse or who is a child of the taxpayer who has not attained the age of 19 at the close of the taxpayer year and defining “taxpayer year” for provision disallowing a credit for any amount paid by the taxpayer to an individual bearing a relationship described in section 152(a)(1) through (8), or a dependent described in section 152(a)(9), except that a credit was allowed for an amount paid by a taxpayer to an individual with respect to whom, for the taxable year of the taxpayer in which the service was performed, neither the taxpayer nor his spouse was entitled to a deduction under section 151(e), provided the service constituted employment within the meaning of section 3121(b).
 
+#### Effective Date of 1996 Amendment
+
+Section 1615(d) of Pub. L. 104–188 provided that:
+
+“(1)
+
+In general.—The amendments made by this section \[amending this section and sections 151, 6109, 6213, and 6724 of this title\] shall apply with respect to returns the due date for which (without regard to extensions) is on or after the 30th day after the date of the enactment of this Act \[Aug. 20, 1996\].
+
+“(2)
+
+Special rule for 1995 and 1996.—In the case of returns for taxable years beginning in 1995 or 1996, a taxpayer shall not be required by the amendments made by this section to provide a taxpayer identification number for a child who is born after October 31, 1995, in the case of a taxable year beginning in 1995 or November 30, 1996, in the case of a taxable year beginning in 1996.”
+
 #### Effective Date of 1988 Amendment
 
 Section 703(d) of Pub. L. 100–485 provided that: “The amendments made by this section \[amending this section and sections 129 and 6109 of this title\] shall apply to taxable years beginning after December 31, 1988.”
@@ -272,7 +290,7 @@ Amendment by Pub. L. 98–21 applicable to taxable years beginning after Dec. 31
 
 Section 124(f) of Pub. L. 97–34 provided that:
 
-“(1) Except as provided in paragraph (2), the amendments made by this section \[amending this section andenacting section 129 of this title\] shall apply to taxable years beginning after December 31, 1981.
+“(1) Except as provided in paragraph (2), the amendments made by this section \[amending this section and enacting section 129 of this title\] shall apply to taxable years beginning after December 31, 1981.
 
 “(2) The amendments made by subsection (e)(2) \[amending sections 3121, 3306, and 3401 of this title and section 409 of Title 42, The Public Health and Welfare\] shall apply to remuneration paid after December 31, 1981.”
 
@@ -290,5 +308,5 @@ Pub. L. 101–508, title XI, §11114, Nov. 5, 1990, 104 Stat. 1388–414, provid
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 129, 213 of this title; title 7 section 2015; title 42 section 602.
+This section is referred to in sections 23, 129, 213, 6213 of this title; title 7 section 2015; title 42 section 602.
 

@@ -12,7 +12,7 @@ As used in this chapter—
 
 &emsp;(3) Of which a majority of its directors, trustees, or other persons exercising similar functions are directors of any one member bank; or
 
-&emsp;(4) Which owns or controls, directly or indirectly, either a majority of the shares of capital stock of a member bank or more than 50 per centum of the number of shares voted for the election of directors of a member bank at the preceding election, or controls in any manner the election of a majority of the directors of a member bank, or for the benefit of whose shareholders or members all or substantially all the capital stock of a member bank is held by trustees.
+&emsp;(4) Which owns or controls, directly or indirectly, either a majority of the shares of capital stock of a member bank or more than 50 per centum of the number of shares voted for the election of directors of a member bank at the preceding election, or controls in any manner the election of a majority of the directors of a member bank, or for the benefit ofwhose shareholders or members all or substantially all the capital stock of a member bank is held by trustees.
 
 (June 16, 1933, ch. 89, §2, 48 Stat. 162; Aug. 23, 1935, ch. 614, title III, §301, 49 Stat. 707; July 1, 1966, Pub. L. 89–485, §13(a), (b), 80 Stat. 242.)
 

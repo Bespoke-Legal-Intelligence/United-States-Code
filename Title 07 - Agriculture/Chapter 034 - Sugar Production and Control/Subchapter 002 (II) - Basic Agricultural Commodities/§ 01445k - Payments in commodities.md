@@ -42,6 +42,10 @@ Section was classified to section 1445b–4 of this title prior to its renumberi
 
 Amendment by Pub. L. 101–624 effective beginning with 1991 crop of an agricultural commodity, with provision for prior crops, see section 1171 of Pub. L. 101–624, set out as a note under section 1421 of this title.
 
+#### Inapplicability of Section
+
+Section inapplicable to 1996 through 2002 crops of loan commodities, peanuts, and sugar and inapplicable to milk during period beginning Apr. 4, 1996, and ending Dec. 31, 2002, see section 7301(b)(1)(G) of this title.
+
 #### Redemption of Commodity Certificates
 
 Section 1122(b) of Pub. L. 101–624 provided that:
@@ -57,4 +61,8 @@ Application and redemption limitations.—This subsection shall only apply durin
 “(3)
 
 Redemption limitations.—In no event shall a person receive a payment from the Commodity Credit Corporation for a certificate that is redeemed under this subsection in an amount greater than the price paid for the certificate by the person. No expired certificate shall be exchanged under this section if the owner purchased the certificate after January 1, 1990.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 7301 of this title.
 

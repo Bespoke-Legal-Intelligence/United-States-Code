@@ -18,13 +18,9 @@
 
 > recognizing the policy of this part that rail carriers shall earn adequate revenues, as established by the Board under section 10704(a)(2) of this title.
 
-(3) The Board shall, within one year after the effective date of this paragraph, complete the pending Interstate Commerce Commission non-coal rate guidelines proceeding to establish a simplified and expedited method for determining the reasonableness of challenged rail rates in those cases in which a full stand-alone cost presentation is too costly, given the value of the case.
+(3) The Board shall, within one year after January 1, 1996, complete the pending Interstate Commerce Commission non-coal rate guidelines proceeding to establish a simplified and expedited method for determining the reasonableness of challenged rail rates in those cases in which a full stand-alone cost presentation is too costly, given the value of the case.
 
-(Added Pub. L. 104–88, title I, §102(a), Dec. 29, 1995, 109 Stat. 809.)
-
-#### References in Text
-
-For the effective date of this paragraph, referred to in subsec. (d)(3), as Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 701 of this title.
+(Added Pub. L. 104–88, title I, §102(a), Dec. 29, 1995, 109 Stat. 809; amended Pub. L. 104–287, §5(22), Oct. 11, 1996, 110 Stat. 3390.)
 
 #### Prior Provisions
 
@@ -33,6 +29,10 @@ Prior sections 10701 and 10701a were omitted in the general amendment of this su
 Section 10701, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1371; Pub. L. 96–296, §13(a), July 1, 1980, 94 Stat. 803; Pub. L. 96–448, title II, §201(b)(1), (2), Oct. 14, 1980, 94 Stat. 1899, 1900; Pub. L. 97–261, §9(a), Sept. 20, 1982, 96 Stat. 1109; Pub. L. 103–180, §2(a), (b), (g), Dec. 3, 1993, 107 Stat. 2044, 2047, 2049, related to standards for rates, classifications, through routes, rules, and practices. See sections 10701, 13701, 13709, and 15501 of this title.
 
 Section 10701a, added Pub. L. 96–448, title II, §201(a), Oct. 14, 1980, 94 Stat. 1898; amended Pub. L. 103–272, §4(j)(19), July 5, 1994, 108 Stat. 1369, related to standards for rates for rail carriers. See section 10701 of this title.
+
+#### Amendments
+
+1996—Subsec. (d)(3). Pub. L. 104–287 substituted “January 1, 1996” for “the effective date of this paragraph”.
 
 #### Effective Date
 

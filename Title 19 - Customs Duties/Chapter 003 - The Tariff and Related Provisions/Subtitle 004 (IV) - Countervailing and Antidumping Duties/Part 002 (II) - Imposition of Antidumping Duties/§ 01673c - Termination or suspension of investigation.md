@@ -6,7 +6,7 @@
 
 #### (A) Withdrawal of petition
 
-&emsp;&emsp;Except as provided in paragraphs (2) and (3), an investigation under this part may beterminated by either the administering authority or the Commission, after notice to all parties to the investigation, upon withdrawal of the petition by the petitioner or by the administering authority if the investigation was initiated under section 1673a(a) of this title.
+&emsp;&emsp;Except as provided in paragraphs (2) and (3), an investigation under this part may be terminated by either the administering authority or the Commission, after notice to all parties to the investigation, upon withdrawal of the petition by the petitioner or by the administering authority if the investigation was initiated under section 1673a(a) of this title.
 
 #### (B) Refiling of petition
 
@@ -266,7 +266,7 @@ Subsec. (m). Pub. L. 103–465, §218(a)(2), added subsec. (m).
 
 1988—Subsecs. (g)(2), (h)(1). Pub. L. 100–418, §1326(d)(2), substituted “(F), or (G)” for “and (F)”.
 
-Subsec. (<i>l</i>). Pub. L. 100–418, §1316(c), added subsec. (<i>l).</i>
+Subsec. (<i>l</i>). Pub. L. 100–418, §1316(c), added subsec. (<i>l</i>).
 
 1984—Subsec. (a). Pub. L. 98–573, §604(b)(1), amended subsec. (a) generally, which prior to amendment read as follows: “An investigation under this part may be terminated by either the administering authority or the Commission after notice to all parties to the investigation, upon withdrawal of the petition by the petitioner. The Commission may not terminate an investigation under the preceding sentence before a preliminary determination is made by the administering authority under section 1673b(b) of this title.”
 
@@ -286,7 +286,7 @@ Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the d
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–418 applicable with respect to investigations initiated after Aug. 23, 1988, andto reviews initiated under section 1673e(c) or 1675 of this title after Aug. 23, 1988, see section 1337(b) of Pub. L. 100–418, set out as a note under section 1671 of this title.
+Amendment by Pub. L. 100–418 applicable with respect to investigations initiated after Aug. 23, 1988, and to reviews initiated under section 1673e(c) or 1675 of this title after Aug. 23, 1988, see section 1337(b) of Pub. L. 100–418, set out as a note under section 1671 of this title.
 
 #### Effective Date of 1984 Amendment
 

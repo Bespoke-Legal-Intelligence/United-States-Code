@@ -14,7 +14,7 @@ For purposes of this title, the term “life insurance contract” means any con
 
 #### (1) In general
 
-&emsp;A contract meets the cash value accumulation test of this subsection if, by the terms of the contract, the cash surrender value of such contract may not at any time exceed the net single premium which would have to be paid at such time to fund future benefits under the contract.
+&emsp;A contract meets the cash value accumulation test of this subsection if, by the terms of the contract, the cash surrender value of such contract may not at any time exceed the net single premium which would have to be paidat such time to fund future benefits under the contract.
 
 #### (2) Rules for applying paragraph (1)
 
@@ -52,7 +52,7 @@ For purposes of this section—
 
 &emsp;&emsp;The determination under subparagraph (A) shall be based on—
 
-&emsp;&emsp;&emsp;(i) reasonable mortality charges which meet the requirements (if any) prescribedin regulations and which (except as provided in regulations) do not exceed the mortality charges specified in the prevailing commissioners’ standard tables (as defined in section 807(d)(5)) as of the time the contract is issued,
+&emsp;&emsp;&emsp;(i) reasonable mortality charges which meet the requirements (if any) prescribed in regulations and which (except as provided in regulations) do not exceed the mortality charges specified in the prevailing commissioners’ standard tables (as defined in section 807(d)(5)) as of the time the contract is issued,
 
 &emsp;&emsp;&emsp;(ii) any reasonable charges (other than mortality charges) which (on the basis of the company's experience, if any, with respect to similar contracts) are reasonably expected to be actually paid, and
 
@@ -88,16 +88,9 @@ For purposes of this section—
 
 &nbsp;
 
-| &nbsp; | &nbsp; |
-| --- | --- |
-| In the case of an insured with an attained age as of the beginning of the contract year of: | The applicable percentage shall decrease by a ratable portion for each full year: |
-
-&nbsp;
-
-| &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+| <b>In the case of an insured  with an attained age as  of the beginning of the  contract year of:</b> | <b>The applicable percentage  shall decrease by a  ratable portion for each  full year:</b> |  |  |
 | :--- | :---: | :---: | ---: |
-| &nbsp; | <b>But not</b> |  |  |
-| <b>More than:</b> | <b>more than:</b> | <b>From:</b> | <b>To:</b> |
+| <b>More than:</b> | <b>But not more than:</b> | <b>From:</b> | <b>To:</b> |
 | 0 | 40 | &nbsp;250 | 250 |
 | 40 | 45 | &nbsp;250 | 215 |
 | 45 | 50 | &nbsp;215 | 185 |
@@ -491,7 +484,7 @@ Standards before regulations take effect.—In the case of any contract to which
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such planamendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
 #### Treatment of Flexible Premium Contracts Issued During 1984 Which Meet New Requirements
 
@@ -499,5 +492,5 @@ Section 221(b)(3) of Pub. L. 98–369, as added by Pub. L. 99–514, title XVIII
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 56, 72, 817, 7702A of this title.
+This section is referred to in sections 56, 72, 817, 817A, 7702A, 7702B of this title.
 

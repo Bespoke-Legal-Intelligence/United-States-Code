@@ -14,7 +14,7 @@ In general.—Except as provided in sections 3329 and 3330 of this title—
 
 &emsp;(2)
 
-Deferral pending settlement.—Notwithstanding the time limitations imposed by paragraph (1), if the Secretary is on notice of a question of law or fact about whether a Treasury check is properly payable when the check is presented for payment, the Secretary may defer payment on such check until the Comptroller General settles the question.
+Deferral pending settlement.—Notwithstanding the time limitations imposed by paragraph (1), if the Secretary is on notice of a question of law or fact about whether a Treasury check is properly payable when the check is presented for payment, the Secretary may defer payment on such check until the question is settled.
 
 &emsp;(3) Nothing in this subsection shall be construed to affect the underlying obligation of the United States, or any agency thereof, for which a Treasury check was issued.
 
@@ -24,11 +24,11 @@ Deferral pending settlement.—Notwithstanding the time limitations imposed by p
 
 &emsp;(B) deposited in the Treasury for credit to a consolidated account of the Treasury.
 
-(2) A claim for the proceeds of an unpaid check under this subsection may be paid from a consolidated account by a check drawn on the Treasury on settlement by the Comptroller General.
+(2) A claim for the proceeds of an unpaid check under this subsection may be paid from a consolidated account by a check drawn on the Treasury.
 
 (c) A limitation imposed on a claim against the United States Government under section 3702 of this title does not apply to an unpaid check drawn on the Treasury or a designated depositary.
 
-(d) With the approval of the Comptroller General, the Secretary may prescribe regulations the Secretary decides are necessary to carry out subsections (a)–(c) of this section.
+(d) The Secretary may prescribe regulations the Secretary decides are necessary to carry out subsections (a)–(c) of this section.
 
 (e)(1) The Secretary shall prescribe regulations on—
 
@@ -44,7 +44,7 @@ Deferral pending settlement.—Notwithstanding the time limitations imposed by p
 
 Authority To Decline Payment.—Nothing in this section limits the authority of the Secretary to decline payment of a Treasury check after first examination thereof at the Treasury.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 952; Pub. L. 100–86, title X, §1002, Aug. 10, 1987, 101 Stat. 658.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 952; Pub. L. 100–86, title X, §1002, Aug. 10, 1987, 101 Stat. 658; Pub. L. 104–316, title I, §115(d), Oct. 19, 1996, 110 Stat. 3834.)
 
 Historical and Revision Notes
 
@@ -92,7 +92,7 @@ In subsections (a)(1) and (c), the words “heretofore or hereafter” are omitt
 
 In subsection (a)(1), the words “Except as provided in sections 3330 and 3331 of this title” are added for clarity. The words “including those drawn by wholly owned and mixed-ownership Government corporations” are omitted as surplus. The words “Secretary of the Treasury” are substituted for “Treasurer of the United States” after “for payment the” because of the source provisions restated in section 321(c) of the revised title. The words “doubtful”, “for payment”, and “of such check” are omitted as surplus.
 
-In subsection (a)(2), before clause (A), the words “When the Secretary decides it is appropriate” are substituted for “at appropriate intervals” for clarity. In clauses (A) and (B), the words “on the books” are omitted as surplus. In clause (A), the words “drawn on the Treasury” are added for clarity and consistency. In clause (B), the words “from the accounts . . . for the payment of unpaid checks . . . of the Treasury” are omitted as surplus. The words “and to transfer to such consolidated account or accounts the balance of the special deposit account established pursuant to section 132 of this title”, and the words “any unpaid checksheretofore payable from the special deposit account”, are omitted as executed because the account was established under 31:132 as originally enacted in 1947 and then abolished by the 1957 amendment to that section. The text of 31:134(1st proviso) is omitted as superseded by section 448 of the Act of December 24, 1973 (Pub. L. 93–198, 87 Stat. 801). The text of 31:134(last proviso) is omitted as executed.
+In subsection (a)(2), before clause (A), the words “When the Secretary decides it is appropriate” are substituted for “at appropriate intervals” for clarity. In clauses (A) and (B), the words “on the books” are omitted as surplus. In clause (A), the words “drawn on the Treasury” are added for clarity and consistency. In clause (B), the words “from the accounts . . . for the payment of unpaid checks . . . of the Treasury” are omitted as surplus. The words “and to transfer to such consolidated account or accounts the balance of the special deposit account established pursuant to section 132 of this title”, and the words “any unpaid checks heretofore payable from the special deposit account”, are omitted as executed because the account was established under 31:132 as originally enacted in 1947 and then abolished by the 1957 amendment to that section. The text of 31:134(1st proviso) is omitted as superseded by section 448 of the Act of December 24, 1973 (Pub. L. 93–198, 87 Stat. 801). The text of 31:134(last proviso) is omitted as executed.
 
 In subsection (b)(1), before clause (A), the words “issued by a disbursing official” are substituted for “drawn by authorized officers of the United States” for consistency. In clause (B), the words “or accounts on the books” are omitted as surplus.
 
@@ -109,6 +109,12 @@ In subsection (e)(2), the words “and directions” are omitted as surplus.
 The effective date of this section, referred to in subsec. (a)(1), probably means the effective date of subsec. (a) of this section as amended by section 1002 of Pub. L. 100–86, which is effective 6 months after Aug. 10, 1987, or on such later date as the Secretary of the Treasury may prescribe in regulations. See section 1006 of Pub. L. 100–86, set out as a note below.
 
 #### Amendments
+
+1996—Subsec. (a)(2). Pub. L. 104–316, §115(d)(1), substituted “until the question is settled” for “until the Comptroller General settles the question”.
+
+Subsec. (b)(2). Pub. L. 104–316, §115(d)(2), struck out “on settlement by the Comptroller General” after “the Treasury”.
+
+Subsec. (d). Pub. L. 104–316, §115(d)(3), substituted “The” for “With the approval of the Comptroller General, the”.
 
 1987—Subsec. (a). Pub. L. 100–86, §1002(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows:
 

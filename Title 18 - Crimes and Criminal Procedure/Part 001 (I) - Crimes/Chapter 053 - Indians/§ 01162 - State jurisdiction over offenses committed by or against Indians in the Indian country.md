@@ -1,4 +1,4 @@
-### §1162 . State jurisdiction over offenses committed by or against Indians in the Indian country
+### §1162. State jurisdiction over offenses committed by or against Indians in the Indian country
 
 (a) Each of the States or Territories listed in the following table shall have jurisdiction over offenses committed by or against Indians in the areas of Indian country listed opposite the name of the State or Territory to the same extent that such State or Territory has jurisdiction over offenses committed elsewhere within the State or Territory, and the criminal laws of such State or Territory shall have the same force and effect within such Indian country as they have elsewhere within the State or Territory:
 

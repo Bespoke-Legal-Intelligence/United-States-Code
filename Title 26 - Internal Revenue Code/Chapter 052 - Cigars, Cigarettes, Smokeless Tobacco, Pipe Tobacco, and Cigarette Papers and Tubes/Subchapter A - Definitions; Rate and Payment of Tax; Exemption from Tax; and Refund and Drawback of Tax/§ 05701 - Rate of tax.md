@@ -88,7 +88,7 @@ Subsec. (f). Pub. L. 101–508, §11202(f), substituted “67.5 cents (56.25 cen
 
 Subsec. (b)(2). Pub. L. 97–248, §283(a)(2), substituted “$16.80” for “$8.40”.
 
-1976—Subsec. (a). Pub. L. 94–455, §2128(a), substituted provisions setting a tax of 81/2 percent of the wholesale price, but not more than $20 per thousand, on cigars weighing more than 3 pounds per thousand for provisions setting the tax according to a graduated table running from $2.50 per thousand for large cigars if removed to retail at not more than 21/2 cents each to $20 per thousand if removed to retail at more than 20 cents each, and struck out provisions that, in determining the retail price, for tax purposes, regard be had to the ordinary retail price of a single cigar in its principalmarket, exclusive of any State or local taxes imposed on cigars as a commodity, and that, for purposes of that determination, the amount of State or local tax excluded from the retail price be the actual tax imposed, except that, if the combined taxes resulted in a numerical figure ending in a fraction of a cent, the amount so excluded would be rounded to the next highest full cent unless such rounding would result in a tax lower than the tax which would be imposed in the absence of State or local tax.
+1976—Subsec. (a). Pub. L. 94–455, §2128(a), substituted provisions setting a tax of 81/2 percent of the wholesale price, but not more than $20 per thousand, on cigars weighing more than 3 pounds per thousand for provisions setting the tax according to a graduated table running from $2.50 per thousand for large cigars if removed to retail at not more than 21/2 cents each to $20 per thousand if removed to retail at more than 20 cents each, and struck out provisions that, in determining the retail price, for tax purposes, regard be had to the ordinary retail price of a single cigar in its principal market, exclusive of any State or local taxes imposed on cigars as a commodity, and that, for purposes of that determination, the amount of State or local tax excluded from the retail price be the actual tax imposed, except that, if the combined taxes resulted in a numerical figure ending in a fraction of a cent, the amount so excluded would be rounded to the next highest full cent unless such rounding would result in a tax lower than the tax which would be imposed in the absence of State or local tax.
 
 Subsec. (e). Pub. L. 94–455, §1905(a)(24), inserted “, unless such import duties are imposed in lieu of internal revenue tax” after “such articles”.
 
@@ -168,7 +168,7 @@ Transitional rule.—Any person who—
 
 #### Effective Date of 1982 Amendment
 
-Section 283(c) of Pub. L. 97–248, as amended by Pub. L. 99–107, §2, Sept. 30, 1985, 99 Stat. 479; Pub. L. 99–155, §2(a), Nov. 14, 1985, 99 Stat. 814; Pub. L. 99–181, §1, Dec. 13, 1985, 99 Stat. 1172; Pub. L. 99–189, §1, Dec. 18, 1985, 99 Stat. 1184; Pub. L. 99–201, §1, Dec. 23, 1985, 99 Stat. 1665; Pub. L. 99–272, title XIII, §13201(a), Apr. 7, 1986, 100 Stat. 311, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to cigarettes removed after December 31, 1982.”
+Section 283(c) of Pub. L. 97–248, as amended by Pub. L. 99–107, §2, Sept. 30, 1985, 99 Stat. 479; Pub. L. 99–155,§2(a), Nov. 14, 1985, 99 Stat. 814; Pub. L. 99–181, §1, Dec. 13, 1985, 99 Stat. 1172; Pub. L. 99–189, §1, Dec. 18, 1985, 99 Stat. 1184; Pub. L. 99–201, §1, Dec. 23, 1985, 99 Stat. 1665; Pub. L. 99–272, title XIII, §13201(a), Apr. 7, 1986, 100 Stat. 311, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to cigarettes removed after December 31, 1982.”
 
 \[Pub. L. 99–272, title XIII, §13201(b), Apr. 7, 1986, 100 Stat. 311, provided that: “For purposes of all Federal and State laws, the amendment made by subsection (a) \[amending section 283(c) of Pub. L. 97–248, set out above\] shall be treated as having taken effect on March 14, 1986.”\]
 
@@ -292,7 +292,7 @@ Method of payment.—The tax imposed by paragraph (1) shall be treated as a tax 
 
 &emsp;“(C)
 
-Treatment of pipe tobacco in foreign trade zones.—Notwithstanding the Act of June 18, 1934 (48 Stat. 998, 19 U.S.C. 81a) or any other provision of law, pipe tobacco which is located in a foreign trade zone on January 1, 1989, shall be subject to the tax imposed by paragraph (1) and shall be treated for purposes of this subsection as held on such date for sale if—
+Treatment of pipe tobacco in foreign trade zones.—Notwithstanding the Act of June 18, 1934 (48Stat. 998, 19 U.S.C. 81a) or any other provision of law, pipe tobacco which is located in a foreign trade zone on January 1, 1989, shall be subject to the tax imposed by paragraph (1) and shall be treated for purposes of this subsection as held on such date for sale if—
 
 &emsp;&emsp;“(i) internal revenue taxes have been determined, or customs duties liquidated, with respect to such pipe tobacco before such date pursuant to a request made under the first proviso of section 3(a) of such Act \[19 U.S.C. 81c(a)\], or
 

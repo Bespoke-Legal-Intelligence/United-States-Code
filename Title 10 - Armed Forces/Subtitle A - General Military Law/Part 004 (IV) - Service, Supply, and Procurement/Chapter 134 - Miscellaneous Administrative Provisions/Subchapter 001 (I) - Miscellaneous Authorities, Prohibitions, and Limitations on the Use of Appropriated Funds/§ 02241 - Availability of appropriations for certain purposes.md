@@ -34,11 +34,63 @@ Subsection (b) of this section and sections 2242(1), (4) and 2253(a)(1) of this 
 
 Section 705 of Public Law 98–212, to be codified as 10 U.S.C. 2241(b), provides that defense appropriations may be used in connection with certain services and supplies “as may be necessary to carry out the purposes of this Act”. The reference to “this Act” means Public Law 98–212, the FY84 Defense Appropriations Act. Language similar to section 705 had been enacted as part of the annual defense appropriation Act for many years. In the FY84 Act, section 705 was enacted as a permanent provision. The quoted phrase above was not, however, revised from the traditional annual wording as the provision had appeared in annual appropriations Acts in order to give it effect beyond the fiscal year concerned. Since the general purpose of a defense appropriations Act is to provide funds for national defense purposes, the committee, in codifying this provision, revised the quoted phrase so as to read “that may be necessary for the national defense”. No change in meaning is intended.
 
+#### Demonstration Project for Uniform Funding of Morale, Welfare, and Recreation Activities at Certain Military Installations
+
+Pub. L. 104–106, div. A, title III, §335, Feb. 10, 1996, 110 Stat. 262, provided that:
+
+“(a)
+
+Demonstration Project Required.—(1) The Secretary of Defense shall conduct a demonstration project to evaluate the feasibility of using only nonappropriated funds to support morale, welfare, and recreation programs at military installations in order to facilitate the procurement of property and services for those programs and the management of employees used to carry out those programs.
+
+“(2) Under the demonstration project—
+
+&emsp;“(A) procurements of property and services for programs referred to in paragraph (1) may be carried out in accordance with laws and regulations applicable to procurements paid for with nonappropriated funds; and
+
+&emsp;“(B) appropriated funds available for such programs may be expended in accordance with laws applicable to expenditures of nonappropriated funds as if the appropriated funds were nonappropriated funds.
+
+“(3) The Secretary shall prescribe regulations to carry out paragraph (2). The regulations shall provide for financial management and accounting of appropriated funds expended in accordance with subparagraph (B) of such paragraph.
+
+“(b)
+
+Covered Military Installations.—The Secretary shall select not less than three and not more than six military installations to participate in the demonstration project.
+
+“(c)
+
+Period of Demonstration Project.—The demonstration project shall terminate not later than September 30, 1998.
+
+“(d)
+
+Effect on Employees.—For the purpose of testing fiscal accounting procedures, the Secretary may convert, for the duration of the demonstration project, the status of an employee who carries out a program referred to in subsection (a)(1) from the status of an employee paid by appropriated funds to the status of a nonappropriated fund instrumentality employee, except that such conversion may occur only—
+
+&emsp;“(1) if the employee whose status is to be converted—
+
+&emsp;&emsp;“(A) is fully informed of the effects of such conversion on the terms and conditions of the employment of that employee for purposes of title 5, United States Code, and on the benefits provided to that employee under such title; and
+
+&emsp;&emsp;“(B) consents to such conversion; or
+
+&emsp;“(2) in a manner which does not affect such terms and conditions of employment or such benefits.
+
+“(e)
+
+Reports.—(1) Not later than six months after the date of the enactment of this Act \[Feb. 10, 1996\], the Secretary shall submit to Congress an interim report on the implementation of this section.
+
+“(2) Not later than December 31, 1998, the Secretary shall submit to Congress a final report on the results of the demonstration project. The report shall include a comparison of—
+
+&emsp;“(A) the cost incurred under the demonstration project in using employees paid by appropriated funds together with nonappropriated fund instrumentality employees to carry out the programs referred to in subsection (a)(1); and
+
+&emsp;“(B) an estimate of the cost that would have been incurred if only nonappropriated fund instrumentality employees had been used to carry out such programs.”
+
 #### Interagency Courier Service
 
 Pub. L. 103–335, title VIII, §8119, Sept. 30, 1994, 108 Stat. 2649, provided that: “During the current fiscal year and hereafter, the Department of State and the Department of Defense are authorized to provide interagency courier service on a non-reimbursable basis.”
 
 #### Restrictions on Procurements From Outside of United States
+
+Pub. L. 104–208, div. A, title I, §101(b) \[title VIII, §8109\], Sept. 30, 1996, 110 Stat. 3009–71, 3009–111, provided that: “In applying section 9005 of the Department of Defense Appropriations Act, 1993, Public Law 102–396 (10 U.S.C. 2241 note), during the current fiscal year and thereafter—
+
+&emsp;“(1) the term ‘synthetic fabric and coated synthetic fabric’ shall be deemed to include all textile fibers and yarns that are for use in such fabrics; and
+
+&emsp;“(2) such section shall be treated, notwithstanding section 34 of Public Law 93–400 (41 U.S.C. 430), as being applicable to contracts and subcontracts for the procurement of commercial items that are articles or items, specialty metals, or tools covered by that section 9005.”
 
 Pub. L. 102–396, title IX, §9005, Oct. 6, 1992, 106 Stat. 1900, as amended by Pub. L. 103–139, title VIII, §8005, Nov. 11, 1993, 107 Stat. 1438; Pub. L. 103–355, title IV, §4401(e), Oct. 13, 1994, 108 Stat. 3348, provided that: “During the current fiscal year and hereafter, no part of any appropriation or any other funds available to the Department of Defense, except for purchases for amounts not greater than the simplified acquisition threshold covered by section 2304(g) of title 10, United States Code, shall be available for the procurement of any article or item of food, clothing, tents, tarpaulins, covers, cotton and other natural fiber products, woven silk or woven silk blends, spun silk yarn for cartridge cloth, synthetic fabric or coated synthetic fabric, canvas products, or wool (whether in the form of fiber or yarn or contained in fabrics, materials, or manufactured articles), or any item of individual equipment manufactured from or containing such fibers, yarns, fabrics, or materials, or specialty metals including stainless steel flatware, or hand or measuring tools, not grown, reprocessed, reused, or produced in the United States or its possessions, except to the extent that the Secretary of the Department concerned shall determine that satisfactory quality and sufficient quantity of any articles or items of food, individual equipment, tents, tarpaulins, covers, or clothing or any form of cotton or other natural fiber products, woven silk and woven silk blends, spun silk yarn for cartridge cloth, synthetic fabric or coated synthetic fabric, canvas products, wool, or specialty metals including stainless steel flatware, grown, reprocessed, reused, or produced in the United States or its possessions cannot be procured as and when needed at United States market prices and except procurements outside the United States in support of combat operations, procurements by vessels in foreign waters, and emergency procurements or procurements of perishable foods by establishments located outside the United States for the personnel attached thereto: <i>Provided</i>, That nothing herein shall preclude the procurement of specialty metals or chemical warfare protective clothing produced outside the United States or its possessions when such procurement is necessary to comply with agreements with foreign governments requiring the United States to purchase supplies from foreign sources for the purposes of offsetting sales made by the United States Government or United States firms under approved programs serving defense requirements or where such procurement is necessary in furtherance of agreements with foreign governments in which both governments agree to remove barriers to purchases of supplies produced in the other country or services performed by sources of the other country, so long as such agreements with foreign governments comply, where applicable, with the requirements of section 36 of the Arms Export Control Act \[22 U.S.C. 2776\] and with section 2457 of title 10, United States Code: <i>Provided further</i>, That nothing herein shall preclude the procurement of foods manufactured or processed in the United States or its possessions.”
 
@@ -86,7 +138,7 @@ Sec. 9025. \[Provided that no funds available to the Department of Defense could
 
 “
 
-Sec. 9030. \[Provided that funds available to the Department of Defense could be used by the Department for helicopters and motorized equipment at Defense installations for removal of feral burros and horses; and was repealed and restated in section 2678 of this title by Pub. L. 101–510, div. A, title XIV, §1481(h)(1), (3), Nov. 5, 1990, 104 Stat. 1708.\]
+Sec. 9030. \[Provided that funds available to the Department of Defense could be used by the Department for helicopters and motorized equipment at Defense installations for removal of feral burros and horses; andwas repealed and restated in section 2678 of this title by Pub. L. 101–510, div. A, title XIV, §1481(h)(1), (3), Nov. 5, 1990, 104 Stat. 1708.\]
 
 “Sec. 9079. None of the funds appropriated by this Act or hereafter shall be obligated for the second career training program authorized by Public Law 96–347 \[amending sections 2109, 3307, 3381 to 3385, and 8335 of Title 5, Government Organization and Employees\].”
 

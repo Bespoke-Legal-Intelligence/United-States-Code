@@ -6,7 +6,9 @@ A person that may be adversely affected by a regulation prescribed under this ch
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

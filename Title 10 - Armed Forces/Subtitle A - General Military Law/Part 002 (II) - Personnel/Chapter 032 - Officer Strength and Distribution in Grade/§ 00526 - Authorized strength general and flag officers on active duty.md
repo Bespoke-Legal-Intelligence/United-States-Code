@@ -4,41 +4,37 @@
 
 Limitations.—The number of general officers on active duty in the Army, Air Force, and Marine Corps, and the number of flag officers on active duty in the Navy, may not exceed the number specified for the armed force concerned as follows:
 
-&emsp;(1) For the Army, 386 before October 1, 1995, and 302 on and after that date.
+&emsp;(1) For the Army, 302.
 
-&emsp;(2) For the Navy, 250 before October 1, 1995, and 216 on and after that date.
+&emsp;(2) For the Navy, 216.
 
-&emsp;(3) For the Air Force, 326 before October 1, 1995, and 279 on and after that date.
+&emsp;(3) For the Air Force, 279.
 
-&emsp;(4) For the Marine Corps, 68.
+&emsp;(4) For the Marine Corps, 80.
 
 (b)
 
-Transfers Between Services.—During the period before October 1, 1995, the Secretary of Defense may increase the number of general officers on active duty in the Army, Air Force, or Marine Corps, or the number of flag officers on active duty in the Navy, above the applicable number specified in subsection (a) by a total of not more than five. Whenever any such increase is made, the Secretary shall make a corresponding reduction in the number of such officers that may serve on active duty in general or flag officer grades in one of the other armed forces.
-
-(c)
-
-Limited Exclusion for Joint Duty Requirements.—(1) The Chairman of the Joint Chiefs of Staff may designate up to 12 general officer and flag officer positions that are joint duty assignments for purposes of chapter 38 of this title for exclusion from the limitations in subsection (a) that are applicable on and after October 1, 1995. Officers in positions so designated shall not be counted for the purposes of those limitations.
+Limited Exclusion for Joint Duty Requirements.—(1) The Chairman of the Joint Chiefs of Staff may designate up to 12 general officer and flag officer positions that are joint duty assignments for purposes of chapter 38 of this title for exclusion from the limitations in subsection (a). Officers in positions so designated shall not be counted for the purposes of those limitations.
 
 (2) This subsection shall cease to be effective on October 1, 1998.
 
-(d)
+(c)
 
-Notice to Congress Upon Change in Grade for Certain Positions.—(1) Not later than 60 days before an action specified in paragraph (2) may become effective, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives a report providing notice of the intended action and an analytically based justification for the intended action.
+Notice to Congress Upon Change in Grade for Certain Positions.—(1) Not later than 60 days before an action specified in paragraph (2) may become effective, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives a report providing notice of the intended action and an analytically based justification for the intended action.
 
 (2) Paragraph (1) applies in the case of the following actions:
 
-&emsp;(A) A change in the grade authorized as of July 1, 1994, for a general officer position in the National Guard Bureau, a general or flag officer position in the Office of a Chief of a reserve component, or a general or flag officer position in the headquarters of a reserve component command.
+&emsp;(A) A change in the grade authorized as of July 1, 1994, for a general officer position in the National Guard Bureau, a general or flag officer position in the Office of a Chief of a reserve component, or a general or flag officerposition in the headquarters of a reserve component command.
 
-&emsp;(B) Assignment of a reserve component officer to a general officer position in the the <sup>1</sup> National Guard Bureau, to a general or flag officer position in the Office of a Chief of a reserve component, or a <sup>2</sup> general or flag officer position in the headquarters of a reserve component command in a grade other the <sup>3</sup> grade authorized for that position as of July 1, 1994.
+&emsp;(B) Assignment of a reserve component officer to a general officer position in the National Guard Bureau, to a general or flag officer position in the Office of a Chief of a reserve component, or to a general or flag officer position in the headquarters of a reserve component command in a grade other than the grade authorized for that position as of July 1, 1994.
 
 &emsp;(C) Assignment of an officer other than a general or flag officer as the military executive to the Reserve Forces Policy Board.
 
-(e)
+(d)
 
 Exclusion of Certain Officers.—The limitations of this section do not apply to a reserve component general or flag officer who is on active duty for training or who is on active duty under a call or order specifying a period of less than 180 days.
 
-(Added Pub. L. 100–370, §1(b)(1)(B), July 19, 1988, 102 Stat. 840; amended Pub. L. 101–510, div. A, title IV, §403(a), Nov. 5, 1990, 104 Stat. 1545; Pub. L. 102–484, div. A, title IV, §403, Oct. 23, 1992, 106 Stat. 2398; Pub. L. 103–337, div. A, title IV, §404, title V, §512, Oct. 5, 1994, 108 Stat. 2744, 2752.)
+(Added Pub. L. 100–370, §1(b)(1)(B), July 19, 1988, 102 Stat. 840; amended Pub. L. 101–510, div. A, title IV, §403(a), Nov. 5, 1990, 104 Stat. 1545; Pub. L. 102–484, div. A, title IV, §403, Oct. 23, 1992, 106 Stat. 2398; Pub. L. 103–337, div. A, title IV, §404, title V, §512, Oct. 5, 1994, 108 Stat. 2744, 2752; Pub. L. 104–106, div. A, title XV, §§1502(a)(1), 1503(a)(3), Feb. 10, 1996, 110 Stat. 502, 510; Pub. L. 104–201, div. A, title IV, §405, Sept. 23, 1996, 110 Stat. 2506.)
 
 #### Historical and Revision Notes
 
@@ -52,6 +48,28 @@ A prior section 526 was renumbered section 527 of this title.
 
 #### Amendments
 
+1996—Subsec. (a)(1) to (3). Pub. L. 104–106, §1503(a)(3)(A), added pars. (1) to (3) and struck out former pars. (1) to (3) which read as follows:
+
+“(1) For the Army, 386 before October 1, 1995, and 302 on and after that date.
+
+“(2) For the Navy, 250 before October 1, 1995, and 216 on and after that date.
+
+“(3) For the Air Force, 326 before October 1, 1995, and 279 on and after that date.”
+
+Subsec. (a)(4). Pub. L. 104–201 substituted “80” for “68”.
+
+Subsec. (b). Pub. L. 104–106, §1503(a)(3)(B)–(D), redesignated subsec. (c) as (b), struck out “that are applicable on and after October 1, 1995” after “limitations in subsection (a)”, and struck out former subsec. (b) which read as follows: “
+
+Transfers Between Services.—During the period before October 1, 1995, the Secretary of Defense may increase the number of general officers on active duty in the Army, Air Force, or Marine Corps, or the number of flag officers on active duty in the Navy, above the applicable number specified in subsection (a) by a total of not more than five. Whenever any such increase is made, the Secretary shall make a corresponding reduction in the number of such officers that may serve on active duty in general or flag officer grades in one of the other armed forces.”
+
+Subsec. (c). Pub. L. 104–106, §1503(a)(3)(C), (E), redesignated subsec. (d) as (c) and, in par. (2)(B), struck out “the” after “general officer position in the” and inserted “to” after “reserve component, or” and “than” after “in a grade other”. Former subsec. (c) redesignated (b).
+
+Subsec. (d). Pub. L. 104–106, §1503(a)(3)(C), redesignated subsec. (e) as (d). Former subsec. (d) redesignated (c).
+
+Subsec. (d)(1). Pub. L. 104–106, §1502(a)(1), substituted “Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives” for “Committees on Armed Services of the Senate and House of Representatives”.
+
+Subsec. (e). Pub. L. 104–106, §1503(a)(3)(C), redesignated subsec. (e) as (d).
+
 1994—Subsec. (a)(4). Pub. L. 103–337, §404, struck out “before October 1, 1995, and 61 on and after that date” after “Corps, 68”.
 
 Subsecs. (d), (e). Pub. L. 103–337, §512, added subsecs. (d) and (e).
@@ -62,10 +80,6 @@ Subsec. (c). Pub. L. 102–484, §403(a), added subsec. (c).
 
 1990—Pub. L. 101–510 amended section generally. Prior to amendment, text read as follows: “The total number of general officers on active duty in the Army, Air Force, and Marine Corps and flag officers on active duty in the Navy may not exceed 1,073.”
 
-#### Change of Name
-
-Committee on Armed Services of House of Representatives treated as referring to Committee on National Security of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
-
 #### Effective Date of 1990 Amendment
 
 Section 403(a) of Pub. L. 101–510 provided that the amendment made by that section is effective Sept. 30, 1991.
@@ -73,10 +87,4 @@ Section 403(a) of Pub. L. 101–510 provided that the amendment made by that sec
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 527, 3210, 5150, 8210, 12004 of this title.
-
-<i><sup>1</sup></i><i> So in original.</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be preceded by “to”.</i>
-
-<i><sup>3</sup></i><i> So in original. Probably should be preceded by “than”.</i>
 

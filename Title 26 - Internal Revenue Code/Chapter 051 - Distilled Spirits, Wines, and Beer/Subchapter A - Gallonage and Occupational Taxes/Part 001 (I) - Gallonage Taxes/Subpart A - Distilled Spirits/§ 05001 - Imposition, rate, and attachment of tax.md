@@ -114,7 +114,7 @@ Electronic transfer provisions.—The amendments made by subsection (c) \[amendi
 
 #### Effective Date of 1979 Amendment
 
-Section 810 of title VIII of Pub. L. 96–39 provided that: “The amendments made by this title \[amending this section and sections 5002 to 5008, 5043, 5061, 5064, 5066, 5116, 5171 to 5173, 5175 to 5178, 5180, 5181, 5201 to 5205, 5207, 5211 to 5215, 5221 to 5223, 5231, 5232, 5235, 5241, 5273, 5291, 5301, 5352, 5361 to 5363, 5365, 5381, 5391, 5551, 5601, 5604, 5610, 5612, 5615, 5663, 5681, 5682, and 5691 of this title, repealing sections 5009, 5021 to 5026, 5081 to 5084, 5174, 5233, 5234, 5251, 5252, 5364, and 5521 to 5523 of this title, and enacting provisions set out as notes under sections1, 5061, 5171, and 5173 of this title\] shall take effect on January 1, 1980.”
+Section 810 of title VIII of Pub. L. 96–39 provided that: “The amendments made by this title \[amending this section and sections 5002 to 5008, 5043, 5061, 5064, 5066, 5116, 5171 to 5173, 5175 to 5178, 5180, 5181, 5201 to 5205, 5207, 5211 to 5215, 5221 to 5223, 5231, 5232, 5235, 5241, 5273, 5291, 5301, 5352, 5361 to 5363, 5365, 5381, 5391, 5551, 5601, 5604, 5610, 5612, 5615, 5663, 5681, 5682, and 5691 of this title, repealing sections 5009, 5021 to 5026, 5081 to 5084, 5174, 5233, 5234, 5251, 5252, 5364, and 5521 to 5523 of this title, and enacting provisions set out as notes under sections 1, 5061, 5171, and 5173 of this title\] shall take effect on January 1, 1980.”
 
 #### Effective Date of 1965 Amendment
 

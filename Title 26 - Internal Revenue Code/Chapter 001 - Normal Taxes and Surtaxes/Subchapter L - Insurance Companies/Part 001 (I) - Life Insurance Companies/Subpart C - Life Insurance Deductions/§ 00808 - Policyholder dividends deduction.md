@@ -2,7 +2,7 @@
 
 #### (a) Policyholder dividend defined
 
-For purposes of this part, the term “policyholder dividend” means any dividend or similardistribution to policyholders in their capacity as such.
+For purposes of this part, the term “policyholder dividend” means any dividend or similar distribution to policyholders in their capacity as such.
 
 #### (b) Certain amounts included
 
@@ -68,7 +68,7 @@ For purposes of this part, any policyholder dividend which—
 
 #### (3) Accelerated policyholder dividends deduction defined
 
-&emsp;For purposes of this subsection, the term “accelerated policyholder dividends deduction” means the amount which (but for this subsection) would be determined for the taxable year under paragraph (1) of subsection (c) but which would have been determined (under such paragraph) for a later taxable year under the business practices of the taxpayer as in effect at the close of the preceding taxable year.
+&emsp;For purposes of this subsection, the term “accelerated policyholder dividends deduction” means the amount which (but for this subsection) would be determined for the taxable year under paragraph (1) of subsection (c) but which would have been determined (undersuch paragraph) for a later taxable year under the business practices of the taxpayer as in effect at the close of the preceding taxable year.
 
 #### (4) 1984 fresh-start adjustment for policyholder dividends
 
@@ -122,5 +122,5 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 805, 809, 812, 818, 848 of this title.
+This section is referred to in sections 805, 809, 812, 818, 848, 7702B of this title.
 

@@ -20,7 +20,7 @@
 
 #### (b) No recovery from persons without fault
 
-In any case in which more than the correct amount of payment has been made, there shall be no adjustment of payments to, or recovery by the United States from, any person who is without fault if such adjustment or recovery would defeat the purpose of this subchapter or would be against equity and good conscience. In making for purposes of this subsection any determination of whether any individual is without fault, the Commissioner of Social Security shallspecifically take into account any physical, mental, educational, or linguistic limitation such individual may have (including any lack of facility with the English language).
+In any case in which more than the correct amount of payment has been made, there shall be no adjustment of payments to, or recovery by the United States from, any person who is without fault if such adjustment or recovery would defeat the purpose of this subchapter or would be against equity and good conscience. In making for purposes of this subsection any determination of whether any individual is without fault, the Commissioner of Social Security shall specifically take into account any physical, mental, educational, or linguistic limitation such individual may have (including any lack of facility with the English language).
 
 #### (c) Nonliability of certifying and disbursing officers
 
@@ -50,7 +50,7 @@ For payments which are adjusted by reason of payment of benefits under the suppl
 
 #### (f) Collection of delinquent amounts
 
-(1) With respect to any delinquent amount, the Commissioner of Social Security may use the collection practices described in sections 3711(f), 3716, and 3718 of title 31 as in effect on October 1, 1994.
+(1) With respect to any deliquent <sup>1</sup> amount, the Commissioner of Social Security may use the collection practices described in sections 3711(e), 3716, 3717, and 3718 of title 31 and in section 5514 of title 5, as in effect immediately after April 26, 1996.
 
 (2) For purposes of paragraph (1), the term “delinquent amount” means an amount—
 
@@ -60,9 +60,13 @@ For payments which are adjusted by reason of payment of benefits under the suppl
 
 &emsp;(C) determined by the Commissioner of Social Security, under regulations, to be otherwise unrecoverable under this section after such person ceases to be a beneficiary under this subchapter.
 
-(Aug. 14, 1935, ch. 531, title II, §204, 49 Stat. 624; Aug. 10, 1939, ch. 666, title II, §201, 53 Stat. 1362, 1368; Aug. 28, 1950, ch. 809, title I, §109(b)(1), 64 Stat. 523; Sept. 1, 1954, ch. 1206, title I, §111(a), 68 Stat. 1085; July 30, 1965, Pub. L. 89–97, title III, §329, 79 Stat. 401; Jan. 2, 1968, Pub. L. 90–248, title I, §§152, 153(a), 154(a), 81 Stat. 860, 861; June 9, 1980, Pub. L. 96–265, title V, §501(b), 94 Stat. 470; Apr. 7, 1986, Pub. L. 99–272, title XII, §12113(a), 100 Stat. 288; Dec. 19, 1989, Pub. L. 101–239, title X, §10305(b), 103 Stat. 2483; Nov. 5, 1990, Pub. L. 101–508, title V, §5129(a), 104 Stat. 1388–287; Aug. 15, 1994, Pub. L. 103–296, title I, §107(a)(4), 108 Stat. 1478; Oct. 22, 1994, Pub. L. 103–387, §5(a), 108 Stat. 4077.)
+(Aug. 14, 1935, ch. 531, title II, §204, 49 Stat. 624; Aug. 10, 1939, ch. 666, title II, §201, 53 Stat. 1362, 1368; Aug. 28, 1950, ch. 809, title I, §109(b)(1), 64 Stat. 523; Sept. 1, 1954, ch. 1206, title I, §111(a), 68 Stat. 1085; July 30, 1965, Pub. L. 89–97, title III, §329, 79 Stat. 401; Jan. 2, 1968, Pub. L. 90–248, title I, §§152, 153(a), 154(a), 81 Stat. 860, 861; June 9, 1980, Pub. L. 96–265, title V, §501(b), 94 Stat. 470; Apr. 7, 1986, Pub. L. 99–272, title XII, §12113(a), 100 Stat. 288; Dec. 19, 1989, Pub. L. 101–239, title X, §10305(b), 103 Stat. 2483; Nov. 5, 1990, Pub. L. 101–508, title V, §5129(a), 104 Stat. 1388–287; Aug. 15, 1994, Pub. L. 103–296, title I, §107(a)(4), 108 Stat. 1478; Oct. 22, 1994, Pub. L. 103–387, §5(a), 108 Stat. 4077; Apr. 26, 1996, Pub. L. 104–134, title III, §31001(z)(2)(A), 110 Stat. 1321–379; Oct. 19, 1996, Pub. L. 104–316, title I, §115(g)(2)(E), 110 Stat. 3835.)
 
 #### Amendments
+
+1996—Subsec. (f). Pub. L. 104–134, which directed that subsec. (f) be amended to read as follows: “(f)(1) With respect to any deliquent amount, the Commissioner of Social Security may use the collection practices described in sections 3711(f), 3716, 3717, and 3718 of title 31 and in section 5514 of title 5, as in effect immediately after April 26, 1996.”, was executed by substituting the new language for par. (1) only to reflect the probable intent of Congress. Prior to amendment, par. (1) read as follows: “With respect to any delinquent amount, the Commissioner of Social Security may use the collection practices described in sections 3711(f), 3716, and 3718 of title 31 as in effect on October 1, 1994.”
+
+Subsec. (f)(1). Pub. L. 104–316 substituted “sections 3711(e)” for “sections 3711(f)”.
 
 1994—Subsecs. (a)(1), (b), (d)(1), (4), (5). Pub. L. 103–296, §107(a)(4), substituted “Commissioner of Social Security” for “Secretary” wherever appearing.
 
@@ -70,7 +74,7 @@ Subsec. (f). Pub. L. 103–387 added subsec. (f).
 
 1990—Subsec. (a)(1)(A). Pub. L. 101–508 inserted “or shall obtain recovery by means of reduction in tax refunds based on notice to the Secretary of the Treasury as permitted under section 3720A of title 31,” after “payments to such overpaid person,”.
 
-1989—Subsec. (b). Pub. L. 101–239 inserted at end “In making for purposes of this subsection any determination of whether any individual is without fault, the Secretary shall specifically take into account anyphysical, mental, educational, or linguistic limitation such individual may have (including any lack of facility with the English language).”
+1989—Subsec. (b). Pub. L. 101–239 inserted at end “In making for purposes of this subsection any determination of whether any individual is without fault, the Secretary shall specifically take into account any physical, mental, educational, or linguistic limitation such individual may have (including any lack of facility with the English language).”
 
 1986—Subsec. (a). Pub. L. 99–272 redesignated existing subsec. (a) as (a)(1) and pars. (1) and (2) thereof as subpars. (A) and (B), respectively, and added par. (2).
 
@@ -96,7 +100,7 @@ Subsec. (d). Pub. L. 90–248, §154(a), struck out, in text preceding par. (1),
 
 #### Effective Date of 1994 Amendments
 
-Amendment by Pub. L. 103–387 applicable to collection activities begun on or after Oct. 22, 1994, and before Oct. 1, 1999, see section 5(c) of Pub. L. 103–387, set out as a note under section 3701 of Title 31, Money and Finance.
+Amendment by Pub. L. 103–387 applicable to collection activities begun on or after Oct. 22, 1994, see section 5(c) of Pub. L. 103–387, as amended, set out as a note under section 3701 of Title 31, Money and Finance.
 
 Amendment by Pub. L. 103–296 effective Mar. 31, 1995, see section 110(a) of Pub. L. 103–296, set out as a note under section 401 of this title.
 
@@ -126,5 +130,7 @@ Section 201 of act Aug. 10, 1939, provided that the amendment made by that secti
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 405, 423, 425, 909 of this title; title 26 section 6402; title 30 section 923; title 31 sections 3701, 3720A.
+This section is referred to in sections 405, 423, 909 of this title; title 26 section 6402; title 30 section 923; title 31 sections 3701, 3720A.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “delinquent”.</i>
 

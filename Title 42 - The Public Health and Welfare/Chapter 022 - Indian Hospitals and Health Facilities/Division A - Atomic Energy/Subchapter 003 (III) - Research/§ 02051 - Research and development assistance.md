@@ -38,7 +38,7 @@ Provisions similar to this section were contained in section 1803(a) of this tit
 
 1971—Subsec. (a)(6). Pub. L. 92–84 added par. (6).
 
-1970—Subsec. (a)(4). Pub. L. 91–560 inserted commercial uses as an additional purpose and substituted “demonstration of advances in the commercial or industrial application of atomic energy” for “demonstration of the practical value of utilization or production facilities for industrial or commercial purposes”.
+1970—Subsec. (a)(4). Pub. L. 91–560 inserted commercial uses as an additional purpose and substituted“demonstration of advances in the commercial or industrial application of atomic energy” for “demonstration of the practical value of utilization or production facilities for industrial or commercial purposes”.
 
 1956—Subsec. (a). Act Aug. 6, 1956, §2, inserted “and training” after “development” in first sentence.
 

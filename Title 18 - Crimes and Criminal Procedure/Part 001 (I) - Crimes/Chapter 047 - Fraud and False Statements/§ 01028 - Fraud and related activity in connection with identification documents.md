@@ -8,9 +8,9 @@
 
 &emsp;(3) knowingly possesses with intent to use unlawfully or transfer unlawfully five or more identification documents (other than those issued lawfully for the use of the possessor) or false identification documents;
 
-&emsp;(4) knowingly possesses an identification document (other than one issued lawfully for the use of the possessor) or a false identification document, with the intent such document be used to defraud the United States; or
+&emsp;(4) knowingly possesses an identification document (other than one issued lawfully for the use of the possessor) or a false identification document, with the intent such document be used to defraud the United States;
 
-&emsp;(5) knowingly produces, transfers, or possesses a document-making implement with the intent such document-making implement will be used in the production of a false identification document or another document-making implement which will be so used;
+&emsp;(5) knowingly produces, transfers, or possesses a document-making implement with the intent such document-making implement will be used in the production of a false identification document or another document-making implement which will be so used; or
 
 &emsp;(6) knowingly possesses an identification document that is or appears to be an identification document of the United States which is stolen or produced without lawful authority knowing that such document was stolen or produced without such authority;
 
@@ -18,7 +18,7 @@
 
 (b) The punishment for an offense under subsection (a) of this section is—
 
-&emsp;(1) a fine of <sup>1</sup> under this title or imprisonment for not more than five years, or both, if the offense is—
+&emsp;(1) except as provided in paragraphs (3) and (4), a fine under this title or imprisonment for not more than 15 years, or both, if the offense is—
 
 &emsp;&emsp;(A) the production or transfer of an identification document or false identification document that is or appears to be—
 
@@ -30,13 +30,17 @@
 
 &emsp;&emsp;(C) an offense under paragraph (5) of such subsection;
 
-&emsp;(2) a fine of <sup>1</sup> under this title or imprisonment for not more than three years, or both, if the offense is—
+&emsp;(2) except as provided in paragraphs (3) and (4), a fine under this title or imprisonment for not more than three years, or both, if the offense is—
 
 &emsp;&emsp;(A) any other production or transfer of an identification document or false identification document; or
 
-&emsp;&emsp;(B) an offense under paragraph (3) of such subsection; and
+&emsp;&emsp;(B) an offense under paragraph (3) of such subsection;
 
-&emsp;(3) a fine of <sup>1</sup> under this title or imprisonment for not more than one year, or both, in any other case.
+&emsp;(3) a fine under this title or imprisonment for not more than 20 years, or both, if the offense is committed to facilitate a drug trafficking crime (as defined in section 929(a)(2) of this title);
+
+&emsp;(4) a fine under this title or imprisonment for not more than 25 years, or both, if the offense is committed to facilitate an act of international terrorism (as defined in section 2331(1) of this title); and
+
+&emsp;(5) a fine under this title or imprisonment for not more than one year, or both, in any other case.
 
 (c) The circumstance referred to in subsection (a) of this section is that—
 
@@ -54,15 +58,25 @@
 
 &emsp;(3) the term “document-making implement” means any implement or impression specially designed or primarily used for making an identification document, a false identification document, or another document-making implement;
 
-&emsp;(4) the term “personal identification card” means an identification document issued by a State or local government solely for the purpose of identification; and
+&emsp;(4) the term “personal identification card” means an identification document issued by aState or local government solely for the purpose of identification; and
 
 &emsp;(5) the term “State” includes any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, and any other commonwealth, possession or territory of the United States.
 
 (e) This section does not prohibit any lawfully authorized investigative, protective, or intelligence activity of a law enforcement agency of the United States, a State, or a political subdivision of a State, or of an intelligence agency of the United States, or any activity authorized under chapter 224 of this title.
 
-(Added Pub. L. 97–398, §2, Dec. 31, 1982, 96 Stat. 2009; amended Pub. L. 99–646, §44(a), Nov. 10, 1986, 100 Stat. 3601; Pub. L. 100–690, title VII, §7023, Nov. 18, 1988, 102 Stat. 4397; Pub. L. 101–647, title XII, §1205(e), Nov. 29, 1990, 104 Stat. 4831; Pub. L. 103–322, title XXXIII, §330016(1)(K), (M), (O), Sept. 13, 1994, 108 Stat. 2147, 2148.)
+(Added Pub. L. 97–398, §2, Dec. 31, 1982, 96 Stat. 2009; amended Pub. L. 99–646, §44(a), Nov. 10, 1986, 100 Stat. 3601; Pub. L. 100–690, title VII, §7023, Nov. 18, 1988, 102 Stat. 4397; Pub. L. 101–647, title XII, §1205(e), Nov. 29, 1990, 104 Stat. 4831; Pub. L. 103–322, title XXXIII, §330016(1)(K), (M), (O), Sept. 13, 1994, 108 Stat. 2147, 2148; Pub. L. 104–208, div. C, title II, §211(a)(1), Sept. 30, 1996, 110 Stat. 3009–569; Pub. L. 104–294, title VI, §601(a)(3), (p), Oct. 11, 1996, 110 Stat. 3498, 3502.)
 
 #### Amendments
+
+1996—Subsec. (a)(4), (5). Pub. L. 104–294, §601(p), struck out “or” after semicolon in par. (4) and inserted “or” after semicolon in par. (5).
+
+Subsec. (b). Pub. L. 104–294, §601(a)(3), substituted “fine under this title” for “fine of under this title” wherever appearing.
+
+Subsec. (b)(1). Pub. L. 104–208, §211(a)(1)(A), in introductory provisions inserted “except as provided in paragraphs (3) and (4),” after “(1)” and substituted “15 years” for “five years”.
+
+Subsec. (b)(2). Pub. L. 104–208, §211(a)(1)(B), inserted “except as provided in paragraphs (3) and (4),” after “(2)” in introductory provisions and struck out “and” at end.
+
+Subsec. (b)(3) to (5). Pub. L. 104–208, §211(a)(1)(C), (D), added pars. (3) and (4) and redesignated former par. (3) as (5).
 
 1994—Subsec. (b)(1). Pub. L. 103–322, §330016(1)(O), substituted “under this title” for “not more than $25,000”.
 
@@ -75,6 +89,10 @@ Subsec. (b)(3). Pub. L. 103–322, §330016(1)(K), substituted “under this tit
 1988—Subsec. (a)(6). Pub. L. 100–690 inserted “knowingly” before “possesses”, “lawful” before first reference to “authority”, and “such” before second reference to “authority”.
 
 1986—Subsec. (e). Pub. L. 99–646 substituted “chapter 224 of this title” for “title V of the Organized Crime Control Act of 1970 (18 U.S.C. note prec. 3481)”.
+
+#### Effective Date of 1996 Amendment
+
+Section 211(c) of div. C of Pub. L. 104–208 provided that: “This section \[amending this section and sections 1425 to 1427, 1541 to 1544, and 1546 of this title and enacting provisions set out as a note under section 994 of Title 28, Judiciary and Judicial Procedure\] and the amendments made by this section shall apply with respect to offenses occurring on or after the date of the enactment of this Act \[Sept. 30, 1996\].”
 
 #### Fraud and Related Activity in Connection With Identification Documents
 
@@ -96,7 +114,5 @@ Pub. L. 98–473, title II, §609L, Oct. 12, 1984, 98 Stat. 2103, provided that:
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 922, 981, 982, 2257, 2326 of this title; title 8 section 1324a; title 22 section 2709; title 31 section 9703; title 42 section 5119a.
-
-<i><sup>1</sup></i><i> So in original. The word “of” probably should not appear.</i>
+This section is referred to in sections 922, 981, 982, 2257, 2326, 2516 of this title; title 8 section 1324a; title 22 section 2709; title 31 section 9703; title 42 section 5119a.
 

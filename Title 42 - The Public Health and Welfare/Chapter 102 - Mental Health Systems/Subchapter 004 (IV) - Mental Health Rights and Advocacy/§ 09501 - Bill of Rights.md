@@ -1,6 +1,6 @@
 ### §9501. Bill of Rights
 
-It is the sense of the Congress that each State should review and revise, if necessary, its lawsto ensure that mental health patients receive the protection and services they require; and in making such review and revision should take into account the recommendations of the President's Commission on Mental Health and the following:
+It is the sense of the Congress that each State should review and revise, if necessary, its laws to ensure that mental health patients receive the protection and services they require; and in making such review and revision should take into account the recommendations of the President's Commission on Mental Health and the following:
 
 &emsp;(1) A person admitted to a program or facility for the purpose of receiving mental health services should be accorded the following:
 
@@ -12,7 +12,7 @@ It is the sense of the Congress that each State should review and revise, if nec
 
 &emsp;&emsp;(B) The right to an individualized, written, treatment or service plan (such plan to be developed promptly after admission of such person), the right to treatment based on such plan, the right to periodic review and reassessment of treatment and related service needs, and the right to appropriate revision of such plan, including any revision necessary to provide a description of mental health services that may be needed after such person is discharged from such program or facility.
 
-&emsp;&emsp;(C) The right to ongoing participation, in a manner appropriate to such person's capabilities, in the planning of mental health services to be provided such person (including the right to participate in the development and periodic revision of the plan described in subparagraph (B)), and, in connection with such participation, the right to be provided with a reasonable explanation, in terms and language appropriate to such person's condition and ability to understand, of—
+&emsp;&emsp;(C) The right to ongoing participation, in a manner appropriate to such person's capabilities, in the planning of mental health services to be provided such person (including the right to participate in the development and periodic revision of the plan described in subparagraph (B)), and, in connection with such participation, the right to be provided with a reasonable explanation, interms and language appropriate to such person's condition and ability to understand, of—
 
 &emsp;&emsp;&emsp;(i) such person's general mental condition and, if such program or facility has provided a physical examination, such person's general physical condition;
 
@@ -50,7 +50,7 @@ It is the sense of the Congress that each State should review and revise, if nec
 
 &emsp;&emsp;(K) The right to be informed promptly at the time of admission and periodically thereafter, in language and terms appropriate to such person's condition and ability to understand, of the rights described in this section.
 
-&emsp;&emsp;(L) The right to assert grievances with respect to infringement of the rights described in this section, including the right to havesuch grievances considered in a fair, timely, and impartial grievance procedure provided for or by the program or facility.
+&emsp;&emsp;(L) The right to assert grievances with respect to infringement of the rights described in this section, including the right to have such grievances considered in a fair, timely, and impartial grievance procedure provided for or by the program or facility.
 
 &emsp;&emsp;(M) Notwithstanding subparagraph (J), the right of access to (including the opportunities and facilities for private communication with) any available—
 

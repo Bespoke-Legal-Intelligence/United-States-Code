@@ -36,21 +36,21 @@ It shall be unlawful for any registered diversified company to make any commitme
 
 (C) It shall be unlawful for any investment company (the “acquiring company”) and any company or companies controlled by the acquiring company to purchase or otherwise acquire any security issued by a registered closed-end investment company, if immediately after such purchase or acquisition the acquiring company, other investment companies having the same investment adviser, and companies controlled by such investment companies, own more than 10 per centum of the total outstanding voting stock of such closed-end company.
 
-(D) The provisions of this paragraph (1) shall not apply to a security received as a dividend or as a result of an offer of exchange approved pursuant to section 80a–11 of this title or of a plan of reorganization of any company (other than a plan devised for the purpose of evading the foregoing provisions).
+(D) The provisions of this paragraph shall not apply to a security received as a dividend or as a result of an offer of exchange approved pursuant to section 80a–11 of this title or of a plan of reorganization of any company (other than a plan devised for the purpose of evading the foregoing provisions).
 
-(E) The provisions of this paragraph (1) shall not apply to a security (or securities) purchased or acquired by an investment company if—
+(E) The provisions of this paragraph shall not apply to a security (or securities) purchased or acquired by an investment company if—
 
 &emsp;(i) the depositor of, or principal underwriter for, such investment company is a broker or dealer registered under the Securities Exchange Act of 1934 \[15 U.S.C. 78a et seq.\], or a person controlled by such a broker or dealer;
 
 &emsp;(ii) such security is the only investment security held by such investment company (or such securities are the only investment securities held by such investment company, if such investment company is a registered unit investment trust that issues two or more classes or series of securities, each of which provides for the accumulation of shares of a different investment company); and
 
-&emsp;(iii) in the event such investment company is not a registered investment company, the purchase or acquisition is made pursuant to an arrangement with the issuer of, or principal underwriter for the issuer of, the security whereby such investment company is obligated—
+&emsp;(iii) the purchase or acquisition is made pursuant to an arrangement with the issuer of, or principal underwriter for the issuer of, the security whereby such investment company is obligated—
 
 &emsp;&emsp;(aa) either to seek instructions from its security holders with regard to the voting of all proxies with respect to such security and to vote such proxies only in accordance with such instructions, or to vote the shares held by it in the same proportion as the vote of all other holders of such security, and
 
-&emsp;&emsp;(bb) to refrain substituting such security unless the Commission shall have approved such substitution in the manner provided in section 80a–26 of this title.
+&emsp;&emsp;(bb) in the event that such investment company is not a registered investment company, to refrain substituting such security unless the Commission shall have approved such substitution in the manner provided in section 80a–26 of this title.
 
-(F) The provisions of this paragraph (1) shall not apply to securities purchased or otherwise acquired by a registered investment company if—
+(F) The provisions of this paragraph shall not apply to securities purchased or otherwise acquired by a registered investment company if—
 
 &emsp;(i) immediately after such purchase or acquisition not more than 3 per centum of the total outstanding stock of such issuer is owned by such registered investment company and all affiliated persons of such registered investment company; and
 
@@ -58,9 +58,29 @@ It shall be unlawful for any registered diversified company to make any commitme
 
 > No issuer of any security purchased or acquired by a registered investment company pursuant to this subparagraph shall be obligated to redeem such security in an amount exceeding 1 per centum of such issuer's total outstanding securities during any period of less than thirty days. Such investment company shall exercise voting rights by proxy or otherwise with respect to any security purchased or acquired pursuant to this subparagraph in the manner prescribed by subparagraph (E) of this subsection.
 
-(G) For the purposes of this paragraph (1), the value of an investment company's total assets shall be computed as of the time of a purchase or acquisition or as closely thereto as is reasonably possible.
+(G)(i) This paragraph does not apply to securities of a registered open-end investment company or a registered unit investment trust (hereafter in this subparagraph referred to as the “acquired company”) purchased or otherwise acquired by a registered open-end investment company or a registered unit investment trust (hereafter in this subparagraph referred to as the “acquiring company”) if—
 
-(H) In any action brought to enforce the provisions of this paragraph (1), the Commission may join as a party the issuer of any security purchased or otherwise acquired in violation of this paragraph (1), and the court may issue any order with respect to such issuer as may be necessary or appropriate for the enforcement of the provisions of this paragraph (1).
+&emsp;(I) the acquired company and the acquiring company are part of the same group of investment companies;
+
+&emsp;(II) the securities of the acquired company, securities of other registered open-end investment companies and registered unit investment trusts that are part of the same group of investment companies, Government securities, and short-term paper are the only investments held by the acquiring company;
+
+&emsp;(III) with respect to—
+
+&emsp;&emsp;(aa) securities of the acquired company, the acquiring company does not pay and is not assessed any charges or fees for distribution-related activities, unless the acquiring company does not charge a sales load or other fees or charges for distribution-related activities; or
+
+&emsp;&emsp;(bb) securities of the acquiring company, any sales loads and other distribution-related fees charged, when aggregated with any sales load and distribution-related fees paid by the acquiring company with respect to securities of the acquired fund, are not excessive under rules adopted pursuant to section 80a–22(b) of this title or section 80a–22(c) of this title by a securities association registered under section 15A of the Securities Exchange Act of 1934 \[15 U.S.C. 78<i>o</i>–3\], or the Commission;
+
+&emsp;(IV) the acquired company has a policy that prohibits it from acquiring any securities of registered open-end investment companies or registered unit investment trusts in reliance on this subparagraph or subparagraph (F); and
+
+&emsp;(V) such acquisition is not in contravention of such rules and regulations as the Commission may from time to time prescribe with respect to acquisitions in accordance with this subparagraph, as necessary and appropriate for the protection of investors.
+
+(ii) For purposes of this subparagraph, the term “group of investment companies” means any 2 or more registered investment companies that hold themselves out to investors as related companies for purposes of investment and investor services.
+
+(H) For the purposes of this paragraph, the value of an investment company's total assets shall be computed as of the time of a purchase or acquisition or as closely thereto as is reasonably possible.
+
+(I) In any action brought to enforce the provisions of this paragraph, the Commission may join as a party the issuer of any security purchased or otherwise acquired in violation of this paragraph, and the court may issue any order with respect to such issuer as may be necessary or appropriate for the enforcement of the provisions of this paragraph.
+
+(J) The Commission, by rule or regulation, upon its own motion or by order upon application, may conditionally or unconditionally exempt any person, security, or transaction, or any class or classes of persons, securities, or transactions from any provision of this subsection, if and to the extent that such exemption is consistent with the public interest and the protection of investors.
 
 (2) It shall be unlawful for any registered investment company and any company or companies controlled by such registered investment company to purchase or otherwise acquire any security (except a security received as a dividend or as a result of a plan of reorganization of any company, other than a plan devised for the purpose of evading the provisions of this paragraph) issued by any insurance company of which such registered investment company and any company or companies controlled by such registered company do not, at the time of such purchase or acquisition, own in the aggregate at least 25 per centum of the total outstanding voting stock, if such registered company and any company or companies controlled by it own in the aggregate, or as a result of such purchase or acquisition will own in the aggregate, more than 10 per centum of the total outstanding voting stock of such insurance company.
 
@@ -68,7 +88,7 @@ It shall be unlawful for any registered diversified company to make any commitme
 
 #### (e) Acquisition of securities issued by corporations in business of underwriting, furnishing capital to industry, etc.
 
-Notwithstanding any provisions of this subchapter, any registered investment companymay hereafter purchase or otherwise acquire any security issued by any one corporation engaged or proposing to engage in the business of underwriting, furnishing capital to industry, financing promotional enterprises, purchasing securities of issuers for which no ready market is in existence, and reorganizing companies or similar activities; provided—
+Notwithstanding any provisions of this subchapter, any registered investment company may hereafter purchase or otherwise acquire any security issued by any one corporation engaged or proposing to engage in the business of underwriting, furnishing capital to industry, financing promotional enterprises, purchasing securities of issuers for which no ready market is in existence, and reorganizing companies or similar activities; provided—
 
 &emsp;(1) That the securities issued by such corporation (other than short-term paper and securities representing bank loans) shall consist solely of one class of common stock and shall have been originally issued or sold for investment to registered investment companies only;
 
@@ -86,13 +106,33 @@ Notwithstanding any provisions of this chapter, any registered face-amount certi
 
 Notwithstanding the provisions of this section any registered investment company and any company or companies controlled by such registered company may purchase or otherwise acquire from another investment company or any company or companies controlled by such registered company more than 10 per centum of the total outstanding voting stock of any insurance company owned by any such company or companies, or may acquire the securities of any insurance company if the Commission by order determines that such acquisition is in the public interest because the financial condition of such insurance company will be improved as a result of such acquisition or any plan contemplated as a result thereof. This section shall not be deemed to prohibit the promotion of a new insurance company or the acquisition of the securities of any newly created insurance company by a registered investment company, alone or with other persons. Nothing contained in this section shall in any way affect or derogate from the powers of any insurance commissioner or similar official or agency of the United States or any State, or to affect the right under State law of any insurance company to acquire securities of any other insurance company or insurance companies.
 
-(Aug. 22, 1940, ch. 686, title I, §12, 54 Stat. 808; Dec. 14, 1970, Pub. L. 91–547, §7, 84 Stat. 1417; Dec. 4, 1987, Pub. L. 100–181, title VI, §610, 101 Stat. 1261.)
+(Aug. 22, 1940, ch. 686, title I, §12, 54 Stat. 808; Dec. 14, 1970, Pub. L. 91–547, §7, 84 Stat. 1417; Dec. 4, 1987, Pub. L. 100–181, title VI, §610, 101 Stat. 1261; Oct. 11, 1996, Pub. L. 104–290, title II, §202, 110 Stat. 3426.)
 
 #### References in Text
 
 The Securities Exchange Act of 1934, referred to in subsec. (d)(1)(B), (E)(i), is act June 6, 1934, ch. 404, 48 Stat. 881, as amended, which is classified generally to 2B (§78a et seq.) of this title. For complete classification of this Act to the Code, see section 78a of this title and Tables.
 
 #### Amendments
+
+1996—Subsec. (d)(1)(D), (E). Pub. L. 104–290, §202(3), substituted “this paragraph” for “this paragraph (1)”.
+
+Subsec. (d)(1)(E)(iii). Pub. L. 104–290, §202(1)(A), struck out “in the event such investment company is not a registered investment company,” after “(iii)”.
+
+Subsec. (d)(1)(E)(iii)(bb). Pub. L. 104–290, §202(1)(B), inserted “in the event that such investment company is not a registered investment company,” after “(bb)”.
+
+Subsec. (d)(1)(F). Pub. L. 104–290, §202(3), substituted “this paragraph” for “this paragraph (1)”.
+
+Subsec. (d)(1)(G). Pub. L. 104–290, §202(2), (4), added subpar. (G). Former subpar. (G) redesignated (H).
+
+Subsec. (d)(1)(H). Pub. L. 104–290, §202(3), substituted “this paragraph” for “this paragraph (1)”.
+
+Pub. L. 104–290, §202(2), redesignated subpar. (G) as (H). Former subpar. (H) redesignated (I).
+
+Subsec. (d)(1)(I). Pub. L. 104–290, §202(3), substituted “this paragraph” for “this paragraph (1)” wherever appearing.
+
+Pub. L. 104–290, §202(2), redesignated subpar. (H) as (I).
+
+Subsec. (d)(1)(J). Pub. L. 104–290, §202(5), added subpar. (J).
 
 1987—Subsec. (d)(1)(A)(iii). Pub. L. 100–181, §610(1), substituted “treasury” for “Treasury”.
 
@@ -102,7 +142,7 @@ Subsec. (f). Pub. L. 100–181, §610(3), substituted “thereof only” for “
 
 1970—Subsec. (d)(1). Pub. L. 91–547 substituted provisions designated as subpars. (A) to (C) and (E) to (H) for former introductory provisions reading “It shall be unlawful for any registered investment company and any company or companies controlled by such registered investment company to purchase or otherwise acquire after August 22, 1940, any security issued by or any other interest in the business of—” and subpar. (1) reading “any other investment company of which such registered investment company and company or companies controlled by such registered company shall not at the time of such purchase or acquisition own in the aggregate at least 25 per centum of the total outstanding voting stock, if such registered investment company and any company or companies controlled by it own in the aggregate or as a result of such purchase or acquisition will own in the aggregate more than 5 per centum of the total outstanding voting stock of such other investment company if the policy of such other investment company is the concentration of investments in a particular industry or group of industries, or more than 3 per centum of the total outstanding voting stock of such other investment company if the policy of such other investment company is not the concentration of investments in a particular industry or group of industries, except and cl. (B) exception reading “a security purchased with the proceeds of payments on periodic payment plan certificates, pursuant to the terms of the trust indenture under which such certificates are issued”, cl. (A) of such subpar. (1) being incorporated in subpar. (D) of this par. (1).
 
-Subsec. (d)(2). Pub. L. 91–547 incorporated existing introductory text and subpar. (2) provisions in provisionsredesignated as par. (2) and struck out “after August 22, 1940,” after “purchase or otherwise acquire”.
+Subsec. (d)(2). Pub. L. 91–547 incorporated existing introductory text and subpar. (2) provisions in provisions redesignated as par. (2) and struck out “after August 22, 1940,” after “purchase or otherwise acquire”.
 
 Subsec. (d)(3). Pub. L. 91–547 incorporated existing introductory text and subpar. (3) provisions in provisions redesignated as par. (3) and struck out “after August 22, 1940,” after “purchase or otherwise acquire”.
 

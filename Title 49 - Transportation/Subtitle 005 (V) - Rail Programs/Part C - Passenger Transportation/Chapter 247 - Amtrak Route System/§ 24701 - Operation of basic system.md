@@ -16,7 +16,9 @@ By Others With Consent of Amtrak.—Except as provided in section 24306 of this 
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

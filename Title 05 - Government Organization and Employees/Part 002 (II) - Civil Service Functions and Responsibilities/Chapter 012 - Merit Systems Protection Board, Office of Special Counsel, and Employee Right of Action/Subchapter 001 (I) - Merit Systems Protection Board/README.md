@@ -2,7 +2,9 @@
 
 #### Amendments
 
-<b>1989</b>—Pub. L. 101–12, §3(b)(4), Apr. 10, 1989, 103 Stat. 31, inserted subchapter heading.
+1989—Pub. L. 101–12, §3(b)(4), Apr. 10, 1989, 103 Stat. 31, inserted subchapter heading.
+
+<i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
 
 
 ---

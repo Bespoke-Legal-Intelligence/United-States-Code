@@ -22,3 +22,4 @@
 - [Subchapter 002 (II) - Operating Loans](Subchapter%20002%20%28II%29%20-%20Operating%20Loans/README.md)
 - [Subchapter 003 (III) - Emergency Loans](Subchapter%20003%20%28III%29%20-%20Emergency%20Loans/README.md)
 - [Subchapter 004 (IV) - Administrative Provisions](Subchapter%20004%20%28IV%29%20-%20Administrative%20Provisions/README.md)
+- [Subchapter 005 (V) - Rural Community Advancement Program](Subchapter%20005%20%28V%29%20-%20Rural%20Community%20Advancement%20Program/README.md)

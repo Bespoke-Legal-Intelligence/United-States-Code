@@ -78,7 +78,7 @@ The Congress declares that the National Education Goals are the following:
 
 &emsp;&emsp;(ii) all workers will have the opportunity to acquire the knowledge and skills, from basic to highly technical, needed to adapt to emerging new technologies, work methods, and markets through public and private educational, vocational, technical, workplace, or other programs;
 
-&emsp;&emsp;(iii) the number of quality programs, including those at libraries, that are designedto serve more effectively the needs of the growing number of part-time and midcareer students will increase substantially;
+&emsp;&emsp;(iii) the number of quality programs, including those at libraries, that are designed to serve more effectively the needs of the growing number of part-time and midcareer students will increase substantially;
 
 &emsp;&emsp;(iv) the proportion of the qualified students, especially minorities, who enter college, who complete at least two years, and who complete their degree programs will increase substantially;
 

@@ -74,7 +74,7 @@ Standard Foreign Fare Level.—(1)(A) In this subsection, “standard foreign fa
 
 (3) Paragraph (2) of this subsection does not apply to a proposed fare that is not more than—
 
-&emsp;(A) 5 percent higher than the standard foreign fare level when the Secretary decidesthat the proposed fare may be unreasonably discriminatory or that suspension of the fare is in the public interest because of an unreasonable regulatory action by the government of a foreign country that is related to a fare proposal of an air carrier; or
+&emsp;(A) 5 percent higher than the standard foreign fare level when the Secretary decides that the proposed fare may be unreasonably discriminatory or that suspension of the fare is in the public interest because of an unreasonable regulatory action by the government of a foreign country that is related to a fare proposal of an air carrier; or
 
 &emsp;(B) 50 percent lower than the standard foreign fare level when the Secretary decides that the proposed fare may be predatory or discriminatory or that suspension of the fare is required because of an unreasonable regulatory action by the government of a foreign country that is related to a fare proposal of an air carrier.
 
@@ -90,7 +90,9 @@ Compliance as Condition of Certificate or Permit.—This section and compliance 
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -104,7 +106,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1002(j)(1), (2); added Mar. 22,
 
 &nbsp;
 
-49 App.:1551(b) (1)(E).
+49 App.:1551(b)(1)(E).
 
 Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1601(a)(4)(B) (related to §403(c)(3)), (b) (1)(E); added Oct. 4, 1984, Pub. L. 98–443, §3(c), (e), 98 Stat. 1703, 1704.
 
@@ -114,7 +116,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1601(a)(4)(B) (related to §403
 
 &nbsp;
 
-49 App.:1551(b) (1)(E).
+49 App.:1551(b)(1)(E).
 
 41509(a)(3)
 
@@ -124,7 +126,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1002(j)(5); added Mar. 22, 1972
 
 &nbsp;
 
-49 App.:1551(b) (1)(E).
+49 App.:1551(b)(1)(E).
 
 41509(b)
 
@@ -138,7 +140,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §403(c)(3); added Oct. 24, 1978,
 
 &nbsp;
 
-49 App.:1551(a) (4)(B) (related to 49 App.:1373(c)(3)), (b) (1)(E).
+49 App.:1551(a)(4)(B) (related to 49 App.:1373(c)(3)), (b)(1)(E).
 
 41509(c)(1)
 
@@ -146,7 +148,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §403(c)(3); added Oct. 24, 1978,
 
 &nbsp;
 
-49 App.:1551(b) (1)(E).
+49 App.:1551(b)(1)(E).
 
 41509(c)(2)
 
@@ -164,7 +166,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1002(j)(3), (4); added Mar. 22,
 
 &nbsp;
 
-49 App.:1551(b) (1)(E).
+49 App.:1551(b)(1)(E).
 
 41509(e) (1)(A)
 
@@ -178,7 +180,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1002(j)(6), (7), (9), (10); add
 
 &nbsp;
 
-49 App.:1551(b) (1)(E).
+49 App.:1551(b)(1)(E).
 
 41509(e)(2), (3)
 
@@ -186,7 +188,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1002(j)(6), (7), (9), (10); add
 
 &nbsp;
 
-49 App.:1551(b) (1)(E).
+49 App.:1551(b)(1)(E).
 
 41509(f)
 
@@ -196,7 +198,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §801(b); added Mar. 22, 1972, Pu
 
 &nbsp;
 
-49 App.:1551(b) (1)(E).
+49 App.:1551(b)(1)(E).
 
 41509(g)
 
@@ -204,7 +206,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §801(b); added Mar. 22, 1972, Pu
 
 &nbsp;
 
-49 App.:1551(b) (1)(E).
+49 App.:1551(b)(1)(E).
 
 In subsection (a)(1) and (2), the words “take action to” are omitted as surplus.
 
@@ -248,5 +250,5 @@ Section 1002(j)(8) of the Federal Aviation Act of 1958, referred to in subsec. (
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 41310, 41504, 41505, 46110 of this title.
+This section is referred to in sections 40109, 41310, 41504, 41505, 46110, 46301 of this title.
 

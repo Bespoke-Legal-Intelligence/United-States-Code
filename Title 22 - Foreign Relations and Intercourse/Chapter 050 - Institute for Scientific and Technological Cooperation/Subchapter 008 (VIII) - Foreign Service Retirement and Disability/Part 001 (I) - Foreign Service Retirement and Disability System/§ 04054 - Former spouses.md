@@ -22,7 +22,7 @@
 
 (5)(A) The annuity payable to any participant shall be reduced by the amount of an annuity under this subsection paid to any former spouse based upon the service of that participant. Such reduction shall be disregarded in calculating the survivor annuity for any spouse, former spouse, or other survivor under this part, and in calculating any reduction in the annuity of the participant to provide survivor benefits under subsection (b) of this section or section 4046(b)(3) of this title.
 
-(B) If any annuitant whose annuity is reduced under subparagraph (A) is recalled to service under section 3948 of this title, or reinstated or reappointed in the Service in the case of a recovered disability annuitant or if any annuitant is reemployed as provided for under section 4064 of this title, the salary of that annuitant shall be reduced by the same amount as the annuity would have been reduced if it had continued. Amounts equal to the reductions under this subparagraph shall be deposited in the Treasury of the United States to the credit of the Fund.
+(B) If any annuitant whose annuity is reduced under subparagraph (A) is recalled to service under section 3948 of this title, or reinstated orreappointed in the Service in the case of a recovered disability annuitant or if any annuitant is reemployed as provided for under section 4064 of this title, the salary of that annuitant shall be reduced by the same amount as the annuity would have been reduced if it had continued. Amounts equal to the reductions under this subparagraph shall be deposited in the Treasury of the United States to the credit of the Fund.
 
 (6) Notwithstanding paragraph (3), in the case of any former spouse of a disability annuitant—
 
@@ -44,7 +44,7 @@
 
 (2) A former spouse shall not be qualified for an annuity under this subsection if before the commencement of that annuity the former spouse remarries before becoming 60 years of age.
 
-(3) An annuity payable from the Fund under this part to a surviving former spouse under this subsection shall commence on the day after the annuitant dies and shall terminate on the last day of the month before the former spouse'sdeath or remarriage before attaining age 60. If such a survivor annuity is terminated because of remarriage, it shall be restored at the same rate commencing on the date such remarriage is terminated if any lump sum paid upon termination of the annuity is returned to the Fund.
+(3) An annuity payable from the Fund under this part to a surviving former spouse under this subsection shall commence on the day after the annuitant dies and shall terminate on the last day of the month before the former spouse's death or remarriage before attaining age 60. If such a survivor annuity is terminated because of remarriage, it shall be restored at the same rate commencing on the date such remarriage is terminated if any lump sum paid upon termination of the annuity is returned to the Fund.
 
 (4)(A) The maximum survivor annuity or combination of survivor annuities under this section (and section 4046(b)(3) of this title) with respect to any participant or former participant may not exceed 55 percent of the full amount of the participant's annuity, as calculated under section 4046(a) of this title.
 
@@ -78,7 +78,7 @@
 
 (B) The present value of the total amount to accrue to the Fund under subparagraph (A) to provide any annuity under this subsection shall be actuarially equivalent in value to such annuity, as calculated upon such tables of mortality as may from time to time be prescribed for this purpose by the Secretary of State.
 
-(C) If a former spouse predeceases the participant or remarries before attaining age 60 (or, in the case of a spouse, the spouse does not qualify as a former spouse upon dissolution of the marriage)—
+(C) If a former spouse predeceases the participant or remarries before attaining age 60 (or, inthe case of a spouse, the spouse does not qualify as a former spouse upon dissolution of the marriage)—
 
 &emsp;(i) if an annuity reduction or salary allotment under subparagraph (A) is in effect for that spouse or former spouse, the annuity shall be recomputed and paid as if it had not been reduced or the salary allotment terminated, as the case may be, and
 

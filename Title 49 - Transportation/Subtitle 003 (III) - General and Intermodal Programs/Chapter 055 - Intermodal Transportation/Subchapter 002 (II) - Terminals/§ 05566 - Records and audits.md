@@ -14,13 +14,15 @@ Record Requirements.—Each recipient of financial assistance under this chapter
 
 (b)
 
-Audits and Inspections.—For 3 years after a project is completed, the Secretary and the Comptroller General may audit and inspect records of a recipient that the Secretary orComptroller General decides may be related or pertinent to the financial assistance.
+Audits and Inspections.—For 3 years after a project is completed, the Secretary and the Comptroller General may audit and inspect records of a recipient that the Secretary or Comptroller General decides may be related or pertinent to the financial assistance.
 
 (Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 853.)
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

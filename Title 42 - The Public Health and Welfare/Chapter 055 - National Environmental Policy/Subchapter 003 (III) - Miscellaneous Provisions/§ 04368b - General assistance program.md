@@ -36,7 +36,7 @@ In no case shall the award of a general assistance grant to an Indian tribal gov
 
 #### (f) Expenditure of general assistance
 
-Any general assistance under this section shall be expended for the purpose of planning, developing, and establishing the capability to implement programs administered by the Environmental Protection Agency and specified in the assistance agreement. Purposes and programs authorized under this section shall include the development and implementation of solid and hazardous waste programs for Indian lands. An Indian tribal government or intertribal consortium receiving general assistance pursuant to this section shall utilize such funds for programs and purposes to be carried out in accordance with the terms of the assistance agreement. Such programs and general assistance shall be carried out in accordance with the purposes and requirements of applicable provisions of law, including the Solid Waste Disposal Act (42 U.S.C. 6901 et seq.).
+Any general assistance under this section shall be expended for the purpose of planning, developing, and establishing the capability to implement programs administered by the Environmental Protection Agency and specified in the assistance agreement. Purposes and programs authorized under this section shall include the development and implementation of solid and hazardous waste programs for Indian lands. An Indian tribal government or intertribal consortium receiving general assistance pursuant to this section shall utilize such funds for programs and purposes to be carried out inaccordance with the terms of the assistance agreement. Such programs and general assistance shall be carried out in accordance with the purposes and requirements of applicable provisions of law, including the Solid Waste Disposal Act (42 U.S.C. 6901 et seq.).
 
 #### (g) Procedures
 
@@ -48,13 +48,13 @@ Any general assistance under this section shall be expended for the purpose of p
 
 #### (h) Authorization
 
-There are authorized to be appropriated to carry out the provisions of this section, $15,000,000 for each of the fiscal years 1993, 1994, 1995, 1996, 1997, and 1998.
+There are authorized to be appropriated to carry out the provisions of this section, such sums as may be necessary for each of the fiscal years 1993, 1994, 1995, 1996, 1997, and 1998.
 
 #### (i) Report to Congress
 
 The Administrator shall transmit an annual report to the appropriate Committees of the Congress with jurisdiction over the applicable environmental laws and Indian tribes describing which Indian tribes or intertribal consortia have been granted approval by the Administrator pursuant to law to enforce certain environmental laws and the effectiveness of any such enforcement.
 
-(Pub. L. 95–134, title V, §502, as added Pub. L. 102–497, §11, Oct. 24, 1992, 106 Stat. 3258; amended Pub. L. 103–155, Nov. 24, 1993, 107 Stat. 1523.)
+(Pub. L. 95–134, title V, §502, as added Pub. L. 102–497, §11, Oct. 24, 1992, 106 Stat. 3258; amended Pub. L. 103–155, Nov. 24, 1993, 107 Stat. 1523; Pub. L. 104–233, §1, Oct. 2, 1996, 110 Stat. 3057.)
 
 #### References in Text
 
@@ -67,6 +67,8 @@ The Solid Waste Disposal Act, referred to in subsec. (f), is title II of Pub. L.
 Section was enacted as the Indian Environmental General Assistance Program Act of 1992 and as part of the Omnibus Territories Act of 1977, and not as part of the National Environmental Policy Act of 1969 which comprises this chapter.
 
 #### Amendments
+
+1996—Subsec. (h). Pub. L. 104–233 substituted “such sums as may be necessary” for “$15,000,000”.
 
 1993—Subsec. (d)(1). Pub. L. 103–155, §3(a), inserted “consistent with other applicable provisions of law providing for enforcement of such laws by Indian tribes” after “programs”.
 

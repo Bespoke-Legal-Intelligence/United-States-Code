@@ -72,6 +72,10 @@ Not later than 180 days after October 27, 1992, the Secretary of Commerce shall 
 
 Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
+#### Authorization of Use of Spectrum By, and Provision of Spectrum Functions to, Federal Entity; Reimbursement
+
+Pub. L. 104–208, div. A, title I, §101(a) \[title II\], Sept. 30, 1996, 110 Stat. 3009, 3009–35, provided, in part: “That hereafter, notwithstanding any other provision of law, NTIA \[National Telecommunications and Information Administration\] shall not authorize spectrum use or provide any spectrum functions pursuant to the NTIA Organization Act, 47 U.S.C. §§ 902–903 \[47 U.S.C. 901 et seq.\], to any Federal entity without reimbursement as required by NTIA for such spectrum management costs, and Federal entities withholding payment of such cost shall not use spectrum”.
+
 #### Section Referred to in Other Sections
 
 This section is referred to in section 927 of this title.

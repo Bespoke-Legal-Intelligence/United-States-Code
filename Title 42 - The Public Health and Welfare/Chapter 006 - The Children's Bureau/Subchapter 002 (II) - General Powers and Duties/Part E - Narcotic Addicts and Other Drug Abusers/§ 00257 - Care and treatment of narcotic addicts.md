@@ -16,7 +16,7 @@ The Secretary may enter into agreements with the Secretary of Veterans Affairs, 
 
 #### References in Text
 
-The Narcotic Addict Rehabilitation Act of 1966, referred to in subsec. (a), is Pub. L. 89–793, titles I to IV, Nov. 8, 1966, 80 Stat. 1438, as amended. Title I of the Act is classified generally to chapter 175 (§2901 et seq.) of Title 28, Judiciary and Judicial Procedure. Title II of the Act is classified generally to chapter 314 (§4251 et seq.) of Title 18, Crimes and Criminal Procedure. Title III of the Act is classified generally to subchapter II (§3411 et seq.) of chapter 42 of this title. Title IV of the Act is classified generally to subchapter III (§3441 et seq.) of chapter 42 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3401 of this title and Tables.
+The Narcotic Addict Rehabilitation Act of 1966, referred to in subsec. (a), is Pub. L. 89–793, titles I to IV,Nov. 8, 1966, 80 Stat. 1438, as amended. Title I of the Act is classified generally to chapter 175 (§2901 et seq.) of Title 28, Judiciary and Judicial Procedure. Title II of the Act is classified generally to chapter 314 (§4251 et seq.) of Title 18, Crimes and Criminal Procedure. Title III of the Act is classified generally to subchapter II (§3411 et seq.) of chapter 42 of this title. Title IV of the Act is classified generally to subchapter III (§3441 et seq.) of chapter 42 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3401 of this title and Tables.
 
 #### Codification
 
@@ -40,7 +40,7 @@ Subsec. (c). Pub. L. 92–255, §402(b), added subsec. (c).
 
 Subsec. (b). Pub. L. 89–793 designated existing third sentence as subsec. (b).
 
-1956—Act July 24, 1956, required the Surgeon General to furnish to the Commissioners or their designatedagent, the name, address, and any other useful information relating to persons who voluntarily submit themselves for treatment and who, at the time of submission, are residents of the District of Columbia.
+1956—Act July 24, 1956, required the Surgeon General to furnish to the Commissioners or their designated agent, the name, address, and any other useful information relating to persons who voluntarily submit themselves for treatment and who, at the time of submission, are residents of the District of Columbia.
 
 1954—Act May 8, 1954, inserted in first sentence reference to addicts who are committed to the Service or to a hospital thereof pursuant to section 260a of this title.
 

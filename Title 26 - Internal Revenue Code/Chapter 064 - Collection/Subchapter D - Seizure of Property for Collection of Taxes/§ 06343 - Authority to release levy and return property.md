@@ -46,9 +46,29 @@ Interest shall be allowed and paid at the overpayment rate established under sec
 
 &emsp;(2) in a case described in subsection (b)(3), from the date of the sale of the property to a date (to be determined by the Secretary) preceding the date of return by not more than 30 days.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 789; Nov. 2, 1966, Pub. L. 89–719, title I, §104(i), 80 Stat. 1138; Oct. 4, 1976, Pub. L. 94–455, title XIX, §1906(b)(13)(A), 90 Stat. 1834; Pub. L. 96–167, §4(a), Dec. 29, 1979, 93 Stat. 1275; Oct. 22, 1986, Pub. L. 99–514, title XV, §1511(c)(10), 100 Stat. 2745; Nov. 10, 1988, Pub. L. 100–647, title VI, §6236(f), 102 Stat. 3740.)
+#### (d) Return of property in certain cases
+
+If—
+
+&emsp;(1) any property has been levied upon, and
+
+&emsp;(2) the Secretary determines that—
+
+&emsp;&emsp;(A) the levy on such property was premature or otherwise not in accordance with administrative procedures of the Secretary,
+
+&emsp;&emsp;(B) the taxpayer has entered into an agreement under section 6159 to satisfy the tax liability for which the levy was imposed by means of installment payments, unless such agreement provides otherwise,
+
+&emsp;&emsp;(C) the return of such property will facilitate the collection of the tax liability, or
+
+&emsp;&emsp;(D) with the consent of the taxpayer or the Taxpayer Advocate, the return of such property would be in the best interests of the taxpayer (as determined by the Taxpayer Advocate) and the United States,
+
+> the provisions of subsection (b) shall apply in the same manner as if such property had been wrongly levied upon, except that no interest shall be allowed under subsection (c).
+
+(Aug. 16, 1954, ch. 736, 68A Stat. 789; Nov. 2, 1966, Pub. L. 89–719, title I, §104(i), 80 Stat. 1138; Oct. 4, 1976, Pub. L. 94–455, title XIX, §1906(b)(13)(A), 90 Stat. 1834; Pub. L. 96–167, §4(a), Dec. 29, 1979, 93 Stat. 1275; Oct. 22, 1986, Pub. L. 99–514, title XV, §1511(c)(10), 100 Stat. 2745; Nov. 10, 1988, Pub. L. 100–647, title VI, §6236(f), 102 Stat. 3740; July 30, 1996, Pub. L. 104–168, title V, §501(b), 110 Stat. 1460.)
 
 #### Amendments
+
+1996—Subsec. (d). Pub. L. 104–168 added subsec. (d).
 
 1988—Subsec. (a). Pub. L. 100–647 inserted “and notice of release” after “levy” in heading and amended text generally. Prior to amendment, text read as follows: “It shall be lawful for the Secretary, under regulations prescribed by the Secretary, to release the levy upon all or part of the property or rights to property levied upon where the Secretary determines that such action will facilitate the collection of the liability, but such release shall not operate to prevent any subsequent levy.”
 
@@ -82,5 +102,5 @@ Period of limitation for collection where release of levy under this section occ
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 6331, 6502, 6503, 6532 of this title; title 18 section 3613.
+This section is referred to in sections 6331, 6502, 6503, 6532 of this title.
 

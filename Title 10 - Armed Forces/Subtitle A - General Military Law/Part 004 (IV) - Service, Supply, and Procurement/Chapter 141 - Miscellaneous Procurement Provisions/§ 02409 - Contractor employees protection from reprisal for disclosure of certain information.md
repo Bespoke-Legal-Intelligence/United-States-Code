@@ -40,7 +40,7 @@ Definitions.—In this section:
 
 &emsp;(5) The term “Inspector General” means an Inspector General appointed under the Inspector General Act of 1978.
 
-(Added Pub. L. 99–500, §101(c) \[title X, §942(a)(1)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–162, and Pub. L. 99–591, §101(c) \[title X, §942(a)(1)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–162; Pub. L. 99–661, div. A, title IX, formerly title IV, §942(a)(1), Nov. 14, 1986, 100 Stat. 3942, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; amended Pub. L. 102–25, title VII, §701(k)(1), Apr. 6, 1991, 105 Stat. 116; Pub. L. 102–484, div. A, title X, §1052(30)(A), Oct. 23, 1992, 106 Stat. 2500; Pub. L. 103–355, title VI, §6005(a), Oct. 13, 1994, 108 Stat. 3364.)
+(Added Pub. L. 99–500, §101(c) \[title X, §942(a)(1)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–162, and Pub. L. 99–591, §101(c) \[title X, §942(a)(1)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–162; Pub. L. 99–661, div. A, title IX, formerly title IV, §942(a)(1), Nov. 14, 1986, 100 Stat. 3942, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; amended Pub. L. 102–25, title VII, §701(k)(1), Apr. 6, 1991, 105 Stat. 116; Pub. L. 102–484, div. A, title X, §1052(30)(A), Oct. 23, 1992, 106 Stat. 2500; Pub. L. 103–355, title VI, §6005(a), Oct. 13, 1994, 108 Stat. 3364; Pub. L. 104–106, div. D, title XLIII, §4321(a)(10), Feb. 10, 1996, 110 Stat. 671.)
 
 #### References in Text
 
@@ -54,13 +54,19 @@ Pub. L. 99–500, Pub. L. 99–591, and Pub. L. 99–661 added identical section
 
 #### Amendments
 
-1994—Pub. L. 103–355 amended section generally. Prior to amendment, subsec. (a) related to prohibition of reprisals, subsec. (b) to investigation of complaints, subsec. (c) to construction of section, and subsec. (d) to coordination of section with former section 2409a of this title.
+1996—Pub. L. 104–106 made technical correction to Pub. L. 103–355, §6005(a). See 1994 Amendment note below.
+
+1994—Pub. L. 103–355, §6005(a), as amended by Pub. L. 104–106, amended section generally. Prior to amendment, subsec. (a) related to prohibition of reprisals, subsec. (b) to investigation of complaints, subsec. (c) to construction of section, and subsec. (d) to coordination of section with former section 2409a of this title.
 
 1992—Subsec. (d). Pub. L. 102–484 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “
 
 Effective Date.—This section shall not be in effect during the period when section 2409a of this title is in effect.”
 
 1991—Subsec. (d). Pub. L. 102–25 added subsec. (d).
+
+#### Effective Date of 1996 Amendment
+
+Section 4321(a) of Pub. L. 104–106 provided that the amendment made by that section is effective as of Oct. 13, 1994, and as if included in Pub. L. 103–355 as enacted.
 
 #### Effective Date of 1994 Amendment
 
@@ -72,5 +78,5 @@ Section 1052(30)(B) of Pub. L. 102–484 provided that: “The amendment made by
 
 #### Effective Date
 
-Section 101(c) \[title X, §942(b)\] of Pub. L. 99–500 and Pub. L. 99–591, and section 942(b) of title IX, formerly title IV, of Pub. L. 99–661, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273, provided that:“Section 2409 of title 10, United States Code (as added by subsection (a)(1)), shall apply with respect to any reprisal action taken on or after the date of the enactment of this Act \[Oct. 18, 1986\].”
+Section 101(c) \[title X, §942(b)\] of Pub. L. 99–500 and Pub. L. 99–591, and section 942(b) of title IX, formerly title IV, of Pub. L. 99–661, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273, provided that: “Section 2409 of title 10, United States Code (as added by subsection (a)(1)), shall apply with respect to any reprisal action taken on or after the date of the enactment of this Act \[Oct. 18, 1986\].”
 

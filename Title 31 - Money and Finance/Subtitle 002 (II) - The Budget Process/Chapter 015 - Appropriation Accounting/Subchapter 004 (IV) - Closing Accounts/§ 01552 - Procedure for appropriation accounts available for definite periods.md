@@ -46,7 +46,7 @@ July 25, 1956, ch. 727, §§1(c)(last sentence), (d), 5, 70 Stat. 648, 649.
 
 31:705.
 
-In subsection (a), the text of 31:701(b)(1)(A) and (2)(A) and the words “for the period commencing on July 1, 1976, and ending on September 30, 1976, and for any fiscal year commencing on or after October 1, 1976” are omitted as executed.
+In subsection (a), the text of 31:701(b)(1)(A) and (2)(A) and the words “for the period commencing on July 1,1976, and ending on September 30, 1976, and for any fiscal year commencing on or after October 1, 1976” are omitted as executed.
 
 In subsection (a)(1), the words “period of availability ends” are substituted for “that period or the fiscal year or years, as the case may be, for which the appropriation is available for obligation” to eliminate unnecessary words.
 
@@ -96,5 +96,5 @@ Report on Audit.—Not later than December 31, 1991, the Secretary of Defense sh
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1553, 1554, 1558 of this title.
+This section is referred to in sections 1553, 1554, 1558 of this title; title 10 section 2216.
 

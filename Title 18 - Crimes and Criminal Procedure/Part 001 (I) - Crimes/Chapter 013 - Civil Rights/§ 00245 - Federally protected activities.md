@@ -40,7 +40,7 @@
 
 &emsp;&emsp;(B) affording another person or class of persons opportunity or protection to so participate; or
 
-&emsp;(5) any citizen because he is or has been, or in order to intimidate such citizen or any other citizen from lawfully aiding or encouraging other persons to participate, without discrimination on account of race, color, religion or national origin, in any of the benefits or activities described in subparagraphs (1)(A) through (1)(E) or subparagraphs (2)(A) through (2)(F), or participating lawfully in speech or peaceful assembly opposing any denial of the opportunity to so participate—
+&emsp;(5) any citizen because he is or has been, or in order to intimidate such citizen or any other citizen from lawfully aiding or encouraging other persons to participate, without discrimination on account of race, color, religion or national origin, in any of the benefits or activities described in subparagraphs (1)(A) through (1)(E) or subparagraphs (2)(A) through\(2)(F), or participating lawfully in speech or peaceful assembly opposing any denial of the opportunity to so participate—
 
 > shall be fined under this title, or imprisoned not more than one year, or both; and if bodily injury results from the acts committed in violation of this section or if such acts include the use, attempted use, or threatened use of a dangerous weapon, explosives, or fire shall be fined under this title, or imprisoned not more than ten years, or both; and if death results from the acts committed in violation of this section or if such acts include kidnapping or an attempt to kidnap, aggravated sexual abuse or an attempt to commit aggravated sexual abuse, or an attempt to kill, shall be fined under this title or imprisoned for any term of years or for life, or both, or may be sentenced to death. As used in this section, the term “participating lawfully in speech or peaceful assembly” shall not mean the aiding, abetting, or inciting of other persons to riot or to commit any act of physical violence upon any individual or against any real or personal property in furtherance of a riot. Nothing in subparagraph (2)(F) or (4)(A) of this subsection shall apply to the proprietor of any establishment which provides lodging to transient guests, or to any employee acting on behalf of such proprietor, with respect to the enjoyment of the goods, services, facilities, privileges, advantages, or accommodations of such establishment if such establishment is located within a building which contains not more than five rooms for rent or hire and which is actually occupied by the proprietor as his residence.
 
@@ -48,23 +48,33 @@
 
 (d) For purposes of this section, the term “State” includes a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
 
-(Added Pub. L. 90–284, title I, §101(a), Apr. 11, 1968, 82 Stat. 73; amended Pub. L. 100–690, title VII, §7020(a), Nov. 18, 1988, 102 Stat. 4396; Pub. L. 101–647, title XII, §1205(b), Nov. 29, 1990, 104 Stat. 4830; Pub. L. 103–322, title VI, §60006(c), title XXXII, §320103(c), title XXXIII, §330016(1)(H), (L), Sept. 13, 1994, 108 Stat. 1971, 2109, 2147.)
+(Added Pub. L. 90–284, title I, §101(a), Apr. 11, 1968, 82 Stat. 73; amended Pub. L. 100–690, title VII, §7020(a), Nov. 18, 1988, 102 Stat. 4396; Pub. L. 101–647, title XII, §1205(b), Nov. 29, 1990, 104 Stat. 4830; Pub. L. 103–322, title VI, §60006(c), title XXXII, §320103(c), title XXXIII, §330016(1)(H), (L), Sept. 13, 1994, 108 Stat. 1971, 2109, 2147; Pub. L. 104–294, title VI, §604(b)(14)(C), (37), Oct. 11, 1996, 110 Stat. 3507, 3509.)
 
 #### Amendments
 
-1994—Subsec. (b). Pub. L. 103–322, §320103(c)(4)–(6), in concluding provisions, inserted “from the acts committed in violation of this section or if such acts include kidnapping or an attempt to kidnap, aggravated sexual abuse or an attempt to commit aggravated sexual abuse, or an attempt to kill,” after “death results” and substituted “shall be fined under this title or imprisoned for any term of years or for life, or both” for “shall be subject to imprisonment for any term of years or for life”.
+1996—Subsec. (b). Pub. L. 104–294 amended Pub. L. 103–322, §320103(c). See 1994 Amendment notes below.
 
-Pub. L. 103–322, §§320103(c)(3), 330016(1)(L), amended subsec. (b), concluding provisions, identically, substituting “shall be fined under this title” for “shall be fined not more than $10,000” before “, or imprisoned not more than ten years”.
+1994—Subsec. (b). Pub. L. 103–322, §330016(1)(L), substituted “shall be fined under this title” for “shall be fined not more than $10,000” before “, or imprisoned not more than ten years” in concluding provisions.
 
-Pub. L. 103–322, §320103(c)(2), which directed the insertion of “from the acts committed in violation of this section or if such acts include the use, attempted use, or threatened use of a dangerous weapon, explosives, or fire” after “ ‘bodily injury results;” in concluding provisions, was executed by inserting the material after “bodily injury results” to reflect the probable intent of Congress.
+Pub. L. 103–322, §330016(1)(H), substituted “shall be fined under this title” for “shall be fined not more than $1,000” before “, or imprisoned not more than one year” in concluding provisions.
 
-Pub. L. 103–322, §§320103(c)(1), 330016(1)(H), amended concluding provisions identically, substituting “shall be fined under this title” for “shall be fined not more than $1,000” before “, or imprisoned not more than one year”.
+Pub. L. 103–322, §320103(c)(4)–(6), in concluding provisions, inserted “from the acts committed in violation of this section or if such acts include kidnapping or an attempt to kidnap, aggravated sexual abuse or an attempt to commit aggravated sexual abuse, or an attempt to kill,” after “death results” and substituted “shall be fined under this title or imprisoned for any term of years or for life, or both” for “shall be subject to imprisonment for any term of years or for life”.
+
+Pub. L. 103–322, §320103(c)(3), which provided for amendment identical to Pub. L. 103–322, §330016(1)(L), above, was repealed by Pub. L. 104–294, §604(b)(14)(C).
+
+Pub. L. 103–322, §320103(c)(2), as amended by Pub. L. 104–294, §604(b)(37), inserted “from the acts committed in violation of this section or if such acts include the use, attempted use, or threatened use of a dangerous weapon, explosives, or fire” after “bodily injury results” in concluding provisions.
+
+Pub. L. 103–322, §320103(c)(1), which provided for amendment identical to Pub. L. 103–322, §330016(1)(H), above, was repealed by Pub. L. 104–294, §604(b)(14)(C).
 
 Pub. L. 103–322, §60006(c), in concluding provisions, inserted “, or may be sentenced to death” before “. As used in this section”.
 
 1990—Subsec. (d). Pub. L. 101–647 added subsec. (d).
 
 1988—Subsec. (a)(1). Pub. L. 100–690 substituted “, the Deputy” for “or the Deputy” and inserted “, the Associate Attorney General, or any Assistant Attorney General specially designated by the Attorney General” after “Deputy Attorney General”.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–294 effective Sept. 13, 1994, see section 604(d) of Pub. L. 104–294, set out as a note under section 13 of this title.
 
 #### Fair Housing
 

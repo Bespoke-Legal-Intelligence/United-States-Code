@@ -70,7 +70,7 @@ Section 1 of Pub. L. 93–205 provided: “That this Act \[enacting this chapter
 
 #### Relationship to Endangered Species Act of 1973
 
-Pub. L. 102–251, title III, §305, Mar. 9, 1992, 106 Stat. 66, provided that: “The special areas defined in section 3(24) of the Magnuson Fishery Conservation and Management Act (16 U.S.C. 1802(24)) shall be considered places that are subject to the jurisdiction of the United States for the purposes of the Endangered Species Act of 1973 (16 U.S.C. 1531 et seq.).”
+Pub. L. 102–251, title III, §305, Mar. 9, 1992, 106 Stat. 66, as amended by Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that: “The special areas defined in section 3(24) of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1802(24)) shall be considered places that are subject to the jurisdiction of the United States for the purposes of the Endangered Species Act of 1973 (16 U.S.C. 1531 et seq.).”
 
 #### Minimization of Conflicts With Recreational Fisheries
 

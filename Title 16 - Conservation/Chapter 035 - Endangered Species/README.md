@@ -42,10 +42,10 @@
 | (i) | Review by Secretary of State; violation of international treaty or other international obligation of United States. |
 | (j) | Exemption for national security reasons. |
 | (k) | Exemption decision not considered major Federal action; environmental impact statement. |
-| (<i>l)</i> | Committee order granting exemption; cost of mitigation and enhancement measures; report by applicant to Council on Environmental Quality. |
+| (<i>l</i>) | Committee order granting exemption; cost of mitigation and enhancement measures; report by applicant to Council on Environmental Quality. |
 | (m) | Notice requirement for citizen suits not applicable. |
 | (n) | Judicial review. |
-| (<i>o)</i> | Exemption as providing exception on taking of endangered species. |
+| (<i>o</i>) | Exemption as providing exception on taking of endangered species. |
 | (p) | Exemptions in Presidentially declared disaster areas. |
 | [1537\.](%C2%A7%2001537%20-%20International%20cooperation.md) | International cooperation. |
 | (a) | Financial assistance. |
@@ -98,7 +98,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 410aaa–80, 460iii–5, 460jjj–1, 620, 1362, 1371, 1387, 1389, 1853, 2404, 2407, 2408, 2705, 2902, 2912, 3125, 3741, 3743, 4202, 4241, 4244, 4401, 4402, 4404, 4802, 4805, 4912, 5301 of this title; title 7 sections 136, 2814; title 33 section 2283.
+This chapter is referred to in sections 410aaa–80, 460iii–5, 460jjj–1, 545b, 620, 1362, 1371, 1387, 1389, 1881a, 2404, 2407, 2408, 2705, 2902, 2912, 3125, 3741, 3743, 4202, 4241, 4244, 4401, 4402, 4404, 4802, 4805, 4912, 5301 of this title; title 7 sections 136, 2814; title 25 section 715c; title 33 section 2283.
 
 
 ---

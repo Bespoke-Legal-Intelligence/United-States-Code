@@ -4,7 +4,7 @@ As used in this chapter—
 
 (a) The term “prime contract” means any contract, agreement, or purchase order heretofore or hereafter entered into by a contracting agency and connected with or related to the prosecution of the war; and the term “prime contractor” means any holder of one or more prime contracts.
 
-(b) The term “subcontract” means any contract, agreement, or purchase order heretoforeor hereafter entered into to perform any work, or to make or furnish any material to the extent that such work or material is required for the performance of any one or more prime contracts or of any one or more other subcontracts; and the term “subcontractor” means any holder of one or more subcontracts.
+(b) The term “subcontract” means any contract, agreement, or purchase order heretofore or hereafter entered into to perform any work, or to make or furnish any material to the extent that such work or material is required for the performance of any one or more prime contracts or of any one or more other subcontracts; and the term “subcontractor” means any holder of one or more subcontracts.
 
 (c) The term “war contract” means a prime contract or a subcontract; and the term “war contractor” means any holder of one or more war contracts.
 

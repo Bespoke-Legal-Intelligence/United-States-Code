@@ -6,7 +6,7 @@ Except as provided in section 1206 of this title—
 
 &emsp;(1) every power-driven vessel of twenty meters or over in length while navigating;
 
-&emsp;(2) every vessel of one hundred gross tons and upward carrying one or more passengers for hire while navigating;
+&emsp;(2) every vessel of one hundred gross tons as measured under section 14502 of title 46, or an alternate tonnage measured under section 14302 of that title as prescribed by the Secretary under section 14104 of that title, and upward carrying one or more passengers for hire while navigating;
 
 &emsp;(3) every towing vessel of twenty-six feet or over in length while navigating; and
 
@@ -18,9 +18,11 @@ Except as provided in section 1206 of this title—
 
 The radiotelephone required by subsection (a) of this section shall be carried on board the described vessels, dredges, and floating plants upon the navigable waters of the United States inside the lines established pursuant to section 151 of this title.
 
-(Pub. L. 92–63, §4, Aug. 4, 1971, 85 Stat. 164; Pub. L. 102–241, §16, Dec. 19, 1991, 105 Stat. 2213.)
+(Pub. L. 92–63, §4, Aug. 4, 1971, 85 Stat. 164; Pub. L. 102–241, §16, Dec. 19, 1991, 105 Stat. 2213; Pub. L. 104–324, title VII, §704, Oct. 19, 1996, 110 Stat. 3933.)
 
 #### Amendments
+
+1996—Subsec. (a)(2). Pub. L. 104–324 inserted “as measured under section 14502 of title 46, or an alternate tonnage measured under section 14302 of that title as prescribed by the Secretary under section 14104 of that title,” after “one hundred gross tons”.
 
 1991—Subsec. (a)(1). Pub. L. 102–241 amended par. (1) generally, substituting “twenty meters or over in length” for “three hundred gross tons and upward”.
 

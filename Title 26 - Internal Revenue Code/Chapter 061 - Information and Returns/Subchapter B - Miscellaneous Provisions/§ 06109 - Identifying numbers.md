@@ -6,7 +6,7 @@ When required by regulations prescribed by the Secretary:
 
 #### (1) Inclusion in returns
 
-&emsp;Any person required under the authority of this title to make a return, statement, or other document shall include in such return, statement, or other document such identifying number as may be prescribed for securing proper identification of such person.
+&emsp;Any person required under the authority of this title to make a return, statement, orother document shall include in such return, statement, or other document such identifying number as may be prescribed for securing proper identification of such person.
 
 #### (2) Furnishing number to other persons
 
@@ -18,7 +18,7 @@ When required by regulations prescribed by the Secretary:
 
 #### (4) Furnishing identifying number of income tax return preparer
 
-&emsp;Any return or claim for refund prepared by an income tax return preparer shall bear suchidentifying number for securing proper identification of such preparer, his employer, or both, as may be prescribed. For purposes of this paragraph, the terms “return” and “claim for refund” have the respective meanings given to such terms by section 6696(e).
+&emsp;Any return or claim for refund prepared by an income tax return preparer shall bear such identifying number for securing proper identification of such preparer, his employer, or both, as may be prescribed. For purposes of this paragraph, the terms “return” and “claim for refund” have the respective meanings given to such terms by section 6696(e).
 
 > For purposes of this subsection, the identifying number of an individual (or his estate) shall be such individual's social security account number.
 
@@ -36,11 +36,9 @@ For purposes of this section, the Secretary is authorized to require such inform
 
 The social security account number issued to an individual for purposes of section 205(c)(2)(A) of the Social Security Act shall, except as shall otherwise be specified under regulations of the Secretary, be used as the identifying number for such individual for purposes of this title.
 
-#### (e) Furnishing number for dependents
+#### \[(e) Repealed. Pub. L. 104–188, title I, §1615(a)(2)(A), Aug. 20, 1996, 110 Stat. 1853\]
 
-Any taxpayer who claims an exemption under section 151 for any dependent on a return for any taxable year shall include on such return the identifying number (for purposes of this title) of such dependent.
-
-#### (f) <sup>1</sup> Access to employer identification numbers by Secretary of Agriculture for purposes of Food Stamp Act of 1977
+#### (f) Access to employer identification numbers by Secretary of Agriculture for purposes of Food Stamp Act of 1977
 
 #### (1) In general
 
@@ -64,7 +62,7 @@ Any taxpayer who claims an exemption under section 151 for any dependent on a re
 
 &emsp;Paragraphs (1), (2), and (3) of section 7213(a) shall apply with respect to the unauthorized willful disclosure to any person of employer identification numbers maintained pursuant to this subsection by the Secretary of Agriculture or any agency or instrumentality with which information is shared pursuant to paragraph (2) in the same manner and to the same extent as such paragraphs apply with respect to unauthorized disclosures of return and return information described in such paragraphs. Paragraph (4) of section 7213(a) shall apply with respect to the willful offer of any item of material value in exchange for any such employer identification number in the same manner and to the same extent as such paragraph applies with respect to offers (in exchange for any return or return information) described in such paragraph.
 
-#### (f) <sup>1</sup> Access to employer identification numbers by Federal Crop Insurance Corporation for purposes of the Federal Crop Insurance Act
+#### (g) Access to employer identification numbers by Federal Crop Insurance Corporation for purposes of the Federal Crop Insurance Act
 
 #### (1) In general
 
@@ -78,7 +76,7 @@ Any taxpayer who claims an exemption under section 151 for any dependent on a re
 
 &emsp;Paragraphs (1), (2), and (3) of section 7213(a) shall apply with respect to the unauthorized willful disclosure to any person of employer identification numbers maintained by the Secretary of Agriculture or the Federal Crop Insurance Corporation pursuant to this subsection in the same manner and to the same extent as such paragraphs apply with respect to unauthorized disclosures of return and return information described in such paragraphs. Paragraph (4) of section 7213(a) shall apply with respect to the willful offer of any item of material value in exchange for any such employer identification number in the same manner and to the same extent as such paragraph applies with respect to offers (in exchange for any return or return information) described in such paragraph.
 
-#### (h) <sup>2</sup> Identifying information required with respect to certain seller-provided financing
+#### (h) Identifying information required with respect to certain seller-provided financing
 
 #### (1) Payor
 
@@ -96,21 +94,29 @@ Any taxpayer who claims an exemption under section 151 for any dependent on a re
 
 &emsp;For purposes of this subsection, the term “seller-provided financing” means any indebtedness incurred in acquiring any residence if the person to whom such indebtedness is owed is the person from whom such residence was acquired.
 
-(Added Pub. L. 87–397, §1(a), Oct. 5, 1961, 75 Stat. 828; amended Pub. L. 94–455, title XII, §§1203(d), 1211(c), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1691, 1712, 1834; Pub. L. 99–514, title XV, §1524(a), Oct. 22, 1986, 100 Stat. 2749; Pub. L. 100–485, title VII, §§703(c)(3), 704(a), Oct. 13, 1988, 102 Stat. 2427; Pub. L. 101–508, title XI, §11112(a), Nov. 5, 1990, 104 Stat. 1388–413; Pub. L. 101–624, title XVII, §1735(c), title XXII, §2201(d), Nov. 28, 1990, 104 Stat. 3792, 3953; Pub. L. 102–486, title XIX, §1933(a), Oct. 24, 1992, 106 Stat. 3031; Pub. L. 103–296, title III, §316(b), Aug. 15, 1994, 108 Stat. 1532; Pub. L. 103–465, title VII, §742(b), Dec. 8, 1994, 108 Stat. 5010.)
+(Added Pub. L. 87–397, §1(a), Oct. 5, 1961, 75 Stat. 828; amended Pub. L. 94–455, title XII, §§1203(d),1211(c), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1691, 1712, 1834; Pub. L. 99–514, title XV, §1524(a), Oct. 22, 1986, 100 Stat. 2749; Pub. L. 100–485, title VII, §§703(c)(3), 704(a), Oct. 13, 1988, 102 Stat. 2427; Pub. L. 101–508, title XI, §11112(a), Nov. 5, 1990, 104 Stat. 1388–413; Pub. L. 101–624, title XVII, §1735(c), title XXII, §2201(d), Nov. 28, 1990, 104 Stat. 3792, 3953; Pub. L. 102–486, title XIX, §1933(a), Oct. 24, 1992, 106 Stat. 3031; Pub. L. 103–296, title III, §316(b), Aug. 15, 1994, 108 Stat. 1532; Pub. L. 103–465, title VII, §742(b), Dec. 8, 1994, 108 Stat. 5010; Pub. L. 104–188, title I, §§1615(a)(2)(A), 1704(t)(42), Aug. 20, 1996, 110 Stat. 1853, 1889.)
 
 #### References in Text
 
 Section 205 of the Social Security Act, referred to in subsec. (d), is classified to section 405 of Title 42, The Public Health and Welfare.
 
-The Food Stamp Act of 1977, referred to in subsec. (f), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, as amended, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. For complete classification ofthis Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
+The Food Stamp Act of 1977, referred to in subsec. (f), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, as amended, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
 
-The Federal Crop Insurance Act, referred to in subsec. (f), is title V of act Feb. 16, 1938, ch. 30, 52 Stat. 72, as amended, which is classified generally to chapter 36 (§1501 et seq.) of Title 7. Section 506 of the Act is classified to section 1506 of Title 7. For complete classification of this Act to the Code, see section 1501 of Title 7 and Tables.
+The Federal Crop Insurance Act, referred to in subsec. (g), is title V of act Feb. 16, 1938, ch. 30, 52 Stat. 72, as amended, which is classified generally to chapter 36 (§1501 et seq.) of Title 7. Section 506 of the Act is classified to section 1506 of Title 7. For complete classification of this Act to the Code, see section 1501 of Title 7 and Tables.
 
 #### Prior Provisions
 
 A prior section 6109 was renumbered section 6116 of this title.
 
 #### Amendments
+
+1996—Subsec. (e). Pub. L. 104–188, §1615(a)(2)(A), struck out subsec. (e) which read as follows:
+
+“(e)
+
+Furnishing Number for Dependents.—Any taxpayer who claims an exemption under section 151 for any dependent on a return for any taxable year shall include on such return the identifying number (for purposes of this title) of such dependent.”
+
+Subsecs. (f), (g). Pub. L. 104–188, §1704(t)(42), redesignated subsec. (f) relating to access to employer identification numbers for purposes of Federal Crop Insurance Act as subsec. (g).
 
 1994—Subsec. (e). Pub. L. 103–465 substituted “dependents” for “certain dependents” in heading and amended text generally. Prior to amendment, text read as follows: “If—
 
@@ -144,6 +150,10 @@ Subsec. (e)(2). Pub. L. 100–485, §704(a), substituted “age of 2” for “a
 
 Subsec. (d). Pub. L. 94–455, §1211(c), added subsec. (d).
 
+#### Effective Date of 1996 Amendment
+
+Amendment by section 1615(a)(2)(A) of Pub. L. 104–188 applicable with respect to returns the due date for which, without regard to extensions, is on or after the 30th day after Aug. 20, 1996, with special rule for 1995 and 1996, see section 1615(d) of Pub. L. 104–188, set out as a note under section 21 of this title.
+
 #### Effective Date of 1994 Amendment
 
 Amendment by Pub. L. 103–465 applicable to returns for taxable years beginning after Dec. 31, 1994, but not applicable to returns for taxable years beginning in 1995 with respect to individuals who are born after Oct. 31, 1995, and to returns for taxable years beginning in 1996 with respect to individuals who are born after Nov. 30, 1996, see section 742(c) of Pub. L. 103–465, set out as a note under section 32 of this title.
@@ -174,9 +184,5 @@ Section 1(d) of Pub. L. 87–397, as amended by Pub. L. 99–514, §2, Oct. 22, 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 6103, 6695, 6724, 7701 of this title; title 7 section 1506; title 31 section 7701.
-
-<i><sup>1</sup></i><i> So in original. Two subsecs. (f) have been enacted.</i>
-
-<i><sup>2</sup></i><i> So in original. No subsec. (g) has been enacted.</i>
+This section is referred to in sections 6103, 6695, 6724, 7701 of this title; title 7 section 1506; title 31 sections 3720A, 7701.
 

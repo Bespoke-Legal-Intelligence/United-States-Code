@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary is authorized to make insured loans under this subchapter and at the interest rates hereinafter provided to the full extent of the assets available in the fund, subject only to limitations as to amounts authorized for loans and advances as may be from time to time imposed by the Congress of the United States for loans to be made in any one year, which amounts shall remain available until expended: <i>Provided,</i> That the Congress in the annual appropriation Act may also authorize the transfer of any excess cash in the fund for deposit into the Treasury as miscellaneous receipts: <i>And provided further,</i> That any such loans and advances shall not be included in the totals of the budget of the United States Government and shall be exempt from any general limitation imposed by statute on expenditures and net lending (budget outlays) of the United States.
+The Secretary is authorized to make insured loans under this subchapter and at the interest rates hereinafter provided to the full extent of the assets available in the fund, subject only to limitations as to amounts authorized for loans and advances as may be from time to time imposed by the Congress of the United States for loans to be made in any one year, which amounts shall remain available until expended: <i>Provided</i>, That the Congress in the annual appropriation Act may also authorize the transfer of any excess cash in the fund for deposit into the Treasury as miscellaneous receipts: <i>And provided further</i>, That any such loans and advances shall not be included in the totals of the budget of the United States Government and shall be exempt from any general limitation imposed by statute on expenditures and net lending (budget outlays) of the United States.
 
 #### (b) Insured loans
 
@@ -14,7 +14,7 @@ Loans made under this section shall be insured by the Secretary when purchased b
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall make insured electric loans, to the extent of qualifying applications for the loans, at an interest rate of 5percent per year to any applicant for a loan who meets each of the following requirements:
+&emsp;&emsp;The Secretary shall make insured electric loans, to the extent of qualifying applications for the loans, at an interest rate of 5 percent per year to any applicant for a loan who meets each of the following requirements:
 
 &emsp;&emsp;&emsp;(i) The average revenue per kilowatt-hour sold by the applicant is not less than 120 percent of the average revenue per kilowatt-hour sold by all utilities in the State in which the applicant provides service.
 
@@ -124,7 +124,7 @@ Loans made under this section shall be insured by the Secretary when purchased b
 
 &emsp;&emsp;&emsp;(i) The average number of subscribers per mile of line in the service area of the applicant is not more than 15, or the applicant is capable of producing net income or margins before interest of not less than 100 percent (but not more than 500 percent) of the interest requirements on all of the outstanding and proposed loans of the applicant.
 
-&emsp;&emsp;&emsp;(ii) The Secretary has approved a telecommunications modernization plan for the State under paragraph (3) and, if the plan was developed by telephone borrowers under this subchapter, the applicant is a participant in the plan.
+&emsp;&emsp;&emsp;(ii) The Secretary has approved a telecommunications modernization plan forthe State under paragraph (3) and, if the plan was developed by telephone borrowers under this subchapter, the applicant is a participant in the plan.
 
 #### (B) Concurrent loan authority
 
@@ -206,7 +206,7 @@ Section 165(d) of Pub. L. 97–35 provided that: “The amendments made by subse
 
 #### Effective Date of 1976 Amendment; Interest Rate
 
-Section 4 of Pub. L. 94–570 provided that: “This Act \[amending this section and section 931 of this title\]shall take effect upon enactment \[Oct. 20, 1976\] except that insured loans made pursuant to applications for such loans which would otherwise lose eligibility for special rate financing upon such enactment, received by the Rural Electrification Administration and still pending on the date of enactment of this Act \[Oct. 20, 1976\], shall bear interest as determined under section 305(b) of the Rural Electrification Act of 1936 before its amendment by this Act \[former provisions of subsec. (b) of this section\].”
+Section 4 of Pub. L. 94–570 provided that: “This Act \[amending this section and section 931 of this title\] shall take effect upon enactment \[Oct. 20, 1976\] except that insured loans made pursuant to applications for such loans which would otherwise lose eligibility for special rate financing upon such enactment, received by the Rural Electrification Administration and still pending on the date of enactment of this Act \[Oct. 20, 1976\], shall bear interest as determined under section 305(b) of the Rural Electrification Act of 1936 before its amendment by this Act \[former provisions of subsec. (b) of this section\].”
 
 #### Effective Date
 

@@ -16,7 +16,9 @@ State and Political Subdivision Automobiles.—A State or a political subdivisio
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

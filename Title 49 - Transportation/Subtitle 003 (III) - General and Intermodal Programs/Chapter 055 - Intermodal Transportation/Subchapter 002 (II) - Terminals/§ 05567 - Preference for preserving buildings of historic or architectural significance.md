@@ -6,7 +6,9 @@ Amtrak shall give preference to the use of rail passenger terminal facilities th
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

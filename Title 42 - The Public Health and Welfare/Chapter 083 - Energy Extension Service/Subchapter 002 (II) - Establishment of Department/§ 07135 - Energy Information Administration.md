@@ -12,7 +12,7 @@ The Secretary shall delegate to the Administrator (which delegation may be on a 
 
 #### (c) Functions of Director of Office of Energy Information and Analysis
 
-In addition to, and not in limitation of the functions delegated to the Administrator pursuant to other subsections of this section, there shall be vested in the Administrator, and he shall perform, the functions assigned to the Director of the Office of Energy Information and Analysis under part B of the Federal Energy Administration Act of 1974 \[15 U.S.C. 790 et seq.\], and the provisions of sections 53(d) and 59 thereof \[15 U.S.C. 790b(d), 790h\] shall be applicable to the Administrator in the performance of any function under this chapter.
+In addition to, and not in limitation of the functions delegated to the Administrator pursuant to other subsections of this section, there shall be vested in the Administrator, and heshall perform, the functions assigned to the Director of the Office of Energy Information and Analysis under part B of the Federal Energy Administration Act of 1974 \[15 U.S.C. 790 et seq.\], and the provisions of sections 53(d) and 59 thereof \[15 U.S.C. 790b(d), 790h\] shall be applicable to the Administrator in the performance of any function under this chapter.
 
 #### (d) Collection or analysis of information and preparation of reports without approval
 
@@ -86,7 +86,7 @@ Information collected by the Energy Information Administration shall be cataloge
 
 #### (i) Manufacturers energy consumption survey
 
-(1) The Administrator shall conduct and publish the results of a survey of energy consumption in the manufacturing industries in theUnited States at least once every two years and in a manner designed to protect the confidentiality of individual responses. In conducting the survey, the Administrator shall collect information, including—
+(1) The Administrator shall conduct and publish the results of a survey of energy consumption in the manufacturing industries in the United States at least once every two years and in a manner designed to protect the confidentiality of individual responses. In conducting the survey, the Administrator shall collect information, including—
 
 &emsp;(A) quantity of fuels consumed;
 
@@ -144,11 +144,17 @@ The Energy Policy and Conservation Act, referred to in subsec. (h)(3), is Pub. L
 
 1992—Subsec. (i)(1). Pub. L. 102–486, §171(a)(1), in introductory provisions, substituted “at least once every two years” for “on at least a triennial basis”.
 
-Subsec. (i)(1)(D). Pub. L. 102–486, §171(a)(2), amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “use of nonpurchased sources of energy, such as cogeneration and waste by-products.”
+Subsec. (i)(1)(D). Pub. L. 102–486, §171(a)(2), amended subpar. (D) generally. Prior to amendment, subpar. (D)read as follows: “use of nonpurchased sources of energy, such as cogeneration and waste by-products.”
 
-Subsecs. (j) to (<i>l</i>). Pub. L. 102–486, §171(b), added subsecs. (j) to (<i>l).</i>
+Subsecs. (j) to (<i>l</i>). Pub. L. 102–486, §171(b), added subsecs. (j) to (<i>l</i>).
 
 1986—Subsec. (i). Pub. L. 99–509 added subsec. (i).
+
+#### End Use Consumption Surveys; Manufacturing Energy Consumption Survey
+
+Pub. L. 104–134, title I, §101(c) \[title II\], Apr. 26, 1996, 110 Stat. 1321–156, 1321–188; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327, provided in part: “That notwithstanding section 4(d) of the Service Contract Act of 1965 (41 U.S.C. 353(d)) or any other provision of law, funds appropriated under this heading \[DEPARTMENT OF ENERGY,
+
+energy information administration\] hereafter may be used to enter into a contract for end use consumption surveys for a term not to exceed eight years: <i>Provided further</i>, That notwithstanding any other provision of law, hereafter the Manufacturing Energy Consumption Survey shall be conducted on a triennial basis.”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

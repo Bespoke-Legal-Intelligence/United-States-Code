@@ -44,7 +44,7 @@ To assure adequate notification and timely delivery of student aid funds under t
 
 #### (b) Timing for reallocations
 
-With respect to any funds reallocated under section 1070b–3(e) of this title, section 2752(e) of title 42, or section 1087bb(j) of this title, the Secretary shall reallocate such funds at any time during the course of the year that will best meet the purpose of the programs under subpart 3 of part A of this subchapter, part C of subchapter I of chapter 34 of title 42, and part D of this subchapter, respectively. However, such reallocation shall occur at least once each year, not later than September 30 of that year.
+With respect to any funds reallocated under section 1070b–3(e) of this title, section 2752(e) of title 42, or section 1087bb(j) of this title, the Secretary shall reallocate such funds at any time during the course of the year that will best meet the purpose of the programs under subpart 3 ofpart A of this subchapter, part C of subchapter I of chapter 34 of title 42, and part D of this subchapter, respectively. However, such reallocation shall occur at least once each year, not later than September 30 of that year.
 
 #### (c) Delay of effective date of late publications
 
@@ -64,7 +64,7 @@ Another prior section 1089, Pub. L. 89–329, title IV, §499, formerly §469, a
 
 #### Amendments
 
-1995—Subsec. (d). Pub. L. 104–66, in first sentence substituted “a deadline included in the calendar describedin subsection (a) of this section is not met” for “the items specified in the calendar have been completed and provide all relevant forms, rules, and instructions with such notice” and after first sentence struck out “When a deadline included in the calendar is not met, the Secretary, within 7 days, shall submit to the Committee on Labor and Human Resources of the Senate and the Committee on Education and Labor of the House of Representatives a written report, including proper documentation, as to why the deadline was not adhered to and a detailed plan for ensuring that subsequent dates are met.”
+1995—Subsec. (d). Pub. L. 104–66, in first sentence substituted “a deadline included in the calendar described in subsection (a) of this section is not met” for “the items specified in the calendar have been completed and provide all relevant forms, rules, and instructions with such notice” and after first sentence struck out “When a deadline included in the calendar is not met, the Secretary, within 7 days, shall submit to the Committee on Labor and Human Resources of the Senate and the Committee on Education and Labor of the House of Representatives a written report, including proper documentation, as to why the deadline was not adhered to and a detailed plan for ensuring that subsequent dates are met.”
 
 1993—Subsec. (c). Pub. L. 103–208 inserted at end “For award year 1994–95, this subsection shall not require a delay in the effectiveness of regulatory changes affecting this part and parts B and G of this subchapter that are published in final form by May 1, 1994.”
 
@@ -78,7 +78,7 @@ Subsec. (c). Pub. L. 102–325, §482(a), amended subsec. (c) generally. Prior t
 
 #### Change of Name
 
-Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Economic and Educational Opportunities of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Fifth Congress, Jan. 7, 1997.
 
 #### Effective Date of 1993 Amendment
 

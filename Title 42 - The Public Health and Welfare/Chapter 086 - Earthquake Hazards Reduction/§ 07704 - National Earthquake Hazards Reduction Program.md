@@ -20,7 +20,7 @@ There is established a National Earthquake Hazards Reduction Program.
 
 &emsp;&emsp;(E) request the assistance of Federal agencies other than the Program agencies, as necessary to assist in carrying out this chapter.
 
-> &emsp;The principal official carrying out the responsibilities described in this paragraph shall beat a level no lower than that of Associate Director.
+> &emsp;The principal official carrying out the responsibilities described in this paragraph shall be at a level no lower than that of Associate Director.
 
 #### (2) Federal Emergency Management Agency
 
@@ -68,7 +68,7 @@ There is established a National Earthquake Hazards Reduction Program.
 
 #### (3) United States Geological Survey
 
-&emsp;The United States Geological Survey shall conduct research necessary to characterize and identify earthquake hazards, assess earthquake risks, monitor seismic activity, and improve earthquake predictions. In carrying out this paragraph, the Director of the United States Geological Survey shall—
+&emsp;The United States Geological Survey shall conduct research necessary to characterizeand identify earthquake hazards, assess earthquake risks, monitor seismic activity, and improve earthquake predictions. In carrying out this paragraph, the Director of the United States Geological Survey shall—
 
 &emsp;&emsp;(A) conduct a systematic assessment of the seismic risks in each region of the Nation prone to earthquakes, including, where appropriate, the establishment and operation of intensive monitoring projects on hazardous faults, seismic microzonation studies in urban and other developed areas where earthquake risk is determined to be significant, and engineering seismology studies;
 
@@ -76,7 +76,7 @@ There is established a National Earthquake Hazards Reduction Program.
 
 &emsp;&emsp;(C) develop standard procedures, in consultation with the Agency, for issuing earthquake predictions, including aftershock advisories;
 
-&emsp;&emsp;(D) issue when necessary, and notify the Director of the Agency of, an earthquake prediction or other earthquake advisory, which may be evaluated by the NationalEarthquake Prediction Evaluation Council, which shall be exempt from the requirements of section 10(a)(2) of the Federal Advisory Committee Act when meeting for such purposes;
+&emsp;&emsp;(D) issue when necessary, and notify the Director of the Agency of, an earthquake prediction or other earthquake advisory, which may be evaluated by the National Earthquake Prediction Evaluation Council, which shall be exempt from the requirements of section 10(a)(2) of the Federal Advisory Committee Act when meeting for such purposes;
 
 &emsp;&emsp;(E) establish, using existing facilities, a Center for the International Exchange of Earthquake Information which shall—
 
@@ -174,7 +174,7 @@ The purposes of these requirements are to reduce risks to the lives of occupants
 
 (a) Space Leased for Federal Occupancy. Each Federal agency responsible for the construction and lease of a new building for Federal use shall ensure that the building is designed and constructed in accord with appropriate seismic design and construction standards. This requirement pertains to all leased building projects for which the agreement covering development of detailed plans and specifications is effected subsequent to the issuance of this order. Local building codes shall be used in design and construction by those concerned with such activities in accord with section 3(a) and 3(c) of this order and augmented when necessary to achieve appropriate seismic design and construction standards.
 
-(b) Federal Domestic Assistance Programs. Each Federal agency assisting in the financing, through Federal grants or loans, or guaranteeing the financing, through loan or mortgage insurance programs, of newly constructed buildings shall plan, and shall initiate no later than 3 years subsequent to the issuance of this order, measures consistent with section 3(a) of this order, to assure appropriate consideration of seismic safety.
+(b) Federal Domestic Assistance Programs. Each Federal agency assisting in the financing, through Federalgrants or loans, or guaranteeing the financing, through loan or mortgage insurance programs, of newly constructed buildings shall plan, and shall initiate no later than 3 years subsequent to the issuance of this order, measures consistent with section 3(a) of this order, to assure appropriate consideration of seismic safety.
 
 (c) Federally Regulated Buildings. Each Federal agency with generic responsibility for regulating the structural safety of buildings shall plan to require use of appropriate seismic design and construction standards for new buildings within the agency's purview. Implementation of the plan shall be initiated no later than 3 years subsequent to the issuance of this order.
 

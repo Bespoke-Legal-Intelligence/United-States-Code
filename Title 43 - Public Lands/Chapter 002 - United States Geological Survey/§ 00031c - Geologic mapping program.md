@@ -18,7 +18,7 @@ There is established in the United States Geological Survey a National Cooperati
 
 &emsp;&emsp;(ii) how the Survey will establish goals, mapping priorities, and target dates for implementation of the geologic mapping program;
 
-&emsp;&emsp;(iii) how long-term staffing plans for the various components of the geologic mappingprogram will lead to successful implementation of the geologic mapping program; and
+&emsp;&emsp;(iii) how long-term staffing plans for the various components of the geologic mapping program will lead to successful implementation of the geologic mapping program; and
 
 &emsp;&emsp;(iv) the degree to which geologic mapping activities traditionally funded by the Survey, including the use of commercially available aerial photography, geodesy, professional land surveying, photogrammetric mapping, cartography, photographic processing, and related services, can be contracted to professional private mapping firms.
 

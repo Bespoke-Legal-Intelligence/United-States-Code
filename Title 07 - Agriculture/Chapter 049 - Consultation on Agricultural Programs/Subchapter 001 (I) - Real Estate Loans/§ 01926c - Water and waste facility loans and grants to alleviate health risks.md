@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary shall make or insure loans and make grants to rural water supply corporations, cooperatives, or similar entities, Indian tribes on Federal and State reservations and other federally recognized Indian tribes, and public agencies, to provide for the conservation, development, use, and control ofwater (including the extension or improvement of existing water supply systems), and the installation or improvement of drainage or waste disposal facilities and essential community facilities including necessary related equipment. Such loans and grants shall be available only to provide such water and waste facilities and services to communities whose residents face significant health risks, as determined by the Secretary, due to the fact that a significant proportion of the community's residents do not have access to, or are not served by, adequate affordable—
+&emsp;The Secretary shall make or insure loans and make grants to rural water supply corporations, cooperatives, or similar entities, Indian tribes on Federal and State reservations and other federally recognized Indian tribes, and public agencies, to provide for the conservation, development, use, and control of water (including the extension or improvement of existing water supply systems), and the installation or improvement of drainage or waste disposal facilities and essential community facilities including necessary related equipment. Such loans and grants shall be available only to provide such water and waste facilities and services to communities whose residents face significant health risks, as determined by the Secretary, due to the fact that a significant proportion of the community's residents do not have access to, or are not served by, adequate affordable—
 
 &emsp;&emsp;(A) water supply systems; or
 
@@ -82,9 +82,9 @@ Subsec. (f). Pub. L. 102–552, §516(m), added subsec. (f).
 
 #### Effective Date of 1991 Amendment
 
-Amendment by Pub. L. 102–237 effective as if included in the provision of the Food, Agriculture, Conservation,and Trade Act of 1990, Pub. L. 101–624, to which the amendment relates, see section 1101(b)(6) of Pub. L. 102–237, set out as a note under section 1421 of this title.
+Amendment by Pub. L. 102–237 effective as if included in the provision of the Food, Agriculture, Conservation, and Trade Act of 1990, Pub. L. 101–624, to which the amendment relates, see section 1101(b)(6) of Pub. L. 102–237, set out as a note under section 1421 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 6942 of this title.
+This section is referred to in sections 917, 6942 of this title.
 

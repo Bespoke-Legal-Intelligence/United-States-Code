@@ -10,7 +10,7 @@ It is hereby declared that the organization of the Modoc Tribe of Oklahoma as pr
 
 #### (c) Modoc Tribe; publication of notice in Federal Register of organization for purposes of compliance
 
-Promptly after organization of the Modoc Tribe of Oklahoma, the Secretary of the Interior shall publish a notice of such fact in the Federal Register including a statement that such organization completes fulfillment of the requirements of the provisos in section 2 of the Act of January 2, 1975 (88 Stat. 1920, 1921), and that the land described in section 1 of said Act is held in trust by the United States for the eight tribes named in said Act.
+Promptly after organization of the Modoc Tribe of Oklahoma, the Secretary of the Interiorshall publish a notice of such fact in the Federal Register including a statement that such organization completes fulfillment of the requirements of the provisos in section 2 of the Act of January 2, 1975 (88 Stat. 1920, 1921), and that the land described in section 1 of said Act is held in trust by the United States for the eight tribes named in said Act.
 
 (Pub. L. 95–281, §3, May 15, 1978, 92 Stat. 247.)
 

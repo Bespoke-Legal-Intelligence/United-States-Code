@@ -2,17 +2,19 @@
 
 (a)(1) Except as provided in paragraph (2), the sum of the amounts obligated in any fiscal year for administrative expenses of the National Institutes of Health may not exceed an amount which is 5.5 percent of the total amount appropriated for such fiscal year for the National Institutes of Health.
 
-(2) Paragraph (1) does not apply to the National Library of Medicine, the National Center for Nursing Research, the John E. Fogarty International Center for Advanced Study in theHealth Sciences, the Warren G. Magnuson Clinical Center, and the Office of Medical Applications of Research.
+(2) Paragraph (1) does not apply to the National Library of Medicine, the National Center for Nursing Research, the John E. Fogarty International Center for Advanced Study in the Health Sciences, the Warren G. Magnuson Clinical Center, and the Office of Medical Applications of Research.
 
-(3) For purposes of paragraph (1), the term “administrative expenses” means expenses incurred for the support of activities relevant to the award of grants, contracts, and cooperative agreements and expenses incurred for general administration of the scientific programs and activities of the National Institutes of Health. In identifying expenses incurred for such support and administration the Secretary shall consult with the Comptroller General of the United States.
+(3) For purposes of paragraph (1), the term “administrative expenses” means expenses incurred for the support of activities relevant to the award of grants, contracts, and cooperative agreements and expenses incurred for general administration of the scientific programs and activities of the National Institutes of Health.
 
 (4) Not later than December 31, 1987, and December 31 of each succeeding year, the Secretary shall report to the Congress the amount obligated in the fiscal year preceding such date for administrative expenses of the National Institutes of Health and the total amount appropriated for the National Institutes of Health for such fiscal year. The Secretary shall consult with the Comptroller General of the United States in preparing each report.
 
 (b) For fiscal year 1989 and subsequent fiscal years, amounts made available to the National Institutes of Health shall be available for payment of nurses and allied health professionals in accordance with payment authorities, scheduling options, benefits, and other authorities provided under chapter 73 of title 38 for nurses of the Department of Veterans Affairs.
 
-(July 1, 1944, ch. 373, title IV, §408, as added Nov. 20, 1985, Pub. L. 99–158, §2, 99 Stat. 831; amended Nov. 4, 1988, Pub. L. 100–607, title I, §118, 102 Stat. 3053; Nov. 18, 1988, Pub. L. 100–690, title II, §2613(d), 102 Stat. 4239; June 10, 1993, Pub. L. 103–43, title IV, §403(b)(1), title XX, §2008(b)(2), 107 Stat. 158, 211.)
+(July 1, 1944, ch. 373, title IV, §408, as added Nov. 20, 1985, Pub. L. 99–158, §2, 99 Stat. 831; amended Nov. 4, 1988, Pub. L. 100–607, title I, §118, 102 Stat. 3053; Nov. 18, 1988, Pub. L. 100–690, title II, §2613(d), 102 Stat. 4239; June 10, 1993, Pub. L. 103–43, title IV, §403(b)(1), title XX, §2008(b)(2), 107 Stat. 158, 211; Oct. 19, 1996, Pub. L. 104–316, title I, §122(a), 110 Stat. 3836.)
 
 #### Amendments
+
+1996—Subsec. (a)(3). Pub. L. 104–316 struck out at end “In identifying expenses incurred for such support and administration the Secretary shall consult with the Comptroller General of the United States.”
 
 1993—Pub. L. 103–43 amended section catchline generally, redesignated subsec. (b) as (a) and par. (5) of subsec. (a) as (b), struck out former subsec. (a) which authorized appropriations in addition to amounts otherwise appropriated under this subchapter for the National Cancer Institute for programs other than under section 285a–1 of this title and for its program under section 285a–1 of this title and for the National Heart, Lung, and Blood Institute for programs other than under section 285b–1 of this title and for its program under section 285b–1 of this title, and substituted “Department of Veterans Affairs” for “Veterans’ Administration” in subsec. (b).
 

@@ -52,7 +52,7 @@
 
 (4) No individual appointed under paragraph (1)(A) of this subsection who has served as a member of the Access Board may be reappointed to the Access Board more than once unless such individual has not served on the Access Board for a period of two years prior to the effective date of such individual's appointment.
 
-(5)(A) Members of the Access Board who are not regular full-time employees of the United States shall, while serving on the business of the Access Board, be entitled to receive compensation at rates fixed by the President, but not to exceed the daily equivalent of the rate of pay for level IV of the Executive Schedule under section 5315 of title 5, including travel time, for each day they are engaged in the performance of their duties as members of the Access Board; and shall be entitled to reimbursement for travel, subsistence, and other necessary expenses incurred by them in carrying out their duties under this section.
+(5)(A) Members of the Access Board who are not regular full-time employees of the United States shall, while serving on the business of the Access Board, be entitled to receive compensation at rates fixed by the President, but not to exceed the daily equivalent of the rate of pay forlevel IV of the Executive Schedule under section 5315 of title 5, including travel time, for each day they are engaged in the performance of their duties as members of the Access Board; and shall be entitled to reimbursement for travel, subsistence, and other necessary expenses incurred by them in carrying out their duties under this section.
 
 (B) Members of the Access Board who are employed by the Federal Government shall serve without compensation, but shall be reimbursed for travel, subsistence, and other necessary expenses incurred by them in carrying out their duties under this section.
 
@@ -90,7 +90,7 @@ The Access Board shall also (1)(A) determine how and to what extent transportati
 
 #### (d) Investigations; hearings; orders; administrative procedure applicable; final orders; judicial review; civil action; intervention; development of standards; technical assistance to persons or entities affected
 
-(1) The Access Board shall conduct investigations, hold public hearings, and issue such orders as it deems necessary to ensure compliance with the provisions of the Acts cited in subsection (b) of this section. Except as provided in paragraph (3) of subsection (e) of this section, the provisions of subchapter II of chapter 5, and chapter 7, of title 5 shall apply to procedures under this section, and an order of compliance issued by the Access Board shall be a final order for purposes of judicial review. Any such order affecting any Federal department, agency, or instrumentality of the United States shall be final and binding on such department, agency, or instrumentality. An order of compliance may include the withholding or suspension of Federal funds with respect to any building or public conveyance or rolling stock found not to be in compliance with standards enforced under this section. Pursuant to chapter 7 of title 5, any complainant or participant in a proceeding under this subsection may obtain review of a final order issued in such proceeding.
+(1) The Access Board shall conduct investigations, hold public hearings, and issue such orders as it deems necessary to ensure compliance with the provisions of the Acts cited in subsection (b) of this section. Except as provided in paragraph (3) of subsection (e) of this section,the provisions of subchapter II of chapter 5, and chapter 7, of title 5 shall apply to procedures under this section, and an order of compliance issued by the Access Board shall be a final order for purposes of judicial review. Any such order affecting any Federal department, agency, or instrumentality of the United States shall be final and binding on such department, agency, or instrumentality. An order of compliance may include the withholding or suspension of Federal funds with respect to any building or public conveyance or rolling stock found not to be in compliance with standards enforced under this section. Pursuant to chapter 7 of title 5, any complainant or participant in a proceeding under this subsection may obtain review of a final order issued in such proceeding.
 
 (2) The executive director is authorized, at the direction of the Access Board—
 
@@ -110,7 +110,7 @@ The Access Board shall also (1)(A) determine how and to what extent transportati
 
 #### (f) Technical, administrative, or other assistance; appointment, compensation, and travel expenses of advisory and technical experts and consultants
 
-(1)(A) In carrying out the technical assistance responsibilities of the Access Board under thissection, the Board may enter into an interagency agreement with another Federal department or agency.
+(1)(A) In carrying out the technical assistance responsibilities of the Access Board under this section, the Board may enter into an interagency agreement with another Federal department or agency.
 
 (B) Any funds appropriated to such a department or agency for the purpose of providing technical assistance may be transferred to the Access Board. Any funds appropriated to the Access Board for the purpose of providing such technical assistance may be transferred to such department or agency.
 
@@ -180,7 +180,7 @@ Subsec. (c). Pub. L. 102–569, §102(p)(30), substituted “individuals with di
 
 Subsec. (d)(1). Pub. L. 102–569, §504(d)(1), in first sentence, substituted “The Access Board shall conduct” for “In carrying out its functions under this chapter, the Access Board shall, directly or through grants to public or private nonprofit organizations or contracts with private nonprofit or forprofit organizations, carry out its functions under subsections (b) and (c) of this section, and shall conduct” and “to ensure compliance” for “to insure compliance”.
 
-Subsec. (d)(3). Pub. L. 102–569, §504(d)(2), struck out par. (3) which read as follows: “The Access Board, in consultation and coordination with other concerned Federal departments and agencies and agencies within the Department of Education, shall develop standards and provide appropriate technical assistance to any public or private activity, person, or entity affected by regulations prescribed pursuant to this subchapter with respect to overcoming architectural, transportation, and communication barriers. Any funds appropriated to any such department or agency for the purpose of providing such assistance may be transferred to the Access Board for the purpose of carrying out this paragraph. The Access Board may arrange to carry out its responsibilities under this paragraph through such other departments and agencies for such periods as the Access Board determines is appropriate. In carrying out its technical assistance responsibilities under this paragraph, the Access Board shall establish a procedure to insure separation of its compliance and technical assistance responsibilities under this section.”
+Subsec. (d)(3). Pub. L. 102–569, §504(d)(2), struck out par. (3) which read as follows: “The Access Board, in consultation and coordination with other concerned Federal departments and agencies and agencies within the Department of Education, shall develop standards and provide appropriate technical assistance to any public or private activity, person, or entity affected byregulations prescribed pursuant to this subchapter with respect to overcoming architectural, transportation, and communication barriers. Any funds appropriated to any such department or agency for the purpose of providing such assistance may be transferred to the Access Board for the purpose of carrying out this paragraph. The Access Board may arrange to carry out its responsibilities under this paragraph through such other departments and agencies for such periods as the Access Board determines is appropriate. In carrying out its technical assistance responsibilities under this paragraph, the Access Board shall establish a procedure to insure separation of its compliance and technical assistance responsibilities under this section.”
 
 Subsec. (f). Pub. L. 102–569, §504(e), added par. (1), designated existing provisions as par. (2) and substituted “paragraph” for “subsection”, “Chairperson” for “Secretary”, and “the daily equivalent of the rate of pay for level 4 of the Senior Executive Service Schedule under section 5382” for “the daily pay rate for a person employed as a GS–18 under section 5332”.
 
@@ -232,7 +232,7 @@ Subsec. (d)(3). Pub. L. 99–506, §1002(e)(2)(C), substituted “Department of 
 
 Subsec. (e)(2). Pub. L. 99–506, §1002(e)(2)(D), substituted “alleged noncompliance and in” for “alleged noncompliance in”.
 
-Subsec. (g). Pub. L. 99–506, §601(b), inserted provisions requiring the Board to submit, not later than Feb. 1, 1988, two additional reports on its activities under subsec. (c), one report to deal with its activities relating to transportation barriers to handicapped individuals, the other to deal with activities relating to the housing needs of handicapped individuals.
+Subsec. (g). Pub. L. 99–506, §601(b), inserted provisions requiring the Board to submit, not later than Feb. 1, 1988, two additional reports on its activities under subsec. (c), one report to deal with its activities relatingto transportation barriers to handicapped individuals, the other to deal with activities relating to the housing needs of handicapped individuals.
 
 Pub. L. 99–506, §103(d)(2)(C), substituted “individuals with handicaps” for “handicapped individuals” wherever appearing.
 
@@ -248,7 +248,7 @@ Subsec. (a)(1)(B)(xi). Pub. L. 96–374, §1321(a)(2), added cl. (xi).
 
 Subsec. (h)(3). Pub. L. 96–374, §1321(b), added par. (3).
 
-1978—Subsec. (a). Pub. L. 95–602, §118(a), substituted provision permitting President to appoint eleven members of Board from general public of whom five are to be handicapped, adding head of the Department of Justice as a Board member, authorizing President to appoint the first chairman, and providing for the term of office, reappointment, and compensation of Board members for provision restricting Board membership to head of Department of Health, Education, and Welfare, Department of Transportation, Department of Housing and Urban Development, Department of Labor, Department of Interior, Department of Defense, General Services Administration, United States Postal Service, and Veterans’ Administration, appointing Secretary of Health, Education, and Welfare as chairman, and authorizing appointment of a Consumer Advisory Panel, a majority of members of which were to be handicapped, to provide guidance, advice, and recommendations to Board.
+1978—Subsec. (a). Pub. L. 95–602, §118(a), substituted provision permitting President to appoint eleven members of Board from general public of whom five are to be handicapped, adding head of the Department of Justice as a Board member, authorizing President to appoint the first chairman, and providing for the term of office, reappointment, and compensation of Board members for provision restricting Board membership to head of Department of Health, Education, and Welfare, Department of Transportation, Department of Housing and Urban Development, Department of Labor, Department of the Interior, Department of Defense, General Services Administration, United States Postal Service, and Veterans’ Administration, appointing Secretary of Health, Education, and Welfare as chairman, and authorizing appointment of a Consumer Advisory Panel, a majority of members of which were to be handicapped, to provide guidance, advice, and recommendations to Board.
 
 Subsec. (b)(1). Pub. L. 95–602, §118(b)(1), substituted provision requiring Board to insure compliance with standards of Architectural Barriers Act of 1968, including application to United States Postal Service, and to insure all waivers and modifications of standards are based on findings of fact and are not inconsistent with that Act or this section for provision requiring Board to insure compliance with the standards prescribed by General Services Administration, Department of Defense, and Department of Housing and Urban Development pursuant to Architectural Barriers Act of 1968.
 
@@ -260,7 +260,7 @@ Subsec. (d). Pub. L. 95–602, §118(c), designated existing provision as par. (
 
 Subsec. (e). Pub. L. 95–602, §118(d), designated existing provisions as par. (1) and added pars. (2) and (3).
 
-Pub. L. 95–251 substituted “administrative law judges” for “hearing examiners” wherever appearing. Such substitution was made in pars. (2) and (3) as the probable intent of Congress in view of the amendmentto subsec. (e) by section 2(a)(8) of Pub. L. 95–251 (although prior in time to the amendment by Pub. L. 95–602) requiring such substitution wherever appearing in text.
+Pub. L. 95–251 substituted “administrative law judges” for “hearing examiners” wherever appearing. Such substitution was made in pars. (2) and (3) as the probable intent of Congress in view of the amendment to subsec. (e) by section 2(a)(8) of Pub. L. 95–251 (although prior in time to the amendment by Pub. L. 95–602) requiring such substitution wherever appearing in text.
 
 Subsec. (h). Pub. L. 95–602, §118(e), added subsec. (h). Former subsec. (h), which authorized appropriations for carrying out duties and functions of the Board of $1,000,000 for each of fiscal years ending June 30, 1974, and June 30, 1975, $1,500,000 for fiscal year ending June 30, 1976, and $1,500,000 for each of fiscal years ending Sept. 30, 1977 and Sept. 30, 1978, was struck out.
 
@@ -292,7 +292,7 @@ Pub. L. 93–651, §110, amended subsec. (h) in exactly the same manner as it wa
 
 #### Change of Name
 
-Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Economic and Educational Opportunities of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Fifth Congress, Jan. 7, 1997.
 
 #### Effective Date of 1980 Amendment
 
@@ -300,7 +300,7 @@ Amendment by Pub. L. 96–374 effective Oct. 1, 1980, see section 1393(a) of Pub
 
 #### Extension of Vocational Rehabilitation Programs Through Fiscal Year Ending September 30, 1978; Effective Date of 1976 Amendment
 
-For contingency provisions relating to the extensions of program authorizations and to the effective date of such extensions, see section 11(a), (b)(1), and (c) of Pub. L. 94–230, set out as a note under section 720 of this title.
+For contingency provisions relating to the extensions of program authorizations and to the effective date ofsuch extensions, see section 11(a), (b)(1), and (c) of Pub. L. 94–230, set out as a note under section 720 of this title.
 
 #### Termination of Advisory Panels
 

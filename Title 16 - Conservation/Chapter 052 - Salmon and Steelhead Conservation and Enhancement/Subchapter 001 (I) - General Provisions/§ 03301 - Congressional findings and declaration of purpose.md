@@ -2,7 +2,7 @@
 
 (a) The Congress finds and declares the following:
 
-&emsp;(1) The stocks of salmon and steelhead which originate in the rivers of the conservation areas constitute valuable and renewable natural resources. Many groups of commercial, recreational, and treaty fishermen have historically depended upon these stocks of fish for their livelihoods and avocations. These fisheryresources contribute to the food supply and economic health of the Pacific Northwest and the Nation as a whole, provide valuable recreational experiences for thousands of citizens from various parts of the United States and represent a central element of the cultures and economies of Indian tribes and the citizens of the Pacific Northwest.
+&emsp;(1) The stocks of salmon and steelhead which originate in the rivers of the conservation areas constitute valuable and renewable natural resources. Many groups of commercial, recreational, and treaty fishermen have historically depended upon these stocks of fish for their livelihoods and avocations. These fishery resources contribute to the food supply and economic health of the Pacific Northwest and the Nation as a whole, provide valuable recreational experiences for thousands of citizens from various parts of the United States and represent a central element of the cultures and economies of Indian tribes and the citizens of the Pacific Northwest.
 
 &emsp;(2) Over a period of several decades, competing uses of salmon and steelhead habitat and historical problems relating to conservation measures, the regulation of harvest and enhancement have depressed several of these stocks of salmon and steelhead.
 
@@ -16,7 +16,7 @@
 
 &emsp;&emsp;(B) add stability to the treaty and nontreaty fisheries by reducing variations in fish availability.
 
-(b) In order to assist the harvesters of the salmon and steelhead resources within the Columbia River conservation area and the Washington conservation area established by this chapter to overcome temporary dislocations arising from the decisions in the cases of United States against Washington and Sohappy against Smith and from other causes, this chapter authorizes the establishment of a cooperative program involving the United States, the States of Washington and Oregon, the treaty tribes acting through the appropriate tribal coordinating bodies, and other parties, to—
+(b) In order to assist the harvesters of the salmon and steelhead resources within the Columbia River conservation area and the Washington conservation area established by this chapter to overcome temporary dislocations arising from the decisions in the cases of United States against Washington and Sohappy againstSmith and from other causes, this chapter authorizes the establishment of a cooperative program involving the United States, the States of Washington and Oregon, the treaty tribes acting through the appropriate tribal coordinating bodies, and other parties, to—
 
 &emsp;(1) encourage stability in and promote the economic well being of the treaty and nontreaty commercial fishing and charter fishing industries and improve the distribution of fishing power between treaty and nontreaty fisheries through—
 
@@ -31,4 +31,74 @@
 #### Short Title
 
 Section 101 of title I of Pub. L. 96–561 provided that: “This title \[enacting this chapter and provisions set out as a note under section 1823 of this title\] may be cited as the ‘Salmon and Steelhead Conservation and Enhancement Act of 1980’.”
+
+#### Research and Development Program To Improve Salmon Survival
+
+Pub. L. 104–303, title V, §511, Oct. 12, 1996, 110 Stat. 3761, provided that:
+
+“(a)
+
+Salmon Survival Activities.—
+
+&emsp;“(1)
+
+In general.—The Secretary shall accelerate ongoing research and development activities, and may carry out or participate in additional research and development activities, for the purpose of developing innovative methods and technologies for improving the survival of salmon, especially salmon in the Columbia River Basin.
+
+&emsp;“(2)
+
+Accelerated activities.—Accelerated research and development activities referred to in paragraph (1) may include research and development related to—
+
+&emsp;&emsp;“(A) impacts from water resources projects and other impacts on salmon life cycles;
+
+&emsp;&emsp;“(B) juvenile and adult salmon passage;
+
+&emsp;&emsp;“(C) light and sound guidance systems;
+
+&emsp;&emsp;“(D) surface-oriented collector systems;
+
+&emsp;&emsp;“(E) transportation mechanisms; and
+
+&emsp;&emsp;“(F) dissolved gas monitoring and abatement.
+
+&emsp;“(3)
+
+Additional activities.—Additional research and development activities referred to in paragraph (1) may include research and development related to—
+
+&emsp;&emsp;“(A) marine mammal predation on salmon;
+
+&emsp;&emsp;“(B) studies of juvenile salmon survival in spawning and rearing areas;
+
+&emsp;&emsp;“(C) estuary and near-ocean juvenile and adult salmon survival;
+
+&emsp;&emsp;“(D) impacts on salmon life cycles from sources other than water resources projects; and
+
+&emsp;&emsp;“(E) other innovative technologies and actions intended to improve fish survival, including the survival of resident fish.
+
+&emsp;“(4)
+
+Coordination.—The Secretary shall coordinate any activities carried out under this subsection with appropriate Federal, State, and local agencies, affected Indian tribes, and the Northwest Power Planning Council.
+
+&emsp;“(5)
+
+Report.—Not later than 3 years after the date of the enactment of this Act \[Oct. 12, 1996\], the Secretary shall transmit to Congress a report on the research and development activities carried out under this subsection, including any recommendations of the Secretary concerning the research and development activities.
+
+&emsp;“(6)
+
+Authorization of appropriations.—There is authorized to be appropriated $10,000,000 to carry out research and development activities under paragraph (3).
+
+“(b)
+
+Advanced Turbine Development.—
+
+&emsp;“(1)
+
+In general.—In conjunction with the Secretary of Energy, the Secretary shall accelerate efforts toward developing innovative, efficient, and environmentally safe hydropower turbines, including design of ‘fish-friendly’ turbines, for use on the Columbia River hydrosystem.
+
+&emsp;“(2)
+
+Authorization of appropriations.—There is authorized to be appropriated $12,000,000 to carry out this subsection.
+
+“(c)
+
+Implementation.—Nothing in this section affects the authority of the Secretary to implement the results of the research and development carried out under this section or any other law.”
 

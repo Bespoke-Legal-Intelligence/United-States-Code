@@ -6,7 +6,7 @@ Upon the application of the head of any department or agency of the United State
 
 #### References in Text
 
-Herein, referred to in text, means act June 1, 1948, ch. 359, 62 Stat. 281, as amended, which enacted sections 318 to 318d of this title. For complete classification of this Act to the Code, see Tables.
+Herein, referred to in text, means act June 1, 1948, ch. 359, 62 Stat. 281, as amended, which enacted sections 318to 318d of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 

@@ -82,7 +82,7 @@ For the purposes of this section—
 
 #### (3) Award program
 
-&emsp;The Secretary shall establish an annual award program to recognize utilities operating outstanding or innovative industrial energy efficiency technology assistance programs.
+&emsp;The Secretary shall establish an annual award program to recognize utilities operatingoutstanding or innovative industrial energy efficiency technology assistance programs.
 
 #### (4) Meetings
 

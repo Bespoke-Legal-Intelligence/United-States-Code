@@ -11,7 +11,7 @@
 | [307\.](%C2%A7%2000307%20-%20Director%20of%20the%20National%20Cemetery%20System.md) | Director of the National Cemetery System. |
 | [308\.](%C2%A7%2000308%20-%20Assistant%20Secretaries%3B%20Deputy%20Assistant%20Secretaries.md) | Assistant Secretaries; Deputy Assistant Secretaries. |
 | [309\.](%C2%A7%2000309%20-%20Chief%20Financial%20Officer.md) | Chief Financial Officer. |
-| [310\.](%C2%A7%2000310%20-%20Chief%20Information%20Resources%20Officer.md) | Chief Information Resources Officer. |
+| [310\.](%C2%A7%2000310%20-%20Chief%20Information%20Officer.md) | Chief Information Officer. |
 | [311\.](%C2%A7%2000311%20-%20General%20Counsel.md) | General Counsel. |
 | [312\.](%C2%A7%2000312%20-%20Inspector%20General.md) | Inspector General. |
 | [313\.](%C2%A7%2000313%20-%20Availability%20of%20appropriations.md) | Availability of appropriations. |
@@ -95,6 +95,8 @@ Section 246, added Pub. L. 95–202, title III, §310(b)(1), Nov. 23, 1977, 91 S
 
 #### Amendments
 
+1996—Pub. L. 104–106, div. E, title LVI, §5608(b), Feb. 10, 1996, 110 Stat. 702, substituted “Chief Information Officer” for “Chief Information Resources Officer” in item 310.
+
 1994—Pub. L. 103–446, title V, §509(b), Nov. 2, 1994, 108 Stat. 4668, substituted “Center for Minority Veterans” for “Chief Minority Affairs Officer” in item 317 and added item 318.
 
 1992—Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984, substituted “Under Secretary for Health” for “Chief Medical Director” in item 305 and “Under Secretary for Benefits” for “Chief Benefits Director” in item 306.
@@ -115,7 +117,7 @@ Section 246, added Pub. L. 95–202, title III, §310(b)(1), Nov. 23, 1977, 91 S
 - [&sect; 00307 - Director of the National Cemetery System](%C2%A7%2000307%20-%20Director%20of%20the%20National%20Cemetery%20System.md)
 - [&sect; 00308 - Assistant Secretaries; Deputy Assistant Secretaries](%C2%A7%2000308%20-%20Assistant%20Secretaries%3B%20Deputy%20Assistant%20Secretaries.md)
 - [&sect; 00309 - Chief Financial Officer](%C2%A7%2000309%20-%20Chief%20Financial%20Officer.md)
-- [&sect; 00310 - Chief Information Resources Officer](%C2%A7%2000310%20-%20Chief%20Information%20Resources%20Officer.md)
+- [&sect; 00310 - Chief Information Officer](%C2%A7%2000310%20-%20Chief%20Information%20Officer.md)
 - [&sect; 00311 - General Counsel](%C2%A7%2000311%20-%20General%20Counsel.md)
 - [&sect; 00312 - Inspector General](%C2%A7%2000312%20-%20Inspector%20General.md)
 - [&sect; 00313 - Availability of appropriations](%C2%A7%2000313%20-%20Availability%20of%20appropriations.md)

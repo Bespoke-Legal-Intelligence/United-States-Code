@@ -34,10 +34,10 @@
 | (i) | Chairperson. |
 | (j) | Meetings. |
 | (k) | Duties of Council. |
-| (<i>l)</i> | Staff. |
+| (<i>l</i>) | Staff. |
 | (m) | Information and assistance. |
 | (n) | Reports. |
-| (<i>o)</i> | Authorization of appropriation. |
+| (<i>o</i>) | Authorization of appropriation. |
 | (p) | Termination. |
 | [12315\.](Subchapter%20001%20%28I%29%20-%20Establishment%20of%20Administration%20and%20Awarding%20of%20Grants%20for%20Programs/Part%20A%20-%20Administration%20on%20Children%2C%20Youth%2C%20and%20Families/%C2%A7%2012315%20-%20Administration.md) | Administration. |
 | (a) | Duties of Commissioner. |

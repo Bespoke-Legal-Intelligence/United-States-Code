@@ -2,7 +2,7 @@
 
 (a) The name of a warrant officer recommended for promotion by a selection board convened under this chapter may be removed from the report of the selection board by the President.
 
-(b) The Secretary concerned may remove the name of a warrant officer who is on a promotion list as a result of being recommended for promotion by a selection board convened under this chapter at any time before the promotion is effective.
+(b) The Secretary concerned may remove the name of a warrant officer who is on a promotionlist as a result of being recommended for promotion by a selection board convened under this chapter at any time before the promotion is effective.
 
 (c) An officer whose name is removed from the list of officers recommended for promotion by a selection board continues to be eligible for consideration for promotion.
 

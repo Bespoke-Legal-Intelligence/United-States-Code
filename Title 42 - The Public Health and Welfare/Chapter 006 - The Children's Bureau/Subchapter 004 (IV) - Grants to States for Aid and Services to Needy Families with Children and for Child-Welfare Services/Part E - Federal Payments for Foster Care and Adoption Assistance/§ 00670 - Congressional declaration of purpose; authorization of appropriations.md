@@ -1,8 +1,8 @@
 ### §670. Congressional declaration of purpose; authorization of appropriations
 
-For the purpose of enabling each State to provide, in appropriate cases, foster care and transitional independent living programs for children who otherwise would be eligible for assistance under the State's plan approved under part A of this subchapter and adoption assistance for children with special needs, there are authorized to be appropriated for each fiscal year (commencing with the fiscal year which begins October 1, 1980) such sums as may be necessary to carry out the provisions of this part. The sums made available under this section shall be used for making payments to States which have submitted, and had approved by the Secretary, State plans under this part.
+For the purpose of enabling each State to provide, in appropriate cases, foster care and transitional independent living programs for children who otherwise would have been eligible for assistance under the State's plan approved under part A of this subchapter (as such plan was in effect on June 1, 1995) and adoption assistance for children with special needs, there are authorized to be appropriated for each fiscal year (commencing with the fiscal year which begins October 1, 1980) such sums as may be necessary to carry out the provisions of this part. The sums made available under this section shall be used for making payments to States which have submitted, and had approved by the Secretary, State plans under this part.
 
-(Aug. 14, 1935, ch. 531, title IV, §470, as added June 17, 1980, Pub. L. 96–272, title I, §101(a)(1), 94 Stat. 501; amended Apr. 7, 1986, Pub. L. 99–272, title XII, §12307(d), 100 Stat. 297; Oct. 22, 1986, Pub. L. 99–514, title XVII, §1711(c)(1), 100 Stat. 2784.)
+(Aug. 14, 1935, ch. 531, title IV, §470, as added June 17, 1980, Pub. L. 96–272, title I, §101(a)(1), 94 Stat. 501; amended Apr. 7, 1986, Pub. L. 99–272, title XII, §12307(d), 100 Stat. 297; Oct. 22, 1986, Pub. L. 99–514, title XVII, §1711(c)(1), 100 Stat. 2784; Aug. 22, 1996, Pub. L. 104–193, title I, §108(d)(1), 110 Stat. 2166.)
 
 #### References in Text
 
@@ -10,9 +10,15 @@ Part A of this subchapter, referred to in text, is classified to section 601 et 
 
 #### Amendments
 
+1996—Pub. L. 104–193 substituted “would have been eligible” for “would be eligible” and inserted “(as such plan was in effect on June 1, 1995)” after “part A of this subchapter”.
+
 1986—Pub. L. 99–514 substituted “foster care and transitional independent living programs for children who otherwise would be eligible for assistance under the State's plan approved under part A of this subchapter and adoption assistance for children with special needs” for “foster care, adoption assistance, and transitional independent living programs for children who otherwise would be eligible for assistance under the State's plan approved under part A of this subchapter (or, in the case of adoption assistance, would be eligible for benefits under subchapter XVI of this chapter)”.
 
 Pub. L. 99–272 substituted “foster care, adoption assistance, and transitional independent living programs” for “foster care and adoption assistance”.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–193 effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as an Effective Date note under section 601 of this title.
 
 #### Effective Date of 1986 Amendment
 
@@ -68,7 +74,7 @@ Use of Grant Funds.—Each highest State court which receives funds paid under t
 
 #### Abandoned Infants Assistance
 
-Pub. L. 100–505, Oct. 18, 1988, 102 Stat. 2533, as amended by Pub. L. 102–236, §§2–8, Dec. 12, 1991, 105 Stat. 1812–1816, provided that:
+Pub. L. 100–505, Oct. 18, 1988, 102 Stat. 2533, as amended by Pub. L. 102–236, §§2–8, Dec. 12, 1991, 105 Stat. 1812–1816; Pub. L. 104–235, title II, §§221, 222, Oct. 3, 1996, 110 Stat. 3091, 3092, provided that:
 
 #### “SECTION 1. SHORT TITLE.
 
@@ -98,7 +104,7 @@ Pub. L. 100–505, Oct. 18, 1988, 102 Stat. 2533, as amended by Pub. L. 102–23
 
 &emsp;“(10) there is a need to support the families of such infants and young children through the provision of services that will prevent the abandonment of the infants and children; and
 
-&emsp;“(11) there is a need for the development of funding strategies that coordinate and make the optimal useof all private resources, and Federal, State, and local resources, to establish and maintain such services.
+&emsp;“(11) there is a need for the development of funding strategies that coordinate and make the optimal use of all private resources, and Federal, State, and local resources, to establish and maintain such services.
 
 #### “TITLE I—PROJECTS REGARDING ABANDONMENT OF INFANTS AND YOUNG CHILDREN IN HOSPITALS
 
@@ -154,7 +160,7 @@ Administration of Grant.—
 
 &emsp;&emsp;“(D) that if, during the majority of the 180-day period preceding the date of the enactment of this Act \[Oct. 18, 1988\], the applicant has carried out any program with respect to the care of abandoned infants and young children, the applicant will expend the grant only for the purpose of significantly expanding, in accordance with subsection (a), activities under such program above the level provided under such program during the majority of such period.
 
-&emsp;“(2) Subject to the availability of amounts made available in appropriations Acts for the fiscal year involved, the duration of a grant under subsection (a) shall be for a period of 3 years, except that the Secretary—
+&emsp;“(2) Subject to the availability of amounts made available in appropriations Acts for the fiscal year involved, the duration of a grant under subsection (a)shall be for a period of 3 years, except that the Secretary—
 
 &emsp;&emsp;“(A) may terminate the grant if the Secretary determines that the entity involved has substantially failed to comply with the agreements required as a condition of the provision of the grant; and
 
@@ -178,6 +184,10 @@ Technical Assistance to Grantees.—The Secretary may, without charge to any gra
 
 Technical Assistance With Respect to Process of Applying for Grant.—The Secretary may provide technical assistance (including training) to public and nonprofit private entities with respect to the process of applying to the Secretary for a grant under subsection (a). The Secretary may provide such technical assistance directly, through contracts, or through grants.
 
+“(h)
+
+Priority Requirement.—In making grants under subsection (a), the Secretary shall give priority to applicants located in States that have developed and implemented procedures for expedited termination of parental rights and placement for adoption of infants determined to be abandoned under State law.
+
 #### “SEC. 102. EVALUATIONS, STUDIES, AND REPORTS BY SECRETARY.
 
 “(a)
@@ -190,7 +200,7 @@ Dissemination of Information to Individuals With Special Needs.—
 
 &emsp;“(1)(A) The Secretary may enter into contracts or cooperative agreements with public or nonprofit private entities for the development and operation of model projects to disseminate the information described in subparagraph (B) to individuals who are disproportionately at risk of dysfunctional behaviors that lead to the abandonment of infants or young children.
 
-&emsp;“(B) The information referred to in subparagraph (A) is information on the availability to individuals described in such subparagraph, and the families ofthe individuals, of financial assistance and services under Federal, State, local, and private programs providing health services, mental health services, educational services, housing services, social services, or other appropriate services.
+&emsp;“(B) The information referred to in subparagraph (A) is information on the availability to individuals described in such subparagraph, and the families of the individuals, of financial assistance and services under Federal, State, local, and private programs providing health services, mental health services, educational services, housing services, social services, or other appropriate services.
 
 &emsp;“(2) The Secretary may not provide a contract or cooperative agreement under paragraph (1) to an entity unless—
 
@@ -246,9 +256,9 @@ Study and Report on Effective Care Methods.—
 
 In General.—
 
-&emsp;“(1) For the purpose of carrying out this title (other than section 102(b)), there are authorized to be appropriated $20,000,000 for fiscal year 1992, $25,000,000 for fiscal year 1993, $30,000,000 for fiscal year 1994, and $35,000,000 for fiscal year 1995.
+&emsp;“(1) For the purpose of carrying out this title (other than section 102(b)), there are authorized to be appropriated $35,000,000 for fiscal year 1997 and such sums as may be necessary for each of the fiscal years 1998 through 2001.
 
-&emsp;“(2)(A) Of the amounts appropriated under paragraph (1) for any fiscal year in excess of the amount appropriated under this subsection for fiscal year 1991, as adjusted in accordance with subparagraph (B), the Secretary shall make available not less than 50 percent for grants under section 101(a) to carry out projects described in paragraph (8) of such section.
+&emsp;“(2)(A) Of the amounts appropriated under paragraph (1) for any fiscal year in excess of the amount appropriated under this subsection for fiscal year 1991, as adjusted in accordance with subparagraph (B), the Secretary shall make available not less than50 percent for grants under section 101(a) to carry out projects described in paragraph (8) of such section.
 
 &emsp;“(B) For purposes of subparagraph (A), the amount relating to fiscal year 1991 shall be adjusted for a fiscal year to a greater amount to the extent necessary to reflect the percentage increase in the consumer price index for all urban consumers (U.S. city average) for the 12-month period ending with March of the preceding fiscal year.
 
@@ -286,7 +296,7 @@ Study.—The Secretary shall conduct a study for the purpose of—
 
 “(b)
 
-Report.—The Secretary shall, not later than 12 months after the date of the enactment of this Act, complete the study required in subsection (a) and submit to the Committee on Energy and Commerce of theHouse of Representatives, and to the Committee on Labor and Human Resources of the Senate, a report describing the findings made as a result of the study.
+Report.—The Secretary shall, not later than 12 months after the date of the enactment of this Act, complete the study required in subsection (a) and submit to the Committee on Energy and Commerce of the House of Representatives, and to the Committee on Labor and Human Resources of the Senate, a report describing the findings made as a result of the study.
 
 #### “TITLE III—GENERAL PROVISIONS
 

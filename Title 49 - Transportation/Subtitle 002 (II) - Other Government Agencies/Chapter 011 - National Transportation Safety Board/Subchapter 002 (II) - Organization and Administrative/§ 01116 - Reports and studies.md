@@ -30,7 +30,9 @@ Studies, Investigations, and Other Reports.—The Board also shall—
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -56,7 +58,7 @@ Oct. 15, 1966, Pub. L. 89–670, §6(d) (1st sentence), 80 Stat. 938.
 
 &nbsp;
 
-49 App.:1903(a) (1)(A), (3).
+49 App.:1903(a)(1)(A), (3).
 
 Jan. 3, 1975, Pub. L. 93–633, §304(a)(1)(A), (3)–(5), (7), (8), 88 Stat. 2168, 2169.
 
@@ -70,7 +72,7 @@ Jan. 3, 1975, Pub. L. 93–633, §304(a)(1)(A), (3)–(5), (7), (8), 88 Stat. 21
 
 &nbsp;
 
-49 App.:1903(a) (1)(A), (4).
+49 App.:1903(a)(1)(A), (4).
 
 1116(b) (2)–(5)
 

@@ -28,6 +28,22 @@
 
 (2) Paragraph (1) shall not require any person lawfully providing cable service without a franchise on July 1, 1984, to obtain a franchise unless the franchising authority so requires.
 
+(3)(A) If a cable operator or affiliate thereof is engaged in the provision of telecommunications services—
+
+&emsp;(i) such cable operator or affiliate shall not be required to obtain a franchise under this subchapter for the provision of telecommunications services; and
+
+&emsp;(ii) the provisions of this subchapter shall not apply to such cable operator or affiliate for the provision of telecommunications services.
+
+(B) A franchising authority may not impose any requirement under this subchapter that has the purpose or effect of prohibiting, limiting, restricting, or conditioning the provision of a telecommunications service by a cable operator or an affiliate thereof.
+
+(C) A franchising authority may not order a cable operator or affiliate thereof—
+
+&emsp;(i) to discontinue the provision of a telecommunications service, or
+
+&emsp;(ii) to discontinue the operation of a cable system, to the extent such cable system is used for the provision of a telecommunications service, by reason of the failure of such cable operator or affiliate thereof to obtain a franchise or franchise renewal under this subchapter with respect to the provision of such telecommunications service.
+
+(D) Except as otherwise permitted by sections 531 and 532 of this title, a franchising authority may not require a cable operator to provide any telecommunications service or facilities, other than institutional networks, as a condition of the initial grant of a franchise, a franchise renewal, or a transfer of a franchise.
+
 #### (c) Status of cable system as common carrier or utility
 
 Any cable system shall not be subject to regulation as a common carrier or utility by reason of providing any cable service.
@@ -38,7 +54,7 @@ Any cable system shall not be subject to regulation as a common carrier or utili
 
 (2) Nothing in this subchapter shall be construed to affect the authority of any State to regulate any cable operator to the extent that such operator provides any communication service other than cable service, whether offered on a common carrier or private contract basis.
 
-(3) For purposes of this subsection, the term “State” has the meaning given it in section 153(v) of this title.
+(3) For purposes of this subsection, the term “State” has the meaning given it in section 153 of this title.
 
 #### (e) State regulation of facilities serving subscribers in multiple dwelling units
 
@@ -52,11 +68,15 @@ No provision of this chapter shall be construed to—
 
 &emsp;(2) require such local or municipal authority to secure a franchise to operate as a multichannel video programming distributor.
 
-(June 19, 1934, ch. 652, title VI, §621, as added Oct. 30, 1984, Pub. L. 98–549, §2, 98 Stat. 2786; amended Oct. 5, 1992, Pub. L. 102–385, §§7(a)(1), (b), (c), 106 Stat. 1483.)
+(June 19, 1934, ch. 652, title VI, §621, as added Oct. 30, 1984, Pub. L. 98–549, §2, 98 Stat. 2786; amended Oct. 5, 1992, Pub. L. 102–385, §§7(a)(1), (b), (c), 106 Stat. 1483; Feb. 8, 1996, Pub. L. 104–104, §3(d)(3), title III, §303(a), 110 Stat. 61, 124.)
 
 #### Amendments
 
-1992—Subsec. (a)(1). Pub. L. 102–385, §7(a)(1), inserted before period at end “; except that a franchising authority may not grant an exclusive franchise and may not unreasonably refuse to award an additional competitive franchise. Any applicant whose application for a second franchise has been denied by a final decision of the franchising authority may appeal such final decision pursuant to the provisions of section 555 of this title for failure to comply with this subsection”.
+1996—Subsec. (b)(3). Pub. L. 104–104, §303(a), added par. (3).
+
+Subsec. (d)(3). Pub. L. 104–104, §3(d)(3), substituted “section 153” for “section 153(v)”.
+
+1992—Subsec. (a)(1). Pub. L. 102–385, §7(a)(1), inserted before period at end “; except that a franchising authority may not grant an exclusive franchise and may not unreasonably refuse to award an additional competitive franchise. Any applicant whose application for a second franchise has been denied by a final decisionof the franchising authority may appeal such final decision pursuant to the provisions of section 555 of this title for failure to comply with this subsection”.
 
 Subsec. (a)(4). Pub. L. 102–385, §7(b), added par. (4).
 

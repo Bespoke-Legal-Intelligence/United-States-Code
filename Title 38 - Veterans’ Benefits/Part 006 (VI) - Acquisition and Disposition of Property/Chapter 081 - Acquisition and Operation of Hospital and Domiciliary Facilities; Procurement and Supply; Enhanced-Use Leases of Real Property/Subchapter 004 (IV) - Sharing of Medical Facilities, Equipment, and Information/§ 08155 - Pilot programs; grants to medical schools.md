@@ -38,7 +38,7 @@ Subsecs. (c)(2), (d) to (f). Pub. L. 102–83, §4(b)(1), (2)(E), substituted �
 
 1976—Subsec. (a). Pub. L. 94–581 substituted “advise the Administrator” for “advise him” and “Assistant Chief Medical Director charged with administration of the Department of Medicine and Surgery medical research program” for “Assistant Chief Medical Director for Research and Education in Medicine”.
 
-Subsec. (c)(1). Pub. L. 94–424 substituted provisions authorizing appropriations of $3,500,000 for fiscal year 1976; $1,700,000 for the period beginning July 1, 1976, and ending Sept. 30, 1976; $4,000,000 for fiscal year 1977; $4,000,000 for fiscal year 1978; and $4,000,000 for fiscal year 1979 for provisions authorizing appropriations of$3,000,000 for each fiscal year 1968 through 1971, and such sums as may be necessary for each fiscal year 1972 through 1975.
+Subsec. (c)(1). Pub. L. 94–424 substituted provisions authorizing appropriations of $3,500,000 for fiscal year 1976; $1,700,000 for the period beginning July 1, 1976, and ending Sept. 30, 1976; $4,000,000 for fiscal year 1977; $4,000,000 for fiscal year 1978; and $4,000,000 for fiscal year 1979 for provisions authorizing appropriations of $3,000,000 for each fiscal year 1968 through 1971, and such sums as may be necessary for each fiscal year 1972 through 1975.
 
 1971—Subsec. (c)(1). Pub. L. 92–69 substituted provisions authorizing appropriations of amounts up to $3,000,000 for each fiscal year 1968 through 1971, and such sums as may be necessary for each fiscal year 1972 through 1975, for provisions authorizing appropriations of amounts up to $3,000,000 for each of the first four fiscal years following fiscal year in which this subchapter was enacted.
 

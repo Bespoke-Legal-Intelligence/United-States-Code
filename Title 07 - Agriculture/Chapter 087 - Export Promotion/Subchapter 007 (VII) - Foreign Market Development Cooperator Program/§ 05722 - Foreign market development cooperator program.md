@@ -1,0 +1,16 @@
+### §5722. Foreign market development cooperator program
+
+#### (a) In general
+
+The Secretary shall establish and, in cooperation with eligible trade organizations, carry out a foreign market development cooperator program to maintain and develop foreign markets for United States agricultural commodities and products.
+
+#### (b) Administration
+
+Funds made available to carry out this subchapter shall be used only to provide—
+
+&emsp;(1) cost-share assistance to an eligible trade organization under a contract or agreement with the organization; and
+
+&emsp;(2) assistance for other costs that are necessary or appropriate to carry out the foreign market development cooperator program, including contingent liabilities that are not otherwise funded.
+
+(Pub. L. 95–501, title VII, §702, as added Pub. L. 104–127, title II, §252, Apr. 4, 1996, 110 Stat. 971.)
+

@@ -12,7 +12,7 @@
 
 #### (b) Terms
 
-The initial terms of members of the Advisory Commission appointed by the Secretary pursuant to subsection (a) of this section shall be staggered, as determined by the Secretary, in order to assure continuity in the administration of the Advisory Commission. Thereafter the term shall be four years. Any member of the Advisory Commission appointed for a definite term may serve after the expiration of such member's term until a successor is appointed. A vacancy in the Advisory Commission shall be filled in the manner in which the original appointment was made. The advisory <sup>1</sup> Commission shall existfor the duration of a leasehold accepted by the Secretary pursuant to section 410pp–1 of this title, and any extensions or renewals thereof.
+The initial terms of members of the Advisory Commission appointed by the Secretary pursuant to subsection (a) of this section shall be staggered, as determined by the Secretary, in order to assure continuity in the administration of the Advisory Commission. Thereafter the term shall be four years. Any member of the Advisory Commission appointed for a definite term may serve after the expiration of such member's term until a successor is appointed. A vacancy in the Advisory Commission shall be filled in the manner in which the original appointment was made. The advisory <sup>1</sup> Commission shall exist for the duration of a leasehold accepted by the Secretary pursuant to section 410pp–1 of this title, and any extensions or renewals thereof.
 
 #### (c) Expenses
 

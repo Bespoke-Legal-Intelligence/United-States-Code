@@ -1,0 +1,470 @@
+### §1231. Detention and removal of aliens ordered removed
+
+#### (a) Detention, release, and removal of aliens ordered removed
+
+#### (1) Removal period
+
+#### (A) In general
+
+&emsp;&emsp;Except as otherwise provided in this section, when an alien is ordered removed, the Attorney General shall remove the alien from the United States within a period of 90 days (in this section referred to as the “removal period”).
+
+#### (B) Beginning of period
+
+&emsp;&emsp;The removal period begins on the latest of the following:
+
+&emsp;&emsp;&emsp;(i) The date the order of removal becomes administratively final.
+
+&emsp;&emsp;&emsp;(ii) If the removal order is judicially reviewed and if a court orders a stay of the removal of the alien, the date of the court's final order.
+
+&emsp;&emsp;&emsp;(iii) If the alien is detained or confined (except under an immigration process), the date the alien is released from detention or confinement.
+
+#### (C) Suspension of period
+
+&emsp;&emsp;The removal period shall be extended beyond a period of 90 days and the alien may remain in detention during such extended period if the alien fails or refuses to make timely application in good faith for travel or other documents necessary to the alien's departure or conspires or acts to prevent the alien's removal subject to an order of removal.
+
+#### (2) Detention
+
+&emsp;During the removal period, the Attorney General shall detain the alien. Under no circumstance during the removal period shall the Attorney General release an alien who has been found inadmissible under section 1182(a)(2) or 1182(a)(3)(B) of this title or deportable under section 1227(a)(2) or 1227(a)(4)(B) of this title.
+
+#### (3) Supervision after 90-day period
+
+&emsp;If the alien does not leave or is not removed within the removal period, the alien, pending removal, shall be subject to supervision under regulations prescribed by the Attorney General. The regulations shall include provisions requiring the alien—
+
+&emsp;&emsp;(A) to appear before an immigration officer periodically for identification;
+
+&emsp;&emsp;(B) to submit, if necessary, to a medical and psychiatric examination at the expense of the United States Government;
+
+&emsp;&emsp;(C) to give information under oath about the alien's nationality, circumstances, habits, associations, and activities, and other information the Attorney General considers appropriate; and
+
+&emsp;&emsp;(D) to obey reasonable written restrictions on the alien's conduct or activities that the Attorney General prescribes for the alien.
+
+#### (4) Aliens imprisoned, arrested, or on parole, supervised release, or probation
+
+#### (A) In general
+
+&emsp;&emsp;Except as provided in section 259(a) of title 42 and paragraph (2), the Attorney Generalmay not remove an alien who is sentenced to imprisonment until the alien is released from imprisonment. Parole, supervised release, probation, or possibility of arrest or further imprisonment is not a reason to defer removal.
+
+#### (B) Exception for removal of nonviolent offenders prior to completion of sentence of imprisonment
+
+&emsp;&emsp;The Attorney General is authorized to remove an alien in accordance with applicable procedures under this chapter before the alien has completed a sentence of imprisonment—
+
+&emsp;&emsp;&emsp;(i) in the case of an alien in the custody of the Attorney General, if the Attorney General determines that (I) the alien is confined pursuant to a final conviction for a nonviolent offense (other than an offense related to smuggling or harboring of aliens or an offense described in section 1101(a)(43)(B), (C), (E), (I), or (L) of this title <sup>1</sup> and (II) the removal of the alien is appropriate and in the best interest of the United States; or
+
+&emsp;&emsp;&emsp;(ii) in the case of an alien in the custody of a State (or a political subdivision of a State), if the chief State official exercising authority with respect to the incarceration of the alien determines that (I) the alien is confined pursuant to a final conviction for a nonviolent offense (other than an offense described in section 1101(a)(43)(C) or (E) of this title), (II) the removal is appropriate and in the best interest of the State, and (III) submits a written request to the Attorney General that such alien be so removed.
+
+#### (C) Notice
+
+&emsp;&emsp;Any alien removed pursuant to this paragraph shall be notified of the penalties under the laws of the United States relating to the reentry of deported aliens, particularly the expanded penalties for aliens removed under subparagraph (B).
+
+#### (D) No private right
+
+&emsp;&emsp;No cause or claim may be asserted under this paragraph against any official of the United States or of any State to compel the release, removal, or consideration for release or removal of any alien.
+
+#### (5) Reinstatement of removal orders against aliens illegally reentering
+
+&emsp;If the Attorney General finds that an alien has reentered the United States illegally after having been removed or having departed voluntarily, under an order of removal, the prior order of removal is reinstated from its original date and is not subject to being reopened or reviewed, the alien is not eligible and may not apply for any relief under this chapter, and the alien shall be removed under the prior order at any time after the reentry.
+
+#### (6) Inadmissible or criminal aliens
+
+&emsp;An alien ordered removed who is inadmissible under section 1182 of this title, removable under section 1227(a)(1)(C), 1227(a)(2), or 1227(a)(4) of this title or who has been determined by the Attorney General to be a risk to the community or unlikely to comply with the order of removal, may be detained beyond the removal period and, if released, shall be subject to the terms of supervision in paragraph (3).
+
+#### (7) Employment authorization
+
+&emsp;No alien ordered removed shall be eligible to receive authorization to be employed in the United States unless the Attorney General makes a specific finding that—
+
+&emsp;&emsp;(A) the alien cannot be removed due to the refusal of all countries designated by the alien or under this section to receive the alien, or
+
+&emsp;&emsp;(B) the removal of the alien is otherwise impracticable or contrary to the public interest.
+
+#### (b) Countries to which aliens may be removed
+
+#### (1) Aliens arriving at the United States
+
+&emsp;Subject to paragraph (3)—
+
+#### (A) In general
+
+&emsp;&emsp;Except as provided by subparagraphs (B) and (C), an alien who arrives at the United States and with respect to whom proceedings under section 1229a of this title were initiated at the time of such alien's arrival shall be removed to the country in which the alien boarded the vessel or aircraft on which the alien arrived in the United States.
+
+#### (B) Travel from contiguous territory
+
+&emsp;&emsp;If the alien boarded the vessel or aircraft on which the alien arrived in the United States in a foreign territory contiguous to the United States, an island adjacent to the United States, or an island adjacent to a foreign territory contiguous to the United States, and the alien is not a native, citizen, subject, or national of, or does not reside in, the territory or island, removal shall be to the country in which the alien boarded the vessel that transported the alien to the territory or island.
+
+#### (C) Alternative countries
+
+&emsp;&emsp;If the government of the country designated in subparagraph (A) or (B) is unwilling to accept the alien into that country's territory, removal shall be to any of the following countries, as directed by the Attorney General:
+
+&emsp;&emsp;&emsp;(i) The country of which the alien is a citizen, subject, or national.
+
+&emsp;&emsp;&emsp;(ii) The country in which the alien was born.
+
+&emsp;&emsp;&emsp;(iii) The country in which the alien has a residence.
+
+&emsp;&emsp;&emsp;(iv) A country with a government that will accept the alien into the country's territory if removal to each country described in a previous clause of this subparagraph is impracticable, inadvisable, or impossible.
+
+#### (2) Other aliens
+
+&emsp;Subject to paragraph (3)—
+
+#### (A) Selection of country by alien
+
+&emsp;&emsp;Except as otherwise provided in this paragraph—
+
+&emsp;&emsp;&emsp;(i) any alien not described in paragraph (1) who has been ordered removed may designate one country to which the alien wants to be removed, and
+
+&emsp;&emsp;&emsp;(ii) the Attorney General shall remove the alien to the country the alien so designates.
+
+#### (B) Limitation on designation
+
+&emsp;&emsp;An alien may designate under subparagraph (A)(i) a foreign territory contiguous to the United States, an adjacent island, or an island adjacent to a foreign territory contiguous to the United States as the place to which the alien is to be removed only if the alien is a native, citizen, subject, or national of, or has resided in, that designated territory or island.
+
+#### (C) Disregarding designation
+
+&emsp;&emsp;The Attorney General may disregard a designation under subparagraph (A)(i) if—
+
+&emsp;&emsp;&emsp;(i) the alien fails to designate a country promptly;
+
+&emsp;&emsp;&emsp;(ii) the government of the country does not inform the Attorney General finally, within 30 days after the date the Attorney General first inquires, whether the government will accept the alien into the country;
+
+&emsp;&emsp;&emsp;(iii) the government of the country is not willing to accept the alien into the country; or
+
+&emsp;&emsp;&emsp;(iv) the Attorney General decides that removing the alien to the country is prejudicial to the United States.
+
+#### (D) Alternative country
+
+&emsp;&emsp;If an alien is not removed to a country designated under subparagraph (A)(i), the Attorney General shall remove the alien to a country of which the alien is a subject, national, or citizen unless the government of the country—
+
+&emsp;&emsp;&emsp;(i) does not inform the Attorney General or the alien finally, within 30 days after the date the Attorney General first inquires or within another period of time the Attorney General decides is reasonable, whether the government will accept the alien into the country; or
+
+&emsp;&emsp;&emsp;(ii) is not willing to accept the alien into the country.
+
+#### (E) Additional removal countries
+
+&emsp;&emsp;If an alien is not removed to a country under the previous subparagraphs of this paragraph, the Attorney General shall remove the alien to any of the following countries:
+
+&emsp;&emsp;&emsp;(i) The country from which the alien was admitted to the United States.
+
+&emsp;&emsp;&emsp;(ii) The country in which is located the foreign port from which the alien left for the United States or for a foreign territory contiguous to the United States.
+
+&emsp;&emsp;&emsp;(iii) A country in which the alien resided before the alien entered the country from which the alien entered the United States.
+
+&emsp;&emsp;&emsp;(iv) The country in which the alien was born.
+
+&emsp;&emsp;&emsp;(v) The country that had sovereignty over the alien's birthplace when the alien was born.
+
+&emsp;&emsp;&emsp;(vi) The country in which the alien's birthplace is located when the alien is ordered removed.
+
+&emsp;&emsp;&emsp;(vii) If impracticable, inadvisable, or impossible to remove the alien to each country described in a previous clause of this subparagraph, another country whose government will accept the alien into that country.
+
+#### (F) Removal country when United States is at war
+
+&emsp;&emsp;When the United States is at war and the Attorney General decides that it is impracticable, inadvisable, inconvenient, or impossible to remove an alien under this subsection because of the war, the Attorney General may remove the alien—
+
+&emsp;&emsp;&emsp;(i) to the country that is host to a government in exile of the country of which the alien is a citizen or subject if the government of the host country will permit the alien's entry; or
+
+&emsp;&emsp;&emsp;(ii) if the recognized government of the country of which the alien is a citizen or subject is not in exile, to a country, or a political or territorial subdivision of a country, that is very near the country of which the alien is a citizen or subject, or, with the consent of the government of the country of which the alien is a citizen or subject, to another country.
+
+#### (3) Restriction on removal to a country where alien's life or freedom would be threatened
+
+#### (A) In general
+
+&emsp;&emsp;Notwithstanding paragraphs (1) and (2), the Attorney General may not remove an alien to a country if the Attorney General decides that the alien's life or freedom would be threatened in that country because of the alien's race, religion, nationality, membership in a particular social group, or political opinion.
+
+#### (B) Exception
+
+&emsp;&emsp;Subparagraph (A) does not apply to an alien deportable under section 1227(a)(4)(D) of this title or if the Attorney General decides that—
+
+&emsp;&emsp;&emsp;(i) the alien ordered, incited, assisted, or otherwise participated in the persecution of an individual because of the individual's race, religion, nationality, membership in a particular social group, or political opinion;
+
+&emsp;&emsp;&emsp;(ii) the alien, having been convicted by a final judgment of a particularly serious crime is a danger to the community of the United States;
+
+&emsp;&emsp;&emsp;(iii) there are serious reasons to believe that the alien committed a serious nonpolitical crime outside the United States before the alien arrived in the United States; or
+
+&emsp;&emsp;&emsp;(iv) there are reasonable grounds to believe that the alien is a danger to the security of the United States.
+
+> &emsp;&emsp;For purposes of clause (ii), an alien who has been convicted of an aggravated felony (or felonies) for which the alien has been sentenced to an aggregate term of imprisonment of at least 5 years shall be considered to have committed a particularly serious crime. The previous sentence shall not preclude the Attorney General from determining that, notwithstanding the length of sentence imposed, an alien has been convicted of a particularly serious crime. For purposes of clause (iv), an alien who is described in section 1227(a)(4)(B) of this title shall be considered to be an alien with respect to whom there are reasonable grounds for regarding as a danger to the security of the United States.
+
+#### (c) Removal of aliens arriving at port of entry
+
+#### (1) Vessels and aircraft
+
+&emsp;An alien arriving at a port of entry of the United States who is ordered removed either without a hearing under section 1225(b)(1) or 1225(c) of this title or pursuant to proceedings under section 1229a of this title initiated at the time of such alien's arrival shall be removed immediately on a vessel or aircraft owned by the owner of the vessel or aircraft on which the alien arrived in the United States, unless—
+
+&emsp;&emsp;(A) it is impracticable to remove the alien on one of those vessels or aircraft within a reasonable time, or
+
+&emsp;&emsp;(B) the alien is a stowaway—
+
+&emsp;&emsp;&emsp;(i) who has been ordered removed in accordance with section 1225(a)(1) of this title,
+
+&emsp;&emsp;&emsp;(ii) who has requested asylum, and
+
+&emsp;&emsp;&emsp;(iii) whose application has not been adjudicated or whose asylum application has been denied but who has not exhausted all appeal rights.
+
+#### (2) Stay of removal
+
+#### (A) In general
+
+&emsp;&emsp;The Attorney General may stay the removal of an alien under this subsection if the Attorney General decides that—
+
+&emsp;&emsp;&emsp;(i) immediate removal is not practicable or proper; or
+
+&emsp;&emsp;&emsp;(ii) the alien is needed to testify in the prosecution of a person for a violation of a law of the United States or of any State.
+
+#### (B) Payment of detention costs
+
+&emsp;&emsp;During the period an alien is detained because of a stay of removal under subparagraph (A)(ii), the Attorney General may pay from the appropriation “Immigration and Naturalization Service—Salaries and Expenses”—
+
+&emsp;&emsp;&emsp;(i) the cost of maintenance of the alien; and
+
+&emsp;&emsp;&emsp;(ii) a witness fee of $1 a day.
+
+#### (C) Release during stay
+
+&emsp;&emsp;The Attorney General may release an alien whose removal is stayed under subparagraph (A)(ii) on—
+
+&emsp;&emsp;&emsp;(i) the alien's filing a bond of at least $500 with security approved by the Attorney General;
+
+&emsp;&emsp;&emsp;(ii) condition that the alien appear when required as a witness and for removal; and
+
+&emsp;&emsp;&emsp;(iii) other conditions the Attorney General may prescribe.
+
+#### (3) Costs of detention and maintenance pending removal
+
+#### (A) In general
+
+&emsp;&emsp;Except as provided in subparagraph (B) and subsection (d) of this section, an owner of a vessel or aircraft bringing an alien to the United States shall pay the costs of detaining and maintaining the alien—
+
+&emsp;&emsp;&emsp;(i) while the alien is detained under subsection (d)(1) of this section, and
+
+&emsp;&emsp;&emsp;(ii) in the case of an alien who is a stowaway, while the alien is being detained pursuant to—
+
+&emsp;&emsp;&emsp;&emsp;(I) subsection (d)(2)(A) or (d)(2)(B)(i) of this section,
+
+&emsp;&emsp;&emsp;&emsp;(II) subsection (d)(2)(B)(ii) or (iii) of this section for the period of time reasonably necessary for the owner to arrange for repatriation or removal of the stowaway, including obtaining necessary travel documents, but not to extend beyond the date on which it is ascertained that such travel documents cannot be obtained from the country to which the stowaway is to be returned, or
+
+&emsp;&emsp;&emsp;&emsp;(III) section 1225(b)(1)(B)(ii) of this title, for a period not to exceed 15 days (excluding Saturdays, Sundays, and holidays) commencing on the first such day which begins on the earlier of 72 hours after the time of the initial presentation of the stowaway for inspection or at the time the stowaway is determined to have a credible fear of persecution.
+
+#### (B) Nonapplication
+
+&emsp;&emsp;Subparagraph (A) shall not apply if—
+
+&emsp;&emsp;&emsp;(i) the alien is a crewmember;
+
+&emsp;&emsp;&emsp;(ii) the alien has an immigrant visa;
+
+&emsp;&emsp;&emsp;(iii) the alien has a nonimmigrant visa or other documentation authorizing the alien to apply for temporary admission to the United States and applies for admission not later than 120 days after the date the visa or documentation was issued;
+
+&emsp;&emsp;&emsp;(iv) the alien has a reentry permit and applies for admission not later than 120 days after the date of the alien's last inspection and admission;
+
+&emsp;&emsp;&emsp;(v)(I) the alien has a nonimmigrant visa or other documentation authorizing the alien to apply for temporary admission to the United States or a reentry permit;
+
+&emsp;&emsp;&emsp;(II) the alien applies for admission more than 120 days after the date the visa or documentation was issued or after the date of the last inspection and admission under the reentry permit; and
+
+&emsp;&emsp;&emsp;(III) the owner of the vessel or aircraft satisfies the Attorney General that the existence of the condition relating to inadmissibility could not have been discovered by exercising reasonable care before the alien boarded the vessel or aircraft; or
+
+&emsp;&emsp;&emsp;(vi) the individual claims to be a national of the United States and has a United States passport.
+
+#### (d) Requirements of persons providing transportation
+
+#### (1) Removal at time of arrival
+
+&emsp;An owner, agent, master, commanding officer, person in charge, purser, or consignee of avessel or aircraft bringing an alien (except an alien crewmember) to the United States shall—
+
+&emsp;&emsp;(A) receive an alien back on the vessel or aircraft or another vessel or aircraft owned or operated by the same interests if the alien is ordered removed under this part; and
+
+&emsp;&emsp;(B) take the alien to the foreign country to which the alien is ordered removed.
+
+#### (2) Alien stowaways
+
+&emsp;An owner, agent, master, commanding officer, charterer, or consignee of a vessel or aircraft arriving in the United States with an alien stowaway—
+
+&emsp;&emsp;(A) shall detain the alien on board the vessel or aircraft, or at such place as the Attorney General shall designate, until completion of the inspection of the alien by an immigration officer;
+
+&emsp;&emsp;(B) may not permit the stowaway to land in the United States, except pursuant to regulations of the Attorney General temporarily—
+
+&emsp;&emsp;&emsp;(i) for medical treatment,
+
+&emsp;&emsp;&emsp;(ii) for detention of the stowaway by the Attorney General, or
+
+&emsp;&emsp;&emsp;(iii) for departure or removal of the stowaway; and
+
+&emsp;&emsp;(C) if ordered by an immigration officer, shall remove the stowaway on the vessel or aircraft or on another vessel or aircraft.
+
+> &emsp;The Attorney General shall grant a timely request to remove the stowaway under subparagraph (C) on a vessel or aircraft other than that on which the stowaway arrived if the requester has obtained any travel documents necessary for departure or repatriation of the stowaway and removal of the stowaway will not be unreasonably delayed.
+
+#### (3) Removal upon order
+
+&emsp;An owner, agent, master, commanding officer, person in charge, purser, or consignee of a vessel, aircraft, or other transportation line shall comply with an order of the Attorney General to take on board, guard safely, and transport to the destination specified any alien ordered to be removed under this chapter.
+
+#### (e) Payment of expenses of removal
+
+#### (1) Costs of removal at time of arrival
+
+&emsp;In the case of an alien who is a stowaway or who is ordered removed either without a hearing under section 1225(a)(1) or 1225(c) of this title or pursuant to proceedings under section 1229a of this title initiated at the time of such alien's arrival, the owner of the vessel or aircraft (if any) on which the alien arrived in the United States shall pay the transportation cost of removing the alien. If removal is on a vessel or aircraft not owned by the owner of the vessel or aircraft on which the alien arrived in the United States, the Attorney General may—
+
+&emsp;&emsp;(A) pay the cost from the appropriation “Immigration and Naturalization Service—Salaries and Expenses”; and
+
+&emsp;&emsp;(B) recover the amount of the cost in a civil action from the owner, agent, or consignee of the vessel or aircraft (if any) on which the alien arrived in the United States.
+
+#### (2) Costs of removal to port of removal for aliens admitted or permitted to land
+
+&emsp;In the case of an alien who has been admitted or permitted to land and is ordered removed, the cost (if any) of removal of the alien to the port of removal shall be at the expense of the appropriation for the enforcement of this chapter.
+
+#### (3) Costs of removal from port of removal for aliens admitted or permitted to land
+
+#### (A) Through appropriation
+
+&emsp;&emsp;Except as provided in subparagraph (B), in the case of an alien who has been admitted or permitted to land and is ordered removed, the cost (if any) of removal of the alien from the port of removal shall be at the expense of the appropriation for the enforcement of this chapter.
+
+#### (B) Through owner
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;In the case of an alien described in clause (ii), the cost of removal of the alien from the port of removal may be charged to any owner of the vessel, aircraft, or other transportation line by which the alien came to the United States.
+
+#### (ii) Aliens described
+
+&emsp;&emsp;&emsp;An alien described in this clause is an alien who—
+
+&emsp;&emsp;&emsp;&emsp;(I) is admitted to the United States (other than lawfully admitted for permanent residence) and is ordered removed within 5 years of the date of admission based on a ground that existed before or at the time of admission, or
+
+&emsp;&emsp;&emsp;&emsp;(II) is an alien crewman permitted to land temporarily under section 1282 of this title and is ordered removed within 5 years of the date of landing.
+
+#### (C) Costs of removal of certain aliens granted voluntary departure
+
+&emsp;&emsp;In the case of an alien who has been granted voluntary departure under section 1229c of this title and who is financially unable to depart at the alien's own expense and whose removal the Attorney General deems to be in the best interest of the United States, the expense of such removal may be paid from the appropriation for the enforcement of this chapter.
+
+#### (f) Aliens requiring personal care during removal
+
+#### (1) In general
+
+&emsp;If the Attorney General believes that an alien being removed requires personal care because of the alien's mental or physical condition, the Attorney General may employ a suitable person for that purpose who shall accompany and care for the alien until the alien arrives at the final destination.
+
+#### (2) Costs
+
+&emsp;The costs of providing the service described in paragraph (1) shall be defrayed in the samemanner as the expense of removing the accompanied alien is defrayed under this section.
+
+#### (g) Places of detention
+
+#### (1) In general
+
+&emsp;The Attorney General shall arrange for appropriate places of detention for aliens detained pending removal or a decision on removal. When United States Government facilities are unavailable or facilities adapted or suitably located for detention are unavailable for rental, the Attorney General may expend from the appropriation “Immigration and Naturalization Service—Salaries and Expenses”, without regard to section 5 of title 41, amounts necessary to acquire land and to acquire, build, remodel, repair, and operate facilities (including living quarters for immigration officers if not otherwise available) necessary for detention.
+
+#### (2) Detention facilities of the Immigration and Naturalization Service
+
+&emsp;Prior to initiating any project for the construction of any new detention facility for the Service, the Commissioner shall consider the availability for purchase or lease of any existing prison, jail, detention center, or other comparable facility suitable for such use.
+
+#### (h) Statutory construction
+
+Nothing in this section shall be construed to create any substantive or procedural right or benefit that is legally enforceable by any party against the United States or its agencies or officers or any other person.
+
+#### (i) Incarceration
+
+(1) If the chief executive officer of a State (or, if appropriate, a political subdivision of the State) exercising authority with respect to the incarceration of an undocumented criminal alien submits a written request to the Attorney General, the Attorney General shall, as determined by the Attorney General—
+
+&emsp;(A) enter into a contractual arrangement which provides for compensation to the State or a political subdivision of the State, as may be appropriate, with respect to the incarceration of the undocumented criminal alien; or
+
+&emsp;(B) take the undocumented criminal alien into the custody of the Federal Government and incarcerate the alien.
+
+(2) Compensation under paragraph (1)(A) shall be the average cost of incarceration of a prisoner in the relevant State as determined by the Attorney General.
+
+(3) For purposes of this subsection, the term “undocumented criminal alien” means an alien who—
+
+&emsp;(A) has been convicted of a felony or two or more misdemeanors; and
+
+&emsp;(B)(i) entered the United States without inspection or at any time or place other than as designated by the Attorney General;
+
+&emsp;(ii) was the subject of exclusion or deportation proceedings at the time he or she was taken into custody by the State or a political subdivision of the State; or
+
+&emsp;(iii) was admitted as a nonimmigrant and at the time he or she was taken into custody by the State or a political subdivision of the State has failed to maintain the nonimmigrant status in which the alien was admitted or to which it was changed under section 1258 of this title, or to comply with the conditions of any such status.
+
+(4)(A) In carrying out paragraph (1), the Attorney General shall give priority to the Federal incarceration of undocumented criminal aliens who have committed aggravated felonies.
+
+(B) The Attorney General shall ensure that undocumented criminal aliens incarcerated in Federal facilities pursuant to this subsection are held in facilities which provide a level of security appropriate to the crimes for which they were convicted.
+
+(5) There are authorized to be appropriated such sums as may be necessary to carry out this subsection, of which the following amounts may be appropriated from the Violent Crime Reduction Trust Fund:
+
+&emsp;(A) $130,000,000 for fiscal year 1995;
+
+&emsp;(B) $300,000,000 for fiscal year 1996;
+
+&emsp;(C) $330,000,000 for fiscal year 1997;
+
+&emsp;(D) $350,000,000 for fiscal year 1998;
+
+&emsp;(E) $350,000,000 for fiscal year 1999; and
+
+&emsp;(F) $340,000,000 for fiscal year 2000.
+
+(6) To the extent of available appropriations, funds otherwise made available under this section with respect to a State (or political subdivision, including a municipality) for incarceration of an undocumented criminal alien may, at the discretion of the recipient of the funds, be used for the costs of imprisonment of such alien in a State, local, or municipal prison or jail.
+
+(June 27, 1952, ch. 477, title II, ch. 4, §241, as added and amended Sept. 30, 1996, Pub. L. 104–208, div. C, title III, §§305(a)(3), 306(a)(1), 328(a)(1), 110 Stat. 3009–598, 3009–607, 3009–630.)
+
+#### Codification
+
+The text of subsec. (j) of section 1252 of this title, which was redesignated as subsec. (i) of this section by Pub. L. 104–208, §306(a)(1), was based on section 242(j) of act June 27, 1952, ch. 477, title II, ch. 5, as added Sept. 13, 1994, Pub. L. 103–322, title II, §20301(a), 108 Stat. 1823.
+
+#### Prior Provisions
+
+A prior section 241 of act June 27, 1952, was renumbered section 237, and is classified to section 1227 of this title.
+
+#### Amendments
+
+1996—Subsec. (i). Pub. L. 104–208, §306(a)(1), redesignated subsec. (j) of section 1252 of this title as subsec. (i) of this section. See Codification note above.
+
+Subsec. (i)(3)(A). Pub. L. 104–208, §328(a)(1)(A), substituted “felony or two or more misdemeanors” for “felony and sentenced to a term of imprisonment”.
+
+Subsec. (i)(6). Pub. L. 104–208, §328(a)(1)(B), added par. (6).
+
+#### Effective Date of 1996 Amendment
+
+Amendment by section 306(a)(1) of Pub. L. 104–208 applicable as provided under section 309 of Pub. L. 104–208 (see Effective Date note below), see section 306(c) of Pub. L. 104–208, as amended, set out as a note under section 1252 of this title.
+
+Section 328(a)(2) of div. C of Pub. L. 104–208 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply beginning with fiscal year 1997.”
+
+#### Effective Date
+
+Section effective, with certain transitional provisions, on the first day of the first month beginningmore than 180 days after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as an Effective Date of 1996 Amendments note under section 1101 of this title.
+
+#### References to Order of Removal Deemed To Include Order of Exclusion and Deportation
+
+For purposes of carrying out this chapter, any reference in law to an order of removal is deemed to include a reference to an order of exclusion and deportation or an order of deportation, see section 309(d)(2) of Pub. L. 104–208, set out in an Effective Date of 1996 Amendments note under section 1101 of this title.
+
+#### Pilot Program on Use of Closed Military Bases for Detention of Inadmissible or Deportable Aliens
+
+Section 387 of div. C of Pub. L. 104–208 provided that:
+
+“(a)
+
+Establishment.—The Attorney General and the Secretary of Defense shall establish one or more pilot programs for up to 2 years each to determine the feasibility of the use of military bases, available because of actions under a base closure law, as detention centers by the Immigration and Naturalization Service. In selecting real property at a military base for use as a detention center under the pilot program, the Attorney General and the Secretary shall consult with the redevelopment authority established for the military base and give substantial deference to the redevelopment plan prepared for the military base.
+
+“(b)
+
+Report.—Not later than 30 months after the date of the enactment of this Act \[Sept. 30, 1996\], the Attorney General, together with the Secretary of Defense, shall submit a report to the Committees on the Judiciary of the House of Representatives and of the Senate, and the Committees on Armed Services of the House of Representatives and of the Senate, on the feasibility of using military bases closed under a base closure law as detention centers by the Immigration and Naturalization Service.
+
+“(c)
+
+Definition.—For purposes of this section, the term ‘base closure law’ means each of the following:
+
+&emsp;“(1) The Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of Public Law 101–510; 10 U.S.C. 2687 note).
+
+&emsp;“(2) Title II of the Defense Authorization Amendments and Base Closure and Realignment Act (Public Law 100–526; 10 U.S.C. 2687 note).
+
+&emsp;“(3) Section 2687 of title 10, United States Code.
+
+&emsp;“(4) Any other similar law enacted after the date of the enactment of this Act \[Sept. 30, 1996\].”
+
+#### Interior Repatriation Program
+
+Section 388 of div. C of Pub. L. 104–208 provided that: “Not later than 30 months after the date of the enactment of this Act \[Sept. 30, 1996\], the Attorney General, in consultation with the Secretary of State, shall submit a report to the Committees on the Judiciary of the House of Representatives and of the Senate on the operation of the program of interior repatriation developed under section 437 of the Antiterrorism and Effective Death Penalty Act of 1996 (Public Law 104–132) \[set out as a note below\].”
+
+Pub. L. 104–132, title IV, §437, Apr. 24, 1996, 110 Stat. 1275, provided that: “Not later than 180 days after the date of enactment of this Act \[Apr. 24, 1996\], the Attorney General and the Commissioner of Immigration and Naturalization shall develop and implement a program in which aliens who previously have illegally entered the United States not less than 3 times and are deported or returned to a country contiguous to the United States will be returned to locations not less than 500 kilometers from that country's border with the United States.”
+
+#### Termination of Limitation
+
+Section 20301(c) of Pub. L. 103–322, as amended by Pub. L. 104–208, div. C, title III, §308(g)(5)(G), Sept. 30, 1996, 110 Stat. 3009–623, provided that: “Notwithstanding section 241(h)(5) \[probably means 241(i)(5), formerly 242(j)(5) of the Immigration and Nationality Act \[8 U.S.C. 1231(i)(5)\], as added by subsection (a), the requirements of section 241(h) \[probably means 241(i), formerly 242(j) of the Immigration and Nationality Act \[8 U.S.C. 1231(i)\], as added by subsection (a), shall not be subject to the availability of appropriations on and after October 1, 2004.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 1158, 1159, 1182, 1184, 1229a, 1229b, 1252, 1253, 1324c, 1326, 1356, 1368, 1371, 1534 of this title; title 7 section 2015.
+

@@ -28,25 +28,31 @@ Transportation by Foreign Air Carriers.—This section does not preclude the tra
 
 (c)
 
-Proof.—The Comptroller General shall allow the expenditure of an appropriation for transportation in violation of this section only when satisfactory proof is presented showing the necessity for the transportation.
+Proof.—The Administrator of General Services shall prescribe regulations under which agencies may allow the expenditure of an appropriation for transportation in violation of this section only when satisfactory proof is presented showing the necessity for the transportation.
 
 (d)
 
-Transportation by Foreign Air Carriers.—Notwithstanding subsections (a) and (c) of this section, any amount appropriated to the Secretary of State, the Director of the United States Information Agency, the Director of the United States International Development Cooperation Agency, or the Director of the Arms Control and Disarmament Agency may be used to pay for the transportation of an officer or employee of the Department of State or one of those agencies, a dependent of the officer or employee, and accompanying baggage, by a foreign air carrier when the transportation is between 2 places outside the United States.
+Certain Transportation by Air Outside the United States.—Notwithstanding subsections (a) and (c) of this section, any amount appropriated to the Secretary of State, the Director of the United States Information Agency, the Director of the United States International Development Cooperation Agency, or the Director of the Arms Control and Disarmament Agency may be used to pay for the transportation of an officer or employee of the Department of State or one of those agencies, a dependent of the officer or employee, and accompanying baggage, by a foreign air carrier when the transportation is between 2 places outside the United States.
 
 (e)
 
 Relationship to Other Laws.—This section does not affect the application of the antidiscrimination provisions of this part.
 
-(f)(1) No certification by a contractor, and no contract clause, may be required in the case of a contract for the transportation of commercial items in order to implement a requirement in this section.
+(f)
+
+Prohibition of Certification or Contract Clause.—(1) No certification by a contractor, and no contract clause, may be required in the case of a contract for the transportation of commercial items in order to implement a requirement in this section.
 
 (2) In paragraph (1), the term “commercial item” has the meaning given such term in section 4(12) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(12)).
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1116; Pub. L. 103–355, title VIII, §8301(h), Oct. 13, 1994, 108 Stat. 3398.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1116; Pub. L. 103–355, title VIII, §8301(h), Oct. 13, 1994, 108 Stat. 3398; Pub. L. 104–287, §5(68), Oct. 11, 1996, 110 Stat. 3395; Pub. L. 104–316, title I, §127(d), Oct. 19, 1996, 110 Stat. 3840.)
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+Pub. L. 103–272
+
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -60,7 +66,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1117; added Jan. 3, 1975, Pub. 
 
 &nbsp;
 
-49 App.:1551(b) (1)(E).
+49 App.:1551(b)(1)(E).
 
 Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1601(b)(1)(E); added Oct. 4, 1984, Pub. L. 98–443, §3(e), 98 Stat. 1704.
 
@@ -94,7 +100,25 @@ In subsection (d), the words “the limitations established by” are omitted as
 
 In subsection (e), the word “affect” is substituted for “prevent” for clarity. The words “to such traffic” are omitted as surplus.
 
+#### Pub. L. 104–287, §5(68)(A)
+
+This amends the catchline for 49:40118(d) to make a clarifying amendment.
+
+#### Pub. L. 104–287, §5(68)(B)
+
+This amends 49:40118(f)(1) to make a clarifying amendment.
+
 #### Amendments
+
+1996—Subsec. (c). Pub. L. 104–316 substituted “Administrator of General Services shall prescribe regulations under which agencies may” for “Comptroller General shall”.
+
+Subsec. (d). Pub. L. 104–287, §5(68)(A), substituted “
+
+Certain Transportation by Air Outside the UnitedStates” for “
+
+Transportation by Foreign Air Carriers” in heading.
+
+Subsec. (f). Pub. L. 104–287, §5(68)(B), inserted heading.
 
 1994—Subsec. (f). Pub. L. 103–355 added subsec. (f).
 

@@ -16,7 +16,7 @@ Military Power of Attorney.—For purposes of this section, a military power of 
 
 Statement To Be Included.—(1) Under regulations prescribed by the Secretary concerned, each military power of attorney shall contain a statement that sets forth the provisions of subsection (a).
 
-(2) Paragraph (1) shall not be construed to make inapplicable the provisions of subsection\(a) to a military power of attorney that does not include a statement described in that paragraph.
+(2) Paragraph (1) shall not be construed to make inapplicable the provisions of subsection (a) to a military power of attorney that does not include a statement described in that paragraph.
 
 (d)
 

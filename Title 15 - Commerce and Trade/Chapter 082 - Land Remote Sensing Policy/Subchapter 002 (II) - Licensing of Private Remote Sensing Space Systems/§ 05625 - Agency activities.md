@@ -28,5 +28,5 @@ Nothing in this subchapter shall affect the authority of the Federal Communicati
 
 #### References in Text
 
-The Communications Act of 1934, referred to in subsec. (e), is act June 19, 1934, ch. 652, 48 Stat. 1064, as amended, which is classified principally to chapter 5 (§151 et seq.) of Title 47, Telegraphs, Telephones, and Radiotelegraphs. For complete classification of this Act to the Code, see section 609 of Title 47 and Tables.
+The Communications Act of 1934, referred to in subsec. (e), is act June 19, 1934, ch. 652, 48 Stat. 1064, asamended, which is classified principally to chapter 5 (§151 et seq.) of Title 47, Telegraphs, Telephones, and Radiotelegraphs. For complete classification of this Act to the Code, see section 609 of Title 47 and Tables.
 

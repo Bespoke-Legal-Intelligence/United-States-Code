@@ -2,7 +2,7 @@
 
 (a) To encourage membership in units of the Selected Reserve of the Ready Reserve, the Secretary of each military department, under regulations prescribed by the Secretary of Defense, and the Secretary of Transportation, under regulations prescribed by the Secretary with respect to the Coast Guard when it is not operating as a service in the Navy, shall establish and maintain a program to provide educational assistance to members of the Selected Reserve of the Ready Reserve of the armed forces under the jurisdiction of the Secretary concerned who agree to remain members of the Selected Reserve for a period of not less than six years.
 
-(b)(1) Except as provided in paragraph (2) and subsections (d) through (g), each educational assistance program established under subsection (a) shall provide for payment by the Secretary concerned, through the Secretary of Veterans Affairs, to each person entitled to educational assistance under this chapter who is pursuing a program of education of an educational assistance allowance at the following rates:
+(b)(1) Except as provided in paragraph (2) and subsections (d) through (f), each educational assistance program established under subsection (a) shall provide for payment by the Secretary concerned, through the Secretary of Veterans Affairs, to each person entitled to educational assistance under this chapter who is pursuing a program of education of an educational assistance allowance at the following rates:
 
 &emsp;(A) $190 per month for each month of full-time pursuit of a program of education;
 
@@ -56,11 +56,7 @@
 
 (B) Any such charge to the entitlement shall be reduced proportionately in accordance with the reduction in payment under paragraph (2).
 
-(e)(1) The amount of the monthly educational assistance allowance payable to a person pursuing a cooperative program under this chapter shall be 80 percent of the monthly allowance otherwise payable to such person under this chapter.
-
-(2) For each month that a person is paid a monthly educational assistance allowance for pursuit of a cooperative program under this chapter, the person's entitlement under this chapter shall be charged at the rate of 80 percent of a month.
-
-(f)(1)(A) The amount of the educational assistance allowance payable under this chapter to a person who enters into an agreement to pursue, and is pursuing, a program of education exclusively by correspondence is an amount equal to 55 percent of the established charge which the institution requires nonveterans to pay for the course or courses pursued by such person.
+(e)(1)(A) The amount of the educational assistance allowance payable under this chapter to a person who enters into an agreement to pursue, and is pursuing, a program of education exclusively by correspondence is an amount equal to 55 percent of the established charge which the institution requires nonveterans to pay for the course or courses pursued by such person.
 
 (B) For purposes of subparagraph (A), the term “established charge” means the lesser of—
 
@@ -72,7 +68,7 @@
 
 (2) In each case in which the amount of educational assistance is determined under paragraph (1), the period of entitlement of the person concerned shall be charged with one month for each amount equal to the amount of the monthly rate payable under subsection (b)(1)(A) for the fiscal year concerned which is paid to the individual as an educational assistance allowance.
 
-(g)(1) Each individual who is pursuing a program of education consisting exclusively of flight training approved as meeting the requirements of section 16136(c) of this title shall be paid an educational assistance allowance under this chapter in the amount equal to 60 percent of the established charges for tuition and fees which similarly circumstanced nonveterans enrolled in the same flight course are required to pay.
+(f)(1) Each individual who is pursuing a program of education consisting exclusively of flight training approved as meeting the requirements of section 16136(c) of this title shall be paid an educational assistance allowance under this chapter in the amount equal to 60 percent of the established charges for tuition and fees which similarly circumstanced nonveterans enrolled in the same flight course are required to pay.
 
 (2) No educational assistance allowance may be paid under this chapter to an individual for any month during which such individual is pursuing a program of education consisting exclusively of flight training until the Secretary has received from that individual and the institution providing such training a certification of the flight training received by the individual during that month and the tuition and other fees charged for that training.
 
@@ -80,7 +76,7 @@
 
 (4) The number of solo flying hours for which an individual may be paid an educational assistance allowance under this subsection may not exceed the minimum number of solo flying hours required by the Federal Aviation Administration for the flight rating or certification which is the goal of the individual's flight training.
 
-(h)(1)(A) Subject to subparagraph (B), the Secretary of Veterans Affairs shall approve individualized tutorial assistance for any person entitled to educational assistance under this chapter who—
+(g)(1)(A) Subject to subparagraph (B), the Secretary of Veterans Affairs shall approve individualized tutorial assistance for any person entitled to educational assistance under this chapter who—
 
 &emsp;(i) is enrolled in and pursuing a postsecondary course of education on a half-time or more basis at an educational institution; and
 
@@ -92,7 +88,7 @@
 
 (B) A tutorial assistance allowance may not be paid to a person under this paragraph until the educational institution at which the person is enrolled certifies that—
 
-&emsp;(i) the individualized tutorial assistance is essential to correct a deficiency of the person in a subject required as a part of, or which isprerequisite to, or which is indispensable to the satisfactory pursuit of, an approved program of education;
+&emsp;(i) the individualized tutorial assistance is essential to correct a deficiency of the person in a subject required as a part of, or which is prerequisite to, or which is indispensable to the satisfactory pursuit of, an approved program of education;
 
 &emsp;(ii) the tutor chosen to perform such assistance is qualified to provide such assistance and is not the person's parent, spouse, child (whether or not married or over eighteen years of age), brother, or sister; and
 
@@ -102,11 +98,29 @@
 
 (B) A person's period of entitlement to educational assistance under this chapter shall be charged at the rate of one month for each amount of assistance paid to the individual under this section in excess of $600 that is equal to the amount of the monthly educational assistance allowance which the person is otherwise eligible to receive for full-time pursuit of an institutional course under this chapter.
 
-(i) A program of education in a course of instruction beyond the baccalaureate degree level shall be provided under this chapter, subject to the availability of appropriations.
+(h) A program of education in a course of instruction beyond the baccalaureate degree level shall be provided under this chapter, subject to the availability of appropriations.
 
-(Added Pub. L. 95–79, title IV, §402(a), July 30, 1977, 91 Stat. 328, §2131; amended Pub. L. 96–107, title IV, §402(a), Nov. 9, 1979, 93 Stat. 808; Pub. L. 96–342, title IX, §906(a)(1), Sept. 8, 1980, 94 Stat. 1117; Pub. L. 96–513, title V, §511(68), Dec. 12, 1980, 94 Stat. 2926; Pub. L. 98–525, title VII, §705(a)(1), Oct. 19, 1984, 98 Stat. 2565; Pub. L. 100–689, title I, §§110(a), 111(b)(1), Nov. 18, 1988, 102 Stat. 4170, 4172; Pub. L. 101–189, div. A, title VI, §§642(a), (b), 645(a)(1), (b)(1), Nov. 29, 1989, 103 Stat. 1456, 1458; Pub. L. 101–237, title IV, §422(b)(2), Dec. 18, 1989, 103 Stat. 2089; Pub. L. 102–25, title III, §337(b), Apr. 6, 1991, 105 Stat. 90; Pub. L. 102–127, §2(d), Oct. 10, 1991, 105 Stat. 621; Pub. L. 102–568, title III, §§301(b), (d), 310(b), 318, 320(a)(1), Oct. 29, 1992, 106 Stat. 4326, 4330, 4334, 4335; Pub. L. 103–66, title XII, §12009(b), Aug. 10, 1993, 107 Stat. 416; Pub. L. 103–160, div. A, title V, §518, Nov. 30, 1993, 107 Stat. 1651; renumbered §16131 and amended Pub. L. 103–337, div. A, title XVI, §1663(b)(2), (3), Oct. 5, 1994, 108 Stat. 3006, 3007.)
+(i)(1) In the case of a person who has a skill or specialty designated by the Secretary concerned as a skill or specialty in which there is a critical shortage of personnel or for which it is difficult to recruit or, in the case of critical units, retain personnel, the Secretary concerned may increase the rate of the educational assistance allowance applicable to that person to such rate in excess of the rate prescribed under subparagraphs (A) through (D) of subsection (b)(1) as the Secretary of Defense considers appropriate, but the amount of any such increase may not exceed $350 per month.
+
+(2) In the case of a person who has a skill or specialty designated by the Secretary concerned as a skill or specialty in which there is a critical shortage of personnel or for which it is difficult to recruit or, in the case of critical units, retain personnel, who is eligible for educational benefits under chapter 30 (other than section 3012) of title 38 and who meets the eligibility criteria specified in subparagraphs (A) and (B) of section 16132(a)(1) of this title, the Secretary concerned may increase the rate of the educational assistance allowance applicable to that person to such rate in excess of the rate prescribed under section 3015 of title 38 as the Secretary of Defense considers appropriate, but the amount of any such increase may not exceed $350 per month.
+
+(3) The authority provided by paragraphs (1) and (2) shall be exercised by the Secretaries concerned under regulations prescribed by the Secretary of Defense.
+
+(Added Pub. L. 95–79, title IV, §402(a), July 30, 1977, 91 Stat. 328, §2131; amended Pub. L. 96–107, title IV, §402(a), Nov. 9, 1979, 93 Stat. 808; Pub. L. 96–342, title IX, §906(a)(1), Sept. 8, 1980, 94 Stat. 1117; Pub. L. 96–513, title V, §511(68), Dec. 12, 1980, 94 Stat. 2926; Pub. L. 98–525, title VII, §705(a)(1), Oct. 19, 1984, 98 Stat. 2565; Pub. L. 100–689, title I, §§110(a), 111(b)(1), Nov. 18, 1988, 102 Stat. 4170, 4172; Pub. L. 101–189, div. A, title VI, §§642(a), (b), 645(a)(1), (b)(1), Nov. 29, 1989, 103 Stat. 1456, 1458; Pub. L. 101–237, title IV, §422(b)(2), Dec. 18, 1989, 103 Stat. 2089; Pub. L. 102–25, title III, §337(b), Apr. 6, 1991, 105 Stat. 90; Pub. L. 102–127, §2(d), Oct. 10, 1991, 105 Stat. 621; Pub. L. 102–568, title III, §§301(b), (d), 310(b), 318, 320(a)(1), Oct. 29, 1992, 106 Stat. 4326, 4330, 4334, 4335; Pub. L. 103–66, title XII, §12009(b), Aug. 10, 1993, 107 Stat. 416; Pub. L. 103–160, div. A, title V, §518, Nov. 30, 1993, 107 Stat. 1651; renumbered §16131 and amended Pub. L. 103–337, div. A, title XVI, §1663(b)(2), (3), Oct. 5, 1994, 108 Stat. 3006, 3007; Pub. L. 104–106, div. A, title X, §1076, Feb. 10, 1996, 110 Stat. 450; Pub. L. 104–275, title I, §105(d), Oct. 9, 1996, 110 Stat. 3327.)
 
 #### Amendments
+
+1996—Subsec. (b)(1). Pub. L. 104–275, §105(d)(2), substituted “(f)” for “(g)”.
+
+Subsecs. (e) to (i). Pub. L. 104–275, §105(d)(1), redesignated subsecs. (f) to (j) as (e) to (i), respectively, and struck out former subsec. (e) which read as follows:
+
+“(e)(1) The amount of the monthly educational assistance allowance payable to a person pursuing a cooperative program under this chapter shall be 80 percent of the monthly allowance otherwise payable to such person under this chapter.
+
+“(2) For each month that a person is paid a monthly educational assistance allowance for pursuit of a cooperative program under this chapter, the person's entitlement under this chapter shall be charged at the rate of 80 percent of a month.”
+
+Subsec. (j). Pub. L. 104–275, §105(d)(1), redesignated subsec. (j) as (i).
+
+Pub. L. 104–106 added subsec. (j).
 
 1994—Pub. L. 103–337, §1663(b)(2), renumbered section 2131 of this title as this section.
 

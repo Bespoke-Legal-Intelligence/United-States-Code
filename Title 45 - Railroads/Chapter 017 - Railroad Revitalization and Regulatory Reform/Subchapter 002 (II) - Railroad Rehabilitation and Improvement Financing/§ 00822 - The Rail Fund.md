@@ -44,7 +44,7 @@ There shall be deposited in the Fund, subject to utilization pursuant to subsect
 
 &emsp;(3) funds received by the Secretary for deposit in the Fund, representing the proceeds from the issuance and sale of Fund bonds, as provided in section 828 of this title;
 
-&emsp;(4) redeemable preference shares issued by a railroad and purchased by the Secretary on behalf of the Fund and funds received by the Fund representing dividends and redemptionpayments on such shares, as provided in sections 825(d) and 826(a) and (b) of this title;
+&emsp;(4) redeemable preference shares issued by a railroad and purchased by the Secretary on behalf of the Fund and funds received by the Fund representing dividends and redemption payments on such shares, as provided in sections 825(d) and 826(a) and (b) of this title;
 
 &emsp;(5) income and gains realized by the Fund from any investment of excess funds, pursuant to subsection (g) of this section, and the obligations or securities comprising such investments;
 
@@ -54,7 +54,7 @@ There shall be deposited in the Fund, subject to utilization pursuant to subsect
 
 #### (g) Excess funds investment
 
-If the Secretary determines that the amount of money in the Fund exceeds the amount required for current needs, the Secretary may, subject to sections 828(g) and (h) of this title, direct the Secretary of the Treasury to invest such amounts as the Secretary deems advisable, for such periods as the Secretary directs, in obligations of, or obligations guaranteed by, the Government of the United States, or in such other governmental or agency obligations or other securities of the United States as the Secretary of the Treasury deems appropriate.
+If the Secretary determines that the amount of money in the Fund exceeds the amount required for current needs, the Secretary may,subject to sections 828(g) and (h) of this title, direct the Secretary of the Treasury to invest such amounts as the Secretary deems advisable, for such periods as the Secretary directs, in obligations of, or obligations guaranteed by, the Government of the United States, or in such other governmental or agency obligations or other securities of the United States as the Secretary of the Treasury deems appropriate.
 
 #### (h) Depository
 

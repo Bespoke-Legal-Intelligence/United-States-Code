@@ -166,7 +166,7 @@ The Financing Corporation shall have only the following powers, subject to the o
 
 &emsp;&emsp;If the amount any Federal Home Loan Bank is required to invest in capital stock of the Financing Corporation pursuant to a determination by the Federal Housing Finance Board under paragraph (5) (or under subparagraph (B) of this paragraph) exceeds the maximum investment amount applicable with respect to such bank under paragraph (3) at the time of such determination (hereinafter in this paragraph referred to as the “excess amount”)—
 
-&emsp;&emsp;&emsp;(i) the Federal Housing Finance Board shall require each remaining Federal Home Loan Bank to invest (in addition to the amount determined under paragraph (5) for such remaining bank and subject to the maximum investment amount applicable with respect to such remaining bank under paragraph (3) at the time of such determination) in such capital stock on behalf of the bank in the amount determined under subparagraph (B);
+&emsp;&emsp;&emsp;(i) the Federal Housing Finance Board shall require each remaining Federal Home Loan Bank to invest (in addition to the amount determined under paragraph (5) for such remaining bank and subject to the maximum investment amount applicable with respect to such remaining bankunder paragraph (3) at the time of such determination) in such capital stock on behalf of the bank in the amount determined under subparagraph (B);
 
 &emsp;&emsp;&emsp;(ii) the Federal Housing Finance Board shall require the bank to subsequently purchase the excess amount of capital stock from the remaining banks in the manner described in subparagraph (C); and
 
@@ -254,7 +254,7 @@ The Financing Corporation shall have only the following powers, subject to the o
 
 #### (6) No full faith and credit of the United States
 
-&emsp;Obligations of the Financing Corporation and the interest payable on such obligations shall not be obligations of, or guaranteed as to principal or interest by, the Federal Home Loan Banks, the United States, or the FSLIC Resolution Fund and the obligations shall so plainly state.
+&emsp;Obligations of the Financing Corporation and the interest payable on such obligationsshall not be obligations of, or guaranteed as to principal or interest by, the Federal Home Loan Banks, the United States, or the FSLIC Resolution Fund and the obligations shall so plainly state.
 
 #### (7) Tax exempt status
 
@@ -284,23 +284,15 @@ The Financing Corporation shall obtain funds for anticipated interest payments, 
 
 #### (2) New assessment authority
 
-&emsp;To the extent the amounts available pursuant to paragraph (1) are insufficient to cover the amount of interest payments, issuance costs, and custodial fees, the Financing Corporation, with the approval of the Board of Directors of the Federal Deposit Insurance Corporation, shall assess against each Savings Association Insurance Fund member an assessment (in the same manner as assessments are assessed against such members by the Federal Deposit Insurance Corporation under section 1817 of this title), except that—
+&emsp;In addition to the amounts obtained pursuant to paragraph (1), the Financing Corporation, with the approval of the Board of Directors of the Federal Deposit Insurance Corporation, shall assess against each insured depository institution an assessment (in the same manner as assessments are assessed against such institutions by the Federal Deposit Insurance Corporation under section 7 of the Federal Deposit Insurance Act \[12 U.S.C. 1817\]), except that—
 
-&emsp;&emsp;(A) the sum of—
+&emsp;&emsp;(A) the assessments imposed on insured depository institutions with respect to any BIF-assessable deposit shall be assessed at a rate equal to 1/5 of the rate of the assessments imposed on insured depository institutions with respect to any SAIF-assessable deposit; and
 
-&emsp;&emsp;&emsp;(i) the amount assessed under this paragraph; and
-
-&emsp;&emsp;&emsp;(ii) the amount assessed by the Funding Corporation under section 1441b of this title;
-
-> &emsp;&emsp;shall not exceed the amount authorized to be assessed against Savings Association Insurance Fund members pursuant to section 1817 of this title;
-
-&emsp;&emsp;(B) the Financing Corporation shall have first priority to make the assessment; and
-
-&emsp;&emsp;(C) the amount of the applicable assessment determined under such section 1817 of this title shall be reduced by the sum described in subparagraph (A) of this paragraph.
+&emsp;&emsp;(B) no limitation under clause (i) or (iii) of section 7(b)(2)(A) of the Federal Deposit Insurance Act \[12 U.S.C. 1817(b)(2)(A)\] shall apply for purposes of this paragraph.
 
 #### (3) Receivership proceeds
 
-&emsp;To the extent the amounts available pursuant to paragraphs (1) and (2) are insufficient to cover the amount of interest payments, issuance costs, and custodial fees, and if the funds are not required by the Resolution Funding Corporation to provide funds for the Funding Corporation Principal Fund under section 1441b of this title, the Federal Deposit Insurance Corporation shall transfer to the Financing Corporation, from the liquidating dividends and payments made on claims receivedby the FSLIC Resolution Fund (established under section 1821a of this title) from receiverships, the remaining amount of funds necessary for the Financing Corporation to make interest payments.
+&emsp;To the extent the amounts available pursuant to paragraphs (1) and (2) are insufficient to cover the amount of interest payments, issuance costs, and custodial fees, and if the funds are not required by the Resolution Funding Corporation to provide funds for the Funding Corporation Principal Fund under section 1441b of this title, the Federal Deposit Insurance Corporation shall transfer to the Financing Corporation, from the liquidating dividends and payments made on claims received by the FSLIC Resolution Fund (established under section 11A of the Federal Deposit Insurance Act \[12 U.S.C. 1821a\]) from receiverships, the remaining amount of funds necessary for the Financing Corporation to make interest payments.
 
 #### (g) Use and disposition of assets of Financing Corporation not invested in FSLIC
 
@@ -394,21 +386,31 @@ The Federal Housing Finance Board may prescribe such regulations as may be neces
 
 #### (k) Definitions
 
-For purposes of this section—
+For purposes of this section, the following definitions shall apply:
 
-#### (1) Savings Association Insurance Fund member
-
-&emsp;The term “Savings Association Insurance Fund member” means a savings association which is a Savings Association Insurance Fund member as defined by section 1817(<i>l</i>) of this title.
-
-#### (2) Directorate
+#### (1) Directorate
 
 &emsp;The term “Directorate” means the directorate established in the manner provided in subsection (b)(1) of this section to manage the Financing Corporation.
 
-#### (3) Net earnings
+#### (2) Net earnings
 
 &emsp;The term “net earnings” means net earnings without reduction for any chargeoffs or expenses incurred by a Bank in connection with the purchase of capital stock of the Financing Corporation or the purchase of stock of the Funding Corporation required by the Thrift Depositor Protection Oversight Board under subsections (e) and (f) of section 1441b of this title.
 
-(July 22, 1932, ch. 522, §21, as added Aug. 10, 1987, Pub. L. 100–86, title III, §302, 101 Stat. 585; amended Aug. 9, 1989, Pub. L. 101–73, title V, §512, title VII, §§701(b)(2), 713, 103 Stat. 406, 412, 419; Dec. 12, 1991, Pub. L. 102–233, title I, §104, title III, §302(b), 105 Stat. 1762, 1767; Oct. 28, 1992, Pub. L. 102–550, title XVI, §1611(c), 106 Stat. 4090.)
+#### (3) Insured depository institution
+
+&emsp;The term “insured depository institution” has the same meaning as in section 3 of the Federal Deposit Insurance Act \[12 U.S.C. 1813\] <sup>3</sup>
+
+#### (4) Deposit terms
+
+#### (A) BIF-assessable deposits
+
+&emsp;&emsp;The term “BIF-assessable deposit” means a deposit that is subject to assessment for purposes of the Bank Insurance Fund underthe Federal Deposit Insurance Act \[12 U.S.C. 1811 et seq.\] (including a deposit that is treated as a deposit insured by the Bank Insurance Fund under section 5(d)(3) of the Federal Deposit Insurance Act \[12 U.S.C. 1815(d)(3)\]).
+
+#### (B) SAIF-assessable deposit
+
+&emsp;&emsp;The term “SAIF-assessable deposit” has the meaning given to such term in section 2710 of the Deposit Insurance Funds Act of 1996.
+
+(July 22, 1932, ch. 522, §21, as added Aug. 10, 1987, Pub. L. 100–86, title III, §302, 101 Stat. 585; amended Aug. 9, 1989, Pub. L. 101–73, title V, §512, title VII, §§701(b)(2), 713, 103 Stat. 406, 412, 419; Dec. 12, 1991, Pub. L. 102–233, title I, §104, title III, §302(b), 105 Stat. 1762, 1767; Oct. 28, 1992, Pub. L. 102–550, title XVI, §1611(c), 106 Stat. 4090; Sept. 30, 1996, Pub. L. 104–208, div. A, title II, §2703(a), 110 Stat. 3009–485.)
 
 #### References in Text
 
@@ -416,11 +418,37 @@ Section 1725 of this title, referred to in subsecs. (c)(2), (e)(2)(A), and (g)(1
 
 Section 9105 of title 31, referred to in subsec. (h)(3), was amended generally by Pub. L. 101–576, title III, §305, Nov. 15, 1990, 104 Stat. 2853, and, as so amended, no longer contains provisions relating to mixed-ownership Government corporations having capital of the Government.
 
+The Federal Deposit Insurance Act, referred to in subsec. (k)(4)(A), is act Sept. 21, 1950, ch. 967, §2, 64 Stat. 873, as amended, which is classified generally to chapter 16 (§1811 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1811 of this title and Tables.
+
+Section 2710 of the Deposit Insurance Funds Act of 1996, referred to in subsec. (k)(4)(B), is section 2710 of div. A of Pub. L. 104–208, which is set out as a note under section 1821 of this title.
+
 #### Prior Provisions
 
 A prior section 1441, act July 22, 1932, ch. 522, §21, 47 Stat. 738, related to unlawful acts and penalties, prior to repeal by act June 25, 1948, ch. 645, §21, 62 Stat. 862, eff. Sept. 1, 1948. See sections 433, 493, 657, 659, 660, 709, 1006, 1014, and 2117 of Title 18, Crimes and Criminal Procedure.
 
 #### Amendments
+
+1996—Subsec. (f)(2). Pub. L. 104–208, §2703(a)(1)(A), in introductory provisions, substituted “In addition to the amounts obtained pursuant to paragraph (1),” for “To the extent the amounts available pursuant to paragraph (1) are insufficient to cover the amount of interest payments, issuance costs, and custodial fees,”, “insured depository institution” for “Savings Association Insurance Fund member”, and “against such institutions” for “against such members”.
+
+Subsec. (f)(2)(A) to (C). Pub. L. 104–208, §2703(a)(1)(B), added subpars. (A) and (B) and struck out former subpars. (A) to (C) which read as follows:
+
+“(A) the sum of—
+
+&emsp;“(i) the amount assessed under this paragraph; and
+
+&emsp;“(ii) the amount assessed by the Funding Corporation under section 1441b of this title;
+
+> shall not exceed the amount authorized to be assessed against Savings Association Insurance Fund members pursuant to section 1817 of this title;
+
+“(B) the Financing Corporation shall have first priority to make the assessment; and
+
+“(C) the amount of the applicable assessment determined under such section 1817 of this title shall be reduced by the sum described in subparagraph (A) of this paragraph.”
+
+Subsec. (k). Pub. L. 104–208, §2703(a)(2)(A), substituted “section, the following definitions shall apply:” for “section—” in introductory provisions.
+
+Subsec. (k)(1). Pub. L. 104–208, §2703(a)(2)(B), (C), redesignated par. (2) as (1) and struck out heading and text of former par. (1). Text read as follows: “The term ‘Savings Association Insurance Fund member’ means a savings association which is a Savings Association Insurance Fund member as defined by section 7(<i>l</i>) of the Federal Deposit Insurance Act.”
+
+Subsec. (k)(2) to (4). Pub. L. 104–208, §2703(a)(2)(C), (D), added pars. (3) and (4) and redesignated former pars. (2) and (3) as (1) and (2), respectively.
 
 1992—Subsec. (e)(2). Pub. L. 102–550 made technical amendment to reference to December 12, 1991, to correct reference to corresponding provisions of original act.
 
@@ -516,6 +544,22 @@ Subsec. (k)(3), (4). Pub. L. 101–73, §512(10), (17)(B), added par. (4) and re
 
 Subsec. (<i>l</i>). Pub. L. 101–73, §713, redesignated subsec. (<i>l</i>) as (k).
 
+#### Effective and Termination Dates of 1996 Amendment
+
+Section 2703(c) of Pub. L. 104–208 provided that:
+
+“(1)
+
+In general.—Subsections (a) \[amending this section\] and (c) \[probably should be (b), amending section 1817 of this title\] and the amendments made by such subsections shall apply with respect to semiannual periods which begin after December 31, 1996.
+
+“(2)
+
+Termination of certain assessment rates.—Subparagraph (A) of section 21(f)(2) of the Federal Home Loan Bank Act \[subsec. (f)(2) of this section\] (as amended by subsection (a)) shall not apply after the earlier of—
+
+&emsp;“(A) December 31, 1999; or
+
+&emsp;“(B) the date as of which the last savings association ceases to exist.”
+
 #### Effective Date of 1992 Amendment
 
 Section 1618 of Pub. L. 102–550 provided that: “Except as otherwise provided by a specific provision of this subtitle \[subtitle B (§§1611–1618) of title XVI of Pub. L. 102–550, amending this section, sections 1441a, 1441b, 1821, 3345, and 3348 of this title and provisions set out as a note under section 1441a of this title\], the amendments made by this subtitle to the Resolution Trust Corporation Refinancing, Restructuring, and Improvement Act of 1991 \[Pub. L. 102–233; see Short Title of 1991 Amendment note set out under section 1421 of this title\] and the Federal Home Loan Bank Act \[12 U.S.C. 1421 et seq.\] shall take effect as if such amendments had been included in the Resolution Trust Corporation Refinancing, Restructuring, and Improvement Act of 1991 \[Pub. L. 102–233\] as of the date of the enactment of such Act \[Dec. 12, 1991\].”
@@ -527,6 +571,26 @@ Section 318 of Pub. L. 102–233 provided that: “The effective date of the Res
 #### Transfer of Functions
 
 Federal Savings and Loan Insurance Corporation abolished and functions transferred, see sections 401 to 406 of Pub. L. 101–73, set out as a note under section 1437 of this title.
+
+#### Prohibition on Deposit Shifting
+
+Section 2703(d) of Pub. L. 104–208 provided that:
+
+“(1)
+
+In general.—Effective as of the date of the enactment of this Act \[Sept. 30, 1996\] and ending on the date provided in subsection (c)(2) of this section \[set out as a note above\], the Comptroller of the Currency, the Board of Directors of the Federal Deposit Insurance Corporation, the Board of Governors of the Federal Reserve System, and the Director of the Office of Thrift Supervision shall take appropriate actions, including enforcement actions, denial of applications, or imposition of entrance and exit fees as if such transactions qualified as conversion transactions pursuant to section 5(d) of the Federal Deposit Insurance Act \[12 U.S.C. 1815(d)\], to prevent insured depository institutions and depository institution holding companies from facilitating or encouraging the shifting of deposits from SAIF-assessable deposits to BIF-assessable deposits (as defined in section 21(k) of the Federal Home Loan Bank Act \[12 U.S.C. 1441(k)\]) for the purpose of evading the assessments imposed on insured depository institutions with respect to SAIF-assessable deposits under section 7(b) of the Federal Deposit Insurance Act \[12 U.S.C. 1817(b)\] and section 21(f)(2) of the Federal Home Loan Bank Act \[12 U.S.C. 1441(f)(2)\].
+
+“(2)
+
+Regulations.—The Board of Directors of the Federal Deposit Insurance Corporation may issue regulations, including regulations defining terms used in paragraph (1), to prevent the shifting of deposits described in such paragraph.
+
+“(3)
+
+Rule of construction.—No provision of this subsection shall be construed as prohibiting conduct or activity of any insured depository institution which—
+
+&emsp;“(A) is undertaken in the ordinary course of business of such depository institution; and
+
+&emsp;“(B) is not directed towards the depositors of an insured depository institution affiliate (as defined in section 2(k) of the Bank Holding Company Act of 1956 \[12 U.S.C. 1841(k)\]) of such depository institution.”
 
 #### State Cooperative Banks Deemed Insured Institutions Under Subsection (f)(4)(F)
 
@@ -571,4 +635,6 @@ This section is referred to in sections 1430, 1436, 1441b, 1821a of this title.
 <i><sup>1</sup></i><i> So in original. Probably should refer to paragraph (6) in view of the renumbering of paragraph (7) as (6) by Pub. L. 101–73.</i>
 
 <i><sup>2</sup></i><i> See References in Text note below.</i>
+
+<i><sup>3</sup></i><i> So in original. Probably should be followed by a period.</i>
 

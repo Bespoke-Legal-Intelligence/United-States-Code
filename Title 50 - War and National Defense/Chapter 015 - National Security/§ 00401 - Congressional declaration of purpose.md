@@ -1,6 +1,6 @@
 ### §401. Congressional declaration of purpose
 
-In enacting this legislation, it is the intent of Congress to provide a comprehensive program for the future security of the United States; to provide for the establishment of integrated policies and procedures for the departments, agencies, and functions of the Government relating to the national security; to provide a Department of Defense, including the three military Departments of the Army, the Navy (including naval aviation and the United States Marine Corps), and the Air Force under the direction, authority, and control of the Secretary of Defense; to provide that each military department shall be separately organized under its own Secretary and shall function under the direction, authority, and control of the Secretary of Defense; to provide for their unified direction under civilian control of the Secretary of Defense but not to merge these departments or services; to provide for the establishment of unified or specified combatant commands, and a clear and direct line of command to such commands; to eliminate unnecessary duplication in the Department of Defense, and particularly in the field of research and engineering by vesting its overall direction and control in the Secretary of Defense; to provide more effective, efficient, and economical administration in the Department of Defense; to provide for the unified strategic direction of the combatant forces, for their operation under unified command, and for their integration into an efficient team of land, naval, and air forces but not to establish a single Chief of Staff over the armed forces nor an overall armed forces general staff.
+In enacting this legislation, it is the intent of Congress to provide a comprehensive program for the future security of the United States; to provide for the establishment of integrated policies and procedures for the departments, agencies, and functions of the Government relating to the national security; to provide a Department of Defense, including the three military Departments of the Army, the Navy (including naval aviation and the United States Marine Corps), and the Air Force under the direction, authority, and control of the Secretary of Defense; to provide that each military departmentshall be separately organized under its own Secretary and shall function under the direction, authority, and control of the Secretary of Defense; to provide for their unified direction under civilian control of the Secretary of Defense but not to merge these departments or services; to provide for the establishment of unified or specified combatant commands, and a clear and direct line of command to such commands; to eliminate unnecessary duplication in the Department of Defense, and particularly in the field of research and engineering by vesting its overall direction and control in the Secretary of Defense; to provide more effective, efficient, and economical administration in the Department of Defense; to provide for the unified strategic direction of the combatant forces, for their operation under unified command, and for their integration into an efficient team of land, naval, and air forces but not to establish a single Chief of Staff over the armed forces nor an overall armed forces general staff.
 
 (July 26, 1947, ch. 343, §2, 61 Stat. 496; Aug. 10, 1949, ch. 412, §2, 63 Stat. 579; Aug. 6, 1958, Pub. L. 85–599, §2, 72 Stat. 514.)
 
@@ -22,9 +22,13 @@ Section 310 of act July 26, 1947, provided:
 
 “(b) Except as provided in subsection (a), the provisions of this Act \[sections 171 to 171<i>l</i>, 181–1, 181–2, 411a, 411b, 626 to 626d of former Title 5, section 24 of Title 3, The President, and sections 401 to 405 of this title\] shall take effect on whichever of the following days is the earlier: The day after the day upon which the Secretary of Defense first appointed takes office, or the sixtieth day after the date of the enactment of this Act \[July 26, 1947\].”
 
+#### Short Title of 1996 Amendment
+
+Pub. L. 104–293, title VIII, §801, Oct. 11, 1996, 110 Stat. 3474, provided that: “This title \[enacting sections 403, 403–1, 403–5a, and 403t of this title, amending sections 402, 403, 403–3 to 403–6, and 404d of this title and sections 5314 and 5315 of Title 5, Government Organization and Employees, repealing former section 403 of this title, and enacting provisions set out as notes under sections 403–3, 403–4, and 403t of this title\] may be cited as the ‘Intelligence Renewal and Reform Act of 1996’.”
+
 #### Short Title of 1994 Amendment
 
-Pub. L. 103–359, title VIII, §801, Oct. 14, 1994, 108 Stat. 3434, provided that: “This title \[enacting sections 402a, 435 to 438, and 1821 to 1829 of this title, section 2170b of the Appendix to this title, section 1599 of Title 10, Armed Forces, and section 1924 of Title 18, Crimes and Criminal Procedure, amending section 783 of this title, section 2170 of the Appendix to this title, section 8312 of Title 5, Government Organization and Employees, section 1604 of Title 10, and sections 793, 794, 798, 3071, and 3077 of Title 18, enacting provisions set out as notes under sections 435 and 1821 of this title, and amending provisions set out as notes under sections 402 and 1801 of this title\] may be cited as the ‘Counterintelligence and Security Enhancements Act of 1994’.”
+Pub. L. 103–359, title VIII, §801, Oct. 14, 1994, 108 Stat. 3434, provided that: “This title \[enacting sections 402a, 435 to 438, and 1821 to 1829 of this title, section 2170b of the Appendix to this title, section 1599 \[now 1611\] of Title 10, Armed Forces, and section 1924 of Title 18, Crimes and Criminal Procedure, amending section 783 of this title, section 2170 of the Appendix to this title, section 8312 of Title 5, Government Organization and Employees, section 1604 of Title 10, and sections 793, 794, 798, 3071, and 3077 of Title 18, enacting provisions set out as notes under sections 435 and 1821 of this title, and amending provisions set out as notes under sections 402 and 1801 of this title\] may be cited as the ‘Counterintelligence and Security Enhancements Act of 1994’.”
 
 #### Short Title of 1992 Amendment
 
@@ -159,7 +163,7 @@ Security Clearances.—Appropriate security clearances shall be required for mem
 
 “(h)
 
-Application of Certain Provisions of Law.—In light of the extraordinary and sensitive nature of its deliberations, the provisions of the Federal Advisory Committee Act (5 U.S.C. App.), and the regulations prescribed by the Administrator of General Services pursuant to that Act, shall not apply to the Commission. Further, the provisions of section 552 of title 5, United States Code (commonly known as the ‘Freedom of Information Act’), shall not apply to the Commission; however, records of the Commission shall be subject to the Federal Records Act \[probably means chapters 21 to 31 of Title 44, Public Printing and Documents\] and, when transferred to the National Archives and Records Agency, shall no longer be exempt from the provisions of such section 552.
+Application of Certain Provisions of Law.—In light of the extraordinary and sensitive nature of its deliberations, the provisions of the Federal Advisory Committee Act (5 U.S.C. App.), and the regulations prescribed by the Administrator of General Services pursuant to that Act, shall not apply to the Commission. Further, the provisions of section 552 of title 5, United States Code (commonly known as the ‘Freedom of Information Act’), shall not apply to the Commission; however, records of the Commission shall be subject tothe Federal Records Act \[probably means chapters 21 to 31 of Title 44, Public Printing and Documents\] and, when transferred to the National Archives and Records Agency, shall no longer be exempt from the provisions of such section 552.
 
 #### “SEC. 903. DUTIES OF THE COMMISSION.
 
@@ -217,7 +221,7 @@ Implementation.—In carrying out subsection (a), the Commission shall specifica
 
 “(a)
 
-Initial Report.—Not later than two months after the first meeting of the Commission, the Commission shall transmit to the congressional intelligencecommittees a report setting forth its plan for the work of the Commission.
+Initial Report.—Not later than two months after the first meeting of the Commission, the Commission shall transmit to the congressional intelligence committees a report setting forth its plan for the work of the Commission.
 
 “(b)
 
@@ -313,7 +317,7 @@ Pub. L. 101–511, title VIII, §8104, Nov. 5, 1990, 104 Stat. 1898, as amended 
 
 &emsp;“(1) Recent revolutionary world events require a fundamental reassessment of the defense and national security policies of the United States.
 
-&emsp;“(2) Emerging democracies around the world will require political, technical, and economic assistance,as well as military assistance, from the developed free nations in order to thrive and to become productive members of the world community.
+&emsp;“(2) Emerging democracies around the world will require political, technical, and economic assistance, as well as military assistance, from the developed free nations in order to thrive and to become productive members of the world community.
 
 &emsp;“(3) Real and potential military threats to the United States and its allies will continue to exist for the foreseeable future from not just the Soviet Union but also from terrorism and from Third World nations.
 
@@ -441,7 +445,7 @@ Applicability of Certain Civil Service Laws.—The Director and staff of the Com
 
 “(d)
 
-Experts and Consultants.—Subject to such rules as may be prescribed by the Commission, theChairman may procure temporary and intermittent services under section 3109(b) of title 5 of the United States Code, but at rates for individuals not to exceed the daily equivalent of the maximum annual rate of basic pay payable for GS–18 of the General Schedule.
+Experts and Consultants.—Subject to such rules as may be prescribed by the Commission, the Chairman may procure temporary and intermittent services under section 3109(b) of title 5 of the United States Code, but at rates for individuals not to exceed the daily equivalent of the maximum annual rate of basic pay payable for GS–18 of the General Schedule.
 
 “(e)
 
@@ -535,7 +539,7 @@ Ex. Ord. No. 10431, Jan. 19, 1953, 18 F.R. 437, provided:
 
 Pursuant to Paragraph 2 of Executive Order 10431, the following regulations are hereby issued to govern the award of the National Security Medal:
 
-1\. The National Security Medal may be awarded to any person without regard to nationality, including amember of the Armed Forces of the United States, who, on or after 26 July 1947, has made an outstanding contribution to the National intelligence effort. This contribution may consist of either exceptionally meritorious service performed in a position of high responsibility or of an act of valor requiring personal courage of a high degree and complete disregard of personal safety.
+1\. The National Security Medal may be awarded to any person without regard to nationality, including a member of the Armed Forces of the United States, who, on or after 26 July 1947, has made an outstanding contribution to the National intelligence effort. This contribution may consist of either exceptionally meritorious service performed in a position of high responsibility or of an act of valor requiring personal courage of a high degree and complete disregard of personal safety.
 
 2\. The National Security Medal with accompanying ribbon and appurtenances, shall be of appropriate design to be approved by the Executive Secretary of the National Security Council.
 
@@ -568,7 +572,7 @@ Part 1.
 
 Goals, Direction, Duties, and Responsibilities With Respect to the National Intelligence Effort
 
-Sec.
+Sec.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 1\.1
 
@@ -678,9 +682,9 @@ Prohibition on Assassination
 
 Indirect Participation
 
-Part 3
+Part 3.
 
-. General Provisions
+General Provisions
 
 3\.1
 
@@ -730,7 +734,7 @@ The National Security Council
 
 (a) <i>Purpose</i>. The National Security Council (NSC) was established by the National Security Act of 1947 \[see Short Title note above\] to advise the President with respect to the integration of domestic, foreign and military policies relating to the national security. The NSC shall act as the highest Executive Branch entity that provides review of, guidance for and direction to the conduct of all national foreign intelligence, counterintelligence, and special activities, and attendant policies and programs.
 
-(b) <i>Committees</i>. The NSC shall establish such committees as may be necessary to carry out its functions and responsibilities under this Order. The NSC, or a committee established by it, shall consider and submit to the President a policy recommendation, including alldissents, on each special activity and shall review proposals for other sensitive intelligence operations.
+(b) <i>Committees</i>. The NSC shall establish such committees as may be necessary to carry out its functions and responsibilities under this Order. The NSC, or a committee established by it, shall consider and submit to the President a policy recommendation, including all dissents, on each special activity and shall review proposals for other sensitive intelligence operations.
 
 #### 1\.3
 
@@ -928,7 +932,7 @@ The Secretary of Defense shall:
 
 (i) Establish and maintain military intelligence relationships and military intelligence exchange programs with selected cooperative foreign defense establishments and international organizations, and ensure that such relationships and programs are in accordance with policies formulated by the Director of Central Intelligence;
 
-(j) Direct, operate, control and provide fiscal management for the National Security Agency and for defense and military intelligence and national reconnaissance entities; and
+(j) Direct, operate, control and provide fiscal management for the National Security Agency and for defenseand military intelligence and national reconnaissance entities; and
 
 (k) Conduct such administrative and technical support activities within and outside the United States as are necessary to perform the functions described in sections (a) through (j) above.
 
@@ -1018,7 +1022,7 @@ Under the supervision of the Attorney General and pursuant to such regulations a
 
 (a) Within the United States conduct counterintelligence and coordinate counterintelligence activities of other agencies within the Intelligence Community. When a counterintelligence activity of the FBI involves military or civilian personnel of the Department of Defense, the FBI shall coordinate with the Department of Defense;
 
-(b) Conduct counterintelligence activities outside the United States in coordination with the CIA as required by procedures agreed upon by the Director of Central Intelligence and the Attorney General;
+(b) Conduct counterintelligence activities outside the United States in coordination with the CIA as requiredby procedures agreed upon by the Director of Central Intelligence and the Attorney General;
 
 (c) Conduct within the United States, when requested by officials of the Intelligence Community designated by the President, activities undertaken to collect foreign intelligence or support foreign intelligence collection requirements of other agencies within the Intelligence Community, or, when requested by the Director of the National Security Agency, to support the communications security activities of the United States Government;
 
@@ -1072,7 +1076,7 @@ In addition, agencies within the Intelligence Community may disseminate informat
 
 Collection Techniques
 
-Agencies within the Intelligence Community shall use the least intrusive collection techniques feasiblewithin the United States or directed against United States persons abroad. Agencies are not authorized to use such techniques as electronic surveillance, unconsented physical search, mail surveillance, physical surveillance, or monitoring devices unless they are in accordance with procedures established by the head of the agency concerned and approved by the Attorney General. Such procedures shall protect constitutional and other legal rights and limit use of such information to lawful governmental purposes. These procedures shall not authorize:
+Agencies within the Intelligence Community shall use the least intrusive collection techniques feasible within the United States or directed against United States persons abroad. Agencies are not authorized to use such techniques as electronic surveillance, unconsented physical search, mail surveillance, physical surveillance, or monitoring devices unless they are in accordance with procedures established by the head of the agency concerned and approved by the Attorney General. Such procedures shall protect constitutional and other legal rights and limit use of such information to lawful governmental purposes. These procedures shall not authorize:
 
 (a) The CIA to engage in electronic surveillance within the United States except for the purpose of training, testing, or conducting countermeasures to hostile electronic surveillance;
 
@@ -1094,7 +1098,7 @@ Agencies within the Intelligence Community shall use the least intrusive collect
 
 Attorney General Approval
 
-The Attorney General hereby is delegated the power to approve the use for intelligence purposes, within the United States or against a United States person abroad, of any technique for which a warrant would be required if undertaken for law enforcement purposes, provided that such techniques shall not be undertaken unless the Attorney General has determined in each case that there is probable cause to believe that the technique is directed against a foreign power or an agent of a foreign power. Electronic surveillance, as defined in the Foreign Intelligence Surveillance Act of 1978 \[50 U.S.C. 1801 et seq.\], shall be conducted in accordance with that Act, as well as this Order.
+The Attorney General hereby is delegated the power to approve the use for intelligence purposes, within the United States or against a United States person abroad, of any technique for which a warrant would be required if undertaken for law enforcement purposes, provided that such techniques shall not be undertaken unless the Attorney General has determined in each case that there is probable cause to believe that thetechnique is directed against a foreign power or an agent of a foreign power. Electronic surveillance, as defined in the Foreign Intelligence Surveillance Act of 1978 \[50 U.S.C. 1801 et seq.\], shall be conducted in accordance with that Act, as well as this Order.
 
 #### 2\.6
 
@@ -1244,7 +1248,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 #### PART I. ASSESSMENT OF INTELLIGENCE ACTIVITIES
 
-Section 1.1. There is hereby established within the White House Office, Executive Office of the President, the President's Foreign Intelligence Advisory Board (PFIAB). The PFIAB shall consist of not more than 16 members, who shall serve at the pleasure of the President and shall be appointed by the President from among trustworthy and distinguished citizens outside the Government who are qualified on the basis of achievement, experience and independence. The President shall establish the terms of the members upon their appointment. To the extent practicable, one-third of the PFIAB at any one time shall be comprised of members whose term of service does not exceed 2 years.The President shall designate a Chairman and Vice Chairman from among the members. The PFIAB shall utilize full-time staff and consultants as authorized by the President. Such staff shall be headed by an Executive Director, appointed by the President.
+Section 1.1. There is hereby established within the White House Office, Executive Office of the President, the President's Foreign Intelligence Advisory Board (PFIAB). The PFIAB shall consist of not more than 16 members, who shall serve at the pleasure of the President and shall be appointed by the President from among trustworthy and distinguished citizens outside the Government who are qualified on the basis of achievement, experience and independence. The President shall establish the terms of the members upon their appointment. To the extent practicable, one-third of the PFIAB at any one time shall be comprised of members whose term of service does not exceed 2 years. The President shall designate a Chairman and Vice Chairman from among the members. The PFIAB shall utilize full-time staff and consultants as authorized by the President. Such staff shall be headed by an Executive Director, appointed by the President.
 
 Sec. 1.2. The PFIAB shall assess the quality, quantity, and adequacy of intelligence collection, of analysis and estimates, and of counterintelligence and other intelligence activities. The PFIAB shall have the authority to review continually the performance of all agencies of the Federal Government that are engaged in the collection, evaluation, or production of intelligence or the execution of intelligence policy. The PFIAB shall further be authorized to assess the adequacy of management, personnel and organization in the intelligence agencies. The heads of departments and agencies of the Federal Government, to the extent permitted by law, shall provide the PFIAB with access to all information that the PFIAB deems necessary to carry out its responsibilities.
 

@@ -80,7 +80,7 @@ Subsec. (b). Pub. L. 100–647, §1007(d)(4), added pars. (1) to (3) and struck 
 
 “(3) the provisions of section 469(m) (relating to phase-in of disallowance) shall not apply.”
 
-1987—Subsec. (b)(3). Pub. L. 100–203 substituted “section 469(m)” for “section 469(<i>l)”.</i>
+1987—Subsec. (b)(3). Pub. L. 100–203 substituted “section 469(m)” for “section 469(<i>l</i>)”.
 
 #### Effective Date of 1988 Amendment
 
@@ -96,7 +96,7 @@ Section applicable to taxable years beginning after Dec. 31, 1986, with certain 
 
 #### Applicability of 1986 Repeal
 
-Pub. L. 101–239, title VII, §7811(d)(1)(B), Dec. 19, 1989, 103 Stat. 2408, provided that: “The repeal of section 58(h) of the Internal Revenue Code of 1954 by the Tax Reform Act of 1986 \[Pub. L. 99–514\] shall be effective only with respect to items of tax preference arising in taxable years beginning after December 31, 1986.”
+Pub. L. 101–239, title VII, §7811(d)(1)(B), Dec. 19, 1989, 103 Stat. 2408, provided that: “The repeal of section 58(h) of the Internal Revenue Code of 1954 by the Tax Reform Act of 1986 \[Pub. L. 99–514\] shall be effectiveonly with respect to items of tax preference arising in taxable years beginning after December 31, 1986.”
 
 #### Applicability of Certain Amendments by Pub. L. 99–514 in Relation to Treaty Obligations of United States
 

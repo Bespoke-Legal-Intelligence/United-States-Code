@@ -18,5 +18,5 @@ Advisory councils established after Jan. 5, 1973, to terminate not later than th
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1592, 1593, 1595, 1596 of this title.
+This section is referred to in sections 1593, 1595, 1596 of this title.
 

@@ -12,7 +12,7 @@ Actions of Secretary and Administrator.—(1) In carrying out this part, the Sec
 
 &emsp;(B) shall consider applicable laws and requirements of a foreign country; and
 
-&emsp;(C) may not limit compliance by an air carrier with obligations or liabilities imposed by the government of a foreign country when the Secretary takes any action related to a certificate of public convenience and necessity issued under chapter 411 of this title.
+&emsp;(C) may not limit compliance by an air carrier with obligations or liabilities imposed bythe government of a foreign country when the Secretary takes any action related to a certificate of public convenience and necessity issued under chapter 411 of this title.
 
 (2) This subsection does not apply to an agreement between an air carrier or an officer or representative of an air carrier and the government of a foreign country, if the Secretary of Transportation disapproves the agreement because it is not in the public interest. Section 40106(b)(2) of this title applies to this subsection.
 
@@ -44,7 +44,9 @@ Congressional Observers at International Aviation Negotiations.—The President 
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -58,7 +60,7 @@ Aug. 23, 1958, Pub. L. 85–726, §802, 72 Stat. 783.
 
 &nbsp;
 
-49 App.:1551(b) (1)(B).
+49 App.:1551(b)(1)(B).
 
 Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1601(b)(1)(B); added Oct. 24, 1978, Pub. L. 95–504, §40(a), 92 Stat. 1745.
 
@@ -76,9 +78,9 @@ Aug. 23, 1958, Pub. L. 85–726, §1102(a), 72 Stat. 797; Feb. 15, 1980, Pub. L.
 
 &nbsp;
 
-49 App.:1551(b) (1)(E).
+49 App.:1551(b)(1)(E).
 
-Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1601(b)(1)((E); added Oct. 4, 1984, Pub. L. 98–443, §3(e), 98 Stat. 1704.
+Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1601(b) (1)(E); added Oct. 4, 1984, Pub. L. 98–443, §3(e), 98 Stat. 1704.
 
 &nbsp;
 
@@ -92,7 +94,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1102(c), (d); added Feb. 15, 19
 
 &nbsp;
 
-49 App.:1551(b) (1)(E).
+49 App.:1551(b)(1)(E).
 
 40105(d)
 
@@ -108,7 +110,7 @@ In subsection (c), before clause (1), the words “To assist” are omitted as s
 
 #### Report on Certain Bilateral Negotiations
 
-Pub. L. 103–305, title V, §519, Aug. 23, 1994, 108 Stat. 1600, provided that: “The Secretary shall report everyother month to the Committee on Public Works and Transportation \[now Committee on Transportation and Infrastructure\] of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate on the status of all active aviation bilateral and multilateral negotiations and informal government-to-government consultations with United States aviation trade partners.”
+Pub. L. 103–305, title V, §519, Aug. 23, 1994, 108 Stat. 1600, provided that: “The Secretary shall report every other month to the Committee on Public Works and Transportation \[now Committee on Transportation and Infrastructure\] of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate on the status of all active aviation bilateral and multilateral negotiations and informal government-to-government consultations with United States aviation trade partners.”
 
 #### Warsaw Convention
 
@@ -126,7 +128,7 @@ Have nominated to this end their respective Plenipotentiaries, who being thereto
 
 #### <i>Article 1</i>
 
-(1) This convention shall apply to all international transportation of persons, baggage, or goods performed by aircraft for hire. It shall apply equally to gratuitous transportation by aircraft performed by an air transportation enterprise.
+(1) This convention shall apply to all international transportation of persons, baggage, or goods performedby aircraft for hire. It shall apply equally to gratuitous transportation by aircraft performed by an air transportation enterprise.
 
 (2) For the purpose of this convention the expression “international transportation” shall mean any transportation in which, according to the contract made by the parties, the place of departure and the place of destination, whether or not there be a break in the transportation or a transshipment, are situated either within the territories of two High Contracting Parties, or within the territory of a single High Contracting Party, if there is an agreed stopping place within a territory subject to the sovereignty, suzerainty, mandate or authority of another power, even though that power is not a party to this convention. Transportation without such an agreed stopping place between territories subject to the sovereignty, suzerainty, mandate, or authority of the same High Contracting Party shall not be deemed to be international for the purposes of this convention.
 
@@ -288,7 +290,7 @@ The consignor and the consignee can respectively enforce all the rights given th
 
 #### <i>Article 15</i>
 
-(1) Articles 12, 13, and 14 shall not affect either the relations of the consignor and the consignee with each other or the relations of third parties whose rights arederived either from the consignor or from the consignee.
+(1) Articles 12, 13, and 14 shall not affect either the relations of the consignor and the consignee with each other or the relations of third parties whose rights are derived either from the consignor or from the consignee.
 
 (2) The provisions of articles 12, 13, and 14 can only be varied by express provision in the air waybill.
 
@@ -364,7 +366,7 @@ Any provision tending to relieve the carrier of liability or to fix a lower limi
 
 #### <i>Article 27</i>
 
-In the case of the death of the person liable, an action for damages lies in accordance with the terms of thisconvention against those legally representing his estate.
+In the case of the death of the person liable, an action for damages lies in accordance with the terms of this convention against those legally representing his estate.
 
 #### <i>Article 28</i>
 

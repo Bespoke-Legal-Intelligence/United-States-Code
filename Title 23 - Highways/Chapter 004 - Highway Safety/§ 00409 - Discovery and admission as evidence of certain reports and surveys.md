@@ -8,7 +8,7 @@ Notwithstanding any other provision of law, reports, surveys, schedules, lists, 
 
 1995—Pub. L. 104–59 inserted “or collected” after “data compiled”.
 
-1991—Pub. L. 102–240 substituted “Discovery and admission” for “Admission” in section catchline and“subject to discovery or admitted into evidence in a Federal or State court proceeding” for “admitted into evidence in Federal or State court” in text.
+1991—Pub. L. 102–240 substituted “Discovery and admission” for “Admission” in section catchline and “subject to discovery or admitted into evidence in a Federal or State court proceeding” for “admitted into evidence in Federal or State court” in text.
 
 #### Effective Date of 1991 Amendment
 

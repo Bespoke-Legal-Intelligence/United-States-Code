@@ -12,7 +12,7 @@ Every individual who—
 
 &emsp;(C)(i) would meet the requirements of subparagraph (A) upon filing application for the monthly insurance benefits involved if medicare qualified government employment (as defined in section 410(p) of this title) were treated as employment (as defined in section 410(a) of this title) for purposes of this subchapter, and (ii) files an application, in conformity with regulations of the Secretary, for hospital insurance benefits under part A of subchapter XVIII of this chapter,
 
-> shall be entitled to hospital insurance benefits under part A of subchapter XVIII of this chapter for each month for which he meets the condition specified in paragraph (2), beginning with thefirst month after June 1966 for which he meets the conditions specified in paragraphs (1) and (2).
+> shall be entitled to hospital insurance benefits under part A of subchapter XVIII of this chapter for each month for which he meets the condition specified in paragraph (2), beginning with the first month after June 1966 for which he meets the conditions specified in paragraphs (1) and (2).
 
 #### (b) Individuals under 65 years
 
@@ -44,7 +44,7 @@ For purposes of subsection (a) of this section—
 
 #### (d) “Qualified railroad retirement beneficiary” defined
 
-For purposes of this section, the term “qualified railroad retirement beneficiary” means an individual whose name has been certified to the Secretary by the Railroad Retirement Board under section 231f(d) of title 45. An individual shall cease to be a qualified railroad retirement beneficiary at the close of the month preceding the month which is certified by the Railroad Retirement Board as the month in which he ceasedto meet the requirements of section 231f(d) of title 45.
+For purposes of this section, the term “qualified railroad retirement beneficiary” means an individual whose name has been certified to the Secretary by the Railroad Retirement Board under section 231f(d) of title 45. An individual shall cease to be a qualified railroad retirement beneficiary at the close of the month preceding the month which is certified by the Railroad Retirement Board as the month in which he ceased to meet the requirements of section 231f(d) of title 45.
 
 #### (e) Benefits for widows and widowers
 
@@ -56,7 +56,7 @@ For purposes of this section, the term “qualified railroad retirement benefici
 
 (B) For purposes of subsection (b)(2)(A)(iii) of this section, each month in the period commencing with the first month for which an individual is first eligible for supplemental security income benefits under subchapter XVI of this chapter, or State supplementary payments of the type referred to in section 1382e(a) of this title (or payments of the type described in section 212(a) of Public Law 93–66) which are paid by the Secretary under an agreement referred to in section 1382e(a) of this title (or in section 212(b) of Public Law 93–66), shall be included as one of the 24 months for which such individual must have been entitled to widow's or widower's insurance benefits on the basis of disability in order to become entitled to hospital insurance benefits on that basis.
 
-(2) For purposes of determining entitlement to hospital insurance benefits under subsection (b) of this section in the case of an individual under age 65 who is entitled to benefits under section 402 of this title, and who was entitled to widow's insurance benefits or widower's insurance benefits based on disability for the month before the first month in which such individual was so entitled to old-age insurance benefits (but ceased to be entitled to such widow's or widower's insurance benefits upon becoming entitled to such old-age insurance benefits), such individual shall be deemed to have continued to be entitled to such widow's insurance benefits or widower's insurance benefits for and after such first month.
+(2) For purposes of determining entitlement to hospital insurance benefits under subsection (b)of this section in the case of an individual under age 65 who is entitled to benefits under section 402 of this title, and who was entitled to widow's insurance benefits or widower's insurance benefits based on disability for the month before the first month in which such individual was so entitled to old-age insurance benefits (but ceased to be entitled to such widow's or widower's insurance benefits upon becoming entitled to such old-age insurance benefits), such individual shall be deemed to have continued to be entitled to such widow's insurance benefits or widower's insurance benefits for and after such first month.
 
 (3) For purposes of determining entitlement to hospital insurance benefits under subsection (b) of this section, any disabled widow aged 50 or older who is entitled to mother's insurance benefits (and who would have been entitled to widow's insurance benefits by reason of disability if she had filed for such widow's benefits), and any disabled widower aged 50 or older who is entitled to father's insurance benefits (and who would have been entitled to widower's insurance benefits by reason of disability if he had filed for such widower's benefits), shall, upon application for such hospital insurance benefits be deemed to have filed for such widow's or widower's insurance benefits.
 
@@ -82,7 +82,7 @@ For entitlement to hospital insurance benefits in the case of certain uninsured 
 
 #### (i) Continuing eligibility of certain terminated individuals
 
-For purposes of this section, each person whose monthly insurance benefit for any monthis terminated or is otherwise not payable solely by reason of paragraph (1) or (7) of section 425(c) of this title shall be treated as entitled to such benefit for such month.
+For purposes of this section, each person whose monthly insurance benefit for any month is terminated or is otherwise not payable solely by reason of paragraph (1) or (7) of section 425(c) <sup>2</sup> of this title shall be treated as entitled to such benefit for such month.
 
 (Aug. 14, 1935, ch. 531, title II, §226, as added July 30, 1965, Pub. L. 89–97, title I, §101, 79 Stat. 290; amended Jan. 2, 1968, Pub. L. 90–248, title I, §129(c)(1), 81 Stat. 847; Oct. 30, 1972, Pub. L. 92–603, title II, §§201(b), 299I, 86 Stat. 1371, 1463; July 6, 1973, Pub. L. 93–58, §3, 87 Stat. 142; Dec. 31, 1973, Pub. L. 93–233, §18(f), 87 Stat. 969; Oct. 16, 1974, Pub. L. 93–445, title III, §305, 88 Stat. 1358; Dec. 20, 1977, Pub. L. 95–216, title III, §§332(a)(3), 334(d)(4)(B), 91 Stat. 1543, 1546; June 13, 1978, Pub. L. 95–292, §§1(b), 3, 92 Stat. 308, 315 ; June 9, 1980, Pub. L. 96–265, title I, §§103(a)(1), (b), 104(a), 94 Stat. 444; Oct. 19, 1980, Pub. L. 96–473, §2(a), 94 Stat. 2263; Dec. 5, 1980, Pub. L. 96–499, title IX, §930(q), 94 Stat. 2633; Aug. 13, 1981, Pub. L. 97–35, title XXII, §2203(e), 95 Stat. 837; Sept. 3, 1982, Pub. L. 97–248, title II, §278(b)(2)(A), (B), (4), 96 Stat. 560, 561; Apr. 20, 1983, Pub. L. 98–21, title I, §131(a)(3)(H), (b)(3)(G), title III, §309(q)(1), 97 Stat. 93, 117; July 18, 1984, Pub. L. 98–369, div. B, title VI, §2663(a)(17), 98 Stat. 1165; Apr. 7, 1986, Pub. L. 99–272, title XIII, §13205(b)(2)(A), (C)(ii), 100 Stat. 317; Dec. 22, 1987, Pub. L. 100–203, title IV, §4033(a), formerly §4033(a)(1), title IX, §9010(e)(3), 101 Stat. 1330–77, 1330–294, renumbered July 1, 1988, Pub. L. 100–360, title IV, §411(e)(2), 102 Stat. 775; July 1, 1988, Pub. L. 100–360, title IV, §411(n)(1), 102 Stat. 807; Oct. 13, 1988, Pub. L. 100–485, title VI, §608(f)(5), 102 Stat. 2424; Nov. 5, 1990, Pub. L. 101–508, title V, §5103(c)(2)(C), 104 Stat. 1388–252; Aug. 15, 1994, Pub. L. 103–296, title II, §201(a)(3)(D)(i), 108 Stat. 1497.)
 
@@ -91,6 +91,8 @@ For purposes of this section, each person whose monthly insurance benefit for an
 Parts A and C of subchapter XVIII of this chapter, referred to in text, are classified to section 1395c et seq. and 1395x et seq., respectively, of this title.
 
 Section 212 of Public Law 93–66, referred to in subsec. (e)(1)(B), is section 212 of Pub. L. 93–66 which is set out as a note under section 1382 of this title.
+
+Section 425(c) of this title, referred to in subsec. (i), was repealed by Pub. L. 104–121, title I, §105(a)(4), Mar. 29, 1996, 110 Stat. 853.
 
 #### Amendments
 
@@ -124,7 +126,7 @@ Subsec. (b). Pub. L. 97–248, §278(b)(2)(B), in par. (2)(B) inserted a comma a
 
 Subsecs. (g), (h). Pub. L. 97–248, §278(b)(4), added subsec. (g) and redesignated former subsec. (g) as (h).
 
-1981—Subsec. (a)(2). Pub. L. 97–35 substituted “would be entitled” for “or would be entitled” and inserted “, or would be entitled to such benefits but for the failure of another individual, who meets all the criteria of entitlement to monthly insurance benefits, to meet such criteria throughout a month,”.
+1981—Subsec. (a)(2). Pub. L. 97–35 substituted “would be entitled” for “or would be entitled” and inserted “, or would be entitled to such benefits but for the failure of another individual, who meets all the criteria of entitlement to monthly insurance benefits, to meet such criteria throughout a month,”.
 
 1980—Subsec. (a)(2). Pub. L. 96–473 inserted provisions relating to persons who would be entitled to benefits but for enumerated exceptions.
 
@@ -136,7 +138,7 @@ Subsec. (c)(1). Pub. L. 96–499 substituted “and home health services” for 
 
 Subsecs. (f), (g). Pub. L. 96–265, §103(b), added subsec. (f) and redesignated former subsec. (f) as (g).
 
-1978—Subsec. (a). Pub. L. 95–292, §3(a), substituted “condition specified in paragraph (1), beginning with the first month after June 1966 for which he meets the conditions specified in paragraphs (1) and (2)” for “conditions specified in subparagraph (B), beginning withthe first month after June 1966 for which he meets the conditions specified in subparagraphs (A) and (B)”.
+1978—Subsec. (a). Pub. L. 95–292, §3(a), substituted “condition specified in paragraph (1), beginning with the first month after June 1966 for which he meets the conditions specified in paragraphs (1) and (2)” for “conditions specified in subparagraph (B), beginning with the first month after June 1966 for which he meets the conditions specified in subparagraphs (A) and (B)”.
 
 Subsec. (e). Pub. L. 95–292, §§1(b)(1), (2), 3(b), redesignated subsec. (h) as (e) and, in subsec. (e) as so redesignated, corrected a technical error resulting from the 1973 amendment of pars. (2) and (3) by Pub. L. 93–233 under which a reference to subsec. (b) of this section had been inserted without the required parentheses. Former subsec. (e), relating to Medicare eligibility of persons medically determined to have chronic renal disease requiring hemodialysis or renal transplantation, was struck out. See section 426–1 of this title.
 
@@ -204,7 +206,7 @@ Section 4033(b), formerly section 4033(a)(2) of Pub. L. 100–203, as renumbered
 
 &emsp;“(2) The amendment made by subsection (a) shall not apply so as to include (for the purposes described in section 226(f) of the Social Security Act \[subsec. (f) of this section\]) monthly benefits paid for any month in a previous period (described in that section) that terminated before the end of the 60-day period described in paragraph (1).”
 
-Amendment by section 9010(e)(3) of Pub. L. 100–203 effective Jan. 1, 1988, and applicable with respect to individuals entitled to benefits under specific provisions of sections 402 and 423 of this title for any month after December 1987, and individuals entitled to benefits payable under specific provisions of sections 402 and 423 of this title for any month before January 1988 and with respect to whom the 15-month period described in the applicable provision amended by section 9010 of Pub. L. 100–203 has not elapsed as of Jan. 1, 1988, see section9010(f) of Pub. L. 100–203, set out as a note under section 402 of this title.
+Amendment by section 9010(e)(3) of Pub. L. 100–203 effective Jan. 1, 1988, and applicable with respect to individuals entitled to benefits under specific provisions of sections 402 and 423 of this title for any month after December 1987, and individuals entitled to benefits payable under specific provisions of sections 402 and 423 of this title for any month before January 1988 and with respect to whom the 15-month period described in the applicable provision amended by section 9010 of Pub. L. 100–203 has not elapsed as of Jan. 1, 1988, see section 9010(f) of Pub. L. 100–203, set out as a note under section 402 of this title.
 
 #### Effective Date of 1986 Amendment
 
@@ -220,7 +222,7 @@ Amendment by section 131(a)(3)(H), (b)(3)(G) of Pub. L. 98–21 effective with r
 
 Amendment by section 309(q)(1) of Pub. L. 98–21 applicable only with respect to monthly payments payable under this subchapter for months after April 1983, see section 310 of Pub. L. 98–21, set out as a note under section 402 of this title.
 
-Pub. L. 97–448, title III, §309(c)(1), Jan. 12, 1983, 96 Stat. 2410, provided that: “Any amendment to the Tax Equity and Fiscal Responsibility Act of 1982 \[Pub. L. 97–248, Sept. 3, 1982, 96 Stat. 324\] made by this section \[amending sections 1395x, 1395cc, and 1396a of this title and amending provisions set out as notes under this section and sections 1320c, 1395b–1, 1395f, 1395u, 1395ww, 1395xx, and 1396<i>o</i> of this title\] shall be effective as if it had been originally included in the provision of such Act to which such amendment relates.”
+Pub. L. 97–448, title III, §309(c)(1), Jan. 12, 1983, 96 Stat. 2410, provided that: “Any amendment to the Tax Equity and Fiscal Responsibility Act of 1982 \[Pub. L. 97–248, Sept. 3, 1982, 96 Stat. 324\] made by this section\[amending sections 1395x, 1395cc, and 1396a of this title and amending provisions set out as notes under this section and sections 1320c, 1395b–1, 1395f, 1395u, 1395ww, 1395xx, and 1396<i>o</i> of this title\] shall be effective as if it had been originally included in the provision of such Act to which such amendment relates.”
 
 #### Effective Date of 1982 Amendment; Transitional Provisions
 
@@ -323,4 +325,6 @@ Section 4(b) of Pub. L. 93–58 provided that: “Any child (1) whose entitlemen
 This section is referred to in sections 401, 410, 418, 426–1, 426a, 433, 1320b–1, 1395c, 1395f, 1395h, 1395i–1, 1395i–2, 1395i–2a, 1395p, 1395u, 1395y, 1395ff of this title; title 10 section 1086; title 45 sections 231f, 231r.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “subchapter III of chapter 83”.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

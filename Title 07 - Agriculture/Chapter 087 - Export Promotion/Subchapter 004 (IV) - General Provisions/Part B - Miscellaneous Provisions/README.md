@@ -11,3 +11,5 @@ Part B—Miscellaneous Provisions
 - [&sect; 05674 - Trade consultations concerning imports](%C2%A7%2005674%20-%20Trade%20consultations%20concerning%20imports.md)
 - [&sect; 05675 - Technical assistance in trade negotiations](%C2%A7%2005675%20-%20Technical%20assistance%20in%20trade%20negotiations.md)
 - [&sect; 05676 - Limitation on use of certain export promotion programs](%C2%A7%2005676%20-%20Limitation%20on%20use%20of%20certain%20export%20promotion%20programs.md)
+- [&sect; 05677 - Trade compensation and assistance programs](%C2%A7%2005677%20-%20Trade%20compensation%20and%20assistance%20programs.md)
+- [&sect; 05678 - Edward R. Madigan United States Agricultural Export Excellence Award](%C2%A7%2005678%20-%20Edward%20R.%20Madigan%20United%20States%20Agricultural%20Export%20Excellence%20Award.md)

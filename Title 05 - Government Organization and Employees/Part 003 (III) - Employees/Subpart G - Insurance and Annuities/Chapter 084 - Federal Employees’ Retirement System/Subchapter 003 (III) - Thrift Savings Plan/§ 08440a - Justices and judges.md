@@ -16,9 +16,9 @@
 
 (6) The provisions of section 8351(b)(5) of this title shall govern the rights of spouses of justices or judges contributing to the Thrift Savings Fund under this section.
 
-(7) Notwithstanding paragraphs (4) and (5), if any justice or judge retires under subsection (a) or (b) of section 371 or section 372(a) of title 28, or resigns without having met the age and service requirements set forth under section 371(c) of title 28, and such justice's or judge's nonforfeitable account balance is $3,500 or less, the Executive Director shall pay the nonforfeitable account balance to the participant in a single payment unless the justice or judge elects, at such time and otherwise in such manner as the Executive Director prescribes, one of the options available under section 8433(b).
+(7) Notwithstanding paragraphs (4) and (5), if any justice or judge retires under subsection (a) or (b) of section 371 or section 372(a) of title 28, or resigns without having met the age and service requirements set forth under section 371(c) of title 28, and such justice's or judge's nonforfeitable account balance is less than an amount that the Executive Director prescribes by regulation, the Executive Director shall pay the nonforfeitable account balance to the participant in a single payment.
 
-(Added Pub. L. 100–654, title IV, §401(a), Nov. 14, 1988, 102 Stat. 3847; amended Pub. L. 101–335, §§3(b)(2), 6(b)(2), July 17, 1990, 104 Stat. 320, 323; Pub. L. 102–378, §2(70), Oct. 2, 1992, 106 Stat. 1355; Pub. L. 103–226, §9(e), (i)(17), Mar. 30, 1994, 108 Stat. 120, 122.)
+(Added Pub. L. 100–654, title IV, §401(a), Nov. 14, 1988, 102 Stat. 3847; amended Pub. L. 101–335, §§3(b)(2), 6(b)(2), July 17, 1990, 104 Stat. 320, 323; Pub. L. 102–378, §2(70), Oct. 2, 1992, 106 Stat. 1355; Pub. L. 103–226, §9(e), (i)(17), Mar. 30, 1994, 108 Stat. 120, 122; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §659 \[title II, §205(a)\]\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–372, 3009–377.)
 
 #### References in Text
 
@@ -30,7 +30,9 @@ Another section 8440a was renumbered section 8440b of this title.
 
 #### Amendments
 
-<b>1994</b>—Subsec. (b)(5). Pub. L. 103–226, §9(e)(1), substituted “Section 8433(b)” for “Section 8433(d)”.
+1996—Subsec. (b)(7). Pub. L. 104–208 substituted “less than an amount that the Executive Director prescribes by regulation” for “$3,500 or less” and struck out “unless the justice or judge elects, at such time and otherwise in such manner as the Executive Director prescribes, one of the options available under section 8433(b)” before period at end.
+
+1994—Subsec. (b)(5). Pub. L. 103–226, §9(e)(1), substituted “Section 8433(b)” for “Section 8433(d)”.
 
 Subsec. (b)(6). Pub. L. 103–226, §9(i)(17), substituted “section 8351(b)(5)” for “section 8351(b)(7)”.
 
@@ -40,11 +42,15 @@ Subsec. (b)(7), (8). Pub. L. 103–226, §9(e)(2), added par. (7) and struck out
 
 “(8) Notwithstanding paragraph (4), if any justice or judge retires under subsection (a) or (b) of section 371 or section 372(a) of title 28, and such justice's or judge's nonforfeitable account balance is $3,500 or less, the Executive Director shall pay the nonforfeitable account balance to the participant in a single payment unless the justice or judge elects, at such time and otherwise in such manner as the Executive Director prescribes, one of the options available under section 8433(b).”
 
-<b>1992</b>—Subsec. (b)(1). Pub. L. 102–378 substituted “this subchapter and subchapter VII” for “subchapters III and VII of chapter 84 of this title”.
+1992—Subsec. (b)(1). Pub. L. 102–378 substituted “this subchapter and subchapter VII” for “subchapters III and VII of chapter 84 of this title”.
 
-<b>1990</b>—Subsec. (b)(6). Pub. L. 101–335, §3(b)(2), redesignated par. (7) as (6) and struck out former par. (6) which read as follows: “Sums contributed under this section and earnings attributable to such sums may be invested and reinvested only in the Government Securities Investment Fund established under section 8438(b)(1)(A) of this title.”
+1990—Subsec. (b)(6). Pub. L. 101–335, §3(b)(2), redesignated par. (7) as (6) and struck out former par. (6) which read as follows: “Sums contributed under this section and earnings attributable to such sums may be invested and reinvested only in the Government Securities Investment Fund established under section 8438(b)(1)(A) of this title.”
 
 Subsec. (b)(7), (8). Pub. L. 101–335, §6(b)(2), added pars. (7) and (8). Former par. (7) redesignated (6).
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–208 effective Sept. 30, 1996, and withdrawals and elections as provided under such amendment to be made at earliest practicable date as determined by Executive Director in regulations, see section 101(f) \[title VI, §659 \[title II, §207\]\] of Pub. L. 104–208, set out as a note under section 5545a of this title.
 
 #### Effective Date of 1994 Amendment
 

@@ -40,9 +40,17 @@ Definitions.—In this section:
 
 &emsp;&emsp;(A) a citizen of the United States; or
 
-&emsp;&emsp;(B) a person who, though not a citizen of the United States, owes permanent allegiance to the United States (as defined in section 101(a)(22) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(22))).
+&emsp;&emsp;(B) a person who, though not a citizen of the United States, owes permanent allegiance to the United States, as determined in accordance with the Immigration and Nationality Act (8 U.S.C. 1101 et seq.).
 
 &emsp;(3) The term “dependent” has the meaning given such term in subparagraphs (A), (D), (E), and (I) of section 1072(2) of this title.
 
-(Added Pub. L. 103–337, div. A, title VI, §653(a), Oct. 5, 1994, 108 Stat. 2794.)
+(Added Pub. L. 103–337, div. A, title VI, §653(a), Oct. 5, 1994, 108 Stat. 2794; amended Pub. L. 104–106, div. A, title XV, §1503(a)(9), Feb. 10, 1996, 110 Stat. 511.)
+
+#### References in Text
+
+The Immigration and Nationality Act, referred to in subsec. (f)(2)(B), is act June 27, 1952, ch. 477, 66 Stat. 163, as amended, which is classified principally to chapter 12 (§1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 8 and Tables.
+
+#### Amendments
+
+1996—Subsec. (f)(2)(B). Pub. L. 104–106 substituted “, as determined in accordance with the Immigration and Nationality Act (8 U.S.C. 1101 et seq.)” for “(as defined in section 101(a)(22) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(22)))”.
 

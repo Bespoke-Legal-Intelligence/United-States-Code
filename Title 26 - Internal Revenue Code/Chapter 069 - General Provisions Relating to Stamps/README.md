@@ -22,6 +22,8 @@
 
 This chapter is referred to in section 6422 of this title.
 
+<i><sup>1</sup></i><i> So in original. Two subpars. (U) have been enacted.</i>
+
 <i><sup>1</sup></i><i> Section catchline amended by Pub. L. 90–618 without corresponding amendment of analysis.</i>
 
 

@@ -16,15 +16,11 @@
 
 (b) Designations and changes of designation of beneficiaries under subsection (a)(1) are subject to regulations to be prescribed by the Secretary concerned. So far as practicable, these regulations shall be uniform for the uniformed services.
 
-(c) Under such regulations as the Comptroller General may prescribe, payments under subsection (a) shall be made by the military department concerned or the Department of Transportation, as the case may be. Payment under clause (6) of subsection (a) shall be made—
-
-&emsp;(1) upon settlement by the General Accounting Office; or
-
-&emsp;(2) as otherwise authorized by the Comptroller General.
+(c) Payments under subsection (a) shall be made by the Secretary of Defense.
 
 (d) A payment under this section bars recovery by any other person of the amount paid.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 155; Sept. 2, 1958, Pub. L. 85–861, §1(56), 72 Stat. 1461; July 12, 1960, Pub. L. 86–641, 74 Stat. 473; Nov. 2, 1966, Pub. L. 89–718, §8(a), 80 Stat. 1117; Dec. 12, 1980, Pub. L. 96–513, title V, §511(97), 94 Stat. 2928; Nov. 30, 1993, Pub. L. 103–160, div. A, title XI, §1182(a)(11), 107 Stat. 1771.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 155; Sept. 2, 1958, Pub. L. 85–861, §1(56), 72 Stat. 1461; July 12, 1960, Pub. L. 86–641, 74 Stat. 473; Nov. 2, 1966, Pub. L. 89–718, §8(a), 80 Stat. 1117; Dec. 12, 1980, Pub. L. 96–513, title V, §511(97), 94 Stat. 2928; Nov. 30, 1993, Pub. L. 103–160, div. A, title XI, §1182(a)(11), 107 Stat. 1771; Oct. 19, 1996, Pub. L. 104–316, title II, §202(f), 110 Stat. 3842.)
 
 Historical and Revision Notes<br>1956
 
@@ -37,6 +33,8 @@ Act
 <i>Source (Statutes at Large)</i>
 
 2771(a)
+
+&nbsp;
 
 2771(b)
 
@@ -72,9 +70,11 @@ Act
 
 2771(a)
 
-2771(b)
+&nbsp;
 
-2771(c)
+&nbsp;
+
+2771(b)
 
 37:361.
 
@@ -84,11 +84,15 @@ Act
 
 37:364 (less proviso).
 
-37:363 (less last sentence).
-
 July 12, 1955, ch. 328, §§1–3, 4 (less proviso), 5 (first sentence), 69 Stat. 295, 296.
 
+2771(c)
+
+&nbsp;
+
 2771(d)
+
+37:363 (less last sentence).
 
 37:363 (last sentence).
 
@@ -101,6 +105,12 @@ In subsection (b), the words “are subject to” are substituted for the words 
 In subsection (c), the word “Under” is substituted for the words “Subject to”. The words “rules and” are omitted as surplusage.
 
 #### Amendments
+
+1996—Subsec. (c). Pub. L. 104–316 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “Under such regulations as the Comptroller General may prescribe, payments under subsection (a) shall be made by the military department concerned or the Department of Transportation, as the case may be. Payment under clause (6) of subsection (a) shall be made—
+
+&emsp;“(1) upon settlement by the General Accounting Office; or
+
+&emsp;“(2) as otherwise authorized by the Comptroller General.”
 
 1993—Subsec. (a). Pub. L. 103–160, §1182(a)(11)(A), struck out “who dies after December 31, 1955” after “armed forces” in introductory provisions.
 
@@ -129,8 +139,6 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 The directory language of, but not the amendment made by, Pub. L. 89–718, §8(a), Nov. 2, 1966, 80 Stat. 1117, cited as a credit to this section, was repealed by Pub. L. 97–295, §6(b), Oct. 12, 1982, 96 Stat. 1314.
 
 #### Transfer of Functions
-
-Functions of Comptroller General under this section transferred, effective June 30, 1996, to Director of Office of Management and Budget, see section 211 of Pub. L. 104–53, set out as a note under section 501 of Title 31, Money and Finance.
 
 For transfer of functions of Public Health Service, see note set out under section 802 of this title.
 

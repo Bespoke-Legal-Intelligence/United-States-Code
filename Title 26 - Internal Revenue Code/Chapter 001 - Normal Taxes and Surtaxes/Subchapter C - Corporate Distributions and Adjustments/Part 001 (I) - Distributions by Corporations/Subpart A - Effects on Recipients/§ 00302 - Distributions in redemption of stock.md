@@ -114,7 +114,7 @@ Except as otherwise provided in this subchapter, if a corporation redeems its st
 
 #### (2) Termination of business
 
-&emsp;The distributions which meet the requirements of paragraph (1)(A) shall include (butshall not be limited to) a distribution which meets the requirements of subparagraphs (A) and (B) of this paragraph:
+&emsp;The distributions which meet the requirements of paragraph (1)(A) shall include (but shall not be limited to) a distribution which meets the requirements of subparagraphs (A) and (B) of this paragraph:
 
 &emsp;&emsp;(A) The distribution is attributable to the distributing corporation's ceasing to conduct, or consists of the assets of, a qualified trade or business.
 
@@ -220,7 +220,7 @@ Extension of time for adopting plan where acquisition subject to federal regulat
 
 &emsp;&emsp;“(iii)
 
-Special rule where offer subject to approval by foreign regulatory body.—In any casewhere an offer to acquire stock in a corporation was subject to intervention by a foreign regulatory body and a public announcement of such an offer resulted in the intervention by such foreign regulatory body before July 23, 1982—
+Special rule where offer subject to approval by foreign regulatory body.—In any case where an offer to acquire stock in a corporation was subject to intervention by a foreign regulatory body and a public announcement of such an offer resulted in the intervention by such foreign regulatory body before July 23, 1982—
 
 &emsp;&emsp;&emsp;“(I) such public announcement shall be treated as a tender offer, and
 
@@ -278,5 +278,5 @@ Redemption through use of related corporations, see section 304 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 48, 301, 304, 306, 312, 318, 341, 562, 857, 1059, 1246, 1248, 1368, 1445 of this title.
+This section is referred to in sections 48, 301, 304, 306, 312, 318, 341, 562, 857, 1059, 1246, 1368, 1445 of this title.
 

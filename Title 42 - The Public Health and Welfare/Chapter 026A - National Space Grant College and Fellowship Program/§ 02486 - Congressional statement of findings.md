@@ -4,7 +4,7 @@ The Congress finds that—
 
 &emsp;(1) the vitality of the Nation and the quality of life of the citizens of the Nation depend increasingly on the understanding, assessment, development, and utilization of space resources;
 
-&emsp;(2) research and development of space science, space technology, and space commercialization will contribute to the quality oflife, national security, and the enhancement of commerce;
+&emsp;(2) research and development of space science, space technology, and space commercialization will contribute to the quality of life, national security, and the enhancement of commerce;
 
 &emsp;(3) the understanding and development of the space frontiers require a broad commitment and an intense involvement on the part of the Federal Government in partnership with State and local governments, private industry, universities, organizations, and individuals concerned with the exploration and utilization of space;
 

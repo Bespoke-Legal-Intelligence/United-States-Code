@@ -48,7 +48,7 @@ The Secretary may make grants to, or enter into contracts with, any eligible app
 
 #### (c) Eligible applicants
 
-Applicants eligible to obtain funds under subsection (a) of this section shall include local health departments, nonprofit organizations and public or nonprofit colleges, universities, or schools of, or programs that specialize in, nursing, mental health practice, optometry, publichealth, dentistry, osteopathy, physicians assistants, pharmacy, podiatry, medicine, chiropractic, and allied health professions if such applicants submit applications approved by the Secretary under subsection (d) of this section. Applicants eligible to obtain funds under subsection (a) of this section shall not include for-profit entities, either directly or through a subcontract or subgrant.
+Applicants eligible to obtain funds under subsection (a) of this section shall include local health departments, nonprofit organizations and public or nonprofit colleges, universities, or schools of, or programs that specialize in, nursing, mental health practice, optometry, public health, dentistry, osteopathy, physicians assistants, pharmacy, podiatry, medicine, chiropractic, and allied health professions if such applicants submit applications approved by the Secretary under subsection (d) of this section. Applicants eligible to obtain funds under subsection (a) of this section shall not include for-profit entities, either directly or through a subcontract or subgrant.
 
 #### (d) Applications
 
@@ -108,7 +108,7 @@ Section 294t, act July 1, 1944, ch. 373, title VII, §751, as added Oct. 12, 197
 
 Section 294u, act July 1, 1944, ch. 373, title VII, §752, as added Oct. 12, 1976, Pub. L. 94–484, title IV, §408(b)(1), 90 Stat. 2284; amended Nov. 10, 1978, Pub. L. 95–626, title I, §113(b), 92 Stat. 3563; Sept. 29, 1979, Pub. L. 96–76, title II, §202(a), (b), 93 Stat. 582, which related to obligated service under contract, was renumbered section 338B of act July 1, 1944, by Pub. L. 97–35 and transferred to section 254m of this title, and subsequently renumbered section 338C of act July 1, 1944, by Pub. L. 100–177.
 
-Section 294v, act July 1, 1944, ch. 373, title VII, §753, as added Oct. 12, 1976, Pub. L. 94–484, title IV, §408(b)(1), 90 Stat. 2285; amended Dec. 17, 1980, Pub. L. 96–538, title IV, §403, 94 Stat. 3192, which related to private practice, was renumbered section 338C of act July 1, 1944, by Pub.L. 97–35 and transferred to section 254n of this title, and subsequently renumbered section 338D of act July 1, 1944, by Pub. L. 100–177.
+Section 294v, act July 1, 1944, ch. 373, title VII, §753, as added Oct. 12, 1976, Pub. L. 94–484, title IV, §408(b)(1), 90 Stat. 2285; amended Dec. 17, 1980, Pub. L. 96–538, title IV, §403, 94 Stat. 3192, which related to private practice, was renumbered section 338C of act July 1, 1944, by Pub. L. 97–35 and transferred to section 254n of this title, and subsequently renumbered section 338D of act July 1, 1944, by Pub. L. 100–177.
 
 Section 294w, act July 1, 1944, ch. 373, title VII, §754, as added Oct. 12, 1976, Pub. L. 94–484, title IV, §408(b)(1), 90 Stat. 2286; amended Aug. 1, 1977, Pub. L. 95–83, title III, §307(g), 91 Stat. 391, which related to breach of scholarship contract, was renumbered section 338D of act July 1, 1944, by Pub. L. 97–35 and transferred to section 254<i>o</i> of this title, and subsequently renumbered section 338E of act July 1, 1944, by Pub. L. 100–177.
 
@@ -131,4 +131,8 @@ Section 294cc, act July 1, 1944, ch. 373, title VII, §761, as added Nov. 6, 199
 A prior section 761 of act July 1, 1944, ch. 373, title VII, as added Dec. 25, 1970, Pub. L. 91–696, §101, 84 Stat. 2080–1; amended Oct. 17, 1979, Pub. L. 96–88, title III, §301(a)(1), title V, §507, 93 Stat. 677, 692, which provided the Congressional declaration of purpose for former part D of this subchapter, was classified to section 295 of this title, prior to repeal by Pub. L. 99–129, title II, §220(c), Oct. 22, 1985, 99 Stat. 544.
 
 Another prior section 761 of act July 1, 1944, ch. 373, title VII, as added Oct. 31, 1963, Pub. L. 88–164, title I, §101, 77 Stat. 282, which related to authorization of appropriations respecting grants for construction of mental retardation facilities, was classified to section 295 of this title, prior to the general amendment of former part D of this subchapter by section 101 of Pub. L. 91–696.
+
+#### Reference to Community, Migrant, Public Housing, or Homeless Health Center Considered Reference to Health Center
+
+Reference to community health center, migrant health center, public housing health center, or homeless health center considered reference to health center, see section 4(c) of Pub. L. 104–299, set out as a note under section 254b of this title.
 

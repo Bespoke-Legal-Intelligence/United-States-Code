@@ -28,6 +28,8 @@ Feb. 14, 1927, ch. 130; restated May 28, 1928, ch. 816, §1, 45 Stat. 786.
 
 4312(b)
 
+&nbsp;
+
 4312(c)
 
 32:181b (1st 10 and, 30th through 69th, words).
@@ -48,5 +50,5 @@ In subsection (b), the words “contemplated in section 181a of this title” ar
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 4308, 4313 of this title.
+This section is referred to in section 4313 of this title.
 

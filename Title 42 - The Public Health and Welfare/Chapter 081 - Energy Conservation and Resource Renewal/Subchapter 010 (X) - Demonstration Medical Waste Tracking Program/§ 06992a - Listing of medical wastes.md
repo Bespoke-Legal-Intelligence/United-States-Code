@@ -18,7 +18,7 @@ Not later than 6 months after November 1, 1988, the Administrator shall promulga
 
 &emsp;(7) Laboratory wastes from medical, pathological, pharmaceutical, or other research, commercial, or industrial laboratories that were in contact with infectious agents, including slides and cover slips, disposable gloves, laboratory coats, and aprons.
 
-&emsp;(8) Dialysis wastes that were in contact with the blood of patients undergoing hemodialysis, including contaminated disposable equipment and supplies such as tubing, filters, disposable sheets, towels, gloves, aprons, and laboratory coats.
+&emsp;(8) Dialysis wastes that were in contact with the blood of patients undergoing hemodialysis,including contaminated disposable equipment and supplies such as tubing, filters, disposable sheets, towels, gloves, aprons, and laboratory coats.
 
 &emsp;(9) Discarded medical equipment and parts that were in contact with infectious agents.
 
@@ -28,7 +28,7 @@ Not later than 6 months after November 1, 1988, the Administrator shall promulga
 
 #### (b) Exclusions from list
 
-The Administrator may exclude from the list under this section any categories or items described in paragraphs (6) through (10) of subsection (a) of this section which he determinesdo not pose a substantial present or potential hazard to human health or the environment when improperly treated, stored, transported, disposed of, or otherwise managed.
+The Administrator may exclude from the list under this section any categories or items described in paragraphs (6) through (10) of subsection (a) of this section which he determines do not pose a substantial present or potential hazard to human health or the environment when improperly treated, stored, transported, disposed of, or otherwise managed.
 
 (Pub. L. 89–272, title II, §11002, as added Pub. L. 100–582, §2(a), Nov. 1, 1988, 102 Stat. 2951.)
 

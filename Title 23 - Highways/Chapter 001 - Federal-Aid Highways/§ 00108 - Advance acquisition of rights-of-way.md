@@ -4,7 +4,7 @@
 
 (b) Federal participation in the cost of rights-of-way acquired under subsection (a) of this section shall not exceed the Federal pro rata share applicable to the class of funds from which Federal reimbursement is made.
 
-(c)(1) There is hereby established in the Treasury of the United States a revolving fund to be known as the right-of-way revolving fund which shall be administered by the Secretary in carrying out the provisions of this subsection. Sums authorized to be appropriated to the right-of-way revolving fund shall be available for expenditure without regard to the fiscal year for which such sums are authorized.
+(c)(1) There is hereby established in the Treasury of the United States a revolving fund to be known as the right-of-way revolving fund whichshall be administered by the Secretary in carrying out the provisions of this subsection. Sums authorized to be appropriated to the right-of-way revolving fund shall be available for expenditure without regard to the fiscal year for which such sums are authorized.
 
 (2) For the purpose of acquiring rights-of-way for future construction of highways and passenger transit facilities on any Federal-aid system and for making payments for the moving or relocation of persons, businesses, farms, and other existing uses of real property caused by the acquisition of such rights-of-way, in addition to the authority contained in subsection (a) of this section, the Secretary, upon request of a State highway department, is authorized to advance funds, without interest, to the State from amounts available in the right-of-way revolving fund, in accordance with rules and regulations prescribed by the Secretary. Funds so advanced may be used to pay the entire costs of projects for the acquisition of rights-of-way, including the net cost to the State of property management, if any, and related moving and relocation payments.
 
@@ -44,7 +44,7 @@ Terms and conditions.—The Federal share payable of the costs described in para
 
 #### References in Text
 
-The Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970, referred to in subsec. (d)(2)(A), is act Jan. 2, 1971, Pub. L. 91–646, 84 Stat. 1894, as amended, and which is classified principally to chapter 61 (§4601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4601 of Title 42 and Tables.
+The Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970, referred to in subsec. (d)(2)(A), is act Jan. 2, 1971, Pub. L. 91–646, 84 Stat. 1894, as amended, and which is classified principally to chapter 61 (§4601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act tothe Code, see Short Title note set out under section 4601 of Title 42 and Tables.
 
 The Civil Rights Act of 1964, referred to in subsec. (d)(2)(B), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended. Title VI of the Act is classified generally to subchapter V (§2000d et seq.) of chapter 21 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
 

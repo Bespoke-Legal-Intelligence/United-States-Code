@@ -8,7 +8,7 @@
 
 (d) If two or more persons conspire to kill or kidnap any individual designated in subsection (a) of this section and one or more of such persons do any act to effect the object of the conspiracy, each shall be punished (1) by imprisonment for any term of years or for life, or (2) by death or imprisonment for any term of years or for life, if death results to such individual.
 
-(e) Whoever assaults any person designated in subsection (a) of this section shall be fined under this title, or imprisoned not more thanone year, or both; and if the assault involved in <sup>1</sup> the use of a dangerous weapon, or personal injury results, shall be fined under this title, or imprisoned not more than ten years, or both.
+(e) Whoever assaults any person designated in subsection (a) of this section shall be fined under this title, or imprisoned not more than one year, or both; and if the assault involved the use of a dangerous weapon, or personal injury results, shall be fined under this title, or imprisoned not more than ten years, or both.
 
 (f) If Federal investigative or prosecutive jurisdiction is asserted for a violation of this section, such assertion shall suspend the exercise of jurisdiction by a State or local authority, under any applicable State or local law, until Federal action is terminated.
 
@@ -18,15 +18,21 @@
 
 (i) There is extraterritorial jurisdiction over the conduct prohibited by this section.
 
-(Added Pub. L. 91–644, title IV, §15, Jan. 2, 1971, 84 Stat. 1891; amended Pub. L. 97–285, §§1, 2(a), Oct. 6, 1982, 96 Stat. 1219; Pub. L. 99–646, §62, Nov. 10, 1986, 100 Stat. 3614; Pub. L. 100–690, title VII, §7074, Nov. 18, 1988, 102 Stat. 4405; Pub. L. 103–322, title XXXII, §320101(d), title XXXIII, §§330016(1)(K), (L), 330021(1), Sept. 13, 1994, 108 Stat. 2108, 2147, 2150.)
+(Added Pub. L. 91–644, title IV, §15, Jan. 2, 1971, 84 Stat. 1891; amended Pub. L. 97–285, §§1, 2(a), Oct. 6, 1982, 96 Stat. 1219; Pub. L. 99–646, §62, Nov.10, 1986, 100 Stat. 3614; Pub. L. 100–690, title VII, §7074, Nov. 18, 1988, 102 Stat. 4405; Pub. L. 103–322, title XXXII, §320101(d), title XXXIII, §§330016(1)(K), (L), 330021(1), Sept. 13, 1994, 108 Stat. 2108, 2147, 2150; Pub. L. 104–294, title VI, §604(b)(12)(C), (c)(2), Oct. 11, 1996, 110 Stat. 3507, 3509.)
 
 #### Amendments
 
+1996—Subsec. (e). Pub. L. 104–294, §604(c)(2), substituted “involved the use” for “involved in the use”.
+
+Pub. L. 104–294, §604(b)(12)(C), repealed Pub. L. 103–322, §320101(d)(3). See 1994 Amendment note below.
+
 1994—Pub. L. 103–322, §330021(1), substituted “kidnapping” for “kidnaping” in section catchline.
 
-Subsec. (e). Pub. L. 103–322, §320101(d)(4), substituted “imprisoned not more than ten years” for “imprisoned for not more than ten years”.
+Subsec. (e). Pub. L. 103–322, §330016(1)(L), substituted “shall be fined under this title” for “shall be fined not more than $10,000” after “personal injury results,”.
 
-Pub. L. 103–322, §§320101(d)(3), 330016(1)(L), amended subsec. (e) identically, substituting “shall be fined under this title” for “shall be fined not more than $10,000” after “personal injury results,”.
+Pub. L. 103–322, §320101(d)(4), substituted “imprisoned not more than ten years” for “imprisoned for not more than ten years”.
+
+Pub. L. 103–322, §320101(d)(3), which provided for amendment identical to Pub. L. 103–322, §330016(1)(L), above, was repealed by Pub. L. 104–294, §604(b)(12)(C).
 
 Pub. L. 103–322, §320101(d)(2), inserted “the assault involved in the use of a dangerous weapon, or” after “and if”.
 
@@ -44,11 +50,15 @@ Subsec. (a). Pub. L. 97–285, §1(a), expanded coverage of subsec. (a) to cover
 
 Subsecs. (h), (i). Pub. L. 97–285, §1(b), added subsecs. (h) and (i).
 
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–294 effective Sept. 13, 1994, see section 604(d) of Pub. L. 104–294, set out as a note under section 13 of this title.
+
 #### Report to Member of Congress on Investigation Conducted Subsequent to Threat on Member's Life
 
 Pub. L. 95–624, §19, Nov. 9, 1978, 92 Stat. 3466, provided that: “The Federal Bureau of Investigation shall provide a written report to a Member of Congress on any investigation conducted based on a threat on the Member's life under section 351 of title 18 of the United States Code.”
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 209, 2339A, 2516, 3286, 3592 of this title; title 5 section 8112; title 22 section 2709.
+This section is referred to in sections 209, 1956, 2332b, 2339A, 2516, 3286, 3592 of this title; title 5 section 8112; title 22 section 2709.
 

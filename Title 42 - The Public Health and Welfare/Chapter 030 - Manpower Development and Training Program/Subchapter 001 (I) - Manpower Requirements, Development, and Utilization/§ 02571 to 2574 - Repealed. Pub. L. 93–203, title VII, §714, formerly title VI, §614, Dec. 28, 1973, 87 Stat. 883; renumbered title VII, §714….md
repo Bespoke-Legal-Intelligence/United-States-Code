@@ -8,7 +8,7 @@ Section 2572a, Pub. L. 87–415, title I, §103, as added Pub. L. 89–15, §4(a
 
 Section 2572b, Pub. L. 87–415, title I, §104, as added Pub. L. 89–15, §4(a), Apr. 26, 1965, 79 Stat. 76; amended Pub. L. 89–792, §2(a), Nov. 7, 1966, 80 Stat. 1434; Pub. L. 90–636, §1(1), Oct. 24, 1968, 82 Stat. 1352 made provision for labor mobility demonstration projects.
 
-Section 2572c, Pub. L. 87–415, title I, §105, as added Pub. L. 89–15, §4(a), Apr. 26, 1965, 79 Stat. 76; amended Pub. L. 89–792, §2(b), Nov. 7, 1966, 80 Stat. 1434; Pub. L. 90–636, §1(2), Oct. 24, 1968, 82 Stat. 1352, made provision for trainee placement assistance demonstration projects.
+Section 2572c, Pub. L. 87–415, title I, §105, as added Pub. L. 89–15, §4(a), Apr. 26, 1965, 79 Stat. 76; amendedPub. L. 89–792, §2(b), Nov. 7, 1966, 80 Stat. 1434; Pub. L. 90–636, §1(2), Oct. 24, 1968, 82 Stat. 1352, made provision for trainee placement assistance demonstration projects.
 
 Section 2573, Pub. L. 87–415, title I, §106, formerly 103, Mar. 15, 1962, 76 Stat. 25; renumbered §106, Pub. L. 89–15, §4(a), Apr. 26, 1965, 79 Stat. 75; amended Pub. L. 90–636, §2, Oct. 24, 1968, 82 Stat. 1352, made provision for a labor market information and job matching program.
 

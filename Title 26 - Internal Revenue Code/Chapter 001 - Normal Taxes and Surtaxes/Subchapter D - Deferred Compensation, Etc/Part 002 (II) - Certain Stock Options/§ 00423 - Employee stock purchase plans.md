@@ -42,7 +42,7 @@ For purposes of this part, the term “employee stock purchase plan” means a p
 
 &emsp;&emsp;(B) 27 months from the date such option is granted, if the option price is not determinable in the manner described in subparagraph (A)
 
-&emsp;(8) under the terms of the plan, no employee may be granted an option which permits his rights to purchase stock under all such plans of his employer corporation and its parent and subsidiary corporations to accrue at a rate which exceeds $25,000 of fair market value ofsuch stock (determined at the time such option is granted) for each calendar year in which such option is outstanding at any time. For purposes of this paragraph—
+&emsp;(8) under the terms of the plan, no employee may be granted an option which permits his rights to purchase stock under all such plans of his employer corporation and its parent and subsidiary corporations to accrue at a rate which exceeds $25,000 of fair market value of such stock (determined at the time such option is granted) for each calendar year in which such option is outstanding at any time. For purposes of this paragraph—
 
 &emsp;&emsp;(A) the right to purchase stock under an option accrues when the option (or any portion thereof) first becomes exercisable during the calendar year;
 

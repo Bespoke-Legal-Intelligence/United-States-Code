@@ -40,7 +40,7 @@
 
 (5) A hearing may be held in the discretion of the Authority, before a determination is made under this subsection. If a hearing is held, it shall not include the General Counsel as a party.
 
-(6) The Authority shall expedite proceedings under this subsection to the extent practicable and shall issue to the exclusive representativeand to the agency a written decision on the allegation and specific reasons therefore at the earliest practicable date.
+(6) The Authority shall expedite proceedings under this subsection to the extent practicable and shall issue to the exclusive representative and to the agency a written decision on the allegation and specific reasons therefore at the earliest practicable date.
 
 (d)(1) A labor organization which is the exclusive representative of a substantial number of employees, determined in accordance with criteria prescribed by the Authority, shall be granted consultation rights by any agency with respect to any Government-wide rule or regulation issued by the agency effecting any substantive change in any condition of employment. Such consultation rights shall terminate when the labor organization no longer meets the criteria prescribed by the Authority. Any issue relating to a labor organization's eligibility for, or continuation of, such consultation rights shall be subject to determination by the Authority.
 
@@ -60,7 +60,7 @@
 
 #### Partial Suspension of Federal Service Labor-Management Relations
 
-Subsec. (b) of this section suspended with regard to any regulation governing the implementation by the United States Forces, and subsec. (c) of this section suspended with respect to any matter proposed for bargaining which would substantially impair the implementation by the United States Forces, of any treaty or agreement, including any minutes or understandings thereto, between the United States and the Government of the host nation, see section 1(b), (c) of Ex. Ord. No. 12391, Nov. 4, 1982, 47 F.R. 50457, set out as a note under section 7103 of this title.
+Subsec. (b) of this section suspended with regard to any regulation governing the implementation by theUnited States Forces, and subsec. (c) of this section suspended with respect to any matter proposed for bargaining which would substantially impair the implementation by the United States Forces, of any treaty or agreement, including any minutes or understandings thereto, between the United States and the Government of the host nation, see section 1(b), (c) of Ex. Ord. No. 12391, Nov. 4, 1982, 47 F.R. 50457, set out as a note under section 7103 of this title.
 
 #### Section Referred to in Other Sections
 

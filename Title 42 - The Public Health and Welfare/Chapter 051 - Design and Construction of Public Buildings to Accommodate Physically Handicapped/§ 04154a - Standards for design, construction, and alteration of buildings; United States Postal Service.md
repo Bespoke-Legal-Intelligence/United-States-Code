@@ -1,6 +1,6 @@
 ### §4154a. Standards for design, construction, and alteration of buildings; United States Postal Service
 
-The United States Postal Service, in consultation with the Secretary of Health and Human Services, shall prescribe such standards for the design, construction, and alteration of its buildings to insure whenever possible that physically handicapped persons will have ready access to, and use of, such buildings.
+The United States Postal Service, in consultation with the Secretary of Health and HumanServices, shall prescribe such standards for the design, construction, and alteration of its buildings to insure whenever possible that physically handicapped persons will have ready access to, and use of, such buildings.
 
 (Pub. L. 90–480, §4a, as added Pub. L. 94–541, title II, §201(5), Oct. 18, 1976, 90 Stat. 2508; amended Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695.)
 

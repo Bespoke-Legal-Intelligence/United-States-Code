@@ -6,19 +6,11 @@ When the President declares a national emergency, or Congress declares war, the 
 
 #### (b) Presidential orders, rules and regulations; transmittal to Congress
 
-All such significant orders of the President, including Executive orders, and such rules and regulations shall be transmitted to the Congress promptly under means to assure confidentiality where appropriate.
+All such significant orders of the President, including Executive orders, and such rules andregulations shall be transmitted to the Congress promptly under means to assure confidentiality where appropriate.
 
 #### (c) Expenditures during national emergency; Presidential reports to Congress
 
-When the President declares a national emergency or Congress declares war, the President shall transmit to Congress, within ninety days after the end of each six-month period after suchdeclaration, a report on the total expenditures incurred by the United States Government during such six-month period which are directly attributable to the exercise of powers and authorities conferred by such declaration. Not later than ninety days after the termination of each such emergency or war, the President shall transmit a final report on all such expenditures.
+When the President declares a national emergency or Congress declares war, the President shall transmit to Congress, within ninety days after the end of each six-month period after such declaration, a report on the total expenditures incurred by the United States Government during such six-month period which are directly attributable to the exercise of powers and authorities conferred by such declaration. Not later than ninety days after the termination of each such emergency or war, the President shall transmit a final report on all such expenditures.
 
 (Pub. L. 94–412, title IV, §401, Sept. 14, 1976, 90 Stat. 1257.)
-
-### SUBCHAPTER V—APPLICATION TO
-
-### POWERS AND AUTHORITIES OF
-
-### OTHER PROVISIONS OF LAW AND
-
-### ACTIONS TAKEN THEREUNDER
 

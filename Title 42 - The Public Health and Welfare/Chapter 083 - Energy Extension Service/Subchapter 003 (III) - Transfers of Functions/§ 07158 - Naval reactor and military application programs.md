@@ -30,7 +30,7 @@ Sec. 3. The Secretary of the Navy (through the Secretary of Defense) and the Sec
 
 Sec. 4. An officer of the United States Navy appointed as director shall be nominated for the grade of Admiral. A civilian serving as director shall be compensated at a rate to be specified at the time of appointment.
 
-Sec. 5. Within the Department of Energy, the Secretary of Energy shall assign to the director the responsibility of performing the functions of the Division of Naval Reactors transferred to the Department of Energy by Section 309(a) of the Department of Energy Organization Act (42 U.S.C. 7158), including assigned civilian power reactor programs, and any naval nuclear propulsion functions of the Department of Energy, including:
+Sec. 5. Within the Department of Energy, the Secretary of Energy shall assign to the director the responsibility of performing the functions of the Divisionof Naval Reactors transferred to the Department of Energy by Section 309(a) of the Department of Energy Organization Act (42 U.S.C. 7158), including assigned civilian power reactor programs, and any naval nuclear propulsion functions of the Department of Energy, including:
 
 (a) direct supervision over the Bettis and Knolls Atomic Power Laboratories, the Expended Core Facility and naval reactor prototype plants;
 
@@ -48,7 +48,7 @@ Sec. 7. Within the Department of the Navy, the Secretary of the Navy shall assig
 
 (a) research, development, design, procurement, specification, construction, inspection, installation, certification, testing, overhaul, refueling, operating practices and procedures, maintenance, supply support, and ultimate disposition, of naval nuclear propulsion plants, including components thereof, and any special maintenance and service facilities related thereto; and
 
-(b) training programs, including Nuclear Power Schools of the Navy, and assistance and concurrence in the selection, training, qualification, and assignmentof personnel reporting to the director and of Government personnel who supervise, operate, or maintain naval nuclear propulsion plants.
+(b) training programs, including Nuclear Power Schools of the Navy, and assistance and concurrence in the selection, training, qualification, and assignment of personnel reporting to the director and of Government personnel who supervise, operate, or maintain naval nuclear propulsion plants.
 
 Sec. 8. Within the Department of the Navy, the Secretary of the Navy shall assign to the director responsibility within the Navy for:
 

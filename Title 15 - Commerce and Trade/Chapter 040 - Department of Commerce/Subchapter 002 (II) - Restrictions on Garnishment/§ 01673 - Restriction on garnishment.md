@@ -46,7 +46,7 @@ Subsec. (c). Pub. L. 95–30, §501(e)(3), inserted “, and no State (or offic
 
 Amendment by Pub. L. 95–598 effective Oct. 1, 1979, see section 402(a) of Pub. L. 95–598, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
 
-#### Effective Date of 1977 Amendments
+#### Effective Date of 1977 Amendment
 
 Section 501(e)(5) of Pub. L. 95–30 provided that: “The amendments made by this subsection \[amending this section and section 1675 of this title\] shall take effect on the first day of the first calendar month which begins after the date of enactment of this Act \[May 23, 1977\].”
 
@@ -56,5 +56,5 @@ Enforcement of legal obligations to provide child support and make alimony payme
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1675 of this title; title 5 section 5520a; title 28 sections 3002, 3003; title 29 section 1056; title 42 sections 665, 666, 1396g–1.
+This section is referred to in section 1675 of this title; title 5 section 5520a; title 18 section 3613; title 28 sections 3002, 3003; title 29 section 1056; title 42 sections 665, 666, 1396g–1.
 

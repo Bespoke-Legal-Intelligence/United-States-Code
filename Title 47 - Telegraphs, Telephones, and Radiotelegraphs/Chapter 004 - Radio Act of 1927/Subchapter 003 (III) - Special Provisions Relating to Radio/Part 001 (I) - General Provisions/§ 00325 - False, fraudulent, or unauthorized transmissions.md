@@ -36,7 +36,7 @@ No person within the jurisdiction of the United States shall knowingly utter or 
 
 #### (c) Broadcast to foreign countries for rebroadcast to United States; permit
 
-No person shall be permitted to locate, use, or maintain a radio broadcast studio or other place or apparatus from which or whereby sound waves are converted into electrical energy, or mechanical or physical reproduction of sound waves produced, and caused to be transmitted or delivered to a radio station in a foreign country for the purpose of being broadcast from anyradio station there having a power output of sufficient intensity and/or being so located geographically that its emissions may be received consistently in the United States, without first obtaining a permit from the Commission upon proper application therefor.
+No person shall be permitted to locate, use, or maintain a radio broadcast studio or other place or apparatus from which or whereby sound waves are converted into electrical energy, or mechanical or physical reproduction of sound waves produced, and caused to be transmitted or delivered to a radio station in a foreign country for the purpose of being broadcast from any radio station there having a power output of sufficient intensity and/or being so located geographically that its emissions may be received consistently in the United States, without first obtaining a permit from the Commission upon proper application therefor.
 
 #### (d) Application for permit
 
@@ -54,5 +54,5 @@ Section 28 of Pub. L. 102–385 provided that: “Except where otherwise express
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 309, 402, 534 of this title.
+This section is referred to in sections 309, 402, 534, 573 of this title.
 

@@ -1,4 +1,4 @@
-### §879 . Threats against former Presidents and certain other persons protected by the Secret Service
+### §879. Threats against former Presidents and certain other persons protected by the Secret Service
 
 (a) Whoever knowingly and willfully threatens to kill, kidnap, or inflict bodily harm upon—
 
@@ -36,5 +36,5 @@
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3056, 4247 of this title.
+This section is referred to in sections 115, 3056, 4247 of this title.
 

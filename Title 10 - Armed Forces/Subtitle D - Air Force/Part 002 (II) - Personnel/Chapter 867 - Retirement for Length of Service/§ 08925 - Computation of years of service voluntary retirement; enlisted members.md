@@ -2,9 +2,9 @@
 
 (a) For the purpose of determining whether an enlisted member of the Air Force may be retired under section 8914 or 8917 of this title, his years of service are computed by adding all active service in the armed forces.
 
-(b) Time required to be made up under section 972 of this title may not be counted in computing years of service under subsection (a).
+(b) Time required to be made up under section 972(a) of this title may not be counted in computing years of service under subsection (a).
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 552; Sept. 2, 1958, Pub. L. 85–861, §1(195), 72 Stat. 1540; Sept. 8,1980, Pub. L. 96–343, §9(b)(2), 94 Stat. 1129; July 1, 1986, Pub. L. 99–348, title II, §204(c), 100 Stat. 698; Nov. 29, 1989, Pub. L. 101–189, div. A, title VI, §652(a)(6), 103 Stat. 1461; Oct. 5, 1994, Pub. L. 103–337, div. A, title VI, §635(c)(1), 108 Stat. 2789.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 552; Sept. 2, 1958, Pub. L. 85–861, §1(195), 72 Stat. 1540; Sept. 8, 1980, Pub. L. 96–343, §9(b)(2), 94 Stat. 1129; July 1, 1986, Pub. L. 99–348, title II, §204(c), 100 Stat. 698; Nov. 29, 1989, Pub. L. 101–189, div. A, title VI, §652(a)(6), 103 Stat. 1461; Oct. 5, 1994, Pub. L. 103–337, div. A, title VI, §635(c)(1), 108 Stat. 2789; Feb. 10, 1996, Pub. L. 104–106, div. A, title V, §561(d)(4)(A), 110 Stat. 323.)
 
 Historical and Revision Notes<br>1956
 
@@ -17,6 +17,8 @@ Act
 <i>Source (Statutes at Large)</i>
 
 8925(a)
+
+&nbsp;
 
 8925(b)
 
@@ -54,6 +56,8 @@ The amendment reflects the repeal of section 8638 of this title and the enactmen
 
 #### Amendments
 
+1996—Subsec. (b). Pub. L. 104–106 substituted “section 972(a)” for “section 972”.
+
 1994—Subsec. (a). Pub. L. 103–337, §635(c)(1)(A), struck out “and of computing his retired pay under section 8991 of this title,” after “8917 of this title,”.
 
 Subsec. (c). Pub. L. 103–337, §635(c)(1)(B), struck out subsec. (c) which read as follows: “In determining a member's years of service under subsection (a) for the purpose of computing the member's retired pay under section 8991 of this title—
@@ -71,6 +75,10 @@ Subsec. (c). Pub. L. 103–337, §635(c)(1)(B), struck out subsec. (c) which rea
 Subsec. (a). Pub. L. 96–343, §9(b)(2)(A), substituted “an enlisted” for “a regular enlisted”.
 
 1958—Subsec. (b). Pub. L. 85–861 substituted “section 972 of this title” for “section 8638 of this title”.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–106 effective Feb. 10, 1996, and applicable to any period of time covered by section 972 of this title that occurs after that date, see section 561(e) of Pub. L. 104–106, set out as a note under section 972 of this title.
 
 #### Effective Date of 1994 Amendment
 

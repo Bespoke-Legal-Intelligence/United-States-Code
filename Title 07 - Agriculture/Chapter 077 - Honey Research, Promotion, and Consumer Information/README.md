@@ -54,7 +54,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in section 1446h of this title.
+This chapter is referred to in section 7401 of this title.
 
 
 ---

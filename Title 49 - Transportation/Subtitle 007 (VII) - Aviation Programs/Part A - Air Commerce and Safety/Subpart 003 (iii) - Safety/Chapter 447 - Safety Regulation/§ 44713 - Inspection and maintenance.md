@@ -30,11 +30,37 @@ Modifications in System.—(1) The Administrator of the Federal Aviation Adminis
 
 (2) The Administrator of the Federal Aviation Administration shall prescribe regulations to carry out paragraph (1) of this subsection and provide a written explanation of how the regulations address each of the deficiencies and abuses described in paragraph (1). In prescribing the regulations, the Administrator of the Federal Aviation Administration shall consult with the Administrator of Drug Enforcement, the Commissioner of Customs, other law enforcement officials of the United States Government, representatives of State and local law enforcement officials, representatives of the general aviation aircraft industry, representatives of users of general aviation aircraft, and other interested persons.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1194.)
+(e)
+
+Automated Surveillance Targeting Systems.—
+
+&emsp;(1)
+
+In general.—The Administrator shall give high priority to developing and deploying a fully enhanced safety performance analysis system that includes automated surveillance to assist the Administrator in prioritizing and targeting surveillance and inspection activities of the Federal Aviation Administration.
+
+&emsp;(2)
+
+Deadlines for deployment.—
+
+&emsp;&emsp;(A)
+
+Initial phase.—The initial phase of the operational deployment of the system developed under this subsection shall begin not later than December 31, 1997.
+
+&emsp;&emsp;(B)
+
+Final phase.—The final phase of field deployment of the system developed under this subsection shall begin not later than December 31, 1999. By that date, all principal operations and maintenance inspectors of the Administration, and appropriate supervisors and analysts of the Administration shall have been provided access to the necessary information and resources to carry out the system.
+
+&emsp;(3)
+
+Integration of information.—In developing the system under this section, the Administration shall consider the near-term integration of accident and incident data into the safety performance analysis system under this subsection.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1194; Pub. L. 104–264, title IV, §407(b), Oct. 9, 1996, 110 Stat. 3258.)
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -98,7 +124,15 @@ In subsection (d)(1), before clause (A), the words “not used to provide air tr
 
 In subsection (d)(2), the words “Not later than September 18, 1989” and “final” are omitted as obsolete. The words “Administrator of Drug Enforcement” are substituted for “Drug Enforcement Administration of the Department of Justice” because of section 5(a) of Reorganization Plan No. 2 of 1973 (eff. July 1, 1973, 87 Stat. 1092). The words “Commissioner of Customs” are substituted for “United States Customs Service” because of 19:2071.
 
+#### Amendments
+
+1996—Subsec. (e). Pub. L. 104–264 added subsec. (e).
+
+#### Effective Date of 1996 Amendment
+
+Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
+
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 106, 44701, 44711, 45302, 46301, 46310, 46316, 47531 of this title.
+This section is referred to in sections 106, 44701, 44711, 45302, 46310, 47531 of this title.
 

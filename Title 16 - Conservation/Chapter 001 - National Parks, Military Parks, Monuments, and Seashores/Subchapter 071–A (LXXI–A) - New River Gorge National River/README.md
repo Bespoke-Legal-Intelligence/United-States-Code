@@ -20,3 +20,5 @@
 - [&sect; 00460m&#8211;27 - Improvement of access at Cunard](%C2%A7%2000460m%E2%80%9327%20-%20Improvement%20of%20access%20at%20Cunard.md)
 - [&sect; 00460m&#8211;28 - Flow management](%C2%A7%2000460m%E2%80%9328%20-%20Flow%20management.md)
 - [&sect; 00460m&#8211;29 - Glade Creek visitor facility](%C2%A7%2000460m%E2%80%9329%20-%20Glade%20Creek%20visitor%20facility.md)
+- [&sect; 00460m&#8211;29a - New River Gorge and Gauley River Visitor Center](%C2%A7%2000460m%E2%80%9329a%20-%20New%20River%20Gorge%20and%20Gauley%20River%20Visitor%20Center.md)
+- [&sect; 00460m&#8211;30 - Applicable provisions of other law](%C2%A7%2000460m%E2%80%9330%20-%20Applicable%20provisions%20of%20other%20law.md)

@@ -42,9 +42,25 @@ There is hereby imposed on all wines (including imitation, substandard, or artif
 
 &emsp;Any deduction under subtitle A with respect to any tax against which a credit is allowed under this subsection shall only be for the amount of such tax as reduced by such credit.
 
-#### (6) Regulations
+#### (6) Credit for transferee in bond
 
-&emsp;The Secretary may prescribe such regulations as may be necessary to prevent the credit provided in this subsection from benefiting any person who produces more than 250,000 wine gallons of wine during a calendar year and to assure proper reduction of such credit for persons producing more than 150,000 wine gallons of wine during a calendar year.
+&emsp;If—
+
+&emsp;&emsp;(A) wine produced by any person would be eligible for any credit under paragraph (1) if removed by such person during the calendar year,
+
+&emsp;&emsp;(B) wine produced by such person is removed during such calendar year by any other person (hereafter in this paragraph referred to as the “transferee”) to whom such wine was transferred in bond and who is liable for the tax imposed by this section with respect to such wine, and
+
+&emsp;&emsp;(C) such producer holds title to such wine at the time of its removal and provides to the transferee such information as is necessary to properly determine the transferee's credit under this paragraph,
+
+> &emsp;then, the transferee (and not the producer) shall be allowed the credit under paragraph (1) which would be allowed to the producer if the wine removed by the transferee had been removed by the producer on that date.
+
+#### (7) Regulations
+
+&emsp;The Secretary may prescribe such regulations as may be necessary to carry out the purposes of this subsection, including regulations—
+
+&emsp;&emsp;(A) to prevent the credit provided in this subsection from benefiting any person who produces more than 250,000 wine gallons of wine during a calendar year, and
+
+&emsp;&emsp;(B) to assure proper reduction of such credit for persons producing more than 150,000 wine gallons of wine during a calendar year.
 
 #### (d) Wine gallon
 
@@ -58,13 +74,19 @@ Where the Secretary finds that the revenue will not be endangered thereby, he ma
 
 Notwithstanding subsection (a), any wine produced in the United States at any place other than the bonded premises provided for in this chapter shall (except as provided in section 5042 in the case of tax-free production) be subject to tax at the rate prescribed in subsection (b) at the time of production and whether or not removed for consumption or sale.
 
-(Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1331; amended Pub. L. 86–75, §3(a)(5), June 30, 1959, 73 Stat. 157; Pub. L. 86–564, title II, §202(a)(7), June 30, 1960, 74 Stat. 290; Pub. L. 87–72, §3(a)(7), June 30, 1961, 75 Stat. 193; Pub. L. 87–508, §3(a)(6), June 28, 1962, 76 Stat. 114; Pub. L. 88–52, §3(a)(7), June 29, 1963, 77 Stat. 72; Pub. L. 88–348, §2(a)(7), June 30, 1964, 78 Stat. 237; Pub. L. 89–44, title V, §501(c), title VIII, §806(a), June 21, 1965, 79 Stat. 150, 162; Pub. L. 93–490, §6(a), Oct. 26, 1974, 88 Stat. 1468; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 100–647, title VI, §6101(a), Nov. 10, 1988, 102 Stat. 3710; Pub. L. 101–508, title XI, §11201(b)(1), (2), Nov. 5, 1990, 104 Stat. 1388–415, 1388–416.)
+(Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1331; amended Pub. L. 86–75, §3(a)(5), June 30, 1959, 73 Stat. 157; Pub. L. 86–564, title II, §202(a)(7), June 30, 1960, 74 Stat. 290; Pub. L. 87–72, §3(a)(7), June 30, 1961, 75 Stat. 193; Pub. L. 87–508, §3(a)(6), June 28, 1962, 76 Stat. 114; Pub. L. 88–52, §3(a)(7), June 29, 1963, 77 Stat. 72; Pub. L. 88–348, §2(a)(7), June 30, 1964, 78 Stat. 237; Pub. L. 89–44, title V, §501(c), title VIII, §806(a), June 21, 1965, 79 Stat. 150, 162; Pub. L. 93–490, §6(a), Oct. 26, 1974, 88 Stat. 1468; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 100–647, title VI, §6101(a), Nov. 10, 1988, 102 Stat. 3710; Pub. L. 101–508, title XI, §11201(b)(1), (2), Nov. 5, 1990, 104 Stat. 1388–415, 1388–416; Pub. L. 104–188, title I, §1702(b)(5), Aug. 20, 1996, 110 Stat. 1868.)
 
 #### Prior Provisions
 
 A prior section 5041, acts Aug. 16, 1954, ch. 736, 68A Stat. 609; Mar. 30, 1955, ch. 18, §3(a)(7), 69 Stat. 14; Mar. 29, 1956, ch. 115, §3(a)(7), 70 Stat. 66; Mar. 29, 1957, Pub. L. 85–12, §3(a)(5), 71 Stat. 9; June 30, 1958, Pub. L. 85–475, §3(a)(5), 72 Stat. 259, consisted of provisions similar to those comprising this section, prior to the general revision of this chapter by Pub. L. 85–859.
 
 #### Amendments
+
+1996—Subsec. (c)(6), (7). Pub. L. 104–188 added pars. (6) and (7) and struck out former par. (6) which read as follows:
+
+“(6)
+
+Regulations.—The Secretary may prescribe such regulations as may be necessary to prevent the credit provided in this subsection from benefiting any person who produces more than 250,000 wine gallons of wine during a calendar year and to assure proper reduction of such credit for persons producing more than 150,000 wine gallons of wine during a calendar year.”
 
 1990—Subsec. (b)(1). Pub. L. 101–508, §11201(b)(1)(A), substituted “$1.07” for “17 cents”.
 
@@ -98,6 +120,10 @@ Subsec. (b). Pub. L. 89–44, §501(c)(1)–(5), struck out provisions at end of
 
 1959—Subsec. (b). Pub. L. 86–75 substituted “July 1, 1960” for “July 1, 1959” in five places.
 
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–188 effective, except as otherwise expressly provided, as if included in the provision of the Revenue Reconciliation Act of 1990, Pub. L. 101–508, title XI, to which such amendment relates, see section 1702(i) of Pub. L. 104–188, set out as a note under section 38 of this title.
+
 #### Effective Date of 1990 Amendment
 
 Amendment by Pub. L. 101–508 effective Jan. 1, 1991, see section 11201(d) of Pub. L. 101–508, set out as a note under section 5001 of this title.
@@ -122,7 +148,7 @@ Section effective July 1, 1959, see section 210(a)(1) of Pub. L. 85–859, set o
 
 #### Floor Stocks Taxes on Distilled Spirits, Wine, and Beer
 
-Imposition of tax on wine, exception for small domestic producers, exception for certain small wholesale orretail dealers, credit against tax, liability for tax and method of payment, controlled groups, other laws applicable, and definitions, see section 11201(e) of Pub. L. 101–508, set out as a note under section 5001 of this title.
+Imposition of tax on wine, exception for small domestic producers, exception for certain small wholesale or retail dealers, credit against tax, liability for tax and method of payment, controlled groups, other laws applicable, and definitions, see section 11201(e) of Pub. L. 101–508, set out as a note under section 5001 of this title.
 
 #### Cross References
 
@@ -132,5 +158,5 @@ Penalty for failure to pay tax imposed on wine, see section 5661 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 5010, 5044, 5061 of this title.
+This section is referred to in sections 5010, 5044, 5061, 5354 of this title.
 

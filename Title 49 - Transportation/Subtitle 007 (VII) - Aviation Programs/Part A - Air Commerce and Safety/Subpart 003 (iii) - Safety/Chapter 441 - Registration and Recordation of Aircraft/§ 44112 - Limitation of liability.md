@@ -22,7 +22,9 @@ Liability.—A lessor, owner, or secured party is liable for personal injury, de
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

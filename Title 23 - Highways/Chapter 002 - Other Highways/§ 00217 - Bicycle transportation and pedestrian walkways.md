@@ -18,7 +18,7 @@ State Bicycle and Pedestrian Coordinators.—Each State receiving an apportionme
 
 (e)
 
-Bridges.—In any case where a highway bridge deck being replaced or rehabilitated with Federal financial participation is located on a highway, other than a highway access to which is fully controlled, on which bicycles are permitted to operate at each end of such bridge, and the Secretary determines that the safe accommodation of bicycles can be provided at reasonable cost as part of such replacement or rehabilitation, then such bridge shall be so replaced or rehabilitated as to provide such safe accommodations.
+Bridges.—In any case where a highway bridge deck being replaced or rehabilitated with Federal financial participation is located on ahighway, other than a highway access to which is fully controlled, on which bicycles are permitted to operate at each end of such bridge, and the Secretary determines that the safe accommodation of bicycles can be provided at reasonable cost as part of such replacement or rehabilitation, then such bridge shall be so replaced or rehabilitated as to provide such safe accommodations.
 
 (f)
 
@@ -54,7 +54,7 @@ Bicycle Transportation Facility Defined.—For purposes of this section, a “bi
 
 1995—Subsec. (f). Pub. L. 104–59 substituted “determined in accordance with section 120(b)” for “80 percent”.
 
-1991—Pub. L. 102–240 substituted “walkways” for “walkway” in section catchline and amended text generally, substituting present provisions for provisions authorizing States to construct pedestrian walkways and bicycle lanes, paths, etc., as Federal-aid highway projects, relating to safe accommodation of bicycles on bridge with deck replaced or rehabilitated with Federal participation, prohibiting bicycle project under thissection unless principally for transportation purposes, deeming walkway and bicycle projects as highway projects and setting Federal share at 100 per centum, allowing use of funds authorized for forest highways, forest development roads and trails, etc., for construction of walkways and bicycle routes, prohibiting use of motor vehicles on trails and walkways, and relating to obligation of funds.
+1991—Pub. L. 102–240 substituted “walkways” for “walkway” in section catchline and amended text generally, substituting present provisions for provisions authorizing States to construct pedestrian walkways and bicycle lanes, paths, etc., as Federal-aid highway projects, relating to safe accommodation of bicycles on bridge with deck replaced or rehabilitated with Federal participation, prohibiting bicycle project under this section unless principally for transportation purposes, deeming walkway and bicycle projects as highway projects and setting Federal share at 100 per centum, allowing use of funds authorized for forest highways, forest development roads and trails, etc., for construction of walkways and bicycle routes, prohibiting use of motor vehicles on trails and walkways, and relating to obligation of funds.
 
 1987—Subsec. (b)(1). Pub. L. 100–17 inserted “and sums apportioned or allocated for highway substitute projects in accordance with section 103(e)(4) of this title” after “title” in second sentence.
 
@@ -88,7 +88,7 @@ Pub. L. 95–619, title VI, §682, Nov. 9, 1978, 92 Stat. 3287, set forth findin
 
 #### Bikeway Construction Projects
 
-Section 141(a)–(e), (i) of Pub. L. 95–599, related to establishment by Secretary of design and construction standards for bikeway construction projects and to grants to States for bikeway construction projects, prior to repeal by Pub. L. 100–17, title I, §133(e)(2), Apr. 2, 1987, 101 Stat. 173.
+Section 141(a)–(e), (i) of Pub. L. 95–599, related to establishment by Secretary of design and construction standards for bikeway construction projects and to grants to States for bikeway construction projects,prior to repeal by Pub. L. 100–17, title I, §133(e)(2), Apr. 2, 1987, 101 Stat. 173.
 
 #### Bikeway Demonstration Program
 

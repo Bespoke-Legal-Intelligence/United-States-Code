@@ -6,7 +6,7 @@ The Secretary shall maintain a process for developing a program plan for the imp
 
 #### (b) Needs of minority children and youth
 
-In awarding grants, contracts, and cooperative agreements under subchapters III through VII of this chapter, the Secretary, where appropriate, shall require applicants to demonstrate how they will address, in whole or in part, the needs of infants, toddlers, children, and youth with disabilities from minority backgrounds.
+In awarding grants, contracts, and cooperative agreements under subchapters III through VII ofthis chapter, the Secretary, where appropriate, shall require applicants to demonstrate how they will address, in whole or in part, the needs of infants, toddlers, children, and youth with disabilities from minority backgrounds.
 
 #### (c) Transitions facing children with disabilities during years in school
 
@@ -58,7 +58,7 @@ The Secretary shall conduct at least 1 site visit for each grant, contract, and 
 
 &emsp;(ii) America's racial profile is rapidly changing. While the rate of increase for white Americans is 3.2 percent, the rate of increase for racial and ethnic minorities is much higher: 38.6 percent for Hispanics, 14.6 percent for African-Americans, and 40.1 percent for Asians and other ethnic groups.
 
-&emsp;(iii) By the year 2000, this Nation will have 260,000,000 people, one of every three of whom will be either African-American, Hispanic, or Asian-American.
+&emsp;(iii) By the year 2000, this Nation will have 260,000,000 people, one of every three of whomwill be either African-American, Hispanic, or Asian-American.
 
 &emsp;(iv) Taken together as a group, it is a more frequent phenomenon for minorities to comprise the majority of public school students. Large city school populations are overwhelmingly minority, e.g., Miami, 71 percent; Philadelphia, 73 percent; Baltimore, 80 percent.
 

@@ -98,7 +98,7 @@
 | [135b.](Subchapter%20003%20%28III%29%20-%20Prevention%20of%20Introduction%20and%20Spread%20of%20Contagion/%C2%A7%2000135b%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | [136\.](Subchapter%20003%20%28III%29%20-%20Prevention%20of%20Introduction%20and%20Spread%20of%20Contagion/%C2%A7%2000136%20-%20Additional%20inspection%20services.md) | Additional inspection services. |
 | [136a.](Subchapter%20003%20%28III%29%20-%20Prevention%20of%20Introduction%20and%20Spread%20of%20Contagion/%C2%A7%2000136a%20-%20Collection%20of%20fees%20for%20inspection%20services.md) | Collection of fees for inspection services. |
-| (a) | Quarantine, inspection and transportation fees. |
+| (a) | Quarantine and inspection fees. |
 | (b) | Omitted. |
 | (c) | Animal inspection and veterinary diagnostics. |
 | (d) | Regulations. |

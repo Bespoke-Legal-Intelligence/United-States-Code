@@ -8,7 +8,7 @@
 | [6674\.](%C2%A7%2006674%20-%20Fraudulent%20statement%20or%20failure%20to%20furnish%20statement%20to%20employee.md) | Fraudulent statement or failure to furnish statement to employee. |
 | [6675\.](%C2%A7%2006675%20-%20Excessive%20claims%20with%20respect%20to%20the%20use%20of%20certain%20fuels.md) | Excessive claims with respect to the use of certain fuels. |
 | \[6676. | Repealed.\] |
-| [6677\.](%C2%A7%2006677%20-%20Failure%20to%20file%20information%20returns%20with%20respect%20to%20certain%20foreign%20trusts.md) | Failure to file information returns with respect to certain foreign trusts. |
+| [6677\.](%C2%A7%2006677%20-%20Failure%20to%20file%20information%20with%20respect%20to%20certain%20foreign%20trusts.md) | Failure to file information with respect to certain foreign trusts. |
 | \[6678. | Repealed.\] |
 | [6679\.](%C2%A7%2006679%20-%20Failure%20to%20file%20returns%2C%20etc.%2C%20with%20respect%20to%20foreign%20corporations%20or%20foreign%20partnerships.md) | Failure to file returns, etc., with respect to foreign corporations or foreign partnerships. |
 | \[6680, 6681. Repealed.\] |  |
@@ -49,17 +49,14 @@
 | [6711\.](%C2%A7%2006711%20-%20Failure%20by%20tax-exempt%20organization%20to%20disclose%20that%20certain%20information%20or%20service%20available%20from%20Federal%20Government.md) | Failure by tax-exempt organization to disclose that certain information or service available from Federal Government. |
 | [6712\.](%C2%A7%2006712%20-%20Failure%20to%20disclose%20treaty-based%20return%20positions.md) | Failure to disclose treaty-based return positions. |
 | [6713\.](%C2%A7%2006713%20-%20Disclosure%20or%20use%20of%20information%20by%20preparers%20of%20returns.md) | Disclosure or use of information by preparers of returns. |
-| 6714\.<sup>2</sup> | Failure to meet disclosure requirements applicable to quid pro quo contributions. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |
-| :--- | ---: |
-| 6714\.<sup>2</sup> | Dyed fuel sold for use or used in taxable use, etc. |
+| [6714\.](%C2%A7%2006714%20-%20Failure%20to%20meet%20disclosure%20requirements%20applicable%20to%20quid%20pro%20quo%20contributions.md) | Failure to meet disclosure requirements applicable to quid pro quo contributions. |
+| [6715\.](%C2%A7%2006715%20-%20Dyed%20fuel%20sold%20for%20use%20or%20used%20in%20taxable%20use%2C%20etc.md) | Dyed fuel sold for use or used in taxable use, etc. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1996—Pub. L. 104–188, title I, §§1703(n)(9)(B), 1901(c)(3), Aug. 20, 1996, 110 Stat. 1877, 1908, substituted “information” for “information returns” in item 6677 and redesignated item 6714, relating to dyed fuel sold for use or used in taxable use, etc., as item 6715.
 
 1993—Pub. L. 103–66, title XIII, §13242(b)(2), Aug. 10, 1993, 107 Stat. 521, added item 6714 “Dyed fuel sold for use or used in taxable use, etc.”.
 
@@ -93,7 +90,7 @@ Pub. L. 97–424, title V, §515(b)(11)(D), Jan. 6, 1983, 96 Stat. 2182, struck 
 
 1980—Pub. L. 96–603, §§1(e)(3), 2(d)(2), Dec. 28, 1980, 94 Stat. 3505, 3510, substituted “returns” for “reports” in item 6685 and added item 6689.
 
-Pub. L. 96–223, title IV, §401(a), Apr. 2, 1980, 94 Stat. 299, repealed Pub. L. 94–455, §2005(e)(4), and Pub. L. 95–600, §702(r)(1)(C), and the amendments made thereby, which resulted in striking out item 6698A “Failure tofile information with respect to carryover basis property”, which had been added as item 6694 in 1976 and redesignated as item 6698 in 1978. Pub. L. 96–222, §§107(a)(2)(E), 201, redesignated item 6698 as 6698A, effective as if included in Pub. L. 95–600.
+Pub. L. 96–223, title IV, §401(a), Apr. 2, 1980, 94 Stat. 299, repealed Pub. L. 94–455, §2005(e)(4), and Pub. L. 95–600, §702(r)(1)(C), and the amendments made thereby, which resulted in striking out item 6698A “Failure to file information with respect to carryover basis property”, which had been added as item 6694 in 1976 and redesignated as item 6698 in 1978. Pub. L. 96–222, §§107(a)(2)(E), 201, redesignated item 6698 as 6698A, effective as if included in Pub. L. 95–600.
 
 Pub. L. 96–222, title I, §§101(a)(7)(L)(v)(X), 107(a)(2)(E), Apr. 1, 1980, 94 Stat. 201, 223, redesignated item 6698, relating to failure to file information with respect to carry-over basis property, as 6698A and substituted “tax credit employee stock ownership plan” for “ESOP” in item 6699.
 
@@ -139,8 +136,6 @@ This subchapter is referred to in section 6166 of this title.
 
 <i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
 
-<i><sup>2</sup></i><i> So in original. Two sections 6714 have been enacted.</i>
-
 
 ---
 
@@ -152,7 +147,7 @@ This subchapter is referred to in section 6166 of this title.
 - [&sect; 06674 - Fraudulent statement or failure to furnish statement to employee](%C2%A7%2006674%20-%20Fraudulent%20statement%20or%20failure%20to%20furnish%20statement%20to%20employee.md)
 - [&sect; 06675 - Excessive claims with respect to the use of certain fuels](%C2%A7%2006675%20-%20Excessive%20claims%20with%20respect%20to%20the%20use%20of%20certain%20fuels.md)
 - [&sect; 06676 - Repealed. Pub. L. 101&#8211;239, title VII, &sect;7711(b)(1), Dec. 19, 1989, 103 Stat. 2393](%C2%A7%2006676%20-%20Repealed.%20Pub.%20L.%20101%E2%80%93239%2C%20title%20VII%2C%20%C2%A77711%28b%29%281%29%2C%20Dec.%2019%2C%201989%2C%20103%20Stat.%202393.md)
-- [&sect; 06677 - Failure to file information returns with respect to certain foreign trusts](%C2%A7%2006677%20-%20Failure%20to%20file%20information%20returns%20with%20respect%20to%20certain%20foreign%20trusts.md)
+- [&sect; 06677 - Failure to file information with respect to certain foreign trusts](%C2%A7%2006677%20-%20Failure%20to%20file%20information%20with%20respect%20to%20certain%20foreign%20trusts.md)
 - [&sect; 06678 - Repealed. Pub. L. 99&#8211;514, title XV, &sect;1501(d)(2), Oct. 22, 1986, 100 Stat. 2740](%C2%A7%2006678%20-%20Repealed.%20Pub.%20L.%2099%E2%80%93514%2C%20title%20XV%2C%20%C2%A71501%28d%29%282%29%2C%20Oct.%2022%2C%201986%2C%20100%20Stat.%202740.md)
 - [&sect; 06679 - Failure to file returns, etc., with respect to foreign corporations or foreign partnerships](%C2%A7%2006679%20-%20Failure%20to%20file%20returns%2C%20etc.%2C%20with%20respect%20to%20foreign%20corporations%20or%20foreign%20partnerships.md)
 - [&sect; 06680 - Repealed. Pub. L. 94&#8211;455, title XIX, &sect;1904(b)(10)(A)(vi)(I), Oct. 4, 1976, 90 Stat. 1817](%C2%A7%2006680%20-%20Repealed.%20Pub.%20L.%2094%E2%80%93455%2C%20title%20XIX%2C%20%C2%A71904%28b%29%2810%29%28A%29%28vi%29%28I%29%2C%20Oct.%204%2C%201976%2C%2090%20Stat.%201817.md)
@@ -190,5 +185,5 @@ This subchapter is referred to in section 6166 of this title.
 - [&sect; 06711 - Failure by tax-exempt organization to disclose that certain information or service available from Federal Government](%C2%A7%2006711%20-%20Failure%20by%20tax-exempt%20organization%20to%20disclose%20that%20certain%20information%20or%20service%20available%20from%20Federal%20Government.md)
 - [&sect; 06712 - Failure to disclose treaty-based return positions](%C2%A7%2006712%20-%20Failure%20to%20disclose%20treaty-based%20return%20positions.md)
 - [&sect; 06713 - Disclosure or use of information by preparers of returns](%C2%A7%2006713%20-%20Disclosure%20or%20use%20of%20information%20by%20preparers%20of%20returns.md)
-- [&sect; 06714 - 1 Failure to meet disclosure requirements applicable to quid pro quo contributions](%C2%A7%2006714%20-%201%20Failure%20to%20meet%20disclosure%20requirements%20applicable%20to%20quid%20pro%20quo%20contributions.md)
-- [&sect; 06714 - 1 Dyed fuel sold for use or used in taxable use, etc](%C2%A7%2006714%20-%201%20Dyed%20fuel%20sold%20for%20use%20or%20used%20in%20taxable%20use%2C%20etc.md)
+- [&sect; 06714 - Failure to meet disclosure requirements applicable to quid pro quo contributions](%C2%A7%2006714%20-%20Failure%20to%20meet%20disclosure%20requirements%20applicable%20to%20quid%20pro%20quo%20contributions.md)
+- [&sect; 06715 - Dyed fuel sold for use or used in taxable use, etc](%C2%A7%2006715%20-%20Dyed%20fuel%20sold%20for%20use%20or%20used%20in%20taxable%20use%2C%20etc.md)

@@ -14,7 +14,7 @@
 
 (d) In providing rehabilitative services under this chapter, the Secretary shall take appropriate action to make it possible for the patient to take maximum advantage of any benefits to which such patient is entitled under chapter 31, 34, or 35 of this title, and, if the patient is still receiving treatment of a prolonged nature under this chapter, the provision of rehabilitative services under this chapter shall be continued during, and coordinated with, the pursuit of education and training under such chapter 31, 34, or 35.
 
-(e) The Secretary shall prescribe regulations to ensure that the priorities set forth in section 1712(i) of this title shall be applied, insofar as practicable, to participation in therapeutic and rehabilitation activities carried out under this section.
+(e) The Secretary shall prescribe regulations to ensure that the priorities set forth in section 1705 of this title shall be applied, insofar as practicable, to participation in therapeutic and rehabilitation activities carried out under this section.
 
 (f)(1) The Secretary may not consider any of the matters stated in paragraph (2) as a basis for the denial or discontinuance of a rating of total disability for purposes of compensation or pension based on the veteran's inability to secure or follow a substantially gainful occupation as a result of disability.
 
@@ -30,13 +30,15 @@
 
 (3) A distribution of funds made under this section and a payment made to a veteran under a program of rehabilitative services described in paragraph (2)(C) shall be considered for the purposes of chapter 15 of this title to be a donation from a public or private relief or welfare organization.
 
-(Added Pub. L. 87–574, §2(1), Aug. 6, 1962, 76 Stat. 308, §618; amended Pub. L. 94–581, title I, §105(a), Oct. 21, 1976, 90 Stat. 2845; Pub. L. 98–543, title III, §303, Oct. 24, 1984, 98 Stat. 2748; Pub. L. 99–576, title II, §205, Oct. 28, 1986, 100 Stat. 3256; Pub. L. 102–54, §§10, 14(b)(12), June 13, 1991, 105 Stat. 273, 284; renumbered §1718 and amended Pub. L. 102–83, §§2(c)(3), 4(a)(3), (4), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 402, 404–406; Pub. L. 102–86, title V, §506(a)(1), Aug. 14, 1991, 105 Stat. 426; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 102–585, title IV, §401, Nov. 4, 1992, 106 Stat. 4953; Pub. L. 103–446, title XII, §1201(i)(1), Nov. 2, 1994, 108 Stat. 4688.)
+(Added Pub. L. 87–574, §2(1), Aug. 6, 1962, 76 Stat. 308, §618; amended Pub. L. 94–581, title I, §105(a), Oct. 21, 1976, 90 Stat. 2845; Pub. L. 98–543, title III, §303, Oct. 24, 1984, 98 Stat. 2748; Pub. L. 99–576, title II, §205, Oct. 28, 1986, 100 Stat. 3256; Pub. L. 102–54, §§10, 14(b)(12), June 13, 1991, 105 Stat. 273, 284; renumbered §1718 and amended Pub. L. 102–83, §§2(c)(3), 4(a)(3), (4), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 402, 404–406; Pub. L. 102–86, title V, §506(a)(1), Aug. 14, 1991, 105 Stat. 426; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 102–585, title IV, §401, Nov. 4, 1992, 106 Stat. 4953; Pub. L. 103–446, title XII, §1201(i)(1), Nov. 2, 1994, 108 Stat. 4688; Pub. L. 104–262, title I, §101(d)(7), Oct. 9, 1996, 110 Stat. 3180.)
 
 #### References in Text
 
 The Fair Labor Standards Act, referred to in subsec. (c)(2), probably means the Fair Labor Standards Act of 1938, act June 25, 1938, ch. 676, 52 Stat. 1060, as amended, which is classified generally to chapter 8 (§201 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see section 201 of Title 29 and Tables.
 
 #### Amendments
+
+1996—Subsec. (e). Pub. L. 104–262 substituted “section 1705” for “section 1712(i)”.
 
 1994—Subsec. (c)(1). Pub. L. 103–446 substituted “Department of Veterans Affairs” for “Department”.
 
@@ -104,11 +106,11 @@ Amendment by Pub. L. 94–581 effective Oct. 21, 1976, see section 211 of Pub. L
 
 #### Demonstration Program of Compensated Work Therapy and Therapeutic Transitional Housing
 
-Section 7 of Pub. L. 102–54, as amended by Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–86, title V, §501, Aug. 14, 1991, 105 Stat. 424; Pub. L. 103–452, title I, §103(f), Nov. 2, 1994, 108 Stat. 4787, provided that:
+Section 7 of Pub. L. 102–54, as amended by Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–86, title V, §501, Aug. 14, 1991, 105 Stat. 424; Pub. L. 103–452, title I, §103(f), Nov. 2, 1994, 108 Stat. 4787; Pub. L. 104–110, title I, §102(b), Feb. 13, 1996, 110 Stat. 769, provided that:
 
 “(a)
 
-Demonstration Program.—During fiscal years 1991 through 1995, the Secretary of Veterans Affairs may carry out a compensated work therapy and therapeutic transitional housing demonstration program. The demonstration program shall have two components, as follows:
+Demonstration Program.—During the period beginning on October 1, 1991, and ending on December 31, 1997,, \[sic\] the Secretary of Veterans Affairs may carry out a compensated work therapy and therapeutic transitional housing demonstration program. The demonstration program shall have two components, as follows:
 
 &emsp;“(1) A component, under subsection (c), which provides for direct operation of therapeutic transitional housing in conjunction with the furnishing of compensated work therapy.
 
@@ -124,7 +126,7 @@ Eligible Veterans.—The veterans for whom therapeutic transitional housing may 
 
 “(c)
 
-Authority to Operate Residences as Therapeutic Transitional Housing.—Under the demonstration program, the Secretary, in connection with the conduct of compensated work therapy programs, may operate residences as therapeutic transitional housingsolely for veterans described in subsection (b) of this section. The Secretary may operate no more than 50 residences as therapeutic transitional housing under this subsection.
+Authority to Operate Residences as Therapeutic Transitional Housing.—Under the demonstration program, the Secretary, in connection with the conduct of compensated work therapy programs, may operate residences as therapeutic transitional housing solely for veterans described in subsection (b) of this section. The Secretary may operate no more than 50 residences as therapeutic transitional housing under this subsection.
 
 “(d)
 
@@ -192,9 +194,11 @@ Disposal of Property.—The Secretary may dispose of any property acquired for t
 
 Availability of General Post Fund.—Funds received by the Department under this section shall be deposited in the General Post Fund. The Secretary may distribute out of the fund such amounts as necessary for the acquisition, management, maintenance, and disposition of real property for the purpose of carrying out such program. The operation of the demonstration program and funds received shall be separately accounted for, and shall be stated in the documents accompanying the President's budget for each fiscal year.
 
-“(<i>l)</i>
+“(<i>l</i>)
 
 Report.—After a demonstration program under this section has been in effect for two years, the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on the operation of the program. The Secretary shall include in the report such recommendations with regard to the program as the Secretary considers appropriate.”
+
+\[Any action taken by Secretary of Veterans Affairs before Feb. 13, 1996, under provision of law amended by title I of Pub. L. 104–110 that was taken during period beginning on date on which authority of Secretary under such provision of law expired and ending on Feb. 13, 1996, considered to have same force and effect as if such amendment had been in effect at time of that action, see section 103 of Pub. L. 104–110, set out as a note under section 1710 of this title.\]
 
 #### Settlement of Claims
 

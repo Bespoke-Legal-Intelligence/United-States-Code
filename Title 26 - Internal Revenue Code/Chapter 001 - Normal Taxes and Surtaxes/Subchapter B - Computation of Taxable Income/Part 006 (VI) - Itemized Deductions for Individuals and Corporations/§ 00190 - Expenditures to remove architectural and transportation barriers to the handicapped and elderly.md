@@ -54,7 +54,7 @@ Section 1062(c) of Pub. L. 98–369 provided that: “The amendment made by subs
 
 #### Effective Date
 
-Section 2122(c) of Pub. L. 94–455, as amended by Pub. L. 96–167, §9(c), Dec. 29, 1979, 93 Stat. 1278; Pub. L. 98–369, div. A, title X, §1062(a)(2), July 18, 1984, 98 Stat. 1047, provided that: “The amendments made by this section \[enacting this section and amending sections 263, 1245, and 1250 of this title\] shall apply to taxable years beginning after December 31, 1976.”
+Section 2122(c) of Pub. L. 94–455, as amended by Pub. L. 96–167, §9(c), Dec. 29, 1979, 93 Stat. 1278; Pub. L.98–369, div. A, title X, §1062(a)(2), July 18, 1984, 98 Stat. 1047, provided that: “The amendments made by this section \[enacting this section and amending sections 263, 1245, and 1250 of this title\] shall apply to taxable years beginning after December 31, 1976.”
 
 #### Savings Provision
 

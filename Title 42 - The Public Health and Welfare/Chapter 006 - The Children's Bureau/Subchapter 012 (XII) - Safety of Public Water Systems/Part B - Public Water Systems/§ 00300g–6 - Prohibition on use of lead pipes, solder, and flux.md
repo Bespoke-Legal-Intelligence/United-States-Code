@@ -2,21 +2,27 @@
 
 #### (a) In general
 
-#### (1) Prohibition
+#### (1) Prohibitions
 
-&emsp;Any pipe, solder, or flux, which is used after June 19, 1986, in the installation or repair of—
+#### (A) In general
 
-&emsp;&emsp;(A) any public water system, or
+&emsp;&emsp;No person may use any pipe, any pipe or plumbing fitting or fixture, any solder, or any flux, after June 19, 1986, in the installation or repair of—
 
-&emsp;&emsp;(B) any plumbing in a residential or nonresidential facility providing water for human consumption which is connected to a public water system,
+&emsp;&emsp;&emsp;(i) any public water system; or
 
-> &emsp;shall be lead free (within the meaning of subsection (d) of this section). This paragraph shall not apply to leaded joints necessary for the repair of cast iron pipes.
+&emsp;&emsp;&emsp;(ii) any plumbing in a residential or nonresidential facility providing water for human consumption,
+
+> &emsp;&emsp;that is not lead free (within the meaning of subsection (d) of this section).
+
+#### (B) Leaded joints
+
+&emsp;&emsp;Subparagraph (A) shall not apply to leaded joints necessary for the repair of cast iron pipes.
 
 #### (2) Public notice requirements
 
 #### (A) In general
 
-&emsp;&emsp;Each public water system shall identify and provide notice to persons that may be affected by lead contamination of their drinking water where such contamination results from either or both of the following:
+&emsp;&emsp;Each owner or operator of a public water system shall identify and provide notice to persons that may be affected by lead contamination of their drinking water where such contamination results from either or both of the following:
 
 &emsp;&emsp;&emsp;(i) The lead content in the construction materials of the public water distribution system.
 
@@ -38,6 +44,16 @@
 
 &emsp;&emsp;&emsp;(v) the necessity for seeking alternative water supplies, if any.
 
+#### (3) Unlawful acts
+
+&emsp;Effective 2 years after August 6, 1996, it shall be unlawful—
+
+&emsp;&emsp;(A) for any person to introduce into commerce any pipe, or any pipe or plumbing fitting or fixture, that is not lead free, except for a pipe that is used in manufacturing or industrial processing;
+
+&emsp;&emsp;(B) for any person engaged in the business of selling plumbing supplies, except manufacturers, to sell solder or flux that is not lead free; or
+
+&emsp;&emsp;(C) for any person to introduce into commerce any solder or flux that is not lead free unless the solder or flux bears a prominent label stating that it is illegal to use the solder or flux in the installation or repair of any plumbing providing water for human consumption.
+
 #### (b) State enforcement
 
 #### (1) Enforcement of prohibition
@@ -56,11 +72,49 @@ If the Administrator determines that a State is not enforcing the requirements o
 
 For purposes of this section, the term “lead free”—
 
-&emsp;(1) when used with respect to solders and flux refers to solders and flux containing not more than 0.2 percent lead, and
+&emsp;(1) when used with respect to solders and flux refers to solders and flux containing not more than 0.2 percent lead;
 
-&emsp;(2) when used with respect to pipes and pipe fittings refers to pipes and pipe fittings containing not more than 8.0 percent lead.
+&emsp;(2) when used with respect to pipes and pipe fittings refers to pipes and pipe fittings containing not more than 8.0 percent lead; and
 
-(July 1, 1944, ch. 373, title XIV, §1417, as added June 19, 1986, Pub. L. 99–339, title I, §109(a), 100 Stat. 651.)
+&emsp;(3) when used with respect to plumbing fittings and fixtures, refers to plumbing fittings and fixtures in compliance with standards established in accordance with subsection (e) of this section.
+
+#### (e) Plumbing fittings and fixtures
+
+#### (1) In general
+
+&emsp;The Administrator shall provide accurate and timely technical information and assistance to qualified third-party certifiers in the development of voluntary standards and testing protocols for the leaching of lead from new plumbing fittings and fixtures that are intended by the manufacturer to dispense water for human ingestion.
+
+#### (2) Standards
+
+#### (A) In general
+
+&emsp;&emsp;If a voluntary standard for the leaching of lead is not established by the date that is 1 year after August 6, 1996, the Administrator shall, not later than 2 years after August 6, 1996, promulgate regulations setting a health-effects-based performance standard establishing maximum leaching levels from new plumbing fittings and fixtures that are intended by the manufacturer to dispense water for human ingestion. The standard shall become effective on the date that is 5 years after the date of promulgation of the standard.
+
+#### (B) Alternative requirement
+
+&emsp;&emsp;If regulations are required to be promulgated under subparagraph (A) and have not been promulgated by the date that is 5 years after August 6, 1996, no person may import, manufacture, process, or distribute in commerce a new plumbing fitting or fixture, intended by the manufacturer to dispense water for human ingestion, that contains more than 4 percent lead by dry weight.
+
+(July 1, 1944, ch. 373, title XIV, §1417, as added June 19, 1986, Pub. L. 99–339, title I, §109(a), 100 Stat. 651; amended Aug. 6, 1996, Pub. L. 104–182, title I, §118, title V, §501(f)(1), 110 Stat. 1645, 1691.)
+
+#### Amendments
+
+1996—Pub. L. 104–182, §501(f)(1), made technical amendment to section catchline and subsec. (a) designation.
+
+Subsec. (a)(1). Pub. L. 104–182, §118(1), substituted “Prohibitions” for “Prohibition” in heading and amended text generally. Prior to amendment, text read as follows: “Any pipe, solder, or flux, which is used after June 19, 1986, in the installation or repair of—
+
+&emsp;“(A) any public water system, or
+
+&emsp;“(B) any plumbing in a residential or nonresidential facility providing water for human consumption which is connected to a public water system,
+
+> shall be lead free (within the meaning of subsection (d) of this section). This paragraph shall not apply to leaded joints necessary for the repair of cast iron pipes.”
+
+Subsec. (a)(2)(A). Pub. L. 104–182, §118(2), inserted “owner or operator of a” after “Each” in introductory provisions.
+
+Subsec. (a)(3). Pub. L. 104–182, §118(3), added par. (3).
+
+Subsec. (d)(3). Pub. L. 104–182, §118(4), added par. (3).
+
+Subsec. (e). Pub. L. 104–182, §118(5), added subsec. (e).
 
 #### Notification to States
 
@@ -91,4 +145,8 @@ Effective date.—Paragraph (1) shall become effective 24 months after the enact
 Housing assistance by Secretary of Veterans Affairs, see section 3701 et seq. of Title 38, Veterans’ Benefits.
 
 Housing assistance by Secretary of Housing and Urban Development, see section 1701 et seq. of Title 12, Banks and Banking.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 300g–3 of this title.
 

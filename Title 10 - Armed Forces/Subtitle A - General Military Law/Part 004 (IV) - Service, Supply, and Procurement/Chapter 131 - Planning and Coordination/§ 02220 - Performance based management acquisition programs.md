@@ -4,11 +4,11 @@
 
 Establishment of Goals.—(1) The Secretary of Defense shall approve or define the cost, performance, and schedule goals for major defense acquisition programs of the Department of Defense and for each phase of the acquisition cycle of such programs.
 
-(2) The Comptroller of the Department of Defense <sup>1</sup> shall evaluate the cost goals proposed for each major defense acquisition program of the Department.
+(2) The Under Secretary of Defense (Comptroller) shall evaluate the cost goals proposed for each major defense acquisition program of the Department.
 
 (b)
 
-Annual Reporting Requirement.—The Secretary of Defense shall include in the annual report submitted to Congress pursuant to section 113(c) of this title an assessment of whether major and nonmajor acquisition programs of the Department of Defense are achieving, on average, 90 percent of cost, performance, and schedule goals established pursuant to subsection (a) and whether the average period for converting emerging technology into operational capability has decreased by 50 percent or more from the average period required for such conversion as of the date of the enactment of the Federal Acquisition Streamlining Act of 1994. The Secretary shall use data from existing management systems in making the assessment.
+Annual Reporting Requirement.—The Secretary of Defense shall include in the annual report submitted to Congress pursuant to section 113(c) of this title an assessment of whether major and nonmajor acquisition programs of the Department of Defense are achieving, on average, 90 percent of cost, performance, and schedule goals established pursuant to subsection (a) and whether the average period for converting emerging technology into operational capability has decreased by 50 percent or more from the average period required for such conversion as of October 13, 1994. The Secretary shall use data from existing management systems in making the assessment.
 
 (c)
 
@@ -18,11 +18,17 @@ Performance Evaluation.—Whenever the Secretary of Defense, in the assessment r
 
 &emsp;(2) identify suitable actions to be taken, including termination, with respect to such programs.
 
-(Added Pub. L. 103–355, title V, §5001(a)(1), Oct. 13, 1994, 108 Stat. 3349.)
+(Added Pub. L. 103–355, title V, §5001(a)(1), Oct. 13, 1994, 108 Stat. 3349; amended Pub. L. 104–106, div. A, title XV, §1503(a)(20), div. D, title XLIII, §4321(b)(1), Feb. 10, 1996, 110 Stat. 512, 671.)
 
-#### References in Text
+#### Amendments
 
-The date of the enactment of the Federal Acquisition Streamlining Act of 1994, referred to in subsec. (b), is the date of enactment of Pub. L. 103–355, which was approved Oct. 13, 1994.
+1996—Subsec. (a)(2). Pub. L. 104–106, §1503(a)(20), substituted “Under Secretary of Defense (Comptroller)” for “Comptroller of the Department of Defense”.
+
+Subsec. (b). Pub. L. 104–106, §4321(b)(1), substituted “October 13, 1994” for “the date of the enactment of the Federal Acquisition Streamlining Act of 1994”.
+
+#### Effective Date of 1996 Amendment
+
+For effective date and applicability of amendment by section 4321(b)(1) of Pub. L. 104–106, see section 4401 ofPub. L. 104–106, set out as a note under section 251 of Title 41, Public Contracts.
 
 #### Enhanced System of Performance Incentives
 

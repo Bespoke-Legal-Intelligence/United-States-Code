@@ -6,7 +6,7 @@
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in sections 428, 602, 671, 1301, 1306a, 1308, 1309, 1311, 1315, 1316, 1318, 1319, 1320b–2, 1320b–3, 1320b–7, 1382, 1382c, 1395v, 1396a, 1396b, 1396d of this title; title 7 sections 2012, 2014; title 8 section 1255a; title 26 section 6103.
+This subchapter is referred to in sections 428, 671, 1301, 1306a, 1308, 1309, 1311, 1315, 1316, 1318, 1319, 1320b–2, 1320b–3, 1320b–7, 1382, 1382c, 1395v, 1396a, 1396b, 1396d of this title; title 7 sections 2012, 2014; title 8 section 1255a; title 26 section 6103.
 
 
 ---
@@ -18,6 +18,3 @@ This subchapter is referred to in sections 428, 602, 671, 1301, 1306a, 1308, 130
 - [&sect; 01353 - Payments to States](%C2%A7%2001353%20-%20Payments%20to%20States.md)
 - [&sect; 01354 - Operation of State plans](%C2%A7%2001354%20-%20Operation%20of%20State%20plans.md)
 - [&sect; 01355 - Definitions](%C2%A7%2001355%20-%20Definitions.md)
-- [&sect; 01361 to 1364 - Repealed. Pub. L. 89&#8211;554, &sect;8(a), Sept. 6, 1966, 80 Stat. 658, 660, 661](%C2%A7%2001361%20to%201364%20-%20Repealed.%20Pub.%20L.%2089%E2%80%93554%2C%20%C2%A78%28a%29%2C%20Sept.%206%2C%201966%2C%2080%20Stat.%20658%2C%20660%2C%20661.md)
-- [&sect; 01365 - Repealed. Pub. L. 86&#8211;442, &sect;1, Apr. 22, 1960, 74 Stat. 81](%C2%A7%2001365%20-%20Repealed.%20Pub.%20L.%2086%E2%80%93442%2C%20%C2%A71%2C%20Apr.%2022%2C%201960%2C%2074%20Stat.%2081.md)
-- [&sect; 01366 to 1371 - Repealed. Pub. L. 89&#8211;554, &sect;8(a), Sept. 6, 1966, 80 Stat. 658, 660, 661](%C2%A7%2001366%20to%201371%20-%20Repealed.%20Pub.%20L.%2089%E2%80%93554%2C%20%C2%A78%28a%29%2C%20Sept.%206%2C%201966%2C%2080%20Stat.%20658%2C%20660%2C%20661.md)

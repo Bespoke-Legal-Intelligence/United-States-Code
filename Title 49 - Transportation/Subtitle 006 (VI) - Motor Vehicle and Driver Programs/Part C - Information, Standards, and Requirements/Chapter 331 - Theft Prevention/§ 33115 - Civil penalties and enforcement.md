@@ -50,7 +50,9 @@ Venue.—A civil action under subsection (a) or (c) of this section may be broug
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

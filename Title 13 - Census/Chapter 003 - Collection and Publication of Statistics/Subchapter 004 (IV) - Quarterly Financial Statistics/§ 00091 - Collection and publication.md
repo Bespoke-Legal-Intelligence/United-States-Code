@@ -36,7 +36,7 @@
 
 &emsp;(A) The term “small business concern” means a business concern that meets the requirements of section 3(a) of the Small Business Act and the regulations promulgated pursuant thereto.
 
-&emsp;(B) The term “survey” means the collection of information by the Secretary pursuant to this section for the purpose of preparing the publication entitled “Quarterly Financial Report for Manufacturing, Mining, and Trade Corporations”.
+&emsp;(B) The term “survey” means the collection of information by the Secretary pursuant to this section for the purpose of preparing thepublication entitled “Quarterly Financial Report for Manufacturing, Mining, and Trade Corporations”.
 
 (Added Pub. L. 97–454, §1(a)(2), Jan. 12, 1983, 96 Stat. 2494; amended Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 104–13, §3, May 22, 1995, 109 Stat. 184.)
 
@@ -68,7 +68,7 @@ Amendment by Pub. L. 104–13 effective Oct. 1, 1995, see section 4(a) of Pub. L
 
 Section 4 of Pub. L. 97–454, as amended by Pub. L. 101–227, §1, Dec. 12, 1989, 103 Stat. 1943; Pub. L. 103–105, §1(a), Oct. 12, 1993, 107 Stat. 1030, provided that:
 
-“(a) This Act \[enacting section 91 of this title and provisions set out as notes under sections 23 and 91 ofthis title\] shall take effect on the date of the enactment of this Act \[Jan. 12, 1983\].
+“(a) This Act \[enacting section 91 of this title and provisions set out as notes under sections 23 and 91 of this title\] shall take effect on the date of the enactment of this Act \[Jan. 12, 1983\].
 
 “(b) This Act, including the amendments made by this Act, shall cease to have effect after September 30, 1998.
 

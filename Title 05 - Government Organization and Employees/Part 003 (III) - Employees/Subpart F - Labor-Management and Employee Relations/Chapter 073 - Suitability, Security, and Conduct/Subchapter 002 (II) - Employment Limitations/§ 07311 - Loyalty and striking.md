@@ -18,7 +18,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 5 U.S.C. 118p.
 
@@ -58,7 +60,7 @@ Sec. 4. The head of each department and agency shall review, or cause to be revi
 
 Sec. 5. Whenever there is developed or received by any department or agency information indicating that the retention in employment of any officer or employee of the Government may not be clearly consistent with the interests of the national security, such information shall be forwarded to the head of the employing department or agency or his representative, who, after such investigation as may be appropriate, shall review, or cause to be reviewed, and, where necessary, re-adjudicate, or cause to be re-adjudicated, in accordance with the said act of August 26, 1950, the case of such officer or employee.
 
-Sec. 6. Should there develop at any stage of investigation information indicating that the employment of any officer or employees of the Government may not be clearly consistent with the interests of the national security, the head of the department or agency concerned or his representative shall immediately suspendthe employment of the person involved if he deems such suspension necessary in the interests of the national security and, following such investigation and review as he deems necessary the head of the department or agency concerned shall terminate the employment of such suspended officer in the interests of the national security, or employee whenever he shall determine such termination necessary or advisable in accordance with the said act of August 26, 1950.
+Sec. 6. Should there develop at any stage of investigation information indicating that the employment of any officer or employees of the Government may not be clearly consistent with the interests of the national security, the head of the department or agency concerned or his representative shall immediately suspend the employment of the person involved if he deems such suspension necessary in the interests of the national security and, following such investigation and review as he deems necessary the head of the department or agency concerned shall terminate the employment of such suspended officer in the interests of the national security, or employee whenever he shall determine such termination necessary or advisable in accordance with the said act of August 26, 1950.
 
 Sec. 7. Any person whose employment is suspended or terminated under the authority granted to heads of departments and agencies by or in accordance with the said act of August 26, 1950, or pursuant to the said Executive Order No. 9835 or any other security or loyalty program relating to officers or employees of the Government, shall not be reinstated or restored to duty or reemployed in the same department or agency and shall not be reemployed in any other department or agency, unless the head of the department or agency concerned finds that such reinstatement, restoration, or reemployment is clearly consistent with the interests of the national security, which finding shall be made a part of the records of such department or agency: Provided, that no person whose employment has been terminated under such authority thereafter may be employed by any other department or agency except after a determination by the Office of Personnel Management that such person is eligible for such employment.
 
@@ -92,7 +94,7 @@ Sec. 8. (a) The investigations conducted pursuant to this order shall be designe
 
 (b) The investigation of persons entering or employed in the competitive service shall primarily be the responsibility of the Office of Personnel Management, except in cases in which the head of a department or agency assumes that responsibility pursuant to law or by agreement with the Office. The Office shall furnish a full investigative report to the department or agency concerned.
 
-(c) The investigation of persons (including consultants, however employed), entering employment of, or employed by, the Government other than in the competitive service shall primarily be the responsibility of the employing department or agency. Departments and agencies without investigative facilities may use the investigative facilities of the Office of Personnel Management, and other departments and agencies may use such facilities under agreement with the Office.
+(c) The investigation of persons (including consultants, however employed), entering employment of, or employed by, the Government other than in the competitive service shall primarily be the responsibility of the employing department or agency. Departments andagencies without investigative facilities may use the investigative facilities of the Office of Personnel Management, and other departments and agencies may use such facilities under agreement with the Office.
 
 (d) There shall be referred promptly to the Federal Bureau of Investigation all investigations being conducted by any other agencies which develop information indicating that an individual may have been subjected to coercion, influence, or pressure to act contrary to the interests of the national security, or information relating to any of the matters described in subdivisions (2) through (8) of subsection (a) of this section. In cases so referred to it, the Federal Bureau of Investigation shall make a full field investigation.
 

@@ -1,6 +1,6 @@
 ### §§241 to 244. Repealed. Pub. L. 96–591, §8(b), Dec. 24, 1980, 94 Stat. 3435
 
-Section 241, acts Feb. 8, 1895, ch. 64, §1, 28 Stat. 645; Mar. 28, 1958, Pub. L. 85–350, §1, 72 Stat. 49, requiredadoption of rules for navigation of Great Lakes and connecting and tributary waters. See section 2001 of this title.
+Section 241, acts Feb. 8, 1895, ch. 64, §1, 28 Stat. 645; Mar. 28, 1958, Pub. L. 85–350, §1, 72 Stat. 49, required adoption of rules for navigation of Great Lakes and connecting and tributary waters. See section 2001 of this title.
 
 Section 242, acts Feb. 8, 1895, ch. 64, §1, 28 Stat. 645, defined “sailing vessel”, “steam vessel” and “under way”. See section 2003 of this title.
 

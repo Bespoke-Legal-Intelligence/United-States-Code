@@ -30,7 +30,7 @@ For purposes of this chapter, the term “non-skip person” means any person wh
 
 1980—Subsec. (e)(2)(A)(i). Pub. L. 96–222, §107(a)(2)(B)(i), inserted “(other than as a potential appointee under a power of appointment held by another)” after “trust”.
 
-Subsec. (e)(2)(B). Pub. L. 96–222, §107(a)(2)(B)(ii), redesignated cls. (iii) to (v) as (iv) to (vi), added cl. (iii), and struck out cl. (vi) which related to an employee of a corporation in which the grantor or any beneficiary of the trust is an executive.
+Subsec. (e)(2)(B). Pub. L. 96–222, §107(a)(2)(B)(ii), redesignated cls. (iii) to (v) as (iv) to (vi), added cl. (iii), and struck out cl. (vi) which related to an employee ofa corporation in which the grantor or any beneficiary of the trust is an executive.
 
 1978—Subsec. (b)(2)(B). Pub. L. 95–600, §702(n)(3), substituted “a present interest and a present power” for “an interest and a power” and “present interest or present power” for “interest or power” wherever appearing.
 
@@ -52,7 +52,7 @@ Amendment by Pub. L. 96–222 effective, except as otherwise provided, as if it 
 
 Section 702(n)(5) of Pub. L. 95–600, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
-“(A) Except as provided in subparagraph (B), the amendments made by this subsection \[amending thissection, section 2602 of this title, and provisions set out as a note under section 2601 of this title\] shall take effect as if included in chapter 13 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] as added by section 2006 of the Tax Reform Act of 1976 \[Pub. L. 94–455, title XX, §2006, Oct. 4, 1976, 90 Stat. 1879\].
+“(A) Except as provided in subparagraph (B), the amendments made by this subsection \[amending this section, section 2602 of this title, and provisions set out as a note under section 2601 of this title\] shall take effect as if included in chapter 13 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] as added by section 2006 of the Tax Reform Act of 1976 \[Pub. L. 94–455, title XX, §2006, Oct. 4, 1976, 90 Stat. 1879\].
 
 “(B) The amendment made by paragraph (1) \[amending provisions set out as a note under section 2601 of this title\] shall take effect on October 4, 1976.”
 

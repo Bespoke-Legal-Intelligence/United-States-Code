@@ -136,5 +136,5 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 26, 80, 936, 6167 of this title.
+This section is referred to in sections 26, 30A, 80, 936, 6167 of this title.
 

@@ -66,7 +66,7 @@ Subsec. (c). Pub. L. 103–337, §504(b)(1)(B), added subsec. (c) and struck out
 
 1967—Pub. L. 90–179, §2(1)(A), inserted reference to Judge Advocate General's Corps in section catchline.
 
-Subsecs. (a) to (d). Pub. L. 90–179, §2(1)(B), (C), added subsec. (a), redesignated existing subsecs. (a) to (c) as (b) to (d), respectively, and in subsec. (b) as so redesignated substituted “judge advocates” for “officers”.
+Subsecs. (a) to (d). Pub. L. 90–179, §2(1)(B), (C), added subsec. (a), redesignated existing subsecs. (a) to (c) as\(b) to (d), respectively, and in subsec. (b) as so redesignated substituted “judge advocates” for “officers”.
 
 1962—Subsec. (b). Pub. L. 87–649 struck out “, pay, allowances,” after “same rank”. See Title 37, Pay and Allowances of the Uniformed Services.
 
@@ -88,7 +88,7 @@ Section 8 of Pub. L. 90–179 provided that:
 
 #### Savings Provision
 
-Section 10 of Pub. L. 90–179 provided that: “This Act \[enacting sections 5578a and 5587a of this title, amending this section, sections 801, 806, 815, 827, 865, 936, 5149, 5404, 5508, 5581, 5587, 5600, 5652a, 5702, 5708, 5753, 5762, 5896,5897 and 6378 of this title, and section 202 of Title 37, and enacting provisions set out as notes under this section and section 5149 of this title\] does not affect rights accrued, duties matured, or proceedings commenced before its effective date. Redesignation of an officer under section 8(b) of this Act \[set out as a note under this section\] shall not operate to change the computation of his service for any purpose.”
+Section 10 of Pub. L. 90–179 provided that: “This Act \[enacting sections 5578a and 5587a of this title, amending this section, sections 801, 806, 815, 827, 865, 936, 5149, 5404, 5508, 5581, 5587, 5600, 5652a, 5702, 5708, 5753, 5762, 5896, 5897 and 6378 of this title, and section 202 of Title 37, and enacting provisions set out as notes under this section and section 5149 of this title\] does not affect rights accrued, duties matured, or proceedings commenced before its effective date. Redesignation of an officer under section 8(b) of this Act \[set out as a note under this section\] shall not operate to change the computation of his service for any purpose.”
 
 #### Women Officers in Judge Advocate General's Corps of Navy
 

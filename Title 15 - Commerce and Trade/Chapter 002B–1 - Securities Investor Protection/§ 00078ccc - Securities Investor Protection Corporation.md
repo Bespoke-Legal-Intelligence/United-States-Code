@@ -14,7 +14,7 @@
 
 #### (A) Members of SIPC
 
-&emsp;&emsp;SIPC shall be a membership corporation the members of which shall be all personsregistered as brokers or dealers under section 78<i>o</i>(b) of this title, other than—
+&emsp;&emsp;SIPC shall be a membership corporation the members of which shall be all persons registered as brokers or dealers under section 78<i>o</i>(b) of this title, other than—
 
 &emsp;&emsp;&emsp;(i) persons whose principal business, in the determination of SIPC, taking into account business of affiliated entities, is conducted outside the United States and its territories and possessions; and
 
@@ -54,7 +54,7 @@ In addition to the powers granted to SIPC elsewhere in this chapter, SIPC shall 
 
 &emsp;&emsp;(C) the exercise of all other rights and powers granted to it by this chapter;
 
-&emsp;(5) to conduct its business (including the carrying on of operations and the maintenance of offices) and to exercise all other rights and powers granted to it by this chapter in any State or other jurisdiction without regard to any qualification, licensing, or other statute in such State or other jurisdiction;
+&emsp;(5) to conduct its business (including the carrying on of operations and the maintenanceof offices) and to exercise all other rights and powers granted to it by this chapter in any State or other jurisdiction without regard to any qualification, licensing, or other statute in such State or other jurisdiction;
 
 &emsp;(6) to lease, purchase, accept gifts or donations of or otherwise acquire, to own, hold, improve, use, or otherwise deal in or with, and to sell, convey, mortgage, pledge, lease, exchange or otherwise dispose of, any property, real, personal or mixed, or any interest therein, wherever situated;
 
@@ -80,7 +80,7 @@ In addition to the powers granted to SIPC elsewhere in this chapter, SIPC shall 
 
 &emsp;&emsp;(C) Five directors shall be appointed by the President, by and with the advice and consent of the Senate, as follows—
 
-&emsp;&emsp;&emsp;(i) three such directors shall be selected from among persons who are associatedwith, and representative of different aspects of, the securities industry, not all of whom shall be from the same geographical area of the United States, and
+&emsp;&emsp;&emsp;(i) three such directors shall be selected from among persons who are associated with, and representative of different aspects of, the securities industry, not all of whom shall be from the same geographical area of the United States, and
 
 &emsp;&emsp;&emsp;(ii) two such directors shall be selected from the general public from among persons who are not associated with a broker or dealer or associated with a member of a national securities exchange, within the meaning of section 78c(a)(18) or section 78c(a)(21), respectively, of this title, or similarly associated with any self-regulatory organization or other securities industry group, and who have not had any such association during the two years preceding appointment.
 
@@ -138,7 +138,7 @@ The Board of Directors shall meet at the call of its Chairman, or as otherwise p
 
 #### (C) Proceedings
 
-&emsp;&emsp;Proceedings instituted with respect to a proposed rule change pursuant to subparagraph (B)(ii) shall include notice of the grounds for disapproval under consideration and opportunity for hearing, and shall be concluded within one hundred eighty days after the date of publication of notice of the filing of such proposed rule change. At theconclusion of such proceedings, the Commission shall, by order, approve or disapprove such proposed rule change. The Commission may extend the time for conclusion of such proceedings for not more than sixty days if it finds good cause for such extension and publishes its reasons for so finding, or for such longer period as to which SIPC consents.
+&emsp;&emsp;Proceedings instituted with respect to a proposed rule change pursuant to subparagraph (B)(ii) shall include notice of the grounds for disapproval under consideration and opportunity for hearing, and shall be concluded within one hundred eighty days after the date of publication of notice of the filing of such proposed rule change. At the conclusion of such proceedings, the Commission shall, by order, approve or disapprove such proposed rule change. The Commission may extend the time for conclusion of such proceedings for not more than sixty days if it finds good cause for such extension and publishes its reasons for so finding, or for such longer period as to which SIPC consents.
 
 #### (D) Grounds for approval or disapproval
 
@@ -170,7 +170,7 @@ The District of Columbia Nonprofit Corporation Act, referred to in subsec. (a)(1
 
 1978—Subsec. (a). Pub. L. 95–283, §2(a), substituted “Creation and membership” for “Creation” in heading, redesignated introductory text and cls. (1) and (3) as par. (1), and added par. 2 which incorporated provisions formerly contained in cl. (2) as par. (2)(A).
 
-Subsec. (b). Pub. L. 95–283, §3, in par. (1) substituted “State, Federal, or other court” for “court, State, or Federal”, in par. (3) substituted provisions relating to adoption, etc., of bylaws by the Board of Directors, for provisions relating to adoption, etc., of bylaws and rules by the Board of Directors, added par. (4), and redesignated former pars. (4) to (8) as (5) to (9), respectively.
+Subsec. (b). Pub. L. 95–283, §3, in par. (1) substituted “State, Federal, or other court” for “court, State, orFederal”, in par. (3) substituted provisions relating to adoption, etc., of bylaws by the Board of Directors, for provisions relating to adoption, etc., of bylaws and rules by the Board of Directors, added par. (4), and redesignated former pars. (4) to (8) as (5) to (9), respectively.
 
 Subsec. (c)(2)(C)(ii). Pub. L. 95–283, §4(a), substituted “a broker or dealer or associated with a member of a national securities exchange, within the meaning of section 78c(a)(18) or section 78c(a)(21), respectively, of this title, or similarly associated with any self-regulatory organization or other securities industry group,” for “any broker or dealer, within the meaning of paragraph (18) of section 78c(a) of this title, or similarly associated with a national securities exchange or other securities industry group”.
 

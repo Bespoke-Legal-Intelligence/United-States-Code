@@ -18,17 +18,17 @@ The Governor or Governor's designee of each State shall, within 3 years of June 
 
 #### (b) Public participation
 
-To the maximum extent possible, each State shall establish procedures, including but not limited to the establishment of technical and citizens’ advisory committees, to encourage the public to participate in developing the protection program for wellhead areas. Such procedures shall include notice and opportunity for public hearing on the State program before it is submitted to the Administrator.
+To the maximum extent possible, each State shall establish procedures, including but not limited to the establishment of technical and citizens’ advisory committees, to encourage the public to participate in developing the protection program for wellhead areas and source water assessment programs under section 300j–13 of this title. Such procedures shall include notice and opportunity for public hearing on the State program before it is submitted to the Administrator.
 
 #### (c) Disapproval
 
 #### (1) In general
 
-&emsp;If, in the judgment of the Administrator, a State program (or portion thereof, including the definition of a wellhead protection area), is not adequate to protect public water systems as required by this section, the Administrator shall disapprove such program (or portion thereof). A State program developed pursuant to subsection (a) of this section shall be deemed to be adequate unless the Administrator determines, within 9 months of the receipt of a State program, that such program (or portion thereof) is inadequate for the purpose of protecting public water systems as required by this section from contaminants that may have any adverse effect on the health of persons. If the Administrator determines that a proposed State program (or any portion thereof) is inadequate, the Administrator shall submit a written statement of the reasons for such determination to the Governor of the State.
+&emsp;If, in the judgment of the Administrator, a State program or portion thereof under subsection (a) of this section is not adequate to protect public water systems as required by subsection (a) of this section or a State program under section 300j–13 of this title or section 300g–7(b) of this title does not meet the applicable requirements of section 300j–13 of this title or section 300g–7(b) of this title, theAdministrator shall disapprove such program or portion thereof. A State program developed pursuant to subsection (a) of this section shall be deemed to be adequate unless the Administrator determines, within 9 months of the receipt of a State program, that such program (or portion thereof) is inadequate for the purpose of protecting public water systems as required by this section from contaminants that may have any adverse effect on the health of persons. A State program developed pursuant to section 300j–13 of this title or section 300g–7(b) of this title shall be deemed to meet the applicable requirements of section 300j–13 of this title or section 300g–7(b) of this title unless the Administrator determines within 9 months of the receipt of the program that such program (or portion thereof) does not meet such requirements. If the Administrator determines that a proposed State program (or any portion thereof) is disapproved, the Administrator shall submit a written statement of the reasons for such determination to the Governor of the State.
 
 #### (2) Modification and resubmission
 
-&emsp;Within 6 months after receipt of the Administrator's written notice under paragraph (1) that any proposed State program (or portion thereof) is inadequate, the Governor or Governor's designee, shall modify the program based upon the recommendations of the Administrator and resubmit the modified program to the Administrator.
+&emsp;Within 6 months after receipt of the Administrator's written notice under paragraph (1) that any proposed State program (or portion thereof) is disapproved, the Governor or Governor's designee, shall modify the program based upon the recommendations of the Administrator and resubmit the modified program to the Administrator.
 
 #### (d) Federal assistance
 
@@ -82,31 +82,18 @@ Nothing in this section shall authorize or require any department, agency, or ot
 
 Unless the State program is disapproved under this section, the Administrator shall make grants to the State for not less than 50 or more than 90 percent of the costs incurred by a State (as determined by the Administrator) in developing and implementing each State program under this section. For purposes of making such grants there is authorized to be appropriated not more than the following amounts:
 
-> &emsp;Fiscal year:
+&nbsp;
 
-<i>Amount  </i>
+| Fiscal year: | <i>Amount</i> |
+| :--- | ---: |
+| &nbsp;&nbsp;1987 | $20,000,000&nbsp;&nbsp; |
+| &nbsp;&nbsp;1988 | 20,000,000&nbsp;&nbsp; |
+| &nbsp;&nbsp;1989 | 35,000,000&nbsp;&nbsp; |
+| &nbsp;&nbsp;1990 | 35,000,000&nbsp;&nbsp; |
+| &nbsp;&nbsp;1991 | 35,000,000&nbsp;&nbsp; |
+| &nbsp;&nbsp;1992–2003 | 30,000,000. |
 
-&nbsp;&nbsp;1987
-
-&nbsp;$20,000,000
-
-&nbsp;&nbsp;1988
-
-&nbsp;&nbsp;20,000,000
-
-&nbsp;&nbsp;1989
-
-&nbsp;&nbsp;35,000,000
-
-&nbsp;&nbsp;1990
-
-&nbsp;&nbsp;35,000,000
-
-&nbsp;&nbsp;1991
-
-&nbsp;&nbsp;35,000,000
-
-(July 1, 1944, ch. 373, title XIV, §1428, as added and amended June 19, 1986, Pub. L. 99–339, title II, §205, title III, §301(e), 100 Stat. 660, 664.)
+(July 1, 1944, ch. 373, title XIV, §1428, as added and amended June 19, 1986, Pub. L. 99–339, title II, §205, title III, §301(e), 100 Stat. 660, 664; Aug. 6, 1996, Pub. L. 104–182, title I, §§120(b), 132(b), title V, §501(f)(4), 110 Stat. 1650, 1674, 1692.)
 
 #### References in Text
 
@@ -118,9 +105,23 @@ The Comprehensive Environmental Response, Compensation, and Liability Act of 198
 
 #### Amendments
 
+1996—Pub. L. 104–182, §501(f)(4), made technical amendment to section catchline and subsec. (a) designation.
+
+Subsec. (b). Pub. L. 104–182, §132(b)(4), inserted before period at end of first sentence “and source water assessment programs under section 300j–13 of this title”.
+
+Subsec. (c)(1). Pub. L. 104–182, §132(b)(3), which directed substitution of “is disapproved” for “is inadequate” in third sentence, was executed by making the substitution in fourth sentence to reflect the probable intent of Congress and the amendment by Pub. L. 104–182, §132(b)(2). See below.
+
+Pub. L. 104–182, §132(b)(2), inserted after second sentence “A State program developed pursuant to section 300j–13 of this title or section 300g–7(b) of this title shall be deemed to meet the applicable requirements of section 300j–13 of this title or section 300g–7(b) of this title unless the Administrator determines within 9 months of the receipt of the program that such program (or portion thereof) does not meet such requirements.”
+
+Pub. L. 104–182, §132(b)(1), amended first sentence generally. Prior to amendment, first sentence read as follows: “If, in the judgment of the Administrator, a State program (or portion thereof, including the definition of a wellhead protection area), is not adequate to protect public water systems as required by this section, the Administrator shall disapprove such program (or portion thereof).”
+
+Subsec. (c)(2). Pub. L. 104–182, §132(b)(3), substituted “is disapproved” for “is inadequate”.
+
+Subsec. (k). Pub. L. 104–182, §120(b), inserted table item relating to fiscal years 1992 through 2003.
+
 1986—Subsec. (k). Pub. L. 99–339, §301(e), added subsec. (k).
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 16 section 3838c.
+This section is referred to in sections 300j–12, 300j–13, 300j–14 of this title.
 

@@ -16,7 +16,7 @@ To cooperate with the executive departments and other agencies of State or Natio
 
 #### (d) Publication of information, etc.; reports to Congress
 
-To make public from time to time the information secured hereunder, and to provide forthe publication of its reports and investigations in such form and manner as may be best adapted for public information and use. The Commission, on or before the 3d day of January of each year, shall submit to Congress for the fiscal year preceding a classified report showing the permits and licenses issued under this subchapter, and in each case the parties thereto, the terms prescribed, and the moneys received if any, or account thereof.
+To make public from time to time the information secured hereunder, and to provide for the publication of its reports and investigations in such form and manner as may be best adapted for public information and use. The Commission, on or before the 3d day of January of each year, shall submit to Congress for the fiscal year preceding a classified report showing the permits and licenses issued under this subchapter, and in each case the parties thereto, the terms prescribed, and the moneys received if any, or account thereof.
 
 #### (e) Issue of licenses for construction, etc., of dams, conduits, reservoirs, etc.
 
@@ -104,7 +104,7 @@ Studies of Opportunities for Increased Hydroelectric Generation.—The Secretary
 
 “(b)
 
-Exception for Previous Studies.—In those cases where studies of the type required by this section have been prepared by any agency of the United States and published within the ten years prior to the date of enactment of this Act \[Oct. 24, 1992\], the Secretary of the Interior, or the Secretary of the Army, may choose not to perform new studies but incorporate the information developed by such studies into the study reports required by this section.
+Exception for Previous Studies.—In those cases where studies of the type required by this section have been prepared by any agency of the United States and published within the ten years prior to the date ofenactment of this Act \[Oct. 24, 1992\], the Secretary of the Interior, or the Secretary of the Army, may choose not to perform new studies but incorporate the information developed by such studies into the study reports required by this section.
 
 “(c)
 

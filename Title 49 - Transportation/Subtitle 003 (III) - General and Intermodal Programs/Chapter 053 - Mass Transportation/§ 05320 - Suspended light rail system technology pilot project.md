@@ -32,7 +32,7 @@ Competition.—(1) The Secretary of Transportation shall conduct a national comp
 
 (d)
 
-Environmental Impact.—Not later than 270 days after a public entity is selected under subsection (c) of this section, the Secretary shall approve and publish in the Federal Register a notice announcing either a finding of no significant impact or a draft environmental impact statement for the project. The alternatives analysis for the project shall include a decision on whether to construct the project. If a draft statement is published, the Secretary, not later than 180 days after publication, shall approve and publish in the Federal Register a notice of completion of a final environmental impact statement.
+Environmental Impact.—Not later than 270 days after a public entity is selected undersubsection (c) of this section, the Secretary shall approve and publish in the Federal Register a notice announcing either a finding of no significant impact or a draft environmental impact statement for the project. The alternatives analysis for the project shall include a decision on whether to construct the project. If a draft statement is published, the Secretary, not later than 180 days after publication, shall approve and publish in the Federal Register a notice of completion of a final environmental impact statement.
 
 (e)
 
@@ -64,7 +64,7 @@ Financing.—(1) The Secretary shall pay from amounts provided under section 530
 
 &emsp;(A) at least $1,000,000 for the fiscal year ending September 30, 1992, for grants under subsection (c)(2) of this section.
 
-&emsp;(B) at least $4,000,000 for the fiscal year ending September 30, 1993, for the United States Government share of the costs (as determined under section 5309 of this title) if the systemsplanning, alternatives analysis, preliminary engineering, and design and environmental impact statement are required by law for the project.
+&emsp;(B) at least $4,000,000 for the fiscal year ending September 30, 1993, for the United States Government share of the costs (as determined under section 5309 of this title) if the systems planning, alternatives analysis, preliminary engineering, and design and environmental impact statement are required by law for the project.
 
 &emsp;(C) at least $30,000,000 for the fiscal year ending September 30, 1994, as provided in the grant agreement under subsection (e) of this section, for the Government share of the construction costs of the project.
 
@@ -92,7 +92,9 @@ Historical and Revision Notes
 
 Pub. L. 103–272
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

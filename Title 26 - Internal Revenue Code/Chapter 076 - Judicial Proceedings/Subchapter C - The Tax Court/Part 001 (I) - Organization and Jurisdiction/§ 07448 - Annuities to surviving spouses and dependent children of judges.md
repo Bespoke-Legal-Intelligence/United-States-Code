@@ -14,7 +14,7 @@ For purposes of this section—
 
 &emsp;(5) The term “survivors annuity fund” means the Tax Court judges survivors annuity fund established by this section.
 
-&emsp;(6) The term “surviving spouse” means a surviving spouse of an individual, who either (A) shall have been married to such individualfor at least 2 years immediately preceding his death or (B) is a parent of issue by such marriage, and who has not remarried.
+&emsp;(6) The term “surviving spouse” means a surviving spouse of an individual, who either (A) shall have been married to such individual for at least 2 years immediately preceding his death or (B) is a parent of issue by such marriage, and who has not remarried.
 
 &emsp;(7) The term “dependent child” means an unmarried child, including a dependent stepchild or an adopted child, who is under the age of 18 years or who because of physical or mental disability is incapable of self-support.
 
@@ -64,7 +64,7 @@ The Secretary of the Treasury shall invest from time to time, in interest-bearin
 
 #### (f) Crediting of deposits
 
-The amount deposited by or deducted and withheld from the salary of each judge electingto bring himself within the purview of this section for credit to the survivors annuity fund shall be credited to an individual account of such judge.
+The amount deposited by or deducted and withheld from the salary of each judge electing to bring himself within the purview of this section for credit to the survivors annuity fund shall be credited to an individual account of such judge.
 
 #### (g) Termination
 
@@ -76,7 +76,7 @@ In case any judge electing under subsection (b) shall die while a judge after ha
 
 &emsp;(1) if such judge is survived by a surviving spouse but not by a dependent child, there shall be paid to such surviving spouse an annuity beginning with the day of the death of the judge or following the surviving spouse's attainment of the age of 50 years, whichever is the later, in an amount computed as provided in subsection (m); or
 
-&emsp;(2) if such judge is survived by a surviving spouse and a dependent child or children, there shall be paid to such surviving spouse an immediate annuity in an amount computed as provided in subsection (m), and there shall also be paid to or on behalf of each such child an immediate annuity equal to the lesser of—
+&emsp;(2) if such judge is survived by a surviving spouse and a dependent child or children,there shall be paid to such surviving spouse an immediate annuity in an amount computed as provided in subsection (m), and there shall also be paid to or on behalf of each such child an immediate annuity equal to the lesser of—
 
 &emsp;&emsp;(A) 10 percent of the average annual salary of such judge (determined in accordance with subsection (m)), or
 
@@ -124,7 +124,7 @@ Questions of dependency and disability arising under this section shall be deter
 
 &emsp;(A) to the duly appointed executor or administrator of the estate of such person;
 
-&emsp;(B) if there is no such executor or administrator payment may be made, after the expiration of thirty days from the date of the death of such person, to such individual or individuals as may appear in the judgment of the chief judge to be legally entitled thereto, and such payment shall be a bar to recovery by any other individual.
+&emsp;(B) if there is no such executor or administrator payment may be made, after the expiration of thirty days from the date of the death of such person, to such individual or individuals as may appear in the judgment of thechief judge to be legally entitled thereto, and such payment shall be a bar to recovery by any other individual.
 
 #### (k) Payments to persons under legal disability
 
@@ -144,7 +144,7 @@ Subject to the provisions of subsection (d), the years of service of a judge whi
 
 #### (<i>o</i>) Simultaneous entitlement
 
-Nothing contained in this section shall be construed to prevent a surviving spouse eligible therefor from simultaneously receiving an annuity under this section and any annuity to which such spouse would otherwise be entitled under any other law without regard to this section, but in computing such other annuity serviceused in the computation of such spouse's annuity under this section shall not be credited.
+Nothing contained in this section shall be construed to prevent a surviving spouse eligible therefor from simultaneously receiving an annuity under this section and any annuity to which such spouse would otherwise be entitled under any other law without regard to this section, but in computing such other annuity service used in the computation of such spouse's annuity under this section shall not be credited.
 
 #### (p) Estimates of expenditures
 

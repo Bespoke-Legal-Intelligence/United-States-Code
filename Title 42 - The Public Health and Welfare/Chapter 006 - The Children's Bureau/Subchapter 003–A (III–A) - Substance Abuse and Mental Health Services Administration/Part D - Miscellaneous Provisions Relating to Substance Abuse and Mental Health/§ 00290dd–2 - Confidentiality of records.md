@@ -26,7 +26,7 @@ Except as authorized by a court order granted under subsection (b)(2)(C) of this
 
 #### (d) Application
 
-The prohibitions of this section continue to apply to records concerning any individual whohas been a patient, irrespective of whether or when such individual ceases to be a patient.
+The prohibitions of this section continue to apply to records concerning any individual who has been a patient, irrespective of whether or when such individual ceases to be a patient.
 
 #### (e) Nonapplicability
 
@@ -86,7 +86,7 @@ Amendment by Pub. L. 94–581 effective Oct. 21, 1976, see section 211 of Pub. L
 
 #### Report of Administrator of Veterans’ Affairs to Congressional Committees; Publication in Federal Register
 
-Section 121(b) of Pub. L. 93–282, which directed Administrator of Veterans’ Affairs to submit to appropriate committees of House of Representatives and Senate a full report (1) on regulations (including guidelines, policies, and procedures thereunder) he had prescribed pursuant to section 321(b)(2) of Comprehensive Alcohol Abuse and Alcoholism Prevention, Treatment,and Rehabilitation Act of 1970 \[former subsec. (b)(2) of this section\], (2) explaining bases for any inconsistency between such regulations and regulations of Secretary under section 321(b)(1) of such Act \[subsec. (b)(1) of this section\], (3) on extent, substance, and results of his consultations with Secretary respecting prescribing and implementation of Administrator's regulations, and (4) containing such recommendations for legislation and administrative actions as he determined were necessary and desirable, with Administrator to submit report not later than sixty days after effective date of regulations prescribed by Secretary under such section 321(b)(1) \[subsec. (b)(1) of this section\], and to publish such report in Federal Register, was characterized by section 111(c)(5) of Pub. L. 94–581 as having been superseded by section 4134 \[now 7334\] of Title 38, Veterans’ Benefits.
+Section 121(b) of Pub. L. 93–282, which directed Administrator of Veterans’ Affairs to submit to appropriate committees of House of Representatives and Senate a full report (1) on regulations (including guidelines, policies, and procedures thereunder) he had prescribed pursuant to section 321(b)(2) of Comprehensive Alcohol Abuse and Alcoholism Prevention, Treatment, and Rehabilitation Act of 1970 \[former subsec. (b)(2) of this section\], (2) explaining bases for any inconsistency between such regulations and regulations of Secretary under section 321(b)(1) of such Act \[subsec. (b)(1) of this section\], (3) on extent, substance, and results of his consultations with Secretary respecting prescribing and implementation of Administrator's regulations, and (4) containing such recommendations for legislation and administrative actions as he determined were necessary and desirable, with Administrator to submit report not later than sixty days after effective date of regulations prescribed by Secretary under such section 321(b)(1) \[subsec. (b)(1) of this section\], and to publish such report in Federal Register, was characterized by section 111(c)(5) of Pub. L. 94–581 as having been superseded by section 4134 \[now 7334\] of Title 38, Veterans’ Benefits.
 
 #### Section Referred to in Other Sections
 

@@ -30,7 +30,7 @@ For transfer of functions of other officers, employees, and agencies of Departme
 
 Bureau of Employees’ Compensation transferred to Department of Labor from Federal Security Agency by Reorg. Plan No. 19 of 1950, §1, which was repealed by Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 662, the subject matter of which is covered by section 8101 et seq. of Title 5. Subsequently, Bureau of Compensation absorbed by Employment Standards Administration in Department of Labor.
 
-Bureau of Labor Standards established in Department of Labor by departmental order in 1934, and itsfunctions absorbed by Occupational Safety and Health Administration in May 1971.
+Bureau of Labor Standards established in Department of Labor by departmental order in 1934, and its functions absorbed by Occupational Safety and Health Administration in May 1971.
 
 Division of Public Contracts established in Department of Labor by virtue of act June 30, 1936, and was consolidated with Wage and Hour Division by order of Secretary of Labor on Aug. 21, 1942. Subsequently, by order of Secretary of Labor in May 1971, Division of Public Contracts absorbed by Wage and Hour Division.
 
@@ -46,5 +46,5 @@ Bureau of Immigration and Bureau of Naturalization, placed under jurisdiction of
 
 Children's Bureau transferred from Department of Labor to Federal Security Agency by Reorg. Plan No. 2 of 1946, set out in the Appendix to Title 5. For status of Children's Bureau, see note under section 191 of Title 42, The Public Health and Welfare.
 
-United States Conciliation Service established in Department of Labor by virtue of act Mar. 4, 1913, §8, formerly set out as section 619 of former Title 5, Executive Departments and Government Officers and Employees, and section 51 of this title, but was discontinued in view of act June 23, 1947, §202, and set out as section 172 of this title, which transferred to Federal Mediation and Conciliation Service, an independent agency, all powers and functions vested in Secretary of Labor by act Mar. 4, 1913, §8, formerly cited as a credit to this section.
+United States Conciliation Service established in Department of Labor by virtue of act Mar. 4, 1913, §8, formerly set out as section 619 of former Title 5, Executive Departments and Government Officers and Employees, and section 51 of this title, but was discontinued in view of act June 23, 1947, §202, and set out as section 172 of this title, which transferred to Federal Mediationand Conciliation Service, an independent agency, all powers and functions vested in Secretary of Labor by act Mar. 4, 1913, §8, formerly cited as a credit to this section.
 

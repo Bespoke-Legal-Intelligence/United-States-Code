@@ -2,13 +2,13 @@
 
 #### (a) In general
 
-The President shall seek the establishment in the GATT 1947, and, upon entry into force of the WTO Agreement with respect to the United States, in the WTO, of a working party to examine the relationship of internationally recognized worker rights, as defined in section 2462(a)(4) of this title, to the articles, objectives, and related instruments of the GATT 1947 and of the WTO, respectively.
+The President shall seek the establishment in the GATT 1947, and, upon entry into force of the WTO Agreement with respect to the United States, in the WTO, of a working party to examine the relationship of internationally recognized worker rights, as defined in section 2467(4) of this title, to the articles, objectives, and related instruments of the GATT 1947 and of the WTO, respectively.
 
 #### (b) Objectives of working party
 
 The objectives of the United States for the working party described in subsection (a) of this section are to—
 
-&emsp;(1) explore the linkage between international trade and internationally recognized worker rights, as defined in section 2462(a)(4) of this title, taking into account differences in the level of development among countries;
+&emsp;(1) explore the linkage between international trade and internationally recognized worker rights, as defined in section 2467(4) of this title, taking into account differences in the level of development among countries;
 
 &emsp;(2) examine the effects on international trade of the systematic denial of such rights;
 
@@ -20,7 +20,15 @@ The objectives of the United States for the working party described in subsectio
 
 The President shall report to the Congress, not later than 1 year after December 8, 1994, on the progress made in establishing the working party under this section, and on United States objectives with respect to the working party's work program.
 
-(Pub. L. 103–465, title I, §131, Dec. 8, 1994, 108 Stat. 4839.)
+(Pub. L. 103–465, title I, §131, Dec. 8, 1994, 108 Stat. 4839; Pub. L. 104–188, title I, §1954(a)(6), Aug. 20, 1996, 110 Stat. 1928.)
+
+#### Amendments
+
+1996—Subsecs. (a), (b)(1). Pub. L. 104–188 substituted “2467(4)” for “2462(a)(4)”.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–188 applicable to articles entered on or after Oct. 1, 1996, with provisions relating to retroactive application, see section 1953 of Pub. L. 104–188, set out as an Effective Date note under section 2461 of this title.
 
 #### Effective Date
 

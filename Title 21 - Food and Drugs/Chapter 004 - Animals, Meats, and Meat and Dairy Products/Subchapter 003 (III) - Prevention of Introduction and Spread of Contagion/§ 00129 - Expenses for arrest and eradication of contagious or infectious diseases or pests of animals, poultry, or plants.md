@@ -1,8 +1,8 @@
 ### §129. Expenses for arrest and eradication of contagious or infectious diseases or pests of animals, poultry, or plants
 
-In emergencies which threaten any segment of the agricultural production industry of this country, the Secretary may transfer from other appropriations or funds available to the agencies or corporations of the Department such sums as he may deem necessary, to be available only in such emergencies for the arrest and eradication of contagious or infectious diseases or pests of animals, poultry, or plants, and for expenses in accordance with sections 114b to 114d–1 of this title and section 147a of title 7, and any unexpended balances of funds transferred for such emergency purposes in the next preceding fiscal year shall be merged with such transferred amounts.
+In emergencies which threaten any segment of the agricultural production industry of this country, the Secretary may transfer from other appropriations or funds available to the agencies or corporations of the Department such sums as he may deem necessary, to be available only in such emergencies for the arrest and eradication of contagious or infectious disease or pests of animals, poultry, or plants, and for expenses in accordance with sections 114b to 114d–1 of this title and section 147a of title 7, and any unexpended balances of funds transferred for such emergency purposes in the next preceding fiscal year shall be merged with such transferred amounts.
 
-(Oct. 21, 1995, Pub. L. 104–37, title I, 109 Stat. 307.)
+(Aug. 6, 1996, Pub. L. 104–180, title I, 110 Stat. 1576.)
 
 #### Codification
 
@@ -11,6 +11,8 @@ Section is from the appropriation act cited as the credit to this section.
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in the following prior appropriation acts:
+
+Oct. 21, 1995, Pub. L. 104–37, title I, 109 Stat. 307.
 
 Sept. 30, 1994, Pub. L. 103–330, title I, 108 Stat. 2443.
 

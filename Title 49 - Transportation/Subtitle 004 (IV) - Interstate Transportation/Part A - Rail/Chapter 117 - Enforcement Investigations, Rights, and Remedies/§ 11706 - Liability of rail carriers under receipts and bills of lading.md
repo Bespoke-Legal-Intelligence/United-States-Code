@@ -1,6 +1,6 @@
 ### §11706. Liability of rail carriers under receipts and bills of lading
 
-(a) A rail carrier providing transportation or service subject to the jurisdiction of the Board under this part shall issue a receipt or bill oflading for property it receives for transportation under this part. That rail carrier and any other carrier that delivers the property and is providing transportation or service subject to the jurisdiction of the Board under this part are liable to the person entitled to recover under the receipt or bill of lading. The liability imposed under this subsection is for the actual loss or injury to the property caused by—
+(a) A rail carrier providing transportation or service subject to the jurisdiction of the Board under this part shall issue a receipt or bill of lading for property it receives for transportation under this part. That rail carrier and any other carrier that delivers the property and is providing transportation or service subject to the jurisdiction of the Board under this part are liable to the person entitled to recover under the receipt or bill of lading. The liability imposed under this subsection is for the actual loss or injury to the property caused by—
 
 &emsp;(1) the receiving rail carrier;
 

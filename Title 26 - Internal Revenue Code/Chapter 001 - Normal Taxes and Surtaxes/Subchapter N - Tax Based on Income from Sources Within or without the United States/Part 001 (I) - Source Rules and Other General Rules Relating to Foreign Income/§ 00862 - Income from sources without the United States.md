@@ -96,7 +96,7 @@ For rule governing allocation under subsec. (b) of this section of amounts allow
 
 #### Allocation Under Section 861 of Research and Experimental Expenditures
 
-For purposes of subsec. (b) of this section, all amounts allowable as a deduction for qualified research and experimental expenditures are to be allocated to income from sources within the United States and deducted from such income in determining the amount of taxable income from sources within the United Statesfor taxable years beginning after Aug. 13, 1983, and on or before Aug. 1, 1986, see section 126 of Pub. L. 98–369, set out as a note under section 861 of this title.
+For purposes of subsec. (b) of this section, all amounts allowable as a deduction for qualified research and experimental expenditures are to be allocated to income from sources within the United States and deducted from such income in determining the amount of taxable income from sources within the United States for taxable years beginning after Aug. 13, 1983, and on or before Aug. 1, 1986, see section 126 of Pub. L. 98–369, set out as a note under section 861 of this title.
 
 #### Cross References
 

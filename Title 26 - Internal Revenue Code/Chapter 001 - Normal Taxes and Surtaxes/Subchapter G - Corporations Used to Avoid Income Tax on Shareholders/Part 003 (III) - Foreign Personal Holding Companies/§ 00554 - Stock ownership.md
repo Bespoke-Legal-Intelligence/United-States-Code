@@ -40,7 +40,7 @@ Outstanding securities convertible into stock (whether or not convertible during
 
 &emsp;(2) for purposes of section 553(a)(5) (relating to personal service contracts), but only if the effect of the inclusion of all such securities is to make the amounts therein referred to includible under such paragraph as foreign personal holding company income; and
 
-&emsp;(3) for purposes of section 553(a)(6) (relating to the use of property by shareholders), but only if the effect of the inclusion of all such securities is to make the amounts therein referred to includible under such paragraph as foreign personal holding company income.
+&emsp;(3) for purposes of section 553(a)(6) (relating to the use of property by shareholders), butonly if the effect of the inclusion of all such securities is to make the amounts therein referred to includible under such paragraph as foreign personal holding company income.
 
 > The requirement in paragraphs (1), (2), and (3) that all convertible securities must be included if any are to be included shall be subject to the exception that, where some of the outstanding securities are convertible only after a later date than in the case of others, the class having the earlier conversion date may be included although the others are not included, but no convertible securities shall be included unless all outstanding securities having a prior conversion date are also included.
 
@@ -50,7 +50,7 @@ For purposes of the stock ownership requirement provided in section 552(a)(2)—
 
 &emsp;(1) stock owned by a nonresident alien individual (other than a foreign trust or foreign estate) shall not be considered by reason of so much of subsection (a)(2) as relates to attribution through family membership as owned by a citizen or by a resident alien individual who is not the spouse of the nonresident individual and who does not otherwise own stock in such corporation (determined after the application of subsection (a), other than attribution through family membership), and
 
-&emsp;(2) stock of a corporation owned by any foreign person shall not be considered by reasonof so much of subsection (a)(2) as relates to attribution through partners as owned by a citizen or resident of the United States who does not otherwise own stock in such corporation (determined after application of subsection (a) and paragraph (1), other than attribution through partners).
+&emsp;(2) stock of a corporation owned by any foreign person shall not be considered by reason of so much of subsection (a)(2) as relates to attribution through partners as owned by a citizen or resident of the United States who does not otherwise own stock in such corporation (determined after application of subsection (a) and paragraph (1), other than attribution through partners).
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 196; Feb. 26, 1964, Pub. L. 88–272, title II, §225(e), 78 Stat. 86; July 18, 1984, Pub. L. 98–369, div. A, title I, §132(a), 98 Stat. 665.)
 

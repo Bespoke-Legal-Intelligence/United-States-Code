@@ -1,0 +1,37 @@
+Part I—Common Carrier Regulation
+
+
+---
+
+**In this folder** (links to each part and section; generated, not part of GPO's text)
+
+- [&sect; 00201 - Service and charges](%C2%A7%2000201%20-%20Service%20and%20charges.md)
+- [&sect; 00202 - Discriminations and preferences](%C2%A7%2000202%20-%20Discriminations%20and%20preferences.md)
+- [&sect; 00203 - Schedules of charges](%C2%A7%2000203%20-%20Schedules%20of%20charges.md)
+- [&sect; 00204 - Hearings on new charges; suspension pending hearing; refunds; duration of hearing; appeal of order concluding hearing](%C2%A7%2000204%20-%20Hearings%20on%20new%20charges%3B%20suspension%20pending%20hearing%3B%20refunds%3B%20duration%20of%20hearing%3B%20appeal%20of%20order%20concluding%20hearing.md)
+- [&sect; 00205 - Commission authorized to prescribe just and reasonable charges; penalties for violations](%C2%A7%2000205%20-%20Commission%20authorized%20to%20prescribe%20just%20and%20reasonable%20charges%3B%20penalties%20for%20violations.md)
+- [&sect; 00206 - Carriers&#8217; liability for damages](%C2%A7%2000206%20-%20Carriers%E2%80%99%20liability%20for%20damages.md)
+- [&sect; 00207 - Recovery of damages](%C2%A7%2000207%20-%20Recovery%20of%20damages.md)
+- [&sect; 00208 - Complaints to Commission; investigations; duration of investigation; appeal of order concluding investigation](%C2%A7%2000208%20-%20Complaints%20to%20Commission%3B%20investigations%3B%20duration%20of%20investigation%3B%20appeal%20of%20order%20concluding%20investigation.md)
+- [&sect; 00209 - Orders for payment of money](%C2%A7%2000209%20-%20Orders%20for%20payment%20of%20money.md)
+- [&sect; 00210 - Franks and passes; free service to governmental agencies in connection with national defense](%C2%A7%2000210%20-%20Franks%20and%20passes%3B%20free%20service%20to%20governmental%20agencies%20in%20connection%20with%20national%20defense.md)
+- [&sect; 00211 - Contracts of carriers; filing with Commission](%C2%A7%2000211%20-%20Contracts%20of%20carriers%3B%20filing%20with%20Commission.md)
+- [&sect; 00212 - Interlocking directorates; officials dealing in securities](%C2%A7%2000212%20-%20Interlocking%20directorates%3B%20officials%20dealing%20in%20securities.md)
+- [&sect; 00213 - Valuation of property of carrier](%C2%A7%2000213%20-%20Valuation%20of%20property%20of%20carrier.md)
+- [&sect; 00214 - Extension of lines or discontinuance of service; certificate of public convenience and necessity](%C2%A7%2000214%20-%20Extension%20of%20lines%20or%20discontinuance%20of%20service%3B%20certificate%20of%20public%20convenience%20and%20necessity.md)
+- [&sect; 00215 - Examination of transactions relating to furnishing of services, equipment, etc.; reports to Congress](%C2%A7%2000215%20-%20Examination%20of%20transactions%20relating%20to%20furnishing%20of%20services%2C%20equipment%2C%20etc.%3B%20reports%20to%20Congress.md)
+- [&sect; 00216 - Receivers and trustees; application of chapter](%C2%A7%2000216%20-%20Receivers%20and%20trustees%3B%20application%20of%20chapter.md)
+- [&sect; 00217 - Agents&#8217; acts and omissions; liability of carrier](%C2%A7%2000217%20-%20Agents%E2%80%99%20acts%20and%20omissions%3B%20liability%20of%20carrier.md)
+- [&sect; 00218 - Management of business; inquiries by Commission](%C2%A7%2000218%20-%20Management%20of%20business%3B%20inquiries%20by%20Commission.md)
+- [&sect; 00219 - Reports by carriers; contents and requirements generally](%C2%A7%2000219%20-%20Reports%20by%20carriers%3B%20contents%20and%20requirements%20generally.md)
+- [&sect; 00220 - Accounts, records, and memoranda](%C2%A7%2000220%20-%20Accounts%2C%20records%2C%20and%20memoranda.md)
+- [&sect; 00221 - Consolidations and mergers of telephone companies](%C2%A7%2000221%20-%20Consolidations%20and%20mergers%20of%20telephone%20companies.md)
+- [&sect; 00222 - Privacy of customer information](%C2%A7%2000222%20-%20Privacy%20of%20customer%20information.md)
+- [&sect; 00223 - Obscene or harassing telephone calls in the District of Columbia or in interstate or foreign communications](%C2%A7%2000223%20-%20Obscene%20or%20harassing%20telephone%20calls%20in%20the%20District%20of%20Columbia%20or%20in%20interstate%20or%20foreign%20communications.md)
+- [&sect; 00224 - Pole attachments](%C2%A7%2000224%20-%20Pole%20attachments.md)
+- [&sect; 00225 - Telecommunications services for hearing-impaired and speech-impaired individuals](%C2%A7%2000225%20-%20Telecommunications%20services%20for%20hearing-impaired%20and%20speech-impaired%20individuals.md)
+- [&sect; 00226 - Telephone operator services](%C2%A7%2000226%20-%20Telephone%20operator%20services.md)
+- [&sect; 00227 - Restrictions on use of telephone equipment](%C2%A7%2000227%20-%20Restrictions%20on%20use%20of%20telephone%20equipment.md)
+- [&sect; 00228 - Regulation of carrier offering of pay-per-call services](%C2%A7%2000228%20-%20Regulation%20of%20carrier%20offering%20of%20pay-per-call%20services.md)
+- [&sect; 00229 - Communications Assistance for Law Enforcement Act compliance](%C2%A7%2000229%20-%20Communications%20Assistance%20for%20Law%20Enforcement%20Act%20compliance.md)
+- [&sect; 00230 - Protection for private blocking and screening of offensive material](%C2%A7%2000230%20-%20Protection%20for%20private%20blocking%20and%20screening%20of%20offensive%20material.md)

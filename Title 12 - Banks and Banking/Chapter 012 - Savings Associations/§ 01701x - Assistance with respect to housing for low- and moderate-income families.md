@@ -38,7 +38,7 @@
 
 #### (2) Program requirements
 
-&emsp;(A) Applications for grants under this subsection shall be submitted in the form, and inaccordance with the procedures, that the Secretary requires.
+&emsp;(A) Applications for grants under this subsection shall be submitted in the form, and in accordance with the procedures, that the Secretary requires.
 
 &emsp;(B) The homeownership counseling organizations receiving assistance under this subsection shall use the assistance only to provide homeownership counseling to eligible homeowners.
 
@@ -118,7 +118,7 @@
 
 &emsp;&emsp;The Secretary shall, to the extent of amounts approved in appropriation Acts, enter into an agreement with an appropriate private entity under which the entity will—
 
-&emsp;&emsp;&emsp;(i) operate a toll-free telephone number through which any eligible homeowner canobtain a list of nonprofit organizations, which shall be updated annually, that—
+&emsp;&emsp;&emsp;(i) operate a toll-free telephone number through which any eligible homeowner can obtain a list of nonprofit organizations, which shall be updated annually, that—
 
 &emsp;&emsp;&emsp;&emsp;(I) are approved by the Secretary and experienced in the provision of homeownership counseling; and
 
@@ -188,7 +188,7 @@
 
 #### (A) Mandatory participation
 
-&emsp;&emsp;Under the demonstration program, the Secretary shall require any eligible homebuyer who intends to purchase a home located in a counseling target area and who has applied for (as determined by the Secretary) a qualified mortgage (as such term is defined in paragraph (10)(K)) on such home that involves a downpayment of less than 10 percent of the principal obligation of the mortgage, to receive counseling prior to signing of a contract to purchase the home. The counseling shall include counseling with respect to—
+&emsp;&emsp;Under the demonstration program, the Secretary shall require any eligible homebuyer who intends to purchase a home located in a counseling target area and who has applied for (as determined by the Secretary) a qualified mortgage (as such term is defined in paragraph (9)) on such home that involves a downpayment of less than 10 percent of the principal obligation of the mortgage, to receive counseling prior to signing of a contract to purchase the home. The counseling shall include counseling with respect to—
 
 &emsp;&emsp;&emsp;(i) financial management and the responsibilities involved in homeownership;
 
@@ -262,35 +262,13 @@
 
 #### (E) Designation of control areas
 
-&emsp;&emsp;For purposes of determining the effectiveness of counseling under the demonstration program, the Secretary shall designate 3 control areas, each of which shall correspond to 1 of the counseling target areas designated under subparagraph (A). Each control area shall be located in the metropolitan area in which the corresponding counseling target area is located, shall meet the requirements of subparagraph (B), and shall be similar to such area with respect to size, age of housing stock, median income, and racial makeup of the population. Each control area shall also comply with the requirements of subclause (I) or (II) of subparagraph (B)(iv), according to the subclause with which the corresponding counseling target area complies.
+&emsp;&emsp;For purposes of determining the effectiveness of counseling under the demonstration program, the Secretary shall designate 3 control areas, each of which shall correspondto 1 of the counseling target areas designated under subparagraph (A). Each control area shall be located in the metropolitan area in which the corresponding counseling target area is located, shall meet the requirements of subparagraph (B), and shall be similar to such area with respect to size, age of housing stock, median income, and racial makeup of the population. Each control area shall also comply with the requirements of subclause (I) or (II) of subparagraph (B)(iv), according to the subclause with which the corresponding counseling target area complies.
 
 #### (8) Evaluation
 
-&emsp;Each organization providing counseling under the demonstration program under this subsection shall maintain records with respect to each eligible homebuyer and eligible homeowner counseled and shall provide information with respect to such counseling as the Secretary or the Comptroller General (for purposes of the study and report under paragraph (9)) may require.
+&emsp;Each organization providing counseling under the demonstration program under this subsection shall maintain records with respect to each eligible homebuyer and eligible homeowner counseled and shall provide information with respect to such counseling as the Secretary or the Comptroller General may require.
 
-#### (9) GAO study and report
-
-#### (A) Study
-
-&emsp;&emsp;During the 12-month period ending on the termination date under paragraph (13), the Comptroller General of the United States shall conduct a study to assess the effectiveness of the demonstration program and counseling under the program. The study shall include—
-
-&emsp;&emsp;&emsp;(i) a comparison of the default and foreclosure rates for each counseling target area and other areas, including each corresponding control area;
-
-&emsp;&emsp;&emsp;(ii) a survey of eligible homebuyers and eligible homeowners counseled under the program; and
-
-&emsp;&emsp;&emsp;(iii) identification of factors preventing participation in the program for single family home mortgage insurance under the National Housing Act \[12 U.S.C. 1701 et seq.\] and contributing to default and foreclosure under such program.
-
-#### (B) Report
-
-&emsp;&emsp;The Comptroller General shall submit to the Committees on Banking, Finance and Urban Affairs and Veterans’ Affairs of the House of Representatives, the Committees on Banking, Housing, and Urban Affairs and Veterans’ Affairs of the Senate, the Secretary of Housing and Urban Development, and the Secretary of Veterans Affairs, not later than the termination date under paragraph (13), a report regarding the study under subparagraph (A). The report shall include—
-
-&emsp;&emsp;&emsp;(i) information describing the results of the activities under clauses (i) through (iii) of such subparagraph;
-
-&emsp;&emsp;&emsp;(ii) an assessment of the effectiveness of the counseling under the program in preventing default and foreclosure, based on comparison between counseling target areas and control areas; and
-
-&emsp;&emsp;&emsp;(iii) a recommendation of whether a permanent counseling program involving prepurchase counseling or foreclosure-prevention counseling would be effective in reducing defaults and foreclosures on qualified mortgages.
-
-#### (10) Definitions
+#### (9) Definitions
 
 &emsp;For purposes of this subsection:
 
@@ -338,15 +316,15 @@
 
 &emsp;&emsp;&emsp;(II) is pregnant.
 
-#### (11) Regulations
+#### (10) Regulations
 
 &emsp;The Secretary may issue any regulations necessary to carry out this subsection.
 
-#### (12) Authorization of appropriations
+#### (11) Authorization of appropriations
 
 &emsp;There are authorized to be appropriated to carry out this subsection $365,000 for fiscal year 1993 and $380,330 for fiscal year 1994.
 
-#### (13) Termination
+#### (12) Termination
 
 &emsp;The demonstration program under this subsection shall terminate at the end of fiscal year 1994.
 
@@ -418,7 +396,7 @@
 
 &emsp;There are authorized to be appropriated to carry out this subsection $2,000,000 for fiscal year 1993 and $2,084,000 for 1994.
 
-(Pub. L. 90–448, title I, §106, Aug. 1, 1968, 82 Stat. 490; Pub. L. 91–609, title IX, §903(a), (b), Dec. 31, 1970, 84 Stat. 1808; Pub. L. 93–383, title VIII, §811, Aug. 22, 1974, 88 Stat. 735; Pub. L. 95–128, title IX, §903, Oct. 12, 1977, 91 Stat. 1149; Pub. L. 97–35, title III, §339A, Aug. 13, 1982, 95 Stat. 417; Pub. L. 98–181, title IV, §465, Nov. 30, 1983, 97 Stat. 1236; Pub. L. 98–479, title II, §204(f), Oct. 17, 1984, 98 Stat. 2233; Pub. L. 100–242, title I, §169, Feb. 5, 1988, 101 Stat. 1865; Pub. L. 100–628, title X, §1009, Nov. 7, 1988, 102 Stat. 3266; Pub. L. 101–137, §8, Nov. 3, 1989, 103 Stat. 826; Pub. L. 101–625, title V, §577, title VII, §706(c), Nov. 28, 1990, 104 Stat. 4238, 4286; Pub. L. 102–550, title I, §162(a)–(d), Oct. 28, 1992, 106 Stat. 3719–3721.)
+(Pub. L. 90–448, title I, §106, Aug. 1, 1968, 82 Stat. 490; Pub. L. 91–609, title IX, §903(a), (b), Dec. 31, 1970, 84 Stat. 1808; Pub. L. 93–383, title VIII, §811, Aug. 22, 1974, 88 Stat. 735; Pub. L. 95–128, title IX, §903, Oct. 12, 1977, 91 Stat. 1149; Pub. L. 97–35, title III, §339A, Aug. 13, 1982, 95 Stat. 417; Pub. L. 98–181, title IV, §465, Nov. 30, 1983, 97 Stat. 1236; Pub. L. 98–479, title II, §204(f), Oct. 17, 1984, 98 Stat. 2233; Pub. L. 100–242, title I, §169, Feb. 5, 1988, 101 Stat. 1865; Pub. L. 100–628, title X, §1009, Nov. 7, 1988, 102 Stat. 3266; Pub. L. 101–137, §8, Nov. 3, 1989, 103 Stat. 826; Pub. L. 101–625, title V, §577, title VII, §706(c), Nov. 28, 1990, 104 Stat. 4238, 4286; Pub. L. 102–550, title I, §162(a)–(d), Oct. 28, 1992, 106 Stat. 3719–3721; Pub. L. 104–316, title I, §106(a), Oct. 19, 1996, 110 Stat. 3830.)
 
 #### References in Text
 
@@ -426,7 +404,7 @@ The Housing and Community Development Act of 1974, referred to in subsec. (a)(1)
 
 Section 152 of the Housing and Community Development Act of 1992, referred to in subsec. (a)(3), is section 152 of Pub. L. 102–550, which is set out as a note under section 1437f of Title 42.
 
-The National Housing Act, referred to in subsecs. (a)(2) and (d)(9)(A)(iii), (10)(k), is act June 27, 1934, ch. 847, 48 Stat. 1246, as amended, which is classified principally to this chapter (§1701 et seq.). Title II of the Act is classified generally to subchapter II (§1707 et seq.) of this chapter. For complete classification of this Act to the Code, see section 1701 of this title and Tables.
+The National Housing Act, referred to in subsecs. (a)(2) and (d)(9)(K), is act June 27, 1934, ch. 847, 48 Stat. 1246, as amended. Title II of the Act is classified generally to subchapter II (§1707 et seq.) of this chapter. For complete classification of this Act to the Code, see section 1701 of this title and Tables.
 
 The Housing Act of 1949, referred to in subsec. (c)(4)(B), is act July 15, 1949, ch. 338, 63 Stat. 413, as amended. Title V of the Housing Act of 1949 is classified generally to subchapter III (§1471 et seq.) of chapter 8A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1441 of Title 42, The Public Health and Welfare, and Tables.
 
@@ -435,6 +413,12 @@ The Housing Act of 1949, referred to in subsec. (c)(4)(B), is act July 15, 1949,
 Section was enacted as part of the Housing and Urban Development Act of 1968, and not as part of the National Housing Act which comprises this chapter.
 
 #### Amendments
+
+1996—Subsec. (d)(5)(A). Pub. L. 104–316, §106(a)(2), substituted “(9)” for “(10)(K)” in introductory provisions.
+
+Subsec. (d)(8). Pub. L. 104–316, §106(a)(3), struck out “(for purposes of the study and report under paragraph (9))” before “may require”.
+
+Subsec. (d)(9) to (13). Pub. L. 104–316, §106(a)(1), (4), redesignated pars. (10) to (13) as (9) to (12), respectively, and struck out former par. (9) which related to GAO study and report on demonstration program.
 
 1992—Subsec. (a)(3). Pub. L. 102–550, §162(a), substituted “except that for such purposes there are authorized to be appropriated $6,025,000 for fiscal year 1993 and $6,278,050 for fiscal year 1994. Of the amounts appropriated for each of fiscal years 1993 and 1994, up to $500,000 shall be available for use for counseling and other activities in connection with the demonstration program under section 152 of the Housing and Community Development Act of 1992.” for “except that for such purposes there are authorized to be appropriated $3,600,000 for fiscal year 1991 and $3,700,000 for fiscal year 1992.”
 
@@ -506,17 +490,13 @@ Subsec. (b)(1), (2). Pub. L. 93–383, §811(e), (f), inserted reference to publ
 
 Subsec. (b)(1). Pub. L. 91–609, §903(b), substituted “section 1715z of this title or any other federally assisted program” for “any federally assisted program” in first sentence.
 
-#### Change of Name
-
-Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
-
 #### Effective Date of 1981 Amendment
 
 Amendment by Pub. L. 97–35 effective Oct. 1, 1981, see section 371 of Pub. L. 97–35, set out as an Effective Date note under section 3701 of this title.
 
 #### Regulations
 
-Section 162(e) of Pub. L. 102–550 provided that: “The Secretary of Housing and Urban Development shall issue any regulations necessary to carry out the amendments made by subsection (d) \[amending this section\], not later than the expiration of the 6-month period beginning on the date of the enactment of this Act \[Oct. 28, 1992\].”
+Section 162(e) of Pub. L. 102–550 provided that: “The Secretary of Housing and Urban Development shall issue any regulations necessary to carry out the amendments made by subsection (d) \[amending thissection\], not later than the expiration of the 6-month period beginning on the date of the enactment of this Act \[Oct. 28, 1992\].”
 
 #### Section Referred to in Other Sections
 

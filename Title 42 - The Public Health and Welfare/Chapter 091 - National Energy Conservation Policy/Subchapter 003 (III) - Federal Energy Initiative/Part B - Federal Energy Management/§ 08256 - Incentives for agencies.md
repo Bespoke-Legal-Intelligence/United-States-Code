@@ -32,7 +32,7 @@
 
 (2) Each agency may accept any financial incentive, goods, or services generally available from any such utility, to increase energy efficiency or to conserve water or manage electricity demand.
 
-(3) Each agency is encouraged to enter into negotiations with electric, water, and gas utilities to design cost-effective demand managementand conservation incentive programs to address the unique needs of facilities utilized by such agency.
+(3) Each agency is encouraged to enter into negotiations with electric, water, and gas utilities to design cost-effective demand management and conservation incentive programs to address the unique needs of facilities utilized by such agency.
 
 (4) If an agency satisfies the criteria which generally apply to other customers of a utility incentive program, such agency may not be denied collection of rebates or other incentives.
 
@@ -42,7 +42,7 @@
 
 #### (d) Financial incentive program for facility energy managers
 
-(1) The Secretary shall, in consultation with the Task Force established pursuant to section 8257 of this title, establish a financial bonus program to reward, with funds made available for such purpose, outstanding Federal facility energy managers in agencies and the United States Postal Service.
+(1) The Secretary shall, in consultation with the Task Force established pursuant to section8257 of this title, establish a financial bonus program to reward, with funds made available for such purpose, outstanding Federal facility energy managers in agencies and the United States Postal Service.
 
 (2) Not later than June 1, 1993, the Secretary shall issue procedures for implementing and conducting the award program, including the criteria to be used in selecting outstanding energy managers and contributors who have—
 

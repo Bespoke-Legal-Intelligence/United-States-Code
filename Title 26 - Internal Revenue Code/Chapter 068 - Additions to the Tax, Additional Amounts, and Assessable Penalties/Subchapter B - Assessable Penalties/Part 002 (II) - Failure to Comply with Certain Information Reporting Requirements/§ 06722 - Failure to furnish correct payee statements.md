@@ -42,3 +42,7 @@ Amendment by Pub. L. 101–239 applicable to returns and statements the due date
 
 Section applicable to returns the due date for which (determined without regard to extensions) is after Dec. 31, 1986, see section 1501(e) of Pub. L. 99–514, set out as a note under section 6721 of this title.
 
+#### Section Referred to in Other Sections
+
+This section is referred to in section 6047 of this title.
+

@@ -38,7 +38,7 @@ As used in this chapter the term—
 
 1984—Subsec. (f). Pub. L. 98–473 inserted “including a term of supervised release pursuant to section 3583” after “supervision”.
 
-Subsec. (g). Pub. L. 98–473 substituted “under which” for “to a penalty of imprisonment the execution ofwhich is suspended” and “a” for “the suspended” before “penalty”.
+Subsec. (g). Pub. L. 98–473 substituted “under which” for “to a penalty of imprisonment the execution of which is suspended” and “a” for “the suspended” before “penalty”.
 
 #### Effective Date of 1984 Amendment
 

@@ -20,17 +20,17 @@
 
 #### Amendments
 
-<b>1990</b>—Subsec. (a). Pub. L. 101–509, which directed the substitution of “in a position classified above GS–15 pursuant to section 5108)” for “in GS–16, 17, or 18)”, was executed by making the substitution for “in GS–16, GS–17, or GS–18)”, as the probable intent of Congress.
+1990—Subsec. (a). Pub. L. 101–509, which directed the substitution of “in a position classified above GS–15 pursuant to section 5108)” for “in GS–16, 17, or 18)”, was executed by making the substitution for “in GS–16, GS–17, or GS–18)”, as the probable intent of Congress.
 
-<b>1978</b>—Subsec. (a). Pub. L. 95–454, §906(a)(2), (3), substituted “Office of Personnel Management” and “Office” for “Civil Service Commission” and “Commission”, respectively, wherever appearing.
+1978—Subsec. (a). Pub. L. 95–454, §906(a)(2), (3), substituted “Office of Personnel Management” and “Office” for “Civil Service Commission” and “Commission”, respectively, wherever appearing.
 
 Subsec. (d). Pub. L. 95–454, §906(a)(2), substituted “Office of Personnel Management” for “Civil Service Commission”.
 
-<b>1970</b>—Subsec. (a). Pub. L. 91–375 struck out “, in the postal field service,” after “limited appointment” in introductory parenthetical text.
+1970—Subsec. (a). Pub. L. 91–375 struck out “, in the postal field service,” after “limited appointment” in introductory parenthetical text.
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990,see section 529 \[title III, §305\] of Pub. L. 101–509, set out as a note under section 5301 of this title.
+Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 \[title III, §305\] of Pub. L. 101–509, set out as a note under section 5301 of this title.
 
 #### Effective Date of 1978 Amendment
 

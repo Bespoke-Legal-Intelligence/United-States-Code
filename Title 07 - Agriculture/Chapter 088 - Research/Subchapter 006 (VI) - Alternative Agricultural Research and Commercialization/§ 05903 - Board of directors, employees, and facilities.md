@@ -1,0 +1,172 @@
+### §5903. Board of directors, employees, and facilities
+
+#### (a) In general
+
+The powers of the Corporation shall be vested in a Corporate Board.
+
+#### (b) Members of Corporate Board
+
+The Corporate Board shall consist of 11 members as follows:
+
+&emsp;(1) The Under Secretary of Agriculture for Rural Development.
+
+&emsp;(2) The Under Secretary of Agriculture for Research, Education, and Economics.
+
+&emsp;(3) 5 members appointed by the Secretary, of whom—
+
+&emsp;&emsp;(A) at least 1 member shall be a representative of the leading scientific disciplines relevant to the activities of the Corporation;
+
+&emsp;&emsp;(B) at least 1 member shall be a producer or processor of agricultural commodities;
+
+&emsp;&emsp;(C) at least 1 member shall be a person who is privately engaged in the commercialization of new nonfood, nonfeed products from agricultural commodities; and
+
+&emsp;&emsp;(D) at least 1 member shall have expertise in financial management.
+
+> &emsp;A different member shall be appointed pursuant to each subparagraph of this paragraph.
+
+&emsp;(4) 2 members appointed by the Secretary who—
+
+&emsp;&emsp;(A) have expertise in areas of applied research relating to the development or commercialization of new nonfood, nonfeed products; and
+
+&emsp;&emsp;(B) shall be appointed from a group of at least 4 individuals nominated by the Director of the National Science Foundation if the nominations are made not later than 60 days after the date a vacancy occurs.
+
+&emsp;(5) 2 members appointed by the Secretary who—
+
+&emsp;&emsp;(A) have expertise in financial and managerial matters; and
+
+&emsp;&emsp;(B) shall be appointed from a group of at least 4 individuals nominated by the Secretary of Commerce if the nominations are made not later than 60 days after the date a vacancy occurs.
+
+#### (c) Responsibilities of Corporate Board
+
+#### (1) In general
+
+&emsp;The Corporate Board shall—
+
+&emsp;&emsp;(A) be responsible for the general supervision of the Corporation and Regional Centers established under section 5907 of this title;
+
+&emsp;&emsp;(B) determine (in consultation with Regional Centers) high priority commercialization areas to receive assistance under section 5907 of this title;
+
+&emsp;&emsp;(C) review any grant, contract, or cooperative agreement to be made or entered into by the Corporation under section 5904 of this title and any financial assistance to be provided under section 5905 of this title;
+
+&emsp;&emsp;(D) make the final decision, by majority vote, on whether and how to provide assistance to an applicant; and
+
+&emsp;&emsp;(E) develop and establish a budget plan and a long-term operating plan to carry out this subchapter.
+
+#### (2) Authority of the Secretary
+
+#### (A) In general
+
+&emsp;&emsp;The Secretary shall vacate and remand to the Corporate Board for reconsideration any decision made pursuant to paragraph (1)(D) if the Secretary determines that there has been a violation of subsection (j) of this section, or any conflict of interest provisions of the bylaws of the Corporate Board, with respect to the decision.
+
+#### (B) Reasons
+
+&emsp;&emsp;In the case of any violation and referral of a funding decision to the Corporate Board, the Secretary shall inform the Corporate Board of the reasons for any remand pursuant to subparagraph (A).
+
+#### (d) Chairperson
+
+The members of the Corporate Board shall select a Chairperson from among the members of the Corporate Board. The term of office of the Chairperson shall be 2 years. The members referred to in paragraphs (1) and (2) of subsection (b) of this section may not serve as Chairperson.
+
+#### (e) Executive Director
+
+#### (1) Appointment
+
+&emsp;The Corporate Board shall appoint an Executive Director, subject to the approval of the Secretary.
+
+#### (2) Duties
+
+&emsp;The Executive Director shall be the chief executive officer of the Corporation, with such power and authority as may be conferred by the Corporate Board.
+
+#### (3) Compensation
+
+&emsp;The Executive Director shall receive basic pay at the rate provided for level IV of the Executive Schedule under section 5315 of title 5.
+
+#### (f) Officers
+
+The Corporate Board shall establish the offices and appoint the officers of the Corporation, including a Secretary, and define the duties of the officers in a manner consistent with this subchapter.
+
+#### (g) Meetings
+
+The Corporate Board shall meet at least 3 times each fiscal year at the call of the Chairperson or at the request of the Executive Director. The location of the meetings shall be subject to approval of the Executive Director. A quorum of the Corporate Board shall consist of a majority of the members. The decisions of the Corporate Board shall be made by majority vote.
+
+#### (h) Term; vacancies
+
+#### (1) In general
+
+&emsp;The term of office of a member of the Corporate Board shall be 4 years, except that the members initially appointed shall be appointed to serve staggered terms. A member appointed to fill a vacancy for an unexpired term may be appointed only for the remainder of the term. A vacancy on the Corporate Board shall be filled in the same manner as the original appointment. The Secretary may remove a member of the Corporate Board only for cause.
+
+#### (2) Transition measure
+
+&emsp;The Secretary may appoint to the Corporate Board an individual who, on the day before April 4, 1996, was serving on the former Alternative Agricultural Research and Commercialization Board, for a term that does not exceed the term for which the individual was appointed to the former Board.
+
+#### (i) Compensation
+
+A member of the Corporate Board who is an officer or employee of the United States shall not receive any additional compensation by reason of service on the Corporate Board. Any other member shall receive, for each day (including travel time) the member is engaged in the performance of the functions of the Corporate Board, compensation at a rate not to exceed the daily equivalent of the annual rate in effect for Level IV of the Executive Schedule. A member of the Corporate Board shall be reimbursed for travel, subsistence, and other necessary expenses incurred by the member in the performance of the duties of the member.
+
+#### (j) Conflict of interest; financial disclosure
+
+#### (1) Conflict of interest
+
+&emsp;Except as provided in paragraph (3), no member of the Corporate Board shall vote on any matter respecting any application, contract, claim, or other particular matter pending before the Corporation, in which, to the knowledge of the member, the member, spouse, or child of the member, partner, or organization in which the member is serving as officer, director, trustee, partner, or employee, or any person or organization with whom the member is negotiating or has any arrangement concerning prospective employment, has a financial interest.
+
+#### (2) Violations
+
+&emsp;Violation of paragraph (1) by a member of the Corporate Board shall be cause for removal of the member, but shall not impair or otherwise affect the validity of any otherwise lawful action by the Corporation in which the member participated.
+
+#### (3) Exceptions
+
+&emsp;The prohibitions contained in paragraph (1) shall not apply if a member of the Corporate Board advises the Corporate Board of the nature of the particular matter in which the member proposes to participate, and if the member makes a full disclosure of the financial interest, prior to any participation, and the Corporate Board determines, by majority vote, that the financial interest is too remote or too inconsequential to affect the integrity of the member's services to the Corporation in that matter. The member involved shall not vote on the determination.
+
+#### (4) Financial disclosure
+
+&emsp;A Board member shall be subject to the financial disclosure requirements set forth in subchapter B of chapter XVI of title 5, Code of Federal Regulations (or any corresponding or similar regulation or ruling), applicable to a special Government employee (as defined in section 202(a) of title 18).
+
+#### (k) Delegation of authority
+
+#### (1) In general
+
+&emsp;The Corporate Board may, by resolution, delegate to the Chairperson, the Executive Director, or any other officer or employee any function, power, or duty assigned to the Corporation under this subchapter, other than a function, power, or duty expressly vested in the Corporate Board by subsections (c) through (n) of this section.
+
+#### (2) Prohibition on delegation
+
+&emsp;Notwithstanding any other law, the Secretary and any other officer or employee of the United States shall not make any delegation to the Corporate Board, the Chairperson, the Executive Director, or the Corporation of any power, function, or authority not expressly authorized by this subchapter, unless the delegation is made pursuant to an authority in law that expressly makes reference to this section.
+
+#### (3) Reorganization act
+
+&emsp;Notwithstanding any other law, the President (through authorities provided under chapter 9 of title 5) may not authorize the transfer to the Corporation of any power, function, or authority in addition to powers, functions, and authorities provided by law.
+
+#### (<i>l</i>) Bylaws
+
+Notwithstanding section 5902(f)(2) of this title, the Corporate Board shall adopt, and may from time to time amend, any bylaw that is necessary for the proper management and functioning of the Corporation. The Corporate Board shall not adopt any bylaw that has not been reviewed and approved by the Secretary.
+
+#### (m) Organization
+
+The Corporate Board shall provide a system of organization to fix responsibility and promote efficiency.
+
+#### (n) Personnel and facilities of Corporation
+
+#### (1) Appointment and compensation of personnel
+
+&emsp;The Corporation may select and appoint officers, attorneys, employees, and agents, who shall be vested with such powers and duties as the Corporation may determine.
+
+#### (2) Use of facilities and services of the Department of Agriculture
+
+&emsp;Notwithstanding any other provision of law, to perform the responsibilities of the Corporation under this subchapter, the Corporation may partially or jointly utilize the facilities of and the services of employees of the Department of Agriculture, without cost to the Corporation.
+
+#### (3) Government employment laws
+
+&emsp;An officer or employee of the Corporation shall be subject to all laws of the United States relating to governmental employment.
+
+(Pub. L. 101–624, title XVI, §1659, Nov. 28, 1990, 104 Stat. 3759; Pub. L. 104–127, title VII, §723(a), Apr. 4, 1996, 110 Stat. 1115.)
+
+#### References in Text
+
+The laws of the United States relating to governmental employment, referred to in subsec. (n)(3), are classified generally to Title 5, Government Organization and Employees.
+
+#### Amendments
+
+1996—Pub. L. 104–127 amended section generally, substituting present provisions for provisions relating to Alternative Agricultural Research and Commercialization Board, including provisions relating to establishment, members, responsibilities, meetings, terms and vacancies, chairperson, committees, compensation, restrictions, and authority of Secretary.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 5901, 5906 of this title.
+

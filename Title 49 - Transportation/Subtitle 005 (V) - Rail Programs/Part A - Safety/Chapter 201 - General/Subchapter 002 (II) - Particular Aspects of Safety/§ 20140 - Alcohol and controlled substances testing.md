@@ -64,7 +64,9 @@ Other Regulations Allowed.—This section does not prevent the Secretary of Tran
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

@@ -46,7 +46,7 @@
 
 &emsp;&emsp;(III) do not substantially affect the value of the merchandise;
 
-&emsp;(ii) the sale of, or the price actually paid or payable for, the imported merchandise is not subject to any condition or consideration for which a value cannot be determined with respect to the imported merchandise;
+&emsp;(ii) the sale of, or the price actually paid or payable for, the imported merchandise is notsubject to any condition or consideration for which a value cannot be determined with respect to the imported merchandise;
 
 &emsp;(iii) no part of the proceeds of any subsequent resale, disposal, or use of the imported merchandise by the buyer will accrue directly or indirectly to the seller, unless an appropriate adjustment therefor can be made under paragraph (1)(E); and
 
@@ -94,7 +94,7 @@
 
 &emsp;(B) exported to the United States at or about the time that the merchandise being appraised is exported to the United States.
 
-(2) Transaction values determined under this subsection shall be based on sales of identical merchandise or similar merchandise, as the case may be, at the same commercial level and in substantially the same quantity as the sales ofthe merchandise being appraised. If no such sale is found, sales of identical merchandise or similar merchandise at either a different commercial level or in different quantities, or both, shall be used, but adjusted to take account of any such difference. Any adjustment made under this paragraph shall be based on sufficient information. If in applying this paragraph with respect to any imported merchandise, two or more transaction values for identical merchandise, or for similar merchandise, are determined, such imported merchandise shall be appraised on the basis of the lower or lowest of such values.
+(2) Transaction values determined under this subsection shall be based on sales of identical merchandise or similar merchandise, as the case may be, at the same commercial level and in substantially the same quantity as the sales of the merchandise being appraised. If no such sale is found, sales of identical merchandise or similar merchandise at either a different commercial level or in different quantities, or both, shall be used, but adjusted to take account of any such difference. Any adjustment made under this paragraph shall be based on sufficient information. If in applying this paragraph with respect to any imported merchandise, two or more transaction values for identical merchandise, or for similar merchandise, are determined, such imported merchandise shall be appraised on the basis of the lower or lowest of such values.
 
 #### (d) Deductive value
 
@@ -152,7 +152,7 @@
 
 #### (f) Value if other values cannot be determined or used
 
-(1) If the value of imported merchandise cannot be determined, or otherwise used for the purposes of this chapter, under subsections (b) through (e) of this section, the merchandise shall be appraised for the purposes of this chapter on the basis of a value that is derived from the methods set forth in such subsections, with such methods being reasonably adjusted to the extent necessary to arrive at a value.
+(1) If the value of imported merchandise cannot be determined, or otherwise used for the purposes of this chapter, under subsections (b) through (e) of this section, the merchandise shall be appraised for the purposes of this chapter on the basis of a value that is derived from the methods set forth in such subsections, withsuch methods being reasonably adjusted to the extent necessary to arrive at a value.
 
 (2) Imported merchandise may not be appraised, for the purposes of this chapter, on the basis of—
 
@@ -238,7 +238,7 @@ As used in this section—
 
 &emsp;&emsp;(A) merchandise that is identical in all respects to, and was produced in the same country and by the same person as, the merchandise being appraised; or
 
-&emsp;&emsp;(B) if merchandise meeting the requirements under subparagraph (A) cannot be found (or for purposes of applying subsection (b)(2)(B)(i) of this section, regardless of whether merchandise meeting such requirements can be found), merchandise that is identical in all respects to, and was produced in the same country as, but not produced by the same person as, the merchandise being appraised.
+&emsp;&emsp;(B) if merchandise meeting the requirements under subparagraph (A) cannot be found (or for purposes of applying subsection (b)(2)(B)(i) of this section, regardless of whether merchandise meeting such requirements can be found), merchandise that isidentical in all respects to, and was produced in the same country as, but not produced by the same person as, the merchandise being appraised.
 
 > &emsp;Such term does not include merchandise that incorporates or reflects any engineering, development, artwork, design work, or plan or sketch that—
 

@@ -1,5 +1,5 @@
 
-7 U.S.C.<br>United States Code, 1995 Edition<br>Title 7 - AGRICULTURE<br>From the U.S. Government Publishing Office, www.gpo.gov
+7 U.S.C.<br>United States Code, 1996 Edition<br>Title 7 - AGRICULTURE<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 7—AGRICULTURE
 
@@ -45,7 +45,7 @@
 | [<b>29.</b>](Chapter%20029%20-%20Potato%20Act%20of%201935/README.md) | <b>Potato Act of 1935 \[Repealed\]</b> | <b>801</b> |
 | [<b>30.</b>](Chapter%20030%20-%20Anti-Hog-Cholera%20Serum%20and%20Hog-Cholera%20Virus/README.md) | <b>Anti-Hog-Cholera Serum and Hog-Cholera Virus</b> | <b>851</b> |
 | [<b>31.</b>](Chapter%20031%20-%20Rural%20Electrification%20and%20Telephone%20Service/README.md) | <b>Rural Electrification and Telephone Service</b> | <b>901</b> |
-| [<b>31A.</b>](Chapter%20031A%20-%20Distance%20Learning%20and%20Medical%20Link%20Programs/README.md) | <b>Distance Learning and Medical Link Programs</b> | <b>950aaa</b> |
+| [<b>31A.</b>](Chapter%20031A%20-%20Telemedicine%20and%20Distance%20Learning%20Services%20in%20Rural%20Areas/README.md) | <b>Telemedicine and Distance Learning Services in Rural Areas</b> | <b>950aaa</b> |
 | [<b>32.</b>](Chapter%20032%20-%20Peanut%20Statistics/README.md) | <b>Peanut Statistics</b> | <b>951</b> |
 | [<b>33.</b>](Chapter%20033%20-%20Farm%20Tenancy/README.md) | <b>Farm Tenancy</b> | <b>1000</b> |
 | [<b>34.</b>](Chapter%20034%20-%20Sugar%20Production%20and%20Control/README.md) | <b>Sugar Production and Control \[Omitted or Repealed\]</b> | <b>1100</b> |
@@ -88,7 +88,7 @@
 | [<b>69.</b>](Chapter%20069%20-%20Swine%20Health%20Protection/README.md) | <b>Swine Health Protection</b> | <b>3801</b> |
 | [<b>70.</b>](Chapter%20070%20-%20Animal%20Cancer%20Research/README.md) | <b>Animal Cancer Research</b> | <b>3901</b> |
 | [<b>71.</b>](Chapter%20071%20-%20Agricultural%20Trade%20Suspension%20Adjustment/README.md) | <b>Agricultural Trade Suspension Adjustment</b> | <b>4001</b> |
-| [<b>72.</b>](Chapter%20072%20-%20National%20Agricultural%20Cost%20of%20Production%20Standards%20Review%20Board/README.md) | <b>National Agricultural Cost of Production Standards Review Board</b> | <b>4101</b> |
+| [<b>72.</b>](Chapter%20072%20-%20National%20Agricultural%20Cost%20of%20Production%20Standards%20Review%20Board/README.md) | <b>National Agricultural Cost of Production Standards Review Board \[Omitted\]</b> | <b>4101</b> |
 | [<b>73.</b>](Chapter%20073%20-%20Farmland%20Protection%20Policy/README.md) | <b>Farmland Protection Policy</b> | <b>4201</b> |
 | [<b>74.</b>](Chapter%20074%20-%20Floral%20Research%20and%20Consumer%20Information/README.md) | <b>Floral Research and Consumer Information</b> | <b>4301</b> |
 | [<b>75.</b>](Chapter%20075%20-%20International%20Carriage%20of%20Perishable%20Foodstuffs/README.md) | <b>International Carriage of Perishable Foodstuffs</b> | <b>4401</b> |
@@ -116,6 +116,9 @@
 | [<b>97.</b>](Chapter%20097%20-%20Fresh%20Cut%20Flowers%20and%20Fresh%20Cut%20Greens%20Promotion%20and%20Information/README.md) | <b>Fresh Cut Flowers and Fresh Cut Greens Promotion and Information</b> | <b>6801</b> |
 | [<b>98.</b>](Chapter%20098%20-%20Department%20of%20Agriculture%20Reorganization/README.md) | <b>Department of Agriculture Reorganization</b> | <b>6901</b> |
 | [<b>99.</b>](Chapter%20099%20-%20Sheep%20Promotion%2C%20Research%2C%20and%20Information/README.md) | <b>Sheep Promotion, Research, and Information</b> | <b>7101</b> |
+| [<b>100.</b>](Chapter%20100%20-%20Agricultural%20Market%20Transition/README.md) | <b>Agricultural Market Transition</b> | <b>7201</b> |
+| [<b>101.</b>](Chapter%20101%20-%20Agricultural%20Promotion/README.md) | <b>Agricultural Promotion</b> | <b>7401</b> |
+| [<b>102.</b>](Chapter%20102%20-%20Emergency%20Food%20Assistance/README.md) | <b>Emergency Food Assistance</b> | <b>7501</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -164,7 +167,7 @@
 - [Chapter 029 - Potato Act of 1935](Chapter%20029%20-%20Potato%20Act%20of%201935/README.md)
 - [Chapter 030 - Anti-Hog-Cholera Serum and Hog-Cholera Virus](Chapter%20030%20-%20Anti-Hog-Cholera%20Serum%20and%20Hog-Cholera%20Virus/README.md)
 - [Chapter 031 - Rural Electrification and Telephone Service](Chapter%20031%20-%20Rural%20Electrification%20and%20Telephone%20Service/README.md)
-- [Chapter 031A - Distance Learning and Medical Link Programs](Chapter%20031A%20-%20Distance%20Learning%20and%20Medical%20Link%20Programs/README.md)
+- [Chapter 031A - Telemedicine and Distance Learning Services in Rural Areas](Chapter%20031A%20-%20Telemedicine%20and%20Distance%20Learning%20Services%20in%20Rural%20Areas/README.md)
 - [Chapter 032 - Peanut Statistics](Chapter%20032%20-%20Peanut%20Statistics/README.md)
 - [Chapter 033 - Farm Tenancy](Chapter%20033%20-%20Farm%20Tenancy/README.md)
 - [Chapter 034 - Sugar Production and Control](Chapter%20034%20-%20Sugar%20Production%20and%20Control/README.md)
@@ -231,3 +234,6 @@
 - [Chapter 097 - Fresh Cut Flowers and Fresh Cut Greens Promotion and Information](Chapter%20097%20-%20Fresh%20Cut%20Flowers%20and%20Fresh%20Cut%20Greens%20Promotion%20and%20Information/README.md)
 - [Chapter 098 - Department of Agriculture Reorganization](Chapter%20098%20-%20Department%20of%20Agriculture%20Reorganization/README.md)
 - [Chapter 099 - Sheep Promotion, Research, and Information](Chapter%20099%20-%20Sheep%20Promotion%2C%20Research%2C%20and%20Information/README.md)
+- [Chapter 100 - Agricultural Market Transition](Chapter%20100%20-%20Agricultural%20Market%20Transition/README.md)
+- [Chapter 101 - Agricultural Promotion](Chapter%20101%20-%20Agricultural%20Promotion/README.md)
+- [Chapter 102 - Emergency Food Assistance](Chapter%20102%20-%20Emergency%20Food%20Assistance/README.md)

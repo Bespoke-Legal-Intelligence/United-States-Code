@@ -128,3 +128,7 @@ Source.—Any obligation of the Administrator to pay an indemnity arising under 
 
 Administrative settlement.—An administrative settlement of a claim for such indemnity may be made in accordance with the third paragraph of section 2414 of title 28, United States Code, and shall be regarded as if it were made under that section for purposes of section 1304 of title 31, United States Code.”
 
+#### Section Referred to in Other Sections
+
+This section is referred to in section 136a of this title.
+

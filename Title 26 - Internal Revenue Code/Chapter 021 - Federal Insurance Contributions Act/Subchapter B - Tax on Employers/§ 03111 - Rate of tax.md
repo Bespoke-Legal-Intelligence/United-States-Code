@@ -7,10 +7,10 @@ In addition to other taxes, there is hereby imposed on every employer an excise 
 &nbsp;
 
 | <b>In cases of wages paid during:</b> | <b>The rate shall be:</b> |
-| :--- | ---: |
-| 1984, 1985, 1986, or 1987 | 5\.7 percent |
-| 1988 or 1989 | 6\.06 percent |
-| 1990 or thereafter | 6\.2 percent. |
+| --- | --- |
+| &nbsp;&nbsp;1984, 1985, 1986, or 1987 D5.7 percent |  |
+| &nbsp;&nbsp;1988 or 1989 D6.06 percent |  |
+| &nbsp;&nbsp;1990 or thereafter D6.2 percent. |  |
 
 #### (b) Hospital insurance
 
@@ -52,7 +52,7 @@ Subsec. (b). Pub. L. 95–216, §§101(b)(2), 315(b), substituted “(as defined
 
 Subsec. (c). Pub. L. 95–216, §317(b)(2), added subsec. (c).
 
-1976—Subsec. (a). Pub. L. 94–455, §1903(a)(1)(A), redesignated pars. (5) and (6) as (1) and (2). Former pars. (1) to (4), which related to a tax rate of 3.8 percent with respect to wages received during the taxable year 1968, a tax rate of 4.2 percent with respect to wages received during the calendar year 1969 and 1970, a tax rate of 4.6 percent with respect to wages received during the calendar years 1971 and 1972, and a tax rate of 4.85 percent with respect to wages received during the calendar year 1973, respectively, were struck out.
+1976—Subsec. (a). Pub. L. 94–455, §1903(a)(1)(A), redesignated pars. (5) and (6) as (1) and (2). Former pars. (1) to (4), which related to a tax rate of 3.8 percent with respect to wages received during the taxable year 1968, atax rate of 4.2 percent with respect to wages received during the calendar year 1969 and 1970, a tax rate of 4.6 percent with respect to wages received during the calendar years 1971 and 1972, and a tax rate of 4.85 percent with respect to wages received during the calendar year 1973, respectively, were struck out.
 
 Subsec. (b). Pub. L. 94–455, §1903(a)(1)(B), redesignated pars. (3) to (6) as (1) to (4), respectively. Former pars. (1) and (2), which related to a tax rate of .60 percent with respect to wages received during the calendar years 1968, 1969, 1970, 1971, and 1972 and a tax rate of 1.0 percent with respect to wages received during the calendar year 1973, respectively, were struck out.
 
@@ -64,7 +64,7 @@ Subsec. (a)(6). Pub. L. 93–233, §6(a)(2), increased rate of tax from 5.85 per
 
 Subsec. (b)(2). Pub. L. 93–233, §6(b)(3), struck out provision for application of 1.0 percent rate of tax during calendar years 1974, 1975, 1976, and 1977.
 
-Subsec. (b)(3). Pub. L. 93–233, §6(b)(3), incorporated former provision of par. (2) for taxation of wages received during calendar years 1974, 1975, 1976, and 1977,decreased the applicable rate of tax from 1.0 percent to 0.90 percent, and struck out provision for 1.25 percent rate of tax for calendar years 1978, 1979, and 1980.
+Subsec. (b)(3). Pub. L. 93–233, §6(b)(3), incorporated former provision of par. (2) for taxation of wages received during calendar years 1974, 1975, 1976, and 1977, decreased the applicable rate of tax from 1.0 percent to 0.90 percent, and struck out provision for 1.25 percent rate of tax for calendar years 1978, 1979, and 1980.
 
 Subsec. (b)(4). Pub. L. 93–233, §6(b)(3), incorporated former provision of par. (3) for taxation of wages received during calendar years 1978, 1979, and 1980, decreased the applicable rate of tax from 1.25 percent to 1.10 percent, and struck out provision for 1.35 percent rate of tax for calendar years 1981, 1982, 1983, 1984, and 1985.
 
@@ -186,7 +186,7 @@ Assessment for under payment of tax imposed by this section, see section 6205 of
 
 Erroneous payments under this chapter as credit on other taxes or refunded, see section 3503 of this title.
 
-Services which are exempt or immune from this tax not included in definition of employment under title II of the Social Security Act, see section 409 of Title 42, The Public Health and Welfare.
+Services which are exempt or immune from this tax not included in definition of employment under title IIof the Social Security Act, see section 409 of Title 42, The Public Health and Welfare.
 
 #### Section Referred to in Other Sections
 

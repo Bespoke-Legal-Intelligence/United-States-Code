@@ -34,6 +34,10 @@ At any time allotments are in effect under this subpart, the Secretary, from tim
 
 1991—Pub. L. 102–237 amended section generally, substituting present provisions for provisions relating to assignment of deficits, estimates of production and marketing of sugar, and reassignment of deficits in case of undermarketing of cane and beet sugar.
 
+#### Inapplicability of Section
+
+Section inapplicable to 1996 through 2002 crops of loan commodities, peanuts, and sugar and inapplicable to milk during period beginning Apr. 4, 1996, and ending Dec. 31, 2002, see section 7301(a)(1)(E) of this title.
+
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 1359dd, 1359jj of this title.

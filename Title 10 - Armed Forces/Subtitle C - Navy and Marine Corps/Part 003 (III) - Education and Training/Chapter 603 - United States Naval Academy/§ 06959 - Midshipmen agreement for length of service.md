@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) will accept an appointment, if tendered, as a commissioned officer of the Regular Navy, the Regular Marine Corps, or the Regular Air Force; and
 
-&emsp;&emsp;(B) will serve on active duty for at least six years immediately after such appointment.
+&emsp;&emsp;(B) will serve on active duty for at least five years immediately after such appointment.
 
 &emsp;(3) That if an appointment described in paragraph (2) is not tendered or if the midshipman is permitted to resign as a regular officer before completion of the commissioned service obligation of the midshipman, the midshipman—
 
@@ -36,7 +36,7 @@
 
 (2) In the case of a midshipman who is a minor and who has parents or a guardian, the midshipman may sign the agreement required by subsection (a) only with the consent of a parent or guardian.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 432; Mar. 3, 1964, Pub. L. 88–276, §5(a), 78 Stat. 153; Oct. 13, 1964, Pub. L. 88–647, title III, §301(19), 78 Stat. 1072; Oct. 19, 1984, Pub. L. 98–525, title V, §§541(b), 542(c), 98 Stat. 2529; Nov. 8, 1985, Pub. L. 99–145, title V, §512(b), 99 Stat. 624; Nov. 29, 1989, Pub. L. 101–189, div. A, title V, §511(c), 103 Stat. 1439.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 432; Mar. 3, 1964, Pub. L. 88–276, §5(a), 78 Stat. 153; Oct. 13, 1964, Pub. L. 88–647, title III, §301(19), 78 Stat. 1072; Oct. 19, 1984, Pub. L. 98–525, title V, §§541(b), 542(c), 98 Stat. 2529; Nov. 8, 1985, Pub. L. 99–145, title V, §512(b), 99 Stat. 624; Nov. 29, 1989, Pub. L. 101–189, div. A, title V, §511(c), 103 Stat. 1439; Feb. 10, 1996, Pub. L. 104–106, div. A, title V, §531(b), 110 Stat. 314.)
 
 Historical and Revision Notes
 
@@ -55,6 +55,8 @@ June 30, 1950, ch. 421, §3, 64 Stat. 304.
 The words “Hereafter” and “appointed to the United States Naval Academy” are omitted as surplusage. The words “an agreement that \* \* \* he will” are substituted for the words “articles \* \* \* by which he shall engage”. The word “separated” is substituted for the words “discharged by competent authority”. The words “if tendered an appointment”, “upon graduation from the United States Naval Academy”, and “consecutive” are omitted as surplusage. The words “if he is permitted to resign” are substituted for the words “in the event of the acceptance of his resignation”, since a resignation is effective only if accepted. The first 43 words of clause (3) are substituted for 34 U.S.C. 1048 (last 30 words of clause (3)). The last sentence is substituted for the words “with the consent of his parents or guardian if he be a minor, and if any he have.”
 
 #### Amendments
+
+1996—Subsec. (a)(2)(B). Pub. L. 104–106 substituted “five years” for “six years”.
 
 1989—Subsec. (a)(2)(B). Pub. L. 101–189 substituted “six years” for “five years”.
 
@@ -79,6 +81,10 @@ Subsec. (a)(3). Pub. L. 98–525, §542(c), substituted “at least the sixth an
 1964—Pub. L. 88–647 designated existing provisions as subsec. (a) and added subsec. (b).
 
 Subsec. (a)(2). Pub. L. 88–276 substituted “five” for “three”.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–106 applicable to persons first admitted to United States Military Academy, United States Naval Academy, and United States Air Force Academy after Dec. 31, 1991, see section 531(e) of Pub. L. 104–106, set out as a note under section 4348 of this title.
 
 #### Effective Date of 1989 Amendment
 

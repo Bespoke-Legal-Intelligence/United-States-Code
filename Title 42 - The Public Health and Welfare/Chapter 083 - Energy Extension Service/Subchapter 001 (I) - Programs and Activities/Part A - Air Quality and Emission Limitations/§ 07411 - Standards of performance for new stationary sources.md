@@ -26,7 +26,7 @@ For purposes of this section:
 
 #### (b) List of categories of stationary sources; standards of performance; information on pollution control techniques; sources owned or operated by United States; particular systems; revised standards
 
-(1)(A) The Administrator shall, within 90 days after December 31, 1970, publish (and from time to time thereafter shall revise) a list of categories of stationary sources. He shall include a category of sources in such list if in his judgment it causes, or contributes significantly to, air pollution which may reasonably be anticipated to endanger public health or welfare.
+(1)(A) The Administrator shall, within 90 days after December 31, 1970, publish (and from timeto time thereafter shall revise) a list of categories of stationary sources. He shall include a category of sources in such list if in his judgment it causes, or contributes significantly to, air pollution which may reasonably be anticipated to endanger public health or welfare.
 
 (B) Within one year after the inclusion of a category of stationary sources in a list under subparagraph (A), the Administrator shall publish proposed regulations, establishing Federal standards of performance for new sources within such category. The Administrator shall afford interested persons an opportunity for written comment on such proposed regulations. After considering such comments, he shall promulgate, within one year after such publication, such standards with such modifications as he deems appropriate. The Administrator shall, at least every 8 years, review and, if appropriate, revise such standards following the procedure required by this subsection for promulgation of such standards. Notwithstanding the requirements of the previous sentence, the Administrator need not review any such standard if the Administrator determines that such review is not appropriate in light of readily available information on the efficacy of such standard. Standards of performance or revisions thereof shall become effective upon promulgation. When implementation and enforcement of any requirement of this chapter indicate that emission limitations and percent reductions beyond those required by the standards promulgated under this section are achieved in practice, the Administrator shall, when revising standards promulgated under this section, consider the emission limitations and percent reductions achieved in practice.
 
@@ -86,7 +86,7 @@ After the effective date of standards of performance promulgated under this sect
 
 (1) Upon application by the Governor of a State showing that the Administrator has failed to specify in regulations under subsection (f)(1) of this section any category of major stationary sources required to be specified under such regulations, the Administrator shall revise such regulations to specify any such category.
 
-(2) Upon application of the Governor of a State, showing that any category of stationary sources which is not included in the list under subsection (b)(1)(A) of this section contributessignificantly to air pollution which may reasonably be anticipated to endanger public health or welfare (notwithstanding that such category is not a category of major stationary sources), the Administrator shall revise such regulations to specify such category of stationary sources.
+(2) Upon application of the Governor of a State, showing that any category of stationary sources which is not included in the list under subsection (b)(1)(A) of this section contributes significantly to air pollution which may reasonably be anticipated to endanger public health or welfare (notwithstanding that such category is not a category of major stationary sources), the Administrator shall revise such regulations to specify such category of stationary sources.
 
 (3) Upon application of the Governor of a State showing that the Administrator has failed to apply properly the criteria required to be considered under subsection (f)(2) of this section, the Administrator shall revise the list under subsection (b)(1)(A) of this section to apply properly such criteria.
 
@@ -116,7 +116,7 @@ After the effective date of standards of performance promulgated under this sect
 
 (4) Any standard promulgated under paragraph (1) shall be promulgated in terms of standard of performance whenever it becomes feasible to promulgate and enforce such standard in such terms.
 
-(5) Any design, equipment, work practice, or operational standard, or any combination thereof, described in this subsection shall be treated as a standard of performance for purposes of the provisions of this chapter (other than the provisions of subsection (a) of this section and this subsection).
+(5) Any design, equipment, work practice, or operational standard, or any combination thereof, described in this subsection shall be treatedas a standard of performance for purposes of the provisions of this chapter (other than the provisions of subsection (a) of this section and this subsection).
 
 #### (i) Country elevators
 
@@ -170,7 +170,7 @@ Any regulations promulgated by the Administrator under this section applicable t
 
 (2)(A) If a waiver under paragraph (1) is terminated under clause (ii) of paragraph (1)(D), the Administrator shall grant an extension of the requirements of this section for such source for such minimum period as may be necessary to comply with the applicable standard of performance under this section. Such period shall not extend beyond the date three years from the time such waiver is terminated.
 
-(B) An extension granted under this paragraph shall set forth emission limits and a compliance schedule containing increments of progress which require compliance with the applicable standards of performance as expeditiously as practicable and include such measures as are necessary and practicable in the interim to minimize emissions. Such schedule shall be treated as a standard of performance for purposes of subsection (e) of this section and section 7413 of this title.
+(B) An extension granted under this paragraph shall set forth emission limits and a complianceschedule containing increments of progress which require compliance with the applicable standards of performance as expeditiously as practicable and include such measures as are necessary and practicable in the interim to minimize emissions. Such schedule shall be treated as a standard of performance for purposes of subsection (e) of this section and section 7413 of this title.
 
 (July 14, 1955, ch. 360, title I, §111, as added Dec. 31, 1970, Pub. L. 91–604, §4(a), 84 Stat. 1683; amended Nov. 18, 1971, Pub. L. 92–157, title III, §302(f), 85 Stat. 464; Aug. 7, 1977, Pub. L. 95–95, title I, §109(a)–(d)(1), (e), (f), title IV, §401(b), 91 Stat. 697–703, 791; Nov. 16, 1977, Pub. L. 95–190, §14(a)(7)–(9), 91 Stat. 1399; Nov. 9, 1978, Pub. L. 95–623, §13(a), 92 Stat. 3457; Nov. 15, 1990, Pub. L. 101–549, title I, §108(e)–(g), title III, §302(a), (b), title IV, §403(a), 104 Stat. 2467, 2574, 2631.)
 
@@ -248,14 +248,6 @@ Pub. L. 95–95, §109(e), added subsec. (k).
 
 Amendment by Pub. L. 95–95 effective Aug. 7, 1977, except as otherwise expressly provided, see section 406(d) of Pub. L. 95–95, set out as a note under section 7401 of this title.
 
-#### Pending Actions and Proceedings
-
-Suits, actions, and other proceedings lawfully commenced by or against the Administrator or any other officer or employee of the United States in his official capacity or in relation to the discharge of his official duties under act July 14, 1955, the Clean Air Act, as ineffect immediately prior to the enactment of Pub. L. 95–95 \[Aug. 7, 1977\], not to abate by reason of the taking effect of Pub. L. 95–95, see section 406(a) of Pub. L. 95–95, set out as an Effective Date of 1977 Amendment note under section 7401 of this title.
-
-#### Modification or Rescission of Rules, Regulations, Orders, Determinations, Contracts, Certifications, Authorizations, Delegations, and Other Actions
-
-All rules, regulations, orders, determinations, contracts, certifications, authorizations, delegations, or other actions duly issued, made, or taken by or pursuant to act July 14, 1955, the Clean Air Act, as in effect immediately prior to the date of enactment of Pub. L. 95–95 \[Aug. 7, 1977\] to continue in full force and effect until modified or rescinded in accordance with act July 14, 1955, as amended by Pub. L. 95–95 \[this chapter\], see section 406(b) of Pub. L. 95–95, set out as an Effective Date of 1977 Amendment note under section 7401 of this title.
-
 #### Regulations
 
 Section 403(b), (c) of Pub. L. 101–549 provided that:
@@ -271,6 +263,14 @@ Applicability.—The provisions of subsections (a) \[amending this section\] and
 #### Transfer of Functions
 
 Enforcement functions of Administrator or other official in Environmental Protection Agency related to compliance with new source performance standards under this section with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas transferred to Federal Inspector, Office of Federal Inspector for the Alaska Natural Gas Transportation System, until first anniversary of date of initial operation of Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, eff. July 1, 1979, §§102(a), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, set out in the Appendix to Title 5, Government Organization and Employees. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under section 719e of Title 15, Commerce and Trade.
+
+#### Pending Actions and Proceedings
+
+Suits, actions, and other proceedings lawfully commenced by or against the Administrator or any other officer or employee of the United States in his official capacity or in relation to the discharge of his official duties under act July 14, 1955, the Clean Air Act, as in effect immediately prior to the enactment of Pub. L. 95–95 \[Aug. 7, 1977\], not to abate by reason of the taking effect of Pub. L. 95–95, see section 406(a) of Pub. L. 95–95, set out as an Effective Date of 1977 Amendment note under section 7401 of this title.
+
+#### Modification or Rescission of Rules, Regulations, Orders, Determinations, Contracts, Certifications, Authorizations, Delegations, and Other Actions
+
+All rules, regulations, orders, determinations, contracts, certifications, authorizations, delegations, or other actions duly issued, made, or taken by or pursuant to act July 14, 1955, the Clean Air Act, as in effect immediately prior to the date of enactment of Pub. L. 95–95 \[Aug. 7, 1977\] to continue in full force and effect until modified or rescinded in accordance with act July 14, 1955, as amended by Pub. L. 95–95 \[this chapter\], see section 406(b) of Pub. L. 95–95, set out as an Effective Date of 1977 Amendment note under section 7401 of this title.
 
 #### Section Referred to in Other Sections
 

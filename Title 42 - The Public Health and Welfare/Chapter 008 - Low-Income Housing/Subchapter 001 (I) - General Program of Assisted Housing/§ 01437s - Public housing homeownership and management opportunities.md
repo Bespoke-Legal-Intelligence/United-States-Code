@@ -58,7 +58,7 @@ Low-income families residing in a public housing project shall be provided with 
 
 &emsp;&emsp;(IV) a lower income family on the waiting list of such public housing agency for public housing or assistance under section 1437f of this title, with priority given in the order in which the family appears on the waiting list.
 
-&emsp;(iii) Each resident management corporation shall provide each family described in clause\(ii) with a notice of the eligibility of the family to purchase a dwelling unit under this paragraph.
+&emsp;(iii) Each resident management corporation shall provide each family described in clause (ii) with a notice of the eligibility of the family to purchase a dwelling unit under this paragraph.
 
 &emsp;(B) A purchase under subparagraph (A) may be made under any of the following arrangements:
 
@@ -80,7 +80,7 @@ Low-income families residing in a public housing project shall be provided with 
 
 &emsp;&emsp;(ii) the value, as determined by such means as the Secretary shall determine through regulation, of any improvements installed at the expense of the owner during the owner's tenure as owner; and
 
-&emsp;&emsp;(iii) the appreciated value determined by an inflation allowance at a rate which may be based on a cost of living index, an income index, or market index as determined by the Secretary through regulation and agreed to by the purchaser and the resident management corporation or the public housing agency, whichever is appropriate, at the time of initial sale, and applied against the contribution to equity; the resident management corporation or the public housing agency may, at the time of initial sale, enter into an agreement with the owner to set a maximum amount which this appreciation may not exceed.
+&emsp;&emsp;(iii) the appreciated value determined by an inflation allowance at a rate which may be based on a cost of living index, an income index, or market index as determined by the Secretary through regulation and agreed toby the purchaser and the resident management corporation or the public housing agency, whichever is appropriate, at the time of initial sale, and applied against the contribution to equity; the resident management corporation or the public housing agency may, at the time of initial sale, enter into an agreement with the owner to set a maximum amount which this appreciation may not exceed.
 
 &emsp;(E) Upon sale, the resident management corporation or the public housing agency, whichever is appropriate, shall ensure that subsequent owners are bound by the same limitations on resale and further restrictions on equity appreciation.
 
@@ -140,7 +140,7 @@ The Secretary shall issue such regulations as may be necessary to carry out the 
 
 Any authority of the Secretary under this section to provide financial assistance, or to enter into contracts to provide financial assistance, shall be effective only to such extent or in such amounts as are or have been provided in advance in an appropriation Act.
 
-(Sept. 1, 1937, ch. 896, title I, §21, as added Feb. 5, 1988, Pub. L. 100–242, title I, §123, 101 Stat. 1842; renumbered title I, June 29, 1988, Pub. L. 100–358, §5, 102 Stat. 681; amended Nov. 28, 1990, Pub. L. 101–625, title IV, §416, title V, §572(1), 104 Stat. 4161, 4236; Oct. 28, 1992, Pub. L. 102–550, title I, §118, 106 Stat. 3695; Dec. 21, 1995, Pub. L. 104–66, title I, §1071(a), 109 Stat. 720.)
+(Sept. 1, 1937, ch. 896, title I, §21, as added Feb. 5, 1988, Pub. L. 100–242, title I, §123, 101 Stat.1842; renumbered title I, June 29, 1988, Pub. L. 100–358, §5, 102 Stat. 681; amended Nov. 28, 1990, Pub. L. 101–625, title IV, §416, title V, §572(1), 104 Stat. 4161, 4236; Oct. 28, 1992, Pub. L. 102–550, title I, §118, 106 Stat. 3695; Dec. 21, 1995, Pub. L. 104–66, title I, §1071(a), 109 Stat. 720.)
 
 #### Amendments
 

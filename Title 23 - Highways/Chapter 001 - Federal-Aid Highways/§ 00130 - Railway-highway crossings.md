@@ -26,13 +26,39 @@ Annual Report.—Each State shall report to the Secretary not later than Decembe
 
 Use of Funds for Matching.—Funds authorized to be appropriated to carry out this section may be used to provide a local government with funds to be used on a matching basis when State funds are available which may only be spent when the local government produces matching funds for the improvement of railway-highway crossings.
 
-(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 903; Pub. L. 100–17, title I, §121(a), Apr. 2, 1987, 101 Stat. 159; Pub. L. 104–59, title III, §325(a), Nov. 28, 1995, 109 Stat. 591.)
+(i)
+
+Incentive Payments for At-Grade Crossing Closures.—
+
+&emsp;(1)
+
+In general.—Notwithstanding any other provision of this section and subject to paragraphs (2) and (3), a State may, from sums available to the State under this section, make incentive payments to local governments in the State upon the permanent closure by such governments of public at-grade railway-highway crossings under the jurisdiction of such governments.
+
+&emsp;(2)
+
+Incentive payments by railroads.—A State may not make an incentive payment under paragraph (1) to a local government with respect to the closure of a crossing unless the railroad owning the tracks on which the crossing is located makes an incentive payment to the government with respect to the closure.
+
+&emsp;(3)
+
+Amount of state payment.—The amount of the incentive payment payable to a local government by a State under paragraph (1) with respect to a crossing may not exceed the lesser of—
+
+&emsp;&emsp;(A) the amount of the incentive payment paid to the government with respect to the crossing by the railroad concerned under paragraph (2); or
+
+&emsp;&emsp;(B) $7,500.
+
+&emsp;(4)
+
+Use of state payments.—A local government receiving an incentive payment from a State under paragraph (1) shall use the amount of the incentive payment for transportation safety improvements.
+
+(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 903; Pub. L. 100–17, title I, §121(a), Apr. 2, 1987, 101 Stat. 159; Pub. L. 104–59, title III, §325(a), Nov. 28, 1995, 109 Stat. 591; Pub. L. 104–205, title III, §353(b), Sept. 30, 1996, 110 Stat. 2980.)
 
 #### References in Text
 
 Subsection (d) of section 120 of this title, referred to in subsec. (a), was struck out and former subsec. (e) of section 120 was redesignated subsec. (d) by Pub. L. 102–240, title I, §1021(a), (b)(2), Dec. 18, 1991, 105 Stat. 1950, 1951.
 
 #### Amendments
+
+1996—Subsec. (i). Pub. L. 104–205 added subsec. (i).
 
 1995—Subsec. (g). Pub. L. 104–59 substituted “Committee on Transportation and Infrastructure” for “Committee on Public Works and Transportation” in third sentence.
 

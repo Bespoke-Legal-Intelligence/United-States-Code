@@ -10,7 +10,7 @@
 
 &emsp;(C) aiding the Administrator's customers and governmental authorities in implementing model conservation standards adopted pursuant to section 839b(f) of this title, and
 
-&emsp;(D) conducting demonstration projects to determine the cost effectiveness of conservation measures and direct application of renewable energy resources.
+&emsp;(D) conducting demonstration projects to determine the cost effectiveness of conservationmeasures and direct application of renewable energy resources.
 
 (2) In addition to acquiring electric power pursuant to section 839c(c) of this title, or on a short-term basis pursuant to section 11(b)(6)(i) of the Federal Columbia River Transmission System Act \[16 U.S.C. 838i(b)(6)(i)\], the Administrator shall acquire, in accordance with this section, sufficient resources—
 
@@ -80,7 +80,7 @@ The Administrator is authorized to acquire a resource, other than a major resour
 
 #### (e) Effectuation of priorities; use of customers and local entities
 
-(1) In order to effectuate the priority given to conservation measures and renewable resourcesunder this chapter, the Administrator shall, to the maximum extent practicable, make use of his authorities under this chapter to acquire conservation measures and renewable resources, to implement conservation measures, and to provide credits and technical and financial assistance for the development and implementation of such resources and measures (including the funding of, and the securing of debt for, expenses incurred during the investigation and preconstruction of resources, as authorized in subsection (f) of this section).
+(1) In order to effectuate the priority given to conservation measures and renewable resources under this chapter, the Administrator shall, to the maximum extent practicable, make use of his authorities under this chapter to acquire conservation measures and renewable resources, to implement conservation measures, and to provide credits and technical and financial assistance for the development and implementation of such resources and measures (including the funding of, and the securing of debt for, expenses incurred during the investigation and preconstruction of resources, as authorized in subsection (f) of this section).
 
 (2) To the extent conservation measures or acquisition of resources require direct arrangements with consumers, the Administrator shall make maximum practicable use of customers and local entities capable of administering and carrying out such arrangements.
 
@@ -150,7 +150,7 @@ Contracts for the acquisition of resources and for billing credits for major res
 
 #### (j) Obligations not to be considered general obligations of United States or secured by full faith and credit of United States
 
-(1) All contractual and other obligations required to be carried out by the Administrator pursuant to this chapter shall be secured solely by the Administrator's revenues received from the sale of electric power and other services. Such obligations are not, nor shall they be construed to be, general obligations of the United States, nor are such obligations intended to be or are they secured by the full faith and credit of the United States.
+(1) All contractual and other obligations required to be carried out by the Administrator pursuant to this chapter shall be secured solely by the Administrator's revenues received fromthe sale of electric power and other services. Such obligations are not, nor shall they be construed to be, general obligations of the United States, nor are such obligations intended to be or are they secured by the full faith and credit of the United States.
 
 (2) All contracts entered into by the Administrator for the acquisition of resources pursuant to this chapter shall require that, in the sale of any obligations, all offerings and promotional material for the sale of such obligations shall include the language contained in the second sentence of paragraph (1) of this subsection. The Administrator shall monitor and enforce such requirement.
 
@@ -164,7 +164,7 @@ In the exercise of his authorities pursuant to this section, the Administrator s
 
 (2) The Administrator is authorized and directed to investigate periodically opportunities for mutually beneficial interregional exchanges of electric power that reduce the need for additional generation or generating capacity in the Pacific Northwest and the regions with which such exchanges may occur. The Council shall take into consideration in formulating a plan such investigations.
 
-(3) After the Administrator submits a report to Congress pursuant to paragraph (5) of thissubsection, the Administrator is authorized to acquire resources consistent with such investigations and consistent with the plan or, if no plan is in effect, with the priorities of section 839b(e)(1) of this title and the considerations of section 839b(e)(2) of this title. Such acquisitions shall be in accordance with the provisions of this subsection.
+(3) After the Administrator submits a report to Congress pursuant to paragraph (5) of this subsection, the Administrator is authorized to acquire resources consistent with such investigations and consistent with the plan or, if no plan is in effect, with the priorities of section 839b(e)(1) of this title and the considerations of section 839b(e)(2) of this title. Such acquisitions shall be in accordance with the provisions of this subsection.
 
 (4) The Administrator shall conduct the investigations and the acquisitions, if any, authorized under this subsection with the assistance of other Federal agencies as may be appropriate.
 

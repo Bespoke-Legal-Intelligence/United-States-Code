@@ -6,7 +6,7 @@
 
 &emsp;(1) serve as the principal agency for the coordination of Federal, State, interstate, local and nongovernmental plans for the development of water and related land resources in its area, river basin, or group of river basins;
 
-&emsp;(2) prepare and keep up to date, to the extent practicable, a comprehensive, coordinated, joint plan for Federal, State, interstate, local and nongovernmental development of water and related resources: <i>Provided,</i> That the plan shall include an evaluation of all reasonable alternative means of achieving optimum development of water and related land resources of the basin or basins, and it may be prepared in stages, including recommendations with respect to individual projects;
+&emsp;(2) prepare and keep up to date, to the extent practicable, a comprehensive, coordinated, joint plan for Federal, State, interstate, local and nongovernmental development of water and related resources: <i>Provided</i>, That the plan shall include an evaluation of all reasonable alternative means of achieving optimum development of water and related land resources of the basin or basins, and it may be prepared in stages, including recommendations with respect to individual projects;
 
 &emsp;(3) recommend long-range schedules of priorities for the collection and analysis of basic data and for investigation, planning, and construction of projects; and
 
@@ -58,7 +58,7 @@ Ex. Ord. No. 11882, Oct. 6, 1975, 40 F.R. 46293, relating to membership of the E
 
 Ex. Ord. No. 12319, Sept. 9, 1981, 46 F.R. 45591, provided:
 
-By the authority vested in me as President by the Constitution and laws of the United States, in order to ensure the orderly termination of the six river basincommissions established pursuant to the Water Resources Planning Act (42 U.S.C. 1962 et seq.), it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and laws of the United States, in order to ensure the orderly termination of the six river basin commissions established pursuant to the Water Resources Planning Act (42 U.S.C. 1962 et seq.), it is hereby ordered as follows:
 
 Section 1. In accord with the decision of the Water Resources Council pursuant to Section 203(a) of the Water Resources Planning Act (42 U.S.C. 1962b–2(a)), the following river basin commissions shall terminate on the date indicated:
 

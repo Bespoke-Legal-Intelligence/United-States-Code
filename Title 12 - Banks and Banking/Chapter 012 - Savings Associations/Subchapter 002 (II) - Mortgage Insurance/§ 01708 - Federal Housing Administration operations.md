@@ -40,7 +40,7 @@ There is created a Federal Housing Administration Advisory Board (“Board”) t
 
 &emsp;(8) The Board shall, not later than December 31 of each year, submit to the Secretary and the Congress a report of its assessment of the activities of the Federal Housing Administration, including the soundness of underwriting procedures, the adequacy of information systems, the appropriateness of staffing patterns, the effectiveness of the Mortgagee Review Board, and other matters related to the Federal Housing Administration's ability to serve the nation's homebuyers and renters. Such report shall contain the Board's recommendations for improvement and include any minority views.
 
-&emsp;(9) The Board shall meet in Washington, D.C., not less than twice annually, or more frequently if requested by the Federal Housing Commissioner or a majority of the members. The Board shall elect a chair, vice-chair and secretary and adopt methods of procedure. The Board may establish committees and subcommittees as needed.
+&emsp;(9) The Board shall meet in Washington, D.C., not less than twice annually, or morefrequently if requested by the Federal Housing Commissioner or a majority of the members. The Board shall elect a chair, vice-chair and secretary and adopt methods of procedure. The Board may establish committees and subcommittees as needed.
 
 &emsp;(10) Subject to the provisions of Section 7 of the Federal Advisory Committee Act, all members of the Board may be compensated and shall be entitled to reimbursement from the Department for traveling expenses incurred in attendance at meetings of the Board.
 

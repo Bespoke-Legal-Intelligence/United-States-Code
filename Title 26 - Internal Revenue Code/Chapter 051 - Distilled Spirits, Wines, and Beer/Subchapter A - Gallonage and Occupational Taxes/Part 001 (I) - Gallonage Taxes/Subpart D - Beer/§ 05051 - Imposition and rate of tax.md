@@ -4,13 +4,13 @@
 
 #### (1) In general
 
-&emsp;A tax is hereby imposed on all beer brewed or produced, and removed for consumption or sale, within the United States, or imported into the United States. Except as provided in paragraph (2), the rate of such tax shall be $18 for every barrel containing not more than 31 gallons and at a like rate for any other quantity or for fractional parts of a barrel.
+&emsp;A tax is hereby imposed on all beer brewed or produced, and removed for consumption orsale, within the United States, or imported into the United States. Except as provided in paragraph (2), the rate of such tax shall be $18 for every barrel containing not more than 31 gallons and at a like rate for any other quantity or for fractional parts of a barrel.
 
 #### (2) Reduced rate for certain domestic production
 
 #### (A) $7 a barrel rate
 
-&emsp;&emsp;In the case of a brewer who produces not more than 2,000,000 barrels of beer during the calendar year, the per barrel rate of the tax imposed by this section shall be $7 on the first 60,000 barrels of beer which are removed in such year for consumption or sale and which have been brewed or produced by suchbrewer at qualified breweries in the United States.
+&emsp;&emsp;In the case of a brewer who produces not more than 2,000,000 barrels of beer during the calendar year, the per barrel rate of the tax imposed by this section shall be $7 on the first 60,000 barrels of beer which are removed in such year for consumption or sale and which have been brewed or produced by such brewer at qualified breweries in the United States.
 
 #### (B) Controlled groups
 

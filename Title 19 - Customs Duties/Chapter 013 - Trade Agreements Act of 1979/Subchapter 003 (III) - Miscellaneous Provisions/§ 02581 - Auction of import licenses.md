@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Notwithstanding any other provision of law, the President may sell import licenses at publicauction under such terms and conditions as he deems appropriate. Regulations prescribed under this subsection shall, to the extent practicable and consistent with efficient and fair administration, insure against inequitable sharing of imports by a relatively small number of the larger importers.
+Notwithstanding any other provision of law, the President may sell import licenses at public auction under such terms and conditions as he deems appropriate. Regulations prescribed under this subsection shall, to the extent practicable and consistent with efficient and fair administration, insure against inequitable sharing of imports by a relatively small number of the larger importers.
 
 #### (b) “Import license” defined
 

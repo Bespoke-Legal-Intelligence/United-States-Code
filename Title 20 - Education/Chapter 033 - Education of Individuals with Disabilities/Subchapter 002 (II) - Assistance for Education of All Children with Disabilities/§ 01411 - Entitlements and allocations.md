@@ -82,7 +82,7 @@
 
 &emsp;&emsp;(II) the per-child amount provided under such subpart for fiscal year 1994; and
 
-&emsp;(ii) may use such funds to ensure that each local educational agency that received for fiscal year 1994 under such subpart for children who had transferred from a State-owned, State-operated, or State-supported school or program assisted under such subpart receives, from the sum of such funds and funds provided under paragraph (1), an amount for each such child, aged 3 through 21, determined under subsection (a)(3) of this section for such agency, equal to the per-child amount the agency received under such subpart for fiscal year 1994.
+&emsp;(ii) may use such funds to ensure that each local educational agency that received for fiscal year 1994 under such subpart for childrenwho had transferred from a State-owned, State-operated, or State-supported school or program assisted under such subpart receives, from the sum of such funds and funds provided under paragraph (1), an amount for each such child, aged 3 through 21, determined under subsection (a)(3) of this section for such agency, equal to the per-child amount the agency received under such subpart for fiscal year 1994.
 
 (B) For the purpose of subparagraph (A), the number of children determined under subsection (a)(3) of this section for any State agency or local educational agency shall not exceed the number of children aged 3 through 21 for whom such agency received funds under such subpart for such fiscal year.
 
@@ -106,7 +106,7 @@
 
 &emsp;(B) includes a description of how the Secretary of the Interior will coordinate the provision of services under this subchapter with local educational agencies, tribes and tribal organizations, and other private and Federal service providers;
 
-&emsp;(C) includes an assurance that there are public hearings, adequate notice of such hearings, and an opportunity for comment afforded to members of tribes, tribal governing bodies, and affected local school boards before theadoption of the policies, programs, and procedures required under subparagraph (A);
+&emsp;(C) includes an assurance that there are public hearings, adequate notice of such hearings, and an opportunity for comment afforded to members of tribes, tribal governing bodies, and affected local school boards before the adoption of the policies, programs, and procedures required under subparagraph (A);
 
 &emsp;(D) includes an assurance that the Secretary of the Interior will provide such information as the Secretary of Education may require to comply with section 1418(b)(1) of this title, including data on the number of children and youth with disabilities served and the types and amounts of services provided and needed and this information shall be included in the annual report of the Secretary of Education to Congress required in section 1418(g) of this title;
 
@@ -116,7 +116,7 @@
 
 > Section 1416(a) of this title shall apply to any such application.
 
-(4)(A) Beginning with funds appropriated under subsection (a) of this section for fiscal year 1992, the Secretary shall, subject to this paragraph, make payments to the Secretary of the Interior to be distributed to tribes or tribal organizations (as defined under section 450b of title 25) or consortiums of the above to provide for the coordination of assistance for special education and related services for children with disabilities aged 3–5, inclusive, on reservations served by elementary and secondary schools for Indian children operated or funded by the Department of the Interior. The amount of such payments under subparagraph (B) for any fiscal year shall be .25 percent of the aggregate amounts available for all States under this section for that fiscal year.
+(4)(A) Beginning with funds appropriated under subsection (a) of this section for fiscalyear 1992, the Secretary shall, subject to this paragraph, make payments to the Secretary of the Interior to be distributed to tribes or tribal organizations (as defined under section 450b of title 25) or consortiums of the above to provide for the coordination of assistance for special education and related services for children with disabilities aged 3–5, inclusive, on reservations served by elementary and secondary schools for Indian children operated or funded by the Department of the Interior. The amount of such payments under subparagraph (B) for any fiscal year shall be .25 percent of the aggregate amounts available for all States under this section for that fiscal year.
 
 (B) The Secretary of the Interior shall distribute the total amount of the .25 percent under subparagraph (A) in the following manner:
 
@@ -134,7 +134,7 @@
 
 (G) None of the funds allocated under this paragraph can be used by the Secretary of the Interior for administrative purposes, including child count, and the provision of technical assistance.
 
-(5) Before January 1, 1992, the Secretary of the Interior shall submit to the Committee on Education and Labor of the House of Representatives and the Committee on Labor and Human Resources of the Senate a plan for the coordination of services for all Indian children with disabilities residing on reservations covered under this chapter. Such plan shall provide for the coordination of services benefiting these childrenfrom whatever source, including tribes, the Indian Health Service, other BIA divisions, and other Federal agencies. In developing such a plan, the Secretary of the Interior shall consult with all interested and involved parties. It shall be based upon the needs of the children and the system best suited for meeting those needs, and may involve the establishment of cooperative agreements between the BIA, other Federal agencies, and other entities. Such plan shall also be distributed upon request to States, State and local educational agencies, and other agencies providing services to infants, toddlers, children, and youth with disabilities, to tribes, and to other interested parties.
+(5) Before January 1, 1992, the Secretary of the Interior shall submit to the Committee on Education and Labor of the House of Representatives and the Committee on Labor and Human Resources of the Senate a plan for the coordination of services for all Indian children with disabilities residing on reservations covered under this chapter. Such plan shall provide for the coordination of services benefiting these children from whatever source, including tribes, the Indian Health Service, other BIA divisions, and other Federal agencies. In developing such a plan, the Secretary of the Interior shall consult with all interested and involved parties. It shall be based upon the needs of the children and the system best suited for meeting those needs, and may involve the establishment of cooperative agreements between the BIA, other Federal agencies, and other entities. Such plan shall also be distributed upon request to States, State and local educational agencies, and other agencies providing services to infants, toddlers, children, and youth with disabilities, to tribes, and to other interested parties.
 
 (6) To meet the requirements of sections 1413(a)(12) of this title, the Secretary of the Interior shall establish, within 6 months of October 7, 1991, under the Bureau of Indian Affairs (BIA), an advisory board composed of individuals involved in or concerned with the education and provision of services to Indian infants, toddlers, children, and youth with disabilities, including Indians with disabilities, Indian parents or guardians of such children, teachers, service providers, State and local educational officials, representatives of tribes or tribal organizations, representatives from State Interagency Coordinating Councils in States having reservations, and other members representing the various divisions and entities of the BIA. The chairperson shall be selected by the Secretary of the Interior. The advisory board shall—
 
@@ -174,7 +174,7 @@ For grants under subsection (a) of this section there are authorized to be appro
 
 Subpart 2 of part D of chapter 1 of title I of the Elementary and Secondary Education Act of 1965 (as such subpart was in effect on the day preceding October 20, 1994), referred to in subsecs. (a)(5)(A)(i), (ii), (b)(1)(B), (2), and (d)(2), means subpart 2 of part D of chapter 1 of title I of Pub. L. 89–10, as added by Pub. L. 100–297, title I, §1001, Apr. 28, 1988, 102 Stat. 179, as amended, which was classified generally to subpart 2 (§2791 et seq.) of part D of div. I of subchapter I of chapter 47 of this title prior to being omitted in the general amendment of Pub. L. 89–10 by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519.
 
-For Oct. 1, 1994, as the date the Compact of Free Association with the Government of Palau takes effect,referred to in subsec. (e)(1), see Proc. No. 6726, Sept. 27, 1994, 59 F.R. 49777, set out as a note under section 1931 of Title 48, Territories and Insular Possessions.
+For Oct. 1, 1994, as the date the Compact of Free Association with the Government of Palau takes effect, referred to in subsec. (e)(1), see Proc. No. 6726, Sept. 27, 1994, 59 F.R. 49777, set out as a note under section 1931 of Title 48, Territories and Insular Possessions.
 
 Section 2008 of title 25, referred to in subsec. (f)(4)(B)(i), was in the original a reference to section 1128 of the Education Amendments of 1978, Pub. L. 95–561. Section 1128 of Pub. L. 95–561 was omitted in the general amendment of chapter 22 (§2001 et seq.) of Title 25, Indians, by Pub. L. 103–382, title III, §381, Oct. 20, 1994, 108 Stat. 3979. Pub. L. 103–382 enacted a new section 1127 of Pub. L. 95–561, relating to allotment formulas, and a new section 1128, relating to administrative cost grants, which are classified to sections 2007 and 2008, respectively, of Title 25.
 
@@ -256,7 +256,7 @@ Subsec. (f)(1). Pub. L. 100–630, §102(a)(4), substituted “served” for “
 
 Subsec. (f)(2)(B). Pub. L. 100–630, §102(a)(5), inserted a comma after “inclusive”.
 
-1986—Subsec. (a)(1)(A). Pub. L. 99–457, §201(b)(1), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “the number of handicapped children aged three to twenty-one, inclusive, in such State who are receiving special education and related services;”.
+1986—Subsec. (a)(1)(A). Pub. L. 99–457, §201(b)(1), amended subpar. (A) generally. Prior to amendment,subpar. (A) read as follows: “the number of handicapped children aged three to twenty-one, inclusive, in such State who are receiving special education and related services;”.
 
 Subsec. (a)(5)(A). Pub. L. 99–457, §403(a), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “In determining the allotment of each State under paragraph (1), the Secretary may not count—
 
@@ -306,7 +306,7 @@ Subsec. (c)(1). Pub. L. 94–142, §2(a)(1)(B), effective for period from July 1
 
 Subsec. (c)(2). Pub. L. 94–142, §2(a)(2), effective for period from July 1, 1975, through end of fiscal year ending Sept. 30, 1977, substituted “years ending June 30, 1975, and 1976, and for the fiscal year ending September 30, 1977” for “year ending June 30, 1975” and “1 per centum” for “2 per centum”.
 
-Subsec. (d). Pub. L. 94–142, §2(a)(3), effective for period from July 1, 1975, through end of fiscal year endingSept. 30, 1977, substituted “years ending June 30, 1975, and 1976, and for the fiscal year ending September 30, 1977” for “year ending June 30, 1975”.
+Subsec. (d). Pub. L. 94–142, §2(a)(3), effective for period from July 1, 1975, through end of fiscal year ending Sept. 30, 1977, substituted “years ending June 30, 1975, and 1976, and for the fiscal year ending September 30, 1977” for “year ending June 30, 1975”.
 
 1974—Pub. L. 93–380, §614(a), as amended by Pub. L. 94–142, §2(b)(1), amended section generally, effective for fiscal years ending June 30, 1975, and 1976, for period beginning July 1, 1976, and ending Sept. 30, 1976, and for fiscal year ending Sept. 30, 1977.
 
@@ -316,7 +316,7 @@ Subsec. (b). Pub. L. 93–380, §614(e)(2), substituted appropriations authoriza
 
 #### Change of Name
 
-Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Economic and Educational Opportunities of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Fifth Congress, Jan. 7, 1997.
 
 #### Effective Date of 1994 Amendment
 
@@ -390,7 +390,7 @@ Section 5(b) of Pub. L. 94–142 provided that:
 
 #### Duties and Responsibilities of Secretary of the Interior Respecting Funds
 
-Pub. L. 92–318, title IV, §421(b)(2), June 23, 1972, 86 Stat. 341, prescribed duties of the Secretary of the Interior with respect to funds paid to the Secretary under sections 1411 to 1414 of this title and former subchapters I and II of chapter 24 of this title, prior to repeal by Pub. L. 100–297, title V, §5352(4), Apr. 28, 1988, 102 Stat. 414.
+Pub. L. 92–318, title IV, §421(b)(2), June 23, 1972, 86 Stat. 341, prescribed duties of the Secretary of the Interior with respect to funds paid to the Secretary undersections 1411 to 1414 of this title and former subchapters I and II of chapter 24 of this title, prior to repeal by Pub. L. 100–297, title V, §5352(4), Apr. 28, 1988, 102 Stat. 414.
 
 #### Section Referred to in Other Sections
 

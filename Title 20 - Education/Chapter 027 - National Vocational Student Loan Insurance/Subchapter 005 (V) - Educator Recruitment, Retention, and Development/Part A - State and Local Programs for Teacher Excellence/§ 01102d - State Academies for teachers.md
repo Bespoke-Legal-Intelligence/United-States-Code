@@ -106,7 +106,7 @@ Each eligible entity receiving a grant to operate an Academy under this section 
 
 #### (e) Cost sharing
 
-Funds received for this section may be used to pay not more than 75 percent of the cost of operating an Academy in the first year an eligible entity receives a grant under this section, 65 percent of such cost in such second year, 55 percent of such cost in such third year, 45 percent of such cost in such fourth year, and 35 percent of such cost in such fifth year. The remainingshare shall be provided from non-Federal sources, and may be in cash or in-kind contributions, fairly valued.
+Funds received for this section may be used to pay not more than 75 percent of the cost of operating an Academy in the first year an eligible entity receives a grant under this section, 65 percent of such cost in such second year, 55 percent of such cost in such third year, 45 percent of such cost in such fourth year, and 35 percent of such cost in such fifth year. The remaining share shall be provided from non-Federal sources, and may be in cash or in-kind contributions, fairly valued.
 
 #### (f) Special rules
 

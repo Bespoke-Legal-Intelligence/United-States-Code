@@ -16,7 +16,7 @@
 
 &emsp;(2) have been recommended by a board under subsection (e).
 
-> Each officer covered by the preceding sentence, except the Surgeon General, shall be appointed in the regular grade of major general. The Surgeon General, while so serving, has the grade of lieutenant general. The Judge Advocate General shall be appointed as prescribed in section 3037 of this title.
+> Each officer covered by the preceding sentence, except the Surgeon General, shall be appointed in the regular grade of major general. The Surgeon General may be appointed from officers in any corps of the Army Medical Department and, while so serving, has the grade of lieutenant general. The Judge Advocate General shall be appointed as prescribed in section 3037 of this title.
 
 (c) An officer appointed under subsection (b) normally holds office for four years. However, the President may terminate or extend the appointment at any time.
 
@@ -28,7 +28,7 @@
 
 &emsp;(B) the services are provided on a reimbursable basis.
 
-(3) For purposes of this subsection, the term “State” includes the several States, the District of Columbia, the Commonwealths of Puerto Rico and the Northern Mariana Islands, territories and possessions of the United States, and Indian tribes.
+(3) In this subsection, the term “State” includes the several States, the District of Columbia, the Commonwealths of Puerto Rico and the Northern Mariana Islands, territories and possessions of the United States, and Indian tribes.
 
 (e) For each office to be filled under subsection (b), the Secretary shall select a board of five general officers, including the incumbent, if any, of the office, and at least two officers, if available, in a grade above major general who have had extensive service in the branch concerned. The Secretary shall give the board a list of the officers to be considered and shall specify the number of officers, not less than three, to be recommended. The list shall include—
 
@@ -40,9 +40,9 @@
 
 &emsp;(4) to the extent that the Secretary considers advisable, the name of each regular or reserve officer on active duty in a grade above lieutenant colonel who has shown by extensive duty in that branch, or by similar duty, that he is qualified for the appointment.
 
-> From these officers, the board shall recommend by name the number prescribed by the Secretary, and the President may appoint any officer so recommended. If the President declines to appoint any of the recommended officers, or ifthe officer nominated cannot be appointed because of advice by the Senate, the Secretary shall convene a board to recommend additional officers. An officer who is recommended but not appointed shall be considered not to have been recommended. This does not affect his eligibility for selection and recommendations for the grade of brigadier general or major general under section 3306 or 3307 of this title.
+> From these officers, the board shall recommend by name the number prescribed by the Secretary, and the President may appoint any officer so recommended. If the President declines to appoint any of the recommended officers, or if the officer nominated cannot be appointed because of advice by the Senate, the Secretary shall convene a board to recommend additional officers. An officer who is recommended but not appointed shall be considered not to have been recommended. This does not affect his eligibility for selection and recommendations for the grade of brigadier general or major general under section 3306 or 3307 of this title.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 163; Oct. 22, 1965, Pub. L. 89–288, §1, 79 Stat. 1050; Nov. 2, 1966, Pub. L. 89–718, §24, 80 Stat. 1119; Oct. 12, 1982, Pub. L. 97–295, §1(38), 96 Stat. 1296; Nov. 17, 1986, Pub. L. 99–662, title IX, §922, 100 Stat. 4194; Apr. 21, 1987, Pub. L. 100–26, §7(a)(10), 101 Stat. 278; Oct. 31, 1992, Pub. L. 102–580, title II, §211, 106 Stat. 4831.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 163; Oct. 22, 1965, Pub. L. 89–288, §1, 79 Stat. 1050; Nov. 2, 1966, Pub. L. 89–718, §24, 80 Stat. 1119; Oct. 12, 1982, Pub. L. 97–295, §1(38), 96 Stat. 1296; Nov. 17, 1986, Pub. L. 99–662, title IX, §922, 100 Stat. 4194; Apr. 21, 1987, Pub. L. 100–26, §7(a)(10), 101 Stat. 278; Oct. 31, 1992, Pub. L. 102–580, title II, §211, 106 Stat. 4831; Feb. 10, 1996, Pub. L. 104–106, div. A, title V, §506(a), 110 Stat. 296; Sept. 23, 1996, Pub. L. 104–201, div. A, title X, §1074(a)(18), 110 Stat. 2660.)
 
 Historical and Revision Notes<br>1956
 
@@ -58,11 +58,15 @@ Act
 
 3036(b)
 
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 3036(c)
 
 3036(d)
-
-3036(e)
 
 10:21f(a).
 
@@ -76,13 +80,13 @@ Act
 
 10:21f(c).
 
-10:559g(b).
-
 June 28, 1950, ch. 383, §206, 64 Stat. 267.
 
 June 3, 1916, ch. 134, §11 (1st 17 words); restated June 4, 1920, ch. 227, subch. I, §11 (1st 17 words), 41 Stat. 768.
 
-&nbsp;
+3036(e)
+
+10:559g(b).
 
 Aug. 7, 1947, ch. 512, §513(a) (less 5th sentence), (b), 61 Stat. 901.
 
@@ -116,6 +120,10 @@ The first sentence is restated to clarify that the Secretary concerned is the Se
 
 #### Amendments
 
+1996—Subsec. (b). Pub. L. 104–106 inserted “may be appointed from officers in any corps of the Army Medical Department and” after “The Surgeon General” in concluding provisions.
+
+Subsec. (d)(3). Pub. L. 104–201 substituted “In this subsection” for “For purposes of this subsection”.
+
 1992—Subsec. (d)(3). Pub. L. 102–580 added par. (3).
 
 1987—Subsec. (d). Pub. L. 100–26 designated existing first sentence requiring each officer named in subsec. (a) to perform prescribed duties as par. (1), designated existing second sentence permitting the Chief of Engineers to accept orders to provide services to another department, agency, or governmental instrumentality as par. (2), and substituted “United States or to a State or political subdivision of a State. The Chief of Engineers may provide any part of those services by contract. Services may be provided to a State, or to a political subdivision of a State, only if—
@@ -146,7 +154,7 @@ The first sentence is restated to clarify that the Secretary concerned is the Se
 
 #### Chief of Engineers; Work or Services for Other Federal Departments and Agencies
 
-Pub. L. 89–298, title II, §219, Oct. 27, 1965, 79 Stat. 1089, which provided that the Chief of Engineers, under the supervision of the Secretary of the Army, was authorized to accept orders from other Federal departments and agencies for work or services and to perform all or any part of such work or services by contract, was repealed and restated in subsec. (d) of this section by Pub. L. 97–295, §§1(38), 6(b), Oct. 12, 1982, 96 Stat. 1296, 1314.
+Pub. L. 89–298, title II, §219, Oct. 27, 1965, 79 Stat. 1089, which provided that the Chief of Engineers, under the supervision of the Secretary of the Army, was authorized to accept orders from other Federal departments and agencies for work or services and to perform all or any part of such work or services by contract, was repealed and restated in subsec. (d) of this section byPub. L. 97–295, §§1(38), 6(b), Oct. 12, 1982, 96 Stat. 1296, 1314.
 
 #### Department of Defense Reorganization Order
 
@@ -156,7 +164,7 @@ Pub. L. 89–298, title II, §219, Oct. 27, 1965, 79 Stat. 1089, which provided 
 
 By virtue of the authority vested in me by section 202(c) of the National Security Act of 1947, as amended (72 Stat. 514; 5 U.S.C. 171a(c)), and as Secretary of Defense, it is hereby ordered as follows:
 
-Section 1. <i>Abolition of officers and transfer of functions.</i> The following officers named in section 3036, Title 10, United States Code, are hereby abolished and their functions transferred to the Secretary of the Army:
+Section 1. <i>Abolition of officers and transfer of functions</i>. The following officers named in section 3036, Title 10, United States Code, are hereby abolished and their functions transferred to the Secretary of the Army:
 
 (a) Chief Signal Officer;
 
@@ -172,13 +180,13 @@ Section 1. <i>Abolition of officers and transfer of functions.</i> The following
 
 (g) Chief of Transportation.
 
-Sec. 2. <i>Transfer of functions from Chief of Engineers.</i> The functions vested in the Chief of Engineers by sections 3038 and 3533, Title 10, United States Code, are hereby transferred to the Secretary of the Army.
+Sec. 2. <i>Transfer of functions from Chief of Engineers</i>. The functions vested in the Chief of Engineers by sections 3038 and 3533, Title 10, United States Code, are hereby transferred to the Secretary of the Army.
 
-Sec. 3. <i>Performance of transferred functions.</i> The Secretary of the Army may from time to time make such provisions as he shall deem appropriate authorizing the performance by any other officer, or by any office, agency, or employee of the Department of the Army of any function transferred to the Secretary by the provisions of this order.
+Sec. 3. <i>Performance of transferred functions</i>. The Secretary of the Army may from time to time make such provisions as he shall deem appropriate authorizing the performance by any other officer, or by any office, agency, or employee of the Department of the Army of any function transferred to the Secretary by the provisions of this order.
 
-Sec. 4. <i>Transitional provisions.</i> In order to assist in the orderly transfer of functions and to promote continuity of operation, the Secretary of the Army may, if he considers it necessary, delay beyond the effective date of this order the abolition of any office or transfer of any function.
+Sec. 4. <i>Transitional provisions</i>. In order to assist in the orderly transfer of functions and to promote continuity of operation, the Secretary of the Army may, if he considers it necessary, delay beyond the effective date of this order the abolition of any office or transfer of any function.
 
-Sec. 5. <i>Effective date.</i> The provisions of this order shall take effect on the date determined under section 202(c) of the National Security Act of 1947, as amended (72 Stat. 514; 5 U.S.C. 171a(c)), or the 16th day of February 1962, whichever is later.
+Sec. 5. <i>Effective date</i>. The provisions of this order shall take effect on the date determined under section 202(c) of the National Security Act of 1947, as amended (72 Stat. 514; 5 U.S.C. 171a(c)), or the 16th day of February 1962, whichever is later.
 
 J. C. Lambert,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

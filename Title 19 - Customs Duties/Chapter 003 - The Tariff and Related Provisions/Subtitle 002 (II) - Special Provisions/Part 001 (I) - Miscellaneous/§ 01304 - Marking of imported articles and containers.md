@@ -34,7 +34,7 @@ Except as hereinafter provided, every article of foreign origin (or its containe
 
 #### (b) Marking of containers
 
-Whenever an article is excepted under subdivision (3) of subsection (a) of this section from the requirements of marking, the immediate container, if any, of such article, or such other container or containers of such article as may beprescribed by the Secretary of the Treasury, shall be marked in such manner as to indicate to an ultimate purchaser in the United States the English name of the country of origin of such article, subject to all provisions of this section, including the same exceptions as are applicable to articles under subdivision (3) of subsection (a) of this section. If articles are excepted from marking requirements under clause (F), (G), or (H) of subdivision (3) of subsection (a) of this section, their usual containers shall not be subject to the marking requirements of this section. Usual containers in use as such at the time of importation shall in no case be required to be marked to show the country of their own origin.
+Whenever an article is excepted under subdivision (3) of subsection (a) of this section from the requirements of marking, the immediate container, if any, of such article, or such other container or containers of such article as may be prescribed by the Secretary of the Treasury, shall be marked in such manner as to indicate to an ultimate purchaser in the United States the English name of the country of origin of such article, subject to all provisions of this section, including the same exceptions as are applicable to articles under subdivision (3) of subsection (a) of this section. If articles are excepted from marking requirements under clause (F), (G), or (H) of subdivision (3) of subsection (a) of this section, their usual containers shall not be subject to the marking requirements of this section. Usual containers in use as such at the time of importation shall in no case be required to be marked to show the country of their own origin.
 
 #### (c) Marking of certain pipe and fittings
 
@@ -50,21 +50,29 @@ No exception may be made under subsection (a)(3) of this section with respect to
 
 No exception may be made under subsection (a)(3) of this section with respect to manhole rings or frames, covers, and assemblies thereof each of which shall be marked on the top surface with the English name of the country of origin by means of die stamping, cast-in-mold lettering, etching, engraving, or an equally permanent method of marking.
 
-#### (f) Additional duties for failure to mark
+#### (f) Marking of certain coffee and tea products
+
+The marking requirements of subsections (a) and (b) of this section shall not apply to articles described in subheadings 0901.21, 0901.22, 0902.10, 0902.20, 0902.30, 0902.40, 2101.10, and 2101.20 of the Harmonized Tariff Schedule of the United States, as in effect on January 1, 1995.
+
+#### (g) Marking of spices
+
+The marking requirements of subsections (a) and (b) of this section shall not apply to articles provided for under subheadings 0904.11, 0904.12, 0904.20, 0905.00, 0906.10, 0906.20, 0907.00, 0908.10, 0908.20, 0908.30, 0909.10, 0909.20, 0909.30, 0909.40, 0909.50, 0910.10, 0910.20, 0910.30, 0910.40, 0910.50, 0910.91, 0910.99, 1106.20, 1207.40, 1207.50, 1207.91, 1404.90, and 3302.10, and items classifiable in categories 0712.90.60, 0712.90.8080, 1209.91.2000, 1211.90.2000, 1211.90.8040, 1211.90.8050, 1211.90.8090, 2006.00.3000, 2918.13.2000, 3203.00.8000, 3301.90.1010, 3301.90.1020, and 3301.90.1050 of the Harmonized Tariff Schedule of the United States, as in effect on January 1, 1995.
+
+#### (h) Additional duties for failure to mark
 
 If at the time of importation any article (or its container, as provided in subsection (b) of this section) is not marked in accordance with the requirements of this section, and if such article is not exported or destroyed or the article (or its container, as provided in subsection (b) of this section) marked after importation in accordance with the requirements of this section (such exportation, destruction, or marking to be accomplished under customs supervision prior to the liquidation of the entry covering the article, and to be allowed whether or not the article has remained in continuous customs custody), there shall be levied, collected, and paid upon such article a duty of 10 per centum ad valorem, which shall be deemed to have accrued at the time of importation, shall not be construed to be penal, and shall not be remitted wholly or in part nor shall payment thereof be avoidable for any cause. Such duty shall be levied, collected, and paid in addition to any other duty imposed by law and whether or not the article is exempt from the payment of ordinary customs duties. The compensation and expenses of customs officers and employees assigned to supervise the exportation, destruction, or marking to exempt articles from the application of the duty provided for in this subsection shall be reimbursed to the Government by the importer.
 
-#### (g) Delivery withheld until marked
+#### (i) Delivery withheld until marked
 
-No imported article held in customs custody for inspection, examination, or appraisement shall be delivered until such article and every other article of the importation (or their containers), whether or not released from customs custody, shall have been marked in accordance with the requirements of this section or until the amount of duty estimated to be payable under subsection (f) of this section has been deposited. Nothing in this section shall be construed as excepting any article (or its container) from the particular requirements of marking provided for in any other provision of law.
+No imported article held in customs custody for inspection, examination, or appraisement shall be delivered until such article and every other article of the importation (or their containers), whether or not released from customs custody, shall have been marked in accordance with the requirements of this section or until the amount of duty estimated to be payable under subsection (h) of this section has been deposited. Nothing in this section shall be construed as excepting any article (or its container) from the particular requirements of marking provided for in any other provision of law.
 
-#### (h) Treatment of goods of NAFTA country
+#### (j) Treatment of goods of NAFTA country
 
 #### (1) Application of section
 
 &emsp;In applying this section to an article that qualifies as a good of a NAFTA country (as defined in section 3301(4) of this title) under the regulations issued by the Secretary to implement Annex 311 of the North American Free Trade Agreement—
 
-&emsp;&emsp;(A) the exemption under subsection (a)(3)(H) of this section shall be applied by substituting “reasonably know” for “necessarily know”;
+&emsp;&emsp;(A) the exemption under subsection (a)(3)(H) of this section shall be applied bysubstituting “reasonably know” for “necessarily know”;
 
 &emsp;&emsp;(B) the Secretary shall exempt the good from the requirements for marking under subsection (a) of this section if the good—
 
@@ -108,7 +116,7 @@ No imported article held in customs custody for inspection, examination, or appr
 
 &emsp;&emsp;For purposes of judicial review, the denial of a petition under subparagraph (C)(ii) shall be treated as if it were a denial of a petition of an interested party under section 1516 of this title regarding an issue arising under any of the preceding provisions of this section.
 
-#### (i) Penalties
+#### (k) Penalties
 
 Any person who, with intent to conceal the information given thereby or contained therein, defaces, destroys, removes, alters, covers, obscures, or obliterates any mark required under the provisions of this chapter shall—
 
@@ -116,17 +124,23 @@ Any person who, with intent to conceal the information given thereby or containe
 
 &emsp;(2) upon conviction for the second or any subsequent violation of this subsection, be fined not more than $250,000, or imprisoned for not more than 1 year, or both.
 
-(June 17, 1930, ch. 497, title III, §304, 46 Stat. 687; June 25, 1938, ch. 679, §3, 52 Stat. 1077; Aug. 8, 1953, ch. 397, §4(c), 67 Stat. 509; Oct. 30, 1984, Pub. L. 98–573, title II, §207, 98 Stat. 2976; Oct. 22, 1986, Pub. L. 99–514, title XVIII, §1888(1), 100 Stat. 2924; Aug. 23, 1988, Pub. L. 100–418, title I, §1907(a)(1), 102 Stat. 1314; Dec. 8, 1993, Pub. L. 103–182, title II, §207(a), 107 Stat. 2096.)
+(June 17, 1930, ch. 497, title III, §304, 46 Stat. 687; June 25, 1938, ch. 679, §3, 52 Stat. 1077; Aug. 8, 1953, ch. 397, §4(c), 67 Stat. 509; Oct. 30, 1984, Pub. L. 98–573, title II, §207, 98 Stat. 2976; Oct. 22, 1986, Pub. L. 99–514, title XVIII, §1888(1), 100 Stat. 2924; Aug. 23, 1988, Pub. L. 100–418, title I, §1907(a)(1), 102 Stat. 1314; Dec. 8, 1993, Pub. L. 103–182, title II, §207(a), 107 Stat. 2096; Oct. 11, 1996, Pub. L. 104–295, §14(a), (b), 110 Stat. 3521, 3522.)
 
 #### References in Text
 
-The Harmonized Tariff Schedule of the United States, referred to in subsec. (h)(1)(B)(ii), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of this title.
+The Harmonized Tariff Schedule of the United States, referred to in subsecs. (f), (g), and (j)(1)(B)(ii), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of this title.
 
 #### Prior Provisions
 
 Provisions dealing with the subject matter of this section and former section 133 of this title were contained in act Oct. 3, 1913, ch. 16, §IV, F, subsecs. 1 and 2, 38 Stat. 194, superseding similar provisions of previous tariff acts. Those subsections were superseded by act Sept. 21, 1922, ch. 356, title III, §304(a), 42 Stat. 947, and repealed by §321 of that act. Section 304(a) of the act of 1922 was superseded by section 304 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
 #### Amendments
+
+1996—Subsecs. (f) to (h). Pub. L. 104–295, §14(a), added subsecs. (f) and (g) and redesignated former subsec. (f) as (h). Former subsecs. (g) and (h) redesignated (i) and (j), respectively.
+
+Subsec. (i). Pub. L. 104–295, §14(a)(1), (b), redesignated subsec. (g) as (i) and substituted “subsection (h) of this section” for “subsection (f) of this section”.
+
+Subsecs. (j), (k). Pub. L. 104–295, §14(a)(1), redesignated subsecs. (h) and (i) as (j) and (k), respectively.
 
 1993—Subsec. (c)(1). Pub. L. 103–182, §207(a)(1), substituted “engraving, or continuous paint stenciling” for “or engraving”.
 
@@ -145,6 +159,10 @@ Subsecs. (h), (i). Pub. L. 103–182, §207(a)(4), (5), added subsec. (h) and re
 1953—Subsec. (a)(3)(K). Act Aug. 8, 1953, added cl. (K).
 
 1938—Act June 25, 1938, amended section generally.
+
+#### Effective Date of 1996 Amendment
+
+Section 14(c) of Pub. L. 104–295 provided that: “The amendments made by this section \[amending this section\] apply to goods entered, or withdrawn from warehouse for consumption, on or after the date of the enactment of this Act \[Oct. 11, 1996\].”
 
 #### Effective Date of 1993 Amendment
 
@@ -206,7 +224,7 @@ Section 214 of title II of Pub. L. 98–573 provided that:
 
 Section 1 of act Aug. 8, 1953, provided that such act \[see Short Title of 1953 Amendment note set out under section 1654 of this title\] is effective, except as otherwise specifically provided for, on and after the thirtieth day following the date of its enactment \[Aug. 8, 1953\].
 
-The exception “except as otherwise specifically provided for” apparently refers to the amendments made to the provisions preceding subd. (1) of section 1308 of this title, and to section 1557(b) of this title, for which separate effective dates were provided as explained in notes under such sections.
+The exception “except as otherwise specifically provided for” apparently refers to the amendments madeto the provisions preceding subd. (1) of section 1308 of this title, and to section 1557(b) of this title, for which separate effective dates were provided as explained in notes under such sections.
 
 #### Effective Date of 1938 Amendment
 

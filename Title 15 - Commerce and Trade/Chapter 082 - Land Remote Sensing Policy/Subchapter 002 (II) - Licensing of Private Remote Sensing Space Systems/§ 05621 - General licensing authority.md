@@ -32,6 +32,18 @@ The Secretary shall not deny such license in order to protect any existing licen
 
 (Pub. L. 102–555, title II, §201, Oct. 28, 1992, 106 Stat. 4171.)
 
+#### Prohibition on Collection and Release of Detailed Satellite Imagery Relating to Israel
+
+Pub. L. 104–201, div. A, title X, §1064, Sept. 23, 1996, 110 Stat. 2653, provided that:
+
+“(a)
+
+Collection and Dissemination.—A department or agency of the United States may issue a license for the collection or dissemination by a non-Federal entity of satellite imagery with respect to Israel only if such imagery is no more detailed or precise than satellite imagery of Israel that is available from commercial sources.
+
+“(b)
+
+Declassification and Release.—A department or agency of the United States may declassify or otherwise release satellite imagery with respect to Israel only if such imagery is no more detailed or precise than satellite imagery of Israel that is available from commercial sources.”
+
 #### Section Referred to in Other Sections
 
 This section is referred to in section 5622 of this title.

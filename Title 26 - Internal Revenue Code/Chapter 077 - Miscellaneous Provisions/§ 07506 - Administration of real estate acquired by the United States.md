@@ -38,5 +38,5 @@ Charge by Administrator of General Services of lands and other property, transfe
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 7809 of this title; title 18 section 3613.
+This section is referred to in section 7809 of this title.
 

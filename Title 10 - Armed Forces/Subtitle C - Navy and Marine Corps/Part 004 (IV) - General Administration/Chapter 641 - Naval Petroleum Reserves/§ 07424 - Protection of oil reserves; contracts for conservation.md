@@ -18,7 +18,7 @@
 
 (b) The Secretary shall report annually to Congress all agreements under this section.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 458; Oct. 11, 1962, Pub. L. 87–796, §1(4), 76 Stat. 904; Apr. 5,1976, Pub. L. 94–258, title II, §201(5), 90 Stat. 309; Dec. 12, 1980, Pub. L. 96–513, title V, §513(32)(A), 94 Stat. 2933.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 458; Oct. 11, 1962, Pub. L. 87–796, §1(4), 76 Stat. 904; Apr. 5, 1976, Pub. L. 94–258, title II, §201(5), 90 Stat. 309; Dec. 12, 1980, Pub. L. 96–513, title V, §513(32)(A), 94 Stat. 2933.)
 
 Historical and Revision Notes
 

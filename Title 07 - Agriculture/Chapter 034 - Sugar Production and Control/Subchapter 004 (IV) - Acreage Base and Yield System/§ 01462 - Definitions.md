@@ -32,7 +32,7 @@ A prior section 1462, act Oct. 31, 1949, ch. 792, title V, §502, as added July 
 
 Amendment by Pub. L. 101–624 effective beginning with 1991 crop of an agricultural commodity, with provision for prior crops, see section 1171 of Pub. L. 101–624, set out as a note under section 1421 of this title.
 
-#### Section Referred to in Other Sections
+#### Inapplicability of Section
 
-This section is referred to in sections 1441–2, 1444–2, 1444f, 1445b–3a of this title.
+Section inapplicable to 1996 through 2002 crops of loan commodities, peanuts, and sugar and inapplicable to milk during period beginning Apr. 4, 1996, and ending Dec. 31, 2002, see section 7301(b)(1)(K) of this title.
 

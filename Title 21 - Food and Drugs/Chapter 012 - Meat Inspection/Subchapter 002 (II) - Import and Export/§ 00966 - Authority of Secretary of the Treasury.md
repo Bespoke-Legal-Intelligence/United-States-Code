@@ -6,7 +6,7 @@ Nothing in this chapter shall derogate from the authority of the Secretary of th
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1236, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 801 of this title and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 91–513, Oct. 27, 1970, 84Stat. 1236, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 801 of this title and Tables.
 
 The customs laws, referred to in text, are classified generally to Title 19, Customs Duties.
 

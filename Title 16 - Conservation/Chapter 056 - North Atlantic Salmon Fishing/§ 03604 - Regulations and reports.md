@@ -6,7 +6,7 @@ The Secretary of Commerce, in cooperation with the Secretary of the Interior and
 
 #### (b) Preparation and submission of reports by certain Secretaries
 
-The Secretary of Commerce, in cooperation with the Secretary of the Interior, shall prepareall statements, reports, and notifications, required by articles 14 and 15 of the Convention and submit such documents to the Secretary of State for transmission to the Organization.
+The Secretary of Commerce, in cooperation with the Secretary of the Interior, shall prepare all statements, reports, and notifications, required by articles 14 and 15 of the Convention and submit such documents to the Secretary of State for transmission to the Organization.
 
 (Pub. L. 97–389, title III, §305, Dec. 29, 1982, 96 Stat. 1953.)
 

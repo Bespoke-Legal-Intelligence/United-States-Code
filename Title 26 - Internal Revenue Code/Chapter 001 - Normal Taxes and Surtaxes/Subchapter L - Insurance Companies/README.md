@@ -16,7 +16,7 @@
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in sections 72, 133, 501, 594, 817, 953, 1042, 1275, 1296, 1361, 1381, 6425, 6655 of this title.
+This subchapter is referred to in sections 72, 501, 594, 817, 953, 1042, 1275, 1296, 1361, 1381, 6425, 6655 of this title.
 
 
 ---

@@ -60,7 +60,7 @@ The Administrator shall, within 90 days after December 31, 1970, after consultat
 
 &emsp;(A) Subject to the requirements of subparagraph (E), and on the basis of air quality data, planning and control considerations, or any other air quality-related considerations the Administrator deems appropriate, the Administrator may at any time notify the Governor of any State that available information indicates that the designation of any area or portion of an area within the State or interstate area should be revised. In issuing such notification, which shall be public, to the Governor, the Administrator shall provide such information as the Administrator may have available explaining the basis for the notice.
 
-&emsp;(B) No later than 120 days after receiving a notification under subparagraph (A), the Governor shall submit to the Administrator such redesignation, if any, of the appropriate area (or areas) or portion thereof within the State or interstate area, as the Governor considers appropriate.
+&emsp;(B) No later than 120 days after receiving a notification under subparagraph (A), the Governor shall submit to the Administrator suchredesignation, if any, of the appropriate area (or areas) or portion thereof within the State or interstate area, as the Governor considers appropriate.
 
 &emsp;(C) No later than 120 days after the date described in subparagraph (B) (or paragraph (1)(B)(iii)), the Administrator shall promulgate the redesignation, if any, of the area or portion thereof, submitted by the Governor in accordance with subparagraph (B), making such modifications as the Administrator may deem necessary, in the same manner and under the same procedure as is applicable under clause (ii) of paragraph (1)(B), except that the phrase “60 days” shall be substituted for the phrase “120 days” in that clause. If the Governor does not submit, in accordance with subparagraph (B), a redesignation for an area (or portion thereof) identified by the Administrator under subparagraph (A), the Administrator shall promulgate such redesignation, if any, that the Administrator deems appropriate.
 
@@ -146,7 +146,7 @@ Amendment by Pub. L. 95–95 effective Aug. 7, 1977, except as otherwise express
 
 #### Pending Actions and Proceedings
 
-Suits, actions, and other proceedings lawfully commenced by or against the Administrator or any other officer or employee of the United States in his official capacity or in relation to the discharge of his official duties under act July 14, 1955, the Clean Air Act, as in effect immediately prior to the enactment of Pub. L. 95–95 \[Aug. 7, 1977\], not to abate by reason of the taking effect of Pub. L. 95–95, see section 406(a) of Pub. L. 95–95, set out as an Effective Date of 1977 Amendment note under section 7401 of this title.
+Suits, actions, and other proceedings lawfully commenced by or against the Administrator or any other officer or employee of the United States in his official capacity or in relation to the discharge of his official duties under act July 14, 1955, the Clean Air Act, as in effect immediately prior to the enactment of Pub. L.95–95 \[Aug. 7, 1977\], not to abate by reason of the taking effect of Pub. L. 95–95, see section 406(a) of Pub. L. 95–95, set out as an Effective Date of 1977 Amendment note under section 7401 of this title.
 
 #### Modification or Rescission of Rules, Regulations, Orders, Determinations, Contracts, Certifications, Authorizations, Delegations, and Other Actions
 

@@ -1,6 +1,6 @@
 ### §280F. Limitation on depreciation for luxury automobiles; limitation where certain property used for personal purposes
 
-#### (a) Limitation on amount of investment tax credit and depreciation for luxury automobiles
+#### (a) Limitation on amount of depreciation for luxury automobiles
 
 #### (1) Depreciation
 
@@ -66,7 +66,7 @@
 
 &emsp;&emsp;&emsp;(i) the amount of the depreciation deductions allowable with respect to the property for taxable years before the 1st taxable year in which the property was not predominantly used in a qualified business use, over
 
-&emsp;&emsp;&emsp;(ii) the amount which would have been so allowable if the property had not beenpredominantly used in a qualified business use for the taxable year in which it was placed in service.
+&emsp;&emsp;&emsp;(ii) the amount which would have been so allowable if the property had not been predominantly used in a qualified business use for the taxable year in which it was placed in service.
 
 #### (3) Property predominantly used in qualified business use
 
@@ -100,7 +100,7 @@ For purposes of this section—
 
 #### (1) Coordination with section 179
 
-&emsp;Any deduction allowable under section 179 with respect to any listed property shall be subject to the limitations of subsections (a) and (b), and the limitation of paragraph (3) of this subsection, in the same manner as if it were a depreciation deduction allowable under section 168.
+&emsp;Any deduction allowable under section 179 with respect to any listed property shall be subject to the limitations of subsections (a) and (b), and the limitation of paragraph (3) of this subsection, in the same manner as if itwere a depreciation deduction allowable under section 168.
 
 #### (2) Subsequent depreciation deductions reduced for deductions allocable to personal use
 
@@ -240,13 +240,15 @@ For purposes of this section—
 
 The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section, including regulations with respect to items properly included in, or excluded from, the adjusted basis of any listed property.
 
-(Added Pub. L. 98–369, div. A, title I, §179(a), July 18, 1984, 98 Stat. 713; amended Pub. L. 99–44, §4, May 24, 1985, 99 Stat. 78; Pub. L. 99–514, title II, §201(d)(4), title XVIII, §1812(e)(1)(A), (C), (2)–(5), Oct. 22, 1986, 100 Stat. 2139, 2836, 2837; Pub. L. 100–647, title I, §§1002(a)(10), (b)(2), 1018(u)(3), Nov. 10, 1988, 102 Stat. 3354, 3357, 3590; Pub. L. 101–239, title VII, §7643(a), Dec. 19, 1989, 103 Stat. 2381; Pub. L. 101–508, title XI, §11813(b)(13)(A)–(E), Nov. 5, 1990, 104 Stat. 1388–554, 1388–555.)
+(Added Pub. L. 98–369, div. A, title I, §179(a), July 18, 1984, 98 Stat. 713; amended Pub. L. 99–44, §4, May 24, 1985, 99 Stat. 78; Pub. L. 99–514, title II, §201(d)(4), title XVIII, §1812(e)(1)(A), (C), (2)–(5), Oct. 22, 1986, 100 Stat. 2139, 2836, 2837; Pub. L. 100–647, title I, §§1002(a)(10), (b)(2), 1018(u)(3), Nov. 10, 1988, 102 Stat. 3354, 3357, 3590; Pub. L. 101–239, title VII, §7643(a), Dec. 19, 1989, 103 Stat. 2381; Pub. L. 101–508, title XI, §11813(b)(13)(A)–(E), Nov. 5, 1990, 104 Stat. 1388–554, 1388–555; Pub. L. 104–188, title I, §1702(h)(5), Aug. 20, 1996, 110 Stat. 1874.)
 
 #### Amendments
 
+1996—Subsec. (a). Pub. L. 104–188 struck out “investment tax credit and” after “amount of” in heading.
+
 1990—Pub. L. 101–508, §11813(b)(13)(E), struck out “investment tax credit and” after “Limitation on” in section catchline.
 
-Subsec. (a)(1). Pub. L. 101–508, §11813(b)(13)(A)(i), redesignated par. (2) as (1) and struck out former par. (1)“Investment tax credit” which read as follows: “The amount of the credit determined under section 46(a) for any passenger automobile shall not exceed $675.”
+Subsec. (a)(1). Pub. L. 101–508, §11813(b)(13)(A)(i), redesignated par. (2) as (1) and struck out former par. (1) “Investment tax credit” which read as follows: “The amount of the credit determined under section 46(a) for any passenger automobile shall not exceed $675.”
 
 Subsec. (a)(2). Pub. L. 101–508, §11813(b)(13)(A)(i), redesignated par. (3) as (2). Former par. (2) redesignated (1).
 
@@ -323,6 +325,10 @@ Subsec. (d)(7)(A). Pub. L. 99–44, §4(b)(1), inserted “placed in service aft
 Subsec. (d)(7)(B)(i). Pub. L. 99–44, §4(b)(3), struck out last sentence which directed that in the case of calendar year 1984, the automobile price inflation adjustment would be zero.
 
 Subsec. (d)(7)(B)(i)(II). Pub. L. 99–44, §4(b)(2), substituted “1987” for “1983”.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–188 effective, except as otherwise expressly provided, as if included in the provision of the Revenue Reconciliation Act of 1990, Pub. L. 101–508, title XI, to which such amendment relates, see section 1702(i) of Pub. L. 104–188, set out as a note under section 38 of this title.
 
 #### Effective Date of 1990 Amendment
 

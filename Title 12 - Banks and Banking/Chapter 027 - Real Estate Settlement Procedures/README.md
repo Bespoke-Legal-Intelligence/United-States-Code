@@ -23,6 +23,8 @@
 | (i) | Definitions. |
 | (j) | Transition. |
 | [2606\.](%C2%A7%2002606%20-%20Exempted%20transactions.md) | Exempted transactions. |
+| (a) | In general. |
+| (b) | Interpretation. |
 | [2607\.](%C2%A7%2002607%20-%20Prohibition%20against%20kickbacks%20and%20unearned%20fees.md) | Prohibition against kickbacks and unearned fees. |
 | (a) | Business referrals. |
 | (b) | Splitting charges. |
@@ -35,15 +37,15 @@
 | (c) | Escrow account statements. |
 | (d) | Penalties. |
 | [2610\.](%C2%A7%2002610%20-%20Prohibition%20of%20fees%20for%20preparation%20of%20truth-in-lending%2C%20uniform%20settlement%2C%20and%20escrow%20account%20statements.md) | Prohibition of fees for preparation of truth-in-lending, uniform settlement, and escrow account statements. |
-| [2611\.](%C2%A7%2002611%20-%20Land%20parcel%20recordation%20system%3B%20establishment%20on%20demonstration%20basis.md) | Land parcel recordation system; establishment on demonstration basis. |
-| [2612\.](%C2%A7%2002612%20-%20Report%20of%20Secretary%20on%20necessity%20for%20further%20Congressional%20action.md) | Report of Secretary on necessity for further Congressional action. |
-| (a) | Administrative consultations; study, investigation, and hearings; time of submission. |
-| (b) | Scope of report; specific practices or problems and corrective measures; cost burden for real estate settlement services; Federal regulation of charges and regulatory scheme; local government recordation of land title information and Federal assistance for development of a model system. |
-| [2613\.](%C2%A7%2002613%20-%20Demonstration%20to%20determine%20feasibility%20of%20including%20statements%20of%20settlement%20costs%20in%20special%20information%20booklets%3B%20report%20to%20Congress.md) | Demonstration to determine feasibility of including statements of settlement costs in special information booklets; report to Congress. |
+| 2611 to 2613. Repealed. |  |
 | [2614\.](%C2%A7%2002614%20-%20Jurisdiction%20of%20courts%3B%20limitations.md) | Jurisdiction of courts; limitations. |
 | [2615\.](%C2%A7%2002615%20-%20Contracts%20and%20liens%3B%20validity.md) | Contracts and liens; validity. |
 | [2616\.](%C2%A7%2002616%20-%20State%20laws%20unaffected%3B%20inconsistent%20Federal%20and%20State%20provisions.md) | State laws unaffected; inconsistent Federal and State provisions. |
 | [2617\.](%C2%A7%2002617%20-%20Authority%20of%20Secretary.md) | Authority of Secretary. |
+| (a) | Issuance of regulations; exemptions. |
+| (b) | Liability for acts done in good faith in conformity with rule, regulation, or interpretation. |
+| (c) | Investigations; hearings; failure to obey order; contempt. |
+| (d) | Delay of effectiveness of recent final regulation relating to payments to employees. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -66,9 +68,7 @@ This chapter is referred to in title 15 section 1638; title 42 sections 3541, 40
 - [&sect; 02608 - Title companies; liability of seller](%C2%A7%2002608%20-%20Title%20companies%3B%20liability%20of%20seller.md)
 - [&sect; 02609 - Limitation on requirement of advance deposits in escrow accounts](%C2%A7%2002609%20-%20Limitation%20on%20requirement%20of%20advance%20deposits%20in%20escrow%20accounts.md)
 - [&sect; 02610 - Prohibition of fees for preparation of truth-in-lending, uniform settlement, and escrow account statements](%C2%A7%2002610%20-%20Prohibition%20of%20fees%20for%20preparation%20of%20truth-in-lending%2C%20uniform%20settlement%2C%20and%20escrow%20account%20statements.md)
-- [&sect; 02611 - Land parcel recordation system; establishment on demonstration basis](%C2%A7%2002611%20-%20Land%20parcel%20recordation%20system%3B%20establishment%20on%20demonstration%20basis.md)
-- [&sect; 02612 - Report of Secretary on necessity for further Congressional action](%C2%A7%2002612%20-%20Report%20of%20Secretary%20on%20necessity%20for%20further%20Congressional%20action.md)
-- [&sect; 02613 - Demonstration to determine feasibility of including statements of settlement costs in special information booklets; report to Congress](%C2%A7%2002613%20-%20Demonstration%20to%20determine%20feasibility%20of%20including%20statements%20of%20settlement%20costs%20in%20special%20information%20booklets%3B%20report%20to%20Congress.md)
+- [&sect; 02611 to 2613 - Repealed. Pub. L. 104&#8211;208, div. A, title II, &sect;2103(h), Sept. 30, 1996, 110 Stat. 3009&#8211;401](%C2%A7%2002611%20to%202613%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93208%2C%20div.%20A%2C%20title%20II%2C%20%C2%A72103%28h%29%2C%20Sept.%2030%2C%201996%2C%20110%20Stat.%203009%E2%80%93401.md)
 - [&sect; 02614 - Jurisdiction of courts; limitations](%C2%A7%2002614%20-%20Jurisdiction%20of%20courts%3B%20limitations.md)
 - [&sect; 02615 - Contracts and liens; validity](%C2%A7%2002615%20-%20Contracts%20and%20liens%3B%20validity.md)
 - [&sect; 02616 - State laws unaffected; inconsistent Federal and State provisions](%C2%A7%2002616%20-%20State%20laws%20unaffected%3B%20inconsistent%20Federal%20and%20State%20provisions.md)

@@ -1,0 +1,50 @@
+### §6063. Coordination of assistance program; implementation and reports to Congress; reprogramming
+
+#### (a) Coordinating official
+
+The President shall designate a coordinating official who shall be responsible for—
+
+&emsp;(1) implementing the strategy for distributing assistance described in section 6062(b) of this title;
+
+&emsp;(2) ensuring the speedy and efficient distribution of such assistance; and
+
+&emsp;(3) ensuring coordination among, and appropriate oversight by, the agencies of the United States that provide assistance described in section 6062(b) of this title, including resolving any disputes among such agencies.
+
+#### (b) United States-Cuba council
+
+Upon making a determination under subsection (c)(3) of this section that a democratically elected government in Cuba is in power, the President, after consultation with the coordinating official, is authorized to designate a United States-Cuba council—
+
+&emsp;(1) to ensure coordination between the United States Government and the private sector in responding to change in Cuba, and in promoting market-based development in Cuba; and
+
+&emsp;(2) to establish periodic meetings between representatives of the United States and Cuban private sectors for the purpose of facilitating bilateral trade.
+
+#### (c) Implementation of plan; reports to Congress
+
+#### (1) Implementation with respect to transition government
+
+&emsp;Upon making a determination that a transition government in Cuba is in power, the President shall transmit that determination to the appropriate congressional committees and shall, subject to an authorization of appropriations and subject to the availability of appropriations, commence the delivery and distribution of assistance to such transition government under the plan developed under section 6062(b) of this title.
+
+#### (2) Reports to Congress
+
+&emsp;(A) The President shall transmit to the appropriate congressional committees a report setting forth the strategy for providing assistance described in section 6062(b)(2)(A) and (C) of this title to the transition government in Cuba under the plan of assistance developed under section 6062(b) of this title, the types of such assistance, and the extent to which such assistance has been distributed in accordance with the plan.
+
+&emsp;(B) The President shall transmit the report not later than 90 days after making the determination referred to in paragraph (1), except that the President shall transmit the report in preliminary form not later than 15 days after making that determination.
+
+#### (3) Implementation with respect to democratically elected government
+
+&emsp;The President shall, upon determining that a democratically elected government in Cuba is in power, submit that determination to the appropriate congressional committees and shall, subject to an authorization of appropriations and subject to the availability of appropriations, commence the delivery and distribution of assistance to such democratically elected government under the plan developed under section 6062(b) of this title.
+
+#### (4) Annual reports to Congress
+
+&emsp;Not later than 60 days after the end of each fiscal year, the President shall transmit to the appropriate congressional committees a report on the assistance provided under the plan developed under section 6062(b) of this title, including a description of each type of assistance, the amounts expended for such assistance, and a description of the assistance to be provided under the plan in the current fiscal year.
+
+#### (d) Reprogramming
+
+Any changes in the assistance to be provided under the plan developed under section 6062(b) of this title may not be made unless the President notifies the appropriate congressional committees at least 15 days in advance in accordance with the procedures applicable to reprogramming notifications under section 2394–1 of this title.
+
+(Pub. L. 104–114, title II, §203, Mar. 12, 1996, 110 Stat. 809.)
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 6033, 6034, 6035, 6037, 6038, 6062, 6064, 6082 of this title.
+

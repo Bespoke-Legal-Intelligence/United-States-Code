@@ -34,7 +34,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 (a)
 
@@ -108,7 +110,7 @@ In subsection (a), the words “head of the agency concerned or his designee” 
 
 In subsection (b), the words “head of the agency concerned” are substituted for “department concerned”. The word “employee” is substituted for “person”. In the second sentence, the words “the head of the agency concerned or his designee” are inserted for clarity. The words “is dead” are substituted for “is no longer alive” for consistency with references in this section to “death”.
 
-In subsection (c), the words “or his designee” are substituted for “or by such subordinate as he may designate”. The words “captured, beleaguered, or besieged by a hostile force” are substituted for “in the hands of a hostile force” on authority of 50A U.S.C. 1014.
+In subsection (c), the words “or his designee” are substituted for “or by such subordinate as he may designate”. The words “captured, beleaguered, or besiegedby a hostile force” are substituted for “in the hands of a hostile force” on authority of 50A U.S.C. 1014.
 
 In subsection (d), the words “under this subchapter” are substituted for “authorized to be made by this Act”. The words “or his designee” are substituted for “or such subordinate as he may designate”.
 

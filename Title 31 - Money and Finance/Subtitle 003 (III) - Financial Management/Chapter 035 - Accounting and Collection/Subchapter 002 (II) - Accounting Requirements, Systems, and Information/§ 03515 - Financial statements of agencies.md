@@ -44,5 +44,5 @@ Section 303(d), (e) of Pub. L. 101–576 directed specific departments, administ
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 902, 1116, 3512, 3521 of this title.
+This section is referred to in sections 902, 1116, 3512, 3521 of this title; title 7 section 136a–1; title 36 section 138d; title 44 section 309.
 

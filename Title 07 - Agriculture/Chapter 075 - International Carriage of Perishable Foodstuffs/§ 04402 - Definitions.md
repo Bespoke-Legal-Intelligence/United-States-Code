@@ -22,7 +22,7 @@ As used in this chapter—
 
 > &emsp;In the case of any transportation that involves one or more sea crossings other than as specified in clause (D) of this paragraph, each land journey shall be considered separately.
 
-&emsp;(6) The term “United States” means the fifty States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, American Samoa, the Virgin Islands of the United States, the Commonwealth of the Northern Mariana Islands, and anyother territory or possession of the United States.
+&emsp;(6) The term “United States” means the fifty States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, American Samoa, the Virgin Islands of the United States, the Commonwealth of the Northern Mariana Islands, and any other territory or possession of the United States.
 
 (Pub. L. 97–325, §3, Oct. 15, 1982, 96 Stat. 1603.)
 

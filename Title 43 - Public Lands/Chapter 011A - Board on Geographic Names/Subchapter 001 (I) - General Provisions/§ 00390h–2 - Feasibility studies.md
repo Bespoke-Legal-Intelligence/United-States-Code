@@ -10,27 +10,43 @@ The Federal share of feasibility studies, including those described in sections 
 
 #### (c) Matters to be considered
 
-In addition to the requirements of other Federal laws, feasibility studies authorized under sections 390h to 390h–15 of this title shall consider, among other things—
+In addition to the requirements of other Federal laws, feasibility studies conducted by the Secretary or the non-Federal project sponsor under sections 390h to 390h–15 of this title shall consider, among other things—
 
 &emsp;(1) near- and long-term water demand and supplies in the study area;
 
 &emsp;(2) all potential uses for reclaimed water;
 
-&emsp;(3) measures and technologies available for water reclamation, distribution, and reuse;
+&emsp;(3) at least two alternative measures or technologies available for water reclamation, distribution, and reuse for the project under consideration;
 
-&emsp;(4) public health and environmental quality issues associated with use of reclaimed water; and,
+&emsp;(4) public health and environmental quality issues associated with use of reclaimed water;
 
 &emsp;(5) whether development of the water reclamation and reuse measures under study would—
 
-&emsp;&emsp;(A) reduce, postpone, or eliminate development of new or expanded water supplies, or
+&emsp;&emsp;(A) reduce, postpone, or eliminate development of new or expanded water supplies,
 
-&emsp;&emsp;(B) reduce or eliminate the use of existing diversions from natural watercourses or withdrawals from aquifers.
+&emsp;&emsp;(B) reduce or eliminate the use of existing diversions from natural watercourses or withdrawals from aquifers, or
 
-(Pub. L. 102–575, title XVI, §1604, Oct. 30, 1992, 106 Stat. 4665.)
+&emsp;&emsp;(C) reduce the demand on existing Federal water supply facilities;
+
+&emsp;(6) the market or dedicated use for reclaimed water in the project's service area; and
+
+&emsp;(7) the financial capability of the non-Federal project sponsor to fund its proportionate share of the project's construction costs on an annual basis.
+
+(Pub. L. 102–575, title XVI, §1604, Oct. 30, 1992, 106 Stat. 4665; Pub. L. 104–266, §4, Oct. 9, 1996, 110 Stat. 3295.)
 
 #### References in Text
 
 The Federal reclamation laws, referred to in subsec. (b), are defined in section 390h(a) of this title.
+
+#### Amendments
+
+1996—Subsec. (c). Pub. L. 104–266, §4(1), substituted “conducted by the Secretary or the non-Federal project sponsor” for “authorized” in introductory provisions.
+
+Subsec. (c)(3). Pub. L. 104–266, §4(2), substituted “at least two alternative measures or technologies available for water reclamation, distribution, and reuse for the project under consideration” for “measures and technologies available for water reclamation, distribution, and reuse”.
+
+Subsec. (c)(5)(C). Pub. L. 104–266, §4(4), added subpar. (C).
+
+Subsec. (c)(6), (7). Pub. L. 104–266, §4(3), (5), added pars. (6) and (7).
 
 #### Section Referred to in Other Sections
 

@@ -6,13 +6,17 @@ When two power-driven vessels are crossing so as to involve risk of collision, t
 
 #### (b) Vessels crossing river
 
-Notwithstanding paragraph (a), on the Great Lakes, Western Rivers, or water specified by the Secretary, a vessel crossing a river shall keep out of the way of a power-driven vessel ascending or descending the river.
+Notwithstanding paragraph (a), on the Great Lakes, Western Rivers, or water specified by the Secretary, a power-driven vessel crossing a river shall keep out of the way of a power-driven vessel ascending or descending the river.
 
-(Pub. L. 96–591, §2, Dec. 24, 1980, 94 Stat. 3421.)
+(Pub. L. 96–591, §2, Dec. 24, 1980, 94 Stat. 3421; Pub. L. 104–324, title VII, §701(2), Oct. 19, 1996, 110 Stat. 3932.)
 
 #### Codification
 
 Section was enacted as part of section 2 of Pub. L. 96–591 which enacted the Inland Navigational Rules which comprise this subchapter.
+
+#### Amendments
+
+1996—Par. (b). Pub. L. 104–324 inserted “power-driven” after “Secretary, a”.
 
 #### Section Referred to in Other Sections
 

@@ -74,7 +74,7 @@ Section 4(g) of Pub. L. 92–303 provided that: “The amendments made by this s
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 922, 923, 924, of this title.
+This section is referred to in sections 922, 923, 924 of this title.
 
 <i><sup>1</sup></i><i> So in original. The period probably should be a comma.</i>
 

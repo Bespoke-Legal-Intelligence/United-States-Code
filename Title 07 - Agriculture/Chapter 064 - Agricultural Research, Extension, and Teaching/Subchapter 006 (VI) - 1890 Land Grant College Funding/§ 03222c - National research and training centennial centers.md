@@ -4,7 +4,7 @@
 
 The Secretary of Agriculture may make a competitive grant to five national research and training centennial centers located at colleges (or a consortia of such colleges) eligible to receive funds under the Act of August 30, 1890 (7 U.S.C. 321 et seq.), including Tuskegee University, that—
 
-&emsp;(1) have been designated by the Secretary for the fiscal years 1991 through 1995 as national research and training centennial centers; and
+&emsp;(1) have been designated by the Secretary for the fiscal years 1991 through 1995, or fiscal years 1996 and 1997, as national research and training centennial centers; and
 
 &emsp;(2) have the best demonstrable capacity, as determined by the Secretary, to provide administrative leadership as—
 
@@ -60,7 +60,7 @@ Funds provided under this section may not be used—
 
 #### (f) Authorization of appropriations
 
-There are authorized to be appropriated $2,000,000 for each of the fiscal years 1991 through 1995 for grants under this section.
+There are authorized to be appropriated $2,000,000 for each of the fiscal years 1991 through 1997 for grants under this section.
 
 #### (g) “Center” defined
 
@@ -72,7 +72,7 @@ For purposes of this section, the term “center” means a national research an
 
 (2) The center designated under subsection (a)(2)(D) of this section shall coordinate its activities with the sustainable agriculture research and education program established under subtitle B of title XVI of the Food, Agriculture, Conservation, and Trade Act of 1990 \[7 U.S.C. 5801 et seq.\].
 
-(Pub. L. 95–113, title XIV, §1448, as added Pub. L. 101–624, title XVI, §1612(c), Nov. 28, 1990, 104 Stat. 3723.)
+(Pub. L. 95–113, title XIV, §1448, as added Pub. L. 101–624, title XVI, §1612(c), Nov. 28, 1990, 104 Stat. 3723; amended Pub. L. 104–127, title VIII, §814, Apr. 4, 1996, 110 Stat. 1166.)
 
 #### References in Text
 
@@ -83,4 +83,10 @@ The Food, Agriculture, Conservation, and Trade Act of 1990, referred to in subse
 #### Prior Provisions
 
 A prior section 1448 of Pub. L. 95–113, title XIV, Sept. 29, 1977, 91 Stat. 1011, amended sections 1923 and 1942 of this title, prior to repeal by Pub. L. 101–624, title XVI, §1601(f)(1)(D), Nov. 28, 1990, 104 Stat. 3704.
+
+#### Amendments
+
+1996—Subsec. (a)(1). Pub. L. 104–127, §814(1), inserted “, or fiscal years 1996 and 1997,” after “1995”.
+
+Subsec. (f). Pub. L. 104–127, §814(2), substituted “1997” for “1995”.
 

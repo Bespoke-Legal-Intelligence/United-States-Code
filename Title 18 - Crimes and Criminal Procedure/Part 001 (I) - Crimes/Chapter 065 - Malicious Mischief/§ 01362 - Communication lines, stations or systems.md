@@ -18,3 +18,7 @@ This section was extended to include radio and radio stations. Minor changes wer
 
 1961—Pub. L. 87–306 extended the provisions of the section to means of communication used or intended to be used for military or civil defense functions of the United States, made the provisions inapplicable to lawful strike activities, which do not injure any line or system used for such functions, and increased the punishment by fine from $1,000 to $10,000 and by imprisonment from 3 to 10 years.
 
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 2332b, 2339A of this title.
+

@@ -80,9 +80,11 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(i) any plan meeting the requirements of section 401(a) which includes a trust exempt from tax under section 501(a),
 
-&emsp;&emsp;&emsp;(ii) an annuity plan described in section 403(a), and
+&emsp;&emsp;&emsp;(ii) an annuity plan described in section 403(a),
 
-&emsp;&emsp;&emsp;(iii) any simplified employee pension (within the meaning of section 408(k)).
+&emsp;&emsp;&emsp;(iii) any simplified employee pension (within the meaning of section 408(k)), and
+
+&emsp;&emsp;&emsp;(iv) any simple retirement account (within the meaning of section 408(p)).
 
 #### (B) Exemption for governmental and tax exempt plans
 
@@ -92,7 +94,7 @@ For purposes of this section—
 
 &emsp;In the case of a plan which provides contributions or benefits for employees some or all of whom are self-employed individuals within the meaning of section 401(c)(1), the term “employer” means the person treated as the employer under section 401(c)(4).
 
-(Added Pub. L. 99–514, title XI, §1131(c)(1), Oct. 22, 1986, 100 Stat. 2477; amended Pub. L. 100–647, title I, §1011A(e)(1), (2), title II, §2005(a)(1), Nov. 10, 1988, 102 Stat. 3477, 3610; Pub. L. 103–465, title VII, §755(a), Dec. 8, 1994, 108 Stat. 5023.)
+(Added Pub. L. 99–514, title XI, §1131(c)(1), Oct. 22, 1986, 100 Stat. 2477; amended Pub. L. 100–647, title I, §1011A(e)(1), (2), title II, §2005(a)(1), Nov. 10, 1988, 102 Stat. 3477, 3610; Pub. L. 103–465, title VII, §755(a), Dec. 8, 1994, 108 Stat. 5023; Pub. L. 104–188, title I, §1421(b)(9)(D), Aug. 20, 1996, 110 Stat. 1798.)
 
 #### References in Text
 
@@ -103,6 +105,8 @@ Sections 4021 and 4041(b) of the Employee Retirement Income Security Act of 1974
 A prior section, added Pub. L. 93–406, title II, §2001(f)(1), Sept. 2, 1974, 88 Stat. 955; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 97–34, title III, §312(e)(3), Aug. 13, 1981, 95 Stat. 285; Pub. L. 97–448, title I, §103(c)(10)(B), Jan. 12, 1983, 96 Stat. 2377; Pub. L. 98–369, div. A, title IV, §491(d)(40), July 18, 1984, 98 Stat. 851, related to tax on excess contributions for self-employed individuals, prior to repeal applicable to years beginning after Dec. 31, 1983, by Pub. L. 97–248, title II, §237(c)(1), Sept. 3, 1982, 96 Stat. 511.
 
 #### Amendments
+
+1996—Subsec. (d)(1)(A)(iv). Pub. L. 104–188 added cl. (iv).
 
 1994—Subsec. (c)(6). Pub. L. 103–465 added par. (6).
 
@@ -117,6 +121,10 @@ Subsec. (d)(1). Pub. L. 100–647, §1011A(e)(2), amended par. (1) generally. Pr
 &emsp;“(B) an annuity plan described in section 403(a), and
 
 &emsp;“(C) any simplified employee pension (within the meaning of section 408(k)).”
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–188 applicable to taxable years beginning after Dec. 31, 1996, see section 1421(e) of Pub. L. 104–188, set out as a note under section 72 of this title.
 
 #### Effective Date of 1994 Amendment
 
@@ -148,7 +156,11 @@ Section 1011A(e)(5) of Pub. L. 100–647 provided that: “In the case of any ta
 
 &emsp;“(B) the assets of such plan.”
 
+#### Plan Amendments Not Required Until January 1, 1998
+
+For provisions directing that if any amendments made by subtitle D \[§§1401–1465\] of title I of Pub. L. 104–188 require an amendment to any plan or annuity contract, such amendment shall not be required to be made before the first day of the first plan year beginning on or after Jan. 1, 1998, see section 1465 of Pub. L. 104–188, set out as a note under section 401 of this title.
+
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 

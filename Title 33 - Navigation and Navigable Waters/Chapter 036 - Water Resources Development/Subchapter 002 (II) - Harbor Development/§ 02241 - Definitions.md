@@ -8,11 +8,11 @@ For purposes of this subchapter—
 
 #### (2) Eligible operations and maintenance
 
-&emsp;(A) Except as provided in subparagraph (B), the term “eligible operations and maintenance” means all operations, maintenance, repair, and rehabilitation, including maintenance dredging reasonably necessary to maintain the width and nominal depth of any harbor or inland harbor.
+&emsp;(A) Except as provided in subparagraph (B), the term “eligible operations and maintenance” means all Federal operations, maintenance, repair, and rehabilitation, including (i) maintenance dredging reasonably necessary to maintain the width and nominal depth of any harbor or inland harbor; (ii) the construction of dredged material disposal facilities that are necessary for the operation and maintenance of any harbor or inland harbor; (iii) dredging and disposing of contaminated sediments that are in or that affect the maintenance of Federal navigation channels; (iv) mitigating for impacts resulting from Federal navigation operation and maintenance activities; and (v) operating and maintaining dredged material disposal facilities.
 
 &emsp;(B) As applied to the Saint Lawrence Seaway, the term “eligible operations and maintenance” means all operations, maintenance, repair, and rehabilitation, including maintenance dredging reasonably necessary to keep such Seaway or navigation improvements operated or maintained by the Saint Lawrence Seaway Development Corporation in operation and reasonable state of repair.
 
-&emsp;(C) The term “eligible operations and maintenance” does not include providing any lands, easements, rights-of-way, or dredged material disposal areas, or performing relocations required for project operations and maintenance.
+&emsp;(C) The term “eligible operations and maintenance” does not include providing any lands, easements, or rights-of-way, or performing relocations required for project operations and maintenance.
 
 #### (3) General cargo harbor
 
@@ -58,11 +58,21 @@ For purposes of this subchapter—
 
 &emsp;The term “United States” means all areas included within the territorial boundaries of the United States, including the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Trust Territory of the Pacific Islands, the Northern Mariana Islands, and any other territory or possession over which the United States exercises jurisdiction.
 
-(Pub. L. 99–662, title II, §214, Nov. 17, 1986, 100 Stat. 4108.)
+(Pub. L. 99–662, title II, §214, Nov. 17, 1986, 100 Stat. 4108; Pub. L. 104–303, title II, §201(e), Oct. 12, 1996, 110 Stat. 3672.)
 
 #### References in Text
 
 Section 202 of this title, referred to in pars. (1) and (3), is section 202 of title II of Pub. L. 99–662, Nov. 17, 1986, 100 Stat. 4091, which is not classified to the Code.
+
+#### Amendments
+
+1996—Par. (2)(A). Pub. L. 104–303, §201(e)(1), inserted “Federal” after “means all” and “(i)” after “including”, and inserted before period at end a semicolon and cls. (ii) to (v).
+
+Par. (2)(C). Pub. L. 104–303, §201(e)(2), substituted “or rights-of-way,” for “rights-of-way, or dredged material disposal areas,”.
+
+#### Increases in Non-Federal Share of Costs
+
+Amendment by Pub. L. 104–303 not to increase, or result in increase of, non-Federal share of costs of expanding any confined dredged material disposal facility that is operated by Secretary and authorized for cost recovery through collection of tolls, any confined dredged material disposal facility for which invitation for bids for construction was issued before Oct. 12, 1996, and expanding any confined dredged material disposal facility constructed under section 1293a of this title if capacity of confined dredged material disposal facility was exceeded in less than 6 years, see section 201(g) of Pub. L. 104–303, set out as a note under section 2211 of this title.
 
 #### Termination of Trust Territory of the Pacific Islands
 

@@ -44,7 +44,7 @@ All of the provisions of this section shall apply to individuals satisfying subs
 
 #### (h) Waiver of enrollment period requirements where individual's rights were prejudiced by administrative error or inaction
 
-In any case where the Secretary finds that an individual's enrollment or nonenrollment in the insurance program established by this part or part A of this subchapter pursuant to section 1395i–2 of this title is unintentional, inadvertent, or erroneous and is the result of the error, misrepresentation, or inaction of an officer, employee, or agent of the Federal Government, orits instrumentalities, the Secretary may take such action (including the designation for such individual of a special initial or subsequent enrollment period, with a coverage period determined on the basis thereof and with appropriate adjustments of premiums) as may be necessary to correct or eliminate the effects of such error, misrepresentation, or inaction.
+In any case where the Secretary finds that an individual's enrollment or nonenrollment in the insurance program established by this part or part A of this subchapter pursuant to section 1395i–2 of this title is unintentional, inadvertent, or erroneous and is the result of the error, misrepresentation, or inaction of an officer, employee, or agent of the Federal Government, or its instrumentalities, the Secretary may take such action (including the designation for such individual of a special initial or subsequent enrollment period, with a coverage period determined on the basis thereof and with appropriate adjustments of premiums) as may be necessary to correct or eliminate the effects of such error, misrepresentation, or inaction.
 
 #### (i) Special enrollment periods
 
@@ -82,7 +82,7 @@ Part A of this subchapter, referred to in subsecs. (c) and (h), is classified to
 
 Subsec. (i)(1)(A). Pub. L. 103–432, §151(c)(2)(D), inserted “status” after “current employment”.
 
-Subsec. (i)(2). Pub. L. 103–432, §151(c)(2)(A), (C), in closing provisions substituted “(as that term is defined in section 1395y(b)(1)(B)(iv) of this title) by reason of the individual's current employment status (or the current employment status of a family member of the individual)” for “as an active individual (as those terms are defined in section 1395y(b)(1)(B)(iv) of this title)” and “by reason of the individual's current employment status (or the current employment status of a familymember of the individual)” for “as an active individual”.
+Subsec. (i)(2). Pub. L. 103–432, §151(c)(2)(A), (C), in closing provisions substituted “(as that term is defined in section 1395y(b)(1)(B)(iv) of this title) by reason of the individual's current employment status (or the current employment status of a family member of the individual)” for “as an active individual (as those terms are defined in section 1395y(b)(1)(B)(iv) of this title)” and “by reason of the individual's current employment status (or the current employment status of a family member of the individual)” for “as an active individual”.
 
 Subsec. (i)(2)(B), (C). Pub. L. 103–432, §151(c)(2)(D), inserted “status” after “current employment”.
 
@@ -100,7 +100,7 @@ Pub. L. 101–239, §6202(b)(4)(C), substituted “section 1395y(b)(1)(A)(v)” 
 
 Subsec. (i)(2). Pub. L. 101–239, §6202(c)(1)(B), substituted “(1)(A)” for “(1)(B)” in subpar. (B)(i), redesignated subpars. (B) and (C) as (A) and (B), respectively, struck out former subpar. (A) which read as follows: “has attained the age of 65;”, and inserted “not described in the previous sentence” after “In the case of an individual” in second sentence.
 
-Pub. L. 101–239, §6202(b)(4)(C), substituted “section 1395y(b)(1)(A)(v)” and “section 1395y(b)(1)(B)(iv)” for “section 1395y(b)(3)(A)(iv)” and “section 1395y(b)(4)(B)”, respectively.
+Pub. L. 101–239, §6202(b)(4)(C), substituted “section 1395y(b)(1)(A)(v)” and “section 1395y(b)(1)(B)(iv)” for“section 1395y(b)(3)(A)(iv)” and “section 1395y(b)(4)(B)”, respectively.
 
 Subsec. (i)(3). Pub. L. 101–239, §6202(b)(4)(C), substituted “section 1395y(b)(1)(A)(v)” and “section 1395y(b)(1)(B)(iv)” for “section 1395y(b)(3)(A)(iv)” and “section 1395y(b)(4)(B)”, respectively.
 
@@ -132,7 +132,7 @@ Subsec. (g)(3). Pub. L. 97–35, §2151(a)(2), substituted “the earlier of the
 
 1980—Subsec. (b). Pub. L. 96–499, §945(a), struck out subsec. (b) which provided that no individual could enroll under this part more than twice.
 
-Subsec. (e). Pub. L. 96–499, §945(b)(1), substituted “which is any period after the period described in subsection (d) of this section” for “, after the period described in subsection (c) of this section, during the period beginning on January 1 and ending on March 31 of each year beginning with 1969”.
+Subsec. (e). Pub. L. 96–499, §945(b)(1), substituted “which is any period after the period described in subsection (d) of this section” for “, after the period described in subsection (c) of this section, during the period beginning on January 1 and ending on March 31 of each year beginning with 1969”.
 
 Subsec. (g)(1). Pub. L. 96–265 substituted “the 25th month” for “the 25th consecutive month”.
 
@@ -150,7 +150,7 @@ Subsec. (h). Pub. L. 92–603, §259(a), added subsec. (h).
 
 1968—Subsec. (b)(1). Pub. L. 90–248, §145(a), permitted an individual enrolling in supplementary medical insurance program for first time to enroll at any time in a general enrollment period which begins within 3 years of close of his initial enrollment period.
 
-Subsec. (d). Pub. L. 90–248, §136(a), inserted last sentence providing that if an individual who has attained age 65 failed to enroll in program because, relying onerroneous documentary evidence, he was mistaken about his age, he may enroll using date of attainment of age 65 that he alleges under documentary evidence.
+Subsec. (d). Pub. L. 90–248, §136(a), inserted last sentence providing that if an individual who has attained age 65 failed to enroll in program because, relying on erroneous documentary evidence, he was mistaken about his age, he may enroll using date of attainment of age 65 that he alleges under documentary evidence.
 
 Subsec. (e). Pub. L. 90–248, §145(b), provided for an annual general enrollment period for supplementary medical insurance program beginning January 1 and ending March 31 of each year, commencing in 1969.
 
@@ -172,7 +172,7 @@ Section 6202(c)(3) of Pub. L. 101–239 provided that: “The amendments made by
 
 #### Effective Date of 1986 Amendments
 
-Amendment by Pub. L. 99–514 effective, except as otherwise provided, as if included in enactment of the Consolidated Omnibus Budget Reconciliation Act of 1985, Pub. L. 99–272, see section 1895(e) of Pub. L. 99–514, set out as a note under section 162 of Title 26, Internal Revenue Code.
+Amendment by Pub. L. 99–514 effective, except as otherwise provided, as if included in enactment of the Consolidated Omnibus Budget Reconciliation Act of 1985, Pub. L. 99–272, see section 1895(e) of Pub. L. 99–514,set out as a note under section 162 of Title 26, Internal Revenue Code.
 
 Amendment by Pub. L. 99–509 applicable to enrollments occurring on or after Jan. 1, 1987, see section 9319(f)(2) of Pub. L. 99–509, set out as a note under section 1395y of this title.
 
@@ -224,7 +224,7 @@ Section 102(b) of Pub. L. 89–97, as amended by section 3(c) of Pub. L. 89–38
 
 &emsp;“(1) an individual was eligible to enroll under section 1837(c) of the Social Security Act \[subsec. (c) of this section\] before June 1, 1966, but failed to enroll before such date, and
 
-&emsp;“(2) it is shown to the satisfaction of the Secretary of Health, Education, and Welfare \[now Health andHuman Services\] that there was good cause for such failure to enroll before June 1, 1966,
+&emsp;“(2) it is shown to the satisfaction of the Secretary of Health, Education, and Welfare \[now Health and Human Services\] that there was good cause for such failure to enroll before June 1, 1966,
 
 > such individual may enroll pursuant to this subsection at any time before October 1, 1966. The determination of what constitutes good cause for purposes of the preceding sentence shall be made in accordance with regulations of the Secretary. In the case of any individual who enrolls pursuant to this subsection, the coverage period (within the meaning of section 1838 of the Social Security Act \[section 1395q of this title\]) shall begin on the first day of the 6th month after the month in which he enrolls.”
 

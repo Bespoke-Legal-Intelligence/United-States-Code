@@ -22,7 +22,7 @@ The application shall include—
 
 &emsp;&emsp;(B) Federal funds will provide no more than 70 percent of the cost of the project in the first year, 60 percent of such costs in the second year, and 50 percent of such costs in the third year and any subsequent year;
 
-&emsp;&emsp;(C) a local educational agency or institution of higher education receiving funds under this part shall not reduce its combined fiscal effort per student or its aggregate expenditure on education;
+&emsp;&emsp;(C) a local educational agency or institution of higher education receiving fundsunder this part shall not reduce its combined fiscal effort per student or its aggregate expenditure on education;
 
 &emsp;&emsp;(D) a local educational agency or institution of higher education participating in this partnership shall utilize any Federal funds it shall receive from a grant under this part to supplement, and, to the extent practicable, increase the resources that would, in the absence of such Federal funds, be made available from non-Federal sources for the education of students described in this part; and
 

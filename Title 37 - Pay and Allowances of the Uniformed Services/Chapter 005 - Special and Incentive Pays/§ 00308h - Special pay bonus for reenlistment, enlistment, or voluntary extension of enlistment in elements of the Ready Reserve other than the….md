@@ -22,7 +22,7 @@
 
 &emsp;(B) In the case of a bonus under paragraph (2)(B), the amount of the bonus shall be paid in equal annual increments.
 
-(c) A person who receives a bonus payment under this section and who fails during the period for which the bonus was paid to serve satisfactorily in the Ready Reserve shall refund to the United States an amount which bears thesame ratio to the amount of the bonus paid to such person as the period which such person failed to serve satisfactorily bears to the total period for which the bonus was paid.
+(c) A person who receives a bonus payment under this section and who fails during the period for which the bonus was paid to serve satisfactorily in the Ready Reserve shall refund to the United States an amount which bears the same ratio to the amount of the bonus paid to such person as the period which such person failed to serve satisfactorily bears to the total period for which the bonus was paid.
 
 (d) An obligation to reimburse the United States imposed under subsection (c) is, for all purposes, a debt owed to the United States.
 
@@ -32,11 +32,15 @@
 
 (2) Regulations under this section may require that as a condition of receiving a bonus under this section the person receiving the bonus agree to participate in an annual muster of the Reserves, or in active duty for training, as may be required by the Secretary concerned.
 
-(g) A bonus may not be paid under this section to any person for a reenlistment, enlistment, or voluntary extension of an enlistment after September 30, 1996.
+(g) A bonus may not be paid under this section to any person for a reenlistment, enlistment, or voluntary extension of an enlistment after September 30, 1998.
 
-(Added Pub. L. 98–94, title X, §1011(a), Sept. 24, 1983, 97 Stat. 663; amended Pub. L. 98–525, title V, §552(f)(2), Oct. 19, 1984, 98 Stat. 2532; Pub. L. 99–145, title VI, §646(a)–(c), title XIII, §1303(b)(3), Nov. 8, 1985, 99 Stat. 654, 740; Pub. L. 100–180, div. A, title VI, §626(b), Dec. 4, 1987, 101 Stat. 1104; Pub. L. 101–189, div. A, title VI, §613, Nov. 29, 1989, 103 Stat. 1446; Pub. L. 102–25, title VII, §702(b)(1), (2), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–484, div. A, title VI, §612(d), Oct. 23, 1992, 106 Stat. 2421; Pub. L. 103–160, div. A, title VI, §612(d), Nov. 30, 1993, 107 Stat. 1680; Pub. L. 103–337, div. A, title VI, §611(d), Oct. 5, 1994, 108 Stat. 2783.)
+(Added Pub. L. 98–94, title X, §1011(a), Sept. 24, 1983, 97 Stat. 663; amended Pub. L. 98–525, title V, §552(f)(2), Oct. 19, 1984, 98 Stat. 2532; Pub. L. 99–145, title VI, §646(a)–(c), title XIII, §1303(b)(3), Nov. 8, 1985, 99 Stat. 654, 740; Pub. L. 100–180, div. A, title VI, §626(b), Dec. 4, 1987, 101 Stat. 1104; Pub. L. 101–189, div. A, title VI, §613, Nov. 29, 1989, 103 Stat. 1446; Pub. L. 102–25, title VII, §702(b)(1), (2), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–484, div. A, title VI, §612(d), Oct. 23, 1992, 106 Stat. 2421; Pub. L. 103–160, div. A, title VI, §612(d), Nov. 30, 1993, 107 Stat. 1680; Pub. L. 103–337, div. A, title VI, §611(d), Oct. 5, 1994, 108 Stat. 2783; Pub. L. 104–106, div. A, title VI, §611(d), Feb. 10, 1996, 110 Stat. 359; Pub. L. 104–201, div. A, title VI, §611(f), Sept. 23, 1996, 110 Stat. 2543.)
 
 #### Amendments
+
+1996—Subsec. (g). Pub. L. 104–201 substituted “September 30, 1998” for “September 30, 1997”.
+
+Pub. L. 104–106 substituted “September 30, 1997” for “September 30, 1996”.
 
 1994—Subsec. (g). Pub. L. 103–337 substituted “September 30, 1996” for “September 30, 1995”.
 
@@ -85,8 +89,4 @@ Section 552(f)(1) of Pub. L. 98–525 provided that: “In order to encourage me
 #### Coast Guard; Reserve Forces Readiness Provisions Inapplicable
 
 Reserve Forces Readiness provisions, including amendment of subsec. (b) of this section by Pub. L. 98–525 and Individual Ready Reserve Reenlistment Bonuses note above, inapplicable to Coast Guard, see section 552(g) of Pub. L. 98–525, set out as a Reserve Forces Readiness note under section 12001 of Title 10, Armed Forces.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 10 section 227.
 

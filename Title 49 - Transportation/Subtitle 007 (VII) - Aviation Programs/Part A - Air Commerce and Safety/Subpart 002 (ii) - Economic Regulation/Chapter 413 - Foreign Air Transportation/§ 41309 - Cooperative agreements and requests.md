@@ -18,21 +18,25 @@ Approval.—The Secretary of Transportation shall approve an agreement, request,
 
 &emsp;&emsp;(A) is between an air carrier not directly operating aircraft in foreign air transportation and a carrier subject to subtitle IV of this title; and
 
-&emsp;&emsp;(B) governs the compensation the common carrier may receive for the transportation.
+&emsp;&emsp;(B) governs the compensation the carrier may receive for the transportation.
 
 (c)
 
-Notice and Opportunity To Respond or for Hearing.—(1) When an agreement, request, modification, or cancellation is filed, the Secretary of Transportation shall give the Attorney General and the Secretary of State written notice of, and an opportunity to submit written comments about, the filing. On the initiative ofthe Secretary of Transportation or on request of the Attorney General or Secretary of State, the Secretary of Transportation may conduct a hearing to decide whether an agreement, request, modification, or cancellation is consistent with this part whether or not it was approved previously.
+Notice and Opportunity To Respond or for Hearing.—(1) When an agreement, request, modification, or cancellation is filed, the Secretary of Transportation shall give the Attorney General and the Secretary of State written notice of, and an opportunity to submit written comments about, the filing. On the initiative of the Secretary of Transportation or on request of the Attorney General or Secretary of State, the Secretary of Transportation may conduct a hearing to decide whether an agreement, request, modification, or cancellation is consistent with this part whether or not it was approved previously.
 
 (2) In a proceeding before the Secretary of Transportation applying standards under subsection (b)(1) of this section, a party opposing an agreement, request, modification, or cancellation has the burden of proving that it substantially reduces or eliminates competition and that less anticompetitive alternatives are available. The party defending the agreement, request, modification, or cancellation has the burden of proving the transportation need or public benefits.
 
 (3) The Secretary of Transportation shall include the findings required by subsection (b)(1) of this section in an order of the Secretary approving or disapproving an agreement, request, modification, or cancellation.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1129; Pub. L. 104–88, title III, §308(<i>l</i>), Dec. 29, 1995, 109 Stat. 948.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1129; Pub. L. 104–88, title III, §308(<i>l</i>), Dec. 29, 1995, 109 Stat. 948; Pub. L. 104–287, §5(71), Oct. 11, 1996, 110 Stat. 3396.)
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+Pub. L. 103–272
+
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -52,13 +56,13 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1601(a)(6) (related to §412); 
 
 &nbsp;
 
-49 App.:1551(b) (1)(C) (related to 49 App.:1382(a)).
+49 App.:1551(b)(1)(C) (related to 49 App.:1382(a)).
 
 Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1601(b)(1)(C) (related to §412(a), (b)); added Oct. 24, 1978, Pub. L. 95–504, §40(a), 92 Stat. 1745; Oct. 14, 1982, Pub. L. 97–309, §4(b), 96 Stat. 1454; Oct. 4, 1984, Pub. L. 98–443, §3(a), 98 Stat. 1703.
 
 41309(b)
 
-49 App.:1382(a) (2)(A).
+49 App.:1382(a)(2)(A).
 
 &nbsp;
 
@@ -74,11 +78,11 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1601(b)(1)(C) (related to §412
 
 41309(c)(2)
 
-49 App.:1382(a) (2)(B).
+49 App.:1382(a)(2)(B).
 
 41309(c)(3)
 
-49 App.:1382(a) (2)(C).
+49 App.:1382(a)(2)(C).
 
 &nbsp;
 
@@ -92,7 +96,13 @@ In subsection (b), before clause (1), the words “The Board shall by order disa
 
 In subsection (c)(1), the words “in accordance with regulations which it prescribes” are omitted as surplus. The words “in accordance with regulations prescribed by the Board” are omitted as surplus.
 
+#### Pub. L. 104–287
+
+This amends 49:41309(b)(2)(B) for consistency in the subsection.
+
 #### Amendments
+
+1996—Subsec. (b)(2)(B). Pub. L. 104–287 substituted “carrier” for “common carrier”.
 
 1995—Subsec. (b)(2)(A). Pub. L. 104–88 substituted “a carrier” for “a common carrier”.
 
@@ -102,5 +112,5 @@ Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 1
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 40109, 41101, 41110, 41308, 41503, 41710, 42111, 46301 of this title.
+This section is referred to in sections 41101, 41110, 41308, 41503, 41710, 42111 of this title.
 

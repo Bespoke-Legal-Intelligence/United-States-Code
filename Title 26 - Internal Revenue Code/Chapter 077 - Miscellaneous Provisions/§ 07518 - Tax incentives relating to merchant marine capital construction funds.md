@@ -208,11 +208,11 @@ For purposes of this section—
 
 &emsp;&emsp;The applicable percentage of any amount which remains in a capital construction fund at the close of the 26th, 27th, 28th, 29th, or 30th taxable year following the taxable year for which such amount was deposited shall be treated as a nonqualified withdrawal in accordance with the following table:
 
-<b>If the amount remains in the fund at the</b>
+<b>If the amount remains in the fund</b>
 
 <b>The applicable</b>
 
-<b> close of the—</b>
+<b> at the close of the—</b>
 
 <b>percentage is—</b>
 
@@ -220,19 +220,19 @@ For purposes of this section—
 
 &nbsp;&nbsp;26th taxable year
 
-&nbsp;20 percent&nbsp;
+&nbsp;20 percent&nbsp;&nbsp;
 
 &nbsp;&nbsp;27th taxable year
 
-&nbsp;40 percent&nbsp;
+&nbsp;40 percent&nbsp;&nbsp;
 
 &nbsp;&nbsp;28th taxable year
 
-&nbsp;60 percent&nbsp;
+&nbsp;60 percent&nbsp;&nbsp;
 
 &nbsp;&nbsp;29th taxable year
 
-&nbsp;80 percent&nbsp;
+&nbsp;80 percent&nbsp;&nbsp;
 
 &nbsp;&nbsp;30th taxable year
 

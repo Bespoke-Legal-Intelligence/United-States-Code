@@ -14,3 +14,11 @@ Any action brought under this subchapter shall be brought before the special cou
 
 Section 1321(a)(2) of this title, referred to in subsec. (a), was repealed by Pub. L. 101–213, §2(b)(3), Dec. 11, 1989, 103 Stat. 1843.
 
+#### Abolition of Special Court, Regional Rail Reorganization Act of 1973, and Transfer of Functions
+
+Special court abolished and all jurisdiction and functions transferred to United States District Court for District of Columbia, see section 719(b)(2) of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 719 of this title.
+

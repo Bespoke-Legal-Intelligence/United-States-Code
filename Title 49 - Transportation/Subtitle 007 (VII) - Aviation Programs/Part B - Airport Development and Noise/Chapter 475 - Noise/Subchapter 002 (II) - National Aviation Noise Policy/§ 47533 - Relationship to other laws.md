@@ -12,7 +12,9 @@ Except as provided by section 47524 of this title, this subchapter does not affe
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

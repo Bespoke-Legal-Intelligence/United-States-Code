@@ -148,7 +148,7 @@ This section shall not apply to any regulated investment company for any calenda
 
 1989—Subsec. (b)(1)(A). Pub. L. 101–239 substituted “98 percent” for “97 percent”.
 
-1988—Subsec. (e)(2). Pub. L. 100–647, §1006(<i>l</i>)(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The term ‘capital gain net income’ has the meaning given to such term by section 1222(9) (determined by treating the 1-year period ending on October 31 of any calendar year as the company's taxable year).”
+1988—Subsec. (e)(2). Pub. L. 100–647, §1006(<i>l</i>)(2), amended par. (2) generally. Prior to amendment, par. (2) readas follows: “The term ‘capital gain net income’ has the meaning given to such term by section 1222(9) (determined by treating the 1-year period ending on October 31 of any calendar year as the company's taxable year).”
 
 Subsec. (e)(5). Pub. L. 100–647, §1006(<i>l</i>)(5), added par. (5).
 

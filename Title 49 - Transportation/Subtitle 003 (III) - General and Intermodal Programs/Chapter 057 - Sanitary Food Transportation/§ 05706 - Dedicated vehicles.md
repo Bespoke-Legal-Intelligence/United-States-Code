@@ -12,7 +12,9 @@ List of Applicable Products.—After consultation required by section 5709 of th
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

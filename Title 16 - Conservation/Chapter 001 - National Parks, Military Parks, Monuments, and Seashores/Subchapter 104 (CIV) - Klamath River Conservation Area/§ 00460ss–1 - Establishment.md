@@ -40,7 +40,7 @@ The Secretary shall designate the anadromous fish habitats and resources of the 
 
 #### (4) Memorandum of agreement
 
-&emsp;In order to facilitate the implementation of any activity described in paragraph (2) over which the Secretary does not have jurisdiction, the Secretary shall enter into a memorandum of agreement with the Federal, State, and local agencies having jurisdiction over such activities, and the Area Indian tribes. The memorandum of agreement shall specify the program activities for which the respective signatories to the agreement are responsible and shall contain such provisions as are necessary to ensure the coordinated implementation of the program.
+&emsp;In order to facilitate the implementation of any activity described in paragraph (2) overwhich the Secretary does not have jurisdiction, the Secretary shall enter into a memorandum of agreement with the Federal, State, and local agencies having jurisdiction over such activities, and the Area Indian tribes. The memorandum of agreement shall specify the program activities for which the respective signatories to the agreement are responsible and shall contain such provisions as are necessary to ensure the coordinated implementation of the program.
 
 (Pub. L. 99–552, §2, Oct. 27, 1986, 100 Stat. 3081.)
 

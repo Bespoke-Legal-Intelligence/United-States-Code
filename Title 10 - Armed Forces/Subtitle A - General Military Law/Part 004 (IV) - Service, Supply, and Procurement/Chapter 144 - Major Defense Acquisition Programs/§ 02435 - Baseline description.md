@@ -26,7 +26,7 @@ Regulations.—The Secretary of Defense shall prescribe regulations governing th
 
 &emsp;(1) The content of baseline descriptions under this section.
 
-&emsp;(2) The submission to the Secretary of the military department concerned and the UnderSecretary of Defense for Acquisition and Technology by the program manager for a program for which there is an approved baseline description under this section of reports of deviations from the baseline of the cost, schedule, performance, supportability, or any other factor of the program.
+&emsp;(2) The submission to the Secretary of the military department concerned and the Under Secretary of Defense for Acquisition and Technology by the program manager for a program for which there is an approved baseline description under this section of reports of deviations from the baseline of the cost, schedule, performance, supportability, or any other factor of the program.
 
 &emsp;(3) Procedures for review of such deviation reports within the Department of Defense.
 

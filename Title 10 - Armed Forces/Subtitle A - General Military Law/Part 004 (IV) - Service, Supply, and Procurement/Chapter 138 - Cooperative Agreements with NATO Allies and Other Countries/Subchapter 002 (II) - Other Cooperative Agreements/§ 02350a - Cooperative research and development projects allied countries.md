@@ -32,7 +32,7 @@ Cooperative Opportunities Document.—(1)(A) In order to ensure that opportuniti
 
 &emsp;(A) A statement indicating whether or not a project similar to the one under consideration by the Department of Defense is in development or production by one or more of the major allies of the United States or NATO organizations.
 
-&emsp;(B) If a project similar to the one under consideration by the Department of Defense is in development or production by one or more major allies of the United States or NATO organizations, an assessment by the Under Secretary of Defense for Acquisition and Technology as to whether that project could satisfy, or could be modified in scope so as to satisfy, the military requirements of the project of the United States under consideration by the Department of Defense.
+&emsp;(B) If a project similar to the one under consideration by the Department of Defense is in development or production by one or more major allies of the United States or NATO organizations, an assessment by the Under Secretary of Defense for Acquisition and Technology as to whether that project could satisfy, or could be modified in scope so as to satisfy, the military requirements of the projectof the United States under consideration by the Department of Defense.
 
 &emsp;(C) An assessment of the advantages and disadvantages with regard to program timing, developmental and life cycle costs, technology sharing, and Rationalization, Standardization, and Interoperability (RSI) of seeking to structure a cooperative development program with one or more major allies of the United States or NATO organizations.
 
@@ -46,7 +46,7 @@ Reports to Congress.—(1) Not later than March 1 of each year, the Under Secret
 
 &emsp;(B) a description of the purpose, funding, and schedule of any new projects proposed to be carried out under this section (including those projects for which memoranda of understanding (or other formal agreements) have not yet been entered into) for which funds have been included in the budget submitted to Congress pursuant to section 1105 of title 31 for the fiscal year following the fiscal year in which the report is submitted.
 
-(2) The Secretary of Defense and the Secretary of State, whenever they consider such action to be warranted, shall jointly submit to the Committees on Armed Services and Foreign Relations of the Senate and to the Committees on Armed Services and Foreign Affairs of the House of Representatives a report—
+(2) The Secretary of Defense and the Secretary of State, whenever they consider such action to be warranted, shall jointly submit to the Committee on Armed Services and the Committee on Foreign Relations of the Senate and the Committee on National Security and the Committee on International Relations of the House of Representatives a report—
 
 &emsp;(A) enumerating those countries to be added to or deleted from the existing designation of countries designated as major non-NATO allies for purposes of this section; and
 
@@ -96,7 +96,7 @@ Definitions.—In this section:
 
 &emsp;(4) The term “NATO organization” means any North Atlantic Treaty Organization subsidiary body referred to in section 2350(2) of this title and any other organization of the North Atlantic Treaty Organization.
 
-(Added Pub. L. 101–189, div. A, title IX, §931(a)(2), Nov. 29, 1989, 103 Stat. 1531; amended Pub. L. 101–510, div. A, title XIII, §1331(4), Nov. 5, 1990, 104 Stat. 1673; Pub. L. 102–190, div. A, title X, §1053, Dec. 5, 1991, 105 Stat. 1471; Pub. L. 102–484, div. A, title VIII, §843(b)(1), Oct. 23, 1992, 106 Stat. 2469; Pub. L. 103–160, div. A, title IX, §904(d)(1), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 103–337, div. A, title XIII, §1301, Oct. 5, 1994, 108 Stat. 2888.)
+(Added Pub. L. 101–189, div. A, title IX, §931(a)(2), Nov. 29, 1989, 103 Stat. 1531; amended Pub. L.101–510, div. A, title XIII, §1331(4), Nov. 5, 1990, 104 Stat. 1673; Pub. L. 102–190, div. A, title X, §1053, Dec. 5, 1991, 105 Stat. 1471; Pub. L. 102–484, div. A, title VIII, §843(b)(1), Oct. 23, 1992, 106 Stat. 2469; Pub. L. 103–160, div. A, title IX, §904(d)(1), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 103–337, div. A, title XIII, §1301, Oct. 5, 1994, 108 Stat. 2888; Pub. L. 104–106, div. A, title XV, §1502(a)(17), Feb. 10, 1996, 110 Stat. 504.)
 
 #### Prior Provisions
 
@@ -105,6 +105,8 @@ Provisions relating to NATO countries were contained in Pub. L. 99–145, title 
 Provisions relating to major non-NATO allies were contained in section 2767a of Title 22, Foreign Relations and Intercourse, prior to repeal by Pub. L. 101–189, §931(d)(2).
 
 #### Amendments
+
+1996—Subsec. (f)(2). Pub. L. 104–106 substituted “submit to the Committee on Armed Services and the Committee on Foreign Relations of the Senate and the Committee on National Security and the Committee on International Relations of the House of Representatives” for “submit to the Committees on Armed Services and Foreign Relations of the Senate and to the Committees on Armed Services and Foreign Affairs of the House of Representatives”.
 
 1994—Subsecs. (a), (e)(2)(A) to (D), (i)(1). Pub. L. 103–337, §1301(a), inserted “or NATO organizations” after “major allies of the United States”.
 
@@ -118,17 +120,11 @@ Subsec. (i)(4). Pub. L. 103–337, §1301(b), added par. (4).
 
 1990—Subsec. (g)(4). Pub. L. 101–510 amended introductory provisions generally, substituting “submit to Congress each year, not later than March 1, a report containing” for “include in the annual report to Congress required by section 2457(d) of this title”.
 
-#### Change of Name
-
-Committee on Armed Services of House of Representatives treated as referring to Committee on National Security of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
-
-Committee on Foreign Affairs of House of Representatives treated as referring to Committee on International Relations of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2.
-
 #### Termination Date of 1992 Amendment
 
 Section 843(c) of Pub. L. 102–484, as amended by Pub. L. 103–35, title II, §202(a)(7), May 31, 1993, 107 Stat. 101, provided that, effective Oct. 23, 1994, subsections (a) and (b) of section 843 of Pub. L. 102–484 (amending sections 2350a and 2350d of this title and section 2767 of Title 22, Foreign Relations and Intercourse) were to cease to be in effect, and section 27(c) of the Arms Export Control Act (22 U.S.C. 2767(c)) and sections 2350a(c) and 2350d(c) of this title were to read as if such subsections had not been enacted, prior to repeal by Pub. L. 103–337, div. A, title XIII, §1318, Oct. 5, 1994, 108 Stat. 2902.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 2349 of this title; title 22 sections 2761, 2796d.
+This section is referred to in sections 2349, 2540 of this title.
 

@@ -1,7 +1,5 @@
 part 3—ascertainment, collection, and recovery of duties
 
-<i><sup>1</sup></i><i> So in original. Probably should be “in a”.</i>
-
 
 ---
 

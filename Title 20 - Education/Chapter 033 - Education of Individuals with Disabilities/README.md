@@ -211,14 +211,14 @@
 
 |  |  |
 | :--- | ---: |
-| [1451\.](Subchapter%20005%20%28V%29%20-%20Research%20in%20the%20Education%20of%20Individuals%20with%20Disabilities/%C2%A7%2001451%20-%20Purposes.md) | Purposes. |
-| [1452\.](Subchapter%20005%20%28V%29%20-%20Research%20in%20the%20Education%20of%20Individuals%20with%20Disabilities/%C2%A7%2001452%20-%20Captioned%20films%2C%20television%2C%20descriptive%20video%2C%20and%20educational%20media%20for%20individuals%20with%20disabilities.md) | Captioned films, television, descriptive video, and educational media for individuals with disabilities. |
+| [1451\.](Subchapter%20006%20%28VI%29%20-%20Instructional%20Media%20for%20Individuals%20with%20Disabilities/%C2%A7%2001451%20-%20Purposes.md) | Purposes. |
+| [1452\.](Subchapter%20006%20%28VI%29%20-%20Instructional%20Media%20for%20Individuals%20with%20Disabilities/%C2%A7%2001452%20-%20Captioned%20films%2C%20television%2C%20descriptive%20video%2C%20and%20educational%20media%20for%20individuals%20with%20disabilities.md) | Captioned films, television, descriptive video, and educational media for individuals with disabilities. |
 | (a) | Establishment of loan service. |
 | (b) | Authority of Secretary. |
 | (c) | National Theatre of the Deaf; other non-profit organizations. |
 | (d) | Transcribed tapes and cassettes. |
-| [1453\.](Subchapter%20005%20%28V%29%20-%20Research%20in%20the%20Education%20of%20Individuals%20with%20Disabilities/%C2%A7%2001453%20-%20Repealed.%20Pub.%20L.%2099%E2%80%93457%2C%20title%20III%2C%20%C2%A7316%2C%20Oct.%208%2C%201986%2C%20100%20Stat.%201171.md) | Repealed. |
-| [1454\.](Subchapter%20005%20%28V%29%20-%20Research%20in%20the%20Education%20of%20Individuals%20with%20Disabilities/%C2%A7%2001454%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+| [1453\.](Subchapter%20006%20%28VI%29%20-%20Instructional%20Media%20for%20Individuals%20with%20Disabilities/%C2%A7%2001453%20-%20Repealed.%20Pub.%20L.%2099%E2%80%93457%2C%20title%20III%2C%20%C2%A7316%2C%20Oct.%208%2C%201986%2C%20100%20Stat.%201171.md) | Repealed. |
+| [1454\.](Subchapter%20006%20%28VI%29%20-%20Instructional%20Media%20for%20Individuals%20with%20Disabilities/%C2%A7%2001454%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -374,6 +374,7 @@ This chapter is referred to in sections 1141, 1203a, 1206a, 2321, 2323, 3441, 43
 - [Subchapter 003 (III) - Centers and Services to Meet Special Needs of Individuals with Disabilities](Subchapter%20003%20%28III%29%20-%20Centers%20and%20Services%20to%20Meet%20Special%20Needs%20of%20Individuals%20with%20Disabilities/README.md)
 - [Subchapter 004 (IV) - Training Personnel for the Education of Individuals with Disabilities](Subchapter%20004%20%28IV%29%20-%20Training%20Personnel%20for%20the%20Education%20of%20Individuals%20with%20Disabilities/README.md)
 - [Subchapter 005 (V) - Research in the Education of Individuals with Disabilities](Subchapter%20005%20%28V%29%20-%20Research%20in%20the%20Education%20of%20Individuals%20with%20Disabilities/README.md)
+- [Subchapter 006 (VI) - Instructional Media for Individuals with Disabilities](Subchapter%20006%20%28VI%29%20-%20Instructional%20Media%20for%20Individuals%20with%20Disabilities/README.md)
 - [Subchapter 007 (VII) - Technology, Educational Media, and Materials for Individuals with Disabilities](Subchapter%20007%20%28VII%29%20-%20Technology%2C%20Educational%20Media%2C%20and%20Materials%20for%20Individuals%20with%20Disabilities/README.md)
 - [Subchapter 008 (VIII) - Infants and Toddlers with Disabilities](Subchapter%20008%20%28VIII%29%20-%20Infants%20and%20Toddlers%20with%20Disabilities/README.md)
 - [Subchapter 009 (IX) - Family Support](Subchapter%20009%20%28IX%29%20-%20Family%20Support/README.md)

@@ -28,7 +28,7 @@ Requirements.—Each project selected under this section shall include at least 
 
 #### (3) Cost sharing
 
-&emsp;Cost sharing for projects under this section shall be conducted according to the procedures described in section 13542(b) and (c) of this title.
+&emsp;Cost sharing for projects under this section shall be conducted according to the proceduresdescribed in section 13542(b) and (c) of this title.
 
 #### (4) Advisory Committee
 
@@ -52,7 +52,7 @@ Requirements.—Each project selected under this section shall include at least 
 
 &emsp;&emsp;(ix) associations of firms in the major energy efficiency manufacturing industries.
 
-> &emsp;Nothing in this subparagraph shall be construed to require the Secretary to reestablish the Advisory Committee in place under this subsection as of October 24, 1992, or to performagain any duties performed by such advisory committee before October 24, 1992.
+> &emsp;Nothing in this subparagraph shall be construed to require the Secretary to reestablish the Advisory Committee in place under this subsection as of October 24, 1992, or to perform again any duties performed by such advisory committee before October 24, 1992.
 
 &emsp;(B) Not later than 18 months after October 24, 1992, the Advisory Committee shall provide the Secretary with a report assessing the implementation of the program under this section, including specific recommendations for improvements or changes to the program and solicitation process. The Secretary shall transmit such report and, if any, the Secretary's recommendations to the Congress.
 
@@ -134,7 +134,7 @@ There are authorized to be appropriated to the Secretary for carrying out this s
 
 #### Termination of Advisory Committees
 
-Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-yearperiod beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Section Referred to in Other Sections
 

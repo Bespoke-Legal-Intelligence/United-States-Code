@@ -12,7 +12,9 @@ Subject to the concurrence of the Secretary of State, the Secretary of Transport
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

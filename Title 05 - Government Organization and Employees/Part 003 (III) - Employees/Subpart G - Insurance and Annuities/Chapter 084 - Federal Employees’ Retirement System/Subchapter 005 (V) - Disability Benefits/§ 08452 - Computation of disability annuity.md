@@ -22,7 +22,7 @@
 
 (B)(i) For purposes of this paragraph, the assumed disability insurance benefit of an annuitant for any month shall be equal to—
 
-&emsp;(I) the amount of the disability insurance benefit to which the annuitant is entitled under section 223 of the Social Security Act for the month in which the annuity under this subchapter commences, or is restored, or, if no entitlement to such disability insurance benefits exists for such month, the first monththereafter for which the annuitant is entitled both to an annuity under this subchapter and disability insurance benefits under section 223 of the Social Security Act, adjusted by
+&emsp;(I) the amount of the disability insurance benefit to which the annuitant is entitled under section 223 of the Social Security Act for the month in which the annuity under this subchapter commences, or is restored, or, if no entitlement to such disability insurance benefits exists for such month, the first month thereafter for which the annuitant is entitled both to an annuity under this subchapter and disability insurance benefits under section 223 of the Social Security Act, adjusted by
 
 &emsp;(II) all adjustments made under section 8462(b) after the end of the period referred to in paragraph (1)(A)(i) (or, if later, after the end of the month preceding the first month for which the annuitant is entitled both to an annuity under this subchapter and disability insurance benefits under section 223 of the Social Security Act) and before the start of the month involved (without regard to whether the annuitant's annuity was affected by any of those adjustments).
 
@@ -66,7 +66,7 @@ Sections 223 and 224 of the Social Security Act, referred to in subsec. (a)(2), 
 
 #### Amendments
 
-<b>1988</b>—Subsec. (a)(1)(B). Pub. L. 100–238, §122(c)(2)(A), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “An annuity computed under this paragraph shall not, for purposes of any adjustment under section 8462 (including any adjustment under subsection (c)(1) of such section), be considered to have commenced until after such annuity ceases to be determined under subparagraph (A)(i).”
+1988—Subsec. (a)(1)(B). Pub. L. 100–238, §122(c)(2)(A), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “An annuity computed under this paragraph shall not, for purposes of any adjustment under section 8462 (including any adjustment under subsection (c)(1) of such section), be considered to have commenced until after such annuity ceases to be determined under subparagraph (A)(i).”
 
 Subsec. (a)(2)(B)(i). Pub. L. 100–238, §122(a), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “For purposes of this paragraph, the assumed disability insurance benefit of an annuitant for any month shall be equal to—
 
@@ -82,7 +82,7 @@ Subsec. (b). Pub. L. 100–238, §122(b), amended subsec. (b) generally, substit
 
 Subsec. (d). Pub. L. 100–238, §122(c)(1), designated existing provisions as par. (1) and added par. (2).
 
-<b>1986</b>—Subsec. (b)(3). Pub. L. 99–556, §106, substituted “(a)(1)(A)(i)” for “(a)(1)(A)” in second sentence.
+1986—Subsec. (b)(3). Pub. L. 99–556, §106, substituted “(a)(1)(A)(i)” for “(a)(1)(A)” in second sentence.
 
 Subsec. (d). Pub. L. 99–556, §104, inserted “(after the reduction under subsection (a)(2), if applicable, has been made)”.
 

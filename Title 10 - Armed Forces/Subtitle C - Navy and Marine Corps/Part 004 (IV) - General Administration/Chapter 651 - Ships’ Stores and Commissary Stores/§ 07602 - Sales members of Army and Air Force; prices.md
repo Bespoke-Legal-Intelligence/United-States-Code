@@ -18,5 +18,5 @@ Historical and Revision Notes
 
 Aug. 29, 1916, ch. 418, §1, 39 Stat. 630 (less words before semicolon of 3d proviso under “Subsistence of the Army”).
 
-This section is expanded to cover sales to members of the Air Force, as authorized by §305(a) of the National Security Act of 1947, as amended (5 U.S.C. 171<i>l).</i>
+This section is expanded to cover sales to members of the Air Force, as authorized by §305(a) of the National Security Act of 1947, as amended (5 U.S.C. 171<i>l</i>).
 

@@ -14,7 +14,7 @@ Upon receipt of compensation from the City of Galveston, the Secretary shall con
 
 #### (c) Disposition of spoil
 
-Costs of maintaining the Galveston Harbor and Channel will continue to be governed by the Local Cooperation Agreement (LCA) between the United States of America and the City of Galveston dated October 18, 1973, as amended. Upon conveyance of the parcel described in subsection (a) of this section, the Department of the Army shall be compensated directly for thepresent value of the total costs to the Department for disposal of dredge material and site preparation pursuant to the LCA, in excess of the present value of the total costs that would have been incurred if this conveyance had not been made.
+Costs of maintaining the Galveston Harbor and Channel will continue to be governed by the Local Cooperation Agreement (LCA) between the United States of America and the City of Galveston dated October 18, 1973, as amended. Upon conveyance of the parcel described in subsection (a) of this section, the Department of the Army shall be compensated directly for the present value of the total costs to the Department for disposal of dredge material and site preparation pursuant to the LCA, in excess of the present value of the total costs that would have been incurred if this conveyance had not been made.
 
 #### (d) Determination of fair market value
 

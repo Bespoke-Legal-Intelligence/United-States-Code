@@ -4,15 +4,15 @@
 
 #### (1) Establishment
 
-&emsp;There is hereby established in the George Washington National Forest, Virginia, the George Washington National Forest Mount Pleasant Scenic Area (in this section referred to as the “scenic area”).
+&emsp;There is hereby established in the George Washington National Forest, Virginia, the Mount Pleasant National Scenic Area (in this section referred to as the “scenic area”).
 
 #### (2) Lands included in scenic area
 
-&emsp;The scenic area shall consist of certain lands in the George Washington National Forest, Virginia, which comprise approximately seven thousand five hundred and eighty acres, as generally depicted on a map entitled “Mount Pleasant National Scenic Area—Proposed”, dated June 21, 1993.
+&emsp;The scenic area shall consist of certain lands in the George Washington National Forest, Virginia, which comprise approximately seventhousand five hundred and eighty acres, as generally depicted on a map entitled “Mount Pleasant National Scenic Area—Proposed”, dated June 21, 1993.
 
 #### (3) Maps and descriptions
 
-&emsp;As soon as practicable after August 26, 1994, the Secretary shall file a map and boundarydescription of the scenic area with the Committee on Agriculture, Nutrition, and Forestry of the Senate and the Committee on Agriculture of the House of Representatives. The map and description shall have the same force and effect as if included in sections 545 and 545a of this title, except that the Secretary is authorized to correct clerical and typographical errors in such boundary description and map. Such map and boundary description shall be on file and available for public inspection in the Office of the Chief of the Forest Service, Department of Agriculture. In the case of any discrepancy between the acreage and the map described in paragraph (2), the map shall control.
+&emsp;As soon as practicable after August 26, 1994, the Secretary shall file a map and boundary description of the scenic area with the Committee on Agriculture, Nutrition, and Forestry of the Senate and the Committee on Agriculture of the House of Representatives. The map and description shall have the same force and effect as if included in sections 545 and 545a of this title, except that the Secretary is authorized to correct clerical and typographical errors in such boundary description and map. Such map and boundary description shall be on file and available for public inspection in the Office of the Chief of the Forest Service, Department of Agriculture. In the case of any discrepancy between the acreage and the map described in paragraph (2), the map shall control.
 
 #### (b) Administration
 
@@ -58,7 +58,7 @@ The scenic area shall be administered so as to maintain or enhance existing wate
 
 Subject to valid existing rights, all federally owned lands in the scenic area are hereby withdrawn from location, entry, and patent under the mining laws of the United States and from leasing claims under the mineral and geothermal leasing laws of the United States, including amendments to such laws.
 
-(Pub. L. 103–314, §3, Aug. 26, 1994, 108 Stat. 1703.)
+(Pub. L. 103–314, §3, Aug. 26, 1994, 108 Stat. 1703; Pub. L. 104–127, title IX, §915, Apr. 4, 1996, 110 Stat. 1187.)
 
 #### References in Text
 
@@ -67,6 +67,10 @@ The mining laws of the United States, referred to in subsec. (i), are classified
 Mineral leasing laws of the United States, referred to in subsec. (i), have been defined in sections 351, 505, 530, and 541e of Title 30, to mean acts Oct. 20, 1914, ch. 330, 38 Stat. 741; Feb. 25, 1920, ch. 85, 41 Stat. 437; Apr. 17, 1926, ch. 158, 44 Stat. 301; and Feb. 7, 1927, ch. 66, 44 Stat. 1057. The act of Oct. 20, 1914, was repealed by Pub. L. 86–252, §1, Sept. 9, 1959, 73 Stat. 490. The act of Feb. 25, 1920, is known as the Mineral Leasing Act and is classified generally to chapter 3A (§181 et seq.) of Title 30. The act of Apr. 17, 1926, is classified principally to subchapter IX (§281 et seq.) of chapter 3A of Title 30. The act of Feb. 7, 1927, is classified principally to subchapter IX (§281 et seq.) of chapter 3A of Title 30. For complete classification of these Acts to the Code, see Tables.
 
 The geothermal leasing laws of the United States, referred to in subsec. (i), are classified principally to chapter 23 (§1001 et seq.) of Title 30.
+
+#### Amendments
+
+1996—Subsec. (a)(1). Pub. L. 104–127 substituted “Mount Pleasant National Scenic Area” for “George Washington National Forest Mount Pleasant Scenic Area”.
 
 #### Section Referred to in Other Sections
 

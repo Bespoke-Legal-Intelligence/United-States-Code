@@ -14,7 +14,7 @@ The United States Commissioner, under regulations approved by the Secretary of S
 
 &emsp;(2) For loss in business:
 
-&emsp;&emsp;(a) Loss of profits directly resulting from relocation, limited to the period between termination of business in the old location and commencement of business in the new, such period not to exceed thirty days.
+&emsp;&emsp;(a) Loss of profits directly resulting from relocation, limited to the period betweentermination of business in the old location and commencement of business in the new, such period not to exceed thirty days.
 
 &emsp;&emsp;(b) Loss to owner resulting from inability to rent to others housing or commercial space that can be reasonably related to uncertainties arising out of the pending acquisition of the owner's property by the United States, such losses limited to those incurred after July 18, 1963, and prior to the making by the United States of a firm offer to purchase.
 

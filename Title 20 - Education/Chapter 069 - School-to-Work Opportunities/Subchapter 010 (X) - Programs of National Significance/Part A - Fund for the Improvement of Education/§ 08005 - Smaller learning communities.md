@@ -16,7 +16,7 @@ Each local educational agency desiring a grant under this section shall submit a
 
 &emsp;(6) the training and professional development activities that will be offered to teachers and others involved in the activities assisted under this part;
 
-&emsp;(7) the goals and objectives of the activities assisted under this part, including a description of how such activities will better enableall students to reach challenging State content standards and State student performance standards;
+&emsp;(7) the goals and objectives of the activities assisted under this part, including a description of how such activities will better enable all students to reach challenging State content standards and State student performance standards;
 
 &emsp;(8) the methods by which the applicant will assess progress in meeting such goals and objectives;
 

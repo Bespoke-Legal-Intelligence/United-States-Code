@@ -12,5 +12,5 @@ There is hereby authorized to be appropriated, for payment of the increased Unit
 
 #### Codification
 
-Section was not enacted as part of Pub. L. 86–147, Aug. 7, 1959, 73 Stat. 299, known as the Inter-American Development Bank Act, which comprises this subchapter.
+Section was not enacted as part of Pub. L. 86–147, Aug. 7, 1959, 73 Stat. 299, known as the Inter-AmericanDevelopment Bank Act, which comprises this subchapter.
 

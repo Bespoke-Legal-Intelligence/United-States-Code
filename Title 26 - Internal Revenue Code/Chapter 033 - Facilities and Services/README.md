@@ -36,7 +36,7 @@
 
 #### Effective Date of 1962 Amendment
 
-Pub. L. 87–508, §5(d), June 28, 1962, 76 Stat. 119, provided in part that: “The amendment made by subsection (c)(1) \[amending item for subchapter C in the analysis\] shall apply only with respect to transportation beginning after November 15, 1962.”
+Pub. L. 87–508, §5(d), June 28, 1962, 76 Stat. 119, provided in part that: “The amendment made by subsection (c)(1) \[amending item for subchapter C in theanalysis\] shall apply only with respect to transportation beginning after November 15, 1962.”
 
 #### Chapter Referred to in Other Sections
 

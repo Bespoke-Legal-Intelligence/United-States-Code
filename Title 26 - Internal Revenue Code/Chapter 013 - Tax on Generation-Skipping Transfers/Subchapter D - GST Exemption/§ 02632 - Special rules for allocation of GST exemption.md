@@ -42,7 +42,7 @@
 
 #### (B) Nonexempt portion
 
-&emsp;&emsp;For purposes of subparagraph (A), the term “nonexempt portion” means the value (atthe time of allocation) of the property or trust, multiplied by the inclusion ratio with respect to such property or trust.
+&emsp;&emsp;For purposes of subparagraph (A), the term “nonexempt portion” means the value (at the time of allocation) of the property or trust, multiplied by the inclusion ratio with respect to such property or trust.
 
 (Added Pub. L. 99–514, title XIV, §1431(a), Oct. 22, 1986, 100 Stat. 2721; amended Pub. L. 100–647, title I, §1014(g)(16), Nov. 10, 1988, 102 Stat. 3566.)
 

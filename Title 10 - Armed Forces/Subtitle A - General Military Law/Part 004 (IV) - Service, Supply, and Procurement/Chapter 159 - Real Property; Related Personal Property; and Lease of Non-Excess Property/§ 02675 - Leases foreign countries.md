@@ -22,7 +22,7 @@ The words “that are not located on a military base” are substituted for the 
 
 #### Amendments
 
-1990—Pub. L. 101–510 struck out “(a)” before “The Secretary” and struck out subsec. (b) which read as follows: “A lease may not be entered into under this section for structures or related real property in any foreign country if the average estimated annual rental during the term of the lease if more than $250,000 until after the expiration of 30 days from the date upon which a report of the facts concerning the proposed lease is submitted to the Committees on Armed Services of the Senate and House of Representatives.”
+1990—Pub. L. 101–510 struck out “(a)” before “The Secretary” and struck out subsec. (b) which read as follows: “A lease may not be entered into under this section for structures or related real property in any foreign country if the average estimated annual rental during the term of the lease if more than $250,000 until after the expiration of 30 days from the date uponwhich a report of the facts concerning the proposed lease is submitted to the Committees on Armed Services of the Senate and House of Representatives.”
 
 1984—Subsec. (b). Pub. L. 98–525 substituted “30” for “thirty”.
 

@@ -68,7 +68,7 @@ It is the policy of Congress that it is in the national interest for the Secreta
 
 #### (d) Construction
 
-This chapter shall be construed to complement the policies and direction under the Forest and Rangeland Renewable Resources Planning Act of 1974 (16 U.S.C. 1600 et seq.).
+This chapter shall be construed to complement the policies and direction under theForest and Rangeland Renewable Resources Planning Act of 1974 (16 U.S.C. 1600 et seq.).
 
 (Pub. L. 95–313, §2, July 1, 1978, 92 Stat. 365; Pub. L. 101–513, title VI, §611(b)(1), (2), formerly §607(b)(1), (2), Nov. 5, 1990, 104 Stat. 2072, renumbered §611(b)(1), (2), Pub. L. 102–574, §2(a)(1), Oct. 29, 1992, 106 Stat. 4593; Pub. L. 101–624, title XII, §1212, Nov. 28, 1990, 104 Stat. 3521.)
 
@@ -220,7 +220,7 @@ Conflicts of interest.—No director, officer, or employee of the Foundation sha
 
 &emsp;&emsp;&emsp;“(ii) has any direct or indirect financial interest.
 
-“(<i>l)</i>
+“(<i>l</i>)
 
 Records; Audits.—The Foundation shall ensure that—
 
@@ -258,9 +258,9 @@ In general.—Not later than 3 months after the conclusion of each fiscal year, 
 
 &emsp;“(2)
 
-Termination.—The obligation of the Foundation to publish annual reports pursuant to this subsection shall terminate after publication of the report incorporating the findings of the final audit in accordance with procedures required by subsection (<i>l).</i>
+Termination.—The obligation of the Foundation to publish annual reports pursuant to this subsection shall terminate after publication of the report incorporating the findings of the final audit in accordance with procedures required by subsection (<i>l</i>).
 
-“(<i>o)</i>
+“(<i>o</i>)
 
 Prohibition on Commercial Harvest.—Trees planted pursuant to a program receiving funds under this section may not be commercially harvested and sold for Christmas trees.
 
@@ -278,43 +278,11 @@ Authorization of Appropriations.—There is authorized to be appropriated $25,00
 
 #### Tree Planting Initiative
 
-Pub. L. 99–198, title XII, §1256, as added by Pub. L. 101–624, title XIV, §1441(a), Nov. 28, 1990, 104 Stat. 3601, provided that:
-
-“(a)
-
-Maintenance, Afforestation, and Reforestation of Forest Lands.—
-
-&emsp;“(1)
-
-Policy.—It is the policy of the United States to—
-
-&emsp;&emsp;“(A) promote the retention and management of lands currently in forest cover as forested lands;
-
-&emsp;&emsp;“(B) provide for the reforestation of Federal, State, and private nonindustrial forest lands following timber harvest or loss of cover due to fire, insect damage, disease or damaging weather;
-
-&emsp;&emsp;“(C) encourage the reforestation of previously forested lands and the afforestation of marginal agricultural lands; and
-
-&emsp;&emsp;“(D) promote the planting of trees and the proper management of existing forest lands to reduce soil erosion, improve water quality, enhance fish and wildlife habitat, and provide for the sustained production of the commodity and noncommodity resources that these lands can provide to meet the Nation's needs.
-
-&emsp;“(2)
-
-Implementation of policy.—The Secretary is encouraged to use the following programs to accomplish the policy identified in subsection (a)(1):
-
-&emsp;&emsp;“(A) The conservation reserve established under subchapter B of chapter 1 \[subpart B (§3831 et seq.) of part 1 of subchapter IV of chapter 58 of this title\].
-
-&emsp;&emsp;“(B) The agricultural conservation program authorized by sections 7 through 15, 16(a), 16(f), and 17 of the Soil Conservation and Domestic Allotment Act (16 U.S.C. 590g through 590<i>o</i>, 590p(a), 590p(f), and 590(g) and sections 1001 through 1008 and 1010 of the Agricultural Act of 1970 (16 U.S.C. 1501 through 1508 and 1510).
-
-&emsp;&emsp;“(C) The Cooperative Forestry Assistance Act of 1978 (16 U.S.C. 2103) \[see Short Title note set out above\].
-
-&emsp;&emsp;“(D) The provisions of title XII of the Food, Agriculture, Conservation, and Trade Act of 1990 \[Pub. L. 101–624, see Short Title of 1990 Amendment note set out above\].
-
-“(b)
-
-Agreements With State Forestry Agencies.—The Secretary shall encourage owners and operators of cropland who enter into agreements in accordance with this section to enlist the cooperative assistance of the State Forester or equivalent State official in obtaining technical and financial assistance for tree planting and maintenance activities in accordance with the provisions of title XII of the Food, Agriculture, Conservation, and Trade Act of 1990.”
+Pub. L. 99–198, title XII, §1256, as added by Pub. L. 101–624, title XIV, §1441(a), Nov. 28, 1990, 104 Stat. 3601, set forth policy relating to maintenance, afforestation, and reforestation of forest lands and provisions relating to implementation of policy and agreements with State forestry agencies, prior to repeal by Pub. L. 104–127, title III, §336(e), Apr. 4, 1996, 110 Stat. 1007.
 
 #### Transfer of Forest Tree Nursery Facilities to States
 
-Pub. L. 87–492, June 25, 1962, 76 Stat. 107, provided: “That the Congress recognizes that for many years the United States and certain States have cooperated in the production of tree planting stock for use in the reforestation of the public and private lands of the Nation; that the program of production of tree plantingstock which was initiated and pursued under the Soil Bank Act (7 U.S.C. 1801 et seq.) \[repealed\] was carried on under written agreements which provided for (a) cooperation between the Forest Service, on behalf of the United States, and the States which participated in the program, (b) payments to said States for costs and expenses incurred in the development of nursery facilities, (c) the holding of such funds by the States in trust for the purpose of carrying out the provisions of said agreements, and (d) restoration to the trust fund of an amount equal to the residual value of any supplies, materials, equipment, or improvements acquired or constructed with trust funds and transferred to State forestry work other than the soil bank program; that such program under said Soil Bank Act has been discontinued, but the need for the trees continues to be great; that the States and Federal Government are cooperating in the procurement, production, and distribution of forest-tree seeds and plants under section 4 of the Clarke-McNary Act of June 7, 1924 (16 U.S.C. 567), and in the reforestation of lands under title IV of the Agricultural Act of 1956 (16 U.S.C. 568e and 568g); and that said participating States need the said supplies, materials, equipment, or improvements for use in connection with their respective forestry programs, and it is in the public interest to permit these States to use said property without the requirement that payment be made for the residual value thereof.
+Pub. L. 87–492, June 25, 1962, 76 Stat. 107, provided: “That the Congress recognizes that for many years the United States and certain States have cooperated in the production of tree planting stock for use in the reforestation of the public and private lands of the Nation; that the program of production of tree planting stock which was initiated and pursued under the Soil Bank Act (7 U.S.C. 1801 et seq.) \[repealed\] was carried on under written agreements which provided for (a) cooperation between the Forest Service, on behalf of the United States, and the States which participated in the program, (b) payments to said States for costs and expenses incurred in the development of nursery facilities, (c) the holding of such funds by the States in trust for the purpose of carrying out the provisions of said agreements, and (d) restoration to the trust fund of an amount equal to the residual value of any supplies, materials, equipment, or improvements acquired or constructed with trust funds and transferred to State forestry work other than the soil bank program; that such program under said Soil Bank Act has been discontinued, but the need for the trees continues to be great; that the States and Federal Government are cooperating in the procurement, production, and distribution of forest-tree seeds and plants under section 4 of the Clarke-McNary Act of June 7, 1924 (16 U.S.C. 567), and in the reforestation of lands under title IV of the Agricultural Act of 1956 (16 U.S.C. 568e and 568g); and that said participating States need the said supplies, materials, equipment, or improvements for use in connection with their respective forestry programs, and it is in the public interest to permit these States to use said property without the requirement that payment be made for the residual value thereof.
 
 “
 

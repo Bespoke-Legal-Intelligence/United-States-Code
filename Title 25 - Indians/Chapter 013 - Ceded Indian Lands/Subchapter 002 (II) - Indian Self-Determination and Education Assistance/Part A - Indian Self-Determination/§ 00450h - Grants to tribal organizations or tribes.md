@@ -8,7 +8,7 @@ The Secretary of the Interior is authorized, upon the request of any Indian trib
 
 &emsp;(2) the planning, training, evaluation of other activities designed to improve the capacity of a tribal organization to enter into a contract or contracts pursuant to section 450f of this title and the additional costs associated with the initial years of operation under such a contract or contracts; or
 
-&emsp;(3) the acquisition of land in connection with items (1) and (2) above: <i>Provided</i>, That in the case of land within Indian country (as defined in chapter 53 of title 18) or which adjoins on at least two sides lands held in trust by the United States for the tribe or for individual Indians, the Secretary of Interior may (upon request of the tribe) acquire such land in trust for the tribe.
+&emsp;(3) the acquisition of land in connection with items (1) and (2) above: <i>Provided</i>, That in the case of land within Indian country (as defined in chapter 53 of title 18) or which adjoins on at least two sides lands held in trust by the United States for the tribe or for individual Indians, the Secretary of <sup>1</sup> Interior may (upon request of the tribe) acquire such land in trust for the tribe.
 
 #### (b) Grants by Secretary of Health and Human Services for development, maintenance, etc., of health facilities or services and improvement of contract capabilities implementing hospital and health facility functions
 
@@ -16,7 +16,7 @@ The Secretary of Health and Human Services may, in accordance with regulations a
 
 &emsp;(1) the development, construction, operation, provision, or maintenance of adequate health facilities or services including the training of personnel for such work, from funds appropriated to the Indian Health Service for Indian health services or Indian health facilities; or
 
-&emsp;(2) planning, training, evaluation or other activities designed to improve the capacity of a tribal organization to enter into a contract or contracts pursuant to section 450g <sup>1</sup> of this title.
+&emsp;(2) planning, training, evaluation or other activities designed to improve the capacity of a tribal organization to enter into a contract or contracts pursuant to section 450g <sup>2</sup> of this title.
 
 #### (c) Use as matching shares for other similar Federal grant programs
 
@@ -68,5 +68,7 @@ Section 203(g)(2) of Pub. L. 101–644 provided that: “The amendment made by p
 
 This section is referred to in sections 450b, 450f, 450j, 450k, 450m, 2010, 2024, 2026 of this title; title 42 section 2004b.
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be followed by “the”.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

@@ -6,7 +6,7 @@ Officers in the following categories are not subject to this chapter (other than
 
 &emsp;&emsp;(A) on active duty for training;
 
-&emsp;&emsp;(B) on active duty under section 3038, 8038, 10211, 10301 through 10305, 10501, or 12402 of this title or section 708 of title 32;
+&emsp;&emsp;(B) on active duty under section 3038, 5143, 5144, 8038, 10211, 10301 through 10305, 10502, 10505, 10506(a), 10506(b), 10507, or 12402 of this title or section 708 of title 32;
 
 &emsp;&emsp;(C) on active duty under section 12301(d) of this title in connection with organizing, administering, recruiting, instructing, or training the reserve components;
 
@@ -26,19 +26,17 @@ Officers in the following categories are not subject to this chapter (other than
 
 &emsp;(5) Students at the Uniformed Services University of the Health Sciences.
 
-(Added Pub. L. 96–513, title I, §105, Dec. 12, 1980, 94 Stat. 2866; amended Pub. L. 98–525, title IV, §414(a)(5), title V, §527(b), Oct. 19, 1984, 98 Stat. 2519, 2525; Pub. L. 99–433, title V, §531(a)(2), Oct. 1, 1986, 100 Stat. 1063; Pub. L. 103–337, div. A, title XVI, §§1624, 1671(c)(5), Oct. 5, 1994, 108 Stat. 2961, 3014.)
+(Added Pub. L. 96–513, title I, §105, Dec. 12, 1980, 94 Stat. 2866; amended Pub. L. 98–525, title IV, §414(a)(5), title V, §527(b), Oct. 19, 1984, 98 Stat. 2519, 2525; Pub. L. 99–433, title V, §531(a)(2), Oct. 1, 1986, 100 Stat. 1063; Pub. L. 103–337, div. A, title XVI, §1671(c)(5), Oct. 5, 1994, 108 Stat. 3014; Pub. L. 104–106, div. A, title XV, §1501(c)(6), Feb. 10, 1996, 110 Stat. 498; Pub. L. 104–201, div. A, title XII, §1212(e), Sept. 23, 1996, 110 Stat. 2694.)
 
-#### Amendment of Section
+#### Codification
 
-<i>Pub. L. 103–337, div. A, title XVI, §§1624, 1691(b)(1), Oct. 5, 1994, 108 Stat. 2961, 3026, provided that, effective Oct. 1, 1996, this section is amended—</i>
-
-<i>(1) by inserting “(a)” before “Officers in the following”; and</i>
-
-<i>(2) by adding at the end the following:</i>
-
-(b) Under regulations prescribed by the Secretary of the military department concerned, a reserve officer who is ordered to active duty (whether voluntarily or involuntarily) during a war or national emergency and who would otherwise be placed on the active-duty list may be excluded from that list as determined by the Secretary concerned. Exclusion of an officer from the active-duty list as the result of action by the Secretary concerned under the preceding sentence shall expire not later than 24 months after the date on which the officer enters active duty under an order to active duty covered by that sentence.
+Pub. L. 103–337, div. A, title XVI, §§1624, 1691(b)(1), Oct. 5, 1994, 108 Stat. 2961, 3026, which directed amendment of this section effective Oct. 1, 1996, by inserting “(a)” before “Officers in the following” and by adding at the end a new subsec. (b), was amended by Pub. L. 104–106, div. A, title XV, §1501(a)(1)(A), Feb. 10, 1996, 110 Stat. 495, and, as so amended, amends section 620 of this title instead of this section.
 
 #### Amendments
+
+1996—Par. (1)(B). Pub. L. 104–201 inserted “5143, 5144,” after “3038,”.
+
+Pub. L. 104–106 substituted “10502, 10505, 10506(a), 10506(b), 10507” for “10501”.
 
 1994—Par. (1)(B). Pub. L. 103–337, §1671(c)(5)(A), substituted “3038, 8038, 10211, 10301 through 10305, 10501, or 12402” for “175, 265, 3021, 3038, 3040, 3496, 5251, 5252, 8021, 8038, or 8496”.
 
@@ -54,9 +52,13 @@ Par. (1)(C). Pub. L. 98–525, §414(a)(5)(A), struck out “or under section 50
 
 Par. (1)(G). Pub. L. 98–525, §414(a)(5)(B)–(D), added subpar. (G).
 
+#### Effective Date of 1996 Amendment
+
+Section 1501(c) of Pub. L. 104–106 provided that the amendment made by that section is effective as of Dec. 1, 1994, and as if included as an amendment made by the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as originally enacted.
+
 #### Effective Date of 1994 Amendment
 
-Amendment by section 1671(c)(5) of Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provided, and amendment by section 1624 of Pub. L. 103–337 effective Oct. 1, 1996, see section 1691 of Pub. L. 103–337, set out as a note under section 10001 of this title.
+Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under section 10001 of this title.
 
 #### Effective Date
 

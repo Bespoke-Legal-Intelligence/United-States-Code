@@ -36,7 +36,7 @@ For purposes of this subtitle—
 
 #### (B) Secretary may waive application of subparagraph (A)
 
-&emsp;&emsp;The Secretary may waive the application of subparagraph (A) to any corporation for any period subject to such conditions as the Secretary may prescribe.
+&emsp;&emsp;The Secretary may waive the application of subparagraph (A) to any corporation forany period subject to such conditions as the Secretary may prescribe.
 
 #### (4) Stock not to include certain preferred stock
 
@@ -84,6 +84,8 @@ As used in this chapter, the term “includible corporation” means any corpora
 
 &emsp;(7) A DISC (as defined in section 992(a)(1)).
 
+&emsp;(8) An S corporation.
+
 #### (c) Includible insurance companies
 
 Notwithstanding the provisions of paragraph (2) of subsection (b)—
@@ -94,7 +96,7 @@ Notwithstanding the provisions of paragraph (2) of subsection (b)—
 
 &emsp;(B) If an election under this paragraph is in effect for a taxable year—
 
-&emsp;&emsp;(i) section 243(b)(3) and the exception provided under <sup>1</sup> 243(b)(2) with respect to subsections (b)(2) and (c) of this section,
+&emsp;&emsp;(i) section 243(b)(3) and the exception provided under section 243(b)(2) with respect to subsections (b)(2) and (c) of this section,
 
 &emsp;&emsp;(ii) section 542(b)(5), and
 
@@ -118,13 +120,17 @@ In determining the consolidated taxable income of an affiliated group for any ta
 
 &emsp;(2) any amount treated as received under section 805(b)(3) of such Act.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 369; Mar. 13, 1956, ch. 83, §5(8), 70 Stat. 49; Sept. 2, 1958, Pub. L. 85–866, title I, §64(d)(3), 72 Stat. 1657; June 25, 1959, Pub. L. 86–69, §3(f)(1), 73 Stat. 140; Sept. 23, 1959, Pub. L. 86–376, §2(c), 73 Stat. 699; Sept. 14, 1960, Pub. L. 86–779, §10(j), 74 Stat. 1009; Apr. 14, 1966, Pub. L. 89–389, §4(b)(3), 80 Stat. 116; Dec. 30, 1969, Pub. L. 91–172, title I, §121(a)(4), 83 Stat. 537; Dec. 10, 1971, Pub. L. 92–178, title V, §502(e), 85 Stat. 550; Oct. 4, 1976, Pub. L. 94–455, title VIII, §803(b)(3), title X, §§1051(g), 1053(d)(2), title XV, §1507(a), 90 Stat. 1584, 1646, 1649, 1739; Nov. 6, 1978, Pub. L. 95–600, title I, §141(f)(4), 92 Stat. 2795; Apr. 1, 1980, Pub. L. 96–222, title I, §101(a)(7)(L)(i)(VIII), (iv)(II), 94 Stat. 199, 200; July 18, 1984, Pub. L. 98–369, div. A, title I, §60(a), title II, §211(b)(20), 98 Stat. 577, 756; Oct. 22, 1986, Pub. L. 99–514, title X, §1024(c)(15), (16), title XVIII, §§1804(e)(1), (10), 1899A(35), 100 Stat. 2408,2800, 2804, 2960; Nov. 10, 1988, Pub. L. 100–647, title I, §1018(d)(10), 102 Stat. 3581; Nov. 5, 1990, Pub. L. 101–508, title XI, §11814(b), 104 Stat. 1388–557.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 369; Mar. 13, 1956, ch. 83, §5(8), 70 Stat. 49; Sept. 2, 1958, Pub. L. 85–866, title I, §64(d)(3), 72 Stat. 1657; June 25, 1959, Pub. L. 86–69, §3(f)(1), 73 Stat. 140; Sept. 23, 1959, Pub. L. 86–376, §2(c), 73 Stat. 699; Sept. 14, 1960, Pub. L. 86–779, §10(j), 74 Stat. 1009; Apr. 14,1966, Pub. L. 89–389, §4(b)(3), 80 Stat. 116; Dec. 30, 1969, Pub. L. 91–172, title I, §121(a)(4), 83 Stat. 537; Dec. 10, 1971, Pub. L. 92–178, title V, §502(e), 85 Stat. 550; Oct. 4, 1976, Pub. L. 94–455, title VIII, §803(b)(3), title X, §§1051(g), 1053(d)(2), title XV, §1507(a), 90 Stat. 1584, 1646, 1649, 1739; Nov. 6, 1978, Pub. L. 95–600, title I, §141(f)(4), 92 Stat. 2795; Apr. 1, 1980, Pub. L. 96–222, title I, §101(a)(7)(L)(i)(VIII), (iv)(II), 94 Stat. 199, 200; July 18, 1984, Pub. L. 98–369, div. A, title I, §60(a), title II, §211(b)(20), 98 Stat. 577, 756; Oct. 22, 1986, Pub. L. 99–514, title X, §1024(c)(15), (16), title XVIII, §§1804(e)(1), (10), 1899A(35), 100 Stat. 2408, 2800, 2804, 2960; Nov. 10, 1988, Pub. L. 100–647, title I, §1018(d)(10), 102 Stat. 3581; Nov. 5, 1990, Pub. L. 101–508, title XI, §11814(b), 104 Stat. 1388–557; Aug. 20, 1996, Pub. L. 104–188, title I, §§1308(d)(2), 1702(h)(6), 110 Stat. 1783, 1874.)
 
 #### References in Text
 
 Section 805(b)(2)(A) and (3) of the Tax Reform Act of 1984, referred to in subsec. (f)(1), (2), is section 805(b)(2)(A) and (3) of Pub. L. 98–369, which is set out as a note under section 991 of this title.
 
 #### Amendments
+
+1996—Subsec. (b)(8). Pub. L. 104–188, §1308(d)(2), added par. (8).
+
+Subsec. (c)(2)(B)(i). Pub. L. 104–188, §1702(h)(6), inserted “section” before “243(b)(2)”.
 
 1990—Subsec. (c)(2)(B)(i). Pub. L. 101–508, §11814(b), substituted “section 243(b)(3)” for “section 243(b)(6)” and “243(b)(2)” for “section 243(b)(5)”.
 
@@ -174,6 +180,12 @@ Subsec. (b)(8). Pub. L. 86–376 struck out par. (8) which excepted an electing 
 
 1956—Subsec. (b)(2), Act Mar. 13, 1956, inserted reference to section 811.
 
+#### Effective Date of 1996 Amendment
+
+Amendment by section 1308(d)(2) of Pub. L. 104–188 applicable to taxable years beginning after Dec. 31, 1996, see section 1317(a) of Pub. L. 104–188, set out as a note under section 641 of this title.
+
+Amendment by section 1702(h)(6) of Pub. L. 104–188 effective, except as otherwise expressly provided, as if included in the provision of the Revenue Reconciliation Act of 1990, Pub. L. 101–508, title XI, to which such amendment relates, see section 1702(i) of Pub. L. 104–188, set out as a note under section 38 of this title.
+
 #### Effective Date of 1990 Amendment
 
 Amendment by Pub. L. 101–508 applicable to taxable years beginning after Dec. 31, 1990, and for purposes of section 243(b)(3) of this title, references to elections under such section to include references to an election under section 243(b) of this title as in effect on Nov. 4, 1990, see section 11814(c) of Pub. L. 101–508, set out as a note under section 243 of this title.
@@ -184,7 +196,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1986 Amendment
 
-Amendment by section 1024(c)(15), (16) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 1024(e) of Pub. L. 99–514, set out as a note under section 831 of this title.
+Amendment by section 1024(c)(15), (16) of Pub. L. 99–514 applicable to taxable years beginning after Dec.31, 1986, see section 1024(e) of Pub. L. 99–514, set out as a note under section 831 of this title.
 
 Amendment by section 1804(e)(1), (10) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
@@ -262,7 +274,7 @@ Treatment of certain affiliated groups.—If—
 
 &emsp;“(C) such subsidiary is engaged (or was on September 27, 1985, engaged) in manufacturing and distributing a broad line of business systems and related supplies for binding, laminating, shredding, graphics, and providing secure identification,
 
-> then, for purposes of determining whether such subsidiary corporation is a member of the parent's affiliated group under section 1504(a) of the Internal Revenue Code of 1954 \[now 1986\] (as amended by subsection (a)), paragraph (2)(B) of such section 1504(a) shall be applied by substituting ‘55 percent’ for ‘80 percent’.
+> then, for purposes of determining whether such subsidiary corporation is a member of the parent's affiliated group under section 1504(a) of the Internal Revenue Code of 1954 \[now 1986\] (as amended by subsection (a)),paragraph (2)(B) of such section 1504(a) shall be applied by substituting ‘55 percent’ for ‘80 percent’.
 
 “(9)
 
@@ -350,7 +362,7 @@ In general.—Subsection (a) shall not apply to any loss (or credit) of any corp
 
 &emsp;&emsp;“(A) such corporation was in existence on April 26, 1988, and
 
-&emsp;&emsp;“(B) such loss (or credit) is used to offset income assigned (or attributable to property contributed) pursuant to a binding contract entered into before July 26, 1988.
+&emsp;&emsp;“(B) such loss (or credit) is used to offset income assigned (or attributable to property contributed)pursuant to a binding contract entered into before July 26, 1988.
 
 &emsp;“(2) $40,000,000
 
@@ -440,7 +452,5 @@ Deduction of employer contributions to profit-sharing plan of affiliated group, 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 59, 132, 133, 149, 163, 172, 243, 246A, 279, 280G, 281, 304, 312, 332, 336, 338, 355, 367, 382, 384, 404, 448, 465, 472, 542, 543, 584, 593, 805, 818, 832, 861, 864, 865, 904, 936, 952, 1042, 1092, 1313, 1361, 1503, 4216, 4282, 4612, 7701 of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should be followed by “section”.</i>
+This section is referred to in sections 59, 132, 149, 163, 172, 243, 246A, 279, 280G, 281, 304, 312, 332, 336, 338, 355, 367, 382, 384, 404, 448, 465, 472, 542, 543, 584, 593, 805, 818, 832, 861, 864, 865, 904, 936, 952, 1042, 1092, 1313, 1362, 1503, 4216, 4282, 4612, 7701 of this title.
 

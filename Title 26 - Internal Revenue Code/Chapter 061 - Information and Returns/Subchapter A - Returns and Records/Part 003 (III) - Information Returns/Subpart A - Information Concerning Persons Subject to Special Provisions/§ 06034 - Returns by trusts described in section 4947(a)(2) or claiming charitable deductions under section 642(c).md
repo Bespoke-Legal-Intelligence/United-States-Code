@@ -48,7 +48,7 @@ Amendment by Pub. L. 99–514 applicable to returns the due date for which (dete
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96–603 applicable to taxable years beginning after Dec. 31, 1980, see section 1(f) of Pub. L. 96–603, set out as a note under section 6033 of this title.
+Amendment by Pub. L. 96–603 applicable to taxable years beginning after Dec. 31, 1980, see section 1(f) ofPub. L. 96–603, set out as a note under section 6033 of this title.
 
 #### Effective Date of 1969 Amendment
 

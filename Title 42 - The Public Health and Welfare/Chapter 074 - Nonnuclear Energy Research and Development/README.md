@@ -39,7 +39,7 @@
 | (g) | to (i) Repealed. |
 | (j) | Small business status of applicant for waiver or licenses. |
 | (k) | Protection of invention, etc., rights by Secretary. |
-| (<i>l)</i> | Department of Energy as defense agency of United States for purpose of maintaining secrecy of inventions. |
+| (<i>l</i>) | Department of Energy as defense agency of United States for purpose of maintaining secrecy of inventions. |
 | (m) | Definitions. |
 | (n) | Report concerning applicability of existing patent policies to energy programs; time for submission to President and appropriate Congressional committees. |
 | [5909\.](%C2%A7%2005909%20-%20Relationship%20to%20antitrust%20laws.md) | Relationship to antitrust laws. |
@@ -61,10 +61,7 @@
 | [5915a.](%C2%A7%2005915a%20-%20Expiration%20of%20initial%20authorization%20to%20construct%20fossil%20energy%20demonstration%20plants.md) | Expiration of initial authorization to construct fossil energy demonstration plants. |
 | [5916\.](%C2%A7%2005916%20-%20Central%20source%20of%20nonnuclear%20energy%20information%3B%20acquisition%20of%20proprietary%20and%20other%20information%3B%20availability%20of%20information%20to%20public%E2%80%A6.md) | Central source of nonnuclear energy information; acquisition of proprietary and other information; availability of information to public, Government agencies, Federal agencies and agency heads for execution of duties and responsibilities, and chairmen of Congressional committees; disclosure restrictions. |
 | [5917\.](%C2%A7%2005917%20-%20Energy%20information.md) | Energy information. |
-| [5918\.](%C2%A7%2005918%20-%20Organizational%20conflicts.md) | Organizational conflicts. |
-| (a) | Conflicts of interest. |
-| (b) | Requisite affirmative finding; conflicts of interest which cannot be avoided; mitigation of conflicts. |
-| (c) | Publication of implementing rules. |
+| [5918\.](%C2%A7%2005918%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93106%2C%20div.%20D%2C%20title%20XLIII%2C%20%C2%A74304%28b%29%285%29%2C%20Feb.%2010%2C%201996%2C%20110%20Stat.%20664.md) | Repealed. |
 | [5919\.](%C2%A7%2005919%20-%20Loan%20guarantees%20and%20commitments%20for%20alternative%20fuel%20demonstration%20facilities.md) | Loan guarantees and commitments for alternative fuel demonstration facilities. |
 | (a) | Statement of purpose. |
 | (b) | Issuance of obligations for alternative fuel conversion facilities; terms and conditions; rules and regulations; informational requirements; concurrence of Secretary of Treasury to terms and conditions; pledge of full faith and credit of United States; cooperative agreements for construction, etc., of modular facilities; bidding practices. |
@@ -77,10 +74,10 @@
 | (i) | Time for issuance of regulations; procedures applicable to issuance of regulations and amendments. |
 | (j) | Fees for guarantees of obligations; determination of amounts; excepted guarantees. |
 | (k) | Community development and planning assistance guarantees; terms and conditions; rules and regulations; concurrence of Secretary of Treasury to terms and conditions; payment of taxes in event of default by borrower; additional direct loans and grants; redemption of debt obligations; funding requirements and authorizations; facility title vesting and status upon default. |
-| (<i>l)</i> | Annual reporting requirements; contents, etc. |
+| (<i>l</i>) | Annual reporting requirements; contents, etc. |
 | (m) | Congressional finalization of guarantee, etc., subsequent to report to Congressional committees; scope of authority. |
 | (n) | Revolving fund; creation; funding; payments and transfers to general fund of Treasury; issuance, redemption, etc., of notes or obligations; applicability to direct loans or planning grants. |
-| (<i>o)</i> | Definitions. |
+| (<i>o</i>) | Definitions. |
 | (p) | Citizenship or nationality requirements for applicants; waiver. |
 | (q) | Transfer of part of program to other agency or authority. |
 | (r) | Statutory provisions applicable to inventions. |
@@ -103,7 +100,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 5903d, 5907a, 6981, 7135a, 8837, 13435, 13541 of this title; title 7 sections 341, 427, 1923, 1932, 1942; title 15 sections 2507, 2705, 5103, 5303.
+This chapter is referred to in sections 5903d, 5907a, 6981, 7135a, 8837, 13435, 13541 of this title; title 7 sections 341, 427, 1932; title 15 sections 2507, 2705, 5103, 5303.
 
 
 ---
@@ -133,6 +130,6 @@ This chapter is referred to in sections 5903d, 5907a, 6981, 7135a, 8837, 13435, 
 - [&sect; 05915a - Expiration of initial authorization to construct fossil energy demonstration plants](%C2%A7%2005915a%20-%20Expiration%20of%20initial%20authorization%20to%20construct%20fossil%20energy%20demonstration%20plants.md)
 - [&sect; 05916 - Central source of nonnuclear energy information; acquisition of proprietary and other information; availability of information to public&#8230;](%C2%A7%2005916%20-%20Central%20source%20of%20nonnuclear%20energy%20information%3B%20acquisition%20of%20proprietary%20and%20other%20information%3B%20availability%20of%20information%20to%20public%E2%80%A6.md)
 - [&sect; 05917 - Energy information](%C2%A7%2005917%20-%20Energy%20information.md)
-- [&sect; 05918 - Organizational conflicts](%C2%A7%2005918%20-%20Organizational%20conflicts.md)
+- [&sect; 05918 - Repealed. Pub. L. 104&#8211;106, div. D, title XLIII, &sect;4304(b)(5), Feb. 10, 1996, 110 Stat. 664](%C2%A7%2005918%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93106%2C%20div.%20D%2C%20title%20XLIII%2C%20%C2%A74304%28b%29%285%29%2C%20Feb.%2010%2C%201996%2C%20110%20Stat.%20664.md)
 - [&sect; 05919 - Loan guarantees and commitments for alternative fuel demonstration facilities](%C2%A7%2005919%20-%20Loan%20guarantees%20and%20commitments%20for%20alternative%20fuel%20demonstration%20facilities.md)
 - [&sect; 05920 - Financial support program for municipal waste reprocessing demonstration facilities](%C2%A7%2005920%20-%20Financial%20support%20program%20for%20municipal%20waste%20reprocessing%20demonstration%20facilities.md)

@@ -2,17 +2,21 @@
 
 (a)
 
-Gas.—Not more than the following amounts may be appropriated to the Secretary of Transportation to carry out this chapter (except sections 60107 and 60114(b)) related to gas:
+Gas and Hazardous Liquid.—To carry out this chapter (except for sections 60107 and 60114(b)) <sup>1</sup> related to gas and hazardous liquid, there are authorized to be appropriated to the Department of Transportation—
 
-&emsp;(1) $6,857,000 for the fiscal year ending September 30, 1993.
+&emsp;(1) $19,448,000 for fiscal year 1996;
 
-&emsp;(2) $7,000,000 for the fiscal year ending September 30, 1994.
+&emsp;(2) $20,028,000 for fiscal year 1997, of which $14,600,000 is to be derived from user fees for fiscal year 1997 collected under section 60301 of this title;
 
-&emsp;(3) $7,500,000 for the fiscal year ending September 30, 1995.
+&emsp;(3) $20,729,000 for fiscal year 1998, of which $15,100,000 is to be derived from user fees for fiscal year 1998 collected under section 60301 of this title;
+
+&emsp;(4) $21,442,000 for fiscal year 1999, of which $15,700,000 is to be derived from user fees for fiscal year 1999 collected under section 60301 of this title; and
+
+&emsp;(5) $22,194,000 for fiscal year 2000, of which $16,300,000 is to be derived from user fees for fiscal year 2000 collected under section 60301 of this title.
 
 (b)
 
-Hazardous Liquid.—Not more than the following amounts may be appropriated to the Secretary to carry out this chapter (except sections 60107 and 60114(b)) related to hazardous liquid:
+Hazardous Liquid.—Not more than the following amounts may be appropriated to the Secretary to carry out this chapter (except sections 60107 and 60114(b)) <sup>1</sup> related to hazardous liquid:
 
 &emsp;(1) $1,728,500 for the fiscal year ending September 30, 1993.
 
@@ -30,13 +34,23 @@ State Grants.—(1) Not more than the following amounts may be appropriated to t
 
 &emsp;(C) $10,000,000 for the fiscal year ending September 30, 1995.
 
+&emsp;(D) $12,000,000 for fiscal year 1996.
+
+&emsp;(E) $14,000,000 for fiscal year 1997, of which $12,500,000 is to be derived from user fees for fiscal year 1997 collected under section 60301 of this title.
+
+&emsp;(F) $14,490,000 for fiscal year 1998, of which $12,900,000 is to be derived from user fees for fiscal year 1998 collected under section 60301 of this title.
+
+&emsp;(G) $15,000,000 for fiscal year 1999, of which $13,300,000 is to be derived from user fees for fiscal year 1999 collected under section 60301 of this title.
+
+&emsp;(H) $15,524,000 for fiscal year 2000, of which $13,700,000 is to be derived from user fees for fiscal year 2000 collected under section 60301 of this title.
+
 (2) At least 5 percent of amounts appropriated to carry out United States Government grants-in-aid programs for a fiscal year are available only to carry out section 60107 of this title related to hazardous liquid.
 
 (3) Not more than 20 percent of a pipeline safety program grant under section 60107 of this title may be allocated to indirect expenses.
 
 (d)
 
-Grants for One-Call Notification Systems.—Not more than $\_\_\_\_\_\_\_\_\_\_ may be appropriated to the Secretary for the fiscal year ending September 30, 19\_\_, to carry out section 60114(b) of this title. Amounts under this subsection remain available until expended.
+Grants for One-Call Notification Systems.—Not more than $\_\_\_\_\_\_\_\_\_\_ may be appropriated to the Secretary for the fiscal year ending September 30, 19\_\_, to carry out section 60114(b) <sup>1</sup> of this title. Amounts under this subsection remain available until expended.
 
 (e)
 
@@ -58,11 +72,13 @@ Availability of Unused Amounts for Grants.—(1) The Secretary shall make availa
 
 (5) Amounts under this subsection remain available until expended.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1327.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1327; Pub. L. 104–304, §21, Oct. 12, 1996, 110 Stat. 3805.)
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -125,4 +141,26 @@ In subsection (c)(3), the words “the amount of” are omitted as surplus. The 
 In subsection (e), the text of 49 App.:1684(a) (last sentence) is omitted as expired.
 
 In subsection (f)(5), the words “made available” are omitted as surplus.
+
+#### References in Text
+
+Section 60114(b) of this title, referred to in subsecs. (a), (b), and (d), which related to grants to States to establish one-call notification systems, was repealed and section 60114(c) was redesignated section 60114(b) by Pub. L. 104–304, §20(d)(2), (3), Oct. 12, 1996, 110 Stat. 3804.
+
+#### Amendments
+
+1996—Subsec. (a). Pub. L. 104–304, §21(a)(1), added subsec. (a) and struck out former subsec. (a) which read as follows:
+
+“(a)
+
+Gas.—Not more than the following amounts may be appropriated to the Secretary of Transportation to carry out this chapter (except sections 60107 and 60114(b)) related to gas:
+
+&emsp;“(1) $6,857,000 for the fiscal year ending September 30, 1993.
+
+&emsp;“(2) $7,000,000 for the fiscal year ending September 30, 1994.
+
+&emsp;“(3) $7,500,000 for the fiscal year ending September 30, 1995.”
+
+Subsec. (c)(1). Pub. L. 104–304, §21(b), added subpars. (D) to (H).
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

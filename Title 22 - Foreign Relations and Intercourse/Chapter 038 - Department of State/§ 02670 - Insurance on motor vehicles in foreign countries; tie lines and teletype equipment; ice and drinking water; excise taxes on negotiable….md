@@ -40,7 +40,7 @@ Subsec. (e) of this section, relating to the payment of the actual expenses of p
 
 1994—Subsec. (m). Pub. L. 103–236 added subsec. (m).
 
-1991—Subsec. (<i>l</i>). Pub. L. 102–138 added subsec. (<i>l).</i>
+1991—Subsec. (<i>l</i>). Pub. L. 102–138 added subsec. (<i>l</i>).
 
 1987—Subsec. (k). Pub. L. 100–204 added subsec. (k).
 
@@ -50,7 +50,7 @@ Subsec. (e) of this section, relating to the payment of the actual expenses of p
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–236 applicable with respect to officials, offices, and bureaus of Department ofState when executive orders, regulations, or departmental directives implementing the amendments by sections 161 and 162 of Pub. L. 103–236 become effective, or 90 days after Apr. 30, 1994, whichever comes earlier, see section 161(b) of Pub. L. 103–236, as amended, set out as a note under section 2651a of this title.
+Amendment by Pub. L. 103–236 applicable with respect to officials, offices, and bureaus of Department of State when executive orders, regulations, or departmental directives implementing the amendments by sections 161 and 162 of Pub. L. 103–236 become effective, or 90 days after Apr. 30, 1994, whichever comes earlier, see section 161(b) of Pub. L. 103–236, as amended, set out as a note under section 2651a of this title.
 
 #### Effective Date of 1978 Amendment
 

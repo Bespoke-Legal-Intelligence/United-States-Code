@@ -4,9 +4,11 @@
 
 General.—Except as provided in subsection (b) of this section, the United States Government's share of allowable project costs is—
 
-&emsp;(1) 75 percent for a project at a primary airport having at least .25 percent of the total number of passenger boardings each year at all commercial service airports; and
+&emsp;(1) 75 percent for a project at a primary airport having at least .25 percent of the total number of passenger boardings each year at all commercial service airports;
 
-&emsp;(2) 90 percent for a project at any other airport.
+&emsp;(2) 90 percent for a project at any other airport; and
+
+&emsp;(3) 40 percent for a project funded by the Administrator from the discretionary fund under section 47115 at an airport receiving an exemption under section 47134.
 
 (b)
 
@@ -18,11 +20,17 @@ Increased Government Share.—If, under subsection (a) of this section, the Gove
 
 &emsp;(3) the percentage necessary to increase the Government's share to the percentage that applied on June 30, 1975, under section 17(b) of the Act.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1264; Pub. L. 103–305, title I, §114, Aug. 23, 1994, 108 Stat. 1579.)
+(c)
+
+Special Rule for Privately Owned Reliever Airports.—If a privately owned reliever airport contributes any lands, easements, or rights-of-way to carry out a project under this subchapter, the current fair market value of such lands, easements, or rights-of-way shall be credited toward the non-Federal share of allowable project costs.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1264; Pub. L. 103–305, title I, §114, Aug. 23, 1994, 108 Stat. 1579; Pub. L. 104–264, title I, §149(c), title XII, §1211, Oct. 9, 1996, 110 Stat. 3227, 3282.)
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -56,11 +64,19 @@ Section 17(b) of the Airport and Airway Development Act of 1970, referred to in 
 
 #### Amendments
 
+1996—Subsec. (a)(3). Pub. L. 104–264, §149(c), added par. (3).
+
+Subsec. (c). Pub. L. 104–264, §1211, added subsec. (c).
+
 1994—Subsec. (a). Pub. L. 103–305, §114(1), substituted “subsection (b)” for “subsections (b) and (c)”.
 
 Subsec. (c). Pub. L. 103–305, §114(2), struck out subsec. (c) which read as follows: “(c)
 
 Limitation.—Notwithstanding subsections (a) and (b) of this section, the Government's share of project costs allowable under section 47110(d) of this title may not be more than 75 percent, except that the Government's share shall be 85 percent for a project at a commercial service airport that does not have more than .05 percent of the total annual passenger boardings in the United States.”
+
+#### Effective Date of 1996 Amendment
+
+Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
 
 #### Section Referred to in Other Sections
 

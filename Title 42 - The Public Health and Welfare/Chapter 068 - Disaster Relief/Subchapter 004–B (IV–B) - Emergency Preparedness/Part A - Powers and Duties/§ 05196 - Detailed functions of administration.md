@@ -124,5 +124,5 @@ Pub. L. 96–342, title VII, §704, Sept. 8, 1980, 94 Stat. 1090, provided that:
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 5132, 5195a, 5195b of this title.
+This section is referred to in sections 5132, 5195a, 5195b of this title; title 50 sections 2314, 2317.
 

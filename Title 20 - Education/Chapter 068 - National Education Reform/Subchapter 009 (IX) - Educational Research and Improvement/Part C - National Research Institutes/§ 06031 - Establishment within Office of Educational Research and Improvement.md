@@ -32,7 +32,7 @@ In order to fulfill the research and development purposes of the Office, and to 
 
 &emsp;&emsp;(A) directly;
 
-&emsp;&emsp;(B) through grants, contracts, and cooperative agreements with institutions of highereducation, regional educational laboratories, public and private organizations, institutions, agencies, and individuals, or a consortium thereof, which may include—
+&emsp;&emsp;(B) through grants, contracts, and cooperative agreements with institutions of higher education, regional educational laboratories, public and private organizations, institutions, agencies, and individuals, or a consortium thereof, which may include—
 
 &emsp;&emsp;&emsp;(i) grants to support research and development centers which are—
 
@@ -70,7 +70,7 @@ In order to fulfill the research and development purposes of the Office, and to 
 
 &emsp;&emsp;(A) maintain an appropriate balance between applied and basic research;
 
-&emsp;&emsp;(B) significantly expand the role of field-initiated research in meeting the education research and development needs of the United States by reserving not less than 20 percent of the amounts available to each Institute in fiscal years 1996 and 1997 and 25 percent in fiscal years 1998 and 1999 to support field-initiated research;
+&emsp;&emsp;(B) significantly expand the role of field-initiated research in meeting the education research and development needs of the United States by reserving not less than 20percent of the amounts available to each Institute in fiscal years 1996 and 1997 and 25 percent in fiscal years 1998 and 1999 to support field-initiated research;
 
 &emsp;&emsp;(C) provide for and maintain a stable foundation of long-term research and development on core issues and concerns conducted through university-based research and development centers by reserving not less than one-third of the amounts available to each Institute in any fiscal year to support such research and development centers;
 
@@ -256,7 +256,7 @@ In order to fulfill the research and development purposes of the Office, and to 
 
 &emsp;&emsp;(D) An educational emergency exists in those urban and rural areas where there are large concentrations of children who live in poverty. The numbers of disadvantaged children will substantially increase by the year 2020, when the number of impoverished children alone will be 16,500,000, a 33 percent increase over the 12,400,000 children in poverty in 1987.
 
-&emsp;&emsp;(E) American Indian and Alaska Native students have high dropout, illiteracy and poverty rates, and experience cultural, linguistic, social and geographic isolation. The estimated 400,000 Indian and Alaska Native student population from over 500 Indian and Alaska Native tribes, is small and scattered throughout remote reservations and villages in 32 States, and in off-reservation rural and urban communities where Indians constitute but a small percentage of public school student bodies. To meaningfully address the special educational needs of this historically under-served population, the existing research and development system should be opened to Indian and Alaska Native people to identify needs and design ways to address such needs.
+&emsp;&emsp;(E) American Indian and Alaska Native students have high dropout, illiteracy and poverty rates, and experience cultural, linguistic, social and geographic isolation. The estimated 400,000 Indian and Alaska Native student population from over 500 Indian and Alaska Native tribes, is small and scattered throughout remote reservations and villages in 32 States, and in off-reservation rural and urban communities where Indians constitute but a small percentage of public school student bodies. To meaningfully address the special educational needs of this historically under-served population, the existing research and development system should beopened to Indian and Alaska Native people to identify needs and design ways to address such needs.
 
 &emsp;&emsp;(F) Minority scholars as well as institutions and groups that have been historically committed to the improvement of the education of at-risk students need to be more fully mobilized in the effort to develop a new generation of programs, models, practices, and schools capable of responding to the urgent needs of students who are educationally at-risk.
 
@@ -276,7 +276,7 @@ In order to fulfill the research and development purposes of the Office, and to 
 
 &emsp;&emsp;&emsp;(v) methods to improve the quality of the education of American Indian and Alaska Native students not only in schools funded by the Bureau, but also in public elementary and secondary schools located on or near Indian reservations, including—
 
-&emsp;&emsp;&emsp;&emsp;(I) research on mechanisms to facilitate the establishment of tribal departments of education that assume responsibility for all education programs of State educational agencies operating onan Indian reservation and all education programs funded by the Bureau on an Indian reservation;
+&emsp;&emsp;&emsp;&emsp;(I) research on mechanisms to facilitate the establishment of tribal departments of education that assume responsibility for all education programs of State educational agencies operating on an Indian reservation and all education programs funded by the Bureau on an Indian reservation;
 
 &emsp;&emsp;&emsp;&emsp;(II) research on the development of culturally appropriate curriculum for American Indian and Alaska Native students, including American Indian and Alaska Native culture, language, geography, history and social studies, and graduation requirements related to such curriculum;
 
@@ -532,7 +532,7 @@ In order to fulfill the research and development purposes of the Office, and to 
 
 #### (i) Coordination and research synthesis
 
-The Assistant Secretary shall promote and provide for research syntheses and the coordination of research and development activities among the Institutes established by this section to investigate those cross-cutting disciplines and areas of inquiry which are relevant to the missions of more than one of the Institutes. Such activities—
+The Assistant Secretary shall promote and provide for research syntheses and the coordination of research and development activities among the Institutes established by this section to investigate those cross-cutting disciplinesand areas of inquiry which are relevant to the missions of more than one of the Institutes. Such activities—
 
 &emsp;(1) may be carried out jointly by any one of the Institutes and—
 

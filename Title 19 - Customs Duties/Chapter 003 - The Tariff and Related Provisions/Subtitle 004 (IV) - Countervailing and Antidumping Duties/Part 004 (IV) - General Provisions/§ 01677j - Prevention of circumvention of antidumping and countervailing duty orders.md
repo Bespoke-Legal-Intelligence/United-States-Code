@@ -150,7 +150,7 @@
 
 &emsp;Before making a determination—
 
-&emsp;&emsp;(A) under subsection (a) of this section with respect to merchandise completed or assembled in the United States (other than minor completion or assembly),
+&emsp;&emsp;(A) under subsection (a) of this section with respect to merchandise completed orassembled in the United States (other than minor completion or assembly),
 
 &emsp;&emsp;(B) under subsection (b) of this section with respect to merchandise completed or assembled in other foreign countries, or
 

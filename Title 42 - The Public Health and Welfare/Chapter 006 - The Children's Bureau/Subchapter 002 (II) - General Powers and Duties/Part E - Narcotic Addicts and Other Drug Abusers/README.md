@@ -4,6 +4,8 @@ Part E—Narcotic Addicts and Other Drug Abusers
 
 1970—Pub. L. 91–513, title I, §2(a)(6), Oct. 27, 1970, 84 Stat. 1240, inserted reference to Other Drug Abusers in part heading.
 
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
 
 ---
 

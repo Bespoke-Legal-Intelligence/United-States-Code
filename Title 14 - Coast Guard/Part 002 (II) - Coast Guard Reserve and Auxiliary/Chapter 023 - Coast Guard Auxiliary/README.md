@@ -2,9 +2,10 @@
 
 | Sec. |  |
 | :--- | ---: |
-| [821\.](%C2%A7%2000821%20-%20Administration.md) | Administration. |
-| [822\.](%C2%A7%2000822%20-%20Purpose.md) | Purpose. |
+| [821\.](%C2%A7%2000821%20-%20Administration%20of%20the%20Coast%20Guard%20Auxiliary.md) | Administration of the Coast Guard Auxiliary. |
+| [822\.](%C2%A7%2000822%20-%20Purpose%20of%20the%20Coast%20Guard%20Auxiliary.md) | Purpose of the Coast Guard Auxiliary. |
 | [823\.](%C2%A7%2000823%20-%20Eligibility%2C%20enrollments.md) | Eligibility, enrollments. |
+| [823a.](%C2%A7%2000823a%20-%20Members%20of%20the%20Auxiliary%3B%20status.md) | Members of the Auxiliary; status. |
 | [824\.](%C2%A7%2000824%20-%20Disenrollment.md) | Disenrollment. |
 | [825\.](%C2%A7%2000825%20-%20Membership%20in%20other%20organizations.md) | Membership in other organizations. |
 | [826\.](%C2%A7%2000826%20-%20Use%20of%20member%27s%20facilities.md) | Use of member's facilities. |
@@ -17,18 +18,23 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### Amendments
+
+1996—Pub. L. 104–324, title IV, §§401(b), 402(b), 403(b), Oct. 19, 1996, 110 Stat. 3923, 3924, inserted “of the Coast Guard Auxiliary” after “Administration” in item 821, inserted “of the Coast Guard Auxiliary” after “Purpose” in item 822, and added item 823a.
+
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in title 46 section 13109.
+This chapter is referred to in section 141 of this title; title 46 section 13109.
 
 
 ---
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 00821 - Administration](%C2%A7%2000821%20-%20Administration.md)
-- [&sect; 00822 - Purpose](%C2%A7%2000822%20-%20Purpose.md)
+- [&sect; 00821 - Administration of the Coast Guard Auxiliary](%C2%A7%2000821%20-%20Administration%20of%20the%20Coast%20Guard%20Auxiliary.md)
+- [&sect; 00822 - Purpose of the Coast Guard Auxiliary](%C2%A7%2000822%20-%20Purpose%20of%20the%20Coast%20Guard%20Auxiliary.md)
 - [&sect; 00823 - Eligibility, enrollments](%C2%A7%2000823%20-%20Eligibility%2C%20enrollments.md)
+- [&sect; 00823a - Members of the Auxiliary; status](%C2%A7%2000823a%20-%20Members%20of%20the%20Auxiliary%3B%20status.md)
 - [&sect; 00824 - Disenrollment](%C2%A7%2000824%20-%20Disenrollment.md)
 - [&sect; 00825 - Membership in other organizations](%C2%A7%2000825%20-%20Membership%20in%20other%20organizations.md)
 - [&sect; 00826 - Use of member's facilities](%C2%A7%2000826%20-%20Use%20of%20member%27s%20facilities.md)

@@ -139,6 +139,7 @@
 - [10](10.md)
 - [Subchapter 001 (I) - Consumer Credit Cost Disclosure](Subchapter%20001%20%28I%29%20-%20Consumer%20Credit%20Cost%20Disclosure/README.md)
 - [Subchapter 002 (II) - Restrictions on Garnishment](Subchapter%20002%20%28II%29%20-%20Restrictions%20on%20Garnishment/README.md)
+- [Subchapter 002&#8211;A (II&#8211;A) - Credit Repair Organizations](Subchapter%20002%E2%80%93A%20%28II%E2%80%93A%29%20-%20Credit%20Repair%20Organizations/README.md)
 - [Subchapter 003 (III) - Credit Reporting Agencies](Subchapter%20003%20%28III%29%20-%20Credit%20Reporting%20Agencies/README.md)
 - [Subchapter 004 (IV) - Equal Credit Opportunity](Subchapter%20004%20%28IV%29%20-%20Equal%20Credit%20Opportunity/README.md)
 - [Subchapter 005 (V) - Debt Collection Practices](Subchapter%20005%20%28V%29%20-%20Debt%20Collection%20Practices/README.md)

@@ -16,5 +16,5 @@ This section consolidates the provisions relating to damages in R.S. 4919 and 49
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 154, 157, 296 of this title.
+This section is referred to in sections 154, 157, 287, 296 of this title.
 

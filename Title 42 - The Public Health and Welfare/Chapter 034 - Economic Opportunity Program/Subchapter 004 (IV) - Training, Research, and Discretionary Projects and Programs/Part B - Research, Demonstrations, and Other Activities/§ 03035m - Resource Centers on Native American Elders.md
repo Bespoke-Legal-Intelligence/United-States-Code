@@ -32,7 +32,7 @@ The Assistant Secretary shall make grants or enter into contracts with not fewer
 
 #### (c) Preference
 
-In awarding grants and entering into contracts under subsection (a) of this section, the Assistant Secretary shall give preference to institutions of higher education that have conducted research on, and assessment of, the characteristics and needs of Native Americans who are older individuals.
+In awarding grants and entering into contracts under subsection (a) of this section, theAssistant Secretary shall give preference to institutions of higher education that have conducted research on, and assessment of, the characteristics and needs of Native Americans who are older individuals.
 
 #### (d) Consultation
 

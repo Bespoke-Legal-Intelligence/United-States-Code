@@ -42,7 +42,9 @@ The determination of the amount of a loan by an eligible institution under subse
 
 &emsp;&emsp;&emsp;(ii) if such student is enrolled in a program of undergraduate education, the remainder of which is less than one academic year, the maximum annual loan amount that such student may receive may not exceed the amount that bears the same ratio to the amount specified in subclause (I) as such remainder measured in semester, trimester, quarter, or clock hours bears to one academic year;
 
-&emsp;&emsp;(C) in the case of such a student who is a graduate or professional student attending an eligible institution, $10,000.
+&emsp;&emsp;(C) in the case of such a student who is a graduate or professional student attending an eligible institution, $10,000;
+
+> &emsp;except in cases where the Secretary determines,<sup>1</sup> that a higher amount is warranted in order to carry out the purpose of this part with respect to students engaged in specialized training requiring exceptionally high costs of education, but the annual insurable limit per student shall not be deemed to be exceeded by a line of credit under which actual payments by the lender to the borrower will not be made in any years in excess of the annual limit.
 
 #### (3) Aggregate limits for independent, graduate, and professional students
 
@@ -104,19 +106,21 @@ The determination of the amount of a loan by an eligible institution under subse
 
 #### (g) Single application form and loan repayment schedule
 
-A guaranty agency shall use a single application form and a single repayment schedule forsubsidized Federal Stafford loans made pursuant to section 1078 of this title and for unsubsidized Federal Stafford loans made pursuant to this section.
+A guaranty agency shall use a single application form and a single repayment schedule for subsidized Federal Stafford loans made pursuant to section 1078 of this title and for unsubsidized Federal Stafford loans made pursuant to this section.
 
 #### (h) Insurance premium
 
 Each State or nonprofit private institution or organization having an agreement with the Secretary under section 1078(b)(1) of this title may charge a borrower under this section an insurance premium equal to not more than 1.0 percent of the principal amount of the loan, if such premium will not be used for incentive payments to lenders.
 
-(Pub. L. 89–329, title IV, §428H, as added Pub. L. 102–325, title IV, §422, July 23, 1992, 106 Stat. 535; amended Pub. L. 103–66, title IV, §§4047(a), 4102(b), Aug. 10, 1993, 107 Stat. 363, 366; Pub. L. 103–208, §2(c)(42)–(45), Dec. 20, 1993, 107 Stat. 2466, 2467.)
+(Pub. L. 89–329, title IV, §428H, as added Pub. L. 102–325, title IV, §422, July 23, 1992, 106 Stat. 535; amended Pub. L. 103–66, title IV, §§4047(a), 4102(b), Aug. 10, 1993, 107 Stat. 363, 366; Pub. L. 103–208, §2(c)(42)–(45), Dec. 20, 1993, 107 Stat. 2466, 2467; Pub. L. 104–134, title I, §101(d) \[title V, §514(a)\], Apr. 26, 1996, 110 Stat. 1321–211, 1321–245; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.)
 
 #### Codification
 
 Amendments by section 2(c)(42), (45) of Pub. L. 103–208 (which were effective as if included in Pub. L. 102–325) were executed to this section as amended by Pub. L. 102–325 and Pub. L. 103–66, to reflect the probable intent of Congress.
 
 #### Amendments
+
+1996—Subsec. (d)(2). Pub. L. 104–134 substituted semicolon for period at end of subpar. (C) and inserted concluding provisions.
 
 1993—Subsec. (b). Pub. L. 103–66, §4047(a)(1), inserted “(including graduate and professional students as defined in regulations promulgated by the Secretary)” in introductory provisions.
 
@@ -130,7 +134,7 @@ Subsec. (d)(2)(B). Pub. L. 103–208, §2(c)(42), amended subpar. (B) generally.
 
 &emsp;“(iii) $1,675, if such student is enrolled in a program whose length is less than 2/3, but at least 1/3, of such an academic year; and”. See Codification note above.
 
-Subsec. (e)(1). Pub. L. 103–208, §2(c)(43), substituted “shall begin at the beginning of the repayment period described in section 1078(b)(7) of this title.” for “shall commence 6 months after the month in which the student ceases to carry at least one-half the normal full-time workload as determined by the institution.” and inserted at end “Not less than 30 days prior to the anticipated commencement of such repayment period, the holder of such loan shall provide notice to the borrower that interest will accrue before repayment begins and of the borrower's option to begin loan repayment at an earlier date.”
+Subsec. (e)(1). Pub. L. 103–208, §2(c)(43), substituted “shall begin at the beginning of the repayment perioddescribed in section 1078(b)(7) of this title.” for “shall commence 6 months after the month in which the student ceases to carry at least one-half the normal full-time workload as determined by the institution.” and inserted at end “Not less than 30 days prior to the anticipated commencement of such repayment period, the holder of such loan shall provide notice to the borrower that interest will accrue before repayment begins and of the borrower's option to begin loan repayment at an earlier date.”
 
 Subsec. (e)(4). Pub. L. 103–208, §2(c)(44), substituted “section 1077a” for “section 1077a(e)”.
 
@@ -152,7 +156,11 @@ Subsec. (h). Pub. L. 103–208, §2(c)(45), redesignated subsec. (<i>l</i>) as (
 
 Subsec. (<i>l</i>). Pub. L. 103–208, §2(c)(45), redesignated subsec. (<i>l</i>) as (h). See Codification note above.
 
-Pub. L. 103–66, §4102(b)(2), added subsec. (<i>l).</i>
+Pub. L. 103–66, §4102(b)(2), added subsec. (<i>l</i>).
+
+#### Effective Date of 1996 Amendment
+
+Section 101(d) \[title V, §514(b)\] of Pub. L. 104–134 provided that: “The amendments made by subsection (a) \[amending this section\] shall be effective for loans made to cover the cost of instruction for periods of enrollment beginning on or after July 1, 1996.”
 
 #### Effective Date of 1993 Amendments
 
@@ -173,4 +181,6 @@ Section 4047(c) of Pub. L. 103–66 provided that: “Notwithstanding the amendm
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 1077a, 1078, 1078–1, 1083, 1085, 1087, 1087–1, 1087d, 1087e, 1091 of this title.
+
+<i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
 

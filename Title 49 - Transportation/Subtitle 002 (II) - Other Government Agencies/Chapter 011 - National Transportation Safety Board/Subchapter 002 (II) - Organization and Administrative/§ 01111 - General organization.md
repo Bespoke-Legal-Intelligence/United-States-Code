@@ -50,7 +50,9 @@ Seal.—The Board shall have a seal that shall be judicially recognized.
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -94,7 +96,7 @@ Jan. 3, 1975, Pub. L. 93–633, §303(b)(1), 88 Stat. 2167; Oct. 14, 1982, Pub. 
 
 In subsection (a), the words “previously established within the Department of Transportation” are omitted as unnecessary. The words “in accordance with this section, on and after April 1, 1975” are omitted as executed.
 
-In subsection (c), the words “except as otherwise provided in this paragraph” are omitted as surplus. The text of 49 App.:1902(b)(2) (4th sentence) is omitted as executed.
+In subsection (c), the words “except as otherwise provided in this paragraph” are omitted as surplus. Thetext of 49 App.:1902(b)(2) (4th sentence) is omitted as executed.
 
 In subsection (d), the words “On or before January 1, 1976” are omitted as executed. The words “(and thereafter as required)” and “(hereafter in this chapter referred to as the ‘Chairman’)” are omitted as unnecessary.
 

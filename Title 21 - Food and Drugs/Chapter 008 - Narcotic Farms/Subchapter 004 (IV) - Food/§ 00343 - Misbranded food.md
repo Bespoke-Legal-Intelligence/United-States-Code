@@ -40,7 +40,7 @@ If it purports to be or is represented as—
 
 #### (i) Label where no representation as to definition and standard of identity
 
-Unless its label bears (1) the common or usual name of the food, if any there be, and (2) in case it is fabricated from two or more ingredients, the common or usual name of each such ingredient and if the food purports to be a beverage containing vegetable or fruit juice, a statement with appropriate prominence on the information panel of the total percentage of such fruit or vegetable juice contained in the food; except that spices, flavorings, and colors not required to be certified under section 379e(c) of this title <sup>1</sup> unless sold as spices, flavorings, or such colors, may be designated as spices, flavorings, and colorings without naming each. To the extent that compliance with the requirements of clause (2) of this paragraph is impracticable, or resultsin deception or unfair competition, exemptions shall be established by regulations promulgated by the Secretary.
+Unless its label bears (1) the common or usual name of the food, if any there be, and (2) in caseit is fabricated from two or more ingredients, the common or usual name of each such ingredient and if the food purports to be a beverage containing vegetable or fruit juice, a statement with appropriate prominence on the information panel of the total percentage of such fruit or vegetable juice contained in the food; except that spices, flavorings, and colors not required to be certified under section 379e(c) of this title <sup>1</sup> unless sold as spices, flavorings, or such colors, may be designated as spices, flavorings, and colorings without naming each. To the extent that compliance with the requirements of clause (2) of this paragraph is impracticable, or results in deception or unfair competition, exemptions shall be established by regulations promulgated by the Secretary.
 
 #### (j) Representation for special dietary use
 
@@ -68,15 +68,7 @@ If its packaging or labeling is in violation of an applicable regulation issued 
 
 (2) The Secretary may by regulation review and revise or remove the requirement of subparagraph (1) if the Secretary determines such action is necessary to reflect the current state of knowledge concerning saccharin.
 
-#### (p) Saccharin not for immediate consumption
-
-(1) If it contains saccharin and is offered for sale, but not for immediate consumption, at a retail establishment, unless such retail establishment displays prominently, where such food is held for sale, notice (provided by the manufacturer of such food pursuant to subparagraph (2) for consumers respecting the information required by paragraph (<i>o</i>) to be on food labels and labeling.
-
-(2) Each manufacturer of food which contains saccharin and which is offered for sale by retail establishments but not for immediate consumption shall, in accordance with regulations promulgated by the Secretary pursuant to subparagraph (4), take such action as may be necessary to provide such retail establishments with the notice required by subparagraph (1).
-
-(3) The Secretary may by regulation review and revise or remove the requirement of subparagraph (1) if he determines such action is necessary to reflect the current state of knowledge concerning saccharin.
-
-(4) The Secretary shall by regulation prescribe the form, text, and manner of display of the notice required by subparagraph (1) and such other matters as may be required for the implementation of the requirements of that subparagraph and subparagraph (2). Regulations of the Secretary under this subparagraph shall be promulgated after an oral hearing but without regard to the National Environmental Policy Act of 1969 \[42 U.S.C. 4321 et seq.\] and chapter 5 of title 5. In any action brought for judicial review of any such regulation, the reviewing court may not postpone the effective date of such regulation.
+#### (p) Repealed. Pub. L. 104–124, §1, Apr. 1, 1996, 110 Stat. 882
 
 #### (q) Nutrition information
 
@@ -138,7 +130,7 @@ If its packaging or labeling is in violation of an applicable regulation issued 
 
 &emsp;(i) which is served in restaurants or other establishments in which food is served for immediate human consumption or which is sold for sale or use in such establishments,
 
-&emsp;(ii) which is processed and prepared primarily in a retail establishment, which is ready for human consumption, which is of the type described in subclause (i), and which is offered for sale to consumers but not for immediate human consumption in such establishment and which is not offered for sale outside such establishment,
+&emsp;(ii) which is processed and prepared primarily in a retail establishment, which is ready for human consumption, which is of the type described in subclause (i), and which isoffered for sale to consumers but not for immediate human consumption in such establishment and which is not offered for sale outside such establishment,
 
 &emsp;(iii) which is an infant formula subject to section 350a of this title,
 
@@ -176,7 +168,7 @@ If its packaging or labeling is in violation of an applicable regulation issued 
 
 &emsp;(II) state the approximate number of units the person claiming the exemption sold in the United States,
 
-&emsp;(III) if the exemption is claimed for a food product which was sold in the 12-month period preceding the period for which the exemption was claimed, state the approximate number of units of such product which were sold in the United States during such preceding period, and, if the exemption is claimed for a foodproduct which was not sold in such preceding period, state the number of units of such product which such person reasonably anticipates will be sold in the United States during the period for which the exemption was claimed, and
+&emsp;(III) if the exemption is claimed for a food product which was sold in the 12-month period preceding the period for which the exemption was claimed, state the approximate number of units of such product which were sold in the United States during such preceding period, and, if the exemption is claimed for a food product which was not sold in such preceding period, state the number of units of such product which such person reasonably anticipates will be sold in the United States during the period for which the exemption was claimed, and
 
 &emsp;(IV) contain such information as the Secretary may require to verify the information required by the preceding provisions of this subclause if the Secretary has questioned the validity of such information.
 
@@ -228,7 +220,7 @@ If its packaging or labeling is in violation of an applicable regulation issued 
 
 &emsp;(iii) may not be made with respect to the level of cholesterol in the food if the food contains, as determined by the Secretary by regulation, fat or saturated fat in an amount which increases to persons in the general population the risk of disease or a health related condition which is diet related unless—
 
-&emsp;&emsp;(I) the Secretary finds by regulation that the level of cholesterol is substantially less than the level usually present in the food orin a food which substitutes for the food and which has a significant market share, or the Secretary by regulation permits a statement regarding the absence of cholesterol on the basis of a finding that cholesterol is not usually present in the food and that such a statement would assist consumers in maintaining healthy dietary practices and the regulation requires that the statement disclose that cholesterol is not usually present in the food, and
+&emsp;&emsp;(I) the Secretary finds by regulation that the level of cholesterol is substantially less than the level usually present in the food or in a food which substitutes for the food and which has a significant market share, or the Secretary by regulation permits a statement regarding the absence of cholesterol on the basis of a finding that cholesterol is not usually present in the food and that such a statement would assist consumers in maintaining healthy dietary practices and the regulation requires that the statement disclose that cholesterol is not usually present in the food, and
 
 &emsp;&emsp;(II) the label or labeling of the food discloses the level of such fat or saturated fat in immediate proximity to such claim and with appropriate prominence which shall be no less than one-half the size of the claim with respect to the level of cholesterol,
 
@@ -268,9 +260,9 @@ If its packaging or labeling is in violation of an applicable regulation issued 
 
 (iii) A regulation described in subclause (i) shall require such claim to be stated in a manner so that the claim is an accurate representation of the matters set out in subclause (ii) and so that the claim enables the public to comprehend the information provided in the claim and to understand the relative significance of such information in the context of a total daily diet.
 
-(4)(A)(i) Any person may petition the Secretary to issue a regulation under subparagraph\(2)(A)(i) or (3)(B) relating to a claim described in subparagraph (1)(A) or (1)(B). Not later than 100 days after the petition is received by the Secretary, the Secretary shall issue a final decision denying the petition or file the petition for further action by the Secretary. If the Secretary denies the petition, the petition shall not be made available to the public. If the Secretary files the petition, the Secretary shall deny the petition or issue a proposed regulation to take the action requested in the petition not later than 90 days after the date of such decision.
+(4)(A)(i) Any person may petition the Secretary to issue a regulation under subparagraph (2)(A)(i) or (3)(B) relating to a claim described in subparagraph (1)(A) or (1)(B). Not later than 100 days after the petition is received by the Secretary, the Secretary shall issue a final decision denying the petition or file the petition for further action by the Secretary. If the Secretary denies the petition, the petition shall not be made available to the public. If the Secretary files the petition, the Secretary shall deny the petition or issue a proposed regulation to take the action requested in the petition not later than 90 days after the date of such decision.
 
-(ii) Any person may petition the Secretary for permission to use in a claim described in subparagraph (1)(A) terms that are consistent with the terms defined by the Secretary under subparagraph (2)(A)(i). Within 90 days of the submission of such a petition, the Secretary shall issue a final decision denying the petition or granting such permission.
+(ii) Any person may petition the Secretary for permission to use in a claim described in subparagraph (1)(A) terms that are consistent with the terms defined by the Secretary under subparagraph (2)(A)(i). Within 90 days of the submission of such a petition, the Secretary shallissue a final decision denying the petition or granting such permission.
 
 (iii) Any person may petition the Secretary for permission to use an implied claim described in subparagraph (1)(A) in a brand name. After publishing notice of an opportunity to comment on the petition in the Federal Register and making the petition available to the public, the Secretary shall grant the petition if the Secretary finds that such claim is not misleading and is consistent with terms defined by the Secretary under subparagraph (2)(A)(i). The Secretary shall grant or deny the petition within 100 days of the date it is submitted to the Secretary and the petition shall be considered granted if the Secretary does not act on it within such 100 days.
 
@@ -328,17 +320,15 @@ If—
 
 &emsp;&emsp;(ii)(I) fails to have the identity and strength that the supplement is represented to have; or
 
-&emsp;&emsp;(II) fails to meet the quality (including tablet or capsule disintegration), purity, orcompositional specifications, based on validated assay or other appropriate methods, that the supplement is represented to meet.
+&emsp;&emsp;(II) fails to meet the quality (including tablet or capsule disintegration), purity, or compositional specifications, based on validated assay or other appropriate methods, that the supplement is represented to meet.
 
 > A dietary supplement shall not be deemed misbranded solely because its label or labeling contains directions or conditions of use or warnings.
 
-(June 25, 1938, ch. 675, §403, 52 Stat. 1047; June 29, 1960, Pub. L. 86–537, §1, 74 Stat. 251; July 12, 1960, Pub. L. 86–618, title I, §102(a)(3), 74 Stat. 398; Dec. 30, 1970, Pub. L. 91–601, §6(c), formerly §7(c), 84 Stat. 1673, renumbered Aug. 13, 1981, Pub. L. 97–35, title XII, §1205(c), 95 Stat. 716; Apr. 22, 1976, Pub. L. 94–278, title V, §502(a)(1), 90 Stat. 411; Nov. 23, 1977, Pub. L. 95–203, §4(a)(1), (b)(1), 91 Stat. 1452, 1453; Nov. 8, 1990, Pub. L. 101–535, §§2(a), 3(a), 7, 104 Stat. 2353, 2357, 2364; Aug. 17, 1991, Pub. L. 102–108, §2(a), (c), 105 Stat. 549; Oct. 29, 1992, Pub. L. 102–571, title I, §107(5), (6), 106 Stat. 4499; Aug. 13, 1993, Pub. L. 103–80, §§2(b), 3(j), 107 Stat. 773, 776; Oct. 25, 1994, Pub. L. 103–417, §§6, 7(a)–(c), 10(c), 108 Stat. 4329, 4330, 4332.)
-
-#### References in Text
-
-The National Environmental Policy Act of 1969, referred to in par. (p)(4), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+(June 25, 1938, ch. 675, §403, 52 Stat. 1047; June 29, 1960, Pub. L. 86–537, §1, 74 Stat. 251; July 12, 1960, Pub. L. 86–618, title I, §102(a)(3), 74 Stat. 398; Dec. 30, 1970, Pub. L. 91–601, §6(c), formerly §7(c), 84 Stat. 1673, renumbered Aug. 13, 1981, Pub. L. 97–35, title XII, §1205(c), 95 Stat. 716; Apr. 22, 1976, Pub. L. 94–278, title V, §502(a)(1), 90 Stat. 411; Nov. 23, 1977, Pub. L. 95–203, §4(a)(1), (b)(1), 91 Stat. 1452, 1453; Nov. 8, 1990, Pub. L. 101–535, §§2(a), 3(a), 7, 104 Stat. 2353, 2357, 2364; Aug. 17,1991, Pub. L. 102–108, §2(a), (c), 105 Stat. 549; Oct. 29, 1992, Pub. L. 102–571, title I, §107(5), (6), 106 Stat. 4499; Aug. 13, 1993, Pub. L. 103–80, §§2(b), 3(j), 107 Stat. 773, 776; Oct. 25, 1994, Pub. L. 103–417, §§6, 7(a)–(c), 10(c), 108 Stat. 4329, 4330, 4332; Apr. 1, 1996, Pub. L. 104–124, §1, 110 Stat. 882.)
 
 #### Amendments
+
+1996—Par. (p). Pub. L. 104–124 struck out subsec. (p), which deemed products containing saccharin and offered for sale, but not for immediate consumption, by retail establishment, to be misbranded, unless notice of information required by subsec. (<i>o</i>) was provided by manufacturer and prominently displayed near product.
 
 1994—Par. (q)(5)(F). Pub. L. 103–417, §7(b), amended cl. (F) generally. Prior to amendment, cl. (F) read as follows: “If a food to which section 350 of this title applies (as defined in section 350(c) of this title) contains one or more of the nutrients required by subparagraph (1) or (2) to be in the label or labeling of the food, the label or labeling of such food shall comply with the requirements of subparagraphs (1) and (2) in a manner which is appropriate for such food and which is specified in regulations of the Secretary.”
 
@@ -378,7 +368,7 @@ Par. (q). Pub. L. 101–535, §2(a), added par. (q).
 
 Par. (r). Pub. L. 101–535, §3(a), added par. (r).
 
-1977—Par. (<i>o</i>). Pub. L. 95–203, §4(a)(1), added par. (<i>o).</i>
+1977—Par. (<i>o</i>). Pub. L. 95–203, §4(a)(1), added par. (<i>o</i>).
 
 Par. (p). Pub. L. 95–203, §4(b)(1), added par. (p).
 
@@ -388,7 +378,7 @@ Par. (p). Pub. L. 95–203, §4(b)(1), added par. (p).
 
 1960—Par. (k). Pub. L. 86–537, §1(1), exempted pesticide chemicals when used in or on a raw agricultural commodity which is the produce of the soil.
 
-Par. (<i>l</i>). Pub. L. 86–537, §1(2), added par. (<i>l).</i>
+Par. (<i>l</i>). Pub. L. 86–537, §1(2), added par. (<i>l</i>).
 
 Par. (m). Pub. L. 86–618 added par. (m).
 
@@ -422,13 +412,13 @@ Section 10(a) of Pub. L. 101–535, as amended by Pub. L. 102–571, title II, �
 
 &emsp;“(C) the amendments made by section 4 \[amending section 337 of this title\] shall take effect 24 months after the date of the enactment of this Act \[Nov. 8, 1990\], except that such amendments shall take effect with respect to such dietary supplements \[probably means dietary supplements of vitamins, minerals, herbs, or other similar nutritional substances, see section 202(a)(1) of Pub. L. 102–571, set out below\] on December 31, 1993, and
 
-&emsp;“(D) the amendments made by section 5 \[amending sections 321 and 345 of this title\] shall take effect onthe date the amendments made by section 3 take effect.
+&emsp;“(D) the amendments made by section 5 \[amending sections 321 and 345 of this title\] shall take effect on the date the amendments made by section 3 take effect.
 
 “(2) Section 403(q) of the Federal Food, Drug, and Cosmetic Act (as added by section 2) shall not apply with respect to food which was labeled before the effective date of the amendments made by section 2 and section 403(r) of the Federal Food, Drug, and Cosmetic Act (as added by section 3) shall not apply with respect to food which was labeled before the effective date of the amendments made by section 3.
 
 “(3)(A) If the Secretary finds that a person who is subject to section 403(q)(4) of such Act is unable to comply with the requirements of such section upon the effective date of final regulations to implement section 403(q) of such Act or of proposed regulations to be considered as such final regulations because the Secretary has not made available to such person the information required by such section, the Secretary shall delay the application of such section to such person for such time as the Secretary may require to provide such information.
 
-“(B) If the Secretary finds that compliance with section 403(q) or 403(r)(2) of such Act would cause an undue economic hardship, the Secretary may delay the application of such sections for no more than one year.”
+“(B) If the Secretary finds that compliance with section 403(q) or 403(r)(2) of such Act would cause an undueeconomic hardship, the Secretary may delay the application of such sections for no more than one year.”
 
 Section 10(c) of Pub. L. 101–535, as amended by Pub. L. 102–108, §1, Aug. 17, 1991, 105 Stat. 549; Pub. L. 102–571, title I, §107(17), Oct. 29, 1992, 106 Stat. 4500, provided that:
 
@@ -484,11 +474,11 @@ Section 2(b) of Pub. L. 101–535, as amended by Pub. L. 102–571, title II, §
 
 &emsp;“(C) permit the label or labeling of food to include nutrition information which is in addition to the information required by such section 403(q) and which is of the type described in subparagraph (1) or (2) of such section, and
 
-&emsp;“(D) permit the nutrition information on the label or labeling of a food to remain the same or permit the information to be stated as a range even though (i)there are minor variations in the nutritional value of the food which occur in the normal course of the production or processing of the food, or (ii) the food is comprised of an assortment of similar foods which have variations in nutritional value.
+&emsp;“(D) permit the nutrition information on the label or labeling of a food to remain the same or permit the information to be stated as a range even though (i) there are minor variations in the nutritional value of the food which occur in the normal course of the production or processing of the food, or (ii) the food is comprised of an assortment of similar foods which have variations in nutritional value.
 
 “(2) If the Secretary of Health and Human Services does not promulgate final regulations under paragraph (1) upon the expiration of 24 months after the date of the enactment of this Act, the proposed regulations issued in accordance with paragraph (1) shall be considered as the final regulations upon the expiration of such 24 months, except that the proposed regulations applicable to dietary supplements of vitamins, minerals, herbs, or other similar nutritional substances shall not be considered to be final regulations until December 31, 1993. There shall be promptly published in the Federal Register notice of new status of the proposed regulations \[see 57 F.R. 56347\].
 
-“(3) If the Secretary of Health and Human Services does not promulgate final regulations under section 403(q)(4) of the Federal Food, Drug, and Cosmetic Act upon the expiration of 6 months after the date on which the Secretary makes a finding that there has been no substantial compliance with section 403(q)(4)(C) of such Act, the proposed regulations issued in accordance with such section shall be considered as the final regulations upon the expiration of such 6 months. There shall be promptly published in the Federal Register notice of new status of the proposed regulations.”
+“(3) If the Secretary of Health and Human Services does not promulgate final regulations under section 403(q)(4) of the Federal Food, Drug, and Cosmetic Act upon the expiration of 6 months after the date on which the Secretary makes a finding that there has been no substantial compliance with section 403(q)(4)(C) of suchAct, the proposed regulations issued in accordance with such section shall be considered as the final regulations upon the expiration of such 6 months. There shall be promptly published in the Federal Register notice of new status of the proposed regulations.”
 
 \[Section 202(a)(2)(C) of Pub. L. 102–571 provided that: “The amendments made by subparagraph (B) \[amending sections 2(b) and 3(b) of Pub. L. 101–535, set out above and below\] shall not be construed to modify the effective date of final regulations under sections 2(b) and 3(b) of the Nutrition Labeling and Education Act of 1990 \[Pub. L. 101–535\] (21 U.S.C. 343 note) with respect to foods that are not such dietary supplements.”\]
 
@@ -574,7 +564,7 @@ Hearings.—The Commission may hold hearings, sit and act at such times and plac
 
 &emsp;“(2)
 
-Information from federal agencies.—The Commission may secure directly from any Federal department or agency such information as the Commission considers necessary to carry out the provisions of this section.
+Information from federal agencies.—The Commission may secure directly from any Federaldepartment or agency such information as the Commission considers necessary to carry out the provisions of this section.
 
 &emsp;“(3)
 
@@ -636,7 +626,7 @@ Section 2(c) of Pub. L. 101–535 provided that: “The Secretary of Health and 
 
 Section 2 of Pub. L. 95–203 directed Secretary of Health, Education, and Welfare to conduct a study concerning carcinogenic and other toxic substances in food and impurities in and toxicity of saccharin and make a report respecting the carcinogenic and other substances to Committee on Human Resources of the Senate within 12 months of Nov. 23, 1977, and a report respecting saccharin to such committee within 15 months of Nov. 23, 1977.
 
-#### Report to Congressional Committees Respecting Action Taken Pursuant to Subsec. (<i>o)</i>(2)
+#### Report to Congressional Committees Respecting Action Taken Pursuant to Subsec. (<i>o</i>)(2)
 
 Section 4(a)(3) of Pub. L. 95–203 provided that: “The Secretary shall report to the Committee on Human Resources of the Senate \[now the Committee on Labor and Human Resources of the Senate\] and the Committee on Interstate and Foreign Commerce \[now the Committee on Commerce\] of the House of Representatives any action taken under section 403(<i>o</i>)(2) of the Federal Food, Drug, and Cosmetic Act \[par. (<i>o</i>)(2) of this section\].”
 

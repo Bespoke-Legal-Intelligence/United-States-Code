@@ -56,13 +56,15 @@ In this chapter—
 
 &emsp;(11) “vehicle theft prevention standard” means a minimum performance standard foridentifying major parts of new motor vehicles and major replacement parts by inscribing or affixing numbers or symbols on those parts.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1076; Pub. L. 103–429, §6(44), Oct. 31, 1994, 108 Stat. 4383.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1076; Pub. L. 103–429, §6(44), Oct. 31, 1994, 108 Stat. 4383; Pub. L. 104–287, §6(d)(1)(B), Oct. 11, 1996, 110 Stat. 3399.)
 
 Historical and Revision Notes
 
 Pub. L. 103–272
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -140,7 +142,15 @@ This makes a conforming amendment for consistency with the style of title 49.
 
 #### Amendments
 
-1994—Par. (2). Pub. L. 103–429 substituted “section 33104” for “sections 33102(c)(1) and 33104” and inserted “of this title” at end.
+1996—Pub. L. 104–287 made technical amendment to directory language of Pub. L. 103–429, §6(44)(B). See 1994 Amendment note below.
+
+1994—Par. (2). Pub. L. 103–429, §6(44)(B), as amended by Pub. L. 104–287, inserted “of this title” before period at end.
+
+Pub. L. 103–429, §6(44)(A), substituted “section 33104” for “sections 33102(c)(1) and 33104”.
+
+#### Effective Date of 1996 Amendment
+
+Section 6(d) of Pub. L. 104–287 provided that the amendment made by that section is effective Oct. 31, 1994.
 
 #### Effective Date of 1994 Amendment
 

@@ -1,6 +1,6 @@
 ### §3653. Employment standards
 
-The head of each agency shall establish written standards for—
+The Commission shall establish written standards for—
 
 &emsp;(1) determining the qualifications and fitness of employees and of candidates for employment in positions; and
 
@@ -8,7 +8,11 @@ The head of each agency shall establish written standards for—
 
 > The standards shall conform to the provisions of this subpart, any regulations prescribed thereunder, and the Panama Canal Employment System.
 
-(Pub. L. 96–70, title I, §1213, Sept. 27, 1979, 93 Stat. 464.)
+(Pub. L. 96–70, title I, §1213, Sept. 27, 1979, 93 Stat. 464; Pub. L. 104–201, div. C, title XXXV, §3531, Sept. 23, 1996, 110 Stat. 2863.)
+
+#### Amendments
+
+1996—Pub. L. 104–201 substituted “The Commission” for “The head of each agency” in introductory provisions.
 
 #### Coordination of Pay and Employment Practices
 

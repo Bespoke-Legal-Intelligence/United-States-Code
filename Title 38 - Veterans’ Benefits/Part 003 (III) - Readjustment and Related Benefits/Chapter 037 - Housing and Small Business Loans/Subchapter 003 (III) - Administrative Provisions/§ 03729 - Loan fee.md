@@ -22,13 +22,13 @@
 
 &emsp;&emsp;&emsp;(II) 1.25 percent of the total loan amount if such downpayment is 10 percent or more of such price or cost; and
 
-&emsp;(E) in the case of a loan guaranteed under section 3710(a)(8), 3710(a)(9)(B)(i), 3710(a)(11), or 3712(a)(1)(F) of this title, the amount of such fee shall be 0.5 percent of the total loan amount.
+&emsp;(E) in the case of a loan guaranteed under section 3710(a)(8), 3710(a)(9)(B)(i), 3710(a)(11), 3712(a)(1)(F), or 3762(h) of this title, the amount of such fee shall be 0.5 percent of the total loan amount.
 
 (3) The amount of the fee to be collected under paragraph (1) of this subsection may be included in the loan and paid from the proceeds thereof.
 
 (4) With respect to a loan closed after September 30, 1993, and before October 1, 1998, for which a fee is collected under paragraph (1), the amount of such fee, as computed under paragraph (2), shall be increased by 0.75 percent of the total loan amount other than in the case of a loan described in subparagraph (A), (D)(ii), or (E) of paragraph (2).
 
-(5)(A) Except as provided in subparagraph (B) of this paragraph, notwithstanding paragraphs (2) and (4) of this subsection, after a veteran has obtained an initial loan pursuant to section 3710 of this title, the amount of such fee with respect to any additional loan obtained under this chapter by such veteran shall be 3 percent of the total loan amount.
+(5)(A) Except as provided in subparagraph (B) of this paragraph, notwithstanding paragraphs (2) and (4) of this subsection, after a veteran has obtained an initial loan pursuant to section 3710 of this title, the amount of such fee with respectto any additional loan obtained under this chapter by such veteran shall be 3 percent of the total loan amount.
 
 (B) Subparagraph (A) of this paragraph does not apply with respect to (i) a loan obtained by a veteran with a downpayment described in paragraph (2)(B), (2)(C), or (2)(D)(iii) of this subsection, and (ii) loans described in paragraph (2)(E) of this subsection.
 
@@ -42,9 +42,11 @@
 
 (3) Credits to the Guaranty and Indemnity Fund under paragraph (2) of this subsection with respect to loans guaranteed, insured, or made under this chapter that are closed during fiscal year 1990 shall be made in October 1990.
 
-(Added Pub. L. 97–253, title IV, §406(a)(1), Sept. 8, 1982, 96 Stat. 805, §1829; amended Pub. L. 98–369, div. B, title V, §2511(a), July 18, 1984, 98 Stat. 1117; Pub. L. 100–198, §§2, 10(c), Dec. 21, 1987, 101 Stat. 1315, 1323; Pub. L. 100–203, title VII, §7002, Dec. 22, 1987, 101 Stat. 1330–279; Pub. L. 100–322, title IV, §415(c)(6), May 20, 1988, 102 Stat. 551; Pub. L. 101–237, title III, §§303(a), 313(b)(1), Dec. 18, 1989, 103 Stat. 2071, 2077; Pub. L. 101–239, title V, §5001, Dec. 19, 1989, 103 Stat. 2136; Pub. L. 101–508, title VIII, §8032, Nov. 5, 1990, 104 Stat. 1388–348; Pub. L. 102–54, §15(a)(3), (4), June 13, 1991, 105 Stat. 289; renumbered §3729 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–547, §§2(b)(1), 5, Oct. 28, 1992, 106 Stat. 3633, 3636; Pub. L. 103–66, title XII, §12007, Aug. 10, 1993, 107 Stat. 414; Pub. L. 103–446, title IX, §904(c), Nov. 2, 1994, 108 Stat. 4677.)
+(Added Pub. L. 97–253, title IV, §406(a)(1), Sept. 8, 1982, 96 Stat. 805, §1829; amended Pub. L. 98–369, div. B, title V, §2511(a), July 18, 1984, 98 Stat. 1117; Pub. L. 100–198, §§2, 10(c), Dec. 21, 1987, 101 Stat. 1315, 1323; Pub. L. 100–203, title VII, §7002, Dec. 22, 1987, 101 Stat. 1330–279; Pub. L. 100–322, title IV, §415(c)(6), May 20, 1988, 102 Stat. 551; Pub. L. 101–237, title III, §§303(a), 313(b)(1), Dec. 18, 1989, 103 Stat. 2071, 2077; Pub. L. 101–239, title V, §5001, Dec. 19, 1989, 103 Stat. 2136; Pub. L. 101–508, title VIII, §8032, Nov. 5, 1990, 104 Stat. 1388–348; Pub. L. 102–54, §15(a)(3), (4), June 13, 1991, 105 Stat. 289; renumbered §3729 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–547, §§2(b)(1), 5, Oct. 28, 1992, 106 Stat. 3633, 3636; Pub. L. 103–66, title XII, §12007, Aug. 10, 1993, 107 Stat. 414; Pub. L. 103–446, title IX, §904(c), Nov. 2, 1994, 108 Stat. 4677; Pub. L. 104–275, title II, §202(b), Oct. 9, 1996, 110 Stat. 3330.)
 
 #### Amendments
+
+1996—Subsec. (a)(2)(E). Pub. L. 104–275 substituted “3712(a)(1)(F), or 3762(h)” for “or 3712(a)(1)(F)”.
 
 1994—Subsec. (a)(2)(E). Pub. L. 103–446 inserted “3710(a)(11),” after “3710(a)(9)(B)(i),”.
 

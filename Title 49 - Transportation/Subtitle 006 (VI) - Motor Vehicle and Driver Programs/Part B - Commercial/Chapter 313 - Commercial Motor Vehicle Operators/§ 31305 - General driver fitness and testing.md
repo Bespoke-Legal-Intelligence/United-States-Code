@@ -54,7 +54,9 @@ Requirements for Operating Vehicles.—(1) Except as provided in paragraph (2) o
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

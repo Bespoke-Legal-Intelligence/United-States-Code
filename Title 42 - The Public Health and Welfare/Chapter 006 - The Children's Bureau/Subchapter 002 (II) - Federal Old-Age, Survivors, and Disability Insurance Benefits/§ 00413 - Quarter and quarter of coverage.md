@@ -10,11 +10,11 @@ For the purposes of this subchapter—
 
 &emsp;(i) for calendar years before 1978, and subject to the provisions of subparagraph (B), a quarter in which an individual has been paid $50 or more in wages (except wages for agricultural labor paid after 1954) or for which he has been credited (as determined under section 412 of this title) with $100 or more of self-employment income; and
 
-&emsp;(ii) for calendar years after 1977, and subject to the provisions of subparagraph (B), each portion of the total of the wages paid and the self-employment income credited (pursuant to section 412 of this title) to an individual in a calendar year which equals the amount required for a quarter of coverage in that calendar year (as determined under subsection (d) of this section), with such quarter of coverage being assigned to a specific calendar quarter in such calendar year only if necessary in the case of any individual who has attained age 62 or died or is under a disability and the requirements for insured status in subsection (a) or (b) of section 414 of this title, the requirements for entitlement to a computation or recomputation of his primary insurance amount, or the requirements of paragraph (3) of section 416(i) of this title would not otherwise be met.
+&emsp;(ii) for calendar years after 1977, and subject to the provisions of subparagraph (B), each portion of the total of the wages paid and theself-employment income credited (pursuant to section 412 of this title) to an individual in a calendar year which equals the amount required for a quarter of coverage in that calendar year (as determined under subsection (d) of this section), with such quarter of coverage being assigned to a specific calendar quarter in such calendar year only if necessary in the case of any individual who has attained age 62 or died or is under a disability and the requirements for insured status in subsection (a) or (b) of section 414 of this title, the requirements for entitlement to a computation or recomputation of his primary insurance amount, or the requirements of paragraph (3) of section 416(i) of this title would not otherwise be met.
 
 (B) Notwithstanding the provisions of subparagraph (A)—
 
-&emsp;(i) no quarter after the quarter in which an individual dies shall be a quarter of coverage, and no quarter any part of which is included in a period of disability (other than the initialquarter and the last quarter of such period) shall be a quarter of coverage;
+&emsp;(i) no quarter after the quarter in which an individual dies shall be a quarter of coverage, and no quarter any part of which is included in a period of disability (other than the initial quarter and the last quarter of such period) shall be a quarter of coverage;
 
 &emsp;(ii) if the wages paid to an individual in any calendar year equal $3,000 in the case of a calendar year before 1951, or $3,600 in the case of a calendar year after 1950 and before 1955, or $4,200 in the case of a calendar year after 1954 and before 1959, or $4,800 in the case of a calendar year after 1958 and before 1966, or $6,600 in the case of a calendar year after 1965 and before 1968, or $7,800 in the case of a calendar year after 1967 and before 1972, or $9,000 in the case of the calendar year 1972, or $10,800 in the case of the calendar year 1973, or $13,200 in the case of the calendar year 1974, or an amount equal to the contribution and benefit base (as determined under section 430 of this title) in the case of any calendar year after 1974 and before 1978 with respect to which such contribution and benefit base is effective, each quarter of such year shall (subject to clauses (i) and (v)) be a quarter of coverage;
 
@@ -32,7 +32,7 @@ For the purposes of this subchapter—
 
 #### (b) Crediting of wages paid in 1937
 
-With respect to wages paid to an individual in the six-month periods commencing either January 1, 1937, or July 1, 1937; (A) if wages of not less than $100 were paid in any such period, one-half of the total amount thereof shall be deemed to have been paid in each of the calendar quarters in such period; and (B) if wages of less than $100 were paid in any such period, the total amount thereof shall be deemed to have been paid in the latter quarter of such period, except that if in any such period, the individual attained age sixty-five, all of the wages paid in such period shall be deemed to have been paid before such age was attained.
+With respect to wages paid to an individual in the six-month periods commencing either January 1, 1937, or July 1, 1937; (A) if wages of not less than $100 were paid in any such period, one-half of the total amount thereof shall be deemed to have been paid in each of the calendar quartersin such period; and (B) if wages of less than $100 were paid in any such period, the total amount thereof shall be deemed to have been paid in the latter quarter of such period, except that if in any such period, the individual attained age sixty-five, all of the wages paid in such period shall be deemed to have been paid before such age was attained.
 
 #### (c) Alternative method for determining quarters of coverage with respect to wages in period from 1937 to 1950
 
@@ -90,7 +90,7 @@ Subsec. (a)(2)(iii). Pub. L. 92–336, §203(a)(3)(B), inserted provisions for d
 
 1971—Subsec. (a)(2)(ii). Pub. L. 92–5, §203(a)(3)(A), substituted “after 1967 and before 1972, or $9,000 in the case of a calendar year after 1971” for “after 1967”.
 
-Subsec. (a)(2)(iii). Pub. L. 92–5, §203(a)(3)(B), substituted “after 1967 and beginning before 1972, or $9,000in the case of a taxable year beginning after 1971” for “after 1967”.
+Subsec. (a)(2)(iii). Pub. L. 92–5, §203(a)(3)(B), substituted “after 1967 and beginning before 1972, or $9,000 in the case of a taxable year beginning after 1971” for “after 1967”.
 
 1968—Subsec. (a)(2)(ii). Pub. L. 90–248, §108(a)(3)(A), inserted “and before 1968, or $7,800 in the case of a calendar year after 1967” after “1965”.
 
@@ -160,7 +160,7 @@ Amendment by Pub. L. 93–66 applicable only with respect to remuneration paid a
 
 #### Effective Date of 1972 Amendment
 
-Amendment by section 203(a)(3)(A) of Pub. L. 92–336 applicable only with respect to remuneration paid after December 1972, and amendment by section 203(a)(3)(B) of Pub. L. 92–336 applicable only with respect to taxable years beginning after 1972, see section 203(c) of Pub. L. 92–336, set out as a note under section 409 of this title.
+Amendment by section 203(a)(3)(A) of Pub. L. 92–336 applicable only with respect to remuneration paid afterDecember 1972, and amendment by section 203(a)(3)(B) of Pub. L. 92–336 applicable only with respect to taxable years beginning after 1972, see section 203(c) of Pub. L. 92–336, set out as a note under section 409 of this title.
 
 #### Effective Date of 1971 Amendment
 
@@ -208,7 +208,7 @@ Section 3 of Pub. L. 86–442 provided in part that: “This amendment \[amendin
 
 #### Effective Date of 1954 Amendment
 
-Section 106(h) of act Sept. 1, 1954, provided that: “Notwithstanding the provisions of section 215(f)(1) of the Social Security Act \[section 415(f) of this title\], the amendments made by subsections (a), (b), (c), (d), (e), and (f) of this section \[amending this section and sections 414 to 417 of this title and section 228e of Title 45, Railroads\] shall apply with respect to monthly benefits under title II of the Social Security Act \[subchapter II of this chapter\] for months after June 1955, and with respect to lump-sum death payments under such title in the case of deaths occurring after June 1955; but no recomputation of benefits by reason of such amendments shall be regarded as a recomputation for purposes of section 215(f) of the Social Security Act \[section 415(f) of this title\].”
+Section 106(h) of act Sept. 1, 1954, provided that: “Notwithstanding the provisions of section 215(f)(1) of the Social Security Act \[section 415(f) of this title\], the amendments made by subsections (a), (b), (c), (d), (e), and (f) of this section \[amending this section and sections 414 to 417 of this title and section 228e of Title 45,Railroads\] shall apply with respect to monthly benefits under title II of the Social Security Act \[subchapter II of this chapter\] for months after June 1955, and with respect to lump-sum death payments under such title in the case of deaths occurring after June 1955; but no recomputation of benefits by reason of such amendments shall be regarded as a recomputation for purposes of section 215(f) of the Social Security Act \[section 415(f) of this title\].”
 
 #### Effective and Termination Date of 1952 Amendment
 
@@ -218,5 +218,5 @@ Section 3(g) of act July 18, 1952, provided that: “Notwithstanding the precedi
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 409, 430, 433, 607 of this title.
+This section is referred to in sections 409, 430, 433 of this title.
 

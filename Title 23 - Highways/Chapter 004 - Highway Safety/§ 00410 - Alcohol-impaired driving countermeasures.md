@@ -78,7 +78,7 @@ Open container laws.—Subject to subsection (c), a State shall be eligible to r
 
 &emsp;&emsp;(A) as allowed in the passenger area, by persons (other than the driver), of any motor vehicle designed to transport more than 10 passengers (including the driver) while being used to provide charter transportation of passengers; or
 
-&emsp;&emsp;(B) as otherwise specifically allowed by such State, with the approval of the Secretary, but in no event may the driver of such motor vehicle be allowed to possess or consume an alcoholic beverage in the passenger area.
+&emsp;&emsp;(B) as otherwise specifically allowed by such State, with the approval of the Secretary, but in no event may the driver ofsuch motor vehicle be allowed to possess or consume an alcoholic beverage in the passenger area.
 
 &emsp;(2)
 
@@ -102,7 +102,7 @@ Drugged driving prevention.—Subject to subsection (c), a State shall be eligib
 
 &emsp;&emsp;&emsp;(i) a person shall not drive or be in actual physical control of a motor vehicle while under the influence of alcohol, a controlled substance, a combination of controlled substances, or any combination of alcohol and controlled substances;
 
-&emsp;&emsp;&emsp;(ii) any person who operates a motor vehicle upon the highways of the State shall be deemed to have given consent to a test or tests of his or her blood, breath, orurine for the purpose of determining the blood alcohol concentration or the presence of controlled substances in his or her body; and
+&emsp;&emsp;&emsp;(ii) any person who operates a motor vehicle upon the highways of the State shall be deemed to have given consent to a test or tests of his or her blood, breath, or urine for the purpose of determining the blood alcohol concentration or the presence of controlled substances in his or her body; and
 
 &emsp;&emsp;&emsp;(iii) the driver's license of a person shall be suspended promptly, for a period of not less than 90 days in the case of a first offender and not less than 1 year in the case of any repeat offender, when a law enforcement officer has probable cause under State law to believe such person has committed a traffic offense relating to controlled substances use, and such person (I) is determined, on the basis of 1 or more chemical tests, to have been under the influence of controlled substances while operating a motor vehicle, or (II) refuses to submit to such a test as proposed by the officer;
 
@@ -128,7 +128,7 @@ Drugged driving prevention.—Subject to subsection (c), a State shall be eligib
 
 &emsp;&emsp;&emsp;(i) the detection of driving under the influence of controlled substances;
 
-&emsp;&emsp;&emsp;(ii) the administration of a chemical test or tests to any driver who a law enforcement officer has probable cause under State law to believe has committed a traffic offense relating to controlled substances use; and
+&emsp;&emsp;&emsp;(ii) the administration of a chemical test or tests to any driver who a law enforcement officer has probable cause underState law to believe has committed a traffic offense relating to controlled substances use; and
 
 &emsp;&emsp;&emsp;(iii) in instances where such probable cause exists, the prosecution of (I) those persons who are determined, on the basis of 1 or more chemical tests, to have been operating a motor vehicle while under the influence of controlled substances and (II) those persons who refuse to submit to such a test as proposed by a law enforcement officer; and
 
@@ -162,7 +162,7 @@ In general.—Except as otherwise provided in this subsection, all provisions of
 
 &emsp;(2)
 
-Inconsistent provisions.—If the Secretary determines that a provision of chapter1 of this title is inconsistent with this section, such provision shall not apply to funds authorized to be appropriated to carry out this section.
+Inconsistent provisions.—If the Secretary determines that a provision of chapter 1 of this title is inconsistent with this section, such provision shall not apply to funds authorized to be appropriated to carry out this section.
 
 &emsp;(3)
 
@@ -206,7 +206,7 @@ Open alcoholic beverage container.—The term “open alcoholic beverage contain
 
 Authorization of Appropriations.—For purposes of carrying out this section, there is authorized to be appropriated out of the Highway Trust Fund (other than the Mass Transit Account) $25,000,000 for each of fiscal years 1994 through 1997. Amounts made available to carry out this section are authorized to remain available until expended.
 
-(Added Pub. L. 100–690, title IX, §9002(a), Nov. 18, 1988, 102 Stat. 4521; amended Pub. L. 101–516, title III, §336, Nov. 5, 1990, 104 Stat. 2186; Pub. L. 102–240, title II, §2004(a), Dec. 18, 1991, 105 Stat. 2073; Pub. L. 102–388, title VI, §§601–606, Oct. 6, 1992, 106 Stat. 1569, 1570; Pub. L. 104–59, title III, §324, Nov. 28, 1995, 109 Stat. 591.)
+(Added Pub. L. 100–690, title IX, §9002(a), Nov. 18, 1988, 102 Stat. 4521; amended Pub. L. 101–516, title III, §336, Nov. 5, 1990, 104 Stat. 2186; Pub. L. 102–240, title II, §2004(a), Dec. 18, 1991, 105 Stat. 2073; Pub. L. 102–388, title VI, §§601–606, Oct. 6,1992, 106 Stat. 1569, 1570; Pub. L. 104–59, title III, §324, Nov. 28, 1995, 109 Stat. 591.)
 
 #### References in Text
 
@@ -244,7 +244,7 @@ Subsec. (j). Pub. L. 102–388, §606, amended subsec. (j) generally. Prior to a
 
 Funding for Fiscal Years 1993–1997.—From sums made available to carry out section 402 of this title, the Secretary shall make available $25,000,000 for each of fiscal years 1993 through 1997 to carry out this section.”
 
-1991—Pub. L. 102–240 substituted section catchline for one which read: “Drunk driving prevention programs” and amended text generally, substituting present provisions for provisions authorizing grants to those States which adopt and implement drunk driving preventionprograms described in this section, requiring States to maintain expenditures for drunk driving prevention programs, providing for Federal share payable, maximum amount of basic grants and eligibility for basic grants, providing for supplemental grants to States which implement specific measures to fight drunk driving, and providing for definitions and appropriations for this section.
+1991—Pub. L. 102–240 substituted section catchline for one which read: “Drunk driving prevention programs” and amended text generally, substituting present provisions for provisions authorizing grants to those States which adopt and implement drunk driving prevention programs described in this section, requiring States to maintain expenditures for drunk driving prevention programs, providing for Federal share payable, maximum amount of basic grants and eligibility for basic grants, providing for supplemental grants to States which implement specific measures to fight drunk driving, and providing for definitions and appropriations for this section.
 
 1990—Subsec. (e)(1)(C). Pub. L. 101–516 struck out “within the time period specified in subparagraph (F)” after “revocation”.
 
@@ -290,7 +290,7 @@ Study.—Not later than 30 days after the date of enactment of this Act \[Nov. 1
 
 &emsp;“(2)
 
-Report.—In entering into any arrangement with the National Academy of Sciences for conducting the study under this subsection, the Secretary shall request the National Academy of Sciences to submit, not later than 15 months after the date of the enactment of this Act, to the Secretary a report on the results of such study. Upon its receipt, the Secretary shall immediately transmit the report to Congress.
+Report.—In entering into any arrangement with the National Academy of Sciences for conducting the study under this subsection, the Secretary shall request the National Academy of Sciences tosubmit, not later than 15 months after the date of the enactment of this Act, to the Secretary a report on the results of such study. Upon its receipt, the Secretary shall immediately transmit the report to Congress.
 
 “(b)
 

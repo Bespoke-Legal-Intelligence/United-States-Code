@@ -1,8 +1,8 @@
 ### §8173. Liability under this subchapter exclusive
 
-The liability of the United States or of a nonappropriated fund instrumentality described by section 2105(c) of this title, with respect to the disability or death resulting from injury, as defined by section 2(2) of the Longshore and Harbor Workers’ Compensation Act (33 U.S.C. 2(2)),<sup>1</sup> of an employee referred to by sections 8171 and 8172 of this title, shall be determined as provided by this subchapter. This liability is exclusive and instead of all other liability of the United States or the instrumentality to the employee, his legal representative, spouse, dependents, next of kin, and any other person otherwise entitled to recover damages from the United States or the instrumentality because of the disability or death in a direct judicial proceeding, in a civil action, or in admiralty, or by an administrative or judicial proceeding under a workmen's compensation statute or under a Federal tort liability statute.
+The liability of the United States or of a nonappropriated fund instrumentality described by section 2105(c) of this title, with respect to the disability or death resulting from injury, as defined by section 2(2) of the Longshore and Harbor Workers’ Compensation Act (33 U.S.C. 902(2)), of an employee referred to by sections 8171 and 8172 of this title, shall be determined as provided by this subchapter. This liability is exclusive and instead of all other liability of the United States or the instrumentality to the employee, his legal representative, spouse, dependents, next of kin, and any other person otherwise entitled to recover damages from the United States or the instrumentality because of the disability or death in a direct judicial proceeding, in a civil action, or in admiralty, or by an administrative or judicial proceeding under a workmen's compensation statute or under a Federal tort liability statute.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 556; Pub. L. 103–337, div. A, title X, §1070(d)(8)(B), Oct. 5, 1994, 108 Stat. 2859.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 556; Pub. L. 103–337, div. A, title X, §1070(d)(8)(B), Oct. 5, 1994, 108 Stat. 2859; Pub. L. 104–106, div. A, title XV, §1505(b)(2), Feb. 10, 1996, 110 Stat. 514.)
 
 Historical and Revision Notes
 
@@ -10,7 +10,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 5 U.S.C. 150k–1(c).
 
@@ -20,7 +22,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-<b>1994</b>—Pub. L. 103–337 substituted “section 2(2) of the Longshore and Harbor Workers’ Compensation Act (33 U.S.C. 2(2))” for “section 902(2) of title 33”.
+1996—Pub. L. 104–106 substituted “(33 U.S.C. 902(2))” for “(33 U.S.C. 2(2))”.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “(33 U.S.C. 902(2)),”.</i>
+1994—Pub. L. 103–337 substituted “section 2(2) of the Longshore and Harbor Workers’ Compensation Act (33 U.S.C. 2(2))” for “section 902(2) of title 33”.
 

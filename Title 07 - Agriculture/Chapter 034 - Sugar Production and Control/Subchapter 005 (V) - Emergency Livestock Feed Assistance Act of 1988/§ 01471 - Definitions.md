@@ -8,7 +8,7 @@ As used in this subchapter:
 
 &emsp;&emsp;&emsp;(i) an established producer or husbander of livestock or a dairy producer who is a citizen of, or legal resident alien in, the United States; or
 
-&emsp;&emsp;&emsp;(ii) a farm cooperative, private domestic corporation, partnership, or joint operation in which a majority interest is held by members, stockholders, or partners who are citizens of, or legal resident aliens in, the United States, if such cooperative, corporation, partnership, or joint operation is engaged in livestock production or husbandry, or dairy production; or
+&emsp;&emsp;&emsp;(ii) a farm cooperative, private domestic corporation, partnership, or joint operation in which a majority interest is held by members, stockholders, or partners who are citizens of, or legal resident aliens in,the United States, if such cooperative, corporation, partnership, or joint operation is engaged in livestock production or husbandry, or dairy production; or
 
 &emsp;&emsp;(B) Any <sup>1</sup> of the following entities that is actively engaged in livestock production or husbandry, or dairy production—
 
@@ -34,7 +34,7 @@ As used in this subchapter:
 
 &emsp;&emsp;(B) is consistent with acceptable feed practices.
 
-&emsp;(5) The term “area” includes any Indian reservation (as defined in section 1985(e)(1)(D)(ii) of this title).
+&emsp;(5) The term “area” includes any Indian reservation (as defined in section 1985(e)(1)(D)(ii) <sup>2</sup> of this title).
 
 (Oct. 31, 1949, ch. 792, title VI, §602, as added Aug. 11, 1988, Pub. L. 100–387, title I, §101(a), 102 Stat. 926.)
 
@@ -44,6 +44,8 @@ Section 450b of title 25, referred to in par. (1)(B)(i), (iii), has been amended
 
 Act of June 18, 1934, referred to in par. (1)(B)(ii), is act June 18, 1934, ch. 576, 48 Stat. 984, as amended, popularly known as the Indian Reorganization Act, which enacted sections 461, 462, 463, 464, 465, 466 to 470, 471, 472, 473, 474, 475, 476 to 478, and 479 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 461 of Title 25 and Tables.
 
+Section 1985(e)(1)(D)(ii) of this title, referred to in par. (5), was redesignated section 1985(e)(1)(A)(ii) of this title by Pub. L. 104–127, title VI, §638(3)(A)(ii), Apr. 4, 1996, 110 Stat. 1096.
+
 #### Effective Date
 
 Section effective 15 days after Aug. 11, 1988, see section 101(c)(1) of Pub. L. 100–387, set out as an Effective and Termination Dates of 1988 Amendment note under section 1427 of this title.
@@ -51,6 +53,10 @@ Section effective 15 days after Aug. 11, 1988, see section 101(c)(1) of Pub. L. 
 #### Short Title
 
 For short title of title VI of act Oct. 31, 1949, ch. 792, which enacted this subchapter, as the “Emergency Livestock Feed Assistance Act of 1988”, see Short Title of 1988 Amendment note set out under section 1421 of this title.
+
+#### Inapplicability of Section
+
+Section inapplicable to 1996 through 2002 crops of loan commodities, peanuts, and sugar and inapplicable to milk during period beginning Apr. 4, 1996, and ending Dec. 31, 2002, see section 7301(b)(1)(L) of this title.
 
 #### Section Referred to in Other Sections
 

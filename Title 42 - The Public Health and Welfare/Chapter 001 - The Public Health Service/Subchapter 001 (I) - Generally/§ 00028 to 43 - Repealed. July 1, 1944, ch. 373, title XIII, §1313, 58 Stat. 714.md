@@ -1,6 +1,6 @@
 ### §§28 to 43. Repealed. July 1, 1944, ch. 373, title XIII, §1313, 58 Stat. 714
 
-Section 28, acts July 1, 1902, ch. 1370, §3, 32 Stat. 712; Aug. 14, 1912, ch. 288, §1, 37 Stat. 309; July 9, 1918, ch.143, ch. XV, §3, 40 Stat. 886, provided divisions under Assistant Surgeons General and the rank, pay, and allowances of said Assistants. See sections 206, 207, and 210 of this title.
+Section 28, acts July 1, 1902, ch. 1370, §3, 32 Stat. 712; Aug. 14, 1912, ch. 288, §1, 37 Stat. 309; July 9, 1918, ch. 143, ch. XV, §3, 40 Stat. 886, provided divisions under Assistant Surgeons General and the rank, pay, and allowances of said Assistants. See sections 206, 207, and 210 of this title.
 
 Section 28a, act Apr. 9, 1930, ch. 125, §10(c), 46 Stat. 152, provided for a chief of the narcotics division. See section 206 of this title.
 

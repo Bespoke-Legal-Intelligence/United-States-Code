@@ -1,6 +1,6 @@
 ### §8421a. Reductions on account of earnings from work performed while entitled to an annuity supplement
 
-(a) The amount of the annuity supplement to which an individual is entitled under section 8421 for any month (determined without regard to subsection (c) of such section) shall be reduced by the amount of any excess earnings of such individual which are required to be chargedto such supplement for such month, as determined under subsection (b).
+(a) The amount of the annuity supplement to which an individual is entitled under section 8421 for any month (determined without regard to subsection (c) of such section) shall be reduced by the amount of any excess earnings of such individual which are required to be charged to such supplement for such month, as determined under subsection (b).
 
 (b) The amount of an individual's excess earnings shall be charged to months as follows:
 
@@ -36,7 +36,7 @@ Section 203 of the Social Security Act, referred to in subsec. (b)(4)(A), is cla
 
 #### Amendments
 
-<b>1986</b>—Subsecs. (c), (d). Pub. L. 99–556 redesignated subsec. (d) as (c) and struck out former subsec. (c) which read as follows: “If, after an individual ceases to be entitled to an annuity supplement under section 8421 by reason of subsection (a)(3)(B) of such section, any portion of the individual's excess earnings remains outstanding, an amount not to exceed 25 percent of the amount otherwise payable to such individual under this chapter for each month shall be deducted from such monthly payment until the full amount of that outstanding portion has been accounted for. To the extent practicable, reductions under this subsection shall be made by a level percentage.”
+1986—Subsecs. (c), (d). Pub. L. 99–556 redesignated subsec. (d) as (c) and struck out former subsec. (c) which read as follows: “If, after an individual ceases to be entitled to an annuity supplement under section 8421 by reason of subsection (a)(3)(B) of such section, any portion of the individual's excess earnings remains outstanding, an amount not to exceed 25 percent of the amount otherwise payable to such individual under this chapter for each month shall be deducted from such monthly payment until the full amount of that outstanding portion has been accounted for. To the extent practicable, reductions under this subsection shall be made by a level percentage.”
 
 #### Section Referred to in Other Sections
 

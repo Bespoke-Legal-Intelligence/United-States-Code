@@ -20,13 +20,13 @@
 
 (4) An agricultural resources intern shall be required to enter into an obligated service agreement with the Secretary to serve as an employee in a professional agriculture or natural resources position with the Department of the Interior or other Federal agency or an Indian tribe for one year for each year of education for which the Secretary pays the intern's educational costs under paragraph (3).
 
-(5) An agricultural resources intern shall be required to report for service with the Bureau of Indian Affairs or other bureau or agency sponsoring his internship, or to a designated work site, during any break in attendance at school of more than 3 weeks duration. Time spent in such service shall be counted toward satisfaction ofthe intern's obligated service agreement under paragraph (4).
+(5) An agricultural resources intern shall be required to report for service with the Bureau of Indian Affairs or other bureau or agency sponsoring his internship, or to a designated work site, during any break in attendance at school of more than 3 weeks duration. Time spent in such service shall be counted toward satisfaction of the intern's obligated service agreement under paragraph (4).
 
 #### (b) Cooperative education program
 
 (1) The Secretary shall maintain, through the Bureau, a cooperative education program for the purpose, among other things, of recruiting Indian and Alaska Native students who are enrolled in secondary schools, tribally controlled community colleges, and other postsecondary or graduate schools, for employment in professional agricultural or related positions with the Bureau or other Federal agency providing Indian agricultural or related services.
 
-(2) The cooperative educational program under paragraph (1) shall be modeled after, and shall have essentially the same features as, the program in effect on December 3, 1993, pursuant to chapter 308 of the Federal Personnel Manual of the Office of Personnel Management.
+(2) The cooperative educational program under paragraph (1) shall be modeled after, and shallhave essentially the same features as, the program in effect on December 3, 1993, pursuant to chapter 308 of the Federal Personnel Manual of the Office of Personnel Management.
 
 (3) The cooperative educational program shall include, among others, the following:
 

@@ -6,7 +6,7 @@ Consent of the Congress of the United States is given to each of the several Sta
 
 #### Short Title
 
-Act Mar. 1, 1911, ch. 186, 36 Stat. 961, as amended, which is classified to sections 480, 500, 513 to 519, 521, 552, and 563 of this title, is popularly known as the Weeks Law.
+Act Mar. 1, 1911, ch. 186, 36 Stat. 961, as amended, which is classified to sections 480, 500, 513 to 519, 521,552, and 563 of this title, is popularly known as the Weeks Law.
 
 #### Weeks Law Referred to in Other Sections
 

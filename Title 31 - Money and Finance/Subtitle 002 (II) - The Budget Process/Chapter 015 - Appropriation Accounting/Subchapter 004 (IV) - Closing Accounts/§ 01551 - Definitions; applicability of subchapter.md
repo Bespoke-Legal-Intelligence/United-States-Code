@@ -20,9 +20,9 @@
 
 &emsp;(1) appropriations for the District of Columbia government; or
 
-&emsp;(2) appropriations to be disbursed by the Secretary of the Senate or the Clerk of the House of Representatives.
+&emsp;(2) appropriations to be disbursed by the Secretary of the Senate or the Chief Administrative Officer of the House of Representatives.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 935; Pub. L. 101–510, div. A, title XIV, §1405(a)(1), Nov. 5, 1990, 104 Stat. 1676; Pub. L. 102–484, div. A, title X, §1054(e)(2), Oct. 23, 1992, 106 Stat. 2503.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 935; Pub. L. 101–510, div. A, title XIV, §1405(a)(1), Nov. 5, 1990, 104 Stat. 1676; Pub. L. 102–484, div. A, title X, §1054(e)(2), Oct. 23, 1992, 106 Stat. 2503; Pub. L. 104–186, title II, §219(b)(1), Aug. 20, 1996, 110 Stat. 1748.)
 
 Historical and Revision Notes
 
@@ -48,6 +48,8 @@ In subsection (b)(1), the words “District of Columbia government” are substi
 
 #### Amendments
 
+1996—Subsec. (c)(2). Pub. L. 104–186 substituted “Chief Administrative Officer” for “Clerk”.
+
 1992—Pub. L. 102–484 substituted “Definitions; applicability of subchapter” for “Definitions and applications” as section catchline.
 
 1990—Pub. L. 101–510 amended text generally, reenacting former subsec. (a)(1) and (2) with a change in capitalization, adding subsecs. (a)(3) and (b), and restating former subsec. (b) as (c).
@@ -66,7 +68,7 @@ Restoration of certain unobligated amounts.—The balance of any unobligated amo
 
 “(3)
 
-Cancellation of unobligated balances.—All balances of unobligated funds withdrawn from an account under subsection 1552(a)(2) of title 31, United States Code, as in effect on the day before the date of the enactment of this Act (other than funds restored under paragraph (2)) are canceled, effective at the end of the 30-day period beginning on the date of the enactment of this Act.
+Cancellation of unobligated balances.—All balances of unobligated funds withdrawn from an account under subsection 1552(a)(2) of title 31, United States Code, as in effect on the day before the date ofthe enactment of this Act (other than funds restored under paragraph (2)) are canceled, effective at the end of the 30-day period beginning on the date of the enactment of this Act.
 
 “(4)
 
@@ -120,7 +122,7 @@ Certifications.—No obligation or adjustment of an obligation may be charged pu
 
 Alternative to certification.—If the Secretary of Defense is unable to make the certifications referred to in subparagraph (D) within 60 days after the date of the enactment of this subparagraph \[Oct. 23, 1992\], the Secretary shall submit to the Congress a report stating that the Secretary is unable to make such certifications and setting forth the actions that the Secretary will take in order to enable the Secretary to make such certifications after the end of that period.”
 
-#### Transfer of Functions
+#### Section Referred to in Other Sections
 
-Certain functions of Clerk of House of Representatives transferred to Director of Non-legislative and Financial Services by section 7 of House Resolution No. 423, One Hundred Second Congress, Apr. 9, 1992. Director of Non-legislative and Financial Services replaced by Chief Administrative Officer of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+This section is referred to in title 10 section 2216.
 

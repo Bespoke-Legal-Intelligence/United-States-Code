@@ -6,7 +6,7 @@ The Congress hereby finds that—
 
 (b) Compounding this energy shortage is our past and present failure to formulate a comprehensive and aggressive research and development program designed to make available to American consumers our large domestic energy reserves including fossil fuels, nuclear fuels, geothermal resources, solar energy, and other forms of energy. This failure is partially because the unconventional energy technologies have not been judged to be economically competitive with traditional energy technologies.
 
-(c) The urgency of the Nation's energy challenge will require commitments similar to thoseundertaken in the Manhattan and Apollo projects; it will require that the Nation undertake a research, development, and demonstration program in nonnuclear energy technologies with a total Federal investment which may reach or exceed $20,000,000,000 over the next decade.
+(c) The urgency of the Nation's energy challenge will require commitments similar to those undertaken in the Manhattan and Apollo projects; it will require that the Nation undertake a research, development, and demonstration program in nonnuclear energy technologies with a total Federal investment which may reach or exceed $20,000,000,000 over the next decade.
 
 (d) In undertaking such program, full advantage must be taken of the existing technical and managerial expertise in the various energy fields within Federal agencies and particularly in the private sector.
 

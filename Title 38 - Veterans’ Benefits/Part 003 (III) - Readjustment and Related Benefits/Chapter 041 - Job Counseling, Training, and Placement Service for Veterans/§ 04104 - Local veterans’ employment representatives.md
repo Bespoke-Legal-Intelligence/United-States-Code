@@ -8,9 +8,9 @@
 
 &emsp;(C) the State's administrative expenses associated with the appointment of the number of such representatives for which funding is allocated to the State under clauses (A) and (B) of this paragraph.
 
-(2)(A) The local veterans’ employment representatives allocated to a State pursuant to paragraph (1) of this subsection shall be assigned by the administrative head of the employment service in the State, after consultation with the Director for Veterans’ Employment and Training for the State, so that as nearly as practical (i) one full-time representative is assigned to each local employment service office at which at least 1,100 eligible veterans and eligible persons are registered for assistance, (ii) one additional full-time representative is assigned to each local employment service office for each 1,500 eligible veterans and eligible persons above 1,100 who are registered at such office for assistance, and (iii) one half-time representative is assigned to each local employment service office at which at least 350 but less than 1,100 eligible veterans and eligible persons are registered for assistance.
+(2)(A) The local veterans’ employment representatives allocated to a State pursuant to paragraph (1) of this subsection shall be assigned by the administrative head of the employment service in the State, after consultation with the Director for Veterans’ Employment and Training for the State, so that as nearly as practical\(i) one full-time representative is assigned to each local employment service office at which at least 1,100 eligible veterans and eligible persons are registered for assistance, (ii) one additional full-time representative is assigned to each local employment service office for each 1,500 eligible veterans and eligible persons above 1,100 who are registered at such office for assistance, and (iii) one half-time representative is assigned to each local employment service office at which at least 350 but less than 1,100 eligible veterans and eligible persons are registered for assistance.
 
-(B) In the case of a service delivery point (other than a local employment service office described in subparagraph (A) of this paragraph) at which employment services are offered under the Wagner-Peyser Act, the head of such servicedelivery point shall be responsible for ensuring compliance with the provisions of this title providing for priority services for veterans and priority referral of veterans to Federal contractors.
+(B) In the case of a service delivery point (other than a local employment service office described in subparagraph (A) of this paragraph) at which employment services are offered under the Wagner-Peyser Act, the head of such service delivery point shall be responsible for ensuring compliance with the provisions of this title providing for priority services for veterans and priority referral of veterans to Federal contractors.
 
 (3) For the purposes of this subsection, an individual shall be considered to be registered for assistance with a local employment service office during a program year if the individual—
 
@@ -52,13 +52,13 @@
 
 #### References in Text
 
-The Wagner-Peyser Act, referred to in subsec. (a)(2)(B), is act June 6, 1933, ch. 49, 48 Stat. 113, as amended, which is classified generally to chapter 4B (§49 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 49 of Title 29 and Tables.
+The Wagner-Peyser Act, referred to in subsec. (a)(2)(B), is act June 6, 1933, ch. 49, 48 Stat. 113, asamended, which is classified generally to chapter 4B (§49 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 49 of Title 29 and Tables.
 
 The Veterans’ Job Training Act, referred to in subsec. (b)(12), is Pub. L. 98–77, Aug. 15, 1983, 97 Stat. 443, as amended, which is set out as a note under section 1721 of Title 29. For complete classification of this Act to the Code, see Tables.
 
 #### Prior Provisions
 
-Prior section 4104, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1244; Pub. L. 89–785, title I, §104, Nov. 7, 1966, 80 Stat. 1369; Pub. L. 94–123, §5(a), Oct. 22, 1975, 89 Stat. 675; Pub. L. 94–581, title I, §110(3), title II, §§209(a)(1), (2), 210(c)(3), Oct. 21, 1976, 90 Stat. 2848, 2860, 2863; Pub. L. 96–151, title III, §302(a), Dec. 20, 1979, 93 Stat. 1096; Pub. L. 98–160, title II, §201, Nov. 21, 1983, 97 Stat. 1000; Pub. L. 98–528, title I, §108, Oct. 19, 1984, 98 Stat. 2690; Pub. L. 100–322, title II, §211(a), May 20, 1988, 102 Stat. 513; Pub. L. 101–366, title I, §102(a), Aug. 15, 1990, 104Stat. 430, related to appointment of additional personnel for medical care of veterans, prior to repeal by Pub. L. 102–40, title IV, §401(a)(3), May 7, 1991, 105 Stat. 210. See section 7401 of this title.
+Prior section 4104, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1244; Pub. L. 89–785, title I, §104, Nov. 7, 1966, 80 Stat. 1369; Pub. L. 94–123, §5(a), Oct. 22, 1975, 89 Stat. 675; Pub. L. 94–581, title I, §110(3), title II, §§209(a)(1), (2), 210(c)(3), Oct. 21, 1976, 90 Stat. 2848, 2860, 2863; Pub. L. 96–151, title III, §302(a), Dec. 20, 1979, 93 Stat. 1096; Pub. L. 98–160, title II, §201, Nov. 21, 1983, 97 Stat. 1000; Pub. L. 98–528, title I, §108, Oct. 19, 1984, 98 Stat. 2690; Pub. L. 100–322, title II, §211(a), May 20, 1988, 102 Stat. 513; Pub. L. 101–366, title I, §102(a), Aug. 15, 1990, 104 Stat. 430, related to appointment of additional personnel for medical care of veterans, prior to repeal by Pub. L. 102–40, title IV, §401(a)(3), May 7, 1991, 105 Stat. 210. See section 7401 of this title.
 
 Provisions similar to those comprising this section were contained in former section 2003 of this title prior to the amendment of this chapter by Pub. L. 92–540.
 
@@ -99,6 +99,50 @@ Amendment by Pub. L. 94–502 effective Dec. 1, 1976, see section 703(c) of Pub.
 #### Effective Date of 1972 Amendment
 
 Amendment by Pub. L. 92–540 effective 90 days after Oct. 24, 1972, see section 601(b) of Pub. L. 92–540, set out as a note under section 4101 of this title.
+
+#### Pilot Program To Integrate and Streamline Functions of Local Veterans’ Employment Representatives
+
+Pub. L. 104–275, title III, §303, Oct. 9, 1996, 110 Stat. 3332, provided that:
+
+“(a)
+
+Authority To Conduct Pilot Program.—In order to assess the effects on the timeliness and quality of services to veterans resulting from re-focusing the staff resources of local veterans’ employment representatives, the Secretary of Labor may conduct a pilot program under which the primary responsibilities of local veterans’ employment representatives will be case management and the provision and facilitation of direct employment and training services to veterans.
+
+“(b)
+
+Authorities Under Chapter 41.—To implement the pilot program, the Secretary of Labor may suspend or limit application of those provisions of chapter 41 of title 38, United States Code (other than sections \[sic\] 4104(b)(1) and (c)) that pertain to the Local Veterans’ Employment Representative Program in States designated by the Secretary under subsection (d), except that the Secretary may use the authority of such chapter, as the Secretary may determine, in conjunction with the authority of this section, to carry out the pilot program. The Secretary may collect such data as the Secretary considers necessary for assessment of the pilot program. The Secretary shall measure and evaluate on a continuing basis the effectiveness of the pilot program in achieving its stated goals in general, and in achieving such goals in relation to their cost, their effect on related programs, and their structure and mechanisms for delivery of services.
+
+“(c)
+
+Targeted Veterans.—Within the pilot program, eligible veterans who are among groups most in need of intensive services, including disabled veterans, economically disadvantaged veterans, and veterans separated within the previous four years from active military, naval, or air service shall be given priority for service by local veterans’ employment representatives. Priority for the provision of service shall be given first to disabled veterans and then to the other categories of veterans most in need of intensive services in accordance with priorities determined by the Secretary of Labor in consultation with appropriate State labor authorities.
+
+“(d)
+
+States Designated.—The pilot program shall be limited to not more than five States to be designated by the Secretary of Labor.
+
+“(e)
+
+Reports to Congress.—(1) Not later than one year after the date of the enactment of this Act \[Oct. 9, 1996\], the Secretary of Labor shall submit to the Committees on Veterans’ Affairs of the Senate and the House of Representatives an interim report describing in detail the development and implementation of the pilot program on a State by State basis.
+
+“(2) Not later than 120 days after the expiration of this section under subsection (h), the Secretary of Labor shall submit to the Committees on Veterans’ Affairs of the Senate and the House of Representatives a final report evaluating the results of the pilot program and make recommendations based on the evaluation, which may include legislative recommendations.
+
+“(f)
+
+Definitions.—For the purposes of this section:
+
+&emsp;“(1) The term ‘veteran’ has the meaning given such term by section 101(2) of title 38, United States Code.
+
+&emsp;“(2) The term ‘disabled veteran’ has the meaning given such term by section 4211(3) of such title.
+
+&emsp;“(3) The term ‘active military, naval, or air service’ has the meaning given such term by section 101(24) of such title.
+
+“(g)
+
+Allocation of Funds.—Any amount otherwise available for fiscal year 1997, 1998, or 1999 to carry out section 4102A(b)(5) of title 38, United States Code, with respect to a State designated by the Secretary of Labor pursuant to subsection (d) shall be available to carry out the pilot program during that fiscal year with respect to that State.
+
+“(h)
+
+Expiration Date.—The authority to carry out the pilot program under this section shall expire on October 1, 1999.”
 
 #### Section Referred to in Other Sections
 

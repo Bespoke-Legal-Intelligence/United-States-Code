@@ -8,7 +8,7 @@ No Federal funds may be used to sponsor or fund in whole or in part a meeting, c
 
 #### (1) In general
 
-&emsp;The head of an agency of the Federal Government sponsoring or funding a particular meeting, convention, conference, or training seminar may waive the prohibition described in subsection (a) of this section if the head of such agency determines that a waiver of such prohibition is necessary in the public interest in the case of such particular event.
+&emsp;The head of an agency of the Federal Government sponsoring or funding a particularmeeting, convention, conference, or training seminar may waive the prohibition described in subsection (a) of this section if the head of such agency determines that a waiver of such prohibition is necessary in the public interest in the case of such particular event.
 
 #### (2) Delegation of authority
 

@@ -12,7 +12,7 @@ Prohibitions.—A person may not be excluded from participating in, denied a ben
 
 Compliance.—(1) The Secretary of Transportation shall take affirmative action to ensure compliance with subsection (b) of this section.
 
-(2) When the Secretary decides that a person receiving financial assistance under this chapter is not complying with subsection (b) of this section, a civil rights law of the United States, or a regulation or order under that law, the Secretary shall notify the person of the decisionand require action be taken to ensure compliance with subsection (b).
+(2) When the Secretary decides that a person receiving financial assistance under this chapter is not complying with subsection (b) of this section, a civil rights law of the United States, or a regulation or order under that law, the Secretary shall notify the person of the decision and require action be taken to ensure compliance with subsection (b).
 
 (d)
 
@@ -42,7 +42,9 @@ Application and Relationship to Other Laws.—This section applies to an employm
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -64,7 +66,7 @@ July 9, 1964, Pub. L. 88–365, 78 Stat. 302, §19; added Nov. 6, 1978, Pub. L. 
 
 5332(d)
 
-49 App.:1615(a) (3)(B).
+49 App.:1615(a)(3)(B).
 
 5332(e)
 

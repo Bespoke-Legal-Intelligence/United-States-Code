@@ -36,7 +36,7 @@ Appointment.—The Secretary of Commerce, in consultation with the Secretary of 
 
 &emsp;“(2) Taking actions to assure that United States businesses are fully informed of bidding opportunities for projects for which loans have been made by the multilateral development bank involved.
 
-&emsp;“(3) Taking actions to assure that United States businesses can focus on projects in which they havea particular interest or competitive advantage, and to permit them to compete and have an equal opportunity in submitting timely and conforming bidding documents.
+&emsp;“(3) Taking actions to assure that United States businesses can focus on projects in which they have a particular interest or competitive advantage, and to permit them to compete and have an equal opportunity in submitting timely and conforming bidding documents.
 
 “(b)
 

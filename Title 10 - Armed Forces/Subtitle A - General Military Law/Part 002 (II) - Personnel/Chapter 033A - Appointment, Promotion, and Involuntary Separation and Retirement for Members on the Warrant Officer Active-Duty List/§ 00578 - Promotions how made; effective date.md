@@ -8,7 +8,7 @@
 
 (d) Promotions shall be made in the order in which the names of warrant officers appear on the promotion list and after warrant officers previously selected for promotion in the applicable grade (or grade and competitive category) have been promoted.
 
-(e) A warrant officer who is appointed to a higher grade under this section is considered to have accepted such appointment on the date onwhich the appointment is made unless the officer expressly declines the appointment.
+(e) A warrant officer who is appointed to a higher grade under this section is considered to have accepted such appointment on the date on which the appointment is made unless the officer expressly declines the appointment.
 
 (f) A warrant officer who has served continuously as an officer since subscribing to the oath of office prescribed in section 3331 of title 5 is not required to take a new oath upon appointment to a higher grade under this section.
 

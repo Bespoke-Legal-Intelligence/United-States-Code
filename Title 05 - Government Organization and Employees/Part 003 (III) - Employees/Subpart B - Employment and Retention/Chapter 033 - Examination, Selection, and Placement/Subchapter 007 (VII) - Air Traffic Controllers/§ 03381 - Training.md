@@ -44,11 +44,11 @@ Subsecs. (a) and (b) of section 4107 of this title, referred to in subsec. (e), 
 
 #### Amendments
 
-<b>1994</b>—Subsec. (e). Pub. L. 103–226 substituted “4105,” for “4105(a),”.
+1994—Subsec. (e). Pub. L. 103–226 substituted “4105,” for “4105(a),”.
 
-<b>1982</b>—Subsec. (d). Pub. L. 97–258 substituted “section 3324(a) and (b)” for “section 529”.
+1982—Subsec. (d). Pub. L. 97–258 substituted “section 3324(a) and (b)” for “section 529”.
 
-<b>1980</b>—Subsec. (a). Pub. L. 96–347, §1(b), substituted “Secretary” for “Secretary of Transportation”.
+1980—Subsec. (a). Pub. L. 96–347, §1(b), substituted “Secretary” for “Secretary of Transportation”.
 
 Subsec. (c)(1). Pub. L. 96–347, §1(c)(1), substituted “in the Executive agency in which the controller is employed” for “in the Department of Transportation”.
 
@@ -62,11 +62,11 @@ Amendment by Pub. L. 96–347 effective on 90th day after Sept. 12, 1980, see se
 
 #### Effective Date
 
-Section 10 of Pub. L. 92–297 provided that: “This Act \[enacting this subchapter and section 2109 of this title,amending sections 3307, 8332, 8334 to 8336, 8339, 8341, 8344 of this title, enacting provisions set out as notes under this section and section 8335 of this title, and repealing provisions set out as a note under section 3307 of this title\] shall become effective at the beginning of the ninetieth day after the date of enactment of this Act \[May 16, 1972\].”
+Section 10 of Pub. L. 92–297 provided that: “This Act \[enacting this subchapter and section 2109 of this title, amending sections 3307, 8332, 8334 to 8336, 8339, 8341, 8344 of this title, enacting provisions set out as notes under this section and section 8335 of this title, and repealing provisions set out as a note under section 3307 of this title\] shall become effective at the beginning of the ninetieth day after the date of enactment of this Act \[May 16, 1972\].”
 
 #### Report to Congress
 
-Section 9 of Pub. L. 92–297 directed the Secretary of Transportation to report to Congress no later than 5 years after May 16, 1972, concerning his operations under the amendments made by Pub. L. 92–297, including a detailed statement of the effectiveness of Pub. L. 92–297 in meeting the needs of the Air Traffic Controller career program and of the air traffic control system plus recommendations for the management of the program or the system.
+Section 9 of Pub. L. 92–297 directed the Secretary of Transportation to report to Congress no later than 5years after May 16, 1972, concerning his operations under the amendments made by Pub. L. 92–297, including a detailed statement of the effectiveness of Pub. L. 92–297 in meeting the needs of the Air Traffic Controller career program and of the air traffic control system plus recommendations for the management of the program or the system.
 
 #### Section Referred to in Other Sections
 

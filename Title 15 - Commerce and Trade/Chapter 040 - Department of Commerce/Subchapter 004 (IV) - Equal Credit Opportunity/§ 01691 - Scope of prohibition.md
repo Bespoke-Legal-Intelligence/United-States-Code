@@ -14,9 +14,9 @@ It shall be unlawful for any creditor to discriminate against any applicant, wit
 
 It shall not constitute discrimination for purposes of this subchapter for a creditor—
 
-&emsp;(1) to make an inquiry of marital status if such inquiry is for the purpose of ascertaining the creditor's rights and remedies applicable to the particular extension of credit and not to discriminate in a determination of credit-worthiness;
+&emsp;(1) to make an inquiry of marital status if such inquiry is for the purpose of ascertaining the creditor's rights and remedies applicable to the particular extension of credit and not to discriminate in a determination of credit-worthiness; <sup>1</sup>
 
-&emsp;(2) to make an inquiry of the applicant's age or of whether the applicant's income derives from any public assistance program if such inquiry is for the purpose of determining the amount and probable continuance of income levels, credit history, or other pertinent element of credit-worthiness as provided in regulations of the Board;
+&emsp;(2) to make an inquiry of the applicant's age or of whether the applicant's income derives from any public assistance program if such inquiry is for the purpose of determining the amount and probable continuance of income levels, credit history, or other pertinent element of credit-worthiness <sup>1</sup> as provided in regulations of the Board;
 
 &emsp;(3) to use any empirically derived credit system which considers age if such system is demonstrably and statistically sound in accordance with regulations of the Board, except that in the operation of such system the age of an elderly applicant may not be assigned a negative factor or value; or
 
@@ -82,5 +82,7 @@ Section 502 of Pub. L. 93–495 provided that: “The Congress finds that there 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1691d, 1691e of this title.
+This section is referred to in sections 1681a, 1691d, 1691e of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should not be hyphenated.</i>
 

@@ -16,5 +16,5 @@ The Office shall notify the employee in writing when the counseling period has e
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1361, 1381, 1401, 1403, 1408, 1435 of this title.
+This section is referred to in sections 452, 1361, 1381, 1401, 1403, 1408, 1435 of this title.
 

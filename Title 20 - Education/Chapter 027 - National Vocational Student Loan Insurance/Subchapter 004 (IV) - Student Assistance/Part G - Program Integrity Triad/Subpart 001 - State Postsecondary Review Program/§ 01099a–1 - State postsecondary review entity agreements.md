@@ -46,7 +46,7 @@ Agreements between each State and the Secretary shall contain the following elem
 
 #### (c) Federal responsibility
 
-Notwithstanding any other provision of law, no State shall be required to enter into anagreement with the Secretary under this subpart for performing the review functions required by such agreement unless the Congress appropriates funds for this subpart.
+Notwithstanding any other provision of law, no State shall be required to enter into an agreement with the Secretary under this subpart for performing the review functions required by such agreement unless the Congress appropriates funds for this subpart.
 
 (Pub. L. 89–329, title IV, §494A, as added Pub. L. 102–325, title IV, §499, July 23, 1992, 106 Stat. 635.)
 

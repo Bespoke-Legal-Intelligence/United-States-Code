@@ -14,7 +14,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 5 U.S.C. 118k(d) (less 1st sentence).
 
@@ -28,7 +30,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-<b>1978</b>—Subsec. (a). Pub. L. 95–454 substituted “Merit Systems Protection Board” and “Board” for “Civil Service Commission” and “Commission”, respectively, wherever appearing.
+1978—Subsec. (a). Pub. L. 95–454 substituted “Merit Systems Protection Board” and “Board” for “Civil Service Commission” and “Commission”, respectively, wherever appearing.
 
 Subsecs. (b), (c). Pub. L. 95–454 substituted “Board” for “Commission” wherever appearing.
 

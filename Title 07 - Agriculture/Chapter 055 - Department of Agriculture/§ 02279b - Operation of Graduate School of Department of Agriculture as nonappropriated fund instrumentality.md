@@ -1,0 +1,134 @@
+### §2279b. Operation of Graduate School of Department of Agriculture as nonappropriated fund instrumentality
+
+#### (a) Definitions
+
+In this section:
+
+#### (1) Graduate School
+
+&emsp;The term “Graduate School” means the Graduate School of the Department of Agriculture.
+
+#### (2) Board
+
+&emsp;The term “Board” means the General Administration Board of the Graduate School.
+
+#### (3) Director
+
+&emsp;The term “Director” means the Director of the Graduate School.
+
+#### (4) Secretary
+
+&emsp;The term “Secretary” means the Secretary of Agriculture.
+
+#### (b) Operation as nonappropriated fund instrumentality
+
+On and after April 4, 1996, the Graduate School of the Department of Agriculture shall continue to operate as a nonappropriated fund instrumentality of the United States under the jurisdiction of the Department of Agriculture.
+
+#### (c) Activities of Graduate School
+
+Under the general supervision of the Secretary, the Graduate School shall develop, administer, and provide educational, training, and professional development activities, including educational activities for Federal agencies, Federal employees, nonprofit organizations, other entities, and members of the general public.
+
+#### (d) Fees and donations
+
+#### (1) Collection of fees
+
+&emsp;The Graduate School may charge and retain fair and reasonable fees for the activities provided by the Graduate School. The amount of the fees shall be based on the cost of the activities to the Graduate School.
+
+#### (2) Acceptance of donations
+
+#### (A) Acceptance and use authorized
+
+&emsp;&emsp;The Graduate School may accept, use, hold, dispose, and administer gifts, bequests, and devises of money, securities, and other real or personal property made for the benefit of, or in connection with, the Graduate School.
+
+#### (B) Exception
+
+&emsp;&emsp;The Graduate School shall not accept a donation from a person that is actively engaged in a procurement activity with the Graduate School or has an interest that may be substantially affected by the performance or nonperformance of an official duty of a member of the Board or an employee of the Graduate School.
+
+#### (3) Not Federal funds
+
+&emsp;Fees collected under paragraph (1) and amounts received under paragraph (2) shall not be considered to be Federal funds and shall not be required to be deposited in the Treasury of the United States.
+
+#### (e) General Administration Board and Director
+
+#### (1) Appointment as governing board
+
+&emsp;The Secretary shall appoint a General Administration Board to serve as a governing board for the Graduate School and to supervise and direct the activities of the Graduate School. The Board shall be subject to regulation by the Secretary.
+
+#### (2) Duties of Board
+
+&emsp;The Board shall—
+
+&emsp;&emsp;(A) formulate broad policies in accordance with which the Graduate School shall be administered;
+
+&emsp;&emsp;(B) take all steps necessary to ensure that the highest possible educational standards are maintained by the Graduate School;
+
+&emsp;&emsp;(C) exercise general supervision over the administration of the Graduate School; and
+
+&emsp;&emsp;(D) establish such bylaws, rules, and procedures as may be necessary for the fulfillment of the duties described in subparagraphs (A), (B), and (C).
+
+#### (3) Appointment of Director and other officers
+
+&emsp;The Board shall select a Director and such other officers as the Board considers necessary to administer the Graduate School. The Director and other officers shall serve on such terms and perform such duties as the Board may prescribe.
+
+#### (4) Duties of Director
+
+&emsp;The Director shall be responsible, subject to the supervision and direction of the Board, for carrying out the functions of the Graduate School.
+
+#### (5) Borrowing and investment authority
+
+&emsp;The Board may authorize the Director—
+
+&emsp;&emsp;(A) to borrow money on the credit of the Graduate School; and
+
+&emsp;&emsp;(B) to invest funds held in excess of the current operating requirements of the Graduate School for purposes of maintaining a reasonable reserve.
+
+#### (6) Liability
+
+&emsp;The Director and the members of the Board shall not be held personally liable for any loss or damage that may accrue to the funds of the Graduate School as the result of any act or exercise of discretion performed in carrying out their duties under this section.
+
+#### (f) Employees
+
+Employees of the Graduate School are employees of a nonappropriated fund instrumentality and shall not be considered to be Federal employees.
+
+#### (g) Not a Federal agency
+
+The Graduate School shall not be considered to be a Federal agency for purposes of—
+
+&emsp;(1) the Federal Advisory Committee Act (5 U.S.C. App.);
+
+&emsp;(2) section 552 or 552a of title 5; or
+
+&emsp;(3) chapter 171 of title 28.
+
+#### (h) Acquisition and disposal of property
+
+In order to carry out the activities of the Graduate School, the Graduate School may—
+
+&emsp;(1) acquire real property in the District of Columbia and in other places by lease, purchase, or otherwise;
+
+&emsp;(2) maintain, enlarge, or remodel any such property;
+
+&emsp;(3) have sole control of any such property; and
+
+&emsp;(4) dispose of real and personal property without regard to the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 471 et seq.).
+
+#### (i) Contract authority
+
+The Graduate School may enter into contracts without regard to the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 471 et seq.) or any other law that prescribes procedures for the procurement of property or services by an executive agency.
+
+#### (j) Use of Department facilities and resources
+
+The Graduate School may use the facilities and resources of the Department of Agriculture, on the condition that any costs incurred by the Department that are attributable solely to Graduate School operations and all costs incurred by the Graduate School arising out of such operations shall be paid using funds of the Graduate School. Federal funds may not be used to pay the costs.
+
+(Pub. L. 104–127, title IX, §921, Apr. 4, 1996, 110 Stat. 1191.)
+
+#### References in Text
+
+The Federal Advisory Committee Act, referred to in subsec. (g)(1), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+
+The Federal Property and Administrative Services Act of 1949, referred to in subsecs. (h)(4) and (i), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Provisions of the Act relating to management and disposal of property and to procurement procedures are classified generally to chapter 10 (§471 et seq.) of Title 40, Public Buildings, Property, and Works, and subchapter IV (§251 et seq.) of chapter 4 of Title 41, Public Contracts. For complete classification of this Act to the Code, see Short Title note set out under section 471 of Title 40 and Tables.
+
+#### Cross References
+
+Graduate School of Department of Agriculture, providing training, obtaining goods and services, and auditing of records, see section 5922 of this title.
+

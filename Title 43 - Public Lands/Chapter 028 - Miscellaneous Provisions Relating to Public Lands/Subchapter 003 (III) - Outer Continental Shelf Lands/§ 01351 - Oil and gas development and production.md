@@ -52,7 +52,7 @@ If approval of a development and production plan is not found to be a major Fede
 
 &emsp;(A) if the lessee fails to demonstrate that he can comply with the requirements of this subchapter or other applicable Federal law, including the regulations prescribed by the Secretary pursuant to paragraph (8) of section 1334(a) of this title;
 
-&emsp;(B) if any of the activities described in detail in the plan for which a Federal license or permit is required and which affects any land use or water use in the coastal zone of a State with a coastal zone management program approved pursuant to section 306 of the CoastalZone Management Act of 1972 (16 U.S.C. 1455) do not receive concurrence by such State with respect to the consistency certification accompanying such plan pursuant to section 307(c)(3)(B)(i) or (ii) of such Act \[16 U.S.C. 1456(c)(3)(B)(i) or (ii)\] and the Secretary of Commerce does not make the finding authorized by section 307(c)(3)(B)(iii) of such Act \[16 U.S.C. 1456(c)(3)(B)(iii)\];
+&emsp;(B) if any of the activities described in detail in the plan for which a Federal license or permit is required and which affects any land use or water use in the coastal zone of a State with a coastal zone management program approved pursuant to section 306 of the Coastal Zone Management Act of 1972 (16 U.S.C. 1455) do not receive concurrence by such State with respect to the consistency certification accompanying such plan pursuant to section 307(c)(3)(B)(i) or (ii) of such Act \[16 U.S.C. 1456(c)(3)(B)(i) or (ii)\] and the Secretary of Commerce does not make the finding authorized by section 307(c)(3)(B)(iii) of such Act \[16 U.S.C. 1456(c)(3)(B)(iii)\];
 
 &emsp;(C) if operations threaten national security or national defense; or
 

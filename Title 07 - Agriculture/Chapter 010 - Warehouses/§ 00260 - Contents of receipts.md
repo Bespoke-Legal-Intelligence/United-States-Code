@@ -6,9 +6,9 @@ Every receipt issued for agricultural products stored in a warehouse licensed un
 
 #### Amendments
 
-1923—Act Feb. 23, 1923, inserted last proviso in cl. (<i>l).</i>
+1923—Act Feb. 23, 1923, inserted last proviso in cl. (<i>l</i>).
 
-1919—Act July 24, 1919, struck out “if it has plainly and conspicuously embodied in its written or printed terms a provision that such receipt is not negotiable” after “may be issued” in cl. (<i>l).</i>
+1919—Act July 24, 1919, struck out “if it has plainly and conspicuously embodied in its written or printed terms a provision that such receipt is not negotiable” after “may be issued” in cl. (<i>l</i>).
 
 #### Section Referred to in Other Sections
 

@@ -1,5 +1,5 @@
 
-10 U.S.C.<br>United States Code, 1995 Edition<br>Title 10 - ARMED FORCES<br>From the U.S. Government Publishing Office, www.gpo.gov
+10 U.S.C.<br>United States Code, 1996 Edition<br>Title 10 - ARMED FORCES<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 10—ARMED FORCES
 
@@ -21,9 +21,13 @@
 
 Table I<br>(Showing disposition of all sections of former Title 10)
 
-<i>Title 10      Former Sections     </i>
+<i>Title 10</i>
 
-<i>Title 10         New Sections        </i>
+<i>Former Sections</i>
+
+<i>Title 10</i>
+
+<i>New Sections</i>
 
 1
 
@@ -1661,7 +1665,7 @@ Rep.
 
 3212, 3299, 8212, 8299
 
-559c(<i>l)</i>
+559c(<i>l</i>)
 
 8301
 
@@ -4003,9 +4007,13 @@ Elim.
 
 Table II<br>(Showing disposition of all sections of former Title 34)
 
-<i>Title 34      Former Sections     </i>
+<i>Title 34</i>
 
-<i>Title 10         New Sections        </i>
+<i>Former Sections</i>
+
+<i>Title 10</i>
+
+<i>New Sections</i>
 
 1
 
@@ -4851,7 +4859,7 @@ Rep.
 
 5597, 5787
 
-211a(<i>o)</i>
+211a(<i>o</i>)
 
 5504, 5505, 5786
 
@@ -5455,7 +5463,7 @@ Rep.
 
 5707, 5763. Rep. in part. See 6401 nt.
 
-307(<i>l)</i>
+307(<i>l</i>)
 
 5707, 5708
 
@@ -5467,7 +5475,7 @@ Rep.
 
 5775
 
-307(<i>o)</i>
+307(<i>o</i>)
 
 5774, 5775
 
@@ -5947,7 +5955,7 @@ Rep.
 
 6381
 
-410j(<i>l)</i>
+410j(<i>l</i>)
 
 Elim.
 
@@ -6307,7 +6315,7 @@ Elim.
 
 Rep.
 
-495 (1st par., less 2d proviso).
+495 (1st par., less 2d proviso)
 
 Elim.
 
@@ -6423,11 +6431,11 @@ Rep.
 
 7299
 
-498m (2d sent. of 3d par.).
+498m (2d sent. of 3d par.)
 
 7296
 
-498m (less 2d sent of 3d par.).
+498m (less 2d sent of 3d par.)
 
 Elim.
 
@@ -6991,7 +6999,7 @@ Rep. See 6401, 6402, 6404
 
 5703, 5709
 
-626–1(<i>l)</i>
+626–1(<i>l</i>)
 
 5709, 5710, 6373, 6381
 
@@ -7003,7 +7011,7 @@ Rep. See 6401, 6402, 6404
 
 6374, 6381
 
-626–1(<i>o)</i>
+626–1(<i>o</i>)
 
 5443, 5703, 5707, 5708, 5757, 5765, 5769, 5775, 6383
 
@@ -7323,11 +7331,11 @@ Rep.
 
 Rep.
 
-749 (2d proviso of par. 7).
+749 (2d proviso of par. 7)
 
 7341
 
-749 (less 2d proviso of par. 7).
+749 (less 2d proviso of par. 7)
 
 Rep.
 
@@ -8571,13 +8579,13 @@ Section 34 of Pub. L. 85–861 provided that:
 
 “(c) Actions taken under the replaced law shall be considered to have been taken under the corresponding provisions of sections 1–32.
 
-“(d) If a part of this Act is invalid, all valid parts that are severable from the invalid part remain in effect. If a part of this Act is invalid in one or more ofits applications, the part remains in effect in all valid applications that are severable from the invalid applications.
+“(d) If a part of this Act is invalid, all valid parts that are severable from the invalid part remain in effect. If a part of this Act is invalid in one or more of its applications, the part remains in effect in all valid applications that are severable from the invalid applications.
 
 “(e) The enactment of this Act does not increase or decrease the pay or allowances, including retired and retainer pay, of any person.”
 
 Section 35 of Pub. L. 85–861 provided that: “If on the effective date of this Act \[Sept. 2, 1958\] a provision of law that is restated in this Act and repealed by section 36 would have been in a suspended or temporarily superseded status but for its repeal, the provisions of this Act that restate that provision have the same suspended or temporarily superseded status.”
 
-Section 36 of Pub. L. 85–861 repealed certain laws except with respect to rights and duties that matured, penalties that were incurred, and proceedings that were begun, before Sept. 2, 1958.
+Section 36 of Pub. L. 85–861 repealed certain laws except with respect to rights and duties that matured,penalties that were incurred, and proceedings that were begun, before Sept. 2, 1958.
 
 #### Improvement of United States Code by Pub. L. 87–651; Inconsistent Provisions Superseded; Corresponding Provisions
 
@@ -8653,7 +8661,7 @@ Pub. L. 103–337, div. A, title XVI, §1665, Oct. 5, 1994, 108 Stat. 3012, prov
 
 “(a)
 
-References to Transferred or Replaced Provisions.—A reference to a provision of title 10, United States Code, transferred or replaced by the provisions of sections 1661 through 1664 \[see Tables for classification\] (including a reference in a regulation, order, orother law) shall be treated as referring to that provision as transferred or to the corresponding provision as so enacted by this subtitle \[subtitle C (§§1661–1665) of title XVI of div. A of Pub. L. 103–337\].
+References to Transferred or Replaced Provisions.—A reference to a provision of title 10, United States Code, transferred or replaced by the provisions of sections 1661 through 1664 \[see Tables for classification\] (including a reference in a regulation, order, or other law) shall be treated as referring to that provision as transferred or to the corresponding provision as so enacted by this subtitle \[subtitle C (§§1661–1665) of title XVI of div. A of Pub. L. 103–337\].
 
 “(b)
 
@@ -8661,7 +8669,7 @@ Savings Provision for Regulations.—A regulation, rule, or order in effect unde
 
 “(c)
 
-General Savings Provision.—An action taken, or a right that matured, under a provision of title 10, United States Code, replaced by a provision of that title enacted by sections 1661 through 1664 shall be treated as having been taken, or having matured, under the corresponding provision so enacted.”
+General Savings Provision.—An action taken, or a right that matured, under a provision of title 10, United States Code, replaced by a provision of that title enacted by sections 1661 through 1664 shall betreated as having been taken, or having matured, under the corresponding provision so enacted.”
 
 #### Cross References
 
@@ -8683,7 +8691,7 @@ Veterans’ benefits, see section 101 et seq. of Title 38, Veterans’ Benefits.
 
 #### Title Referred to in Other Sections
 
-This title is referred to in title 50 sections 415, 2031.
+This title is referred to in title 36 section 5507; title 50 sections 415, 2031.
 
 
 ---

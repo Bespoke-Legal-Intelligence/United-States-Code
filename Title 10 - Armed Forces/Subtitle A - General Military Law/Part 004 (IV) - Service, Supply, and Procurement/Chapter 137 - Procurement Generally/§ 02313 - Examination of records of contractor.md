@@ -26,7 +26,7 @@ DCAA Subpoena Authority.—(1) The Director of the Defense Contract Audit Agency
 
 (3) The authority provided by paragraph (1) may not be redelegated.
 
-(4) The Director (or any successor official) shall submit an annual report to the Secretary of Defense on the exercise of such authority during the preceding year and the reasons why such authority was exercised in any instance. The Secretary shall forward a copy of each such report to the Committees on Armed Services of the Senate and House of Representatives.
+(4) The Director (or any successor official) shall submit an annual report to the Secretary of Defense on the exercise of such authority during the preceding year and the reasons why such authority was exercised in any instance. The Secretary shall forward a copy of each such report to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives.
 
 (c)
 
@@ -42,7 +42,7 @@ Comptroller General Authority.—(1) Except as provided in paragraph (2), each c
 
 (d)
 
-Limitation on Preaward Audits Relating to Indirect Costs.—The head of an agency may not perform a preaward audit to evaluate proposed indirect costs under any contract, subcontract, or modification to be entered into in accordance with this chapter in any case in which the contracting officer determines that the objectives of the audit can reasonably be met by accepting the results of an audit conducted by any other department or agency of the Federal Government within one year preceding the date of the contracting officer's determination.
+Limitation on Audits Relating to Indirect Costs.—The head of an agency may not perform an audit of indirect costs under a contract, subcontract, or modification before or after entering into the contract, subcontract, or modification in any case in which the contracting officer determines that the objectives of the audit can reasonably be met by accepting the results of an audit that was conducted by any other department or agency of the Federal Government within one year preceding the date of the contracting officer's determination.
 
 (e)
 
@@ -74,7 +74,7 @@ Use of Images of Original Records.—The head of an agency shall not require a c
 
 Records Defined.—In this section, the term “records” includes books, documents, accounting procedures and practices, and other data, regardless of type and regardless of whether such items are in written form, in the form of computer data, or in any other form.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 132; Sept. 27, 1966, Pub. L. 89–607, §1(2), 80 Stat. 850; July 18,1984, Pub. L. 98–369, div. B, title VII, §2727(c), 98 Stat. 1195; Nov. 8, 1985, Pub. L. 99–145, title IX, §935, 99 Stat. 700; Apr. 21, 1987, Pub. L. 100–26, §7(g)(1), 101 Stat. 282; Nov. 5, 1990, Pub. L. 101–510, div. A, title XIII, §1301(9), 104 Stat. 1668; Oct. 13, 1994, Pub. L. 103–355, title II, §2201(a)(1), title IV, §4102(c), 108 Stat. 3316, 3340.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 132; Sept. 27, 1966, Pub. L. 89–607, §1(2), 80 Stat. 850; July 18, 1984, Pub. L. 98–369, div. B, title VII, §2727(c), 98 Stat. 1195; Nov. 8, 1985, Pub. L. 99–145, title IX, §935, 99 Stat. 700; Apr. 21, 1987, Pub. L. 100–26, §7(g)(1), 101 Stat. 282; Nov. 5, 1990, Pub. L. 101–510, div. A, title XIII, §1301(9), 104 Stat. 1668; Oct. 13, 1994, Pub. L. 103–355, title II, §2201(a)(1), title IV, §4102(c), 108 Stat. 3316, 3340; Feb. 10, 1996, Pub. L. 104–106, div. A, title XV, §1502(a)(1), 110 Stat. 502; Sept. 23, 1996, Pub. L. 104–201, div. A, title VIII, §808(a), 110 Stat. 2607.)
 
 Historical and Revision Notes
 
@@ -102,6 +102,12 @@ In subsection (b), the word “under” is substituted for the words “pursuant
 
 #### Amendments
 
+1996—Subsec. (b)(4). Pub. L. 104–106 substituted “Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives” for “Committees on Armed Services of the Senate and House of Representatives”.
+
+Subsec. (d). Pub. L. 104–201 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “
+
+Limitation on Preaward Audits Relating to Indirect Costs.—The head of an agency may not perform a preaward audit to evaluate proposed indirect costs under any contract, subcontract, or modification to be entered into in accordance with this chapter in any case in which the contracting officer determines that the objectives of the audit can reasonably be met by accepting the results of an audit conducted by any other department or agency of the Federal Government within one year preceding the date of the contracting officer's determination.”
+
 1994—Pub. L. 103–355, §2201(a)(1), amended section generally, striking out “of books” before “and records” in section catchline, and substituting subsecs. (a) to (i) for former subsecs. (a) to (d).
 
 Subsec. (f)(2). Pub. L. 103–355, §4102(c), added par. (2).
@@ -118,13 +124,9 @@ Subsec. (f)(2). Pub. L. 103–355, §4102(c), added par. (2).
 
 Subsec. (c). Pub. L. 89–607, §1(2)(B), added subsec. (c).
 
-#### Change of Name
-
-Committee on Armed Services of House of Representatives treated as referring to Committee on National Security of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
-
 #### Effective Date of 1994 Amendment
 
-For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under section 251 of Title 41, Public Contracts.
+For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, setout as a note under section 251 of Title 41, Public Contracts.
 
 #### Effective Date of 1984 Amendment
 

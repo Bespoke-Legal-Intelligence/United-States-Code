@@ -26,7 +26,7 @@ The lease and transfer of any part of a tobacco acreage allotment determined for
 
 #### (e) Limitation on amount of acreage allotment; “tillable cropland” defined
 
-(1) The total acreage allotted to any farm after the transfer by lease or sale of tobacco acreage allotment to the farm under the provisions of this section shall not exceed 50 per centum of the acreage of cropland in the farm or, in the case of the sale of a Flue-cured tobacco acreage allotment or poundage quota, of the acreage of tillable cropland (as defined in paragraph (2)) in the farm: <i>Provided,</i> That in the case of cigar-filler tobacco types 42, 43, or 44, not more than 10 acres of allotment may be leased and transferred to any farm.
+(1) The total acreage allotted to any farm after the transfer by lease or sale of tobacco acreage allotment to the farm under the provisions of this section shall not exceed 50 per centum of the acreage of cropland in the farm or, in the case of the sale of a Flue-cured tobacco acreage allotment or poundage quota, of the acreage of tillable cropland (as defined in paragraph (2)) in the farm: <i>Provided</i>, That in the case of cigar-filler tobacco types 42, 43, or 44, not more than 10 acres of allotment may be leased and transferred to any farm.
 
 (2) For purposes of this section, the term “tillable cropland” means cleared land that can be planted to crops without unusual cultivation or other preparation.
 
@@ -116,7 +116,7 @@ Subsec. (c). Pub. L. 98–180, §206(a), struck out provisions requiring the les
 
 Subsec. (e)(1). Pub. L. 98–180, §206(b)(2), substituted “the sale of a Flue-cured tobacco acreage allotment or poundage quota” for “Flue-cured tobacco”.
 
-Subsec. (g)(2). Pub. L. 98–180, §206(b)(3), struck out last sentence which read as follows: “Any person who owns any Flue-cured tobacco allotment or quota andleases such allotment or quota to another person for use in producing a crop shall be considered to have shared in the risk of producing such crop if, under the terms of such lease, subparagraphs (B) and (C) of this paragraph are satisfied with regard to such owner.”
+Subsec. (g)(2). Pub. L. 98–180, §206(b)(3), struck out last sentence which read as follows: “Any person who owns any Flue-cured tobacco allotment or quota and leases such allotment or quota to another person for use in producing a crop shall be considered to have shared in the risk of producing such crop if, under the terms of such lease, subparagraphs (B) and (C) of this paragraph are satisfied with regard to such owner.”
 
 1982—Subsec. (a). Pub. L. 97–218, §201(a), designated existing provisions as par. (1), substituted “shall permit the owner of any farm to which a Flue-cured tobacco acreage allotment or quota is assigned under this chapter and may permit the owner and operator” for “may permit the owner and operator”, and substituted “(other than a Burley, Flue-cured, dark air-cured, fire-cured, Virginia sun-cured and cigar-binder, type 54 or 55 tobacco acreage allotment) is established under this chapter, to lease” for “(other than a Burley, dark air-cured, fire-cured, Virginia sun-cured and cigar-binder, type 54 or 55 tobacco acreage allotment) is established under this chapter to lease”, and added par. (2).
 
@@ -166,7 +166,7 @@ Subsec. (h). Pub. L. 88–469, §2, repealed subsec. (h) which related to filing
 
 1963—Subsec. (a). Pub. L. 88–68, §1(1), extended to crop years 1964 and 1965 provisions permitting lease of tobacco acreage allotments, substituted “or” for “, and for the 1963 crop year, other than”, inserted “1962 or 1963” before “allotment” in the Maryland tobacco provision and precluded the leasing of 1964 or 1965 Maryland tobacco allotment from the farm unless at least 75 per centum of the allotment for the farm was actually planted on such farm during each of the two immediately preceding years.
 
-Subsec. (b). Pub. L. 88–68, §1(2), required annual basis for leases and eliminated provisions against leases for any period exceeding 1 year and for renewal of 1963 crop year leases, except renewal of 1963 crop year leases forcigar-filler and cigar-binder (types 42, 43, 44, 53, 54, and 55).
+Subsec. (b). Pub. L. 88–68, §1(2), required annual basis for leases and eliminated provisions against leases for any period exceeding 1 year and for renewal of 1963 crop year leases, except renewal of 1963 crop year leases for cigar-filler and cigar-binder (types 42, 43, 44, 53, 54, and 55).
 
 Subsec. (h). Pub. L. 88–80 added subsec. (h).
 

@@ -6,7 +6,7 @@ If the payment upon which tax is imposed by section 4261 is made outside the Uni
 
 #### (b) Tax deducted upon refunds
 
-Every person who refunds any amount with respect to a ticket or order which was purchasedwithout payment of the tax imposed by section 4261 shall deduct from the amount refundable, to the extent available, any tax due under such section as a result of the use of a portion of the transportation purchased in connection with such ticket or order, and shall report to the Secretary the amount of any such tax remaining uncollected.
+Every person who refunds any amount with respect to a ticket or order which was purchased without payment of the tax imposed by section 4261 shall deduct from the amount refundable, to the extent available, any tax due under such section as a result of the use of a portion of the transportation purchased in connection with such ticket or order, and shall report to the Secretary the amount of any such tax remaining uncollected.
 
 #### (c) Payment of tax
 
@@ -24,7 +24,7 @@ Where any tax imposed by section 4261 is not paid at the time payment for transp
 
 #### (d) Application of tax
 
-The tax imposed by section 4261 shall apply to any amount paid within the United States for transportation of any person by air unless the taxpayer establishes, pursuant to regulations prescribed by the Secretary at the time of payment for the transportation, that the transportation is not transportation in respect of which tax is imposed by section 4261.
+The tax imposed by section 4261 shall apply to any amount paid within the United States for transportation of any person by air unless thetaxpayer establishes, pursuant to regulations prescribed by the Secretary at the time of payment for the transportation, that the transportation is not transportation in respect of which tax is imposed by section 4261.
 
 #### (e) Round trips
 

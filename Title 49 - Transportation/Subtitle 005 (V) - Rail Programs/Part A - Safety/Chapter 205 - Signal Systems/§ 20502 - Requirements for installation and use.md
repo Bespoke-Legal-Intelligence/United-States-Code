@@ -18,7 +18,9 @@ Use.—A railroad carrier may allow a signal system to be used on its railroad l
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -32,7 +34,7 @@ Feb. 4, 1887, ch. 104, 24 Stat. 379, §25(b); added Feb. 28, 1920, ch. 91, §441
 
 &nbsp;
 
-49 App.:1655(e) (6)(A).
+49 App.:1655(e)(6)(A).
 
 Oct. 15, 1966, Pub. L. 89–670, §6(e)(6)(A), 80 Stat. 939.
 
@@ -48,5 +50,5 @@ In subsection (a)(1), the words “decides after an investigation that it is nec
 
 In subsection (a)(2), the words “railroad line” are substituted for “railroad” for consistency in the revised title. The word “civil” is added for consistency in the revised title and with other titles of the United States Code. The words “or incident” are added for consistency in this part.
 
-In subsection (b), before clause (1), the words “may allow . . . only when” are substituted for “It shall be unlawful . . . unless . . . unless” for clarity. In clause (1), the words “in proper condition and” and “in the service to which it is put” are omitted as being covered by the words of the clause. The words “risk of personal injury” are substituted for “peril to life and limb” for clarity. The words “from time to time” are omitted as surplus. In clause (2), the words “prescribed under this chapter” are substituted for “in accordance with the provisions of this section” and “prescribed in the rulesand regulations provided for in this section” for consistency and to eliminate unnecessary words.
+In subsection (b), before clause (1), the words “may allow . . . only when” are substituted for “It shall be unlawful . . . unless . . . unless” for clarity. In clause (1), the words “in proper condition and” and “in the service to which it is put” are omitted as being covered by the words of the clause. The words “risk of personal injury” are substituted for “peril to life and limb” for clarity. The words “from time to time” are omitted as surplus. In clause (2), the words “prescribed under this chapter” are substituted for “in accordance with the provisions of this section” and “prescribed in the rules and regulations provided for in this section” for consistency and to eliminate unnecessary words.
 

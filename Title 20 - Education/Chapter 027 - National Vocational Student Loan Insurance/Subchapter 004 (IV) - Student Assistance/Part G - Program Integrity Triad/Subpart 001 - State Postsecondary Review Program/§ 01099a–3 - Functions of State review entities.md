@@ -50,7 +50,7 @@ The criteria provided for in subsection (b) of this section shall be measured on
 
 #### (d) Review standards
 
-Institutions which meet 1 or more of the criteria in subsection (b) of this section shall be reviewed by the appropriate State entity in accordance with published State standards that are consistent with the constitution and laws of the State, developed in consultation with the institutions in the State, and subject to disapproval by the Secretary. Such review shall determine the following:
+Institutions which meet 1 or more of the criteria in subsection (b) of this section shall be reviewed by the appropriate State entity in accordance with published State standards thatare consistent with the constitution and laws of the State, developed in consultation with the institutions in the State, and subject to disapproval by the Secretary. Such review shall determine the following:
 
 &emsp;(1) The availability to students and prospective students of catalogs, admissions requirements, course outlines, schedules of tuition and fees, policies regarding course cancellations, and the rules and regulations of the institution relating to students and the accuracy of such catalogs and course outlines in reflecting the courses and programs offered by the institution.
 
@@ -94,7 +94,7 @@ Institutions which meet 1 or more of the criteria in subsection (b) of this sect
 
 &emsp;&emsp;(E) the variety of student completion goals, including transfer to another institution of higher education, full-time employment in the field of study, and military service.
 
-&emsp;(15) With respect to an institution which meets 1 or more of the criteria in subsection (b) of this section, the State shall contractwith the appropriate approved accrediting agency or association (described in subpart 2 of this part) or another peer review system with demonstrated competence in assessing programs (pursuant to the authority contained in subsection (f) of this section) to carry out a review or provide information regarding such agency's or association's assessment of the following: The quality and content of the institution's courses or programs of instruction, training, or study in relation to achieving the stated objectives for which the courses or programs are offered, including the adequacy of the space, equipment, instructional materials, staff, and student support services (including student orientation, counseling, and advisement) for providing education and training that meets such stated objectives.
+&emsp;(15) With respect to an institution which meets 1 or more of the criteria in subsection (b) of this section, the State shall contract with the appropriate approved accrediting agency or association (described in subpart 2 of this part) or another peer review system with demonstrated competence in assessing programs (pursuant to the authority contained in subsection (f) of this section) to carry out a review or provide information regarding such agency's or association's assessment of the following: The quality and content of the institution's courses or programs of instruction, training, or study in relation to achieving the stated objectives for which the courses or programs are offered, including the adequacy of the space, equipment, instructional materials, staff, and student support services (including student orientation, counseling, and advisement) for providing education and training that meets such stated objectives.
 
 #### (e) Substitutions prohibited
 

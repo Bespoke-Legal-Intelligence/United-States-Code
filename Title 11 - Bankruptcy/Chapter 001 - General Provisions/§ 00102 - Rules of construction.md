@@ -24,7 +24,7 @@ In this title—
 
 &emsp;(7) the singular includes the plural;
 
-&emsp;(8) a definition, contained in a section of this title that refers to another section of this title, does not, for the purpose of such reference, affect the meaning of a term used in such other section; and
+&emsp;(8) a definition, contained in a section of this title that refers to another section of thistitle, does not, for the purpose of such reference, affect the meaning of a term used in such other section; and
 
 &emsp;(9) “United States trustee” includes a designee of the United States trustee.
 
@@ -50,7 +50,7 @@ Section 102(8) is new. It contains a rule of construction indicating that a defi
 
 Section 102 provides seven rules of construction. Some are derived from current law; others are derived from 1 U.S.C. 1; a few are new. They apply generally throughout proposed title 11. These are terms that are not appropriate for definition, but that require an explanation.
 
-Paragraph (1) defines the concept of “after notice and a hearing.” The concept is central to the bill and to the separation of the administrative and judicial functions of bankruptcy judges. The phrase means after such notice as is appropriate in the particular circumstances (to be prescribed by either the Rules of Bankruptcy Procedure or by the court in individual circumstances that the Rules do not cover. In many cases, the Rules will provide for combined notice of several proceedings), and such opportunity for a hearing as is appropriate in the particular circumstances. Thus, a hearing will not be necessary in every instance. If there is no objection to the proposed action, the action may go ahead without court action. This is a significant change from present law, which requires the affirmative approval of the bankruptcy judge for almost every action. The change will permit the bankruptcy judge to stay removed from the administration of the bankruptcy or reorganization case, and to become involvedonly when there is a dispute about a proposed action, that is, only when there is an objection. The phrase “such opportunity for a hearing as is appropriate in the particular circumstances” is designed to permit the Rules and the courts to expedite or dispense with hearings when speed is essential. The language “or similar phrase” is intended to cover the few instances in the bill where “after notice and a hearing” is interrupted by another phrase, such as “after notice to the debtor and a hearing.”
+Paragraph (1) defines the concept of “after notice and a hearing.” The concept is central to the bill and to the separation of the administrative and judicial functions of bankruptcy judges. The phrase means after such notice as is appropriate in the particular circumstances (to be prescribed by either the Rules of Bankruptcy Procedure or by the court in individual circumstances that the Rules do not cover. In many cases, the Rules will provide for combined notice of several proceedings), and such opportunity for a hearing as is appropriate in the particular circumstances. Thus, a hearing will not be necessary in every instance. If there is no objection to the proposed action, the action may go ahead without court action. This is a significant change from present law, which requires the affirmative approval of the bankruptcy judge for almost every action. The change will permit the bankruptcy judge to stay removed from the administration of the bankruptcy or reorganization case, and to become involved only when there is a dispute about a proposed action, that is, only when there is an objection. The phrase “such opportunity for a hearing as is appropriate in the particular circumstances” is designed to permit the Rules and the courts to expedite or dispense with hearings when speed is essential. The language “or similar phrase” is intended to cover the few instances in the bill where “after notice and a hearing” is interrupted by another phrase, such as “after notice to the debtor and a hearing.”
 
 Paragraph (2) specifies that “claim against the debtor” includes claim against property of the debtor. This paragraph is intended to cover nonrecourse loan agreements where the creditor's only rights are against property of the debtor, and not against the debtor personally. Thus, such an agreement would give rise to a claim that would be treated as a claim against the debtor personally, for the purposes of the bankruptcy code.
 
@@ -76,5 +76,5 @@ Effective date and applicability of amendment by Pub. L. 99–554 dependent upon
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
+Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
 

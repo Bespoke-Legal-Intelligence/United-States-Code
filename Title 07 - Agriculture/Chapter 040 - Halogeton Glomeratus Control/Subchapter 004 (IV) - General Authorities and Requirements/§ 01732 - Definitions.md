@@ -4,7 +4,7 @@ As used in this chapter:
 
 #### (1) Administrator
 
-&emsp;The term “Administrator” means the Administrator of the Agency for International Development, unless otherwise specified in this chapter.
+&emsp;The term “Administrator” means the Administrator of the Agency for InternationalDevelopment, unless otherwise specified in this chapter.
 
 #### (2) Agricultural commodity
 
@@ -22,9 +22,9 @@ As used in this chapter:
 
 &emsp;The term “food security” means access by all people at all times to sufficient food and nutrition for a healthy and productive life.
 
-#### (6) Indigenous nongovernmental organization
+#### (6) Nongovernmental organization
 
-&emsp;The term “indigenous nongovernmental organization” means an organization that operates under the laws of the recipient country, or that has its principal place of activity in such country, and that works at the local level to solve development problems in the foreign country in which it is located, except that the term does not include an organization that is primarily an agent or instrumentality of the foreign government.
+&emsp;The term “nongovernmental organization” means an organization that works at the local level to solve development problems in a foreign country in which the organization is located, except that the term does not include an organization that is primarily an agency or instrumentality of the government of the foreign country.
 
 #### (7) Private voluntary organization
 
@@ -34,9 +34,11 @@ As used in this chapter:
 
 &emsp;The term “Secretary” means the Secretary of Agriculture, unless otherwise specified in this chapter.
 
-(July 10, 1954, ch. 469, title IV, §402, as added Sept. 21, 1959, Pub. L. 86–341, title I, §14, 73 Stat. 610; amended Sept. 27, 1962, Pub. L. 87–703, title II, §201(2), 76 Stat. 611; Nov. 11, 1966, Pub. L. 89–808, §2(E), 80 Stat. 1536; July 1, 1971, Pub. L. 92–42, 85 Stat. 99; Sept. 29, 1977, Pub. L. 95–113, title XII, §1205, 91 Stat. 956; Sept. 29, 1979, Pub. L. 96–72, §24, 93 Stat. 536; Dec. 22, 1981, Pub. L. 97–98, title XII, §1213, 95 Stat. 1281; Nov. 8, 1984, Pub. L. 98–623, title IV, §405(b), 98 Stat. 3409; Nov. 28, 1990, Pub. L. 101–624, title XV, §1512, 104 Stat. 3645.)
+(July 10, 1954, ch. 469, title IV, §402, as added Sept. 21, 1959, Pub. L. 86–341, title I, §14, 73 Stat. 610; amended Sept. 27, 1962, Pub. L. 87–703, title II, §201(2), 76 Stat. 611; Nov. 11, 1966, Pub. L. 89–808, §2(E), 80 Stat. 1536; July 1, 1971, Pub. L. 92–42, 85 Stat. 99; Sept. 29, 1977, Pub. L. 95–113, title XII, §1205, 91 Stat. 956; Sept. 29, 1979, Pub. L. 96–72, §24, 93 Stat. 536; Dec. 22, 1981, Pub. L. 97–98, title XII, §1213, 95 Stat. 1281; Nov. 8, 1984, Pub. L. 98–623, title IV, §405(b), 98 Stat. 3409; Nov. 28, 1990, Pub. L. 101–624, title XV, §1512, 104 Stat. 3645; Apr. 4, 1996, Pub. L. 104–127, title II, §211(b), 110 Stat. 955.)
 
 #### Amendments
+
+1996—Par. (6). Pub. L. 104–127 added par. (6) and struck out heading and text of former par. (6). Prior to amendment, text read as follows: “The term ‘indigenous nongovernmental organization’ means an organization that operates under the laws of the recipient country, or that has its principal place of activity in such country, and that works at the local level to solve development problems in the foreign country in which it is located, except that the term does not include an organization that is primarily an agent or instrumentality of the foreign government.”
 
 1990—Pub. L. 101–624 amended section generally, substituting present provisions for provisions defining agricultural commodity.
 

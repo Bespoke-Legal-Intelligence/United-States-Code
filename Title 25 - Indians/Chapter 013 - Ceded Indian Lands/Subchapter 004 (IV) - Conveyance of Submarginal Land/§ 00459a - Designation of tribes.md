@@ -18,7 +18,7 @@ The lands, declared by section 459(a) of this title to be held in trust by the U
 | &nbsp;7. Devils Lake Sioux Tribe | Fort Totten | Fort Totten LI–ND–11 | 1,424.45 |
 | &nbsp;8. Fort Belknap Indian Community | Fort Belknap | Fort Belknap LI–MT–8 | 25,530.10 |
 | &nbsp;9. Assiniboine and Sioux Tribes | Fort Peck | Fort Peck LI–MT–6 | 85,835.52 |
-| 10\. Lac Courte Oreilles Band of Lake Superior Chippewa     Indians | Lac Courte Oreilles | Lac Courte LI–WI–9 | 13,184.65 |
+| 10\. Lac Courte Oreilles Band of Lake Superior Chippewa Indians | Lac Courte Oreilles | Lac Courte LI–WI–9 | 13,184.65 |
 | 11\. Keweenaw Bay Indian Community | L'Anse | L'Anse LI–MI–8 | 4,016.49 |
 | 12\. Minnesota Chippewa Tribe | White Earth | Twin Lakes LI–MN–6 | 28,544.80 |
 | &nbsp; | &nbsp; | Flat Lake LI–MN–15 |  |

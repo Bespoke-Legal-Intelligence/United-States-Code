@@ -46,7 +46,7 @@ Alienability restrictions shall continue until terminated in accordance with the
 
 (ii) Rejection of an amendment described in clause (i) by the shareholders shall not preclude consideration of subsequent amendments to terminate alienability restrictions.
 
-(3) If a recapitalization plan approved pursuant to paragraph (1) distributes voting alienable common stock to each holder of shares of Settlement Common Stock (issued pursuant to section 1606(g)(1)(A) of this title) that carries aggregate dividend and liquidation rights equivalent to those carried by such shares of Settlement Common Stock (except for rights to distributions made pursuant to sections 1606(j) and 1606(m) of this title) upon completion of the recapitalization plan, then such holder shall have no right under section 1629d of this title and any other provision of law to further compensation from the corporation with respect to action taken pursuant to this subsection.
+(3) If a recapitalization plan approved pursuant to paragraph (1) distributes voting alienable common stock to each holder of shares of Settlement Common Stock (issued pursuant to section 1606(g)(1)(A) of this title) that carries aggregate dividend and liquidation rights equivalent to those carried by such shares of SettlementCommon Stock (except for rights to distributions made pursuant to sections 1606(j) and 1606(m) of this title) upon completion of the recapitalization plan, then such holder shall have no right under section 1629d of this title and any other provision of law to further compensation from the corporation with respect to action taken pursuant to this subsection.
 
 #### (d) Opt-in procedure
 
@@ -148,7 +148,7 @@ Section 16(b) of the Alaska Native Claims Settlement Act Amendments of 1987, ref
 
 #### Amendments
 
-1991—Subsec. (a). Pub. L. 102–201 substituted “July 16, 1993: <i>Provided, however</i>, That this prohibition shall notapply to a Native Corporation whose board of directors approves, no later than March 1, 1992, a resolution (certified by the corporate secretary of such corporation) electing to decline the application of such prohibition” for “December 18, 1991”.
+1991—Subsec. (a). Pub. L. 102–201 substituted “July 16, 1993: <i>Provided, however</i>, That this prohibition shall not apply to a Native Corporation whose board of directors approves, no later than March 1, 1992, a resolution (certified by the corporate secretary of such corporation) electing to decline the application of such prohibition” for “December 18, 1991”.
 
 1990—Subsec. (d)(1)(A). Pub. L. 101–378, §301(1), inserted before period at end “and such resolution is not validly rescinded pursuant to paragraph (2)(B)(ii)”.
 

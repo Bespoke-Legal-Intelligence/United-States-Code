@@ -10,7 +10,7 @@ This subchapter, referred to in text, was in the original “this section”, me
 
 #### Codification
 
-Section is comprised of the twenty-third par. of section 9 of act Dec. 23, 1913, as amended. The twenty-third par. constituted the twenty-first par. of section 9 in 1933 (48 Stat. 166), became the twenty-second par. in 1935 (49 Stat. 704), and became the twenty-third par. in 1950 (64 Stat. 458). For further details, see Codification notes set out under sections 321 and 329a of this title.
+Section is comprised of the twenty-second par. of section 9 of act Dec. 23, 1913, as amended. The twenty-second par. constituted the twenty-first par. of section 9 in 1933 (48 Stat. 166), became the twenty-second par. in 1935 (49 Stat. 704), and became the twenty-third par. in 1950 (64 Stat. 458), and became the twenty-second par. in 1966 (80 Stat. 243). For further details, see Codification notes set out under sections 321 and 329a of this title.
 
 #### Change of Name
 

@@ -10,7 +10,7 @@ The Administrator shall, within 10 months after November 15, 1990, promulgate ru
 
 (2) Allowances for substances in each group of class I substances (as listed pursuant to section 7671a of this title) may only be transferred for allowances for other substances in the same Group.
 
-(3) The Administrator shall, as appropriate, establish groups of class II substances for trading purposes and assign class II substances to such groups. In the case of class II substances, allowances may only be transferred for allowances for other class II substances that are in the same Group.
+(3) The Administrator shall, as appropriate, establish groups of class II substances for trading purposes and assign class II substances to such groups. In the case of class II substances,allowances may only be transferred for allowances for other class II substances that are in the same Group.
 
 #### (c) Trades with other persons
 

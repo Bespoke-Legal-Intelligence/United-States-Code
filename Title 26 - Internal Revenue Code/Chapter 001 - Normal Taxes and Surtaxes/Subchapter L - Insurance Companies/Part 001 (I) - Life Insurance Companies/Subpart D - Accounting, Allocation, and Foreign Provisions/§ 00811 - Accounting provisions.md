@@ -6,7 +6,7 @@ All computations entering into the determination of the taxes imposed by this pa
 
 &emsp;(1) under an accrual method of accounting, or
 
-&emsp;(2) to the extent permitted under regulations prescribed by the Secretary, under a combination of an accrual method of accounting with any other method permitted by this chapter\(other than the cash receipts and disbursements method).
+&emsp;(2) to the extent permitted under regulations prescribed by the Secretary, under a combination of an accrual method of accounting with any other method permitted by this chapter (other than the cash receipts and disbursements method).
 
 > To the extent not inconsistent with the preceding sentence or any other provision of this part, all such computations shall be made in a manner consistent with the manner required for purposes of the annual statement approved by the National Association of Insurance Commissioners.
 
@@ -60,7 +60,7 @@ For purposes of this part (other than section 816), amounts in the nature of int
 
 #### (e) Short taxable years
 
-If any return of a corporation made under this part is for a period of less than the entire calendar year (referred to in this subsection as “short period”), then section 443 shall not apply in respect to such period, but life insurance company taxable income shall be determined, under regulations prescribed by the Secretary, on an annual basis by a ratable daily projection of the appropriate figures for the short period.
+If any return of a corporation made under this part is for a period of less than the entire calendar year (referred to in this subsection as “short period”), then section 443 shall not applyin respect to such period, but life insurance company taxable income shall be determined, under regulations prescribed by the Secretary, on an annual basis by a ratable daily projection of the appropriate figures for the short period.
 
 (Added and amended Pub. L. 98–369, div. A, title I, §42(a)(8), title II, §211(a), July 18, 1984, 98 Stat. 557, 740; Pub. L. 100–647, title II, §2004(p)(1), Nov. 10, 1988, 102 Stat. 3608.)
 
@@ -90,5 +90,5 @@ Section applicable to taxable years beginning after Dec. 31, 1983, see section 2
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 805, 808, 809, 848, 1016, 1272 of this title.
+This section is referred to in sections 805, 808, 809, 817A, 848, 1016, 1272 of this title.
 

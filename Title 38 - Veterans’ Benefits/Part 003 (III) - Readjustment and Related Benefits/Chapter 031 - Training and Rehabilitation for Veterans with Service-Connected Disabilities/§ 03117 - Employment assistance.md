@@ -1,6 +1,6 @@
 ### §3117. Employment assistance
 
-(a)(1) A veteran with a service-connected disability who has participated in a vocational rehabilitation program under this chapter or a similar program under the Rehabilitation Act of 1973 (29 U.S.C. 701 et seq.\] and who the Secretary has determined to be employable shall be furnished assistance in obtaining employment consistent with such veteran's abilities, aptitudes, interests, and employment handicap, including assistance necessary to insure that such veteran receives the benefit of any applicable provisions of law or regulation providing for special consideration or emphasis or preference for such veteran in employment or training.
+(a)(1) A veteran with a service-connected disability rated at 10 percent or more who has participated in a vocational rehabilitation program under this chapter or a similar program under the Rehabilitation Act of 1973 (29 U.S.C. 701 et seq.\] and who the Secretary has determined to be employable shall be furnished assistance in obtaining employment consistent with such veteran's abilities, aptitudes, interests, and employment handicap, including assistance necessary to insure that such veteran receives the benefit of any applicable provisions of law or regulation providing for special consideration or emphasis or preference for such veteran in employment or training.
 
 (2) Assistance provided under this subsection may include—
 
@@ -14,7 +14,7 @@
 
 (2) In the case of a veteran described in clause (12) of section 3104(a) of this title who has trained under a State rehabilitation program with the objective of self-employment in a small business enterprise, the Secretary may, subject to the limitations and criteria provided for in such clause, provide such veteran with such supplementary equipment and initial stocks and supplies as are determined to be needed by such veteran if such supplementary equipment and initial stocks and supplies, or assistance in acquiring them, are not available through the State program or other sources.
 
-(Added Pub. L. 96–466, title I, §101(a), Oct. 17, 1980, 94 Stat. 2183, §1517; amended Pub. L. 97–72, title III, §303(k), Nov. 3, 1981, 95 Stat. 1060; Pub. L. 100–689, title II, §202(a), Nov. 18, 1988, 102 Stat. 4175; Pub. L. 101–237, title IV, §423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; Pub. L. 102–54, §14(c)(4), June 13, 1991, 105 Stat. 285; renumbered §3117 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406.)
+(Added Pub. L. 96–466, title I, §101(a), Oct. 17, 1980, 94 Stat. 2183, §1517; amended Pub. L. 97–72, title III, §303(k), Nov. 3, 1981, 95 Stat. 1060; Pub. L. 100–689, title II, §202(a), Nov. 18, 1988, 102 Stat. 4175; Pub. L. 101–237, title IV, §423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; Pub. L. 102–54, §14(c)(4), June 13, 1991, 105 Stat. 285; renumbered §3117 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 104–275, title I, §101(h), Oct. 9, 1996, 110 Stat. 3325.)
 
 #### References in Text
 
@@ -27,6 +27,8 @@ Section 8 of the Small Business Act (15 U.S.C. 633(b)), referred to in subsec. (
 Prior section 3117 was renumbered section 5317 of this title.
 
 #### Amendments
+
+1996—Subsec. (a)(1). Pub. L. 104–275 inserted “rated at 10 percent or more” after “disability”.
 
 1991—Pub. L. 102–83, §5(a), renumbered section 1517 of this title as this section.
 

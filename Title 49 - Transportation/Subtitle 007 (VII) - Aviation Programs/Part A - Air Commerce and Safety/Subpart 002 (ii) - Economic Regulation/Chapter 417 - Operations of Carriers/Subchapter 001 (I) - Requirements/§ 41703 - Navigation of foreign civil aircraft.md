@@ -36,7 +36,9 @@ Permit Requirements Not Affected.—This section does not affect section 41301 o
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -50,7 +52,7 @@ Aug. 23, 1958, Pub. L. 85–726, §1108(b) (1st, 2d, last sentences), 72 Stat. 7
 
 &nbsp;
 
-49 App.:1551(b) (1)(E).
+49 App.:1551(b)(1)(E).
 
 Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1601(b)(1)(E); added Oct. 4, 1984, Pub. L. 98–443, §3(e), 98 Stat. 1704.
 
@@ -60,7 +62,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1601(b)(1)(E); added Oct. 4, 19
 
 &nbsp;
 
-49 App.:1551(b) (1)(E).
+49 App.:1551(b)(1)(E).
 
 41703(c)
 
@@ -70,7 +72,7 @@ Aug. 23, 1958, Pub. L. 85–726, §1108(b) (3d sentence), 72 Stat. 799; Feb. 15,
 
 &nbsp;
 
-49 App.:1551(b) (1)(E).
+49 App.:1551(b)(1)(E).
 
 41703(d)
 
@@ -86,5 +88,5 @@ In subsection (d), the word “affect” is substituted for “limit, modify, or
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 40103, 44101 of this title.
+This section is referred to in sections 40103, 40109, 44101, 46301 of this title.
 

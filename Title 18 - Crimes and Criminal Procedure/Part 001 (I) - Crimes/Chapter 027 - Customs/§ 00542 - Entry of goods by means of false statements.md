@@ -2,15 +2,15 @@
 
 Whoever enters or introduces, or attempts to enter or introduce, into the commerce of the United States any imported merchandise by means of any fraudulent or false invoice, declaration, affidavit, letter, paper, or by means of any false statement, written or verbal, or by means of any false or fraudulent practice or appliance, or makes any false statement in any declaration without reasonable cause to believe the truth of such statement, or procures the making of any such false statement as to any matter material thereto without reasonable cause to believe the truth of such statement, whether or not the United States shall or may be deprived of any lawful duties; or
 
-Whoever is guilty of any willful act or omission whereby the United States shall or may be deprived of any lawful duties accruing upon merchandise embraced or referred to in such invoice, declaration, affidavit, letter, paper, or statement, or affected by such act or omission—
+Whoever is guilty of any willful act or omission whereby the United States shall or may be deprived of any lawful duties accruing uponmerchandise embraced or referred to in such invoice, declaration, affidavit, letter, paper, or statement, or affected by such act or omission—
 
 Shall be fined for each offense under this title or imprisoned not more than two years, or both.
 
 Nothing in this section shall be construed to relieve imported merchandise from forfeiture under other provisions of law.
 
-The term “commerce of the United States”, as used in this section, shall not include commerce with Virgin Islands, American Samoa, Wake Island, Midway Islands, Kingman Reef, Johnston Island, or Guam.
+The term “commerce of the United States”, as used in this section, shall not include commerce with the Virgin Islands, American Samoa, Wake Island, Midway Islands, Kingman Reef, Johnston Island, or Guam.
 
-(June 25, 1948, ch. 645, 62 Stat. 715; June 30, 1955, ch. 258, §2(c), 69 Stat. 242; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §§330004(18), 330016(1)(K), 108 Stat. 2142, 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 715; June 30, 1955, ch. 258, §2(c), 69 Stat. 242; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §§330004(18), 330016(1)(K), 108 Stat. 2142, 2147; Oct. 11, 1996, Pub. L. 104–294, title VI, §604(b)(23), 110 Stat. 3508.)
 
 #### Historical and Revision Notes
 
@@ -30,11 +30,17 @@ Changes in phraseology were also made.
 
 #### Amendments
 
+1996—Pub. L. 104–294 amended Pub. L. 103–322, §330004(18). See 1994 Amendment note below.
+
 1994—Pub. L. 103–322, §330016(1)(K), substituted “fined under this title” for “fined not more than $5,000” in third par.
 
-Pub. L. 103–322, §330004(18), struck out “the Philippine Islands,” before “Virgin Islands” in last par.
+Pub. L. 103–322, §330004(18), as amended by Pub. L. 104–294, §604(b)(23), struck out “Philippine Islands,” before “Virgin Islands” in last par.
 
 1955—Act June 30, 1955, inserted reference to Johnston Island in last par.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–294 effective Sept. 13, 1994, see section 604(d) of Pub. L. 104–294, set out as a note under section 13 of this title.
 
 #### Effective Date of 1955 Amendment
 

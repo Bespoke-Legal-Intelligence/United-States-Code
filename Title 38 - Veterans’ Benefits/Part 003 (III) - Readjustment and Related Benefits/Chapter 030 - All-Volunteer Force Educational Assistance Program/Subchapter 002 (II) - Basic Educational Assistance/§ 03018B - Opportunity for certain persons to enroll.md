@@ -44,7 +44,7 @@
 
 (3) Any contribution made by the Secretary of Defense to the Post-Vietnam Era Veterans Education Account pursuant to subsection (c) of section 3222 of this title on behalf of any individual referred to in paragraph (1) of this subsection shall remain in such account to make payments of benefits to such individual under section 3015(f) of this title.
 
-(Added Pub. L. 102–484, div. D, title XLIV, §4404(a), Oct. 23, 1992, 106 Stat. 2704; amended Pub. L. 103–446, title XII, §1201(d)(5), (e)(11), (f)(3), Nov. 2, 1994, 108 Stat. 4684, 4685, 4687.)
+(Added Pub. L. 102–484, div. D, title XLIV, §4404(a), Oct. 23, 1992, 106 Stat. 2704; amendedPub. L. 103–446, title XII, §1201(d)(5), (e)(11), (f)(3), Nov. 2, 1994, 108 Stat. 4684, 4685, 4687.)
 
 #### Amendments
 
@@ -56,5 +56,5 @@ Subsec. (d)(3). Pub. L. 103–446, §1201(d)(5), (e)(11)(B), substituted “such
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3013, 3035 of this title.
+This section is referred to in sections 3013, 3015, 3035 of this title.
 

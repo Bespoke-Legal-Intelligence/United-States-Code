@@ -14,7 +14,7 @@ The Council shall—
 
 &emsp;(5) encourage, in cooperation with appropriate public and private agencies and institutions, training and education in the field of historic preservation;
 
-&emsp;(6) review the policies and programs of Federal agencies and recommend to such agencies methods to improve the effectiveness, coordination, and consistency of those policies and programs with the policies and programs carried out under this subchapter; and
+&emsp;(6) review the policies and programs of Federal agencies and recommend to such agencies methods to improve the effectiveness, coordination, and consistency of those policies andprograms with the policies and programs carried out under this subchapter; and
 
 &emsp;(7) inform and educate Federal agencies, State and local governments, Indian tribes, other nations and international organizations and private groups and individuals as to the Council's authorized activities.
 

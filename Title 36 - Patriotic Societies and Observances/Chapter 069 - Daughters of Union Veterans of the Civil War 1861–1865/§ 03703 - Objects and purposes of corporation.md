@@ -8,9 +8,9 @@ The objects and purposes of the corporation are those provided in its articles o
 
 &emsp;(3) Maintaining a library in connection with the Civil War museum, admission to which shall be open to the public, containing the official volumes of the War of the Rebellion Records, Civil War genealogical files, Adjutant General reports of the various States, military and biographical records and accounts of the individual service of Union soldiers, sailors, and marines, diaries, letters, relics, and other records.
 
-&emsp;(4) Promulgating and teaching American history, particularly the history of the CivilWar period, through the establishment of scholarship programs at the National and State levels, the presentation of American flags to youth groups and newly naturalized citizens, and the sponsorship of contests of educational merit.
+&emsp;(4) Promulgating and teaching American history, particularly the history of the Civil War period, through the establishment of scholarship programs at the National and State levels, the presentation of American flags to youth groups and newly naturalized citizens, and the sponsorship of contests of educational merit.
 
-&emsp;(5) Caring for veterans of all wars through volunteer programs in Department of Veterans Affairs medical centers and in homes and other institutions maintained by the States for the welfare of American veterans.
+&emsp;(5) Caring for veterans of all wars through volunteer programs in Department of Veterans Affairs medical centers and in homes andother institutions maintained by the States for the welfare of American veterans.
 
 &emsp;(6) Participating, in a spirit of cooperation and reciprocity, in programs with other societies devoted to American history, veterans’ affairs, or community interests.
 

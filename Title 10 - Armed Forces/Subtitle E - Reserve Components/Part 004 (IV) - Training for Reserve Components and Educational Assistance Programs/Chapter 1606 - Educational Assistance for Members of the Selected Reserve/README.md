@@ -4,12 +4,7 @@
 | :--- | ---: |
 | [16131\.](%C2%A7%2016131%20-%20Educational%20assistance%20program%20establishment%3B%20amount.md) | Educational assistance program: establishment; amount. |
 | [16132\.](%C2%A7%2016132%20-%20Eligibility%20for%20educational%20assistance.md) | Eligibility for educational assistance. |
-| [16133\.](%C2%A7%2016133%20-%20Time%20limitation%20for%20use%20of%20entitlement.md) | Time limitations for use of entitlement.<sup>1</sup> |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |
-| :--- | ---: |
+| [16133\.](%C2%A7%2016133%20-%20Time%20limitation%20for%20use%20of%20entitlement.md) | Time limitation for use of entitlement. |
 | [16134\.](%C2%A7%2016134%20-%20Termination%20of%20assistance.md) | Termination of assistance. |
 | [16135\.](%C2%A7%2016135%20-%20Failure%20to%20participate%20satisfactorily%3B%20penalties.md) | Failure to participate satisfactorily; penalties. |
 | [16136\.](%C2%A7%2016136%20-%20Administration%20of%20program.md) | Administration of program. |
@@ -17,13 +12,13 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### Amendments
+
+1996—Pub. L. 104–106, div. A, title XV, §1501(b)(33), Feb. 10, 1996, 110 Stat. 498, substituted “limitation” for “limitations” in item 16133.
+
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in section 2131 of this title.
-
-<i><sup>1</sup></i><i> So in original. Does not conform to chapter heading.</i>
-
-<i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
+This chapter is referred to in sections 2006, 2131 of this title.
 
 
 ---

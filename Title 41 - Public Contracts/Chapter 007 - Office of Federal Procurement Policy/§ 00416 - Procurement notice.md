@@ -12,11 +12,7 @@
 
 > &emsp;shall furnish for publication by the Secretary of Commerce a notice of solicitation described in subsection (b) of this section;
 
-&emsp;(B) an executive agency intending to solicit bids or proposals for a contract for property or services shall post, for a period of not less than ten days, in a public place at the contracting office issuing the solicitation a notice of solicitation described in subsection (f) <sup>1</sup> of this section—
-
-&emsp;&emsp;(i) in the case of an executive agency other than the Department of Defense, if the contract is for a price expected to exceed $10,000, but not to exceed $25,000; and
-
-&emsp;&emsp;(ii) in the case of the Department of Defense, if the contract is for a price expected to exceed $5,000, but not to exceed $25,000; and
+&emsp;(B) an executive agency intending to solicit bids or proposals for a contract for property or services for a price expected to exceed $10,000, but not to exceed $25,000, shall post, for a period of not less than ten days, in a public place at the contracting office issuing the solicitation a notice of solicitation described in subsection (b) of this section; and
 
 &emsp;(C) an executive agency awarding a contract for property or services for a price exceeding $25,000, or placing an order referred to in clause (A)(ii) exceeding $25,000, shall furnish for publication by the Secretary of Commerce a notice announcing the award or order if there is likely to be any subcontract under such contract or order.
 
@@ -38,7 +34,7 @@
 
 (5) An executive agency shall establish a deadline for the submission of all bids or proposals in response to a solicitation with respect to which no such deadline is provided by statute. Each deadline for the submission of offers shall afford potential offerors a reasonable opportunity to respond.
 
-(6) The Administrator shall prescribe regulations defining limited circumstances in which flexible deadlines can be used under paragraph (3) for the submission of bids or proposals for the procurement of commercial items.
+(6) The Administrator shall prescribe regulations defining limited circumstances in which flexible deadlines can be used under paragraph (3) for the issuance of solicitations and the submission of bids or proposals for the procurement of commercial items.
 
 #### (b) Contents of notice
 
@@ -56,9 +52,9 @@ Each notice of solicitation required by subparagraph (A) or (B) of subsection (a
 
 &emsp;(4) a statement that all responsible sources may submit a bid, proposal, or quotation (as appropriate) which shall be considered by the agency;
 
-&emsp;(5) in the case of a procurement using procedures other than competitive procedures, a statement of the reason justifying the use of such procedures and the identity of the intended source; <sup>2</sup>
+&emsp;(5) in the case of a procurement using procedures other than competitive procedures, a statement of the reason justifying the use of such procedures and the identity of the intended source; and
 
-&emsp;(6) in the case of a contract in an amount estimated to be greater than $25,000 but not greater than the simplified acquisition threshold—
+&emsp;(6) in the case of a contract in an amount estimated to be greater than $25,000 but not greater than the simplified acquisition threshold, or a contract for the procurement of commercial items using special simplified procedures—
 
 &emsp;&emsp;(A) a description of the procedures to be used in awarding the contract; and
 
@@ -82,7 +78,7 @@ Each notice of solicitation required by subparagraph (A) or (B) of subsection (a
 
 &emsp;&emsp;(ii) a proposal submitted under section 638 of title 15;
 
-&emsp;(E) the procurement is made against an order placed under a requirements contract;
+&emsp;(E) the procurement is made against an order placed under a requirements contract, a task order contract, or a delivery order contract;
 
 &emsp;(F) the procurement is made for perishable subsistence supplies;
 
@@ -98,13 +94,29 @@ Each notice of solicitation required by subparagraph (A) or (B) of subsection (a
 
 An executive agency shall make available to any business concern, or the authorized representative of such concern, the complete solicitation package for any on-going procurement announced pursuant to a notice of solicitation under subsection (a) of this section. An executive agency may require the payment of a fee, not exceeding the actual cost of duplication, for a copy of such package.
 
-(Pub. L. 93–400, §18, as added Pub. L. 98–369, div. B, title VII, §2732(a), July 18, 1984, 98 Stat. 1195; amended Pub. L. 98–577, title III, §303(a), Oct. 30, 1984, 98 Stat. 3077; Pub. L. 99–500, §101(c) \[title X, §922(b), (d)(2)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–151, 1783–152, and Pub. L. 99–591, §101(c) \[title X, §922(b), (d)(2)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–151, 3341–152; Pub. L. 99–661, div. A, title IX, formerly title IV, §922(b), (d)(2), Nov. 14, 1986, 100 Stat. 3931, 3932; renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 101–510, div. A, title VIII, §806(d), Nov. 5, 1990, 104 Stat. 1592; Pub. L. 103–355, title I, §1055(b)(1), title IV, §§4201(b), (c), 4202(a)–(c), title VIII, §8302, title IX, §9001(b), Oct. 13, 1994, 108 Stat. 3265, 3344, 3398, 3402.)
+(Pub. L. 93–400, §18, as added Pub. L. 98–369, div. B, title VII, §2732(a), July 18, 1984, 98 Stat. 1195; amended Pub. L. 98–577, title III, §303(a), Oct. 30, 1984, 98 Stat. 3077; Pub. L. 99–500, §101(c) \[title X, §922(b), (d)(2)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–151, 1783–152, and Pub. L. 99–591, §101(c) \[title X, §922(b), (d)(2)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–151, 3341–152; Pub. L. 99–661, div. A, title IX, formerly title IV, §922(b), (d)(2), Nov. 14, 1986, 100 Stat. 3931, 3932; renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 101–510, div. A, title VIII, §806(d), Nov. 5, 1990, 104 Stat. 1592; Pub. L. 103–355, title I, §1055(b)(1), title IV, §§4201(b), (c), 4202(a)–(c), title VIII, §8302, title IX, §9001(b), Oct. 13, 1994, 108 Stat. 3265, 3344, 3398, 3402; Pub. L. 104–106, div. D, title XLI, §4101(c), title XLII, §4202(d), title XLIII, §§4310, 4321(h)(3), Feb. 10, 1996, 110 Stat. 642, 654, 670, 675.)
 
 #### Codification
 
 Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
+
+1996—Subsec. (a)(1)(B). Pub. L. 104–106, §4101(c)(B), inserted “for a price expected to exceed $10,000, but not to exceed $25,000,” after “property or services”.
+
+Pub. L. 104–106, §4101(c)(A), substituted “subsection (b) of this section; and” for “subsection (f) of this section—” and struck out cls. (i) and (ii) which read as follows:
+
+“(i) in the case of an executive agency other than the Department of Defense, if the contract is for a price expected to exceed $10,000, but not to exceed $25,000; and
+
+“(ii) in the case of the Department of Defense, if the contract is for a price expected to exceed $5,000, but not to exceed $25,000; and”.
+
+Subsec. (a)(6). Pub. L. 104–106, §4202(d)(1)(A), inserted “issuance of solicitations and the” after “paragraph (3) for the”.
+
+Subsec. (b)(5). Pub. L. 104–106, §4321(h)(3), inserted “and” after “source;”.
+
+Subsec. (b)(6). Pub. L. 104–106, §4202(d)(1)(B), substituted “threshold, or a contract for the procurement of commercial items using special simplified procedures—” for “threshold—”.
+
+Subsec. (c)(1)(E). Pub. L. 104–106, §4310, inserted “, a task order contract, or a delivery order contract” after “requirements contract”.
 
 1994—Subsec. (a)(1). Pub. L. 103–355, §4202(a)(1), substituted “$25,000” for “the small purchase threshold” wherever appearing.
 
@@ -128,7 +140,7 @@ Subsec. (c)(1)(G), (H). Pub. L. 103–355, §4202(c)(1), redesignated subpars. (
 
 Subsec. (d). Pub. L. 103–355, §9001(b)(2), substituted “a notice of solicitation under subsection (a)” for “a notice under subsection (e)” in first sentence.
 
-1990—Subsec. (a)(1)(A). Pub. L. 101–510 substituted “the small purchase threshold; or” for “$25,000;” in cl. (i), substituted “the small purchase threshold” for “$25,000” and a comma for “; or” in cl. (ii), and struck out cl. (iii) which read as follows: “solicit bids or proposals for a contract for property or services for a price expected to exceed $10,000, if there is not a reasonable expectation that at least two offers will be received from responsive and responsible offerors,”.
+1990—Subsec. (a)(1)(A). Pub. L. 101–510 substituted “the small purchase threshold; or” for “$25,000;” in cl. (i), substituted “the small purchase threshold” for “$25,000” and a comma for “; or” in cl. (ii), and struck out cl. (iii) which read as follows: “solicit bids or proposals for a contract for property or services for a priceexpected to exceed $10,000, if there is not a reasonable expectation that at least two offers will be received from responsive and responsible offerors,”.
 
 Subsec. (a)(1)(B), (C). Pub. L. 101–510, §806(d)(1), substituted “the small purchase threshold” for “$25,000” wherever appearing.
 
@@ -136,7 +148,7 @@ Subsec. (a)(1)(B), (C). Pub. L. 101–510, §806(d)(1), substituted “the small
 
 Subsec. (a)(1)(B), (C). Pub. L. 99–500 and Pub. L. 99–591, §101(c) \[title X, §922(b)(2), (3)\], and Pub. L. 99–661, §922(b)(2), (3), amended par. (1) identically, adding subpar. (B) and redesignating former subpar. (B) as (C).
 
-Subsec. (b). Pub. L. 99–500 and Pub. L. 99–591, §101(c) \[title X, §922(d)(2)\], and Pub. L. 99–661, §922(d)(2),amended subsec. (b) identically, substituting “subparagraph (A) or (B) of subsection (a)(1)” for “subsection (a)(1)(A)”.
+Subsec. (b). Pub. L. 99–500 and Pub. L. 99–591, §101(c) \[title X, §922(d)(2)\], and Pub. L. 99–661, §922(d)(2), amended subsec. (b) identically, substituting “subparagraph (A) or (B) of subsection (a)(1)” for “subsection (a)(1)(A)”.
 
 1984—Subsec. (a)(1)(A). Pub. L. 98–577 designated existing provisions as cl. (i) and added cl. (ii).
 
@@ -153,6 +165,10 @@ Subsec. (c)(1)(B). Pub. L. 98–577 designated existing provisions as cl. (i) an
 Subsec. (c)(1)(E). Pub. L. 98–577 added subpar. (E).
 
 Subsec. (d). Pub. L. 98–577 added subsec. (d).
+
+#### Effective Date of 1996 Amendment
+
+For effective date and applicability of amendment by Pub. L. 104–106, see section 4401 of Pub. L. 104–106, set out as a note under section 251 of this title.
 
 #### Effective Date of 1994 Amendment
 
@@ -172,9 +188,5 @@ Section 303(c) of Pub. L. 98–577 provided that: “The provisions of the amend
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 253, 253i, 253j, 426a of this title; title 10 sections 2304, 2304b, 2304c.
-
-<i><sup>1</sup></i><i> So in original. Probably should be subsection “(b)”.</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be followed by “and”.</i>
+This section is referred to in sections 253, 253i, 253j, 426a, 427 of this title; title 10 sections 2304, 2304b, 2304c.
 

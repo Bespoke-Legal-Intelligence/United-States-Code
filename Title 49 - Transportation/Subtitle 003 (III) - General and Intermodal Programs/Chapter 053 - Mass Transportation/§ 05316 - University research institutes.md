@@ -38,7 +38,9 @@ Applicability of Title 23.—Amounts authorized by section 5338(d) of this title
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

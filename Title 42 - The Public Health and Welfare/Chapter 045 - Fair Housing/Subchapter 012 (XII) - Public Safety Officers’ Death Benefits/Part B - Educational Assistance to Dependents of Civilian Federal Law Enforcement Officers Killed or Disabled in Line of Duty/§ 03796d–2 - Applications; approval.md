@@ -1,0 +1,24 @@
+### §3796d–2. Applications; approval
+
+#### (a) Application
+
+A person seeking assistance under this part shall submit an application to the Attorney General in such form and containing such information as the Attorney General reasonably may require.
+
+#### (b) Approval
+
+The Attorney General shall approve an application for assistance under this part unless the Attorney General finds that—
+
+&emsp;(1) the dependent is not eligible for, is no longer eligible for, or is not entitled to the assistance for which application is made;
+
+&emsp;(2) the dependent's selected educational institution fails to meet a requirement under this part for eligibility;
+
+&emsp;(3) the dependent's enrollment in or pursuit of the educational program selected would fail to meet the criteria established in this part for programs; or
+
+&emsp;(4) the dependent already is qualified by previous education or training for the educational, professional, or vocational objective for which the educational program is offered.
+
+#### (c) Notification
+
+The Attorney General shall notify a dependent applying for assistance under this part of approval or disapproval of the application in writing.
+
+(Pub. L. 90–351, title I, §1213, as added Pub. L. 104–238, §2(2), Oct. 3, 1996, 110 Stat. 3115.)
+

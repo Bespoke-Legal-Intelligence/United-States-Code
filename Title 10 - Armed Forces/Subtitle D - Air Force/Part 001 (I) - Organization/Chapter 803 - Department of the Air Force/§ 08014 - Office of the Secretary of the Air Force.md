@@ -32,9 +32,9 @@
 
 &emsp;(G) Public affairs.
 
-(2) The Secretary of the Air Force shall establish or designate a single office or other entity within the Office of the Secretary of the Air Force to conduct each function specified in paragraph (1). No office or other entity may be established or designated within the Air Staff to conduct any of the functions specified in paragraph (1).
+(2) The Secretary of the Air Force shall establish or designate a single office or other entity within the Office of the Secretary of the Air Force to conduct each function specified in paragraph (1). No office or other entity may be established or designated within the Air Staff toconduct any of the functions specified in paragraph (1).
 
-(3) The Secretary shall prescribe the relationship of each office or other entity established ordesignated under paragraph (2) to the Chief of Staff and to the Air Staff and shall ensure that each such office or entity provides the Chief of Staff such staff support as the Chief of Staff considers necessary to perform his duties and responsibilities.
+(3) The Secretary shall prescribe the relationship of each office or other entity established or designated under paragraph (2) to the Chief of Staff and to the Air Staff and shall ensure that each such office or entity provides the Chief of Staff such staff support as the Chief of Staff considers necessary to perform his duties and responsibilities.
 
 (4) The vesting in the Office of the Secretary of the Air Force of the responsibility for the conduct of a function specified in paragraph (1) does not preclude other elements of the executive part of the Department of the Air Force (including the Air Staff) from providing advice or assistance to the Chief of Staff or otherwise participating in that function within the executive part of the Department under the direction of the office assigned responsibility for that function in the Office of the Secretary of the Air Force.
 

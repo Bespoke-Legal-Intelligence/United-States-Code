@@ -6,7 +6,7 @@ For each bill or joint resolution of a public character reported by any committe
 
 #### (1) Contents
 
-&emsp;If the Director estimates that the direct cost of all Federal intergovernmental mandates in the bill or joint resolution will equal or exceed $50,000,000 (adjusted annually for inflation) in the fiscal year in which any Federal intergovernmental mandate in the bill or joint resolution (or in any necessary implementing regulation) would first be effective or in any of the 4 fiscal years following such fiscal year, the Director shall so state, specify the estimate, and briefly explain the basis of the estimate.
+&emsp;If the Director estimates that the direct cost of all Federal intergovernmental mandates in the bill or joint resolution will equal or exceed $50,000,000 (adjusted annually for inflation) inthe fiscal year in which any Federal intergovernmental mandate in the bill or joint resolution (or in any necessary implementing regulation) would first be effective or in any of the 4 fiscal years following such fiscal year, the Director shall so state, specify the estimate, and briefly explain the basis of the estimate.
 
 #### (2) Estimates
 
@@ -48,7 +48,7 @@ If the Director estimates that the direct costs of a Federal mandate will not eq
 
 #### (d) Amended bills and joint resolutions; conference reports
 
-If a bill or joint resolution is passed in an amended form (including if passed by one House as an amendment in the nature of a substitute for the text of a bill or joint resolution from the other House) or is reported by a committee of conference in amended form, and the amended form contains a Federal mandate not previously considered by either House or which contains anincrease in the direct cost of a previously considered Federal mandate, then the committee of conference shall ensure, to the greatest extent practicable, that the Director shall prepare a statement as provided in this subsection or a supplemental statement for the bill or joint resolution in that amended form.
+If a bill or joint resolution is passed in an amended form (including if passed by one House as an amendment in the nature of a substitute for the text of a bill or joint resolution from the other House) or is reported by a committee of conference in amended form, and the amended form contains a Federal mandate not previously considered by either House or which contains an increase in the direct cost of a previously considered Federal mandate, then the committee of conference shall ensure, to the greatest extent practicable, that the Director shall prepare a statement as provided in this subsection or a supplemental statement for the bill or joint resolution in that amended form.
 
 (Pub. L. 93–344, title IV, §424, as added Pub. L. 104–4, title I, §101(a)(2), Mar. 22, 1995, 109 Stat. 55.)
 

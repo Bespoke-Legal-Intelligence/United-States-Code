@@ -46,13 +46,17 @@ Providing Education and Training.—Education and training of Government, State,
 
 (d)
 
-Availability of Amounts.—Not more than .5 percent of the amounts made available for a fiscal year beginning after September 30, 1991, to a State or public mass transportation authority in the State to carry out sections 5304 and 5306 of this title is available for expenditure by the State and public mass transportation authorities in the State, with the approval of the Secretary, to pay not more than 80 percent of the cost of tuition and direct educational expenses related to educating and training State and local transportation employees under this section.
+Availability of Amounts.—Not more than .5 percent of the amounts made available for a fiscal year beginning after September 30, 1991, to a State or public mass transportation authority in the State to carry out sections 5307 and 5309 of this title is available for expenditure by the State and public mass transportation authorities in the State, with the approval of the Secretary, to pay not more than 80 percent of the cost of tuition and direct educational expenses related to educating and training State and local transportation employees under this section.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 813.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 813; Pub. L. 104–287, §5(13), Oct. 11, 1996, 110 Stat. 3390.)
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+Pub. L. 103–272
+
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -79,6 +83,18 @@ July 9, 1964, Pub. L. 88–365, 78 Stat. 302, §29(a)–(c); added Dec. 18, 1991
 In subsection (a), before clause (1), the word “conduct” is substituted for “administer” for consistency in this section.
 
 In subsection (d), the word “department” is omitted for consistency in this section.
+
+#### Pub. L. 104–287
+
+This amends 49:5315(d), 5317(b)(5), and 5323(b)(1), (c), and (e) to correct erroneous cross-references.
+
+#### Amendments
+
+1996—Subsec. (d). Pub. L. 104–287 substituted “sections 5307 and 5309” for “sections 5304 and 5306”.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–287 effective July 5, 1994, see section 8(1) of Pub. L. 104–287, set out as a note under section 5303 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -60,7 +60,7 @@ The aggregate square feet of office space secured for Senator shall not at any t
 
 #### (f) Mobile office
 
-(1) Subject to the provisions of paragraphs (2), (3), (4), and (5), a Senator may lease one mobile office for use only in the State he represents and the contingent fund of the Senate is available for the rental payments (including by way of reimbursement) made under such lease together with the actual nonpersonnel cost of operating such mobile office. The term of any such lease shall not exceed one year. A copy of each such lease shall be furnished to the Sergeant at Arms of the Senate.
+(1) Subject to the provisions of paragraphs (2), (3), (4), and (5), a Senator may lease one mobile office for use only in the State he represents and the contingent fund of the Senate is available for the rental payments (including by way of reimbursement) made under such lease together with the actual nonpersonnel cost of operating such mobile office. The term of any such lease shall not exceed 3 years. A copy of each such lease shall be furnished to the Sergeant at Arms of the Senate.
 
 (2) The maximum aggregate annual rental payments and operating costs (except furniture, equipment, and furnishings) that may be paid to a Senator under paragraph (1) shall not at any time exceed an amount determined by multiplying (A) the highest applicable rate per square foot charged Federal agencies by the Administrator of General Services in the State which that Senator represents, based upon a 100 percent building quality rating, by (B) the maximum aggregate square feet of office space to which that Senator is entitled under subsection (b) of this section reduced by the number of square feet contained in offices secured for that Senator under subsection (a) of this section and used by that Senator and his employees to perform their duties.
 
@@ -88,13 +88,15 @@ Or
 
 This section is effective on and after July 1, 1974.
 
-(Pub. L. 93–371, §3, Aug. 13, 1974, 88 Stat. 428; Pub. L. 94–32, title I, §4, June 12, 1975, 89 Stat. 183; Pub. L. 94–59, title I, §§106(a), 107, July 25, 1975, 89 Stat. 276; Pub. L. 95–26, title I, §105, May 4, 1977, 91 Stat. 83; Pub. L. 95–94, title I, §112(d), Aug. 5, 1977, 91 Stat. 664; Pub. L. 96–304, title I, §109, July 8, 1980, 94 Stat. 890; Pub. L. 99–88, title I, §194, Aug. 15, 1985, 99 Stat. 349; Pub. L. 102–27, title II, Apr. 10, 1991, 105 Stat. 144; Pub. L. 102–90, title I, §7(b), Aug. 14, 1991, 105 Stat. 451.)
+(Pub. L. 93–371, §3, Aug. 13, 1974, 88 Stat. 428; Pub. L. 94–32, title I, §4, June 12, 1975, 89 Stat. 183; Pub. L. 94–59, title I, §§106(a), 107, July 25, 1975, 89 Stat. 276; Pub. L. 95–26, title I, §105, May 4, 1977, 91 Stat. 83; Pub. L. 95–94, title I, §112(d), Aug. 5, 1977, 91 Stat. 664; Pub. L. 96–304, title I, §109, July 8, 1980, 94 Stat. 890; Pub. L. 99–88, title I, §194, Aug. 15, 1985, 99 Stat. 349; Pub. L. 102–27, title II, Apr. 10, 1991, 105 Stat. 144; Pub. L. 102–90, title I, §7(b), Aug. 14, 1991, 105 Stat. 451; Pub. L. 104–197, title I, §3, Sept. 16, 1996, 110 Stat. 2397.)
 
 #### Codification
 
 Section is comprised of section 3 of Pub. L. 93–371. Subsec. (e) of section 3 of Pub. L. 93–371 amended section 58 of this title.
 
 #### Amendments
+
+1996—Subsec. (f)(1). Pub. L. 104–197 substituted “3 years” for “one year” in second sentence.
 
 1991—Subsec. (f)(1). Pub. L. 102–90, §7(b)(1), substituted “the contingent fund of the Senate is available for the rental payments (including by way of reimbursement)” for “shall be reimbursed from the contingent fund of the Senate for the rental payments”.
 
@@ -114,7 +116,7 @@ Subsec. (f)(5). Pub. L. 102–90, §7(b)(5), substituted “Payment” for “Re
 
 1985—Subsec. (c)(2). Pub. L. 99–88 substituted “$30,000” for “$22,550” and “$734” for “$550”.
 
-1980—Subsec. (a)(2). Pub. L. 96–304, §109(1), substituted provision limiting term of a lease of office space to a term not extending beyond the term of office which Senator is serving on first day of such lease, except in case of a Senator whose term is expiring and who has been elected to another term, to end of term for which he has been so elected, for provision limiting term of a lease of office space to a term of not to exceed one year and inserted provision requiring each lease to containa provision permitting cancellation upon sixty days written notification by Sergeant at Arms and Doorkeeper of Senate, in event of death or resignation of Senator.
+1980—Subsec. (a)(2). Pub. L. 96–304, §109(1), substituted provision limiting term of a lease of office space to a term not extending beyond the term of office which Senator is serving on first day of such lease, except in case of a Senator whose term is expiring and who has been elected to another term, to end of term for which he has been so elected, for provision limiting term of a lease of office space to a term of not to exceed one year and inserted provision requiring each lease to contain a provision permitting cancellation upon sixty days written notification by Sergeant at Arms and Doorkeeper of Senate, in event of death or resignation of Senator.
 
 Subsec. (c). Pub. L. 96–304, §109(2), substituted “shall not exceed the highest rate per square foot charged Federal agencies on the first day of the lease of such office” for “shall not at any time exceed the applicable rate per square foot charged Federal agencies”.
 

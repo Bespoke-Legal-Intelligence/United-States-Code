@@ -8,7 +8,7 @@ If a provision of this Act provides that the implementation of an action by the 
 
 &emsp;&emsp;(B) the International Trade Commission;
 
-&emsp;(2) the President has submitted a report to the Committee on Ways and Means of theHouse of Representatives and the Committee on Finance of the Senate that sets forth—
+&emsp;(2) the President has submitted a report to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate that sets forth—
 
 &emsp;&emsp;(A) the action proposed to be proclaimed and the reasons for such actions, and
 

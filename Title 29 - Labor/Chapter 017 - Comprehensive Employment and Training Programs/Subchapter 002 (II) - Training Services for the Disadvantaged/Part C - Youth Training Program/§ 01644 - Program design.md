@@ -10,13 +10,13 @@ The programs under this part shall be conducted on a year-round basis. Services 
 
 &emsp;The programs under this part shall include—
 
-&emsp;&emsp;(A) an objective assessment of the skill levels and service needs of each participant, which assessment shall include a review of basic skills, occupational skills, prior work experience, employability, interests, aptitudes (including interests and aptitudes for nontraditional jobs), and supportive service needs, except that a new assessment of a participant is not required if the program determines it is appropriate to use a recent assessment of the participant conducted under another education or training program (such as the JOBS program);
+&emsp;&emsp;(A) an objective assessment of the skill levels and service needs of each participant, which assessment shall include a review of basic skills, occupational skills, prior work experience, employability, interests, aptitudes (including interests and aptitudes for nontraditional jobs), and supportive service needs, except that a new assessment of a participant is not required if the program determines it is appropriate to use a recent assessment of the participant conducted under another education or training program;
 
-&emsp;&emsp;(B) development of service strategies that shall identify the employment goal (including, in appropriate circumstances, nontraditional employment), appropriate achievement objectives, and appropriate services for participants taking into account the assessments conducted pursuant to subparagraph (A), except that a new service strategy for a participant is not required if the program determines it is appropriate to use a recent service strategy developed for the participant under another education or training program (such as the JOBS program);
+&emsp;&emsp;(B) development of service strategies that shall identify the employment goal (including, in appropriate circumstances, nontraditional employment), appropriate achievement objectives, and appropriate services for participants taking into account the assessments conducted pursuant to subparagraph (A), except that a new service strategy for a participant is not required if the program determines it is appropriate to use a recent service strategy developed for the participant under another education or training program;
 
 &emsp;&emsp;(C) a review of the progress of each participant in meeting the objectives of the service strategy; and
 
-&emsp;&emsp;(D) each of the following services, which shall be provided either directly or through arrangement with other programs to a participant where the assessment and the service strategy indicate such services are appropriate:
+&emsp;&emsp;(D) each of the following services, which shall be provided either directly or througharrangement with other programs to a participant where the assessment and the service strategy indicate such services are appropriate:
 
 &emsp;&emsp;&emsp;(i) Basic skills training.
 
@@ -124,11 +124,11 @@ Subject to the limitations contained in subsection (d) of this section, services
 
 #### (A) Preemployment and work maturity skills training
 
-&emsp;&emsp;Preemployment and work maturity skills training authorized by this part shall be accompanied by either work experience or other additional services designed to increase the basic education or occupational skills of a participant. The additional services may be provided, concurrently or sequentially, under other education and training programs, including the Job Corps and the JOBS program.
+&emsp;&emsp;Preemployment and work maturity skills training authorized by this part shall be accompanied by either work experience or other additional services designed to increase the basic education or occupational skills of a participant. The additional services may be provided, concurrently or sequentially, under other education and training programs, including the Job Corps.
 
 #### (B) Additional services
 
-&emsp;&emsp;Work experience, job search assistance, job search skills training, and job club activities provided under this part shall be accompanied by additional services designed to increase the basic education or occupational skills of a participant. The additional services may be provided, concurrently or sequentially, under other education and training programs, including the Job Corps and the JOBS program.
+&emsp;&emsp;Work experience, job search assistance, job search skills training, and job club activities provided under this part shall be accompanied by additional services designed to increase the basic education or occupational skills of a participant. The additional services may be provided, concurrently or sequentially, under other education and training programs, including the Job Corps.
 
 #### (C) On-the-job training
 
@@ -164,7 +164,17 @@ Subject to the limitations contained in subsection (d) of this section, services
 
 &emsp;The service delivery area shall make opportunities available for successful individuals who have previously participated in programs under this part to volunteer assistance to participants in the form of mentoring, tutoring, and other activities.
 
-(Pub. L. 97–300, title II, §264, as added Pub. L. 102–367, title II, §208, Sept. 7, 1992, 106 Stat. 1068.)
+(Pub. L. 97–300, title II, §264, as added Pub. L. 102–367, title II, §208, Sept. 7, 1992, 106 Stat. 1068; amended Pub. L. 104–193, title I, §110(n)(9), Aug. 22, 1996, 110 Stat. 2174.)
+
+#### Amendments
+
+1996—Subsec. (b)(1)(A), (B). Pub. L. 104–193, §110(n)(9)(A), struck out “(such as the JOBS program)” after “another education or training program”.
+
+Subsec. (d)(3)(A), (B). Pub. L. 104–193, §110(n)(9)(B), struck out “and the JOBS program” after “, including the Job Corps”.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–193 effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as an Effective Date note under section 601 of Title 42, The Public Health and Welfare.
 
 #### Effective Date
 

@@ -2,7 +2,7 @@
 
 (a) Whoever knowingly displays any printed or other likeness of the great seal of the United States, or of the seals of the President or the Vice President of the United States, or the seal of the United States Senate, or any facsimile thereof, in, or in connection with, any advertisement, poster, circular, book, pamphlet, or other publication, public meeting, play, motion picture, telecast, or other production, or on any building, monument, or stationery, for the purpose of conveying, or in a manner reasonably calculated to convey, a false impression of sponsorship or approval by the Government of the United States or by any department, agency, or instrumentality thereof, shall be fined under this title or imprisoned not more than six months, or both.
 
-(b) Whoever, except as authorized under regulations promulgated by the President and published in the Federal Register, knowingly manufactures, reproduces, sells, or purchases for resale, either separately or appended to any article manufactured or sold, any likeness of the seals of the President or Vice President, or any substantial part thereof, except for manufactureor sale of the article for the official use of the Government of the United States, shall be fined under this title or imprisoned not more than six months, or both.
+(b) Whoever, except as authorized under regulations promulgated by the President and published in the Federal Register, knowingly manufactures, reproduces, sells, or purchases for resale, either separately or appended to any article manufactured or sold, any likeness of the seals of the President or Vice President, or any substantial part thereof, except for manufacture or sale of the article for the official use of the Government of the United States, shall be fined under this title or imprisoned not more than six months, or both.
 
 (c) Whoever, except as directed by the United States Senate, or the Secretary of the Senate on its behalf, knowingly uses, manufactures, reproduces, sells or purchases for resale, either separately or appended to any article manufactured or sold, any likeness of the seal of the United States Senate, or any substantial part thereof, except for manufacture or sale of the article for the official use of the Government of the United States, shall be fined under this title or imprisoned not more than six months, or both.
 
@@ -12,7 +12,7 @@
 
 &emsp;(2) in the case of the seal of the United States Senate, upon complaint by the Secretary of the Senate.
 
-(Added Pub. L. 89–807, §1(a), Nov. 11, 1966, 80 Stat. 1525; amended Pub. L. 91–651, §1, Jan. 5, 1971, 84 Stat. 1940; Pub. L. 102–229, title II, §210(a)–(d), Dec. 12, 1991, 105 Stat. 1717; Pub. L. 103–322, title XXXIII, §330016(1)(E), Sept. 13, 1994, 108 Stat. 2146.)
+(Added Pub. L. 89–807, §1(a), Nov. 11, 1966, 80 Stat. 1525; amended Pub. L. 91–651, §1, Jan. 5, 1971, 84 Stat. 1940; Pub. L. 102–229, title II,§210(a)–(d), Dec. 12, 1991, 105 Stat. 1717; Pub. L. 103–322, title XXXIII, §330016(1)(E), Sept. 13, 1994, 108 Stat. 2146.)
 
 #### Amendments
 

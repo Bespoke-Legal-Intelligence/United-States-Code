@@ -14,13 +14,13 @@ Information to Civilian Entities.—For the purpose of assisting members covered
 
 (d)
 
-Employment Preference by Nonappropriated Fund Instrumentalities.—The Secretary of Defense shall take such steps as necessary to provide that members of Army, Navy, Air Force, or Marine Corps who are involuntarily separated, and the dependents of such members, shall be provided a preference in hiring by nonappropriated fund instrumentalities of the Department. Such preference shall be administered in the same manner as the preference for military spouses provided under section 806(a)(2) of the Military Family Act of 1985, except that a preference under that section shall have priority over a preference under this subsection. A person may receive a preference in hiring under this subsection only once. The Secretary of Transportation shall provide the same preference in hiring to involuntarily separated members of the Coast Guard, and the dependents of such members, in Coast Guard nonappropriated fund instrumentalities.
+Employment Preference by Nonappropriated Fund Instrumentalities.—The Secretary of Defense shall take such steps as necessary to provide that members of Army, Navy, Air Force, or Marine Corps who are involuntarily separated, and the dependents of such members, shall be provided a preference in hiring by nonappropriated fund instrumentalities of the Department. Such preference shall be administered in the same manner as the preference for military spouses provided under section 806(a)(2) of the Military Family Act of 1985,<sup>1</sup> except that a preference under that section shall have priority over a preference under this subsection. A person may receive a preference in hiring under this subsection only once. The Secretary of Transportation shall provide the same preference in hiring to involuntarily separated members of the Coast Guard, and the dependents of such members, in Coast Guard nonappropriated fund instrumentalities.
 
 (Added Pub. L. 101–510, div. A, title V, §502(a)(1), Nov. 5, 1990, 104 Stat. 1553; amended Pub. L. 103–337, div. A, title V, §542(a)(2), Oct. 5, 1994, 108 Stat. 2767.)
 
 #### References in Text
 
-Section 806(a)(2) of the Military Family Act of 1985 \[Pub. L. 99–145\], referred to in subsec. (d), is set out in a note under section 113 of this title.
+Section 806(a)(2) of the Military Family Act of 1985 \[Pub. L. 99–145\], referred to in subsec. (d), was set out in a note under section 113 of this title, prior to repeal by Pub. L. 104–106, div. A, title V, §568(e)(1), Feb. 10, 1996, 110 Stat. 336. See section 1784(a)(2) of this title.
 
 #### Amendments
 
@@ -36,7 +36,7 @@ Subsec. (d). Pub. L. 103–337, §542(a)(2)(E), inserted at end “The Secretary
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–337 applicable only to members of the Coast Guard who are separated afterSept. 30, 1994, see section 542(e) of Pub. L. 103–337, set out as a note under section 1141 of this title.
+Amendment by Pub. L. 103–337 applicable only to members of the Coast Guard who are separated after Sept. 30, 1994, see section 542(e) of Pub. L. 103–337, set out as a note under section 1141 of this title.
 
 #### Demonstration Program for Training Recently Discharged Veterans for Employment in Construction and Hazardous Waste Remediation
 
@@ -60,7 +60,7 @@ Grant Eligibility Criteria.—An organization is eligible to receive a grant fro
 
 &emsp;“(5) demonstrates actual experience in providing training for veterans under an agreement referred to in paragraph (2);
 
-&emsp;“(6) agrees to make, along with all subgrantees, a substantial in-kind contribution (as determined by the Secretary of Defense) from non-Federal sources to the demonstration program under this section; and
+&emsp;“(6) agrees to make, along with all subgrantees, a substantial in-kind contribution (as determined bythe Secretary of Defense) from non-Federal sources to the demonstration program under this section; and
 
 &emsp;“(7) gives its assurances, to the satisfaction of the Secretary, that full time, permanent jobs will be available for individuals successfully completing the training program, with a special emphasis on jobs with employers in construction and hazardous waste remediation on Department of Defense facilities.
 
@@ -240,7 +240,7 @@ State Agencies.—(1) The implementing official may enter into contracts or agre
 
 “(c)
 
-Expeditious Implementation.—A requirement in this subtitle to issue regulations shall not be the basis for a delay in carrying out this program within the time limit established by subsection (a).
+Expeditious Implementation.—A requirement in this subtitle to issue regulations shall not be the basisfor a delay in carrying out this program within the time limit established by subsection (a).
 
 #### “SEC. 4485. ELIGIBILITY FOR PROGRAM; PERIOD OF TRAINING.
 
@@ -474,7 +474,7 @@ Rate of Completion.—(1) If the implementing official determines that the rate 
 
 “(a)
 
-Records.—The records and accounts of employers pertaining to eligible persons on behalf of whom assistance has been paid under this subtitle, as well as other records that the implementing official determines to be necessary to ascertain compliance with the requirements established under this subtitle, shall be available at reasonable times for examination by authorized representatives of the Federal Government.
+Records.—The records and accounts of employers pertaining to eligible persons on behalf of whom assistance has been paid under this subtitle, as well asother records that the implementing official determines to be necessary to ascertain compliance with the requirements established under this subtitle, shall be available at reasonable times for examination by authorized representatives of the Federal Government.
 
 “(b)
 
@@ -534,7 +534,7 @@ Case Manager.—(1) The implementing official shall provide for a program under 
 
 &emsp;&emsp;“(i) the employer has an appropriate and effective employee assistance program that is available to all eligible persons participating in the employer's programs of job training under this subtitle; or
 
-&emsp;&emsp;“(ii) the rate of eligible persons’ successful completion of the employer's programs of job trainingunder this subtitle, either cumulatively or during the previous program year, is 60 percent or higher.
+&emsp;&emsp;“(ii) the rate of eligible persons’ successful completion of the employer's programs of job training under this subtitle, either cumulatively or during the previous program year, is 60 percent or higher.
 
 “(3) The implementing official shall provide, to the extent feasible, a program of counseling or other services designed to resolve difficulties that may be encountered by eligible persons during their training under this subtitle. Such counseling or other services shall be similar to the counseling and other services provided under sections 1712A, 3697A, 4103A, 4104, 7723, and 7724 of title 38, United States Code, and section 1144 of title 10, United States Code.
 
@@ -552,7 +552,7 @@ In General.—(1) The Secretary, the Secretary of Veterans Affairs, and the Secr
 
 &emsp;“(B) to inform private industry and business concerns (including small business concerns), public agencies and organizations, educational institutions, trade associations, and labor unions about the job training opportunities available under, and the advantages of participating in, the program established by this subtitle.
 
-“(2) The Secretary, in consultation with the Secretary of Labor and the Secretary of Veterans Affairs, shall promote the development of employment and job training opportunities for eligible persons by encouraging potential employers to make programs of job training under this subtitle available for eligible persons, by advising other appropriate Federal departments and agencies of the program established by this subtitle, and by advising employers of applicable responsibilities under chapters 41 and 42 of title 38, United States Code, with respect to eligible persons.
+“(2) The Secretary, in consultation with the Secretary of Labor and the Secretary of Veterans Affairs,shall promote the development of employment and job training opportunities for eligible persons by encouraging potential employers to make programs of job training under this subtitle available for eligible persons, by advising other appropriate Federal departments and agencies of the program established by this subtitle, and by advising employers of applicable responsibilities under chapters 41 and 42 of title 38, United States Code, with respect to eligible persons.
 
 “(b)
 
@@ -613,4 +613,6 @@ Publication in the Federal Register.—If the transfer described in subsection (
 #### Section Referred to in Other Sections
 
 This section is referred to in section 1144 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

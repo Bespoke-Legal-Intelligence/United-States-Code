@@ -26,7 +26,7 @@ For purposes of this part, the term “system group” means one or more chains 
 
 For purposes of this part, the term “nonexempt property” means—
 
-&emsp;(1) any consideration in the form of evidences of indebtedness owed by the transferor or a cancellation or assumption of debts or other liabilities of the transferor (including a continuance of encumbrances subject to which the property was transferred);
+&emsp;(1) any consideration in the form of evidences of indebtedness owed by the transferor or a cancellation or assumption of debts orother liabilities of the transferor (including a continuance of encumbrances subject to which the property was transferred);
 
 &emsp;(2) short-term obligations (including notes, drafts, bills of exchange, and bankers’ acceptances) having a maturity at the time of issuance of not exceeding 24 months, exclusive of days of grace;
 

@@ -78,7 +78,7 @@ Subsec. (k). Pub. L. 102–242, §223(c), added subsec. (k).
 
 Subsec. (b). Pub. L. 94–239 inserted provisions exempting government or governmental subdivision or agency from requirements of this subchapter, incorporated provisions contained in former subsec. (c) relating to recovery in class actions and, as incorporated, raised the total amount of recovery under a class action from $100,000 to $500,000.
 
-Subsec. (c). Pub. L. 94–239 redesignated subsec. (d) as (c) and specified United States district court or other court of competent jurisdiction as court in which to bring action, and substituted provisions authorizing such court to grant equitable and declaratory relief, for provisions authorizing civil actions for preventive relief. Provisions of former subsec. (c) were incorporated into present subsec. (b) and amended.
+Subsec. (c). Pub. L. 94–239 redesignated subsec. (d) as (c) and specified United States district court or othercourt of competent jurisdiction as court in which to bring action, and substituted provisions authorizing such court to grant equitable and declaratory relief, for provisions authorizing civil actions for preventive relief. Provisions of former subsec. (c) were incorporated into present subsec. (b) and amended.
 
 Subsec. (d). Pub. L. 94–239 redesignated subsec. (e) as (d) and made minor changes in phraseology. Former subsec. (d) redesignated (c) and amended.
 

@@ -20,7 +20,7 @@ Discharges of pollutants into the navigable waters subject to the Rivers and Har
 
 #### (d) Consideration of international water pollution control agreements
 
-Notwithstanding this chapter or any other provision of law, the Administrator (1) shall not require any State to consider in the development of the ranking in order of priority of needs for the construction of treatment works (as defined in subchapter II of this chapter), any water pollution control agreement which may havebeen entered into between the United States and any other nation, and (2) shall not consider any such agreement in the approval of any such priority ranking.
+Notwithstanding this chapter or any other provision of law, the Administrator (1) shall not require any State to consider in the development of the ranking in order of priority of needs for the construction of treatment works (as defined in subchapter II of this chapter), any water pollution control agreement which may have been entered into between the United States and any other nation, and (2) shall not consider any such agreement in the approval of any such priority ranking.
 
 (June 30, 1948, ch. 758, title V, §511, as added Oct. 18, 1972, Pub. L. 92–500, §2, 86 Stat. 893; amended Jan. 2, 1974, Pub. L. 93–243, §3, 87 Stat. 1069.)
 

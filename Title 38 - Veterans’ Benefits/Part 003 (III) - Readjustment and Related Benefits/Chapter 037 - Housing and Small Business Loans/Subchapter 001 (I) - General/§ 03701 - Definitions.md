@@ -14,19 +14,19 @@
 
 &emsp;(5)(A) The term “veteran” also includes an individual who is not otherwise eligible for the benefits of this chapter and (i) who has completed a total service of at least 6 years in the Selected Reserve and, following the completion of such service, was discharged from service with an honorable discharge, was placed on the retired list, was transferred to the Standby Reserve or an element of the Ready Reserve other than the Selected Reserve after service in the Selected Reserve characterized by the Secretary concerned as honorable service, or continues serving in the Selected Reserve, or (ii) who was discharged or released from the Selected Reserve before completing 6 years of service because of a service-connected disability.
 
-&emsp;(B) The term “Selected Reserve” means the Selected Reserve of the Ready Reserve of any of the reserve components (including the Army National Guard of the United States and the Air National Guard of the United States) of the Armed Forces, as required to be maintained under section 268(b) <sup>1</sup> of title 10.
+&emsp;(B) The term “Selected Reserve” means the Selected Reserve of the Ready Reserve of any of the reserve components (including the Army National Guard of the United States and the Air National Guard of the United States) of the Armed Forces, as required to be maintained under section 10143(a) of title 10.
 
 (c) Benefits shall not be afforded under this chapter to any individual on account of service as a commissioned officer of the National Oceanic and Atmospheric Administration (or predecessor entity), or of the Regular or Reserve Corps of the Public Health Service, unless such service would have qualified such individual for benefits under title III of the Servicemen's Readjustment Act of 1944.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1203, §1801; Pub. L. 91–584, §5(a), Dec. 24, 1970, 84 Stat. 1576; Pub. L. 94–324, §7(1), (2), June 30, 1976, 90 Stat. 721; Pub. L. 97–72, title III, §303(a), Nov. 3, 1981, 95 Stat. 1059; Pub. L. 97–295, §4(62), Oct. 12, 1982, 96 Stat. 1309; Pub. L. 100–322, title IV, §415(c)(1), May 20, 1988, 102 Stat. 551; Pub. L. 101–237, title III, §313(a), Dec. 18, 1989, 103 Stat. 2077; renumbered §3701 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–547, §2(a)(1), Oct. 28, 1992, 106 Stat. 3633; Pub. L. 103–446, title IX, §901, Nov. 2, 1994, 108 Stat. 4675.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1203, §1801; Pub. L. 91–584, §5(a), Dec. 24, 1970, 84 Stat. 1576; Pub. L. 94–324, §7(1), (2), June 30, 1976, 90 Stat. 721; Pub. L. 97–72, title III, §303(a), Nov. 3, 1981, 95 Stat. 1059; Pub. L. 97–295, §4(62), Oct. 12, 1982, 96 Stat. 1309; Pub. L. 100–322, title IV, §415(c)(1), May 20, 1988, 102 Stat. 551; Pub. L. 101–237, title III, §313(a), Dec. 18, 1989, 103 Stat. 2077; renumbered §3701 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–547, §2(a)(1), Oct. 28, 1992, 106 Stat. 3633; Pub. L. 103–446, title IX, §901, Nov. 2, 1994, 108 Stat. 4675; Pub. L. 104–106, div. A, title XV, §1501(e)(2)(B), Feb. 10, 1996, 110 Stat. 501.)
 
 #### References in Text
-
-Section 268(b) of title 10, referred to in subsec. (b)(5)(B), was repealed by Pub. L. 103–337, div. A, title XVI, §1661(a)(2)(A), Oct. 5, 1994, 108 Stat. 2979. See section 10143(a) of Title 10, Armed Forces.
 
 The Servicemen's Readjustment Act of 1944, referred to in subsec. (c), is act June 22, 1944, ch. 268, 58 Stat. 284, as amended. Title III of the Servicemen's Readjustment Act of 1944 was classified generally to subchapter II (§694 et seq.) of chapter 11C of former Title 38, Pensions, Bonuses, and Veterans’ Relief, which was repealed and the provisions thereof reenacted as this chapter by Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1105.
 
 #### Amendments
+
+1996—Subsec. (b)(5)(B). Pub. L. 104–106 substituted “section 10143(a) of title 10” for “section 268(b) of title 10”.
 
 1994—Subsec. (b)(2). Pub. L. 103–446, §901(b), inserted “or service in the Selected Reserve” after “duty” in two places and substituted “deceased spouse shall” for “spouse shall”.
 
@@ -56,6 +56,10 @@ Subsec. (a)(3). Pub. L. 94–324, §7(2), substituted “spouse” and “the sp
 
 1970—Subsec. (a)(3). Pub. L. 91–584 added par. (3).
 
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–106 effective as if included in the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as enacted on Oct. 5, 1994, see section 1501(f)(3) of Pub. L. 104–106, set out as a note under section 113 of Title 10, Armed Forces.
+
 #### Effective Date of 1981 Amendment
 
 Amendment by Pub. L. 97–72 effective at end of 180-day period beginning on Nov. 3, 1981, see section 305 of Pub. L. 97–72, set out as an Effective Date note under section 3741 of this title.
@@ -70,7 +74,5 @@ Section 9 of Pub. L. 94–324 provided that:
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3702, 3729, 5302 of this title.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+This section is referred to in sections 3702, 3708, 3729, 5302 of this title.
 

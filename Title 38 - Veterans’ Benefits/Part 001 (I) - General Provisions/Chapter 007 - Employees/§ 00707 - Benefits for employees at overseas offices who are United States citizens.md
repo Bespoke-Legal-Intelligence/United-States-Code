@@ -12,13 +12,13 @@
 
 &emsp;(5) Section 904(d) of the Foreign Service Act of 1980 (relating to payments by the United States of expenses for treating illness or injury of officers or employees and dependents requiring hospitalization).
 
-&emsp;(6) Section 5724a(a)(3) of title 5 (relating to subsistence expenses for 60 days in connection with the return to the United States of the employee and such employee's immediate family).
+&emsp;(6) Section 5724a(c) of title 5 (relating to subsistence expenses for 60 days in connection with the return to the United States of the employee and such employee's immediate family).
 
-&emsp;(7) Section 5724a(a)(4) of title 5 (relating to the sale and purchase of the residence or settlement of an unexpired lease of the employee when transferred from one station to another station and both stations are in the United States, its territories or possessions, or the Commonwealth of Puerto Rico).
+&emsp;(7) Section 5724a(d) of title 5 (relating to the sale and purchase of the residence or settlement of an unexpired lease of the employee when transferred from one station to another station and both stations are in the United States, its territories or possessions, or the Commonwealth of Puerto Rico).
 
 (b) The authority in subsection (a) supplements, but is not in lieu of, other allowances and benefits for overseas employees of the Department provided by title 5 and the Foreign Service Act of 1980 (22 U.S.C. 3901 et seq.).
 
-(Added Pub. L. 102–83, §2(a), Aug. 6, 1991, 105 Stat. 395.)
+(Added Pub. L. 102–83, §2(a), Aug. 6, 1991, 105 Stat. 395; amended Pub. L. 104–201, div. A, title XVII, §1723(a)(2), Sept. 23, 1996, 110 Stat. 2759.)
 
 #### References in Text
 
@@ -29,6 +29,16 @@ The Foreign Service Act of 1980, referred to in subsecs. (a)(1)–(5) and (b), i
 Prior sections 707 and 708 were renumbered sections 1907 and 1908 of this title, respectively.
 
 Provisions similar to those in this section were contained in section 235 of this title prior to repeal by Pub. L. 102–83, §2(a).
+
+#### Amendments
+
+1996—Subsec. (a)(6). Pub. L. 104–201, §1723(a)(2)(A), substituted “Section 5724a(c)” for “Section 5724a(a)(3)”.
+
+Subsec. (a)(7). Pub. L. 104–201, §1723(a)(2)(B), substituted “Section 5724a(d)” for “Section 5724a(a)(4)”.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–201 effective 180 days after Sept. 23, 1996, see section 1725(a) of Pub. L. 104–201, set out as a note under section 5722 of Title 5, Government Organization and Employees.
 
 #### Ex. Ord. No. 12228. Allowances for Personnel on Foreign Duty
 

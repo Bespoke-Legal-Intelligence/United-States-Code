@@ -10,7 +10,7 @@
 
 > and section 1368(a) of this title shall be applied separately with respect to each controlled group. The corporation may also determine the liability of each such contributing sponsor and member of its controlled group on any other equitable basis prescribed by the corporation in regulations.
 
-(Pub. L. 93–406, title IV, §4064, Sept. 2, 1974, 88 Stat. 1031; Pub. L. 96–364, title IV, §403(i), Sept. 26, 1980, 94 Stat. 1301; Pub. L. 99–272, title XI, §11016(a)(5)(B), Apr. 7, 1986, 100 Stat. 270; Pub. L. 100–203, title IX, §9312(b)(2)(C)(i), Dec. 22, 1987,101 Stat. 1330–361; Pub. L. 101–239, title VII, §7881(f)(3)(A), Dec. 19, 1989, 103 Stat. 2440.)
+(Pub. L. 93–406, title IV, §4064, Sept. 2, 1974, 88 Stat. 1031; Pub. L. 96–364, title IV, §403(i), Sept. 26, 1980, 94 Stat. 1301; Pub. L. 99–272, title XI, §11016(a)(5)(B), Apr. 7, 1986, 100 Stat. 270; Pub. L. 100–203, title IX, §9312(b)(2)(C)(i), Dec. 22, 1987, 101 Stat. 1330–361; Pub. L. 101–239, title VII, §7881(f)(3)(A), Dec. 19, 1989, 103 Stat. 2440.)
 
 #### Amendments
 

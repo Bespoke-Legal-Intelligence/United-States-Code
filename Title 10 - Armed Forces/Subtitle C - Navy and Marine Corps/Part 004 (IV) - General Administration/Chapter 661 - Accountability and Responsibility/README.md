@@ -4,11 +4,13 @@
 | :--- | ---: |
 | [7861\.](%C2%A7%2007861%20-%20Custody%20of%20departmental%20records%20and%20property.md) | Custody of departmental records and property. |
 | [7862\.](%C2%A7%2007862%20-%20Accounts%20of%20paymasters%20of%20lost%20or%20captured%20naval%20vessels.md) | Accounts of paymasters of lost or captured naval vessels. |
-| [7863\.](%C2%A7%2007863%20-%20Disbursements%20by%20order%20of%20commanding%20officer.md) | Disbursements by order of commanding officer. |
+| [7863\.](%C2%A7%2007863%20-%20Disposal%20of%20public%20stores%20by%20order%20of%20commanding%20officer.md) | Disposal of public stores by order of commanding officer. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1996—Pub. L. 104–106, div. A, title IX, §913(c)(3)(B)(ii), Feb. 10, 1996, 110 Stat. 411, substituted “Disposal of public stores” for “Disbursements” in item 7863.
 
 1986—Pub. L. 99–433, title V, §514(b)(2), Oct. 1, 1986, 100 Stat. 1054, renumbered items 7861 and 7862 as 7862 and 7863, respectively, and inserted item 7861.
 
@@ -21,4 +23,4 @@
 
 - [&sect; 07861 - Custody of departmental records and property](%C2%A7%2007861%20-%20Custody%20of%20departmental%20records%20and%20property.md)
 - [&sect; 07862 - Accounts of paymasters of lost or captured naval vessels](%C2%A7%2007862%20-%20Accounts%20of%20paymasters%20of%20lost%20or%20captured%20naval%20vessels.md)
-- [&sect; 07863 - Disbursements by order of commanding officer](%C2%A7%2007863%20-%20Disbursements%20by%20order%20of%20commanding%20officer.md)
+- [&sect; 07863 - Disposal of public stores by order of commanding officer](%C2%A7%2007863%20-%20Disposal%20of%20public%20stores%20by%20order%20of%20commanding%20officer.md)

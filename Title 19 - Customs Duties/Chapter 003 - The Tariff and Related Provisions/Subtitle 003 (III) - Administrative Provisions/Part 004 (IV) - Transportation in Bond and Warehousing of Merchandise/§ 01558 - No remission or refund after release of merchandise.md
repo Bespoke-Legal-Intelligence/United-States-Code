@@ -18,7 +18,7 @@ When articles are exported or destroyed under customs supervision after once hav
 
 #### References in Text
 
-Subsection (c) of section 1304 of this title, referred to in subsec. (b), was redesignated subsection (f) and a new subsection (c) of section 1304 was added by Pub. L. 98–573, title II, §207(1), (2), Oct. 30, 1984, 98 Stat. 2976.
+Subsection (c) of section 1304 of this title, referred to in subsec. (b), was redesignated subsection (f) and a new subsection (c) of section 1304 was added by Pub. L. 98–573, title II, §207(1), (2), Oct. 30, 1984, 98 Stat. 2976. Subsection (f) was subsequently redesignated (h) and a new subsection (f) was added by Pub. L. 104–295, §14(a), Oct. 11, 1996, 110 Stat. 3521.
 
 #### Prior Provisions
 

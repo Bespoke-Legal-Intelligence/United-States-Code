@@ -34,7 +34,7 @@ Collegiate Training Initiative.—(1) The Administrator of the Federal Aviation 
 
 (d)
 
-Staffing Report.—The Administrator of the Federal Aviation Administration shall submit annually to the Committee on Public Works and Transportation of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report containing—
+Staffing Report.—The Administrator of the Federal Aviation Administration shall submit annually to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report containing—
 
 &emsp;(1) the staffing standards used to determine the number of air traffic controllers needed to operate the air traffic control system of the United States;
 
@@ -42,11 +42,13 @@ Staffing Report.—The Administrator of the Federal Aviation Administration shal
 
 &emsp;(3) a detailed plan for employing the controllers, including projected budget requests.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1178.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1178; Pub. L. 104–287, §5(9), Oct. 11, 1996, 110 Stat. 3389.)
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -74,9 +76,9 @@ In subsections (a) and (b), the text of section 8(a) and (b)(3) of the Aviation 
 
 In subsection (c), the words “institutions of higher education” are substituted for “post-secondary educational institutions” for consistency in the revised title.
 
-#### Change of Name
+#### Amendments
 
-Committee on Public Works and Transportation of House of Representatives treated as referring to Committee on Transportation and Infrastructure of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+1996—Subsec. (d). Pub. L. 104–287 substituted “Transportation and Infrastructure” for “Public Works and Transportation”.
 
 #### Section Referred to in Other Sections
 

@@ -12,7 +12,7 @@ Section 613, act Apr. 30, 1900, ch. 339, §§57, 58, 31 Stat. 151, granted each 
 
 Section 614, act Apr. 30, 1900, ch. 339, §59, 31 Stat. 151, allowed each voter for representative to vote for as many representatives as would be elected from representative district in which voter was entitled to vote and gave posts of representatives to those candidates receiving highest number of votes.
 
-Section 615, act Apr. 30, 1900, ch. 339, §61, 31 Stat. 152, allowed each voter to cast one vote for senator to beelected from district in which voter could vote and called for required numbers of candidates receiving highest number of votes to become senators for their districts.
+Section 615, act Apr. 30, 1900, ch. 339, §61, 31 Stat. 152, allowed each voter to cast one vote for senator to be elected from district in which voter could vote and called for required numbers of candidates receiving highest number of votes to become senators for their districts.
 
 Section 616, act Apr. 30, 1900, ch. 339, §62, 31 Stat. 152, made qualifications for voters for senator and for all other elections same as qualifications for voters casting votes for representative.
 

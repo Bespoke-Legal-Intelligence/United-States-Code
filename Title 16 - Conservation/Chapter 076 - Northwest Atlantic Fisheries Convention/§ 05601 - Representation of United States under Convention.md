@@ -4,7 +4,7 @@
 
 #### (1) Appointments, generally
 
-&emsp;The Secretary shall appoint not more than 3 individuals to serve as the representatives ofthe United States on the General Council and the Fisheries Commission, who shall each—
+&emsp;The Secretary shall appoint not more than 3 individuals to serve as the representatives of the United States on the General Council and the Fisheries Commission, who shall each—
 
 &emsp;&emsp;(A) be known as a “United States Commissioner to the Northwest Atlantic Fisheries Organization”; and
 

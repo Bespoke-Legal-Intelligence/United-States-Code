@@ -54,13 +54,21 @@ It is declared to be the policy of the Congress that disabled individuals applyi
 
 (5) For purposes of this subsection the term “vocational rehabilitation services” shall have the meaning assigned to it in title I of the Rehabilitation Act of 1973 \[29 U.S.C. 720 et seq.\], except that such services may be limited in type, scope, or amount in accordance with regulations of the Commissioner of Social Security designed to achieve the purpose of this subsection.
 
-(Aug. 14, 1935, ch. 531, title II, §222, as added Sept. 1, 1954, ch. 1206, title I, §106(g) 68 Stat. 1081; amended Aug. 1, 1956, ch. 836, title I, §103(b), 70 Stat. 817; Aug. 28, 1958, Pub. L. 85–840, title II, §205(n), title III, §307(g), 72 Stat. 1025, 1032; Sept. 13, 1960, Pub. L. 86–778, title IV, §403(a), 74 Stat. 968; July 30, 1965, Pub. L. 89–97, title III, §§306(c)(14), 308(d)(11), 336, 79 Stat. 373, 379, 408; Jan. 2, 1968, Pub. L. 90–248, title I, §§104(d)(3), (4), 158(c)(5), 81 Stat. 832, 869; Oct. 30, 1972, Pub. L. 92–603, title I, §§107(b)(3), (4), 131, 86 Stat. 1343, 1360; June 9, 1980, Pub. L. 96–265, title III, §303(a), 94 Stat. 451; Aug. 13, 1981, Pub. L. 97–35, title XXII, §2209(a), 95 Stat. 840; Apr. 20, 1983, Pub. L. 98–21, title III, §309(<i>l</i>)–(n), 97 Stat. 117; July 18, 1984, Pub. L. 98–369, div. B, title VI, §2663(a)(15), 98 Stat. 1165; Oct. 9, 1984, Pub. L. 98–460, §11(a), 98 Stat. 1805; Nov. 5, 1990, Pub. L. 101–508, title V, §5112(a), 104 Stat. 1388–273; Aug. 15, 1994, Pub. L. 103–296, title I, §107(a)(4), title II, §201(a)(4)(B), 108 Stat. 1478, 1499.)
+#### (e) Treatment referrals for individuals with alcoholism or drug addiction condition
+
+In the case of any individual whose benefits under this subchapter are paid to a representative payee pursuant to section 405(j)(1)(B) of this title, the Commissioner of Social Security shall refer such individual to the appropriate State agency administering the State plan for substance abuse treatment services approved under subpart II of part B of title XIX of the Public Health Service Act (42 U.S.C. 300x–21 et seq.).
+
+(Aug. 14, 1935, ch. 531, title II, §222, as added Sept. 1, 1954, ch. 1206, title I, §106(g) 68 Stat. 1081; amended Aug. 1, 1956, ch. 836, title I, §103(b), 70 Stat. 817; Aug. 28, 1958, Pub. L. 85–840, title II, §205(n), title III, §307(g), 72 Stat. 1025, 1032; Sept. 13, 1960, Pub. L. 86–778, title IV, §403(a), 74 Stat. 968; July 30, 1965, Pub. L. 89–97, title III, §§306(c)(14), 308(d)(11), 336, 79 Stat. 373, 379, 408; Jan. 2, 1968, Pub. L. 90–248, title I, §§104(d)(3), (4), 158(c)(5), 81 Stat. 832, 869; Oct. 30, 1972, Pub. L. 92–603, title I, §§107(b)(3), (4), 131, 86 Stat. 1343, 1360; June 9, 1980, Pub. L. 96–265, title III, §303(a), 94 Stat. 451; Aug. 13, 1981, Pub. L. 97–35, title XXII, §2209(a), 95 Stat. 840; Apr. 20, 1983, Pub. L. 98–21, title III, §309(<i>l</i>)–(n), 97 Stat. 117; July 18, 1984, Pub. L. 98–369, div. B, title VI, §2663(a)(15), 98 Stat. 1165; Oct. 9, 1984, Pub. L. 98–460, §11(a), 98 Stat. 1805; Nov. 5, 1990, Pub. L. 101–508, title V, §5112(a), 104 Stat. 1388–273; Aug. 15, 1994, Pub. L. 103–296, title I, §107(a)(4), title II, §201(a)(4)(B), 108 Stat. 1478, 1499; Mar. 29, 1996, Pub. L. 104–121, title I, §105(a)(3), 110 Stat. 852.)
 
 #### References in Text
 
 The Rehabilitation Act of 1973, referred to in subsecs. (a), (b)(1), and (d)(1), (5), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, as amended. Title I of the Rehabilitation Act of 1973 is classified generally to subchapter I (§720 et seq.) of chapter 16 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
 
+The Public Health Service Act, referred to in subsec. (e), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended. Subpart II of part B of title XIX of the Act is classified generally to subpart II (§300x–21 et seq.) of part B ofsubchapter XVII of chapter 6A of this title. For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.
+
 #### Amendments
+
+1996—Subsec. (e). Pub. L. 104–121 added subsec. (e).
 
 1994—Subsec. (b)(1). Pub. L. 103–296, §107(a)(4), substituted “Commissioner of Social Security” for “Secretary”.
 
@@ -126,11 +134,15 @@ Subsec. (d). Pub. L. 89–97, §336, added subsec. (d).
 
 Subsecs. (b), (c). Act Aug. 1, 1956, added subsecs. (b) and (c).
 
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–121 applicable with respect to benefits for which applications are filed after third month following March 1996, see section 105(a)(5) of Pub. L. 104–121, set out as a note under section 405 of this title.
+
 #### Effective Date of 1994 Amendment
 
 Amendment by section 107(a)(4) of Pub. L. 103–296 effective Mar. 31, 1995, see section 110(a) of Pub. L. 103–296, set out as a note under section 401 of this title.
 
-Section 201(a)(4)(C) of Pub. L. 103–296 provided that: “The amendments made by this paragraph \[amending this section and section 423 of this title\] shall take effect on the date of the enactment of this Act \[Aug. 15, 1994\].”
+Section 201(a)(4)(C) of Pub. L. 103–296 provided that: “The amendments made by this paragraph \[amendingthis section and section 423 of this title\] shall take effect on the date of the enactment of this Act \[Aug. 15, 1994\].”
 
 #### Effective Date of 1990 Amendment
 

@@ -1,6 +1,6 @@
 # Printed pages - Title 09 - Arbitration
 
-GPO's 1995 edition (laws in effect as of 1996-01-16), from its printed page marks. The exact position of
+GPO's 1996 edition (laws in effect as of 1997-01-06), from its printed page marks. The exact position of
 every mark is in `_page-maps/USCODE-title9.json`. Page numbers belong to the printed edition and change
 from edition to edition; the section files hold the text only.
 
@@ -19,8 +19,8 @@ from edition to edition; the section files hold the text only.
 | [&sect; 00009 - Award of arbitrators; confirmation; jurisdiction; procedure](Chapter%20001%20-%20General%20Provisions/%C2%A7%2000009%20-%20Award%20of%20arbitrators%3B%20confirmation%3B%20jurisdiction%3B%20procedure.md) | 3–4 |
 | [&sect; 00010 - Same; vacation; grounds; rehearing](Chapter%20001%20-%20General%20Provisions/%C2%A7%2000010%20-%20Same%3B%20vacation%3B%20grounds%3B%20rehearing.md) | 4 |
 | [&sect; 00011 - Same; modification or correction; grounds; order](Chapter%20001%20-%20General%20Provisions/%C2%A7%2000011%20-%20Same%3B%20modification%20or%20correction%3B%20grounds%3B%20order.md) | 4 |
-| [&sect; 00012 - Notice of motions to vacate or modify; service; stay of proceedings](Chapter%20001%20-%20General%20Provisions/%C2%A7%2000012%20-%20Notice%20of%20motions%20to%20vacate%20or%20modify%3B%20service%3B%20stay%20of%20proceedings.md) | 4–5 |
-| [&sect; 00013 - Papers filed with order on motions; judgment; docketing; force and effect; enforcement](Chapter%20001%20-%20General%20Provisions/%C2%A7%2000013%20-%20Papers%20filed%20with%20order%20on%20motions%3B%20judgment%3B%20docketing%3B%20force%20and%20effect%3B%20enforcement.md) | 5 |
+| [&sect; 00012 - Notice of motions to vacate or modify; service; stay of proceedings](Chapter%20001%20-%20General%20Provisions/%C2%A7%2000012%20-%20Notice%20of%20motions%20to%20vacate%20or%20modify%3B%20service%3B%20stay%20of%20proceedings.md) | 4 |
+| [&sect; 00013 - Papers filed with order on motions; judgment; docketing; force and effect; enforcement](Chapter%20001%20-%20General%20Provisions/%C2%A7%2000013%20-%20Papers%20filed%20with%20order%20on%20motions%3B%20judgment%3B%20docketing%3B%20force%20and%20effect%3B%20enforcement.md) | 4–5 |
 | [&sect; 00014 - Contracts not affected](Chapter%20001%20-%20General%20Provisions/%C2%A7%2000014%20-%20Contracts%20not%20affected.md) | 5 |
 | [&sect; 00015 - Inapplicability of the Act of State doctrine](Chapter%20001%20-%20General%20Provisions/%C2%A7%2000015%20-%20Inapplicability%20of%20the%20Act%20of%20State%20doctrine.md) | 5 |
 | [&sect; 00016 - Appeals](Chapter%20001%20-%20General%20Provisions/%C2%A7%2000016%20-%20Appeals.md) | 5 |

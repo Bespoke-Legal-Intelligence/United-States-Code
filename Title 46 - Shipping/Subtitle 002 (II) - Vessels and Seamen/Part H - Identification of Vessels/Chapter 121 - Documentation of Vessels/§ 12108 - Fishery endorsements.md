@@ -16,7 +16,7 @@
 
 (c) A fishery endorsement to engage in fishing in the territorial sea and fishery conservation zone adjacent to Guam, American Samoa, and the Northern Mariana Islands may be issued to a vessel that—
 
-&emsp;(1) is less than two hundred gross tons;
+&emsp;(1) is less than 200 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title;
 
 &emsp;(2) was not built or rebuilt in the United States;
 
@@ -24,7 +24,9 @@
 
 &emsp;(4) otherwise qualifies under the laws of the United States to be employed in the fisheries.
 
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 587; Pub. L. 98–454, title III, §301(c), Oct. 5, 1984, 98 Stat. 1734; Pub. L. 100–239, §§3(4), (5), 6(a)(6), Jan. 11, 1988, 101 Stat. 1779, 1782; Pub. L. 101–225, title III, §301(a)(8), Dec. 12, 1989, 103 Stat. 1921.)
+(d) A vessel purchased by the Secretary of Commerce through a fishing capacity reduction program under the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1801 et seq.) or section 308 of the Interjurisdictional Fisheries Act <sup>1</sup> (16 U.S.C. 4107) is not eligible for a fishery endorsement, and any fishery endorsement issued for that vessel is invalid.
+
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 587; Pub. L. 98–454, title III, §301(c), Oct. 5, 1984, 98 Stat. 1734; Pub. L. 100–239, §§3(4), (5), 6(a)(6), Jan. 11, 1988, 101 Stat. 1779, 1782; Pub. L. 101–225, title III, §301(a)(8), Dec. 12, 1989, 103 Stat. 1921; Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41; Pub. L. 104–324, title III, §301(e), title VII, §744, Oct. 19, 1996, 110 Stat. 3917, 3942.)
 
 Historical and Revision Notes
 
@@ -38,7 +40,17 @@ Historical and Revision Notes
 
 Section 12108 provides that a certificate of documentation in the form of a fishery license or an appropriately endorsed registry may be issued for any vessel that is eligible for documentation, was built in the United States, and qualifies under the laws of the United States to be employed in the fisheries. It also provides for the documentation of certain vessels captured in war that have not been built in the United States.
 
+#### References in Text
+
+The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (d), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, which is classified principally to chapter 38 (§1801 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 16 and Tables.
+
 #### Amendments
+
+1996—Subsec. (c)(1). Pub. L. 104–324, §744, substituted “200 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title” for “two hundred gross tons”.
+
+Subsec. (d). Pub. L. 104–208, which directed the substitution of “Magnuson-Stevens Fishery Conservation and Management Act” for “Magnuson Fishery Conservation and Management Act”, was executed by making the substitution for “Magnuson Fishery Conservation Management Act” to reflect the probable intent of Congress.
+
+Pub. L. 104–324, §301(e), added subsec. (d).
 
 1989—Pub. L. 101–225, §301(a)(8)(F), substituted “endorsements” for “licenses and registry” in section catchline.
 
@@ -57,6 +69,10 @@ Subsec. (c)(2). Pub. L. 100–239, §3(5), substituted “built or rebuilt” fo
 Subsec. (d). Pub. L. 100–239, §6(a)(6), added subsec. (d).
 
 1984—Subsec. (c). Pub. L. 98–454 added subsec. (c).
+
+#### Effective Date of 1996 Amendment
+
+Section 101(a) \[title II, §211(b)\] of div. A of Pub. L. 104–208 provided that the amendment made by that section is effective 15 days after Oct. 11, 1996.
 
 #### Savings Provision
 
@@ -114,5 +130,7 @@ For extension of territorial sea of United States, see Proc. No. 5928, set out a
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 12102, 12103, 14305 of this title; title 16 section 973g.
+This section is referred to in sections 12102, 12103, 14305 of this title; title 16 sections 973g, 4107.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “Act of 1986”.</i>
 

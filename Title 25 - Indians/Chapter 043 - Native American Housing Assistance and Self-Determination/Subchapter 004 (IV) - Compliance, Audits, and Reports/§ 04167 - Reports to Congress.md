@@ -1,0 +1,22 @@
+### §4167. Reports to Congress
+
+#### (a) In general
+
+Not later than 90 days after the conclusion of each fiscal year in which assistance under this chapter is made available, the Secretary shall submit to the Congress a report that contains—
+
+&emsp;(1) a description of the progress made in accomplishing the objectives of this chapter;
+
+&emsp;(2) a summary of the use of funds available under this chapter during the preceding fiscal year; and
+
+&emsp;(3) a description of the aggregate outstanding loan guarantees under subchapter VI of this chapter.
+
+#### (b) Related reports
+
+The Secretary may require recipients of grant amounts under this chapter to submit to the Secretary such reports and other information as may be necessary in order for the Secretary to make the report required by subsection (a) of this section.
+
+(Pub. L. 104–330, title IV, §407, Oct. 26, 1996, 110 Stat. 4041.)
+
+#### Effective Date
+
+Section effective Oct. 1, 1997, except as otherwise expressly provided, see section 107 of Pub. L. 104–330, set out as a note under section 4101 of this title.
+

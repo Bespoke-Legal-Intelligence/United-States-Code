@@ -8,7 +8,7 @@
 
 &emsp;(B) a subcontractor performing any cost-reimbursement, incentive, time-and-materials, labor-hour, or price-redeterminable subcontract or any combination of such subcontracts under a contract referred to in subparagraph (A).
 
-(2) The head of an executive agency, acting through an authorized representative, is authorized, for the purpose of evaluating the accuracy, completeness, and currency of certified cost or pricing data required to be submitted pursuant to section 254b <sup>1</sup> of this title with respect to a contract or subcontract, to examine all records of the contractor or subcontractor related to—
+(2) The head of an executive agency, acting through an authorized representative, is authorized, for the purpose of evaluating the accuracy, completeness, and currency of certified cost orpricing data required to be submitted pursuant to section 254b of this title with respect to a contract or subcontract, to examine all records of the contractor or subcontractor related to—
 
 &emsp;(A) the proposal for the contract or subcontract;
 
@@ -40,9 +40,9 @@
 
 (3) Paragraph (1) may not be construed to require a contractor or subcontractor to create or maintain any record that the contractor or subcontractor does not maintain in the ordinary course of business or pursuant to another provision of law.
 
-#### (d) Limitation on preaward audits relating to indirect costs
+#### (d) Limitation on audits relating to indirect costs
 
-An executive agency may not perform a preaward audit to evaluate proposed indirect costs under any contract, subcontract, or modification to be entered into in accordance with this subchapter in any case in which the contracting officer determines that the objectives of the audit can reasonably be met by accepting the results of an audit conducted by any other department or agency of the Federal Government within one year preceding the date of the contracting officer's determination.
+An executive agency may not perform an audit of indirect costs under a contract, subcontract, or modification before or after entering into the contract, subcontract, or modification in any case in which the contracting officer determines that the objectives of the audit can reasonably be met by accepting the results of an audit that was conducted by any other department or agency of the Federal Government within one year preceding the date of the contracting officer's determination.
 
 #### (e) Limitation
 
@@ -74,21 +74,27 @@ An executive agency shall not require a contractor or subcontractor to provide o
 
 In this section, the term “records” includes books, documents, accounting procedures and practices, and other data, regardless of type and regardless of whether such items are in written form, in the form of computer data, or in any other form.
 
-(June 30, 1949, ch. 288, title III, §304C, as added and amended Oct. 13, 1994, Pub. L. 103–355, title II, §2251(a), title IV, §4103(d), 108 Stat. 3318, 3341.)
+(June 30, 1949, ch. 288, title III, §304C, as added and amended Oct. 13, 1994, Pub. L. 103–355, titleII, §2251(a), title IV, §4103(d), 108 Stat. 3318, 3341; Feb. 10, 1996, Pub. L. 104–106, div. D, title XLIII, §4321(e)(5), 110 Stat. 675; Sept. 23, 1996, Pub. L. 104–201, div. A, title VIII, §808(b), 110 Stat. 2607.)
 
 #### References in Text
-
-Section 254b of this title, referred to in subsec. (a)(2), was in the original “section 304B”, and was translated as reading “section 304A”, meaning section 304A of act June 30, 1949, to reflect the probable intent of Congress, because section 304A, rather than section 304B of act June 30, 1949 (41 U.S.C. 254c), contains provisions relating to submission of certified cost or pricing data.
 
 Section 3 and 8G of the Inspector General Act of 1978, referred to in subsec. (b)(1), are sections 3 and 8G of Pub. L. 95–452, which are set out in the Appendix to Title 5, Government Organization and Employees. The reference to section 8G of the Act probably means the section 8G which was renumbered by Pub. L. 103–204, §23(a)(3), Dec. 17, 1993, 107 Stat. 2408, and which relates to requirements for Federal entities and designated Federal entities.
 
 #### Amendments
+
+1996—Subsec. (a)(2). Pub. L. 104–106 substituted “section 254b” for “section 254c”.
+
+Subsec. (d). Pub. L. 104–201 amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows: “An executive agency may not perform a preaward audit to evaluate proposed indirect costs under any contract, subcontract, or modification to be entered into in accordance with this subchapter in any case in which the contracting officer determines that the objectives of the audit can reasonably be met by accepting the results of an audit conducted by any other department or agency of the Federal Government within one year preceding the date of the contracting officer's determination.”
 
 1994—Subsec. (f)(2). Pub. L. 103–355, §4103(d), added par. (2).
 
 #### Change of Name
 
 Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+
+#### Effective Date of 1996 Amendment
+
+For effective date and applicability of amendment by Pub. L. 104–106, see section 4401 of Pub. L. 104–106, set out as a note under section 251 of this title.
 
 #### Effective Date
 

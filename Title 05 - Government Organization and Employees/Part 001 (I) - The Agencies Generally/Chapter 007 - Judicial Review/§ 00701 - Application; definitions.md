@@ -36,7 +36,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 (a)
 
@@ -60,7 +62,7 @@ Sections 1891–1902 of title 50, appendix, referred to in subsec. (b)(1)(H), we
 
 #### Amendments
 
-<b>1994</b>—Subsec. (b)(1)(H). Pub. L. 103–272 substituted “subchapter II of chapter 471 of title 49; or sections” for “or sections 1622,”.
+1994—Subsec. (b)(1)(H). Pub. L. 103–272 substituted “subchapter II of chapter 471 of title 49; or sections” for “or sections 1622,”.
 
 #### Cross References
 

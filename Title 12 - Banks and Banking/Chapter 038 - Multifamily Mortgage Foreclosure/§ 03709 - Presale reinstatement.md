@@ -20,7 +20,7 @@ In any case in which a foreclosure commenced under this chapter is canceled, the
 
 #### (d) Subsequent foreclosures
 
-If the foreclosure commissioner cancels a foreclosure sale under this chapter a new foreclosuremay be subsequently commenced as provided in this chapter.
+If the foreclosure commissioner cancels a foreclosure sale under this chapter a new foreclosure may be subsequently commenced as provided in this chapter.
 
 (Pub. L. 97–35, title III, §369A, Aug. 13, 1981, 95 Stat. 427.)
 

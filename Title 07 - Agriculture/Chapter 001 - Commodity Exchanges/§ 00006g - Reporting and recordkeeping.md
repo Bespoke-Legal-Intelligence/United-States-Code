@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Every person registered hereunder as futures commission merchant, introducing broker, floor broker, or floor trader shall make such reports as are required by the Commission regarding the transactions and positions of such person, andthe transactions and positions of the customer thereof, in commodities for future delivery on any board of trade in the United States or elsewhere; shall keep books and records pertaining to such transactions and positions in such form and manner and for such period as may be required by the Commission; and shall keep such books and records open to inspection by any representative of the Commission or the United States Department of Justice.
+Every person registered hereunder as futures commission merchant, introducing broker, floorbroker, or floor trader shall make such reports as are required by the Commission regarding the transactions and positions of such person, and the transactions and positions of the customer thereof, in commodities for future delivery on any board of trade in the United States or elsewhere; shall keep books and records pertaining to such transactions and positions in such form and manner and for such period as may be required by the Commission; and shall keep such books and records open to inspection by any representative of the Commission or the United States Department of Justice.
 
 #### (b) Daily trading records: clearinghouses and contract markets
 

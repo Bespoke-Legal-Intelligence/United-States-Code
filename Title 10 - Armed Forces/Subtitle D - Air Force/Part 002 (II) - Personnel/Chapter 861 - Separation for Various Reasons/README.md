@@ -4,15 +4,13 @@
 | :--- | ---: |
 | \[8811 to 8816. Repealed.\] |  |
 | [8817\.](%C2%A7%2008817%20-%20Aviation%20cadets%20discharge.md) | Aviation cadets: discharge. |
-| \[8818. | Repealed.\] |
-| [8819\.](%C2%A7%2008819%20-%20Reserve%20officers%20discharge%20for%20failure%20of%20promotion%20to%20first%20lieutenant.md) | Reserve officers: discharge for failure of promotion to first lieutenant. |
-| [8820\.](%C2%A7%2008820%20-%20Air%20National%20Guard%20of%20United%20States%20officers%20discharge.md) | Air National Guard of United States officers: discharge. |
+| \[8818 to 8820. Repealed.\] |  |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
 
-1994—Pub. L. 103–337, div. A, title XVI, §1674(b)(7), Oct. 5, 1994, 108 Stat. 3016, struck out items 8819 “Reserve officers: discharge for failure of promotion to first lieutenant” and 8820 “Air National Guard of United States officers: discharge”. Section 1691(b)(1) of Pub. L. 103–337 provided that the repeal of sections 8819 and 8820 is effective Oct. 1, 1996.
+1994—Pub. L. 103–337, div. A, title XVI, §1674(b)(7), Oct. 5, 1994, 108 Stat. 3016, struck out items 8819 “Reserve officers: discharge for failure of promotion to first lieutenant” and 8820 “Air National Guard of United States officers: discharge”.
 
 1980—Pub. L. 96–513, title V, §504(16), Dec. 12, 1980, 94 Stat. 2917, struck out items 8814 “Regular commissioned officers: discharge during three-year probationary period” and 8818 “Regular female members: termination of appointment or enlistment”.
 
@@ -38,5 +36,4 @@ This chapter is referred to in section 113 of this title.
 - [&sect; 08815, 8816 - Repealed. Pub. L. 90&#8211;235, &sect;3(a)(2), (b)(1), Jan. 2, 1968, 81 Stat. 757, 758](%C2%A7%2008815%2C%208816%20-%20Repealed.%20Pub.%20L.%2090%E2%80%93235%2C%20%C2%A73%28a%29%282%29%2C%20%28b%29%281%29%2C%20Jan.%202%2C%201968%2C%2081%20Stat.%20757%2C%20758.md)
 - [&sect; 08817 - Aviation cadets discharge](%C2%A7%2008817%20-%20Aviation%20cadets%20discharge.md)
 - [&sect; 08818 - Repealed. Pub. L. 96&#8211;513, title II, &sect;236, Dec. 12, 1980, 94 Stat. 2887](%C2%A7%2008818%20-%20Repealed.%20Pub.%20L.%2096%E2%80%93513%2C%20title%20II%2C%20%C2%A7236%2C%20Dec.%2012%2C%201980%2C%2094%20Stat.%202887.md)
-- [&sect; 08819 - Reserve officers discharge for failure of promotion to first lieutenant](%C2%A7%2008819%20-%20Reserve%20officers%20discharge%20for%20failure%20of%20promotion%20to%20first%20lieutenant.md)
-- [&sect; 08820 - Air National Guard of United States officers discharge](%C2%A7%2008820%20-%20Air%20National%20Guard%20of%20United%20States%20officers%20discharge.md)
+- [&sect; 08819, 8820 - Repealed. Pub. L. 103&#8211;337, div. A, title XVI, &sect;1629(c)(2), Oct. 5, 1994, 108 Stat. 2963](%C2%A7%2008819%2C%208820%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93337%2C%20div.%20A%2C%20title%20XVI%2C%20%C2%A71629%28c%29%282%29%2C%20Oct.%205%2C%201994%2C%20108%20Stat.%202963.md)

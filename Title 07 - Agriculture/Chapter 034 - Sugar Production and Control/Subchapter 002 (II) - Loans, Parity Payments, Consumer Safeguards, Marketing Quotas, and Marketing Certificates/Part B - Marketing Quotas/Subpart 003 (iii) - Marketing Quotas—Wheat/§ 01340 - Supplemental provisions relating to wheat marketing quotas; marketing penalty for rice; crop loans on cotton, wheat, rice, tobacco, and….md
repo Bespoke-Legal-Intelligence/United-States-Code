@@ -6,13 +6,13 @@ Notwithstanding the other provisions of this chapter—
 
 &emsp;(2) Whenever farm marketing quotas are in effect with respect to any crop of wheat, the producers on a farm shall be subject to a penalty on the farm marketing excess of wheat at a rate per bushel equal to 65 per centum of the parity price per bushel of wheat as of May 1 of the calendar year in which the crop is harvested. Each producer having an interest in the crop of wheat on any farm for which a farm marketing excess of wheat is determined shall be jointly and severally liable for the entire amount of the penalty on the farm marketing excess.
 
-&emsp;(3) The farm marketing excess for wheat shall be regarded as available for marketing, and the penalty and the storage amount or amounts to be delivered to the Secretary of the commodity shall be computed upon twice the normal production of the excess acreage. Where, upon the application of the producer for an adjustment of penalty or of storage, it is shown to the satisfaction of the Secretary that the actual production of the excess acreage is less than twice the normal production thereof, the difference between the amount of the penalty or storage as computed upon the basis of twice the normal production and as computed upon the basis of actual production shall be returned to or allowed the producer. The Secretary shall issue regulations under which the farm marketing excess of the commodity for the farm may be stored or delivered to him. Upon failure to store or deliver to the Secretary the farm marketing excess within such time as may be determined under regulations prescribed by the Secretary, the penalty computed as aforesaid shall be paid by the producer. Any wheat delivered to the Secretary hereunder shall become the property of the United States and shall be disposed of by the Secretary for relief purposes in the United States or in foreign countries or in such other manner as he shall determine will divert it from the normal channels of trade and commerce.
+&emsp;(3) The farm marketing excess for wheat shall be regarded as available for marketing, and the penalty and the storage amount or amounts to be delivered to the Secretary of the commodity shall be computed upon twice the normal production of the excess acreage. Where, upon the application of the producer for an adjustment of penalty or of storage, it is shown to the satisfaction of the Secretary that the actual production of the excess acreage is less than twice the normal productionthereof, the difference between the amount of the penalty or storage as computed upon the basis of twice the normal production and as computed upon the basis of actual production shall be returned to or allowed the producer. The Secretary shall issue regulations under which the farm marketing excess of the commodity for the farm may be stored or delivered to him. Upon failure to store or deliver to the Secretary the farm marketing excess within such time as may be determined under regulations prescribed by the Secretary, the penalty computed as aforesaid shall be paid by the producer. Any wheat delivered to the Secretary hereunder shall become the property of the United States and shall be disposed of by the Secretary for relief purposes in the United States or in foreign countries or in such other manner as he shall determine will divert it from the normal channels of trade and commerce.
 
 &emsp;(4) Until the producers on any farm store, deliver to the Secretary, or pay the penalty on, the farm marketing excess of any crop of wheat, the entire crop of wheat produced on the farm and any subsequent crop of wheat subject to marketing quotas in which the producer has an interest shall be subject to a lien in favor of the United States for the amount of the penalty.
 
 &emsp;(5) The penalty upon wheat stored shall be paid by the producer at the time, and to the extent, of any depletion in the amount of the commodity so stored, except depletion resulting from some cause beyond the control of the producer.
 
-&emsp;(6) Whenever the planted acreage of the then current crop of wheat on any farm is less than the farm acreage allotment for such commodity, the total amount of the commodity from any previous crops required to be stored in order to postpone or avoid payment of penalty shall be reduced by that amount which is equal to the normal production of the number of acres by which the farm acreage allotmentexceeds the planted acreage. The provisions of section 1326(b) and (c) of this title shall be applicable also to wheat.
+&emsp;(6) Whenever the planted acreage of the then current crop of wheat on any farm is less than the farm acreage allotment for such commodity, the total amount of the commodity from any previous crops required to be stored in order to postpone or avoid payment of penalty shall be reduced by that amount which is equal to the normal production of the number of acres by which the farm acreage allotment exceeds the planted acreage. The provisions of section 1326(b) and (c) of this title shall be applicable also to wheat.
 
 &emsp;(7) Until the farm marketing excess of wheat is stored or delivered to the Secretary or the penalty thereon is paid, each bushel of the commodity produced on the farm which is sold by the producer to any person within the United States shall be subject to the penalty as specified in paragraph (2) of this section. Such penalty shall be paid by the buyer, who may deduct an amount equivalent to the penalty from the price paid to the producer. If the buyer fails to collect such penalty, such buyer and all persons entitled to share in the wheat marketed from the farm or the proceeds thereof shall be jointly and severally liable for such penalty.
 
@@ -46,7 +46,7 @@ Par. (9), which directed the Commodity Credit Corporation to make loans upon the
 
 1965—Par. (1). Pub. L. 89–321 substituted “projected farm yield” for “normal yield of wheat per acre established for the farm”.
 
-1962—Par. (1). Pub. L. 87–703, §319(1), substituted requirement that computation of the farm marketing excess initially be double the farm normal yield of wheat times the excess acres, such excess acres being reduced to the actual yield times the excess acres, upon proof by the producer of the actual yield, for provision that the farm marketing excess could not be more than the actual production of wheat on the farm less the normal production of the farm acreage allotment and provided that the acreage of wheat not disposed of by the prescribed date would be considered wheat acreage, with the wheat production thereon appraised for the purposes of determining the farm marketing quota and farm marketing excess, that wheat acreage disposed of prior to the disposal date would not be considered acreage and that the acreage of volunteer wheat not disposed of would be considered wheat acreage.
+1962—Par. (1). Pub. L. 87–703, §319(1), substituted requirement that computation of the farm marketing excess initially be double the farm normal yield of wheat times the excess acres, such excess acres being reduced to the actual yield times the excess acres, upon proofby the producer of the actual yield, for provision that the farm marketing excess could not be more than the actual production of wheat on the farm less the normal production of the farm acreage allotment and provided that the acreage of wheat not disposed of by the prescribed date would be considered wheat acreage, with the wheat production thereon appraised for the purposes of determining the farm marketing quota and farm marketing excess, that wheat acreage disposed of prior to the disposal date would not be considered acreage and that the acreage of volunteer wheat not disposed of would be considered wheat acreage.
 
 Par. (2). Pub. L. 87–703, §319(2), increased from 45 to 65 per centum the rate of penalty on farm marketing excess and provided for joint and several liability for such penalty.
 
@@ -92,27 +92,21 @@ Administration of program of Commodity Credit Corporation transferred to Secreta
 
 Functions of Corporations of Department of Agriculture, boards of directors and officers of such corporations; Advisory Board of Commodity Credit Corporation; and Farm Credit Administration or any agency, officer or entity of, under, or subject to supervision of said Administration excepted from functions of officers, agencies, and employees transferred to Secretary of Agriculture by 1953 Reorg. Plan No. 2, §1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
 
-#### Inapplicability to Crops of Wheat Planted for Harvest in Calendar Years 1991 Through 1995
+#### Inapplicability of Section
+
+Section inapplicable to crops of wheat planted for harvest in calendar years 1996 through 2002, see section 7301(c) of this title.
 
 Pub. L. 101–624, title III, §304, Nov. 28, 1990, 104 Stat. 3400, provided that: “The joint resolution entitled ‘A joint resolution relating to corn and wheat marketing quotas under the Agricultural Adjustment Act of 1938, as amended’, approved May 26, 1941 (7 U.S.C. 1330 and 1340) shall not be applicable to the crops of wheat planted for harvest in the calendar years 1991 through 1995.”
 
-#### Inapplicability to Crops of Wheat Planted for Harvest in Calendar Years 1986 Through 1990
-
 Pub. L. 99–198, title III, §311, Dec. 23, 1985, 99 Stat. 1395, provided that: “The joint resolution entitled ‘A joint resolution relating to corn and wheat marketing quotas under the Agricultural Adjustment Act of 1938, as amended’, approved May 26, 1941 (7 U.S.C. 1330 and 1340), shall not be applicable to the crops of wheat planted for harvest in the calendar years 1986 through 1990.”
-
-#### Inapplicability to Crops of Wheat Planted for Harvest in Calendar Years 1982 Through 1985
 
 Pub. L. 97–98, title III, §304, Dec. 22, 1981, 95 Stat. 1227, provided that: “Public Law 74, Seventy-seventh Congress (55 Stat. 203, as amended) \[this section\] shall not be applicable to the crops of wheat planted for harvest in the calendar years 1982 through 1985.”
 
-#### Inapplicability to Crops of Wheat Planted for Harvest in Calendar Years 1978 Through 1981
-
 Pub. L. 95–113, title IV, §406, Sept. 29, 1977, 91 Stat. 927, provided that: “Public Law 74, Seventy-seventh Congress (55 Stat. 203, as amended) \[this section\] shall not be applicable to the crops of wheat planted for harvest in the calendar years 1978 through 1981.”
-
-#### Inapplicability to Crops of Wheat Planted for Harvest in Calendar Years 1971 Through 1977
 
 Pub. L. 91–524, title IV, §406, Nov. 30, 1970, 84 Stat. 1367, as amended by Pub. L. 93–86, §1(13), Aug. 10, 1973, 87 Stat. 229, provided that: “Public Law 74, Seventy-seventh Congress (68 Stat. 905) \[this section\], shall not be applicable to the crops of wheat planted for harvest in the calendar years 1971 through 1977.”
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1334, 1335 of this title; title 16 section 590p.
+This section is referred to in sections 1334, 1335, 7301 of this title; title 16 section 590p.
 

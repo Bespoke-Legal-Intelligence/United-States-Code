@@ -6,7 +6,7 @@ The purposes of this Act are—
 
 &emsp;(2) to retain wherever feasible as housing affordable to low-income families those dwelling units produced for such purpose with Federal assistance;
 
-&emsp;(3) to extend and strengthen partnerships among all levels of government and the private sector, including for-profit and nonprofitorganizations, in the production and operation of housing affordable to low-income and moderate-income families;
+&emsp;(3) to extend and strengthen partnerships among all levels of government and the private sector, including for-profit and nonprofit organizations, in the production and operation of housing affordable to low-income and moderate-income families;
 
 &emsp;(4) to expand and improve Federal rental assistance for very low-income families; and
 

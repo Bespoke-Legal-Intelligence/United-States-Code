@@ -2,7 +2,7 @@
 
 For the purposes of this chapter:
 
-&emsp;(1) The term “Federal fishery management plan” means a plan developed under the Magnuson Fishery Conservation and Management Act (16 U.S.C. 1801 et seq.).
+&emsp;(1) The term “Federal fishery management plan” means a plan developed under the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1801 et seq.).
 
 &emsp;(2) The term “fishery resource” means finfish, mollusks, crustaceans, and any other form of marine animal or plant life, other than marine mammals and birds.
 
@@ -30,11 +30,19 @@ For the purposes of this chapter:
 
 &emsp;(10) The term “State agency” means any department, agency, commission, or official of a State authorized under the laws of the State to regulate commercial fisheries or enforce laws relating to commercial fisheries.
 
-(Pub. L. 99–659, title III, §303, Nov. 14, 1986, 100 Stat. 3732.)
+(Pub. L. 99–659, title III, §303, Nov. 14, 1986, 100 Stat. 3732; Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41.)
 
 #### References in Text
 
-The Magnuson Fishery Conservation and Management Act, referred to in par. (1), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, which is classified principally to chapter 38 (§1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
+The Magnuson-Stevens Fishery Conservation and Management Act, referred to in par. (1), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, which is classified principally to chapter 38 (§1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
 Proclamation Numbered 5030, referred to in par. (3)(A), is set out under section 1453 of this title.
+
+#### Amendments
+
+1996—Par. (1). Pub. L. 104–208 substituted “Magnuson-Stevens Fishery” for “Magnuson Fishery”.
+
+#### Effective Date of 1996 Amendment
+
+Section 101(a) \[title II, §211(b)\] of div. A of Pub. L. 104–208 provided that the amendment made by that section is effective 15 days after Oct. 11, 1996.
 

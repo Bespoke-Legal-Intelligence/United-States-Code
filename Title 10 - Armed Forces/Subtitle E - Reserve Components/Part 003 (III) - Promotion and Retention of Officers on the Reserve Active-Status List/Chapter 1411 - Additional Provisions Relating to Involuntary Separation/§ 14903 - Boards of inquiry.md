@@ -6,7 +6,7 @@ Convening of Boards.—The Secretary of the military department concerned shall 
 
 (b)
 
-Right to Fair Hearing.—A board of inquiry shall give a fair and impartial hearing to each officer required under section 14902 of this chapter to show cause for retention in an active status.
+Right to Fair Hearing.—A board of inquiry shall give a fair and impartial hearing to each officer required under section 14902 of this title to show cause for retention in an active status.
 
 (c)
 
@@ -30,11 +30,15 @@ Action in Cases Where Cause for Retention Is Established.—(1) If a board of in
 
 (B) An officer who has been required to show cause for retention under section 14902(b) of this title and who is thereafter retained in an active status may not again be required to show cause for retention under such section solely because of conduct which was the subject of the previous proceeding, unless the recommendations of the board of inquiry that considered the officer's case are determined to have been obtained by fraud or collusion.
 
-(Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2958.)
+(Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2958; amended Pub. L. 104–106, div. A, title XV, §1501(b)(32), Feb. 10, 1996, 110 Stat. 498.)
 
-#### Effective Date of Section
+#### Amendments
 
-<i>Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under section 10001 of this title.</i>
+1996—Subsec. (b). Pub. L. 104–106 substituted “title” for “chapter”.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–106 effective as if included in the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as enacted on Oct. 5, 1994, see section 1501(f)(3) of Pub. L. 104–106, set out as a note under section 113 of this title.
 
 #### Section Referred to in Other Sections
 

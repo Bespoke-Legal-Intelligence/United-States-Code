@@ -2,7 +2,7 @@
 
 (a) The right of any person to any future payment under this subchapter shall not be transferable or assignable, at law or in equity, and none of the moneys paid or payable or rights existing under this subchapter shall be subject to execution, levy, attachment, garnishment, or other legal process, or to the operation of any bankruptcy or insolvency law.
 
-(b) No other provision of law, enacted before, on, or after April 20, 1983, may be construed to limit, supersede, or otherwise modify the provisions of this section except to the extent that it does so by express reference to this section.
+(b) No other provision of law, enacted before, on, or after April 20, 1983, may be construed tolimit, supersede, or otherwise modify the provisions of this section except to the extent that it does so by express reference to this section.
 
 (Aug. 14, 1935, ch. 531, title II, §207, 49 Stat. 624; Aug. 10, 1939, ch. 666, title II, §201, 53 Stat. 1362, 1372; Apr. 20, 1983, Pub. L. 98–21, title III, §335(a), 97 Stat. 130.)
 
@@ -38,5 +38,5 @@ Enforcement of legal obligations to provide child support and make alimony payme
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 659, 1320a–8, 1383 of this title; title 26 sections 86, 871, 6334; title 30 section 923.
+This section is referred to in sections 659, 1320a–8, 1383 of this title; title 18 section 3613; title 26 sections 86, 871, 6334; title 30 section 923; title 31 section 3716.
 

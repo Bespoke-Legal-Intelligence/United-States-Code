@@ -18,7 +18,7 @@ Services and Facilities of Other Entities.—For purposes of this subchapter, an
 
 (c)
 
-Expenses of Committee Members.—Members of a negotiated rulemaking committee shall be responsible for their own expenses of participation in such committee, except that an agency may, in accordance with section 7(d) of the Federal Advisory Committee Act, pay for a member's reasonable travel and per diem expenses, expenses to obtain technical assistance, and a reasonable rate of compensation, if—
+Expenses of Committee Members.—Members of a negotiated rulemaking committeeshall be responsible for their own expenses of participation in such committee, except that an agency may, in accordance with section 7(d) of the Federal Advisory Committee Act, pay for a member's reasonable travel and per diem expenses, expenses to obtain technical assistance, and a reasonable rate of compensation, if—
 
 &emsp;(1) such member certifies a lack of adequate financial resources to participate in the committee; and
 
@@ -30,21 +30,13 @@ Status of Member as Federal Employee.—A member's receipt of funds under this s
 
 (Added Pub. L. 101–648, §3(a), Nov. 29, 1990, 104 Stat. 4974, §588; renumbered §568 and amended Pub. L. 102–354, §3(a)(2), (4), Aug. 26, 1992, 106 Stat. 944.)
 
-#### Repeal of Section
-
-<i>Section repealed effective six years after Nov. 29, 1990, see section 5 of Pub. L. 101–648, as amended, set out as an Effective Date of Repeal; Savings Provision note under section 561 of this title.</i>
-
 #### References in Text
 
 Section 7(d) of the Federal Advisory Committee Act, referred to in subsec. (c), is section 7(d) of Pub. L. 92–463, which is set out in the Appendix to this title.
 
 #### Amendments
 
-<b>1992</b>—Pub. L. 102–354, §3(a)(2), renumbered section 588 of this title as this section.
+1992—Pub. L. 102–354, §3(a)(2), renumbered section 588 of this title as this section.
 
 Subsec. (d). Pub. L. 102–354, §3(a)(4), substituted “section 569” for “section 589”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 569 of this title.
 

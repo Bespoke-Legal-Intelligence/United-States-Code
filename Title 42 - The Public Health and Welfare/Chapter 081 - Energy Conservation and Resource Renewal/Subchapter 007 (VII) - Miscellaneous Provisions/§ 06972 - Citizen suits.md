@@ -84,7 +84,7 @@ Nothing in this section shall restrict any right which any person (or class of p
 
 #### (g) Transporters
 
-A transporter shall not be deemed to have contributed or to be contributing to the handling, storage, treatment, or disposal, referred to in subsection (a)(1)(B) of this section taking place after such solid waste or hazardous waste has left the possession or control of such transporter, if the transportation of such waste was under a sole contractual arrangement arisingfrom a published tariff and acceptance for carriage by common carrier by rail and such transporter has exercised due care in the past or present handling, storage, treatment, transportation and disposal of such waste.
+A transporter shall not be deemed to have contributed or to be contributing to the handling, storage, treatment, or disposal, referred to in subsection (a)(1)(B) of this section taking place after such solid waste or hazardous waste has left the possession or control of such transporter, if the transportation of such waste was under a sole contractual arrangement arising from a published tariff and acceptance for carriage by common carrier by rail and such transporter has exercised due care in the past or present handling, storage, treatment, transportation and disposal of such waste.
 
 (Pub. L. 89–272, title II, §7002, as added Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2825; amended Pub. L. 95–609, §7(p), Nov. 8, 1978, 92 Stat. 3083; Pub. L. 98–616, title IV, §401, Nov. 8, 1984, 98 Stat. 3268.)
 
@@ -102,7 +102,7 @@ Subsec. (b). Pub. L. 98–616, §401(d), amended subsec. (b) generally. Prior to
 
 &emsp;“(1) prior to sixty days after the plaintiff has given notice of the violation (A) to the Administrator; (B) to the State in which the alleged violation occurs; and (C) to any alleged violator of such permit, standard, regulation, condition, requirement, or order; or
 
-&emsp;“(2) if the Administrator or State has commenced and is diligently prosecuting a civil or criminal action in a court of the United States or a State to require compliance with such permit, standard, regulation, condition, requirement, or order: <i>Provided, however,</i> That in any such action in a court of the United States, any person may intervene as a matter of right.”
+&emsp;“(2) if the Administrator or State has commenced and is diligently prosecuting a civil or criminal action in a court of the United States or a State to require compliance with such permit, standard, regulation, condition, requirement, or order: <i>Provided, however</i>, That in any such action in a court of the United States, any person may intervene as a matter of right.”
 
 Subsec. (e). Pub. L. 98–616, §401(e), substituted “to the prevailing or substantially prevailing party” for “to any party” and inserted “or section 6976 of this title”.
 

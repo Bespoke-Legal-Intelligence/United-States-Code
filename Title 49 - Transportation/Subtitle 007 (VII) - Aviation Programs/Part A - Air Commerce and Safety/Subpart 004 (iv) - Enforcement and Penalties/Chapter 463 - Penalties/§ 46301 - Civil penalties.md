@@ -4,7 +4,7 @@
 
 General Penalty.—(1) A person is liable to the United States Government for a civil penalty of not more than $1,000 for violating—
 
-&emsp;(A) chapter 401 (except sections 40103(a) and (d), 40105, 40116, and 40117), chapter 411, any of sections 41301–41306, 41308–41310(a), 41501, 41503, 41504, 41506, 41510, 41511, 41701, 41702, 41705–41709, 41711, 41712, or 41731–41742, chapter 419, subchapter II of chapter 421, chapter 441 (except section 44109), or any of sections 44701(a) or (b), 44702–44716, 44901, 44903(b) or (c), 44905, 44906, 44907(d)(1)(B), 44909(a), 44912–44915, 44932–44938, 46302, 46303, 47107(b) (including any assurance made under such section), or 41715 of this title;
+&emsp;(A) chapter 401 (except sections 40103(a) and (d), 40105, 40116, and 40117), chapter 411, chapter413 (except sections 41307 and 41310(b)–(f)), chapter 415 (except sections 41502, 41505, and 41507–41509), chapter 417 (except sections 41703, 41704, 41710, 41713, and 41714), chapter 419, subchapter II of chapter 421, chapter 441 (except section 44109), section 44502(b) or (c), chapter 447 (except sections 44717 and 44719–44723), chapter 449 (except sections 44902, 44903(d), 44904, 44907(a)–(d)(1)(A) and (d)(1)(C)–(f), and 44908), or section 46302, 46303, or 47107(b) (including any assurance made under such section) of this title;
 
 &emsp;(B) a regulation prescribed or order issued under any provision to which clause (A) of this paragraph applies;
 
@@ -14,7 +14,7 @@ General Penalty.—(1) A person is liable to the United States Government for a 
 
 (2) A person operating an aircraft for the transportation of passengers or property for compensation (except an airman serving as an airman) is liable to the Government for a civil penalty of not more than $10,000 for violating—
 
-&emsp;(A) chapter 401 (except sections 40103(a) and (d), 40105, 40106(b), 40116, and 40117) or any of sections 44701(a) or (b), 44702–44716, 44901, 44903(b) or (c), 44905, 44906, 44912–44915, or 44932–44938 of this title; or
+&emsp;(A) chapter 401 (except sections 40103(a) and (d), 40105, 40106(b), 40116, and 40117), section 44502(b) or (c), chapter 447 (except sections 44717–44723), or chapter 449 (except sections 44902, 44903(d), 44904, and 44907–44909) of this title; or
 
 &emsp;(B) a regulation prescribed or order issued under any provision to which clause (A) of this paragraph applies.
 
@@ -26,7 +26,9 @@ General Penalty.—(1) A person is liable to the United States Government for a 
 
 (4) A separate violation occurs under this subsection for each day the violation (other than a violation of section 41715) continues or, if applicable, for each flight involving the violation (other than a violation of section 41715).
 
-(5) In the case of a violation of section 47107(b) of this title, the maximum civil penalty for a continuing violation shall not exceed $50,000.
+(5)
+
+Penalty for diversion of aviation revenues.—The amount of a civil penalty assessed under this section for a violation of section 47107(b) of this title (or any assurance made under such section) or section 47133 of this title may be increased above the otherwise applicable maximum amount under this section to an amount not to exceed 3 times the amount of revenues that are used in violation of such section.
 
 (6) Notwithstanding paragraph (1), the maximum civil penalty for violating section 41715 shall be $5,000 instead of $1,000.
 
@@ -40,7 +42,7 @@ Smoke Alarm Device Penalty.—(1) A passenger may not tamper with, disable, or d
 
 Procedural Requirements.—(1) The Secretary of Transportation may impose a civil penalty for the following violations only after notice and an opportunity for a hearing:
 
-&emsp;(A) a violation of subsection (b) of this section or chapter 411, any of sections 41301–41306, 41308–41310(a), 41501, 41503, 41504, 41506, 41510, 41511, 41701, 41702, 41705–41709, 41711, 41712, or 41731–41742, chapter 419, or subchapter II of chapter 421 of this title.
+&emsp;(A) a violation of subsection (b) of this section or chapter 411, chapter 413 (except sections 41307 and 41310(b)–(f)), chapter 415 (except sections 41502, 41505, and 41507–41509), chapter 417 (except sections 41703, 41704, 41710, 41713, and 41714), chapter 419, subchapter II of chapter 421, or section 44909 of this title.
 
 &emsp;(B) a violation of a regulation prescribed or order issued under any provision to which clause (A) of this paragraph applies.
 
@@ -62,7 +64,7 @@ Administrative Imposition of Penalties.—(1) In this subsection—
 
 &emsp;(D) “repairman” means an individual who holds a repairman certificate issued under part 65 of title 14, Code of Federal Regulations.
 
-(2) The Administrator of the Federal Aviation Administration may impose a civil penalty for a violation of chapter 401 (except sections 40103(a) and (d), 40105, 40106(b), 40116, and 40117), chapter 441 (except section 44109), or any of sections 44701(a) or (b), 44702–44716, 44901, 44903(b) or (c), 44905, 44906, 44907(d)(1)(B), 44912–44915, 44932–44938, 46302, 46303, or 47107(b) (as further defined by the Secretary under section 47107(<i>l</i>) and including any assurance made under section 47107(b)) of this title or a regulation prescribed or order issued under any of those provisions. The Administrator shall give written notice of the finding of a violation and the penalty.
+(2) The Administrator of the Federal Aviation Administration may impose a civil penalty for a violation of chapter 401 (except sections 40103(a) and (d), 40105, 40106(b), 40116, and 40117), chapter 441 (except section 44109), section 44502(b) or (c), chapter 447 (except sections 44717 and 44719–44723), chapter 449 (except sections 44902, 44903(d), 44904, 44907(a)–(d)(1)(A) and (d)(1)(C)–(f), 44908, and 44909), or section 46302, 46303, or 47107(b) (as further defined by the Secretary under section 47107(<i>l</i>) and including any assurance made under section 47107(b)) of this title or a regulation prescribed or order issued under any of those provisions. The Administrator shall give written notice of the finding of a violation and the penalty.
 
 (3) In a civil action to collect a civil penalty imposed by the Administrator under this subsection, the issues of liability and the amount of the penalty may not be reexamined.
 
@@ -76,7 +78,7 @@ Administrative Imposition of Penalties.—(1) In this subsection—
 
 &emsp;(D) another action has been brought for an injunction based on the same violation.
 
-(5)(A) The Administrator may issue an order imposing a penalty under this subsection against an individual acting as a pilot, flight engineer, mechanic, or repairman only after advising the individual of the charges or any reason the Administrator relied on for the proposed penalty and providing the individual an opportunity to answer the charges and be heard about why the order shall not be issued.
+(5)(A) The Administrator may issue an order imposing a penalty under this subsectionagainst an individual acting as a pilot, flight engineer, mechanic, or repairman only after advising the individual of the charges or any reason the Administrator relied on for the proposed penalty and providing the individual an opportunity to answer the charges and be heard about why the order shall not be issued.
 
 (B) An individual acting as a pilot, flight engineer, mechanic, or repairman may appeal an order imposing a penalty under this subsection to the National Transportation Safety Board. After notice and an opportunity for a hearing on the record, the Board shall affirm, modify, or reverse the order. The Board may modify a civil penalty imposed to a suspension or revocation of a certificate.
 
@@ -124,7 +126,7 @@ Penalty Considerations.—In determining the amount of a civil penalty under sub
 
 Compromise and Setoff.—(1)(A) The Secretary may compromise the amount of a civil penalty imposed for violating—
 
-&emsp;(i) chapter 401 (except sections 40103(a) and (d), 40105, 40116, and 40117), chapter 441 (except section 44109), or any of sections 44701(a) or (b), 44702–44716, 44901, 44903(b) or (c), 44905, 44906, 44907(d)(1)(B), 44912–44915, or 44932–44938 of this title; or
+&emsp;(i) chapter 401 (except sections 40103(a) and (d), 40105, 40116, and 40117), chapter 441 (except section 44109), section 44502(b) or (c), chapter 447 (except sections 44717 and 44719–44723), or chapter 449 (except sections 44902, 44903(d), 44904, 44907(a)–(d)(1)(A) and (d)(1)(C)–(f), 44908, and 44909) of this title; or
 
 &emsp;(ii) a regulation prescribed or order issued under any provision to which clause (i) of this subparagraph applies.
 
@@ -146,13 +148,15 @@ Nonapplication.—(1) This section does not apply to the following when performi
 
 (2) The appropriate military authority is responsible for taking necessary disciplinary action and submitting to the Secretary (or the Administrator with respect to aviation safety duties and powers designated to be carried out by the Administrator) a timely report on action taken.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1231; Pub. L. 103–305, title I, §112(c), title II, §207(c), Aug. 23, 1994, 108 Stat. 1575, 1588; Pub. L. 103–429, §6(60), Oct. 31, 1994, 108 Stat. 4385.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1231; Pub. L. 103–305, title I, §112(c), title II, §207(c), Aug. 23, 1994, 108 Stat. 1575, 1588; Pub. L. 103–429, §6(60), Oct. 31, 1994, 108 Stat. 4385; Pub. L. 104–264, title V, §502(c), title VIII, §804(b), title XII, §1220(b), Oct. 9, 1996, 110 Stat. 3263, 3271, 3286; Pub. L. 104–287, §5(77), Oct. 11, 1996, 110 Stat. 3396.)
 
 Historical and Revision Notes
 
 Pub. L. 103–272
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -174,7 +178,7 @@ Aug. 23, 1958, Pub. L. 85–726, §505 (last sentence), 72 Stat. 774.
 
 49 App.:1471(a)(1) (1st, 2d sentences less subchapter VII).
 
-Aug. 23, 1958, Pub. L. 85–726, §901(a)(1) (less title VII), 72 Stat. 783; restated July 10, 1962, Pub. L. 87–528, §12, 76 Stat. 149; Aug. 5, 1974, Pub. L. 93–366, §107, 88 Stat. 414; Jan. 3, 1975, Pub. L. 93–633, §113(b), 88 Stat. 2162; Oct. 24, 1978, Pub. L. 95–504, §35(a), 92 Stat. 1740; Aug. 8, 1985, Pub. L. 99–83, §551(b)(2), 99 Stat. 225; Dec. 30, 1987, Pub. L. 100–223, §204(a)–(c), 101 Stat. 1519; Nov. 18, 1988, Pub. L. 100–690, §7208(a), 102 Stat. 4429.
+Aug. 23, 1958, Pub. L. 85–726, §901(a)(1) (less title VII), 72 Stat. 783; restated July 10, 1962, Pub. L. 87–528, §12, 76 Stat. 149; Aug. 5, 1974, Pub. L. 93–366, §107, 88 Stat. 414; Jan. 3, 1975, Pub. L. 93–633, §113(b), 88 Stat. 2162; Oct. 24, 1978, Pub. L. 95–504, §35(a), 92 Stat. 1740; Aug. 8, 1985, Pub. L. 99–83, §551(b)(2), 99 Stat. 225; Dec. 30, 1987, Pub. L. 100–223, §204(a)– (c), 101 Stat. 1519; Nov. 18, 1988, Pub. L. 100–690, §7208(a), 102 Stat. 4429.
 
 &nbsp;
 
@@ -194,13 +198,13 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §404(d)(2); added Dec. 22, 1987,
 
 &nbsp;
 
-49 App.:1551(b) (1)(E).
+49 App.:1551(b)(1)(E).
 
 Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1601(b)(1)(E); added Oct. 4, 1984, Pub. L. 98–443, §3(e), 98 Stat. 1704.
 
 46301(d)(1)
 
-49 App.:1471(a) (3)(H).
+49 App.:1471(a)(3)(H).
 
 Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §901(a)(3) (less (D)(v) (related to Administrator under title VII)); added Nov. 18, 1988, Pub. L. 100–690, §7208(b), 102 Stat. 4429; restated Aug. 26, 1992, Pub. L. 102–345, §2(a), 106 Stat. 923; Oct. 31, 1992, Pub. L. 102–581, §208, 106 Stat. 4895.
 
@@ -212,15 +216,15 @@ Nov. 18, 1988, Pub. L. 100–690, §7214, 102 Stat. 4434.
 
 &nbsp;
 
-49 App.:1471(a) (3)(A).
+49 App.:1471(a)(3)(A).
 
 46301(d)(3)
 
-49 App.:1471(a) (3)(B).
+49 App.:1471(a)(3)(B).
 
 46301(d)(4)
 
-49 App.:1471(a) (3)(C).
+49 App.:1471(a)(3)(C).
 
 46301(d)(5)
 
@@ -232,15 +236,15 @@ Nov. 18, 1988, Pub. L. 100–690, §7214, 102 Stat. 4434.
 
 46301(d)(7)
 
-49 App.:1471(a) (3)(E).
+49 App.:1471(a)(3)(E).
 
 46301(d)(8)
 
-49 App.:1471(a) (3)(G).
+49 App.:1471(a)(3)(G).
 
 46301(d)(9)
 
-49 App.:1471(a) (3)(F).
+49 App.:1471(a)(3)(F).
 
 46301(e)
 
@@ -254,7 +258,7 @@ Aug. 23, 1958, Pub. L. 85–726, §901(a)(2) (related to title III, V, VI, or XI
 
 &nbsp;
 
-49 App.:1551(b) (1)(E).
+49 App.:1551(b)(1)(E).
 
 46301(g)
 
@@ -262,7 +266,7 @@ Aug. 23, 1958, Pub. L. 85–726, §901(a)(2) (related to title III, V, VI, or XI
 
 &nbsp;
 
-49 App.:1551(b) (1)(E).
+49 App.:1551(b)(1)(E).
 
 46301(h)
 
@@ -270,7 +274,7 @@ Aug. 23, 1958, Pub. L. 85–726, §901(a)(2) (related to title III, V, VI, or XI
 
 &nbsp;
 
-49 App.:1551(b) (1)(E).
+49 App.:1551(b)(1)(E).
 
 In this section, the word “prescribed” is added for consistency in the revised title and with other titles of the United States Code. The words “United States Postal Service” and “Postal Service” are substituted for “Postmaster General” because of section 4(a) of the Postal Reorganization Act (Public Law 91–375, 84 Stat. 773).
 
@@ -312,7 +316,53 @@ In subsection (h)(2), the words “with respect thereto” are omitted as surplu
 
 This amends 49:46301(a)(1)(A) and (2)(A), (c)(1)(A), (d)(2), and (f)(1)(A)(i) to correct erroneous cross-references.
 
+#### Pub. L. 104–287, §5(77)(A) and (B)
+
+These amend 49:46301(a)(1)(A) and (2)(A) to correct errors in the codification enacted by section 1 of the Act of July 5, 1994 (Public Law 103–272, 108 Stat. 1231), to include in the cross-reference sections enacted after the cutoff date for the codification of title 49 as enacted by section 1 of the Act (Public Law 103–272, 108 Stat. 745), and to make it easier to include future sections in the cross-reference by restating it in terms of chapters.
+
+#### Pub. L. 104–287, §5(77)(C)
+
+This makes a conforming amendment to 49:46301(a)(3).
+
+#### Pub. L. 104–287, §5(77)(D)–(F)
+
+These amend 49:46301(c)(1)(A), (d)(2), and (f)(1)(A)(i) to correct errors in the codification enacted by section 1 of the Act of July 5, 1994 (Public Law 103–272, 108 Stat. 1231), to include in the cross-reference sections enactedafter the cutoff date for the codification of title 49 as enacted by section 1 of the Act (Public Law 103–272, 108 Stat. 745), and to make it easier to include future sections in the cross-reference by restating it in terms of chapters.
+
 #### Amendments
+
+1996—Subsec. (a)(1)(A). Pub. L. 104–287, §5(77)(A)(iii), (iv), inserted “or” after “46303,” and struck out “, or 41715” after “under such section)”.
+
+Pub. L. 104–287, §5(77)(A)(ii), substituted “section 44502(b) or (c), chapter 447 (except sections 44717 and 44719–44723), chapter 449 (except sections 44902, 44903(d), 44904, 44907(a)–(d)(1)(A) and (d)(1)(C)–(f), and 44908), or section” for “or any of sections 44701(a) or (b), 44702–44716, 44901, 44903(b) or (c), 44905, 44906, 44907(d)(1)(B), 44909(a), 44912–44915, 44932–44938,”.
+
+Pub. L. 104–287, §5(77)(A)(i), substituted “chapter 413 (except sections 41307 and 41310(b)–(f)), chapter 415 (except sections 41502, 41505, and 41507–41509), chapter 417 (except sections 41703, 41704, 41710, 41713, and 41714),” for “any of sections 41301–41306, 41308–41310(a), 41501, 41503, 41504, 41506, 41510, 41511, 41701, 41702, 41705–41709, 41711, 41712, or 41731–41742,”.
+
+Pub. L. 104–264, §1220(b), which directed amendment of subpar. (A) by inserting “44718(d),” after “44716,”, could not be executed because “44716,” did not appear subsequent to execution of amendment by Pub. L. 104–287, §5(77)(A)(ii). See above.
+
+Pub. L. 104–264, §502(c)(1), which directed amendment of subpar. (A) by inserting “44724,” after “44718(d),”, could not be executed because “44718(d),” did not appear.
+
+Subsec. (a)(2)(A). Pub. L. 104–287, §5(77)(B), substituted “, section 44502(b) or (c), chapter 447 (except sections 44717–44723), or chapter 449 (except sections 44902, 44903(d), 44904, and 44907–44909)” for “or any of sections 44701(a) or (b), 44702–44716, 44901, 44903(b) or (c), 44905, 44906, 44912–44915, or 44932–44938”.
+
+Pub. L. 104–264, §502(c)(2), which directed amendment of subpar. (A) by inserting “44724,” after “44716,”, could not be executed because “44716,” did not appear subsequent to execution of amendment by Pub. L. 104–287, §5(77)(B). See above.
+
+Subsec. (a)(3). Pub. L. 104–287, §5(77)(C), realigned margins of subpars. (A) and (B).
+
+Subsec. (a)(5). Pub. L. 104–264, §804(b), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “In the case of a violation of section 47107(b) of this title, the maximum civil penalty for a continuing violation shall not exceed $50,000.”
+
+Subsec. (c)(1)(A). Pub. L. 104–287, §5(77)(D)(ii), (iii), struck out “or” before “subchapter II” and inserted “, or section 44909” before “of this title”.
+
+Pub. L. 104–287, §5(77)(D)(i), substituted “chapter 413 (except sections 41307 and 41310(b)–(f)), chapter 415 (except sections 41502, 41505, and 41507–41509), chapter 417 (except sections 41703, 41704, 41710, 41713, and 41714),” for “any of sections 41301–41306, 41308–41310(a), 41501, 41503, 41504, 41506, 41510, 41511, 41701, 41702, 41705–41709, 41711, 41712, or 41731–41742,”.
+
+Subsec. (d)(2). Pub. L. 104–287, §5(77)(E), substituted “section 44502(b) or (c), chapter 447 (except sections 44717 and 44719–44723), chapter 449 (except sections 44902, 44903(d), 44904, 44907(a)–(d)(1)(A) and (d)(1)(C)–(f), 44908, and 44909), or section” for “or any of sections 44701(a) or (b), 44702–44716, 44901, 44903(b) or (c), 44905, 44906, 44907(d)(1)(B), 44912–44915, 44932–44938,”.
+
+Pub. L. 104–264, §1220(b), which directed amendment of par. (2) by inserting “44718(d),” after “44716,”, could not be executed because “44716,” did not appear subsequent to execution of amendment by Pub. L. 104–287, §5(77)(E). See above.
+
+Pub. L. 104–264, §502(c)(1), which directed amendment of par. (2) by inserting “44724,” after “44718(d),”, could not be executed because “44718(d),” did not appear.
+
+Subsec. (f)(1)(A)(i). Pub. L. 104–287, §5(77)(F), substituted “section 44502(b) or (c), chapter 447 (except sections 44717 and 44719–44723), or chapter 449 (except sections 44902, 44903(d), 44904, 44907(a)–(d)(1)(A) and (d)(1)(C)–(f), 44908, and 44909)” for “or any of sections 44701(a) or (b), 44702–44716, 44901, 44903(b) or (c), 44905, 44906, 44907(d)(1)(B), 44912–44915, or 44932–44938”.
+
+Pub. L. 104–264, §1220(b), which directed amendment of cl. (i) by inserting “44718(d),” after “44716,”, could not be executed because “44716,” did not appear subsequent to execution of amendment by Pub. L. 104–287, §5(77)(F). See above.
+
+Pub. L. 104–264, §502(c)(1), which directed amendment of cl. (i) by inserting “44724,” after “44718(d),”, could not be executed because “44718(d),” did not appear.
 
 1994—Subsec. (a)(1)(A). Pub. L. 103–429, §6(60)(A), substituted “any of sections 41301–41306” for “section 41301–41306” and “any of sections 44701(a)” for “section 44701(a)”.
 
@@ -337,6 +387,14 @@ Pub. L. 103–305, §112(c)(2), substituted “46303, or 47107(b) (as further de
 Subsec. (d)(7)(D). Pub. L. 103–305, §112(c)(3), added subpar. (D).
 
 Subsec. (f)(1)(A)(i). Pub. L. 103–429, §6(60)(B), substituted “any of sections 44701(a)” for “section 44701(a)”.
+
+#### Effective Date of 1996 Amendments
+
+Amendment by Pub. L. 104–287 effective July 5, 1994, see section 8(1) of Pub. L. 104–287, set out as a note under section 5303 of this title.
+
+Amendment by section 502(c) of Pub. L. 104–264 applicable to any air carrier hiring an individual as a pilot whose application was first received by the carrier on or after the 120th day following Oct. 9, 1996, see section 502(d) of Pub. L. 104–264, set out as a note under section 30305 of this title.
+
+Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
 
 #### Effective Date of 1994 Amendments
 

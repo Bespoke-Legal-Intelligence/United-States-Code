@@ -42,5 +42,5 @@ Provisions respecting responsibility for reserve affairs as not affecting functi
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 37 section 204.
+This section is referred to in section 641 of this title; title 37 section 204.
 

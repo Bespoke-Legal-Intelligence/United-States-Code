@@ -26,7 +26,7 @@ Pub. L. 94–2, Feb. 18, 1975, 89 Stat. 4, provided in part that the compensatio
 
 #### H.Doc. No. 101–21, Cong. Rec., vol. 135, pt. 1, p. 251, Jan. 19, 1989
 
-<i>Dear Mr. Speaker: (Dear Mr. President:) </i><i><sup>1</sup></i>
+<i>Dear Mr. Speaker: (Dear Mr. President:)</i> <sup>1</sup>
 
 As required by section 225 of the Federal Salary Act of 1967, Public Law 90–206 (2 U.S.C. 351 <i>et seq</i>.), the latest Quadrennial Commission on Executive, Legislative, and Judicial Salaries (“Commission”) has submitted to me recommendations on salaries for Senators, Representatives, Federal judges, Cabinet officers, and other agency heads, and certain other officials in the executive, legislative, and judicial branches.
 
@@ -152,7 +152,7 @@ Pub. L. 101–1, Feb. 7, 1989, 102 Stat. 3, provided: “That the Congress disap
 
 #### 52 F.R. 4125; 101 Stat. 1967
 
-> <i>Dear Mr. Speaker: (Dear Mr. President:) </i><i><sup>1</sup></i>
+> <i>Dear Mr. Speaker: (Dear Mr. President:)</i> <sup>1</sup>
 
 As required by Section 225 of the Federal Salary Act of 1967, Public Law 90–206, (2 U.S.C. 351 et seq.), the latest Quadrennial Commission on Executive, Legislative, and Judicial Salaries (“Quad Commission”) has submitted to me recommendations on salaries for Senators, Representatives, Federal judges, Cabinet officers, and other agency heads, and certain other officials in the executive, legislative, and judicial branches.
 
@@ -164,7 +164,7 @@ Every one of the Quad Commissions that has met over the past 18 years concluded 
 
 In considering the Quad Commission's recommendations, I recognize that we are under a mandate to reduce the Federal deficit and hold the costs of government to an absolute minimum. In this environment, I do not believe that we can overcome the erosion of real income since 1969 of these senior government officials in one step and thus do not believe it would be appropriate to fully implement the Quad Commission's recommendations at this time.
 
-Accordingly, I have decided to propose a pay increase, but have cut substantially the recommendations made by the Quad Commissioners in their report to me last month. This increase is but the first step in addressing the loss of real income documented by the Quad Commission. In addition to this pay raise, I anticipate submitting another salary recommendation prior to leaving office—in response to the recommendations of the next Quad Commission, which will be appointed and will make its recommendations in 1988. While I cannot pre-judge those recommendations, assuming continuedprogress toward eliminating the deficit and favorable economic conditions, I would expect to recommend at that time another step toward overcoming that erosion of real income.
+Accordingly, I have decided to propose a pay increase, but have cut substantially the recommendations made by the Quad Commissioners in their report to me last month. This increase is but the first step in addressing the loss of real income documented by the Quad Commission. In addition to this pay raise, I anticipate submitting another salary recommendation prior to leaving office—in response to the recommendations of the next Quad Commission, which will be appointed and will make its recommendations in 1988. While I cannot pre-judge those recommendations, assuming continued progress toward eliminating the deficit and favorable economic conditions, I would expect to recommend at that time another step toward overcoming that erosion of real income.
 
 Moreover, I have decided to establish a Career Manager Pay Commission to review and report to me by next August on appropriate pay scales for our elite corps of career Government managers—those technically not included in the Quad Commission's mandate. The pay increases I am now proposing to Congress, together with responses to the recommendations of the new Career Manager Pay Commission and the next Quad Commission, are intended to constitute a significant advancement toward placing Government compensation on a fairer and more comparable footing.
 
@@ -332,13 +332,13 @@ If the Federal Government is to meet successfully the enormous challenges it fac
 
 Monetary awards are not the principal attractions offered by the public service, and complete parity with private sector salaries is neither desirable nor possible. Those who serve at the highest levels of the Federal Government expect and are willing to make some financial sacrifice to serve their country. Nevertheless, compensation levels today have fallen below the point at which they provide adequate monetary recognition of the complexity and importance of top Federal jobs.
 
-The financial sacrifice demanded of top Federal officials is becoming far too great. Since the last quadrennial adjustment in 1977, the salaries of those officials have increased only 5.5 percent. During that same period, the CPI has risen by about 45 percent, whichmeans that the purchasing power of these salaries has declined by about 28 percent.
+The financial sacrifice demanded of top Federal officials is becoming far too great. Since the last quadrennial adjustment in 1977, the salaries of those officials have increased only 5.5 percent. During that same period, the CPI has risen by about 45 percent, which means that the purchasing power of these salaries has declined by about 28 percent.
 
 I fully recognize that the salaries already being paid these officials look very large to the average taxpayer. But when we are seeking to fill an Assistant Secretary position, a Bureau Chief position, or one of the other top level policymaking positions in the Executive Branch, we want people who know the specialized field involved and who have had extensive experience and success in it. Usually, these people are already being highly paid, and there is a limit to the financial sacrifices they can afford to make.
 
 Not only is the discrepancy between private sector executive pay large now; it is continuing to widen. Since 1977, for example, while Federal executive pay has risen only 5.5 percent, private sector executive pay has gone up about 25 percent. If this gap continues to widen, government service will be so unattractive that increasing numbers of the best qualified will refuse to serve.
 
-These observations apply equally to the selection of judges. The Federal judiciary has traditionally drawn a substantial number of appointees from the top echelons of the legal profession. These individuals are mature, experienced, and often at the height of their career earnings. When they become judges, it is usually at a financial sacrifice. If the sacrifice we ask becomes too great, increasing numbers of those best qualified will refuse consideration for appointment. The Attorney General tells me we are already receiving many declinations from lawyers of the quality we desire. We must not allow that trend to accelerate.
+These observations apply equally to the selection of judges. The Federal judiciary has traditionally drawn a substantial number of appointees from the top echelons of the legal profession. These individuals are mature, experienced, and often at the height of their career earnings. When they become judges, it is usually at afinancial sacrifice. If the sacrifice we ask becomes too great, increasing numbers of those best qualified will refuse consideration for appointment. The Attorney General tells me we are already receiving many declinations from lawyers of the quality we desire. We must not allow that trend to accelerate.
 
 In addition to the recruiting problem, there are important considerations of retention and of equity. Resignations from the Federal bench show a disturbing tendency: only seven Federal judges resigned in the 1950's, and eight in the 1960's; but 24 resigned in the 1970's. Three resigned in 1980 alone.
 
@@ -366,7 +366,7 @@ I believe the least we can do at this point is to give the Executive and Legisla
 
 Because the case for a significant increase in the salaries of Federal judges is especially strong, I urge also that Congress give consideration to a salary scale for judges that would explicitly recognize the public importance of continuous judicial service; for example, by an annual or periodic increase for longevity in addition to the cost of living adjustments that are made from time to time.
 
-In addition, I urge that Congress give careful consideration to the five non-salary recommendations madeby the Commission, especially their proposal for a special two year study of the complex and harmful compensation problems that now exist.
+In addition, I urge that Congress give careful consideration to the five non-salary recommendations made by the Commission, especially their proposal for a special two year study of the complex and harmful compensation problems that now exist.
 
 The Commission concluded that the conditions I have outlined constitute “. . . a quiet crisis, unperceived by most citizens of the nation but requiring an immediate response by the President and the Congress to safeguard the high quality of its senior officials.” I agree with that conclusion and urge you to act favorably upon my recommendations. President-elect Reagan has authorized me to say that he fully supports these recommendations.
 
@@ -458,7 +458,7 @@ For Justices, judges and other personnel in the judicial branch as follows:
 
 72,000
 
-&emsp;&emsp;Judges, Circuit Court of Appeals;  judges, Court of Claims;  judges, Court of Military Appeals;  judges, Court of Customs and Patent Appeals
+&emsp;&emsp;Judges, Circuit Court of Appeals; judges, Court of Claims;  judges, Court of Military Appeals;  judges, Court of Customs and Patent Appeals
 
 57,500
 

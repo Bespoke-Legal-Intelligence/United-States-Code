@@ -1,6 +1,6 @@
 ### §535h. Report of Secretary of Transportation's approval during fiscal year
 
-The Secretary of Transportation shall make a report of all approvals granted by him duringthe fiscal year pursuant to section 535c of this title in each annual report of the activities of the Department required by section 308(a) of title 49.
+The Secretary of Transportation shall make a report of all approvals granted by him during the fiscal year pursuant to section 535c of this title in each annual report of the activities of the Department required by section 308(a) of title 49.
 
 (Pub. L. 92–434, §11, Sept. 26, 1972, 86 Stat. 733.)
 

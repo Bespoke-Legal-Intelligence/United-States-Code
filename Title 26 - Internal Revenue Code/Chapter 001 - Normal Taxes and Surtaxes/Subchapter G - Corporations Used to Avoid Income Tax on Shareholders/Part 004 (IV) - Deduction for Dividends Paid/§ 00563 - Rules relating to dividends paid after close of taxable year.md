@@ -22,7 +22,7 @@ In the determination of the dividends paid deduction for purposes of the persona
 
 &emsp;In the case of any distribution referred to in paragraph (1)—
 
-&emsp;&emsp;(A) paragraph (1) shall apply only if such distribution is to the person who was the shareholder of record (as of the last day of the taxable year of the foreign personal holding company) with respect to the stock for which such distribution is made,
+&emsp;&emsp;(A) paragraph (1) shall apply only if such distribution is to the person who was the shareholder of record (as of the last day ofthe taxable year of the foreign personal holding company) with respect to the stock for which such distribution is made,
 
 &emsp;&emsp;(B) the determination of the person required to include such distribution in gross income shall be made under the principles of section 551(f), and
 
@@ -46,7 +46,7 @@ Pub. L. 101–239, §7401(b)(1), redesignated former subsec. (c) as (d).
 
 #### Effective Date of 1989 Amendment
 
-Amendment by Pub. L. 101–239 applicable to taxable years of foreign corporations beginning after July 10,1989, with special rules for any foreign corporation required by the amendments made by section 7401 of Pub. L. 101–239 to change its taxable year for its first taxable year beginning after July 10, 1989, see section 7401(d) of Pub. L. 101–239, set out as an Effective Date note under section 898 of this title.
+Amendment by Pub. L. 101–239 applicable to taxable years of foreign corporations beginning after July 10, 1989, with special rules for any foreign corporation required by the amendments made by section 7401 of Pub. L. 101–239 to change its taxable year for its first taxable year beginning after July 10, 1989, see section 7401(d) of Pub. L. 101–239, set out as an Effective Date note under section 898 of this title.
 
 #### Effective Date of 1969 Amendment
 

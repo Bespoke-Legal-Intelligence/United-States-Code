@@ -4,13 +4,15 @@
 
 (b) From time to time the Secretary shall issue information related to public health, in the form of publications or otherwise, for the use of the public, and shall publish weekly reports of health conditions in the United States and other countries and other pertinent health information for the use of persons and institutions concerned with health services.
 
-(July 1, 1944, ch. 373, title III, §310, formerly §§309, 310, as added July 23, 1974, Pub. L. 93–353, title I, §107(a), 88 Stat. 371; renumbered §310, Nov. 9, 1978, Pub. L. 95–623, §6(a), (b), 92 Stat. 3447.)
+(July 1, 1944, ch. 373, title III, §310, formerly §§309, 310, as added July 23, 1974, Pub. L. 93–353,title I, §107(a), 88 Stat. 371; renumbered §310, Nov. 9, 1978, Pub. L. 95–623, §6(a), (b), 92 Stat. 3447.)
 
 #### Codification
 
 Subsec. (a) of this section consists of former section 309 of act July 1, 1944, prior to the renumbering of that section as section 310(a) by Pub. L. 95–623. Subsec. (b) of this section consists of former section 310 of act July 1, 1944, prior to the renumbering of that section as section 310(b) by Pub. L. 95–623.
 
 #### Prior Provisions
+
+A prior section 310 of act July 1, 1944, was renumbered section 329, and was classified to section 254b of this title prior to the general amendment of subpart I (§254b et seq.) of part D of this subchapter by Pub. L. 104–299.
 
 Provisions similar to those comprising subsec. (a) of this section were contained in section 312 of act July 1, 1944, ch. 373, title III, 58 Stat. 693, as amended (formerly classified to section 244 of this title), prior to repeal by Pub. L. 93–353, §102(a).
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-A person who has filed a declaration that meets the requirements of sections 4221 through4224 of this title shall have the rights stated in this section.
+A person who has filed a declaration that meets the requirements of sections 4221 through 4224 of this title shall have the rights stated in this section.
 
 #### (b) Civil action
 
@@ -20,7 +20,7 @@ When the United States recovers any asset or assets specifically identified in a
 
 #### (e) Appropriate Federal banking agency exception
 
-For purposes of this section, funds or assets acquired by the United States shall not include any funds or assets acquired by any appropriate Federal banking agency acting in any capacity or the Resolution Trust Corporation acting in any capacity, except for any civil money penalties recovered by a Federal banking agency through a final judgement,<sup>2</sup> order, or settlement.
+For purposes of this section, funds or assets acquired by the United States shall not includeany funds or assets acquired by any appropriate Federal banking agency acting in any capacity or the Resolution Trust Corporation acting in any capacity, except for any civil money penalties recovered by a Federal banking agency through a final judgement,<sup>2</sup> order, or settlement.
 
 (Pub. L. 101–647, title XXV, §2580, Nov. 29, 1990, 104 Stat. 4901.)
 

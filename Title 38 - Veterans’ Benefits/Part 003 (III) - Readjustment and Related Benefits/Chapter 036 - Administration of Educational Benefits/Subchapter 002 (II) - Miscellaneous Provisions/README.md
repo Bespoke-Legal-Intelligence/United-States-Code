@@ -20,7 +20,7 @@ This subchapter is referred to in section 3034 of this title; title 10 section 1
 - [&sect; 03686 - Correspondence courses](%C2%A7%2003686%20-%20Correspondence%20courses.md)
 - [&sect; 03687 - Apprenticeship or other on-job training](%C2%A7%2003687%20-%20Apprenticeship%20or%20other%20on-job%20training.md)
 - [&sect; 03688 - Measurement of courses](%C2%A7%2003688%20-%20Measurement%20of%20courses.md)
-- [&sect; 03689 - Period of operation for approval](%C2%A7%2003689%20-%20Period%20of%20operation%20for%20approval.md)
+- [&sect; 03689 - Repealed. Pub. L. 104&#8211;275, title I, &sect;103(a)(1)(A), Oct. 9, 1996, 110 Stat. 3326](%C2%A7%2003689%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93275%2C%20title%20I%2C%20%C2%A7103%28a%29%281%29%28A%29%2C%20Oct.%209%2C%201996%2C%20110%20Stat.%203326.md)
 - [&sect; 03690 - Overcharges by educational institutions; discontinuance of allowances; examination of records; false or misleading statements](%C2%A7%2003690%20-%20Overcharges%20by%20educational%20institutions%3B%20discontinuance%20of%20allowances%3B%20examination%20of%20records%3B%20false%20or%20misleading%20statements.md)
 - [&sect; 03691 - Change of program](%C2%A7%2003691%20-%20Change%20of%20program.md)
 - [&sect; 03692 - Advisory committee](%C2%A7%2003692%20-%20Advisory%20committee.md)

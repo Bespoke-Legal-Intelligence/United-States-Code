@@ -6,7 +6,7 @@ For the purpose of this section, the term—
 
 &emsp;(1) “new vessel” includes every description of watercraft or other artificial contrivance used, or capable of being used, as a means of transportation on the navigable waters, the construction of which is initiated after promulgation of standards and regulations under this section;
 
-&emsp;(2) “existing vessel” includes every description of watercraft or other artificial contrivance used, or capable of being used, as a means of transportation on the navigable waters, the construction of which is initiated before promulgation of standards and regulations under this section;
+&emsp;(2) “existing vessel” includes every description of watercraft or other artificial contrivance used, or capable of being used, as a meansof transportation on the navigable waters, the construction of which is initiated before promulgation of standards and regulations under this section;
 
 &emsp;(3) “public vessel” means a vessel owned or bareboat chartered and operated by the United States, by a State or political subdivision thereof, or by a foreign nation, except when such vessel is engaged in commerce;
 
@@ -18,13 +18,41 @@ For the purpose of this section, the term—
 
 &emsp;(7) “manufacturer” means any person engaged in the manufacturing, assembling, or importation of marine sanitation devices or of vessels subject to standards and regulations promulgated under this section;
 
-&emsp;(8) “person” means an individual, partnership, firm, corporation, or association, but does not include an individual on board a public vessel;
+&emsp;(8) “person” means an individual, partnership, firm, corporation, association, or agency of the United States, but does not include an individual on board a public vessel;
 
 &emsp;(9) “discharge” includes, but is not limited to, any spilling, leaking, pumping, pouring, emitting, emptying or dumping;
 
 &emsp;(10) “commercial vessels” means those vessels used in the business of transporting property for compensation or hire, or in transporting property in the business of the owner, lessee, or operator of the vessel;
 
-&emsp;(11) “graywater” means galley, bath, and shower water.
+&emsp;(11) “graywater” means galley, bath, and shower water;
+
+&emsp;(12) “discharge incidental to the normal operation of a vessel”—
+
+&emsp;&emsp;(A) means a discharge, including—
+
+&emsp;&emsp;&emsp;(i) graywater, bilge water, cooling water, weather deck runoff, ballast water, oil water separator effluent, and any other pollutant discharge from the operation of a marine propulsion system, shipboard maneuvering system, crew habitability system, or installed major equipment, such as an aircraft carrier elevator or a catapult, or from a protective, preservative, or absorptive application to the hull of the vessel; and
+
+&emsp;&emsp;&emsp;(ii) a discharge in connection with the testing, maintenance, and repair of a system described in clause (i) whenever the vessel is waterborne; and
+
+&emsp;&emsp;(B) does not include—
+
+&emsp;&emsp;&emsp;(i) a discharge of rubbish, trash, garbage, or other such material discharged overboard;
+
+&emsp;&emsp;&emsp;(ii) an air emission resulting from the operation of a vessel propulsion system, motor driven equipment, or incinerator; or
+
+&emsp;&emsp;&emsp;(iii) a discharge that is not covered by part 122.3 of title 40, Code of Federal Regulations (as in effect on February 10, 1996);
+
+&emsp;(13) “marine pollution control device” means any equipment or management practice, for installation or use on board a vessel of the Armed Forces, that is—
+
+&emsp;&emsp;(A) designed to receive, retain, treat, control, or discharge a discharge incidental to the normal operation of a vessel; and
+
+&emsp;&emsp;(B) determined by the Administrator and the Secretary of Defense to be the most effective equipment or management practice to reduce the environmental impacts of the discharge consistent with the considerations set forth in subsection (n)(2)(B) of this section; and
+
+&emsp;(14) “vessel of the Armed Forces” means—
+
+&emsp;&emsp;(A) any vessel owned or operated by the Department of Defense, other than a time or voyage chartered vessel; and
+
+&emsp;&emsp;(B) any vessel owned or operated by the Department of Transportation that is designated by the Secretary of the department in which the Coast Guard is operating as a vessel equivalent to a vessel described in subparagraph (A).
 
 #### (b) Federal standards of performance
 
@@ -38,7 +66,7 @@ For the purpose of this section, the term—
 
 (B) The Administrator shall, with respect to commercial vessels on the Great Lakes, establish standards which require at a minimum the equivalent of secondary treatment as defined under section 1314(d) of this title. Such standards and regulations shall take effect for existing vessels after such time as the Administrator determines to be reasonable for the upgrading of marine sanitation devices to attain such standard.
 
-(2) The Secretary of the department in which the Coast Guard is operating with regard to his regulatory authority established by this section,after consultation with the Administrator, may distinguish among classes, type, and sizes of vessels as well as between new and existing vessels, and may waive applicability of standards and regulations as necessary or appropriate for such classes, types, and sizes of vessels (including existing vessels equipped with marine sanitation devices on the date of promulgation of the initial standards required by this section), and, upon application, for individual vessels.
+(2) The Secretary of the department in which the Coast Guard is operating with regard to his regulatory authority established by this section, after consultation with the Administrator, may distinguish among classes, type, and sizes of vessels as well as between new and existing vessels, and may waive applicability of standards and regulations as necessary or appropriate for such classes, types, and sizes of vessels (including existing vessels equipped with marine sanitation devices on the date of promulgation of the initial standards required by this section), and, upon application, for individual vessels.
 
 #### (d) Vessels owned and operated by the United States
 
@@ -66,9 +94,9 @@ Before the standards and regulations under this section are promulgated, the Adm
 
 (1) No manufacturer of a marine sanitation device shall sell, offer for sale, or introduce or deliver for introduction in interstate commerce, or import into the United States for sale or resale any marine sanitation device manufactured after the effective date of the standards and regulations promulgated under this section unless such device is in all material respects substantially the same as a test device certified under this subsection.
 
-(2) Upon application of the manufacturer, the Secretary of the department in which the Coast Guard is operating shall so certify a marine sanitation device if he determines, in accordance with the provisions of this paragraph, that it meets the appropriate standards and regulations promulgated under this section. The Secretary of the department in which the Coast Guard is operating shall test or require such testing of the device in accordance with procedures set forth by the Administrator as to standards of performance and for such other purposes as may be appropriate. If the Secretary of the department in which the Coast Guard is operating determines that the device is satisfactory from the standpoint of safety and any other requirements of maritime law or regulation, and after consideration of the design, installation, operation, material, or other appropriate factors, he shall certify the device. Any device manufactured by such manufacturer which is in all material respects substantially the same as the certified test device shall be deemed to be in conformity with the appropriate standards and regulations established under this section.
+(2) Upon application of the manufacturer, the Secretary of the department in which the Coast Guard is operating shall so certify a marine sanitation device if he determines, in accordance with the provisions of this paragraph, that it meets the appropriate standards and regulations promulgated under this section. The Secretary of the department in which the CoastGuard is operating shall test or require such testing of the device in accordance with procedures set forth by the Administrator as to standards of performance and for such other purposes as may be appropriate. If the Secretary of the department in which the Coast Guard is operating determines that the device is satisfactory from the standpoint of safety and any other requirements of maritime law or regulation, and after consideration of the design, installation, operation, material, or other appropriate factors, he shall certify the device. Any device manufactured by such manufacturer which is in all material respects substantially the same as the certified test device shall be deemed to be in conformity with the appropriate standards and regulations established under this section.
 
-(3) Every manufacturer shall establish and maintain such records, make such reports, andprovide such information as the Administrator or the Secretary of the department in which the Coast Guard is operating may reasonably require to enable him to determine whether such manufacturer has acted or is acting in compliance with this section and regulations issued thereunder and shall, upon request of an officer or employee duly designated by the Administrator or the Secretary of the department in which the Coast Guard is operating, permit such officer or employee at reasonable times to have access to and copy such records. All information reported to or otherwise obtained by the Administrator or the Secretary of the Department in which the Coast Guard is operating or their representatives pursuant to this subsection which contains or relates to a trade secret or other matter referred to in section 1905 of title 18 shall be considered confidential for the purpose of that section, except that such information may be disclosed to other officers or employees concerned with carrying out this section. This paragraph shall not apply in the case of the construction of a vessel by an individual for his own use.
+(3) Every manufacturer shall establish and maintain such records, make such reports, and provide such information as the Administrator or the Secretary of the department in which the Coast Guard is operating may reasonably require to enable him to determine whether such manufacturer has acted or is acting in compliance with this section and regulations issued thereunder and shall, upon request of an officer or employee duly designated by the Administrator or the Secretary of the department in which the Coast Guard is operating, permit such officer or employee at reasonable times to have access to and copy such records. All information reported to or otherwise obtained by the Administrator or the Secretary of the Department in which the Coast Guard is operating or their representatives pursuant to this subsection which contains or relates to a trade secret or other matter referred to in section 1905 of title 18 shall be considered confidential for the purpose of that section, except that such information may be disclosed to other officers or employees concerned with carrying out this section. This paragraph shall not apply in the case of the construction of a vessel by an individual for his own use.
 
 #### (h) Sale and resale of properly equipped vessels; operability of certified marine sanitation devices
 
@@ -88,27 +116,193 @@ The district courts of the United States shall have jurisdictions to restrain vi
 
 #### (j) Penalties
 
-Any person who violates subsection (g)(1) of this section or clause (1) or (2) of subsection (h) of this section shall be liable to a civil penalty of not more than $5,000 for each violation. Any person who violates clause (4) of subsection (h) of this section or any regulation issued pursuant to this section shall be liable to a civil penalty of not more than $2,000 for each violation. Each violation shall be a separate offense. The Secretary of the department in which the Coast Guard is operating may assess and compromise any such penalty. No penalty shall be assessed until the person charged shall have been given notice and an opportunity for a hearing on such charge. In determining the amount of the penalty, or the amount agreed upon in compromise, the gravity of the violation, and the demonstrated good faith of the person charged in attempting to achieve rapid compliance, after notification of a violation, shall be considered by said Secretary.
+Any person who violates subsection (g)(1) of this section, clause (1) or (2) of subsection (h) of this section, or subsection (n)(8) of this section shall be liable to a civil penalty of not more than $5,000 for each violation. Any person who violates clause (4) of subsection (h) of this section or any regulation issued pursuant to this section shall be liable to a civil penalty of not more than $2,000 for each violation. Each violation shall be a separate offense. The Secretary of the department in which the Coast Guard is operating may assess and compromise any such penalty. No penalty shall be assessed until the person charged shall have been given notice and an opportunity for a hearing on such charge. In determining the amount of the penalty, or the amount agreed upon in compromise, the gravity of the violation, and the demonstrated good faith of the person charged in attempting to achieve rapid compliance, after notification of a violation, shall be considered by said Secretary.
 
 #### (k) Enforcement authority
 
 The provisions of this section shall be enforced by the Secretary of the department in which the Coast Guard is operating and he may utilize by agreement, with or without reimbursement, law enforcement officers or other personnel and facilities of the Administrator, other Federal agencies, or the States to carry out the provisions of this section. The provisions of this section may also be enforced by a State.
 
-#### (<i>l)</i> Boarding and inspection of vessels; execution of warrants and other process
+#### (<i>l</i>) Boarding and inspection of vessels; execution of warrants and other process
 
 Anyone authorized by the Secretary of the department in which the Coast Guard is operating to enforce the provisions of this section may, except as to public vessels, (1) board and inspect any vessel upon the navigable waters of the United States and (2) execute any warrant or other process issued by an officer or court of competent jurisdiction.
 
 #### (m) Enforcement in United States possessions
 
-In the case of Guam and the Trust Territory of the Pacific Islands, actions arising under this section may be brought in the district court of Guam, and in the case of the Virgin Islands such actions may be brought in the district court of the Virgin Islands. In the case of American Samoa and the Trust Territory of the Pacific Islands, such actions may be brought in the District Court of the United States for the District of Hawaii and such court shall have jurisdiction of such actions. In the case of the Canal Zone, such actions may be brought in the District Court for the District of the Canal Zone.
+In the case of Guam and the Trust Territory of the Pacific Islands, actions arising under this section may be brought in the district court of Guam, and in the case of the Virgin Islands suchactions may be brought in the district court of the Virgin Islands. In the case of American Samoa and the Trust Territory of the Pacific Islands, such actions may be brought in the District Court of the United States for the District of Hawaii and such court shall have jurisdiction of such actions. In the case of the Canal Zone, such actions may be brought in the District Court for the District of the Canal Zone.
 
-(June 30, 1948, ch. 758, title III, §312, as added Oct. 18, 1972, Pub. L. 92–500, §2, 86 Stat. 871; amended Dec. 27, 1977, Pub. L. 95–217, §59, 91 Stat. 1596; Oct. 17, 1979, Pub. L. 96–88, title V, §509(b), 93 Stat. 695; Feb. 4, 1987, Pub. L. 100–4, title III, §311, 101 Stat. 42.)
+#### (n) Uniform national discharge standards for vessels of Armed Forces
+
+#### (1) Applicability
+
+&emsp;This subsection shall apply to vessels of the Armed Forces and discharges, other than sewage, incidental to the normal operation of a vessel of the Armed Forces, unless the Secretary of Defense finds that compliance with this subsection would not be in the national security interests of the United States.
+
+#### (2) Determination of discharges required to be controlled by marine pollution control devices
+
+#### (A) In general
+
+&emsp;&emsp;The Administrator and the Secretary of Defense, after consultation with the Secretary of the department in which the Coast Guard is operating, the Secretary of Commerce, and interested States, shall jointly determine the discharges incidental to the normal operation of a vessel of the Armed Forces for which it is reasonable and practicable to require use of a marine pollution control device to mitigate adverse impacts on the marine environment. Notwithstanding subsection (a)(1) of section 553 of title 5, the Administrator and the Secretary of Defense shall promulgate the determinations in accordance with such section. The Secretary of Defense shall require the use of a marine pollution control device on board a vessel of the Armed Forces in any case in which it is determined that the use of such a device is reasonable and practicable.
+
+#### (B) Considerations
+
+&emsp;&emsp;In making a determination under subparagraph (A), the Administrator and the Secretary of Defense shall take into consideration—
+
+&emsp;&emsp;&emsp;(i) the nature of the discharge;
+
+&emsp;&emsp;&emsp;(ii) the environmental effects of the discharge;
+
+&emsp;&emsp;&emsp;(iii) the practicability of using the marine pollution control device;
+
+&emsp;&emsp;&emsp;(iv) the effect that installation or use of the marine pollution control device would have on the operation or operational capability of the vessel;
+
+&emsp;&emsp;&emsp;(v) applicable United States law;
+
+&emsp;&emsp;&emsp;(vi) applicable international standards; and
+
+&emsp;&emsp;&emsp;(vii) the economic costs of the installation and use of the marine pollution control device.
+
+#### (3) Performance standards for marine pollution control devices
+
+#### (A) In general
+
+&emsp;&emsp;For each discharge for which a marine pollution control device is determined to be required under paragraph (2), the Administrator and the Secretary of Defense, in consultation with the Secretary of the department in which the Coast Guard is operating, the Secretary of State, the Secretary of Commerce, other interested Federal agencies, and interested States, shall jointly promulgate Federal standards of performance for each marine pollution control device required with respect to the discharge. Notwithstanding subsection (a)(1) of section 553 of title 5, the Administrator and the Secretary of Defense shall promulgate the standards in accordance with such section.
+
+#### (B) Considerations
+
+&emsp;&emsp;In promulgating standards under this paragraph, the Administrator and the Secretary of Defense shall take into consideration the matters set forth in paragraph (2)(B).
+
+#### (C) Classes, types, and sizes of vessels
+
+&emsp;&emsp;The standards promulgated under this paragraph may—
+
+&emsp;&emsp;&emsp;(i) distinguish among classes, types, and sizes of vessels;
+
+&emsp;&emsp;&emsp;(ii) distinguish between new and existing vessels; and
+
+&emsp;&emsp;&emsp;(iii) provide for a waiver of the applicability of the standards as necessary or appropriate to a particular class, type, age, or size of vessel.
+
+#### (4) Regulations for use of marine pollution control devices
+
+&emsp;The Secretary of Defense, after consultation with the Administrator and the Secretary of the department in which the Coast Guard is operating, shall promulgate such regulations governing the design, construction, installation, and use of marine pollution control devices on board vessels of the Armed Forces as are necessary to achieve the standards promulgated under paragraph (3).
+
+#### (5) Deadlines; effective date
+
+#### (A) Determinations
+
+&emsp;&emsp;The Administrator and the Secretary of Defense shall—
+
+&emsp;&emsp;&emsp;(i) make the initial determinations under paragraph (2) not later than 2 years after February 10, 1996; and
+
+&emsp;&emsp;&emsp;(ii) every 5 years—
+
+&emsp;&emsp;&emsp;&emsp;(I) review the determinations; and
+
+&emsp;&emsp;&emsp;&emsp;(II) if necessary, revise the determinations based on significant new information.
+
+#### (B) Standards
+
+&emsp;&emsp;The Administrator and the Secretary of Defense shall—
+
+&emsp;&emsp;&emsp;(i) promulgate standards of performance for a marine pollution control device under paragraph (3) not later than 2 years after the date of a determination under paragraph (2) that the marine pollution control device is required; and
+
+&emsp;&emsp;&emsp;(ii) every 5 years—
+
+&emsp;&emsp;&emsp;&emsp;(I) review the standards; and
+
+&emsp;&emsp;&emsp;&emsp;(II) if necessary, revise the standards, consistent with paragraph (3)(B) and based on significant new information.
+
+#### (C) Regulations
+
+&emsp;&emsp;The Secretary of Defense shall promulgate regulations with respect to a marine pollution control device under paragraph (4) as soon as practicable after the Administrator and the Secretary of Defense promulgate standards with respect to the device under paragraph (3), but not later than 1 year after the Administrator and the Secretary of Defense promulgate the standards. The regulations promulgated by the Secretary of Defense under paragraph (4) shall become effective upon promulgation unless another effective date is specified in the regulations.
+
+#### (D) Petition for review
+
+&emsp;&emsp;The Governor of any State may submit a petition requesting that the Secretary of Defense and the Administrator review a determination under paragraph (2) or a standard under paragraph (3), if there is significant new information, not considered previously, that could reasonably result in a change to the particular determination or standard after consideration of the matters set forth in paragraph (2)(B). The petition shall be accompanied by the scientific and technical information on which the petition is based. The Administrator and the Secretary of Defense shall grant or deny the petition not later than 2 years after the date of receipt of the petition.
+
+#### (6) Effect on other laws
+
+#### (A) Prohibition on regulation by States or political subdivisions of States
+
+&emsp;&emsp;Beginning on the effective date of—
+
+&emsp;&emsp;&emsp;(i) a determination under paragraph (2) that it is not reasonable and practicable to require use of a marine pollution control device regarding a particular discharge incidental to the normal operation of a vessel of the Armed Forces; or
+
+&emsp;&emsp;&emsp;(ii) regulations promulgated by the Secretary of Defense under paragraph (4);
+
+> &emsp;&emsp;except as provided in paragraph (7), neither a State nor a political subdivision of a State may adopt or enforce any statute or regulation of the State or political subdivision with respect to the discharge or the design, construction, installation, or use of any marine pollution control device required to control discharges from a vessel of the Armed Forces.
+
+#### (B) Federal laws
+
+&emsp;&emsp;This subsection shall not affect the application of section 1321 of this title to discharges incidental to the normal operation of a vessel.
+
+#### (7) Establishment of State no-discharge zones
+
+#### (A) State prohibition
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;After the effective date of—
+
+&emsp;&emsp;&emsp;&emsp;(I) a determination under paragraph (2) that it is not reasonable and practicable to require use of a marine pollution control device regarding a particular discharge incidental to the normal operation of a vessel of the Armed Forces; or
+
+&emsp;&emsp;&emsp;&emsp;(II) regulations promulgated by the Secretary of Defense under paragraph (4);
+
+&emsp;&emsp;&nbsp;if a State determines that the protection and enhancement of the quality of some or all of the waters within the State require greater environmental protection, the State may prohibit 1 or more discharges incidental to the normal operation of a vessel, whether treated or not treated, into the waters. No prohibition shall apply until the Administrator makes the determinations described in subclauses (II) and (III) of subparagraph (B)(i).
+
+#### (ii) Documentation
+
+&emsp;&emsp;&emsp;To the extent that a prohibition under this paragraph would apply to vessels of the Armed Forces and not to other types of vessels, the State shall document the technical or environmental basis for the distinction.
+
+#### (B) Prohibition by the Administrator
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;Upon application of a State, the Administrator shall by regulation prohibit the discharge from a vessel of 1 or more discharges incidental to the normal operation of a vessel, whether treated or not treated, into the waters covered by the application if the Administrator determines that—
+
+&emsp;&emsp;&emsp;&emsp;(I) the protection and enhancement of the quality of the specified waters within the State require a prohibition of the discharge into the waters;
+
+&emsp;&emsp;&emsp;&emsp;(II) adequate facilities for the safe and sanitary removal of the discharge incidental to the normal operation of a vessel are reasonably available for the waters to which the prohibition would apply; and
+
+&emsp;&emsp;&emsp;&emsp;(III) the prohibition will not have the effect of discriminating against a vessel of the Armed Forces by reason of the ownership or operation by the Federal Government, or the military function, of the vessel.
+
+#### (ii) Approval or disapproval
+
+&emsp;&emsp;&emsp;The Administrator shall approve or disapprove an application submitted under clause (i) not later than 90 days after the date on which the application is submitted to the Administrator. Notwithstanding clause (i)(II), the Administrator shall not disapprove an application for the sole reason that there are not adequate facilities to remove any discharge incidental to the normal operation of a vessel from vessels of the Armed Forces.
+
+#### (C) Applicability to foreign flagged vessels
+
+&emsp;&emsp;A prohibition under this paragraph—
+
+&emsp;&emsp;&emsp;(i) shall not impose any design, construction, manning, or equipment standard on a foreign flagged vessel engaged in innocent passage unless the prohibition implements a generally accepted international rule or standard; and
+
+&emsp;&emsp;&emsp;(ii) that relates to the prevention, reduction, and control of pollution shall notapply to a foreign flagged vessel engaged in transit passage unless the prohibition implements an applicable international regulation regarding the discharge of oil, oily waste, or any other noxious substance into the waters.
+
+#### (8) Prohibition relating to vessels of the Armed Forces
+
+&emsp;After the effective date of the regulations promulgated by the Secretary of Defense under paragraph (4), it shall be unlawful for any vessel of the Armed Forces subject to the regulations to—
+
+&emsp;&emsp;(A) operate in the navigable waters of the United States or the waters of the contiguous zone, if the vessel is not equipped with any required marine pollution control device meeting standards established under this subsection; or
+
+&emsp;&emsp;(B) discharge overboard any discharge incidental to the normal operation of a vessel in waters with respect to which a prohibition on the discharge has been established under paragraph (7).
+
+#### (9) Enforcement
+
+&emsp;This subsection shall be enforceable, as provided in subsections (j) and (k) of this section, against any agency of the United States responsible for vessels of the Armed Forces notwithstanding any immunity asserted by the agency.
+
+(June 30, 1948, ch. 758, title III, §312, as added Oct. 18, 1972, Pub. L. 92–500, §2, 86 Stat. 871; amended Dec. 27, 1977, Pub. L. 95–217, §59, 91 Stat. 1596; Oct. 17, 1979, Pub. L. 96–88, title V, §509(b), 93 Stat. 695; Feb. 4, 1987, Pub. L. 100–4, title III, §311, 101 Stat. 42; Feb. 10, 1996, Pub. L. 104–106, div. A, title III, §325(b)–(c)(2), 110 Stat. 254–259.)
 
 #### References in Text
 
 For definition of Canal Zone, referred to in subsecs. (a)(4) and (m), see section 3602(b) of Title 22, Foreign Relations and Intercourse.
 
 #### Amendments
+
+1996—Subsec. (a)(8). Pub. L. 104–106, §325(c)(1)(A), substituted “corporation, association, or agency of the United States,” for “corporation, or association,”.
+
+Subsec. (a)(12) to (14). Pub. L. 104–106, §325(c)(1)(B), (C), added pars. (12) to (14).
+
+Subsec. (j). Pub. L. 104–106, §325(c)(2), substituted “subsection (g)(1) of this section, clause (1) or (2) of subsection (h) of this section, or subsection (n)(8) of this section shall be liable” for “subsection (g)(1) of this section or clause (1) or (2) of subsection (h) of this section shall be liable”.
+
+Subsec. (n). Pub. L. 104–106, §325(b), added subsec. (n).
 
 1987—Subsec. (f)(1). Pub. L. 100–4, §311(a), designated existing provision as subpar. (A), substituted “Except as provided in subparagraph (B), after” for “After”, and added subpar. (B).
 
@@ -134,7 +328,31 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 #### Termination of United States District Court for the District of the Canal Zone
 
-For termination of the United States District Court for the District of the Canal Zone at end of the “transition period”, being the 30-month period beginning Oct. 1, 1979, and ending midnight Mar. 31, 1982, see Paragraph 5 of Article XI of the Panama Canal Treaty of 1977 and sections 3831 and 3841 to 3843 of Title 22, Foreign Relations and Intercourse.
+For termination of the United States District Court for the District of the Canal Zone at end of the “transition period”, being the 30-month period beginning Oct. 1, 1979, and ending midnight Mar. 31, 1982, see Paragraph 5 of Article XI of the Panama Canal Treaty of 1977 and sections 2101 and 2201 to 2203 of Pub. L. 96–70, title II, Sept. 27, 1979, 93 Stat. 493, formerly classified to sections 3831 and 3841 to 3843, respectively, of Title 22, Foreign Relations and Intercourse.
+
+#### Purpose of 1996 Amendment
+
+Section 325(a) of Pub. L. 104–106 provided that: “The purposes of this section \[amending this section and section 1362 of this title and enacting provisions set out as a note below\] are to—
+
+&emsp;“(1) enhance the operational flexibility of vessels of the Armed Forces domestically and internationally;
+
+&emsp;“(2) stimulate the development of innovative vessel pollution control technology; and
+
+&emsp;“(3) advance the development by the United States Navy of environmentally sound ships.”
+
+#### Cooperation in National Discharge Standards Development
+
+Section 325(d) of Pub. L. 104–106 provided that: “The Administrator of the Environmental Protection Agency and the Secretary of Defense may, by mutual agreement, with or without reimbursement, provide for the use of information, reports, personnel, or other resources of the Environmental Protection Agency or the Department of Defense to carry out section 312(n) of the Federal Water Pollution Control Act \[33 U.S.C. 1322(n)\] (as added by subsection (b)), including the use of the resources—
+
+&emsp;“(1) to determine—
+
+&emsp;&emsp;“(A) the nature and environmental effect of discharges incidental to the normal operation of a vessel of the Armed Forces;
+
+&emsp;&emsp;“(B) the practicability of using marine pollution control devices on vessels of the Armed Forces; and
+
+&emsp;&emsp;“(C) the effect that installation or use of marine pollution control devices on vessels of the Armed Forces would have on the operation or operational capability of the vessels; and
+
+&emsp;“(2) to establish performance standards for marine pollution control devices on vessels of the Armed Forces.”
 
 #### Clean Vessels
 
@@ -236,7 +454,7 @@ Grant Program.—
 
 &emsp;“(1)
 
-Matching grants.—The Secretary of the Interior may obligate an amount not to exceed theamount made available under section 4(b)(2) of the Act of August 9, 1950 (16 U.S.C. 777c(b)(2), as amended by this Act), to make grants to—
+Matching grants.—The Secretary of the Interior may obligate an amount not to exceed the amount made available under section 4(b)(2) of the Act of August 9, 1950 (16 U.S.C. 777c(b)(2), as amended by this Act), to make grants to—
 
 &emsp;&emsp;“(A) coastal States to pay not more than 75 percent of the cost to a coastal State of—
 
@@ -338,7 +556,7 @@ Notification.—Not later than one month after the guidance issued under subsect
 
 &emsp;&emsp;“(B) leased, rented, or chartered to another for the latter's pleasure; and
 
-&emsp;“(8) ‘waste reception facility’ means a facility specifically designed to receive wastes from portabletoilets carried on vessels, and does not include lavatories.”
+&emsp;“(8) ‘waste reception facility’ means a facility specifically designed to receive wastes from portable toilets carried on vessels, and does not include lavatories.”
 
 #### Section Referred to in Other Sections
 

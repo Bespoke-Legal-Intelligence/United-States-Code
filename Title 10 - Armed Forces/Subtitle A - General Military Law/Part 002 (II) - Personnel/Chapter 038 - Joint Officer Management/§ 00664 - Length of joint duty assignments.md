@@ -46,7 +46,7 @@ Exclusions From Tour Length.—The Secretary of Defense may exclude the followin
 
 (e)
 
-Average Tour Lengths.—(1) The Secretary shall ensure that the average length of joint duty assignments during any fiscal year (after fiscal year 1990), measured by the lengths of the joint duty assignments ending during that fiscal year, meets the standards prescribed in subsection (a).
+Average Tour Lengths.—(1) The Secretary shall ensure that the average length of joint duty assignments during any fiscal year, measured by the lengths of the joint duty assignments ending during that fiscal year, meets the standards prescribed in subsection (a).
 
 (2) In computing the average length of joint duty assignments for purposes of paragraph (1), the Secretary may exclude the following service:
 
@@ -54,19 +54,23 @@ Average Tour Lengths.—(1) The Secretary shall ensure that the average length o
 
 &emsp;(B) Service described in subsection (d).
 
+&emsp;(C) Service described in subsection (f)(6), except that no more than 10 percent of all joint duty assignments shown on the list published pursuant to section 668(b)(2)(A) of this title may be so excluded in any year.
+
 (f)
 
-Full Tour of Duty.—An officer shall be considered to have completed a full tour of duty in a joint duty assignment upon completion of—
+Full Tour of Duty.—An officer shall be considered to have completed a full tour of duty in a joint duty assignment upon completion of any of the following:
 
-&emsp;(1) a joint duty assignment that meets the standards prescribed in subsection (a);
+&emsp;(1) A joint duty assignment that meets the standards prescribed in subsection (a).
 
-&emsp;(2) a joint duty assignment under the circumstances described in subsection (c);
+&emsp;(2) A joint duty assignment under the circumstances described in subsection (c).
 
-&emsp;(3) cumulative service in joint duty assignments as described in subsection (g);
+&emsp;(3) Cumulative service in joint duty assignments as described in subsection (g).
 
-&emsp;(4) a joint duty assignment outside the United States or in Alaska or Hawaii for which the normal accompanied-by-dependents tour of duty is prescribed by regulation to be at least two years in length, if the officer serves in the assignment for a period equivalent to the accompanied-by-dependents tour length (except that not more than 6 percent of all joint duty assignments may be considered to be under this paragraph at any time); or
+&emsp;(4) A joint duty assignment outside the United States or in Alaska or Hawaii for which the normal accompanied-by-dependents tour of duty is prescribed by regulation to be at least two years in length, if the officer serves in the assignment for a period equivalent to the accompanied-by-dependents tour length (except that not more than 6 percent of all joint duty assignments may be considered to be under this paragraph at any time).
 
-&emsp;(5) a joint duty assignment with respect to which the Secretary of Defense has granted a waiver under subsection (b), but only in a case in which the Secretary determines that the service completed by that officer in that duty assignment shall be considered to be a full tour of duty in a joint duty assignment.
+&emsp;(5) A joint duty assignment with respect to which the Secretary of Defense has granted a waiver under subsection (b), but only in a case in which the Secretary determines that the service completed by that officer in that duty assignment shall be considered to be a full tour of duty in a joint duty assignment.
+
+&emsp;(6) A second joint duty assignment that is less than the period required under subsection (a), but not less than two years, without regard to whether a waiver was granted for such assignment under subsection (b).
 
 (g)
 
@@ -98,9 +102,67 @@ Constructive Credit.—(1) The Secretary of Defense may accord constructive cred
 
 (3) This subsection shall not apply in the case of an officer who serves less than 10 months in the joint duty assignment.
 
-(Added Pub. L. 99–433, title IV, §401(a), Oct. 1, 1986, 100 Stat. 1028; amended Pub. L. 100–180, div. A, title XIII, §1303(a), Dec. 4, 1987, 101 Stat. 1170; Pub. L. 100–456, div. A, title V, §§514, 517(b), Sept. 29, 1988, 102 Stat. 1969, 1971.)
+(i)
+
+Joint Duty Credit for Certain Joint Task Force Assignments.—(1) In the case of an officer who completes service in a qualifying temporary joint task force assignment, the Secretary of Defense, with the advice of the Chairman of the Joint Chiefs of Staff, may (subject to the criteria prescribed under paragraph (4)) grant the officer—
+
+&emsp;(A) credit for having completed a full tour of duty in a joint duty assignment; or
+
+&emsp;(B) credit countable for determining cumulative service in joint duty assignments.
+
+(2)(A) For purposes of paragraph (1), a qualifying temporary joint task force assignment of an officer is a temporary assignment, any part of which is performed by the officer on or after the date of the enactment of this subsection—
+
+&emsp;(i) to the headquarters staff of a United States joint task force that is part of a unified command or the United States element of the headquarters staff of a multinational force; and
+
+&emsp;(ii) with respect to which the Secretary of Defense determines that service of the officer in that assignment is equivalent to that which would be gained by the officer in a joint duty assignment.
+
+(B) An officer may not be granted credit under this subsection unless the officer is recommended for such credit by the Chairman of the Joint Chiefs of Staff.
+
+(3) Credit under paragraph (1) (including a determination under paragraph (2)(A)(ii) and a recommendation under paragraph (2)(B) with respect to such credit) may be granted only on a case-by-case basis in the case of an individual officer.
+
+(4) The Secretary of Defense shall prescribe by regulation criteria for determining whether an officer may be granted credit under paragraph (1) with respect to service in a qualifying temporary joint task force assignment. The criteria shall apply uniformly among the armed forces and shall include the following requirements:
+
+&emsp;(A) For an officer to be credited as having completed a full tour of duty in a joint duty assignment, the length of the officer's service in the qualifying temporary joint task force assignment must meet the requirements of subsection (a) or (c).
+
+&emsp;(B) For an officer to be credited with service for purposes of determining cumulative service in joint duty assignments, the officer must serve at least 90 consecutive days in the qualifying temporary joint task force assignment.
+
+&emsp;(C) The service must be performed in support of a mission that is directed by the President or that is assigned by the President to United States forces in the joint task force involved.
+
+&emsp;(D) The joint task force must be constituted or designated by the Secretary of Defense or by the commander of a combatant command or of another force.
+
+&emsp;(E) The joint task force must conduct combat or combat-related operations in a unified action under joint or multinational command and control.
+
+(5) Officers for whom joint duty credit is granted pursuant to this subsection may not be taken into account for the purposes of any of the following provisions of this title: section 661(d)(1), section 662(a)(3), section 662(b), subsection (a) of this section, and paragraphs (7), (8), (9), (11), and (12) of section 667.
+
+(6) In the case of an officer credited with having completed a full tour of duty in a joint duty assignment pursuant to this subsection, the Secretary of Defense may waive the requirement in paragraph (1)(B) of section 661(c) of this title that the tour of duty in a joint duty assignment be performed after the officer completes a program of education referred to in paragraph (1)(A) of that section. The provisions of subparagraphs (C) and (D) of section 661(c)(3) of this title shall apply to such a waiver in the same manner as to a waiver under subparagraph (A) of that section.
+
+(Added Pub. L. 99–433, title IV, §401(a), Oct. 1, 1986, 100 Stat. 1028; amended Pub. L. 100–180, div. A, title XIII, §1303(a), Dec. 4, 1987, 101 Stat. 1170; Pub. L. 100–456, div. A, title V, §§514, 517(b), Sept. 29, 1988, 102 Stat. 1969, 1971; Pub. L. 104–106, div. A, title V, §501(b), (e), (f), Feb. 10, 1996, 110 Stat. 290, 292.)
+
+#### References in Text
+
+The date of the enactment of this subsection, referred to in subsec. (i)(2)(A), means the date of enactment of Pub. L. 104–106, which was approved Feb. 10, 1996.
 
 #### Amendments
+
+1996—Subsec. (e)(1). Pub. L. 104–106, §501(f), struck out “(after fiscal year 1990)” after “any fiscal year”.
+
+Subsec. (e)(2)(C). Pub. L. 104–106, §501(e)(1), added subpar. (E).
+
+Subsec. (f). Pub. L. 104–106, §501(e)(2)(A), substituted “completion of any of the following:” for “completion of—” in introductory provisions.
+
+Subsec. (f)(1). Pub. L. 104–106, §501(e)(2)(B), (D), substituted “A joint duty” for “a joint duty” and “subsection (a).” for “subsection (a);”.
+
+Subsec. (f)(2). Pub. L. 104–106, §501(e)(2)(B), (D), substituted “A joint duty” for “a joint duty” and “subsection (c).” for “subsection (c);”.
+
+Subsec. (f)(3). Pub. L. 104–106, §501(e)(2)(C), (D), substituted “Cumulative” for “cumulative” and “subsection (g).” for “subsection (g);”.
+
+Subsec. (f)(4). Pub. L. 104–106, §501(e)(2)(B), (D), substituted “A joint duty” for “a joint duty” and “any time).” for “any time); or”.
+
+Subsec. (f)(5). Pub. L. 104–106, §501(e)(2)(B), substituted “A joint duty” for “a joint duty”.
+
+Subsec. (f)(6). Pub. L. 104–106, §501(e)(2)(E), added par. (6).
+
+Subsec. (i). Pub. L. 104–106, §501(b), added subsec. (i).
 
 1988—Subsec. (a)(1). Pub. L. 100–456, §514(1)(A), substituted “two years” for “three years”.
 
@@ -184,7 +246,7 @@ Authority To Give Joint Duty Credit.—(1) The Secretary of Defense, in consulta
 
 Inapplicability of Certain Reporting and Policy Requirements.—(1) Officers for whom joint duty credit is granted pursuant to subsection (a) shall not be counted for the purposes of paragraphs (7), (8), (9), (11), and (12) of section 667 of title 10, United States Code, and subsections (a)(3) and (b) of section 662 of such title.
 
-“(2) In the case of an officer for whom credit for completion of a full tour of duty in a joint duty assignment is granted pursuant to subsection (a), the Secretary of Defense may waive the requirement in paragraph (1)(B) of section 661(c) of title 10, United States Code, that, for purposes of nomination to the joint specialty under chapter 38 of such title, a full tour of duty in a joint duty assignment be performed after the officer completes a program of education referred to in paragraph (1)(A) of that section.
+“(2) In the case of an officer for whom credit for completion of a full tour of duty in a joint duty assignmentis granted pursuant to subsection (a), the Secretary of Defense may waive the requirement in paragraph (1)(B) of section 661(c) of title 10, United States Code, that, for purposes of nomination to the joint specialty under chapter 38 of such title, a full tour of duty in a joint duty assignment be performed after the officer completes a program of education referred to in paragraph (1)(A) of that section.
 
 “(c)
 
@@ -212,7 +274,7 @@ Duration of Authority.—The authority of the Secretary of Defense under this se
 
 #### Length of Joint Duty Assignments
 
-Section 406(e) of Pub. L. 99–433 provided that: “Subsection (a) of section 664 of title 10, United States Code\(as added by section 401), shall apply to officers assigned to joint duty assignments after the end of the 90-day period beginning on the date of the enactment of this Act \[Oct. 1, 1986\]. In computing an average under subsection (b) of such section, only joint duty assignments to which such subsection applies shall be considered.”
+Section 406(e) of Pub. L. 99–433 provided that: “Subsection (a) of section 664 of title 10, United States Code (as added by section 401), shall apply to officers assigned to joint duty assignments after the end of the 90-day period beginning on the date of the enactment of this Act \[Oct. 1, 1986\]. In computing an average under subsection (b) of such section, only joint duty assignments to which such subsection applies shall be considered.”
 
 #### Waiver of Qualifications for Appointment as Service Chief
 
@@ -220,5 +282,5 @@ For waiver of the requirements of this section for the length of a joint duty as
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 154, 164, 619a, 661, 3033, 5033, 5043, 8033 of this title.
+This section is referred to in sections 154, 164, 619a, 661, 667, 3033, 5033, 5043, 8033 of this title.
 

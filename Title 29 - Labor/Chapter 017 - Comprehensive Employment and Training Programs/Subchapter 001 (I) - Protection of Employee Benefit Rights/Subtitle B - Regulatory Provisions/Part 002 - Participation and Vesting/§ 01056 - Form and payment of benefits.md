@@ -20,7 +20,7 @@ If—
 
 &emsp;(2) a participant is separated from the service and has non-forfeitable rights to benefits,
 
-> a plan may not decrease benefits of such a participant by reason of any increase in the benefit levels payable under title II of the Social Security Act \[42 U.S.C. 401 et seq.\] or the Railroad Retirement Act of 1937 \[45 U.S.C. 231 et seq.\] or any increase in the wage base under such title II, if such increase takes place after September 2, 1974, or (if later) the earlier of the date of first entitlement of such benefits or the date of such separation.
+> a plan may not decrease benefits of such a participant by reason of any increase in the benefit levels payable under title II of the Social Security Act \[42 U.S.C. 401 et seq.\] or the RailroadRetirement Act of 1937 \[45 U.S.C. 231 et seq.\] or any increase in the wage base under such title II, if such increase takes place after September 2, 1974, or (if later) the earlier of the date of first entitlement of such benefits or the date of such separation.
 
 #### (c) Forfeiture of accrued benefits derived from employer contributions
 
@@ -80,7 +80,7 @@ No pension plan may provide that any part of a participant's accrued benefit der
 
 &emsp;(I) the date on which the participant is entitled to a distribution under the plan, or
 
-&emsp;(II) the later of the date of the participant attains age 50 or the earliest date on which the participant could begin receiving benefits under the plan if the participant separated from service.
+&emsp;(II) the later of the date of the participant attains age 50 or the earliest date on which theparticipant could begin receiving benefits under the plan if the participant separated from service.
 
 (F) To the extent provided in any qualified domestic relations order—
 
@@ -168,7 +168,7 @@ In the case of a plan covered by subchapter III of this chapter, the plan shall 
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (b), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. TitleII of the Social Security Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (b), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II of the Social Security Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 The Railroad Retirement Act of 1937, referred to in subsec. (b), is act Aug. 29, 1935, ch. 812, 49 Stat. 867, as amended generally by act June 24, 1937, ch. 382, part I, 50 Stat. 307, and which was classified principally to subchapter III (§228a et seq.) of chapter 9 of Title 45, Railroads. The Railroad Retirement Act of 1937 was amended generally and redesignated the Railroad Retirement Act of 1974 by Pub. L. 93–445, title I, Oct. 16, 1974, 88 Stat. 1305. The Railroad Retirement Act of 1974 is classified generally to subchapter IV (§231 et seq.) of chapter 9 of Title 45. For complete classification of these acts to the Code, see Tables.
 
@@ -230,7 +230,7 @@ Section 776(e) of Pub. L. 103–465 provided that: “The provisions of this sec
 
 Amendment by section 7891(a)(1) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 7891(f) of Pub. L. 101–239, set out as a note under section 1002 of this title.
 
-Amendment by section 7894(c)(8) of Pub. L. 101–239 effective, except as otherwise provided, as if originally included in the provision of the Employee Retirement Income Security Act of 1974, Pub. L. 93–406, to which such amendment relates, see section 7894(i) of Pub. L. 101–239, set out as a note under section 1002 of this title.
+Amendment by section 7894(c)(8) of Pub. L. 101–239 effective, except as otherwise provided, as if originally included in the provision of the Employee Retirement Income Security Act of 1974, Pub. L. 93–406, to whichsuch amendment relates, see section 7894(i) of Pub. L. 101–239, set out as a note under section 1002 of this title.
 
 Section 7894(c)(9)(B) of Pub. L. 101–239 provided that: “The amendment made by subparagraph (A) \[amending this section\] shall take effect as if included in section 104 of the Retirement Equity Act of 1984 \[Pub. L. 98–397\].”
 

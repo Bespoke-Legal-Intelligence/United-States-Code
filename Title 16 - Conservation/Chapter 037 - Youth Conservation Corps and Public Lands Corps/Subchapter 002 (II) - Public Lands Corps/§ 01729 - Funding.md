@@ -8,7 +8,7 @@
 
 #### (2) Public Lands Corps projects
 
-&emsp;The Secretary of the Interior and the Secretary of Agriculture are each authorized to accept donations of funds, services, facilities, materials, or equipment for the purposes of operating the Public Lands Corps and carryingout appropriate conservation projects by the Corps. However, nothing in this subchapter shall be construed to require any cost sharing for any project carried out directly by the Corps.
+&emsp;The Secretary of the Interior and the Secretary of Agriculture are each authorized to accept donations of funds, services, facilities, materials, or equipment for the purposes of operating the Public Lands Corps and carrying out appropriate conservation projects by the Corps. However, nothing in this subchapter shall be construed to require any cost sharing for any project carried out directly by the Corps.
 
 #### (b) Funds available under National and Community Service Act
 

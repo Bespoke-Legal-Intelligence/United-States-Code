@@ -12,7 +12,7 @@ The Administrator shall provide overall direction of procurement policy and lead
 
 #### (b) Government-wide procurement regulations
 
-In any instance in which the Administrator determines that the Department of Defense, the National Aeronautics and Space Administration, and the General Services Administration are unable to agree on or fail to issue Government-wide regulations, procedures and forms in a timely manner, including any such regulations, procedures, and forms as are necessary to implement prescribed policy initiated by the Administrator under subsection (a) of this section,,<sup>1</sup> the Administrator shall, with due regard for applicable laws and the program activities of the executive agencies and consistent with the policies and functions set forth in this chapter, prescribe Government-wide regulations, procedures and forms which shall be followed by executive agencies in the procurement of—
+In any instance in which the Administrator determines that the Department of Defense, the National Aeronautics and Space Administration, and the General Services Administration are unable to agree on or fail to issue Government-wide regulations, procedures and forms in a timely manner, including any such regulations, procedures, and forms as are necessary to implement prescribed policy initiated by the Administrator under subsection (a) of this section, the Administrator shall, with due regard for applicable laws and the program activities of the executive agencies and consistent with the policies and functions set forth in this chapter, prescribe Government-wide regulations, procedures and forms which shall be followed by executive agencies in the procurement of—
 
 &emsp;(1) property other than real property in being;
 
@@ -38,31 +38,47 @@ The functions of the Administrator shall include—
 
 &emsp;(3) providing leadership and coordination in the formulation of the executive branch position on legislation relating to procurement;
 
-&emsp;(4)(A) providing for and directing the activities of the computer-based Federal Procurement Data System (including recommending to the Administrator of General Services a sufficient budget for such activities), which shall be located in the General Services Administration, in order to adequately collect, develop, and disseminate procurement data; and
+&emsp;(4)(A) providing for and directing the activities of the computer-based Federal Procurement Data System (including recommending to the Administrator of General Services a sufficient budget for such activities), which shall be located in the General Services Administration, in order to adequately collect,develop, and disseminate procurement data; and
 
 &emsp;(B) ensuring executive agency compliance with the record requirements of section 417 of this title;
 
 &emsp;(5) providing for and directing the activities of the Federal Acquisition Institute (including recommending to the Administrator of General Services a sufficient budget for such activities), which shall be located in the General Services Administration, in order to—
 
-&emsp;&emsp;(A) foster and promote Government-wide career management programs for a professional procurement work force;
+&emsp;&emsp;(A) foster and promote the development of a professional acquisition workforce Government-wide;
 
-&emsp;&emsp;(B) promote and coordinate Government-wide research and studies to improve the procurement process and the laws, policies, methods, regulations, procedures, and forms relating to procurement by the executive agencies; and
+&emsp;&emsp;(B) promote and coordinate Government-wide research and studies to improve the procurement process and the laws, policies, methods, regulations, procedures, and forms relating to acquisition by the executive agencies;
 
-&emsp;&emsp;(C) establish policies and procedures for the establishment and implementation of education and training programs authorized by this chapter, including the establishment and implementation of training, in conjunction with the General Services Administration, for critical procurement personnel designed to increase the participation of small business concerns owned and controlled by socially and economically disadvantaged individuals, women, and other minorities in procurement activities conducted by an executive agency.<sup>2</sup>
+&emsp;&emsp;(C) collect data and analyze acquisition workforce data from the Office of Personnel Management, the heads of executive agencies, and, through periodic surveys, from individual employees;
 
-&emsp;(6) establishing criteria and procedures to ensure the effective and timely solicitation of the viewpoints of interested parties in the development of procurement policies, regulations, procedures, and forms;
+&emsp;&emsp;(D) periodically analyze acquisition career fields to identify critical competencies, duties, tasks, and related academic prerequisites, skills, and knowledge;
 
-&emsp;(7) developing standard contract forms and contract language in order to reduce the Government's cost of procuring property and services and the private sector's cost of doing business with the Government;
+&emsp;&emsp;(E) coordinate and assist agencies in identifying and recruiting highly qualified candidates for acquisition fields;
 
-&emsp;(8) providing for a Government-wide award to recognize and promote vendor excellence;
+&emsp;&emsp;(F) develop instructional materials for acquisition personnel in coordination with private and public acquisition colleges and training facilities;
 
-&emsp;(9) providing for a Government-wide award to recognize and promote excellence in officers and employees of the Federal Government serving in procurement-related positions;
+&emsp;&emsp;(G) evaluate the effectiveness of training and career development programs for acquisition personnel;
 
-&emsp;(10) developing policies, in consultation with the Administrator of the Small Business Administration, that ensure that small businesses, small businesses owned and controlled by socially and economically disadvantaged individuals, and small businesses owned and controlled by women are provided with the maximum practicable opportunities to participate in procurements that are conducted for amounts below the simplified acquisition threshold;
+&emsp;&emsp;(H) promote the establishment and utilization of academic programs by colleges and universities in acquisition fields;
 
-&emsp;(11) developing policies that will promote achievement of goals for participation by small businesses, small businesses owned and controlled by socially and economically disadvantaged individuals, and small business <sup>3</sup> owned and controlled by women; and
+&emsp;&emsp;(I) facilitate, to the extent requested by agencies, interagency intern and training programs; and
 
-&emsp;(12) completing action, as appropriate, on the recommendations of the Commission on Government Procurement.
+&emsp;&emsp;(J) perform other career management or research functions as directed by the Administrator.<sup>1</sup>
+
+&emsp;(6) administering the provisions of section 433 of this title;
+
+&emsp;(7) establishing criteria and procedures to ensure the effective and timely solicitation of the viewpoints of interested parties in the development of procurement policies, regulations, procedures, and forms;
+
+&emsp;(8) developing standard contract forms and contract language in order to reduce the Government's cost of procuring property and services and the private sector's cost of doing business with the Government;
+
+&emsp;(9) providing for a Government-wide award to recognize and promote vendor excellence;
+
+&emsp;(10) providing for a Government-wide award to recognize and promote excellence in officers and employees of the Federal Government serving in procurement-related positions;
+
+&emsp;(11) developing policies, in consultation with the Administrator of the Small Business Administration, that ensure that small businesses, small businesses owned and controlled by socially and economically disadvantaged individuals, and small businesses owned and controlled by women are provided with the maximum practicable opportunities to participate in procurements that are conducted for amounts below the simplified acquisition threshold;
+
+&emsp;(12) developing policies that will promote achievement of goals for participation by small businesses, small businesses owned and controlled by socially and economically disadvantaged individuals, and small businesses owned and controlled by women; and
+
+&emsp;(13) completing action, as appropriate, on the recommendations of the Commission on Government Procurement.
 
 #### (e) Consultation; assistance of existing executive agencies; advisory committees and interagency groups
 
@@ -76,7 +92,7 @@ In carrying out the functions set forth in subsection (d) of this section, the A
 
 #### (f) Oversight of regulations promulgated by other agencies relating to procurement
 
-The Administrator, with the concurrence of the Director of the Office of Management and Budget, and with consultation with the head of the agency or agencies concerned, may deny the promulgation of or rescind any Government-wide regulation or final rule or regulation of any executive agency relating to procurement if the Administrator determines that such rule or regulation is inconsistent with the policies set forth in section 401 of this title or any policies, regulations, or procedures issued pursuant to subsection (a) of this section.
+The Administrator, with the concurrence of the Director of the Office of Management and Budget, and with consultation with the head of the agency or agencies concerned, may deny the promulgation of or rescind any Government-wide regulation or final rule or regulation of any executive agency relating to procurement if the Administrator determines that such rule or regulation is inconsistent with any policies, regulations, or procedures issued pursuant to subsection (a) of this section.
 
 #### (g) Assignment, delegation, or transfer of functions prohibited
 
@@ -86,7 +102,7 @@ Except as otherwise provided by law, no duties, functions, or responsibilities, 
 
 Nothing in this chapter shall be construed to—
 
-&emsp;(1) impair or affect the authorities or responsibilities conferred by the Federal Property and Administrative Services Act of 1949 \[41 U.S.C. 251 et seq.\] with respect to the procurement of automatic data processing and telecommunications equipment and services or of real property; or
+&emsp;(1) impair or affect the authorities or responsibilities conferred by the Federal Property and Administrative Services Act of 1949 \[41 U.S.C. 251 et seq.\] with respect to the procurement of real property; or
 
 &emsp;(2) limit the current authorities and responsibilities of the Director of the Office of Management and Budget.
 
@@ -122,7 +138,7 @@ Nothing in this chapter shall be construed to—
 
 The Administrator shall submit to Congress, on an annual basis, an assessment of the progress made in executive agencies in implementing the policy stated in section 263(a) of this title. The Administrator shall use data from existing management systems in making the assessment.
 
-(Pub. L. 93–400, §6, Aug. 30, 1974, 88 Stat. 797; Pub. L. 96–83, §4, Oct. 10, 1979, 93 Stat. 649; Pub. L. 98–191, §5, Dec. 1, 1983, 97 Stat. 1326; Pub. L. 98–369, div. B, title VII, §2732(b)(1), July 18, 1984, 98 Stat. 1199; Pub. L. 100–679, §3(a), Nov. 17, 1988, 102 Stat. 4055; Pub. L. 103–355, title I, §1091(b)(2), title V, §§5051(b), 5091, title VII, §7108, Oct. 13, 1994, 108 Stat. 3272, 3351, 3361, 3378.)
+(Pub. L. 93–400, §6, Aug. 30, 1974, 88 Stat. 797; Pub. L. 96–83, §4, Oct. 10, 1979, 93 Stat. 649; Pub. L. 98–191, §5, Dec. 1, 1983, 97 Stat. 1326; Pub. L. 98–369, div. B, title VII, §2732(b)(1), July 18, 1984, 98 Stat. 1199; Pub. L. 100–679, §3(a), Nov. 17, 1988, 102 Stat. 4055; Pub. L. 103–355, title I, §1091(b)(2), title V, §§5051(b), 5091, title VII, §7108, Oct. 13, 1994, 108 Stat. 3272, 3351, 3361, 3378; Pub. L. 104–106, div. D, title XLIII, §§4307(b), 4321(h)(1), (2), 4322(a)(1), div. E, title LVI, §5607(d), Feb. 10, 1996, 110 Stat. 668, 675, 677, 702; Pub. L. 104–201, div. A, title X, §1074(f)(1), Sept. 23, 1996, 110 Stat. 2661.)
 
 #### References in Text
 
@@ -130,9 +146,33 @@ The Federal Property and Administrative Services Act of 1949, referred to in sub
 
 #### Amendments
 
+1996—Subsec. (b). Pub. L. 104–106, §4322(a)(1), struck out second comma after “subsection (a) of this section”.
+
+Subsec. (d)(5)(A). Pub. L. 104–106, §4307(b)(2)(A), substituted “the development of a professional acquisition workforce Government-wide” for “Government-wide career management programs for a professional procurement work force”.
+
+Subsec. (d)(5)(B). Pub. L. 104–106, §4307(b)(2)(B)(i), substituted “acquisition by the” for “procurement by the”.
+
+Subsec. (d)(5)(C) to (J). Pub. L. 104–106, §4307(b)(2)(B)(ii), (iii), added subpars. (C) to (J) and struck out former subpar. (C) which read as follows: “establish policies and procedures for the establishment and implementation of education and training programs authorized by this chapter, including the establishment and implementation of training, in conjunction with the General Services Administration, for critical procurement personnel designed to increase the participation of small business concerns owned and controlled by socially and economically disadvantaged individuals, women, and other minorities in procurement activities conducted by an executive agency.”
+
+Subsec. (d)(6). Pub. L. 104–106, §4307(b)(3), added par. (6). Former par. (6) redesignated (7).
+
+Subsec. (d)(7) to (11). Pub. L. 104–106, §4307(b)(1), redesignated pars. (6) to (10) as (7) to (11), respectively. Former par. (11) redesignated (12).
+
+Subsec. (d)(12). Pub. L. 104–106, §4321(h)(2), which directed amendment of section 405(11) of this title by substituting “small businesses” for “small business”, was executed by substituting “small businesses” for “small business” after “individuals, and” in subsec. (d)(12) of this section, to reflect the probable intent of Congress and the redesignation of subsec. (d)(11) as (d)(12) by Pub. L. 104–106, §4307(b)(1). See below.
+
+Pub. L. 104–106, §4307(b)(1), redesignated par. (11) as (12). Former par. (12) redesignated (13).
+
+Subsec. (d)(13). Pub. L. 104–106, §4321(h)(1), which directed transferring par. (12) to end of subsec. (d), was executed by transferring par. (13) to end of subsec. (d) to reflect the probable intent of Congress and the redesignation of par. (12) as (13) by Pub. L. 104–106, §4307(b)(1). See below.
+
+Pub. L. 104–106, §4307(b)(1), redesignated par. (12) as (13).
+
+Subsec. (f). Pub. L. 104–201 struck out “the policies set forth in section 401 of this title or” after “inconsistent with”.
+
+Subsec. (h)(1). Pub. L. 104–106, §5607(d), struck out “of automatic data processing and telecommunications equipment and services or” after “with respect to the procurement”.
+
 1994—Subsec. (d)(5)(C). Pub. L. 103–355, §7108(b), added subpar. (C).
 
-Subsec. (d)(8), (9). Pub. L. 103–355, §5091, redesignated par. (8) as (12) and directed adding pars. (8) and (9) at end which was executed by adding pars. (8) and (9) after par. (7) to reflect probable intent of Congress.
+Subsec. (d)(8), (9). Pub. L. 103–355, §5091, added pars. (8) and (9) at end. Former par. (8) redesignated (12).
 
 Subsec. (d)(10), (11). Pub. L. 103–355, §7108(a), added pars. (10) and (11).
 
@@ -169,6 +209,12 @@ Subsec. (d). Pub. L. 96–83, §4(c), substituted provisions setting forth the r
 Subsec. (e). Pub. L. 96–83, §4(d), substituted provisions relating to consultation functions of the Administrator with respect to the development and implementation of the uniform procurement system, for provisions relating to the consultation functions of the Administrator with respect to the development of policies, regulations, procedures and forms to be authorized or prescribed by such Administrator.
 
 Subsecs. (h) to (j). Pub. L. 96–83, §4(e), added subsecs. (h) to (j).
+
+#### Effective Date of 1996 Amendment
+
+For effective date and applicability of amendment by sections 4307(b), 4321(h)(1), (2), and 4322(a)(1) of Pub. L. 104–106, see section 4401 of Pub. L. 104–106, set out as a note under section 251 of this title.
+
+Amendment by section 5607(d) of Pub. L. 104–106 effective 180 days after Feb. 10, 1996, see section 5701 of Pub. L. 104–106, set out as an Effective Date note under section 1401 of Title 40, Public Buildings, Property, and Works.
 
 #### Effective Date of 1994 Amendment
 
@@ -276,7 +322,7 @@ Section 10004 of Pub. L. 103–355 provided that:
 
 “(a)
 
-Data Collection Required.—The Federal Procurement Data System described in section 6(d)(4)(A) ofthe Office of Federal Procurement Policy Act (41 U.S.C. 405(d)(4)(A)) shall be modified to collect from contracts in excess of the simplified acquisition threshold data identifying the following matters:
+Data Collection Required.—The Federal Procurement Data System described in section 6(d)(4)(A) of the Office of Federal Procurement Policy Act (41 U.S.C. 405(d)(4)(A)) shall be modified to collect from contracts in excess of the simplified acquisition threshold data identifying the following matters:
 
 &emsp;“(1) Contract awards made pursuant to competitions conducted pursuant to section 2323 of title 10, United States Code, or section 7102 of the Federal Acquisition Streamlining Act of 1994 \[Pub. L. 103–355, 15 U.S.C. 644 note\].
 
@@ -306,11 +352,7 @@ Contractors’ Financial Data.—The methodology developed under subsection (a) 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 407, 408, 417, 421, 422, 423 of this title; title 18 section 4124; title 31 section 6202; title 50 App. 2154.
+This section is referred to in sections 408, 417, 421, 422 of this title; title 18 section 4124; title 31 section 6202; title 50 App. 2154.
 
-<i><sup>1</sup></i><i> So in original.</i>
-
-<i><sup>2</sup></i><i> So in original. The period probably should be a semicolon.</i>
-
-<i><sup>3</sup></i><i> So in original. Probably should be “businesses”.</i>
+<i><sup>1</sup></i><i> So in original. The period probably should be a semicolon.</i>
 

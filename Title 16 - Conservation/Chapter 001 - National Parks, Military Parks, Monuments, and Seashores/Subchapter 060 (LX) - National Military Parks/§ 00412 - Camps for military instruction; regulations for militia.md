@@ -12,5 +12,5 @@ Department of War designated Department of the Army and title of Secretary of Wa
 
 #### Secretary of the Air Force
 
-For transfer of certain functions, personnel and property, insofar as they pertain to Air Force, from Secretary of the Army and Department of the Army toSecretary of the Air Force and Department of the Air Force, see Secretary of Defense Transfer Order Nos. 1, Sept. 26, 1947; 10, Apr. 27, 1948; and 40 \[App. B(65)\], July 22, 1949.
+For transfer of certain functions, personnel and property, insofar as they pertain to Air Force, from Secretary of the Army and Department of the Army to Secretary of the Air Force and Department of the Air Force, see Secretary of Defense Transfer Order Nos. 1, Sept. 26, 1947; 10, Apr. 27, 1948; and 40 \[App. B(65)\], July 22, 1949.
 

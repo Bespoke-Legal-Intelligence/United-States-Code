@@ -28,29 +28,29 @@ The Secretary is authorized, subject to the requirements of section 3412(f) of t
 
 &emsp;(G) the Office of Consumers’ Education;
 
-&emsp;(H) the Office of Libraries and Learning Resources;
+&emsp;(H) the Office of Indian Education;
 
-&emsp;(I) the Office of Indian Education;
+&emsp;(I) the Office of Career Education;
 
-&emsp;(J) the Office of Career Education;
+&emsp;(J) the Office of Non-Public Education;
 
-&emsp;(K) the Office of Non-Public Education;
+&emsp;(K) the bureau for the education and training for the handicapped; and
 
-&emsp;(L) the bureau for the education and training for the handicapped; and
-
-&emsp;(M) the administrative units for guidance and counseling programs, the veterans’ cost of instruction program, and the program for the gifted and talented children.
+&emsp;(L) the administrative units for guidance and counseling programs, the veterans’ cost of instruction program, and the program for the gifted and talented children.
 
 (2) The Secretary may alter, consolidate, or discontinue any organizational entity continued within the Department and described in paragraph (1) of this subsection or reallocate any function vested by statute in such an entity, upon the expiration of a period of ninety days after the receipt by the Committee on Labor and Human Resources of the Senate and the Committee on Education and Labor of the House of Representatives of notice given by the Secretary containing a full and complete statement of the action proposed to be taken pursuant to this subsection and the facts and circumstances relied upon in support of such proposed action.
 
-(Pub. L. 96–88, title IV, §413, Oct. 17, 1979, 93 Stat. 684; Pub. L. 96–496, title II, §202, Dec. 4, 1980, 94 Stat. 2593.)
+(Pub. L. 96–88, title IV, §413, Oct. 17, 1979, 93 Stat. 684; Pub. L. 96–496, title II, §202, Dec. 4, 1980, 94 Stat. 2593; Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §709(c)\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–313.)
 
 #### Amendments
+
+1996—Subsec. (b)(1)(H) to (M). Pub. L. 104–208 redesignated subpars. (I) to (M) as (H) to (L), respectively, and struck out former subpar. (H) which authorized Secretary to consolidate, alter, discontinue, or reallocate any functions vested by statute in Office of Libraries and Learning Resources.
 
 1980—Subsec. (b)(1). Pub. L. 96–496 redesignated subpar. (N) as (M) and struck out former subpar. (M), which authorized the Secretary to reallocate the functions or to alter or discontinue the Institute of Museum Services.
 
 #### Change of Name
 
-Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Economic and Educational Opportunities of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Fifth Congress, Jan. 7, 1997.
 
 #### National Institute of Education
 

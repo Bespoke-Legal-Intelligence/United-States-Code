@@ -30,7 +30,7 @@ Funds withheld on or before september 30, 1988.—Any funds withheld under this 
 
 &emsp;&emsp;&emsp;(i) If such funds would have been apportioned under section 104(b)(5)(A) of this title but for this section, such funds shall remain available until the end of the fiscal year for which such funds are authorized to be appropriated.
 
-&emsp;&emsp;&emsp;(ii) If such funds would have been apportioned under section 104(b)(5)(B) of this title but for this section, such funds shallremain available until the end of the second fiscal year following the fiscal year for which such funds are authorized to be appropriated.
+&emsp;&emsp;&emsp;(ii) If such funds would have been apportioned under section 104(b)(5)(B) of this title but for this section, such funds shall remain available until the end of the second fiscal year following the fiscal year for which such funds are authorized to be appropriated.
 
 &emsp;&emsp;&emsp;(iii) If such funds would have been apportioned under section 104(b)(1), 104(b)(2), or 104(b)(6) of this title but for this section, such funds shall remain available until the end of the third fiscal year following the fiscal year for which such funds are authorized to be appropriated.
 

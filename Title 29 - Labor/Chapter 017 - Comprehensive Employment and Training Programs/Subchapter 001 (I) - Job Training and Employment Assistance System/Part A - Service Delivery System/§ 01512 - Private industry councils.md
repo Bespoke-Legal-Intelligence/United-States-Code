@@ -60,7 +60,7 @@ The initial number of members of the council shall be determined—
 
 #### (f) Terms of office; removal for cause
 
-Members shall be appointed for fixed and staggered terms and may serve until their successors are appointed. Any vacancy in the membership of the council shall be filled in the samemanner as the original appointment. Any member of the council may be removed for cause in accordance with procedures established by the council.
+Members shall be appointed for fixed and staggered terms and may serve until their successors are appointed. Any vacancy in the membership of the council shall be filled in the same manner as the original appointment. Any member of the council may be removed for cause in accordance with procedures established by the council.
 
 #### (g) Certification
 
@@ -78,7 +78,7 @@ In any case in which the service delivery area is a State, the State job trainin
 
 Subsec. (c)(2). Pub. L. 102–367, §112(a)(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Education representatives on the council shall be selected from among individuals nominated by local educational agencies, vocational education institutions, institutions of higher education, or general organizations of such agencies or institutions, and by private and proprietary schools or general organizations of such schools, within the service delivery area.”
 
-Subsec. (c)(3). Pub. L. 102–367, §112(a)(3), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The remaining members of the council shall be selected from individuals recommended by interested organizations. Labor representatives shall be recommended by recognized State and local labor organizations or appropriate building trades councils.”
+Subsec. (c)(3). Pub. L. 102–367, §112(a)(3), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The remaining members of the council shall beselected from individuals recommended by interested organizations. Labor representatives shall be recommended by recognized State and local labor organizations or appropriate building trades councils.”
 
 Subsec. (c)(4). Pub. L. 102–367, §112(a)(4), added par. (4).
 

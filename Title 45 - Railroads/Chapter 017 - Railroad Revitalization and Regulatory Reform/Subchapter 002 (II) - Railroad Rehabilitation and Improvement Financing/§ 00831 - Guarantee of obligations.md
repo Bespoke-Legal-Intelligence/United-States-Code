@@ -32,7 +32,7 @@ No obligation shall be guaranteed and no commitment shall be made to guarantee a
 
 &emsp;(2) payment of the obligation is required by its terms to be made within 25 years from the date of its execution;
 
-&emsp;(3) the financing or refinancing is justified by the present and probable future demand forrail services or high-speed rail services to be rendered by the applicant and will serve to meet demonstrable needs for rail services or high-speed rail services and to provide shippers or passengers with improved service;
+&emsp;(3) the financing or refinancing is justified by the present and probable future demand for rail services or high-speed rail services to be rendered by the applicant and will serve to meet demonstrable needs for rail services or high-speed rail services and to provide shippers or passengers with improved service;
 
 &emsp;(4) the applicant has given reasonable assurances that the facilities or equipment to be acquired, rehabilitated, improved, developed, or established with the proceeds of the obligation will be economically and efficiently utilized;
 
@@ -86,7 +86,7 @@ The Secretary shall charge and collect from each applicant such amounts as he de
 
 #### (<i>l</i>) Premium charge
 
-The Secretary shall assess and collect from the obligor an annual premium charge on each obligation guaranteed under this section. The amount of such premium may not exceed an annual rate of 1 percent on the unpaid principal balance of such obligation at the time paymentis due. Payment is due initially when the obligation is guaranteed by the Secretary, and, thereafter, on the anniversary date of such guarantee.
+The Secretary shall assess and collect from the obligor an annual premium charge on each obligation guaranteed under this section. The amount of such premium may not exceed an annual rate of 1 percent on the unpaid principal balance of such obligation at the time payment is due. Payment is due initially when the obligation is guaranteed by the Secretary, and, thereafter, on the anniversary date of such guarantee.
 
 #### (m) Administrative costs
 
@@ -94,7 +94,7 @@ All moneys received by the Secretary under this section shall be deposited in th
 
 #### (n) “High-speed rail” defined
 
-As used in this section, the term “high-speed rail” means all forms of nonhighway ground transportation that run on rails providing transportation service which is—
+As used in this section, the term “high-speed rail” means all forms of nonhighway groundtransportation that run on rails providing transportation service which is—
 
 &emsp;(1) reasonably expected to reach sustained speeds of more than 125 miles per hour; and
 
@@ -138,7 +138,7 @@ Subsec. (c). Pub. L. 94–555, §215(a), substituted provisions relating to full
 
 Subsec. (g). Pub. L. 94–555, §220(f), redesignated subsec. (h) as (g) and substituted “Prerequisites for guarantees” for “Prequisites for guarantees” after “(g)”. Former subsec. (g), which related to publication in the Federal Register of notice of application for the guarantee of an obligation and invitation for public comments on such application, was struck out by Pub. L. 94–555, §215(d).
 
-Subsec. (g)(1). Pub. L. 94–555, §215(b)(1), inserted “(A)” after “is secured” and “, or (B) in the case of the rehabilitation or improvement of leased equipment, by the lease” after “by such obligation”.
+Subsec. (g)(1). Pub. L. 94–555, §215(b)(1), inserted “(A)” after “is secured” and “, or (B) in the case of the rehabilitation or improvement of leased equipment, by the lease” after “by such obligation”.
 
 Subsec. (g)(5). Pub. L. 94–555, §215(b)(2), substituted provisions relating to the prospective earning power of applicant or value and prospective earning power of equipment and facilities, alone or in combination, as a prerequisite for guarantees for provisions dealing only with probable value of equipment and facilities to be improved, acquired, or rehabilitated, and inserted exception that if prospective earning power of facilities and equipment is greater than amount of obligation guaranteed, Secretary may not find lack of security and protection on basis of absence of prospective earning power of applicant.
 
@@ -162,9 +162,9 @@ Amendment by Pub. L. 96–448 effective Oct. 1, 1980, see section 710(a) of Pub.
 
 Amendment by Pub. L. 94–555 effective Oct. 1, 1976, see section 303 of Pub. L. 94–555, set out as a note under section 702 of this title.
 
-#### Annual Report on Application of This Section to High-Speed Rail Facilities and Equipment
+#### Report on Application of This Section to High-Speed Rail Facilities and Equipment
 
-Section 1036(f) of Pub. L. 102–240 provided that: “The Comptroller General, within 2 years after the date of the enactment of this Act \[Dec. 18, 1991\], and annually thereafter, shall analyze the effectiveness of the application of section 511 of the Railroad Revitalization and Regulatory Reform Act of 1976 \[45 U.S.C. 831\] to high-speed rail facilities and equipment, and report the results of such analysis to the Committee on Energy and Commerce \[now Committee on Commerce\] of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate.”
+Section 1036(f) of Pub. L. 102–240, as amended by Pub. L. 104–316, title I, §124, Oct. 19, 1996, 110 Stat. 3839, directed Comptroller General, within 2 years after Dec. 18, 1991, to analyze effectiveness of application of thissection to high-speed rail facilities and equipment, and report results of such analysis to Congress.
 
 #### Loan Guarantees for Second Rail Carrier Serving Powder River Coal Region; Chicago and North Western Connector Line; Use of Agricultural Lands; Private Grade Crossings; Claims; Judicial Review; Expedited Hearings
 

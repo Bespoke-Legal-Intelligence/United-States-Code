@@ -10,7 +10,7 @@ It shall be unlawful for any person to knowingly sell, buy, transport, or delive
 
 #### (c) Use of Postal Service or other interstate instrumentality for promoting or furthering animal fighting venture
 
-It shall be unlawful for any person to knowingly use the mail service of the United States Postal Service or any interstate instrumentality for purposes of promoting or in any other manner furthering an animal fighting venture except as performed outside the limits of the States of the United States.
+It shall be unlawful for any person to knowingly use the mail service of the United States Postal Service or any interstate instrumentality for purposes of promoting or in any othermanner furthering an animal fighting venture except as performed outside the limits of the States of the United States.
 
 #### (d) Violation of State law
 

@@ -10,6 +10,10 @@ The activities of Eisenhower Exchange Fellowships, Incorporated, may be audited 
 
 (Pub. L. 101–454, §4, Oct. 24, 1990, 104 Stat. 1064.)
 
+#### Use of Earned Unused Trust Income for Fellowship Purposes
+
+Pub. L. 104–134, title I, §101\[(a)\] \[title IV, §407\], Apr. 26, 1996, 110 Stat. 1321, 1321–45; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327, provided in part that: “notwithstanding any other provision of law, Eisenhower Exchange Fellowships, Incorporated, may use one-third of any earned but unused trust income from the period 1992 through 1995 for Fellowship purposes in each of fiscal years 1996 through 1998.”
+
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 5205, 5206 of this title.

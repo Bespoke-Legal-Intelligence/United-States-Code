@@ -60,7 +60,7 @@ Section 1007 of Pub. L. 102–511 directed Secretary of the Treasury, using info
 
 #### Ex. Ord. No. 12884. Delegation of Functions Under Freedom Support Act and Related Provisions of Foreign Operations, Export Financing and Related Programs Appropriations Act
 
-Ex. Ord. No. 12884, Dec. 1, 1993, 58 F.R. 64099, provided:
+Ex. Ord. No. 12884, Dec. 1, 1993, 58 F.R. 64099, as amended by Ex. Ord. No. 13030, §3, Dec. 12, 1996, 61 F.R. 66187, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including the FREEDOM Support Act (Public Law 102–511) (the “Act”) \[22 U.S.C. 5801 et seq.\], the Foreign Assistance Act of 1961, as amended (the “Foreign Assistance Act”) \[22 U.S.C. 2151 et seq.\], the Foreign Operations, Export Financing and Related Programs Appropriations Act, 1993 (Public Law 102–391) \[see Tables for classification\], and section 301 of title 3, United States Code, it is hereby ordered as follows:
 
@@ -68,7 +68,7 @@ Section 1. <i>Secretary of State</i>. (a) There are delegated to the Secretary o
 
 &emsp;(1) section 907 of the Act \[set out above\];
 
-&emsp;(2) paragraphs (1), (2), and (3) of section 498A(b) of the Foreign Assistance Act \[22 U.S.C. 2295a(b)(1), (2), (3)\];
+&emsp;(2) paragraphs (1), (2), (3), and (5) of section 498A(b) of the Foreign Assistance Act \[22 U.S.C. 2295a(b)(1), (2), (3), (5)\];
 
 &emsp;(3) paragraph (1) of section 498A(C) of the Foreign Assistance Act \[22 U.S.C. 2295a(c)(1)\] and the requirement to make reports under that section regarding determinations under that paragraph; and
 

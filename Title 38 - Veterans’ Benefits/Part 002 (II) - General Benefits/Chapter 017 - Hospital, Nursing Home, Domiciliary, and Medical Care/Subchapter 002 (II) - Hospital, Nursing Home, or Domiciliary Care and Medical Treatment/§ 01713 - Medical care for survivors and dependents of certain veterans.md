@@ -10,9 +10,9 @@
 
 > who are not otherwise eligible for medical care under chapter 55 of title 10 (CHAMPUS).
 
-(b) In order to accomplish the purposes of subsection (a) of this section, the Secretary shall provide for medical care in the same or similar manner and subject to the same or similar limitations as medical care is furnished to certain dependents and survivors of active duty and retired members of the Armed Forces under chapter 55 of title 10 (CHAMPUS), by—
+(b) In order to accomplish the purposes of subsection (a) of this section, the Secretary shall provide for medical care in the same or similar manner and subject to the same or similar limitations as medical care is furnished to certaindependents and survivors of active duty and retired members of the Armed Forces under chapter 55 of title 10 (CHAMPUS), by—
 
-&emsp;(1) entering into an agreement with the Secretary of Defense under which that Secretaryshall include coverage for such medical care under the contract, or contracts, that Secretary enters into to carry out such chapter 55, and under which the Secretary of Veterans Affairs shall fully reimburse the Secretary of Defense for all costs and expenditures made for the purposes of affording the medical care authorized pursuant to this section; or
+&emsp;(1) entering into an agreement with the Secretary of Defense under which that Secretary shall include coverage for such medical care under the contract, or contracts, that Secretary enters into to carry out such chapter 55, and under which the Secretary of Veterans Affairs shall fully reimburse the Secretary of Defense for all costs and expenditures made for the purposes of affording the medical care authorized pursuant to this section; or
 
 &emsp;(2) contracting in accordance with such regulations as the Secretary shall prescribe for such insurance, medical service, or health plans as the Secretary deems appropriate.
 
@@ -22,7 +22,7 @@
 
 (d) Notwithstanding section 1086(d)(1) of title 10 or any other provision of law, any spouse, surviving spouse, or child who, after losing eligibility for medical care under this section by virtue of becoming entitled to hospital insurance benefits under part A of title XVIII of the Social Security Act (42 U.S.C. 1395c et seq.), has exhausted any such benefits shall become eligible for medical care under this section and shall not thereafter lose such eligibility under this section by virtue of becoming again eligible for such hospital insurance benefits.
 
-(Added Pub. L. 93–82, title I, §103(b), Aug. 2, 1973, 87 Stat. 181, §613; amended Pub. L. 94–581, title I, §104, title II, §210(a)(4), Oct. 21, 1976, 90 Stat. 2845, 2862; Pub. L. 96–151, title II, §205(a), Dec. 20, 1979, 93 Stat. 1094; Pub. L. 97–72, title I, §105, Nov. 3, 1981, 95 Stat. 1050; Pub. L. 97–251, §5(a), Sept. 8, 1982, 96 Stat. 716; renumbered §1713 and amended Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(B), (E), 5(a), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–190, title VII, §704(b)(2), Dec. 5, 1991, 105 Stat. 1402.)
+(Added Pub. L. 93–82, title I, §103(b), Aug. 2, 1973, 87 Stat. 181, §613; amended Pub. L. 94–581, title I, §104, title II, §210(a)(4), Oct. 21, 1976, 90 Stat. 2845, 2862; Pub. L. 96–151, title II, §205(a), Dec. 20, 1979, 93 Stat. 1094; Pub. L. 97–72, title I, §105, Nov. 3, 1981, 95 Stat. 1050; Pub. L. 97–251, §5(a), Sept. 8, 1982, 96 Stat. 716; renumbered §1713 and amended Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(B), (E), 5(a), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–190, div. A, title VII, §704(b)(2), Dec. 5, 1991, 105 Stat. 1402.)
 
 #### References in Text
 

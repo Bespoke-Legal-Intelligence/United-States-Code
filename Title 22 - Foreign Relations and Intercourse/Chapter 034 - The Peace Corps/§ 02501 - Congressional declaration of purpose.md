@@ -64,7 +64,7 @@ Peace Corps
 
 1–105. The functions of prescribing regulations and making determinations (relating to appointment of Peace Corps employees in the Foreign Service System), conferred upon the President by Section 5 of Public Law 89–135 (79 Stat. 551) \[probably means section 5(b) of Pub. L. 89–134, Aug. 24, 1965, 79 Stat. 551, set out as a note under section 2506 of this title\], are hereby delegated to the Director.
 
-1–106. The functions of prescribing conditions, conferred upon the President by the second sentence of Section 5(e), as amended (22 U.S.C. 2504(e)), and the third proviso of Section 6 of the Act (22 U.S.C. 2505) (relating to providing health care in Government facilities) and hereinabove delegated to the Director, shall be exercised in consultation with the head of the United States Government agency responsible for the facility.
+1–106. The functions of prescribing conditions, conferred upon the President by the second sentence of Section 5(e), as amended (22 U.S.C. 2504(e)), and thethird proviso of Section 6 of the Act (22 U.S.C. 2505) (relating to providing health care in Government facilities) and hereinabove delegated to the Director, shall be exercised in consultation with the head of the United States Government agency responsible for the facility.
 
 1–107. The reports required by Section 11 of the Act, as amended (22 U.S.C. 2510), shall be prepared by the Director and submitted to the Congress through the President.
 
@@ -158,7 +158,7 @@ General Provisions
 
 #### Executive Order No. 12468
 
-Ex. Ord. No. 12468, Mar. 22, 1984, 49 F.R. 11139, which established the Presidential Advisory Council on the Peace Corps and provided for its membership, functions, etc., was revoked by Ex. Ord. No. 12534, Sept. 30, 1985, 50 F.R. 40319, formerly set out as a note under section 14 of the Federal Advisory Committee Act in theAppendix to Title 5, Government Organization and Employees.
+Ex. Ord. No. 12468, Mar. 22, 1984, 49 F.R. 11139, which established the Presidential Advisory Council on the Peace Corps and provided for its membership, functions, etc., was revoked by Ex. Ord. No. 12534, Sept. 30, 1985, 50 F.R. 40319, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 
 #### Section Referred to in Other Sections
 

@@ -29,6 +29,12 @@
 | (a) | Seminars. |
 | (b) | Study of risk management training program. |
 | [3310\.](%C2%A7%2003310%20-%20Establishment%20of%20Appraisal%20Subcommittee.md) | Establishment of Appraisal Subcommittee. |
+| [3311\.](%C2%A7%2003311%20-%20Required%20review%20of%20regulations.md) | Required review of regulations. |
+| (a) | In general. |
+| (b) | Process. |
+| (c) | Complete review. |
+| (d) | Regulatory response. |
+| (e) | Report to Congress. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -51,3 +57,4 @@ This chapter is referred to in title 42 section 4012a.
 - [&sect; 03308 - Access to books, accounts, records, etc., by Council](%C2%A7%2003308%20-%20Access%20to%20books%2C%20accounts%2C%20records%2C%20etc.%2C%20by%20Council.md)
 - [&sect; 03309 - Risk management training](%C2%A7%2003309%20-%20Risk%20management%20training.md)
 - [&sect; 03310 - Establishment of Appraisal Subcommittee](%C2%A7%2003310%20-%20Establishment%20of%20Appraisal%20Subcommittee.md)
+- [&sect; 03311 - Required review of regulations](%C2%A7%2003311%20-%20Required%20review%20of%20regulations.md)

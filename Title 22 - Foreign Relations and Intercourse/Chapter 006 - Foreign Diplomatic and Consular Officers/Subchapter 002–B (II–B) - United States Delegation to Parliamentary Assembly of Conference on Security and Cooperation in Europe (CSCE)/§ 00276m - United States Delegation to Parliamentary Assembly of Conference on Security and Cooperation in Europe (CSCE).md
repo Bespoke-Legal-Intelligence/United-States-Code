@@ -16,7 +16,7 @@ For each meeting of the CSCE Assembly, there shall be appointed a United States 
 
 &emsp;(1) In 1992 and every even-numbered year thereafter, 9 Members shall be appointed by the Speaker of the House from Members of the House (not less than 4 of whom, including the Chairman of the United States Delegation, shall be from the Committee on Foreign Affairs); and 8 Members shall, upon recommendations of the Majority and Minority leaders of the Senate, be appointed by the President Pro Tempore of the Senate from Members of the Senate (not less than 4 of whom, including the Vice Chairman of the United States Delegation, shall be from the Committee on Foreign Relations, unless the President Pro Tempore of the Senate, upon recommendations of the Majority and Minority leaders of the Senate, determines otherwise).
 
-&emsp;(2) In every odd-numbered year beginning in 1993, 9 Members shall, upon recommendation of the Majority and Minority Leaders <sup>1</sup> of the Senate, be appointed by the President Pro Tempore of the Senate from Members of the Senate (not less than 4 of whom, including the Chairman of the United States Delegation, shall be from the Committee on Foreign Relations, unless the President Pro Tempore of the Senate, upon recommendations of the Majority and Minority leaders of the Senate, determines otherwise); and 8 Members shall be appointed by the Speaker of the House from Members of the House (not less than 4 of whom, including the Vice Chairman, shall be from the Committee on Foreign Affairs).
+&emsp;(2) In every odd-numbered year beginning in 1993, 9 Members shall, upon recommendation of the Majority and Minority Leaders <sup>1</sup> of the Senate, be appointed by the President Pro Tempore of the Senate from Members of the Senate (not less than 4 of whom, including the Chairman of the United States Delegation,shall be from the Committee on Foreign Relations, unless the President Pro Tempore of the Senate, upon recommendations of the Majority and Minority leaders of the Senate, determines otherwise); and 8 Members shall be appointed by the Speaker of the House from Members of the House (not less than 4 of whom, including the Vice Chairman, shall be from the Committee on Foreign Affairs).
 
 #### (c) Administrative support
 
@@ -41,4 +41,8 @@ The United States Delegation shall, for each fiscal year for which an appropriat
 #### Change of Name
 
 Committee on Foreign Affairs of House of Representatives treated as referring to Committee on International Relations of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+
+#### Ex. Ord. No. 13029. Change of Name of Conference on Security and Cooperation in Europe
+
+Ex. Ord. No. 13029, Dec. 3, 1996, 61 F.R. 64591, provided in part that effective Jan. 1, 1995, the Conference on Security and Cooperation in Europe would be called the Organization for Security and Cooperation in Europe.
 

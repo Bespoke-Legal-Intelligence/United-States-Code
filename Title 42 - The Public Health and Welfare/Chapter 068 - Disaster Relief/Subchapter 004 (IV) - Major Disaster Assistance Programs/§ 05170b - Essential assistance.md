@@ -46,7 +46,7 @@ The Federal share of assistance under this section shall be not less than 75 per
 
 #### (1) General rule
 
-&emsp;During the immediate aftermath of an incident which may ultimately qualify for assistance under this subchapter or subchapter IV-A of this chapter, the Governor of the State in which such incident occurred may request the President to direct the Secretary of Defense to utilize the resources of the Department of Defense for the purpose of performing on public and private lands any emergency work which is made necessary by such incident and which is essential for the preservation of life and property. If the President determines that such work is essential for the preservation of life and property, the President shall grant such request to the extent the President determines practicable. Such emergency work may only be carried out for a period not to exceed 10 days.
+&emsp;During the immediate aftermath of an incident which may ultimately qualify for assistance under this subchapter or subchapter IV-A of this chapter, the Governor of the State in which such incident occurred may request the President to direct the Secretary of Defense to utilize the resources of the Department of Defense for the purpose of performing on public and private lands any emergency work which is made necessary by such incident and which is essential for the preservation of life and property. If the President determines that such work is essential for the preservation of life and property, the President shall grantsuch request to the extent the President determines practicable. Such emergency work may only be carried out for a period not to exceed 10 days.
 
 #### (2) Rules applicable to debris removal
 

@@ -40,7 +40,7 @@
 
 #### (b) Secretary of Labor
 
-Upon the establishment of the Program, the Secretary of Labor shall identify and assist in establishing a system for the recruitment of persons to serve as members of the Civilian Community Corps. In carrying out this subsection, the Secretary of Labor may utilize the Employment Service Agency or the Office of Job Training.
+Upon the establishment of the Program, the Secretary of Labor shall identify and assist inestablishing a system for the recruitment of persons to serve as members of the Civilian Community Corps. In carrying out this subsection, the Secretary of Labor may utilize the Employment Service Agency or the Office of Job Training.
 
 (Pub. L. 101–610, title I, §162, formerly §195K, as added Pub. L. 102–484, div. A, title X, §1092(a)(1), Oct. 23, 1992, 106 Stat. 2531; renumbered §162 and amended Pub. L. 103–82, title I, §104(b), (e)(2)(G), title IV, §402(b)(2), Sept. 21, 1993, 107 Stat. 840, 847, 919; Pub. L. 103–304, §3(b)(5)(C), Aug. 23, 1994, 108 Stat. 1567.)
 

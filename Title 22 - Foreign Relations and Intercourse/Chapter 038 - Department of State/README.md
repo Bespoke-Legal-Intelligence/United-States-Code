@@ -14,7 +14,7 @@
 | (a) | Establishment of position. |
 | (b) | Appointment. |
 | (c) | Repealed. |
-| (d) | Repealed and omitted. |
+| (d) | Repealed and Omitted. |
 | (e) | Implementation. |
 | 2653 to 2655. Repealed. |  |
 | [2655a.](%C2%A7%2002655a%20-%20Bureau%20of%20Oceans%20and%20International%20Environmental%20and%20Scientific%20Affairs%20within%20Department%20of%20State%3B%20Assistant%20Secretary%20of%20State%20as%20head%E2%80%A6.md) | Bureau of Oceans and International Environmental and Scientific Affairs within Department of State; Assistant Secretary of State as head of Bureau. |
@@ -136,6 +136,7 @@
 | [2695a.](%C2%A7%2002695a%20-%20Foreign%20language%20services.md) | Foreign language services. |
 | (a) | Surcharge for certain foreign language services. |
 | (b) | Use of funds. |
+| [2695b.](%C2%A7%2002695b%20-%20Cost%20of%20presence%20of%20departments%20and%20agencies%20outside%20United%20States.md) | Cost of presence of departments and agencies outside United States. |
 | [2696\.](%C2%A7%2002696%20-%20Nondiscretionary%20personnel%20costs%2C%20currency%20fluctuations%2C%20and%20other%20contingencies.md) | Nondiscretionary personnel costs, currency fluctuations, and other contingencies. |
 | (a) | Additional appropriations. |
 | (b) | Appropriations authorization based on currency fluctuations. |
@@ -318,6 +319,7 @@
 - [&sect; 02694 - Limitation on purchase of gifts for foreign individuals; report to Speaker of the House and chairman of the Committee on Foreign Relations&#8230;](%C2%A7%2002694%20-%20Limitation%20on%20purchase%20of%20gifts%20for%20foreign%20individuals%3B%20report%20to%20Speaker%20of%20the%20House%20and%20chairman%20of%20the%20Committee%20on%20Foreign%20Relations%E2%80%A6.md)
 - [&sect; 02695 - Administrative services](%C2%A7%2002695%20-%20Administrative%20services.md)
 - [&sect; 02695a - Foreign language services](%C2%A7%2002695a%20-%20Foreign%20language%20services.md)
+- [&sect; 02695b - Cost of presence of departments and agencies outside United States](%C2%A7%2002695b%20-%20Cost%20of%20presence%20of%20departments%20and%20agencies%20outside%20United%20States.md)
 - [&sect; 02696 - Nondiscretionary personnel costs, currency fluctuations, and other contingencies](%C2%A7%2002696%20-%20Nondiscretionary%20personnel%20costs%2C%20currency%20fluctuations%2C%20and%20other%20contingencies.md)
 - [&sect; 02697 - Acceptance of gifts on behalf of United States](%C2%A7%2002697%20-%20Acceptance%20of%20gifts%20on%20behalf%20of%20United%20States.md)
 - [&sect; 02698 - Procurement of legal services](%C2%A7%2002698%20-%20Procurement%20of%20legal%20services.md)

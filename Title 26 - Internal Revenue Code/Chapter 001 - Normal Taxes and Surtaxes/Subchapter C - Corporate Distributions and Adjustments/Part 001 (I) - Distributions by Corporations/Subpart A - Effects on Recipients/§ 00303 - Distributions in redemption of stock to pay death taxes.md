@@ -34,7 +34,7 @@ A distribution of property to a shareholder by a corporation in redemption of pa
 
 #### (B) Special rule for stock of two or more corporations
 
-&emsp;&emsp;For purposes of subparagraph (A), stock of 2 or more corporations, with respect to each of which there is included in determiningthe value of the decedent's gross estate 20 percent or more in value of the outstanding stock, shall be treated as the stock of a single corporation. For purposes of the 20-percent requirement of the preceding sentence, stock which, at the decedent's death, represents the surviving spouse's interest in property held by the decedent and the surviving spouse as community property or as joint tenants, tenants by the entirety, or tenants in common shall be treated as having been included in determining the value of the decedent's gross estate.
+&emsp;&emsp;For purposes of subparagraph (A), stock of 2 or more corporations, with respect to each of which there is included in determining the value of the decedent's gross estate 20 percent or more in value of the outstanding stock, shall be treated as the stock of a single corporation. For purposes of the 20-percent requirement of the preceding sentence, stock which, at the decedent's death, represents the surviving spouse's interest in property held by the decedent and the surviving spouse as community property or as joint tenants, tenants by the entirety, or tenants in common shall be treated as having been included in determining the value of the decedent's gross estate.
 
 #### (3) Relationship of shareholder to estate tax
 
@@ -106,7 +106,7 @@ Subsec. (d). Pub. L. 94–455, §2006(b)(4), added subsec. (d).
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–514 applicable to generation-skipping transfers (within the meaning of section2611 of this title) made after Oct. 22, 1986, except as otherwise provided, see section 1433 of Pub. L. 99–514, set out as an Effective Date note under section 2601 of this title.
+Amendment by Pub. L. 99–514 applicable to generation-skipping transfers (within the meaning of section 2611 of this title) made after Oct. 22, 1986, except as otherwise provided, see section 1433 of Pub. L. 99–514, set out as an Effective Date note under section 2601 of this title.
 
 #### Effective Date of 1981 Amendment
 

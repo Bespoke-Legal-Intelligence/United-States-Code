@@ -58,7 +58,7 @@ The purpose of this subchapter is to enable schools to provide opportunities for
 
 &emsp;(1) ensuring high standards for all children and aligning the efforts of States, local educational agencies, and schools to help children served under this subchapter to reach such standards;
 
-&emsp;(2) providing children an enriched and accelerated educational program, including, when appropriate, the use of the arts, through schoolwide programs or through additionalservices that increase the amount and quality of instructional time so that children served under this subchapter receive at least the classroom instruction that other children receive;
+&emsp;(2) providing children an enriched and accelerated educational program, including, when appropriate, the use of the arts, through schoolwide programs or through additional services that increase the amount and quality of instructional time so that children served under this subchapter receive at least the classroom instruction that other children receive;
 
 &emsp;(3) promoting schoolwide reform and ensuring access of children (from the earliest grades) to effective instructional strategies and challenging academic content that includes intensive complex thinking and problem-solving experiences;
 
@@ -148,7 +148,7 @@ Section 1 of Pub. L. 89–10, as added by Pub. L. 103–382, title I, §101, Oct
 
 #### Transition Provisions
 
-Section 3(b) of Pub. L. 103–382 provided that: “Notwithstanding any other provision of law, a recipient of funds under the Elementary and Secondary EducationAct of 1965 \[Pub. L. 89–10, formerly chapter 47 (§2701 et seq.) of this title, prior to general amendment by Pub. L. 103–382, §101\], as such Act was in effect on the day preceding the date of enactment of this Act \[Oct. 20, 1994\], may use funds available to such recipient under such predecessor authority to carry out necessary and reasonable planning and transition activities in order to ensure a smooth implementation of programs authorized by this Act \[see Tables for classification\].”
+Section 3(b) of Pub. L. 103–382 provided that: “Notwithstanding any other provision of law, a recipient of funds under the Elementary and Secondary Education Act of 1965 \[Pub. L. 89–10, formerly chapter 47 (§2701 et seq.) of this title, prior to general amendment by Pub. L. 103–382, §101\], as such Act was in effect on the day preceding the date of enactment of this Act \[Oct. 20, 1994\], may use funds available to such recipient under such predecessor authority to carry out necessary and reasonable planning and transition activities in order to ensure a smooth implementation of programs authorized by this Act \[see Tables for classification\].”
 
 #### Budget Compliance
 

@@ -22,7 +22,7 @@
 
 #### (b) Implementation
 
-(1)(A) The Secretary, with the concurrence of the Federal Acquisition Regulatory Council established under section 421(a) of title 41, not later than 180 days after October 24, 1992, shall, by rule, establish appropriate procedures and methods for use by Federal agencies to select, monitor, and terminate contracts with energy service contractors in accordance with laws governing Federal procurement that will achieve the intent of this section in a cost-effective manner. In developing such procedures and methods, the Secretary, with the concurrence of the Federal Acquisition Regulatory Council, shall determine which existing regulations are inconsistent with the intent of this section and shall formulate substitute regulations consistent with laws governing Federal procurement.
+(1)(A) The Secretary, with the concurrence of the Federal Acquisition Regulatory Council established under section 421(a) of title 41, not later than 180 days after October 24, 1992, shall, by rule, establish appropriate procedures and methods for use by Federal agencies to select, monitor, and terminate contracts with energy service contractors in accordance with laws governing Federal procurement that will achieve the intent of this section in a cost-effectivemanner. In developing such procedures and methods, the Secretary, with the concurrence of the Federal Acquisition Regulatory Council, shall determine which existing regulations are inconsistent with the intent of this section and shall formulate substitute regulations consistent with laws governing Federal procurement.
 
 (B) The procedures and methods established pursuant to subparagraph (A) shall be the procedures and contracting methods for selection, by an agency, of a contractor to provide energy savings performance services. Such procedures and methods shall provide for the calculation of energy savings based on sound engineering and financial practices.
 
@@ -46,39 +46,25 @@
 
 &emsp;&emsp;(iv) enter into an energy savings performance contract with a firm qualified under clause (iii), consistent with the procedures and methods established pursuant to paragraph (1)(A).
 
-(3) A firm not designated as qualified to provide energy savings services under paragraph (2)(A)(i) or paragraph (2)(B) may request a review of such decision to be conducted in accordance with procedures to be developed by the board of contract appeals of the General Services Administration. Procedures developed by the board of contract appeals under this paragraph shall be substantially equivalent to procedures established under section 759(f) of title 40.
+(3) A firm not designated as qualified to provide energy savings services under paragraph (2)(A)(i) or paragraph (2)(B) may request a review of such decision to be conducted in accordance with procedures to be developed by the board of contract appeals of the General Services Administration.
 
-#### (c) Sunset and reporting requirements
+#### (c) Sunset requirements
 
-(1) The authority to enter into new contracts under this section shall cease to be effective five years after the date procedures and methods are established under subsection (b) of this section.
+The authority to enter into new contracts under this section shall cease to be effective five years after the date procedures and methods are established under subsection (b) of this section.
 
-(2) Beginning one year after the date procedures and methods are established under subsection (b) of this section, and annually thereafter, for a period of five years after such date, the Comptroller General of the United States shall report on the implementation of this section. Such reports shall include, but not be limited to, an assessment of the following issues:
-
-&emsp;(A) The quality of the energy audits conducted for the agencies.
-
-&emsp;(B) The Government's ability to maximize energy savings.
-
-&emsp;(C) The total energy cost savings accrued by the agencies that have entered into such contracts.
-
-&emsp;(D) The total costs associated with entering into and performing such contracts.
-
-&emsp;(E) A comparison of the total costs incurred by agencies under such contracts and the total costs incurred under similar contracts performed in the private sector.
-
-&emsp;(F) The number of firms selected as qualified firms under this section and their respective shares of awarded contracts.
-
-&emsp;(G) The number of firms engaged in similar activity in the private sector and their respective market shares.
-
-&emsp;(H) The number of applicant firms not selected as qualified firms under this section and the reason for their nonselection.
-
-&emsp;(I) The frequency with which agencies have utilized the services of Government labs to perform any of the functions specified in this section.
-
-&emsp;(J) With the respect to the final report submitted pursuant to this paragraph, an assessment of whether the contracting procedures developed pursuant to this section and utilized by agencies have been effective and whether continued use of such procedures, as opposed to the procedures provided by existing public contract law, is necessary for implementation of successful energy savings performance contracts.
-
-(Pub. L. 95–619, title VIII, §801, as added Pub. L. 99–272, title VII, §7201(a), Apr. 7, 1986, 100 Stat. 142; amended Pub. L. 102–486, title I, §155(a), Oct. 24, 1992, 106 Stat. 2852.)
+(Pub. L. 95–619, title VIII, §801, as added Pub. L. 99–272, title VII, §7201(a), Apr. 7, 1986, 100 Stat. 142; amended Pub. L. 102–486, title I, §155(a), Oct. 24, 1992, 106 Stat. 2852; Pub. L. 104–106, div. E, title LVI, §5607(e), Feb. 10, 1996, 110 Stat. 702; Pub. L. 104–316, title I, §122(s), Oct. 19, 1996, 110 Stat. 3838.)
 
 #### Amendments
 
+1996—Subsec. (b)(3). Pub. L. 104–106 struck out at end “Procedures developed by the board of contract appeals under this paragraph shall be substantially equivalent to procedures established under section 759(f) of title 40.”
+
+Subsec. (c). Pub. L. 104–316 struck out par. (1) designation before “The authority to” and struck out par. (2) which required Comptroller General of the United States to report annually for five years on implementation of this section, including an assessment of various energy issues.
+
 1992—Pub. L. 102–486 inserted subsec. (a) designation and heading, designated existing provisions as par. (1), and added par. (2) and subsecs. (b) and (c).
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–106 effective 180 days after Feb. 10, 1996, see section 5701 of Pub. L. 104–106, set out as an Effective Date note under section 1401 of Title 40, Public Buildings, Property, and Works.
 
 #### Architect of the Capitol as Agency Electing To Develop List of Firms Qualified To Provide Energy Saving Services and as Agency Head Selecting From List
 
@@ -98,7 +84,7 @@ Authorized Uses of Savings.—The energy cost savings realized by the United Sta
 
 &emsp;“(1) One-half of the amount of such savings may be used for the acquisition of energy conserving measures for military installations, and such measures may be in addition to any such energy conserving measures acquired for military installations under contracts entered into under title VIII of the National Energy Conservation Policy Act.
 
-&emsp;“(2) One-half of the amount of such savings may be used for any morale, welfare, or recreation facility or service that is normally provided with appropriated funds, or for any minor military construction project (as defined in section 2805(a) of title 10, United States Code), that will enhance the quality of life of members of the Armed Forces at the military installation at which the energy cost savings were realized.
+&emsp;“(2) One-half of the amount of such savings may be used for any morale, welfare, or recreation facility orservice that is normally provided with appropriated funds, or for any minor military construction project (as defined in section 2805(a) of title 10, United States Code), that will enhance the quality of life of members of the Armed Forces at the military installation at which the energy cost savings were realized.
 
 “(c)
 

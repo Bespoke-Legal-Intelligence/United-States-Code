@@ -14,7 +14,7 @@ In the case of any long-term contract, the taxable income from such contract sha
 
 &emsp;&emsp;(B) upon completion of the contract (or, with respect to any amount properly taken into account after completion of the contract, when such amount is so properly taken into account), the taxpayer shall pay (or shall be entitled to receive) interest computed under the look-back method of paragraph (2).
 
-> &emsp;In the case of any long-term contract with respect to which the percentage of completion method is used, except for purposes of applying the look-back method of paragraph (2), any income under the contract (to the extent not previously includible in gross income) shall be included in gross income for the taxable year following the taxable year in which the contract was completed. For purposes of subtitle F (other than sections 6654 and 6655), any interest required to be paid by the taxpayer under subparagraph (B) shall be treated as an increase in the tax imposed by this chapter for the taxable year in which the contract is completed (or, in the case of interest payable with respect to any amount properly taken into account after completion of the contract, for the taxable year in which the amount is so properly taken into account).
+> &emsp;In the case of any long-term contract with respect to which the percentage of completion method is used, except for purposes of applying the look-back method of paragraph (2), any income under the contract (to the extentnot previously includible in gross income) shall be included in gross income for the taxable year following the taxable year in which the contract was completed. For purposes of subtitle F (other than sections 6654 and 6655), any interest required to be paid by the taxpayer under subparagraph (B) shall be treated as an increase in the tax imposed by this chapter for the taxable year in which the contract is completed (or, in the case of interest payable with respect to any amount properly taken into account after completion of the contract, for the taxable year in which the amount is so properly taken into account).
 
 #### (2) Look-back method
 
@@ -24,7 +24,7 @@ In the case of any long-term contract, the taxable income from such contract sha
 
 &emsp;&emsp;(B) second, determining (solely for purposes of computing such interest) the overpayment or underpayment of tax for each taxable year referred to in subparagraph (A) which would result solely from the application of subparagraph (A), and
 
-&emsp;&emsp;(C) then using the overpayment rate established by section 6621, compounded daily, onthe overpayment or underpayment determined under subparagraph (B).
+&emsp;&emsp;(C) then using the overpayment rate established by section 6621, compounded daily, on the overpayment or underpayment determined under subparagraph (B).
 
 > &emsp;For purposes of the preceding sentence, any amount properly taken into account after completion of the contract shall be taken into account by discounting (using the Federal mid-term rate determined under section 1274(d) as of the time such amount was properly taken into account) such amount to its value as of the completion of the contract. The taxpayer may elect with respect to any contract to have the preceding sentence not apply to such contract.
 
@@ -98,7 +98,7 @@ In the case of any long-term contract, the taxable income from such contract sha
 
 #### (iii) Closely held pass-thru entity
 
-&emsp;&emsp;&emsp;The term “closely held pass-thru entity” means any pass-thru entity if, at any time during any taxable year for which there is income under the contract, 50 percent or more (by value) of the beneficial interests in such entity are held (directly or indirectly) by or for 5 or fewer persons. For purposes of the preceding sentence, rules similar to the constructive ownership rules of section 1563(e) shall apply.
+&emsp;&emsp;&emsp;The term “closely held pass-thru entity” means any pass-thru entity if, at any time during any taxable year for which there is income under the contract, 50 percent or more (by value) of the beneficial interests in such entity are held (directly or indirectly) by or for 5 or fewer persons. Forpurposes of the preceding sentence, rules similar to the constructive ownership rules of section 1563(e) shall apply.
 
 #### (5) Election to use 10-percent method
 
@@ -196,7 +196,7 @@ For purposes of this section—
 
 #### (2) Special rules for certain taxable entities
 
-&emsp;For purposes of paragraph (1), the rules of section 168(h)(2)(D) (relating to certain taxable entities not treated as instrumentalities) shall apply.
+&emsp;For purposes of paragraph (1), the rules of section 168(h)(2)(D) (relating to certain taxableentities not treated as instrumentalities) shall apply.
 
 #### (e) Exception for certain construction contracts
 
@@ -264,7 +264,7 @@ For purposes of this section—
 
 &emsp;&emsp;The term “residential construction contract” means any contract which would be described in subparagraph (A) if clause (i) of such subparagraph reads as follows:
 
-&emsp;&emsp;&emsp;“(i) dwelling units (as defined in section 167(k)), and”.
+&emsp;&emsp;&emsp;“(i) dwelling units (as defined in section 168(e)(2)(A)(ii)), and”.
 
 #### (f) Long-term contract
 
@@ -298,13 +298,17 @@ For purposes of this section, the term “contract commencement date” means, w
 
 The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section, including regulations to prevent the use of related parties, pass-thru entities, intermediaries, options, or other similar arrangements to avoid the application of this section.
 
-(Added Pub. L. 99–514, title VIII, §804(a), Oct. 22, 1986, 100 Stat. 2358; amended Pub. L. 100–203, title X, §10203(a), Dec. 22, 1987, 101 Stat. 1330–394; Pub. L. 100–647, title I, §1008(c)(1), (2), (4), title V, §5041(a)–(b)(3), (c), (d), Nov. 10, 1988, 102 Stat. 3438, 3439, 3673, 3674; Pub. L. 101–239, title VII, §§7621(a)–(c), 7811(e), 7815(e)(1), Dec. 19, 1989, 103 Stat. 2375, 2376, 2408, 2419; Pub. L. 101–508, title XI, §11812(b)(8), Nov. 5, 1990, 104 Stat. 1388–535.)
+(Added Pub. L. 99–514, title VIII, §804(a), Oct. 22, 1986, 100 Stat. 2358; amended Pub. L. 100–203, title X, §10203(a), Dec. 22, 1987, 101 Stat. 1330–394; Pub. L. 100–647, title I, §1008(c)(1), (2), (4), title V, §5041(a)–(b)(3), (c), (d), Nov. 10, 1988, 102 Stat. 3438, 3439, 3673, 3674; Pub. L. 101–239, title VII, §§7621(a)–(c), 7811(e), 7815(e)(1), Dec. 19, 1989, 103 Stat. 2375, 2376, 2408, 2419; Pub. L. 101–508, title XI, §11812(b)(8), Nov. 5, 1990, 104 Stat. 1388–535; (As amended Pub. L. 104–188, title I, §§1702(h)(15), 1704(t)(28), Aug. 20, 1996, 110 Stat. 1874, 1888.)
 
 #### References in Text
 
-The date of the enactment of the Revenue Reconciliation Act of 1989, referred to in subsec. (e)(5), is thedate of enactment of title VII of Pub. L. 101–239, which was approved Dec. 19, 1989.
+The date of the enactment of the Revenue Reconciliation Act of 1989, referred to in subsec. (e)(5), is the date of enactment of title VII of Pub. L. 101–239, which was approved Dec. 19, 1989.
 
 #### Amendments
+
+1996—Subsec. (b)(1). Pub. L. 104–188, §1704(t)(28), which directed that par. (1) be amended by substituting “the look-back method of paragraph (2)” for “the look-back method of paragraph (3)”, could not be executed, because that phrase does not appear in text. See 1989 Amendment note below.
+
+Subsec. (e)(6)(B). Pub. L. 104–188, §1702(h)(15), substituted “section 168(e)(2)(A)(ii)” for “section 167(k)”.
 
 1990—Subsec. (e)(6)(A)(i). Pub. L. 101–508 substituted “section 168(e)(2)(A)(ii)” for “section 167(k)”.
 
@@ -324,7 +328,9 @@ percent look-back method to apply.—Upon completion of any long-term contract (
 
 Subsec. (a)(2). Pub. L. 101–239, §7811(e)(1), inserted “(or, with respect to any amount properly taken into account after completion of the contract, when such amount is so properly taken into account)” after “any long-term contract”.
 
-Subsec. (b)(1). Pub. L. 101–239, §7621(c)(2), in introductory provisions, substituted “paragraph (3)” for “paragraph (4)”, and in subpar. (B) and concluding provisions, substituted “paragraph (2)” for “paragraph (3)”.
+Subsec. (b)(1). Pub. L. 101–239, §7621(c)(2)(A), substituted “paragraph (3)” for “paragraph (4)”.
+
+Pub. L. 101–239, §7621(c)(2)(B), which directed the amendment of par. (1) by substituting “paragraph (2)” for “paragraph (3)”, was executed by making the substitution in subpar. (B) and concluding provisions to reflect the probable intent of Congress.
 
 Pub. L. 101–239, §7621(c)(1), redesignated par. (2) as (1) and struck out former par. (1) which read as follows: “
 
@@ -376,7 +382,7 @@ Subsec. (b)(2). Pub. L. 100–647, §1008(c)(2)(B), substituted “Except as pro
 
 Subsec. (b)(2)(B). Pub. L. 100–647, §1008(c)(4)(B), inserted “(or, with respect to any amount received or accrued after completion of the contract, when such amount is so received or accrued)” after “contract”.
 
-Subsec. (b)(3). Pub. L. 100–647, §1008(c)(4)(A), inserted at end “For purposes of the preceding sentence, any amount received or accrued after completion of the contract shall be taken into account by discounting (using the Federal mid-term rate determined under section 1274(d) as of the time such amount was received or accrued) such amount to its value as of the completion of the contract. The taxpayer may elect with respect to any contract to have the preceding sentence not apply to such contract.”
+Subsec. (b)(3). Pub. L. 100–647, §1008(c)(4)(A), inserted at end “For purposes of the preceding sentence, anyamount received or accrued after completion of the contract shall be taken into account by discounting (using the Federal mid-term rate determined under section 1274(d) as of the time such amount was received or accrued) such amount to its value as of the completion of the contract. The taxpayer may elect with respect to any contract to have the preceding sentence not apply to such contract.”
 
 Pub. L. 100–647, §1008(c)(1)(A), substituted “paragraph” for “subparagraph”.
 
@@ -401,6 +407,10 @@ Subsec. (e)(6). Pub. L. 100–647, §5041(b)(3), added par. (6).
 Subsec. (h). Pub. L. 100–647, §5041(c), added subsec. (h).
 
 1987—Subsec. (a). Pub. L. 100–203 substituted “70 percent” for “40 percent” in par. (1)(A) and in heading and text of par. (2), and “30 percent” for “60 percent” in par. (1)(B).
+
+#### Effective Date of 1996 Amendment
+
+Amendment by section 1702(h)(15) of Pub. L. 104–188 effective, except as otherwise expressly provided, as if included in the provision of the Revenue Reconciliation Act of 1990, Pub. L. 101–508, title XI, to which such amendment relates, see section 1702(i) of Pub. L. 104–188, set out as a note under section 38 of this title.
 
 #### Effective Date of 1990 Amendment
 
@@ -514,5 +524,5 @@ Allocable costs (within the meaning of subsec. (c) of this section) with respect
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 56 of this title.
+This section is referred to in sections 56, 167 of this title.
 

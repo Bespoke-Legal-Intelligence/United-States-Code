@@ -48,7 +48,7 @@ The Administrator, after consultation with the Administrator of General Services
 
 &emsp;(2) set forth recommended practices with respect to the procurement of recovered materials and items containing such materials and with respect to certification by vendors of the percentage of recovered materials used,
 
-> and shall provide information as to the availability, relative price, and performance of such materials and items and where appropriate shall recommend the level of recovered material to be contained in the procured product. The Administrator shall prepare final guidelines for paper within one hundred and eighty days after November 8, 1984, and for three additional product categories (including tires) by October 1, 1985. In making the designation under paragraph (1), the Administrator shall consider, but is not limited in his considerations, to—
+> and shall provide information as to the availability, relative price, and performance of such materials and items and where appropriate shall recommend the level of recovered material to be contained in the procured product. The Administrator shall prepare final guidelines for paper within one hundred and eighty days after November 8, 1984, and for three additional productcategories (including tires) by October 1, 1985. In making the designation under paragraph (1), the Administrator shall consider, but is not limited in his considerations, to—
 
 &emsp;(A) the availability of such items;
 

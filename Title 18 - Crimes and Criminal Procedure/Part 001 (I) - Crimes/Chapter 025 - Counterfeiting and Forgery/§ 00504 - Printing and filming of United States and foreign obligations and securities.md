@@ -2,7 +2,7 @@
 
 Notwithstanding any other provision of this chapter, the following are permitted:
 
-&emsp;(1) the printing, publishing, or importation, or the making or importation of the necessary plates for such printing or publishing, of illustrations of—
+&emsp;(1) The printing, publishing, or importation, or the making or importation of the necessary plates for such printing or publishing, of illustrations of—
 
 &emsp;&emsp;(A) postage stamps of the United States,
 
@@ -22,13 +22,13 @@ Notwithstanding any other provision of this chapter, the following are permitted
 
 > &emsp;The Secretary of the Treasury shall prescribe regulations to permit color illustrations of such currency of the United States as the Secretary determines may be appropriate for such purposes.
 
-&emsp;(2) The <sup>1</sup> provisions of this section shall not permit the reproduction of illustrations of obligations or other securities, by or through electronic methods used for the acquisition, recording, retrieval, transmission, or reproduction of any obligation or other security, unless such use is authorized by the Secretary of the Treasury. The Secretary shall establish a system to ensure that the legitimate use of such electronic methods and retention of such reproductions by businesses, hobbyists, press or others shall not be unduly restricted.
+&emsp;(2) The provisions of this section shall not permit the reproduction of illustrations of obligations or other securities, by or through electronic methods used for the acquisition, recording, retrieval, transmission, or reproduction of any obligation or other security, unless such use is authorized by the Secretary of the Treasury. The Secretary shall establish a system to ensure that the legitimate use of such electronic methods and retention of such reproductions by businesses, hobbyists, press or others shall not be unduly restricted.
 
-&emsp;(3) the making or importation,<sup>2</sup> of motion-picture films, microfilms, or slides, for projection upon a screen or for use in telecasting, of postage and revenue stamps and other obligations and securities of the United States, and postage and revenue stamps, notes, bonds, and other obligations or securities of any foreign government, bank, or corporation. No prints or other reproductions shall be made from such films or slides, except for the purposes of paragraph (1), without the permission of the Secretary of the Treasury.
+&emsp;(3) The making or importation of motion-picture films, microfilms, or slides, for projection upon a screen or for use in telecasting, of postage and revenue stamps and other obligations and securities of the United States, and postage and revenue stamps, notes, bonds, and other obligations or securities of any foreign government, bank, or corporation. No prints or other reproductions shall be made from such films or slides, except for the purposes of paragraph (1), without the permission of the Secretary of the Treasury.
 
 For the purposes of this section the term “postage stamp” includes postage meter stamps.
 
-(June 25, 1948, ch. 645, 62 Stat. 713; Sept. 2, 1958, Pub. L. 85–921, §1, 72 Stat. 1771; June 20, 1968, Pub. L. 90–353, §1, 82 Stat. 240; Oct. 14, 1970, Pub. L. 91–448, §2, 84 Stat. 921; July 18, 1984, Pub. L. 98–369, div. A, title X, §1077(b)(1), (2), 98 Stat. 1054; Oct. 28, 1992, Pub. L. 102–550, title XV, §1554, 106 Stat. 4071.)
+(June 25, 1948, ch. 645, 62 Stat. 713; Sept. 2, 1958, Pub. L. 85–921, §1, 72 Stat. 1771; June 20, 1968, Pub. L. 90–353, §1, 82 Stat. 240; Oct. 14, 1970, Pub. L. 91–448, §2, 84 Stat. 921; July 18, 1984, Pub. L. 98–369, div. A, title X, §1077(b)(1), (2), 98 Stat. 1054; Oct. 28, 1992, Pub. L. 102–550, title XV, §1554, 106 Stat. 4071; Oct. 11, 1996, Pub. L. 104–294, title VI, §601(e), (f)(3), 110 Stat. 3499.)
 
 #### Historical and Revision Notes
 
@@ -41,6 +41,10 @@ Minor changes in phraseology were made.
 The Migratory Bird Hunting Stamp Act, referred to in par. (1)(i), (ii), is act Mar. 16, 1934, ch. 71, 48 Stat. 451, as amended, which is classified generally to subchapter IV (§718 et seq.) of chapter 7 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 718 of Title 16 and Tables.
 
 #### Amendments
+
+1996—Par. (1). Pub. L. 104–294, §601(e)(1), substituted “The printing” for “the printing” in introductory provisions.
+
+Par. (3). Pub. L. 104–294, §601(e)(2), (f)(3), substituted “The making or importation of” for “the making or importation, of”.
 
 1992—Par. (1). Pub. L. 102–550, §1554(1), (2), in subpar. (D), substituted a period for the comma at end, in provisions following subpar. (D), struck out “for philatelic, numismatic, educational, historical, or newsworthy purposes in articles, books, journals, newspapers, or albums (but not for advertising purposes, except illustrations of stamps and paper money in philatelic or numismatic advertising of legitimate numismatists and dealers in stamps or publishers of or dealers in philatelic or numismatic articles, books, journals, newspapers, or albums).” before “Illustrations permitted”, and inserted at end “The Secretary of the Treasury shall prescribe regulations to permit color illustrations of such currency of the United States as the Secretary determines may be appropriate for such purposes.”
 
@@ -65,8 +69,4 @@ Amendment by Pub. L. 98–369 effective July 18, 1984, see section 1077(c) of Pu
 #### Section Referred to in Other Sections
 
 This section is referred to in section 474 of this title; title 16 section 718e.
-
-<i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
-
-<i><sup>2</sup></i><i> So in original. The comma probably should not appear.</i>
 

@@ -1,5 +1,7 @@
 Part A—Research and Investigations
 
+<i><sup>1</sup></i><i> So in original. Probably should be “standard”.</i>
+
 
 ---
 

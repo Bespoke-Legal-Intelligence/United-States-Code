@@ -46,7 +46,7 @@
 
 Every person required to make a return under subsection (a) shall furnish to each person whose name is required to be set forth in such return a written statement showing—
 
-&emsp;(1) the name and address of the person required to make such return, and
+&emsp;(1) the name, address, and phone number of the information contact of the person required to make such return, and
 
 &emsp;(2) the aggregate amount of payments to the person required to be shown on the return.
 
@@ -62,9 +62,11 @@ Every corporation shall, when required by the Secretary—
 
 &emsp;(3) furnish to the Secretary a statement of its accumulated earnings and profits and the names and addresses of the individuals or shareholders who would be entitled to such accumulated earnings and profits if divided or distributed, and of the amounts that would be payable to each.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 746; Oct. 16, 1962, Pub. L. 87–834, §19(a), 76 Stat. 1053; Oct. 4, 1976, Pub. L. 94–455, title XIX, §1906(b)(13)(A), 90 Stat. 1834; Sept. 3, 1982, Pub. L. 97–248, title III, §§303(a), 308(a), 96 Stat. 587, 591; Oct. 19, 1982, Pub. L. 97–354, §5(a)(40), 96 Stat. 1696; Aug. 5, 1983, Pub. L. 98–67, title I, §§102(a), 108(b), 97 Stat. 369, 383; July 18, 1984, Pub. L. 98–369, div. A, title VII, §714(d), 98 Stat. 961; Oct. 22, 1986, Pub. L. 99–514, title XV, §1501(c)(2), 100 Stat. 2736.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 746; Oct. 16, 1962, Pub. L. 87–834, §19(a), 76 Stat. 1053; Oct. 4, 1976, Pub. L. 94–455, title XIX, §1906(b)(13)(A), 90 Stat. 1834; Sept. 3, 1982, Pub. L. 97–248, title III, §§303(a), 308(a), 96 Stat. 587, 591; Oct. 19, 1982, Pub. L. 97–354, §5(a)(40), 96 Stat. 1696; Aug. 5, 1983, Pub. L. 98–67, title I, §§102(a), 108(b), 97 Stat. 369, 383; July 18, 1984, Pub. L. 98–369, div. A, title VII, §714(d), 98 Stat. 961; Oct. 22, 1986, Pub. L. 99–514, title XV, §1501(c)(2), 100 Stat. 2736; July 30, 1996, Pub. L. 104–168, title XII, §1201(a)(3), 110 Stat. 1469.)
 
 #### Amendments
+
+1996—Subsec. (c)(1). Pub. L. 104–168 substituted “name, address, and phone number of the information contact” for “name and address”.
 
 1986—Subsec. (c). Pub. L. 99–514, in amending subsec. (c) generally, substituted “information is required” for “information is furnished” in heading and, in text, substituted references to persons required to make returns for former references to persons making returns and struck out provisions directing that no statement was required to be furnished to any person under this subsection if the aggregate amount of payments to such person as shown on the return made under subsec. (a)(1) was less than $10.
 
@@ -80,6 +82,10 @@ Subsec. (b)(2). Pub. L. 97–354 redesignated cl. (A)(i) as subpar. (A) and cl. 
 
 1962—Pub. L. 87–834 substituted “Returns regarding payments of dividends and corporate earnings and profits” for “Returns regarding corporate dividends, earnings, and profits” in section catchline, added subsecs. (a) to (c), designated existing provisions of section as subsec. (d), and substituted in par. (1) of subsec. (d) “furnish to the Secretary or his delegate a statement stating the name and address of each shareholder, and the number of shares owned by each shareholder” for “Make a return of its payments of dividends, stating the name and address of, the number of shares owned by, and the amount of dividends paid to, each shareholder.”
 
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–168 applicable to statements required to be furnished after Dec. 31, 1996 (determined without regard to any extension), see section 1201(b) of Pub. L. 104–168, set out as a note under section 6041 of this title.
+
 #### Effective Date of 1986 Amendment
 
 Amendment by Pub. L. 99–514 applicable to returns the due date for which (determined without regard to extensions) is after Oct. 22, 1986, see section 1501(e) of Pub. L. 99–514, set out as an Effective Date note under section 6721 of this title.
@@ -94,7 +100,7 @@ Amendment by section 108(b) of Pub. L. 98–67 applicable with respect to paymen
 
 #### Effective Date of 1982 Amendment
 
-Amendment by Pub. L. 97–354 applicable to taxable years beginning after Dec. 31, 1982, see section 6(a) ofPub. L. 97–354, set out as an Effective Date note under section 1361 of this title.
+Amendment by Pub. L. 97–354 applicable to taxable years beginning after Dec. 31, 1982, see section 6(a) of Pub. L. 97–354, set out as an Effective Date note under section 1361 of this title.
 
 #### Effective Date of 1962 Amendment
 

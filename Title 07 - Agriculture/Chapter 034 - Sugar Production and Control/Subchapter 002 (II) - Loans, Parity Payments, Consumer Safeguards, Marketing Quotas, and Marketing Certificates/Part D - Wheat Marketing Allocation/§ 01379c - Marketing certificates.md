@@ -6,7 +6,7 @@ The Secretary shall provide for the issuance of wheat marketing certificates for
 
 #### (b) Producers eligible for certificates; storage conditions
 
-No producer shall be eligible to receive wheat marketing certificates with respect to any farm for any marketing year in which a marketing quota penalty is assessed for any commodity on such farm or in which the farm has not compliedwith the land-use requirements of section 1339 of this title to the extent prescribed by the Secretary, or in which, except as the Secretary may by regulation prescribe, the producer exceeds the farm acreage allotment on any other farm for any commodity in which he has an interest as a producer. No producer shall be deemed to have exceeded a farm acreage allotment for wheat if the entire amount of the farm marketing excess is delivered to the Secretary or stored in accordance with applicable regulations to avoid or postpone payment of the penalty. No producer shall be deemed to have exceeded the farm acreage allotment for wheat on any other farm if such farm is exempt from the farm marketing quota for such crop under section 1335 of this title. Any wheat delivered to the Secretary hereunder shall become the property of the United States and shall be disposed of by the Secretary for relief purposes in the United States or in foreign countries or in such other manner as he shall determine will divert it from the normal channels of trade and commerce. Notwithstanding any other provision of this chapter, the Secretary may provide that a producer shall not be eligible to receive marketing certificates, or may adjust the amount of marketing certificates to be received by the producer, with respect to any farm for any year in which a variety of wheat is planted on the farm which has been determined by the Secretary, after consultation with State Agricultural Experiment Stations, agronomists, cereal chemists and other qualified technicians, to have undesirable milling or baking qualities and has made public announcement thereof.
+No producer shall be eligible to receive wheat marketing certificates with respect to any farm for any marketing year in which a marketing quota penalty is assessed for any commodity on such farm or in which the farm has not complied with the land-use requirements of section 1339 of this title to the extent prescribed by the Secretary, or in which, except as the Secretary may by regulation prescribe, the producer exceeds the farm acreage allotment on any other farm for any commodity in which he has an interest as a producer. No producer shall be deemed to have exceeded a farm acreage allotment for wheat if the entire amount of the farm marketing excess is delivered to the Secretary or stored in accordance with applicable regulations to avoid or postpone payment of the penalty. No producer shall be deemed to have exceeded the farm acreage allotment for wheat on any other farm if such farm is exempt from the farm marketing quota for such crop under section 1335 of this title. Any wheat delivered to the Secretary hereunder shall become the property of the United States and shall be disposed of by the Secretary for relief purposes in the United States or in foreign countries or in such other manner as he shall determine will divert it from the normal channels of trade and commerce. Notwithstanding any other provision of this chapter, the Secretary may provide that a producer shall not be eligible to receive marketing certificates, or may adjust the amount of marketing certificates to be received by the producer, with respect to any farm for any year in which a variety of wheat is planted on the farm which has been determined by the Secretary, after consultation with State Agricultural Experiment Stations, agronomists, cereal chemists and other qualified technicians, to have undesirable milling or baking qualities and has made public announcement thereof.
 
 #### (c) Face value
 
@@ -64,7 +64,7 @@ Section 402(b)(D) of Pub. L. 91–524, as added by section 1(9) of Pub. L. 93–
 
 #### Effective and Termination Dates of 1970 Amendment
 
-Section 402(a), formerly section 402, of Pub. L. 91–524 provided that the amendment made by that section is effective only with respect to 1971, 1972, and 1973 crops of wheat.
+Section 402(a), formerly section 402, of Pub. L. 91–524 provided that the amendment made by that section iseffective only with respect to 1971, 1972, and 1973 crops of wheat.
 
 #### Effective Date of 1965 Amendment
 
@@ -78,25 +78,21 @@ Section 515 of Pub. L. 89–321 provided that the amendment made by that section
 
 Section 202(13) of Pub. L. 88–297, as amended by Pub. L. 89–321, title V, §505(2), Nov. 3, 1965, 79 Stat. 1203; Pub. L. 90–559, §1(1), Oct. 11, 1968, 82 Stat. 996, provided that the amendment made by that section is effective with respect to crops planted for harvest in calendar years 1965 through 1970.
 
-#### Inapplicability to 1991 Through 1995 Crops of Wheat
+#### Inapplicability of Section
+
+Section inapplicable to 1996 through 2002 crops of loan commodities, peanuts, and sugar and inapplicable to milk during period beginning Apr. 4, 1996, and ending Dec. 31, 2002, see section 7301(a)(1)(H) of this title.
 
 Section inapplicable to 1991 through 1995 crops of wheat, see section 303 of Pub. L. 101–624, set out as a note under section 1331 of this title.
 
-#### Inapplicability to 1986 Through 1990 Crops of Wheat
-
 Section inapplicable to 1986 through 1990 crops of wheat, see section 310(b) of Pub. L. 99–198, set out as a note under section 1331 of this title.
 
-#### Inapplicability to 1982 Through 1985 Crops of Wheat
-
 Section inapplicable to 1982 through 1985 crops of wheat, see section 303 of Pub. L. 97–98, set out as a note under section 1331 of this title.
-
-#### Inapplicability to 1978 Through 1981 Crops of Wheat
 
 Section inapplicable to 1978 through 1981 crops of wheat, see section 404 of Pub. L. 95–113, set out as a note under section 1331 of this title.
 
 #### Reduction of Wheat Stored by Producers Prior to 1971 Crop
 
-Section 407 of Pub. L. 91–524, as amended by section 1(14) of Pub. L. 93–86, provided that: “The amount of any wheat stored by a producer under section 379c(b) of the Agricultural Adjustment Act of 1938, as amended \[subsection (b) of this section\], prior to the 1971 crop of wheat may be reduced by the amount by which the actual total production of the 1971, 1972, or 1973 crop on the farm is less than the number of bushels determined by multiplying three times the domestic allotment for such crop on the farm by the yield established for the farm for the purpose of issuance of domestic marketing certificates. The provisions of such section shall continue to apply to the wheat so stored to the extent not inconsistent therewith. Notwithstanding the foregoing, the Secretary may authorize release of wheat stored by a producer under section 379c(b) of the Agricultural Adjustment Act of 1938, as amended \[subsec. (b) of thissection\], prior to the 1971 crop, whenever he determines such release will not significantly affect market prices for wheat. As a condition of release, the Secretary may require a refund of such portion of the value of certificates received in the crop year the excess wheat was produced as he deems appropriate considering the period of time the excess wheat has been in storage and the need to provide fair and equitable treatment among all wheat program participants.”
+Section 407 of Pub. L. 91–524, as amended by section 1(14) of Pub. L. 93–86, provided that: “The amount of any wheat stored by a producer under section 379c(b) of the Agricultural Adjustment Act of 1938, as amended \[subsection (b) of this section\], prior to the 1971 crop of wheat may be reduced by the amount by which the actual total production of the 1971, 1972, or 1973 crop on the farm is less than the number of bushels determined by multiplying three times the domestic allotment for such crop on the farm by the yield established for the farm for the purpose of issuance of domestic marketing certificates. The provisions of such section shall continue to apply to the wheat so stored to the extent not inconsistent therewith. Notwithstanding the foregoing, the Secretary may authorize release of wheat stored by a producer under section 379c(b) of the Agricultural Adjustment Act of 1938, as amended \[subsec. (b) of this section\], prior to the 1971 crop, whenever he determines such release will not significantly affect market prices for wheat. As a condition of release, the Secretary may require a refund of such portion of the value of certificates received in the crop year the excess wheat was produced as he deems appropriate considering the period of time the excess wheat has been in storage and the need to provide fair and equitable treatment among all wheat program participants.”
 
 #### Section Referred to in Other Sections
 

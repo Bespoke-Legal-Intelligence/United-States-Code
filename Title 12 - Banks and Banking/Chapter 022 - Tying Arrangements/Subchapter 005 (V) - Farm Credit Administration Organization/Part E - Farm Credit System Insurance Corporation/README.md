@@ -20,6 +20,8 @@ This part is referred to in section 2020 of this title.
 - [&sect; 02277a&#8211;8 - Conduct of corporate affairs; examination of System institutions](%C2%A7%2002277a%E2%80%938%20-%20Conduct%20of%20corporate%20affairs%3B%20examination%20of%20System%20institutions.md)
 - [&sect; 02277a&#8211;9 - Insurance Fund](%C2%A7%2002277a%E2%80%939%20-%20Insurance%20Fund.md)
 - [&sect; 02277a&#8211;10 - Powers of Corporation with respect to troubled insured System banks](%C2%A7%2002277a%E2%80%9310%20-%20Powers%20of%20Corporation%20with%20respect%20to%20troubled%20insured%20System%20banks.md)
+- [&sect; 02277a&#8211;10a - Oversight actions by Corporation](%C2%A7%2002277a%E2%80%9310a%20-%20Oversight%20actions%20by%20Corporation.md)
+- [&sect; 02277a&#8211;10b - Authority to regulate golden parachute and indemnification payments](%C2%A7%2002277a%E2%80%9310b%20-%20Authority%20to%20regulate%20golden%20parachute%20and%20indemnification%20payments.md)
 - [&sect; 02277a&#8211;11 - Investment of funds](%C2%A7%2002277a%E2%80%9311%20-%20Investment%20of%20funds.md)
 - [&sect; 02277a&#8211;12 - Exemption from taxation](%C2%A7%2002277a%E2%80%9312%20-%20Exemption%20from%20taxation.md)
 - [&sect; 02277a&#8211;13 - Reports](%C2%A7%2002277a%E2%80%9313%20-%20Reports.md)

@@ -4,7 +4,7 @@
 
 For purposes of this section—
 
-&emsp;(1) The terms “fishery”, “fishery conservation zone”, “fishing”, “fishing vessel”, “Secretary”, and “vessel of the United States” shall each have the same respective meaning as is given to such terms in section 3 of the Magnuson Fishery Conservation and Management Act (16 U.S.C. 1802).<sup>1</sup>
+&emsp;(1) The terms “fishery”, “fishery conservation zone”, “fishing”, “fishing vessel”, “Secretary”, and “vessel of the United States” shall each have the same respective meaning as is given to such terms in section 3 of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1802).<sup>1</sup>
 
 &emsp;(2) The term “fishing gear” means any equipment or appurtenance which is necessary for the carrying out of fishing operations by a fishing vessel, whether or not such equipment or appurtenance is attached to such vessel.
 
@@ -18,7 +18,7 @@ Subject to the provisions of this section, the owner or operator (hereinafter re
 
 &emsp;(1) in the case of such vessel—
 
-&emsp;&emsp;(A) occurs when such vessel is engaged in any fishery subject to the exclusive fishery management authority of the United States under the Magnuson Fishery Conservation and Management Act \[16 U.S.C. 1801 et seq.\], and
+&emsp;&emsp;(A) occurs when such vessel is engaged in any fishery subject to the exclusive fishery management authority of the United States under the Magnuson-Stevens Fishery Conservation and Management Act \[16 U.S.C. 1801 et seq.\], and
 
 &emsp;&emsp;(B) is attributable to any vessel (or its crew or fishing gear) other than a vessel of the United States; or
 
@@ -54,7 +54,7 @@ A vessel owner is not eligible for compensation under this section with respect 
 
 &emsp;(B) 25 percent of any resulting economic loss.
 
-> Any amount determined pursuant to subparagraph (A) or (B) shall be reduced to the extent that evidence indicates that negligence by the vessel owner or operator contributed to the cause or the extent of the damage, loss, or destruction and shall be further reduced by the amount of compensation, if any, that the vessel owner or operator has received or will receive with respect to the damage, loss, destruction, or resulting economic loss through insurance, pursuant to any other provision of law, or otherwise.
+> Any amount determined pursuant to subparagraph (A) or (B) shall be reduced to the extent that evidence indicates that negligence by the vessel owner or operator contributed to thecause or the extent of the damage, loss, or destruction and shall be further reduced by the amount of compensation, if any, that the vessel owner or operator has received or will receive with respect to the damage, loss, destruction, or resulting economic loss through insurance, pursuant to any other provision of law, or otherwise.
 
 (3) The initial determination made by the Secretary under paragraph (1) with respect to any application shall—
 
@@ -68,7 +68,7 @@ A vessel owner is not eligible for compensation under this section with respect 
 
 #### (e) Surcharge on foreign fishing vessels
 
-In addition to any fee imposed under section 204(b)(10) of the Magnuson Fishery Conservation and Management Act (16 U.S.C. 1824(b)(10)) with respect to any foreign fishing vessel for any year after 1978, the Secretary shall impose a surcharge in an amount not to exceed 20 percent of the amount of the fee imposed under such section for such year. The failure to pay any surcharge imposed under this subsection with respect to any foreign fishing vessel shall be treated by the Secretary as a failure to pay the fee for such vessel under such section 204(b)(10).
+In addition to any fee imposed under section 204(b)(10) of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1824(b)(10)) with respect to any foreign fishing vessel for any year after 1978, the Secretary shall impose a surcharge in an amount not to exceed 20 percent of the amount of the fee imposed under such section for such year. The failure to pay any surcharge imposed under this subsection with respect to any foreign fishing vessel shall be treated by the Secretary as a failure to pay the fee for such vessel under such section 204(b)(10).
 
 #### (f) Fishing Vessel and Gear Damage Compensation Fund; requirements, etc.
 
@@ -88,25 +88,27 @@ In addition to any fee imposed under section 204(b)(10) of the Magnuson Fishery 
 
 > Sums may be expended from the fund only to such extent and in such amounts as are provided in advance in appropriation Acts. Sums in the fund which are not currently needed for the purpose of paying such awards shall be kept on deposit or invested in obligations of, or guaranteed by, the United States.
 
-(3) Whenever the amount in the fund is not sufficient to pay compensation under this section, the Secretary may issue, in an amount not to exceed $5,000,000, notes or other obligations to the Secretary of the Treasury, in such forms and denominations, bearing such maturities, and subject to such terms and conditions as the Secretary of the Treasury may prescribe. Such notices <sup>2</sup> or other obligations shall bear interest at a rate to be determined by the Secretary of the Treasury on the basis of the current averagemarket yield on outstanding marketable obligations of the United States of comparable maturities during the month preceding the issuance of such notices <sup>2</sup> or other obligations. Moneys obtained by the Secretary under this paragraph shall be deposited in the fund and redemptions of any such notices <sup>2</sup> or other obligations shall be made from the fund. The Secretary of the Treasury shall purchase any such notes or other obligations, and for such purpose he may use as a public debt transaction the proceeds from the sale of any securities issued under chapter 31 of title 31. The Secretary of the Treasury may sell any such notices <sup>2</sup> or other obligations at such times and prices and upon such terms and conditions as he shall determine. All purchases, redemptions, and sales of such notes or other obligations by the Secretary of the Treasury shall be treated as public debt transactions of the United States. All borrowing authority contained herein shall be effective only to such extent or in such amounts as are provided in advance in appropriation Acts.
+(3) Whenever the amount in the fund is not sufficient to pay compensation under this section, the Secretary may issue, in an amount not to exceed $5,000,000, notes or other obligations to the Secretary of the Treasury, in such forms and denominations, bearing such maturities, and subject to such terms and conditions as the Secretary of the Treasury may prescribe. Such notices <sup>2</sup> or other obligations shall bear interest at a rate to be determined by the Secretary of the Treasury on the basis of the current average market yield on outstanding marketable obligations of the United States of comparable maturities during the month preceding the issuance of such notices <sup>2</sup> or other obligations. Moneys obtained by the Secretary under this paragraph shall be deposited in the fund and redemptions of any such notices <sup>2</sup> or other obligations shall be made from the fund. The Secretary of the Treasury shall purchase any such notes or other obligations, and for such purpose he may use as a public debt transaction the proceeds from the sale of any securities issued under chapter 31 of title 31. The Secretary of the Treasury may sell any such notices <sup>2</sup> or other obligations at such times and prices and upon such terms and conditions as he shall determine. All purchases, redemptions, and sales of such notes or other obligations by the Secretary of the Treasury shall be treated as public debt transactions of the United States. All borrowing authority contained herein shall be effective only to such extent or in such amounts as are provided in advance in appropriation Acts.
 
 #### (g) Penalty for false or misleading statements
 
 Any person who willfully makes any false or misleading statement or representation for the purpose of obtaining compensation under this section is guilty of a criminal offense and, upon conviction thereof, shall be punished by a fine of not more than $25,000, or by imprisonment for not more than one year, or both.
 
-(Aug. 27, 1954, ch. 1018, §10, as added Nov. 18, 1977, Pub. L. 95–194, §2, 91 Stat. 1413; amended Sept. 18, 1978, Pub. L. 95–376, §3(a), 92 Stat. 715; June 28, 1980, Pub. L. 96–289, §4(b), 94 Stat. 606; Dec. 22, 1980, Pub. L. 96–561, title II, §§238(b), 241, 94 Stat. 3300, 3301.)
+(Aug. 27, 1954, ch. 1018, §10, as added Nov. 18, 1977, Pub. L. 95–194, §2, 91 Stat. 1413; amended Sept. 18, 1978, Pub. L. 95–376, §3(a), 92 Stat. 715; June 28, 1980, Pub. L. 96–289, §4(b), 94 Stat. 606; Dec. 22, 1980, Pub. L. 96–561, title II, §§238(b), 241, 94 Stat. 3300, 3301; Sept. 30, 1996, Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], 110 Stat. 3009, 3009–41.)
 
 #### References in Text
 
-Section 3 of the Magnuson Fishery Conservation and Management Act (16 U.S.C. 1802), referred to in subsec. (a)(1), contained a prior par. (8) defining “fishery conservation zone” which was repealed and a new par. (6) defining “exclusive economic zone” was added by Pub. L. 99–659, title I, §101(a), Nov. 14, 1986, 100 Stat. 3706.
+Section 3 of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1802), referred to in subsec. (a)(1), contained a prior par. (8) defining “fishery conservation zone” which was repealed and a new par. defining “exclusive economic zone” was added by Pub. L. 99–659, title I, §101(a), Nov. 14, 1986, 100 Stat. 3706.
 
-The Magnuson Fishery Conservation and Management Act, referred to in subsec. (b)(1)(A), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, which is classified principally to chapter 38 (§1801 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 16 and Tables.
+The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (b)(1)(A), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, which is classified principally to chapter 38 (§1801 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 16 and Tables.
 
 #### Codification
 
 In subsec. (f)(3), “chapter 31 of title 31” substituted for “the Second Liberty Bond Act” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 #### Amendments
+
+1996—Subsecs. (a)(1), (b)(1)(A), (e). Pub. L. 104–208 substituted “Magnuson-Stevens Fishery” for “Magnuson Fishery”.
 
 1980—Subsec. (a)(1). Pub. L. 96–561, §238(b), substituted “Magnuson Fishery Conservation and Management Act” for “Fishery Conservation and Management Act of 1976”.
 
@@ -134,9 +136,13 @@ Subsec. (e). Pub. L. 95–376 substituted provisions authorizing the imposition 
 
 Subsecs. (f), (g). Pub. L. 95–376 added subsecs. (f) and (g).
 
+#### Effective Date of 1996 Amendment
+
+Section 101(a) \[title II, §211(b)\] of div. A of Pub. L. 104–208 provided that the amendment made by that section is effective 15 days after Oct. 11, 1996.
+
 #### Effective Date of 1980 Amendment
 
-Amendment by section 238(b) of Pub. L. 96–561 effective 15 days after Dec. 15, 1980, see section 238 of Pub. L. 96–561, set out as a Short Title note under section 1801 of Title 16, Conservation.
+Section 238(b) of Pub. L. 96–561 provided that the amendment made by that section is effective 15 days after Dec. 22, 1980.
 
 #### Effective Date of 1978 Amendment
 
@@ -164,7 +170,7 @@ In General.—If—
 
 Special Provisions.—(1) Notwithstanding any other provision of law—
 
-&emsp;“(A) any application or filing timely made under subsection (a) shall be treated by the Secretary of Commerce as an application timely made under such section 10(c)(1) \[subsec. (c)(1) of this section\], or as a filing timely made under such section 405(a) \[43 U.S.C. 1845(a)\], as the case may be, with respect to the damage, loss, or destruction claimed; and
+&emsp;“(A) any application or filing timely made under subsection (a) shall be treated by the Secretary of Commerce as an application timely made under such section 10(c)(1) \[subsec. (c)(1) of this section\], or as a filing timely made under such section 405(a) \[43U.S.C. 1845(a)\], as the case may be, with respect to the damage, loss, or destruction claimed; and
 
 &emsp;“(B) any claim for fishing gear loss that was pending on June 1, 1980, before the United States-Union of Soviet Socialist Republics Fisheries Claims Board or the American-Spanish Fisheries Board shall be treated by the Secretary of Commerce as a timely application made, on the date of the enactment of this title \[Dec. 22, 1980\], under such section 10(c)(1) \[subsec. (c)(1) of this section\] for compensation for such loss.”
 

@@ -40,11 +40,11 @@
 
 #### (2) Voluntary recall
 
-&emsp;If, after determining under paragraph (1) that a recall is necessary, the Administrator finds that voluntary recall by the registrant and others in the chain of distribution may be as safe and effective as a mandatory recall, the Administrator shall request the registrant of the pesticide to submit, within 60 days of the request, a plan for the voluntary recall of the pesticide. If such a plan is requested and submitted, the Administrator shall approvethe plan and order the registrant to conduct the recall in accordance with the plan unless the Administrator determines, after an informal hearing, that the plan is inadequate to protect health or the environment.
+&emsp;If, after determining under paragraph (1) that a recall is necessary, the Administrator finds that voluntary recall by the registrant and others in the chain of distribution may be as safe and effective as a mandatory recall, the Administrator shall request the registrant of the pesticide to submit, within 60 days of the request, a plan for the voluntary recall of the pesticide. If such a plan is requested and submitted, the Administrator shall approve the plan and order the registrant to conduct the recall in accordance with the plan unless the Administrator determines, after an informal hearing, that the plan is inadequate to protect health or the environment.
 
 #### (3) Mandatory recall
 
-&emsp;If, after determining under paragraph (1) that a recall is necessary, the Administrator does not request the submission of a plan under paragraph (2) or finds such a plan to be inadequate, the Administrator shall issue a regulation that prescribes a plan for the recall of the pesticide. A regulation issued under this paragraph may apply to any person who is or was a registrant, distributor, or seller of the pesticide, or any successor in interest to such a person.
+&emsp;If, after determining under paragraph (1) that a recall is necessary, the Administratordoes not request the submission of a plan under paragraph (2) or finds such a plan to be inadequate, the Administrator shall issue a regulation that prescribes a plan for the recall of the pesticide. A regulation issued under this paragraph may apply to any person who is or was a registrant, distributor, or seller of the pesticide, or any successor in interest to such a person.
 
 #### (4) Recall procedure
 
@@ -178,9 +178,15 @@
 
 #### (h) Relationship to Solid Waste Disposal Act
 
-Nothing in this section shall diminish the authorities or requirements of the Solid Waste Disposal Act (42 U.S.C. 6901 et seq.).
+#### (1) In general
 
-(June 25, 1947, ch. 125, §19, as added Oct. 21, 1972, Pub. L. 92–516, §2, 86 Stat. 995; amended Sept. 30, 1978, Pub. L. 95–396, §19, 92 Stat. 833; Oct. 25, 1988, Pub. L. 100–532, title IV, §§401–403, title VIII, §801(q)(1)(D), 102 Stat. 2669, 2672, 2683.)
+&emsp;Nothing in this section shall diminish the authorities or requirements of the Solid Waste Disposal Act (42 U.S.C. 6901 et seq.).
+
+#### (2) Antimicrobial products
+
+&emsp;A household, industrial, or institutional antimicrobial product that is not subject to regulation under the Solid Waste Disposal Act (42 U.S.C. 6901 et seq.) shall not be subject to the provisions of subsections (a), (e), and (f) of this section, unless the Administrator determines that such product must be subject to such provisions to prevent an unreasonable adverse effect on the environment.
+
+(June 25, 1947, ch. 125, §19, as added Oct. 21, 1972, Pub. L. 92–516, §2, 86 Stat. 995; amended Sept. 30, 1978, Pub. L. 95–396, §19, 92 Stat. 833; Oct. 25, 1988, Pub. L. 100–532, title IV, §§401–403, title VIII, §801(q)(1)(D), 102 Stat. 2669, 2672, 2683; Aug. 3, 1996, Pub. L. 104–170, title II, §225, 110 Stat. 1507.)
 
 #### References in Text
 
@@ -189,6 +195,8 @@ The effective date of this subsection, referred to in subsecs. (e), (f)(1)(A), (
 The Solid Waste Disposal Act, referred to in subsecs. (f)(1)(B)(iv), (3) and (h), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat. 997, as amended generally by Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2795, which is classified generally to chapter 82 (§6901 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of Title 42 and Tables.
 
 #### Amendments
+
+1996—Subsec. (h). Pub. L. 104–170 designated existing provisions as par. (1), inserted heading, and added par. (2).
 
 1988—Pub. L. 100–532, §401, amended section generally, in subsec. (a) substituting provisions which related to storage, disposal, and transportation, for provisions which directed Secretary to establish procedures for disposal or storage, in subsec. (b) substituting provisions which related to recalls, for provisions which directed Administrator to provide advice to Secretary of Transportation, in subsec. (c) substituting provisions which related to storage costs, for provisions which related to disposal of unused quantities, and adding subsec. (d).
 

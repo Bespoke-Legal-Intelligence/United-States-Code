@@ -8,7 +8,13 @@
 
 (d) Under such conditions as the Secretary of the military department concerned may prescribe, a medical, dental, pharmacy, veterinary, or sciences allied to medicine, student who is a commissioned officer of a reserve component of an armed force may be admitted to and trained in a unit of the program.
 
-(Added Pub. L. 88–647, title II, §201(1), Oct. 13, 1964, 78 Stat. 1065.)
+(e) An educational institution at which a unit of the program has been established shall give priority for enrollment in the program to students who are eligible for advanced training under section 2104 of this title.
+
+(Added Pub. L. 88–647, title II, §201(1), Oct. 13, 1964, 78 Stat. 1065; amended Pub. L. 104–201, div. A, title V, §551(a)(1), Sept. 23, 1996, 110 Stat. 2525.)
+
+#### Amendments
+
+1996—Subsec. (e). Pub. L. 104–201 added subsec. (e).
 
 #### Section Referred to in Other Sections
 

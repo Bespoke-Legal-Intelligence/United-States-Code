@@ -16,7 +16,7 @@
 
 (c)(1) This subsection shall apply in the case of any schedule covering employees in a unit represented by an exclusive representative.
 
-(2)(A) If an agency and an exclusive representative reach an impasse in collective bargainingwith respect to an agency determination under subsection (a)(1) not to establish a flexible or compressed schedule, the impasse shall be presented to the Federal Service Impasses Panel (hereinafter in this section referred to as the “Panel”).
+(2)(A) If an agency and an exclusive representative reach an impasse in collective bargaining with respect to an agency determination under subsection (a)(1) not to establish a flexible or compressed schedule, the impasse shall be presented to the Federal Service Impasses Panel (hereinafter in this section referred to as the “Panel”).
 
 (B) The Panel shall promptly consider any case presented under subparagraph (A), and shall take final action in favor of the agency's determination if the finding on which it is based is supported by evidence that the schedule is likely to cause an adverse agency impact.
 
@@ -35,4 +35,8 @@
 (d) This section shall not apply with respect to flexible schedules that may be established without regard to the authority provided under this subchapter.
 
 (Added Pub. L. 97–221, §2(a)(2), July 23, 1982, 96 Stat. 231.)
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 6103 of this title.
 

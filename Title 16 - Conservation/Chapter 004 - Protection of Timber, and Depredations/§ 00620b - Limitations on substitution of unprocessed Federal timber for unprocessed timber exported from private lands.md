@@ -2,7 +2,7 @@
 
 #### (a) Direct substitution
 
-(1) Except as provided in subsection (c) of this section, no person may purchase directly fromany department or agency of the United States unprocessed timber originating from Federal lands west of the 100th meridian in the contiguous 48 States if—
+(1) Except as provided in subsection (c) of this section, no person may purchase directly from any department or agency of the United States unprocessed timber originating from Federal lands west of the 100th meridian in the contiguous 48 States if—
 
 &emsp;(A) such unprocessed timber is to be used in substitution for exported unprocessed timber originating from private lands; or
 
@@ -70,7 +70,7 @@
 
 #### (3) Grant of approval
 
-&emsp;For each applicant, the Secretary concerned shall, on the record and after an opportunity for a hearing, not later than 4 months after receipt of the application for a sourcing area, either approve or disapprove the application. The Secretary concerned may approve such application only if the Secretary determines that the area that is the subject of the application, in which the timber manufacturing facilities at which the applicant desires to process timber originating from Federal lands are located, is geographically and economically separate from any geographic area from which that person harvests for export any unprocessed timber originating from private lands. In making a determination referred to in this paragraph, the Secretary concerned shall consider equally the timber purchasing patterns, on private and Federal lands, of the applicant as well as other persons in the same local vicinity as the applicant, and the relative similarity of such purchasing patterns.
+&emsp;For each applicant, the Secretary concerned shall, on the record and after an opportunity for a hearing, not later than 4 months after receipt of the application for a sourcing area, either approve or disapprove the application. The Secretary concerned may approve such application only if the Secretary determines that the area that is the subject of the application, in which the timber manufacturing facilities at which the applicant desires to process timber originating from Federal lands are located, is geographically and economically separate from any geographic area from which that person harvests for export any unprocessed timber originating from private lands. In making a determination referred to in this paragraph, the Secretary concerned shall consider equally the timber purchasing patterns, on private and Federal lands, of the applicantas well as other persons in the same local vicinity as the applicant, and the relative similarity of such purchasing patterns.
 
 #### (4) Denial of application
 

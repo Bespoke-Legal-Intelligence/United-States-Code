@@ -14,8 +14,6 @@
 
 &emsp;(B) Strategy which the unit supports.
 
-&emsp;(C) Area of deployment and illustrative areas of potential deployment, including a description of any United States commitment to defend such areas.
-
 (3) The justification and explanation shall also specify in detail the manpower required to perform the medical missions of each of the armed forces and of the Department of Defense.
 
 (c) The Secretary shall include in each report under subsection (a) a detailed discussion of the following:
@@ -26,15 +24,7 @@
 
 &emsp;(3) The manpower required to be stationed or assigned to duty in foreign countries and aboard vessels located outside the territorial limits of the United States, its territories, and possessions.
 
-(d) In each such report, the Secretary shall also—
-
-&emsp;(1) identify, define, and group by mission and by region the types of military bases, installations, and facilities;
-
-&emsp;(2) provide an explanation and justification of the relationship between this base structure and the proposed military force structure; and
-
-&emsp;(3) provide a comprehensive identification of base operating support costs and an evaluation of possible alternatives to reduce those costs.
-
-(e) The Secretary shall also include in each such report, with respect to each armed force under the jurisdiction of the Secretary of a military department, the following:
+(d) The Secretary shall also include in each such report, with respect to each armed force under the jurisdiction of the Secretary of a military department, the following:
 
 &emsp;(1) The number of positions that require warrant officers or commissioned officers serving on active duty in each of the officer grades during the current fiscal year and the estimated number of such positions for each of the next five fiscal years.
 
@@ -54,29 +44,7 @@
 
 &emsp;&emsp;(F) reserve and regular officers ordered to active duty.
 
-&emsp;(4) An analysis of the distribution of each of the following categories of officers serving on active duty on the last day of the preceding fiscal year by grade in which serving and years of active commissioned service:
-
-&emsp;&emsp;(A) Regular officers.
-
-&emsp;&emsp;(B) Reserve officers on the active-duty list.
-
-&emsp;&emsp;(C) Reserve officers described in clauses (B) and (C) of section 523(b)(1) of this title.
-
-&emsp;&emsp;(D) Officers other than those specified in subparagraphs (A), (B), and (C) serving in a temporary grade.
-
-&emsp;(5) An analysis of the number of officers and enlisted members serving on active duty for training as of the last day of the preceding fiscal year under orders specifying an aggregate period in excess of 180 days and an estimate for the current fiscal year of the number that will be ordered to such duty, tabulated by—
-
-&emsp;&emsp;(A) recruit and specialized training;
-
-&emsp;&emsp;(B) flight training;
-
-&emsp;&emsp;(C) professional training in military and civilian institutions; and
-
-&emsp;&emsp;(D) officer acquisition training.
-
-(f) In each such report, the Secretary shall also include recommendations for the average student load for each category of training for each component of the armed forces for the next three fiscal years. The Secretary shall include in the report justification for, and explanation of, the average student loads recommended.
-
-(g)(1) In each such report, the Secretary shall also include recommendations for the end-strength levels for medical personnel for each component of the armed forces as of the end of the next fiscal year.
+(e)(1) In each such report, the Secretary shall also include recommendations for the end-strength levels for medical personnel for each component of the armed forces as of the end of the next fiscal year.
 
 (2) For purposes of this subsection, the term “medical personnel” includes—
 
@@ -90,13 +58,69 @@
 
 &emsp;(E) such other personnel as the Secretary considers appropriate.
 
-(Added Pub. L. 101–510, div. A, title XIV, §1483(a), Nov. 5, 1990, 104 Stat. 1711; amended Pub. L. 102–190, div. A, title X, §1061(a)(1), Dec. 5, 1991, 105 Stat. 1472.)
+\[(f) Repealed. Pub. L. 104–106, div. A, title X, §1061(d)(4), Feb. 10, 1996, 110 Stat. 442.\]
+
+\[(g) Redesignated (e)\]
+
+(h) In each such report, the Secretary shall include a separate report on the Army and Air Force military technician programs. The report shall include a presentation, shown by reserve component and shown both as of the end of the preceding fiscal year and for the next fiscal year, of the following:
+
+&emsp;(1) The number of military technicians required to be employed (as specified in accordance with Department of Defense procedures), the number authorized to be employed under Department of Defense personnel procedures, and the number actually employed.
+
+&emsp;(2) Within each of the numbers under paragraph (1)—
+
+&emsp;&emsp;(A) the number applicable to a reserve component management headquarter organization; and
+
+&emsp;&emsp;(B) the number applicable to high-priority units and organizations (as specified in section 10216(a) of this title).
+
+&emsp;(3) Within each of the numbers under paragraph (1), the numbers of military technicians who are not themselves members of a reserve component (so-called “single-status” technicians), with a further display of such numbers as specified in paragraph (2).
+
+(Added Pub. L. 101–510, div. A, title XIV, §1483(a), Nov. 5, 1990, 104 Stat. 1711; amended Pub. L. 102–190, div. A, title X, §1061(a)(1), Dec. 5, 1991, 105 Stat. 1472; Pub. L. 104–106, div. A, title V, §513(e), title X, §1061(d), Feb. 10, 1996, 110 Stat. 307, 442.)
 
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in section 115(b)(1)(D), (3), (c)(2) of this title, prior to repeal by Pub. L. 101–510, §1483(a).
 
 #### Amendments
+
+1996—Subsec. (b)(2)(C). Pub. L. 104–106, §1061(d)(1), struck out subpar. (C) which read as follows: “Area of deployment and illustrative areas of potential deployment, including a description of any United States commitment to defend such areas.”
+
+Subsec. (d). Pub. L. 104–106, §1061(d)(3), redesignated subsec. (e) as (d) and struck out pars. (4) and (5) which read as follows:
+
+“(4) An analysis of the distribution of each of the following categories of officers serving on active duty on the last day of the preceding fiscal year by grade in which serving and years of active commissioned service:
+
+&emsp;“(A) Regular officers.
+
+&emsp;“(B) Reserve officers on the active-duty list.
+
+&emsp;“(C) Reserve officers described in clauses (B) and (C) of section 523(b)(1) of this title.
+
+&emsp;“(D) Officers other than those specified in subparagraphs (A), (B), and (C) serving in a temporary grade.
+
+“(5) An analysis of the number of officers and enlisted members serving on active duty for training as of the last day of the preceding fiscal year under orders specifying an aggregate period in excess of 180 days and an estimate for the current fiscal year of the number that will be ordered to such duty, tabulated by—
+
+&emsp;“(A) recruit and specialized training;
+
+&emsp;“(B) flight training;
+
+&emsp;“(C) professional training in military and civilian institutions; and
+
+&emsp;“(D) officer acquisition training.”
+
+Pub. L. 104–106, §1061(d)(2), struck out subsec. (d) which read as follows: “In each such report, the Secretary shall also—
+
+&emsp;“(1) identify, define, and group by mission and by region the types of military bases, installations, and facilities;
+
+&emsp;“(2) provide an explanation and justification of the relationship between this base structure and the proposed military force structure; and
+
+&emsp;“(3) provide a comprehensive identification of base operating support costs and an evaluation of possible alternatives to reduce those costs.”
+
+Subsec. (e). Pub. L. 104–106, §1061(d)(5), redesignated subsec. (g) as (e). Former subsec. (e) redesignated (d).
+
+Subsec. (f). Pub. L. 104–106, §1061(d)(4), struck out subsec. (f) which read as follows: “In each such report, the Secretary shall also include recommendations for the average student load for each category of training for each component of the armed forces for the next three fiscal years. The Secretary shall include in the report justification for, and explanation of, the average student loads recommended.”
+
+Subsec. (g). Pub. L. 104–106, §1061(d)(5), redesignated subsec. (g) as (e).
+
+Subsec. (h). Pub. L. 104–106, §513(e), added subsec. (h).
 
 1991—Subsec. (d)(3). Pub. L. 102–190 inserted “provide” before “a comprehensive”.
 
@@ -106,5 +130,5 @@ Section 402 of Pub. L. 102–190, as amended by Pub. L. 102–484, div. A, title
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 129a of this title.
+This section is referred to in sections 129a, 129c of this title.
 

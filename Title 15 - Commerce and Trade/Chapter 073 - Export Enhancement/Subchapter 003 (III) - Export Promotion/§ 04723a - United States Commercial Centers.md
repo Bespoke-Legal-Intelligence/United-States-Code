@@ -60,7 +60,7 @@ Each Center shall be staffed by members of the United States and Foreign Commerc
 
 #### (1) Physical accommodations for the Centers
 
-&emsp;The Secretary of Commerce shall locate each Center in the primary commercial city ofthe host country. The Secretary shall acquire office space, exhibition space, and other facilities and equipment that are necessary for each Center to perform its functions. To the extent feasible, each Center shall be located in the central commercial district of the host city.
+&emsp;The Secretary of Commerce shall locate each Center in the primary commercial city of the host country. The Secretary shall acquire office space, exhibition space, and other facilities and equipment that are necessary for each Center to perform its functions. To the extent feasible, each Center shall be located in the central commercial district of the host city.
 
 #### (2) Consolidation of Department of Commerce operations in host countries
 

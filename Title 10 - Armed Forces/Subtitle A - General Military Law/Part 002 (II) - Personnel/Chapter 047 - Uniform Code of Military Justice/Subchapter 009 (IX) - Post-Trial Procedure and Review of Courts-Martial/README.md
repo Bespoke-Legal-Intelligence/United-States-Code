@@ -24,8 +24,11 @@
 | [875\.](%C2%A7%2000875%20-%20Art.%2075.%20Restoration.md) | 75\. | Restoration. |
 | [876\.](%C2%A7%2000876%20-%20Art.%2076.%20Finality%20of%20proceedings%2C%20findings%2C%20and%20sentences.md) | 76\. | Finality of proceedings, findings, and sentences. |
 | [876a.](%C2%A7%2000876a%20-%20Art.%2076a.%20Leave%20required%20to%20be%20taken%20pending%20review%20of%20certain%20court-martial%20convictions.md) | 76a. | Leave required to be taken pending review of certain court-martial convictions. |
+| [876b.](%C2%A7%2000876b%20-%20Art.%2076b.%20Lack%20of%20mental%20capacity%20or%20mental%20responsibility%20commitment%20of%20accused%20for%20examination%20and%20treatment.md) | 76b. | Lack of mental capacity or mental responsibility: commitment of accused for examination and treatment. |
 
 #### Amendments
+
+1996—Pub. L. 104–106, div. A, title XI, §1133(a)(2), Feb. 10, 1996, 110 Stat. 466, added item 876b.
 
 1994—Pub. L. 103–337, div. A, title IX, §924(c)(4)(C), Oct. 5, 1994, 108 Stat. 2832, substituted “Court of Criminal Appeals” for Court of Military Review” in item 866 and “Court of Appeals for the Armed Forces” for “Court of Military Appeals” in item 867.
 
@@ -62,3 +65,4 @@
 - [&sect; 00875 - Art. 75. Restoration](%C2%A7%2000875%20-%20Art.%2075.%20Restoration.md)
 - [&sect; 00876 - Art. 76. Finality of proceedings, findings, and sentences](%C2%A7%2000876%20-%20Art.%2076.%20Finality%20of%20proceedings%2C%20findings%2C%20and%20sentences.md)
 - [&sect; 00876a - Art. 76a. Leave required to be taken pending review of certain court-martial convictions](%C2%A7%2000876a%20-%20Art.%2076a.%20Leave%20required%20to%20be%20taken%20pending%20review%20of%20certain%20court-martial%20convictions.md)
+- [&sect; 00876b - Art. 76b. Lack of mental capacity or mental responsibility commitment of accused for examination and treatment](%C2%A7%2000876b%20-%20Art.%2076b.%20Lack%20of%20mental%20capacity%20or%20mental%20responsibility%20commitment%20of%20accused%20for%20examination%20and%20treatment.md)

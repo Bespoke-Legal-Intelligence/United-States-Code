@@ -6,7 +6,7 @@ The authority provided by this chapter is in addition to, and not in lieu of, an
 
 #### (b) Attorney General and Commission
 
-This chapter shall not be construed to modify or affect the allocation of responsibility betweenthe Attorney General and the Commission for the enforcement of the Federal antitrust laws.
+This chapter shall not be construed to modify or affect the allocation of responsibility between the Attorney General and the Commission for the enforcement of the Federal antitrust laws.
 
 (Pub. L. 103–438, §10, Nov. 2, 1994, 108 Stat. 4602.)
 

@@ -48,7 +48,3 @@ Priority of lien of United States in case of insolvency, see section 3713 of Tit
 
 Seizure of property for collection of taxes, see section 6331 et seq. of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 18 section 3613.
-

@@ -4,7 +4,7 @@
 
 From funds reserved in each fiscal year under section 5884(a)(2)(A) of this title, the Secretary may, directly or through grants or contracts—
 
-&emsp;(1) provide technical assistance to States, local educational agencies, and tribal agencies developing or implementing school improvement plans, in a manner that ensures that such assistance is broadly available;
+&emsp;(1) provide technical assistance to States, local educational agencies, and tribal agenciesdeveloping or implementing school improvement plans, in a manner that ensures that such assistance is broadly available;
 
 &emsp;(2) gather data on, conduct research on, and evaluate systemic education improvement and how such improvement affects student learning, including the programs assisted under this subchapter;
 
@@ -16,7 +16,7 @@ From funds reserved in each fiscal year under section 5884(a)(2)(A) of this titl
 
 &emsp;(6) support model projects to integrate multiple content standards, if—
 
-&emsp;&emsp;(A) such standards are certified by the National Education Standards and Improvement Council and approved by the National Goals Panel for different subject areas, in order to provide balanced and coherent instructional programs for all students; and
+&emsp;&emsp;(A) such standards are approved by the National Goals Panel for different subject areas, in order to provide balanced and coherent instructional programs for all students; and
 
 &emsp;&emsp;(B) such projects are appropriate for a wide range of diverse circumstances, localities (including both urban and rural communities), and populations.
 
@@ -34,7 +34,11 @@ From funds reserved in each fiscal year under section 5884(a)(2)(A) of this titl
 
 Any activities assisted under this section that involve research shall be administered through the Office of Educational Research and Improvement.
 
-(Pub. L. 103–227, title III, §314, Mar. 31, 1994, 108 Stat. 180.)
+(Pub. L. 103–227, title III, §314, Mar. 31, 1994, 108 Stat. 180; Pub. L. 104–134, title I, §101(d) \[title VII, §703(a)(13)\], Apr. 26, 1996, 110 Stat. 1321–211, 1321–253; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.)
+
+#### Amendments
+
+1996—Subsec. (a)(6)(A). Pub. L. 104–134 struck out “certified by the National Education Standards and Improvement Council and” after “such standards are”.
 
 #### Section Referred to in Other Sections
 

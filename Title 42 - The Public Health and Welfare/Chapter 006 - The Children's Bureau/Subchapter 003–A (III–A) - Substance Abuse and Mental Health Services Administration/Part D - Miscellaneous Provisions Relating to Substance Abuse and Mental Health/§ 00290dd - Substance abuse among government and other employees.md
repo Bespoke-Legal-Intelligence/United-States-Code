@@ -14,7 +14,7 @@
 
 #### (B) Dissemination of information
 
-&emsp;&emsp;The Secretary, acting through the Administrator of the Substance Abuse and Mental Health Services Administration, shall disseminate information and materials relative to such model programs to the State agencies responsible for the administration of substance abuse prevention, treatment, and rehabilitation activities and shall, to the extent feasible provide technical assistance to such agencies as requested.
+&emsp;&emsp;The Secretary, acting through the Administrator of the Substance Abuse and MentalHealth Services Administration, shall disseminate information and materials relative to such model programs to the State agencies responsible for the administration of substance abuse prevention, treatment, and rehabilitation activities and shall, to the extent feasible provide technical assistance to such agencies as requested.
 
 #### (b) Deprivation of employment
 
@@ -56,7 +56,7 @@ Section was formerly classified to section 4571 of this title prior to renumberi
 
 #### Amendments
 
-1992—Pub. L. 102–321 amended section generally, substituting provisions relating to substance abuse amonggovernment and other employees for provisions relating to technical assistance to States relative to alcohol abuse and alcoholism programs.
+1992—Pub. L. 102–321 amended section generally, substituting provisions relating to substance abuse among government and other employees for provisions relating to technical assistance to States relative to alcohol abuse and alcoholism programs.
 
 1989—Subsec. (a)(4). Pub. L. 101–93 directed that subsec. (a)(4) of this section as similarly amended by title VIII of Pub. L. 100–607 and title VI of Pub. L. 100–628 be amended to read as if the amendments made by title VI of Pub. L. 100–628 had not been enacted. See 1988 Amendment note below.
 
@@ -88,7 +88,7 @@ Amendment by Pub. L. 102–321 effective Oct. 1, 1992, with provision for progra
 
 #### Effective Date of 1988 Amendments
 
-Amendment by Pub. L. 100–628 effective Nov. 7, 1988, see section 631 of Pub. L. 100–628, set out as a note under section 256 of this title.
+Amendment by Pub. L. 100–628 effective Nov. 7, 1988, see section 631 of Pub. L. 100–628, set out as a note under section 254e of this title.
 
-Amendment by Pub. L. 100–607 effective Nov. 4, 1988, see section 831 of Pub. L. 100–607, set out as a note under section 256 of this title.
+Amendment by Pub. L. 100–607 effective Nov. 4, 1988, see section 831 of Pub. L. 100–607, set out as a note under section 254e of this title.
 

@@ -30,7 +30,7 @@ In addition to the number of positions which may be placed at GS–16, GS–17, 
 
 #### (e) Determination of maximum aggregate number of positions
 
-For the purposes of determining the maximum aggregate number of positions which may be placed at GS–16, GS–17, or GS–18 under section 5108(a) of title 5, 63 percent of the positions established under subsections (b) and (c) of this section shall be deemed GS–16 positions, 25 percent of such positions shall be deemed GS–17 positions, and 12 percent of such positions shall be deemed GS–18.
+For the purposes of determining the maximum aggregate number of positions which may be placed at GS–16, GS–17, or GS–18 under section 5108(a) of title 5, 63 percent of the positions established under subsections (b) and (c) of thissection shall be deemed GS–16 positions, 25 percent of such positions shall be deemed GS–17 positions, and 12 percent of such positions shall be deemed GS–18.
 
 #### (f) Intelligence and intelligence-related positions exempt from competitive service
 
@@ -108,7 +108,7 @@ EPA Study.—(1) Upon the 50th appointment made by the Secretary pursuant to sub
 
 “(4) The Administrator, in consultation with the Secretary, shall submit to Congress a report on the study conducted under paragraph (1). The report shall be submitted not later than 30 days after the date upon which the Secretary has made the 50th appointment pursuant to subsection (a)(1)(B). The Secretary may not make more than 50 such appointments until the submission of the report.
 
-“(5) If, as a result of the study conducted under paragraph (1), the Administrator, in consultation with the Secretary, determines that serious problems have resulted at any site on the National Priorities List from appointments made pursuant to subsection (a)(1)(B), the Administrator and the Secretary shall jointly submit to Congress, together with the report referred to in paragraph (4), a plan to ameliorate the effects of those serious problems. Under the plan, the Administrator and the Secretary shall provide for—
+“(5) If, as a result of the study conducted under paragraph (1), the Administrator, in consultation with theSecretary, determines that serious problems have resulted at any site on the National Priorities List from appointments made pursuant to subsection (a)(1)(B), the Administrator and the Secretary shall jointly submit to Congress, together with the report referred to in paragraph (4), a plan to ameliorate the effects of those serious problems. Under the plan, the Administrator and the Secretary shall provide for—
 
 &emsp;“(A) a reduction in the rate at which persons are appointed pursuant to such subsection;
 
@@ -127,10 +127,6 @@ EPA Study.—(1) Upon the 50th appointment made by the Secretary pursuant to sub
 Termination.—(1) The authority provided under subsection (a)(1) shall terminate on September 30, 1997.
 
 “(2) An employee may not be separated from employment with the Department of Energy or receive a reduction in pay by reason of the termination of authority under paragraph (1).”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7211 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

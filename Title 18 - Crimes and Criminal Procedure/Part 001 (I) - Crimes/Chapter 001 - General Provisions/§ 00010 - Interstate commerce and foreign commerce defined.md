@@ -1,4 +1,4 @@
-### §10 . Interstate commerce and foreign commerce defined
+### §10. Interstate commerce and foreign commerce defined
 
 The term “interstate commerce”, as used in this title, includes commerce between one State, Territory, Possession, or the District of Columbia and another State, Territory, Possession, or the District of Columbia.
 

@@ -42,7 +42,7 @@ Pub. L. 94–455, title V, §507, Oct. 4, 1976, 90 Stat. 1569, mandated a full a
 
 #### Study of Expanded Participation in Individual Retirement Accounts
 
-Pub. L. 94–455, title XV, §1509, Oct. 4, 1976, 90 Stat. 1741, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The Joint Committee on Taxation shall carry out a study with respect to broadening the class of individuals who are eligible to claim a deduction for retirement savings under sections 219 or 220 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] to include individuals who are participants in pension plans described in section 401(a) of such Code (relating to qualified pension, profit-sharing, and stock bonus plans) or similar plans established for its employees by the United States, by a State or political division thereof, or by an agency or instrumentality of the United States or a State or political division thereof. The Joint Committee shall report its findings to the Committee on Ways and Means of the House of Representatives and to the Committee on Finance of the Senate.”
+Pub. L. 94–455, title XV, §1509, Oct. 4, 1976, 90 Stat. 1741, directed Joint Committee on Taxation to carry out study with respect to broadening class of individuals eligible to claim deduction for retirement savings under section 219 or 220 of this title, and to report its findings to Committee on Ways and Means of the House of Representatives and to Committee on Finance of the Senate.
 
 #### Tax Incentives Study
 

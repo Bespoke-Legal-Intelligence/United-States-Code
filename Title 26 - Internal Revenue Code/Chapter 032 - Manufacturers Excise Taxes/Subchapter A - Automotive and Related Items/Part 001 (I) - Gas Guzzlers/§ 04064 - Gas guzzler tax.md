@@ -4,61 +4,22 @@
 
 There is hereby imposed on the sale by the manufacturer of each automobile a tax determined in accordance with the following table:
 
-<b>If the fuel economy of the model type</b>
+&nbsp;
 
-<b> in which the automobile falls is:</b>
-
-<b>The tax is:</b>
-
-&nbsp;&nbsp;At least 22.5
-
-$0&nbsp;
-
-&nbsp;&nbsp;At least 21.5 but less than 22.5
-
-1,000&nbsp;
-
-&nbsp;&nbsp;At least 20.5 but less than 21.5
-
-1,300&nbsp;
-
-&nbsp;&nbsp;At least 19.5 but less than 20.5
-
-1,700&nbsp;
-
-&nbsp;&nbsp;At least 18.5 but less than 19.5
-
-2,100&nbsp;
-
-&nbsp;&nbsp;At least 17.5 but less than 18.5
-
-2,600&nbsp;
-
-&nbsp;&nbsp;At least 16.5 but less than 17.5
-
-3,000&nbsp;
-
-&nbsp;&nbsp;At least 15.5 but less than 16.5
-
-3,700&nbsp;
-
-&nbsp;&nbsp;At least 14.5 but less than 15.5
-
-4,500&nbsp;
-
-&nbsp;&nbsp;At least 13.5 but less than 14.5
-
-5,400&nbsp;
-
-&nbsp;&nbsp;At least 12.5 but less than 13.5
-
-6,400&nbsp;
-
-&nbsp;&nbsp;Less than 12.5
-
-7,700.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+| <b>If the fuel economy of the model type</b> in which the automobile falls is: | <b>The tax is:</b> |
+| :--- | ---: |
+| At least 22.5 | $0&nbsp;&nbsp; |
+| At least 21.5 but less than 22.5 | 1,000&nbsp;&nbsp; |
+| At least 20.5 but less than 21.5 | 1,300&nbsp;&nbsp; |
+| At least 19.5 but less than 20.5 | 1,700&nbsp;&nbsp; |
+| At least 18.5 but less than 19.5 | 2,100&nbsp;&nbsp; |
+| At least 17.5 but less than 18.5 | 2,600&nbsp;&nbsp; |
+| At least 16.5 but less than 17.5 | 3,000&nbsp;&nbsp; |
+| At least 15.5 but less than 16.5 | 3,700&nbsp;&nbsp; |
+| At least 14.5 but less than 15.5 | 4,500&nbsp;&nbsp; |
+| At least 13.5 but less than 14.5 | 5,400&nbsp;&nbsp; |
+| At least 12.5 but less than 13.5 | 6,400&nbsp;&nbsp; |
+| Less than 12.5 | 7,700. |
 
 #### (b) Definitions
 
@@ -198,7 +159,7 @@ Section 201(g) of Pub. L. 95–618, as amended by Pub. L. 99–514, §2, Oct. 22
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
 #### Section Referred to in Other Sections
 

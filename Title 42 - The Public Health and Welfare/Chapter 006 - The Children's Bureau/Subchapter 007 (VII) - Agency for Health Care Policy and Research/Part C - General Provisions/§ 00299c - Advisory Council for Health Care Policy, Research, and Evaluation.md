@@ -66,7 +66,7 @@ There is established an advisory council to be known as the National Advisory Co
 
 #### (e) Vacancies
 
-If a member of the Council appointed under subsection (c)(2) of this section does not serve the full term applicable under subsection (d) of this section, the individual appointed to fill theresulting vacancy shall be appointed for the remainder of the term of the predecessor of the individual.
+If a member of the Council appointed under subsection (c)(2) of this section does not serve the full term applicable under subsection (d) of this section, the individual appointed to fill the resulting vacancy shall be appointed for the remainder of the term of the predecessor of the individual.
 
 #### (f) Chair
 
@@ -80,7 +80,7 @@ The Council shall meet not less than once during each discrete 4-month period an
 
 #### (1) Appointed members
 
-&emsp;Members of the Council appointed under subsection (c)(2) of this section shall receive compensation for each day (including traveltime) engaged in carrying out the duties of the Council. Such compensation may not be in an amount in excess of the maximum rate of basic pay payable for GS–18 of the General Schedule.
+&emsp;Members of the Council appointed under subsection (c)(2) of this section shall receivecompensation for each day (including traveltime) engaged in carrying out the duties of the Council. Such compensation may not be in an amount in excess of the maximum rate of basic pay payable for GS–18 of the General Schedule.
 
 #### (2) Ex officio members
 

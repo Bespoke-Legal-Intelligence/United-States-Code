@@ -2,7 +2,7 @@
 
 #### (a) Authorization of appropriations to Secretary of Agriculture
 
-There are authorized to be appropriated to the Secretary of Agriculture such sums as are necessary to carry out this subchapter in each of the fiscal years 1991 through 1995.
+There are authorized to be appropriated to the Secretary of Agriculture such sums as are necessary to carry out this subchapter in each of the fiscal years 1991 through 1997.
 
 #### (b) Administration and management
 
@@ -16,9 +16,11 @@ Notwithstanding any other provision of this subchapter the authority to enter in
 
 Notwithstanding any other provision of this subchapter, the Secretaries and the Joint Commission shall limit their activities under this subchapter to critical agricultural materials other than native latex after the close of the fiscal year ending September 30, 1988.
 
-(Pub. L. 95–592, §16, Nov. 4, 1978, 92 Stat. 2534; Pub. L. 98–284, §15, May 16, 1984, 98 Stat. 184; Pub. L. 101–624, title XVI, §1601(e), Nov. 28, 1990, 104 Stat. 3704.)
+(Pub. L. 95–592, §16, Nov. 4, 1978, 92 Stat. 2534; Pub. L. 98–284, §15, May 16, 1984, 98 Stat. 184; Pub. L. 101–624, title XVI, §1601(e), Nov. 28, 1990, 104 Stat. 3704; Pub. L. 104–127, title VIII, §881(b), Apr. 4, 1996, 110 Stat. 1175.)
 
 #### Amendments
+
+1996—Subsec. (a). Pub. L. 104–127 substituted “1997” for “1995”.
 
 1990—Subsec. (a). Pub. L. 101–624, §1601(e)(1), added subsec. (a) and struck out former subsec. (a) which read as follows: “There is authorized to be appropriated to the Secretary of Agriculture $2,500,000 for each of the fiscal years ending September 30, 1980, and September 30, 1981, $5,000,000 for each of the fiscal years ending September 30, 1982, and September 30, 1983, $5,000,000 for the fiscal year ending September 30, 1984, $5,500,000 for the fiscal year ending September 30, 1985, $6,500,000 for the fiscal year ending September 30, 1986, $7,500,000 for the fiscal year ending September 30, 1987, and $8,000,000 for the fiscal year ending September 30, 1988, to carry out the purposes of this subchapter. Funds appropriated under this paragraph shall be available for obligation until the last day of the fiscal year after the year for which such funds are authorized.”
 

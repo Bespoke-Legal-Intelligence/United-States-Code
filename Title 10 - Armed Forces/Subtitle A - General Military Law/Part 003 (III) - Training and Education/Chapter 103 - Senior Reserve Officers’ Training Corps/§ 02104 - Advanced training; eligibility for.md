@@ -20,7 +20,7 @@
 
 &emsp;&emsp;&emsp;(i) the first two years of a four-year Senior Reserve Officers’ Training Corps course; or
 
-&emsp;&emsp;&emsp;(ii) field training or a practice cruise of not less than six weeks’ duration which is prescribed by the Secretary concerned as a preliminary requirement for admission to the advanced course; or
+&emsp;&emsp;&emsp;(ii) field training or a practice cruise of a duration which is prescribed by the Secretary concerned as a preliminary requirement for admission to the advanced course; or
 
 &emsp;&emsp;(B) at the discretion of the Secretary concerned, agree in writing to complete field training or a practice cruise, as prescribed by the Secretary concerned, within two years after admission to the advanced course; and
 
@@ -30,7 +30,7 @@
 
 (d) This section does not apply to cadets and midshipmen appointed under section 2107, or foreign students enrolled under section 2103(b), of this title.
 
-(Added Pub. L. 88–647, title II, §201(1), Oct. 13, 1964, 78 Stat. 1065; amended Pub. L. 98–94, title X, §1003(a)(2), Sept. 24, 1983, 97 Stat. 656; Pub. L. 98–525, title V, §543(a), title XIV, §1401(h), Oct. 19, 1984, 98 Stat. 2530, 2619.)
+(Added Pub. L. 88–647, title II, §201(1), Oct. 13, 1964, 78 Stat. 1065; amended Pub. L. 98–94, title X, §1003(a)(2), Sept. 24, 1983, 97 Stat. 656; Pub. L. 98–525, title V, §543(a), title XIV, §1401(h), Oct. 19, 1984, 98 Stat. 2530, 2619; Pub. L. 104–106, div. A, title V, §544, Feb. 10, 1996, 110 Stat. 317.)
 
 #### Prior Provisions
 
@@ -100,6 +100,8 @@ June 30, 1954, ch. 432, title VII, §731, 68 Stat. 356.
 
 #### Amendments
 
+1996—Subsec. (b)(6)(A)(ii). Pub. L. 104–106 substituted “a duration” for “not less than six weeks’ duration”.
+
 1984—Subsec. (a). Pub. L. 98–525, §543(a)(1), struck out “, who have at least two academic years remaining at such educational institution” after “in the program”.
 
 Subsec. (b)(6). Pub. L. 98–525, §543(a)(2), inserted initial word “either”, redesignated existing subpars. (A) and (B) as cls. (i) and (ii) of subpar. (A), and added subpar. (B).
@@ -116,5 +118,5 @@ Amendment by section 1401(h) of Pub. L. 98–525 effective Oct. 1, 1985, see sec
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1475, 1478, 2105, 2106, 2109 of this title; title 37 section 209.
+This section is referred to in sections 1475, 1478, 2103, 2105, 2106, 2109 of this title; title 37 section 209.
 

@@ -1,12 +1,14 @@
 ### §1741. Criteria for payment
 
-(a) The Secretary shall pay each State at the per diem rate of—
+(a)(1) The Secretary shall pay each State at the per diem rate of—
 
-&emsp;(1) $8.70 for domiciliary care; and
+&emsp;(A) $8.70 for domiciliary care; and
 
-&emsp;(2) $20.35 for nursing home care and hospital care,
+&emsp;(B) $20.35 for nursing home care and hospital care,
 
 > for each veteran receiving such care in a State home, if such veteran is eligible for such care in a Department facility.
+
+(2) The Secretary may pay each State per diem at a rate determined by the Secretary for each veteran receiving adult day health care in a State home, if such veteran is eligible for such care under laws administered by the Secretary.
 
 (b) In no case shall the payments made with respect to any veteran under this section exceed one-half of the cost of the veterans’ care in such State home.
 
@@ -14,13 +16,15 @@
 
 (d) Subject to section 1743 of this title, the payment of per diem for care furnished in a State home facility shall commence on the date of the completion of the inspection for recognition of the facility under section 1742(a) of this title if the Secretary determines, as a result of that inspection, that the State home meets the standards described in such section.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1146, §641; Pub. L. 86–625, July 12, 1960, 74 Stat. 424; Pub. L. 87–819, §1, Oct. 15, 1962, 76 Stat. 935; Pub. L. 88–450, §3(a), Aug. 19, 1964, 78 Stat. 500; Pub. L. 90–432, §1, July 26, 1968, 82 Stat. 448; Pub. L. 91–178, §1, Dec. 30, 1969, 83 Stat. 836; Pub. L. 93–82, title IV, §403(a), Aug. 2, 1973, 87 Stat. 196; Pub. L. 94–417, §1(a), Sept. 21, 1976, 90 Stat. 1277; Pub. L. 94–581, title II, §202(<i>o</i>), Oct. 21, 1976, 90 Stat. 2856; Pub. L. 96–151, title I, §101(b)(1), Dec. 20, 1979, 93 Stat. 1092; Pub. L. 98–160, title I, §105(a), Nov. 21, 1983, 97 Stat. 998; Pub. L. 100–322, title I, §134(a), May 20, 1988, 102 Stat. 507; renumbered §1741 and amended Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–585, title IV, §406, Nov. 4, 1992, 106 Stat. 4954; Pub. L. 104–66, title I, §1141(a), Dec. 21, 1995, 109 Stat. 726.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1146, §641; Pub. L. 86–625, July 12, 1960, 74 Stat. 424; Pub. L. 87–819, §1, Oct. 15, 1962, 76 Stat. 935; Pub. L. 88–450, §3(a), Aug. 19, 1964, 78 Stat. 500; Pub. L. 90–432, §1, July 26, 1968, 82 Stat. 448; Pub. L. 91–178, §1, Dec. 30, 1969, 83 Stat. 836; Pub. L. 93–82, title IV, §403(a), Aug. 2, 1973, 87 Stat. 196; Pub. L. 94–417, §1(a), Sept. 21, 1976, 90 Stat. 1277; Pub. L. 94–581, title II, §202(<i>o</i>), Oct. 21, 1976, 90 Stat. 2856; Pub. L. 96–151, title I, §101(b)(1), Dec. 20, 1979, 93 Stat. 1092; Pub. L. 98–160, title I, §105(a), Nov. 21, 1983, 97 Stat. 998; Pub. L. 100–322, title I, §134(a), May 20, 1988, 102 Stat. 507; renumbered §1741 and amended Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–585, title IV, §406, Nov. 4, 1992, 106 Stat. 4954; Pub. L. 104–66, title I, §1141(a), Dec. 21, 1995, 109 Stat. 726; Pub. L. 104–262, title III, §342(a), Oct. 9, 1996, 110 Stat. 3206.)
 
 #### Prior Provisions
 
 Prior sections 1740 and 1741 were renumbered sections 3540 and 3541 of this title, respectively.
 
 #### Amendments
+
+1996—Subsec. (a). Pub. L. 104–262 designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, and added par. (2).
 
 1995—Subsecs. (c) to (e). Pub. L. 104–66 redesignated subsecs. (d) and (e) as (c) and (d), respectively, and struck out former subsec. (c) which read as follows: “The Secretary shall submit every three years to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on the adequacy of the rates provided in subsection (a) of this section in light of projections over each of the following five years of the demand on the Department for the provision of nursing home care to veterans eligible for such care under this section and sections 1710 and 1720 of this title. The first such report shall be submitted not later than June 30, 1986.”
 
@@ -116,5 +120,5 @@ Section 3(b) of Pub. L. 88–450 provided that: “No payment shall be made to a
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 5503, 8122, 8126 of this title; title 42 section 1396r–8.
+This section is referred to in sections 2303, 5503, 8122, 8126 of this title; title 42 section 1396r–8.
 

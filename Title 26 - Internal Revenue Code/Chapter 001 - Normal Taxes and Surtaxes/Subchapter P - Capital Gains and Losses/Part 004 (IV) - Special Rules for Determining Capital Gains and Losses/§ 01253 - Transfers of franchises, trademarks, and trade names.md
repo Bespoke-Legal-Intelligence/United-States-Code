@@ -68,13 +68,15 @@ Amounts received or accrued on account of a transfer, sale, or other disposition
 
 This section shall not apply to the transfer of a franchise to engage in professional football, basketball, baseball, or other professional sport.
 
-(Added Pub. L. 91–172, title V, §516(c)(1), Dec. 30, 1969, 83 Stat. 647; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 101–239, title VII, §7622(a)–(c), Dec. 19, 1989, 103 Stat. 2377; Pub. L. 101–508, title XI, §11701(i), Nov. 5, 1990, 104 Stat. 1388–508; Pub. L. 103–66, title XIII, §13261(c), Aug. 10, 1993, 107 Stat. 539.)
+(Added Pub. L. 91–172, title V, §516(c)(1), Dec. 30, 1969, 83 Stat. 647; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 101–239, title VII, §7622(a)–(c), Dec. 19, 1989, 103 Stat. 2377; Pub. L. 101–508, title XI, §11701(i), Nov. 5, 1990, 104 Stat. 1388–508; Pub. L. 103–66, title XIII, §13261(c), Aug. 10, 1993, 107 Stat. 539; Pub. L. 104–188, title I, §1704(t)(47), Aug. 20, 1996, 110 Stat. 1889.)
 
 #### Amendments
 
+1996—Subsec. (d)(4). Pub. L. 104–188 provided that section 11701(i) of Pub. L. 101–508 shall be applied as if“subsection” appeared instead of “section” in the material proposed to be stricken. See 1990 Amendment note below.
+
 1993—Subsec. (d)(2) to (5). Pub. L. 103–66 added pars. (2) and (3) and struck out former pars. (2) relating to deduction of certain payments for transfer of a franchise, trademark, or trade name not treated as sale or exchange of capital asset, (3) relating to treatment of amounts paid or incurred on account of transfer, sale, or other disposition of a franchise, trademark, or trade name to which pars. (1) and (2) did not apply, (4) relating to renewals for purposes of determining term of transfer agreement under this section or period of amortization under this subtitle, and (5) relating to rules applicable to this subsection.
 
-1990—Subsec. (d)(4). Pub. L. 101–508, §11701(i), which directed the substitution of “under this section or any period of amortization under this subtitle for any payment described in this section” for “or any period of amortization under this section”, was executed by making the substitution for “or any period of amortization under this subsection” to reflect the probable intent of Congress.
+1990—Subsec. (d)(4). Pub. L. 101–508, §11701(i), which directed the substitution of “under this section or any period of amortization under this subtitle for any payment described in this section” for “or any period of amortization under this section”, was executed by making the substitution for “or any period of amortization under this subsection”. See 1996 Amendment note above.
 
 1989—Subsec. (d)(1). Pub. L. 101–239, §7622(a), substituted “serial payments” for “payments” in heading and amended text generally. Prior to amendment, text read as follows: “Amounts paid or incurred during the taxable year on account of a transfer, sale, or other disposition of a franchise, trademark, or trade name which are contingent on the productivity, use, or disposition of the franchise, trademark, or trade name transferred shall be allowed as a deduction under section 162(a) (relating to trade or business expenses).”
 

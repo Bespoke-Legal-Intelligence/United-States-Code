@@ -22,17 +22,15 @@
 
 &emsp;&emsp;&emsp;(iv) significantly upgrading the quality of the curriculum and instruction by providing staff in participating schools with substantial opportunities for professional development;
 
-&emsp;&emsp;&emsp;(v) using and evaluating the usefulness of opportunity-to-learn standards or strategies in improving learning in schools receiving assistance under this part;
+&emsp;&emsp;&emsp;(v) coordinating services provided under all parts of this subchapter with each other, with other educational and pupil services, including preschool services, and, to the extent feasible, with health and social service programs funded from other sources;
 
-&emsp;&emsp;&emsp;(vi) coordinating services provided under all parts of this subchapter with each other, with other educational and pupil services, including preschool services, and, to the extent feasible, with health and social service programs funded from other sources;
+&emsp;&emsp;&emsp;(vi) affording parents of children served under this subchapter meaningful opportunities to participate in the education of their children at home and at school, such as the provision of family literacy services;
 
-&emsp;&emsp;&emsp;(vii) affording parents of children served under this subchapter meaningful opportunities to participate in the education of their children at home and at school, such as the provision of family literacy services;
+&emsp;&emsp;&emsp;(vii) distributing resources to areas where needs are greatest;
 
-&emsp;&emsp;&emsp;(viii) distributing resources to areas where needs are greatest;
+&emsp;&emsp;&emsp;(viii) improving accountability, as well as teaching and learning, by making assessments under this subchapter congruent with State assessment systems; and
 
-&emsp;&emsp;&emsp;(ix) improving accountability, as well as teaching and learning, by making assessments under this subchapter congruent with State assessment systems; and
-
-&emsp;&emsp;&emsp;(x) providing greater decisionmaking authority and flexibility to schools in exchange for greater responsibility for student performance.
+&emsp;&emsp;&emsp;(ix) providing greater decisionmaking authority and flexibility to schools in exchange for greater responsibility for student performance.
 
 #### (3) NAEP information
 
@@ -96,11 +94,15 @@ In conducting the national assessment under subsection (a) of this section and t
 
 &emsp;&emsp;(C) disseminate the findings, relating to the successful local policies and programs which improve parental involvement and the performance of participating children, to local educational agencies.
 
-(Pub. L. 89–10, title I, §1501, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3601.)
+(Pub. L. 89–10, title I, §1501, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3601; amended Pub. L. 104–134, title I, §101(d) \[title VII, §703(b)(3)\], Apr. 26, 1996, 110 Stat. 1321–211, 1321–255; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.)
+
+#### Amendments
+
+1996—Subsec. (a)(2)(B)(v) to (x). Pub. L. 104–134 redesignated cls. (vi) to (x) as (v) to (ix), respectively, and struck out former cl. (v) which read as follows: “using and evaluating the usefulness of opportunity-to-learn standards or strategies in improving learning in schools receiving assistance under this part;”.
 
 #### Change of Name
 
-Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Economic and Educational Opportunities of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Fifth Congress, Jan. 7, 1997.
 
 #### Section Referred to in Other Sections
 

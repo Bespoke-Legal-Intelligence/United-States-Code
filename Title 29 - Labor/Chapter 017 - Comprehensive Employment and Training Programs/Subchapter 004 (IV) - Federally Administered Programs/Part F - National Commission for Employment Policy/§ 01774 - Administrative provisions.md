@@ -18,7 +18,7 @@ Subject to such rules and regulations as may be adopted by the Commission, the C
 
 &emsp;(7) conduct such studies, hearings, research activities, demonstration projects, and other similar activities as the Commission deems necessary to enable the Commission to carry out its functions under this subchapter;
 
-&emsp;(8) use the services, personnel, facilities, and information of any department, agency, and instrumentality of the executive branch of the Federal Government and the services, personnel, facilities, and information of State and local public agencies and private research agencies, with the consent of such agencies, with or without reimbursement therefor; and
+&emsp;(8) use the services, personnel, facilities, and information of any department, agency, and instrumentality of the executive branch of the Federal Government and the services, personnel, facilities, and information of State and local public agencies and private researchagencies, with the consent of such agencies, with or without reimbursement therefor; and
 
 &emsp;(9) make advances, progress, and other payments necessary under this chapter without regard to the provisions of section 3324(a) and (b) of title 31.
 

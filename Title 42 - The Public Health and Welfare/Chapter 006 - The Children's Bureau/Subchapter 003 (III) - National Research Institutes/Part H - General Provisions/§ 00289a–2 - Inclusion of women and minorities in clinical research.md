@@ -44,7 +44,7 @@ In the case of any clinical trial in which women or members of minority groups w
 
 &emsp;With respect to the circumstances under which the inclusion of women or members of minority groups (as the case may be) as subjects in a project of clinical research is inappropriate for purposes of subsection (b) of this section, the following applies to guidelines under paragraph (1):
 
-&emsp;&emsp;(A)(i) In the case of a clinical trial, the guidelines shall provide that the costs ofsuch inclusion in the trial is not a permissible consideration in determining whether such inclusion is inappropriate.
+&emsp;&emsp;(A)(i) In the case of a clinical trial, the guidelines shall provide that the costs of such inclusion in the trial is not a permissible consideration in determining whether such inclusion is inappropriate.
 
 &emsp;&emsp;(ii) In the case of other projects of clinical research, the guidelines shall provide that the costs of such inclusion in the project is not a permissible consideration in determining whether such inclusion is inappropriate unless the data regarding women or members of minority groups, respectively, that would be obtained in such project (in the event that such inclusion were required) have been or are being obtained through other means that provide data of comparable quality.
 
@@ -80,9 +80,9 @@ For purposes of this section:
 
 #### Inapplicability to Current Projects
 
-Section 133 of Pub. L. 103–43 provided that: “Section 492B of the Public Health Service Act, as added by section 131 of this Act \[this section\], shall not apply with respect to projects of clinical research for which initial funding was provided prior to the date of the enactment of this Act \[June 10, 1993\]. With respect to the inclusion of women and minorities as subjects in clinical research conducted or supported by the National Institutes of Health, any policies of the Secretary of Health and Human Services regarding such inclusion that are in effect on the day before the date of the enactment of this Act shall continue to apply to the projects referred to in the preceding sentence.”
+Section 133 of Pub. L. 103–43 provided that: “Section 492B of the Public Health Service Act, as added by section 131 of this Act \[this section\], shall not apply with respect to projects of clinical research for which initial funding was provided prior to the date of the enactment of this Act \[June 10, 1993\]. With respect to the inclusion of women and minorities as subjects in clinical research conducted or supported by the National Institutes of Health, any policies of the Secretary of Health and Human Services regarding such inclusion that are in effect on the day before the date of the enactment ofthis Act shall continue to apply to the projects referred to in the preceding sentence.”
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 283b, 287d, 289a of this title; title 38 section 318.
+This section is referred to in sections 283b, 287d, 289a of this title; title 38 sections 317, 318.
 

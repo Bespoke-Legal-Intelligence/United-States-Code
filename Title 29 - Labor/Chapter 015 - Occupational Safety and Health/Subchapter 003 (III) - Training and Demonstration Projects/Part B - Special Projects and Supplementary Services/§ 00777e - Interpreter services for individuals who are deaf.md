@@ -10,7 +10,7 @@ No grant may be made under this section unless an application therefor is submit
 
 &emsp;(1) provide assurances that the program to be conducted under this section will be operated in areas within the State which are specifically selected to provide convenient locations for the provision of services to the maximum feasible number of individuals who are deaf;
 
-&emsp;(2) include a plan which describes, in sufficient detail, the manner in which interpreter referral services will be coordinated with theinformation and referral programs required under section 721(a)(22) of this title;
+&emsp;(2) include a plan which describes, in sufficient detail, the manner in which interpreter referral services will be coordinated with the information and referral programs required under section 721(a)(22) of this title;
 
 &emsp;(3) provide assurances that the program will seek to enter into contractual or other arrangements, to the extent appropriate, with private nonprofit organizations comprised of primarily hearing-impaired individuals (or private nonprofit organizations which have the primary purpose of providing assistance or services to hearing-impaired individuals) for the operation of such programs;
 

@@ -24,17 +24,13 @@ This section shall be applicable exclusively with respect to containers of disti
 
 &emsp;&emsp;<b>(1) For other provisions relating to regulation of containers of distilled spirits, see section 5301.</b>
 
-&emsp;&emsp;<b>(2) For provisions relating to labeling containers of distilled spirits of one gallon or less for nonindustrial uses, see section 5(e) of the Federal Alcohol Administration Act (27 U.S.C. 205(e)).</b><b><sup>1</sup></b>
+&emsp;&emsp;<b>(2) For provisions relating to labeling containers of distilled spirits of one gallon or less for nonindustrial uses, see section 105(e) of the Federal Alcohol Administration Act (27 U.S.C. 205(e)).</b>
 
 &emsp;&emsp;<b>(3) For provisions relating to the marking and branding of containers of distilled spirits by proprietors, see section 5204(c).</b>
 
 &emsp;&emsp;<b>(4) For penalties and forfeitures relating to marks and brands, see sections 5604 and 5613.</b>
 
-(Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1360; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 98–369, div. A, title IV, §454(c)(5), July 18, 1984, 98 Stat. 821.)
-
-#### References in Text
-
-Section 5(e) of the Federal Alcohol Administration Act (27 U.S.C. 205(e)), referred to in subsec. (f)(2), was renumbered section 105(e) of the Federal Alcohol Administration Act by Pub. L. 100–690, title VIII, §8001(a)(2), Nov. 18, 1988, 102 Stat. 4517, and is classified to section 205(e) of Title 27, Intoxicating Liquors.
+(Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1360; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 98–369, div. A, title IV, §454(c)(5), July 18, 1984, 98 Stat. 821; Pub. L. 104–188, title I, §1704(t)(13), Aug. 20, 1996, 110 Stat. 1888.)
 
 #### Prior Provisions
 
@@ -52,6 +48,8 @@ The prior sections, act Aug. 16, 1954, ch. 736, are set out in 68A Stat. 603, 63
 
 #### Amendments
 
+1996—Subsec. (f)(2). Pub. L. 104–188 substituted “section 105(e)” for “section 5(e)”.
+
 1984—Subsecs. (d) to (f). Pub. L. 98–369 added subsec. (d), redesignated existing subsecs. (d) and (e) as (e) and (f), respectively, and in subsec. (f) added pars. (3) and (4).
 
 1976—Subsecs. (a) to (c). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
@@ -63,6 +61,4 @@ Amendment by Pub. L. 98–369 effective July 1, 1985, see section 456(b) of Pub.
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 5116, 5604 of this title.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

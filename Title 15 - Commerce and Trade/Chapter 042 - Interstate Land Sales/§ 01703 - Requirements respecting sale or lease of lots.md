@@ -10,7 +10,7 @@ It shall be unlawful for any developer or agent, directly or indirectly, to make
 
 &emsp;&emsp;(B) to sell or lease any lot unless a printed property report, meeting the requirements of section 1707 of this title, has been furnished to the purchaser or lessee in advance of the signing of any contract or agreement by such purchaser or lessee;
 
-&emsp;&emsp;(C) to sell or lease any lot where any part of the statement of record or the propertyreport contained an untrue statement of a material fact or omitted to state a material fact required to be stated therein pursuant to sections 1704 through 1707 of this title or any regulations thereunder; or
+&emsp;&emsp;(C) to sell or lease any lot where any part of the statement of record or the property report contained an untrue statement of a material fact or omitted to state a material fact required to be stated therein pursuant to sections 1704 through 1707 of this title or any regulations thereunder; or
 
 &emsp;&emsp;(D) to display or deliver to prospective purchasers or lessees advertising and promotional material which is inconsistent with information required to be disclosed in the property report; or
 
@@ -42,7 +42,7 @@ Any contract or agreement which is for the sale or lease of a lot not exempt und
 
 &emsp;(3) that, if the purchaser or lessee loses rights and interest in the lot as a result of a default or breach of the contract or agreement which occurs after the purchaser or lessee has paid 15 per centum of the purchase price of the lot, excluding any interest owed under the contract or agreement, the seller or lessor (or successor thereof) shall refund to such purchaser or lessee any amount which remains after subtracting (A) 15 per centum of the purchase price of the lot, excluding any interest owed under the contract or agreement, or the amount of damages incurred by the seller or lessor (or successor thereof) as a result of such breach, whichever is greater, from (B) the amount paid by the purchaser or lessee with respect to the purchase price of the lot, excluding any interest paid under the contract or agreement,
 
-> may be revoked at the option of the purchaser or lessee for two years from the date of the signing of such contract or agreement. This subsection shall not apply to the sale of a lot for which, within one hundred and eighty days after the signing of the sales contract, the purchaser receives a warranty deed (or, where such deed is not commonly used in the jurisdiction where the lot is located, a deed or grant that warrants at least that the grantor has not conveyed the lot to another person and that the lot is free from encumbrances made by the grantor or any other person claiming by, through, or under him or her).
+> may be revoked at the option of the purchaser or lessee for two years from the date of the signing of such contract or agreement. This subsection shall not apply to the sale of a lot for which, within one hundred and eighty days after the signing of the sales contract, the purchaser receives a warranty deed (or, where such deed is not commonly used in the jurisdiction where the lot is located, a deed or grant that warrants atleast that the grantor has not conveyed the lot to another person and that the lot is free from encumbrances made by the grantor or any other person claiming by, through, or under him or her).
 
 #### (e) Repayment of purchaser or lessee upon revocation of all money paid under contract or agreement to seller or lessor
 
@@ -52,7 +52,7 @@ If a contract or agreement is revoked pursuant to subsection (b), (c), or (d) of
 
 #### Amendments
 
-1979—Subsec. (a). Pub. L. 96–153 substituted provisions setting forth criteria in par. (1) with respect to the sale or lease of any lot not exempt under section 1702 of this title, for provisions relating to the sale or lease of any lot in any subdivision with accompanyingrequired statement of record and printed property report, and in par. (2) with respect to the sale or lease, or offer to sell or lease, any lot not exempt under section 1702(a) of this title, for provisions relating to the sale or lease, or offer to sell or lease, any lot in a subdivision through the use of specified prohibited activities.
+1979—Subsec. (a). Pub. L. 96–153 substituted provisions setting forth criteria in par. (1) with respect to the sale or lease of any lot not exempt under section 1702 of this title, for provisions relating to the sale or lease of any lot in any subdivision with accompanying required statement of record and printed property report, and in par. (2) with respect to the sale or lease, or offer to sell or lease, any lot not exempt under section 1702(a) of this title, for provisions relating to the sale or lease, or offer to sell or lease, any lot in a subdivision through the use of specified prohibited activities.
 
 Subsec. (b). Pub. L. 96–153 substituted provisions relating to revocation of contracts or agreements for the sale or lease of a lot not exempt under section 1702 of this title, for provisions relating to voidability of contracts or agreements for the purchase or lease of lots in subdivisions covered by this chapter.
 

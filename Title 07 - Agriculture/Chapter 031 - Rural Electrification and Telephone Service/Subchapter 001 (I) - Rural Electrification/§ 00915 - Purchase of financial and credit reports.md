@@ -1,6 +1,6 @@
 ### §915. Purchase of financial and credit reports
 
-The Secretary of Agriculture is authorized to purchase such financial and credit reports as may be necessary to carry out the Secretary's authorized work: <i>Provided,</i> That purchases under this authority shall not be made unless provision is made therefor in the applicable appropriation and the cost thereof is not in excess of limitations prescribed therein.
+The Secretary of Agriculture is authorized to purchase such financial and credit reports as may be necessary to carry out the Secretary's authorized work: <i>Provided</i>, That purchases under this authority shall not be made unless provision is made therefor in the applicable appropriation and the cost thereof is not in excess of limitations prescribed therein.
 
 (Sept. 21, 1944, ch. 412, title V, §505, 58 Stat. 740; Oct. 13, 1994, Pub. L. 103–354, title II, §235(b)(2), 108 Stat. 3221.)
 

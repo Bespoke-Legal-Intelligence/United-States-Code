@@ -4,9 +4,9 @@
 
 (b) Except as otherwise provided by subsection (c) of this section, the Office of Personnel Management, subject to the supervision and control of the President, may prescribe regulations under which exceptions may be made to the restrictions in subsection (a) of this section when appropriate authority determines that the exceptions are warranted because personal services otherwise cannot be readily obtained.
 
-(c)(1) Unless otherwise authorized by law and except as otherwise provided by paragraph (2) or (4) of this subsection, appropriated funds are not available for payment to an individual of pay from more than one position if the pay of one of the positions is paid by the Secretary of the Senate or the Clerk of the House of Representatives, or one of the positions is under the Office of the Architect of the Capitol, and if the aggregate gross pay from the positions exceeds $7,724 a year ($10,540, in the case of pay disbursed by the Secretary of the Senate).
+(c)(1) Unless otherwise authorized by law and except as otherwise provided by paragraph (2) or (4) of this subsection, appropriated funds are not available for payment to an individual of pay from more than one position if the pay of one of the positions is paid by the Secretary of the Senate or the Chief Administrative Officer of the House of Representatives, or one of the positions is under the Office of the Architect of the Capitol, and if the aggregate gross pay from the positions exceeds $7,724 a year ($10,540, in the case of pay disbursed by the Secretary of the Senate).
 
-(2) Notwithstanding paragraph (1) of this subsection, appropriated funds are not available for payment to an individual of pay from more than one position, for each of which the pay is disbursed by the Clerk of the House of Representatives, if the aggregate gross pay from those positions exceeds the maximum per annum gross rate of pay authorized to be paid to an employee out of the clerk hire allowance of a Member of the House.
+(2) Notwithstanding paragraph (1) of this subsection, appropriated funds are not available for payment to an individual of pay from more thanone position, for each of which the pay is disbursed by the Chief Administrative Officer of the House of Representatives, if the aggregate gross pay from those positions exceeds the maximum per annum gross rate of pay authorized to be paid to an employee out of the clerk hire allowance of a Member of the House.
 
 (3) For the purposes of this subsection, “gross pay” means the annual rate of pay (or equivalent thereof in the case of an individual paid on other than an annual basis) received by an individual.
 
@@ -24,7 +24,7 @@
 
 &emsp;(5) pay received by an individual holding a position—
 
-&emsp;&emsp;(A) the pay of which is paid by the Secretary of the Senate or the Clerk of the House of Representatives; or
+&emsp;&emsp;(A) the pay of which is paid by the Secretary of the Senate or the Chief Administrative Officer of the House of Representatives; or
 
 &emsp;&emsp;(B) under the Architect of the Capitol;
 
@@ -50,7 +50,7 @@
 
 (2) Subsection (c) of this section does not apply to pay received by a teacher of the public schools of the District of Columbia for employment in a position during the summer vacation period.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 483; Pub. L. 90–57, §105(h), July 28, 1967, 81 Stat. 143; Pub. L. 90–206, title II, §214(<i>o</i>), Dec. 16, 1967. 81 Stat. 637; Pub. L. 91–510, title IV, §477(d), Oct. 26, 1970, 84 Stat. 1195; Pub. L. 93–140, §23, Oct. 26, 1973, 87 Stat. 508; Pub. L. 93–145, §101, Nov. 1, 1973, 87 Stat. 532; Pub. L. 94–183, §2(21), Dec. 31, 1975, 89 Stat. 1058; Pub. L. 94–440, title I, §103, Oct. 1, 1976, 90 Stat. 1443; Pub. L. 95–454, title IX, §906(a)(2), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 96–70, title III, §3302(e)(8), Sept. 27, 1979, 93 Stat. 498.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 483; Pub. L. 90–57, §105(h), July 28, 1967, 81 Stat. 143; Pub. L. 90–206, title II, §214(<i>o</i>), Dec. 16, 1967. 81 Stat. 637; Pub. L. 91–510, title IV, §477(d), Oct. 26, 1970, 84 Stat. 1195; Pub. L. 93–140, §23, Oct. 26, 1973, 87 Stat. 508; Pub. L. 93–145, §101, Nov. 1, 1973, 87 Stat. 532; Pub. L. 94–183, §2(21), Dec. 31, 1975, 89 Stat. 1058; Pub. L. 94–440, title I, §103, Oct. 1, 1976, 90 Stat. 1443; Pub. L. 95–454, title IX, §906(a)(2), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 96–70, title III, §3302(e)(8), Sept. 27, 1979, 93 Stat. 498; Pub. L. 104–186, title II, §215(7), Aug. 20, 1996, 110 Stat. 1745.)
 
 Historical and Revision Notes
 
@@ -58,7 +58,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 5 U.S.C. 3105 (less (e)).
 
@@ -82,19 +84,21 @@ Sections 631 and 631a of title 31, District of Columbia Code, referred to in sub
 
 #### Amendments
 
-<b>1979</b>—Subsec. (d)(7). Pub. L. 96–70 struck out subpar. (G) which made reference to section 102 of title 2, Canal Zone Code.
+1996—Subsecs. (c)(1), (2), (d)(5)(A). Pub. L. 104–186 substituted “Chief Administrative Officer” for “Clerk”.
 
-<b>1978</b>—Subsec. (b). Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission”.
+1979—Subsec. (d)(7). Pub. L. 96–70 struck out subpar. (G) which made reference to section 102 of title 2, Canal Zone Code.
 
-<b>1976</b>—Subsec. (c)(1). Pub. L. 94–440 inserted “($10,540, in the case of pay disbursed by the Secretary of the Senate)” after “exceeds $7,724 a year”.
+1978—Subsec. (b). Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission”.
 
-<b>1975</b>—Subsec. (d)(7). Pub. L. 94–183 struck out subpar. (F) relating to section 3335 (a) or (c) of title 39, and redesignated subpars. (G) and (H) as (F) and (G), respectively.
+1976—Subsec. (c)(1). Pub. L. 94–440 inserted “($10,540, in the case of pay disbursed by the Secretary of the Senate)” after “exceeds $7,724 a year”.
 
-<b>1973</b>—Subsec. (c)(1), (4). Pub. L. 93–145 inserted reference to par. (4) in par. (1) and added par. (4).
+1975—Subsec. (d)(7). Pub. L. 94–183 struck out subpar. (F) relating to section 3335 (a) or (c) of title 39, and redesignated subpars. (G) and (H) as (F) and (G), respectively.
+
+1973—Subsec. (c)(1), (4). Pub. L. 93–145 inserted reference to par. (4) in par. (1) and added par. (4).
 
 Subsec. (e). Pub. L. 93–140 designated existing provisions as par. (1) and added par. (2).
 
-<b>1970</b>—Subsec. (c)(1). Pub. L. 91–510 inserted “and except as otherwise provided by paragraph (2) of this section” after “authorized by law” and substituted “if the aggregate gross pay from the positions exceeds $7,724 a year” for “if—
+1970—Subsec. (c)(1). Pub. L. 91–510 inserted “and except as otherwise provided by paragraph (2) of this section” after “authorized by law” and substituted “if the aggregate gross pay from the positions exceeds $7,724 a year” for “if—
 
 “(A) the pay of one or more of the positions is fixed at a single gross per annum rate, and the aggregate gross pay from the positions exceeds $6,256 a year, or
 
@@ -104,7 +108,7 @@ Subsec. (c)(2). Pub. L. 91–510 substituted provision making appropriated funds
 
 Subsec. (c)(3). Pub. L. 91–510 redesignated former cl. (2) as (3) and deleted provision which included in gross pay of an individual receiving basic pay plus additional compensation provided by law the aggregate amount received as basic and additional compensation, but excluded sums received as premium pay under subchapter V of this chapter.
 
-<b>1967</b>—Subsec. (c). Pub. L. 90–206 provided for an increase in the aggregate gross pay allowed to certain specified congressional employees on two payrolls as dual office compensation.
+1967—Subsec. (c). Pub. L. 90–206 provided for an increase in the aggregate gross pay allowed to certain specified congressional employees on two payrolls as dual office compensation.
 
 Pub. L. 90–57 designated existing dual pay limitation provisions relating to basic compensation as par. (1), redesignated cls. (1) and (2) as (A) and (B), eliminated from cl. (A) provision for pay for one of the positions by the Secretary of the Senate and restricted such cl. (A) to payments in case of employees receiving basic rates of compensation and added par. (2) dual pay limitations applicable to aggregate gross compensation of employees receiving single per annum rates of compensation.
 
@@ -126,55 +130,53 @@ Amendment by Pub. L. 90–206 effective at beginning of first pay period which b
 
 Amendment by Pub. L. 90–57, effective Aug. 1, 1967, see section 105(k) of Pub. L. 90–57, set out as an Effective Date note under section 61–1 of Title 2, The Congress.
 
-#### Transfer of Functions
-
-Certain functions of Clerk of House of Representatives transferred to Director of Non-legislative and Financial Services by section 7 of House Resolution No.423, One Hundred Second Congress, Apr. 9, 1992. Director of Non-legislative and Financial Services replaced by Chief Administrative Officer of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
-
 #### Increase in Compensation of Individuals Whose Pay is Disbursed by Secretary of Senate
 
-<b>1995</b>—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 1995, to the figure “$22,200”, see section 9 of Salary Directive of President pro tempore of the Senate, Dec. 28, 1994, set out as a note under section 60a–1 of Title 2, The Congress.
+1997—The figure “$22,200” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 1997, to the figure “$23,165”, see section 9 of Salary Directive of President pro tempore of the Senate, Dec. 18, 1996, set out as a note under section 60a–1 of Title 2, The Congress.
 
-<b>1993</b>—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 1993, to the figure “$21,764”, see section 9 of Salary Directive of President pro tempore of the Senate, Dec. 17, 1992, formerly set out as a note under section 60a–1 of Title 2.
+1995—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 1995, to the figure “$22,200”, see section 9 of Salary Directive of President pro tempore of the Senate, Dec. 28, 1994, formerly set out as a note under section 60a–1 of Title 2.
 
-<b>1992</b>—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 1992, to the figure “$20,987”, see section 9 of Salary Directive of President pro tempore of the Senate, Dec. 18, 1991, formerly set out as a note under section 60a–1 of Title 2.
+1993—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 1993, to the figure “$21,764”, see section 9 of Salary Directive of President pro tempore of the Senate, Dec. 17, 1992, formerly set out as a note under section 60a–1 of Title 2.
 
-<b>1991</b>—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 1991, to the figure “$20,141”, see section 9 of Salary Directive of President pro tempore of the Senate, Dec. 20, 1990, formerly set out as a note under section 60a–1 of Title 2.
+1992—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 1992, to the figure “$20,987”, see section 9 of Salary Directive of President pro tempore of the Senate, Dec. 18, 1991, formerly set out as a note under section 60a–1 of Title 2.
 
-<b>1990</b>—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 1990, to the figure “$19,347”, see section 9 of Salary Directive of President pro tempore of the Senate, Dec. 21, 1989, formerly set out as a note under section 60a–1 of Title 2.
+1991—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 1991, to the figure “$20,141”, see section 9 of Salary Directive of President pro tempore of the Senate, Dec. 20, 1990, formerly set out as a note under section 60a–1 of Title 2.
 
-<b>1989</b>—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 1989, to the figure “$18,674”, see section 9 of Salary Directive of President pro tempore of the Senate, Dec. 9, 1988, formerly set out as a note under section 60a–1 of Title 2.
+1990—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 1990, to the figure “$19,347”, see section 9 of Salary Directive of President pro tempore of the Senate, Dec. 21, 1989, formerly set out as a note under section 60a–1 of Title 2.
 
-<b>1988</b>—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 1988, to the figure “$17,938”, see section 9 of Salary Directive of President pro tempore of the Senate, Jan. 4, 1988, formerly set out as a note under section 60a–1 of Title 2.
+1989—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 1989, to the figure “$18,674”, see section 9 of Salary Directive of President pro tempore of the Senate, Dec. 9, 1988, formerly set out as a note under section 60a–1 of Title 2.
 
-<b>1987</b>—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 1987, to the figure “$17,586”, see section 9 of Salary Directive of President pro tempore of the Senate, Dec. 19, 1986, formerly set out as a note under section 60a–1 of Title 2.
+1988—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 1988, to the figure “$17,938”, see section 9 of Salary Directive of President pro tempore of the Senate, Jan. 4, 1988, formerly set out as a note under section 60a–1 of Title 2.
 
-<b>1985</b>—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 1985, to the figure “$17,073”, see section 9 of Salary Directive of President pro tempore of the Senate, Jan. 4, 1985, formerly set out as a note under section 60a–1 of Title 2.
+1987—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 1987, to the figure “$17,586”, see section 9 of Salary Directive of President pro tempore of the Senate, Dec. 19, 1986, formerly set out as a note under section 60a–1 of Title 2.
 
-<b>1984</b>—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 1984, to the figure “$16,495”, see section 9 of Salary Directive of President pro tempore of the Senate, Dec. 20, 1983, formerly set out as a note under section 60a–1 of Title 2.
+1985—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 1985, to the figure “$17,073”, see section 9 of Salary Directive of President pro tempore of the Senate, Jan. 4, 1985, formerly set out as a note under section 60a–1 of Title 2.
 
-<b>1982</b>—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Oct. 1, 1982, to the figure “$15,860”, see section 9 of Salary Directive of President pro tempore of the Senate, Oct. 1, 1982, formerly set out as a note under section 60a–1 of Title 2.
+1984—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 1984, to the figure “$16,495”, see section 9 of Salary Directive of President pro tempore of the Senate, Dec. 20, 1983, formerly set out as a note under section 60a–1 of Title 2.
 
-<b>1980</b>—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Oct. 1, 1980, to the figure “$14,551”, see section 9 of Salary Directive of President pro tempore of the Senate, Oct. 1, 1980, formerly set out as a note under section 60a–1 of Title 2.
+1982—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Oct. 1, 1982, to the figure “$15,860”, see section 9 of Salary Directive of President pro tempore of the Senate, Oct. 1, 1982, formerly set out as a note under section 60a–1 of Title 2.
 
-<b>1979</b>—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Oct. 1, 1979, to the figure “$13,337”, see section 9 of Salary Directive of President pro tempore of the Senate, Oct. 13, 1979, formerly set out as a note under section 60a–1 of Title 2.
+1980—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Oct. 1, 1980, to the figure “$14,551”, see section 9 of Salary Directive of President pro tempore of the Senate, Oct. 1, 1980, formerly set out as a note under section 60a–1 of Title 2.
 
-<b>1978</b>—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Oct. 1, 1978, to the figure “$12,480”, see section 9 of Salary Directive of President pro tempore of the Senate, Oct. 9, 1978, formerly set out as a note under section 60a–1 of Title 2.
+1979—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Oct. 1, 1979, to the figure “$13,337”, see section 9 of Salary Directive of President pro tempore of the Senate, Oct. 13, 1979, formerly set out as a note under section 60a–1 of Title 2.
 
-<b>1977</b>—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Oct. 1, 1977, to the figure “$11,830”, see section 9 of Salary Directive of President pro tempore of the Senate, Sept. 27, 1977, formerly set out as a note under section 60a–1 of Title 2.
+1978—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Oct. 1, 1978, to the figure “$12,480”, see section 9 of Salary Directive of President pro tempore of the Senate, Oct. 9, 1978, formerly set out as a note under section 60a–1 of Title 2.
 
-<b>1976</b>—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Oct. 1, 1976, to the figure “$11,050”, see section 9 of Salary Directive of President pro tempore of the Senate, Oct. 8, 1976, formerly set out as a note under section 60a–1 of Title 2.
+1977—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Oct. 1, 1977, to the figure “$11,830”, see section 9 of Salary Directive of President pro tempore of the Senate, Sept. 27, 1977, formerly set out as a note under section 60a–1 of Title 2.
 
-<b>1973</b>—The figure “7,724” in subsection (c)(1) of this section, deemed to refer, effective Jan. 1, 1973, to the figure “9,080”, see section 9 of Salary Directive of President pro tempore of the Senate, Dec. 16, 1972, formerly set out as a note under section 60a–1 of Title 2.
+1976—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Oct. 1, 1976, to the figure “$11,050”, see section 9 of Salary Directive of President pro tempore of the Senate, Oct. 8, 1976, formerly set out as a note under section 60a–1 of Title 2.
 
-<b>1972</b>—The figure “7,724” in subsection (c)(1) of this section, deemed to refer, effective Jan. 1, 1972, to the figure “8,637”, see section 9 of Salary Directive of President pro tempore of the Senate, Dec. 23, 1971, formerly set out as a note under section 60a–1 of Title 2.
+1973—The figure “7,724” in subsection (c)(1) of this section, deemed to refer, effective Jan. 1, 1973, to the figure “9,080”, see section 9 of Salary Directive of President pro tempore of the Senate, Dec. 16, 1972, formerly set out as a note under section 60a–1 of Title 2.
 
-<b>1971</b>—The figure “7,724” in subsection (c)(1) of this section, deemed to refer, effective Feb. 1, 1971, to the figure “8,187”, see section 9 of Salary Directive of President pro tempore of the Senate, Jan. 15, 1971, formerly set out as a note under section 60a–1 of Title 2.
+1972—The figure “7,724” in subsection (c)(1) of this section, deemed to refer, effective Jan. 1, 1972, to the figure “8,637”, see section 9 of Salary Directive of President pro tempore of the Senate, Dec. 23, 1971, formerly set out as a note under section 60a–1 of Title 2.
 
-<b>1970</b>—Adjustment by President pro tempore of the Senate with respect to Senate, by Finance Clerk of House with respect to House of Representatives, and by Architect of Capitol with respect to Office of Architect of Capitol, effective on the first day of the first pay period which begins on or after Dec. 27, 1969, of rates of pay of employees of legislative branch subject to section 214 of Pub. L. 90–206 with certain exceptions, by amounts of adjustment for corresponding rates for employees subject to the General Schedule, set out in section 5332 of this title, which had been made by section 2 of Pub. L. 91–231 raising such rates by 6 percent, see Pub. L. 91–231, set out as a note under section 5332 of this title.
+1971—The figure “7,724” in subsection (c)(1) of this section, deemed to refer, effective Feb. 1, 1971, to the figure “8,187”, see section 9 of Salary Directive of President pro tempore of the Senate, Jan. 15, 1971, formerly set out as a note under section 60a–1 of Title 2.
 
-<b>1969</b>—The figure “6,662” in subsection (c)(1)(A) of this section, as increased by Order of June 12, 1968, deemed, on and after July 1, 1969, to refer to the figure “7,287”, see section 4(d) of Salary Directive of President pro tempore of the Senate, June 17, 1969, formerly set out as a note under section 60a–1 of Title 2.
+1970—Adjustment by President pro tempore of the Senate with respect to Senate, by Finance Clerk of House with respect to House of Representatives, and by Architect of Capitol with respect to Office of Architect of Capitol, effective on the first day of the first pay period which begins on or after Dec. 27, 1969, of rates of pay of employees of legislative branch subject to section 214 of Pub. L. 90–206 with certain exceptions, by amounts of adjustment for corresponding rates for employees subject to the General Schedule, set out in section 5332 of this title, which had been made by section 2 of Pub. L. 91–231 raising such rates by 6 percent, see Pub. L. 91–231, set out as a note under section 5332 of this title.
 
-<b>1968</b>—The figure “6,256” in subsection (c)(1)(A) of this section deemed to refer, on and after July 1, 1968, to the figure “6,622”, see section 1(i) of Salary Directive of President pro tempore of the Senate, June 12, 1968, formerly set out as a note under section 60a–1 of Title 2.
+1969—The figure “6,662” in subsection (c)(1)(A) of this section, as increased by Order of June 12, 1968, deemed, on and after July 1, 1969, to refer to the figure “7,287”, see section 4(d) of Salary Directive of President pro tempore of the Senate, June 17, 1969, formerly set out as a note under section 60a–1 of Title 2.
+
+1968—The figure “6,256” in subsection (c)(1)(A) of this section deemed to refer, on and after July 1, 1968, to the figure “6,622”, see section 1(i) of Salary Directive of President pro tempore of the Senate, June 12, 1968, formerly set out as a note under section 60a–1 of Title 2.
 
 #### Cross References
 

@@ -6,11 +6,11 @@ Whoever, with like intent, having boarded, entered or secreted himself aboard a 
 
 Whoever, with intent to obtain a ride or transportation, boards or enters any aircraft owned or operated by the United States without the consent of the person in command or other duly authorized officer or agent—
 
-Shall be fined not more than $1,000 or imprisoned not more than one year, or both.
+Shall be fined under this title or imprisoned not more than one year, or both.
 
 The word “aircraft” as used in this section includes any contrivance for navigation or flight in the air.
 
-(June 25, 1948, ch. 645, 62 Stat. 802.)
+(June 25, 1948, ch. 645, 62 Stat. 802; Oct. 11, 1996, Pub. L. 104–294, title VI, §601(a)(8), 110 Stat. 3498.)
 
 #### Historical and Revision Notes
 
@@ -27,6 +27,10 @@ The punishment provision is the same as in sections 470, 472, and 473 of title 1
 The provision for punishment of aiders and abettors in section 470 of title 18, U.S.C., 1940 ed., was omitted as unnecessary since they are punishable as principals by section 2 of this title.
 
 Sections 471 and 474 of title 18, U.S.C., 1940 ed., were omitted as obviously unnecessary.
+
+#### Amendments
+
+1996—Pub. L. 104–294 substituted “fined under this title” for “fined not more than $1,000” in fourth par.
 
 #### Canal Zone
 

@@ -30,7 +30,9 @@ Limitations.—Fees prescribed under subsection (a) of this section shall be suf
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -38,17 +40,17 @@ Historical and Revision Notes
 
 60301(a)
 
-49 App.:1682a (a)(1), (d) (words after “subsection (a) of this section” and before “shall be sufficient”).
+49 App.:1682a(a)(1), (d) (words after “subsection (a) of this section” and before “shall be sufficient”).
 
 Apr. 7, 1986, Pub. L. 99–272, §7005, 100 Stat. 140.
 
 60301(b)
 
-49 App.:1682a (a)(3), (b).
+49 App.:1682a(a)(3), (b).
 
 60301(c)
 
-49 App.:1682a (a)(2).
+49 App.:1682a(a)(2).
 
 60301(d)
 
@@ -67,4 +69,24 @@ In subsection (b), the words “after September 30, 1985” are omitted as obsol
 In subsection (c), the words “the services of” are omitted as surplus. The words “department, agency, or instrumentality of the United States Government” are substituted for “Federal . . . agency or instrumentality” for consistency in the revised title and with other titles of the Code.
 
 In subsection (e), the words “by the Secretary” are omitted as surplus. The words “beginning on October 1, 1985” are omitted as executed.
+
+#### Study and Report on User Fee Assessment Factors
+
+Pub. L. 104–304, §17, Oct. 12, 1996, 110 Stat. 3803, provided that:
+
+“(a)
+
+In General.—Not later than 1 year after the date of the enactment of this Act \[Oct. 12, 1996\], the Secretary of Transportation shall transmit to the Congress a report analyzing the present assessment of pipeline safety user fees solely on the basis of mileage to determine whether—
+
+&emsp;“(1) that measure of the resources of the Department of Transportation is the most appropriate measure of the resources used by the Department of Transportation in the regulation of pipeline transportation; or
+
+&emsp;“(2) another basis of assessment would be a more appropriate measure of those resources.
+
+“(b)
+
+Considerations.—In making the report, the Secretary shall consider a wide range of assessment factors and suggestions and comments from the public.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 60125 of this title.
 

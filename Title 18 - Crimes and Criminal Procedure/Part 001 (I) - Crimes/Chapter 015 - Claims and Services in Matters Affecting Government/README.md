@@ -2,8 +2,7 @@
 
 | Sec. |  |
 | :--- | ---: |
-| [281\.](%C2%A7%2000281%20-%20Restrictions%20on%20retired%20military%20officers%20regarding%20certain%20matters%20affecting%20the%20Government.md) | Restrictions on retired military officers regarding certain matters affecting the Government. |
-| \[282 to 284. Repealed.\] |  |
+| \[281 to 284. Repealed.\] |  |
 | [285\.](%C2%A7%2000285%20-%20Taking%20or%20using%20papers%20relating%20to%20claims.md) | Taking or using papers relating to claims. |
 | [286\.](%C2%A7%2000286%20-%20Conspiracy%20to%20defraud%20the%20Government%20with%20respect%20to%20claims.md) | Conspiracy to defraud the Government with respect to claims. |
 | [287\.](%C2%A7%2000287%20-%20False%2C%20fictitious%20or%20fraudulent%20claims.md) | False, fictitious or fraudulent claims. |
@@ -18,6 +17,8 @@
 
 #### Amendments
 
+1996—Pub. L. 104–106, div. D, title XLIII, §4304(c)(2), Feb. 10, 1996, 110 Stat. 664, and Pub. L. 104–294, title VI, §602(d), Oct. 11, 1996, 110 Stat. 3503, amended analysis identically, striking out item 281 “Restrictions on retired military officers regarding certain matters affecting the Government”.
+
 1989—Pub. L. 101–123, §3(a), Oct. 23, 1989, 103 Stat. 760, struck out item 293 “Limitation on Government contract costs”.
 
 1988—Pub. L. 100–700, §3(b), Nov. 19, 1988, 102 Stat. 4633, added item 293.
@@ -31,7 +32,7 @@
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 00281 - Restrictions on retired military officers regarding certain matters affecting the Government](%C2%A7%2000281%20-%20Restrictions%20on%20retired%20military%20officers%20regarding%20certain%20matters%20affecting%20the%20Government.md)
+- [&sect; 00281 - Repealed. Pub. L. 104&#8211;106, div. D, title XLIII, &sect;4304(b)(3), Feb. 10, 1996, 110 Stat. 664; Pub. L. 104&#8211;294, title VI, &sect;602(d), Oct&#8230;](%C2%A7%2000281%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93106%2C%20div.%20D%2C%20title%20XLIII%2C%20%C2%A74304%28b%29%283%29%2C%20Feb.%2010%2C%201996%2C%20110%20Stat.%20664%3B%20Pub.%20L.%20104%E2%80%93294%2C%20title%20VI%2C%20%C2%A7602%28d%29%2C%20Oct%E2%80%A6.md)
 - [&sect; 00282 - Repealed. Pub. L. 87&#8211;849, &sect;2, Oct. 23, 1962, 76 Stat. 1126](%C2%A7%2000282%20-%20Repealed.%20Pub.%20L.%2087%E2%80%93849%2C%20%C2%A72%2C%20Oct.%2023%2C%201962%2C%2076%20Stat.%201126.md)
 - [&sect; 00283 - Repealed. Pub. L. 87&#8211;849, &sect;2, Oct. 23, 1962, 76 Stat. 1126; Pub. L. 100&#8211;180, div. A, title VIII, &sect;822(a), Dec. 4, 1987, 101 Stat&#8230;](%C2%A7%2000283%20-%20Repealed.%20Pub.%20L.%2087%E2%80%93849%2C%20%C2%A72%2C%20Oct.%2023%2C%201962%2C%2076%20Stat.%201126%3B%20Pub.%20L.%20100%E2%80%93180%2C%20div.%20A%2C%20title%20VIII%2C%20%C2%A7822%28a%29%2C%20Dec.%204%2C%201987%2C%20101%20Stat%E2%80%A6.md)
 - [&sect; 00284 - Repealed. Pub. L. 87&#8211;849, &sect;2, Oct. 23, 1962, 76 Stat. 1126](%C2%A7%2000284%20-%20Repealed.%20Pub.%20L.%2087%E2%80%93849%2C%20%C2%A72%2C%20Oct.%2023%2C%201962%2C%2076%20Stat.%201126.md)

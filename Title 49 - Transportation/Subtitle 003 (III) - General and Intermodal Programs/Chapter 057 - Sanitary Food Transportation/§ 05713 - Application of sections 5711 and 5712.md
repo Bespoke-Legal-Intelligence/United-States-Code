@@ -1,12 +1,14 @@
 ### §5713. Application of sections 5711 and 5712
 
-Sections 5711 and 5712 of this title apply only to transportation occurring on or after the date that regulations prescribed under section 5703(a)(1) of this title are effective.
+Sections 5711 and 5712 of this title apply only to transportation occurring on or after the datethat regulations prescribed under section 5703(a)(1) of this title are effective.
 
 (Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 859.)
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

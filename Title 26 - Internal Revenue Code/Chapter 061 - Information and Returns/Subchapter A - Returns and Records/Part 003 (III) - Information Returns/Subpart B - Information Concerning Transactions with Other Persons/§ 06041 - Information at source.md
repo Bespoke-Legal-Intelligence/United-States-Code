@@ -16,7 +16,7 @@ When necessary to make effective the provisions of this section, the name and ad
 
 Every person required to make a return under subsection (a) shall furnish to each person with respect to whom such a return is required a written statement showing—
 
-&emsp;(1) the name and address of the person required to make such return, and
+&emsp;(1) the name, address, and phone number of the information contact of the person required to make such return, and
 
 &emsp;(2) the aggregate amount of payments to the person required to be shown on the return.
 
@@ -26,9 +26,11 @@ Every person required to make a return under subsection (a) shall furnish to eac
 
 This section shall not apply to tips with respect to which section 6053(a) (relating to reporting of tips) applies.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 745; Oct. 16, 1962, Pub. L. 87–834, §19(f), 76 Stat. 1058; Oct. 4, 1976, Pub. L. 94–455, title XIX, §1906(b)(13)(A), 90 Stat. 1834; Nov. 6, 1978, Pub. L. 95–600, title V, §501(b), 92 Stat. 2878; Aug. 13, 1981, Pub. L. 97–34, title VII, §723(b)(1), 95 Stat. 344; Sept. 3, 1982, Pub. L. 97–248, title III, §309(b)(1), 96 Stat. 595; July 18, 1984, Pub. L. 98–369, div. A, title VII, §722(h)(4)(B), 98 Stat. 976; Oct. 22, 1986, Pub. L. 99–514, title XV, §§1501(c)(1), 1523(b)(2), 100 Stat. 2736, 2748.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 745; Oct. 16, 1962, Pub. L. 87–834, §19(f), 76 Stat. 1058; Oct. 4, 1976, Pub. L. 94–455, title XIX, §1906(b)(13)(A), 90 Stat. 1834; Nov. 6, 1978, Pub. L. 95–600, title V, §501(b), 92 Stat. 2878; Aug. 13, 1981, Pub. L. 97–34, title VII, §723(b)(1), 95 Stat. 344; Sept. 3, 1982, Pub. L. 97–248, title III, §309(b)(1), 96 Stat. 595; July 18, 1984, Pub. L. 98–369, div. A, title VII, §722(h)(4)(B), 98 Stat. 976; Oct. 22, 1986, Pub. L. 99–514, title XV, §§1501(c)(1), 1523(b)(2), 100 Stat. 2736, 2748; July 30, 1996, Pub. L. 104–168, title XII, §1201(a)(1), 110 Stat. 1469.)
 
 #### Amendments
+
+1996—Subsec. (d)(1). Pub. L. 104–168 substituted “name, address, and phone number of the information contact” for “name and address”.
 
 1986—Subsec. (a). Pub. L. 99–514, §1523(b)(2), substituted “6049(a), or 6050N(a)” for “or 6049(a)”.
 
@@ -47,6 +49,10 @@ Subsec. (d). Pub. L. 99–514, §1501(c)(1), in amending subsec. (d) generally, 
 1962—Subsec. (a). Pub. L. 87–834, §19(f)(1), substituted “(other than payments to which section 6042(a)(1), 6044(a)(1), or 6049(a)(1) applies, and other than payments with respect to which a statement is required under the authority of section 6042(a)(2), 6044(a)(2), 6045, 6049(a)(2), or 6049(a)(3))” for “other than payments described in section 6042(1) or section 6045)”.
 
 Subsec. (c). Pub. L. 87–834, §19(f)(2), repealed subsec. (c) which related to returns of payments of interest by corporations.
+
+#### Effective Date of 1996 Amendment
+
+Section 1201(b) of Pub. L. 104–168 provided that: “The amendments made by subsection (a) \[amending this section and sections 6041A, 6042, 6044, 6045, 6049, 6050B, 6050H to 6050K, and 6050N of this title\] shall apply to statements required to be furnished after December 31, 1996 (determined without regard to any extension).”
 
 #### Effective Date of 1986 Amendment
 

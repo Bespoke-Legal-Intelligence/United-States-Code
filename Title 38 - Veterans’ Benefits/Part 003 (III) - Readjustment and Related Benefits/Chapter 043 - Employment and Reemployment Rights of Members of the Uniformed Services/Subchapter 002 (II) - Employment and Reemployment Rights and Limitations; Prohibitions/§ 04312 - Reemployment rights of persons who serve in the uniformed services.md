@@ -1,6 +1,6 @@
 ### §4312. Reemployment rights of persons who serve in the uniformed services
 
-(a) Subject to subsections (b), (c), and (d) and to section 4304, any person who is absent from a position of employment by reason of service in the uniformed services shall be entitled to the reemployment rights and benefits and other employment benefits of this chapter if—
+(a) Subject to subsections (b), (c), and (d) and to section 4304, any person whose absence from a position of employment is necessitated by reason of service in the uniformed services shall be entitled to the reemployment rights and benefits and other employment benefits of this chapter if—
 
 &emsp;(1) the person (or an appropriate officer of the uniformed service in which such service is performed) has given advance written or verbal notice of such service to such person's employer;
 
@@ -16,19 +16,19 @@
 
 &emsp;(2) during which such person was unable to obtain orders releasing such person from a period of service in the uniformed services before the expiration of such five-year period and such inability was through no fault of such person;
 
-&emsp;(3) performed as required pursuant to section 270 <sup>1</sup> of title 10, under section 502(a) or 503 of title 32, or to fulfill additional training requirements determined and certified in writing by the Secretary concerned, to be necessary for professional development, or for completion of skill training or retraining; or
+&emsp;(3) performed as required pursuant to section 10147 of title 10, under section 502(a) or 503 of title 32, or to fulfill additional training requirements determined and certified in writing by the Secretary concerned, to be necessary for professional development, or for completion of skill training or retraining; or
 
 &emsp;(4) performed by a member of a uniformed service who is—
 
-&emsp;&emsp;(A) ordered to or retained on active duty under section 672(a), 672(g), 673, 673b, 673c,<sup>1</sup> or688 of title 10 or under section 331, 332, 359, 360, 367, or 712 of title 14;
+&emsp;&emsp;(A) ordered to or retained on active duty under section 688, 12301(a), 12301(g), 12302, 12304, or 12305 of title 10 or under section 331, 332, 359, 360, 367, or 712 of title 14;
 
-&emsp;&emsp;(B) ordered to or retained on active duty (other than for training) under any provision of law during a war or during a national emergency declared by the President or the Congress;
+&emsp;&emsp;(B) ordered to or retained on active duty (other than for training) under any provision of law because of a war or national emergency declared by the President or the Congress, as determined by the Secretary concerned;
 
-&emsp;&emsp;(C) ordered to active duty (other than for training) in support, as determined by the Secretary concerned, of an operational mission for which personnel have been ordered to active duty under section 673b <sup>1</sup> of title 10;
+&emsp;&emsp;(C) ordered to active duty (other than for training) in support, as determined by the Secretary concerned, of an operational mission for which personnel have been ordered to active duty under section 12304 of title 10;
 
 &emsp;&emsp;(D) ordered to active duty in support, as determined by the Secretary concerned, of a critical mission or requirement of the uniformed services; or
 
-&emsp;&emsp;(E) called into Federal service as a member of the National Guard under chapter 15 of title 10 or under section 3500 or 8500 <sup>1</sup> of title 10.
+&emsp;&emsp;(E) called into Federal service as a member of the National Guard under chapter 15 of title 10 or under section 12406 of title 10.
 
 (d)(1) An employer is not required to reemploy a person under this chapter if—
 
@@ -44,7 +44,7 @@
 
 &emsp;(B) any accommodation, training, or effort referred to in subsection (a)(3), (a)(4), or (b)(2)(B) of section 4313 would impose an undue hardship on the employer, or
 
-&emsp;(C) the employment referred to in paragraph (1)(C) is brief or for a nonrecurrent period and without a reasonable expectation that such employment will continue indefinitely or for a significant period,
+&emsp;(C) the employment referred to in paragraph (1)(C) is for a brief, nonrecurrent period and there is no reasonable expectation that such employment will continue indefinitely or for a significant period,
 
 > the employer shall have the burden of proving the impossibility or unreasonableness, undue hardship, or the brief or nonrecurrent nature of the employment without a reasonable expectation of continuing indefinitely or for a significant period.
 
@@ -62,7 +62,7 @@
 
 &emsp;(D) In the case of a person whose period of service in the uniformed services was for more than 180 days, by submitting an application for reemployment with the employer not later than 90 days after the completion of the period of service.
 
-(2)(A) A person who is hospitalized for, or convalescing from, an illness or injury incurred in, or aggravated during, the performance of service in the uniformed services shall, at the end of the period that is necessary for the person to recover from such illness or injury, report to the person's employer (in the case of a person described in subparagraph (A) or (B) of paragraph (1)) or submit an application for reemployment with such employer (in the case of a person described in subparagraph (C) or (D) of such paragraph). Except as provided in subparagraph (B), such period of recovery may not exceed two years.
+(2)(A) A person who is hospitalized for, or convalescing from, an illness or injury incurred in, or aggravated during, the performance of service in the uniformed services shall, at the end of theperiod that is necessary for the person to recover from such illness or injury, report to the person's employer (in the case of a person described in subparagraph (A) or (B) of paragraph (1)) or submit an application for reemployment with such employer (in the case of a person described in subparagraph (C) or (D) of such paragraph). Except as provided in subparagraph (B), such period of recovery may not exceed two years.
 
 (B) Such two-year period shall be extended by the minimum time required to accommodate the circumstances beyond such person's control which make reporting within the period specified in subparagraph (A) impossible or unreasonable.
 
@@ -88,19 +88,31 @@
 
 (h) In any determination of a person's entitlement to protection under this chapter, the timing, frequency, and duration of the person's training or service, or the nature of such training or service (including voluntary service) in the uniformed services, shall not be a basis for denying protection of this chapter if the service does not exceed the limitations set forth in subsection (c) and the notice requirements established in subsection (a)(1) and the notification requirements established in subsection (e) are met.
 
-(Added Pub. L. 103–353, §2(a), Oct. 13, 1994, 108 Stat. 3153.)
-
-#### References in Text
-
-Section 270 of title 10, referred to in subsec. (c)(3), was repealed by Pub. L. 103–337, div. A, title XVI, §1661(a)(2)(A), Oct. 5, 1994, 108 Stat. 2979, and reenacted by section 1661(a)(1) thereof as sections 10147 and 10148 of Title 10, Armed Forces.
-
-Sections 672, 673, 673b, and 673c of title 10, referred to in subsec. (c)(4)(A), (C), were renumbered sections 12301, 12302, 12304, and 12305, respectively, of Title 10 by Pub. L. 103–337, div. A, title XVI, §1662(e)(2), Oct. 5, 1994, 108 Stat. 2992. A new section 672 of Title 10 was enacted by section 1662(e)(4) of Pub. L. 103–337.
-
-Sections 3500 and 8500 of title 10, referred to in subsec. (c)(4)(E), were repealed by Pub. L. 103–337, div. A, title XVI, §1662(f)(2), Oct. 5, 1994, 108 Stat. 2994, and reenacted by section 1662(f)(1) thereof as section 12406 of Title 10.
+(Added Pub. L. 103–353, §2(a), Oct. 13, 1994, 108 Stat. 3153; amended Pub. L. 104–275, title III, §311(4), Oct. 9, 1996, 110 Stat. 3334.)
 
 #### Prior Provisions
 
 A prior section 4312 was renumbered section 7612 of this title.
+
+#### Amendments
+
+1996—Subsec. (a). Pub. L. 104–275, §311(4)(A), substituted “whose absence from a position of employment is necessitated” for “who is absent from a position of employment”.
+
+Subsec. (c)(3). Pub. L. 104–275, §311(4)(B)(i), substituted “section 10147” for “section 270”.
+
+Subsec. (c)(4)(A). Pub. L. 104–275, §311(4)(B)(ii)(I), substituted “section 688, 12301(a), 12301(g), 12302, 12304, or 12305” for “section 672(a), 672(g), 673, 673b, 673c, or 688”.
+
+Subsec. (c)(4)(B). Pub. L. 104–275, §311(4)(B)(ii)(II), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “ordered to or retained on active duty (other than for training) under any provision of law during a war or during a national emergency declared by the President or the Congress;”.
+
+Subsec. (c)(4)(C). Pub. L. 104–275, §311(4)(B)(ii)(III), substituted “section 12304” for “section 673b”.
+
+Subsec. (c)(4)(E). Pub. L. 104–275, §311(4)(B)(ii)(IV), substituted “section 12406” for “section 3500 or 8500”.
+
+Subsec. (d)(2)(C). Pub. L. 104–275, §311(4)(C), substituted “is for a brief, nonrecurrent period and there is no reasonable expectation” for “is brief or for a nonrecurrent period and without a reasonable expectation”.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by section 311(4)(A), (B)(ii)(II), (C) of Pub. L. 104–275 effective Oct. 13, 1994, and amendment by section 311(4)(B)(i), (ii)(I), (III), (IV) of Pub. L. 104–275 effective Dec. 1, 1994, see section 313 of Pub. L. 104–275, set out as a note under section 4301 of this title.
 
 #### Effective Date
 
@@ -108,7 +120,5 @@ Section effective with respect to reemployments initiated on or after the first 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 4311, 4313, 4314, 4317 of this title; title 2 section 1316.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+This section is referred to in sections 4311, 4313, 4314, 4317 of this title; title 2 section 1316; title 3 section 416.
 

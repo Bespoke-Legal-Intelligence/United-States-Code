@@ -2,57 +2,67 @@
 
 For purposes of this chapter—
 
-&emsp;(1) The term “Agreed Measures” means the Agreed Measures for the Conservation of Antarctic Fauna and Flora—
+&emsp;(1) the term “Administrator” means the Administrator of the Environmental Protection Agency;
 
-&emsp;&emsp;(A) as recommended to the Consultative Parties for approval at the Third Antarctic Treaty Consultative Meeting; and
+&emsp;(2) the term “Antarctica” means the area south of 60 degrees south latitude;
 
-&emsp;&emsp;(B) as amended from time to time in accordance with Article IX(1) of the Treaty.
+&emsp;(3) the term “Antarctic Specially Protected Area” means an area identified as such pursuant to Annex V to the Protocol;
 
-&emsp;(2) The term “Antarctica” means the area south of 60 degrees south latitude.
+&emsp;(4) the term “Director” means the Director of the National Science Foundation;
 
-&emsp;(3) The term “collect” means to cut, sever, or move, or to attempt to engage in any such conduct.
+&emsp;(5) the term “harmful interference” means—
 
-&emsp;(4) The term “Director” means the Director of the National Science Foundation or an officer or employee of the Foundation designated by the Director.
+&emsp;&emsp;(A) flying or landing helicopters or other aircraft in a manner that disturbs concentrations of birds or seals;
 
-&emsp;(5) The term “foreign person” means—
+&emsp;&emsp;(B) using vehicles or vessels, including hovercraft and small boats, in a manner that disturbs concentrations of birds or seals;
 
-&emsp;&emsp;(A) any individual who is a citizen or national of a foreign nation,
+&emsp;&emsp;(C) using explosives or firearms in a manner that disturbs concentrations of birds or seals;
 
-&emsp;&emsp;(B) any corporation, partnership, trust, association, or other legal entity existing or organized under the laws of any foreign nation, and
+&emsp;&emsp;(D) willfully disturbing breeding or molting birds or concentrations of birds or seals by persons on foot;
 
-&emsp;&emsp;(C) any department, agency, or other instrumentality of any foreign nation and any officer, employee, or agent of any such instrumentality.
+&emsp;&emsp;(E) significantly damaging concentrations of native terrestrial plants by landing aircraft, driving vehicles, or walking on them, or by other means; and
 
-&emsp;(6) The term “native bird” means any member, at any stage of its life cycle (including eggs), of any species of the class Aves which is designated as a native species by the Director under section 2405(b)(1) of this title, and includes any part of any such member.
+&emsp;&emsp;(F) any activity that results in the significant adverse modification of habitats of any species or population of native mammal, native bird, native plant, or native invertebrate;
 
-&emsp;(7) The term “native mammal” means any member, at any stage of its life cycle, of any species of the class Mammalia, other than any species regulated by the International Whaling Commission, which is designated as a native species by the Director under section 2405(b)(1) of this title, and includes any part of such member.
+&emsp;(6) the term “historic site or monument” means any site or monument listed as an historic site or monument pursuant to Annex V to the Protocol;
 
-&emsp;(8) The term “native plant” means any member of any species of plant at any stage of its life cycle (including seeds) which is designated as such by the Director under section 2405(b)(1) of this title, and includes any part of any such member.
+&emsp;(7) the term “impact” means impact on the Antarctic environment and dependent and associated ecosystems;
 
-&emsp;(9) The term “pollutant” means any substance designated as such by the Director under section 2405(b)(6) of this title.
+&emsp;(8) the term “import” means to land on, bring into, or introduce into, or attempt to land on, bring into or introduce into, any place subject to the jurisdiction of the United States, including the 12-mile territorial sea of the United States, whether or not such act constitutes an importation within the meaning of the customs laws of the United States;
 
-&emsp;(10) The term “site of special scientific interest” means any area designated as such by the Director under section 2405(b)(3) of this title.
+&emsp;(9) the term “native bird” means any member, at any stage of its life cycle (including eggs), of any species of the class Aves which is indigenous to Antarctica or occurs there seasonally through natural migrations, and includes any part of such member;
 
-&emsp;(11) The term “specially protected area” means any area designated as such by the Director under section 2405(b)(4) of this title.
+&emsp;(10) the term “native invertebrate” means any terrestrial or freshwater invertebrate, at any stage of its life cycle, which is indigenous to Antarctica, and includes any part of such invertebrate;
 
-&emsp;(12) The term “specially protected species” means any species of native mammal or native bird designated as such by the Director under section 2405(b)(5) of this title.
+&emsp;(11) the term “native mammal” means any member, at any stage of its life cycle, of any species of the class Mammalia, which is indigenous to Antarctica or occurs there seasonally through natural migrations, and includes any part of such member;
 
-&emsp;(13) The term “take” means to harass, molest, harm, pursue, hunt, shoot, wound, kill, trap, or capture, or to attempt to engage in any such conduct.
+&emsp;(12) the term “native plant” means any terrestrial or freshwater vegetation, including bryophytes, lichens, fungi, and algae, at any stage of its life cycle (including seeds and other propagules), which is indigenous to Antarctica, and includes any part of such vegetation;
 
-&emsp;(14) The term “Treaty” means the Antarctic Treaty signed in Washington, D.C., on December 1, 1959.
+&emsp;(13) the term “non-native species” means any species of animal or plant which is not indigenous to Antarctica and does not occur there seasonally through natural migrations;
 
-&emsp;(15) The term “United States” means the several States of the Union, the District of Columbia, the Commonwealth of Puerto Rico, American Samoa, the Virgin Islands, Guam, and the Trust Territory of the Pacific Islands, including the Government of the Northern Mariana Islands.
+&emsp;(14) the term “person” has the meaning given that term in section 1 of title 1 and includes any person subject to the jurisdiction of the United States and any department,agency, or other instrumentality of the Federal Government or of any State or local government;
 
-&emsp;(16) The term “United States citizen” means—
+&emsp;(15) the term “prohibited product” means any substance banned from introduction onto land or ice shelves or into water in Antarctica pursuant to Annex III to the Protocol;
 
-&emsp;&emsp;(A) any individual who is a citizen or national of the United States;
+&emsp;(16) the term “prohibited waste” means any substance which must be removed from Antarctica pursuant to Annex III to the Protocol, but does not include materials used for balloon envelopes required for scientific research and weather forecasting;
 
-&emsp;&emsp;(B) any corporation, partnership, trust, association, or other legal entity existing or organized under the laws of any of the United States; and
+&emsp;(17) the term “Protocol” means the Protocol on Environmental Protection to the Antarctic Treaty, signed October 4, 1991, in Madrid, and all annexes thereto, including any future amendments thereto to which the United States is a party;
 
-&emsp;&emsp;(C) any department, agency, or other instrumentality of the Federal Government or of any State, and any officer, employee, or agent of any such instrumentality.
+&emsp;(18) the term “Secretary” means the Secretary of Commerce;
 
-(Pub. L. 95–541, §3, Oct. 28, 1978, 92 Stat. 2048.)
+&emsp;(19) the term “Specially Protected Species” means any native species designated as a Specially Protected Species pursuant to Annex II to the Protocol;
 
-#### Termination of Trust Territory of the Pacific Islands
+&emsp;(20) the term “take” means to kill, injure, capture, handle, or molest a native mammal or bird, or to remove or damage such quantities of native plants that their local distribution or abundance would be significantly affected;
 
-For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
+&emsp;(21) the term “Treaty” means the Antarctic Treaty signed in Washington, DC, on December 1, 1959;
+
+&emsp;(22) the term “United States” means the several States of the Union, the District of Columbia, the Commonwealth of Puerto Rico, American Samoa, the Virgin Islands, Guam, the Commonwealth of the Northern Mariana Islands, and any other commonwealth, territory, or possession of the United States; and
+
+&emsp;(23) the term “vessel subject to the jurisdiction of the United States” includes any “vessel of the United States” and any “vessel subject to the jurisdiction of the United States” as those terms are defined in section 2432 of this title.
+
+(Pub. L. 95–541, §3, Oct. 28, 1978, 92 Stat. 2048; Pub. L. 104–227, title I, §102, Oct. 2, 1996, 110 Stat. 3035.)
+
+#### Amendments
+
+1996—Pub. L. 104–227 reenacted section catchline without change and amended text generally. Prior to amendment, text defined “Agreed Measures”, “Antarctica”, “collect”, “Director”, “foreign person”, “native bird”, “native mammal”, “native plant”, “pollutant”, “site of special scientific interest”, “specially protected area”, “specially protected species”, “take”, “Treaty”, “United States”, and “United States citizen”.
 

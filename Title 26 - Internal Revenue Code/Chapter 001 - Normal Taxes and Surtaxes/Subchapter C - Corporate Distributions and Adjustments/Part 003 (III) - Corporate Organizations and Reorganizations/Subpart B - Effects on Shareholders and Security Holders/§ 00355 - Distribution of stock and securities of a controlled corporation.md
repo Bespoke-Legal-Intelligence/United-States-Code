@@ -24,7 +24,7 @@
 
 &emsp;&emsp;&emsp;(ii) an amount of stock in the controlled corporation constituting control within the meaning of section 368(c), and it is established to the satisfaction of the Secretary that the retention by the distributing corporation of stock (or stock and securities) in the controlled corporation was not in pursuance of a plan having as one of its principal purposes the avoidance of Federal income tax,
 
-> &emsp;then no gain or loss shall be recognized to (and no amount shall be includible in the income of) such shareholder or security holder on the receipt of such stock or securities.
+> &emsp;then no gain or loss shall be recognized to (and no amount shall be includible in the incomeof) such shareholder or security holder on the receipt of such stock or securities.
 
 #### (2) Non pro rata distributions, etc.
 
@@ -110,7 +110,7 @@
 
 &emsp;&emsp;&emsp;(ii) the fair market value of such property exceeds its adjusted basis (in the hands of the distributing corporation),
 
-> &emsp;&emsp;then gain shall be recognized to the distributing corporation as if such property were sold to the distributee at its fair market value.
+> &emsp;&emsp;then gain shall be recognized to the distributing corporation as if such property weresold to the distributee at its fair market value.
 
 #### (B) Qualified property
 
@@ -198,7 +198,7 @@
 
 #### (B) Property to which suspension applies
 
-&emsp;&emsp;This paragraph applies to any stock or securities for any period during which theholder's risk of loss with respect to such stock or securities, or with respect to any portion of the activities of the corporation, is (directly or indirectly) substantially diminished by—
+&emsp;&emsp;This paragraph applies to any stock or securities for any period during which the holder's risk of loss with respect to such stock or securities, or with respect to any portion of the activities of the corporation, is (directly or indirectly) substantially diminished by—
 
 &emsp;&emsp;&emsp;(i) an option,
 
@@ -212,7 +212,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of this subsection, a person and all persons related to such person (within the meaning of <sup>1</sup> 267(b) or 707(b)(1)) shall be treated as one person.
+&emsp;&emsp;For purposes of this subsection, a person and all persons related to such person (within the meaning of section 267(b) or 707(b)(1)) shall be treated as one person.
 
 #### (B) Persons acting pursuant to plans or arrangements
 
@@ -242,9 +242,11 @@
 
 &emsp;&emsp;(B) regulations modifying the definition of the term “purchase”.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 113; Oct. 4, 1976, Pub. L. 94–455, title XIX, §1906(b)(13)(A), 90 Stat. 1834; Dec. 24, 1980, Pub. L. 96–589, §4(e)(2), 94 Stat. 3403; Dec. 22, 1987, Pub. L. 100–203, title X, §10223(b), 101 Stat. 1330–411; Nov. 10, 1988, Pub. L. 100–647, title I, §1018(d)(5)(C), title II, §2004(k)(1), 102 Stat. 3580, 3605; Nov. 5, 1990, Pub. L. 101–508, title XI, §§11321(a), 11702(e)(2), 104 Stat. 1388–460, 1388–515.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 113; Oct. 4, 1976, Pub. L. 94–455, title XIX, §1906(b)(13)(A), 90 Stat. 1834; Dec. 24, 1980, Pub. L. 96–589, §4(e)(2), 94 Stat. 3403; Dec. 22, 1987, Pub. L. 100–203, title X, §10223(b), 101 Stat. 1330–411; Nov. 10, 1988, Pub. L. 100–647, title I, §1018(d)(5)(C), title II, §2004(k)(1), 102 Stat. 3580, 3605; Nov. 5, 1990, Pub. L. 101–508, title XI, §§11321(a), 11702(e)(2), 104 Stat. 1388–460, 1388–515; Aug. 20, 1996, Pub. L. 104–188, title I, §1704(t)(31), 110 Stat. 1889.)
 
 #### Amendments
+
+1996—Subsec. (d)(7)(A). Pub. L. 104–188 inserted “section” before “267(b)”.
 
 1990—Subsec. (c). Pub. L. 101–508, §11321(a), added subsec. (c) and struck out former subsec. (c) which read as follows:
 
@@ -300,7 +302,7 @@ Subsec. (b)(2)(D)(ii). Pub. L. 100–203, §10223(b)(2), substituted “such dis
 
 1980—Subsec. (a)(3). Pub. L. 96–589 designated existing provisions as subpars. (A) and (B) and added subpar. (C).
 
-Subsec. (a)(4). Pub. L. 96–589, §4(e)(2), designated existing provisions as subpar. (A), substituted “exchangeif any property” for “distribution if any property”, inserted provisions excluding property to which paragraph (3)(C) applies, and added subpar. (B).
+Subsec. (a)(4). Pub. L. 96–589, §4(e)(2), designated existing provisions as subpar. (A), substituted “exchange if any property” for “distribution if any property”, inserted provisions excluding property to which paragraph (3)(C) applies, and added subpar. (B).
 
 1976—Subsec. (a)(1)(D)(ii). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
@@ -358,7 +360,5 @@ Capital gains and losses, distribution to which this section applies to be treat
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 83, 108, 306, 312, 338, 346, 355, 356, 358, 361, 367, 368, 424, 815, 877, 995, 1223, 1276, 2107, 2501, 6038B, 6166 of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should be followed by “section”.</i>
+This section is referred to in sections 83, 108, 306, 312, 338, 346, 355, 356, 358, 361, 367, 368, 424, 815, 877, 995, 1223, 1248, 1276, 2107, 2501, 6038B, 6166 of this title.
 

@@ -2,7 +2,7 @@
 
 #### (a) Notices of filing and hearing; form and contents
 
-When there is filed with the Commission any application to which section 309(b)(1) of this title applies, for an instrument of authorization for a station in the broadcasting service, the applicant—
+When there is filed with the Commission any application to which section 309(b)(1) of thistitle applies, for an instrument of authorization for a station in the broadcasting service, the applicant—
 
 &emsp;(1) shall give notice of such filing in the principal area which is served or is to be served by the station; and
 

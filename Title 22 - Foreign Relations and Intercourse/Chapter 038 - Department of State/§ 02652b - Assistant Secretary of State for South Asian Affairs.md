@@ -10,7 +10,7 @@ The Assistant Secretary shall be appointed by the President, by and with the adv
 
 #### (c) Repealed. Pub. L. 103–236, title I, §162(c)(1), Apr. 30, 1994, 108 Stat. 405
 
-#### (d) Repealed and omitted
+#### (d) Repealed and Omitted
 
 (1) Repealed. Pub. L. 103–236, title I, §162(c)(3), Apr. 30, 1994, 108 Stat. 405.
 

@@ -6,13 +6,17 @@ The Administrator shall make grants to States to establish and carry out State p
 
 #### (b) Limits
 
-Each grant under this section shall be used as <sup>1</sup> by the State for testing water coolers in accordance with section 300j–24 of this title, for testing for lead contamination in other drinking water supplies under section 300j–24 of this title, or for remedial action under State programs under section 300j–24 of this title. Not more than 5 percent of the grant may be used for program administration.
+Each grant under this section shall be used by the State for testing water coolers in accordance with section 300j–24 of this title, for testing for lead contamination in other drinking water supplies under section 300j–24 of this title, or for remedial action under State programs under section 300j–24 of this title. Not more than 5 percent of the grant may be used for program administration.
 
 #### (c) Authorization of appropriations
 
 There are authorized to be appropriated to carry out this section not more than $30,000,000 for fiscal year 1989, $30,000,000 for fiscal year 1990, and $30,000,000 for fiscal year 1991.
 
-(July 1, 1944, ch. 373, title XIV, §1465, as added Oct. 31, 1988, Pub. L. 100–572, §2(a), 102 Stat. 2887.)
+(July 1, 1944, ch. 373, title XIV, §1465, as added Oct. 31, 1988, Pub. L. 100–572, §2(a), 102 Stat. 2887; amended Aug. 6, 1996, Pub. L. 104–182, title V, §501(d), (f)(11), 110 Stat. 1691, 1692.)
 
-<i><sup>1</sup></i><i> So in original.</i>
+#### Amendments
+
+1996—Pub. L. 104–182, §501(f)(11), made technical amendment to section catchline and subsec. (a) designation.
+
+Subsec. (b). Pub. L. 104–182, §501(d), substituted “by the State” for “as by the State”.
 

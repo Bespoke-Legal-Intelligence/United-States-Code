@@ -66,7 +66,7 @@
 
 (m) The reversal or modification on appeal of an authorization under subsection (b) or (c) of this section of a sale or lease of property does not affect the validity of a sale or lease under such authorization to an entity that purchased or leased such property in good faith, whether or not such entity knew of the pendency of the appeal, unless such authorization and such sale or lease were stayed pending appeal.
 
-(n) The trustee may avoid a sale under this section if the sale price was controlled by an agreement among potential bidders at such sale, or may recover from a party to such agreement any amount by which the value of the property sold exceeds the price at which such sale wasconsummated, and may recover any costs, attorneys’ fees, or expenses incurred in avoiding such sale or recovering such amount. In addition to any recovery under the preceding sentence, the court may grant judgment for punitive damages in favor of the estate and against any such party that entered into such an agreement in willful disregard of this subsection.
+(n) The trustee may avoid a sale under this section if the sale price was controlled by an agreement among potential bidders at such sale, or may recover from a party to such agreement any amount by which the value of the property sold exceeds the price at which such sale was consummated, and may recover any costs, attorneys’ fees, or expenses incurred in avoiding such sale or recovering such amount. In addition to any recovery under the preceding sentence, the court may grant judgment for punitive damages in favor of the estate and against any such party that entered into such an agreement in willful disregard of this subsection.
 
 (<i>o</i>) In any hearing under this section—
 
@@ -118,7 +118,7 @@ Subsection (k) \[enacted as (<i>l</i>)\] permits the trustee to use, sell, or le
 
 Subsection (<i>l</i>) \[enacted as (m)\] protects good faith purchasers of property sold under this section from a reversal on appeal of the sale authorization, unless the authorization for the sale and the sale itself were stayed pending appeal. The purchaser's knowledge of the appeal is irrelevant to the issue of good faith.
 
-Subsection (m) \[enacted as (n)\] is directed at collusive bidding on property sold under this section. It permits the trustee to void a sale if the price of the sale was controlled by an agreement among potential bidders. The trustees may also recover the excess of the value of the property over the purchase price, and may recover any costs, attorney's fees, or expenses incurred in voiding the sale or recovering the difference. In addition, the court is authorized to grant judgment in favor of the estate and against the collusive bidder if the agreement controlling the sale price was entered into in willful disregard of this subsection. The subsection does not specify the precise measure of damages, but simply provides for punitive damages, to be fixed in light of the circumstances.
+Subsection (m) \[enacted as (n)\] is directed at collusive bidding on property sold under this section. It permits the trustee to void a sale if the price of the sale was controlled by an agreement among potential bidders. The trustees may also recover the excess of the value of the property over the purchase price, and may recover any costs, attorney's fees, or expenses incurred in voiding the sale or recovering the difference. In addition, the court is authorized to grant judgment in favor of the estate and against the collusive bidder if the agreement controlling the sale price was entered into in willful disregard of this subsection. The subsectiondoes not specify the precise measure of damages, but simply provides for punitive damages, to be fixed in light of the circumstances.
 
 #### References in Text
 
@@ -160,7 +160,7 @@ Subsec. (<i>l</i>). Pub. L. 98–353, §442(h), substituted “Subject to the pr
 
 Subsec. (n). Pub. L. 98–353, §442(i), substituted “avoid” for “void”, “avoiding” for “voiding”, and “In addition to any recovery under the preceding sentence, the court may grant judgment for punitive damages in favor of the estate and against any such party that entered into such an agreement in willful disregard of this subsection” for “The court may grant judgment in favor of the estate and against any such party that entered into such agreement in willful disregard of this subsection for punitive damages in addition to any recovery under the preceding sentence”.
 
-Subsec. (<i>o</i>). Pub. L. 98–353, §442(j), added subsec. (<i>o).</i>
+Subsec. (<i>o</i>). Pub. L. 98–353, §442(j), added subsec. (<i>o</i>).
 
 #### Effective Date of 1994 Amendment
 

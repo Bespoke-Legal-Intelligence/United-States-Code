@@ -6,7 +6,7 @@ For the purpose of this section “minerals” shall include all minerals and mi
 
 It shall be the responsibility of the Secretary of the Interior to carry out this policy when exercising his authority under such programs as may be authorized by law other than this section.
 
-(Pub. L. 91–631, §2, Dec. 31, 1970, 84 Stat. 1876; Pub. L. 104–66, title I, §1081(b), Dec. 21, 1995, 109 Stat. 721.)
+(Pub. L. 91–631, title I, §101, formerly §2, Dec. 31, 1970, 84 Stat. 1876; Pub. L. 104–66, title I, §1081(b), Dec. 21, 1995, 109 Stat. 721; renumbered title I, §101, Pub. L. 104–325, §2(1), (2), Oct. 19, 1996, 110 Stat. 3994.)
 
 #### Amendments
 

@@ -38,7 +38,7 @@ In furtherance of the purposes of this chapter, the President is further authori
 
 &emsp;(5) promoting and supporting medical, scientific, cultural, and educational research and development;
 
-&emsp;(6) promoting modern foreign language training and area studies in United States schools, colleges, and universities by supporting visits and study in foreign countries by teachers and prospective teachers in such schools, colleges, and universities for the purpose of improving their skill in languages and their knowledge of the culture of the people of those countries, and by financing visits by teachers from those countries to the United States for the purpose of participating in foreign language training and area studies in United States schools, colleges, and universities;
+&emsp;(6) promoting modern foreign language training and area studies in United States schools, colleges, and universities by supporting visits and study in foreign countries by teachers and prospective teachers in such schools, colleges, and universities for the purpose of improving their skill in languages andtheir knowledge of the culture of the people of those countries, and by financing visits by teachers from those countries to the United States for the purpose of participating in foreign language training and area studies in United States schools, colleges, and universities;
 
 &emsp;(7) United States representation at international nongovernmental educational, scientific, and technical meetings;
 
@@ -46,7 +46,7 @@ In furtherance of the purposes of this chapter, the President is further authori
 
 &emsp;(9) encouraging independent research into the problems of educational and cultural exchange;
 
-&emsp;(10) promoting studies, research, instruction, and other educational activities of citizens and nationals of foreign countries in American schools, colleges, and universities located in the United States by making available to citizens and nationals of less developed friendly foreign countries for exchange for currencies of their respective countries (other than excess foreign currencies), at United States embassies, United States dollars in such amounts as may be necessary to enable such foreigncitizens or nationals who are coming temporarily to the United States as students, trainees, teachers, instructors, or professors to meet expenses of the kind described in section 2454(e)(1) of this title; and
+&emsp;(10) promoting studies, research, instruction, and other educational activities of citizens and nationals of foreign countries in American schools, colleges, and universities located in the United States by making available to citizens and nationals of less developed friendly foreign countries for exchange for currencies of their respective countries (other than excess foreign currencies), at United States embassies, United States dollars in such amounts as may be necessary to enable such foreign citizens or nationals who are coming temporarily to the United States as students, trainees, teachers, instructors, or professors to meet expenses of the kind described in section 2454(e)(1) of this title; and
 
 &emsp;(11) interchanges and visits between the United States and other countries of scientists, scholars, leaders, and other experts in the fields of environmental science and environmental management.
 
@@ -80,11 +80,17 @@ Functions of President under this section delegated to Secretary of State, Direc
 
 Authorization of performance of functions under subsec. (a)(2) and (3) of this section by departments or other executive agencies, see Ex. Ord. No. 11380, §2, Nov. 8, 1967, 32 F.R. 15627, set out as a note under section 2454 of this title.
 
+#### Conduct of Certain Educational and Cultural Exchange Programs
+
+Pub. L. 104–319, title I, §102, Oct. 19, 1996, 110 Stat. 3865, provided that: “In carrying out programs of educational and cultural exchange in countries whose people do not fully enjoy freedom and democracy (including but not limited to China, Vietnam, Cambodia, Tibet, and Burma), the Director of the United States Information Agency shall take appropriate steps to provide opportunities for participation in such programs to human rights and democracy leaders of such countries.”
+
 #### Limitation on Participation in International Expositions or Fairs
 
 Pub. L. 103–236, title II, §230, Apr. 30, 1994, 108 Stat. 424, provided that: “Notwithstanding any other provision of law, the United States Information Agency shall not obligate or expend any funds for a United States Government funded pavilion or other major exhibit at any international exposition or world's fair registered by the Bureau of International Expositions in excess of amounts expressly authorized and appropriated for such purpose.”
 
 #### International Exchange, Scholarship, and Training Programs
+
+Pub. L. 104–319, title I, §103, Oct. 19, 1996, 110 Stat. 3865, authorized establishment of educational and cultural exchange programs between United States and people of Tibet and authorized scholarships for Tibetans and Burmese.
 
 Pub. L. 103–236, title II, §235, Apr. 30, 1994, 108 Stat. 425, authorized establishment and maintenance of American studies collections at appropriate foreign university libraries to further the study of the United States.
 
@@ -112,7 +118,7 @@ Pub. L. 102–138, title II, §225, Oct. 28, 1991, 105 Stat. 699, authorized est
 
 Pub. L. 102–138, title II, §226, Oct. 28, 1991, 105 Stat. 699, authorized scholarships for foreign and United States students and scholars awarded by Bureau of Educational and Cultural Affairs of United States Information Agency to facilitate study, research, and teaching within United States.
 
-Pub. L. 102–138, title II, §227, Oct. 28, 1991, 105 Stat. 700, as amended by Pub. L. 102–511, title VIII, §801, Oct.24, 1992, 106 Stat. 3352, established Muskie Fellowship Program to award scholarships to graduate students from Soviet Union, Lithuania, Latvia, and Estonia for study within United States.
+Pub. L. 102–138, title II, §227, Oct. 28, 1991, 105 Stat. 700, as amended by Pub. L. 102–511, title VIII, §801, Oct. 24, 1992, 106 Stat. 3352, established Muskie Fellowship Program to award scholarships to graduate students from Soviet Union, Lithuania, Latvia, and Estonia for study within United States.
 
 Pub. L. 102–138, title II, §228, Oct. 28, 1991, 105 Stat. 702, as amended by Pub. L. 103–236, title II, §233, Apr. 30, 1994, 108 Stat. 424, authorized assistance to United States graduate and postdoctoral students researching Near and Middle East.
 

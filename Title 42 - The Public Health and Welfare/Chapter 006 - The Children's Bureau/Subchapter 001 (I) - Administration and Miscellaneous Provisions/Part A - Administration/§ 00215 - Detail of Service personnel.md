@@ -2,7 +2,7 @@
 
 #### (a) Other Government departments
 
-The Secretary is authorized, upon the request of the head of an executive department, to detail officers or employees of the Service to such department for duty as agreed upon by the Secretary and the head of such department in order to cooperate in, or conduct work related to, the functions of such department or of the Service. When officers or employees are so detailed their salaries and allowances may be paid from working funds established as provided by law or may be paid by the Service from applicable appropriations and reimbursement may be made as agreed upon by the Secretary and the head of the executive department concerned. Officers detailed for duty with the Army, Air Force,Navy, or Coast Guard shall be subject to the laws for the government of the service to which detailed.
+The Secretary is authorized, upon the request of the head of an executive department, to detail officers or employees of the Service to such department for duty as agreed upon by the Secretary and the head of such department in order to cooperate in, or conduct work related to, the functions of such department or of the Service. When officers or employees are so detailed their salaries and allowances may be paid from working funds established as provided by law or may be paid by the Service from applicable appropriations and reimbursement may be made as agreed upon by the Secretary and the head of the executive department concerned. Officers detailed for duty with the Army, Air Force, Navy, or Coast Guard shall be subject to the laws for the government of the service to which detailed.
 
 #### (b) State health or mental health authorities
 
@@ -20,7 +20,7 @@ Personnel detailed under subsections (b) and (c) of this section shall be paid f
 
 #### Codification
 
-In subsec. (a), Air Force was inserted on the authority of section 207(a), (f) of act July 26, 1947, ch. 343, title II, 61 Stat. 502, which established a separate Department of the Air Force, and Secretary of Defense Transfer Order No. 40 \[App. A(74)\], July 22, 1949, which transferred certain functions, insofar as they pertain to the Air Force, which were not previously transferred to the Department of the Air Force and Secretary of the Air Force. Section 207(a), (f) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces”, which in sections 8010 to 8013 continued the Department of the Air Force under the administrative supervision of a Secretary of the Air Force.
+In subsec. (a), Air Force was inserted on the authority of section 207(a), (f) of act July 26, 1947, ch. 343, title II, 61 Stat. 502, which established a separate Department of the Air Force, and Secretary of Defense Transfer Order No. 40 \[App. A(74)\], July 22, 1949, which transferred certain functions, insofar as they pertain to the Air Force, which were not previously transferred to theDepartment of the Air Force and Secretary of the Air Force. Section 207(a), (f) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces”, which in sections 8010 to 8013 continued the Department of the Air Force under the administrative supervision of a Secretary of the Air Force.
 
 #### Amendments
 

@@ -1,0 +1,38 @@
+### §690. Retired members ordered to active duty: limitation on number
+
+(a)
+
+General and Flag Officers.—Not more than 15 retired general officers of the Army, Air Force, or Marine Corps, and not more than 15 retired flag officers of the Navy, may be on active duty at any one time. For the purposes of this subsection a retired officer ordered to active duty for a period of 60 days or less is not counted.
+
+(b)
+
+Limitation by Service.—(1) Not more than 25 officers of any one armed force may be serving on active duty concurrently pursuant to orders to active duty issued under section 688 of this title.
+
+(2) In the administration of paragraph (1), the following officers shall not be counted:
+
+&emsp;(A) A chaplain who is assigned to duty as a chaplain for the period of active duty to which ordered.
+
+&emsp;(B) A health care professional (as characterized by the Secretary concerned) who is assigned to duty as a health care professional for the period of the active duty to which ordered.
+
+&emsp;(C) Any officer assigned to duty with the American Battle Monuments Commission for the period of active duty to which ordered.
+
+(c)
+
+Waiver for Periods of War or National Emergency.—Subsection (a) does not apply in time of war or of national emergency declared by Congress or the President after November 30, 1980. Subsection (b) does not apply in time of war or of national emergency declared by Congress or the President.
+
+(Added Pub. L. 104–201, div. A, title V, §521(a), Sept. 23, 1996, 110 Stat. 2516.)
+
+#### Prior Provisions
+
+A prior section 690 was renumbered section 12321 of this title.
+
+Provisions similar to those in subsecs. (a) and (c) of this section were contained in section 688(c) of this title prior to repeal by Pub. L. 104–201, §521(a).
+
+#### Effective Date
+
+Section effective Sept. 30, 1997, see section 521(b) of Pub. L. 104–201, set out as a note under section 688 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 689 of this title.
+

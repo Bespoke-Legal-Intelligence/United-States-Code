@@ -10,7 +10,7 @@ The breeder of any sexually reproduced or tuber propagated plant variety (other 
 
 &emsp;&emsp;(B) in any area outside of the United States—
 
-&emsp;&emsp;&emsp;(i) more than 4 years prior to the date of filing; or
+&emsp;&emsp;&emsp;(i) more than 4 years prior to the date of filing, except that in the case of a tuber propagated plant variety the Secretary may waive the 4-year limitation for a period ending 1 year after April 4, 1996; or
 
 &emsp;&emsp;&emsp;(ii) in the case of a tree or vine, more than 6 years prior to the date of filing;
 
@@ -24,7 +24,7 @@ The breeder of any sexually reproduced or tuber propagated plant variety (other 
 
 #### (1) In general
 
-&emsp;If 2 or more applicants submit applications on the same effective filing date for varieties that cannot be clearly distinguished from one another, but that fulfill all other requirements of subsection (a) of this section, the applicantwho first complies with all requirements of this chapter shall be entitled to a certificate of plant variety protection, to the exclusion of any other applicant.
+&emsp;If 2 or more applicants submit applications on the same effective filing date for varieties that cannot be clearly distinguished from one another, but that fulfill all other requirements of subsection (a) of this section, the applicant who first complies with all requirements of this chapter shall be entitled to a certificate of plant variety protection, to the exclusion of any other applicant.
 
 #### (2) Requirements completed on same date
 
@@ -36,9 +36,11 @@ The breeder of any sexually reproduced or tuber propagated plant variety (other 
 
 &emsp;&emsp;If the varieties that are the subject of the applications cannot be distinguished in any manner, a single certificate shall be issued jointly to the applicants.
 
-(Pub. L. 91–577, title II, §42, Dec. 24, 1970, 84 Stat. 1547; Pub. L. 103–349, §3, Oct. 6, 1994, 108 Stat. 3138.)
+(Pub. L. 91–577, title II, §42, Dec. 24, 1970, 84 Stat. 1547; Pub. L. 103–349, §3, Oct. 6, 1994, 108 Stat. 3138; Pub. L. 104–127, title IX, §913(a), Apr. 4, 1996, 110 Stat. 1186.)
 
 #### Amendments
+
+1996—Subsec. (a)(1)(B)(i). Pub. L. 104–127 inserted “, except that in the case of a tuber propagated plant variety the Secretary may waive the 4-year limitation for a period ending 1 year after April 4, 1996” after “filing”.
 
 1994—Pub. L. 103–349 amended section generally, substituting present provisions for substantially similar former provisions.
 
@@ -48,5 +50,5 @@ Amendment by Pub. L. 103–349 effective 180 days after Oct. 6, 1994, see sectio
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 2562 of this title.
+This section is referred to in sections 2483, 2562 of this title.
 

@@ -142,7 +142,7 @@ Pub. L. 101–368, §2(a)(1), substituted “preventive health service programs 
 
 Subsec. (k)(2)(A) to (D). Pub. L. 101–368, §2(a)(2), substituted “prevention, control, and elimination” for “prevention and control”.
 
-Subsec. (<i>l</i>). Pub. L. 101–368, §2(b), added subsec. (<i>l).</i>
+Subsec. (<i>l</i>). Pub. L. 101–368, §2(b), added subsec. (<i>l</i>).
 
 1987—Subsec. (j). Pub. L. 100–177, §§110(a), 111(a), amended subsec. (j) generally, substituting provisions authorizing appropriations for fiscal years 1988 to 1990 for grants under subsecs. (a) and (k) of this section for former provisions authorizing appropriations for fiscal years 1982 to 1987 for grants under subsec. (a) of this section.
 
@@ -166,7 +166,7 @@ Subsec. (g)(2). Pub. L. 95–626, §204(b)(2), struck out “Except as provided 
 
 1976—Pub. L. 94–317 amended section generally to include many non-communicable diseases as well as expanding coverage of communicable diseases, increased appropriations for grants, widened scope of Secretary's authority to make grants and enter into contracts to include nonprofit private entities, and required a report from the Secretary on the effectiveness of all Federal and other public and private activities in controlling the diseases covered under this section.
 
-Subsecs. (j) to (<i>l</i>). Pub. L. 94–380 added subsecs. (j) to (<i>l).</i>
+Subsecs. (j) to (<i>l</i>). Pub. L. 94–380 added subsecs. (j) to (<i>l</i>).
 
 1975—Subsec. (d)(3). Pub. L. 94–63, §601(b), inserted authorization of appropriation for fiscal year 1976.
 
@@ -216,7 +216,7 @@ Subsecs. (f), (g). Pub. L. 91–464 added subsecs. (f) and (g).
 
 Subsec. (b). Pub. L. 89–109, §2(c), (d)(1), substituted “against the diseases referred to in subsection (a) of this section” for “against poliomyelitis, diphtheria, whooping cough, and tetanus”, “of preschool age” for “who are under the age of five years” and “immunization” for “intensive community vaccination” in two places.
 
-Subsec. (c). Pub. L. 89–109, §2(d)(1), (e), inserted “on the basis of estimates” and “(with necessary adjustments on account of underpayments or overpayments)” in par. (1), and substituted “immunization” for “intensive community vaccination” in pars. (2) and (3).
+Subsec. (c). Pub. L. 89–109, §2(d)(1), (e), inserted “on the basis of estimates” and “(with necessary adjustments on account of underpayments or overpayments)”in par. (1), and substituted “immunization” for “intensive community vaccination” in pars. (2) and (3).
 
 #### Effective Date of 1978 Amendment
 

@@ -68,7 +68,7 @@ Section 311 of the Federal Employees’ Retirement System Act of 1986 \[Pub. L. 
 
 #### Amendments
 
-<b>1986</b>—Subsecs. (i), (j). Pub. L. 99–509 added subsecs. (i) and (j).
+1986—Subsecs. (i), (j). Pub. L. 99–509 added subsecs. (i) and (j).
 
 #### Effective Date of 1986 Amendment
 

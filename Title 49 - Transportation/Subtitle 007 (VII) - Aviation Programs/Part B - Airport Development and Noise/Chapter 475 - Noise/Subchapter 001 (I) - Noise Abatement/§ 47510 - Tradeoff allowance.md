@@ -1,12 +1,14 @@
 ### §47510. Tradeoff allowance
 
-Notwithstanding another law or a regulation prescribed or order issued under that law, the tradeoff provisions contained in appendix C of part 36 of title 14, Code of Federal Regulations, apply in deciding whether an aircraft complies with subpart I of part 91 of title 14.
+Notwithstanding another law or a regulation prescribed or order issued under that law, the tradeoff provisions contained in appendix C of part 36 of title 14, Code of Federal Regulations,apply in deciding whether an aircraft complies with subpart I of part 91 of title 14.
 
 (Added Pub. L. 103–429, §6(72)(A), Oct. 31, 1994, 108 Stat. 4387.)
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

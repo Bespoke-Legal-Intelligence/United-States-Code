@@ -8,7 +8,7 @@ Such portion as the Secretary shall determine, but not less than 0.2 percent nor
 
 Not later than February 1 of each year, the Secretary shall prepare and submit to the Committee on Labor and Human Resources of the Senate and the Committee on Energy and Commerce of the House of Representatives a report summarizing the findings of the evaluations conducted under subsection (a) of this section.
 
-(July 1, 1944, ch. 373, title II, §241, formerly title V, §513, as added June 30, 1970, Pub. L. 91–296, title IV, §401(a), 84 Stat. 351; amended Oct. 7, 1980, Pub. L. 96–398, title VIII, §804(c), 94 Stat. 1608; Aug. 13, 1981, Pub. L. 97–35, title IX, §902(g)(3), 95 Stat. 560; renumbered title XXI, §2113, Apr. 26, 1983, Pub. L. 98–24, §2(a)(1), 97 Stat. 176; renumbered title XXIII, §2313, Nov. 14, 1986, Pub. L. 99–660, title III, §311(a), 100 Stat. 3755; renumbered title XXV, §2511, Nov. 4, 1988, Pub. L. 100–607, title II, §201(1), (3), 102 Stat. 3062, 3063; renumbered title XXVI, §2611, Nov. 18, 1988, Pub. L. 100–690, title II, §2620(a), 102 Stat. 4244; renumbered title XXVII, §2711, Aug. 18, 1990, Pub. L. 101–381, title I, §101(1), (2), 104 Stat. 576; renumbered title II, §241, June 10, 1993, Pub. L. 103–43, title XX, §2010(a)(1)–(3), 107 Stat. 213; Dec. 14, 1993, Pub. L. 103–183, title VII, §701, 107 Stat. 2239.)
+(July 1, 1944, ch. 373, title II, §241, formerly title V, §513, as added June 30, 1970, Pub. L. 91–296,title IV, §401(a), 84 Stat. 351; amended Oct. 7, 1980, Pub. L. 96–398, title VIII, §804(c), 94 Stat. 1608; Aug. 13, 1981, Pub. L. 97–35, title IX, §902(g)(3), 95 Stat. 560; renumbered title XXI, §2113, Apr. 26, 1983, Pub. L. 98–24, §2(a)(1), 97 Stat. 176; renumbered title XXIII, §2313, Nov. 14, 1986, Pub. L. 99–660, title III, §311(a), 100 Stat. 3755; renumbered title XXV, §2511, Nov. 4, 1988, Pub. L. 100–607, title II, §201(1), (3), 102 Stat. 3062, 3063; renumbered title XXVI, §2611, Nov. 18, 1988, Pub. L. 100–690, title II, §2620(a), 102 Stat. 4244; renumbered title XXVII, §2711, Aug. 18, 1990, Pub. L. 101–381, title I, §101(1), (2), 104 Stat. 576; renumbered title II, §241, June 10, 1993, Pub. L. 103–43, title XX, §2010(a)(1)–(3), 107 Stat. 213; Dec. 14, 1993, Pub. L. 103–183, title VII, §701, 107 Stat. 2239.)
 
 #### Codification
 
@@ -24,7 +24,7 @@ Section was formerly classified to section 300aaa–10 of this title prior to re
 
 #### Change of Name
 
-Committee on Energy and Commerce of House of Representatives treated as referring to Committee onCommerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Effective Date of 1993 Amendment
 
@@ -36,5 +36,5 @@ Amendment by Pub. L. 97–35 effective Oct. 1, 1981, see section 902(h) of Pub. 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 299c–5 of this title.
+This section is referred to in sections 299c–5, 300ff–74 of this title.
 

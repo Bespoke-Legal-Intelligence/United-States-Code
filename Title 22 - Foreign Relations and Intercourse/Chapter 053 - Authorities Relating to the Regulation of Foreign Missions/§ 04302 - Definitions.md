@@ -22,11 +22,11 @@
 
 &emsp;(2) “chancery” means the principal offices of a foreign mission used for diplomatic or related purposes, and annexes to such offices (including ancillary offices and support facilities), and includes the site and any building on such site which is used for such purposes;
 
-&emsp;(3) “foreign mission” means any mission to or agency or entity in the United States which is involved in the diplomatic, consular, or other activities of, or which is substantially owned or effectively controlled by—
+&emsp;(3) “foreign mission” means any mission to or agency or entity in the United States which is involved in the diplomatic, consular, orother activities of, or which is substantially owned or effectively controlled by—
 
 &emsp;&emsp;(A) a foreign government, or
 
-&emsp;&emsp;(B) an organization (other than an international organization, as defined in section 4309(b) of this title) representing a territoryor political entity which has been granted diplomatic or other official privileges and immunities under the laws of the United States or which engages in some aspect of the conduct of the international affairs of such territory or political entity,
+&emsp;&emsp;(B) an organization (other than an international organization, as defined in section 4309(b) of this title) representing a territory or political entity which has been granted diplomatic or other official privileges and immunities under the laws of the United States or which engages in some aspect of the conduct of the international affairs of such territory or political entity,
 
 > &emsp;including any real property of such a mission and including the personnel of such a mission;
 

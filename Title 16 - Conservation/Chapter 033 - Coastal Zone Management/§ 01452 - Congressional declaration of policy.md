@@ -12,7 +12,7 @@ The Congress finds and declares that it is the national policy—
 
 &emsp;&emsp;(C) the management of coastal development to improve, safeguard, and restore the quality of coastal waters, and to protect natural resources and existing uses of those waters,
 
-&emsp;&emsp;(D) priority consideration being given to coastal-dependent uses and orderly processes for siting major facilities related to national defense, energy, fisheries development, recreation, ports and transportation, and the location, to the maximum extent practicable, of new commercial and industrial developments in or adjacent to areas where such development already exists,
+&emsp;&emsp;(D) priority consideration being given to coastal-dependent uses and orderly processesfor siting major facilities related to national defense, energy, fisheries development, recreation, ports and transportation, and the location, to the maximum extent practicable, of new commercial and industrial developments in or adjacent to areas where such development already exists,
 
 &emsp;&emsp;(E) public access to the coasts for recreation purposes,
 
@@ -34,7 +34,7 @@ The Congress finds and declares that it is the national policy—
 
 &emsp;(5) to encourage coordination and cooperation with and among the appropriate Federal, State, and local agencies, and international organizations where appropriate, in collection, analysis, synthesis, and dissemination of coastal management information, research results, and technical assistance, to support State and Federal regulation of land use practices affecting the coastal and ocean resources of the United States; and
 
-&emsp;(6) to respond to changing circumstances affecting the coastal environment and coastal resource management by encouraging Statesto consider such issues as ocean uses potentially affecting the coastal zone.
+&emsp;(6) to respond to changing circumstances affecting the coastal environment and coastal resource management by encouraging States to consider such issues as ocean uses potentially affecting the coastal zone.
 
 (Pub. L. 89–454, title III, §303, as added Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1281; amended Pub. L. 96–464, §3, Oct. 17, 1980, 94 Stat. 2060; Pub. L. 101–508, title VI, §6203(b), Nov. 5, 1990, 104 Stat. 1388–301; Pub. L. 102–587, title II, §2205(b)(2), Nov. 4, 1992, 106 Stat. 5050.)
 

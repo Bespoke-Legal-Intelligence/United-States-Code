@@ -29,10 +29,10 @@
 
 |  |  |
 | :--- | ---: |
-| [3241\.](Subchapter%20001%20%28I%29%20-%20United%20States%20Initiatives%20to%20Provide%20Adequate%20Nuclear%20Fuel%20Supply/%C2%A7%2003241%20-%20Congressional%20declaration%20of%20policy.md) | Congressional declaration of policy. |
-| [3242\.](Subchapter%20001%20%28I%29%20-%20United%20States%20Initiatives%20to%20Provide%20Adequate%20Nuclear%20Fuel%20Supply/%C2%A7%2003242%20-%20Training%20program.md) | Training program. |
-| [3243\.](Subchapter%20001%20%28I%29%20-%20United%20States%20Initiatives%20to%20Provide%20Adequate%20Nuclear%20Fuel%20Supply/%C2%A7%2003243%20-%20Negotiations.md) | Negotiations. |
-| [3244\.](Subchapter%20001%20%28I%29%20-%20United%20States%20Initiatives%20to%20Provide%20Adequate%20Nuclear%20Fuel%20Supply/%C2%A7%2003244%20-%20Actions%20to%20combat%20international%20nuclear%20terrorism.md) | Actions to combat international nuclear terrorism. |
+| [3241\.](Subchapter%20002%20%28II%29%20-%20United%20States%20Initiatives%20to%20Strengthen%20the%20International%20Safeguards%20System/%C2%A7%2003241%20-%20Congressional%20declaration%20of%20policy.md) | Congressional declaration of policy. |
+| [3242\.](Subchapter%20002%20%28II%29%20-%20United%20States%20Initiatives%20to%20Strengthen%20the%20International%20Safeguards%20System/%C2%A7%2003242%20-%20Training%20program.md) | Training program. |
+| [3243\.](Subchapter%20002%20%28II%29%20-%20United%20States%20Initiatives%20to%20Strengthen%20the%20International%20Safeguards%20System/%C2%A7%2003243%20-%20Negotiations.md) | Negotiations. |
+| [3244\.](Subchapter%20002%20%28II%29%20-%20United%20States%20Initiatives%20to%20Strengthen%20the%20International%20Safeguards%20System/%C2%A7%2003244%20-%20Actions%20to%20combat%20international%20nuclear%20terrorism.md) | Actions to combat international nuclear terrorism. |
 | (a) | Actions to be taken by President. |
 | (b) | Reports to Congress. |
 
@@ -82,5 +82,6 @@ This chapter is referred to in sections 2778a, 3303, 3408 of this title; title 4
 - [&sect; 03202 - Congressional statement of purpose](%C2%A7%2003202%20-%20Congressional%20statement%20of%20purpose.md)
 - [&sect; 03203 - Definitions](%C2%A7%2003203%20-%20Definitions.md)
 - [Subchapter 001 (I) - United States Initiatives to Provide Adequate Nuclear Fuel Supply](Subchapter%20001%20%28I%29%20-%20United%20States%20Initiatives%20to%20Provide%20Adequate%20Nuclear%20Fuel%20Supply/README.md)
+- [Subchapter 002 (II) - United States Initiatives to Strengthen the International Safeguards System](Subchapter%20002%20%28II%29%20-%20United%20States%20Initiatives%20to%20Strengthen%20the%20International%20Safeguards%20System/README.md)
 - [Subchapter 003 (III) - United States Assistance to Developing Countries](Subchapter%20003%20%28III%29%20-%20United%20States%20Assistance%20to%20Developing%20Countries/README.md)
 - [Subchapter 004 (IV) - Executive Reporting](Subchapter%20004%20%28IV%29%20-%20Executive%20Reporting/README.md)

@@ -10,7 +10,7 @@
 
 (1) An Indian tribe may engage in, or license and regulate, class II gaming on Indian lands within such tribe's jurisdiction, if—
 
-&emsp;(A) such Indian gaming is located within a State that permits such gaming for any purpose by any person, organization or entity\(and such gaming is not otherwise specifically prohibited on Indian lands by Federal law), and
+&emsp;(A) such Indian gaming is located within a State that permits such gaming for any purpose by any person, organization or entity (and such gaming is not otherwise specifically prohibited on Indian lands by Federal law), and
 
 &emsp;(B) the governing body of the Indian tribe adopts an ordinance or resolution which is approved by the Chairman.
 
@@ -80,7 +80,7 @@
 
 (1) The Commission may consult with appropriate law enforcement officials concerning gaming licenses issued by an Indian tribe and shall have thirty days to notify the Indian tribe of any objections to issuance of such license.
 
-(2) If, after the issuance of a gaming license by an Indian tribe, reliable information is received from the Commission indicating that a primary management official or key employee does not meet the standard established under subsection (b)(2)(F)(ii)(II) of this section, the Indian tribe shall suspend such license and, after notice and hearing, may revoke such license.
+(2) If, after the issuance of a gaming license by an Indian tribe, reliable information is received from the Commission indicating that a primary management official or key employee does not meet the standard established under subsection\(b)(2)(F)(ii)(II) of this section, the Indian tribe shall suspend such license and, after notice and hearing, may revoke such license.
 
 (3) Any Indian tribe which operates a class II gaming activity and which—
 
@@ -150,7 +150,7 @@
 
 (D)(i) The governing body of an Indian tribe, in its sole discretion and without the approval of the Chairman, may adopt an ordinance or resolution revoking any prior ordinance or resolution that authorized class III gaming on the Indian lands of the Indian tribe. Such revocation shall render class III gaming illegal on the Indian lands of such Indian tribe.
 
-(ii) The Indian tribe shall submit any revocation ordinance or resolution described in clause (i) to the Chairman. The Chairman shall publishsuch ordinance or resolution in the Federal Register and the revocation provided by such ordinance or resolution shall take effect on the date of such publication.
+(ii) The Indian tribe shall submit any revocation ordinance or resolution described in clause (i) to the Chairman. The Chairman shall publish such ordinance or resolution in the Federal Register and the revocation provided by such ordinance or resolution shall take effect on the date of such publication.
 
 (iii) Notwithstanding any other provision of this subsection—
 
@@ -212,7 +212,7 @@
 
 &emsp;(II) shall consider any demand by the State for direct taxation of the Indian tribe or of any Indian lands as evidence that the State has not negotiated in good faith.
 
-(iv) If a State and an Indian tribe fail to conclude a Tribal-State compact governing the conduct of gaming activities on the Indian lands subject to the jurisdiction of such Indian tribe within the 60-day period provided in the order of a court issued under clause (iii), the Indian tribe and the State shall each submit to a mediator appointed by the court a proposed compact that represents their last best offer for a compact. The mediator shall select from the two proposed compacts the one which best comports with the terms of this chapter and any other applicable Federal law and with the findings and order of the court.
+(iv) If a State and an Indian tribe fail to conclude a Tribal-State compact governing the conduct of gaming activities on the Indian lands subject to the jurisdiction of such Indian tribe within the 60-day period provided in the order of a court issued under clause (iii), the Indian tribe and the State shall each submit to a mediator appointed by the court a proposed compact that represents their last best offer for a compact. The mediator shall select from the two proposed compacts the one which best comports with theterms of this chapter and any other applicable Federal law and with the findings and order of the court.
 
 (v) The mediator appointed by the court under clause (iv) shall submit to the State and the Indian tribe the compact selected by the mediator under clause (iv).
 

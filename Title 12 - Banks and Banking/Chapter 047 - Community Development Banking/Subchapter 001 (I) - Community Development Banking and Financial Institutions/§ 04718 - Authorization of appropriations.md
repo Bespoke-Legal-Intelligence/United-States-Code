@@ -24,7 +24,7 @@
 
 #### (B) Calculations
 
-&emsp;&emsp;The amounts referred to in paragraphs (3) and (4) shall be calculated after subtractingthe amount referred to in subparagraph (A) of this paragraph from the total amount appropriated to the Fund in accordance with paragraph (1) in any fiscal year.
+&emsp;&emsp;The amounts referred to in paragraphs (3) and (4) shall be calculated after subtracting the amount referred to in subparagraph (A) of this paragraph from the total amount appropriated to the Fund in accordance with paragraph (1) in any fiscal year.
 
 #### (3) Capitalization assistance
 

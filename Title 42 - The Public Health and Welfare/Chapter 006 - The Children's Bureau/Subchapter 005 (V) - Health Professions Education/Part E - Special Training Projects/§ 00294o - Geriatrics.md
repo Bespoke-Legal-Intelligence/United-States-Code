@@ -96,7 +96,7 @@ A prior section 294<i>o</i>, act July 1, 1944, ch. 373, title VII, §742, as add
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 294n of this title.
+This section is referred to in section 300ff–111 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be subparagraph “(E)”.</i>
 

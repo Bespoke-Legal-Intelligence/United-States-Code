@@ -4,7 +4,7 @@
 
 (1)(A) Upon its finding that a Federal credit union insured under this subchapter is bankrupt or insolvent, the Board shall close such credit union for liquidation and appoint himself <sup>1</sup> liquidating agent therefor.
 
-(B) Not later than 10 days after the date on which the Board closes a credit union for liquidation pursuant to paragraph (1), or accepts appointment as liquidating agent pursuant to subsection (b) of this section, such insured credit union may apply to the United States district court for the judicial district in which the principal office of such insured credit union is located or the United States District Court for the District of Columbia, for an order requiring the Board to show cause why it should not be prohibited from continuing such liquidation. Except as otherwise provided in this subparagraph, no court may take any action for or toward the removal of any liquidating agent or, except at the instance of the Board, restrain or affect the exercise of powers or functions of a liquidating agent.
+(B) Not later than 10 days after the date on which the Board closes a credit union for liquidation pursuant to paragraph (1), or accepts appointment as liquidating agent pursuant tosubsection (b) of this section, such insured credit union may apply to the United States district court for the judicial district in which the principal office of such insured credit union is located or the United States District Court for the District of Columbia, for an order requiring the Board to show cause why it should not be prohibited from continuing such liquidation. Except as otherwise provided in this subparagraph, no court may take any action for or toward the removal of any liquidating agent or, except at the instance of the Board, restrain or affect the exercise of powers or functions of a liquidating agent.
 
 (2) Notwithstanding any other provision of law, the Board as liquidating agent of a closed Federal credit union insured under this subchapter shall not be required to furnish bond and shall have the right to appoint an agent or agents to assist it in its duties as such liquidating agent. All fees, compensation, and expenses of liquidation and administration thereof shall be fixed by the Board and may be paid by them out of funds coming into its possession as such liquidating agent.
 
@@ -58,7 +58,7 @@
 
 #### (G) Attachment of assets and injunctive relief
 
-&emsp;&emsp;Subject to subparagraph (H), any court of competent jurisdiction may, at the request of the Board (in the Board's capacity as conservator or liquidating agent for any insured credit union or in the Board's corporate capacity in the exercise of any authority underthis section), issue an order in accordance with Rule 65 of the Federal Rules of Civil Procedure, including an order placing the assets of any person designated by the Board under the control of the court and appointing a trustee to hold such assets.
+&emsp;&emsp;Subject to subparagraph (H), any court of competent jurisdiction may, at the request of the Board (in the Board's capacity as conservator or liquidating agent for any insured credit union or in the Board's corporate capacity in the exercise of any authority under this section), issue an order in accordance with Rule 65 of the Federal Rules of Civil Procedure, including an order placing the assets of any person designated by the Board under the control of the court and appointing a trustee to hold such assets.
 
 #### (H) Standards
 
@@ -74,7 +74,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The Board may, as conservator or liquidating agent and for purposes of carrying out any power, authority, or duty with respect to an insured credit union (including determining any claim against the credit union and determining and realizing upon any asset of any person in the course of collecting money due the credit union), exercise any power established under section 1786(p) of this title, and the provisions of such section shall apply with respect to the exercise of any such power under this subparagraph in the same manner as such provisions apply under such section.
+&emsp;&emsp;&emsp;The Board may, as conservator or liquidating agent and for purposes of carrying out any power, authority, or duty with respect to an insured credit union (including determining any claim against the credit union and determining and realizing upon any asset of any person in the course of collecting money due the credit union),exercise any power established under section 1786(p) of this title, and the provisions of such section shall apply with respect to the exercise of any such power under this subparagraph in the same manner as such provisions apply under such section.
 
 #### (ii) Authority of Board
 
@@ -256,7 +256,7 @@
 
 #### (C) Period for filing or renewing suit
 
-&emsp;&emsp;Any claimant who files a request for expedited relief shall be permitted to file a suit, or to continue a suit filed before the appointment of the liquidating agent, seeking a determination of the claimant's rights with respect to such security interest after the earlier of—
+&emsp;&emsp;Any claimant who files a request for expedited relief shall be permitted to file a suit, or to continue a suit filed before the appointment of the liquidating agent, seekinga determination of the claimant's rights with respect to such security interest after the earlier of—
 
 &emsp;&emsp;&emsp;(i) the end of the 90-day period beginning on the date of the filing of a request for expedited relief; or
 
@@ -400,7 +400,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Board, as conservator or liquidating agent for any insured credit union, may avoid a transfer of any interest of an institution-affiliated party, or any person who theBoard determines is a debtor of the institution, in property, or any obligation incurred by such party or person, that was made within 5 years of the date on which the Board becomes conservator or liquidating agent if such party or person voluntarily or involuntarily made such transfer or incurred such liability with the intent to hinder, delay, or defraud the insured credit union or the Board.
+&emsp;&emsp;The Board, as conservator or liquidating agent for any insured credit union, may avoid a transfer of any interest of an institution-affiliated party, or any person who the Board determines is a debtor of the institution, in property, or any obligation incurred by such party or person, that was made within 5 years of the date on which the Board becomes conservator or liquidating agent if such party or person voluntarily or involuntarily made such transfer or incurred such liability with the intent to hinder, delay, or defraud the insured credit union or the Board.
 
 #### (B) Right of recovery
 
@@ -512,7 +512,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) may offset against any rent payment which accrues after the date of the repudiation of the lease, any damages which accrue after such date due to the nonperformance of any obligation of the credit union under the lease after such date; and
 
-&emsp;&emsp;&emsp;(ii) the conservator or liquidating agent shall not be liable to the lessee for any damages arising after such date as a result of the repudiation other than the amount of any offset allowed under clause (i)(II).
+&emsp;&emsp;&emsp;(ii) the conservator or liquidating agent shall not be liable to the lessee for anydamages arising after such date as a result of the repudiation other than the amount of any offset allowed under clause (i)(II).
 
 #### (6) Contracts for the sale of real property
 
@@ -640,7 +640,7 @@
 
 &emsp;&emsp;&emsp;(ii) any right under any security arrangement relating to such qualified financial contracts; or
 
-&emsp;&emsp;&emsp;(iii) any right to offset or net out any termination values, payment amounts, or other transfer obligations arising under orin connection with such qualified financial contracts.
+&emsp;&emsp;&emsp;(iii) any right to offset or net out any termination values, payment amounts, or other transfer obligations arising under or in connection with such qualified financial contracts.
 
 #### (9) Transfer of qualified financial contracts
 
@@ -668,7 +668,7 @@
 
 &emsp;&emsp;If—
 
-&emsp;&emsp;&emsp;(i) the conservator or liquidating agent for an insured credit union in default makes any transfer of the assets and liabilities of such credit union; and
+&emsp;&emsp;&emsp;(i) the conservator or liquidating agent for an insured credit union in defaultmakes any transfer of the assets and liabilities of such credit union; and
 
 &emsp;&emsp;&emsp;(ii) the transfer includes any qualified financial contract,
 
@@ -722,7 +722,7 @@
 
 #### (4) Review of Board's determination
 
-&emsp;Final determination made by the Board shall be reviewable in accordance with chapter 7 of title 5 by the United States Court of Appeals for the District of Columbia or the court of appeals for the Federal judicial circuitwhere the principal place of business of the credit union is located.
+&emsp;Final determination made by the Board shall be reviewable in accordance with chapter 7 of title 5 by the United States Court of Appeals for the District of Columbia or the court of appeals for the Federal judicial circuit where the principal place of business of the credit union is located.
 
 #### (5) Statute of limitations
 
@@ -780,7 +780,7 @@ In any proceeding related to any claim against an insured credit union's directo
 
 #### (j) Board as liquidating agent of State-chartered credit unions
 
-Whenever any insured State-chartered credit union shall have been closed by action of its board of directors or by the commission, board, or authority having supervision of such credit union, as the case may be, or by a court of competent jurisdiction, on account of bankruptcy or insolvency, the Board shall accept appointment as liquidating agent therefor, if such appointment is tendered by the commission, board, or authority having supervision of such credit union, or by a court of competent jurisdiction, and is authorized or permitted by State law. With respect to any such State-chartered credit union, the Board as such liquidating agent shallpossess all the rights, powers, and privileges granted by State law to a liquidating agent of a State-chartered credit union. For the purposes of this subsection, the term “liquidating agent” includes a liquidating agent, receiver, conservator, commission, person, or other agency charged by law with the duty of winding up the affairs of a credit union.
+Whenever any insured State-chartered credit union shall have been closed by action of its board of directors or by the commission, board, or authority having supervision of such credit union, as the case may be, or by a court of competent jurisdiction, on account of bankruptcy or insolvency, the Board shall accept appointment as liquidating agent therefor, if such appointment is tendered by the commission, board, or authority having supervision of such credit union, or by a court of competent jurisdiction, and is authorized or permitted by State law. With respect to any such State-chartered credit union, the Board as such liquidating agent shall possess all the rights, powers, and privileges granted by State law to a liquidating agent of a State-chartered credit union. For the purposes of this subsection, the term “liquidating agent” includes a liquidating agent, receiver, conservator, commission, person, or other agency charged by law with the duty of winding up the affairs of a credit union.
 
 #### (k) Extent of insurance coverage; insurance of public funds; insurance regarding pension and profitsharing plans
 

@@ -16,7 +16,7 @@ An applicant is eligible to receive a grant under this subchapter if—
 
 &emsp;&emsp;(D) the child witness must submit to cross-examination; and
 
-&emsp;&emsp;(E) the finder of fact must be permitted to observe the demeanor of the child witness in making his or her statement and the defendant must be able to contemporaneously communicate with his defense attorney; and
+&emsp;&emsp;(E) the finder of fact must be permitted to observe the demeanor of the child witness inmaking his or her statement and the defendant must be able to contemporaneously communicate with his defense attorney; and
 
 &emsp;(3) the Director determines that the application submitted under section 3796aa–1 of this title or amendment to such application is consistent with the requirements of this chapter.
 

@@ -6,7 +6,9 @@ A permit issued under section 41302 of this title may be transferred only when t
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -20,11 +22,11 @@ Aug. 23, 1958, Pub. L. 85–726, §402(g), 72 Stat. 758.
 
 &nbsp;
 
-49 App.:1551(b) (1)(E).
+49 App.:1551(b)(1)(E).
 
 Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1601(b)(1)(E); added Oct. 4, 1984, Pub. L. 98–443, §3(e), 98 Stat. 1704.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 40109, 41310, 46301 of this title.
+This section is referred to in section 41310 of this title.
 

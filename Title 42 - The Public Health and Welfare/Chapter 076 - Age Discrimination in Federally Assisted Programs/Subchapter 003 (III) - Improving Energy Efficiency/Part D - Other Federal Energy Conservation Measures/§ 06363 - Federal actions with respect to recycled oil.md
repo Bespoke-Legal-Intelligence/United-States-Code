@@ -46,7 +46,7 @@ As soon as practicable after December 22, 1975, the National Institute of Standa
 
 (B) Such labeling standards shall permit any container of recycled oil to bear a label indicating any particular end use for which a determination of substantial equivalency has been made pursuant to subparagraph (A)(i).
 
-(2) Not later than the expiration of such 90-day period, the Administrator of the Environmental Protection Agency shall, by rule, prescribe labeling standards applicable to containers of new oil, used oil, and recycled oil relating to the proper disposal of such oils after use. Such standards shall be designed to reduce, to the maximum extent practicable, environmental hazards and wasteful practices associated with the disposal of such oils after use.
+(2) Not later than the expiration of such 90-day period, the Administrator of the EnvironmentalProtection Agency shall, by rule, prescribe labeling standards applicable to containers of new oil, used oil, and recycled oil relating to the proper disposal of such oils after use. Such standards shall be designed to reduce, to the maximum extent practicable, environmental hazards and wasteful practices associated with the disposal of such oils after use.
 
 #### (e) Labeling standards
 
@@ -62,7 +62,7 @@ After the effective date of the rules required to be prescribed under subsection
 
 &emsp;(1) revising procurement policies to encourage procurement of recycled oil for military and nonmilitary Federal uses whenever such recycled oil is available at prices competitive with new oil procured for the same end use; and
 
-&emsp;(2) educating persons employed by Federal and State governments and private sectors of the economy of the merits of recycled oil, the need for its use in order to reduce the drain onthe Nation's oil reserves, and proper disposal of used oil to avoid waste of such oil and to minimize environmental hazards associated with improper disposal.
+&emsp;(2) educating persons employed by Federal and State governments and private sectors of the economy of the merits of recycled oil, the need for its use in order to reduce the drain on the Nation's oil reserves, and proper disposal of used oil to avoid waste of such oil and to minimize environmental hazards associated with improper disposal.
 
 (Pub. L. 94–163, title III, §383, Dec. 22, 1975, 89 Stat. 940; Pub. L. 100–418, title V, §5115(c), Aug. 23, 1988, 102 Stat. 1433.)
 

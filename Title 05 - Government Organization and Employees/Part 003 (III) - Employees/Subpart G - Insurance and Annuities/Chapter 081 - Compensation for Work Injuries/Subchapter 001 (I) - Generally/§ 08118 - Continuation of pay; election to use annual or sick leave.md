@@ -10,7 +10,7 @@
 
 &emsp;(3) under accounting procedures and such other regulations as the Secretary may require.
 
-(c) An employee may use annual or sick leave to his credit at the time the disability begins, but his compensation for disability does not begin, and the time periods specified by section 8117 of this title do not begin to run, until termination of pay as set forth in subsections (a) and (b) or the use of annual or sick leave ends.
+(c) An employee may use annual or sick leave to his credit at the time the disability begins,but his compensation for disability does not begin, and the time periods specified by section 8117 of this title do not begin to run, until termination of pay as set forth in subsections (a) and (b) or the use of annual or sick leave ends.
 
 (d) If a claim under subsection (a) is denied by the Secretary, payments under this section shall, at the option of the employee, be charged to sick or annual leave or shall be deemed overpayments of pay within the meaning of section 5584 of title 5, United States Code.
 
@@ -24,7 +24,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 5 U.S.C. 758.
 
@@ -38,7 +40,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-<b>1974</b>—Pub. L. 93–416 inserted in section catchline the reference to continuation of pay, added subsecs. (a), (b), (d) and (e), designated existing provisions as subsec. (c), and in subsec. (c) as so designated, substituted “until termination of pay as set forth in subsections (a) and (b) or the use of annual or sick leave ends” for “until the use of the annual or sick leave ends”.
+1974—Pub. L. 93–416 inserted in section catchline the reference to continuation of pay, added subsecs. (a), (b), (d) and (e), designated existing provisions as subsec. (c), and in subsec. (c) as so designated, substituted “until termination of pay as set forth in subsections (a) and (b) or the use of annual or sick leave ends” for “until the use of the annual or sick leave ends”.
 
 #### Effective Date of 1974 Amendment
 

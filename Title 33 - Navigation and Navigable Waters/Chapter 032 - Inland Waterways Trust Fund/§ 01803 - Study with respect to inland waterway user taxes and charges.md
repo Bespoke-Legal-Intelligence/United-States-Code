@@ -82,7 +82,7 @@ The economic effects of waterway user taxes and charges on—
 
 #### (e) Considerations relating to Federal assistance
 
-&emsp;(1) The extent of past, present, and expected future Federal assistance to the several modes of freight transportation. Such consideration shall include an evaluation and comparison of the public benefits resulting from such assistance to each of the several transportation modes in terms of adequacy, efficiency, and economy of service, safety, technological progress, and energy conservation. The Federal assistance considered under this paragraph shall include all forms of such assistance, such as tax advantages, direct grants, rate adjustments for improvement purposes, assumption of pension fund liabilities, loans, guarantees, capital participation, revenues from land grants, and provision of right-of-way operation, maintenance, and improvement.
+&emsp;(1) The extent of past, present, and expected future Federal assistance to the several modes of freight transportation. Such consideration shall include an evaluation and comparison of the public benefits resulting from such assistance to each of the several transportation modes in terms of adequacy, efficiency, and economy of service, safety, technological progress, and energy conservation. The Federal assistance considered under this paragraph shall include all forms of such assistance, such as tax advantages, direct grants, rate adjustments for improvement purposes,assumption of pension fund liabilities, loans, guarantees, capital participation, revenues from land grants, and provision of right-of-way operation, maintenance, and improvement.
 
 &emsp;(2) The competitive effects of past, present, and expected future Federal expenditures on inland waterways on competitive modes of transportation.
 
@@ -104,7 +104,7 @@ For purposes of this section, the term “inland waterway user taxes and charges
 
 #### (h) Report
 
-Not later than September 30, 1981, the Secretary of Transportation shall transmit to Congress a final report of the study required by this section, together with his findings and recommendations (including necessary legislation) and the findings and recommendations of the Secretary of Commerce, the Secretary of theTreasury, the Secretary of Agriculture, the Secretary of Energy, the Attorney General of the United States, the Secretary of the Army, the Chairman of the Water Resources Council, and the Director of the Office of Management and Budget.
+Not later than September 30, 1981, the Secretary of Transportation shall transmit to Congress a final report of the study required by this section, together with his findings and recommendations (including necessary legislation) and the findings and recommendations of the Secretary of Commerce, the Secretary of the Treasury, the Secretary of Agriculture, the Secretary of Energy, the Attorney General of the United States, the Secretary of the Army, the Chairman of the Water Resources Council, and the Director of the Office of Management and Budget.
 
 #### (i) Authorization of appropriations
 

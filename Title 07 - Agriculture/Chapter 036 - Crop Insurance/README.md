@@ -30,10 +30,10 @@
 | (i) | Expenditures. |
 | (j) | Settling claims. |
 | (k) | Other powers. |
-| (<i>l)</i> | Contracts. |
+| (<i>l</i>) | Contracts. |
 | (m) | Submission of certain information. |
 | (n) | Penalties. |
-| (<i>o)</i> | Actuarial soundness. |
+| (<i>o</i>) | Actuarial soundness. |
 | (p) | Regulations. |
 | (q) | Program compliance. |
 | (r) | Purchase of American-made equipment and products. |
@@ -58,8 +58,9 @@
 | (i) | Adoption of rates and coverages. |
 | (j) | Claims for losses. |
 | (k) | Reinsurance. |
-| (<i>l)</i> | Optional coverages. |
+| (<i>l</i>) | Optional coverages. |
 | (m) | Research. |
+| (n) | Limitation on multiple benefits for same loss. |
 | [1508a.](%C2%A7%2001508a%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93354%2C%20title%20I%2C%20%C2%A7107%2C%20Oct.%2013%2C%201994%2C%20108%20Stat.%203197.md) | Repealed. |
 | [1509\.](%C2%A7%2001509%20-%20Exemption%20of%20indemnities%20from%20levy.md) | Exemption of indemnities from levy. |
 | [1510\.](%C2%A7%2001510%20-%20Deposit%20and%20investment%20of%20funds%3B%20Federal%20Reserve%20banks%20as%20fiscal%20agents.md) | Deposit and investment of funds; Federal Reserve banks as fiscal agents. |
@@ -82,16 +83,7 @@
 | (c) | Insurance fund. |
 | [1517\.](%C2%A7%2001517%20-%20Separability.md) | Separability. |
 | [1518\.](%C2%A7%2001518%20-%20%E2%80%9CAgricultural%20commodity%E2%80%9D%20defined.md) | “Agricultural commodity” defined. |
-| [1519\.](%C2%A7%2001519%20-%20Noninsured%20crop%20disaster%20assistance%20program.md) | Noninsured crop disaster assistance program. |
-| (a) | Establishment of program. |
-| (b) | Application for noninsured crop disaster assistance. |
-| (c) | Loss requirements. |
-| (d) | Payment. |
-| (e) | Yield determinations. |
-| (f) | Contract payments. |
-| (g) | Payment of losses. |
-| (h) | Exclusions. |
-| (h) | Payment and income limitations. |
+| [1519\.](%C2%A7%2001519%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93127%2C%20title%20I%2C%20%C2%A7196%28j%29%2C%20Apr.%204%2C%201996%2C%20110%20Stat.%20950.md) | Repealed. |
 | [1520\.](%C2%A7%2001520%20-%20Producer%20eligibility.md) | Producer eligibility. |
 | [1521\.](%C2%A7%2001521%20-%20Ineligibility%20for%20catastrophic%20risk%20and%20noninsured%20assistance%20payments.md) | Ineligibility for catastrophic risk and noninsured assistance payments. |
 
@@ -99,7 +91,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 1301, 1391, 1961 of this title; title 12 section 1150a; title 16 sections 3811, 3821; title 21 section 889; title 26 section 6109; title 42 section 405.
+This chapter is referred to in sections 1301, 1391, 6933 of this title; title 12 section 1150a; title 16 sections 3811, 3821; title 21 section 889; title 26 section 6109; title 42 section 405.
 
 
 ---
@@ -127,6 +119,6 @@ This chapter is referred to in sections 1301, 1391, 1961 of this title; title 12
 - [&sect; 01516 - Funding](%C2%A7%2001516%20-%20Funding.md)
 - [&sect; 01517 - Separability](%C2%A7%2001517%20-%20Separability.md)
 - [&sect; 01518 - &#8220;Agricultural commodity&#8221; defined](%C2%A7%2001518%20-%20%E2%80%9CAgricultural%20commodity%E2%80%9D%20defined.md)
-- [&sect; 01519 - Noninsured crop disaster assistance program](%C2%A7%2001519%20-%20Noninsured%20crop%20disaster%20assistance%20program.md)
+- [&sect; 01519 - Repealed. Pub. L. 104&#8211;127, title I, &sect;196(j), Apr. 4, 1996, 110 Stat. 950](%C2%A7%2001519%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93127%2C%20title%20I%2C%20%C2%A7196%28j%29%2C%20Apr.%204%2C%201996%2C%20110%20Stat.%20950.md)
 - [&sect; 01520 - Producer eligibility](%C2%A7%2001520%20-%20Producer%20eligibility.md)
 - [&sect; 01521 - Ineligibility for catastrophic risk and noninsured assistance payments](%C2%A7%2001521%20-%20Ineligibility%20for%20catastrophic%20risk%20and%20noninsured%20assistance%20payments.md)

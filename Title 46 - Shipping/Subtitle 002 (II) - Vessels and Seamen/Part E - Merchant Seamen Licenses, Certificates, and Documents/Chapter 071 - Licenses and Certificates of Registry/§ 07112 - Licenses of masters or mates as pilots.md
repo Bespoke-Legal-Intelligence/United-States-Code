@@ -1,6 +1,6 @@
 ### §7112. Licenses of masters or mates as pilots
 
-A master or mate licensed under this part who also qualifies as a pilot is not required to hold 2licenses. Instead, the qualification of the master or mate as pilot shall be endorsed on the master's or mate's license.
+A master or mate licensed under this part who also qualifies as a pilot is not required to hold 2 licenses. Instead, the qualification of the master or mate as pilot shall be endorsed on the master's or mate's license.
 
 (Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 541.)
 

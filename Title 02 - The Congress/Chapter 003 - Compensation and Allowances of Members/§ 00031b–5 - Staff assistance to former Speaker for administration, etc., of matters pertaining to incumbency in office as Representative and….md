@@ -1,6 +1,6 @@
 ### §31b–5. Staff assistance to former Speaker for administration, etc., of matters pertaining to incumbency in office as Representative and Speaker; compensation and status of staff
 
-In order to provide staff assistance to the Speaker in connection with the administration, settlement, and conclusion of matters pertaining to or arising out of his incumbency in office as a Representative in Congress and as Speaker of the House of Representatives, the contingent fund of the House is hereby made available, for as long as he determines there is need therefor, commencing at the expiration of the term of office of the Speaker as a Representative in Congress to enable the Clerk of the House to pay the salaries of an Administrative Assistant, who shall be paid at a basic per annum rate of not to exceed the then current rate for step 5 of level 11 of the House Employees Schedule, as determined by the Speaker, a Secretary, who shall be paid at a basic per annum rate of not to exceed the then current rate for step 9 of level 8 of such Schedule, as determined by the Speaker, and an additional Secretary, who shall be paid at a gross per annum rate of not to exceed the then current rate for step 1 of level 6 of such Schedule as determined by the Speaker, designated and appointed by the Speaker to serve as members of his office staff in such period. Each person so designated and appointed shall be held and considered, for the duration of such appointment, as—
+In order to provide staff assistance to the Speaker in connection with the administration, settlement, and conclusion of matters pertaining to or arising out of his incumbency in office as a Representative in Congress and as Speaker of the House of Representatives, the contingent fund of the House is hereby made available, for as long as he determines there is need therefor, commencing at the expiration of the term of office of the Speaker as a Representative in Congress for payment of the salaries of an Administrative Assistant, who shall be paid at a basicper annum rate of not to exceed the then current rate for step 5 of level 11 of the House Employees Schedule, as determined by the Speaker, a Secretary, who shall be paid at a basic per annum rate of not to exceed the then current rate for step 9 of level 8 of such Schedule, as determined by the Speaker, and an additional Secretary, who shall be paid at a gross per annum rate of not to exceed the then current rate for step 1 of level 6 of such Schedule as determined by the Speaker, designated and appointed by the Speaker to serve as members of his office staff in such period. Each person so designated and appointed shall be held and considered, for the duration of such appointment, as—
 
 &emsp;(1) an “employee” for the purposes of subchapter I of chapter 81 (relating to compensation for work injuries) of title 5, and
 
@@ -12,7 +12,7 @@ In order to provide staff assistance to the Speaker in connection with the admin
 
 &emsp;&emsp;(C) chapter 89 (relating to Federal employees group health insurance) of such title.
 
-(Pub. L. 91–665, ch. VIII, Jan. 8, 1971, 84 Stat. 1989; Pub. L. 93–532, §1(a), Dec. 22, 1974, 88 Stat. 1723; Pub. L. 95–94, title I, §115, Aug. 5, 1977, 91 Stat. 668; Pub. L. 99–151, title I, §102(a), Nov. 13, 1985, 99 Stat. 797.)
+(Pub. L. 91–665, ch. VIII, Jan. 8, 1971, 84 Stat. 1989; Pub. L. 93–532, §1(a), Dec. 22, 1974, 88 Stat. 1723; Pub. L. 95–94, title I, §115, Aug. 5, 1977, 91 Stat. 668; Pub. L. 99–151, title I, §102(a), Nov. 13, 1985, 99 Stat. 797; Pub. L. 104–186, title II, §203(3), Aug. 20, 1996, 110 Stat. 1725.)
 
 #### Codification
 
@@ -24,7 +24,9 @@ As originally enacted into permanent law, section applied to Speaker of House of
 
 #### Amendments
 
-1985—Pub. L. 99–151 substituted “not to exceed the then current rate for step 5 of level 11 of the House Employees Schedule” for “not to exceed $3,000” the first place it appeared, “not to exceed the then current rate for step 9 of level 8 of such Schedule” for “not to exceed $3,000” the second place it appeared, and “not to exceedthe then current rate for step 1 of level 6 of such Schedule” for “not to exceed $9,000”.
+1996—Pub. L. 104–186 substituted “for payment of” for “to enable the Clerk of the House to pay”.
+
+1985—Pub. L. 99–151 substituted “not to exceed the then current rate for step 5 of level 11 of the House Employees Schedule” for “not to exceed $3,000” the first place it appeared, “not to exceed the then current rate for step 9 of level 8 of such Schedule” for “not to exceed $3,000” the second place it appeared, and “not to exceed the then current rate for step 1 of level 6 of such Schedule” for “not to exceed $9,000”.
 
 1977—Pub. L. 95–94 inserted reference to an additional Secretary paid at a gross per annum of not to exceed $9,000 as determined by the Speaker and struck out “as Administrative Assistant or Secretary” after “Each person so designated and appointed”.
 
@@ -35,10 +37,6 @@ Section 2 of H. Res. 1576 provided that amendment is effective on the date of en
 #### Effective Date
 
 Section effective Jan. 8, 1971, see Effective Date note set out under section 31b–1 of this title.
-
-#### Transfer of Functions
-
-Certain functions of Clerk of House of Representatives transferred to Director of Non-legislative and Financial Services by section 7 of House Resolution No. 423, One Hundred Second Congress, Apr. 9, 1992. Director of Non-legislative and Financial Services replaced by Chief Administrative Officer of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
 
 #### Section Referred to in Other Sections
 

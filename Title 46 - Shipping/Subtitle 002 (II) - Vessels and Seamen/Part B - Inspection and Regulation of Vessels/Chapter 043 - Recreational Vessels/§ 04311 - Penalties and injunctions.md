@@ -62,7 +62,7 @@ Section 4311 provides penalties for violating any of the provisions of this chap
 
 A person violating any of the prohibited acts specified in section 4307(a)(1) is subject to a maximum civil penalty that can go as high as a $100,000 for a related series of violations. However, the section provides for no liability for good faith reliance on certifications of compliance by others within the chain of responsibility and for defects that are not within an individual's responsibility or control.
 
-This section also contains an alternate procedure for the collection of a civil penalty of not more than $200 through a U.S. magistrate in lieu of the civil penalty procedures of the Coast Guard. It also directs the district courts of the United States to restrain the sale, offer for sale, introduction or delivery for introduction into interstate commerce, or importation of a recreational vessel or associated equipment that does notconform to applicable safety standards. Finally, compliance with this chapter or standards, regulations, or orders does not relieve a person from liability at common law or under State law.
+This section also contains an alternate procedure for the collection of a civil penalty of not more than $200 through a U.S. magistrate in lieu of the civil penalty procedures of the Coast Guard. It also directs the district courts of the United States to restrain the sale, offer for sale, introduction or delivery for introduction into interstate commerce, or importation of a recreational vessel or associated equipment that does not conform to applicable safety standards. Finally, compliance with this chapter or standards, regulations, or orders does not relieve a person from liability at common law or under State law.
 
 #### Amendments
 

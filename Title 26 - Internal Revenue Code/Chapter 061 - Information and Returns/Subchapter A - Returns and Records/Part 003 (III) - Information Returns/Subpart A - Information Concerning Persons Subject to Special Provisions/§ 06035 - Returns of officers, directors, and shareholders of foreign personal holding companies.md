@@ -66,7 +66,7 @@ Subsecs. (c) to (e). Pub. L. 97–248 added subsecs. (c) to (e).
 
 #### Effective Date of 1982 Amendment
 
-Section 340(c) of Pub. L. 97–248 provided that: “The amendment made by this section \[amending this section and section 6679 of this title\] shall apply to taxableyears of foreign corporations beginning after the date of the enactment of this Act \[Sept. 3, 1982\].”
+Section 340(c) of Pub. L. 97–248 provided that: “The amendment made by this section \[amending this section and section 6679 of this title\] shall apply to taxable years of foreign corporations beginning after the date of the enactment of this Act \[Sept. 3, 1982\].”
 
 #### Cross References
 

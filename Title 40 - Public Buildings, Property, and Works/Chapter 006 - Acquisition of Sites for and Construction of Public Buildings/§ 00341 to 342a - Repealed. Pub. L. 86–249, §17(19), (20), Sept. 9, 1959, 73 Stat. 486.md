@@ -8,5 +8,5 @@ Section 342a, act Dec. 22, 1927, ch. 5, 45 Stat. 32, related to manner of paymen
 
 #### Savings Provision
 
-Section 17 of Pub. L. 86–249 provided in part that sections 23, 24, 32, 33, 59, 254, 259, 260, 262 to 265, 267, 268, 274 to 276, 277, 278, 282, 297 to 298, 298c, 341 to 342a, 344, 345, 346 to 350a, and 352 to 354 of this title are repealed except as to their application to any project referred to in section 613 of this title.
+Section 17 of Pub. L. 86–249 provided in part that sections 23, 24, 32, 33, 59, 254, 259, 260, 262 to 265, 267, 268, 274to 276, 277, 278, 282, 297 to 298, 298c, 341 to 342a, 344, 345, 346 to 350a, and 352 to 354 of this title are repealed except as to their application to any project referred to in section 613 of this title.
 

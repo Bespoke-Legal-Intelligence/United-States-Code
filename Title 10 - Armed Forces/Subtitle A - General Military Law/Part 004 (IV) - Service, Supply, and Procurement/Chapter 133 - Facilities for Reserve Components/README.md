@@ -10,8 +10,6 @@
 
 A prior chapter 133 was transferred to end of part V of subtitle E of this title and renumbered chapter 1803.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “Under Secretary of Defense (Comptroller)”.</i>
-
 
 ---
 

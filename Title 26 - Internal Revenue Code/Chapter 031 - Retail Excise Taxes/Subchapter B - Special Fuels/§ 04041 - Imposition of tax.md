@@ -46,9 +46,11 @@
 
 &emsp;&emsp;In the case of any sale for use, or use, of fuel in a diesel-powered motorboat—
 
-&emsp;&emsp;&emsp;(i) effective during the period after September 30, 1999, and before January 1, 2000, the rate of tax imposed by this paragraph is 24.3 cents per gallon, and
+&emsp;&emsp;&emsp;(i) no tax shall be imposed by subsection (a) or (d)(1) during the period beginning on the date which is 7 days after the date of the enactment of the Small Business Job Protection Act of 1996 and ending on December 31, 1997,
 
-&emsp;&emsp;&emsp;(ii) the termination of the tax under subsection (d) shall not occur before January 1, 2000.
+&emsp;&emsp;&emsp;(ii) effective during the period after September 30, 1999, and before January 1, 2000, the rate of tax imposed by this paragraph is 24.3 cents per gallon, and
+
+&emsp;&emsp;&emsp;(iii) the termination of the tax under subsection (d) shall not occur before January 1, 2000.
 
 #### (2) Special motor fuels
 
@@ -126,33 +128,19 @@
 
 > &emsp;The rate of the tax imposed by this paragraph shall be the rate of tax specified in section 4091(b)(1) which is in effect at the time of such sale or use. No tax shall be imposed by this paragraph on the sale or use of any liquid if there was a taxable sale of such liquid under section 4091.
 
-#### (2) Gasoline
-
-&emsp;There is hereby imposed a tax (at the rate specified in paragraph (3)) upon gasoline (as defined in section 4083)—
-
-&emsp;&emsp;(A) sold by any person to an owner, lessee, or other operator of an aircraft, for use as a fuel in such aircraft in noncommercial aviation; or
-
-&emsp;&emsp;(B) used by any person as a fuel in an aircraft in noncommercial aviation, unless there was a taxable sale of such product under subparagraph (A).
-
-> &emsp;The tax imposed by this paragraph shall be in addition to any tax imposed under section 4081.
-
-#### (3) Rate of tax
-
-&emsp;The rate of tax imposed by paragraph (2) on any gasoline is 1 cent per gallon.
-
-#### (4) Definition of noncommercial aviation
+#### (2) Definition of noncommercial aviation
 
 &emsp;For purposes of this chapter, the term “noncommercial aviation” means any use of an aircraft, other than use in a business of transporting persons or property for compensation or hire by air. The term also includes any use of an aircraft, in a business described in the preceding sentence, which is properly allocable to any transportation exempt from the taxes imposed by sections 4261 and 4271 by reason of section 4281 or 4282.
 
-#### (5) Termination
+#### (3) Termination
 
-&emsp;The taxes imposed by paragraphs (1) and (2) shall apply during the period beginning on September 1, 1982, and ending on December 31, 1995. The termination under the preceding sentence shall not apply to so much of the tax imposed by paragraph (1) as does not exceed 4.3 cents per gallon.
+&emsp;The taxes imposed by paragraph (1) shall apply during the period beginning on September 1, 1982, and ending on December 31, 1995, and during the period beginning on the date which is 7 calendar days after the date of the enactment of the Small Business Job Protection Act of 1996 and ending on December 31, 1996. The termination under the preceding sentence shall not apply to so much of the tax imposed by paragraph (1) as does not exceed 4.3 cents per gallon.
 
 #### (d) Additional taxes to fund Leaking Underground Storage Tank Trust Fund
 
 #### (1) Tax on sales and uses subject to tax under subsection (a)
 
-&emsp;In addition to the taxes imposed by subsection (a), there is hereby imposed a tax of 0.1cent a gallon on the sale or use of any liquid (other than liquefied petroleum gas) if tax is imposed by subsection (a)(1) or (2) on such sale or use.
+&emsp;In addition to the taxes imposed by subsection (a), there is hereby imposed a tax of 0.1 cent a gallon on the sale or use of any liquid (other than liquefied petroleum gas) if tax is imposed by subsection (a)(1) or (2) on such sale or use.
 
 #### (2) Liquids used in aviation
 
@@ -226,15 +214,13 @@ The taxes imposed by this section shall apply with respect to liquids sold at re
 
 &emsp;Under regulations prescribed by the Secretary, in the case of the sale or use of any liquid at least 10 percent of which consists of alcohol (as defined in section 4081(c)(3))—
 
-&emsp;&emsp;(A) the rates under paragraphs (1) and (2) of subsection (a) shall be the comparable rates under section 4081(c),
+&emsp;&emsp;(A) the rates under paragraphs (1) and (2) of subsection (a) shall be the comparable rates under section 4081(c), and
 
-&emsp;&emsp;(B) the rate of the tax imposed by subsection (c)(1) shall be the comparable rate under section 4091(c), and
-
-&emsp;&emsp;(C) no tax shall be imposed by subsection (c)(2).
+&emsp;&emsp;(B) the rate of the tax imposed by subsection (c)(1) shall be the comparable rate under section 4091(c).
 
 #### (2) Later separation
 
-&emsp;If any person separates the liquid fuel from a mixture of the liquid fuel and alcohol to which paragraph (1) applied, such separation shall be treated as a sale of the liquid fuel. Any tax imposed on such sale shall be reducedby the amount (if any) of the tax imposed on the sale of such mixture.
+&emsp;If any person separates the liquid fuel from a mixture of the liquid fuel and alcohol to which paragraph (1) applied, such separation shall be treated as a sale of the liquid fuel. Any tax imposed on such sale shall be reduced by the amount (if any) of the tax imposed on the sale of such mixture.
 
 #### (3) Termination
 
@@ -262,9 +248,41 @@ No tax shall be imposed under this section on any liquid sold for use in, or use
 
 &emsp;The term “partially exempt methanol or ethanol fuel” means any liquid at least 85 percent of which consists of methanol, ethanol, or other alcohol produced from natural gas.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 478; Mar. 30, 1955, ch. 18, §3(a)(1), 69 Stat. 14; Mar. 29, 1956, ch. 115, §3(a)(1), 70 Stat. 66; Apr. 2, 1956, ch. 160, §2(a)(1), 70 Stat. 89; June 29, 1956, ch. 462, title II, §202, 70 Stat. 387; Sept. 2, 1958, Pub. L. 85–859, title I, §119(b)(1), 72 Stat. 1286; Sept. 21, 1959, Pub. L. 86–342, title II, §201(b), 73 Stat. 613; June 29, 1961, Pub. L. 87–61, title II, §201(a), (c), (d), 75 Stat. 123, 124; June 21, 1965, Pub. L. 89–44, title VIII, §802(a)(2), 79 Stat. 159; May 21, 1970, Pub. L. 91–258, title II, §202, 84 Stat. 237; Dec. 31, 1970, Pub. L. 91–605, title III, §303(a)(1), (2), 84 Stat. 1743; May 5, 1976, Pub. L. 94–280, title III, §303(a)(1), (2), 90 Stat. 456; Oct. 4, 1976, Pub. L. 94–455, title XIX, §§1904(a)(1)(B), (C), 1906(b)(13)(A), 90 Stat. 1810, 1811, 1834; Oct. 17, 1976, Pub. L. 94–530, §1(a), 90 Stat. 2487; Nov. 6, 1978, Pub. L. 95–599, title V, §502(a)(1), (b), 92 Stat. 2756, 2757; Nov. 6, 1978, Pub. L. 95–600, title VII, §703(<i>l</i>)(1), (2), 92 Stat. 2942; Nov. 9, 1978, Pub. L. 95–618, title II, §§221(b)(1), 222(a)(2), 233(a)(3)(B), 92 Stat. 3185, 3187, 3191; Apr. 2, 1980, Pub. L. 96–223, title II, §232(a)(2), 94 Stat. 273; July 1, 1980, Pub. L. 96–298, §1(a), 94 Stat. 829; Sept. 3, 1982, Pub. L. 97–248, title II, §279(a), (b)(1), 96 Stat. 563; Jan. 6, 1983, Pub. L. 97–424, title V, §§511(a)(2), (b)(1), (c)(2), (d)(2), (g)(1), 516(a)(1), (b)(1), 96 Stat. 2169–2171, 2173, 2182, 2183; July 18, 1984, Pub. L. 98–369, div. A, title IX, §§911(a), 912(a), 913(a), title X, §1018(a), 98 Stat. 1005, 1007, 1008, 1021; Oct. 17, 1986, Pub. L. 99–499, title V, §521(a)(2), (d)(1)–(3), 100 Stat. 1776, 1779; Oct. 22, 1986, Pub. L. 99–514, title IV, §422(a)(1), (2), title XVII, §1702(a), title XVIII, §1878(c)(1), 100 Stat. 2229, 2773, 2903; Apr. 2, 1987, Pub. L. 100–17, title V, §502(a)(1), (b)(1)–(3), (c)(1), 101 Stat. 256, 257; Dec. 22, 1987, Pub. L. 100–203, title X, §10502(b), 101 Stat. 1330–441; Dec. 30, 1987, Pub. L. 100–223, title IV, §§402(b), 404(b), 405(b)(3), 101 Stat. 1532, 1533, 1535; Nov. 10, 1988, Pub. L. 100–647, title I, §1017(c)(3), (4), title II, §2001(d)(2), (3)(A)–(D), 102 Stat. 3576, 3595; Nov. 5, 1990, Pub. L. 101–508, title XI, §§11211(a)(4), (b)(3), (6)(C)–(E)(i), (F), (d)(1), (2), (e)(1), (2), 11213(b)(2)(A), (B), (d)(2)(B), (e)(3), 104 Stat. 1388–423, 1388–425 to 1388–427, 1388–433, 1388–436; Dec. 18, 1991, Pub. L. 102–240, title VIII, §8002(b)(1), (2), 105 Stat. 2203; Aug. 10, 1993, Pub. L. 103–66, title XIII, §§13163(a)(2), 13241(b)(2)(A), (B)(iii), (c), (e), (f)(1), (2), 13242(d)(3)–(13), 107 Stat. 453, 510, 511, 522–524.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 478; Mar. 30, 1955, ch. 18, §3(a)(1), 69 Stat. 14; Mar. 29, 1956, ch. 115, §3(a)(1), 70 Stat. 66; Apr. 2, 1956, ch. 160, §2(a)(1), 70 Stat. 89; June 29, 1956, ch. 462, title II, §202, 70 Stat. 387; Sept. 2, 1958, Pub. L. 85–859, title I, §119(b)(1), 72 Stat. 1286; Sept. 21, 1959, Pub. L. 86–342, title II, §201(b), 73 Stat. 613; June 29, 1961, Pub. L. 87–61, title II, §201(a), (c), (d), 75 Stat. 123, 124; June 21, 1965, Pub. L. 89–44, title VIII, §802(a)(2), 79 Stat. 159; May 21, 1970, Pub. L. 91–258, title II, §202, 84 Stat. 237; Dec. 31, 1970, Pub. L. 91–605, title III, §303(a)(1), (2), 84 Stat. 1743; May 5, 1976, Pub. L. 94–280, title III, §303(a)(1), (2), 90 Stat. 456; Oct. 4, 1976, Pub. L. 94–455, title XIX, §§1904(a)(1)(B), (C), 1906(b)(13)(A), 90 Stat. 1810, 1811, 1834; Oct. 17, 1976, Pub. L. 94–530, §1(a), 90 Stat. 2487; Nov. 6, 1978, Pub. L. 95–599, title V, §502(a)(1), (b), 92 Stat. 2756, 2757; Nov. 6, 1978, Pub. L. 95–600, title VII, §703(<i>l</i>)(1), (2), 92 Stat. 2942; Nov. 9, 1978, Pub. L. 95–618, title II, §§221(b)(1), 222(a)(2), 233(a)(3)(B), 92 Stat. 3185, 3187, 3191; Apr. 2, 1980, Pub. L. 96–223, title II, §232(a)(2), 94 Stat. 273; July 1, 1980, Pub. L. 96–298, §1(a), 94 Stat. 829; Sept. 3, 1982, Pub. L. 97–248, title II, §279(a), (b)(1), 96 Stat. 563; Jan. 6, 1983, Pub. L. 97–424, title V, §§511(a)(2), (b)(1), (c)(2), (d)(2), (g)(1), 516(a)(1), (b)(1), 96 Stat. 2169–2171, 2173, 2182, 2183; July 18, 1984, Pub. L. 98–369, div. A, title IX, §§911(a), 912(a), 913(a), title X, §1018(a), 98 Stat. 1005, 1007, 1008, 1021; Oct. 17, 1986, Pub. L. 99–499, title V, §521(a)(2), (d)(1)–(3), 100 Stat. 1776, 1779; Oct. 22, 1986, Pub. L. 99–514, title IV, §422(a)(1), (2), title XVII, §1702(a), title XVIII, §1878(c)(1), 100 Stat. 2229, 2773, 2903; Apr. 2, 1987, Pub. L. 100–17, title V, §502(a)(1), (b)(1)–(3), (c)(1), 101 Stat. 256, 257; Dec. 22, 1987, Pub. L. 100–203, title X, §10502(b), 101 Stat. 1330–441; Dec. 30, 1987, Pub. L. 100–223, title IV, §§402(b), 404(b), 405(b)(3), 101 Stat. 1532, 1533, 1535; Nov. 10, 1988, Pub. L. 100–647, title I, §1017(c)(3), (4), title II, §2001(d)(2), (3)(A)–(D), 102 Stat. 3576, 3595; Nov. 5, 1990, Pub. L. 101–508, title XI, §§11211(a)(4), (b)(3), (6)(C)–(E)(i), (F), (d)(1), (2), (e)(1), (2), 11213(b)(2)(A), (B), (d)(2)(B), (e)(3), 104 Stat. 1388–423, 1388–425 to 1388–427, 1388–433, 1388–436; Dec. 18, 1991, Pub. L. 102–240, title VIII, §8002(b)(1), (2), 105 Stat. 2203; Aug. 10, 1993, Pub. L. 103–66, title XIII, §§13163(a)(2), 13241(b)(2)(A), (B)(iii), (c), (e), (f)(1), (2), 13242(d)(3)–(13), 107 Stat. 453, 510, 511, 522–524; Aug. 20, 1996, Pub. L. 104–188, title I, §§1208, 1609(a)(3), (g)(3), (4)(A), 110 Stat. 1776, 1841–1843.)
+
+#### References in Text
+
+The date of the enactment of the Small Business Job Protection Act of 1996, referred to in subsecs. (a)(1)(D)(i) and (c)(3), is the date of enactment of Pub. L. 104–188, which was approved Aug. 20, 1996.
 
 #### Amendments
+
+1996—Subsec. (a)(1)(D). Pub. L. 104–188, §1208, added cl. (i) and redesignated former cls. (i) and (ii) as (ii) and (iii), respectively.
+
+Subsec. (c)(2). Pub. L. 104–188, §1609(g)(3)(A), redesignated par. (4) as (2) and struck out former par. (2) which read as follows:
+
+“(2)
+
+Gasoline.—There is hereby imposed a tax (at the rate specified in paragraph (3)) upon gasoline (as defined in section 4083)—
+
+&emsp;“(A) sold by any person to an owner, lessee, or other operator of an aircraft, for use as a fuel in such aircraft in noncommercial aviation; or
+
+&emsp;“(B) used by any person as a fuel in an aircraft in noncommercial aviation, unless there was a taxable sale of such product under subparagraph (A).
+
+> The tax imposed by this paragraph shall be in addition to any tax imposed under section 4081.”
+
+Subsec. (c)(3). Pub. L. 104–188, §1609(g)(3), redesignated par. (5) as (3) and substituted “paragraph (1)” for “paragraphs (1) and (2)”, and struck out former par. (3) which read as follows:
+
+“(3)
+
+Rate of tax.—The rate of tax imposed by paragraph (2) on any gasoline is 1 cent per gallon.”
+
+Subsec. (c)(4). Pub. L. 104–188, §1609(g)(3)(A), redesignated par. (4) as (2).
+
+Subsec. (c)(5). Pub. L. 104–188, §1609(g)(3)(A), redesignated par. (5) as (3).
+
+Pub. L. 104–188, §1609(a)(3), inserted “, and during the period beginning on the date which is 7 calendar days after the date of the enactment of the Small Business Job Protection Act of 1996 and ending on December 31, 1996” after “December 31, 1995”.
+
+Subsec. (k)(1)(A) to (C). Pub. L. 104–188, §1609(g)(4)(A), inserted “and” at end of subpar. (A), substituted period for “, and” at end of subpar. (B), and struck out subpar. (C) which read as follows: “no tax shall be imposed by subsection (c)(2).”
 
 1993—Subsec. (a)(1). Pub. L. 103–66, §13242(d)(3), amended heading and text of par. (1) generally. Prior to amendment, text read as follows: “There is hereby imposed a tax on any liquid (other than any product taxable under section 4081)—
 
@@ -280,7 +298,7 @@ Subsec. (a)(2). Pub. L. 103–66, §13242(d)(4), in introductory provisions, str
 
 Subsec. (a)(3). Pub. L. 103–66, §13241(e)(1), added par. (3).
 
-Subsec. (b)(1)(B). Pub. L. 103–66, §13242(d)(5)(A), substituted “paragraph (1)(B), (2)(B), or (3)(A)(ii)” for “paragraph (1)(B) or (2)(B)” and inserted before period at end “(if any)”.
+Subsec. (b)(1)(B). Pub. L. 103–66, §13242(d)(5)(A), substituted “paragraph (1)(B), (2)(B), or (3)(A)(ii)” for“paragraph (1)(B) or (2)(B)” and inserted before period at end “(if any)”.
 
 Subsec. (b)(1)(C). Pub. L. 103–66, §13242(d)(5)(B), inserted before period at end “; except that such term shall not, for purposes of subsection (a)(1), include use in a diesel-powered train”.
 
@@ -288,7 +306,7 @@ Subsec. (b)(2)(A)(i). Pub. L. 103–66, §13242(d)(5)(C), struck out “Highway 
 
 Subsec. (c)(1). Pub. L. 103–66, §13242(d)(6), substituted “The rate of the tax imposed by this paragraph shall be the rate of tax specified in section 4091(b)(1) which is in effect at the time of such sale or use.” for “The rate of the tax imposed by this paragraph shall be the sum of the Airport and Airway Trust Fund financing rate and the aviation fuel deficit reduction rate in effect under section 4091 at the time of such sale or use.” in concluding provisions.
 
-Pub. L. 103–66, §13241(b)(2)(B)(iii), struck out “of 17.5 cents per gallon” before “upon any liquid” in introductory provisions and inserted “The rate of the tax imposed by this paragraph shall be the sum of the Airport and Airway Trust Fund financing rate and the aviationfuel deficit reduction rate in effect under section 4091 at the time of such sale or use.” before last sentence in concluding provisions.
+Pub. L. 103–66, §13241(b)(2)(B)(iii), struck out “of 17.5 cents per gallon” before “upon any liquid” in introductory provisions and inserted “The rate of the tax imposed by this paragraph shall be the sum of the Airport and Airway Trust Fund financing rate and the aviation fuel deficit reduction rate in effect under section 4091 at the time of such sale or use.” before last sentence in concluding provisions.
 
 Subsec. (c)(2). Pub. L. 103–66, §13242(d)(7), substituted “gasoline (as defined in section 4083)” for “any product taxable under section 4081”.
 
@@ -376,7 +394,7 @@ Subsec. (c)(3). Pub. L. 100–647, §2001(d)(2), substituted “the Highway Trus
 
 Subsec. (f)(3). Pub. L. 100–647, §1017(c)(4), amended par. (3) generally, substituting “paragraph (1) shall not apply on and after October 1, 1993” for “on and after October 1, 1993, paragraph (1) shall not apply”.
 
-1987—Subsec. (a)(1). Pub. L. 100–203, §10502(b)(1), in heading substituted “Tax on diesel fuel where no tax imposed on fuel under section 4091” for “Diesel fuel”and in text inserted sentence at end that no tax be imposed by this paragraph on the sale or use of any liquid if there was a taxable sale of such liquid under section 4091.
+1987—Subsec. (a)(1). Pub. L. 100–203, §10502(b)(1), in heading substituted “Tax on diesel fuel where no tax imposed on fuel under section 4091” for “Diesel fuel” and in text inserted sentence at end that no tax be imposed by this paragraph on the sale or use of any liquid if there was a taxable sale of such liquid under section 4091.
 
 Subsec. (a)(3). Pub. L. 100–17, §502(a)(1), substituted “1993” for “1988”.
 
@@ -462,9 +480,9 @@ Subsec. (g). Pub. L. 97–424, §516(b)(1)(B), inserted provision that pars. (2)
 
 Subsec. (k). Pub. L. 97–424, §511(d)(2), in par. (1) substituted provisions for a 4-cent tax on the sale or use of any liquid fuel at least 10 percent of which consists of alcohol for provisions that no tax be imposed by this section on the sale or use of such fuel, and in par. (2) substituted “to which paragraph (1) applied” for “on which tax was not imposed by reason of this subsection” after “alcohol” and inserted provision that any tax imposed on such sale shall be reduced by the amount (if any) of the tax imposed on the sale of such mixture.
 
-1982—Subsec. (c). Pub. L. 97–248, §279(a), in par. (1) substituted “14 cents” for “7 cents”, in par. (3) substituted “8 cents a gallon (101/2 cents a gallon in the case of any gasoline with respect to which a tax is imposed under section 4081 at the rate set forth in subsection (b) thereof)” for “3 cents a gallon”, and in par. (5) substituted provisions that the taxes imposed by pars. (1) and (2) shall apply during the period beginningon Sept. 1, 1982, and ending on Dec. 31, 1987, for provisions that on and after Oct. 1, 1980, the taxes imposed by pars. (1) and (2) would not apply.
+1982—Subsec. (c). Pub. L. 97–248, §279(a), in par. (1) substituted “14 cents” for “7 cents”, in par. (3) substituted “8 cents a gallon (101/2 cents a gallon in the case of any gasoline with respect to which a tax is imposed under section 4081 at the rate set forth in subsection (b) thereof)” for “3 cents a gallon”, and in par. (5) substituted provisions that the taxes imposed by pars. (1) and (2) shall apply during the period beginning on Sept. 1, 1982, and ending on Dec. 31, 1987, for provisions that on and after Oct. 1, 1980, the taxes imposed by pars. (1) and (2) would not apply.
 
-Subsec. (<i>l</i>). Pub. L. 97–248, §279(b)(1), added subsec. (<i>l).</i>
+Subsec. (<i>l</i>). Pub. L. 97–248, §279(b)(1), added subsec. (<i>l</i>).
 
 1980—Subsec. (c)(5). Pub. L. 96–298 extended termination date to “October 1, 1980” from “July 1, 1980”.
 
@@ -544,6 +562,10 @@ Subsec. (d). Act Apr. 2, 1956, added subsec. (d).
 
 1955—Subsec. (c). Act Mar. 30, 1955, substituted “April 1, 1956” for “April 1, 1955”.
 
+#### Effective Date of 1996 Amendment
+
+Section 1609(i) of Pub. L. 104–188 provided that: “The amendments made by this section \[amending this section and sections 4081, 4091, 4261, 4271, 4282, 6421, and 9502 of this title\] shall take effect on the 7th calendar day after the date of the enactment of this Act \[Aug. 20, 1996\], except that the amendments made by subsection (b) \[amending sections 4261 and 4271 of this title\] shall not apply to any amount paid before such date.”
+
 #### Effective Date of 1993 Amendment
 
 Section 13163(d) of Pub. L. 103–66 provided that: “The amendments made by this section \[amending this section and sections 4092, 6421, and 9508 of this title\] shall take effect on January 1, 1994.”
@@ -554,7 +576,7 @@ Section 13242(e) of Pub. L. 103–66 provided that: “The amendments made by th
 
 #### Effective Date of 1990 Amendment
 
-Section 11211(a)(6) of Pub. L. 101–508 provided that: “Except as otherwise provided in this subsection, theamendments made by this subsection \[amending this section and sections 4081 and 9503 of this title\] shall apply to gasoline removed (as defined in \[former\] section 4082 of the Internal Revenue Code of 1986) after November 30, 1990.”
+Section 11211(a)(6) of Pub. L. 101–508 provided that: “Except as otherwise provided in this subsection, the amendments made by this subsection \[amending this section and sections 4081 and 9503 of this title\] shall apply to gasoline removed (as defined in \[former\] section 4082 of the Internal Revenue Code of 1986) after November 30, 1990.”
 
 Section 11211(b)(7) of Pub. L. 101–508 provided that: “The amendments made by this subsection \[amending this section and sections 4091, 4093, 6427, 9502, and 9503 of this title\] shall take effect on December 1, 1990.”
 
@@ -626,7 +648,7 @@ Section 221(b)(2) of Pub. L. 95–618, as amended by Pub. L. 96–223, title II,
 
 Section 222(b) of Pub. L. 95–618 provided that: “The amendments made by subsection (a) \[amending this section and sections 6421 and 6424 of this title\] shall apply with respect to uses after December 31, 1978.”
 
-Amendment by section 233(a)(3)(B) of Pub. L. 95–618 effective on first day of first calendar month which begins more than 10 days after Nov. 9, 1978, see section 233(d) of Pub. L. 95–618, set out as a note under section 34 of this title.
+Amendment by section 233(a)(3)(B) of Pub. L. 95–618 effective on first day of first calendar month which begins more than 10 days after Nov. 9, 1978, see section233(d) of Pub. L. 95–618, set out as a note under section 34 of this title.
 
 Amendment by Pub. L. 95–600 effective Oct. 4, 1976, see section 703(r) of Pub. L. 95–600, set out as a note under section 46 of this title.
 
@@ -646,7 +668,7 @@ General Rule.—Except as provided in subsection (b), the amendments made by thi
 
 “(b)
 
-Exceptions.—The amendments made by sections 203 \[enacting section 7275 and amending sections 4261and 4262 of this title\] and 204 \[enacting sections 4271 and 4272 of this title\] shall apply to transportation beginning after June 30, 1970. The amendments made by subsections (a), (b), and (c) of section 207 \[enacting section 6427 and amending sections 39, 6420, 6421, and 6424\] shall apply with respect to taxable years ending after June 30, 1970.”
+Exceptions.—The amendments made by sections 203 \[enacting section 7275 and amending sections 4261 and 4262 of this title\] and 204 \[enacting sections 4271 and 4272 of this title\] shall apply to transportation beginning after June 30, 1970. The amendments made by subsections (a), (b), and (c) of section 207 \[enacting section 6427 and amending sections 39, 6420, 6421, and 6424\] shall apply with respect to taxable years ending after June 30, 1970.”
 
 #### Effective Date of 1965 Amendment
 
@@ -712,7 +734,7 @@ Section 221(c) of Pub. L. 95–618, as amended by Pub. L. 96–223, §232(g), Ap
 
 &emsp;“(2) the amount of alcohol fuel sold in each State, and the amount of gasoline saved in each State by reason of the use of alcohol fuels,
 
-&emsp;“(3) the revenue loss resulting from the exemptions from tax for alcohol fuels under sections 4041(k) and 4081(c) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] and the credit allowable under section 44E\[now 40\] of such Code and the impact of such revenue loss on the Highway Trust Fund, and
+&emsp;“(3) the revenue loss resulting from the exemptions from tax for alcohol fuels under sections 4041(k) and 4081(c) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] and the credit allowable under section 44E \[now 40\] of such Code and the impact of such revenue loss on the Highway Trust Fund, and
 
 &emsp;“(4) the cost of production and the retail cost of alcohol fuels as compared to gasoline and special fuels not mixed with alcohol.”
 

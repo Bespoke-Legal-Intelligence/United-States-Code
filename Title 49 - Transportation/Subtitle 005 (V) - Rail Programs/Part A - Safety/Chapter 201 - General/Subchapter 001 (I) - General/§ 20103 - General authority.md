@@ -28,7 +28,9 @@ Tourist Railroad Carriers.—In prescribing regulations that pertain to railroad
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -74,7 +76,7 @@ In subsection (d), the words “after hearing in accordance with subsection (b) 
 
 Section 4(t) of Pub. L. 103–272 provided that:
 
-“(1) Not later than March 3, 1995, the Secretary of Transportation shall complete a regulatory proceeding to consider prescribing regulations to improve the safety and working conditions of locomotive cabs. The proceeding shall assess—
+“(1) Not later than March 3, 1995, the Secretary of Transportation shall complete a regulatory proceedingto consider prescribing regulations to improve the safety and working conditions of locomotive cabs. The proceeding shall assess—
 
 &emsp;“(A) the adequacy of Locomotive Crashworthiness Requirements Standard S–580, or any successor standard, adopted by the Association of American Railroads in 1989 in improving the safety of locomotive cabs; and
 

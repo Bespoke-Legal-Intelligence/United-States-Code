@@ -17,7 +17,7 @@ Subpart A—Original Issue Discount
 
 #### Subpart Referred to in Other Sections
 
-This subpart is referred to in sections 133, 312, 1037, 1278 of this title.
+This subpart is referred to in sections 312, 1037, 1278 of this title.
 
 
 ---

@@ -42,7 +42,7 @@ The general purpose of the Center is the conduct and support of research and res
 
 &emsp;(B) make recommendations for the coordination of such research conducted or supported by the National Institutes of Health and other agencies of the Federal Government.
 
-(3)(A) Not later than 18 months after the date of the enactment of the National Institutes of Health Revitalization Amendments of 1990, the Director of the Institute shall transmit the Research Plan to the Director of NIH, who shallsubmit the Plan to the President and the Congress.
+(3)(A) Not later than 18 months after the date of the enactment of the National Institutes of Health Revitalization Amendments of 1990, the Director of the Institute shall transmit the Research Plan to the Director of NIH, who shall submit the Plan to the President and the Congress.
 
 (B) Subparagraph (A) shall be carried out independently of the process of reporting that is required in sections 283 and 284b of this title.
 
@@ -126,7 +126,7 @@ Definition of medical rehabilitation.—For purposes of this subsection, the ter
 
 #### Termination of Advisory Boards
 
-Advisory boards established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a board established by the Presidentor an officer of the Federal Government, such board is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a board established by Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory boards established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a board established by the President or an officer of the Federal Government, such board is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a board established by Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
 Pub. L. 93–641, §6, Jan. 4, 1975, 88 Stat. 2275, set out as a note under section 217a of this title, provided that an advisory committee established pursuant to the Public Health Service Act shall terminate at such time as may be specifically prescribed by an Act of Congress enacted after Jan. 4, 1975.
 

@@ -64,7 +64,7 @@ In the case of insurance proceeds received as a result of destruction or damage 
 
 &emsp;&emsp;(A) the net amount withdrawn by such individual from such deposit during such calendar year, and
 
-&emsp;&emsp;(B) the amount of such deposit which is withdrawable as of the close of the taxableyear (determined without regard to any penalty for premature withdrawals of a time deposit).
+&emsp;&emsp;(B) the amount of such deposit which is withdrawable as of the close of the taxable year (determined without regard to any penalty for premature withdrawals of a time deposit).
 
 #### (2) Interest tested each year
 
@@ -84,7 +84,7 @@ In the case of insurance proceeds received as a result of destruction or damage 
 
 #### (5) Other definitions
 
-&emsp;For purposes of this subsection, the terms “qualified individual”, “qualified financial institution”, and “deposit” have the same respective meanings as when used in section 165(<i>l).</i>
+&emsp;For purposes of this subsection, the terms “qualified individual”, “qualified financial institution”, and “deposit” have the same respective meanings as when used in section 165(<i>l</i>).
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 152; July 30, 1965, Pub. L. 89–97, title III, §313(b), 79 Stat. 382; Dec. 30, 1969, Pub. L. 91–172, title II, §215(a), 83 Stat. 573; Oct. 4, 1976, Pub. L. 94–455, title XIX, §1906(b)(13)(A), title XXI, §§2102(a), (b), 2141(a), 90 Stat. 1834, 1900, 1933; Oct. 22, 1986, Pub. L. 99–514, title VIII, §821(a), title IX, §905(b), 100 Stat. 2372, 2386; Nov. 10, 1988, Pub. L. 100–647, title I, §1009(d)(3), title VI, §§6030(a), 6033(a), 102 Stat. 3450, 3694, 3695.)
 
@@ -154,7 +154,7 @@ In general.—The amendment made by subsection (a) \[amending section 165 of thi
 
 Special rules for subsection (b).—
 
-&emsp;“(A) The amendment made by subsection (b) \[amending this section\] shall apply to taxable yearsbeginning after December 31, 1982, and before January 1, 1987, only if the qualified individual elects to have such amendment apply for all such taxable years.
+&emsp;“(A) The amendment made by subsection (b) \[amending this section\] shall apply to taxable years beginning after December 31, 1982, and before January 1, 1987, only if the qualified individual elects to have such amendment apply for all such taxable years.
 
 &emsp;“(B) In the case of interest attributable to the period beginning January 1, 1983, and ending December 31, 1987, the interest deduction of financial institutions shall be determined without regard to paragraph (3) of section 451(f) of the Internal Revenue Code of 1986 (as added by subsection (b)).”
 
@@ -294,7 +294,7 @@ Special rules.—
 
 &emsp;&emsp;“(A)
 
-Time of completion.—Any contract of a taxpayer which would (but for this paragraph) be treated as having been completed prior to the first taxable year of such taxpayer ending after December 31, 1982, solely by reason of any modification to regulations made under subsection (a)(1), shall betreated as having been completed on the first day of such taxable year.
+Time of completion.—Any contract of a taxpayer which would (but for this paragraph) be treated as having been completed prior to the first taxable year of such taxpayer ending after December 31, 1982, solely by reason of any modification to regulations made under subsection (a)(1), shall be treated as having been completed on the first day of such taxable year.
 
 &emsp;&emsp;“(B)
 

@@ -21,7 +21,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 2170, 2405, 2410 of the Appendix to this title; title 12 sections 3409, 3413, 4407; title 19 section 2581; title 22 section 6004; title 26 section 911; title 30 section 185.
+This chapter is referred to in section 2332 of this title; sections 2170, 2405, 2410 of the Appendix to this title; title 12 sections 3409, 3413, 4407; title 19 section 2581; title 22 section 6004; title 26 section 911; title 30 section 185.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

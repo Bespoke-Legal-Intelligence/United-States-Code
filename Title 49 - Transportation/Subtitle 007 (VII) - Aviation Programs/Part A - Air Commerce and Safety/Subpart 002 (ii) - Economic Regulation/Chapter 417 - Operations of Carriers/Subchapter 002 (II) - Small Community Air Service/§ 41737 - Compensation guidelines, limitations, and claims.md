@@ -34,7 +34,9 @@ Authority To Make Agreements and Incur Obligations.—(1) The Secretary may make
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -56,7 +58,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §419(e)(2)–(g); added Oct. 24,
 
 41737(d)
 
-49 App.:1389(<i>l).</i>
+49 App.:1389(<i>l</i>).
 
 Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §419(<i>l</i>); added Nov. 5, 1990, Pub. L. 101–508, §9113(b)(1), 104 Stat. 1388–363.
 
@@ -70,5 +72,5 @@ In subsection (d)(2), the reference to fiscal year 1992 is omitted as obsolete.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 40109, 41110, 41733, 46301 of this title.
+This section is referred to in sections 41110, 41733 of this title.
 

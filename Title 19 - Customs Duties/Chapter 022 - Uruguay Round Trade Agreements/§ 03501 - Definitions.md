@@ -66,5 +66,5 @@ The Uruguay Round Agreements, including the World Trade Organization Agreement a
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1671, 1677, 1677k, 2252, 2571, 2578b, 2702, 2905, 2906, 3107, 3111, 3202, 3535, 3591 of this title; title 7 section 624; title 15 section 1052; title 17 section 104A; title 35 section 104.
+This section is referred to in sections 1671, 1677, 1677k, 2252, 2462, 2571, 2578b, 2702, 2905, 2906, 3107, 3111, 3202, 3535 of this title; title 7 section 624; title 15 section 1052; title 17 section 104A; title 35 section 104.
 

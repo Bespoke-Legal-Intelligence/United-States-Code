@@ -10,7 +10,7 @@
 
 (b) There are authorized to be appropriated to the Secretary to carry out this chapter, not more than $1,500,000 for each of fiscal years 1991 through 1995.
 
-(Pub. L. 101–537, title I, §1009, Nov. 8, 1990, 104 Stat. 2374; Pub. L. 101–646, title II, §2009, Nov. 29, 1990, 104 Stat. 4778.)
+(Pub. L. 101–537, title I, §1009, Nov. 8, 1990, 104 Stat. 2374; Pub. L. 101–646, title II, §2009, Nov. 29, 1990, 104 Stat. 4778; Pub. L. 104–332, §2(h)(1), (2), Oct. 26, 1996, 110 Stat. 4091.)
 
 #### References in Text
 
@@ -19,4 +19,8 @@ This chapter, referred to in subsec. (b), was in the original “this Act”, wh
 #### Codification
 
 Pub. L. 101–537 and Pub. L. 101–646 enacted substantially identical provisions of subsec. (a), but Pub. L. 101–537 did not enact a subsec. (b).
+
+#### Amendments
+
+1996—Pub. L. 104–332 made technical amendment to Pub. L. 101–646, §2009, which enacted this section.
 

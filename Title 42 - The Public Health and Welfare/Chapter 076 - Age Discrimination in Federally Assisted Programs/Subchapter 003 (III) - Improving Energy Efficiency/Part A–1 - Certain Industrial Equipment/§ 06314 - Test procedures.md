@@ -18,7 +18,7 @@
 
 (B) If the test procedure requirements of NEMA Standards Publication MG–1987 and IEEE Standard 112 Test Method B for motor efficiency are amended, the Secretary shall amend the test procedures established by subparagraph (A) to conform to such amended test procedure requirements unless the Secretary determines, by rule, published in the Federal Register and supported by clear and convincing evidence, that to do so would not meet the requirements for test procedures described in paragraphs (2) and (3) of this subsection.
 
-(C) If the Secretary prescribes a rule containing such a determination, the rule may establishamended test procedures for such electric motors that meets the requirements of paragraphs (2) and (3) of this subsection. In establishing any amended test procedure under this subparagraph or subparagraph (B), the Secretary shall follow the procedures and meet the requirements specified in section 6293(e) of this title.
+(C) If the Secretary prescribes a rule containing such a determination, the rule may establish amended test procedures for such electric motors that meets the requirements of paragraphs (2) and (3) of this subsection. In establishing any amended test procedure under this subparagraph or subparagraph (B), the Secretary shall follow the procedures and meet the requirements specified in section 6293(e) of this title.
 
 #### (b) Publication in Federal Register; presentment of oral and written data, views, and arguments by interested persons
 
@@ -48,7 +48,7 @@ Before prescribing any final test procedures under this section, the Secretary s
 
 #### (e) Assistance by National Institute of Standards and Technology
 
-The Secretary may direct the National Institute of Standards and Technology to provide such assistance as the Secretary deems necessary to carry out his responsibilities under this part, including the development of test procedures.
+The Secretary may direct the National Institute of Standards and Technology to providesuch assistance as the Secretary deems necessary to carry out his responsibilities under this part, including the development of test procedures.
 
 (Pub. L. 94–163, title III, §343, as added Pub. L. 95–619, title IV, §441(a), Nov. 9, 1978, 92 Stat. 3270; amended Pub. L. 100–418, title V, §5115(c), Aug. 23, 1988, 102 Stat. 1433; Pub. L. 102–486, title I, §122(b), (f)(2), Oct. 24, 1992, 106 Stat. 2808, 2817.)
 

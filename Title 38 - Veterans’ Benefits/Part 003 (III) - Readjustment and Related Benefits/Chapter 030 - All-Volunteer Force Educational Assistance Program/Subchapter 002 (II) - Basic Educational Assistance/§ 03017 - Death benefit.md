@@ -14,7 +14,7 @@
 
 (2)(A) The payment referred to in paragraph (1) of this subsection shall be made to the person or persons first listed below who is surviving on the date of such individual's death:
 
-&emsp;(i) The beneficiary or beneficiaries designated by such individual under the individual's Servicemen's Group Life Insurance policy.
+&emsp;(i) The beneficiary or beneficiaries designated by such individual under the individual's Servicemembers’ Group Life Insurance policy.
 
 &emsp;(ii) The surviving spouse of the individual.
 
@@ -34,11 +34,13 @@
 
 &emsp;&emsp;(B) the amount of accrued benefits paid or payable with respect to such individual in connection with this chapter.
 
-(c) A payment under this section shall be considered to be a benefit under this title and, for purposes of section 3035(b)(1), it shall be considered to be an entitlement earned under this subchapter.
+(c) A payment under this section shall be considered to be a benefit under this title and, forpurposes of section 3035(b)(1), it shall be considered to be an entitlement earned under this subchapter.
 
-(Added Pub. L. 100–689, title I, §101(a), Nov. 18, 1988, 102 Stat. 4161, §1417; amended Pub. L. 101–237, title IV, §423(a)(3), (b)(1)(A), Dec. 18, 1989, 103 Stat. 2091, 2092; renumbered §3017 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–568, title III, §308, Oct. 29, 1992, 106 Stat. 4329.)
+(Added Pub. L. 100–689, title I, §101(a), Nov. 18, 1988, 102 Stat. 4161, §1417; amended Pub. L. 101–237, title IV, §423(a)(3), (b)(1)(A), Dec. 18, 1989, 103 Stat. 2091, 2092; renumbered §3017 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–568, title III, §308, Oct. 29, 1992, 106 Stat. 4329; Pub. L. 104–275, title IV, §405(c)(2), Oct. 9, 1996, 110 Stat. 3340.)
 
 #### Amendments
+
+1996—Subsec. (a)(2)(A)(i). Pub. L. 104–275 substituted “Servicemembers’ Group” for “Servicemen's Group”.
 
 1992—Subsec. (a)(1)(B). Pub. L. 102–568 inserted before comma “or within one year after discharge or release from active duty”.
 

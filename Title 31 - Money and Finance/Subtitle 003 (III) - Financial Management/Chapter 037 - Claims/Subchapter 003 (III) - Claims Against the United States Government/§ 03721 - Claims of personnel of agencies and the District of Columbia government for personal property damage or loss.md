@@ -14,7 +14,7 @@
 
 &emsp;(3) “settle” means consider, determine, adjust, and dispose of a claim by disallowance or by complete or partial allowance.
 
-(b)(1) The head of an agency may settle and pay not more than $40,000 for a claim against the Government made by a member of the uniformed services under the jurisdiction of the agency or by an officer or employee of the agency for damage to, or loss of, personal property incident to service. A claim allowed under this subsection may be paid in money or the personal property replaced in kind.
+(b)(1) The head of an agency may settle and pay not more than $40,000 for a claim against the Government made by a member of the uniformed services under the jurisdiction of the agency or by an officer or employee of the agency for damage to, or loss of, personal property incident to service. If, however, the claim arose from an emergency evacuation or from extraordinary circumstances, the amount settled and paid under the authority of the preceding sentence may exceed $40,000, but may not exceed $100,000. A claim allowed under this subsection may be paid in money or the personal property replaced in kind.
 
 (2) The Secretary of State may waive the settlement and payment limitation referred to in paragraph (1) for claims for damage or loss by United States Government personnel under the jurisdiction of a chief of mission in a foreign country if such claims arise in circumstances where there is in effect a departure from the country authorized or ordered under circumstances described in section 5522(a) of title 5, if the Secretary determines that there exists exceptional circumstances that warrant such a waiver.
 
@@ -54,7 +54,7 @@
 
 (k) Settlement of a claim under this section is final and conclusive.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 973; Pub. L. 97–452, §1(17), Jan. 12, 1983, 96 Stat. 2474; Pub. L. 100–565, §1, Oct. 31, 1988, 102 Stat. 2833; Pub. L. 103–236, title I, §172(a), Apr. 30, 1994, 108 Stat. 412.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 973; Pub. L. 97–452, §1(17), Jan. 12, 1983, 96 Stat. 2474; Pub. L. 100–565, §1, Oct. 31, 1988, 102 Stat. 2833; Pub. L. 103–236, title I, §172(a), Apr. 30, 1994, 108 Stat. 412; Pub. L. 104–106, div. A, title X, §1088(a), Feb. 10, 1996, 110 Stat. 458.)
 
 Historical and Revision Notes<br>1982
 
@@ -210,13 +210,19 @@ July 28, 1982, Pub. L. 97–226, §1(a), 96 Stat. 245.
 
 #### Amendments
 
+1996—Subsec. (b)(1). Pub. L. 104–106 inserted after first sentence “If, however, the claim arose from an emergency evacuation or from extraordinary circumstances, the amount settled and paid under the authority of the preceding sentence may exceed $40,000, but may not exceed $100,000.”
+
 1994—Subsec. (b). Pub. L. 103–236 designated existing provisions as par. (1) and added par. (2).
 
 1988—Subsec. (b). Pub. L. 100–565, §1(1), substituted “$40,000” for “$25,000”.
 
-Subsec. (c). Pub. L. 100–565, §1(2), in amending subsec. (c) generally, redesignated former subsec. (c)(2) as (c) and substituted “section” for “subsection”, struck out par. (1) which authorized agency head to pay claim against Government for not more than $40,000 to member of uniformed services, or officer or employee of agency, for damage to, or loss of, personal property in foreign country, incurred after December 30, 1978, incident to service, after evacuation from foreign country,and struck out par. (3) which limited amounts to be obligated or expended for claims to extent provided in advance in appropriation laws.
+Subsec. (c). Pub. L. 100–565, §1(2), in amending subsec. (c) generally, redesignated former subsec. (c)(2) as (c) and substituted “section” for “subsection”, struck outpar. (1) which authorized agency head to pay claim against Government for not more than $40,000 to member of uniformed services, or officer or employee of agency, for damage to, or loss of, personal property in foreign country, incurred after December 30, 1978, incident to service, after evacuation from foreign country, and struck out par. (3) which limited amounts to be obligated or expended for claims to extent provided in advance in appropriation laws.
 
 1983—Subsec. (b). Pub. L. 97–452 substituted “$25,000” for “$15,000”.
+
+#### Effective Date of 1996 Amendment
+
+Section 1088(b) of Pub. L. 104–106 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to claims arising before, on, or after the date of the enactment of this Act \[Feb. 10, 1996\].”
 
 #### Effective Date of 1994 Amendment
 
@@ -230,7 +236,23 @@ Section 2 of Pub. L. 100–565 provided that: “The amendments made by this Act
 
 Section 2(g) of Pub. L. 97–452 provided that: “The amendment made by section 1(17) of this Act \[amending this section\] applies only to claims arising after July 27, 1982.”
 
+#### Representments of Previously Presented Claims
+
+Section 1088(c) of Pub. L. 104–106 provided that:
+
+“(1) A claim under subsection (b) of section 3721 of title 31, United States Code, that was settled under such section before the date of the enactment of this Act \[Feb. 10, 1996\] may be represented under such section, as amended by subsection (a), to the head of the agency concerned to recover the amount equal to the difference between the actual amount of the damage or loss and the amount settled and paid under the authority of such section before the date of the enactment of this Act, except that—
+
+&emsp;“(A) the claim shall be represented in writing within two years after the date of the enactment of this Act;
+
+&emsp;“(B) a determination of the actual amount of the damage or loss shall have been made by the head of the agency concerned pursuant to settlement of the claim under the authority of such section before the date of the enactment of this Act;
+
+&emsp;“(C) the claimant shall have proof of the determination referred to in subparagraph (B); and
+
+&emsp;“(D) the total of all amounts paid in settlement of the claim under the authority of such section may not exceed $100,000.
+
+“(2) Subsection (k) of such section shall not apply to bar representment of a claim described in paragraph (1), but shall apply to such a claim that is represented and settled under that section after the date of the enactment of this Act.”
+
 #### Section Referred to in Other Sections
 
-This section is referred to in title 16 sections 18i, 558c; title 26 section 6402; title 43 section 1737.
+This section is referred to in title 14 section 823a; title 16 sections 18i, 558c; title 26 section 6402; title 43 section 1737.
 

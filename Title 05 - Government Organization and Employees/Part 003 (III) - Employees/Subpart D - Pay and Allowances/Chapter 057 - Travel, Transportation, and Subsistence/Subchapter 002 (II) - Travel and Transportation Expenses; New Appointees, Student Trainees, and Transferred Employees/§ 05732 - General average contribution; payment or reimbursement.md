@@ -16,7 +16,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 5 U.S.C. 73b–5.
 
@@ -34,7 +36,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 Ex. Ord. No. 10614, May 25, 1955, 20 F.R. 3699, provided:
 
-Section 1. <i>Definitions.</i> As used in these regulations:
+Section 1. <i>Definitions</i>. As used in these regulations:
 
 (a) The term “military personnel” means members and former and deceased members of the uniformed services as defined in section 102 of the Career Compensation Act of 1949 (63 Stat. 804) \[37 U.S.C. 101\].
 
@@ -48,17 +50,17 @@ Section 1. <i>Definitions.</i> As used in these regulations:
 
 (f) The term “household goods” means such baggage, household goods, and effects, including privately-owned automobiles and professional books, papers, and equipment, of military personnel and civilian employees as are authorized to be transported at Government expense by law or regulations pursuant to law.
 
-Sec. 2. <i>Allowance of general-average contributions.</i> Whenever military personnel or civilian employees of a department are liable for general-average contributions arising out of shipments of household goods (as defined in section 1 (f) hereof), authorized or approved under law or regulations pursuant to law, disbursements shall be made, under rules and regulations prescribed by the head of the department concerned, from appropriations chargeable for the transportation of baggage and household goods and effects (a) for the payment of the general-average contributions for which such military personnel or civilian employees are liable, or (b) for the reimbursement of such military personnel or civilian employees in the amounts of their general-average liability paid by them and for which receipts are furnished, subject to the limitations set forth in section 3 hereof.
+Sec. 2. <i>Allowance of general-average contributions</i>. Whenever military personnel or civilian employees of a department are liable for general-average contributions arising out of shipments of household goods (as defined in section 1 (f) hereof), authorized or approved under law or regulations pursuant to law, disbursements shall be made, under rules and regulations prescribed by the head of the department concerned, from appropriations chargeable for the transportation of baggage and household goods and effects (a) for the payment of the general-average contributions for which such military personnel or civilian employees are liable, or (b) for the reimbursement of such military personnel or civilian employees in the amounts of their general-average liability paid by them and for which receipts are furnished, subject to the limitations set forth in section 3 hereof.
 
-Sec. 3. <i>Limitations.</i> The provisions of section 2 hereof shall not apply:
+Sec. 3. <i>Limitations</i>. The provisions of section 2 hereof shall not apply:
 
-(a) In case the shipment of household goods is made under law or regulation pursuant to law which providesfor reimbursement to the military person or civilian employee concerned on a commuted basis in lieu of payment by the Government of the actual costs of the shipment; or
+(a) In case the shipment of household goods is made under law or regulation pursuant to law which provides for reimbursement to the military person or civilian employee concerned on a commuted basis in lieu of payment by the Government of the actual costs of the shipment; or
 
 (b) In case the military person or civilian employee concerned has himself selected the means of shipment; or
 
 (c) To quantities of household goods (excluding automobiles) shipped in excess of quantities authorized to be transported by law or regulation pursuant to law. In any case of such excess shipment, the liability of the Government for the employee's general-average contribution shall not exceed the proportion that the applicable limitation, by weight or volume, bears to the total quantity, by weight or volume, of the household goods shipped.
 
-Sec. 4. <i>Effective date.</i> This order shall be effective in any case in which the loss involved occurs, or has occurred, on or after June 4, 1954.
+Sec. 4. <i>Effective date</i>. This order shall be effective in any case in which the loss involved occurs, or has occurred, on or after June 4, 1954.
 
 Dwight D. Eisenhower.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

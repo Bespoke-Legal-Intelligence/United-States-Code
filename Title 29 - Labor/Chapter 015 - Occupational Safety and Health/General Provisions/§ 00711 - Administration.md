@@ -46,7 +46,7 @@ The Secretary shall promulgate regulations regarding the requirements for the im
 
 &emsp;&emsp;(ii) standards governing community rehabilitation programs and qualified personnel utilized for the provision of vocational rehabilitation services; and
 
-&emsp;&emsp;(iii) minimum standards to ensure the availability of personnel, to the maximum extent feasible, trained to communicate inthe native language or mode of communication of the client.
+&emsp;&emsp;(iii) minimum standards to ensure the availability of personnel, to the maximum extent feasible, trained to communicate in the native language or mode of communication of the client.
 
 &emsp;(E) Standards to be adhered to by providers to help ensure the integrity of services.
 

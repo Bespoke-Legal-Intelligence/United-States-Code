@@ -4,7 +4,7 @@
 
 The Secretary is authorized to provide 70 per centum matching rehabilitation and innovative grants directly to eligible general purpose local governments upon his approval of applications therefor by the chief executives of such governments.
 
-(1) At the discretion of such applicants, and if consistent with an approved application, rehabilitation and innovation grants may be transferred in whole or in part to independent special purpose local governments, private nonprofit agencies or county or regional park authorities: <i>Provided,</i> That assisted recreation areas and facilities owned or managed by them offer recreation opportunities to the general population within the jurisdictional boundaries of an eligible applicant.
+(1) At the discretion of such applicants, and if consistent with an approved application, rehabilitation and innovation grants may be transferred in whole or in part to independent special purpose local governments, private nonprofit agencies or county or regional park authorities: <i>Provided</i>, That assisted recreation areas and facilities owned or managed by them offer recreation opportunities to the general population within the jurisdictional boundaries of an eligible applicant.
 
 (2) Payments may be made only for those rehabilitation or innovative projects which have been approved by the Secretary. Such payments may be made from time to time in keeping with the rate of progress toward the satisfactory completion of a project, except that the Secretary may, when appropriate, make advance payments on approved rehabilitation and innovative projects in an amount not to exceed 20 per centum of the total project cost.
 

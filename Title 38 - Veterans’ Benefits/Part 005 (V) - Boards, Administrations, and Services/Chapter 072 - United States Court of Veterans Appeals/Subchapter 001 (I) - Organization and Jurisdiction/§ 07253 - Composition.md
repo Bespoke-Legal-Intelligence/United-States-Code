@@ -2,7 +2,7 @@
 
 (a) The Court of Veterans Appeals shall be composed of a chief judge and at least two and not more than six associate judges.
 
-(b) The judges of the Court shall be appointed by the President, by and with the advice and consent of the Senate, solely on the grounds of fitness to perform the duties of the office. A person may not be appointed to the Court who isnot a member in good standing of the bar of a Federal court or of the highest court of a State. Not more than the number equal to the next whole number greater than one-half of the number of judges of the Court may be members of the same political party.
+(b) The judges of the Court shall be appointed by the President, by and with the advice and consent of the Senate, solely on the grounds of fitness to perform the duties of the office. A person may not be appointed to the Court who is not a member in good standing of the bar of a Federal court or of the highest court of a State. Not more than the number equal to the next whole number greater than one-half of the number of judges of the Court may be members of the same political party.
 
 (c) The term of office of the judges of the Court of Veterans Appeals shall be 15 years.
 

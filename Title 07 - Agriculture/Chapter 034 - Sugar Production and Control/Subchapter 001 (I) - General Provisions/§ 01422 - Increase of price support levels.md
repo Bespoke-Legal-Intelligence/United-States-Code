@@ -22,6 +22,10 @@ Amendment by Pub. L. 101–624 effective beginning with 1991 crop of an agricult
 
 Functions of Corporations of Department of Agriculture, boards of directors and officers of such corporations; Advisory Board of Commodity Credit Corporation; and Farm Credit Administration or any agency, officer, or entity of, under, or subject to supervision of said Administration excepted from functions of officers, agencies, and employees transferred to Secretary of Agriculture by 1953 Reorg. Plan No. 2, §1, effective June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
 
+#### Inapplicability of Section
+
+Section inapplicable to 1996 through 2002 crops of loan commodities, peanuts, and sugar and inapplicable to milk during period beginning Apr. 4, 1996, and ending Dec. 31, 2002, see section 7301(b)(1)(J) of this title.
+
 #### Cross References
 
 Price support levels, see section 1441 of this title.

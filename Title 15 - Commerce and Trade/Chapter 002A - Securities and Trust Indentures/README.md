@@ -5,7 +5,9 @@
 | Sec. |  |
 | :--- | ---: |
 | [77a.](Subchapter%20001%20%28I%29%20-%20Domestic%20Securities/%C2%A7%2000077a%20-%20Short%20title.md) | Short title. |
-| [77b.](Subchapter%20001%20%28I%29%20-%20Domestic%20Securities/%C2%A7%2000077b%20-%20Definitions.md) | Definitions. |
+| [77b.](Subchapter%20001%20%28I%29%20-%20Domestic%20Securities/%C2%A7%2000077b%20-%20Definitions%3B%20promotion%20of%20efficiency%2C%20competition%2C%20and%20capital%20formation.md) | Definitions; promotion of efficiency, competition, and capital formation. |
+| (a) | Definitions. |
+| (b) | Consideration of promotion of efficiency, competition, and capital formation. |
 | [77c.](Subchapter%20001%20%28I%29%20-%20Domestic%20Securities/%C2%A7%2000077c%20-%20Classes%20of%20securities%20under%20this%20subchapter.md) | Classes of securities under this subchapter. |
 | (a) | Exempted securities. |
 | (b) | Additional exemptions. |
@@ -17,7 +19,7 @@
 | (c) | Necessity of filing registration statement. |
 | [77f.](Subchapter%20001%20%28I%29%20-%20Domestic%20Securities/%C2%A7%2000077f%20-%20Registration%20of%20securities.md) | Registration of securities. |
 | (a) | Method of registration. |
-| (b) | Fee for registration. |
+| (b) | Registration fee. |
 | (c) | Time registration effective. |
 | (d) | Information available to public. |
 | [77g.](Subchapter%20001%20%28I%29%20-%20Domestic%20Securities/%C2%A7%2000077g%20-%20Information%20required%20in%20registration%20statement.md) | Information required in registration statement. |
@@ -61,7 +63,11 @@
 | (a) | Use of interstate commerce for purpose of fraud or deceit. |
 | (b) | Use of interstate commerce for purpose of offering for sale. |
 | (c) | Exemptions of section 77c not applicable to this section. |
-| [77r.](Subchapter%20001%20%28I%29%20-%20Domestic%20Securities/%C2%A7%2000077r%20-%20State%20control%20of%20securities.md) | State control of securities. |
+| [77r.](Subchapter%20001%20%28I%29%20-%20Domestic%20Securities/%C2%A7%2000077r%20-%20Exemption%20from%20State%20regulation%20of%20securities%20offerings.md) | Exemption from State regulation of securities offerings. |
+| (a) | Scope of exemption. |
+| (b) | Covered securities. |
+| (c) | Preservation of authority. |
+| (d) | Definitions. |
 | 77r–1. | Preemption of State law. |
 | (a) | Authority to purchase, hold, and invest in securities; securities considered as obligations of United States. |
 | (b) | Exception; validity of contracts under prior law. |
@@ -98,6 +104,7 @@
 | (g) | Exemption authority. |
 | (h) | Effect on other authority of Commission. |
 | (i) | Definitions. |
+| 77z–3. | General exemptive authority. |
 | [77aa.](Subchapter%20001%20%28I%29%20-%20Domestic%20Securities/%C2%A7%2000077aa%20-%20Schedule%20of%20information%20required%20in%20registration%20statement.md) | Schedule of information required in registration statement. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -218,6 +225,10 @@
 | [77bbbb.](Subchapter%20003%20%28III%29%20-%20Trust%20Indentures/%C2%A7%2000077bbbb%20-%20Separability.md) | Separability. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Chapter Referred to in Other Sections
+
+This chapter is referred to in section 80a–29 of this title.
 
 
 ---

@@ -24,7 +24,7 @@
 
 &emsp;(4) consult with the National Boating Safety Advisory Council established under section 13110 of this title about the considerations referred to in clauses (1)–(3) of this subsection.
 
-(d) Section 8903 of this title does not apply to a vessel being operated for bona fide dealer demonstrations provided without fee to business invitees. However, if on the basis of substantial evidence, the Secretary decides under this section that requiring vessels so operated to be under the control of licensed individuals is necessary for boating safety, then the Secretary may prescribe regulations requiring the licensing of individuals controlling these vessels in the same manner as provided in chapter 89 ofthis title for individuals in control of vessels carrying passengers for hire.
+(d) Section 8903 of this title does not apply to a vessel being operated for bona fide dealer demonstrations provided without fee to business invitees. However, if on the basis of substantial evidence, the Secretary decides under this section that requiring vessels so operated to be under the control of licensed individuals is necessary for boating safety, then the Secretary may prescribe regulations requiring the licensing of individuals controlling these vessels in the same manner as provided in chapter 89 of this title for individuals in control of vessels carrying passengers for hire.
 
 (Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 530.)
 

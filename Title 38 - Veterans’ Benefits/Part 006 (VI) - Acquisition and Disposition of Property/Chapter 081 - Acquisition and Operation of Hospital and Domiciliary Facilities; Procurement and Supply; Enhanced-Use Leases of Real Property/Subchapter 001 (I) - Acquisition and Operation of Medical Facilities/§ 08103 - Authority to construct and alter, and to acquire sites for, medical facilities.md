@@ -22,7 +22,7 @@
 
 &emsp;(ii) leased under paragraph (3)(A) of this subsection to the Department for such use and for such other activities as the Secretary determines are appropriate.
 
-(3)(A) The Secretary may enter into a lease for the use of any facility described in paragraph\(2)(B) of this subsection for not more than 35 years under such terms and conditions as may be in the best interests of the Department.
+(3)(A) The Secretary may enter into a lease for the use of any facility described in paragraph (2)(B) of this subsection for not more than 35 years under such terms and conditions as may be in the best interests of the Department.
 
 (B) Each agreement to lease a facility under subparagraph (A) of this paragraph shall include a provision that—
 
@@ -42,7 +42,7 @@
 
 (6) The authority to enter into an agreement under this subsection—
 
-&emsp;(A) shall not take effect until the Secretary has entered into agreements under section 316 of this title to carry out at least three collocations; and
+&emsp;(A) shall not take effect until the Secretary has entered into agreements under section 316of this title to carry out at least three collocations; and
 
 &emsp;(B) shall expire on October 1, 1993.
 

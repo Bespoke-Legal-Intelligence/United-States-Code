@@ -2,7 +2,7 @@
 
 (a)
 
-Repaying Borrowed Money.—An amount apportioned under section 47114 of this title and made available to the sponsor of an air carrier airport at which terminal development was carried out after June 30, 1970, and before July 12, 1976, or, in the case of a commercial service airport which annually had less than 0.05 percent of the total enplanements in the United States, between January 1, 1992, and October 31, 1992, is available to repay immediately money borrowed and used to pay the costs for terminal development at the airport, if those costs would be allowable project costs under section 47110(d) of this title if they had been incurred after September 3, 1982. An amount is available for a grant under this subsection—
+Repaying Borrowed Money.—An amount apportioned under section 47114 of this title andmade available to the sponsor of an air carrier airport at which terminal development was carried out after June 30, 1970, and before July 12, 1976, or, in the case of a commercial service airport which annually had less than 0.05 percent of the total enplanements in the United States, between January 1, 1992, and October 31, 1992, is available to repay immediately money borrowed and used to pay the costs for terminal development at the airport, if those costs would be allowable project costs under section 47110(d) of this title if they had been incurred after September 3, 1982. An amount is available for a grant under this subsection—
 
 &emsp;(1) only if—
 
@@ -40,7 +40,9 @@ Historical and Revision Notes
 
 Pub. L. 103–272
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -70,7 +72,9 @@ In subsection (b), before clause (1), the words “In a fiscal year” are added
 
 Pub. L. 103–429
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

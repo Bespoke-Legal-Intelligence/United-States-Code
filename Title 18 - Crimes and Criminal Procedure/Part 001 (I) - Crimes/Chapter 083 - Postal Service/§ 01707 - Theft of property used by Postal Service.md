@@ -1,8 +1,8 @@
 ### §1707. Theft of property used by Postal Service
 
-Whoever steals, purloins, or embezzles any property used by the Postal Service, or appropriates any such property to his own or any other than its proper use, or conveys away any such property to the hindrance or detriment of the public service, shall be fined under this title or imprisoned not more than three years, or both; but if the value of such property does not exceed $100, he shall be fined under this title or imprisoned not more than one year, or both.
+Whoever steals, purloins, or embezzles any property used by the Postal Service, or appropriates any such property to his own or any other than its proper use, or conveys away any such property to the hindrance or detriment of the public service, shall be fined under this title or imprisoned not more than three years, or both; but if the value of such property does not exceed $1,000, he shall be fined under this title or imprisoned not more than one year, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 779; Aug. 12, 1970, Pub. L. 91–375, §6(j)(18), 84 Stat. 778; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(G), (H), 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 779; Aug. 12, 1970, Pub. L. 91–375, §6(j)(18), 84 Stat. 778; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(G), (H), 108 Stat. 2147; Oct. 11, 1996, Pub. L. 104–294, title VI, §606(a), 110 Stat. 3511.)
 
 #### Historical and Revision Notes
 
@@ -17,6 +17,8 @@ The smaller penalty for an offense involving property valued at $100 or less was
 Minor changes in phraseology were made.
 
 #### Amendments
+
+1996—Pub. L. 104–294 substituted “$1,000” for “$100”.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $1,000” after “service, shall be” and for “fined not more than $500” after “he shall be”.
 

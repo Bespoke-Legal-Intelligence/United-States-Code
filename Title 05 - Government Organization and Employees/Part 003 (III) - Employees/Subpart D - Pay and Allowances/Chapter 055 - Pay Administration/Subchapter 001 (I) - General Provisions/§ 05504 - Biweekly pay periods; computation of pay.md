@@ -46,7 +46,9 @@ Act
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 (a)
 
@@ -84,13 +86,13 @@ This section amends 5 U.S.C. 5504 to reflect the amendment to 5 U.S.C. 6101 by s
 
 #### Amendments
 
-<b>1986</b>—Subsec. (b). Pub. L. 99–272 struck out first sentence which provided that for pay computation purposes affecting an employee, the annual rate of basic pay established by or under statute is deemed payment for employment during 52 basic administrative workweeks of 40 hours, inserted “, in the case of an employee,” after “When” in second sentence, substituted “2,087” for “2,080” in par. (1), and inserted “other than an employee or individual excluded by section 5541(2)(xvi) of this title” at end of last sentence.
+1986—Subsec. (b). Pub. L. 99–272 struck out first sentence which provided that for pay computation purposes affecting an employee, the annual rate of basic pay established by or under statute is deemed payment for employment during 52 basic administrative workweeks of 40 hours, inserted “, in the case of an employee,” after “When” in second sentence, substituted “2,087” for “2,080” in par. (1), and inserted “other than an employee or individual excluded by section 5541(2)(xvi) of this title” at end of last sentence.
 
-<b>1979</b>—Subsec. (a)(A). Pub. L. 96–70 substituted “Panama Canal Commission” for “Canal Zone Government or the Panama Canal Company”.
+1979—Subsec. (a)(A). Pub. L. 96–70 substituted “Panama Canal Commission” for “Canal Zone Government or the Panama Canal Company”.
 
 Subsec. (a)(B). Pub. L. 96–54 substituted “(xvi) of this title” for “(xvi) of this section”.
 
-<b>1978</b>—Subsec. (a). Pub. L. 95–454, §408(a)(1), in par. (B) inserted reference to an employee or individual excluded by section 5541(2)(xvi).
+1978—Subsec. (a). Pub. L. 95–454, §408(a)(1), in par. (B) inserted reference to an employee or individual excluded by section 5541(2)(xvi).
 
 Subsec. (c). Pub. L. 95–454, §906(a)(2), substituted “Office of Personnel Management” for “Civil Service Commission”.
 
@@ -140,5 +142,5 @@ Working hours of laborers and mechanics in military departments not to exceed fo
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 5332, 5505 of this title; title 2 sections 142e, 142f, 142g; title 38 section 7423; title 40 sections 166b–1d, 166b–1e.
+This section is referred to in sections 5332, 5505 of this title; title 2 sections 142e, 142f, 142g, 142<i>l</i>; title 38 section 7423; title 40 sections 166b–1d, 166b–1e.
 

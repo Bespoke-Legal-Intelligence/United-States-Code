@@ -17,10 +17,6 @@
 
 This chapter is referred to in sections 275, 6103, 6161, 6211, 6212, 6213, 6214, 6405, 6501, 6512, 6862, 6871, 7422 of this title.
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
-
-<i><sup>2</sup></i><i> So in original. Subclause (V) probably should immediately follow subclause (IV).</i>
-
 
 ---
 

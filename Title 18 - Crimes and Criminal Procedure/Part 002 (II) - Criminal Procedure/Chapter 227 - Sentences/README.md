@@ -60,7 +60,7 @@ Section 3580 renumbered section 3664 of this title.
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 3673, 3742 of this title.
+This chapter is referred to in sections 3664, 3673, 3742 of this title.
 
 
 ---

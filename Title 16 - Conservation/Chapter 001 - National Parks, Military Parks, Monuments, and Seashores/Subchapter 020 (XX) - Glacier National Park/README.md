@@ -27,6 +27,5 @@
 - [&sect; 00178 - Hotel regulations](%C2%A7%2000178%20-%20Hotel%20regulations.md)
 - [&sect; 00179 - Donations of buildings and other property](%C2%A7%2000179%20-%20Donations%20of%20buildings%20and%20other%20property.md)
 - [&sect; 00180 - Repealed. Dec. 16, 1930, ch. 14, &sect;1, 46 Stat. 1028](%C2%A7%2000180%20-%20Repealed.%20Dec.%2016%2C%201930%2C%20ch.%2014%2C%20%C2%A71%2C%2046%20Stat.%201028.md)
-- [&sect; 00181 - Blackfeet Highway and connections; concurrent police jurisdiction](%C2%A7%2000181%20-%20Blackfeet%20Highway%20and%20connections%3B%20concurrent%20police%20jurisdiction.md)
-- [&sect; 00181a - Administrative control of Blackfeet Highway and connections; jurisdiction of Secretary of the Interior](%C2%A7%2000181a%20-%20Administrative%20control%20of%20Blackfeet%20Highway%20and%20connections%3B%20jurisdiction%20of%20Secretary%20of%20the%20Interior.md)
+- [&sect; 00181, 181a - Omitted](%C2%A7%2000181%2C%20181a%20-%20Omitted.md)
 - [&sect; 00181b - Repealed. June 25, 1948, ch. 646, &sect;39, 62 Stat. 992, eff. Sept. 1, 1948](%C2%A7%2000181b%20-%20Repealed.%20June%2025%2C%201948%2C%20ch.%20646%2C%20%C2%A739%2C%2062%20Stat.%20992%2C%20eff.%20Sept.%201%2C%201948.md)

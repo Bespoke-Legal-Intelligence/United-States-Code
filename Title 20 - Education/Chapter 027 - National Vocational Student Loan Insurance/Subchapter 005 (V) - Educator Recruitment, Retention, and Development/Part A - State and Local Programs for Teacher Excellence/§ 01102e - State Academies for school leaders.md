@@ -88,7 +88,7 @@ Each eligible entity receiving a grant to operate an Academy under this section 
 
 &emsp;(5) providing intensive training and development programs for current school leaders seeking enhanced and up-to-date knowledge needed to perform their jobs effectively;
 
-&emsp;(6) identifying local educational agencies and schools with principal and other schoolleader vacancies and working with such agencies and schools to match Academy participants with such vacancies;
+&emsp;(6) identifying local educational agencies and schools with principal and other school leader vacancies and working with such agencies and schools to match Academy participants with such vacancies;
 
 &emsp;(7) facilitating internships for graduates of the program for new school leaders, under the guidance and supervision of experienced administrators;
 
@@ -102,7 +102,7 @@ Each eligible entity receiving a grant to operate an Academy under this section 
 
 #### (e) Cost-sharing
 
-Funds received under this section may be used to pay not more than 75 percent of the cost of operating an Academy in the first year an eligible entity receives a grant under this subpart, 65 percent of such cost in such second year, 55 percent of such cost in such third year, 45 percent of such cost in such fourth year, and 35 percent of such cost in such fifth year. The remaining share shall be provided from non-Federal sources, and be in cash or in kind, fairly valued.
+Funds received under this section may be used to pay not more than 75 percent of the cost of operating an Academy in the first year an eligible entity receives a grant under this subpart, 65 percent of such cost in such second year, 55 percent of such cost in such third year, 45 percent of such cost in such fourth year, and 35 percent of such cost in such fifth year. The remainingshare shall be provided from non-Federal sources, and be in cash or in kind, fairly valued.
 
 (Pub. L. 89–329, title V, §506, as added Pub. L. 102–325, title V, §501(a), July 23, 1992, 106 Stat. 666.)
 

@@ -8,7 +8,7 @@ A system established in a State under section 10803 of this title to protect and
 
 &emsp;&emsp;(A) investigate incidents of abuse and neglect of individuals with mental illness if the incidents are reported to the system or if there is probable cause to believe that the incidents occurred;
 
-&emsp;&emsp;(B) pursue administrative, legal, and other appropriate remedies to ensure the protection of individuals with mental illness whoare receiving care or treatment in the State; and
+&emsp;&emsp;(B) pursue administrative, legal, and other appropriate remedies to ensure the protection of individuals with mental illness who are receiving care or treatment in the State; and
 
 &emsp;&emsp;(C) pursue administrative, legal, and other remedies on behalf of an individual who—
 
@@ -66,7 +66,7 @@ The Secretary and the agency of a State which administers its State plan under t
 
 (1)(A) Each system established in a State, through allotments received under section 10803 of this title, to protect and advocate the rights of individuals with mental illness shall have a governing authority.
 
-(B) In States in which the governing authority is organized as a private non-profit entity with a multi-member governing board, or a public system with a multi-member governing board, such governing board shall be selected accordingto the policies and procedures of the system. The governing board shall be composed of—
+(B) In States in which the governing authority is organized as a private non-profit entity with a multi-member governing board, or a public system with a multi-member governing board, such governing board shall be selected according to the policies and procedures of the system. The governing board shall be composed of—
 
 &emsp;(i) members (to be selected no later than October 1, 1990) who broadly represent or are knowledgeable about the needs of the clients served by the system; and
 
@@ -94,7 +94,7 @@ Subsec. (a)(4). Pub. L. 102–173, §6(a), inserted “as a result of monitoring
 
 Subsec. (a)(6). Pub. L. 102–173, §6(b), substituted “60 percent” for “one-half” in subpar. (B) and added subpar. (C).
 
-Subsec. (a)(9). Pub. L. 102–173, §6(c), inserted before period at end “and for individuals who have received or are receiving mental health services, family members of such individuals with mental illness, or representatives of such individuals or family members to assure that the eligible system is operating in compliance with the provisions of this subchapter and subchapter III of this chapter”.
+Subsec. (a)(9). Pub. L. 102–173, §6(c), inserted before period at end “and for individuals who have received orare receiving mental health services, family members of such individuals with mental illness, or representatives of such individuals or family members to assure that the eligible system is operating in compliance with the provisions of this subchapter and subchapter III of this chapter”.
 
 Subsec. (b). Pub. L. 102–173, §10(2), substituted “individuals with mental illness” for “mentally ill individuals”.
 

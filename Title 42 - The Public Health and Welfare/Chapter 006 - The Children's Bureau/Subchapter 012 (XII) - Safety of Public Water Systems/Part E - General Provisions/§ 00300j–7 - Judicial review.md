@@ -6,9 +6,9 @@ A petition for review of—
 
 &emsp;(1) actions pertaining to the establishment of national primary drinking water regulations (including maximum contaminant level goals) may be filed only in the United States Court of Appeals for the District of Columbia circuit; and
 
-&emsp;(2) any other action of the Administrator under this chapter may be filed in the circuit in which the petitioner resides or transacts business which is directly affected by the action.
+&emsp;(2) any other final action of the Administrator under this chapter may be filed in the circuit in which the petitioner resides or transacts business which is directly affected by the action.
 
-> Any such petition shall be filed within the 45-day period beginning on the date of the promulgation of the regulation or issuance of the order with respect to which review is sought or on the date of the determination with respect to which review is sought, and may be filed after the expiration of such 45-day period if the petition is based solely on grounds arising after the expiration of such period. Action of the Administrator with respect to which review could have been obtained under this subsection shall not be subject to judicial review in any civil or criminal proceeding for enforcement or in any civil action to enjoin enforcement.
+> Any such petition shall be filed within the 45-day period beginning on the date of the promulgation of the regulation or any other final Agency action with respect to which review is sought or on the date of the determination with respect to which review is sought, and may be filed after the expiration of such 45-day period if the petition is based solely on grounds arising after the expiration of such period. Action of the Administrator with respect to which review could have been obtained under this subsection shall not be subject to judicial review in any civil or criminal proceeding for enforcement or in any civil action to enjoin enforcement. In any petition concerning the assessment of a civil penalty pursuant to section 300g–3(g)(3)(B) of this title, the petitioner shall simultaneously send a copy of the complaint by certified mail to the Administrator and the Attorney General. The court shall set aside and remand the penalty order if the court finds that there is not substantial evidence in the record to support the finding of a violation or that the assessment of the penalty by the Administrator constitutes an abuse of discretion.
 
 #### (b) District courts; petition for review: actions respecting variances or exemptions; filing period; grounds arising after expiration of filing period; exclusiveness of remedy
 
@@ -18,9 +18,13 @@ The United States district courts shall have jurisdiction of actions brought to 
 
 In any judicial proceeding in which review is sought of a determination under this subchapter required to be made on the record after notice and opportunity for hearing, if any party applies to the court for leave to adduce additional evidence and shows to the satisfaction of the court that such additional evidence is material and that there were reasonable grounds for the failure to adduce such evidence in the proceeding before the Administrator, the court may order such additional evidence (and evidence in rebuttal thereof) to be taken before the Administrator, in such manner and upon such term and conditions as the court may deem proper. The Administrator may modify his findings as to the facts, or make new findings, by reason of the additional evidence so taken, and he shall file such modified or new findings, and his recommendation, if any, for the modification or setting aside of his original determination, with the return of such additional evidence.
 
-(July 1, 1944, ch. 373, title XIV, §1448, as added Dec. 16, 1974, Pub. L. 93–523, §2(a), 88 Stat. 1689; amended June 19, 1986, Pub. L. 99–339, title III, §303, 100 Stat. 667.)
+(July 1, 1944, ch. 373, title XIV, §1448, as added Dec. 16, 1974, Pub. L. 93–523, §2(a), 88 Stat. 1689; amended June 19, 1986, Pub. L. 99–339, title III, §303, 100 Stat. 667; Aug. 6, 1996, Pub. L. 104–182, title I, §113(c), 110 Stat. 1636.)
 
 #### Amendments
+
+1996—Subsec. (a). Pub. L. 104–182, §113(c)(2), (3), in concluding provisions, substituted “or any other final Agency action” for “or issuance of the order” and inserted at end “In any petition concerning the assessment of a civil penalty pursuant to section 300g–3(g)(3)(B) of this title, the petitioner shall simultaneously send a copy of the complaint by certified mail to the Administrator and the Attorney General. The court shall set aside and remand the penalty order if the court finds that there is not substantial evidence in the record to support the finding of a violation or that the assessment of the penalty by the Administrator constitutes an abuse of discretion.”
+
+Subsec. (a)(2). Pub. L. 104–182, §113(c)(1), substituted “any other final action” for “any other action”.
 
 1986—Subsec. (a)(1). Pub. L. 99–339, §303(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “action of the Administrator in promulgating any national primary drinking water regulation under section 300g–1 of this title, any regulation under section 300g–2(b)(1) of this title, any regulation under section 300g–3(c) of this title, any regulation for State underground injection control programs under section 300h of this title, or any general regulation for the administration of this subchapter may be filed only in the United States Court of Appeals for the District of Columbia Circuit; and”.
 
@@ -28,5 +32,5 @@ Subsec. (a)(2). Pub. L. 99–339, §303(2), amended par. (2) generally. Prior to
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 300h–2, 300j–8 of this title.
+This section is referred to in sections 300g–1, 300h–2, 300j–8 of this title.
 

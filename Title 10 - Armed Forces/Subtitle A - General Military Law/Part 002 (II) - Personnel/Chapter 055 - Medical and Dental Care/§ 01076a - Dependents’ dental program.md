@@ -80,7 +80,7 @@ Subsec. (b)(2). Pub. L. 102–484, §701(b)(1), substituted “$20” for “$10
 
 Subsec. (b)(3). Pub. L. 102–484, §701(a)(2), (b)(2), added par. (3) and struck out former par. (3) which read as follows: “A member enrolled in a supplemental dental benefits plan shall pay a supplemental monthly premium of not more than $15 for the member and the family of the member. The supplemental monthly premium shall be in addition to the premium payable under paragraph (2) for the member's basic dental benefits plan.”
 
-Subsec. (d). Pub. L. 102–484, §701(a)(3), (c), struck out “(1)” before “A basic dental”, struck out “only” before “the following benefits”, redesignated subpars. (A) and (B) as pars. (1) and (2), respectively, added par. (3), and struck out former par. (2) which read as follows: “In addition to the benefits available under a basic dental benefits plan, a supplemental dental benefits plan established under subsection (a) may provide such dental care benefits as the Secretary of Defense, after consultation with the other administering Secretaries, considers to be appropriate.”
+Subsec. (d). Pub. L. 102–484, §701(a)(3), (c), struck out “(1)” before “A basic dental”, struck out “only” before “the following benefits”, redesignated subpars. (A) and\(B) as pars. (1) and (2), respectively, added par. (3), and struck out former par. (2) which read as follows: “In addition to the benefits available under a basic dental benefits plan, a supplemental dental benefits plan established under subsection (a) may provide such dental care benefits as the Secretary of Defense, after consultation with the other administering Secretaries, considers to be appropriate.”
 
 Subsec. (e). Pub. L. 102–484, §701(d), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “
 
@@ -130,7 +130,7 @@ Subsec. (h). Pub. L. 99–661, §707(b), added subsec. (h).
 
 #### Effective Date of 1994 Amendment
 
-Section 707(c) of Pub. L. 103–337 provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 1079 of this title\] shall apply with respect to the dependents described in suchamendments of a member of a uniformed service who dies on or after October 1, 1993, while on active duty for a period of more than 30 days.”
+Section 707(c) of Pub. L. 103–337 provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 1079 of this title\] shall apply with respect to the dependents described in such amendments of a member of a uniformed service who dies on or after October 1, 1993, while on active duty for a period of more than 30 days.”
 
 #### Effective Date of 1992 Amendment
 

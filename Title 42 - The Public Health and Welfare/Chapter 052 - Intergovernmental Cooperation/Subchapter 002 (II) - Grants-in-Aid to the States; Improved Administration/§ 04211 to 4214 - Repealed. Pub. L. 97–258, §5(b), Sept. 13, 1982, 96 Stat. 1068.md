@@ -6,5 +6,5 @@ Section 4212, Pub. L. 90–577, title II, §202, Oct. 16, 1968, 82 Stat. 1101, r
 
 Section 4213, Pub. L. 90–577, title II, §203, Oct. 16, 1968, 82 Stat. 1101, related to scheduling of Federal grant-in-aid transfers to States. See section 6503(a) of Title 31.
 
-Section 4214, Pub. L. 90–577, title II, §204, Oct. 16, 1968, 82 Stat. 1101, related to eligibility of State agencies to administer a grant-in-aid program. See section 6504 of Title 31.
+Section 4214, Pub. L. 90–577, title II, §204, Oct. 16, 1968, 82 Stat. 1101, related to eligibility of State agencies toadminister a grant-in-aid program. See section 6504 of Title 31.
 

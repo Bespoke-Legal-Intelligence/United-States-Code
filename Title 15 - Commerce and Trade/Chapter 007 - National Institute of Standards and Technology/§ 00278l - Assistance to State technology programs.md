@@ -26,13 +26,13 @@ Technology Extension Services.—(1) The Secretary shall conduct a nationwide st
 
 &emsp;“(C) an evaluation of the success of the services in transferring technology, modernizing manufacturing processes, and improving the productivity and profitability of businesses;
 
-&emsp;“(D) an assessment of the degree to which State services make use of Federal programs, including theSmall Business Innovative Research program and the programs of the Federal Laboratory Consortium, the National Technical Information Service, the National Science Foundation, the Office of Productivity, Technology, and Innovation, and the Small Business Administration;
+&emsp;“(D) an assessment of the degree to which State services make use of Federal programs, including the Small Business Innovative Research program and the programs of the Federal Laboratory Consortium, the National Technical Information Service, the National Science Foundation, the Office of Productivity, Technology, and Innovation, and the Small Business Administration;
 
 &emsp;“(E) a survey of what additional Federal information and technical assistance the services could utilize; and
 
 &emsp;“(F) an assessment of how the services could be more effective agents for the transfer of Federal scientific and technical information, including the results and application of Federal and federally funded research.
 
-> The Secretary shall submit to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate, at the time of submission of the organization plan for the Institute under section 5112(d)(1) \[of Pub. L. 100–418, set out as a note under section 272 of this title\], the results of the study and an initial implementation plan for the programs under section 26 of the Act of March 3, 1901 \[15 U.S.C. 278<i>l</i>\], and under this section \[enacting sections 278k to 278m of this title\]. The implementation plan shall include methods of providing technical assistance to States and criteria for awarding financial assistance under this section. The Secretary may make use of contractors and experts for any or all of the studies and findings called for in this section.
+> The Secretary shall submit to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate, at the time of submission of the organization plan for the Institute undersection 5112(d)(1) \[of Pub. L. 100–418, set out as a note under section 272 of this title\], the results of the study and an initial implementation plan for the programs under section 26 of the Act of March 3, 1901 \[15 U.S.C. 278<i>l</i>\], and under this section \[enacting sections 278k to 278m of this title\]. The implementation plan shall include methods of providing technical assistance to States and criteria for awarding financial assistance under this section. The Secretary may make use of contractors and experts for any or all of the studies and findings called for in this section.
 
 “(2)(A) The Institute shall enter into cooperative agreements with State technology extension services to—
 
@@ -64,5 +64,5 @@ Federal Technology Transfer Act of 1986.—Nothing in sections \[sic\] 25 or 26 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 272 of this title; title 10 section 2523.
+This section is referred to in section 272 of this title.
 

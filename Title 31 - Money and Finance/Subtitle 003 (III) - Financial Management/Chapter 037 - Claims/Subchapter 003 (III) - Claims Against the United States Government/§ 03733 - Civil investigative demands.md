@@ -170,7 +170,7 @@ Furnishing or inspection of transcript by witness.—Upon payment of reasonable 
 
 &emsp;(7)
 
-Conduct of oral testimony.—(A) Any person compelled to appear for oral testimony under a civil investigative demand issued under subsection (a) may be accompanied, represented, and advised by counsel. Counsel may advise such person, in confidence, with respect to any question asked of such person. Such person or counsel may object on the record to any question, in whole or in part, and shall briefly state for the record the reason for the objection. An objection may be made, received, and entered upon the record when it is claimed that such person is entitled to refuse to answer the question on the grounds of any constitutional or other legal right or privilege, including the privilege against self-incrimination. Such person may not otherwise object to or refuse to answer any question, and may not directly or through counsel otherwise interrupt the oral examination. If such personrefuses to answer any question, a petition may be filed in the district court of the United States under subsection (j)(1) for an order compelling such person to answer such question.
+Conduct of oral testimony.—(A) Any person compelled to appear for oral testimony under a civil investigative demand issued under subsection (a) may be accompanied, represented, and advised by counsel. Counsel may advise such person, in confidence, with respect to any question asked of such person. Such person or counsel may object on the record to any question, in whole or in part, and shall briefly state for the record the reason for the objection. An objection may be made, received, and entered upon the record when it is claimed that such person is entitled to refuse to answer the question on the grounds of any constitutional or other legal right or privilege, including the privilege against self-incrimination. Such person may not otherwise object to or refuse to answer any question, and may not directly or through counsel otherwise interrupt the oral examination. If such person refuses to answer any question, a petition may be filed in the district court of the United States under subsection (j)(1) for an order compelling such person to answer such question.
 
 &emsp;(B) If such person refuses to answer any question on the grounds of the privilege against self-incrimination, the testimony of such person may be compelled in accordance with the provisions of part V of title 18.
 
@@ -202,7 +202,7 @@ Responsibility for materials; disclosure.—(A) A false claims law investigator 
 
 &emsp;(3)
 
-Use of material, answers, or transcripts in other proceedings.—Whenever any attorney of the Department of Justice has been designated to appear before any court, grand jury, or Federal agency in any case or proceeding, the custodian of any documentary material, answers to interrogatories, or transcripts of oral testimony received under this section may deliver to such attorney such material, answers, or transcripts for official use in connection with any such case or proceeding as such attorney determines to be required. Upon the completion of any such case or proceeding, such attorney shall return to the custodian any such material, answers, or transcripts so delivered which have not passed into the control of such court, grand jury, or agency through introduction into the record of such case or proceeding.
+Use of material, answers, or transcripts in other proceedings.—Whenever any attorney of the Department of Justice hasbeen designated to appear before any court, grand jury, or Federal agency in any case or proceeding, the custodian of any documentary material, answers to interrogatories, or transcripts of oral testimony received under this section may deliver to such attorney such material, answers, or transcripts for official use in connection with any such case or proceeding as such attorney determines to be required. Upon the completion of any such case or proceeding, such attorney shall return to the custodian any such material, answers, or transcripts so delivered which have not passed into the control of such court, grand jury, or agency through introduction into the record of such case or proceeding.
 
 &emsp;(4)
 
@@ -268,7 +268,7 @@ Applicability of federal rules of civil procedure.—The Federal Rules of Civil 
 
 Disclosure Exemption.—Any documentary material, answers to written interrogatories, or oral testimony provided under any civil investigative demand issued under subsection (a) shall be exempt from disclosure under section 552 of title 5.
 
-(<i>l)</i>
+(<i>l</i>)
 
 Definitions.—For purposes of this section—
 

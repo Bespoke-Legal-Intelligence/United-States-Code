@@ -1,6 +1,6 @@
 ### §795r. Business opportunities for individuals with disabilities; promulgation of regulations; authorization of appropriations
 
-(a) The Commissioner, in consultation with the Secretary of Labor and the Secretary of Commerce, may make grants to, or enter into contracts with, individuals with disabilities to enable them to establish or operate commercial or other enterprises to develop or market their products or services. Within ninety days after November 6, 1978, the Commissioner shall promulgate regulations to carry out this section,including regulations specifying (1) the maximum amount of money which may be provided under this section to any participant, and (2) procedures for certification, by designated State units, of individuals eligible to participate in any program under this section.
+(a) The Commissioner, in consultation with the Secretary of Labor and the Secretary of Commerce, may make grants to, or enter into contracts with, individuals with disabilities to enable them to establish or operate commercial or other enterprises to develop or market their products or services. Within ninety days after November 6, 1978, the Commissioner shall promulgate regulations to carry out this section, including regulations specifying (1) the maximum amount of money which may be provided under this section to any participant, and (2) procedures for certification, by designated State units, of individuals eligible to participate in any program under this section.
 
 (b) There are authorized to be appropriated to carry out this section such sums as may be necessary for each of the 1993 through 1997 fiscal years.
 
@@ -17,14 +17,4 @@ Section was formerly classified to section 795h of this title prior to renumberi
 1988—Pub. L. 100–630 substituted “Secretary of Labor and the Secretary of Commerce” for “Secretaries of Labor and Commerce”.
 
 1986—Pub. L. 99–506 substituted “individuals with handicaps” for “handicapped individuals”.
-
-### SUBCHAPTER VII—INDEPENDENT
-
-### LIVING SERVICES AND CENTERS FOR
-
-### INDEPENDENT LIVING
-
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 706, 718b, 728, 743, 762, 2231 of this title.
 

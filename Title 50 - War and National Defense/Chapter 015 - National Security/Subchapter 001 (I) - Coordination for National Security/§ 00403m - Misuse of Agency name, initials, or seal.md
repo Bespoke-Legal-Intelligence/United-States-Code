@@ -6,7 +6,7 @@ No person may, except with the written permission of the Director, knowingly use
 
 #### (b) Injunction
 
-Whenever it appears to the Attorney General that any person is engaged or is about to engage in an act or practice which constitutes or will constitute conduct prohibited by subsection (a)of this section, the Attorney General may initiate a civil proceeding in a district court of the United States to enjoin such act or practice. Such court shall proceed as soon as practicable to the hearing and determination of such action and may, at any time before final determination, enter such restraining orders or prohibitions, or take such other action as is warranted, to prevent injury to the United States or to any person or class of persons for whose protection the action is brought.
+Whenever it appears to the Attorney General that any person is engaged or is about to engage in an act or practice which constitutes or will constitute conduct prohibited by subsection (a) of this section, the Attorney General may initiate a civil proceeding in a district court of the United States to enjoin such act or practice. Such court shall proceed as soon as practicable to the hearing and determination of such action and may, at any time before final determination, enter such restraining orders or prohibitions, or take such other action as is warranted, to prevent injury to the United States or to any person or class of persons for whose protection the action is brought.
 
 (June 20, 1949, ch. 227, §13, as added Dec. 4, 1981, Pub. L. 97–89, title V, §503, 95 Stat. 1153.)
 
@@ -16,7 +16,7 @@ Section was enacted as part of the Central Intelligence Agency Act of 1949, and 
 
 #### Effective Date
 
-Section effective Oct. 1, 1981, see section 806 of Pub. L. 97–89, set out as a note under section 1601 of Title 10, Armed Forces.
+Section effective Oct. 1, 1981, see section 806 of Pub. L. 97–89, set out as a note under section 1621 of Title 10, Armed Forces.
 
 #### Section Referred to in Other Sections
 

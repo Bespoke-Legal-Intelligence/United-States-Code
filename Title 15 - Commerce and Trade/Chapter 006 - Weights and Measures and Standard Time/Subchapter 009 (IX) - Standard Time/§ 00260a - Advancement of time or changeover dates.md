@@ -46,7 +46,7 @@ Section 2(c) of Pub. L. 99–359 provided that: “Any law in effect on the date
 
 &emsp;“(2) adopted pursuant to section 3(a)(1) of such Act by a State that lies entirely within one time zone,
 
-> shall be held and considered to remain in effect as the exercise by that State of the exemption permitted bysuch Act \[see 15 U.S.C. 260a(a)\] unless that State, by law, provides that such exemption shall not apply.”
+> shall be held and considered to remain in effect as the exercise by that State of the exemption permitted by such Act \[see 15 U.S.C. 260a(a)\] unless that State, by law, provides that such exemption shall not apply.”
 
 #### Adjustment by General Rules or Interim Action With Respect to Hours of Operation of Daytime Standard Amplitude Modulation Broadcast Stations
 
@@ -66,9 +66,9 @@ Pub. L. 93–182, Dec. 15, 1973, 87 Stat. 707, as amended by Pub. L. 93–434, O
 
 Ex. Ord. No. 11751, Dec. 15, 1973, 38 F.R. 34725, provided:
 
-By virtue of the authority vested in me by section 3(b) of the Emergency Daylight Savings Time Energy Conservation Act of 1973 (Public Law 93–182) (hereinafter “the Act”) \[set out as a note above\], section 301 of title 3 of the United States Code, and as President of the United States, it is hereby ordered as follows:
+By virtue of the authority vested in me by section 3(b) of the Emergency Daylight Savings Time Energy Conservation Act of 1973 (Public Law 93–182) (hereinafter “the Act”) \[formerly set out above\], section 301 of title 3 of the United States Code, and as President of the United States, it is hereby ordered as follows:
 
-Section 1. The Secretary of Transportation (hereinafter “the Secretary”) is hereby designated and empowered to exercise the authority vested in me by section 3(b) of the Act \[set out as a note above\] to grant an exemption from section 3(a) of the Act (which establishes daylight saving time as standard time) \[set out as a note above\], or a realignment of a time zone limit, pursuant to a proclamation of a Governor of a State finding that the exemption or realignment is necessary to avoid undue hardship or to conserve fuel in the State or a part thereof.
+Section 1. The Secretary of Transportation (hereinafter “the Secretary”) is hereby designated and empowered to exercise the authority vested in me by section 3(b) of the Act \[formerly set out above\] to grant an exemption from section 3(a) of the Act (which establishes daylight saving time as standard time), or a realignment of a time zone limit, pursuant to a proclamation of a Governor of a State finding that the exemption or realignment is necessary to avoid undue hardship or to conserve fuel in the State or a part thereof.
 
 Sec. 2. In deciding to grant or deny an exemption or realignment, the Secretary shall consider, among other things, the policy of the United States, as expressed in sections 2 and 4 of the Uniform Time Act of 1966 (80 Stat. 107, 108; 15 U.S.C. 260, 261), to promote the adoption and observance of uniform time within the standard time zones of the United States and the convenience of commerce, as well as possible energy savings, undue hardship to large segments of the population, and the possible impact on the success of and cooperation with the national energy conservation program.
 

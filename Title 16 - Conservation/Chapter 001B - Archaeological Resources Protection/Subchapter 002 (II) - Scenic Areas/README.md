@@ -47,3 +47,4 @@
 - [&sect; 00544p - Severability](%C2%A7%2000544p%20-%20Severability.md)
 - [&sect; 00545 - Mount Pleasant National Scenic Area; purposes](%C2%A7%2000545%20-%20Mount%20Pleasant%20National%20Scenic%20Area%3B%20purposes.md)
 - [&sect; 00545a - Establishment of Mount Pleasant National Scenic Area](%C2%A7%2000545a%20-%20Establishment%20of%20Mount%20Pleasant%20National%20Scenic%20Area.md)
+- [&sect; 00545b - Opal Creek Wilderness and Scenic Recreation Area](%C2%A7%2000545b%20-%20Opal%20Creek%20Wilderness%20and%20Scenic%20Recreation%20Area.md)

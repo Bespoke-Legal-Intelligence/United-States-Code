@@ -8,7 +8,7 @@ Whoever receives in interstate or foreign commerce, or conceals, stores, barters
 
 Shall be fined under this title or imprisoned not more than ten years, or both.
 
-This section shall not apply to any falsely made, forged, altered, counterfeited, or spurious representation of an obligation or other security of the United States or of an obligation, bond,certificate, security, treasury note, bill, promise to pay, or bank note, issued by any foreign government. This section also shall not apply to any falsely made, forged, altered, counterfeited, or spurious representation of any bank note or bill issued by a bank or corporation of any foreign country which is intended by the laws or usage of such country to circulate as money.
+This section shall not apply to any falsely made, forged, altered, counterfeited, or spurious representation of an obligation or other security of the United States or of an obligation, bond, certificate, security, treasury note, bill, promise to pay, or bank note, issued by any foreign government. This section also shall not apply to any falsely made, forged, altered, counterfeited, or spurious representation of any bank note or bill issued by a bank or corporation of any foreign country which is intended by the laws or usage of such country to circulate as money.
 
 For purposes of this section, the term “State” includes a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
 

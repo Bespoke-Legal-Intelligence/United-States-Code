@@ -28,7 +28,7 @@ In general.—The Secretary of the Treasury may, by regulation or order, require
 
 &emsp;(2)
 
-Reportable transaction defined.—For purposes of this subsection, the term “reportable transaction” means any transaction involving coins or currency (or such other monetary instruments as the Secretary may describe in the regulation or order) the totalamounts or denominations of which are equal to or greater than an amount which the Secretary may prescribe.
+Reportable transaction defined.—For purposes of this subsection, the term “reportable transaction” means any transaction involving coins or currency (or such other monetary instruments as the Secretary may describe in the regulation or order) the total amounts or denominations of which are equal to or greater than an amount which the Secretary may prescribe.
 
 (c)
 

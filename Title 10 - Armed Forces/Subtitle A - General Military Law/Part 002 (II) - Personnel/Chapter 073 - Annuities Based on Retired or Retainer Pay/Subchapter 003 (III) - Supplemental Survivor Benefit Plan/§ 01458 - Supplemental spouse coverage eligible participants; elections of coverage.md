@@ -10,7 +10,7 @@ In general.—A person who provides an annuity for a spouse or former spouse und
 
 &emsp;(2)
 
-Coverage contingent on concurrent sbp coverage.—When a person providing a supplemental spouse annuity under this subchapter ceases to be a participant under the SurvivorBenefit Plan, that person's coverage under this subchapter automatically terminates.
+Coverage contingent on concurrent sbp coverage.—When a person providing a supplemental spouse annuity under this subchapter ceases to be a participant under the Survivor Benefit Plan, that person's coverage under this subchapter automatically terminates.
 
 &emsp;(3)
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Administrator may make grants to the appropriate agencies of 1 or more States for the purpose of establishing up to 10 military-style boot camps for juvenile delinquents (referred to as “boot camps”).
+The Administrator may make grants to the appropriate agencies of 1 or more States for thepurpose of establishing up to 10 military-style boot camps for juvenile delinquents (referred to as “boot camps”).
 
 #### (b) Location
 

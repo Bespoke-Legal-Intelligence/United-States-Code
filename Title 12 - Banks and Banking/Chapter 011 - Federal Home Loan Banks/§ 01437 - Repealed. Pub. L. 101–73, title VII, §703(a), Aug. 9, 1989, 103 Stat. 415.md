@@ -174,7 +174,7 @@ Regulations Relating to Insurance Functions.—All regulations and orders of the
 
 Identification of Regulations Which Remain in Effect Pursuant to This Section.—Before the end of the 60-day period beginning on the date of the enactment of this Act \[Aug. 9, 1989\], the Director of the Office of Thrift Supervision and the Chairperson of the Federal Deposit Insurance Corporation shall—
 
-&emsp;“(1) identify the regulations and orders referred to in subsection (a) of this section in accordance with the allocation of authority between them under this Act \[see Tables for classification\] and the amendments made by this Act; and
+&emsp;“(1) identify the regulations and orders referred to in subsection (a) of this section in accordance withthe allocation of authority between them under this Act \[see Tables for classification\] and the amendments made by this Act; and
 
 &emsp;“(2) promptly publish notice of such identification in the Federal Register.
 
@@ -244,7 +244,7 @@ Treatment of References in Adjustable Rate Mortgage Instruments.—
 
 &emsp;“(1)
 
-In general.—For purposes of adjustable rate mortgage instruments that are in effect as of the date of enactment of this Act \[Aug. 9, 1989\], any reference in the instrument to the Federal Savings and Loan Insurance Corporation, the Federal Home Loan Bank Board, or institutions insured by the Federal Savings and Loan Insurance Corporation before such date shall be treated as a reference to the Federal Deposit Insurance Corporation, the Federal Housing Finance Board, the Office of Thrift Supervision, or institutions which are members of the Savings Association Insurance Fund, as appropriate on the basis of the transfer of functions pursuant to this Act \[seeTables for classification\], unless the context of the reference requires otherwise.
+In general.—For purposes of adjustable rate mortgage instruments that are in effect as of the date of enactment of this Act \[Aug. 9, 1989\], any reference in the instrument to the Federal Savings and Loan Insurance Corporation, the Federal Home Loan Bank Board, or institutions insured by the Federal Savings and Loan Insurance Corporation before such date shall be treated as a reference to the Federal Deposit Insurance Corporation, the Federal Housing Finance Board, the Office of Thrift Supervision, or institutions which are members of the Savings Association Insurance Fund, as appropriate on the basis of the transfer of functions pursuant to this Act \[see Tables for classification\], unless the context of the reference requires otherwise.
 
 &emsp;“(2)
 
@@ -266,7 +266,7 @@ Requirements relating to substitute indexes.—If any agency can no longer make 
 
 &emsp;&emsp;“(A) the new index is based upon data substantially similar to that of the original index; and
 
-&emsp;&emsp;“(B) the substitution of the new index will result in an interest rate substantially similar to the rate in effect at the time the original index became unavailable.
+&emsp;&emsp;“(B) the substitution of the new index will result in an interest rate substantially similar to the ratein effect at the time the original index became unavailable.
 
 #### “SEC. 403. DETERMINATION OF TRANSFERRED FUNCTIONS AND EMPLOYEES.
 
@@ -358,7 +358,7 @@ Health Insurance.—If the health insurance program of a transferred employee is
 
 “(f)
 
-Equitable Treatment.—The Director of the Office of Thrift Supervision or the Chairperson of the Federal Housing Finance Board shall take such action as is necessary on a case-by-case basis so that employees transferring under this section receive equitabletreatment regarding credit for prior service with a Federal entity or instrumentality, or with a Federal Home Loan Bank or joint office of such Banks, with respect to the transferring employees’ retirement accounts and the transferring employees’ accrued leave or vacation time, in recognition of the transferring employees’ supervisory service.
+Equitable Treatment.—The Director of the Office of Thrift Supervision or the Chairperson of the Federal Housing Finance Board shall take such action as is necessary on a case-by-case basis so that employees transferring under this section receive equitable treatment regarding credit for prior service with a Federal entity or instrumentality, or with a Federal Home Loan Bank or joint office of such Banks, with respect to the transferring employees’ retirement accounts and the transferring employees’ accrued leave or vacation time, in recognition of the transferring employees’ supervisory service.
 
 “(g)
 
@@ -524,7 +524,7 @@ Appearance.—The Federal Home Loan Bank Board and the Federal Savings and Loan 
 
 “(d)
 
-Guidelines for Employment of Outside Accountants, Attorneys, Conservators, and Other Consultants.—Before the end of the 6-month period beginning on the date of the enactment of this Act \[Aug. 10, 1987\], the Federal Home Loan Bank Board shall submit to the Committee on Banking, Financeand Urban Affairs of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate a report containing guidelines to improve the management of and control over all outside accountants, attorneys, conservators, consultants, and other persons whose services are employed by the Board, the Federal Savings and Loan Insurance Corporation, the Federal Asset Disposition Association, the principal supervisory agent for any Federal home loan bank district, or any other entity created, owned, or controlled by the Board in connection with any function for which the Board has direct or indirect regulatory or supervisory responsibility.”
+Guidelines for Employment of Outside Accountants, Attorneys, Conservators, and Other Consultants.—Before the end of the 6-month period beginning on the date of the enactment of this Act \[Aug. 10, 1987\], the Federal Home Loan Bank Board shall submit to the Committee on Banking, Finance and Urban Affairs of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate a report containing guidelines to improve the management of and control over all outside accountants, attorneys, conservators, consultants, and other persons whose services are employed by the Board, the Federal Savings and Loan Insurance Corporation, the Federal Asset Disposition Association, the principal supervisory agent for any Federal home loan bank district, or any other entity created, owned, or controlled by the Board in connection with any function for which the Board has direct or indirect regulatory or supervisory responsibility.”
 
 #### Study and Reports Concerning Direct Investments
 

@@ -76,19 +76,17 @@ Definitions.—In this section:
 
 &emsp;(1)
 
-Covered contract.—The term “covered contract” has the meaning given that term in section 2324(m) <sup>1</sup> of this title.
+Covered contract.—The term “covered contract” has the meaning given that term in section 2324(<i>l</i>) of this title.
 
 &emsp;(2)
 
 Covered segment.—The term “covered segment”, with respect to a contractor, means a product division of the contractor that allocated more than $1,000,000 in independent research and development and bid and proposal costs to Department of Defense contracts during the preceding fiscal year. In the case of a contractor that has no product divisions, such term means the contractor as a whole.
 
-(Added Pub. L. 101–510, div. A, title VIII, §824(a)(1), Nov. 5, 1990, 104 Stat. 1603; amended Pub. L. 102–25, title VII, §701(c), Apr. 6, 1991, 105 Stat. 113; Pub. L. 102–190, div. A, title VIII, §802(a)(1), Dec. 5, 1991, 105 Stat. 1412; Pub. L. 102–484, div. A, title X, §1052(27), Oct. 23, 1992, 106 Stat. 2500; Pub. L. 103–35, title II, §201(c)(5), May 31, 1993, 107 Stat. 98.)
-
-#### References in Text
-
-Section 2324(m) of this title, referred to in subsec. (i)(1), was repealed by Pub. L. 103–355, title II, §2101(d), Oct. 13, 1994, 108 Stat. 3308. However, the term “covered contract” is defined elsewhere in that section.
+(Added Pub. L. 101–510, div. A, title VIII, §824(a)(1), Nov. 5, 1990, 104 Stat. 1603; amended Pub. L. 102–25, title VII, §701(c), Apr. 6, 1991, 105 Stat. 113; Pub. L. 102–190, div. A, title VIII, §802(a)(1), Dec. 5, 1991, 105 Stat. 1412; Pub. L. 102–484, div. A, title X, §1052(27), Oct. 23, 1992, 106 Stat. 2500; Pub. L. 103–35, title II, §201(c)(5), May 31, 1993, 107 Stat. 98; Pub. L. 104–106, div. D, title XLIII, §4321(b)(11), Feb. 10, 1996, 110 Stat. 672.)
 
 #### Amendments
+
+1996—Subsec. (i)(1). Pub. L. 104–106 substituted “2324(<i>l</i>)” for “2324(m)”.
 
 1993—Subsec. (g)(5). Pub. L. 103–35 substituted “section 2506” for “section 2522”.
 
@@ -97,6 +95,10 @@ Section 2324(m) of this title, referred to in subsec. (i)(1), was repealed by Pu
 1991—Pub. L. 102–190 substituted section catchline for one which read “Independent research and development” and amended text generally, substituting present provisions for provisions authorizing payment of independent research and development or bid and proposal costs, encouraging contractors to engage in research and development activities, and authorizing advance agreements regarding the manner and extent in which the Department of Defense may pay independent research and development costs or bid and proposal costs.
 
 Subsec. (d)(2)(B). Pub. L. 102–25 substituted “subsection (b), including” for “subsection (b) or”.
+
+#### Effective Date of 1996 Amendment
+
+For effective date and applicability of amendment by Pub. L. 104–106, see section 4401 of Pub. L. 104–106, set out as a note under section 251 of Title 41, Public Contracts.
 
 #### Effective Date of 1991 Amendment
 
@@ -109,6 +111,4 @@ Section 802(b) of Pub. L. 102–190 provided that: “The Secretary of Defense s
 #### Study by Office of Technology Assessment
 
 Section 802(c) of Pub. L. 102–190 directed Director of the Office of Technology Assessment to conduct a study to determine effect of regulations prescribed under this section on the achievement of policy stated in subsec. (g) of this section and submit a report containing results of such study to Committees on Armed Services of Senate and House of Representatives not later than Dec. 1, 1995, prior to repeal by Pub. L. 103–160, div. A, title II, §266, Nov. 30, 1993, 107 Stat. 1611.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

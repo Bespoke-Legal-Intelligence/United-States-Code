@@ -70,9 +70,23 @@ Every organization described in section 501(c)(3) which is subject to the requir
 
 &emsp;&emsp;(A) diversion of funds from the organization's exempt purpose, or
 
-&emsp;&emsp;(B) misallocation of revenues or expenses, and
+&emsp;&emsp;(B) misallocation of revenues or expenses,
 
-&emsp;(10) such other information for purposes of carrying out the internal revenue laws as the Secretary may require.
+&emsp;(10) the respective amounts (if any) of the taxes paid by the organization during the taxable year under the following provisions:
+
+&emsp;&emsp;(A) section 4911 (relating to tax on excess expenditures to influence legislation),
+
+&emsp;&emsp;(B) section 4912 (relating to tax on disqualifying lobbying expenditures of certain organizations), and
+
+&emsp;&emsp;(C) section 4955 (relating to taxes on political expenditures of section 501(c)(3) organizations),
+
+&emsp;(11) the respective amounts (if any) of the taxes paid by the organization, or any disqualified person with respect to such organization, during the taxable year under section 4958 (relating to taxes on private excess benefit from certain charitable organizations),
+
+&emsp;(12) such information as the Secretary may require with respect to any excess benefit transaction (as defined in section 4958),
+
+&emsp;(13) such information with respect to disqualified persons as the Secretary may prescribe, and
+
+&emsp;(14) such other information for purposes of carrying out the internal revenue laws as the Secretary may require.
 
 > For purposes of paragraph (8), if section 4911(f) applies to the organization for the taxable year, such organization shall furnish the amounts with respect to the affiliated group as well as with respect to such organization.
 
@@ -116,11 +130,15 @@ The following organizations shall comply with the requirements of this section i
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;This subsection shall apply to any organization which is exempt from taxation under this subtitle other than an organization described in section 501(c)(3).
+&emsp;&emsp;&emsp;This subsection shall apply to any organization which is exempt from taxation under section 501 other than an organization described in section 501(c)(3).
 
 #### (ii) Special rule for in-house expenditures
 
 &emsp;&emsp;&emsp;This subsection shall not apply to the in-house expenditures (within the meaning of section 162(e)(5)(B)(ii)) of an organization for a taxable year if such expenditures do not exceed $2,000. In determining whether a taxpayer exceeds the $2,000 limit under this clause, there shall not be taken into account overhead costs otherwise allocable to activities described in subparagraphs (A) and (D) of section 162(e)(1).
+
+#### (iii) Coordination with section 527(f)
+
+&emsp;&emsp;&emsp;This subsection shall not apply to any amount on which tax is imposed by reason of section 527(f).
 
 #### (C) Allocation
 
@@ -158,7 +176,11 @@ The following organizations shall comply with the requirements of this section i
 
 &emsp;Paragraph (1)(A) shall not apply to an organization which establishes to the satisfaction of the Secretary that substantially all of the dues or other similar amounts paid by persons to such organization are not deductible without regard to section 162(e).
 
-#### (f) Cross references
+#### (f) Certain organizations described in section 501(c)(4)
+
+Every organization described in section 501(c)(4) which is subject to the requirements of subsection (a) shall include on the return required under subsection (a) the information referred to in paragraphs (11), (12) and (13) of subsection (b) with respect to such organization.
+
+#### (g) Cross references
 
 &emsp;&emsp;<b>For provisions relating to statements, etc., regarding exempt status of organizations, see section 6001.</b>
 
@@ -166,19 +188,27 @@ The following organizations shall comply with the requirements of this section i
 
 &emsp;&emsp;<b>For provisions relating to information required in connection with certain plans of deferred compensation, see section 6058.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 741; Sept. 2, 1958, Pub. L. 85–866, title I, §75(b), 72 Stat. 1661; Dec. 30, 1969, Pub. L. 91–172, title I, §101(d)(1), (2), (j)(30), (31), 83 Stat. 519, 520, 529; Sept. 2, 1974, Pub. L. 93–406, title II, §1031(c)(2), 88 Stat. 946; Oct. 4, 1976, Pub. L. 94–455, title XIII, §1307(a)(4), title XIX, §1906(b)(13)(A), 90 Stat. 1722, 1834; Dec. 28, 1980, Pub. L. 96–603, §1(a), 94 Stat. 3503; Oct. 22, 1986, Pub. L. 99–514, title XV, §1501(d)(1)(C), 100 Stat. 2740; Dec. 22, 1987, Pub. L. 100–203, title X, §10703(a), 101 Stat. 1330–460; Aug. 10, 1993, Pub. L. 103–66, title XIII, §13222(c), 107 Stat. 480.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 741; Sept. 2, 1958, Pub. L. 85–866, title I, §75(b), 72 Stat. 1661; Dec. 30, 1969, Pub. L. 91–172, title I, §101(d)(1), (2), (j)(30), (31), 83 Stat. 519, 520, 529; Sept. 2, 1974, Pub. L. 93–406, title II, §1031(c)(2), 88 Stat. 946; Oct. 4, 1976, Pub. L. 94–455, title XIII, §1307(a)(4), title XIX, §1906(b)(13)(A), 90 Stat. 1722, 1834; Dec. 28, 1980, Pub. L. 96–603, §1(a), 94 Stat. 3503; Oct. 22, 1986, Pub. L. 99–514, title XV, §1501(d)(1)(C), 100 Stat. 2740; Dec. 22, 1987, Pub. L. 100–203, title X, §10703(a), 101 Stat. 1330–460; Aug. 10, 1993, Pub. L. 103–66, title XIII, §13222(c), 107 Stat. 480; July 30, 1996, Pub. L. 104–168, title XIII, §1312(a), (b), 110 Stat. 1479; Aug. 20, 1996, Pub. L. 104–188, title I, §1703(g), 110 Stat. 1876.)
 
 #### Adjustment of Exception Amount for Reporting Exception for Certain Exempt Organizations
 
-<i>For adjustment of “$50 exception” amount for tax years beginning in 1996 for determining applicability of subsec. (e) of this section to certain exempt organizations, see section 3.11 of Revenue Procedure 95–53, set out as a note under section 1 of this title.</i>
+<i>For adjustment of “$50 exception” amount for tax years beginning in 1997 for determining applicability of subsec. (e) of this section to certain exempt organizations, see section 3.14 of Revenue Procedure 96–59, set out as a note under section 1 of this title.</i>
 
 #### References in Text
 
-The internal revenue laws, referred to in subsecs. (a)(2)(B) and (b)(10), are classified generally to this title.
+The internal revenue laws, referred to in subsecs. (a)(2)(B) and (b)(14), are classified generally to this title.
 
 Section 6056 of this title, referred to in subsec. (c)(1), was repealed by Pub. L. 96–603, §1(c), Dec. 28, 1980, 94 Stat. 3504.
 
 #### Amendments
+
+1996—Subsec. (b)(10) to (14). Pub. L. 104–168, §1312(a), added pars. (10) to (13) and redesignated former par. (10) as (14).
+
+Subsec. (e)(1)(B)(i). Pub. L. 104–188, §1703(g)(2), substituted “section 501” for “this subtitle”.
+
+Subsec. (e)(1)(B)(iii). Pub. L. 104–188, §1703(g)(1), added subcl. (iii).
+
+Subsecs. (f), (g). Pub. L. 104–168, §1312(b), added subsec. (f) and redesignated former subsec. (f) as (g).
 
 1993—Subsecs. (e), (f). Pub. L. 103–66 added subsec. (e) and redesignated former subsec. (e) as (f).
 
@@ -211,6 +241,12 @@ Subsec. (b)(8). Pub. L. 91–172, §101(d)(2)(B), struck out par. (8) which made
 Subsec. (c). Pub. L. 91–172, §101(j)(31), inserted cross references to section 6043(b) and 6652(d).
 
 1958—Subsec. (b)(8). Pub. L. 85–866 added par. (8).
+
+#### Effective Date of 1996 Amendments
+
+Amendment by Pub. L. 104–188 effective as if included in the provision of the Revenue Reconciliation Act of 1993, Pub. L. 103–66, §§13001–13444, to which such amendment relates, see section 1703(<i>o</i>) of Pub. L. 104–188, set out as a note under section 39 of this title.
+
+Section 1312(c) of Pub. L. 104–168 provided that: “The amendments made by this section \[amending this section\] shall apply to returns for taxable years beginning after the date of the enactment of this Act \[July 30, 1996\].”
 
 #### Effective Date of 1993 Amendment
 

@@ -1,5 +1,5 @@
 
-20 U.S.C.<br>United States Code, 1995 Edition<br>Title 20 - EDUCATION<br>From the U.S. Government Publishing Office, www.gpo.gov
+20 U.S.C.<br>United States Code, 1996 Edition<br>Title 20 - EDUCATION<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 20—EDUCATION
 
@@ -21,7 +21,7 @@
 | [<b>13.</b>](Chapter%20013%20-%20Financial%20Assistance%20to%20Local%20Educational%20Agencies/README.md) | <b>Financial Assistance to Local Educational Agencies \[Omitted or Repealed\]</b> | <b>231</b> |
 | [<b>14.</b>](Chapter%20014%20-%20School%20Construction%20in%20Areas%20Affected%20by%20Federal%20Activities/README.md) | <b>School Construction in Areas Affected by Federal Activities \[Transferred to Chapter 19\]</b> | <b>251</b> |
 | [<b>15.</b>](Chapter%20015%20-%20Studies%20and%20Research%20on%20Problems%20in%20Education/README.md) | <b>Studies and Research on Problems in Education \[Omitted or Repealed\]</b> | <b>331</b> |
-| [<b>16.</b>](Chapter%20016%20-%20Public%20Library%20Services%20and%20Construction/README.md) | <b>Public Library Services and Construction</b> | <b>351</b> |
+| [<b>16.</b>](Chapter%20016%20-%20Public%20Library%20Services%20and%20Construction/README.md) | <b>Public Library Services and Construction \[Repealed\]</b> | <b>351</b> |
 | [<b>17.</b>](Chapter%20017%20-%20National%20Defense%20Education%20Program/README.md) | <b>National Defense Education Program \[Omitted or Repealed\]</b> | <b>401</b> |
 | [<b>18.</b>](Chapter%20018%20-%20Grants%20for%20Teaching%20in%20the%20Education%20of%20Handicapped%20Children/README.md) | <b>Grants for Teaching in the Education of Handicapped Children \[Repealed\]</b> | <b>611</b> |
 | [<b>18A.</b>](Chapter%20018A%20-%20Early%20Education%20Programs%20for%20Handicapped%20Children/README.md) | <b>Early Education Programs for Handicapped Children \[Repealed\]</b> | <b>621</b> |
@@ -82,6 +82,7 @@
 | [<b>69.</b>](Chapter%20069%20-%20School-to-Work%20Opportunities/README.md) | <b>School-to-Work Opportunities</b> | <b>6101</b> |
 | <b>70.</b> | <b>Strengthening and Improvement of Elementary and Secondary Schools</b> | <b>6301</b> |
 | [<b>71.</b>](Chapter%20071%20-%20National%20Education%20Statistics/README.md) | <b>National Education Statistics</b> | <b>9001</b> |
+| [<b>72.</b>](Chapter%20072%20-%20Museum%20and%20Library%20Services/README.md) | <b>Museum and Library Services</b> | <b>9101</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -234,3 +235,4 @@ United States information and educational exchange programs, see section 1431 et
 - [Chapter 068 - National Education Reform](Chapter%20068%20-%20National%20Education%20Reform/README.md)
 - [Chapter 069 - School-to-Work Opportunities](Chapter%20069%20-%20School-to-Work%20Opportunities/README.md)
 - [Chapter 071 - National Education Statistics](Chapter%20071%20-%20National%20Education%20Statistics/README.md)
+- [Chapter 072 - Museum and Library Services](Chapter%20072%20-%20Museum%20and%20Library%20Services/README.md)

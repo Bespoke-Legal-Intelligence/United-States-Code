@@ -20,21 +20,27 @@
 
 &emsp;(B) a period of 180 days has elapsed after the date on which the notice is received by Congress.
 
-(c)(1) The Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives an annual report on the use of competitive procedures for the award of research and development contracts, and the award of construction contracts, to colleges and universities. Each such report shall include—
-
-&emsp;(A) a list of each college and university that, during the period covered by the report, received more than $1,000,000 in such contracts through the use of procedures other than competitive procedures; and
-
-&emsp;(B) the cumulative amount of such contracts received during that period by each such college and university.
-
-(2) Each report under paragraph (1) shall cover the preceding calendar year and shall be submitted not later than February 1 of the year after the year covered by the report.
-
-(Added Pub. L. 100–456, div. A, title II, §220(a), Sept. 29, 1988, 102 Stat. 1940; amended Pub. L. 101–189, div. A, title II, §252(a), (b)(1), (c)(1), Nov. 29, 1989, 103 Stat. 1404, 1405; Pub. L. 101–510, div. A, title XIII, §1311(4), Nov. 5, 1990, 104 Stat. 1669; Pub. L. 103–35, title II, §201(g)(5), May 31, 1993, 107 Stat. 100; Pub. L. 103–160, div. A, title VIII, §821(b), Nov. 30, 1993, 107 Stat. 1704; Pub. L. 103–337, div. A, title VIII, §813, Oct. 5, 1994, 108 Stat. 2816.)
+(Added Pub. L. 100–456, div. A, title II, §220(a), Sept. 29, 1988, 102 Stat. 1940; amended Pub. L. 101–189, div. A, title II, §252(a), (b)(1), (c)(1), Nov. 29, 1989, 103 Stat. 1404, 1405; Pub. L. 101–510, div. A, title XIII, §1311(4), Nov. 5, 1990, 104 Stat. 1669; Pub. L. 103–35, title II, §201(g)(5), May 31, 1993, 107 Stat. 100; Pub. L. 103–160, div. A, title VIII, §821(b), Nov. 30, 1993, 107 Stat. 1704; Pub. L. 103–337, div. A, title VIII, §813, Oct. 5, 1994, 108 Stat. 2816; Pub. L. 104–106, div. A, title II, §264, title XV, §1502(a)(1), Feb. 10, 1996, 110 Stat. 237, 502; Pub. L. 104–201, div. A, title II, §265, Sept. 23, 1996, 110 Stat. 2466.)
 
 #### Prior Provisions
 
 A prior section 2361 was renumbered section 2351 of this title.
 
 #### Amendments
+
+1996—Subsec. (c). Pub. L. 104–201 struck out subsec. (c) which read as follows:
+
+“(1) The Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives an annual report on the use of competitive procedures for the award of research and development contracts, and the award of construction contracts, to colleges and universities. Each such report shall include—
+
+&emsp;“(A) a list of each college and university that, during the period covered by the report, received more than $1,000,000 in such contracts through the use of procedures other than competitive procedures; and
+
+&emsp;“(B) the cumulative amount of such contracts received during that period by each such college and university.
+
+“(2) Each report under paragraph (1) shall cover the preceding fiscal year and shall be submitted not later than February 1 of the fiscal year after the fiscal year covered by the report.”
+
+Subsec. (c)(1). Pub. L. 104–106, §1502(a)(1), substituted “Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives” for “Committees on Armed Services of the Senate and House of Representatives”.
+
+Subsec. (c)(2). Pub. L. 104–106, §264, substituted “preceding fiscal year” for “preceding calendar year” and “the fiscal year after the fiscal year” for “the year after the year”.
 
 1994—Subsec. (c). Pub. L. 103–337 added subsec. (c).
 
@@ -61,10 +67,6 @@ Subsec. (c)(2). Pub. L. 101–510, §1311(4)(B), substituted “the preceding ca
 Subsec. (b). Pub. L. 101–189, §252(b)(1), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “A provision of law enacted after the date of the enactment of this section may not be construed as modifying or superseding the provisions of subsection (a) unless that provision of law specifically refers to this section and specifically states that such provision of law modifies or supersedes the provisions of this section.”
 
 Subsec. (c). Pub. L. 101–189, §252(c)(1), added subsec. (c).
-
-#### Change of Name
-
-Committee on Armed Services of House of Representatives treated as referring to Committee on National Security of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Effective Date of 1993 Amendment
 

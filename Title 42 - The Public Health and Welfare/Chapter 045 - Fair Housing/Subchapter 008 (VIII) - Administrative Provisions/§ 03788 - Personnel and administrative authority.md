@@ -6,7 +6,7 @@ The Assistant Attorney General, the Director of the Bureau of Justice Assistance
 
 #### (b) Use of available services; reimbursement
 
-The Office, the Bureau of Justice Assistance, the National Institute of Justice, and the Bureau of Justice Statistics are authorized, on a reimbursable basis when appropriate, to use theavailable services, equipment, personnel, and facilities of Federal, State, and local agencies to the extent deemed appropriate after giving due consideration to the effectiveness of such existing services, equipment, personnel, and facilities.
+The Office, the Bureau of Justice Assistance, the National Institute of Justice, and the Bureau of Justice Statistics are authorized, on a reimbursable basis when appropriate, to use the available services, equipment, personnel, and facilities of Federal, State, and local agencies to the extent deemed appropriate after giving due consideration to the effectiveness of such existing services, equipment, personnel, and facilities.
 
 #### (c) Other Federal agency performance of functions under this chapter; reimbursement
 
@@ -32,7 +32,7 @@ The Office, the Bureau of Justice Assistance, the National Institute of Justice,
 
 #### References in Text
 
-Provisions of title 5 relating to appointments, referred to in subsec. (c), are classified to section 3301 et seq. of Title 5, Government Organization and Employees.
+Provisions of title 5 relating to appointments, referred to in subsec. (c), are classified to section 3301 etseq. of Title 5, Government Organization and Employees.
 
 The Federal Advisory Committee Act, referred to in subsec. (e), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5.
 

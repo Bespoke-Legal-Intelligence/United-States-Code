@@ -1,7 +1,7 @@
 {
  "built_by": "uscode_git_v0.1.12",
  "eid": "USCODE-title46",
- "package": "USCODE-1995-title46",
+ "package": "USCODE-1996-title46",
  "pieces": [
   {
    "id": "46_",
@@ -14,61 +14,51 @@
     ],
     [
      "I",
-     436,
+     464,
      [
       [
-       4,
+       5,
        "[Page 2]"
       ]
      ]
     ],
     [
      "I",
-     1068,
+     1144,
      [
       [
-       7,
+       4,
        "[Page 3]"
       ]
      ]
     ],
     [
      "I",
-     1696,
+     1820,
      [
       [
-       5,
+       10,
        "[Page 4]"
       ]
      ]
     ],
     [
      "I",
-     2328,
+     2500,
      [
       [
-       4,
+       5,
        "[Page 5]"
       ]
      ]
     ],
     [
      "I",
-     2960,
+     3036,
      [
       [
-       37,
+       115,
        "[Page 6]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     3078,
-     [
-      [
-       116,
-       "[Page 7]"
       ]
      ]
     ]
@@ -76,7 +66,7 @@
    "path": "README.md",
    "printed_pages": [
     1,
-    7
+    6
    ]
   },
   {
@@ -84,16 +74,27 @@
    "marks": [],
    "path": "Subtitle 001 (I) - General/README.md",
    "printed_pages": [
-    7,
-    7
+    6,
+    6
    ]
   },
   {
    "id": "46_-Subtitle_II",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     65,
+     [
+      [
+       43,
+       "[Page 7]"
+      ]
+     ]
+    ]
+   ],
    "path": "Subtitle 002 (II) - Vessels and Seamen/README.md",
    "printed_pages": [
-    7,
+    6,
     7
    ]
   },
@@ -120,78 +121,77 @@
    "marks": [
     [
      "L",
-     6,
+     28,
      "[Page 8]",
      true
     ],
     [
      "L",
-     88,
+     100,
      "[Page 9]",
      true
     ],
     [
-     "I",
-     178,
-     [
-      [
-       92,
-       "[Page 10]"
-      ]
-     ]
+     "L",
+     192,
+     "[Page 10]",
+     true
     ],
     [
      "I",
-     264,
+     266,
      [
       [
-       161,
+       108,
        "[Page 11]"
       ]
      ]
     ],
     [
-     "L",
-     353,
-     "[Page 12]",
-     true
-    ],
-    [
      "I",
-     431,
+     351,
      [
       [
-       164,
-       "[Page 13]"
+       107,
+       "[Page 12]"
       ]
      ]
+    ],
+    [
+     "L",
+     427,
+     "[Page 13]",
+     true
     ],
     [
      "L",
      539,
      "[Page 14]",
      true
+    ],
+    [
+     "I",
+     625,
+     [
+      [
+       119,
+       "[Page 15]"
+      ]
+     ]
     ]
    ],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part A - General Provisions/Chapter 021 - General/§ 02101 - General definitions.md",
    "printed_pages": [
     7,
-    14
+    15
    ]
   },
   {
    "id": "46_2102",
-   "marks": [
-    [
-     "L",
-     36,
-     "[Page 15]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part A - General Provisions/Chapter 021 - General/§ 02102 - Limited definitions.md",
    "printed_pages": [
-    14,
+    15,
     15
    ]
   },
@@ -215,11 +215,22 @@
   },
   {
    "id": "46_2105",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       94,
+       "[Page 16]"
+      ]
+     ]
+    ]
+   ],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part A - General Provisions/Chapter 021 - General/§ 02105 - Report.md",
    "printed_pages": [
     15,
-    15
+    16
    ]
   },
   {
@@ -227,27 +238,16 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part A - General Provisions/Chapter 021 - General/§ 02106 - Liability in rem.md",
    "printed_pages": [
-    15,
-    15
+    16,
+    16
    ]
   },
   {
    "id": "46_2107",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       284,
-       "[Page 16]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part A - General Provisions/Chapter 021 - General/§ 02107 - Civil penalty procedures.md",
    "printed_pages": [
-    15,
+    16,
     16
    ]
   },
@@ -262,42 +262,54 @@
   },
   {
    "id": "46_2109",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     6,
+     "[Page 17]",
+     true
+    ]
+   ],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part A - General Provisions/Chapter 021 - General/§ 02109 - Public vessels.md",
    "printed_pages": [
     16,
-    16
+    17
    ]
   },
   {
    "id": "46_2110",
    "marks": [
     [
-     "L",
-     20,
-     "[Page 17]",
-     true
-    ],
-    [
-     "L",
-     90,
-     "[Page 18]",
-     true
+     "I",
+     58,
+     [
+      [
+       135,
+       "[Page 18]"
+      ]
+     ]
     ]
    ],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part A - General Provisions/Chapter 021 - General/§ 02110 - Fees.md",
    "printed_pages": [
-    16,
+    17,
     18
    ]
   },
   {
    "id": "46_2111",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     12,
+     "[Page 19]",
+     true
+    ]
+   ],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part A - General Provisions/Chapter 021 - General/§ 02111 - Pay for overtime services.md",
    "printed_pages": [
     18,
-    18
+    19
    ]
   },
   {
@@ -305,24 +317,28 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part A - General Provisions/Chapter 021 - General/§ 02112 - Authority to change working hours.md",
    "printed_pages": [
-    18,
-    18
+    19,
+    19
    ]
   },
   {
    "id": "46_2113",
    "marks": [
     [
-     "L",
-     6,
-     "[Page 19]",
-     true
+     "I",
+     36,
+     [
+      [
+       319,
+       "[Page 20]"
+      ]
+     ]
     ]
    ],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part A - General Provisions/Chapter 021 - General/§ 02113 - Authority to exempt certain vessels.md",
    "printed_pages": [
-    18,
-    19
+    19,
+    20
    ]
   },
   {
@@ -330,8 +346,17 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part A - General Provisions/Chapter 021 - General/§ 02114 - Protection of seamen against discrimination.md",
    "printed_pages": [
-    19,
-    19
+    20,
+    20
+   ]
+  },
+  {
+   "id": "46_2115",
+   "marks": [],
+   "path": "Subtitle 002 (II) - Vessels and Seamen/Part A - General Provisions/Chapter 021 - General/§ 02115 - Civil penalty to enforce alcohol and dangerous drug testing.md",
+   "printed_pages": [
+    20,
+    20
    ]
   },
   {
@@ -339,66 +364,62 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part A - General Provisions/Chapter 023 - Operation of Vessels Generally/README.md",
    "printed_pages": [
-    19,
-    19
+    20,
+    20
    ]
   },
   {
    "id": "46_2301",
-   "marks": [
-    [
-     "I",
-     16,
-     [
-      [
-       592,
-       "[Page 20]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part A - General Provisions/Chapter 023 - Operation of Vessels Generally/§ 02301 - Application.md",
    "printed_pages": [
-    19,
+    20,
     20
    ]
   },
   {
    "id": "46_2302",
-   "marks": [],
-   "path": "Subtitle 002 (II) - Vessels and Seamen/Part A - General Provisions/Chapter 023 - Operation of Vessels Generally/§ 02302 - Penalties for negligent operations.md",
-   "printed_pages": [
-    20,
-    20
-   ]
-  },
-  {
-   "id": "46_2303",
    "marks": [
     [
      "I",
-     28,
+     4,
      [
       [
-       6,
+       92,
        "[Page 21]"
       ]
      ]
     ]
    ],
-   "path": "Subtitle 002 (II) - Vessels and Seamen/Part A - General Provisions/Chapter 023 - Operation of Vessels Generally/§ 02303 - Duties related to marine casualty assistance and information.md",
+   "path": "Subtitle 002 (II) - Vessels and Seamen/Part A - General Provisions/Chapter 023 - Operation of Vessels Generally/§ 02302 - Penalties for negligent operations.md",
    "printed_pages": [
     20,
     21
    ]
   },
   {
-   "id": "46_2304",
+   "id": "46_2303",
    "marks": [],
-   "path": "Subtitle 002 (II) - Vessels and Seamen/Part A - General Provisions/Chapter 023 - Operation of Vessels Generally/§ 02304 - Duty to provide assistance at sea.md",
+   "path": "Subtitle 002 (II) - Vessels and Seamen/Part A - General Provisions/Chapter 023 - Operation of Vessels Generally/§ 02303 - Duties related to marine casualty assistance and information.md",
    "printed_pages": [
     21,
     21
+   ]
+  },
+  {
+   "id": "46_2304",
+   "marks": [
+    [
+     "L",
+     8,
+     "[Page 22]",
+     true
+    ]
+   ],
+   "path": "Subtitle 002 (II) - Vessels and Seamen/Part A - General Provisions/Chapter 023 - Operation of Vessels Generally/§ 02304 - Duty to provide assistance at sea.md",
+   "printed_pages": [
+    21,
+    22
    ]
   },
   {
@@ -406,8 +427,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part A - General Provisions/Chapter 023 - Operation of Vessels Generally/§ 02305 - Injunctions.md",
    "printed_pages": [
-    21,
-    21
+    22,
+    22
    ]
   },
   {
@@ -415,37 +436,33 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part A - General Provisions/Chapter 023 - Operation of Vessels Generally/§ 02306 - Vessel reporting requirements.md",
    "printed_pages": [
-    21,
-    21
+    22,
+    22
    ]
   },
   {
    "id": "46_-Subtitle_II-Part_B",
-   "marks": [
-    [
-     "I",
-     4,
-     [
-      [
-       525,
-       "[Page 22]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part B - Inspection and Regulation of Vessels/README.md",
    "printed_pages": [
-    21,
+    22,
     22
    ]
   },
   {
    "id": "46_-Subtitle_II-Part_B-ch31",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     16,
+     "[Page 23]",
+     true
+    ]
+   ],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part B - Inspection and Regulation of Vessels/Chapter 031 - General/README.md",
    "printed_pages": [
     22,
-    22
+    23
    ]
   },
   {
@@ -453,128 +470,199 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part B - Inspection and Regulation of Vessels/Chapter 031 - General/§ 03101 - Authority to suspend inspection.md",
    "printed_pages": [
-    22,
-    22
-   ]
-  },
-  {
-   "id": "46_3102",
-   "marks": [
-    [
-     "I",
-     30,
-     [
-      [
-       110,
-       "[Page 23]"
-      ]
-     ]
-    ]
-   ],
-   "path": "Subtitle 002 (II) - Vessels and Seamen/Part B - Inspection and Regulation of Vessels/Chapter 031 - General/§ 03102 - Immersion suits.md",
-   "printed_pages": [
-    22,
+    23,
     23
    ]
   },
   {
-   "id": "46_-Subtitle_II-Part_B-ch33",
+   "id": "46_3102",
    "marks": [],
-   "path": "Subtitle 002 (II) - Vessels and Seamen/Part B - Inspection and Regulation of Vessels/Chapter 033 - Inspection Generally/README.md",
+   "path": "Subtitle 002 (II) - Vessels and Seamen/Part B - Inspection and Regulation of Vessels/Chapter 031 - General/§ 03102 - Immersion suits.md",
    "printed_pages": [
     23,
     23
    ]
   },
   {
-   "id": "46_3301",
+   "id": "46_3103",
    "marks": [
     [
-     "I",
-     88,
-     [
-      [
-       105,
-       "[Page 24]"
-      ]
-     ]
+     "L",
+     8,
+     "[Page 24]",
+     true
     ]
    ],
-   "path": "Subtitle 002 (II) - Vessels and Seamen/Part B - Inspection and Regulation of Vessels/Chapter 033 - Inspection Generally/§ 03301 - Vessels subject to inspection.md",
+   "path": "Subtitle 002 (II) - Vessels and Seamen/Part B - Inspection and Regulation of Vessels/Chapter 031 - General/§ 03103 - Use of reports, documents, and records.md",
    "printed_pages": [
     23,
     24
    ]
   },
   {
-   "id": "46_3302",
+   "id": "46_-Subtitle_II-Part_B-ch32",
+   "marks": [],
+   "path": "Subtitle 002 (II) - Vessels and Seamen/Part B - Inspection and Regulation of Vessels/Chapter 032 - Management of Vessels/README.md",
+   "printed_pages": [
+    24,
+    24
+   ]
+  },
+  {
+   "id": "46_3201",
+   "marks": [],
+   "path": "Subtitle 002 (II) - Vessels and Seamen/Part B - Inspection and Regulation of Vessels/Chapter 032 - Management of Vessels/§ 03201 - Definitions.md",
+   "printed_pages": [
+    24,
+    24
+   ]
+  },
+  {
+   "id": "46_3202",
+   "marks": [],
+   "path": "Subtitle 002 (II) - Vessels and Seamen/Part B - Inspection and Regulation of Vessels/Chapter 032 - Management of Vessels/§ 03202 - Application.md",
+   "printed_pages": [
+    24,
+    24
+   ]
+  },
+  {
+   "id": "46_3203",
+   "marks": [],
+   "path": "Subtitle 002 (II) - Vessels and Seamen/Part B - Inspection and Regulation of Vessels/Chapter 032 - Management of Vessels/§ 03203 - Safety management system.md",
+   "printed_pages": [
+    24,
+    24
+   ]
+  },
+  {
+   "id": "46_3204",
    "marks": [
     [
      "I",
-     58,
+     4,
      [
       [
-       176,
+       81,
        "[Page 25]"
       ]
      ]
-    ],
-    [
-     "L",
-     132,
-     "[Page 26]",
-     true
     ]
    ],
-   "path": "Subtitle 002 (II) - Vessels and Seamen/Part B - Inspection and Regulation of Vessels/Chapter 033 - Inspection Generally/§ 03302 - Exemptions.md",
+   "path": "Subtitle 002 (II) - Vessels and Seamen/Part B - Inspection and Regulation of Vessels/Chapter 032 - Management of Vessels/§ 03204 - Implementation of safety management system.md",
    "printed_pages": [
     24,
+    25
+   ]
+  },
+  {
+   "id": "46_3205",
+   "marks": [],
+   "path": "Subtitle 002 (II) - Vessels and Seamen/Part B - Inspection and Regulation of Vessels/Chapter 032 - Management of Vessels/§ 03205 - Certification.md",
+   "printed_pages": [
+    25,
+    25
+   ]
+  },
+  {
+   "id": "46_-Subtitle_II-Part_B-ch33",
+   "marks": [
+    [
+     "I",
+     33,
+     [
+      [
+       271,
+       "[Page 26]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Subtitle 002 (II) - Vessels and Seamen/Part B - Inspection and Regulation of Vessels/Chapter 033 - Inspection Generally/README.md",
+   "printed_pages": [
+    25,
     26
    ]
   },
   {
-   "id": "46_3303",
+   "id": "46_3301",
+   "marks": [],
+   "path": "Subtitle 002 (II) - Vessels and Seamen/Part B - Inspection and Regulation of Vessels/Chapter 033 - Inspection Generally/§ 03301 - Vessels subject to inspection.md",
+   "printed_pages": [
+    26,
+    26
+   ]
+  },
+  {
+   "id": "46_3302",
    "marks": [
     [
      "L",
-     28,
+     4,
      "[Page 27]",
      true
-    ]
-   ],
-   "path": "Subtitle 002 (II) - Vessels and Seamen/Part B - Inspection and Regulation of Vessels/Chapter 033 - Inspection Generally/§ 03303 - Reciprocity for foreign vessels.md",
-   "printed_pages": [
-    26,
-    27
-   ]
-  },
-  {
-   "id": "46_3304",
-   "marks": [],
-   "path": "Subtitle 002 (II) - Vessels and Seamen/Part B - Inspection and Regulation of Vessels/Chapter 033 - Inspection Generally/§ 03304 - Transporting individuals in addition to crew.md",
-   "printed_pages": [
-    27,
-    27
-   ]
-  },
-  {
-   "id": "46_3305",
-   "marks": [
+    ],
+    [
+     "L",
+     70,
+     "[Page 28]",
+     true
+    ],
+    [
+     "L",
+     122,
+     "[Page 29]",
+     true
+    ],
     [
      "I",
-     74,
+     214,
      [
       [
-       716,
-       "[Page 28]"
+       113,
+       "[Page 30]"
       ]
      ]
     ]
    ],
+   "path": "Subtitle 002 (II) - Vessels and Seamen/Part B - Inspection and Regulation of Vessels/Chapter 033 - Inspection Generally/§ 03302 - Exemptions.md",
+   "printed_pages": [
+    26,
+    30
+   ]
+  },
+  {
+   "id": "46_3303",
+   "marks": [],
+   "path": "Subtitle 002 (II) - Vessels and Seamen/Part B - Inspection and Regulation of Vessels/Chapter 033 - Inspection Generally/§ 03303 - Reciprocity for foreign vessels.md",
+   "printed_pages": [
+    30,
+    30
+   ]
+  },
+  {
+   "id": "46_3304",
+   "marks": [
+    [
+     "L",
+     34,
+     "[Page 31]",
+     true
+    ]
+   ],
+   "path": "Subtitle 002 (II) - Vessels and Seamen/Part B - Inspection and Regulation of Vessels/Chapter 033 - Inspection Generally/§ 03304 - Transporting individuals in addition to crew.md",
+   "printed_pages": [
+    30,
+    31
+   ]
+  },
+  {
+   "id": "46_3305",
+   "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part B - Inspection and Regulation of Vessels/Chapter 033 - Inspection Generally/§ 03305 - Scope and standards of inspection.md",
    "printed_pages": [
-    27,
-    28
+    31,
+    31
    ]
   },
   {
@@ -582,19 +670,25 @@
    "marks": [
     [
      "I",
-     72,
+     16,
      [
       [
-       6,
-       "[Page 29]"
+       89,
+       "[Page 32]"
       ]
      ]
+    ],
+    [
+     "L",
+     158,
+     "[Page 33]",
+     true
     ]
    ],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part B - Inspection and Regulation of Vessels/Chapter 033 - Inspection Generally/§ 03306 - Regulations.md",
    "printed_pages": [
-    28,
-    29
+    31,
+    33
    ]
   },
   {
@@ -602,8 +696,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part B - Inspection and Regulation of Vessels/Chapter 033 - Inspection Generally/§ 03307 - Frequency of inspection.md",
    "printed_pages": [
-    29,
-    29
+    33,
+    33
    ]
   },
   {
@@ -611,8 +705,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part B - Inspection and Regulation of Vessels/Chapter 033 - Inspection Generally/§ 03308 - Examinations.md",
    "printed_pages": [
-    29,
-    29
+    33,
+    33
    ]
   },
   {
@@ -620,19 +714,19 @@
    "marks": [
     [
      "I",
-     6,
+     2,
      [
       [
-       96,
-       "[Page 30]"
+       187,
+       "[Page 34]"
       ]
      ]
     ]
    ],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part B - Inspection and Regulation of Vessels/Chapter 033 - Inspection Generally/§ 03309 - Certificate of inspection.md",
    "printed_pages": [
-    29,
-    30
+    33,
+    34
    ]
   },
   {
@@ -640,8 +734,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part B - Inspection and Regulation of Vessels/Chapter 033 - Inspection Generally/§ 03310 - Records of certification.md",
    "printed_pages": [
-    30,
-    30
+    34,
+    34
    ]
   },
   {
@@ -649,8 +743,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part B - Inspection and Regulation of Vessels/Chapter 033 - Inspection Generally/§ 03311 - Certificate of inspection required.md",
    "printed_pages": [
-    30,
-    30
+    34,
+    34
    ]
   },
   {
@@ -658,8 +752,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part B - Inspection and Regulation of Vessels/Chapter 033 - Inspection Generally/§ 03312 - Display of certificate of inspection.md",
    "printed_pages": [
-    30,
-    30
+    34,
+    34
    ]
   },
   {
@@ -667,19 +761,19 @@
    "marks": [
     [
      "I",
-     14,
+     6,
      [
       [
-       97,
-       "[Page 31]"
+       98,
+       "[Page 35]"
       ]
      ]
     ]
    ],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part B - Inspection and Regulation of Vessels/Chapter 033 - Inspection Generally/§ 03313 - Compliance with certificate of inspection.md",
    "printed_pages": [
-    30,
-    31
+    34,
+    35
    ]
   },
   {
@@ -687,8 +781,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part B - Inspection and Regulation of Vessels/Chapter 033 - Inspection Generally/§ 03314 - Expiration of certificate of inspection.md",
    "printed_pages": [
-    31,
-    31
+    35,
+    35
    ]
   },
   {
@@ -696,8 +790,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part B - Inspection and Regulation of Vessels/Chapter 033 - Inspection Generally/§ 03315 - Disclosure of defects and protection of informants.md",
    "printed_pages": [
-    31,
-    31
+    35,
+    35
    ]
   },
   {
@@ -705,50 +799,59 @@
    "marks": [
     [
      "I",
-     6,
+     2,
      [
       [
-       92,
-       "[Page 32]"
+       549,
+       "[Page 36]"
       ]
      ]
     ]
    ],
-   "path": "Subtitle 002 (II) - Vessels and Seamen/Part B - Inspection and Regulation of Vessels/Chapter 033 - Inspection Generally/§ 03316 - United States classification societies.md",
+   "path": "Subtitle 002 (II) - Vessels and Seamen/Part B - Inspection and Regulation of Vessels/Chapter 033 - Inspection Generally/§ 03316 - Classification societies.md",
    "printed_pages": [
-    31,
-    32
+    35,
+    36
    ]
   },
   {
    "id": "46_3317",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     20,
+     [
+      [
+       105,
+       "[Page 37]"
+      ]
+     ]
+    ]
+   ],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part B - Inspection and Regulation of Vessels/Chapter 033 - Inspection Generally/§ 03317 - Fees.md",
    "printed_pages": [
-    32,
-    32
+    36,
+    37
    ]
   },
   {
    "id": "46_3318",
    "marks": [
     [
-     "L",
-     14,
-     "[Page 33]",
-     true
-    ],
-    [
-     "L",
-     112,
-     "[Page 34]",
-     true
+     "I",
+     52,
+     [
+      [
+       241,
+       "[Page 38]"
+      ]
+     ]
     ]
    ],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part B - Inspection and Regulation of Vessels/Chapter 033 - Inspection Generally/§ 03318 - Penalties.md",
    "printed_pages": [
-    32,
-    34
+    37,
+    38
    ]
   },
   {
@@ -756,17 +859,28 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part B - Inspection and Regulation of Vessels/Chapter 035 - Carriage of Passengers/README.md",
    "printed_pages": [
-    34,
-    34
+    38,
+    38
    ]
   },
   {
    "id": "46_3501",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     34,
+     [
+      [
+       104,
+       "[Page 39]"
+      ]
+     ]
+    ]
+   ],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part B - Inspection and Regulation of Vessels/Chapter 035 - Carriage of Passengers/§ 03501 - Number of passengers.md",
    "printed_pages": [
-    34,
-    34
+    38,
+    39
    ]
   },
   {
@@ -774,24 +888,28 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part B - Inspection and Regulation of Vessels/Chapter 035 - Carriage of Passengers/§ 03502 - List or count of passengers.md",
    "printed_pages": [
-    34,
-    34
+    39,
+    39
    ]
   },
   {
    "id": "46_3503",
    "marks": [
     [
-     "L",
-     8,
-     "[Page 35]",
-     true
+     "I",
+     42,
+     [
+      [
+       173,
+       "[Page 40]"
+      ]
+     ]
     ]
    ],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part B - Inspection and Regulation of Vessels/Chapter 035 - Carriage of Passengers/§ 03503 - Fire-retardant materials.md",
    "printed_pages": [
-    34,
-    35
+    39,
+    40
    ]
   },
   {
@@ -799,28 +917,17 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part B - Inspection and Regulation of Vessels/Chapter 035 - Carriage of Passengers/§ 03504 - Notification to passengers.md",
    "printed_pages": [
-    35,
-    35
+    40,
+    40
    ]
   },
   {
    "id": "46_3505",
-   "marks": [
-    [
-     "I",
-     16,
-     [
-      [
-       159,
-       "[Page 36]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part B - Inspection and Regulation of Vessels/Chapter 035 - Carriage of Passengers/§ 03505 - Prevention of departure.md",
    "printed_pages": [
-    35,
-    36
+    40,
+    40
    ]
   },
   {
@@ -828,42 +935,53 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part B - Inspection and Regulation of Vessels/Chapter 035 - Carriage of Passengers/§ 03506 - Copies of laws.md",
    "printed_pages": [
-    36,
-    36
+    40,
+    40
    ]
   },
   {
    "id": "46_-Subtitle_II-Part_B-ch37",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     7,
+     [
+      [
+       46,
+       "[Page 41]"
+      ]
+     ]
+    ]
+   ],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part B - Inspection and Regulation of Vessels/Chapter 037 - Carriage of Liquid Bulk Dangerous Cargoes/README.md",
    "printed_pages": [
-    36,
-    36
+    40,
+    41
    ]
   },
   {
    "id": "46_3701",
-   "marks": [
-    [
-     "L",
-     52,
-     "[Page 37]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part B - Inspection and Regulation of Vessels/Chapter 037 - Carriage of Liquid Bulk Dangerous Cargoes/§ 03701 - Definitions.md",
    "printed_pages": [
-    36,
-    37
+    41,
+    41
    ]
   },
   {
    "id": "46_3702",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     8,
+     "[Page 42]",
+     true
+    ]
+   ],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part B - Inspection and Regulation of Vessels/Chapter 037 - Carriage of Liquid Bulk Dangerous Cargoes/§ 03702 - Application.md",
    "printed_pages": [
-    37,
-    37
+    41,
+    42
    ]
   },
   {
@@ -871,29 +989,25 @@
    "marks": [
     [
      "I",
-     20,
+     18,
      [
       [
-       98,
-       "[Page 38]"
+       97,
+       "[Page 43]"
       ]
      ]
     ],
     [
-     "I",
-     108,
-     [
-      [
-       102,
-       "[Page 39]"
-      ]
-     ]
+     "L",
+     116,
+     "[Page 44]",
+     true
     ]
    ],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part B - Inspection and Regulation of Vessels/Chapter 037 - Carriage of Liquid Bulk Dangerous Cargoes/§ 03703 - Regulations.md",
    "printed_pages": [
-    37,
-    39
+    42,
+    44
    ]
   },
   {
@@ -901,19 +1015,35 @@
    "marks": [
     [
      "I",
-     70,
+     12,
      [
       [
-       107,
-       "[Page 40]"
+       269,
+       "[Page 45]"
       ]
      ]
+    ],
+    [
+     "I",
+     72,
+     [
+      [
+       108,
+       "[Page 46]"
+      ]
+     ]
+    ],
+    [
+     "L",
+     152,
+     "[Page 47]",
+     true
     ]
    ],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part B - Inspection and Regulation of Vessels/Chapter 037 - Carriage of Liquid Bulk Dangerous Cargoes/§ 03703a - Tank vessel construction standards.md",
    "printed_pages": [
-    39,
-    40
+    44,
+    47
    ]
   },
   {
@@ -921,24 +1051,17 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part B - Inspection and Regulation of Vessels/Chapter 037 - Carriage of Liquid Bulk Dangerous Cargoes/§ 03704 - Coastwise trade vessels.md",
    "printed_pages": [
-    40,
-    40
+    47,
+    47
    ]
   },
   {
    "id": "46_3705",
-   "marks": [
-    [
-     "L",
-     10,
-     "[Page 41]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part B - Inspection and Regulation of Vessels/Chapter 037 - Carriage of Liquid Bulk Dangerous Cargoes/§ 03705 - Crude oil tanker minimum standards.md",
    "printed_pages": [
-    40,
-    41
+    47,
+    47
    ]
   },
   {
@@ -946,19 +1069,19 @@
    "marks": [
     [
      "I",
-     50,
+     8,
      [
       [
-       161,
-       "[Page 42]"
+       92,
+       "[Page 48]"
       ]
      ]
     ]
    ],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part B - Inspection and Regulation of Vessels/Chapter 037 - Carriage of Liquid Bulk Dangerous Cargoes/§ 03706 - Product carrier minimum standards.md",
    "printed_pages": [
-    41,
-    42
+    47,
+    48
    ]
   },
   {
@@ -966,17 +1089,28 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part B - Inspection and Regulation of Vessels/Chapter 037 - Carriage of Liquid Bulk Dangerous Cargoes/§ 03707 - Tanker minimum standards.md",
    "printed_pages": [
-    42,
-    42
+    48,
+    48
    ]
   },
   {
    "id": "46_3708",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       189,
+       "[Page 49]"
+      ]
+     ]
+    ]
+   ],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part B - Inspection and Regulation of Vessels/Chapter 037 - Carriage of Liquid Bulk Dangerous Cargoes/§ 03708 - Self-propelled tank vessel minimum standards.md",
    "printed_pages": [
-    42,
-    42
+    48,
+    49
    ]
   },
   {
@@ -984,37 +1118,33 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part B - Inspection and Regulation of Vessels/Chapter 037 - Carriage of Liquid Bulk Dangerous Cargoes/§ 03709 - Exemptions.md",
    "printed_pages": [
-    42,
-    42
+    49,
+    49
    ]
   },
   {
    "id": "46_3710",
-   "marks": [
-    [
-     "I",
-     4,
-     [
-      [
-       138,
-       "[Page 43]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part B - Inspection and Regulation of Vessels/Chapter 037 - Carriage of Liquid Bulk Dangerous Cargoes/§ 03710 - Evidence of compliance by vessels of the United States.md",
    "printed_pages": [
-    42,
-    43
+    49,
+    49
    ]
   },
   {
    "id": "46_3711",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     10,
+     "[Page 50]",
+     true
+    ]
+   ],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part B - Inspection and Regulation of Vessels/Chapter 037 - Carriage of Liquid Bulk Dangerous Cargoes/§ 03711 - Evidence of compliance by foreign vessels.md",
    "printed_pages": [
-    43,
-    43
+    49,
+    50
    ]
   },
   {
@@ -1022,57 +1152,49 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part B - Inspection and Regulation of Vessels/Chapter 037 - Carriage of Liquid Bulk Dangerous Cargoes/§ 03712 - Notification of noncompliance.md",
    "printed_pages": [
-    43,
-    43
+    50,
+    50
    ]
   },
   {
    "id": "46_3713",
-   "marks": [
-    [
-     "I",
-     32,
-     [
-      [
-       106,
-       "[Page 44]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part B - Inspection and Regulation of Vessels/Chapter 037 - Carriage of Liquid Bulk Dangerous Cargoes/§ 03713 - Prohibited acts.md",
    "printed_pages": [
-    43,
-    44
+    50,
+    50
    ]
   },
   {
    "id": "46_3714",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     36,
+     "[Page 51]",
+     true
+    ]
+   ],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part B - Inspection and Regulation of Vessels/Chapter 037 - Carriage of Liquid Bulk Dangerous Cargoes/§ 03714 - Inspection and examination.md",
    "printed_pages": [
-    44,
-    44
+    50,
+    51
    ]
   },
   {
    "id": "46_3715",
    "marks": [
     [
-     "I",
-     10,
-     [
-      [
-       96,
-       "[Page 45]"
-      ]
-     ]
+     "L",
+     44,
+     "[Page 52]",
+     true
     ]
    ],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part B - Inspection and Regulation of Vessels/Chapter 037 - Carriage of Liquid Bulk Dangerous Cargoes/§ 03715 - Lightering.md",
    "printed_pages": [
-    44,
-    45
+    51,
+    52
    ]
   },
   {
@@ -1080,33 +1202,46 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part B - Inspection and Regulation of Vessels/Chapter 037 - Carriage of Liquid Bulk Dangerous Cargoes/§ 03716 - Tank washings.md",
    "printed_pages": [
-    45,
-    45
+    52,
+    52
    ]
   },
   {
    "id": "46_3717",
-   "marks": [
-    [
-     "L",
-     12,
-     "[Page 46]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part B - Inspection and Regulation of Vessels/Chapter 037 - Carriage of Liquid Bulk Dangerous Cargoes/§ 03717 - Marine safety information system.md",
    "printed_pages": [
-    45,
-    46
+    52,
+    52
    ]
   },
   {
    "id": "46_3718",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     10,
+     [
+      [
+       94,
+       "[Page 53]"
+      ]
+     ]
+    ]
+   ],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part B - Inspection and Regulation of Vessels/Chapter 037 - Carriage of Liquid Bulk Dangerous Cargoes/§ 03718 - Penalties.md",
    "printed_pages": [
-    46,
-    46
+    52,
+    53
+   ]
+  },
+  {
+   "id": "46_3719",
+   "marks": [],
+   "path": "Subtitle 002 (II) - Vessels and Seamen/Part B - Inspection and Regulation of Vessels/Chapter 037 - Carriage of Liquid Bulk Dangerous Cargoes/§ 03719 - Reduction of oil spills from single hull non-self-propelled tank vessels.md",
+   "printed_pages": [
+    53,
+    53
    ]
   },
   {
@@ -1114,8 +1249,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part B - Inspection and Regulation of Vessels/Chapter 039 - Carriage of Animals/README.md",
    "printed_pages": [
-    46,
-    46
+    53,
+    53
    ]
   },
   {
@@ -1123,15 +1258,15 @@
    "marks": [
     [
      "L",
-     16,
-     "[Page 47]",
+     18,
+     "[Page 54]",
      true
     ]
    ],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part B - Inspection and Regulation of Vessels/Chapter 039 - Carriage of Animals/§ 03901 - Regulations for accommodations for export animals.md",
    "printed_pages": [
-    46,
-    47
+    53,
+    54
    ]
   },
   {
@@ -1139,8 +1274,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part B - Inspection and Regulation of Vessels/Chapter 039 - Carriage of Animals/§ 03902 - Penalties.md",
    "printed_pages": [
-    47,
-    47
+    54,
+    54
    ]
   },
   {
@@ -1148,8 +1283,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part B - Inspection and Regulation of Vessels/Chapter 041 - Uninspected Vessels Generally/README.md",
    "printed_pages": [
-    47,
-    47
+    54,
+    54
    ]
   },
   {
@@ -1157,8 +1292,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part B - Inspection and Regulation of Vessels/Chapter 041 - Uninspected Vessels Generally/§ 04101 - Application.md",
    "printed_pages": [
-    47,
-    47
+    54,
+    54
    ]
   },
   {
@@ -1169,16 +1304,16 @@
      12,
      [
       [
-       104,
-       "[Page 48]"
+       367,
+       "[Page 55]"
       ]
      ]
     ]
    ],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part B - Inspection and Regulation of Vessels/Chapter 041 - Uninspected Vessels Generally/§ 04102 - Safety equipment.md",
    "printed_pages": [
-    47,
-    48
+    54,
+    55
    ]
   },
   {
@@ -1186,8 +1321,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part B - Inspection and Regulation of Vessels/Chapter 041 - Uninspected Vessels Generally/§ 04103 - Exemptions.md",
    "printed_pages": [
-    48,
-    48
+    55,
+    55
    ]
   },
   {
@@ -1195,8 +1330,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part B - Inspection and Regulation of Vessels/Chapter 041 - Uninspected Vessels Generally/§ 04104 - Repealed. Pub. L. 101–595, title VI, §603(3)(A), Nov. 16, 1990, 104 Stat. 2993.md",
    "printed_pages": [
-    48,
-    48
+    55,
+    55
    ]
   },
   {
@@ -1204,37 +1339,33 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part B - Inspection and Regulation of Vessels/Chapter 041 - Uninspected Vessels Generally/§ 04105 - Uninspected passenger vessels.md",
    "printed_pages": [
-    48,
-    48
+    55,
+    55
    ]
   },
   {
    "id": "46_4106",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     18,
+     "[Page 56]",
+     true
+    ]
+   ],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part B - Inspection and Regulation of Vessels/Chapter 041 - Uninspected Vessels Generally/§ 04106 - Penalties.md",
    "printed_pages": [
-    48,
-    48
+    55,
+    56
    ]
   },
   {
    "id": "46_-Subtitle_II-Part_B-ch43",
-   "marks": [
-    [
-     "I",
-     20,
-     [
-      [
-       100,
-       "[Page 49]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part B - Inspection and Regulation of Vessels/Chapter 043 - Recreational Vessels/README.md",
    "printed_pages": [
-    48,
-    49
+    56,
+    56
    ]
   },
   {
@@ -1242,8 +1373,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part B - Inspection and Regulation of Vessels/Chapter 043 - Recreational Vessels/§ 04301 - Application.md",
    "printed_pages": [
-    49,
-    49
+    56,
+    56
    ]
   },
   {
@@ -1251,19 +1382,19 @@
    "marks": [
     [
      "I",
-     26,
+     22,
      [
       [
-       516,
-       "[Page 50]"
+       270,
+       "[Page 57]"
       ]
      ]
     ]
    ],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part B - Inspection and Regulation of Vessels/Chapter 043 - Recreational Vessels/§ 04302 - Regulations.md",
    "printed_pages": [
-    49,
-    50
+    56,
+    57
    ]
   },
   {
@@ -1271,8 +1402,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part B - Inspection and Regulation of Vessels/Chapter 043 - Recreational Vessels/§ 04303 - Inspection and testing.md",
    "printed_pages": [
-    50,
-    50
+    57,
+    57
    ]
   },
   {
@@ -1280,33 +1411,37 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part B - Inspection and Regulation of Vessels/Chapter 043 - Recreational Vessels/§ 04304 - Importation of nonconforming vessels and equipment.md",
    "printed_pages": [
-    50,
-    50
+    57,
+    57
    ]
   },
   {
    "id": "46_4305",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     16,
+     [
+      [
+       101,
+       "[Page 58]"
+      ]
+     ]
+    ]
+   ],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part B - Inspection and Regulation of Vessels/Chapter 043 - Recreational Vessels/§ 04305 - Exemptions.md",
    "printed_pages": [
-    50,
-    50
+    57,
+    58
    ]
   },
   {
    "id": "46_4306",
-   "marks": [
-    [
-     "L",
-     4,
-     "[Page 51]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part B - Inspection and Regulation of Vessels/Chapter 043 - Recreational Vessels/§ 04306 - Federal preemption.md",
    "printed_pages": [
-    50,
-    51
+    58,
+    58
    ]
   },
   {
@@ -1314,8 +1449,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part B - Inspection and Regulation of Vessels/Chapter 043 - Recreational Vessels/§ 04307 - Prohibited acts.md",
    "printed_pages": [
-    51,
-    51
+    58,
+    58
    ]
   },
   {
@@ -1323,40 +1458,48 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part B - Inspection and Regulation of Vessels/Chapter 043 - Recreational Vessels/§ 04308 - Termination of unsafe operation.md",
    "printed_pages": [
-    51,
-    51
+    58,
+    58
    ]
   },
   {
    "id": "46_4309",
    "marks": [
     [
-     "L",
-     8,
-     "[Page 52]",
-     true
+     "I",
+     2,
+     [
+      [
+       225,
+       "[Page 59]"
+      ]
+     ]
     ]
    ],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part B - Inspection and Regulation of Vessels/Chapter 043 - Recreational Vessels/§ 04309 - Investigation and reporting.md",
    "printed_pages": [
-    51,
-    52
+    58,
+    59
    ]
   },
   {
    "id": "46_4310",
    "marks": [
     [
-     "L",
-     28,
-     "[Page 53]",
-     true
+     "I",
+     24,
+     [
+      [
+       653,
+       "[Page 60]"
+      ]
+     ]
     ]
    ],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part B - Inspection and Regulation of Vessels/Chapter 043 - Recreational Vessels/§ 04310 - Repair and replacement of defects.md",
    "printed_pages": [
-    52,
-    53
+    59,
+    60
    ]
   },
   {
@@ -1364,19 +1507,19 @@
    "marks": [
     [
      "I",
-     64,
+     34,
      [
       [
-       436,
-       "[Page 54]"
+       7,
+       "[Page 61]"
       ]
      ]
     ]
    ],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part B - Inspection and Regulation of Vessels/Chapter 043 - Recreational Vessels/§ 04311 - Penalties and injunctions.md",
    "printed_pages": [
-    53,
-    54
+    60,
+    61
    ]
   },
   {
@@ -1384,8 +1527,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part B - Inspection and Regulation of Vessels/Chapter 045 - Uninspected Commercial Fishing Industry Vessels/README.md",
    "printed_pages": [
-    54,
-    54
+    61,
+    61
    ]
   },
   {
@@ -1393,8 +1536,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part B - Inspection and Regulation of Vessels/Chapter 045 - Uninspected Commercial Fishing Industry Vessels/§ 04501 - Application.md",
    "printed_pages": [
-    54,
-    54
+    61,
+    61
    ]
   },
   {
@@ -1402,25 +1545,21 @@
    "marks": [
     [
      "L",
-     44,
-     "[Page 55]",
+     22,
+     "[Page 62]",
      true
     ],
     [
-     "I",
-     132,
-     [
-      [
-       106,
-       "[Page 56]"
-      ]
-     ]
+     "L",
+     120,
+     "[Page 63]",
+     true
     ]
    ],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part B - Inspection and Regulation of Vessels/Chapter 045 - Uninspected Commercial Fishing Industry Vessels/§ 04502 - Safety standards.md",
    "printed_pages": [
-    54,
-    56
+    61,
+    63
    ]
   },
   {
@@ -1428,8 +1567,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part B - Inspection and Regulation of Vessels/Chapter 045 - Uninspected Commercial Fishing Industry Vessels/§ 04503 - Fish processing vessel certification.md",
    "printed_pages": [
-    56,
-    56
+    63,
+    63
    ]
   },
   {
@@ -1437,33 +1576,33 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part B - Inspection and Regulation of Vessels/Chapter 045 - Uninspected Commercial Fishing Industry Vessels/§ 04504 - Prohibited acts.md",
    "printed_pages": [
-    56,
-    56
+    63,
+    63
    ]
   },
   {
    "id": "46_4505",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     4,
+     "[Page 64]",
+     true
+    ]
+   ],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part B - Inspection and Regulation of Vessels/Chapter 045 - Uninspected Commercial Fishing Industry Vessels/§ 04505 - Termination of unsafe operations.md",
    "printed_pages": [
-    56,
-    56
+    63,
+    64
    ]
   },
   {
    "id": "46_4506",
-   "marks": [
-    [
-     "L",
-     8,
-     "[Page 57]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part B - Inspection and Regulation of Vessels/Chapter 045 - Uninspected Commercial Fishing Industry Vessels/§ 04506 - Exemptions.md",
    "printed_pages": [
-    56,
-    57
+    64,
+    64
    ]
   },
   {
@@ -1471,24 +1610,28 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part B - Inspection and Regulation of Vessels/Chapter 045 - Uninspected Commercial Fishing Industry Vessels/§ 04507 - Penalties.md",
    "printed_pages": [
-    57,
-    57
+    64,
+    64
    ]
   },
   {
    "id": "46_4508",
    "marks": [
     [
-     "L",
-     52,
-     "[Page 58]",
-     true
+     "I",
+     40,
+     [
+      [
+       186,
+       "[Page 65]"
+      ]
+     ]
     ]
    ],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part B - Inspection and Regulation of Vessels/Chapter 045 - Uninspected Commercial Fishing Industry Vessels/§ 04508 - Commercial Fishing Industry Vessel Advisory Committee.md",
    "printed_pages": [
-    57,
-    58
+    64,
+    65
    ]
   },
   {
@@ -1496,17 +1639,28 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part B - Inspection and Regulation of Vessels/Chapter 047 - Abandonment of Barges/README.md",
    "printed_pages": [
-    58,
-    58
+    65,
+    65
    ]
   },
   {
    "id": "46_4701",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     20,
+     [
+      [
+       110,
+       "[Page 66]"
+      ]
+     ]
+    ]
+   ],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part B - Inspection and Regulation of Vessels/Chapter 047 - Abandonment of Barges/§ 04701 - Definitions.md",
    "printed_pages": [
-    58,
-    58
+    65,
+    66
    ]
   },
   {
@@ -1514,24 +1668,17 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part B - Inspection and Regulation of Vessels/Chapter 047 - Abandonment of Barges/§ 04702 - Abandonment of barge prohibited.md",
    "printed_pages": [
-    58,
-    58
+    66,
+    66
    ]
   },
   {
    "id": "46_4703",
-   "marks": [
-    [
-     "L",
-     6,
-     "[Page 59]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part B - Inspection and Regulation of Vessels/Chapter 047 - Abandonment of Barges/§ 04703 - Penalty for unlawful abandonment of barge.md",
    "printed_pages": [
-    58,
-    59
+    66,
+    66
    ]
   },
   {
@@ -1539,8 +1686,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part B - Inspection and Regulation of Vessels/Chapter 047 - Abandonment of Barges/§ 04704 - Removal of abandoned barges.md",
    "printed_pages": [
-    59,
-    59
+    66,
+    66
    ]
   },
   {
@@ -1548,8 +1695,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part B - Inspection and Regulation of Vessels/Chapter 047 - Abandonment of Barges/§ 04705 - Liability of barge removal contractors.md",
    "printed_pages": [
-    59,
-    59
+    66,
+    66
    ]
   },
   {
@@ -1557,33 +1704,37 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part C - Load Lines of Vessels/README.md",
    "printed_pages": [
-    59,
-    59
+    66,
+    66
    ]
   },
   {
    "id": "46_-Subtitle_II-Part_C-ch51",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     11,
+     [
+      [
+       30,
+       "[Page 67]"
+      ]
+     ]
+    ]
+   ],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part C - Load Lines of Vessels/Chapter 051 - Load Lines/README.md",
    "printed_pages": [
-    59,
-    59
+    66,
+    67
    ]
   },
   {
    "id": "46_5101",
-   "marks": [
-    [
-     "L",
-     20,
-     "[Page 60]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part C - Load Lines of Vessels/Chapter 051 - Load Lines/§ 05101 - Definitions.md",
    "printed_pages": [
-    59,
-    60
+    67,
+    67
    ]
   },
   {
@@ -1591,19 +1742,25 @@
    "marks": [
     [
      "I",
-     70,
+     34,
      [
       [
-       164,
-       "[Page 61]"
+       190,
+       "[Page 68]"
       ]
      ]
+    ],
+    [
+     "L",
+     116,
+     "[Page 69]",
+     true
     ]
    ],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part C - Load Lines of Vessels/Chapter 051 - Load Lines/§ 05102 - Application.md",
    "printed_pages": [
-    60,
-    61
+    67,
+    69
    ]
   },
   {
@@ -1611,37 +1768,33 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part C - Load Lines of Vessels/Chapter 051 - Load Lines/§ 05103 - Load line requirements.md",
    "printed_pages": [
-    61,
-    61
+    69,
+    69
    ]
   },
   {
    "id": "46_5104",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       138,
-       "[Page 62]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part C - Load Lines of Vessels/Chapter 051 - Load Lines/§ 05104 - Assignment of load lines.md",
    "printed_pages": [
-    61,
-    62
+    69,
+    69
    ]
   },
   {
    "id": "46_5105",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     10,
+     "[Page 70]",
+     true
+    ]
+   ],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part C - Load Lines of Vessels/Chapter 051 - Load Lines/§ 05105 - Load line surveys.md",
    "printed_pages": [
-    62,
-    62
+    69,
+    70
    ]
   },
   {
@@ -1649,37 +1802,37 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part C - Load Lines of Vessels/Chapter 051 - Load Lines/§ 05106 - Load line certificate.md",
    "printed_pages": [
-    62,
-    62
+    70,
+    70
    ]
   },
   {
    "id": "46_5107",
-   "marks": [
-    [
-     "I",
-     6,
-     [
-      [
-       90,
-       "[Page 63]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part C - Load Lines of Vessels/Chapter 051 - Load Lines/§ 05107 - Delegation of authority.md",
    "printed_pages": [
-    62,
-    63
+    70,
+    70
    ]
   },
   {
    "id": "46_5108",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     20,
+     [
+      [
+       597,
+       "[Page 71]"
+      ]
+     ]
+    ]
+   ],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part C - Load Lines of Vessels/Chapter 051 - Load Lines/§ 05108 - Special exemptions.md",
    "printed_pages": [
-    63,
-    63
+    70,
+    71
    ]
   },
   {
@@ -1687,8 +1840,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part C - Load Lines of Vessels/Chapter 051 - Load Lines/§ 05109 - Reciprocity for foreign vessels.md",
    "printed_pages": [
-    63,
-    63
+    71,
+    71
    ]
   },
   {
@@ -1696,28 +1849,17 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part C - Load Lines of Vessels/Chapter 051 - Load Lines/§ 05110 - Submersible vessels.md",
    "printed_pages": [
-    63,
-    63
+    71,
+    71
    ]
   },
   {
    "id": "46_5111",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       229,
-       "[Page 64]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part C - Load Lines of Vessels/Chapter 051 - Load Lines/§ 05111 - Providing loading information.md",
    "printed_pages": [
-    63,
-    64
+    71,
+    71
    ]
   },
   {
@@ -1725,17 +1867,28 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part C - Load Lines of Vessels/Chapter 051 - Load Lines/§ 05112 - Loading restrictions.md",
    "printed_pages": [
-    64,
-    64
+    71,
+    71
    ]
   },
   {
    "id": "46_5113",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     6,
+     [
+      [
+       135,
+       "[Page 72]"
+      ]
+     ]
+    ]
+   ],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part C - Load Lines of Vessels/Chapter 051 - Load Lines/§ 05113 - Detention of vessels.md",
    "printed_pages": [
-    64,
-    64
+    71,
+    72
    ]
   },
   {
@@ -1743,8 +1896,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part C - Load Lines of Vessels/Chapter 051 - Load Lines/§ 05114 - Use of Customs Service officers and employees for enforcement.md",
    "printed_pages": [
-    64,
-    64
+    72,
+    72
    ]
   },
   {
@@ -1752,8 +1905,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part C - Load Lines of Vessels/Chapter 051 - Load Lines/§ 05115 - Repealed. Pub. L. 101–595, title VI, §603(5)(A), Nov. 16, 1990, 104 Stat. 2993.md",
    "printed_pages": [
-    64,
-    64
+    72,
+    72
    ]
   },
   {
@@ -1761,19 +1914,19 @@
    "marks": [
     [
      "I",
-     2,
+     36,
      [
       [
-       90,
-       "[Page 65]"
+       102,
+       "[Page 73]"
       ]
      ]
     ]
    ],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part C - Load Lines of Vessels/Chapter 051 - Load Lines/§ 05116 - Penalties.md",
    "printed_pages": [
-    64,
-    65
+    72,
+    73
    ]
   },
   {
@@ -1781,8 +1934,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part D - Marine Casualties/README.md",
    "printed_pages": [
-    65,
-    65
+    73,
+    73
    ]
   },
   {
@@ -1790,8 +1943,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part D - Marine Casualties/Chapter 061 - Reporting Marine Casualties/README.md",
    "printed_pages": [
-    65,
-    65
+    73,
+    73
    ]
   },
   {
@@ -1799,44 +1952,44 @@
    "marks": [
     [
      "I",
-     22,
+     68,
      [
       [
-       105,
-       "[Page 66]"
+       583,
+       "[Page 74]"
       ]
      ]
     ]
    ],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part D - Marine Casualties/Chapter 061 - Reporting Marine Casualties/§ 06101 - Marine casualties and reporting.md",
    "printed_pages": [
-    65,
-    66
+    73,
+    74
    ]
   },
   {
    "id": "46_6102",
-   "marks": [
-    [
-     "L",
-     6,
-     "[Page 67]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part D - Marine Casualties/Chapter 061 - Reporting Marine Casualties/§ 06102 - State marine casualty reporting system.md",
    "printed_pages": [
-    66,
-    67
+    74,
+    74
    ]
   },
   {
    "id": "46_6103",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     26,
+     "[Page 75]",
+     true
+    ]
+   ],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part D - Marine Casualties/Chapter 061 - Reporting Marine Casualties/§ 06103 - Penalty.md",
    "printed_pages": [
-    67,
-    67
+    74,
+    75
    ]
   },
   {
@@ -1844,8 +1997,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part D - Marine Casualties/Chapter 061 - Reporting Marine Casualties/§ 06104 - Commercial fishing industry vessel casualty statistics.md",
    "printed_pages": [
-    67,
-    67
+    75,
+    75
    ]
   },
   {
@@ -1853,33 +2006,37 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part D - Marine Casualties/Chapter 063 - Investigating Marine Casualties/README.md",
    "printed_pages": [
-    67,
-    67
+    75,
+    75
    ]
   },
   {
    "id": "46_6301",
-   "marks": [
-    [
-     "L",
-     12,
-     "[Page 68]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part D - Marine Casualties/Chapter 063 - Investigating Marine Casualties/§ 06301 - Investigation of marine casualties.md",
    "printed_pages": [
-    67,
-    68
+    75,
+    75
    ]
   },
   {
    "id": "46_6302",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     16,
+     [
+      [
+       103,
+       "[Page 76]"
+      ]
+     ]
+    ]
+   ],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part D - Marine Casualties/Chapter 063 - Investigating Marine Casualties/§ 06302 - Public investigations.md",
    "printed_pages": [
-    68,
-    68
+    75,
+    76
    ]
   },
   {
@@ -1887,8 +2044,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part D - Marine Casualties/Chapter 063 - Investigating Marine Casualties/§ 06303 - Rights of parties in interest.md",
    "printed_pages": [
-    68,
-    68
+    76,
+    76
    ]
   },
   {
@@ -1896,24 +2053,17 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part D - Marine Casualties/Chapter 063 - Investigating Marine Casualties/§ 06304 - Subpena authority.md",
    "printed_pages": [
-    68,
-    68
+    76,
+    76
    ]
   },
   {
    "id": "46_6305",
-   "marks": [
-    [
-     "L",
-     8,
-     "[Page 69]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part D - Marine Casualties/Chapter 063 - Investigating Marine Casualties/§ 06305 - Reports of investigations.md",
    "printed_pages": [
-    68,
-    69
+    76,
+    76
    ]
   },
   {
@@ -1921,17 +2071,33 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part D - Marine Casualties/Chapter 063 - Investigating Marine Casualties/§ 06306 - Penalty.md",
    "printed_pages": [
-    69,
-    69
+    76,
+    76
    ]
   },
   {
    "id": "46_6307",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     8,
+     "[Page 77]",
+     true
+    ]
+   ],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part D - Marine Casualties/Chapter 063 - Investigating Marine Casualties/§ 06307 - Notifications to Congress.md",
    "printed_pages": [
-    69,
-    69
+    76,
+    77
+   ]
+  },
+  {
+   "id": "46_6308",
+   "marks": [],
+   "path": "Subtitle 002 (II) - Vessels and Seamen/Part D - Marine Casualties/Chapter 063 - Investigating Marine Casualties/§ 06308 - Information barred in legal proceedings.md",
+   "printed_pages": [
+    77,
+    77
    ]
   },
   {
@@ -1939,8 +2105,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part E - Merchant Seamen Licenses, Certificates, and Documents/README.md",
    "printed_pages": [
-    69,
-    69
+    77,
+    77
    ]
   },
   {
@@ -1948,8 +2114,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part E - Merchant Seamen Licenses, Certificates, and Documents/Chapter 071 - Licenses and Certificates of Registry/README.md",
    "printed_pages": [
-    69,
-    69
+    77,
+    77
    ]
   },
   {
@@ -1957,25 +2123,21 @@
    "marks": [
     [
      "L",
-     10,
-     "[Page 70]",
+     8,
+     "[Page 78]",
      true
     ],
     [
-     "I",
+     "L",
      140,
-     [
-      [
-       605,
-       "[Page 71]"
-      ]
-     ]
+     "[Page 79]",
+     true
     ]
    ],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part E - Merchant Seamen Licenses, Certificates, and Documents/Chapter 071 - Licenses and Certificates of Registry/§ 07101 - Issuing and classifying licenses and certificates of registry.md",
    "printed_pages": [
-    69,
-    71
+    77,
+    79
    ]
   },
   {
@@ -1983,8 +2145,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part E - Merchant Seamen Licenses, Certificates, and Documents/Chapter 071 - Licenses and Certificates of Registry/§ 07102 - Citizenship.md",
    "printed_pages": [
-    71,
-    71
+    79,
+    79
    ]
   },
   {
@@ -1992,8 +2154,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part E - Merchant Seamen Licenses, Certificates, and Documents/Chapter 071 - Licenses and Certificates of Registry/§ 07103 - Licenses for radio officers.md",
    "printed_pages": [
-    71,
-    71
+    79,
+    79
    ]
   },
   {
@@ -2001,8 +2163,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part E - Merchant Seamen Licenses, Certificates, and Documents/Chapter 071 - Licenses and Certificates of Registry/§ 07104 - Certificates for medical doctors and nurses.md",
    "printed_pages": [
-    71,
-    71
+    79,
+    79
    ]
   },
   {
@@ -2010,37 +2172,37 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part E - Merchant Seamen Licenses, Certificates, and Documents/Chapter 071 - Licenses and Certificates of Registry/§ 07105 - Oaths.md",
    "printed_pages": [
-    71,
-    71
+    79,
+    79
    ]
   },
   {
    "id": "46_7106",
-   "marks": [],
-   "path": "Subtitle 002 (II) - Vessels and Seamen/Part E - Merchant Seamen Licenses, Certificates, and Documents/Chapter 071 - Licenses and Certificates of Registry/§ 07106 - Duration of licenses.md",
-   "printed_pages": [
-    71,
-    71
-   ]
-  },
-  {
-   "id": "46_7107",
    "marks": [
     [
      "I",
-     2,
+     38,
      [
       [
-       97,
-       "[Page 72]"
+       160,
+       "[Page 80]"
       ]
      ]
     ]
    ],
+   "path": "Subtitle 002 (II) - Vessels and Seamen/Part E - Merchant Seamen Licenses, Certificates, and Documents/Chapter 071 - Licenses and Certificates of Registry/§ 07106 - Duration of licenses.md",
+   "printed_pages": [
+    79,
+    80
+   ]
+  },
+  {
+   "id": "46_7107",
+   "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part E - Merchant Seamen Licenses, Certificates, and Documents/Chapter 071 - Licenses and Certificates of Registry/§ 07107 - Duration of certificates of registry.md",
    "printed_pages": [
-    71,
-    72
+    80,
+    80
    ]
   },
   {
@@ -2048,8 +2210,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part E - Merchant Seamen Licenses, Certificates, and Documents/Chapter 071 - Licenses and Certificates of Registry/§ 07108 - Termination of licenses and certificates of registry.md",
    "printed_pages": [
-    72,
-    72
+    80,
+    80
    ]
   },
   {
@@ -2057,8 +2219,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part E - Merchant Seamen Licenses, Certificates, and Documents/Chapter 071 - Licenses and Certificates of Registry/§ 07109 - Review of criminal records.md",
    "printed_pages": [
-    72,
-    72
+    80,
+    80
    ]
   },
   {
@@ -2066,37 +2228,33 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part E - Merchant Seamen Licenses, Certificates, and Documents/Chapter 071 - Licenses and Certificates of Registry/§ 07110 - Exhibiting licenses.md",
    "printed_pages": [
-    72,
-    72
+    80,
+    80
    ]
   },
   {
    "id": "46_7111",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     18,
+     "[Page 81]",
+     true
+    ]
+   ],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part E - Merchant Seamen Licenses, Certificates, and Documents/Chapter 071 - Licenses and Certificates of Registry/§ 07111 - Oral examinations for licenses.md",
    "printed_pages": [
-    72,
-    72
+    80,
+    81
    ]
   },
   {
    "id": "46_7112",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       97,
-       "[Page 73]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part E - Merchant Seamen Licenses, Certificates, and Documents/Chapter 071 - Licenses and Certificates of Registry/§ 07112 - Licenses of masters or mates as pilots.md",
    "printed_pages": [
-    72,
-    73
+    81,
+    81
    ]
   },
   {
@@ -2104,8 +2262,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part E - Merchant Seamen Licenses, Certificates, and Documents/Chapter 071 - Licenses and Certificates of Registry/§ 07113 - Exemption from draft.md",
    "printed_pages": [
-    73,
-    73
+    81,
+    81
    ]
   },
   {
@@ -2113,8 +2271,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part E - Merchant Seamen Licenses, Certificates, and Documents/Chapter 071 - Licenses and Certificates of Registry/§ 07114 - Fees.md",
    "printed_pages": [
-    73,
-    73
+    81,
+    81
    ]
   },
   {
@@ -2122,8 +2280,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part E - Merchant Seamen Licenses, Certificates, and Documents/Chapter 073 - Merchant Mariners’ Documents/README.md",
    "printed_pages": [
-    73,
-    73
+    81,
+    81
    ]
   },
   {
@@ -2131,15 +2289,15 @@
    "marks": [
     [
      "L",
-     26,
-     "[Page 74]",
+     14,
+     "[Page 82]",
      true
     ]
    ],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part E - Merchant Seamen Licenses, Certificates, and Documents/Chapter 073 - Merchant Mariners’ Documents/§ 07301 - General.md",
    "printed_pages": [
-    73,
-    74
+    81,
+    82
    ]
   },
   {
@@ -2147,8 +2305,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part E - Merchant Seamen Licenses, Certificates, and Documents/Chapter 073 - Merchant Mariners’ Documents/§ 07302 - Issuing merchant mariners’ documents and continuous discharge books.md",
    "printed_pages": [
-    74,
-    74
+    82,
+    82
    ]
   },
   {
@@ -2156,33 +2314,33 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part E - Merchant Seamen Licenses, Certificates, and Documents/Chapter 073 - Merchant Mariners’ Documents/§ 07303 - Possession and description of merchant mariners’ documents.md",
    "printed_pages": [
-    74,
-    74
+    82,
+    82
    ]
   },
   {
    "id": "46_7304",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     18,
+     "[Page 83]",
+     true
+    ]
+   ],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part E - Merchant Seamen Licenses, Certificates, and Documents/Chapter 073 - Merchant Mariners’ Documents/§ 07304 - Citizenship notation on merchant mariners’ documents.md",
    "printed_pages": [
-    74,
-    74
+    82,
+    83
    ]
   },
   {
    "id": "46_7305",
-   "marks": [
-    [
-     "L",
-     6,
-     "[Page 75]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part E - Merchant Seamen Licenses, Certificates, and Documents/Chapter 073 - Merchant Mariners’ Documents/§ 07305 - Oaths for holders of merchant mariners’ documents.md",
    "printed_pages": [
-    74,
-    75
+    83,
+    83
    ]
   },
   {
@@ -2190,8 +2348,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part E - Merchant Seamen Licenses, Certificates, and Documents/Chapter 073 - Merchant Mariners’ Documents/§ 07306 - General requirements and classifications for able seamen.md",
    "printed_pages": [
-    75,
-    75
+    83,
+    83
    ]
   },
   {
@@ -2199,33 +2357,33 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part E - Merchant Seamen Licenses, Certificates, and Documents/Chapter 073 - Merchant Mariners’ Documents/§ 07307 - Able seamen—unlimited.md",
    "printed_pages": [
-    75,
-    75
+    83,
+    83
    ]
   },
   {
    "id": "46_7308",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     22,
+     "[Page 84]",
+     true
+    ]
+   ],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part E - Merchant Seamen Licenses, Certificates, and Documents/Chapter 073 - Merchant Mariners’ Documents/§ 07308 - Able seamen—limited.md",
    "printed_pages": [
-    75,
-    75
+    83,
+    84
    ]
   },
   {
    "id": "46_7309",
-   "marks": [
-    [
-     "L",
-     6,
-     "[Page 76]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part E - Merchant Seamen Licenses, Certificates, and Documents/Chapter 073 - Merchant Mariners’ Documents/§ 07309 - Able seamen—special.md",
    "printed_pages": [
-    75,
-    76
+    84,
+    84
    ]
   },
   {
@@ -2233,8 +2391,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part E - Merchant Seamen Licenses, Certificates, and Documents/Chapter 073 - Merchant Mariners’ Documents/§ 07310 - Able seamen—offshore supply vessels.md",
    "printed_pages": [
-    76,
-    76
+    84,
+    84
    ]
   },
   {
@@ -2242,8 +2400,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part E - Merchant Seamen Licenses, Certificates, and Documents/Chapter 073 - Merchant Mariners’ Documents/§ 07311 - Able seamen—sail.md",
    "printed_pages": [
-    76,
-    76
+    84,
+    84
    ]
   },
   {
@@ -2251,781 +2409,12 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part E - Merchant Seamen Licenses, Certificates, and Documents/Chapter 073 - Merchant Mariners’ Documents/§ 07311a - Able seamen—fishing industry.md",
    "printed_pages": [
-    76,
-    76
+    84,
+    84
    ]
   },
   {
    "id": "46_7312",
-   "marks": [
-    [
-     "L",
-     34,
-     "[Page 77]",
-     true
-    ]
-   ],
-   "path": "Subtitle 002 (II) - Vessels and Seamen/Part E - Merchant Seamen Licenses, Certificates, and Documents/Chapter 073 - Merchant Mariners’ Documents/§ 07312 - Scale of employment.md",
-   "printed_pages": [
-    76,
-    77
-   ]
-  },
-  {
-   "id": "46_7313",
-   "marks": [],
-   "path": "Subtitle 002 (II) - Vessels and Seamen/Part E - Merchant Seamen Licenses, Certificates, and Documents/Chapter 073 - Merchant Mariners’ Documents/§ 07313 - General requirements for members of engine departments.md",
-   "printed_pages": [
-    77,
-    77
-   ]
-  },
-  {
-   "id": "46_7314",
-   "marks": [],
-   "path": "Subtitle 002 (II) - Vessels and Seamen/Part E - Merchant Seamen Licenses, Certificates, and Documents/Chapter 073 - Merchant Mariners’ Documents/§ 07314 - Service requirements for qualified members of engine departments.md",
-   "printed_pages": [
-    77,
-    77
-   ]
-  },
-  {
-   "id": "46_7315",
-   "marks": [],
-   "path": "Subtitle 002 (II) - Vessels and Seamen/Part E - Merchant Seamen Licenses, Certificates, and Documents/Chapter 073 - Merchant Mariners’ Documents/§ 07315 - Training.md",
-   "printed_pages": [
-    77,
-    77
-   ]
-  },
-  {
-   "id": "46_7316",
-   "marks": [],
-   "path": "Subtitle 002 (II) - Vessels and Seamen/Part E - Merchant Seamen Licenses, Certificates, and Documents/Chapter 073 - Merchant Mariners’ Documents/§ 07316 - Lifeboatmen.md",
-   "printed_pages": [
-    77,
-    77
-   ]
-  },
-  {
-   "id": "46_7317",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       185,
-       "[Page 78]"
-      ]
-     ]
-    ]
-   ],
-   "path": "Subtitle 002 (II) - Vessels and Seamen/Part E - Merchant Seamen Licenses, Certificates, and Documents/Chapter 073 - Merchant Mariners’ Documents/§ 07317 - Tankermen.md",
-   "printed_pages": [
-    77,
-    78
-   ]
-  },
-  {
-   "id": "46_7318",
-   "marks": [],
-   "path": "Subtitle 002 (II) - Vessels and Seamen/Part E - Merchant Seamen Licenses, Certificates, and Documents/Chapter 073 - Merchant Mariners’ Documents/§ 07318 - Radiotelegraph operators on Great Lakes.md",
-   "printed_pages": [
-    78,
-    78
-   ]
-  },
-  {
-   "id": "46_7319",
-   "marks": [],
-   "path": "Subtitle 002 (II) - Vessels and Seamen/Part E - Merchant Seamen Licenses, Certificates, and Documents/Chapter 073 - Merchant Mariners’ Documents/§ 07319 - Records of merchant mariners’ documents.md",
-   "printed_pages": [
-    78,
-    78
-   ]
-  },
-  {
-   "id": "46_-Subtitle_II-Part_E-ch75",
-   "marks": [],
-   "path": "Subtitle 002 (II) - Vessels and Seamen/Part E - Merchant Seamen Licenses, Certificates, and Documents/Chapter 075 - General Procedures for Licensing, Certification, and Documentation/README.md",
-   "printed_pages": [
-    78,
-    78
-   ]
-  },
-  {
-   "id": "46_7501",
-   "marks": [],
-   "path": "Subtitle 002 (II) - Vessels and Seamen/Part E - Merchant Seamen Licenses, Certificates, and Documents/Chapter 075 - General Procedures for Licensing, Certification, and Documentation/§ 07501 - Duplicates.md",
-   "printed_pages": [
-    78,
-    78
-   ]
-  },
-  {
-   "id": "46_7502",
-   "marks": [
-    [
-     "L",
-     24,
-     "[Page 79]",
-     true
-    ]
-   ],
-   "path": "Subtitle 002 (II) - Vessels and Seamen/Part E - Merchant Seamen Licenses, Certificates, and Documents/Chapter 075 - General Procedures for Licensing, Certification, and Documentation/§ 07502 - Records.md",
-   "printed_pages": [
-    78,
-    79
-   ]
-  },
-  {
-   "id": "46_7503",
-   "marks": [],
-   "path": "Subtitle 002 (II) - Vessels and Seamen/Part E - Merchant Seamen Licenses, Certificates, and Documents/Chapter 075 - General Procedures for Licensing, Certification, and Documentation/§ 07503 - Dangerous drugs as grounds for denial.md",
-   "printed_pages": [
-    79,
-    79
-   ]
-  },
-  {
-   "id": "46_7504",
-   "marks": [],
-   "path": "Subtitle 002 (II) - Vessels and Seamen/Part E - Merchant Seamen Licenses, Certificates, and Documents/Chapter 075 - General Procedures for Licensing, Certification, and Documentation/§ 07504 - Travel and expense reimbursement.md",
-   "printed_pages": [
-    79,
-    79
-   ]
-  },
-  {
-   "id": "46_7505",
-   "marks": [],
-   "path": "Subtitle 002 (II) - Vessels and Seamen/Part E - Merchant Seamen Licenses, Certificates, and Documents/Chapter 075 - General Procedures for Licensing, Certification, and Documentation/§ 07505 - Review of information in National Driver Register.md",
-   "printed_pages": [
-    79,
-    79
-   ]
-  },
-  {
-   "id": "46_-Subtitle_II-Part_E-ch77",
-   "marks": [],
-   "path": "Subtitle 002 (II) - Vessels and Seamen/Part E - Merchant Seamen Licenses, Certificates, and Documents/Chapter 077 - Suspension and Revocation/README.md",
-   "printed_pages": [
-    79,
-    79
-   ]
-  },
-  {
-   "id": "46_7701",
-   "marks": [
-    [
-     "I",
-     26,
-     [
-      [
-       102,
-       "[Page 80]"
-      ]
-     ]
-    ]
-   ],
-   "path": "Subtitle 002 (II) - Vessels and Seamen/Part E - Merchant Seamen Licenses, Certificates, and Documents/Chapter 077 - Suspension and Revocation/§ 07701 - General.md",
-   "printed_pages": [
-    79,
-    80
-   ]
-  },
-  {
-   "id": "46_7702",
-   "marks": [],
-   "path": "Subtitle 002 (II) - Vessels and Seamen/Part E - Merchant Seamen Licenses, Certificates, and Documents/Chapter 077 - Suspension and Revocation/§ 07702 - Administrative procedure.md",
-   "printed_pages": [
-    80,
-    80
-   ]
-  },
-  {
-   "id": "46_7703",
-   "marks": [
-    [
-     "L",
-     16,
-     "[Page 81]",
-     true
-    ]
-   ],
-   "path": "Subtitle 002 (II) - Vessels and Seamen/Part E - Merchant Seamen Licenses, Certificates, and Documents/Chapter 077 - Suspension and Revocation/§ 07703 - Bases for suspension or revocation.md",
-   "printed_pages": [
-    80,
-    81
-   ]
-  },
-  {
-   "id": "46_7704",
-   "marks": [],
-   "path": "Subtitle 002 (II) - Vessels and Seamen/Part E - Merchant Seamen Licenses, Certificates, and Documents/Chapter 077 - Suspension and Revocation/§ 07704 - Dangerous drugs as grounds for revocation.md",
-   "printed_pages": [
-    81,
-    81
-   ]
-  },
-  {
-   "id": "46_7705",
-   "marks": [],
-   "path": "Subtitle 002 (II) - Vessels and Seamen/Part E - Merchant Seamen Licenses, Certificates, and Documents/Chapter 077 - Suspension and Revocation/§ 07705 - Subpenas and oaths.md",
-   "printed_pages": [
-    81,
-    81
-   ]
-  },
-  {
-   "id": "46_-Subtitle_II-Part_F",
-   "marks": [
-    [
-     "I",
-     4,
-     [
-      [
-       105,
-       "[Page 82]"
-      ]
-     ]
-    ]
-   ],
-   "path": "Subtitle 002 (II) - Vessels and Seamen/Part F - Manning of Vessels/README.md",
-   "printed_pages": [
-    81,
-    82
-   ]
-  },
-  {
-   "id": "46_-Subtitle_II-Part_F-ch81",
-   "marks": [],
-   "path": "Subtitle 002 (II) - Vessels and Seamen/Part F - Manning of Vessels/Chapter 081 - General/README.md",
-   "printed_pages": [
-    82,
-    82
-   ]
-  },
-  {
-   "id": "46_8101",
-   "marks": [
-    [
-     "L",
-     58,
-     "[Page 83]",
-     true
-    ]
-   ],
-   "path": "Subtitle 002 (II) - Vessels and Seamen/Part F - Manning of Vessels/Chapter 081 - General/§ 08101 - Complement of inspected vessels.md",
-   "printed_pages": [
-    82,
-    83
-   ]
-  },
-  {
-   "id": "46_8102",
-   "marks": [],
-   "path": "Subtitle 002 (II) - Vessels and Seamen/Part F - Manning of Vessels/Chapter 081 - General/§ 08102 - Watchmen.md",
-   "printed_pages": [
-    83,
-    83
-   ]
-  },
-  {
-   "id": "46_8103",
-   "marks": [
-    [
-     "I",
-     28,
-     [
-      [
-       93,
-       "[Page 84]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     96,
-     [
-      [
-       156,
-       "[Page 85]"
-      ]
-     ]
-    ]
-   ],
-   "path": "Subtitle 002 (II) - Vessels and Seamen/Part F - Manning of Vessels/Chapter 081 - General/§ 08103 - Citizenship and Naval Reserve requirements.md",
-   "printed_pages": [
-    83,
-    85
-   ]
-  },
-  {
-   "id": "46_8104",
-   "marks": [
-    [
-     "I",
-     32,
-     [
-      [
-       286,
-       "[Page 86]"
-      ]
-     ]
-    ],
-    [
-     "L",
-     112,
-     "[Page 87]",
-     true
-    ]
-   ],
-   "path": "Subtitle 002 (II) - Vessels and Seamen/Part F - Manning of Vessels/Chapter 081 - General/§ 08104 - Watches.md",
-   "printed_pages": [
-    85,
-    87
-   ]
-  },
-  {
-   "id": "46_[8105",
-   "marks": [],
-   "path": "Subtitle 002 (II) - Vessels and Seamen/Part F - Manning of Vessels/Chapter 081 - General/§ 08105 - Repealed. Pub. L. 101–595, title VI, §603(7)(A), Nov. 16, 1990, 104 Stat. 2993.md",
-   "printed_pages": [
-    87,
-    87
-   ]
-  },
-  {
-   "id": "46_-Subtitle_II-Part_F-ch83",
-   "marks": [],
-   "path": "Subtitle 002 (II) - Vessels and Seamen/Part F - Manning of Vessels/Chapter 083 - Masters and Officers/README.md",
-   "printed_pages": [
-    87,
-    87
-   ]
-  },
-  {
-   "id": "46_8301",
-   "marks": [
-    [
-     "I",
-     52,
-     [
-      [
-       155,
-       "[Page 88]"
-      ]
-     ]
-    ]
-   ],
-   "path": "Subtitle 002 (II) - Vessels and Seamen/Part F - Manning of Vessels/Chapter 083 - Masters and Officers/§ 08301 - Minimum number of licensed individuals.md",
-   "printed_pages": [
-    87,
-    88
-   ]
-  },
-  {
-   "id": "46_8302",
-   "marks": [],
-   "path": "Subtitle 002 (II) - Vessels and Seamen/Part F - Manning of Vessels/Chapter 083 - Masters and Officers/§ 08302 - Staff department.md",
-   "printed_pages": [
-    88,
-    88
-   ]
-  },
-  {
-   "id": "46_8303",
-   "marks": [
-    [
-     "L",
-     16,
-     "[Page 89]",
-     true
-    ]
-   ],
-   "path": "Subtitle 002 (II) - Vessels and Seamen/Part F - Manning of Vessels/Chapter 083 - Masters and Officers/§ 08303 - Service under licenses issued without examination.md",
-   "printed_pages": [
-    88,
-    89
-   ]
-  },
-  {
-   "id": "46_8304",
-   "marks": [],
-   "path": "Subtitle 002 (II) - Vessels and Seamen/Part F - Manning of Vessels/Chapter 083 - Masters and Officers/§ 08304 - Implementing the Officers’ Competency Certificates Convention, 1936.md",
-   "printed_pages": [
-    89,
-    89
-   ]
-  },
-  {
-   "id": "46_-Subtitle_II-Part_F-ch85",
-   "marks": [
-    [
-     "L",
-     20,
-     "[Page 90]",
-     true
-    ]
-   ],
-   "path": "Subtitle 002 (II) - Vessels and Seamen/Part F - Manning of Vessels/Chapter 085 - Pilots/README.md",
-   "printed_pages": [
-    89,
-    90
-   ]
-  },
-  {
-   "id": "46_8501",
-   "marks": [],
-   "path": "Subtitle 002 (II) - Vessels and Seamen/Part F - Manning of Vessels/Chapter 085 - Pilots/§ 08501 - State regulation of pilots.md",
-   "printed_pages": [
-    90,
-    90
-   ]
-  },
-  {
-   "id": "46_8502",
-   "marks": [
-    [
-     "L",
-     36,
-     "[Page 91]",
-     true
-    ]
-   ],
-   "path": "Subtitle 002 (II) - Vessels and Seamen/Part F - Manning of Vessels/Chapter 085 - Pilots/§ 08502 - Federal pilots required.md",
-   "printed_pages": [
-    90,
-    91
-   ]
-  },
-  {
-   "id": "46_8503",
-   "marks": [],
-   "path": "Subtitle 002 (II) - Vessels and Seamen/Part F - Manning of Vessels/Chapter 085 - Pilots/§ 08503 - Federal pilots authorized.md",
-   "printed_pages": [
-    91,
-    91
-   ]
-  },
-  {
-   "id": "46_-Subtitle_II-Part_F-ch87",
-   "marks": [],
-   "path": "Subtitle 002 (II) - Vessels and Seamen/Part F - Manning of Vessels/Chapter 087 - Unlicensed Personnel/README.md",
-   "printed_pages": [
-    91,
-    91
-   ]
-  },
-  {
-   "id": "46_8701",
-   "marks": [
-    [
-     "I",
-     16,
-     [
-      [
-       146,
-       "[Page 92]"
-      ]
-     ]
-    ]
-   ],
-   "path": "Subtitle 002 (II) - Vessels and Seamen/Part F - Manning of Vessels/Chapter 087 - Unlicensed Personnel/§ 08701 - Merchant mariners’ documents required.md",
-   "printed_pages": [
-    91,
-    92
-   ]
-  },
-  {
-   "id": "46_8702",
-   "marks": [
-    [
-     "L",
-     50,
-     "[Page 93]",
-     true
-    ]
-   ],
-   "path": "Subtitle 002 (II) - Vessels and Seamen/Part F - Manning of Vessels/Chapter 087 - Unlicensed Personnel/§ 08702 - Certain crew requirements.md",
-   "printed_pages": [
-    92,
-    93
-   ]
-  },
-  {
-   "id": "46_8703",
-   "marks": [],
-   "path": "Subtitle 002 (II) - Vessels and Seamen/Part F - Manning of Vessels/Chapter 087 - Unlicensed Personnel/§ 08703 - Tankermen on tank vessels.md",
-   "printed_pages": [
-    93,
-    93
-   ]
-  },
-  {
-   "id": "46_8704",
-   "marks": [],
-   "path": "Subtitle 002 (II) - Vessels and Seamen/Part F - Manning of Vessels/Chapter 087 - Unlicensed Personnel/§ 08704 - Alien deemed to be employed in the United States.md",
-   "printed_pages": [
-    93,
-    93
-   ]
-  },
-  {
-   "id": "46_-Subtitle_II-Part_F-ch89",
-   "marks": [
-    [
-     "I",
-     15,
-     [
-      [
-       102,
-       "[Page 94]"
-      ]
-     ]
-    ]
-   ],
-   "path": "Subtitle 002 (II) - Vessels and Seamen/Part F - Manning of Vessels/Chapter 089 - Small Vessel Manning/README.md",
-   "printed_pages": [
-    93,
-    94
-   ]
-  },
-  {
-   "id": "46_8901",
-   "marks": [],
-   "path": "Subtitle 002 (II) - Vessels and Seamen/Part F - Manning of Vessels/Chapter 089 - Small Vessel Manning/§ 08901 - Freight vessels.md",
-   "printed_pages": [
-    94,
-    94
-   ]
-  },
-  {
-   "id": "46_8902",
-   "marks": [],
-   "path": "Subtitle 002 (II) - Vessels and Seamen/Part F - Manning of Vessels/Chapter 089 - Small Vessel Manning/§ 08902 - Small passenger vessels.md",
-   "printed_pages": [
-    94,
-    94
-   ]
-  },
-  {
-   "id": "46_8903",
-   "marks": [],
-   "path": "Subtitle 002 (II) - Vessels and Seamen/Part F - Manning of Vessels/Chapter 089 - Small Vessel Manning/§ 08903 - Self-propelled, uninspected passenger vessels.md",
-   "printed_pages": [
-    94,
-    94
-   ]
-  },
-  {
-   "id": "46_8904",
-   "marks": [],
-   "path": "Subtitle 002 (II) - Vessels and Seamen/Part F - Manning of Vessels/Chapter 089 - Small Vessel Manning/§ 08904 - Towing vessels.md",
-   "printed_pages": [
-    94,
-    94
-   ]
-  },
-  {
-   "id": "46_8905",
-   "marks": [],
-   "path": "Subtitle 002 (II) - Vessels and Seamen/Part F - Manning of Vessels/Chapter 089 - Small Vessel Manning/§ 08905 - Exemptions.md",
-   "printed_pages": [
-    94,
-    94
-   ]
-  },
-  {
-   "id": "46_8906",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       90,
-       "[Page 95]"
-      ]
-     ]
-    ]
-   ],
-   "path": "Subtitle 002 (II) - Vessels and Seamen/Part F - Manning of Vessels/Chapter 089 - Small Vessel Manning/§ 08906 - Penalty.md",
-   "printed_pages": [
-    94,
-    95
-   ]
-  },
-  {
-   "id": "46_-Subtitle_II-Part_F-ch91",
-   "marks": [],
-   "path": "Subtitle 002 (II) - Vessels and Seamen/Part F - Manning of Vessels/Chapter 091 - Tank Vessel Manning Standards/README.md",
-   "printed_pages": [
-    95,
-    95
-   ]
-  },
-  {
-   "id": "46_9101",
-   "marks": [],
-   "path": "Subtitle 002 (II) - Vessels and Seamen/Part F - Manning of Vessels/Chapter 091 - Tank Vessel Manning Standards/§ 09101 - Standards for foreign tank vessels.md",
-   "printed_pages": [
-    95,
-    95
-   ]
-  },
-  {
-   "id": "46_9102",
-   "marks": [
-    [
-     "I",
-     6,
-     [
-      [
-       96,
-       "[Page 96]"
-      ]
-     ]
-    ]
-   ],
-   "path": "Subtitle 002 (II) - Vessels and Seamen/Part F - Manning of Vessels/Chapter 091 - Tank Vessel Manning Standards/§ 09102 - Standards for tank vessels of the United States.md",
-   "printed_pages": [
-    95,
-    96
-   ]
-  },
-  {
-   "id": "46_-Subtitle_II-Part_F-ch93",
-   "marks": [],
-   "path": "Subtitle 002 (II) - Vessels and Seamen/Part F - Manning of Vessels/Chapter 093 - Great Lakes Pilotage/README.md",
-   "printed_pages": [
-    96,
-    96
-   ]
-  },
-  {
-   "id": "46_9301",
-   "marks": [],
-   "path": "Subtitle 002 (II) - Vessels and Seamen/Part F - Manning of Vessels/Chapter 093 - Great Lakes Pilotage/§ 09301 - Definitions.md",
-   "printed_pages": [
-    96,
-    96
-   ]
-  },
-  {
-   "id": "46_9302",
-   "marks": [
-    [
-     "I",
-     12,
-     [
-      [
-       90,
-       "[Page 97]"
-      ]
-     ]
-    ]
-   ],
-   "path": "Subtitle 002 (II) - Vessels and Seamen/Part F - Manning of Vessels/Chapter 093 - Great Lakes Pilotage/§ 09302 - Great Lakes pilots required.md",
-   "printed_pages": [
-    96,
-    97
-   ]
-  },
-  {
-   "id": "46_9303",
-   "marks": [
-    [
-     "I",
-     6,
-     [
-      [
-       238,
-       "[Page 98]"
-      ]
-     ]
-    ]
-   ],
-   "path": "Subtitle 002 (II) - Vessels and Seamen/Part F - Manning of Vessels/Chapter 093 - Great Lakes Pilotage/§ 09303 - United States registered pilot service.md",
-   "printed_pages": [
-    97,
-    98
-   ]
-  },
-  {
-   "id": "46_9304",
-   "marks": [],
-   "path": "Subtitle 002 (II) - Vessels and Seamen/Part F - Manning of Vessels/Chapter 093 - Great Lakes Pilotage/§ 09304 - Pilotage pools.md",
-   "printed_pages": [
-    98,
-    98
-   ]
-  },
-  {
-   "id": "46_9305",
-   "marks": [],
-   "path": "Subtitle 002 (II) - Vessels and Seamen/Part F - Manning of Vessels/Chapter 093 - Great Lakes Pilotage/§ 09305 - Agreements with Canada.md",
-   "printed_pages": [
-    98,
-    98
-   ]
-  },
-  {
-   "id": "46_9306",
-   "marks": [],
-   "path": "Subtitle 002 (II) - Vessels and Seamen/Part F - Manning of Vessels/Chapter 093 - Great Lakes Pilotage/§ 09306 - State regulation prohibited.md",
-   "printed_pages": [
-    98,
-    98
-   ]
-  },
-  {
-   "id": "46_9307",
-   "marks": [
-    [
-     "L",
-     6,
-     "[Page 99]",
-     true
-    ]
-   ],
-   "path": "Subtitle 002 (II) - Vessels and Seamen/Part F - Manning of Vessels/Chapter 093 - Great Lakes Pilotage/§ 09307 - Great Lakes Pilotage Advisory Committee.md",
-   "printed_pages": [
-    98,
-    99
-   ]
-  },
-  {
-   "id": "46_9308",
-   "marks": [],
-   "path": "Subtitle 002 (II) - Vessels and Seamen/Part F - Manning of Vessels/Chapter 093 - Great Lakes Pilotage/§ 09308 - Penalties.md",
-   "printed_pages": [
-    99,
-    99
-   ]
-  },
-  {
-   "id": "46_-Subtitle_II-Part_G",
-   "marks": [],
-   "path": "Subtitle 002 (II) - Vessels and Seamen/Part G - Merchant Seamen Protection and Relief/README.md",
-   "printed_pages": [
-    99,
-    99
-   ]
-  },
-  {
-   "id": "46_-Subtitle_II-Part_G-ch101",
-   "marks": [],
-   "path": "Subtitle 002 (II) - Vessels and Seamen/Part G - Merchant Seamen Protection and Relief/Chapter 101 - General/README.md",
-   "printed_pages": [
-    99,
-    99
-   ]
-  },
-  {
-   "id": "46_10101",
    "marks": [
     [
      "I",
@@ -3033,15 +2422,801 @@
      [
       [
        93,
+       "[Page 85]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Subtitle 002 (II) - Vessels and Seamen/Part E - Merchant Seamen Licenses, Certificates, and Documents/Chapter 073 - Merchant Mariners’ Documents/§ 07312 - Scale of employment.md",
+   "printed_pages": [
+    84,
+    85
+   ]
+  },
+  {
+   "id": "46_7313",
+   "marks": [
+    [
+     "I",
+     26,
+     [
+      [
+       108,
+       "[Page 86]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Subtitle 002 (II) - Vessels and Seamen/Part E - Merchant Seamen Licenses, Certificates, and Documents/Chapter 073 - Merchant Mariners’ Documents/§ 07313 - General requirements for members of engine departments.md",
+   "printed_pages": [
+    85,
+    86
+   ]
+  },
+  {
+   "id": "46_7314",
+   "marks": [],
+   "path": "Subtitle 002 (II) - Vessels and Seamen/Part E - Merchant Seamen Licenses, Certificates, and Documents/Chapter 073 - Merchant Mariners’ Documents/§ 07314 - Service requirements for qualified members of engine departments.md",
+   "printed_pages": [
+    86,
+    86
+   ]
+  },
+  {
+   "id": "46_7315",
+   "marks": [],
+   "path": "Subtitle 002 (II) - Vessels and Seamen/Part E - Merchant Seamen Licenses, Certificates, and Documents/Chapter 073 - Merchant Mariners’ Documents/§ 07315 - Training.md",
+   "printed_pages": [
+    86,
+    86
+   ]
+  },
+  {
+   "id": "46_7316",
+   "marks": [],
+   "path": "Subtitle 002 (II) - Vessels and Seamen/Part E - Merchant Seamen Licenses, Certificates, and Documents/Chapter 073 - Merchant Mariners’ Documents/§ 07316 - Lifeboatmen.md",
+   "printed_pages": [
+    86,
+    86
+   ]
+  },
+  {
+   "id": "46_7317",
+   "marks": [],
+   "path": "Subtitle 002 (II) - Vessels and Seamen/Part E - Merchant Seamen Licenses, Certificates, and Documents/Chapter 073 - Merchant Mariners’ Documents/§ 07317 - Tankermen.md",
+   "printed_pages": [
+    86,
+    86
+   ]
+  },
+  {
+   "id": "46_7318",
+   "marks": [
+    [
+     "L",
+     28,
+     "[Page 87]",
+     true
+    ]
+   ],
+   "path": "Subtitle 002 (II) - Vessels and Seamen/Part E - Merchant Seamen Licenses, Certificates, and Documents/Chapter 073 - Merchant Mariners’ Documents/§ 07318 - Radiotelegraph operators on Great Lakes.md",
+   "printed_pages": [
+    86,
+    87
+   ]
+  },
+  {
+   "id": "46_7319",
+   "marks": [],
+   "path": "Subtitle 002 (II) - Vessels and Seamen/Part E - Merchant Seamen Licenses, Certificates, and Documents/Chapter 073 - Merchant Mariners’ Documents/§ 07319 - Records of merchant mariners’ documents.md",
+   "printed_pages": [
+    87,
+    87
+   ]
+  },
+  {
+   "id": "46_-Subtitle_II-Part_E-ch75",
+   "marks": [],
+   "path": "Subtitle 002 (II) - Vessels and Seamen/Part E - Merchant Seamen Licenses, Certificates, and Documents/Chapter 075 - General Procedures for Licensing, Certification, and Documentation/README.md",
+   "printed_pages": [
+    87,
+    87
+   ]
+  },
+  {
+   "id": "46_7501",
+   "marks": [],
+   "path": "Subtitle 002 (II) - Vessels and Seamen/Part E - Merchant Seamen Licenses, Certificates, and Documents/Chapter 075 - General Procedures for Licensing, Certification, and Documentation/§ 07501 - Duplicates.md",
+   "printed_pages": [
+    87,
+    87
+   ]
+  },
+  {
+   "id": "46_7502",
+   "marks": [],
+   "path": "Subtitle 002 (II) - Vessels and Seamen/Part E - Merchant Seamen Licenses, Certificates, and Documents/Chapter 075 - General Procedures for Licensing, Certification, and Documentation/§ 07502 - Records.md",
+   "printed_pages": [
+    87,
+    87
+   ]
+  },
+  {
+   "id": "46_7503",
+   "marks": [
+    [
+     "L",
+     32,
+     "[Page 88]",
+     true
+    ]
+   ],
+   "path": "Subtitle 002 (II) - Vessels and Seamen/Part E - Merchant Seamen Licenses, Certificates, and Documents/Chapter 075 - General Procedures for Licensing, Certification, and Documentation/§ 07503 - Dangerous drugs as grounds for denial.md",
+   "printed_pages": [
+    87,
+    88
+   ]
+  },
+  {
+   "id": "46_7504",
+   "marks": [],
+   "path": "Subtitle 002 (II) - Vessels and Seamen/Part E - Merchant Seamen Licenses, Certificates, and Documents/Chapter 075 - General Procedures for Licensing, Certification, and Documentation/§ 07504 - Travel and expense reimbursement.md",
+   "printed_pages": [
+    88,
+    88
+   ]
+  },
+  {
+   "id": "46_7505",
+   "marks": [],
+   "path": "Subtitle 002 (II) - Vessels and Seamen/Part E - Merchant Seamen Licenses, Certificates, and Documents/Chapter 075 - General Procedures for Licensing, Certification, and Documentation/§ 07505 - Review of information in National Driver Register.md",
+   "printed_pages": [
+    88,
+    88
+   ]
+  },
+  {
+   "id": "46_7506",
+   "marks": [],
+   "path": "Subtitle 002 (II) - Vessels and Seamen/Part E - Merchant Seamen Licenses, Certificates, and Documents/Chapter 075 - General Procedures for Licensing, Certification, and Documentation/§ 07506 - Convention tonnage for licenses, certificates, and documents.md",
+   "printed_pages": [
+    88,
+    88
+   ]
+  },
+  {
+   "id": "46_-Subtitle_II-Part_E-ch77",
+   "marks": [],
+   "path": "Subtitle 002 (II) - Vessels and Seamen/Part E - Merchant Seamen Licenses, Certificates, and Documents/Chapter 077 - Suspension and Revocation/README.md",
+   "printed_pages": [
+    88,
+    88
+   ]
+  },
+  {
+   "id": "46_7701",
+   "marks": [],
+   "path": "Subtitle 002 (II) - Vessels and Seamen/Part E - Merchant Seamen Licenses, Certificates, and Documents/Chapter 077 - Suspension and Revocation/§ 07701 - General.md",
+   "printed_pages": [
+    88,
+    88
+   ]
+  },
+  {
+   "id": "46_7702",
+   "marks": [
+    [
+     "I",
+     6,
+     [
+      [
+       94,
+       "[Page 89]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Subtitle 002 (II) - Vessels and Seamen/Part E - Merchant Seamen Licenses, Certificates, and Documents/Chapter 077 - Suspension and Revocation/§ 07702 - Administrative procedure.md",
+   "printed_pages": [
+    88,
+    89
+   ]
+  },
+  {
+   "id": "46_7703",
+   "marks": [
+    [
+     "L",
+     52,
+     "[Page 90]",
+     true
+    ]
+   ],
+   "path": "Subtitle 002 (II) - Vessels and Seamen/Part E - Merchant Seamen Licenses, Certificates, and Documents/Chapter 077 - Suspension and Revocation/§ 07703 - Bases for suspension or revocation.md",
+   "printed_pages": [
+    89,
+    90
+   ]
+  },
+  {
+   "id": "46_7704",
+   "marks": [],
+   "path": "Subtitle 002 (II) - Vessels and Seamen/Part E - Merchant Seamen Licenses, Certificates, and Documents/Chapter 077 - Suspension and Revocation/§ 07704 - Dangerous drugs as grounds for revocation.md",
+   "printed_pages": [
+    90,
+    90
+   ]
+  },
+  {
+   "id": "46_7705",
+   "marks": [],
+   "path": "Subtitle 002 (II) - Vessels and Seamen/Part E - Merchant Seamen Licenses, Certificates, and Documents/Chapter 077 - Suspension and Revocation/§ 07705 - Subpenas and oaths.md",
+   "printed_pages": [
+    90,
+    90
+   ]
+  },
+  {
+   "id": "46_-Subtitle_II-Part_F",
+   "marks": [],
+   "path": "Subtitle 002 (II) - Vessels and Seamen/Part F - Manning of Vessels/README.md",
+   "printed_pages": [
+    90,
+    90
+   ]
+  },
+  {
+   "id": "46_-Subtitle_II-Part_F-ch81",
+   "marks": [],
+   "path": "Subtitle 002 (II) - Vessels and Seamen/Part F - Manning of Vessels/Chapter 081 - General/README.md",
+   "printed_pages": [
+    90,
+    90
+   ]
+  },
+  {
+   "id": "46_8101",
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       142,
+       "[Page 91]"
+      ]
+     ]
+    ],
+    [
+     "L",
+     74,
+     "[Page 92]",
+     true
+    ]
+   ],
+   "path": "Subtitle 002 (II) - Vessels and Seamen/Part F - Manning of Vessels/Chapter 081 - General/§ 08101 - Complement of inspected vessels.md",
+   "printed_pages": [
+    90,
+    92
+   ]
+  },
+  {
+   "id": "46_8102",
+   "marks": [],
+   "path": "Subtitle 002 (II) - Vessels and Seamen/Part F - Manning of Vessels/Chapter 081 - General/§ 08102 - Watchmen.md",
+   "printed_pages": [
+    92,
+    92
+   ]
+  },
+  {
+   "id": "46_8103",
+   "marks": [
+    [
+     "I",
+     32,
+     [
+      [
+       333,
+       "[Page 93]"
+      ]
+     ]
+    ],
+    [
+     "L",
+     100,
+     "[Page 94]",
+     true
+    ]
+   ],
+   "path": "Subtitle 002 (II) - Vessels and Seamen/Part F - Manning of Vessels/Chapter 081 - General/§ 08103 - Citizenship and Naval Reserve requirements.md",
+   "printed_pages": [
+    92,
+    94
+   ]
+  },
+  {
+   "id": "46_8104",
+   "marks": [
+    [
+     "L",
+     20,
+     "[Page 95]",
+     true
+    ],
+    [
+     "I",
+     92,
+     [
+      [
+       261,
+       "[Page 96]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Subtitle 002 (II) - Vessels and Seamen/Part F - Manning of Vessels/Chapter 081 - General/§ 08104 - Watches.md",
+   "printed_pages": [
+    94,
+    96
+   ]
+  },
+  {
+   "id": "46_8105",
+   "marks": [],
+   "path": "Subtitle 002 (II) - Vessels and Seamen/Part F - Manning of Vessels/Chapter 081 - General/§ 08105 - Fishing vessel exemption.md",
+   "printed_pages": [
+    96,
+    96
+   ]
+  },
+  {
+   "id": "46_-Subtitle_II-Part_F-ch83",
+   "marks": [
+    [
+     "I",
+     13,
+     [
+      [
+       106,
+       "[Page 97]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Subtitle 002 (II) - Vessels and Seamen/Part F - Manning of Vessels/Chapter 083 - Masters and Officers/README.md",
+   "printed_pages": [
+    96,
+    97
+   ]
+  },
+  {
+   "id": "46_8301",
+   "marks": [
+    [
+     "L",
+     70,
+     "[Page 98]",
+     true
+    ]
+   ],
+   "path": "Subtitle 002 (II) - Vessels and Seamen/Part F - Manning of Vessels/Chapter 083 - Masters and Officers/§ 08301 - Minimum number of licensed individuals.md",
+   "printed_pages": [
+    97,
+    98
+   ]
+  },
+  {
+   "id": "46_8302",
+   "marks": [],
+   "path": "Subtitle 002 (II) - Vessels and Seamen/Part F - Manning of Vessels/Chapter 083 - Masters and Officers/§ 08302 - Staff department.md",
+   "printed_pages": [
+    98,
+    98
+   ]
+  },
+  {
+   "id": "46_8303",
+   "marks": [
+    [
+     "L",
+     22,
+     "[Page 99]",
+     true
+    ]
+   ],
+   "path": "Subtitle 002 (II) - Vessels and Seamen/Part F - Manning of Vessels/Chapter 083 - Masters and Officers/§ 08303 - Service under licenses issued without examination.md",
+   "printed_pages": [
+    98,
+    99
+   ]
+  },
+  {
+   "id": "46_8304",
+   "marks": [],
+   "path": "Subtitle 002 (II) - Vessels and Seamen/Part F - Manning of Vessels/Chapter 083 - Masters and Officers/§ 08304 - Implementing the Officers’ Competency Certificates Convention, 1936.md",
+   "printed_pages": [
+    99,
+    99
+   ]
+  },
+  {
+   "id": "46_-Subtitle_II-Part_F-ch85",
+   "marks": [
+    [
+     "I",
+     14,
+     [
+      [
+       318,
        "[Page 100]"
       ]
      ]
     ]
    ],
-   "path": "Subtitle 002 (II) - Vessels and Seamen/Part G - Merchant Seamen Protection and Relief/Chapter 101 - General/§ 10101 - Definitions.md",
+   "path": "Subtitle 002 (II) - Vessels and Seamen/Part F - Manning of Vessels/Chapter 085 - Pilots/README.md",
    "printed_pages": [
     99,
     100
+   ]
+  },
+  {
+   "id": "46_8501",
+   "marks": [],
+   "path": "Subtitle 002 (II) - Vessels and Seamen/Part F - Manning of Vessels/Chapter 085 - Pilots/§ 08501 - State regulation of pilots.md",
+   "printed_pages": [
+    100,
+    100
+   ]
+  },
+  {
+   "id": "46_8502",
+   "marks": [
+    [
+     "I",
+     32,
+     [
+      [
+       230,
+       "[Page 101]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Subtitle 002 (II) - Vessels and Seamen/Part F - Manning of Vessels/Chapter 085 - Pilots/§ 08502 - Federal pilots required.md",
+   "printed_pages": [
+    100,
+    101
+   ]
+  },
+  {
+   "id": "46_8503",
+   "marks": [],
+   "path": "Subtitle 002 (II) - Vessels and Seamen/Part F - Manning of Vessels/Chapter 085 - Pilots/§ 08503 - Federal pilots authorized.md",
+   "printed_pages": [
+    101,
+    101
+   ]
+  },
+  {
+   "id": "46_-Subtitle_II-Part_F-ch87",
+   "marks": [],
+   "path": "Subtitle 002 (II) - Vessels and Seamen/Part F - Manning of Vessels/Chapter 087 - Unlicensed Personnel/README.md",
+   "printed_pages": [
+    101,
+    101
+   ]
+  },
+  {
+   "id": "46_8701",
+   "marks": [
+    [
+     "L",
+     10,
+     "[Page 102]",
+     true
+    ]
+   ],
+   "path": "Subtitle 002 (II) - Vessels and Seamen/Part F - Manning of Vessels/Chapter 087 - Unlicensed Personnel/§ 08701 - Merchant mariners’ documents required.md",
+   "printed_pages": [
+    101,
+    102
+   ]
+  },
+  {
+   "id": "46_8702",
+   "marks": [
+    [
+     "L",
+     22,
+     "[Page 103]",
+     true
+    ]
+   ],
+   "path": "Subtitle 002 (II) - Vessels and Seamen/Part F - Manning of Vessels/Chapter 087 - Unlicensed Personnel/§ 08702 - Certain crew requirements.md",
+   "printed_pages": [
+    102,
+    103
+   ]
+  },
+  {
+   "id": "46_8703",
+   "marks": [
+    [
+     "L",
+     34,
+     "[Page 104]",
+     true
+    ]
+   ],
+   "path": "Subtitle 002 (II) - Vessels and Seamen/Part F - Manning of Vessels/Chapter 087 - Unlicensed Personnel/§ 08703 - Tankermen on tank vessels.md",
+   "printed_pages": [
+    103,
+    104
+   ]
+  },
+  {
+   "id": "46_8704",
+   "marks": [],
+   "path": "Subtitle 002 (II) - Vessels and Seamen/Part F - Manning of Vessels/Chapter 087 - Unlicensed Personnel/§ 08704 - Alien deemed to be employed in the United States.md",
+   "printed_pages": [
+    104,
+    104
+   ]
+  },
+  {
+   "id": "46_-Subtitle_II-Part_F-ch89",
+   "marks": [],
+   "path": "Subtitle 002 (II) - Vessels and Seamen/Part F - Manning of Vessels/Chapter 089 - Small Vessel Manning/README.md",
+   "printed_pages": [
+    104,
+    104
+   ]
+  },
+  {
+   "id": "46_8901",
+   "marks": [],
+   "path": "Subtitle 002 (II) - Vessels and Seamen/Part F - Manning of Vessels/Chapter 089 - Small Vessel Manning/§ 08901 - Freight vessels.md",
+   "printed_pages": [
+    104,
+    104
+   ]
+  },
+  {
+   "id": "46_8902",
+   "marks": [],
+   "path": "Subtitle 002 (II) - Vessels and Seamen/Part F - Manning of Vessels/Chapter 089 - Small Vessel Manning/§ 08902 - Small passenger vessels.md",
+   "printed_pages": [
+    104,
+    104
+   ]
+  },
+  {
+   "id": "46_8903",
+   "marks": [
+    [
+     "L",
+     22,
+     "[Page 105]",
+     true
+    ]
+   ],
+   "path": "Subtitle 002 (II) - Vessels and Seamen/Part F - Manning of Vessels/Chapter 089 - Small Vessel Manning/§ 08903 - Self-propelled, uninspected passenger vessels.md",
+   "printed_pages": [
+    104,
+    105
+   ]
+  },
+  {
+   "id": "46_8904",
+   "marks": [],
+   "path": "Subtitle 002 (II) - Vessels and Seamen/Part F - Manning of Vessels/Chapter 089 - Small Vessel Manning/§ 08904 - Towing vessels.md",
+   "printed_pages": [
+    105,
+    105
+   ]
+  },
+  {
+   "id": "46_8905",
+   "marks": [],
+   "path": "Subtitle 002 (II) - Vessels and Seamen/Part F - Manning of Vessels/Chapter 089 - Small Vessel Manning/§ 08905 - Exemptions.md",
+   "printed_pages": [
+    105,
+    105
+   ]
+  },
+  {
+   "id": "46_8906",
+   "marks": [],
+   "path": "Subtitle 002 (II) - Vessels and Seamen/Part F - Manning of Vessels/Chapter 089 - Small Vessel Manning/§ 08906 - Penalty.md",
+   "printed_pages": [
+    105,
+    105
+   ]
+  },
+  {
+   "id": "46_-Subtitle_II-Part_F-ch91",
+   "marks": [],
+   "path": "Subtitle 002 (II) - Vessels and Seamen/Part F - Manning of Vessels/Chapter 091 - Tank Vessel Manning Standards/README.md",
+   "printed_pages": [
+    105,
+    105
+   ]
+  },
+  {
+   "id": "46_9101",
+   "marks": [
+    [
+     "L",
+     14,
+     "[Page 106]",
+     true
+    ]
+   ],
+   "path": "Subtitle 002 (II) - Vessels and Seamen/Part F - Manning of Vessels/Chapter 091 - Tank Vessel Manning Standards/§ 09101 - Standards for foreign tank vessels.md",
+   "printed_pages": [
+    105,
+    106
+   ]
+  },
+  {
+   "id": "46_9102",
+   "marks": [
+    [
+     "L",
+     40,
+     "[Page 107]",
+     true
+    ]
+   ],
+   "path": "Subtitle 002 (II) - Vessels and Seamen/Part F - Manning of Vessels/Chapter 091 - Tank Vessel Manning Standards/§ 09102 - Standards for tank vessels of the United States.md",
+   "printed_pages": [
+    106,
+    107
+   ]
+  },
+  {
+   "id": "46_-Subtitle_II-Part_F-ch93",
+   "marks": [],
+   "path": "Subtitle 002 (II) - Vessels and Seamen/Part F - Manning of Vessels/Chapter 093 - Great Lakes Pilotage/README.md",
+   "printed_pages": [
+    107,
+    107
+   ]
+  },
+  {
+   "id": "46_9301",
+   "marks": [],
+   "path": "Subtitle 002 (II) - Vessels and Seamen/Part F - Manning of Vessels/Chapter 093 - Great Lakes Pilotage/§ 09301 - Definitions.md",
+   "printed_pages": [
+    107,
+    107
+   ]
+  },
+  {
+   "id": "46_9302",
+   "marks": [
+    [
+     "I",
+     42,
+     [
+      [
+       215,
+       "[Page 108]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Subtitle 002 (II) - Vessels and Seamen/Part F - Manning of Vessels/Chapter 093 - Great Lakes Pilotage/§ 09302 - Great Lakes pilots required.md",
+   "printed_pages": [
+    107,
+    108
+   ]
+  },
+  {
+   "id": "46_9303",
+   "marks": [
+    [
+     "L",
+     22,
+     "[Page 109]",
+     true
+    ]
+   ],
+   "path": "Subtitle 002 (II) - Vessels and Seamen/Part F - Manning of Vessels/Chapter 093 - Great Lakes Pilotage/§ 09303 - United States registered pilot service.md",
+   "printed_pages": [
+    108,
+    109
+   ]
+  },
+  {
+   "id": "46_9304",
+   "marks": [],
+   "path": "Subtitle 002 (II) - Vessels and Seamen/Part F - Manning of Vessels/Chapter 093 - Great Lakes Pilotage/§ 09304 - Pilotage pools.md",
+   "printed_pages": [
+    109,
+    109
+   ]
+  },
+  {
+   "id": "46_9305",
+   "marks": [],
+   "path": "Subtitle 002 (II) - Vessels and Seamen/Part F - Manning of Vessels/Chapter 093 - Great Lakes Pilotage/§ 09305 - Agreements with Canada.md",
+   "printed_pages": [
+    109,
+    109
+   ]
+  },
+  {
+   "id": "46_9306",
+   "marks": [],
+   "path": "Subtitle 002 (II) - Vessels and Seamen/Part F - Manning of Vessels/Chapter 093 - Great Lakes Pilotage/§ 09306 - State regulation prohibited.md",
+   "printed_pages": [
+    109,
+    109
+   ]
+  },
+  {
+   "id": "46_9307",
+   "marks": [
+    [
+     "I",
+     12,
+     [
+      [
+       357,
+       "[Page 110]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Subtitle 002 (II) - Vessels and Seamen/Part F - Manning of Vessels/Chapter 093 - Great Lakes Pilotage/§ 09307 - Great Lakes Pilotage Advisory Committee.md",
+   "printed_pages": [
+    109,
+    110
+   ]
+  },
+  {
+   "id": "46_9308",
+   "marks": [],
+   "path": "Subtitle 002 (II) - Vessels and Seamen/Part F - Manning of Vessels/Chapter 093 - Great Lakes Pilotage/§ 09308 - Penalties.md",
+   "printed_pages": [
+    110,
+    110
+   ]
+  },
+  {
+   "id": "46_-Subtitle_II-Part_G",
+   "marks": [],
+   "path": "Subtitle 002 (II) - Vessels and Seamen/Part G - Merchant Seamen Protection and Relief/README.md",
+   "printed_pages": [
+    110,
+    110
+   ]
+  },
+  {
+   "id": "46_-Subtitle_II-Part_G-ch101",
+   "marks": [],
+   "path": "Subtitle 002 (II) - Vessels and Seamen/Part G - Merchant Seamen Protection and Relief/Chapter 101 - General/README.md",
+   "printed_pages": [
+    110,
+    110
+   ]
+  },
+  {
+   "id": "46_10101",
+   "marks": [
+    [
+     "L",
+     18,
+     "[Page 111]",
+     true
+    ]
+   ],
+   "path": "Subtitle 002 (II) - Vessels and Seamen/Part G - Merchant Seamen Protection and Relief/Chapter 101 - General/§ 10101 - Definitions.md",
+   "printed_pages": [
+    110,
+    111
    ]
   },
   {
@@ -3049,8 +3224,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part G - Merchant Seamen Protection and Relief/Chapter 101 - General/§ 10102 - Repealed. Pub. L. 103–206, title IV, §422(c)(1), Dec. 20, 1993, 107 Stat. 2439.md",
    "printed_pages": [
-    100,
-    100
+    111,
+    111
    ]
   },
   {
@@ -3058,8 +3233,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part G - Merchant Seamen Protection and Relief/Chapter 101 - General/§ 10103 - Reports.md",
    "printed_pages": [
-    100,
-    100
+    111,
+    111
    ]
   },
   {
@@ -3067,8 +3242,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part G - Merchant Seamen Protection and Relief/Chapter 101 - General/§ 10104 - Requirement to report sexual offenses.md",
    "printed_pages": [
-    100,
-    100
+    111,
+    111
    ]
   },
   {
@@ -3076,24 +3251,28 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part G - Merchant Seamen Protection and Relief/Chapter 103 - Foreign and Intercoastal Voyages/README.md",
    "printed_pages": [
-    100,
-    100
+    111,
+    111
    ]
   },
   {
    "id": "46_10301",
    "marks": [
     [
-     "L",
-     28,
-     "[Page 101]",
-     true
+     "I",
+     32,
+     [
+      [
+       109,
+       "[Page 112]"
+      ]
+     ]
     ]
    ],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part G - Merchant Seamen Protection and Relief/Chapter 103 - Foreign and Intercoastal Voyages/§ 10301 - Application.md",
    "printed_pages": [
-    100,
-    101
+    111,
+    112
    ]
   },
   {
@@ -3101,8 +3280,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part G - Merchant Seamen Protection and Relief/Chapter 103 - Foreign and Intercoastal Voyages/§ 10302 - Shipping articles agreements.md",
    "printed_pages": [
-    101,
-    101
+    112,
+    112
    ]
   },
   {
@@ -3110,8 +3289,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part G - Merchant Seamen Protection and Relief/Chapter 103 - Foreign and Intercoastal Voyages/§ 10303 - Provisions.md",
    "printed_pages": [
-    101,
-    101
+    112,
+    112
    ]
   },
   {
@@ -3119,15 +3298,15 @@
    "marks": [
     [
      "L",
-     22,
-     "[Page 102]",
+     24,
+     "[Page 113]",
      true
     ]
    ],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part G - Merchant Seamen Protection and Relief/Chapter 103 - Foreign and Intercoastal Voyages/§ 10304 - Form of agreement.md",
    "printed_pages": [
-    101,
-    102
+    112,
+    113
    ]
   },
   {
@@ -3135,8 +3314,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part G - Merchant Seamen Protection and Relief/Chapter 103 - Foreign and Intercoastal Voyages/§ 10305 - Manner of signing agreement.md",
    "printed_pages": [
-    102,
-    102
+    113,
+    113
    ]
   },
   {
@@ -3144,8 +3323,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part G - Merchant Seamen Protection and Relief/Chapter 103 - Foreign and Intercoastal Voyages/§ 10306 - Exhibiting merchant mariners’ documents.md",
    "printed_pages": [
-    102,
-    102
+    113,
+    113
    ]
   },
   {
@@ -3153,28 +3332,24 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part G - Merchant Seamen Protection and Relief/Chapter 103 - Foreign and Intercoastal Voyages/§ 10307 - Posting agreements.md",
    "printed_pages": [
-    102,
-    102
+    113,
+    113
    ]
   },
   {
    "id": "46_10308",
    "marks": [
     [
-     "I",
-     2,
-     [
-      [
-       189,
-       "[Page 103]"
-      ]
-     ]
+     "L",
+     4,
+     "[Page 114]",
+     true
     ]
    ],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part G - Merchant Seamen Protection and Relief/Chapter 103 - Foreign and Intercoastal Voyages/§ 10308 - Foreign engagements.md",
    "printed_pages": [
-    102,
-    103
+    113,
+    114
    ]
   },
   {
@@ -3182,8 +3357,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part G - Merchant Seamen Protection and Relief/Chapter 103 - Foreign and Intercoastal Voyages/§ 10309 - Engaging seamen to replace those lost by desertion or casualty.md",
    "printed_pages": [
-    103,
-    103
+    114,
+    114
    ]
   },
   {
@@ -3191,28 +3366,24 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part G - Merchant Seamen Protection and Relief/Chapter 103 - Foreign and Intercoastal Voyages/§ 10310 - Discharge.md",
    "printed_pages": [
-    103,
-    103
+    114,
+    114
    ]
   },
   {
    "id": "46_10311",
    "marks": [
     [
-     "I",
-     44,
-     [
-      [
-       584,
-       "[Page 104]"
-      ]
-     ]
+     "L",
+     46,
+     "[Page 115]",
+     true
     ]
    ],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part G - Merchant Seamen Protection and Relief/Chapter 103 - Foreign and Intercoastal Voyages/§ 10311 - Certificates of discharge.md",
    "printed_pages": [
-    103,
-    104
+    114,
+    115
    ]
   },
   {
@@ -3220,8 +3391,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part G - Merchant Seamen Protection and Relief/Chapter 103 - Foreign and Intercoastal Voyages/§ 10312 - Settlements on discharge.md",
    "printed_pages": [
-    104,
-    104
+    115,
+    115
    ]
   },
   {
@@ -3230,14 +3401,14 @@
     [
      "L",
      60,
-     "[Page 105]",
+     "[Page 116]",
      true
     ]
    ],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part G - Merchant Seamen Protection and Relief/Chapter 103 - Foreign and Intercoastal Voyages/§ 10313 - Wages.md",
    "printed_pages": [
-    104,
-    105
+    115,
+    116
    ]
   },
   {
@@ -3245,8 +3416,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part G - Merchant Seamen Protection and Relief/Chapter 103 - Foreign and Intercoastal Voyages/§ 10314 - Advances.md",
    "printed_pages": [
-    105,
-    105
+    116,
+    116
    ]
   },
   {
@@ -3255,14 +3426,14 @@
     [
      "L",
      36,
-     "[Page 106]",
+     "[Page 117]",
      true
     ]
    ],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part G - Merchant Seamen Protection and Relief/Chapter 103 - Foreign and Intercoastal Voyages/§ 10315 - Allotments.md",
    "printed_pages": [
-    105,
-    106
+    116,
+    117
    ]
   },
   {
@@ -3270,8 +3441,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part G - Merchant Seamen Protection and Relief/Chapter 103 - Foreign and Intercoastal Voyages/§ 10316 - Trusts.md",
    "printed_pages": [
-    106,
-    106
+    117,
+    117
    ]
   },
   {
@@ -3279,8 +3450,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part G - Merchant Seamen Protection and Relief/Chapter 103 - Foreign and Intercoastal Voyages/§ 10317 - Loss of lien and right to wages.md",
    "printed_pages": [
-    106,
-    106
+    117,
+    117
    ]
   },
   {
@@ -3288,8 +3459,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part G - Merchant Seamen Protection and Relief/Chapter 103 - Foreign and Intercoastal Voyages/§ 10318 - Wages on discharge in foreign ports.md",
    "printed_pages": [
-    106,
-    106
+    117,
+    117
    ]
   },
   {
@@ -3301,15 +3472,15 @@
      [
       [
        276,
-       "[Page 107]"
+       "[Page 118]"
       ]
      ]
     ]
    ],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part G - Merchant Seamen Protection and Relief/Chapter 103 - Foreign and Intercoastal Voyages/§ 10319 - Costs of a criminal conviction.md",
    "printed_pages": [
-    106,
-    107
+    117,
+    118
    ]
   },
   {
@@ -3317,8 +3488,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part G - Merchant Seamen Protection and Relief/Chapter 103 - Foreign and Intercoastal Voyages/§ 10320 - Records of seamen.md",
    "printed_pages": [
-    107,
-    107
+    118,
+    118
    ]
   },
   {
@@ -3326,8 +3497,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part G - Merchant Seamen Protection and Relief/Chapter 103 - Foreign and Intercoastal Voyages/§ 10321 - General penalty.md",
    "printed_pages": [
-    107,
-    107
+    118,
+    118
    ]
   },
   {
@@ -3335,8 +3506,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part G - Merchant Seamen Protection and Relief/Chapter 105 - Coastwise Voyages/README.md",
    "printed_pages": [
-    107,
-    107
+    118,
+    118
    ]
   },
   {
@@ -3344,24 +3515,28 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part G - Merchant Seamen Protection and Relief/Chapter 105 - Coastwise Voyages/§ 10501 - Application.md",
    "printed_pages": [
-    107,
-    107
+    118,
+    118
    ]
   },
   {
    "id": "46_10502",
    "marks": [
     [
-     "L",
-     14,
-     "[Page 108]",
-     true
+     "I",
+     8,
+     [
+      [
+       89,
+       "[Page 119]"
+      ]
+     ]
     ]
    ],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part G - Merchant Seamen Protection and Relief/Chapter 105 - Coastwise Voyages/§ 10502 - Shipping articles agreements.md",
    "printed_pages": [
-    107,
-    108
+    118,
+    119
    ]
   },
   {
@@ -3369,8 +3544,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part G - Merchant Seamen Protection and Relief/Chapter 105 - Coastwise Voyages/§ 10503 - Exhibiting merchant mariners’ documents.md",
    "printed_pages": [
-    108,
-    108
+    119,
+    119
    ]
   },
   {
@@ -3378,8 +3553,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part G - Merchant Seamen Protection and Relief/Chapter 105 - Coastwise Voyages/§ 10504 - Wages.md",
    "printed_pages": [
-    108,
-    108
+    119,
+    119
    ]
   },
   {
@@ -3387,19 +3562,19 @@
    "marks": [
     [
      "I",
-     12,
+     8,
      [
       [
-       133,
-       "[Page 109]"
+       96,
+       "[Page 120]"
       ]
      ]
     ]
    ],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part G - Merchant Seamen Protection and Relief/Chapter 105 - Coastwise Voyages/§ 10505 - Advances.md",
    "printed_pages": [
-    108,
-    109
+    119,
+    120
    ]
   },
   {
@@ -3407,8 +3582,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part G - Merchant Seamen Protection and Relief/Chapter 105 - Coastwise Voyages/§ 10506 - Trusts.md",
    "printed_pages": [
-    109,
-    109
+    120,
+    120
    ]
   },
   {
@@ -3416,8 +3591,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part G - Merchant Seamen Protection and Relief/Chapter 105 - Coastwise Voyages/§ 10507 - Repealed. Pub. L. 103–206, title IV, §415(a), Dec. 20, 1993, 107 Stat. 2438.md",
    "printed_pages": [
-    109,
-    109
+    120,
+    120
    ]
   },
   {
@@ -3425,24 +3600,28 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part G - Merchant Seamen Protection and Relief/Chapter 105 - Coastwise Voyages/§ 10508 - General penalties.md",
    "printed_pages": [
-    109,
-    109
+    120,
+    120
    ]
   },
   {
    "id": "46_10509",
    "marks": [
     [
-     "L",
-     10,
-     "[Page 110]",
-     true
+     "I",
+     2,
+     [
+      [
+       138,
+       "[Page 121]"
+      ]
+     ]
     ]
    ],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part G - Merchant Seamen Protection and Relief/Chapter 105 - Coastwise Voyages/§ 10509 - Penalty for failing to begin voyage.md",
    "printed_pages": [
-    109,
-    110
+    120,
+    121
    ]
   },
   {
@@ -3450,8 +3629,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part G - Merchant Seamen Protection and Relief/Chapter 106 - Fishing Voyages/README.md",
    "printed_pages": [
-    110,
-    110
+    121,
+    121
    ]
   },
   {
@@ -3459,8 +3638,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part G - Merchant Seamen Protection and Relief/Chapter 106 - Fishing Voyages/§ 10601 - Fishing agreements.md",
    "printed_pages": [
-    110,
-    110
+    121,
+    121
    ]
   },
   {
@@ -3468,8 +3647,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part G - Merchant Seamen Protection and Relief/Chapter 106 - Fishing Voyages/§ 10602 - Recovery of wages and shares of fish under agreement.md",
    "printed_pages": [
-    110,
-    110
+    121,
+    121
    ]
   },
   {
@@ -3477,33 +3656,37 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part G - Merchant Seamen Protection and Relief/Chapter 106 - Fishing Voyages/§ 10603 - Seaman's duty to notify employer regarding illness, disability, and injury.md",
    "printed_pages": [
-    110,
-    110
+    121,
+    121
    ]
   },
   {
    "id": "46_-Subtitle_II-Part_G-ch107",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     13,
+     [
+      [
+       49,
+       "[Page 122]"
+      ]
+     ]
+    ]
+   ],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part G - Merchant Seamen Protection and Relief/Chapter 107 - Effects of Deceased Seamen/README.md",
    "printed_pages": [
-    110,
-    110
+    121,
+    122
    ]
   },
   {
    "id": "46_10701",
-   "marks": [
-    [
-     "L",
-     12,
-     "[Page 111]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part G - Merchant Seamen Protection and Relief/Chapter 107 - Effects of Deceased Seamen/§ 10701 - Application.md",
    "printed_pages": [
-    110,
-    111
+    122,
+    122
    ]
   },
   {
@@ -3511,8 +3694,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part G - Merchant Seamen Protection and Relief/Chapter 107 - Effects of Deceased Seamen/§ 10702 - Duties of masters.md",
    "printed_pages": [
-    111,
-    111
+    122,
+    122
    ]
   },
   {
@@ -3520,17 +3703,24 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part G - Merchant Seamen Protection and Relief/Chapter 107 - Effects of Deceased Seamen/§ 10703 - Procedures of masters.md",
    "printed_pages": [
-    111,
-    111
+    122,
+    122
    ]
   },
   {
    "id": "46_10704",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     18,
+     "[Page 123]",
+     true
+    ]
+   ],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part G - Merchant Seamen Protection and Relief/Chapter 107 - Effects of Deceased Seamen/§ 10704 - Duties of consular officers.md",
    "printed_pages": [
-    111,
-    111
+    122,
+    123
    ]
   },
   {
@@ -3538,28 +3728,17 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part G - Merchant Seamen Protection and Relief/Chapter 107 - Effects of Deceased Seamen/§ 10705 - Disposition of money, property, and wages by consular officers.md",
    "printed_pages": [
-    111,
-    111
+    123,
+    123
    ]
   },
   {
    "id": "46_10706",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       93,
-       "[Page 112]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part G - Merchant Seamen Protection and Relief/Chapter 107 - Effects of Deceased Seamen/§ 10706 - Seamen dying in the United States.md",
    "printed_pages": [
-    111,
-    112
+    123,
+    123
    ]
   },
   {
@@ -3567,8 +3746,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part G - Merchant Seamen Protection and Relief/Chapter 107 - Effects of Deceased Seamen/§ 10707 - Repealed. Pub. L. 103–206, title IV, §420(a), Dec. 20, 1993, 107 Stat. 2438.md",
    "printed_pages": [
-    112,
-    112
+    123,
+    123
    ]
   },
   {
@@ -3576,8 +3755,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part G - Merchant Seamen Protection and Relief/Chapter 107 - Effects of Deceased Seamen/§ 10708 - Sale of property.md",
    "printed_pages": [
-    112,
-    112
+    123,
+    123
    ]
   },
   {
@@ -3585,37 +3764,37 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part G - Merchant Seamen Protection and Relief/Chapter 107 - Effects of Deceased Seamen/§ 10709 - Distribution.md",
    "printed_pages": [
-    112,
-    112
+    123,
+    123
    ]
   },
   {
    "id": "46_10710",
-   "marks": [],
-   "path": "Subtitle 002 (II) - Vessels and Seamen/Part G - Merchant Seamen Protection and Relief/Chapter 107 - Effects of Deceased Seamen/§ 10710 - Unclaimed money, property, and wages.md",
-   "printed_pages": [
-    112,
-    112
-   ]
-  },
-  {
-   "id": "46_10711",
    "marks": [
     [
      "I",
-     2,
+     4,
      [
       [
-       93,
-       "[Page 113]"
+       146,
+       "[Page 124]"
       ]
      ]
     ]
    ],
+   "path": "Subtitle 002 (II) - Vessels and Seamen/Part G - Merchant Seamen Protection and Relief/Chapter 107 - Effects of Deceased Seamen/§ 10710 - Unclaimed money, property, and wages.md",
+   "printed_pages": [
+    123,
+    124
+   ]
+  },
+  {
+   "id": "46_10711",
+   "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part G - Merchant Seamen Protection and Relief/Chapter 107 - Effects of Deceased Seamen/§ 10711 - Penalties.md",
    "printed_pages": [
-    112,
-    113
+    124,
+    124
    ]
   },
   {
@@ -3623,8 +3802,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part G - Merchant Seamen Protection and Relief/Chapter 109 - Proceedings on Unseaworthiness/README.md",
    "printed_pages": [
-    113,
-    113
+    124,
+    124
    ]
   },
   {
@@ -3632,37 +3811,33 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part G - Merchant Seamen Protection and Relief/Chapter 109 - Proceedings on Unseaworthiness/§ 10901 - Application.md",
    "printed_pages": [
-    113,
-    113
+    124,
+    124
    ]
   },
   {
    "id": "46_10902",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     42,
+     "[Page 125]",
+     true
+    ]
+   ],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part G - Merchant Seamen Protection and Relief/Chapter 109 - Proceedings on Unseaworthiness/§ 10902 - Complaints of unfitness.md",
    "printed_pages": [
-    113,
-    113
+    124,
+    125
    ]
   },
   {
    "id": "46_10903",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       424,
-       "[Page 114]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part G - Merchant Seamen Protection and Relief/Chapter 109 - Proceedings on Unseaworthiness/§ 10903 - Proceedings on examination of vessel.md",
    "printed_pages": [
-    113,
-    114
+    125,
+    125
    ]
   },
   {
@@ -3670,8 +3845,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part G - Merchant Seamen Protection and Relief/Chapter 109 - Proceedings on Unseaworthiness/§ 10904 - Refusal to proceed.md",
    "printed_pages": [
-    114,
-    114
+    125,
+    125
    ]
   },
   {
@@ -3679,33 +3854,33 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part G - Merchant Seamen Protection and Relief/Chapter 109 - Proceedings on Unseaworthiness/§ 10905 - Complaints in foreign ports.md",
    "printed_pages": [
-    114,
-    114
+    125,
+    125
    ]
   },
   {
    "id": "46_10906",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     18,
+     "[Page 126]",
+     true
+    ]
+   ],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part G - Merchant Seamen Protection and Relief/Chapter 109 - Proceedings on Unseaworthiness/§ 10906 - Discharge of crew for unsuitability.md",
    "printed_pages": [
-    114,
-    114
+    125,
+    126
    ]
   },
   {
    "id": "46_10907",
-   "marks": [
-    [
-     "L",
-     22,
-     "[Page 115]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part G - Merchant Seamen Protection and Relief/Chapter 109 - Proceedings on Unseaworthiness/§ 10907 - Permission to make complaint.md",
    "printed_pages": [
-    114,
-    115
+    126,
+    126
    ]
   },
   {
@@ -3713,8 +3888,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part G - Merchant Seamen Protection and Relief/Chapter 109 - Proceedings on Unseaworthiness/§ 10908 - Penalty for sending unseaworthy vessel to sea.md",
    "printed_pages": [
-    115,
-    115
+    126,
+    126
    ]
   },
   {
@@ -3722,37 +3897,33 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part G - Merchant Seamen Protection and Relief/Chapter 111 - Protection and Relief/README.md",
    "printed_pages": [
-    115,
-    115
+    126,
+    126
    ]
   },
   {
    "id": "46_11101",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     24,
+     "[Page 127]",
+     true
+    ]
+   ],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part G - Merchant Seamen Protection and Relief/Chapter 111 - Protection and Relief/§ 11101 - Accommodations for seamen.md",
    "printed_pages": [
-    115,
-    115
+    126,
+    127
    ]
   },
   {
    "id": "46_11102",
-   "marks": [
-    [
-     "I",
-     4,
-     [
-      [
-       179,
-       "[Page 116]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part G - Merchant Seamen Protection and Relief/Chapter 111 - Protection and Relief/§ 11102 - Medicine chests.md",
    "printed_pages": [
-    115,
-    116
+    127,
+    127
    ]
   },
   {
@@ -3760,33 +3931,33 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part G - Merchant Seamen Protection and Relief/Chapter 111 - Protection and Relief/§ 11103 - Slop chests.md",
    "printed_pages": [
-    116,
-    116
+    127,
+    127
    ]
   },
   {
    "id": "46_11104",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     10,
+     "[Page 128]",
+     true
+    ]
+   ],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part G - Merchant Seamen Protection and Relief/Chapter 111 - Protection and Relief/§ 11104 - Destitute seamen.md",
    "printed_pages": [
-    116,
-    116
+    127,
+    128
    ]
   },
   {
    "id": "46_11105",
-   "marks": [
-    [
-     "L",
-     16,
-     "[Page 117]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part G - Merchant Seamen Protection and Relief/Chapter 111 - Protection and Relief/§ 11105 - Wages on discharge when vessel sold.md",
    "printed_pages": [
-    116,
-    117
+    128,
+    128
    ]
   },
   {
@@ -3794,8 +3965,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part G - Merchant Seamen Protection and Relief/Chapter 111 - Protection and Relief/§ 11106 - Wages on justifiable complaint of seamen.md",
    "printed_pages": [
-    117,
-    117
+    128,
+    128
    ]
   },
   {
@@ -3803,33 +3974,33 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part G - Merchant Seamen Protection and Relief/Chapter 111 - Protection and Relief/§ 11107 - Unlawful engagements void.md",
    "printed_pages": [
-    117,
-    117
+    128,
+    128
    ]
   },
   {
    "id": "46_11108",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     16,
+     "[Page 129]",
+     true
+    ]
+   ],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part G - Merchant Seamen Protection and Relief/Chapter 111 - Protection and Relief/§ 11108 - Taxes.md",
    "printed_pages": [
-    117,
-    117
+    128,
+    129
    ]
   },
   {
    "id": "46_11109",
-   "marks": [
-    [
-     "L",
-     22,
-     "[Page 118]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part G - Merchant Seamen Protection and Relief/Chapter 111 - Protection and Relief/§ 11109 - Attachment of wages.md",
    "printed_pages": [
-    117,
-    118
+    129,
+    129
    ]
   },
   {
@@ -3837,8 +4008,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part G - Merchant Seamen Protection and Relief/Chapter 111 - Protection and Relief/§ 11110 - Seamen's clothing.md",
    "printed_pages": [
-    118,
-    118
+    129,
+    129
    ]
   },
   {
@@ -3846,8 +4017,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part G - Merchant Seamen Protection and Relief/Chapter 111 - Protection and Relief/§ 11111 - Limit on amount recoverable on voyage.md",
    "printed_pages": [
-    118,
-    118
+    129,
+    129
    ]
   },
   {
@@ -3855,8 +4026,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part G - Merchant Seamen Protection and Relief/Chapter 111 - Protection and Relief/§ 11112 - Master's lien for wages.md",
    "printed_pages": [
-    118,
-    118
+    129,
+    129
    ]
   },
   {
@@ -3864,37 +4035,37 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part G - Merchant Seamen Protection and Relief/Chapter 113 - Official Logbooks/README.md",
    "printed_pages": [
-    118,
-    118
+    129,
+    129
    ]
   },
   {
    "id": "46_11301",
-   "marks": [],
-   "path": "Subtitle 002 (II) - Vessels and Seamen/Part G - Merchant Seamen Protection and Relief/Chapter 113 - Official Logbooks/§ 11301 - Logbook and entry requirements.md",
-   "printed_pages": [
-    118,
-    118
-   ]
-  },
-  {
-   "id": "46_11302",
    "marks": [
     [
      "I",
-     8,
+     26,
      [
       [
-       96,
-       "[Page 119]"
+       91,
+       "[Page 130]"
       ]
      ]
     ]
    ],
+   "path": "Subtitle 002 (II) - Vessels and Seamen/Part G - Merchant Seamen Protection and Relief/Chapter 113 - Official Logbooks/§ 11301 - Logbook and entry requirements.md",
+   "printed_pages": [
+    129,
+    130
+   ]
+  },
+  {
+   "id": "46_11302",
+   "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part G - Merchant Seamen Protection and Relief/Chapter 113 - Official Logbooks/§ 11302 - Manner of making entries.md",
    "printed_pages": [
-    118,
-    119
+    130,
+    130
    ]
   },
   {
@@ -3902,8 +4073,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part G - Merchant Seamen Protection and Relief/Chapter 113 - Official Logbooks/§ 11303 - Penalties.md",
    "printed_pages": [
-    119,
-    119
+    130,
+    130
    ]
   },
   {
@@ -3911,33 +4082,37 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part G - Merchant Seamen Protection and Relief/Chapter 115 - Offenses and Penalties/README.md",
    "printed_pages": [
-    119,
-    119
+    130,
+    130
    ]
   },
   {
    "id": "46_11501",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     12,
+     [
+      [
+       327,
+       "[Page 131]"
+      ]
+     ]
+    ]
+   ],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part G - Merchant Seamen Protection and Relief/Chapter 115 - Offenses and Penalties/§ 11501 - Penalties for specified offenses.md",
    "printed_pages": [
-    119,
-    119
+    130,
+    131
    ]
   },
   {
    "id": "46_11502",
-   "marks": [
-    [
-     "L",
-     20,
-     "[Page 120]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part G - Merchant Seamen Protection and Relief/Chapter 115 - Offenses and Penalties/§ 11502 - Entry of offenses in logbook.md",
    "printed_pages": [
-    119,
-    120
+    131,
+    131
    ]
   },
   {
@@ -3945,8 +4120,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part G - Merchant Seamen Protection and Relief/Chapter 115 - Offenses and Penalties/§ 11503 - Duties of consular officers related to insubordination.md",
    "printed_pages": [
-    120,
-    120
+    131,
+    131
    ]
   },
   {
@@ -3954,17 +4129,24 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part G - Merchant Seamen Protection and Relief/Chapter 115 - Offenses and Penalties/§ 11504 - Enforcement of forfeitures.md",
    "printed_pages": [
-    120,
-    120
+    131,
+    131
    ]
   },
   {
    "id": "46_11505",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     8,
+     "[Page 132]",
+     true
+    ]
+   ],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part G - Merchant Seamen Protection and Relief/Chapter 115 - Offenses and Penalties/§ 11505 - Disposal of forfeitures.md",
    "printed_pages": [
-    120,
-    120
+    131,
+    132
    ]
   },
   {
@@ -3972,28 +4154,17 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part G - Merchant Seamen Protection and Relief/Chapter 115 - Offenses and Penalties/§ 11506 - Carrying sheath knives.md",
    "printed_pages": [
-    120,
-    120
+    132,
+    132
    ]
   },
   {
    "id": "46_11507",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       139,
-       "[Page 121]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part G - Merchant Seamen Protection and Relief/Chapter 115 - Offenses and Penalties/§ 11507 - Surrender of offending officers.md",
    "printed_pages": [
-    120,
-    121
+    132,
+    132
    ]
   },
   {
@@ -4001,8 +4172,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part H - Identification of Vessels/README.md",
    "printed_pages": [
-    121,
-    121
+    132,
+    132
    ]
   },
   {
@@ -4010,44 +4181,54 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part H - Identification of Vessels/Chapter 121 - Documentation of Vessels/README.md",
    "printed_pages": [
-    121,
-    121
+    132,
+    132
    ]
   },
   {
    "id": "46_12101",
    "marks": [
     [
-     "I",
-     40,
-     [
-      [
-       113,
-       "[Page 122]"
-      ]
-     ]
+     "L",
+     4,
+     "[Page 133]",
+     true
     ]
    ],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part H - Identification of Vessels/Chapter 121 - Documentation of Vessels/§ 12101 - Definitions and related terms in other laws.md",
    "printed_pages": [
-    121,
-    122
+    132,
+    133
    ]
   },
   {
    "id": "46_12102",
    "marks": [
     [
-     "L",
-     60,
-     "[Page 123]",
-     true
+     "I",
+     20,
+     [
+      [
+       96,
+       "[Page 134]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     82,
+     [
+      [
+       107,
+       "[Page 135]"
+      ]
+     ]
     ]
    ],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part H - Identification of Vessels/Chapter 121 - Documentation of Vessels/§ 12102 - Vessels eligible for documentation.md",
    "printed_pages": [
-    122,
-    123
+    133,
+    135
    ]
   },
   {
@@ -4055,24 +4236,28 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part H - Identification of Vessels/Chapter 121 - Documentation of Vessels/§ 12103 - Certificates of documentation.md",
    "printed_pages": [
-    123,
-    123
+    135,
+    135
    ]
   },
   {
    "id": "46_12104",
    "marks": [
     [
-     "L",
-     8,
-     "[Page 124]",
-     true
+     "I",
+     10,
+     [
+      [
+       104,
+       "[Page 136]"
+      ]
+     ]
     ]
    ],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part H - Identification of Vessels/Chapter 121 - Documentation of Vessels/§ 12104 - Effect of documentation.md",
    "printed_pages": [
-    123,
-    124
+    135,
+    136
    ]
   },
   {
@@ -4080,48 +4265,43 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part H - Identification of Vessels/Chapter 121 - Documentation of Vessels/§ 12105 - Registry endorsements.md",
    "printed_pages": [
-    124,
-    124
+    136,
+    136
    ]
   },
   {
    "id": "46_12106",
    "marks": [
     [
+     "L",
+     36,
+     "[Page 137]",
+     true
+    ],
+    [
      "I",
-     34,
+     124,
      [
       [
-       143,
-       "[Page 125]"
+       273,
+       "[Page 138]"
       ]
      ]
     ]
    ],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part H - Identification of Vessels/Chapter 121 - Documentation of Vessels/§ 12106 - Coastwise endorsements.md",
    "printed_pages": [
-    124,
-    125
+    136,
+    138
    ]
   },
   {
-   "id": "46_12107",
-   "marks": [
-    [
-     "I",
-     32,
-     [
-      [
-       428,
-       "[Page 126]"
-      ]
-     ]
-    ]
-   ],
-   "path": "Subtitle 002 (II) - Vessels and Seamen/Part H - Identification of Vessels/Chapter 121 - Documentation of Vessels/§ 12107 - Great Lakes endorsements.md",
+   "id": "46_[12107",
+   "marks": [],
+   "path": "Subtitle 002 (II) - Vessels and Seamen/Part H - Identification of Vessels/Chapter 121 - Documentation of Vessels/§ 12107 - Repealed. Pub. L. 104–324, title XI, §1115(a), Oct. 19, 1996, 110 Stat. 3972.md",
    "printed_pages": [
-    125,
-    126
+    138,
+    138
    ]
   },
   {
@@ -4129,24 +4309,31 @@
    "marks": [
     [
      "L",
-     88,
-     "[Page 127]",
+     72,
+     "[Page 139]",
      true
     ]
    ],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part H - Identification of Vessels/Chapter 121 - Documentation of Vessels/§ 12108 - Fishery endorsements.md",
    "printed_pages": [
-    126,
-    127
+    138,
+    139
    ]
   },
   {
    "id": "46_12109",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     28,
+     "[Page 140]",
+     true
+    ]
+   ],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part H - Identification of Vessels/Chapter 121 - Documentation of Vessels/§ 12109 - Recreational endorsements.md",
    "printed_pages": [
-    127,
-    127
+    139,
+    140
    ]
   },
   {
@@ -4154,60 +4341,53 @@
    "marks": [
     [
      "L",
-     4,
-     "[Page 128]",
+     60,
+     "[Page 141]",
      true
     ]
    ],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part H - Identification of Vessels/Chapter 121 - Documentation of Vessels/§ 12110 - Limitations on operations authorized by certificates.md",
    "printed_pages": [
-    127,
-    128
+    140,
+    141
    ]
   },
   {
    "id": "46_12111",
-   "marks": [
-    [
-     "I",
-     38,
-     [
-      [
-       161,
-       "[Page 129]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part H - Identification of Vessels/Chapter 121 - Documentation of Vessels/§ 12111 - Surrender and invalidation of certificates of documentation.md",
    "printed_pages": [
-    128,
-    129
+    141,
+    141
    ]
   },
   {
    "id": "46_12112",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     6,
+     [
+      [
+       343,
+       "[Page 142]"
+      ]
+     ]
+    ]
+   ],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part H - Identification of Vessels/Chapter 121 - Documentation of Vessels/§ 12112 - Vessels procured outside the United States.md",
    "printed_pages": [
-    129,
-    129
+    141,
+    142
    ]
   },
   {
    "id": "46_[12113_to_12116",
-   "marks": [
-    [
-     "L",
-     14,
-     "[Page 130]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part H - Identification of Vessels/Chapter 121 - Documentation of Vessels/§ 12113 to 12116 - Repealed. Pub. L. 100–710, title I, §106(b)(5), Nov. 23, 1988, 102 Stat. 4752.md",
    "printed_pages": [
-    129,
-    130
+    142,
+    142
    ]
   },
   {
@@ -4215,8 +4395,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part H - Identification of Vessels/Chapter 121 - Documentation of Vessels/§ 12117 - Recording of United States built vessels.md",
    "printed_pages": [
-    130,
-    130
+    142,
+    142
    ]
   },
   {
@@ -4224,8 +4404,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part H - Identification of Vessels/Chapter 121 - Documentation of Vessels/§ 12118 - Repealed. Pub. L. 100–710, title I, §106(b)(5), Nov. 23, 1988, 102 Stat. 4752.md",
    "printed_pages": [
-    130,
-    130
+    142,
+    142
    ]
   },
   {
@@ -4233,17 +4413,24 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part H - Identification of Vessels/Chapter 121 - Documentation of Vessels/§ 12119 - List of documented vessels.md",
    "printed_pages": [
-    130,
-    130
+    142,
+    142
    ]
   },
   {
    "id": "46_12120",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     6,
+     "[Page 143]",
+     true
+    ]
+   ],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part H - Identification of Vessels/Chapter 121 - Documentation of Vessels/§ 12120 - Reports.md",
    "printed_pages": [
-    130,
-    130
+    142,
+    143
    ]
   },
   {
@@ -4251,46 +4438,42 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part H - Identification of Vessels/Chapter 121 - Documentation of Vessels/§ 12121 - Repealed. Pub. L. 100–710, title I, §106(b)(5), Nov. 23, 1988, 102 Stat. 4752.md",
    "printed_pages": [
-    130,
-    130
+    143,
+    143
    ]
   },
   {
    "id": "46_12122",
-   "marks": [
-    [
-     "I",
-     6,
-     [
-      [
-       88,
-       "[Page 131]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part H - Identification of Vessels/Chapter 121 - Documentation of Vessels/§ 12122 - Penalties.md",
    "printed_pages": [
-    130,
-    131
+    143,
+    143
+   ]
+  },
+  {
+   "id": "46_[12123",
+   "marks": [],
+   "path": "Subtitle 002 (II) - Vessels and Seamen/Part H - Identification of Vessels/Chapter 121 - Documentation of Vessels/§ 12123 - Repealed. Pub. L. 104–324, title VII, §746(a)(1), Oct. 19, 1996, 110 Stat. 3943.md",
+   "printed_pages": [
+    143,
+    143
    ]
   },
   {
    "id": "46_12123",
-   "marks": [],
-   "path": "Subtitle 002 (II) - Vessels and Seamen/Part H - Identification of Vessels/Chapter 121 - Documentation of Vessels/§ 12123 - 1 Denial and revocation of endorsements.md",
+   "marks": [
+    [
+     "L",
+     14,
+     "[Page 144]",
+     true
+    ]
+   ],
+   "path": "Subtitle 002 (II) - Vessels and Seamen/Part H - Identification of Vessels/Chapter 121 - Documentation of Vessels/§ 12123 - Denial and revocation of endorsements.md",
    "printed_pages": [
-    131,
-    131
-   ]
-  },
-  {
-   "id": "46_12123",
-   "marks": [],
-   "path": "Subtitle 002 (II) - Vessels and Seamen/Part H - Identification of Vessels/Chapter 121 - Documentation of Vessels/§ 12123 - 1 Denial and revocation of endorsements (46_12123).md",
-   "printed_pages": [
-    131,
-    131
+    143,
+    144
    ]
   },
   {
@@ -4298,8 +4481,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part H - Identification of Vessels/Chapter 123 - Numbering Undocumented Vessels/README.md",
    "printed_pages": [
-    131,
-    131
+    144,
+    144
    ]
   },
   {
@@ -4307,24 +4490,17 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part H - Identification of Vessels/Chapter 123 - Numbering Undocumented Vessels/§ 12301 - Numbering vessels.md",
    "printed_pages": [
-    131,
-    131
+    144,
+    144
    ]
   },
   {
    "id": "46_12302",
-   "marks": [
-    [
-     "L",
-     26,
-     "[Page 132]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part H - Identification of Vessels/Chapter 123 - Numbering Undocumented Vessels/§ 12302 - Standard numbering system.md",
    "printed_pages": [
-    131,
-    132
+    144,
+    144
    ]
   },
   {
@@ -4332,17 +4508,28 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part H - Identification of Vessels/Chapter 123 - Numbering Undocumented Vessels/§ 12303 - Exemption from numbering requirements.md",
    "printed_pages": [
-    132,
-    132
+    144,
+    144
    ]
   },
   {
    "id": "46_12304",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     6,
+     [
+      [
+       97,
+       "[Page 145]"
+      ]
+     ]
+    ]
+   ],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part H - Identification of Vessels/Chapter 123 - Numbering Undocumented Vessels/§ 12304 - Certificates of numbers.md",
    "printed_pages": [
-    132,
-    132
+    144,
+    145
    ]
   },
   {
@@ -4350,8 +4537,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part H - Identification of Vessels/Chapter 123 - Numbering Undocumented Vessels/§ 12305 - Displaying numbers.md",
    "printed_pages": [
-    132,
-    132
+    145,
+    145
    ]
   },
   {
@@ -4359,8 +4546,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part H - Identification of Vessels/Chapter 123 - Numbering Undocumented Vessels/§ 12306 - Safety certificates.md",
    "printed_pages": [
-    132,
-    132
+    145,
+    145
    ]
   },
   {
@@ -4368,37 +4555,33 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part H - Identification of Vessels/Chapter 123 - Numbering Undocumented Vessels/§ 12307 - Regulations on numbering and fees.md",
    "printed_pages": [
-    132,
-    132
+    145,
+    145
    ]
   },
   {
    "id": "46_12308",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       226,
-       "[Page 133]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part H - Identification of Vessels/Chapter 123 - Numbering Undocumented Vessels/§ 12308 - Providing vessel numbering and registration information.md",
    "printed_pages": [
-    132,
-    133
+    145,
+    145
    ]
   },
   {
    "id": "46_12309",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     34,
+     "[Page 146]",
+     true
+    ]
+   ],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part H - Identification of Vessels/Chapter 123 - Numbering Undocumented Vessels/§ 12309 - Penalties.md",
    "printed_pages": [
-    133,
-    133
+    145,
+    146
    ]
   },
   {
@@ -4406,24 +4589,28 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part H - Identification of Vessels/Chapter 125 - Vessel Identification System/README.md",
    "printed_pages": [
-    133,
-    133
+    146,
+    146
    ]
   },
   {
    "id": "46_12501",
    "marks": [
     [
-     "L",
-     42,
-     "[Page 134]",
-     true
+     "I",
+     66,
+     [
+      [
+       112,
+       "[Page 147]"
+      ]
+     ]
     ]
    ],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part H - Identification of Vessels/Chapter 125 - Vessel Identification System/§ 12501 - Establishment of a vessel identification system.md",
    "printed_pages": [
-    133,
-    134
+    146,
+    147
    ]
   },
   {
@@ -4431,8 +4618,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part H - Identification of Vessels/Chapter 125 - Vessel Identification System/§ 12502 - Identification numbers, signal letters, and markings.md",
    "printed_pages": [
-    134,
-    134
+    147,
+    147
    ]
   },
   {
@@ -4440,15 +4627,15 @@
    "marks": [
     [
      "L",
-     8,
-     "[Page 135]",
+     42,
+     "[Page 148]",
      true
     ]
    ],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part H - Identification of Vessels/Chapter 125 - Vessel Identification System/§ 12503 - Information available to the system.md",
    "printed_pages": [
-    134,
-    135
+    147,
+    148
    ]
   },
   {
@@ -4456,24 +4643,28 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part H - Identification of Vessels/Chapter 125 - Vessel Identification System/§ 12504 - Information available from the system.md",
    "printed_pages": [
-    135,
-    135
+    148,
+    148
    ]
   },
   {
    "id": "46_12505",
    "marks": [
     [
-     "L",
-     6,
-     "[Page 136]",
-     true
+     "I",
+     24,
+     [
+      [
+       224,
+       "[Page 149]"
+      ]
+     ]
     ]
    ],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part H - Identification of Vessels/Chapter 125 - Vessel Identification System/§ 12505 - Fees.md",
    "printed_pages": [
-    135,
-    136
+    148,
+    149
    ]
   },
   {
@@ -4481,24 +4672,17 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part H - Identification of Vessels/Chapter 125 - Vessel Identification System/§ 12506 - Delegation of authority.md",
    "printed_pages": [
-    136,
-    136
+    149,
+    149
    ]
   },
   {
    "id": "46_12507",
-   "marks": [
-    [
-     "L",
-     22,
-     "[Page 137]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part H - Identification of Vessels/Chapter 125 - Vessel Identification System/§ 12507 - Penalties.md",
    "printed_pages": [
-    136,
-    137
+    149,
+    149
    ]
   },
   {
@@ -4506,8 +4690,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part I - State Boating Safety Programs/README.md",
    "printed_pages": [
-    137,
-    137
+    149,
+    149
    ]
   },
   {
@@ -4515,28 +4699,34 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part I - State Boating Safety Programs/Chapter 131 - Recreational Boating Safety/README.md",
    "printed_pages": [
-    137,
-    137
+    149,
+    149
    ]
   },
   {
    "id": "46_13101",
    "marks": [
     [
+     "L",
+     6,
+     "[Page 150]",
+     true
+    ],
+    [
      "I",
-     44,
+     86,
      [
       [
-       162,
-       "[Page 138]"
+       112,
+       "[Page 151]"
       ]
      ]
     ]
    ],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part I - State Boating Safety Programs/Chapter 131 - Recreational Boating Safety/§ 13101 - State recreational boating safety programs.md",
    "printed_pages": [
-    137,
-    138
+    149,
+    151
    ]
   },
   {
@@ -4544,15 +4734,15 @@
    "marks": [
     [
      "L",
-     22,
-     "[Page 139]",
+     58,
+     "[Page 152]",
      true
     ]
    ],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part I - State Boating Safety Programs/Chapter 131 - Recreational Boating Safety/§ 13102 - Program acceptance.md",
    "printed_pages": [
-    138,
-    139
+    151,
+    152
    ]
   },
   {
@@ -4560,19 +4750,19 @@
    "marks": [
     [
      "I",
-     8,
+     50,
      [
       [
-       319,
-       "[Page 140]"
+       111,
+       "[Page 153]"
       ]
      ]
     ]
    ],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part I - State Boating Safety Programs/Chapter 131 - Recreational Boating Safety/§ 13103 - Allocations.md",
    "printed_pages": [
-    139,
-    140
+    152,
+    153
    ]
   },
   {
@@ -4580,24 +4770,17 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part I - State Boating Safety Programs/Chapter 131 - Recreational Boating Safety/§ 13104 - Availability of allocations.md",
    "printed_pages": [
-    140,
-    140
+    153,
+    153
    ]
   },
   {
    "id": "46_13105",
-   "marks": [
-    [
-     "L",
-     14,
-     "[Page 141]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part I - State Boating Safety Programs/Chapter 131 - Recreational Boating Safety/§ 13105 - Computation decisions about State amounts expended.md",
    "printed_pages": [
-    140,
-    141
+    153,
+    153
    ]
   },
   {
@@ -4605,19 +4788,25 @@
    "marks": [
     [
      "I",
-     42,
+     2,
      [
       [
-       327,
-       "[Page 142]"
+       977,
+       "[Page 154]"
       ]
      ]
+    ],
+    [
+     "L",
+     74,
+     "[Page 155]",
+     true
     ]
    ],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part I - State Boating Safety Programs/Chapter 131 - Recreational Boating Safety/§ 13106 - Authorization of contract spending.md",
    "printed_pages": [
-    141,
-    142
+    153,
+    155
    ]
   },
   {
@@ -4625,37 +4814,37 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part I - State Boating Safety Programs/Chapter 131 - Recreational Boating Safety/§ 13107 - Repealed. Pub. L. 98–369, div. A, title X, §1016(c)(1), July 18, 1984, 98 Stat. 1020.md",
    "printed_pages": [
-    142,
-    142
+    155,
+    155
    ]
   },
   {
    "id": "46_13108",
-   "marks": [
-    [
-     "I",
-     32,
-     [
-      [
-       99,
-       "[Page 143]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part I - State Boating Safety Programs/Chapter 131 - Recreational Boating Safety/§ 13108 - Computing amounts allocated to States and State records requirements.md",
    "printed_pages": [
-    142,
-    143
+    155,
+    155
    ]
   },
   {
    "id": "46_13109",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     22,
+     [
+      [
+       108,
+       "[Page 156]"
+      ]
+     ]
+    ]
+   ],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part I - State Boating Safety Programs/Chapter 131 - Recreational Boating Safety/§ 13109 - Consultation, cooperation, and regulation.md",
    "printed_pages": [
-    143,
-    143
+    155,
+    156
    ]
   },
   {
@@ -4663,15 +4852,15 @@
    "marks": [
     [
      "L",
-     42,
-     "[Page 144]",
+     76,
+     "[Page 157]",
      true
     ]
    ],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part I - State Boating Safety Programs/Chapter 131 - Recreational Boating Safety/§ 13110 - National Boating Safety Advisory Council.md",
    "printed_pages": [
-    143,
-    144
+    156,
+    157
    ]
   },
   {
@@ -4679,8 +4868,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part J - Measurement of Vessels/README.md",
    "printed_pages": [
-    144,
-    144
+    157,
+    157
    ]
   },
   {
@@ -4688,8 +4877,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part J - Measurement of Vessels/Chapter 141 - General/README.md",
    "printed_pages": [
-    144,
-    144
+    157,
+    157
    ]
   },
   {
@@ -4697,8 +4886,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part J - Measurement of Vessels/Chapter 141 - General/§ 14101 - Definitions.md",
    "printed_pages": [
-    144,
-    144
+    157,
+    157
    ]
   },
   {
@@ -4706,28 +4895,24 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part J - Measurement of Vessels/Chapter 141 - General/§ 14102 - Repealed. Pub. L. 101–595, title VI, §603(12)(A), Nov. 16, 1990, 104 Stat. 2993.md",
    "printed_pages": [
-    144,
-    144
+    157,
+    157
    ]
   },
   {
    "id": "46_14103",
    "marks": [
     [
-     "I",
-     4,
-     [
-      [
-       88,
-       "[Page 145]"
-      ]
-     ]
+     "L",
+     28,
+     "[Page 158]",
+     true
     ]
    ],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part J - Measurement of Vessels/Chapter 141 - General/§ 14103 - Delegation of authority.md",
    "printed_pages": [
-    144,
-    145
+    157,
+    158
    ]
   },
   {
@@ -4735,8 +4920,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part J - Measurement of Vessels/Chapter 141 - General/§ 14104 - Measurement to determine application of a law.md",
    "printed_pages": [
-    145,
-    145
+    158,
+    158
    ]
   },
   {
@@ -4744,49 +4929,53 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part J - Measurement of Vessels/Chapter 143 - Convention Measurement/README.md",
    "printed_pages": [
-    145,
-    145
+    158,
+    158
    ]
   },
   {
    "id": "46_14301",
    "marks": [
     [
-     "L",
-     40,
-     "[Page 146]",
-     true
+     "I",
+     58,
+     [
+      [
+       163,
+       "[Page 159]"
+      ]
+     ]
     ]
    ],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part J - Measurement of Vessels/Chapter 143 - Convention Measurement/§ 14301 - Application.md",
    "printed_pages": [
-    145,
-    146
+    158,
+    159
    ]
   },
   {
    "id": "46_14302",
-   "marks": [
-    [
-     "L",
-     26,
-     "[Page 147]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part J - Measurement of Vessels/Chapter 143 - Convention Measurement/§ 14302 - Measurement.md",
    "printed_pages": [
-    146,
-    147
+    159,
+    159
    ]
   },
   {
    "id": "46_14303",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     14,
+     "[Page 160]",
+     true
+    ]
+   ],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part J - Measurement of Vessels/Chapter 143 - Convention Measurement/§ 14303 - International Tonnage Certificate (1969).md",
    "printed_pages": [
-    147,
-    147
+    159,
+    160
    ]
   },
   {
@@ -4794,8 +4983,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part J - Measurement of Vessels/Chapter 143 - Convention Measurement/§ 14304 - Remeasurement.md",
    "printed_pages": [
-    147,
-    147
+    160,
+    160
    ]
   },
   {
@@ -4803,15 +4992,15 @@
    "marks": [
     [
      "L",
-     56,
-     "[Page 148]",
+     66,
+     "[Page 161]",
      true
     ]
    ],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part J - Measurement of Vessels/Chapter 143 - Convention Measurement/§ 14305 - Optional regulatory measurement.md",
    "printed_pages": [
-    147,
-    148
+    160,
+    161
    ]
   },
   {
@@ -4819,15 +5008,15 @@
    "marks": [
     [
      "L",
-     8,
-     "[Page 149]",
+     18,
+     "[Page 162]",
      true
     ]
    ],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part J - Measurement of Vessels/Chapter 143 - Convention Measurement/§ 14306 - Reciprocity for foreign vessels.md",
    "printed_pages": [
-    148,
-    149
+    161,
+    162
    ]
   },
   {
@@ -4835,8 +5024,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part J - Measurement of Vessels/Chapter 143 - Convention Measurement/§ 14307 - Inspection of foreign vessels.md",
    "printed_pages": [
-    149,
-    149
+    162,
+    162
    ]
   },
   {
@@ -4844,8 +5033,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part J - Measurement of Vessels/Chapter 145 - Regulatory Measurement/README.md",
    "printed_pages": [
-    149,
-    149
+    162,
+    162
    ]
   },
   {
@@ -4853,37 +5042,33 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part J - Measurement of Vessels/Chapter 145 - Regulatory Measurement/Subchapter 001 (I) - General/README.md",
    "printed_pages": [
-    149,
-    149
+    162,
+    162
    ]
   },
   {
    "id": "46_14501",
-   "marks": [
-    [
-     "I",
-     20,
-     [
-      [
-       209,
-       "[Page 150]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part J - Measurement of Vessels/Chapter 145 - Regulatory Measurement/Subchapter 001 (I) - General/§ 14501 - Application.md",
    "printed_pages": [
-    149,
-    150
+    162,
+    162
    ]
   },
   {
    "id": "46_14502",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     6,
+     "[Page 163]",
+     true
+    ]
+   ],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part J - Measurement of Vessels/Chapter 145 - Regulatory Measurement/Subchapter 001 (I) - General/§ 14502 - Measurement.md",
    "printed_pages": [
-    150,
-    150
+    162,
+    163
    ]
   },
   {
@@ -4891,8 +5076,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part J - Measurement of Vessels/Chapter 145 - Regulatory Measurement/Subchapter 001 (I) - General/§ 14503 - Certificate of measurement.md",
    "printed_pages": [
-    150,
-    150
+    163,
+    163
    ]
   },
   {
@@ -4900,8 +5085,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part J - Measurement of Vessels/Chapter 145 - Regulatory Measurement/Subchapter 001 (I) - General/§ 14504 - Remeasurement.md",
    "printed_pages": [
-    150,
-    150
+    163,
+    163
    ]
   },
   {
@@ -4909,8 +5094,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part J - Measurement of Vessels/Chapter 145 - Regulatory Measurement/Subchapter 002 (II) - Formal Systems/README.md",
    "printed_pages": [
-    150,
-    150
+    163,
+    163
    ]
   },
   {
@@ -4918,24 +5103,28 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part J - Measurement of Vessels/Chapter 145 - Regulatory Measurement/Subchapter 002 (II) - Formal Systems/§ 14511 - Application.md",
    "printed_pages": [
-    150,
-    150
+    163,
+    163
    ]
   },
   {
    "id": "46_14512",
    "marks": [
     [
-     "L",
-     8,
-     "[Page 151]",
-     true
+     "I",
+     16,
+     [
+      [
+       164,
+       "[Page 164]"
+      ]
+     ]
     ]
    ],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part J - Measurement of Vessels/Chapter 145 - Regulatory Measurement/Subchapter 002 (II) - Formal Systems/§ 14512 - Standard tonnage measurement.md",
    "printed_pages": [
-    150,
-    151
+    163,
+    164
    ]
   },
   {
@@ -4943,8 +5132,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part J - Measurement of Vessels/Chapter 145 - Regulatory Measurement/Subchapter 002 (II) - Formal Systems/§ 14513 - Dual tonnage measurement.md",
    "printed_pages": [
-    151,
-    151
+    164,
+    164
    ]
   },
   {
@@ -4952,8 +5141,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part J - Measurement of Vessels/Chapter 145 - Regulatory Measurement/Subchapter 003 (III) - Simplified System/README.md",
    "printed_pages": [
-    151,
-    151
+    164,
+    164
    ]
   },
   {
@@ -4961,37 +5150,33 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part J - Measurement of Vessels/Chapter 145 - Regulatory Measurement/Subchapter 003 (III) - Simplified System/§ 14521 - Application.md",
    "printed_pages": [
-    151,
-    151
+    164,
+    164
    ]
   },
   {
    "id": "46_14522",
-   "marks": [
-    [
-     "I",
-     24,
-     [
-      [
-       270,
-       "[Page 152]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part J - Measurement of Vessels/Chapter 145 - Regulatory Measurement/Subchapter 003 (III) - Simplified System/§ 14522 - Measurement.md",
    "printed_pages": [
-    151,
-    152
+    164,
+    164
    ]
   },
   {
    "id": "46_-Subtitle_II-Part_J-ch147",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     13,
+     "[Page 165]",
+     true
+    ]
+   ],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part J - Measurement of Vessels/Chapter 147 - Penalties/README.md",
    "printed_pages": [
-    152,
-    152
+    164,
+    165
    ]
   },
   {
@@ -4999,8 +5184,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part J - Measurement of Vessels/Chapter 147 - Penalties/§ 14701 - General violation.md",
    "printed_pages": [
-    152,
-    152
+    165,
+    165
    ]
   },
   {
@@ -5008,8 +5193,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Vessels and Seamen/Part J - Measurement of Vessels/Chapter 147 - Penalties/§ 14702 - False statements.md",
    "printed_pages": [
-    152,
-    152
+    165,
+    165
    ]
   },
   {
@@ -5017,8 +5202,8 @@
    "marks": [],
    "path": "Subtitle 003 (III) - Maritime Liability/README.md",
    "printed_pages": [
-    152,
-    152
+    165,
+    165
    ]
   },
   {
@@ -5026,8 +5211,8 @@
    "marks": [],
    "path": "Subtitle 003 (III) - Maritime Liability/Chapter 301 - General/README.md",
    "printed_pages": [
-    152,
-    152
+    165,
+    165
    ]
   },
   {
@@ -5035,19 +5220,19 @@
    "marks": [
     [
      "I",
-     24,
+     40,
      [
       [
-       91,
-       "[Page 153]"
+       4,
+       "[Page 166]"
       ]
      ]
     ]
    ],
    "path": "Subtitle 003 (III) - Maritime Liability/Chapter 301 - General/§ 30101 - Definitions.md",
    "printed_pages": [
-    152,
-    153
+    165,
+    166
    ]
   },
   {
@@ -5055,8 +5240,8 @@
    "marks": [],
    "path": "Subtitle 003 (III) - Maritime Liability/[Chapters 303–311—Reserved]/README.md",
    "printed_pages": [
-    153,
-    153
+    166,
+    166
    ]
   },
   {
@@ -5064,19 +5249,19 @@
    "marks": [
     [
      "I",
-     31,
+     47,
      [
       [
-       22,
-       "[Page 154]"
+       113,
+       "[Page 167]"
       ]
      ]
     ]
    ],
    "path": "Subtitle 003 (III) - Maritime Liability/Chapter 313 - Commercial Instruments and Maritime Liens/README.md",
    "printed_pages": [
-    153,
-    154
+    166,
+    167
    ]
   },
   {
@@ -5084,28 +5269,24 @@
    "marks": [],
    "path": "Subtitle 003 (III) - Maritime Liability/Chapter 313 - Commercial Instruments and Maritime Liens/Subchapter 001 (I) - General/README.md",
    "printed_pages": [
-    154,
-    154
+    167,
+    167
    ]
   },
   {
    "id": "46_31301",
    "marks": [
     [
-     "I",
-     96,
-     [
-      [
-       700,
-       "[Page 155]"
-      ]
-     ]
+     "L",
+     98,
+     "[Page 168]",
+     true
     ]
    ],
    "path": "Subtitle 003 (III) - Maritime Liability/Chapter 313 - Commercial Instruments and Maritime Liens/Subchapter 001 (I) - General/§ 31301 - Definitions.md",
    "printed_pages": [
-    154,
-    155
+    167,
+    168
    ]
   },
   {
@@ -5113,8 +5294,8 @@
    "marks": [],
    "path": "Subtitle 003 (III) - Maritime Liability/Chapter 313 - Commercial Instruments and Maritime Liens/Subchapter 001 (I) - General/§ 31302 - Availability of instruments, copies, and information.md",
    "printed_pages": [
-    155,
-    155
+    168,
+    168
    ]
   },
   {
@@ -5122,8 +5303,8 @@
    "marks": [],
    "path": "Subtitle 003 (III) - Maritime Liability/Chapter 313 - Commercial Instruments and Maritime Liens/Subchapter 001 (I) - General/§ 31303 - Certain civil actions not authorized.md",
    "printed_pages": [
-    155,
-    155
+    168,
+    168
    ]
   },
   {
@@ -5131,33 +5312,37 @@
    "marks": [],
    "path": "Subtitle 003 (III) - Maritime Liability/Chapter 313 - Commercial Instruments and Maritime Liens/Subchapter 001 (I) - General/§ 31304 - Liability for noncompliance.md",
    "printed_pages": [
-    155,
-    155
+    168,
+    168
    ]
   },
   {
    "id": "46_31305",
-   "marks": [
-    [
-     "L",
-     22,
-     "[Page 156]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 003 (III) - Maritime Liability/Chapter 313 - Commercial Instruments and Maritime Liens/Subchapter 001 (I) - General/§ 31305 - Waiver of lien rights.md",
    "printed_pages": [
-    155,
-    156
+    168,
+    168
    ]
   },
   {
    "id": "46_31306",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       134,
+       "[Page 169]"
+      ]
+     ]
+    ]
+   ],
    "path": "Subtitle 003 (III) - Maritime Liability/Chapter 313 - Commercial Instruments and Maritime Liens/Subchapter 001 (I) - General/§ 31306 - Declaration of citizenship.md",
    "printed_pages": [
-    156,
-    156
+    168,
+    169
    ]
   },
   {
@@ -5165,8 +5350,8 @@
    "marks": [],
    "path": "Subtitle 003 (III) - Maritime Liability/Chapter 313 - Commercial Instruments and Maritime Liens/Subchapter 001 (I) - General/§ 31307 - State statutes superseded.md",
    "printed_pages": [
-    156,
-    156
+    169,
+    169
    ]
   },
   {
@@ -5174,8 +5359,8 @@
    "marks": [],
    "path": "Subtitle 003 (III) - Maritime Liability/Chapter 313 - Commercial Instruments and Maritime Liens/Subchapter 001 (I) - General/§ 31308 - Secretary of Commerce or Transportation as mortgagee.md",
    "printed_pages": [
-    156,
-    156
+    169,
+    169
    ]
   },
   {
@@ -5183,8 +5368,8 @@
    "marks": [],
    "path": "Subtitle 003 (III) - Maritime Liability/Chapter 313 - Commercial Instruments and Maritime Liens/Subchapter 001 (I) - General/§ 31309 - General civil penalty.md",
    "printed_pages": [
-    156,
-    156
+    169,
+    169
    ]
   },
   {
@@ -5192,8 +5377,8 @@
    "marks": [],
    "path": "Subtitle 003 (III) - Maritime Liability/Chapter 313 - Commercial Instruments and Maritime Liens/Subchapter 002 (II) - Commercial Instruments/README.md",
    "printed_pages": [
-    156,
-    156
+    169,
+    169
    ]
   },
   {
@@ -5201,25 +5386,21 @@
    "marks": [
     [
      "L",
-     8,
-     "[Page 157]",
+     10,
+     "[Page 170]",
      true
     ],
     [
-     "I",
-     102,
-     [
-      [
-       326,
-       "[Page 158]"
-      ]
-     ]
+     "L",
+     106,
+     "[Page 171]",
+     true
     ]
    ],
    "path": "Subtitle 003 (III) - Maritime Liability/Chapter 313 - Commercial Instruments and Maritime Liens/Subchapter 002 (II) - Commercial Instruments/§ 31321 - Filing, recording, and discharge.md",
    "printed_pages": [
-    156,
-    158
+    169,
+    171
    ]
   },
   {
@@ -5227,25 +5408,25 @@
    "marks": [
     [
      "L",
-     26,
-     "[Page 159]",
+     14,
+     "[Page 172]",
      true
     ],
     [
      "I",
-     110,
+     92,
      [
       [
-       213,
-       "[Page 160]"
+       226,
+       "[Page 173]"
       ]
      ]
     ]
    ],
    "path": "Subtitle 003 (III) - Maritime Liability/Chapter 313 - Commercial Instruments and Maritime Liens/Subchapter 002 (II) - Commercial Instruments/§ 31322 - Preferred mortgages.md",
    "printed_pages": [
-    158,
-    160
+    171,
+    173
    ]
   },
   {
@@ -5256,16 +5437,16 @@
      38,
      [
       [
-       216,
-       "[Page 161]"
+       423,
+       "[Page 174]"
       ]
      ]
     ]
    ],
    "path": "Subtitle 003 (III) - Maritime Liability/Chapter 313 - Commercial Instruments and Maritime Liens/Subchapter 002 (II) - Commercial Instruments/§ 31323 - Disclosing and incurring obligations before executing preferred mortgages.md",
    "printed_pages": [
-    160,
-    161
+    173,
+    174
    ]
   },
   {
@@ -5273,24 +5454,28 @@
    "marks": [],
    "path": "Subtitle 003 (III) - Maritime Liability/Chapter 313 - Commercial Instruments and Maritime Liens/Subchapter 002 (II) - Commercial Instruments/§ 31324 - Retention and examination of mortgages of vessels covered by preferred mortgages.md",
    "printed_pages": [
-    161,
-    161
+    174,
+    174
    ]
   },
   {
    "id": "46_31325",
    "marks": [
     [
-     "L",
-     70,
-     "[Page 162]",
-     true
+     "I",
+     40,
+     [
+      [
+       234,
+       "[Page 175]"
+      ]
+     ]
     ]
    ],
    "path": "Subtitle 003 (III) - Maritime Liability/Chapter 313 - Commercial Instruments and Maritime Liens/Subchapter 002 (II) - Commercial Instruments/§ 31325 - Preferred mortgage liens and enforcement.md",
    "printed_pages": [
-    161,
-    162
+    174,
+    175
    ]
   },
   {
@@ -5298,19 +5483,19 @@
    "marks": [
     [
      "I",
-     32,
+     2,
      [
       [
-       104,
-       "[Page 163]"
+       98,
+       "[Page 176]"
       ]
      ]
     ]
    ],
    "path": "Subtitle 003 (III) - Maritime Liability/Chapter 313 - Commercial Instruments and Maritime Liens/Subchapter 002 (II) - Commercial Instruments/§ 31326 - Court sales to enforce preferred mortgage liens and maritime liens and priority of claims.md",
    "printed_pages": [
-    162,
-    163
+    175,
+    176
    ]
   },
   {
@@ -5318,33 +5503,33 @@
    "marks": [],
    "path": "Subtitle 003 (III) - Maritime Liability/Chapter 313 - Commercial Instruments and Maritime Liens/Subchapter 002 (II) - Commercial Instruments/§ 31327 - Forfeiture of mortgagee interest.md",
    "printed_pages": [
-    163,
-    163
+    176,
+    176
    ]
   },
   {
-   "id": "46_31328",
-   "marks": [
-    [
-     "L",
-     52,
-     "[Page 164]",
-     true
-    ]
-   ],
-   "path": "Subtitle 003 (III) - Maritime Liability/Chapter 313 - Commercial Instruments and Maritime Liens/Subchapter 002 (II) - Commercial Instruments/§ 31328 - Limitations on parties serving as trustees of mortgaged vessel interests.md",
+   "id": "46_[31328",
+   "marks": [],
+   "path": "Subtitle 003 (III) - Maritime Liability/Chapter 313 - Commercial Instruments and Maritime Liens/Subchapter 002 (II) - Commercial Instruments/§ 31328 - Repealed. Pub. L. 104–324, title XI, §1113(b)(1), Oct. 19, 1996, 110 Stat. 3970.md",
    "printed_pages": [
-    163,
-    164
+    176,
+    176
    ]
   },
   {
    "id": "46_31329",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     22,
+     "[Page 177]",
+     true
+    ]
+   ],
    "path": "Subtitle 003 (III) - Maritime Liability/Chapter 313 - Commercial Instruments and Maritime Liens/Subchapter 002 (II) - Commercial Instruments/§ 31329 - Court sales of documented vessels.md",
    "printed_pages": [
-    164,
-    164
+    176,
+    177
    ]
   },
   {
@@ -5352,15 +5537,15 @@
    "marks": [
     [
      "L",
-     32,
-     "[Page 165]",
+     68,
+     "[Page 178]",
      true
     ]
    ],
    "path": "Subtitle 003 (III) - Maritime Liability/Chapter 313 - Commercial Instruments and Maritime Liens/Subchapter 002 (II) - Commercial Instruments/§ 31330 - Penalties.md",
    "printed_pages": [
-    164,
-    165
+    177,
+    178
    ]
   },
   {
@@ -5368,8 +5553,8 @@
    "marks": [],
    "path": "Subtitle 003 (III) - Maritime Liability/Chapter 313 - Commercial Instruments and Maritime Liens/Subchapter 003 (III) - Maritime Liens/README.md",
    "printed_pages": [
-    165,
-    165
+    178,
+    178
    ]
   },
   {
@@ -5377,8 +5562,8 @@
    "marks": [],
    "path": "Subtitle 003 (III) - Maritime Liability/Chapter 313 - Commercial Instruments and Maritime Liens/Subchapter 003 (III) - Maritime Liens/§ 31341 - Persons presumed to have authority to procure necessaries.md",
    "printed_pages": [
-    165,
-    165
+    178,
+    178
    ]
   },
   {
@@ -5386,8 +5571,8 @@
    "marks": [],
    "path": "Subtitle 003 (III) - Maritime Liability/Chapter 313 - Commercial Instruments and Maritime Liens/Subchapter 003 (III) - Maritime Liens/§ 31342 - Establishing maritime liens.md",
    "printed_pages": [
-    165,
-    165
+    178,
+    178
    ]
   },
   {
@@ -5395,19 +5580,19 @@
    "marks": [
     [
      "I",
-     16,
+     34,
      [
       [
-       96,
-       "[Page 166]"
+       263,
+       "[Page 179]"
       ]
      ]
     ]
    ],
    "path": "Subtitle 003 (III) - Maritime Liability/Chapter 313 - Commercial Instruments and Maritime Liens/Subchapter 003 (III) - Maritime Liens/§ 31343 - Recording and discharging liens on preferred mortgage vessels.md",
    "printed_pages": [
-    165,
-    166
+    178,
+    179
    ]
   },
   {
@@ -5415,11 +5600,11 @@
    "marks": [],
    "path": "Subtitle 003 (III) - Maritime Liability/Chapter 315 - Reserved/README.md",
    "printed_pages": [
-    166,
-    166
+    179,
+    179
    ]
   }
  ],
- "provenance_line": "<!-- USCODE-1995-title46 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
+ "provenance_line": "<!-- USCODE-1996-title46 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
  "title_folder": "Title 46 - Shipping"
 }

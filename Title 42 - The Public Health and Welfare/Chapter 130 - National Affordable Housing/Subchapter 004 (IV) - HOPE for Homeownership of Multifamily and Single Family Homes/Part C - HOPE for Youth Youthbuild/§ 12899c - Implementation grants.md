@@ -2,7 +2,7 @@
 
 #### (a) Grants
 
-The Secretary is authorized to make implementation grants to applicants for the purpose of carrying out Youthbuild programs approved under this part.
+The Secretary is authorized to make implementation grants to applicants for the purposeof carrying out Youthbuild programs approved under this part.
 
 #### (b) Eligible activities
 
@@ -74,7 +74,7 @@ Implementation grants may be used to carry out Youthbuild programs, including th
 
 &emsp;&emsp;(K) a description of activities that will be undertaken to develop the leadership skills of participants;
 
-&emsp;&emsp;(L) a detailed budget and a description of the system of fiscal controls and auditing and accountability procedures that will be used to ensure fiscal soundness;
+&emsp;&emsp;(L) a detailed budget and a description of the system of fiscal controls and auditingand accountability procedures that will be used to ensure fiscal soundness;
 
 &emsp;&emsp;(M) a description of the commitments for any additional resources to be made available to the program from the applicant, from recipients of other Federal, State or local housing and community development assistance who will sponsor any part of the construction, rehabilitation, operation and maintenance, or other housing and community development activities undertaken as part of the program, or from other Federal, State or local activities and activities conducted by Indian tribes, including, but not limited to, vocational, adult and bilingual education programs, and job training provided with funds available under the Job Training Partnership Act \[29 U.S.C. 1501 et seq.\] and the Family Support Act of 1988;
 
@@ -102,7 +102,7 @@ The Secretary shall establish selection criteria for assistance under this secti
 
 &emsp;(3) the potential for developing a successful Youthbuild program;
 
-&emsp;(4) the need for the prospective project, as determined by the degree of economic distress of the community from which participantswould be recruited (such as poverty, youth unemployment, number of individuals who have dropped out of high school) and of the community in which the housing proposed to be constructed or rehabilitated would be located (such as incidence of homelessness, shortage of affordable housing, poverty);
+&emsp;(4) the need for the prospective project, as determined by the degree of economic distress of the community from which participants would be recruited (such as poverty, youth unemployment, number of individuals who have dropped out of high school) and of the community in which the housing proposed to be constructed or rehabilitated would be located (such as incidence of homelessness, shortage of affordable housing, poverty);
 
 &emsp;(5) the apparent commitment of the applicant to leadership development, education, and training of participants;
 
@@ -136,7 +136,7 @@ The Fair Housing Act, referred to in subsec. (c)(2)(Q), is title VIII of Pub. L.
 
 The Civil Rights Act of 1964, referred to in subsec. (c)(2)(Q), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended. Title VI of the Act is classified generally to subchapter V (§2000d et seq.) of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of this title and Tables.
 
-The Age Discrimination Act of 1975, referred to in subsec. (c)(2)(Q), is title III of Pub. L. 94–135, Nov. 28, 1975, 89 Stat. 728, as amended, which is classified generally to chapter 76 (§6101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6101 of this title and Tables.
+The Age Discrimination Act of 1975, referred to in subsec. (c)(2)(Q), is title III of Pub. L. 94–135, Nov. 28,1975, 89 Stat. 728, as amended, which is classified generally to chapter 76 (§6101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6101 of this title and Tables.
 
 #### Section Referred to in Other Sections
 

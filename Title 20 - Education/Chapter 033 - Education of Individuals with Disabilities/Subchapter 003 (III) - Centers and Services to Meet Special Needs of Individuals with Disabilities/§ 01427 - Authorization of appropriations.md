@@ -12,7 +12,7 @@
 
 (f) There are authorized to be appropriated to carry out section 1425 of this title (except subsection (e)) $9,800,000 for fiscal year 1991, $10,800,000 for fiscal year 1992, $11,900,000 for fiscal year 1993, and $13,050,000 for fiscal year 1994.
 
-(g) There are authorized to be appropriated to carry out section 1425(e) of this title $27,500,000 for fiscal year 1991, $30,250,000 for fiscal year1992, $33,275,000 for fiscal year 1993, and $36,602,000 for fiscal year 1994.
+(g) There are authorized to be appropriated to carry out section 1425(e) of this title $27,500,000 for fiscal year 1991, $30,250,000 for fiscal year 1992, $33,275,000 for fiscal year 1993, and $36,602,000 for fiscal year 1994.
 
 (h) There are authorized to be appropriated to carry out section 1426 of this title $6,500,000 for fiscal year 1991, $8,000,000 for fiscal year 1992, $9,500,000 for fiscal year 1993, and $11,500,000 for fiscal year 1994.
 

@@ -37,21 +37,13 @@
 | (a) | Appointment and compensation. |
 | (b) | Temporary employment of experts or consultants; stenographic reporting services. |
 | (c) | Utilization of personnel of other Federal agencies. |
-| [759\.](%C2%A7%2000759%20-%20Procurement%2C%20maintenance%2C%20operation%20and%20utilization%20of%20automatic%20data%20processing%20equipment.md) | Procurement, maintenance, operation and utilization of automatic data processing equipment. |
-| (a) | Authority of Administrator to coordinate and provide for purchase, lease and maintenance of equipment by Federal agencies. |
-| (b) | Procurement, maintenance and repair of equipment; transfer between agencies; joint utilization; establishment and operation of equipment pools and data processing centers; delegation of Administrator's authority. |
-| (c) | Inapplicability of other inconsistent provisions of law. |
-| (d) | Standards and guidelines for Federal computer systems; promulgation, disapproval or modification, etc. |
-| (e) | Limitations on authority of Administrator and Secretary of Commerce; notice and review of Administrator's determinations. |
-| (f) | Automated data processing dispute resolution. |
-| (g) | Procurement from sole source or by specific make and model. |
-| (h) | Data collection. |
-| (i) | Short title. |
+| [759\.](%C2%A7%2000759%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93106%2C%20div.%20E%2C%20title%20LI%2C%20%C2%A75101%2C%20Feb.%2010%2C%201996%2C%20110%20Stat.%20680.md) | Repealed. |
 | [760\.](%C2%A7%2000760%20-%20Federal%20information%20centers.md) | Federal information centers. |
 | (a) | Establishment. |
 | (b) | Rules and regulations. |
 | (c) | Authorization of appropriations. |
 | [761\.](%C2%A7%2000761%20-%20Consumer%20Information%20Center%20Fund%2C%20General%20Services%20Administration.md) | Consumer Information Center Fund, General Services Administration. |
+| [761a.](%C2%A7%2000761a%20-%20Consumer%20Information%20Center%20Fund%3B%20acceptance%20and%20expenditure%20of%20gifts.md) | Consumer Information Center Fund; acceptance and expenditure of gifts. |
 | [762\.](%C2%A7%2000762%20-%20Definitions.md) | Definitions. |
 | [762a.](%C2%A7%2000762a%20-%20Federal%20telecommunications%20system%20requirements.md) | Federal telecommunications system requirements. |
 | (a) | Accessibility of telecommunications systems. |
@@ -85,9 +77,10 @@ This chapter is referred to in sections 472, 473 of this title.
 - [&sect; 00756b - Periodic reimbursement for cost of equipment purchased for Congressional use; computation](%C2%A7%2000756b%20-%20Periodic%20reimbursement%20for%20cost%20of%20equipment%20purchased%20for%20Congressional%20use%3B%20computation.md)
 - [&sect; 00757 - Information Technology Fund](%C2%A7%2000757%20-%20Information%20Technology%20Fund.md)
 - [&sect; 00758 - Personnel](%C2%A7%2000758%20-%20Personnel.md)
-- [&sect; 00759 - Procurement, maintenance, operation and utilization of automatic data processing equipment](%C2%A7%2000759%20-%20Procurement%2C%20maintenance%2C%20operation%20and%20utilization%20of%20automatic%20data%20processing%20equipment.md)
+- [&sect; 00759 - Repealed. Pub. L. 104&#8211;106, div. E, title LI, &sect;5101, Feb. 10, 1996, 110 Stat. 680](%C2%A7%2000759%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93106%2C%20div.%20E%2C%20title%20LI%2C%20%C2%A75101%2C%20Feb.%2010%2C%201996%2C%20110%20Stat.%20680.md)
 - [&sect; 00760 - Federal information centers](%C2%A7%2000760%20-%20Federal%20information%20centers.md)
 - [&sect; 00761 - Consumer Information Center Fund, General Services Administration](%C2%A7%2000761%20-%20Consumer%20Information%20Center%20Fund%2C%20General%20Services%20Administration.md)
+- [&sect; 00761a - Consumer Information Center Fund; acceptance and expenditure of gifts](%C2%A7%2000761a%20-%20Consumer%20Information%20Center%20Fund%3B%20acceptance%20and%20expenditure%20of%20gifts.md)
 - [&sect; 00762 - Definitions](%C2%A7%2000762%20-%20Definitions.md)
 - [&sect; 00762a - Federal telecommunications system requirements](%C2%A7%2000762a%20-%20Federal%20telecommunications%20system%20requirements.md)
 - [&sect; 00762b - Additional requirements](%C2%A7%2000762b%20-%20Additional%20requirements.md)

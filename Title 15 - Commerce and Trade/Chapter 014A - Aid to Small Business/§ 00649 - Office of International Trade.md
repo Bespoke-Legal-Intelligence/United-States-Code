@@ -34,7 +34,7 @@ The Office shall promote sales opportunities for small business goods and servic
 
 &emsp;&emsp;(D) increase the accessibility of the Export Trading Company contact facilitation service;
 
-&emsp;(5) make available to the small business community information regarding conferences on exporting and international trade sponsored by the public and private sector.<sup>1</sup>
+&emsp;(5) make available to the small business community information regarding conferenceson exporting and international trade sponsored by the public and private sector.<sup>1</sup>
 
 &emsp;(6) provide small businesses with access to current and complete export information by—
 
@@ -44,7 +44,7 @@ The Office shall promote sales opportunities for small business goods and servic
 
 &emsp;&emsp;(C) maintaining a current directory of all Federal, regional, State and private sector programs that provide export information and assistance to small businesses; and
 
-&emsp;&emsp;(D) preparing and publishing such reports as it determines to be necessary concerningmarket conditions, sources of financing, export promotion programs, and other information pertaining to the needs of small business exporting firms so as to insure that the maximum information is made available to small businesses in a readily usable form;
+&emsp;&emsp;(D) preparing and publishing such reports as it determines to be necessary concerning market conditions, sources of financing, export promotion programs, and other information pertaining to the needs of small business exporting firms so as to insure that the maximum information is made available to small businesses in a readily usable form;
 
 &emsp;(7) encourage through cooperation with the Department of Commerce, greater small business participation in trade fairs, shows, missions, and other domestic and overseas export development activities of the Department of Commerce; and
 
@@ -98,7 +98,7 @@ The Office, in cooperation, where appropriate, with the Division of Economic Res
 
 &emsp;(4) methods of identifying potential export markets for United States small businesses; maintaining and disseminating current foreign market data; and devising a comprehensive export marketing strategy for United States small business goods and services, and shall include data on the volume and dollar amount of goods and services, identified by type, imported by United States trading partners over the past 10 years; and
 
-&emsp;(5) the results of a survey of major United States trading partners to identify the domestic policies, programs and incentives, and theprivate sector initiatives, which exist to encourage the formation and growth of small business.
+&emsp;(5) the results of a survey of major United States trading partners to identify the domestic policies, programs and incentives, and the private sector initiatives, which exist to encourage the formation and growth of small business.
 
 (Pub. L. 85–536, §2\[22\], as added Pub. L. 96–481, title I, §113(a), Oct. 21, 1980, 94 Stat. 2323; amended Pub. L. 100–418, title VIII, §8003, Aug. 23, 1988, 102 Stat. 1554.)
 

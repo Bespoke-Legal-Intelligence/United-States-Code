@@ -32,7 +32,7 @@ Succession After Chairman and Vice Chairman.—When there is a vacancy in the of
 
 (f)
 
-Grade and Rank.—The Vice Chairman, while so serving, holds the grade of general or,in the case of an officer of the Navy, admiral and outranks all other officers of the armed forces except the Chairman. The Vice Chairman may not exercise military command over the Joint Chiefs of Staff or any of the armed forces.
+Grade and Rank.—The Vice Chairman, while so serving, holds the grade of general or, in the case of an officer of the Navy, admiral and outranks all other officers of the armed forces except the Chairman. The Vice Chairman may not exercise military command over the Joint Chiefs of Staff or any of the armed forces.
 
 (Added Pub. L. 99–433, title II, §201, Oct. 1, 1986, 100 Stat. 1008; amended Pub. L. 100–456, div. A, title V, §519(a)(1), Sept. 29, 1988, 102 Stat. 1972; Pub. L. 102–484, div. A, title IX, §911(b)(1), Oct. 23, 1992, 106 Stat. 2473.)
 

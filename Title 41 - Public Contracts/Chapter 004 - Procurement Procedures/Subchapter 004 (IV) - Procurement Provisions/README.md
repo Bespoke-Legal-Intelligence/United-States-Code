@@ -2,7 +2,7 @@
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in sections 405, 414a, 418a, 421 of this title; title 5 section 595; title 7 section 1736a; title 15 sections 205f, 637; title 16 sections 670<i>o</i>, 793; title 25 section 450j; title 28 section 524; title 31 sections 3718, 9703; title 40 sections 356a, 474, 602a, 604, 752, 758; title 42 sections 1592d, 12651, 13556; title 43 section 1736; title 44 section 311.
+This subchapter is referred to in sections 405, 414a, 418a, 421 of this title; title 5 section 595; title 7 section 1736a; title 15 sections 205f, 205<i>l</i>, 637; title 16 sections 670<i>o</i>, 793; title 25 section 450j; title 28 section 524; title 31 sections 3718, 9703; title 40 sections 356a, 474, 602a, 604, 752, 758; title 42 sections 1592d, 12651, 13556; title 43 section 1736; title 44 section 311.
 
 
 ---
@@ -27,6 +27,7 @@ This subchapter is referred to in sections 405, 414a, 418a, 421 of this title; t
 - [&sect; 00253j - Task and delivery order contracts orders](%C2%A7%2000253j%20-%20Task%20and%20delivery%20order%20contracts%20orders.md)
 - [&sect; 00253k - Task and delivery order contracts definitions](%C2%A7%2000253k%20-%20Task%20and%20delivery%20order%20contracts%20definitions.md)
 - [&sect; 00253l - Severable services contracts for periods crossing fiscal years](%C2%A7%2000253l%20-%20Severable%20services%20contracts%20for%20periods%20crossing%20fiscal%20years.md)
+- [&sect; 00253m - Design-build selection procedures](%C2%A7%2000253m%20-%20Design-build%20selection%20procedures.md)
 - [&sect; 00254 - Contract requirements](%C2%A7%2000254%20-%20Contract%20requirements.md)
 - [&sect; 00254a - Cost-type research and development contracts with educational institutions](%C2%A7%2000254a%20-%20Cost-type%20research%20and%20development%20contracts%20with%20educational%20institutions.md)
 - [&sect; 00254b - Cost or pricing data truth in negotiations](%C2%A7%2000254b%20-%20Cost%20or%20pricing%20data%20truth%20in%20negotiations.md)
@@ -43,7 +44,7 @@ This subchapter is referred to in sections 405, 414a, 418a, 421 of this title; t
 - [&sect; 00262 - Determinations and decisions](%C2%A7%2000262%20-%20Determinations%20and%20decisions.md)
 - [&sect; 00263 - Performance based management acquisition programs](%C2%A7%2000263%20-%20Performance%20based%20management%20acquisition%20programs.md)
 - [&sect; 00264 - Relationship of commercial item provisions to other provisions of law](%C2%A7%2000264%20-%20Relationship%20of%20commercial%20item%20provisions%20to%20other%20provisions%20of%20law.md)
-- [&sect; 00264a - Definitions](%C2%A7%2000264a%20-%20Definitions.md)
+- [&sect; 00264a - Definitions relating to procurement of commercial items](%C2%A7%2000264a%20-%20Definitions%20relating%20to%20procurement%20of%20commercial%20items.md)
 - [&sect; 00264b - Preference for acquisition of commercial items](%C2%A7%2000264b%20-%20Preference%20for%20acquisition%20of%20commercial%20items.md)
 - [&sect; 00265 - Contractor employees protection from reprisal for disclosure of certain information](%C2%A7%2000265%20-%20Contractor%20employees%20protection%20from%20reprisal%20for%20disclosure%20of%20certain%20information.md)
 - [&sect; 00266 - Merit-based award of grants for research and development](%C2%A7%2000266%20-%20Merit-based%20award%20of%20grants%20for%20research%20and%20development.md)

@@ -2,7 +2,7 @@
 
 #### (a) Establishment; authorization of appropriations
 
-There is hereby authorized to be appropriated such sums as are necessary to enable the Secretary to carry out a program to assist the States and the Department of Defense through grants-in-aid and other means to initiate, maintain, or expand nonprofit breakfast programs in all schools which make application for assistance and agree to carry out a nonprofit breakfast program in accordance with this chapter and to carry out the provisions of subsection (g) of this section. Appropriations and expenditures for this chapter shall be considered Health and Human Services functions for budget purposes rather than functions of Agriculture.
+There is hereby authorized to be appropriated such sums as are necessary to enable the Secretary to carry out a program to assist the States and the Department of Defense through grants-in-aid and other means to initiate, maintain, or expand nonprofit breakfast programs in all schools which make application for assistance and agree to carry out a nonprofit breakfast program in accordance with this chapter and to carry out the provisions of subsection (g) <sup>1</sup> of this section. Appropriations and expenditures for this chapter shall be considered Health and Human Services functions for budget purposes rather than functions of Agriculture.
 
 #### (b) Breakfast assistance payments to State educational agencies; calculation; national average payments for breakfasts, free breakfasts and reduced price breakfasts; maximum price for reduced cost breakfasts; minimum daily nutrition requirements criteria; additional payments for severe need schools; maximum severe need payments
 
@@ -20,6 +20,10 @@ There is hereby authorized to be appropriated such sums as are necessary to enab
 
 (D) No breakfast assistance payment may be made under this subsection for any breakfast served by a school unless such breakfast consists of a combination of foods which meet the minimum nutritional requirements prescribed by the Secretary under subsection (e) of this section.
 
+(E)
+
+Free and reduced price policy statement.—After the initial submission, a school food authority shall not be required to submit a free and reduced price policy statement to a State educational agency under this chapter unless there is a substantive change in the free and reduced price policy of the school food authority. A routine change in the policy of a school food authority, such as an annual adjustment of the income eligibility guidelines for free and reduced price meals, shall not be sufficient cause for requiring the school food authority to submit a policy statement.
+
 (2)(A) The Secretary shall make additional payments for breakfasts served to children qualifying for a free or reduced price meal at schools that are in severe need.
 
 (B) The maximum payment for each such free breakfast shall be the higher of—
@@ -32,7 +36,7 @@ There is hereby authorized to be appropriated such sums as are necessary to enab
 
 (3) The Secretary shall increase by 6 cents the annually adjusted payment for each breakfast served under this chapter and section 1766 of this title. These funds shall be used to assist States, to the extent feasible, in improving the nutritional quality of the breakfasts.
 
-(4) Notwithstanding any other provision of law, whenever stocks of agricultural commodities are acquired by the Secretary or the Commodity Credit Corporation and are not likely to be sold by the Secretary or the Commodity Credit Corporation or otherwise used in programs of commodity sale or distribution, the Secretary shall make such commodities available to school food authorities and eligible institutions serving breakfasts under this chapter in a quantity equal in value to not less than 3 cents for each breakfast served under this chapter and section 1766 of this title.
+(4) Notwithstanding any other provision of law, whenever stocks of agricultural commodities are acquired by the Secretary or the Commodity Credit Corporation and are not likely to be sold by the Secretary or the Commodity Credit Corporation or otherwise used in programs of commodity sale or distribution, the Secretary shall make such commodities available to school food authorities and eligible institutions serving breakfasts under this chapter in a quantity equal in value to not less than 3cents for each breakfast served under this chapter and section 1766 of this title.
 
 (5) Expenditures of funds from State and local sources for the maintenance of the breakfast program shall not be diminished as a result of funds or commodities received under paragraph (3) or (4).
 
@@ -48,7 +52,7 @@ Funds apportioned and paid to any State for the purpose of this section shall be
 
 &emsp;(B) those schools (having a breakfast program or desiring to initiate a breakfast program) in which, during the most recent second preceding school year for which lunches were served, 40 percent or more of the lunches served to students at the school were served free or at a reduced price, and in which the rate per meal established by the Secretary is insufficient to cover the costs of the breakfast program.
 
-> The provision of eligibility specified in clause (A) of this paragraph shall terminate effectiveJuly 1, 1983, for schools in States where the State legislatures meet annually and shall terminate effective July 1, 1984, for schools in States where the State legislatures meet biennially.
+> The provision of eligibility specified in clause (A) of this paragraph shall terminate effective July 1, 1983, for schools in States where the State legislatures meet annually and shall terminate effective July 1, 1984, for schools in States where the State legislatures meet biennially.
 
 (2) A school, upon the submission of appropriate documentation about the need circumstances in that school and the school's eligibility for additional assistance, shall be entitled to receive 100 percent of the operating costs of the breakfast program, including the costs of obtaining, preparing, and serving food, or the meal reimbursement rate specified in paragraph (2) of subsection (b) of this section, whichever is less.
 
@@ -56,109 +60,27 @@ Funds apportioned and paid to any State for the purpose of this section shall be
 
 (1)(A) Breakfasts served by schools participating in the school breakfast program under this section shall consist of a combination of foods and shall meet the minimum nutritional requirements prescribed by the Secretary on the basis of tested nutritional research, except that the minimum nutritional requirements shall be measured by not less than the weekly average of the nutrient content of school breakfasts. Such breakfasts shall be served free or at a reduced price to children in school under the same terms and conditions as are set forth with respect to the service of lunches free or at a reduced price in section 1758 of this title.
 
-(B) The Secretary shall provide through State educational agencies technical assistance and training, including technical assistance and training in the preparation of foods high in complex carbohydrates and lower-fat versions of foods commonly used in the school breakfast program established under this section, to schools participating in the school breakfast program to assist the schools in complying with the nutritional requirements prescribed by the Secretary pursuant to subparagraph (A) and in providing appropriate meals to children with medically certified special dietary needs. The Secretary shall provide through State educational agencies additional technical assistance to schools that are having difficulty maintaining compliance with the requirements.
+(B) The Secretary shall provide through State educational agencies technical assistance and training, including technical assistance and training in the preparation of foods high in complex carbohydrates and lower-fat versions of foods commonly used in the school breakfast program established under this section, to schools participating in the school breakfast program to assist the schools in complying with the nutritional requirements prescribed by the Secretary pursuant to subparagraph (A) and in providing appropriate meals to children with medically certified special dietary needs.
 
 (2) At the option of a local school food authority, a student in a school under the authority that participates in the school breakfast program under this chapter may be allowed to refuse not more than one item of a breakfast that the student does not intend to consume. A refusal of an offered food item shall not affect the full charge to the student for a breakfast meeting the requirements of this section or the amount of payments made under this chapter to a school for the breakfast.
 
-#### (f) Expansion of program
-
-(1)(A) As a national nutrition and health policy, it is the purpose and intent of the Congress that the school breakfast program be made available in all schools where it is needed to provide adequate nutrition for children in attendance. The Secretary is hereby directed, in cooperation with State educational agencies, to carry out a program of information in furtherance of this policy.
-
-(B) In cooperation with State educational agencies, the Secretary shall promote the school breakfast program by—
-
-&emsp;(i) marketing the program in a manner that expands participation in the program by schools and students; and
-
-&emsp;(ii) improving public education and outreach efforts in language appropriate materials that enhance the public image of the program.
-
-(C) As used in this paragraph, the term “language appropriate materials” means materials using a language other than the English language in a case in which the language is dominant for a large percentage of individuals participating in the program.
-
-(2)(A) Each State educational agency shall—
-
-&emsp;(i) provide information to school boards and public officials concerning the benefits and availability of the school breakfast program; and
-
-&emsp;(ii) select each year, for additional informational efforts concerning the program, schools in the State—
-
-&emsp;&emsp;(I) in which a substantial portion of school enrollment consists of children from low-income families; and
-
-&emsp;&emsp;(II) that do not participate in the school breakfast program.
-
-(B) Not later than October 1, 1993, the Secretary shall report to the Committee on Education and Labor of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate concerning the efforts of the Secretary and the States to increase the participation of schools in the program.
-
-#### (g) Startup and expansion costs
-
-(1) Out of any moneys in the Treasury not otherwise appropriated, the Secretary of the Treasury shall provide to the Secretary $5,000,000 for each of fiscal years 1991 through 1997, $6,000,000 for fiscal year 1998, and $7,000,000 for fiscal year 1999 and each subsequent fiscal year to make payments under this subsection. The Secretary shall be entitled to receive the funds and shall accept the funds. The Secretary shall use the funds to make payments on a competitive basis and in the following order of priority (subject to other provisions of this subsection), to—
-
-&emsp;(A) State educational agencies in a substantial number of States for distribution to eligible schools to assist the schools with nonrecurring expenses incurred in—
-
-&emsp;&emsp;(i) initiating a school breakfast program under this section; or
-
-&emsp;&emsp;(ii) expanding a school breakfast program; and
-
-&emsp;(B) a substantial number of States for distribution to service institutions to assist the institutions with nonrecurring expenses incurred in—
-
-&emsp;&emsp;(i) initiating a summer food service program for children; or
-
-&emsp;&emsp;(ii) expanding a summer food service program for children.
-
-(2) Payments received under this subsection shall be in addition to payments to which State agencies are entitled under subsection (b) of thissection and section 13 of the National School Lunch Act (42 U.S.C. 1761).
-
-(3) To be eligible to receive a payment under this subsection, a State educational agency shall submit to the Secretary a plan to initiate or expand school breakfast programs conducted in the State, including a description of the manner in which the agency will provide technical assistance and funding to schools in the State to initiate or expand the programs.
-
-(4) In making payments under this subsection for any fiscal year to initiate or expand school breakfast programs, the Secretary shall provide a preference to State educational agencies that—
-
-&emsp;(A) have in effect a State law that requires the expansion of the programs during the year;
-
-&emsp;(B) have significant public or private resources that have been assembled to carry out the expansion of the programs during the year;
-
-&emsp;(C) do not have a school breakfast program available to a large number of low-income children in the State; or
-
-&emsp;(D) serve an unmet need among low-income children, as determined by the Secretary.
-
-(5) In making payments under this subsection for any fiscal year to initiate or expand summer food service programs for children, the Secretary shall provide a preference to States—
-
-&emsp;(A)(i) in which the numbers of children participating in the summer food service program for children represent the lowest percentages of the number of children receiving free or reduced price meals under the school lunch program established under the National School Lunch Act (42 U.S.C. 1751 et seq.); or
-
-&emsp;(ii) that do not have a summer food service program for children available to a large number of low-income children in the State; and
-
-&emsp;(B) that submit to the Secretary a plan to expand the summer food service programs for children conducted in the State, including a description of—
-
-&emsp;&emsp;(i) the manner in which the State will provide technical assistance and funding to service institutions in the State to expand the programs; and
-
-&emsp;&emsp;(ii) significant public or private resources that have been assembled to carry out the expansion of the programs during the year.
-
-(6) The Secretary shall act in a timely manner to recover and reallocate to other States any amounts provided to a State educational agency or State under this subsection that are not used by the agency or State within a reasonable period (as determined by the Secretary).
-
-(7) The Secretary shall allow States to apply on an annual basis for assistance under this subsection.
-
-(8) Each State agency and State, in allocating funds within the State, shall give preference for assistance under this subsection to eligible schools and service institutions that demonstrate the greatest need for a school breakfast program or a summer food service program for children, respectively.
-
-(9) Expenditures of funds from State and local sources for the maintenance of the school breakfast program and the summer food service program for children shall not be diminished as a result of payments received under this subsection.
-
-(10) As used in this subsection:
-
-&emsp;(A) The term “eligible school” means a school—
-
-&emsp;&emsp;(i) attended by children a significant percentage of whom are members of low-income families;
-
-&emsp;&emsp;(ii)(I) as used with respect to a school breakfast program, that agrees to operate the school breakfast program established or expanded with the assistance provided under this subsection for a period of not less than 3 years; and
-
-&emsp;&emsp;(II) as used with respect to a summer food service program for children, that agrees to operate the summer food service program for children established or expanded with the assistance provided under this subsection for a period of not less than 3 years.
-
-&emsp;(B) The term “service institution” means an institution or organization described in paragraph (1)(B) or (7) of section 13(a) of the National School Lunch Act (42 U.S.C. 1761(a)(1)(B) or (7)).
-
-&emsp;(C) The term “summer food service program for children” means a program authorized by section 13 of such Act (42 U.S.C. 1761).
-
-(Pub. L. 89–642, §4, Oct. 11, 1966, 80 Stat. 886; Pub. L. 90–302, §5, May 8, 1968, 82 Stat. 119; Pub. L. 91–248, §§6(d), 10, May 14, 1970, 84 Stat. 210, 214; Pub. L. 92–32, §§2–5, June 30, 1971, 85 Stat. 85; Pub. L. 92–433, §3, Sept. 26, 1972, 86 Stat. 724; Pub. L. 93–150, §4, Nov. 7, 1973, 87 Stat. 562; Pub. L. 94–105, §§2, 3, 15(b), 17(a), Oct. 7, 1975, 89 Stat. 511, 522, 525; Pub. L. 95–166, §12, Nov. 10, 1977, 91 Stat. 1337; Pub. L. 95–561, title XIV, §1408(b)(1), Nov. 1, 1978, 92 Stat. 2368; Pub. L. 95–627, §6(c), Nov. 10, 1978, 92 Stat. 3620; Pub. L. 97–35, title VIII, §§801(c), 817(d), 819(b), Aug. 13, 1981, 95 Stat. 522, 532, 533; Pub. L. 99–500, title III, §§330(a), 331, 372(b)(1), Oct. 18, 1986, 100 Stat. 1783–363, 1783–369, and Pub. L. 99–591, title III, §§330(a), 331, 372(b)(1), Oct. 30, 1986, 100 Stat. 3341–366, 3341–372; Pub. L. 99–661, div. D, title II, §§4210(a), 4211, title V, §4502(b)(1), Nov. 14, 1986, 100 Stat. 4074, 4080; Pub. L. 100–435, title II, §210, Sept. 19, 1988, 102 Stat. 1657; Pub. L. 101–147, title I, §121, title II, §212(a)(1), (2)(A), (b), title III, §322, Nov. 10, 1989, 103 Stat. 891, 912, 916; Pub. L. 103–448, title II, §201, Nov. 2, 1994, 108 Stat. 4734.)
+(Pub. L. 89–642, §4, Oct. 11, 1966, 80 Stat. 886; Pub. L. 90–302, §5, May 8, 1968, 82 Stat. 119; Pub. L. 91–248, §§6(d), 10, May 14, 1970, 84 Stat. 210, 214; Pub. L. 92–32, §§2–5, June 30, 1971, 85 Stat. 85; Pub. L. 92–433, §3, Sept. 26, 1972, 86 Stat. 724; Pub. L. 93–150, §4, Nov. 7, 1973, 87 Stat. 562; Pub. L. 94–105, §§2, 3, 15(b), 17(a), Oct. 7, 1975, 89 Stat. 511, 522, 525; Pub. L. 95–166, §12, Nov. 10, 1977, 91 Stat. 1337; Pub. L. 95–561, title XIV, §1408(b)(1), Nov. 1, 1978, 92 Stat. 2368; Pub. L. 95–627, §6(c), Nov. 10, 1978, 92 Stat. 3620; Pub. L. 97–35, title VIII, §§801(c), 817(d), 819(b), Aug. 13, 1981, 95 Stat. 522, 532, 533; Pub. L. 99–500, title III, §§330(a), 331, 372(b)(1), Oct. 18, 1986, 100 Stat. 1783–363, 1783–369, and Pub. L. 99–591, title III, §§330(a), 331, 372(b)(1), Oct. 30, 1986, 100 Stat. 3341–366, 3341–372; Pub. L. 99–661, div. D, title II, §§4210(a), 4211, title V, §4502(b)(1), Nov. 14, 1986, 100 Stat. 4074, 4080; Pub. L. 100–435, title II, §210, Sept. 19, 1988, 102 Stat. 1657; Pub. L. 101–147, title I, §121, title II, §212(a)(1), (2)(A), (b), title III, §322, Nov. 10, 1989, 103 Stat. 891, 912, 916; Pub. L. 103–448, title II, §201, Nov. 2, 1994, 108 Stat. 4734; Pub. L. 104–193, title VII, §§722–723(b)(1), Aug. 22, 1996, 110 Stat. 2301, 2302.)
 
 #### References in Text
 
-The National School Lunch Act, referred to in subsec. (g)(5)(A)(i), is act June 4, 1946, ch. 281, 60 Stat. 230, as amended, which is classified generally to chapter 13 (§1751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of this title and Tables.
+Subsection (g) of this section, referred to in subsec. (a), was repealed by Pub. L. 104–193, title VII, §723(b)(1), Aug. 22, 1996, 110 Stat. 2302.
 
 #### Codification
 
 Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
+
+1996—Subsec. (b)(1)(E). Pub. L. 104–193, §722, added subpar. (E).
+
+Subsec. (e)(1)(B). Pub. L. 104–193, §723(a), struck out at end “The Secretary shall provide through State educational agencies additional technical assistance to schools that are having difficulty maintaining compliance with the requirements.”
+
+Subsecs. (f), (g). Pub. L. 104–193, §723(b)(1), struck out subsec. (f) relating to expansion of program and subsec. (g) relating to startup and expansion costs.
 
 1994—Subsec. (e)(1). Pub. L. 103–448, §201(a), (b), designated existing provisions as subpar. (A), inserted “, except that the minimum nutritional requirements shall be measured by not less than the weekly average of the nutrient content of school breakfasts” before period at end, and added subpar. (B).
 
@@ -220,7 +142,7 @@ Subsec. (g). Pub. L. 94–105, §3, added subsec. (g).
 
 1973—Subsec. (b). Pub. L. 93–150, §4(c), prescribed a minimum payment of 8 cents as the national average payment for all breakfasts served to eligible children, inserted provision for minimum payment of 15 cents for each reduced-price breakfast and for minimum payment of 20 cents for each free breakfast, and authorized, in cases of severe need, a payment of up to 45 cents for each breakfast served to children qualifying for a free breakfast.
 
-Subsec. (c). Pub. L. 93–150, §4(a), (b), substituted in first sentence “State educational agency to assist such schools in financing the costs of operating a breakfast program” for “State educational agency, to assist such schools in financing the cost of obtaining agricultural and other foods for consumption by needy children in a breakfast program” and struck out second sentence which provided that “Such food costs may include, in addition to the purchase price, the cost of processing, distributing, transporting, storing, and handling.”, respectively.
+Subsec. (c). Pub. L. 93–150, §4(a), (b), substituted in first sentence “State educational agency to assist such schools in financing the costs of operating a breakfast program” for “State educational agency, to assist such schools in financing the cost of obtaining agricultural and other foods for consumption by needy children in a breakfast program” and struck out second sentence which provided that “Such food costs may include, inaddition to the purchase price, the cost of processing, distributing, transporting, storing, and handling.”, respectively.
 
 1972—Subsec. (a). Pub. L. 92–433, §3(a), substituted authorization of appropriation of such sums as are necessary for fiscal years ending June 30, 1973, June 30, 1974, and June 30, 1975, for provisions authorizing appropriation of amounts not exceeding $25,000,000 for fiscal years 1972 and 1973 and made amounts available to schools making applications for assistance and agreeing to carry out a nonprofit breakfast program in accordance with this chapter.
 
@@ -228,7 +150,7 @@ Subsec. (b). Pub. L. 92–433, §3(b), made existing apportionment formula appli
 
 Subsec. (c). Pub. L. 92–433, §3(c), inserted provision that breakfast assistance disbursements to schools may be made in advance or by way of reimbursement in accordance with procedure prescribed by the Secretary.
 
-Subsec. (e). Pub. L. 92–433, §3(d), substituted provisions that breakfasts be served free or at reduced cost under same terms and conditions as set forth in section 1758 of this title for provisions relating to determination by local school authorities of the inability of children to pay full cost, criteria for such determination, income poverty guidelines, affidavit of household's annual income, eligibility of nonprofit private schools forfunds, and prohibition of discrimination on account of inability to pay.
+Subsec. (e). Pub. L. 92–433, §3(d), substituted provisions that breakfasts be served free or at reduced cost under same terms and conditions as set forth in section 1758 of this title for provisions relating to determination by local school authorities of the inability of children to pay full cost, criteria for such determination, income poverty guidelines, affidavit of household's annual income, eligibility of nonprofit private schools for funds, and prohibition of discrimination on account of inability to pay.
 
 Subsec. (f). Pub. L. 92–433, §3(e), substituted provisions that for fiscal year ending June 30, 1973, withholding and disbursement to nonprofit private schools will be effected as before and that commencing with the next fiscal year, the Secretary would directly make payments to the nonprofit private schools participating in the breakfast program under agreement with the Secretary for provisions that such withholding and disbursement be effected in accordance with section 1759 of this title with some exceptions.
 
@@ -246,9 +168,9 @@ Subsec. (e). Pub. L. 91–248, §6(d), provided that there be no overt identific
 
 1968—Subsec. (a). Pub. L. 90–302 provided authorization to appropriate $6,500,000 for fiscal year 1969, not to exceed $10,000,000 for fiscal year 1970, and not to exceed $12,000,000 for fiscal year 1971, struck out references to authorization for fiscal years 1967 and 1968 and to pilot programs conducted on a nonpartisan basis, and added provision that appropriations and expenditures for this chapter be considered Health, Education, and Welfare functions for budget purposes rather than functions of Agriculture.
 
-#### Change of Name
+#### Effective Date of 1996 Amendment
 
-Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Section 723(b)(2) of Pub. L. 104–193 provided that: “The amendments made by paragraph (1) \[amending this section\] shall become effective on October 1, 1996.”
 
 #### Effective Date of 1994 Amendment
 
@@ -292,11 +214,11 @@ Pub. L. 96–499, title II, §210, Dec. 5, 1980, 94 Stat. 2602, provided that: �
 
 &emsp;“(1) no adjustment under such section shall be made on January 1 of such fiscal year; and
 
-&emsp;“(2) the adjustment under such section required to be made on July 1 of such fiscal year shall be computed to the nearest one-fourth cent based on changes, measured over the preceding twelve-month period for which data are available, in the series for food away from home of the Consumer Price Index for All Urban Consumers, published by the Bureau of Labor Statistics, Department of Labor.”
+&emsp;“(2) the adjustment under such section required to be made on July 1 of such fiscal year shall be computed to the nearest one-fourth cent based on changes, measured over the preceding twelve-monthperiod for which data are available, in the series for food away from home of the Consumer Price Index for All Urban Consumers, published by the Bureau of Labor Statistics, Department of Labor.”
 
 #### Alternate Foods
 
-Section 6(d) of Pub. L. 95–627 provided that: “The Secretary shall not limit or prohibit, during the school year 1978–79, the use of formulated grain-fruit products currently approved for use in the school breakfast program. The Secretary shall consult experts in child nutrition, industry representatives, and school food service personnel and school administrators (including personnel and administrators in school systems using such products) with respect to the continued use of formulated grain-fruit products in the school breakfast program, and shall also take into account the findings and recommendations in the report on this subject of the General Accounting Office. The Secretary shall not promulgate a final rule disapproving the use of such products in the school breakfast program beyond the 1978–79 school year until the Secretary has notified the appropriate committees of Congress, and such ruleshall not take effect until sixty days after such notification.”
+Section 6(d) of Pub. L. 95–627 provided that: “The Secretary shall not limit or prohibit, during the school year 1978–79, the use of formulated grain-fruit products currently approved for use in the school breakfast program. The Secretary shall consult experts in child nutrition, industry representatives, and school food service personnel and school administrators (including personnel and administrators in school systems using such products) with respect to the continued use of formulated grain-fruit products in the school breakfast program, and shall also take into account the findings and recommendations in the report on this subject of the General Accounting Office. The Secretary shall not promulgate a final rule disapproving the use of such products in the school breakfast program beyond the 1978–79 school year until the Secretary has notified the appropriate committees of Congress, and such rule shall not take effect until sixty days after such notification.”
 
 #### Report to Congress of Needs for Additional Funds for School Breakfast and Nonfood Assistance Programs, Fiscal Year Ending June 30, 1972
 
@@ -312,5 +234,7 @@ Additional funds for direct distribution programs for diet of needy children suf
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1755, 1758, 1759a, 1760, 1761, 1766, 1769, 1769b–1, 1769e, 1769f, 1769h, 1775, 1776, 1777, 1780 of this title.
+This section is referred to in sections 1755, 1759a, 1760, 1766, 1769, 1769b–1, 1769f, 1769h, 1775, 1776, 1777, 1780 of this title; title 8 section 1615.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

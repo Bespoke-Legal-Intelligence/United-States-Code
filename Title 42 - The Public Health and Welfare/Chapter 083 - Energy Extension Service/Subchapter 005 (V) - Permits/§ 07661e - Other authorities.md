@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Nothing in this subchapter shall prevent a State, or interstate permitting authority, from establishing additional permitting requirements not inconsistent with this chapter.
+Nothing in this subchapter shall prevent a State, or interstate permitting authority, fromestablishing additional permitting requirements not inconsistent with this chapter.
 
 #### (b) Permits implementing acid rain provisions
 

@@ -1,6 +1,6 @@
 ### §702. General Accounting Office
 
-(a) The General Accounting Office is an instrumentality of the United States Government independent of the executive departments.
+(a) The General Accounting Office is an instrumentality of the United States Government independent of the executive departments.
 
 (b) The head of the Office is the Comptroller General of the United States. The Office has a Deputy Comptroller General of the United States.
 
@@ -62,7 +62,65 @@ In subsection (c), the words “Administrator of General Services” are substit
 
 #### Amendments
 
-1988—Subsecs. (c), (d). Pub. L. 100–545 redesignated subsec. (d) as (c) and struck out former subsec. (c) which directed Administrator of General Services to provide Comptroller General with space in General Accounting Office Building.
+1988—Subsecs. (c), (d). Pub. L. 100–545 redesignated subsec. (d) as (c) and struck out former subsec. (c)which directed Administrator of General Services to provide Comptroller General with space in General Accounting Office Building.
+
+#### Transfers and Terminations of Functions
+
+Pub. L. 104–316, title I, §101(a)–(d), Oct. 19, 1996, 110 Stat. 3826, 3827, provided that:
+
+“(a)
+
+In General.—
+
+&emsp;“(1)
+
+Functions transferred.—In any case in which a provision of law authorizing the performance of a function by the Comptroller General of the United States or the General Accounting Office is amended by this title \[see Tables for classification\] to substitute another Federal officer, employee, or agency in that authorization, the authority under that provision to perform that function is transferred to the other Federal officer, employee, or agency.
+
+&emsp;“(2)
+
+Functions terminated.—In any case in which a provision of law authorizing the performance of a function by the Comptroller General of the United States or the General Accounting Office is repealed by this Act \[see Tables for classification\], the authority under that provision to perform that function is terminated.
+
+&emsp;“(3)
+
+Delegation of functions.—The Director of the Office of Management and Budget may delegate, in whole or in part, to any other agency or agencies any function transferred to or vested in the Director under section 103(d), 105(b), 116, or 202(n) of this Act \[amending section 3702 of this title, section 5584 of Title 5, Government Organization and Employees, section 2774 of Title 10, Armed Forces, and section 716 of Title 32, National Guard\], and may transfer to such agency or agencies any personnel, budget authority, records, and property received by the Director pursuant to subsection (b) of this section that relate to the delegated functions.
+
+“(b)
+
+Incidental Transfers.—
+
+&emsp;“(1)
+
+In general.—Incident to any transfer of authority under subsection (a)(1), there shall be transferred to the recipient Federal officer, employee, or agency such personnel, records, budget authority, and property of the General Accounting Office as the Comptroller General and the Director of the Office of Management and Budget jointly determine to be necessary to effectuate the transfer.
+
+&emsp;“(2)
+
+Effect on personnel.—Personnel transferred under this section shall not be separated or reduced in classification or compensation for one year after any such transfer, except for cause.
+
+“(c)
+
+References.—With respect to any function or authority transferred under this Act and exercised on or after the effective date of that transfer, reference in any Federal law to the Comptroller General or to any officer or employee of the General Accounting Office is deemed to refer to the Federal officer or agency to which the function or authority is transferred under this Act.
+
+“(d)
+
+Savings Provisions.—
+
+&emsp;“(1)
+
+Orders and other official actions not affected.—All orders, determinations, rules, regulations, permits, grants, contracts, certificates, licenses, and privileges—
+
+&emsp;&emsp;“(A) which have been issued, made, granted, or allowed to become effective by the Comptroller General or any official of the General Accounting Office, or by a court of competent jurisdiction, in the performance of any function or authority transferred under this Act, and
+
+&emsp;&emsp;“(B) which are in effect at the time of the transfer;
+
+> &emsp;shall continue in effect according to their terms until modified, terminated, superseded, set aside, or revoked in accordance with law.
+
+&emsp;“(2)
+
+Pending matters and proceedings.—This Act shall not affect any pending matters or proceedings, including notices of proposed rulemaking, relating to a function or authority transferred under this Act. Such matters or proceedings shall continue under the authority of the agency to which the function or authority is transferred until completed or terminated in accordance with law.
+
+&emsp;“(3)
+
+Judicial proceedings and causes of actions.—No suit, action, or other proceeding or cause of action relating to a function or authority transferred under this Act shall abate by reason of the enactment of this Act. If, before the date on which a transfer of a function or authority this Act takes effect, the Comptroller General of the United States or any officer or employee of the General Accounting Office in their official capacity is party to a suit relating to the function or authority, then such suit shall be continued and the head of the agency to which the function or authority is transferred, or other appropriate official of that agency, shall be substituted or added as a party.”
 
 #### Section Referred to in Other Sections
 

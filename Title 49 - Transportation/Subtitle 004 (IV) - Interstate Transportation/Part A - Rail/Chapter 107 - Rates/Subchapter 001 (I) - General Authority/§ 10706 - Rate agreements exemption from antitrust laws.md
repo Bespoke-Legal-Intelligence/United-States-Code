@@ -42,9 +42,9 @@
 
 (5)(A) Whenever two or more shippers enter into an agreement to discuss among themselves that relates to the amount of compensation such shippers propose to be paid by rail carriers providing transportation subject to the jurisdiction of the Board under this part, for use by such rail carriers of rolling stock owned or leased by such shippers, the shippers shall apply to the Board for approval of that agreement under this paragraph. The Board shall approve the agreement only when it finds that the making and carrying out of the agreement will further the transportation policy set forth in section 10101 of this title and may require compliance with conditions necessary to make the agreement further that policy as a condition of approval. If the Board approves the agreement, it may be made and carried out under its terms and under the terms required by the Board, and the antitrust laws set forth in paragraph (2) of this subsection do not apply to parties and other persons with respect to making or carrying out the agreement. The Board shall approve or disapprove an agreement under this paragraph within one year after the date application for approval of such agreement is made.
 
-(B) If the Board approves an agreement described in subparagraph (A) of this paragraph and the shippers entering into such agreement and the rail carriers proposing to use rolling stock owned or leased by such shippers, under payment by such carriers or under a published allowance, are unable to agree upon the amount of compensation to be paid for the use of such rolling stock, any party directly involved in the negotiations may require that the matter be settled by submitting the issues in dispute to the Board. The Board shall render a binding decision, based upon a standard of reasonableness and after taking into consideration any past precedents on the subject matter of the negotiations, no later than 90 days after the date of the submission of the dispute to the Board.
+(B) If the Board approves an agreement described in subparagraph (A) of this paragraph and the shippers entering into such agreement and the rail carriers proposing to use rollingstock owned or leased by such shippers, under payment by such carriers or under a published allowance, are unable to agree upon the amount of compensation to be paid for the use of such rolling stock, any party directly involved in the negotiations may require that the matter be settled by submitting the issues in dispute to the Board. The Board shall render a binding decision, based upon a standard of reasonableness and after taking into consideration any past precedents on the subject matter of the negotiations, no later than 90 days after the date of the submission of the dispute to the Board.
 
-(C) Nothing in this paragraph shall be construed to change the law in effect prior to the effective date of the Staggers Rail Act of 1980 with respect to the obligation of rail carriers to utilize rolling stock owned or leased by shippers.
+(C) Nothing in this paragraph shall be construed to change the law in effect prior to October 1, 1980, with respect to the obligation of rail carriers to utilize rolling stock owned or leased by shippers.
 
 (b) The Board may require an organization established or continued under an agreement approved under this section to maintain records and submit reports. The Board may inspect a record maintained under this section.
 
@@ -74,7 +74,7 @@
 
 (2) Reports received by the Board under this subsection shall be published and made available to the public under section 552(a) of title 5.
 
-(Added Pub. L. 104–88, title I, §102(a), Dec. 29, 1995, 109 Stat. 812.)
+(Added Pub. L. 104–88, title I, §102(a), Dec. 29, 1995, 109 Stat. 812; amended Pub. L. 104–287, §5(24), Oct. 11, 1996, 110 Stat. 3390.)
 
 #### References in Text
 
@@ -82,15 +82,17 @@ The Sherman Act, referred to in subsec. (a)(2)(A), (4), is act July 2, 1890, ch.
 
 The Clayton Act, referred to in subsec. (a)(2)(A), (4), is act Oct. 15, 1914, ch. 323, 38 Stat. 730, as amended, which is classified generally to sections 12, 13, 14 to 19, 20, 21, and 22 to 27 of Title 15 and sections 52 and 53 of Title 29, Labor. For further details and complete classification of this Act to the Code, see References in Text note set out under section 12 of Title 15 and Tables.
 
-The Federal Trade Commission Act, referred to in subsec. (a)(2)(A), (4), is act Sept. 26, 1914, ch. 311, 38Stat. 717, as amended, which is classified generally to subchapter I (§41 et seq.) of chapter 2 of Title 15. For complete classification of this Act to the Code, see section 58 of Title 15 and Tables.
+The Federal Trade Commission Act, referred to in subsec. (a)(2)(A), (4), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, as amended, which is classified generally to subchapter I (§41 et seq.) of chapter 2 of Title 15. For complete classification of this Act to the Code, see section 58 of Title 15 and Tables.
 
 Sections 73 and 74 of the Wilson Tariff Act, referred to in subsec. (a)(2)(A), (4), are sections 73 and 74 of act Aug. 27, 1894, ch. 349, 28 Stat. 570, which enacted sections 8 and 9, respectively, of Title 15.
 
 Act of June 19, 1936, referred to in subsec. (a)(2)(A), (4), is act June 19, 1936, ch. 592, 49 Stat. 1526, popularly known as the Robinson-Patman Anti-discrimination Act and also as the Robinson-Patman Price Discrimination Act, which enacted sections 13a, 13b, and 21a of Title 15 and amended section 13 of Title 15. For complete classification of this Act to the Code, see Short Title note set out under section 13 of Title 15 and Tables.
 
-The effective date of the Staggers Rail Act of 1980, referred to in subsec. (a)(5)(C), probably means Oct. 1, 1980, the general effective date of Pub. L. 96–448. See section 710 of Pub. L. 96–448, set out as an Effective Date of 1980 Amendment note under section 1170 of Title 11, Bankruptcy.
-
 #### Prior Provisions
 
 A prior section 10706, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1377; Pub. L. 96–258, §1(7), June 3, 1980, 94 Stat. 426; Pub. L. 96–296, §14(a), (c), (d), July 1, 1980, 94 Stat. 803, 808; Pub. L. 96–448, title II, §219(a)–(e), 224(b), Oct. 14, 1980, 94 Stat. 1926–1929; Pub. L. 97–261, §10(a)–(d), Sept. 20, 1982, 96 Stat. 1109, 1110; Pub. L. 98–216, §2(12), Feb. 14, 1984, 98 Stat. 5; Pub. L. 99–521, §7(c), Oct. 22, 1986, 100 Stat. 2995, related to exemption from antitrust laws of rate agreements, prior to the general amendment of this subtitle by Pub. L. 104–88, §102(a). See sections 10706 and 13703 of this title.
+
+#### Amendments
+
+1996—Subsec. (a)(5)(C). Pub. L. 104–287 substituted “October 1, 1980,” for “the effective date of the Staggers Rail Act of 1980”.
 

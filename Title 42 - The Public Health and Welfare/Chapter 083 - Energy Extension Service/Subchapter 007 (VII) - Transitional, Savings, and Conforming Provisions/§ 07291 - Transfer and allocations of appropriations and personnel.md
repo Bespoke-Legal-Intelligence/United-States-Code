@@ -14,7 +14,3 @@ This chapter, referred to in subsecs. (a) and (b), was in the original “this A
 
 In subsec. (a), “section 1531 of title 31” substituted for “section 202 of the Budget and Accounting Procedures Act of 1950 \[31 U.S.C. 581c\]” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7212 of this title.
-

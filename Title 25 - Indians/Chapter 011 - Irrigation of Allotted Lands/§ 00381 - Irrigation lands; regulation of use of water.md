@@ -8,7 +8,7 @@ In cases where the use of water for irrigation is necessary to render the lands 
 
 Cancellation of trust patents within power or reservoir sites, see section 352 of this title.
 
-Irrigation projects under Reclamation Act to be carried on under such arrangements and agreements as Secretary of Interior deems for best interests of the Indians, see section 382 of this title.
+Irrigation projects under Reclamation Act to be carried on under such arrangements and agreements as Secretary of the Interior deems for best interests of the Indians, see section 382 of this title.
 
 #### Section Referred to in Other Sections
 

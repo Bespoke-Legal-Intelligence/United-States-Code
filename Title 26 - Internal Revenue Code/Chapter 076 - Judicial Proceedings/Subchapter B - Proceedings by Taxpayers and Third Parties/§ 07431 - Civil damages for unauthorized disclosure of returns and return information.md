@@ -52,7 +52,7 @@ For purposes of this section—
 
 #### Prior Provisions
 
-A prior section 7431 was renumbered section 7434 of this title.
+A prior section 7431 was renumbered section 7436 of this title.
 
 #### Amendments
 

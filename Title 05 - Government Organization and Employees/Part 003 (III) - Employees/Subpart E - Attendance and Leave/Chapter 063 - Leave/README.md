@@ -92,37 +92,33 @@
 
 #### Amendments
 
-<b>1994</b>—Pub. L. 103–329, title VI, §629(a)(2)(B), Sept. 30, 1994, 108 Stat. 2423, added item 6327 relating to absence in connection with serving as a bone-marrow or organ donor.
+1994—Pub. L. 103–329, title VI, §629(a)(2)(B), Sept. 30, 1994, 108 Stat. 2423, added item 6327 relating to absence in connection with serving as a bone-marrow or organ donor.
 
-<b>1993</b>—Pub. L. 103–103, §5(a)(2), Oct. 8, 1993, 107 Stat. 1023, substituted “Authority to participate in both programs” for “Limitation on employee participation” in item 6373.
+1993—Pub. L. 103–103, §5(a)(2), Oct. 8, 1993, 107 Stat. 1023, substituted “Authority to participate in both programs” for “Limitation on employee participation” in item 6373.
 
 Pub. L. 103–3, title II, §201(a)(2), Feb. 5, 1993, 107 Stat. 23, added heading of subchapter V and items 6381 to 6387.
 
-<b>1990</b>—Pub. L. 101–508, title VII, §7202(i)(2), Nov. 5, 1990, 104 Stat. 1388–337, inserted “and nonappropriated fund” after “office” in item 6312.
+1990—Pub. L. 101–508, title VII, §7202(i)(2), Nov. 5, 1990, 104 Stat. 1388–337, inserted “and nonappropriated fund” after “office” in item 6312.
 
-<b>1988</b>—Pub. L. 100–566, §2(d)(1)(B), Oct. 31, 1988, 102 Stat. 2844, which provided that the table of sections for subchapters III and IV were to be repealed effective 5 years after Oct. 31, 1988, was repealed by Pub. L. 103–103, §2, Oct. 8, 1993, 107 Stat. 1022, effective Oct. 30, 1993.
+1988—Pub. L. 100–566, §2(d)(1)(B), Oct. 31, 1988, 102 Stat. 2844, which provided that the table of sections for subchapters III and IV were to be repealed effective 5 years after Oct. 31, 1988, was repealed by Pub. L. 103–103, §2, Oct. 8, 1993, 107 Stat. 1022, effective Oct. 30, 1993.
 
 Pub. L. 100–566, §2(b), Oct. 31, 1988, 102 Stat. 2843, added heading of subchapter III and items 6331 to 6340 and heading of subchapter IV and items 6361 to 6373.
 
-<b>1975</b>—Pub. L. 94–183, §2(27), Dec. 31, 1975, 89 Stat. 1058, struck out item 6309 “Leave of absence; rural carriers”.
+1975—Pub. L. 94–183, §2(27), Dec. 31, 1975, 89 Stat. 1058, struck out item 6309 “Leave of absence; rural carriers”.
 
-<b>1970</b>—Pub. L. 91–563, §1(b), Dec. 19, 1970, 84 Stat. 1476, included witness service and official duty status for certain witness service in item 6322.
+1970—Pub. L. 91–563, §1(b), Dec. 19, 1970, 84 Stat. 1476, included witness service and official duty status for certain witness service in item 6322.
 
-<b>1968</b>—Pub. L. 90–588, §1(b), Oct. 17, 1968, 82 Stat. 1151, added item 6326.
+1968—Pub. L. 90–588, §1(b), Oct. 17, 1968, 82 Stat. 1151, added item 6326.
 
 Pub. L. 90–367, §2(b), June 29, 1968, 82 Stat. 277, added item 6312.
 
-<b>1967</b>—Pub. L. 90–221, §3(b), Dec. 23, 1967, 81 Stat. 671, added item 6325.
+1967—Pub. L. 90–221, §3(b), Dec. 23, 1967, 81 Stat. 671, added item 6325.
 
-<b>1966</b>—Pub. L. 89–747, §1(3), Nov. 2, 1966, 80 Stat. 1179, inserted reference to leave for crews of vessels in item 6305.
+1966—Pub. L. 89–747, §1(3), Nov. 2, 1966, 80 Stat. 1179, inserted reference to leave for crews of vessels in item 6305.
 
 #### Chapter Referred to in Other Sections
 
 This chapter is referred to in section 4703 of this title; title 24 section 225e; title 25 section 2012.
-
-<i><sup>1</sup></i><i> So in original. Two sections 6327 have been enacted.</i>
-
-<i><sup>2</sup></i><i> Editorially supplied. Section added by Pub. L. 103–329 without corresponding amendment of chapter analysis.</i>
 
 
 ---

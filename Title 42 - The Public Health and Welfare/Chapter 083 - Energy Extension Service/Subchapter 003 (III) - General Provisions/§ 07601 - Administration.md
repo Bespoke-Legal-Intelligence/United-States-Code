@@ -80,7 +80,7 @@ Title X of Pub. L. 101–549 provided that:
 
 “(a)
 
-In General.—In providing for any research relating to the requirements of the amendments made by the Clean Air Act Amendments of 1990 \[Pub. L. 101–549, see Tables for classification\] which uses funds of the Environmental Protection Agency, the Administrator of the Environmental Protection Agency shall, to the extent practicable, require that not less than 10 percent of total Federal funding for such research will be made available to disadvantaged business concerns.
+In General.—In providing for any research relating to the requirements of the amendments made bythe Clean Air Act Amendments of 1990 \[Pub. L. 101–549, see Tables for classification\] which uses funds of the Environmental Protection Agency, the Administrator of the Environmental Protection Agency shall, to the extent practicable, require that not less than 10 percent of total Federal funding for such research will be made available to disadvantaged business concerns.
 
 “(b)
 

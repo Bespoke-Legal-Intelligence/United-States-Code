@@ -2,7 +2,7 @@
 
 #### (a) Stipend
 
-Notwithstanding any other provision of law, the Secretary may provide, for each Bureau area, a stipend in lieu of overtime premium pay or compensatory time off. Any employee of the Bureau who performs additional activities to provide services to students or otherwise support the school's academic and social programs may elect to be compensated for all such work on the basis of the stipend. Such stipend shall be paid as a supplement to the employee's base pay.
+Notwithstanding any other provision of law, the Secretary may provide, for each Bureauarea, a stipend in lieu of overtime premium pay or compensatory time off. Any employee of the Bureau who performs additional activities to provide services to students or otherwise support the school's academic and social programs may elect to be compensated for all such work on the basis of the stipend. Such stipend shall be paid as a supplement to the employee's base pay.
 
 #### (b) Election not to receive stipend
 

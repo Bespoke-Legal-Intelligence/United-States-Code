@@ -4,7 +4,7 @@
 
 In order to receive any grant, loan, or work assistance under this subchapter and part C of subchapter I of chapter 34 of title 42, a student must—
 
-&emsp;(1) be enrolled or accepted for enrollment in a degree, certificate, or other program (including a program of study abroad approved forcredit by the eligible institution at which such student is enrolled) leading to a recognized educational credential at an institution of higher education that is an eligible institution in accordance with the provisions of section 1094 of this title, except as provided in subsections (b)(3) and (b)(4) of this section, and not be enrolled in an elementary or secondary school;
+&emsp;(1) be enrolled or accepted for enrollment in a degree, certificate, or other program (including a program of study abroad approved for credit by the eligible institution at which such student is enrolled) leading to a recognized educational credential at an institution of higher education that is an eligible institution in accordance with the provisions of section 1094 of this title, except as provided in subsections (b)(3) and (b)(4) of this section, and not be enrolled in an elementary or secondary school;
 
 &emsp;(2) if the student is presently enrolled at an institution, be maintaining satisfactory progress in the course of study the student is pursuing in accordance with the provisions of subsection (c) of this section;
 
@@ -24,7 +24,7 @@ In order to receive any grant, loan, or work assistance under this subchapter an
 
 &emsp;(A)(i) have received a determination of eligibility or ineligibility for a Pell Grant under such subpart 1 for such period of enrollment; and (ii) if determined to be eligible, have filed an application for a Pell Grant for such enrollment period; or
 
-&emsp;(B) have (A) filed an application with the Pell Grant processor for such institution for such enrollment period, and (B) received from the financial aid administrator of the institution a preliminary determination of the student's eligibility or ineligibility for a grant under such subpart 1.
+&emsp;(B) have (A) filed an application with the Pell Grant processor for such institution for such enrollment period, and (B) received fromthe financial aid administrator of the institution a preliminary determination of the student's eligibility or ineligibility for a grant under such subpart 1.
 
 (2) In order to be eligible to receive any loan under section 1078–1 <sup>2</sup> of this title for any period of enrollment, a student shall—
 
@@ -58,7 +58,7 @@ In order to receive any grant, loan, or work assistance under this subchapter an
 
 &emsp;(A) the institution at which the student is in attendance, reviews the progress of the student at the end of each academic year, or its equivalent, as determined by the institution, and
 
-&emsp;(B) the student has a cumulative C average, or its equivalent or academic standing consistent with the requirements for graduation, asdetermined by the institution, at the end of the second such academic year.
+&emsp;(B) the student has a cumulative C average, or its equivalent or academic standing consistent with the requirements for graduation, as determined by the institution, at the end of the second such academic year.
 
 (2) Whenever a student fails to meet the eligibility requirements of subsection (a)(2) of this section as a result of the application of this subsection and subsequent to that failure the student has academic standing consistent with the requirements for graduation, as determined by the institution, for any grading period, the student may, subject to this subsection, again be eligible under subsection (a)(2) of this section for a grant, loan, or work assistance under this subchapter and part C of subchapter I of chapter 34 of title 42.
 
@@ -120,7 +120,7 @@ Each eligible institution may certify student eligibility for a loan by an eligi
 
 &emsp;&emsp;(B) if there are submitted documents which the institution determines constitute reasonable evidence indicating such status—
 
-&emsp;&emsp;&emsp;(i) the institution shall transmit to the Immigration and Naturalization Service photostatic or other similar copies of such documents for official verification,
+&emsp;&emsp;&emsp;(i) the institution shall transmit to the Immigration and Naturalization Service either photostatic or other similar copies of such documents, or information from such documents, as specified by the Immigration and Naturalization Service, for official verification,
 
 &emsp;&emsp;&emsp;(ii) pending such verification, the institution may not delay, deny, reduce, or terminate the individual's eligibility for the grant, loan, or work assistance on the basis of the individual's immigration status, and
 
@@ -174,7 +174,7 @@ A student shall not be eligible to receive grant, loan, or work assistance under
 
 #### (3) Special rule
 
-&emsp;For award years prior to July 23, 1992, the Secretary shall not take any compliance, disallowance, penalty, or other action against a student or an eligible institution when such action arises out of such institution's prior award of student assistance under this subchapter and part C of subchapter I of chapter34 of title 42 if the institution demonstrates to the satisfaction of the Secretary that its course of instruction would have been in conformance with the requirements of this subsection.
+&emsp;For award years prior to July 23, 1992, the Secretary shall not take any compliance, disallowance, penalty, or other action against a student or an eligible institution when such action arises out of such institution's prior award of student assistance under this subchapter and part C of subchapter I of chapter 34 of title 42 if the institution demonstrates to the satisfaction of the Secretary that its course of instruction would have been in conformance with the requirements of this subsection.
 
 #### (4) “Telecommunications” defined
 
@@ -208,7 +208,7 @@ The Secretary of Education, in cooperation with the Commissioner of the Social S
 
 &emsp;&emsp;(B) any student with respect to any error in a social security number, unless such error was a result of fraud on the part of the student.
 
-(Pub. L. 89–329, title IV, §484, as added Pub. L. 99–498, title IV, §407(a), Oct. 17, 1986, 100 Stat. 1479; amended Pub. L. 99–603, title I, §121(a)(3), Nov. 6, 1986, 100 Stat. 3388; Pub. L. 100–50, §15(7)–(9), June 3, 1987, 101 Stat. 356, 357; Pub. L. 100–369, §§1, 2, 6, July 18, 1988, 102 Stat. 835, 836; Pub. L. 100–525, §2(g), Oct. 24, 1988, 102 Stat. 2611; Pub. L. 101–508, title III, §3005(a), Nov. 5, 1990, 104 Stat. 1388–27; Pub. L. 102–26, §2(b), (c)(2), (d)(2)(A), Apr. 9, 1991, 105 Stat. 123, 124; Pub. L. 102–73, title VIII, §801(a), July 25, 1991, 105 Stat. 359; Pub. L. 102–325, title IV, §484(a), (b)(1), (c)–(h), July 23, 1992, 106 Stat. 615–619; Pub. L. 103–208, §2(h)(13)–(25), Dec. 20, 1993, 107 Stat. 2476, 2477; Pub. L. 103–382, title III, §360A, Oct. 20, 1994, 108 Stat. 3969.)
+(Pub. L. 89–329, title IV, §484, as added Pub. L. 99–498, title IV, §407(a), Oct. 17, 1986, 100 Stat. 1479; amended Pub. L. 99–603, title I, §121(a)(3), Nov. 6, 1986, 100 Stat. 3388; Pub. L. 100–50, §15(7)–(9), June 3, 1987, 101 Stat. 356, 357; Pub. L. 100–369, §§1, 2, 6, July 18, 1988, 102 Stat. 835, 836; Pub. L. 100–525, §2(g), Oct. 24, 1988, 102 Stat. 2611; Pub. L. 101–508, title III, §3005(a), Nov. 5, 1990, 104 Stat. 1388–27; Pub. L. 102–26, §2(b), (c)(2), (d)(2)(A), Apr. 9, 1991, 105 Stat. 123, 124; Pub. L. 102–73, title VIII, §801(a), July 25, 1991, 105 Stat. 359; Pub. L. 102–325, title IV, §484(a), (b)(1), (c)–(h), July 23, 1992, 106 Stat. 615–619; Pub. L. 103–208, §2(h)(13)–(25), Dec. 20, 1993, 107 Stat. 2476, 2477; Pub. L. 103–382, title III, §360A, Oct. 20, 1994, 108 Stat. 3969; Pub. L. 104–208, div. C, title V, §507(b), Sept. 30, 1996, 110 Stat. 3009–673.)
 
 #### References in Text
 
@@ -218,7 +218,7 @@ Subsection (h) of this section, referred to in subsecs. (h)(2), (3) and (i), was
 
 Section 1113 of Public Law 97–252, referred to in subsec. (n), amended section 462 of Title 50, Appendix, War and National Defense, and enacted provisions set out as a note under section 462 of Title 50, Appendix.
 
-This chapter, referred to in subsec. (<i>o</i>), was in the original “this Act”, meaning Pub. L. 89–329, as amended, known as the Higher Education Act of 1965. Forcomplete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
+This chapter, referred to in subsec. (<i>o</i>), was in the original “this Act”, meaning Pub. L. 89–329, as amended, known as the Higher Education Act of 1965. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
 #### Prior Provisions
 
@@ -227,6 +227,8 @@ A prior section 1091, Pub. L. 89–329, title IV, §484, as added Pub. L. 96–3
 Another prior section 1091, Pub. L. 89–329, title V, §501, Nov. 8, 1965, 79 Stat. 1254; Pub. L. 90–35, §2(c), June 29, 1967, 81 Stat. 82; Pub. L. 92–318, title I, §141(b)(1), June 23, 1972, 86 Stat. 285, set forth statement of purpose and authorization of appropriations for education professions development program, prior to repeal effective Sept. 30, 1976, by Pub. L. 94–482, title I, §151(a)(2), (b), Oct. 12, 1976, 90 Stat. 2151.
 
 #### Amendments
+
+1996—Subsec. (g)(4)(B)(i). Pub. L. 104–208 amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “the institution shall transmit to the Immigration and Naturalization Service photostatic or other similar copies of such documents for official verification,”.
 
 1994—Subsec. (j). Pub. L. 103–382 amended heading and text of subsec. (j) generally. Prior to amendment, text read as follows: “Notwithstanding any other provision of law, a student who meets the requirements of paragraph (a)(5) of this section or who is a resident of the freely associated states, and who attends a public or nonprofit institution of higher education located in any of the freely associated states rather than a State, shall be eligible, if otherwise qualified, for assistance under subpart 1, 2, or 4 of part A of this subchapter or part C of subchapter I of chapter 34 of title 42.”
 
@@ -368,7 +370,7 @@ General Rule.—Except as otherwise provided, the amendments made by this Act to
 
 Special Rules.—(1) The amendments made by section 5 \[amending this section and sections 1077 and 1078 of this title\] shall be effective with respect to loans made on or after October 1, 1988.
 
-“(2) The amendments made by sections 6, 7, 8, 9, 10, 11, and 12 \[amending this section, sections 1058, 1061,1062, 1070a–1, 1070a–3, 1070a–4, 1070a–6, 1071, 1077, 1078, 1087–2, 1087dd, 1087ee, 1087nn, 1087ss, 1087vv, 1132d–1, 1132g–1, and 1134m of this title, and section 1905 of Title 48, Territories and Insular Possessions\] shall take effect on the date of enactment of this Act \[July 18, 1988\].”
+“(2) The amendments made by sections 6, 7, 8, 9, 10, 11, and 12 \[amending this section, sections 1058, 1061, 1062, 1070a–1, 1070a–3, 1070a–4, 1070a–6, 1071, 1077, 1078, 1087–2, 1087dd, 1087ee, 1087nn, 1087ss, 1087vv, 1132d–1, 1132g–1, and 1134m of this title, and section 1905 of Title 48, Territories and Insular Possessions\] shall take effect on the date of enactment of this Act \[July 18, 1988\].”
 
 #### Effective Date of 1987 Amendment
 
@@ -410,7 +412,7 @@ Section 1361 of Pub. L. 99–498 provided that:
 
 “(a)
 
-Establishment of Panel.—(1) There is established in the Department of Education a panel to be known as the ‘Alien Youth Education Opportunity Panel’ (hereafter in this section referred to as the ‘Panel’).
+Establishment of Panel.—(1) There is established in the Department of Education a panel to beknown as the ‘Alien Youth Education Opportunity Panel’ (hereafter in this section referred to as the ‘Panel’).
 
 “(2) The Panel shall be composed of 7 members, 3 of whom shall be appointed by the Secretary, 2 of whom shall be appointed by the Speaker of the House of Representatives, and 2 of whom shall be appointed by the Majority Leader of the Senate.
 

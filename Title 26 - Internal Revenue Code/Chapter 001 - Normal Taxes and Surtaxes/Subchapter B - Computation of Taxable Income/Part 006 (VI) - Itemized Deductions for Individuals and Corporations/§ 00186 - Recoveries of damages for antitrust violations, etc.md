@@ -2,7 +2,7 @@
 
 #### (a) Allowance of deduction
 
-If a compensatory amount which is included in gross income is received or accrued during the taxable year for a compensable injury, there shall be allowed as a deduction for the taxable year an amount equal to the lesser of—
+If a compensatory amount which is included in gross income is received or accrued during thetaxable year for a compensable injury, there shall be allowed as a deduction for the taxable year an amount equal to the lesser of—
 
 &emsp;(1) the amount of such compensatory amount, or
 

@@ -1,6 +1,8 @@
 ### §6902. Authority and Eligibility <sup>1</sup>
 
-(a) The Secretary of the Interior shall make a payment for each fiscal year to each unit of general local government in which entitlement land is located, as set forth in this chapter. A unit of general local government may use the payment for any governmental purpose.
+(a)(1) Except as provided in paragraph (2), the Secretary of the Interior shall make a payment for each fiscal year to each unit of general local government in which entitlement land is located as set forth in this chapter. A unit of general local government may use the payment for any governmental purpose.
+
+(2) For each unit of general local government described in section 6901(2)(A)(ii), the Secretary of the Interior shall make a payment for each fiscal year to the State of Alaska for entitlement land located within such unit as set forth in this chapter. The State of Alaska shall distribute such payment to home rule cities and general law cities (as such cities are defined by the State) located within the boundaries of the unit of general local government for which the payment was received. Such cities may use monies received under this paragraph for any governmental purpose.
 
 (b) A unit of general local government may not receive a payment for land for which payment under this Act <sup>2</sup> otherwise may be received if the land was owned or administered by a State or unit of general local government and was exempt from real estate taxes when the land was conveyed to the United States except that a unit of general local government may receive a payment for—
 
@@ -10,7 +12,7 @@
 
 &emsp;(3) land in Utah acquired by the United States for Federal land, royalties, or other assets if, at the time of such acquisition, a unit of general local government was entitled under applicable State law to receive payments in lieu of taxes from the State of Utah for such land: <i>Provided, however</i>, That no payment under this paragraph shall exceed the payment that would have been made under State law if such land had not been acquired.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 1032; Pub. L. 103–93, §10(b), Oct. 1, 1993, 107 Stat. 999; Pub. L. 103–397, §4, Oct. 22, 1994, 108 Stat. 4157.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 1032; Pub. L. 103–93, §10(b), Oct. 1, 1993, 107 Stat. 999; Pub. L. 103–397, §4, Oct. 22, 1994, 108 Stat. 4157; Pub. L. 104–333, div. I, title X, §1033(b), Nov. 12, 1996, 110 Stat. 4240.)
 
 Historical and Revision Notes
 
@@ -50,13 +52,15 @@ In subsection (d), the words “county or” are omitted as unnecessary because 
 
 #### Amendments
 
+1996—Subsec. (a). Pub. L. 104–333 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Secretary of the Interior shall make a payment for each fiscal year to each unit of general local government in which entitlement land is located, as set forth in this chapter. A unit of general local government may use the payment for any governmental purpose.”
+
 1994—Pub. L. 103–397 amended section generally. Prior to amendment, section read as follows:
 
 “(a) The Secretary of the Interior shall make a payment for each fiscal year to each unit of general local government in which entitlement land is located. A unit may use the payment for any governmental purpose.
 
 “(b) A unit of general local government may not receive a payment for land for which payment under this chapter otherwise may be received if the land was owned or administered by a State or unit and was exempt from real estate taxes when the land was conveyed to the United States Government. This subsection does not apply to payments for land a State or unit acquires from a private party to donate to the Government within 8 years of acquisition, nor does this subsection apply to payments for lands in Utah acquired by the United States if at the time of such acquisition units, under applicable State law, were entitled to receive payments from the State for such lands, but in such case no payment under this chapter with respect to such acquired lands shall exceed the payment that would have been made under State law if such lands had not been acquired.
 
-“(c) A unit of general local government receiving payment for a fiscal year for land under the Act of August 28, 1937 (43 U.S.C. 1181a et seq.), or the Act of May24, 1939 (ch. 144, 53 Stat. 753), may not receive a payment under this chapter for the land for that fiscal year. This chapter does not apply to either Act.
+“(c) A unit of general local government receiving payment for a fiscal year for land under the Act of August 28, 1937 (43 U.S.C. 1181a et seq.), or the Act of May 24, 1939 (ch. 144, 53 Stat. 753), may not receive a payment under this chapter for the land for that fiscal year. This chapter does not apply to either Act.
 
 “(d) If the total payment to a unit of general local government for a fiscal year would be less than $100, the Secretary may not make the payment.”
 

@@ -22,7 +22,7 @@ The term of office of a Director shall be five years. A Director may be reappoin
 
 #### (d) Duties of Directors
 
-(1) A Director shall be responsible for the day-to-day operation of the facility of the Retirement Home for which the Director is appointed, including the acceptance of applicants to be residents of that facility.
+(1) A Director shall be responsible for the day-to-day operation of the facility of the Retirement Home for which the Director is appointed,including the acceptance of applicants to be residents of that facility.
 
 (2) The Director shall keep accurate and complete records of the operations of that facility of the Retirement Home.
 
@@ -34,19 +34,23 @@ The term of office of a Director shall be five years. A Director may be reappoin
 
 (3) The Director may exempt four physicians employed at the Retirement Home from the provisions of subsections (a), (b), and (c) of section 5532 of title 5, if the Director determines that the exemption is necessary to recruit or retain well-qualified physicians for the Retirement Home. An exemption granted under this section shall apply to the retired pay of the physician payable for the first month after the month in which the exemption is granted and shall terminate upon any break in employment with the Retirement Home of three days or more.
 
-#### (f) Initial operation
+#### (f) Annual evaluation of Directors
 
-(1) Until the date on which the Secretary of Defense first appoints the Director for the establishment of the Retirement Home known as the Naval Home, the Governor of the Naval Home shall operate that facility consistent with this chapter and other laws applicable to the Retirement Home.
+The Chairman of the Retirement Home Board shall annually evaluate the performance of the Directors and shall make such recommendations to the Secretary of Defense as the Chairman considers appropriate in light of the evaluation.
 
-(2) Until the date on which the Secretary of Defense first appoints the Director for the facility of the Retirement Home known as the United States Soldiers’ and Airmen's Home, theGovernor of the United States Soldiers’ and Airmen's Home shall operate that establishment consistent with this chapter and other laws applicable to the Retirement Home.
-
-(Pub. L. 101–510, div. A, title XV, §1517, Nov. 5, 1990, 104 Stat. 1729; Pub. L. 102–190, div. A, title X, §1062(a)(5), Dec. 5, 1991, 105 Stat. 1475.)
+(Pub. L. 101–510, div. A, title XV, §1517, Nov. 5, 1990, 104 Stat. 1729; Pub. L. 102–190, div. A, title X, §1062(a)(5), Dec. 5, 1991, 105 Stat. 1475; Pub. L. 104–201, div. A, title X, §1051(c), Sept. 23, 1996, 110 Stat. 2649.)
 
 #### References in Text
 
 The provisions of title 5 governing appointments in the competitive service, referred to in subsec. (b), are classified generally to section 3301 et seq. of Title 5, Government Organization and Employees.
 
 #### Amendments
+
+1996—Subsec. (f). Pub. L. 104–201 added subsec. (f) and struck out heading and text of former subsec. (f). Text read as follows:
+
+“(1) Until the date on which the Secretary of Defense first appoints the Director for the establishment of the Retirement Home known as the Naval Home, the Governor of the Naval Home shall operate that facility consistent with this chapter and other laws applicable to the Retirement Home.
+
+“(2) Until the date on which the Secretary of Defense first appoints the Director for the facility of the Retirement Home known as the United States Soldiers’ and Airmen's Home, the Governor of the United States Soldiers’ and Airmen's Home shall operate that establishment consistent with this chapter and other laws applicable to the Retirement Home.”
 
 1991—Subsec. (f). Pub. L. 102–190 made technical amendment to references to this chapter to correct reference to corresponding provision of original act.
 

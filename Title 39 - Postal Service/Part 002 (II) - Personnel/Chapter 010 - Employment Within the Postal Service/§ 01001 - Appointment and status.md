@@ -6,7 +6,7 @@
 
 (c) The Postal Service may hire individuals as executives under employment contracts for periods not in excess of 5 years. Notwithstanding any such contract, the Postal Service may at its discretion and at any time remove any such individual without prejudice to his contract rights.
 
-(d) Notwithstanding section 5533, 5535, or 5536 of title 5, or any other provision of law, any officer or employee of the Government of theUnited States is eligible to serve and receive pay concurrently as an officer or employee of the Postal Service (other than as a member of the Board or of the Postal Rate Commission) and as an officer or employee of any other department, agency, or establishment of the Government of the United States.
+(d) Notwithstanding section 5533, 5535, or 5536 of title 5, or any other provision of law, any officer or employee of the Government of the United States is eligible to serve and receive pay concurrently as an officer or employee of the Postal Service (other than as a member of the Board or of the Postal Rate Commission) and as an officer or employee of any other department, agency, or establishment of the Government of the United States.
 
 (e) The Postal Service shall have the right, consistent with section 1003 and chapter 12 of this title and applicable laws, regulations, and collective-bargaining agreements—
 

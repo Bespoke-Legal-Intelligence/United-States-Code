@@ -12,11 +12,11 @@
 
 &emsp;(2) “license”, “enrollment and license”, “license for the coastwise (or coasting) trade”, and “enrollment and license for the coastwise (or coasting) trade” mean a coastwise endorsement as provided in section 12106 of this title.
 
-&emsp;(3) “enrollment and license to engage in the foreign and coastwise (or coasting) trade on the northern, northeastern, and northwestern frontiers, otherwise than by sea” means a Great Lakes endorsement as provided in section 12107 of this title.
+&emsp;\[(3) Repealed. Pub. L. 104–324, title XI, §1115(b)(2), Oct. 19, 1996, 110 Stat. 3972.\]
 
 &emsp;(4) “yacht” means a recreational vessel even if not documented.
 
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 585; Pub. L. 98–364, title IV, §402(16), July 17, 1984, 98 Stat. 450; Pub. L. 99–36, §1(a)(7)(B), May 15, 1985, 99 Stat. 67; Pub. L. 100–239, §3(2), (3), Jan. 11, 1988, 101 Stat. 1778; Pub. L. 101–225, title III, §301(a)(1), Dec. 12, 1989, 103 Stat. 1920.)
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 585; Pub. L. 98–364, title IV, §402(16), July 17, 1984, 98 Stat. 450; Pub. L. 99–36, §1(a)(7)(B), May 15, 1985, 99 Stat. 67; Pub. L. 100–239, §3(2), (3), Jan. 11, 1988, 101 Stat. 1778; Pub. L. 101–225, title III, §301(a)(1), Dec. 12, 1989, 103 Stat. 1920; Pub. L. 104–324, title XI, §1115(b)(2), Oct. 19, 1996, 110 Stat. 3972.)
 
 Historical and Revision Notes
 
@@ -32,13 +32,15 @@ Section 12101 defines the types of certificates of documentation that are used i
 
 #### Amendments
 
+1996—Subsec. (b)(3). Pub. L. 104–324 struck out par. (3) which read as follows: “ ‘enrollment and license to engage in the foreign and coastwise (or coasting) trade on the northern, northeastern, and northwestern frontiers, otherwise than by sea’ means a Great Lakes endorsement as provided in section 12107 of this title.”
+
 1989—Subsec. (b)(1). Pub. L. 101–225, §301(a)(1)(A), substituted “registry endorsement as” for “registry as”.
 
 Subsec. (b)(2). Pub. L. 101–225, §301(a)(1)(B), substituted “coastwise endorsement” for “coastwise license”.
 
 Subsec. (b)(3). Pub. L. 101–225, §301(a)(1)(C), substituted “Great Lakes endorsement” for “Great Lakes license”.
 
-Subsec. (b)(4), (5). Pub. L. 101–225, §301(a)(1)(D), (E), redesignated par. (5) as (4) and struck out former par.\(4) which defined “license for the fisheries” and “enrollment and license for the fisheries” as meaning a fishery license as provided in section 12108 of this title.
+Subsec. (b)(4), (5). Pub. L. 101–225, §301(a)(1)(D), (E), redesignated par. (5) as (4) and struck out former par. (4) which defined “license for the fisheries” and “enrollment and license for the fisheries” as meaning a fishery license as provided in section 12108 of this title.
 
 1988—Pub. L. 100–239 substituted “Definitions and related” for “Related” in section catchline, added subsec. (a), designated existing provisions as subsec. (b), and struck out par. (6) which read as follows: “ ‘fisheries’ includes planting, cultivating, catching, taking, or harvesting fish, shellfish, marine animals, pearls, shells, or marine vegetation in the navigable waters of the United States or in the fishery conservation zone established by section 101 of the Magnuson Fishery Conservation and Management Act of 1976 (16 U.S.C. 1811).”
 
@@ -61,4 +63,12 @@ Exceptions.—
 &emsp;“(1) The amendments made by section 1(a)(2) \[probably means section 301(a)(2) of Pub. L. 101–225, which amended section 12102 of this title\] take effect January 1, 1989, except that the amendment made by subparagraph (A) of such section does not apply to a vessel titled in a State until one year after the Secretary of Transportation prescribes guidelines for a titling system under section 13106(b)(8) of title 46, United States Code.
 
 &emsp;“(2) The amendments made by section 1(a)(3) \[probably means section 301(a)(3) of Pub. L. 101–225, which amended section 12103 of this title\] take effect on the 180th day after the date of the enactment of this Act.”
+
+#### Use of Foreign Registry Oil Spill Response Vessels
+
+Section 1117 of Pub. L. 104–324 provided that: “Notwithstanding any other provision of law, an oil spill response vessel documented under the laws of a foreign country may operate in waters of the United States on an emergency and temporary basis, for the purpose of recovering, transporting, and unloading in a United States port oil discharged as a result of an oil spill in or near those waters, if—
+
+&emsp;“(1) an adequate number and type of oil spill response vessels documented under the laws of the United States cannot be engaged to recover oil from an oil spill in or near those waters in a timely manner, as determined by the Federal On-Scene Coordinator for a discharge or threat of a discharge of oil; and
+
+&emsp;“(2) that foreign country has by its laws accorded to vessels of the United States the same privileges accorded to vessels of that foreign country under this section.”
 

@@ -20,6 +20,7 @@ This subpart is referred to in sections 629a, 671, 1320a–9 of this title.
 - [&sect; 00624 - Reallotment](%C2%A7%2000624%20-%20Reallotment.md)
 - [&sect; 00625 - Definitions](%C2%A7%2000625%20-%20Definitions.md)
 - [&sect; 00626 - Research, training, or demonstration projects](%C2%A7%2000626%20-%20Research%2C%20training%2C%20or%20demonstration%20projects.md)
-- [&sect; 00627 - Foster care protection required for additional payments](%C2%A7%2000627%20-%20Foster%20care%20protection%20required%20for%20additional%20payments.md)
+- [&sect; 00627 - Repealed. Pub. L. 103&#8211;432, title II, &sect;202(c), Oct. 31, 1994, 108 Stat. 4454](%C2%A7%2000627%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93432%2C%20title%20II%2C%20%C2%A7202%28c%29%2C%20Oct.%2031%2C%201994%2C%20108%20Stat.%204454.md)
 - [&sect; 00628 - Payments to Indian tribal organizations](%C2%A7%2000628%20-%20Payments%20to%20Indian%20tribal%20organizations.md)
 - [&sect; 00628a - Child welfare traineeships](%C2%A7%2000628a%20-%20Child%20welfare%20traineeships.md)
+- [&sect; 00628b - National random sample study of child welfare](%C2%A7%2000628b%20-%20National%20random%20sample%20study%20of%20child%20welfare.md)

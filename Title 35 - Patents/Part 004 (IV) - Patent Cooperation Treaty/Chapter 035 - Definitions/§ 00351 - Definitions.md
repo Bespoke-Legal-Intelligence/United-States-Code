@@ -40,7 +40,7 @@ Section 9 of Pub. L. 99–616 provided that: “Sections 2 through 8 of this Act
 
 #### Effective Date of 1984 Amendment
 
-Section 406(a) of Pub. L. 98–622 provided that: “Section 404 of this Act \[set out as a note under section 41 of this title\] and the amendments made by section 403 of this Act \[amending this section and sections 104, 361, 362, 363, 364, 365, 367, 368, 371, 372, 373, and 376 of this title\] shall take effect on the date of the enactment of this Act \[Nov. 8, 1984\].”
+Section 406(a) of Pub. L. 98–622 provided that: “Section 404 of this Act \[set out as a note under section 41of this title\] and the amendments made by section 403 of this Act \[amending this section and sections 104, 361, 362, 363, 364, 365, 367, 368, 371, 372, 373, and 376 of this title\] shall take effect on the date of the enactment of this Act \[Nov. 8, 1984\].”
 
 #### Effective Date
 

@@ -52,11 +52,87 @@ The Director of National Drug Control Policy may, in his role as principal advis
 
 The President shall establish within the National Security Council a board to be known as the “Board for Low Intensity Conflict”. The principal function of the board shall be to coordinate the policies of the United States for low intensity conflict.
 
-#### (h) Participation of Director of Central Intelligence
+#### (h) Committee on Foreign Intelligence
+
+(1) There is established within the National Security Council a committee to be known as the Committee on Foreign Intelligence (in this subsection referred to as the “Committee”).
+
+(2) The Committee shall be composed of the following:
+
+&emsp;(A) The Director of Central Intelligence.
+
+&emsp;(B) The Secretary of State.
+
+&emsp;(C) The Secretary of Defense.
+
+&emsp;(D) The Assistant to the President for National Security Affairs, who shall serve as the chairperson of the Committee.
+
+&emsp;(E) Such other members as the President may designate.
+
+(3) The function of the Committee shall be to assist the Council in its activities by—
+
+&emsp;(A) identifying the intelligence required to address the national security interests of the United States as specified by the President;
+
+&emsp;(B) establishing priorities (including funding priorities) among the programs, projects, and activities that address such interests and requirements; and
+
+&emsp;(C) establishing policies relating to the conduct of intelligence activities of the United States, including appropriate roles and missions for the elements of the intelligence community and appropriate targets of intelligence collection activities.
+
+(4) In carrying out its function, the Committee shall—
+
+&emsp;(A) conduct an annual review of the national security interests of the United States;
+
+&emsp;(B) identify on an annual basis, and at such other times as the Council may require, the intelligence required to meet such interests and establish an order of priority for the collection and analysis of such intelligence; and
+
+&emsp;(C) conduct an annual review of the elements of the intelligence community in order to determine the success of such elements in collecting, analyzing, and disseminating the intelligence identified under subparagraph (B).
+
+(5) The Committee shall submit each year to the Council and to the Director of Central Intelligence a comprehensive report on its activities during the preceding year, including its activities under paragraphs (3) and (4).
+
+#### (i) Committee on Transnational Threats
+
+(1) There is established within the National Security Council a committee to be known as the Committee on Transnational Threats (in this subsection referred to as the “Committee”).
+
+(2) The Committee shall include the following members:
+
+&emsp;(A) The Director of Central Intelligence.
+
+&emsp;(B) The Secretary of State.
+
+&emsp;(C) The Secretary of Defense.
+
+&emsp;(D) The Attorney General.
+
+&emsp;(E) The Assistant to the President for National Security Affairs, who shall serve as the chairperson of the Committee.
+
+&emsp;(F) Such other members as the President may designate.
+
+(3) The function of the Committee shall be to coordinate and direct the activities of the United States Government relating to combatting transnational threats.
+
+(4) In carrying out its function, the Committee shall—
+
+&emsp;(A) identify transnational threats;
+
+&emsp;(B) develop strategies to enable the United States Government to respond to transnational threats identified under subparagraph (A);
+
+&emsp;(C) monitor implementation of such strategies;
+
+&emsp;(D) make recommendations as to appropriate responses to specific transnational threats;
+
+&emsp;(E) assist in the resolution of operational and policy differences among Federal departments and agencies in their responses to transnational threats;
+
+&emsp;(F) develop policies and procedures to ensure the effective sharing of information about transnational threats among Federal departments and agencies, including law enforcement agencies and the elements of the intelligence community; and
+
+&emsp;(G) develop guidelines to enhance and improve the coordination of activities of Federal law enforcement agencies and elements of the intelligence community outside the United States with respect to transnational threats.
+
+(5) For purposes of this subsection, the term “transnational threat” means the following:
+
+&emsp;(A) Any transnational activity (including international terrorism, narcotics trafficking, the proliferation of weapons of mass destruction and the delivery systems for such weapons, and organized crime) that threatens the national security of the United States.
+
+&emsp;(B) Any individual or group that engages in an activity referred to in subparagraph (A).
+
+#### (j) Participation of Director of Central Intelligence
 
 The Director of Central Intelligence (or, in the Director's absence, the Deputy Director of Central Intelligence) may, in the performance of the Director's duties under this Act and subject to the direction of the President, attend and participate in meetings of the National Security Council.
 
-(July 26, 1947, ch. 343, title I, §101, 61 Stat. 496; Aug. 10, 1949, ch. 412, §3, 63 Stat. 579; Oct. 28, 1949, ch. 782, title XI, §1106(a), 63 Stat. 972; Oct. 10, 1951, ch. 479, title V, §501(e)(1), 65 Stat. 378; Oct. 1, 1986, Pub. L. 99–433, title II, §203, 100 Stat. 1011; Oct. 18, 1986, Pub. L. 99–500, §101(c) \[title IX, §9115(f)\], 100 Stat. 1783–82, 1783–125, and Oct. 30, 1986, Pub. L. 99–591, §101(c) \[title IX, §9115(f)\], 100 Stat. 3341–82, 3341–125; Nov. 14, 1986, Pub. L. 99–661, div. A, title XIII, §1311(f), 100 Stat. 3986; Nov. 18, 1988, Pub. L. 100–690, title I, §1003(a)(3), 102 Stat. 4182; Oct. 24, 1992, Pub. L. 102–496, title VII, §703, 106 Stat. 3189.)
+(July 26, 1947, ch. 343, title I, §101, 61 Stat. 496; Aug. 10, 1949, ch. 412, §3, 63 Stat. 579; Oct. 28, 1949, ch. 782, title XI, §1106(a), 63 Stat. 972; Oct. 10, 1951, ch. 479, title V, §501(e)(1), 65 Stat. 378; Oct. 1, 1986, Pub. L. 99–433, title II, §203, 100 Stat. 1011; Oct. 18, 1986, Pub. L. 99–500, §101(c) \[title IX, §9115(f)\], 100 Stat. 1783–82, 1783–125, and Oct. 30, 1986, Pub. L. 99–591, §101(c) \[title IX, §9115(f)\], 100 Stat. 3341–82, 3341–125; Nov. 14, 1986, Pub. L. 99–661, div. A, title XIII, §1311(f), 100 Stat. 3986; Nov. 18, 1988, Pub. L. 100–690, title I, §1003(a)(3), 102 Stat. 4182; Oct. 24, 1992, Pub. L. 102–496, title VII, §703, 106 Stat. 3189; Oct. 11, 1996, Pub. L. 104–293, title VIII, §§802, 804, 110 Stat. 3474, 3476.)
 
 #### Amendment of Section
 
@@ -66,7 +142,7 @@ The Director of Central Intelligence (or, in the Director's absence, the Deputy 
 
 The civil-service laws, referred to in subsec. (c), are set forth in Title 5, Government Organization and Employees. See, particularly, section 3301 et seq. of Title 5.
 
-This Act, referred to in subsec. (h), means act July 26, 1947, ch. 343, 61 Stat. 495, as amended, known as the National Security Act of 1947. For complete classification of this Act to the Code, see Short Title note set out under section 401 of this title and Tables.
+This Act, referred to in subsec. (j), means act July 26, 1947, ch. 343, 61 Stat. 495, as amended, known as the National Security Act of 1947. For complete classification of this Act to the Code, see Short Title note set out under section 401 of this title and Tables.
 
 #### Codification
 
@@ -77,6 +153,12 @@ In subsec. (c), provisions that specified compensation of $10,000 per year for t
 In subsec. (c), “chapter 51 and subchapter III of chapter 53 of title 5” substituted for “the Classification Act of 1949, as amended” on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
 
 #### Amendments
+
+1996—Subsec. (h). Pub. L. 104–293, §802(2), added subsec. (h). Former subsec. (h) redesignated (j).
+
+Subsec. (i). Pub. L. 104–293, §804, added subsec. (i).
+
+Subsec. (j). Pub. L. 104–293, §802(1), redesignated subsec. (h) as (j).
 
 1992—Subsec. (h). Pub. L. 102–496 added subsec. (h).
 
@@ -102,7 +184,7 @@ Act Oct. 28, 1949, ch. 782, cited as a credit to this section, was repealed (sub
 
 #### Transfer of Functions
 
-Office of Director for Mutual Security abolished and functions of Director, including those as a member of National Security Council, transferred to Director of Foreign Operations Administration by Reorg. Plan No. 7 of 1953, eff. Aug. 1, 1953, 18 F.R. 4541, set out in the Appendix to Title 5, Government Organization and Employees. Foreign Operations Administration abolished by Ex. Ord. No. 10610, May 9, 1955, 20 F.R. 3179, and its functions and offices transferred to Department ofState to be administered by International Cooperation Administration. For later transfer, see section 2381 of Title 22, Foreign Relations and Intercourse, and notes set out under that section.
+Office of Director for Mutual Security abolished and functions of Director, including those as a member of National Security Council, transferred to Director of Foreign Operations Administration by Reorg. Plan No. 7 of 1953, eff. Aug. 1, 1953, 18 F.R. 4541, set out in the Appendix to Title 5, Government Organization and Employees. Foreign Operations Administration abolished by Ex. Ord. No. 10610, May 9, 1955, 20 F.R. 3179, and its functions and offices transferred to Department of State to be administered by International Cooperation Administration. For later transfer, see section 2381 of Title 22, Foreign Relations and Intercourse, and notes set out under that section.
 
 National Security Resources Board, together with Office of Chairman, abolished by section 6 of Reorg. Plan No. 3 of 1953, eff. June 12, 1953, 18 F.R. 3375, 67 Stat. 634, set out under section 404 of this title. Functions of Chairman with limited exception, including his functions as a member of National Security Council transferred to Office of Defense Mobilization by section 2(a) of Reorg. Plan No. 3 of 1953. Functions of Director of Office of Defense Mobilization with respect to being a member of National Security Council transferred to Director of Office of Civil and Defense Mobilization by Reorg. Plan No. 1 of 1958, §4, eff. July 1, 1958, 23 F.R. 4991, 72 Stat. 1799, as amended by Pub. L. 85–763, Aug. 26, 1958, 72 Stat. 861, set out as a note under section 5195 of Title 42, The Public Health and Welfare. For subsequent transfers to Office of Emergency Planning, Office of Emergency Preparedness, and President, see Transfer of Functions notes set out under section 404 of this title.
 
@@ -122,27 +204,19 @@ Repeals by section 542(a) of Mutual Security Act of 1954 did not repeal amendmen
 
 #### National Security Agency Act of 1959
 
-Pub. L. 86–36, May 29, 1959, 73 Stat. 63, as amended by Pub. L. 87–367, title II, §§201, 204, Oct. 4, 1961, 75 Stat. 789, 791; Pub. L. 87–793, §1001(c), Oct. 11, 1962, 76 Stat. 864; Sept. 23, 1950, ch. 1024, title III, §306(a), as added Mar. 26, 1964, Pub. L. 88–290, 78 Stat. 170; Aug. 14, 1964, Pub. L. 88–426, title III, §306(h), 78 Stat. 430; Oct. 6, 1964, Pub. L. 88–631, §3(d), 78 Stat. 1008; Sept. 6, 1966, Pub. L. 89–554, §8(a), 80 Stat. 660; Oct. 8, 1966, Pub. L. 89–632, §1(e), 80 Stat. 878; Pub. L. 91–187, §2, Dec. 30, 1969, 83 Stat. 850; Pub. L. 96–450, title IV, §402(a), Oct. 14, 1980, 94 Stat. 1977; Pub. L. 97–89, title VI, §§601–603, Dec. 4, 1981, 95 Stat. 1154–1156, eff. Oct. 1, 1981; Pub. L. 99–335, title V, §507(a), June 6, 1986, 100 Stat. 628; Pub. L. 99–569, title V, §505, Oct. 27, 1986, 100 Stat. 3200; Pub. L. 101–193, title V, §505(b), Nov. 30, 1989, 103 Stat. 1709; Pub. L. 101–194, title V, §506(c)(2), Nov. 30, 1989, 103 Stat. 1759; Pub. L. 102–88, title V, §503, Aug. 14, 1991, 105 Stat. 436; Pub. L. 102–183, title IV, §405, Dec. 4, 1991, 105 Stat. 1267; Pub. L. 102–496, title III, §304(a), title IV, §405, title VIII, §803(b), Oct. 24, 1992, 106 Stat. 3183, 3186, 3253; Pub. L. 103–359, title VIII, §806(b)(2), Oct. 14, 1994, 108 Stat. 3442, provided: “That this Act \[this note\] may be cited as the ‘National Security Agency Act of 1959’. \[Amended Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 660; Pub. L. 96–450, title IV, §402(a)(2), Oct. 14, 1980, 94 Stat. 1978.\]
+Pub. L. 86–36, May 29, 1959, 73 Stat. 63, as amended by Pub. L. 87–367, title II, §§201, 204, Oct. 4, 1961, 75 Stat. 789, 791; Pub. L. 87–793, §1001(c), Oct. 11, 1962, 76 Stat. 864; Sept. 23, 1950, ch. 1024, title III, §306(a), as added Mar. 26, 1964, Pub. L. 88–290, 78 Stat. 170; Aug. 14, 1964, Pub. L. 88–426, title III, §306(h), 78 Stat. 430; Oct. 6, 1964, Pub. L. 88–631, §3(d), 78 Stat. 1008; Sept. 6, 1966, Pub. L. 89–554, §8(a), 80 Stat. 660; Oct. 8, 1966, Pub. L. 89–632, §1(e), 80 Stat. 878; Pub. L. 91–187, §2, Dec. 30, 1969, 83 Stat. 850; Pub. L. 96–450, title IV, §402(a), Oct. 14, 1980, 94 Stat. 1977; Pub. L. 97–89, title VI, §§601–603, Dec. 4, 1981, 95 Stat. 1154–1156, eff. Oct. 1, 1981; Pub. L. 99–335, title V, §507(a), June 6, 1986, 100 Stat. 628; Pub. L. 99–569, title V, §505, Oct. 27, 1986, 100 Stat. 3200; Pub. L. 101–193, title V, §505(b), Nov. 30, 1989, 103 Stat. 1709; Pub. L. 101–194, title V, §506(c)(2), Nov. 30, 1989, 103 Stat. 1759; Pub. L. 102–88, title V, §503, Aug. 14, 1991, 105 Stat. 436; Pub. L. 102–183, title IV, §405, Dec. 4, 1991, 105 Stat. 1267; Pub. L. 102–496, title III, §304(a), title IV, §405, title VIII, §803(b), Oct. 24, 1992, 106 Stat. 3183, 3186, 3253; Pub.L. 103–359, title VIII, §806(b)(2), Oct. 14, 1994, 108 Stat. 3442; Pub. L. 104–106, div. A, title X, §1064(b), Feb. 10, 1996, 110 Stat. 445; Pub. L. 104–201, div. A, title XVI, §1633(b)(1), Sept. 23, 1996, 110 Stat. 2751, provided: “That this Act \[this note\] may be cited as the ‘National Security Agency Act of 1959’. \[Amended Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 660; Pub. L. 96–450, title IV, §402(a)(2), Oct. 14, 1980, 94 Stat. 1978.\]
 
-“Sec. 2. (a) The Secretary of Defense (or his designee) is authorized to establish such positions, and to appoint thereto, without regard to the civil service laws, such officers and employees, in the National Security Agency, as may be necessary to carry out the functions of such agency. The rates of basic pay for such positions shall be fixed by the Secretary of Defense (or his designee for this purpose) in relation to the rates of basic pay provided for in subpart D of part III of title 5, United States Code, for positions subject to such title which have corresponding levels of duties and responsibilities. Except as otherwise provided by law, no officer or employee of the National Security Agency shall be paid basic pay at a rate in excess of the maximum rate payable under section 5376 of such title and not more than 70 such officers and employees shall be paid within the range of rates authorized in section 5376 of such title.
+“\[
 
-“(b) The Secretary of Defense (or his designee) may provide officers and employees of the National Security Agency other compensation, benefits, incentives, and allowances which are consistent with, and do not exceed the levels authorized for, such compensation, benefits, incentives, or allowances by title 5, United States Code.
-
-\[Amended Pub. L. 87–367, title II, §201, Oct. 4, 1961, 75 Stat. 789; Sept. 23, 1950, ch. 1024, title III, §306(a), as added Mar. 26, 1964, Pub. L. 88–290, 78 Stat. 170; Aug. 14, 1964, Pub. L. 88–426, title III, §306(h), 78 Stat. 430; Oct. 6, 1964, Pub. L. 88–631, §3(d), 78 Stat. 1008; Oct. 8, 1966, Pub. L. 89–632, §1(e)(1), 80 Stat. 878; Pub. L. 102–496, title IV, §405, Oct. 24, 1992, 106 Stat. 3186.\]
+Sec. 2. Repealed. Pub. L. 104–201, div. A, title XVI, §1633(b)(1), Sept. 23, 1996, 110 Stat. 2751.\]
 
 “
 
 Sec. 3. \[Amended section 1581(a) of Title 10, Armed Forces.\]
 
-“
+“\[
 
-Sec. 4. The Secretary of Defense (or his designee for the purpose) is authorized to—
-
-&emsp;“(1) establish in the National Security Agency (A) professional engineering positions primarily concerned with research and development and (B) professional positions in the physical and natural sciences, medicine, and cryptology; and
-
-&emsp;“(2) fix the respective rates of pay of such positions at rates equal to rates of basic pay contained in grades 16, 17, and 18 of the General Schedule set forth in section 5332 of title 5, United States Code.
-
-> Officers and employees appointed to positions established under this section shall be in addition to the number of officers and employees appointed to positions under section 2 of this Act who may be paid at rates equal to rates of basic pay contained in grades 16, 17, and 18 of the General Schedule. \[As amended Pub. L. 87–367, title II, §204, Oct. 4, 1961, 75 Stat. 791; Pub. L. 87–793, §1001(c), Oct. 11, 1962, 76 Stat. 864; Pub. L. 89–632, §1(e)(2), Oct. 8, 1966, 80 Stat. 878; Pub. L. 91–187, §2, Dec. 30, 1969, 83 Stat. 850\].
+Sec. 4. Repealed. Pub. L. 104–201, div. A, title XVI, §1633(b)(1), Sept. 23, 1996, 110 Stat. 2751.\]
 
 “
 
@@ -154,13 +228,13 @@ Sec. 6. (a) Except as provided in subsection (b) of this section, nothing in thi
 
 “(b) The reporting requirements of section 1582 of title 10, United States Code, shall apply to positions established in the National Security Agency in the manner provided by section 4 of this Act.
 
+“\[
+
+Sec. 7. Repealed. Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 660.\]
+
 “
 
-Sec. 7. \[Repealed. Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 660.\]
-
-“
-
-Sec. 8. The foregoing provisions of this Act shall take effect on the first day of the first pay period which begins later than the thirtieth day following the date of enactment of this Act.
+Sec. 8. The foregoing provisions of this Act shall take effect on the first day of the first pay period which begins later than the thirtieth day following the date of enactment of this Act \[May 29, 1959\].
 
 “
 
@@ -194,7 +268,9 @@ Sec. 9. (a) Notwithstanding section 322 of the Act of June 30, 1932 (40 U.S.C. 2
 
 \[Added Pub. L. 96–450, title IV, §401(a)(1), Oct. 14, 1980, 94 Stat. 1977.\]
 
-“Sec. 10. (a) The Director of the National Security Agency shall arrange for, and shall prescribe regulations concerning, language and language-related training programs for military and civilian cryptologic personnel. In establishing programs under this section for language and language-related training, the Director—
+“
+
+Sec. 10. (a) The Director of the National Security Agency shall arrange for, and shall prescribe regulations concerning, language and language-related training programs for military and civilian cryptologic personnel. In establishing programs under this section for language and language-related training, the Director—
 
 &emsp;“(1) may provide for the training and instruction to be furnished, including functional and geographic area specializations;
 
@@ -246,7 +322,9 @@ Sec. 9. (a) Notwithstanding section 322 of the Act of June 30, 1932 (40 U.S.C. 2
 
 Sec. 11. The Administrator of General Services, upon the application of the Director of the National Security Agency, may provide for the protection in accordance with section 3 of the Act of June 1, 1948 (40 U.S.C. 318b), of certain facilities (as designated by the Director of such Agency) which are under the administration and control of, or are used by, the National Security Agency in the same manner as if such facilities were property of the United States over which the United States has acquired exclusive or concurrent criminal jurisdiction. \[Added Pub. L. 96–450, title IV, §402(a)(1), Oct. 14, 1980, 94 Stat. 1978.\]
 
-“Sec. 12. (a)(1) The Secretary of Defense (or his designee) may by regulation establish a personnel system for senior civilian cryptologic personnel in the National Security Agency to be known as the Senior Cryptologic Executive Service. The regulations establishing the Senior Cryptologic Executive Service shall—
+“
+
+Sec. 12. (a)(1) The Secretary of Defense (or his designee) may by regulation establish a personnel system for senior civilian cryptologic personnel in the National Security Agency to be known as the Senior Cryptologic Executive Service. The regulations establishing the Senior Cryptologic Executive Service shall—
 
 &emsp;“(A) meet the requirements set forth in section 3131 of title 5, United States Code, for the Senior Executive Service;
 
@@ -274,35 +352,31 @@ Sec. 11. The Administrator of General Services, upon the application of the Dire
 
 “(4) Notwithstanding any other provision of this section, the Director of the National Security Agency may detail or assign any member of the Senior Cryptologic Executive Service to serve in a position outside the National Security Agency in which the member's expertise and experience may be of benefit to the National Security Agency or another Government agency. Any such member shall not by reason of such detail or assignment lose any entitlement or status associated with membership in the Senior Cryptologic Executive Service.
 
-“(5) The Director of the National Security Agency shall each year submit to the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate, at the time the Budget is submitted by the President to the Congress for the next fiscal year, a report on executive personnel in the National Security Agency. The report shall include—
-
-&emsp;“(A) the total number of positions added to or deleted from the Senior Cryptologic Executive Service during the preceding fiscal year;
-
-&emsp;“(B) the number of executive personnel (including all members of the Senior Cryptologic Executive Service) being paid at each grade level and pay rate in effect at the end of the preceding fiscal year;
-
-&emsp;“(C) the number, distribution, and amount of awards paid to members of the Senior Cryptologic Executive Service during the preceding fiscal year; and
-
-&emsp;“(D) the number of individuals removed from the Senior Cryptologic Executive Service during the preceding fiscal year for less than fully successful performance.
-
-“(b) The Secretary of Defense (or his designee) may by regulation establish a merit pay system for such employees of the National Security Agency as the Secretary of Defense (or his designee) considers appropriate. The merit pay system shall be designed to carry out purposes consistent with those set forth in section 5401(a) of title 5, United States Code.
-
-“(c) Nothing in this section shall be construed to allow the aggregate amount payable to a member of the Senior Cryptologic Executive Service under this section during any fiscal year to exceed the annual rate payable for positions at level I of the Executive Schedule \[5 U.S.C. 5312\] in effect at the end of such year. \[Added Pub. L. 97–89, title VI, §603, Dec. 4, 1981, 95 Stat. 1156.\]
+\[Amended Pub. L. 104–106, div. A, title X, §1064(b), Feb. 10, 1996, 110 Stat. 445.\]
 
 \[Amended Pub. L. 101–194, title V, §506(c)(2), Nov. 30, 1989, 103 Stat. 1759. Amendment by Pub. L. 101–194 effective Jan. 1, 1991, see section 506(d) of Pub. L. 101–194, set out as an Effective Date of 1989 Amendment note under section 3151 of Title 5, Government Organization and Employees.\]
 
-“Sec. 13. (a) The Director of the National Security Agency may make grants to private individuals and institutions for the conduct of cryptologic research. An application for a grant under this section may not be approved unless the Director determines that the award of the grant would be clearly consistent with the national security.
+“
+
+Sec. 13. (a) The Director of the National Security Agency may make grants to private individuals and institutions for the conduct of cryptologic research. An application for a grant under this section may not be approved unless the Director determines that the award of the grant would be clearly consistent with the national security.
 
 “(b) The grant program established by subsection (a) shall be conducted in accordance with the Federal Grant and Cooperative Agreement Act of 1977 (41 U.S.C. 501 et seq.) \[31 U.S.C. 6301 et seq.\] to the extent that such Act is consistent with and in accordance with section 6 of this Act.
 
 “(c) The authority of the Director to make grants under this section is effective for any fiscal year only to the extent that appropriated funds are available for such purpose. \[Added Pub. L. 97–89, title VI, §603, Dec. 4, 1981, 95 Stat. 1156.\]
 
-“Sec. 14. Funds appropriated to an entity of the Federal Government other than an element of the Department of Defense that have been specifically appropriated for the purchase of cryptologic equipment, materials, or services with respect to which the National Security Agency has been designated as the central source of procurement for the Government shall remain available for a period of three fiscal years. \[Added Pub. L. 97–89, title VI, §603, Dec. 4, 1981, 95 Stat. 1156.\]
+“
 
-“Sec. 15. (a) No person may, except with the written permission of the Director of the National Security Agency, knowingly use the words ‘National Security Agency’, the initials ‘NSA’, the seal of the National Security Agency, or any colorable imitation of such words, initials, or seal in connection with any merchandise, impersonation, solicitation, or commercial activity in a manner reasonably calculated to convey the impression that such use is approved, endorsed, or authorized by the National Security Agency.
+Sec. 14. Funds appropriated to an entity of the Federal Government other than an element of the Department of Defense that have been specifically appropriated for the purchase of cryptologic equipment, materials, or services with respect to which the National Security Agency has been designated as the central source of procurement for the Government shall remain available for a period of three fiscal years. \[Added Pub. L. 97–89, title VI, §603, Dec. 4, 1981, 95 Stat. 1156.\]
+
+“
+
+Sec. 15. (a) No person may, except with the written permission of the Director of the National Security Agency, knowingly use the words ‘National Security Agency’, the initials ‘NSA’, the seal of the National Security Agency, or any colorable imitation of such words, initials, or seal in connection with any merchandise, impersonation, solicitation, or commercial activity in a manner reasonably calculated to convey the impression that such use is approved, endorsed, or authorized by the National Security Agency.
 
 “(b) Whenever it appears to the Attorney General that any person is engaged or is about to engage in an act or practice which constitutes or will constitute conduct prohibited by subsection (a), the Attorney General may initiate a civil proceeding in a district court of the United States to enjoin such act or practice. Such court shall proceed as soon as practicable to the hearing and determination of such action and may, at any time before final determination, enter such restraining orders or prohibitions, or take such other action as is warranted, to prevent injury to the United States or to any person or class of persons for whose protection the action is brought. \[Added Pub. L. 97–89, title VI, §603, Dec. 4, 1981, 95 Stat. 1156.\]
 
-“Sec. 16. (a) The purpose of this section is to establish an undergraduate training program, which may lead to the baccalaureate degree, to facilitate the recruitment of individuals, particularly minority high school students, with a demonstrated capability to develop skills critical to the mission of the National Security Agency, including mathematics, computer science, engineering, and foreign languages.
+“
+
+Sec. 16. (a) The purpose of this section is to establish an undergraduate training program, which may lead to the baccalaureate degree, to facilitate the recruitment of individuals, particularly minority high school students, with a demonstrated capability to develop skills critical to the mission of the National Security Agency, including mathematics, computer science, engineering, and foreign languages.
 
 “(b) The Secretary of Defense is authorized, in his discretion, to assign civilian employees of the National Security Agency as students at accredited professional, technical, and other institutions of higher learning for training at the undergraduate level in skills critical to effective performance of the mission of the Agency.
 
@@ -324,7 +398,7 @@ Sec. 11. The Administrator of General Services, upon the application of the Dire
 
 “(B) The Secretary of Defense may release a person, in whole or in part, from the obligation to reimburse the United States under an agreement described in paragraph (1) when, in his discretion, the Secretary determines that equity or the interests of the United States so require.
 
-“(C) The Secretary of Defense shall permit an employee assigned under this section who, prior to commencing a second academic year of such assignment, voluntarily terminates the assignment or the employee's employment with the Agency, to satisfy his obligation under an agreement described in paragraph (1) toreimburse the United States by reimbursement according to a schedule of monthly payments which results in completion of reimbursement by a date five years after the date of termination of the assignment or employment or earlier at the option of the employee.
+“(C) The Secretary of Defense shall permit an employee assigned under this section who, prior to commencing a second academic year of such assignment, voluntarily terminates the assignment or the employee's employment with the Agency, to satisfy his obligation under an agreement described in paragraph (1) to reimburse the United States by reimbursement according to a schedule of monthly payments which results in completion of reimbursement by a date five years after the date of termination of the assignment or employment or earlier at the option of the employee.
 
 “(e)(1) When an employee is assigned under this section to an institution, the Agency shall disclose to the institution to which the employee is assigned that the Agency employs the employee and that the Agency funds the employee's education.
 
@@ -334,17 +408,15 @@ Sec. 11. The Administrator of General Services, upon the application of the Dire
 
 “(g) The Secretary of Defense may issue such regulations as may be necessary to implement this section. \[Added Pub. L. 99–569, title V, §505, Oct. 27, 1986, 100 Stat. 3200.\]
 
-“
+“\[
 
-Sec. 17. \[Repealed. Pub. L. 103–359, title VIII, §806(b)(2), Oct. 14, 1994, 108 Stat. 3442.\]
+Sec. 17. Repealed. Pub. L. 103–359, title VIII, §806(b)(2), Oct. 14, 1994, 108 Stat. 3442.\]
 
 “
 
 Sec. 18. (a) The Secretary of Defense may pay the expenses referred to in section 5742(b) of title 5, United States Code, in the case of any employee of the National Security Agency who dies while on a rotational tour of duty within the United States or while in transit to or from such tour of duty.
 
 “(b) For the purposes of this section, the term ‘rotational tour of duty’, with respect to an employee, means a permanent change of station involving the transfer of the employee from the National Security Agency headquarters to another post of duty for a fixed period established by regulation to be followed at the end of such period by a permanent change of station involving a transfer of the employee back to such headquarters.” \[Added Pub. L. 102–183, title IV, §405, Dec. 4, 1991, 105 Stat. 1267; amended Pub. L. 102–496, title III, §304(a), Oct. 24, 1992, 106 Stat. 3183.\]
-
-\[References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.\]
 
 #### Executive Order No. 10483
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary may make grants to public and nonprofit private entities for the purpose of carrying out research and demonstration projects with respect to improving the availability and quality of emergency medical services in rural areas—
+The Secretary may make grants to public and nonprofit private entities for the purpose of carrying out research and demonstration projectswith respect to improving the availability and quality of emergency medical services in rural areas—
 
 &emsp;(1) by developing innovative uses of communications technologies and the use of new communications technology;
 

@@ -4,7 +4,7 @@
 
 #### (1) Amount withdrawn
 
-&emsp;For purposes of this subpart, the amount of previously excluded subpart F income of any controlled foreign corporation withdrawn from investment in foreign base company shipping operations for any taxable year is an amount equal to the decrease in the amount of qualified investments in foreign base company shipping operations of the controlled foreign corporation for such year, but only to the extentthat the amount of such decrease does not exceed an amount equal to—
+&emsp;For purposes of this subpart, the amount of previously excluded subpart F income of any controlled foreign corporation withdrawn from investment in foreign base company shipping operations for any taxable year is an amount equal to the decrease in the amount of qualified investments in foreign base company shipping operations of the controlled foreign corporation for such year, but only to the extent that the amount of such decrease does not exceed an amount equal to—
 
 &emsp;&emsp;(A) the sum of the amounts excluded under section 954(b)(2) from the foreign base company income of such corporation for all prior taxable years beginning before 1987, reduced by
 
@@ -34,7 +34,7 @@
 
 &emsp;&emsp;(B) other assets which are used in connection with the performance of services directly related to the use of any such aircraft or vessel.
 
-> &emsp;Such term includes, but is not limited to, investments by a controlled foreign corporation in stock or obligations of another controlled foreign corporation which is a related person (within the meaning of section 954(d)(3)) and which holds assets described in the preceding sentence, but only to the extent that such assets are so used.
+> &emsp;Such term includes, but is not limited to, investments by a controlled foreign corporation in stock or obligations of another controlled foreign corporation which is a related person (within the meaning of section 954(d)(3)) and which holds assets described in the precedingsentence, but only to the extent that such assets are so used.
 
 #### (2) Qualified investments by related persons
 
@@ -56,7 +56,7 @@
 
 #### References in Text
 
-Section 955(c)(2) (as in effect before the enactment of the Tax Reduction Act of 1975), referred to in subsecs.\(a)(2) and (b)(5), refers to section 955(c)(2) as added by Pub. L. 87–834, §12(a), Oct. 16, 1962, 76 Stat. 1013, and as in effect from 1962 until the repeal of that section and the enactment of this section by Pub. L. 94–12.
+Section 955(c)(2) (as in effect before the enactment of the Tax Reduction Act of 1975), referred to in subsecs. (a)(2) and (b)(5), refers to section 955(c)(2) as added by Pub. L. 87–834, §12(a), Oct. 16, 1962, 76 Stat. 1013, and as in effect from 1962 until the repeal of that section and the enactment of this section by Pub. L. 94–12.
 
 The Tax Reduction Act of 1975, referred to in subsecs. (a)(2) and (b)(5), is Pub. L. 94–12, Mar. 29, 1975, 89 Stat. 26, as amended, which was enacted Mar. 29, 1975. For complete classification of this Act to the Code, see Short Title of 1975 Amendment note set out under section 1 of this title and Tables.
 
@@ -88,5 +88,5 @@ Section 602(f) of Pub. L. 94–12, as amended by Pub. L. 99–514, §2, Oct. 22,
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 902, 951, 958, 964, 970 of this title.
+This section is referred to in sections 902, 951, 964, 970 of this title.
 

@@ -12,9 +12,9 @@ In General.—Whoever—
 
 (b)
 
-Enhanced Penalty.—Whoever, in the commission of any acts described in subsection (a), uses a deadly or dangerous weapon or inflicts bodily injury, shall be fined under this title or imprisoned not more than ten years, or both.
+Enhanced Penalty.—Whoever, in the commission of any acts described in subsection (a), uses a deadly or dangerous weapon (including a weapon intended to cause death or danger but that fails to do so by reason of a defective component) or inflicts bodily injury, shall be fined under this title or imprisoned not more than ten years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 688; Nov. 18, 1988, Pub. L. 100–690, title VI, §6487(a), 102 Stat. 4386; Sept. 13, 1994, Pub. L. 103–322, title XXXII, §320101(a), 108 Stat. 2108.)
+(June 25, 1948, ch. 645, 62 Stat. 688; Nov. 18, 1988, Pub. L. 100–690, title VI, §6487(a), 102 Stat. 4386; Sept. 13, 1994, Pub. L. 103–322, title XXXII, §320101(a), 108 Stat. 2108; Apr. 24, 1996, Pub. L. 104–132, title VII, §727(c), 110 Stat. 1302.)
 
 #### Historical and Revision Notes
 
@@ -27,6 +27,8 @@ Also the words “Bureau of Animal Industry of the Department of Agriculture” 
 The punishment provision of section 254 of title 18, U.S.C., 1940 ed., was adopted as the latest expression of Congressional intent. This consolidation eliminates a serious incongruity in punishment and application.
 
 #### Amendments
+
+1996—Subsec. (b). Pub. L. 104–132 inserted “(including a weapon intended to cause death or danger but that fails to do so by reason of a defective component)” after “deadly or dangerous weapon”.
 
 1994—Subsec. (a). Pub. L. 103–322, §320101(a)(1), inserted “, where the acts in violation of this section constitute only simple assault, be fined under this title or imprisoned not more than one year, or both, and in all other cases,” after “shall” in concluding provisions.
 
@@ -58,5 +60,5 @@ Process server, assault on, see section 1501 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 115, 3050 of this title; title 7 sections 84, 87c; title 16 section 742<i>l</i>; title19 section 1629; title 22 section 2709; title 25 section 2804; title 42 sections 2000e–13, 2283.
+This section is referred to in sections 115, 3050 of this title; title 7 sections 84, 87c; title 16 section 742<i>l</i>; title 19 section 1629; title 22 section 2709; title 25 section 2804; title 42 sections 2000e–13, 2283.
 

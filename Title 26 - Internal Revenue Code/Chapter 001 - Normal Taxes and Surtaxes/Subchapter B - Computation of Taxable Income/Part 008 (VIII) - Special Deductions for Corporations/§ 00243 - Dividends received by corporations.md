@@ -26,13 +26,25 @@ In the case of a corporation, there shall be allowed as a deduction an amount eq
 
 #### (2) Affiliated group
 
-&emsp;For purposes of this subsection, the term “affiliated group” has the meaning given such term by section 1504(a), except that for such purposes sections 1504(b)(2), 1504(b)(4), and 1504(c) shall not apply.
+&emsp;For purposes of this subsection:
+
+#### (A) In general
+
+&emsp;&emsp;The term “affiliated group” has the meaning given such term by section 1504(a), except that for such purposes sections 1504(b)(2), 1504(b)(4), and 1504(c) shall not apply.
+
+#### (B) Group must be consistent in foreign tax treatment
+
+&emsp;&emsp;The requirements of paragraph (1)(A) shall not be treated as being met with respect to any dividend received by a corporation if, for any taxable year which includes the day on which such dividend is received—
+
+&emsp;&emsp;&emsp;(i) 1 or more members of the affiliated group referred to in paragraph (1)(A) choose to any extent to take the benefits of section 901, and
+
+&emsp;&emsp;&emsp;(ii) 1 or more other members of such group claim to any extent a deduction for taxes otherwise creditable under section 901.
 
 #### (3) Special rule for groups which include life insurance companies
 
 #### (A) In general
 
-&emsp;&emsp;In the case an <sup>1</sup> affiliated group which includes 1 or more insurance companies under section 801, no dividend by any member of such group shall be treated as a qualifying dividend unless an election under this paragraph is in effect for the taxable year in which the dividend is received. The preceding sentence shall not apply in the case of a dividend described in paragraph (1)(B)(ii).
+&emsp;&emsp;In the case of an affiliated group which includes 1 or more insurance companies under section 801, no dividend by any member of such group shall be treated as a qualifying dividend unless an election under this paragraph is in effect for the taxable year in which the dividend is received. The preceding sentence shall not apply in the case of a dividend described in paragraph (1)(B)(ii).
 
 #### (B) Effect of election
 
@@ -78,7 +90,7 @@ For purposes of subsection (a)—
 
 For purposes of subsection (a) and for purposes of section 245, any dividend from a foreign corporation from earnings and profits accumulated by a domestic corporation during a period with respect to which such domestic corporation was subject to taxation under this chapter (or corresponding provisions of prior law) shall be treated as a dividend from a domestic corporation which is subject to taxation under this chapter.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 73; Sept. 2, 1958, Pub. L. 85–866, title I, §57(b), 72 Stat. 1645; Sept. 14, 1960, Pub. L. 86–779, §§3(a), 10(g), 74 Stat. 998, 1009; Feb. 26, 1964, Pub. L. 88–272, title II, §214(a), 78 Stat. 52; June 28, 1968, Pub. L. 90–364, title I, §103(e)(2), 82 Stat. 264; Dec. 30, 1969, Pub. L. 91–172, title V, §504(c)(1), 83 Stat. 633; Mar. 29, 1975, Pub. L. 94–12, title III, §304(b), 89 Stat. 45; Oct. 4, 1976, Pub. L. 94–455, title X, §§1031(b)(2), 1051(f)(1), (2), title XIX, §§1901(a)(34), (b)(1)(J)(ii), (21)(A)(i), 1906(b)(3)(C)(ii), (13)(A), 90 Stat. 1622, 1646, 1769, 1791, 1797, 1833, 1834; Aug. 13, 1981, Pub. L. 97–34, title II, §232(b)(2), 95 Stat. 250; July 18, 1984, Pub. L. 98–369, div. A, title II, §211(b)(3), 98 Stat. 754; Oct. 22, 1986, Pub. L. 99–514, title IV, §411(b)(2)(C)(iv), title VI, §611(a)(1), 100 Stat. 2227, 2249; Dec. 22, 1987, Pub. L. 100–203, title X, §10221(a)(1), (b), 101 Stat. 1330–408; Nov. 10, 1988, Pub. L. 100–647, title I, §1010(f)(4), 102 Stat. 3454; Nov. 5, 1990, Pub. L. 101–508, title XI, §11814(a), 104 Stat. 1388–556.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 73; Sept. 2, 1958, Pub. L. 85–866, title I, §57(b), 72 Stat. 1645; Sept. 14, 1960, Pub. L. 86–779, §§3(a), 10(g), 74 Stat. 998, 1009; Feb. 26, 1964, Pub. L. 88–272, title II, §214(a), 78 Stat. 52; June 28, 1968, Pub. L. 90–364, title I, §103(e)(2), 82 Stat. 264; Dec. 30, 1969, Pub. L. 91–172, title V, §504(c)(1), 83 Stat. 633; Mar. 29, 1975, Pub. L. 94–12, title III, §304(b), 89 Stat. 45; Oct. 4, 1976, Pub. L. 94–455, title X, §§1031(b)(2), 1051(f)(1), (2), title XIX, §§1901(a)(34), (b)(1)(J)(ii), (21)(A)(i), 1906(b)(3)(C)(ii), (13)(A), 90 Stat. 1622, 1646, 1769, 1791, 1797, 1833, 1834; Aug. 13, 1981, Pub. L. 97–34, title II, §232(b)(2), 95 Stat. 250; July 18, 1984, Pub. L. 98–369, div. A, title II, §211(b)(3), 98 Stat. 754; Oct. 22, 1986, Pub. L. 99–514, title IV, §411(b)(2)(C)(iv), title VI, §611(a)(1), 100 Stat. 2227, 2249; Dec. 22, 1987, Pub. L. 100–203, title X, §10221(a)(1), (b), 101 Stat. 1330–408; Nov. 10, 1988, Pub. L. 100–647, title I, §1010(f)(4), 102 Stat. 3454; Nov. 5, 1990, Pub. L. 101–508, title XI, §11814(a), 104 Stat. 1388–556; Aug. 20, 1996, Pub. L. 104–188, title I, §1702(h)(4), (8), 110 Stat. 1873, 1874.)
 
 #### References in Text
 
@@ -87,6 +99,10 @@ The Small Business Investment Act of 1958, referred to in subsec. (a)(2), is Pub
 Section 1562, referred to in subsec. (b)(1)(B)(i), was repealed by Pub. L. 91–172, title IV, §401(a)(2), Dec. 30, 1969, 83 Stat. 600.
 
 #### Amendments
+
+1996—Subsec. (b)(2). Pub. L. 104–188, §1702(h)(8), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “For purposes of this subsection, the term ‘affiliated group’ has the meaning given such term by section 1504(a), except that for such purposes sections 1504(b)(2), 1504(b)(4), and 1504(c) shall not apply.”
+
+Subsec. (b)(3)(A). Pub. L. 104–188, §1702(h)(4), inserted “of” after “In the case”.
 
 1990—Subsec. (b). Pub. L. 101–508 amended subsec. (b) generally, substituting present provisions for provisions defining “qualifying dividends”, providing for an election by or for an affiliated group, the effect of an election, and the termination of an election, defining an “affiliated group”, and providing special rules for insurance companies.
 
@@ -116,7 +132,7 @@ Subsec. (b)(2)(A). Pub. L. 94–455, §1901(a)(34)(B), struck out “(except tha
 
 Subsec. (b)(3)(B). Pub. L. 94–455, §1031(b)(2), substituted “election under section 901(a) (relating to allowance of foreign tax credit)” for “elections under section 901(a) (relating to allowance of foreign tax credit) and section 904(b)(1) (relating to election of overall limitation)”.
 
-Subsec. (b)(3)(C). Pub. L. 94–455, §§1901(b)(1)(J)(ii), (21)(A)(i), 1906(b)(3)(C)(ii), struck out cl. (ii) which set a $100,000 limitation for exploration expenditures under section 615 (a) and (b), redesignated former cls. (iii), (iv), and (v) as cls. (ii), (iii), and (iv), respectively, andsubstituted “certain exploration expenditures under section 617(h)(1)” for “exploration expenditures under sections 615(c)(1) and 617(h)(1)” in cl. (ii) as so redesignated, “804(a)(3)” for “804(a)(4)” in cl. (iii) as so redesignated, and “section 6154(c)(2) and section 6655(e)(2)” for “sections 6154(c)(2) and (3) and sections 6655(e)(2) and (3)” in cl. (iv) as so redesignated.
+Subsec. (b)(3)(C). Pub. L. 94–455, §§1901(b)(1)(J)(ii), (21)(A)(i), 1906(b)(3)(C)(ii), struck out cl. (ii) which set a $100,000 limitation for exploration expenditures under section 615 (a) and (b), redesignated former cls. (iii), (iv), and (v) as cls. (ii), (iii), and (iv), respectively, and substituted “certain exploration expenditures under section 617(h)(1)” for “exploration expenditures under sections 615(c)(1) and 617(h)(1)” in cl. (ii) as so redesignated, “804(a)(3)” for “804(a)(4)” in cl. (iii) as so redesignated, and “section 6154(c)(2) and section 6655(e)(2)” for “sections 6154(c)(2) and (3) and sections 6655(e)(2) and (3)” in cl. (iv) as so redesignated.
 
 Subsec. (b)(5). Pub. L. 94–455, §1051(f)(2), inserted “, 1504(b)(4),” after “sections 1504(b)(2)”.
 
@@ -141,6 +157,10 @@ Subsec. (d). Pub. L. 86–779, §3(a), added subsec. (d).
 1958—Subsec. (a). Pub. L. 85–866, §57(b)(1), inserted “(other than a small business investment company operating under the Small Business Investment Act of 1958)”.
 
 Subsecs. (b), (c). Pub. L. 85–866, §57(b)(2), (3), added subsec. (b), redesignated former subsec. (b) as (c), and substituted “subsections (a) and (b)” for “subsection (a)”.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–188 effective, except as otherwise expressly provided, as if included in the provision of the Revenue Reconciliation Act of 1990, Pub. L. 101–508, title XI, to which such amendment relates, see section 1702(i) of Pub. L. 104–188, set out as a note under section 38 of this title.
 
 #### Effective Date of 1990 Amendment
 
@@ -212,7 +232,7 @@ Presumption of election under section 617.—For purposes of section 617 of the 
 
 #### Effective Date of 1968 Amendment
 
-Section 103(f) of Pub. L. 90–364 provided that: “Except as provided by section 104 \[formerly set out as notesunder sections 51 and 6154 of this title\], the amendments made by this section \[enacting section 6425, amending this section and sections 6020, 6154, 6651, 6655, 7203, and 7701, and repealing sections 6016 and 6074 of this title\] shall apply with respect to taxable years beginning after December 31, 1967.”
+Section 103(f) of Pub. L. 90–364 provided that: “Except as provided by section 104 \[formerly set out as notes under sections 51 and 6154 of this title\], the amendments made by this section \[enacting section 6425, amending this section and sections 6020, 6154, 6651, 6655, 7203, and 7701, and repealing sections 6016 and 6074 of this title\] shall apply with respect to taxable years beginning after December 31, 1967.”
 
 #### Effective Date of 1964 Amendment
 
@@ -234,7 +254,5 @@ For provisions that nothing in amendment by Pub. L. 101–508 be construed to af
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 56, 163, 172, 244, 245, 246, 246A, 263, 277, 301, 469, 512, 596, 805, 810, 812, 815, 832, 833, 854, 857, 861, 864, 1059, 1244, 1504, 7518 of this title; title 46 App. section 1177.
-
-<i><sup>1</sup></i><i> So in original. Probably should be “of an”.</i>
+This section is referred to in sections 56, 163, 172, 244, 245, 246, 246A, 263, 277, 301, 469, 512, 805, 810, 812, 815, 832, 833, 854, 857, 861, 864, 1059, 1244, 1504, 7518 of this title; title 46 App. section 1177.
 

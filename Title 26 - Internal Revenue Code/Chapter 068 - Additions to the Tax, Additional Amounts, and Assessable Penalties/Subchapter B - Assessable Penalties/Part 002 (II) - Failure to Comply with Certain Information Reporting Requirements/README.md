@@ -17,8 +17,6 @@
 
 This part is referred to in title 42 section 1320b–14.
 
-<i><sup>1</sup></i><i> Another section 6714 is set out preceding this section.</i>
-
 
 ---
 

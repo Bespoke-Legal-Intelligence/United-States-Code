@@ -34,7 +34,7 @@ Any personnel action of any department, agency, or other entity referred to in s
 
 #### (g) Study and report to President and Congress by Equal Employment Opportunity Commission; scope
 
-(1) The Equal Employment Opportunity Commission shall undertake a study relating to the effects of the amendments made to this section by the Age Discrimination in Employment ActAmendments of 1978, and the effects of section 631(b) of this title.
+(1) The Equal Employment Opportunity Commission shall undertake a study relating to the effects of the amendments made to this section by the Age Discrimination in Employment Act Amendments of 1978, and the effects of section 631(b) of this title.
 
 (2) The Equal Employment Opportunity Commission shall transmit a report to the President and to the Congress containing the findings of the Commission resulting from the study of the Commission under paragraph (1) of this subsection. Such report shall be transmitted no later than January 1, 1980.
 
@@ -74,5 +74,5 @@ Equal employment opportunities for Federal employees without discrimination beca
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 626, 631 of this title; title 2 sections 1202, 1311; title 5 sections 2302, 7702, 7703; title 22 sections 3905, 4131.
+This section is referred to in sections 626, 631 of this title; title 2 sections 1202, 1311; title 3 section 411; title 5 sections 2302, 7702, 7703; title 22 sections 3905, 4131.
 

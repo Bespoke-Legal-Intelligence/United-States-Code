@@ -2,13 +2,17 @@
 
 (a)
 
-Qualification Requirements.—The Secretary of Defense shall establish education, training, and experience requirements for each acquisition position, based on the level of complexity of duties carried out in the position. Unless otherwise provided in this chapter, such requirements shall take effect not later than October 1, 1993. In establishing such requirements for positions other than critical acquisition positions designated pursuant to section 1733 of this title, the Secretary may state the requirements by categories of positions.
+Qualification Requirements.—The Secretary of Defense shall establish education, training, and experience requirements for each acquisition position, based on the level of complexity of duties carried out in the position. In establishing such requirements for positions other than critical acquisition positions designated pursuant to section 1733 of this title, the Secretary may state the requirements by categories of positions.
 
 (b)
 
 Limitation on Credit for Training or Education.—Not more than one year of a period of time spent pursuing a program of academic training or education in acquisition may be counted toward fulfilling any requirement established under this chapter for a certain period of experience.
 
-(Added Pub. L. 101–510, div. A, title XII, §1202(a), Nov. 5, 1990, 104 Stat. 1642.)
+(Added Pub. L. 101–510, div. A, title XII, §1202(a), Nov. 5, 1990, 104 Stat. 1642; amended Pub. L. 104–201, div. A, title X, §1074(a)(9)(A), Sept. 23, 1996, 110 Stat. 2659.)
+
+#### Amendments
+
+1996—Subsec. (a). Pub. L. 104–201 struck out “Unless otherwise provided in this chapter, such requirements shall take effect not later than October 1, 1993.” after first sentence.
 
 #### Fulfillment Standards for Mandatory Training
 

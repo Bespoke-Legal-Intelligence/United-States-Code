@@ -66,7 +66,7 @@ Amendment by section 405(a)(7) of Pub. L. 103–82 effective Apr. 4, 1994, see s
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–551 effective Oct. 1, 1986, except as otherwise provided, see section 11 of Pub. L. 99–551, set out as an Effective Date note under section 4950 of this title.
+Amendment by Pub. L. 99–551 effective Oct. 1, 1986, except as otherwise provided, see section 11 of Pub. L.99–551, set out as an Effective Date note under section 4950 of this title.
 
 #### Effective Date of 1980 Amendment
 

@@ -18,7 +18,7 @@
 
 (b)(1) The Office of Personnel Management, by regulation, shall establish and maintain a program under which it shall, on the request of an agency, advise and assist such agency in the establishment and maintenance of its part-time career employment program under this chapter.
 
-(2) The Office shall conduct a research and demonstration program with respect to part-time career employment within the Federal Government. In particular, such program shall be directed to—
+(2) The Office shall conduct a research and demonstration program with respect to part-time career employment within the FederalGovernment. In particular, such program shall be directed to—
 
 &emsp;(A) determining the extent to which part-time career employment may be used in filling positions which have not traditionally been open for such employment on any extensive basis, such as supervisory, managerial, and professional positions;
 
@@ -30,7 +30,7 @@
 
 #### Amendments
 
-<b>1978</b>—Pub. L. 95–454, §906(c)(1)(B), renumbered section 3392 of this title as this section.
+1978—Pub. L. 95–454, §906(c)(1)(B), renumbered section 3392 of this title as this section.
 
 Subsec. (a)(1)(B). Pub. L. 95–454, §906(c)(2)(B)(i), substituted “3403” for “3393”.
 

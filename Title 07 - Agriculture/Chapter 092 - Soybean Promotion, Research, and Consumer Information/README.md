@@ -23,7 +23,7 @@
 | (i) | Administration. |
 | (j) | Contracts and agreements. |
 | (k) | Books and records of Board. |
-| (<i>l)</i> | Assessments. |
+| (<i>l</i>) | Assessments. |
 | (m) | Credit for certain costs to States. |
 | (n) | Minimum level of assessment to States. |
 | (<i>o</i>) | Investment of funds. |
@@ -63,6 +63,10 @@
 | (c) | Regulations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Chapter Referred to in Other Sections
+
+This chapter is referred to in section 7401 of this title.
 
 
 ---

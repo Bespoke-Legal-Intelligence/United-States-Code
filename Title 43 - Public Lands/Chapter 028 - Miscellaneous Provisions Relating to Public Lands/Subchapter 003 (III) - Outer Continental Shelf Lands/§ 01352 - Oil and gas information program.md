@@ -2,7 +2,7 @@
 
 #### (a) Access to data and information obtained by lessee or permittee from oil or gas exploration, etc., data obtained by Federal department or agency from geological and geophysical explorations
 
-(1)(A) Any lessee or permittee conducting any exploration for, or development or production of, oil or gas pursuant to this subchapter shall provide the Secretary access to all data and information (including processed, analyzed, and interpreted information) obtained from such activity and shall provide copies of such data and information as the Secretary may request. Such data and information shall be provided in accordance with regulations which the Secretary shall prescribe.
+(1)(A) Any lessee or permittee conducting any exploration for, or development or productionof, oil or gas pursuant to this subchapter shall provide the Secretary access to all data and information (including processed, analyzed, and interpreted information) obtained from such activity and shall provide copies of such data and information as the Secretary may request. Such data and information shall be provided in accordance with regulations which the Secretary shall prescribe.
 
 (B) If an interpretation provided pursuant to subparagraph (A) of this paragraph is made in good faith by the lessee or permittee, such lessee or permittee shall not be held responsible for any consequence of the use of or reliance upon such interpretation.
 
@@ -28,7 +28,7 @@
 
 #### (c) Confidentiality of information; regulations
 
-The Secretary shall prescribe regulations to (1) assure that the confidentiality of privileged or proprietary information received by the Secretary under this section will be maintained, and (2) set forth the time periods and conditions which shall be applicable to the release of such information. Such regulations shall include a provision that no such information will be transmitted to any affected State unless the lessee, or the permittee and all persons to whom such permittee has sold such information underpromise of confidentiality, agree to such transmittal.
+The Secretary shall prescribe regulations to (1) assure that the confidentiality of privileged or proprietary information received by the Secretary under this section will be maintained, and (2) set forth the time periods and conditions which shall be applicable to the release of such information. Such regulations shall include a provision that no such information will be transmitted to any affected State unless the lessee, or the permittee and all persons to whom such permittee has sold such information under promise of confidentiality, agree to such transmittal.
 
 #### (d) Transmittal of information to affected State; protection of competitive position
 

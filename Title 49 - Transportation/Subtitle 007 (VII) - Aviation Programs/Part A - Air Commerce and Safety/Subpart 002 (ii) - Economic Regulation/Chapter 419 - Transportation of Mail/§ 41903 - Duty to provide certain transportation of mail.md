@@ -26,7 +26,9 @@ Historical and Revision Notes
 
 Pub. L. 103–272, §1(e)
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -34,7 +36,7 @@ Pub. L. 103–272, §1(e)
 
 41903(a)
 
-49 App.:1371(<i>l).</i>
+49 App.:1371(<i>l</i>).
 
 Aug. 23, 1958, Pub. L. 85–726, §§401(<i>l</i>), 405(c), (d), 72 Stat. 757, 761.
 
@@ -44,7 +46,7 @@ Aug. 23, 1958, Pub. L. 85–726, §§401(<i>l</i>), 405(c), (d), 72 Stat. 757, 7
 
 &nbsp;
 
-49 App.:1551(a) (4)(A) (related to 49 App.:1371(<i>l</i>), 1375(d)).
+49 App.:1551(a)(4)(A) (related to 49 App.:1371(<i>l</i>), 1375(d)).
 
 Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1601(a)(4)(A) (related to §§401(<i>l</i>), 405(c), (d)); added Oct. 4, 1984, Pub. L. 98–443, §3(c), 98 Stat. 1703.
 
@@ -54,13 +56,13 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1601(a)(4)(A) (related to §§4
 
 &nbsp;
 
-49 App.:1551(a) (4)(A) (related to 49 App.:1375(c)).
+49 App.:1551(a)(4)(A) (related to 49 App.:1375(c)).
 
 &nbsp;
 
-49 App.:1551(b) (1)(E).
+49 App.:1551(b)(1)(E).
 
-Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1601(b) (1)(E); added Oct. 4, 1984, Pub. L. 98–443, §3(e), 98 Stat. 1704.
+Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1601(b)(1)(E); added Oct. 4, 1984, Pub. L. 98–443, §3(e), 98 Stat. 1704.
 
 In subsection (a), before clause (1), the words “Subject to subsection (b) of this section” are added for clarity because subsection (b) limits the effect of this section. The words “transport mail by aircraft in foreign air transportation or between places in Alaska” are substituted for “the transportation of mail” in 49 App.:1371(<i>l</i>) and “the transportation of mail by aircraft” in 49 App.:1375(d) because 49 App.:1551(a)(4)(A) provides that 49 App.:1371(<i>l</i>) and 1375(d) no longer apply to interstate or overseas air transportation (except transportation of mail between 2 places in Alaska). Clause (2) is substituted for “shall transport mail whenever required by the United States Postal Service” in 49 App.:1371(<i>l</i>) and the text of 49 App.:1375(d) for clarity and to eliminate unnecessary words. The text of 49 App.:1371(<i>l</i>) (last sentence) is omitted as surplus because section 41901 of the revised title specifies how the rates of compensation are determined.
 
@@ -68,7 +70,9 @@ In subsection (b), before clause (1), the words “transportation of mail by air
 
 Pub. L. 103–272, §4(k)(1)
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -86,7 +90,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1601(a)(8); added Oct. 4, 1984,
 
 Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1601(b)(3); added Oct. 4, 1984, Pub. L. 98–443, §3(f), 98 Stat. 1704; Sept. 30, 1988, Pub. L. 100–457, §346 (related to §1601(b)(3) of Federal Aviation Act of 1958), 102 Stat. 2155.
 
-Section 4(k) reflects amendments to the restatement required by section 1601(a)(8) of the Federal Aviation Act of 1958 (Public Law 85–726, 72 Stat. 731), as added by section 3(c) of the Civil Aeronautics Board Sunset Act of 1984 (Public Law 98–443, 98 Stat. 1704), and section 1601(b)(3) of the Federal Aviation Act of 1958 (Public Law 85–726, 72 Stat. 731), as added by section 3(f) of the Civil Aeronautics Board Sunset Act of 1984 (Public Law 98–443, 98 Stat. 1704). Section 1601(a)(8) provides that the authority under 49 App.:1371(<i>l</i>) and (m) and 1375(b)–(d) as those sections relate to transportation of mail by aircraft between places in Alaska (restated in sections 41107 and 41901–41903 of the revised title) ceases on January 1, 1999. Section 1601(b)(3) transfers the authority for prescribing rates for transportation of mail betweenplaces in Alaska from the Secretary of Transportation to the Postal Service effective January 1, 1999.
+Section 4(k) reflects amendments to the restatement required by section 1601(a)(8) of the Federal Aviation Act of 1958 (Public Law 85–726, 72 Stat. 731), as added by section 3(c) of the Civil Aeronautics Board Sunset Act of 1984 (Public Law 98–443, 98 Stat. 1704), and section 1601(b)(3) of the Federal Aviation Act of 1958 (Public Law 85–726, 72 Stat. 731), as added by section 3(f) of the Civil Aeronautics Board Sunset Act of 1984 (Public Law 98–443, 98 Stat. 1704). Section 1601(a)(8) provides that the authority under 49 App.:1371(<i>l</i>) and (m) and 1375(b)–(d) as those sections relate to transportation of mail by aircraft between places in Alaska (restated in sections 41107 and 41901–41903 of the revised title) ceases on January 1, 1999. Section 1601(b)(3) transfers the authority for prescribing rates for transportation of mail between places in Alaska from the Secretary of Transportation to the Postal Service effective January 1, 1999.
 
 #### Effective Date of 1994 Amendment
 

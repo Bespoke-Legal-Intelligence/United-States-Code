@@ -8,7 +8,7 @@ In any case in which bond or other security is not specifically required by law,
 
 Whenever a bond is required or authorized by a law, regulation, or instruction which the Secretary of the Treasury or the Customs Service is authorized to enforce, the Secretary of the Treasury may—
 
-&emsp;(1) Except as otherwise specifically provided by law, prescribe the conditions and form of such bond and the manner in which the bond may be filed with or, pursuant to an authorized electronic data interchange system, transmitted to the Customs Service, and fix the amount of penalty thereof, whether for the payment of liquidated damages or of a penal sum: <i>Provided</i>, That when a consolidated bond authorized by paragraph 4 of this subsection is taken, the Secretary of the Treasury may fix the penalty of such bond without regard to any other provision of law, regulation, or instruction.
+&emsp;(1) Except as otherwise specifically provided by law, prescribe the conditions and form of such bond and the manner in which the bond may be filed with or, pursuant to an authorized electronic data interchange system, transmitted to the Customs Service, and fixthe amount of penalty thereof, whether for the payment of liquidated damages or of a penal sum: <i>Provided</i>, That when a consolidated bond authorized by paragraph 4 of this subsection is taken, the Secretary of the Treasury may fix the penalty of such bond without regard to any other provision of law, regulation, or instruction.
 
 &emsp;(2) Provide for the approval of the sureties on such bond, without regard to any general provision of law.
 

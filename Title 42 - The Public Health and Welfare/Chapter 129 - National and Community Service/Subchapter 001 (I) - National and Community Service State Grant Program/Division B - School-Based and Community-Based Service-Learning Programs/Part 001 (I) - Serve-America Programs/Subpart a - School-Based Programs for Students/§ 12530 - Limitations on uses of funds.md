@@ -26,7 +26,7 @@
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), not less than 10 percent and not more than 15 percentof the amount of assistance provided to a State educational agency or Indian tribe that is the original recipient of a grant or allotment under subsection (a), (b), (c), or (d) of section 12524 of this title for a fiscal year may be used to build capacity through training, technical assistance, curriculum development, and coordination activities, described in section 12521(a)(1) of this title.
+&emsp;Except as provided in paragraph (2), not less than 10 percent and not more than 15 percent of the amount of assistance provided to a State educational agency or Indian tribe that is the original recipient of a grant or allotment under subsection (a), (b), (c), or (d) of section 12524 of this title for a fiscal year may be used to build capacity through training, technical assistance, curriculum development, and coordination activities, described in section 12521(a)(1) of this title.
 
 #### (2) Waiver
 

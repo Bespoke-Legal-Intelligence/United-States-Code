@@ -2,51 +2,33 @@
 
 (a) Whoever—
 
-&emsp;(1) knowingly accesses a computer without authorization or exceeds authorized access, and by means of such conduct obtains information that has been determined by the United States Government pursuant to an Executive order or statute to require protection against unauthorized disclosure for reasons of national defense or foreign relations, or any restricted data, as defined in paragraph y. of section 11 of the Atomic Energy Act of 1954, with the intent or reason to believe that such information so obtained is to be used to the injury of the United States, or to the advantage of any foreign nation;
+&emsp;(1) having knowingly accessed a computer without authorization or exceeding authorized access, and by means of such conduct having obtained information that has been determined by the United States Government pursuant to an Executive order or statute to require protection against unauthorized disclosure for reasons of national defense or foreign relations, or any restricted data, as defined in paragraph y. of section 11 of the Atomic Energy Act of 1954, with reason to believe that such information so obtained could be used to the injury of the United States, or to the advantage of any foreign nation willfully communicates, delivers, transmits, or causes to be communicated, delivered, or transmitted, or attempts to communicate, deliver, transmit or cause to be communicated, delivered, or transmitted the same to any person not entitled to receive it, or willfully retains the same and fails to deliver it to the officer or employee of the United States entitled to receive it;
 
-&emsp;(2) intentionally accesses a computer without authorization or exceeds authorized access, and thereby obtains information contained in a financial record of a financial institution, or of a card issuer as defined in section 1602(n) of title 15, or contained in a file of a consumer reporting agency on a consumer, as such terms are defined in the Fair Credit Reporting Act (15 U.S.C. 1681 et seq.);
+&emsp;(2) intentionally accesses a computer without authorization or exceeds authorized access, and thereby obtains—
 
-&emsp;(3) intentionally, without authorization to access any computer of a department or agency of the United States, accesses such a computer of that department or agency that is exclusively for the use of the Government of the United States or, in the case of a computer not exclusively for such use, is used by or for the Government of the United States and such conduct adversely affects the use of the Government's operation of such computer;
+&emsp;&emsp;(A) information contained in a financial record of a financial institution, or of a card issuer as defined in section 1602(n) of title 15, or contained in a file of a consumer reporting agency on a consumer, as such terms are defined in the Fair Credit Reporting Act (15 U.S.C. 1681 et seq.);
 
-&emsp;(4) knowingly and with intent to defraud, accesses a Federal interest computer without authorization, or exceeds authorized access, and by means of such conduct furthers the intended fraud and obtains anything of value, unless the object of the fraud and the thing obtained consists only of the use of the computer;
+&emsp;&emsp;(B) information from any department or agency of the United States; or
 
-&emsp;(5)(A) through means of a computer used in interstate commerce or communications, knowingly causes the transmission of a program, information, code, or command to a computer or computer system if—
+&emsp;&emsp;(C) information from any protected computer if the conduct involved an interstate or foreign communication;
 
-&emsp;&emsp;(i) the person causing the transmission intends that such transmission will—
+&emsp;(3) intentionally, without authorization to access any nonpublic computer of a department or agency of the United States, accesses such a computer of that department or agency that is exclusively for the use of the Government of the United States or, in the case of a computer not exclusively for such use, is used by or for the Government of the United States and such conduct affects that use by or for the Government of the United States;
 
-&emsp;&emsp;&emsp;(I) damage, or cause damage to, a computer, computer system, network, information, data, or program; or
+&emsp;(4) knowingly and with intent to defraud, accesses a protected computer without authorization, or exceeds authorized access, and by means of such conduct furthers the intendedfraud and obtains anything of value, unless the object of the fraud and the thing obtained consists only of the use of the computer and the value of such use is not more than $5,000 in any 1-year period;
 
-&emsp;&emsp;&emsp;(II) withhold or deny, or cause the withholding or denial, of the use of a computer, computer services, system or network, information, data or program; and
+&emsp;(5)(A) knowingly causes the transmission of a program, information, code, or command, and as a result of such conduct, intentionally causes damage without authorization, to a protected computer;
 
-&emsp;&emsp;(ii) the transmission of the harmful component of the program, information, code, or command—
+&emsp;(B) intentionally accesses a protected computer without authorization, and as a result of such conduct, recklessly causes damage; or
 
-&emsp;&emsp;&emsp;(I) occurred without the authorization of the persons or entities who own or are responsible for the computer system receiving the program, information, code, or command; and
-
-&emsp;&emsp;&emsp;(II)(aa) causes loss or damage to one or more other persons of value aggregating $1,000 or more during any 1-year period; or
-
-&emsp;&emsp;&emsp;(bb) modifies or impairs, or potentially modifies or impairs, the medical examination, medical diagnosis, medical treatment, or medical care of one or more individuals; or
-
-&emsp;(B) through means of a computer used in interstate commerce or communication, knowingly causes the transmission of a program, information, code, or command to a computer or computer system—
-
-&emsp;&emsp;(i) with reckless disregard of a substantial and unjustifiable risk that the transmission will—
-
-&emsp;&emsp;&emsp;(I) damage, or cause damage to, a computer, computer system, network, information, data or program; or
-
-&emsp;&emsp;&emsp;(II) withhold or deny or cause the withholding or denial of the use of a computer, computer services, system, network, information, data or program; and
-
-&emsp;&emsp;(ii) if the transmission of the harmful component of the program, information, code, or command—
-
-&emsp;&emsp;&emsp;(I) occurred without the authorization of the persons or entities who own or are responsible for the computer system receiving the program, information, code, or command; and
-
-&emsp;&emsp;&emsp;(II)(aa) causes loss or damage to one or more other persons of a value aggregating $1,000 or more during any 1-year period; or
-
-&emsp;&emsp;&emsp;(bb) modifies or impairs, or potentially modifies or impairs, the medical examination, medical diagnosis, medical treatment, or medical care of one or more individuals; <sup>1</sup>
+&emsp;(C) intentionally accesses a protected computer without authorization, and as a result of such conduct, causes damage;
 
 &emsp;(6) knowingly and with intent to defraud traffics (as defined in section 1029) in any password or similar information through which a computer may be accessed without authorization, if—
 
 &emsp;&emsp;(A) such trafficking affects interstate or foreign commerce; or
 
-&emsp;&emsp;(B) such computer is used by or for the Government of the United States;
+&emsp;&emsp;(B) such computer is used by or for the Government of the United States; <sup>1</sup>
+
+&emsp;(7) with intent to extort from any person, firm, association, educational institution, financial institution, government entity, or other legal entity, any money or other thing of value, transmits in interstate or foreign commerce any communication containing any threat to cause damage to a protected computer;
 
 > shall be punished as provided in subsection (c) of this section.
 
@@ -54,31 +36,37 @@
 
 (c) The punishment for an offense under subsection (a) or (b) of this section is—
 
-&emsp;(1)(A) a fine under this title or imprisonment for not more than ten years, or both, in the case of an offense under subsection (a)(1) of this section which does not occur after a conviction for another offense under such subsection, or an attempt to commit an offense punishable under this subparagraph; and
+&emsp;(1)(A) a fine under this title or imprisonment for not more than ten years, or both, in the case of an offense under subsection (a)(1) of this section which does not occur after a conviction for another offense under this section, or an attempt to commit an offense punishable under this subparagraph; and
 
-&emsp;(B) a fine under this title or imprisonment for not more than twenty years, or both, in the case of an offense under subsection (a)(1) of this section which occurs after a conviction for another offense under such subsection, or an attempt to commit an offense punishable under this subparagraph; and <sup>2</sup>
+&emsp;(B) a fine under this title or imprisonment for not more than twenty years, or both, in the case of an offense under subsection (a)(1) of this section which occurs after a conviction for another offense under this section, or an attempt to commit an offense punishable under this subparagraph;
 
-&emsp;(2)(A) a fine under this title or imprisonment for not more than one year, or both, in the case of an offense under subsection (a)(2), (a)(3) or (a)(6) of this section which does not occur after a conviction for another offense under such subsection, or an attempt to commit an offense punishable under this subparagraph; and
+&emsp;(2)(A) a fine under this title or imprisonment for not more than one year, or both, in the case of an offense under subsection (a)(2), (a)(3), (a)(5)(C), or (a)(6) of this section which does not occur after a conviction for another offense under this section, or an attempt to commit an offense punishable under this subparagraph; and <sup>2</sup>
 
-&emsp;(B) a fine under this title or imprisonment for not more than ten years, or both, in the case of an offense under subsection (a)(2), (a)(3) or (a)(6) of this section which occurs after a conviction for another offense under such subsection, or an attempt to commit an offense punishable under this subparagraph;
+&emsp;(B) a fine under this title or imprisonment for not more than 5 years, or both, in the case of an offense under subsection (a)(2), if—
 
-&emsp;(3)(A) a fine under this title or imprisonment for not more than five years, or both, in the case of an offense under subsection (a)(4) or (a)(5)(A) of this section which does not occur after a conviction for another offense under such subsection, or an attempt to commit an offense punishable under this subparagraph; and
+&emsp;&emsp;(i) the offense was committed for purposes of commercial advantage or private financial gain;
 
-&emsp;(B) a fine under this title or imprisonment for not more than ten years, or both, in the case of an offense under subsection (a)(4) or (a)(5) of this section which occurs after a conviction for another offense under such subsection, or an attempt to commit an offense punishable under this subparagraph; and
+&emsp;&emsp;(ii) the offense was committed in furtherance of any criminal or tortious act in violation of the Constitution or laws of the United States or of any State; or
 
-&emsp;(4) a fine under this title or imprisonment for not more than 1 year, or both, in the case of an offense under subsection (a)(5)(B).
+&emsp;&emsp;(iii) the value of the information obtained exceeds $5,000; <sup>3</sup>
 
-(d) The United States Secret Service shall, in addition to any other agency having such authority, have the authority to investigate offenses under this section. Such authority of the United States Secret Service shall be exercised in accordance with an agreement which shall be entered into by the Secretary of the Treasury and the Attorney General.
+&emsp;(C) a fine under this title or imprisonment for not more than ten years, or both, in the case of an offense under subsection (a)(2), (a)(3) or (a)(6) of this section which occurs after a conviction for another offense under this section, or an attempt to commit an offense punishable under this subparagraph; and
+
+&emsp;(3)(A) a fine under this title or imprisonment for not more than five years, or both, in the case of an offense under subsection (a)(4), (a)(5)(A), (a)(5)(B), or (a)(7) of this section which does not occur after a conviction for another offense under this section, or an attempt to commit an offense punishable under this subparagraph; and
+
+&emsp;(B) a fine under this title or imprisonment for not more than ten years, or both, in the case of an offense under subsection (a)(4), (a)(5)(A), (a)(5)(B), (a)(5)(C), or (a)(7) of this section which occurs after a conviction for another offense under this section, or an attempt to commit an offense punishable under this subparagraph; and <sup>4</sup>
+
+(d) The United States Secret Service shall, in addition to any other agency having such authority, have the authority to investigate offenses under subsections (a)(2)(A), (a)(2)(B), (a)(3), (a)(4), (a)(5), and (a)(6) of this section. Such authority of the United States Secret Service shall be exercised in accordance with an agreement which shall be entered into by the Secretary of the Treasury and the Attorney General.
 
 (e) As used in this section—
 
-&emsp;(1) the term “computer” means an electronic, magnetic, optical, electrochemical, orother high speed data processing device performing logical, arithmetic, or storage functions, and includes any data storage facility or communications facility directly related to or operating in conjunction with such device, but such term does not include an automated typewriter or typesetter, a portable hand held calculator, or other similar device;
+&emsp;(1) the term “computer” means an electronic, magnetic, optical, electrochemical, or other high speed data processing device performing logical, arithmetic, or storage functions, and includes any data storage facility or communications facility directly related to or operating in conjunction with such device, but such term does not include an automated typewriter or typesetter, a portable hand held calculator, or other similar device;
 
-&emsp;(2) the term “Federal interest computer” means a computer—
+&emsp;(2) the term “protected computer” means a computer—
 
-&emsp;&emsp;(A) exclusively for the use of a financial institution or the United States Government, or, in the case of a computer not exclusively for such use, used by or for a financial institution or the United States Government and the conduct constituting the offense affects the use of the financial institution's operation or the Government's operation of such computer; or
+&emsp;&emsp;(A) exclusively for the use of a financial institution or the United States Government, or, in the case of a computer not exclusively for such use, used by or for a financial institution or the United States Government and the conduct constituting the offense affects that use by or for the financial institution or the Government; or
 
-&emsp;&emsp;(B) which is one of two or more computers used in committing the offense, not all of which are located in the same State;
+&emsp;&emsp;(B) which is used in interstate or foreign commerce or communication;
 
 &emsp;(3) the term “State” includes the District of Columbia, the Commonwealth of Puerto Rico, and any other commonwealth, possession or territory of the United States;
 
@@ -100,27 +88,39 @@
 
 &emsp;&emsp;(H) a branch or agency of a foreign bank (as such terms are defined in paragraphs (1) and (3) of section 1(b) of the International Banking Act of 1978); and
 
-&emsp;&emsp;(I) an organization operating under section 25 or section 25(a) <sup>3</sup> of the Federal Reserve Act.<sup>4</sup>
+&emsp;&emsp;(I) an organization operating under section 25 or section 25(a) <sup>5</sup> of the Federal Reserve Act.<sup>6</sup>
 
 &emsp;(5) the term “financial record” means information derived from any record held by a financial institution pertaining to a customer's relationship with the financial institution;
 
-&emsp;(6) the term “exceeds authorized access” means to access a computer with authorization and to use such access to obtain or alter information in the computer that the accesser is not entitled so to obtain or alter; and
+&emsp;(6) the term “exceeds authorized access” means to access a computer with authorization and to use such access to obtain or alter information in the computer that the accesser is not entitled so to obtain or alter;
 
-&emsp;(7) the term “department of the United States” means the legislative or judicial branch of the Government or one of the executive departments enumerated in section 101 of title 5.
+&emsp;(7) the term “department of the United States” means the legislative or judicial branch of the Government or one of the executive departments enumerated in section 101 of title 5; and <sup>7</sup>
+
+&emsp;(8) the term “damage” means any impairment to the integrity or availability of data, a program, a system, or information, that—
+
+&emsp;&emsp;(A) causes loss aggregating at least $5,000 in value during any 1-year period to one or more individuals;
+
+&emsp;&emsp;(B) modifies or impairs, or potentially modifies or impairs, the medical examination, diagnosis, treatment, or care of one or more individuals;
+
+&emsp;&emsp;(C) causes physical injury to any person; or
+
+&emsp;&emsp;(D) threatens public health or safety; and
+
+&emsp;(9) the term “government entity” includes the Government of the United States, any State or political subdivision of the United States, any foreign country, and any state, province, municipality, or other political subdivision of a foreign country.
 
 (f) This section does not prohibit any lawfully authorized investigative, protective, or intelligence activity of a law enforcement agency of the United States, a State, or a political subdivision of a State, or of an intelligence agency of the United States.
 
-(g) Any person who suffers damage or loss by reason of a violation of the <sup>5</sup> section, other than a violation of subsection (a)(5)(B), may maintain a civil action against the violator to obtain compensatory damages and injunctive relief or other equitable relief. Damages for violations of any subsection other than subsection (a)(5)(A)(ii)(II)(bb) or (a)(5)(B)(ii)(II)(bb) are limited to economic damages. No action may be brought under this subsection unless such action is begun within 2 years of the date of the act complained of or the date of the discovery of the damage.
+(g) Any person who suffers damage or loss by reason of a violation of this section may maintain a civil action against the violator to obtain compensatory damages and injunctive relief or other equitable relief. Damages for violations involving damage as defined in subsection (e)(8)(A) are limited to economic damages. No action may be brought under this subsection unless such action is begun within 2 years of the date of the act complained of or the date of the discovery of the damage.
 
-(h) The Attorney General and the Secretary of the Treasury shall report to the Congress annually, during the first 3 years following the date of the enactment of this subsection, concerning investigations and prosecutions under section 1030(a)(5) of title 18, United States Code.
+(h) The Attorney General and the Secretary of the Treasury shall report to the Congress annually, during the first 3 years following the date of the enactment of this subsection, concerning investigations and prosecutions under subsection (a)(5).
 
-(Added Pub. L. 98–473, title II, §2102(a), Oct. 12, 1984, 98 Stat. 2190; amended Pub. L. 99–474, §2, Oct. 16, 1986, 100 Stat. 1213; Pub. L. 100–690, title VII, §7065, Nov. 18, 1988, 102 Stat. 4404; Pub. L. 101–73, title IX, §962(a)(5), Aug. 9, 1989, 103 Stat. 502; Pub. L. 101–647, title XII, §1205(e), title XXV, §2597(j), title XXXV, §3533, Nov. 29, 1990, 104 Stat. 4831, 4910, 4925; Pub. L. 103–322, title XXIX, §290001(b)–(f), Sept. 13, 1994, 108 Stat. 2097–2099.)
+(Added Pub. L. 98–473, title II, §2102(a), Oct. 12, 1984, 98 Stat. 2190; amended Pub. L. 99–474, §2, Oct. 16, 1986, 100 Stat. 1213; Pub. L. 100–690, title VII, §7065, Nov. 18, 1988, 102 Stat. 4404; Pub. L. 101–73, title IX, §962(a)(5), Aug. 9, 1989, 103 Stat. 502; Pub. L. 101–647, title XII, §1205(e), title XXV, §2597(j), title XXXV, §3533, Nov. 29, 1990, 104 Stat. 4831, 4910, 4925; Pub. L. 103–322, title XXIX, §290001(b)–(f), Sept. 13, 1994, 108 Stat. 2097–2099; Pub. L. 104–294, title II, §201, title VI, §604(b)(36), Oct. 11, 1996, 110 Stat. 3491, 3508.)
 
 #### References in Text
 
 Section 11 of the Atomic Energy Act of 1954, referred to in subsec. (a)(1), is classified to section 2014 of Title 42, The Public Health and Welfare.
 
-The Fair Credit Reporting Act, referred to in subsec. (a)(2), is title VI of Pub. L. 90–321, as added by Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1127, as amended, which is classified generally to subchapter III (§1681 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 15 and Tables.
+The Fair Credit Reporting Act, referred to in subsec. (a)(2)(A), is title VI of Pub. L. 90–321, as added by Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1127, as amended, which is classified generally to subchapter III (§1681 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 15 and Tables.
 
 The Farm Credit Act of 1971, referred to in subsec. (e)(4)(E), is Pub. L. 92–181, Dec. 10, 1971, 85 Stat. 583, as amended, which is classified generally to chapter 23 (§2001 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 2001 of Title 12 and Tables.
 
@@ -133,6 +133,54 @@ Section 25 of the Federal Reserve Act, referred to in subsec. (e)(4)(I), is clas
 The date of the enactment of this subsection, referred to in subsec. (h), is the date of enactment of Pub. L. 103–322, which was approved Sept. 13, 1994.
 
 #### Amendments
+
+1996—Subsec. (a)(1). Pub. L. 104–294, §201(1)(A), substituted “having knowingly accessed” for “knowingly accesses”, “exceeding authorized access” for “exceeds authorized access”, “such conduct having obtained information” for “such conduct obtains information”, and “could be used to the injury of the United States” for “is to be used to the injury of the United States”, struck out “the intent or” before “reason to believe”, and inserted before semicolon at end “willfully communicates, delivers, transmits, or causes to be communicated, delivered, or transmitted, or attempts to communicate, deliver, transmit or cause to be communicated, delivered, or transmitted the same to any person not entitled to receive it, or willfully retains the same and fails to deliver it to the officer or employee of the United States entitled to receive it”.
+
+Subsec. (a)(2). Pub. L. 104–294, §201(1)(B), inserted dash after “thereby obtains”, redesignated remainder of par. (2) as subpar. (A), and added subpars. (B) and (C).
+
+Subsec. (a)(3). Pub. L. 104–294, §201(1)(C), inserted “nonpublic” before “computer of a department or agency”, struck out “adversely” after “and such conduct”, and substituted “that use by or for the Government of the United States” for “the use of the Government's operation of such computer”.
+
+Subsec. (a)(4). Pub. L. 104–294, §201(1)(D), substituted “protected computer” for “Federal interest computer” and inserted “and the value of such use is not more than $5,000 in any 1-year period” before semicolon at end.
+
+Subsec. (a)(5). Pub. L. 104–294, §201(1)(E), inserted par. (5) and struck out former par. (5) which related to fraud in connection with computers in causing transmission of program, information, code, or command to a computer or computer system in interstate or foreign commerce which damages such system, program, information, or code, or causes a withholding or denial of use of hardware or software, or transmits viruses which causes damage in excess of $1,000 or more during any one-year period, or modifies or impairs medical examination, diagnosis, treatment or care of individuals.
+
+Subsec. (a)(5)(B)(ii)(II)(bb). Pub. L. 104–294, §604(b)(36)(A), which directed insertion of “or” at end of subsec., could not be executed because no subsec. (a)(5)(B)(ii)(II)(bb) existed subsequent to amendment by Pub. L. 104–294, §201(1)(E). See above.
+
+Subsec. (a)(7). Pub. L. 104–294, §201(1)(F), added par. (7).
+
+Subsec. (c)(1). Pub. L. 104–294, §201(2)(A), substituted “under this section” for “under such subsection” in subpars. (A) and (B).
+
+Subsec. (c)(1)(B). Pub. L. 104–294, §604(b)(36)(B), struck out “and” after semicolon at end.
+
+Subsec. (c)(2)(A). Pub. L. 104–294, §201(2)(B)(i), inserted “, (a)(5)(C),” after “(a)(3)” and substituted “under this section” for “under such subsection”.
+
+Subsec. (c)(2)(B). Pub. L. 104–294, §201(2)(B)(iii), added subpar. (B). Former subpar. (B) redesignated (C).
+
+Subsec. (c)(2)(C). Pub. L. 104–294, §201(2)(B)(iv), substituted “under this section” for “under such subsection” and inserted “and” at end.
+
+Pub. L. 104–294, §201(2)(B)(ii), redesignated subpar. (B) as (C).
+
+Subsec. (c)(3)(A). Pub. L. 104–294, §201(2)(C)(i), substituted “(a)(4), (a)(5)(A), (a)(5)(B), or (a)(7)” for “(a)(4) or (a)(5)(A)” and “under this section” for “under such subsection”.
+
+Subsec. (c)(3)(B). Pub. L. 104–294, §201(2)(C)(ii), substituted “(a)(4), (a)(5)(A), (a)(5)(B), (a)(5)(C), or (a)(7)” for “(a)(4) or (a)(5)” and “under this section” for “under such subsection”.
+
+Subsec. (c)(4). Pub. L. 104–294, §201(2)(D), struck out par. (4) which read as follows: “a fine under this title or imprisonment for not more than 1 year, or both, in the case of an offense under subsection (a)(5)(B).”
+
+Subsec. (d). Pub. L. 104–294, §201(3), inserted “subsections (a)(2)(A), (a)(2)(B), (a)(3), (a)(4), (a)(5), and (a)(6) of” before “this section” in first sentence.
+
+Subsec. (e)(2). Pub. L. 104–294, §201(4)(A)(i), substituted “protected” for “Federal interest” in introductory provisions.
+
+Subsec. (e)(2)(A). Pub. L. 104–294, §201(4)(A)(ii), substituted “that use by or for the financial institution or the Government” for “the use of the financial institution's operation or the Government's operation of such computer”.
+
+Subsec. (e)(2)(B). Pub. L. 104–294, §201(4)(A)(iii), added subpar. (B) and struck out former subpar. (B) which read as follows: “which is one of two or more computers used in committing the offense, not all of which are located in the same State;”.
+
+Subsec. (e)(8), (9). Pub. L. 104–294, §201(4)(B)–(D), added pars. (8) and (9).
+
+Subsec. (g). Pub. L. 104–294, §604(b)(36)(C), substituted “violation of this section” for “violation of the section”.
+
+Pub. L. 104–294, §201(5), struck out “, other than a violation of subsection (a)(5)(B),” before “may maintain a civil action” and substituted “involving damage as defined in subsection (e)(8)(A)” for “of any subsection other than subsection (a)(5)(A)(ii)(II)(bb) or (a)(5)(B)(ii)(II)(bb)”.
+
+Subsec. (h). Pub. L. 104–294, §604(b)(36)(D), substituted “subsection (a)(5)” for “section 1030(a)(5) of title 18, United States Code” before period at end.
 
 1994—Subsec. (a)(3). Pub. L. 103–322, §290001(f), inserted “adversely” before “affects the use of the Government's”.
 
@@ -168,7 +216,7 @@ Subsec. (e)(4)(C) to (H). Pub. L. 101–73, §962(a)(5)(B), (C), redesignated su
 
 Subsec. (a)(1). Pub. L. 99–474, §2(c), substituted “or exceeds authorized access” for “, or having accessed a computer with authorization, uses the opportunity such access provides for purposes to which such authorization does not extend”.
 
-Subsec. (a)(2). Pub. L. 99–474, §2(a), (c), substituted “intentionally” for “knowingly”, substituted “or exceeds authorized access” for “, or having accessed a computer with authorization, uses the opportunity such access provides for purposes to which such authorization does not extend”, struck out “as such terms are defined in the Right to Financial Privacy Act of 1978 (12 U.S.C. 3401 et seq.),” after “financial institution,”, inserted “or of a card issuer as defined in section 1602(n) of title 15,” and struck out “or” appearing at end.
+Subsec. (a)(2). Pub. L. 99–474, §2(a), (c), substituted “intentionally” for “knowingly”, substituted “or exceeds authorized access” for “, or having accessed a computer with authorization, uses the opportunity such access provides for purposes to which such authorization does not extend”, struck out “as such terms are defined in the Right to Financial Privacy Act of 1978 (12U.S.C. 3401 et seq.),” after “financial institution,”, inserted “or of a card issuer as defined in section 1602(n) of title 15,” and struck out “or” appearing at end.
 
 Subsec. (a)(3). Pub. L. 99–474, §2(b)(1), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “knowingly accesses a computer without authorization, or having accessed a computer with authorization, uses the opportunity such access provides for purposes to which such authorization does not extend, and by means of such conduct knowingly uses, modifies, destroys, or discloses information in, or prevents authorized use of, such computer, if such computer is operated for or on behalf of the Government of the United States and such conduct affects such operation;”.
 
@@ -204,9 +252,13 @@ This section is referred to in sections 981, 982, 2256, 3239 of this title; titl
 
 <i><sup>2</sup></i><i> So in original. The word “and” probably should not appear.</i>
 
-<i><sup>3</sup></i><i> See References in Text note below.</i>
+<i><sup>3</sup></i><i> So in original. Probably should be followed by “and”.</i>
 
-<i><sup>4</sup></i><i> So in original. The period probably should be a semicolon.</i>
+<i><sup>4</sup></i><i> So in original. The “; and” probably should be a period.</i>
 
-<i><sup>5</sup></i><i> So in original. Probably should be “this”.</i>
+<i><sup>5</sup></i><i> See References in Text note below.</i>
+
+<i><sup>6</sup></i><i> So in original. The period probably should be a semicolon.</i>
+
+<i><sup>7</sup></i><i> So in original. The word “and” probably should not appear.</i>
 

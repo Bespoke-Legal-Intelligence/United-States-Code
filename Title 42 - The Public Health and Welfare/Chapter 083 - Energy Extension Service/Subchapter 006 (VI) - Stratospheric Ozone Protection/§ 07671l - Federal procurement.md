@@ -60,7 +60,7 @@ Sec. 3. <i>Policy</i>. It is the policy of the Federal Government that Federal a
 
 &emsp;(iii) requiring that new contracts provide that any acquired products containing or manufactured with Class I or Class II substances be labeled in accordance with section 611 of the Clean Air Act Amendments \[probably means section 611 of the Clean Air Act, 42 U.S.C. 7671j\].
 
-Sec. 4. <i>Responsibilities</i>. Not later than 6 months after the effective date of this Executive order, each Federalagency, where feasible, shall have in place practices that, where economically practicable, minimize the procurement of Class I substances. Agencies also shall be aware of the phaseout schedule for Class II substances. Agency practices may include, but are not limited to:
+Sec. 4. <i>Responsibilities</i>. Not later than 6 months after the effective date of this Executive order, each Federal agency, where feasible, shall have in place practices that, where economically practicable, minimize the procurement of Class I substances. Agencies also shall be aware of the phaseout schedule for Class II substances. Agency practices may include, but are not limited to:
 
 (a) altering existing equipment and/or procedures to make use of safe alternatives;
 

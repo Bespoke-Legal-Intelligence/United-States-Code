@@ -14,7 +14,7 @@ Loans under this section shall be on such terms and conditions as the Governor o
 
 #### (2) Preference in loans; election of loans for telephone system with certain subscriber density per mile
 
-&emsp;Funds to be loaned under this chapter to any borrower shall be loaned under this section in preference to section 922 of this title if the borrower is eligible for such a loan and funds are available therefor. Notwithstanding the foregoing or any other provision of law, allloans made pursuant to this chapter for facilities for telephone systems with an average subscriber density of three or fewer per mile shall be made under section 922 of this title; but this provision shall not preclude the making of such loans from the telephone bank at the election of the borrower.
+&emsp;Funds to be loaned under this chapter to any borrower shall be loaned under this section in preference to section 922 of this title if the borrower is eligible for such a loan and funds are available therefor. Notwithstanding the foregoing or any other provision of law, all loans made pursuant to this chapter for facilities for telephone systems with an average subscriber density of three or fewer per mile shall be made under section 922 of this title; but this provision shall not preclude the making of such loans from the telephone bank at the election of the borrower.
 
 #### (3) Interest rate
 
@@ -32,7 +32,7 @@ Loans under this section shall be on such terms and conditions as the Governor o
 
 &emsp;&emsp;(i) The aggregate of all amounts received by the telephone bank during the fiscal year from the issuance of class A stock, multiplied by the rate of return payable by the telephone bank during the fiscal year, as specified in section 946(c) of this title, to holders of class A stock, which product is divided by the aggregate of the amounts advanced by the telephone bank during the fiscal year.
 
-&emsp;&emsp;(ii) The aggregate of all amounts received by the telephone bank during the fiscal year from the issuance of class B stock, multiplied by the rate at which dividends are payable by the telephone bank during the fiscal year, as specified in section 946(d) of this title, to holders of class B stock, which product is divided by the aggregate of the amounts advanced by the telephone bank during the fiscal year. For purposes of the calculation under this subparagraph, such rate shall be zero.
+&emsp;&emsp;(ii) The aggregate of all amounts received by the telephone bank during the fiscal year from the issuance of class B stock, multiplied by the rate at which dividends are payable by the telephone bank during the fiscalyear, as specified in section 946(d) of this title, to holders of class B stock, which product is divided by the aggregate of the amounts advanced by the telephone bank during the fiscal year. For purposes of the calculation under this subparagraph, such rate shall be zero.
 
 &emsp;&emsp;(iii) The aggregate of all amounts received by the telephone bank during the fiscal year from the issuance of class C stock, multiplied by the rate at which dividends are payable by the telephone bank during the fiscal year, under section 946(e) of this title, to holders of class C stock, which product is divided by the aggregate of the amounts advanced by the telephone bank during the fiscal year.
 
@@ -56,55 +56,55 @@ Loans under this section shall be on such terms and conditions as the Governor o
 
 &nbsp;&nbsp;Fiscal year 1974
 
-&nbsp;&nbsp;5.01 percent&nbsp;
+&nbsp;&nbsp;5.01 percent&nbsp;&nbsp;
 
 &nbsp;&nbsp;Fiscal year 1975
 
-&nbsp;&nbsp;5.85 percent&nbsp;
+&nbsp;&nbsp;5.85 percent&nbsp;&nbsp;
 
 &nbsp;&nbsp;Fiscal year 1976
 
-&nbsp;&nbsp;5.33 percent&nbsp;
+&nbsp;&nbsp;5.33 percent&nbsp;&nbsp;
 
 &nbsp;&nbsp;Fiscal year 1977
 
-&nbsp;&nbsp;5.00 percent&nbsp;
+&nbsp;&nbsp;5.00 percent&nbsp;&nbsp;
 
 &nbsp;&nbsp;Fiscal year 1978
 
-&nbsp;&nbsp;5.87 percent&nbsp;
+&nbsp;&nbsp;5.87 percent&nbsp;&nbsp;
 
 &nbsp;&nbsp;Fiscal year 1979
 
-&nbsp;&nbsp;5.93 percent&nbsp;
+&nbsp;&nbsp;5.93 percent&nbsp;&nbsp;
 
 &nbsp;&nbsp;Fiscal year 1980
 
-&nbsp;&nbsp;8.10 percent&nbsp;
+&nbsp;&nbsp;8.10 percent&nbsp;&nbsp;
 
 &nbsp;&nbsp;Fiscal year 1981
 
-&nbsp;&nbsp;9.46 percent&nbsp;
+&nbsp;&nbsp;9.46 percent&nbsp;&nbsp;
 
 &nbsp;&nbsp;Fiscal year 1982
 
-&nbsp;&nbsp;8.39 percent&nbsp;
+&nbsp;&nbsp;8.39 percent&nbsp;&nbsp;
 
 &nbsp;&nbsp;Fiscal year 1983
 
-&nbsp;&nbsp;6.99 percent&nbsp;
+&nbsp;&nbsp;6.99 percent&nbsp;&nbsp;
 
 &nbsp;&nbsp;Fiscal year 1984
 
-&nbsp;&nbsp;6.55 percent&nbsp;
+&nbsp;&nbsp;6.55 percent&nbsp;&nbsp;
 
 &nbsp;&nbsp;Fiscal year 1985
 
-&nbsp;&nbsp;5.00 percent&nbsp;
+&nbsp;&nbsp;5.00 percent&nbsp;&nbsp;
 
 &nbsp;&nbsp;Fiscal year 1986
 
-&nbsp;&nbsp;5.00 percent&nbsp;
+&nbsp;&nbsp;5.00 percent&nbsp;&nbsp;
 
 &nbsp;&nbsp;Fiscal year 1987
 
@@ -112,7 +112,7 @@ Loans under this section shall be on such terms and conditions as the Governor o
 
 > &emsp;For purposes of this paragraph, the term “fiscal year” means the 12-month period ending on September 30 of the designated year.
 
-&emsp;(F)(i) Notwithstanding subparagraph (B), if a borrower holds a commitment for a loan under this section made on or after October 1, 1987, and before December 22, 1987, part or all of the proceeds of which have not been advanced asof December 22, 1987, the borrower may, until the later of the date the next advance under the loan commitment is made or 90 days after December 22, 1987, elect to have the interest rate specified in the loan commitment apply to the unadvanced portion of the loan in lieu of the rate which (but for this clause) would apply to the unadvanced portion under this paragraph. If any borrower makes an election under this clause with respect to a loan, the Governor shall adjust the interest rate which applies to the unadvanced portion of the loan accordingly.
+&emsp;(F)(i) Notwithstanding subparagraph (B), if a borrower holds a commitment for a loan under this section made on or after October 1, 1987, and before December 22, 1987, part or all of the proceeds of which have not been advanced as of December 22, 1987, the borrower may, until the later of the date the next advance under the loan commitment is made or 90 days after December 22, 1987, elect to have the interest rate specified in the loan commitment apply to the unadvanced portion of the loan in lieu of the rate which (but for this clause) would apply to the unadvanced portion under this paragraph. If any borrower makes an election under this clause with respect to a loan, the Governor shall adjust the interest rate which applies to the unadvanced portion of the loan accordingly.
 
 &emsp;(ii)(I) If the telephone bank, pursuant to section 947(b) of this title, issues telephone debentures on any date to refinance telephone debentures or other obligations of the telephone bank, the telephone bank shall, in addition to any interest rate reduction required by any other provision of this paragraph, for the period applicable to the advance, reduce the interest rate charged on each advance made under this section during the fiscal year in which the refinanced debentures or other obligations were originally issued by the amount applicable to the advance.
 
@@ -154,7 +154,7 @@ Loans under this section shall be on such terms and conditions as the Governor o
 
 #### (8) Prepayment without penalty
 
-&emsp;(A) A borrower with a loan from the Rural Telephone Bank may prepay such loan (or anypart thereof) by paying the face amount thereof without being required to pay the prepayment penalty set forth in the note covering such loan, except for any prepayment penalty provided for in a loan agreement entered into before November 1, 1993.
+&emsp;(A) A borrower with a loan from the Rural Telephone Bank may prepay such loan (or any part thereof) by paying the face amount thereof without being required to pay the prepayment penalty set forth in the note covering such loan, except for any prepayment penalty provided for in a loan agreement entered into before November 1, 1993.
 
 &emsp;(B) If a borrower prepays part or all of a loan made under this section, then, notwithstanding section 947(b) of this title, the Governor of the telephone bank shall—
 
@@ -176,7 +176,7 @@ Loans under this section shall be on such terms and conditions as the Governor o
 
 #### (c) Payment schedule; adjustment; loan period
 
-The Governor of the telephone bank is authorized under rules established by the Telephone Bank Board to adjust, on an amortized basis, the schedule of payments of interest or principal of loans made under this section upon his determination that with such readjustment there is reasonable assurance of repayment: <i>Provided, however,</i> That no adjustment shall extend the period of such loans beyond fifty years.
+The Governor of the telephone bank is authorized under rules established by the Telephone Bank Board to adjust, on an amortized basis, the schedule of payments of interest or principal of loans made under this section upon his determination that with such readjustment there is reasonable assurance of repayment: <i>Provided, however</i>, That no adjustment shall extend the period of such loans beyond fifty years.
 
 #### (d) Borrowers to determine amortization period for rural telephone bank loans
 
@@ -246,7 +246,7 @@ Section 1411(a) of Pub. L. 100–203 provided that: “Congress finds that—
 
 &emsp;“(2) borrowers will be able to seek redress under section 408(b)(3)(G) of the Rural Electrification Act of 1936 \[subsec. (b)(3)(G) of this section\], as added by subsection (c), or may leave the Rural Telephone Bank, but in no case may the Governor of the Bank issue regulations requiring any penalty from borrowers seeking to retire debt prior to maturity; and
 
-&emsp;“(3) any reduction in Federal Government expenditures in the operation of the Rural Telephone Bank, from borrowers’ conduct resulting from the implementation of the amendments made by subsections (b) and (c) \[amending this section\], should be included in all calculations of the budget of the United States Government, authorized under the Balanced Budget and Emergency Deficit Control Reaffirmation Act of 1987 \[title I of Pub. L. 100–119, see Short Title of 1987 Amendment note set out under section 901 of Title 2, The Congress\].”
+&emsp;“(3) any reduction in Federal Government expenditures in the operation of the Rural Telephone Bank,from borrowers’ conduct resulting from the implementation of the amendments made by subsections (b) and (c) \[amending this section\], should be included in all calculations of the budget of the United States Government, authorized under the Balanced Budget and Emergency Deficit Control Reaffirmation Act of 1987 \[title I of Pub. L. 100–119, see Short Title of 1987 Amendment note set out under section 901 of Title 2, The Congress\].”
 
 #### Prepayment Regulations
 

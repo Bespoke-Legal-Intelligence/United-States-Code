@@ -55,11 +55,7 @@
 | (f) | Personnel of other agencies. |
 | (g) | Advisory boards. |
 | (h) | Employment of noncitizens. |
-| [5816a.](Subchapter%20001%20%28I%29%20-%20Energy%20Research%20and%20Development%20Administration/%C2%A7%2005816a%20-%20Financial%20statements%20of%20Department%20of%20Energy%20officers%20and%20employees.md) | Financial statements of Department of Energy officers and employees. |
-| (a) | Annual filing requirement. |
-| (b) | Monitoring and enforcement; reports. |
-| (c) | Exemption for occupants of nonpolicymaking positions. |
-| (d) | Penalty. |
+| [5816a.](Subchapter%20001%20%28I%29%20-%20Energy%20Research%20and%20Development%20Administration/%C2%A7%2005816a%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93106%2C%20div.%20D%2C%20title%20XLIII%2C%20%C2%A74304%28b%29%287%29%2C%20Feb.%2010%2C%201996%2C%20110%20Stat.%20664.md) | Repealed. |
 | [5817\.](Subchapter%20001%20%28I%29%20-%20Energy%20Research%20and%20Development%20Administration/%C2%A7%2005817%20-%20Powers%20of%20Administrator.md) | Powers of Administrator. |
 | (a) | Research and development. |
 | (b) | Facilities and real property. |

@@ -76,7 +76,7 @@ In granting or withholding approval or consent under subsection (b) of this sect
 
 #### (3) Penalty
 
-&emsp;Whoever knowingly violates paragraph (1) or (2) shall be fined not more than $1,000,000 for each day such prohibition is violated or imprisoned for not more than 5 years, or both.
+&emsp;Whoever knowingly violates paragraph (1) or (2) shall be fined not more than $1,000,000 foreach day such prohibition is violated or imprisoned for not more than 5 years, or both.
 
 #### (e) Security standards; reports; penalty
 
@@ -110,7 +110,7 @@ Notwithstanding any other provision of law, the Board may authorize a merger or 
 
 #### (i) Emergency purchase of assets; conversion to insured deposits
 
-(1) Notwithstanding any other provision of this chapter or of State law, the Board may authorize an institution whose deposits or accounts are insured by the Federal Deposit Insurance Corporation or the Federal Savings andLoan Insurance Corporation to purchase any of the assets of or assume any of the liabilities of an insured credit union which is insolvent or in danger of insolvency, except that prior to exercising this authority the Board must attempt to effect the merger or consolidation of an insured credit union which is insolvent or in danger of insolvency with another insured credit union, as provided in subsection (h) of this section.
+(1) Notwithstanding any other provision of this chapter or of State law, the Board may authorize an institution whose deposits or accounts are insured by the Federal Deposit Insurance Corporation or the Federal Savings and Loan Insurance Corporation to purchase any of the assets of or assume any of the liabilities of an insured credit union which is insolvent or in danger of insolvency, except that prior to exercising this authority the Board must attempt to effect the merger or consolidation of an insured credit union which is insolvent or in danger of insolvency with another insured credit union, as provided in subsection (h) of this section.
 
 (2) For purposes of the authority contained in paragraph (1), insured accounts of the credit union may upon consummation of the purchase and assumption be converted to insured deposits or other comparable accounts in the acquiring institution, and the Board and the National Credit Union Share Insurance Fund shall be absolved of any liability to the credit union's members with respect to those accounts.
 
@@ -176,7 +176,7 @@ Section 141(a) of Pub. L. 97–320, set out as a note under section 1464 of this
 
 #### Definition of “State”
 
-For purposes of subsec. (g) of this section, the term “State” to include the several States, the Commonwealth of Puerto Rico, the District of Columbia, Guam,the Trust Territories of the Pacific Islands, the Northern Mariana Islands, and the Virgin Islands, see section 527 of Pub. L. 96–221, set out as a note under section 1735f–7a of this title.
+For purposes of subsec. (g) of this section, the term “State” to include the several States, the Commonwealth of Puerto Rico, the District of Columbia, Guam, the Trust Territories of the Pacific Islands, the Northern Mariana Islands, and the Virgin Islands, see section 527 of Pub. L. 96–221, set out as a note under section 1735f–7a of this title.
 
 #### Choice of Highest Applicable Interest Rate
 

@@ -52,15 +52,19 @@ The amount of the unused credit which may be taken into account under section 38
 
 &emsp;No portion of the unused business credit which is attributable to the credit determined under section 1396 (relating to empowerment zone employment credit) may be carried to any taxable year ending before January 1, 1994.
 
-#### (5) No carryback of section 45 credit before enactment
+#### (5) No carryback of section 45A credit before enactment
 
 &emsp;No portion of the unused business credit for any taxable year which is attributable to the Indian employment credit determined under section 45A may be carried to a taxable year ending before the date of the enactment of section 45A.
 
-#### (6) No carryback of section 45 credit before enactment
+#### (6) No carryback of section 45B credit before enactment
 
 &emsp;No portion of the unused business credit for any taxable year which is attributable to the employer social security credit determined under section 45B may be carried back to a taxable year ending before the date of the enactment of section 45B.
 
-(Added Pub. L. 98–369, div. A, title IV, §473, July 18, 1984, 98 Stat. 828; amended Pub. L. 99–514, title II, §231(d)(3)(C)(i), title XVIII, §1846, Oct. 22, 1986, 100 Stat. 2179, 2856; Pub. L. 100–647, title I, §1002(<i>l</i>)(26), Nov. 10, 1988, 102 Stat. 3381; Pub. L. 101–508, title XI, §§11511(b)(2), 11611(b)(2), 11801(a)(2), Nov. 5, 1990, 104 Stat. 1388–485, 1388–503, 1388–520; Pub. L. 102–486, title XIX, §1914(c), Oct. 24, 1992, 106 Stat. 3023; Pub. L. 103–66, title XIII, §§13302(a)(2), 13322(d), 13443(b)(2), Aug. 10, 1993, 107 Stat. 555, 563, 569.)
+#### (7) No carryback of section 45C credit before July 1, 1996
+
+&emsp;No portion of the unused business credit for any taxable year which is attributable to the orphan drug credit determined under section 45C may be carried back to a taxable year ending before July 1, 1996.
+
+(Added Pub. L. 98–369, div. A, title IV, §473, July 18, 1984, 98 Stat. 828; amended Pub. L. 99–514, title II, §231(d)(3)(C)(i), title XVIII, §1846, Oct. 22, 1986, 100 Stat. 2179, 2856; Pub. L. 100–647, title I, §1002(<i>l</i>)(26), Nov. 10, 1988, 102 Stat. 3381; Pub. L. 101–508, title XI, §§11511(b)(2), 11611(b)(2), 11801(a)(2), Nov. 5, 1990, 104 Stat. 1388–485, 1388–503, 1388–520; Pub. L. 102–486, title XIX, §1914(c), Oct. 24, 1992, 106 Stat. 3023; Pub. L. 103–66, title XIII, §§13302(a)(2), 13322(d), 13443(b)(2), Aug. 10, 1993, 107 Stat. 555, 563, 569; Pub. L. 104–188, title I, §§1205(c), 1703(n)(1), Aug. 20, 1996, 110 Stat. 1775, 1877.)
 
 #### References in Text
 
@@ -77,6 +81,12 @@ A prior section 39 was renumbered section 34 of this title.
 Another prior section 39 was renumbered section 35 of this title.
 
 #### Amendments
+
+1996—Subsec. (d)(5). Pub. L. 104–188, §1703(n)(1)(A), substituted “45A” for “45” in heading.
+
+Subsec. (d)(6). Pub. L. 104–188, §1703(n)(1)(B), substituted “45B” for “45” in heading.
+
+Subsec. (d)(7). Pub. L. 104–188, §1205(c), added par. (7).
 
 1993—Subsec. (d)(4). Pub. L. 103–66, §13302(a)(2), added par. (4).
 
@@ -100,15 +110,21 @@ Subsec. (d)(2)(B). Pub. L. 99–514, §1846(2), substituted “as defined in sec
 
 Subsec. (d)(3). Pub. L. 99–514, §231(d)(3)(C)(i), added par. (3).
 
+#### Effective Date of 1996 Amendment
+
+Amendment by section 1205(c) of Pub. L. 104–188 applicable to amounts paid or incurred in taxable years ending after June 30, 1996, see section 1205(e) of Pub. L. 104–188, set out as a note under section 29 of this title.
+
+Section 1703(<i>o</i>) of Pub. L. 104–188 provided that: “Any amendment made by this section \[amending this section and sections 40, 59, 108, 117, 135, 143, 163, 904, 956A, 958, 1017, 1044, 1201, 1245, 1297, 1394, 1397B, 1561, 4001, 6033, 6427, 6501, 6655, and 9502 of this title, renumbering section 6714 of this title as section 6715, and amending provisions set out as notes under sections 38, 42, 197, and 1258 of this title and section 401 of Title 42, The Public Health and Welfare\] shall take effect as if included in the provision of the Revenue Reconciliation Act of 1993 \[Pub. L. 103–66, title XIII, ch. I, §§13001–13444\] to which such amendment relates.”
+
 #### Effective Date of 1993 Amendment
 
 Amendment by section 13322(d) of Pub. L. 103–66 applicable to wages paid or incurred after Dec. 31, 1993, see section 13322(f) of Pub. L. 103–66, set out as a note under section 38 of this title.
 
-Amendment by section 13443(b)(2) of Pub. L. 103–66 applicable with respect to taxes paid after Dec. 31, 1993, see section 13443(d) of Pub. L. 103–66, set out as a note under section 38 of this title.
+Amendment by section 13443(b)(2) of Pub. L. 103–66 applicable with respect to taxes paid after Dec. 31, 1993, with respect to services performed before, on, or after such date, see section 13443(d) of Pub. L. 103–66, as amended, set out as a note under section 38 of this title.
 
 #### Effective Date of 1992 Amendment
 
-Amendment by Pub. L. 102–486 applicable to taxable years ending after Dec. 31, 1992, see section 1914(e) ofPub. L. 102–486, set out as a note under section 38 of this title.
+Amendment by Pub. L. 102–486 applicable to taxable years ending after Dec. 31, 1992, see section 1914(e) of Pub. L. 102–486, set out as a note under section 38 of this title.
 
 #### Effective Date of 1990 Amendment
 

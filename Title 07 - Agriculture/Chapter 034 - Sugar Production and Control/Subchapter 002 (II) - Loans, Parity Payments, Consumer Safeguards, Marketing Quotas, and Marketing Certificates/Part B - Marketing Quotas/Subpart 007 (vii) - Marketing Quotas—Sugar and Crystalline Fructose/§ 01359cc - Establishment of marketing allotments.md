@@ -64,13 +64,17 @@ The allotment for sugar derived from sugarcane shall be further allotted, among 
 
 #### (3) Reductions
 
-&emsp;Whenever a marketing allotment for a fiscal year is required to be reduced during the fiscal year under this subsection, if the quantity of sugar marketed, including sugar pledged as collateral for a price support loan under section 1446g of this title, for the fiscal year at the time of the reduction by any individual processor covered by the allotment exceeds the processor's reduced allocation, the allocation of an allotment, if any, next established for the processor shall be reduced by the quantity of the excess sugar marketed.
+&emsp;Whenever a marketing allotment for a fiscal year is required to be reduced during the fiscal year under this subsection, if the quantity of sugar marketed, including sugar pledged as collateral for a price support loan under section 1446g <sup>1</sup> of this title, for the fiscal year at the time of the reduction by any individual processor covered by the allotment exceeds the processor's reduced allocation, the allocation of an allotment, if any, next established for the processor shall be reduced by the quantity of the excess sugar marketed.
 
 #### (h) Filling cane sugar and beet sugar allotments
 
 Each marketing allotment for cane sugar established under this section may only be filled with sugar processed from domestically grown sugarcane, and each marketing allotment for beet sugar established under this section may only be filled with sugar processed from domestically grown sugar beets.
 
 (Feb. 16, 1938, ch. 30, title III, §359c, as added Nov. 28, 1990, Pub. L. 101–624, title IX, §902, 104 Stat. 3481; amended Dec. 13, 1991, Pub. L. 102–237, title I, §111(e), 105 Stat. 1832.)
+
+#### References in Text
+
+Section 1446g of this title, referred to in subsec. (g)(3), was repealed by Pub. L. 104–127, title I, §171(b)(2)(H), Apr. 4, 1996, 110 Stat. 938.
 
 #### Amendments
 
@@ -84,17 +88,23 @@ Subsec. (g)(1). Pub. L. 102–237, §111(e)(4)(A), added par. (1) and struck out
 
 Subsec. (g)(3). Pub. L. 102–237, §111(e)(4)(B), added par. (3) and struck out former par. (3) which read as follows: “Whenever a marketing allotment for a fiscal year is required to be reduced during the fiscal year under this paragraph—
 
-&emsp;“(A) if the quantity of the sugar marketed, including sugar pledged as collateral for a price support loan under section 1446g of this title, for the fiscal year at the time of the reduction under the allotment by all processors covered by the allotment exceeds the reduced allotment, the quantity of the excess sugar marketed shall be deducted—
+&emsp;“(A) if the quantity of the sugar marketed, including sugar pledged as collateral for a price support loan under section 1446g of this title, for the fiscalyear at the time of the reduction under the allotment by all processors covered by the allotment exceeds the reduced allotment, the quantity of the excess sugar marketed shall be deducted—
 
 &emsp;&emsp;“(i) if beet sugar is involved, from the marketing allotment, if any, next established for beet sugar; or
 
 &emsp;&emsp;“(ii) if cane sugar is involved, from the marketing allotment next established for the State; and
 
-&emsp;“(B) if the quantity of sugar marketed, including sugar pledged as collateral for a price support loanunder section 1446g of this title, for the fiscal year at the time of the reduction by any individual processor covered by the allotment exceeds the processor's reduced allocation, the quantity of the excess sugar marketed shall be deducted from the allocation of an allotment, if any, next established for the processor.”
+&emsp;“(B) if the quantity of sugar marketed, including sugar pledged as collateral for a price support loan under section 1446g of this title, for the fiscal year at the time of the reduction by any individual processor covered by the allotment exceeds the processor's reduced allocation, the quantity of the excess sugar marketed shall be deducted from the allocation of an allotment, if any, next established for the processor.”
 
 Subsec. (h). Pub. L. 102–237, §111(e)(5), added subsec. (h) and struck out former subsec. (h) “Filling sugarcane and sugar beet allotments” which read as follows: “Except as otherwise provided in section 1359ee of this title, each marketing allotment of sugarcane established under this section may only be filled with sugar processed from domestically grown sugarcane, and each marketing allotment of sugar beets established under this section may only be filled with sugar processed from domestically grown sugar beets.”
+
+#### Inapplicability of Section
+
+Section inapplicable to 1996 through 2002 crops of loan commodities, peanuts, and sugar and inapplicable to milk during period beginning Apr. 4, 1996, and ending Dec. 31, 2002, see section 7301(a)(1)(E) of this title.
 
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 1359bb, 1359dd, 1359ff, 1359jj of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

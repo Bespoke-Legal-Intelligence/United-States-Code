@@ -20,7 +20,7 @@ The Director may impose a civil money penalty in accordance with this section on
 
 #### (2) Second tier
 
-&emsp;The Director may impose a penalty on an executive officer or director in an amount not to exceed $10,000, or on an enterprise in an amount not to exceed $25,000, for each day that a violation or conduct described in subsection (a) of this section continues, if the Director finds that the violation or conduct—
+&emsp;The Director may impose a penalty on an executive officer or director in an amount notto exceed $10,000, or on an enterprise in an amount not to exceed $25,000, for each day that a violation or conduct described in subsection (a) of this section continues, if the Director finds that the violation or conduct—
 
 &emsp;&emsp;(A) is part of a pattern of misconduct; or
 
@@ -38,7 +38,7 @@ The Director may impose a civil money penalty in accordance with this section on
 
 &emsp;&emsp;(A) shall provide for the Director to notify the enterprise in writing of the Director's determination to impose the penalty, which shall be made on the record;
 
-&emsp;&emsp;(B) shall provide for the imposition of a penalty only after the enterprise, executiveofficer, or director has been given an opportunity for a hearing on the record pursuant to section 4633 of this title; and
+&emsp;&emsp;(B) shall provide for the imposition of a penalty only after the enterprise, executive officer, or director has been given an opportunity for a hearing on the record pursuant to section 4633 of this title; and
 
 &emsp;&emsp;(C) may provide for review by the Director of any determination or order, or interlocutory ruling, arising from a hearing.
 

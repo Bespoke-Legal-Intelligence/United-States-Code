@@ -38,7 +38,9 @@ Collection by Other Governmental Heads.—The head of a department, agency, or i
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

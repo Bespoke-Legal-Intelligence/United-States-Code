@@ -10,7 +10,7 @@ In negotiating a contract under this section for the development and delivery of
 
 &emsp;(1) seek, as a fundamental objective, to have Landsat 7 operational by the expected end of the design life of Landsat 6;
 
-&emsp;(2) seek to ensure data continuity by the development and delivery of a satellite which is,at a minimum, functionally equivalent to the Landsat 6 satellite; and
+&emsp;(2) seek to ensure data continuity by the development and delivery of a satellite which is, at a minimum, functionally equivalent to the Landsat 6 satellite; and
 
 &emsp;(3) seek to incorporate in Landsat 7 any performance improvements required to meet United States Government needs that would not jeopardize data continuity.
 

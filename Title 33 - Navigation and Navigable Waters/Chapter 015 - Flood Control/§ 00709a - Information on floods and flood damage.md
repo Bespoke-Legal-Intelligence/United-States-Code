@@ -22,7 +22,7 @@ The Secretary of the Army is authorized to expend not to exceed $15,000,000 per 
 
 1970—Subsec. (b). Pub. L. 91–611 substituted “$11,000,000” for “$7,000,000”.
 
-1966—Subsec. (a). Pub. L. 89–789, in amending subsec. (a) generally, substituted “political subdivisions thereof” for “municipalities” and “advice” for “engineering advice”, inserted provision “to assure that Federal departments and agencies may take proper cognizance of flood hazards”, provided for guidance of Federal and non-Federal interests and agencies and advice to other Federal agencies, and for surveys and guides upon request of a State or political subdivision in lieu of surveys and studies for specific localities upon request of a State or responsible local governmental agency.
+1966—Subsec. (a). Pub. L. 89–789, in amending subsec. (a) generally, substituted “political subdivisions thereof” for “municipalities” and “advice” for “engineering advice”, inserted provision “to assure that Federal departments and agencies may take proper cognizance of flood hazards”, provided for guidance of Federal andnon-Federal interests and agencies and advice to other Federal agencies, and for surveys and guides upon request of a State or political subdivision in lieu of surveys and studies for specific localities upon request of a State or responsible local governmental agency.
 
 Subsec. (b). Pub. L. 89–789 substituted “expend not to exceed $7,000,000 per fiscal year for the compilation and dissemination of information under this section” for “allot, from any appropriations hereafter made for flood control, sums not to exceed $2,500,000 in any one fiscal year for the compilation and dissemination of such information”.
 

@@ -40,7 +40,7 @@
 
 (g) Shippers’ Export Declarations (or any successor document), wherever located, shall be exempt from public disclosure unless the Secretary determines that such exemption would be contrary to the national interest.
 
-(Added Pub. L. 87–826, §2, Oct. 15, 1962, 76 Stat. 951; amended Pub. L. 93–618, title VI, §609(a), Jan. 3, 1975, 88 Stat. 2074; Pub. L. 96–39, title XI, §1108(a), July 26, 1979, 93 Stat. 313; Pub. L. 96–275, §1, June 17, 1980, 94 Stat. 539; Pub. L. 100–418, title I, §§1214(a)(2), 1931(a), 1932, Aug. 23, 1988, 102 Stat. 1155, 1320.)
+(Added Pub. L. 87–826, §2, Oct. 15, 1962, 76 Stat. 951; amended Pub. L. 93–618, title VI, §609(a), Jan. 3, 1975, 88 Stat. 2074; Pub. L. 96–39, title XI, §1108(a), July 26, 1979, 93 Stat. 313; Pub. L. 96–275, §1, June 17, 1980, 94 Stat. 539; Pub. L. 100–418,title I, §§1214(a)(2), 1931(a), 1932, Aug. 23, 1988, 102 Stat. 1155, 1320.)
 
 #### References in Text
 

@@ -1,12 +1,14 @@
 ### §30115. Certification of compliance
 
-A manufacturer or distributor of a motor vehicle or motor vehicle equipment shall certify tothe distributor or dealer at delivery that the vehicle or equipment complies with applicable motor vehicle safety standards prescribed under this chapter. A person may not issue the certificate if, in exercising reasonable care, the person has reason to know the certificate is false or misleading in a material respect. Certification of a vehicle must be shown by a label or tag permanently fixed to the vehicle. Certification of equipment may be shown by a label or tag on the equipment or on the outside of the container in which the equipment is delivered.
+A manufacturer or distributor of a motor vehicle or motor vehicle equipment shall certify to the distributor or dealer at delivery that the vehicle or equipment complies with applicable motor vehicle safety standards prescribed under this chapter. A person may not issue the certificate if, in exercising reasonable care, the person has reason to know the certificate is false or misleading in a material respect. Certification of a vehicle must be shown by a label or tag permanently fixed to the vehicle. Certification of equipment may be shown by a label or tag on the equipment or on the outside of the container in which the equipment is delivered.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 947.)
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

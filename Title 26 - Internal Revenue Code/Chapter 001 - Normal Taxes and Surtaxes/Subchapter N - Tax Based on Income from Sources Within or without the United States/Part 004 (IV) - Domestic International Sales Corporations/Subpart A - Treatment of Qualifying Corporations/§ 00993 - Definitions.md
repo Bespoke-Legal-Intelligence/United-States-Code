@@ -14,7 +14,7 @@
 
 &emsp;&emsp;(D) gross receipts from the sale, exchange, or other disposition of qualified export assets (other than export property),
 
-&emsp;&emsp;(E) dividends (or amounts includible in gross income under section 951) with respectto stock of a related foreign export corporation (as defined in subsection (e)),
+&emsp;&emsp;(E) dividends (or amounts includible in gross income under section 951) with respect to stock of a related foreign export corporation (as defined in subsection (e)),
 
 &emsp;&emsp;(F) interest on any obligation which is a qualified export asset,
 
@@ -134,7 +134,7 @@ For purposes of this part, the qualified export assets of a corporation are—
 
 &emsp;&emsp;In the case of a borrower who is a domestic film maker and who incurs an obligation to a DISC for the making of a film, and such DISC is engaged in the trade or business of selling, leasing, or renting films which are export property, the limitation described in paragraph (2) may be determined (to the extent provided under regulations prescribed by the Secretary) on the basis of—
 
-&emsp;&emsp;&emsp;(i) the sum of the amounts described in subparagraphs (A), (B), and (C) thereof plus reasonable estimates of all such amounts to be incurred at any time by the borrower with respect to films which are commenced within the taxable year in which the loan is made, and
+&emsp;&emsp;&emsp;(i) the sum of the amounts described in subparagraphs (A), (B), and (C) thereof plus reasonable estimates of all such amounts to be incurred at any time by the borrowerwith respect to films which are commenced within the taxable year in which the loan is made, and
 
 &emsp;&emsp;&emsp;(ii) the percentage which, based on the experience of producers of similar films, the annual receipts of such producers from the sale, lease, or rental of such films outside the United States is of the annual gross receipts of such producers from the sale, lease, or rental of such films.
 
@@ -198,7 +198,7 @@ For purposes of this part, the term “gross receipts” means the total receipt
 
 For purposes of this part, the term “United States” includes the Commonwealth of Puerto Rico and the possessions of the United States.
 
-(Added Pub. L. 92–178, title V, §501, Dec. 10, 1971, 85 Stat. 538; amended Pub. L. 93–482, §3(a), Oct. 26, 1974, 88 Stat. 1456; Pub. L. 94–12, title VI, §603(a), Mar. 29, 1975, 89 Stat. 64; Pub. L. 94–455, title XI, §1101(b), (c), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1658, 1834; Pub. L. 96–39, title II, §202(c)(2), July 26, 1979, 93 Stat. 202; Pub. L. 96–72, §22(c), Sept. 29, 1979, 93 Stat. 535; Pub. L. 98–369, div. A, title VIII, §802(c)(2), July 18, 1984, 98 Stat. 999; Pub. L. 103–66, title XIII, §13239(b), Aug. 10, 1993, 107 Stat. 509.)
+(Added Pub. L. 92–178, title V, §501, Dec. 10, 1971, 85 Stat. 538; amended Pub. L. 93–482, §3(a), Oct. 26, 1974, 88 Stat. 1456; Pub. L. 94–12, title VI, §603(a), Mar. 29, 1975, 89 Stat. 64; Pub. L. 94–455, title XI, §1101(b), (c), title XIX, §1906(b)(13)(A),Oct. 4, 1976, 90 Stat. 1658, 1834; Pub. L. 96–39, title II, §202(c)(2), July 26, 1979, 93 Stat. 202; Pub. L. 96–72, §22(c), Sept. 29, 1979, 93 Stat. 535; Pub. L. 98–369, div. A, title VIII, §802(c)(2), July 18, 1984, 98 Stat. 999; Pub. L. 103–66, title XIII, §13239(b), Aug. 10, 1993, 107 Stat. 509.)
 
 #### References in Text
 
@@ -206,7 +206,7 @@ Sections 3(2)(C) and 7(a) of the Export Administration Act of 1979, referred to 
 
 #### Amendments
 
-1993—Subsec. (c)(2). Pub. L. 103–66, §13239(b)(2), inserted at end “For purposes of subparagraph (E), theterm ‘unprocessed timber’ means any log, cant, or similar form of timber.”
+1993—Subsec. (c)(2). Pub. L. 103–66, §13239(b)(2), inserted at end “For purposes of subparagraph (E), the term ‘unprocessed timber’ means any log, cant, or similar form of timber.”
 
 Subsec. (c)(2)(E). Pub. L. 103–66, §13239(b)(1), added subpar. (E).
 

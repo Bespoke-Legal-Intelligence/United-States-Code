@@ -20,7 +20,7 @@ In applying subsection (a) of this section in the case of any vehicle with an en
 
 &emsp;(A) the Governor of that State submits a request to the Secretary to have such requirements applicable in that State; and
 
-&emsp;(B) the attorney general of that State has found that (i) absent a delegation of authority under a Federal law, the Governor lacks theauthority under the laws of the State to invoke comparable requirements, (ii) under applicable State law, the Governor and other appropriate State officers and employees are not prevented from administering and enforcing such requirements under a delegation of authority pursuant to Federal law, and (iii) if implemented such requirements would not be contrary to State law.
+&emsp;(B) the attorney general of that State has found that (i) absent a delegation of authority under a Federal law, the Governor lacks the authority under the laws of the State to invoke comparable requirements, (ii) under applicable State law, the Governor and other appropriate State officers and employees are not prevented from administering and enforcing such requirements under a delegation of authority pursuant to Federal law, and (iii) if implemented such requirements would not be contrary to State law.
 
 > Subject to paragraph (2), such provisions shall cease to apply in any State if the Governor of the State withdraws any request under subparagraph (A).
 

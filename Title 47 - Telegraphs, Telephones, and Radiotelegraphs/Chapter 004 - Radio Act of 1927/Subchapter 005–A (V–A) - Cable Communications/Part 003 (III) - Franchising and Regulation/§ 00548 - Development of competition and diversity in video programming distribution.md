@@ -26,7 +26,7 @@ It shall be unlawful for a cable operator, a satellite cable programming vendor 
 
 &emsp;&emsp;&emsp;(ii) establishing different prices, terms, and conditions to take into account actual and reasonable differences in the cost of creation, sale, delivery, or transmission of satellite cable programming or satellite broadcast programming;
 
-&emsp;&emsp;&emsp;(iii) establishing different prices, terms, and conditions which take into accounteconomies of scale, cost savings, or other direct and legitimate economic benefits reasonably attributable to the number of subscribers served by the distributor; or
+&emsp;&emsp;&emsp;(iii) establishing different prices, terms, and conditions which take into account economies of scale, cost savings, or other direct and legitimate economic benefits reasonably attributable to the number of subscribers served by the distributor; or
 
 &emsp;&emsp;&emsp;(iv) entering into an exclusive contract that is permitted under subparagraph (D);
 
@@ -94,7 +94,7 @@ The Commission shall, beginning not later than 18 months after promulgation of t
 
 #### (1) In general
 
-&emsp;Nothing in this section shall affect any contract that grants exclusive distribution rightsto any person with respect to satellite cable programming and that was entered into on or before June 1, 1990, except that the provisions of subsection (c)(2)(C) of this section shall apply for distribution to persons in areas not served by a cable operator.
+&emsp;Nothing in this section shall affect any contract that grants exclusive distribution rights to any person with respect to satellite cable programming and that was entered into on or before June 1, 1990, except that the provisions of subsection (c)(2)(C) of this section shall apply for distribution to persons in areas not served by a cable operator.
 
 #### (2) Limitation on renewals
 
@@ -112,9 +112,21 @@ As used in this section:
 
 &emsp;(4) The term “satellite broadcast programming vendor” means a fixed service satellite carrier that provides service pursuant to section 119 of title 17 with respect to satellite broadcast programming.
 
-(June 19, 1934, ch. 652, title VI, §628, as added Oct. 5, 1992, Pub. L. 102–385, §19, 106 Stat. 1494.)
+#### (j) Common carriers
+
+Any provision that applies to a cable operator under this section shall apply to a common carrier or its affiliate that provides video programming by any means directly to subscribers. Any such provision that applies to a satellite cable programming vendor in which a cable operator has an attributable interest shall apply to any satellite cable programming vendor in which such common carrier has an attributable interest. For the purposes of this subsection, two or fewer common officers or directors shall not by itself establish an attributable interest by a common carrier in a satellite cable programming vendor (or its parent company).
+
+(June 19, 1934, ch. 652, title VI, §628, as added Oct. 5, 1992, Pub. L. 102–385, §19, 106 Stat. 1494; amended Feb. 8, 1996, Pub. L. 104–104, title III, §301(h), 110 Stat. 117.)
+
+#### Amendments
+
+1996—Subsec. (j). Pub. L. 104–104 added subsec. (j).
 
 #### Effective Date
 
 Section effective 60 days after Oct. 5, 1992, see section 28 of Pub. L. 102–385, set out as an Effective Date of 1992 Amendment note under section 325 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 336, 573 of this title.
 

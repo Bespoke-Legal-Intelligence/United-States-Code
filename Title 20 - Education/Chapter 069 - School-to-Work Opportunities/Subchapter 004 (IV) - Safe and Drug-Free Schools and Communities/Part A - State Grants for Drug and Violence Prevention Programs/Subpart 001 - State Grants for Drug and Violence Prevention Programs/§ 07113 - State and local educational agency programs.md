@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), an amount equal to 80 percent of the total amount allocated to a State under section 7111 <sup>1</sup> of this title for each fiscal year shall beused by the State educational agency and its local educational agencies for drug and violence prevention activities in accordance with this section.
+&emsp;Except as provided in paragraph (2), an amount equal to 80 percent of the total amount allocated to a State under section 7111 <sup>1</sup> of this title for each fiscal year shall be used by the State educational agency and its local educational agencies for drug and violence prevention activities in accordance with this section.
 
 #### (2) Exception
 

@@ -4,7 +4,7 @@ For purposes of this chapter—
 
 &emsp;(1) The term “coastal zone” means the coastal waters (including the lands therein and thereunder) and the adjacent shorelands (including the waters therein and thereunder), strongly influenced by each other and in proximity to the shorelines of the several coastal states, and includes islands, transitional and intertidal areas, salt marshes, wetlands, and beaches. The zone extends, in Great Lakes waters, to the international boundary between the United States and Canada and, in other areas, seaward to the outer limit of State title and ownership under the Submerged Lands Act (43 U.S.C. 1301 et seq.), the Act of March 2, 1917 (48 U.S.C. 749) \[48 U.S.C. 731 et seq.\], the Covenant to Establish a Commonwealth of the Northern Mariana Islands in Political Union with the United States of America, as approved by the Act of March 24, 1976 \[48 U.S.C. 1801 et seq.\], or section 1 of the Act of November 20, 1963 (48 U.S.C. 1705), as applicable. The zone extends inland from the shorelines only to the extent necessary to control shorelands, the uses of which have a direct and significant impact on the coastal waters, and to control those geographical areas which are likely to be affected by or vulnerable to sea level rise. Excluded from the coastal zone are lands the use of which is by law subject solely to the discretion of or which is held in trust by the Federal Government, its officers or agents.
 
-&emsp;(2) The term “coastal resource of national significance” means any coastal wetland, beach, dune, barrier island, reef, estuary, or fish and wildlife habitat, if any such area is determined by a coastal state to be of substantial biological or natural storm protective value.
+&emsp;(2) The term “coastal resource of national significance” means any coastal wetland,beach, dune, barrier island, reef, estuary, or fish and wildlife habitat, if any such area is determined by a coastal state to be of substantial biological or natural storm protective value.
 
 &emsp;(3) The term “coastal waters” means (A) in the Great Lakes area, the waters within the territorial jurisdiction of the United States consisting of the Great Lakes, their connecting waters, harbors, roadsteads, and estuary-type areas such as bays, shallows, and marshes and (B) in other areas, those waters, adjacent to the shorelines, which contain a measurable quantity or percentage of sea water, including, but not limited to, sounds, bays, lagoons, bayous, ponds, and estuaries.
 
@@ -16,7 +16,7 @@ For purposes of this chapter—
 
 &emsp;&emsp;(ii) Any transportation, conversion, treatment, transfer, or storage of liquefied natural gas.
 
-&emsp;&emsp;(iii) Any transportation, transfer, or storage of oil, natural gas, or coal (including, but not limited to, by means of any deepwater port, as defined in section 1502(10) of title 33).
+&emsp;&emsp;(iii) Any transportation, transfer, or storage of oil, natural gas, or coal (including, but not limited to, by means of any deepwater port, as defined in section 1502(10) <sup>1</sup> of title 33).
 
 > &emsp;For purposes of this paragraph, the siting, construction, expansion, or operation of any equipment or facility shall be “in close proximity to” the coastal zone of any coastal state if such siting, construction, expansion, or operation has, or is likely to have, a significant effect on such coastal zone.
 
@@ -42,7 +42,7 @@ For purposes of this chapter—
 
 &emsp;(12) The term “management program” includes, but is not limited to, a comprehensive statement in words, maps, illustrations, or other media of communication, prepared and adopted by the state in accordance with the provisions of this chapter, setting forth objectives, policies, and standards to guide public and private uses of lands and waters in the coastal zone.
 
-&emsp;(13) The term “outer Continental Shelf energy activity” means any exploration for, or any development or production of, oil or natural gas from the outer Continental Shelf (as defined in section 1331(a) of title 43) or the siting, construction, expansion, or operation of any new or expanded energy facilities directly required by such exploration, development, or production.
+&emsp;(13) The term “outer Continental Shelf energy activity” means any exploration for, or any development or production of, oil or natural gas from the outer Continental Shelf (asdefined in section 1331(a) of title 43) or the siting, construction, expansion, or operation of any new or expanded energy facilities directly required by such exploration, development, or production.
 
 &emsp;(14) The term “person” means any individual; any corporation, partnership, association, or other entity organized or existing under the laws of any state; the Federal Government; any state, regional, or local government; or any entity of any such Federal, state, regional, or local government.
 
@@ -64,7 +64,9 @@ Act of March 2, 1917, referred to in par. (1), is act Mar. 2, 1917, ch. 145, 39 
 
 Act of March 24, 1976, referred to in par. (1), is Pub. L. 94–241, Mar. 24, 1976, 90 Stat. 263, as amended, which is classified generally to subchapter I (§1801 et seq.) of chapter 17 of Title 48. The Covenant to Establish a Commonwealth of the Northern Mariana Islands in Political Union with the United States of America is set out as a note under section 1801 of Title 48. For complete classification of this Act to the Code, see Tables.
 
-Section 1 of the Act of November 20, 1963, referred to in par. (1), is section 1 of Pub. L. 88–183, Nov. 20, 1963,77 Stat. 338, which was classified to section 1701 of Title 48, and was repealed by Pub. L. 93–435, §5, Oct. 5, 1974, 88 Stat. 1212. See section 1705 of Title 48.
+Section 1 of the Act of November 20, 1963, referred to in par. (1), is section 1 of Pub. L. 88–183, Nov. 20, 1963, 77 Stat. 338, which was classified to section 1701 of Title 48, and was repealed by Pub. L. 93–435, §5, Oct. 5, 1974, 88 Stat. 1212. See section 1705 of Title 48.
+
+Section 1502 of title 33, referred to in par. (5)(iii), was subsequently amended, and section 1502(10) no longer defines the term “deepwater port”. However, such term is defined elsewhere in that section.
 
 #### Amendments
 
@@ -102,7 +104,7 @@ Pars. (4), (5). Pub. L. 94–370, §3(4), added pars. (4) and (5).
 
 Par. (6). Pub. L. 94–370, §3(5), redesignated par. (d) as (6) and substituted “The term ‘estuary’ ” for “ ‘Estuary’.”
 
-Par. (7). Pub. L. 94–370, §3(6), redesignated par. (e) as (7) and substituted “The term ‘estuarine’ ” for “ ‘Estuarine’ ” and “estuary and any island, transitional area, and upland in, adjoining, or adjacent to such estuary, and which constitutes” for “estuary, adjoining transitional areas, and adjacent uplands, constituting”.
+Par. (7). Pub. L. 94–370, §3(6), redesignated par. (e) as (7) and substituted “The term ‘estuarine’ ” for “ ‘Estuarine’ ” and “estuary and any island, transitional area,and upland in, adjoining, or adjacent to such estuary, and which constitutes” for “estuary, adjoining transitional areas, and adjacent uplands, constituting”.
 
 Par. (8). Pub. L. 94–370, §3(7), added par. (8).
 
@@ -155,4 +157,6 @@ Ronald Reagan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 #### Section Referred to in Other Sections
 
 This section is referred to in section 1455b of this title; title 33 section 1122; title 43 section 1337.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

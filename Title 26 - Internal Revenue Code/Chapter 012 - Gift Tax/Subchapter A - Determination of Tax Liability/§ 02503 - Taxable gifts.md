@@ -44,7 +44,7 @@ If any individual waives, before the death of a participant, any survivor benefi
 
 #### (1) In general
 
-&emsp;For purposes of this subtitle, any loan of a qualified work of art shall not be treated as atransfer (and the value of such qualified work of art shall be determined as if such loan had not been made) if—
+&emsp;For purposes of this subtitle, any loan of a qualified work of art shall not be treated as a transfer (and the value of such qualified work of art shall be determined as if such loan had not been made) if—
 
 &emsp;&emsp;(A) such loan is to an organization described in section 501(c)(3) and exempt from tax under section 501(c) (other than a private foundation), and
 
@@ -92,7 +92,7 @@ Subsec. (b). Pub. L. 91–614, §102(a)(3)(B), substituted provisions with regar
 
 #### Effective Date of 1989 Amendment
 
-Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 7817 of Pub. L. 101–239, set out as a note under section 1 of this title.
+Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision ofthe Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 7817 of Pub. L. 101–239, set out as a note under section 1 of this title.
 
 #### Effective Date of 1988 Amendment
 
@@ -154,5 +154,5 @@ Transfers in general, see section 2511 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 672, 1015, 2001, 2012, 2101, 2523, 2611, 2642, 6019, 6501 of this title.
+This section is referred to in sections 529, 672, 1015, 2001, 2012, 2101, 2523, 2611, 2642, 2701, 6019, 6039F, 6501 of this title.
 

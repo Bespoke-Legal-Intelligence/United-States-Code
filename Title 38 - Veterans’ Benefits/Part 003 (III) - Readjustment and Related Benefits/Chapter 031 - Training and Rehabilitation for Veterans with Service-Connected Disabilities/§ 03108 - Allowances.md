@@ -1,8 +1,8 @@
 ### §3108. Allowances
 
-(a)(1) Except in the case of a veteran who makes an election under subsection (f) of this section and subject to the provisions of paragraph (3) of this subsection, each veteran shall be paid a subsistence allowance in accordance with this section during a period determined by the Secretary to be a period of such veteran's participation under this chapter in a rehabilitation program.
+(a)(1) Except in the case of a veteran who makes an election under subsection (f) of thissection and subject to the provisions of paragraph (3) of this subsection, each veteran shall be paid a subsistence allowance in accordance with this section during a period determined by the Secretary to be a period of such veteran's participation under this chapter in a rehabilitation program.
 
-(2) In any case in which the Secretary determines, at the conclusion of such veteran's pursuit of a vocational rehabilitation program under this chapter, that such veteran has been rehabilitated to the point of employability, such veteran shall be paid a subsistence allowance, as prescribed in this section for full-time training for the type of program that the veteran was pursuing, for two months following the conclusion of such pursuit.
+(2) In any case in which the Secretary determines, at the conclusion of such veteran's pursuit of a vocational rehabilitation program under this chapter, that such veteran has been rehabilitated to the point of employability, such veteran shall be paid a subsistence allowance, as prescribed in this section for full-time training for the type of program that the veteran was pursuing, for two months while satisfactorily following a program of employment services provided under section 3104(a)(5) of this title.
 
 (3) A subsistence allowance may not be paid under this chapter to a veteran for any period during which such veteran is being provided with an initial evaluation under section 3106(a) of this title or during which such veteran is being provided only with counseling or with placement or postplacement services under section 3105(b) of this title.
 
@@ -45,9 +45,9 @@
 
 (e) In any case in which a veteran is pursuing a rehabilitation program on a residential basis in a specialized rehabilitation facility, the Secretary may (1) pay to such facility the cost of such veteran's room and board in lieu of payment to such veteran of the subsistence allowance (not including any portion payable for any dependents) payable under subsection (b) of this section, and (2) pay to such veteran that portion of the allowance for dependents payable, as determined by such veteran's dependency status, under subsection (b) of this section for a full-time institutional program.
 
-(f)(1)(A) In any case in which the Secretary determines that a veteran is entitled to rehabilitation under this chapter, to the extent that such veteran has remaining eligibility for and entitlement to educational assistance benefits under chapter 30 or 34 of this title, such veteran may elect, as part of a vocational rehabilitation program under this chapter, to pursue an approved program of education and receive allowances and other forms of assistance equivalent to those authorized for veterans enrolled under either chapter 30 or chapter 34 of this title, if the Secretary approves the educational, professional, or vocational objective chosen by such veteran for such program.
+(f)(1)(A) In any case in which the Secretary determines that a veteran is eligible for and entitled to rehabilitation under this chapter, to the extent that such veteran has remaining eligibility for and entitlement to educational assistance benefits under chapter 30 of this title, such veteran may elect, as part of a vocational rehabilitation program under this chapter, to pursue an approved program of education and receive allowances and other forms of assistance equivalent to those authorized for veterans enrolled under chapter 30 of this title, if the Secretary approves the educational, professional, or vocational objective chosen by such veteran for such program.
 
-(B) In the event that such veteran makes such an election, the terms and conditions applicable to the pursuit of a comparable program of education and the payment of allowances and provision of assistance under chapter 30 or 34 of this title for such a comparable program shall be applied to the pursuit of the approved program of education under this chapter.
+(B) In the event that such veteran makes such an election, the terms and conditions applicable to the pursuit of a comparable program of education and the payment of allowances and provision of assistance under chapter 30 of this title for such a comparable program shall be applied to the pursuit of the approved program of education under this chapter.
 
 (2) A veteran who is receiving an allowance pursuant to paragraph (1) of this subsection may not receive any of the services or assistance described in section 3104(a)(3), (7), and (8) of this title (other than an allowance and other assistance under this subsection).
 
@@ -67,7 +67,7 @@
 
 (i) Payment of a subsistence allowance may be made in advance in accordance with the provisions of section 3680(d) of this title.
 
-(Added Pub. L. 96–466, title I, §101(a), Oct. 17, 1980, 94 Stat. 2178, §1508; amended Pub. L. 97–306, title II, §205(a), Oct. 14, 1982, 96 Stat. 1434; Pub. L. 98–525, title VII, §703(a), Oct. 19, 1984, 98 Stat. 2564; Pub. L. 98–543, title II, §201, Oct. 24, 1984, 98 Stat. 2740; Pub. L. 101–237, title IV, §§402(a), 423(b)(1), Dec. 18, 1989, 103 Stat. 2078, 2092; Pub. L. 102–16, §3(c), Mar. 22, 1991, 105 Stat. 49; renumbered §3108 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–568, title IV, §405(a), (b), Oct. 29, 1992, 106 Stat. 4338, 4339; Pub. L. 103–446, title VI, §602(b), Nov. 2, 1994, 108 Stat. 4671.)
+(Added Pub. L. 96–466, title I, §101(a), Oct. 17, 1980, 94 Stat. 2178, §1508; amended Pub. L. 97–306, title II, §205(a), Oct. 14, 1982, 96 Stat. 1434; Pub. L. 98–525, title VII, §703(a), Oct. 19, 1984, 98 Stat. 2564; Pub. L. 98–543, title II, §201, Oct. 24, 1984, 98 Stat. 2740; Pub. L. 101–237, title IV, §§402(a), 423(b)(1), Dec. 18, 1989, 103 Stat. 2078, 2092; Pub. L. 102–16, §3(c), Mar. 22, 1991, 105 Stat. 49; renumbered §3108 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–568, title IV, §405(a), (b), Oct. 29, 1992, 106 Stat. 4338, 4339; Pub. L. 103–446, title VI, §602(b), Nov. 2, 1994, 108 Stat. 4671; Pub. L. 104–275, title I, §101(g), Oct. 9, 1996, 110 Stat. 3325.)
 
 #### Prior Provisions
 
@@ -76,6 +76,12 @@ Prior section 3108 was renumbered section 5308 of this title.
 Provisions similar to those comprising this section were contained in former section 1504 of this title prior to the general revision of this chapter by Pub. L. 96–466.
 
 #### Amendments
+
+1996—Subsec. (a)(2). Pub. L. 104–275, §101(g)(1), substituted “while satisfactorily following a program of employment services provided under section 3104(a)(5) of this title” for “following the conclusion of such pursuit”.
+
+Subsec. (f)(1)(A). Pub. L. 104–275, §101(g)(2)(A), inserted “eligible for and” after “veteran is” and substituted “chapter 30” for “chapter 30 or 34” and “enrolled under chapter 30” for “enrolled under either chapter 30 or chapter 34”.
+
+Subsec. (f)(1)(B). Pub. L. 104–275, §101(g)(2)(B), substituted “chapter 30” for “chapter 30 or 34”.
 
 1994—Subsec. (c)(2). Pub. L. 103–446 inserted “or federally recognized Indian tribe” after “local government agency”.
 

@@ -4,11 +4,11 @@
 
 The Congress makes the following findings:
 
-&emsp;(1) State Department policy concerning the advertising of security contracts at Foreign Service buildings has been inconsistent over the years. In many cases, diplomatic and consular posts abroad have been given the responsibility to determine the manner in which the private sector was notified concerning an invitation for bids or a request for proposals with respect to a local guard contract. Some United States foreign missions have only chosen to advertise locally the availability of a local security guard contract abroad.
+&emsp;(1) State Department policy concerning the advertising of security contracts at ForeignService buildings has been inconsistent over the years. In many cases, diplomatic and consular posts abroad have been given the responsibility to determine the manner in which the private sector was notified concerning an invitation for bids or a request for proposals with respect to a local guard contract. Some United States foreign missions have only chosen to advertise locally the availability of a local security guard contract abroad.
 
 &emsp;(2) As a result, many United States security firms that provide local guard services abroad have been unaware that local guard contracts were available for bidding abroad and such firms have been disadvantaged as a result.
 
-&emsp;(3) Undoubtedly, United States security firms would be interested in bidding on morelocal guard contracts abroad if such firms knew of the opportunity to bid on such contracts.
+&emsp;(3) Undoubtedly, United States security firms would be interested in bidding on more local guard contracts abroad if such firms knew of the opportunity to bid on such contracts.
 
 #### (b) Objective
 
@@ -90,7 +90,7 @@ With respect to local guard contracts subject to subsection (c) of this section,
 
 #### Codification
 
-Section was enacted as part of the Foreign Relations Authorization Act, Fiscal Years 1990 and 1991, and notas part of the Diplomatic Security Act which comprise this chapter.
+Section was enacted as part of the Foreign Relations Authorization Act, Fiscal Years 1990 and 1991, and not as part of the Diplomatic Security Act which comprise this chapter.
 
 #### Amendments
 

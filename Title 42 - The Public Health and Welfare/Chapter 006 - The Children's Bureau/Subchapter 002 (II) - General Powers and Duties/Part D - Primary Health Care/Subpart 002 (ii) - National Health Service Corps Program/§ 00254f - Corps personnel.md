@@ -56,7 +56,7 @@ The Secretary shall assign Corps members to entities in health professional shor
 
 > the Secretary will assign under this section members of the Corps in accordance with the program.
 
-(B) For purposes of subparagraph (A), the term “qualified entity” means a State, political subdivision of a State, an agency of a State or political subdivision, or other public or nonprofit private entity operating solely within one State, which the Secretary determines is able—
+(B) For purposes of subparagraph (A), the term “qualified entity” means a State, political subdivision of a State, an agency of a State or political subdivision, or other public or nonprofitprivate entity operating solely within one State, which the Secretary determines is able—
 
 &emsp;(i) to analyze the potential use of health professions personnel in defined health services delivery areas by the residents of such areas;
 

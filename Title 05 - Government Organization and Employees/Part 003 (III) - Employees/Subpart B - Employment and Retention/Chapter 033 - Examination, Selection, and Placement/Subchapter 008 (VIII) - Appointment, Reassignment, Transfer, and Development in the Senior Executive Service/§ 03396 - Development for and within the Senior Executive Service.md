@@ -44,9 +44,9 @@ A prior section 3396, added Pub. L. 95–437, §3(a), Oct. 10, 1978, 92 Stat. 10
 
 #### Amendments
 
-<b>1991</b>—Subsec. (d). Pub. L. 102–175 designated existing provisions as par. (1) and added par. (2).
+1991—Subsec. (d). Pub. L. 102–175 designated existing provisions as par. (1) and added par. (2).
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 3151 of this title; title 10 sections 1590, 1601; title 22 section 3984.
+This section is referred to in section 3151 of this title; title 10 section 1606; title 22 section 3984.
 

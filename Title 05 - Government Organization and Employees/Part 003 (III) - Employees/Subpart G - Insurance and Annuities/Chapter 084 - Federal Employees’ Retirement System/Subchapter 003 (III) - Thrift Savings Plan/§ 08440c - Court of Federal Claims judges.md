@@ -18,11 +18,11 @@
 
 (6) For purposes of this section, the terms “retirement” and “retire” include removal from office under section 178(c) of title 28 on the sole ground of mental or physical disability.
 
-(7) In the case of a Court of Federal Claims judge who receives a distribution from the Thrift Savings Plan and who later receives an annuity under section 178 of title 28, such annuity shall be offset by an amount equal to the amount which represents the Government's contribution to that person's Thrift Savings Account, without regard to earnings attributable to that amount. Where such an offset would exceed 50 percent of the annuity to be received in the first year, the offset may be divided equally over the first 2 years in which that person receives the annuity.
+(7) In the case of a Court of Federal Claims judge who receives a distribution from the Thrift Savings Plan and who later receives an annuity under section 178 of title 28, such annuity shall be offset by an amount equal to the amount of the distribution which represents the Government's contribution to that person's Thrift Savings Account, without regard to earnings attributable to that amount. Where such an offset would exceed 50 percent of the annuity to be received in the first year, the offset may be divided equally over the first 2 years in which that person receives the annuity.
 
-(8) Notwithstanding paragraph (4), if any Court of Federal Claims judge retires under circumstances making such judge eligible to make an election under section 8433(b), and such judge's nonforfeitable account balance is $3,500 or less, the Executive Director shall pay the nonforfeitable account balance to the participant in a single payment unless the judge elects, at such time and otherwise in such manner as the Executive Director prescribes, one of the options available under section 8433(b).
+(8) Notwithstanding paragraph (4), if any Court of Federal Claims judge retires under circumstances making such judge eligible to make an election under section 8433(b), and such judge's nonforfeitable account balance is less than an amount that the Executive Director prescribes by regulation, the Executive Director shall pay the nonforfeitable account balance to the participant in a single payment.
 
-(Added Pub. L. 101–650, title III, §306(d)(1), Dec. 1, 1990, 104 Stat. 5110, §8440b; renumbered §8440c and amended Pub. L. 102–198, §7(c)(1), Dec. 9, 1991, 105 Stat. 1624; Pub. L. 102–572, title IX, §902(b), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 103–226, §9(g), Mar. 30, 1994, 108 Stat. 121.)
+(Added Pub. L. 101–650, title III, §306(d)(1), Dec. 1, 1990, 104 Stat. 5110, §8440b; renumbered §8440c and amended Pub. L. 102–198, §7(c)(1), Dec. 9, 1991, 105 Stat. 1624; Pub. L. 102–572, title IX, §902(b), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 103–226, §9(g), Mar. 30, 1994, 108 Stat. 121; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §659 \[title II, §205(c)\]\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–372, 3009–378.)
 
 #### Codification
 
@@ -30,19 +30,23 @@ Another section 8440c was renumbered section 8440d of this title.
 
 #### Amendments
 
-<b>1994</b>—Subsec. (b)(4)(B). Pub. L. 103–226, §9(g)(1), substituted “Section 8433(b)” for “Section 8433(d)”.
+1996—Subsec. (b)(7). Pub. L. 104–208, §101(f) \[title VI, §659 \[title II, §205(c)(1)\]\], inserted “of the distribution” after “equal to the amount”.
+
+Subsec. (b)(8). Pub. L. 104–208, §101(f) \[title VI, §659 \[title II, §205(c)(2)\]\], substituted “less than an amount that the Executive Director prescribes by regulation” for “$3,500 or less” and struck out “unless the judge elects, at such time and otherwise in such manner as the Executive Director prescribes, one of the options available under section 8433(b)” before period at end.
+
+1994—Subsec. (b)(4)(B). Pub. L. 103–226, §9(g)(1), substituted “Section 8433(b)” for “Section 8433(d)”.
 
 Subsec. (b)(5). Pub. L. 103–226, §9(g)(2), substituted “any of the actions described in paragraph (4)(A) or (B) shall be considered” for “retirement under section 178 of title 28 is”.
 
 Subsec. (b)(8), (9). Pub. L. 103–226, §9(g)(3), (4), redesignated par. (9) as (8), substituted “Notwithstanding paragraph (4)” for “Notwithstanding paragraph (4)(A)”, and struck out former par. (8) which read as follows: “Notwithstanding paragraph (4)(B), if any Court of Federal Claims judge who elects to make contributions to the Thrift Savings Fund under subsection (a) retires before becoming entitled to an annuity under section 178 of title 28, and such judge's nonforfeitable account balance is $3,500 or less, the Executive Director shall pay the nonforfeitable account balance to the participant in a single payment unless the judge elects, at such time and otherwise in such manner as the Executive Director prescribes, to have the nonforfeitable account balance transferred to an eligible retirement plan as provided in section 8433(e).”
 
-<b>1992</b>—Pub. L. 102–572, §902(b)(2), substituted “Court of Federal Claims” for “Claims Court” in section catchline.
+1992—Pub. L. 102–572, §902(b)(2), substituted “Court of Federal Claims” for “Claims Court” in section catchline.
 
 Subsec. (a)(1). Pub. L. 102–572, §902(b)(1), substituted “United States Court of Federal Claims” for “United States Claims Court”.
 
 Subsec. (b)(1) to (5), (7) to (9). Pub. L. 102–572, §902(b)(2), substituted “Court of Federal Claims” for “Claims Court” wherever appearing.
 
-<b>1991</b>—Pub. L. 102–198, §7(c)(1)(A), renumbered section 8440b of this title as this section.
+1991—Pub. L. 102–198, §7(c)(1)(A), renumbered section 8440b of this title as this section.
 
 Subsec. (b)(4)(A). Pub. L. 102–198, §7(c)(1)(B)(i), substituted “subsection (c)” for “subsection (d)”.
 
@@ -51,6 +55,10 @@ Subsec. (b)(7). Pub. L. 102–198, §7(c)(1)(B)(ii), redesignated par. (8) as (7
 Subsec. (b)(8). Pub. L. 102–198, §7(c)(1)(B)(ii), (iii) added par. (8) and redesignated former par. (8) as (7).
 
 Subsec. (b)(9). Pub. L. 102–198, §7(c)(1)(B)(iii), added par. (9).
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–208 effective Sept. 30, 1996, and withdrawals and elections as provided under such amendment to be made at earliest practicable date as determined by Executive Director in regulations, see section 101(f) \[title VI, §659 \[title II, §207\]\] of Pub. L. 104–208, set out as a note under section 5545a of this title.
 
 #### Effective Date of 1994 Amendment
 

@@ -20,7 +20,7 @@ Subsecs. (b), (c). Pub. L. 91–614 added subsec. (b) and redesignated former su
 
 #### Effective Date of 1981 Amendment
 
-Amendment by Pub. L. 97–34 applicable to gifts made after Dec. 31, 1981, see sections 403(e)(2) and 442(e) ofPub. L. 97–34, set out as a note under sections 2056 and 2501 of this title, respectively.
+Amendment by Pub. L. 97–34 applicable to gifts made after Dec. 31, 1981, see sections 403(e)(2) and 442(e) of Pub. L. 97–34, set out as a note under sections 2056 and 2501 of this title, respectively.
 
 #### Effective Date of 1970 Amendment
 

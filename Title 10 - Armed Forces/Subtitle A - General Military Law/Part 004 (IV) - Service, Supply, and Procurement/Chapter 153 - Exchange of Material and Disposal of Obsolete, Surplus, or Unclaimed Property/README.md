@@ -8,6 +8,7 @@
 | [2574\.](%C2%A7%2002574%20-%20Armament%20sale%20of%20individual%20pieces.md) | Armament: sale of individual pieces. |
 | [2575\.](%C2%A7%2002575%20-%20Disposition%20of%20unclaimed%20property.md) | Disposition of unclaimed property. |
 | [2576\.](%C2%A7%2002576%20-%20Surplus%20military%20equipment%20sale%20to%20State%20and%20local%20law%20enforcement%20and%20firefighting%20agencies.md) | Surplus military equipment: sale to State and local law enforcement and firefighting agencies. |
+| [2576a.](%C2%A7%2002576a%20-%20Excess%20personal%20property%20sale%20or%20donation%20for%20law%20enforcement%20activities.md) | Excess personal property: sale or donation for law enforcement activities. |
 | [2577\.](%C2%A7%2002577%20-%20Disposal%20of%20recyclable%20materials.md) | Disposal of recyclable materials. |
 | [2578\.](%C2%A7%2002578%20-%20Vessels%20transfer%20between%20departments.md) | Vessels: transfer between departments. |
 | [2579\.](%C2%A7%2002579%20-%20War%20booty%20procedures%20for%20handling%20and%20retaining%20battlefield%20objects.md) | War booty: procedures for handling and retaining battlefield objects. |
@@ -15,6 +16,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1996—Pub. L. 104–201, div. A, title X, §1033(a)(2), Sept. 23, 1996, 110 Stat. 2640, added item 2576a.
 
 1993—Pub. L. 103–160, div. A, title XI, §1171(a)(2), Nov. 30, 1993, 107 Stat. 1766, added item 2579.
 
@@ -53,6 +56,7 @@ Property records, basis and reports, see section 2721 of this title.
 - [&sect; 02574 - Armament sale of individual pieces](%C2%A7%2002574%20-%20Armament%20sale%20of%20individual%20pieces.md)
 - [&sect; 02575 - Disposition of unclaimed property](%C2%A7%2002575%20-%20Disposition%20of%20unclaimed%20property.md)
 - [&sect; 02576 - Surplus military equipment sale to State and local law enforcement and firefighting agencies](%C2%A7%2002576%20-%20Surplus%20military%20equipment%20sale%20to%20State%20and%20local%20law%20enforcement%20and%20firefighting%20agencies.md)
+- [&sect; 02576a - Excess personal property sale or donation for law enforcement activities](%C2%A7%2002576a%20-%20Excess%20personal%20property%20sale%20or%20donation%20for%20law%20enforcement%20activities.md)
 - [&sect; 02577 - Disposal of recyclable materials](%C2%A7%2002577%20-%20Disposal%20of%20recyclable%20materials.md)
 - [&sect; 02578 - Vessels transfer between departments](%C2%A7%2002578%20-%20Vessels%20transfer%20between%20departments.md)
 - [&sect; 02579 - War booty procedures for handling and retaining battlefield objects](%C2%A7%2002579%20-%20War%20booty%20procedures%20for%20handling%20and%20retaining%20battlefield%20objects.md)

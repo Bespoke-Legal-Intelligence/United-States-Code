@@ -6,11 +6,11 @@ Every vessel required to make entry under section 1434 of this title or obtain c
 
 #### (b) Production of manifest
 
-Any manifest required by the Customs Service shall be signed, produced, delivered or electronically transmitted by the master or person in charge of the vessel, aircraft, or vehicle, or by any other authorized agent of the owner or operator of the vessel, aircraft, or vehicle in accordance with the requirements prescribed under subsection (d) of this section. A manifest may be supplemented by bill of lading data supplied by the issuer of such bill. If any irregularity of omission or commission occurs in any way in respect to any manifest or bill of lading data, the owner or operator of the vessel, aircraft or vehicle, or any party responsible for such irregularity, shall be liable for any fine or penalty prescribed by law with respect to such irregularity. The Customs Service may take appropriate action against any of the parties.
+Any manifest required by the Customs Service shall be signed, produced, delivered or electronically transmitted by the master or person in charge of the vessel, aircraft, or vehicle, or by any other authorized agent of the owner or operator of the vessel, aircraft, or vehicle in accordance with the requirements prescribed undersubsection (d) of this section. A manifest may be supplemented by bill of lading data supplied by the issuer of such bill. If any irregularity of omission or commission occurs in any way in respect to any manifest or bill of lading data, the owner or operator of the vessel, aircraft or vehicle, or any party responsible for such irregularity, shall be liable for any fine or penalty prescribed by law with respect to such irregularity. The Customs Service may take appropriate action against any of the parties.
 
 #### (c) Public disclosure of certain manifest information
 
-(1) Except as provided in subparagraph (2), the following information, when contained in such manifest, shall be available for public disclosure:
+(1) Except as provided in subparagraph (2), the following information, when contained in a vessel vessel <sup>1</sup> or aircraft manifest, shall be available for public disclosure:
 
 &emsp;(A) The name and address of each importer or consignee and the name and address of the shipper to such importer or consignee, unless the importer or consignee has made a biennial certification, in accordance with procedures adopted by the Secretary of the Treasury, claiming confidential treatment of such information.
 
@@ -18,13 +18,15 @@ Any manifest required by the Customs Service shall be signed, produced, delivere
 
 &emsp;(C) The number of packages and gross weight.
 
-&emsp;(D) The name of the vessel or carrier.
+&emsp;(D) The name of the vessel, aircraft, or carrier.
 
-&emsp;(E) The port of loading.
+&emsp;(E) The seaport or airport of loading.
 
-&emsp;(F) The port of discharge.
+&emsp;(F) The seaport or airport of discharge.
 
 &emsp;(G) The country of origin of the shipment.
+
+&emsp;(H) The trademarks appearing on the goods or packages.
 
 (2) The information listed in paragraph (1) shall not be available for public disclosure if—
 
@@ -68,7 +70,7 @@ Any manifest required by the Customs Service shall be signed, produced, delivere
 
 &emsp;&emsp;&emsp;(iii) personal correspondence, whether on paper, cards, photographs, tapes, or other media.
 
-(June 17, 1930, ch. 497, title IV, §431, 46 Stat. 710; Aug. 8, 1953, ch. 397, §15, 67 Stat. 516; Oct. 30, 1984, Pub. L. 98–573, title II, §203, 98 Stat. 2974; Nov. 18, 1988, Pub. L. 100–690, title VII, §7367(c)(1), 102 Stat. 4479; Dec. 8, 1993, Pub. L. 103–182, title VI, §635, 107 Stat. 2199.)
+(June 17, 1930, ch. 497, title IV, §431, 46 Stat. 710; Aug. 8, 1953, ch. 397, §15, 67 Stat. 516; Oct. 30, 1984, Pub. L. 98–573, title II, §203, 98 Stat. 2974; Nov. 18, 1988, Pub. L. 100–690, title VII, §7367(c)(1), 102 Stat. 4479; Dec. 8, 1993, Pub. L. 103–182, title VI, §635, 107 Stat. 2199; July 2, 1996, Pub. L. 104–153, §11, 110 Stat. 1389; Oct. 11, 1996, Pub. L. 104–295, §3(a)(3), 110 Stat. 3515.)
 
 #### References in Text
 
@@ -82,6 +84,10 @@ R.S. §2805, relative to the administration of oaths required by that chapter, w
 
 #### Amendments
 
+1996—Subsec. (c). Pub. L. 104–295 substituted “a vessel manifest” for “such manifest” in introductory provisions.
+
+Pub. L. 104–153 inserted “vessel or aircraft” before “manifest” in introductory provisions, amended subpars. (D) to (F) generally, substituting “vessel, aircraft, or carrier” for “vessel or carrier” in subpar. (D) and“seaport or airport” for “port” in subpars. (E) and (F), and added subpar. (H).
+
 1993—Subsecs. (a) and (b). Pub. L. 103–182, §635(1), amended subsecs. (a) and (b) generally, substituting present provisions for provisions relating to, in subsec. (a), the requirement, form, and contents of manifests and, in subsec. (b), the signing and delivery of manifests.
 
 Subsec. (d). Pub. L. 103–182, §635(2), added subsec. (d).
@@ -94,6 +100,10 @@ Subsec. (c). Pub. L. 98–573, §203(2), added subsec. (c).
 
 1953—Act Aug. 8, 1953, designated existing provisions as subsec. (a) and added subsec. (b).
 
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–295 applicable as of Dec. 8, 1993, see section 3(b) of Pub. L. 104–295, set out as a note under section 1321 of this title.
+
 #### Effective Date of 1984 Amendment
 
 Amendment by Pub. L. 98–573 effective on 15th day after Oct. 30, 1984, see section 214(a), (b) of Pub. L. 98–573, set out as a note under section 1304 of this title.
@@ -102,7 +112,13 @@ Amendment by Pub. L. 98–573 effective on 15th day after Oct. 30, 1984, see sec
 
 Amendment to this section effective on and after thirtieth day following Aug. 8, 1953, and savings provision, see notes set out under section 1304 of this title.
 
+#### Regulations
+
+Section 14 of Pub. L. 104–153 provided that: “Not later than 6 months after the date of the enactment of this Act \[July 2, 1996\], the Secretary of the Treasury shall prescribe such regulations or amendments to existing regulations that may be necessary to carry out the amendments made by sections 9, 10, 11, 12, and 13 of this Act \[amending this section, sections 1484 and 1526 of this title, and section 80302 of Title 49, Transportation\].”
+
 #### Section Referred to in Other Sections
 
 This section is referred to in section 1436 of this title; title 18 section 965.
+
+<i><sup>1</sup></i><i> So in original.</i>
 

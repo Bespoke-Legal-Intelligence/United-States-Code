@@ -10,5 +10,5 @@ Section was enacted as part of Department of Energy National Security and Milita
 
 #### Nuclear Weapons Capital Investment Requirements Study; Submittal to Congress
 
-Section 209 of Pub. L. 95–509 provided that the Secretary conduct a study of the status of all Government-owned, contractor-operated, plant, capital equipment, facilities, and utilities which support the United States nuclear weapons program and submit the results of such study to the Congress at the same time that the Department of Energy authorization request for fiscal year 1980 was submitted to the Congress.
+Section 209 of Pub. L. 95–509 directed Secretary to conduct a study of the status of all Government-owned, contractor-operated, plant, capital equipment, facilities, and utilities which support United States nuclear weapons program and submit results of study to Congress at same time that Department of Energy authorization request for fiscal year 1980 was submitted to Congress.
 

@@ -38,7 +38,7 @@ The Association is authorized, in accordance with the provisions of this section
 
 &emsp;(A) not to purchase any debentures or series A preferred stock of the Corporation after the date of such affirmative finding; or
 
-&emsp;(B) to purchase debentures or series A preferred stock of the Corporation, after the date of such affirmative finding, only in such amounts, at such times, and on such terms and conditions (notwithstanding subsection\(e)(1) of this section) as the Finance Committee determines to be appropriate to the role of the Association as an investor in such debentures and series A preferred stock.
+&emsp;(B) to purchase debentures or series A preferred stock of the Corporation, after the date of such affirmative finding, only in such amounts, at such times, and on such terms and conditions (notwithstanding subsection (e)(1) of this section) as the Finance Committee determines to be appropriate to the role of the Association as an investor in such debentures and series A preferred stock.
 
 (2) A copy of each affirmative finding, the reasons therefor, and each direction made by the Finance Committee under paragraph (1) of this subsection, together with the comments and recommendations thereon of the Board of Directors of the Association, shall be transmitted to the Congress by the Association within 10 days after the date on which the Finance Committee makes such finding and direction, or if not so transmitted, shall be transmitted by the Finance Committee. Each such direction so transmitted shall become finally effective and is required to be implemented by the Association, unless within the first period of 30 calendar days of continuous session of Congress after the date of its transmittal to Congress either House of Congress disapproves such direction (except that such direction shall become finally effective immediately upon approval of such direction by both Houses of Congress) in accordance with the procedures specified in section 688 of title 2. For purposes of this paragraph, continuity of session of Congress is broken only in the circumstances described in section 682(5) of title 2. During review by the Association and Congress, the Association shall take no action inconsistent with the direction of the Finance Committee pursuant to paragraph (c)(1) of this section, except to the extent the Association finds necessary, in its discretion, to assure continuous orderly operation of the Corporation.
 
@@ -54,7 +54,7 @@ Notwithstanding any other provision of State law, the debentures and the series 
 
 &emsp;(1) The Corporation shall not be required to issue to the Association additional shares of series A preferred stock of the Corporation as a dividend on any such stock.
 
-&emsp;(2) The dividends payable on series A preferred stock of the Corporation shall not be cumulative and shall be paid in cash when and to the extent that there is “cash available for restricted cash payments”, as that term is defined in the final system plan.
+&emsp;(2) The dividends payable on series A preferred stock of the Corporation shall not becumulative and shall be paid in cash when and to the extent that there is “cash available for restricted cash payments”, as that term is defined in the final system plan.
 
 &emsp;(3) After the Association calls for redemption of the certificates of value, no shares of series A preferred stock of the Corporation shall be issued in lieu of interest on the debentures of the Corporation and, to the extent such interest is not payable in cash by reason of the absence of sufficient “cash available for restricted cash payment”, the Corporation shall deliver to the holders of the debentures contingent interest notes in a face amount equal to such unpaid interest.
 
@@ -86,7 +86,7 @@ Notwithstanding any other provision of State law, the debentures and the series 
 
 &emsp;(C) meets such other requirements (similar to requirements applicable to employee stock ownership plans as defined in section 4975(e)(7) of title 26) as the Secretary of the Treasury or his delegate may describe;
 
-&emsp;(D) have been approved by the Board of Directors of the Corporation to the extent and in the manner which may be required by the Corporation's articles of incorporation and bylaws then in effect; and
+&emsp;(D) have been approved by the Board of Directors of the Corporation to the extent and inthe manner which may be required by the Corporation's articles of incorporation and bylaws then in effect; and
 
 &emsp;(E) have been prepared in consultation with, and been approved by, the Association and the Finance Committee.
 
@@ -110,7 +110,7 @@ Notwithstanding any other provision of State law, the debentures and the series 
 
 &emsp;(i) in connection with the employee stock ownership plan and related trust established by the Corporation pursuant to the requirements of this subsection or with ConRail Equity Corporation (I) on account of any reorganization or restructuring of the Corporation, its successors or assigns, or their assets or capital structure, or (II) on account of any action taken or not taken by the Corporation which may affect its ability to attain the performance levels established in connection with the plan pursuant to paragraph (2)(A)(ii) of this subsection;
 
-&emsp;(ii) for or in connection with the establishment, continuation or implementation of the plan and related trust or of ConRail Equity Corporation or the acquisition of, investment in or retention of any security of the Corporation or ConRail Equity Corporation, or of any of their successors and assigns, by the plan or ConRail Equity Corporation, or the disposition of any such security to the extent that such disposition is made in connection with a reorganization or restructuring of the Corporation, its successors and assigns, or their assets or capital structure, as directed or approved by or on behalf of the Association or the United States, or the acquisition or retention of any cash, security or other property received in connection with any such reorganization or restructuring; or
+&emsp;(ii) for or in connection with the establishment, continuation or implementation of the plan and related trust or of ConRail EquityCorporation or the acquisition of, investment in or retention of any security of the Corporation or ConRail Equity Corporation, or of any of their successors and assigns, by the plan or ConRail Equity Corporation, or the disposition of any such security to the extent that such disposition is made in connection with a reorganization or restructuring of the Corporation, its successors and assigns, or their assets or capital structure, as directed or approved by or on behalf of the Association or the United States, or the acquisition or retention of any cash, security or other property received in connection with any such reorganization or restructuring; or
 
 &emsp;(iii) for or in connection with any other action taken or not taken pursuant to any term or condition of the plan or related trust agreement or of the articles of incorporation or bylaws of ConRail Equity Corporation.
 
@@ -172,7 +172,7 @@ Subsec. (b)(3). Pub. L. 96–448, §405(b)(2), added par. (3).
 
 Subsec. (b)(4). Pub. L. 96–448, §703(e), added par. (4).
 
-Subsec. (f)(5). Pub. L. 96–254, §118(a), (b), inserted provisions that the plan not be subject to change under the provisions of section 6 of the Railway Labor Act until after such time as securities have been distributed from the plan to the participants in the plan or their beneficiaries pursuant to the terms of the planand that, for purposes of this subsection, the Railway Labor Executives’ Association shall be deemed to represent all of the representatives of crafts or classes of employees of the Corporation and its subsidiaries as though that organization held powers of attorney from each representative of a craft or class for the limited purposes of negotiating and agreeing upon an employee stock ownership plan.
+Subsec. (f)(5). Pub. L. 96–254, §118(a), (b), inserted provisions that the plan not be subject to change under the provisions of section 6 of the Railway Labor Act until after such time as securities have been distributed from the plan to the participants in the plan or their beneficiaries pursuant to the terms of the plan and that, for purposes of this subsection, the Railway Labor Executives’ Association shall be deemed to represent all of the representatives of crafts or classes of employees of the Corporation and its subsidiaries as though that organization held powers of attorney from each representative of a craft or class for the limited purposes of negotiating and agreeing upon an employee stock ownership plan.
 
 Subsec. (f)(8) to (10). Pub. L. 96–254, §118(c), added pars. (8) to (10).
 

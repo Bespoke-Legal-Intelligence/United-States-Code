@@ -16,7 +16,9 @@ Reports.—In cooperation with the Secretary of Transportation, the Secretary of
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -24,15 +26,15 @@ Historical and Revision Notes
 
 70109(a)
 
-49 App.:2614(b) (4)(A) (1st, last sentences).
+49 App.:2614(b)(4)(A) (1st, last sentences).
 
 Oct. 30, 1984, Pub. L. 98–575, 98 Stat. 3055, §15(b)(4); added Nov. 15, 1988, Pub. L. 100–657, §7, 102 Stat. 3906.
 
 70109(b)
 
-49 App.:2614(b) (4)(A) (2d sentence).
+49 App.:2614(b)(4)(A) (2d sentence).
 
 70109(c)
 
-49 App.:2614(b) (4)(B).
+49 App.:2614(b)(4)(B).
 

@@ -18,7 +18,7 @@ The provisions of subsections (a) and (b) of this section shall not apply to lea
 
 #### (e) Lands held in trust by United States for benefit of Indian tribes or individuals
 
-Subsections (a) and (b) of this section shall not apply to lands held in trust by the United States for the benefit of any Indian tribe or individual with respect to any lease where capital improvements, and operation and maintenancecosts are not provided for by Federal financial assistance if the lessee, tribe, or individual has provided insurance or other security for the benefit of the Secretary sufficient to insure against all reasonably forseeable,<sup>1</sup> direct, and consequential damages to the property of the tribe, private persons, and the United States, which may result from the proposed lease.
+Subsections (a) and (b) of this section shall not apply to lands held in trust by the United States for the benefit of any Indian tribe or individual with respect to any lease where capital improvements, and operation and maintenance costs are not provided for by Federal financial assistance if the lessee, tribe, or individual has provided insurance or other security for the benefit of the Secretary sufficient to insure against all reasonably forseeable,<sup>1</sup> direct, and consequential damages to the property of the tribe, private persons, and the United States, which may result from the proposed lease.
 
 (Pub. L. 99–450, §13, Oct. 8, 1986, 100 Stat. 1135.)
 

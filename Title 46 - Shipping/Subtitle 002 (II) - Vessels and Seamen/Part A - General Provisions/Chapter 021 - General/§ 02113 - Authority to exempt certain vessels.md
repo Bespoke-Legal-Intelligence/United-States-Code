@@ -8,19 +8,19 @@ If the Secretary decides that the application of a provision of part B, C, F, or
 
 &emsp;(3) establish different operating and equipment requirements for vessels defined in section 2101(42)(A) of this title;
 
-&emsp;(4) establish different structural fire protection, manning, operating, and equipment requirements for vessels of at least 100 gross tons but less than 300 gross tons carrying not more than 150 passengers on domestic voyages if the owner of the vessel—
+&emsp;(4) establish different structural fire protection, manning, operating, and equipment requirements for vessels of at least 100 gross tons but less than 300 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title carrying not more than 150 passengers on domestic voyages if the owner of the vessel—
 
 &emsp;&emsp;(A) makes application for inspection to the Coast Guard within 6 months of the date of enactment of the Passenger Vessel Safety Act of 1993; and
 
 &emsp;&emsp;(B) provides satisfactory documentation that the vessel was chartered at least once within the previous 12 months prior to the date of enactment of that Act; and
 
-&emsp;(5) establish different structural fire protection, manning, operating, and equipment requirements for former public vessels of the United States of at least 100 gross tons but less than 500 gross tons, carrying not more than 150 passengers on domestic voyages, if the owner of the vessel—
+&emsp;(5) establish different structural fire protection, manning, operating, and equipment requirements for former public vessels of the United States of at least 100 gross tons but less than 500 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title, carrying not more than 150 passengers on domestic voyages, if the owner of the vessel—
 
 &emsp;&emsp;(A) makes application for inspection to the Coast Guard within 6 months of the date of enactment of the Passenger Vessel Safety Act of 1993; and
 
 &emsp;&emsp;(B) provides satisfactory documentation that the vessel was chartered at least once within the previous 12 months prior to the date of enactment of that Act.
 
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 508; Pub. L. 103–206, title V, §511(a), Dec. 20, 1993, 107 Stat. 2441.)
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 508; Pub. L. 103–206, title V, §511(a), Dec. 20, 1993, 107 Stat. 2441; Pub. L. 104–324, title VII, §710, Oct. 19, 1996, 110 Stat. 3935.)
 
 Historical and Revision Notes
 
@@ -41,6 +41,10 @@ Section 2113 provides the Secretary with the authority to exempt certain vessels
 The date of enactment of the Passenger Vessel Safety Act of 1993, referred to in pars. (4) and (5), is the date of the enactment of Pub. L. 103–206, which was approved Dec. 20, 1993.
 
 #### Amendments
+
+1996—Par. (4). Pub. L. 104–324, §710(1), inserted “as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title” after “less than 300 gross tons”.
+
+Par. (5). Pub. L. 104–324, §710(2), inserted “as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title” after “less than 500 gross tons”.
 
 1993—Pub. L. 103–206 amended section catchline and text generally. Prior to amendment, text read as follows: “If the Secretary decides that the application of a provision of part B or F of this subtitle is not necessary in performing the mission of a vessel engaged in excursions or an oceanographic research vessel, the Secretary by regulation may—
 

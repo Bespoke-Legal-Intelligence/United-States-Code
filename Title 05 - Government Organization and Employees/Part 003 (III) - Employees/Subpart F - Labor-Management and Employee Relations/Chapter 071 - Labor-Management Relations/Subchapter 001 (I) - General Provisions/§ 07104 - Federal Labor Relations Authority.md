@@ -1,6 +1,6 @@
 ### §7104. Federal Labor Relations Authority
 
-(a) The Federal Labor Relations Authority is composed of three members, not more than 2 of whom may be adherents of the same political party. No member shall engage in any other business or employment or hold another office or position in the Government of the United States except as otherwise provided by law.
+(a) The Federal Labor Relations Authority is composed of three members, not more than 2 ofwhom may be adherents of the same political party. No member shall engage in any other business or employment or hold another office or position in the Government of the United States except as otherwise provided by law.
 
 (b) Members of the Authority shall be appointed by the President by and with the advice and consent of the Senate, and may be removed by the President only upon notice and hearing and only for inefficiency, neglect of duty, or malfeasance in office. The President shall designate one member to serve as Chairman of the Authority. The Chairman is the chief executive and administrative officer of the Authority.
 
@@ -30,7 +30,7 @@
 
 #### Amendments
 
-<b>1984</b>—Subsec. (b). Pub. L. 98–224, §3(a), inserted provision directing that Chairman be chief executive and administrative officer.
+1984—Subsec. (b). Pub. L. 98–224, §3(a), inserted provision directing that Chairman be chief executive and administrative officer.
 
 Subsec. (c). Pub. L. 98–224, §3(b), substituted provision that a member of Authority be appointed for a term of 5 years and an individual chosen to fill a vacancy be appointed for unexpired term of member replaced for provision that one original member of Authority be appointed for a term of 1 year, one for a term of 3 years, and Chairman for a term of 5 years, and thereafter each member be appointed for a term of 5 years.
 

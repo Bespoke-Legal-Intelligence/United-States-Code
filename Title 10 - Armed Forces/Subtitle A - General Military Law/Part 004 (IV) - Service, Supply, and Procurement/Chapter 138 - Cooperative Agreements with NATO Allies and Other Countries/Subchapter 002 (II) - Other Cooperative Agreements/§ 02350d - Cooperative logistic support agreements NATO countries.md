@@ -46,7 +46,7 @@ The Arms Export Control Act, referred to in subsec. (e), is Pub. L. 90–629, Oc
 
 #### Prior Provisions
 
-Provisions similar to those in this section were contained in Pub. L. 99–661, div. A, title XI, §1102, Nov. 14, 1986, 100 Stat. 3961, which was set out as a note undersection 2407 of this title, prior to repeal by Pub. L. 101–189, §931(d)(2).
+Provisions similar to those in this section were contained in Pub. L. 99–661, div. A, title XI, §1102, Nov. 14, 1986, 100 Stat. 3961, which was set out as a note under section 2407 of this title, prior to repeal by Pub. L. 101–189, §931(d)(2).
 
 #### Amendments
 

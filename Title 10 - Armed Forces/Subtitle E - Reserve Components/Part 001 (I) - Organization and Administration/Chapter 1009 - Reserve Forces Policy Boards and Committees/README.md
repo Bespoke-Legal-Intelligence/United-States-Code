@@ -10,6 +10,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+<i><sup>1</sup></i><i> So in original. Probably should be subsection “(b)(1).”</i>
+
 
 ---
 

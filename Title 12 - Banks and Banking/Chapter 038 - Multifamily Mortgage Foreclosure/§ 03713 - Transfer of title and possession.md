@@ -2,7 +2,7 @@
 
 #### (a) Payment and delivery of deeds
 
-The foreclosure commissioner shall deliver a deed or deeds to the purchaser or purchasers and obtain the balance of the purchase price in accordance with the terms of sale provided in the notice of default and foreclosure sale.
+The foreclosure commissioner shall deliver a deed or deeds to the purchaser or purchasers andobtain the balance of the purchase price in accordance with the terms of sale provided in the notice of default and foreclosure sale.
 
 #### (b) Quit claim deed
 

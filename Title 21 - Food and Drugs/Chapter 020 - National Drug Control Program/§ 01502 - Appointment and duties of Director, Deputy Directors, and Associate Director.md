@@ -44,7 +44,7 @@ The Director shall—
 
 &emsp;(A) review each drug control budget request transmitted to the Director under paragraph (2);
 
-&emsp;(B) certify in writing as to the adequacy of such request in whole or in part to implement the objectives of the National Drug Control Strategy for the year for which the request is submitted and, with respect to a request that is not certified as adequate to implement the objectives of the National Drug Control Strategy, include in the certification an initiativeor funding level that would make the request adequate; and
+&emsp;(B) certify in writing as to the adequacy of such request in whole or in part to implement the objectives of the National Drug Control Strategy for the year for which the request is submitted and, with respect to a request that is not certified as adequate to implement the objectives of the National Drug Control Strategy, include in the certification an initiative or funding level that would make the request adequate; and
 
 &emsp;(C) notify the program manager, agency head, or department head, as applicable, regarding the Director's certification under subparagraph (B).
 
@@ -66,7 +66,7 @@ In carrying out the responsibilities established under subsection (b) of this se
 
 &emsp;(1) select, appoint, employ, and fix compensation of up to 75 and such additional officers and employees as may be necessary to carry out the functions of the Office of National Drug Control Policy under this title; <sup>1</sup>
 
-&emsp;(2) request the head of a department or agency or program to place department, agency, or program personnel who are engaged in drug control activities on temporary detail to another department or agency in order to implement the National Drug Control Strategy, and the head of the department or agency shall comply with such a request;
+&emsp;(2) request the head of a department or agency or program to place department, agency, orprogram personnel who are engaged in drug control activities on temporary detail to another department or agency in order to implement the National Drug Control Strategy, and the head of the department or agency shall comply with such a request;
 
 &emsp;(3) use for administrative purposes, on a reimbursable basis, the available services, equipment, personnel, and facilities of Federal, State, and local agencies;
 
@@ -108,7 +108,7 @@ In carrying out the responsibilities established under subsection (b) of this se
 
 (2) An officer or employee of a National Drug Control Program agency shall not make or authorize an expenditure or obligation contrary to a funds control notice issued by the Director.
 
-(3) In the case of a violation of paragraph (2) by an officer or employee of a National DrugControl Program agency, the head of the agency, upon the request of and in consultation with the Director, may subject the officer or employee to appropriate administrative discipline, including, when circumstances warrant, suspension from duty without pay or removal from office.
+(3) In the case of a violation of paragraph (2) by an officer or employee of a National Drug Control Program agency, the head of the agency, upon the request of and in consultation with the Director, may subject the officer or employee to appropriate administrative discipline, including, when circumstances warrant, suspension from duty without pay or removal from office.
 
 #### (f) <sup>2</sup> Prohibition on political campaigning
 
@@ -149,6 +149,18 @@ Subsec. (d)(8), (9). Pub. L. 103–322, §90201(c)(1)(B)–(D), added pars. (8) 
 Subsec. (f). Pub. L. 103–322, §90202, added subsec. (f) relating to prohibition on political campaigning.
 
 Pub. L. 103–322, §90201(c)(2), added subsec. (f) relating to funds control notices.
+
+#### Director's Authority; Congressional Notification Requirement
+
+Pub. L. 104–164, title I, §132, July 21, 1996, 110 Stat. 1430, provided that:
+
+“(a)
+
+In General.—The authority of section 1003(d) of the National Narcotics Control Leadership Act of 1988 (21 U.S.C. 1502(d)) may be exercised with respect to funds authorized to be appropriated pursuant to the Foreign Assistance Act of 1961 (22 U.S.C. 2151 et seq.) and with respect to the personnel of the Department of State only to the extent that the appropriate congressional committees have been notified 15 days in advance in accordance with the reprogramming procedures applicable under section 634A of that Act (22 U.S.C. 2394–1).
+
+“(b)
+
+Definition.—For purposes of this section, the term ‘appropriate congressional committees’ means the Committee on International Relations and the Committee on Appropriations of the House of Representatives and the Committee on Foreign Relations and the Committee on Appropriations of the Senate.”
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
@@ -238,7 +250,7 @@ Section 7604 of Pub. L. 100–690 provided for establishment of a Commission, to
 
 #### Ex. Ord. No. 12880. National Drug Control Program
 
-Ex. Ord. No. 12880, Nov. 16, 1993, 58 F.R. 60989, provided:
+Ex. Ord. No. 12880, Nov. 16, 1993, 58 F.R. 60989, as amended by Ex. Ord. No. 13008, June 3, 1996, 61 F.R. 28721, provided:
 
 The Office of National Drug Control Policy has the lead responsibility within the Executive Office of the President to establish policies, priorities, and objectives for the Nation's drug control program, with the goal of reducing the production, availability, and use of illegal drugs. All lawful and reasonable means must be used to ensure that the United States has a comprehensive and effective National Drug Control Strategy.
 
@@ -250,7 +262,7 @@ General Provisions. (a) Because the United States considers the operations of in
 
 (b) The Director shall provide oversight and direction for all international counternarcotics policy development and implementation, in coordination with other concerned Cabinet members, as appropriate.
 
-(c) An Interagency Working Group (IWG) on international counternarcotics policy, chaired by the Department of State, shall develop and ensure coordinated implementation of an international counternarcotics policy. The IWG shall report its activities and differences of views among agencies to the Director for review, mediation, and resolution with concerned Cabinet members, and if necessary, by the President.
+(c) An Interagency Working Group (IWG) on international counternarcotics policy, chaired by the Office of National Drug Control Policy, shall develop and ensure coordinated implementation of an international counternarcotics policy. The IWG shall report its activities and differences of views among agencies to the Director for review, mediation, and resolution with concerned Cabinet members, and if necessary, by the President.
 
 (d) A coordinator for drug interdiction shall be designated by the Director to ensure that assets dedicated by Federal drug program agencies for interdiction are sufficient and that their use is properly integrated and optimized. The coordinator shall ensure that interdiction efforts and priorities are consistent with overall U.S. international counternarcotics policy.
 

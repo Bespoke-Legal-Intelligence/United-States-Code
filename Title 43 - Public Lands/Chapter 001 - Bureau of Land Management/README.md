@@ -15,7 +15,7 @@
 | [16\.](%C2%A7%2000016%20-%20Engrossing%20and%20recording%20patents.md) | Engrossing and recording patents. |
 | [17\.](%C2%A7%2000017%20-%20Plats%20of%20land%20surveyed.md) | Plats of land surveyed. |
 | [18\.](%C2%A7%2000018%20-%20Copies%20of%20papers%20filed.md) | Copies of papers filed. |
-| 19 to 25b. Repealed. |  |
+| 19 to 25b. | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

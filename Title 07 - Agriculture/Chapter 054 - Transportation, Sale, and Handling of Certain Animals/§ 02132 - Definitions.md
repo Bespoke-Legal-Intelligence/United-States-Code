@@ -26,7 +26,7 @@ When used in this chapter—
 
 (h) The term “exhibitor” means any person (public or private) exhibiting any animals, which were purchased in commerce or the intended distribution of which affects commerce, or will affect commerce, to the public for compensation, as determined by the Secretary, and such term includes carnivals, circuses, and zoos exhibiting such animals whether operated for profit or not; but such term excludes retail pet stores, organizations sponsoring and all persons participating in State and country fairs, livestock shows, rodeos, purebred dog and cat shows, and any other fairs or exhibitions intended to advance agricultural arts and sciences, as may be determined by the Secretary;
 
-(i) The term “intermediate handler” means any person including a department, agency, or instrumentality of the United States or of any State or local government (other than a dealer, research facility, exhibitor, any person excluded from the definition of a dealer, research facility, or exhibitor, an operator of an auction sale, or a carrier) who is engaged in any business in which he receives custody of animals in connection with their transportation in commerce;
+(i) The term “intermediate handler” means any person including a department, agency, orinstrumentality of the United States or of any State or local government (other than a dealer, research facility, exhibitor, any person excluded from the definition of a dealer, research facility, or exhibitor, an operator of an auction sale, or a carrier) who is engaged in any business in which he receives custody of animals in connection with their transportation in commerce;
 
 (j) The term “carrier” means the operator of any airline, railroad, motor carrier, shipping line, or other enterprise, which is engaged in the business of transporting any animals for hire;
 
@@ -44,7 +44,7 @@ When used in this chapter—
 
 #### Amendments
 
-1985—Subsecs. (k) to (<i>o</i>). Pub. L. 99–198 added subsecs. (k) to (<i>o).</i>
+1985—Subsecs. (k) to (<i>o</i>). Pub. L. 99–198 added subsecs. (k) to (<i>o</i>).
 
 1976—Subsec. (c). Pub. L. 94–279, §3(1), made changes in phraseology, restructured subsection and expanded definition of “commerce” by making it applicable to any activity affecting interstate commerce.
 

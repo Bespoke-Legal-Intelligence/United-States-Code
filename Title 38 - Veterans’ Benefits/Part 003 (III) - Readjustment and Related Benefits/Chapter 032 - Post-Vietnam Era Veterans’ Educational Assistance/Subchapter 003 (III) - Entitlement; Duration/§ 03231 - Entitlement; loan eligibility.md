@@ -2,7 +2,7 @@
 
 (a)(1) Subject to the provisions of section 3695 of this title limiting the aggregate period for which any person may receive assistance under two or more programs of educational or vocational assistance administered by the Department of Veterans Affairs, a participant shall be entitled to a maximum of 36 monthly benefit payments (or their equivalent in the event of part-time benefits).
 
-(2) Except as provided in paragraph (5)(E) of this subsection and in subsection (f) of this section and section 3233 of this title and subject to section 3241 of this title, the amount of the monthly payment to which any eligible veteran is entitled shall be ascertained by (A) adding all contributions made to the fund by the eligible veteran, (B) multiplying the sum by 3, (C) adding all contributions made to the fund for such veteran by the Secretary of Defense, and (D) dividing the sum by the lesser of 36 or the number of months in which contributions were made by such veteran.
+(2) Except as provided in paragraph (5)(E) of this subsection and in subsection (f) <sup>1</sup> of this section and section 3233 of this title and subject to section 3241 of this title, the amount of the monthly payment to which any eligible veteran is entitled shall be ascertained by (A) adding all contributions made to the fund by the eligible veteran, (B) multiplying the sum by 3, (C) adding all contributions made to the fund for such veteran by the Secretary of Defense, and (D) dividing the sum by the lesser of 36 or the number of months in which contributions were made by such veteran.
 
 (3) Payment of benefits under this chapter may be made only for periods of time during which an eligible veteran is actually enrolled in and pursuing an approved program of education and, except as provided in paragraph (4), only after an eligible veteran has been discharged or released from active duty.
 
@@ -22,7 +22,7 @@
 
 &emsp;(iii) failed to receive credit or training time toward completion of the individual's approved educational, professional, or vocational objective as a result of having to discontinue, as described in clause (i) or (ii) of this subparagraph, his or her course pursuit.
 
-(C) The period for which, by reason of this subsection, an educational assistance allowance is not charged against entitlement or counted toward the applicable aggregate period under section 3695 of this title shall not exceed the portion of the period of enrollment in the course or courses for which the individual failed to receive credit or with respect to which the individual lost training time, as determined under subparagraph (B)(iii) of this paragraph.
+(C) The period for which, by reason of this subsection, an educational assistance allowance isnot charged against entitlement or counted toward the applicable aggregate period under section 3695 of this title shall not exceed the portion of the period of enrollment in the course or courses for which the individual failed to receive credit or with respect to which the individual lost training time, as determined under subparagraph (B)(iii) of this paragraph.
 
 (D) The amount in the fund for each eligible veteran who received a payment of an educational assistance allowance described in subparagraph (B) of this paragraph shall be restored to the amount that would have been in the fund for the veteran if the payment had not been made. For purposes of carrying out the previous sentence, the Secretary of Defense shall deposit into the fund, on behalf of each such veteran, an amount equal to the entire amount of the payment made to the veteran.
 
@@ -38,15 +38,11 @@
 
 (c) When an eligible veteran is pursuing a program of education under this chapter by correspondence, such eligible veteran's entitlement shall be charged at the rate of 1 month's entitlement for each month of benefits paid to the eligible veteran (computed on the basis of the formula provided in subsection (a)(2) of this section).
 
-(d)(1) The amount of the monthly benefit payment to an individual pursuing a cooperative program under this chapter shall be 80 percent of the monthly benefit otherwise payable to such individual (computed on the basis of the formula provided in subsection (a)(2) of this section).
-
-(2) For each month that an individual is paid a monthly benefit payment for pursuit of a cooperative program under this chapter, the individual's entitlement under this chapter shall be charged at the rate 80 percent of a month.
-
-(e)(1) Subject to the provisions of paragraph (2) of this subsection, the amount of the educational assistance benefits paid to an eligible veteran who is pursuing a program of education under this chapter while incarcerated in a Federal, State, or local penal institution for conviction of a felony may not exceed the lesser of (A) such amount as the Secretary determines, in accordance with regulations which the Secretary shall prescribe, is necessary to cover the cost of established charges for tuition and fees required of similarly circumstanced nonveterans enrolled in the same program and the cost of necessary supplies, books, and equipment, or (B) the applicable monthly benefit payment otherwise prescribed in this section or section 3233 of this title. The amount of the educational assistance benefits payable to a veteran while so incarcerated shall be reduced to the extent that the tuition and fees of the veteran for any course are paid under any Federal program (other than a program administered by the Secretary) or under any State or local program.
+(d)(1) Subject to the provisions of paragraph (2) of this subsection, the amount of the educational assistance benefits paid to an eligible veteran who is pursuing a program of education under this chapter while incarcerated in a Federal, State, or local penal institution for conviction of a felony may not exceed the lesser of (A) such amount as the Secretary determines, in accordance with regulations which the Secretary shall prescribe, is necessary to cover the cost of established charges for tuition and fees required of similarly circumstanced nonveterans enrolled in the same program and the cost of necessary supplies, books, and equipment, or (B) the applicable monthly benefit payment otherwise prescribed in this section or section 3233 of this title. The amount of the educational assistance benefits payable to a veteran while so incarcerated shall be reduced to the extent that the tuition and fees of the veteran for any course are paid under any Federal program (other than a program administered by the Secretary) or under any State or local program.
 
 (2) Paragraph (1) of this subsection shall not apply in the case of any veteran who is pursuing a program of education under this chapter while residing in a halfway house or participating in a work-release program in connection with such veteran's conviction of a felony.
 
-(f)(1) Subject to subsection (a)(1) of this section, each individual who is pursuing a program of education consisting exclusively of flight training approved as meeting the requirements of section 3241(b) of this title shall be paid educational assistance under this chapter in the amount equal to 60 percent of the established charges for tuition and fees which similarly circumstanced nonveterans enrolled in the same flight course are required to pay.
+(e)(1) Subject to subsection (a)(1) of this section, each individual who is pursuing a program of education consisting exclusively of flight training approved as meeting the requirements of section 3241(b) of this title shall be paid educational assistance under this chapter in the amount equal to 60 percent of the established charges for tuition and fees which similarly circumstanced nonveterans enrolled in the same flight course are required to pay.
 
 (2) No payment may be paid under this chapter to an individual for any month during which such individual is pursuing a program of education consisting exclusively of flight training until the Secretary has received from that individual and the institution providing such training a certification of the flight training received by the individual during that month and the tuition and other fees charged for that training.
 
@@ -54,13 +50,21 @@
 
 (4) The number of solo flying hours for which an individual may be paid an educational assistance allowance under this subsection may not exceed the minimum number of solo flying hours required by the Federal Aviation Administration for the flight rating or certification which is the goal of the individual's flight training.
 
-(Added Pub. L. 94–502, title IV, §404, Oct. 15, 1976, 90 Stat. 2396, §1631; amended Pub. L. 96–466, title IV, §§403, 404, Oct. 17, 1980, 94 Stat. 2201; Pub. L. 97–35, title XX, §§2003(a)(1), 2005(a), Aug. 13, 1981, 95 Stat. 782; Pub. L. 99–576, title III, §310(b)(1), Oct. 28, 1986, 100 Stat. 3271; Pub. L. 100–689, title I, §§108(b)(2), 122, Nov. 18, 1988, 102 Stat. 4170, 4174; Pub. L. 101–237, title IV, §423(b)(1), (4)(A), Dec. 18, 1989, 103 Stat. 2092; Pub. L. 102–16, §7(b), Mar. 22, 1991, 105 Stat. 51; renumbered §3231 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–127, §2(b), Oct. 10, 1991, 105 Stat. 619; Pub. L. 102–568, title III, §310(c), Oct. 29, 1992, 106 Stat. 4330.)
+(Added Pub. L. 94–502, title IV, §404, Oct. 15, 1976, 90 Stat. 2396, §1631; amended Pub. L. 96–466, title IV, §§403, 404, Oct. 17, 1980, 94 Stat. 2201; Pub. L. 97–35, title XX, §§2003(a)(1), 2005(a), Aug. 13, 1981, 95 Stat. 782; Pub. L. 99–576, title III, §310(b)(1), Oct. 28, 1986, 100 Stat. 3271; Pub. L. 100–689, title I, §§108(b)(2), 122, Nov. 18, 1988, 102 Stat. 4170, 4174; Pub. L. 101–237, title IV, §423(b)(1), (4)(A), Dec. 18, 1989, 103 Stat. 2092; Pub. L. 102–16, §7(b), Mar. 22, 1991, 105 Stat. 51; renumbered §3231 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–127, §2(b), Oct. 10, 1991, 105 Stat. 619; Pub. L. 102–568, title III, §310(c), Oct. 29, 1992, 106 Stat. 4330; Pub. L. 104–275, title I, §105(b), Oct. 9, 1996, 110 Stat. 3327.)
 
 #### References in Text
+
+Subsection (f) of this section, referred to in subsec. (a)(2), was redesignated subsec. (e) of this section by Pub. L. 104–275, title I, §105(b), Oct. 9, 1996, 110 Stat. 3327.
 
 Sections 672, 673, and 673b of title 10, referred to in subsec. (a)(5)(B)(i), were renumbered sections 12301, 12302, and 12304, respectively, of Title 10, Armed Forces, by Pub. L. 103–337, div. A, title XVI, §1662(e)(2), Oct. 5, 1994, 108 Stat. 2992. A new section 672 of Title 10 was enacted by section 1662(e)(4) of Pub. L. 103–337.
 
 #### Amendments
+
+1996—Subsecs. (d) to (f). Pub. L. 104–275 redesignated subsecs. (e) and (f) as (d) and (e), respectively, and struck out former subsec. (d) which read as follows:
+
+“(d)(1) The amount of the monthly benefit payment to an individual pursuing a cooperative program under this chapter shall be 80 percent of the monthly benefit otherwise payable to such individual (computed on the basis of the formula provided in subsection (a)(2) of this section).
+
+“(2) For each month that an individual is paid a monthly benefit payment for pursuit of a cooperative program under this chapter, the individual's entitlement under this chapter shall be charged at the rate 80 percent of a month.”
 
 1992—Subsec. (f)(1). Pub. L. 102–568, §310(c)(1), struck out “(other than tuition and fees charged for or attributable to solo flying hours)” after “for tuition and fees”.
 

@@ -22,7 +22,7 @@ The Secretary acting through the Institute may designate National Alcohol Resear
 
 #### (b) Annual grants; amount; limitation on uses
 
-The Secretary shall, under such conditions as the Secretary may reasonably require, make annual grants to Centers which have been designated under this section. No funds provided under a grant under this subsection may be used for the purchase of any land or the purchase, construction, preservation, or repair of any building. For the purposes of the preceding sentence, the term “construction” has the meaning given that term by section 292a(1) <sup>2</sup> of this title. The Secretary shall include in the grants made under this section for fiscal years beginning after September 30, 1981, a grant to a designated Center for research on the effects of alcohol on the elderly.
+The Secretary shall, under such conditions as the Secretary may reasonably require, make annual grants to Centers which have been designated under this section. No funds provided under a grant under this subsection may be used for the purchase of any land or the purchase, construction, preservation, or repair of any building. For the purposes of the preceding sentence, the term “construction” has the meaning given that term by section 292a(1) <sup>2</sup> of this title. The Secretary shall include in the grants made under this section for fiscal years beginningafter September 30, 1981, a grant to a designated Center for research on the effects of alcohol on the elderly.
 
 (July 1, 1944, ch. 373, title IV, §464J, formerly title V, §511, formerly Pub. L. 91–616, title V, §503, formerly §504, as added Pub. L. 94–371, §7, July 26, 1976, 90 Stat. 1039; amended Pub. L. 95–622, title I, §110(d), Nov. 9, 1978, 92 Stat. 3420; Pub. L. 96–180, §16, Jan. 2, 1980, 93 Stat. 1305; renumbered §503 of Pub. L. 91–616 and amended Pub. L. 97–35, title IX, §965(b), (c), Aug. 13, 1981, 95 Stat. 594; renumbered §511 of act July 1, 1944, and amended Apr. 26, 1983, Pub. L. 98–24, §2(b)(9), 97 Stat. 179; Oct. 27, 1986, Pub. L. 99–570, title IV, §4008, 100 Stat. 3207–115; renumbered title IV, §464J and amended July 10, 1992, Pub. L. 102–321, title I, §122(d), 106 Stat. 360; Aug. 26, 1992, Pub. L. 102–352, §2(a)(2), 106 Stat. 938.)
 
@@ -52,7 +52,7 @@ Pub. L. 99–570, §4008(2), struck out “rental,” before “purchase”.
 
 Subsec. (b). Pub. L. 98–24, §2(b)(9)(B)(ii), (iii), struck out provision that no annual grant to any Center might exceed $1,500,000, and made a technical amendment to reference to section 292a of this title to reflect the transfer of this section to the Public Health Service Act.
 
-Subsec. (c). Pub. L. 98–24, §2(b)(9)(B)(iv), struck out subsec. (c) which authorized $6,000,000 for each of fiscalyears ending Sept. 30, 1977, 1978, and 1979, $8,000,000 for fiscal year ending Sept. 30, 1980, and $9,000,000 for fiscal year ending Sept. 30, 1981.
+Subsec. (c). Pub. L. 98–24, §2(b)(9)(B)(iv), struck out subsec. (c) which authorized $6,000,000 for each of fiscal years ending Sept. 30, 1977, 1978, and 1979, $8,000,000 for fiscal year ending Sept. 30, 1980, and $9,000,000 for fiscal year ending Sept. 30, 1981.
 
 1981—Subsec. (b). Pub. L. 97–35, §965(b), inserted provisions relating to grants made for fiscal years beginning after Sept. 30, 1981.
 

@@ -12,7 +12,7 @@
 
 #### (3) Compensatory time
 
-&emsp;Except as provided in regulations under subsection (c)(3) of this section, covered employees may not receive compensatory time in lieu of overtime compensation.
+&emsp;Except as provided in regulations under subsection (c)(3) of this section and in subsection (c)(4) of this section, covered employees may not receive compensatory time in lieu of overtime compensation.
 
 #### (b) Remedy
 
@@ -32,13 +32,17 @@ The remedy for a violation of subsection (a) of this section shall be such remed
 
 &emsp;The Board shall issue regulations for covered employees whose work schedules directly depend on the schedule of the House of Representatives or the Senate that shall be comparable to the provisions in the Fair Labor Standards Act of 1938 \[29 U.S.C. 201 et seq.\] that apply to employees who have irregular work schedules.
 
+#### (4) Law enforcement
+
+&emsp;Law enforcement personnel of the Capitol Police who are subject to the exemption under section 7(k) of the Fair Labor Standards Act of 1938 (29 U.S.C. 207(k)) may elect to receive compensatory time off in lieu of overtime compensation for hours worked in excess of the maximum for their work period.
+
 #### (d) Omitted
 
 #### (e) Effective date
 
 Subsections (a) and (b) of this section shall be effective 1 year after January 23, 1995.
 
-(Pub. L. 104–1, title II, §203, Jan. 23, 1995, 109 Stat. 10.)
+(Pub. L. 104–1, title II, §203, Jan. 23, 1995, 109 Stat. 10; Pub. L. 104–197, title III, §312, Sept. 16, 1996, 110 Stat. 2415.)
 
 #### References in Text
 
@@ -47,4 +51,10 @@ The Fair Labor Standards Act of 1938, referred to in subsec. (c)(3), is act June
 #### Codification
 
 Section is comprised of section 203 of Pub. L. 104–1. Subsec. (d) of section 203 of Pub. L. 104–1 amended section 203 of Title 29, Labor.
+
+#### Amendments
+
+1996—Subsec. (a)(3). Pub. L. 104–197, §312(a), inserted “and in subsection (c)(4) of this section” after “subsection (c)(3) of this section”.
+
+Subsec. (c)(4). Pub. L. 104–197, §312(b), added par. (4).
 

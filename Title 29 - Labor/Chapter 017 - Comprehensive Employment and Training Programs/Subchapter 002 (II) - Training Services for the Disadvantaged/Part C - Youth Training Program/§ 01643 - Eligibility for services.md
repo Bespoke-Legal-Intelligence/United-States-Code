@@ -16,7 +16,7 @@ Except as provided in subsections (e) and (g) of this section, an individual who
 
 #### (b) Hard-to-serve individuals who are in-school youth
 
-Not less than 65 percent of the in-school individuals who participate in a program under thispart shall be individuals who are included in one or more of the following categories:
+Not less than 65 percent of the in-school individuals who participate in a program under this part shall be individuals who are included in one or more of the following categories:
 
 &emsp;(1) Individuals who are basic skills deficient.
 

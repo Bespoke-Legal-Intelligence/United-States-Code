@@ -30,7 +30,7 @@ In preparing the plan required under subsection (a) of this section, the Secreta
 
 &emsp;(3) Employees shall, to the extent practicable, be retrained for work in environmental restoration and waste management activities at such facilities or other facilities of the Department of Energy.
 
-&emsp;(4) The Department of Energy should provide relocation assistance to employees who aretransferred to other Department of Energy facilities as a result of the plan.
+&emsp;(4) The Department of Energy should provide relocation assistance to employees who are transferred to other Department of Energy facilities as a result of the plan.
 
 &emsp;(5) The Department of Energy should assist terminated employees in obtaining appropriate retraining, education, and reemployment assistance (including employment placement assistance).
 
@@ -90,9 +90,9 @@ Subsec. (d). Pub. L. 103–337, §1070(c)(2)(A), substituted “workforce” for
 
 #### Effective Date of 1994 Amendment
 
-Section 1070(c) of Pub. L. 103–337 provided that the amendment made by that section is effective as of Oct. 23, 1992, and as if included in the National Defense Authorization Act for Fiscal Year 1993, Pub. L. 102–484, as enacted.
+Section 1070(c) of Pub. L. 103–337 provided that the amendment made by that section is effective as of Oct.23, 1992, and as if included in the National Defense Authorization Act for Fiscal Year 1993, Pub. L. 102–484, as enacted.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 7274j of this title.
+This section is referred to in sections 2297h–8, 7274j of this title.
 

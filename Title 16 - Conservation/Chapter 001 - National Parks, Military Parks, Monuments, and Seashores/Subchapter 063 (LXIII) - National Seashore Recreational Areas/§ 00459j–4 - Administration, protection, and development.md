@@ -2,7 +2,7 @@
 
 #### (a) Conservation and management of natural resources
 
-The seashore shall be administered, protected, and developed in accordance with the provisions of sections 1 and 2 to 4 of this title, as amended and supplemented, except that any other statutory authority available to the Secretary for the conservation management of natural resources may be utilized to the extent he finds such authority will further the purposes of sections 459j to 459j–8 of this title.
+The seashore shall be administered, protected, and developed in accordance with the provisionsof sections 1 and 2 to 4 of this title, as amended and supplemented, except that any other statutory authority available to the Secretary for the conservation management of natural resources may be utilized to the extent he finds such authority will further the purposes of sections 459j to 459j–8 of this title.
 
 #### (b) Administration of lands in Merritt Island National Wildlife Refuge
 

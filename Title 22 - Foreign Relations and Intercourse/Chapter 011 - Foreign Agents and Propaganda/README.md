@@ -45,7 +45,7 @@
 | [618\.](Subchapter%20002%20%28II%29%20-%20Registration%20of%20Foreign%20Propagandists/%C2%A7%2000618%20-%20Enforcement%20and%20penalties.md) | Enforcement and penalties. |
 | (a) | Violations; false statements and willful omissions. |
 | (b) | Proof of identity of foreign principal. |
-| (c) | Deportation. |
+| (c) | Removal. |
 | (d) | Repealed. |
 | (e) | Continuing offense. |
 | (f) | Injunctive remedy; jurisdiction of district court. |

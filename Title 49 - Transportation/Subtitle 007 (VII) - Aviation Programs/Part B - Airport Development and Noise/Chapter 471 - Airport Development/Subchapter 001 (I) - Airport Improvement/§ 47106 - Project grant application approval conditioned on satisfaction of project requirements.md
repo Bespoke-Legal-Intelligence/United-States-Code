@@ -4,7 +4,7 @@
 
 Project Grant Application Approval.—The Secretary of Transportation may approve an application under this subchapter for a project grant only if the Secretary is satisfied that—
 
-&emsp;(1) the project is consistent with plans (existing at the time the project is approved) of public agencies authorized by the State in which the airport is located to plan for the development of the area surrounding the airport;
+&emsp;(1) the project is consistent with plans (existing at the time the project is approved) ofpublic agencies authorized by the State in which the airport is located to plan for the development of the area surrounding the airport;
 
 &emsp;(2) the project will contribute to carrying out this subchapter;
 
@@ -32,7 +32,7 @@ Environmental Requirements.—(1) The Secretary may approve an application under
 
 &emsp;&emsp;(i) an opportunity for a public hearing was given to consider the economic, social, and environmental effects of the location and the location's consistency with the objectives of any planning that the community has carried out; and
 
-&emsp;&emsp;(ii) the airport management board has voting representation from the communities inwhich the project is located or has advised the communities that they have the right to petition the Secretary about a proposed project;
+&emsp;&emsp;(ii) the airport management board has voting representation from the communities in which the project is located or has advised the communities that they have the right to petition the Secretary about a proposed project;
 
 &emsp;(B) only if the chief executive officer of the State in which the project will be located certifies in writing to the Secretary that there is reasonable assurance that the project will be located, designed, constructed, and operated in compliance with applicable air and water quality standards, except that the Administrator of the Environmental Protection Agency shall make the certification instead of the chief executive officer if—
 
@@ -74,7 +74,7 @@ Withholding Approval.—(1) The Secretary may withhold approval of an applicatio
 
 (e)
 
-Reports Relating to Construction of Certain New Hub Airports.—At least 90 days prior to the approval under this subchapter of a project grant application for construction of a new hub airport that is expected to have 0.25 percent or more of the total annual enplanements in the United States, the Secretary shall submit to Congress a report analyzing the anticipated impact of such proposed new airport on—
+Reports Relating to Construction of Certain New Hub Airports.—At least 90 daysprior to the approval under this subchapter of a project grant application for construction of a new hub airport that is expected to have 0.25 percent or more of the total annual enplanements in the United States, the Secretary shall submit to Congress a report analyzing the anticipated impact of such proposed new airport on—
 
 &emsp;(1) the fees charged to air carriers (including landing fees), and other costs that will be incurred by air carriers, for using the proposed airport;
 
@@ -86,7 +86,9 @@ Reports Relating to Construction of Certain New Hub Airports.—At least 90 days
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -96,7 +98,7 @@ Historical and Revision Notes
 
 49 App.:2208(b) (1)(A)–(D).
 
-Sept. 3, 1982, Pub. L. 97–248, §§503(a)(8), 509(b)(1)(A)–(D), (2)–(4), (5) (last sentence words after 11th comma), (6)(B)–(8), 96 Stat. 673, 683, 684.
+Sept. 3, 1982, Pub. L. 97–248, §§503(a)(8), 509(b)(1)(A)– (D), (2)–(4), (5) (last sentence words after 11th comma), (6)(B)–(8), 96 Stat. 673, 683, 684.
 
 47106(b)
 
@@ -108,13 +110,13 @@ Sept. 3, 1982, Pub. L. 97–248, §§503(a)(8), 509(b)(1)(A)–(D), (2)–(4), (
 
 47106(c) (1)(A)
 
-49 App.:2208(b) (6)(A).
+49 App.:2208(b)(6)(A).
 
 Sept. 3, 1982, Pub. L. 97–248, §509(b)(6)(A), 96 Stat. 684; Oct. 31, 1992, Pub. L. 102–581, §113(b), 106 Stat. 4881.
 
 47106(c) (1)(B)
 
-49 App.:2208(b) (7)(A) (1st, 2d sentences).
+49 App.:2208(b)(7)(A) (1st, 2d sentences).
 
 47106(c) (1)(C)
 
@@ -126,11 +128,11 @@ Sept. 3, 1982, Pub. L. 97–248, §509(b)(6)(A), 96 Stat. 684; Oct. 31, 1992, Pu
 
 47106(c)(3)
 
-49 App.:2208(b) (6)(B).
+49 App.:2208(b)(6)(B).
 
 47106(c)(4)
 
-49 App.:2208(b) (7)(A) (last sentence), (B).
+49 App.:2208(b)(7)(A) (last sentence), (B).
 
 47106(c)(5)
 
@@ -187,8 +189,4 @@ In subsection (e)(3), the words “adversely affected” are substituted for “
 General Aviation Airport Project Grant Application Approval.—(1) In this subsection, ‘general aviation airport’ means a public airport that is not an air carrier airport.
 
 “(2) The Secretary may approve an application under this subchapter for an airport development project included in a project grant application involving the construction or extension of a runway at a general aviation airport located on both sides of a boundary line separating 2 counties within a State only if, before the application is submitted to the Secretary, the project is approved by the governing body of each village incorporated under the laws of the State and located entirely within 5 miles of the nearest boundary of the airport.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 49101, 49102, 49104, 49105 of this title.
 

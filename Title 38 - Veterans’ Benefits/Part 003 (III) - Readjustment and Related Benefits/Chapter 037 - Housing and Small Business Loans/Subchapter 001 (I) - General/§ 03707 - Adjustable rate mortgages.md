@@ -36,17 +36,5 @@ The National Housing Act, referred to in subsecs. (a) and (c)(3), is act June 27
 
 #### Annual Reports on Adjustable Rate Mortgages Guaranteed Under This Section
 
-Section 3(b) of Pub. L. 102–547 provided that: “The Secretary shall transmit a report to the Committees on Veterans’ Affairs of the Senate and House of Representatives no later than December 31, 1993, containing a description of the project carried out under section 3707 of title 38, United States Code (as added by subsection (a)), and shall continue to make annual reports to the Committees with respect to the default rate and other information concerning the loans guaranteed under such section. Such reports shall—
-
-&emsp;“(1) compare the number of adjustable rate mortgages guaranteed under such section with the number of fixed rate loans guaranteed or insured under chapter 37 of such title and contrast this ratio with a corresponding ratio for loans for single family housing insured by the Secretary of Housing and Urban Development pursuant to the National Housing Act \[12 U.S.C. 1701 et seq.\];
-
-&emsp;“(2) compare the initial interest rate of the adjustable rate mortgages guaranteed under such section with the fixed interest rate on loans guaranteed or insured under chapter 37 of such title;
-
-&emsp;“(3) describe the monthly mortgage payment savings to the veteran, if any, under an adjustable rate mortgage guaranteed under such section compared with the payments that would have been required if the loan bore interest at a maximum fixed rate established by the Secretary;
-
-&emsp;“(4) discuss whether the market share for housing loans guaranteed under chapter 37 of such title has increased or decreased since the implementation of such section;
-
-&emsp;“(5) compare the default rate on mortgages guaranteed under such section with the default rate of fixed-rate mortgages guaranteed or insured under chapter 37 of such title; and
-
-&emsp;“(6) compare the number of first time homebuyers using adjustable rate mortgage loans under such section with the number of first time homebuyers using any other loan guaranteed under chapter 37 of such title.”
+Section 3(b) of Pub. L. 102–547 directed Secretary of Veterans Affairs to transmit adjustable rate mortgage report to Committees on Veterans’ Affairs of Senate and House of Representatives no later than Dec. 31, 1993, containing description of project carried out under this section and thereafter to transmit annual reports to such committees with respect to default rates and other information concerning loans guaranteed under this section prior to repeal by Pub. L. 104–110, title II, §201(b), Feb. 13, 1996, 110 Stat. 770.
 

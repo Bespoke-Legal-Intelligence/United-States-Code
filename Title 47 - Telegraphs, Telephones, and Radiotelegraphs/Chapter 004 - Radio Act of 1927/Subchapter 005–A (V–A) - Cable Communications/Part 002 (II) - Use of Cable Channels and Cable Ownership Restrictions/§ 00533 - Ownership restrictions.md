@@ -1,24 +1,16 @@
 ### §533. Ownership restrictions
 
-#### (a) Persons owning or controlling television station licensee; cable operators holding license for multichannel distribution or offering satellite service
+#### (a) Cable operator holding license for multichannel distribution or offering satellite service
 
-(1) It shall be unlawful for any person to be a cable operator if such person, directly or through 1 or more affiliates, owns or controls, the licensee of a television broadcast station and the predicted grade B contour of such station covers any portion of the community served by such operator's cable system.
+It shall be unlawful for a cable operator to hold a license for multichannel multipoint distribution service, or to offer satellite master antenna television service separate and apart from any franchised cable service, in any portion of the franchise area served by that cable operator's cable system. The Commission—
 
-(2) It shall be unlawful for a cable operator to hold a license for multichannel multipoint distribution service, or to offer satellite master antenna television service separate and apart from any franchised cable service, in any portion of the franchise area served by that cable operator's cable system. The Commission—
+&emsp;(1) shall waive the requirements of this paragraph for all existing multichannel multipoint distribution services and satellite master antenna television services which are owned by a cable operator on October 5, 1992;
 
-&emsp;(A) shall waive the requirements of this paragraph for all existing multichannel multipoint distribution services and satellite master antenna television services which are owned by a cable operator on October 5, 1992; and
+&emsp;(2) may waive the requirements of this paragraph to the extent the Commission determines is necessary to ensure that all significant portions of a franchise area are able to obtain video programming; and
 
-&emsp;(B) may waive the requirements of this paragraph to the extent the Commission determines is necessary to ensure that all significant portions of a franchise area are able to obtain video programming.
+&emsp;(3) shall not apply the requirements of this subsection to any cable operator in any franchise area in which a cable operator is subject to effective competition as determined under section 543(<i>l</i>) of this title.
 
-#### (b) Common carriers; direct video programming; exception; waiver
-
-(1) It shall be unlawful for any common carrier, subject in whole or in part to subchapter II of this chapter, to provide video programming directly to subscribers in its telephone service area, either directly or indirectly through an affiliate owned by, operated by, controlled by, or under common control with the common carrier.
-
-(2) It shall be unlawful for any common carrier, subject in whole or in part to subchapter II of this chapter, to provide channels of communications or pole, line, conduit space, or other rental arrangements, to any entity which is directly or indirectly owned by, operated by, controlled by, or under common control with such common carrier, if such facilities or arrangements are to be used for, or in connection with, the provision of video programming directly to subscribers in the telephone service area of the common carrier.
-
-(3) This subsection shall not apply to any common carrier to the extent such carrier provides telephone exchange service in any rural area (as defined by the Commission).
-
-(4) In those areas where the provision of video programming directly to subscribers through a cable system demonstrably could not exist except through a cable system owned by, operated by, controlled by, or affiliated with the common carrier involved, or upon other showing of good cause, the Commission may, on petition for waiver, waive the applicability of paragraphs (1) and (2) of this subsection. Any such waiver shall be made in accordance with section 63.56 of title 47, Code of Federal Regulations (as in effect September 20, 1984) and shall be granted by the Commission upon a finding that the issuance of such waiver is justified by the particular circumstances demonstrated by the petitioner, taking into account the policy of this subsection.
+#### (b) Repealed. Pub. L. 104–104, title III, §302(b)(1), Feb. 8, 1996, 110 Stat. 124
 
 #### (c) Promulgation of rules
 
@@ -48,7 +40,7 @@ Any State or franchising authority may not prohibit the ownership or control of 
 
 &emsp;(A) ensure that no cable operator or group of cable operators can unfairly impede, either because of the size of any individual operator or because of joint actions by a group of operators of sufficient size, the flow of video programming from the video programmer to the consumer;
 
-&emsp;(B) ensure that cable operators affiliated with video programmers do not favor such programmers in determining carriage on their cable systems or do not unreasonably restrict the flow of the video programming of such programmers to other video distributors;
+&emsp;(B) ensure that cable operators affiliated with video programmers do not favor such programmers in determining carriage on theircable systems or do not unreasonably restrict the flow of the video programming of such programmers to other video distributors;
 
 &emsp;(C) take particular account of the market structure, ownership patterns, and other relationships of the cable television industry, including the nature and market power of the local franchise, the joint ownership of cable systems and video programmers, and the various types of non-equity controlling interests;
 
@@ -68,9 +60,13 @@ This section shall not apply to prohibit any combination of any interests held b
 
 For purposes of this section, the term “media of mass communications” shall have the meaning given such term under section 309(i)(3)(C)(i) of this title.
 
-(June 19, 1934, ch. 652, title VI, §613, as added Oct. 30, 1984, Pub. L. 98–549, §2, 98 Stat. 2785; amended Oct. 5, 1992, Pub. L. 102–385, §11, 106 Stat. 1486; Oct. 25, 1994, Pub. L. 103–414, title III, §303(a)(22), 108 Stat. 4295.)
+(June 19, 1934, ch. 652, title VI, §613, as added Oct. 30, 1984, Pub. L. 98–549, §2, 98 Stat. 2785; amended Oct. 5, 1992, Pub. L. 102–385, §11, 106 Stat. 1486; Oct. 25, 1994, Pub. L. 103–414, title III, §303(a)(22), 108 Stat. 4295; Feb. 8, 1996, Pub. L. 104–104, title II, §202(i), title III, §§302(b)(1), 110 Stat. 112, 124.)
 
 #### Amendments
+
+1996—Subsec. (a). Pub. L. 104–104, §202(i), redesignated par. (2) as subsec. (a) and subpars. (A) and (B) of par. (2) as pars. (1) and (2) of subsec. (a), respectively, added par. (3), and struck out former par. (1) which read as follows: “It shall be unlawful for any person to be a cable operator if such person, directly or through 1 or more affiliates, owns or controls, the licensee of a television broadcast station and the predicted grade B contour of such station covers any portion of the community served by such operator's cable system.”
+
+Subsec. (b). Pub. L. 104–104, §302(b)(1), struck out subsec. (b), which related to common carriers, direct video programming, an exception for rural areas, and waiver.
 
 1994—Subsec. (b)(2). Pub. L. 103–414 substituted “pole, line, conduit space” for “pole line conduit space”.
 
@@ -87,4 +83,8 @@ Amendment by Pub. L. 102–385 effective 60 days after Oct. 5, 1992, see section
 #### Effective Date
 
 Section effective 60 days after Oct. 30, 1984, except where otherwise expressly provided, see section 9(a) of Pub. L. 98–549, set out as a note under section 521 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 573 of this title.
 

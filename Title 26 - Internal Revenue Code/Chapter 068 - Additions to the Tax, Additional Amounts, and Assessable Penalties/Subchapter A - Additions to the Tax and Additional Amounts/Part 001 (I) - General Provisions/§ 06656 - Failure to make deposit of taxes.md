@@ -2,7 +2,7 @@
 
 #### (a) Underpayment of deposits
 
-In the case of any failure by any person to deposit (as required by this title or by regulationsof the Secretary under this title) on the date prescribed therefor any amount of tax imposed by this title in such government depository as is authorized under section 6302(c) to receive such deposit, unless it is shown that such failure is due to reasonable cause and not due to willful neglect, there shall be imposed upon such person a penalty equal to the applicable percentage of the amount of the underpayment.
+In the case of any failure by any person to deposit (as required by this title or by regulations of the Secretary under this title) on the date prescribed therefor any amount of tax imposed by this title in such government depository as is authorized under section 6302(c) to receive such deposit, unless it is shown that such failure is due to reasonable cause and not due to willful neglect, there shall be imposed upon such person a penalty equal to the applicable percentage of the amount of the underpayment.
 
 #### (b) Definitions
 
@@ -34,9 +34,31 @@ For purposes of subsection (a)—
 
 &emsp;The term “underpayment” means the excess of the amount of the tax required to be deposited over the amount, if any, thereof deposited on or before the date prescribed therefor.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 826; Dec. 30, 1969, Pub. L. 91–172, title IX, §943(b), 83 Stat. 728; Oct. 4, 1976, Pub. L. 94–455, title XIX, §1906(b)(13)(A), 90 Stat. 1834; Aug. 13, 1981, Pub. L. 97–34, title VII, §724(a), (b)(1), (3), 95 Stat. 344, 345; Oct. 21, 1986, Pub. L. 99–509, title VIII, §8001(a), 100 Stat. 1951; Dec. 19, 1989, Pub. L. 101–239, title VII, §7742(a), 103 Stat. 2405.)
+#### (c) Exception for first-time depositors of employment taxes
+
+The Secretary may waive the penalty imposed by subsection (a) on a person's inadvertent failure to deposit any employment tax if—
+
+&emsp;(1) such person meets the requirements referred to in section 7430(c)(4)(A)(ii),
+
+&emsp;(2) such failure occurs during the 1st quarter that such person was required to deposit any employment tax, and
+
+&emsp;(3) the return of such tax was filed on or before the due date.
+
+> For purposes of this subsection, the term “employment taxes” means the taxes imposed by subtitle C.
+
+#### (d) Authority to abate penalty where deposit sent to Secretary
+
+The Secretary may abate the penalty imposed by subsection (a) with respect to the first time a depositor is required to make a deposit if the amount required to be deposited is inadvertently sent to the Secretary instead of to the appropriate government depository.
+
+(Aug. 16, 1954, ch. 736, 68A Stat. 826; Dec. 30, 1969, Pub. L. 91–172, title IX, §943(b), 83 Stat. 728; Oct. 4, 1976, Pub. L. 94–455, title XIX, §1906(b)(13)(A), 90 Stat. 1834; Aug. 13, 1981, Pub. L. 97–34, title VII, §724(a), (b)(1), (3), 95 Stat. 344, 345; Oct. 21, 1986, Pub. L. 99–509, title VIII, §8001(a), 100 Stat. 1951; Dec. 19, 1989, Pub. L. 101–239, title VII, §7742(a), 103 Stat. 2405; July 30, 1996, Pub. L. 104–168, title III, §304(a), title VII, §701(c)(3), 110 Stat. 1458, 1464.)
 
 #### Amendments
+
+1996—Subsec. (c). Pub. L. 104–168, §304(a), added subsec. (c).
+
+Subsec. (c)(1). Pub. L. 104–168, §701(c)(3), substituted “section 7430(c)(4)(A)(ii)” for “section 7430(c)(4)(A)(iii)”.
+
+Subsec. (d). Pub. L. 104–168, §304(a), added subsec. (d).
 
 1989—Pub. L. 101–239 substituted “taxes” for “taxes or overstatement of deposits” as section catchline and amended text generally, revising substance and structure.
 
@@ -51,6 +73,12 @@ Subsec. (b). Pub. L. 97–34, §724(a), substituted provisions relating to condi
 1976—Subsec. (a). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
 1969—Subsec. (a). Pub. L. 91–172 substituted provisions imposing a penalty of five percent for the failure to deposit on the date prescribed any amount of tax imposed by this title, for provisions imposing a penalty of one percent of the amount of underpayment each month but not to exceed six percent in the aggregate.
+
+#### Effective Date of 1996 Amendment
+
+Section 304(b) of Pub. L. 104–168 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to deposits required to be made after the date of the enactment of this Act \[July 30, 1996\].”
+
+Amendment by section 701(c)(3) of Pub. L. 104–168 applicable in case of proceedings commenced after July 30, 1996, see section 701(d) of Pub. L. 104–168, set out as a note under section 6404 of this title.
 
 #### Effective Date of 1989 Amendment
 

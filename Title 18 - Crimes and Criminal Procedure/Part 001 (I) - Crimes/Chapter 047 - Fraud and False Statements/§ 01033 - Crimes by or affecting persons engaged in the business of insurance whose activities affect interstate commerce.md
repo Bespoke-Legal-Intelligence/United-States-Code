@@ -28,7 +28,7 @@
 
 (e)(1)(A) Any individual who has been convicted of any criminal felony involving dishonesty or a breach of trust, or who has been convicted of an offense under this section, and who willfully engages in the business of insurance whose activities affect interstate commerce or participates in such business, shall be fined as provided in this title or imprisoned not more than 5 years, or both.
 
-(B) Any individual who is engaged in the business of insurance whose activities affect interstate commerce and who willfully permits the participation described in subparagraph (A)shall be fined as provided in this title or imprisoned not more than 5 years, or both.
+(B) Any individual who is engaged in the business of insurance whose activities affect interstate commerce and who willfully permits the participation described in subparagraph (A) shall be fined as provided in this title or imprisoned not more than 5 years, or both.
 
 (2) A person described in paragraph (1)(A) may engage in the business of insurance or participate in such business if such person has the written consent of any insurance regulatory official authorized to regulate the insurer, which consent specifically refers to this subsection.
 

@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary shall establish an advisory council for the purpose of providing advice tothe Director of the Office on carrying out this part. (Such council is referred to in this subsection as the “Advisory Council”.)
+&emsp;The Secretary shall establish an advisory council for the purpose of providing advice to the Director of the Office on carrying out this part. (Such council is referred to in this subsection as the “Advisory Council”.)
 
 #### (2) Composition, compensation, terms, chair, etc.
 

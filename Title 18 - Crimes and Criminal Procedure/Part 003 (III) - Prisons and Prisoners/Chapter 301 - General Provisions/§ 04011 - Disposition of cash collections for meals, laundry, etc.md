@@ -1,6 +1,6 @@
 ### §4011. Disposition of cash collections for meals, laundry, etc.
 
-Collections in cash for meals, laundry, barber service, uniform equipment, and other items for which payment is made originally from appropriations for the maintenance and operation of Federal penal and correctional institutions, may be deposited in the Treasury to the credit of the appropriation currently available for those items when the collection is made.
+Collections in cash for meals, laundry, barber service, uniform equipment, and other items forwhich payment is made originally from appropriations for the maintenance and operation of Federal penal and correctional institutions, may be deposited in the Treasury to the credit of the appropriation currently available for those items when the collection is made.
 
 (Added Pub. L. 89–554, §3(f), Sept. 6, 1966, 80 Stat. 610.)
 
@@ -10,7 +10,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 5 U.S.C. 341g.
 

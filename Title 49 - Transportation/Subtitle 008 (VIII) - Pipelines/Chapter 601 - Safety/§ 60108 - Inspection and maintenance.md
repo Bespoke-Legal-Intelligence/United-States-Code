@@ -2,7 +2,7 @@
 
 (a)
 
-Plans.—(1) Each person transporting gas or hazardous liquid or owning or operating an intrastate gas pipeline facility or hazardous liquid pipeline facility shall carry out a current written plan (including any changes) for inspection and maintenance of each facility used in the transportation and owned or operated by the person. A copy of the plan shall be kept at any office of the person the Secretary of Transportation considers appropriate. The Secretary also may require a person transporting gas or hazardous liquid or owning or operating a pipeline facility subject to this chapter to file a plan for inspection and maintenance for approval.
+Plans.—(1) Each person owning or operating an intrastate gas pipeline facility or hazardous liquid pipeline facility shall carry out a current written plan (including any changes) for inspection and maintenance of each facility used in the transportation and owned or operated by the person. A copy of the plan shall be kept at any office of the person the Secretary of Transportation considers appropriate. The Secretary also may require a person owning or operating a pipeline facility subject to this chapter to file a plan for inspection and maintenance for approval.
 
 (2) If the Secretary or a State authority responsible for enforcing standards prescribed under this chapter decides that a plan required under paragraph (1) of this subsection is inadequate for safe operation, the Secretary or authority shall require the person to revise the plan. Revision may be required only after giving notice and an opportunity for a hearing. A plan required under paragraph (1) must be practicable and designed to meet the need for pipeline safety and must include terms designed to enhance the ability to discover safety-related conditions described in section 60102(h)(1) of this title. In deciding on the adequacy of a plan, the Secretary or authority shall consider—
 
@@ -38,13 +38,13 @@ Inspection and Testing.—(1) The Secretary shall inspect and require appropriat
 
 &emsp;(I) other factors the Secretary decides are relevant to the safety of pipeline facilities.
 
-(2) To the extent and in amounts provided in advance in an appropriation law, the Secretary shall decide on the frequency of inspection under paragraph (1) of this subsection. However, an inspection must occur at least once every 2 years. The Secretary may reduce the frequency of an inspection of a master meter system.
+(2) To the extent and in amounts provided in advance in an appropriation law, the Secretary shall decide on the frequency of inspection under paragraph (1) of this subsection. The Secretary may reduce the frequency of an inspection of a master meter system.
 
 (3) Testing under this subsection shall use the most appropriate technology practicable.
 
 (c)
 
-Pipeline Facilities Offshore and in Navigable Waters.—(1) In this subsection—
+Pipeline Facilities Offshore and in Other Waters.—(1) In this subsection—
 
 &emsp;(A) “abandoned” means permanently removed from service.
 
@@ -56,9 +56,9 @@ Pipeline Facilities Offshore and in Navigable Waters.—(1) In this subsection�
 
 &emsp;(i) all offshore pipeline facilities; and
 
-&emsp;(ii) any other pipeline facility crossing under, over, or through navigable waters (as defined by the Secretary) if the Secretary decides that the location of the facility in those navigable waters could pose a hazard to navigation or public safety.
+&emsp;(ii) any other pipeline facility crossing under, over, or through waters where a substantial likelihood of commercial navigation exists, if the Secretary decides that the location of the facility in those waters could pose a hazard to navigation or public safety.
 
-(B) In prescribing regulations to carry out subparagraph (A) of this paragraph—
+(B) In prescribing standards to carry out subparagraph (A) of this paragraph—
 
 &emsp;(i) the Secretary shall identify what is a hazard to navigation with respect to an underwater abandoned pipeline facility; and
 
@@ -68,9 +68,9 @@ Pipeline Facilities Offshore and in Navigable Waters.—(1) In this subsection�
 
 (B) The operator of a pipeline facility described in paragraph (2) of this subsection that discovers any part of the pipeline facility that is a hazard to navigation shall mark the location of the hazardous part with a Coast-Guard-approved marine buoy or marker and immediately shall notify the Secretary as provided by the Secretary under subparagraph (A) of this paragraph. A marine buoy or marker used under this subparagraph is deemed a pipeline sign or right-of-way marker under section 60123(c) of this title.
 
-(4)(A) The Secretary shall require by regulation that each pipeline facility described in paragraph (2) of this subsection that is a hazard to navigation is buried not later than 6 months after the date the condition of the facility is reported to the Secretary. The Secretary may extend that 6-month period for a reasonable period to ensure compliance with this paragraph.
+(4)(A) The Secretary shall establish a standard that each pipeline facility described in paragraph (2) of this subsection that is a hazard to navigation is buried not later than 6 months after the date the condition of the facility is reported to the Secretary. The Secretary may extend that 6-month period for a reasonable period to ensure compliance with this paragraph.
 
-(B) In prescribing regulations for subparagraph (A) of this paragraph for an underwater pipeline facility abandoned after October 24, 1992, the Secretary shall include requirements that will lessen the potential that the facility will pose a hazard to navigation and shall consider the relationship between water depth and navigational safety and factors relevant to the local marine environment.
+(B) In prescribing standards for subparagraph (A) of this paragraph for an underwater pipeline facility abandoned after October 24, 1992, the Secretary shall include requirements that will lessen the potential that the facility will pose a hazard to navigation and shall consider the relationship between water depth and navigational safety and factors relevant to the local marine environment.
 
 (5)(A) Not later than October 24, 1994, the Secretary shall establish standards on what is an exposed offshore pipeline facility and what is a hazard to navigation under this subsection.
 
@@ -98,13 +98,15 @@ Replacing Cast Iron Gas Pipelines.—(1) The Secretary shall publish a notice on
 
 (2) Chapter 35 of title 44 does not apply to the conduct of the survey.
 
-(3) This subsection does not prevent the Secretary from developing Government guidelines or regulations for cast iron gas pipelines as the Secretary considers appropriate.
+(3) This subsection does not prevent the Secretary from developing Government guidelines or standards for cast iron gas pipelines as the Secretary considers appropriate.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1312.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1312; Pub. L. 104–304, §§6, 20(h), Oct. 12, 1996, 110 Stat. 3800, 3805.)
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -174,13 +176,13 @@ Nov. 30, 1979, Pub. L. 96–129, 93 Stat. 989, §210(d); added Oct. 31, 1988, Pu
 
 60108(c)(1)
 
-49 App.:1672(h) (6)(A), (D).
+49 App.:1672(h)(6)(A), (D).
 
 Aug. 12, 1968, Pub. L. 90–481, 82 Stat. 720, §3(h)(6); added Oct. 24, 1992, Pub. L. 102–508, §117, 106 Stat. 3298.
 
 &nbsp;
 
-49 App.:2002(<i>l</i>)(7) (A), (D).
+49 App.:2002(<i>l</i>)(7)(A), (D).
 
 Nov. 30, 1979, Pub. L. 96–129, 93 Stat. 989, §203(<i>l</i>)(7); added Oct. 24, 1992, Pub. L. 102–508, §216, 106 Stat. 3306.
 
@@ -242,11 +244,11 @@ Nov. 30, 1979, Pub. L. 96–129, 93 Stat. 989, §203(<i>l</i>)(5), (6); added Oc
 
 60108(c)(6)
 
-49 App.:1672(h) (6)(C).
+49 App.:1672(h)(6)(C).
 
 &nbsp;
 
-49 App.:2002(<i>l</i>) (7)(C).
+49 App.:2002(<i>l</i>)(7)(C).
 
 60108(c)(7)
 
@@ -260,7 +262,7 @@ Aug. 12, 1968, Pub. L. 90–481, 82 Stat. 720, §13(c); added Oct. 24, 1992, Pub
 
 In subsection (a)(1), the word “prepare” is omitted as surplus. The words “or offices” are omitted because of 1:1. The words “in accordance with regulations prescribed by the Secretary or appropriate State agency” in 49 App.:1680(a) (1st sentence), “in accordance with regulations prescribed by the Secretary or, where a certification or agreement pursuant to section 2004 of this Appendix is in effect, by the appropriate State agency” in 49 App.:2009(a) (1st sentence), and “by regulation” are omitted as surplus because of 49:322(a) and sections 60102–60105 of the revised title.
 
-In subsection (a)(2), before clause (A), the words “the Secretary or” are added for clarity. The words “at any time” in 49 App.:1680(a) (3d sentence) are omitted as surplus.
+In subsection (a)(2), before clause (A), the words “the Secretary or” are added for clarity. The words “at anytime” in 49 App.:1680(a) (3d sentence) are omitted as surplus.
 
 In subsection (a)(3), the word “appropriate” is omitted as surplus.
 
@@ -294,11 +296,31 @@ Section 3(h)(1)(A) of the Natural Gas Pipeline Safety Act of 1968, referred to i
 
 Section 203(<i>l</i>)(1)(A) of the Hazardous Liquid Pipeline Safety Act of 1979, referred to in subsec. (c)(2)(A), (5)(B), is section 203(<i>l</i>)(1)(A) of Pub. L. 96–129, which was classified to section 2002(<i>l</i>)(1)(A) of former Title 49, Transportation, prior to repeal by Pub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379. For further details, see Historical and Revision Notes above.
 
+#### Amendments
+
+1996—Subsec. (a)(1). Pub. L. 104–304, §6(1), struck out “transporting gas or hazardous liquid or” after “Each person” and “a person”.
+
+Subsec. (b)(2). Pub. L. 104–304, §6(2), struck out after first sentence “However, an inspection must occur at least once every 2 years.”
+
+Subsec. (c). Pub. L. 104–304, §6(3), substituted “
+
+Other Waters” for “
+
+Navigable Waters” in heading.
+
+Subsec. (c)(2)(A)(ii). Pub. L. 104–304, §6(4), added cl. (ii) and struck out former cl. (ii) which read as follows: “any other pipeline facility crossing under, over, or through navigable waters (as defined by the Secretary) if the Secretary decides that the location of the facility in those navigable waters could pose a hazard to navigation or public safety.”
+
+Subsec. (c)(2)(B). Pub. L. 104–304, §20(h)(1), substituted “standards” for “regulations” in introductory provisions.
+
+Subsec. (c)(4)(A). Pub. L. 104–304, §20(h)(2), substituted “establish a standard” for “require by regulation”.
+
+Subsecs. (c)(4)(B), (d)(3). Pub. L. 104–304, §20(h)(1), substituted “standards” for “regulations”.
+
 #### Study of Underwater Abandoned Pipeline Facilities
 
 Pub. L. 102–508, title III, §307, Oct. 24, 1992, 106 Stat. 3309, directed Secretary of Transportation, in consultation with State and other Federal agencies having authority over underwater natural gas and hazardous liquid pipeline facilities and with pipeline owners and operators, fishing and maritime industries, and other affected groups, to submit to Congress, not later than 3 years after Oct. 24, 1992, report and recommendations on abandonment of such pipeline facilities, including analysis of problems caused by such facilities, alternative methods to abandonment, as well as navigational, safety, economic, and environmental impacts associated with abandonment, and further authorized Secretary to require, based on findings of such study, additional appropriate actions to prevent hazards to navigation in connection with such facilities.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 60104, 60105, 60106, 60118 of this title.
+This section is referred to in sections 60102, 60104, 60105, 60106, 60118 of this title.
 

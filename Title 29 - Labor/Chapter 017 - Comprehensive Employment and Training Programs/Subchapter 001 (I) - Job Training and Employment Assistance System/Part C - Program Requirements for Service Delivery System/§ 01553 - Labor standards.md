@@ -6,7 +6,7 @@
 
 (2) Health and safety standards established under State and Federal law, otherwise applicable to working conditions of employees, shall be equally applicable to working conditions of participants. With respect to any participant in a program conducted under this chapter who is engaged in activities which are not covered by health and safety standards under the Occupational Safety and Health Act of 1970 \[29 U.S.C. 651 et seq.\], the Secretary shall prescribe, by regulation, such standards as may be necessary to protect the health and safety of such participants.
 
-(3) To the extent that a State workers’ compensation law is applicable, workers’ compensation benefits in accordance with such law shall be available with respect to injuries suffered by participants. To the extent that such law is not applicable, each recipient of funds under this chapter shall secure insurance coverage for injuries suffered by such participants, in accordance with regulations prescribed by the Secretary.
+(3) To the extent that a State workers’ compensation law is applicable, workers’ compensation benefits in accordance with such law shallbe available with respect to injuries suffered by participants. To the extent that such law is not applicable, each recipient of funds under this chapter shall secure insurance coverage for injuries suffered by such participants, in accordance with regulations prescribed by the Secretary.
 
 (4) All individuals employed in subsidized jobs shall be provided benefits and working conditions at the same level and to the same extent as other employees working a similar length of time and doing the same type of work.
 

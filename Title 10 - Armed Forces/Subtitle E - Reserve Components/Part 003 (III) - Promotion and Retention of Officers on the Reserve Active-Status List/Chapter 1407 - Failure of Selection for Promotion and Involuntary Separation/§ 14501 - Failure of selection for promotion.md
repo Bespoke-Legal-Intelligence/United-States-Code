@@ -1,6 +1,8 @@
 ### §14501. Failure of selection for promotion
 
-(a) An officer on the reserve active-status list in a grade below the grade of colonel or, in the case of an officer in the Naval Reserve, captain who is in or above the promotion zone established for that officer's grade and competitive category and who (1) is considered but not recommended for promotion (other than by a vacancy promotion board), or (2) declines to accept a promotion for which selected (other than by a vacancy promotion board), shall be considered to have failed of selection for promotion.
+(a)
+
+Officers Below the Grade of Colonel or Navy Captain.—An officer on the reserve active-status list in a grade below the grade of colonel or, in the case of an officer in the Naval Reserve, captain who is in or above the promotion zone established for that officer's grade and competitive category and who (1) is considered but not recommended for promotion (other than by a vacancy promotion board), or (2) declines to accept a promotion for which selected (other than by a vacancy promotion board), shall be considered to have failed of selection for promotion.
 
 (b)
 
@@ -16,11 +18,15 @@ Officers Twice Failed of Selection.—An officer shall be considered for all pur
 
 &emsp;&emsp;(B) the officer's name is again removed from the report of a selection board under section 14111(b) or from a promotion list under section 14310 of this title.
 
-(Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2946.)
+(Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2946; amended Pub. L. 104–106, div. A, title XV, §1501(b)(28), Feb. 10, 1996, 110 Stat. 498.)
 
-#### Effective Date of Section
+#### Amendments
 
-<i>Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under section 10001 of this title.</i>
+1996—Subsec. (a). Pub. L. 104–106 inserted heading.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–106 effective as if included in the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as enacted on Oct. 5, 1994, see section 1501(f)(3) of Pub. L. 104–106, set out as a note under section 113 of this title.
 
 #### Effective Date
 

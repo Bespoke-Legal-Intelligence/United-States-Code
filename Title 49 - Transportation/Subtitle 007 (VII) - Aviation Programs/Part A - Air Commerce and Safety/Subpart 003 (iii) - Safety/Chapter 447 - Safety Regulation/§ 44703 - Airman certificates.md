@@ -66,7 +66,9 @@ Modifications in System.—(1) The Administrator of the Federal Aviation Adminis
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -120,7 +122,7 @@ Aug. 23, 1958, Pub. L. 85–726, §602(a) (9th–last words), (c), 72 Stat. 776.
 
 44703(e)
 
-49 App.:1422(b) (2)(A), (B).
+49 App.:1422(b)(2)(A), (B).
 
 Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §602(b)(2)(A), (B); added Oct. 19, 1984, Pub. L. 98–499, §3, 98 Stat. 2313; restated Nov. 18, 1988, Pub. L. 100–690, §7204(a), 102 Stat. 4425.
 
@@ -156,5 +158,5 @@ In subsection (f)(2), the words “Not later than September 18, 1989” and “f
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 106, 1133, 44701, 44709, 44710, 44711, 45302, 46301, 46310, 46316, 47531 of this title.
+This section is referred to in sections 106, 1133, 44701, 44709, 44710, 44711, 44724, 45302, 46310, 47531 of this title.
 

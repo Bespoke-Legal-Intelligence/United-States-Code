@@ -18,13 +18,23 @@ In preparing action plans, the Secretary may cooperate with State and local gove
 
 #### (e) Eligibility
 
-The Secretary shall ensure that no substantially similar geographical or defined local area in a State receives a grant for technical assistance to an economically disadvantaged community under this subchapter and a grant for assistance under a designated rural development program, as defined in section 2008(b)(2) of this title, during any continuous five-year period.
+The Secretary shall ensure that no substantially similar geographical or defined local area in a State receives a grant for technical assistance to an economically disadvantaged community under this subchapter and a grant for assistance under a designated rural development program during any continuous five-year period.
 
 #### (f) Approval
 
 After reviewing requests under this section for financial and economic feasibility and viability, the Secretary shall approve and implement in accordance with section 6614 of this title those action plans that will achieve the purposes of this subchapter.
 
-(Pub. L. 101–624, title XXIII, §2375, Nov. 28, 1990, 104 Stat. 4047.)
+#### (g) “Designated rural development program” defined
+
+In this section, the term “designated rural development program” means a program carried out under section 1924(b), 1926(a), or 1932(e) of this title for which funds are available at any time during the fiscal year.
+
+(Pub. L. 101–624, title XXIII, §2375, Nov. 28, 1990, 104 Stat. 4047; Pub. L. 104–127, title VII, §753(b)(1), Apr. 4, 1996, 110 Stat. 1131.)
+
+#### Amendments
+
+1996—Subsec. (e). Pub. L. 104–127, §753(b)(1)(A), struck out “, as defined in section 2008(b)(2) of this title,” before “during any”.
+
+Subsec. (g). Pub. L. 104–127, §753(b)(1)(B), added subsec. (g).
 
 #### Section Referred to in Other Sections
 

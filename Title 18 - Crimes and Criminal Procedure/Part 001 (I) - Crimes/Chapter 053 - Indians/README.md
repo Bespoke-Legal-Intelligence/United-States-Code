@@ -7,25 +7,29 @@
 | [1153\.](%C2%A7%2001153%20-%20Offenses%20committed%20within%20Indian%20country.md) | Offenses committed within Indian country. |
 | [1154\.](%C2%A7%2001154%20-%20Intoxicants%20dispensed%20in%20Indian%20country.md) | Intoxicants dispensed in Indian country. |
 | [1155\.](%C2%A7%2001155%20-%20Intoxicants%20dispensed%20on%20school%20site.md) | Intoxicants dispensed on school site. |
-| 1156\. | Intoxicants possessed unlawfully. |
+| [1156\.](%C2%A7%2001156%20-%20Intoxicants%20possessed%20unlawfully.md) | Intoxicants possessed unlawfully. |
 | \[1157. | Repealed.\] |
-| 1158\. | Counterfeiting Indian Arts and Crafts Board trade mark. |
-| 1159\. | Misrepresentation of Indian produced goods and products. |
-| 1160\. | Property damaged in committing offense. |
-| 1161\. | Application of Indian liquor laws. |
-| 1162\. | State jurisdiction over offenses committed by or against Indians in the Indian country. |
-| 1163\. | Embezzlement and theft from Indian tribal organizations. |
-| 1164\. | Destroying boundary and warning signs. |
-| 1165\. | Hunting, trapping, or fishing on Indian land. |
-| 1166\. | Gambling in Indian country. |
-| 1167\. | Theft from gaming establishments on Indian lands. |
-| 1168\. | Theft by officers or employees of gaming establishments on Indian lands. |
-| 1169\. | Reporting of child abuse. |
-| 1170\. | Illegal trafficking in Native American human remains and cultural items. |
+| [1158\.](%C2%A7%2001158%20-%20Counterfeiting%20Indian%20Arts%20and%20Crafts%20Board%20trade%20mark.md) | Counterfeiting Indian Arts and Crafts Board trade mark. |
+| [1159\.](%C2%A7%2001159%20-%20Misrepresentation%20of%20Indian%20produced%20goods%20and%20products.md) | Misrepresentation of Indian produced goods and products. |
+| [1160\.](%C2%A7%2001160%20-%20Property%20damaged%20in%20committing%20offense.md) | Property damaged in committing offense. |
+| [1161\.](%C2%A7%2001161%20-%20Application%20of%20Indian%20liquor%20laws.md) | Application of Indian liquor laws. |
+| [1162\.](%C2%A7%2001162%20-%20State%20jurisdiction%20over%20offenses%20committed%20by%20or%20against%20Indians%20in%20the%20Indian%20country.md) | State jurisdiction over offenses committed by or against Indians in the Indian country. |
+| [1163\.](%C2%A7%2001163%20-%20Embezzlement%20and%20theft%20from%20Indian%20tribal%20organizations.md) | Embezzlement and theft from Indian tribal organizations. |
+| [1164\.](%C2%A7%2001164%20-%20Destroying%20boundary%20and%20warning%20signs.md) | Destroying boundary and warning signs. |
+| [1165\.](%C2%A7%2001165%20-%20Hunting%2C%20trapping%2C%20or%20fishing%20on%20Indian%20land.md) | Hunting, trapping, or fishing on Indian land. |
+| [1166\.](%C2%A7%2001166%20-%20Gambling%20in%20Indian%20country.md) | Gambling in Indian country. |
+| [1167\.](%C2%A7%2001167%20-%20Theft%20from%20gaming%20establishments%20on%20Indian%20lands.md) | Theft from gaming establishments on Indian lands. |
+| [1168\.](%C2%A7%2001168%20-%20Theft%20by%20officers%20or%20employees%20of%20gaming%20establishments%20on%20Indian%20lands.md) | Theft by officers or employees of gaming establishments on Indian lands. |
+| [1169\.](%C2%A7%2001169%20-%20Reporting%20of%20child%20abuse.md) | Reporting of child abuse. |
+| [1170\.](%C2%A7%2001170%20-%20Illegal%20trafficking%20in%20Native%20American%20human%20remains%20and%20cultural%20items.md) | Illegal trafficking in Native American human remains and cultural items. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1996—Pub. L. 104–294, title VI, §604(b)(26), Oct. 11, 1996, 110 Stat. 3508, directed that item 1169 be transferred to appear after item 1168.
+
+Pub. L. 104–294, title VI, §604(b)(25), Oct. 11, 1996, 110 Stat. 3508, amended directory language of Pub. L. 103–322, §330011(d), which amended Pub. L. 101–630, §404(a)(2). See 1990 Amendment note below.
 
 1994—Pub. L. 103–322, title XXXIII, §330010(5), Sept. 13, 1994, 108 Stat. 2143, substituted “Illegal trafficking in Native American human remains and cultural items” for “Illegal Trafficking in Native American Human Remains and Cultural Items” in item 1170.
 
@@ -33,7 +37,7 @@
 
 Pub. L. 101–644, title I, §104(b), Nov. 29, 1990, 104 Stat. 4663, substituted “Misrepresentation of Indian produced goods and products” for “Misrepresentation in sale of products” in item 1159.
 
-Pub. L. 101–630, title IV, §404(a)(2), Nov. 28, 1990, 104 Stat. 4548, as amended, effective on the date section 404(a)(2) of Pub. L. 101–630 took effect, by Pub. L. 103–322, title XXXIII, §330011(d), Sept. 13, 1994, 108 Stat. 2144, which directed amendment of table of contents by “inserting after section 1169” item 1169, was executed by adding item 1169 after item 1168 to reflect the probable intent of Congress.
+Pub. L. 101–630, title IV, §404(a)(2), Nov. 28, 1990, 104 Stat. 4548, as amended, effective on the date section 404(a)(2) of Pub. L. 101–630 took effect, by Pub. L. 103–322, title XXXIII, §330011(d), Sept. 13, 1994, 108 Stat. 2144, as amended by Pub. L. 104–294, title VI, §604(b)(25), Oct. 11, 1996, 110 Stat. 3508, added item 1169.
 
 Pub. L. 101–601, §4(b), Nov. 16, 1990, 104 Stat. 3052, added item 1170.
 
@@ -58,8 +62,6 @@ Unauthorized Indian enrollment contracts, or receiving money in connection with 
 #### Chapter Referred to in Other Sections
 
 This chapter is referred to in title 25 section 450h.
-
-<i><sup>1</sup></i><i> Another section 1118 is set out preceding section 1119.</i>
 
 
 ---

@@ -14,5 +14,5 @@ Pub. L. 98–67, title II, §214(e), Aug. 5, 1983, 97 Stat. 393, provided that: 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 2464 of this title.
+This section is referred to in section 2463 of this title.
 

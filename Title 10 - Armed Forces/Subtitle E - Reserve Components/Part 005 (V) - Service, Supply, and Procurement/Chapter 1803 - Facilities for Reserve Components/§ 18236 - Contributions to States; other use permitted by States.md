@@ -1,6 +1,6 @@
 ### §18236. Contributions to States; other use permitted by States
 
-(a) Contributions under section 18233 of this title are subject to such terms as the Secretary of Defense, after consulting the Committees on Armed Services of the Senate and the House of Representatives, considers necessary for the purposes of this chapter. Except as otherwise agreed when the contribution is made, a facility provided by a contribution under paragraph (3) or (4) of section 18233(a) of this title may be used jointly by units of two or more reserve components of the armed forces only to the extent that the State considers practicable.
+(a) Contributions under section 18233 of this title are subject to such terms as the Secretary of Defense, after consulting the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives, considers necessary for the purposes of this chapter. Except as otherwise agreed when the contribution is made, a facilityprovided by a contribution under paragraph (3) or (4) of section 18233(a) of this title may be used jointly by units of two or more reserve components of the armed forces only to the extent that the State considers practicable.
 
 (b) A contribution made for an armory under paragraph (4) or (5) of section 18233(a) of this title may not exceed the sum of—
 
@@ -22,7 +22,7 @@
 
 &emsp;(2) in time of war or national emergency, by other units of the armed forces or by the United States for any other purpose.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 122, §2236; Sept. 2, 1958, Pub. L. 85–861, §1(40), 72 Stat. 1456; July 12, 1982, Pub. L. 97–214, §3(d)(2), (3), (e)(2), 96Stat. 170; Dec. 3, 1985, Pub. L. 99–167, title VII, §702(b), 99 Stat. 985; Nov. 14, 1986, Pub. L. 99–661, div. A, title XIII, §1343(a)(11), 100 Stat. 3993; renumbered §18236 and amended Oct. 5, 1994, Pub. L. 103–337, div. A, title XVI, §1664(b)(2), (8), 108 Stat. 3010.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 122, §2236; Sept. 2, 1958, Pub. L. 85–861, §1(40), 72 Stat. 1456; July 12, 1982, Pub. L. 97–214, §3(d)(2), (3), (e)(2), 96 Stat. 170; Dec. 3, 1985, Pub. L. 99–167, title VII, §702(b), 99 Stat. 985; Nov. 14, 1986, Pub. L. 99–661, div. A, title XIII, §1343(a)(11), 100 Stat. 3993; renumbered §18236 and amended Oct. 5, 1994, Pub. L. 103–337, div. A, title XVI, §1664(b)(2), (8), 108 Stat. 3010; Feb. 10, 1996, Pub. L. 104–106, div. A, title XV, §§1501(b)(36), 1502(a)(2), 110 Stat. 498, 502.)
 
 Historical and Revision Notes<br>1956
 
@@ -88,13 +88,17 @@ In subsection (a), the words “may be used jointly” are substituted for the w
 
 #### Amendments
 
+1996—Subsec. (a). Pub. L. 104–106, §1502(a)(2), substituted “Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives” for “Committees on Armed Services of the Senate and the House of Representatives”.
+
+Subsec. (b)(1). Pub. L. 104–106, §1501(b)(36), substituted “18233(e)” for “2233(e)”.
+
 1994—Pub. L. 103–337, §1664(b)(2), renumbered section 2236 of this title as this section.
 
 Subsec. (a). Pub. L. 103–337, §1664(b)(8)(A), substituted “18233” for “2233” and “paragraph (3) or (4) of section 18233(a)” for “section 2233(a)(3) or (4)”.
 
 Subsec. (b). Pub. L. 103–337, §1664(b)(8)(B)(i), substituted “paragraph (4) or (5) of section 18233(a)” for “clause (4) or (5) of section 2233(a)” in introductory provisions.
 
-Subsec. (b)(1). Pub. L. 103–337, §1664(b)(8)(B)(ii), which directed amendment of subsec. (b)(2) by substituting “section 18233(e)” for “section 2233(e)”, was executed by making the substitution in subsec. (b)(1) to reflect the probable intent of Congress because the words “section 2233(e)” did not appear in subsec. (b)(2).
+Subsec. (b)(2). Pub. L. 103–337, §1664(b)(8)(B)(ii), which directed amendment of par. (2) by substituting “section 18233(e)” for “section 2233(e)”, could not be executed because the words “section 2233(e)” did not appear in par. (2).
 
 Subsec. (c). Pub. L. 103–337, §1664(b)(8)(C), substituted “18233” for “2233” in introductory provisions.
 
@@ -112,9 +116,9 @@ Subsecs. (c), (d). Pub. L. 97–214, §3(d)(2), struck out “or Territory, Puer
 
 Subsec. (b). Pub. L. 85–861 substituted “A contribution made for an armory under section 2233(a)(4) of this title may not be more than 75 percent of the cost of the construction to which it is applied” for “No contribution made for a facility under section 2233(a)(3) of this title may be more than 75 percent of the cost of the construction to which it is to be applied”.
 
-#### Change of Name
+#### Effective Date of 1996 Amendment
 
-Committee on Armed Services of House of Representatives treated as referring to Committee on National Security of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Amendment by section 1501(b)(36) of Pub. L. 104–106 effective as if included in the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as enacted on Oct. 5, 1994, see section 1501(f)(3) of Pub. L. 104–106, set out as a note under section 113 of this title.
 
 #### Effective Date of 1994 Amendment
 

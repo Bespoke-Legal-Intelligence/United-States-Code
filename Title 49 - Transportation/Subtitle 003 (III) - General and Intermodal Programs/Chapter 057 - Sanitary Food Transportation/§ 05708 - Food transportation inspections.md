@@ -16,7 +16,9 @@ Training Program.—After consultation required by section 5709 of this title an
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

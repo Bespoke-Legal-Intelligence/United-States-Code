@@ -20,7 +20,7 @@ Any classified portions of the reports required by this chapter shall be submitt
 
 #### (f) Access by Secretary of Defense to information regarding nuclear proliferation matters; applicability
 
-(1) The Secretary of Defense shall have access, on a timely basis, to all information regarding nuclear proliferation matters which the Secretary of State or the Secretary of Energy has or is entitled to have. Such access shall include access to all communications, materials, documents, and records relating to nuclear proliferation matters.
+(1) The Secretary of Defense shall have access, on a timely basis, to all information regardingnuclear proliferation matters which the Secretary of State or the Secretary of Energy has or is entitled to have. Such access shall include access to all communications, materials, documents, and records relating to nuclear proliferation matters.
 
 (2) This subsection does not apply to any intradepartmental document of the Department of State or the Department of Energy, or any portion of such document, that is solely concerned with internal, confidential advice on policy concerning the conduct of interagency deliberations on nuclear proliferation matters.
 
@@ -41,4 +41,8 @@ Subsec. (f). Pub. L. 99–661, §1370(2), added subsec. (f).
 #### Change of Name
 
 Committee on Foreign Affairs of House of Representatives treated as referring to Committee on International Relations of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 6304 of this title.
 

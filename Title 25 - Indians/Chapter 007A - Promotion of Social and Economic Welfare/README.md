@@ -4,6 +4,7 @@
 | :--- | ---: |
 | [305\.](%C2%A7%2000305%20-%20Indian%20Arts%20and%20Crafts%20Board%3B%20creation%20and%20composition%3B%20per%20diem%20payments.md) | Indian Arts and Crafts Board; creation and composition; per diem payments. |
 | [305a.](%C2%A7%2000305a%20-%20Promotion%20of%20economic%20welfare%20through%20development%20of%20arts%20and%20crafts%3B%20powers%20of%20Board.md) | Promotion of economic welfare through development of arts and crafts; powers of Board. |
+| 305a–1. | Additional powers of Board; admission fees, rent, franchise fees and other fundraising activities; volunteers; transfer of revenues into special fund. |
 | [305b.](%C2%A7%2000305b%20-%20Rules%20and%20regulations%3B%20submission%20to%20Secretary%20of%20the%20Interior.md) | Rules and regulations; submission to Secretary of the Interior. |
 | [305c.](%C2%A7%2000305c%20-%20Appropriation.md) | Appropriation. |
 | 305c–1. | Repealed. |
@@ -37,6 +38,7 @@ Promotion of welfare of Indians in Oklahoma, see section 501 et seq. of this tit
 
 - [&sect; 00305 - Indian Arts and Crafts Board; creation and composition; per diem payments](%C2%A7%2000305%20-%20Indian%20Arts%20and%20Crafts%20Board%3B%20creation%20and%20composition%3B%20per%20diem%20payments.md)
 - [&sect; 00305a - Promotion of economic welfare through development of arts and crafts; powers of Board](%C2%A7%2000305a%20-%20Promotion%20of%20economic%20welfare%20through%20development%20of%20arts%20and%20crafts%3B%20powers%20of%20Board.md)
+- [&sect; 00305a&#8211;1 - Additional powers of Board; admission fees, rent, franchise fees and other fundraising activities; volunteers; transfer of revenues&#8230;](%C2%A7%2000305a%E2%80%931%20-%20Additional%20powers%20of%20Board%3B%20admission%20fees%2C%20rent%2C%20franchise%20fees%20and%20other%20fundraising%20activities%3B%20volunteers%3B%20transfer%20of%20revenues%E2%80%A6.md)
 - [&sect; 00305b - Rules and regulations; submission to Secretary of the Interior](%C2%A7%2000305b%20-%20Rules%20and%20regulations%3B%20submission%20to%20Secretary%20of%20the%20Interior.md)
 - [&sect; 00305c - Appropriation](%C2%A7%2000305c%20-%20Appropriation.md)
 - [&sect; 00305c&#8211;1 - Repealed. Pub. L. 87&#8211;23, &sect;2, Apr. 24, 1961, 75 Stat. 45](%C2%A7%2000305c%E2%80%931%20-%20Repealed.%20Pub.%20L.%2087%E2%80%9323%2C%20%C2%A72%2C%20Apr.%2024%2C%201961%2C%2075%20Stat.%2045.md)

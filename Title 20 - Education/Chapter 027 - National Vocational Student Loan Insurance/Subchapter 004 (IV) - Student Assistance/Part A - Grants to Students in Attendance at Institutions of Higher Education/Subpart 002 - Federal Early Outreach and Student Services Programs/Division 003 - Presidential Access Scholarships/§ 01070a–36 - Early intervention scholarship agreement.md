@@ -12,7 +12,7 @@ Each agreement described in subsection (a) of this section shall include provisi
 
 &emsp;(2) the State educational agency has procedures in place to verify to the Secretary that students receiving scholarships under this division have taken such coursework and that such coursework has been of a college preparatory level, including a requirement that all secondary schools in the State issue a certificate to each eligible student certifying that such student has completed the necessary coursework to qualify for a scholarship under this division;
 
-&emsp;(3) the State educational agency has procedures in place to notify institutions of highereducation of the availability of scholarships under this division, so that such institutions may award additional scholarships in concert with the scholarships received under this division; and
+&emsp;(3) the State educational agency has procedures in place to notify institutions of higher education of the availability of scholarships under this division, so that such institutions may award additional scholarships in concert with the scholarships received under this division; and
 
 &emsp;(4) the State educational agency has procedures in place to inform junior high school students and their families about the value of postsecondary education, the availability of student aid to meet college expenses, and the availability of scholarships under this division for students who take demanding courses, with particular emphasis on activities designed to ensure that students from low- and moderate-income families have access to such information.
 

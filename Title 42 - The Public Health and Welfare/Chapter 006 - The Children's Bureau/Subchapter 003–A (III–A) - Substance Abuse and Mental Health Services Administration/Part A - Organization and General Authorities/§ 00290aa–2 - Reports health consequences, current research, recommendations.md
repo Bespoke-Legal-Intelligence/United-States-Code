@@ -16,7 +16,7 @@ The Secretary shall submit to Congress on or before January 15, 1984, and every 
 
 &emsp;(1) describing the health consequences and extent of drug abuse in the United States;
 
-&emsp;(2) describing current research findings made with respect to drug abuse, including current findings on the health effects of marihuana and the addictive property of tobacco; and
+&emsp;(2) describing current research findings made with respect to drug abuse, including currentfindings on the health effects of marihuana and the addictive property of tobacco; and
 
 &emsp;(3) containing such recommendations for legislation and administrative action as the Secretary may deem appropriate.
 
@@ -34,7 +34,7 @@ A prior section 503 of act July 1, 1944, which was classified to section 221 of 
 
 #### Regulations
 
-Secretary of Health and Human Services to promulgate regulations, within 90 days of Oct. 19, 1984, for the administration of section 802(28) of Title 21, Food and Drugs, as amended by Pub. L. 98–509, title III, §301(a), Oct. 19, 1984, 98 Stat. 2364, and to include in the first report submitted under subsec. (b) of this section aftersuch period the findings of the Secretary with respect to the effect of the amendment by section 301(a) of Pub. L. 98–509, see section 301(b) of Pub. L. 98–509, set out as a note under section 802 of Title 21.
+Secretary of Health and Human Services to promulgate regulations, within 90 days of Oct. 19, 1984, for the administration of section 802(28) of Title 21, Food and Drugs, as amended by Pub. L. 98–509, title III, §301(a), Oct. 19, 1984, 98 Stat. 2364, and to include in the first report submitted under subsec. (b) of this section after such period the findings of the Secretary with respect to the effect of the amendment by section 301(a) of Pub. L. 98–509, see section 301(b) of Pub. L. 98–509, set out as a note under section 802 of Title 21.
 
 #### Relationship Between Consumption of Legal and Illegal Drugs
 

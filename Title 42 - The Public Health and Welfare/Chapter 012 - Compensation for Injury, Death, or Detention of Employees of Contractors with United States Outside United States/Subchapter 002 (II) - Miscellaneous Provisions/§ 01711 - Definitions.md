@@ -66,9 +66,7 @@ Subsecs. (c) to (f). Act June 30, 1953, §1(b), added subsecs. (c) to (f).
 
 Amendment by Pub. L. 86–70 effective June 25, 1959, see section 47(g) of Pub. L. 86–70, set out as a note under section 1651 of this title.
 
-#### Effective
-
-Date of 1958 Amendment
+#### Effective Date of 1958 Amendment
 
 Amendment by Pub. L. 85–608 effective June 30, 1958, see section 402 of Pub. L. 85–608, set out as a note under section 1651 of this title.
 

@@ -176,7 +176,7 @@ For purposes of this section—
 
 #### (C) Applicable health benefits
 
-&emsp;&emsp;The term “applicable health benefits” mean <sup>1</sup> health benefits or coverage which are provided to—
+&emsp;&emsp;The term “applicable health benefits” means health benefits or coverage which are provided to—
 
 &emsp;&emsp;&emsp;(i) retired employees who, immediately before the qualified transfer, are entitled to receive such benefits upon retirement and who are entitled to pension benefits under the plan, and
 
@@ -212,13 +212,17 @@ For purposes of this section—
 
 &emsp;&emsp;(B) the plan shall be treated as having a net experience loss under section 412(b)(2)(B)(iv) in an amount equal to the amount of such transfer (reduced by any amounts transferred back to the pension plan under subsection (c)(1)(B)) and for which amortization charges begin for the first plan year after the plan year in which such transfer occurs, except that such section shall be applied to such amount by substituting “10 plan years” for “5 plan years”.
 
-(Added Pub. L. 101–508, title XII, §12011(a), Nov. 5, 1990, 104 Stat. 1388–567; amended Pub. L. 103–465, title VII, §731(a)–(c)(3), Dec. 8, 1994, 108 Stat. 5003, 5004.)
+(Added Pub. L. 101–508, title XII, §12011(a), Nov. 5, 1990, 104 Stat. 1388–567; amended Pub. L. 103–465, title VII, §731(a)–(c)(3), Dec. 8, 1994, 108 Stat. 5003, 5004; Pub. L. 104–188, title I, §1704(a), (t)(32), Aug. 20, 1996, 110 Stat. 1878, 1889.)
 
 #### References in Text
 
 The Social Security Act, referred to in subsec. (c)(3)(B), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XVIII of the Act is classified generally to subchapter XVIII (§1395 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Amendments
+
+1996—Pub. L. 104–188, §1704(a), provided that, except as otherwise expressly provided, whenever in title XII of Pub. L. 101–508 an amendment or repeal is expressed in terms of an amendment to, or repeal of, a section or other provision, the reference shall be considered to be made to a section or other provision of the Internal Revenue Code of 1986. Section 12011(a) of title XII of Pub. L. 101–508 directed the amendment of part I of subchapter D of chapter 1 by adding this subpart, including this section, without specifying that amendment was to the Internal Revenue Code of 1986.
+
+Subsec. (e)(1)(C). Pub. L. 104–188, §1704(t)(32), substituted “means” for “mean”.
 
 1994—Subsec. (b)(1)(C)(iii). Pub. L. 103–465, §731(c)(1), substituted “benefits” for “cost”.
 

@@ -1,4 +1,4 @@
-### §601 . Deprivation of employment or other benefit for political contribution
+### §601. Deprivation of employment or other benefit for political contribution
 
 (a) Whoever, directly or indirectly, knowingly causes or attempts to cause any person to make a contribution of a thing of value (including services) for the benefit of any candidate or any political party, by means of the denial or deprivation, or the threat of the denial or deprivation, of—
 

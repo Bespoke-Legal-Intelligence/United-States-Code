@@ -10,7 +10,7 @@ The Secretary shall also determine the aggregate preservation rents under this s
 
 #### (1) Extension of affordability limits
 
-&emsp;The aggregate preservation rent for purposes of receiving incentives pursuant to extension of the low-income affordability restrictions under section 4109 of this title shall be the gross potential income for the project, determined by the Secretary, that would be required to support the following costs:
+&emsp;The aggregate preservation rent for purposes of receiving incentives pursuant to extensionof the low-income affordability restrictions under section 4109 of this title shall be the gross potential income for the project, determined by the Secretary, that would be required to support the following costs:
 
 &emsp;&emsp;(A) The annual authorized return determined under subsection (a) of this section.
 

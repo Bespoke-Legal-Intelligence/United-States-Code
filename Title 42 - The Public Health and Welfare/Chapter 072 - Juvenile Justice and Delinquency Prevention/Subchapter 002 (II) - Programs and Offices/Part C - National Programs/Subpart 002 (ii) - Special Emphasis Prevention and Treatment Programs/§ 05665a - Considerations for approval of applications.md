@@ -68,7 +68,7 @@ A city shall not be denied assistance under this part solely on the basis of its
 
 #### (f) Transmission of notification to Committee chairmen
 
-Notification of grants and contracts made under this part (and the applications submitted for such grants and contracts) shall, upon being made, be transmitted by the Administrator,<sup>1</sup> to the chairman of the Committee on Education and Labor of the House of Representatives and the chairman of the Committee on the Judiciary of the Senate.
+Notification of grants and contracts made under this part (and the applications submitted for such grants and contracts) shall, upon being made, be transmitted by the Administrator,<sup>1</sup> tothe chairman of the Committee on Education and Labor of the House of Representatives and the chairman of the Committee on the Judiciary of the Senate.
 
 (Pub. L. 93–415, title II, §262, as added Pub. L. 100–690, title VII, §7263(a)(2)(F), Nov. 18, 1988, 102 Stat. 4445; amended Pub. L. 102–586, §2(h), Nov. 4, 1992, 106 Stat. 5001.)
 
@@ -94,7 +94,7 @@ Subsec. (d)(1)(C). Pub. L. 102–586, §2(h)(2), struck out subpar. (C) which re
 
 #### Change of Name
 
-Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Economic and Educational Opportunities of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Fifth Congress, Jan. 7, 1997.
 
 #### Effective Date
 

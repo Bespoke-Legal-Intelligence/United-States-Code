@@ -27,9 +27,20 @@
 | (g) | Civil forfeitures. |
 | (h) | Enforcement. |
 | [5107\.](%C2%A7%2005107%20-%20Financial%20assistance.md) | Financial assistance. |
+| [5107a.](%C2%A7%2005107a%20-%20State%20permits%20valid%20in%20certain%20waters.md) | State permits valid in certain waters. |
+| (a) | Permits. |
+| (b) | Enforcement. |
+| [5107b.](%C2%A7%2005107b%20-%20Transition%20to%20management%20of%20American%20lobster%20fishery%20by%20Commission.md) | Transition to management of American lobster fishery by Commission. |
+| (a) | Temporary limits. |
+| (b) | Secretary to monitor landings. |
+| (c) | Regulations to remain in effect until plan implemented. |
 | [5108\.](%C2%A7%2005108%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Chapter Referred to in Other Sections
+
+This chapter is referred to in section 1857 of this title.
 
 
 ---
@@ -43,4 +54,6 @@
 - [&sect; 05105 - State noncompliance with coastal fishery management plans](%C2%A7%2005105%20-%20State%20noncompliance%20with%20coastal%20fishery%20management%20plans.md)
 - [&sect; 05106 - Secretarial action](%C2%A7%2005106%20-%20Secretarial%20action.md)
 - [&sect; 05107 - Financial assistance](%C2%A7%2005107%20-%20Financial%20assistance.md)
+- [&sect; 05107a - State permits valid in certain waters](%C2%A7%2005107a%20-%20State%20permits%20valid%20in%20certain%20waters.md)
+- [&sect; 05107b - Transition to management of American lobster fishery by Commission](%C2%A7%2005107b%20-%20Transition%20to%20management%20of%20American%20lobster%20fishery%20by%20Commission.md)
 - [&sect; 05108 - Authorization of appropriations](%C2%A7%2005108%20-%20Authorization%20of%20appropriations.md)

@@ -10,7 +10,9 @@ When a matter requiring action of the Secretary of Transportation is submitted u
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -24,9 +26,13 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1010; added Oct. 24, 1978, Pub.
 
 &nbsp;
 
-49 App.:1551(b) (1)(E).
+49 App.:1551(b)(1)(E).
 
 Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1601(b)(1)(E); added Oct. 4, 1984, Pub. L. 98–443, §3(e), 98 Stat. 1704.
 
 In this section, before clause (1), the words “matter requiring action of the Secretary” are substituted for “application or other written document” for clarity. The reference to 49 App.:1378 and 1379 is omitted as obsolete because under 49 App.:1551(a)(7), those sections ceased to be in effect on January 1, 1989. The words “on or after the one-hundred-eightieth day after October 24, 1978” are omitted as executed. In clauses (1) and (2), the words “order or” are omitted as surplus.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 40109, 46301 of this title.
 

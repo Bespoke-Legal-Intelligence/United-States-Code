@@ -6,7 +6,7 @@ The Secretary and the Administrator shall cooperate and consult in the implement
 
 #### Amendments
 
-1990—Pub. L. 101–624 amended section generally, substituting present provisions for provisions requiringfunds and authority under this chapter be used to assist friendly countries determined to increase their self-reliance in food production and managing population growth.
+1990—Pub. L. 101–624 amended section generally, substituting present provisions for provisions requiring funds and authority under this chapter be used to assist friendly countries determined to increase their self-reliance in food production and managing population growth.
 
 1966—Pub. L. 89–808 substituted provisions respecting self-help in meeting food requirements and in resolving problems relative to population growth for provisions respecting entry into agreements for participation in supply and assistance program on a proportionate and equitable basis.
 

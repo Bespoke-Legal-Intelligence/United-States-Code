@@ -20,11 +20,11 @@
 
 &emsp;&emsp;(A) outstanding in the account of advances of the department for 2 complete fiscal years; and
 
-&emsp;&emsp;(B) certified by the head of the department to the Comptroller General as uncollectable.
+&emsp;&emsp;(B) certified by the head of the department as uncollectable.
 
 (c) Subsection (b) does not affect the financial liability of a disbursing official or agent.
 
-(Added Pub. L. 97–258, §2(b)(8)(B), Sept. 13, 1982, 96 Stat. 1055; amended Pub. L. 98–525, title XIV, §1405(43), Oct. 19, 1984, 98 Stat. 2625.)
+(Added Pub. L. 97–258, §2(b)(8)(B), Sept. 13, 1982, 96 Stat. 1055; amended Pub. L. 98–525, title XIV, §1405(43), Oct. 19, 1984, 98 Stat. 2625; Pub. L. 104–316, title I, §105(c), Oct. 19, 1996, 110 Stat. 3830.)
 
 Historical and Revision Notes
 
@@ -54,13 +54,15 @@ June 4, 1954, ch. 264, §1 (related to Army, Navy, Air Force), 68 Stat. 175; Jun
 
 In the section, the words “disbursing official” are substituted for “disbursing officers” for consistency with other titles of the United States Code.
 
-In subsection (a), before clause (1), the words “Secretary of a military department” are substituted for “Secretary of the Army” in 31:536 and for “Secretary of the Navy” in 31:539 because of 10:101(7). The title of Secretary of War was changed to Secretary of the Army by section 205(a) of the Act of July 26, 1947 (ch. 343, 61 Stat. 501), and by sections 1 and 53 of the Act of August 10, 1956 (ch. 1041, 70A Stat. 157, 676). The Secretary of the Air Force is included because of sections 205(a) and 207(a) and (f) of the Act of July 26, 1947 (ch. 343, 61 Stat. 501, 502), and section 1 of the Act of August 10, 1956 (ch. 1041, 70A Stat. 488). In clause (1), the word “General” in 31:539 is omitted as surplus. In clause (3), the words “and ‘Pay of the Navy’ shall be used only for its legitimate purpose, as provided by law” are omitted as unnecessary. In clause (5), the words “by pay and counterwarrant” in 31:537 and 540 are omitted as unnecessary.
+In subsection (a), before clause (1), the words “Secretary of a military department” are substituted for “Secretary of the Army” in 31:536 and for “Secretary of the Navy” in 31:539 because of 10:101(7). The title of Secretary of War was changed to Secretary of the Army by section 205(a) of the Act of July 26, 1947 (ch. 343, 61 Stat. 501), and by sections 1 and 53 of the Act of August 10, 1956 (ch. 1041, 70A Stat. 157, 676). The Secretary of the Air Force is included because of sections 205(a) and 207(a) and (f) of the Act of July 26, 1947 (ch. 343, 61 Stat. 501, 502), and section 1 of the Act of August 10, 1956 (ch.1041, 70A Stat. 488). In clause (1), the word “General” in 31:539 is omitted as surplus. In clause (3), the words “and ‘Pay of the Navy’ shall be used only for its legitimate purpose, as provided by law” are omitted as unnecessary. In clause (5), the words “by pay and counterwarrant” in 31:537 and 540 are omitted as unnecessary.
 
 In subsection (b), before clause (1), the word “appropriate” is omitted as surplus. The words “deducting the amount of the charge from” are substituted for “debiting” for clarity. In clause (2)(B), the word “concerned” is omitted as surplus.
 
 In subsection (c), the words “in any way” and “of the United States” are omitted as surplus.
 
 #### Amendments
+
+1996—Subsec. (b)(2)(B). Pub. L. 104–316 struck out “to the Comptroller General” after “head of the department”.
 
 1984—Subsec. (c). Pub. L. 98–525 struck out “of this section” after “Subsection (b)”.
 

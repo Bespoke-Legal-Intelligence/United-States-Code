@@ -46,7 +46,7 @@ For purposes of this section, the term “qualified funding asset” means any a
 
 #### Prior Provisions
 
-A prior section 130 was renumbered section 137 of this title.
+A prior section 130 was renumbered section 138 of this title.
 
 #### Amendments
 
@@ -56,7 +56,7 @@ A prior section 130 was renumbered section 137 of this title.
 
 #### Effective Date of 1988 Amendment
 
-Section 6079(b)(2) of Pub. L. 100–647 provided that: “The amendment made by paragraph (1) \[amending thissection\] shall apply to assignments after the date of the enactment of this Act \[Nov. 10, 1988\].”
+Section 6079(b)(2) of Pub. L. 100–647 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to assignments after the date of the enactment of this Act \[Nov. 10, 1988\].”
 
 #### Effective Date of 1986 Amendment
 

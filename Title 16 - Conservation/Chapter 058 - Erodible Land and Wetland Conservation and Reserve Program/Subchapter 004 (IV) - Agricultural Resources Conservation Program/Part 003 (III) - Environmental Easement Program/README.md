@@ -2,7 +2,7 @@ Part III—Environmental Easement Program
 
 #### Part Referred to in Other Sections
 
-This part is referred to in sections 3811, 3821, 3843 of this title.
+This part is referred to in sections 3839aa–2, 3843 of this title.
 
 
 ---

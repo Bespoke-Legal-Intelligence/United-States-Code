@@ -1,10 +1,32 @@
 ### §410<i>oo</i>–2. Acquisition of property
 
+#### (a) In general
+
 Except as otherwise provided in this section, the Secretary may acquire, by donation, purchase with donated or appropriated funds, or exchange, land or interests in land, together with structures and other improvements thereon and personal property, which is included within the park. In addition the Secretary may acquire by any such means such personal property associated with the park as he deems appropriate for interpretation of the park and such additional lands and properties as may be necessary for purposes of an administrative headquarters and administrative site. Any land, interests in land, structures, improvements, or personal property owned by the State of Mississippi or any political subdivision thereof, may be acquired only by donation. The Secretary may not acquire fee title to any property other than the property he deems necessary for an administrative site and headquarters and the property referred to in paragraph (1), (2), or (3) of section 410<i>oo</i>–1 of this title, and the Secretary may not acquire the property referred to in paragraph (1) of section 410<i>oo</i>–1 of this title unless at least 25 per centum of the fair market value of such property (as determined by the Secretary) is donated to the United States in connection with such acquisition. The Secretary may not acquire the property referred to in paragraph (3) of section 410<i>oo</i>–1(b) of this title except by donation.
 
-(Pub. L. 100–479, §3, Oct. 7, 1988, 102 Stat. 2325; Pub. L. 101–399, §1(b), Sept. 28, 1990, 104 Stat. 860.)
+#### (b) Building for joint use by the Secretary and the City of Natchez
+
+#### (1) Contribution toward construction
+
+&emsp;The Secretary may enter into an agreement with the City of Natchez under which the Secretary agrees to pay not to exceed $3,000,000toward the planning and construction by the City of Natchez of a structure to be partially used by the Secretary as an administrative headquarters, administrative site, and visitors’ center for Natchez National Historical Park.
+
+#### (2) Use for satisfaction of matching requirements
+
+&emsp;The amount of payment under paragraph (1) may be available for matching Federal grants authorized under other law notwithstanding any limitations in any such law.
+
+#### (3) Agreement
+
+&emsp;Prior to the execution of an agreement under paragraph (1), and subject to the appropriation of necessary funds in advance, the Secretary may enter into a contract, lease, cooperative agreement, or other appropriate form of agreement with the City of Natchez providing for the use and occupancy of a portion of the structure constructed under paragraph (1) (including appropriate use of the land on which it is situated), at no cost to the Secretary (except maintenance, utility, and other operational costs), for a period of 50 years, with an option for renewal by the Secretary for an additional 50 years.
+
+#### (4) Authorization of appropriations
+
+&emsp;There is authorized to be appropriated $3,000,000 to carry out this subsection.
+
+(Pub. L. 100–479, §3, Oct. 7, 1988, 102 Stat. 2325; Pub. L. 101–399, §1(b), Sept. 28, 1990, 104 Stat. 860; Pub. L. 104–333, div. I, title X, §1030, Nov. 12, 1996, 110 Stat. 4238.)
 
 #### Amendments
+
+1996—Pub. L. 104–333, which directed amendment of section 3 of Act of October 8, 1988, by designating existing provisions as subsec. (a), inserting heading, and adding subsec. (b), was executed by making the amendment to this section to reflect the probable intent of Congress.
 
 1990—Pub. L. 101–399 substituted “referred to in paragraph (1), (2), or (3)” for “referred to in paragraph (1) or (2)” and inserted at end “The Secretary may not acquire the property referred to in paragraph (3) of section 410<i>oo</i>–1(b) of this title except by donation.”
 

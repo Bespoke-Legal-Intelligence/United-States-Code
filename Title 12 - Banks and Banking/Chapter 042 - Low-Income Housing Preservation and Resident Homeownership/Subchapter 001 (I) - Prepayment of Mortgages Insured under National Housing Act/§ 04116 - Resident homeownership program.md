@@ -2,7 +2,7 @@
 
 #### (a) Formation of resident council
 
-Tenants seeking to purchase eligible low-income housing in accordance with section 4110 of this title shall organize a resident council for the purpose of developing a resident homeownership program in accordance with standards established by the Secretary. The resident council shall work with a public or private nonprofit organization or a public body (including an agency or instrumentality thereof). Such organization or public body shall have experience to enable itto help the tenants consider their options and to develop the capacity necessary to own and manage the housing, where appropriate, and shall be approved by the Secretary.
+Tenants seeking to purchase eligible low-income housing in accordance with section 4110 of this title shall organize a resident council for the purpose of developing a resident homeownership program in accordance with standards established by the Secretary. The resident council shall work with a public or private nonprofit organization or a public body (including an agency or instrumentality thereof). Such organization or public body shall have experience to enable it to help the tenants consider their options and to develop the capacity necessary to own and manage the housing, where appropriate, and shall be approved by the Secretary.
 
 #### (b) Other program requirements and limitations
 
@@ -24,7 +24,7 @@ Tenants seeking to purchase eligible low-income housing in accordance with secti
 
 #### (2) Approval of method of conversion and limitation on conditions of approval
 
-&emsp;The Secretary shall approve the method for converting the housing to homeownership, which may involve acquisition of ownership interests in, or shares representing, the units in a project under any arrangement determined by the Secretary to be appropriate, such as cooperative ownership (including limited equity cooperative ownership) and fee simple ownership (including condominium ownership). The Secretary may not require the prepayment of the mortgage on eligible low-income housing for the approval of a plan of action involving a homeownership program for the housing.
+&emsp;The Secretary shall approve the method for converting the housing to homeownership, which may involve acquisition of ownership interests in, or shares representing, the units in a project under any arrangement determined by the Secretary to be appropriate, such as cooperative ownership (including limited equity cooperative ownership) and feesimple ownership (including condominium ownership). The Secretary may not require the prepayment of the mortgage on eligible low-income housing for the approval of a plan of action involving a homeownership program for the housing.
 
 #### (3) Required conditions
 
@@ -68,7 +68,7 @@ Tenants seeking to purchase eligible low-income housing in accordance with secti
 
 &emsp;&emsp;&emsp;(ii) the value, as determined by such means as the Secretary shall determine through regulation, of any improvements installed at the expense of the family during the family's tenure as owner; and
 
-&emsp;&emsp;&emsp;(iii) the appreciated value determined by an inflation allowance at a rate which may be based on a cost-of-living index, an income index, or market index as determined by the Secretary through regulationand agreed to by the purchaser and the entity that transfers ownership interests in, or shares representing, units to eligible families (or another entity specified in the approved application), at the time of initial sale, and applied against the contribution to equity.
+&emsp;&emsp;&emsp;(iii) the appreciated value determined by an inflation allowance at a rate which may be based on a cost-of-living index, an income index, or market index as determined by the Secretary through regulation and agreed to by the purchaser and the entity that transfers ownership interests in, or shares representing, units to eligible families (or another entity specified in the approved application), at the time of initial sale, and applied against the contribution to equity.
 
 > &emsp;&emsp;Such an entity may, at the time of initial sale, enter into an agreement with the family to set a maximum amount which this appreciation may not exceed.
 
@@ -78,7 +78,7 @@ Tenants seeking to purchase eligible low-income housing in accordance with secti
 
 #### (D) Use of recaptured funds
 
-&emsp;&emsp;Any net sales proceeds that may not be retained by the homeowner under the plan approved pursuant to this paragraph shall be paid to the HOME Investment Trust Fund for the unit of general local government in which the housing is located. If the housing is located in a unit of general local government that is not a participating jurisdiction (as such term is defined in section 12704 of title 42), any such net sales proceeds shall be paid to the HOME Investment Trust Fund for the State in which the housing is located. With respect to any proceeds transferred to a HOME Investment Trust Fund under this subparagraph, the Secretary shall take such actions as are necessary to ensure that the proceeds shall be immediately available for eligible activities to expand the supply of affordable housing under section 12742 of title 42. The Secretary shall require the maintenance of any records necessary to calculate accurately payments due under this paragraph.
+&emsp;&emsp;Any net sales proceeds that may not be retained by the homeowner under the plan approved pursuant to this paragraph shall be paid to the HOME Investment Trust Fund for the unit of general local government in which the housing is located. If the housing is located in a unit of general local government that is not a participating jurisdiction (as such term is defined in section 12704 of title 42), any such net sales proceeds shall be paid to the HOME Investment Trust Fund for the State in which the housing is located. With respect to any proceeds transferred to a HOME Investment Trust Fund under this subparagraph, the Secretary shall take such actions as are necessary to ensure that the proceeds shall be immediately available for eligible activities to expand the supply of affordable housing under section12742 of title 42. The Secretary shall require the maintenance of any records necessary to calculate accurately payments due under this paragraph.
 
 #### (6) Protection of nonpurchasing families
 

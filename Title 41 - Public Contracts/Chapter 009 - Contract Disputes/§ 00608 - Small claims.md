@@ -34,7 +34,3 @@ The Administrator is authorized to review at least every three years, beginning 
 
 For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under section 251 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 40 section 759.
-

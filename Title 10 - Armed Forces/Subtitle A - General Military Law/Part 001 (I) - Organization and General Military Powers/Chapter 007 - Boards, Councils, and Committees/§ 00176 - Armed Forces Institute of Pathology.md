@@ -22,9 +22,11 @@
 
 (d) The Secretary of Defense shall promulgate such regulations as may be necessary to prescribe the organization, functions, and responsibilities of the Institute.
 
-(Added Pub. L. 94–361, title VIII, §811(b), July 14, 1976, 90 Stat. 933; amended Pub. L. 96–513, title V, §511(6), Dec. 12, 1980, 94 Stat. 2920; Pub. L. 101–189, div. A, title XVI, §1621(a)(1), Nov. 29, 1989, 103 Stat. 1602; Pub. L. 103–160, div. A, title VII, §733, Nov. 30, 1993, 107 Stat. 1697.)
+(Added Pub. L. 94–361, title VIII, §811(b), July 14, 1976, 90 Stat. 933; amended Pub. L. 96–513, title V, §511(6), Dec. 12, 1980, 94 Stat. 2920; Pub. L. 101–189, div. A, title XVI, §1621(a)(1), Nov. 29, 1989, 103 Stat. 1602; Pub. L. 103–160, div. A, title VII, §733, Nov. 30, 1993, 107 Stat. 1697; Pub. L.104–106, div. A, title IX, §903(f)(1), Feb. 10, 1996, 110 Stat. 402; Pub. L. 104–201, div. A, title IX, §901, Sept. 23, 1996, 110 Stat. 2617.)
 
 #### Amendments
+
+1996—Subsec. (a)(3). Pub. L. 104–106, §903(a), (f)(1), which directed amendment of subsec. (a)(3), eff. Jan. 31, 1997, by substituting “official in the Department of Defense with principal responsibility for health affairs” for “Assistant Secretary of Defense for Health Affairs” and “Under Secretary for Health of the Department of Veterans Affairs” for “Chief Medical Director of the Department of Veterans Affairs”, was repealed by Pub. L. 104–201.
 
 1993—Subsec. (c). Pub. L. 103–160 inserted at end “The Secretary of Defense, on a case-by-case basis, may waive the limitation on the number of distinguished pathologists or scientists with whom agreements may be entered into under this subsection if the Secretary determines that such waiver is in the best interest of the Department of Defense.”
 

@@ -1,6 +1,6 @@
-### §892 . Making extortionate extensions of credit
+### §892. Making extortionate extensions of credit
 
-(a) Whoever makes any extortionate extension of credit, or conspires to do so, shall be fined under this title or imprisoned not more than 20 years, or both.
+(a) Whoever makes any extortionate extension of credit, or conspires to do so, shall be finedunder this title or imprisoned not more than 20 years, or both.
 
 (b) In any prosecution under this section, if it is shown that all of the following factors were present in connection with the extension of credit in question, there is prima facie evidence that the extension of credit was extortionate, but this subsection is nonexclusive and in no way limits the effect or applicability of subsection (a):
 

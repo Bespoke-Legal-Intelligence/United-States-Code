@@ -14,7 +14,7 @@ The Commission shall revise the regulations described in subsection (a) of this 
 
 #### (c) Authority to make technical revisions
 
-The Commission may revise the regulations described in subsection (a) of this section tomake nonsubstantive technical or clerical revisions in such regulations as necessary to reflect changes in technology, terminology, or Commission organization.
+The Commission may revise the regulations described in subsection (a) of this section to make nonsubstantive technical or clerical revisions in such regulations as necessary to reflect changes in technology, terminology, or Commission organization.
 
 (June 19, 1934, ch. 652, title III, §334, as added Oct. 5, 1992, Pub. L. 102–385, §22(f), 106 Stat. 1499.)
 

@@ -184,9 +184,25 @@
 
 &emsp;(91) Violent Crime Reduction Trust Fund.
 
-(b) Amounts (except amounts received by the Comptroller of the Currency and the Federal Deposit Insurance Corporation) that are analogous to the funds named in subsection (a) of this section and are received by the United States Government as trustee shall be deposited in an appropriate trust fund account in the Treasury. Amounts accruing to these funds (except to the trust fund “Armed Forces Retirement Home Trust Fund”) are appropriated to be disbursed in compliance with the terms of the trust. Expenditures from the trust fund “Armed Forces Retirement Home Trust Fund” shall be made only under annual appropriations and only if the appropriations are specifically authorized by law.
+&emsp;(92) Fisher House Trust Fund, Department of the Army.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 919; Pub. L. 98–426, §27(d)(2), Sept. 28, 1984, 98 Stat. 1654; Pub. L. 101–189, div. A, title III, §341(a), Nov. 29, 1989, 103 Stat. 1419; Pub. L. 101–510, div. A, title XV, §1533(c)(1), Nov. 5, 1990, 104 Stat. 1735; Pub. L. 102–54, §13(<i>l</i>)(1), June 13, 1991, 105 Stat. 277; Pub. L. 103–322, title XXXI, §310001(d), Sept. 13, 1994, 108 Stat. 2103.)
+&emsp;(93) Fisher House Trust Fund, Department of the Air Force.
+
+&emsp;(94) Fisher House Trust Fund, Department of the Navy.
+
+(b)(1) Amounts (except amounts received by the Comptroller of the Currency and the Federal Deposit Insurance Corporation) that are analogous to the funds named in subsection (a) of this section and are received by the United States Government as trustee shall be deposited in an appropriate trust fund account in the Treasury. Except as provided in paragraph (2), amounts accruing to these funds are appropriated to be disbursed in compliance with the terms of the trust.
+
+(2) Expenditures from the following trust funds may be made only under annual appropriations and only if the appropriations are specifically authorized by law:
+
+&emsp;(A) Armed Forces Retirement Home Trust Fund.
+
+&emsp;(B) Fisher House Trust Fund, Department of the Army.
+
+&emsp;(C) Fisher House Trust Fund, Department of the Air Force.
+
+&emsp;(D) Fisher House Trust Fund, Department of the Navy.
+
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 919; Pub. L. 98–426, §27(d)(2), Sept. 28, 1984, 98 Stat. 1654; Pub. L. 101–189, div. A, title III, §341(a), Nov. 29, 1989, 103 Stat. 1419; Pub. L. 101–510, div. A, title XV, §1533(c)(1), Nov. 5, 1990, 104 Stat. 1735; Pub. L. 102–54, §13(<i>l</i>)(1), June 13, 1991, 105 Stat. 277; Pub. L. 103–322, title XXXI, §310001(d), Sept. 13, 1994, 108 Stat. 2103; Pub. L. 104–106, div. A, title IX, §914(c), Feb. 10, 1996, 110 Stat. 413; Pub. L. 104–201, div. A, title X, §1008(c), Sept. 23, 1996, 110 Stat. 2633.)
 
 Historical and Revision Notes
 
@@ -222,9 +238,17 @@ The National Capital Park and Planning Commission, referred to in subsec. (a)(53
 
 The Rock Creek and Potomac Parkway Commission, referred to in subsec. (a)(54), was abolished and its functions transferred to the Office of National Parks, Buildings, and Reservations, Department of the Interior, by Ex. Ord. No. 6166, §2, June 10, 1933, set out as a note under section 901 of Title 5, Government Organization and Employees.
 
-The District of Columbia Workmen's Compensation Act, referred to in subsec. (a)(57), probably means the District of Columbia Unemployment Compensation Act which is act Aug. 28, 1935, ch. 794, 49 Stat. 946, as amended, and appears in chapter 1 (§46–101 et seq.) of Title 46, Social Security, of the District of Columbia Code.
+The District of Columbia Workmen's Compensation Act, referred to in subsec. (a)(57), probably means theDistrict of Columbia Unemployment Compensation Act which is act Aug. 28, 1935, ch. 794, 49 Stat. 946, as amended, and appears in chapter 1 (§46–101 et seq.) of Title 46, Social Security, of the District of Columbia Code.
 
 #### Amendments
+
+1996—Subsec. (a)(92), (93). Pub. L. 104–106, §914(c)(1), added pars. (92) and (93).
+
+Subsec. (a)(94). Pub. L. 104–201, §1008(c)(1), added par. (94).
+
+Subsec. (b). Pub. L. 104–106, §914(c)(2), designated existing provisions as par. (1), substituted “Except as provided in paragraph (2), amounts accruing to these funds” for “Amounts accruing to these funds (except to the trust fund ‘Armed Forces Retirement Home Trust Fund’)”, struck out “Expenditures from the trust fund ‘Armed Forces Retirement Home Trust Fund’ shall be made only under annual appropriations and only if the appropriations are specifically authorized by law.” after second sentence, and added par. (2).
+
+Subsec. (b)(2)(D). Pub. L. 104–201, §1008(c)(2), added subpar. (D).
 
 1994—Subsec. (a)(91). Pub. L. 103–322 added par. (91).
 
@@ -240,10 +264,6 @@ Subsec. (b). Pub. L. 101–510, §1533(c)(1)(B), substituted “Armed Forces Ret
 
 1984—Subsec. (a)(12). Pub. L. 98–426 substituted “Longshore” for “Longshoremen's”.
 
-#### Change of Name
-
-The United States Soldiers Home was renamed the United States Soldiers’ and Airmen's Home, effective Sept. 7, 1972. See 37 F.R. 23533, Nov. 4, 1972.
-
 #### Effective Date of 1989 Amendment
 
 Section 341(b) of Pub. L. 101–189 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to appropriations for the operation of the United States Soldiers’ and Airmen's Home made for fiscal years after fiscal year 1990.”
@@ -254,9 +274,9 @@ Amendment by Pub. L. 98–426 effective Sept. 28, 1984, see section 28(e)(1) of 
 
 #### Trust Funds for Individual Indians
 
-Section 725s of former Title 31 (now this section) was modified by act June 25, 1936, ch. 814, 49 Stat. 1928, providing that it shall not be applicable to funds held in trust for individual Indians, associations of individualIndians, or for Indian corporations chartered under sections 461, 462, 463, 464, 465, 466 to 470, 471, 472, 473, 474, 475, 476 to 478, and 479 of Title 25, Indians.
+Section 725s of former Title 31 (now this section) was modified by act June 25, 1936, ch. 814, 49 Stat. 1928, providing that it shall not be applicable to funds held in trust for individual Indians, associations of individual Indians, or for Indian corporations chartered under sections 461, 462, 463, 464, 465, 466 to 470, 471, 472, 473, 474, 475, 476 to 478, and 479 of Title 25, Indians.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1322 of this title; title 20 section 225; title 24 section 431; title 25 section 385a; title 33 section 770; title 38 sections 8502, 8520.
+This section is referred to in section 1322 of this title; title 10 section 2221; title 20 section 225; title 24 section 431; title 25 section 385a; title 33 section 770; title 38 sections 8502, 8520.
 

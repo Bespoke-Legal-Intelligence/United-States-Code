@@ -148,19 +148,11 @@ Report.—Within 2 years after the date of the enactment of this Act \[Oct. 31, 
 
 #### Authorization of Appropriations
 
-Section 509(b) of Pub. L. 102–580 provided that: “There is authorized to be appropriated to the Administratorto carry out sections 502 and 503 \[enacting this section and provisions set out above\] such sums as may be necessary.”
+Section 509(b) of Pub. L. 102–580 provided that: “There is authorized to be appropriated to the Administrator to carry out sections 502 and 503 \[enacting this section and provisions set out above\] such sums as may be necessary.”
 
 #### “Secretary” Defined
 
 Secretary means the Secretary of the Army, see section 3 of Pub. L. 102–580, set out as a note under section 2201 of this title.
-
-### SUBCHAPTER II—GRANTS FOR CON-
-
-### STRUCTION OF TREATMENT WORKS
-
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 1255, 1311, 1313a, 1330, 1371, 1377, 1382, 1384, 1386 of this title; title 40 App. section 214.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

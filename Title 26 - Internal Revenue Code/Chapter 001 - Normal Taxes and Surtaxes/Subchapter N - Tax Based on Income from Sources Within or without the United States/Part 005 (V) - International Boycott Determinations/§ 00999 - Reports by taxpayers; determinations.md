@@ -4,7 +4,7 @@
 
 #### (1) Report required
 
-&emsp;If any person, or a member of a controlled group (within the meaning of section 993(a)(3)) which includes that person, has operations in, or related to—
+&emsp;If any person, or a member of a controlled group (within the meaning of section 993(a)(3))which includes that person, has operations in, or related to—
 
 &emsp;&emsp;(A) a country (or with the government, a company, or a national of a country) which is on the list maintained by the Secretary under paragraph (3), or
 
@@ -58,7 +58,7 @@
 
 &emsp;&emsp;(A) to meet requirements imposed by a foreign country with respect to an international boycott if United States law or regulations, or an Executive Order, sanctions participation in, or cooperation with, that international boycott,
 
-&emsp;&emsp;(B) to comply with a prohibition on the importation of goods produced in whole or in part in any country which is the object of an international boycott, or
+&emsp;&emsp;(B) to comply with a prohibition on the importation of goods produced in whole or inpart in any country which is the object of an international boycott, or
 
 &emsp;&emsp;(C) to comply with a prohibition imposed by a country on the exportation of products obtained in such country to any country which is the object of an international boycott.
 

@@ -12,7 +12,7 @@ In administering subsections (d) and (e) of section 485h of this title, the Secr
 
 &emsp;(5) Provide <sup>2</sup> for payment of rates under any contract entered into pursuant to said subsection (e) in advance of delivery of water on an annual, semiannual, bimonthly, or monthly basis as specified in the contract.<sup>3</sup>
 
-&emsp;(6) include a reasonable construction component in the rates set out in any long-term contract hereafter entered into under subsection\(e) of section 485h of this title prior to amortization of that part of the cost of constructing the project which is assigned to be repaid by the contracting party.
+&emsp;(6) include a reasonable construction component in the rates set out in any long-term contract hereafter entered into under subsection (e) of section 485h of this title prior to amortization of that part of the cost of constructing the project which is assigned to be repaid by the contracting party.
 
 (July 2, 1956, ch. 492, §1, 70 Stat. 483; Oct. 3, 1980, Pub. L. 96–375, §8, 94 Stat. 1507.)
 

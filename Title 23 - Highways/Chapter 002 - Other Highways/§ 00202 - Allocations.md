@@ -8,7 +8,7 @@
 
 (d) On October 1 of each fiscal year, the Secretary shall allocate the sums authorized to be appropriated for such fiscal year for Indian reservation roads according to the relative needs of the various reservations as jointly identified by the Secretary and the Secretary of the Interior.
 
-(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 906; Pub. L. 94–280, title I, §133, May 5, 1976, 90 Stat. 441; Pub. L. 97–424, title I, §126(a), Jan. 6, 1983, 96 Stat. 2113; Pub. L. 102–240, title I, §1032(a), Dec. 18, 1991, 105 Stat. 1974.)
+(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 906; Pub. L. 94–280, title I, §133, May 5, 1976, 90 Stat. 441; Pub.L. 97–424, title I, §126(a), Jan. 6, 1983, 96 Stat. 2113; Pub. L. 102–240, title I, §1032(a), Dec. 18, 1991, 105 Stat. 1974.)
 
 #### References in Text
 

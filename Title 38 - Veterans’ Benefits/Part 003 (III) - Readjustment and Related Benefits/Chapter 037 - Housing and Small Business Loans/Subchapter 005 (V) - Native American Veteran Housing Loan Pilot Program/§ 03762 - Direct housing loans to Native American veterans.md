@@ -58,7 +58,23 @@
 
 &emsp;(4) in a manner consistent with the provisions of this chapter and with the Secretary's functions under this subchapter, employ, utilize, and compensate any persons, organizations, or departments or agencies (including departments and agencies of the United States) designated by the Secretary to carry out such functions.
 
-(h) The Secretary shall carry out an outreach program to inform and educate tribal organizations and Native American veterans of the pilot program provided for under this subchapter and the availability of direct housing loans for Native American veterans who live on trust lands.
+(h)(1) The Secretary may make direct loans to Native American veterans in order to enable such veterans to refinance existing loans made under this section.
 
-(Added Pub. L. 102–547, §8(a), Oct. 28, 1992, 106 Stat. 3637.)
+(2)(A) The Secretary may not make a loan under this subsection unless the loan meets the requirements set forth in subparagraphs (B), (C), and (E) of paragraph (1) of section 3710(e) of this title.
+
+(B) The Secretary may not make a loan under this subsection unless the loan will bear an interest rate at least one percentage point less than the interest rate borne by the loan being refinanced.
+
+(C) Paragraphs (2) and (3) of such section 3710(e) shall apply to any loan made under this subsection, except that for the purposes of this subsection the reference to subsection (a)(8) of section 3710 of this title in such paragraphs (2) and (3) shall be deemed to be a reference to this subsection.
+
+(i) The Secretary shall carry out an outreach program to inform and educate tribal organizations and Native American veterans of the pilot program provided for under this subchapter and the availability of direct housing loans for Native American veterans who live on trust lands.
+
+(Added Pub. L. 102–547, §8(a), Oct. 28, 1992, 106 Stat. 3637; amended Pub. L. 104–275, title II, §202(a), Oct. 9, 1996, 110 Stat. 3330.)
+
+#### Amendments
+
+1996—Subsecs. (h), (i). Pub. L. 104–275 added subsec. (h) and redesignated former subsec. (h) as (i).
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 3729 of this title.
 

@@ -1,5 +1,5 @@
 
-5 U.S.C.<br>United States Code, 1995 Edition<br>Title 5 - GOVERNMENT ORGANIZATION AND EMPLOYEES<br>From the U.S. Government Publishing Office, www.gpo.gov
+5 U.S.C.<br>United States Code, 1996 Edition<br>Title 5 - GOVERNMENT ORGANIZATION AND EMPLOYEES<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 5—GOVERNMENT ORGANIZATION AND EMPLOYEES
 
@@ -15,13 +15,17 @@
 
 #### Amendments
 
-<b>1979</b>—Pub. L. 96–54, §2(a)(1), Aug. 14, 1979, 93 Stat. 381, substituted “Civil Service Functions and Responsibilities” for “The United States Civil Service Commission” in item for part II.
+1979—Pub. L. 96–54, §2(a)(1), Aug. 14, 1979, 93 Stat. 381, substituted “Civil Service Functions and Responsibilities” for “The United States Civil Service Commission” in item for part II.
 
 Table Showing Disposition of All Sections of Former Title 5
 
-<i>   Title 5       Former Sections   </i>
+<i>Title 5</i>
 
-<i>   Title 5       New Sections   </i>
+<i>Former Sections</i>
+
+<i>Title 5</i>
+
+<i>New Sections</i>
 
 1, 2
 
@@ -3057,7 +3061,7 @@ T. 15 §1516
 
 601a–601d
 
-T. 15 §§189, 189a, 192, 192a
+T. 15 §§189, 189a, 192, 192a
 
 602
 
@@ -4543,7 +4547,7 @@ T. 2 §60e–2a
 
 5111
 
-1105(a)–(<i>l)</i>
+1105(a)–(<i>l</i>)
 
 3324, 5108
 
@@ -5641,7 +5645,7 @@ Section 9(a)–(g) of Pub. L. 90–83, Sept. 11, 1967, 81 Stat. 222, provided th
 
 #### Title Referred to in Other Sections
 
-This title is referred to in title 2 sections 353, 437c, 622; title 7 sections 84, 1765a, 1988, 2007b, 6981; title 10 sections 1408, 1590, 1601, 1604, 2164; title 12 sections 1422b, 1795f, 1821, 2278a–3, 2279aa–3, 2405, 3307; title 14 section 186; title 15 sections 634d, 648, 649a, 2206, 2451; title 16 sections 410cc–36, 410ww–24, 410ccc–22, 469j, 583j–1, 742f, 1401, 3702, 4005, 4604; title 18 sections 202, 3006A; title 20 sections 76k, 80g, 80<i>o</i>, 80q–4, 964, 971, 1004, 1098, 1134, 1135a–1, 1135d–3, 1213c, 1221e, 1417, 1505, 3413, 3425, 3461, 4416, 5509, 5826, 5848, 6011, 6021, 6031, 9011; title 21 section 394; title 22 sections 1622d, 2124c, 2421, 2581, 2905, 3008, 3642, 3664, 4606, 4823, 5421, 6204, 6207; title 24 section 417; title 25 sections 640d–11, 1661, 2021, 2022, 2704, 2707, 3113, 3505, 3731; title 26 sections 7471, 9010, 9040; title 28 sections 375, 561, 625, 1877; title 29 sections 761a, 783, 797a, 1774; title 31 sections 301, 732, 733; title 33 section 1123; title 36 sections 1405, 1406, 5202; title 38 sections 106, 707, 4103, 4312, 4322, 5303A, 7281, 7403, 7406, 7425, 7453, 7802; title 40 sections 136, 873, 1106; title 41 section 422; title 42 sections 217a, 237, 282, 285a–2, 285a–4, 285b–3, 288–4, 290aa, 299c–1, 299c–4, 300v–2, 903, 904, 907a, 1314, 1320a–4, 1320b–9, 1320c–2, 1395w–1, 1395<i>oo</i>, 1395ww, 1863, 1975b, 2000e–4, 2210, 3015, 3525, 3533, 3788, 4025, 4372, 4768, 5149, 5404, 5667g–2, 7231, 7412, 8104, 10704, 12314, 12373, 12619, 12651e, 12651f, 14196; title 43 section 1731; title 46 App. sections 41, 1295g; title 49 sections 325, 32306; title 50 section 2081; title 50 App. section 2153.
+This title is referred to in title 2 sections 353, 437c, 622; title 7 sections 84, 1765a, 1988, 6981, 7317; title 10 sections 1408, 1603, 1606, 2164, 10216; title 12 sections 1422b, 1795f, 1821, 2278a–3, 2279aa–3, 2405, 3307; title 14 section 186; title 15 sections 634d, 648, 649a, 2206, 2451; title 16 sections 410cc–36, 410ww–24, 410ccc–22, 469j, 583j–1, 742f, 1401, 3702, 4005, 4604; title 18 sections 202, 3006A; title 20 sections 76k, 80g, 80<i>o</i>, 80q–4, 964, 971, 1004, 1098, 1134, 1135a–1, 1135d–3, 1213c, 1221e, 1417, 1505, 3413, 3425, 3461, 4416, 5509, 5826, 5848, 6011, 6021, 6031, 9011; title 21 section 394; title 22 sections 1622d, 2124c, 2421, 2581, 2905, 3008, 3642, 3664, 4606, 4823, 5421, 6204, 6207; title 24 section 417; title 25 sections 640d–11, 1661, 2021, 2022, 2704, 2707, 3113, 3505, 3731; title 26 sections 7471, 9010, 9040; title 28 sections 375, 561, 625, 1877; title 29 sections 761a, 783, 797a, 1774; title 30 section 1724; title 31 sections 301, 732, 733; title 33 section 1123; title 36 sections 1405, 1406, 5202, 5702; title 38 sections 106, 707, 4103, 4312, 4322, 5303A, 7281, 7403, 7406, 7425, 7453, 7802; title 40 sections 136, 873, 1106; title 41 section 422; title 42 sections 217a, 237, 282, 285a–2, 285a–4, 285b–3, 288–4, 290aa, 299c–1, 299c–4, 300v–2, 903, 904, 907a, 1314, 1320a–4, 1320b–9, 1320c–2, 1395w–1, 1395<i>oo</i>, 1395ww, 1863, 1975b, 2000e–4, 2210, 3015, 3525, 3533, 3788, 4025, 4372, 4768, 5149, 5404, 5667g–2, 7231, 7412, 8104, 10704, 12314, 12373, 12619, 12651e, 12651f, 14196; title 43 section 1731; title 46 App. sections 41, 1295g; title 49 sections 325, 32306; title 50 section 2081; title 50 App. section 2153.
 
 
 ---

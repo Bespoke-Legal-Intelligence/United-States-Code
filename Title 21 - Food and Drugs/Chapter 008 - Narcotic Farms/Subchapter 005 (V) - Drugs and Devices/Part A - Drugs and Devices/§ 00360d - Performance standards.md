@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(i) provisions respecting the construction, components, ingredients, and properties of the device and its compatibility with power systems and connections to such systems,
 
-&emsp;&emsp;(ii) provisions for the testing (on a sample basis or, if necessary, on an individual basis) of the device or, if it is determined that no other more practicable means are available to the Secretary to assure the conformity of the device to the standard, provisions for the testing (on a sample basis or, if necessary, on an individual basis) by the Secretary or by another person at the direction of the Secretary,
+&emsp;&emsp;(ii) provisions for the testing (on a sample basis or, if necessary, on an individual basis) of the device or, if it is determined that no other more practicable means are available to the Secretary to assure the conformity of the device to the standard, provisions for the testing (on a sample basis or, if necessary,on an individual basis) by the Secretary or by another person at the direction of the Secretary,
 
 &emsp;&emsp;(iii) provisions for the measurement of the performance characteristics of the device,
 
@@ -44,7 +44,7 @@
 
 &emsp;(iii) invite interested persons to submit to the Secretary, within 30 days of the publication of the notice, requests for changes in the classification of the device pursuant to section 360c(e) of this title based on new information relevant to the classification, and
 
-&emsp;(iv) invite interested persons to submit an existing performance standard for the device,including a draft or proposed performance standard, for consideration by the Secretary.
+&emsp;(iv) invite interested persons to submit an existing performance standard for the device, including a draft or proposed performance standard, for consideration by the Secretary.
 
 (C) A notice of proposed rulemaking for the revocation of a performance standard shall set forth a finding with supporting justification that the performance standard is no longer necessary to provide reasonable assurance of the safety and effectiveness of a device.
 
@@ -122,5 +122,5 @@ Advisory committees in existence on Jan. 5, 1973, to terminate not later than th
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 331, 351, 352, 360, 360c, 360e, 360g, 360j, 381 of this title.
+This section is referred to in sections 331, 351, 352, 360, 360c, 360e, 360g, 360j, 381, 382 of this title.
 

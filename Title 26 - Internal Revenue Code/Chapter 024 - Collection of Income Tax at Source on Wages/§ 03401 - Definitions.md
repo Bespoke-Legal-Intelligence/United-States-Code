@@ -4,13 +4,13 @@
 
 For purposes of this chapter, the term “wages” means all remuneration (other than fees paid to a public official) for services performed by an employee for his employer, including the cash value of all remuneration (including benefits) paid in any medium other than cash; except that such term shall not include remuneration paid—
 
-&emsp;(1) for active service performed in a month for which such employee is entitled to the benefits of section 112 (relating to certain combat pay of members of the Armed Forces of the United States); or
+&emsp;(1) for active service performed in a month for which such employee is entitled to the benefits of section 112 (relating to certain combat zone compensation of members of the Armed Forces of the United States) to the extent remuneration for such service is excludable from gross income under such section; or
 
 &emsp;(2) for agricultural labor (as defined in section 3121(g)) unless the remuneration paid for such labor is wages (as defined in section 3121(a)); or
 
 &emsp;(3) for domestic service in a private home, local college club, or local chapter of a college fraternity or sorority; or
 
-&emsp;(4) for service not in the course of the employer's trade or business performed in anycalendar quarter by an employee, unless the cash remuneration paid for such service is $50 or more and such service is performed by an individual who is regularly employed by such employer to perform such service. For purposes of this paragraph, an individual shall be deemed to be regularly employed by an employer during a calendar quarter only if—
+&emsp;(4) for service not in the course of the employer's trade or business performed in any calendar quarter by an employee, unless the cash remuneration paid for such service is $50 or more and such service is performed by an individual who is regularly employed by such employer to perform such service. For purposes of this paragraph, an individual shall be deemed to be regularly employed by an employer during a calendar quarter only if—
 
 &emsp;&emsp;(A) on each of some 24 days during such quarter such individual performs for such employer for some portion of the day service not in the course of the employer's trade or business; or
 
@@ -26,7 +26,7 @@ For purposes of this chapter, the term “wages” means all remuneration (other
 
 &emsp;&emsp;(i) performed by a citizen of the United States if, at the time of the payment of such remuneration, it is reasonable to believe that such remuneration will be excluded from gross income under section 911; or
 
-&emsp;&emsp;(ii) performed in a foreign country or in a possession of the United States by such a citizen if, at the time of the payment of such remuneration, the employer is required by the law of any foreign country or possession of the United States to withhold income tax upon such remuneration; or
+&emsp;&emsp;(ii) performed in a foreign country or in a possession of the United States by such a citizen if, at the time of the payment of suchremuneration, the employer is required by the law of any foreign country or possession of the United States to withhold income tax upon such remuneration; or
 
 &emsp;(B) for services for an employer (other than the United States or any agency thereof) performed by a citizen of the United States within a possession of the United States (other than Puerto Rico), if it is reasonable to believe that at least 80 percent of the remuneration to be paid to the employee by such employer during the calendar year will be for such services; or
 
@@ -50,6 +50,8 @@ For purposes of this chapter, the term “wages” means all remuneration (other
 
 &emsp;&emsp;(C) for a payment described in section 402(h)(1) and (2) if, at the time of such payment, it is reasonable to believe that the employee will be entitled to an exclusion under such section for payment; or
 
+&emsp;&emsp;(D) under an arrangement to which section 408(p) applies; or
+
 &emsp;(13) pursuant to any provision of law other than section 5(c) or 6(1) of the Peace Corps Act, for service performed as a volunteer or volunteer leader within the meaning of such Act; or
 
 &emsp;(14) in the form of group-term life insurance on the life of an employee; or
@@ -58,15 +60,17 @@ For purposes of this chapter, the term “wages” means all remuneration (other
 
 &emsp;(16)(A) as tips in any medium other than cash;
 
-&emsp;(B) as cash tips to an employee in any calendar month in the course of his employment by an employer unless the amount of such cash tips is $20 or more;
+&emsp;(B) as cash tips to an employee in any calendar month in the course of his employment by an employer unless the amount of such cash tips is $20 or more; <sup>1</sup>
 
-&emsp;(17) for service described in section 3121(b)(20);
+&emsp;(17) for service described in section 3121(b)(20); <sup>1</sup>
 
-&emsp;(18) for any payment made, or benefit furnished, to or for the benefit of an employee if at the time of such payment or such furnishing it is reasonable to believe that the employee will be able to exclude such payment or benefit from income under section 127 or 129;
+&emsp;(18) for any payment made, or benefit furnished, to or for the benefit of an employee if at the time of such payment or such furnishing it is reasonable to believe that the employee will be able to exclude such payment or benefit from income under section 127 or 129; <sup>1</sup>
 
-&emsp;(19) any benefit provided to or on behalf of an employee if at the time such benefit is provided it is reasonable to believe that the employee will be able to exclude such benefit from income under section 74(c), 117, or 132; or
+&emsp;(19) any benefit provided to or on behalf of an employee if at the time such benefit is provided it is reasonable to believe that the employee will be able to exclude such benefit from income under section 74(c), 117, or 132; <sup>1</sup>
 
-&emsp;(20) for any medical care reimbursement made to or for the benefit of an employee under a self-insured medical reimbursement plan (within the meaning of section 105(h)(6)).
+&emsp;(20) for any medical care reimbursement made to or for the benefit of an employee under a self-insured medical reimbursement plan (within the meaning of section 105(h)(6)); or
+
+&emsp;(21) any payment made to or for the benefit of an employee if at the time of such payment it is reasonable to believe that the employee will be able to exclude such payment from income under section 106(b).
 
 #### (b) Payroll period
 
@@ -80,7 +84,7 @@ For purposes of this chapter, the term “employee” includes an officer, emplo
 
 For purposes of this chapter, the term “employer” means the person for whom an individual performs or performed any service, of whatever nature, as the employee of such person, except that—
 
-&emsp;(1) if the person for whom the individual performs or performed the services does not have control of the payment of the wages for such services, the term “employer” (except for purposes of subsection (a)) means the person having control of the payment of such wages, and
+&emsp;(1) if the person for whom the individual performs or performed the services does not have control of the payment of the wages for suchservices, the term “employer” (except for purposes of subsection (a)) means the person having control of the payment of such wages, and
 
 &emsp;(2) in the case of a person paying wages on behalf of a nonresident alien individual, foreign partnership, or foreign corporation, not engaged in trade or business within the United States, the term “employer” (except for purposes of subsection (a)) means such person.
 
@@ -98,13 +102,21 @@ For purposes of subsection (a), the term “wages” includes tips received by a
 
 Rules similar to the rules of section 3121(<i>o</i>) shall apply for purposes of this chapter.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 455; Aug. 9, 1955, ch. 681, 69 Stat. 616; Sept. 21, 1961, Pub. L. 87–256, §110(g)(1), 75 Stat. 537; Sept. 22, 1961, Pub. L. 87–293, title II, §201(c), 75 Stat. 625; Oct. 10, 1962, Pub. L. 87–792, §7(<i>l</i>), 76 Stat. 830; Feb. 26, 1964, Pub. L. 88–272, title II, §§204(b), 213(c), 78 Stat. 36, 52; July 30, 1965, Pub. L. 89–97, title III, §313(d)(1), (2), 79 Stat. 383, 384; Nov. 13, 1966, Pub. L. 89–809, title I, §103(k), 80 Stat. 1554; Apr. 26, 1972, Pub. L. 92–279, §2, 86 Stat. 125; Sept. 2, 1974, Pub. L. 93–406, title II, §2002(g)(7), 88 Stat. 970; Oct. 4, 1976, Pub. L. 94–455, title XII, §1207(e)(1)(C), title XV, §1501(b)(7), title XIX, §§1903(c), 1906(b)(13)(A), 90 Stat. 1707, 1736, 1810, 1834; Nov. 6, 1978, Pub. L. 95–600, title I, §164(b)(1), 92 Stat. 2813; Nov. 8, 1978, Pub. L. 95–615, §207(a), 92 Stat. 3108; Apr. 1, 1980, Pub. L. 96–222, title I, §103(a)(13)(A), 94 Stat. 213; Aug. 13, 1981, Pub. L. 97–34, title I, §§112(b)(5), 124(e)(2)(A), title III, §311(h)(6), 95 Stat. 195, 200, 282; Jan. 12, 1983, Pub. L. 97–448, title I, §103(c)(12)(B), 96 Stat. 2377; July 18, 1984, Pub. L. 98–369, div. A, title IV, §491(d)(38), title V, §531(d)(4), 98 Stat. 851, 885; Oct. 22, 1986, Pub. L. 99–514, title I, §122(e)(4), title XII, §1272(c), 100 Stat. 2112, 2594; Nov. 10, 1988, Pub. L. 100–647, title I, §§1001(g)(4)(B)(iii), 1011(f)(9), 1011B(a)(22)(D), (33), 102 Stat. 3352, 3463, 3486, 3488; Nov. 8, 1989, Pub. L. 101–140, title II, §203(a)(2), 103 Stat. 830; Dec. 19, 1989, Pub. L. 101–239, title VII, §7631(a), (b), 103 Stat. 2378; Nov. 5, 1990, Pub. L. 101–508, title XI, §11703(f)(1), 104 Stat. 1388–517.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 455; Aug. 9, 1955, ch. 681, 69 Stat. 616; Sept. 21, 1961, Pub. L. 87–256, §110(g)(1), 75 Stat. 537; Sept. 22, 1961, Pub. L. 87–293, title II, §201(c), 75 Stat. 625; Oct. 10, 1962, Pub. L. 87–792, §7(<i>l</i>), 76 Stat. 830; Feb. 26, 1964, Pub. L. 88–272, title II, §§204(b), 213(c), 78 Stat. 36, 52; July 30, 1965, Pub. L. 89–97, title III, §313(d)(1), (2), 79 Stat. 383, 384; Nov. 13, 1966, Pub. L. 89–809, title I, §103(k), 80 Stat. 1554; Apr. 26, 1972, Pub. L. 92–279, §2, 86 Stat. 125; Sept. 2, 1974, Pub. L. 93–406, title II, §2002(g)(7), 88 Stat. 970; Oct. 4, 1976, Pub. L. 94–455, title XII, §1207(e)(1)(C), title XV, §1501(b)(7), title XIX, §§1903(c), 1906(b)(13)(A), 90 Stat. 1707, 1736, 1810, 1834; Nov. 6, 1978, Pub. L. 95–600, title I, §164(b)(1), 92 Stat. 2813; Nov. 8, 1978, Pub. L. 95–615, §207(a), 92 Stat. 3108; Apr. 1, 1980, Pub. L. 96–222, title I, §103(a)(13)(A), 94 Stat. 213; Aug. 13, 1981, Pub. L. 97–34, title I, §§112(b)(5), 124(e)(2)(A), title III, §311(h)(6), 95 Stat. 195, 200, 282; Jan. 12, 1983, Pub. L. 97–448, title I, §103(c)(12)(B), 96 Stat. 2377; July 18, 1984, Pub. L. 98–369, div. A, title IV, §491(d)(38), title V, §531(d)(4), 98 Stat. 851, 885; Oct. 22, 1986, Pub. L. 99–514, title I, §122(e)(4), title XII, §1272(c), 100 Stat. 2112, 2594; Nov. 10, 1988, Pub. L. 100–647, title I, §§1001(g)(4)(B)(iii), 1011(f)(9), 1011B(a)(22)(D), (33), 102 Stat. 3352, 3463, 3486, 3488; Nov. 8, 1989, Pub. L. 101–140, title II, §203(a)(2), 103 Stat. 830; Dec. 19, 1989, Pub. L. 101–239, title VII, §7631(a), (b), 103 Stat. 2378; Nov. 5, 1990, Pub. L. 101–508, title XI, §11703(f)(1), 104 Stat. 1388–517; Mar. 20, 1996, Pub. L. 104–117, §1(c), 110 Stat. 828; Aug. 20, 1996, Pub. L. 104–188, title I, §§1421(b)(8)(D), 1704(t)(4)(C), 110 Stat. 1798, 1887; Aug. 21, 1996, Pub. L. 104–191, title III, §301(c)(2)(C), 110 Stat. 2049.)
 
 #### References in Text
 
 Sections 5(c) and 6(1) of the Peace Corps Act, referred to in subsec. (a)(13), are classified to sections 2504(c) and 2505(1), respectively, of Title 22, Foreign Relations and Intercourse.
 
 #### Amendments
+
+1996—Subsec. (a)(1). Pub. L. 104–188, §1704(t)(4)(C), substituted “combat zone compensation” for “combat pay”.
+
+Pub. L. 104–117 inserted before semicolon “to the extent remuneration for such service is excludable from gross income under such section”.
+
+Subsec. (a)(12)(D). Pub. L. 104–188, §1421(b)(8)(D), added subpar. (D).
+
+Subsec. (a)(21). Pub. L. 104–191 added par. (21).
 
 1990—Subsec. (a)(20). Pub. L. 101–508 added par. (20).
 
@@ -178,6 +190,14 @@ Subsec. (a)(13). Pub. L. 87–293 added par. (13).
 
 1955—Subsec. (a). Act Aug. 9, 1955, excluded from definition of wages, remuneration paid for services performed in a possession of the United States by a United States citizen if the employer is required by the law of the possession to withhold income tax on the remuneration.
 
+#### Effective Date of 1996 Amendments
+
+Amendment by Pub. L. 104–191 applicable to taxable years beginning after Dec. 31, 1996, see section 301(j) of Pub. L. 104–191, set out as a note under section 62 of this title.
+
+Amendment by section 1421(b)(8)(D) of Pub. L. 104–188 applicable to taxable years beginning after Dec. 31, 1996, see section 1421(e) of Pub. L. 104–188, set out as a note under section 72 of this title.
+
+Amendment by Pub. L. 104–117 applicable to remuneration paid after Mar. 20, 1996, see section 1(e) of Pub. L. 104–117, set out in a Treatment of Certain Individuals Performing Services in Certain Hazardous Duty Areas; Effective Date note under section 112 of this title.
+
 #### Effective Date of 1990 Amendment
 
 Section 11703(f)(2) of Pub. L. 101–508 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply as if included in the amendments made by section 1151 of the Tax Reform Act of 1986 \[Pub. L. 99–514, see Effective Date of 1986 Amendment note set out under section 79 of this title\] but shall not apply to any amount paid before the date of the enactment of this Act \[Nov. 5, 1990\] which the employer treated as wages for purposes of chapter 24 of the Internal Revenue Code of 1986 when paid.”
@@ -224,7 +244,7 @@ Amendment by Pub. L. 96–222 effective, except as otherwise provided, as if it 
 
 #### Effective Date of 1978 Amendments
 
-Amendment by Pub. L. 95–615 applicable to remuneration paid after Nov. 8, 1978, but with taxpayers allowed to elect not to have the amendment apply with respect to any taxable year beginning after Dec. 31, 1977, andbefore Jan. 1, 1979, see section 209(b), (c) of Pub. L. 95–615, set out as a note under section 911 of this title.
+Amendment by Pub. L. 95–615 applicable to remuneration paid after Nov. 8, 1978, but with taxpayers allowed to elect not to have the amendment apply with respect to any taxable year beginning after Dec. 31, 1977, and before Jan. 1, 1979, see section 209(b), (c) of Pub. L. 95–615, set out as a note under section 911 of this title.
 
 Amendment by Pub. L. 95–600 applicable with respect to taxable years beginning after Dec. 31, 1978, see section 164(d) of Pub. L. 95–600, set out as a note under section 127 of this title.
 
@@ -274,7 +294,7 @@ Section 201(c) of Pub. L. 87–293, cited as a credit to this section, was repea
 
 #### Controversies Involving Whether Individuals Are Employees for Purposes of Employment Taxes
 
-Section 530 of Pub. L. 95–600, as amended by Pub. L. 96–167, §9(d), Dec. 29, 1979, 93 Stat. 1278; Pub. L. 96–541, §1, Dec. 17, 1980, 94 Stat. 3204; Pub. L. 97–248, title II, §269(c)(1), (2), 96 Stat. 552; Pub. L. 99–514, §2, title XVII, §1706(a), Oct. 22, 1986, 100 Stat. 2095, 2781, provided that:
+Section 530 of Pub. L. 95–600, as amended by Pub. L. 96–167, §9(d), Dec. 29, 1979, 93 Stat. 1278; Pub. L. 96–541, §1, Dec. 17, 1980, 94 Stat. 3204; Pub. L. 97–248, title II, §269(c)(1), (2), 96 Stat. 552; Pub. L. 99–514, §2, title XVII, §1706(a), Oct. 22, 1986, 100 Stat. 2095, 2781; Pub. L. 104–188, title I, §1122(a), Aug. 20, 1996, 110 Stat. 1766, provided that:
 
 “(a)
 
@@ -310,7 +330,7 @@ Refund or credit of overpayment.—If refund or credit of any overpayment of an 
 
 “(b)
 
-Prohibition Against Regulations and Rulings on Employment Status.—No regulation or Revenue Ruling shall be published on or after the date of the enactment of this Act \[Nov. 6, 1978\] and before the effective date of any law hereafter enacted clarifying the employment status of individuals for purposes of the employment taxes by the Department of the Treasury\(including the Internal Revenue Service) with respect to the employment status of any individual for purposes of the employment taxes.
+Prohibition Against Regulations and Rulings on Employment Status.—No regulation or Revenue Ruling shall be published on or after the date of the enactment of this Act \[Nov. 6, 1978\] and before the effective date of any law hereafter enacted clarifying theemployment status of individuals for purposes of the employment taxes by the Department of the Treasury (including the Internal Revenue Service) with respect to the employment status of any individual for purposes of the employment taxes.
 
 “(c)
 
@@ -326,9 +346,93 @@ Employment status.—The term ‘employment status’ means the status of an ind
 
 “(d)
 
-Exception.—This section shall not apply in the case of an individual who, pursuant to an arrangement between the taxpayer and another person, provides services for such other person as an engineer, designer, drafter, computer programmer, systems analyst, or other similarly skilled worker engaged in a similar line of work.”
+Exception.—This section shall not apply in the case of an individual who, pursuant to an arrangement between the taxpayer and another person, provides services for such other person as an engineer, designer, drafter, computer programmer, systems analyst, or other similarly skilled worker engaged in a similar line of work.
 
-\[Section 1706(b) of Pub. L. 99–514 provided that: “The amendment made by this section \[amending note above\] shall apply to remuneration paid and services rendered after December 31, 1986.”\]
+“(e)
+
+Special Rules for Application of Section.—
+
+&emsp;“(1)
+
+Notice of availability of section.—An officer or employee of the Internal Revenue Service shall, before or at the commencement of any audit inquiry relating to the employment status of one or more individuals who perform services for the taxpayer, provide the taxpayer with a written notice of the provisions of this section.
+
+&emsp;“(2)
+
+Rules relating to statutory standards.—For purposes of subsection (a)(2)—
+
+&emsp;&emsp;“(A) a taxpayer may not rely on an audit commenced after December 31, 1996, for purposes of subparagraph (B) thereof unless such audit included an examination for employment tax purposes of whether the individual involved (or any individual holding a position substantially similar to the position held by the individual involved) should be treated as an employee of the taxpayer,
+
+&emsp;&emsp;“(B) in no event shall the significant segment requirement of subparagraph (C) thereof be construed to require a reasonable showing of the practice of more than 25 percent of the industry (determined by not taking into account the taxpayer), and
+
+&emsp;&emsp;“(C) in applying the long-standing recognized practice requirement of subparagraph (C) thereof—
+
+&emsp;&emsp;&emsp;“(i) such requirement shall not be construed as requiring the practice to have continued for more than 10 years, and
+
+&emsp;&emsp;&emsp;“(ii) a practice shall not fail to be treated as long-standing merely because such practice began after 1978.
+
+&emsp;“(3)
+
+Availability of safe harbors.—Nothing in this section shall be construed to provide that subsection (a) only applies where the individual involved is otherwise an employee of the taxpayer.
+
+&emsp;“(4)
+
+Burden of proof.—
+
+&emsp;&emsp;“(A)
+
+In general.—If—
+
+&emsp;&emsp;&emsp;“(i) a taxpayer establishes a prima facie case that it was reasonable not to treat an individual as an employee for purposes of this section, and
+
+&emsp;&emsp;&emsp;“(ii) the taxpayer has fully cooperated with reasonable requests from the Secretary of the Treasury or his delegate,
+
+&nbsp;&nbsp;then the burden of proof with respect to such treatment shall be on the Secretary.
+
+&emsp;&emsp;“(B)
+
+Exception for other reasonable basis.—In the case of any issue involving whether the taxpayer had a reasonable basis not to treat an individual as an employee for purposes of this section, subparagraph (A) shall only apply for purposes of determining whether the taxpayer meets the requirements of subparagraph (A), (B), or (C) of subsection (a)(2).
+
+&emsp;“(5)
+
+Preservation of prior period safe harbor.—If—
+
+&emsp;&emsp;“(A) an individual would (but for the treatment referred to in subparagraph (B)) be deemed not to be an employee of the taxpayer under subsection (a) for any prior period, and
+
+&emsp;&emsp;“(B) such individual is treated by the taxpayer as an employee for employment tax purposes for any subsequent period,
+
+> &emsp;then, for purposes of applying such taxes for such prior period with respect to the taxpayer, the individual shall be deemed not to be an employee.
+
+&emsp;“(6)
+
+Substantially similar position.—For purposes of this section, the determination as to whether an individual holds a position substantially similar to a position held by another individual shall include consideration of the relationship between the taxpayer and such individuals.”
+
+\[Section 1122(b) of Pub. L. 104–188 provided that:
+
+\[“(1)
+
+In general.—The amendment made by this section \[amending section 530 of Pub. L. 95–600, set out above\] shall apply to periods after December 31, 1996.
+
+\[“(2)
+
+Notice by internal revenue service.—Section 530(e)(1) of the Revenue Act of 1978 \[Pub. L. 95–600\] (as added by subsection (a)) shall apply to audits which commence after December 31, 1996.
+
+\[“(3)
+
+Burden of proof.—
+
+&emsp;\[“(A)
+
+In general.—Section 530(e)(4) of the Revenue Act of 1978 (as added by subsection (a)) shall apply to disputes involving periods after December 31, 1996.
+
+&emsp;\[“(B)
+
+No inference.—Nothing in the amendments made by this section shall be construed to infer the proper treatment of the burden of proof with respect to disputes involving periods before January 1, 1997.”\]
+
+\[Section 1706(b) of Pub. L. 99–514 provided that: “The amendment made by this section \[amending section 530 of Pub. L. 95–600, set out above\] shall apply to remuneration paid and services rendered after December 31, 1986.”\]
+
+#### Plan Amendments Not Required Until January 1, 1998
+
+For provisions directing that if any amendments made by subtitle D \[§§1401–1465\] of title I of Pub. L. 104–188 require an amendment to any plan or annuity contract, such amendment shall not be required to be made before the first day of the first plan year beginning on or after Jan. 1, 1998, see section 1465 of Pub. L. 104–188, set out as a note under section 401 of this title.
 
 #### Cross References
 
@@ -337,4 +441,6 @@ Effective date of this subtitle, see section 7851 of this title.
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 41, 275, 3402, 3507, 3509, 4999, 6014, 6051, 6053, 6103, 6331 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by “or”.</i>
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Cause of Action.—Except as provided in section 2703(e), any provider of electronic communication service, subscriber, or customer aggrieved by any violation of this chapter in which the conduct constituting the violation is engaged in with a knowing or intentional state of mind may, in a civil action, recover from the person or entity which engaged in that violation such relief as may be appropriate.
+Cause of Action.—Except as provided in section 2703(e), any provider of electronic communication service, subscriber, or other person aggrieved by any violation of this chapter in which the conduct constituting the violation is engaged in with a knowing or intentional state of mind may, in a civil action, recover from the person or entity which engaged in that violation such relief as may be appropriate.
 
 (b)
 
@@ -16,9 +16,13 @@ Relief.—In a civil action under this section, appropriate relief includes—
 
 (c)
 
-Damages.—The court may assess as damages in a civil action under this section the sum of the actual damages suffered by the plaintiff and any profits made by the violator as a result of the violation, but in no case shall a person entitled to recover receive less than the sum of $1,000.
+Damages.—The court may assess as damages in a civil action under this section the sum of the actual damages suffered by the plaintiff and any profits made by the violator as a result of the violation, but in no case shall a person entitled to recover receive less than the sum of $1,000. If the violation is willful or intentional, the court may assess punitive damages. In the case of a successful action to enforce liability under this section, the court may assess the costs of the action, together with reasonable attorney fees determined by the court.
 
 (d)
+
+Disciplinary Actions for Violations.—If a court determines that any agency or department of the United States has violated this chapter and the court finds that the circumstances surrounding the violation raise the question whether or not an officer or employee of the agency or department acted willfully or intentionally with respect to the violation, the agency or department concerned shall promptly initiate a proceeding to determine whether or not disciplinary action is warranted against the officer or employee.
+
+(e)
 
 Defense.—A good faith reliance on—
 
@@ -30,9 +34,17 @@ Defense.—A good faith reliance on—
 
 > is a complete defense to any civil or criminal action brought under this chapter or any other law.
 
-(e)
+(f)
 
 Limitation.—A civil action under this section may not be commenced later than two years after the date upon which the claimant first discovered or had a reasonable opportunity to discover the violation.
 
-(Added Pub. L. 99–508, title II, §201\[(a)\], Oct. 21, 1986, 100 Stat. 1866.)
+(Added Pub. L. 99–508, title II, §201\[(a)\], Oct. 21, 1986, 100 Stat. 1866; amended Pub. L. 104–293, title VI, §601(c), Oct. 11, 1996, 110 Stat. 3469.)
+
+#### Amendments
+
+1996—Subsec. (a). Pub. L. 104–293, §601(c)(1), substituted “other person” for “customer”.
+
+Subsec. (c). Pub. L. 104–293, §601(c)(2), inserted at end “If the violation is willful or intentional, the court may assess punitive damages. In the case of a successful action to enforce liability under this section, the court may assess the costs of the action, together with reasonable attorney fees determined by the court.”
+
+Subsecs. (d) to (f). Pub. L. 104–293, §601(c)(3), (4), added subsec. (d) and redesignated former subsecs. (d) and (e) as (e) and (f), respectively.
 

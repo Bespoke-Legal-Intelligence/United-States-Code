@@ -34,9 +34,9 @@
 
 (e) Notwithstanding section 8301 of title 5, the date of entitlement to retired pay under this section shall be the date on which the requirements of subsection (a) have been completed.
 
-(f) In the case of a person who completes the service requirements of subsection (a)(2) during the period beginning on the date of the enactment of this subsection and ending on September 30, 1999, the provisions of subsection (a)(3) shall be applied by substituting “the last six years” for “the last eight years”.
+(f) In the case of a person who completes the service requirements of subsection (a)(2) during the period beginning on October 5, 1994, and ending on September 30, 1999, the provisions of subsection (a)(3) shall be applied by substituting “the last six years” for “the last eight years”.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 102, §1331; Aug. 21, 1958, Pub. L. 85–704, 72 Stat. 702; Sept. 2, 1958, Pub. L. 85–861, §33(a)(8), 72 Stat. 1564; Oct. 14, 1966, Pub. L. 89–652, §1, 80 Stat. 902; Aug. 13, 1968, Pub. L. 90–485, §2, 82 Stat. 754; Sept. 30, 1978, Pub. L. 95–397, title II, §206, 92 Stat. 847; Dec. 12, 1980, Pub. L. 96–513, title V, §511(47), 94 Stat. 2924; Sept. 24, 1983, Pub. L. 98–94, title IX, §924(a), 97 Stat. 644; Nov. 29, 1989, Pub. L. 101–189, div. A, title XIV, §1404(b)(1), 103 Stat. 1586; renumbered §12731 and amended Oct. 5, 1994, Pub. L. 103–337, div. A, title VI, §636, title XVI, §1662(j)(1), 108 Stat. 2790, 2999.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 102, §1331; Aug. 21, 1958, Pub. L. 85–704, 72 Stat. 702; Sept. 2, 1958, Pub. L. 85–861, §33(a)(8), 72 Stat. 1564; Oct. 14, 1966, Pub. L. 89–652, §1, 80 Stat. 902; Aug. 13, 1968, Pub. L. 90–485, §2, 82 Stat. 754; Sept. 30, 1978, Pub. L. 95–397, title II, §206, 92 Stat. 847; Dec. 12, 1980, Pub. L. 96–513, title V, §511(47), 94 Stat. 2924; Sept. 24, 1983, Pub. L. 98–94, title IX, §924(a), 97 Stat. 644; Nov. 29, 1989, Pub. L. 101–189, div. A, title XIV, §1404(b)(1), 103 Stat. 1586; renumbered §12731 and amended Oct. 5, 1994, Pub. L. 103–337, div. A, title VI, §636, title XVI, §1662(j)(1), 108 Stat. 2790, 2999; Feb. 10, 1996, Pub. L. 104–106, div. A, title XV, §1501(b)(20), 110 Stat. 497.)
 
 Historical and Revision Notes<br>1956
 
@@ -86,11 +86,9 @@ In subsection (c), the words “the Army without component or other category cov
 
 The change makes clear that in the determination of eligibility for retired pay for non–regular service, the service of a Regular serving in a temporary grade (that is, without component) may not be counted. See opinion of the Judge Advocate General of the Army, JAGA 1957/4463, May 13, 1957.
 
-#### References in Text
-
-The date of the enactment of this subsection, referred to in subsec. (f), means the date of enactment of Pub. L. 103–337 which added subsec. (f) and which was approved Oct. 5, 1994.
-
 #### Amendments
+
+1996—Subsec. (f). Pub. L. 104–106 substituted “October 5, 1994,” for “the date of the enactment of this subsection”.
 
 1994—Pub. L. 103–337, §1662(j)(1), renumbered section 1331 of this title as this section and amended text generally, making changes in style and in references to other sections.
 
@@ -119,6 +117,10 @@ Subsec. (e). Pub. L. 96–513, §511(47)(B), struck out “United States Code,�
 1958—Subsec. (a)(3). Pub. L. 85–861 struck out provisions which related to service as a member of the Army or the Air Force without component.
 
 Subsec. (c). Pub. L. 85–704 made persons who performed active duty (other than for training) after June 26, 1950, and before July 28, 1953, eligible for retired pay under this chapter.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–106 effective as if included in the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as enacted on Oct. 5, 1994, see section 1501(f)(3) of Pub. L. 104–106, set out as a note under section 113 of this title.
 
 #### Effective Date of 1994 Amendment
 

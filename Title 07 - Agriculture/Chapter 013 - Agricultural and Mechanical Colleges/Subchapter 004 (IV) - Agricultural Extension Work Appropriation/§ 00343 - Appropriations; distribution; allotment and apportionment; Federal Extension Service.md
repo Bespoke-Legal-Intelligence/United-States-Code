@@ -12,9 +12,13 @@
 
 &emsp;1\. Four per centum of the sum so appropriated for each fiscal year shall be allotted to the Federal Extension Service for administrative, technical, and other services, and for coordinating the extension work of the Department and the several States, Territories, and possessions.
 
-&emsp;2\. Of the remainder so appropriated for each fiscal year 20 per centum shall be paid to the several States in equal proportions, 40 per centum shall be paid to the several States in the proportion that the rural population of each bears to the total rural population of the several States as determined by the census, and the balance shall be paid to the several States in the proportion that the farm population of each bears to the total farm population of the several States as determined by the census: <i>Provided,</i> That payments out of the additional appropriations for further development of extension work authorized herein may be made subject to the making available of such sums of public funds by the States from non-Federal funds for the maintenance of cooperative agricultural extension work provided for in thissubchapter, as may be provided by the Congress at the time such additional appropriations are made: <i>Provided further,</i> That any appropriation made hereunder shall be allotted in the first and succeeding years on the basis of the decennial census current at the time such appropriation is first made, and as to any increase, on the basis of decennial census current at the time such increase is first appropriated.
+&emsp;2\. Of the remainder so appropriated for each fiscal year 20 per centum shall be paid to the several States in equal proportions, 40 per centum shall be paid to the several States in the proportion that the rural population of each bears to the total rural population of the several States as determined by the census, and the balance shall be paid to the several States in the proportion that the farm population of each bears to the total farm population of the several States as determined by the census: <i>Provided</i>, That payments out of the additional appropriations for further development of extension work authorized herein may be madesubject to the making available of such sums of public funds by the States from non-Federal funds for the maintenance of cooperative agricultural extension work provided for in this subchapter, as may be provided by the Congress at the time such additional appropriations are made: <i>Provided further</i>, That any appropriation made hereunder shall be allotted in the first and succeeding years on the basis of the decennial census current at the time such appropriation is first made, and as to any increase, on the basis of decennial census current at the time such increase is first appropriated.
 
-(d) The Federal Extension Service shall receive such additional amounts as Congress shall determine for administration, technical, and other services and for coordinating the extension work of the Department and the several States, Territories, and possessions.
+(d) The Federal Extension Service shall receive such additional amounts as Congress shall determine for administration, technical, and other services and for coordinating the extension work of the Department and the several States, Territories, and possessions. A college or university eligible to receive funds under subchapter II of this chapter, including Tuskegee University, may apply for and receive directly from the Secretary of Agriculture—
+
+&emsp;(1) amounts made available under this subsection after September 30, 1995, to carry out programs or initiatives for which no funds were made available under this subsection for fiscal year 1995, or any previous fiscal year, as determined by the Secretary; and
+
+&emsp;(2) amounts made available after September 30, 1995, to carry out programs or initiatives funded under this subsection prior to that date that are in excess of the highest amount made available for the programs or initiatives under this subsection for fiscal year 1995, or any previous fiscal year, as determined by the Secretary.
 
 (e) Insofar as the provisions of subsections (b) and (c) of this section, which require or permit Congress to require matching of Federal funds, apply to the Virgin Islands of the United States and Guam, such provisions shall be deemed to have been satisfied, for the fiscal years ending September 30, 1978, and September 30, 1979, only, if the amounts budgeted and available for expenditure by the Virgin Islands of the United States and Guam in such years equal the amounts budgeted and available for expenditure by the Virgin Islands of the United States and Guam in the fiscal year ending September 30, 1977.
 
@@ -24,7 +28,7 @@
 
 (2) The Secretary may receive contributions under this subsection from private sources for the purposes described in paragraph (1) and provide matching funds in an amount not greater than 50 percent of such contributions.
 
-(May 8, 1914, ch. 79, §3, 38 Stat. 373; June 26, 1953, ch. 157, §1, 67 Stat. 84; Oct. 5, 1962, Pub. L. 87–749, §1(b)–(e), 76 Stat. 745; June 23, 1972, Pub. L. 92–318, title V, §506(g), 86 Stat. 351; Sept. 29, 1977, Pub. L. 95–113, title XIV, §1465, 91 Stat. 1018; Dec. 23, 1985, Pub. L. 99–198, title XIV, §1435(b), 99 Stat. 1557; Aug. 27, 1986, Pub. L. 99–396, §9(e), 100 Stat. 840; Oct. 20, 1994, Pub. L. 103–382, title V, §534(b), 108 Stat. 4050.)
+(May 8, 1914, ch. 79, §3, 38 Stat. 373; June 26, 1953, ch. 157, §1, 67 Stat. 84; Oct. 5, 1962, Pub. L. 87–749, §1(b)–(e), 76 Stat. 745; June 23, 1972, Pub. L. 92–318, title V, §506(g), 86 Stat. 351; Sept. 29, 1977, Pub. L. 95–113, title XIV, §1465, 91 Stat. 1018; Dec. 23, 1985, Pub. L. 99–198, title XIV, §1435(b), 99 Stat. 1557; Aug. 27, 1986, Pub. L. 99–396, §9(e), 100 Stat. 840; Oct. 20, 1994, Pub. L. 103–382, title V, §534(b), 108 Stat. 4050; Apr. 4, 1996, Pub. L. 104–127, title VIII, §883(a), 110 Stat. 1176.)
 
 #### References in Text
 
@@ -35,6 +39,8 @@ Section 532 of the Equity in Educational Land-Grant Status Act of 1994, referred
 Section 3 of act May 8, 1914 contained additional provisions relating to appropriations which were omitted from the Code as executed legislation.
 
 #### Amendments
+
+1996—Subsec. (d). Pub. L. 104–127 inserted at end “A college or university eligible to receive funds under the Act of August 30, 1890 (7 U.S.C. 321 et seq.), including Tuskegee University, may apply for and receive directly from the Secretary of Agriculture—” and added pars. (1) and (2).
 
 1994—Subsec. (b)(3). Pub. L. 103–382, §534(b)(1), added par. (3).
 

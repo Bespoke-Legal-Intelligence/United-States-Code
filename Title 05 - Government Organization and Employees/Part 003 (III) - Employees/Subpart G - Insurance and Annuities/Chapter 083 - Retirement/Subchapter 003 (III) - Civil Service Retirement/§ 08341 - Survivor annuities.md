@@ -34,7 +34,7 @@
 
 &emsp;(B) who elected a reduced annuity provided in paragraph (2) of section 8339(k) of this title;
 
-> dies and is survived by a widow or widower, the widow or widower is entitled to an annuity in anamount which would have been paid had the annuitant been married to the widow or widower at the time of retirement.
+> dies and is survived by a widow or widower, the widow or widower is entitled to an annuity in an amount which would have been paid had the annuitant been married to the widow or widower at the time of retirement.
 
 (3) A spouse acquired after retirement is entitled to a survivor annuity under this subsection only upon electing this annuity instead of any other survivor benefit to which he may be entitled under this subchapter or another retirement system for Government employees. The annuity of the widow or widower under this subsection commences on the day after the annuitant dies. This annuity and the right thereto terminate on the last day of the month before the widow or widower—
 
@@ -56,7 +56,7 @@
 
 &emsp;(2) the sum obtained under such section after increasing his service of the type last performed by the period elapsing between the date of death and the date he would have become 60 years of age.
 
-> Notwithstanding the preceding sentence, the annuity payable under this subsection to the widow or widower of an employee or Member may not exceed the difference between—
+> Notwithstanding the preceding sentence, the annuity payable under this subsection to thewidow or widower of an employee or Member may not exceed the difference between—
 
 &emsp;(A) the amount which would otherwise be payable to such widow or widower under this subsection, and
 
@@ -101,6 +101,12 @@
 &emsp;(E) dies or marries;
 
 > whichever first occurs. On the death of the surviving spouse or former spouse or termination of the annuity of a child, the annuity of any other child or children shall be recomputed and paid as though the spouse, former spouse, or child had not survived the employee or Member.
+
+(4) If the annuity of a child under this subchapter terminates under paragraph (3)(E) because of marriage, then, if such marriage ends, such annuity shall resume on the first day of the month in which it ends, but only if—
+
+&emsp;(A) any lump sum paid is returned to the Fund; and
+
+&emsp;(B) that individual is not otherwise ineligible for such annuity.
 
 (f) If a Member heretofore or hereafter separated from the service with title to deferred annuity from the Fund hereafter dies before having established a valid claim for annuity and is survived by a spouse to whom married at the date of separation, the surviving spouse—
 
@@ -170,7 +176,7 @@
 
 &emsp;(2) the surviving spouse of such individual had been previously married to the individual and subsequently divorced, and the aggregate time married is at least 9 months.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 577; Pub. L. 90–83, §1(80), Sept. 11, 1967, 81 Stat. 216; Pub. L. 91–93, title II, §206, Oct. 20, 1969, 83 Stat. 140; Pub. L. 91–658, §3, Jan. 8, 1971, 84 Stat. 1961; Pub. L. 92–243, §1, Mar. 9, 1972, 86 Stat. 56; Pub. L. 92–297, §7(4), May 16, 1972, 86 Stat. 145; Pub. L. 93–260, §1(a), Apr. 9, 1974, 88 Stat. 76; Pub. L. 94–183, §2(36), Dec. 31, 1975, 89 Stat. 1058; Pub. L. 95–317, §1(b), July 10, 1978, 92 Stat. 382; Pub. L. 95–318, §2, July 10, 1978, 92 Stat. 384; Pub. L. 95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 95–598, title III, §338(c), Nov. 6, 1978, 92 Stat. 2681; Pub. L. 96–179, §1, Jan. 2, 1980, 93 Stat. 1299; Pub. L. 98–353, title I, §112, July 10, 1984, 98 Stat. 343; Pub. L. 98–615, §2(4), Nov. 8, 1984, 98 Stat. 3199; Pub. L. 99–251, title II, §§205–207, Feb. 27, 1986, 100 Stat. 25; Pub. L. 99–272, title XV, §15204(a)(2), Apr. 7, 1986, 100 Stat. 335; Pub. L. 101–428, §2(d)(7), Oct. 15, 1990, 104 Stat. 929; Pub. L. 102–378, §2(63), Oct. 2, 1992, 106 Stat. 1354.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 577; Pub. L. 90–83, §1(80), Sept. 11, 1967, 81 Stat. 216; Pub. L. 91–93, title II, §206, Oct. 20, 1969, 83 Stat. 140; Pub. L. 91–658, §3, Jan. 8, 1971, 84 Stat. 1961; Pub. L. 92–243, §1, Mar. 9, 1972, 86 Stat. 56; Pub. L. 92–297, §7(4), May 16, 1972, 86 Stat. 145; Pub. L. 93–260, §1(a), Apr. 9, 1974, 88 Stat. 76; Pub. L. 94–183, §2(36), Dec. 31, 1975, 89 Stat. 1058; Pub. L. 95–317, §1(b), July 10, 1978, 92 Stat. 382; Pub. L. 95–318, §2, July 10, 1978, 92 Stat. 384; Pub. L. 95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 95–598, title III, §338(c), Nov. 6, 1978, 92 Stat. 2681; Pub. L. 96–179, §1, Jan. 2, 1980, 93 Stat. 1299; Pub. L. 98–353, title I, §112, July 10, 1984, 98 Stat. 343; Pub. L. 98–615, §2(4), Nov. 8, 1984, 98 Stat. 3199; Pub. L. 99–251, title II, §§205–207, Feb. 27, 1986, 100 Stat. 25; Pub. L. 99–272, title XV, §15204(a)(2), Apr. 7, 1986, 100 Stat. 335; Pub. L. 101–428, §2(d)(7), Oct. 15, 1990, 104 Stat. 929; Pub. L. 102–378, §2(63), Oct. 2, 1992, 106 Stat. 1354; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §633(a)(1)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–362.)
 
 Historical and Revision Notes<br>1966
 
@@ -180,7 +186,9 @@ Act
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 (a)
 
@@ -208,7 +216,7 @@ Sept. 6, 1960, Pub. L. 86–713, §1(a), 74 Stat. 813.
 
 Oct. 11, 1962, Pub. L. 87–793, §1103 (less (a) and (f)(A)), 76 Stat. 870, 871.
 
-In subsection (b), the words “designated for this purpose under section 8339(i) of this title” are substituted for “designated in writing for such purpose by the employee or Member at the time of retirement” in view of the provisions of section 8339(i).
+In subsection (b), the words “designated for this purpose under section 8339(i) of this title” are substitutedfor “designated in writing for such purpose by the employee or Member at the time of retirement” in view of the provisions of section 8339(i).
 
 In subsection (f), the words “heretofore or hereafter” are substituted “either prior to, on, or after the effective date of the Civil Service Retirement Act Amendments of 1956”.
 
@@ -272,11 +280,13 @@ The Act of May 29, 1930, as amended from and after February 28, 1948, referred t
 
 #### Amendments
 
-<b>1992</b>—Subsecs. (b)(1), (d). Pub. L. 102–378 substituted “(p),” for “(<i>o),”.</i>
+1996—Subsec. (e)(4). Pub. L. 104–208 added par. (4).
 
-<b>1990</b>—Subsecs. (b)(1), (d). Pub. L. 101–428 substituted “(n), (<i>o</i>), and (q)” for “(n), and (<i>o)”.</i>
+1992—Subsecs. (b)(1), (d). Pub. L. 102–378 substituted “(p),” for “(<i>o</i>),”.
 
-<b>1986</b>—Subsecs. (b)(1), (d). Pub. L. 99–272 substituted “, (n) and (<i>o</i>)” for “and (n)” in subsec. (b)(1), and “(n), and (<i>o</i>)” for “and (n)” in subsec. (d).
+1990—Subsecs. (b)(1), (d). Pub. L. 101–428 substituted “(n), (<i>o</i>), and (q)” for “(n), and (<i>o</i>)”.
+
+1986—Subsecs. (b)(1), (d). Pub. L. 99–272 substituted “, (n) and (<i>o</i>)” for “and (n)” in subsec. (b)(1), and “(n), and (<i>o</i>)” for “and (n)” in subsec. (d).
 
 Subsec. (e). Pub. L. 99–251, §205, added par. (1), redesignated existing pars. (1) and (2) as (2) and (3), respectively, and in par. (2) as redesignated substituted “that surviving child” for “each surviving child” in two places.
 
@@ -284,11 +294,11 @@ Subsec. (h)(1). Pub. L. 99–251, §206, substituted “annuitant, or former Mem
 
 Subsec. (h)(4)(A). Pub. L. 99–251, §207, inserted “or death” after “retirement”.
 
-<b>1984</b>—Subsec. (a)(1)(A), (2)(A). Pub. L. 98–615, §2(4)(A), substituted “9 months” for “1 year”.
+1984—Subsec. (a)(1)(A), (2)(A). Pub. L. 98–615, §2(4)(A), substituted “9 months” for “1 year”.
 
 Subsec. (b)(1). Pub. L. 98–615, §2(4)(B)(i), substituted “by a widow or widower, the widow or widower is entitled to an annuity equal to 55 percent (or 50 percent if retired before October 11, 1962)” for “by a spouse to whom he was married at the time of retirement, or by a widow or widower whom he married after retirement, the spouse, widow, or widower is entitled to an annuity equal to 55 percent, or 50 percent if retired before October 11, 1962” and “section 8339(j)(1) of this title, unless the right to a survivor annuity was waived under such section 8339(j)(1) or, in the case of remarriage, the employee or Member did not file an election under section 8339(j)(5)(C) or section 8339(k)(2) of this title, as the case may be” for “section 8339(j) of this title, unless the employee or Member has notified the Office in writing at the time of retirement that he does not desire any spouse surviving him to receive his annuity, or in the case of remarriage, he did not file an election under the third sentence of section 8339(j) of this title”.
 
-Pub. L. 98–353 substituted “and (n)” for “and (<i>o)”.</i>
+Pub. L. 98–353 substituted “and (n)” for “and (<i>o</i>)”.
 
 Subsec. (b)(3). Pub. L. 98–615, §2(4)(B)(ii), substituted “widow or widower” for “spouse, widow, or widower” wherever appearing in provisions preceding subpar. (A).
 
@@ -298,7 +308,7 @@ Subsec. (b)(4). Pub. L. 98–615, §2(4)(B)(iv), added par. (4).
 
 Subsec. (d). Pub. L. 98–615, §2(4)(C)(i), inserted provision that the annuity payable under this subsection to the widow or widower of an employee or Member may not exceed the difference between the amount which would otherwise be payable to such widow or widower under this subsection and the amount of the survivor annuity payable to any former spouse of such employee or Member under subsec. (h).
 
-Pub. L. 98–353 substituted “and (n)” for “and (<i>o)”.</i>
+Pub. L. 98–353 substituted “and (n)” for “and (<i>o</i>)”.
 
 Subsec. (d)(i). Pub. L. 98–615, §2(4)(C)(ii), redesignated subpar. (A) as cl. (i).
 
@@ -314,13 +324,13 @@ Subsec. (g). Pub. L. 98–615, §2(4)(F), substituted “55 years of age” for 
 
 Subsecs. (h), (i). Pub. L. 98–615, §2(4)(G), added subsecs. (h) and (i).
 
-<b>1980</b>—Subsec. (a)(2)(B). Pub. L. 96–179, §1(1), struck out “and” after “marriage;”.
+1980—Subsec. (a)(2)(B). Pub. L. 96–179, §1(1), struck out “and” after “marriage;”.
 
 Subsec. (a)(3). Pub. L. 96–179, §1(2), added par. (3). Former par. (3) redesignated (4).
 
 Subsec. (a)(4). Pub. L. 96–179, §1(3), redesignated former par. (3) as (4), substituted “unmarried dependent child” for “unmarried child” wherever appearing in subpars. (A), (B), and (C), substituted “but only if the stepchild” for “or recognized natural child who” in subpar. (A)(ii), and inserted “a recognized natural child, and (iv)” after “(iii)”.
 
-<b>1978</b>—Subsec. (a)(3). Pub. L. 95–454, §906(a)(2), substituted “Office of Personnel Management” for “Civil Service Commission”.
+1978—Subsec. (a)(3). Pub. L. 95–454, §906(a)(2), substituted “Office of Personnel Management” for “Civil Service Commission”.
 
 Subsec. (b)(1). Pub. L. 95–598, §338(c)(1), inserted reference to subsec. (<i>o</i>) of section 8339 of this title.
 
@@ -334,11 +344,11 @@ Subsec. (f)(2). Pub. L. 95–454, §906(a)(3), substituted “Office” for “C
 
 Subsec. (g). Pub. L. 95–318 struck out “after July 18, 1966,” after “terminated”.
 
-<b>1975</b>—Subsec. (c). Pub. L. 94–183 substituted “8339(k)(1)” for “8339(k)”.
+1975—Subsec. (c). Pub. L. 94–183 substituted “8339(k)(1)” for “8339(k)”.
 
-<b>1974</b>—Subsec. (a)(1)(A), (2)(A). Pub. L. 93–260 substituted “1 year” for “2 years”.
+1974—Subsec. (a)(1)(A), (2)(A). Pub. L. 93–260 substituted “1 year” for “2 years”.
 
-<b>1972</b>—Subsec. (a)(3)(A). Pub. L. 92–243 added cl. (iii).
+1972—Subsec. (a)(3)(A). Pub. L. 92–243 added cl. (iii).
 
 Subsec. (c). Pub. L. 92–297, §7(4)(i), substituted “section 8339(a)–(i)”, “section 8339(j)”, and “section 8339(k)” for “section 8339(a)–(h)”, “section 8339(i)”, and “section 8339(j)”, respectively.
 
@@ -346,7 +356,7 @@ Pub. L. 92–297, §7(4)(ii), substituted “section 8339(k)” for “section 8
 
 Subsec. (d). Pub. L. 92–297, §7(4)(iii), substituted “section 8339(a)–(f) and (i)” for “section 8339(a)–(e) and (h)”.
 
-<b>1971</b>—Subsec. (a)(3), (4). Pub. L. 91–658, §3(a), struck out par. (3) which defined “dependent widower”, and redesignated par. (4) as (3).
+1971—Subsec. (a)(3), (4). Pub. L. 91–658, §3(a), struck out par. (3) which defined “dependent widower”, and redesignated par. (4) as (3).
 
 Subsec. (b). Pub. L. 91–658, §3(b), designated existing first sentence as par. (1), and inserted exception phrase, provision for survival by widow or widower whom employee or Member marries after retirement, entitlement of widow or widower to 55 percent annuity (limited to 50 percent where retirement before Oct. 11, 1962), and substituted “any spouse surviving him” for “his spouse”; added par. (2); and added par. (3), first sentence, respecting entitlement to survivor annuity by a spouse acquired after retirement upon election from available survivor benefits, and designated as second and third sentences former second and third sentences, providing for widows and widowers and substituting “annuitant” for “retired employee or member”.
 
@@ -354,9 +364,13 @@ Subsec. (d). Pub. L. 91–658, §3(c), substituted “his widow or widower” fo
 
 Subsec. (e)(2). Pub. L. 91–658, §3(d), substituted reference to “subsection (a)(3)” for “subsection (a)(4)”.
 
-<b>1969</b>—Subsec. (d). Pub. L. 91–93, §206(a), provided for entitlement to a survivor annuity after an 18 month rather than a 5 year period of civilian service and prescribed as the annuity the smaller of two computations when computing the annuity under section 8399 (a) to (e) and (h) of this title.
+1969—Subsec. (d). Pub. L. 91–93, §206(a), provided for entitlement to a survivor annuity after an 18 month rather than a 5 year period of civilian service and prescribed as the annuity the smaller of two computations when computing the annuity under section 8399 (a) to (e) and (h) of this title.
 
 Subsec. (e)(1). Pub. L. 91–93, §206(b), increased annuity of a surviving child, substituting “eighteen months” for “five years” of civilian service in par. (1), “60 percent”, “$900”, and “$2,700” for “40 percent”, “$600”, and “$1,800” in cls. (A), (B), and (C), respectively, and “75 percent”, “$1,080”, and “$3,240”, for “50 percent”, “$720”, and “$2,160” in cls. (i), (ii), and (iii), respectively.
+
+#### Effective Date of 1996 Amendment
+
+Section 101(f) \[title VI, §633(b)\] of Pub. L. 104–208 provided that: “The amendments made by subsection (a) \[amending this section and sections 8443 and 8908 of this title\] shall apply with respect to any termination of marriage taking effect before, on, or after the date of enactment of this Act \[Sept. 30, 1996\], except that benefits shall be payable only with respect to amounts accruing for periods beginning on the first day of the month beginning after the later of such termination of marriage or such date of enactment.”
 
 #### Effective Date of 1986 Amendment
 
@@ -376,7 +390,7 @@ Section 4 of Pub. L. 98–615, as amended by Pub. L. 99–251, title II, §201(a
 
 “(2) Except as provided in subsection (f), the amendments made by section 3 of this Act \[amending sections 8901 to 8903, 8905, 8907, 8909, and 8913 of this title\] shall take effect May 7, 1985, and shall apply to any individual who, on or after such date, is married to an employee or annuitant.
 
-“(3) The amendments made by subparagraphs (B)(iii) and (C)(ii) of section 2(4) of this Act \[amending section 8341 of this title\] (relating to the termination of survivor benefits for a widow or widower who remarriesbefore age 55) and the amendments made by subparagraph (F) of such section 2(4) \[amending section 8341 of this title\] (relating to the restoration of a survivor annuity upon the dissolution of such a remarriage) shall apply—
+“(3) The amendments made by subparagraphs (B)(iii) and (C)(ii) of section 2(4) of this Act \[amending section 8341 of this title\] (relating to the termination of survivor benefits for a widow or widower who remarries before age 55) and the amendments made by subparagraph (F) of such section 2(4) \[amending section 8341 of this title\] (relating to the restoration of a survivor annuity upon the dissolution of such a remarriage) shall apply—
 
 &emsp;“(A) in the case of a remarriage occurring on or after the date of the enactment of this Act \[Nov. 8, 1984\]; and
 
@@ -392,7 +406,7 @@ Section 4 of Pub. L. 98–615, as amended by Pub. L. 99–251, title II, §201(a
 
 “(C) Any election by an employee or Member described in subparagraph (B) to provide a survivor annuity for that individual's spouse by a marriage described in such subparagraph shall be effective if made in accordance with the applicable provisions of section 8339(j)(1) or 8339(k)(2) of title 5, United States Code, as the case may be, as in effect on May 6, 1985.
 
-“(5)(A) Paragraphs (3), (4), and (5)(B) of section 8339(j) of title 5, United States Code (as added by section 2(3)(A) of this Act), shall apply in the case of a former spouse of an employee or Member whose marriage to such employee or Member terminated before May 7, 1985, if such employee or Member retires on or after such date. The paragraphs referred to in the preceding sentence shall so apply only insofar as they relate to an election to provide a survivor annuity for a former spouse.
+“(5)(A) Paragraphs (3), (4), and (5)(B) of section 8339(j) of title 5, United States Code (as added by section2(3)(A) of this Act), shall apply in the case of a former spouse of an employee or Member whose marriage to such employee or Member terminated before May 7, 1985, if such employee or Member retires on or after such date. The paragraphs referred to in the preceding sentence shall so apply only insofar as they relate to an election to provide a survivor annuity for a former spouse.
 
 “(B)(i) The requirement described in clause (ii) shall not apply to an election made by an employee or Member under section 8339(j)(3) of title 5, United States Code (as amended by section 2(3)(A) of this Act), in order to provide a survivor annuity under section 8341(h) of such title (as amended by section 2(4)(G) of this Act) in the case of a former spouse referred to in subparagraph (A) if the election meets the requirements of clause (iii).
 
@@ -444,7 +458,7 @@ Section 4 of Pub. L. 98–615, as amended by Pub. L. 99–251, title II, §201(a
 
 > and shall not be subject to reduction under section 8341(h)(2) of such title, as amended by this Act.
 
-“(c) Notwithstanding subsection (a)(1) of this section, an employee or Member who retired before the one hundred and eightieth day after the date of enactment of this Act \[Nov. 8, 1984\] and who is married to a spouse acquired after retirement for whom such employee or Member was unable to provide a survivor annuity because—
+“(c) Notwithstanding subsection (a)(1) of this section, an employee or Member who retired before the one hundred and eightieth day after the date of enactment of this Act \[Nov. 8, 1984\] and who is married to a spouse acquired after retirement for whom such employee orMember was unable to provide a survivor annuity because—
 
 &emsp;“(1) the employee or Member was married at the time of retirement and elected not to provide a survivor annuity for the employee or Member's spouse at the time of retirement, or
 
@@ -590,5 +604,5 @@ Section 205 of Pub. L. 91–93 provided that: “The provisions of subsection (b
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 8331, 8333, 8339, 8340, 8342, 8343a, 8344, 8348, 8901, 8905 of this title; title 10 sections 1450, 1452; title 22 section 4069–1; title 38 sections 7426, 7438; title 50 section 403s.
+This section is referred to in sections 8331, 8333, 8339, 8340, 8342, 8343a, 8344, 8348, 8901, 8905, 8908 of this title; title 10 sections 1450, 1452; title 22 section 4069–1; title 38 sections 7426, 7438; title 50 section 403s.
 

@@ -2,7 +2,7 @@
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in section 1627 of this title.
+This subchapter is referred to in sections 1627, 6023, 6082, 6083 of this title.
 
 
 ---
@@ -21,3 +21,5 @@ This subchapter is referred to in section 1627 of this title.
 - [&sect; 01643i - Time limitation on completion of affairs of Commission](%C2%A7%2001643i%20-%20Time%20limitation%20on%20completion%20of%20affairs%20of%20Commission.md)
 - [&sect; 01643j - Authorization of appropriations](%C2%A7%2001643j%20-%20Authorization%20of%20appropriations.md)
 - [&sect; 01643k - Fees for services; limitation; penalty](%C2%A7%2001643k%20-%20Fees%20for%20services%3B%20limitation%3B%20penalty.md)
+- [&sect; 01643l - Determination of ownership of claims referred by district courts of the United States](%C2%A7%2001643l%20-%20Determination%20of%20ownership%20of%20claims%20referred%20by%20district%20courts%20of%20the%20United%20States.md)
+- [&sect; 01643m - Exclusivity of Foreign Claims Settlement Commission certification procedure](%C2%A7%2001643m%20-%20Exclusivity%20of%20Foreign%20Claims%20Settlement%20Commission%20certification%20procedure.md)

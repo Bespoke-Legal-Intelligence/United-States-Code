@@ -140,7 +140,7 @@ Sec. 4. (a) Pursuant to an application by a small business concern, the head of 
 
 “
 
-Sec. 5. The head of each executive agency shall delegate authority conferred by this Act, to the extentpracticable, to an appropriate level that will permit the expeditious processing of applications under this Act and to insure the uniformity of its application.
+Sec. 5. The head of each executive agency shall delegate authority conferred by this Act, to the extent practicable, to an appropriate level that will permit the expeditious processing of applications under this Act and to insure the uniformity of its application.
 
 #### “limitations
 

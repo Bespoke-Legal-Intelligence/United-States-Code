@@ -28,7 +28,7 @@
 
 &emsp;&emsp;(B) either—
 
-&emsp;&emsp;&emsp;(i) on 1 or more days in such taxable year before the day on which the election was made the corporation did not meet the requirements of subsection (b) of section 1361, or
+&emsp;&emsp;&emsp;(i) on 1 or more days in such taxable year before the day on which the election wasmade the corporation did not meet the requirements of subsection (b) of section 1361, or
 
 &emsp;&emsp;&emsp;(ii) 1 or more of the persons who held stock in the corporation during such taxable year and before the election was made did not consent to the election,
 
@@ -47,6 +47,16 @@
 #### (4) Taxable years of 21/2 months or less
 
 &emsp;For purposes of this subsection, an election for a taxable year made not later than 2 months and 15 days after the first day of the taxable year shall be treated as timely made during such year.
+
+#### (5) Authority to treat late elections, etc., as timely
+
+&emsp;If—
+
+&emsp;&emsp;(A) an election under subsection (a) is made for any taxable year (determined without regard to paragraph (3)) after the date prescribed by this subsection for making such election for such taxable year or no such election is made for any taxable year, and
+
+&emsp;&emsp;(B) the Secretary determines that there was reasonable cause for the failure to timely make such election,
+
+> &emsp;the Secretary may treat such an election as timely made for such taxable year (and paragraph (3) shall not apply).
 
 #### (c) Years for which effective
 
@@ -86,7 +96,7 @@ An election under subsection (a) shall be effective for the taxable year of the 
 
 &emsp;&emsp;Any termination under this paragraph shall be effective on and after the date of cessation.
 
-#### (3) Where passive investment income exceeds 25 percent of gross receipts for 3 consecutive taxable years and corporation has subchapter C earnings and profits
+#### (3) Where passive investment income exceeds 25 percent of gross receipts for 3 consecutive taxable years and corporation has accumulated earnings and profits
 
 #### (A) Termination
 
@@ -94,7 +104,7 @@ An election under subsection (a) shall be effective for the taxable year of the 
 
 &emsp;&emsp;&emsp;An election under subsection (a) shall be terminated whenever the corporation—
 
-&emsp;&emsp;&emsp;&emsp;(I) has subchapter C earnings and profits at the close of each of 3 consecutive taxable years, and
+&emsp;&emsp;&emsp;&emsp;(I) has accumulated earnings and profits at the close of each of 3 consecutive taxable years, and
 
 &emsp;&emsp;&emsp;&emsp;(II) has gross receipts for each of such taxable years more than 25 percent of which are passive investment income.
 
@@ -110,21 +120,17 @@ An election under subsection (a) shall be effective for the taxable year of the 
 
 &emsp;&emsp;&emsp;&emsp;(II) the corporation was an S corporation for such taxable year.
 
-#### (B) Subchapter C earnings and profits
-
-&emsp;&emsp;For purposes of subparagraph (A), the term “subchapter C earnings and profits” means earnings and profits of any corporation for any taxable year with respect to which an election under section 1362(a) (or under section 1372 of prior law) was not in effect.
-
-#### (C) Gross receipts from sales of capital assets (other than stock and securities)
+#### (B) Gross receipts from sales of capital assets (other than stock and securities)
 
 &emsp;&emsp;For purposes of this paragraph, in the case of dispositions of capital assets (other than stock and securities), gross receipts from such dispositions shall be taken into account only to the extent of the capital gain net income therefrom.
 
-#### (D) Passive investment income defined
+#### (C) Passive investment income defined
 
 &emsp;&emsp;For purposes of this paragraph—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Except as otherwise provided in this subparagraph, the term “passive investment income” means gross receipts derived from royalties, rents, dividends, interest, annuities, and sales or exchanges of stock or securities (gross receipts from such sales or exchanges being taken into account for purposes of this paragraph only to the extent of gains therefrom).
+&emsp;&emsp;&emsp;Except as otherwise provided in this subparagraph, the term “passive investmentincome” means gross receipts derived from royalties, rents, dividends, interest, annuities, and sales or exchanges of stock or securities (gross receipts from such sales or exchanges being taken into account for purposes of this paragraph only to the extent of gains therefrom).
 
 #### (ii) Exception for interest on notes from sales of inventory
 
@@ -138,7 +144,7 @@ An election under subsection (a) shall be effective for the taxable year of the 
 
 &emsp;&emsp;&emsp;Gross receipts derived from sales or exchanges of stock or securities shall not include amounts received by an S corporation which are treated under section 331 (relating to corporate liquidations) as payments in exchange for stock where the S corporation owned more than 50 percent of each class of stock of the liquidating corporation.
 
-#### (E) Special rule for options and commodity dealings
+#### (D) Special rule for options and commodity dealings
 
 #### (i) In general
 
@@ -160,6 +166,10 @@ An election under subsection (a) shall be effective for the taxable year of the 
 
 &emsp;&emsp;&emsp;&emsp;The term “section 1256 contract” has the meaning given to such term by section 1256(b).
 
+#### (E) Treatment of certain dividends
+
+&emsp;&emsp;If an S corporation holds stock in a C corporation meeting the requirements of section 1504(a)(2), the term “passive investment income” shall not include dividends from such C corporation to the extent such dividends are attributable to the earnings and profits of such C corporation derived from the active conduct of a trade or business.
+
 #### (e) Treatment of S termination year
 
 #### (1) In general
@@ -176,7 +186,7 @@ An election under subsection (a) shall be effective for the taxable year of the 
 
 #### (2) Pro rata allocation
 
-&emsp;Except as provided in paragraph (3) and subparagraphs (C) and (D) of paragraph (6), the determination of which items are to be takeninto account for each of the short taxable years referred to in paragraph (1) shall be made—
+&emsp;Except as provided in paragraph (3) and subparagraphs (C) and (D) of paragraph (6), the determination of which items are to be taken into account for each of the short taxable years referred to in paragraph (1) shall be made—
 
 &emsp;&emsp;(A) first by determining for the S termination year—
 
@@ -204,7 +214,7 @@ An election under subsection (a) shall be effective for the taxable year of the 
 
 #### (A) In general
 
-&emsp;&emsp;The taxable income for the short year described in subparagraph (B) of paragraph (1) shall be placed on an annual basis by multiplying the taxable income for such short year by the number of days in the S termination year and by dividing the result by the number of days in the short year. The tax shall be the same part of the tax computed on the annual basis as the number of days in such short year is of the number of days in the S termination year.
+&emsp;&emsp;The taxable income for the short year described in subparagraph (B) of paragraph (1)shall be placed on an annual basis by multiplying the taxable income for such short year by the number of days in the S termination year and by dividing the result by the number of days in the short year. The tax shall be the same part of the tax computed on the annual basis as the number of days in such short year is of the number of days in the S termination year.
 
 #### (B) Section 443(d)(2) to apply
 
@@ -230,31 +240,67 @@ An election under subsection (a) shall be effective for the taxable year of the 
 
 &emsp;&emsp;Paragraph (2) shall not apply to an S termination year if there is a sale or exchange of 50 percent or more of the stock in such corporation during such year.
 
-#### (f) Inadvertent terminations
+#### (f) Inadvertent invalid elections or terminations
 
 If—
 
-&emsp;(1) an election under subsection (a) by any corporation was terminated under paragraph (2) or (3) of subsection (d),
+&emsp;(1) an election under subsection (a) by any corporation—
 
-&emsp;(2) the Secretary determines that the termination was inadvertent,
+&emsp;&emsp;(A) was not effective for the taxable year for which made (determined without regard to subsection (b)(2)) by reason of a failure to meet the requirements of section 1361(b) or to obtain shareholder consents, or
 
-&emsp;(3) no later than a reasonable period of time after discovery of the event resulting in such termination, steps were taken so that the corporation is once more a small business corporation, and
+&emsp;&emsp;(B) was terminated under paragraph (2) or (3) of subsection (d),
 
-&emsp;(4) the corporation, and each person who was a shareholder of the corporation at any time during the period specified pursuant to this subsection, agrees to make such adjustments (consistent with the treatment of the corporation as an S corporation) as may be required by the Secretary with respect to such period,
+&emsp;(2) the Secretary determines that the circumstances resulting in such ineffectiveness or termination were inadvertent,
 
-> then, notwithstanding the terminating event, such corporation shall be treated as continuing to be an S corporation during the period specified by the Secretary.
+&emsp;(3) no later than a reasonable period of time after discovery of the circumstances resulting in such ineffectiveness or termination, steps were taken—
+
+&emsp;&emsp;(A) so that the corporation is a small business corporation, or
+
+&emsp;&emsp;(B) to acquire the required shareholder consents, and
+
+&emsp;(4) the corporation, and each person who was a shareholder in the corporation at any time during the period specified pursuant to this subsection, agrees to make such adjustments (consistent with the treatment of the corporation as an S corporation) as may be required by the Secretary with respect to such period,
+
+> then, notwithstanding the circumstances resulting in such ineffectiveness or termination, such corporation shall be treated as an S corporation during the period specified by the Secretary.
 
 #### (g) Election after termination
 
 If a small business corporation has made an election under subsection (a) and if such election has been terminated under subsection (d), such corporation (and any successor corporation) shall not be eligible to make an election under subsection (a) for any taxable year before its 5th taxable year which begins after the 1st taxable year for which such termination is effective, unless the Secretary consents to such election.
 
-(Added Pub. L. 97–354, §2, Oct. 19, 1982, 96 Stat. 1672; amended Pub. L. 98–369, div. A, title I, §102(d)(2), title VII, §721(g), (h), (<i>l</i>), (t), July 18, 1984, 98 Stat. 623, 968, 969, 971; Pub. L. 100–647, title I, §§1006(f)(6), 1007(g)(9), Nov. 10, 1988, 102 Stat. 3406, 3435.)
-
-#### References in Text
-
-Section 1372 of prior law, referred to in subsec. (d)(3)(B), is Pub. L. 85–866, title I, §64(a), Sept. 2, 1958, 72 Stat. 1650, as amended, which was classified to section 1372 of this title prior to the complete revision of this subchapter by section 2 of Pub. L. 97–354. See Prior Provisions note set out under section 1372 of this title.
+(Added Pub. L. 97–354, §2, Oct. 19, 1982, 96 Stat. 1672; amended Pub. L. 98–369, div. A, title I, §102(d)(2), title VII, §721(g), (h), (<i>l</i>), (t), July 18, 1984, 98 Stat. 623, 968, 969, 971; Pub. L. 100–647, title I, §§1006(f)(6), 1007(g)(9), Nov. 10, 1988, 102 Stat. 3406, 3435; Pub. L. 104–188, title I, §§1305(a), (b), 1308(c), 1311(b)(1), Aug. 20, 1996, 110 Stat. 1779, 1780, 1783, 1784.)
 
 #### Amendments
+
+1996—Subsec. (b)(5). Pub. L. 104–188, §1305(b), added par. (5).
+
+Subsec. (d)(3). Pub. L. 104–188, §1311(b)(1)(A), in heading substituted “accumulated” for “subchapter C”.
+
+Subsec. (d)(3)(A)(i)(I). Pub. L. 104–188, §1311(b)(1)(B), substituted “accumulated” for “subchapter C”.
+
+Subsec. (d)(3)(B) to (E). Pub. L. 104–188, §1311(b)(1)(C), redesignated subpars. (C) to (F) as (B) to (E), respectively, and struck out former subpar. (B) which read as follows:
+
+“(B)
+
+Subchapter c earnings and profits.—For purposes of subparagraph (A), the term ‘subchapter C earnings and profits’ means earnings and profits of any corporation for any taxable year with respect to which an election under section 1362(a) (or under section 1372 of prior law) was not in effect.”
+
+Subsec. (d)(3)(F). Pub. L. 104–188, §1311(b)(1)(C), redesignated subpar. (F) as (E).
+
+Pub. L. 104–188, §1308(c), added subpar. (F).
+
+Subsec. (f). Pub. L. 104–188, §1305(a), amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows:
+
+“(f)
+
+Inadvertent Terminations.—If—
+
+&emsp;“(1) an election under subsection (a) by any corporation was terminated under paragraph (2) or (3) of subsection (d),
+
+&emsp;“(2) the Secretary determines that the termination was inadvertent,
+
+&emsp;“(3) no later than a reasonable period of time after discovery of the event resulting in such termination, steps were taken so that the corporation is once more a small business corporation, and
+
+&emsp;“(4) the corporation, and each person who was a shareholder of the corporation at any time during the period specified pursuant to this subsection, agrees to make such adjustments (consistent with the treatment of the corporation as an S corporation) as may be required by the Secretary with respect to such period,
+
+> then, notwithstanding the terminating event, such corporation shall be treated as continuing to be an S corporation during the period specified by the Secretary.”
 
 1988—Subsec. (d)(3)(D)(v). Pub. L. 100–647, §1006(f)(6)(A), struck out cl. (v) which related to special rule for options and commodities dealers.
 
@@ -276,6 +322,12 @@ Subsec. (e)(6)(C). Pub. L. 98–369, §721(g)(1), added subpar. (C).
 
 Subsec. (e)(6)(D). Pub. L. 98–369, §721(t), added subpar. (D).
 
+#### Effective Date of 1996 Amendment
+
+Section 1305(c) of Pub. L. 104–188 provided that: “The amendments made by subsections (a) and (b) \[amending this section\] shall apply with respect to elections for taxable years beginning after December 31, 1982.”
+
+Amendment by sections 1308(c) and 1311(b)(1) of Pub. L. 104–188 applicable to taxable years beginning after Dec. 31, 1996, see section 1317(a) of Pub. L. 104–188, set out as a note under section 641 of this title.
+
 #### Effective Date of 1988 Amendment
 
 Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
@@ -289,6 +341,10 @@ Amendment by section 721(g), (h), (<i>l</i>), (t) of Pub. L. 98–369 effective 
 #### Effective Date
 
 Section applicable to taxable years beginning after Dec. 31, 1982, except that in the case of a taxable year beginning during 1982, subsec. (d)(3) of this section and sections 1366(f)(3) and 1375 of this title shall apply, and section 1372(e)(5) of this title as in effect on the day before Oct. 19, 1982, shall not apply, see section 6(a), (b)(3) of Pub. L. 97–354, set out as a note under section 1361 of this title. For additional provisions relating to the treatment of certain elections under prior law for purposes of subsec. (g) of this section, see section 6(e) of Pub. L. 97–354, set out as a note under section 1361 of this title.
+
+#### Treatment of Certain Elections Under Prior Law
+
+Section 1317(b) of Pub. L. 104–188 provided that: “For purposes of section 1362(g) of the Internal Revenue Code of 1986 (relating to election after termination), any termination under section 1362(d) of such Code in a taxable year beginning before January 1, 1997, shall not be taken into account.”
 
 #### Subchapter S Election
 

@@ -18,5 +18,5 @@ Section 1661(a)(5)(B) of Pub. L. 103–337 provided that: “Section 10148(b) \[
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1201, 1202, 1203 of this title.
+This section is referred to in section 1201 of this title.
 

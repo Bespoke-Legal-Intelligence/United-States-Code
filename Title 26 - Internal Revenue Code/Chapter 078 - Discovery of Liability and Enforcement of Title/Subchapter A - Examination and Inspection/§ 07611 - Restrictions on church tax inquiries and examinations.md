@@ -78,7 +78,7 @@
 
 #### (C) Opinion of regional counsel with respect to examination
 
-&emsp;&emsp;Any regional counsel of the Internal Revenue Service who receives an examination notice under paragraph (1) may, within 15 days after such notice is provided, submit to the regional commissioner for the region an advisory objection to the examination.
+&emsp;&emsp;Any regional counsel of the Internal Revenue Service who receives an examination notice under paragraph (1) may, within 15 daysafter such notice is provided, submit to the regional commissioner for the region an advisory objection to the examination.
 
 #### (4) Examination of records and activities not specified in notice
 
@@ -240,7 +240,7 @@ For purposes of this section—
 
 #### (7) Appropriate high-level Treasury official
 
-&emsp;The term “approporiate <sup>1</sup> high-level Treasury official” means the Secretary of the Treasury or any delegate of the Secretary whose rank is no lower than that of a principal Internal Revenue officer for an internal revenue region.
+&emsp;The term “appropriate high-level Treasury official” means the Secretary of the Treasury or any delegate of the Secretary whose rank is no lower than that of a principal Internal Revenue officer for an internal revenue region.
 
 #### (i) Section not to apply to criminal investigations, etc.
 
@@ -256,13 +256,15 @@ This section shall not apply to—
 
 &emsp;(5) any knowing failure to file a return of tax imposed by this title.
 
-(Added Pub. L. 98–369, div. A, title X, §1033(a), July 18, 1984, 98 Stat. 1034; amended Pub. L. 99–514, title XVIII, §1899A(61), (62), Oct. 22, 1986, 100 Stat. 2962; Pub. L. 100–203, title X, §10713(b)(2)(G), Dec. 22, 1987, 101 Stat. 1330–470; Pub. L. 100–647, title I, §1018(u)(49), Nov. 10, 1988, 102 Stat. 3593; Pub. L. 101–239, title VII, §7822(d)(1), Dec. 19, 1989, 103 Stat. 2425.)
+(Added Pub. L. 98–369, div. A, title X, §1033(a), July 18, 1984, 98 Stat. 1034; amended Pub. L. 99–514, title XVIII, §1899A(61), (62), Oct. 22, 1986, 100 Stat. 2962; Pub. L. 100–203, title X, §10713(b)(2)(G), Dec. 22, 1987, 101 Stat. 1330–470; Pub. L. 100–647, title I, §1018(u)(49), Nov. 10, 1988,102 Stat. 3593; Pub. L. 101–239, title VII, §7822(d)(1), Dec. 19, 1989, 103 Stat. 2425; Pub. L. 104–188, title I, §1704(t)(59), Aug. 20, 1996, 110 Stat. 1890.)
 
 #### Prior Provisions
 
 A prior section 7611 was renumbered section 7612 of this title.
 
 #### Amendments
+
+1996—Subsec. (h)(7). Pub. L. 104–188 substituted “appropriate” for “approporiate” in text.
 
 1989—Subsec. (i)(3). Pub. L. 101–239 made technical correction to directory language of Pub. L. 100–203, see 1987 Amendment note below.
 
@@ -293,6 +295,4 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 #### Section Referred to in Other Sections
 
 This section is referred to in section 7605 of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should be “appropriate”.</i>
 

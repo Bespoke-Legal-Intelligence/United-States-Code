@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary may not make payments under section 290cc–21 of this title unless the State involved agrees that, by not later than January 31 of each fiscal year, the State will prepare and submit to the Secretary a report in such form and containing such information as the Secretary determines (after consultation with the Comptroller General of the United States, and the Administrator of the Substance Abuse and Mental Health Services Administration) to be necessary for—
+The Secretary may not make payments under section 290cc–21 of this title unless the State involved agrees that, by not later than January 31 of each fiscal year, the State will prepare and submit to the Secretary a report in such form and containing such information as the Secretary determines (after consultation with the Administrator of the Substance Abuse and Mental Health Services Administration) to be necessary for—
 
 &emsp;(1) securing a record and a description of the purposes for which amounts received under section 290cc–21 of this title were expended during the preceding fiscal year and of the recipients of such amounts; and
 
@@ -12,13 +12,17 @@ The Secretary may not make payments under section 290cc–21 of this title unles
 
 The Secretary may not make payments under section 290cc–21 of this title unless the State involved agrees to make copies of the reports described in subsection (a) of this section available for public inspection.
 
-#### (c) Evaluations by Comptroller General
+#### (c) Evaluations
 
-The Comptroller General of the United States in cooperation with the Administrator of the Substance Abuse and Mental Health Services Administration, shall evaluate at least once every 3 years the expenditures of grants under this part by eligible entities in order to ensure that expenditures are consistent with the provisions of this part, and shall include in such evaluation recommendations regarding changes needed in program design or operations.
+The Administrator of the Substance Abuse and Mental Health Services Administration shall evaluate at least once every 3 years the expenditures of grants under this part by eligible entities in order to ensure that expenditures are consistent with the provisions of this part, and shall include in such evaluation recommendations regarding changes needed in program design or operations.
 
-(July 1, 1944, ch. 373, title V, §528, as added July 22, 1987, Pub. L. 100–77, title VI, §611(3), 101 Stat.520; amended Nov. 4, 1988, Pub. L. 100–607, title VIII, §812(b), 102 Stat. 3170; Nov. 7, 1988, Pub. L. 100–628, title VI, §612(b), 102 Stat. 3243; Nov. 18, 1988, Pub. L. 100–690, title II, §2614(a), 102 Stat. 4239; Aug. 16, 1989, Pub. L. 101–93, §5(t)(1), 103 Stat. 615; Nov. 29, 1990, Pub. L. 101–645, title V, §511, 104 Stat. 4730; July 10, 1992, Pub. L. 102–321, title I, §163(a)(1), formerly §163(a)(2), 106 Stat. 375, renumbered §163(a)(1), Aug. 26, 1992, Pub. L. 102–352, §2(b)(2), 106 Stat. 939.)
+(July 1, 1944, ch. 373, title V, §528, as added July 22, 1987, Pub. L. 100–77, title VI, §611(3), 101 Stat. 520; amended Nov. 4, 1988, Pub. L. 100–607, title VIII, §812(b), 102 Stat. 3170; Nov. 7, 1988, Pub. L. 100–628, title VI, §612(b), 102 Stat. 3243; Nov. 18, 1988, Pub. L. 100–690, title II, §2614(a), 102 Stat. 4239; Aug. 16, 1989, Pub. L. 101–93, §5(t)(1), 103 Stat. 615; Nov. 29, 1990, Pub. L. 101–645, title V, §511, 104 Stat. 4730; July 10, 1992, Pub. L. 102–321, title I, §163(a)(1), formerly §163(a)(2), 106 Stat. 375, renumbered §163(a)(1), Aug. 26, 1992, Pub. L. 102–352, §2(b)(2), 106 Stat. 939; Oct. 19, 1996, Pub. L. 104–316, title I, §122(c), 110 Stat. 3836.)
 
 #### Amendments
+
+1996—Subsec. (a). Pub. L. 104–316, §122(c)(1), struck out “the Comptroller General of the United States, and” after “(after consultation with”.
+
+Subsec. (c). Pub. L. 104–316, §122(c)(2), struck out “Comptroller General of the United States in cooperation with the” before “Administrator” and struck out comma after “Administration”.
 
 1992—Subsec. (a). Pub. L. 102–321, §163(a)(1)(A), as renumbered by Pub. L. 102–352, substituted “and the Administrator of the Substance Abuse and Mental Health Services Administration” for “the National Institute of Mental Health, the National Institute on Alcohol Abuse and Alcoholism, and the National Institute on Drug Abuse”.
 
@@ -40,7 +44,7 @@ Amendment by Pub. L. 102–321 effective Oct. 1, 1992, with provision for progra
 
 Amendment by Pub. L. 100–690 effective immediately after enactment of Pub. L. 100–607, which was approved Nov. 4, 1988, see section 2600 of Pub. L. 100–690, set out as a note under section 242m of this title.
 
-Amendment by Pub. L. 100–628 effective Nov. 7, 1988, see section 631 of Pub. L. 100–628, set out as a note under section 256 of this title.
+Amendment by Pub. L. 100–628 effective Nov. 7, 1988, see section 631 of Pub. L. 100–628, set out as a note under section 254e of this title.
 
-Amendment by Pub. L. 100–607 effective Nov. 4, 1988, see section 831 of Pub. L. 100–607, set out as a note under section 256 of this title.
+Amendment by Pub. L. 100–607 effective Nov. 4, 1988, see section 831 of Pub. L. 100–607, set out as a note under section 254e of this title.
 

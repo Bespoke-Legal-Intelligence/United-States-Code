@@ -2,7 +2,7 @@
 
 #### (a) Accounts and records
 
-States, State educational agencies, and schools participating in the school lunch program under this chapter shall keep such accounts and records as may be necessary to enable the Secretary to determine whether the provisions of this chapter are being complied with. Such accounts and records shall at all times be available for inspection and audit by representatives of the Secretary and shall be preserved for such period of time, not in excess of five years, as the Secretary determines is necessary.
+States, State educational agencies, and schools participating in the school lunch program under this chapter shall keep such accounts and records as may be necessary to enable the Secretary to determine whether the provisions of this chapter are being complied with. Such accounts and records shall be available at any reasonable time for inspection and audit by representatives of the Secretary and shall be preserved for such period of time, not in excess of five years, as the Secretary determines is necessary.
 
 #### (b) Agreements with State educational agencies
 
@@ -10,27 +10,39 @@ The Secretary shall incorporate, in the Secretary's agreements with the State ed
 
 #### (c) Requirements with respect to teaching personnel, curriculum, instruction, etc.
 
-In carrying out the provisions of this chapter, neither the Secretary nor the State shall impose any requirement with respect to teaching personnel, curriculum, instruction, methods of instruction, and materials of instruction in any school.
+In carrying out the provisions of this chapter, the Secretary shall not impose any requirement with respect to teaching personnel, curriculum, instruction, methods of instruction, and materials of instruction in any school.
 
 #### (d) Definitions
 
 For the purposes of this chapter—
 
-&emsp;(1) “State” means any of the fifty States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, or the Trust Territory of the Pacific Islands.
+&emsp;(1)
 
-&emsp;(2) “State educational agency” means, as the State legislature may determine, (A) the chief State school officer (such as the State superintendent of public instruction, commissioner of education, or similar officer), or (B) a board of education controlling the State department of education.
+Child.—
 
-&emsp;(3) “Participation rate” for a State means a number equal to the number of lunches, consisting of a combination of foods and meeting the minimum requirements prescribed by the Secretary pursuant to section 1758 of this title, served in the fiscal year beginning two years immediately prior to the fiscal year for which the Federal funds are appropriated by schools participating in the program under this chapter in the State, as determined by the Secretary.
+&emsp;&emsp;(A)
 
-&emsp;(4) “Assistance need rate” (A) in the case of any State having an average annual per capita income equal to or greater than the average annual per capita income for all the States, shall be 5; and (B) in the case of any State having an average annual per capita income less than the average annual per capita income for all the States, shall be the product of 5 and the quotient obtained by dividing the average annual per capita income for all the States by the average annual per capita income for such State, except that such product may not exceed 9 for any such State. For the purposes of this paragraph (i) the average annual per capita income for any State and for all the States shall be determined by the Secretary on the basis of the average annual per capita income for each State and for all the States for the three most recent years for which such data are available and certified to the Secretary by the Department of Commerce; and (ii) the average annual per capita income for American Samoa shall be disregarded in determining the average annual per capita income for all the States for periods ending before July 1, 1967.
+In general.—The term “child” includes an individual, regardless of age, who—
 
-&emsp;(5) “School” means (A) any public or nonprofit private school of high school grade or under, and (B) any public or licensed nonprofit private residential child care institution (including, but not limited to, orphanages and homes for the mentally retarded, but excluding Job Corps Centers funded by the Department of Labor). For purposes of this paragraph, the term “nonprofit”, when applied to any such private school or institution, means any such school or institution which is exempt from tax under section 501(c)(3) of title 26.
+&emsp;&emsp;&emsp;(i) is determined by a State educational agency, in accordance with regulations prescribed by the Secretary, to have one or more mental or physical disabilities; and
 
-&emsp;(6) “School year” means the annual period from July 1 through June 30.
+&emsp;&emsp;&emsp;(ii) is attending any institution, as defined in section 1766(a) of this title, or any nonresidential public or nonprofit private school of high school grade or under, for the purpose of participating in a school program established for individuals with mental or physical disabilities.
 
-&emsp;(7) “Commodity only schools” means schools that do not participate in the school lunch program under this chapter, but which receive commodities made available by the Secretary for use by such schools in nonprofit lunch programs.
+&emsp;&emsp;(B)
 
-&emsp;(8) “Secretary” means the Secretary of Agriculture.
+Relationship to child and adult care food program.—No institution that is not otherwise eligible to participate in the program under section 1766 of this title shall be considered eligible because of this paragraph.
+
+&emsp;(2) “Commodity only schools” means schools that do not participate in the school lunch program under this chapter, but which receive commodities made available by the Secretary for use by such schools in nonprofit lunch programs.
+
+&emsp;(3) “School” means (A) any public or nonprofit private school of high school grade or under, and (B) any public or licensed nonprofit private residential child care institution (including, but not limited to, orphanages and homes for the mentally retarded, but excluding Job Corps Centers funded by the Department of Labor). For purposes of this paragraph, the term “nonprofit”, when applied to any such private school or institution, means any such school or institution which is exempt from tax under section 501(c)(3) of title 26.
+
+&emsp;(4) “School year” means the annual period from July 1 through June 30.
+
+&emsp;(5) “Secretary” means the Secretary of Agriculture.
+
+&emsp;(6) “State” means any of the fifty States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, or the Commonwealth of the Northern Mariana Islands.
+
+&emsp;(7) “State educational agency” means, as the State legislature may determine, (A) the chief State school officer (such as the State superintendent of public instruction, commissioner of education, or similar officer), or (B) a board of education controlling the State department of education.
 
 #### (e) Value of assistance as income or resources under Federal or State laws
 
@@ -38,7 +50,7 @@ The value of assistance to children under this chapter shall not be considered t
 
 #### (f) Adjustment of national average payment rate for Alaska, Hawaii, territories and possessions, etc.
 
-In providing assistance for school breakfasts and lunches served in Alaska, Hawaii, Guam, American Samoa, Puerto Rico, the Virgin Islands of the United States, the Trust Territory of the Pacific Islands, and the Commonwealth of the Northern Mariana Islands, the Secretary may establish appropriate adjustments for each such State to the national average payment rates prescribed under sections 1753 and 1759a of this title and section 1773 of this title, to reflect the differences between the costs of providing lunches and breakfasts in those States and the costs of providing lunches and breakfasts in all other States.
+In providing assistance for school breakfasts and lunches served in Alaska, Hawaii, Guam, American Samoa, Puerto Rico, the Virgin Islands of the United States, and the Commonwealth of the Northern Mariana Islands, the Secretary may establish appropriate adjustments for each such State to the national average payment rates prescribed under sections 1753 and 1759a of this title and section 1773 of this title, to reflect the differences between the costs of providing lunches and breakfasts in those States and the costs of providing lunches and breakfasts in all other States.
 
 #### (g) Criminal penalties
 
@@ -64,31 +76,19 @@ Facilities, equipment, and personnel provided to a school food authority for a p
 
 #### (k) Expedited rulemaking
 
-(1) Prior to the publication of final regulations that implement changes that are intended to bring the meal pattern requirements of the school lunch and breakfast programs into conformance with the guidelines contained in the most recent “Dietary Guidelines for Americans” that is published under section 5341 of title 7 (referred to in this subsection as the “Guidelines”), the Secretary shall issue proposed regulations permitting the use of food-based menu systems.
-
-(2) Notwithstanding chapter 5 of title 5, not later than 45 days after the publication of the proposed regulations permitting the use of food-based menu systems, the Secretary shall publish notice in the Federal Register of, and hold, a public meeting with—
-
-&emsp;(A) representatives of affected parties, such as Federal, State, and local administrators, school food service administrators, other school food service personnel, parents, and teachers; and
-
-&emsp;(B) organizations representing affected parties, such as public interest antihunger organizations, doctors specializing in pediatric nutrition, health and consumer groups, commodity groups, food manufacturers and vendors, and nutritionists involved with the implementation and operation of programs under this chapter and the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.);
-
-> to discuss and obtain public comments on the proposed rule.
-
-(3) Not later than June 1, 1995, the Secretary shall issue final regulations to conform the nutritional requirements of the school lunch and breakfast programs with the Guidelines. The final regulations shall include—
+(1) Not later than June 1, 1995, the Secretary shall issue final regulations to conform the nutritional requirements of the school lunch and breakfast programs with the guidelines contained in the most recent “Dietary Guidelines for Americans” that is published under section 5341 of title 7. The final regulations shall include—
 
 &emsp;(A) rules permitting the use of food-based menu systems; and
 
 &emsp;(B) adjustments to the rule on nutrition objectives for school meals published in the Federal Register on June 10, 1994 (59 Fed. Reg. 30218).
 
-(4) No school food service authority shall be required to implement final regulations issued pursuant to this subsection until the regulations have been final for at least 1 year.
-
-(5) The final regulations shall reflect comments made at each phase of the proposed rulemaking process, including the public meeting required under paragraph (2).
+(2) No school food service authority shall be required to implement final regulations issued pursuant to this subsection until the regulations have been final for at least 1 year.
 
 #### (<i>l</i>) Waiver of statutory and regulatory requirements
 
 (1)(A) Except as provided in paragraph (4), the Secretary may waive any requirement under this chapter or the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.), or any regulation issued under either this chapter or such Act, for a State or eligible service provider that requests a waiver if—
 
-&emsp;(i) the Secretary determines that the waiver of the requirement would facilitate the abilityof the State or eligible service provider to carry out the purpose of the program;
+&emsp;(i) the Secretary determines that the waiver of the requirement would facilitate the ability of the State or eligible service provider to carry out the purpose of the program;
 
 &emsp;(ii) the State or eligible service provider has provided notice and information to the public regarding the proposed waiver; and
 
@@ -102,29 +102,15 @@ Facilities, equipment, and personnel provided to a school food authority for a p
 
 &emsp;(ii) in the case of a State requesting a waiver, describes actions, if any, that the State has undertaken to remove State statutory or regulatory barriers;
 
-&emsp;(iii) describes the goal of the waiver to improve services under the program and the expected outcomes if the waiver is granted;
+&emsp;(iii) describes the goal of the waiver to improve services under the program and the expected outcomes if the waiver is granted; and
 
-&emsp;(iv) includes a description of the impediments to the efficient operation and administration of the program;
-
-&emsp;(v) describes the management goals to be achieved, such as fewer hours devoted to, or fewer number of personnel involved in, the administration of the program;
-
-&emsp;(vi) provides a timetable for implementing the waiver; and
-
-&emsp;(vii) describes the process the State or eligible service provider will use to monitor the progress in implementing the waiver, including the process for monitoring the cost implications of the waiver to the Federal Government.
+&emsp;(iv) includes a description of the impediments to the efficient operation and administration of the program.
 
 (B) An application described in subparagraph (A) shall be developed by the State or eligible service provider and shall be submitted to the Secretary by the State.
 
-(3)(A) The Secretary shall act promptly on a waiver request contained in an application submitted under paragraph (2) and shall either grant or deny the request. The Secretary shall state in writing the reasons for granting or denying the request.
+(3) The Secretary shall act promptly on a waiver request contained in an application submitted under paragraph (2) and shall either grant or deny the request. The Secretary shall state in writing the reasons for granting or denying the request.
 
-(B) If the Secretary grants a waiver request, the Secretary shall state in writing the expected outcome of granting the waiver.
-
-(C) The result of the decision of the Secretary shall be disseminated by the State or eligible service provider through normal means of communication.
-
-(D)(i) Except as provided in clause (ii), a waiver granted by the Secretary under this subsection shall be for a period not to exceed 3 years.
-
-(ii) The Secretary may extend the period if the Secretary determines that the waiver has been effective in enabling the State or eligible service provider to carry out the purposes of the program.
-
-(4) The Secretary may not grant a waiver under this subsection of any requirement relating to—
+(4) The Secretary may not grant a waiver under this subsection that increases Federal costs or that relates to—
 
 &emsp;(A) the nutritional content of meals served;
 
@@ -132,27 +118,25 @@ Facilities, equipment, and personnel provided to a school food authority for a p
 
 &emsp;(C) the provision of free and reduced price meals;
 
-&emsp;(D) offer versus serve provisions;
+&emsp;(D) limits on the price charged for a reduced price meal;
 
-&emsp;(E) limits on the price charged for a reduced price meal;
+&emsp;(E) maintenance of effort;
 
-&emsp;(F) maintenance of effort;
+&emsp;(F) equitable participation of children in private schools;
 
-&emsp;(G) equitable participation of children in private schools;
+&emsp;(G) distribution of funds to State and local school food service authorities and service institutions participating in a program under this chapter and the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.);
 
-&emsp;(H) distribution of funds to State and local school food service authorities and service institutions participating in a program under this chapter and the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.);
+&emsp;(H) the disclosure of information relating to students receiving free or reduced price meals and other recipients of benefits;
 
-&emsp;(I) the disclosure of information relating to students receiving free or reduced price meals and other recipients of benefits;
+&emsp;(I) prohibiting the operation of a profit producing program;
 
-&emsp;(J) prohibiting the operation of a profit producing program;
+&emsp;(J) the sale of competitive foods;
 
-&emsp;(K) the sale of competitive foods;
+&emsp;(K) the commodity distribution program under section 1762a of this title;
 
-&emsp;(L) the commodity distribution program under section 1762a of this title;
+&emsp;(L) the special supplemental nutrition program authorized under section 17 of the Child Nutrition Act of 1966 (42 U.S.C. 1786); or
 
-&emsp;(M) the special supplemental nutrition program authorized under section 17 of the Child Nutrition Act of 1966 (42 U.S.C. 1786); and
-
-&emsp;(N) enforcement of any constitutional or statutory right of an individual, including any right under—
+&emsp;(M) enforcement of any constitutional or statutory right of an individual, including any right under—
 
 &emsp;&emsp;(i) title VI of the Civil Rights Act of 1964 (42 U.S.C. 2000d et seq.);
 
@@ -168,23 +152,15 @@ Facilities, equipment, and personnel provided to a school food authority for a p
 
 (5) The Secretary shall periodically review the performance of any State or eligible service provider for which the Secretary has granted a waiver under this subsection and shall terminate the waiver if the performance of the State or service provider has been inadequate to justify a continuation of the waiver. The Secretary shall terminate the waiver if, after periodic review, the Secretary determines that the waiver has resulted in an increase in the overall cost of the program to the Federal Government and the increase has not been paid for in accordance with paragraph (1)(A)(iii).
 
-(6)(A)(i) An eligible service provider that receives a waiver under this subsection shall annually submit to the State a report that—
+(6) The Secretary shall annually submit to the Committee on Education and Labor of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate, a report—
 
-&emsp;(I) describes the use of the waiver by the eligible service provider; and
+&emsp;(A) summarizing the use of waivers by the State and eligible service providers;
 
-&emsp;(II) evaluates how the waiver contributed to improved services to children served by the program for which the waiver was requested.
+&emsp;(B) describing whether the waivers resulted in improved services to children;
 
-(ii) The State shall annually submit to the Secretary a report that summarizes all reports received by the State from eligible service providers.
+&emsp;(C) describing the impact of the waivers on providing nutritional meals to participants; and
 
-(B) The Secretary shall annually submit to the Committee on Education and Labor of theHouse of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate, a report—
-
-&emsp;(i) summarizing the use of waivers by the State and eligible service providers;
-
-&emsp;(ii) describing whether the waivers resulted in improved services to children;
-
-&emsp;(iii) describing the impact of the waivers on providing nutritional meals to participants; and
-
-&emsp;(iv) describing how the waivers reduced the quantity of paperwork necessary to administer the program.
+&emsp;(D) describing how the waivers reduced the quantity of paperwork necessary to administer the program.
 
 (7) As used in this subsection, the term “eligible service provider” means—
 
@@ -218,23 +194,23 @@ Facilities, equipment, and personnel provided to a school food authority for a p
 
 (5) There are authorized to be appropriated to carry out this subsection such sums as are necessary for each of fiscal years 1995 through 1998.
 
-(June 4, 1946, ch. 281, §12, formerly §11, 60 Stat. 233; July 12, 1952, ch. 699, §1(c), 66 Stat. 591; Sept. 25, 1962, Pub. L. 87–688, §3(a), 76 Stat. 587; renumbered §12 and amended Oct. 15, 1962, Pub. L. 87–823, §5, 76 Stat. 945; May 14, 1970, Pub. L. 91–248, §1(b), 84 Stat. 208; Oct. 7, 1975, Pub. L. 94–105, §9, 89 Stat. 514; Nov. 10, 1977, Pub. L. 95–166, §§3, 19(c), 91 Stat. 1332, 1345; Nov. 10, 1978, Pub. L. 95–627, §§6(a), 10(a), (b), 92 Stat. 3620, 3623; Dec. 5, 1980, Pub. L. 96–499, title II, §205, 94 Stat. 2601; Aug. 13, 1981, Pub. L. 97–35, title VIII, §§808(a), 813(d), 819(c), 95 Stat. 527, 530, 533; Oct. 18, 1986, Pub. L. 99–500, title III, §§325(a), 326, 373(a), 100 Stat. 1783–361, 1783–369, and Oct. 30, 1986, Pub. L. 99–591, title III, §§325(a), 326, 373(a), 100 Stat. 3341–364, 3341–365, 3341–372; Nov. 14, 1986, Pub. L. 99–661, div. D, title II, §§4205(a), 4206, title V, §4503(a), 100 Stat. 4072, 4073, 4081; July 11, 1987, Pub. L. 100–71, title I, §101(a), 101 Stat. 429; Nov. 10, 1989, Pub. L. 101–147, title III, §§306, 312(1), 103 Stat. 914, 916; Nov. 2, 1994, Pub. L. 103–448, title I, §§112(a)(1), (b)–(d), 113, 108 Stat. 4708–4712.)
+(June 4, 1946, ch. 281, §12, formerly §11, 60 Stat. 233; July 12, 1952, ch. 699, §1(c), 66 Stat. 591; Sept. 25, 1962, Pub. L. 87–688, §3(a), 76 Stat. 587; renumbered §12 and amended Oct. 15, 1962, Pub. L. 87–823, §5, 76 Stat. 945; May 14, 1970, Pub. L. 91–248, §1(b), 84 Stat. 208; Oct. 7, 1975, Pub. L. 94–105, §9, 89 Stat. 514; Nov. 10, 1977, Pub. L. 95–166, §§3, 19(c), 91 Stat. 1332, 1345; Nov. 10, 1978, Pub. L. 95–627, §§6(a), 10(a), (b), 92 Stat. 3620, 3623; Dec. 5, 1980, Pub. L. 96–499, title II, §205, 94 Stat. 2601; Aug. 13, 1981, Pub. L. 97–35, title VIII, §§808(a), 813(d), 819(c), 95 Stat. 527, 530, 533; Oct. 18, 1986, Pub. L. 99–500, title III, §§325(a), 326, 373(a), 100 Stat. 1783–361, 1783–369, and Oct. 30, 1986, Pub. L. 99–591, title III, §§325(a), 326, 373(a), 100 Stat. 3341–364, 3341–365, 3341–372; Nov. 14, 1986, Pub. L. 99–661, div. D, title II, §§4205(a), 4206, title V, §4503(a), 100 Stat. 4072, 4073, 4081; July 11, 1987, Pub. L. 100–71, title I, §101(a), 101 Stat. 429; Nov. 10, 1989, Pub. L. 101–147, title III, §§306, 312(1), 103 Stat. 914, 916; Nov. 2, 1994, Pub. L. 103–448, title I, §§112(a)(1), (b)–(d), 113, 108 Stat. 4708–4712; Aug. 22, 1996, Pub. L. 104–193, title VII, §§701(b), 705, 110 Stat. 2288, 2290.)
 
 #### References in Text
 
-The Child Nutrition Act of 1966, referred to in subsecs. (g) to (i), (k)(2)(B), and (<i>l</i>)(1)(A), (4)(H), is Pub. L. 89–642, Oct. 11, 1966, 80 Stat. 885, as amended, which is classified generally to chapter 13A (§1771 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1771 of this title and Tables.
+The Child Nutrition Act of 1966, referred to in subsecs. (g) to (i) and (<i>l</i>)(1)(A), (4)(G), is Pub. L. 89–642, Oct.11, 1966, 80 Stat. 885, as amended, which is classified generally to chapter 13A (§1771 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1771 of this title and Tables.
 
 The Older Americans Act of 1965, referred to in subsec. (i), is Pub. L. 89–73, July 14, 1965, 79 Stat. 218, as amended, which is classified generally to chapter 35 (§3001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of this title and Tables.
 
-The Civil Rights Act of 1964, referred to in subsec. (<i>l</i>)(4)(N)(i), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended. Title VI of the Act is classified generally to subchapter V (§2000d et seq.) of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of this title and Tables.
+The Civil Rights Act of 1964, referred to in subsec. (<i>l</i>)(4)(M)(i), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended. Title VI of the Act is classified generally to subchapter V (§2000d et seq.) of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of this title and Tables.
 
-The Education Amendments of 1972, referred to in subsec. (<i>l</i>)(4)(N)(iii), is Pub. L. 92–318, June 23, 1972, 86 Stat. 235, as amended. Title IX of the Act is classified principally to chapter 38 (§1681 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title of 1972 Amendment note set out under section 1001 of Title 20 and Tables.
+The Education Amendments of 1972, referred to in subsec. (<i>l</i>)(4)(M)(iii), is Pub. L. 92–318, June 23, 1972, 86 Stat. 235, as amended. Title IX of the Act is classified principally to chapter 38 (§1681 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title of 1972 Amendment note set out under section 1001 of Title 20 and Tables.
 
-The Age Discrimination Act of 1975, referred to in subsec. (<i>l</i>)(4)(N)(iv), is title III of Pub. L. 94–135, Nov. 28, 1975, 89 Stat. 728, as amended, which is classified generally to chapter 76 (§6101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6101 of this title and Tables.
+The Age Discrimination Act of 1975, referred to in subsec. (<i>l</i>)(4)(M)(iv), is title III of Pub. L. 94–135, Nov. 28, 1975, 89 Stat. 728, as amended, which is classified generally to chapter 76 (§6101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6101 of this title and Tables.
 
-The Americans with Disabilities Act of 1990, referred to in subsec. (<i>l</i>)(4)(N)(v), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to chapter 126 (§12101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of this title and Tables.
+The Americans with Disabilities Act of 1990, referred to in subsec. (<i>l</i>)(4)(M)(v), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to chapter 126 (§12101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of this title and Tables.
 
-The Individuals with Disabilities Education Act, referred to in subsec. (<i>l</i>)(4)(N)(vi), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended, which is classified generally to chapter 33 (§1400 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
+The Individuals with Disabilities Education Act, referred to in subsec. (<i>l</i>)(4)(M)(vi), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended, which is classified generally to chapter 33 (§1400 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
 
 #### Codification
 
@@ -242,7 +218,87 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
 
-1994—Subsec. (d)(5). Pub. L. 103–448, §112(a)(1), in first sentence struck out cl. (C) which read as follows: “withrespect to the Commonwealth of Puerto Rico, nonprofit child care centers certified as such by the Governor of Puerto Rico” and in second sentence struck out “of clauses (A) and (B)” after “For purposes”.
+1996—Subsec. (a). Pub. L. 104–193, §705(a), substituted “be available at any reasonable time” for “at all times be available”.
+
+Subsec. (c). Pub. L. 104–193, §705(b), substituted “the Secretary shall not” for “neither the Secretary nor the State shall”.
+
+Subsec. (d)(1). Pub. L. 104–193, §705(c)(3), redesignated par. (9) as (1). Former par. (1) redesignated (6).
+
+Pub. L. 104–193, §705(c)(1), substituted “the Commonwealth of the Northern Mariana Islands” for “the Trust Territory of the Pacific Islands”.
+
+Subsec. (d)(2). Pub. L. 104–193, §705(c)(3), redesignated par. (7) as (2). Former par. (2) redesignated (7).
+
+Subsec. (d)(3). Pub. L. 104–193, §705(c)(2), (3), redesignated par. (5) as (3) and struck out former par. (3) which read as follows: “ ‘Participation rate’ for a State means a number equal to the number of lunches, consisting of a combination of foods and meeting the minimum requirements prescribed by the Secretary pursuant to section 1758 of this title, served in the fiscal year beginning two years immediately prior to the fiscal year for which the Federal funds are appropriated by schools participating in the program under this chapter in the State, as determined by the Secretary.”
+
+Subsec. (d)(4). Pub. L. 104–193, §705(c)(2), (3), redesignated par. (6) as (4) and struck out former par. (4) which read as follows: “ ‘Assistance need rate’ (A) in the case of any State having an average annual per capita income equal to or greater than the average annual per capita income for all the States, shall be 5; and (B) in the case of any State having an average annual per capita income less than the average annual per capita income for all the States, shall be the product of 5 and the quotient obtained by dividing the average annual per capita income for all the States by the average annual per capita income for such State, except that such product may not exceed 9 for any such State. For the purposes of this paragraph (i) the average annual per capita income for any State and for all the States shall be determined by the Secretary on the basis of the average annual per capita income for each State and for all the States for the three most recent years for which such data are available and certified to the Secretary by the Department of Commerce; and (ii) the average annual per capita income for American Samoa shall be disregarded in determining the average annual per capita income for all the States for periods ending before July 1, 1967.”
+
+Subsec. (d)(5). Pub. L. 104–193, §705(c)(3), redesignated par. (8) as (5). Former par. (5) redesignated (3).
+
+Subsec. (d)(6), (7). Pub. L. 104–193, §705(c)(3), redesignated pars. (1) and (2) as (6) and (7), respectively. Former pars. (6) and (7) redesignated (4) and (2), respectively.
+
+Subsec. (d)(8). Pub. L. 104–193, §705(c)(3), redesignated par. (8) as (5).
+
+Subsec. (d)(9). Pub. L. 104–193, §705(c)(3), redesignated par. (9) as (1).
+
+Pub. L. 104–193, §701(b), added par. (9).
+
+Subsec. (f). Pub. L. 104–193, §705(d), struck out “the Trust Territory of the Pacific Islands,” after “the Virgin Islands of the United States,”.
+
+Subsec. (k)(1). Pub. L. 104–193, §705(e)(3), substituted “with the guidelines contained in the most recent ‘Dietary Guidelines for Americans’ that is published under section 5341 of title 7” for “with the Guidelines” in introductory provisions.
+
+Pub. L. 104–193, §705(e)(1), (2), redesignated par. (3) as (1) and struck out former par. (1) which read as follows: “Prior to the publication of final regulations that implement changes that are intended to bring the meal pattern requirements of the school lunch and breakfast programs into conformance with the guidelines contained in the most recent ‘Dietary Guidelines for Americans’ that is published under section 5341 of title 7 (referred to in this subsection as the ‘Guidelines’), the Secretary shall issue proposed regulations permitting the use of food-based menu systems.”
+
+Subsec. (k)(2). Pub. L. 104–193, §705(e)(1), (2), redesignated par. (4) as (2) and struck out former par. (2) which read as follows: “Notwithstanding chapter 5 of title 5, not later than 45 days after the publication of the proposed regulations permitting the use of food-based menu systems, the Secretary shall publish notice in the Federal Register of, and hold, a public meeting with—
+
+&emsp;“(A) representatives of affected parties, such as Federal, State, and local administrators, school food service administrators, other school food service personnel, parents, and teachers; and
+
+&emsp;“(B) organizations representing affected parties, such as public interest antihunger organizations, doctors specializing in pediatric nutrition, health and consumer groups, commodity groups, food manufacturers and vendors, and nutritionists involved with the implementation and operation of programs under this chapter and the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.);
+
+> to discuss and obtain public comments on the proposed rule.”
+
+Subsec. (k)(3), (4). Pub. L. 104–193, §705(e)(2), redesignated pars. (3) and (4) as (1) and (2), respectively.
+
+Subsec. (k)(5). Pub. L. 104–193, §705(e)(1), struck out par. (5) which read as follows: “The final regulations shall reflect comments made at each phase of the proposed rulemaking process, including the public meeting required under paragraph (2).”
+
+Subsec. (<i>l</i>)(2)(A)(iii) to (vii). Pub. L. 104–193, §705(f)(1), struck out “and” at end of cl. (iii), substituted period for semicolon at end of cl. (iv), and struck out cls. (v) to (vii) which read as follows:
+
+“(v) describes the management goals to be achieved, such as fewer hours devoted to, or fewer number of personnel involved in, the administration of the program;
+
+“(vi) provides a timetable for implementing the waiver; and
+
+“(vii) describes the process the State or eligible service provider will use to monitor the progress in implementing the waiver, including the process for monitoring the cost implications of the waiver to the Federal Government.”
+
+Subsec. (<i>l</i>)(3). Pub. L. 104–193, §705(f)(2), designated subpar. (A) as par. (3) and struck out subpars. (B) to (D) which read as follows:
+
+“(B) If the Secretary grants a waiver request, the Secretary shall state in writing the expected outcome of granting the waiver.
+
+“(C) The result of the decision of the Secretary shall be disseminated by the State or eligible service provider through normal means of communication.
+
+“(D)(i) Except as provided in clause (ii), a waiver granted by the Secretary under this subsection shall be for a period not to exceed 3 years.
+
+“(ii) The Secretary may extend the period if the Secretary determines that the waiver has been effective in enabling the State or eligible service provider to carry out the purposes of the program.”
+
+Subsec. (<i>l</i>)(4). Pub. L. 104–193, §705(f)(3)(A), substituted “that increases Federal costs or that relates to” for “of any requirement relating to” in introductory provisions.
+
+Subsec. (<i>l</i>)(4)(D) to (K). Pub. L. 104–193, §705(f)(3)(B), (C), redesignated subpars. (E) to (L) as (D) to (K), respectively, and struck out former subpar. (D) which read as follows: “offer versus serve provisions;”.
+
+Subsec. (<i>l</i>)(4)(L). Pub. L. 104–193, §705(f)(3)(D), substituted “or” for “and” at end.
+
+Pub. L. 104–193, §705(f)(3)(C), redesignated subpar. (M) as (L). Former subpar. (L) redesignated (K).
+
+Subsec. (<i>l</i>)(4)(M), (N). Pub. L. 104–193, §705(f)(3)(C), redesignated subpar. (N) as (M). Former subpar. (M) redesignated (L).
+
+Subsec. (<i>l</i>)(6). Pub. L. 104–193, §705(f)(4), struck out subpar. (A) and designation of subpar. (B) and redesignated cls. (i) to (iv) of former subpar. (B) as subpars. (A) to (D). Prior to amendment, subpar. (A) read as follows:
+
+“(A)(i) An eligible service provider that receives a waiver under this subsection shall annually submit to the State a report that—
+
+&emsp;“(I) describes the use of the waiver by the eligible service provider; and
+
+&emsp;“(II) evaluates how the waiver contributed to improved services to children served by the program for which the waiver was requested.
+
+“(ii) The State shall annually submit to the Secretary a report that summarizes all reports received by the State from eligible service providers.”
+
+1994—Subsec. (d)(5). Pub. L. 103–448, §112(a)(1), in first sentence struck out cl. (C) which read as follows: “with respect to the Commonwealth of Puerto Rico, nonprofit child care centers certified as such by the Governor of Puerto Rico” and in second sentence struck out “of clauses (A) and (B)” after “For purposes”.
 
 Subsecs. (j) to (m). Pub. L. 103–448, §§112(b)–(d), 113, added subsecs. (j) to (m).
 
@@ -310,7 +366,7 @@ Pub. L. 87–688 inserted “American Samoa,” after “Guam”.
 
 #### Change of Name
 
-Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Economic and Educational Opportunities of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Fifth Congress, Jan. 7, 1997.
 
 #### Effective Date of 1994 Amendment
 
@@ -326,7 +382,7 @@ Section 101(c) of Pub. L. 100–71 provided that: “The amendments made by subs
 
 Section 4205(c) of Pub. L. 99–661 provided that:
 
-“(1) The amendments made by subsections (a)(1) and (b)(1) \[amending sections 1760 and 1784 of this title\]shall apply for the fiscal year beginning on October 1, 1986, and each school year thereafter.
+“(1) The amendments made by subsections (a)(1) and (b)(1) \[amending sections 1760 and 1784 of this title\] shall apply for the fiscal year beginning on October 1, 1986, and each school year thereafter.
 
 “(2) The amendments made by subsections (a)(2) and (b)(2) \[amending sections 1760 and 1784 of this title\] shall apply for the school year beginning on July 1, 1988, and each school year thereafter.”
 
@@ -352,15 +408,7 @@ Amendment by Pub. L. 87–688 applicable only with respect to funds appropriated
 
 Amendment by act July 12, 1952, effective only with respect to funds appropriated after July 12, 1952, see section 1(d) of act July 12, 1952, set out as a note under section 1753 of this title.
 
-#### Termination of Trust Territory of the Pacific Islands
-
-For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
-
 #### Study of Cost Accounting Requirements
 
 Section 21 of Pub. L. 94–105 prohibited Secretary from delaying or withholding or causing any State to delay or withhold payments for reimbursement of per-meal costs on basis of noncompliance with cost accounting procedures until requirements of subsec. (b) of this section have been met, and called for a study by Secretary of additional personnel and training needs of States, school districts, and schools resulting from requirement of full cost accounting procedures, such report with recommendations to be submitted to appropriate committees of Congress within one year after Oct. 7, 1975.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1758 of this title.
 

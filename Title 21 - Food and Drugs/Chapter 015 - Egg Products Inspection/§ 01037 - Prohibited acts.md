@@ -40,7 +40,7 @@
 
 <i>Pub. L. 102–237, title X, §1012(c), (h), Dec. 13, 1991, 105 Stat. 1899, 1901, provided that, effective 12 months after promulgation of final implementing regulations, this section is amended by redesignating subsections (c) through (e) of this section as (d) through (f), respectively, and by inserting after subsection (b) of this section the following new subsection:</i>
 
-(c) No egg handler shall possess any eggs after the eggs have been packed into a container that is destined for the ultimate consumer unless the eggs are stored and transported under refrigeration at anambient temperature of no greater than 45 degrees Fahrenheit, as prescribed by rules and regulations promulgated by the Secretary.
+(c) No egg handler shall possess any eggs after the eggs have been packed into a container that is destined for the ultimate consumer unless the eggs are stored and transported under refrigeration at an ambient temperature of no greater than 45 degrees Fahrenheit, as prescribed by rules and regulations promulgated by the Secretary.
 
 #### Change of Name
 

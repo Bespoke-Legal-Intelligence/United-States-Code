@@ -16,7 +16,7 @@ Interests in Property.—(1) Financial assistance provided under this chapter to
 
 (b)
 
-Notice and Public Hearing.—(1) An application for a grant or loan under this chapter (except section 5307) for a capital project that will affect substantially a community, or the mass transportation service of a community, must include a certificate of the applicant that the applicant has—
+Notice and Public Hearing.—(1) An application for a grant or loan under this chapter for a capital project that will affect substantially a community, or the mass transportation service of a community, must include a certificate of the applicant that the applicant has—
 
 &emsp;(A) provided an adequate opportunity for a public hearing with adequate prior notice;
 
@@ -30,17 +30,17 @@ Notice and Public Hearing.—(1) An application for a grant or loan under this c
 
 (c)
 
-Acquiring New Bus Models.—Amounts appropriated or made available under this chapter (except section 5307) after September 30, 1989, may be obligated or expended to acquire a new bus model only if a bus of the model has been tested at the facility established under section 5318 of this title.
+Acquiring New Bus Models.—Amounts appropriated or made available under this chapter after September 30, 1989, may be obligated or expended to acquire a new bus model only if a bus of the model has been tested at the facility established under section 5318 of this title.
 
 (d)
 
-Buying and Operating Buses.—(1) Financial assistance under this chapter may be used to buy or operate a bus only if the applicant, governmental authority, or publicly owned operator that receives the assistance agrees that, except as provided in the agreement, the governmental authority or an operator of mass transportation for the governmental authority will not provide charter bus transportation service outside the urban area in which it provides regularly scheduled mass transportation service. An agreement shall provide for a fair arrangement the Secretary of Transportation considers appropriate to ensure that the assistance will not enable a governmental authority or an operator for a governmental authority to foreclose a private operator from providing intercity charter bus service if the private operator can provide the service.
+Buying and Operating Buses.—(1) Financial assistance under this chapter may be used to buy or operate a bus only if the applicant, governmental authority, or publicly owned operator that receives the assistance agrees that, except as provided in the agreement, the governmental authority or an operator of mass transportation for the governmental authority will not provide charter bus transportation service outside the urban area in which it provides regularly scheduled mass transportation service. An agreement shall provide for a fair arrangementthe Secretary of Transportation considers appropriate to ensure that the assistance will not enable a governmental authority or an operator for a governmental authority to foreclose a private operator from providing intercity charter bus service if the private operator can provide the service.
 
 (2) On receiving a complaint about a violation of an agreement, the Secretary of Transportation shall investigate and decide whether a violation has occurred. If the Secretary decides that a violation has occurred, the Secretary shall correct the violation under terms of the agreement. In addition to a remedy specified in the agreement, the Secretary may bar a recipient under this subsection or an operator from receiving further assistance when the Secretary finds a continuing pattern of violations of the agreement.
 
 (e)
 
-Bus Passenger Seat Functional Specifications.—The initial advertising by a State or local governmental authority for bids to acquire buses using financial assistance under this chapter (except section 5307) may include passenger seat functional specifications that are at least equal to performance specifications the Secretary of Transportation prescribes. The specifications shall be based on a finding by the State or local governmental authority of local requirements for safety, comfort, maintenance, and life cycle costs.
+Bus Passenger Seat Functional Specifications.—The initial advertising by a State or local governmental authority for bids to acquire buses using financial assistance under this chapter may include passenger seat functional specifications that are at least equal to performance specifications the Secretary of Transportation prescribes. The specifications shall be based on a finding by the State or local governmental authority of local requirements for safety, comfort, maintenance, and life cycle costs.
 
 (f)
 
@@ -112,17 +112,19 @@ Application of Section 135
 
 of Title 23.—The planning and programming requirements of section 135 of title 23 apply to a grant made under sections 5307–5311 of this title.
 
-(<i>l)</i>
+(<i>l</i>)
 
 Preaward and Postdelivery Review of Rolling Stock Purchases.—The Secretary of Transportation shall prescribe regulations requiring a preaward and postdelivery review of a grant under this chapter to buy rolling stock to ensure compliance with Government motor vehicle safety requirements, subsection (j) of this section, and bid specifications requirements of grant recipients under this chapter. Under this subsection, independent inspections and review are required, and a manufacturer certification is not sufficient.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 821; Pub. L. 103–429, §6(10), Oct. 31, 1994, 108 Stat. 4379.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 821; Pub. L. 103–429, §6(10), Oct. 31, 1994, 108 Stat. 4379; Pub. L. 104–287, §5(15), Oct. 11, 1996, 110 Stat. 3390.)
 
 Historical and Revision Notes
 
 Pub. L. 103–272
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -176,7 +178,7 @@ Aug. 13, 1973, Pub. L. 93–87, §164, 87 Stat. 281; Jan. 4, 1974, Pub. L. 93–
 
 5323(h)
 
-49 App.:1602(a) (2)(C).
+49 App.:1602(a)(2)(C).
 
 July 9, 1964, Pub. L. 88–365, §3(a)(2)(C), 78 Stat. 303; May 25, 1967, Pub. L. 90–19, §20(a), 81 Stat. 25; Oct. 15, 1970, Pub. L. 91–453, §2(2), 84 Stat. 962; Nov. 26, 1974, Pub. L. 93–503, §§102, 104, 106, 88 Stat. 1566, 1571, 1572; restated Nov. 6, 1978, Pub. L. 95–599, §302(a), 92 Stat. 2736.
 
@@ -276,19 +278,25 @@ This makes a clarifying amendment to the catchline for 49:5323(j).
 
 Pub. L. 103–429, §6(10)(B)
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
 <i>Source (Statutes at Large)</i>
 
-5323(<i>l)</i>
+5323(<i>l</i>)
 
 49 App.:1608(j).
 
 July 9, 1964, Pub. L. 88–365, §12(j), as added Apr. 2, 1987, Pub. L. 100–17, §319, 101 Stat. 234.
 
 The word “review” is substituted for “audit” for clarity. The words “buses and other” are omitted as surplus.
+
+#### Pub. L. 104–287
+
+This amends 49:5315(d), 5317(b)(5), and 5323(b)(1), (c), and (e) to correct erroneous cross-references.
 
 #### References in Text
 
@@ -300,9 +308,15 @@ The Intermodal Surface Transportation Efficiency Act of 1991, referred to in sub
 
 #### Amendments
 
+1996—Subsecs. (b)(1), (c), (e). Pub. L. 104–287 struck out “(except section 5307)” after “under this chapter”.
+
 1994—Subsec. (j). Pub. L. 103–429, §6(10)(A), substituted “America” for “American” in heading.
 
-Subsec. (<i>l</i>). Pub. L. 103–429, §6(10)(B), added subsec. (<i>l).</i>
+Subsec. (<i>l</i>). Pub. L. 103–429, §6(10)(B), added subsec. (<i>l</i>).
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–287 effective July 5, 1994, see section 8(1) of Pub. L. 104–287, set out as a note under section 5303 of this title.
 
 #### Effective Date of 1994 Amendment
 

@@ -2,69 +2,119 @@
 
 (a)
 
-Funding Assistance.—The Secretary of Defense may provide to the Governor of a State who submits a plan to the Secretary under subsection (b) sufficient funds for—
+Funding Assistance.—The Secretary of Defense may provide funds to the Governor of a State who submits to the Secretary a State drug interdiction and counter-drug activities plan satisfying the requirements of subsection (c). Such funds shall be used for—
 
-&emsp;(1) the pay, allowances, clothing, subsistence, gratuities, travel, and related expenses of personnel of the National Guard of that State used for—
+&emsp;(1) the pay, allowances, clothing, subsistence, gratuities, travel, and related expenses, as authorized by State law, of personnel of the National Guard of that State used, while not in Federal service, for the purpose of drug interdiction and counter-drug activities;
 
-&emsp;&emsp;(A) the purpose of drug interdiction and counter-drug activities; and
+&emsp;(2) the operation and maintenance of the equipment and facilities of the National Guard of that State used for the purpose of drug interdiction and counter-drug activities; and
 
-&emsp;&emsp;(B) the operation and maintenance of the equipment and facilities of the National Guard of that State used for that purpose; and
-
-&emsp;(2) the procurement of services and leasing of equipment for the National Guard of that State used for the purpose of drug interdiction and counter-drug activities.
+&emsp;(3) the procurement of services and leasing of equipment for the National Guard of that State used for the purpose of drug interdiction and counter-drug activities.
 
 (b)
 
-Plan Requirements.—A plan referred to in subsection (a) shall—
-
-&emsp;(1) specify how personnel of the National Guard of that State are to be used in drug interdiction and counter-drug activities;
-
-&emsp;(2) certify that those operations are to be conducted at a time when the personnel involved are not in Federal service; and
-
-&emsp;(3) certify that participation by National Guard personnel in those operations is service in addition to annual training required under section 502 of this title.
+Use of Personnel Performing Full-Time National Guard Duty.—Under regulations prescribed by the Secretary of Defense, personnel of the National Guard of a State may, in accordance with the State drug interdiction and counter-drug activities plan referred to in subsection (c), be ordered to perform full-time National Guard duty under section 502(f) of this title for the purpose of carrying out drug interdiction and counter-drug activities.
 
 (c)
 
-Examination of Plan.—(1) Before funds are provided to the Governor of a State under this section, the Secretary of Defense shall examine the adequacy of the plan submitted by the Governor under subsection (b).
+Plan Requirements.—A State drug interdiction and counter-drug activities plan shall—
+
+&emsp;(1) specify how personnel of the National Guard of that State are to be used in drug interdiction and counter-drug activities;
+
+&emsp;(2) certify that those operations are to be conducted at a time when the personnel involved are not in Federal service;
+
+&emsp;(3) certify that participation by National Guard personnel in those operations is service in addition to training required under section 502 of this title;
+
+&emsp;(4) include a certification by the Attorney General of the State (or, in the case of a State with no position of Attorney General, a civilian official of the State equivalent to a State attorney general) that the use of the National Guard of the State for the activities proposed under the plan is authorized by, and is consistent with, State law; and
+
+&emsp;(5) certify that the Governor of the State or a civilian law enforcement official of the State designated by the Governor has determined that any activities included in the plan that are carried out in conjunction with Federal law enforcement agencies serve a State law enforcement purpose.
+
+(d)
+
+Examination of Plan.—(1) Before funds are provided to the Governor of a State under this section and before members of the National Guard of that State are ordered to full-time National Guard duty as authorized in subsection (b), the Secretary of Defense shall examine the adequacy of the plan submitted by the Governor under subsection (c). The plan as approved by the Secretary may provide for the use of personnel and equipment of the National Guard of that State to assist the Immigration and Naturalization Service in the transportation of aliens who have violated a Federal or State law prohibiting or regulating the possession, use, or distribution of a controlled substance.
 
 (2) Except as provided in paragraph (3), the Secretary shall carry out paragraph (1) in consultation with the Director of National Drug Control Policy.
 
 (3) Paragraph (2) shall not apply if—
 
-&emsp;(A) the Governor of a State submits a plan under subsection (b) that is substantially the same as a plan submitted for that State for a previous fiscal year; and
+&emsp;(A) the Governor of a State submits a plan under subsection (c) that is substantially the same as a plan submitted for that State for a previous fiscal year; and
 
-&emsp;(B) funds were provided to the State pursuant to such plan.
-
-(d)
-
-Statutory Construction.—Nothing in this section shall be construed as a limitation on the authority of any unit of the National Guard of a State, when such unit is not in Federal service, to perform law enforcement functions authorized to be performed by the National Guard by the laws of the State concerned.
+&emsp;(B) pursuant to the plan submitted for a previous fiscal year, funds were provided to the State in accordance with subsection (a) or personnel of the National Guard of the State were ordered to perform full-time National Guard duty in accordance with subsection (b).
 
 (e)
 
-Exclusion From End-Strength Computation.—(1) Members of the National Guard on active duty or full-time National Guard duty for the purposes of administering (or during fiscal year 1993 otherwise implementing) this section shall not be counted toward the annual end strength authorized for reserves on active duty in support of the reserve components of the armed forces or toward the strengths authorized in sections 517 and 524 <sup>1</sup> of title 10.
+Exclusion From End-Strength Computation.—(1) Members of the National Guard on active duty or full-time National Guard duty for the purposes of administering (or during fiscal year 1993 otherwise implementing) this section shall not be counted toward the annual end strength authorized for reserves on active duty in support of the reserve components of the armed forces or toward the strengths authorized in sections 12011 and 12012 of title 10.
 
-(2) The Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives an annual report specifying for the period covered by the report the number of members of the National Guard excluded under paragraph (1) from the computation of end strengths.
+(2) The Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives an annual report specifying for the period covered by the report the number of members of the National Guard excluded under paragraph (1) from the computation of end strengths.
 
 (f)
 
+End Strength Limitation.—(1) Except as provided in paragraph (2), at the end of a fiscal year there may not be more than 4000 members of the National Guard—
+
+&emsp;(A) on full-time National Guard duty under section 502(f) of this title to perform drug interdiction or counter-drug activities pursuant to an order to duty for a period of more than 180 days; or
+
+&emsp;(B) on duty under State authority to perform drug interdiction or counter-drug activities pursuant to an order to duty for a period of more than 180 days with State pay and allowances being reimbursed with funds provided under subsection (a)(1).
+
+(2) The Secretary of Defense may increase the end strength authorized under paragraph (1) by not more than 20 percent for any fiscal year if the Secretary determines that such an increase is necessary in the national security interests of the United States.
+
+(g)
+
+Statutory Construction.—Nothing in this section shall be construed as a limitation on the authority of any unit of the National Guard of a State, when such unit is not in Federal service, to perform law enforcement functions authorized to be performed by the National Guard by the laws of the State concerned.
+
+(h)
+
 Definitions.—For purposes of this section:
 
-&emsp;(1) The term “counter-drug activities” includes the use of National Guard personnel, while not in Federal service, in any law enforcement activities authorized by State and local law and requested by the Governor.
+&emsp;(1) The term “drug interdiction and counter-drug activities”, with respect to the National Guard of a State, means the use of National Guard personnel in drug interdiction and counter-drug law enforcement activities authorized by the law of the State and requested by the Governor of the State.
 
 &emsp;(2) The term “Governor of a State” means, in the case of the District of Columbia, the Commanding General of the National Guard of the District of Columbia.
 
 &emsp;(3) The term “State” means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, or a territory or possession of the United States.
 
-(Added Pub. L. 101–189, div. A, title XII, §1207(a)(1), Nov. 29, 1989, 103 Stat. 1564; amended Pub. L. 102–25, title VII, §703, Apr. 6, 1991, 105 Stat. 118; Pub. L. 102–396, title IX, §9099A, Oct. 6, 1992, 106 Stat. 1926.)
-
-#### References in Text
-
-Section 524 of title 10, referred to in subsec. (e)(1), was renumbered section 12011 of title 10 by Pub. L. 103–337, div. A, title XVI, §1662(a)(2)(A), Oct. 5, 1994, 108 Stat. 2988.
+(Added Pub. L. 101–189, div. A, title XII, §1207(a)(1), Nov. 29, 1989, 103 Stat. 1564; amended Pub. L. 102–25, title VII, §703, Apr. 6, 1991, 105 Stat. 118; Pub. L. 102–396, title IX, §9099A, Oct. 6, 1992, 106 Stat. 1926; Pub. L. 104–106, div. A, title X, §1021, Feb. 10, 1996, 110 Stat. 426; Pub. L. 104–208, div. C, title VI, §660, Sept. 30, 1996, 110 Stat. 3009–720.)
 
 #### Prior Provisions
 
 Similar provisions were contained in Pub. L. 100–456, div. A, title XI, §1105, Sept. 29, 1988, 102 Stat. 2047, which was set out as a note under section 374 of Title 10, Armed Forces, prior to repeal by Pub. L. 101–189, §1207(b).
 
 #### Amendments
+
+1996—Subsec. (a). Pub. L. 104–106, §1021(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Secretary of Defense may provide to the Governor of a State who submits a plan to the Secretary under subsection (b) sufficient funds for—
+
+&emsp;“(1) the pay, allowances, clothing, subsistence, gratuities, travel, and related expenses of personnel of the National Guard of that State used for—
+
+&emsp;&emsp;“(A) the purpose of drug interdiction and counter-drug activities; and
+
+&emsp;&emsp;“(B) the operation and maintenance of the equipment and facilities of the National Guard of that State used for that purpose; and
+
+&emsp;“(2) the procurement of services and leasing of equipment for the National Guard of that State used for the purpose of drug interdiction and counter-drug activities.”
+
+Subsec. (b). Pub. L. 104–106, §1021(e), added subsec. (b). Former subsec. (b) redesignated (c).
+
+Subsec. (c). Pub. L. 104–106, §1021(c), substituted “A State drug interdiction and counter-drug activities plan” for “A plan referred to in subsection (a)” in introductory provisions and “training” for “annual training” in par. (3) and added pars. (4) and (5).
+
+Pub. L. 104–106, §1021(b)(3), redesignated subsec. (b) as (c). Former subsec. (c) redesignated (d).
+
+Subsec. (d). Pub. L. 104–106, §1021(b)(3), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (g).
+
+Subsec. (d)(1). Pub. L. 104–208 inserted at end “The plan as approved by the Secretary may provide for the use of personnel and equipment of the National Guard of that State to assist the Immigration and Naturalization Service in the transportation of aliens who have violated a Federal or State law prohibiting or regulating the possession, use, or distribution of a controlled substance.”
+
+Pub. L. 104–106, §1021(d)(1), inserted “and before members of the National Guard of that State are ordered to full-time National Guard duty as authorized in subsection (b)” after “under this section” and substituted “under subsection (c)” for “under subsection (b)”.
+
+Subsec. (d)(3)(A). Pub. L. 104–106, §1021(d)(2)(A), substituted “subsection (c)” for “subsection (b)”.
+
+Subsec. (d)(3)(B). Pub. L. 104–106, §1021(d)(2)(B), added subpar. (B) and struck out former subpar. (B) which read as follows: “funds were provided to the State pursuant to such plan.”
+
+Subsec. (e)(1). Pub. L. 104–106, §1021(h)(1), substituted “sections 12011 and 12012” for “sections 517 and 524”.
+
+Subsec. (e)(2). Pub. L. 104–106, §1021(h)(2), substituted “the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives” for “the Committees on Armed Services of the Senate and House of Representatives”.
+
+Subsec. (f). Pub. L. 104–106, §1021(f), added subsec. (f). Former subsec. (f) redesignated (h).
+
+Subsec. (g). Pub. L. 104–106, §1021(b)(2), redesignated subsec. (d) as (g) and transferred it to appear before subsec. (h), as redesignated.
+
+Subsec. (h). Pub. L. 104–106, §1021(b)(1), redesignated subsec. (f) as (h).
+
+Subsec. (h)(1). Pub. L. 104–106, §1021(g), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The term ‘counter-drug activities’ includes the use of National Guard personnel, while not in Federal service, in any law enforcement activities authorized by State and local law and requested by the Governor.”
 
 1992—Subsec. (e)(1). Pub. L. 102–396 inserted “(or during fiscal year 1993 otherwise implementing)” after “administering”.
 
@@ -73,10 +123,6 @@ Similar provisions were contained in Pub. L. 100–456, div. A, title XI, §1105
 &emsp;“(A) the Attorney General of the United States in the case of a plan submitted for fiscal year 1990; and
 
 &emsp;“(B) the Director of National Drug Control Policy in the case of a plan submitted for subsequent fiscal years.”
-
-#### Change of Name
-
-Committee on Armed Services of House of Representatives treated as referring to Committee on National Security of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Section Referred to in Other Sections
 

@@ -12,7 +12,7 @@
 
 (b)(1) The amount of a refund under subsection (a) shall be the amount equal to the product of—
 
-&emsp;(A) the number of months of obligated service the person has remaining under the agreement entered into under section 2131(a) <sup>1</sup> of this title divided by the original number of months of such obligation; and
+&emsp;(A) the number of months of obligated service the person has remaining under the agreement entered into under section 16131(a) of this title divided by the original number of months of such obligation; and
 
 &emsp;(B) the total amount of educational assistance provided to the member under this chapter,
 
@@ -20,13 +20,11 @@
 
 (2) The amount computed under paragraph (1) shall bear interest at the rate equal to the highest rate being paid by the United States on the day on which the refund is determined to be due for securities having maturities of 90 days or less and shall accrue from the day on which the member is first notified of the amount due to the United States as a refund under this section.
 
-(Added Pub. L. 95–79, title IV, §402(a), July 30, 1977, 91 Stat. 330, §2135; amended Pub. L. 95–485, title IV, §402(b), Oct. 20, 1978, 92 Stat. 1613; Pub. L. 96–342, title IX, §906(b), Sept. 8, 1980, 94 Stat. 1117; Pub. L. 98–525, title VII, §705(a)(1), Oct. 19, 1984, 98 Stat. 2566; Pub. L. 100–689, title I, §111(b)(6), Nov. 18, 1988, 102 Stat. 4173; renumbered §16135 and amended Pub. L. 103–337, div. A, title XVI, §1663(b)(2), (6), Oct. 5, 1994, 108 Stat. 3006, 3007.)
-
-#### References in Text
-
-Section 2131(a) of this title, referred to in subsec. (b)(1)(A), was renumbered section 16131(a) of this title by Pub. L. 103–337, div. A, title XVI, §1663(b)(2), Oct. 5, 1994, 108 Stat. 3006.
+(Added Pub. L. 95–79, title IV, §402(a), July 30, 1977, 91 Stat. 330, §2135; amended Pub. L. 95–485, title IV, §402(b), Oct. 20, 1978, 92 Stat. 1613; Pub. L. 96–342, title IX, §906(b), Sept. 8, 1980, 94 Stat. 1117; Pub. L. 98–525, title VII, §705(a)(1), Oct. 19, 1984, 98 Stat. 2566; Pub. L. 100–689, title I, §111(b)(6), Nov. 18, 1988, 102 Stat. 4173; renumbered §16135 and amended Pub. L. 103–337, div. A, title XVI, §1663(b)(2), (6), Oct. 5, 1994, 108 Stat. 3006, 3007; Pub. L. 104–106, div. A, title XV, §1501(b)(35), Feb. 10, 1996, 110 Stat. 498.)
 
 #### Amendments
+
+1996—Subsec. (b)(1)(A). Pub. L. 104–106 substituted “16131(a)” for “2131(a)”.
 
 1994—Pub. L. 103–337, §1663(b)(2), renumbered section 2135 of this title as this section.
 
@@ -44,6 +42,10 @@ Subsec. (b)(1)(A). Pub. L. 100–689, §111(b)(6)(B), added subpar. (A) and stru
 
 1978—Pub. L. 95–485 substituted “1980” for “1978”.
 
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–106 effective as if included in the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as enacted on Oct. 5, 1994, see section 1501(f)(3) of Pub. L. 104–106, set out as a note under section 113 of this title.
+
 #### Effective Date of 1994 Amendment
 
 Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as an Effective Date note under section 10001 of this title.
@@ -55,6 +57,4 @@ Amendment by Pub. L. 98–525 effective July 1, 1985, applicable only to members
 #### Section Referred to in Other Sections
 
 This section is referred to in section 16132 of this title; title 38 section 3485.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

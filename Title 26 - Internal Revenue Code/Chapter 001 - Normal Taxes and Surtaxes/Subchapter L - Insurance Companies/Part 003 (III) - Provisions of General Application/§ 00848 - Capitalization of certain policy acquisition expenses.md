@@ -16,7 +16,7 @@ In the case of an insurance company—
 
 #### (2) Phase-out
 
-&emsp;If the specified policy acquisition expenses of an insurance company exceed $10,000,000 for any taxable year, the $5,000,000 amount under paragraph (1) shall be reduced (but not below zero) by the amount of such excess.
+&emsp;If the specified policy acquisition expenses of an insurance company exceed $10,000,000 forany taxable year, the $5,000,000 amount under paragraph (1) shall be reduced (but not below zero) by the amount of such excess.
 
 #### (3) Special rule for members of controlled group
 
@@ -48,7 +48,7 @@ For purposes of this section—
 
 #### (2) General deductions
 
-&emsp;The term “general deductions” means the deductions provided in part VI of subchapter B\(sec. 161 and following, relating to itemized deductions) and in part I of subchapter D (sec. 401 and following, relating to pension, profit sharing, stock bonus plans, etc.).
+&emsp;The term “general deductions” means the deductions provided in part VI of subchapter B (sec. 161 and following, relating to itemized deductions) and in part I of subchapter D (sec. 401 and following, relating to pension, profit sharing, stock bonus plans, etc.).
 
 #### (d) Net premiums
 
@@ -94,9 +94,11 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(i) any pension plan contract (as defined in section 818(a)),
 
-&emsp;&emsp;&emsp;(ii) any flight insurance or similar contract, and
+&emsp;&emsp;&emsp;(ii) any flight insurance or similar contract,
 
-&emsp;&emsp;&emsp;(iii) any qualified foreign contract (as defined in section 807(e)(4) without regard to paragraph (5) of this subsection).
+&emsp;&emsp;&emsp;(iii) any qualified foreign contract (as defined in section 807(e)(4) without regard to paragraph (5) of this subsection), and
+
+&emsp;&emsp;&emsp;(iv) any contract which is a medical savings account (as defined in section 220(d)).
 
 #### (2) Group life insurance contract
 
@@ -164,11 +166,17 @@ For purposes of determining adjusted current earnings under section 56(g), acqui
 
 In the case of any taxable year which includes September 30, 1990, the amount taken into account as the net premiums (or negative capitalization amount) with respect to any category of specified insurance contracts shall be the amount which bears the same ratio to the amount which (but for this subsection) would be so taken into account as the number of days in such taxable year on or after September 30, 1990, bears to the total number of days in such taxable year.
 
-(Added Pub. L. 101–508, title XI, §11301(a), Nov. 5, 1990, 104 Stat. 1388–445; amended Pub. L. 103–66, title XIII, §13261(d), Aug. 10, 1993, 107 Stat. 539.)
+(Added Pub. L. 101–508, title XI, §11301(a), Nov. 5, 1990, 104 Stat. 1388–445; amended Pub. L. 103–66, title XIII, §13261(d), Aug. 10, 1993, 107 Stat. 539; Pub. L. 104–191, title III, §301(h), Aug. 21, 1996, 110 Stat. 2052.)
 
 #### Amendments
 
+1996—Subsec. (e)(1)(B)(iv). Pub. L. 104–191 added cl. (iv).
+
 1993—Subsec. (g). Pub. L. 103–66 substituted “this section or section 197” for “this section”.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–191 applicable to taxable years beginning after Dec. 31, 1996, see section 301(j) of Pub. L. 104–191, set out as a note under section 62 of this title.
 
 #### Effective Date of 1993 Amendment
 

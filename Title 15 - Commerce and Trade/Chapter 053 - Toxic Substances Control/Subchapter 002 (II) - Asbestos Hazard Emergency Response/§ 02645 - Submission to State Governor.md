@@ -98,7 +98,7 @@ Within 360 days after October 22, 1986, the Governor of each State—
 
 &emsp;(B) A list containing each local educational agency whose deferral request was approved.
 
-&emsp;(C) A list containing each local educational agency that failed to submit a management plan by October 12, 1988, and whose deferral request was disapproved.
+&emsp;(C) A list containing each local educational agency that failed to submit a managementplan by October 12, 1988, and whose deferral request was disapproved.
 
 &emsp;(D) A list containing each local educational agency that failed to submit a management plan by October 12, 1988, and did not submit a deferral request.
 

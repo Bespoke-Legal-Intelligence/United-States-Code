@@ -8,6 +8,18 @@ In order to preserve for the education, inspiration, and benefit of present and 
 
 1988—Pub. L. 100–250 added cl. (4) and redesignated former cls. (4) and (5) as (5) and (6), respectively.
 
+#### Laura C. Hudson Visitor Center
+
+Pub. L. 104–333, div. I, title VIII, §808, Nov. 12, 1996, 110 Stat. 4188, provided that:
+
+“(a)
+
+Designation.—The visitor center at Jean Lafitte National Historical Park, located at 419 Rue Decatur in New Orleans, Louisiana, is hereby designated as the ‘Laura C. Hudson Visitor Center’.
+
+“(b)
+
+Legal References.—Any reference in any law, regulation, paper, record, map, or any other document of the United States to the visitor center referred to in subsection (a) shall be deemed to be a reference to the ‘Laura C. Hudson Visitor Center’.”
+
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 230a, 230c of this title.

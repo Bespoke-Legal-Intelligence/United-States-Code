@@ -26,7 +26,7 @@ Sections 3782(a), 3782(c), and 3787 of this title shall apply with respect to th
 
 The Administrator is authorized, after appropriate consultation with representatives of States and units of local government, to establish such rules, regulations, and procedures as are necessary for the exercise of the functions of the Office and as are consistent with the purpose of this chapter.
 
-(Pub. L. 93–415, title II, §299A, formerly §262, Sept. 7, 1974, 88 Stat. 1129; Pub. L. 95–115, §6(c), Oct. 3, 1977, 91 Stat. 1058; Pub. L. 96–509, §16, Dec. 8, 1980, 94 Stat. 2761; Pub. L. 98–473, title II, §641, Oct. 12, 1984, 98 Stat. 2122; renumbered §292, Pub. L. 100–690, title VII, §7266(3), Nov. 18, 1988, 102 Stat. 4449; renumbered §299A, Pub. L. 102–586, §2(i)(1)(B), Nov. 4, 1992, 106 Stat. 5006.)
+(Pub. L. 93–415, title II, §299A, formerly §262, Sept. 7, 1974, 88 Stat. 1129; Pub. L. 95–115, §6(c),Oct. 3, 1977, 91 Stat. 1058; Pub. L. 96–509, §16, Dec. 8, 1980, 94 Stat. 2761; Pub. L. 98–473, title II, §641, Oct. 12, 1984, 98 Stat. 2122; renumbered §292, Pub. L. 100–690, title VII, §7266(3), Nov. 18, 1988, 102 Stat. 4449; renumbered §299A, Pub. L. 102–586, §2(i)(1)(B), Nov. 4, 1992, 106 Stat. 5006.)
 
 #### Amendments
 

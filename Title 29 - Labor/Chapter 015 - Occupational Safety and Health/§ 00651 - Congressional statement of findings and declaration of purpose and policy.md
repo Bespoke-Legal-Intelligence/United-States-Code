@@ -4,7 +4,7 @@
 
 (b) The Congress declares it to be its purpose and policy, through the exercise of its powers to regulate commerce among the several States and with foreign nations and to provide for the general welfare, to assure so far as possible every working man and woman in the Nation safe and healthful working conditions and to preserve our human resources—
 
-&emsp;(1) by encouraging employers and employees in their efforts to reduce the number of occupational safety and health hazards at theirplaces of employment, and to stimulate employers and employees to institute new and to perfect existing programs for providing safe and healthful working conditions;
+&emsp;(1) by encouraging employers and employees in their efforts to reduce the number of occupational safety and health hazards at their places of employment, and to stimulate employers and employees to institute new and to perfect existing programs for providing safe and healthful working conditions;
 
 &emsp;(2) by providing that employers and employees have separate but dependent responsibilities and rights with respect to achieving safe and healthful working conditions;
 
@@ -38,7 +38,7 @@ This chapter, referred to in subsec. (b)(3), (11), and (12), was in the original
 
 #### Effective Date
 
-Section 34 of Pub. L. 91–596 provided that: “This Act \[enacting this chapter and section 3142–1 of Title 42, The Public Health and Welfare, amending section 553 of this title, sections 5108, 5314, 5315, and 7902 of Title 5, Government Organization and Employees, sections 633 and 636 of Title 15, Commerce and Trade, section 1114 of Title 18, Crimes and Criminal Procedure, and section 1421 of former Title 49, Transportation, and enacting provisions set out as notes under this section and section 1114 of Title 18\] shall take effect one hundred and twenty days after the date of its enactment \[Dec. 29, 1970\].”
+Section 34 of Pub. L. 91–596 provided that: “This Act \[enacting this chapter and section 3142–1 of Title 42, The Public Health and Welfare, amending section 553 of this title, sections 5108, 5314, 5315, and 7902 of Title 5, Government Organization and Employees, sections 633 and 636 of Title 15, Commerce and Trade, section 1114 of Title 18, Crimes and Criminal Procedure, and section 1421 of former Title 49, Transportation, and enacting provisions set out as notes under this section and section 1114 of Title 18\] shall take effect one hundred andtwenty days after the date of its enactment \[Dec. 29, 1970\].”
 
 #### Short Title
 

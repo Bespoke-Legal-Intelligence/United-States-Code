@@ -22,7 +22,7 @@
 
 #### (A) Application in States operating under demonstration projects
 
-&emsp;&emsp;In the case of any State which is providing medical assistance to its residents under a waiver granted under section 1315 of thistitle, the Secretary shall require the State to meet the requirements of this section in the same manner as the State would be required to meet such requirement if the State had in effect a plan approved under this subchapter.
+&emsp;&emsp;In the case of any State which is providing medical assistance to its residents under a waiver granted under section 1315 of this title, the Secretary shall require the State to meet the requirements of this section in the same manner as the State would be required to meet such requirement if the State had in effect a plan approved under this subchapter.
 
 #### (B) No application in commonwealths and territories
 
@@ -88,7 +88,7 @@
 
 #### (B) Assessment
 
-&emsp;&emsp;At the request of an institutionalized spouse or community spouse, at the beginning of the first continuous period of institutionalization (beginning on or after September 30, 1989) of the institutionalized spouse and upon the receipt of relevant documentation of resources, the State shall promptly assess and document the total value described in subparagraph (A)(i) and shall provide a copy of such assessment and documentation to each spouse and shall retain a copy of the assessment for use under this section. If the request is not part of an application for medical assistance under this subchapter, the State may, at its option as a condition of providing the assessment, require payment of a fee not exceeding the reasonable expenses of providing and documenting the assessment. At the time of providing the copy of the assessment, the State shall include a notice indicating that the spouse will have a right to a fair hearing under subsection (e)(2) of this section.
+&emsp;&emsp;At the request of an institutionalized spouse or community spouse, at the beginning of the first continuous period of institutionalization (beginning on or after September 30, 1989) of the institutionalized spouse and upon the receipt of relevant documentation of resources, the State shall promptly assess and document the total value described in subparagraph (A)(i) and shall provide a copy of such assessment and documentation to each spouse and shall retain a copy of the assessment for use under this section. If the request is not part of an application for medical assistance under this subchapter, the State may, at its option as a condition of providing the assessment, require payment of a fee not exceeding thereasonable expenses of providing and documenting the assessment. At the time of providing the copy of the assessment, the State shall include a notice indicating that the spouse will have a right to a fair hearing under subsection (e)(2) of this section.
 
 #### (2) Attribution of resources at time of initial eligibility determination
 

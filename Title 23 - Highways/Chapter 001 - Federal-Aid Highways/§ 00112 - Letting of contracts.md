@@ -1,6 +1,6 @@
 ### §112. Letting of contracts
 
-(a) In all cases where the construction is to be performed by the State highway department or under its supervision, a request for submission of bids shall be made by advertisement unlesssome other method is approved by the Secretary. The Secretary shall require such plans and specifications and such methods of bidding as shall be effective in securing competition.
+(a) In all cases where the construction is to be performed by the State highway department or under its supervision, a request for submission of bids shall be made by advertisement unless some other method is approved by the Secretary. The Secretary shall require such plans and specifications and such methods of bidding as shall be effective in securing competition.
 
 (b)
 
@@ -124,7 +124,7 @@ In general.—In conducting the program under this section, the Secretary may ma
 
 &emsp;“(2)
 
-Use of grants.—A grant received by a State under this subsection may be used by the State only for awarding contracts for engineering and design services to carry out projects and activities for which Federal funds may be obligated under title 23, United States Code.
+Use of grants.—A grant received by a State under this subsection may be used by the State only for awarding contracts for engineering and designservices to carry out projects and activities for which Federal funds may be obligated under title 23, United States Code.
 
 &emsp;“(3)
 
@@ -144,7 +144,7 @@ Engineering and Design Services Defined.—The term ‘engineering and design se
 
 “(f)
 
-Regulations.—Not later than 180 days after the date of the enactment of this Act \[Dec. 18, 1991\], theSecretary shall issue regulations to carry out this section.”
+Regulations.—Not later than 180 days after the date of the enactment of this Act \[Dec. 18, 1991\], the Secretary shall issue regulations to carry out this section.”
 
 #### Pilot Program for Uniform Audit Procedures
 

@@ -30,5 +30,5 @@ The Secretary shall submit a biennial report to the Congress on the utilization 
 
 #### Effective Date
 
-Section applicable to unexpended funds allocated under subchapter II of this chapter in fiscal year 1992, except as otherwise specifically provided, see section 223 of Pub. L. 102–550, set out as an Effective Date of 1992 Amendment note under section 12704 of this title.
+Section applicable to unexpended funds allocated under subchapter II of this chapter in fiscal year 1992,except as otherwise specifically provided, see section 223 of Pub. L. 102–550, set out as an Effective Date of 1992 Amendment note under section 12704 of this title.
 

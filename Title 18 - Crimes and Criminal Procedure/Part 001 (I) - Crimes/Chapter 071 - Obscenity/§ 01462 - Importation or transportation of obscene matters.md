@@ -1,6 +1,6 @@
 ### §1462. Importation or transportation of obscene matters
 
-Whoever brings into the United States, or any place subject to the jurisdiction thereof, or knowingly uses any express company or other common carrier, for carriage in interstate or foreign commerce—
+Whoever brings into the United States, or any place subject to the jurisdiction thereof, or knowingly uses any express company or other common carrier or interactive computer service (as defined in section 230(e)(2) of the Communications Act of 1934), for carriage in interstate or foreign commerce—
 
 &emsp;(a) any obscene, lewd, lascivious, or filthy book, pamphlet, picture, motion-picture film, paper, letter, writing, print, or other matter of indecent character; or
 
@@ -8,11 +8,11 @@ Whoever brings into the United States, or any place subject to the jurisdiction 
 
 &emsp;(c) any drug, medicine, article, or thing designed, adapted, or intended for producing abortion, or for any indecent or immoral use; or any written or printed card, letter, circular, book, pamphlet, advertisement, or notice of any kind giving information, directly or indirectly, where, how, or of whom, or by what means any of such mentioned articles, matters, or things may be obtained or made; or
 
-Whoever knowingly takes from such express company or other common carrier any matter or thing the carriage of which is herein made unlawful—
+Whoever knowingly takes or receives, from such express company or other common carrier or interactive computer service (as defined in section 230(e)(2) of the Communications Act of 1934) any matter or thing the carriage or importation of which is herein made unlawful—
 
 Shall be fined under this title or imprisoned not more than five years, or both, for the first such offense and shall be fined under this title or imprisoned not more than ten years, or both, for each such offense thereafter.
 
-(June 25, 1948, ch. 645, 62 Stat. 768; May 27, 1950, ch. 214, §1, 64 Stat. 194; Aug. 28, 1958, Pub. L. 85–796, §2, 72 Stat. 962; Jan. 8, 1971, Pub. L. 91–662, §4, 84 Stat. 1973; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(K), (L), 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 768; May 27, 1950, ch. 214, §1, 64 Stat. 194; Aug. 28, 1958, Pub. L. 85–796, §2, 72 Stat. 962; Jan. 8, 1971, Pub. L. 91–662, §4, 84 Stat. 1973; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(K), (L), 108 Stat. 2147; Feb. 8, 1996, Pub. L. 104–104, title V, §507(a), 110 Stat. 137.)
 
 #### Historical and Revision Notes
 
@@ -26,7 +26,15 @@ Words “in interstate or foreign commerce” were substituted for ten lines of 
 
 Minor changes in phraseology were made.
 
+#### References in Text
+
+Section 230(e)(2) of the Communications Act of 1934, referred to in text, is classified to section 230(e)(2) of Title 47, Telegraphs, Telephones, and Radiotelegraphs.
+
 #### Amendments
+
+1996—Pub. L. 104–104, §507(a)(1), inserted “or interactive computer service (as defined in section 230(e)(2) of the Communications Act of 1934)” after “carrier” in first par.
+
+Pub. L. 104–104, §507(a)(2), in second par., inserted “or receives,” after “takes”, “or interactive computer service (as defined in section 230(e)(2) of the Communications Act of 1934)” after “common carrier”, and “or importation” after “carriage”.
 
 1994—Pub. L. 103–322, in last par., substituted “fined under this title” for “fined not more than $5,000” after “Shall be” and for “fined not more than $10,000” after “and shall be”.
 
@@ -39,6 +47,10 @@ Minor changes in phraseology were made.
 #### Effective Date of 1971 Amendment
 
 Amendment by Pub. L. 91–662 effective Jan. 9, 1971, see section 7 of Pub. L. 91–662, set out as a note under section 552 of this title.
+
+#### Construction of 1996 Amendment
+
+Section 507(c) of Pub. L. 104–104 provided that: “The amendments made by this section \[amending this section and section 1465 of this title\] are clarifying and shall not be interpreted to limit or repeal any prohibition contained in sections 1462 and 1465 of title 18, United States Code, before such amendment, under the rule established in United States v. Alpers, 338 U.S. 680 (1950).”
 
 #### Cross References
 

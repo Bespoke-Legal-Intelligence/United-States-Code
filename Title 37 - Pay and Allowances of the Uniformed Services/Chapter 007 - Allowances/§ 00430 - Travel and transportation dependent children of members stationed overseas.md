@@ -42,7 +42,7 @@ Subsecs. (d) to (f). Pub. L. 101–189, §625(a)(3), added subsecs. (d) to (f).
 
 #### Effective Date of 1989 Amendment
 
-Section 625(b) of Pub. L. 101–189 provided that: “The amendments made by subsection (a) \[amending thissection\] shall apply with respect to travel and transportation commenced after the date of the enactment of this Act \[Nov. 29, 1989\].”
+Section 625(b) of Pub. L. 101–189 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to travel and transportation commenced after the date of the enactment of this Act \[Nov. 29, 1989\].”
 
 #### Effective Date
 

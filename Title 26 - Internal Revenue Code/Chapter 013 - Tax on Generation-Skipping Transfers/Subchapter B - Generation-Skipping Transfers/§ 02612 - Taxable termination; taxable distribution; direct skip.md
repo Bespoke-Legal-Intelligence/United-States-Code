@@ -12,7 +12,7 @@
 
 #### (2) Certain partial terminations treated as taxable
 
-&emsp;If, upon the termination of an interest in property held in trust by reason of the death of a lineal descendant of the transferor, a specified portion of the trust's assets are distributed to 1 or more skip persons (or 1 or more trusts for the exclusive benefit of such persons), such termination shall constitute a taxable termination with respect to such portion of the trust property.
+&emsp;If, upon the termination of an interest in property held in trust by reason of the deathof a lineal descendant of the transferor, a specified portion of the trust's assets are distributed to 1 or more skip persons (or 1 or more trusts for the exclusive benefit of such persons), such termination shall constitute a taxable termination with respect to such portion of the trust property.
 
 #### (b) Taxable distribution
 
@@ -34,7 +34,7 @@ For purposes of this chapter—
 
 &emsp;&emsp;(B) as of the time of the transfer, the parent of such individual who is a lineal descendant of the transferor (or the transferor's spouse or former spouse) is dead,
 
-> &emsp;such individual shall be treated as if such individual were a child of the transferor and all ofthat grandchild's children shall be treated as if they were grandchildren of the transferor. In the case of lineal descendants below a grandchild, the preceding sentence may be reapplied. If any transfer of property to a trust would be a direct skip but for this paragraph, any generation assignment under this paragraph shall apply also for purposes of applying this chapter to transfers from the portion of the trust attributable to such property.
+> &emsp;such individual shall be treated as if such individual were a child of the transferor and all of that grandchild's children shall be treated as if they were grandchildren of the transferor. In the case of lineal descendants below a grandchild, the preceding sentence may be reapplied. If any transfer of property to a trust would be a direct skip but for this paragraph, any generation assignment under this paragraph shall apply also for purposes of applying this chapter to transfers from the portion of the trust attributable to such property.
 
 #### (3) Look-thru rules not to apply
 

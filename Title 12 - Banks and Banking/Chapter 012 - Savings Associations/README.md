@@ -36,10 +36,10 @@
 | (i) | Conversions. |
 | (j) | Repealed. |
 | (k) | Depository of public money. |
-| (<i>l)</i> | Retirement accounts. |
+| (<i>l</i>) | Retirement accounts. |
 | (m) | Branching. |
 | (n) | Trusts. |
-| (<i>o)</i> | Conversion of State savings banks. |
+| (<i>o</i>) | Conversion of State savings banks. |
 | (p) | Conversions. |
 | (q) | Tying arrangements. |
 | (r) | Out-of-State branches. |
@@ -73,7 +73,7 @@
 | (i) | Treatment of examination assessments. |
 | (j) | Processing fee. |
 | (k) | Fees for examinations and supervisory activities. |
-| (<i>l)</i> | Working capital. |
+| (<i>l</i>) | Working capital. |
 | (m) | Use of funds. |
 | [1467a.](%C2%A7%2001467a%20-%20Regulation%20of%20holding%20companies.md) | Regulation of holding companies. |
 | (a) | Definitions. |
@@ -87,14 +87,15 @@
 | (i) | Penalties. |
 | (j) | Judicial review. |
 | (k) | Savings clause. |
-| (<i>l)</i> | Treatment of FDIC insured State savings banks and cooperative banks as savings associations. |
+| (<i>l</i>) | Treatment of FDIC insured State savings banks and cooperative banks as savings associations. |
 | (m) | Qualified thrift lender test. |
 | (n) | Tying restrictions. |
-| (<i>o)</i> | Mutual holding companies. |
+| (<i>o</i>) | Mutual holding companies. |
 | (p) | Holding company activities constituting serious risk to subsidiary savings association. |
 | (q) | Qualified stock issuance by undercapitalized savings associations or holding companies. |
 | (r) | Penalty for failure to provide timely and accurate reports. |
 | (s) | Mergers, consolidations, and other acquisitions authorized. |
+| (t) | Exemption for bank holding companies. |
 | [1468\.](%C2%A7%2001468%20-%20Transactions%20with%20affiliates%3B%20extensions%20of%20credit%20to%20executive%20officers%2C%20directors%2C%20and%20principal%20shareholders.md) | Transactions with affiliates; extensions of credit to executive officers, directors, and principal shareholders. |
 | (a) | Affiliate transactions. |
 | (b) | Extensions of credit to executive officers, directors, and principal shareholders. |

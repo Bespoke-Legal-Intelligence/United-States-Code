@@ -42,10 +42,10 @@
 | (i) | Transfer of funds. |
 | (j) | Conservation of open spaces, natural beauty, and recreational resources, and prevention of pollution. |
 | (k) | Limitation on payments during any calendar year. |
-| <i>(l)</i> | Use of facilities of Commodity Credit Corporation. |
+| (<i>l</i>) | Use of facilities of Commodity Credit Corporation. |
 | (m) | Payment to successor upon death, incompetence, or disappearance of producer entitled to payment. |
 | (n) | Sharing of compensation or payments with tenants and sharecroppers. |
-| <i>(o)</i> | Effect of diversion on commodity programs. |
+| (<i>o</i>) | Effect of diversion on commodity programs. |
 | (p) | Advisory Board on Wildlife; membership. |
 | (q) | Regulations. |
 

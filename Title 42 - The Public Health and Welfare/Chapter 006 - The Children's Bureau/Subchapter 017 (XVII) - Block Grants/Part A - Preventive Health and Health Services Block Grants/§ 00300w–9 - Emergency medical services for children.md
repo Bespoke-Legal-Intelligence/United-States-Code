@@ -44,7 +44,7 @@ Subsec. (d). Pub. L. 101–590, §5(2), substituted “each of the fiscal years 
 
 Subsec. (d). Pub. L. 100–607, §302(b), inserted “, $3,000,000 for fiscal year 1989, $4,000,000 for fiscal year 1990, and $5,000,000 for fiscal year 1991” before period at end.
 
-1986—Subsec. (a). Pub. L. 99–272, §17004(1), which directed substitution of “not more than four grants in any fiscal year to States or accredited schools of medicine in States” for “grant to not more than four States in any fiscal year” was made by substituting former phrase for “grants to not more than four States in any fiscal year”, as the probable intent of Congress.
+1986—Subsec. (a). Pub. L. 99–272, §17004(1), which directed substitution of “not more than four grants inany fiscal year to States or accredited schools of medicine in States” for “grant to not more than four States in any fiscal year” was made by substituting former phrase for “grants to not more than four States in any fiscal year”, as the probable intent of Congress.
 
 Pub. L. 99–272, §17004(2), inserted at end “Only one grant under this subsection may be made in a State (to a State or to a school of medicine in such State) in any fiscal year.”
 

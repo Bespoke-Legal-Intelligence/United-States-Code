@@ -1,6 +1,6 @@
 ### §910. Enforcement of exclusive rights
 
-(a) Except as otherwise provided in this chapter, any person who violates any of the exclusiverights of the owner of a mask work under this chapter, by conduct in or affecting commerce, shall be liable as an infringer of such rights. as <sup>1</sup> used in this subsection, the term “any person” includes any State, any instrumentality of a State, and any officer or employee of a State or instrumentality of a State acting in his or her official capacity. Any State, and any such instrumentality, officer, or employee, shall be subject to the provisions of this chapter in the same manner and to the same extent as any nongovernmental entity.
+(a) Except as otherwise provided in this chapter, any person who violates any of the exclusive rights of the owner of a mask work under this chapter, by conduct in or affecting commerce, shall be liable as an infringer of such rights. as <sup>1</sup> used in this subsection, the term “any person” includes any State, any instrumentality of a State, and any officer or employee of a State or instrumentality of a State acting in his or her official capacity. Any State, and any such instrumentality, officer, or employee, shall be subject to the provisions of this chapter in the same manner and to the same extent as any nongovernmental entity.
 
 (b)(1) The owner of a mask work protected under this chapter, or the exclusive licensee of all rights under this chapter with respect to the mask work, shall, after a certificate of registration of a claim of protection in that mask work has been issued under section 908, be entitled to institute a civil action for any infringement with respect to the mask work which is committed after the commencement of protection of the mask work under section 904(a).
 
@@ -14,7 +14,7 @@
 
 &emsp;(C) Post a surety bond for any injury that may result if the detention or exclusion of the articles proves to be unjustified.
 
-(2) Articles imported in violation of the rights set forth in section 905 are subject to seizure and forfeiture in the same manner as property imported in violation of the customs laws. Any such forfeited articles shall be destroyed as directed by the Secretary of the Treasury or the court, as the case may be, except that the articles may be returned to the country of export whenever it is shown to the satisfaction of the Secretary of the Treasury that the importer had no reasonable grounds for believing that his or her acts constituted a violation of the law.
+(2) Articles imported in violation of the rights set forth in section 905 are subject to seizure and forfeiture in the same manner as property imported in violation of the customs laws. Anysuch forfeited articles shall be destroyed as directed by the Secretary of the Treasury or the court, as the case may be, except that the articles may be returned to the country of export whenever it is shown to the satisfaction of the Secretary of the Treasury that the importer had no reasonable grounds for believing that his or her acts constituted a violation of the law.
 
 (Added Pub. L. 98–620, title III, §302, Nov. 8, 1984, 98 Stat. 3352; amended Pub. L. 101–553, §2(b)(1), Nov. 15, 1990, 104 Stat. 2750.)
 

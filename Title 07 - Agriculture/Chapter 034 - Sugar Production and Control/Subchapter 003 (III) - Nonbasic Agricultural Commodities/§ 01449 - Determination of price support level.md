@@ -4,7 +4,11 @@ In determining the level of price support for any nonbasic agricultural commodit
 
 (Oct. 31, 1949, ch. 792, title III, §303, 63 Stat. 1053.)
 
+#### Inapplicability of Section
+
+Section inapplicable to 1996 through 2002 crops of loan commodities, peanuts, and sugar and inapplicable to milk during period beginning Apr. 4, 1996, and ending Dec. 31, 2002, see section 7301(b)(1)(I) of this title.
+
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1446 of this title.
+This section is referred to in sections 1446, 7301 of this title.
 

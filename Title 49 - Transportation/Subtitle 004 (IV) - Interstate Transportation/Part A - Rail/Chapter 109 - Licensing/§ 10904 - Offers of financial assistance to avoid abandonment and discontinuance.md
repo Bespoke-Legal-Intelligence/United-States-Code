@@ -2,7 +2,7 @@
 
 (a) In this section—
 
-&emsp;(1) the term “avoidable cost” means all expenses that would be incurred by a rail carrier in providing transportation that would not be incurred if the railroad line over which the transportation was provided were abandoned or if the transportation were discontinued. Expenses include cash inflows foregone and cash outflows incurred by the rail carrier as a result of not abandoning or discontinuing thetransportation. Cash inflows foregone and cash outflows incurred include—
+&emsp;(1) the term “avoidable cost” means all expenses that would be incurred by a rail carrier in providing transportation that would not be incurred if the railroad line over which the transportation was provided were abandoned or if the transportation were discontinued. Expenses include cash inflows foregone and cash outflows incurred by the rail carrier as a result of not abandoning or discontinuing the transportation. Cash inflows foregone and cash outflows incurred include—
 
 &emsp;&emsp;(A) working capital and required capital expenditure;
 
@@ -32,7 +32,7 @@
 
 (d)(1) Unless the Board, within 15 days after the expiration of the 4-month period described in subsection (c), finds that one or more financially responsible persons (including a governmental authority) have offered financial assistance regarding that part of the railroad line to be abandoned or over which all rail transportation is to be discontinued, abandonment or discontinuance may be carried out in accordance with section 10903.
 
-(2) If the Board finds that such an offer or offers of financial assistance has been made within such period, abandonment or discontinuance shall be postponed until—
+(2) If the Board finds that such an offer or offers of financial assistance has been made withinsuch period, abandonment or discontinuance shall be postponed until—
 
 &emsp;(A) the carrier and a financially responsible person have reached agreement on a transaction for subsidy or sale of the line; or
 
@@ -56,7 +56,7 @@
 
 (B) No subsidy arrangement approved under this section shall remain in effect for more than one year, unless otherwise mutually agreed by the parties.
 
-(g) Upon abandonment of a railroad line under this chapter, the obligation of the rail carrierabandoning the line to provide transportation on that line, as required by section 11101(a), is extinguished.
+(g) Upon abandonment of a railroad line under this chapter, the obligation of the rail carrier abandoning the line to provide transportation on that line, as required by section 11101(a), is extinguished.
 
 (Added Pub. L. 104–88, title I, §102(a), Dec. 29, 1995, 109 Stat. 825.)
 

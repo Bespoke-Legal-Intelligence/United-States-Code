@@ -4,7 +4,7 @@ All moneys received for such stamps shall be accounted for by the Postal Service
 
 #### (a) Advance allotments to Postal Service
 
-So much as may be necessary shall be used by the Secretary of the Interior to make advanceallotments to the Postal Service at such times and in such amounts as may be mutually agreed upon by the Secretary of the Interior and the Postal Service for direct expenditure by the Postal Service for engraving, printing, issuing, selling, and accounting for migratory bird hunting stamps and moneys received from the sale thereof, in addition to expenses for personal services in the District of Columbia and elsewhere, and such other expenses as may be necessary in executing the duties and functions required of the Postal Service.
+So much as may be necessary shall be used by the Secretary of the Interior to make advance allotments to the Postal Service at such times and in such amounts as may be mutually agreed upon by the Secretary of the Interior and the Postal Service for direct expenditure by the Postal Service for engraving, printing, issuing, selling, and accounting for migratory bird hunting stamps and moneys received from the sale thereof, in addition to expenses for personal services in the District of Columbia and elsewhere, and such other expenses as may be necessary in executing the duties and functions required of the Postal Service.
 
 #### (b) Acquisition of bird refuges
 

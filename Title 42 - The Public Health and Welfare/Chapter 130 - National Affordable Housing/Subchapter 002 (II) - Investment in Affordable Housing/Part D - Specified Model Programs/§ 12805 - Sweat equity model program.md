@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary shall make available a model program to provide grants to public and privatenonprofit organizations and community housing development organizations to provide technical and supervisory assistance to low-income and very low-income families, including the homeless, in acquiring, rehabilitating, and constructing housing by the self-help housing method.
+The Secretary shall make available a model program to provide grants to public and private nonprofit organizations and community housing development organizations to provide technical and supervisory assistance to low-income and very low-income families, including the homeless, in acquiring, rehabilitating, and constructing housing by the self-help housing method.
 
 #### (b) Rehabilitation of properties
 
@@ -29,4 +29,186 @@ The term “self-help housing” means the same as in section 1490c of this titl
 The guidelines for the model program shall generally comport with the additional protections and restrictions specified under section 1490c of this title.
 
 (Pub. L. 101–625, title II, §255, Nov. 28, 1990, 104 Stat. 4121.)
+
+#### Assistance for Habitat for Humanity and Other Self-Help Housing Providers
+
+Pub. L. 104–120, §11, Mar. 28, 1996, 110 Stat. 841, provided that:
+
+“(a)
+
+Grant Authority.—The Secretary of Housing and Urban Development may, to the extent amounts are available to carry out this section and the requirements of this section are met, make grants for use in accordance with this section to—
+
+&emsp;“(1) Habitat for Humanity International, whose organizational headquarters are located in Americus, Georgia; and
+
+&emsp;“(2) other national or regional organizations or consortia that have experience in providing or facilitating self-help housing homeownership opportunities.
+
+“(b)
+
+Goals and Accountability.—In making grants under this section, the Secretary shall take such actions as may be necessary to ensure that—
+
+&emsp;“(1) assistance provided under this section is used to facilitate and encourage innovative homeownership opportunities through the provision of self-help housing, under which the homeowner contributes a significant amount of sweat equity toward the construction of the new dwelling;
+
+&emsp;“(2) assistance provided under this section for land acquisition and infrastructure development results in the development of not less than 4,000 new dwellings;
+
+&emsp;“(3) the dwellings constructed in connection with assistance provided under this section are quality dwellings that comply with local building and safety codes and standards and are available at prices below the prevailing market prices;
+
+&emsp;“(4) the provision of assistance under this section establishes and fosters a partnership between theFederal Government and Habitat for Humanity International, its affiliates, and other organizations and consortia, resulting in efficient development of affordable housing with minimal governmental intervention, limited governmental regulation, and significant involvement by private entities;
+
+&emsp;“(5) activities to develop housing assisted pursuant to this section involve community participation similar to the homeownership program carried out by Habitat for Humanity International, in which volunteers assist in the construction of dwellings; and
+
+&emsp;“(6) dwellings are developed in connection with assistance under this section on a geographically diverse basis, which includes areas having high housing costs, rural areas, and areas underserved by other homeownership opportunities that are populated by low-income families unable to otherwise afford housing.
+
+> If, at any time, the Secretary determines that the goals under this subsection cannot be met by providing assistance in accordance with the terms of this section, the Secretary shall immediately notify the applicable Committees in writing of such determination and any proposed changes for such goals or this section.
+
+“(c)
+
+Allocation.—Of any amounts available for grants under this section—
+
+&emsp;“(1) 62.5 percent shall be used for a grant to the organization specified in subsection (a)(1); and
+
+&emsp;“(2) 37.5 percent shall be used for grants to organizations and consortia under subsection (a)(2).
+
+“(d)
+
+Use.—
+
+&emsp;“(1)
+
+Purpose.—Amounts from grants made under this section, including any recaptured amounts, shall be used only for eligible expenses in connection with developing new decent, safe, and sanitary nonluxury dwellings in the United States for families and persons who otherwise would be unable to afford to purchase a dwelling.
+
+&emsp;“(2)
+
+Eligible expenses.—For purposes of paragraph (1), the term ‘eligible expenses’ means costs only for the following activities:
+
+&emsp;&emsp;“(A)
+
+Land acquisition.—Acquiring land (including financing and closing costs).
+
+&emsp;&emsp;“(B)
+
+Infrastructure improvement.—Installing, extending, constructing, rehabilitating, or otherwise improving utilities and other infrastructure.
+
+> &emsp;Such term does not include any costs for the rehabilitation, improvement, or construction of dwellings.
+
+“(e)
+
+Establishment of Grant Fund.—
+
+&emsp;“(1)
+
+In general.—Any amounts from any grant made under this section shall be deposited by the grantee organization or consortium in a fund that is established by such organization or consortium for such amounts, administered by such organization or consortium, and available for use only for the purposes under subsection (d). Any interest, fees, or other earnings of the fund shall be deposited in the fund and shall be considered grant amounts for purposes of this section.
+
+&emsp;“(2)
+
+Assistance to habitat for humanity affiliates.—Habitat for Humanity International may use amounts in the fund established for such organization pursuant to paragraph (1) for the purposes under subsection (d) by providing assistance from the fund to local affiliates of such organization.
+
+“(f)
+
+Requirements for Assistance to Other Organizations.—The Secretary may make a grant to an organization or consortium under subsection (a)(2) only pursuant to—
+
+&emsp;“(1) an expression of interest by such organization or consortia to the Secretary for a grant for such purposes;
+
+&emsp;“(2) a determination by the Secretary that the organization or consortia has the capability and has obtained financial commitments (or has the capacity to obtain financial commitments) necessary to—
+
+&emsp;&emsp;“(A) develop not less than 30 dwellings in connection with the grant amounts; and
+
+&emsp;&emsp;“(B) otherwise comply with a grant agreement under subsection (i); and
+
+&emsp;“(3) a grant agreement entered into under subsection (i).
+
+“(g)
+
+Treatment of Unused Amounts.—Upon the expiration of the 6-month period beginning upon the Secretary first providing notice of the availability of amounts for grants under subsection (a)(2), the Secretary shall determine whether the amount remaining from the aggregate amount reserved under subsection (c)(2) exceeds the amount needed to provide funding in connection with any expressions of interest under subsection (f)(1) made by such date that are likely to result in grant agreements under subsection (i). If the Secretary determines that such excess amounts remain, the Secretary shall provide the excess amounts to Habitat for Humanity International by making a grant to such organization in accordance with this section.
+
+“(h)
+
+Geographical Diversity.—In using grant amounts provided under subsection (a)(1), Habitat for Humanity International shall ensure that the amounts are used in a manner that results in national geographic diversity among housing developed using such amounts. In making grants under subsection (a)(2), the Secretary shall ensure that grants are provided and grant amounts are used in a manner that results in national geographic diversity among housing developed using grant amounts under this section.
+
+“(i)
+
+Grant Agreement.—A grant under this section shall be made only pursuant to a grant agreement entered into by the Secretary and the organization or consortia receiving the grant, which shall—
+
+&emsp;“(1) require such organization or consortia to use grant amounts only as provided in this section;
+
+&emsp;“(2) provide for the organization or consortia to develop a specific and reasonable number of dwellings using the grant amounts, which number shall be established taking into consideration costs and economic conditions in the areas in which the dwellings will be developed, but in no case shall be less than 30;
+
+&emsp;“(3) require the organization or consortia to use the grant amounts in a manner that leverages other sources of funding (other than grants under this section), including private or public funds, in developing the dwellings;
+
+&emsp;“(4) require the organization or consortia to comply with the other provisions of this section;
+
+&emsp;“(5) provide that if the organization or consortia has not used any grant amounts within 24 months after such amounts are first disbursed to the organization or consortia, the Secretary shall recapture such unused amounts; and
+
+&emsp;“(6) contain such other terms as the Secretary may require to provide for compliance with subsection (b) and the requirements of this section.
+
+“(j)
+
+Fulfillment of Grant Agreement.—If the Secretary determines that an organization or consortia awarded a grant under this section has not, within 24 months after grant amounts are first made available to the organization or consortia, substantially fulfilled the obligations under the grant agreement, including development of the appropriate number of dwellings under the agreement, the Secretary shall use any such undisbursed amounts remaining from such grant for other grants in accordance with this section.
+
+“(k)
+
+Records and Audits.—During the period beginning upon the making of a grant under this section and ending upon close-out of the grant under subsection (<i>l</i>)—
+
+&emsp;“(1) the organization awarded the grant under subsection (a)(1) or (a)(2) shall keep such records and adopt such administrative practices as the Secretary may require to ensure compliance with the provisions of this section and the grant agreement; and
+
+&emsp;“(2) the Secretary and the Comptroller General of the United States, and any of their duly authorized representatives, shall have access for the purpose of audit and examination to any books, documents, papers, and records of the grantee organization or consortia and its affiliates that are pertinent to the grant made under this section.
+
+“(<i>l</i>)
+
+Close-Out.—The Secretary shall close out a grant made under this section upon determining that the aggregate amount of any assistance provided from the fund established under subsection (e)(1) by the grantee organization or consortium exceeds the amount of the grant. For purposes of this paragraph, any interest, fees, and other earnings of the fund shall be excluded from the amount of the grant.
+
+“(m)
+
+Environmental Review.—A grant under this section shall be considered to be funds for a special project for purposes of section 305(c) of the Multifamily Housing Property Disposition Reform Act of 1994 \[42 U.S.C. 3547\].
+
+“(n)
+
+Report to Congress.—Not later than 90 days after close-out of all grants under this section is completed, the Secretary shall submit a report to the applicable Committees describing the grants made under this section, the grantees, the housing developed in connection with the grant amounts, and the purposes for which the grant amounts were used.
+
+“(<i>o</i>)
+
+Definitions.—For purposes of this section, the following definitions shall apply:
+
+&emsp;“(1)
+
+Applicable committees.—The term ‘applicable Committees’ means the Committee on Banking and Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate.
+
+&emsp;“(2)
+
+Secretary.—The term ‘Secretary’ means the Secretary of Housing and Urban Development.
+
+&emsp;“(3)
+
+United states.—The term ‘United States’ includes the States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, Guam, the Virgin Islands, American Samoa, and any other territory or possession of the United States.
+
+“(p)
+
+Regulations.—The Secretary shall issue any final regulations necessary to carry out this section not later than 30 days after the date of the enactment of this Act \[Mar. 28, 1996\]. The regulations shall take effect upon issuance and may not exceed, in length, 5 full pages in the Federal Register.”
+
+#### Funding for Self-Help Housing Assistance, National Cities in Schools Community Development Program, and Capacity Building Through National Community Development Initiative
+
+Pub. L. 104–120, §12, Mar. 28, 1996, 110 Stat. 845, provided that:
+
+“(a)
+
+Authority to Use Assisted Housing Amounts.—To the extent and for the purposes specified in subsection (b), the Secretary of Housing and Urban Development may use amounts in the account of the Department of Housing and Urban Development known as the Annual Contributions for Assisted Housing account, but only such amounts which—
+
+&emsp;“(1) have been appropriated for a fiscal year that occurs before the fiscal year for which the Secretary uses the amounts; and
+
+&emsp;“(2) have been obligated before becoming available for use under this section.
+
+“(b)
+
+Fiscal Year 1996.—Of the amounts described in subsection (a), $60,000,000 shall be available to the Secretary of Housing and Urban Development for fiscal year 1996 in the following amounts for the following purposes:
+
+&emsp;“(1)
+
+Self-help housing assistance.—$40,000,000 for carrying out section 11 of this Act \[set out above\].
+
+&emsp;“(2)
+
+National cities in schools community development program.—$10,000,000 for carrying out section 930 of the Housing and Community Development Act of 1992 (Public Law 102–550; 106 Stat. 3887).
+
+&emsp;“(3)
+
+Capacity building through national community development initiative.—$10,000,000 for carrying out section 4 of the HUD Demonstration Act of 1993 (42 U.S.C. 9816 note).”
 

@@ -24,7 +24,7 @@ The Export-Import Bank of the United States shall not have outstanding at any on
 
 #### (A) In general
 
-&emsp;&emsp;If the President of the United States finds that the amount of direct loan authority or guarantee authority available to the Bank for the fiscal year involved exceeds the amount which will be necessary to carry out the Bank's functions consistent with the availability of qualified applications and limitations imposed by law during such year, the President of the United States shall promptly transmit to the Congress a request for legislation to eliminate the amount of such excess direct loan, loan guarantee, or insurance authority.
+&emsp;&emsp;If the President of the United States finds that the amount of direct loan authority or guarantee authority available to the Bank for the fiscal year involved exceeds the amount which will be necessary to carry out the Bank's functions consistent with the availability of qualified applications and limitations imposed by law during such year, the President of the United States shall promptly transmit to the Congress a request for legislation to eliminate theamount of such excess direct loan, loan guarantee, or insurance authority.
 
 #### (B) Continued availability of authority
 

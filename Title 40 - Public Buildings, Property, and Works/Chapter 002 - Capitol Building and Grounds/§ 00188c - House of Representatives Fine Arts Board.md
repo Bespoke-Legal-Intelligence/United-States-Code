@@ -2,21 +2,21 @@
 
 #### (a) Establishment and authority
 
-There is established in the House of Representatives a Fine Arts Board (hereafter in sections 188c and 188c–1 of this title referred to as the “Board”), comprised of the House of Representatives members of the Joint Committee on the Library. The chairman of the Committee on House Administration of the House of Representatives shall be the chairman of the Board. The Board, in consultation with the House Office Building Commission, shall have authority over all works of fine art, historical objects, and similar property that are the property of the Congress and are for display or other use in the House of Representatives wing of the Capitol, the House of Representatives Office Buildings, or any other location under the control of the House of Representatives.
+There is established in the House of Representatives a Fine Arts Board (hereafter in sections 188c and 188c–1 of this title referred to as the “Board”), comprised of the House of Representatives members of the Joint Committee on the Library. The chairman of the Committee on House Oversight of the House of Representatives shall be the chairman of the Board. The Board, in consultation with the House Office Building Commission, shall have authority over all works of fine art, historical objects, and similar property that are the property of the Congress and are for display or other use in the House of Representatives wing of the Capitol, the House of Representatives Office Buildings, or any other location under the control of the House of Representatives.
 
 #### (b) Clerk of the House of Representatives
 
-Under the supervision and direction of the Board, the Clerk of the House of Representatives shall be responsible for the administration, maintenance, and display of the works of fine art and other property referred to in subsection (a) of this section.
+Under the supervision and direction of the Board, the Clerk of the House of Representativesshall be responsible for the administration, maintenance, and display of the works of fine art and other property referred to in subsection (a) of this section.
 
 #### (c) Architect of the Capitol
 
 The Architect of the Capitol shall provide assistance to the Board and to the Clerk of the House of Representatives in the carrying out of their responsibilities under sections 188c and 188c–1 of this title.
 
-(Pub. L. 100–696, title X, §1001, Nov. 18, 1988, 102 Stat. 4611.)
+(Pub. L. 100–696, title X, §1001, Nov. 18, 1988, 102 Stat. 4611; Pub. L. 104–186, title II, §221(8), Aug. 20, 1996, 110 Stat. 1749.)
 
-#### Change of Name
+#### Amendments
 
-Committee on House Administration of House of Representatives treated as referring to Committee on House Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+1996—Subsec. (a). Pub. L. 104–186 substituted “House Oversight” for “House Administration”.
 
 #### Transfer of Functions
 

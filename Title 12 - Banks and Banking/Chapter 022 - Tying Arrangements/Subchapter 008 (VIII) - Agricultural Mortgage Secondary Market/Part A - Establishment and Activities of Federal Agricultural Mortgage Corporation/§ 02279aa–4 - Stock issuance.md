@@ -8,7 +8,7 @@
 
 #### (2) Limitation on issue
 
-&emsp;After the date the permanent board first meets with a quorum of its members present,voting common stock of the Corporation may be issued only to originators and certified facilities.
+&emsp;After the date the permanent board first meets with a quorum of its members present, voting common stock of the Corporation may be issued only to originators and certified facilities.
 
 #### (3) Authority of Board to establish terms and procedures
 
@@ -54,7 +54,7 @@ The Corporation is authorized to issue nonvoting common stock having such par va
 
 #### (1) Authority of Board
 
-&emsp;The Corporation is authorized to issue nonvoting preferred stock having such par value as may be fixed by the Board from time to time. Such preferred stock issued shall be freely transferable, except that, as to the Corporation, such stock shall be transferred only on the books of the Corporation.
+&emsp;The Corporation is authorized to issue nonvoting preferred stock having such par valueas may be fixed by the Board from time to time. Such preferred stock issued shall be freely transferable, except that, as to the Corporation, such stock shall be transferred only on the books of the Corporation.
 
 #### (2) Rights of preferred stock
 
@@ -78,5 +78,5 @@ Amendment by Pub. L. 100–399 effective as if enacted immediately after enactme
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2279aa–2, 2279aa–3 of this title.
+This section is referred to in sections 2279aa–2, 2279aa–3, 2279bb–7 of this title.
 

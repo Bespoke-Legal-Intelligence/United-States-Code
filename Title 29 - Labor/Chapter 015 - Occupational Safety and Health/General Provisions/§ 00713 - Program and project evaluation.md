@@ -10,7 +10,7 @@ In carrying out evaluations under this section, the Secretary shall obtain the o
 
 #### (c) Publication of annual summaries
 
-The Secretary shall annually publish summaries of the results of evaluative research and evaluations of program and project impact and effectiveness, including the standards used for such evaluations, the full contents of which shall be available to the Congress and the public.
+The Secretary shall annually publish summaries of the results of evaluative research and evaluations of program and project impact and effectiveness, including the standards used for such evaluations, the full contents of whichshall be available to the Congress and the public.
 
 #### (d) Data as property of United States
 
@@ -78,7 +78,7 @@ Section 402 of Pub. L. 95–602, as amended by Pub. L. 98–221, title I, §104(
 
 #### Study on Elimination of Disincentives to Employment for Individuals Receiving Benefits; Report to President and Congress
 
-Section 403 of Pub. L. 95–602 provided that, in consultation with appropriate Federal departments and agencies, the Secretary conduct a study of possible ways to structure Federal programs providing benefits to handicapped individuals in order to eliminate any disincentives for individuals receiving benefits under such programs to obtain and continue in employment, and upon the completion of such study, but not later than twenty-four months after Nov. 6, 1978, submit the results of such study, together with such recommendations as deemed appropriate to the President and the Congress.
+Section 403 of Pub. L. 95–602 provided that, in consultation with appropriate Federal departments andagencies, the Secretary conduct a study of possible ways to structure Federal programs providing benefits to handicapped individuals in order to eliminate any disincentives for individuals receiving benefits under such programs to obtain and continue in employment, and upon the completion of such study, but not later than twenty-four months after Nov. 6, 1978, submit the results of such study, together with such recommendations as deemed appropriate to the President and the Congress.
 
 #### Section Referred to in Other Sections
 

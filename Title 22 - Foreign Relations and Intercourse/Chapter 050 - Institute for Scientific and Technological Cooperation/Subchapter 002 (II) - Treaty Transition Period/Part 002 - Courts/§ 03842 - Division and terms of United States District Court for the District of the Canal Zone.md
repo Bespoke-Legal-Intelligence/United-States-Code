@@ -1,6 +1,0 @@
-### §3842. Division and terms of United States District Court for the District of the Canal Zone
-
-The United States District Court for the District of the Canal Zone may conduct its affairs at such places within the areas made available for the use of the United States pursuant to the Panama Canal Treaty of 1977 and related agreements, and at such times, as the district judge may designate by rule or order.
-
-(Pub. L. 96–70, title II, §2202, Sept. 27, 1979, 93 Stat. 494.)
-

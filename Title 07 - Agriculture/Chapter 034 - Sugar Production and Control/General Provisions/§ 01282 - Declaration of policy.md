@@ -18,13 +18,13 @@ Functions of Soil Conservation Service in Department of Agriculture with respect
 
 #### Congressional Declaration of Policy Under Agricultural Act of 1961
 
-Section 2 of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 294, provided that: “In order more fully and effectively to improve, maintain, and protect the prices and incomesof farmers, to enlarge rural purchasing power, to achieve a better balance between supplies of agricultural commodities and the requirements of consumers therefor, to preserve and strengthen the structure of agriculture, and to revitalize and stabilize the overall economy at reasonable costs to the Government, it is hereby declared to be the policy of Congress to—
+Section 2 of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 294, provided that: “In order more fully and effectively to improve, maintain, and protect the prices and incomes of farmers, to enlarge rural purchasing power, to achieve a better balance between supplies of agricultural commodities and the requirements of consumers therefor, to preserve and strengthen the structure of agriculture, and to revitalize and stabilize the overall economy at reasonable costs to the Government, it is hereby declared to be the policy of Congress to—
 
 &emsp;“(a) afford farmers the opportunity to achieve parity of income with other economic groups by providing them with the means to develop and strengthen their bargaining power in the Nation's economy;
 
 &emsp;“(b) encourage a commodity-by-commodity approach in the solution of farm problems and provide the means for meeting varied and changing conditions peculiar to each commodity;
 
-&emsp;“(c) expand foreign trade in agricultural commodities with friendly nations, as defined in section 107 of Public Law 480, 83d Congress, as amended (7 U.S.C. 1707), and in no manner either subsidize the export, sell, or make available any subsidized agricultural commodity to any nations other than such friendly nations and thus make full use of our agricultural abundance;
+&emsp;“(c) expand foreign trade in agricultural commodities with friendly nations, as defined in section 107 ofPublic Law 480, 83d Congress, as amended (7 U.S.C. 1707), and in no manner either subsidize the export, sell, or make available any subsidized agricultural commodity to any nations other than such friendly nations and thus make full use of our agricultural abundance;
 
 &emsp;“(d) utilize more effectively our agricultural productive capacity to improve the diets of the Nation's needy persons;
 

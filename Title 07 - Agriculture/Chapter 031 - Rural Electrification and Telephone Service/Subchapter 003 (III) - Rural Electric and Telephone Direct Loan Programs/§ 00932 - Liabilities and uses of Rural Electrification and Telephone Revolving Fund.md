@@ -2,17 +2,17 @@
 
 #### (a) Liabilities and obligations of fund
 
-The notes of the Secretary to the Secretary of the Treasury to obtain funds for loans under sections 904, 905, and 922 of this title, and all other liabilities against the appropriations or assets in the fund in connection with electrification and telephone loan operations shall be liabilities of the fund, and all other obligations against such appropriations or assets in the fund arising out of electrification and telephone loan operations shall be obligations of the fund.
+The notes of the Secretary to the Secretary of the Treasury to obtain funds for loans under sections 904, 905,<sup>1</sup> and 922 of this title, and all other liabilities against the appropriations or assets in the fund in connection with electrification and telephone loan operations shall be liabilities of the fund, and all other obligations against such appropriations or assets in the fund arising out of electrification and telephone loan operations shall be obligations of the fund.
 
 #### (b) Uses of fund assets
 
 The assets of the fund shall be available only for the following purposes:
 
-&emsp;(1) loans which could be insured under this subchapter, and for advances in connection with such loans and loans previously made, as of May 11, 1973, under sections 904, 905, and 922 of this title;
+&emsp;(1) loans which could be insured under this subchapter, and for advances in connection with such loans and loans previously made, as of May 11, 1973, under sections 904, 905,<sup>1</sup> and 922 of this title;
 
-&emsp;(2) payment of principal when due (without interest) on outstanding loans to the Secretary from the Secretary of the Treasury for electrification and telephone purposes pursuant to section 903(a) of this title and payment of principal and interest when due on loans to the Secretary from the Secretary of the Treasury pursuant to section 934(a) of this title;
+&emsp;(2) payment of principal when due (without interest) on outstanding loans to the Secretary from the Secretary of the Treasury for electrification and telephone purposes and payment of principal and interest when due on loans to the Secretary from the Secretary of the Treasury pursuant to section 934(a) of this title;
 
-&emsp;(3) payment of amounts to which the holder of notes is entitled on insured loans: <i>Provided,</i> That payments other than final payments need not be remitted to the holder until due or until the next agreed annual, semiannual, or quarterly remittance date;
+&emsp;(3) payment of amounts to which the holder of notes is entitled on insured loans: <i>Provided</i>, That payments other than final payments need not be remitted to the holder until due or until the next agreed annual, semiannual, or quarterly remittance date;
 
 &emsp;(4) payment to the holder of insured notes of any defaulted installment or, upon assignment of the note of the Secretary at his request, the entire balance due on the note;
 
@@ -36,9 +36,15 @@ The assets of the fund shall be available only for the following purposes:
 
 (B) The assets accounted for in the telephone account shall be available solely for telephone loan operations under this chapter (other than under subchapter IV of this chapter).
 
-(May 20, 1936, ch. 432, title III, §302, as added May 7, 1971, Pub. L. 92–12, §2, 85 Stat. 30; amended May 11, 1973, Pub. L. 93–32, §2, 87 Stat. 66; Nov. 28, 1990, Pub. L. 101–624, title XXIII, §2359, 104 Stat. 4041; Oct. 13, 1994, Pub. L. 103–354, title II, §235(a)(13), 108 Stat. 3221.)
+(May 20, 1936, ch. 432, title III, §302, as added May 7, 1971, Pub. L. 92–12, §2, 85 Stat. 30; amended May 11, 1973, Pub. L. 93–32, §2, 87 Stat. 66; Nov. 28, 1990, Pub. L. 101–624, title XXIII, §2359, 104 Stat. 4041; Oct. 13, 1994, Pub. L. 103–354, title II, §235(a)(13), 108 Stat. 3221; Apr. 4, 1996, Pub. L. 104–127, title VII, §772(b)(2), 110 Stat. 1149.)
+
+#### References in Text
+
+Section 905 of this title, referred to in subsecs. (a) and (b)(1), was repealed by Pub. L. 104–127, title VII, §774(a), Apr. 4, 1996, 110 Stat. 1150.
 
 #### Amendments
+
+1996—Subsec. (b)(2). Pub. L. 104–127 struck out “pursuant to section 903(a) of this title” after “purposes”.
 
 1994—Subsecs. (a), (b)(2), (4), (5), (c)(1), (2). Pub. L. 103–354 substituted “Secretary” for “Administrator” wherever appearing.
 
@@ -53,4 +59,6 @@ Amendment by Pub. L. 93–32 effective May 11, 1973, see section 12 of Pub. L. 9
 #### Effective Date
 
 Section effective May 7, 1971, see section 7 of Pub. L. 92–12, set out as a note under section 921a of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

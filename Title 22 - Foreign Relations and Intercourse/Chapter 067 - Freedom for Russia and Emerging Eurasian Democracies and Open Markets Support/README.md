@@ -67,7 +67,7 @@
 | (i) | Annual reports. |
 | (j) | Authorization of appropriations. |
 | (k) | Sunset provision. |
-| (<i>l)</i> | Definitions. |
+| (<i>l</i>) | Definitions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -105,6 +105,7 @@
 | (c) | Form of assistance. |
 | (d) | Sources of assistance. |
 | (e) | Quarterly report. |
+| (f) | Termination of authority. |
 | [5860\.](Subchapter%20004%20%28IV%29%20-%20Nonproliferation%20and%20Disarmament%20Programs%20and%20Activities/%C2%A7%2005860%20-%20Report%20on%20special%20nuclear%20materials.md) | Report on special nuclear materials. |
 | [5861\.](Subchapter%20004%20%28IV%29%20-%20Nonproliferation%20and%20Disarmament%20Programs%20and%20Activities/%C2%A7%2005861%20-%20Research%20and%20Development%20Foundation.md) | Research and Development Foundation. |
 | (a) | Establishment. |

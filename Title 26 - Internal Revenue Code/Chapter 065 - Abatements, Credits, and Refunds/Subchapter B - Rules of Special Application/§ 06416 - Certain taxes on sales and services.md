@@ -48,7 +48,7 @@ Under regulations prescribed by the Secretary, credit or refund (without interes
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B) or (C), if the price of any article in respect of which a tax, based on such price, is imposed by chapter 32 or by section 4051, is readjusted by reason of the return or repossession of the article or a covering or container, or by a bona fide discount, rebate, or allowance, including a readjustment for local advertising (but only to the extent provided in section 4216(e)(2) and (3)), the part of the tax proportionate to the part of the price repaid or credited to the purchaser shall be deemed to be an overpayment.
+&emsp;&emsp;Except as provided in subparagraph (B) or (C), if the price of any article in respect of which a tax, based on such price, is imposed by chapter 31 or 32, is readjusted by reason of the return or repossession of the article or a covering or container, or by a bona fide discount, rebate, or allowance, including a readjustment for local advertising (but only to the extent provided in section 4216(e)(2) and (3)), the part of the tax proportionate to the part of the price repaid or credited to the purchaser shall be deemed to be an overpayment.
 
 #### (B) Further manufacture
 
@@ -148,9 +148,11 @@ Under regulations prescribed by the Secretary, if any person uses or resells lik
 
 For purposes of this section, any term used in this section has the same meaning as when used in chapter 31, 32, or 33, as the case may be.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 798; Aug. 11, 1955, ch. 793, §2, 69 Stat. 676; Aug. 11, 1955, ch. 805, §§1(h), (i), 2(b), 69 Stat. 690; Apr. 2, 1956, ch. 160, §2(b)(1), 70 Stat. 90; June 29, 1956, ch. 462, title II, §208(b), 70 Stat. 393; June 30, 1958, Pub. L. 85–475, §4(b)(5), (6), 72 Stat. 260; Sept. 2, 1958, Pub. L. 85–859, title I, §163(a), (c), 72 Stat. 1306, 1311; Sept. 21, 1959, Pub. L. 86–342, title II, §201(d)(1), 73 Stat. 614; Apr. 8, 1960, Pub. L. 86–418, §3, 74 Stat. 38; Sept. 14, 1960, Pub. L. 86–781, §2, 74 Stat. 1018; June 29, 1961, Pub. L. 87–61, title II, §205(c), (d), 75 Stat. 126; June 28, 1962, Pub. L. 87–508, §5(c)(3), 76 Stat. 119; June 21, 1965, Pub. L. 89–44, title II, §207(c), title VI, §601(c), title VIII, §801(d)(2), 79 Stat. 140, 153, 158; May 21, 1970, Pub. L. 91–258, title II, §§205(b)(3), (4), 207(d)(4)–(7), 84 Stat. 242, 248, 249; Dec. 31, 1970, Pub. L. 91–614, title III, §302(a), (b), 84 Stat. 1845; Dec. 10, 1971, Pub. L. 92–178, title IV, §401(a)(3)(C), (g)(6), 85 Stat. 531, 534; Oct. 4, 1976, Pub. L. 94–455, title XIX, §§1904(b)(1), (2), 1906(a)(24)(A), (B)(i), (b)(13)(A), title XXI, §2108(a), 90 Stat. 1815, 1827, 1834, 1904; Feb. 10, 1978, Pub. L. 95–227, §2(b)(4), 92 Stat. 12; Nov. 9, 1978, Pub. L. 95–618, title II, §§201(c)(3), 232(b), 233(c)(3), 92 Stat. 3184, 3189, 3192; Apr. 1, 1980, Pub. L. 96–222, title I, §108(c)(2)(A), (B), (3), (4), 94 Stat. 227; Dec. 24, 1980, Pub. L. 96–596, §4(c)(1), 94 Stat. 3475; Dec. 24, 1980, Pub. L. 96–598, §1(a), (b), 94 Stat. 3485, 3486; Jan. 6, 1983, Pub. L. 97–424, title V, §§511(g)(2)(A), 512(b)(2)(C), (D), 515(b)(4), 96 Stat. 2173, 2177, 2181; July 18, 1984, Pub. L. 98–369, div. A, title VII, §§734(b), (j), 735(c)(13), 98 Stat. 978, 980, 984; Oct. 17, 1986, Pub. L. 99–499, title V, §521(d)(5), 100 Stat. 1780; Dec. 22, 1987, Pub. L. 100–203, title IX, §9201(b)(2), title X, §10502(d)(6)–(8), 101 Stat. 1330–330, 1330–444; Nov. 10, 1988, Pub. L. 100–647, title II, §2001(d)(1)(B), title VI, §6102(a), 102 Stat. 3594, 3710; Nov. 5, 1990, Pub. L. 101–508, title XI, §11212(d)(2), 104 Stat. 1388–432; Aug. 10, 1993, Pub. L. 103–66, title XIII, §13242(d)(17)–(19), 107 Stat. 524.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 798; Aug. 11, 1955, ch. 793, §2, 69 Stat. 676; Aug. 11, 1955, ch. 805, §§1(h), (i), 2(b), 69 Stat. 690; Apr. 2, 1956, ch. 160, §2(b)(1), 70 Stat. 90; June 29, 1956, ch. 462, title II, §208(b), 70 Stat. 393; June 30, 1958, Pub. L. 85–475, §4(b)(5), (6), 72 Stat. 260; Sept. 2, 1958, Pub. L. 85–859, title I, §163(a), (c), 72 Stat. 1306, 1311; Sept. 21, 1959, Pub. L. 86–342, title II, §201(d)(1), 73 Stat. 614; Apr. 8, 1960, Pub. L. 86–418, §3, 74 Stat. 38; Sept. 14, 1960, Pub. L. 86–781, §2, 74 Stat. 1018; June 29, 1961, Pub. L. 87–61, title II, §205(c), (d), 75 Stat. 126; June 28, 1962, Pub. L. 87–508, §5(c)(3), 76 Stat. 119; June 21, 1965, Pub. L. 89–44, title II, §207(c), title VI, §601(c), title VIII, §801(d)(2), 79 Stat. 140, 153, 158; May 21, 1970, Pub. L. 91–258, title II, §§205(b)(3), (4), 207(d)(4)–(7), 84 Stat. 242, 248, 249; Dec. 31, 1970, Pub. L. 91–614, title III, §302(a), (b), 84 Stat. 1845; Dec. 10, 1971, Pub. L. 92–178, title IV, §401(a)(3)(C), (g)(6), 85 Stat. 531, 534; Oct. 4, 1976, Pub. L. 94–455, title XIX, §§1904(b)(1), (2), 1906(a)(24)(A), (B)(i), (b)(13)(A), title XXI, §2108(a), 90 Stat. 1815, 1827, 1834, 1904; Feb. 10, 1978, Pub. L. 95–227, §2(b)(4), 92 Stat. 12; Nov. 9, 1978, Pub. L. 95–618, title II, §§201(c)(3), 232(b), 233(c)(3), 92 Stat. 3184, 3189, 3192; Apr. 1, 1980, Pub. L. 96–222, title I, §108(c)(2)(A), (B), (3), (4), 94 Stat. 227; Dec. 24,1980, Pub. L. 96–596, §4(c)(1), 94 Stat. 3475; Dec. 24, 1980, Pub. L. 96–598, §1(a), (b), 94 Stat. 3485, 3486; Jan. 6, 1983, Pub. L. 97–424, title V, §§511(g)(2)(A), 512(b)(2)(C), (D), 515(b)(4), 96 Stat. 2173, 2177, 2181; July 18, 1984, Pub. L. 98–369, div. A, title VII, §§734(b), (j), 735(c)(13), 98 Stat. 978, 980, 984; Oct. 17, 1986, Pub. L. 99–499, title V, §521(d)(5), 100 Stat. 1780; Dec. 22, 1987, Pub. L. 100–203, title IX, §9201(b)(2), title X, §10502(d)(6)–(8), 101 Stat. 1330–330, 1330–444; Nov. 10, 1988, Pub. L. 100–647, title II, §2001(d)(1)(B), title VI, §6102(a), 102 Stat. 3594, 3710; Nov. 5, 1990, Pub. L. 101–508, title XI, §11212(d)(2), 104 Stat. 1388–432; Aug. 10, 1993, Pub. L. 103–66, title XIII, §13242(d)(17)–(19), 107 Stat. 524; Aug. 20, 1996, Pub. L. 104–188, title I, §1702(b)(3), 110 Stat. 1868.)
 
 #### Amendments
+
+1996—Subsec. (b)(1)(A). Pub. L. 104–188 substituted “chapter 31 or 32” for “chapter 32 or by section 4051”.
 
 1993—Subsec. (a)(4)(A). Pub. L. 103–66, §13242(d)(17)(A), substituted “gasoline” for “product” in two places.
 
@@ -210,7 +212,7 @@ Subsec. (b)(3)(C). Pub. L. 98–369, §734(b)(2)(B)(ii), struck out subpar. (C) 
 
 Subsec. (b)(3)(D) to (F). Pub. L. 98–369, §735(c)(13)(C), struck out subpar. (D) which related to tread rubber in respect of which tax was paid under section 4071(a)(4) used in recapping or retreading of a tire, subpar. (E) which related to bicycle tires or inner tubes used for such a tire, and subpar. (F) which dealt with gasoline taxable under section 4081. See subpar. (B) for similar provisions.
 
-Subsec. (b)(4)(A). Pub. L. 98–369, §734(b)(2)(A), amended par. (4) generally. Prior to amendment par. (4) provided that if (A) a tire or inner tube taxable under section 4071, or a recapped or retreaded tire in respect of which tax under section 4071(a)(4) was paid on the tread rubber used in the recapping or retreading, is sold by the manufacturer, producer, or importer thereof on or in connection with, or with the sale of, any other article manufactured or produced by him; and (B) such other article is (i) an automobile bus chassis or an automobile bus body, or (ii) by any person exported, sold to a State or local government for the exclusive use of a State or local government, sold to a nonprofit educational organization for its exclusive use, or used or sold for use as supplies for vessels or aircraft, any tax imposed by chapter 32 in respect of such tire or inner tube which has been paid by the manufacturer, producer, or importer thereof shall be deemed to be an overpayment by him.
+Subsec. (b)(4)(A). Pub. L. 98–369, §734(b)(2)(A), amended par. (4) generally. Prior to amendment par. (4) provided that if (A) a tire or inner tube taxable under section 4071, or a recapped or retreaded tire in respect of which tax under section 4071(a)(4) was paid on the tread rubber used in the recapping or retreading, is sold by the manufacturer, producer, or importer thereof on or in connection with, or with the sale of, any other article manufactured or produced by him; and (B) such other article is (i) an automobile bus chassis or an automobile bus body, or (ii) by any person exported, sold to a State or local government for the exclusive use of a State or local government, sold to a nonprofit educational organization for its exclusive use, or usedor sold for use as supplies for vessels or aircraft, any tax imposed by chapter 32 in respect of such tire or inner tube which has been paid by the manufacturer, producer, or importer thereof shall be deemed to be an overpayment by him.
 
 Subsec. (b)(6). Pub. L. 98–369, §734(b)(1)(A), added par. (6).
 
@@ -248,7 +250,7 @@ Subsec. (b)(3)(C). Pub. L. 96–222, §108(c)(2)(A), inserted reference to an au
 
 Subsec. (b)(3)(D). Pub. L. 96–598, §1(b)(1), added subpar. (D).
 
-Subsec. (b)(4)(A). Pub. L. 96–598, §1(b)(2)(D), substituted “section 4071, or a recapped or retreaded tire in respect of which tax under section 4071(a)(4) was paidon the tread rubber used in the recapping or retreading,” for “section 4071”.
+Subsec. (b)(4)(A). Pub. L. 96–598, §1(b)(2)(D), substituted “section 4071, or a recapped or retreaded tire in respect of which tax under section 4071(a)(4) was paid on the tread rubber used in the recapping or retreading,” for “section 4071”.
 
 Subsec. (b)(4)(B). Pub. L. 96–222, §108(c)(2)(B), inserted reference to automobile bus chassis or an automobile bus body.
 
@@ -380,7 +382,7 @@ Subsec. (b)(2)(I), (J). Pub. L. 86–342, §201(d)(1)(A), (C), substituted “at
 
 Subsec. (a). Pub. L. 85–475, §4(b)(5), struck out reference to section 4281.
 
-Subsec. (b)(1). Pub. L. 85–859, §163(a), made price readjustment provisions inapplicable in the case of an article in respect of which tax was computed under section 4223(b)(2), but if the price for which such article was sold is readjusted by reason of the return or repossession of the article, the part of the tax proportionate to the part of such price repaid or credited to the purchaser shall be deemed to be an overpayment.
+Subsec. (b)(1). Pub. L. 85–859, §163(a), made price readjustment provisions inapplicable in the case of an article in respect of which tax was computed under section 4223(b)(2), but if the price for which such article wassold is readjusted by reason of the return or repossession of the article, the part of the tax proportionate to the part of such price repaid or credited to the purchaser shall be deemed to be an overpayment.
 
 Subsec. (b)(2) amended generally by Pub. L. 85–859, §163(a), to consider as overpayments taxes paid in respect of any articles which were, by any person, exported, resold to a manufacturer or producer for use by him as provided in subpar. (A) or (B) of par. (3), resold for use, in the case of a tire, inner tube, or receiving set, as provided in subpar. (C) or (D) of par. (3) and the other article referred to in such paragraph is by any person exported or sold as provided in such paragraph, and to eliminate provisions which excluded leaf springs, coils, timers, and tire chains in the case of articles taxable under section 4061(b).
 
@@ -405,6 +407,10 @@ Subsec. (b)(2)(I). Act Aug. 11, 1955, ch. 793, added subpar. (I).
 Subsec. (b)(3)(A). Act Aug. 11, 1955, ch. 805, §1(h), inserted “and other than an automobile part or accessory taxable under section 4061(b), a refrigerator component taxable under section 4111, a radio or television component taxable under section 4141, or a camera lens taxable under section 4171” after “section 4141”.
 
 Subsec. (b)(3)(B). Act Aug. 11, 1955, ch. 805, §1(i), substituted provisions allowing a credit for automobile parts or accessories, refrigerator, radio, or television components, or camera lenses taxable under sections 4061(b), 4111, 4141, or 4171, respectively, of this title, for provisions allowing a credit for radio and television components purchased and used by a producer in the manufacture of communication, detection, or navigation receivers in commercial, military, or marine installations if such receivers were sold to the United States.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–188 effective, except as otherwise expressly provided, as if included in the provision of the Revenue Reconciliation Act of 1990, Pub. L. 101–508, title XI, to which such amendment relates, see section 1702(i) of Pub. L. 104–188, set out as a note under section 38 of this title.
 
 #### Effective Date of 1993 Amendment
 
@@ -498,7 +504,7 @@ Amendment by Pub. L. 87–61 applicable only in the case of gasoline sold on or 
 
 #### Effective Date of 1960 Amendments
 
-Amendment by Pub. L. 86–781 applicable with respect to articles sold on or after first day of first calendarquarter beginning more than twenty days after Sept. 14, 1960, see section 3 of Pub. L. 86–781, set out as a note under section 4216 of this title.
+Amendment by Pub. L. 86–781 applicable with respect to articles sold on or after first day of first calendar quarter beginning more than twenty days after Sept. 14, 1960, see section 3 of Pub. L. 86–781, set out as a note under section 4216 of this title.
 
 Amendment by Pub. L. 86–418 applicable only with respect to bicycle tires and tubes sold by the manufacturer, producer, or importer thereof on or after first day of first month which begins more than 10 days after Apr. 8, 1960, see section 4 of Pub. L. 86–418, set out as a note under section 4221 of this title.
 

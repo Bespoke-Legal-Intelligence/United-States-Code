@@ -6,7 +6,7 @@
 
 &emsp;(1) sale; or
 
-&emsp;(2) delivery to the owner thereof after he has appeared as claimant and paid the court costs and fees and storage and other proper expenses and executed and delivered a bond with good and sufficient sureties that such seed will not be sold or disposed of in any jurisdiction contrary to the provisions of this chapter and the rules and regulations made and promulgated thereunder, or the laws of such jurisdiction; or
+&emsp;(2) delivery to the owner thereof after he has appeared as claimant and paid the court costs and fees and storage and other proper expenses and executed and delivered a bond with good and sufficient sureties that such seed will not be sold or disposed of in any jurisdiction contrary to the provisions of this chapter and therules and regulations made and promulgated thereunder, or the laws of such jurisdiction; or
 
 &emsp;(3) destruction.
 

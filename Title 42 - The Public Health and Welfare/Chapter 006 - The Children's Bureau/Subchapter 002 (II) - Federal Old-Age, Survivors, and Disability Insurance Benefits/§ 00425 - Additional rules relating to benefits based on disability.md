@@ -12,91 +12,11 @@ Notwithstanding any other provision of this subchapter, payment to an individual
 
 &emsp;(2) the Commissioner of Social Security determines that the completion of such program, or its continuation for a specified period of time, will increase the likelihood that such individual may (following his participation in such program) be permanently removed from the disability benefit rolls.
 
-#### (c) Nonpayment or termination of benefits where entitlement involves alcoholism or drug addiction
-
-(1)(A) In the case of any individual entitled to benefits based on disability, if alcoholism or drug addiction is a contributing factor material to the Commissioner's determination that such individual is under a disability, such individual shall comply with the provisions of this subsection. In any case in which an individual is required to comply with the provisions of this subsection, the Commissioner of Social Security shall include, in such individual's notification of entitlement, a notice informing such individual of such requirement.
-
-(B) Notwithstanding any other provision of this subchapter, if an individual who is required under subparagraph (A) to comply with the provisions of this subsection is determined by the Commissioner of Social Security not to be in compliance with the provisions of this subsection, such individual's benefits based on disability shall be suspended for a period—
-
-&emsp;(i) commencing with the first month following the month in which such individual is notified by the Commissioner of Social Security of the determination of noncompliance and that the individual's benefits will be suspended, and
-
-&emsp;(ii) ending with the month preceding the first month, after the determination of noncompliance, in which such individual demonstrates that he or she has reestablished and maintained compliance with such provisions for the applicable period specified in paragraph (3).
-
-(2)(A) An individual described in paragraph (1) is in compliance with the requirements of this subsection for a month if in such month—
-
-&emsp;(i) such individual undergoes substance abuse treatment which is appropriate for such individual's condition diagnosed as alcoholism or drug addiction and for the stage of such individual's rehabilitation and which is conducted at an institution or facility approved for purposes of this subsection by the Commissioner of Social Security, and
-
-&emsp;(ii) such individual complies in such month with the terms, conditions, and requirements of such treatment and with requirements imposed by the Commissioner of Social Security under paragraph (5).
-
-(B) An individual described in paragraph (1) may be determined as failing to comply with the requirements of this subsection for a month only if treatment meeting the requirements of subparagraph (A)(i) is available for that month, as determined pursuant to regulations of the Commissioner of Social Security.
-
-(3) The applicable period specified in this paragraph is—
-
-&emsp;(A) 2 consecutive months, in the case of a first determination that an individual is not in compliance with the requirements of this subsection,
-
-&emsp;(B) 3 consecutive months, in the case of the second such determination with respect to the individual, or
-
-&emsp;(C) 6 consecutive months, in the case of the third or subsequent such determination with respect to the individual.
-
-(4) In any case in which an individual's benefit is suspended for a period of 12 consecutive months for failure to comply with treatment described in paragraph (2) of this subsection, the month following such period shall be deemed, for purposes of section 423(a)(1) of this title or subsection (d)(1)(G)(i), (e)(1), or (f)(1) of section 402 of this title (as applicable), the termination month with respect to such entitlement.
-
-(5)(A) The Commissioner of Social Security shall provide for the monitoring and testing of individuals who are receiving benefits under this subchapter and who as a condition of payment of such benefits are required to be undergoing treatment under paragraph (1) and complying with the terms, conditions, and requirements thereof as described in paragraph (2)(A), in order to assure such compliance.
-
-(B) The Commissioner of Social Security, in consultation with drug and alcohol treatment professionals, shall issue regulations—
-
-&emsp;(i) defining appropriate treatment for alcoholics and drug addicts who are subject to appropriate substance abuse treatment required under this subsection, and
-
-&emsp;(ii) establishing guidelines to be used to review and evaluate their compliance, including measures of the progress expected to be achieved by participants in such programs.
-
-(C)(i) For purposes of carrying out the requirements of subparagraphs (A) and (B), the Commissioner of Social Security shall provide for the establishment of one or more referral and monitoring agencies for each State.
-
-(ii) Each referral and monitoring agency for a State shall—
-
-&emsp;(I) identify appropriate placements, for individuals residing in such State who are entitled to benefits based on disability and with respect to whom alcoholism or drug addiction is a contributing factor material to the Commissioner's determination that they are under a disability, where they may obtain treatment described in paragraph (2)(A),
-
-&emsp;(II) refer such individuals to such placements for such treatment, and
-
-&emsp;(III) monitor compliance with the requirements of paragraph (2)(A) by individuals whoare referred by the agency to such placements and promptly report failures to comply to the Commissioner of Social Security.
-
-(D) There are authorized to be transferred from the Federal Old-Age and Survivors Insurance Trust Fund and the Federal Disability Insurance Trust Fund such sums as are necessary to carry out the requirements of this paragraph for referral, monitoring, and testing.
-
-(6)(A) In the case of any individual who is entitled to a benefit based on disability for any month, if alcoholism or drug addiction is a contributing factor material to the Commissioner's determination that the individual is under a disability, payment of any past-due monthly insurance benefits under this subchapter to which such individual is entitled shall be made in any month only to the extent that the sum of—
-
-&emsp;(i) the amount of such past-due benefit paid in such month, and
-
-&emsp;(ii) the amount of any benefit for the preceding month under such current entitlement which is payable in such month,
-
-> does not exceed, subject to subparagraph (B), twice the amount of such individual's benefit for the preceding month (determined without applying any reductions or deductions under this subchapter).
-
-(B)(i) In the case of an individual who is no longer currently entitled to monthly insurance benefits under this subchapter but to whom any amount of past-due benefits has not been paid, for purposes of subparagraph (A), such individual's monthly insurance benefit for such individual's last month of entitlement shall be treated as such individual's benefit for the preceding month.
-
-(ii) For the first month in which an individual's past-due benefits referred to in subparagraph (A) are paid, the amount of the limitation provided in subparagraph (A) shall be increased by the amount of any debts of such individual related to housing which are outstanding as of the end of the preceding month and which are resulting in a high risk of homelessness for such individual.
-
-(C) Upon the death of an individual to whom payment of past-due benefits has been limited under subparagraph (A), any amount of such past-due benefits remaining unpaid shall be treated as an underpayment for purposes of section 404 of this title.
-
-(D) In the case of an individual who would be entitled to benefits based on disability but for termination of such benefits under paragraph (4) or (7), such individual shall be entitled to payment of past-due benefits under this paragraph as if such individual continued to be entitled to such terminated benefits.
-
-(7)(A) Subject to subparagraph (B), in the case of any individual entitled to benefits based on disability, if—
-
-&emsp;(i) alcoholism or drug addiction is a contributing factor material to the Commissioner's determination that such individual is under a disability, and
-
-&emsp;(ii) as of the end of the 36-month period beginning with such individual's first month of entitlement, such individual would not otherwise be disabled but for alcoholism or drug addiction,
-
-> the month following such 36-month period shall be deemed, for purposes of section 423(a)(1) of this title or subsection (d)(1)(G)(i), (e)(1), or (f)(1) of section 402 of this title (as applicable), the termination month with respect to such entitlement. Such individual whose entitlement is terminated under this paragraph may not be entitled to benefits based on disability for any month following such 36-month period if, in such following month, alcoholism or drug addiction is a contributing factor material to the Commissioner's determination that such individual is under a disability.
-
-(B) In determining whether the 36-month period referred to in subparagraph (A) has elapsed—
-
-&emsp;(i) a month shall not be taken into account unless the Commissioner of Social Security determines, under regulations of the Commissioner of Social Security, that treatment required under this subsection is available to the individual for the month, and
-
-&emsp;(ii) any month for which a suspension is in effect for the individual under paragraph (1)(B) shall not be taken into account.
-
-(8) Monthly insurance benefits under this subchapter which would be payable to any individual (other than the disabled individual to whom benefits are not payable by reason of this subsection) on the basis of the wages and self-employment income of such disabled individual but for the provisions of paragraph (1), (4), or (7) shall be payable as though such paragraph did not apply.
-
-(9) For purposes of this subsection, the term “benefit based on disability” of an individual means a disability insurance benefit of such individual under section 423 of this title or a child's, widow's, or widower's insurance benefit of such individual under section 402 of this title based on the disability of such individual.
-
-(Aug. 14, 1935, ch. 531, title II, §225, as added Aug. 1, 1956, ch. 836, title I, §103(a), 70 Stat. 817; amended Aug. 28, 1958, Pub. L. 85–840, title II, §205(<i>o</i>), 72 Stat. 1025; July 30, 1965, Pub. L. 89–97, title III, §306(c)(15), 79 Stat. 373; Jan. 2, 1968, Pub. L. 90–248, title I, §§104(d)(5), 158(c)(9), 81 Stat. 833, 869; Oct. 30, 1972, Pub. L. 92–603, title I, §107(b)(5), 86 Stat. 1343; June 9, 1980, Pub. L. 96–265, title III, §301(a), 94 Stat. 449; Apr. 20, 1983, Pub. L. 98–21, title III, §309(p), 97 Stat. 117; Nov. 5, 1990, Pub. L. 101–508, title V, §5113(a), 104 Stat. 1388–273; Aug. 15, 1994, Pub. L. 103–296, title I, §107(a)(4), title II, §201(a)(3)(A), 108 Stat. 1478, 1494.)
+(Aug. 14, 1935, ch. 531, title II, §225, as added Aug. 1, 1956, ch. 836, title I, §103(a), 70 Stat. 817; amended Aug. 28, 1958, Pub. L. 85–840, title II, §205(<i>o</i>), 72 Stat. 1025; July 30, 1965, Pub. L. 89–97, title III, §306(c)(15), 79 Stat. 373; Jan. 2, 1968, Pub. L. 90–248, title I, §§104(d)(5), 158(c)(9), 81 Stat. 833, 869; Oct. 30, 1972, Pub. L. 92–603, title I, §107(b)(5), 86 Stat. 1343; June 9, 1980, Pub. L. 96–265, title III, §301(a), 94 Stat. 449; Apr. 20, 1983, Pub. L. 98–21, title III, §309(p), 97 Stat. 117; Nov. 5, 1990, Pub. L. 101–508, title V, §5113(a), 104 Stat. 1388–273; Aug. 15, 1994, Pub. L. 103–296, title I, §107(a)(4), title II, §201(a)(3)(A), 108 Stat. 1478, 1494; Mar. 29, 1996, Pub. L. 104–121, title I, §105(a)(4), 110 Stat. 853.)
 
 #### Amendments
+
+1996—Subsec. (c). Pub. L. 104–121 struck out subsec. (c) which related to nonpayment or termination of benefits where entitlement involved alcoholism or drug addiction.
 
 1994—Pub. L. 103–296, §201(a)(3)(A)(i), amended section catchline.
 
@@ -127,6 +47,10 @@ Subsec. (b)(2). Pub. L. 101–508, §5113(a)(2), substituted “Secretary” for
 1965—Pub. L. 89–97 inserted “The first sentence of this section shall not apply to any child entitled to benefits under section 402(d) of this title, if he has attained the age of 18 but has not attained the age of 22, for any month during which he is a full-time student (as defined and determined under section 402(d) of this title).”
 
 1958—Pub. L. 85–840 provided that whenever the benefits of an individual entitled to a disability insurance benefit are suspended for any month, the benefits of any individual entitled thereto under subsection (b), (c), or (d) of section 402 of this title, on the basis of the wages and self-employment income of such individual, shall be suspended for such month.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–121 applicable to any individual who applies for, or whose claim is finally adjudicated with respect to, benefits under this subchapter based on disability on or after Mar. 29, 1996, with special rule for any individual who applied, and whose claim has been finally adjudicated, before Mar. 29, 1996, see section 105(a)(5) of Pub. L. 104–121, set out as a note under section 405 of this title.
 
 #### Effective Date of 1994 Amendment; Sunset Provision
 
@@ -188,7 +112,7 @@ Section applicable only with respect to monthly benefits under this subchapter f
 
 #### Report on Referral, Monitoring, Testing and Treatment of Individuals Where Entitlement to or Termination of Benefits Involves Alcoholism or Drug Addiction
 
-Section 201(a)(3)(B) of Pub. L. 103–296 provided that: “Not later than December 31, 1996, the Secretary shall submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate a full and complete report on the Secretary's activities under paragraph (5) of section 225(c) of the Social Security Act \[subsec. (c)(5) of this section\] (as amended by subparagraph (A)). Such report shall include the number and percentage of individuals referred to in such paragraph who have not received regular drug testing since the effective date of such paragraph \[see Effective Date of 1994 Amendment; Sunset Provision note above\].”
+Section 201(a)(3)(B) of Pub. L. 103–296 provided that not later than Dec. 31, 1996, the Secretary was to submit to Congress a full and complete report on the Secretary's activities under former subsec. (c)(5) of this section, which was to include the number and percentage of individuals referred to in such provision who had not received regular drug testing since the effective date of such provision (see Effective Date of 1994 Amendment; Sunset Provision note above).
 
 #### Transition Rules for Current Beneficiaries
 
@@ -216,25 +140,7 @@ Concurrent beneficiaries not currently under treatment.—In any case in which t
 
 #### Demonstration Projects Relating to Referral, Monitoring, and Treatment for Alcoholics or Drug Addicts
 
-Section 201(c) of Pub. L. 103–296 provided that:
-
-“(1)
-
-In general.—The Secretary of Health and Human Services shall develop and carry out demonstration projects designed to explore innovative referral, monitoring, and treatment approaches with respect to—
-
-&emsp;“(A) individuals who are entitled to disability insurance benefits or child's, widow's, or widower's insurance benefits based on disability under title II of the Social Security Act \[this subchapter\], and
-
-&emsp;“(B) individuals who are eligible for supplemental security income benefits under title XVI of such Act \[subchapter XVI of this chapter\] based solely on disability,
-
-> in cases in which alcoholism or drug addiction is a contributing factor material to the Secretary's determination that individuals are under a disability. The Secretary may include in such demonstration projects individuals who are not described in either subparagraph (A) or subparagraph (B) if the inclusion of such individuals is necessary to determine the efficacy of various monitoring, referral, and treatment approaches for individuals described in subparagraph (A) or (B).
-
-“(2)
-
-Scope.—The demonstration projects developed under paragraph (1) shall be of sufficient scope and shall be carried out on a wide enough scale to permit a thorough evaluation of the alternative approaches under consideration while giving assurance that the results derived from the projects will obtain generally in the operation of the programs involved without committing such programs to the adoption of any particular system either locally or nationally.
-
-“(3)
-
-Final report.—The Secretary shall submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate no later than December 31, 1997, a final report on the demonstration projects carried out under this subsection, together with any related data and materials which the Secretary may consider appropriate. The authority under this section shall terminate upon the transmittal of such final report.”
+Section 201(c) of Pub. L. 103–296 related to demonstration projects relating to referral, monitoring, and treatment for alcoholics or drug addicts, prior to repeal by Pub. L. 104–121, title I, §105(c), Mar. 29, 1996, 110 Stat. 855.
 
 #### Payment of Costs of Rehabilitation Services
 
@@ -242,5 +148,5 @@ Amendment of sections 422 and 1382d of this title by section 11(a), (b) of Pub. 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 416, 422, 426, 426–1, 1382 of this title.
+This section is referred to in sections 416, 422, 426, 426–1 of this title.
 

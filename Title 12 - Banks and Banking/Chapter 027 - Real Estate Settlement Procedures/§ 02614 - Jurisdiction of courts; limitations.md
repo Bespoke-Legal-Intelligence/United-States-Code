@@ -1,10 +1,12 @@
 ### §2614. Jurisdiction of courts; limitations
 
-Any action pursuant to the provisions of section 2607 or 2608 of this title may be brought in the United States district court or in any other court of competent jurisdiction, for the district in which the property involved is located, or where the violation is alleged to have occurred, within one year from the date of the occurrence of the violation, except that actions brought by the Secretary, the Attorney General of any State, or the insurance commissioner of any State may be brought within 3 years from the date of the occurrence of the violation.
+Any action pursuant to the provisions of section 2605, 2607, or 2608 of this title may be brought in the United States district court or in any other court of competent jurisdiction, for the district in which the property involved is located, or where the violation is alleged to have occurred, within 3 years in the case of a violation of section 2605 of this title and 1 year in the case of a violation of section 2607 or 2608 of this title from the date of the occurrence of the violation, except that actions brought by the Secretary, the Attorney General of any State, or the insurance commissioner of any State may be brought within 3 years from the date of the occurrence of the violation.
 
-(Pub. L. 93–533, §16, Dec. 22, 1974, 88 Stat. 1731; Pub. L. 98–181, title IV, §461(d), Nov. 30, 1983, 97 Stat. 1232.)
+(Pub. L. 93–533, §16, Dec. 22, 1974, 88 Stat. 1731; Pub. L. 98–181, title IV, §461(d), Nov. 30, 1983, 97 Stat. 1232; Pub. L. 104–208, div. A, title II, §2103(e), Sept. 30, 1996, 110 Stat. 3009–400.)
 
 #### Amendments
+
+1996—Pub. L. 104–208 substituted “section 2605, 2607, or 2608 of this title” for “section 2607 or 2608 of this title” and “within 3 years in the case of a violation of section 2605 of this title and 1 year in the case of a violation of section 2607 or 2608 of this title” for “within one year”.
 
 1983—Pub. L. 98–181 amended section generally, striking out a reference to section 2605 of this title, and inserting provision allowing action in district where violation is alleged to have occurred, and provision relating to time limitations in actions brought by the Secretary, the Attorney General of any State, or the insurance commissioner of any State.
 

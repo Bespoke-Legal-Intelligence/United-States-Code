@@ -4,3 +4,7 @@ Except in the case of fraud, any action to recover penalties under this chapter 
 
 (Pub. L. 97–451, title III, §307, Jan. 12, 1983, 96 Stat. 2462.)
 
+#### Applicability
+
+Section no longer applicable with respect to Federal lands, but applicability of section to Indian leases notaffected, see section 8(a) of Pub. L. 104–185, set out as a note under section 1732 of this title.
+

@@ -44,7 +44,7 @@ Annexes and Annexes I and III to these Rules, referred to in par. (d), are to be
 
 Rule 22, referred to in par. (d)(i), is classified to section 2022 of this title.
 
-The effective date of these Rules, referred to in par. (d), is 12 months after Dec. 24, 1980, except on the Great Lakes, where the effective date was established as Mar. 1, 1983. See section 7 of Pub. L. 96–591, set out as an Effective Date note under section 2001 of this title.
+The effective date of these Rules, referred to in par. (d), is 12 months after Dec. 24, 1980, except on the GreatLakes, where the effective date was established as Mar. 1, 1983. See section 7 of Pub. L. 96–591, set out as an Effective Date note under section 2001 of this title.
 
 Rule 23, referred to in par. (d)(vi), is classified to section 2023 of this title.
 

@@ -49,10 +49,22 @@
 | [670\.](%C2%A7%2000670%20-%20Procurement%20authority%20for%20family%20housing.md) | Procurement authority for family housing. |
 | [671\.](%C2%A7%2000671%20-%20Air%20Station%20Cape%20Cod%20Improvements.md) | Air Station Cape Cod Improvements. |
 | [672\.](%C2%A7%2000672%20-%20Long-term%20lease%20authority%20for%20navigation%20and%20communications%20systems%20sites.md) | Long-term lease authority for navigation and communications systems sites. |
+| 673\.<sup>2</sup> | Designation, powers, and accountability of deputy disbursing officials. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+|  |  |
+| :--- | ---: |
+| 673\.<sup>2</sup> | Small boat station rescue capability. |
+| [674\.](%C2%A7%2000674%20-%20Small%20boat%20station%20closures.md) | Small boat station closures. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1996—Pub. L. 104–324, title III, §309(b), Oct. 19, 1996, 110 Stat. 3919, added item 673 “Small boat station rescue capability” and item 674.
+
+Pub. L. 104–201, div. A, title X, §1009(a)(2)(B), Sept. 23, 1996, 110 Stat. 2634, added item 673 “Designation, powers, and accountability of deputy disbursing officials”.
 
 1993—Pub. L. 103–206, title III, §§302(b), 303(b), 304(b), Dec. 20, 1993, 107 Stat. 2423, 2424, added items 670, 671, and 672.
 
@@ -97,6 +109,8 @@ Pub. L. 100–448, §§26(b), 29(b), Sept. 28, 1988, 102 Stat. 1848, 1849, added
 Procurement of property and services by Coast Guard, see section 2301 et seq. of Title 10, Armed Forces.
 
 <i><sup>1</sup></i><i> So in original. Capitalization does not conform to section catchline.</i>
+
+<i><sup>2</sup></i><i> So in original. Two sections 673 have been enacted.</i>
 
 
 ---
@@ -145,3 +159,6 @@ Procurement of property and services by Coast Guard, see section 2301 et seq. of
 - [&sect; 00670 - Procurement authority for family housing](%C2%A7%2000670%20-%20Procurement%20authority%20for%20family%20housing.md)
 - [&sect; 00671 - Air Station Cape Cod Improvements](%C2%A7%2000671%20-%20Air%20Station%20Cape%20Cod%20Improvements.md)
 - [&sect; 00672 - Long-term lease authority for navigation and communications systems sites](%C2%A7%2000672%20-%20Long-term%20lease%20authority%20for%20navigation%20and%20communications%20systems%20sites.md)
+- [&sect; 00673 - 1 Designation, powers, and accountability of deputy disbursing officials](%C2%A7%2000673%20-%201%20Designation%2C%20powers%2C%20and%20accountability%20of%20deputy%20disbursing%20officials.md)
+- [&sect; 00673 - 1 Small boat station rescue capability](%C2%A7%2000673%20-%201%20Small%20boat%20station%20rescue%20capability.md)
+- [&sect; 00674 - Small boat station closures](%C2%A7%2000674%20-%20Small%20boat%20station%20closures.md)

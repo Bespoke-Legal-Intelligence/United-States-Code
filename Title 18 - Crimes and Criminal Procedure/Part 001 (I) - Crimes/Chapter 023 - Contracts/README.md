@@ -8,7 +8,7 @@
 | \[434. | Repealed.\] |
 | [435\.](%C2%A7%2000435%20-%20Contracts%20in%20excess%20of%20specific%20appropriation.md) | Contracts in excess of specific appropriation. |
 | [436\.](%C2%A7%2000436%20-%20Convict%20labor%20contracts.md) | Convict labor contracts. |
-| [437\.](%C2%A7%2000437%20-%20Federal%20employees%20contracting%20or%20trading%20with%20Indians.md) | Federal employees contracting or trading with Indians. |
+| \[437. | Repealed.\] |
 | [438\.](%C2%A7%2000438%20-%20Indian%20contracts%20for%20services%20generally.md) | Indian contracts for services generally. |
 | [439\.](%C2%A7%2000439%20-%20Indian%20enrollment%20contracts.md) | Indian enrollment contracts. |
 | [440\.](%C2%A7%2000440%20-%20Mail%20contracts.md) | Mail contracts. |
@@ -19,6 +19,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1996—Pub. L. 104–178, §1(b), Aug. 6, 1996, 110 Stat. 1565, struck out item 437 “Federal employees contracting or trading with Indians”.
 
 1994—Pub. L. 103–322, title XXXIII, §330010(13), Sept. 13, 1994, 108 Stat. 2144, struck out extraneous period after “Indians” in item 437.
 
@@ -37,7 +39,7 @@
 - [&sect; 00434 - Repealed. Pub. L. 87&#8211;849, &sect;2, Oct. 23, 1962, 76 Stat. 1126](%C2%A7%2000434%20-%20Repealed.%20Pub.%20L.%2087%E2%80%93849%2C%20%C2%A72%2C%20Oct.%2023%2C%201962%2C%2076%20Stat.%201126.md)
 - [&sect; 00435 - Contracts in excess of specific appropriation](%C2%A7%2000435%20-%20Contracts%20in%20excess%20of%20specific%20appropriation.md)
 - [&sect; 00436 - Convict labor contracts](%C2%A7%2000436%20-%20Convict%20labor%20contracts.md)
-- [&sect; 00437 - Federal employees contracting or trading with Indians](%C2%A7%2000437%20-%20Federal%20employees%20contracting%20or%20trading%20with%20Indians.md)
+- [&sect; 00437 - Repealed. Pub. L. 104&#8211;178, &sect;1(a), Aug. 6, 1996, 110 Stat. 1565](%C2%A7%2000437%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93178%2C%20%C2%A71%28a%29%2C%20Aug.%206%2C%201996%2C%20110%20Stat.%201565.md)
 - [&sect; 00438 - Indian contracts for services generally](%C2%A7%2000438%20-%20Indian%20contracts%20for%20services%20generally.md)
 - [&sect; 00439 - Indian enrollment contracts](%C2%A7%2000439%20-%20Indian%20enrollment%20contracts.md)
 - [&sect; 00440 - Mail contracts](%C2%A7%2000440%20-%20Mail%20contracts.md)

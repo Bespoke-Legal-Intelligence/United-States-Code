@@ -12,7 +12,7 @@ There shall be in the Department of the Treasury a service to be known as the Un
 
 #### Codification
 
-Provisions that fixed the compensation of the Commissioner have been omitted as the position is under the Executive Schedule, see section 5316 of Title 5, Government Organization and Employees.
+Provisions that fixed the compensation of the Commissioner have been omitted as the position is underthe Executive Schedule, see section 5316 of Title 5, Government Organization and Employees.
 
 Provisions that authorized appointment of the Commissioner “without regard to the civil service laws” were omitted as the appointment is subject to the civil service laws unless specifically excepted by such laws or by laws enacted subsequent to Executive Order No. 8743, Apr. 23, 1941, issued by the President pursuant to the act of Nov. 26, 1940, ch. 919, title I, §1, 54 Stat. 1211, which covered most excepted positions into the classified (competitive) civil service. The Order is set out as a note under section 3301 of Title 5. The position is currently excepted from the civil service rules and regulations by Schedule C, see Part 213 of Title 5 of the Code of Federal Regulations.
 
@@ -54,7 +54,7 @@ Customs Preclearance.—The Secretary of the Treasury, in consultation with the 
 
 Recovery for Customs Damage.—
 
-&emsp;“(1) The Secretary of the Treasury, in consultation with the Attorney General, shall determine and evaluate various means by which persons whose merchandise is damaged during customs examinations may seek compensation from, or take other recourseagainst, the United States Customs Service regarding the damage.
+&emsp;“(1) The Secretary of the Treasury, in consultation with the Attorney General, shall determine and evaluate various means by which persons whose merchandise is damaged during customs examinations may seek compensation from, or take other recourse against, the United States Customs Service regarding the damage.
 
 &emsp;“(2) No later than February 1, 1991, the Secretary of the Treasury shall submit to the Committees a report on the evaluation required under paragraph (1), together with any legislative recommendation that the Secretary considers appropriate.
 
@@ -88,7 +88,7 @@ Restrictions Regarding Program.—
 
 &emsp;&emsp;“(E) United States employees and their families will not be subject to fear of reprisal, acts of terrorism, and threats of intimidation.
 
-&emsp;“(3) In determining the country in which to establish the operation described in paragraph (1), the Commissioner of Customs and the Commissioner of Immigration and Naturalization shall first determine the viability of establishing such operations in either Aruba or Jamaica. If the Commissioners determine, after full consultation with the governments of such countries, that it is not viable to establish pre-clearance operations in either Aruba or Jamaica, they shall so report to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives, including an explanation of how this determination was reached. Such report shall be submitted to those Committees within six months after the date of the enactment of this Act \[Aug. 20, 1990\]. Following the submission of such a report, the Commissioners shall take all necessary steps, consistent with the requirements of this section, to establish such operations in another country.
+&emsp;“(3) In determining the country in which to establish the operation described in paragraph (1), the Commissioner of Customs and the Commissioner of Immigration and Naturalization shall first determine the viability of establishing such operations in either Aruba or Jamaica. If the Commissioners determine,after full consultation with the governments of such countries, that it is not viable to establish pre-clearance operations in either Aruba or Jamaica, they shall so report to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives, including an explanation of how this determination was reached. Such report shall be submitted to those Committees within six months after the date of the enactment of this Act \[Aug. 20, 1990\]. Following the submission of such a report, the Commissioners shall take all necessary steps, consistent with the requirements of this section, to establish such operations in another country.
 
 “(c)
 

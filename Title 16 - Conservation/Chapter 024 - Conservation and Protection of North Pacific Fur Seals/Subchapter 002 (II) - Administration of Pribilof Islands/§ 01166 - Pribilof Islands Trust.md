@@ -16,7 +16,7 @@ The Trust shall be administered in accordance with such terms and conditions as 
 
 #### (c) Trust instruments
 
-There may be one Trust instrument establishing the Trust described in subsection (a) of this section, or two such instruments, each relatingto one of the two portions of the Trust as provided in subsection (d) of this section, which shall address, but need not be limited to, such matters as—
+There may be one Trust instrument establishing the Trust described in subsection (a) of this section, or two such instruments, each relating to one of the two portions of the Trust as provided in subsection (d) of this section, which shall address, but need not be limited to, such matters as—
 
 &emsp;(1) establishing standards and procedures for the disbursement by the trustee or trustees of Trust assets for purposes of fostering in the Pribilof Islands a stable, diversified, and enduring economy not dependent upon sealing after Federal management of the islands is terminated, which procedures may include formal participation of Pribilof Islands Native councils, corporations, or other such entities;
 
@@ -82,7 +82,7 @@ In subsec. (g), “October 14, 1983” substituted for “enactment of this Act�
 
 1988—Subsec. (e)(1). Pub. L. 100–711 authorized appropriations for fiscal years 1989 and 1990 to fund the Saint Paul Island Trust, and authorized appropriations for fiscal year 1990 to fund the Saint George Trust.
 
-1983—Pub. L. 98–129 amended section generally, substituting provisions for the creation and functioning ofa Pribilof Islands Trust for provisions which authorized the Secretary to set apart land on Saint Paul Island for a townsite and to aid in the development of a municipal government therefor.
+1983—Pub. L. 98–129 amended section generally, substituting provisions for the creation and functioning of a Pribilof Islands Trust for provisions which authorized the Secretary to set apart land on Saint Paul Island for a townsite and to aid in the development of a municipal government therefor.
 
 #### Section Referred to in Other Sections
 

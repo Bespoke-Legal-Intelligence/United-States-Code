@@ -122,11 +122,11 @@
 
 #### (E) Comments by interested parties
 
-&emsp;&emsp;Before the administering authority makes a determination with respect to initiating an investigation, any person who would qualify as an interested party under section 1677(9) of this title if an investigation were initiated, may submit comments or information on the issue of industry support. After the administering authority makes a determination with respect to initiating an investigation, the determination regarding industry support shall not be reconsidered.
+&emsp;&emsp;Before the administering authority makes a determination with respect to initiatingan investigation, any person who would qualify as an interested party under section 1677(9) of this title if an investigation were initiated, may submit comments or information on the issue of industry support. After the administering authority makes a determination with respect to initiating an investigation, the determination regarding industry support shall not be reconsidered.
 
 #### (5) “Domestic producers or workers” defined
 
-&emsp;For purposes of this subsection, the term “domestic producers or workers” means those interested parties who are eligible to file a petition under subsection (b)(1)(A) <sup>1</sup> of this section.
+&emsp;For purposes of this subsection, the term “domestic producers or workers” means those interested parties who are eligible to file a petition under subsection (b)(1) of this section.
 
 #### (d) Notification to Commission of determination
 
@@ -140,19 +140,25 @@ The administering authority shall—
 
 If, at any time after the initiation of an investigation under this part, the administering authority finds a reasonable basis to suspect that—
 
-&emsp;(1) there is a history of dumping in the United States or elsewhere of the the <sup>2</sup> subject merchandise, or
+&emsp;(1) there is a history of dumping in the United States or elsewhere of the subject merchandise, or
 
 &emsp;(2) the person by whom, or for whose account, the merchandise was imported knew, or should have known, that the exporter was selling the subject merchandise at less than its fair value,
 
 > the administering authority may request the Commissioner of Customs to compile information on an expedited basis regarding entries of the subject merchandise. Upon receiving such request, the Commissioner of Customs shall collect information regarding the volume and value of entries of the subject merchandise and shall transmit such information to the administering authority at such times as the administering authority shall direct (at least once every 30 days), until a final determination is made under section 1673d(a) of this title, the investigation is terminated, or the administering authority withdraws the request.
 
-(June 17, 1930, ch. 497, title VII, §732, as added July 26, 1979, Pub. L. 96–39, title I, §101, 93 Stat. 162; amended Oct. 30, 1984, Pub. L. 98–573, title VI, §609, 98 Stat. 3030; Oct. 22, 1986, Pub. L. 99–514, title XVIII, §1886(a)(2), 100 Stat. 2921; Aug. 23, 1988, Pub. L. 100–418, title I, §§1324(b)(1), 1326(d)(1), 102 Stat. 1200, 1204; Dec. 8, 1994, Pub. L. 103–465, title II, §§211(b), 212(a)(2), 233(a)(5)(P)–(R), (6)(A)(v)–(vii), (C), 108 Stat. 4843, 4845, 4900, 4901.)
+(June 17, 1930, ch. 497, title VII, §732, as added July 26, 1979, Pub. L. 96–39, title I, §101, 93 Stat. 162; amended Oct. 30, 1984, Pub. L. 98–573, title VI, §609, 98 Stat. 3030; Oct. 22, 1986, Pub. L. 99–514, title XVIII, §1886(a)(2), 100 Stat. 2921; Aug. 23, 1988, Pub. L. 100–418, title I, §§1324(b)(1), 1326(d)(1), 102 Stat. 1200, 1204; Dec. 8, 1994, Pub. L. 103–465, title II, §§211(b), 212(a)(2), 233(a)(5)(P)–(R), (6)(A)(v)–(vii), (C), 108 Stat. 4843, 4845, 4900, 4901; Oct. 11, 1996, Pub. L. 104–295, §20(b)(4), (8), (9), 110 Stat. 3527.)
 
 #### Amendments
 
+1996—Subsec. (a)(2)(B). Pub. L. 104–295, §20(b)(9), amended directory language of Pub. L. 103–465, §233(a)(6)(C). See 1994 Amendment note below.
+
+Subsec. (c)(5). Pub. L. 104–295, §20(b)(4), substituted “(b)(1)” for “(b)(1)(A)”.
+
+Subsec. (e)(1). Pub. L. 104–295, §20(b)(8), substituted “the” for “the the” before “subject merchandise”.
+
 1994—Subsec. (a)(1). Pub. L. 103–465, §233(a)(6)(A)(v), substituted “initiated” for “commenced”.
 
-Subsec. (a)(2)(B). Pub. L. 103–465, §233(a)(6)(C), which directed the amendment of subpar. (B) by striking “commence” and inserting “initiate”, was executed by making the substitution in two places in text to reflect the probable intent of Congress.
+Subsec. (a)(2)(B). Pub. L. 103–465, §233(a)(6)(C), as amended by Pub. L. 104–295, §20(b)(9), substituted “initiate” for “commerce” in two places.
 
 Subsec. (a)(2)(D). Pub. L. 103–465, §233(a)(6)(A)(vi), substituted “initiated” for “commenced”.
 
@@ -164,7 +170,7 @@ Subsec. (c). Pub. L. 103–465, §212(a)(2), amended heading and text of subsec.
 
 &emsp;“(1) determine whether the petition alleges the elements necessary for the imposition of a duty under section 1673 of this title and contains information reasonably available to the petitioner supporting the allegations,
 
-&emsp;“(2) if the determination is affirmative, commence an investigation to determine whether the class or kind of merchandise described in the petition isbeing, or is likely to be, sold in the United States at less than its fair value, and provide for the publication of notice of the determination in the Federal Register, and
+&emsp;“(2) if the determination is affirmative, commence an investigation to determine whether the class or kind of merchandise described in the petition is being, or is likely to be, sold in the United States at less than its fair value, and provide for the publication of notice of the determination in the Federal Register, and
 
 &emsp;“(3) if the determination is negative, dismiss the petition, terminate the proceeding, notify the petitioner in writing of the reasons for the determination, and provide for the publication of notice of the determination in the Federal Register.”
 
@@ -201,8 +207,4 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 1516a, 1673b, 1673c, 1677, 1677b, 1677f, 1677i of this title.
-
-<i><sup>1</sup></i><i> So in original. Subsec. (b)(1) of this section does not contain subpars.</i>
-
-<i><sup>2</sup></i><i> So in original.</i>
 

@@ -1,5 +1,9 @@
 Part III—Franchising and Regulation
 
+#### Part Referred to in Other Sections
+
+This part is referred to in sections 571, 573 of this title.
+
 
 ---
 
@@ -14,3 +18,4 @@ Part III—Franchising and Regulation
 - [&sect; 00546 - Renewal](%C2%A7%2000546%20-%20Renewal.md)
 - [&sect; 00547 - Conditions of sale](%C2%A7%2000547%20-%20Conditions%20of%20sale.md)
 - [&sect; 00548 - Development of competition and diversity in video programming distribution](%C2%A7%2000548%20-%20Development%20of%20competition%20and%20diversity%20in%20video%20programming%20distribution.md)
+- [&sect; 00549 - Competitive availability of navigation devices](%C2%A7%2000549%20-%20Competitive%20availability%20of%20navigation%20devices.md)

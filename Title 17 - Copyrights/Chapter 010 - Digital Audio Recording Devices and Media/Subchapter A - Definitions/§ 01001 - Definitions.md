@@ -44,7 +44,7 @@ As used in this chapter, the following terms have the following meanings:
 
 &emsp;&emsp;(A) the owner of the exclusive right under section 106(1) of this title to reproduce a sound recording of a musical work that has been embodied in a digital musical recording or analog musical recording lawfully made under this title that has been distributed;
 
-&emsp;&emsp;(B) the legal or beneficial owner of, or the person that controls, the right to reproduce in a digital musical recording or analog musical recording a musical work that has been embodied in a digital musical recording or analog musical recording lawfully made under this title that has been distributed;
+&emsp;&emsp;(B) the legal or beneficial owner of, or the person that controls, the right to reproduce in a digital musical recording or analog musical recording a musical work that has beenembodied in a digital musical recording or analog musical recording lawfully made under this title that has been distributed;
 
 &emsp;&emsp;(C) a featured recording artist who performs on a sound recording that has been distributed; or
 
@@ -86,7 +86,7 @@ Section 4 of Pub. L. 102–563 provided that: “This Act \[see Short Title note
 
 #### Short Title
 
-Section 1 of Pub. L. 102–563 provided that: “This Act \[enacting this chapter, amending sections 101, 801, 804,and 912 of this title, and section 1337 of Title 19, Customs Duties, and enacting provisions set out as a note above\] may be cited as the ‘Audio Home Recording Act of 1992’.”
+Section 1 of Pub. L. 102–563 provided that: “This Act \[enacting this chapter, amending sections 101, 801, 804, and 912 of this title, and section 1337 of Title 19, Customs Duties, and enacting provisions set out as a note above\] may be cited as the ‘Audio Home Recording Act of 1992’.”
 
 #### Section Referred to in Other Sections
 

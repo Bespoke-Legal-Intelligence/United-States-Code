@@ -56,7 +56,7 @@ The duties of the Commission are as follows:
 
 #### (3) Pay
 
-&emsp;Members of the Commission shall serve without pay; except that any member of the Commission appointed under paragraph (1)(J)shall while attending meetings of and attending hearings held by the Commission be entitled to travel or transportation expenses in accordance with section 5703 of title 5.
+&emsp;Members of the Commission shall serve without pay; except that any member of the Commission appointed under paragraph (1)(J) shall while attending meetings of and attending hearings held by the Commission be entitled to travel or transportation expenses in accordance with section 5703 of title 5.
 
 #### (4) Quorum
 
@@ -158,7 +158,7 @@ Upon request of the Commission, the Secretary of State, the Secretary of Commerc
 
 #### References in Text
 
-The provisions of title 5 governing appointments in the competitive service, referred to in subsec. (d)(2), are classified generally to section 3301 et seq. of Title 5, Government Organization and Employees.
+The provisions of title 5 governing appointments in the competitive service, referred to in subsec. (d)(2), areclassified generally to section 3301 et seq. of Title 5, Government Organization and Employees.
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 

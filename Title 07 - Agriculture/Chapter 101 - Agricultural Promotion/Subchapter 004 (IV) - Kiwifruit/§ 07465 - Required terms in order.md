@@ -1,0 +1,146 @@
+### §7465. Required terms in order
+
+#### (a) Budgets and plans
+
+#### (1) In general
+
+&emsp;An order issued under section 7463 of this title shall provide for periodic budgets and plans in accordance with this subsection.
+
+#### (2) Budgets
+
+&emsp;The Board shall prepare and submit to the Secretary a budget prior to the beginning of the fiscal year of the anticipated expenses and disbursements of the Board in the administration of the order, including probable costs of research, promotion, and consumer information. A budget shall become effective on a 2/3-vote of a quorum of the Board and approval by the Secretary.
+
+#### (3) Plans
+
+&emsp;Each budget shall include a plan for research, promotion, and consumer information regarding kiwifruit. A plan under this paragraph shall become effective on approval by the Secretary. The Board may enter into contracts and agreements, on approval by the Secretary, for—
+
+&emsp;&emsp;(A) the development and carrying out of the plan; and
+
+&emsp;&emsp;(B) the payment of the cost of the plan, with funds collected pursuant to this subchapter.
+
+#### (b) Assessments
+
+#### (1) In general
+
+&emsp;The order shall provide for the imposition and collection of assessments with regard to the production and importation of kiwifruit in accordance with this subsection.
+
+#### (2) Rate
+
+&emsp;The assessment rate shall be the rate that is recommended by a 2/3-vote of a quorum of the Board and approved by the Secretary, except that the rate shall not exceed $0.10 per 7-pound tray of kiwifruit or an equivalent rate.
+
+#### (3) Collection by first handlers
+
+&emsp;Except as provided in paragraph (5), the first handler of kiwifruit shall—
+
+&emsp;&emsp;(A) be responsible for the collection from the producer, and payment to the Board, of assessments required under this subsection; and
+
+&emsp;&emsp;(B) maintain a separate record of the kiwifruit of each producer whose kiwifruit are so handled, including the kiwifruit owned by the handler.
+
+#### (4) Importers
+
+&emsp;The assessment on imported kiwifruit shall be paid by the importer to the United States Customs Service at the time of entry into the United States and shall be remitted to the Board.
+
+#### (5) Exemption from assessment
+
+&emsp;The following persons or activities are exempt from an assessment under this subsection:
+
+&emsp;&emsp;(A) A producer who produces less than 500 pounds of kiwifruit per year.
+
+&emsp;&emsp;(B) An importer who imports less than 10,000 pounds of kiwifruit per year.
+
+&emsp;&emsp;(C) A sale of kiwifruit made directly from the producer to a consumer for a purpose other than resale.
+
+&emsp;&emsp;(D) The production or importation of kiwifruit for processing.
+
+#### (6) Claim of exemption
+
+&emsp;To claim an exemption under paragraph (5) for a particular year, a person shall—
+
+&emsp;&emsp;(A) submit an application to the Board stating the basis for the exemption and certifying that the quantity of kiwifruit produced, imported, or sold by the person will not exceed any poundage limitation required for the exemption in the year; or
+
+&emsp;&emsp;(B) be on a list of approved processors developed by the Board.
+
+#### (c) Use of assessments
+
+#### (1) Authorized uses
+
+&emsp;The order shall provide that funds paid to the Board as assessments under subsection (b) of this section may be used by the Board—
+
+&emsp;&emsp;(A) to pay for research, promotion, and consumer information described in the budget of the Board under subsection (a) of this section and for other expenses incurred by the Board in the administration of an order;
+
+&emsp;&emsp;(B) to pay such other expenses for the administration, maintenance, and functioning of the Board (including any enforcement efforts for the collection of assessments) as may be authorized by the Secretary, including interest and penalties for late payments; and
+
+&emsp;&emsp;(C) to fund a reserve established under section 7466(d) of this title.
+
+#### (2) Required uses
+
+&emsp;The order shall provide that funds paid to the Board as assessments under subsection (b) of this section shall be used by the Board—
+
+&emsp;&emsp;(A) to pay the expenses incurred by the Secretary, including salaries and expenses of Federal Government employees, in implementing and administering the order; and
+
+&emsp;&emsp;(B) to reimburse the Secretary for any expenses incurred by the Secretary in conducting referenda under this subchapter.
+
+#### (3) Limitation on use of assessments
+
+&emsp;Except for the first year of operation of the Board, expenses for the administration, maintenance, and functioning of the Board may not exceed 30 percent of the budget for a year.
+
+#### (d) False claims
+
+The order shall provide that any promotion funded with assessments collected under subsection (b) of this section may not make—
+
+&emsp;(1) any false claims on behalf of kiwifruit; and
+
+&emsp;(2) any false statements with respect to the attributes or use of any product that competes with kiwifruit for sale in commerce.
+
+#### (e) Prohibition on use of funds
+
+The order shall provide that funds collected by the Board under this subchapter through assessments may not, in any manner, be used for the purpose of influencing legislation or governmental policy or action, except for making recommendations to the Secretary as provided for under this subchapter.
+
+#### (f) Books, records, and reports
+
+#### (1) Board
+
+&emsp;The order shall require the Board—
+
+&emsp;&emsp;(A) to maintain books and records with respect to the receipt and disbursement of funds received by the Board;
+
+&emsp;&emsp;(B) to submit to the Secretary from time to time such reports as the Secretary may require for appropriate accounting; and
+
+&emsp;&emsp;(C) to submit to the Secretary at the end of each fiscal year a complete audit report by an independent auditor regarding the activities of the Board during the fiscal year.
+
+#### (2) Others
+
+&emsp;To make information and data available to the Board and the Secretary that is appropriate or necessary for the effectuation, administration, or enforcement of this subchapter (or any order or regulation issued under this subchapter), the order shall require handlers and importers who are responsible for the collection, payment, or remittance of assessments under subsection (b) of this section—
+
+&emsp;&emsp;(A) to maintain and make available for inspection by the employees and agents of the Board and the Secretary such books and records as may be required by the order; and
+
+&emsp;&emsp;(B) to file, at the times and in the manner and content prescribed by the order, reports regarding the collection, payment, or remittance of the assessments.
+
+#### (g) Confidentiality
+
+#### (1) In general
+
+&emsp;The order shall require that all information obtained pursuant to subsection (f)(2) of this section be kept confidential by all officers, employees, and agents of the Department of Agriculture and of the Board. Only such information as the Secretary considers relevant shall be disclosed to the public and only in a suit or administrative hearing, brought at the request of the Secretary or to which the Secretary or any officer of the United States is a party, involving the order with respect to which the information was furnished or acquired.
+
+#### (2) Limitations
+
+&emsp;Nothing in this subsection prohibits—
+
+&emsp;&emsp;(A) the issuance of general statements based on the reports of a number of handlers and importers subject to an order, if the statements do not identify the information furnished by any person; or
+
+&emsp;&emsp;(B) the publication, by direction of the Secretary, of the name of any person violating an order issued under section 7463(a) of this title, together with a statement of the particular provisions of the order violated by the person.
+
+#### (3) Penalty
+
+&emsp;Any person who willfully violates this subsection, on conviction, shall be subject to a fine of not more than $1,000 or to imprisonment for not more than 1 year, or both, and, if the person is a member, officer, or agent of the Board or an employee of the Department of Agriculture, shall be removed from office.
+
+#### (h) Withholding of information
+
+Nothing in this subchapter authorizes the withholding of information from Congress.
+
+(Pub. L. 104–127, title V, §556, Apr. 4, 1996, 110 Stat. 1067.)
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 7464, 7466 of this title.
+

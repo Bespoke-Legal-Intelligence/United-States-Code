@@ -42,6 +42,8 @@ Subsections (b) and (c) shall be applied by taking into account (to the extent p
 
 &emsp;(2) the adjustments to the accumulated adjustments account which are required by subsection (e)(1).
 
+> In the case of any distribution made during any taxable year, the adjusted basis of the stock shall be determined with regard to the adjustments provided in paragraph (1) of section 1367(a) for the taxable year.
+
 #### (e) Definitions and special rules
 
 For purposes of this section—
@@ -50,11 +52,25 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), the term “accumulated adjustments account” means an account of the S corporation which is adjusted for the S period in a manner similar to the adjustments under section 1367 (except that no adjustment shall be made for income (and related expenses) which is exempt from tax under this title and the phrase “(but not below zero)” shall be disregarded in section 1367(b)(2)(A)) and no adjustment shall be made for Federal taxes attributable to any taxable year in which the corporation was a C corporation.
+&emsp;&emsp;Except as otherwise provided in this paragraph, the term “accumulated adjustments account” means an account of the S corporation which is adjusted for the S period in a manner similar to the adjustments under section 1367 (except that no adjustment shall be made for income (and related expenses) which is exempt from tax under this title and the phrase “(but not below zero)” shall be disregarded in section 1367(a)(2)) and no adjustment shall be made for Federal taxesattributable to any taxable year in which the corporation was a C corporation.
 
 #### (B) Amount of adjustment in the case of redemptions
 
 &emsp;&emsp;In the case of any redemption which is treated as an exchange under section 302(a) or 303(a), the adjustment in the accumulated adjustments account shall be an amount which bears the same ratio to the balance in such account as the number of shares redeemed in such redemption bears to the number of shares of stock in the corporation immediately before such redemption.
+
+#### (C) Net loss for year disregarded
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;In applying this section to distributions made during any taxable year, the amount in the accumulated adjustments account as of the close of such taxable year shall be determined without regard to any net negative adjustment for such taxable year.
+
+#### (ii) Net negative adjustment
+
+&emsp;&emsp;&emsp;For purposes of clause (i), the term “net negative adjustment” means, with respect to any taxable year, the excess (if any) of—
+
+&emsp;&emsp;&emsp;&emsp;(I) the reductions in the account for the taxable year (other than for distributions), over
+
+&emsp;&emsp;&emsp;&emsp;(II) the increases in such account for such taxable year.
 
 #### (2) S period
 
@@ -70,9 +86,15 @@ For purposes of this section—
 
 &emsp;&emsp;For purposes of subparagraph (A), the term “affected shareholder” means any shareholder to whom a distribution is made by the S corporation during the taxable year.
 
-(Added Pub. L. 97–354, §2, Oct. 19, 1982, 96 Stat. 1680; amended Pub. L. 97–448, title III, §305(d)(2), Jan. 12, 1983, 96 Stat. 2399; Pub. L. 98–369, div. A, title VII, §721(r), July 18, 1984, 98 Stat. 970; Pub. L. 99–514, title XVIII, §1879(m)(1)(B), Oct. 22, 1986, 100 Stat. 2910.)
+(Added Pub. L. 97–354, §2, Oct. 19, 1982, 96 Stat. 1680; amended Pub. L. 97–448, title III, §305(d)(2), Jan. 12, 1983, 96 Stat. 2399; Pub. L. 98–369, div. A, title VII, §721(r), July 18, 1984, 98 Stat. 970; Pub. L. 99–514, title XVIII, §1879(m)(1)(B), Oct. 22, 1986, 100 Stat. 2910; Pub. L. 104–188, title I, §1309(a)(2)–(c), Aug. 20, 1996, 110 Stat. 1783.)
 
 #### Amendments
+
+1996—Subsec. (d). Pub. L. 104–188, §1309(a)(2), inserted at end “In the case of any distribution made during any taxable year, the adjusted basis of the stock shall be determined with regard to the adjustments provided in paragraph (1) of section 1367(a) for the taxable year.”
+
+Subsec. (e)(1)(A). Pub. L. 104–188, §1309(c), substituted “as otherwise provided in this paragraph” for “as provided in subparagraph (B)” and “section 1367(a)(2)” for “section 1367(b)(2)(A)”.
+
+Subsec. (e)(1)(C). Pub. L. 104–188, §1309(b), added subpar. (C).
 
 1986—Subsec. (e)(1)(A). Pub. L. 99–514 inserted “and no adjustment shall be made for Federal taxes attributable to any taxable year in which the corporation was a C corporation” before period at end.
 
@@ -81,6 +103,10 @@ For purposes of this section—
 Subsec. (e)(1)(A). Pub. L. 98–369, §721(r)(1), substituted “(except that no adjustment shall be made for income (and related expenses) which is exempt from tax under this title and the phrase ‘(but not below zero)’ shall be disregarded in section 1367(b)(2)(A))” for “(except that no adjustment shall be made for income which is exempt from tax under this title and no adjustment shall be made for any expense not deductible in computing the corporation's taxable income and not properly chargeable to capital account)”.
 
 1983—Subsec. (e)(3). Pub. L. 97–448 added par. (3).
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–188 applicable to taxable years beginning after Dec. 31, 1996, see section 1317(a) of Pub. L. 104–188, set out as a note under section 641 of this title.
 
 #### Effective Date of 1986 Amendment
 
@@ -92,7 +118,7 @@ Amendment by Pub. L. 98–369 effective as if included in the Subchapter S Revis
 
 #### Effective Date of 1983 Amendment
 
-Section 311(c)(4) of Pub. L. 97–448 provided that: “The amendments made by subsection (d) of section 305\[amending this section and sections 221, 1374, and 4975 of this title, enacting provisions set out as a note under section 1361 of this title, and amending provisions set out as a note under section 1361 of this title\] shall take effect on the date of the enactment of the Subchapter S Revision Act of 1982 \[Oct. 19, 1982\].”
+Section 311(c)(4) of Pub. L. 97–448 provided that: “The amendments made by subsection (d) of section 305 \[amending this section and sections 221, 1374, and 4975 of this title, enacting provisions set out as a note under section 1361 of this title, and amending provisions set out as a note under section 1361 of this title\] shall take effect on the date of the enactment of the Subchapter S Revision Act of 1982 \[Oct. 19, 1982\].”
 
 #### Effective Date
 
@@ -104,5 +130,5 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1367, 1371 of this title.
+This section is referred to in sections 1367, 1371, 1377 of this title.
 

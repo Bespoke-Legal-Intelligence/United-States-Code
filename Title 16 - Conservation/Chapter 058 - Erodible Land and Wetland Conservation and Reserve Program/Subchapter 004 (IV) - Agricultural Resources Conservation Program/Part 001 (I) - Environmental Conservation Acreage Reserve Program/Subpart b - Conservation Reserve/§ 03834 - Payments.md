@@ -90,7 +90,7 @@ Notwithstanding any other provision of law, no order issued for any fiscal year 
 
 In addition to any payment under this subpart, an owner or operator may receive cost share assistance, rental payments, or tax benefits from a State or subdivision thereof for enrolling lands in the conservation reserve program.
 
-(Pub. L. 99–198, title XII, §1234, Dec. 23, 1985, 99 Stat. 1511; Pub. L. 100–387, title III, §322, Aug. 11,1988, 102 Stat. 950; Pub. L. 101–624, title XIV, §§1434, 1447(a), Nov. 28, 1990, 104 Stat. 3581, 3605.)
+(Pub. L. 99–198, title XII, §1234, Dec. 23, 1985, 99 Stat. 1511; Pub. L. 100–387, title III, §322, Aug. 11, 1988, 102 Stat. 950; Pub. L. 101–624, title XIV, §§1434, 1447(a), Nov. 28, 1990, 104 Stat. 3581, 3605.)
 
 #### References in Text
 
@@ -154,5 +154,5 @@ For provisions directing that enumerated provisions of the Food Security Act of 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3801, 3847 of this title.
+This section is referred to in section 3801 of this title.
 

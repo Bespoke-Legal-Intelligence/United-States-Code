@@ -96,5 +96,5 @@ Section 1119e–3, Pub. L. 89–329, title V, §574, as added Pub. L. 98–558, 
 
 Section 1119e–4, Pub. L. 89–329, title V, §575, as added Pub. L. 98–558, title VII, §701, Oct. 30, 1984, 98 Stat. 2899, provided for submission and evaluation of applications for talented teacher fellowship assistance.
 
-Section 1119e–5, Pub. L. 89–329, title V, §576, as added Pub. L. 98–558, title VII, §701, Oct. 30, 1984, 98 Stat. 2900,provided for repayment of awards to Federal Government in case of fraud or gross noncompliance.
+Section 1119e–5, Pub. L. 89–329, title V, §576, as added Pub. L. 98–558, title VII, §701, Oct. 30, 1984, 98 Stat. 2900, provided for repayment of awards to Federal Government in case of fraud or gross noncompliance.
 

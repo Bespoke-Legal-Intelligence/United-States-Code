@@ -48,7 +48,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 (1)
 
@@ -96,19 +98,19 @@ Section 312 of the Foreign Service Act of 1980, referred to in text, is classifi
 
 #### Amendments
 
-<b>1991</b>—Par. (2)(v). Pub. L. 102–54 substituted “Veterans Health Administration of the Department of Veterans Affairs” for “Department of Medicine and Surgery, Veterans’ Administration”.
+1991—Par. (2)(v). Pub. L. 102–54 substituted “Veterans Health Administration of the Department of Veterans Affairs” for “Department of Medicine and Surgery, Veterans’ Administration”.
 
-<b>1986</b>—Par. (2)(B). Pub. L. 99–335 amended subpar. (B) generally, substituting “first employed” for “employed” and inserting “before October 1, 1987”.
+1986—Par. (2)(B). Pub. L. 99–335 amended subpar. (B) generally, substituting “first employed” for “employed” and inserting “before October 1, 1987”.
 
-<b>1980</b>—Pub. L. 96–465, §2312(a), inserted provision at end of par. (2) extending definition of “employee” notwithstanding cls. (x) to (xii) of par. (2).
+1980—Pub. L. 96–465, §2312(a), inserted provision at end of par. (2) extending definition of “employee” notwithstanding cls. (x) to (xii) of par. (2).
 
 Par. (2)(xii). Pub. L. 96–465, §2314(f)(1), substituted “a chief of mission (as defined in section 102(a)(3) of the Foreign Service Act of 1980)” for “an officer who receives pay under section 866 of title 22”.
 
-<b>1979</b>—Par. (2)(iv). Pub. L. 96–70 substituted “Panama Canal Commission” for “Canal Zone Government or the Panama Canal Company”.
+1979—Par. (2)(iv). Pub. L. 96–70 substituted “Panama Canal Commission” for “Canal Zone Government or the Panama Canal Company”.
 
-<b>1978</b>—Par. (2)(xiii). Pub. L. 95–519 added cl. (xiii).
+1978—Par. (2)(xiii). Pub. L. 95–519 added cl. (xiii).
 
-<b>1970</b>—Par. (2)(ii). Pub. L. 91–375 struck out “, except an hourly employee in the postal field service,” after “part-time employee”.
+1970—Par. (2)(ii). Pub. L. 91–375 struck out “, except an hourly employee in the postal field service,” after “part-time employee”.
 
 #### Effective Date of 1986 Amendment
 

@@ -64,7 +64,7 @@
 
 &emsp;&emsp;(C) is not overdue on program or financial reports or audits required under this subchapter;
 
-&emsp;&emsp;(D) is not subject to an emergency action, or a limitation, suspension, or terminationunder section 1078(b)(1)(T), 1082(h), or 1094(c) of this title;
+&emsp;&emsp;(D) is not subject to an emergency action, or a limitation, suspension, or termination under section 1078(b)(1)(T), 1082(h), or 1094(c) of this title;
 
 &emsp;&emsp;(E) in the opinion of the Secretary, has not had significant deficiencies identified by a State postsecondary review entity under subpart 1 of part G of this subchapter;
 

@@ -191,6 +191,7 @@
 | (b) | Point of order in House of Representatives. |
 | (c) | Point of order in Senate. |
 | (d) | Adjustments. |
+| (e) | Continuing disability review adjustment. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -32,7 +32,7 @@ The mail voter registration form developed under subsection (a)(2) of this secti
 
 &emsp;&emsp;(i) the information required in section 1973gg–6(a)(5)(A) and (B) of this title;
 
-&emsp;&emsp;(ii) a statement that, if an applicant declines to register to vote, the fact that theapplicant has declined to register will remain confidential and will be used only for voter registration purposes; and
+&emsp;&emsp;(ii) a statement that, if an applicant declines to register to vote, the fact that the applicant has declined to register will remain confidential and will be used only for voter registration purposes; and
 
 &emsp;&emsp;(iii) a statement that if an applicant does register to vote, the office at which the applicant submits a voter registration application will remain confidential and will be used only for voter registration purposes.
 

@@ -8,7 +8,7 @@ In order to strengthen the administrative capability and financial responsibilit
 
 &emsp;(2) may give priority for program review to institutions of higher education that are—
 
-&emsp;&emsp;(A) institutions with a cohort default rate for loans under part B of this subchapter in excess of 25 percent or which places such institutions in the highest 25 percent of such institutions;
+&emsp;&emsp;(A) institutions with a cohort default rate for loans under part B of this subchapter inexcess of 25 percent or which places such institutions in the highest 25 percent of such institutions;
 
 &emsp;&emsp;(B) institutions with a default rate in dollar volume for loans under part B of this subchapter which places the institutions in the highest 25 percent of such institutions;
 

@@ -30,7 +30,7 @@ Extent of Credit.—The amount of the credit given toward the attainment of any 
 
 &emsp;(1) in the case of work performed as described in subsection (a)(1), the value of the work performed; and
 
-&emsp;(2) in the case of a contract or subcontract undertaken to be performed by a joint ventureas described in subsection (a)(2), an amount equal to the amount of the contract or subcontract multiplied by the percentage of the tribe's or tribally owned corporation's ownership interest in the joint venture.
+&emsp;(2) in the case of a contract or subcontract undertaken to be performed by a joint venture as described in subsection (a)(2), an amount equal to the amount of the contract or subcontract multiplied by the percentage of the tribe's or tribally owned corporation's ownership interest in the joint venture.
 
 (d)
 
@@ -48,9 +48,13 @@ Definitions.—In this section:
 
 &emsp;(4) The term “tribally owned corporation” means a corporation owned entirely by an Indian tribe.
 
-(Added Pub. L. 102–484, div. A, title VIII, §801(g)(1), Oct. 23, 1992, 106 Stat. 2445.)
+(Added Pub. L. 102–484, div. A, title VIII, §801(g)(1), Oct. 23, 1992, 106 Stat. 2445; amended Pub. L. 104–201, div. A, title X, §1074(a)(13), Sept. 23, 1996, 110 Stat. 2659.)
 
 #### Codification
 
 Section, as added by Pub. L. 102–484, consists of text of Pub. L. 101–189, div. A, title VIII, §832, Nov. 29, 1989, 103 Stat. 1508, revised by Pub. L. 102–484 by substituting “section 2323 of this title” for “section 1207 of the National Defense Authorization Act for Fiscal Year 1987 (10 U.S.C. 2301 note)” in subsec. (a). Section 832 of Pub. L. 101–189, which was formerly set out as a note under section 2301 of this title, was repealed by Pub. L. 102–484, div. A, title VIII, §801(h)(5), Oct. 23, 1992, 106 Stat. 2445.
+
+#### Amendments
+
+1996—Subsec. (a). Pub. L. 104–201, which directed amendment of subsec. (a) by substituting “section 2323 of this title” for “section 1207 of the National Defense Authorization Act for Fiscal Year 1987 (10 U.S.C. 2301 note)”, could not be executed because the language “section 1207 of the National Defense Authorization Act for Fiscal Year 1987 (10 U.S.C. 2301 note)” did not appear. See Codification note above.
 

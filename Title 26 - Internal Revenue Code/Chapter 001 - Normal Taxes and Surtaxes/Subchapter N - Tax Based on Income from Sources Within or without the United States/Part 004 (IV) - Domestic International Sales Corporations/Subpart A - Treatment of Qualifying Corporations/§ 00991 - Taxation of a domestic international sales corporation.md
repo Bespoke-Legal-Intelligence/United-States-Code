@@ -110,5 +110,5 @@ Export trade corporation.—For purposes of this subsection, the term ‘export 
 
 #### Submission of Annual Reports to Congress
 
-Section 506 of Pub. L. 92–178, which directed, that commencing with calendar year 1972, the Secretary of the Treasury submit annual reports to Congress on the effect and operation of title V, §§501–507, of Pub. L. 92–178, was probably intended by Congress to be repealed by Pub. L. 98–369, div. A, title VIII, §804(b)(1),July 18, 1984, 98 Stat. 1000, which directed that section 806 of Pub. L. 98–178 relating to submission of annual reports to Congress be repealed. Section 804(b)(2) of Pub. L. 98–369 provided that the repeal is applicable to reports for calendar years after 1984.
+Section 506 of Pub. L. 92–178, which directed, that commencing with calendar year 1972, the Secretary of the Treasury submit annual reports to Congress on the effect and operation of title V, §§501–507, of Pub. L. 92–178, was probably intended by Congress to be repealed by Pub. L. 98–369, div. A, title VIII, §804(b)(1), July 18, 1984, 98 Stat. 1000, which directed that section 806 of Pub. L. 98–178 relating to submission of annual reports to Congress be repealed. Section 804(b)(2) of Pub. L. 98–369 provided that the repeal is applicable to reports for calendar years after 1984.
 

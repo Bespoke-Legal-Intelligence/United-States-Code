@@ -20,5 +20,5 @@ Historical and Revision Notes
 
 Oct. 20, 1951, ch. 524, §§1 (35 words before 1st proviso), 2 (last 32 words of 2d sentence), 65 Stat. 572, 573.
 
-The words “for all purposes” and “to the contrary”, in 10:1861 and 1862; “by the claimant and not untilthen”, in 10:1861; and “but not until then”, in 10:1862; are omitted as surplusage.
+The words “for all purposes” and “to the contrary”, in 10:1861 and 1862; “by the claimant and not until then”, in 10:1861; and “but not until then”, in 10:1862; are omitted as surplusage.
 

@@ -1,10 +1,24 @@
 ### §1003. Employment policy
 
-(a) Except as provided under chapters 2 and 12 of this title or other provision of law, the Postal Service shall classify and fix the compensation and benefits of all officers and employees in the Postal Service. It shall be the policy of the Postal Service to maintain compensation and benefits for all officers and employees on a standard of comparability to the compensation and benefits paid for comparable levels of work in the private sector of the economy. No officer or employee shall be paid compensation at a rate in excess of the rate for level I of the Executive Schedule under section 5312 of title 5.
+(a) Except as provided under chapters 2 and 12 of this title, section 8G of the Inspector General Act of 1978, or other provision of law, the Postal Service shall classify and fix the compensation and benefits of all officers and employees in the Postal Service. It shall be the policy of the Postal Service to maintain compensation and benefits for all officers and employees on a standard of comparability to the compensation and benefits paid for comparable levels of work in the private sector of the economy. No officer or employee shall be paid compensation at a rate in excess of the rate for level I of the Executive Schedule under section 5312 of title 5.
 
-(b) The Postal Service shall follow an employment policy designed, without compromising the policy of section 101(a) of this title, to extend opportunity to the disadvantaged and the handicapped.
+(b) Compensation and benefits for all officers and employees serving in or under the Office of Inspector General of the United States Postal Service shall be maintained on a standard of comparability to the compensation and benefits paid for comparable levels of work in the respective Offices of Inspector General of the various establishments named in section 11(2) of the Inspector General Act of 1978.
 
-(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 730.)
+(c) Compensation and benefits for all Postal Inspectors shall be maintained on a standard of comparability to the compensation and benefits paid for comparable levels of work in the executive branch of the Government outside of the Postal Service. As used in this subsection, the term “Postal Inspector” included <sup>1</sup> any agent to whom any investigative powers are granted under section 3061 of title 18.
+
+(d) The Postal Service shall follow an employment policy designed, without compromising the policy of section 101(a) of this title, to extend opportunity to the disadvantaged and the handicapped.
+
+(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 730; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §662(c)(2)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–380.)
+
+#### References in Text
+
+Sections 8G and 11(2) of the Inspector General Act of 1978, referred to in subsecs. (a) and (b), are sections 8G and 11(2) of Pub. L. 95–452, which are set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### Amendments
+
+1996—Subsec. (a). Pub. L. 104–208, §101(f) \[title VI, §662(c)(2)(B)\], substituted “chapters 2 and 12 of this title, section 8G of the Inspector General Act of 1978,” for “chapters 2 and 12 of this title”.
+
+Subsecs. (b) to (d). Pub. L. 104–208, §101(f) \[title VI, §662(c)(2)(A)\], added subsecs. (b) and (c) and redesignated former subsec. (b) as (d).
 
 #### Effective Date
 
@@ -16,7 +30,7 @@ Section 9 of Pub. L. 91–375 provided that:
 
 “(a) \[<i>Increase in Basic Pay Rate; Effective Date</i>\] The Postmaster General, under regulations made by him, shall increase the rates of basic pay or compensation of employees in the Post Office Department so that such rates will equal, as nearly as practicable, 108 percent of the rates of basic pay or compensation in effect immediately prior to the date of enactment of this Act \[Aug. 12, 1970\]. Such increases shall take effect on the first day of the first pay period which begins on or after April 16, 1970.
 
-“(b) \[<i>Retroactive Pay</i>\] Retroactive pay, compensation, or salary shall be paid by reason of this Act \[see Short Title note set out under section 101 of this title\] only in the case of an individual in the service of the United States (including service in the Armed Forces of theUnited States) on the date of enactment of this Act \[Aug. 12, 1970\], except that such retroactive pay, compensation, or salary shall be paid—
+“(b) \[<i>Retroactive Pay</i>\] Retroactive pay, compensation, or salary shall be paid by reason of this Act \[see Short Title note set out under section 101 of this title\] only in the case of an individual in the service of the United States (including service in the Armed Forces of the United States) on the date of enactment of this Act \[Aug. 12, 1970\], except that such retroactive pay, compensation, or salary shall be paid—
 
 &emsp;“(1) to an officer or employee who retired, during the period beginning on the first day of the first pay period which began on or after April 16, 1970, and ending on the date of enactment of this Act \[Aug. 12, 1970\], for services rendered during such period; and
 
@@ -28,11 +42,13 @@ Section 9 of Pub. L. 91–375 provided that:
 
 “(d) \[<i>Group Life Insurance; Amount; Effective Date</i>\] For purposes of determining the amount of insurance for which an individual is eligible under chapter 87 of title 5, United States Code \[section 8701 et seq. of Title 5\], relating to group life insurance for Government employees, all changes in rates of pay, compensation, and salary which result from the enactment of this section shall be held and considered to become effective as of the date of such enactment \[Aug. 12, 1970\].
 
-“(e) \[<i>Limitation of Basic Pay Rate</i>\] No rate of basic pay or compensation, in excess of the rate of basic pay for GS–18 of the General Schedule in section 5332 of title 5, United States Code, shall be paid by reason of the enactment of this section.”
+“(e) \[<i>Limitation of Basic Pay Rate</i>\] No rate of basic pay or compensation, in excess of the rate of basic pay forGS–18 of the General Schedule in section 5332 of title 5, United States Code, shall be paid by reason of the enactment of this section.”
 
 Provisions of section 9 of Pub. L. 91–375 effective Aug. 12, 1970, see section 15(a) of Pub. L. 91–375, set out as an Effective Date note preceding section 101 of this title.
 
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 1001, 1004 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “includes”.</i>
 

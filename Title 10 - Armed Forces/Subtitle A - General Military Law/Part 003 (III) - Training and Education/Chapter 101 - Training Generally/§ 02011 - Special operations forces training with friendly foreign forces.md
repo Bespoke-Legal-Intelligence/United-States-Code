@@ -2,7 +2,7 @@
 
 (a)
 
-Authority to Pay Training Expenses.—Under regulations prescribed pursuant to subsection (c), the commander of the special operations command established pursuant to section 167 of this title and the commander of any other unified or specified combatant command may pay, or authorize payment for, any of the following expenses:
+Authority To Pay Training Expenses.—Under regulations prescribed pursuant to subsection (c), the commander of the special operations command established pursuant to section 167 of this title and the commander of any other unified or specified combatant command may pay, or authorize payment for, any of the following expenses:
 
 &emsp;(1) Expenses of training special operations forces assigned to that command in conjunction with training, and training with, armed forces and other security forces of a friendly foreign country.
 
@@ -38,7 +38,15 @@ Reports.—Not later than April 1 of each year, the Secretary of Defense shall s
 
 &emsp;(4) The relationship of that training to other overseas training programs conducted by the armed forces, such as military exercise programs sponsored by the Joint Chiefs of Staff, military exercise programs sponsored by a combatant command, and military training activities sponsored by a military department (including deployments for training, short duration exercises, and other similar unit training events).
 
-(Added Pub. L. 102–190, div. A, title X, §1052(a)(1), Dec. 5, 1991, 105 Stat. 1470.)
+(Added Pub. L. 102–190, div. A, title X, §1052(a)(1), Dec. 5, 1991, 105 Stat. 1470; amended Pub. L. 104–106, div. A, title XV, §1503(a)(18), Feb. 10, 1996, 110 Stat. 512.)
+
+#### Amendments
+
+1996—Subsec. (a). Pub. L. 104–106 substituted “
+
+To” for “
+
+to” in heading.
 
 #### Section Referred to in Other Sections
 

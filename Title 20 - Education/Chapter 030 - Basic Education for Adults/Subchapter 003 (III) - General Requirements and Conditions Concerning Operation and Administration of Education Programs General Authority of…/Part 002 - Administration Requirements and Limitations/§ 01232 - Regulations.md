@@ -46,7 +46,7 @@ Another prior section 437 of Pub. L. 90–247 was renumbered section 447, and wa
 
 1994—Pub. L. 103–437, which directed that section 431(b)(2)(B), (d)(2), and (g) of Pub. L. 90–247 be amended by substituting “Labor and Human Resources” for “Labor and Public Welfare”, could not be executed because this section, which was section 431 of Pub. L. 90–247, was renumbered section 437 and amended generally by Pub. L. 103–382.
 
-Pub. L. 103–382, §247, amended section generally. Prior to amendment, section consisted of subsecs. (a) to (g) relating to promulgation of regulations by Secretary, and their publication, application, disapproval by Congress, and modification subsequent to disapproval.
+Pub. L. 103–382, §247, amended section generally. Prior to amendment, section consisted of subsecs. (a) to (g) relating to promulgation of regulations by Secretary, and their publication, application, disapprovalby Congress, and modification subsequent to disapproval.
 
 1981—Subsec. (d)(1). Pub. L. 97–35 substituted “final regulation (except expected family contribution schedules and any amendments thereto promulgated pursuant to sections 1078(a)(2)(D) and (E) and 1089(a)(1) of this title) as required” for “final regulation as required”.
 
@@ -78,7 +78,7 @@ Subsecs. (d) to (g). Pub. L. 93–380, §509(a)(2), added subsecs. (d) to (g).
 
 #### Change of Name
 
-Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Economic and Educational Opportunities of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Fifth Congress, Jan. 7, 1997.
 
 #### Effective Date of 1981 Amendment
 

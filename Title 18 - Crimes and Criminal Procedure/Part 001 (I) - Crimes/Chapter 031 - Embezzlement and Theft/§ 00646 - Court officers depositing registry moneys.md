@@ -1,10 +1,10 @@
 ### §646. Court officers depositing registry moneys
 
-Whoever, being a clerk or other officer of a court of the United States, fails to deposit promptly any money belonging in the registry of the court, or paid into court or received by the officers thereof, with the Treasurer or a designated depositary of the United States, in the name and to the credit of such court, or retains or converts to his own use or to the use of another any such money, is guilty of embezzlement and shall be fined under this title or not more than the amount embezzled, whichever is greater, or imprisoned not more than ten years, or both; but if the amount embezzled does not exceed $100, he shall be fined under this title or imprisoned not more than one year, or both.
+Whoever, being a clerk or other officer of a court of the United States, fails to deposit promptly any money belonging in the registry of the court, or paid into court or received by the officers thereof, with the Treasurer or a designated depositary of the United States, in the name and to the credit of such court, or retains or converts to his own use or to the use of another any such money, is guilty of embezzlement and shall be fined under this title or not more than the amount embezzled, whichever is greater, or imprisoned not more than ten years, or both; but if the amount embezzled does not exceed $1,000, he shall be fined under this title or imprisoned not more than one year, or both.
 
 This section shall not prevent the delivery of any such money upon security, according to agreement of parties, under the direction of the court.
 
-(June 25, 1948, ch. 645, 62 Stat. 726; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(H), (2)(H), 108 Stat. 2147, 2148.)
+(June 25, 1948, ch. 645, 62 Stat. 726; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(H), (2)(H), 108 Stat. 2147, 2148; Oct. 11, 1996, Pub. L. 104–294, title VI, §606(a), 110 Stat. 3511.)
 
 #### Historical and Revision Notes
 
@@ -15,6 +15,8 @@ The smaller punishment for an offense involving $100 or less was inserted for th
 Minor changes were made in phraseology.
 
 #### Amendments
+
+1996—Pub. L. 104–294 substituted “$1,000” for “$100”.
 
 1994—Pub. L. 103–322, §330016(2)(H), substituted “shall be fined under this title or not more than the amount embezzled, whichever is greater, or imprisoned” for “shall be fined not more than the amount embezzled, or imprisoned”.
 

@@ -4,15 +4,15 @@
 
 &nbsp;&nbsp;Army National Guard and the Army National Guard of the United States
 
-600,000&nbsp;
+600,000&nbsp;&nbsp;
 
 &nbsp;&nbsp;Army Reserve
 
-980,000&nbsp;
+980,000&nbsp;&nbsp;
 
 &nbsp;&nbsp;Air National Guard and the Air National Guard of the United States
 
-150,000&nbsp;
+150,000&nbsp;&nbsp;
 
 &nbsp;&nbsp;Air Force Reserve
 

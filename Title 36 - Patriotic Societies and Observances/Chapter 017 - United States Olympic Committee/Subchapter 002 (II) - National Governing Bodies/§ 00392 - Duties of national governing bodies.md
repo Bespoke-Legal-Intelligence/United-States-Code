@@ -48,7 +48,7 @@
 
 &emsp;&emsp;(B) submits a letter from the appropriate entity which will hold the international amateur athletic competition certifying that—
 
-&emsp;&emsp;&emsp;(i) appropriate measures have been taken to protect the amateur status of athleteswho will take part in the competition and to protect their eligibility to compete in amateur athletic competition,
+&emsp;&emsp;&emsp;(i) appropriate measures have been taken to protect the amateur status of athletes who will take part in the competition and to protect their eligibility to compete in amateur athletic competition,
 
 &emsp;&emsp;&emsp;(ii) appropriate provision has been made for validation of records which may be established during the competition,
 

@@ -28,7 +28,7 @@
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in sections 702, 6216, 6244, 6512 of this title.
+This subchapter is referred to in sections 702, 6216, 6512 of this title.
 
 
 ---

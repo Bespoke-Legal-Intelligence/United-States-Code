@@ -38,7 +38,9 @@ Emergencies.—A signal employee may be allowed to remain or go on duty for not 
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

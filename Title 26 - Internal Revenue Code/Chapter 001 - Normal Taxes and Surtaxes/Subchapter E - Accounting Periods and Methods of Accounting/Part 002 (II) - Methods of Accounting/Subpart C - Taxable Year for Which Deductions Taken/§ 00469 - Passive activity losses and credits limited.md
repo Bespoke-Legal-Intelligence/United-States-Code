@@ -46,11 +46,11 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;The term “passive activity” shall not include any working interest in any oil or gasproperty which the taxpayer holds directly or through an entity which does not limit the liability of the taxpayer with respect to such interest.
+&emsp;&emsp;The term “passive activity” shall not include any working interest in any oil or gas property which the taxpayer holds directly or through an entity which does not limit the liability of the taxpayer with respect to such interest.
 
 #### (B) Income in subsequent years
 
-&emsp;&emsp;If any taxpayer has any loss for any taxable year from a working interest in any oil or gas property which is treated as a loss which is not from a passive activity, then any net income from such property (or any property the basis of which is determined in whole or in part by reference to the basis of such property) for any succeeding taxable year shall be treated as income of the taxpayer which is not from a passive activity.
+&emsp;&emsp;If any taxpayer has any loss for any taxable year from a working interest in any oil or gas property which is treated as a loss which is not from a passive activity, then any net income from such property (or any property the basis of which is determined in whole or in part by reference to the basis of such property) for any succeeding taxable year shall be treated as income of the taxpayer which is not from a passive activity. If the preceding sentence applies to the net income from any property for any taxable year, any credits allowable under subpart B (other than section 27(a)) or D of part IV of subchapter A for such taxable year which are attributable to such property shall be treated as credits not from a passive activity to the extent the amount of such credits does not exceed the regular tax liability of the taxpayer for the taxable year which is allocable to such net income.
 
 #### (4) Material participation not required for paragraphs (2) and (3)
 
@@ -84,7 +84,7 @@ For purposes of this section—
 
 &emsp;&emsp;This paragraph shall apply to a taxpayer for a taxable year if—
 
-&emsp;&emsp;&emsp;(i) more than one-half of the personal services performed in trades or businesses by the taxpayer during such taxable year are performed in real property trades or businesses in which the taxpayer materially participates, and
+&emsp;&emsp;&emsp;(i) more than one-half of the personal services performed in trades or businessesby the taxpayer during such taxable year are performed in real property trades or businesses in which the taxpayer materially participates, and
 
 &emsp;&emsp;&emsp;(ii) such taxpayer performs more than 750 hours of services during the taxable year in real property trades or businesses in which the taxpayer materially participates.
 
@@ -186,7 +186,7 @@ For purposes of this section—
 
 #### (4) Dividends reduced by dividends received deduction
 
-&emsp;For purposes of paragraphs (1) and (2), income from dividends shall be reduced by the amount of any dividends received deduction under section 243, 244, or 245.
+&emsp;For purposes of paragraphs (1) and (2), income from dividends shall be reduced by theamount of any dividends received deduction under section 243, 244, or 245.
 
 #### (f) Treatment of former passive activities
 
@@ -224,13 +224,9 @@ If during the taxable year a taxpayer disposes of his entire interest in any pas
 
 &emsp;&emsp;If all gain or loss realized on such disposition is recognized, the excess of—
 
-&emsp;&emsp;&emsp;(i) the sum of—
+&emsp;&emsp;&emsp;(i) any loss from such activity for such taxable year (determined after the application of subsection (b)), over
 
-&emsp;&emsp;&emsp;&emsp;(I) any loss from such activity for such taxable year (determined after application of subsection (b)), plus
-
-&emsp;&emsp;&emsp;&emsp;(II) any loss realized on such disposition, over
-
-&emsp;&emsp;&emsp;(ii) net income or gain for such taxable year from all passive activities (determined without regard to losses described in clause (i)),
+&emsp;&emsp;&emsp;(ii) any net income or gain for such taxable year from all other passive activities (determined after the application of subsection (b)),
 
 > &emsp;&emsp;shall be treated as a loss which is not from a passive activity.
 
@@ -334,7 +330,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(i) any amount includible in gross income under section 86,
 
-&emsp;&emsp;&emsp;(ii) the amount excludable from gross income under section 135,
+&emsp;&emsp;&emsp;(ii) the amounts excludable from gross income under sections 135 and 137,
 
 &emsp;&emsp;&emsp;(iii) any amount allowable as a deduction under section 219, and
 
@@ -502,10 +498,8 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 &nbsp;
 
-| &nbsp; | &nbsp; |
+| <b> In the case of taxable   years beginning in:</b> | <b>The applicable</b>percentage is: |
 | :--- | ---: |
-| <b> In the case of taxable</b> | <b>The applicable</b> |
-| <b>  years beginning in:</b> | <b>percentage is:</b> |
 | &nbsp;&nbsp;&nbsp;1987 | 65&nbsp; |
 | &nbsp;&nbsp;&nbsp;1988 | 40&nbsp; |
 | &nbsp;&nbsp;&nbsp;1989 | 20&nbsp; |
@@ -527,7 +521,7 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The term “pre-enactment interest” means any interest in a passive activityheld by a taxpayer on the date of the enactment of the Tax Reform Act of 1986, and at all times thereafter.
+&emsp;&emsp;&emsp;The term “pre-enactment interest” means any interest in a passive activity held by a taxpayer on the date of the enactment of the Tax Reform Act of 1986, and at all times thereafter.
 
 #### (ii) Binding contract exception
 
@@ -541,13 +535,29 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 &emsp;&emsp;&emsp;&emsp;(II) construction of property used in such activity began on or before August 16, 1986.
 
-(Added Pub. L. 99–514, title V, §501(a), Oct. 22, 1986, 100 Stat. 2233; amended Pub. L. 100–203, title X, §10212(a), Dec. 22, 1987, 101 Stat. 1330–405; Pub. L. 100–647, title I, §1005(a)(1)–(9), (11), (12), title II, §2004(g), title VI, §6009(c)(3), Nov. 10, 1988, 102 Stat. 3387–3389, 3603, 3690; Pub. L. 101–239, title VII, §7109(a), Dec. 19, 1989, 103 Stat. 2322; Pub. L. 101–508, title XI, §§11704(a)(6), 11813(b)(16), Nov. 5, 1990, 104 Stat. 1388–518, 1388–555; Pub. L. 103–66, title XIII, §13143(a), (b), Aug. 10, 1993, 107 Stat. 440, 441.)
+(Added Pub. L. 99–514, title V, §501(a), Oct. 22, 1986, 100 Stat. 2233; amended Pub. L. 100–203, title X, §10212(a), Dec. 22, 1987, 101 Stat. 1330–405; Pub. L. 100–647, title I, §1005(a)(1)–(9), (11), (12), title II, §2004(g), title VI, §6009(c)(3), Nov. 10, 1988, 102 Stat. 3387–3389, 3603, 3690; Pub. L. 101–239, title VII, §7109(a), Dec. 19, 1989, 103 Stat. 2322; Pub. L. 101–508, title XI, §§11704(a)(6), 11813(b)(16), Nov. 5, 1990, 104 Stat. 1388–518, 1388–555; Pub. L. 103–66, title XIII, §13143(a), (b), Aug. 10, 1993, 107 Stat. 440, 441; Pub. L. 104–188, title I, §§1704(d)(1), (e)(1), 1807(c)(4), Aug. 20, 1996, 110 Stat. 1878, 1902.)
 
 #### References in Text
 
 The date of the enactment of the Tax Reform Act of 1986, referred to in subsec. (m)(3)(B), is the date of enactment of Pub. L. 99–514, which was approved Oct. 22, 1986.
 
 #### Amendments
+
+1996—Subsec. (c)(3)(B). Pub. L. 104–188, §1704(d)(1), inserted at end “If the preceding sentence applies to the net income from any property for any taxable year, any credits allowable under subpart B (other than section 27(a)) or D of part IV of subchapter A for such taxable year which are attributable to such property shall be treated as credits not from a passive activity to the extent the amount of such credits does not exceed the regular tax liability of the taxpayer for the taxable year which is allocable to such net income.”
+
+Subsec. (g)(1)(A). Pub. L. 104–188, §1704(e)(1), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “If all gain or loss realized on such disposition is recognized, the excess of—
+
+&emsp;“(i) the sum of—
+
+&emsp;&emsp;“(I) any loss from such activity for such taxable year (determined after application of subsection (b)), plus
+
+&emsp;&emsp;“(II) any loss realized on such disposition, over
+
+&emsp;“(ii) net income or gain for such taxable year from all passive activities (determined without regard to losses described in clause (i)),
+
+> shall be treated as a loss which is not from a passive activity.”
+
+Subsec. (i)(3)(E)(ii). Pub. L. 104–188, §1807(c)(4), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “the amount excludable from gross income under section 135,”.
 
 1993—Subsec. (c)(2). Pub. L. 103–66, §13143(b)(1), substituted “Except as provided in paragraph (7), the” for “The”.
 
@@ -632,6 +642,14 @@ Subsec. (m)(3)(A). Pub. L. 100–647, §1005(a)(12), added subpar. (A) and struc
 > For purposes of this subparagraph, the deduction equivalent (within the meaning of subsection (j)(5)) of a passive activity credit shall be taken into account.”
 
 1987—Subsecs. (k) to (m). Pub. L. 100–203 added subsec. (k) and redesignated former subsecs. (k) and (<i>l</i>) as (<i>l</i>) and (m), respectively.
+
+#### Effective Date of 1996 Amendment
+
+Section 1704(d)(2) of Pub. L. 104–188 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to taxable years beginning after December 31, 1986.”
+
+Section 1704(e)(2) of Pub. L. 104–188 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to taxable years beginning after December 31, 1986.”
+
+Amendment by section 1807(c)(4) of Pub. L. 104–188 applicable to taxable years beginning after Dec. 31, 1996, see section 1807(e) of Pub. L. 104–188, set out as an Effective Date note under section 23 of this title.
 
 #### Effective Date of 1993 Amendment
 
@@ -747,7 +765,7 @@ In general.—The term ‘qualified investor’ means any natural person who hol
 
 &emsp;&emsp;&emsp;“(i) in the case of a project placed in service on or before August 16, 1986, such person held an interest in such project on August 16, 1986, and such person made his initial investment after December 31, 1983, or
 
-&emsp;&emsp;&emsp;“(ii) in the case of a project placed in service after August 16, 1986, such person made his initial investment after December 31, 1983, and such person held an interest in such project on December 31, 1986, and
+&emsp;&emsp;&emsp;“(ii) in the case of a project placed in service after August 16, 1986, such person made his initialinvestment after December 31, 1983, and such person held an interest in such project on December 31, 1986, and
 
 &emsp;&emsp;“(B) if such investor is required to make payments after December 31, 1986, of 50 percent or more of the total original obligated investment for such interest.
 
@@ -797,5 +815,5 @@ Coordination with credit.—No low-income housing credit shall be determined und
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 42, 56, 58, 108, 135, 163, 219 of this title.
+This section is referred to in sections 23, 32, 42, 56, 58, 108, 135, 137, 163, 219 of this title.
 

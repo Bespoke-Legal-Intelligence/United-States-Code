@@ -36,11 +36,15 @@ Proc. No. 4000, Sept. 4, 1970, 35 F.R. 14187, provided:
 
 WHEREAS the joint resolution of Congress of June 22, 1942, entitled “Joint Resolution to Codify and Emphasize Existing Rules and Customs Pertaining to the Display and Use of the Flag of the United States of America,” as amended by the joint resolution of December 22, 1942, 56 Stat. 1074 \[sections 173 to 178 of this title\], contains the following provisions:
 
-“Sec. 2. (a) It is the universal custom to display the flag only from sunrise to sunset on buildings and on stationary flagstaffs in the open. However, the flag may be displayed at night upon special occasions when it is desired to produce a patriotic effect.
+“
+
+Sec. 2. (a) It is the universal custom to display the flag only from sunrise to sunset on buildings and on stationary flagstaffs in the open. However, the flag may be displayed at night upon special occasions when it is desired to produce a patriotic effect.
 
 \* \* \* \* \*
 
-“Sec. 8. Any rule or custom pertaining to the display of the flag of the United States of America, set forth herein, may be altered, modified, or repealed, or additional rules with respect thereto may be prescribed, by the Commander in Chief of the Army and Navy of the United States, whenever he deems it to be appropriate or desirable; and any such alteration or additional rule shall be set forth in a proclamation.”; and
+“
+
+Sec. 8. Any rule or custom pertaining to the display of the flag of the United States of America, set forth herein, may be altered, modified, or repealed, or additional rules with respect thereto may be prescribed, by the Commander in Chief of the Army and Navy of the United States, whenever he deems it to be appropriate or desirable; and any such alteration or additional rule shall be set forth in a proclamation.”; and
 
 WHEREAS the White House is a house that belongs to all the people; and
 
@@ -57,4 +61,8 @@ The rules and customs pertaining to the display of the flag as set forth in the 
 IN WITNESS WHEREOF, I have hereunto set my hand this fourth day of September, in the year of our Lord nineteen hundred and seventy, and of the Independence of the United States of America the one hundred and ninety-fifth.
 
 Richard Nixon.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Section Referred to in Other Sections
+
+This section is referred to in title 10 section 2249b.
 

@@ -18,7 +18,7 @@ The Secretary shall transmit to the Congress an annual report that—
 
 #### (1) In general
 
-&emsp;24 months after October 28, 1992, and at the end of every 24-month period thereafter, the Secretary shall report to the Congress on the progress of the Department of Housing and Urban Development in implementing expanded lead-based paint hazard evaluation and reduction activities.
+&emsp;24 months after October 28, 1992, and at the end of every 24-month period thereafter, theSecretary shall report to the Congress on the progress of the Department of Housing and Urban Development in implementing expanded lead-based paint hazard evaluation and reduction activities.
 
 #### (2) Contents
 

@@ -52,13 +52,13 @@ For purposes of this section:
 
 #### (e) Basis of new residence
 
-Where the purchase of a new residence results, under subsection (a) or under section 112 (n) ofthe Internal Revenue Code of 1939, in the nonrecognition of gain on the sale of an old residence, in determining the adjusted basis of the new residence as of any time following the sale of the old residence, the adjustments to basis shall include a reduction by an amount equal to the amount of the gain not so recognized on the sale of the old residence. For this purpose, the amount of the gain not so recognized on the sale of the old residence includes only so much of such gain as is not recognized by reason of the cost, up to such time, of purchasing the new residence.
+Where the purchase of a new residence results, under subsection (a) or under section 112 (n) of the Internal Revenue Code of 1939, in the nonrecognition of gain on the sale of an old residence, in determining the adjusted basis of the new residence as of any time following the sale of the old residence, the adjustments to basis shall include a reduction by an amount equal to the amount of the gain not so recognized on the sale of the old residence. For this purpose, the amount of the gain not so recognized on the sale of the old residence includes only so much of such gain as is not recognized by reason of the cost, up to such time, of purchasing the new residence.
 
 #### (f) Tenant-stockholder in a cooperative housing corporation
 
 For purposes of this section, section 1016 (relating to adjustments to basis), and section 1223 (relating to holding period), references to property used by the taxpayer as his principal residence, and references to the residence of a taxpayer, shall include stock held by a tenant-stockholder (as defined in section 216, relating to deduction for amounts representing taxes and interest paid to a cooperative housing corporation) in a cooperative housing corporation (as defined in such section) if—
 
-&emsp;(1) in the case of stock sold, the house or apartment which the taxpayer was entitled to occupy as such stockholder was used by him as his principal residence, and
+&emsp;(1) in the case of stock sold, the house or apartment which the taxpayer was entitled tooccupy as such stockholder was used by him as his principal residence, and
 
 &emsp;(2) in the case of stock purchased, the taxpayer used as his principal residence the house or apartment which he was entitled to occupy as such stockholder.
 
@@ -104,7 +104,7 @@ In the case of the seizure, requisition, or condemnation of a residence, or the 
 
 If the taxpayer during a taxable year sells at a gain property used by him as his principal residence, then—
 
-&emsp;(1) the statutory period for the assessment of any deficiency attributable to any part of suchgain shall not expire before the expiration of 3 years from the date the Secretary is notified by the taxpayer (in such manner as the Secretary may by regulations prescribe) of—
+&emsp;(1) the statutory period for the assessment of any deficiency attributable to any part of such gain shall not expire before the expiration of 3 years from the date the Secretary is notified by the taxpayer (in such manner as the Secretary may by regulations prescribe) of—
 
 &emsp;&emsp;(A) the taxpayer's cost of purchasing the new residence which the taxpayer claims results in nonrecognition of any part of such gain,
 
@@ -116,7 +116,7 @@ If the taxpayer during a taxable year sells at a gain property used by him as hi
 
 #### (k) Individual whose tax home is outside the United States
 
-The running of any period of time specified in subsection (a) or (c) (other than the 2 years referred to in subsection (c)(4)) shall be suspended during any time that the taxpayer (or his spouse if the old residence and the new residence are each used by the taxpayer and his spouse as their principal residence) has a tax home (as defined in section 911(d)(3)) outside the United States after the date of the sale of the old residence; except that any such period of time as so suspended shall not extend beyond the date 4 years after the date of the sale of the old residence.
+The running of any period of time specified in subsection (a) or (c) (other than the 2 years referred to in subsection (c)(4)) shall be suspended during any time that the taxpayer (or his spouse if the old residence and the new residence are each used by the taxpayer and his spouse astheir principal residence) has a tax home (as defined in section 911(d)(3)) outside the United States after the date of the sale of the old residence; except that any such period of time as so suspended shall not extend beyond the date 4 years after the date of the sale of the old residence.
 
 #### (<i>l</i>) Cross reference
 
@@ -152,11 +152,11 @@ Subsec. (c)(4). Pub. L. 95–600, §405(b), inserted provisions relating to the 
 
 Subsec. (d). Pub. L. 95–600, §405(a), designated existing provisions as par. (1) and added par. (2).
 
-Subsec. (k). Pub. L. 95–615, §206, added subsec. (k). Former subsec. (k) redesignated (<i>l).</i>
+Subsec. (k). Pub. L. 95–615, §206, added subsec. (k). Former subsec. (k) redesignated (<i>l</i>).
 
 Pub. L. 95–600, §404(c)(5), inserted provisions relating to a one-time exclusion and principal residence, and substituted “55” for “65”.
 
-Subsec. (<i>l</i>). Pub. L. 95–615, §206, redesignated former subsec. (k) as (<i>l).</i>
+Subsec. (<i>l</i>). Pub. L. 95–615, §206, redesignated former subsec. (k) as (<i>l</i>).
 
 1977—Subsec. (b)(2)(C)(i). Pub. L. 95–30 substituted “section 63” for “section 63(a)”.
 

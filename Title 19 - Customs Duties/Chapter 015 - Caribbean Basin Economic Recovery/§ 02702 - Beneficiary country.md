@@ -14,7 +14,7 @@
 
 #### (b) Countries eligible for designation as beneficiary countries; conditions
 
-In designating countries as “beneficiary countries” under this chapter the President shall consider only the following countries and territories or successor political entities:
+In designating countries as “beneficiary countries” under this chapter the President shallconsider only the following countries and territories or successor political entities:
 
 &nbsp;Anguilla
 
@@ -108,7 +108,7 @@ Virgin Islands, British
 
 &emsp;(6) unless such country is a signatory to a treaty, convention, protocol, or other agreement regarding the extradition of United States citizens; and
 
-&emsp;(7) if such country has not or is not taking steps to afford internationally recognized worker rights (as defined in section 2462(a)(4) of this title) to workers in the country (including any designated zone in that country).
+&emsp;(7) if such country has not or is not taking steps to afford internationally recognized worker rights (as defined in section 2467(4) of this title) to workers in the country (including any designated zone in that country).
 
 > Paragraphs (1), (2), (3), (5), and (7) shall not prevent the designation of any country as a beneficiary country under this Act if the President determines that such designation will be in the national economic or security interest of the United States and reports such determination to the Congress with his reasons therefor.
 
@@ -134,7 +134,7 @@ In determining whether to designate any country a beneficiary country under this
 
 &emsp;(9) the extent to which such country provides under its law adequate and effective means for foreign nationals to secure, exercise, and enforce exclusive rights in intellectual property, including patent, trademark, and copyright rights;
 
-&emsp;(10) the extent to which such country prohibits its nationals from engaging in thebroadcast of copyrighted material, including films or television material, belonging to United States copyright owners without their express consent; and
+&emsp;(10) the extent to which such country prohibits its nationals from engaging in the broadcast of copyrighted material, including films or television material, belonging to United States copyright owners without their express consent; and
 
 &emsp;(11) the extent to which such country is prepared to cooperate with the United States in the administration of the provisions of this chapter.
 
@@ -168,7 +168,7 @@ In determining whether to designate any country a beneficiary country under this
 
 On or before October 1, 1993, and the close of each 3-year period thereafter, the President shall submit to the Congress a complete report regarding the operation of this chapter, including the results of a general review of beneficiary countries based on the considerations described in subsections (b) and (c) of this section.
 
-(Pub. L. 98–67, title II, §212, Aug. 5, 1983, 97 Stat. 384; Pub. L. 99–570, title IX, §9002(b), Oct. 27, 1986, 100 Stat. 3207–166; Pub. L. 100–418, title I, §§1214(q)(1), 1909(c), Aug. 23, 1988, 102 Stat. 1159, 1318; Pub. L. 101–382, title II, §§213, 214, Aug. 20, 1990, 104 Stat. 656; Pub. L. 103–465, title VI, §621(a)(2), Dec. 8, 1994, 108 Stat. 4992.)
+(Pub. L. 98–67, title II, §212, Aug. 5, 1983, 97 Stat. 384; Pub. L. 99–570, title IX, §9002(b), Oct. 27, 1986, 100 Stat. 3207–166; Pub. L. 100–418, title I, §§1214(q)(1), 1909(c), Aug. 23, 1988, 102 Stat. 1159, 1318; Pub. L. 101–382, title II, §§213, 214, Aug. 20, 1990, 104 Stat. 656; Pub. L. 103–465, title VI, §621(a)(2), Dec. 8, 1994, 108 Stat. 4992; Pub. L. 104–188, title I, §1954(a)(3), Aug. 20, 1996, 110 Stat. 1927.)
 
 #### References in Text
 
@@ -186,6 +186,8 @@ Subsec. (d) of this section amended general headnote 3(a) of the Tariff Schedule
 
 #### Amendments
 
+1996—Subsec. (b)(7). Pub. L. 104–188 substituted “2467(4)” for “2462(a)(4)”.
+
 1994—Subsec. (c)(4). Pub. L. 103–465 substituted “WTO Agreement and the multilateral trade agreements (as such terms are defined in paragraphs (9) and (4), respectively, of section 3501 of this title)” for “General Agreement on Tariffs and Trade, as well as applicable trade agreements approved under section 2503(a) of this title”.
 
 1990—Subsec. (b). Pub. L. 101–382, §213(1)–(4), added par. (7) and in concluding provisions substituted “(5), and (7)” for “and (5)”.
@@ -199,6 +201,10 @@ Subsec. (f). Pub. L. 101–382, §214, added subsec. (f).
 Subsec. (e). Pub. L. 100–418, §1909(c), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “The President shall, after complying with the requirements of subsection (a)(2) of this section, withdraw or suspend the designation of any country as a beneficiary country if, after such designation, he determines that as the result of changed circumstances such country would be barred from designation as a beneficiary country under subsection (b) of this section.”
 
 1986—Subsec. (b)(6), (7). Pub. L. 99–570 redesignated par. (7) as (6) and struck out former par. (6) which provided that the President shall not designate a country as a beneficiary country under this chapter if the country does not take adequate steps to cooperate with the United States to prevent narcotic drugs and other controlled substances produced, processed, or transported in the country from entering the United States unlawfully.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–188 applicable to articles entered on or after Oct. 1, 1996, with provisions relating to retroactive application, see section 1953 of Pub. L. 104–188, set out as an Effective Date note under section 2461 of this title.
 
 #### Effective Date of 1994 Amendment
 

@@ -14,7 +14,7 @@
 
 (b) While an order under subsection (a) is in effect with respect to a foreign nation, no application for registration of a claim for protection in a mask work under this chapter may be denied solely because the owner of the mask work is a national, domiciliary, or sovereign authority of that foreign nation, or solely because the mask work was first commercially exploited in that foreign nation.
 
-(c) Any order issued by the Secretary of Commerce under subsection (a) shall be effective for such period as the Secretary designates in the order, except that no such order may be effective after the date on which the authority of the Secretary of Commerce terminates under subsection (e). The effective date of any such order shall also be designated in the order. In the case of an order issued upon the petition of a person, such effective date may be no earlier than the date on which the Secretary receives such petition.
+(c) Any order issued by the Secretary of Commerce under subsection (a) shall be effective for such period as the Secretary designates in the order, except that no such order may be effective after the date on which the authority of the Secretary of Commerce terminates under subsection (e). The effective date of any such order shall also be designated in the order. In the caseof an order issued upon the petition of a person, such effective date may be no earlier than the date on which the Secretary receives such petition.
 
 (d)(1) Any order issued under this section shall terminate if—
 

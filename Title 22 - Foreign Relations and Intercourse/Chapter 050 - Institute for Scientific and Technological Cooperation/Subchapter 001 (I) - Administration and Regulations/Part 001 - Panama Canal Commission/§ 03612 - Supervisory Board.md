@@ -2,7 +2,7 @@
 
 #### (a) Composition of Board
 
-The Commission shall be supervised by a Board composed of nine members, one of whom shall be the Secretary of Defense or an officer of the Department of Defense designated by the Secretary. Not less than five members of the Board shall be nationals of the United States and the remaining members shall be nationals of the Republic of Panama. At least one of the members of the Board who are nationals of the United States shall be experienced and knowledgeable in the management or operation of an American-flag steamship line which has or had ships regularly transiting the Panama Canal, at least one other such member shall be experienced and knowledgeable in United States port operations or in the business of exporting or importing one of the regular commodities dependent on the Panama Canal as a transportation route, and at least one other such member shall be experienced and knowledgeable in labor matters in the United States. Three members of the Board shall hold no other office in or be employed by the Government of the United States. Members of the Board who are nationals of the United States shall cast their votes as directed by the Secretary of Defense or his designee.
+The Commission shall be supervised by a Board composed of nine members, one of whom shall be the Secretary of Defense or an officer of the Department of Defense designated by the Secretary. Not less than five members of the Board shall be nationals of the United States and the remaining members of the Board shall be nationals of the Republic of Panama. Three members of the Board who are nationals of the United States shall hold no other office in, and shall not be employed by, the Government of the United States, and shall be chosen for the independent perspective they can bring to the Commission's affairs. Members of the Board who are nationals of the United States shall cast their votes as directed by the Secretary of Defense or a designee of the Secretary of Defense.
 
 #### (b) Membership of Board; appointing authority; compensation and travel expenses; compensation for non-Government Board members
 
@@ -12,9 +12,11 @@ The President shall appoint the members of the Board. The members of the Board w
 
 The Board shall hold meetings as provided in regulations adopted by the Commission and approved by the Secretary of Defense. A quorum for the transaction of business shall consist of a majority of the Board members of which a majority of those present are nationals of the United States. The Secretary of Defense, or the officer of the Department of Defense designated by the Secretary under subsection (a) of this section, may act by proxy for any other member of the Board if that other member authorizes the proxy in writing and signs the proxy. The proxy may be counted to establish a quorum and may be used by the Secretary of Defense, or the officer of the Department of Defense designated by the Secretary under subsection (a) of this section, to cast the vote of the absent Board member and to act for that member with all the powers that member would possess if present.
 
-(Pub. L. 96–70, title I, §1102, Sept. 27, 1979, 93 Stat. 456; Pub. L. 98–217, Feb. 14, 1984, 98 Stat. 9; Pub. L. 99–223, §6, Dec. 28, 1985, 99 Stat. 1740; Pub. L. 100–203, title V, §5416, Dec. 22, 1987, 101 Stat. 1330–270; Pub. L. 100–705, §7, Nov. 19, 1988, 102 Stat. 4686; Pub. L. 101–510, div. C, title XXXV, §3504, Nov. 5, 1990, 104 Stat. 1846.)
+(Pub. L. 96–70, title I, §1102, Sept. 27, 1979, 93 Stat. 456; Pub. L. 98–217, Feb. 14, 1984, 98 Stat. 9; Pub. L. 99–223, §6, Dec. 28, 1985, 99 Stat. 1740; Pub. L. 100–203, title V, §5416, Dec. 22, 1987, 101 Stat. 1330–270; Pub. L. 100–705, §7, Nov. 19, 1988, 102 Stat. 4686; Pub. L. 101–510, div. C, title XXXV, §3504, Nov. 5, 1990, 104 Stat. 1846; Pub. L. 104–106, div. C, title XXXV, §3523, Feb. 10, 1996, 110 Stat. 638.)
 
 #### Amendments
+
+1996—Subsec. (a). Pub. L. 104–106 added subsec. (a) and struck out former subsec. (a) which read as follows: “The Commission shall be supervised by a Board composed of nine members, one of whom shall be the Secretary of Defense or an officer of the Department of Defense designated by the Secretary. Not less than five members of the Board shall be nationals of the United States and the remaining members shall be nationals of the Republic of Panama. At least one of the members of the Board who are nationals of the United States shall be experienced and knowledgeable in the management or operation of an American-flag steamship line which has or had ships regularly transiting the Panama Canal, at least one other such member shall be experienced and knowledgeable in United States port operations or in the business of exporting or importing one of the regular commodities dependent on the Panama Canal as a transportation route, and at least one other such member shall be experienced and knowledgeable in labor matters in the United States. Three members of the Board shall hold no other office in or be employed by the Government of the United States. Members of the Board who are nationals of the United States shall cast their votes as directed by the Secretary of Defense or his designee.”
 
 1990—Subsec. (b). Pub. L. 101–510 substituted “level V of the Executive Schedule under section 5316” for “grade GS–18 of the General Schedule under section 5332”.
 
@@ -36,5 +38,5 @@ Section 8 of Pub. L. 99–223 provided that: “Section 5 and section 6 of the A
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3611, 3714a of this title.
+This section is referred to in sections 3714a, 3723 of this title.
 

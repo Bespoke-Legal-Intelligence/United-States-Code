@@ -100,7 +100,9 @@ Act
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 (1)–(5), (12)–(16)
 
@@ -188,7 +190,7 @@ Former section 790(c) is omitted as unnecessary as the term “commission” is 
 
 Former section 790(i) is omitted as unnecessary as the title “Secretary of Labor” (substituted for “Federal Security Administrator” by 1950 Reorg. Plan No. 19, §1, eff. May 24, 1950, 64 Stat. 1271) is fully set out the first time it is used in each section.
 
-In paragraph (1)(B), the words “to the United States” are substituted for “to any department, independent establishment, or agency thereof (including instrumentalities of the United States wholly owned by it)”.
+In paragraph (1)(B), the words “to the United States” are substituted for “to any department, independentestablishment, or agency thereof (including instrumentalities of the United States wholly owned by it)”.
 
 In paragraph (1)(C), the words “subsequent to September 7, 1916” are omitted as obsolete.
 
@@ -232,13 +234,13 @@ Sections 521–535 of title 4, District of Columbia Code, referred to in par. (1
 
 #### Amendments
 
-<b>1991</b>—Par. (20). Pub. L. 102–54 substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
+1991—Par. (20). Pub. L. 102–54 substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
 
-<b>1983</b>—Par. (1)(F). Pub. L. 97–463 struck out “and who is otherwise an employee for the purposes of this subchapter as defined by paragraph (A), (B), (C), (D), and (E) of this subsection” after “petit or grand juror”.
+1983—Par. (1)(F). Pub. L. 97–463 struck out “and who is otherwise an employee for the purposes of this subchapter as defined by paragraph (A), (B), (C), (D), and (E) of this subsection” after “petit or grand juror”.
 
-<b>1980</b>—Pars. (19) to (21). Pub. L. 96–499 struck out par. (19) which defined “base month” as the month of July 1966 and each later month which was used as a basis for calculating an increase under section 8146a of this title, and redesignated pars. (20) and (21) as (19) and (20), respectively.
+1980—Pars. (19) to (21). Pub. L. 96–499 struck out par. (19) which defined “base month” as the month of July 1966 and each later month which was used as a basis for calculating an increase under section 8146a of this title, and redesignated pars. (20) and (21) as (19) and (20), respectively.
 
-<b>1974</b>—Par. (1)(D). Pub. L. 93–416, §1(g), struck out “and” after the semicolon.
+1974—Par. (1)(D). Pub. L. 93–416, §1(g), struck out “and” after the semicolon.
 
 Par. (1)(F). Pub. L. 93–416, §1(a), added par. (1)(F).
 
@@ -246,13 +248,13 @@ Par. (2). Pub. L. 93–416, §1(b), expanded definition of “physician” to in
 
 Par. (3). Pub. L. 93–416, §1(c), included within “medical, surgical, and hospital services and supplies” those supplied by podiatrists, dentists, clinical psychologists, optometrists, and chiropractors and limited the reimbursable services of chiropractors.
 
-Par. (5). Pub. L. 93–416, §1(d), added to definition of “injury” damage to or destruction of medical braces,artificial limbs, and other prosthetic devices and excepted eyeglasses and hearing aids unless damage or destruction is incidental to a personal injury requiring medical services.
+Par. (5). Pub. L. 93–416, §1(d), added to definition of “injury” damage to or destruction of medical braces, artificial limbs, and other prosthetic devices and excepted eyeglasses and hearing aids unless damage or destruction is incidental to a personal injury requiring medical services.
 
 Par. (11). Pub. L. 93–416, §1(e), substituted “the husband living with or dependent for support on the decedent at the time of her death, or living apart for reasonable cause because of her desertion” for “one who, because of physical or mental disability, was wholly dependent for support on the employee at the time of her death” as definition of “widower”.
 
 Pars. (20), (21). Pub. L. 93–416, §1(f), added pars. (20) and (21).
 
-<b>1967</b>—Par. (1)(iii). Pub. L. 90–83, §1(4), substituted “Environmental Science Services Administration” for “Coast and Geodetic Survey”. See Historical and Revision Notes under section 2101 of this title.
+1967—Par. (1)(iii). Pub. L. 90–83, §1(4), substituted “Environmental Science Services Administration” for “Coast and Geodetic Survey”. See Historical and Revision Notes under section 2101 of this title.
 
 #### Effective Date of 1980 Amendment
 

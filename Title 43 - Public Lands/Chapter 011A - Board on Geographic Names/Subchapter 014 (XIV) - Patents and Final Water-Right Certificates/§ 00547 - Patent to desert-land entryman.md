@@ -6,7 +6,7 @@ Any desert-land entryman whose desert-land entry has been embraced within the ex
 
 #### References in Text
 
-Act of June 17, 1902, known as the reclamation Act, referred to in text, is act June 17, 1902, ch. 1093, 32 Stat.388, as amended, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 371 of this title and Tables.
+Act of June 17, 1902, known as the reclamation Act, referred to in text, is act June 17, 1902, ch. 1093, 32 Stat. 388, as amended, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 371 of this title and Tables.
 
 #### Codification
 

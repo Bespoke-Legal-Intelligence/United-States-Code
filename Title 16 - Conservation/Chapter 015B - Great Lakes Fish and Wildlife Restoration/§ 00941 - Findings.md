@@ -10,19 +10,23 @@ The Congress finds and declares the following:
 
 &emsp;(4) The Great Lakes Basin contains important breeding and migration habitat for all types of migratory birds. Many migratory bird species dependent on deteriorating Great Lakes Basin habitat have suffered serious population declines in recent years.
 
-&emsp;(5) Over 80 percent of the original wetlands in the Great Lakes Basin have been destroyedand such losses continue at a rate of 20,000 acres annually.
+&emsp;(5) Over 80 percent of the original wetlands in the Great Lakes Basin have been destroyed and such losses continue at a rate of 20,000 acres annually.
 
 &emsp;(6) Contaminant burdens in the fish and wildlife resources of the Great Lakes Basin are substantial and the impacts of those contaminants on the life functions of important fish and wildlife resources are poorly understood. Concern over the effects of those contaminants on human health have resulted in numerous public health advisories recommending restricted or no consumption of Great Lakes fish.
 
 &emsp;(7) The lower Great Lakes are uniquely different from the upper Great Lakes biologically, physically, and in the degree of human use and shoreline development, and special fishery resource assessments and management activities are necessary to respond effectively to these special circumstances.
 
-(Pub. L. 101–537, title I, §1002, Nov. 8, 1990, 104 Stat. 2370; Pub. L. 101–646, title II, §2002, Nov. 29, 1990, 104 Stat. 4773.)
+(Pub. L. 101–537, title I, §1002, Nov. 8, 1990, 104 Stat. 2370; Pub. L. 101–646, title II, §2002, Nov. 29, 1990, 104 Stat. 4773; Pub. L. 104–332, §2(h)(1), Oct. 26, 1996, 110 Stat. 4091.)
 
 #### Codification
 
 Pub. L. 101–537 and Pub. L. 101–646 enacted identical sections.
 
+#### Amendments
+
+1996—Pub. L. 104–332 made technical amendment to Pub. L. 101–646, §2002, which enacted this section.
+
 #### Short Title
 
-Section 1001 of title I of Pub. L. 101–537, and section 2001 of title II of Pub. L. 101–646, provided that: “This title \[enacting this chapter\] may be cited as the ‘Great Lakes Fish and Wildlife Restoration Act of 1990’.”
+Section 1001 of title I of Pub. L. 101–537, and section 2001 of title II of Pub. L. 101–646, as amended by Pub. L. 104–332, §2(h)(1), Oct. 26, 1996, 110 Stat. 4091, provided that: “This title \[enacting this chapter\] may be cited as the ‘Great Lakes Fish and Wildlife Restoration Act of 1990’.”
 

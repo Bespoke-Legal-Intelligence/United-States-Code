@@ -8,13 +8,15 @@ There is established in the Treasury of the United States a trust fund to be kno
 
 There is hereby appropriated to the Airport and Airway Trust Fund—
 
-&emsp;(1) amounts equivalent to the taxes received in the Treasury after August 31, 1982, and before January 1, 1996, under subsections (c) and (e) of section 4041 (taxes on aviation fuel) and under sections 4261 and 4271 (taxes on transportation by air);
+&emsp;(1) amounts equivalent to the taxes received in the Treasury after August 31, 1982, and before January 1, 1997, under subsections (c) and (e) of section 4041 (taxes on aviation fuel) and under sections 4261 and 4271 (taxes on transportation by air);
 
-&emsp;(2) amounts determined by the Secretary of the Treasury to be equivalent to the taxes received in the Treasury after August 31, 1982, and before January 1, 1996, under section 4081 (to the extent of 14 cents per gallon), with respect to gasoline used in aircraft;
+&emsp;(2) amounts determined by the Secretary of the Treasury to be equivalent to the taxes received in the Treasury after August 31, 1982, and before and before <sup>1</sup> January 1, 1997, undersection 4081 (to the extent of 15 cents per gallon), with respect to gasoline used in aircraft;
 
-&emsp;(3) amounts determined by the Secretary to be equivalent to the taxes received in the Treasury before January 1, 1996, under section 4091 (to the extent attributable to the Airport and Airway Trust Fund financing rate); and
+&emsp;(3) amounts determined by the Secretary to be equivalent to the taxes received in the Treasury before January 1, 1997, under section 4091 (to the extent attributable to the Airport and Airway Trust Fund financing rate);
 
-&emsp;(4) amounts determined by the Secretary of the Treasury to be equivalent to the taxes received in the Treasury after August 31, 1982, and before January 1, 1996, under section 4071, with respect to tires of the types used on aircraft.
+&emsp;(4) amounts determined by the Secretary of the Treasury to be equivalent to the taxes received in the Treasury after August 31, 1982, and before January 1, 1997, under section 4071, with respect to tires of the types used on aircraft,<sup>2</sup> and
+
+&emsp;(5) amounts determined by the Secretary of the Treasury to be equivalent to the amounts of civil penalties collected under section 47107(n) of title 49, United States Code.
 
 #### (c) Appropriation of additional sums
 
@@ -24,9 +26,9 @@ There are hereby authorized to be appropriated to the Airport and Airway Trust F
 
 #### (1) Airport and airway program
 
-&emsp;Amounts in the Airport and Airway Trust Fund shall be available, as provided by appropriation Acts, for making expenditures before October 1, 1996, to meet those obligations of the United States—
+&emsp;Amounts in the Airport and Airway Trust Fund shall be available, as provided by appropriation Acts, for making expenditures before October 1, 1998, to meet those obligations of the United States—
 
-&emsp;&emsp;(A) incurred under title I of the Airport and Airway Development Act of 1970 or of the Airport and Airway Development Act Amendments of 1976 or of the Aviation Safety and Noise Abatement Act of 1979 or under the Fiscal Year 1981 Airport Development Authorization Act or the provisions of the Airport and Airway Improvement Act of 1982 or the Airport and Airway Safety and Capacity Expansion Act of 1987 or the FederalAviation Administration Research, Engineering, and Development Authorization Act of 1990 or the Aviation Safety and Capacity Expansion Act of 1990 or the Airport and Airway Safety, Capacity, Noise Improvement, and Intermodal Transportation Act of 1992 or the Airport Improvement Program Temporary Extension Act of 1994 or the Federal Aviation Administration Authorization Act of 1994;
+&emsp;&emsp;(A) incurred under title I of the Airport and Airway Development Act of 1970 or of the Airport and Airway Development Act Amendments of 1976 or of the Aviation Safety and Noise Abatement Act of 1979 or under the Fiscal Year 1981 Airport Development Authorization Act or the provisions of the Airport and Airway Improvement Act of 1982 or the Airport and Airway Safety and Capacity Expansion Act of 1987 or the Federal Aviation Administration Research, Engineering, and Development Authorization Act of 1990 or the Aviation Safety and Capacity Expansion Act of 1990 or the Airport and Airway Safety, Capacity, Noise Improvement, and Intermodal Transportation Act of 1992 or the Airport Improvement Program Temporary Extension Act of 1994 or the Federal Aviation Administration Authorization Act of 1994 or the Federal Aviation Reauthorization Act of 1996;
 
 &emsp;&emsp;(B) heretofore or hereafter incurred under part A of subtitle VII of title 49, United States Code, which are attributable to planning, research and development, construction, or operation and maintenance of—
 
@@ -46,7 +48,7 @@ There are hereby authorized to be appropriated to the Airport and Airway Trust F
 
 #### (2) Transfers from Airport and Airway Trust Fund on account of certain refunds
 
-&emsp;The Secretary of the Treasury shall pay from time to time from the Airport and Airway Trust Fund into the general fund of the Treasury amounts equivalent to the amounts paid after August 31, 1982, in respect of fuel used in aircraft, under section 6420 (relating to amounts paid in respect of gasoline used on farms,<sup>1</sup> 6421 (relating to amounts paid in respect of gasoline used for certain nonhighway purposes), or 6427 (relating to fuels not used for taxable purposes).
+&emsp;The Secretary of the Treasury shall pay from time to time from the Airport and Airway Trust Fund into the general fund of the Treasury amounts equivalent to the amounts paid after August 31, 1982, in respect of fuel used in aircraft, under section 6420 (relating to amounts paid in respect of gasoline used on farms,<sup>3</sup> 6421 (relating to amounts paid in respect of gasoline used for certain nonhighway purposes), or 6427 (relating to fuels not used for taxable purposes).
 
 #### (3) Transfers from the Airport and Airway Trust Fund on account of certain section 34 credits
 
@@ -55,6 +57,14 @@ There are hereby authorized to be appropriated to the Airport and Airway Trust F
 #### (4) Transfers for refunds and credits not to exceed Trust Fund revenues attributable to fuel used
 
 &emsp;The amounts payable from the Airport and Airway Trust Fund under paragraph (2) or (3) shall not exceed the amounts required to be appropriated to such Trust Fund with respect to fuel so used.
+
+#### (5) Transfers from Airport and Airway Trust Fund on account of refunds of taxes on transportation by air
+
+&emsp;The Secretary of the Treasury shall pay from time to time from the Airport and Airway Trust Fund into the general fund of the Treasury amounts equivalent to the amounts paid after December 31, 1995, under section 6402 (relating to authority to make credits or refunds) or section 6415 (relating to credits or refunds to persons who collected certain taxes) in respect of taxes under sections 4261 and 4271.
+
+#### (5) <sup>4</sup> Transfers from the Airport and Airway Trust Fund on account of certain airports
+
+&emsp;The Secretary of the Treasury may transfer from the Airport and Airway Trust Fund to the Secretary of Transportation or the Administrator of the Federal Aviation Administration an amount to make a payment to an airport affected by a diversion that is the subject of an administrative action under paragraph (3) or a civil action under paragraph (4) of section 47107(n) of title 49, United States Code.
 
 #### (e) Special rules for transfers into Trust Fund
 
@@ -78,7 +88,7 @@ For purposes of this section—
 
 &emsp;Except as otherwise provided in this subsection, the Airport and Airway Trust Fund financing rate is—
 
-&emsp;&emsp;(A) in the case of fuel used in an aircraft in noncommercial aviation (as defined in section 4041(c)(4)), 17.5 cents per gallon, and
+&emsp;&emsp;(A) in the case of fuel used in an aircraft in noncommercial aviation (as defined in section 4041(c)(2)), 17.5 cents per gallon, and
 
 &emsp;&emsp;(B) in the case of fuel used in an aircraft other than in noncommercial aviation (as so defined), zero.
 
@@ -88,9 +98,13 @@ For purposes of this section—
 
 #### (3) Termination
 
-&emsp;Notwithstanding the preceding provisions of this subsection, the Airport and Airway Trust Fund financing rate is zero with respect to tax received after December 31, 1995.
+&emsp;Notwithstanding the preceding provisions of this subsection, the Airport and Airway Trust Fund financing rate shall be zero with respect to—
 
-(Added Pub. L. 97–248, title II, §281(a), Sept. 3, 1982, 96 Stat. 565; amended Pub. L. 97–424, title IV, §426(e), Jan. 6, 1983, 96 Stat. 2168; Pub. L. 98–369, div. A, title IV, §474(r)(42), title VII, §735(c)(15), July 18, 1984, 98 Stat. 847, 984; Pub. L. 99–499, title V, §521(b)(2), Oct. 17, 1986, 100 Stat. 1778; Pub. L. 100–203, title X, §10502(d)(12), (g), Dec. 22, 1987, 101 Stat. 1330–444, 1330–446; Pub. L. 100–223, title IV, §§402(a)(3), 403, Dec. 30, 1987, 101 Stat. 1532; Pub. L. 101–239, title VII, §7822(b)(5), Dec. 19, 1989, 103 Stat. 2425; Pub. L. 101–508, title XI, §§11211(b)(6)(G), 11213(c), (d)(3), (4), Nov. 5, 1990, 104 Stat. 1388–426, 1388–435, 1388–436; Pub. L. 102–581, title V, §§501, 502(a), Oct. 31, 1992, 106 Stat. 4898; Pub. L. 103–66, title XIII, §13242(d)(32), (33), Aug. 10, 1993, 107 Stat. 526, 527; Pub. L. 103–260, title I, §108, May 26, 1994, 108 Stat. 700;Pub. L. 103–272, §5(g)(3), July 5, 1994, 108 Stat. 1375; Pub. L. 103–305, title IV, §401, Aug. 23, 1994, 108 Stat. 1594.)
+&emsp;&emsp;(A) taxes imposed after December 31, 1995, and before the date which is 7 calendar days after the date of the enactment of the Small Business Job Protection Act of 1996, and
+
+&emsp;&emsp;(B) taxes imposed after December 31, 1996.
+
+(Added Pub. L. 97–248, title II, §281(a), Sept. 3, 1982, 96 Stat. 565; amended Pub. L. 97–424, title IV, §426(e), Jan. 6, 1983, 96 Stat. 2168; Pub. L. 98–369, div. A, title IV, §474(r)(42), title VII, §735(c)(15), July 18, 1984, 98 Stat. 847, 984; Pub. L. 99–499, title V, §521(b)(2), Oct. 17, 1986, 100 Stat. 1778; Pub. L. 100–203, title X, §10502(d)(12), (g), Dec. 22, 1987, 101 Stat. 1330–444, 1330–446; Pub. L. 100–223, title IV, §§402(a)(3), 403, Dec. 30, 1987, 101 Stat. 1532; Pub. L. 101–239, title VII, §7822(b)(5), Dec. 19, 1989, 103 Stat. 2425; Pub. L. 101–508, title XI, §§11211(b)(6)(G), 11213(c), (d)(3), (4), Nov. 5, 1990, 104 Stat. 1388–426, 1388–435, 1388–436; Pub. L. 102–581, title V, §§501, 502(a), Oct. 31, 1992, 106 Stat. 4898; Pub. L. 103–66, title XIII, §13242(d)(32), (33), Aug. 10, 1993, 107 Stat. 526, 527; Pub. L. 103–260, title I, §108, May 26, 1994, 108 Stat. 700; Pub. L. 103–272, §5(g)(3), July 5, 1994, 108 Stat. 1375; Pub. L. 103–305, title IV, §401, Aug. 23, 1994, 108 Stat. 1594; Pub. L. 104–188, title I, §§1609(c), (g)(4)(C), (D), 1703(n)(10), Aug. 20, 1996, 110 Stat. 1841, 1843, 1877; Pub. L. 104–264, title VIII, §806, title X, §1001, Oct. 9, 1996, 110 Stat. 3274, 3278.)
 
 #### References in Text
 
@@ -106,7 +120,7 @@ The Airport and Airway Improvement Act of 1982, referred to in subsec. (d)(1)(A)
 
 The Airport and Airway Safety and Capacity Expansion Act of 1987, referred to in subsec. (d)(1)(A), is Pub. L. 100–223, Dec. 30, 1987, 101 Stat. 1486. Sections 101, 102(a)–(c), 103 to 105(g), 106 to 116, 201 to 207, 301 to 306, 308 to 311, and 315 of Pub. L. 100–223 were repealed by Pub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379, the first section of which enacted subtitles II, III, and V to X of Title 49. For complete classification of this Act to the Code, see Tables. For disposition of sections of former Title 49, see table at the beginning of Title 49.
 
-The Federal Aviation Administration Research, Engineering, and Development Authorization Act of 1990, referred to in subsec. (d)(1)(A), is subtitle C (§§9201–9209) of title IX of Pub. L. 101–508, Nov. 5, 1990, 104 Stat. 1388–372, which enacted section 2226d of former Title 49, amended sections 1353 and 2205 of former Title 49, and enacted provisions set out as a note under section 2201 of former Title 49. Sections 9202 to 9205 and 9207 to 9209 of title IX of Pub. L. 101–508 were repealed by Pub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379, the first section of which enacted subtitles II, III, and V to X of Title 49. For complete classification of this Act to the Code, see Tables. For disposition of sections of former Title 49, see table at the beginning of Title 49.
+The Federal Aviation Administration Research, Engineering, and Development Authorization Act of 1990,referred to in subsec. (d)(1)(A), is subtitle C (§§9201–9209) of title IX of Pub. L. 101–508, Nov. 5, 1990, 104 Stat. 1388–372, which enacted section 2226d of former Title 49, amended sections 1353 and 2205 of former Title 49, and enacted provisions set out as a note under section 2201 of former Title 49. Sections 9202 to 9205 and 9207 to 9209 of title IX of Pub. L. 101–508 were repealed by Pub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379, the first section of which enacted subtitles II, III, and V to X of Title 49. For complete classification of this Act to the Code, see Tables. For disposition of sections of former Title 49, see table at the beginning of Title 49.
 
 The Aviation Safety and Capacity Expansion Act of 1990, referred to in subsec. (d)(1)(A), is subtitle B (§§9101–9131) of title IX of Pub. L. 101–508, Nov. 5, 1990, 104 Stat. 1388–353, as amended. Sections 9102 to 9105, 9107 to 9112(b), 9113 to 9115, 9118, 9121 to 9123, 9124 “Sec. 613(c)”, 9125, 9127, and 9129 to 9131 of title IX of Pub. L. 101–508 were repealed by Pub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379, the first section of which enacted subtitles II, III, and V to X of Title 49. For complete classification of this Act to the Code, see Tables. For disposition of sections of former Title 49, see table at the beginning of Title 49.
 
@@ -116,11 +130,37 @@ The Airport Improvement Program Temporary Extension Act of 1994, referred to in 
 
 The Federal Aviation Administration Authorization Act of 1994, referred to in subsec. (d)(1)(A), is Pub. L. 103–305, Aug. 23, 1994, 108 Stat. 1569. For complete classification of this Act to the Code, see Short Title of 1994 Amendment note set out under section 40101 of Title 49 and Tables.
 
-The date of the enactment of the last Act referred to in subparagraph (A), referred to in subsec. (d)(1), is the date of enactment of the Federal Aviation Administration Authorization Act of 1994, Pub. L. 103–305, which was approved Aug. 23, 1994.
+The Federal Aviation Reauthorization Act of 1996, referred to in subsec. (d)(1)(A), is Pub. L. 104–264, Oct. 9, 1996, 110 Stat. 3213. For complete classification of this Act to the Code, see Short Title of 1996 Amendment note set out under section 40101 of Title 49 and Tables.
+
+The date of the enactment of the last Act referred to in subparagraph (A), referred to in subsec. (d)(1), is the date of enactment of the Federal Aviation Reauthorization Act of 1996, Pub. L. 104–264, which was approved Oct. 9, 1996.
 
 The Revenue Reconciliation Act of 1990, referred to in subsec. (e)(1), is title XI of Pub. L. 101–508, Nov. 5, 1990, 104 Stat. 1388–400. For complete classification of this Act to the Code, see Short Title of 1990 Amendment note set out under section 1 of this title and Tables.
 
+The date of the enactment of the Small Business Job Protection Act of 1996, referred to in subsec. (f)(3)(A), is the date of enactment of Pub. L. 104–188, which was approved Aug. 20, 1996.
+
 #### Amendments
+
+1996—Subsec. (b)(1). Pub. L. 104–188, §1609(c)(1), substituted “January 1, 1997” for “January 1, 1996”.
+
+Subsec. (b)(2). Pub. L. 104–188, §1703(n)(10), inserted “and before” after “1982,”.
+
+Pub. L. 104–188, §1609(c)(1), (g)(4)(D), substituted “January 1, 1997” for “January 1, 1996” and “15 cents” for “14 cents”.
+
+Subsec. (b)(3), (4). Pub. L. 104–188, §1609(c)(1), substituted “January 1, 1997” for “January 1, 1996”.
+
+Subsec. (b)(5). Pub. L. 104–264, §806(1)–(3), added par. (5).
+
+Subsec. (d)(1). Pub. L. 104–264, §1001(a), substituted “October 1, 1998” for “October 1, 1996” in introductory provisions.
+
+Subsec. (d)(1)(A). Pub. L. 104–264, §1001(b), inserted before semicolon at end “or the Federal Aviation Reauthorization Act of 1996”.
+
+Subsec. (d)(5). Pub. L. 104–264, §806(4), added par. (5) relating to transfers on account of certain airports.
+
+Pub. L. 104–188, §1609(c)(3), added par. (5) relating to transfers on account of refunds of taxes on transportation by air.
+
+Subsec. (f)(1)(A). Pub. L. 104–188, §1609(g)(4)(C), substituted “section 4041(c)(2)” for “section 4041(c)(4)”.
+
+Subsec. (f)(3). Pub. L. 104–188, §1609(c)(2), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Notwithstanding the preceding provisions of this subsection, the Airport and Airway Trust Fund financing rate is zero with respect to tax received after December 31, 1995.”
 
 1994—Subsec. (d)(1). Pub. L. 103–305, §401(1), (4), in introductory provisions substituted “October 1, 1996” for “October 1, 1995” and inserted last sentence which read: “Any reference in subparagraph (A) to an Act shall be treated as a reference to such Act and the corresponding provisions (if any) of title 49, United States Code, as such Act and provisions were in effect on the date of the enactment of the last Act referred to in subparagraph (A).”
 
@@ -170,6 +210,14 @@ Subsec. (d)(3). Pub. L. 98–369, §474(r)(42), substituted references to sectio
 
 1983—Subsec. (d)(1)(A). Pub. L. 97–424 substituted “the Surface Transportation Assistance Act of 1982” for “the Airport and Airway Improvement Act of 1982”.
 
+#### Effective Date of 1996 Amendments
+
+Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of Title 49, Transportation.
+
+Amendment by section 1609(c), (g)(4)(C), (D) of Pub. L. 104–188 effective on 7th calendar day after Aug. 20, 1996, see section 1609(i) of Pub. L. 104–188, set out as a note under section 4041 of this title.
+
+Amendment by section 1703(n)(10) of Pub. L. 104–188 effective as if included in the provision of the Revenue Reconciliation Act of 1993, Pub. L. 103–66, §§13001–13444, to which such amendment relates, see section 1703(<i>o</i>) of Pub. L. 104–188, set out as a note under section 39 of this title.
+
 #### Effective Date of 1993 Amendment
 
 Amendment by Pub. L. 103–66 effective Jan. 1, 1994, see section 13242(e) of Pub. L. 103–66, set out as a note under section 4041 of this title.
@@ -218,5 +266,11 @@ Savings provisions.—The Airport and Airway Trust Fund established by the amend
 
 This section is referred to in section 9503 of this title; title 49 sections 41737, 44716, 47107, 48101, 48102, 48103, 48104, 48106, 48107, 48108, 48110.
 
-<i><sup>1</sup></i><i> So in original. A closing parenthesis probably should precede the comma.</i>
+<i><sup>1</sup></i><i> So in original.</i>
+
+<i><sup>2</sup></i><i> So in original. The comma probably should be a semicolon.</i>
+
+<i><sup>3</sup></i><i> So in original. A closing parenthesis probably should precede the comma.</i>
+
+<i><sup>4</sup></i><i> So in original. Probably should be “(6)”.</i>
 

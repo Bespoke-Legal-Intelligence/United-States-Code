@@ -22,7 +22,7 @@ The date of enactment of the Foreign Relations Authorization Act, Fiscal Years 1
 
 1994—Pub. L. 103–236 designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
 
-#### Effect of Repeal of Section 73 of Act Jan. 12, 1895
+#### Effect of Repeal of Section 73 of Act Jan. 12, 1895
 
 This section and section 112 of this title as not affected by the repeal of section 73 of act Jan. 12, 1895, ch. 23, 28 Stat. 615, which related to the same subject matter, see section 56(i) of act Oct. 31, 1951, ch. 655, 65 Stat. 729.
 

@@ -8,7 +8,7 @@ Notwithstanding any other provision of law relating to Federal grants and cooper
 
 Prior to awarding any grant or agreement under subsection (a) of this section, the applicable Federal, State, or local environmental agency shall certify to the Administrator that such grants or agreements will not—
 
-&emsp;(1) result in the displacement of individuals currently employed by the environmental agency concerned (including partial displacement through reduction of nonovertime hours, wages, or employment benefits);
+&emsp;(1) result in the displacement of individuals currently employed by the environmentalagency concerned (including partial displacement through reduction of nonovertime hours, wages, or employment benefits);
 
 &emsp;(2) result in the employment of any individual when any other person is in a layoff status from the same or substantially equivalent job within the jurisdiction of the environmental agency concerned; or
 

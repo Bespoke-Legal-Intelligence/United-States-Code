@@ -32,7 +32,7 @@ Any person who—
 
 #### (C) Possession
 
-&emsp;&emsp;Knowingly and without lawful excuse (the burden of proof of such excuse being on the accused) has in possession any washed, restored, altered stamp, which has been removed from any vellum, parchment, paper, instrument, writing, package, or article; or
+&emsp;&emsp;Knowingly and without lawful excuse (the burden of proof of such excuse being on theaccused) has in possession any washed, restored, altered stamp, which has been removed from any vellum, parchment, paper, instrument, writing, package, or article; or
 
 #### (5) Emptied stamped packages
 

@@ -48,7 +48,7 @@ The Secretary shall evaluate the effectiveness of programs conducted under this 
 
 (2) Funds appropriated pursuant to this section shall remain available until expended.
 
-(3) Funds appropriated under this subsection may be combined with other funds made available for the State by the Federal Government for literacy training for individuals with limited English proficiency.
+(3) Funds appropriated under this subsection may be combined with other funds made available for the State by the Federal Governmentfor literacy training for individuals with limited English proficiency.
 
 (4) Not more than 10 percent of funds available under this section may be used to carry out the provisions of subsection (d) of this section.
 

@@ -116,7 +116,7 @@ Subsec. (c). Pub. L. 99–272, §13003(a)(2), added subsec. (c).
 
 #### Effective Date of 1992 Amendment
 
-Section 106(b) of Pub. L. 102–318 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to weeks beginning after August 1, 1990.”
+Section 106(b) of Pub. L. 102–318 provided that: “The amendments made by subsection (a) \[amending thissection\] shall apply to weeks beginning after August 1, 1990.”
 
 #### Effective Date of 1988 Amendment
 
@@ -128,7 +128,7 @@ Section 13009 of Pub. L. 99–272 provided that:
 
 “(a)
 
-In General.—Except as provided in subsections (b) and (c), the amendments made by this part \[part 1\(§§13001–13009) of subtitle A, amending this section, sections 2271, 2272, 2292, 2293, 2296, 2297, 2311, 2317, 2319, 2341 to 2344, and 2346 of this title, and provisions set out as a note preceding section 2271 of this title\] shall take effect on the date of the enactment of this Act \[Apr. 7, 1986\].
+In General.—Except as provided in subsections (b) and (c), the amendments made by this part \[part 1 (§§13001–13009) of subtitle A, amending this section, sections 2271, 2272, 2292, 2293, 2296, 2297, 2311, 2317, 2319, 2341 to 2344, and 2346 of this title, and provisions set out as a note preceding section 2271 of this title\] shall take effect on the date of the enactment of this Act \[Apr. 7, 1986\].
 
 “(b)
 

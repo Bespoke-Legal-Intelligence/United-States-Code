@@ -6,7 +6,9 @@ A motor carrier, motor carrier of migrant workers, or motor private carrier not 
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -31,6 +33,8 @@ Feb. 4, 1887, ch. 104, 24 Stat. 379, §204(a)(3a) (last sentence) (related to �
 Oct. 15, 1966, Pub. L. 89–670, §6(f)(2), 80 Stat. 940.
 
 The section is included because 49:1655(f)(2) gave the same administrative powers exercised by the Interstate Commerce Commission under certain sections of title 49 to the Secretary of Transportation to carry out duties transferred to the Secretary by 49:1655(e). See the revision notes for section 501 of the revised title for an explanation of the transfer under 49:1655(f)(2). The powers of the Commission have been codified in subtitle IV of the revised title. The comparable provisions of title 49 that are represented by the section may be found as follows:
+
+&nbsp;
 
 | <i>Section 525</i> | <i>49 U.S. Code</i> | <i>Revised Section</i> |
 | --- | --- | --- |

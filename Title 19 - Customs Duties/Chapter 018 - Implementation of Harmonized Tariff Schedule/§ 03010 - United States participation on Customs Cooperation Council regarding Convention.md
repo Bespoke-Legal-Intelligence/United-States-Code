@@ -12,7 +12,7 @@
 
 #### (b) Development of technical proposals
 
-(1) In connection with responsibilities arising from the implementation of the Convention and under section 1484(e) <sup>1</sup> of this title regarding United States programs for the development of adequate and comparable statistical information on merchandise trade, the Secretary of the Treasury, the Secretary of Commerce, and the Commission shall prepare technical proposals that are appropriate or required to assure that the United States contribution to the development of the Convention recognizes the needs of the United States business community for a Convention which reflects sound principles of commodity identification, modern producing methods, and current trading patterns and practices.
+(1) In connection with responsibilities arising from the implementation of the Convention and under section 1484(f) of this title regarding United States programs for the development of adequate and comparable statistical information on merchandise trade, the Secretary of the Treasury, the Secretary of Commerce, and the Commission shall prepare technical proposals that are appropriate or required to assure that the United States contribution to the development of the Convention recognizes the needs of the United States business community for a Convention which reflects sound principles of commodity identification, modern producing methods, and current trading patterns and practices.
 
 (2) In carrying out this subsection, the Secretary of the Treasury, the Secretary of Commerce, and the Commission shall—
 
@@ -22,7 +22,7 @@
 
 &emsp;(C) where appropriate, establish procedures for—
 
-&emsp;&emsp;(i) ensuring that the dispute settlement provisions and other relevant proceduresavailable under the Convention are utilized to promote United States export interests, and
+&emsp;&emsp;(i) ensuring that the dispute settlement provisions and other relevant procedures available under the Convention are utilized to promote United States export interests, and
 
 &emsp;&emsp;(ii) submitting classification questions to the Harmonized System Committee of the Customs Cooperation Council.
 
@@ -34,11 +34,9 @@ As soon as practicable after August 23, 1988, and periodically thereafter as app
 
 &emsp;(2) subject to applicable copyright laws, the Explanatory Notes, Classification Opinions, and other instruments of the Customs Cooperation Council relating to the Convention.
 
-(Pub. L. 100–418, title I, §1210, Aug. 23, 1988, 102 Stat. 1152.)
+(Pub. L. 100–418, title I, §1210, Aug. 23, 1988, 102 Stat. 1152; Pub. L. 104–295, §21(e)(10), Oct. 11, 1996, 110 Stat. 3531.)
 
-#### References in Text
+#### Amendments
 
-Section 1484 of this title, referred to in subsec. (b)(1), was amended generally by Pub. L. 103–182, title VI, §637(a), Dec. 8, 1993, 107 Stat. 2200, and, as so amended, provisions relating to statistical information are now contained in section 1484(f).
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+1996—Subsec. (b)(1). Pub. L. 104–295 substituted “1484(f)” for “1484(e)”.
 

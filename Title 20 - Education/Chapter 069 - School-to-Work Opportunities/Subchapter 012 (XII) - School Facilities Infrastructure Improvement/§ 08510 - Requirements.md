@@ -8,7 +8,7 @@
 
 #### (2) Supplement not supplant
 
-&emsp;An eligible local educational agency shall use funds received under this subchapter only to supplement the amount of funds thatwould, in the absence of such Federal funds, be made available from non-Federal sources for the repair, renovation, alteration, and construction of school facilities used for educational purposes, and not to supplant such funds.
+&emsp;An eligible local educational agency shall use funds received under this subchapter only to supplement the amount of funds that would, in the absence of such Federal funds, be made available from non-Federal sources for the repair, renovation, alteration, and construction of school facilities used for educational purposes, and not to supplant such funds.
 
 #### (b) General limitations
 

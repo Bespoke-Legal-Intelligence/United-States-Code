@@ -2,7 +2,7 @@
 
 (a)(1) In the event of default in the payment of any loan guaranteed under this chapter, the holder of the obligation shall notify the Secretary of such default. Upon receipt of such notice, the Secretary may, subject to subsection (c) of this section, pay to such holder the guaranty not in excess of the pro rata portion of the amount originally guaranteed. Except as provided in section 3703(e) of this title, if the Secretary makes such a payment, the Secretary shall be subrogated to the rights of the holder of the obligation to the extent of the amount paid on the guaranty.
 
-(2) Before suit or foreclosure the holder of the obligation shall notify the Secretary of the default, and within thirty days thereafter the Secretary may, at the Secretary's option, pay the holder of the obligation the unpaid balance of the obligation plus accrued interest and receivean assignment of the loan and security. Nothing in this section shall preclude any forebearance for the benefit of the veteran as may be agreed upon by the parties to the loan and approved by the Secretary.
+(2) Before suit or foreclosure the holder of the obligation shall notify the Secretary of the default, and within thirty days thereafter the Secretary may, at the Secretary's option, pay the holder of the obligation the unpaid balance of the obligation plus accrued interest and receive an assignment of the loan and security. Nothing in this section shall preclude any forebearance for the benefit of the veteran as may be agreed upon by the parties to the loan and approved by the Secretary.
 
 (3) The Secretary may establish the date, not later than the date of judgment and decree of foreclosure or sale, upon which accrual of interest or charges shall cease.
 
@@ -44,7 +44,7 @@
 
 (4) A case referred to in paragraphs (5), (6), and (7) of this subsection as being described in this paragraph is a case in which the net value of the property securing a defaulted loan exceeds the amount of the total indebtedness under the loan minus the amount guaranteed under this chapter.
 
-(5) In a case described in paragraph (4) of this subsection, if the holder of the defaulted loanacquires the property securing the loan at a liquidation sale for an amount that does not exceed the lesser of the net value of the property or the total indebtedness under the loan—
+(5) In a case described in paragraph (4) of this subsection, if the holder of the defaulted loan acquires the property securing the loan at a liquidation sale for an amount that does not exceed the lesser of the net value of the property or the total indebtedness under the loan—
 
 &emsp;(A) the holder shall have the option to convey the property to the United States in return for payment by the Secretary of an amount equal to the lesser of such net value or total indebtedness; and
 
@@ -60,7 +60,7 @@
 
 &emsp;(B) the liability of the United States under the loan guaranty under this chapter is as provided in paragraph (6) of this subsection.
 
-(8) If the net value of the property securing a defaulted loan is not greater than the amount of the total indebtedness under the loan minus the amount guaranteed under this chapter—
+(8) If the net value of the property securing a defaulted loan is not greater than the amount ofthe total indebtedness under the loan minus the amount guaranteed under this chapter—
 
 &emsp;(A) the Secretary may not accept conveyance of the property from the holder of the loan; and
 
@@ -86,7 +86,7 @@
 
 (11) This subsection shall apply to loans closed before October 1, 1998.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1212, §1816(a)–(c); Pub. L. 89–117, title I, §107(f), Aug. 10, 1965, 79 Stat. 460; Pub. L. 94–324, §7(17), June 30, 1976, 90 Stat. 722; Pub. L. 98–369, div. B, title V, §2512(a), July 18, 1984, 98 Stat. 1117; Pub. L. 100–198, §§4(a), 5(a), Dec. 21, 1987, 101 Stat. 1316; renumbered §1832 and amended Pub. L. 100–322, title IV, §415(b)(1)(A)–(C), (5), May 20, 1988, 102 Stat. 550, 551; Pub. L. 101–237, title III, §§304(b), 307–308(b)(1), 313(b)(1), (2), Dec. 18, 1989, 103 Stat.2073–2075, 2077; Pub. L. 102–54, §§1, 3(a), 14(g)(1), June 13, 1991, 105 Stat. 267, 288; renumbered §3732 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–66, title XII, §12006(a), Aug. 10, 1993, 107 Stat. 414; Pub. L. 103–446, title IX, §907, Nov. 2, 1994, 108 Stat. 4677.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1212, §1816(a)–(c); Pub. L. 89–117, title I, §107(f), Aug. 10, 1965, 79 Stat. 460; Pub. L. 94–324, §7(17), June 30, 1976, 90 Stat. 722; Pub. L. 98–369, div. B, title V, §2512(a), July 18, 1984, 98 Stat. 1117; Pub. L. 100–198, §§4(a), 5(a), Dec. 21, 1987, 101 Stat. 1316; renumbered §1832 and amended Pub. L. 100–322, title IV, §415(b)(1)(A)–(C), (5), May 20, 1988, 102 Stat. 550, 551; Pub. L. 101–237, title III, §§304(b), 307–308(b)(1), 313(b)(1), (2), Dec. 18, 1989, 103 Stat. 2073–2075, 2077; Pub. L. 102–54, §§1, 3(a), 14(g)(1), June 13, 1991, 105 Stat. 267, 288; renumbered §3732 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–66, title XII, §12006(a), Aug. 10, 1993, 107 Stat. 414; Pub. L. 103–446, title IX, §907, Nov. 2, 1994, 108 Stat. 4677.)
 
 #### Amendments
 
@@ -172,7 +172,7 @@ Section 5(c) of Pub. L. 100–198 provided that: “The amendments made by subse
 
 #### Effective Date of 1984 Amendments
 
-Section 1(a) of Pub. L. 100–136 provided that: “Notwithstanding section 2512(c) of the Deficit ReductionAct of 1984 (Public Law 98–369) \[set out below\], the provisions of section 1816(c) \[now 3732(c)\] of title 38, United States Code, shall continue in effect through November 15, 1987.”
+Section 1(a) of Pub. L. 100–136 provided that: “Notwithstanding section 2512(c) of the Deficit Reduction Act of 1984 (Public Law 98–369) \[set out below\], the provisions of section 1816(c) \[now 3732(c)\] of title 38, United States Code, shall continue in effect through November 15, 1987.”
 
 Section 2512(c)(1) of Pub. L. 98–369 provided that: “The amendments made by subsection (a) \[amending subsec. (a) and adding subsecs. (c) and (d) of section 1816 \[now 3732(a), (c) and 3733(a)\] of this title\] shall take effect on October 1, 1984.”
 

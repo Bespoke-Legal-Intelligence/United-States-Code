@@ -12,7 +12,7 @@ The word “vehicle” includes every description of carriage or other contrivan
 
 #### (c) Merchandise
 
-The word “merchandise” means goods, wares, and chattels of every description, and includes merchandise the importation of which is prohibited, and monetary instruments as defined in section 5312 of title 31.
+The word “merchandise” means goods, wares, and chattels of every description, and includesmerchandise the importation of which is prohibited, and monetary instruments as defined in section 5312 of title 31.
 
 #### (d) Person
 
@@ -88,9 +88,9 @@ The term “import activity summary statement” refers to data or information t
 
 #### (s) Reconciliation
 
-The term “reconciliation” means an electronic process, initiated at the request of an importer, under which the elements of an entry, other than those elements related to the admissibility of the merchandise, that are undetermined at the time of entry summary are provided to the Customs Service at a later time. A reconciliation is treated as an entry for purposes of liquidation, reliquidation, and protest.
+The term “reconciliation” means an electronic process, initiated at the request of an importer, under which the elements of an entry (other than those elements related to the admissibility of the merchandise) that are undetermined at the time the importer files or transmits the documentation or information required by section 1484(a)(1)(B) of this title, or the import activity summary statement, are provided to the Customs Service at a later time. A reconciliation is treated as an entry for purposes of liquidation, reliquidation, recordkeeping, and protest.
 
-(June 17, 1930, ch. 497, title IV, §401, 46 Stat. 708; Aug. 5, 1935, ch. 438, title II, §201, 49 Stat. 521; June 25, 1938, ch. 679, §2, 52 Stat. 1077; Proc. No. 2695, July 4, 1946, 11 F.R. 7517, 60 Stat. 1352; June 30, 1955, ch. 258, §2(a)(3), 69 Stat. 242; June 2, 1970, Pub. L. 91–271, title III, §301(c), 84 Stat. 288; Oct. 27, 1986, Pub. L. 99–570, title III, §3111, 100 Stat. 3207–80; Dec. 8, 1993, Pub. L. 103–182, title VI, §634, 107 Stat. 2198.)
+(June 17, 1930, ch. 497, title IV, §401, 46 Stat. 708; Aug. 5, 1935, ch. 438, title II, §201, 49 Stat. 521; June 25, 1938, ch. 679, §2, 52 Stat. 1077; Proc. No. 2695, July 4, 1946, 11 F.R. 7517, 60 Stat. 1352; June 30, 1955, ch. 258, §2(a)(3), 69 Stat. 242; June 2, 1970, Pub. L. 91–271, title III, §301(c), 84 Stat. 288; Oct.27, 1986, Pub. L. 99–570, title III, §3111, 100 Stat. 3207–80; Dec. 8, 1993, Pub. L. 103–182, title VI, §634, 107 Stat. 2198; Oct. 11, 1996, Pub. L. 104–295, §§3(a)(6)(A), 18(a), 110 Stat. 3515, 3524.)
 
 #### References in Text
 
@@ -113,6 +113,10 @@ Section III, by subdivision A thereof, amended the Customs Administrative Act of
 The Customs Administrative Act of June 10, 1890, as originally enacted and as amended previous to the Payne-Aldrich Tariff Act, consisted of thirty sections, of which section 30 prescribed the time when the act should go into effect. Of the preceding twenty-nine sections of the original act, section 15 providing for review by the courts of decisions of the Board of General Appraisers, was omitted from the act as further amended by the Payne-Aldrich Tariff Act, and the remaining twenty-eight sections were amended thereby, constituting sections 1–28 thereof. A new section, designated as section 29, was added by the Payne-Aldrich Tariff Act, which created a Court of Customs Appeals and prescribed its jurisdiction and powers, proceedings, etc. Its provisions were incorporated in and superseded by chapter 8 of the Judicial Code of March 3, 1911. Another new section, designated as section 30, was also added by the Payne-Aldrich Tariff Act, which provided for the appointment of an Assistant Attorney-General, a Deputy Assistant Attorney-General, and attorneys, in charge of matters of reappraisement, etc., of imported goods and litigation incident thereto. Section 30 was incorporated into the Code as section 296 of former Title 5, Executive Departments and Government Officers and Employees, and subsequently repealed by Pub. L. 89–554, Sept. 6, 1966, §8(a), 80 Stat. 632.
 
 #### Amendments
+
+1996—Subsec. (s). Pub. L. 104–295, §18(a), amended first sentence generally. Prior to amendment, first sentence read as follows: “The term ‘reconciliation’ means an electronic process, initiated at the request of an importer, under which the elements of an entry, other than those elements related to the admissibility of the merchandise, that are undetermined at the time of entry summary are provided to the Customs Service at a later time.”
+
+Pub. L. 104–295, §3(a)(6)(A), inserted “recordkeeping,” after “reliquidation,”.
 
 1993—Subsec. (k). Pub. L. 103–182, §634(1), amended subsec. (k) generally. Prior to amendment, subsec. (k) read as follows:
 
@@ -157,6 +161,10 @@ Subsecs. (m), (n). Pub. L. 91–271, §301(c)(2), redesignated subsecs. (m) and 
 #### Change of Name
 
 United States Customs Service substituted for Bureau of Customs in subsec. (i) pursuant to Treasury Department Order 165–23, Apr. 4, 1973, eff. Aug. 1, 1973, 38 F.R. 13037. See, also, section 308 of Title 31, Money and Finance.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by section 3(a)(6)(A) of Pub. L. 104–295 applicable as of Dec. 8, 1993, see section 3(b) of Pub. L. 104–295, set out as a note under section 1321 of this title.
 
 #### Effective Date of 1970 Amendment
 

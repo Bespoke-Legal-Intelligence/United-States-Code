@@ -4,7 +4,7 @@
 
 (2) Repealed. Pub. L. 100–480, §8, Oct. 7, 1988, 102 Stat. 2334.
 
-(b) Notwithstanding any other provision of law, the Secretary of Transportation is authorized to maintain, use, operate, manage, and lease, either directly, by contract, or through development agreements, any property interest held or acquired by the Secretary of Transportation for the United States under this part, in such manner and subject to such terms, conditions, covenants, and easements as the Secretary of Transportation deems necessary or desirable to carry out the purposes of this part.
+(b) Notwithstanding any other provision of law, the Secretary of Transportation is authorized to maintain, use, operate, manage, and lease, either directly, by contract, or through development agreements, any property interestheld or acquired by the Secretary of Transportation for the United States under this part, in such manner and subject to such terms, conditions, covenants, and easements as the Secretary of Transportation deems necessary or desirable to carry out the purposes of this part.
 
 (Pub. L. 90–264, title I, §116, as added Pub. L. 97–125, §3(3), Dec. 29, 1981, 95 Stat. 1671; amended Pub. L. 100–480, §8, Oct. 7, 1988, 102 Stat. 2334.)
 

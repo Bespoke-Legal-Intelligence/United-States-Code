@@ -6,5 +6,5 @@ If, during any one year, 75 per centum of the receipts are insufficient fully to
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1181f–1, 1181f–2 of this title.
+This section is referred to in sections 869–4, 1181f–1, 1181f–2 of this title.
 

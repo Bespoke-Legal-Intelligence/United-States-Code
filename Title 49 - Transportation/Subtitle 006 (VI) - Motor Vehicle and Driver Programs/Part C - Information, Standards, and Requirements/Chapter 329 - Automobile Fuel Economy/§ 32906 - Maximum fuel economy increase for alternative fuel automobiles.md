@@ -20,7 +20,9 @@ Offsets.—Notwithstanding this section and sections 32901(c) and 32905 of this 
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -30,7 +32,7 @@ Historical and Revision Notes
 
 15:2013(g)(1).
 
-Oct. 20, 1972, Pub. L. 92–513, 86 Stat. 947, §513(g)(1), (2)(A); added Oct. 14, 1988, Pub. L. 100–494, §6(a), 102 Stat. 2449; Oct. 24, 1992, Pub. L. 102–486, §403(5)(G)(i), (ii)(I), 106 Stat. 2877.
+Oct. 20, 1972, Pub. L. 92–513, 86 Stat. 947, §513(g)(1), (2)(A); added Oct. 14, 1988, Pub. L. 100–494, §6(a), 102 Stat. 2449; Oct. 24, 1992, Pub. L. 102–486, §403(5) (G)(i), (ii)(I), 106 Stat. 2877.
 
 32906(b)
 

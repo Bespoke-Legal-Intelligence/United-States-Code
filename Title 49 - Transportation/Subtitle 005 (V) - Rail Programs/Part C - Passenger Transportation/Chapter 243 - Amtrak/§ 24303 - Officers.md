@@ -16,7 +16,9 @@ Conflicts of Interest.—When employed by Amtrak, an officer may not have a fina
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

@@ -16,7 +16,7 @@ Within 180 days after February 5, 1976, the Secretary shall develop and publishâ
 
 #### (c) Public hearings
 
-Commencing 30 days after the date of publication of the standards and designations required under subsection (b) of this section, the Office shall conduct public hearings, at representative locations, to solicit comments and receive views on the preliminary standards for classification and on the preliminary designations. The Office shall give notice of the date, time, and place of each such hearing, and such notices shall be designed and placed in such manner that all interested parties will have a full and fair opportunity to be heard.
+Commencing 30 days after the date of publication of the standards and designations required under subsection (b) of this section, the Office shall conduct public hearings, at representativelocations, to solicit comments and receive views on the preliminary standards for classification and on the preliminary designations. The Office shall give notice of the date, time, and place of each such hearing, and such notices shall be designed and placed in such manner that all interested parties will have a full and fair opportunity to be heard.
 
 #### (d) Report by Office
 

@@ -20,41 +20,47 @@ It is unlawful—
 
 &emsp;&emsp;(H) to interfere with, delay, or prevent, by any means, the apprehension or arrest of another person, knowing that such other person has committed any act prohibited by this section;
 
-&emsp;&emsp;(I) to knowingly and willfully submit to a Council, the Secretary, or the Governor of a State false information (including, but not limited to, false information regarding the capacity and extent to which a United States fish processor, on an annual basis, will process a portion of the optimum yield of a fishery that will be harvested by fishingvessels of the United States) regarding any matter that the Council, Secretary, or Governor is considering in the course of carrying out this chapter;
+&emsp;&emsp;(I) to knowingly and willfully submit to a Council, the Secretary, or the Governor of a State false information (including, but not limited to, false information regarding the capacity and extent to which a United States fish processor, on an annual basis, will process a portion of the optimum yield of a fishery that will be harvested by fishing vessels of the United States) regarding any matter that the Council, Secretary, or Governor is considering in the course of carrying out this chapter;
 
 &emsp;&emsp;(J) to ship, transport, offer for sale, sell, or purchase, in interstate or foreign commerce, any whole live lobster of the species Homarus americanus, that—
 
-&emsp;&emsp;&emsp;(i) is smaller than the minimum possession size in effect at the time under the American Lobster Fishery Management Plan, as implemented by regulations published in part 649 of title 50, Code of Federal Regulations, or any successor to that plan, implemented under this subchapter;
+&emsp;&emsp;&emsp;(i) is smaller than the minimum possession size in effect at the time under the American Lobster Fishery Management Plan, as implemented by regulations published in part 649 of title 50, Code of Federal Regulations, or any successor to that plan implemented under this subchapter, or in the absence of any such plan, is smaller than the minimum possession size in effect at the time under a coastal fishery management plan for American lobster adopted by the Atlantic States Marine Fisheries Commission under the Atlantic Coastal Fisheries Cooperative Management Act (16 U.S.C. 5101 et seq.);
 
 &emsp;&emsp;&emsp;(ii) is bearing eggs attached to its abdominal appendages; or
 
 &emsp;&emsp;&emsp;(iii) bears evidence of the forcible removal of extruded eggs from its abdominal appendages;
 
-&emsp;&emsp;(K) to knowingly steal, or without authorization, to remove, damage, or tamper with—
+&emsp;&emsp;(K) to to <sup>1</sup> steal or attempt to steal or to negligently and without authorization remove, damage, or tamper with—
 
 &emsp;&emsp;&emsp;(i) fishing gear owned by another person, which is located in the exclusive economic zone, or
 
-&emsp;&emsp;&emsp;(ii) fish contained in such fishing gear,
+&emsp;&emsp;&emsp;(ii) fish contained in such fishing gear;
 
-> &emsp;&emsp;or to attempt to do so;
+&emsp;&emsp;(L) to forcibly assault, resist, oppose, impede, intimidate, sexually harass, bribe, or interfere with any observer on a vessel under this chapter, or any data collector employed by the National Marine Fisheries Service or under contract to any person to carry out responsibilities under this chapter;
 
-&emsp;&emsp;(L) to forcibly assault, resist, oppose, impede, intimidate, or interfere with any observer on a vessel under this chapter;
+&emsp;&emsp;(M) to engage in large-scale driftnet fishing that is subject to the jurisdiction of the United States, including use of a fishing vessel of the United States to engage in such fishing beyond the exclusive economic zone of any nation;
 
-&emsp;&emsp;(M) to engage in large-scale driftnet fishing that is subject to the jurisdiction of the United States, including use of a fishing vessel of the United States to engage in such fishing beyond the exclusive economic zone of any nation; or
+&emsp;&emsp;(N) to strip pollock of its roe and discard the flesh of the pollock; or
 
-&emsp;&emsp;(N) to strip pollock of its roe and discard the flesh of the pollock.
+&emsp;&emsp;(O) to knowingly and willfully fail to disclose, or to falsely disclose, any financial interest as required under section 1852(j) ofthis title, or to knowingly vote on a Council decision in violation of section 1852(j)(7)(A) of this title.
 
 &emsp;(2) for any vessel other than a vessel of the United States, and for the owner or operator of any vessel other than a vessel of the United States, to engage—
 
-&emsp;&emsp;(A) in fishing within the boundaries of any State, except recreational fishing permitted under section 1821(j) of this title;
+&emsp;&emsp;(A) in fishing within the boundaries of any State, except—
 
-&emsp;&emsp;(B) in fishing, except recreational fishing permitted under section 1821(j) of this title, within the exclusive economic zone, or for any anadromous species or Continental Shelf fishery resources beyond such zone, unless such fishing is authorized by, and conducted in accordance with, a valid and applicable permit issued pursuant to section 1824(b) or (c) of this title; or
+&emsp;&emsp;&emsp;(i) recreational fishing permitted under section 1821(i) of this title;
+
+&emsp;&emsp;&emsp;(ii) fish processing permitted under section 1856(c) of this title; or
+
+&emsp;&emsp;&emsp;(iii) transshipment at sea of fish or fish products within the boundaries of any State in accordance with a permit approved under section 1824(d) of this title;
+
+&emsp;&emsp;(B) in fishing, except recreational fishing permitted under section 1821(i) of this title, within the exclusive economic zone, or for any anadromous species or Continental Shelf fishery resources beyond such zone, unless such fishing is authorized by, and conducted in accordance with, a valid and applicable permit issued pursuant to section 1824(b), (c), or (d) of this title; or
 
 &emsp;&emsp;(C) except as permitted under section 1856(c) of this title, in fish processing (as defined in paragraph (4)(A) of such section) within the internal waters of a State (as defined in paragraph (4)(B) of such section);
 
-&emsp;(3) for any vessel of the United States, and for the owner or operator of any vessel of the United States, to transfer directly or indirectly, or attempt to so transfer, any United States harvested fish to any foreign fishing vessel, while such foreign vessel is within the exclusive economic zone, unless the foreign fishing vessel has been issued a permit under section 1824 of this title which authorizes the receipt by such vessel of United States harvested fish of the species concerned;
+&emsp;(3) for any vessel of the United States, and for the owner or operator of any vessel of the United States, to transfer at sea directly or indirectly, or attempt to so transfer at sea, any United States harvested fish to any foreign fishing vessel, while such foreign vessel is within the exclusive economic zone or within the boundaries of any State except to the extent that the foreign fishing vessel has been permitted under section 1824(d) of this title or section 1856(c) of this title to receive such fish;
 
-&emsp;(4) for any fishing vessel other than a vessel of the United States to operate, and for the owner or operator of a fishing vessel other than a vessel of the United States to operate such vessel, in the exclusive economic zone, if—
+&emsp;(4) for any fishing vessel other than a vessel of the United States to operate, and for the owner or operator of a fishing vessel other than a vessel of the United States to operate such vessel, in the exclusive economic zone or within the boundaries of any State, if—
 
 &emsp;&emsp;(A) all fishing gear on the vessel is not stored below deck or in an area where it is not normally used, and not readily available, for fishing; or
 
@@ -64,21 +70,43 @@ It is unlawful—
 
 &emsp;(5) for any vessel of the United States, and for the owner or operator of any vessel of the United States, to engage in fishing in the waters of a foreign nation in a manner that violates an international fishery agreement between that nation and the United States that has been subject to Congressional oversight in the manner described in section 1823 of this title, or any regulations issued to implement such an agreement; except that the binding provisions of such agreement and implementing regulations shall have been published in the Federal Register prior to such violation.
 
-(Pub. L. 94–265, title III, §307, Apr. 13, 1976, 90 Stat. 355; Pub. L. 95–354, §5(4), Aug. 28, 1978, 92 Stat. 521; Pub. L. 97–191, §2, June 1, 1982, 96 Stat. 107; Pub. L. 97–453, §15(b), Jan. 12, 1983, 96 Stat. 2492; Pub. L. 99–659, title I, §§101(c)(2), 107(a), Nov. 14, 1986, 100 Stat. 3707, 3713; Pub. L. 100–629, §4, Nov. 7, 1988, 102 Stat. 3286; Pub. L. 101–224, §8, Dec. 12, 1989, 103 Stat. 1907; Pub. L. 101–627, title I, §113, Nov. 28, 1990, 104 Stat. 4453; Pub. L. 102–251, title III, §301(h), Mar. 9, 1992, 106 Stat. 64.)
+(Pub. L. 94–265, title III, §307, Apr. 13, 1976, 90 Stat. 355; Pub. L. 95–354, §5(4), Aug. 28, 1978, 92 Stat. 521; Pub. L. 97–191, §2, June 1, 1982, 96 Stat. 107; Pub. L. 97–453, §15(b), Jan. 12, 1983, 96 Stat. 2492; Pub. L. 99–659, title I, §§101(c)(2), 107(a), Nov. 14, 1986, 100 Stat. 3707, 3713; Pub. L. 100–629, §4, Nov. 7, 1988, 102 Stat. 3286; Pub. L. 101–224, §8, Dec. 12, 1989, 103 Stat. 1907; Pub. L. 101–627, title I, §113, Nov. 28, 1990, 104 Stat. 4453; Pub. L. 102–251, title III, §301(h), Mar. 9, 1992, 106 Stat. 64; Pub. L. 104–297, title I, §113, title IV, §405(b)(1), Oct. 11, 1996, 110 Stat. 3597, 3621.)
 
 #### Amendment of Section
 
-<i>Pub. L. 102–251, title III, §§301(h), 308, Mar. 9, 1992, 106 Stat. 64, 66, provided that, effective on the date on which the Agreement between the United States and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for the United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until the date on which the Agreement enters into force for the United States, this section is amended:</i>
+<i>Pub. L. 102–251, title III, §§301(h), 308, Mar. 9, 1992, 106 Stat. 64, 66, as amended by Pub. L. 104–297, title IV, §405(b)(1), Oct. 11, 1996, 110 Stat. 3621, provided that, effective on the date on which the Agreement between the United States and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for the United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until the date on which the Agreement enters into force for the United States, this section is amended:</i>
 
 <i>(1) in paragraph (1)(K), by inserting “or special areas” immediately after “exclusive economic zone”;</i>
 
-<i>(2) in paragraph (2)(B), (A) by inserting “within the special areas,” immediately after “exclusive economic zone,” and (B) by inserting “or areas” immediately after “such zone”;</i>
+<i>(2) in paragraph (2)(B), by inserting “or areas” immediately after “such zone”;</i>
 
 <i>(3) in paragraph (3), by inserting “or special areas” immediately after “exclusive economic zone”; and</i>
 
 <i>(4) in paragraph (4), by inserting “or special areas” immediately after “exclusive economic zone”.</i>
 
+#### References in Text
+
+The Atlantic Coastal Fisheries Cooperative Management Act, referred to in par. (1)(J)(i), is title VIII of Pub. L. 103–206, Dec. 20, 1993, 107 Stat. 2447, as amended, which is classified principally to chapter 71 (§5101 et seq.) of this title. For complete classification of title VIII to the Code, see Short Title note set out under section 5101 of this title and Tables.
+
 #### Amendments
+
+1996—Par. (1)(J)(i). Pub. L. 104–297, §113(a), substituted “plan implemented” for “plan, implemented” and inserted before semicolon at end “, or in the absence of any such plan, is smaller than the minimum possession size in effect at the time under a coastal fishery management plan for American lobster adopted by the Atlantic States Marine Fisheries Commission under the Atlantic Coastal Fisheries Cooperative Management Act (16 U.S.C. 5101 et seq.)”.
+
+Par. (1)(K). Pub. L. 104–297, §113(b)(2), substituted “gear;” for “gear,” at end of cl. (ii) and struck out concluding provisions which read as follows: “or to attempt to do so;”.
+
+Pub. L. 104–297, §113(b)(1), which directed substitution of “to steal or attempt to steal or to negligently and without authorization” for “knowingly steal or without authorization, to”, was executed by making the substitution for “knowingly steal, or without authorization, to” to reflect the probable intent of Congress.
+
+Par. (1)(L). Pub. L. 104–297, §113(c), amended subpar. (L) generally. Prior to amendment, subpar. (L) read as follows: “to forcibly assault, resist, oppose, impede, intimidate, or interfere with any observer on a vessel under this chapter;”.
+
+Par. (1)(O). Pub. L. 104–297, §113(d), added subpar. (O).
+
+Par. (2)(A). Pub. L. 104–297, §113(e), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “in fishing within the boundaries of any State, except recreational fishing permitted under section 1821(j) of this title;”.
+
+Par. (2)(B). Pub. L. 104–297, §113(f), substituted “1821(i)” for “1821(j)” and “1824(b), (c), or (d)” for “1824(b) or (c)”.
+
+Par. (3). Pub. L. 104–297, §113(g), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “for any vessel of the United States, and for the owner or operator of any vessel of the United States, to transfer directly or indirectly, or attempt to so transfer, any United States harvested fish to any foreign fishing vessel, while such foreign vessel is within the exclusive economic zone, unless the foreign fishing vessel has been issued a permit under section 1824 of this title which authorizes the receipt by such vessel of United States harvested fish of the species concerned;”.
+
+Par. (4). Pub. L. 104–297, §113(h), inserted “or within the boundaries of any State” after “zone” in introductory provisions.
 
 1990—Par. (1)(K) to (N). Pub. L. 101–627, §113(a), added subpars. (K) to (N).
 
@@ -116,9 +144,11 @@ Amendment by Pub. L. 97–191 effective June 1, 1982, see section 3 of Pub. L. 9
 
 #### Effective Date
 
-Section 312 of Pub. L. 94–265 provided that: “Sections 307, 308, 309, 310, and 311 \[sections 1857, 1858 to 1861 of this title\] shall take effect March 1, 1977.”
+Section 312 of Pub. L. 94–265, provided that this section and sections 1858 to 1861 of this title were to take effect Mar. 1, 1977, prior to the general amendment of section 312 by Pub. L. 104–297, title I, §116(a), Oct. 11, 1996, 110 Stat. 3600. See section 1861a of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 971e, 1821, 1827, 1858, 1859, 1860, 1861, 3606, 5103 of this title.
+This section is referred to in sections 971e, 1821, 1827, 1852, 1853, 1858, 1859, 1860, 1861, 3606, 5103 of this title.
+
+<i><sup>1</sup></i><i> So in original.</i>
 

@@ -20,7 +20,7 @@ From the funds appropriated to carry out this part pursuant to section 1006 of t
 
 &emsp;&emsp;(C) are designed to increase the understanding of specific subjects of secondary school students;
 
-&emsp;&emsp;(D) are designed to improve the opportunity to continue a program of education after graduation for secondary school students; and
+&emsp;&emsp;(D) are designed to improve the opportunity to continue a program of educationafter graduation for secondary school students; and
 
 &emsp;&emsp;(E) are designed to increase the prospects for employment after graduation of secondary school students.
 

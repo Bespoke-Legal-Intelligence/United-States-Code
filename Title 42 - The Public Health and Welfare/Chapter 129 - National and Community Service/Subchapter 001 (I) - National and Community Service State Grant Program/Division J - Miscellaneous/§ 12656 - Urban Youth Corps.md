@@ -66,7 +66,7 @@ For purposes of this section:
 
 #### (1) Establishment
 
-&emsp;There is hereby established in the Department of Housing and Urban Development and the Department of Transportation an Urban Youth Corps. The Corps shall consist of individuals between the ages of 16 and 25, inclusive, who are enrolled as participants in the Corps by the Secretary of Housing and Urban Development and the Secretary of Transportation. To be eligible for enrollment in the Corps, an individual shall satisfy the criteria specified in section 139(b) of the National and Community Service Act of 1990 \[42 U.S.C. 12593(b)\]. The Secretaries may enroll such individuals in the Corps without regard to thecivil service and classification laws, rules, or regulations of the United States. The Secretaries may establish a preference for the enrollment in the Corps of individuals who are economically, physically, or educationally disadvantaged.
+&emsp;There is hereby established in the Department of Housing and Urban Development and the Department of Transportation an Urban Youth Corps. The Corps shall consist of individuals between the ages of 16 and 25, inclusive, who are enrolled as participants in the Corps by the Secretary of Housing and Urban Development and the Secretary of Transportation. To be eligible for enrollment in theCorps, an individual shall satisfy the criteria specified in section 139(b) of the National and Community Service Act of 1990 \[42 U.S.C. 12593(b)\]. The Secretaries may enroll such individuals in the Corps without regard to the civil service and classification laws, rules, or regulations of the United States. The Secretaries may establish a preference for the enrollment in the Corps of individuals who are economically, physically, or educationally disadvantaged.
 
 #### (2) Use of qualified urban youth corps
 
@@ -128,7 +128,7 @@ The nondisplacement requirements of section 177 of the National and Community Se
 
 #### (3) Funds available under National and Community Service Act
 
-&emsp;In order to carry out the Urban Youth Corps or to support qualified urban youth corps under this section, the Secretaries shall be eligible to apply for and receive assistance undersection 121(b) of the National and Community Service Act of 1990 \[42 U.S.C. 12571(b)\].
+&emsp;In order to carry out the Urban Youth Corps or to support qualified urban youth corpsunder this section, the Secretaries shall be eligible to apply for and receive assistance under section 121(b) of the National and Community Service Act of 1990 \[42 U.S.C. 12571(b)\].
 
 (Pub. L. 103–82, title I, §106, Sept. 21, 1993, 107 Stat. 854.)
 

@@ -1,26 +1,30 @@
 ### §2122. Powers and duties of Secretary of Commerce
 
-In order to carry out the national tourism policy established by section 2121(b) of this title the Secretary of Commerce (hereafter in this chapter referred to as the “Secretary”) shall—
+In order to carry out the national tourism policy established in section 2121(b) of this title and by the United States National Tourism Organization Act of 1996 \[22 U.S.C. 2141 et seq.\], the Secretary of Commerce (hereafter in this chapter referred to as the “Secretary”) shall develop and implement a comprehensive plan to perform critical tourism functions which, in the determination of the Secretary, are not being carried out by the United States National Tourism Organization or other private sector entities or State governments. Such plan may include programs to—
 
-&emsp;(1) develop, plan, and carry out a comprehensive program designed to stimulate and encourage travel to the United States by residents of foreign countries for the purpose of study, culture, recreation, business, and other activities as a means of promoting friendly understanding and good will among peoples of foreign countries and of the United States;
+&emsp;(1) collect and publish comprehensive international travel and tourism statistics and other marketing information;
 
-&emsp;(2) provide export promotion services that will increase the number of States, local governments (as defined in section 3371(2) of title 5), and companies in the United States that sell their tourism services in the international market, expand the number of foreign markets in which exporting States, cities, and companies are active, and inform States, cities, and companies in the United States regarding the specialized services the international market requires;
+&emsp;(2) design, implement, and publish international travel and tourism forecasting models;
 
-&emsp;(3) encourage the development of receptive, linguistic, informational, currency exchange, meal, and package tour services required by the international market;
+&emsp;(3) facilitate the reduction or elimination of barriers to international travel and tourism; and
 
-&emsp;(4) foster and encourage the widest possible distribution of the benefits of travel at the cheapest rates between foreign countries and the United States consistent with sound economic principles;
+&emsp;(4) work with the United States National Tourism Organization, the Tourism Policy Council, State tourism agencies, and Federal agencies in—
 
-&emsp;(5) encourage the simplification, reduction, or elimination of barriers to travel, and the facilitation of international travel generally;
+&emsp;&emsp;(A) coordinating the Federal implementation of a national travel and tourism policy;
 
-&emsp;(6) collect, publish, and provide for the exchange of statistics and technical information, including schedules of meetings, fairs, and other attractions, relating to international travel and tourism;
+&emsp;&emsp;(B) representing the United States’ international travel and tourism interests to foreign governments; and
 
-&emsp;(7) encourage to the maximum extent feasible travel to and from the United States on United States carriers and the use of other United States providers of travel products and services; and
+&emsp;&emsp;(C) maintaining United States participation in international travel and tourism trade shows and fairs until such activities can be transferred to such Organization and other private sector entities.
 
-&emsp;(8) advise and provide information and technical assistance to United States firms seeking to facilitate travel to and from the emerging democracies of Eastern Europe and the former Soviet Union and compile statistics, as available, regarding such travel.
+(Pub. L. 87–63, title II, §201, formerly §2, June 29, 1961, 75 Stat. 129; Pub. L. 93–623, §6, Jan. 3, 1975, 88 Stat. 2105; renumbered and amended Pub. L. 97–63, §3(b), (e)(1), Oct. 16, 1981, 95 Stat. 1012, 1013; Pub. L. 102–372, §6(a), Sept. 30, 1992, 106 Stat. 1175; Pub. L. 104–288, §10, Oct. 11, 1996, 110 Stat. 3407.)
 
-(Pub. L. 87–63, title II, §201, formerly §2, June 29, 1961, 75 Stat. 129; Pub. L. 93–623, §6, Jan. 3, 1975, 88 Stat. 2105; renumbered and amended Pub. L. 97–63, §3(b), (e)(1), Oct. 16, 1981, 95 Stat. 1012, 1013; Pub. L. 102–372, §6(a), Sept. 30, 1992, 106 Stat. 1175.)
+#### References in Text
+
+The United States National Tourism Organization Act of 1996, referred to in text, is Pub. L. 104–288, Oct. 11, 1996, 110 Stat. 3407, which is classified principally to chapter 31A (§2141 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2141 of this title and Tables.
 
 #### Amendments
+
+1996—Pub. L. 104–288 amended section generally to narrow tourism-related duties of Secretary of Commerce, in view of creation of United States National Tourism Organization, with Secretary to focus on critical promotion functions which, in determination of Secretary, are not being carried out by new Organization or other private sector or State entities.
 
 1992—Par. (2). Pub. L. 102–372, §6(3), added par. (2). Former par. (2) redesignated (3).
 
@@ -53,8 +57,4 @@ Section 3 of Pub. L. 102–372 provided that: “The Secretary of Commerce, to t
 #### Report on Tourism and Travel Activities
 
 Section 18 of Pub. L. 102–372 directed Secretary of Commerce, within 18 months after Sept. 30, 1992, to report to Congress on (1) status of actions required by section 3 of Pub. L. 102–372 and desirability and feasibility of publishing international travel receipts and payments on a monthly basis, (2) Secretary's actions under 22 U.S.C. 2122(8) regarding the inbound and outbound tourism trade between United States and emerging democracies of Eastern Europe and the former Soviet Union, (3) activities of Department of Commerce and other Federal agencies to increase tourism opportunities for, and encourage travel by, disabled persons, and (4) efforts undertaken under 22 U.S.C. 2123c to improve visitor facilitation and effect on United States travel and tourism as a result of those improvements.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2123 of this title.
 

@@ -26,7 +26,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) chapter 1 of title II of the Trade Act of 1974 (19 U.S.C. 2251 et seq., relating to injury caused by import competition);
 
-&emsp;&emsp;(B) chapters 2 and 3 of such title II \[19 U.S.C. 2271 et seq., 2341 et seq.\] (relating toadjustment assistance for workers and firms);
+&emsp;&emsp;(B) chapters 2 and 3 of such title II \[19 U.S.C. 2271 et seq., 2341 et seq.\] (relating to adjustment assistance for workers and firms);
 
 &emsp;&emsp;(C) chapter 1 of title III of the Trade Act of 1974 (19 U.S.C. 2411 et seq., relating to relief from foreign import restrictions and export subsidies);
 

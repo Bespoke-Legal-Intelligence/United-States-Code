@@ -8,7 +8,7 @@ For purposes of this part:
 
 #### (2) Homeless individual
 
-&emsp;The term “homeless individual” has the meaning given such term in section 256(r) of this title.
+&emsp;The term “homeless individual” has the meaning given such term in section 256(r) <sup>1</sup> of this title.
 
 #### (3) State
 
@@ -20,7 +20,17 @@ For purposes of this part:
 
 (July 1, 1944, ch. 373, title V, §534, as added July 22, 1987, Pub. L. 100–77, title VI, §611(3), 101 Stat. 522; amended Nov. 29, 1990, Pub. L. 101–645, title V, §511, 104 Stat. 4733.)
 
+#### References in Text
+
+Section 256 of this title, referred to in par. (2), was repealed by Pub. L. 104–299, §4(a)(3), Oct. 11, 1996, 110 Stat. 3645.
+
 #### Amendments
 
 1990—Pub. L. 101–645 amended section generally, substituting provisions relating to definitions for provisions relating to nondiscrimination.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 254b of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

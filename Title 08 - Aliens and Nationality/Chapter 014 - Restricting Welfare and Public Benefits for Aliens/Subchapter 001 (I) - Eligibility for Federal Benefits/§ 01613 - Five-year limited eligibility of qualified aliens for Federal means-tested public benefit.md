@@ -1,0 +1,92 @@
+### §1613. Five-year limited eligibility of qualified aliens for Federal means-tested public benefit
+
+#### (a) In general
+
+Notwithstanding any other provision of law and except as provided in subsections (b), (c), and (d) of this section, an alien who is a qualified alien (as defined in section 1641 of this title) and who enters the United States on or after August 22, 1996, is not eligible for any Federal means-tested public benefit for a period of 5 years beginning on the date of the alien's entry into the United States with a status within the meaning of the term “qualified alien”.
+
+#### (b) Exceptions
+
+The limitation under subsection (a) of this section shall not apply to the following aliens:
+
+#### (1) Exception for refugees and asylees
+
+&emsp;(A) An alien who is admitted to the United States as a refugee under section 207 of the Immigration and Nationality Act \[8 U.S.C. 1157\].
+
+&emsp;(B) An alien who is granted asylum under section 208 of such Act \[8 U.S.C. 1158\].
+
+&emsp;(C) An alien whose deportation is being withheld under section 243(h) <sup>1</sup> of such Act \[8 U.S.C. 1253\].
+
+#### (2) Veteran and active duty exception
+
+&emsp;An alien who is lawfully residing in any State and is—
+
+&emsp;&emsp;(A) a veteran (as defined in section 101 of title 38) with a discharge characterized as an honorable discharge and not on account of alienage,
+
+&emsp;&emsp;(B) on active duty (other than active duty for training) in the Armed Forces of the United States, or
+
+&emsp;&emsp;(C) the spouse or unmarried dependent child of an individual described in subparagraph (A) or (B).
+
+#### (c) Application of term Federal means-tested public benefit
+
+(1) The limitation under subsection (a) of this section shall not apply to assistance or benefits under paragraph (2).
+
+(2) Assistance and benefits under this paragraph are as follows:
+
+&emsp;(A) Medical assistance described in section 1611(b)(1)(A) of this title.
+
+&emsp;(B) Short-term, non-cash, in-kind emergency disaster relief.
+
+&emsp;(C) Assistance or benefits under the National School Lunch Act \[42 U.S.C. 1751 et seq.\].
+
+&emsp;(D) Assistance or benefits under the Child Nutrition Act of 1966 \[42 U.S.C. 1771 et seq.\].
+
+&emsp;(E) Public health assistance (not including any assistance under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\]) for immunizations with respect to immunizable diseases and for testing and treatment of symptoms of communicable diseases whether or not such symptoms are caused by a communicable disease.
+
+&emsp;(F) Payments for foster care and adoption assistance under parts B and E of title IV of the Social Security Act \[42 U.S.C. 620 et seq., 670 et seq.\] for a parent or a child who would, in the absence of subsection (a) of this section, be eligible to have such payments made on the child's behalf under such part, but only if the foster or adoptive parent (or parents) of such child is a qualified alien (as defined in section 1641 of this title).
+
+&emsp;(G) Programs, services, or assistance (such as soup kitchens, crisis counseling and intervention, and short-term shelter) specified by the Attorney General, in the Attorney General's sole and unreviewable discretion after consultation with appropriate Federal agencies and departments, which (i) deliver in-kind services at the community level, including through public or private nonprofit agencies; (ii) do not condition the provision of assistance, the amount of assistance provided, or the cost of assistance provided on the individual recipient's income or resources; and (iii) are necessary for the protection of life or safety.
+
+&emsp;(H) Programs of student assistance under titles IV, V, IX, and X of the Higher Education Act of 1965 \[20 U.S.C. 1070 et seq., 1101 et seq., 1134 et seq., 1135 et seq., 42 U.S.C. 2751 et seq.\], and titles III, VII, and VIII of the Public Health Service Act \[42 U.S.C. 241 et seq., 292 et seq., 296 et seq.\].
+
+&emsp;(I) Means-tested programs under the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6301 et seq.\].
+
+&emsp;(J) Benefits under the Head Start Act \[42 U.S.C. 9831 et seq.\].
+
+&emsp;(K) Benefits under the Job Training Partnership Act \[29 U.S.C. 1501 et seq.\].
+
+#### (d) Special rule for refugee and entrant assistance for Cuban and Haitian entrants
+
+The limitation under subsection (a) of this section shall not apply to refugee and entrant assistance activities, authorized by title IV of the Immigration and Nationality Act \[8 U.S.C. 1521 et seq.\] and section 501 of the Refugee Education Assistance Act of 1980, for Cuban and Haitian entrants as defined in section 501(e)(2) of the Refugee Education Assistance Act of 1980.
+
+(Pub. L. 104–193, title IV, §403, Aug. 22, 1996, 110 Stat. 2265.)
+
+#### References in Text
+
+Section 243 of such Act, referred to in subsec. (b)(1)(C), is section 243 of act June 27, 1952, which is classified to section 1253 of this title. Section 1253 of this title was amended generally by Pub. L. 104–208, div. C, title III, §307(a), Sept. 30, 1996, 110 Stat. 3009–612, and, as so amended, no longer contains a subsec. (h). Provisions similar to those contained in former subsec. (h) of section 1253 are now contained in section 1231(b)(3) of this title.
+
+The National School Lunch Act, referred to in subsec. (c)(2)(C), is act June 4, 1946, ch. 281, 60 Stat. 230, as amended, which is classified generally to chapter 13 (§1751 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of Title 42 and Tables.
+
+The Child Nutrition Act of 1966, referred to in subsec. (c)(2)(D), is Pub. L. 89–642, Oct. 11, 1966, 80 Stat. 885, as amended, which is classified generally to chapter 13A (§1771 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 1771 of Title 42 and Tables.
+
+The Social Security Act, referred to in subsec. (c)(2)(E), (F), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Parts B and E of title IV and title XIX of the Act are classified generally to parts B (§620 et seq.) and E (§670 et seq.) of subchapter IV and subchapter XIX (§1396 et seq.), respectively, of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+
+The Higher Education Act of 1965, referred to in subsec. (c)(2)(H), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended. Title IV of the Act is classified generally to subchapter IV (§1070 et seq.) of chapter 28 of Title 20, Education, and part C (§2751 et seq.) of subchapter I of chapter 34 of Title 42. Titles V, IX, and X of the Act are classified generally to subchapters V (§1101 et seq.), IX (§1134 et seq.), and X (§1135 et seq.), respectively, of chapter 28 of Title 20. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
+
+The Public Health Service Act, referred to in subsec. (c)(2)(H), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended. Titles III, VII, and VIII of the Act are classified generally to subchapters II (§241 et seq.), V (§292 et seq.), and VI (§296 et seq.), respectively, of chapter 6A of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
+
+The Elementary and Secondary Education Act of 1965, referred to in subsec. (c)(2)(I), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended generally by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519, which is classified generally to chapter 70 (§6301 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
+
+The Head Start Act, referred to in subsec. (c)(2)(J), is subchapter B (§§635–657) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 499, as amended, which is classified generally to subchapter II (§9831 et seq.) of chapter 105 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9801 of Title 42 and Tables.
+
+The Job Training Partnership Act, referred to in subsec. (c)(2)(K), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, as amended, which is classified generally to chapter 19 (§1501 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of Title 29 and Tables.
+
+The Immigration and Nationality Act, referred to in subsec. (d), is act June 27, 1952, ch. 477, 66 Stat. 163, as amended. Title IV of the Act is classified principally to subchapter IV (§1521 et seq.) of chapter 12 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
+
+Section 501 of the Refugee Education Assistance Act of 1980, referred to in subsec. (d), is section 501 of Pub. L. 96–422, as amended, which is set out in a note under section 1522 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 1183a, 1612, 1614, 1622, 1631, 1645 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+

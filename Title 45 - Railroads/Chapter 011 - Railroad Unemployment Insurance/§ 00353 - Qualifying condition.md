@@ -6,7 +6,7 @@ An employee shall be a “qualified employee” if the Board finds that his comp
 
 #### Amendments
 
-1988—Pub. L. 100–647 inserted “with respect to the base year” after “his compensation” and substituted“2.5 times the monthly compensation base for months in such base year as computed under section 351(i) of this title” for “$1,500 with respect to the base year”.
+1988—Pub. L. 100–647 inserted “with respect to the base year” after “his compensation” and substituted “2.5 times the monthly compensation base for months in such base year as computed under section 351(i) of this title” for “$1,500 with respect to the base year”.
 
 1983—Pub. L. 98–76 substituted “$1,500” for “$1,000”.
 
@@ -34,7 +34,7 @@ Section 7202(b) of Pub. L. 100–647 provided that: “The amendments made by th
 
 #### Effective Date of 1983 Amendment
 
-Amendment by Pub. L. 98–76 applicable to compensation paid for services rendered after Dec. 31, 1983, see section 411(b) of Pub. L. 98–76, set out as a note under section 351 of this title.
+Amendment by Pub. L. 98–76 applicable to compensation paid for services rendered after Dec. 31, 1983, seesection 411(b) of Pub. L. 98–76, set out as a note under section 351 of this title.
 
 #### Effective Date of 1975 Amendment
 

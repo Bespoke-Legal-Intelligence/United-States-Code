@@ -100,7 +100,7 @@ From the amounts appropriated pursuant to subsection (j) of this section, the Se
 
 #### (j) Authorization of appropriations
 
-There are authorized to be appropriated to carry out this section $5,000,000 for fiscal year 1995 and such sums as may be necessary for fiscal year 1996 and each of the four succeeding fiscal years.
+There are authorized to be appropriated to carry out this section $5,000,000 for fiscal year1995 and such sums as may be necessary for fiscal year 1996 and each of the four succeeding fiscal years.
 
 (Pub. L. 89–329, title X, §1091, as added Pub. L. 103–382, title III, §360D, Oct. 20, 1994, 108 Stat. 3972.)
 

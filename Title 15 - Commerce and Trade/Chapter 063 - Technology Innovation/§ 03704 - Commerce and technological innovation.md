@@ -108,7 +108,7 @@ Subsec. (d)(1). Pub. L. 100–519, §201(d)(2), substituted “and the Under Sec
 
 1986—Subsec. (a). Pub. L. 99–502, §9(b)(3), substituted “Office of Productivity, Technology, and Innovation” for “Office of Industrial Technology”.
 
-Subsec. (b). Pub. L. 99–502, §9(b)(4), substituted “an Assistant Secretary for Productivity, Technology, and Innovation” for “a Director of the Office, who shall be compensated at the rate provided for level V of the Executive Schedule in section 5316 of title 5”.
+Subsec. (b). Pub. L. 99–502, §9(b)(4), substituted “an Assistant Secretary for Productivity, Technology, and Innovation” for “a Director of the Office, who shall becompensated at the rate provided for level V of the Executive Schedule in section 5316 of title 5”.
 
 Subsec. (c). Pub. L. 99–502, §9(b)(5)(A), substituted “the Assistant Secretary” for “the Director” in provisions preceding par. (1).
 

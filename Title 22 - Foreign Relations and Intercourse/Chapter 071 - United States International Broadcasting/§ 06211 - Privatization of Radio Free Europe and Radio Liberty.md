@@ -2,7 +2,7 @@
 
 #### (a) Declaration of policy
 
-It is the sense of the Congress that, in furtherance of the objectives of section 6201 of thistitle, the funding of Radio Free Europe and Radio Liberty should be assumed by the private sector not later than December 31, 1999, and that the funding of Radio Free Europe and Radio Liberty Research Institute should be assumed by the private sector at the earliest possible time.
+It is the sense of the Congress that, in furtherance of the objectives of section 6201 of this title, the funding of Radio Free Europe and Radio Liberty should be assumed by the private sector not later than December 31, 1999, and that the funding of Radio Free Europe and Radio Liberty Research Institute should be assumed by the private sector at the earliest possible time.
 
 #### (b) Presidential submission
 

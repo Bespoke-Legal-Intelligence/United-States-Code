@@ -1,0 +1,78 @@
+### §1705. Management of health care: patient enrollment system
+
+(a) In managing the provision of hospital care and medical services under section 1710(a) of this title, the Secretary, in accordance with regulations the Secretary shall prescribe, shall establish and operate a system of annual patient enrollment. The Secretary shall manage the enrollment of veterans in accordance with the following priorities, in the order listed:
+
+&emsp;(1) Veterans with service-connected disabilities rated 50 percent or greater.
+
+&emsp;(2) Veterans with service-connected disabilities rated 30 percent or 40 percent.
+
+&emsp;(3) Veterans who are former prisoners of war, veterans with service-connected disabilitiesrated 10 percent or 20 percent, and veterans described in subparagraphs (B) and (C) of section 1710(a)(2) of this title.
+
+&emsp;(4) Veterans who are in receipt of increased pension based on a need of regular aid and attendance or by reason of being permanently housebound and other veterans who are catastrophically disabled.
+
+&emsp;(5) Veterans not covered by paragraphs (1) through (4) who are unable to defray the expenses of necessary care as determined under section 1722(a) of this title.
+
+&emsp;(6) All other veterans eligible for hospital care, medical services, and nursing home care under section 1710(a)(2) of this title.
+
+&emsp;(7) Veterans described in section 1710(a)(3) of this title.
+
+(b) In the design of an enrollment system under subsection (a), the Secretary—
+
+&emsp;(1) shall ensure that the system will be managed in a manner to ensure that the provision of care to enrollees is timely and acceptable in quality;
+
+&emsp;(2) may establish additional priorities within each priority group specified in subsection (a), as the Secretary determines necessary; and
+
+&emsp;(3) may provide for exceptions to the specified priorities where dictated by compelling medical reasons.
+
+(c)(1) Effective on October 1, 1998, the Secretary may not provide hospital care or medical services to a veteran under paragraph (2) or (3) of section 1710(a) of this title unless the veteran enrolls in the system of patient enrollment established by the Secretary under subsection (a).
+
+(2) The Secretary shall provide hospital care and medical services under section 1710(a)(1) of this title, and under subparagraph (B) of section 1710(a)(2) of this title, for the 12-month period following such veteran's discharge or release from service, to any veteran referred to in such sections for a disability specified in the applicable subparagraph of such section, notwithstanding the failure of the veteran to enroll in the system of patient enrollment referred to in subsection (a) of this section.
+
+(Added Pub. L. 104–262, title I, §104(a)(1), Oct. 9, 1996, 110 Stat. 3182.)
+
+#### Assessment of Implementation and Operation of Amendments by Pub. L. 104–262
+
+Section 106 of title I of Pub. L. 104–262 provided that:
+
+“(a)
+
+Assessment Systems.—The Secretary of Veterans Affairs shall establish information systems to assess the experience of the Department of Veterans Affairs in implementing sections 101, 103, and 104 \[enacting this section and section 1706 of this title, amending sections 1525, 1701, 1703, 1710, 1712, 1712A, 1717, 1718, 1720, 1722, 1729, 2104, 5317, 8110, and 8111A of this title, and enacting provisions set out as a note under section 1701 of this title\], including the amendments made by those sections, during fiscal year 1997. The Secretary shall establish those information systems in time to include assessments under such systems in the report required under subsection (b).
+
+“(b)
+
+Report.—Not later than March 1, 1998, the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report reflecting the experience of the Department during fiscal year 1997 on—
+
+&emsp;“(1) the effect of implementation of, and provision and management of care under, sections 101, 103, and 104 (including the amendments made by those sections) on demand for health care services from the Department of Veterans Affairs by veterans described in paragraphs (1), (2), and (3) of section 1710(a) of title 38, United States Code, as amended by section 101;
+
+&emsp;“(2) any differing patterns of demand on the part of such veterans relating to such factors as relative distance from Department facilities and prior experience, or lack of experience, as recipients of care from the Department;
+
+&emsp;“(3) the extent to which the Department has met such demand for care; and
+
+&emsp;“(4) changes in health-care delivery patterns in Department facilities and the fiscal impact of such changes.
+
+“(c)
+
+Matters To Be Included.—The report under subsection (b) shall include detailed information with respect to fiscal year 1997 regarding the following:
+
+&emsp;“(1) The number of veterans enrolled for care at each Department medical facility and, of such veterans, the number enrolled at each such facility who had not received care from the Department during the preceding three fiscal years.
+
+&emsp;“(2) With respect to the veterans who had not received care from the Department during the three preceding fiscal years, the total cost of providing care to such veterans, shown in total and separately (A) by level of care, and (B) by reference to whether care was furnished in Department facilities or under contract arrangements.
+
+&emsp;“(3) With respect to the number of veterans described in paragraphs (1), (2), and (3) of section 1710(a) of title 38, United States Code, as amended by section 101, who applied for health care from the Department during fiscal year 1997—
+
+&emsp;&emsp;“(A) the number who applied for care (shown in total and separately by facility);
+
+&emsp;&emsp;“(B) the number who were denied enrollment (shown in total and separately by facility); and
+
+&emsp;&emsp;“(C) the number who were denied care which was considered to be medically necessary but not of an emergency nature (shown in total and separately by facility).
+
+&emsp;“(4) The numbers and characteristics of, and the type and extent of health care furnished to, veterans enrolled for care (shown in total and separately by facility).
+
+&emsp;“(5) The numbers and characteristics of, and the type and extent of health care furnished to, veterans not enrolled for care (shown separately by reference to each class of eligibility, both in total and separately by facility).
+
+&emsp;“(6) The specific fiscal impact (shown in total and by geographic health-care delivery areas) of changes in delivery patterns instituted under the amendments made by this title \[enacting this section and section 1706 of this title and amending sections 1525, 1701, 1703, 1710, 1712, 1712A, 1717, 1718, 1720, 1722, 1729, 2104, 5317, 8110, and 8111A of this title\].”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 1718 of this title.
+

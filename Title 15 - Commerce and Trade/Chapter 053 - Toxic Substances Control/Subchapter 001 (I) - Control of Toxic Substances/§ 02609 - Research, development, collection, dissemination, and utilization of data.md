@@ -2,7 +2,7 @@
 
 #### (a) Authority
 
-The Administrator shall, in consultation and cooperation with the Secretary of Health andHuman Services and with other heads of appropriate departments and agencies, conduct such research, development, and monitoring as is necessary to carry out the purposes of this chapter. The Administrator may enter into contracts and may make grants for research, development, and monitoring under this subsection. Contracts may be entered into under this subsection without regard to section 3324(a) and (b) of title 31 and section 5 of title 41.
+The Administrator shall, in consultation and cooperation with the Secretary of Health and Human Services and with other heads of appropriate departments and agencies, conduct such research, development, and monitoring as is necessary to carry out the purposes of this chapter. The Administrator may enter into contracts and may make grants for research, development, and monitoring under this subsection. Contracts may be entered into under this subsection without regard to section 3324(a) and (b) of title 31 and section 5 of title 41.
 
 #### (b) Data systems
 

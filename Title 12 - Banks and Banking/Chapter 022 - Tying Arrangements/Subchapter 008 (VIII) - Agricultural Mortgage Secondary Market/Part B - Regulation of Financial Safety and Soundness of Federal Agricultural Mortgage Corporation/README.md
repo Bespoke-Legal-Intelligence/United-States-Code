@@ -1,5 +1,9 @@
 Part B—Regulation of Financial Safety and Soundness of Federal Agricultural Mortgage Corporation
 
+#### Part Referred to in Other Sections
+
+This part is referred to in section 2279cc of this title.
+
 
 ---
 
@@ -12,3 +16,4 @@ Part B—Regulation of Financial Safety and Soundness of Federal Agricultural Mo
 - [&sect; 02279bb&#8211;4 - Enforcement levels](%C2%A7%2002279bb%E2%80%934%20-%20Enforcement%20levels.md)
 - [&sect; 02279bb&#8211;5 - Mandatory actions applicable to level II](%C2%A7%2002279bb%E2%80%935%20-%20Mandatory%20actions%20applicable%20to%20level%20II.md)
 - [&sect; 02279bb&#8211;6 - Supervisory actions applicable to level III](%C2%A7%2002279bb%E2%80%936%20-%20Supervisory%20actions%20applicable%20to%20level%20III.md)
+- [&sect; 02279bb&#8211;7 - Recapitalization of Corporation](%C2%A7%2002279bb%E2%80%937%20-%20Recapitalization%20of%20Corporation.md)

@@ -6,7 +6,7 @@ The cartage of merchandise entered for warehouse shall be done by—
 
 &emsp;(2) carriers designated under section 1551 of this title to carry bonded merchandise;
 
-> who shall give bond, in a penal sum to be fixed by the Customs Service, for the protection of the Government against any loss of, or damage to, the merchandise while being so carted. The cartage of merchandise designated for examination at the appraiser's stores and of merchandise taken into custody by the customs officer as unclaimed shall be performed by such persons as may be designated, under contract or otherwise, by the Secretary of the Treasury, and under such regulations for the protection of the owners thereof and of the revenue as the Secretary of the Treasury shall prescribe.
+> who shall give bond, in a penal sum to be fixed by the Customs Service, for the protection ofthe Government against any loss of, or damage to, the merchandise while being so carted. The cartage of merchandise designated for examination at the appraiser's stores and of merchandise taken into custody by the customs officer as unclaimed shall be performed by such persons as may be designated, under contract or otherwise, by the Secretary of the Treasury, and under such regulations for the protection of the owners thereof and of the revenue as the Secretary of the Treasury shall prescribe.
 
 (June 17, 1930, ch. 497, title IV, §565, 46 Stat. 747; June 2, 1970, Pub. L. 91–271, title III, §301(x), 84 Stat. 290; Dec. 8, 1993, Pub. L. 103–182, title VI, §666, 107 Stat. 2215.)
 

@@ -14,7 +14,7 @@ Section was formerly classified to section 514 of Title 5 prior to the general r
 
 #### Amendments
 
-1980—Subsec. (b). Pub. L. 96–355 inserted provisions relating to technology appropriate to small- and moderate-sized family farming operations, and struck out provisions relating to the national rural development program and goals, and accompanying annual report.
+1980—Subsec. (b). Pub. L. 96–355 inserted provisions relating to technology appropriate to small- and moderate-sized family farming operations, and struck outprovisions relating to the national rural development program and goals, and accompanying annual report.
 
 1977—Subsec. (a). Pub. L. 95–113 inserted references to aquaculture and human nutrition.
 

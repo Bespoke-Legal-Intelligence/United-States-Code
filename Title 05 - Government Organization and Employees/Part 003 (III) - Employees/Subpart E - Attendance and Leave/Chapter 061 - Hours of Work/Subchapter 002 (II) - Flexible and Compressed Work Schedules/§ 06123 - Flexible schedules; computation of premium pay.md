@@ -8,7 +8,7 @@
 
 (b) Notwithstanding the provisions of law referred to in subsection (a)(1) of this section, an employee shall not be entitled to be compensated for credit hours worked except to the extent authorized under section 6126 of this title or to the extent such employee is allowed to have such hours taken into account with respect to the employee's basic work requirement.
 
-(c)(1) Notwithstanding section 5545(a) of this title, premium pay for nightwork will not be paid to an employee otherwise subject to such section solely because the employee elects to work credit hours, or elects a time of arrival or departure, at a time of day for which such premium pay is otherwise authorized, except that—
+(c)(1) Notwithstanding section 5545(a) of this title, premium pay for nightwork will not bepaid to an employee otherwise subject to such section solely because the employee elects to work credit hours, or elects a time of arrival or departure, at a time of day for which such premium pay is otherwise authorized, except that—
 
 &emsp;(A) if an employee is on a flexible schedule under which—
 
@@ -30,9 +30,9 @@
 
 #### Amendments
 
-<b>1992</b>—Subsec. (a)(1). Pub. L. 102–378 substituted “5543(a)(1) and section 5544(a)” for “5543(a)(1), 5544(a), and 5550”.
+1992—Subsec. (a)(1). Pub. L. 102–378 substituted “5543(a)(1) and section 5544(a)” for “5543(a)(1), 5544(a), and 5550”.
 
-<b>1991</b>—Subsec. (a)(1). Pub. L. 102–40, §403(c)(2)(A), substituted “section 7453(e)” for “section 4107(e)(5)”.
+1991—Subsec. (a)(1). Pub. L. 102–40, §403(c)(2)(A), substituted “section 7453(e)” for “section 4107(e)(5)”.
 
 Subsec. (c)(2). Pub. L. 102–40, §403(c)(2)(B), in introductory provisions substituted “section 7453(b)” for “section 4107(e)(2)” and in subpar. (B) substituted “subsection (b) of such section 7453” for “subsection (e)(2) of such section 4107”.
 

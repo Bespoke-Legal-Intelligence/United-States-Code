@@ -12,7 +12,7 @@ There is hereby created on the books of the Treasury of the United States a trus
 
 #### (b) Board of Trustees; composition; meetings; duties
 
-With respect to the Trust Fund, there is hereby created a body to be known as the Board of Trustees of the Trust Fund (hereinafter in this section referred to as the “Board of Trustees”) composed of the Commissioner of Social Security, the Secretary of the Treasury, the Secretary of Labor, and the Secretary of Health and Human Services, all ex officio, and of two members of the public (both of whom may not be from the same political party), who shall be nominated by the President for a term of four years and subject to confirmation by the Senate. A member of the Board of Trustees servingas a member of the public and nominated and confirmed to fill a vacancy occurring during a term shall be nominated and confirmed only for the remainder of such term. An individual nominated and confirmed as a member of the public may serve in such position after the expiration of such member's term until the earlier of the time at which the member's successor takes office or the time at which a report of the Board is first issued under paragraph (2) after the expiration of the member's term. The Secretary of the Treasury shall be the Managing Trustee of the Board of Trustees (hereinafter in this section referred to as the “Managing Trustee”). The Administrator of the Health Care Financing Administration shall serve as the Secretary of the Board of Trustees. The Board of Trustees shall meet not less frequently than once each calendar year. It shall be the duty of the Board of Trustees to—
+With respect to the Trust Fund, there is hereby created a body to be known as the Board of Trustees of the Trust Fund (hereinafter in this section referred to as the “Board of Trustees”) composed of the Commissioner of Social Security, the Secretary of the Treasury, the Secretary of Labor, and the Secretary of Health and Human Services, all ex officio, and of two members of the public (both of whom may not be from the same political party), who shall be nominated by the President for a term of four years and subject to confirmation by the Senate. A member of the Board of Trustees serving as a member of the public and nominated and confirmed to fill a vacancy occurring during a term shall be nominated and confirmed only for the remainder of such term. An individual nominated and confirmed as a member of the public may serve in such position after the expiration of such member's term until the earlier of the time at which the member's successor takes office or the time at which a report of the Board is first issued under paragraph (2) after the expiration of the member's term. The Secretary of the Treasury shall be the Managing Trustee of the Board of Trustees (hereinafter in this section referred to as the “Managing Trustee”). The Administrator of the Health Care Financing Administration shall serve as the Secretary of the Board of Trustees. The Board of Trustees shall meet not less frequently than once each calendar year. It shall be the duty of the Board of Trustees to—
 
 &emsp;(1) Hold the Trust Fund;
 
@@ -52,7 +52,7 @@ The Managing Trustee shall also pay from time to time from the Trust Fund such a
 
 #### (i) Payment of travel expenses for travel within United States; reconsideration interviews and proceedings before administrative law judges
 
-There are authorized to be made available for expenditure out of the Trust Fund such amounts as are required to pay travel expenses, either on an actual cost or commuted basis, to parties, their representatives, and all reasonably necessary witnesses for travel within the United States (as defined in section 410(i) of this title) to attend reconsideration interviews and proceedings before administrative law judges with respect to any determination under this subchapter. The amount available under the preceding sentence for payment for air travel by any person shall not exceed the coach fare for air travel between the points involved unless the use of first-class accommodations is required (as determined under regulations of the Secretary) because of such person's health condition or the unavailability of alternative accommodations; and the amount available for payment for other travel by any person shall not exceed the cost of travel (between the points involved) by the most economical and expeditious means of transportation appropriate to such person's health condition, as specified in such regulations. The amount available for payment under this subsection for travel by a representative to attend an administrative proceeding before an administrative law judge or other adjudicator shall not exceed the maximum amount allowable under this subsection for such travel originating within the geographic area of the office having jurisdiction over such proceeding.
+There are authorized to be made available for expenditure out of the Trust Fund such amountsas are required to pay travel expenses, either on an actual cost or commuted basis, to parties, their representatives, and all reasonably necessary witnesses for travel within the United States (as defined in section 410(i) of this title) to attend reconsideration interviews and proceedings before administrative law judges with respect to any determination under this subchapter. The amount available under the preceding sentence for payment for air travel by any person shall not exceed the coach fare for air travel between the points involved unless the use of first-class accommodations is required (as determined under regulations of the Secretary) because of such person's health condition or the unavailability of alternative accommodations; and the amount available for payment for other travel by any person shall not exceed the cost of travel (between the points involved) by the most economical and expeditious means of transportation appropriate to such person's health condition, as specified in such regulations. The amount available for payment under this subsection for travel by a representative to attend an administrative proceeding before an administrative law judge or other adjudicator shall not exceed the maximum amount allowable under this subsection for such travel originating within the geographic area of the office having jurisdiction over such proceeding.
 
 #### (j) Loans from other Funds; interest; repayment; report to Congress
 
@@ -90,13 +90,169 @@ There are authorized to be made available for expenditure out of the Trust Fund 
 
 &emsp;(ii) the amount obtained by multiplying by twelve the total amount which (as estimated by the Secretary) will be paid from the Federal Old-Age and Survivors Insurance Trust Fund and the Federal Disability Insurance Trust Fund during the month for which such ratio is to be determined for all purposes authorized by section 401 of this title (other than payments of interest on, or repayments of, loans from the Federal Hospital Insurance Trust Fund under section 401(<i>l</i>) of this title), but excluding any transfer payments between such trust funds and reducing the amount of any transfers to the Railroad Retirement Account by the amount of any transfers into either such trust fund from that Account.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1817, as added July 30, 1965, Pub. L. 89–97, title I, §102(a), 79 Stat. 299; amended Jan. 2, 1968, Pub. L. 90–248, title I, §169(a), 81 Stat. 875; Oct. 30, 1972, Pub. L. 92–603, title I, §132(d), 86 Stat. 1361; June 13, 1978, Pub. L. 95–292, §5, 92 Stat. 315; June 9, 1980, Pub. L. 96–265, title III, §310(c), 94 Stat. 460; Dec. 29, 1981, Pub. L. 97–123, §1(b), 95 Stat. 1659; Apr. 20, 1983, Pub. L. 98–21, title I, §§141(b), 142(b)(1), (2)(A), (3), (4), 154(b), title III, §341(b), 97 Stat. 98, 100, 101, 107, 135; July 18, 1984, Pub. L. 98–369, div. B, title III, §§2337(a), 2354(b)(2), title VI, §2663(j)(2)(F)(i), 98 Stat. 1091, 1100, 1170; Apr. 7, 1986, Pub. L. 99–272, title IX, §9213(b), 100 Stat. 180; Oct. 22, 1986, Pub. L. 99–514, §2, 100 Stat. 2095; July 1, 1988, Pub. L. 100–360, title II, §212(c)(3), 102 Stat. 741; Nov. 10, 1988, Pub. L. 100–647, title VIII, §8005(a), 102 Stat. 3781; Dec. 13, 1989, Pub. L. 101–234, title II, §202(a), 103 Stat. 1981; Nov. 5, 1990, Pub. L. 101–508, title V, §5106(c), 104 Stat. 1388–268; Aug. 15, 1994, Pub. L. 103–296, title I, §108(c)(1), 108 Stat. 1485.)
+#### (k) Health Care Fraud and Abuse Control Account
+
+#### (1) Establishment
+
+&emsp;There is hereby established in the Trust Fund an expenditure account to be known as the “Health Care Fraud and Abuse Control Account” (in this subsection referred to as the “Account”).
+
+#### (2) Appropriated amounts to Trust Fund
+
+#### (A) In general
+
+&emsp;&emsp;There are hereby appropriated to the Trust Fund—
+
+&emsp;&emsp;&emsp;(i) such gifts and bequests as may be made as provided in subparagraph (B);
+
+&emsp;&emsp;&emsp;(ii) such amounts as may be deposited in the Trust Fund as provided in sections 242(b) and 249(c) of the Health Insurance Portability and Accountability Act of 1996, and subchapter XI of this chapter; and
+
+&emsp;&emsp;&emsp;(iii) such amounts as are transferred to the Trust Fund under subparagraph (C).
+
+#### (B) Authorization to accept gifts
+
+&emsp;&emsp;The Trust Fund is authorized to accept on behalf of the United States money gifts and bequests made unconditionally to the Trust Fund, for the benefit of the Account or any activity financed through the Account.
+
+#### (C) Transfer of amounts
+
+&emsp;&emsp;The Managing Trustee shall transfer to the Trust Fund, under rules similar to the rules in section 9601 of the Internal Revenue Code of 1986, an amount equal to the sum of the following:
+
+&emsp;&emsp;&emsp;(i) Criminal fines recovered in cases involving a Federal health care offense (as defined in section 982(a)(6)(B) of title 18).
+
+&emsp;&emsp;&emsp;(ii) Civil monetary penalties and assessments imposed in health care cases, including amounts recovered under this subchapter and subchapters XI and XIX of this chapter, and chapter 38 of title 31 (except as otherwise provided by law).
+
+&emsp;&emsp;&emsp;(iii) Amounts resulting from the forfeiture of property by reason of a Federal health care offense.
+
+&emsp;&emsp;&emsp;(iv) Penalties and damages obtained and otherwise creditable to miscellaneous receipts of the general fund of the Treasury obtained under sections 3729 through 3733 of title 31 (known as the False Claims Act), in cases involving claims related to the provision of health care items and services (other than funds awarded to a relator, for restitution or otherwise authorized by law).
+
+#### (D) Application
+
+&emsp;&emsp;Nothing in subparagraph (C)(iii) shall be construed to limit the availability of recoveries and forfeitures obtained under title I of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1001 et seq.\] for the purpose of providing equitable or remedial relief for employee welfare benefit plans, and for participants and beneficiaries under such plans, as authorized under such title.
+
+#### (3) Appropriated amounts to Account for fraud and abuse control program, etc.
+
+#### (A) Departments of Health and Human Services and Justice
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;There are hereby appropriated to the Account from the Trust Fund such sums as the Secretary and the Attorney General certify are necessary to carry out the purposes described in subparagraph (C), to be available without further appropriation, in an amount not to exceed—
+
+&emsp;&emsp;&emsp;&emsp;(I) for fiscal year 1997, $104,000,000,<sup>1</sup>
+
+&emsp;&emsp;&emsp;&emsp;(II) for each of the fiscal years 1998 through 2003, the limit for the preceding fiscal year, increased by 15 percent; and
+
+&emsp;&emsp;&emsp;&emsp;(III) for each fiscal year after fiscal year 2003, the limit for fiscal year 2003.
+
+#### (ii) Medicare and medicaid activities
+
+&emsp;&emsp;&emsp;For each fiscal year, of the amount appropriated in clause (i), the following amounts shall be available only for the purposes of the activities of the Office of the Inspector General of the Department of Health and Human Services with respect to the Medicare and medicaid programs—
+
+&emsp;&emsp;&emsp;&emsp;(I) for fiscal year 1997, not less than $60,000,000 and not more than $70,000,000;
+
+&emsp;&emsp;&emsp;&emsp;(II) for fiscal year 1998, not less than $80,000,000 and not more than $90,000,000;
+
+&emsp;&emsp;&emsp;&emsp;(III) for fiscal year 1999, not less than $90,000,000 and not more than $100,000,000;
+
+&emsp;&emsp;&emsp;&emsp;(IV) for fiscal year 2000, not less than $110,000,000 and not more than $120,000,000;
+
+&emsp;&emsp;&emsp;&emsp;(V) for fiscal year 2001, not less than $120,000,000 and not more than $130,000,000;
+
+&emsp;&emsp;&emsp;&emsp;(VI) for fiscal year 2002, not less than $140,000,000 and not more than $150,000,000; and
+
+&emsp;&emsp;&emsp;&emsp;(VII) for each fiscal year after fiscal year 2002, not less than $150,000,000 and not more than $160,000,000.
+
+#### (B) Federal Bureau of Investigation
+
+&emsp;&emsp;There are hereby appropriated from the general fund of the United States Treasuryand hereby appropriated to the Account for transfer to the Federal Bureau of Investigation to carry out the purposes described in subparagraph (C), to be available without further appropriation—
+
+&emsp;&emsp;&emsp;(i) for fiscal year 1997, $47,000,000;
+
+&emsp;&emsp;&emsp;(ii) for fiscal year 1998, $56,000,000;
+
+&emsp;&emsp;&emsp;(iii) for fiscal year 1999, $66,000,000;
+
+&emsp;&emsp;&emsp;(iv) for fiscal year 2000, $76,000,000;
+
+&emsp;&emsp;&emsp;(v) for fiscal year 2001, $88,000,000;
+
+&emsp;&emsp;&emsp;(vi) for fiscal year 2002, $101,000,000; and
+
+&emsp;&emsp;&emsp;(vii) for each fiscal year after fiscal year 2002, $114,000,000.
+
+#### (C) Use of funds
+
+&emsp;&emsp;The purposes described in this subparagraph are to cover the costs (including equipment, salaries and benefits, and travel and training) of the administration and operation of the health care fraud and abuse control program established under section 1320a–7c(a) of this title, including the costs of—
+
+&emsp;&emsp;&emsp;(i) prosecuting health care matters (through criminal, civil, and administrative proceedings);
+
+&emsp;&emsp;&emsp;(ii) investigations;
+
+&emsp;&emsp;&emsp;(iii) financial and performance audits of health care programs and operations;
+
+&emsp;&emsp;&emsp;(iv) inspections and other evaluations; and
+
+&emsp;&emsp;&emsp;(v) provider and consumer education regarding compliance with the provisions of subchapter XI of this chapter.
+
+#### (4) Appropriated amounts to Account for Medicare Integrity Program
+
+#### (A) In general
+
+&emsp;&emsp;There are hereby appropriated to the Account from the Trust Fund for each fiscal year such amounts as are necessary to carry out the Medicare Integrity Program under section 1395ddd of this title, subject to subparagraph (B) and to be available without further appropriation.
+
+#### (B) Amounts specified
+
+&emsp;&emsp;The amount appropriated under subparagraph (A) for a fiscal year is as follows:
+
+&emsp;&emsp;&emsp;(i) For fiscal year 1997, such amount shall be not less than $430,000,000 and not more than $440,000,000.
+
+&emsp;&emsp;&emsp;(ii) For fiscal year 1998, such amount shall be not less than $490,000,000 and not more than $500,000,000.
+
+&emsp;&emsp;&emsp;(iii) For fiscal year 1999, such amount shall be not less than $550,000,000 and not more than $560,000,000.
+
+&emsp;&emsp;&emsp;(iv) For fiscal year 2000, such amount shall be not less than $620,000,000 and not more than $630,000,000.
+
+&emsp;&emsp;&emsp;(v) For fiscal year 2001, such amount shall be not less than $670,000,000 and not more than $680,000,000.
+
+&emsp;&emsp;&emsp;(vi) For fiscal year 2002, such amount shall be not less than $690,000,000 and not more than $700,000,000.
+
+&emsp;&emsp;&emsp;(vii) For each fiscal year after fiscal year 2002, such amount shall be not less than $710,000,000 and not more than $720,000,000.
+
+#### (5) Annual report
+
+&emsp;Not later than January 1, the Secretary and the Attorney General shall submit jointly a report to Congress which identifies—
+
+&emsp;&emsp;(A) the amounts appropriated to the Trust Fund for the previous fiscal year under paragraph (2)(A) and the source of such amounts; and
+
+&emsp;&emsp;(B) the amounts appropriated from the Trust Fund for such year under paragraph (3) and the justification for the expenditure of such amounts.
+
+#### (6) GAO report
+
+&emsp;Not later than January 1 of 2000, 2002, and 2004, the Comptroller General of the United States shall submit a report to Congress which—
+
+&emsp;&emsp;(A) identifies—
+
+&emsp;&emsp;&emsp;(i) the amounts appropriated to the Trust Fund for the previous two fiscal years under paragraph (2)(A) and the source of such amounts; and
+
+&emsp;&emsp;&emsp;(ii) the amounts appropriated from the Trust Fund for such fiscal years under paragraph (3) and the justification for the expenditure of such amounts;
+
+&emsp;&emsp;(B) identifies any expenditures from the Trust Fund with respect to activities not involving the Medicare program under this subchapter;
+
+&emsp;&emsp;(C) identifies any savings to the Trust Fund, and any other savings, resulting from expenditures from the Trust Fund; and
+
+&emsp;&emsp;(D) analyzes such other aspects of the operation of the Trust Fund as the Comptroller General of the United States considers appropriate.
+
+(Aug. 14, 1935, ch. 531, title XVIII, §1817, as added July 30, 1965, Pub. L. 89–97, title I, §102(a), 79 Stat. 299; amended Jan. 2, 1968, Pub. L. 90–248, title I, §169(a), 81 Stat. 875; Oct. 30, 1972, Pub. L. 92–603, title I, §132(d), 86 Stat. 1361; June 13, 1978, Pub. L. 95–292, §5, 92 Stat. 315; June 9, 1980, Pub. L. 96–265, title III, §310(c), 94 Stat. 460; Dec. 29, 1981, Pub. L. 97–123, §1(b), 95 Stat. 1659; Apr. 20, 1983, Pub. L. 98–21, title I, §§141(b), 142(b)(1), (2)(A), (3), (4), 154(b), title III, §341(b), 97 Stat. 98, 100, 101, 107, 135; July 18, 1984, Pub. L. 98–369, div. B, title III, §§2337(a), 2354(b)(2), title VI, §2663(j)(2)(F)(i), 98 Stat. 1091, 1100, 1170; Apr. 7, 1986, Pub. L. 99–272, title IX, §9213(b), 100 Stat. 180; Oct. 22, 1986, Pub. L. 99–514, §2, 100 Stat. 2095; July 1, 1988, Pub. L. 100–360, title II, §212(c)(3), 102 Stat. 741; Nov. 10, 1988, Pub. L. 100–647, title VIII, §8005(a), 102 Stat. 3781; Dec. 13, 1989, Pub. L. 101–234, title II, §202(a), 103 Stat. 1981; Nov. 5, 1990, Pub. L. 101–508, title V, §5106(c), 104 Stat. 1388–268; Aug. 15, 1994, Pub. L. 103–296, title I, §108(c)(1), 108 Stat. 1485; Aug. 21, 1996, Pub. L. 104–191, title II, §201(b), 110 Stat. 1993.)
 
 #### References in Text
 
-The Internal Revenue Code of 1986, referred to in subsecs. (a)(1), (2) and (f)(1), is classified generally to Title 26, Internal Revenue Code. Subtitle F of such Code appears at section 6001 et seq. of Title 26.
+The Internal Revenue Code of 1986, referred to in subsecs. (a)(1), (2), (f)(1), and (k)(2)(C), is classified generally to Title 26, Internal Revenue Code. Subtitle F of such Code appears at section 6001 et seq. of Title 26.
+
+Sections 242(b) and 249(b) of the Health Insurance Portability and Accountability Act of 1996, referred to in subsec. (k)(2)(A)(ii), are sections 242(b) and 249(b) of Pub. L. 104–191, which are set out as notes under this section.
+
+The Employee Retirement Income Security Act of 1974, referred to in subsec. (k)(2)(D), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 832, as amended. Title I of the Act is classified generally to subchapter I (§1001 et seq.) ofchapter 18 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
 
 #### Amendments
+
+1996—Subsec. (k). Pub. L. 104–191 added subsec. (k).
 
 1994—Subsec. (a). Pub. L. 103–296, §108(c)(1)(A), substituted “Commissioner of Social Security” for “Secretary of Health and Human Services” wherever appearing.
 
@@ -118,7 +274,7 @@ Subsec. (b). Pub. L. 99–272 struck out provision at end of penultimate sentenc
 
 Subsec. (f)(1). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954” wherever appearing.
 
-1984—Subsec. (a). Pub. L. 98–369, §2337(a), in provisions following par. (2) substituted “from time to time” for “monthly on the first day of each calendar month”, “paid to or deposited into the Treasury” for “to be paid to or deposited into the Treasury during such month”, and struck out provision that all amounts transferredto the Trust Fund under the preceding sentence had to be invested by the Managing Trustee in the same manner and to the same extent as the other assets of the Trust Fund, and the Trust Fund had to pay interest to the general fund on the amount so transferred on the first day of any month at a rate (calculated on a daily basis, and applied against the difference between the amount so transferred on such first day and the amount which would have been transferred to the Trust Fund up to that day under the procedures in effect on January 1, 1983) equal to the rate earned by the investments of the Trust Fund in the same month under subsec. (c).
+1984—Subsec. (a). Pub. L. 98–369, §2337(a), in provisions following par. (2) substituted “from time to time” for “monthly on the first day of each calendar month”, “paid to or deposited into the Treasury” for “to be paid to or deposited into the Treasury during such month”, and struck out provision that all amounts transferred to the Trust Fund under the preceding sentence had to be invested by the Managing Trustee in the same manner and to the same extent as the other assets of the Trust Fund, and the Trust Fund had to pay interest to the general fund on the amount so transferred on the first day of any month at a rate (calculated on a daily basis, and applied against the difference between the amount so transferred on such first day and the amount which would have been transferred to the Trust Fund up to that day under the procedures in effect on January 1, 1983) equal to the rate earned by the investments of the Trust Fund in the same month under subsec. (c).
 
 Subsec. (a)(1), (2). Pub. L. 98–369, §2663(j)(2)(F)(i), substituted “Health and Human Services” for “Health, Education, and Welfare” wherever appearing.
 
@@ -190,11 +346,47 @@ Amendment by Pub. L. 97–123 effective Dec. 29, 1981, see section 1(c) of Pub. 
 
 #### Effective Date of 1978 Amendment
 
-Amendment by Pub. L. 95–292 effective with respect to services, supplies, and equipment furnished after thethird calendar month beginning after June 13, 1978, except that provisions for the implementation of an incentive reimbursement system for dialysis services furnished in facilities and providers to become effective with respect to a facility's or provider's first accounting period beginning after the last day of the twelfth month following the month of June 1978, and except that provisions for reimbursement rates for home dialysis to become effective on Apr. 1, 1979, see section 6 of Pub. L. 95–292, set out as a note under section 426 of this title.
+Amendment by Pub. L. 95–292 effective with respect to services, supplies, and equipment furnished after the third calendar month beginning after June 13, 1978, except that provisions for the implementation of an incentive reimbursement system for dialysis services furnished in facilities and providers to become effective with respect to a facility's or provider's first accounting period beginning after the last day of the twelfth month following the month of June 1978, and except that provisions for reimbursement rates for home dialysis to become effective on Apr. 1, 1979, see section 6 of Pub. L. 95–292, set out as a note under section 426 of this title.
 
 #### Effective Date of 1972 Amendment
 
 Amendment by Pub. L. 92–603 applicable with respect to gifts and bequests received after Oct. 30, 1972, see section 132(f) of Pub. L. 92–603, set out as a note under section 401 of this title.
+
+#### Criminal Fines Deposited in Federal Hospital Insurance Trust Fund
+
+Section 242(b) of Pub. L. 104–191 provided that: “The Secretary of the Treasury shall deposit into the Federal Hospital Insurance Trust Fund pursuant to section 1817(k)(2)(C) of the Social Security Act (42 U.S.C. 1395i) an amount equal to the criminal fines imposed under section 1347 of title 18, United States Code (relating to health care fraud).”
+
+#### Property Forfeited Deposited in Federal Hospital Insurance Trust Fund
+
+Section 249(c) of Pub. L. 104–191 provided that:
+
+“(1)
+
+In general.—After the payment of the costs of asset forfeiture has been made and after all restoration payments (if any) have been made, and notwithstanding any other provision of law, the Secretary of the Treasury shall deposit into the Federal Hospital Insurance Trust Fund pursuant to section 1817(k)(2)(C) of the Social Security Act \[subsec. (k)(2)(C) of this section\], as added by section 301(b), an amount equal to the net amount realized from the forfeiture of property by reason of a Federal health care offense pursuant to section 982(a)(6) of title 18, United States Code.
+
+“(2)
+
+Costs of asset forfeiture.—For purposes of paragraph (1), the term ‘payment of the costs of asset forfeiture’ means—
+
+&emsp;“(A) the payment, at the discretion of the Attorney General, of any expenses necessary to seize, detain, inventory, safeguard, maintain, advertise, sell, or dispose of property under seizure, detention, or forfeited, or of any other necessary expenses incident to the seizure, detention, forfeiture, or disposal of such property, including payment for—
+
+&emsp;&emsp;“(i) contract services;
+
+&emsp;&emsp;“(ii) the employment of outside contractors to operate and manage properties or provide other specialized services necessary to dispose of such properties in an effort to maximize the return from such properties; and
+
+&emsp;&emsp;“(iii) reimbursement of any Federal, State, or local agency for any expenditures made to perform the functions described in this subparagraph;
+
+&emsp;“(B) at the discretion of the Attorney General, the payment of awards for information or assistance leading to a civil or criminal forfeiture involving any Federal agency participating in the Health Care Fraud and Abuse Control Account;
+
+&emsp;“(C) the compromise and payment of valid liens and mortgages against property that has been forfeited, subject to the discretion of the Attorney General to determine the validity of any such lien or mortgage and the amount of payment to be made, and the employment of attorneys and other personnel skilled in State real estate law as necessary;
+
+&emsp;“(D) payment authorized in connection with remission or mitigation procedures relating to property forfeited; and
+
+&emsp;“(E) the payment of State and local property taxes on forfeited real property that accrued between the date of the violation giving rise to the forfeiture and the date of the forfeiture order.
+
+“(3)
+
+Restoration payment.—Notwithstanding any other provision of law, if the Federal health care offense referred to in paragraph (1) resulted in a loss to an employee welfare benefit plan within the meaning of section 3(1) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1002(1)\], the Secretary of the Treasury shall transfer to such employee welfare benefit plan, from the amount realized from the forfeiture of property referred to in paragraph (1), an amount equal to such loss. For purposes of paragraph (1), the term ‘restoration payment’ means the amount transferred to an employee welfare benefit plan pursuant to this paragraph.”
 
 #### Due Date for 1983 Report on Operation and Status of Trust Fund
 
@@ -203,4 +395,6 @@ Notwithstanding subsec. (b)(2) of this section, the annual report of the Board o
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 401, 417, 426a, 429, 910, 1320a–7a, 1320b–12, 1395b–1, 1395i–1, 1395gg, 1395vv, 1396m of this title.
+
+<i><sup>1</sup></i><i> So in original. The comma probably should be a semicolon.</i>
 

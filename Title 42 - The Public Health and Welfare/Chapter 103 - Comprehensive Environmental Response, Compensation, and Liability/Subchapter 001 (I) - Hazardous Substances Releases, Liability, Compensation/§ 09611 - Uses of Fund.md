@@ -6,7 +6,7 @@ For the purposes specified in this section there is authorized to be appropriate
 
 &emsp;(1) Payment of governmental response costs incurred pursuant to section 9604 of this title, including costs incurred pursuant to the Intervention on the High Seas Act \[33 U.S.C. 1471 et seq.\].
 
-&emsp;(2) Payment of any claim for necessary response costs incurred by any other person as a result of carrying out the national contingency plan established under section 1321(c) <sup>1</sup> of title 33 and amended by section 9605 of this title: <i>Provided, however,</i> That such costs must be approved under said plan and certified by the responsible Federal official.
+&emsp;(2) Payment of any claim for necessary response costs incurred by any other person as a result of carrying out the national contingency plan established under section 1321(c) <sup>1</sup> of title 33 and amended by section 9605 of this title: <i>Provided, however</i>, That such costs must be approved under said plan and certified by the responsible Federal official.
 
 &emsp;(3) Payment of any claim authorized by subsection (b) of this section and finally decided pursuant to section 9612 of this title, including those costs set out in subsection 9612(c)(3) of this title.
 
@@ -26,7 +26,7 @@ Lead contaminated soil.—Payment of not to exceed $15,000,000 for the costs of 
 
 #### (1) In general
 
-&emsp;Claims asserted and compensable but unsatisfied under provisions of section 1321 of title 33, which are modified by section 304 of this Act may be asserted against the Fund under this subchapter; and other claims resulting from a release or threat of release of a hazardous substance from a vessel or a facility may be asserted against the Fund under this subchapter for injury to, or destruction or loss of, natural resources, including cost for damage assessment: <i>Provided, however,</i> That any such claim may be asserted only by the President, as trustee, for natural resources over which the United States has sovereign rights, or natural resources within the territory or the fishery conservation zone of the United States to the extent they are managed or protected by the United States, or by any State for natural resources within the boundary of that State belonging to, managed by, controlled by, or appertaining to the State, or by any Indian tribe or by the United States acting on behalf of any Indian tribe for natural resources belonging to, managed by, controlled by, or appertaining to such tribe, or held in trust for the benefit of such tribe, or belonging to a member of such tribe if such resources are subject to a trust restriction on alienation.
+&emsp;Claims asserted and compensable but unsatisfied under provisions of section 1321 of title 33, which are modified by section 304 of this Act may be asserted against the Fund under this subchapter; and other claims resulting from a release or threat of release of a hazardous substance from a vessel or a facility may be asserted against the Fund under this subchapter for injury to, or destruction or loss of, natural resources, including cost for damage assessment: <i>Provided, however</i>, That any such claim may be asserted only by the President, as trustee, for natural resources over which the United States has sovereign rights, or natural resources within the territory or the fishery conservation zone of the United States to the extent they are managed or protected by the United States, or by any State for natural resources within the boundary of that State belonging to, managed by, controlled by, or appertaining to the State, or by any Indian tribe or by the United States acting on behalf of any Indian tribe for natural resources belonging to, managed by, controlled by, or appertaining to such tribe, or held in trust for the benefit of such tribe, or belonging to a member of such tribe if such resources are subject to a trust restriction on alienation.
 
 #### (2) Limitation on payment of natural resource claims
 
@@ -50,7 +50,7 @@ Uses of the Fund under subsection (a) of this section include—
 
 &emsp;(4) Any costs incurred in accordance with subsection (m) of this section (relating to ATSDR) and section 9604(i) of this title, including the costs of epidemiologic and laboratory studies, health assessments, preparation of toxicologic profiles, development and maintenance of a registry of persons exposed to hazardous substances to allow long-term health effect studies, and diagnostic services not otherwise available to determine whether persons in populations exposed to hazardous substances in connection with a release or a suspected release are suffering from long-latency diseases.
 
-&emsp;(5) Subject to such amounts as are provided in appropriation Acts, the costs of providing equipment and similar overhead, related to the purposes of this chapter and section 1321 oftitle 33, and needed to supplement equipment and services available through contractors or other non-Federal entities, and of establishing and maintaining damage assessment capability, for any Federal agency involved in strike forces, emergency task forces, or other response teams under the national contingency plan.
+&emsp;(5) Subject to such amounts as are provided in appropriation Acts, the costs of providing equipment and similar overhead, related to the purposes of this chapter and section 1321 of title 33, and needed to supplement equipment and services available through contractors or other non-Federal entities, and of establishing and maintaining damage assessment capability, for any Federal agency involved in strike forces, emergency task forces, or other response teams under the national contingency plan.
 
 &emsp;(6) Subject to such amounts as are provided in appropriation Acts, the costs of a program to protect the health and safety of employees involved in response to hazardous substance releases. Such program shall be developed jointly by the Environmental Protection Agency, the Occupational Safety and Health Administration, and the National Institute for Occupational Safety and Health and shall include, but not be limited to, measures for identifying and assessing hazards to which persons engaged in removal, remedy, or other response to hazardous substances may be exposed, methods to protect workers from such hazards, and necessary regulatory and enforcement measures to assure adequate protection of such employees.
 
@@ -174,7 +174,7 @@ Not later than 90 days after October 17, 1986, the President shall develop and i
 
 #### (1) In general
 
-&emsp;The following sums are authorized to be appropriated, out of any money in the Treasury not otherwise appropriated, to the Hazardous Substance Superfund:
+&emsp;The following sums are authorized to be appropriated, out of any money in the Treasurynot otherwise appropriated, to the Hazardous Substance Superfund:
 
 &emsp;&emsp;(A) For fiscal year 1987, $212,500,000.
 
@@ -216,7 +216,7 @@ Subsection (f) of section 118 of the Superfund Amendments and Reauthorization Ac
 
 Subchapter II of this chapter, referred to in subsec. (e)(2), was in the original “title II of this Act”, meaning title II of Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2796, known as the Hazardous Substance Response Revenue Act of 1980, which enacted subchapter II of this chapter and sections 4611, 4612, 4661, 4662, 4681, and 4682 of Title 26, Internal Revenue Code. Sections 221 to 223 and 232 of Pub. L. 96–510, which were classified to sections 9631 to 9633 and 9641 of this title, comprising subchapter II of this chapter, were repealed by Pub. L. 99–499, title V, §§514(b), 517(c)(1), Oct. 17, 1986, 100 Stat. 1767, 1774. For complete classification of title II to the Code, see Short Title of 1980 Amendment note set out under section 1 of Title 26 and Tables.
 
-The Single Audit Act, referred to in subsec. (k), probably means the Single Audit Act of 1984, Pub. L. 98–502, Oct. 19, 1984, 98 Stat. 2327, which is classified generallyto chapter 75 (§7501 et seq.) of Title 31, Money and Finance. For complete classification of this Act to the Code, see Short Title note set out under section 7501 of Title 31 and Tables.
+The Single Audit Act, referred to in subsec. (k), probably means the Single Audit Act of 1984, Pub. L. 98–502, Oct. 19, 1984, 98 Stat. 2327, as amended, which is classified generally to chapter 75 (§7501 et seq.) of Title 31, Money and Finance. For complete classification of this Act to the Code, see Short Title note set out under section 7501 of Title 31 and Tables.
 
 The Outer Continental Shelf Lands Act as amended, referred to in subsec. (<i>l</i>)(3), is act Aug. 7, 1953, ch. 345, 67 Stat. 462, as amended, which is classified generally to subchapter III (§1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1331 of Title 43 and Tables.
 
@@ -244,7 +244,7 @@ Subsec. (p)(1)(F) to (H). Pub. L. 101–508, §6301(8), added subpars. (F) to (H
 
 1989—Subsec. (c)(12). Pub. L. 101–144, which directed that section 9611(c)(12) of the Superfund Amendments and Reauthorization Act of 1986 be amended by substituting “$20,000,000” for “$10,000,000”, was executed by making the substitution in subsec. (c)(12) of this section, as the probable intent of Congress because the Superfund Amendments and Reauthorization Act of 1986, Pub. L. 99–499, does not contain a section 9611, but section 111(d)(2) of Pub. L. 99–499 enacted subsec. (c)(12) of this section.
 
-1986—Subsec. (a). Pub. L. 99–499, §111(a), (b), inserted heading and “For the purposes specified in this section there is authorized to be appropriated from the Hazardous Substance Superfund established under subchapter A of chapter 98 of title 26 not more than $8,500,000,000 for the 5-year period beginning on October 17, 1986, and such sums shall remain available until expended. The preceding sentence constitutes a specific authorization for the funds appropriated under title II of Public Law 99-160 (relating to payment to the Hazardous Substances Trust Fund).” in introductory provisions, substituted “Payment” for “payment” in pars. (1) to (4), a period for a semicolon in pars. (1) and (2), and a period for “; and” in par. (3), and added pars. (5) and (6).
+1986—Subsec. (a). Pub. L. 99–499, §111(a), (b), inserted heading and “For the purposes specified in this section there is authorized to be appropriated from the Hazardous Substance Superfund established under subchapter A of chapter 98 of title 26 not more than $8,500,000,000 for the 5-year period beginning on October 17, 1986, and such sums shall remain available until expended. The preceding sentence constitutes a specific authorization for the funds appropriated under title II of Public Law 99-160 (relating to payment to the Hazardous Substances Trust Fund).” in introductory provisions, substituted “Payment” for “payment” in pars. (1) to (4), aperiod for a semicolon in pars. (1) and (2), and a period for “; and” in par. (3), and added pars. (5) and (6).
 
 Subsec. (b). Pub. L. 99–499, §§111(c)(1), 207(d)(1), designated existing provisions as par. (1), inserted “, or by any Indian tribe or by the United States acting on behalf of any Indian tribe for natural resources belonging to, managed by, controlled by, or appertaining to such tribe, or held in trust for the benefit of such tribe, or belonging to a member of such tribe if such resources are subject to a trust restriction on alienation” in par. (1), and added par. (2).
 
@@ -270,7 +270,7 @@ Subsecs. (m) to (p). Pub. L. 99–499, §111(h), (i), added subsecs. (m) to (p).
 
 #### Coordination of Titles I to IV of Pub. L. 99–499
 
-Any provision of titles I to IV of Pub. L. 99–499, imposing any tax, premium, or fee; establishing any trustfund; or authorizing expenditures from any trust fund, to have no force or effect, see section 531 of Pub. L. 99–499, set out as a note under section 1 of Title 26, Internal Revenue Code.
+Any provision of titles I to IV of Pub. L. 99–499, imposing any tax, premium, or fee; establishing any trust fund; or authorizing expenditures from any trust fund, to have no force or effect, see section 531 of Pub. L. 99–499, set out as a note under section 1 of Title 26, Internal Revenue Code.
 
 #### Section Referred to in Other Sections
 

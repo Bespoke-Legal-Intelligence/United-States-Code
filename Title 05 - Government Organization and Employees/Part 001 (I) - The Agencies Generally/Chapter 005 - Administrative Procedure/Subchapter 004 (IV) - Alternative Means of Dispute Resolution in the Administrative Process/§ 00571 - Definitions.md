@@ -4,9 +4,9 @@ For the purposes of this subchapter, the term—
 
 &emsp;(1) “agency” has the same meaning as in section 551(1) of this title;
 
-&emsp;(2) “administrative program” includes a Federal function which involves protection of the public interest and the determination of rights, privileges, and obligations of private persons through rule making, adjudication, licensing, or investigation, as those terms are used in subchapter II of this chapter;
+&emsp;(2) “administrative program” includes a Federal function which involves protection ofthe public interest and the determination of rights, privileges, and obligations of private persons through rule making, adjudication, licensing, or investigation, as those terms are used in subchapter II of this chapter;
 
-&emsp;(3) “alternative means of dispute resolution” means any procedure that is used, in lieu of an adjudication as defined in section 551(7) of this title, to resolve issues in controversy, including, but not limited to, settlement negotiations, conciliation, facilitation, mediation, factfinding, minitrials, and arbitration, or any combination thereof;
+&emsp;(3) “alternative means of dispute resolution” means any procedure that is used to resolve issues in controversy, including, but not limited to, conciliation, facilitation, mediation, factfinding, minitrials, arbitration, and use of ombuds, or any combination thereof;
 
 &emsp;(4) “award” means any decision by an arbitrator resolving the issues in controversy;
 
@@ -24,9 +24,7 @@ For the purposes of this subchapter, the term—
 
 &emsp;&emsp;(A) between an agency and persons who would be substantially affected by the decision; or
 
-&emsp;&emsp;(B) between persons who would be substantially affected by the decision,
-
-> &emsp;except that such term shall not include any matter specified under section 2302 or 7121(c) of this title;
+&emsp;&emsp;(B) between persons who would be substantially affected by the decision;
 
 &emsp;(9) “neutral” means an individual who, with respect to an issue in controversy, functions specifically to aid the parties in resolving the controversy;
 
@@ -40,7 +38,7 @@ For the purposes of this subchapter, the term—
 
 &emsp;(12) “roster” means a list of persons qualified to provide services as neutrals.
 
-(Added Pub. L. 101–552, §4(b), Nov. 15, 1990, 104 Stat. 2738, §581; renumbered §571 and amended Pub. L. 102–354, §§3(b)(2), 5(b)(1), (2), Aug. 26, 1992, 106 Stat. 944, 946.)
+(Added Pub. L. 101–552, §4(b), Nov. 15, 1990, 104 Stat. 2738, §581; renumbered §571 and amended Pub. L. 102–354, §§3(b)(2), 5(b)(1), (2), Aug. 26, 1992, 106 Stat. 944, 946; Pub. L. 104–320, §2, Oct. 19, 1996, 110 Stat. 3870.)
 
 #### Codification
 
@@ -52,7 +50,11 @@ A prior section 571 was renumbered section 591 of this title.
 
 #### Amendments
 
-<b>1992</b>—Pub. L. 102–354, §3(b)(2), renumbered section 581 of this title as this section.
+1996—Par. (3). Pub. L. 104–320, §2(1), struck out “, in lieu of an adjudication as defined in section 551(7) of this title,” after “any procedure that is used”, struck out “settlement negotiations,” after “but not limited to,” and substituted “arbitration, and use of ombuds” for “and arbitration”.
+
+Par. (8). Pub. L. 104–320, §2(2), substituted “decision;” for “decision,” at end of subpar. (B), and struck out closing provisions which read as follows: “except that such term shall not include any matter specified under section 2302 or 7121(c) of this title;”.
+
+1992—Pub. L. 102–354, §3(b)(2), renumbered section 581 of this title as this section.
 
 Par. (3). Pub. L. 102–354, §5(b)(1), inserted comma after “including”.
 
@@ -60,7 +62,11 @@ Par. (8). Pub. L. 102–354, §5(b)(2), amended par. (8) generally. Prior to ame
 
 #### Termination Date; Savings Provision
 
-Section 11 of Pub. L. 101–552 provided that: “The authority of agencies to use dispute resolution proceedings under this Act \[see Short Title note below\] and the amendments made by this Act shall terminate on October 1, 1995, except that such authority shall continue in effect with respect to then pending proceedings which, in the judgment of the agencies that are parties to the dispute resolution proceedings, require such continuation, until such proceedings terminate.”
+Section 11 of Pub. L. 101–552, as amended by Pub. L. 104–106, div. D, title XLIII, §4321(i)(5), Feb. 10, 1996, 110 Stat. 676, which provided that the authority of agencies to use dispute resolution proceedings under this Act \[see Short Title note below\] was to terminate on Oct. 1, 1995, except with respect to pending proceedings, was repealed by Pub. L. 104–320, §9, Oct. 19, 1996, 110 Stat. 3872.
+
+#### Short Title of 1996 Amendment
+
+Section 1 of Pub. L. 104–320 provided that: “This Act \[enacting sections 570a and 584 of this title, amending this section, sections 569, 573 to 575, 580, 581, and 583 of this title, section 2304 of Title 10, Armed Forces, section 1491 of Title 28, Crimes and Criminal Procedure, section 173 of Title 29, Labor, section 3556 of Title 31, Money and Finance, and sections 253 and 605 of Title 41, Public Contracts, repealing section 582 of this title, enacting provisions set out as notes under section 563 of this title, section 1491 of Title 28, and section 3556 of Title 31, amending provisions set out as notes under this section, and repealing provisions set out as notes under this section and section 561 of this title\] may be cited as the ‘Administrative Dispute Resolution Act of 1996’.”
 
 #### Short Title
 
@@ -72,7 +78,7 @@ Section 2 of Pub. L. 101–552 provided that: “The Congress finds that—
 
 &emsp;“(1) administrative procedure, as embodied in chapter 5 of title 5, United States Code, and other statutes, is intended to offer a prompt, expert, and inexpensive means of resolving disputes as an alternative to litigation in the Federal courts;
 
-&emsp;“(2) administrative proceedings have become increasingly formal, costly, and lengthy resulting in unnecessary expenditures of time and in a decreased likelihood of achieving consensual resolution of disputes;
+&emsp;“(2) administrative proceedings have become increasingly formal, costly, and lengthy resulting inunnecessary expenditures of time and in a decreased likelihood of achieving consensual resolution of disputes;
 
 &emsp;“(3) alternative means of dispute resolution have been used in the private sector for many years and, in appropriate circumstances, have yielded decisions that are faster, less expensive, and less contentious;
 
@@ -88,13 +94,13 @@ Section 2 of Pub. L. 101–552 provided that: “The Congress finds that—
 
 #### Promotion of Alternative Means of Dispute Resolution
 
-Section 3 of Pub. L. 101–552 provided that:
+Section 3 of Pub. L. 101–552, as amended by Pub. L. 104–320, §4(a), Oct. 19, 1996, 110 Stat. 3871, provided that:
 
 “(a)
 
 Promulgation of Agency Policy.—Each agency shall adopt a policy that addresses the use of alternative means of dispute resolution and case management. In developing such a policy, each agency shall—
 
-&emsp;“(1) consult with the Administrative Conference of the United States and the Federal Mediation and Conciliation Service; and
+&emsp;“(1) consult with the agency designated by, or the interagency committee designated or established by, the President under section 573 of title 5, United States Code, to facilitate and encourage agency use of alternative dispute resolution under subchapter IV of chapter 5 of such title; and
 
 &emsp;“(2) examine alternative means of resolving disputes in connection with—
 
@@ -133,8 +139,6 @@ Procedures for Grants and Contracts.—
 &emsp;“(2)(A) Within 1 year after the date of the enactment of this Act \[Nov. 15, 1990\], the Federal Acquisition Regulation shall be amended, as necessary, to carry out this Act \[see Short Title note above\] and the amendments made by this Act.
 
 &emsp;“(B) For purposes of this section, the term ‘Federal Acquisition Regulation’ means the single system of Government-wide procurement regulation referred to in section 6(a) of the Office of Federal Procurement Policy Act (41 U.S.C. 405(a)).”
-
-\[For termination of Administrative Conference of United States, see provision of title IV of Pub. L. 104–52, set out as a note preceding section 591 of this title.\]
 
 #### Use of Nonattorneys
 

@@ -10,7 +10,7 @@ It is the purpose of this chapter—
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this joint resolution”, which enacted this chapter and section 308 of the Public Health Service Act (act July 1, 1944, ch. 373, 58 Stat. 682). Such section 308 was redesignated section 307 by Pub. L. 93–353, July 23, 1974, title I, §106, 88 Stat. 367, and is classified to section 242<i>l</i> of Title 42, The Public Health and Welfare.
+This chapter, referred to in text, was in the original “this joint resolution”, which enacted this chapter andsection 308 of the Public Health Service Act (act July 1, 1944, ch. 373, 58 Stat. 682). Such section 308 was redesignated section 307 by Pub. L. 93–353, July 23, 1974, title I, §106, 88 Stat. 367, and is classified to section 242<i>l</i> of Title 42, The Public Health and Welfare.
 
 #### Recital
 
@@ -20,7 +20,7 @@ Pub. L. 86–610 provided that:
 
 “Whereas advances in combating and abating disease and in the positive promotion of human health can be stimulated by supporting and encouraging cooperation among scientists, research workers, and teachers on an international basis, with consequent benefit to the health of our people and of all peoples; and
 
-“Whereas there already exist tested means for international cooperation in matters relating to health, including the World Health Organization, the Pan American Health Organization, and the United Nations Children's Fund (UNICEF), with which the United States is identified and associated, and it is highly desirable that the United States establish domestic machinery for the maximum mobilization of its health research resources, the more efficiently to cooperate with and support the research, research-training and research-planning endeavors of such international organizations: Therefore be it \* \* \*”
+“Whereas there already exist tested means for international cooperation in matters relating to health, including the World Health Organization, the Pan American Health Organization, and the United Nations Children's Fund (UNICEF), with which the United States is identified and associated, and it is highly desirable that the United States establish domestic machinery for the maximum mobilization of its health research resources, the more efficiently to cooperate with and support the research, research-training and research-planning endeavors of such international organizations: Therefore be it \* \* \*”.
 
 #### Short Title
 

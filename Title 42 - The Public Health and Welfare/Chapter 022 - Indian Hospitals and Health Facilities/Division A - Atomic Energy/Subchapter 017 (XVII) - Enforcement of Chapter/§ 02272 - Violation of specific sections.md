@@ -14,7 +14,7 @@ Provisions similar to this section were contained in section 1816(a), (b) of thi
 
 #### Effective Date of 1969 Amendment
 
-Section 7 of Pub. L. 91–161 provided that: “The amendments contained in sections 2 and 3 of this Act\[amending this section and sections 2274 and 2276 of this title\] shall apply only to offenses under sections 222, 224, 225, and 226 \[this section and sections 2274, 2275, and 2276 of this title\] which are committed on or after the date of enactment of this Act \[Dec. 24, 1969\]. Nothing in section 2 or 3 of this Act shall affect penalties authorized under existing law for offenses under section 222, 224, 225, or 226 of the Atomic Energy Act of 1954, as amended, committed prior to the date of enactment of this Act.”
+Section 7 of Pub. L. 91–161 provided that: “The amendments contained in sections 2 and 3 of this Act \[amending this section and sections 2274 and 2276 of this title\] shall apply only to offenses under sections 222, 224, 225, and 226 \[this section and sections 2274, 2275, and 2276 of this title\] which are committed on or after the date of enactment of this Act \[Dec. 24, 1969\]. Nothing in section 2 or 3 of this Act shall affect penalties authorized under existing law for offenses under section 222, 224, 225, or 226 of the Atomic Energy Act of 1954, as amended, committed prior to the date of enactment of this Act.”
 
 #### Transfer of Functions
 

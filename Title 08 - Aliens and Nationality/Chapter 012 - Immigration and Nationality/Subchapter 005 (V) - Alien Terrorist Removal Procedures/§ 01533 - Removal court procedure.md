@@ -1,0 +1,62 @@
+### §1533. Removal court procedure
+
+#### (a) Application
+
+#### (1) In general
+
+&emsp;In any case in which the Attorney General has classified information that an alien is an alien terrorist, the Attorney General may seek removal of the alien under this subchapter by filing an application with the removal court that contains—
+
+&emsp;&emsp;(A) the identity of the attorney in the Department of Justice making the application;
+
+&emsp;&emsp;(B) a certification by the Attorney General or the Deputy Attorney General that the application satisfies the criteria and requirements of this section;
+
+&emsp;&emsp;(C) the identity of the alien for whom authorization for the removal proceeding is sought; and
+
+&emsp;&emsp;(D) a statement of the facts and circumstances relied on by the Department of Justice to establish probable cause that—
+
+&emsp;&emsp;&emsp;(i) the alien is an alien terrorist;
+
+&emsp;&emsp;&emsp;(ii) the alien is physically present in the United States; and
+
+&emsp;&emsp;&emsp;(iii) with respect to such alien, removal under subchapter II of this chapter would pose a risk to the national security of the United States.
+
+#### (2) Filing
+
+&emsp;An application under this section shall be submitted ex parte and in camera, and shall be filed under seal with the removal court.
+
+#### (b) Right to dismiss
+
+The Attorney General may dismiss a removal action under this subchapter at any stage of the proceeding.
+
+#### (c) Consideration of application
+
+#### (1) Basis for decision
+
+&emsp;In determining whether to grant an application under this section, a single judge of the removal court may consider, ex parte and in camera, in addition to the information contained in the application—
+
+&emsp;&emsp;(A) other information, including classified information, presented under oath or affirmation; and
+
+&emsp;&emsp;(B) testimony received in any hearing on the application, of which a verbatim record shall be kept.
+
+#### (2) Approval of order
+
+&emsp;The judge shall issue an order granting the application, if the judge finds that there is probable cause to believe that—
+
+&emsp;&emsp;(A) the alien who is the subject of the application has been correctly identified and is an alien terrorist present in the United States; and
+
+&emsp;&emsp;(B) removal under subchapter II of this chapter would pose a risk to the national security of the United States.
+
+#### (3) Denial of order
+
+&emsp;If the judge denies the order requested in the application, the judge shall prepare a written statement of the reasons for the denial, taking all necessary precautions not to disclose any classified information contained in the Government's application.
+
+#### (d) Exclusive provisions
+
+If an order is issued under this section granting an application, the rights of the alien regarding removal and expulsion shall be governed solely by this subchapter, and except as they are specifically referenced in this subchapter, no other provisions of this chapter shall be applicable.
+
+(June 27, 1952, ch. 477, title V, §503, as added Apr. 24, 1996, Pub. L. 104–132, title IV, §401(a), 110 Stat. 1259.)
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 1534, 1535, 1536 of this title.
+

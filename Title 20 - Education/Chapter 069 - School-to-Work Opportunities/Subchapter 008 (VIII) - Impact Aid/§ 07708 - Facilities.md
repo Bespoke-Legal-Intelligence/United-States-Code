@@ -26,7 +26,7 @@ Sections 204 and 310 of the Act of September 30, 1950 (Public Law 874, 81st Cong
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 7707, 7714 of this title.
+This section is referred to in sections 7707, 7714 of this title; title 10 section 2008.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

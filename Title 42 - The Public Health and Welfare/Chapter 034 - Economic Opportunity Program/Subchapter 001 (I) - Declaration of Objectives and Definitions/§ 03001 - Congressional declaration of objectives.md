@@ -22,7 +22,7 @@ The Congress hereby finds and declares that, in keeping with the traditional Ame
 
 &emsp;(10) Freedom, independence, and the free exercise of individual initiative in planning and managing their own lives, full participation in the planning and operation of community-based services and programs provided for their benefit, and protection against abuse, neglect, and exploitation.
 
-(Pub. L. 89–73, title I, §101, July 14, 1965, 79 Stat. 219; Pub. L. 93–29, title I, §102, May 3, 1973, 87 Stat. 30; Pub. L. 95–478, title I, §101, Oct. 18, 1978, 92 Stat. 1513; Pub. L. 97–115, §2(a)(1), Dec. 29, 1981, 95 Stat. 1595; Pub. L. 98–459, title I, §102, Oct. 9, 1984, 98 Stat. 1767; Pub. L. 100–175, title I, §101, Nov. 29, 1987, 101 Stat. 928; Pub. L. 102–375, title I, §101, title IX, §904(a)(1), Sept. 30, 1992, 106 Stat. 1197, 1305.)
+(Pub. L. 89–73, title I, §101, July 14, 1965, 79 Stat. 219; Pub. L. 93–29, title I, §102, May 3, 1973, 87 Stat. 30; Pub. L. 95–478, title I, §101, Oct. 18, 1978, 92 Stat. 1513; Pub. L. 97–115, §2(a)(1), Dec. 29, 1981, 95 Stat. 1595; Pub. L. 98–459, title I, §102, Oct. 9, 1984, 98 Stat. 1767; Pub. L. 100–175, title I, §101, Nov. 29, 1987, 101 Stat. 928; Pub. L. 102–375,title I, §101, title IX, §904(a)(1), Sept. 30, 1992, 106 Stat. 1197, 1305.)
 
 #### Amendments
 
@@ -84,7 +84,7 @@ Project reports.—The amendments made by sections 410, 411, 413, 414, 415, 416,
 
 &emsp;“(4)
 
-Community service employment.—The amendments made by sections 501, 504, and 506 \[enacting section 3056h of this title and amending sections 3056,3056d, and 3056e of this title\] shall not apply with respect to fiscal year 1992.
+Community service employment.—The amendments made by sections 501, 504, and 506 \[enacting section 3056h of this title and amending sections 3056, 3056d, and 3056e of this title\] shall not apply with respect to fiscal year 1992.
 
 &emsp;“(5)
 
@@ -132,7 +132,7 @@ Section 803 of Pub. L. 98–459 provided that:
 
 #### Effective Date of 1978 Amendment
 
-Section 504 of Pub. L. 95–478 provided that: “This Act \[see Short Title of 1978 Amendment note below\], and the amendments made by this Act, shall take effect at the close of September 30, 1978.”
+Section 504 of Pub. L. 95–478 provided that: “This Act \[see Short Title of 1978 Amendment note below\], andthe amendments made by this Act, shall take effect at the close of September 30, 1978.”
 
 #### Short Title of 1993 Amendment
 
@@ -316,7 +316,7 @@ Section 213 of Pub. L. 102–375 provided that:
 
 “(a)
 
-Establishment Study of Committee.—The Secretary of Health and Human Services shall enter into an arrangement, in accordance with subsection (d), to establish a study committee described in subsection (c) to conduct a study through the Institute of Medicine of the National Academy of Sciences on the quality of home care services for older individuals and disabled individuals.
+Establishment Study of Committee.—The Secretary of Health and Human Services shall enter into an arrangement, in accordance with subsection (d), to establish a study committee described in subsection (c)to conduct a study through the Institute of Medicine of the National Academy of Sciences on the quality of home care services for older individuals and disabled individuals.
 
 “(b)
 
@@ -376,7 +376,7 @@ Subtitle A of title VIII of Pub. L. 102–375 provided that:
 
 &emsp;“(1)
 
-Nursing home nurse aide.—The term ‘nursing home nurse aide’ means an individual employed at anursing or convalescent home who assists in the care of patients at such home under the direction of nursing and medical staff.
+Nursing home nurse aide.—The term ‘nursing home nurse aide’ means an individual employed at a nursing or convalescent home who assists in the care of patients at such home under the direction of nursing and medical staff.
 
 &emsp;“(2)
 
@@ -636,7 +636,7 @@ Duties.—The Secretary shall, in carrying out the Secretary's responsibilities 
 
 &emsp;“(2) the agenda prepared under subsection (a)(4) for the Conference is published in the Federal Register not later than 30 days after such agenda is approved by the Policy Committee, and the Secretary may republish such agenda together with the recommendations of the Secretary regarding such agenda,
 
-&emsp;“(3) the personnel engaged under subsection (a)(6) shall be fairly balanced in terms of points of viewsrepresented and shall be appointed without regard to political affiliation or previous partisan activities,
+&emsp;“(3) the personnel engaged under subsection (a)(6) shall be fairly balanced in terms of points of views represented and shall be appointed without regard to political affiliation or previous partisan activities,
 
 &emsp;“(4) the recommendations of the Conference are not inappropriately influenced by any appointing authority or by any special interest, but will instead be the result of the independent judgment of the Conference, and
 
@@ -742,7 +742,7 @@ Proposed Report.—A proposed report of the Conference, which shall include a st
 
 “(b)
 
-Response to Proposed Report.—The chief executive officers of the States, after reviewing and soliciting recommendations and comments on the report of the Conference, shall submit to the Policy Committee,not later than 90 days after receiving the report, their views and findings on the recommendations of the Conference.
+Response to Proposed Report.—The chief executive officers of the States, after reviewing and soliciting recommendations and comments on the report of the Conference, shall submit to the Policy Committee, not later than 90 days after receiving the report, their views and findings on the recommendations of the Conference.
 
 “(c)
 
@@ -804,7 +804,7 @@ Conference not convened.—If the Conference is not convened before December 31,
 
 \[For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.\]
 
-\[Section 837 of Pub. L. 102–375 provided that: “All personnel assigned or engaged under section 202(b) or section 203(a)(5) of the Older Americans Act Amendments of 1987 \[Pub. L. 100–175, set out above\] (42 U.S.C. 3001 note) as in effect immediately before the date of the enactment of this Act \[Sept. 30, 1992\] shall continue to be assigned or engaged under such section after such date notwithstanding the amendments made by this subtitle \[amending title II of Pub. L. 100–175, set out above\].”\]
+\[Section 837 of Pub. L. 102–375 provided that: “All personnel assigned or engaged under section 202(b) or section 203(a)(5) of the Older Americans Act Amendments of 1987 \[Pub. L. 100–175, set out above\] (42 U.S.C. 3001 note) as in effect immediately before the date of the enactment of this Act \[Sept. 30, 1992\] shall continue to beassigned or engaged under such section after such date notwithstanding the amendments made by this subtitle \[amending title II of Pub. L. 100–175, set out above\].”\]
 
 Pub. L. 95–478, title II, §§201–207, Oct. 18, 1978, 92 Stat. 1551–1554, as amended by Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695, authorized the President to call a White House Conference on Aging in 1981 to develop recommendations relating to economic well-being, health care, housing, social services, and employment of the aging.
 

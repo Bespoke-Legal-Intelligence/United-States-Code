@@ -32,7 +32,7 @@ In carrying out his duties and responsibilities under section 1223 of this title
 
 #### Study of Desirability and Feasibility of Shore-Station Systems for Monitoring Vessels
 
-Section 3 of Pub. L. 95–474 authorized the Secretary, in consultation with the Secretary of Commerce and other appropriate departments or agencies of the Federal Government to study the desirability and feasibility of shore-station systems for monitoring vessels within the Fishery Conservation Zone as defined in section 1802(8) of Title 16, Conservation, required the Secretary to report his findings to Congress, within two years after Oct. 17, 1978, and authorized appropriations for such study for fiscal years 1979 and 1980.
+Section 3 of Pub. L. 95–474 authorized the Secretary, in consultation with the Secretary of Commerce and other appropriate departments or agencies of the Federal Government to study the desirability and feasibility of shore-station systems for monitoring vessels within the Fishery Conservation Zone as defined in former section 1802(8) of Title 16, Conservation, required the Secretary to report his findings to Congress, within two years after Oct. 17, 1978, and authorized appropriations for such study for fiscal years 1979 and 1980.
 
 #### Section Referred to in Other Sections
 

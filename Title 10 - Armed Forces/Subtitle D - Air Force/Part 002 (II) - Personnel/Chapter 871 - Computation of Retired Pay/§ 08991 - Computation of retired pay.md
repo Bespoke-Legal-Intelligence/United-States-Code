@@ -14,7 +14,7 @@ Formula.—The monthly retired pay of a member entitled to such pay under this s
 
 &emsp;(2)
 
-Additional 10 percent for certain enlisted members credited with extraordinary heroism.—If a member who is retired under section 8914 of this title has been credited by the Secretary of the Air Force with extraordinary heroism in the line of duty, the member's retired pay shall be increased by 10percent of the amount determined under paragraph (1) (but to not more than 75 percent of the retired pay base upon which the computation of such retired pay is based). The Secretary's determination as to extraordinary heroism is conclusive for all purposes.
+Additional 10 percent for certain enlisted members credited with extraordinary heroism.—If a member who is retired under section 8914 of this title has been credited by the Secretary of the Air Force with extraordinary heroism in the line of duty, the member's retired pay shall be increased by 10 percent of the amount determined under paragraph (1) (but to not more than 75 percent of the retired pay base upon which the computation of such retired pay is based). The Secretary's determination as to extraordinary heroism is conclusive for all purposes.
 
 (b)
 
@@ -28,7 +28,11 @@ Use of most favorable formula.—If a person would otherwise be entitled to reti
 
 Rounding to next lower dollar.—The amount computed under subsection (a), if not a multiple of $1, shall be rounded to the next lower multiple of $1.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 556; Aug. 21, 1957, Pub. L. 85–155, title III, §301(22), 71 Stat. 389; May 20, 1958, Pub. L. 85–422, §§6(6), (8), 11(a)(9), 72 Stat. 129, 131; Sept. 2, 1958, Pub. L. 85–861, §1(199A), 72 Stat. 1541; Sept. 7, 1962, Pub. L. 87–651, title I, §127, 76 Stat. 514; Oct. 2, 1963, Pub. L. 88–132, §5(h)(2), 77 Stat. 214; Dec. 16, 1967, Pub. L. 90–207, §3(5), 81 Stat. 654; Sept. 8, 1980, Pub. L. 96–342, title VIII, §813(e), 94 Stat. 1109; Dec. 12, 1980, Pub. L. 96–513, title V, §§504(22), 514(8), 94 Stat. 2917, 2935; Sept. 24, 1983, Pub. L. 98–94, title IX, §§922(a)(12), 923(a)(1), (2)(H), 97 Stat. 642, 643; July 1, 1986, Pub. L. 99–348, title II, §204(a), 100 Stat. 697; Oct. 5, 1994, Pub. L. 103–337, div. A, title VI, §635(c)(2), 108 Stat. 2789.)
+(c)
+
+Special Rule for Retired Reserve Enlisted Members Covered by Section 8963.—In the case of a Reserve enlisted member retired under section 8914 of this title whose retired grade is determined under section 8963 of this title and who first became a member of a uniformed service before September 8, 1980, the retired pay base of the member (notwithstanding section 1406(a)(1) of this title) is the amount of the monthly basic pay of the member's retired grade (determined based upon the rates of basic pay applicable on the date of the member's retirement), and that amount shall be used for the purposes of subsection (a)(1)(A) rather than the amount computed under section 1406(e) of this title.
+
+(Aug. 10, 1956, ch. 1041, 70A Stat. 556; Aug. 21, 1957, Pub. L. 85–155, title III, §301(22), 71 Stat. 389; May 20, 1958, Pub. L. 85–422, §§6(6), (8), 11(a)(9), 72 Stat. 129, 131; Sept. 2, 1958, Pub. L. 85–861, §1(199A), 72 Stat. 1541; Sept. 7, 1962, Pub. L. 87–651, title I, §127, 76 Stat. 514; Oct. 2, 1963, Pub. L. 88–132, §5(h)(2), 77 Stat. 214; Dec. 16, 1967, Pub. L. 90–207, §3(5), 81 Stat. 654; Sept. 8, 1980, Pub. L. 96–342, title VIII, §813(e), 94 Stat. 1109; Dec. 12, 1980, Pub. L. 96–513, title V, §§504(22), 514(8), 94 Stat. 2917, 2935; Sept. 24, 1983, Pub. L. 98–94, title IX, §§922(a)(12), 923(a)(1), (2)(H), 97 Stat. 642, 643; July 1, 1986, Pub. L. 99–348, title II, §204(a), 100 Stat. 697; Oct. 5, 1994, Pub. L. 103–337, div. A, title VI, §635(c)(2), 108 Stat. 2789; Sept. 23, 1996, Pub. L. 104–201, div. A, title V, §532(d)(3), 110 Stat. 2520.)
 
 Historical and Revision Notes<br>1956
 
@@ -42,9 +46,33 @@ Act
 
 8991 Introductory paragraph
 
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 8991(A)
 
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 8991(B)
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 10:941a(a)(3) (proviso, less applicability to retired grade).
 
@@ -64,6 +92,12 @@ July 31, 1935, ch. 422, §5 (less 1st 101 words, and less 3d proviso); restated 
 
 8991(C)
 
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 8991(D)
 
 10:971.
@@ -82,9 +116,27 @@ Aug. 10, 1946, ch. 952, §6(c), 60 Stat. 996.
 
 8991 Footnote 2
 
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 8991 Footnote 3
 
 8991 Footnote 4
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 8991 Footnote 5
 
@@ -130,7 +182,7 @@ In formula B, the words “basic pay” are substituted for the words “base an
 
 In formula C, the computation is based on monthly pay instead of annual pay to conform to the other formulas of the revised section. The words “basic pay” are substituted for the words “active duty base and longevity pay”, and the words “in determining his basic pay” are substituted for the words “for longevity pay purposes”, to conform to the terminology of the Career Compensation Act of 1949, 63 Stat. 802 (37 U.S.C. 231 et seq.). The words “Monthly basic pay of member's retired grade” are substituted for the words “the rank upon which they are retired”, in 10:971, and “rank with which retired”, in 10:971b, to reflect their right to advancement on the retired list. 10:971 now applies only when the retiring officer has 30 or more years of service which may be credited in computing his retired pay. 10:971b (2d proviso) is omitted, since, under section 202 of the Career Compensation Act of 1949, 63 Stat. 807 (37 U.S.C. 233), the pay of all members is based upon cumulative years of service. 10:971b (4th proviso) is omitted as executed. 10:971b (last proviso) is omitted, since the distinction between limited and unlimited retired lists was abolished by section 201 of the Act of June 29, 1948, ch. 708, 62 Stat. 1084. Sections 8918, 8920, and 8924 are included under this formula, since it achieves the same result as is reached on a basis of 30 years multiplied by 21/2 percent, and simplifies the table.
 
-In formulas D and E the words “credited under section 8925” are substituted for the words “active Federal service”, since that revised section makes explicit the service covered. The Act of August 10, 1946, ch. 952, §6(c), 60 Stat. 996, is not contained in 10:948. It is also omitted from the revised section as executed. 10:980 now applies only when the retiring enlisted member has at least 30 years of service which may be credited in computing his retired pay. However, as noted above,10:980 is the only provision of law applicable to cases in which the retiring member has at least 30 years of service. The Act of June 16, 1942, ch. 413, §19 (63d through 75th words of 2d par.), 56 Stat. 369, repealed so much of the Act of March 2, 1907, ch. 2513, 34 Stat. 1217, as provided allowances for enlisted men on the retired list. The repeal of section 19 of the Act of June 16, 1942, by section 531(b)(34) of the Career Compensation Act of 1949, 63 Stat. 839, did not revive that portion of the Act of March 2, 1907, which had been repealed by the Act of June 16, 1942. Accordingly, the Act of March 2, 1907, as thus modified by the Act of June 16, 1942, is used as the basis for formula E.
+In formulas D and E the words “credited under section 8925” are substituted for the words “active Federal service”, since that revised section makes explicit the service covered. The Act of August 10, 1946, ch. 952, §6(c), 60 Stat. 996, is not contained in 10:948. It is also omitted from the revised section as executed. 10:980 now applies only when the retiring enlisted member has at least 30 years of service which may be credited in computing his retired pay. However, as noted above, 10:980 is the only provision of law applicable to cases in which the retiring member has at least 30 years of service. The Act of June 16, 1942, ch. 413, §19 (63d through 75th words of 2d par.), 56 Stat. 369, repealed so much of the Act of March 2, 1907, ch. 2513, 34 Stat. 1217, as provided allowances for enlisted men on the retired list. The repeal of section 19 of the Act of June 16, 1942, by section 531(b)(34) of the Career Compensation Act of 1949, 63 Stat. 839, did not revive that portion of the Act of March 2, 1907, which had been repealed by the Act of June 16, 1942. Accordingly, the Act of March 2, 1907, as thus modified by the Act of June 16, 1942, is used as the basis for formula E.
 
 Footnote 2 reflects the long-standing construction of those provisions dealing with computation of retired pay which do not specifically provide that the member is entitled to compute his retired pay on the basis of the monthly basic pay to which he would be entitled if he were on active duty in his retired grade. Except in cases covered by formula C, the pertinent basic computation provisions for such retirement either provide for computation of retired pay on the same basis as the provisions dealing with higher retired grade, or the basic retirement provisions were themselves enacted after the provisions authorizing higher retired grade. The provisos of 10:1002 and 1005 are omitted as surplusage, since no formula for the computation of retired pay includes inactive service on the retired list as a credit.
 
@@ -161,6 +213,8 @@ The amendment reflects section 1(197) of the bill \[amendment of section 8962 of
 The change corrects a cross-reference error.
 
 #### Amendments
+
+1996—Subsec. (c). Pub. L. 104–201 added subsec. (c).
 
 1994—Subsec. (a)(1). Pub. L. 103–337, §635(c)(2)(A), amended par. (1) generally. Prior to amendment, par. (1) contained table which provided two formulas for computing retired pay for cases covered under sections 8911, 8914, 8917, 8918, 8920, and 8924 of this title.
 

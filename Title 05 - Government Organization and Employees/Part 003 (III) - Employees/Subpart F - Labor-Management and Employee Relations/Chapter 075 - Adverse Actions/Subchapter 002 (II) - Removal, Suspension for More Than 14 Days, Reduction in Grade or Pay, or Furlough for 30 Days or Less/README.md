@@ -2,11 +2,11 @@
 
 #### Amendments
 
-<b>1978</b>—Pub. L. 95–454, title II, §204(a), Oct. 13, 1978, 92 Stat. 1135, substituted “REMOVAL, SUSPENSION FOR MORE THAN 14 DAYS, REDUCTION IN GRADE OR PAY, OR FURLOUGH FOR 30 DAYS OR LESS” for “PREFERENCE ELIGIBLES” in subchapter heading.
+1978—Pub. L. 95–454, title II, §204(a), Oct. 13, 1978, 92 Stat. 1135, substituted “REMOVAL, SUSPENSION FOR MORE THAN 14 DAYS, REDUCTION IN GRADE OR PAY, OR FURLOUGH FOR 30 DAYS OR LESS” for “PREFERENCE ELIGIBLES” in subchapter heading.
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in sections 3303, 4303, 7541, 7701 of this title; title 22 section 3701; title 39 section 1005.
+This subchapter is referred to in sections 4303, 7541, 7701 of this title; title 10 section 1599c; title 22 section 3701; title 39 section 1005.
 
 
 ---

@@ -36,7 +36,7 @@
 
 (h) For purposes of this section, the term “Federal service” includes Federal service as defined in section 8521(a).
 
-(Added Pub. L. 96–499, title X, §1023(b), Dec. 5, 1980, 94 Stat. 2657; amended Pub. L. 97–362, title II, §202(a), Oct. 25, 1982, 96 Stat. 1732; Pub. L.102–318, title V, §532(a), July 3, 1992, 106 Stat. 317.)
+(Added Pub. L. 96–499, title X, §1023(b), Dec. 5, 1980, 94 Stat. 2657; amended Pub. L. 97–362, title II, §202(a), Oct. 25, 1982, 96 Stat. 1732; Pub. L. 102–318, title V, §532(a), July 3, 1992, 106 Stat. 317.)
 
 #### References in Text
 
@@ -44,9 +44,9 @@ Sections 909 and 904 of the Social Security Act, referred to in subsec. (a), are
 
 #### Amendments
 
-<b>1992</b>—Subsec. (c)(3). Pub. L. 102–318 added par. (3).
+1992—Subsec. (c)(3). Pub. L. 102–318 added par. (3).
 
-<b>1982</b>—Subsecs. (b), (c)(1). Pub. L. 97–362, §202(a)(1), substituted “chapter” for “subchapter” wherever appearing.
+1982—Subsecs. (b), (c)(1). Pub. L. 97–362, §202(a)(1), substituted “chapter” for “subchapter” wherever appearing.
 
 Subsec. (h). Pub. L. 97–362, §202(a)(2), added subsec. (h).
 
@@ -60,7 +60,7 @@ Section 202(b)(1) of Pub. L. 97–362 provided that: “The amendments made by s
 
 #### Transfer of Appropriated Unemployment Compensation Funds
 
-Pub. L. 97–362, title II, §202(b)(2), Oct. 25, 1982, 96 Stat. 1733, provided that: “All funds appropriated which are available (on October 1, 1983) for the making of payments to States under chapter 85 of title 5, United States Code, on the basis of Federal service (as defined in section 8521(a) of such title 5) or for the making of payments under such chapter on the basis of such service in States which do not have in effect an agreement under such chapter, shall be transferred on such date to the Federal Employees Compensation Account established by section 909 of the Social Security Act \[42 U.S.C. 1109\]. On and after such date, all payments described in the preceding sentence shall be made from such account as provided by section 8509 of such title 5.”
+Pub. L. 97–362, title II, §202(b)(2), Oct. 25, 1982, 96 Stat. 1733, provided that: “All funds appropriated which are available (on October 1, 1983) for the making of payments to States under chapter 85 of title 5, United States Code, on the basis of Federal service (as defined in section 8521(a) of such title 5) or for the making ofpayments under such chapter on the basis of such service in States which do not have in effect an agreement under such chapter, shall be transferred on such date to the Federal Employees Compensation Account established by section 909 of the Social Security Act \[42 U.S.C. 1109\]. On and after such date, all payments described in the preceding sentence shall be made from such account as provided by section 8509 of such title 5.”
 
 Section 1023(c) of Pub. L. 96–499 provided that: “All funds appropriated which are available for the making of payments to States after December 31, 1980, pursuant to agreements entered into under subchapter I of chapter 85 of title 5, United States Code, or for the making of payments after such date of compensation under such subchapter in States which do not have in effect such an agreement, shall be transferred on January 1, 1981, to the Federal Employees Compensation Account established by section 909 of the Social Security Act \[42 U.S.C. 1109\]. On and after such date, all payments described in the preceding sentence shall be made from such Account as provided by section 8509 of title 5, United States Code.”
 

@@ -20,7 +20,7 @@ Research.—The Administrator shall conduct or supervise research—
 
 &emsp;(6) to develop advanced aircraft fuels with low flammability and technologies that will contain aircraft fuels to minimize post-crash fire hazards; and
 
-&emsp;(7) to develop technologies and methods to assess the risk of and prevent defects, failures, and malfunctions of products, parts, processes, and articles manufactured for use in aircraft, aircraft engines, propellers, and appliances that could result in a catastrophic failure of an aircraft.
+&emsp;(7) to develop technologies and methods to assess the risk of and prevent defects, failures,and malfunctions of products, parts, processes, and articles manufactured for use in aircraft, aircraft engines, propellers, and appliances that could result in a catastrophic failure of an aircraft.
 
 (c)
 
@@ -30,7 +30,9 @@ Authority To Buy Items Offering Special Advantages.—In carrying out this secti
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

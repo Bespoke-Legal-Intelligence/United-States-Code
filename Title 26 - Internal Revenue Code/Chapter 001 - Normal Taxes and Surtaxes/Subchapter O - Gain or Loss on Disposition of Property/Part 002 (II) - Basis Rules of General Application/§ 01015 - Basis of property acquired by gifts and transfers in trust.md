@@ -36,7 +36,7 @@ If the property was acquired by gift or transfer in trust on or before December 
 
 #### (5) Application to gifts before 1955
 
-&emsp;With respect to any property acquired by gift before 1955, references in this subsection to any provision of this title shall be deemedto refer to the corresponding provision of the Internal Revenue Code of 1939 or prior revenue laws which was effective for the year in which such gift was made.
+&emsp;With respect to any property acquired by gift before 1955, references in this subsection to any provision of this title shall be deemed to refer to the corresponding provision of the Internal Revenue Code of 1939 or prior revenue laws which was effective for the year in which such gift was made.
 
 #### (6) Special rule for gifts made after December 31, 1976
 

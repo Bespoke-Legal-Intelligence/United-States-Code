@@ -2,11 +2,11 @@
 
 #### (a) Assessment of penalty
 
-Any person who is found by the Secretary, after notice and an opportunity for a hearing in accordance with section 554 of title 5, to have committed an act prohibited by section 1857 of this title shall be liable to the United States for a civil penalty. The amount of the civil penalty shall not exceed $100,000 for each violation. Each day of a continuing violation shall constitute a separate offense. The amount of such civil penalty shall be assessed by the Secretary, or his designee, by written notice. In determining the amount of such penalty, the Secretary shall take into account the nature, circumstances, extent, and gravity of the prohibited acts committed and, with respect to the violator, the degree of culpability, any history of prior offenses, ability to pay, and such other matters as justice may require.
+Any person who is found by the Secretary, after notice and an opportunity for a hearing in accordance with section 554 of title 5, to have committed an act prohibited by section 1857 of this title shall be liable to the United States for a civil penalty. The amount of the civil penalty shall not exceed $100,000 for each violation. Each day of a continuing violation shall constitute a separate offense. The amount of such civil penalty shall be assessed by the Secretary, or his designee, by written notice. In determining the amount of such penalty, the Secretary shall take into account the nature, circumstances, extent, and gravity of the prohibited acts committed and, with respect to the violator, the degree of culpability, any history of prior offenses, and such other matters as justice may require. In assessing such penalty the Secretary may also consider any information provided by the violator relating to the ability of the violator to pay, <i>Provided</i>, That the information is served on the Secretary at least 30 days prior to an administrative hearing.
 
 #### (b) Review of civil penalty
 
-Any person against whom a civil penalty is assessed under subsection (a) of this section may obtain review thereof in the United States district court for the appropriate district by filing a complaint in such court within 30 days from the date of such order and by simultaneously serving a copy of such complaint by certified mail on the Secretary, the Attorney General and the appropriate United States Attorney. The Secretary shall promptly file in such court a certified copy of the record upon which such violation was found or such penalty imposed, as provided in section 2112 of title 28. The findings and order of the Secretary shall be set aside by such court if they are not found to be supported by substantial evidence, as provided in section 706(2) of title 5.
+Any person against whom a civil penalty is assessed under subsection (a) of this section or against whom a permit sanction is imposed under subsection (g) of this section (other than a permit suspension for nonpayment of penalty or fine) may obtain review thereof in the United States district court for the appropriate district by filing a complaint against the Secretary in such court within 30 days from the date of such order. The Secretary shall promptly file in such court a certified copy of the record upon which such violation was found or such penalty imposed, as provided in section 2112 of title 28. The findings and order of the Secretary shall be set aside by such court if they are not found to be supported by substantial evidence, as provided in section 706(2) of title 5.
 
 #### (c) Action upon failure to pay assessment
 
@@ -26,7 +26,7 @@ For the purposes of conducting any hearing under this section, the Secretary may
 
 #### (g) Permit sanctions
 
-(1) In any case in which (A) a vessel has been used in the commission of an act prohibitedunder section 1857 of this title, (B) the owner or operator of a vessel or any other person who has been issued or has applied for a permit under this chapter has acted in violation of section 1857 of this title, or (C) any civil penalty or criminal fine imposed on a vessel or owner or operator of a vessel or any other person who has been issued or has applied for a permit under any fishery resource law statute enforced by the Secretary has not been paid and is overdue, the Secretary may—
+(1) In any case in which (A) a vessel has been used in the commission of an act prohibited under section 1857 of this title, (B) the owner or operator of a vessel or any other person who has been issued or has applied for a permit under this chapter has acted in violation of section 1857 of this title, (C) any amount in settlement of a civil forfeiture imposed on a vessel or other property, or any civil penalty or criminal fine imposed on a vessel or owner or operator of a vessel or any other person who has been issued or has applied for a permit under any marine resource law enforced by the Secretary has not been paid and is overdue, or (D) any payment required for observer services provided to or contracted by an owner or operator who has been issued a permit or applied for a permit under any marine resource law administered by the Secretary has not been paid and is overdue, the Secretary may—
 
 &emsp;(i) revoke any permit issued with respect to such vessel or person, with or without prejudice to the issuance of subsequent permits;
 
@@ -48,9 +48,15 @@ For the purposes of conducting any hearing under this section, the Secretary may
 
 (5) No sanctions shall be imposed under this subsection unless there has been a prior opportunity for a hearing on the facts underlying the violation for which the sanction is imposed, either in conjunction with a civil penalty proceeding under this section or otherwise.
 
-(Pub. L. 94–265, title III, §308, Apr. 13, 1976, 90 Stat. 356; Pub. L. 97–453, §10, Jan. 12, 1983, 96 Stat. 2491; Pub. L. 99–659, title I, §108, Nov. 14, 1986, 100 Stat. 3713; Pub. L. 101–627, title I, §114(a), Nov. 28, 1990, 104 Stat. 4454.)
+(Pub. L. 94–265, title III, §308, Apr. 13, 1976, 90 Stat. 356; Pub. L. 97–453, §10, Jan. 12, 1983, 96 Stat. 2491; Pub. L. 99–659, title I, §108, Nov. 14, 1986, 100 Stat. 3713; Pub. L. 101–627, title I, §114(a), Nov. 28, 1990, 104 Stat. 4454; Pub. L. 104–297, title I, §114(a)–(c), Oct. 11, 1996, 110 Stat. 3598, 3599.)
 
 #### Amendments
+
+1996—Subsec. (a). Pub. L. 104–297, §114(a), struck out “ability to pay,” after “history of prior offenses,” and inserted at end “In assessing such penalty the Secretary may also consider any information provided by the violator relating to the ability of the violator to pay, Provided, That the information is served on the Secretary at least 30 days prior to an administrative hearing.”
+
+Subsec. (b). Pub. L. 104–297, §114(b), amended first sentence generally. Prior to amendment, first sentence read as follows: “Any person against whom a civil penalty is assessed under subsection (a) of this section may obtain review thereof in the United States district court for the appropriate district by filing a complaint in such court within 30 days from the date of such order and by simultaneously serving a copy of such complaint by certified mail on the Secretary, the Attorney General and the appropriate United States Attorney.”
+
+Subsec. (g)(1). Pub. L. 104–297, §114(c), substituted “(C) any amount in settlement of a civil forfeiture imposed on a vessel or other property, or any civil penalty or criminal fine imposed on a vessel or owner or operator of a vessel or any other person who has been issued or has applied for a permit under any marine resource law enforced by the Secretary has not been paid and is overdue, or (D) any payment required for observer services provided to or contracted by an owner or operator who has been issued a permit or applied for a permit under any marine resource law administered by the Secretary has not been paid and is overdue,” for “or (C) any civil penalty or criminal fine imposed on a vessel or owner or operator of a vessel or any other person who has been issued or has applied for a permit under any fishery resource law statute enforced by the Secretary has not been paid and is overdue,”.
 
 1990—Pub. L. 101–627, §114(a)(1), inserted “and permit sanctions” after “penalties” in section catchline.
 
@@ -66,9 +72,9 @@ Subsecs. (d) to (f). Pub. L. 99–659, §108(2), (3), added subsec. (d) and rede
 
 #### Effective Date
 
-For effective date of this subchapter, see section 312 of Pub. L. 94–265, set out as a note under section 1857 of this title.
+Section effective Mar. 1, 1977, see section 312 of Pub. L. 94–265, formerly set out as a note under section 1857 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 971e, 1827, 3606, 3637, 5103, 5106, 5606 of this title.
+This section is referred to in sections 971e, 1827, 1853, 3606, 3637, 5103, 5106, 5107a, 5606 of this title.
 

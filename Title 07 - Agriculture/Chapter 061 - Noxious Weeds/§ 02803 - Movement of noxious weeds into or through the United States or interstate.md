@@ -2,7 +2,7 @@
 
 #### (a) Regulations
 
-No person shall import or enter any noxious weed identified in a regulation promulgated by the Secretary into or through the United States or move any noxious weed interstate, unless the movement is in accordance with such conditions as the Secretary may prescribe by regulation under this chapter to prevent the disseminationinto the United States, or interstate, of such noxious weeds.
+No person shall import or enter any noxious weed identified in a regulation promulgated by the Secretary into or through the United States or move any noxious weed interstate, unless the movement is in accordance with such conditions as the Secretary may prescribe by regulation under this chapter to prevent the dissemination into the United States, or interstate, of such noxious weeds.
 
 #### (b) Permits
 

@@ -12,9 +12,15 @@ Long Term Contingent Capacity and Associated Firm Energy Reserved for Renewal Co
 
 Contractor
 
-Contingent capacity (kW)
+Contingent
 
-Firm energy (thousands of kWh)
+capacity (kW)
+
+Firm energy
+
+(thousands of
+
+kWh)
 
 Total
 
@@ -130,7 +136,9 @@ Contingent Capacity Resulting From the Uprating Program and Associated Firm Ener
 
 State
 
-Contingent capacity (kW)
+Contingent
+
+capacity (kW)
 
 Firm energy (thousands of kWh)
 
@@ -198,7 +206,7 @@ Arizona&nbsp;&nbsp;
 
 Second: Meeting Hoover Dam contractual obligations under schedule A of subsection (a)(1)(A) of this section and under schedule B of subsection (a)(1)(B) of this section not exceeding 26 million kilowatthours in each year of operation
 
-........................
+....................
 
 Third: Meeting the energy requirements of the three States, such available excess energy to be divided equally among the States
 
@@ -228,7 +236,7 @@ Nothing in the Criteria shall be construed to prejudice any rights conferred by 
 
 #### (d) Funding of uprating program
 
-The uprating program authorized under section 619(a) of this title shall be undertaken with funds advanced under contracts made with the Secretary of the Interior by non-Federal purchasers described in subsection (a)(1)(B) of this section. Funding provided by non-Federal purchasers shall be advanced to the Secretary of the Interior pursuant to the terms and conditions of such contracts.
+The uprating program authorized under section 619(a) of this title shall be undertaken withfunds advanced under contracts made with the Secretary of the Interior by non-Federal purchasers described in subsection (a)(1)(B) of this section. Funding provided by non-Federal purchasers shall be advanced to the Secretary of the Interior pursuant to the terms and conditions of such contracts.
 
 #### (e) Deposit of uprating program funds in Colorado River Dam Fund
 

@@ -48,7 +48,7 @@ Relevant report.—The report referred to in paragraph (1)(B) is the report of t
 
 “(b)
 
-Certain Elements of Study.—Activities of the Director in carrying out the study under subsection (a) shall include the use of a geographic system to evaluate the current and past exposure of individuals, including direct monitoring and cumulative estimates of exposure, to—
+Certain Elements of Study.—Activities of the Director in carrying out the study under subsection (a)shall include the use of a geographic system to evaluate the current and past exposure of individuals, including direct monitoring and cumulative estimates of exposure, to—
 
 &emsp;“(1) contaminated drinking water;
 

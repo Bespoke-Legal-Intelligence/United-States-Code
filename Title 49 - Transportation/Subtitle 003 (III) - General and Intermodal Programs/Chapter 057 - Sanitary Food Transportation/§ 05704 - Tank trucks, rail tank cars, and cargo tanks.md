@@ -28,7 +28,9 @@ Disclosure.—A person that arranges for the use of a tank truck or cargo tank u
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

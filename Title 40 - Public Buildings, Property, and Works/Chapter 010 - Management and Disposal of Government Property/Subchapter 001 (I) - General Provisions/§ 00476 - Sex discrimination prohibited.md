@@ -6,7 +6,7 @@ No individual shall on the ground of sex be excluded from participation in, be d
 
 #### References in Text
 
-This Act, referred to in text, is act June 30, 1949, ch. 288, 63 Stat. 377, as amended, known as the Federal Property and Administrative Services Act of 1949. For complete classification of this Act to the Code, see Short Title note set out under section 471 of this title and Tables.
+This Act, referred to in text, is act June 30, 1949, ch. 288, 63 Stat. 377, as amended, known as the FederalProperty and Administrative Services Act of 1949. For complete classification of this Act to the Code, see Short Title note set out under section 471 of this title and Tables.
 
 The Civil Rights Act of 1964, referred to in text, is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended. Title VI of the Civil Rights Act of 1964 is classified generally to subchapter V (§2000d et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
 

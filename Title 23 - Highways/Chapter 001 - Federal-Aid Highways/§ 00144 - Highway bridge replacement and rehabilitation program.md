@@ -4,7 +4,7 @@
 
 (b) The Secretary, in consultation with the States, shall (1) inventory all those highway bridges on any Federal-aid system which are bridges over waterways, other topographical barriers, other highways, and railroads; (2) classify them according to serviceability, safety, and essentiality for public use; (3) based on that classification, assign each a priority for replacement or rehabilitation; and (4) determine the cost of replacing each such bridge with a comparable facility or of rehabilitating such bridge.
 
-(c)(1) The Secretary, in consultation with the States, shall (1) inventory all those highway bridges on public roads, other than those on any Federal-aid system, which are bridges over waterways, other topographical barriers, other highways, and railroads, (2) classify them according to serviceability, safety, and essentiality for public use, (3) based on the classification, assign each a priority for replacement or rehabilitation and (4) determine the cost of replacing each such bridge with a comparable facility or of rehabilitating such bridge.
+(c)(1) The Secretary, in consultation with the States, shall (1) inventory all those highway bridges on public roads, other than those on any Federal-aid system, which are bridges over waterways, other topographical barriers, otherhighways, and railroads, (2) classify them according to serviceability, safety, and essentiality for public use, (3) based on the classification, assign each a priority for replacement or rehabilitation and (4) determine the cost of replacing each such bridge with a comparable facility or of rehabilitating such bridge.
 
 (2) The Secretary may, at the request of a State, inventory bridges, on and off the Federal-aid system, for historic significance.
 
@@ -36,7 +36,7 @@ Eligible discretionary projects.—Subject to section 149(d) of the Federal-Aid 
 
 &emsp;(3)
 
-Off-system bridges.—Not less than 15 percent nor more than 35 percent of the amount apportioned to each State in each of fiscal years 1987, 1988, 1989, 1990, 1991, 1992, 1993, 1994, 1995, 1996, and 1997, shall be expended for projects to replace, rehabilitate, paint or seismic retrofit, or apply calcium magnesium acetate to highway bridges located on public roads, other than those on a Federal-aid system. The Secretary, after consultation with State and local officials, may, with respect to such State, reduce the requirement for expenditure for bridges not on a Federal-aid system when the Secretary determines that such State has inadequate needs to justify such expenditure.
+Off-system bridges.—Not less than 15 percent nor more than 35 percent of the amount apportioned to each State in each offiscal years 1987, 1988, 1989, 1990, 1991, 1992, 1993, 1994, 1995, 1996, and 1997, shall be expended for projects to replace, rehabilitate, paint or seismic retrofit, or apply calcium magnesium acetate to highway bridges located on public roads, other than those on a Federal-aid system. The Secretary, after consultation with State and local officials, may, with respect to such State, reduce the requirement for expenditure for bridges not on a Federal-aid system when the Secretary determines that such State has inadequate needs to justify such expenditure.
 
 &emsp;(4)
 
@@ -88,7 +88,7 @@ Federal share.—The Federal share payable on any bridge construction carried ou
 
 Off-System Bridge Program.—Notwithstanding any other provision of law, with respect to any project not on a Federal-aid system for the replacement of a bridge or rehabilitation of a bridge which is wholly funded from State and local sources, is eligible for Federal funds under this section, is noncontroversial, is certified by the State to have been carried out in accordance with all standards applicable to such projects under this section, and is determined by the Secretary upon completion to be no longer a deficient bridge, any amount expended after the date of the enactment of this subsection from State and local sources for such project in excess of 20 percent of the cost of construction thereof may be credited to the non-Federal share of the cost of the projects in such State which are eligible for Federal funds under this section. Such crediting shall be in accordance with such procedures as the Secretary may establish.
 
-(<i>o)</i>
+(<i>o</i>)
 
 Historic Bridge Program.—
 
@@ -152,7 +152,7 @@ The date of the enactment of this subsection, referred to in subsec. (n), is the
 
 Subsec. (<i>l</i>). Pub. L. 104–59, §318, inserted at end “Any non-Federal funds expended for the seismic retrofit of the bridge may be credited toward the non-Federal share required as a condition of receipt of any Federal funds for seismic retrofit of the bridge made available after the date of the expenditure.”
 
-1994—Subsec. (d). Pub. L. 103–220, §1(1), inserted before period at end of third sentence “, except that a State may carry out a project for seismic retrofit of a bridge under this section without regard to whether the bridge is eligible for replacement or rehabilitation under this section”.
+1994—Subsec. (d). Pub. L. 103–220, §1(1), inserted before period at end of third sentence “, except that aState may carry out a project for seismic retrofit of a bridge under this section without regard to whether the bridge is eligible for replacement or rehabilitation under this section”.
 
 Subsec. (e). Pub. L. 103–220, §1(2), inserted at end “The use of funds authorized under this section to carry out a project for the seismic retrofit of a bridge shall not affect the apportionment of funds under this section.”
 
@@ -184,7 +184,7 @@ Pub. L. 100–17, §123(c), amended subsec. (i) generally. Prior to amendment, s
 
 Subsec. (m). Pub. L. 100–17, §123(d)(1), added subsec. (m). Former subsec. (m) redesignated (p).
 
-Subsec. (n). Pub. L. 100–17, §123(e), which directed that this section be amended by adding subsec. (n) aftersubsec. (<i>l</i>), was executed by adding subsec. (n) after subsec. (m), to reflect the probable intent of Congress.
+Subsec. (n). Pub. L. 100–17, §123(e), which directed that this section be amended by adding subsec. (n) after subsec. (<i>l</i>), was executed by adding subsec. (n) after subsec. (m), to reflect the probable intent of Congress.
 
 Subsec. (<i>o</i>). Pub. L. 100–17, §123(f)(2), which directed that this section be amended by adding subsec. (<i>o</i>) after subsec. (<i>l</i>), was executed by adding subsec. (<i>o</i>) after subsec. (n), to reflect the probable intent of Congress.
 
@@ -324,7 +324,7 @@ Transportation research board.—The Secretary shall make appropriate arrangemen
 
 “(B)
 
-Report.—Not later than 1 year after entering into appropriate arrangements under subparagraph (A), the Transportation Research Board shall submit to the Secretary and the Committee on Environment and Public Works of the Senate and the Committee on Public Works and Transportation of the House of Representatives a report on the results of the study conducted under subparagraph (A) and on the recommendations developed pursuant to subparagraph (A).”
+Report.—Not later than 1 year after entering into appropriate arrangements under subparagraph (A), the Transportation Research Board shall submit to the Secretary and the Committee on Environment andPublic Works of the Senate and the Committee on Public Works and Transportation of the House of Representatives a report on the results of the study conducted under subparagraph (A) and on the recommendations developed pursuant to subparagraph (A).”
 
 #### Study of Highway Bridges Which Cross Rail Lines; Report
 
@@ -332,7 +332,7 @@ Section 160 of Pub. L. 100–17 directed Secretary to conduct a comprehensive st
 
 #### Four-Lane Bridges
 
-Section 130 of Pub. L. 97–464 provided that: “Whenever any law of the United States, enacted after January 1, 1970, and before the date of enactment of this Act \[Jan. 6, 1983\], authorizes payment, in financing the relocation of an existing road, for the cost of construction of a two-lane bridge with a substructure and deck truss capable of supporting a four-lane bridge, payment for the cost of completing the construction of such bridge as a four-lane bridge is authorized upon the completion of such substructure and deck truss.”
+Section 130 of Pub. L. 97–424 provided that: “Whenever any law of the United States, enacted after January 1, 1970, and before the date of enactment of this Act \[Jan. 6, 1983\], authorizes payment, in financing the relocation of an existing road, for the cost of construction of a two-lane bridge with a substructure and deck truss capable of supporting a four-lane bridge, payment for the cost of completing the construction of such bridge as a four-lane bridge is authorized upon the completion of such substructure and deck truss.”
 
 #### Discretionary Bridge Criteria
 

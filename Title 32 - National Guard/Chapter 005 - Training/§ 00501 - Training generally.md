@@ -54,7 +54,7 @@ Maintenance of Effort.—The Chief of the National Guard Bureau shall ensure tha
 
 “(e)
 
-Coordination Among Programs.—In carrying out the pilot program under subsection (a), the Chief of the National Guard Bureau shall consult with the Secretary of Health and Human Services for the purpose of ensuring that the provision of services under the pilot program are not redundant with the services of programs of such Secretary.
+Coordination Among Programs.—In carrying out the pilot program under subsection (a), the Chief ofthe National Guard Bureau shall consult with the Secretary of Health and Human Services for the purpose of ensuring that the provision of services under the pilot program are not redundant with the services of programs of such Secretary.
 
 “(f)
 
@@ -81,6 +81,16 @@ Definitions.—In this section:
 &emsp;“(3) The term ‘State’ includes the District of Columbia, the Commonwealth of Puerto Rico, Guam, and the Virgin Islands.”
 
 #### National Guard Civilian Youth Opportunities Pilot Program
+
+Pub. L. 104–106, div. A, title V, §573, Feb. 10, 1996, 110 Stat. 355, provided that:
+
+“(a)
+
+Termination.—The authority under subsection (a) of section 1091 of the National Defense Authorization Act for Fiscal Year 1993 (Public Law 102–484; 32 U.S.C. 501 note) to carry out a pilot program under that section is hereby continued through the end of the 18-month period beginning on the date of the enactment of this Act \[Feb. 10, 1996\] and such authority shall terminate as of the end of that period.
+
+“(b)
+
+Limitation on Number of Programs.—During the period beginning on the date of the enactment of this Act and ending on the termination of the pilot program under subsection (a), the number of programs carried out under subsection (d) of that section as part of the pilot program may not exceed the number of such programs as of September 30, 1995.”
 
 Pub. L. 102–484, div. A, title X, §1091, Oct. 23, 1992, 106 Stat. 2519, as amended by Pub. L. 103–82, title I, §104(e)(1)(A), (C), Sept. 21, 1993, 107 Stat. 846; Pub. L. 103–160, div. A, title XI, §1174, Nov. 30, 1993, 107 Stat. 1767; Pub. L. 103–382, title III, §391(<i>o</i>), Oct. 20, 1994, 108 Stat. 4024, provided that:
 
@@ -136,7 +146,7 @@ Authorized Benefits for Participants.—(1) To the extent provided in an agreeme
 
 &emsp;“(I) Subject to paragraph (2), a temporary stipend upon the successful completion of the training, as characterized in accordance with procedures provided in the agreement.
 
-“(2) In the case of a person selected for training in a National Guard civilian youth opportunities program conducted under the pilot program who afterwards becomes a member of the Civilian Community Corps under subtitle E of title I of the National and Community Service Act of 1990 \[42 U.S.C. 12611 et seq.\] (as added by section 1092(a)), the person may not receive a temporary stipend under paragraph (1)(I) while the person is a member of that Corps. The person may receive the temporary stipend after completing service in theCorps unless the person elects to receive benefits provided under subsection (f) or (g) of section 158 of such Act \[42 U.S.C. 12618(f), (g)\].
+“(2) In the case of a person selected for training in a National Guard civilian youth opportunities program conducted under the pilot program who afterwards becomes a member of the Civilian Community Corps under subtitle E of title I of the National and Community Service Act of 1990 \[42 U.S.C. 12611 et seq.\] (as added by section 1092(a)), the person may not receive a temporary stipend under paragraph (1)(I) while the person is a member of that Corps. The person may receive the temporary stipend after completing service in the Corps unless the person elects to receive benefits provided under subsection (f) or (g) of section 158 of such Act \[42 U.S.C. 12618(f), (g)\].
 
 “(g)
 
@@ -148,7 +158,7 @@ Program Personnel.—(1) Personnel of the National Guard of a State in which a N
 
 &emsp;“(B) section 524 \[now 12011\] of title 10, United States Code, relating to the number of reserve component officers who may be on active duty or full-time National Guard duty in certain grades.
 
-“(3) A Governor participating in the pilot program and the commanding general of the District of Columbia National Guard (if the District of Columbia National Guard is participating in the pilot program) may procure by contract the temporary full time services of such civilian personnel as may be necessary to augment National Guard personnel in carrying out a National Guard civilian youth opportunities program under the pilot program.
+“(3) A Governor participating in the pilot program and the commanding general of the District of Columbia National Guard (if the District of Columbia National Guard is participating in the pilot program) mayprocure by contract the temporary full time services of such civilian personnel as may be necessary to augment National Guard personnel in carrying out a National Guard civilian youth opportunities program under the pilot program.
 
 “(4) Civilian employees of the National Guard performing services for such a program and contractor personnel performing such services may be required, when appropriate to achieve a program objective, to be members of the National Guard and to wear the military uniform.
 

@@ -60,5 +60,5 @@ If the Board finds that any labor organization has willfully and intentionally v
 
 #### Amendments
 
-1994—Subsec. (e). Pub. L. 103–236 amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “This subchapter does not authorize participation in the management of a labor organization or acting as a representative of a labor organization by a management official, a confidential employee, or any other employee if the participation or activity would result in a conflict or apparent conflict of interest or would otherwise be incompatible with law or with the official functions of such management official or such employee.”
+1994—Subsec. (e). Pub. L. 103–236 amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “This subchapter does not authorize participationin the management of a labor organization or acting as a representative of a labor organization by a management official, a confidential employee, or any other employee if the participation or activity would result in a conflict or apparent conflict of interest or would otherwise be incompatible with law or with the official functions of such management official or such employee.”
 

@@ -22,5 +22,5 @@ For effective date of section, see section 4 of Pub. L. 92–516, set out as a n
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 136, 136a of this title.
+This section is referred to in sections 136, 136a of this title; title 21 section 346a.
 

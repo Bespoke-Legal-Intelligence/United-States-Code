@@ -28,13 +28,33 @@ References in any law to credits extended under this section shall be deemed to 
 
 (2) Funds made available to carry out this section may not be used for prepayment of principal or interest pursuant to the authority of paragraph (1).
 
-(Pub. L. 90–629, ch. 2, §23, Oct. 22, 1968, 82 Stat. 1324; Pub. L. 93–559, §45(a)(2), Dec. 30, 1974, 88 Stat. 1813; Pub. L. 94–329, title II, §208(a), June 30, 1976, 90 Stat. 739; Pub. L. 96–533, title I, §105(b)(3), Dec. 16, 1980, 94 Stat. 3134; Pub. L. 99–83, title I, §102, Aug. 8, 1985, 99 Stat. 195; Pub. L. 100–202, §101(e) \[title V, §572\], Dec. 22, 1987, 101 Stat. 1329–131, 1329–176; Pub. L. 101–513, title V, §580, Nov. 5, 1990, 104 Stat. 2045.)
+#### (f) Audit of certain private firms
+
+For each fiscal year, the Secretary of Defense, as requested by the Director of the Defense Security Assistance Agency, shall conduct audits on a nonreimbursable basis of private firms that have entered into contracts with foreign governments under which defense articles, defense services, or design and construction services are to be procured by such firms for such governments from financing under this section.
+
+#### (g) Notification requirements with respect to cash flow financing
+
+(1) For each country and international organization that has been approved for cash flow financing under this section, any letter of offer and acceptance or other purchase agreement, or any amendment thereto, for a procurement of defense articles, defense services, or design and construction services in excess of $100,000,000 that is to be financed in whole or in part with funds made available under this chapter or the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\] shall be submitted to the congressional committees specified in section 634A(a) of the Foreign Assistance Act of 1961 \[22 U.S.C. 2394–1(a)\] in accordance with the procedures applicable to reprogramming notifications under that section.
+
+(2) For purposes of this subsection, the term “cash flow financing” has the meaning given such term in subsection (d) of section 2765 of this title.
+
+#### (h) Limitation on use of funds for direct commercial contracts
+
+Of the amounts made available for a fiscal year to carry out this section, not more than $100,000,000 for such fiscal year may be made available for countries other than Israel and Egypt for the purpose of financing the procurement of defense articles, defense services, and design and construction services that are not sold by the United States Government under this chapter.
+
+(Pub. L. 90–629, ch. 2, §23, Oct. 22, 1968, 82 Stat. 1324; Pub. L. 93–559, §45(a)(2), Dec. 30, 1974, 88 Stat. 1813; Pub. L. 94–329, title II, §208(a), June 30, 1976, 90 Stat. 739; Pub. L. 96–533, title I, §105(b)(3), Dec. 16, 1980, 94 Stat. 3134; Pub. L. 99–83, title I, §102, Aug. 8, 1985, 99 Stat. 195; Pub. L. 100–202, §101(e) \[title V, §572\], Dec. 22, 1987, 101 Stat. 1329–131, 1329–176; Pub. L. 101–513, title V, §580, Nov. 5, 1990, 104 Stat. 2045; Pub. L. 104–164, title I, §102(a)–(c), July 21, 1996, 110 Stat. 1422.)
+
+#### References in Text
+
+The Foreign Assistance Act of 1961, referred to in subsec. (g)(1), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, which is classified principally to chapter 32 (§2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 #### Amendments
 
+1996—Subsecs. (f) to (g). Pub. L. 104–164 added subsecs. (f) to (g).
+
 1990—Subsec. (e). Pub. L. 101–513 added subsec. (e).
 
-1987—Subsec. (a). Pub. L. 100–202 inserted sentence at end authorizing financing to Israel and Egypt for commercial leasing of defense articles, not including MajorDefense Equipment, with exception for certain aircraft, upon a Presidential determination that there are compelling foreign policy or national defense reasons for such leasing.
+1987—Subsec. (a). Pub. L. 100–202 inserted sentence at end authorizing financing to Israel and Egypt for commercial leasing of defense articles, not including Major Defense Equipment, with exception for certain aircraft, upon a Presidential determination that there are compelling foreign policy or national defense reasons for such leasing.
 
 1985—Pub. L. 99–83 amended section generally. Prior to amendment, section read as follows: “The President is authorized to finance procurements of defense articles, defense services, and design and construction services by friendly foreign countries and international organizations on terms requiring the payment to the United States Government in United States dollars of—
 
@@ -64,6 +84,10 @@ Functions of President under this section and section 580 of Pub. L. 100–461, 
 
 Provisions similar to those in last sentence of subsec. (a) of this section are contained in the following appropriation acts:
 
+Pub. L. 104–208, div. A, title I, §101(c) \[title V, §528\], Sept. 30, 1996, 110 Stat. 3009–121, 3009–149.
+
+Pub. L. 104–107, title V, §528, Feb. 12, 1996, 110 Stat. 730.
+
 Pub. L. 103–306, title V, §530, Aug. 23, 1994, 108 Stat. 1635.
 
 Pub. L. 103–87, title V, §530, Sept. 30, 1993, 107 Stat. 954.
@@ -78,5 +102,5 @@ Pub. L. 100–461, title V, §580, Oct. 1, 1988, 102 Stat. 2268–48.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2291c, 2311, 2360, 2761, 2764, 2771, 2774, 2775, 2776, 2777, 2791, 5854 of this title.
+This section is referred to in sections 2291c, 2311, 2321j, 2360, 2761, 2764, 2771, 2774, 2775, 2776, 2777, 2791, 5854 of this title.
 

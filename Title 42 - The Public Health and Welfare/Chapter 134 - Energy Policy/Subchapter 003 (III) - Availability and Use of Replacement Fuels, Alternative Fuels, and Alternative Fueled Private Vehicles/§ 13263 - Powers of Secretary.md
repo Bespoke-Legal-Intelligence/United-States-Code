@@ -12,5 +12,5 @@ Subchapter II of this chapter, referred to in text, was in the original “title
 
 #### Codification
 
-In text, “section 32910(a)(1) of title 49” substituted for “section 505(b)(1) of the Motor Vehicle Information and Cost Savings Act (15 U.S.C. 2005(b)(1))” on authority ofPub. L. 103–272, §6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
+In text, “section 32910(a)(1) of title 49” substituted for “section 505(b)(1) of the Motor Vehicle Information and Cost Savings Act (15 U.S.C. 2005(b)(1))” on authority of Pub. L. 103–272, §6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
 

@@ -66,7 +66,7 @@ Notwithstanding subsection (a) sale of property on which the United States has o
 
 &emsp;&emsp;A certificate of redemption executed by the Secretary shall constitute prima facie evidence of the regularity of such redemption and shall, when recorded, transfer to the United States all the rights, title, and interest in and to such property acquired by the person from whom the United States redeems such property by virtue of the sale of such property.
 
-(Added Pub. L. 89–719, title I, §109, Nov. 2, 1966, 80 Stat. 1141; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L.99–514, title XV, §1572(a), Oct. 22, 1986, 100 Stat. 2765.)
+(Added Pub. L. 89–719, title I, §109, Nov. 2, 1966, 80 Stat. 1141; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 99–514, title XV, §1572(a), Oct. 22, 1986, 100 Stat. 2765.)
 
 #### Prior Provisions
 
@@ -88,5 +88,5 @@ Section applicable after Nov. 2, 1966, regardless of when title or lien of Unite
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 7810 of this title; title 18 section 3613; title 28 section 2409a.
+This section is referred to in section 7810 of this title; title 28 section 2409a.
 

@@ -266,7 +266,7 @@ Proceedings to enforce penalty for violations of order, see section 56 of this t
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1, 16a, 18a, 37a, 45a, 52, 53, 56, 57a, 57b, 57b–1, 1456, 1681s, 2310, 2823, 4002, 4021, 4301, 4404, 5711, 5721, 6211 of this title; title 7 sections 193, 228b–2; title 12 sections 1831u, 1841; title 16sections 824k, 1385; title 17 section 109; title 21 sections 347b, 378; title 39 section 3009; title 42 section 6303; title 47 section 303c; title 49 section 32908; title 50 App. section 2158.
+This section is referred to in sections 1, 16a, 18a, 37a, 45a, 52, 53, 56, 57a, 57b, 57b–1, 1456, 1679h, 1681s, 2310, 2823, 4002, 4021, 4301, 4404, 5711, 5721, 6211 of this title; title 7 sections 193, 228b–2; title 12 sections 1831u, 1841; title 16sections 824k, 1385; title 17 section 109; title 21 sections 347b, 378; title 39 section 3009; title 42 section 6303; title 47 section 303c; title 49 section 32908; title 50 App. section 2158.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “clause”.</i>
 

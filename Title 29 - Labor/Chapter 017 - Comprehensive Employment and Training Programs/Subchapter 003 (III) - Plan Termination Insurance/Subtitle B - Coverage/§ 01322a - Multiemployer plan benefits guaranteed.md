@@ -44,7 +44,7 @@ The corporation shall guarantee, in accordance with this section, the payment of
 
 &emsp;(A) the monthly benefit of the participant or beneficiary which is described in subsection (a) of this section and which is eligible for the corporation's guarantee under subsection (b) of this section, except that such benefit shall be—
 
-&emsp;&emsp;(i) no greater than the monthly benefit which would be payable under the plan at normal retirement age in the form of a single life annuity, and
+&emsp;&emsp;(i) no greater than the monthly benefit which would be payable under the plan atnormal retirement age in the form of a single life annuity, and
 
 &emsp;&emsp;(ii) determined without regard to any reduction under section 411(a)(3)(E) of title 26; divided by
 
@@ -124,7 +124,7 @@ The corporation shall not guarantee benefits under a multiemployer plan which, u
 
 &emsp;(B) report such determinations to the Committee on Ways and Means and the Committee on Education and Labor of the House of Representatives and to the Committee on Finance and the Committee on Labor and Human Resources of the Senate.
 
-(2)(A) If the last report described in paragraph (1) indicates that a premium increase is necessary to support the existing basic-benefit guarantee levels for multiemployer plans, the corporation shall transmit to the Committee on Ways and Means and the Committee on Education and Labor of the House of Representatives and to the Committee on Finance and the Committee on Labor and Human Resources of the Senate by March 31 of any calendar year in which congressional action under this subsection is requested—
+(2)(A) If the last report described in paragraph (1) indicates that a premium increase is necessary to support the existing basic-benefit guarantee levels for multiemployer plans, thecorporation shall transmit to the Committee on Ways and Means and the Committee on Education and Labor of the House of Representatives and to the Committee on Finance and the Committee on Labor and Human Resources of the Senate by March 31 of any calendar year in which congressional action under this subsection is requested—
 
 &emsp;(i) a revised schedule of basic-benefit guarantees for multiemployer plans which would be necessary in the absence of an increase in premiums approved in accordance with section 1306(b) of this title,
 
@@ -136,7 +136,7 @@ The corporation shall not guarantee benefits under a multiemployer plan which, u
 
 (C) If an increase in premiums is not so enacted, the revised guarantee schedule described in subparagraph (A)(i) shall go into effect on the first day of the second calendar year following the year in which such revised guarantee schedule was submitted to the Congress.
 
-(3)(A) If the last report described in paragraph (1) indicates that basic-benefit guarantees for multiemployer plans can be increased without increasing the basic-benefit premiums for multiemployer plans under this subchapter, the corporation shall submit to the Committee onWays and Means and the Committee on Education and Labor of the House of Representatives and to the Committee on Finance and the Committee on Labor and Human Resources of the Senate by March 31 of the calendar year in which congressional action under this paragraph is requested—
+(3)(A) If the last report described in paragraph (1) indicates that basic-benefit guarantees for multiemployer plans can be increased without increasing the basic-benefit premiums for multiemployer plans under this subchapter, the corporation shall submit to the Committee on Ways and Means and the Committee on Education and Labor of the House of Representatives and to the Committee on Finance and the Committee on Labor and Human Resources of the Senate by March 31 of the calendar year in which congressional action under this paragraph is requested—
 
 &emsp;(i) a revised schedule of increases in the basic-benefit guarantees which can be supported by the existing schedule of basic-benefit premiums for multiemployer plans, and
 
@@ -160,7 +160,7 @@ The corporation shall not guarantee benefits under a multiemployer plan which, u
 
 &emsp;(i) that a plan must elect coverage under the supplemental program within the time permitted by the regulations;
 
-&emsp;(ii) unless the corporation determines otherwise, that a plan may not elect supplemental coverage unless the value of the assets of the plan as of the end of the plan year preceding the plan year in which the election must be made is an amount equal to 15 times the total amount of the benefit payments made under the plan for that year; and
+&emsp;(ii) unless the corporation determines otherwise, that a plan may not elect supplemental coverage unless the value of the assets of the plan as of the end of the plan year precedingthe plan year in which the election must be made is an amount equal to 15 times the total amount of the benefit payments made under the plan for that year; and
 
 &emsp;(iii) such other reasonable terms and conditions for supplemental coverage, including funding standards and any other reasonable limitations with respect to plans or benefits covered or to means of program financing, as the corporation determines are necessary and appropriate for a feasible supplemental program consistent with the purposes of this subchapter.
 
@@ -176,7 +176,7 @@ The corporation shall not guarantee benefits under a multiemployer plan which, u
 
 (C) For purposes of subparagraph (A), the term “legislative day” means any calendar day other than a day on which either House is not in session because of a sine die adjournment or an adjournment of more than 3 days to a day certain.
 
-(D) The procedure for disposition of a joint resolution described in subparagraph (B) shall bethe procedure described in paragraphs (4) through (7) of section 1306(b) of this title.
+(D) The procedure for disposition of a joint resolution described in subparagraph (B) shall be the procedure described in paragraphs (4) through (7) of section 1306(b) of this title.
 
 (5) Regulations prescribed by the corporation to carry out the provisions of this subsection, may, to the extent provided therein, supersede the requirements of sections 1426, 1431, and 1441 of this title, and the requirements of section 418E of title 26, but only with respect to benefits guaranteed under this subsection.
 
@@ -232,11 +232,11 @@ Subsec. (g)(4)(D). Pub. L. 99–272, §11005(c)(12), substituted “joint” for
 
 #### Change of Name
 
-Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Economic and Educational Opportunities of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Fifth Congress, Jan. 7, 1997.
 
 #### Effective Date of 1989 Amendment
 
-Amendment by section 7891(a)(1) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 7891(f) of Pub. L. 101–239, set out as a note under section 1002 of this title.
+Amendment by section 7891(a)(1) of Pub. L. 101–239 effective, except as otherwise provided, as if included inthe provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 7891(f) of Pub. L. 101–239, set out as a note under section 1002 of this title.
 
 Amendment by section 7893(b) of Pub. L. 101–239 effective as if included in the provision of the Single-Employer Pension Plan Amendments Act of 1986, Pub. L. 99–272, title XI, to which such amendment relates, see section 7893(h) of Pub. L. 101–239, set out as a note under section 1002 of this title.
 

@@ -10,7 +10,7 @@ Any person substituting a stamp, tag, label, or other identification pursuant to
 
 #### (c) Neglect or refusal to maintain or preserve records
 
-The neglect or refusal to maintain or preserve the records required by this section is unlawful, and any person neglecting or refusing to maintain such records shall be guilty of an unfair method of competition, and an unfair or deceptive act or practice, in commerce, under the Federal Trade Commission Act \[15 U.S.C. 41 et seq.\].
+The neglect or refusal to maintain or preserve the records required by this section is unlawful,and any person neglecting or refusing to maintain such records shall be guilty of an unfair method of competition, and an unfair or deceptive act or practice, in commerce, under the Federal Trade Commission Act \[15 U.S.C. 41 et seq.\].
 
 (Pub. L. 85–897, §6, Sept. 2, 1958, 72 Stat. 1721.)
 

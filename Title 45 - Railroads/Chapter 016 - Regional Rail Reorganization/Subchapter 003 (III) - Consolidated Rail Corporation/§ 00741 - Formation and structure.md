@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There shall be established within 300 days after January 2, 1974, in accordance with the provisions of this section, a corporation to beknown as the Consolidated Rail Corporation or such other corporate name as may be duly adopted by the Corporation.
+There shall be established within 300 days after January 2, 1974, in accordance with the provisions of this section, a corporation to be known as the Consolidated Rail Corporation or such other corporate name as may be duly adopted by the Corporation.
 
 #### (b) Status
 
@@ -42,7 +42,7 @@ For and during the period between the deposit of securities of the Corporation w
 
 #### (h) Annual report
 
-The Corporation shall transmit to the Congress and the President, not later than 90 daysafter the end of each fiscal year, a comprehensive and detailed report on all activities and accomplishments of the Corporation during the preceding fiscal year.
+The Corporation shall transmit to the Congress and the President, not later than 90 days after the end of each fiscal year, a comprehensive and detailed report on all activities and accomplishments of the Corporation during the preceding fiscal year.
 
 #### (i) Liability of directors
 
@@ -114,7 +114,7 @@ The provisions of this chapter shall not apply to the Corporation and to activit
 
 &emsp;(29) section 797m of this title, but only with regard to disputes or controversies specified in such section that arose before the sale date.
 
-(Pub. L. 93–236, title III, §301, Jan. 2, 1974, 87 Stat. 1004; Pub. L. 94–210, title VI, §§608, 611,612(j)(1), (3), (m), Feb. 5, 1976, 90 Stat. 99, 105, 109, 110; Pub. L. 94–216, §§1, 3, Feb. 17, 1976, 90 Stat. 191; Pub. L. 94–248, §4, Mar. 25, 1976, 90 Stat. 286; Pub. L. 97–35, title XI, §1141, Aug. 13, 1981, 95 Stat. 653; Pub. L. 99–509, title IV, §4032, Oct. 21, 1986, 100 Stat. 1906; Pub. L. 104–88, title III, §327(2), Dec. 29, 1995, 109 Stat. 951.)
+(Pub. L. 93–236, title III, §301, Jan. 2, 1974, 87 Stat. 1004; Pub. L. 94–210, title VI, §§608, 611, 612(j)(1), (3), (m), Feb. 5, 1976, 90 Stat. 99, 105, 109, 110; Pub. L. 94–216, §§1, 3, Feb. 17, 1976, 90 Stat. 191; Pub. L. 94–248, §4, Mar. 25, 1976, 90 Stat. 286; Pub. L. 97–35, title XI, §1141, Aug. 13, 1981, 95 Stat. 653; Pub. L. 99–509, title IV, §4032, Oct. 21, 1986, 100 Stat. 1906; Pub. L. 104–88, title III, §327(2), Dec. 29, 1995, 109 Stat. 951.)
 
 #### References in Text
 
@@ -174,6 +174,10 @@ Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 1
 
 Amendment by Pub. L. 97–35 effective Aug. 13, 1981, see section 1169 of Pub. L. 97–35, set out as an Effective Date note under section 1101 of this title.
 
+#### Abolition of Special Court, Regional Rail Reorganization Act of 1973, and Transfer of Functions
+
+Special court abolished and all jurisdiction and functions transferred to United States District Court for District of Columbia, see section 719(b)(2) of this title.
+
 #### Abolition of United States Railway Association and Transfer of Functions and Securities
 
 See section 1341 of this title.
@@ -184,5 +188,5 @@ Application of National Environmental Policy Act to actions of Commission not af
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 702, 726 of this title.
+This section is referred to in sections 702, 719, 726 of this title.
 

@@ -14,7 +14,7 @@ It shall be unlawful to import into the customs territory of the United States f
 
 &emsp;&emsp;(C) in any case in which the Attorney General finds that such controlled substance is in limited quantities exclusively for scientific, analytical, or research uses,
 
-> may be so imported under such regulations as the Attorney General shall prescribe. No crude opium may be so imported for the purpose of manufacturing heroin or smoking opium.
+> may be so imported under such regulations as the Attorney General shall prescribe. No crudeopium may be so imported for the purpose of manufacturing heroin or smoking opium.
 
 #### (b) Nonnarcotic controlled substances in schedule III, IV, or V
 
@@ -50,5 +50,5 @@ Amendment by Pub. L. 95–633 effective on date the Convention on Psychotropic S
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 954, 956, 958, 960 of this title; title 18 sections 5032, 5038; title 28 section 994.
+This section is referred to in sections 954, 956, 958, 960 of this title; title 18 section 5032; title 28 section 994.
 

@@ -9,16 +9,20 @@
 | [2775\.](%C2%A7%2002775%20-%20Liability%20of%20members%20assigned%20to%20military%20housing.md) | Liability of members assigned to military housing. |
 | [2776\.](%C2%A7%2002776%20-%20Use%20of%20receipts%20of%20public%20money%20for%20current%20expenditures.md) | Use of receipts of public money for current expenditures. |
 | [2777\.](%C2%A7%2002777%20-%20Requisitions%20for%20advances%20and%20removal%20of%20charges%20outstanding%20in%20accounts%20of%20advances.md) | Requisitions for advances and removal of charges outstanding in accounts of advances. |
-| [2778\.](%C2%A7%2002778%20-%20Accounts%20of%20the%20military%20departments.md) | Accounts of the military departments. |
+| \[2778. | Repealed.\] |
 | [2779\.](%C2%A7%2002779%20-%20Use%20of%20funds%20because%20of%20fluctuations%20in%20currency%20exchange%20rates%20of%20foreign%20countries.md) | Use of funds because of fluctuations in currency exchange rates of foreign countries. |
 | [2780\.](%C2%A7%2002780%20-%20Debt%20collection.md) | Debt collection. |
 | [2781\.](%C2%A7%2002781%20-%20Availability%20of%20appropriations%20exchange%20fees%3B%20losses%20in%20accounts.md) | Availability of appropriations: exchange fees; losses in accounts. |
-| \[2782. | Repealed.\] |
+| [2782\.](%C2%A7%2002782%20-%20Damage%20to%20real%20property%20disposition%20of%20amounts%20recovered.md) | Damage to real property: disposition of amounts recovered. |
 | [2783\.](%C2%A7%2002783%20-%20Nonappropriated%20fund%20instrumentalities%20financial%20management%20and%20use%20of%20nonappropriated%20funds.md) | Nonappropriated fund instrumentalities: financial management and use of nonappropriated funds. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1996—Pub. L. 104–316, title I, §105(d), Oct. 19, 1996, 110 Stat. 3830, struck out item 2778 “Accounts of the military departments”.
+
+Pub. L. 104–106, div. B, title XXVIII, §2821(b), Feb. 10, 1996, 110 Stat. 556, added item 2782.
 
 1993—Pub. L. 103–160, div. A, title XI, §1182(a)(8)(C), Nov. 30, 1993, 107 Stat. 1771, added item 2783.
 
@@ -68,9 +72,9 @@ Particular provisions relating to—
 - [&sect; 02775 - Liability of members assigned to military housing](%C2%A7%2002775%20-%20Liability%20of%20members%20assigned%20to%20military%20housing.md)
 - [&sect; 02776 - Use of receipts of public money for current expenditures](%C2%A7%2002776%20-%20Use%20of%20receipts%20of%20public%20money%20for%20current%20expenditures.md)
 - [&sect; 02777 - Requisitions for advances and removal of charges outstanding in accounts of advances](%C2%A7%2002777%20-%20Requisitions%20for%20advances%20and%20removal%20of%20charges%20outstanding%20in%20accounts%20of%20advances.md)
-- [&sect; 02778 - Accounts of the military departments](%C2%A7%2002778%20-%20Accounts%20of%20the%20military%20departments.md)
+- [&sect; 02778 - Repealed. Pub. L. 104&#8211;316, title I, &sect;105(d), Oct. 19, 1996, 110 Stat. 3830](%C2%A7%2002778%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93316%2C%20title%20I%2C%20%C2%A7105%28d%29%2C%20Oct.%2019%2C%201996%2C%20110%20Stat.%203830.md)
 - [&sect; 02779 - Use of funds because of fluctuations in currency exchange rates of foreign countries](%C2%A7%2002779%20-%20Use%20of%20funds%20because%20of%20fluctuations%20in%20currency%20exchange%20rates%20of%20foreign%20countries.md)
 - [&sect; 02780 - Debt collection](%C2%A7%2002780%20-%20Debt%20collection.md)
 - [&sect; 02781 - Availability of appropriations exchange fees; losses in accounts](%C2%A7%2002781%20-%20Availability%20of%20appropriations%20exchange%20fees%3B%20losses%20in%20accounts.md)
-- [&sect; 02782 - Repealed. Pub. L. 101&#8211;510, div. A, title XIV, &sect;1405(c)(1), Nov. 5, 1990, 104 Stat. 1680](%C2%A7%2002782%20-%20Repealed.%20Pub.%20L.%20101%E2%80%93510%2C%20div.%20A%2C%20title%20XIV%2C%20%C2%A71405%28c%29%281%29%2C%20Nov.%205%2C%201990%2C%20104%20Stat.%201680.md)
+- [&sect; 02782 - Damage to real property disposition of amounts recovered](%C2%A7%2002782%20-%20Damage%20to%20real%20property%20disposition%20of%20amounts%20recovered.md)
 - [&sect; 02783 - Nonappropriated fund instrumentalities financial management and use of nonappropriated funds](%C2%A7%2002783%20-%20Nonappropriated%20fund%20instrumentalities%20financial%20management%20and%20use%20of%20nonappropriated%20funds.md)

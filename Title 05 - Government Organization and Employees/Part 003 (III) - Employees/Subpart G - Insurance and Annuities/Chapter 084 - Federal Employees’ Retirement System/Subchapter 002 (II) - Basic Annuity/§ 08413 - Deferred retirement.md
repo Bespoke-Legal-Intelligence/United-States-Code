@@ -16,7 +16,7 @@
 
 #### Amendments
 
-<b>1986</b>—Subsec. (b)(1). Pub. L. 99–556 inserted “but before attaining the applicable minimum retirement age under section 8412(h)” in first sentence and substituted “such minimum retirement age” for “the applicable minimum retirement age under section 8412(h)” in second sentence.
+1986—Subsec. (b)(1). Pub. L. 99–556 inserted “but before attaining the applicable minimum retirement age under section 8412(h)” in first sentence and substituted “such minimum retirement age” for “the applicable minimum retirement age under section 8412(h)” in second sentence.
 
 #### Section Referred to in Other Sections
 

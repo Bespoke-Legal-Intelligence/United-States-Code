@@ -22,7 +22,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 42 U.S.C. 1367.
 
@@ -40,7 +42,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-<b>1976</b>—Subsec. (a). Pub. L. 94–566 struck out provision that findings made in accordance with the Secretary's regulations were final and conclusive for the purpose of sections 8502(d) and 8503(c) of this title.
+1976—Subsec. (a). Pub. L. 94–566 struck out provision that findings made in accordance with the Secretary's regulations were final and conclusive for the purpose of sections 8502(d) and 8503(c) of this title.
 
 #### Effective Date of 1976 Amendment
 

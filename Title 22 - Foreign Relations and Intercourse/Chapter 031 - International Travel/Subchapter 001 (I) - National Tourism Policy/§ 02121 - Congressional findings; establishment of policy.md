@@ -48,7 +48,7 @@
 
 &emsp;(16) harmonize, to the maximum extent possible, all Federal activities in support of tourism and recreation with the needs of the general public and the States, territories, local governments, and the tourism and recreation industry, and to give leadership to all concerned with tourism, recreation, and national heritage preservation in the United States.
 
-(Pub. L. 87–63, title I, §101, formerly §1, June 29, 1961, 75 Stat. 129; renumbered and amended Pub.L. 97–63, §2(a), Oct. 16, 1981, 95 Stat. 1011; Pub. L. 102–372, §5, Sept. 30, 1992, 106 Stat. 1175.)
+(Pub. L. 87–63, title I, §101, formerly §1, June 29, 1961, 75 Stat. 129; renumbered and amended Pub. L. 97–63, §2(a), Oct. 16, 1981, 95 Stat. 1011; Pub. L. 102–372, §5, Sept. 30, 1992, 106 Stat. 1175.)
 
 #### Amendments
 
@@ -100,7 +100,7 @@ Section 2 of Pub. L. 102–372 provided that: “The Congress finds that—
 
 &emsp;“(10) advanced technologies, industrial targeting, the industrialization of the Third World, and the flight of some United States manufacturing capacity to overseas locations have affected the international competitiveness of the United States;
 
-&emsp;“(11) exporting those goods and services which United States industry can produce at a comparative cost advantage, such as travel and tourism services, will be in the Nation's long-term strategic interest; and
+&emsp;“(11) exporting those goods and services which United States industry can produce at a comparativecost advantage, such as travel and tourism services, will be in the Nation's long-term strategic interest; and
 
 &emsp;“(12) the emergence of democratic governments in the formerly Communist nations of Eastern Europe and in the former Soviet Union provide new opportunities for United States firms engaged in both the inbound and outbound tourism markets.”
 

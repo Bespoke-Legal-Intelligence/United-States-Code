@@ -32,13 +32,17 @@ A crime victim compensation program is an eligible crime victim compensation pro
 
 &emsp;&emsp;(A) the crimes would be compensable crimes had they occurred inside that State; and
 
-&emsp;&emsp;(B) the places the crimes occurred in are States not having eligible crime victim compensation programs;
+&emsp;&emsp;(B) the places the crimes occurred in are outside of the United States (if the compensable crime is terrorism, as defined in section 2331 of title 18), or are States not having eligible crime victim compensation programs;
 
-&emsp;(7) such program does not, except pursuant to rules issued by the program to prevent unjust enrichment of the offender, deny compensation to any victim because of that victim's familial relationship to the offender, or because of the sharing of a residence by the victim and the offender; and
+&emsp;(7) such program does not, except pursuant to rules issued by the program to prevent unjust enrichment of the offender, deny compensation to any victim because of that victim's familial relationship to the offender, or because of the sharing of a residence by the victim and the offender;
 
-&emsp;(8) such program provides such other information and assurances related to the purposes of this section as the Director may reasonably require.
+&emsp;(8) such program does not provide compensation to any person who has been convicted of an offense under Federal law with respect to any time period during which the person is delinquent in paying a fine, other monetary penalty, or restitution imposed for the offense; and
 
-#### (c) Repealed. Pub. L. 100–690, title VII, §7125(e), Nov. 18, 1988, 102 Stat. 4422
+&emsp;(9) such program provides such other information and assurances related to the purposes of this section as the Director may reasonably require.
+
+#### (c) Exclusion from income for purposes of means tests
+
+Notwithstanding any other law, for the purpose of any maximum allowed income eligibility requirement in any Federal, State, or local government program using Federal funds that provides medical or other assistance (or payment or reimbursement of the cost of such assistance) that becomes necessary to an applicant for such assistance in full or in part because of the commission of a crime against the applicant, as determined by the Director, any amount of crime victim compensation that the applicant receives through a crime victim compensation program under this section shall not be included in the income of the applicant until the total amount of assistance that the applicant receives from all such programs is sufficient to fully compensate the applicant for losses suffered as a result of the crime.
 
 #### (d) Definitions
 
@@ -48,9 +52,9 @@ As used in this section—
 
 &emsp;(2) the term “medical expenses” includes, to the extent provided under the eligible crime victim compensation program, expenses for eyeglasses or other corrective lenses, for dental services and devices and prosthetic devices, and for services rendered in accordance with a method of healing recognized by the law of the State;
 
-&emsp;(3) the term “compensable crime” means a crime the victims of which are eligible for compensation under the eligible crime victim compensation program, and includes driving while intoxicated and domestic violence; and
+&emsp;(3) the term “compensable crime” means a crime the victims of which are eligible for compensation under the eligible crime victim compensation program, and includes crimes, whose victims suffer death or personal injury, that are described in section 247 of title 18,crimes involving terrorism, driving while intoxicated, and domestic violence; and
 
-&emsp;(4) the term “State” includes the District of Columbia, the Commonwealth of Puerto Rico,and any other possession or territory of the United States.
+&emsp;(4) the term “State” includes the District of Columbia, the Commonwealth of Puerto Rico, and any other possession or territory of the United States.
 
 #### (e) Relationship to certain Federal programs
 
@@ -60,9 +64,19 @@ Notwithstanding any other law, if the compensation paid by an eligible crime vic
 
 &emsp;(2) the other program shall make its payments without regard to the existence of the crime victim compensation program.
 
-(Pub. L. 98–473, title II, §1403, Oct. 12, 1984, 98 Stat. 2171; Pub. L. 100–690, title VII, §§7123(b)(1)–(3), 7125, 7126, Nov. 18, 1988, 102 Stat. 4421–4423; Pub. L. 103–322, title XXIII, §§230202, 230203, title XXXIII, §330025(b), Sept. 13, 1994, 108 Stat. 2079, 2151.)
+(Pub. L. 98–473, title II, §1403, Oct. 12, 1984, 98 Stat. 2171; Pub. L. 100–690, title VII, §§7123(b)(1)–(3), 7125, 7126, Nov. 18, 1988, 102 Stat. 4421–4423; Pub. L. 103–322, title XXIII, §§230202, 230203, title XXXIII, §330025(b), Sept. 13, 1994, 108 Stat. 2079, 2151; Pub. L. 104–132, title II, §§233(a), (b), 234(a)(1), (b), Apr. 24, 1996, 110 Stat. 1244, 1245; Pub. L. 104–155, §5, July 3, 1996, 110 Stat. 1394.)
 
 #### Amendments
+
+1996—Subsec. (b)(6)(B). Pub. L. 104–132, §233(b), inserted “are outside of the United States (if the compensable crime is terrorism, as defined in section 2331 of title 18), or” before “are States not having”.
+
+Subsec. (b)(8), (9). Pub. L. 104–132, §234(a)(1), added par. (8) and redesignated former par. (8) as (9).
+
+Subsec. (c). Pub. L. 104–132, §234(b), added subsec. (c).
+
+Subsec. (d)(3). Pub. L. 104–155 inserted “crimes, whose victims suffer death or personal injury, that are described in section 247 of title 18,” after “includes”.
+
+Pub. L. 104–132, §233(a), substituted “crimes involving terrorism, driving while intoxicated,” for “driving while intoxicated”.
 
 1994—Subsec. (a)(1). Pub. L. 103–322, §230203(a), substituted “Except as provided in paragraph (3), a grant” for “A grant” in last sentence.
 
@@ -96,9 +110,17 @@ Subsec. (d)(2). Pub. L. 100–690, §7126(b), inserted reference to eyeglasses o
 
 Subsec. (d)(3). Pub. L. 100–690, §7125(c)(2), inserted reference to driving while intoxicated and domestic violence.
 
+#### Effective Date of 1996 Amendment
+
+Section 233(d) of Pub. L. 104–132 provided that: “This section \[amending this section\] and the amendments made by this section shall take effect 1 year after the date of enactment of this Act \[Apr. 24, 1996\].”
+
 #### Effective Date of 1988 Amendment
 
 Amendment by Pub. L. 100–690 not applicable with respect to a State compensation program that was an eligible State crime victim compensation program on Nov. 18, 1988, until Oct. 1, 1991, see section 7129 of Pub. L. 100–690, as amended, set out as a note under section 10601 of this title.
+
+#### Application of Amendment by Section 234(a)(1) of Pub. L. 104–132
+
+Section 234(a)(2) of Pub. L. 104–132 provided that: “Section 1403(b)(8) of the Victims of Crime Act of 1984 \[42 U.S.C. 10602(b)(8)\], as added by paragraph (1) of this section, shall not be applied to deny victims compensation to any person until the date on which the Attorney General, in consultation with the Director of the Administrative Office of the United States Courts, issues a written determination that a cost-effective, readily available criminal debt payment tracking system operated by the agency responsible for the collection of criminal debt has established cost-effective, readily available communications links with entities that administer Federal victim compensation programs that are sufficient to ensure that victim compensation is not denied to any person except as authorized by law.”
 
 #### Section Referred to in Other Sections
 

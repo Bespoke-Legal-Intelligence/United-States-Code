@@ -8,7 +8,7 @@ The Secretary concerned shall ensure the development, implementation, and enforc
 
 #### (1) Forest Service sales
 
-&emsp;Notwithstanding section 472a of this title, the Secretary of Agriculture may negotiate sales of Pacific yew on lands under the jurisdiction of the Forest Service at not less thanappraised value, to parties manufacturing taxol in the United States in accordance with section 355 of title 21 for use in humans.
+&emsp;Notwithstanding section 472a of this title, the Secretary of Agriculture may negotiate sales of Pacific yew on lands under the jurisdiction of the Forest Service at not less than appraised value, to parties manufacturing taxol in the United States in accordance with section 355 of title 21 for use in humans.
 
 #### (2) Bureau of Land Management sales
 

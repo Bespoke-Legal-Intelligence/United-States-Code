@@ -1,6 +1,6 @@
 ### §13. Permanent building at headquarters in Washington, D.C.
 
-The permanent building erected upon square 172 in the city of Washington, District of Columbia, for the use of the American National Red Cross in connection with its work in co- operation with the Government of the United States shall remain the property of the United States but under the supervision of the Administrator of General Services and the American National Red Cross shall at all times be charged with the responsibility, the care, keeping, and maintenance of said building without expense to the United States.
+The permanent building erected upon square 172 in the city of Washington, District of Columbia, for the use of the American National Red Cross in connection with its work in cooperation with the Government of the United States shall remain the property of the United States but under the supervision of the Administrator of General Services and the American National Red Cross shall at all times be charged with the responsibility, the care, keeping, and maintenance of said building without expense to the United States.
 
 (Feb. 7, 1930, ch. 42, §§1, 5, 46 Stat. 66; Ex. Ord. No. 6166, §2, June 10, 1933; Mar. 2, 1934, ch. 38, §1, 48 Stat. 389; 1939 Reorg. Plan No. I, §§301, 303, eff. July 1, 1939, 4 F.R. 2729, 53 Stat. 1426, 1427; June 30, 1949, ch. 288, title I, §103(a), 63 Stat. 380.)
 

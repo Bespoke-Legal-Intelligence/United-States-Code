@@ -10,7 +10,7 @@ Each plan for child welfare services under this subpart shall—
 
 &emsp;(1) provide that (A) the individual or agency that administers or supervises the administration of the State's services program under subchapter XX of this chapter will administer or supervise the administration of the plan (except as otherwise provided in section 103(d) of the Adoption Assistance and Child Welfare Act of 1980), and (B) to the extent that child welfare services are furnished by the staff of the State agency or local agency administering the plan, a single organizational unit in such State or local agency, as the case may be, will be responsible for furnishing such child welfare services;
 
-&emsp;(2) provide for coordination between the services provided for children under the plan and the services and assistance provided under subchapter XX of this chapter, under the State plan approved under part A of this subchapter, under the State plan approved under subpart 2 of this part, under the State plan approved under part E of this subchapter, and under other State programs having a relationship to the program under this subpart, with a view to provision of welfare and related services which will best promote the welfare of such children and their families;
+&emsp;(2) provide for coordination between the services provided for children under the plan and the services and assistance provided under subchapter XX of this chapter, under the State program funded under part A of this subchapter, under the State plan approved under subpart 2 of this part, under the State plan approved under under <sup>1</sup> the State plan approved under part E of this subchapter, and under other State programs having a relationship to the program under this subpart, with a view to provision of welfare and related services which will best promote the welfare of such children and their families;
 
 &emsp;(3) provide that the standards and requirements imposed with respect to child day care under subchapter XX of this chapter shall apply with respect to day care services under this subpart, except insofar as eligibility for such services is involved;
 
@@ -32,9 +32,9 @@ Each plan for child welfare services under this subpart shall—
 
 &emsp;(8) provide that the agency administering or supervising the administration of the plan will furnish such reports, containing such information, and participate in such evaluations, as the Secretary may require;
 
-&emsp;(9) <sup>1</sup> provide for the diligent recruitment of potential foster and adoptive families that reflect the ethnic and racial diversity of children in the State for whom foster and adoptive homes are needed.<sup>2</sup>
+&emsp;(9) <sup>2</sup> provide for the diligent recruitment of potential foster and adoptive families that reflect the ethnic and racial diversity of children in the State for whom foster and adoptive homes are needed.<sup>3</sup>
 
-&emsp;(9) <sup>1</sup> provide assurances that the State—
+&emsp;(9) <sup>2</sup> provide assurances that the State—
 
 &emsp;&emsp;(A) since June 17, 1980, has completed an inventory of all children who, before the inventory, had been in foster care under the responsibility of the State for 6 months or more, which determined—
 
@@ -48,7 +48,7 @@ Each plan for child welfare services under this subpart shall—
 
 &emsp;&emsp;&emsp;(i) a statewide information system from which can be readily determined the status, demographic characteristics, location, and goals for the placement of every child who is (or, within the immediately preceding 12 months, has been) in foster care;
 
-&emsp;&emsp;&emsp;(ii) a case review system (as defined in section 675(5) of this title) for each child receiving foster care under the supervision of the State;
+&emsp;&emsp;&emsp;(ii) a case review system (as defined in section 675(5) of this title) for each childreceiving foster care under the supervision of the State;
 
 &emsp;&emsp;&emsp;(iii) a service program designed to help children—
 
@@ -64,7 +64,7 @@ Each plan for child welfare services under this subpart shall—
 
 &emsp;(10) contain a description, developed after consultation with tribal organizations (as defined in section 450b of title 25) in the State, of the specific measures taken by the State to comply with the Indian Child Welfare Act \[25 U.S.C. 1901 et seq.\].
 
-(Aug. 14, 1935, ch. 531, title IV, §422, as added and amended Jan. 2, 1968, Pub. L. 90–248, title II, §240(c), (d), 81 Stat. 912, 915; Jan. 4, 1975, Pub. L. 93–647, §3(a)(6), (7), (h), 88 Stat. 2348, 2349; June 17, 1980, Pub. L. 96–272, title I, §103(a), 94 Stat. 517; Dec. 19, 1989, Pub. L. 101–239, title X, §10403(b)(1), 103 Stat. 2488; Aug. 10, 1993, Pub. L. 103–66, title XIII, §13711(b)(1), 107 Stat. 655; Oct. 20, 1994, Pub. L. 103–382, title V, §554, 108 Stat. 4057; Oct. 31, 1994, Pub. L. 103–432, title II, §§202(a), 204(a), 108 Stat. 4453, 4456.)
+(Aug. 14, 1935, ch. 531, title IV, §422, as added and amended Jan. 2, 1968, Pub. L. 90–248, title II, §240(c), (d), 81 Stat. 912, 915; Jan. 4, 1975, Pub. L. 93–647, §3(a)(6), (7), (h), 88 Stat. 2348, 2349; June 17, 1980, Pub. L. 96–272, title I, §103(a), 94 Stat. 517; Dec. 19, 1989, Pub. L. 101–239, title X, §10403(b)(1), 103 Stat. 2488; Aug. 10, 1993, Pub. L. 103–66, title XIII, §13711(b)(1), 107 Stat. 655; Oct. 20, 1994, Pub. L. 103–382, title V, §554, 108 Stat. 4057; Oct. 31, 1994, Pub. L. 103–432, title II, §§202(a), 204(a), 108 Stat. 4453, 4456; Aug. 22, 1996, Pub. L. 104–193, title I, §108(b), 110 Stat. 2165.)
 
 #### References in Text
 
@@ -75,6 +75,8 @@ Parts A and E of this subchapter, referred to in subsec. (b)(2), are classified 
 The Indian Child Welfare Act, referred to in subsec. (b)(10), probably means the Indian Child Welfare Act of 1978, Pub. L. 95–608, Nov. 8, 1978, 92 Stat. 3069, as amended, which is classified principally to chapter 21 (§1901 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 1901 of Title 25 and Tables.
 
 #### Amendments
+
+1996—Subsec. (b)(2). Pub. L. 104–193 substituted “program funded under part A of this subchapter” for “plan approved under part A of this subchapter” and “under the State plan approved under part E of this subchapter” for “part E of this subchapter”.
 
 1994—Subsec. (b)(7). Pub. L. 103–432, §202(a)(1), which directed amendment of par. (7) by striking out “and” at end, could not be executed because “and” did not appear at end subsequent to amendment by Pub. L. 103–382, §554(1). See below.
 
@@ -114,6 +116,10 @@ Subsec. (c). Pub. L. 93–647, §3(h), added subsec. (c).
 
 1968—Subsec. (a)(1). Pub. L. 90–248, §240(d), added subpar. (A) and redesignated former subpars. (A) and (B) as (B) and (C), respectively.
 
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–193 effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as an Effective Date note under section 601 of this title.
+
 #### Effective Date of 1994 Amendment
 
 Section 202(e) of Pub. L. 103–432 provided that: “The amendments and repeal made by this section \[amending this section and sections 623 to 625 and 672 of this title and repealing section 627 of this title\] shall be effective with respect to fiscal years beginning on or after April 1, 1996.”
@@ -136,6 +142,34 @@ Amendment by section 3 of Pub. L. 93–647 effective with respect to payments un
 
 Section 240(e)(3) of Pub. L. 90–248 provided that: “The amendments made by paragraphs (1) and (2) of subsection (d) \[amending this section\] shall become effective July 1, 1969, except that (A) if on the date of enactment of this Act \[Jan. 2, 1968\] the agency of a State administering its plan for child-welfare services developed under part B of title IV of the Social Security Act \[this part\] is different from the agency of the State designated pursuant to section 402(a)(3) of such Act \[section 602(a)(3) of this title\], so much of paragraph (1) of section 422(a) of such Act \[subsec. (a) of this section\] as precedes subparagraph (B) (as added by paragraph (2) of such subsection (d)) shall not apply with respect to such agencies but only so long as such agencies of the State are different, and (B) if on such date the local agency administering the plan of a State for child-welfare services developed under part B of title IV of the Social Security Act \[this part\] is different from the local agency in such subdivision administering the plan of such State under part A of title IV of such Act \[part A of this subchapter\], so much of such paragraph (1) as precedes such subparagraph (B) shall not apply with respect to such local agencies but only so long as such local agencies are different.”
 
+#### Findings and Purpose
+
+Section 552 of Pub. L. 103–382 provided that:
+
+“(a)
+
+Findings.—The Congress finds that—
+
+&emsp;“(1) nearly 500,000 children are in foster care in the United States;
+
+&emsp;“(2) tens of thousands of children in foster care are waiting for adoption;
+
+&emsp;“(3) 2 years and 8 months is the median length of time that children wait to be adopted;
+
+&emsp;“(4) child welfare agencies should work to eliminate racial, ethnic, and national origin discrimination and bias in adoption and foster care recruitment, selection, and placement procedures; and
+
+&emsp;“(5) active, creative, and diligent efforts are needed to recruit foster and adoptive parents of every race, ethnicity, and culture in order to facilitate the placement of children in foster and adoptive homes which will best meet each child's needs.
+
+“(b)
+
+Purpose.—It is the purpose of this subpart \[subpart 1 of part E of title V of Pub. L. 103–382, enacting section 5115a of this title, amending this section, and enacting provisions set out as a note under section 1305 of this title\] to promote the best interests of children by—
+
+&emsp;“(1) decreasing the length of time that children wait to be adopted;
+
+&emsp;“(2) preventing discrimination in the placement of children on the basis of race, color, or national origin; and
+
+&emsp;“(3) facilitating the identification and recruitment of foster and adoptive families that can meet children's needs.”
+
 #### Guam, Puerto Rico, Virgin Islands, and Commonwealth of Northern Mariana Islands
 
 Section 103(c) of Pub. L. 96–272 provided that in the case of Guam, Puerto Rico, the Virgin Islands, and the Commonwealth of the Northern Mariana Islands, subsec. (b)(1) of this section (as otherwise amended by section 103(a) of Pub. L. 96–272), is deemed to read as follows:
@@ -154,7 +188,9 @@ Section 240(f)(3) of Pub. L. 90–248 provided that in the case of any State whi
 
 This section is referred to in sections 623, 624, 625, 672, 1320a–9 of this title.
 
-<i><sup>1</sup></i><i> So in original. Two pars. (9) have been enacted.</i>
+<i><sup>1</sup></i><i> So in original.</i>
 
-<i><sup>2</sup></i><i> So in original. The period probably should be a semicolon.</i>
+<i><sup>2</sup></i><i> So in original. Two pars. (9) have been enacted.</i>
+
+<i><sup>3</sup></i><i> So in original. The period probably should be a semicolon.</i>
 

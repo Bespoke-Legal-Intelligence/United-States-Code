@@ -18,7 +18,7 @@ For the purposes of this chapter—
 
 &emsp;(5) the term “Corporation” means the Consolidated Rail Corporation;
 
-&emsp;(6) the term “cumulative net income” means, for any period, the net income of the Corporation and its consolidated subsidiaries as determined in accordance with generally accepted accounting principles, before provision for expenses (net of income tax effect) related to—
+&emsp;(6) the term “cumulative net income” means, for any period, the net income of theCorporation and its consolidated subsidiaries as determined in accordance with generally accepted accounting principles, before provision for expenses (net of income tax effect) related to—
 
 &emsp;&emsp;(A) amounts paid by the Corporation under section 4024(e), and comparable payments made to present and former employees of the Corporation not covered by such section; and
 

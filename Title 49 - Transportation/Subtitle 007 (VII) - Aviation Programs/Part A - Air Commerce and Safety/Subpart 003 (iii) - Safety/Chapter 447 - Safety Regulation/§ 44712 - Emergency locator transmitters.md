@@ -30,7 +30,9 @@ Removal.—The Administrator shall prescribe regulations specifying the conditio
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -50,7 +52,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §601(d)(2); added Dec. 29, 1970,
 
 &nbsp;
 
-49 App.:1551(b) (1)(E).
+49 App.:1551(b)(1)(E).
 
 Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1601(b)(1)(E); added Oct. 4, 1984, Pub. L. 98–443, §3(e), 98 Stat. 1704.
 
@@ -68,5 +70,5 @@ In subsection (c), the words “prescribe regulations” are substituted for “
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 106, 44701, 44711, 45302, 46301, 46310, 46316, 47531 of this title.
+This section is referred to in sections 106, 44701, 44711, 45302, 46310, 47531 of this title.
 

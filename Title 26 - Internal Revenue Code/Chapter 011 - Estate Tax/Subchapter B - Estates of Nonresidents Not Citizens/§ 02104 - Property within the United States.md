@@ -16,15 +16,13 @@ For purposes of this subchapter, debt obligations of—
 
 &emsp;(2) the United States, a State or any political subdivision thereof, or the District of Columbia,
 
-> owned and held by a nonresident not a citizen of the United States shall be deemed property within the United States. With respect to estates of decedents dying after December 31, 1969, deposits with a domestic branch of a foreign corporation, if such branch is engaged in the commercial banking business, shall, for purposes of this subchapter, be deemed property within the United States. This subsection shall not apply to a debt obligation to which section 2105(b) applies or to a debt obligation of a domestic corporation if any interest on such obligation, were such interest received by the decedent at the time of his death, would be treated by reason of subparagraph (A), (C), or (D) <sup>1</sup> of section 861(a)(1) as income from sources without the United States.
+> owned and held by a nonresident not a citizen of the United States shall be deemed property within the United States. With respect to estates of decedents dying after December 31, 1969, deposits with a domestic branch of a foreign corporation, if such branch is engaged in the commercial banking business, shall, for purposes of this subchapter, be deemed property within the United States. This subsection shall not apply to a debt obligation to which section 2105(b) applies or to a debt obligation of a domestic corporation if any interest on such obligation, were such interest received by the decedent at the time of his death, would be treated by reason of section 861(a)(1)(A) as income from sources without the United States.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 397; Nov. 13, 1966, Pub. L. 89–809, title I, §108(c), 80 Stat. 1572; Dec. 30, 1969, Pub. L. 91–172, title IV, §435(b), 83 Stat. 625; Apr. 10, 1973, Pub. L. 93–17, §3(a)(1), 87 Stat. 12; Jan. 3, 1975, Pub. L. 93–625, §9(b), 88 Stat. 2116; Oct. 4, 1976, Pub. L. 94–455, title XX, §2001(c)(1)(L), 90 Stat. 1853; Nov. 10, 1988, Pub. L. 100–647, title I, §1012(q)(11), 102 Stat. 3525.)
-
-#### References in Text
-
-Subparagraphs (C) and (D) of section 861(a)(1) of this title, referred to in subsec. (c), were repealed by Pub. L. 101–508, title XI, §11801(a)(29), Nov. 5, 1990, 104 Stat. 1388–521.
+(Aug. 16, 1954, ch. 736, 68A Stat. 397; Nov. 13, 1966, Pub. L. 89–809, title I, §108(c), 80 Stat. 1572; Dec. 30, 1969, Pub. L. 91–172, title IV, §435(b), 83 Stat. 625; Apr. 10, 1973, Pub. L. 93–17, §3(a)(1), 87 Stat. 12; Jan. 3, 1975, Pub. L. 93–625, §9(b), 88 Stat. 2116; Oct. 4, 1976, Pub. L. 94–455, title XX, §2001(c)(1)(L), 90 Stat. 1853; Nov. 10, 1988, Pub. L. 100–647, title I, §1012(q)(11), 102 Stat. 3525; Aug. 20, 1996, Pub. L. 104–188, title I, §1704(t)(38), 110 Stat. 1889.)
 
 #### Amendments
+
+1996—Subsec. (c). Pub. L. 104–188 substituted “section 861(a)(1)(A)” for “subparagraph (A), (C), or (D) of section 861(a)(1)” in concluding provisions.
 
 1988—Subsec. (c). Pub. L. 100–647 substituted “subparagraph (A), (C), or (D) of section 861(a)(1)” for “section 861(a)(1)(B), section 861(a)(1)(G), or section 861(a)(1)(H)”.
 
@@ -52,7 +50,7 @@ Amendment by Pub. L. 93–625 applicable with respect to estates of decedents dy
 
 #### Effective Date of 1973 Amendment
 
-Section 3(a)(2) of Pub. L. 93–17 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply with respect to estates of decedents dying after December 31, 1972, except that in the caseof the assumption of a debt obligation of a foreign corporation which is treated as issued under section 4912(c)(2) after December 31, 1972, and before January 1, 1974, the amendment made by paragraph (1) \[amending this section\] shall apply with respect to estates of decedents dying after December 31, 1973.”
+Section 3(a)(2) of Pub. L. 93–17 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply with respect to estates of decedents dying after December 31, 1972, except that in the case of the assumption of a debt obligation of a foreign corporation which is treated as issued under section 4912(c)(2) after December 31, 1972, and before January 1, 1974, the amendment made by paragraph (1) \[amending this section\] shall apply with respect to estates of decedents dying after December 31, 1973.”
 
 #### Effective Date of 1966 Amendment
 
@@ -61,6 +59,4 @@ Amendment by Pub. L. 89–809 applicable with respect to estates of decedents dy
 #### Short Title of 1973 Amendment
 
 Section 1(a) of Pub. L. 93–17 provided that: “This Act \[enacting sections 4922 and 6689 of this title, amending this section and sections 4911, 4912, 4914, 4915, 4916, 4918, 4919, 4920, and 6611 of this title, and enacting provisions set out as notes under this section\] may be cited as the ‘Interest Equalization Tax Extension Act of 1973’.”
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

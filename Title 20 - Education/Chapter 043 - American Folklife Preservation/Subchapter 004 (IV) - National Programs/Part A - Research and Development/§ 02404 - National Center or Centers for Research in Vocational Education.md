@@ -52,7 +52,7 @@
 
 &emsp;(L) upon negotiation with the Center, and if funds are provided pursuant to subsection (d) of this section, such other topics as the Secretary may designate.
 
-(2) The Center conducting the activities described in paragraph (1) shall annually prepare astudy on the research conducted on approaches that lead to effective articulation for the education-to-work transition, including tech-prep programs, cooperative education or other work-based programs, such as innovative apprenticeship or mentoring approaches, and shall submit copies of such study to the Secretary of Education, the Secretary of Labor, the Secretary of Health and Human Services, the Committee on Labor and Human Resources of the Senate, and the Committee on Education and Labor of the House of Representatives.
+(2) The Center conducting the activities described in paragraph (1) shall annually prepare a study on the research conducted on approaches that lead to effective articulation for the education-to-work transition, including tech-prep programs, cooperative education or other work-based programs, such as innovative apprenticeship or mentoring approaches, and shall submit copies of such study to the Secretary of Education, the Secretary of Labor, the Secretary of Health and Human Services, the Committee on Labor and Human Resources of the Senate, and the Committee on Education and Labor of the House of Representatives.
 
 #### (c) Dissemination and training
 
@@ -102,7 +102,7 @@ Section 1085(b) of this title as such section was in effect on July 22, 1992, re
 
 #### Change of Name
 
-Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Economic and Educational Opportunities of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Fifth Congress, Jan. 7, 1997.
 
 #### Effective Date of 1994 Amendment
 

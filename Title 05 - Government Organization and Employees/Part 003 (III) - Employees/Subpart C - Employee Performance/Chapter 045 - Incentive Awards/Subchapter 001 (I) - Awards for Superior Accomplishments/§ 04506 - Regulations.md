@@ -10,7 +10,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 5 U.S.C. 2121 (1st 29 words).
 
@@ -20,9 +22,9 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-<b>1981</b>—Pub. L. 97–35 substituted “subchapter” for “chapter”.
+1981—Pub. L. 97–35 substituted “subchapter” for “chapter”.
 
-<b>1978</b>—Pub. L. 95–454 substituted “Office of Personnel Management shall” for “Civil Service Commission may”.
+1978—Pub. L. 95–454 substituted “Office of Personnel Management shall” for “Civil Service Commission may”.
 
 #### Effective Date of 1981 Amendment
 

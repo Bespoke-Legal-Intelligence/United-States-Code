@@ -12,15 +12,11 @@
 
 (Aug. 1, 1946, ch. 724, title I, §133, as added Aug. 27, 1986, Pub. L. 99–399, title VI, §603, 100 Stat. 875; renumbered title I, Oct. 24, 1992, Pub. L. 102–486, title IX, §902(a)(8), 106 Stat. 2944; amended Apr. 30, 1994, Pub. L. 103–236, title VIII, §829, 108 Stat. 521.)
 
-#### Amendment of Subsection (b)
-
-<i>For termination of amendment by section 851 of Pub. L. 103–236, see Effective and Termination Dates of 1994 Amendment note below.</i>
-
 #### Amendments
 
-1994—Subsec. (b). Pub. L. 103–236 temporarily substituted “5 kilograms” for “20 kilograms”. See Effective and Termination Dates of 1994 Amendment note below.
+1994—Subsec. (b). Pub. L. 103–236 substituted “5 kilograms” for “20 kilograms”.
 
-#### Effective and Termination Dates of 1994 Amendment
+#### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–236 effective 60 days after Apr. 30, 1994, and ceases to be effective and is repealedon date of enactment of first Foreign Relations Authorization Act enacted after Apr. 30, 1994, and any provision repealed by that amendment shall be reenacted, see sections 831 and 851 of Pub. L. 103–236, set out in the Nuclear Proliferation Prevention; Effective and Termination Dates of 1994 Amendment note under section 3201 of Title 22, Foreign Relations and Intercourse.
+Amendment by Pub. L. 103–236 effective 60 days after Apr. 30, 1994, see section 831 of Pub. L. 103–236, set out as an Effective Date note under section 6301 of Title 22, Foreign Relations and Intercourse.
 

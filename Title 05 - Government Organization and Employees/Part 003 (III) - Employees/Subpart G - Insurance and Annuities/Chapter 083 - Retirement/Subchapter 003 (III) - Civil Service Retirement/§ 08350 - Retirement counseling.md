@@ -14,7 +14,7 @@
 
 #### Amendments
 
-<b>1986</b>—Subsec. (c)(1). Pub. L. 99–556 substituted “subsection (b)” for “subsection (b)(1)”.
+1986—Subsec. (c)(1). Pub. L. 99–556 substituted “subsection (b)” for “subsection (b)(1)”.
 
 #### Effective Date
 

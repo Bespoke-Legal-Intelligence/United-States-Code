@@ -22,7 +22,7 @@ Adjutants General.—If a reserve officer who is federally recognized in the Arm
 
 &emsp;&emsp;(A) be transferred in grade to the Retired Reserve, if the officer is qualified and applies for the transfer;
 
-&emsp;&emsp;(B) be discharged from the officer's reserve appointment and appointed in the reserve grade held by the officer as a reserve officer of the Air Force immediately before the appointment of that officer as adjutant general or assistant adjutant general, if the officer is qualified and applies for that appointment; or
+&emsp;&emsp;(B) be discharged from the officer's reserve appointment and appointed in the reserve grade held by the officer as a reserve officer immediately before the appointment of that officer as adjutant general or assistant adjutant general, if the officer is qualified and applies for that appointment; or
 
 &emsp;&emsp;(C) be discharged from the officer's reserve appointment.
 
@@ -30,15 +30,15 @@ Adjutants General.—If a reserve officer who is federally recognized in the Arm
 
 Credit for Service in Grade.—An officer who is appointed under subsection (a)(3) or (b)(2)(B) shall be credited with an amount of service in the grade in which appointed that is equal to the amount of prior service in an active status in that grade and in any higher grade.
 
-(Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2942.)
-
-#### Effective Date of Section
-
-<i>Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under section 10001 of this title.</i>
+(Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2942; amended Pub. L. 104–201, div. A, title V, §544(c), Sept. 23, 1996, 110 Stat. 2523.)
 
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in sections 3375, 8375, and 8381 of this title, prior to repeal by Pub. L. 103–337, §1629(a)(1), (c)(1).
+
+#### Amendments
+
+1996—Subsec. (b)(2)(B). Pub. L. 104–201 struck out “of the Air Force” after “reserve officer”.
 
 #### Section Referred to in Other Sections
 

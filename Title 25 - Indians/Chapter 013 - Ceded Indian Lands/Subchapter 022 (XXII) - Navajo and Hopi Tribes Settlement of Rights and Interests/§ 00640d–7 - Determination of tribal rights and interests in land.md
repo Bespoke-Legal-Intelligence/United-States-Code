@@ -18,7 +18,7 @@ Lands, if any, in which the Navajo Tribe or Navajo individuals are determined by
 
 #### (d) Denial of Congressional interest in merits of conflicting claims; liability of United States
 
-Nothing in this section shall be deemed to be a Congressional determination of the merits of the conflicting claims to the lands that are subject to adjudication pursuant to this section, orto affect the liability of the United States, if any, under litigation now pending before the Indian Claims Commission.
+Nothing in this section shall be deemed to be a Congressional determination of the merits ofthe conflicting claims to the lands that are subject to adjudication pursuant to this section, or to affect the liability of the United States, if any, under litigation now pending before the Indian Claims Commission.
 
 #### (e) Payment of legal fees, court costs and other expenses
 

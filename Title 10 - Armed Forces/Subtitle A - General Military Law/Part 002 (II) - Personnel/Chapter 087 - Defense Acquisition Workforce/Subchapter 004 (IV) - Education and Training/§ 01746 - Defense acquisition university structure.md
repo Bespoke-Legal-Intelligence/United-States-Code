@@ -2,11 +2,11 @@
 
 (a)
 
-Defense Acquisition University Structure.—(1) <sup>1</sup> The Secretary of Defense, acting through the Under Secretary of Defense for Acquisition and Technology, shall establish and maintain a defense acquisition university structure to provide for—
+Defense Acquisition University Structure.The Secretary of Defense, acting through the Under Secretary of Defense for Acquisition and Technology, shall establish and maintain a defense acquisition university structure to provide for—
 
-&emsp;(A) the professional educational development and training of the acquisition workforce; and
+&emsp;(1) the professional educational development and training of the acquisition workforce; and
 
-&emsp;(B) research and analysis of defense acquisition policy issues from an academic perspective.
+&emsp;(2) research and analysis of defense acquisition policy issues from an academic perspective.
 
 (b)
 
@@ -16,9 +16,11 @@ Civilian Faculty Members.—(1) The Secretary of Defense may employ as many civi
 
 (3) In this subsection, the term “defense acquisition university” includes the Defense Systems Management College.
 
-(Added Pub. L. 101–510, div. A, title XII, §1202(a), Nov. 5, 1990, 104 Stat. 1653; amended Pub. L. 103–160, div. A, title IX, §904(d)(1), Nov. 30, 1993, 107 Stat. 1728.)
+(Added Pub. L. 101–510, div. A, title XII, §1202(a), Nov. 5, 1990, 104 Stat. 1653; amended Pub. L.103–160, div. A, title IX, §904(d)(1), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 104–106, div. A, title XV, §1503(a)(16), Feb. 10, 1996, 110 Stat. 512.)
 
 #### Amendments
+
+1996—Subsec. (a). Pub. L. 104–106 struck out “(1)” before “The Secretary of Defense” and redesignated subpars. (A) and (B) as pars. (1) and (2), respectively.
 
 1993—Subsec. (a)(1). Pub. L. 103–160 substituted “Under Secretary of Defense for Acquisition and Technology” for “Under Secretary of Defense for Acquisition”.
 
@@ -52,7 +54,7 @@ Establishment of Structure.—Not later than October 1, 1991, the Secretary of D
 
 “(b)
 
-Implementation.—Not later than October 1, 1991, the Secretary of Defense, acting through the UnderSecretary of Defense for Acquisition and Technology, shall prescribe and submit to the Committees on Armed Services of the Senate and House of Representatives an implementation plan, including a charter, for the defense acquisition university structure. Not later than August 1, 1992, the Secretary of Defense shall carry out the implementation plan.”
+Implementation.—Not later than October 1, 1991, the Secretary of Defense, acting through the Under Secretary of Defense for Acquisition and Technology, shall prescribe and submit to the Committees on Armed Services of the Senate and House of Representatives an implementation plan, including a charter, for the defense acquisition university structure. Not later than August 1, 1992, the Secretary of Defense shall carry out the implementation plan.”
 
 #### Section Referred to in Other Sections
 

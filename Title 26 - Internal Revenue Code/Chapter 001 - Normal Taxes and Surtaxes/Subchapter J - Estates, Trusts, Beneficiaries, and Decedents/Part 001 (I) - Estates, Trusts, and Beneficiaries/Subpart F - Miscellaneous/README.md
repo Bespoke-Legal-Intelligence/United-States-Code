@@ -12,8 +12,6 @@ Subpart F—Miscellaneous
 
 1976—Pub. L. 94–455, title XXI, §2131(e)(2), Oct. 4, 1976, 90 Stat. 1924, substituted “Use of trust as an exchange fund” for “Applicability of provisions” in item 683.
 
-<i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
-
 
 ---
 

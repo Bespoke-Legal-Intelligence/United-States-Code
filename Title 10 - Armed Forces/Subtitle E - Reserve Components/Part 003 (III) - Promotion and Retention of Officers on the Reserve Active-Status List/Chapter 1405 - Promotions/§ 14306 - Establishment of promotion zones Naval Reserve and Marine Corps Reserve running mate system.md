@@ -14,10 +14,6 @@ Consideration of Officers Below the Zone Under a Running Mate System.—If the S
 
 (Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2935.)
 
-#### Effective Date of Section
-
-<i>Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under section 10001 of this title.</i>
-
 #### Prior Provisions
 
 Provisions similar to those in subsec. (b) of this section were contained in section 5899 of this title, prior to repeal by Pub. L. 103–337, §1629(b)(2).

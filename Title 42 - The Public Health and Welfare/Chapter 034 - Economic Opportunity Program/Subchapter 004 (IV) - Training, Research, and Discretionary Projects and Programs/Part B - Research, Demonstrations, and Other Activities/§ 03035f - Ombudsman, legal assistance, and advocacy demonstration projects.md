@@ -8,7 +8,7 @@
 
 #### References in Text
 
-The Developmental Disabilities Assistance and Bill of Rights Act, referred to in subsec. (a), is title I of Pub.L. 88–164, as added by Pub. L. 98–527, §2, Oct. 19, 1984, 98 Stat. 2662, and amended. Part A of the Developmental Disabilities Assistance and Bill of Rights Act is classified generally to subchapter I (§6000 et seq.) of chapter 75 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6000 of this title and Tables.
+The Developmental Disabilities Assistance and Bill of Rights Act, referred to in subsec. (a), is title I of Pub. L. 88–164, as added by Pub. L. 98–527, §2, Oct. 19, 1984, 98 Stat. 2662, and amended. Part A of the Developmental Disabilities Assistance and Bill of Rights Act is classified generally to subchapter I (§6000 et seq.) of chapter 75 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6000 of this title and Tables.
 
 The Protection and Advocacy for Mentally Ill Individuals Act of 1986, referred to in subsec. (a), is Pub. L. 99–319, May 23, 1986, 100 Stat. 478, as amended, which is classified generally to chapter 114 (§10801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 10801 of this title and Tables.
 

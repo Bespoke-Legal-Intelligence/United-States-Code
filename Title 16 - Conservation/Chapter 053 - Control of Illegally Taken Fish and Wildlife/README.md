@@ -27,7 +27,7 @@
 | (a) | Regulations. |
 | (b) | Contract authority. |
 | [3377\.](%C2%A7%2003377%20-%20Exceptions.md) | Exceptions. |
-| (a) | Activities regulated by plan under Magnuson Fishery Conservation and Management Act. |
+| (a) | Activities regulated by plan under Magnuson-Stevens Fishery Conservation and Management Act. |
 | (b) | Activities regulated by Tuna Convention Acts; harvesting of highly migratory species taken on high seas. |
 | (c) | Interstate shipment or transshipment through Indian country of fish, wildlife, or plants for legal purposes. |
 | [3378\.](%C2%A7%2003378%20-%20Miscellaneous%20provisions.md) | Miscellaneous provisions. |

@@ -20,7 +20,7 @@ The Secretary may waive the application of subsection (a) of this section in the
 
 &emsp;&emsp;(A) receive need-based postsecondary financial aid provided from public funds;
 
-&emsp;&emsp;(B) are members of families participating in the program for aid to families with dependent children under part A of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\];
+&emsp;&emsp;(B) are members of families participating in the State program funded under part A of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\];
 
 &emsp;&emsp;(C) are enrolled in postsecondary educational institutions that—
 
@@ -52,7 +52,7 @@ For the purposes of this section—
 
 &emsp;(3) the term “Pell Grant recipient” means a recipient of financial aid under subpart 1 of part A of title IV of the Higher Education Act of 1965 \[20 U.S.C. 1070a et seq.\].
 
-(Pub. L. 88–210, title II, §232, as added Pub. L. 101–392, title II, §201, Sept. 25, 1990, 104 Stat. 781; amended Pub. L. 103–208, §4, Dec. 20, 1993, 107 Stat. 2487; Pub. L. 103–382, title III, §351(a)(1), Oct. 20, 1994, 108 Stat. 3966.)
+(Pub. L. 88–210, title II, §232, as added Pub. L. 101–392, title II, §201, Sept. 25, 1990, 104 Stat. 781; amended Pub. L. 103–208, §4, Dec. 20, 1993, 107 Stat. 2487; Pub. L. 103–382, title III, §351(a)(1), Oct. 20, 1994, 108 Stat. 3966; Pub. L. 104–193, title I, §110(i)(2), Aug. 22, 1996, 110 Stat. 2172.)
 
 #### References in Text
 
@@ -68,6 +68,8 @@ The Higher Education Act of 1965, referred to in subsec. (d)(3), is Pub. L. 89�
 
 #### Amendments
 
+1996—Subsec. (b)(2)(B). Pub. L. 104–193 substituted “the State program funded” for “the program for aid to families with dependent children”.
+
 1994—Subsec. (d)(2). Pub. L. 103–382 inserted “, notwithstanding section 427(b)(2) of the Higher Education Amendments of 1992,” before “has” and “as such section was in effect on July 22, 1992” before the semicolon.
 
 1993—Subsec. (a). Pub. L. 103–208, §4(1), designated existing provisions as par. (1), inserted “or consortia thereof” before “within the State” in first sentence, inserted “or consortium” before “shall receive an amount” and before “in the preceding fiscal year” in second sentence, and added par. (2).
@@ -79,6 +81,10 @@ Subsec. (b)(2). Pub. L. 103–208, §4(2)(B), inserted “or consortia” after 
 Subsec. (c)(1). Pub. L. 103–208, §4(3)(A), inserted “or consortium” after “institution”.
 
 Subsec. (c)(2). Pub. L. 103–208, §4(3)(B), inserted “or consortia” after “institutions”.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–193 effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, set out as a note under section 601 of Title 42, The Public Health and Welfare.
 
 #### Effective Date of 1994 Amendment
 

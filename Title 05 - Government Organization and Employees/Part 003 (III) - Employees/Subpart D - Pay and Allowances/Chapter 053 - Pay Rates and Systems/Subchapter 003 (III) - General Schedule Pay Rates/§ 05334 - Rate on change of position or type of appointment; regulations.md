@@ -18,7 +18,7 @@
 
 > For the purpose of this subsection, an individual employed by the Appalachian Regional Commission under section 106(2) of title 40, appendix, or by a regional commission established pursuant to section 3182 of title 42, under section 3186(a)(2) of that title, who was a Federal employee immediately prior to such employment by a commission and within 6 months after separation from such employment is employed in a position to which this subchapter applies, shall be treated as if transferred from a position in the executive branch to which this subchapter does not apply.
 
-(b) An employee who is promoted or transferred to a position in a higher grade is entitled to basic pay at the lowest rate of the higher grade which exceeds his existing rate of basic pay by not less than two step-increases of the grade from which he is promoted or transferred. If, in the case of an employee so promoted or transferred who is receiving basic pay at a rate in excess of the maximum rate of his grade, there is no rate in the higher grade which is at least two step-increases above his existing rate of basic pay, he is entitled to—
+(b) An employee who is promoted or transferred to a position in a higher grade is entitled to basic pay at the lowest rate of the higher grade which exceeds his existing rate of basic pay by not less than two step-increases of the grade from which he is promoted or transferred. If, in the case of an employee so promoted or transferred who is receiving basic pay at a rate in excess of the maximum rate of his grade, there is no rate in the higher grade which is atleast two step-increases above his existing rate of basic pay, he is entitled to—
 
 &emsp;(1) the maximum rate of the higher grade; or
 
@@ -30,7 +30,7 @@
 
 &emsp;(B) his existing rate of basic pay, if that rate is the higher.
 
-(c) An employee in the legislative branch who is paid by the Secretary of the Senate or the Clerk of the House of Representatives, and who has completed two or more years of service as such an employee, and a Member of the Senate or House of Representatives who has completed two or more years of service as such a Member, may, on appointment to a position to which this subchapter applies, have his initial rate of pay fixed—
+(c) An employee in the legislative branch who is paid by the Secretary of the Senate or the Chief Administrative Officer of the House of Representatives, and who has completed two or more years of service as such an employee, and a Member of the Senate or House of Representatives who has completed two or more years of service as such a Member, may, on appointment to a position to which this subchapter applies, have his initial rate of pay fixed—
 
 &emsp;(1) at the minimum rate of the appropriate grade; or
 
@@ -42,7 +42,7 @@
 
 (f) An employee of a nonappropriated fund instrumentality of the Department of Defense or the Coast Guard described in section 2105(c) who moves, without a break in service of more than 3 days, to a position in the Department of Defense or the Coast Guard, respectively, that is subject to this subchapter, may have such employee's initial rate of basic pay fixed at the minimum rate of the appropriate grade or at any step of such grade that does not exceed the highest previous rate of basic pay received by that employee during the employee's service described in section 2105(c). In the case of a nonappropriated fund employee who is moved involuntarily from such nonappropriated fund instrumentality without a break in service of more than 3 days and without substantial change in duties to a position that is subject to this subchapter, the employee's pay shall be set at a rate (not above the maximum for the grade, except as may be provided for under section 5365) that is not less than the employee's rate of basic pay under the nonappropriated fund instrumentality immediately prior to so moving.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 468; Pub. L. 90–103, title I, §105, Oct. 11, 1967, 81 Stat. 257; Pub. L. 90–367, §1, June 29, 1968, 82 Stat. 277; Pub L. 90–623, §1(6), (24), Oct. 22, 1968, 82 Stat. 1312, 1314; Pub. L. 95–454, title V, §503(f), title VIII, §801(a)(2), (3)(F), (G), title IX, §906(a)(2), Oct. 13, 1978, 92 Stat. 1184, 1221, 1222, 1224; Pub. L. 96–54, §2(a)(27), Aug. 14, 1979, 93 Stat. 383; Pub. L. 98–615, title II, §204(a)(1), Nov. 8, 1984, 98 Stat. 3216; Pub. L. 99–251, title III, §306(b), Feb. 27, 1986, 100 Stat. 27; Pub. L. 101–508, title VII, §7202(d), Nov. 5, 1990, 104 Stat. 1388–335; Pub. L. 103–89, §3(b)(1)(G), Sept. 30, 1993, 107 Stat. 982.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 468; Pub. L. 90–103, title I, §105, Oct. 11, 1967, 81 Stat. 257; Pub. L. 90–367, §1, June 29, 1968, 82 Stat. 277; Pub L. 90–623, §1(6), (24), Oct. 22, 1968, 82 Stat. 1312, 1314; Pub. L. 95–454, title V, §503(f), title VIII, §801(a)(2), (3)(F), (G), title IX, §906(a)(2), Oct. 13, 1978, 92 Stat. 1184, 1221, 1222, 1224; Pub. L. 96–54, §2(a)(27), Aug. 14, 1979, 93 Stat. 383; Pub. L. 98–615, title II, §204(a)(1), Nov. 8, 1984, 98 Stat. 3216; Pub. L. 99–251, title III, §306(b), Feb. 27, 1986, 100 Stat. 27; Pub. L. 101–508, title VII, §7202(d), Nov. 5, 1990, 104 Stat. 1388–335; Pub. L. 103–89, §3(b)(1)(G), Sept. 30, 1993, 107 Stat. 982; Pub. L. 104–186, title II, §215(4), Aug. 20, 1996, 110 Stat. 1745.)
 
 Historical and Revision Notes
 
@@ -50,7 +50,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 (a)–(d)
 
@@ -92,19 +94,21 @@ Sections 3182 and 3186(a)(2) of title 42, referred to in subsec. (a), were repea
 
 #### Amendments
 
-<b>1993</b>—Subsec. (c)(2). Pub. L. 103–89, §3(b)(1)(G)(i), substituted “step” for “step, or for an employee appointed to a position covered by the performance management and recognition system established under chapter 54 of this title, any dollar amount,”.
+1996—Subsec. (c). Pub. L. 104–186 substituted “Chief Administrative Officer” for “Clerk”.
+
+1993—Subsec. (c)(2). Pub. L. 103–89, §3(b)(1)(G)(i), substituted “step” for “step, or for an employee appointed to a position covered by the performance management and recognition system established under chapter 54 of this title, any dollar amount,”.
 
 Subsecs. (f), (g). Pub. L. 103–89, §3(b)(1)(G)(ii), redesignated subsec. (g) as (f) and struck out former subsec. (f) which read as follows: “In the case of an employee covered by the performance management and recognition system established under chapter 54 of this title, all references in this section to ‘two steps’ or ‘two step-increases’ shall be deemed to mean 6 percent.”
 
-<b>1990</b>—Subsec. (g). Pub. L. 101–508 added subsec. (g).
+1990—Subsec. (g). Pub. L. 101–508 added subsec. (g).
 
-<b>1986</b>—Subsec. (e). Pub. L. 99–251 substituted “may, upon appointment to a position” for “may upon appointment to a position under the Department of Agriculture,”.
+1986—Subsec. (e). Pub. L. 99–251 substituted “may, upon appointment to a position” for “may upon appointment to a position under the Department of Agriculture,”.
 
-<b>1984</b>—Subsecs. (c)(2), (f). Pub. L. 98–615 substituted “the performance management and recognition system established under chapter 54” for “the merit pay system established under section 5402”.
+1984—Subsecs. (c)(2), (f). Pub. L. 98–615 substituted “the performance management and recognition system established under chapter 54” for “the merit pay system established under section 5402”.
 
-<b>1979</b>—Subsec. (a). Pub. L. 96–54 substituted “106(2)” for “106(a)” and “3186(a)(2)” for “3186(2)”.
+1979—Subsec. (a). Pub. L. 96–54 substituted “106(2)” for “106(a)” and “3186(a)(2)” for “3186(2)”.
 
-<b>1978</b>—Subsec. (a). Pub. L. 95–454, §906(a)(2), substituted “Office of Personnel Management” for “Civil Service Commission”.
+1978—Subsec. (a). Pub. L. 95–454, §906(a)(2), substituted “Office of Personnel Management” for “Civil Service Commission”.
 
 Subsec. (b). Pub. L. 95–454, §801(a)(3)(F), substituted “subchapter VI of this chapter” for “section 5337 of this title” wherever appearing.
 
@@ -114,13 +118,13 @@ Subsecs. (d) to (f). Pub. L. 95–454, §801(a)(2), (3)(G), redesignated subsecs
 
 Pub. L. 95–454, §503(f)(2), added a new subsec. (f).
 
-<b>1968</b>—Subsec. (a). Pub. L. 90–623, §1(6), substituted “title 40, appendix” for “the Appalachian Regional Development Act of 1965”, “section 3182 of title 42, under section 3186(2) of that title” for “section 502 of the Public Works and Economic Development Act of 1965, under section 506(2) of such Act”, and “6” for “six”.
+1968—Subsec. (a). Pub. L. 90–623, §1(6), substituted “title 40, appendix” for “the Appalachian Regional Development Act of 1965”, “section 3182 of title 42, under section 3186(2) of that title” for “section 502 of the Public Works and Economic Development Act of 1965, under section 506(2) of such Act”, and “6” for “six”.
 
 Subsec. (f). Pub. L. 90–623, §1(24), substituted “section 590h(b) of title 16” for “section 8(b) of the Soil Conservation and Domestic Allotment Act (16 U.S.C. 590h(b))”.
 
 Pub. L. 90–367 added subsec. (f).
 
-<b>1967</b>—Subsec. (a). Pub. L. 90–103 provided for treatment as a transfer from a position in the executive branch to which this subchapter does not apply of certain regional commission employees who were Federal employees immediately prior to employment by a commission and were employed within six months after separation from the commission in a position subject to this subchapter.
+1967—Subsec. (a). Pub. L. 90–103 provided for treatment as a transfer from a position in the executive branch to which this subchapter does not apply of certain regional commission employees who were Federal employees immediately prior to employment by a commission and were employed within six months after separation from the commission in a position subject to this subchapter.
 
 #### Effective Date of 1993 Amendment
 
@@ -159,10 +163,6 @@ Section 6 of Pub. L. 90–623 provided that:
 “(d) Sections 1(2) and 1(14) of this Act \[amending sections 2108 and 5724 of this title\] are effective as of September 11, 1967, for all purposes.
 
 “(e) Sections 1(13)(B) and 1(17) of this Act \[amending sections 5546 and 6323 of this title\] are effective as of September 6, 1966, for all purposes.”
-
-#### Transfer of Functions
-
-Certain functions of Clerk of House of Representatives transferred to Director of Non-legislative and Financial Services by section 7 of House Resolution No. 423, One Hundred Second Congress, Apr. 9, 1992. Director of Non-legislative and Financial Services replaced by Chief Administrative Officer of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
 
 #### Section Referred to in Other Sections
 

@@ -1,5 +1,7 @@
 ### SUBCHAPTER IV—CLOSING ACCOUNTS
 
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
 
 ---
 
@@ -12,4 +14,4 @@
 - [&sect; 01555 - Closing of appropriation accounts available for indefinite periods](%C2%A7%2001555%20-%20Closing%20of%20appropriation%20accounts%20available%20for%20indefinite%20periods.md)
 - [&sect; 01556 - Comptroller General reports on appropriation accounts](%C2%A7%2001556%20-%20Comptroller%20General%20reports%20on%20appropriation%20accounts.md)
 - [&sect; 01557 - Authority for exemptions in appropriation laws](%C2%A7%2001557%20-%20Authority%20for%20exemptions%20in%20appropriation%20laws.md)
-- [&sect; 01558 - Availability of funds following resolution of a protest](%C2%A7%2001558%20-%20Availability%20of%20funds%20following%20resolution%20of%20a%20protest.md)
+- [&sect; 01558 - Availability of funds following resolution of a formal protest or other challenge](%C2%A7%2001558%20-%20Availability%20of%20funds%20following%20resolution%20of%20a%20formal%20protest%20or%20other%20challenge.md)

@@ -10,7 +10,9 @@ Notwithstanding section 40109(a) and (c)–(h) of this title, an air carrier may
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -22,9 +24,9 @@ Historical and Revision Notes
 
 Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §419(e)(1); added Oct. 24, 1978, Pub. L. 95–504, §33(a), 92 Stat. 1732; Dec. 8, 1983, Pub. L. 98–213, §10, 97 Stat. 1461; Oct. 4, 1984, Pub. L. 98–443, §9(r), 98 Stat. 1708; restated Dec. 30, 1987, Pub. L. 100–223, §202(a)(1), (2), (b)(1), 101 Stat. 1507, 1515.
 
-In this section, before clause (1), the words “air transportation to a place” are substituted for “service to a point” for consistency with the source provisions restated in sections 41733, 41735, and 41736 of the revised title. In clauses (1) and (2), the words “service or transportation” are substituted for “such service” for consistency with the source provisions restated in sections 41733, 41735, and 41736 of the revised title.
+In this section, before clause (1), the words “air transportation to a place” are substituted for “service to a point” for consistency with the source provisionsrestated in sections 41733, 41735, and 41736 of the revised title. In clauses (1) and (2), the words “service or transportation” are substituted for “such service” for consistency with the source provisions restated in sections 41733, 41735, and 41736 of the revised title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 40109, 41110, 46301 of this title.
+This section is referred to in section 41110 of this title.
 

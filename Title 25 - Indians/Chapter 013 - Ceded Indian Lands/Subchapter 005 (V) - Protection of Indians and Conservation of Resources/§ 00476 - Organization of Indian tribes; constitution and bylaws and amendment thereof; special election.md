@@ -2,7 +2,7 @@
 
 #### (a) Adoption; effective date
 
-Any Indian tribe shall have the right to organize for its common welfare, and may adopt an appropriate constitution and bylaws, and any amendments thereto, which shall become effective when—
+Any Indian tribe shall have the right to organize for its common welfare, and may adopt anappropriate constitution and bylaws, and any amendments thereto, which shall become effective when—
 
 &emsp;(1) ratified by a majority vote of the adult members of the tribe or tribes at a special election authorized and called by the Secretary under such rules and regulations as the Secretary may prescribe; and
 
@@ -66,7 +66,7 @@ May 31, 1994, referred to in subsec. (g), was in the original “the date of ena
 
 Section 102 of title I of Pub. L. 100–581 provided that: “For the purpose of this Act \[probably means title I of Pub. L. 100–581 which amended this section and enacted provisions set out below\], the term—
 
-&emsp;“(1) ‘applicable laws’ means any treaty, Executive order or Act of Congress or any final decision of the Federal courts which are applicable to the tribe, and any other laws which are applicable to the tribe pursuant to an Act of Congress or by any final decision of the Federal courts;
+&emsp;“(1) ‘applicable laws’ means any treaty, Executive order or Act of Congress or any final decision of the Federal courts which are applicable to the tribe, andany other laws which are applicable to the tribe pursuant to an Act of Congress or by any final decision of the Federal courts;
 
 &emsp;“(2) ‘appropriate tribal request’ means receipt in the Area Office of the Bureau of Indian Affairs having administrative jurisdiction over the requesting tribe, of a duly enacted tribal resolution requesting a Secretarial election as well as a copy of the proposed tribal constitution and bylaws, amendment, or revocation action;
 

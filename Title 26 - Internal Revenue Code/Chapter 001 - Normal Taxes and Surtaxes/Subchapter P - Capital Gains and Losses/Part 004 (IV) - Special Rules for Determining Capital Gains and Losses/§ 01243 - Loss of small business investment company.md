@@ -8,7 +8,7 @@ In the case of a small business investment company operating under the Small Bus
 
 > then such loss shall be treated as an ordinary loss.
 
-(Added Pub. L. 85–866, title I, §57(a), Sept. 2, 1958, 72 Stat. 1645; amended Pub. L. 91–172, title IV, §433(b), Dec. 30, 1969, 83 Stat. 624; Pub. L. 94–455, title XIX, §1901(b)(3)(F), Oct. 4, 1976, 90 Stat. 1793.)
+(Added Pub. L. 85–866, title I, §57(a), Sept. 2, 1958, 72 Stat. 1645; amended Pub. L. 91–172, title IV,§433(b), Dec. 30, 1969, 83 Stat. 624; Pub. L. 94–455, title XIX, §1901(b)(3)(F), Oct. 4, 1976, 90 Stat. 1793.)
 
 #### References in Text
 

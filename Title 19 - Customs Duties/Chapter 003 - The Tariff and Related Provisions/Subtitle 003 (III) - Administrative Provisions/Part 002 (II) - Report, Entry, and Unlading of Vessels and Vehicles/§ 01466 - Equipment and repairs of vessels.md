@@ -46,7 +46,7 @@ If the owner or master of such vessel furnishes good and sufficient evidence tha
 
 #### (f) Civil aircraft exception
 
-The duty imposed under subsection (a) of this section shall not apply to the cost of equipments, or any part thereof, purchased, of repair parts or materials used, or of repairs made in aforeign country with respect to a United States civil aircraft, within the meaning of general note 3(c)(iv) of the Harmonized Tariff Schedule of the United States.
+The duty imposed under subsection (a) of this section shall not apply to the cost of equipments, or any part thereof, purchased, of repair parts or materials used, or of repairs made in a foreign country with respect to a United States civil aircraft, within the meaning of general note 3(c)(iv) of the Harmonized Tariff Schedule of the United States.
 
 #### (g) Fish net and netting purchases and repairs
 
@@ -108,7 +108,11 @@ Amendment by Pub. L. 103–465 effective on the date on which the WTO Agreement 
 
 #### Effective Date of 1990 Amendment
 
-Section 484E(b) of Pub. L. 101–382, as amended by Pub. L. 103–465, title I, §112(a), Dec. 8, 1994, 108 Stat. 4825, provided that: “The amendment made by this section \[amending this section\] shall apply to—
+Section 484E(b), (c) of Pub. L. 101–382, as amended by Pub. L. 103–465, title I, §112(a), Dec. 8, 1994, 108 Stat.4825; Pub. L. 104–295, §27, Oct. 11, 1996, 110 Stat. 3533, provided that:
+
+“(b)
+
+Effective Date.—The amendment made by this section \[amending this section\] shall apply to—
 
 &emsp;“(1) any entry made before the date of enactment of this Act \[Aug. 20, 1990\] that is not liquidated on the date of enactment of this Act,
 
@@ -116,13 +120,101 @@ Section 484E(b) of Pub. L. 101–382, as amended by Pub. L. 103–465, title I, 
 
 &emsp;&emsp;“(A) on or after the date of enactment of this Act, and
 
-&emsp;&emsp;“(B) on or before December 31, 1992, and
+&emsp;&emsp;“(B) on or before December 31, 1992,
 
-&emsp;“(3) any entry made pursuant to section 466(h)(1) or (2) of the Tariff Act of 1930 (19 U.S.C. 1466(h)(1) or (2)), on or after the date of the entry into force of the WTO Agreement with respect to the United States \[Jan. 1, 1995\].”
+&emsp;“(3) any entry listed in subsection (c) that was made during the period beginning on January 1, 1993, and ending on December 31, 1994, to the extent such entry involves the purchase of equipment, the use of materials, or the expense of repairs in a foreign country for 66 LASH (Lighter Aboard Ship) barges documented under the laws of the United States if—
+
+&emsp;&emsp;“(A) such entry was not liquidated on January 1, 1995; and
+
+&emsp;&emsp;“(B) such entry, had it been made on or after January 1, 1995, would otherwise be eligible for the exemption provided in section 466(h)(1) of the Tariff Act of 1930 (19 U.S.C. 1466(h)(1)), and
+
+&emsp;“(4) any entry made pursuant to section 466(h)(1) or (2) of the Tariff Act of 1930 (19 U.S.C. 1466(h)(1) or (2)), on or after the date of the entry into force of the WTO Agreement with respect to the United States \[Jan. 1, 1995\].
+
+“(c)
+
+Entries.—The entries referred to in subsection (b)(3) are the following:
+
+&emsp;“(1)
+
+Numbered entries.—
+
+&nbsp;
+
+| <b>Entry Number</b> | <b>Date of Entry</b> |
+| :--- | ---: |
+| C14–0025455–8 | August 18, 1993 |
+| C14–0025456–6 | August 18, 1993 |
+| C14–0025457–4 | August 18, 1993 |
+| C14–0025473–1 | August 27, 1993 |
+| C14–0025478–0 | September 13, 1993 |
+| C14–0025479–8 | September 13, 1993 |
+| C14–0025480–6 | September 13, 1993 |
+| C14–0025481–4 | September 13, 1993 |
+| C14–0025511–8 | April 16, 1993 |
+| C14–0025533–2 | April 30, 1993 |
+| C14–0025545–6 | May 21, 1993 |
+| C14–0025546–4 | May 21, 1993 |
+| C14–0025547–2 | May 21, 1993 |
+| C14–0025558–9 | June 15, 1993 |
+| C14–0025560–5 | June 15, 1993 |
+| C14–0025574–6 | July 21, 1993 |
+| C14–0025575–3 | July 21, 1993 |
+| C14–0025603–3 | July 23, 1993 |
+| C14–0025604–1 | July 23, 1993 |
+| C14–0025605–8 | July 23, 1993 |
+| C14–0025623–1 | October 25, 1993 |
+| C14–0025624–9 | October 25, 1993 |
+| C14–0025625–6 | October 25, 1993 |
+| C14–0025635–5 | November 8, 1993 |
+| C14–0025636–3 | November 8, 1993 |
+| C14–0025637–1 | November 8, 1993 |
+| C14–0025653–8 | November 30, 1993 |
+| C14–0025654–6 | November 30, 1993 |
+| C14–0025655–3 | November 30, 1993 |
+| C14–0025657–9 | November 30, 1993 |
+| C14–0025679–3 | January 3, 1994 |
+| C14–0025680–1 | January 3, 1994 |
+| C14–0025688–4 | February 14, 1994 |
+| C14–0025689–2 | February 14, 1994 |
+| C14–0025690–0 | February 14, 1994 |
+| C14–0025691–8 | February 14, 1994 |
+| C14–0025692–6 | February 14, 1994 |
+| C14–0026803–8 | January 24, 1994 |
+| C14–0026804–6 | January 24, 1994 |
+| C14–0026805–3 | January 24, 1994 |
+| C14–0026807–9 | January 24, 1994 |
+| C14–0026808–7 | January 24, 1994 |
+| C14–0026809–5 | January 24, 1994 |
+| C14–0026810–3 | January 24, 1994 |
+| C14–0026811–1 | January 24, 1994 |
+| C14–0026826–9 | March 10, 1994 |
+| C14–0026827–7 | March 10, 1994 |
+| C14–0026828–5 | March 10, 1994 |
+| C14–0026829–3 | March 10, 1994 |
+| C14–0026830–1 | March 10, 1994 |
+| C14–0026831–9 | March 10, 1994 |
+| C14–0026832–7 | March 10, 1994 |
+| C14–0026833–5 | March 10, 1994 |
+| C14–0026841–8 | March 31, 1994 |
+| C14–0026843–4 | March 31, 1994 |
+| C14–0026852–5 | May 5, 1994 |
+| C14–0026853–3 | May 5, 1994 |
+| C14–0026854–1 | May 5, 1994 |
+| C14–0026867–3 | May 18, 1994 |
+| C14–0026869–9 | May 18, 1994 |
+| C14–0026874–9 | June 8, 1994 |
+| C14–0026875–6 | June 8, 1994 |
+| C14–0026898–8 | August 2, 1994 |
+| C14–0026899–6 | August 2, 1994 |
+| C14–0040625–7 | October 5, 1994. |
+
+&emsp;“(2)
+
+Additional entry.—The entry of a 66th LASH barge (No. CG E69), for which no entry number is available, if, within 60 days after the date of the enactment of this subsection \[Oct. 11, 1996\], a proper entry is filed with the Customs Service.”
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–418 effective Jan. 1, 1989, and applicable with respect to articles entered on or after such date, see section 1217(b)(1) of Pub. L. 100–418,set out as an Effective Date note under section 3001 of this title.
+Amendment by Pub. L. 100–418 effective Jan. 1, 1989, and applicable with respect to articles entered on or after such date, see section 1217(b)(1) of Pub. L. 100–418, set out as an Effective Date note under section 3001 of this title.
 
 #### Effective Date of 1984 Amendment
 
@@ -144,7 +236,7 @@ Section 115(b) of Pub. L. 96–609 provided that: “Upon request therefor filed
 
 &emsp;“(2) with respect to which there would have been no duty if the amendment made by subsection (a) \[adding subsec. (g) of this section\] applied to such entry or withdrawal;
 
-> shall, notwithstanding the provisions of section 514 of the Tariff Act of 1930 \[section 1514 of this title\] or any other provision of law, be liquidated or reliquidated as though such entry or withdrawal had been made on the date of the enactment of this Act.”
+> shall, notwithstanding the provisions of section 514 of the Tariff Act of 1930 \[section 1514 of this title\] or any other provision of law, be liquidated or reliquidated asthough such entry or withdrawal had been made on the date of the enactment of this Act.”
 
 #### Entries Made in Connection With Arrivals of Vessels On or After January 5, 1971; Entries in Connection With the Arrival of Shrimp Vessels After January 1, 1969, and Before January 5, 1971
 

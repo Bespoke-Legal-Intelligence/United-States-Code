@@ -4,7 +4,3 @@ To make payments under grants under sections 300t–12 and 300t–13 of this tit
 
 (July 1, 1944, ch. 373, title XVI, §1644, as added Oct. 4, 1979, Pub. L. 96–79, title III, §301(a), 93 Stat. 640.)
 
-### SUBCHAPTER XV—HEALTH INFORMA-
-
-### TION AND HEALTH PROMOTION
-

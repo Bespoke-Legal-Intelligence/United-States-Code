@@ -18,7 +18,7 @@ A petition to cancel a registration of a mark, stating the grounds relied upon, 
 
 #### References in Text
 
-Acts March 3, 1881 and February 20, 1905, referred to in opening par. and pars. (2) and (4), are acts Mar. 3, 1881, ch. 138, 21 Stat. 502 and Feb. 20, 1905, ch. 592, 33Stat. 724, which were repealed insofar as inconsistent with this chapter by act July 5, 1946, ch. 540, §46(a), 60 Stat. 444. Act Feb. 20, 1905, was classified to sections 81 to 109 of this title.
+Acts March 3, 1881 and February 20, 1905, referred to in opening par. and pars. (2) and (4), are acts Mar. 3, 1881, ch. 138, 21 Stat. 502 and Feb. 20, 1905, ch. 592, 33 Stat. 724, which were repealed insofar as inconsistent with this chapter by act July 5, 1946, ch. 540, §46(a), 60 Stat. 444. Act Feb. 20, 1905, was classified to sections 81 to 109 of this title.
 
 #### Prior Provisions
 
@@ -38,7 +38,7 @@ Par. (4). Pub. L. 100–667, §115(5), substituted “(4) At” for “(d) at”
 
 Par. (5). Pub. L. 100–667, §115(6), substituted “(5) At” for “(e) at” and redesignated former pars. (1) to (4) as subpars. (A) to (D), respectively.
 
-1984—Par. (c). Pub. L. 98–620 inserted provision that a registered mark shall not be deemed to be the common descriptive name of goods or services solely because such mark is also used as a name of or to identify a unique product or service, and that the primary significance of the registered mark to the relevant public rather than purchaser motivation shall be the test for determining whether the registered mark has become the common descriptive name of goods or services in connection with which it has been used.
+1984—Par. (c). Pub. L. 98–620 inserted provision that a registered mark shall not be deemed to be the common descriptive name of goods or services solely because such mark is also used as a name of or to identify aunique product or service, and that the primary significance of the registered mark to the relevant public rather than purchaser motivation shall be the test for determining whether the registered mark has become the common descriptive name of goods or services in connection with which it has been used.
 
 1982—Pub. L. 97–247 struck out “verified” before “petition to cancel” in provision preceding par. (a).
 

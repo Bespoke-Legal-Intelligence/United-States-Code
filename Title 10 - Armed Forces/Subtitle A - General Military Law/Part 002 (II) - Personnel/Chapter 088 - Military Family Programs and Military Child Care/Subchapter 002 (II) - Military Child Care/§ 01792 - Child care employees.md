@@ -1,0 +1,60 @@
+### §1792. Child care employees
+
+(a)
+
+Required Training.—(1) The Secretary of Defense shall prescribe regulations implementing,<sup>1</sup> a training program for child care employees. Those regulations shall apply uniformly among the military departments. Subject to paragraph (2), satisfactory completion of the training program shall be a condition of employment of any person as a child care employee.
+
+(2) Under those regulations, the Secretary shall require that each child care employee complete the training program not later than six months after the date on which the employee is employed as a child care employee.
+
+(3) The training program established under this subsection shall cover, at a minimum, training in the following:
+
+&emsp;(A) Early childhood development.
+
+&emsp;(B) Activities and disciplinary techniques appropriate to children of different ages.
+
+&emsp;(C) Child abuse prevention and detection.
+
+&emsp;(D) Cardiopulmonary resuscitation and other emergency medical procedures.
+
+(b)
+
+Training and Curriculum Specialists.—(1) The Secretary of Defense shall require that at least one employee at each military child development center be a specialist in training and curriculum development. The Secretary shall ensure that such employees have appropriate credentials and experience.
+
+(2) The duties of such employees shall include the following:
+
+&emsp;(A) Special teaching activities at the center.
+
+&emsp;(B) Daily oversight and instruction of other child care employees at the center.
+
+&emsp;(C) Daily assistance in the preparation of lesson plans.
+
+&emsp;(D) Assistance in the center's child abuse prevention and detection program.
+
+&emsp;(E) Advising the director of the center on the performance of other child care employees.
+
+(3) Each employee referred to in paragraph (1) shall be an employee in a competitive service position.
+
+(c)
+
+Competitive Rates of Pay.—For the purpose of providing military child development centers with a qualified and stable civilian workforce, employees at a military installation who are directly involved in providing child care and are paid from nonappropriated funds—
+
+&emsp;(1) in the case of entry-level employees, shall be paid at rates of pay competitive with the rates of pay paid to other entry-level employees at that installation who are drawn from the same labor pool; and
+
+&emsp;(2) in the case of other employees, shall be paid at rates of pay substantially equivalentto the rates of pay paid to other employees at that installation with similar training, seniority, and experience.
+
+(d)
+
+Employment Preference Program for Military Spouses.—(1) The Secretary of Defense shall conduct a program under which qualified spouses of members of the armed forces shall be given a preference in hiring for the position of child care employee in a position paid from nonappropriated funds if the spouse is among persons determined to be best qualified for the position.
+
+(2) A spouse who is provided a preference under this subsection at a military child development center may not be precluded from obtaining another preference, in accordance with section 1794 <sup>2</sup> of this title, in the same geographic area as the military child development center.
+
+(e)
+
+Competitive Service Position Defined.—In this section, the term “competitive service position” means a position in the competitive service, as defined in section 2102(a)(1) of title 5.
+
+(Added Pub. L. 104–106, div. A, title V, §568(a)(1), Feb. 10, 1996, 110 Stat. 332.)
+
+<i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be “1784”.</i>
+

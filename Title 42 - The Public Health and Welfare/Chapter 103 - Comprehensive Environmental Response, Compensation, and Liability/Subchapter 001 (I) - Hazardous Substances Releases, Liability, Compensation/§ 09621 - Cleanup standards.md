@@ -96,7 +96,7 @@ If the President selects a remedial action that results in any hazardous substan
 
 (1) No Federal, State, or local permit shall be required for the portion of any removal or remedial action conducted entirely onsite, where such remedial action is selected and carried out in compliance with this section.
 
-(2) A State may enforce any Federal or State standard, requirement, criteria, or limitation to which the remedial action is required to conform under this chapter in the United Statesdistrict court for the district in which the facility is located. Any consent decree shall require the parties to attempt expeditiously to resolve disagreements concerning implementation of the remedial action informally with the appropriate Federal and State agencies. Where the parties agree, the consent decree may provide for administrative enforcement. Each consent decree shall also contain stipulated penalties for violations of the decree in an amount not to exceed $25,000 per day, which may be enforced by either the President or the State. Such stipulated penalties shall not be construed to impair or affect the authority of the court to order compliance with the specific terms of any such decree.
+(2) A State may enforce any Federal or State standard, requirement, criteria, or limitation to which the remedial action is required to conform under this chapter in the United States district court for the district in which the facility is located. Any consent decree shall require the parties to attempt expeditiously to resolve disagreements concerning implementation of the remedial action informally with the appropriate Federal and State agencies. Where the parties agree, the consent decree may provide for administrative enforcement. Each consent decree shall also contain stipulated penalties for violations of the decree in an amount not to exceed $25,000 per day, which may be enforced by either the President or the State. Such stipulated penalties shall not be construed to impair or affect the authority of the court to order compliance with the specific terms of any such decree.
 
 #### (f) State involvement
 
@@ -130,7 +130,7 @@ If the President selects a remedial action that results in any hazardous substan
 
 > Prior to the promulgation of such regulations, the President shall provide notice to the State of negotiations with potentially responsible parties regarding the scope of any response action at a facility in the State, and such State may participate in such negotiations and, subject to paragraph (2), any settlements.
 
-(2)(A) This paragraph shall apply to remedial actions secured under section 9606 of this title. At least 30 days prior to the entering of any consent decree, if the President proposes to select a remedial action that does not attain a legally applicable or relevant and appropriate standard, requirement, criteria, or limitation, under the authority of subsection (d)(4) of this section, the President shall provide an opportunity for the State to concur or not concur in such selection. If the State concurs, the State may become a signatory to the consent decree.
+(2)(A) This paragraph shall apply to remedial actions secured under section 9606 of this title.At least 30 days prior to the entering of any consent decree, if the President proposes to select a remedial action that does not attain a legally applicable or relevant and appropriate standard, requirement, criteria, or limitation, under the authority of subsection (d)(4) of this section, the President shall provide an opportunity for the State to concur or not concur in such selection. If the State concurs, the State may become a signatory to the consent decree.
 
 (B) If the State does not concur in such selection, and the State desires to have the remedial action conform to such standard, requirement, criteria, or limitation, the State shall intervene in the action under section 9606 of this title before entry of the consent decree, to seek to have the remedial action so conform. Such intervention shall be a matter of right. The remedial action shall conform to such standard, requirement, criteria, or limitation if the State establishes, on the administrative record, that the finding of the President was not supported by substantial evidence. If the court determines that the remedial action shall conform to such standard, requirement, criteria, or limitation, the remedial action shall be so modified and the State may become a signatory to the decree. If the court determines that the remedial action need not conform to such standard, requirement, criteria, or limitation, and the State pays or assures the payment of the additional costs attributable to meeting such standard, requirement, criteria, or limitation, the remedial action shall be so modified and the State shall become a signatory to the decree.
 
@@ -140,7 +140,7 @@ If the President selects a remedial action that results in any hazardous substan
 
 (B) If the State does not concur in such selection as provided in subparagraph (A), and desires to have the remedial action conform to such standard, requirement, criteria, or limitation, the State may maintain an action as follows:
 
-&emsp;(i) If the President has notified the State of selection of such a remedial action, the State may bring an action within 30 days of such notification for the sole purpose of determining whether the finding of the President is supported by substantial evidence. Such action shall be brought in the United States districtcourt for the district in which the facility is located.
+&emsp;(i) If the President has notified the State of selection of such a remedial action, the State may bring an action within 30 days of such notification for the sole purpose of determining whether the finding of the President is supported by substantial evidence. Such action shall be brought in the United States district court for the district in which the facility is located.
 
 &emsp;(ii) If the State establishes, on the administrative record, that the President's finding is not supported by substantial evidence, the remedial action shall be modified to conform to such standard, requirement, criteria, or limitation.
 
@@ -156,7 +156,7 @@ The Solid Waste Disposal Act, referred to in subsecs. (b)(1)(B) and (d)(2)(A)(i)
 
 The Toxic Substances Control Act, referred to in subsec. (d)(2)(A)(i), (3), is Pub. L. 94–469, Oct. 11, 1976, 90 Stat. 2003, as amended, which is classified generally to chapter 53 (§2601 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of Title 15 and Tables.
 
-The Safe Drinking Water Act, referred to in subsec. (d)(2)(A), is Pub. L. 93–523, Dec. 16, 1974, 88 Stat. 1660, as amended, which is classified principally to subchapter XII (§300f et seq.) of chapter 6A of this title. For complete classification of this Act to the Code, see Short Title of 1974 Amendments note set out under section 201 of this title and Tables.
+The Safe Drinking Water Act, referred to in subsec. (d)(2)(A), is title XIV of act July 1, 1944, as added Dec. 16, 1974, Pub. L. 93–523, §2(a), 88 Stat. 1660, as amended, which is classified generally to subchapter XII (§300f et seq.) of chapter 6A of this title. For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.
 
 The Clean Air Act, referred to in subsec. (d)(2)(A)(i), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§7401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of this title and Tables.
 
@@ -168,7 +168,7 @@ The Marine Protection, Research and Sanctuaries Act, referred to in subsec. (d)(
 
 Section 121(b) of Pub. L. 99–499 provided that: “With respect to section 121 of CERCLA \[this section\], as added by this section—
 
-&emsp;“(1) The requirements of section 121 of CERCLA shall not apply to any remedial action for which the Record of Decision (hereinafter in this section referred to as the ‘ROD’) was signed, or the consent decree was lodged, before date of enactment \[Oct. 17, 1986\].
+&emsp;“(1) The requirements of section 121 of CERCLA shall not apply to any remedial action for which theRecord of Decision (hereinafter in this section referred to as the ‘ROD’) was signed, or the consent decree was lodged, before date of enactment \[Oct. 17, 1986\].
 
 &emsp;“(2) If the ROD was signed, or the consent decree lodged, within the 30-day period immediately following enactment of the Act \[Oct. 17, 1986\], the Administrator shall certify in writing that the portion of the remedial action covered by the ROD or consent decree complies to the maximum extent practicable with section 121 of CERCLA.
 

@@ -36,7 +36,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 154, 207 of this title.
+This chapter is referred to in sections 154, 207 of this title; title 15 section 3710a.
 
 <i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
 

@@ -2,7 +2,7 @@
 
 #### (a) Regulations to insure compliance with standards
 
-The Secretary of Transportation, after consultation with the Administrator, shall prescribe regulations to insure compliance with all standards prescribed under section 7571 of this title by the Administrator. The regulations of the Secretary of Transportation shall include provisions making such standards applicable in the issuance, amendment, modification, suspension, or revocation of any certificate authorized by part A of subtitle VII of title 49 or the Department of Transportation Act. Such Secretary shall insure that all necessary inspections are accomplished, and,<sup>1</sup> may execute any power or duty vested in him by any other provision of law in the execution of all powers and duties vested in him under this section.
+The Secretary of Transportation, after consultation with the Administrator, shall prescribe regulations to insure compliance with all standards prescribed under section 7571 of thistitle by the Administrator. The regulations of the Secretary of Transportation shall include provisions making such standards applicable in the issuance, amendment, modification, suspension, or revocation of any certificate authorized by part A of subtitle VII of title 49 or the Department of Transportation Act. Such Secretary shall insure that all necessary inspections are accomplished, and,<sup>1</sup> may execute any power or duty vested in him by any other provision of law in the execution of all powers and duties vested in him under this section.
 
 #### (b) Notice and appeal rights
 
@@ -12,7 +12,7 @@ In any action to amend, modify, suspend, or revoke a certificate in which violat
 
 #### References in Text
 
-The Department of Transportation Act, referred to in subsecs. (a) and (b), is Pub. L. 89–670, Oct. 15, 1966, 80 Stat. 931, as amended, which was classified principally to sections 1651 to 1660 of former Title 49, Transportation. The Act was repealed and the provisions thereof reenacted in Title 49, Transportation, by Pub. L. 97–449, Jan. 12, 1983, 96 Stat. 2413, and Pub. L. 103–272, July 5, 1994, 108 Stat. 745. For disposition of sections of former Title 49, see Table at the beginning of Title 49.
+The Department of Transportation Act, referred to in subsecs. (a) and (b), is Pub. L. 89–670, Oct. 15, 1966, 80 Stat. 931, as amended, which was classified principally to sections 1651 to 1660 of former Title 49, Transportation. The Act was repealed and the provisions thereof reenacted in Title 49, Transportation, by Pub. L. 97–449, Jan. 12, 1983, 96 Stat. 2413, and Pub. L. 103–272, July 5, 1994, 108 Stat. 745. The Act was also repealed by Pub. L. 104–287, §7(5), Oct. 11, 1996, 110 Stat. 3400. For disposition of sections of former Title 49, see Table at the beginning of Title 49.
 
 #### Codification
 

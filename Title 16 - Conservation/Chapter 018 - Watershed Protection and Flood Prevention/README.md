@@ -22,12 +22,16 @@
 | [1008\.](%C2%A7%2001008%20-%20Notification%20of%20Secretary%20of%20the%20Interior%20of%20approval%20of%20assistance%3B%20surveys%20and%20investigations%3B%20report%20and%20recommendations%E2%80%A6.md) | Notification of Secretary of the Interior of approval of assistance; surveys and investigations; report and recommendations; consideration; cost of surveys, investigations and reports. |
 | [1009\.](%C2%A7%2001009%20-%20Joint%20investigations%20and%20surveys%20by%20Secretary%20of%20the%20Army%20and%20Secretary%20of%20Agriculture%3B%20reports%20to%20Congress.md) | Joint investigations and surveys by Secretary of the Army and Secretary of Agriculture; reports to Congress. |
 | [1010\.](%C2%A7%2001010%20-%20Data.md) | Data. |
+| [1011\.](%C2%A7%2001011%20-%20Watershed%20restoration%20and%20enhancement%20agreements.md) | Watershed restoration and enhancement agreements. |
+| (a) | In general. |
+| (b) | Direct and indirect watershed agreements. |
+| (c) | Terms and conditions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to section 460<i>l–</i>17 of this title; title 7 section 1931; title 22 section 277d–29; title 30 section 1265; title 33 sections 1288, 2298, 2311; title 40 App. section 214; title 42 section 3131.
+This chapter is referred to section 460<i>l–</i>17 of this title; title 22 section 277d–29; title 30 section 1265; title 33 sections 1288, 2298, 2311; title 40 App. section 214; title 42 section 3131.
 
 
 ---
@@ -47,3 +51,4 @@ This chapter is referred to section 460<i>l–</i>17 of this title; title 7 sect
 - [&sect; 01008 - Notification of Secretary of the Interior of approval of assistance; surveys and investigations; report and recommendations&#8230;](%C2%A7%2001008%20-%20Notification%20of%20Secretary%20of%20the%20Interior%20of%20approval%20of%20assistance%3B%20surveys%20and%20investigations%3B%20report%20and%20recommendations%E2%80%A6.md)
 - [&sect; 01009 - Joint investigations and surveys by Secretary of the Army and Secretary of Agriculture; reports to Congress](%C2%A7%2001009%20-%20Joint%20investigations%20and%20surveys%20by%20Secretary%20of%20the%20Army%20and%20Secretary%20of%20Agriculture%3B%20reports%20to%20Congress.md)
 - [&sect; 01010 - Data](%C2%A7%2001010%20-%20Data.md)
+- [&sect; 01011 - Watershed restoration and enhancement agreements](%C2%A7%2001011%20-%20Watershed%20restoration%20and%20enhancement%20agreements.md)

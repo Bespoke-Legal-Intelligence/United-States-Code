@@ -2,15 +2,11 @@
 
 (a)
 
-Authority To Accept Contributions.—The Secretary of Defense, after consultation with the Secretary of State, may accept cash contributions from any country or regional organization designated for purposes of this section by the Secretary of Defense, in consultation with the Secretary of State, for the purposes specified in subsection (c).
+Authority To Accept Contributions.—The Secretary of Defense, after consultation with the Secretary of State, may accept cashcontributions from any country or regional organization designated for purposes of this section by the Secretary of Defense, in consultation with the Secretary of State, for the purposes specified in subsection (c).
 
 (b)
 
-Credit to Appropriations.—Contributions accepted in a fiscal year under subsection (a) shall be credited to appropriations of the Department of Defense that are available for that fiscal year for the purposes for which the contributions are made. The contributions so credited shall be—
-
-&emsp;(1) merged with the appropriations to which they are credited; and
-
-&emsp;(2) available for the same time period as those appropriations.
+Accounting.—Contributions accepted under subsection (a) which are not related to security assistance may be accepted, managed, and expended in dollars or in the currency of the host nation (or, in the case of a contribution from a regional organization, in the currency in which the contribution was provided). Any such contribution shall be placed in an account established for such purpose and shall remain available until expended for the purposes specified in subsection (c). The Secretary of Defense shall establish a separate account for such purpose for each country or regional organization from which such contributions are accepted under subsection (a).
 
 (c)
 
@@ -24,7 +20,7 @@ Availability of Contributions.—Contributions accepted under subsection (a) sha
 
 (d)
 
-Authorization of Military Construction.—Contributions credited under subsection (b) to an appropriation account of the Department of Defense may be used—
+Authorization of Military Construction.—Contributions placed in an account established under subsection (b) may be used—
 
 &emsp;(1) by the Secretary of Defense to carry out a military construction project that is consistent with the purposes for which the contributions were made and is not otherwise authorized by law; or
 
@@ -32,7 +28,7 @@ Authorization of Military Construction.—Contributions credited under subsectio
 
 (e)
 
-Notice and Wait Requirements.—(1) When a decision is made to carry out a military construction project under subsection (d), the Secretary of Defense shall submit a report to the congressional defense committees containing—
+Notice and Wait Requirements.—(1) When a decision is made to carry out a military construction project under subsection (d), the Secretary of Defense shall submit to the congressional committees specified in subsection (g) a report containing—
 
 &emsp;(A) an explanation of the need for the project;
 
@@ -50,13 +46,35 @@ Reports.—Not later than 30 days after the end of each fiscal year, the Secreta
 
 &emsp;(2) the amount of the contributions expended by the Secretary during the preceding fiscal year and the purposes for which the contributions were expended.
 
-(Added Pub. L. 103–160, div. A, title XIV, §1402(a), Nov. 30, 1993, 107 Stat. 1825; amended Pub. L. 103–337, div. A, title X, §1070(a)(10), Oct. 5, 1994, 108 Stat. 2856.)
+(g)
+
+Congressional Committees.—The congressional committees referred to in subsection (e)(1) are—
+
+&emsp;(1) the Committee on Armed Services and the Committee on Appropriations of the Senate; and
+
+&emsp;(2) the Committee on National Security and the Committee on Appropriations of the House of Representatives.
+
+(Added Pub. L. 103–160, div. A, title XIV, §1402(a), Nov. 30, 1993, 107 Stat. 1825; amended Pub. L. 103–337, div. A, title X, §1070(a)(10), Oct. 5, 1994, 108 Stat. 2856; Pub. L. 104–106, div. A, title XIII, §1331, Feb. 10, 1996, 110 Stat. 482.)
 
 #### Codification
 
 Section, as added by Pub. L. 103–160, consists of text of Pub. L. 102–190, div. A, title X, §1045, Dec. 5, 1991, 105 Stat. 1465, as amended by Pub. L. 102–484, div. A, title XIII, §1305(a), (b), Oct. 23, 1992, 106 Stat. 2546, and revised by Pub. L. 103–160, in subsec. (a), by substituting “The Secretary” for “During fiscal years 1992 and 1993, the Secretary”, inserting “, after consultation with the Secretary of State,” after “Secretary of Defense”, and substituting “from any country or regional organization designated for purposes of this section by the Secretary of Defense, in consultation with the Secretary of State” for “from Japan, Kuwait, and the Republic of Korea”, and in subsec. (f), by substituting “each fiscal year” for “each quarter of fiscal years 1992 and 1993”, “Congress” for “congressional defense committees”, “each country and regional organization from which contributions have been accepted by the Secretary under subsection (a)” for “Japan, Kuwait, and the Republic of Korea”, and “the preceding fiscal year” for “the preceding quarter” in pars. (1) and (2).
 
 #### Amendments
+
+1996—Subsec. (b). Pub. L. 104–106, §1331(a), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “
+
+Credit to Appropriations.—Contributions accepted in a fiscal year under subsection (a) shall be credited to appropriations of the Department of Defense that are available for that fiscal year for the purposes for which the contributions are made. The contributions so credited shall be—
+
+&emsp;“(1) merged with the appropriations to which they are credited; and
+
+&emsp;“(2) available for the same time period as those appropriations.”
+
+Subsec. (d). Pub. L. 104–106, §1331(b), substituted “placed in an account established under subsection (b)” for “credited under subsection (b) to an appropriation account of the Department of Defense”.
+
+Subsec. (e)(1). Pub. L. 104–106, §1331(c)(1), substituted “to the congressional committees specified in subsection (g) a report” for “a report to the congressional defense committees”.
+
+Subsec. (g). Pub. L. 104–106, §1331(c)(2), added subsec. (g).
 
 1994—Subsec. (a). Pub. L. 103–337, §1070(a)(10)(A), inserted a comma after second reference to “Secretary of State”.
 

@@ -1,8 +1,8 @@
 ### §1003. Demands against the United States
 
-Whoever knowingly and fraudulently demands or endeavors to obtain any share or sum in the public stocks of the United States, or to have any part thereof transferred, assigned, sold, or conveyed, or to have any annuity, dividend, pension, wages, gratuity, or other debt due from the United States, or any part thereof, received, or paid by virtue of any false, forged, or counterfeited power of attorney, authority, or instrument, shall be fined under this title or imprisoned not more than five years, or both; but if the sum or value so obtained or attempted to be obtained does not exceed $100, he shall be fined under this title or imprisoned not more than one year, or both.
+Whoever knowingly and fraudulently demands or endeavors to obtain any share or sum in the public stocks of the United States, or to have any part thereof transferred, assigned, sold, or conveyed, or to have any annuity, dividend, pension, wages, gratuity, or other debt due from the United States, or any part thereof, received, or paid by virtue of any false, forged, or counterfeited power of attorney, authority, or instrument, shall be fined under this title or imprisoned not more than five years, or both; but if the sum or value so obtained or attempted to be obtained does not exceed $1,000, he shall be fined under this title or imprisoned not more than one year, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 749; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(H), (L), 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 749; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(H), (L), 108 Stat. 2147; Oct. 11, 1996, Pub. L. 104–294, title VI, §606(a), 110 Stat. 3511.)
 
 #### Historical and Revision Notes
 
@@ -19,6 +19,8 @@ The maximum term of “five years” was substituted for “ten years” and “
 Minor changes in phraseology were made.
 
 #### Amendments
+
+1996—Pub. L. 104–294 substituted “$1,000” for “$100”.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $10,000” after “instrument, shall be” and for “fined not more than $1,000” after “he shall be”.
 

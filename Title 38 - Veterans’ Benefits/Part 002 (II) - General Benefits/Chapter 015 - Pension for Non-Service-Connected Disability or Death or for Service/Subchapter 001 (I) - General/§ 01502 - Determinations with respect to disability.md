@@ -1,6 +1,6 @@
 ### §1502. Determinations with respect to disability
 
-(a) For the purposes of this chapter, a person shall be considered to be permanently and totally disabled if such a person is unemployableas a result of disability reasonably certain to continue throughout the life of the disabled person, or is suffering from—
+(a) For the purposes of this chapter, a person shall be considered to be permanently and totally disabled if such a person is unemployable as a result of disability reasonably certain to continue throughout the life of the disabled person, or is suffering from—
 
 &emsp;(1) any disability which is sufficient to render it impossible for the average person to follow a substantially gainful occupation, but only if it is reasonably certain that such disability will continue throughout the life of the disabled person; or
 

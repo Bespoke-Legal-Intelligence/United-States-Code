@@ -15,11 +15,15 @@
 | [7431\.](%C2%A7%2007431%20-%20Civil%20damages%20for%20unauthorized%20disclosure%20of%20returns%20and%20return%20information.md) | Civil damages for unauthorized disclosure of returns and return information. |
 | [7432\.](%C2%A7%2007432%20-%20Civil%20damages%20for%20failure%20to%20release%20lien.md) | Civil damages for failure to release lien. |
 | [7433\.](%C2%A7%2007433%20-%20Civil%20damages%20for%20certain%20unauthorized%20collection%20actions.md) | Civil damages for certain unauthorized collection actions. |
-| [7434\.](%C2%A7%2007434%20-%20Cross%20references.md) | Cross references. |
+| [7434\.](%C2%A7%2007434%20-%20Civil%20damages%20for%20fraudulent%20filing%20of%20information%20returns.md) | Civil damages for fraudulent filing of information returns. |
+| [7435\.](%C2%A7%2007435%20-%20Civil%20damages%20for%20unauthorized%20enticement%20of%20information%20disclosure.md) | Civil damages for unauthorized enticement of information disclosure. |
+| [7436\.](%C2%A7%2007436%20-%20Cross%20references.md) | Cross references. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1996—Pub. L. 104–168, title VI, §601(b), title XII, §1203(b), July 30, 1996, 110 Stat. 1462, 1471, added items 7434 and 7435 and redesignated former item 7434 as 7436.
 
 1988—Pub. L. 100–647, title VI, §§6237(e)(4), 6239(c), 6240(b), 6241(c), Nov. 10, 1988, 102 Stat. 3743, 3746–3748, inserted “levy or” after “jeopardy” in item 7429, struck out “court” after “Awarding of” in item 7430, added items 7432 and 7433, and redesignated former item 7432 as 7434.
 
@@ -51,4 +55,6 @@ This subchapter is referred to in section 6103 of this title.
 - [&sect; 07431 - Civil damages for unauthorized disclosure of returns and return information](%C2%A7%2007431%20-%20Civil%20damages%20for%20unauthorized%20disclosure%20of%20returns%20and%20return%20information.md)
 - [&sect; 07432 - Civil damages for failure to release lien](%C2%A7%2007432%20-%20Civil%20damages%20for%20failure%20to%20release%20lien.md)
 - [&sect; 07433 - Civil damages for certain unauthorized collection actions](%C2%A7%2007433%20-%20Civil%20damages%20for%20certain%20unauthorized%20collection%20actions.md)
-- [&sect; 07434 - Cross references](%C2%A7%2007434%20-%20Cross%20references.md)
+- [&sect; 07434 - Civil damages for fraudulent filing of information returns](%C2%A7%2007434%20-%20Civil%20damages%20for%20fraudulent%20filing%20of%20information%20returns.md)
+- [&sect; 07435 - Civil damages for unauthorized enticement of information disclosure](%C2%A7%2007435%20-%20Civil%20damages%20for%20unauthorized%20enticement%20of%20information%20disclosure.md)
+- [&sect; 07436 - Cross references](%C2%A7%2007436%20-%20Cross%20references.md)

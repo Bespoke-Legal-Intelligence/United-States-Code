@@ -88,7 +88,7 @@ Report.—Not later than 1 year after the date of enactment of this Act \[Dec. 1
 
 “(c)
 
-Definitions.—For purposes of this section, the terms ‘insured depository institution’ and ‘Federalbanking agency’ have the same meanings as in section 3 of the Federal Deposit Insurance Act \[12 U.S.C. 1813\].”
+Definitions.—For purposes of this section, the terms ‘insured depository institution’ and ‘Federal banking agency’ have the same meanings as in section 3 of the Federal Deposit Insurance Act \[12 U.S.C. 1813\].”
 
 #### Study and Report Assessing Feasibility and Usefulness of Depository Institutions Making Small Business Loans To Compile and Disclose Loan Information
 
@@ -96,5 +96,5 @@ Pub. L. 96–399, title III, §340(d), Oct. 8, 1980, 94 Stat. 1659, directed Fed
 
 #### Evaluation and Report on Feasibility and Desirability of Establishing a Unified System for Enforcing Fair Lending Laws and Regulations
 
-Pub. L. 96–399, title III, §340(e), Oct. 8, 1980, 94 Stat. 1659, directed Federal Financial Institutions Examination Council to transmit a report to Congress not later than Sept. 30, 1982, on feasibility and desirability of establishing a unified system for enforcing fair lending laws and regulations, implementing Community Reinvestment Act of 1977 \[12 U.S.C. 2901 et seq.\], and satisfying public disclosure purposes of Home Mortgage Disclosure Act of 1975 \[12 U.S.C. 2801 et seq.\], such report to evaluate status and effectiveness of data collection and analysis systems of such agencies involving fair lending and community reinvestment, and to outline possible specific timetables for implementing such a unified system.
+Pub. L. 96–399, title III, §340(e), Oct. 8, 1980, 94 Stat. 1659, directed Federal Financial Institutions Examination Council to transmit a report to Congress not later than Sept. 30, 1982, on feasibility and desirability of establishing a unified system for enforcing fair lending laws and regulations, implementing Community Reinvestment Act of 1977 \[12 U.S.C. 2901 et seq.\], and satisfying public disclosure purposes of Home Mortgage Disclosure Act of 1975 \[12 U.S.C. 2801 et seq.\], such reportto evaluate status and effectiveness of data collection and analysis systems of such agencies involving fair lending and community reinvestment, and to outline possible specific timetables for implementing such a unified system.
 

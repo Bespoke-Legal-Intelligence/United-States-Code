@@ -10,8 +10,6 @@
 | (c) | Disbursement of apportioned funds by State; preference for schools in poor economic areas, for students traveling long distances daily, and for schools for improvement of nutrition and dietary practices of children of working mothers and from low-income families. |
 | (d) | Severe need assistance; eligibility standards; receipt of lesser of operating costs of breakfast program or meal reimbursement rate. |
 | (e) | Nutritional requirements; service free or at reduced price; compliance assistance. |
-| (f) | Expansion of program. |
-| (g) | Startup and expansion costs. |
 | [1774\.](%C2%A7%2001774%20-%20Disbursement%20directly%20to%20schools%20or%20institutions.md) | Disbursement directly to schools or institutions. |
 | [1775\.](%C2%A7%2001775%20-%20Certification%20to%20Secretary%20of%20the%20Treasury%20of%20amounts%20to%20be%20paid%20to%20States.md) | Certification to Secretary of the Treasury of amounts to be paid to States. |
 | [1776\.](%C2%A7%2001776%20-%20State%20administrative%20expenses.md) | State administrative expenses. |
@@ -19,11 +17,9 @@
 | (b) | Funds, usage: compensation, benefits, and travel expenses of personnel; support services; office equipment; staff development. |
 | (c) | Fund adjustment; State administered programs. |
 | (d) | Unused funds; availability for obligation and expenditure, and reallocation to other States. |
-| (e) | Commodity distribution program. |
-| (f) | State plan; use of funds. |
-| (g) | State funding requirement. |
-| (h) | State participation in study or survey requirement. |
-| (i) | Authorization of appropriations. |
+| (e) | State plan; use of funds. |
+| (f) | State funding requirement. |
+| (g) | Authorization of appropriations. |
 | 1776a, 1776b. Omitted. |  |
 | [1777\.](%C2%A7%2001777%20-%20Use%20in%20school%20breakfast%20program%20of%20food%20designated%20as%20being%20in%20abundance%20or%20food%20donated%20by%20the%20Secretary%20of%20Agriculture.md) | Use in school breakfast program of food designated as being in abundance or food donated by the Secretary of Agriculture. |
 | [1778\.](%C2%A7%2001778%20-%20Nonprofit%20programs.md) | Nonprofit programs. |
@@ -40,7 +36,7 @@
 | [1786\.](%C2%A7%2001786%20-%20Special%20supplemental%20nutrition%20program%20for%20women%2C%20infants%2C%20and%20children.md) | Special supplemental nutrition program for women, infants, and children. |
 | (a) | Congressional findings and declaration of purpose. |
 | (b) | Definitions. |
-| (c) | Grants-in-aid; cash grants; ratable reduction of amount an agency may distribute; affirmative action; regulations relating to dual receipt of benefits under commodity supplemental food program; promotion. |
+| (c) | Grants-in-aid; cash grants; ratable reduction of amount an agency may distribute; affirmative action; regulations relating to dual receipt of benefits under commodity supplemental food program. |
 | (d) | Eligible participants. |
 | (e) | Nutrition education and drug abuse education. |
 | (f) | Plan of operation and administration by State agency. |
@@ -49,12 +45,10 @@
 | (i) | Division of funds formula; reallocation of unspent funds; use of State allocation to buy supplemental foods; use of amounts available for succeeding fiscal year. |
 | (j) | Initiative to provide program services at community and migrant health centers. |
 | (k) | National Advisory Council on Maternal, Infant, and Fetal Nutrition; establishment; membership; term; officers; meetings; quorum; study on program improvement; report to President and Congress; technical assistance by Secretary. |
-| (<i>l)</i> | Donation of foods by Secretary. |
+| (<i>l</i>) | Donation of foods by Secretary. |
 | (m) | Women, infants, and children farmers’ market nutrition program; establishment, grants, etc. |
-| (n) | Study of methods of drug abuse education instruction. |
-| (<i>o)</i> | Demonstration program for establishment of clinics at community colleges offering nursing education programs. |
-| (p) | Grants for improvement and updating of information and data systems. |
-| [1787\.](%C2%A7%2001787%20-%20Cash%20grants%20for%20nutrition%20education%3B%20authorization%20of%20appropriations.md) | Cash grants for nutrition education; authorization of appropriations. |
+| (n) | Disqualification of vendors who are disqualified under food stamp program. |
+| [1787\.](%C2%A7%2001787%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93193%2C%20title%20VII%2C%20%C2%A7730%2C%20Aug.%2022%2C%201996%2C%20110%20Stat.%202305.md) | Repealed. |
 | [1788\.](%C2%A7%2001788%20-%20Nutrition%20education%20and%20training.md) | Nutrition education and training. |
 | (a) | Congressional findings. |
 | (b) | Statement of purpose. |
@@ -63,9 +57,8 @@
 | (e) | Agreements with State agencies; regulations. |
 | (f) | Use of funds; planning and assessment grants; administrative expenses. |
 | (g) | Accounts, records, and reports; inspection, audit, and preservation. |
-| (h) | State coordinators for nutrition; duties; budget and need assessment; State plan, contents, review, public hearings. |
+| (h) | State coordinators for nutrition; duties; budget and need assessment. |
 | (i) | Authorization of appropriations; enrollment data. |
-| (j) | Assessment of program. |
 | [1789\.](%C2%A7%2001789%20-%20Department%20of%20Defense%20overseas%20dependents%E2%80%99%20schools.md) | Department of Defense overseas dependents’ schools. |
 | (a) | Purpose of program; availability of payments and commodities. |
 | (b) | Administration of program; eligibility determinations and regulations. |
@@ -77,12 +70,19 @@
 | (b) | Conduct of program. |
 | (c) | Cooperative agreements. |
 | (d) | Gifts, bequests, and devises. |
+| [1791\.](%C2%A7%2001791%20-%20Bill%20Emerson%20Good%20Samaritan%20Food%20Donation%20Act.md) | Bill Emerson Good Samaritan Food Donation Act. |
+| (a) | Short title. |
+| (b) | Definitions. |
+| (c) | Liability for damages from donated food and grocery products. |
+| (d) | Collection or gleaning of donations. |
+| (e) | Partial compliance. |
+| (f) | Construction. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 1752, 1755, 1758, 1759a, 1760, 1761, 1762a, 1765, 1766, 1769, 1769a, 1769d, 1769h, 1776a, 1776b of this title; title 7 sections 2018, 4004; title 8 section 1255a; title 20 section 6082.
+This chapter is referred to in sections 1752, 1755, 1758, 1759a, 1760, 1761, 1762a, 1765, 1766, 1769, 1769h, 1776a, 1776bof this title; title 7 sections 2018, 4004; title 8 sections 1255a, 1613, 1615, 1632; title 20 section 6082.
 
 
 ---
@@ -106,7 +106,8 @@ This chapter is referred to in sections 1752, 1755, 1758, 1759a, 1760, 1761, 176
 - [&sect; 01784 - Definitions](%C2%A7%2001784%20-%20Definitions.md)
 - [&sect; 01785 - Accounts and records; availability for inspection; authority to settle, adjust, or waive claims](%C2%A7%2001785%20-%20Accounts%20and%20records%3B%20availability%20for%20inspection%3B%20authority%20to%20settle%2C%20adjust%2C%20or%20waive%20claims.md)
 - [&sect; 01786 - Special supplemental nutrition program for women, infants, and children](%C2%A7%2001786%20-%20Special%20supplemental%20nutrition%20program%20for%20women%2C%20infants%2C%20and%20children.md)
-- [&sect; 01787 - Cash grants for nutrition education; authorization of appropriations](%C2%A7%2001787%20-%20Cash%20grants%20for%20nutrition%20education%3B%20authorization%20of%20appropriations.md)
+- [&sect; 01787 - Repealed. Pub. L. 104&#8211;193, title VII, &sect;730, Aug. 22, 1996, 110 Stat. 2305](%C2%A7%2001787%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93193%2C%20title%20VII%2C%20%C2%A7730%2C%20Aug.%2022%2C%201996%2C%20110%20Stat.%202305.md)
 - [&sect; 01788 - Nutrition education and training](%C2%A7%2001788%20-%20Nutrition%20education%20and%20training.md)
 - [&sect; 01789 - Department of Defense overseas dependents&#8217; schools](%C2%A7%2001789%20-%20Department%20of%20Defense%20overseas%20dependents%E2%80%99%20schools.md)
 - [&sect; 01790 - Breastfeeding promotion program](%C2%A7%2001790%20-%20Breastfeeding%20promotion%20program.md)
+- [&sect; 01791 - Bill Emerson Good Samaritan Food Donation Act](%C2%A7%2001791%20-%20Bill%20Emerson%20Good%20Samaritan%20Food%20Donation%20Act.md)

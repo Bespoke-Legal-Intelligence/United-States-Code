@@ -13,8 +13,7 @@
 | (b) | Access to books, records, etc., by General Accounting Office. |
 | [5204\.](%C2%A7%2005204%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | [5205\.](%C2%A7%2005205%20-%20Use%20of%20income%20on%20endowment.md) | Use of income on endowment. |
-| (a) | Requirement for funding of United States fellows in emerging European democracies. |
-| (b) | Limitation on study in United States. |
+| (a), | (b) Repealed. |
 | (c) | Agricultural exchange program. |
 | (d) | Participation by United States minority populations. |
 | [5206\.](%C2%A7%2005206%20-%20Report%20to%20Congress.md) | Report to Congress. |

@@ -52,7 +52,7 @@ Nov. 8, 1965, Pub. L. 89–332, §1, 79 Stat. 1281.
 
 Nov. 8, 1965, Pub. L. 89–332, §2, 79 Stat. 1281.
 
-The definition of “State” in subsection (a)(2) is supplied for convenience and is based on the words “State, possession, territory, Commonwealth, or District of Columbia” in subsections (a) and (b) of 5 App. U.S.C. 1012.
+The definition of “State” in subsection (a)(2) is supplied for convenience and is based on the words “State,possession, territory, Commonwealth, or District of Columbia” in subsections (a) and (b) of 5 App. U.S.C. 1012.
 
 In subsection (d), the words “This section does not” are substituted for “nothing herein shall be construed”.
 

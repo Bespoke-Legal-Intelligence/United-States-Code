@@ -18,7 +18,7 @@
 
 #### (3) Payments to foreign persons
 
-&emsp;The Secretary shall by regulations apply the matching principle of paragraph (2) in cases in which the person to whom the payment is to be made is not a United States person.
+&emsp;The Secretary shall by regulations apply the matching principle of paragraph (2) in cases inwhich the person to whom the payment is to be made is not a United States person.
 
 #### (b) Relationships
 
@@ -56,7 +56,7 @@ The persons referred to in subsection (a) are:
 
 For purposes of determining, in applying subsection (b), the ownership of stock—
 
-&emsp;(1) Stock owned, directly or indirectly, by or for a corporation, partnership, estate, or trustshall be considered as being owned proportionately by or for its shareholders, partners, or beneficiaries;
+&emsp;(1) Stock owned, directly or indirectly, by or for a corporation, partnership, estate, or trust shall be considered as being owned proportionately by or for its shareholders, partners, or beneficiaries;
 
 &emsp;(2) An individual shall be considered as owning the stock owned, directly or indirectly, by or for his family;
 
@@ -212,7 +212,7 @@ Sections 24(b) and 118 of the Internal Revenue Code of 1939, referred to in subs
 
 Subsec. (a)(2). Pub. L. 100–647, §1008(e)(6), made technical correction to directory language of Pub. L. 99–514, §806(c)(2), see 1986 Amendment note below.
 
-1986—Subsec. (a)(2). Pub. L. 99–514, §806(c)(2), as amended by Pub. L. 100–647, §1008(e)(6), inserted at end “For purposes of this paragraph, in the case of a personal service corporation (within the meaning of section 441(i)(2)), such corporation and any employee-owner (within the meaning of section 269A(b)(2), asmodified by section 441(i)(2)) shall be treated as persons specified in subsection (b).”
+1986—Subsec. (a)(2). Pub. L. 99–514, §806(c)(2), as amended by Pub. L. 100–647, §1008(e)(6), inserted at end “For purposes of this paragraph, in the case of a personal service corporation (within the meaning of section 441(i)(2)), such corporation and any employee-owner (within the meaning of section 269A(b)(2), as modified by section 441(i)(2)) shall be treated as persons specified in subsection (b).”
 
 Subsec. (a)(3). Pub. L. 99–514, §1812(c)(1), added par. (3).
 
@@ -256,7 +256,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1986 Amendment
 
-If any interest costs incurred after Dec. 31, 1986, are attributable to costs incurred before Jan. 1, 1987, the amendment by section 803(b)(5) of Pub. L. 99–514 is applicable to such interest costs only to the extent such interest costs are attributable to costs which were required to be capitalized under section 263 of the Internal Revenue Code of 1954 and which would have been taken into account in applying section 189 of the Internal Revenue Code of 1954 (as in effect before its repeal by section 803 of Pub. L. 99–514) or, if applicable, section 266 of such Code, see section 7831(d)(2) of Pub. L. 101–239, set out as an Effective Date note under section 263A of this title.
+If any interest costs incurred after Dec. 31, 1986, are attributable to costs incurred before Jan. 1, 1987, the amendment by section 803(b)(5) of Pub. L. 99–514 is applicable to such interest costs only to the extent such interest costs are attributable to costs which were required to be capitalized under section 263 of the Internal Revenue Code of 1954 and which would have been taken into account in applying section 189 of the Internal Revenue Code of 1954 (as in effect before its repeal by section 803 of Pub. L. 99–514) or, if applicable, section266 of such Code, see section 7831(d)(2) of Pub. L. 101–239, set out as an Effective Date note under section 263A of this title.
 
 Amendment by section 803(b)(5) of Pub. L. 99–514 applicable, except as otherwise provided, to costs incurred after Dec. 31, 1986, in taxable years ending after that date, see section 803(d) of Pub. L. 99–514, set out as a note under section 263A of this title.
 
@@ -304,7 +304,7 @@ In general.—The amendments made by this section \[amending this section and se
 
 Treatment of renegotiations, extensions, etc.—If any indebtedness (or contract described in subparagraph (A)) is renegotiated, extended, renewed, or revised after September 29, 1983, subparagraph (A) shall not apply to any amount paid or incurred on such indebtedness (or pursuant to such contract) after the date of such renegotiation, extension, renewal, or revision.”
 
-Amendment by section 721(s) of Pub. L. 98–369 effective as if included in the Subchapter S Revision Act of1982, Pub. L. 97–354, see section 721(y)(1) of Pub. L. 98–369, set out as a note under section 1361 of this title.
+Amendment by section 721(s) of Pub. L. 98–369 effective as if included in the Subchapter S Revision Act of 1982, Pub. L. 97–354, see section 721(y)(1) of Pub. L. 98–369, set out as a note under section 1361 of this title.
 
 #### Effective Date of 1982 Amendment
 
@@ -338,5 +338,5 @@ Transaction between partners, see section 707 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 40, 42, 51, 56, 108, 144, 147, 163, 165, 167, 170, 179, 179A, 197, 263A, 274, 280A, 280F, 336, 341, 355, 409, 447, 453, 464, 465, 468B, 469, 483, 503, 514, 613A, 631, 707, 864, 871, 936, 988, 1031, 1033, 1060, 1202, 1235, 1237, 1239, 1397, 4946, 4951, 4975, 5881, 6038A, 6166 of this title; title 29 sections 1108, 1384.
+This section is referred to in sections 40, 42, 51, 56, 108, 144, 147, 163, 165, 167, 170, 179, 179A, 197, 213, 263A, 274, 280A, 280F, 336, 341, 355, 409, 447, 453, 464, 465, 468B, 469, 483, 503, 514, 613A, 631, 643, 707, 860L, 864, 871, 936, 988, 1031, 1033, 1060, 1202, 1235, 1237, 1239, 1397, 4946, 4951, 4975, 5881, 6038A, 6166 of this title; title 29 sections 1108, 1384.
 

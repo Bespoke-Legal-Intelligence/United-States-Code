@@ -22,7 +22,7 @@ The Secretary shall periodically, but not less than once every 5 years, review t
 
 #### (d) Interim standards
 
-Interim energy performance standards for new Federal buildings issued by the Secretary under this subchapter as it existed before October 24, 1992, shall remain in effect until the standards established under subsection (a) of this section become effective.
+Interim energy performance standards for new Federal buildings issued by the Secretary underthis subchapter as it existed before October 24, 1992, shall remain in effect until the standards established under subsection (a) of this section become effective.
 
 (Pub. L. 94–385, title III, §305, as added Pub. L. 102–486, title I, §101(a)(2), Oct. 24, 1992, 106 Stat. 2784.)
 

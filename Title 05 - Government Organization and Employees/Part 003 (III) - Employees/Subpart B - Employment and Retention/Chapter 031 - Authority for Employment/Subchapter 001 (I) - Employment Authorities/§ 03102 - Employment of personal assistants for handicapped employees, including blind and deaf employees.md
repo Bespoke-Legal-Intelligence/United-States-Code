@@ -34,7 +34,7 @@
 
 &emsp;(B) that individual shall be considered an employee, but only for purposes of chapter 81 of this title (relating to compensation for injury) and sections 2671 through 2680 of title 28 (relating to tort claims).
 
-(e) This section may not be held or considered to prevent or limit in any way the assignment to a handicapped employee (including a blind or deaf employee) by an agency of clerical or secretarial assistance, at the expense of the agency under statutes and regulations currently applicable at the time, if that assistance normally is provided, or authorized to be provided, in that manner under currently applicable statutes and regulations.
+(e) This section may not be held or considered to prevent or limit in any way the assignmentto a handicapped employee (including a blind or deaf employee) by an agency of clerical or secretarial assistance, at the expense of the agency under statutes and regulations currently applicable at the time, if that assistance normally is provided, or authorized to be provided, in that manner under currently applicable statutes and regulations.
 
 (Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 414; Pub. L. 90–623, §1(3), Oct. 22, 1968, 82 Stat. 1312; Pub. L. 95–454, title III, §302(a), (b)(2), Oct. 13, 1978, 92 Stat. 1145, 1146; Pub. L. 96–54, §2(a)(11), Aug. 14, 1979, 93 Stat. 382; Pub. L. 96–523, §1(a), Dec. 12, 1980, 94 Stat. 3039; Pub. L. 97–258, §3(a)(3), Sept. 13, 1982, 96 Stat. 1063; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095.)
 
@@ -44,7 +44,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 5 U.S.C. 43a.
 
@@ -64,15 +66,15 @@ Section 501 of the Rehabilitation Act of 1973, referred to in subsec. (a)(2), is
 
 #### Amendments
 
-<b>1986</b>—Subsec. (a)(3). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
+1986—Subsec. (a)(3). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
-<b>1982</b>—Subsec. (b)(1)(C). Pub. L. 97–258 substituted “section 1342 of title 31” for “section 3679(b) of the Revised Statutes (31 U.S.C. 665(b))”.
+1982—Subsec. (b)(1)(C). Pub. L. 97–258 substituted “section 1342 of title 31” for “section 3679(b) of the Revised Statutes (31 U.S.C. 665(b))”.
 
-<b>1980</b>—Pub. L. 96–523 amended section generally and, among other changes, in section catchline substituted “personal assistants for handicapped employees, including blind and” for “reading assistants for blind employees and interpreting assistants for”, in subsec. (a) substituted applicability to handicapped employees for applicability to blind and deaf employees omitted applicability to the government of the District of Columbia, in subsec. (b) substituted applicability to personal assistants for applicability to reading and interpreting assistants for blind and deaf employees, respectively, redesignated former subsec. (d) as (c) and made changes in phraseology, added subsec. (d), and redesignated former subsec. (c) as (e) and made changes in phraseology.
+1980—Pub. L. 96–523 amended section generally and, among other changes, in section catchline substituted “personal assistants for handicapped employees, including blind and” for “reading assistants for blind employees and interpreting assistants for”, in subsec. (a) substituted applicability to handicapped employees for applicability to blind and deaf employees omitted applicability to the government of the District of Columbia, in subsec. (b) substituted applicability to personal assistants for applicability to reading and interpreting assistants for blind and deaf employees, respectively, redesignated former subsec. (d) as (c) and made changes in phraseology, added subsec. (d), and redesignated former subsec. (c) as (e) and made changes in phraseology.
 
-<b>1979</b>—Subsec. (a)(2). Pub. L. 96–54 substituted “Mayor” for “Commissioner”.
+1979—Subsec. (a)(2). Pub. L. 96–54 substituted “Mayor” for “Commissioner”.
 
-<b>1978</b>—Pub. L. 95–454, §302(b)(2), substituted “reading assistants for blind employees and interpreting assistants for deaf employees” for “readers for blind employees” in section catchline.
+1978—Pub. L. 95–454, §302(b)(2), substituted “reading assistants for blind employees and interpreting assistants for deaf employees” for “readers for blind employees” in section catchline.
 
 Subsec. (a)(4), (5). Pub. L. 95–454, §302(a)(1), added par. (4) and redesignated former par. (4) as (5).
 
@@ -82,7 +84,7 @@ Subsec. (c). Pub. L. 95–454, §302(a)(3), inserted “or deaf” after “blin
 
 Subsec. (d). Pub. L. 95–454, §302(a)(4), added subsec. (d).
 
-<b>1968</b>—Subsec. (a)(2). Pub. L. 90–623 substituted “Commissioner” for “Board of Commissioners”.
+1968—Subsec. (a)(2). Pub. L. 90–623 substituted “Commissioner” for “Board of Commissioners”.
 
 #### Effective Date of 1980 Amendment
 

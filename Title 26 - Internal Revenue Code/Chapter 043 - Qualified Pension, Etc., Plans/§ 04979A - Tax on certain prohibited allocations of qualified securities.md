@@ -26,13 +26,15 @@ The tax imposed by this section shall be paid by—
 
 Terms used in this section have the same respective meaning as when used in section 4978.
 
-(Added and amended Pub. L. 99–514, title XI, §1172(b)(2), title XVIII, §1854(a)(9)(A), Oct. 22, 1986, 100 Stat. 2514, 2877; Pub. L. 101–239, title VII, §7304(a)(2)(D), Dec. 19, 1989, 103 Stat. 2353.)
+(Added and amended Pub. L. 99–514, title XI, §1172(b)(2), title XVIII, §1854(a)(9)(A), Oct. 22, 1986, 100 Stat. 2514, 2877; Pub. L. 101–239, title VII, §7304(a)(2)(D), Dec. 19, 1989, 103 Stat. 2353; Pub. L. 104–188, title I, §1704(t)(22), Aug. 20, 1996, 110 Stat. 1888.)
 
 #### Amendments
 
+1996—Subsec. (c). Pub. L. 104–188 amended directory language of Pub. L. 101–239, §7304(a)(2)(D)(ii). See 1989 Amendment note below.
+
 1989—Subsec. (b)(1). Pub. L. 101–239, §7304(a)(2)(D)(i), struck out “or section 2057” after “section 1042”.
 
-Subsec. (c). Pub. L. 101–239, §7304(a)(2)(D)(ii), which directed amendment of subsec. (c)(2) by striking out “or section 2057(d)”, was executed by striking out that language after “section 1042(b)(3)(B)” in concluding provisions, as the probable intent of Congress.
+Subsec. (c). Pub. L. 101–239, §7304(a)(2)(D)(ii), as amended by Pub. L. 104–188, struck out “or section 2057(d)” after “section 1042(b)(3)(B)” in concluding provisions.
 
 1986—Subsec. (b)(1). Pub. L. 99–514, §1172(b)(2)(A), inserted reference to section 2057.
 

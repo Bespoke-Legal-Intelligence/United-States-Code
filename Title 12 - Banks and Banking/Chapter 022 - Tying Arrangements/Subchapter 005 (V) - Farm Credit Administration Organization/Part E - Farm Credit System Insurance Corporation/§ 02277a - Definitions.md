@@ -20,19 +20,17 @@ As used in this part:
 
 #### (4) Insured System bank
 
-&emsp;The term “insured System bank” means any System bank whose participation in notes,bonds, debentures, and other obligations issued under subsection (c) or (d) of section 2153 of this title is insured under this part.
+&emsp;The term “insured System bank” means any System bank whose participation in notes, bonds, debentures, and other obligations issued under subsection (c) or (d) of section 2153 of this title is insured under this part.
 
-#### (5) Receiver
-
-&emsp;The term “receiver” means a receiver or conservator appointed by the Farm Credit Administration for a System institution.
-
-#### (6) State
+#### (5) State
 
 &emsp;The term “State” means any of the 50 States, the District of Columbia, any Territory of the United States, Puerto Rico, Guam, American Samoa, the Trust Territory of the Pacific Islands, or the Virgin Islands.
 
-(Pub. L. 92–181, title V, §5.51, as added Pub. L. 100–233, title III, §302, Jan. 6, 1988, 101 Stat. 1611; amended Pub. L. 100–399, title III, §302(a), (b), Aug. 17, 1988, 102 Stat. 994.)
+(Pub. L. 92–181, title V, §5.51, as added Pub. L. 100–233, title III, §302, Jan. 6, 1988, 101 Stat. 1611; amended Pub. L. 100–399, title III, §302(a), (b), Aug. 17, 1988, 102 Stat. 994; Pub. L. 104–105, title II, §214(a), Feb. 10, 1996, 110 Stat. 175.)
 
 #### Amendments
+
+1996—Pars. (5), (6). Pub. L. 104–105 redesignated par. (6) as (5) and struck out heading and text of former par. (5). Text read as follows: “The term ‘receiver’ means a receiver or conservator appointed by the Farm Credit Administration for a System institution.”
 
 1988—Par. (3)(A), (B). Pub. L. 100–399, §302(a), amended subpars. (A) and (B) generally. Prior to amendment, subpars. (A) and (B) read as follows:
 

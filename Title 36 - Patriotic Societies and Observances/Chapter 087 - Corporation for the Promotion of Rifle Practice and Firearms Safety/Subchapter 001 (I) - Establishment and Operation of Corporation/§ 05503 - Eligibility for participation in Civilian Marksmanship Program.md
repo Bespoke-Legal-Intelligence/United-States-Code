@@ -1,0 +1,28 @@
+### §5503. Eligibility for participation in Civilian Marksmanship Program
+
+#### (a) Certification requirement
+
+(1) Before a person may participate in any activity sponsored or supported by the Corporation, the person shall be required to certify by affidavit the following:
+
+&emsp;(A) The person has not been convicted of any Federal or State felony or violation of section 922 of title 18.
+
+&emsp;(B) The person is not a member of any organization that advocates the violent overthrow of the United States Government.
+
+(2) The Director of Civilian Marksmanship may require any person to attach to the person's affidavit a certification from the appropriate State or Federal law enforcement agency for purposes of paragraph (1)(A).
+
+#### (b) Ineligibility resulting from certain convictions
+
+A person who has been convicted of a Federal or State felony or a violation of section 922 of title 18 shall not be eligible to participate in any activity sponsored or supported by the Corporation through the Civilian Marksmanship Program.
+
+#### (c) Authority to limit participation
+
+The Director of Civilian Marksmanship may limit participation as necessary to ensure—
+
+&emsp;(1) quality instruction in the use of firearms;
+
+&emsp;(2) the safety of participants; and
+
+&emsp;(3) the security of firearms, ammunition, and equipment.
+
+(Pub. L. 104–106, div. A, title XVI, §1613, Feb. 10, 1996, 110 Stat. 517.)
+

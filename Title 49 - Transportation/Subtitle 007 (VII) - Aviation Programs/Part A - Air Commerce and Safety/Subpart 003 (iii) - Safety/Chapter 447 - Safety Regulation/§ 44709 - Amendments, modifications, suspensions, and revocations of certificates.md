@@ -46,13 +46,15 @@ Effectiveness of Orders Pending Appeal.—When a person files an appeal with the
 
 (f)
 
-Judicial Review.—A person substantially affected by an order of the Board under this section, or the Administrator when the Administrator decides that an order of the Board underthis section will have a significant adverse impact on carrying out this part, may obtain judicial review of the order under section 46110 of this title. The Administrator shall be made a party to the judicial review proceedings. Findings of fact of the Board are conclusive if supported by substantial evidence.
+Judicial Review.—A person substantially affected by an order of the Board under this section, or the Administrator when the Administrator decides that an order of the Board under this section will have a significant adverse impact on carrying out this part, may obtain judicial review of the order under section 46110 of this title. The Administrator shall be made a party to the judicial review proceedings. Findings of fact of the Board are conclusive if supported by substantial evidence.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1190.)
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -158,5 +160,5 @@ In subsection (e), before clause (1), the words “the effectiveness of” are o
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 106, 1133, 1153, 44701, 44711, 45302, 46301, 46310, 46316, 47531 of this title; title 42 section 4911.
+This section is referred to in sections 106, 1133, 1153, 44701, 44711, 45302, 46310, 47531 of this title; title 42 section 4911.
 

@@ -44,7 +44,7 @@ Subsec. (i)(1)(A) to (C). Pub. L. 95–91, §709(a)(2)(C), struck out subpar. (A
 
 Subsec. (i)(1)(D). Pub. L. 95–91, §709(a)(2)(C), redesignated subpar. (D) as subsec. (b).
 
-Subsec. (i)(E), (F). Pub. L. 95–91, §709(a)(2)(C), struck out provisions of subpars. (E) and (F) providing for public availability of internal rules and guidelines of theagency forming a basis for rules, regulations, or orders and agency opinions respecting determinations of requests for exception or exemption from rules or orders; and procedures for holding hearings or oral presentation of views with respect to rules or regulations the effects of which are confined to a single unit of local government or the residents thereof, a single geographic area within a State or the residents thereof, or a single State or the residents thereof.
+Subsec. (i)(E), (F). Pub. L. 95–91, §709(a)(2)(C), struck out provisions of subpars. (E) and (F) providing for public availability of internal rules and guidelines of the agency forming a basis for rules, regulations, or orders and agency opinions respecting determinations of requests for exception or exemption from rules or orders; and procedures for holding hearings or oral presentation of views with respect to rules or regulations the effects of which are confined to a single unit of local government or the residents thereof, a single geographic area within a State or the residents thereof, or a single State or the residents thereof.
 
 Subsec. (i)(2)(A). Pub. L. 95–91, §709(a)(2)(F), redesignated subpar. (A) as subsec. (c).
 
@@ -52,7 +52,7 @@ Subsec. (i)(2)(B), (3). Pub. L. 95–91, §709(a)(2)(F), (G), struck out par. (2
 
 Subsecs. (j), (k). Pub. L. 95–91, §709(a)(2)(G), struck out subsecs. (j) and (k) relating to information for independent regulatory agencies and limitation on enforcement authority of the Administrator.
 
-Subsec. (<i>l</i>). Pub. L. 95–70 added subsec. (<i>l).</i>
+Subsec. (<i>l</i>). Pub. L. 95–70 added subsec. (<i>l</i>).
 
 1976—Subsec. (c). Pub. L. 94–385, §103, struck out provisions relating to review of rules, regulations and procedures by the Cost of Living Council and redistributed remaining provisions as pars. (1) and (2).
 

@@ -6,7 +6,7 @@ The Congress makes the following findings:
 
 (1) The banking system is dependent upon fair and accurate credit reporting. Inaccurate credit reports directly impair the efficiency of the banking system, and unfair credit reporting methods undermine the public confidence which is essential to the continued functioning of the banking system.
 
-(2) An elaborate mechanism has been developed for investigating and evaluating the credit worthiness, credit standing, credit capacity, character, and general reputation of consumers.
+(2) An elaborate mechanism has been developed for investigating and evaluating the credit worthiness,<sup>1</sup> credit standing, credit capacity, character, and general reputation of consumers.
 
 (3) Consumer reporting agencies have assumed a vital role in assembling and evaluating consumer credit and other information on consumers.
 
@@ -25,4 +25,6 @@ Section 504(d) of Pub. L. 90–321, as added by Pub. L. 91–508, title VI, §60
 #### Short Title
 
 This subchapter known as the “Fair Credit Reporting Act”, see Short Title note set out under section 1601 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “creditworthiness,”.</i>
 

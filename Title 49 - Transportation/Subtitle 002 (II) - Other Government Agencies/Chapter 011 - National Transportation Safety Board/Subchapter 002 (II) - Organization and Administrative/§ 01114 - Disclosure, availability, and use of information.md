@@ -2,7 +2,7 @@
 
 (a)
 
-General.—Except as provided in subsections (b) and (c) of this section, a copy of a record, information, or investigation submitted or received by the National Transportation Safety Board, or a member or employee of the Board, shall be made available to the public on identifiable request and at reasonable cost. This subsection does not require the release of information described by section 552(b) of title 5 or protected from disclosure by another law of the United States.
+General.—Except as provided in subsections (b), (c), and (e) of this section, a copy of a record, information, or investigation submitted or received by the National Transportation Safety Board, or a member or employee of the Board, shall be made available to the public on identifiable request and at reasonable cost. This subsection does not require the release of information described by section 552(b) of title 5 or protected from disclosure by another law of the United States.
 
 (b)
 
@@ -17,6 +17,10 @@ Trade Secrets.—(1) The Board may disclose information related to a trade secre
 &emsp;(D) to the public to protect health and safety after giving notice to any interested person to whom the information is related and an opportunity for that person to comment in writing, or orally in closed session, on the proposed disclosure, if the delay resulting from notice and opportunity for comment would not be detrimental to health and safety.
 
 (2) Information disclosed under paragraph (1) of this subsection may be disclosed only in a way designed to preserve its confidentiality.
+
+(3)
+
+Protection of Voluntary Submission of Information.—Notwithstanding any other provision of law, neither the Board, nor any agency receiving information from the Board, shall disclose voluntarily provided safety-related information if that information is not related to the exercise of the Board's accident or incident investigation authority under this chapter and if the Board finds that the disclosure of the information would inhibit the voluntary provision of that type of information.
 
 (c)
 
@@ -48,11 +52,29 @@ Drug Tests.—(1) Notwithstanding section 503(e) of the Supplemental Appropriati
 
 &emsp;(B) the use of that record is necessary to develop the evidentiary record.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 749.)
+(e)
+
+Foreign Investigations.—
+
+&emsp;(1)
+
+In general.—Notwithstanding any other provision of law, neither the Board, nor any agency receiving information from the Board, shall disclose records or information relating to its participation in foreign aircraft accident investigations; except that—
+
+&emsp;&emsp;(A) the Board shall release records pertaining to such an investigation when the country conducting the investigation issues its final report or 2 years following the date of the accident, whichever occurs first; and
+
+&emsp;&emsp;(B) the Board may disclose records and information when authorized to do so by the country conducting the investigation.
+
+&emsp;(2)
+
+Safety recommendations.—Nothing in this subsection shall restrict the Board at any time from referring to foreign accident investigation information in making safety recommendations.
+
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 749; Pub. L. 104–291, title I, §§102, 103, Oct. 11, 1996, 110 Stat. 3452.)
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -101,6 +123,14 @@ In subsection (d)(3), the words “laboratory record made available under paragr
 #### References in Text
 
 Section 503(e) of the Supplemental Appropriations Act, 1987, referred to in subsec. (d)(1), is section 503(e) of Pub. L. 100–71, which is set out as a note under section 7301 of Title 5, Government Organization and Employees.
+
+#### Amendments
+
+1996—Subsec. (a). Pub. L. 104–291, §102(1), substituted “(b), (c), and (e)” for “(b) and (c)”.
+
+Subsec. (b)(3). Pub. L. 104–291, §103, added par. (3).
+
+Subsec. (e). Pub. L. 104–291, §102(2), added subsec. (e).
 
 #### Section Referred to in Other Sections
 

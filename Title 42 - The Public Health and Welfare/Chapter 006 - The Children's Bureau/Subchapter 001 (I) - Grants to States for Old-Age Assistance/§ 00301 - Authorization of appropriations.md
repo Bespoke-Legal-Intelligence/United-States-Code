@@ -2,7 +2,7 @@
 
 For the purpose of enabling each State, as far as practicable under the conditions in such State, to furnish financial assistance to aged needy individuals, there is hereby authorized to be appropriated for each fiscal year a sum sufficient to carry out the purposes of this subchapter. The sums made available under this section shall be used for making payments to States which have submitted, and had approved by the Secretary of Health and Human Services (hereinafter referred to as the “Secretary”), State plans for old-age assistance.
 
-(Aug. 14, 1935, ch. 531, title I, §1, 49 Stat. 620; Aug. 28, 1950, ch. 809, title III, pt. 6, §361(a), 64Stat. 558; Aug. 1, 1956, ch. 836, title III, §311(a), 70 Stat. 848; Sept. 13, 1960, Pub. L. 86–778, title VI, §601(b), 74 Stat. 987; July 25, 1962, Pub. L. 87–543, title I, §104(c)(1), 76 Stat. 185; Oct. 17, 1979, Pub. L. 96–88, title V, §509(b), 93 Stat. 695; Aug. 13, 1981, Pub. L. 97–35, title XXI, §2184(a)(2), 95 Stat. 816.)
+(Aug. 14, 1935, ch. 531, title I, §1, 49 Stat. 620; Aug. 28, 1950, ch. 809, title III, pt. 6, §361(a), 64 Stat. 558; Aug. 1, 1956, ch. 836, title III, §311(a), 70 Stat. 848; Sept. 13, 1960, Pub. L. 86–778, title VI, §601(b), 74 Stat. 987; July 25, 1962, Pub. L. 87–543, title I, §104(c)(1), 76 Stat. 185; Oct. 17, 1979, Pub. L. 96–88, title V, §509(b), 93 Stat. 695; Aug. 13, 1981, Pub. L. 97–35, title XXI, §2184(a)(2), 95 Stat. 816.)
 
 #### Repeal of Section
 

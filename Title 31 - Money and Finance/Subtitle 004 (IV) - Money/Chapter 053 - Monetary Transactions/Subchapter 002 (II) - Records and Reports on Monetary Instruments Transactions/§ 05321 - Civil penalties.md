@@ -52,23 +52,11 @@ Negligence.—
 
 &emsp;(A)
 
-In general.—The Secretary of the Treasury may impose a civil money penalty of not more than $500 on any financial institution which negligently violates any provision of this subchapter or any regulation prescribed under this subchapter.
+In general.—The Secretary of the Treasury may impose a civil money penalty of not more than $500 on any financial institution which negligently violates any provisionof this subchapter or any regulation prescribed under this subchapter.
 
 &emsp;(B)
 
 Pattern of negligent activity.—If any financial institution engages in a pattern of negligent violations of any provision of this subchapter or any regulation prescribed under this subchapter, the Secretary of the Treasury may, in addition to any penalty imposed under subparagraph (A) with respect to any such violation, impose a civil money penalty of not more than $50,000 on the financial institution.
-
-(7)
-
-Financial institution identification violations.—
-
-&emsp;(A)
-
-Penalty authorized.—The Secretary may impose a civil money penalty on any person who willfully violates any provision of section 5327 or any regulation prescribed under such section.
-
-&emsp;(B)
-
-Maximum amount limitation.—The amount of any civil money penalty imposed under subparagraph (A) shall not exceed $10,000 per day for each day during which a report remains unfiled or a report containing a material omission or misstatement of fact remains uncorrected.
 
 (b)
 
@@ -116,7 +104,7 @@ In general.—The Secretary of the Treasury shall prescribe by regulation the te
 
 Maximum dollar amount.—The terms and conditions authorized under subparagraph (A) may include, in the Secretary's sole discretion, a limitation on the amount of any civil penalty which may be assessed by an appropriate Federal banking agency pursuant to a delegation under paragraph (1).
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 999; Pub. L. 98–473, title II, §901(a), Oct. 12, 1984, 98 Stat. 2135; Pub. L. 99–570, title I, §§1356(c)(1), 1357(a)–(f), (h), Oct. 27, 1986, 100 Stat. 3207–24—3207–26; Pub. L. 100–690, title VI, §6185(g)(2), Nov. 18, 1988, 102 Stat. 4357; Pub. L. 102–550, title XV, §§1511(b), 1525(b), 1535(a)(2), 1561(a), Oct. 28, 1992, 106 Stat. 4057, 4065, 4066, 4071; Pub. L. 103–322, title XXXIII, §330017(a)(1), Sept. 13, 1994, 108 Stat. 2149; Pub. L. 103–325, title IV, §§406, 411(b), 413(a)(1), Sept. 23, 1994, 108 Stat. 2247, 2253, 2254.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 999; Pub. L. 98–473, title II, §901(a), Oct. 12, 1984, 98 Stat. 2135; Pub. L. 99–570, title I, §§1356(c)(1), 1357(a)–(f), (h), Oct. 27, 1986, 100 Stat. 3207–24—3207–26; Pub. L. 100–690, title VI, §6185(g)(2), Nov. 18, 1988, 102 Stat. 4357; Pub. L. 102–550, title XV, §§1511(b), 1525(b), 1535(a)(2), 1561(a), Oct. 28, 1992, 106 Stat. 4057, 4065, 4066, 4071; Pub. L. 103–322, title XXXIII, §330017(a)(1), Sept. 13, 1994, 108 Stat. 2149; Pub. L. 103–325, title IV, §§406, 411(b), 413(a)(1), Sept. 23, 1994, 108 Stat. 2247, 2253, 2254; Pub. L. 104–208, div. A, title II, §2223(3), Sept. 30, 1996, 110 Stat. 3009–415.)
 
 Historical and Revision Notes
 
@@ -154,7 +142,7 @@ Sept. 21, 1973, Pub. L. 93–110, §203(a), (b)(words after last comma), 87 Stat
 
 31:1104.
 
-In subsection (a)(1), the words “or a regulation prescribed under this subchapter” are added because of therestatement. The words “(except section 5315 of this title or a regulation prescribed under section 5315)” are added because 31:1141–1143 was not enacted as a part of the Currency and Foreign Transactions Reporting Act that is restated in this subchapter. The words “is liable to the United States Government for” are substituted for “the Secretary may assess upon” in 31:1056(a) for consistency in the revised title and with other titles of the United States Code. The words “the purposes of both civil and criminal penalties for” in 31:1054(b)(last sentence)(related to civil penalties) are omitted, and the words “or a regulation prescribed under section 5318(2)” are added, because of the restatement. The words “the violation continues” are added for consistency in the revised title and with other titles of the Code. The word “separate” before “office” is omitted as surplus.
+In subsection (a)(1), the words “or a regulation prescribed under this subchapter” are added because of the restatement. The words “(except section 5315 of this title or a regulation prescribed under section 5315)” are added because 31:1141–1143 was not enacted as a part of the Currency and Foreign Transactions Reporting Act that is restated in this subchapter. The words “is liable to the United States Government for” are substituted for “the Secretary may assess upon” in 31:1056(a) for consistency in the revised title and with other titles of the United States Code. The words “the purposes of both civil and criminal penalties for” in 31:1054(b)(last sentence)(related to civil penalties) are omitted, and the words “or a regulation prescribed under section 5318(2)” are added, because of the restatement. The words “the violation continues” are added for consistency in the revised title and with other titles of the Code. The word “separate” before “office” is omitted as surplus.
 
 In subsection (a)(2), the word “impose” is substituted for “assess” for consistency in the revised title and with other titles of the Code. The word “additional” is substituted for 31:1103(last sentence words before last comma) to eliminate unnecessary words. The words “or a regulation prescribed under section 5316” are added because of the restatement. The words “amount of this”, “to be filed”, and “actually” are omitted as surplus.
 
@@ -169,6 +157,20 @@ In subsection (c), the words “in his discretion” and “upon such terms and 
 Section 3 of the Federal Deposit Insurance Act, referred to in subsec. (e)(1), is classified to section 1813 of Title 12, Banks and Banking.
 
 #### Amendments
+
+1996—Subsec. (a)(7). Pub. L. 104–208 struck out par. (7) which read as follows:
+
+“(7)
+
+Financial institution identification violations.—
+
+&emsp;“(A)
+
+Penalty authorized.—The Secretary may impose a civil money penalty on any person who willfully violates any provision of section 5327 or any regulation prescribed under such section.
+
+&emsp;“(B)
+
+Maximum amount limitation.—The amount of any civil money penalty imposed under subparagraph (A) shall not exceed $10,000 per day for each day during which a report remains unfiled or a report containing a material omission or misstatement of fact remains uncorrected.”
 
 1994—Subsec. (a)(4)(A). Pub. L. 103–325, §411(b), struck out “willfully” before “violates”.
 

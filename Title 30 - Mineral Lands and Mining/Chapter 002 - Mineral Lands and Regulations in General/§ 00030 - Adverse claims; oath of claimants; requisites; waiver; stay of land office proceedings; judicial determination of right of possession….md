@@ -10,7 +10,7 @@ R.S. §2326 derived from act May 10, 1872, ch. 152, §7, 17 Stat. 93.
 
 #### Amendments
 
-1925—Act Mar. 3, 1925, affected words, in third and fourth sentences of text, now reading “United Statessupervisor of surveys”, and words, in third sentence of text, now reading “pay to the register $5 per acre.” Such words formerly read “surveyor-general”, and “pay to the receiver five dollars per acre”, respectively. Such act is treated more fully in notes under section 29 of this title.
+1925—Act Mar. 3, 1925, affected words, in third and fourth sentences of text, now reading “United States supervisor of surveys”, and words, in third sentence of text, now reading “pay to the register $5 per acre.” Such words formerly read “surveyor-general”, and “pay to the receiver five dollars per acre”, respectively. Such act is treated more fully in notes under section 29 of this title.
 
 #### Transfer of Functions
 

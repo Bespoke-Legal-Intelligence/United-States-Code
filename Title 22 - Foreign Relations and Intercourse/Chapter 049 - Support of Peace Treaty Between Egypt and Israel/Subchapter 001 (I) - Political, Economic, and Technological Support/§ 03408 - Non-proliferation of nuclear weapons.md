@@ -8,9 +8,3 @@ In accordance with the Nuclear Non-Proliferation Act of 1978 \[22 U.S.C. 3201 et
 
 The Nuclear Non-Proliferation Act of 1978, referred to in text, is Pub. L. 95–242, Mar. 10, 1978, 92 Stat. 120, which is classified principally to chapter 47 (§3201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3201 of this title and Tables.
 
-### SUBCHAPTER II—MULTINATIONAL
-
-### FORCE AND OBSERVERS
-
-### PARTICIPATION
-

@@ -12,7 +12,7 @@
 
 #### (b) Determination of amount; reduction for Federal education program payments; reimbursement by Federal departments or agencies
 
-(1) The amount of the grant provided to each tribe or tribal organization under this sectionfor each fiscal year shall be determined by applying the administrative cost percentage rate of the tribe or tribal organization to the aggregate of the Bureau elementary and secondary functions operated by the tribe or tribal organization for which funds are received from or through the Bureau. The administrative cost percentage rate determined under subsection (c) of this section does not apply to other programs operated by the tribe or tribal organization.
+(1) The amount of the grant provided to each tribe or tribal organization under this section for each fiscal year shall be determined by applying the administrative cost percentage rate of the tribe or tribal organization to the aggregate of the Bureau elementary and secondary functions operated by the tribe or tribal organization for which funds are received from or through the Bureau. The administrative cost percentage rate determined under subsection (c) of this section does not apply to other programs operated by the tribe or tribal organization.
 
 (2) The Secretary shall—
 
@@ -126,7 +126,7 @@ For purposes of this section:
 
 (1) Upon April 28, 1988, the Secretary shall—
 
-&emsp;(A) conduct such studies as may be needed to establish an empirical basis for determining relevant factors substantially affecting the required administrative costs of tribal elementary and secondary educational programs, using the formula set forth in subsection (c) of this section, and
+&emsp;(A) conduct such studies as may be needed to establish an empirical basis for determiningrelevant factors substantially affecting the required administrative costs of tribal elementary and secondary educational programs, using the formula set forth in subsection (c) of this section, and
 
 &emsp;(B) conduct a study to determine—
 
@@ -154,7 +154,7 @@ For purposes of this section:
 
 &emsp;(D) identify, and quantify in terms of percentages of direct program costs, any general factors arising from geographic isolation, or numbers of programs administered, independent of program size factors used to compute a base administrative cost percentage in such formula; and
 
-&emsp;(E) identify any other incremental cost factors substantially affecting the costs of required administrative cost functions at any ofthe tribal elementary or secondary educational programs studied and determine whether the factors are of general applicability to other such programs, and (if so) how the factors may effectively be incorporated into such formula.
+&emsp;(E) identify any other incremental cost factors substantially affecting the costs of required administrative cost functions at any of the tribal elementary or secondary educational programs studied and determine whether the factors are of general applicability to other such programs, and (if so) how the factors may effectively be incorporated into such formula.
 
 (3) In carrying out the studies required under this subsection, the Secretary shall obtain the input of, and afford an opportunity to participate to, the Inspector General of the Department of the Interior.
 

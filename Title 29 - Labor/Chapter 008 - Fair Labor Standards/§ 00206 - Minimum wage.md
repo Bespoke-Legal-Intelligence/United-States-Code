@@ -4,13 +4,13 @@
 
 Every employer shall pay to each of his employees who in any workweek is engaged in commerce or in the production of goods for commerce, or is employed in an enterprise engaged in commerce or in the production of goods for commerce, wages at the following rates:
 
-&emsp;(1) except as otherwise provided in this section, not less than $3.35 an hour during the period ending March 31, 1990, not less than $3.80 an hour during the year beginning April 1, 1990, and not less than $4.25 an hour after March 31, 1991;
+&emsp;(1) except as otherwise provided in this section, not less than $4.25 an hour during the period ending on September 30, 1996, not less than $4.75 an hour during the year beginning on October 1, 1996, and not less than $5.15 an hour beginning September 1, 1997;
 
 &emsp;(2) if such employee is a home worker in Puerto Rico or the Virgin Islands, not less than the minimum piece rate prescribed by regulation or order; or, if no such minimum piece rate is in effect, any piece rate adopted by such employer which shall yield, to the proportion or class of employees prescribed by regulation or order, not less than the applicable minimum hourly wage rate. Such minimum piece rates or employer piece rates shall be commensurate with, and shall be paid in lieu of, the minimum hourly wage rate applicable under the provisions of this section. The Administrator, or his authorized representative, shall have power to make such regulations or orders as are necessary or appropriate to carry out any of the provisions of this paragraph, including the power without limiting the generality of the foregoing, to define any operation or occupation which is performed by such home work employees in Puerto Rico or the Virgin Islands; to establish minimum piece rates for any operation or occupation so defined; to prescribe the method and procedure for ascertaining and promulgating minimum piece rates; to prescribe standards for employer piece rates, including the proportion or class of employees who shall receive not less than the minimum hourly wage rate; to define the term “home worker”; and to prescribe the conditions under which employers, agents, contractors, and subcontractors shall cause goods to be produced by home workers;
 
 &emsp;(3) if such employee is employed in American Samoa, in lieu of the rate or rates provided by this subsection or subsection (b) of this section, not less than the applicable rate established by the Secretary of Labor in accordance with recommendations of a special industry committee or committees which he shall appoint pursuant to sections 205 and 208 of this title. The minimum wage rate thus established shall not exceed the rate prescribed in paragraph (1) of this subsection;
 
-&emsp;(4) if such employee is employed as a seaman on an American vessel, not less than the rate which will provide to the employee, for the period covered by the wage payment, wages equal to compensation at the hourly rate prescribed by paragraph (1) of this subsection for all hours during such period when he was actually on duty (including periods aboard ship when the employee was on watch or was, at the direction of a superior officer, performing work or standing by, but not including off-duty periods which are provided pursuant to the employment agreement); or
+&emsp;(4) if such employee is employed as a seaman on an American vessel, not less than the rate which will provide to the employee, for the period covered by the wage payment, wages equal to compensation at the hourly rate prescribed by paragraph (1) of this subsection for all hours during such period when he was actually on duty (including periods aboard ship when the employee was on watch or was, atthe direction of a superior officer, performing work or standing by, but not including off-duty periods which are provided pursuant to the employment agreement); or
 
 &emsp;(5) if such employee is employed in agriculture, not less than the minimum wage rate in effect under paragraph (1) after December 31, 1977.
 
@@ -18,23 +18,7 @@ Every employer shall pay to each of his employees who in any workweek is engaged
 
 Every employer shall pay to each of his employees (other than an employee to whom subsection (a)(5) of this section applies) who in any workweek is engaged in commerce or in the production of goods for commerce, or is employed in an enterprise engaged in commerce or in the production of goods for commerce, and who in such workweek is brought within the purview of this section by the amendments made to this chapter by the Fair Labor Standards Amendments of 1966; title IX of the Education Amendments of 1972 \[20 U.S.C. 1681 et seq.\], or the Fair Labor Standards Amendments of 1974, wages at the following rate: Effective after December 31, 1977, not less than the minimum wage rate in effect under subsection (a)(1) of this section.
 
-#### (c) Employees in Puerto Rico
-
-(1) The rate or rates provided by subsection (a)(1) of this section shall be applicable in the case of any employee in Puerto Rico who is employed by—
-
-&emsp;(A) the United States,
-
-&emsp;(B) an establishment that is a hotel, motel or restaurant,
-
-&emsp;(C) any other retail or service establishment that employs such employee primarily in connection with the preparation or offering of food or beverages for human consumption, either on the premises, or by such services as catering, banquet, box lunch, or curb or counter service, to the public, to employees, or to members or guests of members of clubs, or
-
-&emsp;(D) any other industry in which the average hourly wage is greater than or equal to $4.65 an hour.
-
-(2) In the case of any employee in Puerto Rico who is employed in an industry in which the average hourly wage is not less than $4.00 but not more than $4.64, the minimum wage rate applicable to such employee shall be increased on April 1, 1990, and each April 1 thereafter through April 1, 1994, by equal amounts (rounded to the nearest 5 cents) so that the highest minimum wage rate prescribed in subsection (a)(1) of this section shall apply on April 1, 1994.
-
-(3) In the case of an employee in Puerto Rico who is employed in an industry in which the average hourly wage is less than $4.00, except as provided in paragraph (4), the minimum wage rate applicable to such employee shall be increased on April 1, 1990, and each April 1 thereafter through April 1, 1995, by equal amounts\(rounded to the nearest 5 cents) so that the highest minimum wage rate prescribed in subsection (a)(1) of this section shall apply on April 1, 1995.
-
-(4) In the case of any employee of the Commonwealth of Puerto Rico, or a municipality or other governmental entity of the Commonwealth, in which the average hourly wage is less than $4.00 an hour and who was brought under the coverage of this section pursuant to an amendment made by the Fair Labor Standards Amendments of 1985 (Public Law 99–150), the minimum wage rate applicable to such employee shall be increased on April 1, 1990, and each April 1 thereafter through April 1, 1996, by equal amounts (rounded to the nearest 5 cents) so that the highest minimum wage rate prescribed in subsection (a)(1) of this section shall apply on April 1, 1996.
+#### (c) Repealed. Pub. L. 104–188, \[title II\], §2104(c), Aug. 20, 1996, 110 Stat. 1929
 
 #### (d) Prohibition of sex discrimination
 
@@ -66,7 +50,17 @@ Any employee—
 
 > shall be paid wages for such employment in such workweek at a rate not less than the wage rate in effect under subsection (b) of this section.
 
-(June 25, 1938, ch. 676, §6, 52 Stat. 1062; June 26, 1940, ch. 432, §3(e), (f), 54 Stat. 616; Oct. 26, 1949, ch. 736, §6, 63 Stat. 912; Aug. 12, 1955, ch. 867, §3, 69 Stat. 711; Aug. 8, 1956, ch. 1035, §2, 70 Stat. 1118; May 5, 1961, Pub. L. 87–30, §5, 75 Stat. 67; June 10, 1963, Pub. L. 88–38, §3, 77 Stat. 56; Sept. 23, 1966, Pub. L. 89–601, title III, §§301–305, 80 Stat. 838, 839, 841; Apr. 8, 1974, Pub. L. 93–259, §§2–4, 5(b), 7(b)(1), 88 Stat. 55, 56, 62; Nov. 1, 1977, Pub. L. 95–151, §2(a)–(d)(2), 91 Stat. 1245, 1246; Nov. 17, 1989, Pub. L. 101–157, §§2, 4(b), 103 Stat. 938, 940; Dec. 19, 1989, Pub. L. 101–239, title X, §10208(d)(2)(B)(i), 103 Stat. 2481.)
+#### (g) Newly hired employees who are less than 20 years old
+
+(1) In lieu of the rate prescribed by subsection (a)(1) of this section, any employer may pay any employee of such employer, during the first 90 consecutive calendar days after such employee is initially employed by such employer, a wage which is not less than $4.25 an hour.
+
+(2) No employer may take any action to displace employees (including partial displacements such as reduction in hours, wages, or employment benefits) for purposes of hiring individuals at the wage authorized in paragraph (1).
+
+(3) Any employer who violates this subsection shall be considered to have violated section 215(a)(3) of this title.
+
+(4) This subsection shall only apply to an employee who has not attained the age of 20 years.
+
+(June 25, 1938, ch. 676, §6, 52 Stat. 1062; June 26, 1940, ch. 432, §3(e), (f), 54 Stat. 616; Oct. 26, 1949,ch. 736, §6, 63 Stat. 912; Aug. 12, 1955, ch. 867, §3, 69 Stat. 711; Aug. 8, 1956, ch. 1035, §2, 70 Stat. 1118; May 5, 1961, Pub. L. 87–30, §5, 75 Stat. 67; June 10, 1963, Pub. L. 88–38, §3, 77 Stat. 56; Sept. 23, 1966, Pub. L. 89–601, title III, §§301–305, 80 Stat. 838, 839, 841; Apr. 8, 1974, Pub. L. 93–259, §§2–4, 5(b), 7(b)(1), 88 Stat. 55, 56, 62; Nov. 1, 1977, Pub. L. 95–151, §2(a)–(d)(2), 91 Stat. 1245, 1246; Nov. 17, 1989, Pub. L. 101–157, §§2, 4(b), 103 Stat. 938, 940; Dec. 19, 1989, Pub. L. 101–239, title X, §10208(d)(2)(B)(i), 103 Stat. 2481; Aug. 20, 1996, Pub. L. 104–188, \[title II\], §§2104(b), (c), 2105(c), 110 Stat. 1928, 1929.)
 
 #### References in Text
 
@@ -74,15 +68,19 @@ The Fair Labor Standards Amendments of 1966, referred to in subsec. (b), is Pub.
 
 The Education Amendments of 1972, referred to in subsec. (b), is Pub. L. 92–318, June 23, 1972, 86 Stat. 235, as amended, Title IX of the Education Amendments of 1972 is classified principally to chapter 38 (§1681 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title of 1972 Amendment note set out under section 1001 of Title 20 and Tables.
 
-The Fair Labor Standards Amendments of 1974, referred to in subsec. (b), is Pub. L. 93–259, Apr. 8, 1974, 88Stat. 55. For complete classification of this Act to the Code, see Short Title of 1974 Amendment note set out under section 201 of this title and Tables.
-
-The Fair Labor Standards Amendments of 1985, referred to in subsec. (c)(4), is Pub. L. 99–150, Nov. 13, 1985, 99 Stat. 787, which amended sections 203, 207, and 211 of this title and enacted provisions set out as notes under sections 203, 207, 215, and 216 of this title. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 201 of this title and Tables.
+The Fair Labor Standards Amendments of 1974, referred to in subsec. (b), is Pub. L. 93–259, Apr. 8, 1974, 88 Stat. 55. For complete classification of this Act to the Code, see Short Title of 1974 Amendment note set out under section 201 of this title and Tables.
 
 The Service Contract Act of 1965, referred to in subsec. (e)(1), (2), is Pub. L. 89–286, Oct. 22, 1965, 79 Stat. 1034, as amended, which is classified generally to chapter 6 (§351 et seq.) of Title 41, Public Contracts. For complete classification of this Act to the Code, see Short Title note set out under section 351 of Title 41 and Tables.
 
 The Social Security Act, referred to in subsec. (f)(1), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II of such Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Amendments
+
+1996—Subsec. (a)(1). Pub. L. 104–188, §2104(b), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “except as otherwise provided in this section, not less than $3.35 an hour during the period ending March 31, 1990, not less than $3.80 an hour during the year beginning April 1, 1990, and not less than $4.25 an hour after March 31, 1991;”.
+
+Subsec. (c). Pub. L. 104–188, §2104(c), struck out subsec. (c) which related to employees in Puerto Rico.
+
+Subsec. (g). Pub. L. 104–188, §2105(c), added subsec. (g).
 
 1989—Subsec. (a)(1). Pub. L. 101–157, §2, amended par. (1) generally. Prior to amendment, par. (1) read as follows: “not less than $2.65 an hour during the year beginning January 1, 1978, not less than $2.90 an hour during the year beginning January 1, 1979, not less than $3.10 an hour during the year beginning January 1, 1980, and not less than $3.35 an hour after December 31, 1980, except as otherwise provided in this section;”.
 
@@ -110,7 +108,7 @@ Subsec. (c)(5), (6). Pub. L. 95–151, §2(d)(2)(B), redesignated pars. (5) and 
 
 1974—Subsec. (a)(1). Pub. L. 93–259, §2, substituted “not less than $2 an hour during the period ending December 31, 1974, not less than $2.10 an hour during the year beginning January 1, 1975, and not less than $2.30 an hour after December 31, 1975” for “not less than $1.40 an hour during the first year from the effective date of the Fair Labor Standards Amendments of 1966 and not less than $1.60 an hour thereafter”.
 
-Subsec. (a)(5). Pub. L. 93–259, §4, substituted provisions for a minimum wage rate not less than: $1.60 an hour during period ending Dec. 31, 1974; $1.80, $2, and $2.20 an hour during years beginning Jan. 1, 1975, 1976, and 1977, respectively; and $2.30 an hour after Dec. 31, 1977 for former provisions for a minimum wage rate not less than $1 an hour during first year from the effective date of the Fair Labor Standards Amendments of 1966, not less than $1.15 an hour during second year from such date, and not less than $1.30 an hour thereafter.
+Subsec. (a)(5). Pub. L. 93–259, §4, substituted provisions for a minimum wage rate not less than: $1.60 an hour during period ending Dec. 31, 1974; $1.80, $2, and $2.20 an hour during years beginning Jan. 1, 1975, 1976, and 1977, respectively; and $2.30 an hour after Dec. 31, 1977 for former provisions for a minimum wage rate not less than $1 an hour during first year from the effective date of the Fair Labor Standards Amendments of 1966,not less than $1.15 an hour during second year from such date, and not less than $1.30 an hour thereafter.
 
 Subsec. (b). Pub. L. 93–259, §3, inserted references to “title II of the Education Amendments of 1972” and “Fair Labor Standards Amendments of 1974” and substituted provisions for a minimum wage rate not less than $1.90 an hour during period ending Dec. 31, 1974; $2 and $2.20 an hour during years beginning Jan. 1, 1975, and 1976, respectively; and $2.30 an hour after Dec. 31, 1976 for former provisions for a minimum wage rate not less than: $1 an hour during first year from effective date of Fair Labor Standards Amendments of 1966; $1.15, $1.30, and $1.45 an hour during second, third, and fourth years from such date; and $1.60 an hour thereafter.
 
@@ -118,7 +116,7 @@ Subsec. (c)(2) to (6). Pub. L. 93–259, §5(b), added pars. (2) to (6) and stru
 
 “(2) In the case of any such employee who is covered by such a wage order and to whom the rate or rates prescribed by subsection (a) of this section would otherwise apply, the following rates shall apply:
 
-&emsp;“(A) The rate or rates applicable under the most recent wage order issued by the Secretary prior to the effective date of the Fair Labor Standards Amendments of 1966, increased by 12 per centum, unless such rate or rates are superseded by the rate or rates prescribed in a wage order issued by the Secretary pursuant to the recommendations of a review committee appointed under paragraph (C). Such rate or rates shall become effective sixty days after the effective date of the Fair Labor Standards Amendments of 1966 or one year from the effective date of the most recentwage order applicable to such employee therefore issued by the Secretary pursuant to the recommendations of a special industry committee appointed under section 205 of this title, whichever is later.
+&emsp;“(A) The rate or rates applicable under the most recent wage order issued by the Secretary prior to the effective date of the Fair Labor Standards Amendments of 1966, increased by 12 per centum, unless such rate or rates are superseded by the rate or rates prescribed in a wage order issued by the Secretary pursuant to the recommendations of a review committee appointed under paragraph (C). Such rate or rates shall become effective sixty days after the effective date of the Fair Labor Standards Amendments of 1966 or one year from the effective date of the most recent wage order applicable to such employee therefore issued by the Secretary pursuant to the recommendations of a special industry committee appointed under section 205 of this title, whichever is later.
 
 &emsp;“(B) Beginning one year after the applicable effective date under paragraph (A), not less than the rate or rates prescribed by paragraph (A), increased by an amount equal to 16 per centum of the rate or rates applicable under the most recent wage order issued by the Secretary prior to the effective date of the Fair Labor Standards Amendments of 1966, unless such rate or rates are superseded by the rate or rates prescribed in a wage order issued by the Secretary pursuant to the recommendations of a review committee appointed under paragraph (C).
 
@@ -268,7 +266,7 @@ Disqualification.—If the Secretary determines that an employer has taken an ac
 
 “(e)
 
-Notice.—Each employer shall provide to any eligible employee who is to be paid the wage authorizedby subsection (a) a written notice before the employee begins employment stating the requirements of this section and the remedies provided by subsection (f) for violations of this section. The Secretary shall provide to employers the text of the notice to be provided under this subsection.
+Notice.—Each employer shall provide to any eligible employee who is to be paid the wage authorized by subsection (a) a written notice before the employee begins employment stating the requirements of this section and the remedies provided by subsection (f) for violations of this section. The Secretary shall provide to employers the text of the notice to be provided under this subsection.
 
 “(f)
 
@@ -326,7 +324,7 @@ Employer Requirements.—An employer who wants to employ employees at the wage a
 
 &emsp;“(1) notify the Secretary annually of the positions at which such employees are to be employed at such wage,
 
-&emsp;“(2) provide on-the-job training to such employees which meets general criteria of the Secretary issued by regulation after consultation with the Committee on Labor and Human Resources of the Senate and the Committee on Education and Labor \[now Committee on Economic and Educational Opportunities\] of the House of Representatives and other interested persons,
+&emsp;“(2) provide on-the-job training to such employees which meets general criteria of the Secretary issued by regulation after consultation with the Committee on Labor and Human Resources of the Senate and the Committee on Education and Labor \[now Committee on Education and the Workforce\] of the House of Representatives and other interested persons,
 
 &emsp;“(3) keep on file a copy of the training program which the employer will provide such employees,
 
@@ -356,7 +354,7 @@ Certain public agencies not to be liable for violations of this section occurrin
 
 #### Effect of Amendments by Public Law 99–150 on Public Agency Liability Respecting any Employee Covered Under Special Enforcement Policy
 
-Amendment by Pub. L. 99–150 not to affect liability of certain public agencies under section 216 of this title for violation of this section occurring before Apr. 15, 1986, see section 7 of Pub. L. 99–150, set out as a note under section 216 of this title.
+Amendment by Pub. L. 99–150 not to affect liability of certain public agencies under section 216 of this titlefor violation of this section occurring before Apr. 15, 1986, see section 7 of Pub. L. 99–150, set out as a note under section 216 of this title.
 
 #### Inapplicability to Northern Mariana Islands
 
@@ -404,5 +402,5 @@ Overtime pay, see section 207 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 203, 205, 207, 208, 213, 214, 215, 216, 218, 1552, 2617 of this title; title 2 sections 60k, 1313; title 5 sections 2302, 5343, 5349, 7702; title 7 sections 2015, 2026; title 10 section 1588; title 15 section 1673; title 20 sections 1078–10, 1085; title 21 section 849; title 22 sections 2506, 3905, 3967, 3968, 3969, 4131; title 26 section 45B; title 38 sections 1720, 3485; title 41 section 351; title 42 sections 300e–9, 431, 1437t, 2000e–2, 2753, 3056, 8009, 8011, 9848.
+This section is referred to in sections 203, 205, 207, 208, 213, 214, 215, 216, 218, 1552, 2617 of this title; title 2 sections 60k, 1313; title 3 section 413; title 5 sections 2302, 5343, 5349, 7702; title 7 sections 2015, 2026; title 10 section 1588; title 15 section 1673; title 20 sections 1078–10, 1085; title 21 section 849; title 22 sections 2506, 3905, 3967, 3968, 3969, 4131; title 24 section 422; title 26 section 45B; title 38 sections 1720, 3485; title 41 section 351; title 42 sections 300e–9, 431, 1437t, 2000e–2, 2753, 3056, 8009, 8011, 9848.
 

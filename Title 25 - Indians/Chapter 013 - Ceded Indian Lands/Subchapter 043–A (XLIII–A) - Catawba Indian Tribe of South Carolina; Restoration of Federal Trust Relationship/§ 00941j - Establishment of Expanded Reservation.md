@@ -30,7 +30,7 @@ The Secretary is authorized to receive from the State, by such transfer document
 
 #### (d) Non-contiguous tracts
 
-The Tribe, in consultation with the Secretary, shall take such actions as are reasonable to expand the Existing Reservation by assembling a composite tract of contiguous parcels that border and surround the Existing Reservation. Before requesting that any non-contiguous tract be placed in Reservation status, the Tribe shall comply with section 14 of the Settlement Agreement. Upon the approval of the Tribe's application under and in accordance with section 14 of the Settlement Agreement, the Secretary, in consultation with the Tribe, may proceed to place non-contiguous tracts in Reservation status. No purchases of non-contiguous tracts shall be made for the Reservation except as set forth in the Settlement Agreement and the State Act.
+The Tribe, in consultation with the Secretary, shall take such actions as are reasonable to expand the Existing Reservation by assembling a composite tract of contiguous parcels that border and surround the Existing Reservation. Before requesting that any non-contiguous tract be placed in Reservation status, the Tribe shallcomply with section 14 of the Settlement Agreement. Upon the approval of the Tribe's application under and in accordance with section 14 of the Settlement Agreement, the Secretary, in consultation with the Tribe, may proceed to place non-contiguous tracts in Reservation status. No purchases of non-contiguous tracts shall be made for the Reservation except as set forth in the Settlement Agreement and the State Act.
 
 #### (e) Voluntary land purchases
 
@@ -40,7 +40,7 @@ The Tribe, in consultation with the Secretary, shall take such actions as are re
 
 #### (f) Terms and conditions of acquisition
 
-All properties acquired by the Tribe shall be acquired subject to the terms and conditions set forth in the Settlement Agreement. The Tribeand the Secretary, acting on behalf of the Tribe and with its consent, are also authorized to acquire Reservation and non-Reservation lands using the methods of financing described in the Settlement Agreement.
+All properties acquired by the Tribe shall be acquired subject to the terms and conditions set forth in the Settlement Agreement. The Tribe and the Secretary, acting on behalf of the Tribe and with its consent, are also authorized to acquire Reservation and non-Reservation lands using the methods of financing described in the Settlement Agreement.
 
 #### (g) Authority to erect permanent improvements on Existing and Expanded Reservation land and non-Reservation land held in trust
 

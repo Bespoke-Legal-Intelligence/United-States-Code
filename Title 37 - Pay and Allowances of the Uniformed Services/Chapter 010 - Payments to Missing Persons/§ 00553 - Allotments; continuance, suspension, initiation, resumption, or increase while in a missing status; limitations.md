@@ -10,9 +10,9 @@
 
 (e) Subject to subsections (f) and (g), the Secretary concerned, or his designee, may, when he considers it in the interest of the member, his dependents, or the United States, direct the initiation, continuance, discontinuance, increase, decrease, suspension, or resumption of payments of allotments from the pay and allowances of a member entitled to pay and allowances under section 552 of this title.
 
-(f) When the Secretary concerned officially reports that a member in a missing status is alive, the payments of allotments authorized by subsections (a)–(d) may, subject to section 552 of this title, be made until the date the Secretary concerned receives evidence that the member is dead or has returned to the controllable jurisdiction of the department concerned.
+(f) When the Secretary concerned officially reports that a member in a missing status is alive, the payments of allotments authorized by subsections (a)–(d) may, subject to section 552 of this title, be made until the date on which, in a case covered by section 555 of this title, the Secretary concerned receives evidence, or, in a case covered by chapter 76 of title 10, the Secretary concerned determines pursuant to that chapter, that the member is dead or has returned to the controllable jurisdiction of the department concerned.
 
-(g) A member in a missing status who is continued in that status under section 555 of this title is entitled to have the payments of allotments authorized by subsections (a)–(d) continued, increased, or initiated.
+(g) A member in a missing status who is continued in that status under section 555 of this title or under chapter 76 of title 10 is entitled to have the payments of allotments authorized by subsections (a)–(d) continued, increased, or initiated.
 
 (h) When the Secretary concerned considers it essential for the well-being and protection of the dependents of a member on active duty (other than a member entitled to pay and allowances under section 552 of this title), he may, with or without the consent, and subject to termination at the request, of the member—
 
@@ -22,7 +22,7 @@
 
 &emsp;(3) continue payment of an allotment of the member which has expired.
 
-(Added Pub. L. 89–554, §5(b), Sept. 6, 1966, 80 Stat. 626; amended Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117.)
+(Added Pub. L. 89–554, §5(b), Sept. 6, 1966, 80 Stat. 626; amended Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 104–106, div. A, title V, §569(c)(3), Feb. 10, 1996, 110 Stat. 351.)
 
 Historical and Revision Notes
 
@@ -34,7 +34,11 @@ Historical and Revision Notes
 
 553(a)
 
+&nbsp;
+
 553(b)
+
+&nbsp;
 
 553(c)
 
@@ -57,6 +61,14 @@ Mar. 7, 1942, ch. 166, §3, 56 Stat. 144; Dec. 24, 1942, ch. 828, §1 (1st par.)
 Mar. 7, 1942, ch. 166, §4, 56 Stat. 144; Dec. 24, 1942, ch. 828, §1 (2d par.), 56 Stat. 1093; July 1, 1944, ch. 371, §4, 58 Stat. 680.
 
 553(f)
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 553(g)
 
@@ -95,6 +107,10 @@ In subsection (g), the words “A member in a missing status” are substituted 
 In subsection (h), the words “Secretary concerned” are substituted for “head of the department concerned.” The words “a member on active duty” are substituted for “of persons in active service” to conform to the definitions in 37 U.S.C. 101(20) and (23). In clause (2), the words “heretofore or hereafter” are omitted as unnecessary.
 
 #### Amendments
+
+1996—Subsec. (f). Pub. L. 104–106, §569(c)(3)(A), substituted “the date on which, in a case covered by section 555 of this title, the Secretary concerned receives evidence, or, in a case covered by chapter 76 of title 10, the Secretary concerned determines pursuant to that chapter, that” for “the date the Secretary concerned receives evidence that”.
+
+Subsec. (g). Pub. L. 104–106, §569(c)(3)(B), inserted “or under chapter 76 of title 10” after “section 555 of this title”.
 
 1991—Subsecs. (e) to (g). Pub. L. 102–25 struck out “of this section” after “subsections (f) and (g)” in subsec. (e) and after “subsections (a)–(d)” in subsecs. (f) and (g).
 

@@ -48,7 +48,7 @@
 
 (B) Such final rules shall require purchasers to submit buy-out requests to the appropriate Secretary within ninety days after the publication of such rules.
 
-(7)(A) For purposes only of determining a purchaser's buy-out limitation under paragraph (2)and net worth in connection with buy-out cost under paragraph (3), concerns which are affiliates as defined under subparagraph (B) of this paragraph shall be treated as a single entity.
+(7)(A) For purposes only of determining a purchaser's buy-out limitation under paragraph (2) and net worth in connection with buy-out cost under paragraph (3), concerns which are affiliates as defined under subparagraph (B) of this paragraph shall be treated as a single entity.
 
 (B) Definition of affiliates: Concerns are affiliates of each other when either directly or indirectly, one concern controls or has the power to control the other, or a third party or parties controls or has the power to control both. In determining whether or not affiliation exists, consideration shall be given to all appropriate factors, including, but not limited to, common ownership, common management, and contractual relationships.
 

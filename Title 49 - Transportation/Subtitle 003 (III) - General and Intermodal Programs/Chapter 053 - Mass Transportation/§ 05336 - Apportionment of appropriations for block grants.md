@@ -24,17 +24,19 @@ Based on Fixed Guideway Revenue Vehicle-Miles, Route-Miles, and Passenger-Miles.
 
 &emsp;&emsp;(ii) 40 percent of the 95.61 percent apportioned under this subparagraph multiplied by a ratio equal to the number of fixed guideway route-miles attributable to the area, established by the Secretary, divided by the total number of all fixed guideway route-miles attributable to all areas.
 
+> &emsp;An urbanized area with a population of at least 750,000 in which commuter rail transportation is provided shall receive at least .75 percent of the total amount apportioned under this subparagraph.
+
 &emsp;(B) 4.39 percent of the total amount apportioned under this subsection shall be apportioned so that each urbanized area with a population of at least 200,000 is entitled to receive an amount equal to—
 
 &emsp;&emsp;(i) the number of fixed guideway vehicle passenger-miles traveled multiplied by the number of fixed guideway vehicle passenger-miles traveled for each dollar of operating cost in an area; divided by
 
 &emsp;&emsp;(ii) the total number of fixed guideway vehicle passenger-miles traveled multiplied by the total number of fixed guideway vehicle passenger-miles traveled for each dollar of operating cost in all areas.
 
-&emsp;(C) An urbanized area with a population of at least 750,000 in which commuter rail transportation is provided shall receive at least .75 percent of the total amount apportioned under this subsection.
+> &emsp;An urbanized area with a population of at least 750,000 in which commuter rail transportation is provided shall receive at least .75 percent of the total amount apportioned under this subparagraph.
 
-&emsp;(D) Under subparagraph (A) of this paragraph, fixed guideway revenue vehicle- or route-miles, and passengers served on those miles, in an urbanized area with a population of less than 200,000, where the miles and passengers served otherwise would be attributable to an urbanized area with a population of at least 1,000,000 in an adjacent State, are attributable to the governmental authority in the State in which the urbanized area with a population of less than 200,000 is located. The authority is deemed an urbanized area with a population of at least 200,000 if the authority makes a contract for the service.
+&emsp;(C) Under subparagraph (A) of this paragraph, fixed guideway revenue vehicle- or route-miles, and passengers served on those miles, in an urbanized area with a population of less than 200,000, where the miles and passengers served otherwise would be attributable to an urbanized area with a population of at least 1,000,000 in an adjacent State, are attributable to the governmental authority in the State in which the urbanized area with a population of less than 200,000 is located. The authority is deemed an urbanized area with a population of at least 200,000 if the authority makes a contract for the service.
 
-&emsp;(E) A recipient's apportionment under subparagraph (A)(i) of this paragraph may not be reduced if the recipient, after satisfying the Secretary of Transportation that energy or operating efficiencies would be achieved, reduces revenue vehicle-miles but provides the same frequency of revenue service to the same number of riders.
+&emsp;(D) A recipient's apportionment under subparagraph (A)(i) of this paragraph may not be reduced if the recipient, after satisfying the Secretary of Transportation that energy or operating efficiencies would be achieved, reduces revenue vehicle-miles but provides the same frequency of revenue service to the same number of riders.
 
 (c)
 
@@ -46,9 +48,9 @@ Based on Bus Revenue Vehicle-Miles and Passenger-Miles.—Of the amount apportio
 
 &emsp;&emsp;&emsp;(i) 50 percent of the 73.39 percent apportioned under this subparagraph multiplied by a ratio equal to the total bus revenue vehicle-miles operated in or directly serving the urbanized area divided by the total bus revenue vehicle-miles attributable to all areas;
 
-&emsp;&emsp;&emsp;(ii) 25 percent of the 73.39 percent apportioned under this subparagraph multiplied by a ratio equal to the population of the area divided by the total population of allareas, as shown by the latest Government census; and
+&emsp;&emsp;&emsp;(ii) 25 percent of the 73.39 percent apportioned under this subparagraph multiplied by a ratio equal to the population of the area divided by the total population of all areas, as shown by the latest Government census; and
 
-&emsp;&emsp;&emsp;(iii) 25 percent of the 73.39 percent apportioned under this subparagraph multiplied by a ratio for the area based on population weighted by a factor, established by the Secretary of Transportation, of the number of inhabitants in each square mile.
+&emsp;&emsp;&emsp;(iii) 25 percent of the 73.39 percent apportioned under this subparagraph multipliedby a ratio for the area based on population weighted by a factor, established by the Secretary of Transportation, of the number of inhabitants in each square mile.
 
 &emsp;&emsp;(B) 26.61 percent of the 90.8 percent apportioned under this paragraph shall be apportioned so that each urbanized area with a population of at least 200,000 but not more than 999,999 is entitled to receive an amount equal to—
 
@@ -100,11 +102,11 @@ Transfers of Apportionments.—(1) The chief executive officer of a State may tr
 
 (4) A designated recipient for an urbanized area with a population of at least 200,000 may transfer a part of its apportionment under this section to the chief executive officer of a State. The chief executive officer shall distribute the transferred amounts to urbanized areas under this section.
 
-(5) Capital and operating assistance limitations applicable to the original apportionmentapply to amounts transferred under this subsection.
+(5) Capital and operating assistance limitations applicable to the original apportionment apply to amounts transferred under this subsection.
 
 (h)
 
-Changes of Apportionments.—If sufficient amounts are available, the Secretary of Transportation shall change apportionments under this section between the Mass Transit Account of the Highway Trust Fund and the general fund to ensure that each recipient receives from the general fund at least as much operating assistance made available each fiscal year under this section as the recipient is eligible to receive.
+Changes of Apportionments.—If sufficient amounts are available, the Secretary of Transportation shall change apportionments underthis section between the Mass Transit Account of the Highway Trust Fund and the general fund to ensure that each recipient receives from the general fund at least as much operating assistance made available each fiscal year under this section as the recipient is eligible to receive.
 
 (i)
 
@@ -122,11 +124,15 @@ Certain Urbanized Areas Grandfathered.—An area designated an urbanized area un
 
 &emsp;(2) an amount equal to 50 percent of the amount that the State in which the area is located would have received if the area had been an area other than an urbanized area.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 840.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 840; Pub. L. 104–287, §5(19), Oct. 11, 1996, 110 Stat. 3390.)
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+Pub. L. 103–272
+
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -134,7 +140,7 @@ Historical and Revision Notes
 
 5336(a)(1)
 
-49 App.:1607a(a) (1).
+49 App.:1607a(a)(1).
 
 July 9, 1964, Pub. L. 88–365, 78 Stat. 302, §9(a); added Jan. 6, 1983, Pub. L. 97–424, §303, 96 Stat. 2141; Apr. 2, 1987, Pub. L. 100–17, §327(b), 101 Stat. 238; Dec. 18, 1991, Pub. L. 102–240, §3013(a), 105 Stat. 2106.
 
@@ -146,31 +152,31 @@ July 9, 1964, Pub. L. 88–365, 78 Stat. 302, §9(b)(1)–(3), (c)–(e)(1), (m)
 
 5336(a)(2)
 
-49 App.:1607a(a) (2).
+49 App.:1607a(a)(2).
 
 5336(b)(1)
 
 49 App.:1607a(b)(2) (last sentence).
 
-5336(b) (2)(A)
+5336(b)(2)(A)
 
-49 App.:1607a (b)(1), (2) (1st sentence).
+49 App.:1607a(b)(1), (2) (1st sentence).
 
-5336(b) (2)(B)
+5336(b)(2)(B)
 
 49 App.:1607a(b)(3) (1st sentence).
 
-5336(b) (2)(C)
+5336(b)(2)(C)
 
 49 App.:1607a(b)(2) (2d sentence), (3) (last sentence).
 
-5336(b) (2)(D)
+5336(b)(2)(D)
 
 49 App.:1607a(b)(2) (3d sentence).
 
-5336(b) (2)(E)
+5336(b)(2)(E)
 
-49 App.:1607a (b)(4).
+49 App.:1607a(b)(4).
 
 July 9, 1964, Pub. L. 88–365, 78 Stat. 302, §9(b)(4); added Dec. 18, 1991, Pub. L. 102–240, §3013(b), 105 Stat. 2106.
 
@@ -208,7 +214,7 @@ July 9, 1964, Pub. L. 88–365, 78 Stat. 302, §9(q); added Apr. 2, 1987, Pub. L
 
 5336(f)
 
-49 App.:1607a (m)(2).
+49 App.:1607a(m)(2).
 
 5336(g)
 
@@ -224,7 +230,7 @@ July 9, 1964, Pub. L. 88–365, 78 Stat. 302, §9(t); added Dec. 18, 1991, Pub. 
 
 5336(i)
 
-49 App.:1607a(<i>o).</i>
+49 App.:1607a(<i>o</i>).
 
 July 9, 1964, Pub. L. 88–365, 78 Stat. 302, §9(<i>o</i>); added Jan. 6, 1983, Pub. L. 97–424, §303, 96 Stat. 2147; Apr. 2, 1987, Pub. L. 100–17, §§311, 327(b), 101 Stat. 228, 238.
 
@@ -266,9 +272,23 @@ In subsection (j), the references to sections 5302(a)(8) and 5318 are added for 
 
 In subsection (k), the text of 49 App.:1607a(s)(1) is omitted as obsolete.
 
+#### Pub. L. 104–287
+
+This amends 49:5336(b)(2) to clarify the restatement of 49 App.:1607a(b) by section 1 of the Act of July 5, 1994 (Public Law 103–272, 108 Stat. 840).
+
 #### References in Text
 
 Section 5(a)(1)(A), (2)(A), and (3)(A) of the Urban Mass Transportation Act of 1964, referred to in subsec. (d)(1)(A)–(C), is section 5(a)(1)(A), (2)(A), and (3)(A) of Pub. L. 88–365, redesignated the “Federal Transit Act”, which was classified to section 1604(a)(1)(A), (2)(A), and (3)(A) of former Title 49, Transportation, prior to repeal by Pub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379.
+
+#### Amendments
+
+1996—Subsec. (b)(2)(A), (B). Pub. L. 104–287, §5(19)(A), inserted at end “An urbanized area with a population of at least 750,000 in which commuter rail transportation is provided shall receive at least .75 percent of the total amount apportioned under this subparagraph.”
+
+Subsec. (b)(2)(C) to (E). Pub. L. 104–287, §5(19)(B), (C), redesignated subpars. (D) and (E) as (C) and (D), respectively, and struck out former subpar. (C) which read as follows: “An urbanized area with a population of at least 750,000 in which commuter rail transportation is provided shall receive at least .75 percent of the total amount apportioned under this subsection.”
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–287 effective July 5, 1994, see section 8(1) of Pub. L. 104–287, set out as a note under section 5303 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -46,7 +46,7 @@ The Attorney General shall, subject to the availability of appropriations, publi
 
 &emsp;(C) the extent to which and the manner in which instances of child abuse form a basis for convictions for crimes other than child abuse crimes.
 
-(2) Not later than 2 years after December 20, 1993, the Administrator shall submit a report to the Chairman of the Committee on the Judiciary of the Senate and the Chairman of the Committee on the Judiciary of the House of Representatives containing a description of and a summary of the results of the study conducted pursuant to paragraph (1).
+(2) Not later than 2 years after December 20, 1993, the Administrator shall submit a report tothe Chairman of the Committee on the Judiciary of the Senate and the Chairman of the Committee on the Judiciary of the House of Representatives containing a description of and a summary of the results of the study conducted pursuant to paragraph (1).
 
 (Pub. L. 103–209, §2, Dec. 20, 1993, 107 Stat. 2490; Pub. L. 103–322, title XXXII, §320928(b), (h), (i), Sept. 13, 1994, 108 Stat. 2132, 2133.)
 

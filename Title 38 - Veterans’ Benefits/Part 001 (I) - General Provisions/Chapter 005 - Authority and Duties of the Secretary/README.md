@@ -37,10 +37,13 @@
 | [542\.](Subchapter%20003%20%28III%29%20-%20Advisory%20Committees/%C2%A7%2000542%20-%20Advisory%20Committee%20on%20Women%20Veterans.md) | Advisory Committee on Women Veterans. |
 | [543\.](Subchapter%20003%20%28III%29%20-%20Advisory%20Committees/%C2%A7%2000543%20-%20Advisory%20Committee%20on%20Prosthetics%20and%20Special-Disabilities%20Programs.md) | Advisory Committee on Prosthetics and Special-Disabilities Programs. |
 | [544\.](Subchapter%20003%20%28III%29%20-%20Advisory%20Committees/%C2%A7%2000544%20-%20Advisory%20Committee%20on%20Minority%20Veterans.md) | Advisory Committee on Minority Veterans. |
+| [545\.](Subchapter%20003%20%28III%29%20-%20Advisory%20Committees/%C2%A7%2000545%20-%20Advisory%20Committee%20on%20the%20Readjustment%20of%20Veterans.md) | Advisory Committee on the Readjustment of Veterans. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1996—Pub. L. 104–262, title III, §333(a)(2), Oct. 9, 1996, 110 Stat. 3200, added item 545.
 
 1994—Pub. L. 103–446, title V, §510(b), Nov. 2, 1994, 108 Stat. 4670, added item 544.
 

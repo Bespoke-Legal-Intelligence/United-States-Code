@@ -34,9 +34,7 @@
 
 &emsp;(2) provided under a Government bill of lading or transportation request when the overpayment was the result of using improper transportation rates or classifications or the failure to deduct the proper amount under a land-grant law or agreement.
 
-(d) This section does not apply to disbursements of a military department of the Department of Defense, except disbursements for departmental pay and expenses in the District of Columbia.
-
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 966; Pub. L. 98–216, §1(4), Feb. 14, 1984, 98 Stat. 4.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 966; Pub. L. 98–216, §1(4), Feb. 14, 1984, 98 Stat. 4; Pub. L. 104–106, div. A, title IX, §913(c)(5), Feb. 10, 1996, 110 Stat. 412.)
 
 Historical and Revision Notes<br>1982
 
@@ -84,17 +82,19 @@ In the section, the word “official” is substituted for “officer or employe
 
 In subsection (a), before clause (1), the words “the existence and correctness of” are omitted as surplus. In clause (1), the words “or otherwise stated on” are omitted as surplus. The word “records” is substituted for “papers” for consistency. Clause (2) is substituted for 31:82f(related to certifying officers) because of the restatement. In clause (4), before subclause (A), the word “repaying” is substituted for “and required to make good to the United States” to eliminate unnecessary words. The words “the amount of” are omitted as surplus. In subclause (A), the word “inaccurate” is substituted for “false, inaccurate” to eliminate an unnecessary word. The words “made by him” are omitted as surplus.
 
-In subsection (b), before clause (1), the words “in his discretion” and “for any payment otherwise proper”are omitted as surplus. Clause (2)(B) is substituted for “the payment was not contrary to any statutory provision specifically prohibiting payments of the character involved” to eliminate unnecessary words.
+In subsection (b), before clause (1), the words “in his discretion” and “for any payment otherwise proper” are omitted as surplus. Clause (2)(B) is substituted for “the payment was not contrary to any statutory provision specifically prohibiting payments of the character involved” to eliminate unnecessary words.
 
 In subsection (c), before clause (1), the word “services” in 31:82c(last proviso) is omitted as surplus. The words “On and after June 1, 1942” in 31:82g(related to certifying officers) are omitted as executed. The word “audit” is substituted for “examination” for consistency in the revised title and with other titles of the Code. The words “of the transportation bill” are omitted as surplus. In clause (2), the words “equalization and other” in 31:82g are omitted as surplus.
 
-In subsection (d), the words “under the jurisdiction” are omitted as surplus. The words “a military department of the Department of Defense” are substituted for “the Department of the Army, the Navy Department (including the Marine Corps)” for consistency with title 10. The words “and the Panama Canal” (subsequently changed to “the Canal Zone Government” by section 2(a)(1) of the Act of September 26, 1950 (ch. 1049, 64 Stat. 1038)) are omitted because of the Panama Canal Act of 1979 (Pub. L. 96–70, 93 Stat. 452). The word “pay” is substituted for “salaries” for consistency in the revised title and with other titles of the Code.
+In subsection (d), the words “under the jurisdiction” are omitted as surplus. The words “a military department of the Department of Defense” are substituted for“the Department of the Army, the Navy Department (including the Marine Corps)” for consistency with title 10. The words “and the Panama Canal” (subsequently changed to “the Canal Zone Government” by section 2(a)(1) of the Act of September 26, 1950 (ch. 1049, 64 Stat. 1038)) are omitted because of the Panama Canal Act of 1979 (Pub. L. 96–70, 93 Stat. 452). The word “pay” is substituted for “salaries” for consistency in the revised title and with other titles of the Code.
 
 #### 1984 Act
 
 This clarifies section 3528(b) by restoring the authority of the Comptroller General to deny relief to certifying officials in the same way relief may be denied to disbursing officials.
 
 #### Amendments
+
+1996—Subsec. (d). Pub. L. 104–106 struck out subsec. (d) which read as follows: “This section does not apply to disbursements of a military department of the Department of Defense, except disbursements for departmental pay and expenses in the District of Columbia.”
 
 1984—Subsec. (b). Pub. L. 98–216 designated existing provisions as par. (1), substituted designations of subpars. (A) and (B) and cls. (i), (ii), and (iii) for former designations of pars. (1) and (2) and subpars. (A), (B), and (C), respectively, and added par. (2).
 
@@ -104,5 +104,5 @@ Amendment by Pub. L. 98–216 effective Sept. 13, 1982, see section 4(c) of Pub.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 28 section 594.
+This section is referred to in section 3527 of this title; title 28 section 594.
 

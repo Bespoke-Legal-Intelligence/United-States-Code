@@ -26,7 +26,7 @@
 
 &emsp;&emsp;&emsp;(v) fixes the scope and format of the notice to be provided regarding the hearing on approval of the disclosure statement; or
 
-&emsp;&emsp;&emsp;(vi) provides that the hearing on approval of the disclosure statement may becombined with the hearing on confirmation of the plan.
+&emsp;&emsp;&emsp;(vi) provides that the hearing on approval of the disclosure statement may be combined with the hearing on confirmation of the plan.
 
 (Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2555; Pub. L. 98–353, title I, §118, July 10, 1984, 98 Stat. 344; Pub. L. 99–554, title II, §203, Oct. 27, 1986, 100 Stat. 3097; Pub. L. 103–394, title I, §104(a), Oct. 22, 1994, 108 Stat. 4108.)
 

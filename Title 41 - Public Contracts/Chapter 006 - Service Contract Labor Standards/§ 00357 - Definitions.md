@@ -8,7 +8,7 @@ For the purposes of this chapter—
 
 &emsp;(c) The term “compensation” means any of the payments or fringe benefits described in section 351 of this title.
 
-&emsp;(d) The term “United States” when used in a geographical sense shall include any State of the United States, the District of Columbia, Puerto Rico, the Virgin Islands, Outer Continental Shelf lands as defined in the Outer Continental Shelf Lands Act, American Samoa, Guam, Wake Island, Eniwetok Atoll, Kwajalein Atoll, Johnston Island, and Canton Island, but shall not include any other territory under the jurisdiction of the United States or any United States base or possession within a foreign country.
+&emsp;(d) The term “United States” when used in a geographical sense shall include any State ofthe United States, the District of Columbia, Puerto Rico, the Virgin Islands, Outer Continental Shelf lands as defined in the Outer Continental Shelf Lands Act, American Samoa, Guam, Wake Island, Eniwetok Atoll, Kwajalein Atoll, Johnston Island, and Canton Island, but shall not include any other territory under the jurisdiction of the United States or any United States base or possession within a foreign country.
 
 (Pub. L. 89–286, §8, Oct. 22, 1965, 79 Stat. 1036; Pub. L. 93–57, §1, July 6, 1973, 87 Stat. 140; Pub. L. 94–489, §3, Oct. 13, 1976, 90 Stat. 2358.)
 

@@ -28,7 +28,11 @@ Except as otherwise provided in section 1359ee of this title, a State cane sugar
 
 Subsec. (b). Pub. L. 102–237, §111(f)(2), added subsec. (b) and struck out former subsec. (b) which read as follows: “Except as otherwise provided in section 1359ee of this title, the marketing allotment established for cane sugar under this subpart for a fiscal year may be filled only with sugar processed from sugarcane grown in the State covered by the allotment.”
 
+#### Inapplicability of Section
+
+Section inapplicable to 1996 through 2002 crops of loan commodities, peanuts, and sugar and inapplicable to milk during period beginning Apr. 4, 1996, and ending Dec. 31, 2002, see section 7301(a)(1)(E) of this title.
+
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1359cc, 1359ff, 1359gg, 1359ii, 1359jj, 1446g of this title.
+This section is referred to in sections 1359cc, 1359ff, 1359gg, 1359ii, 1359jj of this title.
 

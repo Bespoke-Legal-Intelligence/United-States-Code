@@ -24,8 +24,9 @@
 | [3809\.](%C2%A7%2003809%20-%20Primary%20enforcement%20responsibility.md) | Primary enforcement responsibility. |
 | (a) | State obligation. |
 | (b) | Inadequate enforcement or administration by State; termination of responsibility by Secretary. |
-| (c) | Emergency conditions. |
-| [3810\.](%C2%A7%2003810%20-%20Advisory%20committees.md) | Advisory committees. |
+| (c) | Request of State official. |
+| (d) | Emergency conditions. |
+| [3810\.](%C2%A7%2003810%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93127%2C%20title%20IX%2C%20%C2%A7914%28b%29%281%29%2C%20Apr.%204%2C%201996%2C%20110%20Stat.%201186.md) | Repealed. |
 | [3811\.](%C2%A7%2003811%20-%20Issuance%20of%20regulations%3B%20maintenance%20of%20records.md) | Issuance of regulations; maintenance of records. |
 | [3812\.](%C2%A7%2003812%20-%20Authority%20in%20addition%20to%20other%20laws%3B%20effect%20on%20State%20laws.md) | Authority in addition to other laws; effect on State laws. |
 | [3813\.](%C2%A7%2003813%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
@@ -46,7 +47,7 @@
 - [&sect; 03807 - General enforcement provisions](%C2%A7%2003807%20-%20General%20enforcement%20provisions.md)
 - [&sect; 03808 - Cooperation with States](%C2%A7%2003808%20-%20Cooperation%20with%20States.md)
 - [&sect; 03809 - Primary enforcement responsibility](%C2%A7%2003809%20-%20Primary%20enforcement%20responsibility.md)
-- [&sect; 03810 - Advisory committees](%C2%A7%2003810%20-%20Advisory%20committees.md)
+- [&sect; 03810 - Repealed. Pub. L. 104&#8211;127, title IX, &sect;914(b)(1), Apr. 4, 1996, 110 Stat. 1186](%C2%A7%2003810%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93127%2C%20title%20IX%2C%20%C2%A7914%28b%29%281%29%2C%20Apr.%204%2C%201996%2C%20110%20Stat.%201186.md)
 - [&sect; 03811 - Issuance of regulations; maintenance of records](%C2%A7%2003811%20-%20Issuance%20of%20regulations%3B%20maintenance%20of%20records.md)
 - [&sect; 03812 - Authority in addition to other laws; effect on State laws](%C2%A7%2003812%20-%20Authority%20in%20addition%20to%20other%20laws%3B%20effect%20on%20State%20laws.md)
 - [&sect; 03813 - Authorization of appropriations](%C2%A7%2003813%20-%20Authorization%20of%20appropriations.md)

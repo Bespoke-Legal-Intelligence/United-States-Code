@@ -2,7 +2,7 @@
 
 #### (a) Program requirements
 
-A local educational agency shall use funds received under this subpart to adopt and carry out a comprehensive drug and violence prevention program which shall—
+A local educational agency shall use funds received under this subpart to adopt and carry outa comprehensive drug and violence prevention program which shall—
 
 &emsp;(1) be designed, for all students and employees, to—
 
@@ -68,7 +68,7 @@ A comprehensive drug and violence prevention program carried out under this subp
 
 #### (2) Special rule
 
-&emsp;A local educational agency shall only be able to use funds received under this subpart for activities described in paragraphs (5) and (6) of subsection (b) of this section if funding for such activities is not received from other Federal agencies.
+&emsp;A local educational agency shall only be able to use funds received under this subpart for activities described in paragraphs (5) and\(6) of subsection (b) of this section if funding for such activities is not received from other Federal agencies.
 
 #### (d) Administrative provisions
 

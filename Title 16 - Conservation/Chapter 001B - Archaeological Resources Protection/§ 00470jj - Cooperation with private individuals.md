@@ -4,7 +4,7 @@ The Secretary of the Interior shall take such action as may be necessary, consis
 
 &emsp;(1) private individuals having collections of archaeological resources and data which were obtained before the date of the enactment of this chapter, and
 
-&emsp;(2) Federal authorities responsible for the protection of archaeological resources on the public lands and Indian lands and professional archaeologists and associations of professional archaeologists.
+&emsp;(2) Federal authorities responsible for the protection of archaeological resources on the public lands and Indian lands and professionalarchaeologists and associations of professional archaeologists.
 
 > In carrying out this section, the Secretary shall, to the extent practicable and consistent with the provisions of this chapter, make efforts to expand the archaeological data base for the archaeological resources of the United States through increased cooperation between private individuals referred to in paragraph (1) and professional archaeologists and archaeological organizations.
 

@@ -32,7 +32,7 @@ Consistent with the assessments described in subsection (b) of this section each
 
 &emsp;(7) provide for the needs of persons with limited English proficiency (as defined in section 7601(8) <sup>1</sup> of this title <sup>2</sup> or no English proficiency by providing adequate appropriate language assistance to the extent necessary to all such persons so they may progress effectively through adult education programs;
 
-&emsp;(8) describe how the particular educational needs of adult immigrants, the incarcerated, persons with handicaps, the chronically unemployed, the homeless, the disadvantaged, and minorities will be addressed;
+&emsp;(8) describe how the particular educational needs of adult immigrants, the incarcerated,persons with handicaps, the chronically unemployed, the homeless, the disadvantaged, and minorities will be addressed;
 
 &emsp;(9) describe the progress the State has made in achieving the goals set forth in each State plan subsequent to the initial State plan;
 
@@ -82,7 +82,7 @@ The Bilingual Education Act, referred to in subsec. (d), is part A of title VII 
 
 #### Amendments
 
-1994—Subsec. (c)(7). Pub. L. 103–382, §394(a), made technical amendment to reference to section 7601(8) of this title to reflect change in reference to corresponding section of original act.
+1994—Subsec. (c)(7). Pub. L. 103–382, §394(a), made technical amendment to reference to section 7601(8) ofthis title to reflect change in reference to corresponding section of original act.
 
 Subsec. (c)(11). Pub. L. 103–382, §335(a), inserted “Even Start,” after “1963,”.
 

@@ -16,13 +16,9 @@ Grants under this section may be made only to—
 
 &emsp;(4) public housing agencies;
 
-&emsp;(5) nonprofit organizations and institutions of higher learning providing youth sports services programs;
+&emsp;(5) nonprofit organizations and institutions of higher learning providing youth sports services programs; and
 
-&emsp;(6) Indian tribes;
-
-&emsp;(7) Indian housing authorities; and
-
-&emsp;(8) institutions of higher learning that have never participated in a youth sports program assisted under this section.
+&emsp;(6) institutions of higher learning that have never participated in a youth sports program assisted under this section.
 
 #### (c) Use of grants
 
@@ -38,7 +34,7 @@ Grants under this section may be made only to—
 
 &emsp;&emsp;(B) The sports program shall provide positive sports activities or positive cultural, recreational, or other activities, designed to appeal to youths as alternatives to the drug environment in the public housing project.
 
-&emsp;&emsp;(C) The sports program shall be operated as, in conjunction with, or in furtherance of, an organized program or plan designed to eliminate drugs and drug-related problems in the public housing project or projects within the public housing agency.
+&emsp;&emsp;(C) The sports program shall be operated as, in conjunction with, or in furtherance of,an organized program or plan designed to eliminate drugs and drug-related problems in the public housing project or projects within the public housing agency.
 
 #### (3) Midnight basketball league programs
 
@@ -54,7 +50,7 @@ Any qualified entity that receives a grant under this section may use amounts fr
 
 &emsp;(3) Provision of public services, including salaries and expenses for staff of youth sports programs, cultural activities, transportation costs, educational programs relating to drug abuse, and sports and recreation equipment.
 
-&emsp;(4) In the case only of an eligible entity described in subsection (b)(8) of this section, any transportation costs in connection with the program.
+&emsp;(4) In the case only of an eligible entity described in subsection (b)(8) <sup>1</sup> of this section, any transportation costs in connection with the program.
 
 #### (e) Grant amount limitations
 
@@ -64,7 +60,7 @@ Any qualified entity that receives a grant under this section may use amounts fr
 
 #### (2) Non-Federal funds
 
-&emsp;For purposes of this subsection, the term “funds from non-Federal sources” includes funds from States, units of general local governments, or agencies of such governments, Indian tribes, private contributions, any salary paid to staff to carry out the youth sports program of the recipient, the value of the time and services contributed by volunteers to carry out the program of the recipient at a rate determined by the Secretary, the value of any donated material, equipment, or building, and the value of any lease on a building.
+&emsp;For purposes of this subsection, the term “funds from non-Federal sources” includes funds from States, units of general local governments, or agencies of such governments, private contributions, any salary paid to staff to carry out the youth sports program of the recipient, the value of the time and services contributed by volunteers to carry out the program of the recipient at a rate determined by the Secretary, the value of any donated material, equipment, or building, and the value of any lease on a building.
 
 #### (3) Prohibition of substitution of funds
 
@@ -128,31 +124,27 @@ Each qualified entity that receives a grant under this section shall submit to t
 
 For purposes of this section:
 
-#### (1) Indian tribe
-
-&emsp;The term “Indian tribe” has the meaning given such term in section 5302(a)(17) of this title.
-
-#### (2) Public housing agency
+#### (1) Public housing agency
 
 &emsp;The term “public housing agency” has the meaning given the term in section 1437a(b) of this title.
 
-#### (3) Public housing project
+#### (2) Public housing project
 
 &emsp;The terms “project” and “public housing” have the meanings given the terms in section 1437a(b) of this title.
 
-#### (4) Qualified entity
+#### (3) Qualified entity
 
 &emsp;The term “qualified entity” means an entity eligible under subsection (b) of this section to apply for and receive a grant under this section.
 
-#### (5) State
+#### (4) State
 
 &emsp;The term “State” means the States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, Guam, the Virgin Islands, American Samoa, the Trust Territory of the Pacific Islands, and any other territory or possession of the United States.
 
-#### (6) Unit of general local government
+#### (5) Unit of general local government
 
 &emsp;The term “unit of general local government” means any city, town, township, county, parish, village, or other general purpose political subdivision of a State.
 
-#### (7) Secretary
+#### (6) Secretary
 
 &emsp;The term “Secretary” means the Secretary of Housing and Urban Development.
 
@@ -246,7 +238,7 @@ The Secretary shall issue any regulations necessary to carry out this section.
 
 #### (B) Non-Federal funds
 
-&emsp;&emsp;For purposes of this paragraph, the term “funds from non-Federal sources” includes amounts from nonprofit organizations, public housing agencies, States, units of general local government, and Indian housing authorities, private contributions, any salary paid to staff (other than from grant amounts under paragraph (1)(A)) to carry out the program of the eligible entity, in-kind contributions to carry out the program (as determined by the Secretary after consultation with the Advisory Committee), the value of any donated material, equipment, or building, the value of any lease on a building, the value of any utilities provided, and the value of any time and services contributed by volunteers to carry out the program of the eligible entity.
+&emsp;&emsp;For purposes of this paragraph, the term “funds from non-Federal sources” includes amounts from nonprofit organizations, public housing agencies, States, and Indian housing authorities, private contributions, any salary paid to staff (other than from grant amounts under paragraph (1)(A)) to carry out the program of the eligible entity, in-kind contributions to carry out the program (as determined by the Secretary after consultation with the Advisory Committee), the value of any donated material, equipment, or building, the value of any lease on a building, the value of any utilities provided, and the value of any time and services contributed by volunteers to carry out the program of the eligible entity.
 
 #### (C) Prohibition on substitution of funds
 
@@ -320,7 +312,7 @@ The Secretary shall issue any regulations necessary to carry out this section.
 
 &emsp;&emsp;(A) Not less than 2 individuals who are involved in managing or administering midnight basketball programs that the Secretary determines have been successful and effective. Such individuals may not be involved in a program assisted under this subsection or a member or employee of an eligible advisory entity that receives a technical assistance grant under paragraph (1)(B).
 
-&emsp;&emsp;(B) A representative of the Center for Substance Abuse Prevention of the Public Health Service, Department of Health and Human Services, who is involved in administering the grant program for prevention, treatment, and rehabilitation model projects for high risk youth under section 290aa–8 <sup>1</sup> of this title who shall be selected by the Secretary of Health and Human Services.
+&emsp;&emsp;(B) A representative of the Center for Substance Abuse Prevention of the Public Health Service, Department of Health and Human Services, who is involved in administering the grant program for prevention, treatment, and rehabilitation model projects for high risk youth under section 290aa–8 <sup>2</sup> of this title who shall be selected by the Secretary of Health and Human Services.
 
 &emsp;&emsp;(C) A representative of the Department of Education, who shall be selected by the Secretary of Education.
 
@@ -358,13 +350,15 @@ The Secretary shall issue any regulations necessary to carry out this section.
 
 &emsp;&emsp;(C) for a study grant under paragraph (11), $250,000 in fiscal year 1994.
 
-(Pub. L. 101–625, title V, §520, Nov. 28, 1990, 104 Stat. 4202; Pub. L. 102–389, title II, Oct. 6, 1992, 106 Stat. 1587; Pub. L. 102–550, title I, §126(b), Oct. 28, 1992, 106 Stat. 3710; Pub. L. 103–227, title X, §§1052, 1053, Mar. 31, 1994, 108 Stat. 274, 280.)
+(Pub. L. 101–625, title V, §520, Nov. 28, 1990, 104 Stat. 4202; Pub. L. 102–389, title II, Oct. 6, 1992, 106 Stat. 1587; Pub. L. 102–550, title I, §126(b), Oct. 28, 1992, 106 Stat. 3710; Pub. L. 103–227, title X, §§1052, 1053, Mar. 31, 1994, 108 Stat. 274, 280; Pub. L. 104–330, title V, §501(d)(2), Oct. 26, 1996, 110 Stat. 4043.)
 
 #### References in Text
 
+Subsection (b)(8) of this section, referred to in subsec. (d)(4), was redesignated subsection (b)(6) by Pub. L. 104–330, title V, §501(d)(2)(A)(iii), Oct. 26, 1996, 110 Stat. 4043.
+
 This Act, referred to in subsec. (e)(3), is the Cranston-Gonzalez National Affordable Housing Act, Pub. L. 101–625, Nov. 28, 1990, 104 Stat. 4079. For complete classification of this Act to the Code, see Short Title note set out under section 12701 of this title and Tables.
 
-Section 1437a(b) of this title, referred to in subsec. (i)(3), was in the original “section 3(6) of the United States Housing Act of 1937 (42 U.S.C. 1437a(b))”, and was translated as reading “section 3(b) of the United States Housing Act of 1937” to reflect the probable intent of Congress.
+Section 1437a(b) of this title, referred to in subsec. (i)(2), was in the original “section 3(6) of the United States Housing Act of 1937 (42 U.S.C. 1437a(b))”, and was translated as reading “section 3(b) of the United States Housing Act of 1937” to reflect the probable intent of Congress.
 
 Section 290aa–8 of this title, referred to in subsec. (<i>l</i>)(9)(B), was in the original a reference to section 509A of the Public Health Service Act. Section 509A of that Act was renumbered section 517 and amended by Pub. L. 102–321, title I, §114, July 10, 1992, 106 Stat. 346, and was transferred to section 290bb–23 of this title.
 
@@ -375,6 +369,20 @@ Section was enacted as part of the Cranston-Gonzalez National Affordable Housing
 Section is comprised of section 520 of Pub. L. 101–625. Subsec. (k) of section 520 of Pub. L. 101–625 amended section 11908 of this title.
 
 #### Amendments
+
+1996—Subsec. (b)(5). Pub. L. 104–330, §501(d)(2)(A)(i), inserted “and” at end.
+
+Subsec. (b)(6) to (8). Pub. L. 104–330, §501(d)(2)(A)(ii), (iii), redesignated par. (8) as (6) and struck out former pars. (6) and (7) which read as follows:
+
+“(6) Indian tribes;
+
+“(7) Indian housing authorities; and”.
+
+Subsec. (e)(2). Pub. L. 104–330, §501(d)(2)(B), struck out “Indian tribes,” after “such governments,”.
+
+Subsec. (i). Pub. L. 104–330, §501(d)(2)(C), redesignated pars. (2) to (7) as (1) to (6), respectively, and struck out heading and text of former par. (1). Text read as follows: “The term ‘Indian tribe’ has the meaning given such term in section 5302(a)(17) of this title.”
+
+Subsec. (<i>l</i>)(5)(B). Pub. L. 104–330, §501(d)(2)(D), substituted “and Indian housing authorities” for “units of general local government, and Indian housing authorities”.
 
 1994—Pub. L. 103–227, §1052(1), substituted “Public and assisted housing” for “Public housing” in section catchline.
 
@@ -394,6 +402,10 @@ Subsec. (d)(3). Pub. L. 102–389 inserted “transportation costs,” after “
 
 Subsec. (d)(4). Pub. L. 102–550, §126(b)(2), added par. (4).
 
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–330 effective Oct. 1, 1997, except as otherwise expressly provided, see section 107 of Pub. L. 104–330, set out as an Effective Date note under section 4101 of Title 25, Indians.
+
 #### Termination of Trust Territory of the Pacific Islands
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
@@ -407,4 +419,6 @@ Advisory committees established after Jan. 5, 1973, to terminate not later than 
 This section is referred to in section 11909 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

@@ -8,7 +8,7 @@
 
 #### (2) Review and comment by certain individuals and entities
 
-&emsp;If, after a reasonable effort, the Governor is unable in accordance with subsection (d)(4) of this section to obtain the support of the individuals and entities described in subparagraphs (A) through (J) of subsection (b)(4) of this section for the State plan described in subsection (d) of this section, then the Governor shall—
+&emsp;If, after a reasonable effort, the Governor is unable in accordance with subsection (d)(4) ofthis section to obtain the support of the individuals and entities described in subparagraphs (A) through (J) of subsection (b)(4) of this section for the State plan described in subsection (d) of this section, then the Governor shall—
 
 &emsp;&emsp;(A) provide such individuals and entities with copies of such application;
 
@@ -88,7 +88,7 @@ A State plan referred to in subsection (b)(1) of this section shall—
 
 &emsp;&emsp;(D) the Higher Education Act of 1965 (20 U.S.C. 1001 et seq.);
 
-&emsp;&emsp;(E) part F of title IV of the Social Security Act (42 U.S.C. 681 et seq.);
+&emsp;&emsp;(E) part A of title IV of the Social Security Act (42 U.S.C. 601 et seq.) relating to work activities;
 
 &emsp;&emsp;(F) the Goals 2000: Educate America Act \[20 U.S.C. 5801 et seq.\];
 
@@ -138,7 +138,7 @@ A State plan referred to in subsection (b)(1) of this section shall—
 
 &emsp;(23) describe the procedures to facilitate the entry of students participating in a School-to-Work Opportunities program into additional training or postsecondary education programs, as well as to facilitate the transfer of the students between education and training programs.
 
-(Pub. L. 103–239, title II, §213, May 4, 1994, 108 Stat. 583.)
+(Pub. L. 103–239, title II, §213, May 4, 1994, 108 Stat. 583; Pub. L. 104–193, title I, §110(v), Aug. 22, 1996, 110 Stat. 2175.)
 
 #### References in Text
 
@@ -154,7 +154,7 @@ The Elementary and Secondary Education Act of 1965, referred to in subsec. (d)(6
 
 The Higher Education Act of 1965, referred to in subsec. (d)(6)(D), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended, which is classified principally to chapter 28 (§1001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
-The Social Security Act, referred to in subsec. (d)(6)(E), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part F of title IV of the Act is classified generally to part F (§681 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. Forcomplete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (d)(6)(E), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part A of title IV of the Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 The National Skill Standards Act of 1994, referred to in subsec. (d)(6)(G), (8), (16), is title V of Pub. L. 103–227, Mar. 31, 1994, 108 Stat. 191, which is classified generally to subchapter V (§5931 et seq.) of chapter 68 of this title. For complete classification of this Act to the Code, see section 5931 of this title and Tables.
 
@@ -165,6 +165,14 @@ Act of August 16, 1937, commonly known as the National Apprenticeship Act, refer
 The Rehabilitation Act of 1973, referred to in subsec. (d)(6)(K), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, as amended, which is classified principally to chapter 16 (§701 et seq.) of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
 
 The National and Community Service Act of 1990, referred to in subsec. (d)(6)(L), is Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, which is classified principally to chapter 129 (§12501 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of Title 42 and Tables.
+
+#### Amendments
+
+1996—Subsec. (d)(6)(E). Pub. L. 104–193 amended subpar. (E) generally. Prior to amendment, subpar. (E) read as follows: “part F of title IV of the Social Security Act (42 U.S.C. 681 et seq.);”.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–193 effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, set out as a note under section 601 of Title 42, The Public Health and Welfare.
 
 #### Section Referred to in Other Sections
 

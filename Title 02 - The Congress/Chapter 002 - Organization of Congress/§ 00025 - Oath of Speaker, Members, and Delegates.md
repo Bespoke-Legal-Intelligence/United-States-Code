@@ -22,7 +22,3 @@ Provisions respecting representation in Congress by a delegate from District of 
 
 Provisions respecting representation in Congress by a Delegate from Guam and Virgin Islands to House of Representatives, see section 1711 et seq. of Title 48, Territories and Insular Possessions.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 25b of this title.
-

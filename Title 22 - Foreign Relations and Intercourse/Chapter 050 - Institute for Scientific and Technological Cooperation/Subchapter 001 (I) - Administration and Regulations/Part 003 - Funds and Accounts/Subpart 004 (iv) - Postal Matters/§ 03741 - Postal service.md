@@ -1,20 +1,20 @@
 ### §3741. Postal service
 
-#### (a) Discontinuation of postal service
+#### (a) Possession or administration of funds by Commission
 
-The postal service established and governed by chapter 73 of title 2 of the Canal Zone Code shall be discontinued on October 1, 1979.
+The Commission shall take possession of and administer the funds of the Canal Zone postal service and shall assume its obligations.
 
-#### (b) Savings provision
+#### (b) Expiration of responsibility for unpaid balances
 
-The provisions of chapter 73 of such title 2 relating to postal-savings deposits, postal-savings certificates, postal money orders, and the accounting for funds shall continue to apply for the purpose of meeting the obligations of the United States concerning outstanding postal savings and money orders and disposition of funds.
+Effective December 1, 1999, neither the Commission nor the United States Government shall be responsible for the distribution of any accumulated unpaid balances relating to Canal Zone postal-savings deposits, postal-savings certificates, and postal money orders.
 
-#### (c) Possession or administration of funds by Commission
+#### (c) Mail addressed to Canal Zone from or through United States
 
-The Commission shall take possession of and administer the funds of the postal service referred to in subsection (a) of this section and shall assume its obligations. The Commission and the United States Postal Service may enter into agreements for the transfer of funds or property and the assumption of administrative rights or responsibilities with respect to the outstanding obligations of the postal service referred to in subsection (a) of this section. Any transfer or assumption (including any agreement for such transfer or assumption) pursuant to this subsection shall be effective only to such extent or in such amounts as are provided in advance in appropriation Acts.
+Mail addressed to the Canal Zone from or through the continental United States may be routed by the United States Postal Service to the military post offices of the United States Armed Forces in the Republic of Panama. Such military post offices shall provide the required directory services and shall accept such mail to the extent permitted under the Panama Canal Treaty of 1977 and related agreements. The Commission shall furnish personnel, records, and other services to such military post offices to assure wherever appropriate the distribution, rerouting, or return of such mail.
 
-#### (d) Mail addressed to Canal Zone from or through United States
+(Pub. L. 96–70, title I, §1331, Sept. 27, 1979, 93 Stat. 481, 482; Pub. L. 104–201, div. C, title XXXV, §3543, Sept. 23, 1996, 110 Stat. 2867.)
 
-Mail addressed to the Canal Zone from or through the continental United States may be routed by the United States Postal Service to the military post offices of the United States Forces in the Republic of Panama. Such military post offices shall provide the required directory services and shall accept such mail to the extent permitted under the Panama Canal Treaty of 1977 and related agreements. The Commission shall furnish personnel, records, and other services to such military post offices to assure wherever appropriate the distribution, rerouting, or return of such mail.
+#### Amendments
 
-(Pub. L. 96–70, title I, §1331(a)–(d), Sept. 27, 1979, 93 Stat. 481, 482.)
+1996—Pub. L. 104–201 reenacted section catchline without change and amended text generally. Prior to amendment, text was comprised of subsecs. (a) to (d) of section 1331 of Pub. L. 96–70 which provided for discontinuation of postal service under former Canal Zone Code, savings provision, possession and administration of postal funds by Commission, and handling of mail addressed to the Canal Zone. Prior to amendment, section 1331 also contained a subsec. (e) which amended sections 403, 3401, 3402, and 3682 of Title 39, Postal Service.
 

@@ -10,7 +10,7 @@ Notwithstanding section 1681b of this title or any other provision of this subch
 
 &emsp;&emsp;(A) is a foreign power (as defined in section 1801 of title 50) or a person who is not a United States person (as defined in such section 1801 of title 50) and is an official of a foreign power; or
 
-&emsp;&emsp;(B) is an agent of a foreign power and is engaging or has engaged in an act of international terrorism (as that term is defined in section 1801(c) of title 50) or clandestine intelligence activities that involve or may involve a violation of criminal statutes of the United States.
+&emsp;&emsp;(B) is an agent of a foreign power and is engaging or has engaged in an act of international terrorism (as that term is defined in section 1801(c) of title 50) or clandestine intelligence activities that involve or mayinvolve a violation of criminal statutes of the United States.
 
 #### (b) Identifying information
 
@@ -87,6 +87,10 @@ In addition to any other remedy contained in this section, injunctive relief sha
 #### References in Text
 
 This subchapter, referred to in subsec. (g), was in the original, “this Act” and was translated as reading “this title”, meaning title VI of Pub. L. 90–321, known as the Fair Credit Reporting Act, to reflect the probable intent of Congress.
+
+#### Codification
+
+Another section 624 of Pub. L. 90–321 is classified to section 1681t of this title.
 
 #### Change of Name
 

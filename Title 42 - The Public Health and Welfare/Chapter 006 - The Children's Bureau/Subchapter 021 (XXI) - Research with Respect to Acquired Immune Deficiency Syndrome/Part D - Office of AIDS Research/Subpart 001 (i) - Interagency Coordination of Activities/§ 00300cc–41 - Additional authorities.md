@@ -24,7 +24,7 @@ In carrying out AIDS research, the Director of the Office—
 
 &emsp;(C) may acquire, without regard to section 34 of title 40 by lease or otherwise through the Administrator of General Services, buildings or parts of buildings in the District of Columbia or communities located adjacent to the District of Columbia for the use of the National Institutes of Health for a period not to exceed ten years; and
 
-&emsp;(6) subject to section 284(b)(2) of this title and without regard to section 3324 of title 31 and section 5 of title 41, may enter into such contracts and cooperative agreements withany public agency, or with any person, firm, association, corporation, or educational institution, as may be necessary to expedite and coordinate research relating to acquired immune deficiency syndrome.
+&emsp;(6) subject to section 284(b)(2) of this title and without regard to section 3324 of title 31 and section 5 of title 41, may enter into such contracts and cooperative agreements with any public agency, or with any person, firm, association, corporation, or educational institution, as may be necessary to expedite and coordinate research relating to acquired immune deficiency syndrome.
 
 #### (b) Report to Secretary
 

@@ -84,7 +84,7 @@ Amendment by Pub. L. 98–369 effective July 18, 1984, but not to be construed a
 
 #### Report on SES Positions Under Comprehensive Work Force Plan
 
-Section 104(b) of Pub. L. 103–296 provided that: “Within 60 days after the establishment by the Commissioner of Social Security of the comprehensive work force plan required under section 704(b)(2) of the Social Security Act \[subsec. (b)(2) of this section\] (as amended by this Act), the Director of the Office of Personnel Management shall transmit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate a report specifying the total number of Senior Executive Services positions authorized for the Social Security Administration in connection with such work force plan.”
+Section 104(b) of Pub. L. 103–296 provided that within 60 days after establishment by Commissioner of Social Security of comprehensive work force plan required under subsec. (b)(2) of this section, Director of Office of Personnel Management was to transmit to Congress a report specifying total number of Senior Executive Services positions authorized for Social Security Administration in connection with such work force plan.
 
 #### Section Referred to in Other Sections
 

@@ -18,7 +18,7 @@ As used in this chapter:
 
 &emsp;The term “career guidance and counseling” means programs—
 
-&emsp;&emsp;(A) that pertain to the body of subject matter and related techniques and methods organized for the development in individuals of career awareness, career planning, career decisionmaking, placement skills, and knowledge and understanding of local, State, and national occupational, educational, and labor market needs, trends, and opportunities;
+&emsp;&emsp;(A) that pertain to the body of subject matter and related techniques and methods organized for the development in individuals of career awareness, career planning, career decisionmaking, placement skills, and knowledge and understanding of local,State, and national occupational, educational, and labor market needs, trends, and opportunities;
 
 &emsp;&emsp;(B) that assist individuals in making and implementing informed educational and occupational choices; and
 
@@ -44,7 +44,7 @@ As used in this chapter:
 
 &emsp;&emsp;&emsp;&emsp;(II) an alternative diploma or certificate for students with disabilities for whom such alternative diploma or certificate is appropriate;
 
-&emsp;&emsp;&emsp;(ii) a certificate or diploma recognizing successful completion of 1 or 2 years ofpostsecondary education (if appropriate); and
+&emsp;&emsp;&emsp;(ii) a certificate or diploma recognizing successful completion of 1 or 2 years of postsecondary education (if appropriate); and
 
 &emsp;&emsp;&emsp;(iii) a skill certificate; and
 
@@ -114,7 +114,7 @@ As used in this chapter:
 
 #### (13) Registered apprenticeship agency
 
-&emsp;The term “registered apprenticeship agency” means the Bureau of Apprenticeship and Training in the Department of Labor or a State apprenticeship agency recognized and approved by the Bureau of Apprenticeship and Training as the appropriate body for State registration or approval of local apprenticeship programs and agreements for Federal purposes.
+&emsp;The term “registered apprenticeship agency” means the Bureau of Apprenticeship and Training in the Department of Labor or aState apprenticeship agency recognized and approved by the Bureau of Apprenticeship and Training as the appropriate body for State registration or approval of local apprenticeship programs and agreements for Federal purposes.
 
 #### (14) Registered apprenticeship program
 

@@ -1,6 +1,6 @@
 ### §§451 to 460. Repealed. June 27, 1952, ch. 477, title IV, §403(a)(39), 66 Stat. 280, eff. Dec. 24, 1952
 
-Section 451, act June 28, 1940, ch. 439, title III, §30, 54 Stat. 673, required an alien seeking entry into United States to be registered and fingerprinted before the issuance to him of a visa. See sections 1182(a)(20), (26), 1201(b) and 1301 of this title.
+Section 451, act June 28, 1940, ch. 439, title III, §30, 54 Stat. 673, required an alien seeking entry into United States to be registered and fingerprinted before the issuance to him of a visa. See sections 1201(b) and 1301 of this title.
 
 Section 452, act June 28, 1940, ch. 439, title III, §31, 54 Stat. 673, related to registration of aliens in United States. See section 1302 of this title.
 

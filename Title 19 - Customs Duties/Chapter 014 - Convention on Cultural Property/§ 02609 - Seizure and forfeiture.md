@@ -32,7 +32,7 @@ Any designated archaeological or ethnological material which is imported into th
 
 &emsp;(A) first be offered for return to the State Party in whose territory is situated the institution referred to in section 2607 of this title and shall be returned if that State Party bears the expenses incident to such return and delivery and complies with such other requirements relating to the return as the Secretary prescribes; or
 
-&emsp;(B) if not returned to such State Party, be disposed of in the manner prescribed by law for articles forfeited for violation of the customs laws.
+&emsp;(B) if not returned to such State Party, be disposed of in the manner prescribed by lawfor articles forfeited for violation of the customs laws.
 
 (Pub. L. 97–446, title III, §310, Jan. 12, 1983, 96 Stat. 2360.)
 

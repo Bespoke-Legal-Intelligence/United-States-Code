@@ -1,6 +1,6 @@
 ### §4194. Lists and returns of seamen and vessels, etc.
 
-Every consular officer shall keep a detailed list of all seamen and mariners shipped and discharged by him, specifying their names and the names of the vessels on which they are shipped and from which they are discharged, and the payments, if any, made on account of each so discharged; also of the number of the vessels arrived and departed, the amounts of their registered tonnage, and the number of their seamen and mariners, and of those who are protected, and whether citizens of the United States or not, and as nearly as possible the nature and value of their cargoes, and where produced, and shall make returns of the same, with their accounts and other returns, to the Secretary of Commerce.
+Every consular officer shall keep a detailed list of all seamen and mariners shipped and discharged by him, specifying their names and the names of the vessels on which they are shipped and from which they are discharged, and thepayments, if any, made on account of each so discharged; also of the number of the vessels arrived and departed, the amounts of their registered tonnage, and the number of their seamen and mariners, and of those who are protected, and whether citizens of the United States or not, and as nearly as possible the nature and value of their cargoes, and where produced, and shall make returns of the same, with their accounts and other returns, to the Secretary of Commerce.
 
 (R.S. §1708; Feb. 14, 1903, ch. 552, §10, 32 Stat. 829; Mar. 4, 1913, ch. 141, §1, 37 Stat. 736.)
 
@@ -21,10 +21,6 @@ Certain shipping and navigation functions of Secretary of Commerce transferred t
 Functions of all officers of Department of the Treasury \[which included Commandant of Coast Guard and Commissioner of Customs\], and functions of all agencies and employees of Department, transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions, by any of such officers, agencies, and employees, by Reorg. Plan No. 26 of 1950, §§1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, set out in the Appendix to Title 5. Coast Guard was generally a service in Department of the Treasury but such Plan excepted, from transfer, functions of Coast Guard, and of Commandant thereof, when Coast Guard was operating as a part of Navy under section 3 of Title 14, Coast Guard.
 
 Coast Guard transferred to Department of Transportation and functions, powers, and duties, relating to Coast Guard, of Secretary of the Treasury and of other offices and officers of Department of the Treasury transferred to Secretary of Transportation by Pub. L. 89–670, §6(b)(1), Oct. 15, 1966, 80 Stat. 931. Section 6(b)(2) of Pub. L. 89–670, however, provided that notwithstanding such transfer of functions, Coast Guard shall operate as part of Navy in time of war or when President directs as provided in section 3 of Title 14. See section 108 of Title 49, Transportation.
-
-#### American Institute in Taiwan
-
-Employees of the American Institute in Taiwan authorized to assist and protect interests of United States persons by performing acts such as are authorized to be performed outside the United States for consular purposes by this section, see section 1–201 of Ex. Ord. No. 12143, June 22, 1979, 44 F.R. 37191, set out as a note under section 3301 of this title.
 
 #### Cross References
 

@@ -26,7 +26,7 @@ Upon motion of the United States, a court shall stay such civil forfeiture proce
 
 #### (b) <sup>1</sup> Coordination of forfeiture proceedings with criminal proceedings
 
-(1) Notwithstanding subsection (a) of this section, whenever the Customs Service is of the opinion that criminal prosecution would be appropriate or that further criminal investigation is warranted in connection with allegedly obscene material seized at the time of entry, the appropriate customs officer shall immediately transmit information concerning such seizure tothe United States Attorney <sup>2</sup> of the district of the addressee's residence. No notice to the addressee or consignee concerning the seizure is required at the time of such transmittal.
+(1) Notwithstanding subsection (a) of this section, whenever the Customs Service is of the opinion that criminal prosecution would be appropriate or that further criminal investigation is warranted in connection with allegedly obscene material seized at the time of entry, the appropriate customs officer shall immediately transmit information concerning such seizure to the United States Attorney <sup>2</sup> of the district of the addressee's residence. No notice to the addressee or consignee concerning the seizure is required at the time of such transmittal.
 
 (2) Upon receipt of such information, such United States attorney shall promptly determine whether in such attorney's opinion the referral of the matter for forfeiture under this section would materially affect the Government's ability to conduct a criminal investigation with respect to such seizure.
 
@@ -44,7 +44,7 @@ Upon motion of the United States, a court shall stay such civil forfeiture proce
 
 Upon motion of the United States, a court, for good cause shown, shall stay civil forfeiture proceedings commenced under this section pending the completion of any related criminal matter whether in the same or in a different district.
 
-(June 17, 1930, ch. 497, title III, §305, 46 Stat. 688; June 25, 1948, ch. 645, §21, 62 Stat. 862; June 25, 1948, ch. 646, §1, 62 Stat. 869; June 2, 1970, Pub. L. 91–271, title III, §301(a), 84 Stat. 287; Jan. 8, 1971, Pub. L. 91–662, §1, 84 Stat. 1973; Oct. 10, 1980, Pub. L. 96–417, title VI, §601(2), 94 Stat. 1744; Aug. 23, 1988, Pub. L. 100–418, title I, §1901(a), 102 Stat. 1312; Sept. 28, 1988, Pub. L. 100–449, title II, §206, 102 Stat. 1864; Nov. 18, 1988, Pub. L. 100–690, title VII, §7522(e)\[d\], 102 Stat. 4500.)
+(June 17, 1930, ch. 497, title III, §305, 46 Stat. 688; June 25, 1948, ch. 645, §21, 62 Stat. 862; June 25, 1948, ch. 646, §1, 62 Stat. 869; June 2, 1970, Pub. L.91–271, title III, §301(a), 84 Stat. 287; Jan. 8, 1971, Pub. L. 91–662, §1, 84 Stat. 1973; Oct. 10, 1980, Pub. L. 96–417, title VI, §601(2), 94 Stat. 1744; Aug. 23, 1988, Pub. L. 100–418, title I, §1901(a), 102 Stat. 1312; Sept. 28, 1988, Pub. L. 100–449, title II, §206, 102 Stat. 1864; Nov. 18, 1988, Pub. L. 100–690, title VII, §7522(e)\[d\], 102 Stat. 4500.)
 
 #### Prior Provisions
 

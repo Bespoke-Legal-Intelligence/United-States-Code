@@ -4,19 +4,19 @@
 
 &emsp;(1) Each of those vessels propelled by machinery or carrying passengers shall have a licensed master.
 
-&emsp;(2) A vessel of at least 1,000 gross tons and propelled by machinery shall have 3 licensed mates, except—
+&emsp;(2) A vessel of at least 1,000 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title and propelled by machinery shall have 3 licensed mates, except—
 
 &emsp;&emsp;(A) in the case of a vessel other than a mobile offshore drilling unit, if on a voyage of less than 400 miles from port of departure to port of final destination, the vessel shall have 2 licensed mates; and
 
 &emsp;&emsp;(B) in the case of a mobile offshore drilling unit, the vessel shall have licensed individuals as provided by regulations prescribed by the Secretary under section 8101 of this title.
 
-&emsp;(3) A vessel of at least 200 gross tons but less than 1,000 gross tons and propelled by machinery shall have 2 licensed mates.
+&emsp;(3) A vessel of at least 200 gross tons but less than 1,000 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title and propelled by machinery shall have 2 licensed mates.
 
-&emsp;(4) A vessel of at least 100 gross tons but less than 200 gross tons and propelled by machinery shall have one licensed mate. However, if the vessel is on a voyage of more than 24 hours, it shall have 2 licensed mates.
+&emsp;(4) A vessel of at least 100 gross tons but less than 200 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title and propelled by machinery shall have one licensed mate. However, if the vessel is on a voyage of more than 24 hours, it shall have 2 licensed mates.
 
-&emsp;(5) A freight vessel or a passenger vessel of at least 300 gross tons and propelled by machinery shall have a licensed engineer.
+&emsp;(5) A freight vessel or a passenger vessel of at least 300 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title and propelled by machinery shall have a licensed engineer.
 
-(b) An offshore supply vessel on a voyage of less than 600 miles shall have a licensed mate. However, if the vessel is on a voyage of at least 600 miles, the vessel shall have 2 licensed mates. An offshore supply vessel of more than 200 gross tons may not be operated without a licensed engineer.
+(b) An offshore supply vessel on a voyage of less than 600 miles shall have a licensed mate. However, if the vessel is on a voyage of at least 600 miles, the vessel shall have 2 licensed mates. An offshore supply vessel of more than 200 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title may not be operated without a licensed engineer.
 
 (c) Subsection (a) of this section does not apply to a fishing or whaling vessel, a mobile offshore drilling unit when on location, or a yacht.
 
@@ -26,15 +26,9 @@
 
 &emsp;(2) increase the number of licensed individuals on a vessel to which this chapter applies if, in the Secretary's judgment, the vessel is not sufficiently manned for safe operation.
 
-(e) A vessel used only to respond to a discharge of oil or a hazardous substance shall have—
+(e) The Secretary may prescribe the minimum number of licensed individuals for an oil spill response vessel.
 
-&emsp;(1) two licensed mates when the vessel is engaged in an operation over 12 hours in duration;
-
-&emsp;(2) one licensed mate when the vessel is engaged in an operation less than 12 hours in duration; and
-
-&emsp;(3) if the vessel is more than 200 gross tons, a licensed engineer when the vessel is operating.
-
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 550; Pub. L. 98–557, §29(c), (d), Oct. 30, 1984, 98 Stat. 2873, 2874; Pub. L. 99–640, §11(d), Nov. 10, 1986, 100 Stat. 3550; Pub. L. 100–448, §7, Sept. 28, 1988, 102 Stat. 1842; Pub. L. 103–206, title III, §322(b), Dec. 20, 1993, 107 Stat. 2428.)
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 550; Pub. L. 98–557, §29(c), (d), Oct. 30, 1984, 98 Stat. 2873, 2874; Pub. L. 99–640, §11(d), Nov. 10, 1986, 100 Stat. 3550; Pub. L. 100–448, §7, Sept. 28, 1988, 102 Stat. 1842; Pub. L. 103–206, title III, §322(b), Dec. 20, 1993, 107 Stat. 2428; Pub. L. 104–324, title VII, §729, title XI, §1104(d), Oct. 19, 1996, 110 Stat. 3940, 3967.)
 
 Historical and Revision Notes
 
@@ -50,11 +44,29 @@ Historical and Revision Notes
 
 Section 8301 prescribes the minimum number of licensed individuals on board certain vessels based on the vessel's size or propulsion, length of voyage by distance or time, or any combination of these factors.
 
-Subsection (a) applies to certain merchant and passenger carrying vessels of the United States, each of which must have a licensed master regardless of thefactors listed above. Subsection (b) applies to offshore supply vessels. Subsection (c) exempts fishing or whaling vessels or yachts from these requirements.
+Subsection (a) applies to certain merchant and passenger carrying vessels of the United States, each of which must have a licensed master regardless of the factors listed above. Subsection (b) applies to offshore supply vessels. Subsection (c) exempts fishing or whaling vessels or yachts from these requirements.
 
 Subsection (d) permits the Secretary to suspend any part of this chapter during a declared national emergency or to increase the number of licensed individuals required by this chapter if required for safe operation of a vessel.
 
 #### Amendments
+
+1996—Subsec. (a)(2). Pub. L. 104–324, §729(1), inserted “as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title” after “1,000 gross tons”.
+
+Subsec. (a)(3). Pub. L. 104–324, §729(2), inserted “as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title” after “1,000 gross tons”.
+
+Subsec. (a)(4). Pub. L. 104–324, §729(3), inserted “as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title” after “200 gross tons”.
+
+Subsec. (a)(5). Pub. L. 104–324, §729(4), inserted “as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title” after “300 gross tons”.
+
+Subsec. (b). Pub. L. 104–324, §729(5), inserted “as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title” after “200 gross tons”.
+
+Subsec. (e). Pub. L. 104–324, §1104(d), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “A vessel used only to respond to a discharge of oil or a hazardous substance shall have—
+
+&emsp;“(1) two licensed mates when the vessel is engaged in an operation over 12 hours in duration;
+
+&emsp;“(2) one licensed mate when the vessel is engaged in an operation less than 12 hours in duration; and
+
+&emsp;“(3) if the vessel is more than 200 gross tons, a licensed engineer when the vessel is operating.”
 
 1993—Subsec. (e). Pub. L. 103–206 added subsec. (e).
 

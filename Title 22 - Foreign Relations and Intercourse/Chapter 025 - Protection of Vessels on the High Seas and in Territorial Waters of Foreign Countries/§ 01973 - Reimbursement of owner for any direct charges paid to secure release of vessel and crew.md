@@ -24,7 +24,7 @@ Subsec. (b). Pub. L. 98–364, §302(a)(2), inserted “determination and” bef
 
 #### Effective Date of 1976 Amendment
 
-Section 403(b) of Pub. L. 94–265 provided in part that: “The amendment made by subsection (a)(2) \[amending this section\] shall apply with respect to seizures of vessels of the United States occurring on or after December 31, 1974.”
+Section 403(b) of Pub. L. 94–265 provided in part that the amendment made by section 403(a)(2) of Pub. L. 94–265 to this section was to apply with respect to seizures of vessels of the United States occurring on or after Dec. 31, 1974, prior to the general amendment of title IV of Pub. L. 94–265 by Pub. L. 104–297.
 
 #### Effective Date of 1972 Amendment
 

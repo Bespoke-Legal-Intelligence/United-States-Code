@@ -1,54 +1,62 @@
 ### §3821. Program ineligibility
 
-(a) Except as provided in section 3822 of this title and notwithstanding any other provision of law, following December 23, 1985, any person who in any crop year produces an agricultural commodity on converted wetland shall be ineligible for—
+#### (a) Production on converted wetland
 
-&emsp;(1) as to any commodity produced during that crop year by such person—
+Except as provided in this subchapter and notwithstanding any other provision of law, any person who in any crop year produces an agricultural commodity on converted wetland, as determined by the Secretary, shall be—
 
-&emsp;&emsp;(A) any type of price support or payment made available under the Agricultural Act of 1949 (7 U.S.C. 1421 et seq.), the Commodity Credit Corporation Charter Act (15 U.S.C. 714 et seq.), or any other Act;
+&emsp;(1) in violation of this section; and
 
-&emsp;&emsp;(B) a farm storage facility loan made under section 4(h) of the Commodity Credit Corporation Charter Act (15 U.S.C. 714b(h));
+&emsp;(2) ineligible for loans or payments in an amount determined by the Secretary to be proportionate to the severity of the violation.
 
-&emsp;&emsp;(C) crop insurance under the Federal Crop Insurance Act (7 U.S.C. 1501 et seq.);
+#### (b) Ineligibility for certain loans and payments
 
-&emsp;&emsp;(D) a disaster payment made under the Agricultural Act of 1949 (7 U.S.C. 1421 et seq.), under section 132 of the Disaster Assistance Act of 1989 (7 U.S.C. 1421 note), or under any similar provision enacted subsequent to August 14, 1989; or
+If a person is determined to have committed a violation under subsection (a) of this section during a crop year, the Secretary shall determine which of, and the amount of, the following loans and payments for which the person shall be ineligible:
 
-&emsp;&emsp;(E) a loan made, insured, or guaranteed under the Consolidated Farm and Rural Development Act (7 U.S.C. 1921 et seq.) or any other provision of law administered by the Farmers Home Administration, if the Secretary determines that the proceeds of such loan will be used for a purpose that will contribute to conversion of wetlands (other than as provided in this subchapter) to produce an agricultural commodity;
+&emsp;(1) Contract payments under a production flexibility contract, marketing assistance loans, and any type of price support or payment made available under the Agricultural Market Transition Act \[7 U.S.C. 7201 et seq.\], the Commodity Credit Corporation Charter Act (15 U.S.C. 714 et seq.), or any other Act.
 
-&emsp;(2) a payment made under section 4 or 5 of the Commodity Credit Corporation Charter Act (15 U.S.C. 714b or 714c) during such crop year for the storage of an agricultural commodity acquired by the Commodity Credit Corporation; or
+&emsp;(2) A loan made or guaranteed under the Consolidated Farm and Rural Development Act (7 U.S.C. 1921 et seq.) or any other provision of law administered by the Consolidated Farm Service Agency, if the Secretary determines that the proceeds of the loan will be used for a purpose that will contribute to conversion of a wetland (other than as provided in this subchapter) to produce an agricultural commodity.
 
-&emsp;(3) during such crop year—
+&emsp;(3) During the crop year:
 
-&emsp;&emsp;(A) a payment made under section 590h, section 590<i>l</i> or section 590p(b) of this title;
+&emsp;&emsp;(A) A payment made pursuant to a contract entered into under the environmental quality incentives program under part IV of subchapter IV of this chapter.
 
-&emsp;&emsp;(B) a payment made under section 2201 or section 2202 of this title;
+&emsp;&emsp;(B) A payment under any other provision of subchapter IV of this chapter.
 
-&emsp;&emsp;(C) a payment under any contract entered into pursuant to section 3831 of this title;
+&emsp;&emsp;(C) A payment under section 2201 or 2202 of this title.
 
-&emsp;&emsp;(D) a payment under part II of subchapter IV of this chapter;
+&emsp;&emsp;(D) A payment, loan, or other assistance under section 1003 or 1006a of this title.
 
-&emsp;&emsp;(E) a payment under part III of subchapter IV of this chapter; or
+#### (c) Wetland conversion
 
-&emsp;&emsp;(F) a payment, loan or other assistance under section 1003 or section 1006a of this title.
+Except as provided in section 3822 of this title and notwithstanding any other provision of law, any person who in any crop year beginning after November 28, 1990, converts a wetland by draining, dredging, filling, leveling, or any other means for the purpose, or to have the effect, of making the production of an agricultural commodity possible on such converted wetland shall be ineligible for those payments, loans, or programs specified in subsection (b) of this section for that crop year and all subsequent crop years.
 
-(b) Except as provided in section 3822 of this title and notwithstanding any other provision of law, any person who in any crop year subsequent to November 28, 1990, converts a wetland by draining, dredging, filling, leveling, or any other means for the purpose, or to have the effect, of making the production of an agricultural commodity possible on such converted wetland shall be ineligible for those payments, loans, or programs specified in subsections (a)(1) through (3) of this section for that crop year and all subsequent crop years.
+#### (d) Prior loans
 
-(Pub. L. 99–198, title XII, §1221, Dec. 23, 1985, 99 Stat. 1507; Pub. L. 101–624, title XIV, §1421(b), Nov. 28, 1990, 104 Stat. 3572; Pub. L. 102–237, title II, §204(3), Dec. 13, 1991, 105 Stat. 1855; Pub. L. 102–552, title III, §308(a), Oct. 28, 1992, 106 Stat. 4116.)
+This section shall not apply to a loan described in subsection (b) of this section made before December 23, 1985.
+
+(Pub. L. 99–198, title XII, §1221, Dec. 23, 1985, 99 Stat. 1507; Pub. L. 101–624, title XIV, §1421(b), Nov. 28, 1990, 104 Stat. 3572; Pub. L. 102–237, title II, §204(3), Dec. 13, 1991, 105 Stat. 1855; Pub. L. 102–552, title III, §308(a), Oct. 28, 1992, 106 Stat. 4116; Pub. L. 104–127, title III, §321, Apr. 4, 1996, 110 Stat. 986.)
 
 #### References in Text
 
-The Agricultural Act of 1949, referred to in subsec. (a)(1)(A), (D), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, as amended, which is classified principally to chapter 35A (§1421 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1421 of Title 7 and Tables.
+The Agricultural Market Transition Act, referred to in subsec. (b)(1), is title I of Pub. L. 104–127, Apr. 4, 1996, 110 Stat. 896, which is classified principally to chapter 100 (§7201 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 7201 of Title 7 and Tables.
 
-The Commodity Credit Corporation Charter Act, referred to in subsec. (a)(1)(A), is act June 29, 1948, ch. 704, 62 Stat. 1070, as amended, which is classified generally to subchapter II (§714 et seq.) of chapter 15 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 714 of Title 15 and Tables.
+The Commodity Credit Corporation Charter Act, referred to in subsec. (b)(1), is act June 29, 1948, ch. 704, 62 Stat. 1070, as amended, which is classified generally to subchapter II (§714 et seq.) of chapter 15 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 714 of Title 15 and Tables.
 
-The Federal Crop Insurance Act, referred to in subsec. (a)(1)(C), is title V of act Feb. 16, 1938, ch. 30, 52 Stat. 72, as amended, which is classified generally to chapter 36 (§1501 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1501 of Title 7 and Tables.
-
-Section 132 of the Disaster Assistance Act of 1989, referred to in subsec. (a)(1)(D), is section 132 of Pub. L. 101–82, which is set out in a note under section 1421 of Title 7.
-
-The Consolidated Farm and Rural Development Act, referred to in subsec. (a)(1)(E), is title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, as amended, which is classified principally to chapter 50 (§1921 et seq.) of Title 7. For complete classification of this Act to the Code, see Short Title note set out under section 1921 of Title 7 and Tables.
-
-Parts II and III of subchapter IV of this chapter, referred to in subsec. (a)(3)(D), (E), were in the original references to chapters 2 and 3, respectively, and were translated as references to chapters 2 and 3 of subtitle D meaning chapters 2 and 3 of subtitle D of title XII of Pub. L. 99–198, to reflect the probable intent of Congress.
+The Consolidated Farm and Rural Development Act, referred to in subsec. (b)(2), is title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, as amended, which is classified principally to chapter 50 (§1921 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1921 of Title 7 and Tables.
 
 #### Amendments
+
+1996—Pub. L. 104–127, §321(a)(2), reenacted section catchline without change.
+
+Subsec. (a). Pub. L. 104–127, §321(a)(2), added subsec. (a) and struck out former subsec. (a) which related to ineligibility of persons producing an agricultural commodity on converted wetland to receive certain Federal payments, loans, insurance benefits, and other benefits.
+
+Subsec. (b). Pub. L. 104–127, §321(a)(2), added subsec. (b). Former subsec. (b) redesignated (c).
+
+Subsec. (c). Pub. L. 104–127, §321(b)(1), inserted heading and substituted “beginning after November 28, 1990,” for “subsequent to November 28, 1990,” and “subsection (b)” for “subsections (a)(1) through (3)”.
+
+Pub. L. 104–127, §321(a)(1), redesignated subsec. (b) as (c).
+
+Subsec. (d). Pub. L. 104–127, §321(b)(2), added subsec. (d).
 
 1992—Subsec. (a)(1)(D). Pub. L. 102–552 made technical correction to directory language of Pub. L. 102–237. See 1991 Amendment note below.
 
@@ -62,7 +70,11 @@ Subsec. (a)(3). Pub. L. 101–624, §1421(b)(3)–(5), added par. (3).
 
 Subsec. (b). Pub. L. 101–624, §1421(b)(6), added subsec. (b).
 
+#### Effective Date of 1996 Amendment
+
+Section 326 of Pub. L. 104–127 provided that: “This subtitle \[subtitle C (§§321–326) of title III of Pub. L. 104–127, enacting section 3823 of this title, amending this section and section 3822 of this title, and repealing former section 3823 of this title\] and the amendments made by this subtitle shall become effective 90 days after the date of enactment of this Act \[Apr. 4, 1996\].”
+
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3822, 3836 of this title; title 7 section 1446e.
+This section is referred to in sections 3822, 3823, 3836 of this title; title 7 section 7251.
 

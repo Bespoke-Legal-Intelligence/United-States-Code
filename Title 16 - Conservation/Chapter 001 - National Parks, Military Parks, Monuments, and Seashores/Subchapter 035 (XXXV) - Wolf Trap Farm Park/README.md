@@ -11,7 +11,7 @@
 - [&sect; 00284c - Financial assistance for reconstruction of Center](%C2%A7%2000284c%20-%20Financial%20assistance%20for%20reconstruction%20of%20Center.md)
 - [&sect; 00284d - Cooperative agreement with Foundation for presentation of programs](%C2%A7%2000284d%20-%20Cooperative%20agreement%20with%20Foundation%20for%20presentation%20of%20programs.md)
 - [&sect; 00284e - Vested property of United States; status of Foundation](%C2%A7%2000284e%20-%20Vested%20property%20of%20United%20States%3B%20status%20of%20Foundation.md)
-- [&sect; 00284f - Reports to Congressional committees respecting reconstruction of Center](%C2%A7%2000284f%20-%20Reports%20to%20Congressional%20committees%20respecting%20reconstruction%20of%20Center.md)
+- [&sect; 00284f - Repealed. Pub. L. 104&#8211;333, div. I, title VIII, &sect;814(d)(1)(D), Nov. 12, 1996, 110 Stat. 4196](%C2%A7%2000284f%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93333%2C%20div.%20I%2C%20title%20VIII%2C%20%C2%A7814%28d%29%281%29%28D%29%2C%20Nov.%2012%2C%201996%2C%20110%20Stat.%204196.md)
 - [&sect; 00284g - Cooperation of government agencies](%C2%A7%2000284g%20-%20Cooperation%20of%20government%20agencies.md)
 - [&sect; 00284h - General management plan; preparation and revision; submittal to Congressional committees](%C2%A7%2000284h%20-%20General%20management%20plan%3B%20preparation%20and%20revision%3B%20submittal%20to%20Congressional%20committees.md)
 - [&sect; 00284i - Authorization of additional appropriations](%C2%A7%2000284i%20-%20Authorization%20of%20additional%20appropriations.md)

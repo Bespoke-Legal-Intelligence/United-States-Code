@@ -18,7 +18,9 @@ Effect on Tort Liability.—This chapter does not affect the tort liability of a
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -32,7 +34,7 @@ Aug. 12, 1968, Pub. L. 90–481, 82 Stat. 720, §10(b)(2); added Nov. 30, 1979, 
 
 &nbsp;
 
-49 App.:1679b(a) (1).
+49 App.:1679b(a)(1).
 
 Aug. 12, 1968, Pub. L. 90–481, 82 Stat. 720, §12(a); added Nov. 30, 1979, Pub. L. 96–129, §104(b), 93 Stat. 993.
 
@@ -60,7 +62,7 @@ Nov. 30, 1979, Pub. L. 96–129, 93 Stat. 989, §211(f); added Oct. 24, 1992, Pu
 
 60120(b)
 
-49 App.:1679b(a) (2).
+49 App.:1679b(a)(2).
 
 &nbsp;
 

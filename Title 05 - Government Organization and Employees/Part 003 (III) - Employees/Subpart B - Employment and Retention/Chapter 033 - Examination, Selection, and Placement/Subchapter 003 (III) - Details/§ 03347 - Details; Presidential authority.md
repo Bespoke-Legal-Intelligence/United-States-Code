@@ -10,7 +10,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 5 U.S.C. 6.
 
@@ -110,13 +112,15 @@ Gerald R. Ford.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Ex. Ord. No. 11880. Designation of Officers of the Department of Commerce To Act as Secretary of Commerce
 
-Ex. Ord. No. 11880, Oct. 2, 1975, 40 F.R. 46089, as amended by Ex. Ord. No. 12608, Sept. 9, 1987, 52 F.R. 34617, provided:
+Ex. Ord. No. 11880, Oct. 2, 1975, 40 F.R. 46089, as amended by Ex. Ord. No. 12608, Sept. 9, 1987, 52 F.R. 34617; Ex. Ord. No. 12998, Apr. 5, 1996, 61 F.R. 15873, provided:
 
 By virtue of the authority vested in me by section 3347 of Title 5 of the United States Code and section 301 of Title 3 of the United States Code, and as President of the United States, it is hereby ordered as follows:
 
 Section 1. During any period when, by reason of absence, disability or vacancy in office, both the Secretary of Commerce and the Deputy Secretary of Commerce are not available to exercise the powers or perform the duties of the Office of Secretary, an Assistant Secretary of Commerce, the General Counsel of the Department of Commerce, or an officer of the Department of Commerce appointed by the President with the advice and consent of the Senate in such order as the Secretary of Commerce may from time to time prescribe, shall act as Secretary. If no such order of succession is in effect at that time, an Assistant Secretary or the General Counsel shall act as Secretary in the order in which they shall have taken office as Assistant Secretaries or General Counsel.
 
-Sec. 2. This Order supersedes Executive Order No. 11388 of January 15, 1968.
+Sec. 2. The President may at any time, pursuant to law but without regard to the foregoing provisions of this order, direct that an officer, as defined in 5 U.S.C. 3347, and specified by the President shall act as Secretary of Commerce.
+
+Sec. 3. This Order supersedes Executive Order No. 11388 of January 15, 1968.
 
 #### Ex. Ord. No. 11957. Designation of Certain Officers of the Department of Agriculture To Act as Secretary of Agriculture.
 
@@ -136,7 +140,7 @@ Ex. Ord. No. 12343, Jan. 27, 1982, 47 F.R. 4225, provided:
 
 By the authority vested in me as President of the United States of America by Section 3347 of Title 5 and Section 301 of Title 3 of the United States Code, it is hereby ordered as follows:
 
-Section 1. During any period when, by reason of absence, disability, or vacancy in office, neither the Secretary of State nor the Deputy Secretary of State, is available to exercise the powers or perform the duties of the Office of the Secretary, an officer from the Department of State who has been appointed by the President, by and with the advice and consent of the Senate, in such order as the Secretary of State may from time to time prescribe, shall act as Secretary. If no such order of succession is in effect at that time, then such officers shall act as Secretary in descending order of rank, as established by the listing of their offices in Sections 5314 or 5315 of Title 5 of the United States Code, and at each level of the Executive Schedule in the order in which they shall have taken the oath as such officers.
+Section 1. During any period when, by reason of absence, disability, or vacancy in office, neither the Secretary of State nor the Deputy Secretary of State, is available to exercise the powers or perform the duties of the Office of the Secretary, an officer from the Department of State who has been appointed by the President, by and with the advice and consent of the Senate, in such order as the Secretary of State may from time to time prescribe, shall act as Secretary. If no such order of succession is in effect at that time, then such officers shall act as Secretary in descending order of rank, as established by the listing of their offices in Sections 5314 or 5315 of Title 5 of the United States Code, and at each level of the Executive Schedule inthe order in which they shall have taken the oath as such officers.
 
 Sec. 2. The President may at any time, pursuant to law but without regard to the foregoing provisions of this Order, direct that an officer specified by the President shall act as Secretary of State.
 
@@ -146,57 +150,11 @@ Ronald Reagan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Executive Order No. 12514
 
-Ex. Ord. No. 12514, May 14, 1985, 50 F.R. 20383, which provided for order of succession of officers to act as Secretary of Defense, Secretary of the Army, Secretary of the Navy, and Secretary of the Air Force, was revoked by Ex. Ord. No. 12787, Dec. 31, 1991, 57 F.R. 517, set out below.
+Ex. Ord. No. 12514, May 14, 1985, 50 F.R. 20383, which provided for order of succession of officers to act as Secretary of Defense, Secretary of the Army, Secretary of the Navy, and Secretary of the Air Force, was revoked by Ex. Ord. No. 12787, Dec. 31, 1991, 57 F.R. 517, formerly set out below.
 
-#### Ex. Ord. No. 12787. Order of Succession of Officers To Act as Secretary of Defense
+#### Executive Order No. 12787
 
-Ex. Ord. No. 12787, Dec. 31, 1991, 57 F.R. 517, provided:
-
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 3347 of title 5, United States Code, it is hereby ordered as follows:
-
-Section 1. <i>Succession to the Authority of the Secretary of Defense.</i>
-
-(a) In the event of the death, permanent disability, or resignation of the Secretary of Defense, the incumbents holding the Department of Defense positions designated below shall, in the order indicated, act for and exercise the powers of the Secretary of Defense:
-
-(1) Deputy Secretary of Defense.
-
-(2) Secretary of the Army.
-
-(3) Secretary of the Navy.
-
-(4) Secretary of the Air Force.
-
-(5) Under Secretary of Defense for Acquisition \[now Under Secretary of Defense for Acquisition and Technology\].
-
-(6) Under Secretary of Defense for Policy.
-
-(7) Deputy Under Secretary of Defense for Acquisition \[now Under Secretary of Defense for Acquisition and Technology\].
-
-(8) Director of Defense Research and Engineering, Assistant Secretaries of Defense, the Comptroller of the Department of Defense \[now Under Secretary of Defense (Comptroller)\], the Director of Operational Test and Evaluation, the Deputy Under Secretary of Defense for Policy, and the General Counsel of the Department of Defense, in the order fixed by their length of service as permanent appointees in such positions.
-
-(9) Under Secretaries of the Army, the Navy, and the Air Force, in the order fixed by their length of service as permanent appointees in such positions.
-
-(10) Assistant Secretaries and General Counsels of the Army, the Navy, and the Air Force, in the order fixed by their length of service as permanent appointees in such positions.
-
-(b) In the event of the temporary absence or temporary disability of the Secretary of Defense, the incumbents holding the Department of Defense positions designated in paragraph (a) of this section shall, in the order indicated, act for and exercise the powers of the Secretary of Defense.
-
-(1) In these instances, the designation of an Acting Secretary of Defense applies only for the duration of the Secretary's absence or disability, and does not affect the authority of the Secretary to resume the powers of his office upon his return.
-
-(2) In the event that the Secretary of Defense is merely absent from his position, the Secretary may continue to exercise the powers and fulfill the duties of his office during his absence, notwithstanding the provisions of this order.
-
-(c) Precedence among those officers designated in paragraph (a) of this section who have the same date of appointment shall be determined by the Secretary of Defense at the time that such appointments are made.
-
-(d) Notwithstanding paragraphs (a) and (b) of this section, an officer shall not act for or exercise the powers of the Secretary of Defense under this order if that officer serves only in an acting capacity in the position that would otherwise entitle him to do so.
-
-Sec. 2. <i>Temporary Nature of Succession.</i>
-
-Succession to act for and exercise the powers of the Secretary of Defense pursuant to this order shall be on a temporary or interim basis and shall not have the effect of vacating the statutory appointment held by the successor.
-
-Sec. 3. <i>Revocation of Prior Executive Order.</i>
-
-Executive Order No. 12514 of May 14, 1985, is hereby revoked.
-
-George Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Ex. Ord. No. 12787, Dec. 31, 1991, 57 F.R. 517, which provided for order of succession of officers to act as Secretary of Defense, was revoked by Ex. Ord. No. 13000, Apr. 24, 1996, 61 F.R. 18483, set out below.
 
 #### Ex. Ord. No. 12879. Order of Succession of Officers To Act as Secretary of the Navy
 
@@ -218,7 +176,7 @@ Section 1. <i>Succession to the Authority of the Secretary of the Navy.</i>
 
 (b) In the event of the temporary absence or temporary disability of the Secretary of the Navy, the incumbents holding the Department of the Navy positions designated in paragraph (a) of this section, in the order indicated, shall act for and exercise the powers of the Secretary of the Navy.
 
-(1) In these instances, the designation of an Acting Secretary of the Navy applies only for the duration ofthe Secretary's absence or disability, and does not affect the authority of the Secretary to resume the powers of his office upon his return.
+(1) In these instances, the designation of an Acting Secretary of the Navy applies only for the duration of the Secretary's absence or disability, and does not affect the authority of the Secretary to resume the powers of his office upon his return.
 
 (2) In the event that the Secretary of the Navy is merely absent from this position, the Secretary of the Navy may continue to exercise the powers and fulfill the duties of his office during his absence, notwithstanding the provisions of this order.
 
@@ -287,6 +245,58 @@ Section 1. <i>Succession To Act as the Secretary of the Air Force.</i>
 (d) Notwithstanding paragraphs (a) and (b) of this section, an officer shall not act for or exercise the powers of the Secretary of the Air Force under this order if that officer serves only in an acting capacity in the position that would otherwise entitle him to do so.
 
 Sec. 2. <i>Temporary Nature of Succession</i>. Succession to act for and exercise the powers of the Secretary of the Air Force pursuant to this order shall be on a temporary or interim basis and shall not have the effect of vacating the statutory appointment held by the successor.
+
+William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Ex. Ord. No. 13000. Order of Succession of Officers To Act as Secretary of Defense
+
+Ex. Ord. No. 13000, Apr. 24, 1996, 61 F.R. 18483, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 3347 of title 5, United States Code, it is hereby ordered as follows:
+
+Section 1. <i>Succession to Act as the Secretary of Defense</i>. (a) In the event of the death, permanent disability, or resignation of the Secretary of Defense, the incumbents holding the Department of Defense positions designated below, in the order indicated, shall act for and exercise the powers of the Secretary of Defense as Acting Secretary of Defense:
+
+(1) Deputy Secretary of Defense.
+
+(2) Secretary of the Army.
+
+(3) Secretary of the Navy.
+
+(4) Secretary of the Air Force.
+
+(5) Under Secretary of Defense for Acquisition and Technology.
+
+(6) Under Secretary of Defense for Policy.
+
+(7) Under Secretary of Defense (Comptroller).
+
+(8) Under Secretary of Defense for Personnel and Readiness.
+
+(9) Deputy Under Secretary of Defense for Acquisition and Technology.
+
+(10) Deputy Under Secretary of Defense for Policy.
+
+(11) Director of Defense Research and Engineering.
+
+(12) The Assistant Secretaries of Defense, the Director of Operational Test and Evaluation, and the General Counsel of the Department of Defense, in the order fixed by their length of service as permanent appointees in such positions.
+
+(13) Under Secretaries of the Army, the Navy, and the Air Force, in the order fixed by their length of service as permanent appointees in such positions.
+
+(14) Assistant Secretaries of the Army, the Navy, and the Air Force whose appointments are vested in the President, and General Counsels of the Army, the Navy, and the Air Force, in the order fixed by their length of service as permanent appointees in such positions.
+
+(b) In the event of the temporary absence or temporary disability of the Secretary of Defense, the incumbents holding the Department of Defense positions designated in paragraph (a) of this section, in the order indicated, shall act for and exercise the powers of the Secretary of Defense as Acting Secretary of Defense.
+
+(1) In these instances, the designation of an Acting Secretary of Defense applies only for the duration of the Secretary's absence or disability, and does not affect the authority of the Secretary to resume the powers of his office upon his return.
+
+(2) In the event that the Secretary of Defense is temporarily absent from his position, the Secretary may continue to exercise the powers and fulfill the duties of this office during his absence, notwithstanding the provisions of this order.
+
+(c) Precedence among those officers designated in paragraphs (a)(12)–(14) of this section who have the same appointment date shall be determined by the Secretary of Defense at the time that such appointments are made.
+
+(d) Notwithstanding paragraphs (a) and (b) of this section, an officer shall not act for or exercise the powers of the Secretary of Defense under this order if that officer serves only in an acting capacity in the position that would otherwise entitle him to do so.
+
+Sec. 2. <i>Temporary Nature of Succession</i>. Succession to act for and exercise the powers of the Secretary of Defense pursuant to this order shall be on a temporary or interim basis and shall not have the effect of vacating the statutory appointment held by the successor.
+
+Sec. 3. <i>Revocation of Prior Executive Order</i>. Executive Order No. 12787 of December 31, 1991, is hereby revoked.
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

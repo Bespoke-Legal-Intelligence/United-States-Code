@@ -16,7 +16,9 @@
 
 (d) For the purpose of determining whether a commissioned officer of the Army Nurse Corps or the Army Medical Specialist Corps may be retired under section 3911 of this title, all service computed under section 3683 <sup>1</sup> of this title shall be treated as if it were service as a commissioned officer.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 228; Aug. 25, 1959, Pub. L. 86–197, §1(5), 73 Stat. 426.)
+(e) Section 972(b) of this title excludes from computation of an officer's years of service for purposes of this section any time identified with respect to that officer under that section.
+
+(Aug. 10, 1956, ch. 1041, 70A Stat. 228; Aug. 25, 1959, Pub. L. 86–197, §1(5), 73 Stat. 426; Feb. 10, 1996, Pub. L. 104–106, div. A, title V, §561(d)(2)(B), 110 Stat. 322.)
 
 Historical and Revision Notes
 
@@ -27,6 +29,24 @@ Historical and Revision Notes
 <i>Source (Statutes at Large)</i>
 
 3926(a)
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 3926(b)
 
@@ -74,7 +94,13 @@ Section 3683 of this title, referred to in subsecs. (a)(3) and (d), was repealed
 
 #### Amendments
 
+1996—Subsec. (e). Pub. L. 104–106 added subsec. (e).
+
 1959—Subsec. (d). Pub. L. 86–197 added subsec. (d).
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–106 effective Feb. 10, 1996, and applicable to any period of time covered by section 972 of this title that occurs after that date, see section 561(e) of Pub. L. 104–106, set out as a note under section 972 of this title.
 
 #### Section Referred to in Other Sections
 

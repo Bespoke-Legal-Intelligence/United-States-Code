@@ -42,7 +42,7 @@
 
 #### (iii) Treatment of husband and wife
 
-&emsp;&emsp;&emsp;For purposes of this subparagraph, a husband and wife shall be treated as 1 person. The preceding sentence shall not apply where the spouses lived apart at all times during the taxable year in which the loan is made.
+&emsp;&emsp;&emsp;For purposes of this subparagraph, a husband and wife shall be treated as 1 person.The preceding sentence shall not apply where the spouses lived apart at all times during the taxable year in which the loan is made.
 
 #### (3) Determination of daily portions
 
@@ -110,7 +110,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) the cost of such debt instrument incurred by the purchaser, over
 
-&emsp;&emsp;&emsp;&emsp;(II) the issue price of such debt instrument, increased by the portion of original issue discount previously includiblein the gross income of any holder (computed without regard to this paragraph), and
+&emsp;&emsp;&emsp;&emsp;(II) the issue price of such debt instrument, increased by the portion of original issue discount previously includible in the gross income of any holder (computed without regard to this paragraph), and
 
 &emsp;&emsp;&emsp;(ii) the denominator of which is the sum of the daily portions for such debt instrument for all days after the date of such purchase and ending on the stated maturity date (computed without regard to this paragraph).
 
@@ -200,5 +200,5 @@ Section applicable to taxable years ending after July 18, 1984, but not applicab
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 163, 171, 305, 483, 860B, 871, 1271, 1275, 1276, 1278, 1286, 1288, 6049, 7872 of this title; title 31 section 3101.
+This section is referred to in sections 163, 171, 305, 483, 860B, 860H, 871, 1271, 1275, 1276, 1278, 1286, 1288, 6049, 7872 of this title; title 31 section 3101.
 

@@ -18,5 +18,5 @@ Historical and Revision Notes
 
 Feb. 4, 1919, ch. 14, §6 (proviso), 40 Stat. 1056; renumbered §8 and amended Aug. 7, 1942, ch. 551, §1, 56 Stat. 744.
 
-The words “Secretary of the Navy may replace” are substituted for the words <i>“Provided,</i> That such replacement shall be made only in those cases where”.
+The words “Secretary of the Navy may replace” are substituted for the words <i>“Provided</i>, That such replacement shall be made only in those cases where”.
 

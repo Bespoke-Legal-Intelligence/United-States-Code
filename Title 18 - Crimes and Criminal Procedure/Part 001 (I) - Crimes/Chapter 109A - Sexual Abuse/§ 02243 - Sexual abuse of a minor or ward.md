@@ -2,7 +2,7 @@
 
 (a)
 
-Of a Minor.—Whoever, in the special maritime and territorial jurisdiction of the United States or in a Federal prison, knowingly engages in a sexual act with another person who—
+Of a Minor.—Whoever crosses a State line with intent to engage in a sexual act with a person who has not attained the age of 12 years, or, in the special maritime and territorial jurisdiction of the United States or in a Federal prison, knowingly engages in a sexual act with another person who—
 
 &emsp;(1) has attained the age of 12 years but has not attained the age of 16 years; and
 
@@ -34,13 +34,15 @@ State of Mind Proof Requirement.—In a prosecution under subsection (a) of this
 
 &emsp;(2) that the requisite age difference existed between the persons so engaging.
 
-(Added Pub. L. 99–646, §87(b), Nov. 10, 1986, 100 Stat. 3621, and Pub. L. 99–654, §2, Nov. 14, 1986, 100 Stat. 3661; amended Pub. L. 101–647, title III, §322, Nov. 29, 1990, 104 Stat. 4818.)
+(Added Pub. L. 99–646, §87(b), Nov. 10, 1986, 100 Stat. 3621, and Pub. L. 99–654, §2, Nov. 14, 1986, 100 Stat. 3661; amended Pub. L. 101–647, title III, §322, Nov. 29, 1990, 104 Stat. 4818; Pub. L. 104–208, div. A, title I, §101(a) \[title I, §121\[7(c)\]\], Sept. 30, 1996, 110 Stat. 3009, 3009–26, 3009–31.)
 
 #### Codification
 
 Pub. L. 99–646 and Pub. L. 99–654 added identical sections 2243.
 
 #### Amendments
+
+1996—Subsec. (a). Pub. L. 104–208 inserted “crosses a State line with intent to engage in a sexual act with a person who has not attained the age of 12 years, or” after “Whoever” in introductory provisions.
 
 1990—Subsec. (a). Pub. L. 101–647 substituted “15 years” for “five years” in concluding provisions.
 

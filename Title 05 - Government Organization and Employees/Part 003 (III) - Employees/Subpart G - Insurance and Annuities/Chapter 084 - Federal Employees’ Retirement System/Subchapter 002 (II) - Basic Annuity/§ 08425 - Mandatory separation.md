@@ -12,13 +12,13 @@
 
 #### Amendments
 
-<b>1994</b>—Subsec. (b). Pub. L. 103–283, §307(b)(1)(A), struck out “member of the Capitol Police or” before “firefighter who is” and “member or” before “firefighter becomes” in first sentence.
+1994—Subsec. (b). Pub. L. 103–283, §307(b)(1)(A), struck out “member of the Capitol Police or” before “firefighter who is” and “member or” before “firefighter becomes” in first sentence.
 
 Subsecs. (c), (d). Pub. L. 103–283, §307(b)(1)(B), (C), added subsec. (c) and redesignated former subsec. (c) as (d).
 
-<b>1992</b>—Subsec. (b). Pub. L. 102–378 amended first sentence generally and, in second sentence, substituted “becomes” for “become”. Prior to amendment, first sentence read as follows: “A law enforcement officer, member of the Capitol Police, or firefighter who is otherwise eligible for immediate retirement under section 8412(d) shall be separated from the service on the last day of the month in which that law enforcement officer, member of the Capitol Police, or firefighter becomes 55 years of age or completes 20 years of service if then over that age.”
+1992—Subsec. (b). Pub. L. 102–378 amended first sentence generally and, in second sentence, substituted “becomes” for “become”. Prior to amendment, first sentence read as follows: “A law enforcement officer, member of the Capitol Police, or firefighter who is otherwise eligible for immediate retirement under section 8412(d) shall be separated from the service on the last day of the month in which that law enforcement officer, member of the Capitol Police, or firefighter becomes 55 years of age or completes 20 years of service if then over that age.”
 
-<b>1990</b>—Subsec. (b). Pub. L. 101–509, §529 \[title IV, §409(b)(1)\], which directed the amendment of subsec. (b) by striking out “law enforcement officer or” wherever appearing in first sentence, could not be executed because of a prior amendment by Pub. L. 101–428, §3(b)(1)(A), see below.
+1990—Subsec. (b). Pub. L. 101–509, §529 \[title IV, §409(b)(1)\], which directed the amendment of subsec. (b) by striking out “law enforcement officer or” wherever appearing in first sentence, could not be executed because of a prior amendment by Pub. L. 101–428, §3(b)(1)(A), see below.
 
 Pub. L. 101–509, §529 \[title IV, §409(b)(2)\], inserted after first sentence “A law enforcement officer who is otherwise eligible for immediate retirement under section 8412(d) shall be separated from the service on the last day of the month in which that law enforcement officer become 57 years of age or completes 20 years of service if then over that age.”
 

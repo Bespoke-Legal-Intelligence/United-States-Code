@@ -44,13 +44,15 @@ Preventive Maintenance.—After January 1, 1995, the Secretary may approve an ap
 
 (f)
 
-Notification.—The sponsor of an airport for which an amount is apportioned under section 47114(c) of this title shall notify the Secretary of the fiscal year in which the sponsor intends to submit a project grant application for the apportioned amount. The notification shallbe given by the time and contain the information the Secretary prescribes.
+Notification.—The sponsor of an airport for which an amount is apportioned under section 47114(c) of this title shall notify the Secretary of the fiscal year in which the sponsor intends to submit a project grant application for the apportioned amount. The notification shall be given by the time and contain the information the Secretary prescribes.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1253; Pub. L. 103–305, title I, §§106, 107(a), Aug. 23, 1994, 108 Stat. 1572.)
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary may protect trees and forests and wood products, stored wood, and wood in usedirectly on the National Forest System and, in cooperation with others, on other lands in the United States, from natural and man-made causes, to—
+The Secretary may protect trees and forests and wood products, stored wood, and wood in use directly on the National Forest System and, in cooperation with others, on other lands in the United States, from natural and man-made causes, to—
 
 &emsp;(1) enhance the growth and maintenance of trees and forests;
 
@@ -72,7 +72,7 @@ There are authorized to be appropriated annually such sums as may be necessary t
 
 #### (1) In general
 
-&emsp;Subject to the provisions of subsections (c) and (e) of this section, the Secretary shall, in cooperation with State foresters or equivalent State officials, subdivisions of States, or otherentities on non-Federal lands (hereafter in this subsection referred to as the “cooperator”)—
+&emsp;Subject to the provisions of subsections (c) and (e) of this section, the Secretary shall, in cooperation with State foresters or equivalent State officials, subdivisions of States, or other entities on non-Federal lands (hereafter in this subsection referred to as the “cooperator”)—
 
 &emsp;&emsp;(A) provide cost-share assistance to such cooperators who have established an acceptable integrated pest management strategy, as determined by the Secretary, that will prevent, retard, control, or suppress gypsy moth, southern pine beetle, spruce budworm infestations, or other major insect infestations in an amount no less than 50 percent nor greater than 75 percent of the cost of implementing such strategy; and
 

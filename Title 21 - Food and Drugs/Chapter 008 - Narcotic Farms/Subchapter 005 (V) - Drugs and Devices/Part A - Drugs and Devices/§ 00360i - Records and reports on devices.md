@@ -42,7 +42,7 @@ Every person who is a manufacturer, importer, or distributor of a device intende
 
 &emsp;(9) shall require distributors who submit such reports to submit copies of the reports to the manufacturer of the device for which the report was made.
 
-> In prescribing such regulations, the Secretary shall have due regard for the professional ethics of the medical profession and the interests of patients. The prohibitions of paragraph (7) of this subsection continue to apply to records, reports, and information concerning any individual who has been a patient, irrespective of whether or when he ceases to be a patient.
+> In prescribing such regulations, the Secretary shall have due regard for the professional ethicsof the medical profession and the interests of patients. The prohibitions of paragraph (7) of this subsection continue to apply to records, reports, and information concerning any individual who has been a patient, irrespective of whether or when he ceases to be a patient.
 
 #### (b) User reports
 
@@ -112,7 +112,7 @@ Subsection (a) of this section shall not apply to—
 
 &emsp;(2) any person who manufactures or imports devices intended for use in humans solely for such person's use in research or teaching and not for sale (including any person who uses a device under an exemption granted under section 360j(g) of this title); and
 
-&emsp;(3) any other class of persons as the Secretary may by regulation exempt from subsection (a) of this section upon a finding that compliance with the requirements of such subsection by such class with respect to a device is not necessary to (A) assure that a device is not adulterated or misbranded or (B) otherwise to assure its safety and effectiveness.
+&emsp;(3) any other class of persons as the Secretary may by regulation exempt from subsection (a) of this section upon a finding that compliance with the requirements of such subsection by such class with respect to a deviceis not necessary to (A) assure that a device is not adulterated or misbranded or (B) otherwise to assure its safety and effectiveness.
 
 #### (d) Certification
 
@@ -204,7 +204,7 @@ Section 3(c) of Pub. L. 101–629, as amended by Pub. L. 102–300, §2(a)(2), (
 
 “(1)(A) Not later than 9 months after the date of the enactment of this Act \[Nov. 28, 1990\], the Secretary of Health and Human Services shall issue proposed regulations—
 
-&emsp;“(i) to require distributors of devices to establish and maintain records and to make reports (including reports required by part 803 of title 21 of the Code of Federal Regulations) under section 519(a)(6) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 360i(a)(6)\], and
+&emsp;“(i) to require distributors of devices to establish and maintain records and to make reports (includingreports required by part 803 of title 21 of the Code of Federal Regulations) under section 519(a)(6) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 360i(a)(6)\], and
 
 &emsp;“(ii) to implement section 519(e) of such Act.
 

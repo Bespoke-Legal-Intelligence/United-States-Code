@@ -16,7 +16,7 @@ For purposes of this subchapter—
 
 (7) The term “nonprofit” as applied to any school, agency, organization, or institution means one which is a corporation or association, or is owned and operated by one or more corporations or associations, no part of the net earnings of which inures, or may lawfully inure, to the benefit of any private shareholder or individual.
 
-(8) The term “secondary school” means a school which provides secondary education, as determined under State law except that it does not include any education provided beyond grade 12.
+(8) The term “secondary school” means a school which provides secondary education, asdetermined under State law except that it does not include any education provided beyond grade 12.
 
 (9) The terms “construction” and “cost of construction” include (A) the construction of new buildings, and the acquisition, expansion, remodeling, replacement, and alteration of existing buildings, including architects’ fees, but not including the cost of acquisition of land (except in the case of acquisition of an existing building), off-site improvements, living quarters, or patient-care facilities, and (B) equipping new buildings and existing buildings, whether or not acquired, expanded, remodeled, or altered. For purposes of this paragraph, the term “buildings” includes interim facilities.
 
@@ -78,7 +78,7 @@ Amendment by Pub. L. 94–63 effective July 1, 1975, see section 942 of Pub. L. 
 
 #### Effective Date of 1968 Amendment
 
-Section 205 of Pub. L. 90–490 provided that: “The amendments made by sections 201 and 204 \[amending this section and sections 296 and 296a of this title\] shall apply with respect to appropriations for fiscal years ending after June 30, 1969.”
+Section 205 of Pub. L. 90–490 provided that: “The amendments made by sections 201 and 204 \[amendingthis section and sections 296 and 296a of this title\] shall apply with respect to appropriations for fiscal years ending after June 30, 1969.”
 
 Section 214 of Pub. L. 90–490 provided that: “The amendments made by the preceding provisions of this part \[enacting sections 296f and 296g of this title and amending this section and sections 296d and 296e of this title\] shall apply with respect to appropriations for fiscal years ending after June 30, 1969.”
 

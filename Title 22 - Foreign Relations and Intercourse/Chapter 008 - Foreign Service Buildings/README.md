@@ -19,7 +19,7 @@
 | [296\.](%C2%A7%2000296%20-%20Duties%20of%20Secretary%20of%20State%20with%20respect%20to%20commission%20and%20properties.md) | Duties of Secretary of State with respect to commission and properties. |
 | [296a.](%C2%A7%2000296a%20-%20Maintenance%20management%20of%20overseas%20property.md) | Maintenance management of overseas property. |
 | [297\.](%C2%A7%2000297%20-%20Acquisition%20of%20property%20by%20lease.md) | Acquisition of property by lease. |
-| 297a, 298. Omitted. |  |
+| 297a, 298. | Omitted. |
 | [299\.](%C2%A7%2000299%20-%20Short%20title.md) | Short title. |
 | [300\.](%C2%A7%2000300%20-%20Dispositions%20of%20property%3B%20damage%20payments%3B%20acceptance%20of%20gifts%20or%20services.md) | Dispositions of property; damage payments; acceptance of gifts or services. |
 | (a) | Authority of Secretary of State. |

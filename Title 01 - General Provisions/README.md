@@ -1,5 +1,5 @@
 
-1 U.S.C.<br>United States Code, 1995 Edition<br>Title 1 - GENERAL PROVISIONS<br>From the U.S. Government Publishing Office, www.gpo.gov
+1 U.S.C.<br>United States Code, 1996 Edition<br>Title 1 - GENERAL PROVISIONS<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 1—GENERAL PROVISIONS
 
@@ -29,7 +29,9 @@ Table Showing Disposition of All Sections of Former Title 1
 
 <i>Title 1 Former Sections</i>
 
-<i>    Revised Statutes         Statutes at Large    </i>
+<i>Revised Statutes</i>
+
+<i>Statutes at Large</i>
 
 <i>Title 1 New Sections</i>
 

@@ -90,7 +90,7 @@ For purposes of this part, there shall be allowed the following deductions:
 
 #### (E) Certain dividends received by foreign corporations
 
-&emsp;&emsp;Subparagraph (A)(i) (and not subparagraph (A)(ii)) shall apply to any dividend received by a foreign corporation from a domestic corporation which would be a 100 percent dividend if section 1504(b)(3) did not apply for purposes of applying section 243(b)(5).
+&emsp;&emsp;Subparagraph (A)(i) (and not subparagraph (A)(ii)) shall apply to any dividend received by a foreign corporation from a domestic corporation which would be a 100 percent dividend if section 1504(b)(3) did not apply for purposes of applying section 243(b)(2).
 
 #### (5) Operations loss deduction
 
@@ -158,7 +158,7 @@ The modifications referred to in subsection (a)(8) are as follows:
 
 &emsp;Except as provided in subsection (a)(4), the deductions for dividends received provided by sections 243, 244, and 245 shall not be allowed.
 
-(Added Pub. L. 98–369, div. A, title II, §211(a), July 18, 1984, 98 Stat. 722; amended Pub. L. 99–514, title VI, §611(a)(5), title VIII, §805(c)(6), title X, §1011(b)(4), title XVIII, §1821(p), Oct. 22, 1986, 100 Stat. 2249, 2362, 2389, 2842; Pub. L. 100–203, title X, §10221(c)(2), Dec. 22, 1987, 101 Stat. 1330–409.)
+(Added Pub. L. 98–369, div. A, title II, §211(a), July 18, 1984, 98 Stat. 722; amended Pub. L. 99–514, title VI, §611(a)(5), title VIII, §805(c)(6), title X, §1011(b)(4), title XVIII, §1821(p), Oct. 22, 1986, 100 Stat. 2249, 2362, 2389, 2842; Pub. L. 100–203, title X, §10221(c)(2), Dec. 22, 1987, 101 Stat. 1330–409; Pub. L. 104–188, title I, §1702(h)(3), Aug. 20, 1996, 110 Stat. 1873.)
 
 #### Prior Provisions
 
@@ -167,6 +167,8 @@ A prior section 805, added Pub. L. 86–69, §2(a), June 25, 1959, 73 Stat. 118;
 Another prior section 805, acts Aug. 16, 1954, ch. 736, 68A Stat. 258; Mar. 13, 1956, ch. 83, §2, 70 Stat. 43, authorized a special interest deduction, prior to the general revision of this part by Pub. L. 86–69, §2(a).
 
 #### Amendments
+
+1996—Subsec. (a)(4)(E). Pub. L. 104–188 substituted “243(b)(2)” for “243(b)(5)”.
 
 1987—Subsec. (a)(4)(B). Pub. L. 100–203 substituted “shall be the percentage determined under section 246(b)(3) of the life insurance company taxable income (and such limitation shall be applied as provided in section 246(b)(3))” for “shall be 80 percent of the life insurance company taxable income”.
 
@@ -181,6 +183,10 @@ Subsec. (b)(2). Pub. L. 99–514, §805(c)(6), redesignated par. (3) as (2). For
 Subsec. (b)(2)(A)(iii). Pub. L. 99–514, §1011(b)(4), which directed that subsec. (b)(3)(A)(iii) be amended by striking out “the special life insurance company deduction and” before “the small life”, was executed to subsec. (b)(2)(A)(iii) to reflect the probable intent of Congress and the redesignation of subsec. (b)(3) as (b)(2) by Pub. L. 99–514, §805(c)(6).
 
 Subsec. (b)(3) to (6). Pub. L. 99–514, §805(c)(6), redesignated pars. (3) to (6) as (2) to (5), respectively.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–188 effective, except as otherwise expressly provided, as if included in the provision of the Revenue Reconciliation Act of 1990, Pub. L. 101–508, title XI, to which such amendment relates, see section 1702(i) of Pub. L. 104–188, set out as a note under section 38 of this title.
 
 #### Effective Date of 1987 Amendment
 

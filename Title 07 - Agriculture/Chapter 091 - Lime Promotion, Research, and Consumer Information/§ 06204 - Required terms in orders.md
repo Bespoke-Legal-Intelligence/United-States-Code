@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-An order issued by the Secretary under section 6203(a) of this title shall contain the terms and conditions described in this section and, except as provided in section 6205 of this title, no other terms or conditions.
+An order issued by the Secretary under section 6203(a) of this title shall contain the terms andconditions described in this section and, except as provided in section 6205 of this title, no other terms or conditions.
 
 #### (b) Lime Board
 
@@ -84,7 +84,7 @@ Such order shall provide for the establishment of a Lime Board as follows:
 
 &emsp;The Board shall—
 
-&emsp;&emsp;(A) administer orders issued by the Secretary under section 6203(a) of this title, andamendments to such orders, in accordance with their terms and provisions and consistent with this chapter;
+&emsp;&emsp;(A) administer orders issued by the Secretary under section 6203(a) of this title, and amendments to such orders, in accordance with their terms and provisions and consistent with this chapter;
 
 &emsp;&emsp;(B) prescribe rules and regulations to effectuate the terms and provisions of such orders;
 
@@ -104,7 +104,7 @@ Such order shall provide for periodic budgets and plans as follows:
 
 #### (2) Plans
 
-&emsp;Each budget shall include a plan for research, promotion, and consumer information regarding limes. A plan under this paragraph shall take effect on the approval of the Secretary. The Board may enter into contracts and agreements, with the approval of the Secretary, for—
+&emsp;Each budget shall include a plan for research, promotion, and consumer informationregarding limes. A plan under this paragraph shall take effect on the approval of the Secretary. The Board may enter into contracts and agreements, with the approval of the Secretary, for—
 
 &emsp;&emsp;(A) the development and carrying out of such plan; and
 
@@ -202,7 +202,7 @@ Such order shall provide that funds collected by the Board under this chapter th
 
 &emsp;&emsp;(A) to maintain and make available for inspection by the employees of the Board and the Secretary such books and records as may be required by the order; and
 
-&emsp;&emsp;(B) to file, at the times, in the manner, and having the content prescribed by the order, reports regarding the collection, payment, or remittance of such assessments.
+&emsp;&emsp;(B) to file, at the times, in the manner, and having the content prescribed by theorder, reports regarding the collection, payment, or remittance of such assessments.
 
 #### (i) Confidentiality
 

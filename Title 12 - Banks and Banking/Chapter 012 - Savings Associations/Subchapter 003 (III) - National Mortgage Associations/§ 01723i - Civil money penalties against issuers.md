@@ -86,7 +86,7 @@
 
 #### (e) Action to collect penalty
 
-If any issuer or custodian fails to comply with the Secretary's determination or order imposing a civil money penalty under subsection (a) of this section, after the determination or order is no longer subject to review as provided by subsections (c)(1) and (d) of this section, the Secretary may request the Attorney General of the United States to bring an action in an appropriate United States district court to obtain a monetary judgment against the issuer or custodian and such other relief as may be available. The monetary judgment may, in the discretion of the court, include any attorneys fees andother expenses incurred by the United States in connection with the action. In an action under this subsection, the validity and appropriateness of the Secretary's determination or order imposing the penalty shall not be subject to review.
+If any issuer or custodian fails to comply with the Secretary's determination or order imposing a civil money penalty under subsection (a) of this section, after the determination or order is no longer subject to review as provided by subsections (c)(1) and (d) of this section, the Secretary may request the Attorney General of the United States to bring an action in an appropriate United States district court to obtain a monetary judgment against the issuer or custodian and such other relief as may be available. The monetary judgment may, in the discretion of the court, include any attorneys fees and other expenses incurred by the United States in connection with the action. In an action under this subsection, the validity and appropriateness of the Secretary's determination or order imposing the penalty shall not be subject to review.
 
 #### (f) Settlement by Secretary
 
@@ -104,7 +104,15 @@ The Secretary shall issue such regulations as the Secretary deems appropriate to
 
 The Secretary shall deposit all civil money penalties collected under this section into moneys of the Association pursuant to section 1722 of this title.
 
-(June 27, 1934, ch. 847, title III, §317, as added Dec. 15, 1989, Pub. L. 101–235, title I, §110(a), 103 Stat. 2011.)
+(June 27, 1934, ch. 847, title III, §317, as added Dec. 15, 1989, Pub. L. 101–235, title I, §110(a), 103 Stat. 2011; amended Sept. 30, 1996, Pub. L. 104–208, div. A, title II, §2704(d)(13)(A), 110 Stat. 3009–490.)
+
+#### Amendment of Subsection (b)(1)(B)
+
+<i>Pub. L. 104–208, div. A, title II, §2704(c), (d)(13)(A), Sept. 30, 1996, 110 Stat. 3009–487, 3009–490, provided that, effective Jan. 1, 1999, if no insured depository institution is a savings association on that date, subsection (b)(1)(B) of this section is amended by striking “Bank Insurance Fund for banks or through the Savings Association Insurance Fund for savings associations” and inserting “Deposit Insurance Fund”.</i>
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–208 effective Jan. 1, 1999, if no insured depository institution is a savings association on that date, see section 2704(c) of Pub. L. 104–208, set out as a note under section 1821 of this title.
 
 #### Effective Date
 

@@ -42,7 +42,7 @@ No payment may be made under this section to any facility after the expiration o
 
 #### (g) Authorization of appropriations
 
-There are authorized to be appropriated to the Secretary for fiscal years 1993, 1994, and 1995such sums as may be necessary to carry out the purposes of this section.
+There are authorized to be appropriated to the Secretary for fiscal years 1993, 1994, and 1995 such sums as may be necessary to carry out the purposes of this section.
 
 (Pub. L. 102–486, title XII, §1212, Oct. 24, 1992, 106 Stat. 2969.)
 

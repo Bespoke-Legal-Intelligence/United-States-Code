@@ -20,9 +20,9 @@ Section was not enacted as part of the Public Health Service Act which comprises
 
 #### Amendments
 
-1984—Subsec. (a). Pub. L. 98–498, §310(b), substituted “by the Public Health Service if” for “at facilities of the Public Health Service: <i>Provided,</i> That”.
+1984—Subsec. (a). Pub. L. 98–498, §310(b), substituted “by the Public Health Service if” for “at facilities of the Public Health Service: <i>Provided</i>, That”.
 
-Subsec. (b). Pub. L. 98–498, §310(c), struck out “at its hospitals and relief stations” before “and, if suitable accommodations” and substituted “by the Public Health Service if” for “at hospitals of the Public Health Service: <i>Provided,</i> That”.
+Subsec. (b). Pub. L. 98–498, §310(c), struck out “at its hospitals and relief stations” before “and, if suitable accommodations” and substituted “by the Public Health Service if” for “at hospitals of the Public Health Service: <i>Provided</i>, That”.
 
 #### Change of Name
 
@@ -36,9 +36,9 @@ Functions of Public Health Service, Surgeon General of Public Health Service, an
 
 Ex. Ord. No. 11160, July 6, 1964, 29 F.R. 9315, provided:
 
-By virtue of the authority vested in me by the first section of the Act of July 19, 1963 (Public Law 88–71, 77 Stat. 83, 42 U.S.C. 253a) \[this section\], and as President of the United States, I hereby prescribe the following regulations relating to the medical care of certain retired personnel of the Coast and Geodetic Survey \[now National Oceanic and Atmospheric Administration\] and dependents of Coast and Geodetic Survey \[now National Oceanic and Atmospheric Administration\] ships’ officers and crew members, both active and retired.
+By virtue of the authority vested in me by the first section of the Act of July 19, 1963 (Public Law 88–71, 77 Stat. 83, 42 U.S.C. 253a) \[this section\], and as President of the United States, I hereby prescribe the following regulations relating to the medical care of certain retired personnel of the Coast and Geodetic Survey \[now National Oceanic and Atmospheric Administration\]and dependents of Coast and Geodetic Survey \[now National Oceanic and Atmospheric Administration\] ships’ officers and crew members, both active and retired.
 
-Section 1. <i>Definitions.</i> As used in these regulations, the term:
+Section 1. <i>Definitions</i>. As used in these regulations, the term:
 
 (1) “Retired ships’ officer and retired crew member” means a noncommissioned ships’ officer or crew member of a vessel of the Coast and Geodetic Survey \[now National Oceanic and Atmospheric Administration\] who either was on active duty as a vessel employee on July 19, 1963, and whose employment as such vessel employee was continuous from that date until the date of his retirement, or who had retired as a vessel employee on or before July 19, 1963.
 
@@ -58,7 +58,7 @@ Section 1. <i>Definitions.</i> As used in these regulations, the term:
 
 (6) “Outpatient office” means a part-time outpatient facility serving all classes of legal beneficiaries, located in other than Federal space, and in the charge of a local private physician under contract to the Service to provide medical care on an annual or fee basis (formerly known as a Third-Class Relief Station).
 
-Sec. 2. <i>Persons entitled to treatment.</i> The following persons shall be entitled to medical care under these regulations:
+Sec. 2. <i>Persons entitled to treatment</i>. The following persons shall be entitled to medical care under these regulations:
 
 (1) Retired ships’ officers and retired crew members of the Coast and Geodetic Survey \[now National Oceanic and Atmospheric Administration\];
 
@@ -66,15 +66,15 @@ Sec. 2. <i>Persons entitled to treatment.</i> The following persons shall be ent
 
 (3) Dependent members of families of active duty ships’ officers and crew members of the Coast and Geodetic Survey \[now National Oceanic and Atmospheric Administration\].
 
-Sec. 3. <i>Application for treatment; evidence of eligibility.</i> Persons entitled to medical care under Section 2 of these regulations, when applying to Public Health Service medical care facilities for medical care, shall produce proper identification, as issued to them by the Coast and Geodetic Survey \[now National Oceanic and Atmospheric Administration\], and such identification shall be accepted as evidence of eligibility for such medical care by the Service.
+Sec. 3. <i>Application for treatment; evidence of eligibility</i>. Persons entitled to medical care under Section 2 of these regulations, when applying to Public Health Service medical care facilities for medical care, shall produce proper identification, as issued to them by the Coast and Geodetic Survey \[now National Oceanic and Atmospheric Administration\], and such identification shall be accepted as evidence of eligibility for such medical care by the Service.
 
-Sec. 4. <i>Extent of treatment; retired ships’ officers and crew members.</i> Subject to the limitation imposed by paragraph (2) of this section, retired ships’ officers and crew members entitled to medical care under these regulations shall be furnished:
+Sec. 4. <i>Extent of treatment; retired ships’ officers and crew members</i>. Subject to the limitation imposed by paragraph (2) of this section, retired ships’ officers and crew members entitled to medical care under these regulations shall be furnished:
 
 (1) Medical, surgical, and dental treatment at hospitals, outpatient clinics, and outpatient offices of the Service, and hospitalization at hospitals of the Service. The Service will not be responsible for defraying the cost of hospitalization, medical services, and supplies procured elsewhere.
 
 (2) Dental treatment shall be furnished to the extent that facilities and services at hospitals and outpatient clinics of the Service having full-time dental officers on duty are available to provide such treatment. At other Service facilities, dental treatment shall be limited to emergency measures necessary to relieve pain.
 
-Sec. 5. <i>Extent of treatment; dependent members of families; charges.</i> (a) Dependent members of families shall be furnished medical advice and outpatient treatment at hospitals, outpatient clinics, and outpatient offices of the Service and, if suitable accommodations are available, shall be furnished hospitalization at hospitals of the Service. The Service will not be responsible for defraying the cost of hospitalization, medical services, and supplies procured elsewhere.
+Sec. 5. <i>Extent of treatment; dependent members of families; charges</i>. (a) Dependent members of families shall be furnished medical advice and outpatient treatment at hospitals, outpatient clinics, and outpatient offices of the Service and, if suitable accommodations are available, shall be furnished hospitalization at hospitals of the Service. The Service will not be responsible for defraying the cost of hospitalization, medical services, and supplies procured elsewhere.
 
 (b) For the purpose of this section—
 
@@ -86,7 +86,7 @@ Sec. 5. <i>Extent of treatment; dependent members of families; charges.</i> (a) 
 
 (d) Dental treatment may be furnished to the extent that facilities and services at hospitals and outpatient clinics of the Service having full-time dental officers are available to provide such treatment. Dental care will not be furnished under any circumstances in private facilities at the expense of the Service.
 
-Sec. 6. <i>Prior orders.</i> Executive Order No. 9703 of March 12, 1946, prescribing regulations relating to medical care of certain personnel of the Coast Guard, Coast and Geodetic Survey \[now National Oceanic and Atmospheric Administration\], Public Health Service, and former Lighthouse Service, is hereby amended to the extent necessary to conform it to the provisions of this order.
+Sec. 6. <i>Prior orders</i>. Executive Order No. 9703 of March 12, 1946, prescribing regulations relating to medical care of certain personnel of the Coast Guard, Coast and Geodetic Survey \[now National Oceanic and Atmospheric Administration\], Public Health Service, and former Lighthouse Service, is hereby amended to the extent necessary to conform it to the provisions of this order.
 
 Lyndon B. Johnson.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

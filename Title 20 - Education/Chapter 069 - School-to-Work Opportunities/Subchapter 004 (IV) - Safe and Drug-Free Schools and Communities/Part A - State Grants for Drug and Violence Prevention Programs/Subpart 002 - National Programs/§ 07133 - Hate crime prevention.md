@@ -10,7 +10,7 @@ From funds made available to carry out this subpart under section 7104(1) of thi
 
 &emsp;Grants under this section may be used to improve elementary and secondary educational efforts, including—
 
-&emsp;&emsp;(A) development of education and training programs designed to prevent and to reducethe incidence of crimes and conflicts motivated by hate;
+&emsp;&emsp;(A) development of education and training programs designed to prevent and to reduce the incidence of crimes and conflicts motivated by hate;
 
 &emsp;&emsp;(B) development of curricula for the purpose of improving conflict or dispute resolution skills of students, teachers, and administrators;
 

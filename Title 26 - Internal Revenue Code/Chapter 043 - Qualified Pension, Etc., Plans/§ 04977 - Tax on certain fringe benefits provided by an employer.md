@@ -24,7 +24,7 @@ If—
 
 &emsp;(2) at all times on or after January 1, 1984, and before the close of the calendar year involved, substantially all of the employees of the employer were entitled to employee discounts on goods or services provided by the employer in 1 line of business,
 
-> for purposes of paragraphs (1) and (2) of section 132(a) (but not for purposes of section 132(i)(2)), all employees of any line of business of the employer which was in existence on January 1, 1984, shall be treated as employees of the line of business referred to in paragraph (2).
+> for purposes of paragraphs (1) and (2) of section 132(a) (but not for purposes of section 132(h)), all employees of any line of business of the employer which was in existence on January 1, 1984, shall be treated as employees of the line of business referred to in paragraph (2).
 
 #### (d) Period of election
 
@@ -38,11 +38,13 @@ All employees treated as employed by a single employer under subsection (b), (c)
 
 Except as otherwise provided in regulations, this section shall apply only with respect to employment within the United States.
 
-(Added Pub. L. 98–369, div. A, title V, §531(e)(1), July 18, 1984, 98 Stat. 885; amended Pub. L. 99–514, title XVIII, §1853(c)(1), (2), Oct. 22, 1986, 100 Stat. 2871; Pub. L. 103–66, title XIII, §13213(d)(3)(D), Aug. 10, 1993, 107 Stat. 474.)
+(Added Pub. L. 98–369, div. A, title V, §531(e)(1), July 18, 1984, 98 Stat. 885; amended Pub. L. 99–514, title XVIII, §1853(c)(1), (2), Oct. 22, 1986, 100 Stat. 2871; Pub. L. 103–66, title XIII, §13213(d)(3)(D), Aug. 10, 1993, 107 Stat. 474; Pub. L. 104–188, title I, §1704(t)(66), Aug. 20, 1996, 110 Stat. 1890.)
 
 #### Amendments
 
-1993—Subsec. (c). Pub. L. 103–66 substituted “section 132(i)(2)” for “section 132(g)(2)” in concluding provisions.
+1996—Subsec. (c). Pub. L. 104–188 substituted “section 132(h)” for “section 132(i)(2)” in closing provisions.
+
+1993—Subsec. (c). Pub. L. 103–66 substituted “section 132(i)(2)” for “section 132(g)(2)” in closing provisions.
 
 1986—Subsec. (c)(2). Pub. L. 99–514, §1853(c)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “as of January 1, 1984, substantially all of the employees of the employer were entitled to employee discounts or services provided by the employer in 1 line of business,”.
 

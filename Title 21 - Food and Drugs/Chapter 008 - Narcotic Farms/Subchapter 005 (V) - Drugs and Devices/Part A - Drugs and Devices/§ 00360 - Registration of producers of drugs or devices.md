@@ -114,7 +114,7 @@ Subsec. (j)(1)(C). Pub. L. 94–295, §4(a)(8)(F), substituted “an applicable 
 
 Subsec. (j)(1)(D). Pub. L. 94–295, §4(a)(8)(G), substituted “a list” for “the list”, inserted “or the particular device contained in such list is not subject to a performance standard established under section 360d of this title or to section 360e of this title or is not a restricted device” after “or 360b of this title,”, and substituted “particular drug product or device” for “particular drug product” wherever appearing.
 
-Subsec. (j)(2). Pub. L. 94–295, §4(a)(8)(H), substituted “drug or “device” for “drug” in subpars. (A), (B), and\(C), and substituted “(each by established name” for “(by established name” in subpar. (C).
+Subsec. (j)(2). Pub. L. 94–295, §4(a)(8)(H), substituted “drug or “device” for “drug” in subpars. (A), (B), and (C), and substituted “(each by established name” for “(by established name” in subpar. (C).
 
 Subsec. (k). Pub. L. 94–295, §4(a)(9), added subsec. (k).
 

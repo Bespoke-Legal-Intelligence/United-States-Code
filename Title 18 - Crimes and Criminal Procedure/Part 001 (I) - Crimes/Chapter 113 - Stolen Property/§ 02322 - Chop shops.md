@@ -6,7 +6,7 @@ In General.—
 
 &emsp;(1)
 
-Unlawful action.—Any person who knowingly owns, operates, maintains, or controls a chop shop or conducts operations in a chop shop shall be punished by a fine under this title or by imprisonment for not more than 15 years, or both. If a conviction of a person under this paragraph is for a violationcommitted after the first conviction of such person under this paragraph, the maximum punishment shall be doubled with respect to any fine and imprisonment.
+Unlawful action.—Any person who knowingly owns, operates, maintains, or controls a chop shop or conducts operations in a chop shop shall be punished by a fine under this title or by imprisonment for not more than 15 years, or both. If a conviction of a person under this paragraph is for a violation committed after the first conviction of such person under this paragraph, the maximum punishment shall be doubled with respect to any fine and imprisonment.
 
 &emsp;(2)
 

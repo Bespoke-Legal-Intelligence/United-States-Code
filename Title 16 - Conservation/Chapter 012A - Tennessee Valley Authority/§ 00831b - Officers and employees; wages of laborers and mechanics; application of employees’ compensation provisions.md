@@ -6,7 +6,7 @@ All contracts to which the Corporation is a party and which require the employme
 
 In the event any dispute arises as to what are the prevailing rates of wages, the question shall be referred to the Secretary of Labor for determination, and his decision shall be final. In the determination of such prevailing rate or rates, due regard shall be given to those rates which have been secured through collective agreement by representatives of employers and employees.
 
-Where such work as is described in the two preceding paragraphs is done directly by theCorporation the prevailing rate of wages shall be paid in the same manner as though such work had been let by contract.
+Where such work as is described in the two preceding paragraphs is done directly by the Corporation the prevailing rate of wages shall be paid in the same manner as though such work had been let by contract.
 
 Insofar as applicable, the benefits of subchapter I of chapter 81 of title 5 shall extend to persons given employment under the provisions of this chapter.
 
@@ -48,5 +48,5 @@ Customs Courts Act of 1980 as not affecting authority of Tennessee Valley Author
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 5 sections 5373, 5948.
+This section is referred to in title 5 sections 5373, 5948; title 18 section 205.
 

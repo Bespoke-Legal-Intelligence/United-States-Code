@@ -30,7 +30,7 @@ This section shall not apply to any change in rates under subsection (f) of sect
 
 #### (e) References to highest rate
 
-If the change referred to in subsection (a) involves a change in the highest rate of tax imposed by section 1 or 11(b), any reference in this chapter to such highest rate (other than in a provision imposing a tax by reference to such rate) shall be treated as a reference to the weighted average of the highest rates before and after the change determined on the basis of the respective portions of the taxable year before the date of the change and on or after the date of the change.
+If the change referred to in subsection (a) involves a change in the highest rate of tax imposed by section 1 or 11(b), any reference in thischapter to such highest rate (other than in a provision imposing a tax by reference to such rate) shall be treated as a reference to the weighted average of the highest rates before and after the change determined on the basis of the respective portions of the taxable year before the date of the change and on or after the date of the change.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 12, §21; Feb. 26, 1964, Pub. L. 88–272, title I, §132, 78 Stat. 30; Dec. 30, 1969, Pub. L. 91–172, title VIII, §803(e), 83 Stat. 685; Dec. 10, 1971, Pub. L. 92–178, title II, §205, 85 Stat. 511; Mar. 29, 1975, Pub. L. 94–12, title III, §305(b)(2), 89 Stat. 45; Dec. 23, 1975, Pub. L. 94–164, §4(d)(2), 89 Stat. 975; Oct. 4, 1976, Pub. L. 94–455, title IX, §901(c)(2), 90 Stat. 1607; May 23, 1977, Pub. L. 95–30, title I, §101(d)(2), 91 Stat. 133; Nov. 6, 1978, Pub. L. 95–600, title I, §106, 92 Stat. 2776; Aug. 13, 1981, Pub. L. 97–34, title I, §101(d)(3), 95 Stat. 184; renumbered §15, July 18, 1984, Pub. L. 98–369, div. A, title IV, §474(b)(1), 98 Stat. 830; Oct. 22, 1986, Pub. L. 99–514, title I, §101(b), 100 Stat. 2099; Nov. 10, 1988, Pub. L. 100–647, title I, §1006(a), 102 Stat. 3393.)
 
@@ -104,7 +104,7 @@ Pub. L. 101–508, title XI, §11001(c), Nov. 5, 1990, 104 Stat. 1388–400, pro
 
 #### Coordination of 1987 Amendment With Section 15
 
-Pub. L. 100–203, title X, §10000(c), Dec. 22, 1987, 101 Stat. 1330–382, provided that: “No amendment made bythis title \[see Tables for classification\] shall be treated as a change in a rate of tax for purposes \[of\] section 15 of the Internal Revenue Code of 1986.”
+Pub. L. 100–203, title X, §10000(c), Dec. 22, 1987, 101 Stat. 1330–382, provided that: “No amendment made by this title \[see Tables for classification\] shall be treated as a change in a rate of tax for purposes \[of\] section 15 of the Internal Revenue Code of 1986.”
 
 #### Coordination of 1986 Amendment With Section 15
 

@@ -22,7 +22,7 @@ Nothing contained in this section shall be construed to imply that the authority
 
 #### (f) “United States” defined
 
-As used in this section, the term “United States” means each of the several States of the United States, the District of Columbia, and territories and possessions of the United States.
+As used in this section, the term “United States” means each of the several States of theUnited States, the District of Columbia, and territories and possessions of the United States.
 
 (July 31, 1946, ch. 707, §9A, as added Dec. 29, 1981, Pub. L. 97–143, §1(a), 95 Stat. 1723.)
 

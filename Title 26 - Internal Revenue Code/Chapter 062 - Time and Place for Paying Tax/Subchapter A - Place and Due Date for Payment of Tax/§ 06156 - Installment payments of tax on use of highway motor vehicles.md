@@ -4,7 +4,11 @@
 
 If the taxpayer files a return of the tax imposed by section 4481 on or before the date prescribed for the filing of such return, he may elect to pay the tax shown on such return in equal installments in accordance with the following table:
 
+<b> </b>
+
 <b>The number of</b>
+
+<b> </b>
 
 <b>installments</b>
 

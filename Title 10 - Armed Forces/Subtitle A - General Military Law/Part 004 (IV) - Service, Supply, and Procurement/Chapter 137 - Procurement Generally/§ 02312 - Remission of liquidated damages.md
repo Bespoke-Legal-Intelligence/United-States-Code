@@ -1,8 +1,8 @@
 ### §2312. Remission of liquidated damages
 
-Upon the recommendation of the head of an agency, the Comptroller General may remit all or part, as he considers just and equitable, of any liquidated damages assessed for delay in performing a contract, made by that agency, that provides for such damages.
+Upon the recommendation of the head of an agency, the Secretary of the Treasury may remit all or part, as he considers just and equitable, of any liquidated damages assessed for delay in performing a contract, made by that agency, that provides for such damages.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 132.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 132; Oct. 19, 1996, Pub. L. 104–316, title II, §202(c), 110 Stat. 3842.)
 
 Historical and Revision Notes
 
@@ -20,9 +20,9 @@ Feb. 19, 1948, ch. 65, §6, 62 Stat. 24.
 
 The words “a contract, made by that agency, that provides for” are substituted for the words “any contract made on behalf of the Government by the agency head or by officers authorized by him so to do includes a provision”.
 
-#### Transfer of Functions
+#### Amendments
 
-Functions of Comptroller General under this section transferred, effective June 30, 1996, to Director of Office of Management and Budget, see section 211 of Pub. L. 104–53, set out as a note under section 501 of Title 31, Money and Finance.
+1996—Pub. L. 104–316 substituted “Secretary of the Treasury” for “Comptroller General”.
 
 #### Section Referred to in Other Sections
 

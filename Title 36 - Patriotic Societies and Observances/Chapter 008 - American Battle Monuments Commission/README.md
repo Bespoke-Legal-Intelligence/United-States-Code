@@ -46,6 +46,10 @@
 | (e) | Time of return. |
 | (f) | Unobligated balances; merger and availability. |
 | (g) | Annual report on transferred funds. |
+| [138d.](%C2%A7%2000138d%20-%20Accounting%20procedures%20relating%20to%20receipt%20and%20expenditure%20of%20contributions.md) | Accounting procedures relating to receipt and expenditure of contributions. |
+| (a) | Financial controls. |
+| (b) | Financial statements. |
+| (c) | Restrictions on funds received before March 1, 1998. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -80,3 +84,4 @@
 - [&sect; 00138a - Appropriations](%C2%A7%2000138a%20-%20Appropriations.md)
 - [&sect; 00138b - Acquisition and disposition of land in foreign countries; operation of vehicles; establishment of offices; printing authority; contract&#8230;](%C2%A7%2000138b%20-%20Acquisition%20and%20disposition%20of%20land%20in%20foreign%20countries%3B%20operation%20of%20vehicles%3B%20establishment%20of%20offices%3B%20printing%20authority%3B%20contract%E2%80%A6.md)
 - [&sect; 00138c - American Battle Monuments Commission Foreign Currency Fluctuations Account](%C2%A7%2000138c%20-%20American%20Battle%20Monuments%20Commission%20Foreign%20Currency%20Fluctuations%20Account.md)
+- [&sect; 00138d - Accounting procedures relating to receipt and expenditure of contributions](%C2%A7%2000138d%20-%20Accounting%20procedures%20relating%20to%20receipt%20and%20expenditure%20of%20contributions.md)

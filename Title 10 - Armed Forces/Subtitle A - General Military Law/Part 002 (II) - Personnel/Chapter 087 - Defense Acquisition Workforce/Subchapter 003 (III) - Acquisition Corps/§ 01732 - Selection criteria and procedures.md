@@ -50,7 +50,7 @@ Mobility Statements.—(1) The Secretary of Defense is authorized to require civ
 
 (2) The Secretary of Defense shall identify which categories of civilians in an Acquisition Corps, as a condition of serving in the Corps, shall be required to sign mobility statements. The Secretary shall make available published information on such identification of categories.
 
-(Added Pub. L. 101–510, div. A, title XII, §1202(a), Nov. 5, 1990, 104 Stat. 1644; amended Pub. L. 102–484, div. A, title VIII, §812(e)(1), Oct. 23, 1992, 106 Stat. 2451; Pub. L. 103–89, §3(b)(3)(B), Sept. 30, 1993, 107 Stat. 982.)
+(Added Pub. L. 101–510, div. A, title XII, §1202(a), Nov. 5, 1990, 104 Stat. 1644; amended Pub. L.102–484, div. A, title VIII, §812(e)(1), Oct. 23, 1992, 106 Stat. 2451; Pub. L. 103–89, §3(b)(3)(B), Sept. 30, 1993, 107 Stat. 982.)
 
 #### References in Text
 

@@ -64,7 +64,7 @@ There are authorized to be appropriated for fiscal years 1993 and 1994, and to r
 
 #### (d) Supplemental rental assistance contracts
 
-The Secretary, to the extent approved in appropriations Acts for fiscal years 1993 and 1994, may enter into 5-year supplemental rental assistance contracts under section 1472(c)(5)(D) of this title aggregating $12,178,000 for fiscal year 1993 and $12,689,476 for fiscal year 1994.
+The Secretary, to the extent approved in appropriations Acts for fiscal years 1993 and 1994,may enter into 5-year supplemental rental assistance contracts under section 1472(c)(5)(D) of this title aggregating $12,178,000 for fiscal year 1993 and $12,689,476 for fiscal year 1994.
 
 #### (e) Authorization of appropriations
 
@@ -104,7 +104,7 @@ Subsec. (c). Pub. L. 100–242, §301(c), amended subsec. (c) generally, substit
 
 Subsecs. (d), (e). Pub. L. 100–242, §301(d), (g), added subsecs. (d) and (e).
 
-1986—Subsec. (a)(1). Pub. L. 99–272 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The Secretary may insure and guarantee loans underthis subchapter during fiscal years 1984 and 1985 in an aggregate amount not to exceed such sums as may be approved in an appropriation Act.”
+1986—Subsec. (a)(1). Pub. L. 99–272 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The Secretary may insure and guarantee loans under this subchapter during fiscal years 1984 and 1985 in an aggregate amount not to exceed such sums as may be approved in an appropriation Act.”
 
 1984—Subsec. (a). Pub. L. 98–479, §105(d)(1), designated existing provisions as par. (1) and added par. (2).
 

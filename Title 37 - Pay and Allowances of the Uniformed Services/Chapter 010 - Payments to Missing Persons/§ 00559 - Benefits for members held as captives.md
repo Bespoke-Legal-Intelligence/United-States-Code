@@ -26,7 +26,7 @@
 
 (3)(A) The President—
 
-&emsp;(i) may defer such payment in the case of any former captive who during such one-yearperiod is charged with an offense described in clause (ii), until final disposition of such charge; and
+&emsp;(i) may defer such payment in the case of any former captive who during such one-year period is charged with an offense described in clause (ii), until final disposition of such charge; and
 
 &emsp;(ii) may deny such payment in the case of any former captive who is convicted of a captivity-related offense—
 

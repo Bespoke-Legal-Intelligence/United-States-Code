@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There is created as an agency of the United States of America a body corporate to be knownas the Inter-American Foundation (hereinafter in this section referred to as the “Foundation”).
+There is created as an agency of the United States of America a body corporate to be known as the Inter-American Foundation (hereinafter in this section referred to as the “Foundation”).
 
 #### (b) Congressional declaration of purpose
 
@@ -24,7 +24,7 @@ The Foundation shall carry out the purposes set forth in subsection (b) of this 
 
 #### (d) Coordination of activities with national and international agencies
 
-In carrying out its functions under this section, the Foundation shall, to the maximum extent possible, coordinate its undertakings with the developmental activities in the Western Hemisphere of the various organs of the Organization of American States, the United States Government, international organizations, and other entities engaged in promoting social and economic development of Latin America.
+In carrying out its functions under this section, the Foundation shall, to the maximum extent possible, coordinate its undertakings withthe developmental activities in the Western Hemisphere of the various organs of the Organization of American States, the United States Government, international organizations, and other entities engaged in promoting social and economic development of Latin America.
 
 #### (e) Powers and functions
 
@@ -108,7 +108,7 @@ The Foundation, including its franchise and income, shall be exempt from taxatio
 
 #### (s) Authorization of appropriations
 
-(1) Notwithstanding any other provision of law, not to exceed an aggregate amount of$50,000,000 of the funds made available for the fiscal years 1970 and 1971 to carry out part I of the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\] shall be available to carry out the purposes of this section. Funds made available to carry out the purposes of this section under the preceding sentence are authorized to remain available until expended.
+(1) Notwithstanding any other provision of law, not to exceed an aggregate amount of $50,000,000 of the funds made available for the fiscal years 1970 and 1971 to carry out part I of the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\] shall be available to carry out the purposes of this section. Funds made available to carry out the purposes of this section under the preceding sentence are authorized to remain available until expended.
 
 (2) There are authorized to be appropriated $28,800,000 for fiscal year 1992 and $31,000,000 for fiscal year 1993 to carry out this section. Amounts appropriated under this paragraph are authorized to remain available until expended.
 
@@ -132,7 +132,7 @@ Funds made available to the Foundation may be used for printing and binding with
 
 #### References in Text
 
-The Foreign Assistance Act of 1961, referred to in subsec. (s)(1), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended. Part I of the Foreign Assistance Act of 1961 is classified generally to subchapter I (§2151 et seq.) of chapter 32 of this title. For provisions deeming references to subchapter I to include parts IV (§2346 et seq.), VI (§2348 et seq.), and VIII (§2349aa et seq.) of subchapter II of chapter 32, see section 202(b) of Pub. L. 92–228, set out as a note under section 2346 of this title, and sections 2348c and 2349aa–5 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (s)(1), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended. Part I of the Foreign Assistance Act of 1961is classified generally to subchapter I (§2151 et seq.) of chapter 32 of this title. For provisions deeming references to subchapter I to include parts IV (§2346 et seq.), VI (§2348 et seq.), and VIII (§2349aa et seq.) of subchapter II of chapter 32, see section 202(b) of Pub. L. 92–228, set out as a note under section 2346 of this title, and sections 2348c and 2349aa–5 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 #### Codification
 

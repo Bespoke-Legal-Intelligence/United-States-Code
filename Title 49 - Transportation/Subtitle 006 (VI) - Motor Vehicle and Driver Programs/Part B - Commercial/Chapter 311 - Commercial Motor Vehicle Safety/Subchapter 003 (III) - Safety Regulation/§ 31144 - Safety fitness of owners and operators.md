@@ -2,7 +2,7 @@
 
 (a)
 
-Procedure.—(1) The Secretary of Transportation shall prescribe regulations establishing a procedure to decide on the safety fitness of owners and operators of commercial motor vehicles, including persons seeking new or additional operating authority as motor carriers under section 13902 of this title. The procedure shall include—
+Procedure.—(1) The Secretary of Transportation shall prescribe regulations establishing a procedure to decide on the safety fitness ofowners and operators of commercial motor vehicles, including persons seeking new or additional operating authority as motor carriers under section 13902 of this title. The procedure shall include—
 
 &emsp;(A) specific initial and continuing requirements to be met by the owners, operators, and persons to prove safety fitness;
 
@@ -20,7 +20,9 @@ Findings and Action on Registrations.—The Secretary shall find that a person s
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

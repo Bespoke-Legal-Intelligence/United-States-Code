@@ -4,7 +4,7 @@ As used in this subchapter—
 
 (1) “Areawide development” means all projects or programs for the acquisition, use, and development of open-space land; and the planning and construction of hospitals, libraries, airports, water supply and distribution facilities, sewerage facilities and waste treatment works, transportation facilities, highways, water development and land conservation, and other public works facilities.
 
-(2) “Areawide development project” means a project assisted or to be assisted under section 702 of the Housing and Urban Development Act of 1965 \[42 U.S.C. 3102\]; title II of the Library Services and Construction Act \[20 U.S.C. 355a et seq.\]; section 606 of the Public Health Service Act \[42 U.S.C. 291f\]; section 8 <sup>1</sup> of the Federal Water Pollution Control Act \[33 U.S.C. 1158\]; section 120(a) <sup>1</sup> of title 23; section 12 <sup>1</sup> of the Federal Airport Act; section 19 <sup>1</sup> of the Airport and Airway Development Act of 1970; section 5309 of title 49; title VII of the Housing Act of 1961 \[42 U.S.C. 1500 et seq.\]; or section 5(e) of the Land and Water Conservation Fund Act of 1965 \[16 U.S.C. 460<i>l</i>–8(e)\]; or under section 101(a)(1) of the Public Works and Economic Development Act of 1965 \[42 U.S.C. 3131(a)(1)\] (for a project of a type which the Secretary determines to be eligible for assistance under any of the other provisions listed above).
+(2) “Areawide development project” means a project assisted or to be assisted under section 702 of the Housing and Urban Development Act of 1965 \[42 U.S.C. 3102\]; section 606 of the Public Health Service Act \[42 U.S.C. 291f\]; section 8 <sup>1</sup> of the Federal Water Pollution Control Act \[33 U.S.C. 1158\]; section 120(a) of title 23; section 12 <sup>1</sup> of the Federal Airport Act; section 19 <sup>1</sup> of the Airport and Airway Development Act of 1970; section 5309 of title 49; title VII of the Housing Act of 1961 \[42 U.S.C. 1500 et seq.\]; or section 5(e) of the Land and Water Conservation Fund Act of 1965 \[16 U.S.C. 460<i>l</i>–8(e)\]; or under section 101(a)(1) of the Public Works and Economic Development Act of 1965 \[42 U.S.C. 3131(a)(1)\] (for a project of a type which the Secretary determines to be eligible for assistance under any of the other provisions listed above).
 
 (3) “State” means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, any territory or possession of the United States, or an agency or instrumentality of any of the foregoing.
 
@@ -22,13 +22,11 @@ As used in this subchapter—
 
 (10) “Secretary” means the Secretary of Housing and Urban Development.
 
-(Pub. L. 89–754, title II, §208, Nov. 3, 1966, 80 Stat. 1265; Pub. L. 90–448, title VI, §602(e), Aug. 1, 1968, 82 Stat. 532; Pub. L. 91–258, title I, §52(b)(3), May 21, 1970, 84 Stat. 235; 1970 Reorg. Plan No. 2, §102, eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2085; Pub. L. 102–240, title III, §3003(b), Dec. 18, 1991, 105 Stat. 2088.)
+(Pub. L. 89–754, title II, §208, Nov. 3, 1966, 80 Stat. 1265; Pub. L. 90–448, title VI, §602(e), Aug. 1, 1968, 82 Stat. 532; Pub. L. 91–258, title I, §52(b)(3), May 21, 1970, 84 Stat. 235; 1970 Reorg. Plan No. 2, §102, eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2085; Pub. L. 102–240, title III, §3003(b), Dec. 18, 1991, 105 Stat. 2088; Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §709(a)(6)\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–312.)
 
 #### References in Text
 
 Section 702 of the Housing and Urban Development Act of 1965 \[42 U.S.C. 3102\], referred to in par. (2), was omitted from the Code pursuant to section 5316 of this title which terminated the authority to make grants or loans under that section after Jan. 1, 1975.
-
-The Library Services and Construction Act, referred to in par. (2), is act June 19, 1956, ch. 407, 70 Stat. 293, as amended. Title II of the Library Services and Construction Act, which was added by act Feb. 11, 1964, Pub. L. 88–269, §7(a), 78 Stat. 13, is classified generally to subchapter II (§355a et seq.) of chapter 16 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 351 of Title 20 and Tables.
 
 Section 8 of the Federal Water Pollution Control Act, referred to in par. (2), which related to grants for construction of sewerage treatment works, was formerly classified to section 1158 of Title 33, Navigation and Navigable Waters, prior to the reorganization of that Act by Pub. L. 92–500, Oct. 18, 1972, 86 Stat. 816. See Codification note set out under section 1251 of Title 33. Provisions of the Act relating to grants for construction of treatment works appear in section 1281 et seq. of Title 33.
 
@@ -45,6 +43,8 @@ Section 701 of the Housing Act of 1954 \[40 U.S.C. 461\], referred to in par. (7
 In par. (2), “section 5309 of title 49” substituted for “section 3 of the Federal Transit Act \[49 App. U.S.C. 1602\]” on authority of Pub. L. 103–272, §6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
 
 #### Amendments
+
+1996—Par. (2). Pub. L. 104–208 struck out “title II of the Library Services and Construction Act;” before “section 606 of the Public Health Service Act”.
 
 1991—Par. (2). Pub. L. 102–240 substituted “Federal Transit Act” for “Urban Mass Transportation Act of 1964”.
 

@@ -1,0 +1,132 @@
+### §6023. Definitions
+
+As used in this chapter, the following terms have the following meanings:
+
+#### (1) Agency or instrumentality of a foreign state
+
+&emsp;The term “agency or instrumentality of a foreign state” has the meaning given that term in section 1603(b) of title 28.
+
+#### (2) Appropriate congressional committees
+
+&emsp;The term “appropriate congressional committees” means the Committee on International Relations and the Committee on Appropriations of the House of Representatives and the Committee on Foreign Relations and the Committee on Appropriations of the Senate.
+
+#### (3) Commercial activity
+
+&emsp;The term “commercial activity” has the meaning given that term in section 1603(d) of title 28.
+
+#### (4) Confiscated
+
+&emsp;As used in subchapters I and III of this chapter, the term “confiscated” refers to—
+
+&emsp;&emsp;(A) the nationalization, expropriation, or other seizure by the Cuban Government of ownership or control of property, on or after January 1, 1959—
+
+&emsp;&emsp;&emsp;(i) without the property having been returned or adequate and effective compensation provided; or
+
+&emsp;&emsp;&emsp;(ii) without the claim to the property having been settled pursuant to an international claims settlement agreement or other mutually accepted settlement procedure; and
+
+&emsp;&emsp;(B) the repudiation by the Cuban Government of, the default by the Cuban Government on, or the failure of the Cuban Government to pay, on or after January 1, 1959—
+
+&emsp;&emsp;&emsp;(i) a debt of any enterprise which has been nationalized, expropriated, or otherwise taken by the Cuban Government;
+
+&emsp;&emsp;&emsp;(ii) a debt which is a charge on property nationalized, expropriated, or otherwise taken by the Cuban Government; or
+
+&emsp;&emsp;&emsp;(iii) a debt which was incurred by the Cuban Government in satisfaction or settlement of a confiscated property claim.
+
+#### (5) Cuban Government
+
+&emsp;(A) The term “Cuban Government” includes the government of any political subdivision of Cuba, and any agency or instrumentality of the Government of Cuba.
+
+&emsp;(B) For purposes of subparagraph (A), the term “agency or instrumentality of the Government of Cuba” means an agency or instrumentality of a foreign state as defined in section 1603(b) of title 28, with each reference in such section to “a foreign state” deemed to be a reference to “Cuba”.
+
+#### (6) Democratically elected government in Cuba
+
+&emsp;The term “democratically elected government in Cuba” means a government determined by the President to have met the requirements of section 6066 of this title.
+
+#### (7) Economic embargo of Cuba
+
+&emsp;The term “economic embargo of Cuba” refers to—
+
+&emsp;&emsp;(A) the economic embargo (including all restrictions on trade or transactions with, and travel to or from, Cuba, and all restrictions on transactions in property in which Cuba or nationals of Cuba have an interest) that was imposed against Cuba pursuant to section 2370(a) of this title, section 5(b) of title 50, Appendix, the Cuban Democracy Act of 1992 (22 U.S.C. 6001 and following), or any other provision of law; and
+
+&emsp;&emsp;(B) the restrictions imposed by section 902(c) of the Food Security Act of 1985.
+
+#### (8) Foreign national
+
+&emsp;The term “foreign national” means—
+
+&emsp;&emsp;(A) an alien; or
+
+&emsp;&emsp;(B) any corporation, trust, partnership, or other juridical entity not organized under the laws of the United States, or of any State, the District of Columbia, or any commonwealth, territory, or possession of the United States.
+
+#### (9) Knowingly
+
+&emsp;The term “knowingly” means with knowledge or having reason to know.
+
+#### (10) Official of the Cuban Government or the ruling political party in Cuba
+
+&emsp;The term “official of the Cuban Government or the ruling political party in Cuba” refers to any member of the Council of Ministers, Council of State, central committee of the Communist Party of Cuba, or the Politburo of Cuba, or their equivalents.
+
+#### (11) Person
+
+&emsp;The term “person” means any person or entity, including any agency or instrumentality of a foreign state.
+
+#### (12) Property
+
+&emsp;(A) The term “property” means any property (including patents, copyrights, trademarks, and any other form of intellectual property), whether real, personal, or mixed, and any present, future, or contingent right, security, or other interest therein, including any leasehold interest.
+
+&emsp;(B) For purposes of subchapter III of this chapter, the term “property” does not include real property used for residential purposes unless, as of March 12, 1996—
+
+&emsp;&emsp;(i) the claim to the property is held by a United States national and the claim has been certified under title V of the International Claims Settlement Act of 1949 \[22 U.S.C. 1643 et seq.\]; or
+
+&emsp;&emsp;(ii) the property is occupied by an official of the Cuban Government or the ruling political party in Cuba.
+
+#### (13) Traffics
+
+&emsp;(A) As used in subchapter III of this chapter, and except as provided in subparagraph (B), a person “traffics” in confiscated property if that person knowingly and intentionally—
+
+&emsp;&emsp;(i) sells, transfers, distributes, dispenses, brokers, manages, or otherwise disposes of confiscated property, or purchases, leases, receives, possesses, obtains control of, manages, uses, or otherwise acquires or holds an interest in confiscated property,
+
+&emsp;&emsp;(ii) engages in a commercial activity using or otherwise benefiting from confiscated property, or
+
+&emsp;&emsp;(iii) causes, directs, participates in, or profits from, trafficking (as described in clause (i) or (ii)) by another person, or otherwise engages in trafficking (as described in clause (i) or (ii)) through another person,
+
+> &emsp;without the authorization of any United States national who holds a claim to the property.
+
+&emsp;(B) The term “traffics” does not include—
+
+&emsp;&emsp;(i) the delivery of international telecommunication signals to Cuba;
+
+&emsp;&emsp;(ii) the trading or holding of securities publicly traded or held, unless the trading is with or by a person determined by the Secretary of the Treasury to be a specially designated national;
+
+&emsp;&emsp;(iii) transactions and uses of property incident to lawful travel to Cuba, to the extent that such transactions and uses of property are necessary to the conduct of such travel; or
+
+&emsp;&emsp;(iv) transactions and uses of property by a person who is both a citizen of Cuba and a resident of Cuba, and who is not an official of the Cuban Government or the ruling political party in Cuba.
+
+#### (14) Transition government in Cuba
+
+&emsp;The term “transition government in Cuba” means a government that the President determines is a transition government consistent with the requirements and factors set forth in section 6065 of this title.
+
+#### (15) United States national
+
+&emsp;The term “United States national” means—
+
+&emsp;&emsp;(A) any United States citizen; or
+
+&emsp;&emsp;(B) any other legal entity which is organized under the laws of the United States, or of any State, the District of Columbia, or any commonwealth, territory, or possession of the United States, and which has its principal place of business in the United States.
+
+(Pub. L. 104–114, §4, Mar. 12, 1996, 110 Stat. 789.)
+
+#### References in Text
+
+Subchapters I and III of this chapter, referred to in pars. (4), (12)(B), and (13)(A), were in the original references to titles I and III, meaning titles I and III of Pub. L. 104–114, Mar. 12, 1996, 110 Stat. 791, 814. Title I of Pub. L. 104–114 enacted subchapter I (§6031 et seq.) of this chapter, amended sections 2295a, 2295b, 6003, and 6004 of this title and section 16 of Title 50, Appendix, War and National Defense, and repealed subchapters V–A (§1465 et seq.) and V–B (1465aa et seq.) of chapter 18 of this title. Title III of Pub. L. 104–114 enacted subchapter III (§6081 et seq.) of this chapter and sections 1643<i>l</i> and 1643m of this title and amended section 1611 of Title 28, Judiciary and Judicial Procedure. For complete classification of titles I and III to the Code, see Tables.
+
+The Cuban Democracy Act of 1992, referred to in par. (7)(A), is title XVII of div. A of Pub. L. 102–484, Oct. 23, 1992, 106 Stat. 2575, which is classified principally to chapter 69 (§6001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6001 of this title and Tables.
+
+Section 902(c) of the Food Security Act of 1985, referred to in par. (7)(B), is section 902(c) of Pub. L. 99–198, which is set out as a note under section 1446(g) of Title 7, Agriculture.
+
+The International Claims Settlement Act of 1949, referred to in par. (12)(B)(i), is act Mar. 10, 1950, ch. 54, 64 Stat. 12, as amended. Title V of the Act is classified generally to subchapter V (§1643 et seq.) of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1621 of this title and Tables.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 1643<i>l</i> of this title.
+

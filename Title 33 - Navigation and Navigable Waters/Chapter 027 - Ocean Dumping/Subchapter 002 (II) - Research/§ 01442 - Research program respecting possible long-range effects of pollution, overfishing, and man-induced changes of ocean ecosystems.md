@@ -40,11 +40,11 @@ Section 1703 of this title, referred to in subsec. (a)(3), was repealed by Pub. 
 
 1986—Subsec. (a). Pub. L. 99–272, §6062(1)–(3), designated existing provisions as par. (1), substituted “in close consultation” for “in consultation”, and added par. (2).
 
-Subsec. (c). Pub. L. 99–272, §6062(4), redesignated subsec. (d) as (c), and struck out former subsec. (c) which required the Secretary of Commerce to make an annualreport to Congress, in March of each year, on the results of activities undertaken by him pursuant to this section during the previous fiscal year, and to include in that report the report to Congress required by section 665 of title 16 on activities of the Department of Commerce under that section.
+Subsec. (c). Pub. L. 99–272, §6062(4), redesignated subsec. (d) as (c), and struck out former subsec. (c) which required the Secretary of Commerce to make an annual report to Congress, in March of each year, on the results of activities undertaken by him pursuant to this section during the previous fiscal year, and to include in that report the report to Congress required by section 665 of title 16 on activities of the Department of Commerce under that section.
 
 Subsecs. (d), (e). Pub. L. 99–272, §6062(4), redesignated subsec. (e) as (d). Former subsec. (d) redesignated (c).
 
-1980—Subsec. (a). Pub. L. 96–381 inserted provision including within the responsibilities of the Secretary the scientific assessment of damages to natural resources from spills of petroleum or petroleum products.
+1980—Subsec. (a). Pub. L. 96–381 inserted provision including within the responsibilities of the Secretary thescientific assessment of damages to natural resources from spills of petroleum or petroleum products.
 
 Subsec. (c). Pub. L. 96–470 inserted provision requiring the Secretary to include in his annual report the report on activities of the Department of Commerce under section 665 of title 16.
 

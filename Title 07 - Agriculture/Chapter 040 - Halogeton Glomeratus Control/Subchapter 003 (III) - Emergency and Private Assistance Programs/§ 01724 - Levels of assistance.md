@@ -4,49 +4,57 @@
 
 #### (1) Minimum assistance
 
-&emsp;Except as provided in paragraph (3), the Administrator shall make agricultural commodities available for food distribution under this subchapter in an amount that—
-
-&emsp;&emsp;(A) for fiscal year 1991, is not less than 1,925,000 metric tons;
-
-&emsp;&emsp;(B) for fiscal year 1992, is not less than 1,950,000 metric tons;
-
-&emsp;&emsp;(C) for fiscal year 1993, is not less than 1,975,000 metric tons;
-
-&emsp;&emsp;(D) for fiscal year 1994, is not less than 2,000,000 metric tons; and
-
-&emsp;&emsp;(E) for fiscal year 1995, is not less than 2,025,000 metric tons.
+&emsp;Except as provided in paragraph (3), the Administrator shall make agricultural commodities available for food distribution under this subchapter in an amount that for each of fiscal years 1996 through 2002 is not less than 2,025,000 metric tons.
 
 #### (2) Minimum non-emergency assistance
 
-&emsp;Of the amounts specified in paragraph (1), and except as provided in paragraph (3), the Administrator shall make agricultural commodities available for non-emergency food distribution through eligible organizations under section 1722 of this title in an amount that—
-
-&emsp;&emsp;(A) for fiscal year 1991, is not less than 1,450,000 metric tons;
-
-&emsp;&emsp;(B) for fiscal year 1992, is not less than 1,475,000 metric tons;
-
-&emsp;&emsp;(C) for fiscal year 1993, is not less than 1,500,000 metric tons;
-
-&emsp;&emsp;(D) for fiscal year 1994, is not less than 1,525,000 metric tons; and
-
-&emsp;&emsp;(E) for fiscal year 1995, is not less than 1,550,000 metric tons.
+&emsp;Of the amounts specified in paragraph (1), and except as provided in paragraph (3), the Administrator shall make agricultural commodities available for non-emergency food distribution through eligible organizations under section 1722 of this title in an amount that for each of fiscal years 1996 through 2002 is not less than 1,550,000 metric tons.
 
 #### (3) Exception
 
-&emsp;The Administrator may waive the requirements of paragraphs (1) and (2) for any fiscal year if the Administrator determines that such quantities of commodities cannot be used effectively to carry out this subchapter or in order to meet an emergency. In making a waiver under this paragraph, the Administrator shall prepare and submit to the Committee on Foreign Affairs and Committee on Agriculture of the House of Representatives, and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report containing the reasons for the waiver.
+&emsp;The Administrator may waive the requirements of paragraphs (1) and (2) for any fiscal year if the Administrator determines that such quantities of commodities cannot be used effectively to carry out this subchapter or in order to meet an emergency. In making a waiver under this paragraph, the Administrator shall prepare and submit to the Committee on Foreign Affairs and Committee on Agriculture of the House of Representatives, and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report containing the reasons for the waiver. No waiver shall be made before the beginning of the applicable fiscal year.
 
 #### (b) Use of value-added commodities
 
 #### (1) Minimum levels
 
-&emsp;Except as provided in paragraph (2), in making agricultural commodities available under this subchapter, the Administrator shall ensure that not less than 75 percent of the quantity of such commodities required to be distributed during each fiscal year under subsection (a)(2) of this section be in the form of processed, fortified, or bagged commodities.
+&emsp;Except as provided in paragraph (2), in making agricultural commodities available under this subchapter, the Administrator shall ensure that not less than 75 percent of the quantity of such commodities required to be distributed during each fiscal year under subsection (a)(2) of this section be in the form of processed, fortified, or bagged commodities and that not less than 50 percent of the quantity of the bagged commodities that are whole grain commodities be bagged in the United States.
 
 #### (2) Waiver of minimum
 
 &emsp;The Administrator may waive the requirement of paragraph (1) for any fiscal year in which the Administrator determines that the requirements of the programs established under this subchapter will not be best served by the enforcement of such requirement under such paragraph.
 
-(July 10, 1954, ch. 469, title II, §204, 68 Stat. 458; Aug. 13, 1957, Pub. L. 85–128, §1(1), 71 Stat. 345; Sept. 6, 1958, Pub. L. 85–931, §5, 72 Stat. 1791; Sept. 21, 1959, Pub. L. 86–341, title I, §1, 73 Stat. 606; Aug. 8, 1961, Pub. L. 87–128, title II, §202(2), 75 Stat. 307; Oct. 8, 1964, Pub. L. 88–638, §1(15), 78 Stat. 1037; Nov. 11, 1966, Pub. L. 89–808, §2(C), 80 Stat. 1535; Sept. 29, 1977, Pub. L. 95–113, title XII, §1203, 91 Stat. 956; Dec. 22, 1981, Pub. L. 97–98, title XII, §1212, 95 Stat. 1281; Dec. 23, 1985, Pub. L. 99–198, title XI, §1101, 99 Stat. 1465; Nov. 28, 1990, Pub. L. 101–624, title XV, §1512, 104 Stat. 3639.)
+(July 10, 1954, ch. 469, title II, §204, 68 Stat. 458; Aug. 13, 1957, Pub. L. 85–128, §1(1), 71 Stat. 345; Sept. 6, 1958, Pub. L. 85–931, §5, 72 Stat. 1791; Sept. 21, 1959, Pub. L. 86–341, title I, §1, 73 Stat.606; Aug. 8, 1961, Pub. L. 87–128, title II, §202(2), 75 Stat. 307; Oct. 8, 1964, Pub. L. 88–638, §1(15), 78 Stat. 1037; Nov. 11, 1966, Pub. L. 89–808, §2(C), 80 Stat. 1535; Sept. 29, 1977, Pub. L. 95–113, title XII, §1203, 91 Stat. 956; Dec. 22, 1981, Pub. L. 97–98, title XII, §1212, 95 Stat. 1281; Dec. 23, 1985, Pub. L. 99–198, title XI, §1101, 99 Stat. 1465; Nov. 28, 1990, Pub. L. 101–624, title XV, §1512, 104 Stat. 3639; Apr. 4, 1996, Pub. L. 104–127, title II, §209, 110 Stat. 954.)
 
 #### Amendments
+
+1996—Subsec. (a)(1). Pub. L. 104–127, §209(1)(A), substituted “amount that for each of fiscal years 1996 through 2002 is not less than 2,025,000 metric tons.” for “amount that—
+
+&emsp;“(A) for fiscal year 1991, is not less than 1,925,000 metric tons;
+
+&emsp;“(B) for fiscal year 1992, is not less than 1,950,000 metric tons;
+
+&emsp;“(C) for fiscal year 1993, is not less than 1,975,000 metric tons;
+
+&emsp;“(D) for fiscal year 1994, is not less than 2,000,000 metric tons; and
+
+&emsp;“(E) for fiscal year 1995, is not less than 2,025,000 metric tons.”
+
+Subsec. (a)(2). Pub. L. 104–127, §209(1)(B), substituted “amount that for each of fiscal years 1996 through 2002 is not less than 1,550,000 metric tons.” for “an amount that—
+
+&emsp;“(A) for fiscal year 1991, is not less than 1,450,000 metric tons;
+
+&emsp;“(B) for fiscal year 1992, is not less than 1,475,000 metric tons;
+
+&emsp;“(C) for fiscal year 1993, is not less than 1,500,000 metric tons;
+
+&emsp;“(D) for fiscal year 1994, is not less than 1,525,000 metric tons; and
+
+&emsp;“(E) for fiscal year 1995, is not less than 1,550,000 metric tons.”
+
+Subsec. (a)(3). Pub. L. 104–127, §209(1)(C), inserted at end “No waiver shall be made before the beginning of the applicable fiscal year.”
+
+Subsec. (b)(1). Pub. L. 104–127, §209(2), inserted before period at end “and that not less than 50 percent of the quantity of the bagged commodities that are whole grain commodities be bagged in the United States”.
 
 1990—Pub. L. 101–624 amended section generally, substituting present provisions for provisions relating to authorization of appropriations for reimbursement of Commodity Credit Corporation for costs incurred in connection with programs of assistance undertaken under this subchapter, and appropriations for purchase of foreign currencies.
 
@@ -91,4 +99,8 @@ Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L
 #### Effective Date of 1966 Amendment
 
 Amendment by Pub. L. 89–808 effective Jan. 1, 1967, see section 5 of Pub. L. 89–808, set out as a note under section 1691 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 1736f–1 of this title.
 

@@ -16,3 +16,4 @@
 - [&sect; 00419 - Retirement Home Trust Fund](%C2%A7%2000419%20-%20Retirement%20Home%20Trust%20Fund.md)
 - [&sect; 00420 - Disposition of effects of deceased persons; unclaimed property](%C2%A7%2000420%20-%20Disposition%20of%20effects%20of%20deceased%20persons%3B%20unclaimed%20property.md)
 - [&sect; 00421 - Payment of residents for services](%C2%A7%2000421%20-%20Payment%20of%20residents%20for%20services.md)
+- [&sect; 00422 - Authority to accept certain uncompensated services](%C2%A7%2000422%20-%20Authority%20to%20accept%20certain%20uncompensated%20services.md)

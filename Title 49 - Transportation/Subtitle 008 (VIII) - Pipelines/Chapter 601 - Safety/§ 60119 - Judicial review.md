@@ -16,7 +16,9 @@ Review of Financial Responsibility Orders.—(1) A person adversely affected by 
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

@@ -50,15 +50,17 @@ For purposes of this section, in determining the amount of any payment—
 
 Every cooperative required to make a return under subsection (a) shall furnish to each person whose name is required to be set forth in such return a written statement showing—
 
-&emsp;(1) the name and address of the cooperative required to make such return, and
+&emsp;(1) the name, address, and phone number of the information contact of the cooperative required to make such return, and
 
 &emsp;(2) the aggregate amount of payments to the person required to be shown on the return.
 
 > The written statement required under the preceding sentence shall be furnished (either in person or in a statement mailing by first-class mail which includes adequate notice that the statement is enclosed) to the person on or before January 31 of the year following the calendar year for which the return under subsection (a) was required to be made and shall be in such form as the Secretary may prescribe by regulations.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 746; Oct. 16, 1962, Pub. L. 87–834, §19(b), 76 Stat. 1054; Nov. 13, 1966, Pub. L. 89–809, title II, §211(d), 80 Stat. 1584; Oct. 4, 1976, Pub. L. 94–455, title XIX, §1906(b)(13)(A), 90 Stat. 1834; Sept. 3, 1982, Pub. L. 97–248, title III, §§304, 308(a), 96 Stat. 587, 591; Aug. 5, 1983, Pub. L. 98–67, title I, §§102(a), 108(c), 97 Stat. 369, 383; Oct. 22, 1986, Pub. L. 99–514, title XV, §1501(c)(3), 100 Stat. 2737.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 746; Oct. 16, 1962, Pub. L. 87–834, §19(b), 76 Stat. 1054; Nov. 13, 1966, Pub. L. 89–809, title II, §211(d), 80 Stat. 1584; Oct. 4, 1976, Pub. L. 94–455, title XIX, §1906(b)(13)(A), 90 Stat. 1834; Sept. 3, 1982, Pub. L. 97–248, title III, §§304, 308(a), 96 Stat. 587, 591; Aug. 5, 1983, Pub. L. 98–67, title I, §§102(a), 108(c), 97 Stat. 369, 383; Oct. 22, 1986, Pub. L. 99–514, title XV, §1501(c)(3), 100 Stat. 2737; July 30, 1996, Pub. L. 104–168, title XII, §1201(a)(4), 110 Stat. 1469.)
 
 #### Amendments
+
+1996—Subsec. (e)(1). Pub. L. 104–168 substituted “name, address, and phone number of the information contact” for “name and address”.
 
 1986—Subsec. (e). Pub. L. 99–514, in amending subsec. (e) generally, substituted “information is required” for “information is furnished” in heading and, in text, substituted references to persons required to make a return for former references to persons making a return and struck out provision directing that no statement was required if the aggregate amount of payments made to the person as shown on the return was less than $10.
 
@@ -92,9 +94,13 @@ Payments Regardless of Amount.—If required by the Secretary or his delegate, a
 
 Exceptions.—This section shall not apply in the case of any corporation (including any cooperative or nonprofit corporation engaged in rural electrification) described in section 501(c)(12) or (15) which is exempt from tax under section 501(a), or in the case of any corporation subject to a tax imposed by subchapter L of chapter 1.”
 
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–168 applicable to statements required to be furnished after Dec. 31, 1996 (determined without regard to any extension), see section 1201(b) of Pub. L. 104–168, set out as a note under section 6041 of this title.
+
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–514 applicable to returns the due date for which (determined without regard to extensions) is after Oct. 22, 1986, see section 1501(e) of Pub. L. 99–514, set out as an Effective Date note under section 6721 of this title.
+Amendment by Pub. L. 99–514 applicable to returns the due date for which (determined without regard toextensions) is after Oct. 22, 1986, see section 1501(e) of Pub. L. 99–514, set out as an Effective Date note under section 6721 of this title.
 
 #### Effective Date of 1983 Amendment
 

@@ -6,7 +6,9 @@ A person interested in or affected by a matter under consideration in a proceedi
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -26,7 +28,7 @@ Oct. 15, 1966, Pub. L. 89–670, §6(d) (1st sentence), 80 Stat. 938.
 
 &nbsp;
 
-49 App.:1903(a) (1)(A).
+49 App.:1903(a)(1)(A).
 
 Jan. 3, 1975, Pub. L. 93–633, §304(a)(1)(A), 88 Stat. 2168.
 

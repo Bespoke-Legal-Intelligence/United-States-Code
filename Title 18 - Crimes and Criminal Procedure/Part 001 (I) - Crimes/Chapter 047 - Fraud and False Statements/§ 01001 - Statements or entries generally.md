@@ -1,12 +1,28 @@
 ### §1001. Statements or entries generally
 
-Whoever, in any matter within the jurisdiction of any department or agency of the United States knowingly and willfully falsifies, conceals or covers up by any trick, scheme, or device a material fact, or makes any false, fictitious or fraudulent statements or representations, or makes or uses any false writing or document knowing the same to contain any false, fictitious or fraudulent statement or entry, shall be fined under this title or imprisoned not more than five years, or both.
+(a) Except as otherwise provided in this section, whoever, in any matter within the jurisdiction of the executive, legislative, or judicial branch of the Government of the United States, knowingly and willfully—
 
-(June 25, 1948, ch. 645, 62 Stat. 749; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(L), 108 Stat. 2147.)
+&emsp;(1) falsifies, conceals, or covers up by any trick, scheme, or device a material fact;
+
+&emsp;(2) makes any materially false, fictitious, or fraudulent statement or representation; or
+
+&emsp;(3) makes or uses any false writing or document knowing the same to contain any materially false, fictitious, or fraudulent statement or entry;
+
+> shall be fined under this title or imprisoned not more than 5 years, or both.
+
+(b) Subsection (a) does not apply to a party to a judicial proceeding, or that party's counsel, for statements, representations, writings or documents submitted by such party or counsel to a judge or magistrate in that proceeding.
+
+(c) With respect to any matter within the jurisdiction of the legislative branch, subsection (a) shall apply only to—
+
+&emsp;(1) administrative matters, including a claim for payment, a matter related to the procurement of property or services, personnel or employment practices, or support services, or a document required by law, rule, or regulation to be submitted to the Congress or any office or officer within the legislative branch; or
+
+&emsp;(2) any investigation or review, conducted pursuant to the authority of any committee, subcommittee, commission or office of the Congress, consistent with applicable rules of the House or Senate.
+
+(June 25, 1948, ch. 645, 62 Stat. 749; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(L), 108 Stat. 2147; Oct. 11, 1996, Pub. L. 104–292, §2, 110 Stat. 3459.)
 
 #### Historical and Revision Notes
 
-Based on title 18, U.S.C., 1940 ed., §80 (Mar. 4, 1909, ch. 321, §35, 35 Stat. 1095; Oct. 23, 1918, ch. 194, 40 Stat. 1015; June 18, 1934, ch. 587, 48 Stat. 996; Apr. 4, 1938, ch. 69, 52 Stat. 197).
+Based on title 18, U.S.C., 1940 ed., §80 (Mar. 4, 1909, ch. 321, §35, 35 Stat. 1095; Oct. 23, 1918, ch. 194, 40 Stat. 1015;June 18, 1934, ch. 587, 48 Stat. 996; Apr. 4, 1938, ch. 69, 52 Stat. 197).
 
 Section 80 of title 18, U.S.C., 1940 ed., was divided into two parts.
 
@@ -20,11 +36,17 @@ In addition to minor changes of phraseology, the maximum term of imprisonment wa
 
 #### Amendments
 
+1996—Pub. L. 104–292 reenacted section catchline without change and amended text generally. Prior to amendment, text read as follows: “Whoever, in any matter within the jurisdiction of any department or agency of the United States knowingly and willfully falsifies, conceals or covers up by any trick, scheme, or device a material fact, or makes any false, fictitious or fraudulent statements or representations, or makes or uses any false writing or document knowing the same to contain any false, fictitious or fraudulent statement or entry, shall be fined under this title or imprisoned not more than five years, or both.”
+
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $10,000”.
+
+#### Short Title of 1996 Amendment
+
+Section 1 of Pub. L. 104–292 provided that: “This Act \[amending this section, sections 1515 and 6005 of this title, and section 1365 of Title 28, Judiciary and Judicial Procedure\] may be cited as the ‘False Statements Accountability Act of 1996’.”
 
 #### Short Title of 1994 Amendment
 
-Section 290001(a) of Pub. L. 103–322 provided that: “This subtitle \[probably should be “section”, which amended section 1030 of this title\] may be cited as the ‘Computer Abuse Amendments Act of 1994’.”
+Section 290001(a) of Pub. L. 103–322, as amended by Pub. L. 104–294, title VI, §604(b)(34), Oct. 11, 1996, 110 Stat. 3508, provided that: “This section \[amending section 1030 of this title\] may be cited as the ‘Computer Abuse Amendments Act of 1994’.”
 
 #### Short Title of 1990 Amendment
 
@@ -82,5 +104,5 @@ Public buildings, section as applicable to statements by contractors, see sectio
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 14, 981, 982, 1345, 3059A of this title; title 7 sections 12a, 136h, 509, 511r, 1314i, 5662, 6519; title 8 section 1324a; title 12 section 1833a; title 19 sections 2515, 3391, 3432; title 22 sections 1623, 3622; title 35 section 25; title 40 section 276c; title 41 section 423; title 42 sections 2000b–3, 2000c–6, 3426, 3795a; title 43 section 1212; title 49 section 5307.
+This section is referred to in sections 14, 24, 981, 982, 1345, 3059A of this title; title 2 section 437g; title 7 sections 12a, 136h, 511r, 1314i, 5662, 6519; title 8 section 1324a; title 12 section 1833a; title 19 sections 2515, 3391, 3432; title 22 sections 1623, 3622; title 35 section 25; title 40 section 276c; title 42 sections 2000b–3, 2000c–6, 3426, 3795a; title 43 section 1212; title 49 section 5307.
 

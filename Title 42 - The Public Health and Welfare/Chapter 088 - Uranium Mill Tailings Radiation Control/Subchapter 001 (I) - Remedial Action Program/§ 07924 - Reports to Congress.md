@@ -20,7 +20,7 @@ Not later than July 1, 1979, the Secretary shall provide a report to the Congres
 
 #### (c) Uranium mine wastes hazards elimination program
 
-Not later than January 1, 1980, the Administrator, in consultation with the Commission, shall provide a report to the Congress which identifies the location and potential health, safety, and environmental hazards of uranium mine wastes together with recommendations, if any, for a program to eliminate these hazards.
+Not later than January 1, 1980, the Administrator, in consultation with the Commission, shall provide a report to the Congress which identifies the location and potential health, safety, and environmental hazards of uraniummine wastes together with recommendations, if any, for a program to eliminate these hazards.
 
 #### (d) Reports to Congressional committees
 

@@ -10,7 +10,9 @@ Every air carrier and foreign air carrier shall establish, comply with, and enfo
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -24,9 +26,9 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §404(a)(2); added Mar. 22, 1972,
 
 In this chapter, the word “regulation” is omitted in restating the phrase “classifications, rules, regulations, and practices” because it is covered by the word “rules” and to distinguish the rules of an air carrier or foreign air carrier from the regulations of the United States Government. The word “reasonable” is substituted for “just and reasonable” and “just, reasonable, and equitable” for consistency in the revised title and to eliminate unnecessary words. See the revision notes following 49:10101. The word “prices” is substituted for “fares” and “rates, fares, and charges” because of the definition of “price” in section 40102(a) of the revised title.
 
-In this section, before clause (1), the words “comply with” are substituted for “observe” for consistency in the revised title and with other titles of the United States Code. In clause (1), the words “individual and joint” are omitted as surplus. In clause (2), the words “unreasonably discriminating” are substituted for “unduly prefer or prejudice” for consistency in the revised title and to eliminate unnecessary words. See the revision notes following 49:10101.
+In this section, before clause (1), the words “comply with” are substituted for “observe” for consistency in the revised title and with other titles of the United States Code. In clause (1), the words “individual and joint” are omitted as surplus. In clause (2), the words “unreasonably discriminating” are substituted for “unduly prefer or prejudice” for consistency in the revisedtitle and to eliminate unnecessary words. See the revision notes following 49:10101.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 40109, 41110, 46301 of this title.
+This section is referred to in section 41110 of this title.
 

@@ -26,7 +26,7 @@ Except as provided in subsection (c) of this section, the Secretary of the Treas
 
 &emsp;&emsp;(B) any views of any employee organization representing participants in the plan which are submitted in writing to the Secretary of the Treasury in connection with such application.
 
-> Information provided to the corporation under this subsection shall be considered tax returninformation and subject to the safeguarding and reporting requirements of section 6103(p) of title 26.
+> Information provided to the corporation under this subsection shall be considered tax return information and subject to the safeguarding and reporting requirements of section 6103(p) of title 26.
 
 #### (c) Exception for certain waivers and extensions
 

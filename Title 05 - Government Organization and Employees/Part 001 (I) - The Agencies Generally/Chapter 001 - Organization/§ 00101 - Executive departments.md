@@ -38,7 +38,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 5 U.S.C. 1.
 
@@ -74,15 +76,15 @@ The statement in former section 2 that the use of the word “department” mean
 
 #### Amendments
 
-<b>1988</b>—Pub. L. 100–527 inserted “The Department of Veterans Affairs.”
+1988—Pub. L. 100–527 inserted “The Department of Veterans Affairs.”
 
-<b>1979</b>—Pub. L. 96–88 substituted “Department of Health and Human Services” for “Department of Health, Education, and Welfare” and inserted “The Department of Education.”
+1979—Pub. L. 96–88 substituted “Department of Health and Human Services” for “Department of Health, Education, and Welfare” and inserted “The Department of Education.”
 
-<b>1977</b>—Pub. L. 95–91 inserted “The Department of Energy.”
+1977—Pub. L. 95–91 inserted “The Department of Energy.”
 
-<b>1970</b>—Pub. L. 91–375 struck out “The Post Office Department.”
+1970—Pub. L. 91–375 struck out “The Post Office Department.”
 
-<b>1966</b>—Pub. L. 89–670 inserted “The Department of Housing and Urban Development.” and “The Department of Transportation.”
+1966—Pub. L. 89–670 inserted “The Department of Housing and Urban Development.” and “The Department of Transportation.”
 
 #### Effective Date of 1988 Amendment
 
@@ -102,7 +104,7 @@ Amendment by Pub. L. 89–670 effective Apr. 1, 1967, as prescribed by the Presi
 
 #### Prohibition Against Construction That Would Render Applicable to the Department of Transportation Provisions of Law Inconsistent With Pub. L. 89–670 Creating the Department of Transportation
 
-Section 10(c) of Pub. L. 89–670 provided that: “The amendment made by subsection (b) of this section \[amending this section\] shall not be construed to make applicable to the Department any provision of law inconsistent with this Act \[Pub. L. 89–670\].”
+Section 10(c) of Pub. L. 89–670, which provided that the amendment made to this section by section 10(b) of Pub. L. 89–670 was not to be construed to make applicable to the Department any provision of law inconsistent with Pub. L. 89–670, was repealed by Pub. L. 104–287, §7(5), Oct. 11, 1996, 110 Stat. 3400.
 
 #### Cross References
 
@@ -146,5 +148,5 @@ Departmental provisions—
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 18 sections 115, 351, 1030, 6001; title 28 section 451; title 31 sections 1343, 1344; title 36 section 175; title 41 sections 403, 601; title 42 sections 8262c, 10156, 10222.
+This section is referred to in title 18 sections 115, 351, 1030, 6001; title 28 section 451; title 31 sections 1343, 1344;title 36 section 175; title 41 sections 403, 601; title 42 sections 8262c, 10156, 10222.
 

@@ -66,7 +66,7 @@ This section may be cited as the “Choice in Public Housing Management Act of 1
 
 #### (C) Limitation in the case of recent rehabilitation
 
-&emsp;&emsp;Where eligible housing has received rehabilitation funding under paragraph (1) or has otherwise been comprehensively modernizedwithin 3 years before the effective date of the contract between the Secretary and the manager for management of the eligible housing, only the accrual portion of the comprehensive grant formula amount shall be available for payment to the manager.
+&emsp;&emsp;Where eligible housing has received rehabilitation funding under paragraph (1) or has otherwise been comprehensively modernized within 3 years before the effective date of the contract between the Secretary and the manager for management of the eligible housing, only the accrual portion of the comprehensive grant formula amount shall be available for payment to the manager.
 
 #### (D) Effect on PHA grant
 
@@ -282,7 +282,7 @@ For purposes of this section:
 
 > &emsp;The term includes resident management corporations.
 
-&emsp;(4) The term “public housing agency” has the meaning given such term in section 1437a(b) of this title, except that it does not include Indian housing authorities.
+&emsp;(4) The term “public housing agency” has the meaning given such term in section 1437a(b) of this title.
 
 &emsp;(5) The term “public nonprofit organization” means any public nonprofit entity, except the public housing agency that owns the eligible housing.
 
@@ -306,7 +306,7 @@ For purposes of this section:
 
 &emsp;&emsp;(B) has not met targets for improved performance under section 1437d(j)(2)(C) of this title.
 
-(Sept. 1, 1937, ch. 896, title I, §25, as added Oct. 28, 1992, Pub. L. 102–550, title I, §121(b), 106 Stat. 3701.)
+(Sept. 1, 1937, ch. 896, title I, §25, as added Oct. 28, 1992, Pub. L. 102–550, title I, §121(b), 106 Stat. 3701; amended Oct. 26, 1996, Pub. L. 104–330, title V, §501(b)(10), 110 Stat. 4042.)
 
 #### References in Text
 
@@ -315,6 +315,14 @@ The Fair Housing Act, referred to in subsec. (f)(2)(J), is title VIII of Pub. L.
 The Civil Rights Act of 1964, referred to in subsec. (f)(2)(J), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended. Title VI of the Act is classified generally to subchapter V (§2000d et seq.) of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of this title and Tables.
 
 The Age Discrimination Act of 1975, referred to in subsecs. (f)(2)(J) and (k), is title III of Pub. L. 94–135, Nov. 28, 1975, 89 Stat. 728, as amended, which is classified generally to chapter 76 (§6101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6101 of this title and Tables.
+
+#### Amendments
+
+1996—Subsec. (m)(4). Pub. L. 104–330 struck out “, except that it does not include Indian housing authorities” after “section 1437a(b) of this title”.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–330 effective Oct. 1, 1997, except as otherwise expressly provided, see section 107 of Pub. L. 104–330, set out as an Effective Date note under section 4101 of Title 25, Indians.
 
 #### Purpose of Section
 

@@ -6,7 +6,7 @@ A compensation order shall become effective when filed in the office of the depu
 
 #### (b) Benefits Review Board; establishment; members; chairman; quorum; voting; questions reviewable; record; conclusiveness of findings; stay of payments; remand
 
-(1) There is hereby established a Benefits Review Board which shall be composed of five members appointed by the Secretary from among individuals who are especially qualified to serve on such Board. The Secretary shall designate one of the members of the Board to serve as chairman. The Chairman shall have the authority, as delegated by the Secretary, to exercise all administrative functions necessary to operate the Board.
+(1) There is hereby established a Benefits Review Board which shall be composed of fivemembers appointed by the Secretary from among individuals who are especially qualified to serve on such Board. The Secretary shall designate one of the members of the Board to serve as chairman. The Chairman shall have the authority, as delegated by the Secretary, to exercise all administrative functions necessary to operate the Board.
 
 (2) For the purpose of carrying out its functions under this chapter, three members of the Board shall constitute a quorum and official action can be taken only on the affirmative vote of at least three members.
 
@@ -22,7 +22,7 @@ Any person adversely affected or aggrieved by a final order of the Board may obt
 
 #### (d) District court; jurisdiction; enforcement of orders; application of beneficiaries of awards or deputy commissioner; process for compliance with orders
 
-If any employer or his officers or agents fails to comply with a compensation order making an award, that has become final, any beneficiary of such award or the deputy commissioner making the order, may apply for the enforcement of the order to the Federal district court for the judicial district in which the injury occurred (or to the United States District Court for the Districtof Columbia if the injury occurred in the District). If the court determines that the order was made and served in accordance with law, and that such employer or his officers or agents have failed to comply therewith, the court shall enforce obedience to the order by writ of injunction or by other proper process, mandatory or otherwise, to enjoin upon such person and his officers and agents compliance with the order.
+If any employer or his officers or agents fails to comply with a compensation order making an award, that has become final, any beneficiary of such award or the deputy commissioner making the order, may apply for the enforcement of the order to the Federal district court for the judicial district in which the injury occurred (or to the United States District Court for the District of Columbia if the injury occurred in the District). If the court determines that the order was made and served in accordance with law, and that such employer or his officers or agents have failed to comply therewith, the court shall enforce obedience to the order by writ of injunction or by other proper process, mandatory or otherwise, to enjoin upon such person and his officers and agents compliance with the order.
 
 #### (e) Institution of proceedings for suspension, setting aside, or enforcement of compensation orders
 
@@ -55,6 +55,14 @@ Amendment by Pub. L. 98–426 effective Sept. 28, 1984, see section 28(e)(1) of 
 #### Effective Date of 1972 Amendment
 
 Amendment by Pub. L. 92–576 effective 30 days after Oct. 27, 1972, see section 22 of Pub. L. 92–576, set out as a note under section 902 of this title.
+
+#### Review of Decisions Made by or Pending Before Benefits Review Board
+
+Pub. L. 104–208, div. A, title I, §101(e) \[title I\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–241, provided in part: “That no funds made available by this Act \[probably means section 101(e) of title I of Pub. L. 104–208, see Tables for classification\] may be used by the Solicitor of Labor to participate in a review in any United States court of appeals of any decision made by the Benefits Review Board under section 21 of the Longshore and Harbor Workers’ Compensation Act (33 U.S.C. 921) where such participation is precluded by the decision of the United States Supreme Court in Director, Office of Workers’ Compensation Programs v. Newport News Shipbuilding, 115 S. Ct. 1278 (1995): <i>Provided further</i>, That no funds made available by this Act may be used by the Secretary of Labor to review a decision under the Longshore and Harbor Workers’ Compensation Act (33 U.S.C. 901 et seq.) that has been appealed and that has been pending before the Benefits Review Board for more than 12 months: <i>Provided further</i>, That any such decision pending a review by the Benefits Review Board for more than one year shall be considered affirmed by the Benefits Review Board on that date, and shall be considered the final order of the Board for purposes of obtaining a review in the United States courts of appeals: <i>Provided further</i>, That these provisions shall not be applicable to the review of any decision issued under the Black Lung Benefits Act (30 U.S.C. 901 et seq.).”
+
+Similar provisions were contained in the following prior appropriation act:
+
+Pub. L. 104–134, title I, §101(d) \[title I\], Apr. 26, 1996, 110 Stat. 1321–211, 1321–218; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.
 
 #### Federal Rules of Civil Procedure
 

@@ -2,7 +2,7 @@
 
 Whoever, with intent to avoid, evade, prevent, or obstruct compliance, in whole or in part, with any civil investigative demand duly and properly made under the Antitrust Civil Process Act, willfully withholds, misrepresents, removes from any place, conceals, covers up, destroys, mutilates, alters, or by other means falsifies any documentary material, answers to written interrogatories, or oral testimony, which is the subject of such demand; or attempts to do so or solicits another to do so; or
 
-Whoever corruptly, or by threats or force, or by any threatening letter or communication influences, obstructs, or impedes or endeavors to influence, obstruct, or impede the due and proper administration of the law under which any pending proceeding is being had before any department or agency of the United States, or the due and proper exercise of the power of inquiryunder which any inquiry or investigation is being had by either House, or any committee of either House or any joint committee of the Congress—
+Whoever corruptly, or by threats or force, or by any threatening letter or communication influences, obstructs, or impedes or endeavors to influence, obstruct, or impede the due and proper administration of the law under which any pending proceeding is being had before any department or agency of the United States, or the due and proper exercise of the power of inquiry under which any inquiry or investigation is being had by either House, or any committee of either House or any joint committee of the Congress—
 
 Shall be fined under this title or imprisoned not more than five years, or both.
 
@@ -46,5 +46,5 @@ Bribery of public officials or witnesses, see section 201 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 201 of this title; title 29 section 1111.
+This section is referred to in sections 201, 1515 of this title; title 29 section 1111.
 

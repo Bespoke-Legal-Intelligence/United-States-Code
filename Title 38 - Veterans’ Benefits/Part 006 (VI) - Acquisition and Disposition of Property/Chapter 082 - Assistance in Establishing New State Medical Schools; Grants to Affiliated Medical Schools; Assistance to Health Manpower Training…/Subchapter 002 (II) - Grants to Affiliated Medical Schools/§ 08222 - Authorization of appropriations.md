@@ -1,6 +1,6 @@
 ### §8222. Authorization of appropriations
 
-(a) There is authorized to be appropriated for carrying out programs authorized under this chapter $50,000,000 for the fiscal year ending June 30, 1973; a like sum for each of the six succeeding fiscal years; $15,000,000 for the fiscal year ending September 30, 1980; $25,000,000 for the fiscal year ending September 30, 1981; and$30,000,000 for the fiscal year ending September 30, 1982.
+(a) There is authorized to be appropriated for carrying out programs authorized under this chapter $50,000,000 for the fiscal year ending June 30, 1973; a like sum for each of the six succeeding fiscal years; $15,000,000 for the fiscal year ending September 30, 1980; $25,000,000 for the fiscal year ending September 30, 1981; and $30,000,000 for the fiscal year ending September 30, 1982.
 
 (b) Sums appropriated pursuant to subsection (a) of this section shall remain available until the end of the sixth fiscal year following the fiscal year for which they are appropriated.
 

@@ -6,7 +6,7 @@ With the consent of the proper authorities, imported merchandise, in bond or dut
 
 #### References in Text
 
-Section 4347 of the Revised Statutes, as amended, referred to in text, was not classified to this Code. It was superseded by act Feb. 17, 1898, ch. 26, §1, 30 Stat. 248, which was classified to section 290 of former Title 46, Shipping. See section 883 of Title 46, Appendix.
+Section 4347 of the Revised Statutes, as amended, referred to in text, was not classified to this Code. It wassuperseded by act Feb. 17, 1898, ch. 26, §1, 30 Stat. 248, which was classified to section 290 of former Title 46, Shipping. See section 883 of Title 46, Appendix.
 
 #### Prior Provisions
 

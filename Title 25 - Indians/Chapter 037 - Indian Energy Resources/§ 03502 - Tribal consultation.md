@@ -6,5 +6,5 @@ In implementing the provisions of this Act, the Secretary of Energy shall involv
 
 #### References in Text
 
-This Act, referred to in text, means Pub. L. 102–486, Oct. 24, 1992, 106 Stat. 2776, known as the Energy Policy Act of 1992. For complete classification of this Act to the Code, see Short Title note set out under section 13201 of Title 42, The Public Health and Welfare, and Tables.
+This Act, referred to in text, means Pub. L. 102–486, Oct. 24, 1992, 106 Stat. 2776, known as the Energy PolicyAct of 1992. For complete classification of this Act to the Code, see Short Title note set out under section 13201 of Title 42, The Public Health and Welfare, and Tables.
 

@@ -14,7 +14,7 @@ The Secretary is directed to—
 
 #### (c) Compliance of Federal officers and agencies
 
-All Federal officers and agencies are directed to comply with the applicable provisions of this chapter, and of the laws, treaty, compacts, and decree referred to in subsection (a) of this section, in the storage and release of water from all reservoirs and in the operation and maintenance of all facilities in the Colorado River system under the jurisdiction and supervision of the Secretary, and in the operation and maintenance of all works which may be authorized hereafter for the augmentation of the water supply of the Colorado River system. In the event of failure of any such officer or agency to so comply, any affected State may maintain an action to enforce the provisions of this section in theSupreme Court of the United States and consent is given to the joinder of the United States as a party in such suit or suits, as a defendant or otherwise.
+All Federal officers and agencies are directed to comply with the applicable provisions of this chapter, and of the laws, treaty, compacts, and decree referred to in subsection (a) of this section, in the storage and release of water from all reservoirs and in the operation and maintenance of all facilities in the Colorado River system under the jurisdiction and supervision of the Secretary, and in the operation and maintenance of all works which may be authorized hereafter for the augmentation of the water supply of the Colorado River system. In the event of failure of any such officer or agency to so comply, any affected State may maintain an action to enforce the provisions of this section in the Supreme Court of the United States and consent is given to the joinder of the United States as a party in such suit or suits, as a defendant or otherwise.
 
 (Pub. L. 90–537, title VI, §601, Sept. 30, 1968, 82 Stat. 899.)
 
@@ -26,7 +26,7 @@ The Boulder Canyon Project Act, referred to in subsec. (a), is act Dec. 21, 1928
 
 The Boulder Canyon Project Adjustment Act, referred to in subsec. (a), is act July 19, 1940, ch. 643, 54 Stat. 774, as amended, which is classified generally to subchapter II (§618 et seq.) of chapter 12A of this title. For complete classification of this Act to the Code, see section 618<i>o</i> of this title and Tables.
 
-The Colorado River Storage Project Act, referred to in subsec. (a), is act Apr. 11, 1956, ch. 203, 70 Stat. 105, as amended, which is classified generally to chapter 12B (§620 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 620 of this title and Tables.
+The Colorado River Storage Project Act, referred to in subsec. (a), is act Apr. 11, 1956, ch. 203, 70 Stat. 105,as amended, which is classified generally to chapter 12B (§620 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 620 of this title and Tables.
 
 #### Section Referred to in Other Sections
 

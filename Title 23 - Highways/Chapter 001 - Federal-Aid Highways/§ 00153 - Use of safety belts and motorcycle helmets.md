@@ -2,7 +2,7 @@
 
 (a)
 
-Authority To Make Grants.—The Secretary may make grants to a State in a fiscal year in accordance with this section if the State has in effect in such fiscal year—
+Authority To Make Grants.—The Secretary may make grants to a State in a fiscalyear in accordance with this section if the State has in effect in such fiscal year—
 
 &emsp;(1) a law which makes unlawful throughout the State the operation of a motorcycle if any individual on the motorcycle is not wearing a motorcycle helmet; and
 
@@ -96,7 +96,7 @@ Transfer of obligation authority.—If the Secretary transfers under this subsec
 
 &emsp;&emsp;(A) the amount of funds transferred to the apportionment of section 402 of the State under section 402 for such fiscal year; by
 
-&emsp;&emsp;(B) the ratio of the amount of obligation authority distributed for such fiscal year to the State for Federal-aid highways and highway safety construction programs to the total of the sums apportioned to the State for Federal-aid highways and highway safety construction (excluding sums not subject to any obligation limitation) for such fiscal year.
+&emsp;&emsp;(B) the ratio of the amount of obligation authority distributed for such fiscal year tothe State for Federal-aid highways and highway safety construction programs to the total of the sums apportioned to the State for Federal-aid highways and highway safety construction (excluding sums not subject to any obligation limitation) for such fiscal year.
 
 &emsp;(5)
 
@@ -160,7 +160,7 @@ Section 205(e) of Pub. L. 104–59 provided that the amendment made by that sect
 
 Section effective Dec. 18, 1991, and applicable to funds authorized to be appropriated or made available after Sept. 30, 1991, and, with certain exceptions, not applicable to funds appropriated or made available on or before Sept. 30, 1991, see section 1100 of Pub. L. 102–240, set out as an Effective Date of 1991 Amendment note under section 104 of this title.
 
-#### Study of Benefits of Safety Belts and Motor- cycle Helmets to Individuals Involved in Crashes
+#### Study of Benefits of Safety Belts and Motorcycle Helmets to Individuals Involved in Crashes
 
 Section 1031(b) of Pub. L. 102–240 provided that:
 

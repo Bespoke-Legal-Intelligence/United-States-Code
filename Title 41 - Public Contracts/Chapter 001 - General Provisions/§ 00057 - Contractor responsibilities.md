@@ -18,25 +18,27 @@ Each contracting agency shall include in each prime contract awarded by such age
 
 #### (d) Partial inapplicability to small contracts
 
-Subsections (a) and (b) of this section do not apply to a prime contract that is not greater than $100,000 or to a prime contract for the acquisition of commercial items (as defined in section 403(12) <sup>1</sup> of this title)..<sup>2</sup>
+Subsections (a) and (b) of this section do not apply to a prime contract that is not greater than $100,000 or to a prime contract for the acquisition of commercial items (as defined in section 403(12) of this title).
 
 #### (e) Cooperation in investigations regardless of contract amount
 
 Notwithstanding subsection (d) of this section, a prime contractor shall cooperate fully with any Federal Government agency investigating a violation of section 53 of this title.
 
-(Mar. 8, 1946, ch. 80, §7, as added Nov. 7, 1986, Pub. L. 99–634, §2(a), 100 Stat. 3525; amended Oct. 13, 1994, Pub. L. 103–355, title IV, §4104(a), title VIII, §8301(c)(1), 108 Stat. 3341, 3397.)
-
-#### References in Text
-
-Section 403(12) of this title, referred to in subsec. (d), was in the original “section 4(12) of such Act (41 U.S.C. 403(12))”, and was translated as meaning section 4(12) of the Office of Federal Procurement Policy Act, Pub. L. 93–400, to reflect the probable intent of Congress.
+(Mar. 8, 1946, ch. 80, §7, as added Nov. 7, 1986, Pub. L. 99–634, §2(a), 100 Stat. 3525; amended Oct. 13, 1994, Pub. L. 103–355, title IV, §4104(a), title VIII, §8301(c)(1), 108 Stat. 3341, 3397; Feb. 10, 1996, Pub. L. 104–106, div. D, title XLIII, §4321(g), 110 Stat. 675.)
 
 #### Amendments
+
+1996—Subsec. (d). Pub. L. 104–106 made technical amendment to reference in original act which appears in text as reference to section 403(12) of this title and struck out second period at end.
 
 1994—Subsec. (d). Pub. L. 103–355, §8301(c)(1), inserted before period at end “or to a prime contract for the acquisition of commercial items (as defined in section 403(12) of this title).”
 
 Pub. L. 103–355, §4104(a), added subsec. (d).
 
 Subsec. (e). Pub. L. 103–355, §4104(a), added subsec. (e).
+
+#### Effective Date of 1996 Amendment
+
+For effective date and applicability of amendment by Pub. L. 104–106, see section 4401 of Pub. L. 104–106, set out as a note under section 251 of this title.
 
 #### Effective Date of 1994 Amendment
 
@@ -49,8 +51,4 @@ Subsecs. (a) and (b) effective with respect to contract solicitations issued by 
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 51, 52 of this title.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
-
-<i><sup>2</sup></i><i> So in original.</i>
 

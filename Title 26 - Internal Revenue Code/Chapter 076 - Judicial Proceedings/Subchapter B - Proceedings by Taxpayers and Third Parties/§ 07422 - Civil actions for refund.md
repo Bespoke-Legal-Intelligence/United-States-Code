@@ -10,7 +10,7 @@ Such suit or proceeding may be maintained whether or not such tax, penalty, or s
 
 #### (c) Suits against collection officer a bar
 
-A suit against any officer or employee of the United States (or former officer or employee) or his personal representative for the recovery of any internal revenue tax alleged to have been erroneously or illegally assessed or collected, or of any penalty claimed to have been collected without authority, or of any sum alleged to have been excessive or in any manner wrongfully collected shall be treated as if the United States had been a party to such suit in applying the doctrine of res judicata in all suits in respect of any internal revenue tax, and in all proceedings in the Tax Court and on review of decisions of the Tax Court.
+A suit against any officer or employee of the United States (or former officer or employee) orhis personal representative for the recovery of any internal revenue tax alleged to have been erroneously or illegally assessed or collected, or of any penalty claimed to have been collected without authority, or of any sum alleged to have been excessive or in any manner wrongfully collected shall be treated as if the United States had been a party to such suit in applying the doctrine of res judicata in all suits in respect of any internal revenue tax, and in all proceedings in the Tax Court and on review of decisions of the Tax Court.
 
 #### (d) Credit treated as payment
 
@@ -28,7 +28,7 @@ If the Secretary prior to the hearing of a suit brought by a taxpayer in a distr
 
 #### (2) Misjoinder and change of venue
 
-&emsp;If a suit or proceeding brought in a United States district court against an officer or employee of the United States (or former officer or employee) or his personal representative is improperly brought solely by virtue of paragraph (1), the court shall order, upon such terms as are just, that the pleadings be amended to substitute the United States as a party for such officer or employee as of the time such action commenced, upon proper service of process on the United States. Such suit or proceeding shall upon request by theUnited States be transferred to the district or division where it should have been brought if such action initially had been brought against the United States.
+&emsp;If a suit or proceeding brought in a United States district court against an officer or employee of the United States (or former officer or employee) or his personal representative is improperly brought solely by virtue of paragraph (1), the court shall order, upon such terms as are just, that the pleadings be amended to substitute the United States as a party for such officer or employee as of the time such action commenced, upon proper service of process on the United States. Such suit or proceeding shall upon request by the United States be transferred to the district or division where it should have been brought if such action initially had been brought against the United States.
 
 #### (g) Special rules for certain excise taxes imposed by chapter 42 or 43
 
@@ -44,11 +44,11 @@ If the Secretary prior to the hearing of a suit brought by a taxpayer in a distr
 
 #### (2) Limitation on suit for refund
 
-&emsp;No suit may be maintained under this section for the credit or refund of any tax imposed under section 4941, 4942, 4943, 4944, 4945, 4951, 4952, 4955, 4971, or 4975 with respect to any act (or failure to act) giving rise to liability for tax under such sections, unless no other suit has been maintained for credit or refund of, and no petition has been filed in the Tax Court with respect to a deficiency in, any other tax imposed by such sections with respect to such act (or failure to act).
+&emsp;No suit may be maintained under this section for the credit or refund of any tax imposed under section 4941, 4942, 4943, 4944, 4945, 4951, 4952, 4955, 4958, 4971, or 4975 with respect to any act (or failure to act) giving rise to liability for tax under such sections, unless no other suit has been maintained for credit or refund of, and no petition has been filed in the Tax Court with respect to a deficiency in, any other tax imposed by such sections with respect to such act (or failure to act).
 
 #### (3) Final determination of issues
 
-&emsp;For purposes of this section, any suit for the credit or refund of any tax imposed under section 4941, 4942, 4943, 4944, 4945, 4951, 4952, 4955, 4971, or 4975 with respect to any act (or failure to act) giving rise to liability for tax under such sections, shall constitute a suit to determine all questions with respect to any other tax imposed with respect to such act (or failure to act) under such sections, and failure by the parties to such suit to bring any such question before the Court shall constitute a bar to such question.
+&emsp;For purposes of this section, any suit for the credit or refund of any tax imposed under section 4941, 4942, 4943, 4944, 4945, 4951, 4952, 4955, 4958, 4971, or 4975 with respect to any act (or failure to act) giving rise to liability for tax under such sections, shall constitute a suit to determine all questions with respect to any other tax imposed with respect to such act (or failure to act) under such sections, and failure by the parties to such suit to bring any such question before the Court shall constitute a bar to such question.
 
 #### (h) Special rule for actions with respect to partnership items
 
@@ -68,13 +68,15 @@ No action or proceeding may be brought in the United States Court of Federal Cla
 
 &emsp;&emsp;<b>(4) For payment by the Treasury of judgments against internal revenue officers or employees, upon certificate of probable cause, see section 2006 of Title 28 of the United States Code.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 876; Sept. 2, 1958, Pub. L. 85–866, title I, §78, 72 Stat. 1662; Nov. 2, 1966, Pub. L. 89–713, §3(a), 80 Stat. 1108; Dec. 30, 1969, Pub. L. 91–172, title I, §101(i), (j)(56), 83 Stat. 525, 532; Dec. 10, 1971, Pub. L. 92–178, title III, §309(a), 85 Stat. 525; Sept. 2, 1974, Pub. L. 93–406, title II, §1016(a)(26), 88 Stat. 931; Oct. 4, 1976, Pub. L. 94–455, title XIII, §1307(d)(2)(F)(viii), title XVI, §1605(b)(11), title XIX, §1906(a)(44), (b)(13)(A), 90 Stat. 1728, 1755, 1830, 1834; Apr. 1, 1980, Pub. L. 96–222, title I, §108(b)(1)(D)–(F), 94 Stat. 226; Apr. 2, 1980, Pub. L. 96–223, title I, §101(f)(1)(J), 94 Stat. 252; Dec. 24, 1980, Pub. L. 96–596, §2(c)(2), 94 Stat. 3474; Apr. 2, 1982, Pub. L. 97–164, title I, §151, 96 Stat. 46; Sept. 3, 1982, Pub. L. 97–248, title IV, §402(c)(11), 96 Stat. 668; July 18, 1984, Pub. L. 98–369, div. A, title VII, §714(g)(1), (p)(2)(H), 98 Stat. 961, 965; Oct. 22, 1986, Pub. L. 99–514, title XVIII, §1899A(58), 100 Stat. 2961; Dec. 22, 1987, Pub. L. 100–203, title X, §10712(c)(5), 101 Stat. 1330–467; Aug. 23, 1988, Pub. L. 100–418, title I, §1941(b)(2)(B)(x), 102 Stat. 1323; Oct. 29, 1992, Pub. L. 102–572, title IX, §902(b)(1), 106 Stat. 4516.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 876; Sept. 2, 1958, Pub. L. 85–866, title I, §78, 72 Stat. 1662; Nov. 2, 1966, Pub. L. 89–713, §3(a), 80 Stat. 1108; Dec. 30, 1969, Pub. L. 91–172, title I, §101(i), (j)(56), 83 Stat. 525, 532; Dec. 10, 1971, Pub. L. 92–178, title III, §309(a), 85 Stat. 525; Sept. 2, 1974, Pub. L. 93–406, title II, §1016(a)(26), 88 Stat. 931; Oct. 4, 1976, Pub. L. 94–455, title XIII, §1307(d)(2)(F)(viii), title XVI, §1605(b)(11), title XIX, §1906(a)(44), (b)(13)(A), 90 Stat. 1728, 1755, 1830, 1834; Apr. 1, 1980, Pub. L. 96–222, title I, §108(b)(1)(D)–(F), 94 Stat. 226; Apr. 2, 1980, Pub. L. 96–223, title I, §101(f)(1)(J), 94 Stat. 252; Dec. 24, 1980, Pub. L. 96–596, §2(c)(2), 94 Stat. 3474; Apr. 2, 1982, Pub. L. 97–164, title I, §151, 96 Stat. 46; Sept. 3, 1982, Pub. L. 97–248, title IV, §402(c)(11), 96 Stat. 668; July 18, 1984, Pub. L. 98–369, div. A, title VII, §714(g)(1), (p)(2)(H), 98 Stat. 961, 965; Oct. 22, 1986, Pub. L. 99–514, title XVIII, §1899A(58), 100 Stat. 2961; Dec. 22, 1987, Pub. L. 100–203, title X, §10712(c)(5), 101 Stat. 1330–467; Aug. 23, 1988, Pub. L. 100–418, title I, §1941(b)(2)(B)(x), 102 Stat. 1323; Oct. 29, 1992, Pub. L. 102–572, title IX, §902(b)(1), 106 Stat. 4516; July 30, 1996, Pub. L. 104–168, title XIII, §1311(c)(4), 110 Stat. 1478.)
 
 #### References in Text
 
 The date of enactment of this title, referred to in subsec. (e), is Aug. 16, 1954.
 
 #### Amendments
+
+1996—Subsec. (g)(2), (3). Pub. L. 104–168 inserted “4958,” after “4955,”.
 
 1992—Subsecs. (e), (i). Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court” wherever appearing.
 
@@ -117,6 +119,10 @@ Subsecs. (g), (h). Pub. L. 91–172, §101(i), added subsec. (g) and redesignate
 1966—Subsecs. (f), (g). Pub. L. 89–713 added subsec. (f) and redesignated former subsec. (f) as (g).
 
 1958—Subsec. (f)(2). Pub. L. 85–866 struck out “district” before “attorneys”.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–168 applicable to excess benefit transactions occurring on or after Sept. 14, 1995and not applicable to any benefit arising from a transaction pursuant to any written contract which was binding on Sept. 13, 1995, and at all times thereafter before such transaction occurred, see section 1311(d)(1), (2) of Pub. L. 104–168, set out as a note under section 4955 of this title.
 
 #### Effective Date of 1992 Amendment
 

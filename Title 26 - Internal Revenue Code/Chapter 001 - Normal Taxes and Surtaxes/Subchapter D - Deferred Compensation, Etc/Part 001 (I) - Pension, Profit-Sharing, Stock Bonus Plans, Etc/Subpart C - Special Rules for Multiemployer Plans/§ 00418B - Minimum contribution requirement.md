@@ -12,7 +12,7 @@
 
 &emsp;&emsp;&emsp;(i) the sum of the minimum contribution requirement for such plan year (taking into account any overburden credit under section 418C(a)) plus the plan's accumulated funding deficiency for the preceding plan year (determined under this section if the plan was in reorganization during such plan year or under section 412(a) if the plan was not in reorganization), over
 
-&emsp;&emsp;&emsp;(ii) amounts considered contributed by employers to or under the plan for the planyear (increased by any amount waived under subsection (f) for the plan year).
+&emsp;&emsp;&emsp;(ii) amounts considered contributed by employers to or under the plan for the plan year (increased by any amount waived under subsection (f) for the plan year).
 
 #### (2) Treatment of withdrawal liability payments
 
@@ -44,7 +44,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;If the vested benefits charge for a plan year of a plan in reorganization is less than the plan's cash-flow amount for the plan year, the plan's minimum contribution requirement for the plan year is the amount determined under paragraph (1) (determined before the application of paragraph (2)) after substituting the term “cash-flow amount” for the term “vested benefits charge” in paragraph (1)(A).
+&emsp;&emsp;If the vested benefits charge for a plan year of a plan in reorganization is less thanthe plan's cash-flow amount for the plan year, the plan's minimum contribution requirement for the plan year is the amount determined under paragraph (1) (determined before the application of paragraph (2)) after substituting the term “cash-flow amount” for the term “vested benefits charge” in paragraph (1)(A).
 
 #### (B) Cash-flow amount
 
@@ -122,7 +122,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;In the case of a plan described in section 4216(b) of the Employee Retirement Income Security Act of 1974, if a plan amendment which increases benefits is adopted after January 1, 1980—
+&emsp;&emsp;In the case of a plan described in section 4216(b) of the Employee Retirement Income Security Act of 1974, if a plan amendmentwhich increases benefits is adopted after January 1, 1980—
 
 &emsp;&emsp;&emsp;(i) paragraph (1) shall apply only if the plan is a plan described in subparagraph (B), and
 

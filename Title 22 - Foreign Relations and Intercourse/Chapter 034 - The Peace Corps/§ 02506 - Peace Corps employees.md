@@ -28,7 +28,7 @@
 
 &emsp;(B) To permit individuals who have served at least two and one-half years of such an appointment or assignment in the United States to serve abroad thereafter.
 
-&emsp;(C) To permit individuals who have served at least two and one-half years of such an appointment or assignment in a recruitment, selection, or training activity to be reassigned to an activity other than the one in which they have most recently so served.
+&emsp;(C) To permit individuals who have served at least two and one-half years of such an appointment or assignment in a recruitment, selection, or training activity to be reassignedto an activity other than the one in which they have most recently so served.
 
 &emsp;(D) To promote the continuity of functions in administering the Peace Corps.
 
@@ -138,7 +138,7 @@ Section 5(b) of Pub. L. 89–134 provided that: “Under such regulations as the
 
 > Each person appointed under this subsection shall receive basic compensation at the rate of his class determined by the President to be appropriate, but the rate of basic compensation received by such person immediately prior to the effective date of his appointment under this subsection shall not be reduced by the provisions of this subsection.”
 
-\[Functions of the President conferred by section 5(b) of Pub. L. 89–134, set out above, to prescribe regulations and make determinations (relating to appointment of Peace Corps Employees in the Foreign Service System) were delegated to the Director of the Peace Corps, by section 1–105 of Ex. Ord. No. 12137, May 16, 1976, 44 F.R. 29023, set out as a note under section 2501 of this title. Such functions were previously transferred from the President to the Director of ACTION \[now Corporation for National and Community Service\] by section 102(c) of Ex. Ord. No. 11603, June 30, 1971, 36 F.R. 12675, set out as a note under section 2501 of this title, which was superseded by section 1–707 of Ex. Ord. No. 12137.\]
+\[Functions of the President conferred by section 5(b) of Pub. L. 89–134, set out above, to prescribe regulations and make determinations (relating to appointment of Peace Corps Employees in the Foreign Service System) were delegated to the Director of the Peace Corps, by section 1–105 of Ex. Ord. No. 12137, May 16, 1976, 44 F.R. 29023, set out as a note under section 2501 of this title. Such functions were previously transferred from the President to the Director of ACTION \[now Corporation for National and Community Service\] by section 102(c) of Ex. Ord. No. 11603, June 30, 1971, 36 F.R. 12675, set outas a note under section 2501 of this title, which was superseded by section 1–707 of Ex. Ord. No. 12137.\]
 
 #### Section Referred to in Other Sections
 

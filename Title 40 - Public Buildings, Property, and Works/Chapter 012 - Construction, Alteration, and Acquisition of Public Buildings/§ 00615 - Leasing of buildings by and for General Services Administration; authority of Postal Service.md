@@ -10,7 +10,7 @@ Nothing in this chapter shall be construed to limit or repeal—
 
 #### Amendments
 
-1970—Pub. L. 91–375 struck out “contained” after “Nothing” and “use of the” and “or the Post Office Department” before and after “General Services Administration” in cl. (1), and substituted in cl. (1) “; or” for “, or” and as cl. (2) “the authority conferred by law on the United States Postal Service” for “the authorization for the improvement of public buildings contained in title III of the Act entitled ‘An Act to establish a postal policy, to adjust postal rates, to adjust the compensation of postal employees, and for other purposes’, approved May 27, 1958 (72 Stat. 134).”
+1970—Pub. L. 91–375 struck out “contained” after “Nothing” and “use of the” and “or the Post Office Department” before and after “General Services Administration” in cl. (1), and substituted in cl. (1) “; or” for “, or” and as cl. (2) “the authority conferred by law on the United States Postal Service” for “the authorization for the improvement of public buildings contained in title III of the Act entitled ‘An Act to establish a postal policy, to adjust postal rates, to adjust the compensation of postal employees, and for other purposes’, approved May 27, 1958 (72 Stat. 134).”
 
 #### Effective Date of 1970 Amendment
 

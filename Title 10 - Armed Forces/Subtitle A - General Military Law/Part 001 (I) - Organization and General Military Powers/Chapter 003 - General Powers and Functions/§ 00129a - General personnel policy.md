@@ -12,6 +12,30 @@ The Secretary of Defense shall use the least costly form of personnel consistent
 
 Provisions similar to those in this section were contained in section 115(b)(5) of this title, prior to repeal by Pub. L. 101–510, §1483(a).
 
+#### Conversion of Military Positions to Civilian Positions
+
+Pub. L. 104–106, div. A, title X, §1032, Feb. 10, 1996, 110 Stat. 429, as amended by Pub. L. 104–201, div. A, title XVI, §1601(a), (b), Sept. 23, 1996, 110 Stat. 2734, provided that:
+
+“(a)
+
+Conversion Requirement.—(1) By September 30, 1996, the Secretary of Defense shall convert at least 3,000 military positions to civilian positions.
+
+“(2) In this subsection:
+
+&emsp;“(A) The term ‘military position’ means a position that, as of the date of the enactment of this Act \[Feb. 10, 1996\], is authorized to be filled by a member of the Armed Forces on active duty.
+
+&emsp;“(B) The term ‘civilian position’ means a position that is required to be filled by a civilian employee of the Department of Defense.
+
+“(b)
+
+Implementation Plan.—Not later than March 31, 1996, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives a plan for the implementation of subsection (a).”
+
+\[Pub. L. 104–201, div. A, title XVI, §1601(c), Sept. 23, 1996, 110 Stat. 2734, provided that:
+
+\[“(1) The amendments made by this section \[amending section 1032 of Pub. L. 104–106, set out above\] shall take effect 30 days after the date on which the Secretary of Defense submits to Congress a certification that at least 3,000 military positions have been converted to civilian positions during fiscal year 1996 as required by section 1032(a) of the National Defense Authorization Act for Fiscal Year 1996 (Public Law 104–106; 110 Stat. 429).
+
+\[“(2) The Secretary shall publish in the Federal Register a notice of the submission of any certification to Congress under paragraph (1), including the date on which the certification was submitted to Congress.”\]
+
 #### Prohibition on Use of Funds To Assign Supervisor's Title or Grade Based Upon Number of People Supervised
 
 Pub. L. 104–61, title VIII, §8031, Dec. 1, 1995, 109 Stat. 658, provided that: “None of the funds appropriated during the current fiscal year and hereafter, may be used by the Department of Defense to assign a supervisor's title or grade when the number of people he or she supervises is considered as a basis for this determination: <i>Provided</i>, That savings that result from this provision are represented as such in future budget proposals.”

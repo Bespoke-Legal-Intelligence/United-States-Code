@@ -1,22 +1,20 @@
 ### §32705. Disclosure requirements on transfer of motor vehicles
 
-(a)
+(a)(1)
 
-Written Disclosure Requirements.—(1) Under regulations prescribed by the Secretary of Transportation, a person transferring ownership of a motor vehicle shall give the transferee a written disclosure—
+Disclosure Requirements.—Under regulations prescribed by the Secretary of Transportation that include the way in which information is disclosed and retained under this section, a person transferring ownership of a motor vehicle shall give the transferee the following written disclosure:
 
-&emsp;(A) of the cumulative mileage registered by the odometer; or
+&emsp;(A) Disclosure of the cumulative mileage registered on the odometer.
 
-&emsp;(B) that the mileage is unknown if the transferor knows that the mileage registered by the odometer is incorrect.
+&emsp;(B) Disclosure that the actual mileage is unknown, if the transferor knows that the odometer reading is different from the number of miles the vehicle has actually traveled.
 
-(2) A person making a written disclosure required by a regulation prescribed under paragraph (1) of this subsection may not make a false statement in the disclosure.
+(2) A person transferring ownership of a motor vehicle may not violate a regulation prescribed under this section or give a false statement to the transferee in making the disclosure required by such a regulation.
 
-(3) A person acquiring a motor vehicle for resale may accept a disclosure under this section only if it is complete.
-
-(4) The regulations prescribed by the Secretary shall provide the way in which information is disclosed and retained under this section.
+(3) A person acquiring a motor vehicle for resale may not accept a written disclosure under this section unless it is complete.
 
 (b)
 
-Mileage Statement Requirement for Licensing.—(1) A motor vehicle the ownership of which is transferred may not be licensed for use in a State unless the transferee, in submitting an application to a State for the title on which the license will be issued, includes with the application the transferor's title and, if that title contains the space referred to in paragraph (3)(A)(iii) of this subsection, a statement, signed and dated by the transferor, of the mileage disclosure required under subsection (a) of this section. This paragraph does not apply to a transfer of ownership of a motor vehicle that has not been licensed before the transfer.
+Mileage Statement Requirement for Licensing.—(1) A motor vehicle the ownership ofwhich is transferred may not be licensed for use in a State unless the transferee, in submitting an application to a State for the title on which the license will be issued, includes with the application the transferor's title and, if that title contains the space referred to in paragraph (3)(A)(iii) of this subsection, a statement, signed and dated by the transferor, of the mileage disclosure required under subsection (a) of this section. This paragraph does not apply to a transfer of ownership of a motor vehicle that has not been licensed before the transfer.
 
 (2)(A) Under regulations prescribed by the Secretary, if the title to a motor vehicle issued to a transferor by a State is in the possession of a lienholder when the transferor transfers ownership of the vehicle, the transferor may use a written power of attorney (if allowed by State law) in making the mileage disclosure required under subsection (a) of this section. Regulations prescribed under this paragraph—
 
@@ -42,7 +40,7 @@ Mileage Statement Requirement for Licensing.—(1) A motor vehicle the ownership
 
 (B) Section 32709(a) and (b) applies to a person granting or granted a power of attorney under this paragraph.
 
-(3)(A) A motor vehicle the ownership of which is transferred may be licensed for use in a State only if the title issued by the State to the transferee—
+(3)(A) A motor vehicle the ownership of which is transferred may not be licensed for use in a State unless the title issued by the State to the transferee—
 
 &emsp;(i) is produced by means of a secure printing process (or other secure process);
 
@@ -68,7 +66,7 @@ Leased Motor Vehicles.—(1) For a leased motor vehicle, the regulations prescri
 
 (d)
 
-State Alternate Vehicle Mileage Disclosure Requirements.—The requirements of subsections (b) and (c)(1) of this section on the disclosure of motor vehicle mileage when motorvehicles are transferred or leased apply in a State unless the State has in effect alternate motor vehicle mileage disclosure requirements approved by the Secretary. The Secretary shall approve alternate motor vehicle mileage disclosure requirements submitted by a State unless the Secretary decides that the requirements are not consistent with the purpose of the disclosure required by subsection (b) or (c), as the case may be.
+State Alternate Vehicle Mileage Disclosure Requirements.—The requirements of subsections (b) and (c)(1) of this section on the disclosure of motor vehicle mileage when motor vehicles are transferred or leased apply in a State unless the State has in effect alternate motor vehicle mileage disclosure requirements approved by the Secretary. The Secretary shall approve alternate motor vehicle mileage disclosure requirements submitted by a State unless the Secretary decides that the requirements are not consistent with the purpose of the disclosure required by subsection (b) or (c), as the case may be.
 
 (e)
 
@@ -84,15 +82,17 @@ Auction Sales.—If a motor vehicle is sold at an auction, the auction company c
 
 Application and Revision of State Law.—(1) Except as provided in paragraph (2) of this subsection, subsections (b)–(e) of this section apply to the transfer of a motor vehicle after April 28, 1989.
 
-(2) If a State requests, the Secretary shall assist the State in revising its laws to comply with subsection (b) of this section. If a State requires time beyond April 28, 1989, to revise its laws to achieve compliance, the Secretary, on request of the State, may grant additional time that the Secretary considers reasonable by publishing a notice in the Federal Register. The notice shall include the reasons for granting the additional time. In granting additional time, the Secretary shall ensure that the State is making reasonable efforts to achieve compliance.
+(2) If a State requests, the Secretary shall assist the State in revising its laws to comply with subsection (b) of this section. If a State requires time beyond April 28, 1989, to revise its laws to achieve compliance, the Secretary, on request of the State, may grant additional time that the Secretary considers reasonable by publishing a notice in the Federal Register. The notice shall include the reasons for granting the additional time. In granting additional time, theSecretary shall ensure that the State is making reasonable efforts to achieve compliance.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1049; Pub. L. 103–429, §6(34), Oct. 31, 1994, 108 Stat. 4380.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1049; Pub. L. 103–429, §6(34), Oct. 31, 1994, 108 Stat. 4380; Pub. L. 104–287, §5(62), Oct. 11, 1996, 110 Stat. 3394.)
 
 Historical and Revision Notes
 
 Pub. L. 103–272
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -172,9 +172,33 @@ In subsection (f)(1), the text of section 2(c)(3) of the Truth in Mileage Act of
 
 This amends 49:32705(c)(2)(A) to clarify the restatement of 15:1988(e)(2)(A) by section 1 of the Act of July 5, 1994 (Public Law 103–272, 108 Stat. 1051).
 
+#### Pub. L. 104–287
+
+This amends 49:32702(8) and 32705 to clarify the restatement of 15:1982(5) and 1988 by section 1 of the Act of July 5, 1994 (Public Law 103–272, 108 Stat. 1049).
+
 #### Amendments
 
+1996—Subsec. (a). Pub. L. 104–287, §5(62)(A), substituted “Disclosure requirements” for “Written disclosure requirements” in heading and amended text generally. Prior to amendment, text read as follows:
+
+“(1) Under regulations prescribed by the Secretary of Transportation, a person transferring ownership of a motor vehicle shall give the transferee a written disclosure—
+
+&emsp;“(A) of the cumulative mileage registered by the odometer; or
+
+&emsp;“(B) that the mileage is unknown if the transferor knows that the mileage registered by the odometer is incorrect.
+
+“(2) A person making a written disclosure required by a regulation prescribed under paragraph (1) of this subsection may not make a false statement in the disclosure.
+
+“(3) A person acquiring a motor vehicle for resale may accept a disclosure under this section only if it is complete.
+
+“(4) The regulations prescribed by the Secretary shall provide the way in which information is disclosed and retained under this section.”
+
+Subsec. (b)(3)(A). Pub. L. 104–287, §5(62)(B), substituted “may not be licensed for use in a State unless” for “may be licensed for use in a State only if” in introductory provisions.
+
 1994—Subsec. (c)(2)(A). Pub. L. 103–429 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “the mileage disclosure requirements of subsection (a) of this section; and”.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–287 effective July 5, 1994, see section 8(1) of Pub. L. 104–287, set out as a note under section 5303 of this title.
 
 #### Effective Date of 1994 Amendment
 

@@ -28,7 +28,7 @@ The Secretary of State may use funds appropriated or otherwise available to the 
 
 &emsp;(m) pay obligations arising under international agreements, conventions, and binational contracts to the extent otherwise authorized by law.
 
-(Aug. 1, 1956, ch. 841, title I, §2, 70 Stat. 890; July 12, 1960, Pub. L. 86–624, §2, 74 Stat. 411; Sept. 6, 1960, Pub. L. 86–707, title V, §511(a)(2), 74 Stat. 800; Aug. 1, 1962, Pub. L. 87–565, pt. IV, §402, 76 Stat. 263; renumbered title I, Aug. 24, 1982, Pub. L. 97–241, title II, §202(a), 96 Stat. 282; Oct. 19, 1984, Pub. L. 98–533, title III, §303(a), 98 Stat. 2710; Aug. 16, 1985, Pub. L. 99–93, title I, §§114, 118(a) 99 Stat. 411, 412; Feb. 16, 1990, Pub. L. 101–246, title I, §111, 104 Stat. 21; Mar. 27, 1991, Pub. L. 102–20, §4, 105 Stat. 68; Oct. 28, 1991, Pub. L. 102–138, title I, §120, 105 Stat. 658; Apr. 30, 1994, Pub. L. 103–236, title I, §§137, 162(k)(4), 180(b), 108 Stat. 397, 409, 416.)
+(Aug. 1, 1956, ch. 841, title I, §2, 70 Stat. 890; July 12, 1960, Pub. L. 86–624, §2, 74 Stat. 411; Sept. 6,1960, Pub. L. 86–707, title V, §511(a)(2), 74 Stat. 800; Aug. 1, 1962, Pub. L. 87–565, pt. IV, §402, 76 Stat. 263; renumbered title I, Aug. 24, 1982, Pub. L. 97–241, title II, §202(a), 96 Stat. 282; Oct. 19, 1984, Pub. L. 98–533, title III, §303(a), 98 Stat. 2710; Aug. 16, 1985, Pub. L. 99–93, title I, §§114, 118(a) 99 Stat. 411, 412; Feb. 16, 1990, Pub. L. 101–246, title I, §111, 104 Stat. 21; Mar. 27, 1991, Pub. L. 102–20, §4, 105 Stat. 68; Oct. 28, 1991, Pub. L. 102–138, title I, §120, 105 Stat. 658; Apr. 30, 1994, Pub. L. 103–236, title I, §§137, 162(k)(4), 180(b), 108 Stat. 397, 409, 416.)
 
 #### References in Text
 

@@ -6,7 +6,7 @@ Disability, Non-Regular Service, Warrant Officer, and DOPMA Retirement.—The mo
 
 &nbsp;
 
-| Formula No. | For sections | Column 1Take | Column 2Multiply by | Column 3Add | Column 4Subtrac |
+| Formula No. | For sections | Column 1Take | Column 2Multiply by | Column 3Add | Column 4Subtract |
 | --- | :---: | :---: | :---: | :---: | ---: |
 | 1 | 12011204 | Retired pay base as computed under section 1406(b) or 1407. | As member elects—  (1) 21/2% of years of service credited to him under section 1208; <sup>1</sup> or  (2) the percentage of disability on date when retired. | &nbsp; | Excess over 75% of retired pay base upon which computation is based. |
 |  |  |  |  |  |  |
@@ -22,7 +22,7 @@ Disability, Non-Regular Service, Warrant Officer, and DOPMA Retirement.—The mo
 
 Use of Most Favorable Formula.—If a person would otherwise be entitled to retired pay computed under more than one formula of the table in subsection (a) or of any other provision of law, the person is entitled to be paid under the applicable formula that is most favorable to him.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 106; May 20, 1958, Pub. L. 85–422, §§6(7), 11(a)(2), 72 Stat. 129, 131; Oct. 2, 1963, Pub. L. 88–132, §5(h)(1), 77 Stat. 214; Aug. 21, 1965, Pub. L. 89–132, §6, 79 Stat. 547; Dec. 16, 1967, Pub. L. 90–207, §3(1), 81 Stat. 653; Oct. 2, 1972, Pub. L. 92–455, §1, 86 Stat. 761; Sept. 8, 1980, Pub. L. 96–342, title VIII, §813(b)(1), 94 Stat. 1102; Dec. 12, 1980, Pub. L. 96–513, title I, §113(a), title V, §511(49), 94 Stat. 2876, 2924; Sept. 24, 1983, Pub. L. 98–94, title IX, §§922(a)(1), 923(a)(1), (2)(A), 97 Stat. 641, 642; Oct. 30, 1984, Pub. L. 98–557, §35(b), 98 Stat. 2877; July 1, 1986, Pub. L. 99–348, title II, §201(a), 100 Stat. 691; Oct. 23, 1992, Pub. L. 102–484, div. A, title X, §1052(18), 106 Stat. 2500; Oct. 5, 1994, Pub. L. 103–337, div. A, title XVI, §1662(j)(2), 108 Stat. 3004.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 106; May 20, 1958, Pub. L. 85–422, §§6(7), 11(a)(2), 72 Stat. 129, 131; Oct. 2, 1963, Pub. L. 88–132, §5(h)(1), 77 Stat. 214; Aug. 21, 1965, Pub. L. 89–132, §6, 79 Stat. 547; Dec. 16, 1967, Pub. L. 90–207, §3(1), 81 Stat. 653; Oct. 2, 1972, Pub. L. 92–455, §1, 86 Stat. 761; Sept. 8, 1980, Pub. L. 96–342, title VIII, §813(b)(1), 94 Stat. 1102; Dec. 12, 1980, Pub. L. 96–513, title I, §113(a), title V, §511(49), 94 Stat. 2876, 2924; Sept. 24, 1983, Pub. L. 98–94, title IX, §§922(a)(1), 923(a)(1), (2)(A), 97 Stat. 641, 642; Oct. 30, 1984, Pub. L. 98–557, §35(b), 98 Stat. 2877; July 1, 1986, Pub. L. 99–348, title II, §201(a), 100 Stat. 691; Oct. 23, 1992, Pub. L. 102–484, div. A, title X, §1052(18),106 Stat. 2500; Oct. 5, 1994, Pub. L. 103–337, div. A, title XVI, §1662(j)(2), 108 Stat. 3004.)
 
 Historical and Revision Notes
 
@@ -32,7 +32,13 @@ Historical and Revision Notes
 
 <i>Source (Statutes at Large)</i>
 
-1401Intro- duc- tory clause
+1401 Introductory clause
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 1401(1)
 
@@ -49,6 +55,10 @@ June 29, 1948, ch. 708, §303 (1st 91 words and 1st proviso), 62 Stat. 1088.
 Oct. 12, 1949, ch. 681, §§402(d) (less 30th through 55th words; less 104th through 128th words, as applicable to retired grade; and less 2d, 5th, and last provisos), 402(e) (1st proviso of last sentence), 63 Stat. 818, 819.
 
 1401(2)
+
+&nbsp;
+
+&nbsp;
 
 1401(3)
 
@@ -108,7 +118,7 @@ In footnote 3, the words “and disregard a part of a year that is less than six
 
 1992—Subsec. (a). Pub. L. 102–484 substituted “580” for “564” in column in table under heading “For sections”.
 
-1986—Subsec. (a). Pub. L. 99–348, §201(a)(1), (2), designated existing provision as subsec. (a), added heading,and struck out third, fourth, and fifth sentences which read as follows: “The amount computed, if not a multiple of $1, shall be rounded to the next lower multiple of $1. However, if a person would otherwise be entitled to retired pay computed under more than one pay formula of this table or of any other provision of law, he is entitled to be paid under the applicable formula that is most favorable to him. Section references below are to sections of this title.”
+1986—Subsec. (a). Pub. L. 99–348, §201(a)(1), (2), designated existing provision as subsec. (a), added heading, and struck out third, fourth, and fifth sentences which read as follows: “The amount computed, if not a multiple of $1, shall be rounded to the next lower multiple of $1. However, if a person would otherwise be entitled to retired pay computed under more than one pay formula of this table or of any other provision of law, he is entitled to be paid under the applicable formula that is most favorable to him. Section references below are to sections of this title.”
 
 Pub. L. 99–348, §201(a)(3), amended column 1 of table generally by substituting provisions that retired pay be computed by taking the retired pay base as computed under section 1406(b) or 1407 of this title for provisions that retired pay be computed for a person who first became a member of a uniformed service, as defined in section 1407(a)(2) of this title, after Sept. 7, 1980, by taking the monthly retired pay base as computed under section 1407(b) of this title, and for all others, by taking the monthly basic pay to which the member was entitled under various circumstances.
 
@@ -126,7 +136,7 @@ Subsec. (b). Pub. L. 99–348, §201(a)(8), added subsec. (b).
 
 1983—Pub. L. 98–94, §922(a)(1), inserted “The amount computed, if not a multiple of $1, shall be rounded to the next lower multiple of $1.”
 
-Pub. L. 98–94, §923(a)(1), (2)(A), in footnote 3 of table, substituted “Before applying percentage factor, credit each full month of service that is in addition to the number of full years of service creditable to the member as one-twelfth of a year and disregard any remaining fractional part of a month” for “Before applying percentage factor, credit a part of a year that is six months or more as a whole year, and disregard a part of a year that is less than six months”.
+Pub. L. 98–94, §923(a)(1), (2)(A), in footnote 3 of table, substituted “Before applying percentage factor, crediteach full month of service that is in addition to the number of full years of service creditable to the member as one-twelfth of a year and disregard any remaining fractional part of a month” for “Before applying percentage factor, credit a part of a year that is six months or more as a whole year, and disregard a part of a year that is less than six months”.
 
 1980—Pub. L. 96–513, §113(a), inserted formula 5 in table of formulae set out in the section and added footnote 5.
 
@@ -244,7 +254,7 @@ Pub. L. 89–501, title III, §303, July 13, 1966, 80 Stat. 278, provided that: 
 
 Effective date of section 303 of Pub. L. 89–501 as the first day of the first pay period which begins on or after July 1, 1966, see section 304 of Pub. L. 89–501, set out as Effective Date of 1966 Amendments note under section 203 of Title 37, Pay and Allowances of the Uniformed Services.
 
-Section 5(a) of Pub. L. 89–132 provided that: “The retired pay or retainer pay of a member or former member of a uniformed service who is entitled to that pay computed under rates of basic pay in effect before theeffective date of this Act \[Sept. 1, 1965\] shall be increased, effective that date, by the per centum (adjusted to the nearest one-tenth of 1 per centum) that the Consumer Price Index (all items—United States city average), published by the Bureau of Labor Statistics, for the calendar month immediately preceding the effective date of this Act has increased over the average monthly index for calendar year 1962.”
+Section 5(a) of Pub. L. 89–132 provided that: “The retired pay or retainer pay of a member or former member of a uniformed service who is entitled to that pay computed under rates of basic pay in effect before the effective date of this Act \[Sept. 1, 1965\] shall be increased, effective that date, by the per centum (adjusted to the nearest one-tenth of 1 per centum) that the Consumer Price Index (all items—United States city average), published by the Bureau of Labor Statistics, for the calendar month immediately preceding the effective date of this Act has increased over the average monthly index for calendar year 1962.”
 
 #### Continuation of Pay and Allowances of Certain Persons Who Served as Generals of the Army, Fleet Admirals of the Navy, General of the Marine Corps, or Admiral in the Coast Guard
 
@@ -270,7 +280,7 @@ Section 1(b) of Pub. L. 85–855 provided that the amendment of section 4(a) of 
 
 #### Public Health Service
 
-Authority vested by this chapter in “military departments”, “the Secretary concerned”, or “the Secretary of Defense” to be exercised, with respect to commissioned officers of Public Health Service, by Secretary of Health and Human Services or his designee, see section 213a of Title 42, The Public Health and Welfare.
+Authority vested by this chapter in “military departments”, “the Secretary concerned”, or “the Secretaryof Defense” to be exercised, with respect to commissioned officers of Public Health Service, by Secretary of Health and Human Services or his designee, see section 213a of Title 42, The Public Health and Welfare.
 
 #### National Oceanic and Atmospheric Administration
 

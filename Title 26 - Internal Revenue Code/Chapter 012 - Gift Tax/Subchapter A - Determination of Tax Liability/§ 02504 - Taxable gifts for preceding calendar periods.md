@@ -22,7 +22,7 @@ If the time has expired within which a tax may be assessed under this chapter or
 
 The term “net gifts” as used in the corresponding provisions of prior laws shall be read as “taxable gifts” for purposes of this chapter.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 405; Dec. 31, 1970, Pub. L. 91–614, title I, §102(a)(4)(A), 84 Stat. 1839; Oct. 4, 1976, Pub. L. 94–455, title XX, §2001(c)(2)(A), 90 Stat. 1853; Aug. 13, 1981, Pub. L. 97–34, title IV, §442(a)(4)(A)–(D), 95 Stat. 321.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 405; Dec. 31, 1970, Pub. L. 91–614, title I, §102(a)(4)(A), 84 Stat. 1839;Oct. 4, 1976, Pub. L. 94–455, title XX, §2001(c)(2)(A), 90 Stat. 1853; Aug. 13, 1981, Pub. L. 97–34, title IV, §442(a)(4)(A)–(D), 95 Stat. 321.)
 
 #### References in Text
 
@@ -42,7 +42,7 @@ Subsec. (c). Pub. L. 97–34, §442(a)(4)(C), substituted in heading “calendar
 
 1970—Pub. L. 91–614 substituted “Taxable gifts for preceding years and quarters” for “Taxable gifts for preceding years” in section catchline.
 
-Subsec. (a). Pub. L. 91–614 substituted “In computing taxable gifts for the preceding calendar years or calendar quarters for the purpose of computing the tax for any calendar quarter,” for “In computing taxable gifts for the calendar year 1954 and preceding calendar yearsfor the purpose of computing the tax for the calendar year 1955 or any calendar year thereafter,” provided that the laws applicable in the calendar quarters as well as the years in which the transfers in question were made shall apply, and substituted “previous calendar years or calendar quarters for the purpose of computing the tax for any calendar year or calendar quarter” for “the calendar year 1954 and previous calendar years for the purpose of computing the tax for the calendar year 1955 or any calendar year thereafter”.
+Subsec. (a). Pub. L. 91–614 substituted “In computing taxable gifts for the preceding calendar years or calendar quarters for the purpose of computing the tax for any calendar quarter,” for “In computing taxable gifts for the calendar year 1954 and preceding calendar years for the purpose of computing the tax for the calendar year 1955 or any calendar year thereafter,” provided that the laws applicable in the calendar quarters as well as the years in which the transfers in question were made shall apply, and substituted “previous calendar years or calendar quarters for the purpose of computing the tax for any calendar year or calendar quarter” for “the calendar year 1954 and previous calendar years for the purpose of computing the tax for the calendar year 1955 or any calendar year thereafter”.
 
 Subsec. (b). Pub. L. 91–614 inserted reference to calendar quarters in heading, substituted “during preceding calendar years and calendar quarters,” for “during the calendar year 1954 and preceding calendar years,” made reference to the amount excluded by gift tax laws applicable to the calendar quarters as well as years in which the gifts were made, and substituted “during such years and calendar quarters” for “during such year”.
 

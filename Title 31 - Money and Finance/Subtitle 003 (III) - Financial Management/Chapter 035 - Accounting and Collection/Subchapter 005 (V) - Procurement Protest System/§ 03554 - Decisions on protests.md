@@ -1,6 +1,6 @@
 ### §3554. Decisions on protests
 
-(a)(1) To the maximum extent practicable, the Comptroller General shall provide for the inexpensive and expeditious resolution of protests under this subchapter. Except as provided under paragraph (2) of this subsection, the Comptroller General shall issue a final decision concerning a protest within 125 days after the date the protest is submitted to the Comptroller General.
+(a)(1) To the maximum extent practicable, the Comptroller General shall provide for the inexpensive and expeditious resolution of protests under this subchapter. Except as provided under paragraph (2) of this subsection, the Comptroller General shall issue a final decision concerning a protest within 100 days after the date the protest is submitted to the Comptroller General.
 
 (2) The Comptroller General shall, by regulation prescribed pursuant to section 3555 of this title, establish an express option for deciding those protests which the Comptroller General determines suitable for resolution within 65 days after the date the protest is submitted.
 
@@ -24,7 +24,7 @@
 
 &emsp;(G) implement such other recommendations as the Comptroller General determines to be necessary in order to promote compliance with procurement statutes and regulations.
 
-(2) If the head of the procuring activity responsible for a contract makes a finding under section 3553(d)(2)(A)(i) <sup>1</sup> of this title, the Comptroller General shall make recommendations under this subsection without regard to any cost or disruption from terminating, recompeting, or reawarding the contract.
+(2) If the head of the procuring activity responsible for a contract makes a finding under section 3553(d)(3)(C)(i)(I) of this title, the Comptroller General shall make recommendations under this subsection without regard to any cost or disruption from terminating, recompeting, or reawarding the contract.
 
 (3) If the Federal agency fails to implement fully the recommendations of the Comptroller General under this subsection with respect to a solicitation for a contract or an award or proposed award of a contract within 60 days after receiving the recommendations, the head of the procuring activity responsible for that contract shall report such failure to the Comptroller General not later than 5 days after the end of such 60-day period.
 
@@ -46,13 +46,13 @@
 
 &emsp;(B) if the Federal agency does not make such payment, promptly report to the Comptroller General the reasons for the failure to follow the Comptroller General's recommendation.
 
-(4) If the Comptroller General recommends under paragraph (1) that a Federal agency pay costs to an interested party, the Federal agency and the interested party shall attempt to reach an agreement on the amount of the costs to be paid. If the Federal agency and the interested party are unable to agree on the amount to be paid, the Comptroller General may, upon the request of the interested party, recommend to theFederal agency the amount of the costs that the Federal agency should pay.
+(4) If the Comptroller General recommends under paragraph (1) that a Federal agency pay costs to an interested party, the Federal agency and the interested party shall attempt to reach an agreement on the amount of the costs to be paid. If the Federal agency and the interested party are unable to agree on the amount to be paid, the Comptroller General may, upon the request of the interested party, recommend to the Federal agency the amount of the costs that the Federal agency should pay.
 
 (d) Each decision of the Comptroller General under this subchapter shall be signed by the Comptroller General or a designee for that purpose. A copy of the decision shall be made available to the interested parties, the head of the procuring activity responsible for the solicitation, proposed award, or award of the contract, and the senior procurement executive of the Federal agency involved.
 
-(e)(1) The Comptroller General shall report promptly to the Committee on Governmental Affairs and the Committee on Appropriations of the Senate and to the Committee on Government Operations and the Committee on Appropriations of the House of Representatives any case in which a Federal agency fails to implement fully a recommendation of the Comptroller General under subsection (b) or (c). The report shall include—
+(e)(1) The Comptroller General shall report promptly to the Committee on Governmental Affairs and the Committee on Appropriations of the Senate and to the Committee on Government Reform and Oversight and the Committee on Appropriations of the House of Representatives any case in which a Federal agency fails to implement fully a recommendation of the Comptroller General under subsection (b) or (c). The report shall include—
 
-&emsp;(A) a comprehensive review of the pertinent procurement, including the circumstances of the failure of the Federal agency to implement a recommendation of the Comptroller General; and
+&emsp;(A) a comprehensive review of the pertinent procurement, including the circumstances of the failure of the Federal agency to implementa recommendation of the Comptroller General; and
 
 &emsp;(B) a recommendation regarding whether, in order to correct an inequity or to preserve the integrity of the procurement process, the Congress should consider—
 
@@ -64,17 +64,23 @@
 
 &emsp;&emsp;(iv) other action.
 
-(2) Not later than January 31 of each year, the Comptroller General shall transmit to the Congress a report containing a summary of each instance in which a Federal agency did not fully implement a recommendation of the Comptroller General under subsection (b) or (c) during the preceding year. The report shall also describe each instance in which a final decision in a protest was not rendered within 125 days after the date the protest is submitted to the Comptroller General.
+(2) Not later than January 31 of each year, the Comptroller General shall transmit to the Congress a report containing a summary of each instance in which a Federal agency did not fully implement a recommendation of the Comptroller General under subsection (b) or (c) during the preceding year. The report shall also describe each instance in which a final decision in a protest was not rendered within 100 days after the date the protest is submitted to the Comptroller General.
 
-(Added Pub. L. 98–369, div. B, title VII, §2741(a), July 18, 1984, 98 Stat. 1201; amended Pub. L. 100–463, title VIII, §8139, Oct. 1, 1988, 102 Stat. 2270–47; Pub. L. 103–355, title I, §1403(a)–(b)(3), Oct. 13, 1994, 108 Stat. 3289, 3290.)
+(Added Pub. L. 98–369, div. B, title VII, §2741(a), July 18, 1984, 98 Stat. 1201; amended Pub. L. 100–463, title VIII, §8139, Oct. 1, 1988, 102 Stat. 2270–47; Pub. L. 103–355, title I, §1403(a)–(b)(3), Oct. 13, 1994, 108 Stat. 3289, 3290; Pub. L. 104–106, div. D, title XLIII, §4321(d)(3), div. E, title LV, §5501(2), Feb. 10, 1996, 110 Stat. 674, 698.)
 
 #### References in Text
-
-Section 3553(d) of this title, referred to in subsec. (b)(2), was amended generally by Pub. L. 103–355, title I, §1402(b), Oct. 13, 1994, 108 Stat. 3288, and, as so amended, provisions formerly appearing in subsec. (d)(2)(A)(i) of section 3553 are now contained in subsec. (d)(3)(C)(i)(I) of that section.
 
 Section 3(a) of the Small Business Act, referred to in subsec. (c)(2), is classified to section 632(a) of Title 15, Commerce and Trade.
 
 #### Amendments
+
+1996—Subsec. (a)(1). Pub. L. 104–106, §5501(2)(A), substituted “100 days” for “125 days”.
+
+Subsec. (b)(2). Pub. L. 104–106, §4321(d)(3), substituted “section 3553(d)(3)(C)(i)(I)” for “section 3553(d)(2)(A)(i)”.
+
+Subsec. (e)(1). Pub. L. 104–106, §5501(2)(B)(i), substituted “Government Reform and Oversight” for “Government Operations”.
+
+Subsec. (e)(2). Pub. L. 104–106, §5501(2)(B)(ii), substituted “100 days” for “125 days”.
 
 1994—Subsec. (a)(1). Pub. L. 103–355, §1403(a)(1), substituted “125 days after” for “90 working days from”.
 
@@ -102,9 +108,11 @@ Subsec. (e). Pub. L. 103–355, §1403(b)(3), amended subsec. (e) generally. Pri
 
 1988—Subsec. (a)(1). Pub. L. 100–463 struck out “unless the Comptroller General determines and states in writing the reasons that the specific circumstances of the protest require a longer period” after “submitted to the Comptroller General” before period at end.
 
-#### Change of Name
+#### Effective Date of 1996 Amendment
 
-Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+For effective date and applicability of amendment by section 4321(d)(3) of Pub. L. 104–106, see section 4401 of Pub. L. 104–106, set out as a note under section 251 of Title 41, Public Contracts.
+
+Amendment by section 5501(2) of Pub. L. 104–106 effective 180 days after Feb. 10, 1996, see section 5701 of Pub. L. 104–106, set out as an Effective Date note under section 1401 of Title 40, Public Buildings, Property, and Works.
 
 #### Effective Date of 1994 Amendment
 
@@ -121,6 +129,4 @@ Section 1403(b)(4) of Pub. L. 103–355 provided that: “Costs to which the Com
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 3553, 3555, 3556 of this title; title 10 section 2305; title 41 section 253b.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

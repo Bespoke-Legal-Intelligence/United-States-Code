@@ -28,9 +28,5 @@ Sections 1913, 1914, and 1917 of this title, referred to in text, were repealed 
 
 Section 1917 of this title, referred to in subsecs. (a) to (c), was in the original “section 317”, meaning section 317 of Pub. L. 87–794, which enacted section 1917 of this title and amended sections 172(b), 6501(h), and 6511(d)(2)(A) of Title 26, Internal Revenue Code.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 15 section 636.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

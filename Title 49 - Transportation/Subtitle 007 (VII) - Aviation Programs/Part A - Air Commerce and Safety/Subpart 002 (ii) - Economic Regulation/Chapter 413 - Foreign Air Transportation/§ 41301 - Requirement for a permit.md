@@ -6,7 +6,9 @@ A foreign air carrier may provide foreign air transportation only if the foreign
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -22,5 +24,5 @@ The word “provide” is substituted for “engage in” for consistency in the
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 40109, 41703, 46301 of this title.
+This section is referred to in section 41703 of this title.
 

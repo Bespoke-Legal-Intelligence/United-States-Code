@@ -12,7 +12,7 @@ Except as otherwise provided in this section, any depository institution which f
 
 &emsp;&emsp;(i) as to each member of the class, no minimum recovery shall be applicable; and
 
-&emsp;&emsp;(ii) the total recovery under this subparagraph in any class action or series of class actions arising out of the same failure to comply by the same depository institution shall not be more than the lesser of $500,000 or 1 percent of the net worth of the depository institution involved; and
+&emsp;&emsp;(ii) the total recovery under this subparagraph in any class action or series of class actions arising out of the same failure to comply by the same depository institutionshall not be more than the lesser of $500,000 or 1 percent of the net worth of the depository institution involved; and
 
 &emsp;(3) in the case of any successful action to enforce any liability under paragraph (1) or (2), the costs of the action, together with a reasonable attorney's fee as determined by the court.
 
@@ -101,6 +101,10 @@ If more than 1 person holds an interest in any account—
 &emsp;This subsection shall not limit or otherwise affect the enforcement power under section 4309 of this title of any agency referred to in subsection (a) of such section.
 
 (Pub. L. 102–242, title II, §271, Dec. 19, 1991, 105 Stat. 2340; Pub. L. 102–550, title XVI, §1604(e)(2)(L)–(O), Oct. 28, 1992, 106 Stat. 4084.)
+
+#### Repeal of Section
+
+<i>Pub. L. 104–208, div. A, title II, §2604(a), Sept. 30, 1996, 110 Stat. 3009–470, provided that, effective as of the end of the 5-year period beginning Sept. 30, 1996, this section is repealed.</i>
 
 #### Amendments
 

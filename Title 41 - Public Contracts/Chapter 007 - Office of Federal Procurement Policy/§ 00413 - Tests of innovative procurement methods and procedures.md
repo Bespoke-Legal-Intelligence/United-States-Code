@@ -1,6 +1,6 @@
 ### §413. Tests of innovative procurement methods and procedures
 
-(a) The Administrator may develop innovative procurement methods and procedures to be tested by selected executive agencies. The innovative procurement methods and procedures tested under this subsection shall be consistent with the policies set forth in section 401 of this title. In developing any program to test innovative procurement methods and procedures under this subsection, the Administrator shall consult with the heads of executive agencies to—
+(a) The Administrator may develop innovative procurement methods and procedures to be tested by selected executive agencies. In developing any program to test innovative procurement methods and procedures under this subsection, the Administrator shall consult with the heads of executive agencies to—
 
 &emsp;(1) ascertain the need for and specify the objectives of such program;
 
@@ -18,11 +18,15 @@
 
 (b) If the Administrator determines that it is necessary to waive the application of any provision of law in order to carry out a proposed program to test innovative procurement methods and procedures under subsection (a) of this section, the Administrator shall transmit notice of the proposed program to the Committee on Government Operations of the House of Representatives and the Committee on Governmental Affairs of the Senate and request that such committees take such action as may be necessary to provide that such provision of law does not apply with respect to the proposed program. The notification to Congress shall include a description of the proposed program (including the scope and purpose of the proposed program), the procedures to be followed in carrying out the proposed program, the provisions of law affected and any provision of law the application of which must be waived in order to carry out the proposed program, and the executive agencies involved in carrying out the proposed program.
 
-(Pub. L. 93–400, §15, as added Pub. L. 98–191, §7, Dec. 1, 1983, 97 Stat. 1329.)
+(Pub. L. 93–400, §15, as added Pub. L. 98–191, §7, Dec. 1, 1983, 97 Stat. 1329; amended Pub. L. 104–201, div. A, title X, §1074(f)(2), Sept. 23, 1996, 110 Stat. 2661.)
 
 #### Prior Provisions
 
 A prior section 15 of Pub. L. 93–400 amended sections 474, 481, and 487 of Title 40, Public Buildings, Property, and Works.
+
+#### Amendments
+
+1996—Subsec. (a). Pub. L. 104–201 struck out after first sentence “The innovative procurement methods and procedures tested under this subsection shall be consistent with the policies set forth in section 401 of this title.”
 
 #### Change of Name
 
@@ -30,7 +34,7 @@ Committee on Government Operations of House of Representatives treated as referr
 
 #### Test Program for Executive Agencies
 
-Pub. L. 103–355, title V, §5061, Oct. 13, 1994, 108 Stat. 3352, provided that:
+Pub. L. 103–355, title V, §5061, Oct. 13, 1994, 108 Stat. 3352, as amended by Pub. L. 104–106, div. D, title XLIII, §4302(a), Feb. 10, 1996, 110 Stat. 658, provided that:
 
 “(a)
 
@@ -170,9 +174,7 @@ Report.—Not later than 6 months after completion of a test conducted under sub
 
 “(j)
 
-Commencement and Expiration of Authority.—(1) The Administrator may not exercise the authority to conduct a test under subsection (a) in an agency and to award contracts under such a test before the date on which the head of the agency certifies to Congressunder section 30A(a)(2) of the Office of Federal Procurement Policy Act \[41 U.S.C. 426a(a)(2)\] that the agency has implemented a full FACNET capability.
-
-“(2) The authority to conduct a test under subsection (a) in an agency and to award contracts under such a test shall expire 4 years after the date on which the head of the agency makes the certification referred to in paragraph (1). Contracts entered into before such authority expires in an agency pursuant to a test shall remain in effect, notwithstanding the expiration of the authority to conduct the test under this section.
+Commencement and Expiration of Authority.—The authority to conduct a test under subsection (a) inan agency and to award contracts under such a test shall take effect on January 1, 1997, and shall expire on January 1, 2001. A contract entered into before such authority expires in an agency pursuant to a test shall remain in effect, in accordance with the terms of the contract, the notwithstanding of expiration the authority to conduct the test under this section.
 
 “(k)
 

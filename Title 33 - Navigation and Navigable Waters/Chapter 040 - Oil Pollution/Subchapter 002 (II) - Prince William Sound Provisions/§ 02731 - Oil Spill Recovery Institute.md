@@ -2,7 +2,7 @@
 
 #### (a) Establishment of Institute
 
-The Secretary of Commerce shall provide for the establishment of a Prince William Sound Oil Spill Recovery Institute (hereinafter in this section referred to as the “Institute”) to be administered by the Secretary of Commerce through the Prince William Sound Science and Technology Institute and located in Cordova, Alaska.
+The Secretary of Commerce shall provide for the establishment of a Prince William Sound Oil Spill Recovery Institute (hereinafter in this section referred to as the “Institute”) through the Prince William Sound Science and Technology Institute located in Cordova, Alaska.
 
 #### (b) Functions
 
@@ -10,31 +10,29 @@ The Institute shall conduct research and carry out educational and demonstration
 
 &emsp;(1) identify and develop the best available techniques, equipment, and materials for dealing with oil spills in the arctic and subarctic marine environment; and
 
-&emsp;(2) complement Federal and State damage assessment efforts and determine, document, assess, and understand the long-range effects of the EXXON VALDEZ oil spill on the natural resources of Prince William Sound and its adjacent waters (as generally depicted on the map entitled “EXXON VALDEZ oil spill dated March 1990”), and the environment, the economy, and the lifestyle and well-being of the people who are dependent on them, except that the Institute shall not conduct studies or make recommendations on any matter which is not directly related to the EXXON VALDEZ oil spill or the effects thereof.
+&emsp;(2) complement Federal and State damage assessment efforts and determine, document, assess, and understand the long-range effects of Arctic or Subarctic oil spills on the natural resources of Prince William Sound and its adjacent waters (as generally depicted on the map entitled “EXXON VALDEZ oil spill dated March 1990”), and the environment, the economy, and the lifestyle and well-being of the people who are dependent on them, except that the Institute shall not conduct studies or make recommendations on any matter which is not directly related to Arctic or Subarctic oil spills or the effects thereof.
 
 #### (c) Advisory board
 
 #### (1) In general
 
-&emsp;The policies of the Institute shall be determined by an advisory board, composed of 18 members appointed as follows:
+&emsp;The policies of the Institute shall be determined by an advisory board, composed of 16 members appointed as follows:
 
-&emsp;&emsp;(A) One representative appointed by each of the Commissioners of Fish and Game, Environmental Conservation, Natural Resources, and Commerce and Economic Development of the State of Alaska, all of whom shall be State employees.
+&emsp;&emsp;(A) One representative appointed by each of the Commissioners of Fish and Game, Environmental Conservation, and Natural Resources of the State of Alaska, all of whom shall be State employees.
 
-&emsp;&emsp;(B) One representative appointed by each of—
+&emsp;&emsp;(B) One representative appointed by each of the Secretaries of Commerce, the Interior, and Transportation, who shall be Federal employees.
 
-&emsp;&emsp;&emsp;(i) the Secretaries of Commerce, the Interior, Agriculture, Transportation, and the Navy; and
+&emsp;&emsp;(C) Two representatives from the fishing industry appointed by the Governor of the State of Alaska from among residents of communities in Alaska that were affected by the EXXON VALDEZ oil spill, who shall serve terms of 2 years each. Interested organizations from within the fishing industry may submit the names of qualified individuals for consideration by the Governor.
 
-&emsp;&emsp;&emsp;(ii) the Administrator of the Environmental Protection Agency;
+&emsp;&emsp;(D) Two Alaska Natives who represent Native entities affected by the EXXON VALDEZ oil spill, at least one of whom represents an entity located in Prince William Sound, appointed by the Governor of Alaska from a list of 4 qualified individuals submitted by the Alaska Federation of Natives, who shall serve terms of 2 years each.
 
-> &emsp;&emsp;all of whom shall be Federal employees.
+&emsp;&emsp;(E) Two representatives from the oil and gas industry to be appointed by the Governor of the State of Alaska who shall serve terms of 2 years each. Interested organizations from within the oil and gas industry may submit the names of qualified individuals for consideration by the Governor.
 
-&emsp;&emsp;(C) 4 representatives appointed by the Secretary of Commerce from among residents of communities in Alaska that were affected by the EXXON VALDEZ oil spill who are knowledgeable about fisheries, other local industries, the marine environment, wildlife, public health, safety, or education. At least 2 of the representatives shall be appointed from among residents of communities located in Prince William Sound. The Secretary shall appoint residents to serve terms of 2 years each, from a list of 8 qualified individuals to be submitted by the Governor of the State of Alaska based on recommendations made by the governing body of each affected community. Each affected community may submit the names of 2 qualified individuals for the Governor's consideration. No more than 5 of the 8 qualified persons recommended by the Governor shall be members of the same political party.
+&emsp;&emsp;(F) Two at-large representatives from among residents of communities in Alaska that were affected by the EXXON VALDEZ oil spill who are knowledgeable about the marine environment and wildlife within Prince William Sound, and who shall serve terms of 2 years each, appointed by the remaining members of the Advisory Board. Interested parties may submit the names of qualified individuals for consideration by the Advisory Board.
 
-&emsp;&emsp;(D) 3 Alaska Natives who represent Native entities affected by the EXXON VALDEZ oil spill, at least one of whom represents an entity located in Prince William Sound, to serve terms of 2 years each from a list of 6 qualified individuals submitted by the Alaska Federation of Natives.
+&emsp;&emsp;(G) One nonvoting representative of the Institute of Marine Science.
 
-&emsp;&emsp;(E) One nonvoting representative of the Institute of Marine Science.
-
-&emsp;&emsp;(F) One nonvoting representative appointed by the Prince William Sound Science and Technology Institute.
+&emsp;&emsp;(H) One nonvoting representative appointed by the Prince William Sound Science and Technology Institute.
 
 #### (2) Chairman
 
@@ -44,6 +42,10 @@ The Institute shall conduct research and carry out educational and demonstration
 
 &emsp;Policies determined by the Advisory Board under this subsection shall include policies for the conduct and support, through contracts and grants awarded on a nationally competitive basis, of research, projects, and studies to be supported by the Institute in accordance with the purposes of this section.
 
+#### (4) Scientific review
+
+&emsp;The Advisory Board may request a scientific review of the research program every five years by the National Academy of Sciences which shall perform the review, if requested, as part of its responsibilities under section 2761(b)(2) of this title.
+
 #### (d) Scientific and technical committee
 
 #### (1) In general
@@ -52,11 +54,11 @@ The Institute shall conduct research and carry out educational and demonstration
 
 #### (2) Functions
 
-&emsp;The Scientific and Technical Committee shall provide such advice to the Advisory Board as the Advisory Board shall request, including recommendations regarding the conduct and support of research, projects, and studies in accordance with the purposes of this section. The Advisory Board shall not request, and the Committee shall not provide, any advice which is not directly related to the EXXON VALDEZ oil spill or the effects thereof.
+&emsp;The Scientific and Technical Committee shall provide such advice to the Advisory Board as the Advisory Board shall request, including recommendations regarding the conduct and support of research, projects, and studies in accordance with the purposes of this section. The Advisory Board shall not request, and the Committee shall not provide, any advice which is not directly related to Arctic or Subarctic oil spills or the effects thereof.
 
 #### (e) Director
 
-The Institute shall be administered by a Director appointed by the Secretary of Commerce. The Prince William Sound Science and Technology Institute, the Advisory Board, and the Scientific and Technical Committee may each submit independent recommendations for the Secretary's consideration for appointment as Director. The Director may hire such staff and incur such expenses on behalf of the Institute as are authorized by the Advisory Board.
+The Institute shall be administered by a Director appointed by the Advisory Board. The Prince William Sound Science and Technology Institute and the Scientific and Technical Committee may each submit independent recommendations for the Advisory Board's consideration for appointment as Director. The Director may hire such staff and incur such expenses on behalf of the Institute as are authorized by the Advisory Board.
 
 #### (f) Evaluation
 
@@ -72,11 +74,11 @@ Employees of the Institute shall not, by reason of such employment, be considere
 
 #### (i) Termination
 
-The Institute shall terminate 10 years after August 18, 1990.
+The authorization in section 2736(b) of this title providing funding for the Institute shall terminate 10 years after October 19, 1996.
 
 #### (j) Use of funds
 
-All funds authorized for the Institute shall be provided through the National Oceanic and Atmospheric Administration. No funds made available to carry out this section may be used to initiate litigation. No funds made available to carry out this section may be used for the acquisition of real property (including buildings) or construction of any building. No more than 20 percent of funds made available to carry out this section may be used to lease necessary facilities and to administer the Institute. None of the funds authorized by this section shall be used for any purpose other than the functions specified in subsection (b) of this section.
+No funds made available to carry out this section may be used to initiate litigation. No funds made available to carry out this section may be used for the acquisition of real property (including buildings) or construction of any building. No more than 20 percent of funds made available to carry out this section may be used to lease necessary facilities and to administer the Institute. The Advisory Board may compensate its Federal representatives for their reasonable travel costs. None of the funds authorized by this section shall be used for any purpose other than the functions specified in subsection (b) of this section.
 
 #### (k) Research
 
@@ -86,7 +88,41 @@ The Institute shall publish and make available to any person upon request the re
 
 In this section, the term “Prince William Sound and its adjacent waters” means such sound and waters as generally depicted on the map entitled “EXXON VALDEZ oil spill dated March 1990”.
 
-(Pub. L. 101–380, title V, §5001, Aug. 18, 1990, 104 Stat. 542.)
+(Pub. L. 101–380, title V, §5001, Aug. 18, 1990, 104 Stat. 542; Pub. L. 104–324, title XI, §1102(a), Oct. 19, 1996, 110 Stat. 3964.)
+
+#### Amendments
+
+1996—Subsec. (a). Pub. L. 104–324, §1102(a)(1), (2), struck out “to be administered by the Secretary of Commerce” after “as the ‘Institute’)” and substituted “located” for “and located”.
+
+Subsec. (b)(2). Pub. L. 104–324, §1102(a)(3), substituted “Arctic or Subarctic oil spills” for “the EXXON VALDEZ oil spill” in two places.
+
+Subsec. (c)(1). Pub. L. 104–324, §1102(a)(4), substituted “16” for “18” in introductory provisions.
+
+Subsec. (c)(1)(A). Pub. L. 104–324, §1102(a)(5), substituted “, and Natural Resources” for “, Natural Resources, and Commerce and Economic Development”.
+
+Subsec. (c)(1)(B). Pub. L. 104–324, §1102(a)(6), (8), added subpar. (B) and struck out former subpar. (B) which read as follows: “One representative appointed by each of—
+
+&emsp;“(i) the Secretaries of Commerce, the Interior, Agriculture, Transportation, and the Navy; and
+
+&emsp;“(ii) the Administrator of the Environmental Protection Agency;
+
+> all of whom shall be Federal employees.”
+
+Subsec. (c)(1)(C). Pub. L. 104–324, §1102(a)(6), (8), added subpar. (C) and struck out former subpar. (C) which read as follows: “4 representatives appointed by the Secretary of Commerce from among residents of communities in Alaska that were affected by the EXXON VALDEZ oil spill who are knowledgeable about fisheries, other local industries, the marine environment, wildlife, public health, safety, or education. At least 2 of the representatives shall be appointed from among residents of communities located in Prince William Sound. The Secretary shall appoint residents to serve terms of 2 years each, from a list of 8 qualified individuals to be submitted by the Governor of the State of Alaska based on recommendations made by the governing body of each affected community. Each affected community may submit the names of 2 qualified individuals for the Governor's consideration. No more than 5 of the 8 qualified persons recommended by the Governor shall be members of the same political party.”
+
+Subsec. (c)(1)(D). Pub. L. 104–324, §1102(a)(6), (8), added subpar. (D) and struck out former subpar. (D) which read as follows: “3 Alaska Natives who represent Native entities affected by the EXXON VALDEZ oil spill, at least one of whom represents an entity located inPrince William Sound, to serve terms of 2 years each from a list of 6 qualified individuals submitted by the Alaska Federation of Natives.”
+
+Subsec. (c)(1)(E) to (H). Pub. L. 104–324, §1102(a)(7), (8), added subpars. (E) and (F) and redesignated former subpars. (E) and (F) as (G) and (H), respectively.
+
+Subsec. (c)(4). Pub. L. 104–324, §1102(a)(9), added par. (4).
+
+Subsec. (d)(2). Pub. L. 104–324, §1102(a)(10), substituted “Arctic or Subarctic oil spills” for “the EXXON VALDEZ oil spill”.
+
+Subsec. (e). Pub. L. 104–324, §1102(a)(11)–(13), substituted “appointed by the Advisory Board” for “appointed by the Secretary of Commerce”, struck out “, the Advisory Board,” after “Technology Institute”, and substituted “Advisory Board's” for “Secretary's”.
+
+Subsec. (i). Pub. L. 104–324, §1102(a)(14), (15), inserted “authorization in section 2736(b) of this title providing funding for the” after “The” and substituted “October 19, 1996” for “August 18, 1990”.
+
+Subsec. (j). Pub. L. 104–324, §1102(a)(16), (17), struck out first sentence which read as follows: “All funds authorized for the Institute shall be provided through the National Oceanic and Atmospheric Administration.”, and inserted “The Advisory Board may compensate its Federal representatives for their reasonable travel costs.” after “Institute.”
 
 #### Termination of Advisory Boards
 

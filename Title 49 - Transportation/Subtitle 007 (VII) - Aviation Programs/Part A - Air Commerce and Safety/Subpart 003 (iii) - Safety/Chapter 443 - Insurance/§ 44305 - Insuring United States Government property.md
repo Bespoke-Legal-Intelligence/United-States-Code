@@ -20,7 +20,9 @@ Premium Waivers and Indemnification.—With the approval required under subsecti
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -40,5 +42,5 @@ In subsection (b), the words “or the head of a department, agency, or instrume
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 44302 of this title.
+This section is referred to in section 44302 of this title; title 10 section 9514.
 

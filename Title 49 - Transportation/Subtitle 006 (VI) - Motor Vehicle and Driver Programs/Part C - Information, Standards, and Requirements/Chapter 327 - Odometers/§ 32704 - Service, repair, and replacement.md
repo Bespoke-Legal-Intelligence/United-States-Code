@@ -16,7 +16,9 @@ Removing or Altering Notice.—A person may not, with intent to defraud, remove 
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

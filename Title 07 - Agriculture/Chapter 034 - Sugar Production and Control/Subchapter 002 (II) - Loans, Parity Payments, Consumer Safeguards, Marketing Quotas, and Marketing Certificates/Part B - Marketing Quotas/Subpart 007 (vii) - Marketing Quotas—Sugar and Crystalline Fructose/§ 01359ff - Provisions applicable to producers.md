@@ -108,6 +108,10 @@ In general.—Whenever proportionate shares are in effect in a State for a crop 
 
 Civil penalty.—Any producer who violates subparagraph (A) shall be liable to the Commodity Credit Corporation for a civil penalty in an amount equal to 3 times the United States market value, at the time of the commission of the violation, of that quantity of sugar involved in the violation. The quantity of sugar involved shall be determined based on the per-acre yield goal established under paragraph (3).”
 
+#### Inapplicability of Section
+
+Section inapplicable to 1996 through 2002 crops of loan commodities, peanuts, and sugar and inapplicable to milk during period beginning Apr. 4, 1996, and ending Dec. 31, 2002, see section 7301(a)(1)(E) of this title.
+
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 1359cc, 1359gg, 1359ii, 1359jj of this title.

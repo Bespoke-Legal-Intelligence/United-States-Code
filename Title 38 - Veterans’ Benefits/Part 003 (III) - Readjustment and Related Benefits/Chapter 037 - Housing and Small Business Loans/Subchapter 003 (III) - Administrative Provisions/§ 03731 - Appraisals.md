@@ -32,7 +32,7 @@
 
 (2) In exercising the authority provided in paragraph (1) of this subsection, the Secretary shall assign a sufficient number of personnel to carry out an appraisal-review system to monitor, on at least a random-sampling basis, the making of appraisals by appraisers and the effectiveness and the efficiency of the determination of reasonable value of property by lenders.
 
-(3) The authority provided in this subsection shall terminate on December 31, 1995.
+\[(3) Repealed. Pub. L. 104–110, title I, §101(g), Feb. 13, 1996, 110 Stat. 768.\]
 
 (4) Not later than April 30 of each year following a year in which the Secretary authorizes lenders to determine reasonable value of property under this subsection, the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and the House of Representatives a report relating to the exercise of that authority during the year in which the authority was exercised.
 
@@ -46,15 +46,17 @@
 
 &emsp;(D) the amount of guaranty paid by the Secretary to such lenders by reason of defaults on loans as to which reasonable value was determined under this subsection; and
 
-&emsp;(E) such recommendations as the Secretary considers appropriate to improve the exercise of the authority provided for in this subsection and to protect the interests of the United States.
+&emsp;(E) such recommendations as the Secretary considers appropriate to improve the exerciseof the authority provided for in this subsection and to protect the interests of the United States.
 
-(Added Pub. L. 99–576, title IV, §407(a), Oct. 28, 1986, 100 Stat. 3282, §1831; amended Pub. L. 100–198, §11(a), (b), Dec. 21, 1987, 101 Stat. 1324; Pub. L. 101–237, title III, §313(b)(1), Dec. 18, 1989, 103 Stat. 2077; Pub. L. 102–54, §3(b), (c), June 13, 1991, 105 Stat. 267; renumbered §3731 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–547, §7, Oct. 28, 1992, 106 Stat. 3636.)
+(Added Pub. L. 99–576, title IV, §407(a), Oct. 28, 1986, 100 Stat. 3282, §1831; amended Pub. L. 100–198, §11(a), (b), Dec. 21, 1987, 101 Stat. 1324; Pub. L. 101–237, title III, §313(b)(1), Dec. 18, 1989, 103 Stat. 2077; Pub. L. 102–54, §3(b), (c), June 13, 1991, 105 Stat. 267; renumbered §3731 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–547, §7, Oct. 28, 1992, 106 Stat. 3636; Pub. L. 104–110, title I, §101(g), Feb. 13, 1996, 110 Stat. 768.)
 
 #### Codification
 
 Another section 11(b) of Pub. L. 100–198 amended section 1810 \[now 3710\] of this title.
 
 #### Amendments
+
+1996—Subsec. (f)(3). Pub. L. 104–110 struck out par. (3) which read as follows: “The authority provided in this subsection shall terminate on December 31, 1995.”
 
 1992—Subsec. (f)(3). Pub. L. 102–547 substituted “1995” for “1992”.
 
@@ -78,7 +80,11 @@ Subsec. (d). Pub. L. 100–198, §11(b)(2), which directed insertion of “(othe
 
 Subsec. (f). Pub. L. 100–198, §11(b)(3), added subsec. (f).
 
+#### Ratification of Actions During Period of Expired Authority
+
+Any action taken by Secretary of Veterans Affairs before Feb. 13, 1996, under provision of law amended by title I of Pub. L. 104–110 that was taken during period beginning on date on which authority of Secretary under such provision of law expired and ending on Feb. 13, 1996, considered to have same force and effect as if such amendment had been in effect at time of that action, see section 103 of Pub. L. 104–110, set out as a note under section 1710 of this title.
+
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3710, 3762 of this title.
+This section is referred to in sections 3710, 3736, 3762 of this title.
 

@@ -8,7 +8,7 @@ Moneys in the Fund not needed for the current operations of the Department of Ho
 
 1970—Pub. L. 91–609 provided for guarantee as to principal and interest by any agency of the United States and for investment of monies in bonds or other obligations the proceeds of which will be used to directly support the residential mortgage market.
 
-1967—Pub. L. 90–19 substituted “Department of Housing and Urban Development” and “Secretary” for“Federal Housing Administration” and “Commissioner”, respectively, and inserted “related to insurance under section 1709 of this title” before “shall be deposited”.
+1967—Pub. L. 90–19 substituted “Department of Housing and Urban Development” and “Secretary” for “Federal Housing Administration” and “Commissioner”, respectively, and inserted “related to insurance under section 1709 of this title” before “shall be deposited”.
 
 1950—Act Apr. 20, 1950, substituted “Commissioner” for “Administrator”.
 

@@ -4,7 +4,7 @@
 
 (b) The provisions of this subpart shall not apply, beginning with the 1959 crop, to peanuts produced on any farm on which the acreage harvested for nuts is one acre or less provided the producers who share in the peanuts produced on such farm do not share in the peanuts produced on any other farm. If the producers who share in the peanuts produced on a farm on which the acreage harvested for nuts is one acre or less also share in the peanuts produced on other farm(s) the peanuts produced on such farm on acreage in excess of the allotment, if any, determined for the farm shall be considered as excess acreage and the marketing penalties provided by subsection (a) of this section shall apply.
 
-(c) The word “peanuts” for the purposes of this chapter shall mean all peanuts produced,excluding any peanuts which it is established by the producer or otherwise, in accordance with regulations of the Secretary, were not picked or threshed either before or after marketing from the farm, or were marketed by the producer before drying or removal of moisture from such peanuts either by natural or artificial means for consumption exclusively as boiled peanuts.
+(c) The word “peanuts” for the purposes of this chapter shall mean all peanuts produced, excluding any peanuts which it is established by the producer or otherwise, in accordance with regulations of the Secretary, were not picked or threshed either before or after marketing from the farm, or were marketed by the producer before drying or removal of moisture from such peanuts either by natural or artificial means for consumption exclusively as boiled peanuts.
 
 (d) The person liable for payment or collection of the penalty provided by this section shall be liable also for interest thereon at the rate of 6 per centum per annum from the date the penalty becomes due until the date of payment of such penalty.
 
@@ -76,7 +76,7 @@ Section 804 of Pub. L. 95–113 provided that the amendment made by that section
 
 #### Effective Date of 1957 Amendment
 
-Pub. L. 85–127, as amended by Pub. L. 86–358, Sept. 22, 1959, 73 Stat. 642; Pub. L. 87–239, Sept. 14, 1961, 75 Stat. 512; Pub. L. 88–76 July 25, 1963, 77 Stat. 92; Pub. L. 89–321, title VII, §704, Nov. 3, 1965, 79 Stat. 1210; Pub. L. 90–559, §1(1), Oct. 11, 1968, 82 Stat. 996; Pub. L. 91–524, title VIII, §802, Nov. 30, 1970, 84 Stat. 1381, provided that the amendment made by Pub. L. 85–127 is effective for 1957 and subsequent crops of peanuts.
+Pub. L. 85–127, as amended by Pub. L. 86–358, Sept. 22, 1959, 73 Stat. 642; Pub. L. 87–239, Sept. 14, 1961, 75 Stat. 512; Pub. L. 88–76 July 25, 1963, 77 Stat. 92; Pub. L. 89–321, title VII, §704, Nov. 3, 1965, 79 Stat. 1210; Pub. L.90–559, §1(1), Oct. 11, 1968, 82 Stat. 996; Pub. L. 91–524, title VIII, §802, Nov. 30, 1970, 84 Stat. 1381, provided that the amendment made by Pub. L. 85–127 is effective for 1957 and subsequent crops of peanuts.
 
 #### Effective Date of 1956 Amendment
 
@@ -102,19 +102,17 @@ Administration of program of Commodity Credit Corporation transferred to Secreta
 
 Functions of Corporations of Department of Agriculture, boards of directors and officers of such corporations; Advisory Board of Commodity Credit Corporation; and Farm Credit Administration or any agency, officer, or entity of, under, or subject to supervision of said Administration excepted from functions of officers, agencies, and employees transferred to Secretary of Agriculture by 1953 Reorg. Plan No. 2, §1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
 
-#### Inapplicability to 1991 Through 1995 Crops of Peanuts
+#### Inapplicability of Section
+
+Subsections (a), (b), (d), and (e) of this section inapplicable to 1996 through 2002 crops of loan commodities, peanuts, and sugar and inapplicable to milk during period beginning Apr. 4, 1996, and ending Dec. 31, 2002, see section 7301(a)(1)(D) of this title.
 
 Pub. L. 101–624, title VIII, §801(3), Nov. 28, 1990, 104 Stat. 3459, provided that subsecs. (a), (b), (d), and (e) of this section are inapplicable to 1991 through 1995 crops of peanuts.
 
-#### Inapplicability to 1986 Through 1990 Crops of Peanuts
-
 Section 701(3) of Pub. L. 99–198 provided that subsecs. (a), (b), (d), and (e) of this section are inapplicable to 1986 through 1990 crops of peanuts.
-
-#### Inapplicability to 1982 Through 1985 Crops of Peanuts
 
 Section 701(3) of Pub. L. 97–98 provided that subsecs. (a), (b), (d), and (e) of this section are inapplicable to 1982 through 1985 peanut crops.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1358–1, 1359a, 1445c–3 of this title.
+This section is referred to in sections 1358–1, 1359a, 7301 of this title.
 

@@ -18,7 +18,7 @@ For purposes of this section, the following definitions apply:
 
 &emsp;(5) The term “housing assistance”—
 
-&emsp;&emsp;(A) means assistance provided by the Federal Government to be used in connection with the provision of housing,<sup>1</sup> that is provided in the form of a grant, contract, loan, loan guarantee, cooperative agreement, interest subsidy, insurance, or direct appropriation; and
+&emsp;&emsp;(A) means assistance provided by the Federal Government to be used in connection with the provision of housing,<sup>1</sup> that is provided in the form of a grant, contract, loan,loan guarantee, cooperative agreement, interest subsidy, insurance, or direct appropriation; and
 
 &emsp;&emsp;(B) does not include assistance provided by the Secretary of Veterans Affairs; the Federal Emergency Management Agency; the Secretary of Housing and Urban Development under the single family mortgage insurance programs under the National Housing Act \[12 U.S.C. 1701 et seq.\] or the homeownership assistance program under section 235 of such Act \[12 U.S.C. 1715z\]; the National Homeownership Trust; the Federal Deposit Insurance Corporation under the affordable housing program under section 1831q of title 12; or the Resolution Trust Corporation under the affordable housing program under section 1441a(c) of title 12.
 
@@ -48,8 +48,6 @@ For purposes of this section, the following definitions apply:
 
 (ii) The first sentence of clause (i) shall not apply to the lease of a building the construction of which is completed before October 26, 1992, if the leasing agency certifies that no suitable building with automatic sprinkler systems or an equivalent level of safety is available at an affordable cost.
 
-(iii) Within 3 years after October 26, 1992, and periodically thereafter, the Comptroller General shall audit a selection of certifications made under clause (ii) and report to Congress on the results of such audit.
-
 (2) Paragraph (1) shall not apply to—
 
 &emsp;(A) a Federal employee office building that was owned by the Federal Government before October 26, 1992;
@@ -66,7 +64,7 @@ For purposes of this section, the following definitions apply:
 
 (3) No Federal funds may be used for the renovation of a Federal employee office building of 6 or more stories that is owned by the Federal Government unless after that renovation the Federal employee office building is protected by an automatic sprinkler system or equivalent level of safety. No Federal funds may be used for the renovation of any other Federal employee office building that is owned by the Federal Government unless after that renovation the hazardous areas of the Federal employee office building are protected by automatic sprinkler systems or an equivalent level of safety.
 
-(4) No Federal funds may be used for entering into or renewing a lease of a Federal employee office building of 6 or more stories that is renovated after October 26, 1992, where at least some portion of the federally leased space is on the sixth floor or above and at least 35,000 square feet of space is federally occupied, unless after that renovation the Federal employee office building is protected by an automatic sprinkler system or equivalent level of safety. No Federal funds may be used for entering into or renewing a lease of any other Federal employee office building that is renovated after October 26, 1992, unless after that renovation the hazardous areas of the Federal employee office building are protected by automatic sprinkler systems or an equivalent level of safety.
+(4) No Federal funds may be used for entering into or renewing a lease of a Federal employee office building of 6 or more stories that is renovated after October 26, 1992, where at least some portion of the federally leased space is on the sixth floor or above and at least 35,000 square feet of space is federally occupied, unless after that renovation the Federal employee office building is protected by an automatic sprinkler system or equivalent level of safety. No Federal funds may be used for entering into or renewing a lease of any other Federal employeeoffice building that is renovated after October 26, 1992, unless after that renovation the hazardous areas of the Federal employee office building are protected by automatic sprinkler systems or an equivalent level of safety.
 
 #### (c) Housing
 
@@ -120,7 +118,7 @@ Nothing in this section shall be construed to limit the power of any State or po
 
 #### (f) Prefire plan
 
-The head of any Federal agency that owns, leases, or operates a building or housing unit with Federal funds shall invite the local agency or voluntary organization having responsibility for fire protection in the jurisdiction where the building or housing unit is located to prepare, and biennially review, a prefire plan for the building or housing unit.
+The head of any Federal agency that owns, leases, or operates a building or housing unit with Federal funds shall invite the local agency or voluntary organization having responsibility for fire protection in the jurisdiction where thebuilding or housing unit is located to prepare, and biennially review, a prefire plan for the building or housing unit.
 
 #### (g) Reports to Congress
 
@@ -140,13 +138,15 @@ The head of any Federal agency that owns, leases, or operates a building or hous
 
 In the implementation of this section, the process for meeting space needs in urban areas shall continue to give first consideration to a centralized community business area and adjacent areas of similar character to the extent of any Federal requirement therefor.
 
-(Pub. L. 93–498, §31, as added Pub. L. 102–522, title I, §106(a), Oct. 26, 1992, 106 Stat. 3412; amended Pub. L. 103–254, §6, May 19, 1994, 108 Stat. 682.)
+(Pub. L. 93–498, §31, as added Pub. L. 102–522, title I, §106(a), Oct. 26, 1992, 106 Stat. 3412; amended Pub. L. 103–254, §6, May 19, 1994, 108 Stat. 682; Pub. L. 104–316, title I, §107, Oct. 19, 1996, 110 Stat. 3832.)
 
 #### References in Text
 
 The National Housing Act, referred to in subsec. (a)(5)(B), is act June 27, 1934, ch. 847, 48 Stat. 1246, as amended, which is classified principally to chapter 13 (§1701 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see References in Text note set out under section 1701 of Title 12 and Tables.
 
 #### Amendments
+
+1996—Subsec. (b)(1)(B)(iii). Pub. L. 104–316 struck out cl. (iii) which read as follows: “Within 3 years after October 26, 1992, and periodically thereafter, the Comptroller General shall audit a selection of certifications made under clause (ii) and report to Congress on the results of such audit.”
 
 1994—Subsec. (c)(1)(A). Pub. L. 103–254, §6(1), substituted “Except as otherwise provided in this paragraph, no Federal” for “No Federal”.
 

@@ -40,7 +40,9 @@ Installing and Using Transponders.—The Administrator shall prescribe regulatio
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -84,5 +86,5 @@ In subsection (f), the words “Not later than 6 months after December 30, 1987,
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 106, 44701, 44711, 45302, 46301, 46310, 46316, 47531 of this title.
+This section is referred to in sections 106, 44701, 44711, 45302, 46310, 47531 of this title.
 

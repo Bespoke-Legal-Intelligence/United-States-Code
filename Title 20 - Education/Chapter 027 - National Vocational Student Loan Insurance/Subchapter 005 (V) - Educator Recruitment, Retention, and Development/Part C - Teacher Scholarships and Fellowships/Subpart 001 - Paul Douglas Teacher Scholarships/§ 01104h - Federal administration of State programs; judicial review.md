@@ -12,7 +12,7 @@ Whenever the Secretary, after reasonable notice and opportunity for a hearing to
 
 &emsp;(2) that in the administration of the program there is a failure to comply substantially with any such provisions,
 
-> the Secretary shall notify such State agency that the State will not be regarded as eligible to participate in the program under this subpart until the Secretary is satisfied that there is no longer any such failure to comply.
+> the Secretary shall notify such State agency that the State will not be regarded as eligible to participate in the program under this subpartuntil the Secretary is satisfied that there is no longer any such failure to comply.
 
 #### (c) Court review
 

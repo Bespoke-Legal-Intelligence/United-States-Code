@@ -8,7 +8,7 @@ The Consumer Product Safety Commission shall transmit to the Secretary of the Se
 
 Any regulation specified in subsection (a) of this section shall not take effect if—
 
-&emsp;(1) within the ninety calendar days of continuous session of the Congress which occur after the date of the promulgation of such regulation, both Houses of the Congress adopt a concurrent resolution, the matter after the resolving clause of which is as follows (with the blank spaces appropriately filled): “That the Congress disapproves the flammability regulation which was promulgated under the Flammable Fabrics Act by the Consumer Product Safety Commission with respect to       and which was transmitted to the Congress on       and disapproves the regulation for the following reasons:      .”; or
+&emsp;(1) within the ninety calendar days of continuous session of the Congress which occur after the date of the promulgation of such regulation, both Houses of the Congress adopt a concurrent resolution, the matter after the resolving clause of which is as follows (with the blank spaces appropriately filled): “That the Congress disapproves the flammability regulation which was promulgated under the Flammable Fabrics Act by the Consumer Product Safety Commission with respect to            and which was transmitted to the Congress on            and disapproves the regulation for the following reasons:           .”; or
 
 &emsp;(2) within the sixty calendar days of continuous session of the Congress which occur after the date of the promulgation of such regulation, one House of the Congress adopts such concurrent resolution and transmits such resolution to the other House and such resolution is not disapproved by such other House within the thirty calendar days of continuous session of the Congress which occur after the date of such transmittal.
 
@@ -32,7 +32,7 @@ The Flammable Fabrics Act, referred to in subsec. (b), is act June 30, 1953, ch.
 
 #### Prior Provisions
 
-A prior section 1204, act June 30, 1953, ch. 164, §17, as added Dec. 14, 1967, Pub. L. 90–189, §10, 81 Stat. 574;amended May 11, 1976, Pub. L. 94–284, §19, 90 Stat. 514, related to the National Advisory Committee for Flammable Fabrics Act, prior to repeal by Pub. L. 97–35, title XII, §1205(b), Aug. 13, 1981, 95 Stat. 716, eff. Aug. 13, 1981.
+A prior section 1204, act June 30, 1953, ch. 164, §17, as added Dec. 14, 1967, Pub. L. 90–189, §10, 81 Stat. 574; amended May 11, 1976, Pub. L. 94–284, §19, 90 Stat. 514, related to the National Advisory Committee for Flammable Fabrics Act, prior to repeal by Pub. L. 97–35, title XII, §1205(b), Aug. 13, 1981, 95 Stat. 716, eff. Aug. 13, 1981.
 
 #### Effective Date
 

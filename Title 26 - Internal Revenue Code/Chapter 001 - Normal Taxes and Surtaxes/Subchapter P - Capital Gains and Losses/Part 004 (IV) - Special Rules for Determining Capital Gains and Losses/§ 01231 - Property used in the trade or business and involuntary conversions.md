@@ -52,7 +52,7 @@
 
 &emsp;&emsp;&emsp;(ii) the section 1231 losses shall be included only if and to the extent taken into account in computing taxable income, except that section 1211 shall not apply.
 
-&emsp;&emsp;(B) Losses (including losses not compensated for by insurance or otherwise) onthe destruction, in whole or in part, theft or seizure, or requisition or condemnation of—
+&emsp;&emsp;(B) Losses (including losses not compensated for by insurance or otherwise) on the destruction, in whole or in part, theft or seizure, or requisition or condemnation of—
 
 &emsp;&emsp;&emsp;(i) property used in the trade or business, or
 
@@ -142,7 +142,7 @@ For purposes of this section—
 
 1984—Subsec. (a). Pub. L. 98–369, §1001(b)(15), (e), substituted “6 months” for “1 year” wherever appearing, applicable to property acquired after June 22, 1984, and before Jan. 1, 1988. See Effective Date of 1984 Amendment note below.
 
-Pub. L. 98–369, §711(c)(2)(A)(iii), amended subsec. (a) generally, substituting pars. (1) to (4), for “If, during the taxable year, the recognized gains on sales or exchanges of property used in the trade or business, plusthe recognized gains from the compulsory or involuntary conversion (as a result of destruction in whole or in part, theft or seizure, or an exercise of the power of requisition or condemnation or the threat or imminence thereof) of property used in the trade or business and capital assets held for more than 1 year into other property or money, exceed the recognized losses from such sales, exchanges, and conversions, such gains and losses shall be considered as gains and losses from sales or exchanges of capital assets held for more than 1 year. If such gains do not exceed such losses, such gains and losses shall not be considered as gains and losses from sales or exchanges of capital assets. For purposes of this subsection—
+Pub. L. 98–369, §711(c)(2)(A)(iii), amended subsec. (a) generally, substituting pars. (1) to (4), for “If, during the taxable year, the recognized gains on sales or exchanges of property used in the trade or business, plus the recognized gains from the compulsory or involuntary conversion (as a result of destruction in whole or in part, theft or seizure, or an exercise of the power of requisition or condemnation or the threat or imminence thereof) of property used in the trade or business and capital assets held for more than 1 year into other property or money, exceed the recognized losses from such sales, exchanges, and conversions, such gains and losses shall be considered as gains and losses from sales or exchanges of capital assets held for more than 1 year. If such gains do not exceed such losses, such gains and losses shall not be considered as gains and losses from sales or exchanges of capital assets. For purposes of this subsection—
 
 &emsp;“(1) in determining under this subsection whether gains exceed losses, the gains described therein shall be included only if and to the extent taken into account in computing gross income and the losses described therein shall be included only if and to the extent taken into account in computing taxable income, except that section 1211 shall not apply; and
 
@@ -198,7 +198,7 @@ Section 1402(b)(2) of Pub. L. 94–455 provided that the amendment made by that 
 
 Section 212(b)(2) of Pub. L. 91–172 provided that: “The amendments made by paragraph (1) \[amending this section\] shall apply to livestock acquired after December 31, 1969.”
 
-Amendment by section 514(b)(2) of Pub. L. 91–172 applicable to sales and other dispositions occurring after July 25, 1969, see section 514(c) of Pub. L. 91–172, set out as a note under section 1221 of this title.
+Amendment by section 514(b)(2) of Pub. L. 91–172 applicable to sales and other dispositions occurring afterJuly 25, 1969, see section 514(c) of Pub. L. 91–172, set out as a note under section 1221 of this title.
 
 Amendment by section 516(b) of Pub. L. 91–172 applicable to taxable years beginning after Dec. 31, 1969, see section 516(d)(2) of Pub. L. 91–172, set out as a note under section 1001 of this title.
 
@@ -234,5 +234,5 @@ Section 341 assets as including property described in subsection (b) of this sec
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 64, 170, 268, 272, 341, 451, 543, 702, 724, 735, 751, 755, 818, 904, 1223, 1503, 7704 of this title.
+This section is referred to in sections 64, 118, 170, 268, 272, 341, 451, 543, 702, 724, 735, 751, 755, 818, 904, 1223, 1503, 7704 of this title.
 

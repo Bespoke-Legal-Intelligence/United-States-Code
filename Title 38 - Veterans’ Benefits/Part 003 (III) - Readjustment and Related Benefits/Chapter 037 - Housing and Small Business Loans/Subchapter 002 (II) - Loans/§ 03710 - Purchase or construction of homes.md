@@ -12,7 +12,7 @@
 
 &emsp;(5) To refinance existing mortgage loans or other liens which are secured of record on a dwelling or farm residence owned and occupied by the veteran as the veteran's home.
 
-&emsp;(6) To purchase a one-family residential unit in a condominium housing development or project, if such development or project is approved by the Secretary under criteria which the Secretary shall prescribe in regulations.
+&emsp;(6) To purchase a one-family residential unit in a condominium housing development orproject, if such development or project is approved by the Secretary under criteria which the Secretary shall prescribe in regulations.
 
 &emsp;(7) To improve a dwelling or farm residence owned by the veteran and occupied by the veteran as the veteran's home through energy efficiency improvements, as provided in subsection (d).
 
@@ -90,7 +90,7 @@
 
 &emsp;(C) The terms “solar heating and cooling” and “combined solar heating and cooling” have the meaning given such terms in section 3(2) of the Solar Heating and Cooling Demonstration Act of 1974 (42 U.S.C. 5502(2)) and, in addition, include a passive system based on conductive, convective, or radiant energy transfer.
 
-&emsp;(D) The term “passive system” includes window and skylight glazing, thermal floors,walls, and roofs, movable insulation panels (when in conjunction with glazing), portions of a residential structure that serve as solar furnaces so as to add heat to the structure, double-pane window insulation, and such other energy-related components as are determined by the Secretary to enhance the natural transfer of energy for the purpose of heating or heating and cooling a residence.
+&emsp;(D) The term “passive system” includes window and skylight glazing, thermal floors, walls, and roofs, movable insulation panels (when in conjunction with glazing), portions of a residential structure that serve as solar furnaces so as to add heat to the structure, double-pane window insulation, and such other energy-related components as are determined by the Secretary to enhance the natural transfer of energy for the purpose of heating or heating and cooling a residence.
 
 &emsp;(E) The term “residential energy conservation measure” means—
 
@@ -115,8 +115,6 @@
 &emsp;&emsp;(vii) heat pumps; and
 
 &emsp;&emsp;(viii) such other energy conservation measures as the Secretary may identify for the purposes of this subparagraph.
-
-(7) A loan may not be guaranteed under this subsection after December 31, 1995.
 
 (e)(1) For a loan to be guaranteed for the purpose specified in subsection (a)(8) or for the purpose specified in subsection (a)(11) of this section—
 
@@ -174,13 +172,15 @@
 
 (5) Pursuant to regulations prescribed to carry out this paragraph, the Secretary may, in extraordinary situations, waive the application of the credit underwriting standards established under paragraph (2) of this subsection when the Secretary determines, considering the totality of circumstances, that the veteran is a satisfactory credit risk.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1207, §1810; Pub. L. 90–301, §§1(a), 2(a), May 7, 1968, 82 Stat. 113; Pub. L. 91–506, §3, Oct. 23, 1970, 84 Stat. 1108; Pub. L. 93–569, §3, Dec. 31, 1974, 88 Stat. 1864; Pub. L. 94–324, §7(11), June 30, 1976, 90 Stat. 721; Pub. L. 95–476, title I, §§104, 105(a), Oct. 18, 1978, 92 Stat. 1498, 1499; Pub. L. 96–385, title IV, §§401(a), 402(a), Oct. 7, 1980, 94 Stat. 1532, 1533; Pub. L. 98–223, title II, §205(a), Mar. 2, 1984, 98 Stat. 42; Pub. L. 99–576, title IV, §402(a), (b), Oct. 28, 1986, 100 Stat. 3280; Pub. L. 100–198, §§3(a)(2), 7(a), (c), 8(a)(2), 11(b), 13, Dec. 21, 1987, 101 Stat. 1315, 1318–1320, 1325; Pub. L. 100–322, title IV, §415(c)(4), May 20, 1988, 102 Stat. 551; Pub. L. 101–237, title III, §§309, 313(b)(1), Dec. 18, 1989, 103 Stat. 2075, 2077; renumbered §3710 and amended Pub. L. 102–83, §§4(a)(2)(A)(iv), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 403, 406; Pub. L. 102–547, §§6(1), 9(a), (b), Oct. 28, 1992, 106 Stat. 3636, 3641, 3642; Pub. L. 103–446, title IX, §§904(a), (b), 905, Nov. 2, 1994, 108 Stat. 4676, 4677.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1207, §1810; Pub. L. 90–301, §§1(a), 2(a), May 7, 1968, 82 Stat. 113; Pub. L. 91–506, §3, Oct. 23, 1970, 84 Stat. 1108; Pub. L. 93–569, §3, Dec. 31, 1974, 88 Stat. 1864; Pub. L. 94–324, §7(11), June 30, 1976, 90 Stat. 721; Pub. L. 95–476, title I, §§104, 105(a), Oct. 18, 1978, 92 Stat. 1498, 1499; Pub. L. 96–385, title IV, §§401(a), 402(a), Oct. 7, 1980, 94 Stat. 1532, 1533; Pub. L. 98–223, title II, §205(a), Mar. 2, 1984, 98 Stat. 42; Pub. L. 99–576, title IV, §402(a), (b), Oct. 28, 1986, 100 Stat. 3280; Pub. L. 100–198, §§3(a)(2), 7(a), (c), 8(a)(2), 11(b), 13, Dec. 21, 1987, 101 Stat. 1315, 1318–1320, 1325; Pub. L. 100–322, title IV, §415(c)(4), May 20, 1988, 102 Stat. 551; Pub. L. 101–237, title III, §§309, 313(b)(1), Dec. 18, 1989, 103 Stat. 2075, 2077; renumbered §3710 and amended Pub. L. 102–83, §§4(a)(2)(A)(iv), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 403, 406; Pub. L. 102–547, §§6(1), 9(a), (b), Oct. 28, 1992, 106 Stat. 3636, 3641, 3642; Pub. L. 103–446, title IX, §§904(a), (b), 905, Nov. 2, 1994, 108 Stat. 4676, 4677; Pub. L. 104–110, title I, §101(e), Feb. 13, 1996, 110 Stat. 768.)
 
 #### Codification
 
 Another section 11(b) of Pub. L. 100–198 amended section 1831 \[now 3731\] of this title.
 
 #### Amendments
+
+1996—Subsec. (d)(7). Pub. L. 104–110 struck out par. (7) which read as follows: “A loan may not be guaranteed under this subsection after December 31, 1995.”
 
 1994—Subsec. (a)(11). Pub. L. 103–446, §904(a), added par. (11).
 
@@ -288,7 +288,7 @@ Amendment by section 3(a)(2) of Pub. L. 100–198 applicable to loans closed on 
 
 Section 7(d) of Pub. L. 100–198 provided that:
 
-“(1) The amendments made by subsections (a) and (b) of this section \[amending this section and section 1819 \[now 3712\] of this title\] shall apply to loans made more than 30 days after the date of the enactment of this Act \[Dec. 21, 1987\].
+“(1) The amendments made by subsections (a) and (b) of this section \[amending this section and section 1819 \[now 3712\] of this title\] shall apply to loans made morethan 30 days after the date of the enactment of this Act \[Dec. 21, 1987\].
 
 “(2) The amendment made by subsection (c) of this section \[amending this section\] shall apply to loans for which commitments are made more than 60 days after the date of the enactment of this Act.”
 
@@ -310,19 +310,15 @@ Amendment by Pub. L. 94–324 effective June 30, 1976, see section 9(a) of Pub. 
 
 Amendment by Pub. L. 93–569 effective Dec. 31, 1974, except that amendment by section 3(2), (4) of Pub. L. 93–569 effective ninety days after Dec. 31, 1974, see section 10 of Pub. L. 93–569, set out as a note under section 3702 of this title.
 
+#### Ratification of Actions During Period of Expired Authority
+
+Any action taken by Secretary of Veterans Affairs before Feb. 13, 1996, under provision of law amended by title I of Pub. L. 104–110 that was taken during period beginning on date on which authority of Secretary under such provision of law expired and ending on Feb. 13, 1996, considered to have same force and effect as if such amendment had been in effect at time of that action, see section 103 of Pub. L. 104–110, set out as a note under section 1710 of this title.
+
 #### Reports on Energy Efficient Mortgages Guaranteed Under This Section
 
-Section 9(c) of Pub. L. 102–547 provided that: “Not later than 1 year after the date on which the Secretary of Veterans Affairs first exercises the authority to guarantee loans under section 3710(d) of title 38, United States Code (as added by subsection (a) of this section), and for each of the 3 years thereafter, the Secretary shall transmit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on the program under such section. Each such report shall contain information pertaining to—
-
-&emsp;“(1) the number of mortgages guaranteed under such section;
-
-&emsp;“(2) the average amount of money added to the mortgage to finance energy efficiency features;
-
-&emsp;“(3) the types of energy efficiency features obtained with mortgages under such section; and
-
-&emsp;“(4) the default rates on the mortgages guaranteed under such section compared with the default rates on all other types of mortgages guaranteed by the Secretary.”
+Section 9(c) of Pub. L. 102–547 directed Secretary of Veterans Affairs to transmit report on energy efficient mortgages to Committees on Veterans’ Affairs of Senate and House of Representatives not later than 1 year after date on which Secretary first exercises authority to guarantee loans under section 3710(d) of this title and for each of the 3 years thereafter, prior to repeal by Pub. L. 104–110, title II, §201(b), Feb. 13, 1996, 110 Stat. 770.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3701, 3703, 3704, 3711, 3712, 3713, 3714, 3729, 3732, 3733 of this title.
+This section is referred to in sections 3701, 3703, 3704, 3708, 3711, 3712, 3713, 3714, 3729, 3732, 3733, 3736, 3762 of this title.
 

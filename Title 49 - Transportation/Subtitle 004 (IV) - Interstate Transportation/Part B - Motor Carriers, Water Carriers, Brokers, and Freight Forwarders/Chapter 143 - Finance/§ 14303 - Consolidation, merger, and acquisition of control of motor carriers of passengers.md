@@ -16,7 +16,7 @@ Approval Required.—The following transactions involving motor carriers of pass
 
 (b)
 
-Standard for Approval.—The Board shall approve and authorize a transaction under this section when it finds the transaction is consistent with the public interest. The Board shall consider at least the following:
+Standard for Approval.—The Board shall approve and authorize a transaction under thissection when it finds the transaction is consistent with the public interest. The Board shall consider at least the following:
 
 &emsp;(1) The effect of the proposed transaction on the adequacy of transportation to the public.
 
@@ -36,7 +36,7 @@ Comments.—Written comments about an application may be filed with the Board wi
 
 (e)
 
-Deadlines.—The Board shall conclude evidentiary proceedings by the 240th day after the date on which notice of the application is published under subsection (c). The Board shall issue a final decision by the 180th day after the conclusion of the evidentiary proceedings. TheBoard may extend a time period under this subsection; except that the total of all such extensions with respect to any application shall not exceed 90 days.
+Deadlines.—The Board shall conclude evidentiary proceedings by the 240th day after the date on which notice of the application is published under subsection (c). The Board shall issue a final decision by the 180th day after the conclusion of the evidentiary proceedings. The Board may extend a time period under this subsection; except that the total of all such extensions with respect to any application shall not exceed 90 days.
 
 (f)
 

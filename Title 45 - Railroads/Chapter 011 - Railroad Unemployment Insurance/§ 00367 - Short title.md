@@ -6,7 +6,11 @@ This chapter may be cited as the “Railroad Unemployment Insurance Act”.
 
 #### Codification
 
-Another section 17 of Act June 25, 1938, is classified to section 368 of this title.
+Another section 17 of Act June 25, 1938, was classified to section 368 of this title prior to repeal by Pub. L. 104–251, §5(c), Oct. 9, 1996, 110 Stat. 3165.
+
+#### Short Title of 1996 Amendment
+
+Pub. L. 104–251, §1, Oct. 9, 1996, 110 Stat. 3161, provided that: “This Act \[amending section 352 of this title, repealing section 368 of this title, and enacting provisions set out as a note under section 352 of this title\] may be cited as the ‘Railroad Unemployment Insurance Amendments Act of 1996’.”
 
 #### Short Title of 1988 Amendment
 

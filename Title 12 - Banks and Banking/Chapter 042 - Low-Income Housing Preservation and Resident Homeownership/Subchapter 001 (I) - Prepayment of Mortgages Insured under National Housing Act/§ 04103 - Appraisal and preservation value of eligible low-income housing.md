@@ -6,7 +6,7 @@ Upon receiving notice of intent regarding an eligible low-income housing project
 
 #### (1) Appraisers
 
-&emsp;The preservation value shall be determined by 2 independent appraisers, one of whom shall be selected by the Secretary and one of whom shall be selected by the owner. The appraisals shall be conducted not later than 4 months after filing the notice of intent under section 4102 of this title, and the owner shall submit to the Secretary the appraisal made by the owner's selected appraiser not later than 90 days after receipt of the notice under paragraph (2). If the 2 appraisers fail to agree on the preservation value, and the Secretary and the owner also fail to agree on the preservation value, the Secretary and the owner shall jointly select and jointly compensate a third appraiser, whose appraisal shall be binding on the parties.
+&emsp;The preservation value shall be determined by 2 independent appraisers, one of whom shall be selected by the Secretary and one of whom shall be selected by the owner. The appraisals shall be conducted not later than 4 months after filing the notice of intent under section4102 of this title, and the owner shall submit to the Secretary the appraisal made by the owner's selected appraiser not later than 90 days after receipt of the notice under paragraph (2). If the 2 appraisers fail to agree on the preservation value, and the Secretary and the owner also fail to agree on the preservation value, the Secretary and the owner shall jointly select and jointly compensate a third appraiser, whose appraisal shall be binding on the parties.
 
 #### (2) Notice
 

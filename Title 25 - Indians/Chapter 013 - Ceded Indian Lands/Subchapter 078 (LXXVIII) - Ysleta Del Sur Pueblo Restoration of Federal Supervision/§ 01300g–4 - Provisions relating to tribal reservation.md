@@ -22,7 +22,7 @@ At the written request of the Tribal Council, the Secretary shall—
 
 #### (d) Approval of deed by Attorney General
 
-Notwithstanding any other provision of law or regulation, the Attorney General of the United States shall approve any deed or other instrument which conveys title to land within El Pasoor Hudspeth Counties, Texas, to the United States to be held in trust by the Secretary for the benefit of the tribe.
+Notwithstanding any other provision of law or regulation, the Attorney General of the United States shall approve any deed or other instrument which conveys title to land within El Paso or Hudspeth Counties, Texas, to the United States to be held in trust by the Secretary for the benefit of the tribe.
 
 #### (e) Permanent improvements authorized
 

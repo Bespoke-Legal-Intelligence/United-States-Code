@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall encourage States to establish or improve programs for the collection and analysis of epidemiological data on birth defects.
+&emsp;The Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall encourage States to establish orimprove programs for the collection and analysis of epidemiological data on birth defects.
 
 #### (2) Provision of assistance
 

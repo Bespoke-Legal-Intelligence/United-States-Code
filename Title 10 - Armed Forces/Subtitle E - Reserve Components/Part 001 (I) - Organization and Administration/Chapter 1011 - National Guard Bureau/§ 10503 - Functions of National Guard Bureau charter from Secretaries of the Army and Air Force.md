@@ -8,7 +8,7 @@ The Secretary of the Army and the Secretary of the Air Force shall jointly devel
 
 &emsp;(3) Ensuring that units and members of the Army National Guard and the Air National Guard are trained by the States in accordance with approved programs and policies of, and guidance from, the Chief, the Secretary of the Army, and the Secretary of the Air Force.
 
-&emsp;(4) Monitoring and assisting the States in the organization, maintenance, and operation of National Guard units so as to provide well-trained and well-equipped units capable of augmenting the active forces in time of war or national emergency.
+&emsp;(4) Monitoring and assisting the States in the organization, maintenance, and operationof National Guard units so as to provide well-trained and well-equipped units capable of augmenting the active forces in time of war or national emergency.
 
 &emsp;(5) Planning and administering the budget for the Army National Guard of the United States and the Air National Guard of the United States.
 
@@ -27,4 +27,8 @@ The Secretary of the Army and the Secretary of the Air Force shall jointly devel
 &emsp;(12) Such other functions as the Secretaries may prescribe.
 
 (Added Pub. L. 103–337, div. A, title IX, §904(a), Oct. 5, 1994, 108 Stat. 2825.)
+
+#### Annual Preparation of Future Years Defense Plan
+
+Pub. L. 104–196, §123, Sept. 16, 1996, 110 Stat. 2392, provided that: “The National Guard Bureau shall annually prepare a future years defense plan based on the requirement and priorities of the National Guard: <i>Provided</i>, That this plan shall be presented to the committees of Congress concurrent with the President's budget submission for each fiscal year.”
 

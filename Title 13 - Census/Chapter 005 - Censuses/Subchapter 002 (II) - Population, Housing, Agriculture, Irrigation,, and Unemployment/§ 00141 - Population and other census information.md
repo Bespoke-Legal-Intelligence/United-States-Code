@@ -4,7 +4,7 @@
 
 (b) The tabulation of total population by States under subsection (a) of this section as required for the apportionment of Representatives in Congress among the several States shall be completed within 9 months after the census date and reported by the Secretary to the President of the United States.
 
-(c) The officers or public bodies having initial responsibility for the legislative apportionmentor districting of each State may, not later than 3 years before the decennial census date, submit to the Secretary a plan identifying the geographic areas for which specific tabulations of population are desired. Each such plan shall be developed in accordance with criteria established by the Secretary, which he shall furnish to such officers or public bodies not later than April 1 of the fourth year preceding the decennial census date. Such criteria shall include requirements which assure that such plan shall be developed in a nonpartisan manner. Should the Secretary find that a plan submitted by such officers or public bodies does not meet the criteria established by him, he shall consult to the extent necessary with such officers or public bodies in order to achieve the alterations in such plan that he deems necessary to bring it into accord with such criteria. Any issues with respect to such plan remaining unresolved after such consultation shall be resolved by the Secretary, and in all cases he shall have final authority for determining the geographic format of such plan. Tabulations of population for the areas identified in any plan approved by the Secretary shall be completed by him as expeditiously as possible after the decennial census date and reported to the Governor of the State involved and to the officers or public bodies having responsibility for legislative apportionment or districting of such State, except that such tabulations of population of each State requesting a tabulation plan, and basic tabulations of population of each other State, shall, in any event, be completed, reported, and transmitted to each respective State within one year after the decennial census date.
+(c) The officers or public bodies having initial responsibility for the legislative apportionment or districting of each State may, not later than 3 years before the decennial census date, submit to the Secretary a plan identifying the geographic areas for which specific tabulations of population are desired. Each such plan shall be developed in accordance with criteria established by the Secretary, which he shall furnish to such officers or public bodies not later than April 1 of the fourth year preceding the decennial census date. Such criteria shall include requirements which assure that such plan shall be developed in a nonpartisan manner. Should the Secretary find that a plan submitted by such officers or public bodies does not meet the criteria established by him, he shall consult to the extent necessary with such officers or public bodies in order to achieve the alterations in such plan that he deems necessary to bring it into accord with such criteria. Any issues with respect to such plan remaining unresolved after such consultation shall be resolved by the Secretary, and in all cases he shall have final authority for determining the geographic format of such plan. Tabulations of population for the areas identified in any plan approved by the Secretary shall be completed by him as expeditiously as possible after the decennial census date and reported to the Governor of the State involved and to the officers or public bodies having responsibility for legislative apportionment or districting of such State, except that such tabulations of population of each State requesting a tabulation plan, and basic tabulations of population of each other State, shall, in any event, be completed, reported, and transmitted to each respective State within one year after the decennial census date.
 
 (d) Without regard to subsections (a), (b), and (c) of this section, the Secretary, in the year 1985 and every 10 years thereafter, shall conduct a mid-decade census of population in such form and content as he may determine, including the use of sampling procedures and special surveys, taking into account the extent to which information to be obtained from such census will serve in lieu of information collected annually or less frequently in surveys or other statistical studies. The census shall be taken as of the first day of April of each such year, which date shall be known as the “mid-decade census date”.
 
@@ -65,6 +65,22 @@ Subsec. (c). Pub. L. 94–171, §1, added subsec. (c).
 #### Effective Date of 1976 Amendment
 
 Amendment by Pub. L. 94–521 effective Oct. 17, 1976, see section 17 of Pub. L. 94–521, set out as a note under section 1 of this title.
+
+#### Census Data on Grandparents as Primary Caregivers for Their Grandchildren
+
+Pub. L. 104–193, title I, §105, Aug. 22, 1996, 110 Stat. 2163, provided that:
+
+“(a)
+
+In General.—Not later than 90 days after the date of the enactment of this Act \[Aug. 22, 1996\], the Secretary of Commerce, in carrying out section 141 of title 13, United States Code, shall expand the data collection efforts of the Bureau of the Census (in this section referred to as the ‘Bureau’) to enable the Bureau to collect statistically significant data, in connection with its decennial census and its mid-decade census, concerning the growing trend of grandparents who are the primary caregivers for their grandchildren.
+
+“(b)
+
+Expanded Census Question.—In carrying out subsection (a), the Secretary of Commerce shall expand the Bureau's census question that details households which include both grandparents and their grandchildren. The expanded question shall be formulated to distinguish between the following households:
+
+&emsp;“(1) A household in which a grandparent temporarily provides a home for a grandchild for a period of weeks or months during periods of parental distress.
+
+&emsp;“(2) A household in which a grandparent provides a home for a grandchild and serves as the primary caregiver for the grandchild.”
 
 #### Decennial Census Improvement Act of 1991
 
@@ -128,15 +144,7 @@ Pub. L. 101–645, title IV, §402, Nov. 29, 1990, 104 Stat. 4723, provided that
 
 #### Monitoring Economic Progress of Rural America
 
-Pub. L. 101–624, title XXIII, §2382, Nov. 28, 1990, 104 Stat. 4050, provided that:
-
-“(a)
-
-Bureau of the Census.—The Director of the Bureau of the Census shall expand the data collection efforts of the Bureau to enable the Bureau to collect statistically significant data concerning the changing economic condition of rural counties and communities in the United States, including data on rural employment, poverty, income, and other information concerning the rural labor force.
-
-“(b)
-
-Limitation on Authorization of Appropriations.—To carry out subsection (a), there are authorized to be appropriated $1,000,000 for each fiscal year.”
+Pub. L. 101–624, title XXIII, §2382, Nov. 28, 1990, 104 Stat. 4050, provided that Director of Bureau of the Census was to expand data collection efforts of Bureau to enable it to collect statistically significant data concerning changing economic condition of rural counties and communities in United States, including data on rural employment, poverty, income, and other information concerning rural labor force, and authorized to be appropriated $1,000,000 for each fiscal year for such efforts, prior to repeal by Pub. L. 104–127, title VII, §707, Apr. 4, 1996, 110 Stat. 1112.
 
 #### Americans of Spanish Origin or Descent; Study for Development of Creditable Estimates in Future Censuses
 
@@ -144,7 +152,7 @@ Pub. L. 94–311, §4, June 16, 1976, 90 Stat. 688, provided that: “The Depart
 
 #### Needs and Concerns of Spanish-Origin Population; Use of Spanish Language Questionnaires and Bilingual Enumerators
 
-Pub. L. 94–311, §5, June 16, 1976, 90 Stat. 689, provided that: “The Secretary of Commerce shall ensure that, inthe Bureau of the Census data-collection activities, the needs and concerns of the Spanish-origin population are given full recognition through the use of Spanish language questionnaires, bilingual enumerators, and other such methods as deemed appropriate by the Secretary.”
+Pub. L. 94–311, §5, June 16, 1976, 90 Stat. 689, provided that: “The Secretary of Commerce shall ensure that, in the Bureau of the Census data-collection activities, the needs and concerns of the Spanish-origin population are given full recognition through the use of Spanish language questionnaires, bilingual enumerators, and other such methods as deemed appropriate by the Secretary.”
 
 #### Cross References
 

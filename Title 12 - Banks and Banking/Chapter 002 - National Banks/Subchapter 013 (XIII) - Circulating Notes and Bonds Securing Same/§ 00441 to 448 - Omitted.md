@@ -4,7 +4,7 @@
 
 Sections, act Dec. 23, 1913, ch. 6, §18, 38 Stat. 268, as amended by acts Mar. 9, 1933, ch. 1, title IV, §401, 48 Stat. 6; Sept. 23, 1994, Pub. L. 103–325, title VI, §602(g)(7), 108 Stat. 2293, are omitted as obsolete.
 
-Section 441 provided that at any time during a period of twenty years from Dec. 23, 1915, any member bank desiring to retire the whole or any part of its circulating notes file with the Treasurer of the United States an application to sell for its account, at par and accrued interest, United States bonds, securing circulation to be retired.
+Section 441 provided that at any time during a period of twenty years from Dec. 23, 1915, any member bankdesiring to retire the whole or any part of its circulating notes file with the Treasurer of the United States an application to sell for its account, at par and accrued interest, United States bonds, securing circulation to be retired.
 
 Section 442 related to purchase of bonds by reserve banks.
 

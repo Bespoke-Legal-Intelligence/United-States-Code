@@ -44,12 +44,6 @@
 
 &emsp;(N) severance pay benefits.
 
-(3)(A) The provisions of this subsection shall take effect on September 27, 1979.
-
-(B) No spending authority (as described in section 651(c)(2)(C) of title 2) provided for under this subsection shall take effect before October 1, 1979.
-
-(C) Effective October 1, 1979, any individual who, but for subparagraph (B) of this paragraph, would have been entitled to one or more payments pursuant to this subsection for periods before October 1, 1979, shall be entitled, to the extent or in such amounts as are provided in advance in appropriation Acts, to a lump sum payment equal to the total amount of all such payments.
-
 #### (b) Break in service
 
 Any individual described in subsection (a)(1)(B) of this section who would have met the service requirement for early retirement benefits under section 8336(i) or 8339(d)(2) of title 5 (as amended by sections 1241(a) and 1242 of this Act, respectively), but for a break in service of more than 3 days immediately after September 30, 1979, shall be considered to meet that requirement. Any break in service by any such individual for purposes of section 8332 of such title 5 during the period beginning September 30, 1979, and ending on the date of the appointment referred to in such subsection (a)(1)(B) of this section shall be considered a period of creditable service under such section 8332 for such individual, except that such period shall not be taken into account for purposes of determining average pay (as defined in section 8331(4) of such title 5) and no deduction, contribution, or deposit shall be required for that period under section 8334 of such title 5.
@@ -74,7 +68,7 @@ Any individual described in subsection (a)(1)(B) of this section who would have 
 
 (ii) Each agreement required under clause (i) of this subparagraph shall provide that in the event the teacher fails to carry out the agreement (except for good and sufficient reason as determined by the head of the department or agency that granted the sabbatical) the teacher shall be liable to the United States for payment of all expenses (including salary) of the sabbatical. The amount shall be treated as a debt due the United States.
 
-(Pub. L. 96–70, title I, §1231(a)–(c), Sept. 27, 1979, 93 Stat. 468, 469.)
+(Pub. L. 96–70, title I, §1231(a)–(c), Sept. 27, 1979, 93 Stat. 468, 469; Pub. L. 104–201, div. C, title XXXV, §3537, Sept. 23, 1996, 110 Stat. 2864.)
 
 #### References in Text
 
@@ -83,6 +77,16 @@ This Act, referred to in subsec. (b), is Pub. L. 96–70, Sept. 27, 1979, 93 Sta
 #### Codification
 
 Section 1231(d) of Pub. L. 96–70 amended sections 5595, 5724a, and 8102 of Title 5, Government Organization and Employees.
+
+#### Amendments
+
+1996—Subsec. (a)(3). Pub. L. 104–201 struck out par. (3) which read as follows:
+
+“(3)(A) The provisions of this subsection shall take effect on September 27, 1979.
+
+“(B) No spending authority (as described in section 651(c)(2)(C) of title 2) provided for under this subsection shall take effect before October 1, 1979.
+
+“(C) Effective October 1, 1979, any individual who, but for subparagraph (B) of this paragraph, would have been entitled to one or more payments pursuant to this subsection for periods before October 1, 1979, shall be entitled, to the extent or in such amounts as are provided in advance in appropriation Acts, to a lump sum payment equal to the total amount of all such payments.”
 
 #### Section Referred to in Other Sections
 

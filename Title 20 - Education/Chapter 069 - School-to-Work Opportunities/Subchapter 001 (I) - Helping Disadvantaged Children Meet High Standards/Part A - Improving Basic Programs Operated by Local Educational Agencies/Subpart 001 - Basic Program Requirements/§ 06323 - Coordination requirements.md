@@ -10,7 +10,7 @@ The activities referred to in subsection (a) of this section are activities that
 
 &emsp;(1) developing and implementing a systematic procedure for receiving records regarding such children transferred with parental consent from a Head Start program or, where applicable, other early childhood development programs;
 
-&emsp;(2) establishing channels of communication between school staff and their counterparts in such Head Start agencies (including teachers,social workers, and health staff) or other early childhood development programs, as appropriate, to facilitate coordination of programs;
+&emsp;(2) establishing channels of communication between school staff and their counterparts in such Head Start agencies (including teachers, social workers, and health staff) or other early childhood development programs, as appropriate, to facilitate coordination of programs;
 
 &emsp;(3) conducting meetings involving parents, kindergarten or elementary school teachers, and Head Start teachers or, if appropriate, teachers from other early childhood development programs, to discuss the developmental and other needs of individual children; and
 

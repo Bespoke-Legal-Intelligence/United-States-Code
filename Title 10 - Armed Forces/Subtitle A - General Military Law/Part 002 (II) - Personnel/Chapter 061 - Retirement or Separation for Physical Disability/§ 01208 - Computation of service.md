@@ -14,9 +14,9 @@
 
 > For the purpose of paragraph (2), active service as a member of the National Oceanic and Atmospheric Administration includes active service as a member of the Environmental Science Services Administration and of the Coast and Geodetic Survey.
 
-(b) A member of the armed forces who is not a member of a regular component shall be credited, for the purposes of this chapter, with the number of years of service that he would count if he were computing his years of service under section 1333 <sup>1</sup> of this title.
+(b) A member of the armed forces who is not a member of a regular component shall be credited, for the purposes of this chapter, with the number of years of service that he would count if he were computing his years of service under section 12733 of this title.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 94; Nov. 2, 1966, Pub. L. 89–718, §8, 80 Stat. 1117; Dec. 12, 1980, Pub. L. 96–513, title V, §§501(16), 511(42), 94 Stat. 2908, 2923; Nov. 14, 1986, Pub. L. 99–661, div. A, title XIII, §1343(a)(6), 100 Stat. 3992; Apr. 21, 1987, Pub. L. 100–26, §7(j)(3), 101 Stat. 283.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 94; Nov. 2, 1966, Pub. L. 89–718, §8, 80 Stat. 1117; Dec. 12, 1980, Pub. L. 96–513, title V, §§501(16), 511(42), 94 Stat. 2908, 2923; Nov. 14, 1986, Pub. L. 99–661, div. A, title XIII, §1343(a)(6), 100 Stat. 3992; Apr. 21, 1987, Pub. L. 100–26, §7(j)(3), 101 Stat. 283; Feb. 10, 1996, Pub. L. 104–106, div. A, title XV, §1501(c)(13), 110 Stat. 499.)
 
 Historical and Revision Notes
 
@@ -46,11 +46,9 @@ In subsection (a)(2)(C), the references to 10:22–23, 24–26, and 30–36 are 
 
 In subsection (b), the words “any other member” are substituted for the words “members of the reserve components”, since the words “reserve components” are defined by section 102(k) of the Career Compensation Act of 1949, 63 Stat. 805 (37 U.S.C. 231(k)) to include members appointed, enlisted, or inducted without component.
 
-#### References in Text
-
-Section 1333 of this title, referred to in subsec. (b), was renumbered section 12733 of this title and amended generally by Pub. L. 103–337, div. A, title XVI, §1662(j)(1), Oct. 5, 1994, 108 Stat. 2998, 3002.
-
 #### Amendments
+
+1996—Subsec. (b). Pub. L. 104–106 substituted “section 12733” for “section 1333”.
 
 1987—Subsec. (a). Pub. L. 100–26 substituted “paragraph (1)” and “paragraph (2)” for “clause (1)” and “clause (2)”, respectively, in introductory provisions, and “paragraph (2)” for “clause 2(B) of this subsection” in second sentence.
 
@@ -59,6 +57,10 @@ Section 1333 of this title, referred to in subsec. (b), was renumbered section 1
 1980—Subsec. (a). Pub. L. 96–513 substituted “separation, discharge, or retirement for length of service” for “separation or mandatory elimination from the active list” in par. (1), substituted “National Oceanic and Atmospheric Administration” for “Environmental Science Services Administration” in par. (2)(B), and, in provisions following par. (2)(C), substituted “as a member of the National Oceanic and Atmospheric Administration includes active service as a member of the Environmental Science Services Administration and” for “as a member of the Environmental Science Services Administration includes service as a member”.
 
 1966—Subsec. (a). Pub. L. 89–718 substituted “Environmental Science Services Administration” for “Coast and Geodetic Survey” in clause (2)(B) and inserted provision that, for purposes of clause (2)(B) of subsec. (a), active service as a member of the Environmental Science Services Administration includes active service as a member of the Coast and Geodetic Survey.
+
+#### Effective Date of 1996 Amendment
+
+Section 1501(c) of Pub. L. 104–106 provided that the amendment made by that section is effective as of Dec. 1, 1994, and as if included as an amendment made by the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as originally enacted.
 
 #### Effective Date of 1980 Amendment
 
@@ -91,6 +93,4 @@ Applicability of subsec. (a)(2) of this section to officers of the Reserve Corps
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 1201, 1203, 1204, 1206, 1210, 1212, 1401, 1402, 1402a of this title; title 42 section 212.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

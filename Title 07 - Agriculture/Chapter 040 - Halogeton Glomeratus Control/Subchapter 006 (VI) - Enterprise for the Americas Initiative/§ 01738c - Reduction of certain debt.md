@@ -16,7 +16,7 @@ A debt reduction authorized under subsection (a) of this section shall be accomp
 
 #### (c) Exchange of obligations
 
-The Facility shall notify the Commodity Credit Corporation of an agreement entered into under subsection (b) of this section with an eligible country to exchange a new obligation for outstanding obligations. At the direction of the Facility, the old obligations that are the subject of the agreement may be canceled and a new debt obligation may be established for the country relating to the agreement. The Commodity Credit Corporation shall make an adjustment in its accounts to reflect a debt reduction under this section.
+The Facility shall notify the Commodity Credit Corporation of an agreement entered intounder subsection (b) of this section with an eligible country to exchange a new obligation for outstanding obligations. At the direction of the Facility, the old obligations that are the subject of the agreement may be canceled and a new debt obligation may be established for the country relating to the agreement. The Commodity Credit Corporation shall make an adjustment in its accounts to reflect a debt reduction under this section.
 
 (July 10, 1954, ch. 469, title VI, §604, as added Nov. 28, 1990, Pub. L. 101–624, title XV, §1512, 104 Stat. 3658; amended Dec. 13, 1991, Pub. L. 102–237, title III, §303, 105 Stat. 1855.)
 

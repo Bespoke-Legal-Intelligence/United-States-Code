@@ -108,7 +108,7 @@ For purposes of this section:
 
 &emsp;(4) The term “professional assessment committee” means a group of at least 3 persons appointed by a public housing agency which shall include at least 1 qualified medical professional and other persons professionally competent to appraise the functional abilities of the frail elderly in relation to the performance of activities of daily living.
 
-&emsp;(5) The term “public housing agency” has the meaning given such term in section 1437a(b)(6) of this title. The term includes an Indian Housing Authority, as defined in section 1437a(b)(11) of this title.
+&emsp;(5) The term “public housing agency” has the meaning given such term in section 1437a(b)(6) of this title. The term includes an Indian Housing Authority, as defined in section 1437a(b)(11) <sup>2</sup> of this title.
 
 &emsp;(6) The term “Secretary” means the Secretary of Housing and Urban Development.
 
@@ -118,7 +118,7 @@ For purposes of this section:
 
 &emsp;&emsp;&emsp;(i) addresses the special needs of frail elderly persons; and
 
-&emsp;&emsp;&emsp;(ii) provides appropriate supportive services or assists such persons in obtaining appropriate services, including personal care, case management services, transportation, meal services, counseling, supervision, and other services essential for achieving and maintaining independent living; and
+&emsp;&emsp;&emsp;(ii) provides appropriate supportive services or assists such persons in obtaining appropriate services, including personal care, case management services, transportation, meal services, counseling, supervision, and other services essential forachieving and maintaining independent living; and
 
 &emsp;&emsp;(B) does not include medical services, as determined by the Secretary.
 
@@ -180,9 +180,11 @@ Not later than the expiration of the 180-day period beginning on the date that f
 
 The Older Americans Act of 1965, referred to in subsec. (d)(12), is Pub. L. 89–73, July 14, 1965, 79 Stat. 218, as amended. Title III of the Act is classified generally to subchapter III (§3021 et seq.) of chapter 35 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of this title and Tables.
 
+Section 1437a(b)(11) of this title, referred to in subsec. (g)(5), was repealed by Pub. L. 104–330, title V, §501(b)(1)(D), Oct. 26, 1996, 110 Stat. 4041.
+
 #### Codification
 
-Section was enacted as part of the Cranston-Gonzalez National Affordable Housing Act, and not as part of the Congregate Housing Services Act of 1978 which comprises this chapter.
+Section was enacted as part of the Cranston-Gonzalez National Affordable Housing Act, and not as part of theCongregate Housing Services Act of 1978 which comprises this chapter.
 
 #### Amendments
 
@@ -199,4 +201,6 @@ Subsec. (k). Pub. L. 102–550, §605(b), amended subsec. (k) generally. Prior t
 This section is referred to in section 8011 of this title.
 
 <i><sup>1</sup></i><i> So in original. The comma probably should precede “and”.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

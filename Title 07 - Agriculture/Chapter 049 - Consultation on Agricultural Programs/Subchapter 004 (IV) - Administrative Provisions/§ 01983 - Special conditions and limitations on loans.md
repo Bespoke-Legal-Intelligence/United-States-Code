@@ -2,21 +2,35 @@
 
 In connection with loans made or insured under this chapter, the Secretary shall require—
 
-&emsp;(1) the applicant (A) to certify in writing, and the Secretary shall determine, that he is unable to obtain sufficient credit elsewhere to finance his actual needs at reasonable rates and terms, taking into consideration prevailing private and cooperative rates and terms in the community in or near which the applicant resides for loans for similar purposes and periods of time, and (B) to furnish a written statement showing the applicant's net worth;
+&emsp;(1) the applicant (A) to certify in writing, and the Secretary shall determine, that he is unable to obtain sufficient credit elsewhere to finance his actual needs at reasonable rates and terms, taking into consideration prevailing private and cooperative rates and terms in the community in or near which the applicant resides for loans for similar purposes and periods of time, and (B) to furnish an appropriate written financial statement;
 
-&emsp;(2) except for guaranteed loans, an agreement by the borrower that if at any time it shall appear to the Secretary that the borrower may be able to obtain a loan from a production credit association, a Federal land bank, or other responsible cooperative or private credit source (or, in the case of a borrower under section 1934 of this title, the borrower may be able to obtain a loan under section 1922 of this title), at reasonable rates and terms for loans for similar purposes and periods of time, the borrower will, upon request by the Secretary, apply for and accept such loan in sufficient amount to repay the Secretary or the insured lender, or both, and to pay for any stock necessary to be purchased in a cooperative lending agency in connection with such loan;
+&emsp;(2) except with respect to a loan under section 1926, 1932, or 1944 of this title, the county or area committee established under section 590h(b)(5)(B) of title 16 to certify in writing—
 
-&emsp;(3) such provision for supervision of the borrower's operations as the Secretary shall deem necessary to achieve the objectives of the loan and protect the interests of the United States; and
+&emsp;&emsp;(A) that an annual review of the credit history and business operation of the borrower has been conducted; and
 
-&emsp;(4) the applications of veterans for loans under subchapter I or II of this chapter to be given preference over similar applications of nonveterans on file in any county or area office at the same time. Veterans as used herein shall mean persons who served in the Armed Forces of the United States during any war between the United States and any other nation, during the Korean conflict or the Vietnam era and who were discharged or released therefrom under conditions other than dishonorable.
+&emsp;&emsp;(B) that a review of the continued eligibility of the borrower for the loan has been conducted;
 
-(Pub. L. 87–128, title III, §333, Aug. 8, 1961, 75 Stat. 314; Pub. L. 90–488, §12, Aug. 15, 1968, 82 Stat. 771; Pub. L. 91–620, §3, Dec. 31, 1970, 84 Stat. 1862; Pub. L. 92–419, title I, §§118(b), 125, 126, Aug. 30, 1972, 86 Stat. 664, 666; Pub. L. 95–334, title I, §123, Aug. 4, 1978, 92 Stat. 428; Pub. L. 96–438, §3(c), Oct. 13, 1980, 94 Stat. 1875; Pub. L. 97–98, title XVI, §1604, Dec. 22, 1981, 95 Stat. 1346; Pub. L. 101–624, title XVIII, §1810, title XXIII, §2388(e), Nov. 28, 1990, 104 Stat. 3820, 4053; Pub. L. 102–237, title V, §501(e), Dec. 13, 1991, 105 Stat. 1867; Pub. L. 102–554, §12, Oct. 28, 1992, 106 Stat. 4151; Pub. L. 103–354, title II, §227(b)(2), Oct. 13, 1994, 108 Stat. 3218.)
+&emsp;(3) except for guaranteed loans, an agreement by the borrower that if at any time it shall appear to the Secretary that the borrower may be able to obtain a loan from a production credit association, a Federal land bank, or other responsible cooperative or private credit source (or, in the case of a borrower under section 1934 of this title, the borrower may be able to obtain a loan under section 1922 of this title), at reasonable rates and terms for loans for similar purposes and periods of time, the borrower will, upon request by the Secretary, apply for and accept such loan in sufficient amount to repay the Secretary or the insured lender, or both, and to pay for any stock necessary to be purchased in a cooperative lending agency in connection with such loan;
+
+&emsp;(4) such provision for supervision of the borrower's operations as the Secretary shall deem necessary to achieve the objectives of the loan and protect the interests of the United States; and
+
+&emsp;(5) the application of a person who is a veteran of any war, as defined in section 101(12) of title 38, for a loan under subchapter I or II of this chapter to be given preference over a similar application from a person who is not a veteran of any war, if the applications are on file in a county or area office at the same time.
+
+(Pub. L. 87–128, title III, §333, Aug. 8, 1961, 75 Stat. 314; Pub. L. 90–488, §12, Aug. 15, 1968, 82 Stat. 771; Pub. L. 91–620, §3, Dec. 31, 1970, 84 Stat. 1862; Pub. L. 92–419, title I, §§118(b), 125, 126, Aug. 30, 1972, 86 Stat. 664, 666; Pub. L. 95–334, title I, §123, Aug. 4, 1978, 92 Stat. 428; Pub. L. 96–438, §3(c), Oct. 13, 1980, 94 Stat. 1875; Pub. L. 97–98, title XVI, §1604, Dec. 22, 1981, 95 Stat. 1346; Pub. L. 101–624, title XVIII, §1810, title XXIII, §2388(e), Nov. 28, 1990, 104 Stat. 3820, 4053; Pub. L. 102–237, title V, §501(e), Dec. 13, 1991, 105 Stat. 1867; Pub. L. 102–554, §12, Oct. 28, 1992, 106 Stat. 4151; Pub. L. 103–354, title II, §227(b)(2), Oct. 13, 1994, 108 Stat. 3218; Pub. L. 104–127, title VI, §§634, 635(a), 636, Apr. 4, 1996, 110 Stat. 1093.)
 
 #### References in Text
 
-For definition of “this chapter”, referred to in introductory clause and par. (4), see note set out under section 1921 of this title.
+For definition of “this chapter”, referred to in introductory provisions, see note set out under section 1921 of this title.
 
 #### Amendments
+
+1996—Par. (1)(B). Pub. L. 104–127, §634, substituted “an appropriate written financial statement” for “a written statement showing the applicant's net worth”.
+
+Pars. (2) to (4). Pub. L. 104–127, §635(a), added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively. Former par. (4) redesignated (5).
+
+Par. (5). Pub. L. 104–127, §636, added par. (5) and struck out former par. (5) which read as follows: “the applications of veterans for loans under subchapter I or II of this chapter to be given preference over similar applications of nonveterans on file in any county or area office at the same time. Veterans as used herein shall mean persons who served in the Armed Forces of the United States during any war between the United States and any other nation, during the Korean conflict or the Vietnam era and who were discharged or released therefrom under conditions other than dishonorable.”
+
+Pub. L. 104–127, §635(a)(1), redesignated par. (4) as (5).
 
 1994—Pars. (2) to (5). Pub. L. 103–354 redesignated pars. (3) to (5) as (2) to (4), respectively, and struck out former par. (2) relating to certification by county committee of applicant's eligibility for loan.
 

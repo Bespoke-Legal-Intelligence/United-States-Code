@@ -156,7 +156,7 @@ The Director shall make grants to institutions of higher education for the train
 
 #### References in Text
 
-The Americans with Disabilities Act of 1990, referred to in subsec. (b)(11), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, as amended, which is classified principally to chapter 126 (§12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
+The Americans with Disabilities Act of 1990, referred to in subsec. (b)(11), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, as amended, which is classified principally tochapter 126 (§12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
 
 The provisions of title 5 governing appointments in the competitive service, referred to in subsec. (c)(3), (4), are classified generally to section 3301 et seq. of Title 5, Government Organization and Employees.
 
@@ -216,7 +216,7 @@ Subsec. (d). Pub. L. 102–569, §203(d), inserted “, including individuals w
 
 Subsec. (e). Pub. L. 102–569, §203(e), designated existing provisions as par. (1), substituted “rehabilitation field (including experts in the independent living field) competent to review research grants and programs, including knowledgeable individuals with disabilities, and the parents, family members, guardians, advocates, or authorized representatives of the individuals. The Director shall solicit nominations for such peer review groups from the public and shall publish the names of the individuals selected. Individuals comprising each peer review group shall be selected from a pool of qualified individuals to facilitate knowledgeable, cost-effective review.” for “rehabilitation field.”, and added par. (2).
 
-Subsec. (f). Pub. L. 102–569, §203(f), added subsec. (f) and struck out former subsec. (f) which read as follows: “Not less than 90 percent of the funds appropriated under paragraph (2) of section 761(a) of this title to carry out section 762 of this title shall be expended by the Director to carry out such section through grants or contracts with qualified public or private agencies and individuals.”
+Subsec. (f). Pub. L. 102–569, §203(f), added subsec. (f) and struck out former subsec. (f) which read as follows: “Not less than 90 percent of the funds appropriated under paragraph (2) of section 761(a) of this title tocarry out section 762 of this title shall be expended by the Director to carry out such section through grants or contracts with qualified public or private agencies and individuals.”
 
 Subsec. (g). Pub. L. 102–569, §203(g)(1), struck out “within eighteen months after November 6, 1978,” after “Congress” in introductory provisions.
 
@@ -258,7 +258,7 @@ Pub. L. 100–630, §203(b)(2)(B), which directed amendment of par. (1) by strik
 
 Subsec. (c)(3). Pub. L. 100–630, §203(b)(3), inserted comma after “to such provisions”.
 
-Subsec. (g). Pub. L. 100–630, §203(b)(4)(A), which directed amendment of the second sentence of subsec. (g)by striking “in the consultation” and inserting “in consultation” could not be executed because the words “in the consultation” did not appear.
+Subsec. (g). Pub. L. 100–630, §203(b)(4)(A), which directed amendment of the second sentence of subsec. (g) by striking “in the consultation” and inserting “in consultation” could not be executed because the words “in the consultation” did not appear.
 
 Pub. L. 100–630, §203(b)(4)(B), (5), in concluding provisions, substituted “National Council on Disability” for “National Council on the Handicapped” and “the Director considers necessary” for “necessary”.
 
@@ -288,7 +288,7 @@ Subsec. (i)(1). Pub. L. 99–506, §1001(c)(4), substituted “appropriate actio
 
 Subsec. (j)(1). Pub. L. 99–506, §1002(c), struck out “at an institution of higher education” after “pediatric rehabilitation research”.
 
-Subsec. (j)(2). Pub. L. 99–506, §303(b), inserted provision that purpose of Research and Training Center is to improve services to individuals with handicaps through relevant rehabilitation research and training in the Pacific Basin and to assist in the coordination of rehabilitation services provided by a broad range of agencies and entities, and provision requiring the Center to develop a sound demographic base, analyze, develop, and utilize appropriate technology, develop a culturally relevant rehabilitation manpower development program, and facilitate interagency communication and cooperation, implementing advanced information technology.
+Subsec. (j)(2). Pub. L. 99–506, §303(b), inserted provision that purpose of Research and Training Center is to improve services to individuals with handicaps through relevant rehabilitation research and training in the Pacific Basin and to assist in the coordination of rehabilitation services provided by a broad range of agencies and entities, and provision requiring the Center to develop a sound demographic base, analyze, develop, and utilize appropriate technology, develop a culturally relevant rehabilitation manpower development program,and facilitate interagency communication and cooperation, implementing advanced information technology.
 
 Subsec. (j)(3). Pub. L. 99–506, §303(c), added par. (3).
 

@@ -44,13 +44,11 @@ For purposes of this section, the term “net precontribution gain” means the 
 
 &emsp;&emsp;<b>For treatment of marketable securities as money for purposes of this section, see section 731(c).</b>
 
-(Added Pub. L. 102–486, title XIX, §1937(a), Oct. 24, 1992, 106 Stat. 3032; amended Pub. L. 103–465, title VII, §741(b), Dec. 8, 1994, 108 Stat. 5009.)
-
-#### Codification
-
-Pub. L. 102–486, §1937(a), which directed amendment of subpart C of this part by adding this section at the end thereof, was executed by adding this section at the end of this subpart (subpart B) to reflect the probable intent of Congress.
+(Added Pub. L. 102–486, title XIX, §1937(a), Oct. 24, 1992, 106 Stat. 3032; amended Pub. L. 103–465, title VII, §741(b), Dec. 8, 1994, 108 Stat. 5009; Pub. L. 104–188, title I, §1704(j)(8), Aug. 20, 1996, 110 Stat. 1882.)
 
 #### Amendments
+
+1996—Pub. L. 104–188 provided that section 1937(a) of Pub. L. 102–486, shall be applied as if “Subpart B” appeared instead of “Subpart C”. Section 1937(a) of Pub. L. 102–486 directed amendment of subpart C of this part by adding this section at the end thereof.
 
 1994—Subsec. (c)(1). Pub. L. 103–465, §741(b)(1), amended last sentence generally. Prior to amendment, last sentence read as follows: “Except for purposes of determining the amount recognized under subsection (a), such increase shall be treated as occurring immediately before the distribution.”
 
@@ -58,7 +56,7 @@ Subsec. (e). Pub. L. 103–465, §741(b)(2), added subsec. (e).
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–465 applicable to distributions after Dec. 8, 1994, and not applicable to certain distributions before Jan. 1, 1995, distributions in liquidation of partner's interest, or distributions in complete liquidation of publicly traded partnerships, see section 741(c) of Pub. L. 103–465, set out as a note under section 731 of this title.
+Amendment by Pub. L. 103–465 applicable to distributions after Dec. 8, 1994, and not applicable to certaindistributions before Jan. 1, 1995, distributions in liquidation of partner's interest, or distributions in complete liquidation of publicly traded partnerships, see section 741(c) of Pub. L. 103–465, set out as a note under section 731 of this title.
 
 #### Effective Date
 

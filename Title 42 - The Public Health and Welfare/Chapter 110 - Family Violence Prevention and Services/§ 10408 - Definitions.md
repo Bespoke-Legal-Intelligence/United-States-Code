@@ -32,7 +32,7 @@ As used in this chapter:
 
 #### References in Text
 
-Section 450b of title 25, referred to in par. (2), has been amended, and subsecs. (b) and (c) of section 450bno longer define the terms “Indian tribe” and “tribal organization”. However, such terms are defined elsewhere in that section.
+Section 450b of title 25, referred to in par. (2), has been amended, and subsecs. (b) and (c) of section 450b no longer define the terms “Indian tribe” and “tribal organization”. However, such terms are defined elsewhere in that section.
 
 #### Amendments
 

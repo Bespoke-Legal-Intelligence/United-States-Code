@@ -64,7 +64,7 @@ Amendment by Pub. L. 87–781 effective Oct. 10, 1962, see section 203 of Pub. L
 
 #### Transfer of Functions
 
-For transfer of functions of Federal Security Administrator to Secretary of Health, Education, and Welfare \[now Health and Human Services\], and of Food andDrug Administration in the Department of Agriculture to Federal Security Agency, see note set out under section 41 of this title.
+For transfer of functions of Federal Security Administrator to Secretary of Health, Education, and Welfare \[now Health and Human Services\], and of Food and Drug Administration in the Department of Agriculture to Federal Security Agency, see note set out under section 41 of this title.
 
 #### Authority of Secretary Prior to October 10, 1962
 

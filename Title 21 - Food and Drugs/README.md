@@ -1,12 +1,12 @@
 
-21 U.S.C.<br>United States Code, 1995 Edition<br>Title 21 - FOOD AND DRUGS<br>From the U.S. Government Publishing Office, www.gpo.gov
+21 U.S.C.<br>United States Code, 1996 Edition<br>Title 21 - FOOD AND DRUGS<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 21—FOOD AND DRUGS
 
 | Chap. |  | Sec. |
 | :--- | :---: | ---: |
 | [<b>1.</b>](Chapter%20001%20-%20Adulterated%20or%20Misbranded%20Foods%20or%20Drugs/README.md) | <b>Adulterated or Misbranded Foods or Drugs</b> | <b>1</b> |
-| [<b>2.</b>](Chapter%20002%20-%20Teas/README.md) | <b>Teas</b> | <b>41</b> |
+| [<b>2.</b>](Chapter%20002%20-%20Teas/README.md) | <b>Teas \[Repealed\]</b> | <b>41</b> |
 | [<b>3.</b>](Chapter%20003%20-%20Filled%20Milk/README.md) | <b>Filled Milk</b> | <b>61</b> |
 | [<b>4.</b>](Chapter%20004%20-%20Animals%2C%20Meats%2C%20and%20Meat%20and%20Dairy%20Products/README.md) | <b>Animals, Meats, and Meat and Dairy Products</b> | <b>71</b> |
 | [<b>5.</b>](Chapter%20005%20-%20Viruses%2C%20Serums%2C%20Toxins%2C%20Antitoxins%2C%20and%20Analogous%20Products/README.md) | <b>Viruses, Serums, Toxins, Antitoxins, and Analogous Products</b> | <b>151</b> |

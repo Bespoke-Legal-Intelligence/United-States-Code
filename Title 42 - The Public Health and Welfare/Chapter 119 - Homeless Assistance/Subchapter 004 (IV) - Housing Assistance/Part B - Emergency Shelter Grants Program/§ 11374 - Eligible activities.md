@@ -8,9 +8,9 @@ Assistance provided under this part may be used for the following activities rel
 
 &emsp;(2) The provision of essential services, including services concerned with employment, health, drug abuse, or education, if—
 
-&emsp;&emsp;(A) such services have not been provided by the local government or Indian tribe during any part of the immediately preceding 12-month period, or the use of assistance under this part would complement those services; and
+&emsp;&emsp;(A) such services have not been provided by the local government during any part of the immediately preceding 12-month period, or the use of assistance under this part would complement those services; and
 
-&emsp;&emsp;(B) not more than 30 percent of the aggregate amount of all assistance to a State, local government, or Indian tribe under this part is used for activities under this paragraph.
+&emsp;&emsp;(B) not more than 30 percent of the aggregate amount of all assistance to a State or local government under this part is used for activities under this paragraph.
 
 &emsp;(3) Maintenance, operation, insurance, utilities, and furnishings, except that not more than 10 percent of the amount of any grant received under this part may be used for costs of staff.
 
@@ -24,15 +24,19 @@ Assistance provided under this part may be used for the following activities rel
 
 &emsp;&emsp;(D) the assistance will not supplant funding for preexisting homelessness prevention activities from other sources.
 
-> &emsp;Not more than 30 percent of the aggregate amount of all assistance to a State, local government, or Indian tribe under this part may be used for activities under this paragraph.
+> &emsp;Not more than 30 percent of the aggregate amount of all assistance to a State or local government under this part may be used for activities under this paragraph.
 
 #### (b) Waiver authority
 
 The Secretary may waive the 20 percent limitation on the use of assistance for essential services contained in subsection (a)(2)(B) of this section, if the local government receiving the assistance demonstrates that the other eligible activities under the program are already being carried out in the locality with other resources.
 
-(Pub. L. 100–77, title IV, §414, July 22, 1987, 101 Stat. 497; Pub. L. 100–628, title IV, §§422, 423(a), Nov. 7, 1988, 102 Stat. 3231; Pub. L. 101–625, title VIII, §832(c), (d), (f)(6), Nov. 28, 1990, 104 Stat. 4360, 4361; Pub. L. 102–550, title XIV, §1402(e), Oct. 28, 1992, 106 Stat. 4013.)
+(Pub. L. 100–77, title IV, §414, July 22, 1987, 101 Stat. 497; Pub. L. 100–628, title IV, §§422, 423(a), Nov. 7, 1988, 102 Stat. 3231; Pub. L. 101–625, title VIII, §832(c), (d), (f)(6), Nov. 28, 1990, 104 Stat. 4360, 4361; Pub. L. 102–550, title XIV, §1402(e), Oct. 28, 1992, 106 Stat. 4013; Pub. L. 104–330, title V, §506(a)(4), Oct. 26, 1996, 110 Stat. 4044.)
 
 #### Amendments
+
+1996—Subsec. (a)(2). Pub. L. 104–330 struck out “or Indian tribe” after “local government” in subpar. (A) andsubstituted “or local government” for “, local government, or Indian tribe” in subpar. (B).
+
+Subsec. (a)(4). Pub. L. 104–330 substituted “or local government” for “, local government, or Indian tribe” in concluding provisions.
 
 1992—Subsec. (a)(3). Pub. L. 102–550 struck out “(other than staff)” after “operation” and inserted before period at end “, except that not more than 10 percent of the amount of any grant received under this part may be used for costs of staff”.
 
@@ -49,6 +53,12 @@ Subsec. (a)(2)(B). Pub. L. 100–628, §422(a), substituted “20” for “15�
 Subsec. (a)(4). Pub. L. 100–628, §423(a), added par. (4).
 
 Subsec. (b). Pub. L. 100–628, §422(a)(1), substituted “20” for “15”.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–330 effective Oct. 1, 1997, except as otherwise expressly provided, see section 107 of Pub. L. 104–330, set out as an Effective Date note under section 4101 of Title 25, Indians.
+
+Amendment by Pub. L. 104–330 applicable with respect to amounts made available for assistance under this subchapter for fiscal year 1998 and fiscal years thereafter, see section 506(c) of Pub. L. 104–330, set out as a note under section 11371 of this title.
 
 #### Report by Comptroller General
 

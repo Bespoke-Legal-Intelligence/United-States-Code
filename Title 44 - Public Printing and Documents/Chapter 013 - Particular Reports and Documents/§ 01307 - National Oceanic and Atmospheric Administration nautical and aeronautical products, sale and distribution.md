@@ -4,7 +4,7 @@
 
 (2)(A) Subject to subparagraph (B) of this paragraph, the prices of nautical and aeronautical products may be increased over a period of not less than three years after the date of enactment of this section so as to recover all costs attributable to data base management, compilation, printing, and distribution of such products. The prices of such products may be maintained to recover all such costs thereafter. At the end of such period and every three years thereafter, the Secretary, after consultation with the Secretary of Transportation, shall report to the Congress on the effect of imposing or maintaining such increased prices, including any impact on aviation and marine safety.
 
-(B) The Secretary, after consultation with the Secretary of Transportation, shall adjust theprices of nautical or aeronautical products in such manner as is necessary to avoid any adverse impact on aviation and marine safety attributable to the prices specified in subparagraph (A) of this paragraph.
+(B) The Secretary, after consultation with the Secretary of Transportation, shall adjust the prices of nautical or aeronautical products in such manner as is necessary to avoid any adverse impact on aviation and marine safety attributable to the prices specified in subparagraph (A) of this paragraph.
 
 (3) This section shall not be construed to require the establishment of any price for a nautical or aeronautical product where, in the judgment of the Secretary, furnishing of that product to a recipient is a reasonable exchange for voluntary contribution of information by the recipient to a program of the National Oceanic and Atmospheric Administration.
 

@@ -34,7 +34,9 @@ Historical and Revision Notes
 
 Pub. L. 103–272
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -48,7 +50,7 @@ Nov. 18, 1988, Pub. L. 100–690, §7214, 102 Stat. 4434.
 
 45302(b), (c)
 
-49 App.:1354(f) (1)–(3).
+49 App.:1354(f)(1)–(3).
 
 Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §313(f); added Nov. 18, 1988, Pub. L. 100–690, §7207(c)(1), 102 Stat. 4427.
 
@@ -78,5 +80,5 @@ Pub. L. 100–690, title VII, §7207(c)(4), Nov. 18, 1988, 102 Stat. 4428, as am
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 106, 45301 of this title.
+This section is referred to in section 106 of this title.
 

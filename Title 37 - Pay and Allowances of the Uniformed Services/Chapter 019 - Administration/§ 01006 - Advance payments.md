@@ -66,7 +66,7 @@ Oct. 5, 1949, ch. 600, §2, 63 Stat. 704; redesignated as section 3, Aug. 30, 19
 
 \[None.\]
 
-In subsections (a) and (b), the words “a member of an armed force” are substituted for the words “commissioned and warrant officers, and enlisted men of thearmed services.” The words “Secretary concerned” are substituted for the words “heads of the departments concerned” to conform to the definition in section 101(5) of this revised title.
+In subsections (a) and (b), the words “a member of an armed force” are substituted for the words “commissioned and warrant officers, and enlisted men of the armed services.” The words “Secretary concerned” are substituted for the words “heads of the departments concerned” to conform to the definition in section 101(5) of this revised title.
 
 In subsection (b), the words “may be paid in advance” are substituted for the words “may have their pay and emoluments advanced”.
 
@@ -78,7 +78,7 @@ In subsection (d), the words “If a” are substituted for the words “In the 
 
 1993—Subsec. (c). Pub. L. 103–160 substituted “the Secretary of Defense” for “the President” in first sentence.
 
-1992—Subsec. (c). Pub. L. 102–484 inserted first four sentences and struck out former first and second sentences which read as follows: “Under regulations prescribed by the Secretary concerned, an advance of pay to a member of a uniformed service who is on duty outside the United States, or other place designated by the President, of not more than two months’ basic pay may be made directly to his previously designated dependents who are ordered evacuated by competent authority. An advance of pay under this subsection is not subject to the conditions under which advances of pay may be made under subsection (a) or (b), and may be made only if all dependents of members of the uniformed services are ordered evacuated from the place where the member's dependents are located.”
+1992—Subsec. (c). Pub. L. 102–484 inserted first four sentences and struck out former first and second sentences which read as follows: “Under regulations prescribed by the Secretary concerned, an advance of pay to a member of a uniformed service who is on duty outside the United States, or other place designated by the President, of not more than two months’ basic pay maybe made directly to his previously designated dependents who are ordered evacuated by competent authority. An advance of pay under this subsection is not subject to the conditions under which advances of pay may be made under subsection (a) or (b), and may be made only if all dependents of members of the uniformed services are ordered evacuated from the place where the member's dependents are located.”
 
 1991—Subsec. (c). Pub. L. 102–25 struck out “of this section” after “subsection (a) or (b)”.
 

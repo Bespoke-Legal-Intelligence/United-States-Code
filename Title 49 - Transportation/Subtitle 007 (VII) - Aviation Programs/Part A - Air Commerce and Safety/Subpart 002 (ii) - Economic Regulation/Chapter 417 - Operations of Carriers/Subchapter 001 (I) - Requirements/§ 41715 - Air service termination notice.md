@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—An air carrier may not terminate interstate air transportation from a nonhub airport included on the Secretary's latest published list of such airports, unless such air carrier has given the Secretary at least 45 days’ notice before such termination.
+In General.—An air carrier may not terminate interstate air transportation from a nonhub airport included on the Secretary ofTransportation's latest published list of such airports, unless such air carrier has given the Secretary at least 45 days’ notice before such termination.
 
 (b)
 
@@ -50,9 +50,15 @@ Regional/commuter carriers.—The term “regional/commuter carrier” means—
 
 Termination.—The term “termination” means the cessation of all service at an airport by an air carrier.
 
-(Added Pub. L. 103–305, title II, §207(a), Aug. 23, 1994, 108 Stat. 1587; amended Pub. L. 103–429, §6(53), Oct. 31, 1994, 108 Stat. 4385.)
+(Added Pub. L. 103–305, title II, §207(a), Aug. 23, 1994, 108 Stat. 1587; amended Pub. L. 103–429, §6(53), Oct. 31, 1994, 108 Stat. 4385; Pub. L. 104–287, §5(73), Oct. 11, 1996, 110 Stat. 3396.)
+
+#### Historical and Revision Notes
+
+This amends 49:41715(a) to conform to the style of title 49.
 
 #### Amendments
+
+1996—Subsec. (a). Pub. L. 104–287 substituted “Secretary of Transportation's” for “Secretary's”.
 
 1994—Subsec. (d)(1). Pub. L. 103–429 substituted “41731(a)(4)” for “41731(a)(3)”.
 

@@ -34,7 +34,7 @@ The chair of the water quality coordination program in each State may establish 
 
 #### (g) State and regional research priorities
 
-The water quality coordination program for each State shall request appropriate representative scientists from the Agricultural Research Service, the State agricultural experiment stations and the agricultural departments of the land-grant universities, to work with the water quality coordination program to establish a prioritized agriculture and water research agenda for the State. This agenda shall address the research topics identified in section 5504 of this title and the concerns or findings established bythe activities described in subsection (e)(4) of this section. The State research priorities identified under this subsection shall be compiled and reviewed by the appropriate regional and area divisions of the Cooperative State Research Service and the Agricultural Research Service to develop coordinated regional research priorities.
+The water quality coordination program for each State shall request appropriate representative scientists from the Agricultural Research Service, the State agricultural experiment stations and the agricultural departments of the land-grant universities, to work with the water quality coordination program to establish a prioritized agriculture and water research agenda for the State. This agenda shall address the research topics identified in section 5504 of this title and the concerns or findings established by the activities described in subsection (e)(4) of this section. The State research priorities identified under this subsection shall be compiled and reviewed by the appropriate regional and area divisions of the Cooperative State Research Service and the Agricultural Research Service to develop coordinated regional research priorities.
 
 (Pub. L. 101–624, title XIV, §1483, Nov. 28, 1990, 104 Stat. 3623; Pub. L. 102–237, title II, §201(e), Dec. 13, 1991, 105 Stat. 1847.)
 
@@ -44,5 +44,5 @@ The water quality coordination program for each State shall request appropriate 
 
 #### Effective Date of 1991 Amendment
 
-Amendment by Pub. L. 102–237 effective as if included in the provision of the Food, Agriculture, Conservation, and Trade Act of 1990, Pub. L. 101–624, to which the amendment relates, see section 1101(b)(1) of Pub. L. 102–237, set out as a note under section 1421 of this title.
+Amendment by Pub. L. 102–237 effective as if included in the provision of the Food, Agriculture, Conservation,and Trade Act of 1990, Pub. L. 101–624, to which the amendment relates, see section 1101(b)(1) of Pub. L. 102–237, set out as a note under section 1421 of this title.
 

@@ -76,5 +76,5 @@ Deposit in trust fund of unclaimed money, etc., of deceased seaman, see section 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 331 of this title; title 20 section 225; title 33 section 770; title 38 sections 3232, 5504.
+This section is referred to in section 331 of this title; title 20 section 225; title 33 section 770; title 38 section 5504.
 

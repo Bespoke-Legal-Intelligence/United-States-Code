@@ -1,50 +1,104 @@
 ### §3822. Delineation of wetlands; exemptions
 
-#### (a) Delineation of wetlands
+#### (a) Delineation by Secretary
 
-#### (1) Wetland delineation maps
+#### (1) In general
 
-&emsp;The Secretary shall delineate wetlands on wetland delineation maps. The Secretary shall make a reasonable effort to make an on-site wetland determination whenever requested by an owner or operator, prior to such delineation.
+&emsp;Subject to subsection (b) of this section and paragraph (6), the Secretary shall delineate, determine, and certify all wetlands located on subject land on a farm.
 
-#### (2) Certification
+#### (2) Wetland delineation maps
 
-&emsp;Upon providing notice to affected owners or operators, the Secretary shall certify each such map as sufficient for the purpose of making determinations of ineligibility for program benefits under section 3821 of this title and shall, in accordance with section 3843 of this title, provide an opportunity to appeal such delineations to the Secretary prior to making such certification final. In the case of an appeal, the Secretary shall review and certify the accuracy of the mapping of all lands subject to the appeal mapped prior to November 28, 1990, for the purpose of wetland delineations to ensure that wetland on such lands has been accurately delineated. Prior to rendering a decision on any such appeal, the Secretary shall conduct an on-site inspection of the subject land. The Secretary shall not be required to provide an opportunity for an appeal of delineations completed prior to November 28, 1990, that are not changed, and for which an appeal had already occurred and, in connection with such previous appeal, an on-site determination had been conducted.
+&emsp;The Secretary shall delineate wetlands on wetland delineation maps. On the request of a person, the Secretary shall make a reasonable effort to make an on-site wetland determination prior to delineation.
 
-#### (3) Public list
+#### (3) Certification
 
-&emsp;The Secretary shall maintain a public listing of all such certifications that have been completed.
+&emsp;On providing notice to affected persons, the Secretary shall—
 
-#### (4) Periodic review and update
+&emsp;&emsp;(A) certify whether a map is sufficient for the purpose of making a determination of ineligibility for program benefits under section 3821 of this title; and
 
-&emsp;The Secretary shall provide by regulation a process for the periodic review and update of such wetland delineations as the Secretary deems appropriate. No person shall be adversely affected because of having taken an action based on a previous determination by the Secretary.
+&emsp;&emsp;(B) provide an opportunity to appeal the certification prior to the certification becoming final.
+
+#### (4) Duration of certification
+
+&emsp;A final certification made under paragraph (3) shall remain valid and in effect as long as the area is devoted to an agricultural use or until such time as the person affected by the certification requests review of the certification by the Secretary.
+
+#### (5) Review of mapping on appeal
+
+&emsp;In the case of an appeal of the Secretary's certification, the Secretary shall review and certify the accuracy of the mapping of all land subject to the appeal to ensure that the subject land has been accurately delineated. Prior to rendering a decision on the appeal, the Secretary shall conduct an on-site inspection of the subject land on a farm.
+
+#### (6) Reliance on prior certified delineation
+
+&emsp;No person shall be adversely affected because of having taken an action based on a previous certified wetland delineation by the Secretary. The delineation shall not be subject to a subsequent wetland certification or delineation by the Secretary, unless requested by the person under paragraph (4).
 
 #### (b) Exemptions
 
-No person shall become ineligible under section 3821 of this title for program loans, payments, and benefits—
+No person shall become ineligible under section 3821 of this title for program loans or payments under the following circumstances:
 
-&emsp;(1) as the result of the production of an agricultural commodity on—
+&emsp;(1) As the result of the production of an agricultural commodity on the following lands:
 
-&emsp;&emsp;(A) converted wetland if the conversion of such wetland was commenced before December 23, 1985;
+&emsp;&emsp;(A) A converted wetland if the conversion of the wetland was commenced before December 23, 1985.
 
-&emsp;&emsp;(B) an artificial lake, pond, or wetland created by excavating or diking nonwetland to collect and retain water for purposes such as water for livestock, fish production, irrigation (including subsurface irrigation), a settling basin, cooling, rice production, or flood control;
+&emsp;&emsp;(B) Land that is a nontidal drainage or irrigation ditch excavated in upland.
 
-&emsp;&emsp;(C) a wet area created by a water delivery system, irrigation, irrigation system, or application of water for irrigation; or
+&emsp;&emsp;(C) A wet area created by a water delivery system, irrigation, irrigation system, or application of water for irrigation.
 
-&emsp;&emsp;(D) wetland on which the owner or operator of a farm or ranch uses normal cropping or ranching practices to produce an agricultural commodity in a manner that is consistent for the area where such production is possible as a result of a natural condition, such as drought, and is without action by the producer that destroys a natural wetland characteristic; or
+&emsp;&emsp;(D) A wetland on which the owner or operator of a farm or ranch uses normal cropping or ranching practices to produce an agricultural commodity in a manner that is consistent for the area where the production is possible as a result of a natural condition, such as drought, and is without action by the producer that destroys a natural wetland characteristic.
 
-&emsp;(2) for the conversion of—
+&emsp;&emsp;(E) Land that is an artificial lake or pond created by excavating or diking land (that is not a wetland) to collect and retain water and that is used primarily for livestock watering, fish production, irrigation, wildlife, fire control, flood control, cranberry growing, or rice production, or as a settling pond.
 
-&emsp;&emsp;(A) an artificial lake, pond, or wetland created by excavating or diking nonwetland to collect and retain water for purposes such as water for livestock, fish production, irrigation (including subsurface irrigation), a settling basin, cooling, rice production, or flood control; or
+&emsp;&emsp;(F) A wetland that is temporarily or incidentally created as a result of adjacent development activity.
 
-&emsp;&emsp;(B) a wet area created by a water delivery system, irrigation, irrigation system, or the application of water for irrigation.
+&emsp;&emsp;(G) A converted wetland if the original conversion of the wetland was commenced before December 23, 1985, and the Secretary determines the wetland characteristics returned after that date as a result of—
+
+&emsp;&emsp;&emsp;(i) the lack of maintenance of drainage, dikes, levees, or similar structures;
+
+&emsp;&emsp;&emsp;(ii) a lack of management of the lands containing the wetland; or
+
+&emsp;&emsp;&emsp;(iii) circumstances beyond the control of the person.
+
+&emsp;&emsp;(H) A converted wetland, if—
+
+&emsp;&emsp;&emsp;(i) the converted wetland was determined by the Natural Resources Conservation Service to have been manipulated for the production of an agricultural commodity or forage prior to December 23, 1985, and was returned to wetland conditions through a voluntary restoration, enhancement, or creation action subsequent to that determination;
+
+&emsp;&emsp;&emsp;(ii) technical determinations regarding the prior site conditions and the restoration, enhancement, or creation action have been adequately documented by the Natural Resources Conservation Service;
+
+&emsp;&emsp;&emsp;(iii) the proposed conversion action is approved by the Natural Resources Conservation Service prior to implementation; and
+
+&emsp;&emsp;&emsp;(iv) the extent of the proposed conversion is limited so that the conditions will be at least equivalent to the wetland functions and values that existed prior to implementation of the voluntary wetland restoration, enhancement, or creation action.
+
+&emsp;(2) For the conversion of the following:
+
+&emsp;&emsp;(A) An artificial lake or pond created by excavating or diking land that is not a wetland to collect and retain water and that is used primarily for livestock watering, fish production, irrigation, wildlife, fire control, flood control, cranberry growing, rice production, or as a settling pond.
+
+&emsp;&emsp;(B) A wetland that is temporarily or incidentally created as a result of adjacent development activity.
+
+&emsp;&emsp;(C) A wetland on which the owner or operator of a farm or ranch uses normal cropping or ranching practices to produce an agricultural commodity in a manner that is consistent for the area where the production is possible as a result of a natural condition, such as drought, and is without action by the producer that destroys a natural wetland characteristic.
+
+&emsp;&emsp;(D) A wetland previously identified as a converted wetland (if the original conversion of the wetland was commenced before December 23, 1985), but that the Secretary determines returned to wetland status after that date as a result of—
+
+&emsp;&emsp;&emsp;(i) the lack of maintenance of drainage, dikes, levees, or similar structures;
+
+&emsp;&emsp;&emsp;(ii) a lack of management of the lands containing the wetland; or
+
+&emsp;&emsp;&emsp;(iii) circumstances beyond the control of the person.
+
+&emsp;&emsp;(E) A wetland, if—
+
+&emsp;&emsp;&emsp;(i) the wetland was determined by the Natural Resources Conservation Service to have been manipulated for the production of an agricultural commodity or forage prior to December 23, 1985, and was returned to wetland conditions through a voluntary restoration, enhancement, or creation action subsequent to that determination;
+
+&emsp;&emsp;&emsp;(ii) technical determinations regarding the prior site conditions and the restoration, enhancement, or creation actionhave been adequately documented by the Natural Resources Conservation Service;
+
+&emsp;&emsp;&emsp;(iii) the proposed conversion action is approved by the Natural Resources Conservation Service prior to implementation; and
+
+&emsp;&emsp;&emsp;(iv) the extent of the proposed conversion is limited so that the conditions will be at least equivalent to the wetland functions and values that existed prior to implementation of the voluntary wetland restoration, enhancement, or creation action.
 
 #### (c) On-site inspection requirement
 
 No program loans, payments, or benefits shall be withheld from a person under this subchapter unless the Secretary has conducted an on-site visit of the subject land.
 
-#### (d) Prior loans
+#### (d) Identification of minimal effect exemptions
 
-Section 3821 of this title shall not apply to a loan described in section 3821 of this title made before December 23, 1985.
+For purposes of applying the minimal effect exemption under subsection (f)(1) of this section, the Secretary shall identify by regulation categorical minimal effect exemptions on a regional basis to assist persons in avoiding a violation of the ineligibility provisions of section 3821 of this title. The Secretary shall ensure that employees of the Department of Agriculture who administer this subchapter receive appropriate training to properly apply the minimal effect exemptions determined by the Secretary.
 
 #### (e) Nonwetlands
 
@@ -58,83 +112,101 @@ The Secretary shall exempt from the ineligibility provisions of section 3821 of 
 
 #### (f) Minimal effect; mitigation
 
-The Secretary shall exempt a person from the ineligibility provisions of section 3821 of this title for any action associated with the production of an agricultural commodity on a converted wetland, or the conversion of a wetland, if, as determined by the Secretary—
+The Secretary shall exempt a person from the ineligibility provisions of section 3821 of this title for any action associated with the production of an agricultural commodity on a converted wetland, or the conversion of a wetland, if 1 or more of the following conditions apply, as determined by the Secretary:
 
-&emsp;(1) such action, individually and in connection with all other similar actions authorized by the Secretary in the area, will have a minimal effect on the functional hydrological and biological value of the wetland, including the value to waterfowl and wildlife;
+&emsp;(1) The action, individually and in connection with all other similar actions authorized by the Secretary in the area, will have a minimal effect on the functional hydrological and biological value of the wetlands in the area, including the value to waterfowl and wildlife.
 
-&emsp;(2) such wetland has been frequently cropped prior to the date of such action and the wetland values, acreage, and functions are mitigated by the producer through the restoration of a converted wetland, the conversion of which occurred or was commenced prior to December 23, 1985, where such restoration is—
+&emsp;(2) The wetland and the wetland values, acreage, and functions are mitigated by the person through the restoration of a converted wetland, the enhancement of an existing wetland, or the creation of a new wetland, and the restoration, enhancement, or creation is—
 
-&emsp;&emsp;(A) in accordance with a restoration plan;
+&emsp;&emsp;(A) in accordance with a wetland conservation plan;
 
-&emsp;&emsp;(B) in advance of, or concurrent with, such action;
+&emsp;&emsp;(B) in advance of, or concurrent with, the action;
 
 &emsp;&emsp;(C) not at the expense of the Federal Government;
 
-&emsp;&emsp;(D) on not greater than a one-for-one acreage basis unless more acreage is needed to provide equivalent functions and values that will be lost as a result of such wetland conversion to be mitigated;
+&emsp;&emsp;(D) in the case of enhancement or restoration of wetlands, on not greater than a 1-for-1 acreage basis unless more acreage is needed to provide equivalent functions and values that will be lost as a result of the wetland conversion to be mitigated;
 
-&emsp;&emsp;(E) on lands in the same general area of the local watershed as the converted wetland; and
+&emsp;&emsp;(E) in the case of creation of wetlands, on greater than a 1-for-1 acreage basis if more acreage is needed to provide equivalent functions and values that will be lost as a result of the wetland conversion that is mitigated;
 
-&emsp;&emsp;(F) with respect to such restored wetland, made subject to an easement to be recorded on public land records, and which shall remain in force for as long as the converted wetland for which the restoration is to mitigate remains in agricultural use or is not returned to its original wetland classification with equivalent functions and values, and which easement prohibits making alterations to such restored wetland that lower the restored wetland's functions and values; or
+&emsp;&emsp;(F) on lands in the same general area of the local watershed as the converted wetland; and
 
-&emsp;(3) such wetland was converted subsequent to December 23, 1985, but prior to November 28, 1990, and the wetland values, acreage, and functions are mitigated by the producer through the restoration of a converted wetland, the conversion of which occurred or was commenced prior to December 23, 1985, if such restoration meets the requirements of subparagraphs (A), (B), (C), (D), (E), and (F) of paragraph (2).
+&emsp;&emsp;(G) with respect to the restored, enhanced, or created wetland, made subject to an easement that—
+
+&emsp;&emsp;&emsp;(i) is recorded on public land records;
+
+&emsp;&emsp;&emsp;(ii) remains in force for as long as the converted wetland for which the restoration, enhancement, or creation to be mitigated remains in agricultural use or is not returned to its original wetland classification with equivalent functions and values; and
+
+&emsp;&emsp;&emsp;(iii) prohibits making alterations to the restored, enhanced, or created wetland that lower the wetland's functions and values.
+
+&emsp;(3) The wetland was converted after December 23, 1985, but before November 28, 1990, and the wetland values, acreage, and functions are mitigated by the producer through the requirements of subparagraphs (A), (B), (C), (D), (F), and (G) of paragraph (2).
+
+&emsp;(4) The action was authorized by a permit issued under section 1344 of title 33 and the wetland values, acreage, and functions of the converted wetland were adequately mitigated for the purposes of this subchapter.
 
 #### (g) Mitigation appeals
 
-A producer shall be afforded the right to appeal, under section 3843 of this title, the imposition of a mitigation agreement requiring greater than one-to-one acreage mitigation to which the producer is subject.
+A person shall be afforded the right to appeal, under section 3843 <sup>1</sup> of this title, the imposition of a mitigation agreement requiring greater than one-to-one acreage mitigation to which the person is subject.
 
-#### (h) Good faith exemption; graduated sanctions
+#### (h) Good faith exemption
 
-#### (1) Good faith exemption
+#### (1) Exemption described
 
-&emsp;A person's ineligibility under section 3821 of this title for program loans, payments, and benefits as the result of the conversion of a wetland subsequent to November 28, 1990, or the production of an agricultural commodity on a converted wetland subsequent to December 23, 1985, may be reduced under paragraph (2) if—
+&emsp;The Secretary may waive a person's ineligibility under section 3821 of this title for program loans, payments, and benefits as the result of the conversion of a wetland subsequent to November 28, 1990, or the production of an agricultural commodity on a converted wetland, if the Secretary determines that the person has acted in good faith and without intent to violate this subchapter.
 
-&emsp;&emsp;(A) such person is actively restoring the wetland under an agreement entered into with the Secretary to fully restore the characteristics of the converted wetland to its prior wetland state, or such person has previously restored the characteristics of the converted wetland to its prior wetland state as determined by the Secretary; and
+#### (2) Period for compliance
 
-&emsp;&emsp;(B) the Secretary determines that—
-
-&emsp;&emsp;&emsp;(i) the person has not otherwise violated the provisions of section 3821 of this title in the previous 10-year period on a farm; and
-
-&emsp;&emsp;&emsp;(ii) such person converted a wetland, or produced an agricultural commodity on a converted wetland, in good faith and without the intent to violate the provisions of section 3821 of this title.
-
-#### (2) Graduated sanctions
-
-&emsp;If the Secretary determines that a person who has violated the provisions of section 3821 of this title meets the requirements of paragraph (1), the Secretary shall, in lieu of applying the ineligibility provisions in section 3821 of this title, reduce by not less than $750 nor more than $10,000, depending on the seriousness of the violation, program benefits described in section 3821 of this title that such person would otherwise be eligible to receive in a crop year.
-
-#### (3) Relief
-
-&emsp;The relief allowed by this subsection shall include the restoration of benefits withheld for violations that occurred prior to November 28, 1990.
+&emsp;The Secretary shall provide a person who the Secretary determines has acted in good faith and without intent to violate this subchapter with a reasonable period, but not toexceed 1 year, during which to implement the measures and practices necessary to be considered to <sup>2</sup> actively restoring the subject wetland.
 
 #### (i) Restoration
 
-Any person who is determined to be ineligible for program benefits under section 3821 of this title for any crop year shall not be ineligible for such program benefits under such section for any subsequent crop year if, prior to the beginning of such subsequent crop year, the person has fully restored the characteristics of the converted wetland to its prior wetland state.
+Any person who is determined to be ineligible for program benefits under section 3821 of this title for any crop year shall not be ineligible for such program benefits under such section for any subsequent crop year if, prior to the beginning of such subsequent crop year, the person has fully restored the characteristics of the converted wetland to its prior wetland state or has otherwise mitigated for the loss of wetland values, as determined by the Secretary, through the restoration, enhancement, or creation of wetland values in the same general area of the local watershed as the converted wetland.
 
-#### (j) Determinations; restoration and mitigation plans; reporting; monitoring activities
+#### (j) Determinations; restoration and mitigation plans; monitoring activities
 
-#### (1) Determinations; plans
+Technical determinations, the development of restoration and mitigation plans, and monitoring activities under this section shall be made by the National <sup>3</sup> Resources Conservation Service.
 
-&emsp;Technical determinations and the development of restoration and mitigation plans under this section shall be made through the agreement of the local representative of the Soil Conservation Service and a representative of the Fish and Wildlife Service. If agreement cannot be reached at the local level under the preceding sentence, such determinations shall be referred to the State Conservationist, who in making a determination under this paragraph, shall consult with the Fish and Wildlife Service.
+#### (k) Mitigation banking program
 
-#### (2) Report of determinations
+Using authorities available to the Secretary, the Secretary may operate a pilot program for mitigation banking of wetlands to assist persons to increase the efficiency of agricultural operations while protecting wetland functions and values. Subsection (f)(2)(C) of this section shall not apply to this subsection.
 
-&emsp;The State Conservationist and a representative of the Fish and Wildlife Service shall report to their respective national offices concerning all determinations made under paragraph (1) at the State level as a result of an agreement not being reached at the local level.
-
-#### (3) Monitoring activities
-
-&emsp;The Secretary shall conduct such monitoring activities as are necessary to ensure the success and effectiveness of the wetland restorations undertaken pursuant to this section.
-
-(Pub. L. 99–198, title XII, §1222, Dec. 23, 1985, 99 Stat. 1508; Pub. L. 101–624, title XIV, §1422, Nov. 28, 1990, 104 Stat. 3573.)
+(Pub. L. 99–198, title XII, §1222, Dec. 23, 1985, 99 Stat. 1508; Pub. L. 101–624, title XIV, §1422, Nov. 28, 1990, 104 Stat. 3573; Pub. L. 104–127, title III, §322, Apr. 4, 1996, 110 Stat. 987.)
 
 #### References in Text
 
-November 28, 1990, referred to in subsec. (a)(2) before “that are not changed”, was in the original “the enactment of this subsection”, and was translated as meaning the date of enactment of Pub. L. 101–624, which generally amended this section, to reflect the probable intent of Congress.
-
-November 28, 1990, referred to in subsecs. (f)(3) and (h)(3), was in the original “the date of enactment of this section”, and was translated as meaning the date of enactment of Pub. L. 101–624, which generally amended this section, to reflect the probable intent of Congress.
+Section 3843 of this title, referred to in subsec. (g), was omitted and a new section 3843 was added in the general amendment of subchapter V of this chapter by Pub. L. 104–127, title III, §341, Apr. 4, 1996, 110 Stat. 1008. The new section 3843 does not relate to appeal procedures.
 
 #### Amendments
 
+1996—Subsec. (a). Pub. L. 104–127, §322(a), added subsec. (a) and struck out heading and text of former subsec. (a). Text consisted of pars. (1) to (4) relating to delineation of wetlands.
+
+Subsec. (b). Pub. L. 104–127, §322(b), added subsec. (b) and struck out heading and text of former subsec. (b). Text consisted of pars. (1)(A) to (D) and (2)(A) and (B) relating to exemptions.
+
+Subsec. (d). Pub. L. 104–127, §322(c), added subsec. (d) and struck out heading and text of former subsec. (d). Text read as follows: “Section 3821 of this title shall not apply to a loan described in section 3821 of this title made before December 23, 1985.”
+
+Subsec. (f). Pub. L. 104–127, §322(d), added subsec. (f) and struck out heading and text of former subsec. (f). Text consisted of pars. (1) to (3) relating to minimal effect and mitigation exemptions.
+
+Subsec. (g). Pub. L. 104–127, §322(e), which directed substitution of “person” for “producer”, was executed by making the substitution in two places.
+
+Subsec. (h). Pub. L. 104–127, §322(f), added subsec. (h) and struck out heading and text of former subsec. (h). Text consisted of pars. (1) to (3) relating to good faith exemptions to ineligibility under section 3821 of this title and graduated sanctions.
+
+Subsec. (i). Pub. L. 104–127, §322(g), inserted before period at end “or has otherwise mitigated for the loss of wetland values, as determined by the Secretary, through the restoration, enhancement, or creation of wetland values in the same general area of the local watershed as the converted wetland”.
+
+Subsec. (j). Pub. L. 104–127, §322(h), added subsec. (j) and struck out heading and text of former subsec. (j). Text provided that technical determinations and the development of restoration and mitigation plans be made through agreement of local representative of Soil Conservation Service and representative of the Fish and Wildlife Service and required reporting of determinations and monitoring.
+
+Subsec. (k). Pub. L. 104–127, §322(i), added subsec. (k).
+
 1990—Pub. L. 101–624 amended section generally, substituting present provisions for provisions relating to eligibility for program benefits in connection with production of crops on certain wetlands, making program ineligibility inapplicable to pre-Dec. 23, 1985, section 3821 loans, and providing for personal exemptions from program ineligibility for actions associated with production of commodities having minimal wetland effect.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–127 effective 90 days after Apr. 4, 1996, see section 326 of Pub. L. 104–127, set out as a note under section 3821 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3821, 3823 of this title.
+This section is referred to in section 3821 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be followed by “be”.</i>
+
+<i><sup>3</sup></i><i> So in original. Probably should be “Natural”.</i>
 

@@ -60,23 +60,31 @@ During the time in which a moratorium under this section is in effect, it is unl
 
 #### (f) Civil and criminal penalties
 
-(1) Any person who commits any act that is unlawful under subsection (e) of this section shall be liable to the United States for a civil penalty as provided by section 308 of the Magnuson Fishery Conservation and Management Act (16 U.S.C. 1858).
+(1) Any person who commits any act that is unlawful under subsection (e) of this section shall be liable to the United States for a civil penalty as provided by section 308 of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1858).
 
-(2) Any person who commits an act prohibited by paragraph (5), (6), (7), or (9) of subsection (e) of this section is guilty of an offense punishable as provided by section 309(a)(1) and (b) of the Magnuson Fishery Conservation and Management Act (16 U.S.C. 1859(a)(1) and (b)).
+(2) Any person who commits an act prohibited by paragraph (5), (6), (7), or (9) of subsection (e) of this section is guilty of an offense punishable as provided by section 309(a)(1) and (b) of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1859(a)(1) and (b)).
 
 #### (g) Civil forfeitures
 
-(1) Any vessel (including its gear, equipment, appurtenances, stores, and cargo) used, and any fish (or the fair market value thereof) taken or retained, in any manner, in connection with, or as the result of, the commission of any act that is unlawful under subsection (e) of this section, shall be subject to forfeiture to the United States as provided in section 310 of the Magnuson Fishery Conservation and Management Act (16 U.S.C. 1860).
+(1) Any vessel (including its gear, equipment, appurtenances, stores, and cargo) used, and any fish (or the fair market value thereof) taken or retained, in any manner, in connection with, or as the result of, the commission of any act that is unlawful under subsection (e) of this section, shall be subject to forfeiture to the United States as provided in section 310 of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1860).
 
 (2) Any fish seized pursuant to this chapter may be disposed of pursuant to the order of a court of competent jurisdiction or, if perishable, in a manner prescribed in regulation.
 
 #### (h) Enforcement
 
-A person authorized by the Secretary or the Secretary of the department in which the Coast Guard is operating may take any action to enforce a moratorium declared under subsection (c) of this section that an officer authorized by the Secretary under section 311(b) of the Magnuson Fishery Conservation and Management Act (16 U.S.C. 1861(b)) may take to enforce that Act \[16 U.S.C. 1801 et seq.\]. The Secretary may, by agreement, on a reimbursable basis or otherwise, utilize the personnel, services, equipment (including aircraft and vessels), and facilities of any other Federal department or agency and of any agency of a State in carrying out that enforcement.
+A person authorized by the Secretary or the Secretary of the department in which the Coast Guard is operating may take any action to enforce a moratorium declared under subsection (c) of this section that an officer authorized by the Secretary under section 311(b) of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1861(b)) may take to enforce that Act \[16 U.S.C. 1801 et seq.\]. The Secretary may, by agreement, on a reimbursable basis or otherwise, utilize the personnel, services, equipment (including aircraft and vessels), and facilities of any other Federal department or agencyand of any agency of a State in carrying out that enforcement.
 
-(Pub. L. 103–206, title VIII, §807, Dec. 20, 1993, 107 Stat. 2451.)
+(Pub. L. 103–206, title VIII, §807, Dec. 20, 1993, 107 Stat. 2451; Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41.)
 
 #### References in Text
 
-The Magnuson Fishery Conservation and Management Act, referred to in subsec. (h), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, which is classified principally to chapter 38 (§1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
+The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (h), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, which is classified principally to chapter 38 (§1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
+
+#### Amendments
+
+1996—Subsecs. (f) to (h). Pub. L. 104–208 substituted “Magnuson-Stevens Fishery” for “Magnuson Fishery” wherever appearing.
+
+#### Effective Date of 1996 Amendment
+
+Section 101(a) \[title II, §211(b)\] of div. A of Pub. L. 104–208 provided that the amendment made by that section is effective 15 days after Oct. 11, 1996.
 

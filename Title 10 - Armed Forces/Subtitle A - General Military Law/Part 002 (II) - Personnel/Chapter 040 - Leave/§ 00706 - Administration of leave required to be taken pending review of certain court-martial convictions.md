@@ -6,13 +6,15 @@
 
 (2) Except as provided in paragraph (1) and in section 707 of this title, a member may not accrue or receive pay or allowances during a period of leave required to be taken under section 876a of this title.
 
-(c)(1) A member required to take leave under section 876a of this title is not entitled to any right or benefit under section 4301 of title 38 solely because of employment during the period of such leave.
+(c)(1) A member required to take leave under section 876a of this title is not entitled to any right or benefit under chapter 43 of title 38 solely because of employment during the period of such leave.
 
 (2) Section 974 of this title does not apply to a member required to take leave under section 876a of this title during the period of such leave.
 
-(Added Pub. L. 97–81, §2(b)(1), Nov. 20, 1981, 95 Stat. 1085; amended Pub. L. 102–568, title V, §506(c)(5), Oct. 29, 1992, 106 Stat. 4341; Pub. L. 103–337, div. A, title X, §1070(e)(1), Oct. 5, 1994, 108 Stat. 2859; Pub. L. 103–353, §2(b)(3), Oct. 13, 1994, 108 Stat. 3169.)
+(Added Pub. L. 97–81, §2(b)(1), Nov. 20, 1981, 95 Stat. 1085; amended Pub. L. 102–568, title V, §506(c)(5), Oct. 29, 1992, 106 Stat. 4341; Pub. L. 103–337, div. A, title X, §1070(e)(1), Oct. 5, 1994, 108 Stat. 2859; Pub. L. 103–353, §2(b)(3), Oct. 13, 1994, 108 Stat. 3169; Pub. L. 104–106, div. A, title XV, §1503(a)(7), Feb. 10, 1996, 110 Stat. 511.)
 
 #### Amendments
+
+1996—Subsec. (c)(1). Pub. L. 104–106 substituted “chapter 43 of title 38” for “section 4301 of title 38”.
 
 1994—Subsec. (c)(1). Pub. L. 103–353, which directed the amendment of par. (1) by substituting “chapter 43” for “section 4321”, could not be executed because intervening amendment by Pub. L. 103–337 had substituted “section 4301” for “section 4321”. See below.
 

@@ -8,7 +8,7 @@ The Secretary of Transportation shall, under the authority of the Emergency Rail
 
 #### (e) Amount of guarantee
 
-The Secretary shall guarantee trustee certificates of the Milwaukee Railroad pursuant tothis section in an amount equal to the difference between (1) the total expenses incurred by such railroad attributable to the maintenance and the continuation of service in accordance with subsection (d) of this section, and (2) the revenues of such railroad.
+The Secretary shall guarantee trustee certificates of the Milwaukee Railroad pursuant to this section in an amount equal to the difference between (1) the total expenses incurred by such railroad attributable to the maintenance and the continuation of service in accordance with subsection (d) of this section, and (2) the revenues of such railroad.
 
 #### (f) Subordination of claims
 
@@ -20,7 +20,7 @@ The Commission shall immediately make available to the Secretary of Transportati
 
 #### (h) Cancellation of United States obligations
 
-(1) All obligations to the United States or any agency or instrumentality of the United States incurred pursuant to this section by the Milwaukee Railroad or the trustee of the property of the Milwaukee Railroad shall be waived and canceled when—
+(1) All obligations to the United States or any agency or instrumentality of the United Statesincurred pursuant to this section by the Milwaukee Railroad or the trustee of the property of the Milwaukee Railroad shall be waived and canceled when—
 
 &emsp;(A) the Milwaukee Railroad is reorganized as an operating rail carrier; or
 

@@ -1,6 +1,6 @@
 ### §288. “International organization” defined; authority of President
 
-For the purposes of this subchapter, the term “international organization” means a public international organization in which the United States participates pursuant to any treaty or under the authority of any Act of Congress authorizing such participation or making an appropriation for such participation, and which shall have been designated by the President through appropriate Executive order as being entitled to enjoy the privileges, exemptions, and immunities provided in this subchapter. The President shall be authorized, in the light of the functions performed by any such international organization, by appropriate Executive order to withhold or withdraw from any such organization or its officers or employees any of the privileges, exemptions, and immunities provided for in this subchapter (including the amendments made by this subchapter) or to condition or limit the enjoyment by any such organization or its officers or employees of any such privilege, exemption, or immunity. The President shall be authorized, if in his judgment such action should be justified by reason of the abuse by an international organization or its officers and employees of the privileges, exemptions, and immunities provided in this subchapter or for any other reason, at any time to revoke the designation of any international organization under this section, whereupon the international organization in question shall cease to be classed as an international organization for the purposes of this subchapter.
+For the purposes of this subchapter, the term “international organization” means a public international organization in which the United States participates pursuant to any treaty or under the authority of any Act of Congress authorizing such participation or making an appropriation for such participation, and which shall have been designated by the President through appropriate Executive order as being entitled to enjoy the privileges, exemptions, and immunities provided in this subchapter. The President shall be authorized, in the light of the functions performed by any such international organization, by appropriate Executive order to withhold or withdraw from any such organization or its officers or employees any of the privileges, exemptions, and immunities provided for in this subchapter (including the amendments made by this subchapter) or to condition or limit the enjoyment by any such organization or its officers or employees of any such privilege, exemption, or immunity. The President shall be authorized, if in his judgment such action should be justified by reason of the abuse by an international organization or its officers andemployees of the privileges, exemptions, and immunities provided in this subchapter or for any other reason, at any time to revoke the designation of any international organization under this section, whereupon the international organization in question shall cease to be classed as an international organization for the purposes of this subchapter.
 
 (Dec. 29, 1945, ch. 652, title I, §1, 59 Stat. 669.)
 
@@ -11,6 +11,18 @@ This subchapter, referred to in text, was in the original “this title”, mean
 #### Short Title
 
 Section 10 of title I of act Dec. 29, 1945, provided that: “This title \[enacting this subchapter and amending section 215 of Title 8, Aliens and Nationality, sections 116, 1607, 1621, 3466, 3469, 3475, and 3797 of Internal Revenue Code, 1939, and section 409 of Title 42, The Public Health and Welfare\] may be cited as the ‘International Organizations Immunities Act’.”
+
+#### International Cotton Advisory Committee
+
+Pub. L. 104–127, title II, §283, Apr. 4, 1996, 110 Stat. 980, provided that:
+
+“(a)
+
+In General.—The President shall ensure that the Government of the United States participates as a full member of the International Cotton Advisory Committee.
+
+“(b)
+
+Representation by the Secretary.—The Secretary of Agriculture shall represent the Government of the United States as a member of the International Cotton Advisory Committee and shall delegate the primary responsibility to represent the Government of the United States to appropriately qualified individuals.”
 
 #### Administrative Supplies for International Organizations
 
@@ -115,6 +127,8 @@ International Union for Conservation of Nature and Natural Resources, Ex. Ord. N
 International Wheat Advisory Committee (International Wheat Council), Ex. Ord. No. 9823, Jan. 24, 1947, 12 F.R. 551.
 
 Israel-United States Binational Industrial Research and Development Foundation, Ex. Ord. No. 12956, Mar. 13, 1995, 60 F.R. 14199.
+
+Korean Peninsula Energy Development Organization, Ex. Ord. No. 12997, Apr. 1, 1996, 61 F.R. 14949.
 
 Multilateral Investment Guarantee Agency, Ex. Ord. No. 12647, Aug. 2, 1988, 53 F.R. 29323.
 

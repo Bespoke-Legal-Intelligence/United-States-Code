@@ -9,9 +9,11 @@
 | [1902\.](%C2%A7%2001902%20-%20Scholarship%2C%20fellowship%2C%20and%20grant%20program.md) | Scholarship, fellowship, and grant program. |
 | (a) | Program required. |
 | (b) | Service agreement. |
-| (c) | Distribution of assistance. |
-| (d) | Merit review. |
-| (e) | Limitation on use of program participants. |
+| (c) | Evaluation of progress in language skills. |
+| (d) | Distribution of assistance. |
+| (e) | Merit review. |
+| (f) | Limitation on use of program participants. |
+| (g) | Determination of agencies and offices of Federal Government having national security responsibilities. |
 | [1903\.](%C2%A7%2001903%20-%20National%20Security%20Education%20Board.md) | National Security Education Board. |
 | (a) | Establishment. |
 | (b) | Composition. |

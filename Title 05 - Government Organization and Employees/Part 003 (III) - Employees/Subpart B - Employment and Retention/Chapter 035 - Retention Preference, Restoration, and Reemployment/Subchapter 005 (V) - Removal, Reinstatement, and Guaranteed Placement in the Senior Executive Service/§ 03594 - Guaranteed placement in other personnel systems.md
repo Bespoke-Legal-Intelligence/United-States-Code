@@ -36,13 +36,13 @@ GS–15 of the General Schedule, referred to in subsec. (c)(1)(A), is set out un
 
 #### Amendments
 
-<b>1992</b>—Subsec. (c)(1)(A). Pub. L. 102–378 substituted “section 5108,” for “section 5108,,”.
+1992—Subsec. (c)(1)(A). Pub. L. 102–378 substituted “section 5108,” for “section 5108,,”.
 
-<b>1990</b>—Subsec. (c)(1)(A). Pub. L. 101–509 substituted “at GS–15 of the General Schedule or classified above GS–15 pursuant to section 5108,” for “at GS–15 or above of the General Schedule”.
+1990—Subsec. (c)(1)(A). Pub. L. 101–509 substituted “at GS–15 of the General Schedule or classified above GS–15 pursuant to section 5108,” for “at GS–15 or above of the General Schedule”.
 
-<b>1989</b>—Subsec. (b)(3). Pub. L. 101–194 added par. (3).
+1989—Subsec. (b)(3). Pub. L. 101–194 added par. (3).
 
-<b>1984</b>—Subsec. (b). Pub. L. 98–615 inserted provision relating to career appointees removed from the Senior Executive Service under section 3595(b)(4) or (5) of this title.
+1984—Subsec. (b). Pub. L. 98–615 inserted provision relating to career appointees removed from the Senior Executive Service under section 3595(b)(4) or (5) of this title.
 
 #### Effective Date of 1990 Amendment
 

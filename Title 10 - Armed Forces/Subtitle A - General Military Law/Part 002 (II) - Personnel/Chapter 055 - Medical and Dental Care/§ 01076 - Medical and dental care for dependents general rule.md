@@ -1,6 +1,6 @@
 ### §1076. Medical and dental care for dependents: general rule
 
-(a)(1) A dependent described in paragraph (2) is entitled, upon request, to the medical and dental care prescribed by section 1077 of this title in facilities of the uniformed services, subject to the availability of space and facilities and the capabilities of the medical and dental staff.
+(a)(1) A dependent described in paragraph (2) is entitled, upon request, to the medical and dental care prescribed by section 1077 of this title in facilities of the uniformed services, subject tothe availability of space and facilities and the capabilities of the medical and dental staff.
 
 (2) A dependent referred to in paragraph (1) is a dependent of a member of a uniformed service—
 
@@ -16,9 +16,9 @@
 
 &emsp;(1) who is, or (if deceased) was at the time of his death, entitled to retired or retainer pay or equivalent pay; or
 
-&emsp;(2) who died before attaining age 60 and at the time of his death (A) would have been eligible for retired pay under chapter 1223 of this title (or under chapter 67 of this title as in effect before the effective date of the Reserve Officer Personnel Management Act) but for the fact that he was under 60 years of age, and (B) had elected to participate in the Survivor Benefit Plan established under subchapter II of chapter 73 of this title;
+&emsp;(2) who died before attaining age 60 and at the time of his death would have been eligible for retired pay under chapter 1223 of this title (or under chapter 67 of this title as in effect before December 1, 1994) but for the fact that he was under 60 years of age;
 
-> may, upon request, be given the medical and dental care prescribed by section 1077 of this title in facilities of the uniformed services, subject to the availability of space and facilities and the capabilities of the medical and dental staff, except that a dependent of a member or former member described in clause (2) may not be given such medical or dental care until the date on which such member or former member would have attained age 60. A dependent described in section 1072(2)(F) of this title may be provided medical and dental care pursuant to clause (2) without regard to subclause (B) of such clause.
+> may, upon request, be given the medical and dental care prescribed by section 1077 of this title in facilities of the uniformed services, subject to the availability of space and facilities and the capabilities of the medical and dental staff, except that a dependent of a member or former member described in paragraph (2) may not be given such medical or dental care until the date on which such member or former member would have attained age 60.
 
 (c) A determination by the medical or dental officer in charge, or the contract surgeon in charge, or his designee, as to the availability of space and facilities and to the capabilities of the medical and dental staff is conclusive. Care under this section may not be permitted to interfere with the primary mission of those facilities.
 
@@ -44,7 +44,7 @@
 
 (B) A determination of whether an offense involved abuse of a dependent of the member shall be made in accordance with regulations prescribed by the administering Secretary for such uniformed service.
 
-(Added Pub. L. 85–861, §1(25)(B), Sept. 2, 1958, 72 Stat. 1447; amended Pub. L. 89–614, §2(3), Sept. 30, 1966, 80 Stat. 862; Pub. L. 95–397, title III, §301, Sept. 30, 1978, 92 Stat. 849; Pub. L. 96–513, title V, §511(36), Dec. 12, 1980, 94 Stat. 2923; Pub. L. 97–252, title X, §1004(b), Sept. 8, 1982, 96 Stat. 737; Pub. L. 98–557, §19(5), Oct. 30, 1984, 98 Stat. 2869; Pub. L. 99–145, title VI, §652(a), Nov. 8, 1985, 99 Stat. 656; Pub. L. 99–661, div. A, title VI, §§604(f)(1)(C), 652(c), Nov. 14, 1986, 100 Stat. 3877, 3889; Pub. L. 100–456, div. A, title VI, §651(a), Sept. 29, 1988, 102 Stat. 1990; Pub. L. 101–189, div. A, title VI, §653(a)(4), title VII, §731(c)(1), Nov. 29, 1989, 103 Stat. 1462, 1482; Pub. L. 103–337, div. A, title VII, §§704(a), (b), title XVI, §1671(c)(7)(A), Oct. 5, 1994, 108 Stat. 2798, 2799, 3014.)
+(Added Pub. L. 85–861, §1(25)(B), Sept. 2, 1958, 72 Stat. 1447; amended Pub. L. 89–614, §2(3), Sept. 30, 1966, 80 Stat. 862; Pub. L. 95–397, title III, §301, Sept. 30, 1978, 92 Stat. 849; Pub. L. 96–513, title V, §511(36), Dec. 12, 1980, 94 Stat. 2923; Pub. L. 97–252, title X, §1004(b), Sept. 8, 1982, 96 Stat. 737; Pub. L. 98–557, §19(5), Oct. 30, 1984, 98 Stat. 2869; Pub. L. 99–145, title VI, §652(a), Nov. 8, 1985, 99 Stat. 656; Pub. L. 99–661, div. A, title VI, §§604(f)(1)(C), 652(c), Nov. 14, 1986, 100 Stat. 3877, 3889; Pub. L. 100–456, div. A, title VI, §651(a), Sept. 29, 1988, 102 Stat. 1990; Pub. L. 101–189, div. A, title VI, §653(a)(4), title VII, §731(c)(1), Nov. 29, 1989, 103 Stat. 1462, 1482; Pub. L. 103–337, div. A, title VII, §§704(a), (b), title XVI, §1671(c)(7)(A), Oct. 5, 1994, 108 Stat. 2798, 2799, 3014; Pub. L. 104–106, div. A, title VII, §703, title XV, §1501(c)(11), Feb. 10, 1996, 110 Stat. 372, 499.)
 
 Historical and Revision Notes
 
@@ -55,6 +55,10 @@ Historical and Revision Notes
 <i>Source (Statutes at Large)</i>
 
 1076(a)
+
+&nbsp;
+
+&nbsp;
 
 1076(b)
 
@@ -92,13 +96,19 @@ In subsection (d), the words “because the facility concerned is that of a unif
 
 #### References in Text
 
-Chapter 67 of this title as in effect before the effective date of the Reserve Officer Personnel Management Act, referred to in subsec. (b)(2)(A), means chapter 67 (§1331 et seq.) of this title prior to its transfer to part II of subtitle E of this title, its renumbering as chapter 1223, and its general revision by section 1662(j)(1) of Pub. L. 103–337. A new chapter 67 (§1331) of this title was added by section 1662(j)(7) of Pub. L. 103–337. For effective date of the Reserve Officer Personnel Management Act (Pub. L. 103–337, title XVI), see section 1691 of Pub. L. 103–337, set out as an Effective Date note under section 10001 of this title.
+Chapter 67 of this title as in effect before December 1, 1994, referred to in subsec. (b)(2), means chapter 67 (§1331 et seq.) of this title prior to its transfer to part II of subtitle E of this title, its renumbering as chapter 1223, and its general revision by section 1662(j)(1) of Pub. L. 103–337. A new chapter 67 (§1331) of this title was added by section 1662(j)(7) of Pub. L. 103–337.
 
 #### Prior Provisions
 
 A prior section 1076, act Aug. 10, 1956, ch. 1041, 70A Stat. 84, related to use of post cards, waiver of registration, and voting by discharged persons, prior to repeal by Pub. L. 85–861, §36B(5), Sept. 2, 1958, 72 Stat. 1570, as superseded by the Federal Voting Assistance Act of 1955 which is classified to subchapter I–D (§1973cc et seq.) of chapter 20 of Title 42, The Public Health and Welfare.
 
 #### Amendments
+
+1996—Subsec. (b). Pub. L. 104–106, §703(b), in concluding provisions, substituted “paragraph (2) may” for “clause (2) may” and struck out “A dependent described in section 1072(2)(F) of this title may be provided medical and dental care pursuant to clause (2) without regard to subclause (B) of such clause.” after “age 60.”
+
+Subsec. (b)(2). Pub. L. 104–106, §703(a), substituted “death would” for “death (A) would” and struck out “, and (B) had elected to participate in the Survivor Benefit Plan established under subchapter II of chapter 73 of this title” after “60 years of age”.
+
+Pub. L. 104–106, §1501(c)(11), substituted “before December 1, 1994” for “before the effective date of the Reserve Officer Personnel Management Act” in subpar. (A).
 
 1994—Subsec. (b)(2)(A). Pub. L. 103–337, §1671(c)(7)(A), substituted “under chapter 1223 of this title (or under chapter 67 of this title as in effect before the effective date of the Reserve Officer Personnel Management Act)” for “under chapter 67 of this title”.
 
@@ -143,6 +153,10 @@ Subsec. (e). Pub. L. 99–661, §652(c), added subsec. (e).
 1978—Subsec. (b). Pub. L. 95–397 substituted “Under regulations to be prescribed jointly by the Secretary of Defense and the Secretary of Health, Education, and Welfare, a dependent of a member or former member-” for “Under joint regulations to be prescribed by the Secretary of Defense and the Secretary of Health, Education, and Welfare, a dependent of a member or former member who is, or was at the time of his death, entitled to retired or retainer pay, or equivalent pay, may, upon request, be given the medical and dental care prescribed by section 1077 of this title in facilities of the uniformed services, subject to the availability of space and facilities and the capabilities of the medical and dental staff”, added pars. (1), (2), and provisions following par. (2) relating to medical and dental care on request in facilities of the uniformed services subject to the availability of space, facilities and capabilities of staff, and excepting from such care provision a dependent of a member or former member until such member or former member would have attained age 60.
 
 1966—Subsec. (b). Pub. L. 89–614 struck out provision which excepted from medical and dental care a member or former member who is, or was at the time of his death, entitled to retired pay under chapter 67 of this title and has served less than eight years on active duty (other than for training).
+
+#### Effective Date of 1996 Amendment
+
+Section 1501(c) of Pub. L. 104–106 provided that the amendment made by that section is effective as of Dec. 1, 1994, and as if included as an amendment made by the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as originally enacted.
 
 #### Effective Date of 1994 Amendment
 
@@ -222,5 +236,5 @@ Section 651(c) of Pub. L. 100–456 provided that: “Any person who qualified a
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1074b, 1077, 1078, 1079, 1080, 1086, 1086a, 1087, 1095a, 1145 of this title.
+This section is referred to in sections 1074b, 1077, 1078, 1079, 1080, 1086, 1086a, 1087, 1095a, 1097, 1145 of this title.
 

@@ -8,7 +8,7 @@ Subject to sections 1815(d)(3) and 1828(c) of this title and all other applicabl
 
 #### (1) In general
 
-&emsp;Any application by a national bank to acquire or be acquired by another insured depository institution which is required to be filed with the Comptroller of the Currency by section 1815(d)(3) of this title or any other applicable law or regulation shall be approved or disapproved in writing by the agency before the end of the 60-day period beginning on the date such application is filed with the agency.
+&emsp;Any application by a national bank to acquire or be acquired by another insured depository institution which is required to be filed with the Comptroller of the Currency under any applicable law or regulation shall be approved or disapproved in writing by the agency before the end of the 60-day period beginning on the date such application is filed with the agency.
 
 #### (2) Extensions of period
 
@@ -24,15 +24,19 @@ No provision of this section shall be construed as authorizing a national bank o
 
 #### (d) “Acquire” defined
 
-For purposes of this section, the term “acquire” means to acquire, directly or indirectly, ownership or control through a merger or consolidation or an acquisition of assets or assumption of liabilities, provided that following such merger, consolidation, or acquisition, an acquiring insured depository institution may not own the shares of the acquired insured depository institution.
+For purposes of this section, the term “acquire” means to acquire, directly or indirectly, ownership or control through a merger or consolidation or an acquisition of assets or assumption of liabilities, provided that following such merger, consolidation, or acquisition, an acquiring insured depository institution may not ownthe shares of the acquired insured depository institution.
 
-(R.S. 5156A, as added Pub. L. 102–242, title V, §502(b), Dec. 19, 1991, 105 Stat. 2393.)
+(R.S. 5156A, as added Pub. L. 102–242, title V, §502(b), Dec. 19, 1991, 105 Stat. 2393; amended Pub. L. 104–208, div. A, title II, §2201(b)(1), Sept. 30, 1996, 110 Stat. 3009–403.)
 
 #### References in Text
 
-This Act, referred to in subsec. (c), probably means the National Bank Act, act June 3, 1864, ch. 106, 13 Stat. 99, as amended, which is classified principally to chapter 2 (§21 et seq.) of this title. For complete classification of this Act to the Code see References in Text note set out under section 38 of this title.
+This Act, referred to in subsec. (c), probably means the National Bank Act, act June 3, 1864, ch. 106, 13 Stat. 99, as amended, which is classified principally to chapter 2 (§21 et seq.) of this title. For complete classification of this Act to the Code, see References in Text note set out under section 38 of this title.
 
 #### Codification
 
 Section was not enacted as part of act Nov. 7, 1918, ch. 209, as added Sept. 8, 1959, Pub. L. 86–230, §20, 73 Stat. 460, which comprises this subchapter.
+
+#### Amendments
+
+1996—Subsec. (b)(1). Pub. L. 104–208 substituted “under any applicable law” for “by section 1815(d)(3) of this title or any other applicable law”.
 

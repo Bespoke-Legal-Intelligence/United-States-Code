@@ -46,17 +46,17 @@ Subsec. (c). Act July 16, 1943, §4, added subsec. (c).
 
 #### Change of Name
 
-Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued military Department of the Army under administrative supervision of Secretary of the Army.
+Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947,ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued military Department of the Army under administrative supervision of Secretary of the Army.
+
+#### Construction With Section 701–1 of Title 33
+
+Section as amended and modified by act Dec. 22, 1944, ch. 665, §1(c), 58 Stat. 665, see section 701–1(c) of Title 33, Navigation and Navigable Waters.
 
 #### Transfer of Functions
 
 Works Projects Administration and its functions transferred to Federal Works Agency by Reorg. Plan No. 1 of 1939, §§301, 306, eff. July 1, 1939, 4 F.R. 2729, 53 Stat. 1426, set out in the Appendix to Title 5, Government Organization and Employees.
 
 Functions of Federal Works Agency transferred to General Services Administration by act June 30, 1949, ch. 288, title I, §103, 63 Stat. 380, which is classified to section 753 of Title 40, Public Buildings, Property, and Works.
-
-#### Construction With Section 701–1 of Title 33
-
-Section as amended and modified by act Dec. 22, 1944, ch. 665, §1(c), 58 Stat. 665, see section 701–1(c) of Title 33, Navigation and Navigable Waters.
 
 #### Section Referred to in Other Sections
 

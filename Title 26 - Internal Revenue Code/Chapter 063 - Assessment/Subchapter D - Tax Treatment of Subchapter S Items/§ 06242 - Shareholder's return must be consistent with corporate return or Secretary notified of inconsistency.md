@@ -1,6 +1,0 @@
-### §6242. Shareholder's return must be consistent with corporate return or Secretary notified of inconsistency
-
-A shareholder of an S corporation shall, on such shareholder's return, treat a subchapter S item in a manner which is consistent with the treatment of such item on the corporate return unless the shareholder notifies the Secretary (at the time and in the manner prescribed by regulations) of the inconsistency.
-
-(Added Pub. L. 97–354, §4(a), Oct. 19, 1982, 96 Stat. 1691.)
-

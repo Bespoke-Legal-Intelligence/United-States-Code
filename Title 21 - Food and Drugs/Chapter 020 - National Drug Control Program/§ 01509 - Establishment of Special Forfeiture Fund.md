@@ -24,7 +24,7 @@ The President shall, in consultation with the Director for National Drug Control
 
 #### (f) Funds provided supplemental
 
-Funds disbursed under this subsection <sup>3</sup> shall not be used to supplant existing funds, but shallbe used to supplement the amount of funds that would be otherwise available.
+Funds disbursed under this subsection <sup>3</sup> shall not be used to supplant existing funds, but shall be used to supplement the amount of funds that would be otherwise available.
 
 #### (g) Annual report
 

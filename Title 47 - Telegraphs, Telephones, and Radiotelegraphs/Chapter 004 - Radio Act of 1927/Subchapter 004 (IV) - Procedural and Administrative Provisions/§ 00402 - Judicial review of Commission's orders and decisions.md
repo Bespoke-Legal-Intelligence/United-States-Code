@@ -2,7 +2,7 @@
 
 #### (a) Procedure
 
-Any proceeding to enjoin, set aside, annul, or suspend any order of the Commission under this chapter (except those appealable under subsection (b) of this section) shall be brought as provided by and in the manner prescribed in chapter 158 of title 28.
+Any proceeding to enjoin, set aside, annul, or suspend any order of the Commission under this chapter (except those appealable under subsection (b) of this section) shall be brought asprovided by and in the manner prescribed in chapter 158 of title 28.
 
 #### (b) Right to appeal
 
@@ -18,11 +18,13 @@ Appeals may be taken from decisions and orders of the Commission to the United S
 
 &emsp;(5) By the holder of any construction permit or station license which has been modified or revoked by the Commission.
 
-&emsp;(6) By any other person who is aggrieved or whose interests are adversely affected by any order of the Commission granting or denying any application described in paragraphs (1) to (4) of this subsection.
+&emsp;(6) By any other person who is aggrieved or whose interests are adversely affected by any order of the Commission granting or denying any application described in paragraphs (1), (2), (3), (4), and (9) of this subsection.
 
 &emsp;(7) By any person upon whom an order to cease and desist has been served under section 312 of this title.
 
 &emsp;(8) By any radio operator whose license has been suspended by the Commission.
+
+&emsp;(9) By any applicant for authority to provide interLATA services under section 271 of this title whose application is denied by the Commission.
 
 #### (c) Filing notice of appeal; contents; jurisdiction; temporary orders
 
@@ -56,9 +58,13 @@ The court may, in its discretion, enter judgment for costs in favor of or agains
 
 The court's judgment shall be final, subject, however, to review by the Supreme Court of the United States upon writ of certiorari on petition therefor under section 1254 of title 28, by the appellant, by the Commission, or by any interested party intervening in the appeal, or by certification by the court pursuant to the provisions of that section.
 
-(June 19, 1934, ch. 652, title IV, §402, 48 Stat. 1093; May 20, 1937, ch. 229, §§11–13, 50 Stat. 197; May 24, 1949, ch. 139, §132, 63 Stat. 108; July 16, 1952, ch. 879, §14, 66 Stat. 718; Aug. 28, 1958, Pub. L. 85–791, §12, 72 Stat. 945; Sept. 13, 1982, Pub. L. 97–259, title I, §§121, 127(b), 96 Stat. 1097, 1099; Nov. 8, 1984, Pub. L. 98–620, title IV, §402(50), 98 Stat. 3361.)
+(June 19, 1934, ch. 652, title IV, §402, 48 Stat. 1093; May 20, 1937, ch. 229, §§11–13, 50 Stat. 197; May 24, 1949, ch. 139, §132, 63 Stat. 108; July 16, 1952, ch. 879, §14, 66 Stat. 718; Aug. 28, 1958, Pub. L. 85–791,§12, 72 Stat. 945; Sept. 13, 1982, Pub. L. 97–259, title I, §§121, 127(b), 96 Stat. 1097, 1099; Nov. 8, 1984, Pub. L. 98–620, title IV, §402(50), 98 Stat. 3361; Feb. 8, 1996, Pub. L. 104–104, title I, §151(b), 110 Stat. 107.)
 
 #### Amendments
+
+1996—Par. (6). Pub. L. 104–104, §151(b)(1), inserted reference to par. (9).
+
+Subsec. (b)(9). Pub. L. 104–104, §151(b)(2), added par. (9).
 
 1984—Subsec. (g). Pub. L. 98–620 substituted “The” for “At the earliest convenient time the” and “706 of title 5” for “10(e) of the Administrative Procedure Act \[former 5 U.S.C. 1009(e)\]”.
 

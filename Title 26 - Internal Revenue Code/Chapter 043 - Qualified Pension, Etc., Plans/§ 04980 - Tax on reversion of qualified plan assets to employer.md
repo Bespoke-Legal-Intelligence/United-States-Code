@@ -54,11 +54,11 @@ For purposes of this section—
 
 #### (B) Investment in employer securities
 
-&emsp;&emsp;The requirements of this subparagraph are met if, within 90 days after the transfer (or such longer period as the Secretary may prescribe), the amount transferred is invested in employer securities (as defined in section 409(<i>l</i>)) or used to repay loans used to purchase such securities.
+&emsp;&emsp;The requirements of this subparagraph are met if, within 90 days after the transfer (orsuch longer period as the Secretary may prescribe), the amount transferred is invested in employer securities (as defined in section 409(<i>l</i>)) or used to repay loans used to purchase such securities.
 
 #### (C) Allocation requirements
 
-&emsp;&emsp;The requirements of this subparagraph are met if the portion of the amount transferredwhich is not allocated under the plan to accounts of participants in the plan year in which the transfer occurs—
+&emsp;&emsp;The requirements of this subparagraph are met if the portion of the amount transferred which is not allocated under the plan to accounts of participants in the plan year in which the transfer occurs—
 
 &emsp;&emsp;&emsp;(i) is credited to a suspense account and allocated from such account to accounts of participants no less rapidly than ratably over a period not to exceed 7 years, and
 
@@ -226,7 +226,7 @@ For purposes of this section—
 
 #### (B) Present value
 
-&emsp;&emsp;Present value shall be determined as of the termination date and on the same basis asliabilities of the plan are determined on termination.
+&emsp;&emsp;Present value shall be determined as of the termination date and on the same basis as liabilities of the plan are determined on termination.
 
 #### (C) Reallocation of increase
 
@@ -248,13 +248,15 @@ For purposes of this section—
 
 &emsp;This subsection shall not apply to an employer who, as of the termination date of the qualified plan, is in bankruptcy liquidation under chapter 7 of title 11 of the United States Code or in similar proceedings under State law.
 
-(Added Pub. L. 99–514, title XI, §1132(a), Oct. 22, 1986, 100 Stat. 2478; amended Pub. L. 100–647, title I, §1011A(f)(1)–(3), (6), (7), title V, §5072(a), title VI, §6069(a), Nov. 10, 1988, 102 Stat. 3478, 3479, 3681, 3704; Pub. L. 101–508, title XII, §§12001, 12002(a), Nov. 5, 1990, 104 Stat. 1388–562.)
+(Added Pub. L. 99–514, title XI, §1132(a), Oct. 22, 1986, 100 Stat. 2478; amended Pub. L. 100–647, title I, §1011A(f)(1)–(3), (6), (7), title V, §5072(a), title VI, §6069(a), Nov. 10, 1988, 102 Stat. 3478, 3479, 3681, 3704; Pub. L. 101–508, title XII, §§12001, 12002(a), Nov. 5, 1990, 104 Stat. 1388–562; Pub. L. 104–188, title I, §1704(a), Aug. 20, 1996, 110 Stat. 1878.)
 
 #### Amendments
 
-1990—Subsec. (a). Pub. L. 101–508, §12001, which directed the substitution of “20 percent” for “15 percent” in “section 4980(a)” without specifying the Internal Revenue Code of 1986, was executed to subsec. (a) of this section to reflect the probable intent of Congress.
+1996—Subsecs. (a), (d). Pub. L. 104–188 provided that, except as otherwise expressly provided, whenever in title XII of Pub. L. 101–508 an amendment or repeal is expressed in terms of an amendment to, or repeal of, a section or other provision, the reference shall be considered to be made to a section or other provision of the Internal Revenue Code of 1986. Sections 12001 and 12002(a) of title XII of Pub. L. 101–508 directed the amendment of this section without specifying that the amendment was to the Internal Revenue Code of 1986. See 1990 Amendment note below.
 
-Subsec. (d). Pub. L. 101–508, §12002(a), which directed the addition of subsec. (d) to “section 4980(a)” without specifying the Internal Revenue Code of 1986, was executed to this section to reflect the probable intent of Congress.
+1990—Subsec. (a). Pub. L. 101–508, §12001, which directed the substitution of “20 percent” for “15 percent” in “section 4980(a)” without specifying the Internal Revenue Code of 1986, was executed to subsec. (a) of this section. See 1996 Amendment note above.
+
+Subsec. (d). Pub. L. 101–508, §12002(a), which directed the addition of subsec. (d) to “section 4980” without specifying the Internal Revenue Code of 1986, was executed to this section. See 1996 Amendment note above.
 
 1988—Subsec. (a). Pub. L. 100–647, §6069(a), substituted “15” for “10”.
 

@@ -10,7 +10,7 @@ The Secretary shall provide for the evaluation of each center established under 
 
 #### (c) Dissemination of information
 
-The Secretary shall disseminate information on successful retraining models developed by any center established under subsection (a) ofthis section through dissemination programs operated by the Secretary and the Secretary of Labor.
+The Secretary shall disseminate information on successful retraining models developed by any center established under subsection (a) of this section through dissemination programs operated by the Secretary and the Secretary of Labor.
 
 #### (d) Eligible organizations
 

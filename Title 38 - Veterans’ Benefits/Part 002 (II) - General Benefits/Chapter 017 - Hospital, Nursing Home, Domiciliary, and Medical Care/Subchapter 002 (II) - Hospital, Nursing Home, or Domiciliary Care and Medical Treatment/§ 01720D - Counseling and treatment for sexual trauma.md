@@ -1,6 +1,6 @@
 ### §1720D. Counseling and treatment for sexual trauma
 
-(a)(1) During the period through December 31, 1998, the Secretary may provide counseling to a veteran who the Secretary determines requiressuch counseling to overcome psychological trauma, which in the judgment of a mental health professional employed by the Department, resulted from a physical assault of a sexual nature, battery of a sexual nature, or sexual harassment which occurred while the veteran was serving on active duty.
+(a)(1) During the period through December 31, 1998, the Secretary may provide counseling to a veteran who the Secretary determines requires such counseling to overcome psychological trauma, which in the judgment of a mental health professional employed by the Department, resulted from a physical assault of a sexual nature, battery of a sexual nature, or sexual harassment which occurred while the veteran was serving on active duty.
 
 (2) During the period referred to in paragraph (1), the Secretary may provide appropriate care and services to a veteran for an injury, illness, or other psychological condition that the Secretary determines to be the result of a physical assault, battery, or harassment referred to in that paragraph.
 
@@ -81,8 +81,4 @@ Section 104 of Pub. L. 102–585 directed Secretary of Veterans Affairs, not lat
 #### Report on Implementation of Sexual Trauma Counseling Program
 
 Section 105 of Pub. L. 102–585 directed Secretary of Veterans Affairs, not later than Mar. 31, 1994, to submit to Congress a comprehensive report on the Secretary's actions under 38 U.S.C. 1720D.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1712 of this title.
 

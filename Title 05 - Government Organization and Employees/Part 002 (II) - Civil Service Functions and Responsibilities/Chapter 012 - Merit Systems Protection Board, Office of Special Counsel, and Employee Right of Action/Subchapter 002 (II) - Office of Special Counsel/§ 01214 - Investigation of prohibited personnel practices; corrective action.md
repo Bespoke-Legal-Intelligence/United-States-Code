@@ -38,9 +38,9 @@
 
 &emsp;(B) 120 days after seeking corrective action from the Special Counsel, such employee, former employee, or applicant has not been notified by the Special Counsel that the Special Counsel shall seek corrective action on behalf of such employee, former employee, or applicant.
 
-(4) If an employee, former employee, or applicant seeks a corrective action from the Board under section 1221, pursuant to the provisions of paragraph (3)(B), the Special Counsel may continue to seek corrective action personal to such employee, former employee, or applicant only with the consent of such employee, former employee, or applicant.
+(4) If an employee, former employee, or applicant seeks a corrective action from the Boardunder section 1221, pursuant to the provisions of paragraph (3)(B), the Special Counsel may continue to seek corrective action personal to such employee, former employee, or applicant only with the consent of such employee, former employee, or applicant.
 
-(5) In addition to any authority granted under paragraph (1), the Special Counsel may, in theabsence of an allegation, conduct an investigation for the purpose of determining whether there are reasonable grounds to believe that a prohibited personnel practice (or a pattern of prohibited personnel practices) has occurred, exists, or is to be taken.
+(5) In addition to any authority granted under paragraph (1), the Special Counsel may, in the absence of an allegation, conduct an investigation for the purpose of determining whether there are reasonable grounds to believe that a prohibited personnel practice (or a pattern of prohibited personnel practices) has occurred, exists, or is to be taken.
 
 (b)(1)(A)(i) The Special Counsel may request any member of the Merit Systems Protection Board to order a stay of any personnel action for 45 days if the Special Counsel determines that there are reasonable grounds to believe that the personnel action was taken, or is to be taken, as a result of a prohibited personnel practice.
 
@@ -86,7 +86,7 @@
 
 (2) A petition for review under this subsection shall be filed with such court, and within such time, as provided for under section 7703(b).
 
-(d)(1) If, in connection with any investigation under this subchapter, the Special Counsel determines that there is reasonable cause to believe that a criminal violation has occurred, the Special Counsel shall report the determination to the Attorney General and to the head of the agency involved, and shall submit a copy of the report to the Director of the Office of Personnel Management and the Director of the Office of Management and Budget.
+(d)(1) If, in connection with any investigation under this subchapter, the Special Counsel determines that there is reasonable cause to believe that a criminal violation has occurred, the Special Counsel shall report the determination to the Attorney General and to the head of theagency involved, and shall submit a copy of the report to the Director of the Office of Personnel Management and the Director of the Office of Management and Budget.
 
 (2) In any case in which the Special Counsel determines that there are reasonable grounds to believe that a prohibited personnel practice has occurred, exists, or is to be taken, the Special Counsel shall proceed with any investigation or proceeding unless—
 
@@ -112,7 +112,7 @@
 
 #### Amendments
 
-<b>1994</b>—Subsec. (a)(1)(D). Pub. L. 103–424, §3(c)(1), added subpar. (D).
+1994—Subsec. (a)(1)(D). Pub. L. 103–424, §3(c)(1), added subpar. (D).
 
 Subsec. (a)(2)(A)(iv). Pub. L. 103–424, §3(c)(2), added cl. (iv).
 

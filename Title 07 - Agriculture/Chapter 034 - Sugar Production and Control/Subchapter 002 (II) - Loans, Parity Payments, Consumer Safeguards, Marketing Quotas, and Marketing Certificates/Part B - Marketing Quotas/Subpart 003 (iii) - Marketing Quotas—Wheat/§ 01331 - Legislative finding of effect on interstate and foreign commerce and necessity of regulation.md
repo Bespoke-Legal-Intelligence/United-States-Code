@@ -18,29 +18,23 @@ The provisions of this subpart affording a cooperative plan to wheat producers a
 
 #### Amendments
 
-1962—Pub. L. 87–703 provided additional findings respecting the addition of wheat to total supply of wheat and effect of such addition on price of wheat and supply and price of livestock and livestock products, the need to prevent the use of acreage diverted from wheat production to produce other commodities in surplus supply and the consequences of a small or large change in the supply of a commodity and the necessity of a cooperative plan to wheat producers to provide for flow of wheat at fair and reasonable prices to farmers and consumers and to prevent diverted acreage from production of wheat from adversely affecting other commodities in interstate and foreign commerce.
+1962—Pub. L. 87–703 provided additional findings respecting the addition of wheat to total supply of wheat and effect of such addition on price of wheat and supply and price of livestock and livestock products, the needto prevent the use of acreage diverted from wheat production to produce other commodities in surplus supply and the consequences of a small or large change in the supply of a commodity and the necessity of a cooperative plan to wheat producers to provide for flow of wheat at fair and reasonable prices to farmers and consumers and to prevent diverted acreage from production of wheat from adversely affecting other commodities in interstate and foreign commerce.
 
 #### Effective Date of 1962 Amendment
 
 Amendment by Pub. L. 87–703 effective only with respect to programs applicable to crops planted for harvest in calendar year 1964 or any subsequent year and marketing years beginning in calendar year 1964, or any subsequent year, see section 323 of Pub. L. 87–703, set out as a note under section 1301 of this title.
 
-#### Inapplicability to 1991 Through 1995 Crops of Wheat
+#### Inapplicability of Section
+
+Section inapplicable to 1996 through 2002 crops of loan commodities, peanuts, and sugar and inapplicable to milk during period beginning Apr. 4, 1996, and ending Dec. 31, 2002, see section 7301(a)(1)(A) of this title.
 
 Pub. L. 101–624, title III, §303, Nov. 28, 1990, 104 Stat. 3400, provided that: “Sections 331 through 339, 379b, and 379c of the Agricultural Adjustment Act of 1938 (7 U.S.C. 1331 through 1339, 1379b, and 1379c) shall not be applicable to the 1991 through 1995 crops of wheat.”
 
-#### Inapplicability to 1986 Through 1990 Crops of Wheat
-
 Pub. L. 99–198, title III, §310(b), Dec. 23, 1985, 99 Stat. 1395, provided that: “Sections 331, 339, 379b, and 379c of such Act \[the Agricultural Adjustment Act of 1938\] (7 U.S.C. 1331, 1339, 1379b, and 1379c) shall not be applicable to the 1986 through 1990 crops of wheat.”
-
-#### Inapplicability to 1982 Through 1985 Crops of Wheat
 
 Pub. L. 97–98, title III, §303, Dec. 22, 1981, 95 Stat. 1227, provided that: “Sections 331, 332, 333, 334, 335, 336, 338, 339, 379b, and 379c of the Agricultural Adjustment Act of 1938 \[this section and sections 1332, 1333, 1334, 1335, 1336, 1338, 1339, 1379b, and 1379c of this title\] shall not be applicable to the 1982 through 1985 crops of wheat.”
 
-#### Inapplicability to 1978 Through 1981 Crops of Wheat
-
 Pub. L. 95–113, title IV, §404, Sept. 29, 1977, 91 Stat. 927, provided that: “Sections 331, 332, 333, 334, 335, 336, 338, 339, 379b, and 379c of the Agricultural Adjustment Act of 1938, as amended \[this section and sections 1332, 1333, 1334, 1335, 1336, 1338, 1339, 1379b, and 1379c of this title\], shall not be applicable to the 1978 through 1981 crops of wheat.”
-
-#### Inapplicability to 1971 Through 1977 Crops of Wheat
 
 Pub. L. 91–524, title IV, §404(1), Nov. 30, 1970, 84 Stat. 1366, as amended by Pub. L. 93–86, §1(11), Aug. 10, 1973, 87 Stat. 229, provided that this section is not applicable to 1971 through 1977 crops of wheat.
 

@@ -34,7 +34,7 @@ General.—It is the policy of the United States—
 
 &emsp;(12) that airport fees, rates, and charges must be reasonable and may only be used for purposes not prohibited by this subchapter; and
 
-&emsp;(13) that airports should be as self-sustaining as possible under the circumstances existing at each particular airport and in establishing new fees, rates, and charges, and generating revenues from all sources, airport owners and operators should not seek to create revenue surpluses that exceed the amounts to be used for airport system purposes and for other purposes for which airport revenues may be spentunder section 47107(b)(1) of this title, including reasonable reserves and other funds to facilitate financing and cover contingencies.
+&emsp;(13) that airports should be as self-sustaining as possible under the circumstances existing at each particular airport and in establishing new fees, rates, and charges, and generating revenues from all sources, airport owners and operators should not seek to create revenue surpluses that exceed the amounts to be used for airport system purposes and for other purposes for which airport revenues may be spent under section 47107(b)(1) of this title, including reasonable reserves and other funds to facilitate financing and cover contingencies.
 
 (b)
 
@@ -50,7 +50,7 @@ National Transportation Policy.—(1) It is a goal of the United States to devel
 
 (6) Intermodality and flexibility are paramount issues in the process of developing an integrated system that will obtain the optimum yield of United States resources.
 
-(7) The United States transportation infrastructure must be reshaped to provide the economic underpinnings for the United States to compete in the 21st century global economy. The United States can no longer rely on the sheer size of its economy to dominate international economic rivals and must recognize fully that its economy is no longer a separate entity but is part of the global marketplace. The future economic prosperity of the United States depends on its ability to compete in an international marketplace that is teeming with competitors but in which a full one-quarter of the economic activity of the United States takes place.
+(7) The United States transportation infrastructure must be reshaped to provide the economic underpinnings for the United States to compete in the 21st century global economy. The United States can no longer rely on the sheer size of its economy to dominate international economic rivals and must recognize fully that its economy is no longer a separate entity but is part of the global marketplace. The future economic prosperity of the United States depends on its ability to compete in an international marketplace that is teeming with competitors but in which a full one-quarter of theeconomic activity of the United States takes place.
 
 (8) The United States must make a national commitment to rebuild its infrastructure through development of a national intermodal transportation system. The United States must provide the foundation for its industries to improve productivity and their ability to compete in the global economy with a system that will transport passengers and property in an efficient manner.
 
@@ -96,7 +96,25 @@ Maximum Use of Safety Facilities.—This subchapter should be carried out consis
 
 (g)
 
-Cooperation.—To carry out the policy of subsection (a)(5) of this section, the Secretary of Transportation shall cooperate with State and local officials in developing airport plans and programs that are based on overall transportation needs. The airport plans and programs shall be developed in coordination with other transportation planning and considering comprehensive long-range land-use plans and overall social, economic, environmental, system performance, and energy conservation objectives. The process of developing airport plans and programs shall be continuing, cooperative, andcomprehensive to the degree appropriate to the complexity of the transportation problems.
+Intermodal Planning.—To carry out the policy of subsection (a)(5) of this section, the Secretary of Transportation shall take each of the following actions:
+
+&emsp;(1)
+
+Coordination in development of airport plans and programs.—Cooperate with State and local officials in developing airport plans and programs that are based on overall transportation needs. The airport plans and programs shall be developed in coordination with other transportation planning and considering comprehensive long-range land-use plans and overall social, economic, environmental, system performance, and energy conservation objectives. The process of developing airport plans and programs shall be continuing, cooperative, and comprehensive to the degree appropriate to the complexity of the transportation problems.
+
+&emsp;(2)
+
+Goals for airport master and system plans.—Encourage airport sponsors and State and local officials to develop airport master plans and airport system plans that—
+
+&emsp;&emsp;(A) foster effective coordination between aviation planning and metropolitan planning;
+
+&emsp;&emsp;(B) include an evaluation of aviation needs within the context of multimodal planning; and
+
+&emsp;&emsp;(C) are integrated with metropolitan plans to ensure that airport development proposals include adequate consideration of land use and ground transportation access.
+
+&emsp;(3)
+
+Representation of airport operators on mpo's.—Encourage metropolitan planning organizations, particularly in areas with populations greater than 200,000, to establish membership positions for airport operators.
 
 (h)
 
@@ -110,13 +128,15 @@ Consultation.—To carry out the policy of subsection (a)(6) of this section, th
 
 &emsp;(4) another factor affecting the environment.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1246; Pub. L. 103–305, title I, §§104, 110, Aug. 23, 1994, 108 Stat. 1571, 1573; Pub. L. 103–429, §6(62), Oct. 31, 1994, 108 Stat. 4385.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1246; Pub. L. 103–305, title I, §§104, 110, Aug. 23, 1994, 108 Stat. 1571, 1573; Pub. L. 103–429, §6(62), Oct. 31, 1994, 108 Stat. 4385; Pub. L. 104–264, title I, §141, Oct. 9, 1996, 110 Stat. 3220.)
 
 Historical and Revision Notes
 
 Pub. L. 103–272
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -244,6 +264,12 @@ This amends 49:47101(a)(12) to translate a cross-reference to the Airport and Ai
 
 #### Amendments
 
+1996—Subsec. (g). Pub. L. 104–264 substituted “
+
+Intermodal Planning” for “
+
+Cooperation” in heading and amended text generally. Prior to amendment, text read as follows: “To carry out the policy of subsection (a)(5) of this section, the Secretary of Transportation shall cooperate with State and local officials in developing airport plans and programs that are based on overall transportation needs. The airport plans and programs shall be developed in coordination with other transportation planning and considering comprehensive long-range land-use plans and overall social, economic, environmental, system performance, and energy conservation objectives. The process of developing airport plans and programs shall be continuing, cooperative, and comprehensive to the degree appropriate to the complexity of the transportation problems.”
+
 1994—Subsec. (a)(11). Pub. L. 103–305, §104, added par. (11).
 
 Subsec. (a)(12). Pub. L. 103–429 substituted “subchapter” for “Act”.
@@ -252,9 +278,47 @@ Pub. L. 103–305, §110, added par. (12).
 
 Subsec. (a)(13). Pub. L. 103–305, §110, added par. (13).
 
+#### Effective Date of 1996 Amendment
+
+Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
+
 #### Effective Date of 1994 Amendment
 
 Amendment by Pub. L. 103–429 effective July 5, 1994, see section 9 of Pub. L. 103–429, set out as a note under section 321 of this title.
+
+#### Innovative Financing Techniques
+
+Section 148 of Pub. L. 104–264 provided that:
+
+“(a)
+
+In General.—The Secretary of Transportation is authorized to carry out a demonstration program under which the Secretary may approve applications under subchapter I of chapter 471 of title 49, United States Code, for not more than 10 projects for which grants received under such subchapter may be used to implement innovative financing techniques.
+
+“(b)
+
+Purpose.—The purpose of the demonstration program shall be to provide information on the use of innovative financing techniques for airport development projects to Congress and the National Civil Aviation Review Commission.
+
+“(c)
+
+Limitation.—In no case shall the implementation of an innovative financing technique under the demonstration program result in a direct or indirect guarantee of any airport debt instrument by the Federal Government.
+
+“(d)
+
+Innovative Financing Technique Defined.—In this section, the term ‘innovative financing technique’ shall be limited to the following:
+
+&emsp;“(1) Payment of interest.
+
+&emsp;“(2) Commercial bond insurance and other credit enhancement associated with airport bonds for eligible airport development.
+
+&emsp;“(3) Flexible non-Federal matching requirements.
+
+“(e)
+
+Expiration of Authority.—The authority of the Secretary to carry out the demonstration program shall expire on September 30, 1998.”
+
+#### Authority To Close Airport Located Near Closed or Realigned Military Base
+
+Section 1203 of Pub. L. 104–264 provided that: “Notwithstanding any other provision of a law, rule, or grant assurance, an airport that is not a commercial service airport may be closed by its sponsor without any obligation to repay grants made under chapter 471 of title 49, United States Code, the Airport and Airway Improvement Act of 1982 \[see References in Text note set out under section 47108 of this title\], or any other law if the airport is located within 2 miles of a United States Army depot which has been closed or realigned; except that in the case of disposal of the land associated with the airport, the part of the proceeds from the disposal that is proportional to the Government's share of the cost of acquiring the land shall be paid to the Secretary of Transportation for deposit in the Airport and Airway Trust Fund established under section 9502 of the Internal Revenue Code of 1986 (26 U.S.C. 9502).”
 
 #### Study on Innovative Financing
 
@@ -281,4 +345,8 @@ Consultation.—In considering innovative financing pursuant to this section, th
 “(d)
 
 Report to Congress.—Not later than 12 months after the date of the enactment of this Act \[Aug. 23, 1994\], the Secretary shall transmit to Congress a report on the results of the study conducted under subsection (a).”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in title 16 section 460kkk.
 

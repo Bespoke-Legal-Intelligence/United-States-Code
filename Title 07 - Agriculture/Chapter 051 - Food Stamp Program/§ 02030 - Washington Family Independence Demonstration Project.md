@@ -42,13 +42,13 @@ In an application submitted under subsection (a) of this section, the State shal
 
 &emsp;&emsp;&emsp;&emsp;(IV) coupons under the food stamp program are received by such participant if such participant will be eligible to receive coupons as a member of a household under the food stamp program.
 
-&emsp;&emsp;(G)(i) Paragraphs (1)(B), (8), (10), and (19) of section 2020(e) of this title shall apply with respect to the participants in the Project in the same manner as such paragraphs apply with respect to participants in the food stamp program.
+&emsp;&emsp;(G)(i) Paragraphs (1)(B), (8), (10), and (19) <sup>1</sup> of section 2020(e) of this title shall apply with respect to the participants in the Project in the same manner as such paragraphs apply with respect to participants in the food stamp program.
 
 &emsp;&emsp;(ii) Each individual who contacts the State in person during office hours to make what may reasonably be interpreted as an oral or written request to participate in the Project shall receive and shall be permitted to file on the same day that such contact is first made, an application form to participate in the Project.
 
 &emsp;&emsp;(iii) The Project shall provide for telephone contact by, mail delivery of forms to and mail return of forms by, and subsequent home or telephone interview with, the elderly persons, physically or mentally handicapped, and persons otherwise unable, solely because of transportation difficulties and similar hardships, to appear in person.
 
-&emsp;&emsp;(iv) An individual who applies to participate in the Project may be represented by another person in the review process if the other person has been clearly designated as the representative of such individual for that purpose, by such individual or the spouse of such individual, and, in the case of the review process, the representative is an adult who is sufficiently aware of relevant circumstances, except that the State may—
+&emsp;&emsp;(iv) An individual who applies to participate in the Project may be represented byanother person in the review process if the other person has been clearly designated as the representative of such individual for that purpose, by such individual or the spouse of such individual, and, in the case of the review process, the representative is an adult who is sufficiently aware of relevant circumstances, except that the State may—
 
 &emsp;&emsp;&emsp;(I) restrict the number of individuals who may be represented by such person; and
 
@@ -116,7 +116,7 @@ If an application submitted under subsection (a) of this section by the State co
 
 #### (e) Waiver
 
-The Secretary shall (with respect to the Project) waive compliance with any requirement contained in this chapter (other than this section) that (if applied) would prevent the State from carrying out the Project or effectively achieving its purpose.
+The Secretary shall (with respect to the Project) waive compliance with any requirementcontained in this chapter (other than this section) that (if applied) would prevent the State from carrying out the Project or effectively achieving its purpose.
 
 #### (f) Construction
 
@@ -128,7 +128,7 @@ For purposes of any other Federal, State or local law—
 
 #### (g) Project audits
 
-The Comptroller General of the United States shall—
+The Comptroller General of the United States may—
 
 &emsp;(1) conduct periodic audits of the operation of the Project to verify the amounts payable to the State from time to time under subsection (b)(4) of this section; and
 
@@ -138,17 +138,23 @@ The Comptroller General of the United States shall—
 
 With funds appropriated under section 2027(a)(1) of this title, the Secretary shall conduct, in consultation with the Secretary of Health and Human Services, an evaluation of the Project.
 
-(Pub. L. 88–525, §21, as added Pub. L. 100–203, title I, §1509, Dec. 22, 1987, 101 Stat. 1330–29; amended Pub. L. 100–481, §1, Oct. 11, 1988, 102 Stat. 2336.)
+(Pub. L. 88–525, §21, as added Pub. L. 100–203, title I, §1509, Dec. 22, 1987, 101 Stat. 1330–29; amended Pub. L. 100–481, §1, Oct. 11, 1988, 102 Stat. 2336; Pub. L. 104–316, title I, §104(a), Oct. 19, 1996, 110 Stat. 3829.)
 
 #### References in Text
+
+Paragraph (19) of section 2020(e) of this title, referred to in subsec. (b)(2)(G)(i), was redesignated paragraph (18) of section 2020(e) of this title by Pub. L. 104–193, title VIII, §835(1)(D)(i), Aug. 22, 1996, 110 Stat. 2330.
 
 The Social Security Act, referred to in subsec. (b)(2)(A)(i), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part A of title IV of the Social Security Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Amendments
+
+1996—Subsec. (g). Pub. L. 104–316 substituted “may” for “shall” in introductory provisions.
 
 1988—Subsec. (d)(3). Pub. L. 100–481 amended par. (3) generally. Prior to amendment, par. (3) read as follows: “For purposes of the food stamp program, individuals who participate in the Project shall not be considered to be members of a household during the period of such participation.”
 
 #### Effective Date of 1988 Amendment
 
 Section 2 of Pub. L. 100–481 provided that: “The amendment made by this Act \[amending this section\] shall become effective on July 1, 1988.”
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

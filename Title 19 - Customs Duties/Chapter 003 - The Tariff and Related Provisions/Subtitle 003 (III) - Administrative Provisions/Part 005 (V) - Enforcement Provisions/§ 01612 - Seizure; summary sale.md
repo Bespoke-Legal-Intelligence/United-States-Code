@@ -20,7 +20,7 @@ Provisions concerning the sale of property liable to perish or waste, etc., were
 
 1993—Subsec. (a). Pub. L. 103–182, §667(1), substituted “the Customs Service” for “the appropriate customs officer” after “Whenever it appears to”, for “such officer” after “delivered under bond,”, for “such officer” before “shall forthwith transmit” and for “the customs officer” after “Whether such sale be made by” and substituted “its report of the seizure” for “the appraiser's return and his report of the seizure”.
 
-Subsec. (b). Pub. L. 103–182, §667(2), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “If the expense of keeping the vessel, vehicle, aircraft, merchandise, or baggage is disproportionate to the value thereof, and such value is less than $1,000, such officer may proceed forthwith to order destructionor other appropriate disposition of such property, under regulations prescribed by the Secretary of the Treasury.”
+Subsec. (b). Pub. L. 103–182, §667(2), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “If the expense of keeping the vessel, vehicle, aircraft, merchandise, or baggage is disproportionate to the value thereof, and such value is less than $1,000, such officer may proceed forthwith to order destruction or other appropriate disposition of such property, under regulations prescribed by the Secretary of the Treasury.”
 
 1988—Pub. L. 100–690 reenacted section substantially without change.
 

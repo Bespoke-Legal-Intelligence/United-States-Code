@@ -18,7 +18,7 @@
 
 &emsp;(C) an assessment of the use of existing on-farm storage facilities located within the State or region and an assessment of the ways in which subterminal facilities can benefit the continued use of on-farm storage facilities;
 
-&emsp;(D) an evaluation of the effect of the development of new subterminal facilities on small capacity rural shipping and storage facilities within the State or region;
+&emsp;(D) an evaluation of the effect of the development of new subterminal facilities on smallcapacity rural shipping and storage facilities within the State or region;
 
 &emsp;(E) an evaluation of ways to ensure adequate rail service for subterminal facilities described in clause (D) of this paragraph, including an evaluation of the use and feasibility of contract rates;
 

@@ -68,25 +68,25 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### SUBCHAPTER III—SERVICEMEN'S GROUP LIFE INSURANCE
+#### SUBCHAPTER III—SERVICEMEMBERS’ GROUP LIFE INSURANCE
 
 |  |  |
 | :--- | ---: |
-| [1965\.](Subchapter%20003%20%28III%29%20-%20Servicemen%27s%20Group%20Life%20Insurance/%C2%A7%2001965%20-%20Definitions.md) | Definitions. |
-| [1966\.](Subchapter%20003%20%28III%29%20-%20Servicemen%27s%20Group%20Life%20Insurance/%C2%A7%2001966%20-%20Eligible%20insurance%20companies.md) | Eligible insurance companies. |
-| [1967\.](Subchapter%20003%20%28III%29%20-%20Servicemen%27s%20Group%20Life%20Insurance/%C2%A7%2001967%20-%20Persons%20insured%3B%20amount.md) | Persons insured; amount. |
-| [1968\.](Subchapter%20003%20%28III%29%20-%20Servicemen%27s%20Group%20Life%20Insurance/%C2%A7%2001968%20-%20Duration%20and%20termination%20of%20coverage%3B%20conversion.md) | Duration and termination of coverage; conversion. |
-| [1969\.](Subchapter%20003%20%28III%29%20-%20Servicemen%27s%20Group%20Life%20Insurance/%C2%A7%2001969%20-%20Deductions%3B%20payment%3B%20investment%3B%20expenses.md) | Deductions; payment; investment; expenses. |
-| [1970\.](Subchapter%20003%20%28III%29%20-%20Servicemen%27s%20Group%20Life%20Insurance/%C2%A7%2001970%20-%20Beneficiaries%3B%20payment%20of%20insurance.md) | Beneficiaries; payment of insurance. |
-| [1971\.](Subchapter%20003%20%28III%29%20-%20Servicemen%27s%20Group%20Life%20Insurance/%C2%A7%2001971%20-%20Basic%20tables%20of%20premiums%3B%20readjustment%20of%20rates.md) | Basic tables of premiums; readjustment of rates. |
-| [1972\.](Subchapter%20003%20%28III%29%20-%20Servicemen%27s%20Group%20Life%20Insurance/%C2%A7%2001972%20-%20Benefit%20certificates.md) | Benefit certificates. |
-| [1973\.](Subchapter%20003%20%28III%29%20-%20Servicemen%27s%20Group%20Life%20Insurance/%C2%A7%2001973%20-%20Forfeiture.md) | Forfeiture. |
-| [1974\.](Subchapter%20003%20%28III%29%20-%20Servicemen%27s%20Group%20Life%20Insurance/%C2%A7%2001974%20-%20Advisory%20Council%20on%20Servicemen%27s%20Group%20Life%20Insurance.md) | Advisory Council on Servicemen's Group Life Insurance. |
-| [1975\.](Subchapter%20003%20%28III%29%20-%20Servicemen%27s%20Group%20Life%20Insurance/%C2%A7%2001975%20-%20Jurisdiction%20of%20District%20Courts.md) | Jurisdiction of District Courts. |
-| [1976\.](Subchapter%20003%20%28III%29%20-%20Servicemen%27s%20Group%20Life%20Insurance/%C2%A7%2001976%20-%20Effective%20date.md) | Effective date. |
-| [1977\.](Subchapter%20003%20%28III%29%20-%20Servicemen%27s%20Group%20Life%20Insurance/%C2%A7%2001977%20-%20Veterans%E2%80%99%20Group%20Life%20Insurance.md) | Veterans’ Group Life Insurance. |
-| [1978\.](Subchapter%20003%20%28III%29%20-%20Servicemen%27s%20Group%20Life%20Insurance/%C2%A7%2001978%20-%20Reinstatement.md) | Reinstatement. |
-| [1979\.](Subchapter%20003%20%28III%29%20-%20Servicemen%27s%20Group%20Life%20Insurance/%C2%A7%2001979%20-%20Incontestability.md) | Incontestability. |
+| [1965\.](Subchapter%20003%20%28III%29%20-%20Servicemembers%E2%80%99%20Group%20Life%20Insurance/%C2%A7%2001965%20-%20Definitions.md) | Definitions. |
+| [1966\.](Subchapter%20003%20%28III%29%20-%20Servicemembers%E2%80%99%20Group%20Life%20Insurance/%C2%A7%2001966%20-%20Eligible%20insurance%20companies.md) | Eligible insurance companies. |
+| [1967\.](Subchapter%20003%20%28III%29%20-%20Servicemembers%E2%80%99%20Group%20Life%20Insurance/%C2%A7%2001967%20-%20Persons%20insured%3B%20amount.md) | Persons insured; amount. |
+| [1968\.](Subchapter%20003%20%28III%29%20-%20Servicemembers%E2%80%99%20Group%20Life%20Insurance/%C2%A7%2001968%20-%20Duration%20and%20termination%20of%20coverage%3B%20conversion.md) | Duration and termination of coverage; conversion. |
+| [1969\.](Subchapter%20003%20%28III%29%20-%20Servicemembers%E2%80%99%20Group%20Life%20Insurance/%C2%A7%2001969%20-%20Deductions%3B%20payment%3B%20investment%3B%20expenses.md) | Deductions; payment; investment; expenses. |
+| [1970\.](Subchapter%20003%20%28III%29%20-%20Servicemembers%E2%80%99%20Group%20Life%20Insurance/%C2%A7%2001970%20-%20Beneficiaries%3B%20payment%20of%20insurance.md) | Beneficiaries; payment of insurance. |
+| [1971\.](Subchapter%20003%20%28III%29%20-%20Servicemembers%E2%80%99%20Group%20Life%20Insurance/%C2%A7%2001971%20-%20Basic%20tables%20of%20premiums%3B%20readjustment%20of%20rates.md) | Basic tables of premiums; readjustment of rates. |
+| [1972\.](Subchapter%20003%20%28III%29%20-%20Servicemembers%E2%80%99%20Group%20Life%20Insurance/%C2%A7%2001972%20-%20Benefit%20certificates.md) | Benefit certificates. |
+| [1973\.](Subchapter%20003%20%28III%29%20-%20Servicemembers%E2%80%99%20Group%20Life%20Insurance/%C2%A7%2001973%20-%20Forfeiture.md) | Forfeiture. |
+| [1974\.](Subchapter%20003%20%28III%29%20-%20Servicemembers%E2%80%99%20Group%20Life%20Insurance/%C2%A7%2001974%20-%20Advisory%20Council%20on%20Servicemembers%E2%80%99%20Group%20Life%20Insurance.md) | Advisory Council on Servicemembers’ Group Life Insurance. |
+| [1975\.](Subchapter%20003%20%28III%29%20-%20Servicemembers%E2%80%99%20Group%20Life%20Insurance/%C2%A7%2001975%20-%20Jurisdiction%20of%20District%20Courts.md) | Jurisdiction of District Courts. |
+| [1976\.](Subchapter%20003%20%28III%29%20-%20Servicemembers%E2%80%99%20Group%20Life%20Insurance/%C2%A7%2001976%20-%20Effective%20date.md) | Effective date. |
+| [1977\.](Subchapter%20003%20%28III%29%20-%20Servicemembers%E2%80%99%20Group%20Life%20Insurance/%C2%A7%2001977%20-%20Veterans%E2%80%99%20Group%20Life%20Insurance.md) | Veterans’ Group Life Insurance. |
+| [1978\.](Subchapter%20003%20%28III%29%20-%20Servicemembers%E2%80%99%20Group%20Life%20Insurance/%C2%A7%2001978%20-%20Reinstatement.md) | Reinstatement. |
+| [1979\.](Subchapter%20003%20%28III%29%20-%20Servicemembers%E2%80%99%20Group%20Life%20Insurance/%C2%A7%2001979%20-%20Incontestability.md) | Incontestability. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -106,6 +106,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1996—Pub. L. 104–275, title IV, §405(b)(3), Oct. 9, 1996, 110 Stat. 3339, substituted “SERVICEMEMBERS’ GROUP” for “SERVICEMEN'S GROUP” in subchapter III heading and “Servicemembers’ Group” for “Servicemen's Group” in item 1974.
 
 1992—Pub. L. 102–568, title II, §203(b), Oct. 29, 1992, 106 Stat. 4325, added item 1922A.
 
@@ -140,5 +142,5 @@ This chapter is referred to in sections 101, 106, 5301, 5303A of this title.
 
 - [Subchapter 001 (I) - National Service Life Insurance](Subchapter%20001%20%28I%29%20-%20National%20Service%20Life%20Insurance/README.md)
 - [Subchapter 002 (II) - United States Government Life Insurance](Subchapter%20002%20%28II%29%20-%20United%20States%20Government%20Life%20Insurance/README.md)
-- [Subchapter 003 (III) - Servicemen's Group Life Insurance](Subchapter%20003%20%28III%29%20-%20Servicemen%27s%20Group%20Life%20Insurance/README.md)
+- [Subchapter 003 (III) - Servicemembers&#8217; Group Life Insurance](Subchapter%20003%20%28III%29%20-%20Servicemembers%E2%80%99%20Group%20Life%20Insurance/README.md)
 - [Subchapter 004 (IV) - General](Subchapter%20004%20%28IV%29%20-%20General/README.md)

@@ -1,20 +1,24 @@
 ### §1667c. Consumer lease advertising; liability of advertising media
 
-#### (a) Contents of lease advertisements
+#### (a) In general
 
-No advertisement to aid, promote, or assist directly or indirectly any consumer lease shall state the amount of any payment, the number of required payments, or that any or no downpayment or other payment is required at inception of the lease unless the advertisement also states clearly and conspicuously and in accordance with regulations issued by the Board each of the following items of information which is applicable:
+If an advertisement for a consumer lease includes a statement of the amount of any payment or a statement that any or no initial payment is required, the advertisement shall clearly and conspicuously state, as applicable—
 
-&emsp;(1) That the transaction advertised is a lease.
+&emsp;(1) the transaction advertised is a lease;
 
-&emsp;(2) The amount of any payment required at the inception of the lease or that no such payment is required if that is the case.
+&emsp;(2) the total amount of any initial payments required on or before consummation of the lease or delivery of the property, whichever is later;
 
-&emsp;(3) The number, amounts, due dates or periods of scheduled payments, and the total of payments under the lease.
+&emsp;(3) that a security deposit is required;
 
-&emsp;(4) That the lessee shall be liable for the differential, if any, between the anticipated fair market value of the leased property and its appraised actual value at the termination of the lease, if the lessee has such liability.
+&emsp;(4) the number, amount, and timing of scheduled payments; and
 
-&emsp;(5) A statement of the amount or method of determining the amount of any liabilities the lease imposes upon the lessee at the end of the term and whether or not the lessee has the option to purchase the leased property and at what price and time.
+&emsp;(5) with respect to a lease in which the liability of the consumer at the end of the lease term is based on the anticipated residual value of the property, that an extra charge may be imposed at the end of the lease term.
 
-#### (b) Radio advertisements
+#### (b) Advertising medium not liable
+
+No owner or employee of any entity that serves as a medium in which an advertisement appears or through which an advertisement is disseminated, shall be liable under this section.
+
+#### (c) Radio advertisements
 
 #### (1) In general
 
@@ -60,13 +64,15 @@ No advertisement to aid, promote, or assist directly or indirectly any consumer 
 
 &emsp;Nothing in this subsection shall affect the requirements of Federal law as such requirements apply to advertisement by any medium other than radio broadcast.
 
-#### (c) Liability of advertising media
-
-There is no liability under this section on the part of any owner or personnel, as such, of any medium in which an advertisement appears or through which it is disseminated.
-
-(Pub. L. 90–321, title I, §184, as added Pub. L. 94–240, §3, Mar. 23, 1976, 90 Stat. 259; amended Pub. L. 103–325, title III, §336(a), Sept. 23, 1994, 108 Stat. 2234.)
+(Pub. L. 90–321, title I, §184, as added Pub. L. 94–240, §3, Mar. 23, 1976, 90 Stat. 259; amended Pub. L. 103–325, title III, §336(a), Sept. 23, 1994, 108 Stat. 2234; Pub. L. 104–208, div. A, title II, §2605(c), Sept. 30, 1996, 110 Stat. 3009–473.)
 
 #### Amendments
+
+1996—Subsec. (a). Pub. L. 104–208, §2605(c)(1), (3), added subsec. (a) and struck out former subsec. (a) consisting of introductory provisions and 5 pars. relating to contents of lease agreements required if consumer lease advertisement stated amount of payment, number of required payments, or that any or no payments were required at lease inception.
+
+Subsec. (b). Pub. L. 104–208, §2605(c)(3), added subsec. (b). Former subsec. (b) redesignated (c).
+
+Subsec. (c). Pub. L. 104–208, §2605(c)(1), (2), redesignated subsec. (b) as (c) and struck out former subsec. (c) which read as follows: “There is no liability under this section on the part of any owner or personnel, as such, of any medium in which an advertisement appears or through which it is disseminated.”
 
 1994—Subsecs. (b), (c). Pub. L. 103–325 added subsec. (b) and redesignated former subsec. (b) as (c).
 

@@ -19,7 +19,7 @@
 
 #### Amendments
 
-1989—Pub. L. 101–239, title VII, §7304(b)(2)(C), Dec. 19, 1989, 103 Stat. 2353, struck out item 2210 “Liability for payment in case of transfer of employer securities to an employee stock ownership plan or a worker-owned cooperative”.
+1989—Pub. L. 101–239, title VII, §7304(b)(2)(C), Dec. 19, 1989, 103 Stat. 2353, struck out item 2210 “Liability forpayment in case of transfer of employer securities to an employee stock ownership plan or a worker-owned cooperative”.
 
 1988—Pub. L. 100–647, title III, §3031(f)(2), Nov. 10, 1988, 102 Stat. 3638, added item 2207B.
 

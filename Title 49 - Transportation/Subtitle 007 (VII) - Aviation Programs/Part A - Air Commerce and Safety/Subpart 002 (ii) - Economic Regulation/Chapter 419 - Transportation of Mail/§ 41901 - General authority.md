@@ -20,7 +20,7 @@ Other Transportation.—In prescribing prices under subsection (b) of this secti
 
 (d)
 
-Authority To Prescribe Different Prices.—Considering conditions peculiar to transportation by aircraft and to particular air carriers or classes of air carriers, the Secretary may prescribe different prices under this section for different air carriers or classes of air carriers and for different classes of service. In prescribing a price for a carrier under this section, the Secretary shall consider, among other factors, the following:
+Authority To Prescribe Different Prices.—Considering conditions peculiar to transportation by aircraft and to particular air carriers or classes of air carriers, the Secretary may prescribe different prices under this section for different air carriers or classes of air carriers and for different classes of service. In prescribing a price for a carrier under this section, theSecretary shall consider, among other factors, the following:
 
 &emsp;(1) the condition that the carrier may hold and operate under a certificate authorizing the transportation of mail only by providing necessary and adequate facilities and service for the transportation of mail.
 
@@ -44,7 +44,9 @@ Historical and Revision Notes
 
 Pub. L. 103–272, §1(e)
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -58,7 +60,7 @@ Aug. 23, 1958, Pub. L. 85–726, §406(a), 72 Stat. 763; Nov. 9, 1977, Pub. L. 9
 
 &nbsp;
 
-49 App.:1551(b) (1)(D).
+49 App.:1551(b)(1)(D).
 
 Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1601(b)(1)(D); added Oct. 4, 1984, Pub. L. 95–504, §40(a), 92 Stat. 1745; Oct. 4, 1984, Pub. L. 98–443, §3(d), 98 Stat. 1704.
 
@@ -74,7 +76,7 @@ Aug. 23, 1958, Pub. L. 85–726, §406(c), 72 Stat. 764; Oct. 24, 1978, Pub. L. 
 
 &nbsp;
 
-49 App.:1551(b) (1)(E).
+49 App.:1551(b)(1)(E).
 
 Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1601(b)(1)(E); added Oct. 4, 1984, Pub. L. 98–443, §3(e), 98 Stat. 1704.
 
@@ -96,7 +98,7 @@ Aug. 23, 1958, Pub. L. 85–726, §406(d), (e), 72 Stat. 764.
 
 &nbsp;
 
-49 App.:1551(b) (1)(D), (E).
+49 App.:1551(b)(1)(D), (E).
 
 41901(e)
 
@@ -108,7 +110,7 @@ Aug. 23, 1958, Pub. L. 85–726, §406(d), (e), 72 Stat. 764.
 
 &nbsp;
 
-49 App.:1551(b) (1)(D), (E).
+49 App.:1551(b)(1)(D), (E).
 
 41901(g)
 
@@ -138,7 +140,9 @@ Subsection (g) is substituted for 49 App.:1551(b)(3) and 1553(c) because the dat
 
 Pub. L. 103–272, §4(k)(1), (2)
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

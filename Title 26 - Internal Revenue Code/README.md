@@ -1,5 +1,5 @@
 
-26 U.S.C.<br>United States Code, 1995 Edition<br>Title 26 - INTERNAL REVENUE CODE<br>From the U.S. Government Publishing Office, www.gpo.gov
+26 U.S.C.<br>United States Code, 1996 Edition<br>Title 26 - INTERNAL REVENUE CODE<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 26—INTERNAL REVENUE CODE
 
@@ -11,9 +11,13 @@ Citations to “R.A.” refer to the sections of earlier Revenue Acts.
 
 Table I
 
-<i>1939 Code    section number   </i>
+<i>1939 Code</i>
 
-<i>1986 Code        section number       </i>
+<i>section number</i>
+
+<i>1986 Code</i>
+
+<i>section number</i>
 
 1
 
@@ -167,7 +171,7 @@ Omitted
 
 71
 
-22(<i>l)</i>
+22(<i>l</i>)
 
 691
 
@@ -179,7 +183,7 @@ Omitted
 
 62
 
-22(<i>o)</i>
+22(<i>o</i>)
 
 75
 
@@ -243,7 +247,7 @@ Omitted
 
 166, 271
 
-23(<i>l)</i>
+23(<i>l</i>)
 
 167
 
@@ -255,7 +259,7 @@ Omitted
 
 167
 
-23(<i>o)</i>
+23(<i>o</i>)
 
 170
 
@@ -799,7 +803,7 @@ Omitted
 
 357, 371
 
-112(<i>l)</i>
+112(<i>l</i>)
 
 371
 
@@ -1015,7 +1019,7 @@ Omitted
 
 912
 
-116(<i>l)</i>
+116(<i>l</i>)
 
 933
 
@@ -1071,7 +1075,7 @@ Omitted
 
 631
 
-117(<i>l)</i>
+117(<i>l</i>)
 
 1233
 
@@ -2011,7 +2015,7 @@ Omitted
 
 2032
 
-811(k), (<i>l)</i>
+811(k), (<i>l</i>)
 
 2031(b), 2035
 
@@ -2811,7 +2815,7 @@ Omitted
 
 7701(a)(1)
 
-1426(g)–(<i>l)</i>
+1426(g)–(<i>l</i>)
 
 3121(f)–(k)
 
@@ -2983,7 +2987,7 @@ Omitted
 
 7701(a)(1)
 
-1607(<i>l</i>)–(<i>o)</i>
+1607(<i>l</i>)–(<i>o</i>)
 
 3306(k)–(n)
 
@@ -7741,9 +7745,13 @@ Omitted
 
 Table II
 
-<i>1986 Code    section number   </i>
+<i>1986 Code</i>
 
-<i>1939 Code        section number       </i>
+<i>section number</i>
+
+<i>1939 Code</i>
+
+<i>section number</i>
 
 1
 
@@ -7763,11 +7771,15 @@ Table II
 
 5
 
+&nbsp;
+
 11
 
 13, 15, 104(b), 261
 
 12
+
+&nbsp;
 
 21
 
@@ -7787,6 +7799,8 @@ Table II
 
 34
 
+&nbsp;
+
 35
 
 25
@@ -7797,7 +7811,11 @@ Table II
 
 37
 
+&nbsp;
+
 38
+
+&nbsp;
 
 61
 
@@ -7825,9 +7843,11 @@ Table II
 
 74
 
+&nbsp;
+
 75
 
-22(<i>o)</i>
+22(<i>o</i>)
 
 76
 
@@ -7855,7 +7875,11 @@ Table II
 
 105
 
+&nbsp;
+
 106
+
+&nbsp;
 
 107
 
@@ -7870,6 +7894,8 @@ Table II
 22(b)(11)
 
 110
+
+&nbsp;
 
 111
 
@@ -7893,13 +7919,23 @@ Table II
 
 116
 
+&nbsp;
+
 117
+
+&nbsp;
 
 118
 
+&nbsp;
+
 119
 
+&nbsp;
+
 120
+
+&nbsp;
 
 121
 
@@ -7923,6 +7959,8 @@ Table II
 
 145
 
+&nbsp;
+
 151
 
 25(b)(1)
@@ -7936,6 +7974,8 @@ Table II
 25(b)(2)
 
 154
+
+&nbsp;
 
 161
 
@@ -7991,7 +8031,11 @@ Table II
 
 174
 
+&nbsp;
+
 175
+
+&nbsp;
 
 211
 
@@ -8007,6 +8051,8 @@ Table II
 
 214
 
+&nbsp;
+
 215
 
 23(u)
@@ -8016,6 +8062,8 @@ Table II
 23(z)
 
 217
+
+&nbsp;
 
 241
 
@@ -8046,6 +8094,8 @@ Table II
 26(h)
 
 248
+
+&nbsp;
 
 261
 
@@ -8093,6 +8143,8 @@ Table II
 
 272
 
+&nbsp;
+
 273
 
 24(d)
@@ -8119,11 +8171,15 @@ Table II
 
 306
 
+&nbsp;
+
 307
 
 113(a)(19)
 
 311
+
+&nbsp;
 
 312
 
@@ -8135,7 +8191,11 @@ Table II
 
 317
 
+&nbsp;
+
 318
+
+&nbsp;
 
 331
 
@@ -8155,9 +8215,15 @@ Table II
 
 336
 
+&nbsp;
+
 337
 
+&nbsp;
+
 338
+
+&nbsp;
 
 341
 
@@ -8205,6 +8271,8 @@ Table II
 
 363
 
+&nbsp;
+
 367
 
 112(i)
@@ -8215,7 +8283,7 @@ Table II
 
 371
 
-112(b)(10), (c), (d), (e), (k), (<i>l)</i>
+112(b)(10), (c), (d), (e), (k), (<i>l</i>)
 
 372
 
@@ -8227,17 +8295,31 @@ Table II
 
 381
 
+&nbsp;
+
 382
+
+&nbsp;
 
 391
 
+&nbsp;
+
 392
+
+&nbsp;
 
 393
 
+&nbsp;
+
 394
 
+&nbsp;
+
 395
+
+&nbsp;
 
 401
 
@@ -8281,6 +8363,8 @@ Table II
 
 452
 
+&nbsp;
+
 453
 
 44
@@ -8295,6 +8379,8 @@ Table II
 
 462
 
+&nbsp;
+
 471
 
 22(c)
@@ -8304,6 +8390,8 @@ Table II
 22(d)(1)–(5)
 
 481
+
+&nbsp;
 
 482
 
@@ -8371,6 +8459,8 @@ Last par. 101
 
 534
 
+&nbsp;
+
 535
 
 26(d), 27(b)(2), 102(d)
@@ -8380,6 +8470,8 @@ Last par. 101
 102(f)
 
 537
+
+&nbsp;
 
 541
 
@@ -8507,6 +8599,8 @@ Last par. 101
 
 614
 
+&nbsp;
+
 615
 
 23(ff)
@@ -8561,21 +8655,39 @@ Last par. 101
 
 665
 
+&nbsp;
+
 666
+
+&nbsp;
 
 667
 
+&nbsp;
+
 668
+
+&nbsp;
 
 671
 
+&nbsp;
+
 672
+
+&nbsp;
 
 673
 
+&nbsp;
+
 674
 
+&nbsp;
+
 675
+
+&nbsp;
 
 676
 
@@ -8587,6 +8699,8 @@ Last par. 101
 
 678
 
+&nbsp;
+
 681
 
 162(g)
@@ -8596,6 +8710,8 @@ Last par. 101
 171
 
 683
+
+&nbsp;
 
 691
 
@@ -8623,17 +8739,27 @@ Last par. 101
 
 705
 
+&nbsp;
+
 706
 
 188
 
 707
 
+&nbsp;
+
 708
+
+&nbsp;
 
 721
 
+&nbsp;
+
 722
+
+&nbsp;
 
 723
 
@@ -8641,39 +8767,67 @@ Last par. 101
 
 731
 
+&nbsp;
+
 732
 
 113(a)(13)
 
 733
 
+&nbsp;
+
 734
+
+&nbsp;
 
 735
 
+&nbsp;
+
 736
+
+&nbsp;
 
 741
 
+&nbsp;
+
 742
+
+&nbsp;
 
 743
 
+&nbsp;
+
 751
+
+&nbsp;
 
 752
 
+&nbsp;
+
 753
+
+&nbsp;
 
 754
 
+&nbsp;
+
 755
+
+&nbsp;
 
 761
 
 3797(a)(2)
 
 771
+
+&nbsp;
 
 801
 
@@ -8741,7 +8895,11 @@ Last par. 101
 
 853
 
+&nbsp;
+
 854
+
+&nbsp;
 
 855
 
@@ -8869,7 +9027,7 @@ Last par. 101
 
 933
 
-116(<i>l)</i>
+116(<i>l</i>)
 
 941
 
@@ -8933,6 +9091,8 @@ Last par. 101
 
 1021
 
+&nbsp;
+
 1022
 
 113(e)
@@ -8943,6 +9103,8 @@ Last par. 101
 
 1032
 
+&nbsp;
+
 1033
 
 112(f), 113(a)(9)
@@ -8952,6 +9114,8 @@ Last par. 101
 112(n)
 
 1035
+
+&nbsp;
 
 1036
 
@@ -8970,6 +9134,8 @@ Last par. 101
 113(a)(14)
 
 1054
+
+&nbsp;
 
 1071
 
@@ -9037,11 +9203,15 @@ Last par. 101
 
 1235
 
+&nbsp;
+
 1236
 
 117(n)
 
 1237
+
+&nbsp;
 
 1238
 
@@ -9049,13 +9219,15 @@ Last par. 101
 
 1239
 
-117(<i>o)</i>
+117(<i>o</i>)
 
 1240
 
 117(p)
 
 1241
+
+&nbsp;
 
 1301
 
@@ -9091,6 +9263,8 @@ Last par. 101
 
 1315
 
+&nbsp;
+
 1321
 
 22(d)(6)
@@ -9125,6 +9299,8 @@ Last par. 101
 
 1341
 
+&nbsp;
+
 1346
 
 128
@@ -9135,7 +9311,11 @@ Last par. 101
 
 1351
 
+&nbsp;
+
 1361
+
+&nbsp;
 
 1401
 
@@ -9235,6 +9415,8 @@ Last par. 101
 
 1552
 
+&nbsp;
+
 2001
 
 810, 935
@@ -9252,6 +9434,8 @@ Last par. 101
 813(a)(2), 936(b)
 
 2013
+
+&nbsp;
 
 2014
 
@@ -9298,6 +9482,8 @@ Last par. 101
 811(d)
 
 2039
+
+&nbsp;
 
 2040
 
@@ -9409,6 +9595,8 @@ Last par. 101
 
 2504
 
+&nbsp;
+
 2511
 
 1000(b), 1030(b)
@@ -9427,7 +9615,11 @@ Last par. 101
 
 2515
 
+&nbsp;
+
 2516
+
+&nbsp;
 
 2521
 
@@ -9463,7 +9655,7 @@ Last par. 101
 
 3121
 
-1426(a)–(e), (g)–(<i>l)</i>
+1426(a)–(e), (g)–(<i>l</i>)
 
 3122
 
@@ -9535,7 +9727,7 @@ Last par. 101
 
 3306
 
-1607(a)–(j), (<i>l</i>)–(<i>o)</i>
+1607(a)–(j), (<i>l</i>)–(<i>o</i>)
 
 3307
 
@@ -9643,11 +9835,15 @@ Last par. 101
 
 4057
 
+&nbsp;
+
 4061
 
 3403(a), (b), (c)
 
 4062
+
+&nbsp;
 
 4063
 
@@ -9819,6 +10015,8 @@ Last par. 101
 
 4226
 
+&nbsp;
+
 4231
 
 1700
@@ -9917,6 +10115,8 @@ Last par. 101
 
 4294
 
+&nbsp;
+
 4301
 
 1800, 1802(a)
@@ -9934,6 +10134,8 @@ Last par. 101
 1802(a)
 
 4305
+
+&nbsp;
 
 4311
 
@@ -9957,6 +10159,8 @@ Last par. 101
 
 4316
 
+&nbsp;
+
 4321
 
 1800, 1802(b)
@@ -9971,6 +10175,8 @@ Last par. 101
 
 4324
 
+&nbsp;
+
 4331
 
 3480, 3481(a)
@@ -9980,6 +10186,8 @@ Last par. 101
 3481(a)
 
 4333
+
+&nbsp;
 
 4341
 
@@ -9999,6 +10207,8 @@ Last par. 101
 
 4345
 
+&nbsp;
+
 4351
 
 1802(b), 3481(a)
@@ -10013,6 +10223,8 @@ Last par. 101
 
 4354
 
+&nbsp;
+
 4361
 
 3480, 3482
@@ -10022,6 +10234,8 @@ Last par. 101
 3482
 
 4363
+
+&nbsp;
 
 4371
 
@@ -10040,6 +10254,8 @@ Last par. 101
 1821(b)(3)
 
 4375
+
+&nbsp;
 
 4381
 
@@ -10071,6 +10287,8 @@ Last par. 101
 
 4405
 
+&nbsp;
+
 4411
 
 3290
@@ -10084,6 +10302,8 @@ Last par. 101
 3292
 
 4414
+
+&nbsp;
 
 4421
 
@@ -10123,6 +10343,8 @@ Last par. 101
 
 4457
 
+&nbsp;
+
 4461
 
 3267(a)
@@ -10148,6 +10370,8 @@ Last par. 101
 3268(a)
 
 4474
+
+&nbsp;
 
 4501
 
@@ -10178,6 +10402,8 @@ Last par. 101
 2470(a)(2), 2470(b), 2474
 
 4514
+
+&nbsp;
 
 4521
 
@@ -10273,6 +10499,8 @@ Last par. 101
 
 4603
 
+&nbsp;
+
 4701
 
 2550(a), (b)
@@ -10299,6 +10527,8 @@ Last par. 101
 
 4707
 
+&nbsp;
+
 4711
 
 2567(a)
@@ -10316,6 +10546,8 @@ Last par. 101
 2571
 
 4715
+
+&nbsp;
 
 4721
 
@@ -10338,6 +10570,8 @@ Last par. 101
 3227(a)
 
 4726
+
+&nbsp;
 
 4731
 
@@ -10385,6 +10619,8 @@ P.L. 240, (83d Cong.); 3228(a)
 
 4746
 
+&nbsp;
+
 4751
 
 3230(a)
@@ -10410,6 +10646,8 @@ P.L. 240, (83d Cong.); 3228(a)
 2601, 3237
 
 4757
+
+&nbsp;
 
 4761
 
@@ -10441,6 +10679,8 @@ P.L. 240, (83d Cong.); 3228(a)
 
 4776
 
+&nbsp;
+
 4801
 
 2651(a), (b)
@@ -10462,6 +10702,8 @@ P.L. 240, (83d Cong.); 3228(a)
 2654, 2655
 
 4806
+
+&nbsp;
 
 4811
 
@@ -10497,6 +10739,8 @@ P.L. 240, (83d Cong.); 3228(a)
 
 4819
 
+&nbsp;
+
 4821
 
 3206
@@ -10530,6 +10774,8 @@ P.L. 240, (83d Cong.); 3228(a)
 2360
 
 4836
+
+&nbsp;
 
 4841
 
@@ -10605,6 +10851,8 @@ P.L. 240, (83d Cong.); 3228(a)
 
 4877
 
+&nbsp;
+
 4881
 
 1900
@@ -10626,6 +10874,8 @@ P.L. 240, (83d Cong.); 3228(a)
 1903
 
 4886
+
+&nbsp;
 
 4891
 
@@ -10652,6 +10902,8 @@ P.L. 240, (83d Cong.); 3228(a)
 1805
 
 4897
+
+&nbsp;
 
 4901
 
@@ -10690,6 +10942,8 @@ P.L. 240, (83d Cong.); 3228(a)
 2809(a), (b)(1), (2), (c), (d)
 
 5003
+
+&nbsp;
 
 5004
 
@@ -10741,6 +10995,8 @@ P.L. 240, (83d Cong.); 3228(a)
 
 5024
 
+&nbsp;
+
 5025
 
 2800(a)(5); 2801(c)(2), (e); 2883(e), 3036(a), 3250(h), (i); 3254(g)
@@ -10754,6 +11010,8 @@ P.L. 240, (83d Cong.); 3228(a)
 2802(c)
 
 5028
+
+&nbsp;
 
 5041
 
@@ -10769,7 +11027,11 @@ P.L. 240, (83d Cong.); 3228(a)
 
 5044
 
+&nbsp;
+
 5045
+
+&nbsp;
 
 5051
 
@@ -10793,7 +11055,11 @@ P.L. 240, (83d Cong.); 3228(a)
 
 5056
 
+&nbsp;
+
 5057
+
+&nbsp;
 
 5061
 
@@ -10813,6 +11079,8 @@ P.L. 240, (83d Cong.); 3228(a)
 
 5065
 
+&nbsp;
+
 5081
 
 3250(f)(1)
@@ -10823,7 +11091,11 @@ P.L. 240, (83d Cong.); 3228(a)
 
 5083
 
+&nbsp;
+
 5084
+
+&nbsp;
 
 5091
 
@@ -10835,6 +11107,8 @@ P.L. 240, (83d Cong.); 3228(a)
 
 5093
 
+&nbsp;
+
 5101
 
 3250(j)(1)
@@ -10844,6 +11118,8 @@ P.L. 240, (83d Cong.); 3228(a)
 3254(h)
 
 5103
+
+&nbsp;
 
 5104
 
@@ -11055,6 +11331,8 @@ P.L. 240, (83d Cong.); 3228(a)
 
 5233
 
+&nbsp;
+
 5241
 
 2872, 2873, 2915, 4013(a)
@@ -11085,13 +11363,19 @@ P.L. 240, (83d Cong.); 3228(a)
 
 5248
 
+&nbsp;
+
 5249
+
+&nbsp;
 
 5250
 
 2884
 
 5251
+
+&nbsp;
 
 5252
 
@@ -11115,6 +11399,8 @@ P.L. 240, (83d Cong.); 3228(a)
 
 5275
 
+&nbsp;
+
 5281
 
 2801(e)(1), (d)
@@ -11128,6 +11414,8 @@ P.L. 240, (83d Cong.); 3228(a)
 2828, 2830
 
 5284
+
+&nbsp;
 
 5285
 
@@ -11179,6 +11467,8 @@ P.L. 240, (83d Cong.); 3228(a)
 
 5312
 
+&nbsp;
+
 5313
 
 3121(a), (c)
@@ -11209,6 +11499,8 @@ P.L. 240, (83d Cong.); 3228(a)
 
 5320
 
+&nbsp;
+
 5331
 
 3070(a), (b)
@@ -11223,13 +11515,19 @@ P.L. 240, (83d Cong.); 3228(a)
 
 5334
 
+&nbsp;
+
 5351
 
 3040
 
 5352
 
+&nbsp;
+
 5353
+
+&nbsp;
 
 5354
 
@@ -11237,13 +11535,19 @@ P.L. 240, (83d Cong.); 3228(a)
 
 5355
 
+&nbsp;
+
 5356
 
 3040
 
 5357
 
+&nbsp;
+
 5361
+
+&nbsp;
 
 5362
 
@@ -11251,9 +11555,15 @@ P.L. 240, (83d Cong.); 3228(a)
 
 5363
 
+&nbsp;
+
 5364
 
+&nbsp;
+
 5365
+
+&nbsp;
 
 5366
 
@@ -11277,7 +11587,11 @@ P.L. 240, (83d Cong.); 3228(a)
 
 5371
 
+&nbsp;
+
 5372
+
+&nbsp;
 
 5373
 
@@ -11313,6 +11627,8 @@ P.L. 240, (83d Cong.); 3228(a)
 
 5388
 
+&nbsp;
+
 5391
 
 2801(c), (e)(3); 3031(a)
@@ -11331,6 +11647,8 @@ P.L. 240, (83d Cong.); 3228(a)
 
 5403
 
+&nbsp;
+
 5411
 
 3158
@@ -11345,13 +11663,19 @@ P.L. 240, (83d Cong.); 3228(a)
 
 5414
 
+&nbsp;
+
 5415
 
 3155(c)
 
 5416
 
+&nbsp;
+
 5501
+
+&nbsp;
 
 5502
 
@@ -11362,6 +11686,8 @@ P.L. 240, (83d Cong.); 3228(a)
 3182(a)
 
 5512
+
+&nbsp;
 
 5521
 
@@ -11385,7 +11711,11 @@ P.L. 240, (83d Cong.); 3228(a)
 
 5553
 
+&nbsp;
+
 5554
+
+&nbsp;
 
 5555
 
@@ -11605,7 +11935,11 @@ P.L. 240, (83d Cong.); 3228(a)
 
 5662
 
+&nbsp;
+
 5663
+
+&nbsp;
 
 5671
 
@@ -11733,7 +12067,7 @@ P.L. 240, (83d Cong.); 3228(a)
 
 5723
 
-2100, 2102, 2103(a)(1), 2111, 2112(a)(1), 2130(a)(b)(c)
+2100, 2102, 2103(a)(1), 2111, 2112(a)(1), 2130(a), (b), (c)
 
 5731
 
@@ -11873,6 +12207,8 @@ P.L. 240, (83d Cong.); 3228(a)
 
 6011(b)
 
+&nbsp;
+
 6012(a)
 
 51(a), 52(a), 142(a)(2), (3), (4); 217(b), 235(b)
@@ -11947,6 +12283,8 @@ P.L. 240, (83d Cong.); 3228(a)
 
 6016
 
+&nbsp;
+
 6017
 
 482(a)
@@ -11965,6 +12303,8 @@ P.L. 240, (83d Cong.); 3228(a)
 
 6019(b)
 
+&nbsp;
+
 6020(a)
 
 3611(a)(2)
@@ -11974,6 +12314,8 @@ P.L. 240, (83d Cong.); 3228(a)
 3612(a), (c)
 
 6020(c)
+
+&nbsp;
 
 6021
 
@@ -11997,6 +12339,8 @@ P.L. 240, (83d Cong.); 3228(a)
 
 6033(c)
 
+&nbsp;
+
 6034(a)
 
 153(b)
@@ -12019,6 +12363,8 @@ P.L. 240, (83d Cong.); 3228(a)
 
 6037
 
+&nbsp;
+
 6041(a)
 
 147(b)(2)
@@ -12032,6 +12378,8 @@ P.L. 240, (83d Cong.); 3228(a)
 147(c)
 
 6041(d)
+
+&nbsp;
 
 6042
 
@@ -12070,6 +12418,8 @@ P.L. 240, (83d Cong.); 3228(a)
 3604(b)
 
 6046(d)
+
+&nbsp;
 
 6051(a)
 
@@ -12129,6 +12479,8 @@ P.L. 240, (83d Cong.); 3228(a)
 
 6072(d)
 
+&nbsp;
+
 6072(e)
 
 3805
@@ -12155,9 +12507,15 @@ P.L. 240, (83d Cong.); 3228(a)
 
 6074(a)
 
+&nbsp;
+
 6074(b)
 
+&nbsp;
+
 6074(c)
+
+&nbsp;
 
 6075(a)
 
@@ -12173,7 +12531,11 @@ P.L. 240, (83d Cong.); 3228(a)
 
 6081(b)
 
+&nbsp;
+
 6081(c)
+
+&nbsp;
 
 6091(a)
 
@@ -12193,11 +12555,15 @@ P.L. 240, (83d Cong.); 3228(a)
 
 6091(b)(4)
 
+&nbsp;
+
 6101
 
 3630
 
 6102
+
+&nbsp;
 
 6103(a)
 
@@ -12244,6 +12610,8 @@ P.L. 240, (83d Cong.); 3228(a)
 63
 
 6109
+
+&nbsp;
 
 6151(a)
 
@@ -12319,13 +12687,19 @@ P.L. 240, (83d Cong.); 3228(a)
 
 6154
 
+&nbsp;
+
 6155(a)
 
 22(d)(6)(F), 51(f)(2), 131(c), 146(a), 272(b), (c); 273(a), (g), (i); 274(b), 292(a), 871(b), (c), (i); 872(a), (g), (i); 874(b)(3), 891, 1012(b), (c); 1013(a), (g), (i); 1015(b), 1021, 1117(g), 1605(c), 3310(d), 3311, 3660(a), 3779(h)
 
 6155(b)
 
+&nbsp;
+
 6156
+
+&nbsp;
 
 6161(a)(1)
 
@@ -12349,17 +12723,23 @@ P.L. 240, (83d Cong.); 3228(a)
 
 6161(d)
 
+&nbsp;
+
 6162(a)
 
 56(c)(2)
 
 6162(b)
 
+&nbsp;
+
 6163(a)
 
 925, 926
 
 6163(b)
+
+&nbsp;
 
 6164(a)
 
@@ -12415,7 +12795,11 @@ P.L. 240, (83d Cong.); 3228(a)
 
 6201(a)(2)(B)
 
+&nbsp;
+
 6201(a)(3)
+
+&nbsp;
 
 6201(b)
 
@@ -12426,6 +12810,8 @@ P.L. 240, (83d Cong.); 3228(a)
 22(m)(4)
 
 6201(d)
+
+&nbsp;
 
 6202
 
@@ -12452,6 +12838,8 @@ P.L. 240, (83d Cong.); 3228(a)
 1421, 1502, 1522
 
 6206
+
+&nbsp;
 
 6211(a)
 
@@ -12491,6 +12879,8 @@ P.L. 240, (83d Cong.); 3228(a)
 
 6212(c)(2)
 
+&nbsp;
+
 6213(a)
 
 272(a), 871(a), 1012(a)
@@ -12505,6 +12895,8 @@ P.L. 240, (83d Cong.); 3228(a)
 
 6213(b)(3)
 
+&nbsp;
+
 6213(c)
 
 272(c), 871(c), 1012(c)
@@ -12514,6 +12906,8 @@ P.L. 240, (83d Cong.); 3228(a)
 272(d), 871(d), 1012(d)
 
 6213(e)
+
+&nbsp;
 
 6214(a)
 
@@ -12533,7 +12927,11 @@ P.L. 240, (83d Cong.); 3228(a)
 
 6215(b)
 
+&nbsp;
+
 6216
+
+&nbsp;
 
 6301
 
@@ -12557,7 +12955,11 @@ P.L. 240, (83d Cong.); 3228(a)
 
 6303(b)
 
+&nbsp;
+
 6304
+
+&nbsp;
 
 6311(a)
 
@@ -12577,6 +12979,8 @@ P.L. 240, (83d Cong.); 3228(a)
 
 6312(b)
 
+&nbsp;
+
 6313
 
 56(g), 1008(d), 1420(d), 1530(d), 1605(e), 3658
@@ -12591,11 +12995,15 @@ P.L. 240, (83d Cong.); 3228(a)
 
 6314(c)
 
+&nbsp;
+
 6315
 
 59(d)
 
 6316
+
+&nbsp;
 
 6321
 
@@ -12623,7 +13031,11 @@ P.L. 240, (83d Cong.); 3228(a)
 
 6323(b)
 
+&nbsp;
+
 6323(c)
+
+&nbsp;
 
 6323(d)(1)
 
@@ -12634,6 +13046,8 @@ P.L. 240, (83d Cong.); 3228(a)
 3672(b)(2)
 
 6323(e)
+
+&nbsp;
 
 6324(a)(1)
 
@@ -12652,6 +13066,8 @@ P.L. 240, (83d Cong.); 3228(a)
 1009
 
 6324(c)
+
+&nbsp;
 
 6325(a)(1)
 
@@ -12675,7 +13091,11 @@ P.L. 240, (83d Cong.); 3228(a)
 
 6325(d)
 
+&nbsp;
+
 6326
+
+&nbsp;
 
 6331(a)
 
@@ -12690,6 +13110,8 @@ P.L. 240, (83d Cong.); 3228(a)
 3715
 
 6331(d)
+
+&nbsp;
 
 6332(a)
 
@@ -12753,6 +13175,8 @@ P.L. 240, (83d Cong.); 3228(a)
 
 6335(e)(2)(C)
 
+&nbsp;
+
 6335(e)(2)(D)
 
 3701(f)
@@ -12770,6 +13194,8 @@ P.L. 240, (83d Cong.); 3228(a)
 3701(f)
 
 6336
+
+&nbsp;
 
 6337(a)
 
@@ -12817,6 +13243,8 @@ P.L. 240, (83d Cong.); 3228(a)
 
 6339(a)(5)
 
+&nbsp;
+
 6339(b)(1)
 
 3704(c)(1)
@@ -12847,7 +13275,11 @@ P.L. 240, (83d Cong.); 3228(a)
 
 6343
 
+&nbsp;
+
 6344
+
+&nbsp;
 
 6401(a)
 
@@ -12883,6 +13315,8 @@ P.L. 240, (83d Cong.); 3228(a)
 
 6404(c)
 
+&nbsp;
+
 6405(a)
 
 3777(a)
@@ -12917,6 +13351,8 @@ P.L. 240, (83d Cong.); 3228(a)
 
 6412(a)
 
+&nbsp;
+
 6412(b)(1)
 
 3412(g)(1)
@@ -12927,11 +13363,15 @@ P.L. 240, (83d Cong.); 3228(a)
 
 6412(c)
 
+&nbsp;
+
 6412(d)
 
 3508
 
 6412(e)
+
+&nbsp;
 
 6413(a)(1)
 
@@ -13059,6 +13499,8 @@ P.L. 240, (83d Cong.); 3228(a)
 
 6420
 
+&nbsp;
+
 6501(a)
 
 275(a), 874(a), 1016(a), 1635(a), 3312(a)
@@ -13072,6 +13514,8 @@ P.L. 240, (83d Cong.); 3228(a)
 1635(e)
 
 6501(b)(3)
+
+&nbsp;
 
 6501(c)(1)
 
@@ -13091,6 +13535,8 @@ P.L. 240, (83d Cong.); 3228(a)
 
 6501(c)(5)
 
+&nbsp;
+
 6501(d)
 
 275(b)
@@ -13105,9 +13551,15 @@ P.L. 240, (83d Cong.); 3228(a)
 
 6501(e)(2)
 
+&nbsp;
+
 6501(f)
 
+&nbsp;
+
 6501(g)
+
+&nbsp;
 
 6502(a)
 
@@ -13131,13 +13583,19 @@ P.L. 240, (83d Cong.); 3228(a)
 
 6503(c)
 
+&nbsp;
+
 6503(d)
 
 822(a)(2), 871(h)
 
 6503(e)
 
+&nbsp;
+
 6504
+
+&nbsp;
 
 6511(a)
 
@@ -13169,6 +13627,8 @@ P.L. 240, (83d Cong.); 3228(a)
 
 6511(d)(3)
 
+&nbsp;
+
 6511(e)(1)
 
 3494(b)
@@ -13178,6 +13638,8 @@ P.L. 240, (83d Cong.); 3228(a)
 3493(b)
 
 6511(f)
+
+&nbsp;
 
 6512(a)
 
@@ -13201,6 +13663,8 @@ P.L. 240, (83d Cong.); 3228(a)
 
 6513(d)
 
+&nbsp;
+
 6514(a)
 
 3774
@@ -13210,6 +13674,8 @@ P.L. 240, (83d Cong.); 3228(a)
 3775
 
 6515
+
+&nbsp;
 
 6521
 
@@ -13229,6 +13695,8 @@ P.L. 240, (83d Cong.); 3228(a)
 
 6532(a)(3)
 
+&nbsp;
+
 6532(a)(4)
 
 3772(a)(3)
@@ -13238,6 +13706,8 @@ P.L. 240, (83d Cong.); 3228(a)
 3746(a), (b), (c)
 
 6533
+
+&nbsp;
 
 6601(a)
 
@@ -13277,13 +13747,19 @@ P.L. 240, (83d Cong.); 3228(a)
 
 6601(f)(2)
 
+&nbsp;
+
 6601(f)(3)
+
+&nbsp;
 
 6601(g)
 
 59(d)
 
 6601(h)
+
+&nbsp;
 
 6602
 
@@ -13323,17 +13799,23 @@ P.L. 240, (83d Cong.); 3228(a)
 
 6612
 
+&nbsp;
+
 6651(a)
 
 291, 894(a), 1631, 3612(d)(1)
 
 6651(b)
 
+&nbsp;
+
 6651(c)
 
 294(d)(1)(A)
 
 6652
+
+&nbsp;
 
 6653(a)
 
@@ -13349,7 +13831,11 @@ P.L. 240, (83d Cong.); 3228(a)
 
 6653(c)(2)
 
+&nbsp;
+
 6653(d)
+
+&nbsp;
 
 6653(e)
 
@@ -13361,9 +13847,15 @@ P.L. 240, (83d Cong.); 3228(a)
 
 6655
 
+&nbsp;
+
 6656
 
+&nbsp;
+
 6657
+
+&nbsp;
 
 6658
 
@@ -13455,6 +13947,8 @@ P.L. 240, (83d Cong.); 3228(a)
 
 6806(b)
 
+&nbsp;
+
 6806(c)
 
 3293
@@ -13465,6 +13959,8 @@ P.L. 240, (83d Cong.); 3228(a)
 
 6808
 
+&nbsp;
+
 6851(a)(1)
 
 146(a)(1)
@@ -13474,6 +13970,8 @@ P.L. 240, (83d Cong.); 3228(a)
 146(a)(2)
 
 6851(b)
+
+&nbsp;
 
 6851(c)
 
@@ -13517,11 +14015,15 @@ P.L. 240, (83d Cong.); 3228(a)
 
 6861(h)
 
+&nbsp;
+
 6862(a)
 
 3660(a)
 
 6862(b)
+
+&nbsp;
 
 6863(a)
 
@@ -13536,6 +14038,8 @@ P.L. 240, (83d Cong.); 3228(a)
 273(f), (h); 872(f), (h); 1013(f), (h)
 
 6864
+
+&nbsp;
 
 6871(a)
 
@@ -13554,6 +14058,8 @@ P.L. 240, (83d Cong.); 3228(a)
 274(b), 1015(b)
 
 6873(b)
+
+&nbsp;
 
 6901(a)
 
@@ -13589,6 +14095,8 @@ P.L. 240, (83d Cong.); 3228(a)
 
 6901(i)
 
+&nbsp;
+
 6902(a)
 
 1119(a)
@@ -13607,11 +14115,15 @@ P.L. 240, (83d Cong.); 3228(a)
 
 6904
 
+&nbsp;
+
 7001(a)
 
 150
 
 7001(b)
+
+&nbsp;
 
 7011(a)
 
@@ -13623,6 +14135,8 @@ P.L. 240, (83d Cong.); 3228(a)
 
 7012
 
+&nbsp;
+
 7101
 
 44(d), 56(c)(2), 112(b)(6)(D), 131(c), 146(b), 272(j), 273(f), 822(a)(2), 871(h), 872(f), 926, 1012(i), 1013(f), 1145, 1818(a), 2302(e), 2322(e), 2352(e), 2474, 2569(b), 2653(d), 3360(d)(2)(B), 3412(d), 3413, 3660(b), 3722(c), 3724(c), 3943, 3992, 4010, and 6 U.S.C. 15
@@ -13632,6 +14146,8 @@ P.L. 240, (83d Cong.); 3228(a)
 3676
 
 7103
+
+&nbsp;
 
 7121(a)
 
@@ -13650,6 +14166,8 @@ P.L. 240, (83d Cong.); 3228(a)
 3761
 
 7123
+
+&nbsp;
 
 7201
 
@@ -13757,6 +14275,8 @@ P.L. 240, (83d Cong.); 3228(a)
 
 7213(c)
 
+&nbsp;
+
 7214(a)
 
 4047(e)
@@ -13766,6 +14286,8 @@ P.L. 240, (83d Cong.); 3228(a)
 4047
 
 7214(c)
+
+&nbsp;
 
 7231
 
@@ -13981,6 +14503,8 @@ P.L. 240, (83d Cong.); 3228(a)
 
 7272(b)
 
+&nbsp;
+
 7273(a)
 
 3274
@@ -13994,6 +14518,8 @@ P.L. 240, (83d Cong.); 3228(a)
 2656
 
 7275
+
+&nbsp;
 
 7301(a)
 
@@ -14089,6 +14615,8 @@ P.L. 240, (83d Cong.); 3228(a)
 
 7326
 
+&nbsp;
+
 7327
 
 3726
@@ -14098,6 +14626,8 @@ P.L. 240, (83d Cong.); 3228(a)
 2657
 
 7329
+
+&nbsp;
 
 7341(a)
 
@@ -14145,6 +14675,8 @@ P.L. 240, (83d Cong.); 3228(a)
 
 7402(e)
 
+&nbsp;
+
 7403(a)
 
 3678(a)
@@ -14175,13 +14707,19 @@ P.L. 240, (83d Cong.); 3228(a)
 
 7405(c)
 
+&nbsp;
+
 7405(d)
+
+&nbsp;
 
 7406
 
 3747
 
 7407
+
+&nbsp;
 
 7421(a)
 
@@ -14209,7 +14747,11 @@ P.L. 240, (83d Cong.); 3228(a)
 
 7422(e)
 
+&nbsp;
+
 7422(f)
+
+&nbsp;
 
 7423(1)
 
@@ -14240,6 +14782,8 @@ P.L. 240, (83d Cong.); 3228(a)
 3679(d)
 
 7425
+
+&nbsp;
 
 7441
 
@@ -14347,6 +14891,8 @@ P.L. 240, (83d Cong.); 3228(a)
 
 7454(b)
 
+&nbsp;
+
 7455
 
 1113
@@ -14356,6 +14902,8 @@ P.L. 240, (83d Cong.); 3228(a)
 1114
 
 7456(b)
+
+&nbsp;
 
 7456(c)
 
@@ -14399,6 +14947,8 @@ P.L. 240, (83d Cong.); 3228(a)
 
 7459(g)
 
+&nbsp;
+
 7460(a)
 
 1118(a)
@@ -14417,6 +14967,8 @@ P.L. 240, (83d Cong.); 3228(a)
 
 7463
 
+&nbsp;
+
 7471(a)
 
 1130(a)
@@ -14426,6 +14978,8 @@ P.L. 240, (83d Cong.); 3228(a)
 1130(b)
 
 7471(c)
+
+&nbsp;
 
 7472
 
@@ -14469,11 +15023,15 @@ P.L. 240, (83d Cong.); 3228(a)
 
 7485(b)
 
+&nbsp;
+
 7486
 
 1146
 
 7487
+
+&nbsp;
 
 7491
 
@@ -14493,11 +15051,19 @@ P.L. 240, (83d Cong.); 3228(a)
 
 7501(b)
 
+&nbsp;
+
 7502
+
+&nbsp;
 
 7503
 
+&nbsp;
+
 7504
+
+&nbsp;
 
 7505(a)
 
@@ -14565,6 +15131,8 @@ P.L. 240, (83d Cong.); 3228(a)
 
 7601(b)
 
+&nbsp;
+
 7602
 
 3614, 3615(a), (b), (c); 3632(a)(1)
@@ -14582,6 +15150,8 @@ P.L. 240, (83d Cong.); 3228(a)
 3615(e)
 
 7604(c)
+
+&nbsp;
 
 7605(a)
 
@@ -14601,7 +15171,11 @@ P.L. 240, (83d Cong.); 3228(a)
 
 7606(c)
 
+&nbsp;
+
 7607
+
+&nbsp;
 
 7621
 
@@ -14611,7 +15185,7 @@ P.L. 240, (83d Cong.); 3228(a)
 
 3632(a)
 
-3622(b)
+7622(b)
 
 3632(b)
 
@@ -14665,11 +15239,15 @@ P.L. 240, (83d Cong.); 3228(a)
 
 7653(d)
 
+&nbsp;
+
 7654
 
 2483
 
 7655
+
+&nbsp;
 
 7701(a)(1)
 
@@ -14717,6 +15295,8 @@ P.L. 240, (83d Cong.); 3228(a)
 
 7701(a)(12)
 
+&nbsp;
+
 7701(a)(13)
 
 3797(a)(12)
@@ -14751,7 +15331,11 @@ P.L. 240, (83d Cong.); 3228(a)
 
 7701(a)(21)
 
+&nbsp;
+
 7701(a)(22)
+
+&nbsp;
 
 7701(a)(23)
 
@@ -14771,7 +15355,11 @@ P.L. 240, (83d Cong.); 3228(a)
 
 7701(a)(27)
 
+&nbsp;
+
 7701(a)(28)
+
+&nbsp;
 
 7701(b)
 
@@ -14782,6 +15370,8 @@ P.L. 240, (83d Cong.); 3228(a)
 3797(c)
 
 7701(c)(2)
+
+&nbsp;
 
 7801(a)
 
@@ -14849,7 +15439,11 @@ Ch. 1, Sec. 6, P.L. 1
 
 7807(a)
 
+&nbsp;
+
 7807(b)
+
+&nbsp;
 
 7808
 
@@ -14900,6 +15494,8 @@ Ch. 1, Sec. 6, P.L. 1
 <i>See</i> 26 U.S.C. 4(a), 5, 7
 
 7852(c)
+
+&nbsp;
 
 7852(d)
 
@@ -15005,19 +15601,27 @@ References in Laws, Etc.—Except when inappropriate, any reference in any law, 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+|  |  |
+| :--- | ---: |
+| K. | Group health plan portability, access, and renewability requirements §§9801–9806.<sup>1</sup> |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 #### Amendments
 
-1982—Pub. L. 97–248, title III, §§307(b)(2), 308(a), Sept. 3, 1982, 96 Stat. 590, 591, provided that, applicable to payments of interest, dividends, and patronage dividends paid or credited after June 30, 1983, subtitle C heading is amended to read “Employment taxes and collection of income tax at source”. Section 102(a), (b) of Pub. L. 98–67, title I, Aug. 5, 1983, 97 Stat. 369, repealed subtitle A (§§301–308) of title III of Pub. L. 97–248 as of the close of June 30, 1983, and provided that the Internal Revenue Code of 1954 \[now 1986\] \[this title\] shall be applied and administered (subject to certain exceptions) as if such subtitle A (and the amendments made by such subtitle A) had not been enacted.
+1996—Pub. L. 104–191, title IV, §401(b), Aug. 21, 1996, 110 Stat. 2082, added subtitle K heading “Group health plan portability, access, and renewability requirements”.
+
+1982—Pub. L. 97–248, title III, §§307(b)(2), 308(a), Sept. 3, 1982, 96 Stat. 590, 591, provided that, applicable to payments of interest, dividends, and patronage dividends paid or credited after June 30, 1983, subtitle C heading is amended to read “Employment taxes andcollection of income tax at source”. Section 102(a), (b) of Pub. L. 98–67, title I, Aug. 5, 1983, 97 Stat. 369, repealed subtitle A (§§301–308) of title III of Pub. L. 97–248 as of the close of June 30, 1983, and provided that the Internal Revenue Code of 1954 \[now 1986\] \[this title\] shall be applied and administered (subject to certain exceptions) as if such subtitle A (and the amendments made by such subtitle A) had not been enacted.
 
 1981—Pub. L. 97–119, title I, §103(c)(2), Dec. 29, 1981, 95 Stat. 1638, added subtitle I heading “Trust Fund Code”.
 
-1976—Pub. L. 94–455, title XIX, §1907(b)(2), Oct. 4, 1976, 90 Stat. 1836, substituted in subtitle G heading “TheJoint Committee on Taxation” for “The Joint Committee on Internal Revenue Taxation”.
+1976—Pub. L. 94–455, title XIX, §1907(b)(2), Oct. 4, 1976, 90 Stat. 1836, substituted in subtitle G heading “The Joint Committee on Taxation” for “The Joint Committee on Internal Revenue Taxation”.
 
 1974—Pub. L. 93–443, title IV, §408(a), Oct. 15, 1974, 88 Stat. 1297, added subtitle H heading “Financing of Presidential election campaigns”.
 
 #### Title Referred to in Other Sections
 
-This title is referred to in title 2 sections 31a–2, 31a–3, 60c–1, 65c, 632, 651, 1610; title 5 section 8440; title 10 section 2401; title 11 sections 346, 745; title 12 section 3413; title 15 sections 78kkk, 631b; title 16 section 470b; title 18 section 4043; title 20 sections 1087–1, 1087–2, 1087ee, 1087ss, 1087vv, 1132d–1; title 22 sections 3307, 3968, 4071i, 4071j, 5401; title 25 sections 983f, 1716, 2719; title 29 sections 1002, 1061, 1083, 1301, 1453, 1706, 2231; title 30 section 1473; title 31 sections 1324, 3105, 3106, 3124, 3701, 3711, 3718, 3729, 3801; title 33 section 2717; title 36 sections 1514, 1614, 1714, 1814, 1914, 2014, 2114, 2214, 2314, 2414, 2514, 2614, 2714, 2814, 2915, 3014, 3114, 3614, 3714, 3815, 3914, 4015, 4814, 5014, 5114; title 40 section 270a; title 42 sections 401, 408, 416, 1395y, 1471, 4636, 5055, 8217, 10702; title 45 sections 231m, 1347; title 46 App. section 1177; title 49 section 326; title 50 section 2154.
+This title is referred to in title 2 sections 31a–2, 31a–3, 60c–1, 65c, 632, 651, 691e, 691f, 1610; title 5 sections 5514, 8440; title 10 section 2401; title 11 sections 346, 745; title 12 section 3413; title 15 sections 78c, 78kkk, 80a–3, 80b–3, 631b; title 16 sections 470b, 1855; title 18 section 4043; title 20 sections 1087–1, 1087–2, 1087ee, 1087ss, 1087vv, 1132d–1; title 22 sections 3307, 3968, 4071i, 4071j, 5401; title 25 sections 983f, 1716, 2719; title 29 sections 1002, 1061, 1083, 1301, 1453, 1706, 2231; title 30 section 1473; title 31 sections 1324, 3105, 3106, 3124, 3332, 3701, 3711, 3716, 3718, 3720B, 3729, 3801; title 33 section 2717; title 36 sections 1514, 1614, 1714, 1814, 1914, 2014, 2114, 2214, 2314, 2414, 2514, 2614, 2714, 2814, 2915, 3014, 3114, 3614, 3714, 3815, 3914, 4015, 4814, 5014, 5114, 5613; title 40 section 270a; title 42 sections 401, 408, 416, 1395y, 1471, 4636, 5055, 8217, 10702; title 45 sections 231m, 1347; title 46 App. section 1177; title 49 section 326; title 50 section 2154.
 
 #### Table of Contents
 
@@ -15161,6 +15765,14 @@ This title is referred to in title 2 sections 31a–2, 31a–3, 60c–1, 65c, 63
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+## Subtitle K—Group Health Plan Portability, Access, and Renewability Requirements
+
+|  |  |  |
+| :--- | :---: | ---: |
+| [<b>100.</b>](Chapter%20100%20-%20Group%20Health%20Plan%20Portability%2C%20Access%2C%20and%20Renewability%20Requirements/README.md) | <b>Group health plan portability, access, and renewability requirements</b> | <b>9801</b> |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 ## Subtitle A—Income Taxes
 
 | Chapter |  |
@@ -15182,7 +15794,7 @@ This title is referred to in title 2 sections 31a–2, 31a–3, 60c–1, 65c, 63
 
 #### Subtitle Referred to in Other Sections
 
-This subtitle is referred to in sections 810, 2056A, 2107, 3402, 3502, 3507, 3508, 4911, 4980, 4999, 5041, 5881, 6011, 6012, 6013, 6038A, 6075, 6111, 6164, 6201, 6211, 6212, 6213, 6214, 6229, 6231, 6315, 6401, 6404, 6420, 6421, 6427, 6501, 6601, 6621, 6682, 6694, 6695, 6696, 6702, 6871, 6901, 6905, 7001, 7463, 7701, 7851, 7852, 7872, 7873 of this title; title 22 sections 1627, 5510; title 25 sections 1729, 1754; title 31 section 3105; title 42 sections 411, 11371; title 45 section 231m; title 48 section 1421i; title 50 App. section 2017e.
+This subtitle is referred to in sections 810, 2056A, 2107, 3402, 3502, 3507, 3508, 4911, 4980, 4999, 5041, 5881, 6011, 6012, 6013, 6038A, 6075, 6111, 6164, 6201, 6211, 6212, 6213, 6214, 6229, 6231, 6315, 6401, 6404, 6420, 6421, 6427, 6501, 6601, 6621, 6672, 6682, 6694, 6695, 6696, 6702, 6871, 6901, 6905, 7001, 7463, 7701, 7851, 7852, 7872, 7873 of this title; title 22 sections 1627, 5510; title 25 sections 1729, 1754; title 31 section 3105; title 42 sections 411, 11371; title 45 section 231m; title 48 section 1421i; title 50 App. section 2017e.
 
 
 ---
@@ -15253,3 +15865,4 @@ This subtitle is referred to in sections 810, 2056A, 2107, 3402, 3502, 3507, 350
 - [Chapter 096 - Presidential Primary Matching Payment Account](Chapter%20096%20-%20Presidential%20Primary%20Matching%20Payment%20Account/README.md)
 - [Chapter 098 - Trust Fund Code](Chapter%20098%20-%20Trust%20Fund%20Code/README.md)
 - [Chapter 099 - Coal Industry Health Benefits](Chapter%20099%20-%20Coal%20Industry%20Health%20Benefits/README.md)
+- [Chapter 100 - Group Health Plan Portability, Access, and Renewability Requirements](Chapter%20100%20-%20Group%20Health%20Plan%20Portability%2C%20Access%2C%20and%20Renewability%20Requirements/README.md)

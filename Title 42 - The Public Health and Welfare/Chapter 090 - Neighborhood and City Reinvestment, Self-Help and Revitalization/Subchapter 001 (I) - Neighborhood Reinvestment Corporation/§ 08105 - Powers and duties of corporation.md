@@ -2,7 +2,7 @@
 
 #### (a) Continuance of work of Urban Reinvestment Task Force regarding neighborhood housing services programs and preservation projects
 
-(1) The corporation shall continue the work of the Urban Reinvestment Task Force in establishing neighborhood housing services programs in neighborhoods throughout the United States, monitoring their progress, and providing them with grants and technical assistance. For the purpose of this paragraph, a neighborhood housing services program may involve a partnership of neighborhood residents and representatives of local governmental and financial institutions, organized as a State-chartered non-profit corporation, working to bring about reinvestment in one or more neighborhoods through a program of systematic housing inspections, increased public investment, increased private lending, increased resident investment, and a revolving loan fund to make loans available at flexible rates and terms to homeowners not meeting private lending criteria.
+(1) The corporation shall continue the work of the Urban Reinvestment Task Force in establishing neighborhood housing services programs in neighborhoods throughout the United States,monitoring their progress, and providing them with grants and technical assistance. For the purpose of this paragraph, a neighborhood housing services program may involve a partnership of neighborhood residents and representatives of local governmental and financial institutions, organized as a State-chartered non-profit corporation, working to bring about reinvestment in one or more neighborhoods through a program of systematic housing inspections, increased public investment, increased private lending, increased resident investment, and a revolving loan fund to make loans available at flexible rates and terms to homeowners not meeting private lending criteria.
 
 (2) The corporation shall continue the work of the Urban Reinvestment Task Force in identifying, monitoring, evaluating, and providing grants and technical assistance to selected neighborhood preservation projects which show promise as mechanisms for reversing neighborhood decline and improving the quality of neighborhood life.
 
@@ -44,7 +44,7 @@ To carry out the foregoing purposes and engage in the foregoing activities, the 
 
 &emsp;(B) local governmental bodies.
 
-(3) The Secretary of Housing and Urban Development, the Federal Home Loan Bank Board and the Federal home loan banks, the Board of Governors of the Federal Reserve System and the Federal Reserve banks, the Federal Deposit Insurance Corporation, and the Comptroller ofthe Currency, the National Credit Union Administration or any other department, agency, or other instrumentality of the Federal Government are authorized to provide funds, services and facilities, with or without reimbursement, necessary to achieve the objectives and to carry out the purposes of this subchapter.
+(3) The Secretary of Housing and Urban Development, the Federal Home Loan Bank Board and the Federal home loan banks, the Board of Governors of the Federal Reserve System and the Federal Reserve banks, the Federal Deposit Insurance Corporation, and the Comptroller of the Currency, the National Credit Union Administration or any other department, agency, or other instrumentality of the Federal Government are authorized to provide funds, services and facilities, with or without reimbursement, necessary to achieve the objectives and to carry out the purposes of this subchapter.
 
 #### (d) Non-profit nature of corporation
 

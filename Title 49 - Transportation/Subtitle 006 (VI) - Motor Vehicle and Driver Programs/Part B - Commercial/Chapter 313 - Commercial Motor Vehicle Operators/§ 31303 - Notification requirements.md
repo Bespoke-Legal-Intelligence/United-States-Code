@@ -18,7 +18,9 @@ Previous Employment.—(1) Subject to paragraph (2) of this subsection, an indiv
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

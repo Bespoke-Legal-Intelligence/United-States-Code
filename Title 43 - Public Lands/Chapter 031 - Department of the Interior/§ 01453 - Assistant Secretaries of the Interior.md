@@ -24,7 +24,7 @@ An Administrative Assistant Secretary of the Interior, to be appointed, with the
 
 #### Additional Assistant Secretary
 
-An additional Assistant Secretary of the Interior, to be appointed by the President, by and with the advice and consent of the Senate, to perform such duties as the Secretary of the Interior shall prescribe, and to receive compensation at the rate prescribed by law for Assistant Secretaries of executive departments, was provided for by Reorg. Plan No. 3 of 1950, §3, eff. May24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in note under section 1451 of this title.
+An additional Assistant Secretary of the Interior, to be appointed by the President, by and with the advice and consent of the Senate, to perform such duties as the Secretary of the Interior shall prescribe, and to receive compensation at the rate prescribed by law for Assistant Secretaries of executive departments, was provided for by Reorg. Plan No. 3 of 1950, §3, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in note under section 1451 of this title.
 
 #### Temporary Additional Assistant Secretary
 

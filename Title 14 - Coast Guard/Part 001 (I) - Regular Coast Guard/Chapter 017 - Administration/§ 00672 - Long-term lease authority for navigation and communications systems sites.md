@@ -10,5 +10,9 @@
 
 &emsp;(3) the estimates of both the cost of the lease and the anticipated cost avoidance through the use of a multiyear lease are realistic.
 
-(Added Pub. L. 103–206, title III, §304(a), Dec. 20, 1993, 107 Stat. 2424.)
+(Added Pub. L. 103–206, title III, §304(a), Dec. 20, 1993, 107 Stat. 2424; amended Pub. L. 104–324, title VII, §746(d), Oct. 19, 1996, 110 Stat. 3943.)
+
+#### Amendments
+
+1996—Pub. L. 104–324 added section catchline and struck out former section catchline.
 

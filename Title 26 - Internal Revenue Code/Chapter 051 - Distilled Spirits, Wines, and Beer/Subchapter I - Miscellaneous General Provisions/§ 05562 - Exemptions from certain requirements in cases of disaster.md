@@ -1,6 +1,6 @@
 ### §5562. Exemptions from certain requirements in cases of disaster
 
-Whenever the Secretary finds that it is necessary or desirable, by reason of disaster, to waive provisions of internal revenue law with regard to distilled spirits, he may temporarily exempt proprietors of distilled spirits plants from any provision of the internal revenue laws relating to distilled spirits, except those requiring payment of the tax thereon, to the extent he may deem necessary or desirable.
+Whenever the Secretary finds that it is necessary or desirable, by reason of disaster, to waive provisions of internal revenue law with regard to distilled spirits, he may temporarily exempt proprietors of distilled spirits plants from any provision of the internal revenue lawsrelating to distilled spirits, except those requiring payment of the tax thereon, to the extent he may deem necessary or desirable.
 
 (Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1397; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
 

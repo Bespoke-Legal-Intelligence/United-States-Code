@@ -46,7 +46,7 @@
 
 &emsp;(10) organize and direct studies ordered by the Assembly or the Council, to contract for the performance of such studies with any public or private persons, firm, association, corporation, or institution under title III of the Federal Property and Administrative Services Act of 1949, as amended (41 U.S.C. 251–260), and to use from time to time, as appropriate, experts and consultants who may be employed in accordance with section 3109 of this title at rates not in excess of the maximum rate of pay for grade GS–15 as provided in section 5332 of this title;
 
-&emsp;(11) utilize, with their consent, the services and facilities of Federal agencies and of Stateand private agencies and instrumentalities with or without reimbursement;
+&emsp;(11) utilize, with their consent, the services and facilities of Federal agencies and of State and private agencies and instrumentalities with or without reimbursement;
 
 &emsp;(12) accept, hold, administer, and utilize gifts, devises, and bequests of property, both real and personal, for the purpose of aiding and facilitating the work of the Conference. Gifts and bequests of money and proceeds from sales of other property received as gifts, devises, or bequests shall be deposited in the Treasury and shall be disbursed upon the order of the Chairman. Property accepted pursuant to this section, and the proceeds thereof, shall be used as nearly as possible in accordance with the terms of the gifts, devises, or bequests. For purposes of Federal income, estate, or gift taxes, property accepted under this section shall be considered as a gift, devise, or bequest to the United States;
 
@@ -68,7 +68,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 5 U.S.C. 1045d.
 
@@ -84,21 +86,21 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### References in Text
 
-The Federal Property and Administrative Services Act of 1949, referred to in subsec. (c)(10), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Title III of that Act is classified generally to subchapter IV (§251 et seq.) of chapter 4 of Title 41, Public Contracts. For complete classification of this Act to the Code, see Short Title note set out under section 471 of Title 40, Public Buildings, Property, and Works, and Tables.
+The Federal Property and Administrative Services Act of 1949, referred to in subsec. (c)(10), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Title III of that Act is classified generally to subchapter IV (§251 etseq.) of chapter 4 of Title 41, Public Contracts. For complete classification of this Act to the Code, see Short Title note set out under section 471 of Title 40, Public Buildings, Property, and Works, and Tables.
 
 #### Amendments
 
-<b>1992</b>—Pub. L. 102–354 renumbered section 575 of this title as this section.
+1992—Pub. L. 102–354 renumbered section 575 of this title as this section.
 
-<b>1990</b>—Subsec. (c)(16). Pub. L. 101–422 added par. (16).
+1990—Subsec. (c)(16). Pub. L. 101–422 added par. (16).
 
-<b>1982</b>—Subsec. (c)(13). Pub. L. 97–258 substituted “section 1342 of title 31” for “section 3679(b) of the Revised Statutes (31 U.S.C. 665(b))”.
+1982—Subsec. (c)(13). Pub. L. 97–258 substituted “section 1342 of title 31” for “section 3679(b) of the Revised Statutes (31 U.S.C. 665(b))”.
 
-<b>1972</b>—Subsec. (c)(10). Pub. L. 92–526, §1(a), inserted provisions authorizing contracts for the performance of such studies with any public or private persons, etc., under title III of the Federal Property and Administrative Services Act of 1949, as amended, and substituted provisions authorizing the payment of experts and consultants in accordance with rates not in excess of the maximum rate of pay for grade GS–15 as provided in section 5332 of this title, for provisions authorizing the payment of such individuals at rates not in excess of $100 a day.
+1972—Subsec. (c)(10). Pub. L. 92–526, §1(a), inserted provisions authorizing contracts for the performance of such studies with any public or private persons, etc., under title III of the Federal Property and Administrative Services Act of 1949, as amended, and substituted provisions authorizing the payment of experts and consultants in accordance with rates not in excess of the maximum rate of pay for grade GS–15 as provided in section 5332 of this title, for provisions authorizing the payment of such individuals at rates not in excess of $100 a day.
 
 Subsec. (c)(11) to (15). Pub. L. 92–526, §1(b), added pars. (11) to (13) and redesignated former pars. (11) and (12) as (14) and (15), respectively.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 569, 593 of this title.
+This section is referred to in section 593 of this title.
 

@@ -12,7 +12,7 @@ No registered closed-end company shall sell any common stock of which it is the 
 
 No registered closed-end company shall purchase any securities of any class of which it is the issuer except—
 
-&emsp;(1) on a securities exchange or such other open market as the Commission may designate by rules and regulations or orders: <i>Provided</i>, That if such securities are stock, such registered company shall, within the preceding six months, have informed stockholders of its intention to purchase stock of such class by letter or report addressed to stockholders of such class; or
+&emsp;(1) on a securities exchange or such other open market as the Commission may designate by rules and regulations or orders: <i>Provided</i>, That if such securities are stock, suchregistered company shall, within the preceding six months, have informed stockholders of its intention to purchase stock of such class by letter or report addressed to stockholders of such class; or
 
 &emsp;(2) pursuant to tenders, after reasonable opportunity to submit tenders given to all holders of securities of the class to be purchased; or
 

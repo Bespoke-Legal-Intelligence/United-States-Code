@@ -30,7 +30,7 @@ Introduction Into Hawaii.—The Secretary shall initiate a program to prevent, t
 
 Authority.—The Secretary shall use the authority provided under the Federal Plant Pest Act (7 U.S.C. 150aa et seq.) to carry out subsections (a) and (b).”
 
-Pub. L. 102–190, div. A, title III, §348, Dec. 5, 1991, 105 Stat. 1348, provided that: “The Secretary of Defense shall take such action as may be necessary to prevent the inadvertent introduction of brown tree snakes from Guam to Hawaii in aircraft and vessels transporting personnel or cargo for the Department of Defense. In carrying out this section, the Secretary shall consider the use of sniffer or tracking dogs, snake traps, and other preventive processes or devices at aircraft andvessel loading facilities in Guam or Hawaii or at intermediate transit points for personnel or cargo transported between Guam and Hawaii.”
+Pub. L. 102–190, div. A, title III, §348, Dec. 5, 1991, 105 Stat. 1348, provided that: “The Secretary of Defense shall take such action as may be necessary to prevent the inadvertent introduction of brown tree snakes from Guam to Hawaii in aircraft and vessels transporting personnel or cargo for the Department of Defense. In carrying out this section, the Secretary shall consider the use of sniffer or tracking dogs, snake traps, and other preventive processes or devices at aircraft and vessel loading facilities in Guam or Hawaii or at intermediate transit points for personnel or cargo transported between Guam and Hawaii.”
 
 #### Section Referred to in Other Sections
 

@@ -4,9 +4,9 @@ Whoever, with intent that any person shall perform service or labor of any kind 
 
 Whoever knowingly detains on board of any such vessel any person so procured or induced to go on board, or to enter into any agreement to go on board, by any means herein defined—
 
-Shall be fined not more than $1,000 or imprisoned not more than one year, or both.
+Shall be fined under this title or imprisoned not more than one year, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 800.)
+(June 25, 1948, ch. 645, 62 Stat. 800; Oct. 11, 1996, Pub. L. 104–294, title VI, §601(a)(8), 110 Stat. 3498.)
 
 #### Historical and Revision Notes
 
@@ -15,4 +15,8 @@ Based on title 18, U.S.C., 1940 ed., §144 (Mar. 4, 1909, ch. 321, §82, 35 Stat
 Reference to persons aiding or abetting was omitted as unnecessary as such persons are made principals by section 2 of this title.
 
 Minor changes were made in phraseology and arrangement.
+
+#### Amendments
+
+1996—Pub. L. 104–294 substituted “fined under this title” for “fined not more than $1,000” in last par.
 

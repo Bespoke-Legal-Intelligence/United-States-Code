@@ -2,7 +2,7 @@
 
 (a)
 
-Penalty.—(1) Subject to section 21304 of this title, a person violating a regulation prescribed or order issued by the Secretary of Transportation under chapter 201 of this title is liable to the United States Government for a civil penalty. The Secretary shall impose the penalty applicable under paragraph (2) of this subsection. A separate violation occurs for each day the violation continues.
+Penalty.—(1) A person may not fail to comply with a regulation prescribed or order issued by the Secretary of Transportation under chapter 201 of this title. Subject to section 21304 of this title, a person violating a regulation prescribed or order issued by the Secretary under chapter 201 is liable to the United States Government for a civil penalty. The Secretary shall impose the penalty applicable under paragraph (2) of this subsection. A separate violation occurs for each day the violation continues.
 
 (2) The Secretary shall include in, or make applicable to, each regulation prescribed and order issued under chapter 201 of this title a civil penalty for a violation. The amount of the penalty shall be at least $500 but not more than $10,000. However, when a grossly negligent violation or a pattern of repeated violations has caused an imminent hazard of death or injury to individuals, or has caused death or injury, the amount may be not more than $20,000.
 
@@ -22,11 +22,15 @@ Setoff.—The Government may deduct the amount of a civil penalty imposed or com
 
 Deposit in Treasury.—A civil penalty collected under this section or section 20113(b) of this title shall be deposited in the Treasury as miscellaneous receipts.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 891.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 891; Pub. L. 104–287, §5(53), Oct. 11, 1996, 110 Stat. 3393.)
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+Pub. L. 103–272
+
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -69,6 +73,20 @@ In subsection (a)(1), the first 2 sentences are substituted for 45:438(a) and (c
 In subsection (a)(3), the words “may compromise the amount . . . to not less than $500” are substituted for “may, however, be compromised . . . for any amount, but in no event for an amount less than the minimum provided in subsection (b) of this section” for clarity and to eliminate unnecessary words. In clause (B), the words “prior or subsequent” are omitted as unnecessary.
 
 In subsection (c), the words “deposited in” are substituted for “covered into” for consistency in the revised title and with other titles of the United States Code.
+
+#### Pub. L. 104–287
+
+This amends 49:21301(a)(1) to clarify the restatement of 45:438(a) by section 1 of the Act of July 5, 1994 (Public Law 103–272, 108 Stat. 891).
+
+#### Amendments
+
+1996—Subsec. (a)(1). Pub. L. 104–287, §5(53)(B), substituted “Secretary under chapter 201 is liable” for “Secretary of Transportation under chapter 201 of this title is liable”.
+
+Pub. L. 104–287, §5(53)(A), inserted “A person may not fail to comply with a regulation prescribed or order issued by the Secretary of Transportation under chapter 201 of this title.” before “Subject to”.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–287 effective July 5, 1994, see section 8(1) of Pub. L. 104–287, set out as a note under section 5303 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -56,7 +56,7 @@ The Secretary shall, by regulation, prescribe the terms and conditions under whi
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall set aside and reserve for assistance in targeted underserved areas an amount equal to 5.0 percent in fiscal years 1993 and 1994 of the aggregate amount of lending authority under sections 1472, 1474, 1484, 1485, and 1490d of this title. During each such fiscal year, the Secretary shall set aside an amount of section 521 \[42 U.S.C. 1490a\] rental assistance that is appropriate to provide assistance with respect to the lending authority under sections 1484 and 1485 of this title that is set aside for such fiscal year. The Secretary shall establish a procedure to reallocate any assistance set aside in any fiscal year for targeted underserved areas that has not been expended during a reasonable period in such year for use in (i) colonias that have applied for and are eligible for assistance under subparagraph (B) or paragraph (7) and did not receive assistance, and (ii) counties and communities eligible for designation as targeted underserved areas but which were not so designated. The procedure shall also provide that any assistance reallocated under the preceding sentence that has not been expended by a reasonable date established by the Secretary (which shall be after the expiration of the period referred to in the preceding sentence) shall be made available and allocated under the laws and regulations relating to such assistance, notwithstanding this subsection.
+&emsp;&emsp;The Secretary shall set aside and reserve for assistance in targeted underserved areas an amount equal to 5.0 percent in fiscal year 1997 of the aggregate amount of lending authority under sections 1472, 1474, 1484, 1485, and 1490d of this title. During such fiscal year, the Secretary shall set aside an amount of section 521 \[42 U.S.C. 1490a\] rental assistance that is appropriate to provide assistance with respect to the lending authority under sections 1484 and 1485 of this title that is set aside for such fiscal year. The Secretary shall establish a procedure to reallocate any assistance set aside in any fiscal year for targeted underserved areas that has not been expended during a reasonable period in such year for use in (i) colonias that have applied for and are eligible for assistance under subparagraph (B) or paragraph (7) and did not receive assistance, and (ii) counties and communities eligible for designation as targeted underserved areas but which were not so designated. The procedure shall also provide that any assistance reallocated under the preceding sentence that has not been expended by a reasonable date established by the Secretary (which shall be after the expiration of the period referred to in the preceding sentence) shall be made available and allocated under the laws and regulations relating to such assistance, notwithstanding this subsection.
 
 #### (B) Priority for colonias
 
@@ -64,7 +64,7 @@ The Secretary shall, by regulation, prescribe the terms and conditions under whi
 
 &emsp;&emsp;(ii) In providing assistance from amounts reserved under this paragraph in each fiscal year, the Secretary shall give priority to any application for assistance to be used in, or in close proximity to, and serving the residents of, a colonia located in a State described under clause (iii). After the Secretary has provided assistance under the priority for colonias located in a State in an amount equal to 5 percent of the total amount of assistance allocated under this subchapter to such State in the fiscal year, the priority shall not apply to any applications for colonias in such State.
 
-&emsp;&emsp;(iii) This paragraph shall apply to any State for any fiscal year following 2 fiscal years in which the State obligated the total amount of assistance allocated to it under this subchapter during each of such 2 fiscal years.
+&emsp;&emsp;(iii) This paragraph shall apply to any State for any fiscal year following 2 fiscalyears in which the State obligated the total amount of assistance allocated to it under this subchapter during each of such 2 fiscal years.
 
 #### (5) List of underserved areas
 
@@ -114,13 +114,17 @@ The Secretary shall, by regulation, prescribe the terms and conditions under whi
 
 &emsp;&emsp;(D) was in existence as a colonia before November 28, 1990.
 
-(July 15, 1949, ch. 338, title V, §509, 63 Stat. 436; Oct. 12, 1977, Pub. L. 95–128, title V, §504, 91 Stat. 1139; Dec. 21, 1979, Pub. L. 96–153, title V, §508, 93 Stat. 1136; Nov. 30, 1983, Pub. L. 98–181, title V, §506(a), 97 Stat. 1242; Nov. 28, 1990, Pub. L. 101–625, title VII, §§708, 709(b), 104 Stat. 4287, 4288; Oct. 28, 1992, Pub. L. 102–550, title VII, §705, 106 Stat. 3835.)
+(July 15, 1949, ch. 338, title V, §509, 63 Stat. 436; Oct. 12, 1977, Pub. L. 95–128, title V, §504, 91 Stat. 1139; Dec. 21, 1979, Pub. L. 96–153, title V, §508, 93 Stat. 1136; Nov. 30, 1983, Pub. L. 98–181, title V, §506(a), 97 Stat. 1242; Nov. 28, 1990, Pub. L. 101–625, title VII, §§708, 709(b), 104 Stat. 4287, 4288; Oct. 28, 1992, Pub. L. 102–550, title VII, §705, 106 Stat. 3835; Mar. 28, 1996, Pub. L. 104–120, §4(a), 110 Stat. 835; Aug. 6, 1996, Pub. L. 104–180, title VII, §734(b), 110 Stat. 1602.)
 
 #### References in Text
 
 The National Housing Act, referred to in subsec. (a), is act June 27, 1934, ch. 847, 48 Stat. 1246, as amended. Title II of the National Housing Act is classified principally to subchapter II (§1707 et seq.) of chapter 13 of Title 12, Banks and Banking. For complete classification of this Act to the Code, see section 1701 of Title 12 and Tables.
 
 #### Amendments
+
+1996—Subsec. (f)(4)(A). Pub. L. 104–180 substituted “fiscal year 1997” for “fiscal year 1996”.
+
+Pub. L. 104–120 substituted “fiscal year 1996” for “fiscal years 1993 and 1994” and “During such fiscal year” for “During each such fiscal year”.
 
 1992—Subsec. (f)(1). Pub. L. 102–550, §705(a)(1), substituted “in each fiscal year” for “in each of fiscal years 1991 and 1992” in introductory provisions.
 
@@ -141,6 +145,10 @@ Subsec. (f). Pub. L. 101–625, §709(b), added subsec. (f).
 1979—Subsec. (c). Pub. L. 96–153 substituted “within thirty-six months after October 12, 1977” for “within eighteen months after October 12, 1977”.
 
 1977—Subsecs. (c), (d). Pub. L. 95–128 added subsecs. (c) and (d).
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–120 to be construed to have become effective Oct. 1, 1995, see section 13(a) of Pub. L. 104–120, set out as an Effective and Termination Dates of 1996 Amendments note under section 1437d of this title.
 
 #### Regulations
 

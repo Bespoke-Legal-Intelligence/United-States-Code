@@ -12,7 +12,7 @@ The amount deductible under subsection (a) for any taxable year shall not exceed
 
 For purposes of subsection (a)—
 
-&emsp;(1) The term “expenditures which are paid or incurred by him during the taxable year for the purpose of soil or water conservation in respect of land used in farming, or for the prevention of erosion of land used in farming” means expenditures paid or incurred for the treatment or moving of earth, including (but not limited to) leveling, grading and terracing, contour furrowing, the construction, control, and protection of diversion channels, drainage ditches, earthen dams, watercourses, outlets,and ponds, the eradication of brush, and the planting of windbreaks. Such term does not include—
+&emsp;(1) The term “expenditures which are paid or incurred by him during the taxable year forthe purpose of soil or water conservation in respect of land used in farming, or for the prevention of erosion of land used in farming” means expenditures paid or incurred for the treatment or moving of earth, including (but not limited to) leveling, grading and terracing, contour furrowing, the construction, control, and protection of diversion channels, drainage ditches, earthen dams, watercourses, outlets, and ponds, the eradication of brush, and the planting of windbreaks. Such term does not include—
 
 &emsp;&emsp;(A) the purchase, construction, installation, or improvement of structures, appliances, or facilities which are of a character which is subject to the allowance for depreciation provided in section 167, or
 

@@ -59,7 +59,7 @@
 - [&sect; 03513 - Expiration of statutory authorities](%C2%A7%2003513%20-%20Expiration%20of%20statutory%20authorities.md)
 - [10](10.md)
 - [&sect; 03601 - Congressional statement of purpose](%C2%A7%2003601%20-%20Congressional%20statement%20of%20purpose.md)
-- [&sect; 03602 - Definitions and recommendation for legislation](%C2%A7%2003602%20-%20Definitions%20and%20recommendation%20for%20legislation.md)
+- [&sect; 03602 - Definitions](%C2%A7%2003602%20-%20Definitions.md)
 - [Subchapter 001 (I) - Administration and Regulations](Subchapter%20001%20%28I%29%20-%20Administration%20and%20Regulations/README.md)
 - [Subchapter 002 (II) - Treaty Transition Period](Subchapter%20002%20%28II%29%20-%20Treaty%20Transition%20Period/README.md)
 - [Subchapter 003 (III) - General Provisions](Subchapter%20003%20%28III%29%20-%20General%20Provisions/README.md)

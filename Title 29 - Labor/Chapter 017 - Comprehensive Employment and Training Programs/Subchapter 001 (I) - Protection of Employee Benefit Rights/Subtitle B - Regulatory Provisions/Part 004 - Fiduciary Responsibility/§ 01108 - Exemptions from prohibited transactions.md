@@ -16,7 +16,7 @@ The Secretary shall establish an exemption procedure for purposes of this subsec
 
 The prohibitions provided in section 1106 of this title shall not apply to any of the following transactions:
 
-&emsp;(1) Any loans made by the plan to parties in interest who are participants or beneficiaries of the plan if such loans (A) are available to all such participants and beneficiaries on a reasonably equivalent basis, (B) are not made available to highly compensated employees (within the meaning of section 414(q) of title 26) in an amount greater than the amount made available to other employees, (C) are made in accordance with specific provisions regarding such loans set forth in the plan, (D) bear a reasonable rate of interest, and (E) are adequately secured.
+&emsp;(1) Any loans made by the plan to parties in interest who are participants or beneficiaries of the plan if such loans (A) are available to all such participants and beneficiaries on a reasonably equivalent basis, (B) are not made available to highly compensated employees (within the meaning of section 414(q) of title 26) in an amount greater than the amount made available to other employees, (C) are made in accordance with specific provisions regarding such loans set forth in the plan, (D) bear a reasonable rate of interest, and (E) are adequately secured. A loan made by a plan shall not fail to meet the requirements of the preceding sentence by reason of a loan repayment suspension described under section 414(u)(4) of title 26.
 
 &emsp;(2) Contracting or making reasonable arrangements with a party in interest for office space, or legal, accounting, or other services necessary for the establishment or operation of the plan, if no more than reasonable compensation is paid therefor.
 
@@ -94,7 +94,7 @@ Section 1107(b) of this title and subsections (b), (c), and (e) of this section 
 
 &emsp;(3) acquires for the plan any property from or sells any property to;
 
-> any person who is with respect to the plan an owner-employee (as defined in section 401(c)(3) of title 26), a member of the family (as defined in section 267(c)(4) of title 26) of any such owner-employee, or a corporation controlled by any such owner-employee through the ownership, directly or indirectly, of 50 percent or more of the total combined voting power of all classes of stock entitled to vote or 50 percent or more of the total value of shares of all classes of stock of the corporation. For purposes of this subsection a shareholder employee (as defined in section 1379 of title 26 as in effect on the day before the date of the enactment of the Subchapter S Revision Act of 1982) and a participant or beneficiary of an individual retirement account or individual retirement annuity described in section 408 of title 26 or a retirementbond described in section 409 of title 26 (as effective for obligations issued before January 1, 1984) and an employer or association of employers which establishes such an account or annuity under section 408(c) of title 26 shall be deemed to be an owner-employee.
+> any person who is with respect to the plan an owner-employee (as defined in section 401(c)(3) of title 26), a member of the family (as defined in section 267(c)(4) of title 26) of any such owner-employee, or a corporation controlled by any such owner-employee through the ownership, directly or indirectly, of 50 percent or more of the total combined voting power of all classes of stock entitled to vote or 50 percent or more of the total value of shares of all classes of stock of the corporation. For purposes of this subsection a shareholder employee (as defined in section 1379 of title 26 as in effect on the day before the date of the enactment of the Subchapter S Revision Act of 1982) and a participant or beneficiary of an individual retirement account or individual retirement annuity described in section 408 of title 26 or a retirement bond described in section 409 of title 26 (as effective for obligations issued before January 1, 1984) and an employer or association of employers which establishes such an account or annuity under section 408(c) of title 26 shall be deemed to be an owner-employee.
 
 #### (e) Acquisition or sale by plan of qualifying employer securities; acquisition, sale, or lease by plan of qualifying employer real property
 
@@ -114,7 +114,7 @@ Sections 1106 and 1107 of this title shall not apply to the acquisition or sale 
 
 Section 1106(b)(2) of this title shall not apply to any merger or transfer described in subsection (b)(11) of this section.
 
-(Pub. L. 93–406, title I, §408, Sept. 2, 1974, 88 Stat. 883; Pub. L. 96–364, title III, §308, Sept. 26, 1980, 94 Stat. 1295; Pub. L. 97–354, §5(a)(43), Oct. 19, 1982, 96 Stat. 1697; Pub. L. 99–514, title XI, §1114(b)(15)(B), title XVIII, §1898(i)(1), Oct. 22, 1986, 100 Stat. 2452, 2957; Pub. L. 101–239, title VII, §§7881(<i>l</i>)(5), 7891, 7894(e)(4)(A), Dec. 19, 1989, 103 Stat. 2443, 2445, 2450; Pub. L. 101–508, title XII, §12012(b), Nov. 5, 1990, 104 Stat. 1388–571; Pub. L. 103–465, title VII, §731(c)(4)(C), Dec. 8, 1994, 108 Stat. 5004.)
+(Pub. L. 93–406, title I, §408, Sept. 2, 1974, 88 Stat. 883; Pub. L. 96–364, title III, §308, Sept. 26, 1980, 94 Stat. 1295; Pub. L. 97–354, §5(a)(43), Oct. 19, 1982, 96 Stat. 1697; Pub. L. 99–514, title XI, §1114(b)(15)(B), title XVIII, §1898(i)(1), Oct. 22, 1986, 100 Stat. 2452, 2957; Pub. L. 101–239, title VII, §§7881(<i>l</i>)(5), 7891, 7894(e)(4)(A), Dec. 19, 1989, 103 Stat. 2443, 2445, 2450; Pub. L. 101–508, title XII, §12012(b), Nov. 5, 1990, 104 Stat. 1388–571; Pub. L. 103–465, title VII, §731(c)(4)(C), Dec. 8,1994, 108 Stat. 5004; Pub. L. 104–188, title I, §1704(n)(2), Aug. 20, 1996, 110 Stat. 1886.)
 
 #### References in Text
 
@@ -125,6 +125,8 @@ This chapter, referred to in subsec. (a), was in the original “this Act”, me
 The date of the enactment of the Subchapter S Revision Act of 1982, referred to subsec. (d), is the date of enactment of Pub. L. 97–354, which was approved Oct. 19, 1982.
 
 #### Amendments
+
+1996—Subsec. (b)(1). Pub. L. 104–188 inserted at end “A loan made by a plan shall not fail to meet the requirements of the preceding sentence by reason of a loan repayment suspension described under section 414(u)(4) of title 26.”
 
 1994—Subsec. (b)(13). Pub. L. 103–465 substituted “2001” for “1996” and “1995” for “1991”.
 
@@ -148,6 +150,10 @@ Subsec. (d). Pub. L. 99–514, §1898(i)(1), struck out “(a),” before “(b)
 
 Subsec. (f). Pub. L. 96–364, §308(b), added subsec. (f).
 
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–188 effective as of Dec. 12, 1994, see section 1704(n)(3) of Pub. L. 104–188, set out as a note under section 414 of Title 26, Internal Revenue Code.
+
 #### Effective Date of 1990 Amendment
 
 Amendment by Pub. L. 101–508 applicable to qualified transfers under section 420 of title 26 made after Nov. 5, 1990, see section 12012(e) of Pub. L. 101–508, set out as a note under section 1021 of this title.
@@ -168,7 +174,7 @@ Section 1898(i)(2) of Pub. L. 99–514 provided that: “The amendment made by p
 
 #### Effective Date of 1982 Amendment
 
-Amendment by Pub. L. 97–354 applicable to taxable years beginning after Dec. 31, 1982, see section 6(a) ofPub. L. 97–354, set out as a note under section 1361 of Title 26, Internal Revenue Code.
+Amendment by Pub. L. 97–354 applicable to taxable years beginning after Dec. 31, 1982, see section 6(a) of Pub. L. 97–354, set out as a note under section 1361 of Title 26, Internal Revenue Code.
 
 #### Effective Date of 1980 Amendment
 
@@ -186,5 +192,5 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1106, 1107, 1403 of this title; title 5 section 8477; title 26 section 4975.
+This section is referred to in sections 1101, 1106, 1107, 1403 of this title; title 5 section 8477; title 26 section 4975.
 

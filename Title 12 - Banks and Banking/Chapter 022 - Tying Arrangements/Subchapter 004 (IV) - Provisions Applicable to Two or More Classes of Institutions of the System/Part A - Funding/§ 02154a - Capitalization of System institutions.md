@@ -68,7 +68,7 @@ Subject to approval by shareholders under subsection (c)(2) of this section, eac
 
 #### (2) Effective date
 
-&emsp;The bylaws adopted by the board of directors of a System institution under subsection (b) of this section shall take effect only on approval of a majority of the stockholders of such institution present and voting, or voting by written proxy, at a duly authorized stockholders’ meeting.
+&emsp;The bylaws adopted by the board of directors of a System institution under subsection (b) ofthis section shall take effect only on approval of a majority of the stockholders of such institution present and voting, or voting by written proxy, at a duly authorized stockholders’ meeting.
 
 #### (d) Reduction of capital
 
@@ -84,17 +84,43 @@ Subject to approval by shareholders under subsection (c)(2) of this section, eac
 
 The Farm Credit Administration may issue a directive that requires compliance with subsection (d) of this section, to the board of directors of any System institution that fails to comply therewith.
 
-#### (f) Construction
+#### (f) Loans designated for sale or sold into secondary market
+
+#### (1) In general
+
+&emsp;Subject to paragraph (2) and notwithstanding any other provision of this section, the bylaws adopted by a bank or association under subsection (b) of this section may provide—
+
+&emsp;&emsp;(A) in the case of a loan made on or after February 10, 1996, that is designated, at the time the loan is made, for sale into a secondary market, that no voting stock or participation certificate purchase requirement shall apply to the borrower for the loan; and
+
+&emsp;&emsp;(B) in the case of a loan made before February 10, 1996, that is sold into a secondary market, that all outstanding voting stock or participation certificates held by the borrower with respect to the loan shall, subject to subsection (d)(1) of this section, be retired.
+
+#### (2) Applicability
+
+&emsp;Notwithstanding any other provision of this section, in the case of a loan sold to a secondary market under subchapter VIII of this chapter, paragraph (1) shall apply regardless of whether the bank or association retains a subordinated participation interest in a loan or pool of loans or contributes to a cash reserve.
+
+#### (3) Exception
+
+#### (A) In general
+
+&emsp;&emsp;Subject to subparagraph (B) and notwithstanding any other provision of this section, if a loan designated for sale under paragraph (1)(A) is not sold into a secondary market during the 180-day period that begins on the date of the designation, the voting stock or participation certificate purchase requirement that would otherwise apply to the loan in the absence of a bylaw provision described in paragraph (1)(A) shall be effective.
+
+#### (B) Retirement
+
+&emsp;&emsp;The bylaws adopted by a bank or association under subsection (b) of this section may provide that if a loan described in subparagraph (A) is sold into a secondary market after the end of the 180-day period described in the subparagraph, all outstanding voting stock or participation certificates held by the borrower with respect to the loan shall, subject to subsection (d)(1) of this section, be retired.
+
+#### (g) Construction
 
 This section shall not be construed to affect the provisions of this chapter that confer on System institutions a lien on borrower stock or other equities and the privilege to retire or cancel such stock or other equities for application against the indebtedness on a defaulted or restructured loan.
 
-#### (g) Controlling authority
+#### (h) Controlling authority
 
 To the extent that any provision of this section is inconsistent with any other provision of this chapter (other than section 2162 of this title), the provision of this section shall control.
 
-(Pub. L. 92–181, title IV, §4.3A, as added Pub. L. 100–233, title III, §301(b), Jan. 6, 1988, 101 Stat. 1608; amended Pub. L. 100–399, title III, §301(b)–(f), Aug. 17, 1988, 102 Stat. 994; Pub. L. 102–552, title I, §101, Oct. 28, 1992, 106 Stat. 4103.)
+(Pub. L. 92–181, title IV, §4.3A, as added Pub. L. 100–233, title III, §301(b), Jan. 6, 1988, 101 Stat. 1608; amended Pub. L. 100–399, title III, §301(b)–(f), Aug. 17, 1988, 102 Stat. 994; Pub. L. 102–552, title I, §101, Oct. 28, 1992, 106 Stat. 4103; Pub. L. 104–105, title II, §206, Feb. 10, 1996, 110 Stat. 173.)
 
 #### Amendments
+
+1996—Subsecs. (f) to (h). Pub. L. 104–105 added subsec. (f) and redesignated former subsecs. (f) and (g) as (g) and (h), respectively.
 
 1992—Subsec. (a)(1). Pub. L. 102–552 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The term ‘permanent capital’ means current year retained earnings, allocated and unallocated earnings, all surplus (less allowances for losses), and stock issued by a System institution, except stock that—
 
@@ -116,7 +142,7 @@ Subsec. (d)(1). Pub. L. 100–399, §301(f), struck out “and in section 2162 o
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–399 effective as if enacted immediately after enactment of Pub. L. 100–233, which was approved Jan. 6, 1988, see section 1001(a) of Pub. L. 100–399, set out as a note under section 2002 of this title.
+Amendment by Pub. L. 100–399 effective as if enacted immediately after enactment of Pub. L. 100–233, whichwas approved Jan. 6, 1988, see section 1001(a) of Pub. L. 100–399, set out as a note under section 2002 of this title.
 
 #### Section Referred to in Other Sections
 

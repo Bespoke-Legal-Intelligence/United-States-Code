@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;In addition to amounts otherwise available for such purposes, the following amounts are authorized to be appropriated for fiscal years 1986 and 1987, for the Department of State to carry out diplomatic security construction, acquisition, and operations pursuant to the Department of State's Supplemental Diplomatic Security Program, as justified to the Congress for the respective fiscal year for “Administration of Foreign Affairs”, as follows:
+&emsp;In addition to amounts otherwise available for such purposes, the following amounts are authorized to be appropriated for fiscal years 1986 and 1987, for the Department of State to carry out diplomatic security construction, acquisition, and operations pursuant to the Department of State's Supplemental Diplomatic Security Program, as justified to theCongress for the respective fiscal year for “Administration of Foreign Affairs”, as follows:
 
 &emsp;&emsp;(A) For “Salaries and Expenses”, $308,104,000.
 
@@ -18,7 +18,7 @@
 
 #### (4) Allocation of amounts authorized to be appropriated
 
-&emsp;Amounts authorized to be appropriated by this subsection, and by the amendment madeby paragraph (2), shall be allocated as provided in the table entitled “Diplomatic Security Program” relating to this section which appears in the Joint Explanatory Statement of the Committee of Conference to accompany H.R. 4151 of the 99th Congress (the Omnibus Diplomatic Security and Antiterrorism Act of 1986).
+&emsp;Amounts authorized to be appropriated by this subsection, and by the amendment made by paragraph (2), shall be allocated as provided in the table entitled “Diplomatic Security Program” relating to this section which appears in the Joint Explanatory Statement of the Committee of Conference to accompany H.R. 4151 of the 99th Congress (the Omnibus Diplomatic Security and Antiterrorism Act of 1986).
 
 #### (b) Notification to authorizing Committees of requests for appropriations
 

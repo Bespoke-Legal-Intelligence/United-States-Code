@@ -12,7 +12,7 @@
 
 &emsp;(5) to prevent economic disruption and harm to the western livestock industry, it is in the public interest to charge a fee for livestock grazing permits and leases on the public lands which is based on a formula reflecting annual changes in the costs of production;
 
-&emsp;(6) the Act of December 15, 1971 (85 Stat. 649, 16 U.S.C. 1331 et seq.), continues to be successful in its goal of protecting wild free-roaming horses and burros from capture, branding, harassment, and death, but that certain amendments are necessary thereto to avoid excessive costs in the administration of the Act, and to facilitate the humane adoption or disposal of excess wild free-roaming horses and burros which because they exceed the carrying capacity of the range, pose a threat to their ownhabitat, fish, wildlife, recreation, water and soil conservation, domestic livestock grazing, and other rangeland values;
+&emsp;(6) the Act of December 15, 1971 (85 Stat. 649, 16 U.S.C. 1331 et seq.), continues to be successful in its goal of protecting wild free-roaming horses and burros from capture, branding, harassment, and death, but that certain amendments are necessary thereto to avoid excessive costs in the administration of the Act, and to facilitate the humane adoption or disposal of excess wild free-roaming horses and burros which because they exceed the carrying capacity of the range, pose a threat to their own habitat, fish, wildlife, recreation, water and soil conservation, domestic livestock grazing, and other rangeland values;
 
 (b) The Congress therefore hereby establishes and reaffirms a national policy and commitment to:
 
@@ -22,7 +22,7 @@
 
 &emsp;(3) charge a fee for public grazing use which is equitable and reflects the concerns addressed in paragraph (a)(5) above;
 
-&emsp;(4) continue the policy of protecting wild free-roaming horses and burros from capture, branding, harassment, or death, while at the same time facilitating the removal and disposal of excess wild free-roaming horses and burros which pose a threat to themselves and their habitat and to other rangeland values;
+&emsp;(4) continue the policy of protecting wild free-roaming horses and burros from capture,branding, harassment, or death, while at the same time facilitating the removal and disposal of excess wild free-roaming horses and burros which pose a threat to themselves and their habitat and to other rangeland values;
 
 (c) The policies of this chapter shall become effective only as specific statutory authority for their implementation is enacted by this chapter or by subsequent legislation, and shall be construed as supplemental to and not in derogation of the purposes for which public rangelands are administered under other provisions of law.
 

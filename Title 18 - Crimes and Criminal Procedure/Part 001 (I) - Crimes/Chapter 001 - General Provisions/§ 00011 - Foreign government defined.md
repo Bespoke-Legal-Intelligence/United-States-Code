@@ -1,6 +1,6 @@
-### §11 . Foreign government defined
+### §11. Foreign government defined
 
-The term “foreign government”, as used in this title except in sections 112, 878, 970, 1116, and 1201, includes any government, faction, or body of insurgents within a country with which the United States is at peace, irrespective of recognition by the United States.
+The term “foreign government”, as used in this title except in sections 112, 878, 970, 1116,and 1201, includes any government, faction, or body of insurgents within a country with which the United States is at peace, irrespective of recognition by the United States.
 
 (June 25, 1948, ch. 645, 62 Stat. 686; Oct. 8, 1976, Pub. L. 94–467, §11, 90 Stat. 2001.)
 

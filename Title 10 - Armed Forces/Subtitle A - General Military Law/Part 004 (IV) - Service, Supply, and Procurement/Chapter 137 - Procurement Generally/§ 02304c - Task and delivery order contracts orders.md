@@ -2,7 +2,7 @@
 
 (a)
 
-Issuance of Orders.—The following actions are not required for issuance of a task ordelivery order under a task or delivery order contract:
+Issuance of Orders.—The following actions are not required for issuance of a task or delivery order under a task or delivery order contract:
 
 &emsp;(1) A separate notice for such order under section 18 of the Office of Federal Procurement Policy Act (41 U.S.C. 416) or section 8(e) of the Small Business Act (15 U.S.C. 637(e)).
 
@@ -10,7 +10,7 @@ Issuance of Orders.—The following actions are not required for issuance of a t
 
 (b)
 
-Multiple Award Contracts.—When multiple task or delivery order contracts are awarded under section 2304a(d)(1)(B) <sup>1</sup> or 2304b(e) of this title, all contractors awarded such contracts shall be provided a fair opportunity to be considered, pursuant to procedures set forth in the contracts, for each task or delivery order in excess of $2,500 that is to be issued under any of the contracts unless—
+Multiple Award Contracts.—When multiple task or delivery order contracts are awarded under section 2304a(d)(1)(B) or 2304b(e) of this title, all contractors awarded such contracts shall be provided a fair opportunity to be considered, pursuant to procedures set forth in the contracts, for each task or delivery order in excess of $2,500 that is to be issued under any of the contracts unless—
 
 &emsp;(1) the agency's need for the services or property ordered is of such unusual urgency that providing such opportunity to all such contractors would result in unacceptable delays in fulfilling that need;
 
@@ -30,17 +30,13 @@ Protests.—A protest is not authorized in connection with the issuance or propo
 
 (e)
 
-Task and Delivery Order Ombudsman.—Each head of an agency who awards multiple task or delivery order contracts pursuant to section 2304a(d)(1)(B) <sup>1</sup> or 2304b(e) of this title shall appoint or designate a task and delivery order ombudsman who shall be responsible for reviewing complaints from the contractors on such contracts and ensuring that all of the contractors are afforded a fair opportunity to be considered for task or delivery orders when required under subsection (b). The task and delivery order ombudsman shall be a senior agency official who is independent of the contracting officer for the contracts and may be the agency's competition advocate.
+Task and Delivery Order Ombudsman.—Each head of an agency who awards multiple task or delivery order contracts pursuant to section 2304a(d)(1)(B) or 2304b(e) of this title shall appoint or designate a task and delivery order ombudsman who shall be responsible for reviewing complaints from the contractors on such contracts and ensuring that all of the contractors are afforded a fair opportunity to be considered for task or delivery orders when required under subsection (b). The task and delivery order ombudsman shall be a senior agency official who is independent of the contracting officer for the contracts and may be the agency's competition advocate.
 
 (f)
 
-Applicability.—This section applies to task and delivery order contracts entered into under sections 2304a <sup>1</sup> and 2304b of this title.
+Applicability.—This section applies to task and delivery order contracts entered into under sections 2304a and 2304b of this title.
 
 (Added Pub. L. 103–355, title I, §1004(a)(1), Oct. 13, 1994, 108 Stat. 3252.)
-
-#### References in Text
-
-Section 2304a of this title, referred to in subsecs. (b), (e), and (f), probably means the section 2304a added by section 1004(a)(1) of Pub. L. 103–355.
 
 #### Effective Date
 
@@ -48,11 +44,9 @@ For effective date and applicability of section, see section 10001 of Pub. L. 10
 
 #### Provisions Not Affected by Pub. L. 103–355
 
-This section not to be construed as modifying or superseding, or as intended to impair or restrict, authorities or responsibilities under section 759 of Title 40, Public Buildings, Property, and Works, or subchapter VI (§541 et seq.) of chapter 10 of Title 40, see section 1004(d) of Pub. L. 103–355, set out as a note under section 2304a of this title.
+This section not to be construed as modifying or superseding, or as intended to impair or restrict, authorities or responsibilities under former section 759 of Title 40, Public Buildings, Property, and Works, or subchapter VI (§541 et seq.) of chapter 10 of Title 40, see section 1004(d) of Pub. L. 103–355, set out as a note under section 2304a of this title.
 
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 2304a, 2304b, 2304d of this title.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -8,7 +8,7 @@ Every person who makes payments of unemployment compensation aggregating $10 or 
 
 Every person required to make a return under subsection (a) shall furnish to each individual whose name is required to be set forth in such return a written statement showing—
 
-&emsp;(1) the name and address of the person required to make such return, and
+&emsp;(1) the name, address, and phone number of the information contact of the person required to make such return, and
 
 &emsp;(2) the aggregate amount of payments to the individual required to be shown on such return.
 
@@ -20,21 +20,25 @@ For purposes of this section—
 
 #### (1) Unemployment compensation
 
-&emsp;The term “unemployment compensation” has the meaning given to such term by section 85(c).<sup>1</sup>
+&emsp;The term “unemployment compensation” has the meaning given to such term by section 85(b).
 
 #### (2) Person
 
 &emsp;The term “person” means the officer or employee having control of the payment of the unemployment compensation, or the person appropriately designated for purposes of this section.
 
-(Added Pub. L. 95–600, title I, §112(b), Nov. 6, 1978, 92 Stat. 2777; amended Pub. L. 99–514, title XV, §1501(c)(7), Oct. 22, 1986, 100 Stat. 2738.)
-
-#### References in Text
-
-Section 85(c), referred to in subsec. (c)(1), was redesignated section 85(b) of this title by Pub. L. 99–514, title I, §121, Oct. 22, 1986, 100 Stat. 2109.
+(Added Pub. L. 95–600, title I, §112(b), Nov. 6, 1978, 92 Stat. 2777; amended Pub. L. 99–514, title XV, §1501(c)(7), Oct. 22, 1986, 100 Stat. 2738; Pub. L. 104–168, title XII, §1201(a)(7), July 30, 1996, 110 Stat. 1469; Pub. L. 104–188, title I, §1704(t)(14), Aug. 20, 1996, 110 Stat. 1888.)
 
 #### Amendments
 
+1996—Subsec. (b)(1). Pub. L. 104–168 substituted “name, address, and phone number of the information contact” for “name and address”.
+
+Subsec. (c)(1). Pub. L. 104–188 substituted “section 85(b)” for “section 85(c)”.
+
 1986—Subsec. (b). Pub. L. 99–514, in amending subsec. (b) generally, substituted references to persons required to make a return for former references to persons making a return and references to individuals whose names are required to be set forth for former references to individuals whose names are set forth, and struck out provision directing that no statement is required to be furnished to individuals if the aggregate amount of payments to such individual shown on the return is less than $10.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–168 applicable to statements required to be furnished after Dec. 31, 1996 (determined without regard to any extension), see section 1201(b) of Pub. L. 104–168, set out as a note under section 6041 of this title.
 
 #### Effective Date of 1986 Amendment
 
@@ -51,6 +55,4 @@ For provisions relating to credit or refund of overpayment of tax resulting from
 #### Section Referred to in Other Sections
 
 This section is referred to in title 42 section 502.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

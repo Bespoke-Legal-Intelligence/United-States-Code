@@ -16,7 +16,7 @@ Such document shall be considered to be the general application required to be s
 
 #### References in Text
 
-This Act, referred to in subsec. (c), means Pub. L. 89–750, Nov. 3, 1966, 80 Stat. 1191, as amended, known as the Elementary and Secondary Education Amendments of 1966. Title III of the Act, known as the Adult Education Act, is classified to this chapter. For complete classification of this Act to the Code, see Short Title of 1966 Amendment note set out under section 6301 of this title and Tables.
+This Act, referred to in subsec. (c), means Pub. L. 89–750, Nov. 3, 1966, 80 Stat. 1191, as amended, known asthe Elementary and Secondary Education Amendments of 1966. Title III of the Act, known as the Adult Education Act, is classified to this chapter. For complete classification of this Act to the Code, see Short Title of 1966 Amendment note set out under section 6301 of this title and Tables.
 
 Section 1232d of this title, referred to in subsec. (c), was in the original a reference to section 435 of the General Education Provisions Act. Sections 428 and 435 of that Act were renumbered as sections 435 and 441, respectively, by Pub. L. 103–382, title II, §212(b)(1), Oct. 20, 1994, 108 Stat. 3913, and are classified to sections 1231e and 1232d, respectively, of this title.
 

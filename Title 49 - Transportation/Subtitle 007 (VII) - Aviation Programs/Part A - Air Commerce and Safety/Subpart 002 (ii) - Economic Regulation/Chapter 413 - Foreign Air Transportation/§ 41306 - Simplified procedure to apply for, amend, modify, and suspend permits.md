@@ -16,7 +16,9 @@ Notice and Opportunity To Respond.—Regulations under this section shall provid
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -30,7 +32,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §402(h); added Oct. 24, 1978, Pu
 
 &nbsp;
 
-49 App.:1551(b) (1)(E).
+49 App.:1551(b)(1)(E).
 
 Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1601(b)(1)(E); added Oct. 4, 1984, Pub. L. 98–443, §3(e), 98 Stat. 1704.
 
@@ -43,8 +45,4 @@ In subsection (a)(1), the words “acting on” are substituted for “dispositi
 In subsection (a)(2), the word “alteration” is omitted as surplus. The word “transfer” is omitted because 49 App.:1372(f) does not cover transfer of a permit.
 
 In subsection (b), the word “adequate” is omitted as surplus.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 40109, 46301 of this title.
 

@@ -14,7 +14,7 @@ Fifth. When lands shall be selected from those which have been raised to double 
 
 Sixth. No State while in a condition of rebellion or insurrection against the Government of the United States shall be entitled to the benefit of the provisions of this subchapter.
 
-Seventh. No State shall be entitled to the benefits of the provisions of this subchapter unless it shall express its acceptance thereof by its legislature within three years from July 23, 1866: <i>Provided,</i> That when any Territory shall become a State and be admitted into the Union, such new State shall be entitled to the benefits of the provisions of said sections, by expressing the acceptance therein required within three years from the date of its admission into the Union, and providing the college or colleges within five years after such acceptance, as heretofore prescribed in this chapter.
+Seventh. No State shall be entitled to the benefits of the provisions of this subchapter unless it shall express its acceptance thereof by its legislature within three years from July 23, 1866: <i>Provided</i>, That when any Territory shall become a State and be admitted into the Union, such new State shall be entitled to the benefits of the provisions of said sections, by expressing the acceptance therein required within three years from the date of its admission into the Union, and providing the college or colleges within five years after such acceptance, as heretofore prescribed in this chapter.
 
 (July 2, 1862, ch. 130, §5, 12 Stat. 504; July 23, 1866, ch. 209, 14 Stat. 208; Mar. 3, 1873, ch. 231, §3, 17 Stat. 559.)
 
@@ -22,7 +22,7 @@ Seventh. No State shall be entitled to the benefits of the provisions of this su
 
 Subd. fourth was repealed in part by act March 3, 1873, which provided in part: “That all laws and parts of laws permitting the transmission by mail of any free matter whatever be, and the same are hereby, repealed from and after June thirtieth, eighteen hundred and seventy-three.”
 
-Subd. seventh formerly contained a proviso which read as follows: <i>“Provided further,</i> That any State which has prior to July 23, 1866, expressed its acceptance of the foregoing provisions of this chapter shall have the period of five years within which to provide at least one college, as described in the fourth section of said act, after the time for providing said college, according to the act of July second, eighteen hundred and sixty-two shall have expired.”
+Subd. seventh formerly contained a proviso which read as follows: <i>“Provided further</i>, That any State which has prior to July 23, 1866, expressed its acceptance of the foregoing provisions of this chapter shall have the period of five years within which to provide at least one college, as described in the fourth section of said act, after the time for providing said college, according to the act of July second, eighteen hundred and sixty-two shall have expired.”
 
 #### Section Referred to in Other Sections
 

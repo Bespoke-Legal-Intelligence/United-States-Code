@@ -6,7 +6,7 @@ The budget authority available under section 1437c(c) of this title for assistan
 
 #### (b) Use of funds
 
-The amounts made available under this section shall be used only in connection with themoderate rehabilitation of housing described in section 1437f(n) of this title for occupancy by homeless individuals, except that amounts made available under this section may be used in connection with the moderate rehabilitation of efficiency units if the building owner agrees to pay the additional cost of rehabilitating and operating such units.,<sup>2</sup> and except that the Secretary may provide amounts available under this section to private nonprofit organizations that submit applications for such assistance that are approved by the Secretary.
+The amounts made available under this section shall be used only in connection with the moderate rehabilitation of housing described in section 1437f(n) of this title for occupancy by homeless individuals, except that amounts made available under this section may be used in connection with the moderate rehabilitation of efficiency units if the building owner agrees to pay the additional cost of rehabilitating and operating such units.,<sup>2</sup> and except that the Secretary may provide amounts available under this section to private nonprofit organizations that submit applications for such assistance that are approved by the Secretary.
 
 #### (c) Allocation
 
@@ -50,23 +50,21 @@ Each contract for annual contributions entered into with a <sup>3</sup> approve
 
 &emsp;(3) provide that, notwithstanding any other provision of law, first priority for occupancy of housing rehabilitated under this section shall be given to homeless individuals.
 
-#### (g) Applicability to Indian housing authorities
-
-Amounts made available for assistance under this section shall be available through contracts between the Secretary and Indian housing authorities, and the provisions of this section regarding public housing authorities shall include and apply to Indian housing authorities.
+#### (g) Repealed. Pub. L. 104–330, title V, §506(a)(8)(A), Oct. 26, 1996, 110 Stat. 4044
 
 #### (h) Participation of homeless individuals
 
-The Secretary shall, by regulation, require each approved applicant receiving assistance under this section that is not a public housing agency or Indian housing authority to provide for the participation of not less than one homeless individual or former homeless individual on the board of directors or other equivalent policymaking entity of such applicant, to the extent that such entity considers and makes policies and decisions regarding the rehabilitation of any housing with assistance under this section. The Secretary may grant waivers to approved applicants unable to meet the requirements under the preceding sentence if the applicant agrees to otherwise consult with homeless or formerly homeless individuals in considering and making such policies and decisions.
+The Secretary shall, by regulation, require each approved applicant receiving assistance under this section that is not a public housing agency to provide for the participation of not less than one homeless individual or former homeless individual on the board of directors or other equivalent policymaking entity of such applicant, to the extent that such entity considers and makes policies and decisions regarding the rehabilitation of any housing with assistance under this section. The Secretary may grant waivers to approved applicants unable to meet the requirements under the preceding sentence if the applicant agrees to otherwise consult with homeless or formerly homeless individuals in considering and making such policies and decisions.
 
 #### (i) Termination of assistance
 
-If an individual or family who receives assistance under this section violates program requirements, the recipient of amounts made available under this section may terminate assistance in accordance with a formal process established by the recipient that recognizes therights of individuals receiving such assistance to due process of law.
+If an individual or family who receives assistance under this section violates program requirements, the recipient of amounts made available under this section may terminate assistance in accordance with a formal process established by the recipient that recognizes the rights of individuals receiving such assistance to due process of law.
 
 #### (j) Definitions
 
 For purposes of this section—
 
-&emsp;(1) the term “applicant” means a public housing agency, Indian housing authority, or private nonprofit organization that applies for assistance under this section; and
+&emsp;(1) the term “applicant” means a public housing agency, or private nonprofit organization that applies for assistance under this section; and
 
 &emsp;(2) the term “private nonprofit organization” means an organization—
 
@@ -78,13 +76,19 @@ For purposes of this section—
 
 &emsp;&emsp;(D) that practices nondiscrimination in the provision of assistance.
 
-(Pub. L. 100–77, title IV, §441, July 22, 1987, 101 Stat. 508; Pub. L. 100–628, title IV, §481(a)–(d)(1), Nov. 7, 1988, 102 Stat. 3237, 3238; Pub. L. 101–625, title VIII, §835, Nov. 28, 1990, 104 Stat. 4366; Pub. L. 102–550, title XIV, §1405(a)–(d), Oct. 28, 1992, 106 Stat. 4028, 4029.)
+(Pub. L. 100–77, title IV, §441, July 22, 1987, 101 Stat. 508; Pub. L. 100–628, title IV, §481(a)–(d)(1), Nov. 7, 1988, 102 Stat. 3237, 3238; Pub. L. 101–625, title VIII, §835, Nov. 28, 1990, 104 Stat. 4366; Pub. L. 102–550, title XIV, §1405(a)–(d), Oct. 28, 1992, 106 Stat. 4028, 4029; Pub. L. 104–330, title V, §506(a)(8), Oct. 26, 1996, 110 Stat. 4044.)
 
 #### References in Text
 
 Section 1437f(e)(2) of this title, referred to in subsec. (a), was repealed effective Oct. 1, 1991, but to remain in effect with respect to single room occupancy dwellings as authorized by this subchapter, see section 12839(b) of this title.
 
 #### Amendments
+
+1996—Subsec. (g). Pub. L. 104–330, §506(a)(8)(A), struck out heading and text of subsec. (g). Text read as follows: “Amounts made available for assistance under this section shall be available through contracts between the Secretary and Indian housing authorities, and the provisions of this section regarding public housing authorities shall include and apply to Indian housing authorities.”
+
+Subsec. (h). Pub. L. 104–330, §506(a)(8)(B), struck out “or Indian housing authority” after “public housing agency”.
+
+Subsec. (j)(1). Pub. L. 104–330, §506(a)(8)(C), struck out “, Indian housing authority” after “public housing agency”.
 
 1992—Subsec. (a). Pub. L. 102–550, §1405(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The budget authority available under section 1437c(c) of this title for assistance under section 1437f(e)(2) of this title is authorized to be increased by $79,000,000 on or after October 1, 1990, and by $82,400,000 on or after October 1, 1991.”
 
@@ -109,6 +113,12 @@ Subsec. (b). Pub. L. 100–628, §481(b), inserted before period at end “, ex
 Subsec. (d). Pub. L. 100–628, §481(c), inserted sentence defining “major spaces”.
 
 Subsec. (e)(3). Pub. L. 100–628, §481(d)(1), added par. (3).
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–330 effective Oct. 1, 1997, except as otherwise expressly provided, see section 107 of Pub. L. 104–330, set out as an Effective Date note under section 4101 of Title 25, Indians.
+
+Amendment by Pub. L. 104–330 applicable with respect to amounts made available for assistance under this subchapter for fiscal year 1998 and fiscal years thereafter, see section 506(c) of Pub. L. 104–330, set out as a note under section 11371 of this title.
 
 #### Effective Date of 1988 Amendment
 

@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-In the case of the mines, wells, and other natural deposits listed in subsection (b), the allowance for depletion under section 611 shall be the percentage, specified in subsection (b), of the gross income from the property excluding from such gross income an amount equal to any rents or royalties paid or incurred by the taxpayer in respect of the property. Such allowance shall not exceed 50 percent (100 percent in the case of oil and gas properties) of the taxpayer's taxable income from the property (computed without allowance for depletion). For purposes of the preceding sentence, the allowable deductions taken into account with respect to expenses of mining in computing the taxable income from the property shall be decreased by an amount equal to so much of any gain which (1) is treated under section 1245 (relating to gain from disposition of certain depreciable property) as ordinary income, and (2) is properly allocable to the property. In no case shall the allowance for depletion under section 611 be less than it would be if computed without reference to this section.
+In the case of the mines, wells, and other natural deposits listed in subsection (b), the allowance for depletion under section 611 shall be the percentage, specified in subsection (b), of the gross income from the property excluding from such gross income an amount equal to any rents or royalties paid or incurred by the taxpayer in respect of the property. Such allowance shall not exceed 50 percent (100 percent in the case of oil and gas properties) of the taxpayer's taxable income from the property (computed without allowance for depletion). For purposes of the preceding sentence, the allowable deductions taken into account with respect to expenses of mining in computing the taxable income from the property shall be decreased by an amount equal to so much of any gain which (1) is treated under section 1245 (relating to gain from disposition ofcertain depreciable property) as ordinary income, and (2) is properly allocable to the property. In no case shall the allowance for depletion under section 611 be less than it would be if computed without reference to this section.
 
 #### (b) Percentage depletion rates
 
@@ -110,7 +110,7 @@ Except as provided in section 613A, in the case of any oil or gas well, the allo
 
 &emsp;&emsp;(A) such deposits shall be treated as listed in subsection (b), and
 
-&emsp;&emsp;(B) 15 percent shall be deemed to be the percentage specified in subsection (b),<sup>1</sup>
+&emsp;&emsp;(B) 15 percent shall be deemed to be the percentage specified in subsection (b).
 
 #### (2) Geothermal deposit defined
 
@@ -120,9 +120,11 @@ Except as provided in section 613A, in the case of any oil or gas well, the allo
 
 &emsp;In the case of any geothermal deposit, the term “gross income from the property” shall, for purposes of this section, not include any amount described in section 613A(d)(5).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 208; Sept. 2, 1958, Pub. L. 85–866, title I, §36(a), 72 Stat. 1633; June 30, 1960, Pub. L. 86–564, title III, §302(a), (b), 74 Stat. 291, 292; Oct. 16, 1962, Pub. L. 87–834, §13(e), 76 Stat. 1034; Sept. 2, 1964, Pub. L. 88–571, §6(a), 78 Stat. 860; Nov. 13, 1966, Pub. L. 89–809, title II, §§207(a), 208(a), 209(a), (b), 80 Stat. 1579, 1580; Dec. 30, 1969, Pub. L. 91–172, title V, §§501(a), 502(a), 83 Stat. 629, 630; Oct. 29, 1974, Pub. L. 93–499, §2(a), 88 Stat. 1550; Mar. 29, 1975, Pub. L. 94–12, title V, §501(b)(1), (2), 89 Stat. 53; Oct. 4, 1976, Pub. L. 94–455, title XIX, §§1901(b)(3)(K), 1906(b)(13)(A), 90 Stat. 1793, 1834; Nov. 9, 1978, Pub. L. 95–618, title IV, §403(a)(1), (2)(A), 92 Stat. 3203; Oct. 22, 1986, Pub. L. 99–514, title IV, §412(a)(2), 100 Stat. 2227; Nov. 5, 1990, Pub. L. 101–508, title XI, §§11522(a), 11815(b)(1), (2), 104 Stat. 1388–486, 1388–557, 1388–558.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 208; Sept. 2, 1958, Pub. L. 85–866, title I, §36(a), 72 Stat. 1633; June 30, 1960, Pub. L. 86–564, title III, §302(a), (b), 74 Stat. 291, 292; Oct. 16, 1962, Pub. L. 87–834, §13(e), 76 Stat. 1034; Sept. 2, 1964, Pub. L. 88–571, §6(a), 78 Stat. 860; Nov. 13, 1966, Pub. L. 89–809, title II, §§207(a), 208(a), 209(a), (b), 80 Stat. 1579, 1580; Dec. 30, 1969, Pub. L. 91–172, title V, §§501(a), 502(a), 83 Stat. 629, 630; Oct. 29, 1974, Pub. L. 93–499, §2(a), 88 Stat. 1550; Mar. 29, 1975, Pub. L. 94–12, title V, §501(b)(1), (2), 89 Stat. 53; Oct. 4, 1976, Pub. L. 94–455, title XIX, §§1901(b)(3)(K), 1906(b)(13)(A), 90 Stat. 1793, 1834; Nov. 9, 1978, Pub. L. 95–618, title IV, §403(a)(1), (2)(A), 92 Stat. 3203; Oct. 22, 1986, Pub. L. 99–514, title IV, §412(a)(2), 100 Stat. 2227; Nov. 5, 1990, Pub. L. 101–508, title XI, §§11522(a), 11815(b)(1), (2), 104 Stat. 1388–486, 1388–557, 1388–558; Aug. 20, 1996, Pub. L. 104–188, title I, §1704(t)(34), 110 Stat. 1889.)
 
 #### Amendments
+
+1996—Subsec. (e)(1)(B). Pub. L. 104–188 substituted “subsection (b).” for “subsection (b),”.
 
 1990—Subsec. (a). Pub. L. 101–508, §11522(a), inserted “(100 percent in the case of oil and gas properties)” after “50 percent”.
 
@@ -178,7 +180,7 @@ Subsec. (b)(6). Pub. L. 86–564, §302(a)(3), struck out provisions which autho
 
 Subsec. (c)(2). Pub. L. 86–564, §302(b)(1), substituted “the treatment processes considered as mining described in paragraph (4) (and the treatment processes necessary or incidental thereto)” for “the ordinary treatment processes normally applied by mine owners or operators in order to obtain the commercially marketable mineral product or products”, and “such treatment processes” for “the ordinary treatment processes”.
 
-Subsec. (c)(4). Pub. L. 86–564, §302(b)(2), substituted “The following treatment processes where applied bythe mine owner or operator shall be considered as mining to the extent they are applied to the ore or mineral in respect of which he is entitled to a deduction for depletion under section 611” for “The term ‘ordinary treatment processes’ includes the following” in opening provisions, included cleaning in subpar. (B), substituted “ores or minerals which” for “minerals which” and included substantially equivalent processes in subpar. (C), included uranium and minerals which are not customarily sold in the form of the crude mineral product and substituted “from the ore or the mineral or minerals from other material from the mine or other natural deposit” for “from the ore, including the furnacing of quicksilver ores” in subpar. (D), included the furnacing of quicksilver ores in subpar. (E), and added subpars. (F) to (H).
+Subsec. (c)(4). Pub. L. 86–564, §302(b)(2), substituted “The following treatment processes where applied by the mine owner or operator shall be considered as mining to the extent they are applied to the ore or mineral in respect of which he is entitled to a deduction for depletion under section 611” for “The term ‘ordinary treatment processes’ includes the following” in opening provisions, included cleaning in subpar. (B), substituted “ores or minerals which” for “minerals which” and included substantially equivalent processes in subpar. (C), included uranium and minerals which are not customarily sold in the form of the crude mineral product and substituted “from the ore or the mineral or minerals from other material from the mine or other natural deposit” for “from the ore, including the furnacing of quicksilver ores” in subpar. (D), included the furnacing of quicksilver ores in subpar. (E), and added subpars. (F) to (H).
 
 Subsec. (c)(5). Pub. L. 86–564, §302(b)(2), added par. (5).
 
@@ -272,7 +274,7 @@ Time and manner of election.—An election to have the provisions of this paragr
 
 &emsp;&emsp;“(D)
 
-Statutes of limitation.—Notwithstanding any other law, the period within which an assessment of a deficiency attributable to the application of the amendments made by subsection (b) \[amending this section\] may be made with respect to any taxable year to which such amendments apply under an election made under subparagraph (C), and the period within which a claim for refund or credit of an overpayment attributable to the application of such amendments may be made with respect toany such taxable year, shall not expire prior to one year after the last day for making an election under subparagraph (C). An election by a taxpayer under subparagraph (C) shall be considered as a consent to the application of the provisions of this subparagraph.
+Statutes of limitation.—Notwithstanding any other law, the period within which an assessment of a deficiency attributable to the application of the amendments made by subsection (b) \[amending this section\] may be made with respect to any taxable year to which such amendments apply under an election made under subparagraph (C), and the period within which a claim for refund or credit of an overpayment attributable to the application of such amendments may be made with respect to any such taxable year, shall not expire prior to one year after the last day for making an election under subparagraph (C). An election by a taxpayer under subparagraph (C) shall be considered as a consent to the application of the provisions of this subparagraph.
 
 &emsp;&emsp;“(E)
 
@@ -311,6 +313,4 @@ Percentage depletion inapplicable to certain owners of coal or iron ore, see sec
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 48, 57, 263, 291, 381, 465, 611, 613A, 614, 616, 617, 631, 636, 901, 903, 1082, 1202, 1446, 4612, 4940, 7704 of this title.
-
-<i><sup>1</sup></i><i> So in original. The comma probably should be a period.</i>
 

@@ -20,7 +20,7 @@ The national long-range plan shall describe the Secretary's activities to promot
 
 &emsp;(1) how the Secretary will encourage the effective use of technology to provide all students the opportunity to achieve State content standards and State student performance standards, especially through programs administered by the Department;
 
-&emsp;(2) joint activities in support of the overall national technology policy with other Federal departments or agencies, such as the Office of Science and Technology Policy, the National Endowment for the Humanities, the National Endowment for the Arts, the National Institute for Literacy, the National Aeronautics and Space Administration, the National Science Foundation, the Bureau of Indian Affairs, and the Departments of Commerce, Energy, Health and Human Services, and Labor—
+&emsp;(2) joint activities in support of the overall national technology policy with other Federal departments or agencies, such as the Office of Science and Technology Policy, the National Endowment for the Humanities, the National Endowment for the Arts, the National Institute for Literacy, the National Aeronautics and Space Administration, the NationalScience Foundation, the Bureau of Indian Affairs, and the Departments of Commerce, Energy, Health and Human Services, and Labor—
 
 &emsp;&emsp;(A) to promote the use of technology in education, training, and lifelong learning, including plans for the educational uses of a national information infrastructure; and
 
@@ -54,5 +54,5 @@ The national long-range plan shall describe the Secretary's activities to promot
 
 #### References in Text
 
-The Star Schools Act, referred to in subsec. (b)(1), is part B (§§3201–3210) of title III of Pub. L. 89–10, as added by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3654, which is classified generally to part B (§6891 etseq.) of this subchapter. For complete classification of this Act to the Code, see section 6891 of this title and Tables.
+The Star Schools Act, referred to in subsec. (b)(1), is part B (§§3201–3210) of title III of Pub. L. 89–10, as added by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3654, which is classified generally to part B (§6891 et seq.) of this subchapter. For complete classification of this Act to the Code, see section 6891 of this title and Tables.
 

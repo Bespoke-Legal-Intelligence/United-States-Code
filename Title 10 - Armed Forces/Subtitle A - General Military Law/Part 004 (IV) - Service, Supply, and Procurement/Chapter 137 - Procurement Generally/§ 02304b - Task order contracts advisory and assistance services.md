@@ -16,7 +16,7 @@ Content of Notice.—The notice required by section 18 of the Office of Federal 
 
 (d)
 
-Required Content of Solicitation and Contract.—(1) The solicitation for the proposed task order contract shall include the information (regarding services) described in section 2304a(b) <sup>1</sup> of this title.
+Required Content of Solicitation and Contract.—(1) The solicitation for the proposed task order contract shall include the information (regarding services) described in section 2304a(b) of this title.
 
 (2) A task order contract entered into under this section shall contain the same information that is required by paragraph (1) to be included in the solicitation of offers for that contract.
 
@@ -60,21 +60,15 @@ Advisory and Assistance Services Defined.—In this section, the term “advisor
 
 (Added Pub. L. 103–355, title I, §1004(a)(1), Oct. 13, 1994, 108 Stat. 3251.)
 
-#### References in Text
-
-Section 2304a of this title, referred to in subsec. (d)(1), probably means the section 2304a added by section 1004(a)(1) of Pub. L. 103–355.
-
 #### Effective Date
 
 For effective date and applicability of section, see section 10001 of Pub. L. 103–355, set out as an Effective Date of 1994 Amendment note under section 251 of Title 41, Public Contracts.
 
 #### Provisions Not Affected by Pub. L. 103–355
 
-This section not to be construed as modifying or superseding, or as intended to impair or restrict, authorities or responsibilities under section 759 of Title 40, Public Buildings, Property, and Works, or subchapter VI (§541 et seq.) of chapter 10 of Title 40, see section 1004(d) of Pub. L. 103–355, set out as a note under section 2304a of this title.
+This section not to be construed as modifying or superseding, or as intended to impair or restrict, authorities or responsibilities under former section 759 of Title 40, Public Buildings, Property, and Works, or subchapter VI (§541 et seq.) of chapter 10 of Title 40, see section 1004(d) of Pub. L. 103–355, set out as a note under section 2304a of this title.
 
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 2304a, 2304c, 2304d of this title.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

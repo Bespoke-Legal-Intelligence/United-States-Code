@@ -8,7 +8,7 @@ The Secretary is hereby authorized to insure any mortgage otherwise eligible for
 
 1988—Pub. L. 100–242 substituted “with respect to the occupancy of the mortgagor” for “that the mortgagor be the occupant” and “meet such requirement” for “occupy the property” wherever appearing.
 
-1970—Pub. L. 91–621 substituted “on active duty in a uniformed service” and “release from active duty” for“into military service” and “discharge from military service”.
+1970—Pub. L. 91–621 substituted “on active duty in a uniformed service” and “release from active duty” for “into military service” and “discharge from military service”.
 
 1967—Pub. L. 90–19 substituted “Secretary” for “Commissioner” wherever appearing.
 

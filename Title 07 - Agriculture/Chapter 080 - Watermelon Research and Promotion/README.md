@@ -19,7 +19,7 @@
 | (i) | Submission of programs or projects; approval by Secretary. |
 | (j) | Contract authority. |
 | (k) | Recordkeeping; accounting and audit reports. |
-| (<i>l)</i> | Certification. |
+| (<i>l</i>) | Certification. |
 | [4907\.](%C2%A7%2004907%20-%20Permissive%20terms%20in%20plans.md) | Permissive terms in plans. |
 | (a) | Description of terms and provisions; prohibition. |
 | (b) | Exemptions. |
@@ -45,6 +45,10 @@
 | [4916\.](%C2%A7%2004916%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Chapter Referred to in Other Sections
+
+This chapter is referred to in section 7401 of this title.
 
 
 ---

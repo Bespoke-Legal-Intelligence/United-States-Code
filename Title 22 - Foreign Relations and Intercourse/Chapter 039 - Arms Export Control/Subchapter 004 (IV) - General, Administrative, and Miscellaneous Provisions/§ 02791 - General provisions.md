@@ -38,7 +38,7 @@ Funds made available under this chapter may be used for procurement outside the 
 
 (B) Nothing in this paragraph may be construed as limiting the regulatory authority of the President under this chapter.
 
-(3) There are authorized to be appropriated from time to time such sums as may be necessary (A) to refund moneys received from purchasers under contracts of sale entered into under sections 2761, 2762, 2769 and 2770 of this title, or under contracts entered into under section 2767(d) of this title, that are canceled or suspended under this subsection to the extent such moneys have previously been disbursed to private contractors and United States Government agencies for work in progress, and (B) to pay such damages and costs that accrue from the corresponding cancellation or suspension of the existing procurement contracts or United States Government agency work orders involved.
+(3) There are authorized to be appropriated from time to time such sums as may be necessary (A) to refund moneys received from purchasers under contracts of sale entered into under sections 2761, 2762, 2769 and 2770 of this title, or under contracts entered into under section 2767(d) of this title, that are canceled or suspended under this subsection to the extent such moneys have previously been disbursed to private contractors and United States Government agencies for work in progress, and (B) topay such damages and costs that accrue from the corresponding cancellation or suspension of the existing procurement contracts or United States Government agency work orders involved.
 
 #### (f) Use of civilian contract personnel in foreign countries
 
@@ -76,5 +76,5 @@ Amendment by Pub. L. 99–83 effective Oct. 1, 1985, see section 1301 of Pub. L.
 
 #### Delegation of Functions
 
-Functions of President under subsecs. (c) and (f) of this section delegated to Secretary of Defense, with concurrence of Secretary of State and Secretary of the Treasury required for any determination proposed under subsec. (c) of this section, by section 1(n) of Ex. Ord. No. 11958, Jan. 18, 1977, 42 F.R. 4311, as amended, set out as a note under section 2751 of this title.
+Functions of President under subsecs. (c) and (f) of this section delegated to Secretary of Defense, with concurrence of Secretary of State and Secretary of the Treasury required for any determination proposed under subsec. (c) of this section, by section 1(<i>o</i>) of Ex. Ord. No. 11958, Jan. 18, 1977, 42 F.R. 4311, as amended, set out as a note under section 2751 of this title.
 

@@ -12,7 +12,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 5 U.S.C. 857 (1st sentence and 2d proviso).
 
@@ -26,11 +28,11 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-<b>1979</b>—Subsec. (a). Pub. L. 96–54, §2(a)(14), substituted “Office of Personnel Management” for “Civil Service Commission”.
+1979—Subsec. (a). Pub. L. 96–54, §2(a)(14), substituted “Office of Personnel Management” for “Civil Service Commission”.
 
 Subsec. (b). Pub. L. 96–54, §2(a)(15), amended subsec. (b) in same manner as amendment by Pub. L. 95–454. See 1978 Amendment note set out below.
 
-<b>1978</b>—Subsec. (b). Pub. L. 95–454 which purported to amend section 3317b of this title by substituting “Office” for “Commission” was executed to subsec. (b) of this section as the probable intent of Congress.
+1978—Subsec. (b). Pub. L. 95–454 which purported to amend section 3317b of this title by substituting “Office” for “Commission” was executed to subsec. (b) of this section as the probable intent of Congress.
 
 #### Effective Date of 1979 Amendment
 
@@ -42,5 +44,5 @@ Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3110, 3318, 3320 of this title; title 22 section 1438.
+This section is referred to in sections 3110, 3318, 3320 of this title; title 10 section 1599c; title 22 section 1438.
 

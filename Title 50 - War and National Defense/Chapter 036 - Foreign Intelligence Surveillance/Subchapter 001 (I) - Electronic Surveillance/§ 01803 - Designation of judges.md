@@ -2,7 +2,7 @@
 
 #### (a) Court to hear applications and grant orders; record of denial; transmittal to court of review
 
-The Chief Justice of the United States shall publicly designate seven district court judges from seven of the United States judicial circuits who shall constitute a court which shall have jurisdiction to hear applications for and grant orders approving electronic surveillance anywhere within the United States under the procedures set forth in this chapter, except that no judgedesignated under this subsection shall hear the same application for electronic surveillance under this chapter which has been denied previously by another judge designated under this subsection. If any judge so designated denies an application for an order authorizing electronic surveillance under this chapter, such judge shall provide immediately for the record a written statement of each reason of his decision and, on motion of the United States, the record shall be transmitted, under seal, to the court of review established in subsection (b) of this section.
+The Chief Justice of the United States shall publicly designate seven district court judges from seven of the United States judicial circuits who shall constitute a court which shall have jurisdiction to hear applications for and grant orders approving electronic surveillance anywhere within the United States under the procedures set forth in this chapter, except that no judge designated under this subsection shall hear the same application for electronic surveillance under this chapter which has been denied previously by another judge designated under this subsection. If any judge so designated denies an application for an order authorizing electronic surveillance under this chapter, such judge shall provide immediately for the record a written statement of each reason of his decision and, on motion of the United States, the record shall be transmitted, under seal, to the court of review established in subsection (b) of this section.
 
 #### (b) Court of review; record, transmittal to Supreme Court
 
@@ -24,5 +24,5 @@ This chapter, referred to in subsecs. (a), (b), and (c), was in the original “
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1802, 1804, 1805, 1821, 1822, 1824 of this title.
+This section is referred to in sections 1802, 1804, 1805, 1821, 1822, 1824 of this title; title 8 section 1532.
 

@@ -16,19 +16,15 @@ The Tax Court, in redetermining a deficiency of any tax imposed by section 507 o
 
 For purposes of this chapter, chapter 41, 42, 43, or 44, and subtitles A or B the date on which a decision of the Tax Court becomes final shall be determined according to the provisions of section 7481.
 
-#### (e) Cross references
+#### (e) Cross reference
 
-&emsp;&emsp;<b>(1) For provision giving Tax Court jurisdiction to determine whether any portion of deficiency is a substantial underpayment attributable to tax motivated transactions, see section 6621(c)(4).</b><b><sup>1</sup></b>
+&emsp;&emsp;<b>For provision giving Tax Court jurisdiction to order a refund of an overpayment and to award sanctions, see section 6512(b)(2).</b>
 
-&emsp;&emsp;<b>(2) For provision giving Tax Court jurisdiction to order a refund of an overpayment and to award sanctions, see section 6512(b)(2).</b>
-
-(Aug. 16, 1954, ch. 736, 68A Stat. 773; Dec. 30, 1969, Pub. L. 91–172, title I, §101(j)(43), (44), title IX, §960(a), 83 Stat. 530, 531, 734; Dec. 31, 1970, Pub. L. 91–614, title I, §102(d)(6), 84 Stat. 1842; Sept. 2, 1974, Pub. L. 93–406, title II, §1016(a)(12), 88 Stat. 930; Oct. 4, 1976, Pub. L. 94–455, title XIII, §1307(d)(2)(F)(iv), (H), title XVI, §1605(b)(7), title XIX, §1906(b)(13)(A), 90 Stat. 1728, 1755, 1834; Apr. 2, 1980, Pub. L. 96–223, title I, §101(f)(1)(F), (G), 94 Stat. 252; Dec. 24, 1980, Pub. L. 96–596, §2(b), 94 Stat. 3472; July 18, 1984, Pub. L. 98–369, div. A, title I, §144(b), 98 Stat. 683; Oct. 22, 1986, Pub. L. 99–514, title XV, §§1511(c)(8), 1554(a), title XVIII, §1833, 100 Stat. 2745, 2754, 2852; Aug. 23, 1988, Pub. L. 100–418, title I, §1941(b)(2)(B)(vi), (vii), 102 Stat. 1323; Nov. 10, 1988, Pub. L. 100–647, title VI, §6244(b)(1), 102 Stat. 3750.)
-
-#### References in Text
-
-Section 6621(c)(4), referred to in subsec. (e)(1), was repealed by Pub. L. 101–239, title VII, §7721(b), Dec. 19, 1989, 103 Stat. 2399.
+(Aug. 16, 1954, ch. 736, 68A Stat. 773; Dec. 30, 1969, Pub. L. 91–172, title I, §101(j)(43), (44), title IX, §960(a), 83 Stat. 530, 531, 734; Dec. 31, 1970, Pub. L. 91–614, title I, §102(d)(6), 84 Stat. 1842; Sept. 2, 1974, Pub. L. 93–406, title II, §1016(a)(12), 88 Stat. 930; Oct. 4, 1976, Pub. L. 94–455, title XIII, §1307(d)(2)(F)(iv), (H), title XVI, §1605(b)(7), title XIX, §1906(b)(13)(A), 90 Stat. 1728, 1755, 1834; Apr. 2, 1980, Pub. L. 96–223, title I, §101(f)(1)(F), (G), 94 Stat. 252; Dec. 24, 1980, Pub. L. 96–596, §2(b), 94 Stat. 3472; July 18, 1984, Pub. L. 98–369, div. A, title I, §144(b), 98 Stat. 683; Oct. 22, 1986, Pub. L. 99–514, title XV, §§1511(c)(8), 1554(a), title XVIII, §1833, 100 Stat. 2745, 2754, 2852; Aug. 23, 1988, Pub. L. 100–418, title I, §1941(b)(2)(B)(vi), (vii), 102 Stat. 1323; Nov. 10, 1988, Pub. L. 100–647, title VI, §6244(b)(1), 102 Stat. 3750; Aug. 20, 1996, Pub. L. 104–188, title I, §1704(t)(16), 110 Stat. 1888.)
 
 #### Amendments
+
+1996—Subsec. (e). Pub. L. 104–188 amended subsec. (e) generally, striking par. (2) designation and par. (1) which provided cross reference to section 6621(c)(4) of this title for provision giving Tax Court jurisdiction to determine whether any portion of deficiency is a substantial underpayment attributable to tax motivated transactions.
 
 1988—Subsec. (c). Pub. L. 100–418, §1941(b)(2)(B)(vi), substituted “or 44” for “44, or 45” in heading and wherever appearing in text.
 
@@ -123,6 +119,4 @@ Procedure before Tax Court generally, see section 7451 et seq. of this title.
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 6212, 7463 of this title.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -20,7 +20,7 @@ Except as provided in subsection (b) of this section, all claims for removal cos
 
 #### (2) Limitation on presenting claim
 
-&emsp;No claim of a person against the Fund may be approved or certified during the pendency of an action by the person in court to recover costs which are the subject of the claim.
+&emsp;No claim of a person against the Fund may be approved or certified during the pendencyof an action by the person in court to recover costs which are the subject of the claim.
 
 #### (c) Election
 
@@ -34,17 +34,21 @@ If a claim is presented in accordance with subsection (a) of this section and—
 
 #### (d) Uncompensated damages
 
-If a claim is presented in accordance with this section and full and adequate compensation isunavailable, a claim for the uncompensated damages and removal costs may be presented to the Fund.
+If a claim is presented in accordance with this section, including a claim for interim, short-term damages representing less than the full amount of damages to which the claimant ultimately may be entitled, and full and adequate compensation is unavailable, a claim for the uncompensated damages and removal costs may be presented to the Fund.
 
 #### (e) Procedure for claims against Fund
 
 The President shall promulgate, and may from time to time amend, regulations for the presentation, filing, processing, settlement, and adjudication of claims under this Act against the Fund.
 
-(Pub. L. 101–380, title I, §1013, Aug. 18, 1990, 104 Stat. 501.)
+(Pub. L. 101–380, title I, §1013, Aug. 18, 1990, 104 Stat. 501; Pub. L. 104–324, title XI, §1142(b), Oct. 19, 1996, 110 Stat. 3991.)
 
 #### References in Text
 
 This Act, referred to in subsec. (e), is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 484, as amended, known as the Oil Pollution Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of this title and Tables.
+
+#### Amendments
+
+1996—Subsec. (d). Pub. L. 104–324 substituted “section, including a claim for interim, short-term damages representing less than the full amount of damages to which the claimant ultimately may be entitled,” for “section”.
 
 #### Delegation of Functions
 

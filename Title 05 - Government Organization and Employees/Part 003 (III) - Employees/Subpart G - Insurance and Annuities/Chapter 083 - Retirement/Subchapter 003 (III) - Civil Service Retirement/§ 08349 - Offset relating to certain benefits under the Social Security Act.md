@@ -14,7 +14,7 @@
 
 &emsp;(II) the old-age insurance benefit which would be so payable, excluding all wages derived from Federal service of the individual, and assuming the individual were fully insured (as defined by section 214(a) of the Social Security Act).
 
-(ii) For purposes of this subsection, the amount of a benefit referred to in subclause (I) or (II) of clause (i) shall be determined without regard to subsections (b) through (<i>l</i>) of section 203 of the Social Security Act, and without regard to the requirement that an application for such benefit be filed.
+(ii) For purposes of this subsection, the amount of a benefit referred to in subclause (I)or (II) of clause (i) shall be determined without regard to subsections (b) through (<i>l</i>) of section 203 of the Social Security Act, and without regard to the requirement that an application for such benefit be filed.
 
 (B) A reduction under this subsection—
 
@@ -46,7 +46,7 @@
 
 (2)(A) Subject to subparagraph (B), reductions under this subsection shall be made in a manner consistent with the manner in which reductions under subsection (a) are computed and otherwise made.
 
-(B) Reductions under this subsection shall be discontinued if, or for so long as, entitlement tothe similar benefits under title II of the Social Security Act (as referred to in paragraph (1)) is terminated (or, in the case of an individual who has not made proper application therefor, would be terminated).
+(B) Reductions under this subsection shall be discontinued if, or for so long as, entitlement to the similar benefits under title II of the Social Security Act (as referred to in paragraph (1)) is terminated (or, in the case of an individual who has not made proper application therefor, would be terminated).
 
 (3) For the purpose of applying section 224 of the Social Security Act to the disability insurance benefit used to compute the reduction under this subsection, the amount of the CSRS annuity considered shall be the amount of the CSRS annuity before application of this section.
 
@@ -76,9 +76,9 @@ Section 101 of the Social Security Amendments of 1983 \[Pub. L. 98–21\], refer
 
 #### Amendments
 
-<b>1988</b>—Subsec. (d). Pub. L. 100–238 added subsec. (d).
+1988—Subsec. (d). Pub. L. 100–238 added subsec. (d).
 
-<b>1986</b>—Subsec. (c). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
+1986—Subsec. (c). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
 #### Effective Date of 1988 Amendment
 

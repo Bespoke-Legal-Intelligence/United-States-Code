@@ -10,7 +10,7 @@ The Secretary may designate any discrete area of the marine environment as a nat
 
 &emsp;&emsp;(A) the area is of special national significance due to its resource or human-use values;
 
-&emsp;&emsp;(B) existing State and Federal authorities are inadequate or should be supplemented toensure coordinated and comprehensive conservation and management of the area, including resource protection, scientific research, and public education;
+&emsp;&emsp;(B) existing State and Federal authorities are inadequate or should be supplemented to ensure coordinated and comprehensive conservation and management of the area, including resource protection, scientific research, and public education;
 
 &emsp;&emsp;(C) designation of the area as a national marine sanctuary will facilitate the objectives in subparagraph (B); and
 
@@ -72,7 +72,7 @@ Subsec. (b)(3). Pub. L. 102–587, §2103(b)(2), substituted “1434(a)(2)” fo
 
 #### Abolition of House Committee on Merchant Marine and Fisheries
 
-Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction transferred by House Resolution No. 6, One HundredFourth Congress, Jan. 4, 1995. Committee on Merchant Marine and Fisheries of House of Representatives treated as referring to Committee on Resources of House of Representatives in case of provisions relating to fisheries, wildlife, international fishing agreements, marine affairs (including coastal zone management) except for measures relating to oil and other pollution of navigable waters, or oceanography by section 1(b)(3) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction transferred by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. Committee on Merchant Marine and Fisheries of House of Representatives treated as referring to Committee on Resources of House of Representatives in case of provisions relating to fisheries, wildlife, international fishing agreements, marine affairs (including coastal zone management) except for measures relating to oil and other pollution of navigable waters, or oceanography by section 1(b)(3) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 Marine Sanctuaries
 
@@ -86,11 +86,15 @@ Fagatele Bay National Marine Sanctuary.—51 F.R. 15878, Apr. 29, 1986; 15 C.F.R
 
 Florida Keys National Marine Sanctuary.—Pub. L. 101–605, Nov. 16, 1990, 104 Stat. 3089, as amended by Pub. L. 102–587, title II, §§2206, 2209, Nov. 4, 1992, 106 Stat. 5053, 5054.
 
-Flower Garden Banks National Marine Sanctuary.—56 F.R. 63634, Dec. 5, 1991; 60 F.R. 10312, Feb. 24, 1995; 15 C.F.R. part 922, subpart L; Pub. L. 100–627, title II, §205(a)(2), Nov. 7, 1988, 102 Stat. 3217; Pub. L. 102–251, title I, §101, Mar. 9, 1992, 106 Stat. 60.
+Flower Garden Banks National Marine Sanctuary.—56 F.R. 63634, Dec. 5, 1991; 60 F.R. 10312, Feb. 24, 1995; 15 C.F.R. part 922, subpart L; Pub. L. 100–627, title II, §205(a)(2), Nov. 7, 1988, 102 Stat. 3217; Pub. L. 102–251, title I, §101, Mar. 9, 1992, 106 Stat. 60; Pub. L. 104–283, §8, Oct. 11, 1996, 110 Stat. 3366.
+
+Gerry E. Studds Stellwagen Bank National Marine Sanctuary (former Stellwagen Bank National Marine Sanctuary).—58 F.R. 53865, Oct. 19, 1993; 59 F.R. 53348, Oct. 24, 1994; 15 C.F.R. 922, subpart N; Pub. L. 102–587, title II, §2202, Nov. 4, 1992, 106 Stat. 5048; Pub. L. 104–283, §§9(g), 11, Oct. 11, 1996, 110 Stat. 3368, 3369.
 
 Gray's Reef National Marine Sanctuary.—46 F.R. 7942, Jan. 26, 1981; 15 C.F.R. part 922, subpart I.
 
-Hawaiian Islands Humpback Whale National Marine Sanctuary.—Pub. L. 102–587, title II, subtitle C, §§2301–2307, Nov. 4, 1992, 106 Stat. 5055–5059.
+Gulf of the Farallones National Marine Sanctuary (former Point Reyes-Farallon Islands National Marine Sanctuary).—46 F.R. 7936, Jan. 26, 1981; 15 C.F.R. part 922, subpart H; 62 F.R. 3788, Jan. 27, 1997.
+
+Hawaiian Islands Humpback Whale National Marine Sanctuary.—Pub. L. 102–587, title II, subtitle C, §§2301–2308, Nov. 4, 1992, 106 Stat. 5055–5059; Pub. L. 104–283, §7, Oct. 11, 1996, 110 Stat. 3365.
 
 Key Largo National Marine Sanctuary.—41 F.R. 2379, Jan. 16, 1976; 48 F.R. 55118, Dec. 9, 1983; 15 C.F.R. part 929.
 
@@ -102,9 +106,9 @@ Monterey Bay National Marine Sanctuary.—57 F.R. 43310, Sept. 18, 1992; 15 C.F.
 
 Olympic Coast National Marine Sanctuary.—59 F.R. 24586, May 11, 1994; 15 C.F.R. 922, subpart O; Pub. L. 100–627, title II, §205(a)(4), Nov. 7, 1988, 102 Stat. 3217; Pub. L. 102–587, title II, §2207, Nov. 4, 1992, 106 Stat. 5053.
 
-Point Reyes-Farallon Islands \[also known as Gulf of the Farallones\] National Marine Sanctuary.—46 F.R. 7936, Jan. 26, 1981; 15 C.F.R. part 922, subpart H.
+#### Northwest Straits
 
-Stellwagen Bank National Marine Sanctuary.—58 F.R. 53865, Oct. 19, 1993; 59 F.R. 53348, Oct. 24, 1994; 15 C.F.R. 922, subpart N; Pub. L. 102–587, title II, §2202, Nov. 4, 1992, 106 Stat. 5048.
+Pub. L. 104–283, §10, Oct. 11, 1996, 110 Stat. 3368, provided that: “No designation of an area in the Northwest Straits in the State of Washington as a national marine sanctuary under the National Marine Sanctuaries Act \[16 U.S.C. 1431 et seq.\] shall take effect unless that designation is specifically authorized by a law enacted after the date of enactment of this Act \[Oct. 11, 1996\].”
 
 #### Section Referred to in Other Sections
 

@@ -46,23 +46,24 @@
 
 |  |  |
 | :--- | ---: |
-| [390\.](Subchapter%20003%20%28III%29%20-%20Research%20Facilities/%C2%A7%2000390%20-%20Congressional%20declaration%20of%20policy.md) | Congressional declaration of policy. |
-| [390a.](Subchapter%20003%20%28III%29%20-%20Research%20Facilities/%C2%A7%2000390a%20-%20Congressional%20declaration%20of%20purpose.md) | Congressional declaration of purpose. |
-| [390b.](Subchapter%20003%20%28III%29%20-%20Research%20Facilities/%C2%A7%2000390b%20-%20Definitions.md) | Definitions. |
-| [390c.](Subchapter%20003%20%28III%29%20-%20Research%20Facilities/%C2%A7%2000390c%20-%20Administration.md) | Administration. |
-| (a) | Authorization of appropriations. |
-| (b) | Limitation on amount of grant; funding from non-Federal sources. |
-| (c) | Rules and regulations. |
-| [390d.](Subchapter%20003%20%28III%29%20-%20Research%20Facilities/%C2%A7%2000390d%20-%20Eligibility%20for%20payments%3B%20facility%20proposals.md) | Eligibility for payments; facility proposals. |
-| [390e.](Subchapter%20003%20%28III%29%20-%20Research%20Facilities/%C2%A7%2000390e%20-%20Repealed.%20Pub.%20L.%2099%E2%80%93198%2C%20title%20XIV%2C%20%C2%A71411%28f%29%2C%20Dec.%2023%2C%201985%2C%2099%20Stat.%201548.md) | Repealed. |
-| [390f.](Subchapter%20003%20%28III%29%20-%20Research%20Facilities/%C2%A7%2000390f%20-%20Multiple-purpose%20equipment%20and%20physical%20facilities%3B%20fund%20support%20basis.md) | Multiple-purpose equipment and physical facilities; fund support basis. |
-| [390g.](Subchapter%20003%20%28III%29%20-%20Research%20Facilities/%C2%A7%2000390g%20-%20Repealed.%20Pub.%20L.%2099%E2%80%93198%2C%20title%20XIV%2C%20%C2%A71411%28h%29%2C%20Dec.%2023%2C%201985%2C%2099%20Stat.%201548.md) | Repealed. |
-| [390h.](Subchapter%20003%20%28III%29%20-%20Research%20Facilities/%C2%A7%2000390h%20-%20Fiscal%20accountability.md) | Fiscal accountability. |
-| (a) | Chief administrative officers; fiscal officers; duties; reports. |
-| (b) | Diminution, loss, or misapplication of funds. |
-| [390i.](Subchapter%20003%20%28III%29%20-%20Research%20Facilities/%C2%A7%2000390i%20-%20Repealed.%20Pub.%20L.%20104%E2%80%9366%2C%20title%20I%2C%20%C2%A71011%28w%29%2C%20Dec.%2021%2C%201995%2C%20109%20Stat.%20711.md) | Repealed. |
-| [390j.](Subchapter%20003%20%28III%29%20-%20Research%20Facilities/%C2%A7%2000390j%20-%20Availability%20of%20appropriated%20funds%20for%20administration.md) | Availability of appropriated funds for administration. |
-| [390k.](Subchapter%20003%20%28III%29%20-%20Research%20Facilities/%C2%A7%2000390k%20-%20Repealed.%20Pub.%20L.%2095%E2%80%93113%2C%20title%20XIV%2C%20%C2%A71416%282%29%2C%20Sept.%2029%2C%201977%2C%2091%20Stat.%20994.md) | Repealed. |
+| [390\.](Subchapter%20003%20%28III%29%20-%20Research%20Facilities/%C2%A7%2000390%20-%20Definitions.md) | Definitions. |
+| [390a.](Subchapter%20003%20%28III%29%20-%20Research%20Facilities/%C2%A7%2000390a%20-%20Review%20process.md) | Review process. |
+| (a) | Submission to Secretary. |
+| (b) | Application process. |
+| (c) | Criteria for approval. |
+| (d) | Evaluation of proposals. |
+| [390b.](Subchapter%20003%20%28III%29%20-%20Research%20Facilities/%C2%A7%2000390b%20-%20Task%20force%20on%2010-year%20strategic%20plan%20for%20agricultural%20research%20facilities.md) | Task force on 10-year strategic plan for agricultural research facilities. |
+| (a) | Establishment. |
+| (b) | Composition. |
+| (c) | Duties. |
+| (d) | 10-year strategic plan. |
+| (e) | Applicability of Federal Advisory Committee Act. |
+| (f) | “Agricultural research facility” defined. |
+| [390c.](Subchapter%20003%20%28III%29%20-%20Research%20Facilities/%C2%A7%2000390c%20-%20Applicability%20of%20Federal%20Advisory%20Committee%20Act.md) | Applicability of Federal Advisory Committee Act. |
+| [390d.](Subchapter%20003%20%28III%29%20-%20Research%20Facilities/%C2%A7%2000390d%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+| (a) | In general. |
+| (b) | Allowable administrative costs. |
+| 390e to 390k. Repealed or Omitted. |  |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

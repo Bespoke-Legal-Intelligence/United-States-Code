@@ -66,7 +66,7 @@ Definitions.—As used in this section—
 
 &emsp;“(1) the term ‘identified employee’ means an employee identified by the Librarian of Congress as an employee who (with respect to each of the thirteen pay periods immediately before the first pay period to which the amendments made by section 1 apply) is designated by the Librarian for police duty, at the rank of private, and receives additional pay for Sunday work or night work under section 5544 or section 5545 of title 5, United States Code; and
 
-&emsp;“(2) the term ‘prior law’ means the first section of the Act entitled ‘An Act relating to the policing of the buildings and grounds of the Library of Congress’, approved August 4, 1950 (2 U.S.C. 167), as in effect immediately before the first pay period to which the amendments made by section 1 apply.”
+&emsp;“(2) the term ‘prior law’ means the first section of the Act entitled ‘An Act relating to the policing ofthe buildings and grounds of the Library of Congress’, approved August 4, 1950 (2 U.S.C. 167), as in effect immediately before the first pay period to which the amendments made by section 1 apply.”
 
 #### Section Referred to in Other Sections
 

@@ -6,7 +6,7 @@
 
 (2) If a private landowner consents to the inclusion in an agreement of the stipulations provided in subsections (b)(1), (b)(2), (b)(4), (b)(5), and (b)(7) of this section, and if such owner does not insist on any additional terms which are unacceptable to the Secretary or the State, as appropriate, the owner shall be entitled to enter into an agreement pursuant to this section. If an agreement is not executed within one hundred and twenty days of the date on which a private landowner communicates in writing his consent to the stipulations referred to in the preceding sentence, the appropriate Secretary or State agency head shall execute an agreement. Upon such execution, the private owner shall receive the benefits provided in subsection (c) hereof.
 
-(3) No agreement under this section shall be construed as affecting any land, or any right orinterest in land, of any owner not a party to such agreement.
+(3) No agreement under this section shall be construed as affecting any land, or any right or interest in land, of any owner not a party to such agreement.
 
 #### (b) Terms of agreement
 
@@ -40,7 +40,7 @@ Each agreement referred to in subsection (a) of this section shall have an initi
 
 #### (d) Automatic protections for lands conveyed pursuant to Alaska Native Claims Settlement Act
 
-(1)(A) Notwithstanding any other provision of law or doctrine of equity, all land and interests in land in Alaska conveyed by the Federal Government pursuant to the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\] to a Native individual or Native Corporation or subsequently reconveyed by a Native Corporation pursuant to section 39 of that Act \[43 U.S.C. 1629e\] to a Settlement Trust shall be exempt, so long as such land and interests are not developed or leased or sold to third parties from—
+(1)(A) Notwithstanding any other provision of law or doctrine of equity, all land and interests in land in Alaska conveyed by the Federal Government pursuant to the Alaska Native ClaimsSettlement Act \[43 U.S.C. 1601 et seq.\] to a Native individual or Native Corporation or subsequently reconveyed by a Native Corporation pursuant to section 39 of that Act \[43 U.S.C. 1629e\] to a Settlement Trust shall be exempt, so long as such land and interests are not developed or leased or sold to third parties from—
 
 &emsp;(i) adverse possession and similar claims based upon estoppel;
 
@@ -174,7 +174,7 @@ Subsec. (c). Pub. L. 100–241, §11(3), amended subsec. (c) generally, changing
 
 Pub. L. 100–241, §11(1), substituted “subsection (d)(1) of this section” for “subsection (c)(2) of this section” in pars. (3) and (4)(A).
 
-Subsec. (d). Pub. L. 100–241, §11(3), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “Notwithstanding any other provision of this section, unless the landowner decides otherwise, the benefits specified in subsection (d)(1) of this section shall apply to lands conveyed pursuant to the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\], or sections 1631 and 1632 of this title for a period of three years from the date of conveyance or December 2, 1980, whichever is later: <i>Provided</i>, That this subsection shall not apply to any lands which on December 2, 1980, are the subject of a mortgage, pledge or other encumbrance.”
+Subsec. (d). Pub. L. 100–241, §11(3), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “Notwithstanding any other provision of this section, unless the landowner decides otherwise, the benefits specified in subsection (d)(1) of this section shall apply to lands conveyed pursuant to the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\],or sections 1631 and 1632 of this title for a period of three years from the date of conveyance or December 2, 1980, whichever is later: <i>Provided</i>, That this subsection shall not apply to any lands which on December 2, 1980, are the subject of a mortgage, pledge or other encumbrance.”
 
 Pub. L. 100–241, §11(1), substituted “subsection (d)(1) of this section” for “subsection (c)(2) of this section”.
 

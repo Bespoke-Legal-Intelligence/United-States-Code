@@ -22,7 +22,7 @@ As determined by the chairman of the committee referred to in subsection (c) of 
 
 &emsp;(C) The Under Secretary of Commerce for Technology.
 
-&emsp;(D) The Director of the Advanced Research Projects Agency.
+&emsp;(D) The Director of the Defense Advanced Research Projects Agency.
 
 &emsp;(E) The Director of the National Science Foundation.
 
@@ -42,7 +42,7 @@ The duties of the Institute shall include the following:
 
 &emsp;(4) Provision, upon the request of the Director of the Office of Science and Technology Policy, of technical support and assistance—
 
-&emsp;&emsp;(A) to the committees and panels of the President's Council of Advisers on Scienceand Technology that provide advice to the Executive branch on technology policy; and
+&emsp;&emsp;(A) to the committees and panels of the President's Council of Advisers on Science and Technology that provide advice to the Executive branch on technology policy; and
 
 &emsp;&emsp;(B) to the committees and panels of the Federal Coordinating Council for Science, Engineering, and Technology that are responsible for planning and coordinating activities of the Federal Government to advance the development of critical technologies and sustain and strengthen the technology base of the United States.
 
@@ -62,15 +62,17 @@ The committee shall submit to the President an annual report on the activities o
 
 (1) The Director of the National Science Foundation shall be the sponsor of the Institute.
 
-(2) The Director of the National Science Foundation, in consultation with the chairman of the committee, shall enter into a sponsoring agreement with respect to the Institute. The sponsoring agreement shall require that the Institute carry out such functions as the chairman of the committee may specify consistent with the duties referred to in subsection (d) of this section. The sponsoring agreement shall be consistent with the general requirements prescribed for such a sponsoring agreement by the Administrator for Federal Procurement Policy.
+(2) The Director of the National Science Foundation, in consultation with the chairman of the committee, shall enter into a sponsoring agreement with respect to the Institute. The sponsoring agreement shall require that the Institute carry out such functions as the chairman of the committee may specify consistent with the duties referred to in subsection (d) of this section. The sponsoring agreement shall be consistent with the general requirements prescribed forsuch a sponsoring agreement by the Administrator for Federal Procurement Policy.
 
-(Pub. L. 101–510, div. A, title VIII, §822, Nov. 5, 1990, 104 Stat. 1598; Pub. L. 102–25, title VII, §704(a)(5), Apr. 6, 1991, 105 Stat. 118; Pub. L. 102–190, div. A, title VIII, §822(c)(1), Dec. 5, 1991, 105 Stat. 1433; Pub. L. 103–160, div. A, title VIII, §803, Nov. 30, 1993, 107 Stat. 1701.)
+(Pub. L. 101–510, div. A, title VIII, §822, Nov. 5, 1990, 104 Stat. 1598; Pub. L. 102–25, title VII, §704(a)(5), Apr. 6, 1991, 105 Stat. 118; Pub. L. 102–190, div. A, title VIII, §822(c)(1), Dec. 5, 1991, 105 Stat. 1433; Pub. L. 103–160, div. A, title VIII, §803, Nov. 30, 1993, 107 Stat. 1701; Pub. L. 104–201, div. A, title X, §1073(e)(1)(C), Sept. 23, 1996, 110 Stat. 2658.)
 
 #### Codification
 
 Section was enacted as part of the National Defense Authorization Act for Fiscal Year 1991, and not as part of the National Science and Technology Policy, Organization, and Priorities Act of 1976 which comprises this chapter.
 
 #### Amendments
+
+1996—Subsec. (c)(1)(D). Pub. L. 104–201 inserted “Defense” before “Advanced Research Projects Agency”.
 
 1993—Subsec. (c). Pub. L. 103–160 amended heading and text of subsec. (c) generally. Prior to amendment, text consisted of pars. (1) to (4) relating to the composition, designation of chairman, terms of service, and meetings of the Operating Committee.
 

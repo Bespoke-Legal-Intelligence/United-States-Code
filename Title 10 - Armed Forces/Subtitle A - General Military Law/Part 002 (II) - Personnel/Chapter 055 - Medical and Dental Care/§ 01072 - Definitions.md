@@ -66,7 +66,7 @@ In this chapter:
 
 &emsp;&emsp;&emsp;(ii) who otherwise meets the requirements specified in paragraph (2)(D).
 
-(Added Pub. L. 85–861, §1(25)(B), Sept. 2, 1958, 72 Stat. 1446; amended Pub. L. 89–614, §2(1), Sept. 30, 1966, 80 Stat. 862; Pub. L. 89–718, §8(a), Nov. 2, 1966, 80 Stat. 1117; Pub. L. 96–513, title I, §115(b), title V, §511(34)(A), (35), (36), Dec. 12, 1980, 94 Stat. 2877, 2922, 2923; Pub. L. 97–252, title X, §1004(a), Sept. 8, 1982, 96 Stat. 737; Pub. L. 98–525, title VI, §645(a), Oct. 19, 1984, 98 Stat. 2548; Pub. L. 98–557, §19(1), Oct. 30, 1984, 98 Stat. 2869; Pub. L. 99–661, div. A, title VII, §701(b), Nov. 14, 1986, 100 Stat. 3898; Pub. L. 101–189, div. A, title VII, §731(a), Nov. 29, 1989, 103 Stat. 1481; Pub. L. 102–484, div. A, title VII, §706, Oct. 23, 1992, 106 Stat. 2433; Pub. L. 103–160, div. A, title VII, §702(a), Nov. 30, 1993, 107 Stat. 1686; Pub. L. 103–337, div. A, title VII, §701(a), Oct. 5, 1994, 108 Stat. 2797.)
+(Added Pub. L. 85–861, §1(25)(B), Sept. 2, 1958, 72 Stat. 1446; amended Pub. L. 89–614, §2(1), Sept. 30, 1966, 80 Stat. 862; Pub. L. 89–718, §8(a), Nov. 2, 1966, 80 Stat. 1117; Pub. L. 96–513, title I, §115(b), title V, §511(34)(A), (35), (36), Dec. 12, 1980, 94 Stat. 2877, 2922, 2923; Pub. L. 97–252, title X, §1004(a), Sept. 8, 1982, 96 Stat. 737; Pub. L. 98–525, title VI, §645(a), Oct. 19, 1984, 98 Stat. 2548; Pub. L. 98–557, §19(1), Oct. 30, 1984, 98 Stat. 2869; Pub. L. 99–661, div. A, title VII, §701(b), Nov. 14, 1986, 100 Stat. 3898; Pub. L. 101–189, div. A, title VII, §731(a), Nov. 29, 1989, 103 Stat. 1481; Pub. L. 102–484, div. A, title VII, §706, Oct. 23, 1992, 106 Stat. 2433; Pub. L. 103–160, div. A, title VII,§702(a), Nov. 30, 1993, 107 Stat. 1686; Pub. L. 103–337, div. A, title VII, §701(a), Oct. 5, 1994, 108 Stat. 2797.)
 
 Historical and Revision Notes
 
@@ -192,5 +192,5 @@ Section 645(c) of Pub. L. 98–525, as amended by Pub. L. 99–661, div. A, titl
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1040, 1060a, 1062, 1076, 1076a, 1078a, 1079, 1086, 1086a, 1481, 1490, 2114, 2147 of this title.
+This section is referred to in sections 1040, 1060a, 1062, 1076a, 1076c, 1078a, 1079, 1086, 1086a, 1481, 1490, 2114, 2147 of this title.
 

@@ -10,7 +10,7 @@ A trust shall not constitute a qualified trust under section 401(a) unless the p
 
 #### (2) Employer contributions
 
-&emsp;A plan satisfies the requirements of this paragraph if it satisfies the requirements of subparagraph (A), (B), or (C).
+&emsp;A plan satisfies the requirements of this paragraph if it satisfies the requirements of subparagraph (A) or (B).
 
 #### (A) 5-year vesting
 
@@ -22,27 +22,14 @@ A trust shall not constitute a qualified trust under section 401(a) unless the p
 
 &nbsp;
 
-| &nbsp; | &nbsp; |
+| <b>  Years of service:</b> | <b>The nonforfeitable percentage is:</b> |
 | :--- | ---: |
-| &nbsp; | The nonforfeitable |
-| &nbsp;&nbsp;Years of service: | percentage is: |
 | &nbsp;&nbsp;&nbsp;3 | 20&nbsp;&nbsp; |
+| &nbsp;&nbsp; |  |
 | &nbsp;&nbsp;&nbsp;4 | 40&nbsp;&nbsp; |
 | &nbsp;&nbsp;&nbsp;5 | 60&nbsp;&nbsp; |
 | &nbsp;&nbsp;&nbsp;6 | 80&nbsp;&nbsp; |
 | &nbsp;&nbsp;&nbsp;7 or more | 100\.&nbsp;&nbsp;&nbsp; |
-
-#### (C) Multiemployer plans
-
-&emsp;&emsp;A plan satisfies the requirements of this subparagraph if—
-
-&emsp;&emsp;&emsp;(i) the plan is a multiemployer plan (within the meaning of section 414(f)), and
-
-&emsp;&emsp;&emsp;(ii) under the plan—
-
-&emsp;&emsp;&emsp;&emsp;(I) an employee who is covered pursuant to a collective bargaining agreement described in section 414(f)(1)(B) and who has completed at least 10 years of service has a nonforfeitable right to 100 percent of the employee's accrued benefit derived from employer contributions, and
-
-&emsp;&emsp;&emsp;&emsp;(II) the requirements of subparagraph (A) or (B) are met with respect to employees not described in subclause (I).
 
 #### (3) Certain permitted forfeitures, suspensions, etc.
 
@@ -72,7 +59,7 @@ A trust shall not constitute a qualified trust under section 401(a) unless the p
 
 &emsp;&emsp;&emsp;(ii) Clause (i) shall not apply to a plan unless the plan provides that any accrued benefit forfeited under a plan provision described in such clause shall be restored upon repayment by the participant of the full amount of the withdrawal described in such clause plus, in the case of a defined benefit plan, interest. Such interest shall be computed on such amount at the rate determined for purposes of subsection (c)(2)(C) on the date of such repayment (computed annually from the date of such withdrawal). The plan provision required under this clause may provide that such repayment must be made (I) in the case of a withdrawal on account of separation from service, before the earlier of 5 years after the first date on which the participant is subsequently re-employed by the employer, or the close of the first period of 5 consecutive 1-year breaks in service commencing after the withdrawal; or (II) in the case of any other withdrawal, 5 years after the date of the withdrawal.
 
-&emsp;&emsp;&emsp;(iii) In the case of accrued benefits derived from employer contributions which accrued before September 2, 1974, a right to such accrued benefit derived from employer contributions shall not be treated as forfeitable solely because the plan provides that an amount of such accrued benefit may be forfeited on account of the withdrawal by the participant of an amount attributable to the benefit derived from mandatory contributions (as definedin subsection (c)(2)(C)) made by such participant before September 2, 1974 if such amount forfeited is proportional to such amount withdrawn. This clause shall not apply to any plan to which any mandatory contribution is made after September 2, 1974. The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this clause.
+&emsp;&emsp;&emsp;(iii) In the case of accrued benefits derived from employer contributions whichaccrued before September 2, 1974, a right to such accrued benefit derived from employer contributions shall not be treated as forfeitable solely because the plan provides that an amount of such accrued benefit may be forfeited on account of the withdrawal by the participant of an amount attributable to the benefit derived from mandatory contributions (as defined in subsection (c)(2)(C)) made by such participant before September 2, 1974 if such amount forfeited is proportional to such amount withdrawn. This clause shall not apply to any plan to which any mandatory contribution is made after September 2, 1974. The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this clause.
 
 &emsp;&emsp;&emsp;(iv) For purposes of this subparagraph, in the case of any class-year plan, a withdrawal of employee contributions shall be treated as a withdrawal of such contributions on a plan year by plan year basis in succeeding order of time.
 
@@ -142,7 +129,7 @@ A trust shall not constitute a qualified trust under section 401(a) unless the p
 
 #### (A) Definition of 1-year break in service
 
-&emsp;&emsp;For purposes of this paragraph, the term “1-year break in service” means a calendaryear, plan year, or other 12-consecutive-month period designated by the plan (and not prohibited under regulations prescribed by the Secretary of Labor) during which the participant has not completed more than 500 hours of service.
+&emsp;&emsp;For purposes of this paragraph, the term “1-year break in service” means a calendar year, plan year, or other 12-consecutive-month period designated by the plan (and not prohibited under regulations prescribed by the Secretary of Labor) during which the participant has not completed more than 500 hours of service.
 
 #### (B) 1 year of service after 1-year break in service
 
@@ -228,7 +215,7 @@ A trust shall not constitute a qualified trust under section 401(a) unless the p
 
 #### (B) Effect of certain distributions
 
-&emsp;&emsp;Notwithstanding paragraph (4), for purposes of determining the employee's accruedbenefit under the plan, the plan may disregard service performed by the employee with respect to which he has received—
+&emsp;&emsp;Notwithstanding paragraph (4), for purposes of determining the employee's accrued benefit under the plan, the plan may disregard service performed by the employee with respect to which he has received—
 
 &emsp;&emsp;&emsp;(i) a distribution of the present value of his entire nonforfeitable benefit if such distribution was in an amount (not more than $3,500) permitted under regulations prescribed by the Secretary, or
 
@@ -342,7 +329,7 @@ A trust shall not constitute a qualified trust under section 401(a) unless the p
 
 #### (E) First two years of service
 
-&emsp;&emsp;Notwithstanding subparagraphs (A), (B), and (C) of this paragraph, a plan shall not be treated as not satisfying the requirements of this paragraph solely because the accrual of benefits under the plan does not become effective until the employee has two continuous years of service. For purposes of this subparagraph, the term “years of service” has the meaning provided by section 410(a)(3)(A).
+&emsp;&emsp;Notwithstanding subparagraphs (A), (B), and (C) of this paragraph, a plan shall not betreated as not satisfying the requirements of this paragraph solely because the accrual of benefits under the plan does not become effective until the employee has two continuous years of service. For purposes of this subparagraph, the term “years of service” has the meaning provided by section 410(a)(3)(A).
 
 #### (F) Certain insured defined benefit plans
 
@@ -466,7 +453,7 @@ A trust shall not constitute a qualified trust under section 401(a) unless the p
 
 &emsp;&emsp;&emsp;&emsp;(I) at the rate of 120 percent of the Federal mid-term rate (as in effect under section 1274 for the 1st month of a plan year) for the period beginning with the 1st plan year to which subsection (a)(2) applies (by reason of the applicable effective date) and ending with the date on which the determination is being made, and
 
-&emsp;&emsp;&emsp;&emsp;(II) at the interest rate which would be used under the plan under section 417(e)(3) (as of the determination date) for the period beginning with the determination date and ending on the date on which the employee attains normal retirement age.
+&emsp;&emsp;&emsp;&emsp;(II) at the interest rate which would be used under the plan under section417(e)(3) (as of the determination date) for the period beginning with the determination date and ending on the date on which the employee attains normal retirement age.
 
 > &emsp;&emsp;For purposes of this subparagraph, the term “mandatory contributions” means amounts contributed to the plan by the employee which are required as a condition of employment, as a condition of participation in such plan, or as a condition of obtaining benefits under the plan attributable to employer contributions.
 
@@ -548,7 +535,7 @@ A trust shall not constitute a qualified trust under section 401(a) unless the p
 
 (2) A plan described in paragraph (1) shall be treated as meeting the requirements of this section, for purposes of section 401(a), if such plan meets the vesting requirements resulting from the application of sections 401(a)(4) and 401(a)(7) as in effect on September 1, 1974.
 
-(Added Pub. L. 93–406, title II, §1012(a), Sept. 2, 1974, 88 Stat. 901; amended Pub. L. 94–455, title XIX, §§1901(a)(62), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1774, 1834; Pub. L. 96–364, title II, §206, Sept. 26, 1980, 94 Stat. 1287; Pub. L. 98–397, title II, §202(b), (c), (d)(2), (e)(2), (3), (f), 205, title III, §301(a)(1), Aug. 23, 1984, 98 Stat. 1437, 1439, 1440, 1449, 1450; Pub. L. 99–509, title IX, §§9202(b), 9203(b)(2), Oct. 21, 1986, 100 Stat. 1977, 1979; Pub. L. 99–514, title XI, §§1113(a), (b), (d)(B), 1114(b)(10), 1139(a), title XVIII, §1898(a)(1)(A), (4)(A), (d)(1)(A), (2)(A), (f)(1)(A), Oct. 22, 1986, 100 Stat. 2446, 2447, 2451, 2487, 2941, 2943, 2955, 2956; Pub. L. 100–203, title IX, §9346(b), Dec. 22, 1987, 101 Stat. 1330–374; Pub. L. 100–647, title I, §1018(t)(8)(B), Nov. 10, 1988, 102 Stat. 3589; Pub. L. 101–239, title VII, §§7861(a)(5)(A), (6)(A), 7871(a)(1), (2), (b)(1), 7881(m)(1), Dec. 19, 1989, 103 Stat. 2430, 2435, 2443; Pub. L. 102–318, title V, §521(b)(44), July 3, 1992, 106 Stat. 313; Pub. L. 103–465, title VII, §767(a)(1), Dec. 8, 1994, 108 Stat. 5037.)
+(Added Pub. L. 93–406, title II, §1012(a), Sept. 2, 1974, 88 Stat. 901; amended Pub. L. 94–455, title XIX, §§1901(a)(62), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1774, 1834; Pub. L. 96–364, title II, §206, Sept. 26, 1980, 94 Stat. 1287; Pub. L. 98–397, title II, §202(b), (c), (d)(2), (e)(2), (3), (f), 205, title III, §301(a)(1), Aug. 23, 1984, 98 Stat. 1437, 1439, 1440, 1449, 1450; Pub. L. 99–509, title IX, §§9202(b), 9203(b)(2), Oct. 21, 1986, 100 Stat. 1977, 1979; Pub. L. 99–514, title XI, §§1113(a), (b), (d)(B), 1114(b)(10), 1139(a), title XVIII, §1898(a)(1)(A), (4)(A), (d)(1)(A), (2)(A), (f)(1)(A), Oct. 22, 1986, 100 Stat. 2446, 2447, 2451, 2487, 2941, 2943, 2955, 2956; Pub. L. 100–203, title IX, §9346(b), Dec. 22, 1987, 101 Stat. 1330–374; Pub. L. 100–647, title I, §1018(t)(8)(B), Nov. 10, 1988, 102 Stat. 3589; Pub. L. 101–239, title VII, §§7861(a)(5)(A), (6)(A), 7871(a)(1), (2), (b)(1), 7881(m)(1), Dec. 19, 1989, 103 Stat. 2430, 2435, 2443; Pub. L. 102–318, title V, §521(b)(44), July 3, 1992, 106 Stat. 313; Pub. L. 103–465, title VII, §767(a)(1), Dec. 8, 1994, 108 Stat. 5037; Pub. L. 104–188, title I, §1442(a), Aug. 20, 1996, 110 Stat. 1808.)
 
 #### References in Text
 
@@ -563,6 +550,18 @@ Section 4048 of such Act, referred to in subsec. (a)(4)(G)(ii), is classified to
 The Social Security Act, referred to in subsecs. (a)(9) and (b)(1)(G), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II of the Social Security Act is classified generally to subchapter II (§401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Amendments
+
+1996—Subsec. (a)(2). Pub. L. 104–188 substituted “subparagraph (A) or (B)” for “subparagraph (A), (B), or (C)” in introductory provisions and struck out subpar. (C) which read as follows: “
+
+Multiemployer plans.—A plan satisfies the requirements of this subparagraph if—
+
+&emsp;“(i) the plan is a multiemployer plan (within the meaning of section 414(f)), and
+
+&emsp;“(ii) under the plan—
+
+&emsp;&emsp;“(I) an employee who is covered pursuant to a collective bargaining agreement described in section 414(f)(1)(B) and who has completed at least 10 years of service has a nonforfeitable right to 100 percent of the employee's accrued benefit derived from employer contributions, and
+
+&emsp;&emsp;“(II) the requirements of subparagraph (A) or (B) are met with respect to employees not described in subclause (I).”
 
 1994—Subsec. (a)(11)(B). Pub. L. 103–465 reenacted subpar. (B) heading without change and amended text generally. Prior to amendment, text read as follows:
 
@@ -594,7 +593,7 @@ Subsec. (a)(8)(B). Pub. L. 101–239, §7871(b)(1), amended subpar. (B) generall
 
 &emsp;“(ii) in the case of a plan participant who commences participation in the plan within 5 years before attaining normal retirement age under the plan, the 5th anniversary of the time the plan participant commences participation in the plan, or
 
-&emsp;“(iii) in the case of a plan participant not described in clause (ii), the 10th anniversary of the time the plan participant commences participation in the plan.”
+&emsp;“(iii) in the case of a plan participant not described in clause (ii), the 10th anniversary of the time theplan participant commences participation in the plan.”
 
 Subsec. (b)(2)(B). Pub. L. 101–239, §7871(a)(1), redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows: “
 
@@ -660,7 +659,7 @@ Subsec. (d)(1)(A), (B). Pub. L. 99–514, §1114(b)(10), substituted “highly c
 
 Subsec. (d)(4). Pub. L. 99–514, §1113(b), repealed par. (4) which provided that a class year plan satisfied the requirements of subsec. (a)(2) if it provided that 100 percent of each employee's right to or derived from the contributions of the employer on his behalf with respect to any plan year were nonforfeitable not later than the end of the 5th plan year following the plan year for which such contributions were made.
 
-Pub. L. 99–514, §1898(a)(1)(A), substituted “Class-year” for “Class year” in heading and amended par. (4) generally. Prior to amendment, par. (4) read as follows: “The requirements of subsection (a)(2) shall be deemed to be satisfied in the case of a class year plan if such plan provides that 100 percent of each employee's right to or derived from the contributions of the employer on his behalf with respect to any plan year are nonforfeitable not later than the end of the 5th plan year following the plan year for which such contributions were made. For purposes of this section, the term ‘class year plan’ means a profit-sharing, stock bonus, or money purchase plan which provides for the separate nonforfeitability of employees’ rights to or derived from the contributions for each plan year.”
+Pub. L. 99–514, §1898(a)(1)(A), substituted “Class-year” for “Class year” in heading and amended par. (4) generally. Prior to amendment, par. (4) read as follows: “The requirements of subsection (a)(2) shall be deemed to be satisfied in the case of a class year plan if such plan provides that 100 percent of each employee's right to or derived from the contributions of the employer on his behalf with respect to any plan year are nonforfeitable not later than the end of the 5th plan year following the plan year for which such contributions were made. For purposes of this section, the term ‘class yearplan’ means a profit-sharing, stock bonus, or money purchase plan which provides for the separate nonforfeitability of employees’ rights to or derived from the contributions for each plan year.”
 
 Subsec. (d)(6)(C). Pub. L. 99–514, §1898(f)(1)(A), added subpar. (C).
 
@@ -696,9 +695,23 @@ Subsec. (e)(1)(C). Pub. L. 94–455, §1901(a)(62)(D), substituted reference to 
 
 Subsec. (e)(2). Pub. L. 94–455, §1901(a)(62)(E), substituted reference to Sept. 1, 1974, for reference to the date before the date of enactment of the Employee Retirement Income Security Act of 1974.
 
+#### Effective Date of 1996 Amendment
+
+Section 1442(c) of Pub. L. 104–188 provided that: “The amendments made by this section \[amending this section and section 1053 of Title 29, Labor\] shall apply to plan years beginning on or after the earlier of—
+
+&emsp;“(1) the later of—
+
+&emsp;&emsp;“(A) January 1, 1997, or
+
+&emsp;&emsp;“(B) the date on which the last of the collective bargaining agreements pursuant to which the plan is maintained terminates (determined without regard to any extension thereof after the date of the enactment of this Act \[Aug. 20, 1996\]), or
+
+&emsp;“(2) January 1, 1999.
+
+> Such amendments shall not apply to any individual who does not have more than 1 hour of service under the plan on or after the 1st day of the 1st plan year to which such amendments apply.”
+
 #### Effective Date of 1994 Amendment
 
-Section 767(d) of Pub. L. 103–465 provided that:
+Section 767(d) of Pub. L. 103–465, as amended by Pub. L. 104–188, title I, §1449(a), Aug. 20, 1996, 110 Stat. 1813, provided that:
 
 “(1)
 
@@ -714,7 +727,13 @@ Section 415.—
 
 &emsp;“(A)
 
-No reduction required.—An accrued benefit shall not be required to be reduced below the accrued benefit as of the last day of the last plan year beginning before January 1, 1995, merely because of the amendments made by subsection (b) \[amending section 415 of this title\].
+Exception.—A plan that was adopted and in effect before December 8, 1994, shall not be required to apply the amendments made by subsection (b) \[amending section 415 of this title\] with respect to benefits accrued before the earlier of—
+
+&emsp;&emsp;“(i) the later of the date a plan amendment applying the amendments made by subsection (b) is adopted or made effective, or
+
+&emsp;&emsp;“(ii) the first day of the first limitation year beginning after December 31, 1999.
+
+> &emsp;Determinations under section 415(b)(2)(E) of the Internal Revenue Code of 1986 before such earlier date shall be made with respect to such benefits on the basis of such section as in effect on December 7, 1994 (except that the modification made by section 1449(b) of the Small Business Job Protection Act of 1996 \[Pub. L. 104–188, amending section 415 of this title\] shall be taken into account), and the provisions of the plan as in effect on December 7, 1994, but only if such provisions of the plan meet the requirements of such section (as so in effect).
 
 &emsp;“(B)
 
@@ -732,7 +751,7 @@ Section 7871(a)(4) of Pub. L. 101–239 provided that: “The amendments made by
 
 Section 7871(b)(3) of Pub. L. 101–239 provided that: “The amendments made by this subsection \[amending this section and section 1002 of Title 29, Labor\] shall take effect as if included in the amendments made by section 9203 of the Omnibus Budget Reconciliation Act of 1986 \[Pub. L. 99–509\].”
 
-Amendment by section 7881(m)(1) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Pension Protection Act, Pub. L. 100–203, §§9302–9346, to which such amendment relates, see section 7882 of Pub. L. 101–239, set out as a note under section 401 of this title.
+Amendment by section 7881(m)(1) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Pension Protection Act, Pub. L. 100–203, §§9302–9346, to which such amendment relates,see section 7882 of Pub. L. 101–239, set out as a note under section 401 of this title.
 
 #### Effective Date of 1988 Amendment
 
@@ -838,9 +857,23 @@ Secretary of the Treasury or his delegate to issue before Feb. 1, 1988, final re
 
 Secretary of Labor, Secretary of the Treasury, and Equal Employment Opportunity Commission shall each issue before Feb. 1, 1988, final regulations to carry out amendments made by sections 9202 and 9203 of Pub. L. 99–509, see section 9204 of Pub. L. 99–509, set out as a note under section 623 of Title 29, Labor.
 
+#### Transitional Rule: Certain Plan Amendments Adopted or Effective On or Before August 20, 1996
+
+Section 1449(d) of Pub. L. 104–188 provided that: “In the case of a plan that was adopted and in effect before December 8, 1994, if—
+
+&emsp;“(1) a plan amendment was adopted or made effective on or before the date of the enactment of this Act \[Aug. 20, 1996\] applying the amendments made by section 767 of the Uruguay Round Agreements Act \[Pub. L. 103–465, see Effective Date of 1994 Amendment note set out above\], and
+
+&emsp;“(2) within 1 year after the date of the enactment of this Act \[Aug. 20, 1996\], a plan amendment is adopted which repeals the amendment referred to in paragraph (1),
+
+> the amendment referred to in paragraph (1) shall not be taken into account in applying section 767(d)(3)(A) of the Uruguay Round Agreements Act, as amended by subsection (a).”
+
 #### Plan Amendments Reflecting Amendments by Section 7881(m) of Pub. L. 101–239 Not Treated as Reducing Accrued Benefits
 
 For provisions directing that if during the period beginning Dec. 22, 1987, and ending June 21, 1988, a plan was amended to reflect the amendments by section 9346 of Pub. L. 100–203 and such plan is amended to reflect the amendments by section 7881(m) of Pub. L. 101–239, any plan amendments made to reflect the amendments by section 7881(m) of Pub. L. 101–239 shall not be treated as reducing accrued benefits for purposes of subsection (d)(6) of this section or section 1054(g) of Title 29, Labor, see section 7881(m)(3) of Pub. L. 101–239, set out as a note under section 1054 of Title 29.
+
+#### Plan Amendments Not Required Until January 1, 1998
+
+For provisions directing that if any amendments made by subtitle D \[§§1401–1465\] of title I of Pub. L. 104–188 require an amendment to any plan or annuity contract, such amendment shall not be required to be made before the first day of the first plan year beginning on or after Jan. 1, 1998, see section 1465 of Pub. L. 104–188, set out as a note under section 401 of this title.
 
 #### Plan Amendments Not Required Until January 1, 1994
 

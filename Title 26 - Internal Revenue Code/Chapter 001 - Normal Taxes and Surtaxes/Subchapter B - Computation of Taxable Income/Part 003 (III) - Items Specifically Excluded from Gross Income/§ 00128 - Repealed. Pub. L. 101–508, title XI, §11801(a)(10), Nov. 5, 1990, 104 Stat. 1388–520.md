@@ -2,7 +2,7 @@
 
 Section, added and amended Pub. L. 97–34, title III, §§301(a), 302(a), (d)(1), Aug. 13, 1981, 95 Stat. 267, 270, 274; Pub. L. 97–448, title I, §§103(a)(1), (5), (b), 109, Jan. 12, 1983, 96 Stat. 2374, 2375, 2391; Pub. L. 98–21, title I, §§121(f)(2), (g), 122(c)(3), (d), Apr. 20, 1983, 97 Stat. 84, 87; Pub. L. 98–369, div. A, title I, §16(a), July 18, 1984, 98 Stat. 505, related to interest on certain savings certificates.
 
-A prior section 128 was renumbered section 137 of this title.
+A prior section 128 was renumbered section 138 of this title.
 
 #### Savings Provision
 

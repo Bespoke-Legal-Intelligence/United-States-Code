@@ -34,7 +34,7 @@ Not later than July 15, 1994, the Landsat Program Management shall develop and s
 
 Not later than 12 months after submission of the Landsat 7 Data Policy Plan, required by subsection (c) of this section, and annually thereafter until the launch of Landsat 7, the Landsat Program Management, in consultation with representatives of appropriate United States Government agencies, shall prepare and submit a report to the Congress which—
 
-&emsp;(1) provides justification for the Landsat 7 data policy in terms of the civilian, national security, commercial, and foreign policy needs of the United States; and
+&emsp;(1) provides justification for the Landsat 7 data policy in terms of the civilian, nationalsecurity, commercial, and foreign policy needs of the United States; and
 
 &emsp;(2) provides justification for any elements of the Landsat 7 data policy which are not consistent with the provisions of subsection (a) of this section.
 

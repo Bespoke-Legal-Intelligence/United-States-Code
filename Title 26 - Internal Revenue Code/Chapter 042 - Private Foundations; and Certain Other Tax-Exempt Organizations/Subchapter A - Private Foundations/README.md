@@ -26,8 +26,6 @@ This subchapter is referred to in sections 4962, 7871 of this title.
 
 <i><sup>1</sup></i><i> Section numbers editorially supplied.</i>
 
-<i><sup>2</sup></i><i> So in original. Does not conform to subchapter heading.</i>
-
 
 ---
 

@@ -1,8 +1,8 @@
 ### §36. Salaries of Senators
 
-Salaries of Senators appointed to fill vacancies in the Senate shall commence on the day of their appointment and continue until their successors are elected and qualified: <i>Provided,</i> That when Senators have been elected during a sine die adjournment of the Senate to succeed appointees, the salaries of Senators so elected shall commence on the day following their election.
+Salaries of Senators appointed to fill vacancies in the Senate shall commence on the day of their appointment and continue until their successors are elected and qualified: <i>Provided</i>, That when Senators have been elected during a sinedie adjournment of the Senate to succeed appointees, the salaries of Senators so elected shall commence on the day following their election.
 
-Salaries of Senators elected during a session to succeed appointees shall commence on the day they qualify: <i>Provided,</i> That when Senators have been elected during a session to succeed appointees, but have not qualified, the salaries of Senators so elected shall commence on the day following the sine die adjournment of the Senate.
+Salaries of Senators elected during a session to succeed appointees shall commence on the day they qualify: <i>Provided</i>, That when Senators have been elected during a session to succeed appointees, but have not qualified, the salaries of Senators so elected shall commence on the day following the sine die adjournment of the Senate.
 
 When no appointments have been made the salaries of Senators elected to fill such vacancies shall commence on the day following their election.
 
@@ -16,7 +16,7 @@ R.S. §51.
 
 #### Amendments
 
-1935—Act Feb. 13, 1935, inserted proviso as to commencement of salaries of Senators elected during a sine die adjournment on day following their election and provision as to commencement of salaries of Senators elected during a session to succeed appointees on day they qualify but that upon failure to qualify their salaries are to commence on day following sine die adjournment of Senate and struck out provision that salaries of Senators elected to fill vacancies are to commence on day they qualify
+1935—Act Feb. 13, 1935, inserted proviso as to commencement of salaries of Senators elected during a sine die adjournment on day following their election and provision as to commencement of salaries of Senators elected during a session to succeed appointees on day they qualify but that upon failure to qualify their salaries are to commence on day following sine die adjournment of Senate and struck out provision that salaries of Senators elected to fill vacancies are to commence on day they qualify.
 
 1934—Act June 19, 1934, made nonsubstantive changes in grammar and punctuation.
 
@@ -24,7 +24,7 @@ R.S. §51.
 
 #### Constitutional Provisions
 
-The first section of amendment XX to the Constitution provides in part: “ \* \* \* the terms of Senators andRepresentatives \[shall end\] at noon on the 3d day of January, of the years in which such terms would have ended if this article had not been ratified; and the terms of their successors shall then begin.”
+The first section of amendment XX to the Constitution provides in part: “\* \* \* the terms of Senators and Representatives \[shall end\] at noon on the 3d day of January, of the years in which such terms would have ended if this article had not been ratified; and the terms of their successors shall then begin.”
 
 #### Cross References
 

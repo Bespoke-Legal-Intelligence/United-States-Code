@@ -6,13 +6,25 @@
 
 &emsp;(2) provide for the protection of the marine and coastal environment to prevent or minimize any adverse impact which might occur as a consequence of the development of such ports;
 
-&emsp;(3) protect the interests of the United States and those of adjacent coastal States in the location, construction, and operation of deepwater ports; and
+&emsp;(3) protect the interests of the United States and those of adjacent coastal States in the location, construction, and operation of deepwater ports;
 
-&emsp;(4) protect the rights and responsibilities of States and communities to regulate growth, determine land use, and otherwise protect the environment in accordance with law.
+&emsp;(4) protect the rights and responsibilities of States and communities to regulate growth, determine land use, and otherwise protect the environment in accordance with law;
+
+&emsp;(5) promote the construction and operation of deepwater ports as a safe and effective means of importing oil into the United States and transporting oil from the outer continental shelf <sup>1</sup> while minimizing tanker traffic and the risks attendant thereto; and
+
+&emsp;(6) promote oil production on the outer continental shelf by affording an economic andsafe means of transportation of outer continental shelf <sup>1</sup> oil to the United States mainland.
 
 (b) The Congress declares that nothing in this chapter shall be construed to affect the legal status of the high seas, the superjacent airspace, or the seabed and subsoil, including the Continental Shelf.
 
-(Pub. L. 93–627, §2, Jan. 3, 1975, 88 Stat. 2126.)
+(Pub. L. 93–627, §2, Jan. 3, 1975, 88 Stat. 2126; Pub. L. 104–324, title V, §502(b), Oct. 19, 1996, 110 Stat. 3925.)
+
+#### Amendments
+
+1996—Subsec. (a)(5), (6). Pub. L. 104–324 added pars. (5) and (6).
+
+#### Short Title of 1996 Amendment
+
+Section 501 of title V of Pub. L. 104–324 provided that: “This title \[amending this section and sections 1502 to 1504, 1507, and 1509 of this title, repealing section 1506 of this title, and enacting provisions set out as a note under this section\] may be cited as the ‘Deepwater Port Modernization Act’.”
 
 #### Short Title of 1984 Amendment
 
@@ -22,6 +34,18 @@ Pub. L. 98–419, §1, Sept. 25, 1984, 98 Stat. 1607, provided: “That this Act
 
 Section 1 of Pub. L. 93–627 provided: “That this Act \[enacting this chapter and amending section 1333 of Title 43, Public Lands\] may be cited as the ‘Deepwater Port Act of 1974’.”
 
+#### Congressional Purposes for 1996 Amendments
+
+Section 502(a) of title V of Pub. L. 104–324 provided that: “The purposes of this title \[see Short Title of 1996 Amendment note above\] are to—
+
+&emsp;“(1) update and improve the Deepwater Port Act of 1974 \[33 U.S.C. 1501 et seq.\];
+
+&emsp;“(2) assure that the regulation of deepwater ports is not more burdensome or stringent than necessary in comparison to the regulation of other modes of importing or transporting oil;
+
+&emsp;“(3) recognize that deepwater ports are generally subject to effective competition from alternative transportation modes and eliminate, for as long as a port remains subject to effective competition, unnecessary Federal regulatory oversight or involvement in the ports’ business and economic decisions; and
+
+&emsp;“(4) promote innovation, flexibility, and efficiency in the management and operation of deepwater ports by removing or reducing any duplicative, unnecessary, or overly burdensome Federal regulations or license provisions.”
+
 #### Deposit of Certain Penalties Into Oil Spill Liability Trust Fund
 
 Penalties paid pursuant to this chapter and sections 1319(c) and 1321 of this title to be deposited in the Oil Spill Liability Trust Fund created under section 9509 of Title 26, Internal Revenue Code, see section 4304 of Pub. L. 101–380, set out as a note under section 9509 of Title 26.
@@ -29,4 +53,6 @@ Penalties paid pursuant to this chapter and sections 1319(c) and 1321 of this ti
 #### Environmental Effects Abroad of Major Federal Actions
 
 For provisions relating to environmental effects abroad of major Federal actions, see Ex. Ord. No. 12114, Jan. 4, 1979, 44 F.R. 1957, set out as a note under section 4321 of Title 42, The Public Health and Welfare.
+
+<i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

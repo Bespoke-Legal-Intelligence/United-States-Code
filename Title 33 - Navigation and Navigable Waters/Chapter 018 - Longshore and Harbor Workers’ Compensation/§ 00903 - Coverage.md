@@ -14,7 +14,7 @@ No compensation shall be payable if the injury was occasioned solely by the into
 
 #### (d) Small vessels
 
-(1) No compensation shall be payable to an employee employed at a facility of an employer if, as certified by the Secretary, the facility is engaged in the business of building, repairing, or dismantling exclusively small vessels (as defined in paragraph (3) of this subsection), unless the injury occurs while upon the navigable waters of the United States or while upon any adjoining pier, wharf, dock, facility over land for launching vessels, or facility over land for hauling, lifting, or drydocking vessels.
+(1) No compensation shall be payable to an employee employed at a facility of an employer if, as certified by the Secretary, the facility is engaged in the business of building, repairing, or dismantling exclusively small vessels (as defined in paragraph (3) of this subsection), unless the injury occurs while upon the navigable waters of the United States or while upon any adjoiningpier, wharf, dock, facility over land for launching vessels, or facility over land for hauling, lifting, or drydocking vessels.
 
 (2) Notwithstanding paragraph (1), compensation shall be payable to an employee—
 
@@ -26,15 +26,17 @@ No compensation shall be payable if the injury was occasioned solely by the into
 
 &emsp;(A) a commercial barge which is under 900 lightship displacement tons; or
 
-&emsp;(B) a commercial tugboat, towboat, crew boat, supply boat, fishing vessel, or other work vessel which is under 1,600 tons gross.
+&emsp;(B) a commercial tugboat, towboat, crew boat, supply boat, fishing vessel, or other work vessel which is under 1,600 tons gross as measured under section 14502 of title 46, or an alternate tonnage measured under section 14302 of that title as prescribed by the Secretary under section 14104 of that title.
 
 #### (e) Credit for benefits paid under other laws
 
 Notwithstanding any other provision of law, any amounts paid to an employee for the same injury, disability, or death for which benefits are claimed under this chapter pursuant to any other workers’ compensation law or section 688 of title 46, Appendix (relating to recovery for injury to or death of seamen), shall be credited against any liability imposed by this chapter.
 
-(Mar. 4, 1927, ch. 509, §3, 44 Stat. 1426; Oct. 27, 1972, Pub. L. 92–576, §§2(c), 21, 86 Stat. 1251, 1265; Sept. 28, 1984, Pub. L. 98–426, §3, 98 Stat. 1640.)
+(Mar. 4, 1927, ch. 509, §3, 44 Stat. 1426; Oct. 27, 1972, Pub. L. 92–576, §§2(c), 21, 86 Stat. 1251, 1265; Sept. 28, 1984, Pub. L. 98–426, §3, 98 Stat. 1640; Oct. 19, 1996, Pub. L. 104–324, title VII, §703, 110 Stat. 3933.)
 
 #### Amendments
+
+1996—Subsec. (d)(3)(B). Pub. L. 104–324 inserted before period at end “as measured under section 14502 of title 46, or an alternate tonnage measured under section 14302 of that title as prescribed by the Secretary under section 14104 of that title”.
 
 1984—Subsec. (a). Pub. L. 98–426, §3(a), inserted introductory language relating to exceptions provided for elsewhere in this section, redesignated existing par. (1) as subsec. (b), and struck out existing par. (2) which had excepted from coverage masters and crew members or persons engaged by such masters or crew members to load, unload, or repair vessels under 18 tons net.
 

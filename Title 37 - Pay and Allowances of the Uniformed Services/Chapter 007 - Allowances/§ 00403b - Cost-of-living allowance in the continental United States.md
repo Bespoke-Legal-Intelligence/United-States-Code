@@ -88,7 +88,7 @@ Other Definitions.—In this section:
 
 &emsp;(5) The term “administering Secretaries” means the following:
 
-&emsp;&emsp;(A) The Secretary of Defense, with respect to the armed forces (other than the CoastGuard when it is not operating as a service in the Navy).
+&emsp;&emsp;(A) The Secretary of Defense, with respect to the armed forces (other than the Coast Guard when it is not operating as a service in the Navy).
 
 &emsp;&emsp;(B) The Secretary of Transportation, with respect to the Coast Guard when it is not operating as a service in the Navy.
 

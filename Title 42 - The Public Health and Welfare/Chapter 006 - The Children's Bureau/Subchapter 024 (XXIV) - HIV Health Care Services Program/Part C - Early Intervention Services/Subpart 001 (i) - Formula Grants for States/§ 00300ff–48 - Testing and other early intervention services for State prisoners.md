@@ -78,15 +78,15 @@ The Secretary may not make a grant under subsection (a) of this section unless t
 
 The Secretary may not make a grant under subsection (a) of this section unless an application for the grant is submitted to the Secretary and the application is in such form, is made in such manner, and contains such agreements, assurances, and information as the Secretary determines to be necessary to carry out this section.
 
-#### (g) <sup>1</sup> Rule of construction
+#### (g) Rule of construction
 
 With respect to testing inmates of State prisons for HIV disease without the consent of the inmates, the agreements made under this section may not be construed to authorize, prohibit, or require any State to conduct such testing, except as provided in subparagraphs (A) and (B) of subsection (c)(1) of this section.
 
-#### (g) <sup>1</sup> Authorization of appropriations
+#### (h) Authorization of appropriations
 
 To carry out this section, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 1988 through 1995.
 
-(July 1, 1944, ch. 373, title XXVI, §2648, formerly Pub. L. 100–607, title IX, §902, Nov. 4, 1988, 102 Stat. 3171; amended Pub. L. 100–690, title II, §2605(a), Nov. 18, 1988, 102 Stat. 4234; renumbered §2648 and amended Aug. 18, 1990, Pub. L. 101–381, title III, §301(b), 104 Stat. 614.)
+(July 1, 1944, ch. 373, title XXVI, §2648, formerly Pub. L. 100–607, title IX, §902, Nov. 4, 1988, 102 Stat. 3171; amended Pub. L. 100–690, title II, §2605(a), Nov. 18, 1988, 102 Stat. 4234; renumbered §2648 and amended Aug. 18, 1990, Pub. L. 101–381, title III, §301(b), 104 Stat. 614; May 20, 1996, Pub. L. 104–146, §12(c)(5), 110 Stat. 1374.)
 
 #### Codification
 
@@ -94,15 +94,23 @@ Section was formerly classified to section 300ee–6 of this title prior to renu
 
 #### Amendments
 
+1996—Pub. L. 104–146, §12(c)(5)(A), made technical amendment to section catchline.
+
+Subsecs. (g), (h). Pub. L. 104–146, §12(c)(5)(B), redesignated subsec. (g) relating to authorization of appropriations as (h).
+
 1990—Pub. L. 101–381, §301(b)(1), renumbered section 300ee–6 of this title as this section.
 
 Pub. L. 101–381, §301(b)(4), substituted “and other early intervention services for” for “of” in section catchline.
 
 Subsecs. (a) to (f). Pub. L. 101–381, §301(b)(3), substituted subsecs. (a) to (f) relating to grants for early intervention services for State prisoners, requirement of matching funds, testing of State prisoners, determination of prisons subject to requirement, applicability of provisions regarding informed consent, counseling, and other matters, and requirement of application for grants, for former subsecs. (a) to (f) relating to testing of State prisoners, requirement of confidentiality of testing, education and counseling through prison medical facilities of individuals tested, funding, and promulgation of regulations.
 
-Subsec. (g). Pub. L. 101–381, §301(b)(2), (3), added subsec. (g) relating to rule of construction and substituted“1995” for “1990” in subsec. (g) relating to authorization of appropriations.
+Subsec. (g). Pub. L. 101–381, §301(b)(2), (3), added subsec. (g) relating to rule of construction and substituted “1995” for “1990” in subsec. (g) relating to authorization of appropriations.
 
 1988—Subsecs. (c), (d)(3)(B)(i). Pub. L. 100–690 substituted “the etiologic agent for acquired immune deficiency syndrome” for “the human immunodeficiency virus”.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–146 effective Oct. 1, 1996, see section 13 of Pub. L. 104–146, set out as a note under section 300ff–11 of this title.
 
 #### Effective Date of 1988 Amendment
 
@@ -119,6 +127,4 @@ Section 901 of title IX of Pub. L. 100–607 provided that: “This title \[enac
 #### Study by Attorney General; Report to Congress
 
 Section 903 of title IX of Pub. L. 100–607, as amended by Pub. L. 100–690, title II, §2605(b), Nov. 18, 1988, 102 Stat. 4234, directed Attorney General of the United States to complete, not later than Nov. 5, 1989, a study and submit a report to appropriate committees of Congress concerning appropriateness or inappropriateness of mandated prison sentences for any individual convicted of an intravenous drug or sex offense who thereafter knowingly places others at risk of becoming infected with the etiologic agent for acquired immune deficiency syndrome.
-
-<i><sup>1</sup></i><i> So in original. Two subsecs. (g) were enacted.</i>
 

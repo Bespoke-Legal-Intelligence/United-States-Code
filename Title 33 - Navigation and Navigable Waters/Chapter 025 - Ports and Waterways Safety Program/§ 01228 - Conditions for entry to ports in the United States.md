@@ -6,7 +6,7 @@ No vessel, subject to the provisions of chapter 37 of title 46, shall operate in
 
 &emsp;(1) has a history of accidents, pollution incidents, or serious repair problems which, as determined by the Secretary, creates reason to believe that such vessel may be unsafe or may create a threat to the marine environment; or
 
-&emsp;(2) fails to comply with any applicable regulation issued under this chapter, chapter 37 oftitle 46, or under any other applicable law or treaty; or
+&emsp;(2) fails to comply with any applicable regulation issued under this chapter, chapter 37 of title 46, or under any other applicable law or treaty; or
 
 &emsp;(3) discharges oil or hazardous material in violation of any law of the United States or in a manner or quantities inconsistent with the provisions of any treaty to which the United States is a party; or
 

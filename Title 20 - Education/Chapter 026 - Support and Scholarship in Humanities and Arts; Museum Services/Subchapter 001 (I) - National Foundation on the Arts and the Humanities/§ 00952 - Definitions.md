@@ -58,7 +58,7 @@ Subsec. (d)(2). Pub. L. 101–512, §318 \[title I, §102(b)(3)(B)\], which dire
 
 Subsecs. (h), (i). Pub. L. 101–512, §318 \[title I, §102(a)(2)\], added subsecs. (h) and (i).
 
-Subsecs. (j) to (<i>l</i>). Pub. L. 101–512, §318 \[title I, §102(c)\], added subsecs. (j) to (<i>l).</i>
+Subsecs. (j) to (<i>l</i>). Pub. L. 101–512, §318 \[title I, §102(c)\], added subsecs. (j) to (<i>l</i>).
 
 1985—Subsec. (a). Pub. L. 99–194, §103(1), substituted “study and interpretation of the following” for “study of the following” and inserted “to reflecting our diverse heritage, traditions, and history and” after “particular attention”.
 

@@ -23,7 +23,7 @@ MEASURES OF CAPACITY
 | <i>Metric denominations and values</i> | <i>Equivalents in denominations in use</i> |  |  |  |
 | :--- | :---: | :---: | :---: | ---: |
 | <i>Names</i> | <i>Number of liters</i> | <i>Cubic measure</i> | <i>Dry measure</i> | <i>Liquor or wine measure</i> |
-| Kiloliter, or stere. | 1,000 | 1 cubic meter | 1\.308 cubic yards. | 264\.17 gallons. |
+| Kiloliter, or stere | 1,000 | 1 cubic meter | 1\.308 cubic yards. | 264\.17 gallons. |
 | Hectoliter | 100 | 1/10 of a cubic meter. | 2 bushels and 3.35 pecks. | 26\.417 gallons. |
 | Dekaliter | 10 | 10 cubic decimeters. | 9\.08 quarts | 2\.6417 gallons. |
 | Liter | 1 | 1 cubic decimeter. | 0\.908 quart | 1\.0567 quarts. |
@@ -68,7 +68,7 @@ Federal Register (33 F.R. 10755, July 27, 1968), provided that:
 
 By virtue of the authority vested in the Secretary of Commerce by 15 U.S.C. 272 and delegated to the National Bureau of Standards by Department Order 90–A, the Bureau is charged with the responsibility for “The custody, maintenance, and development of the national standards of measurement, \* \* \*.” The method employed for disseminating information on weights and measures units has been through official National Bureau of Standards publications. However, all such units have never been listed together in any Federal legislation or in the
 
-Federal Register. On February 27, 1968, in the House Committee on Science and Astronautics Report No. 1107, accompanying H.R. 13058, legislation to repeal the Standard Container Act of August 31, 1916 (39 Stat. 673; 15 U.S.C. 251–256), and the Standard Container Act of May 21, 1928 (45 U.S.C. 685; 15 U.S.C. 257–257i), and amend the Fair Packaging and Labeling Act of November 3, 1966 (80 Stat. 1296; 15 U.S.C. 1451), the following Committee view was expressed:
+Federal Register. On February 27, 1968, in the House Committee on Science and Astronautics Report No. 1107, accompanying H.R. 13058, legislation to repeal the Standard Container Act of August 31, 1916 (39Stat. 673; 15 U.S.C. 251–256), and the Standard Container Act of May 21, 1928 (45 U.S.C. 685; 15 U.S.C. 257–257i), and amend the Fair Packaging and Labeling Act of November 3, 1966 (80 Stat. 1296; 15 U.S.C. 1451), the following Committee view was expressed:
 
 Testimony revealed that although, standard weights and measures are defined in publications by the Bureau of Standards, these definitions are not defined by law nor have they been published in the
 

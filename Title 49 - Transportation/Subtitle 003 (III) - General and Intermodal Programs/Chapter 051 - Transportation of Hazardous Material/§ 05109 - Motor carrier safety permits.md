@@ -60,7 +60,9 @@ Regulations.—The Secretary shall prescribe regulations necessary to carry out 
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

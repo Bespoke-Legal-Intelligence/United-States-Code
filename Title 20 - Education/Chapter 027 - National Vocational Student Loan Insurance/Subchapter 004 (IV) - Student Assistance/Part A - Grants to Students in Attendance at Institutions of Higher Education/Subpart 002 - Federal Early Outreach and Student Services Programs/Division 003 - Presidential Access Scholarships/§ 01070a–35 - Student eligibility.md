@@ -22,7 +22,7 @@ For the purpose of this division, the term “eligible student” does not inclu
 
 #### (2) Limited-English proficient students
 
-&emsp;The Secretary may waive the requirement described in section 1070a–33(a)(2)(E) of this title for any limited-English proficient student who is fluent in a language other than English and is participating in a program to teach such student the English language or for any English speaking student fluent in a second language.
+&emsp;The Secretary may waive the requirement described in section 1070a–33(a)(2)(E) of this title for any limited-English proficient student who is fluent in a language other thanEnglish and is participating in a program to teach such student the English language or for any English speaking student fluent in a second language.
 
 (Pub. L. 89–329, title IV, §406E, as added Pub. L. 102–325, title IV, §402(a)(4), July 23, 1992, 106 Stat. 498.)
 

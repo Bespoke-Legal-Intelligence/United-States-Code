@@ -14,7 +14,7 @@ Source: Section (U.S. Code) 46 App. U.S.C. 75, 77.
 
 Section 14512(a) requires the Secretary to prescribe regulations for regulatory measurement systems. It further provides that the regulations must allow for the determination of tonnages similar to those that could have been found under the existing law (46 App. U.S.C. 75 \& 77).
 
-Section 14512(b) authorizes the Secretary to attach an appendix to a vessel's register stating the measurement of spaces that may be deducted from the gross tonnage under laws and regulations of other countries but not under the laws of the United States.
+Section 14512(b) authorizes the Secretary to attach an appendix to a vessel's register stating the measurement of spaces that may be deducted from the gross tonnageunder laws and regulations of other countries but not under the laws of the United States.
 
 #### References in Text
 

@@ -10,13 +10,27 @@
 
 &emsp;Except as provided in paragraph (3), paragraph (1) shall not apply to the transfer of intangible property by a nonresident not a citizen of the United States.
 
-#### (3) Exceptions
+#### (3) Exception
 
-&emsp;Paragraph (2) shall not apply in the case of a donor who at any time after March 8, 1965, and within the 10-year period ending with the date of transfer lost United States citizenship unless—
+#### (A) Certain individuals
 
-&emsp;&emsp;(A) such donor's loss of United States citizenship resulted from the application of section 301(b), 350, or 355 <sup>1</sup> of the Immigration and Nationality Act, as amended (8 U.S.C. 1401(b), 1482, or 1487), or
+&emsp;&emsp;Paragraph (2) shall not apply in the case of a donor who, within the 10-year period ending with the date of transfer, lost United States citizenship, unless such loss did not have for one of its principal purposes the avoidance of taxes under this subtitle or subtitle A.
 
-&emsp;&emsp;(B) such loss did not have for one of its principal purposes the avoidance of taxes under this subtitle or subtitle A.
+#### (B) Certain individuals treated as having tax avoidance purpose
+
+&emsp;&emsp;For purposes of subparagraph (A), an individual shall be treated as having a principal purpose to avoid such taxes if such individual is so treated under section 877(a)(2).
+
+#### (C) Exception for certain individuals
+
+&emsp;&emsp;Subparagraph (B) shall not apply to a decedent meeting the requirements of section 877(c)(1).
+
+#### (D) Credit for foreign gift taxes
+
+&emsp;&emsp;The tax imposed by this section solely by reason of this paragraph shall be credited with the amount of any gift tax actually paid to any foreign country in respect of any gift which is taxable under this section solely by reason of this paragraph.
+
+#### (E) Cross reference
+
+&emsp;&emsp;<b>For comparable treatment of long-term lawful permanent residents who ceased to be taxed as residents, see section 877(e).</b>
 
 #### (4) Burden of proof
 
@@ -40,13 +54,17 @@ A donor who is a citizen of the United States and a resident of a possession the
 
 &emsp;&emsp;<b>(2) For exclusion of transfers of property outside the United States by a nonresident who is not a citizen of the United States, see section 2511(a).</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 403; Sept. 2, 1958, Pub. L. 85–866, title I, §§43(b), 102(b), 72 Stat. 1641, 1674; Sept. 14, 1960, Pub. L. 86–779, §4(d), 74 Stat. 1000; Nov. 13, 1966, Pub. L. 89–809, title I, §109(a), 80 Stat. 1574; Dec. 31, 1970, Pub. L. 91–614, title I, §102(a)(1), 84 Stat. 1838; Jan. 3, 1975, Pub. L. 93–625, §14(a), 88 Stat. 2121; Oct. 4, 1976, Pub. L. 94–455, title XIX, §§1902(a)(10), 1906(b)(13)(A), 90 Stat. 1805, 1834; Aug. 13, 1981, Pub. L. 97–34, title IV, §442(a)(1), 95 Stat. 320; Nov. 10, 1988, Pub. L. 100–647, title III, §3031(a)(2), 102 Stat. 3635; Nov. 5, 1990, Pub. L. 101–508, title XI, §11601(b)(2), 104 Stat. 1388–490.)
-
-#### References in Text
-
-Sections 301(b), 350, and 355 of the Immigration and Nationality Act, as amended (8 U.S.C. 1401(b), 1482, 1487), referred to in subsec. (a)(3)(A), were repealed by Pub. L. 95–432, §§1, 2, Oct. 10, 1978, 92 Stat. 1046.
+(Aug. 16, 1954, ch. 736, 68A Stat. 403; Sept. 2, 1958, Pub. L. 85–866, title I, §§43(b), 102(b), 72 Stat. 1641, 1674; Sept. 14, 1960, Pub. L. 86–779, §4(d), 74 Stat. 1000; Nov. 13, 1966, Pub. L. 89–809, title I, §109(a), 80 Stat. 1574; Dec. 31, 1970, Pub. L. 91–614, title I, §102(a)(1), 84 Stat. 1838; Jan. 3, 1975, Pub. L. 93–625, §14(a), 88 Stat. 2121; Oct. 4, 1976, Pub. L. 94–455, title XIX, §§1902(a)(10), 1906(b)(13)(A), 90 Stat. 1805, 1834; Aug. 13, 1981, Pub. L. 97–34, title IV, §442(a)(1), 95 Stat. 320; Nov. 10, 1988, Pub. L. 100–647, title III, §3031(a)(2), 102 Stat. 3635; Nov. 5, 1990, Pub. L. 101–508, title XI, §11601(b)(2), 104 Stat. 1388–490; Aug. 21, 1996, Pub. L. 104–191, title V, §511(e)(2), (f)(2)(B), 110 Stat. 2098, 2100.)
 
 #### Amendments
+
+1996—Subsec. (a)(3). Pub. L. 104–191, §511(e)(2), substituted “Exception” for “Exceptions” in heading and amended text generally. Prior to amendment, text readas follows: “Paragraph (2) shall not apply in the case of a donor who at any time after March 8, 1965, and within the 10-year period ending with the date of transfer lost United States citizenship unless—
+
+&emsp;“(A) such donor's loss of United States citizenship resulted from the application of section 301(b), 350, or 355 of the Immigration and Nationality Act, as amended (8 U.S.C. 1401(b), 1482, or 1487), or
+
+&emsp;“(B) such loss did not have for one of its principal purposes the avoidance of taxes under this subtitle or subtitle A.”
+
+Subsec. (a)(3)(E). Pub. L. 104–191, §511(f)(2)(B), added subpar. (E).
 
 1990—Subsec. (d)(3). Pub. L. 101–508 struck out par. (3) which read as follows: “For treatment of certain transfers related to estate tax valuation freezes as gifts to which this chapter applies, see section 2036(c)(4).”
 
@@ -64,7 +82,7 @@ Subsec. (a)(4). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegat
 
 Subsec. (a)(4). Pub. L. 91–614, §102(a)(1)(B), substituted “calendar quarter” for “calendar year”.
 
-1966—Subsec. (a). Pub. L. 89–809 redesignated existing provisions as par. (1), struck out “, except transfers of intangible property by a nonresident not a citizen ofthe United States and who was not engaged in business in the United States during such calendar year” after “resident or nonresident”, and added pars. (2) to (4).
+1966—Subsec. (a). Pub. L. 89–809 redesignated existing provisions as par. (1), struck out “, except transfers of intangible property by a nonresident not a citizen of the United States and who was not engaged in business in the United States during such calendar year” after “resident or nonresident”, and added pars. (2) to (4).
 
 1960—Subsec. (a). Pub. L. 86–779, §4(d)(2), struck out “who is” before “not a citizen”.
 
@@ -73,6 +91,10 @@ Subsecs. (c), (d). Pub. L. 86–779, §4(d)(1), added subsec. (c) and redesignat
 1958—Subsec. (b). Pub. L. 85–866, §102(b), added subsec. (b) and redesignated former subsec. (b) as (c).
 
 Subsec. (c). Pub. L. 85–866, §102(b), redesignated former subsec. (b) as (c) and Pub. L. 85–866, §43(b), made the heading read in the plural, designated existing provisions as par. (2) and added par. (1).
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–191 applicable to individuals losing United States citizenship on or after Feb. 6, 1995, and to long-term residents of the United States with respect to whom an event described in section 877(e)(1)(A) or (B) of this title occurs on or after Feb. 6, 1995, with special rule for certain individuals who performed an act of expatriation specified in section 1481(a)(1)–(4) of Title 8, Aliens and Nationality, before Feb. 6, 1995, see section 511(g) of Pub. L. 104–191, set out as a note under section 877 of this title.
 
 #### Effective Date of 1990 Amendment
 
@@ -136,7 +158,5 @@ Transfers, see section 2511 et seq. of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 305, 351, 2056A, 2502, 2505, 2511, 2523, 2661 of this title.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+This section is referred to in sections 305, 351, 877, 2056A, 2502, 2505, 2511, 2523, 2661 of this title.
 

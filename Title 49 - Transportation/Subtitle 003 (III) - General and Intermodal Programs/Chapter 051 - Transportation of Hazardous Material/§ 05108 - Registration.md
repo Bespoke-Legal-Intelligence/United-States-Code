@@ -16,7 +16,7 @@ Persons Required to File.—(1) A person shall file a registration statement wit
 
 (2) The Secretary of Transportation may require any of the following persons to file a registration statement with the Secretary under this subsection:
 
-&emsp;(A) a person transporting or causing to be transported hazardous material in commerceand not required to file a registration statement under paragraph (1) of this subsection.
+&emsp;(A) a person transporting or causing to be transported hazardous material in commerce and not required to file a registration statement under paragraph (1) of this subsection.
 
 &emsp;(B) a person manufacturing, fabricating, marking, maintaining, reconditioning, repairing, or testing a package or container the person represents, marks, certifies, or sells for use in transporting in commerce hazardous material the Secretary designates.
 
@@ -52,13 +52,13 @@ Cooperation With Administrator.—The Administrator of the Environmental Protect
 
 (f)
 
-Availability of Statements.—The Secretary of Transportation shall make a registration statement filed under subsection (a) of this section available for inspection by any person for a fee the Secretary establishes. However, this subsection does not require the release of information described in section 552(f) of title 5 or otherwise protected by law from disclosure to the public.
+Availability of Statements.—The Secretary of Transportation shall make a registration statement filed under subsection (a) of this section available for inspection by any person for a fee the Secretary establishes. However, this subsection does not require the release of information described in section 552(f) <sup>1</sup> of title 5 or otherwise protected by law from disclosure to the public.
 
 (g)
 
 Fees.—(1) The Secretary of Transportation may establish, impose, and collect from a person required to file a registration statement under subsection (a) of this section a fee necessary to pay for the costs of the Secretary in processing the statement.
 
-(2)(A) In addition to a fee established under paragraph (1) of this subsection, the Secretary of Transportation shall establish and impose by regulation and collect an annual fee. Subject to subparagraph (B) of this paragraph, the fee shall be at least $250 but not more than $5,000 from each person required to file a registration statement under this section. The Secretary shall determine the amount of the fee under this paragraph on at least one of the following:
+(2)(A) In addition to a fee established under paragraph (1) of this subsection, the Secretaryof Transportation shall establish and impose by regulation and collect an annual fee. Subject to subparagraph (B) of this paragraph, the fee shall be at least $250 but not more than $5,000 from each person required to file a registration statement under this section. The Secretary shall determine the amount of the fee under this paragraph on at least one of the following:
 
 &emsp;(i) gross revenue from transporting hazardous material.
 
@@ -98,7 +98,9 @@ Relationship to Other Laws.—(1) Chapter 35 of title 44 does not apply to an ac
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -146,7 +148,7 @@ Jan. 3, 1975, Pub. L. 93–633, 88 Stat. 2156, §106(c); added Nov. 16, 1990, Pu
 
 49 App.:1815(h) (1)–(5).
 
-Jan. 3, 1975, Pub. L. 93–633, 88 Stat. 2156, §117A(h)(1)–(5); added Nov. 16, 1990, Pub. L. 101–615, §17, 104 Stat. 3267.
+Jan. 3, 1975, Pub. L. 93–633, 88 Stat. 2156, §117A(h)(1)– (5); added Nov. 16, 1990, Pub. L. 101–615, §17, 104 Stat. 3267.
 
 5108(h)
 
@@ -181,4 +183,6 @@ Subsec. (g)(2)(A)(viii). Pub. L. 103–311, §119(d)(1), struck out “5107(e),�
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 5107, 5108, 5116, 5127 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be section 552(b).</i>
 

@@ -6,7 +6,7 @@ Any contract made for financial assistance under the United States Housing Act o
 
 #### References in Text
 
-The United States Housing Act of 1937, referred to in text, is act Sept. 1, 1937, ch. 896, as revised generally byPub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 653, which is classified generally to chapter 8 (§1437 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1437 of this title and Tables.
+The United States Housing Act of 1937, referred to in text, is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 653, which is classified generally to chapter 8 (§1437 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1437 of this title and Tables.
 
 Sections 2, 9, 10(a), and 11(a) of the United States Housing Act of 1937, referred to in text, is a reference to sections of the Act prior to the general revision of the Act by Pub. L. 93–383. The Act as so revised is classified to section 1437 et seq. of this title. Provisions of former sections 2, 9, and 10(a) are covered by sections 3, 4, and 5(a) of the Act which are classified to sections 1437a, 1437b, and 1437c(a) of this title.
 

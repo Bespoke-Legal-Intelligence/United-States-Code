@@ -11,7 +11,7 @@
 - [&sect; 01114 - Remedies; infringement; innocent infringement by printers and publishers](%C2%A7%2001114%20-%20Remedies%3B%20infringement%3B%20innocent%20infringement%20by%20printers%20and%20publishers.md)
 - [&sect; 01115 - Registration on principal register as evidence of exclusive right to use mark; defenses](%C2%A7%2001115%20-%20Registration%20on%20principal%20register%20as%20evidence%20of%20exclusive%20right%20to%20use%20mark%3B%20defenses.md)
 - [&sect; 01116 - Injunctive relief](%C2%A7%2001116%20-%20Injunctive%20relief.md)
-- [&sect; 01117 - Recovery for violation of rights; profits, damages and costs; attorney fees; treble damages](%C2%A7%2001117%20-%20Recovery%20for%20violation%20of%20rights%3B%20profits%2C%20damages%20and%20costs%3B%20attorney%20fees%3B%20treble%20damages.md)
+- [&sect; 01117 - Recovery for violation of rights](%C2%A7%2001117%20-%20Recovery%20for%20violation%20of%20rights.md)
 - [&sect; 01118 - Destruction of infringing articles](%C2%A7%2001118%20-%20Destruction%20of%20infringing%20articles.md)
 - [&sect; 01119 - Power of court over registration](%C2%A7%2001119%20-%20Power%20of%20court%20over%20registration.md)
 - [&sect; 01120 - Civil liability for false or fraudulent registration](%C2%A7%2001120%20-%20Civil%20liability%20for%20false%20or%20fraudulent%20registration.md)

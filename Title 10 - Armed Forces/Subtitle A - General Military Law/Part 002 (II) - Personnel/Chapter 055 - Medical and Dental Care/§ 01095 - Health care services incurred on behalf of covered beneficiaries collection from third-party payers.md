@@ -32,15 +32,15 @@
 
 &emsp;(4) such other method as may be appropriate.
 
-(g)(1) Amounts collected under this section from a third-party payer or under any other provision of law from any other payer for the costs of health care services provided at a facility of the uniformed services shall be credited to the appropriation supporting the maintenance and operation of the facility and shall not be taken into consideration in establishing the operating budget of the facility.
+(g)(1) Amounts collected under this section from a third-party payer or under any other provision of law from any other payer for the costs of health care services provided at or through a facility of the uniformed services shall be credited to the appropriation supporting the maintenance and operation of the facility and shall not be taken into consideration in establishing the operating budget of the facility.
 
 (2) Not later than February 15 of each year, the Secretary of Defense shall submit to Congress a report specifying for each facility of the uniformed services the amount credited to the facility under this subsection during the preceding fiscal year.
 
 (h) In this section:
 
-&emsp;(1) The term “third-party payer” means an entity that provides an insurance, medical service, or health plan by contract or agreement, including an automobile liability insurance or no fault insurance carrier. Such term also includes entities described in subsection (j) under the terms and to the extent provided in such subsection.
+&emsp;(1) The term “third-party payer” means an entity that provides an insurance, medical service, or health plan by contract or agreement, including an automobile liability insurance or no fault insurance carrier and a workers’ compensation program or plan. Such term also includes entities described in subsection (j) under the terms and to the extent provided in such subsection.
 
-&emsp;(2) The term “insurance, medical service, or health plan” includes a preferred provider organization and an insurance plan described as Medicare supplemental insurance.
+&emsp;(2) The term “insurance, medical service, or health plan” includes a preferred provider organization, an insurance plan described as Medicare supplemental insurance, and a personal injury protection plan or medical payments benefit plan for personal injuries resulting from the operation of a motor vehicle.
 
 &emsp;(3) The term “health care services” includes products provided or purchased through a facility of the uniformed services.
 
@@ -50,7 +50,17 @@
 
 (j) The Secretary of Defense may enter into an agreement with any health maintenance organization, competitive medical plan, health care prepayment plan, or other similar plan (pursuant to regulations issued by the Secretary) providing for collection under this section from such organization or plan for services provided to a covered beneficiary who is an enrollee in such organization or plan.
 
-(Added Pub. L. 99–272, title II, §2001(a)(1), Apr. 7, 1986, 100 Stat. 100; amended Pub. L. 101–189, div. A, title VII, §727(a), title XVI, §1622(e)(5), Nov. 29, 1989, 103 Stat. 1480, 1605; Pub. L. 101–510, div. A, title VII, §713(a)–(d)(2), Nov. 5, 1990, 104 Stat. 1583, 1584; Pub. L. 102–25, title VII, §701(j)(8), Apr. 6, 1991, 105 Stat. 116; Pub. L. 102–190, div. A, title VII, §714, Dec. 5, 1991, 105 Stat. 1403; Pub. L. 103–160, div. A, title VII, §713, Nov. 30, 1993, 107 Stat. 1689; Pub. L. 103–337, div. A, title VII, §714(b), title X, §1070(b)(6), Oct. 5, 1994, 108 Stat. 2802, 2857.)
+(k)(1) To improve the administration of this section and sections 1079(j)(1) and 1086(d) of this title, the Secretary of Defense, in consultation with the other administering Secretaries, may prescribe regulations providing for the collection of information regarding insurance, medical service, or health plans of third-party payers held by covered beneficiaries.
+
+(2) The collection of information under regulations prescribed under paragraph (1) shall be conducted in the same manner as is provided in section 1862(b)(5) of the Social Security Act (42 U.S.C. 1395y(b)(5)). The Secretary may provide for obtaining from the Commissioner of Social Security employment information comparable to the information provided to the Administrator of the Health Care Financing Administration pursuant to such section. Such regulations may require the mandatory disclosure of Social Security account numbers for all covered beneficiaries.
+
+(3) The Secretary may disclose relevant employment information collected under this subsection to fiscal intermediaries or other designated contractors.
+
+(4) The Secretary may provide for contacting employers of covered beneficiaries to obtain group health plan information comparable to the information authorized to be obtained under section 1862(b)(5)(C) of the Social Security Act (42 U.S.C. 1395y(b)(5)(C)). Notwithstanding clause (iii) of such section, clause (ii) of such section regarding the imposition of civil money penalties shall apply to the collection of information under this paragraph.
+
+(5) Information obtained under this subsection may not be disclosed for any purpose other than to carry out the purpose of this section and sections 1079(j)(1) and 1086(d) of this title.
+
+(Added Pub. L. 99–272, title II, §2001(a)(1), Apr. 7, 1986, 100 Stat. 100; amended Pub. L. 101–189, div. A, title VII, §727(a), title XVI, §1622(e)(5), Nov. 29, 1989, 103 Stat. 1480, 1605; Pub. L. 101–510, div. A, title VII, §713(a)–(d)(2), Nov. 5, 1990, 104 Stat. 1583, 1584; Pub. L. 102–25, title VII, §701(j)(8), Apr. 6, 1991, 105 Stat. 116; Pub. L. 102–190, div. A, title VII, §714, Dec. 5, 1991, 105 Stat. 1403; Pub. L. 103–160, div. A, title VII, §713, Nov. 30, 1993, 107 Stat. 1689; Pub. L. 103–337, div. A, title VII, §714(b), title X, §1070(b)(6), Oct. 5, 1994, 108 Stat. 2802, 2857; Pub. L. 104–106, div. A, title VII, §734, Feb. 10, 1996, 110 Stat. 381; Pub. L. 104–201, div. A, title VII, §735(a), (b), Sept. 23, 1996, 110 Stat. 2598.)
 
 #### References in Text
 
@@ -63,6 +73,14 @@ Public Law 87–693, referred to in subsec. (i)(2), is Pub. L. 87–693, Sept. 2
 Another section 1095 was renumbered section 1095a of this title.
 
 #### Amendments
+
+1996—Subsec. (g)(1). Pub. L. 104–201, §735(a), inserted “or through” after “provided at”.
+
+Subsec. (h)(1). Pub. L. 104–201, §735(b)(1), inserted “and a workers’ compensation program or plan” after “insurance carrier”.
+
+Subsec. (h)(2). Pub. L. 104–201, §735(b)(2), substituted “organization,” for “organization and” and inserted before period at end “, and a personal injury protection plan or medical payments benefit plan for personal injuries resulting from the operation of a motor vehicle”.
+
+Subsec. (k). Pub. L. 104–106 added subsec. (k).
 
 1994—Subsec. (b). Pub. L. 103–337, §714(b)(1), substituted “shall operate to prevent collection by the United States under subsection (a) if that care is provided—” and pars. (1) to (4) for “if that care is provided through a facility of the uniformed services shall operate to prevent collection by the United States under subsection (a).”
 
@@ -130,5 +148,5 @@ Section 2001(b) of Pub. L. 99–272 provided that: “Section 1095 of title 10, 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1086 of this title.
+This section is referred to in sections 1079, 1086 of this title.
 

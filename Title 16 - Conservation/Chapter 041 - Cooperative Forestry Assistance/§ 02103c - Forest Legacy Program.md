@@ -28,7 +28,7 @@ Not later than November 28, 1991, and in consultation with State Forest Stewards
 
 #### (f) Application
 
-For areas included in the Forest Legacy Program, an owner of lands or interests in lands who wishes to participate may prepare and submit an application at such time in such form and containing such information as the Secretary may prescribe. The Secretary shall give reasonable advance notice for the submission of all applications to the State forester, equivalent State official, or other appropriate State or regional natural resource management agency. If applications exceed the ability of the Secretary to fund them, priority shall be given to thoseforest areas having the greatest need for protection pursuant to the criteria described in subsection (e) of this section.
+For areas included in the Forest Legacy Program, an owner of lands or interests in lands who wishes to participate may prepare and submit an application at such time in such form and containing such information as the Secretary may prescribe. The Secretary shall give reasonable advance notice for the submission of all applications to the State forester, equivalent State official, or other appropriate State or regional natural resource management agency. If applications exceed the ability of the Secretary to fund them, priority shall be given to those forest areas having the greatest need for protection pursuant to the criteria described in subsection (e) of this section.
 
 #### (g) State consent
 
@@ -80,11 +80,25 @@ Under the terms of a conservation easement or other property interest acquired u
 
 &emsp;Notwithstanding any provision of State law, conservation easements shall be construed to effect the Federal purposes for which they were acquired and, in interpreting their terms, there shall be no presumption favoring the conservation easement holder or fee owner.
 
-#### (<i>l</i>) Appropriation
+#### (<i>l</i>) Optional State grants
+
+#### (1) In general
+
+&emsp;The Secretary shall, at the request of a participating State, provide a grant to the State to carry out the Forest Legacy Program in the State.
+
+#### (2) Administration
+
+&emsp;If a State elects to receive a grant under this subsection—
+
+&emsp;&emsp;(A) the Secretary shall use a portion of the funds made available under subsection (m) of this section, as determined by the Secretary, to provide a grant to the State; and
+
+&emsp;&emsp;(B) the State shall use the grant to carry out the Forest Legacy Program in the State, including the acquisition by the State of lands and interests in lands.
+
+#### (m) Appropriation
 
 There are authorized to be appropriated such sums as may be necessary to carry out this section.
 
-(Pub. L. 95–313, §7, as added Pub. L. 101–624, title XII, §1217, Nov. 28, 1990, 104 Stat. 3528; amended Pub. L. 102–237, title X, §1018(a)(2), Dec. 13, 1991, 105 Stat. 1905.)
+(Pub. L. 95–313, §7, as added Pub. L. 101–624, title XII, §1217, Nov. 28, 1990, 104 Stat. 3528; amended Pub. L. 102–237, title X, §1018(a)(2), Dec. 13, 1991, 105 Stat. 1905; Pub. L. 104–127, title III, §374, Apr. 4, 1996, 110 Stat. 1015.)
 
 #### References in Text
 
@@ -95,6 +109,8 @@ Public Law 100–446, referred to in subsec. (d)(2), is Pub. L. 100–446, Sept.
 A prior section 7 of Pub. L. 95–313 was renumbered section 10 and is classified to section 2106 of this title.
 
 #### Amendments
+
+1996—Subsecs. (<i>l</i>), (m). Pub. L. 104–127 added subsec. (<i>l</i>) and redesignated former subsec. (<i>l</i>) as (m).
 
 1991—Subsec. (d)(2). Pub. L. 102–237, §1018(a)(2)(A), substituted “November 28, 1991” for “1 year after November 28, 1990”.
 

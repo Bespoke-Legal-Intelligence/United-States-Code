@@ -42,7 +42,9 @@ Emergencies.—A train employee on the crew of a wreck or relief train may be al
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

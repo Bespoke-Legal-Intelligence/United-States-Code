@@ -64,7 +64,7 @@ Response costs and damages recovered by the Secretary under this section shall b
 
 &emsp;Amounts recovered under this section with respect to sanctuary resources lying within the jurisdiction of a State shall be used under paragraphs (2)(A) and (B) in accordance with the court decree or settlement agreement and an agreement entered into by the Secretary and the Governor of that State.
 
-(Pub. L. 92–532, title III, §312, as added Pub. L. 100–627, title II, §204(a), Nov. 7, 1988, 102 Stat. 3215; amended Pub. L. 102–587, title II, §§2107(d), 2110, Nov. 4, 1992, 106 Stat. 5044, 5045.)
+(Pub. L. 92–532, title III, §312, as added Pub. L. 100–627, title II, §204(a), Nov. 7, 1988, 102 Stat. 3215; amended Pub. L. 102–587, title II, §§2107(d), 2110, Nov. 4, 1992, 106 Stat. 5044, 5045; Pub. L. 104–283, §9(e), Oct. 11, 1996, 110 Stat. 3367.)
 
 #### References in Text
 
@@ -72,7 +72,9 @@ Sections 181 to 188 of title 46, Appendix, referred to in subsec. (a)(4), was in
 
 #### Amendments
 
-1992—Subsec. (a)(1). Pub. L. 102–587, §2110(a), amended par. (1) generally. Prior to amendment, par. (1) read asfollows: “
+1996—Subsec. (b)(1). Pub. L. 104–283 made technical amendment to directory language of Pub. L. 102–587, §2110(d). See 1992 Amendment note below.
+
+1992—Subsec. (a)(1). Pub. L. 102–587, §2110(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “
 
 In general.—Subject to paragraph (3), any person who destroys, causes the loss of, or injures any sanctuary resource is liable to the United States for response costs and damages resulting from such destruction, loss, or injury.”
 
@@ -80,7 +82,7 @@ Subsec. (a)(2). Pub. L. 102–587, §2110(b), inserted at end “The amount of t
 
 Subsec. (a)(4). Pub. L. 102–587, §2110(c), added par. (4).
 
-Subsec. (b)(1). Pub. L. 102–587, §2110(d), which directed the amendment of par. (1) “by inserting ‘or authorize’ of ‘undertake’ ”, was executed by inserting “or authorize” after “undertake”, to reflect the probable intent of Congress.
+Subsec. (b)(1). Pub. L. 102–587, §2110(d), as amended by Pub. L. 104–283, inserted “or authorize” after “undertake”.
 
 Subsec. (d). Pub. L. 102–587, §2107(d)(1), struck out “and civil penalties under section 1437 of this title” after “Secretary under this section”.
 

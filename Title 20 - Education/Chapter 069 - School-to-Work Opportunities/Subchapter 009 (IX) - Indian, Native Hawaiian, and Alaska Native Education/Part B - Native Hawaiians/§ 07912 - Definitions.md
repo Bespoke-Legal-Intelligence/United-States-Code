@@ -40,3 +40,7 @@ For the purposes of this part—
 
 (Pub. L. 89–10, title IX, §9212, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3805.)
 
+#### Section Referred to in Other Sections
+
+This section is referred to in title 25 section 2902.
+

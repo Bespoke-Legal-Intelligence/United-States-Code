@@ -57,7 +57,7 @@
 | :--- | ---: |
 | [8151\.](Subchapter%20004%20%28IV%29%20-%20Sharing%20of%20Medical%20Facilities%2C%20Equipment%2C%20and%20Information/%C2%A7%2008151%20-%20Statement%20of%20congressional%20purpose.md) | Statement of congressional purpose. |
 | [8152\.](Subchapter%20004%20%28IV%29%20-%20Sharing%20of%20Medical%20Facilities%2C%20Equipment%2C%20and%20Information/%C2%A7%2008152%20-%20Definitions.md) | Definitions. |
-| [8153\.](Subchapter%20004%20%28IV%29%20-%20Sharing%20of%20Medical%20Facilities%2C%20Equipment%2C%20and%20Information/%C2%A7%2008153%20-%20Specialized%20medical%20resources.md) | Specialized medical resources. |
+| [8153\.](Subchapter%20004%20%28IV%29%20-%20Sharing%20of%20Medical%20Facilities%2C%20Equipment%2C%20and%20Information/%C2%A7%2008153%20-%20Sharing%20of%20health-care%20resources.md) | Sharing of health-care resources. |
 | [8154\.](Subchapter%20004%20%28IV%29%20-%20Sharing%20of%20Medical%20Facilities%2C%20Equipment%2C%20and%20Information/%C2%A7%2008154%20-%20Exchange%20of%20medical%20information.md) | Exchange of medical information. |
 | [8155\.](Subchapter%20004%20%28IV%29%20-%20Sharing%20of%20Medical%20Facilities%2C%20Equipment%2C%20and%20Information/%C2%A7%2008155%20-%20Pilot%20programs%3B%20grants%20to%20medical%20schools.md) | Pilot programs; grants to medical schools. |
 | [8156\.](Subchapter%20004%20%28IV%29%20-%20Sharing%20of%20Medical%20Facilities%2C%20Equipment%2C%20and%20Information/%C2%A7%2008156%20-%20Coordination%20with%20health%20services%20development%20activities%20carried%20out%20under%20the%20National%20Health%20Planning%20and%20Resources%20Development%20Act%20of%E2%80%A6.md) | Coordination with health services development activities carried out under the National Health Planning and Resources Development Act of 1974. |
@@ -84,6 +84,8 @@
 
 #### Amendments
 
+1996—Pub. L. 104–262, title III, §301(d)(2), Oct. 9, 1996, 110 Stat. 3193, substituted “Sharing of health-care resources” for “Specialized medical resources” in item 8153.
+
 1994—Pub. L. 103–446, title XII, §1201(h)(5), (6), Nov. 2, 1994, 108 Stat. 4688, inserted “ENHANCED-USE” before “LEASES OF REAL” in chapter heading and “and certain other Federal agencies” after “Department” in item 8126.
 
 1992—Pub. L. 102–585, title VI, §603(a)(2), Nov. 4, 1992, 106 Stat. 4975, added item 8126.
@@ -94,7 +96,7 @@ Pub. L. 102–405, title I, §103(a)(2), Oct. 9, 1992, 106 Stat. 1975, added ite
 
 Pub. L. 102–83, §4(a)(3), (4), Aug. 6, 1991, 105 Stat. 404, substituted “Department and” for “Veterans’ Administration and” in item 8111.
 
-Pub. L. 102–54, §14(f)(1), June 13, 1991, 105 Stat. 287, amended the table of sections as in effect immediately before the enactment of Pub. L. 102–40 by transferring item 5016 so as to appear immediately after item 5015 and by substituting “payments” for “Payments” in item 5035.
+Pub. L. 102–54, §14(f)(1), June 13, 1991, 105 Stat. 287, amended the table of sections as in effect immediately before the enactment of Pub. L. 102–40 by transferringitem 5016 so as to appear immediately after item 5015 and by substituting “payments” for “Payments” in item 5035.
 
 Pub. L. 102–40, title IV, §402(c)(1), May 7, 1991, 105 Stat. 239, renumbered items 5001 to 5056 as 8101 to 8156, respectively.
 

@@ -32,7 +32,7 @@
 
 &emsp;&emsp;(i) a discharge or release from active duty for the convenience of the Government, as described in sections 3011(a)(1)(A)(ii)(II) and 3012(b)(1)(A)(iv) of this title;
 
-&emsp;&emsp;(ii) a discharge or release from active duty for a medical condition which preexistedservice on active duty and which the Secretary determines is not service connected, as described in clauses (A)(ii)(I) and (B)(ii)(I) of section 3011(a)(1) of this title and in section 3012(b)(1)(A)(ii) of this title;
+&emsp;&emsp;(ii) a discharge or release from active duty for a medical condition which preexisted service on active duty and which the Secretary determines is not service connected, as described in clauses (A)(ii)(I) and (B)(ii)(I) of section 3011(a)(1) of this title and in section 3012(b)(1)(A)(ii) of this title;
 
 &emsp;&emsp;(iii) an involuntary discharge or release from active duty for the convenience of the Government as a result of a reduction in force, as described in clauses (A)(ii)(III) and (B)(ii)(III) of section 3011(a)(1) of this title and in section 3012(b)(1)(A)(v) of this title; or
 
@@ -68,7 +68,7 @@
 
 (f) Nothing in this section shall be construed to deprive any person of any procedural rights, including any rights to assistance in applying for or claiming a benefit.
 
-(Added Pub. L. 97–66, title VI, §604(a)(1), Oct. 17, 1981, 95 Stat. 1035, §3103A; amended Pub. L. 97–306, title IV, §408(a), Oct. 14, 1982, 96 Stat. 1445; Pub. L. 99–576, title III, §321(11), Oct. 28, 1986, 100 Stat. 3278; Pub. L. 100–689, title I, §102(b)(3), Nov. 18, 1988, 102 Stat. 4163; Pub. L. 101–510, div. A, title V, §562(a)(4), Nov. 5, 1990, 104 Stat. 1574; renumbered §5303A, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, §§4(a)(1), (b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, 105 Stat. 403–406; Pub. L. 103–353, §3, Oct. 13, 1994, 108 Stat. 3169; Pub. L. 103–446, title IX, §908, Nov. 2, 1994, 108 Stat. 4678.)
+(Added Pub. L. 97–66, title VI, §604(a)(1), Oct. 17, 1981, 95 Stat. 1035, §3103A; amended Pub. L. 97–306, title IV, §408(a), Oct. 14, 1982, 96 Stat. 1445; Pub. L. 99–576, title III, §321(11), Oct. 28, 1986, 100 Stat. 3278; Pub. L. 100–689, title I, §102(b)(3), Nov. 18, 1988, 102 Stat. 4163; Pub. L.101–510, div. A, title V, §562(a)(4), Nov. 5, 1990, 104 Stat. 1574; renumbered §5303A, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, §§4(a)(1), (b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, 105 Stat. 403–406; Pub. L. 103–353, §3, Oct. 13, 1994, 108 Stat. 3169; Pub. L. 103–446, title IX, §908, Nov. 2, 1994, 108 Stat. 4678.)
 
 #### References in Text
 

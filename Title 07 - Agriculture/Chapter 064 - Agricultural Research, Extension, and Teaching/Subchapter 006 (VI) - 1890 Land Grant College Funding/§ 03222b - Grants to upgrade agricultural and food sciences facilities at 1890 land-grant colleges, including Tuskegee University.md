@@ -6,7 +6,7 @@ It is hereby declared to be the intent of Congress to assist the institutions el
 
 #### (b) Authorization of appropriations
 
-There are authorized to be appropriated to the Secretary of Agriculture for the purposes of carrying out the provisions of this section $8,000,000 for each of the fiscal years 1991 through 1995, and such sums shall remain available until expended.
+There are authorized to be appropriated to the Secretary of Agriculture for the purposes of carrying out the provisions of this section, $15,000,000 for each of fiscal years 1996 and 1997, and such sums shall remain available until expended.
 
 #### (c) Use of grant funds
 
@@ -24,7 +24,7 @@ Federal funds provided under this section may not be utilized for the payment of
 
 The Secretary may promulgate such rules and regulations as the Secretary may consider necessary to carry out the provisions of this section.
 
-(Pub. L. 95–113, title XIV, §1447, as added Pub. L. 101–624, title XVI, §1612(b), Nov. 28, 1990, 104 Stat. 3722.)
+(Pub. L. 95–113, title XIV, §1447, as added Pub. L. 101–624, title XVI, §1612(b), Nov. 28, 1990, 104 Stat. 3722; amended Pub. L. 104–127, title VIII, §813, Apr. 4, 1996, 110 Stat. 1166.)
 
 #### References in Text
 
@@ -33,4 +33,8 @@ Act of August 30, 1890, referred to in subsec. (a), is act Aug. 30, 1890, ch. 84
 #### Prior Provisions
 
 A prior section 1447 of Pub. L. 95–113, title XIV, Sept. 29, 1977, 91 Stat. 1011, amended sections 341 and 342 of this title, prior to repeal by Pub. L. 101–624, title XVI, §1601(f)(1)(D), Nov. 28, 1990, 104 Stat. 3704.
+
+#### Amendments
+
+1996—Subsec. (b). Pub. L. 104–127 substituted “, $15,000,000 for each of fiscal years 1996 and 1997” for “$8,000,000 for each of the fiscal years 1991 through 1995”.
 

@@ -10,7 +10,7 @@ Section 5014, Pub. L. 99–440, title I, §104, Oct. 2, 1986, 100 Stat. 1091; Pu
 
 Section 5015, Pub. L. 99–440, title I, §105, Oct. 2, 1986, 100 Stat. 1091; Pub. L. 99–631, §1(a)(6), Nov. 7, 1986, 100 Stat. 3516, stated sense of Congress as to Presidential discussions with “frontline” African states.
 
-Section 5016, Pub. L. 99–440, title I, §106, Oct. 2, 1986, 100 Stat. 1092; Pub. L. 99–631, §1(a)(7), Nov. 7, 1986, 100 Stat. 3516, stated United States policy toward negotiated settlement.
+Section 5016, Pub. L. 99–440, title I, §106, Oct. 2, 1986, 100 Stat. 1092; Pub. L. 99–631, §1(a)(7), Nov. 7, 1986, 100Stat. 3516, stated United States policy toward negotiated settlement.
 
 Section 5017, Pub. L. 99–440, title I, §107, Oct. 2, 1986, 100 Stat. 1093, stated congressional findings and policy toward international cooperation on measures to end apartheid.
 

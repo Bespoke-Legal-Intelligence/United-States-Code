@@ -22,7 +22,7 @@ In making his inspections and investigations under this chapter the Secretary ma
 
 #### (d) Obtaining of information
 
-Any information obtained by the Secretary, the Secretary of Health and Human Services, or a State agency under this chapter shall be obtained with a minimum burden upon employers,especially those operating small businesses. Unnecessary duplication of efforts in obtaining information shall be reduced to the maximum extent feasible.
+Any information obtained by the Secretary, the Secretary of Health and Human Services, or a State agency under this chapter shall be obtained with a minimum burden upon employers, especially those operating small businesses. Unnecessary duplication of efforts in obtaining information shall be reduced to the maximum extent feasible.
 
 #### (e) Employer and authorized employee representatives to accompany Secretary or his authorized representative on inspection of workplace; consultation with employees where no authorized employee representative is present
 
@@ -48,5 +48,5 @@ Subject to regulations issued by the Secretary, a representative of the employer
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 667, 669, 673 of this title; title 2 section 1341.
+This section is referred to in sections 667, 669, 673 of this title; title 2 section 1341; title 3 section 425.
 

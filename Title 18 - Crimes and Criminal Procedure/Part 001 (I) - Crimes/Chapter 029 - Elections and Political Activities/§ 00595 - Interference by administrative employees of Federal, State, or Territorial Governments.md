@@ -8,7 +8,7 @@ This section shall not prohibit or make unlawful any act by any officer or emplo
 
 #### Historical and Revision Notes
 
-Based on title 18, U.S.C., 1940 ed., §§61a, 61g, 61n, 61s, 61u (Aug. 2, 1939, 11:50 a.m., E.S.T., ch. 410, §§2, 8, 53Stat. 1147, 1148; July 19, 1940, ch. 640, §1, 54 Stat. 767; Aug. 2, 1939, ch. 410, §§14, 19, as added July 19, 1940, ch. 640, §4, 54 Stat. 767; Aug. 2, 1939, ch. 410, §21, as added Oct. 24, 1942, ch. 620, 56 Stat. 986).
+Based on title 18, U.S.C., 1940 ed., §§61a, 61g, 61n, 61s, 61u (Aug. 2, 1939, 11:50 a.m., E.S.T., ch. 410, §§2, 8, 53 Stat. 1147, 1148; July 19, 1940, ch. 640, §1, 54 Stat. 767; Aug. 2, 1939, ch. 410, §§14, 19, as added July 19, 1940, ch. 640, §4, 54 Stat. 767; Aug. 2, 1939, ch. 410, §21, as added Oct. 24, 1942, ch. 620, 56 Stat. 986).
 
 This section consolidates sections 61s, 61n, and 61g with 61a, all of title 18, U.S.C., 1940 ed., in first paragraph, and incorporates section 61u as second paragraph.
 

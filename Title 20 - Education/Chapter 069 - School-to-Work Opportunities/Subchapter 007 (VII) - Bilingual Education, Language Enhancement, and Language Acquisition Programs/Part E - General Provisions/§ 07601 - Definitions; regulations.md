@@ -40,7 +40,7 @@ Except as otherwise provided, for purposes of this subchapter—
 
 &emsp;&emsp;&emsp;(II) to provide instruction on how parents and family members can facilitate the educational achievement of their children;
 
-&emsp;&emsp;(ii) when feasible, uses instructional programs such as the models developed under the Even Start Family Literacy Programs,which promote adult literacy and train parents to support the educational growth of their children and the Parents as Teachers Program and the Home Instruction Program for Preschool Youngsters; and
+&emsp;&emsp;(ii) when feasible, uses instructional programs such as the models developed under the Even Start Family Literacy Programs, which promote adult literacy and train parents to support the educational growth of their children and the Parents as Teachers Program and the Home Instruction Program for Preschool Youngsters; and
 
 &emsp;&emsp;(iii) gives preference to participation by parents and immediate family members of children attending school.
 
@@ -66,7 +66,7 @@ Except as otherwise provided, for purposes of this subchapter—
 
 &emsp;&emsp;&emsp;(ii) is a Native American or Alaska Native or who is a native resident of the outlying areas and comes from an environment where a language other than English has had a significant impact on such individual's level of English language proficiency; or
 
-&emsp;&emsp;&emsp;(iii) is migratory and whose native language is other than English and comes from an environment where a language other than English is dominant; and
+&emsp;&emsp;&emsp;(iii) is migratory and whose native language is other than English and comesfrom an environment where a language other than English is dominant; and
 
 &emsp;&emsp;(B) who has sufficient difficulty speaking, reading, writing, or understanding the English language and whose difficulties may deny such individual the opportunity to learn successfully in classrooms where the language of instruction is English or to participate fully in our society.
 

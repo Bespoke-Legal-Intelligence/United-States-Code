@@ -36,7 +36,7 @@ In the case of the death of a taxpayer whose taxable income is computed under an
 
 #### (e) Dividends or interest paid on certain deposits or withdrawable accounts
 
-Except as provided in regulations prescribed by the Secretary, amounts paid to, or credited to the accounts of, depositors or holders of accounts as dividends or interest on their deposits or withdrawable accounts (if such amounts paid or credited are withdrawable on demand subject only to customary notice to withdraw) by a mutual savings bank not having capital stock represented by shares, a domestic building and loan association, or a cooperative bank shall not be allowed as a deduction for the taxable year to the extent such amounts are paid or credited for periods representing more than 12 months. Any such amount not allowed as a deduction as the result of the application of the preceding sentence shall be allowed as a deduction for such other taxable year as the Secretary determines to be consistent with the preceding sentence.
+Except as provided in regulations prescribed by the Secretary, amounts paid to, or creditedto the accounts of, depositors or holders of accounts as dividends or interest on their deposits or withdrawable accounts (if such amounts paid or credited are withdrawable on demand subject only to customary notice to withdraw) by a mutual savings bank not having capital stock represented by shares, a domestic building and loan association, or a cooperative bank shall not be allowed as a deduction for the taxable year to the extent such amounts are paid or credited for periods representing more than 12 months. Any such amount not allowed as a deduction as the result of the application of the preceding sentence shall be allowed as a deduction for such other taxable year as the Secretary determines to be consistent with the preceding sentence.
 
 #### (f) Contested liabilities
 
@@ -66,7 +66,7 @@ If—
 
 #### (2) Exception
 
-&emsp;This subsection shall not apply to points paid in respect of any indebtedness incurred inconnection with the purchase or improvement of, and secured by, the principal residence of the taxpayer to the extent that, under regulations prescribed by the Secretary, such payment of points is an established business practice in the area in which such indebtedness is incurred, and the amount of such payment does not exceed the amount generally charged in such area.
+&emsp;This subsection shall not apply to points paid in respect of any indebtedness incurred in connection with the purchase or improvement of, and secured by, the principal residence of the taxpayer to the extent that, under regulations prescribed by the Secretary, such payment of points is an established business practice in the area in which such indebtedness is incurred, and the amount of such payment does not exceed the amount generally charged in such area.
 
 #### (h) Certain liabilities not incurred before economic performance
 
@@ -160,7 +160,7 @@ If—
 
 #### (i) Tax shelter partnerships
 
-&emsp;&emsp;&emsp;In the case of a tax shelter which is a partnership, in applying section 704(d) to adeduction or loss for any taxable year attributable to an item which is deductible by reason of subparagraph (A), the term “cash basis” shall be substituted for the term “adjusted basis”.
+&emsp;&emsp;&emsp;In the case of a tax shelter which is a partnership, in applying section 704(d) to a deduction or loss for any taxable year attributable to an item which is deductible by reason of subparagraph (A), the term “cash basis” shall be substituted for the term “adjusted basis”.
 
 #### (ii) Other tax shelters
 
@@ -186,7 +186,7 @@ If—
 
 &emsp;&emsp;(B) any syndicate (within the meaning of section 1256(e)(3)(B)), and
 
-&emsp;&emsp;(C) any tax shelter (as defined in section 6662(d)(2)(C)(ii)).<sup>1</sup>
+&emsp;&emsp;(C) any tax shelter (as defined in section 6662(d)(2)(C)(iii)).
 
 #### (4) Special rules for farming
 
@@ -196,17 +196,17 @@ If—
 
 &emsp;For purposes of this subsection, the term “economic performance” has the meaning given such term by subsection (h).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 157; Sept. 14, 1960, Pub. L. 86–781, §6(a), 74 Stat. 1020; Oct. 24, 1962, Pub. L. 87–876, §3(a), 76 Stat. 1199; Feb. 26, 1964, Pub. L. 88–272, title II, §223(a)(1), 78 Stat. 76; Oct. 4, 1976, Pub. L. 94–455, title II, §208(a), title XIX, §§1901(a)(69), 1906(b)(13)(A), 90 Stat. 1541, 1775, 1834; July 18, 1984, Pub. L. 98–369, div. A, title I, §91(a), (e), 98 Stat. 598, 607; Oct. 22, 1986, Pub. L. 99–514, title VIII, §§801(b), 805(c)(5), 823(b)(1), title XVIII, §1807(a)(1), (2), 100 Stat. 2347, 2362, 2374, 2811; Dec. 22, 1987, Pub. L. 100–203, title X, §10201(b)(5), 101 Stat. 1330–387; Nov. 10, 1988, Pub. L. 100–647, title I, §§1008(a)(3), 1018(u)(5), 102 Stat. 3436, 3590; Dec. 19, 1989, Pub. L. 101–239, title VII, §7721(c)(10), 103 Stat. 2400; Nov. 5, 1990, Pub. L. 101–508, title XI, §11704(a)(5), 104 Stat. 1388–518.)
-
-#### References in Text
-
-Section 6662(d)(2)(C)(ii), referred to in subsec. (i)(3)(C), was redesignated section 6662(d)(2)(C)(iii) by Pub. L. 103–465, title VII, §744(a), Dec. 8, 1994, 108 Stat. 5011.
+(Aug. 16, 1954, ch. 736, 68A Stat. 157; Sept. 14, 1960, Pub. L. 86–781, §6(a), 74 Stat. 1020; Oct. 24, 1962, Pub. L. 87–876, §3(a), 76 Stat. 1199; Feb. 26, 1964, Pub. L. 88–272, title II, §223(a)(1), 78 Stat. 76; Oct. 4, 1976, Pub. L. 94–455, title II, §208(a), title XIX, §§1901(a)(69), 1906(b)(13)(A), 90 Stat. 1541, 1775, 1834; July 18, 1984, Pub. L. 98–369, div. A, title I, §91(a), (e), 98 Stat. 598, 607; Oct. 22, 1986, Pub. L. 99–514, title VIII, §§801(b), 805(c)(5), 823(b)(1), title XVIII, §1807(a)(1), (2), 100 Stat. 2347, 2362, 2374, 2811; Dec. 22, 1987, Pub. L. 100–203, title X, §10201(b)(5), 101 Stat. 1330–387; Nov. 10, 1988, Pub. L. 100–647, title I, §§1008(a)(3), 1018(u)(5), 102 Stat. 3436, 3590; Dec. 19, 1989, Pub. L. 101–239, title VII, §7721(c)(10), 103 Stat. 2400; Nov. 5, 1990, Pub. L. 101–508, title XI, §11704(a)(5), 104 Stat. 1388–518; Aug. 20, 1996, Pub. L. 104–188, title I, §1704(t)(24), (78), 110 Stat. 1888, 1891.)
 
 #### Amendments
 
+1996—Subsec. (i)(3)(C). Pub. L. 104–188, §1704(t)(78), substituted “section 6662(d)(2)(C)(iii)” for “section 6662(d)(2)(C)(ii)”.
+
+Pub. L. 104–188, §1704(t)(24), amended directory language of Pub. L. 101–239. See 1989 Amendment note below.
+
 1990—Subsec. (i)(3)(C). Pub. L. 101–508 amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “any tax shelter (within the meaning of section 6662(d)(2)(C)(ii)).”
 
-1989—Subsec. (i)(3)(C). Pub. L. 101–239, directed amendment of subpar. (C) by substituting “section 6662(d)(2)(C)(ii)” for “section 6662(b)(2)(C)(ii)”, which term did not appear. See 1990 Amendment note above.
+1989—Subsec. (i)(3)(C). Pub. L. 101–239, as amended by Pub. L. 104–188, §1704(t)(24), substituted “section 6662(d)(2)(C)(ii)” for “section 6661(b)(2)(C)(ii)”.
 
 1988—Subsec. (h)(5)(B), (C). Pub. L. 100–647, §1018(u)(5), amended Pub. L. 99–514, §823(b)(1). See 1986 Amendment note below.
 
@@ -334,7 +334,7 @@ to apply in certain cases.—Notwithstanding paragraph (1), section 461(h) of th
 
 &emsp;“(4)
 
-Effective date for treatment of mining and solid waste reclamation and closing costs.—Except as otherwise provided in subsection (h), the amendments made by subsection (b) \[enacting section468 of this title\] shall take effect on the date of the enactment of this Act \[July 18, 1984\] with respect to taxable years ending after such date.
+Effective date for treatment of mining and solid waste reclamation and closing costs.—Except as otherwise provided in subsection (h), the amendments made by subsection (b) \[enacting section 468 of this title\] shall take effect on the date of the enactment of this Act \[July 18, 1984\] with respect to taxable years ending after such date.
 
 &emsp;“(5)
 
@@ -454,7 +454,7 @@ Section 1807(c) of Pub. L. 99–514 provided that: “A taxpayer shall be allowe
 
 Section 223(c) of Pub. L. 88–272 provided that:
 
-“(1) The amendments made by subsection (a) \[amending this section and section 43 of the Internal Revenue Code of 1939\] shall not apply to any transfer of money or other property described in subsection (a) made in a taxable year beginning before January 1, 1964, if the taxpayer elects, in the manner provided by regulationsprescribed by the Secretary of the Treasury or his delegate, to have this paragraph apply. Such an election—
+“(1) The amendments made by subsection (a) \[amending this section and section 43 of the Internal Revenue Code of 1939\] shall not apply to any transfer of money or other property described in subsection (a) made in a taxable year beginning before January 1, 1964, if the taxpayer elects, in the manner provided by regulations prescribed by the Secretary of the Treasury or his delegate, to have this paragraph apply. Such an election—
 
 &emsp;“(A) must be made within one year after the date of the enactment of this Act \[Feb. 26, 1964\],
 
@@ -492,7 +492,5 @@ Time for filing returns, see sections 6072, 6081 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 164, 448, 468A, 468B of this title.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+This section is referred to in sections 164, 167, 448, 468A, 468B of this title.
 

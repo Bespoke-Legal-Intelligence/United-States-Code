@@ -18,8 +18,6 @@
 
 This chapter is referred to in sections 2101, 2102, 12501, 13102, 13103, 30101 of this title; section 1903 of Appendix to this title; title 16 sections 1802, 2432, 5502; title 19 section 1704; title 33 section 2602.
 
-<i><sup>1</sup></i><i> Another section 12123 is set out preceding this section.</i>
-
 
 ---
 

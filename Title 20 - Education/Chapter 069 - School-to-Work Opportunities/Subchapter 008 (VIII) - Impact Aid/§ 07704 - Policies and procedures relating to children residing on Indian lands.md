@@ -6,7 +6,7 @@ A local educational agency that claims children residing on Indian lands for the
 
 &emsp;(1) such children participate in programs and activities supported by such funds on an equal basis with all other children;
 
-&emsp;(2) parents of such children and Indian tribes are afforded an opportunity to present their views on such programs and activities, including an opportunity to make recommendations on the needs of those children and how the local educational agency may help such children realize the benefits of such programs and activities;
+&emsp;(2) parents of such children and Indian tribes are afforded an opportunity to present their views on such programs and activities, including an opportunity to make recommendations on the needs of those children and how thelocal educational agency may help such children realize the benefits of such programs and activities;
 
 &emsp;(3) parents and Indian tribes are consulted and involved in planning and developing such programs and activities;
 
@@ -70,11 +70,11 @@ The Secretary shall—
 
 #### (8) Withholding
 
-&emsp;If the local educational agency rejects the determination of the Secretary, or if the remedy required is not undertaken within the time established and the Secretary determines that an extension of the time established will not effectively encourage the remedy required, the Secretary shall withhold payment of all moneys to which such local agency is eligible under section 7703 of this title until such time as the remedy required is undertaken, except where the complaining tribe or its designee formally requests that such funds be released to the local educational agency, except that the Secretary may not withhold such moneys during the course of the school year if the Secretary determines that such withholding would substantially disrupt the educational programs of the local educational agency.
+&emsp;If the local educational agency rejects the determination of the Secretary, or if the remedy required is not undertaken within the time established and the Secretary determines that an extension of the time established will not effectively encourage the remedy required, the Secretary shall withhold payment of all moneys to which such local agency is eligible under section 7703 of this title until such time as the remedy required is undertaken, except where the complaining tribe or its designee formally requests that such funds be released to the local educational agency, except that the Secretary may not withhold such moneysduring the course of the school year if the Secretary determines that such withholding would substantially disrupt the educational programs of the local educational agency.
 
 #### (9) Rejection of determination
 
-&emsp;If the local educational agency rejects the determination of the Secretary and a tribe exercises the option under section 1101(d) of theEducation Amendments of 1978, to have education services provided either directly by the Bureau of Indian Affairs or by contract with the Bureau of Indian Affairs, any Indian students affiliated with that tribe who wish to remain in attendance at the local educational agency against whom the complaint which led to the tribal action under such subsection (d) of this section was lodged may be counted with respect to that local educational agency for the purpose of receiving funds under section 7703 of this title. In such event, funds under such section shall not be withheld pursuant to paragraph (8) and no further complaints with respect to such students may be filed under paragraph (1).
+&emsp;If the local educational agency rejects the determination of the Secretary and a tribe exercises the option under section 1101(d) of the Education Amendments of 1978, to have education services provided either directly by the Bureau of Indian Affairs or by contract with the Bureau of Indian Affairs, any Indian students affiliated with that tribe who wish to remain in attendance at the local educational agency against whom the complaint which led to the tribal action under such subsection (d) of this section was lodged may be counted with respect to that local educational agency for the purpose of receiving funds under section 7703 of this title. In such event, funds under such section shall not be withheld pursuant to paragraph (8) and no further complaints with respect to such students may be filed under paragraph (1).
 
 #### (f) Construction
 

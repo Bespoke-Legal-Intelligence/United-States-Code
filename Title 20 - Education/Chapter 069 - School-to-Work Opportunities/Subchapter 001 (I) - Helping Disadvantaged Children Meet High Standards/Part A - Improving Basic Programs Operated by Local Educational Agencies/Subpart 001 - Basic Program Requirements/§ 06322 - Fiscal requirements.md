@@ -2,15 +2,13 @@
 
 #### (a) Maintenance of effort
 
-A local educational agency may receive funds under this part for any fiscal year only if the State educational agency finds that the localeducational agency has maintained its fiscal effort in accordance with section 8891 of this title.
+A local educational agency may receive funds under this part for any fiscal year only if the State educational agency finds that the local educational agency has maintained its fiscal effort in accordance with section 8891 of this title.
 
 #### (b) Federal funds to supplement, not supplant, non-Federal funds
 
 #### (1) In general
 
-&emsp;(A) Except as provided in subparagraph (B), a State or local educational agency shall use funds received under this part only to supplement the amount of funds that would, in the absence of such Federal funds, be made available from non-Federal sources for the education of pupils participating in programs assisted under this part, and not to supplant such funds.
-
-&emsp;(B) For the purpose of complying with subparagraph (A), a State or local educational agency may exclude supplemental State and local funds expended in any eligible school attendance area or school for programs that meet the requirements of section 6314 or 6315 of this title.
+&emsp;A State or local educational agency shall use funds received under this part only to supplement the amount of funds that would, in the absence of such Federal funds, be made available from non-Federal sources for the education of pupils participating in programs assisted under this part, and not to supplant such funds.
 
 #### (2) Special rule
 
@@ -60,7 +58,17 @@ A local educational agency may receive funds under this part for any fiscal year
 
 &emsp;&emsp;(B) excess costs of providing services to children with disabilities as determined by the local educational agency.
 
-(Pub. L. 89–10, title I, §1120A, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3559.)
+#### (d) Exclusion of funds
+
+For the purpose of complying with subsections (b) and (c) of this section, a State or local educational agency may exclude supplemental State or local funds expended in any school attendance area or school for programs that meet the intent and purposes of this part.
+
+(Pub. L. 89–10, title I, §1120A, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3559; amended Pub. L. 104–134, title I, §101(b) \[title II, §2754\], Apr. 26, 1996, 110 Stat. 1321–77, 1321–150; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.)
+
+#### Amendments
+
+1996—Subsec. (b)(1). Pub. L. 104–134, §101(b) \[title II, §2754(1)\], substituted “A State” for “(A) Except as provided in subparagraph (B), a State” and struck out subpar. (B) which read as follows: “For the purpose of complying with subparagraph (A), a State or local educational agency may exclude supplemental State and local funds expended in any eligible school attendance area or school for programs that meet the requirements of section 6314 or 6315 of this title.”
+
+Subsec. (d). Pub. L. 104–134, §101(b) \[title II, §2754(2)\], added subsec. (d).
 
 #### Section Referred to in Other Sections
 

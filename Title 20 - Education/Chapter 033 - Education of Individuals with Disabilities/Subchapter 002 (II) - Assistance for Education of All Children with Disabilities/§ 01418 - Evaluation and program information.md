@@ -114,7 +114,7 @@ The Secretary shall, directly or by grant, contract, or cooperative agreement, c
 
 &emsp;(E) conducting pursuant to this subsection a study that examines the extent to which out-of-community residential programs are used for children and youth who are seriously emotionally disturbed, the factors that influence the selection of such placements, the degree to which such individuals transition back to education programs in their communities, and the factors that facilitate or impede such transition.
 
-&emsp;(F) conducting pursuant to this subsection a study that examines (i) the factors that influence the referral and placement decisions andtypes of placements, by disability category and English language proficiency, of minority children relative to other children, (ii) the extent to which these children are placed in regular education environments, (iii) the extent to which the parents of these children are involved in placement decisions and in the development and implementation of the individualized education program and the results of such participation, and (iv) the type of support provided to parents of these children that enable these parents to understand and participate in the educational process.
+&emsp;(F) conducting pursuant to this subsection a study that examines (i) the factors that influence the referral and placement decisions and types of placements, by disability category and English language proficiency, of minority children relative to other children, (ii) the extent to which these children are placed in regular education environments, (iii) the extent to which the parents of these children are involved in placement decisions and in the development and implementation of the individualized education program and the results of such participation, and (iv) the type of support provided to parents of these children that enable these parents to understand and participate in the educational process.
 
 #### (f) Integration of information
 
@@ -128,7 +128,7 @@ The Secretary shall make grants to, or enter into contracts or cooperative agree
 
 &emsp;(ii) early intervention services for infants and toddlers with disabilities.
 
-(B) Not later than 120 days after the close of each fiscal year, the Secretary shall transmit a copy of the report authorized under subparagraph (A) to the appropriate committees of each House of Congress. The annual report shall be published and disseminated in sufficient quantities to the education and disability communities and to other interested parties.
+(B) Not later than 120 days after the close of each fiscal year, the Secretary shall transmit a copy of the report authorized under subparagraph (A) to the appropriate committees of eachHouse of Congress. The annual report shall be published and disseminated in sufficient quantities to the education and disability communities and to other interested parties.
 
 (2) The Secretary shall include in each annual report under paragraph (1)—
 
@@ -158,7 +158,7 @@ There are authorized to be appropriated $12,000,000 for fiscal year 1991 and suc
 
 1988—Subsec. (a). Pub. L. 100–630, §102(h)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Secretary shall directly or by grant, contract, or cooperative agreement, collect data and conduct studies, investigations, and evaluations—
 
-&emsp;“(1) to assess progress in the implementation of this chapter, the impact, and the effectiveness of State and local efforts and efforts by the Secretary ofInterior to provide free appropriate public education to all handicapped children and youth and early intervention services to handicapped infants and toddlers, and
+&emsp;“(1) to assess progress in the implementation of this chapter, the impact, and the effectiveness of State and local efforts and efforts by the Secretary of Interior to provide free appropriate public education to all handicapped children and youth and early intervention services to handicapped infants and toddlers, and
 
 &emsp;“(2) to provide—
 
@@ -204,7 +204,7 @@ Subsec. (f)(4). Pub. L. 100–630, §102(h)(6), substituted “a free appropriat
 
 &emsp;“(E) handicapped infants, toddlers, children, and youth with limited English proficiency.”
 
-> for “a free appropriate public education to handicapped infants, toddlers, children, and youth in rural areas and to handicapped migrants, handicapped Indians (particularly programs operated under section 1411(f) of this title), handicapped Native Hawaiian, and other native Pacific basin children and youth, handicapped infants, toddlers, children and youth of limited English proficiency.”
+> for “a free appropriate public education to handicapped infants, toddlers, children, and youth in rural areas and to handicapped migrants, handicapped Indians (particularly programs operated under section 1411(f) of this title), handicapped Native Hawaiian, and other nativePacific basin children and youth, handicapped infants, toddlers, children and youth of limited English proficiency.”
 
 Subsec. (f)(5). Pub. L. 100–630, §102(h)(7), substituted “on Disability” for “for the Handicapped” and inserted “the Secretary shall include” before “a description”.
 

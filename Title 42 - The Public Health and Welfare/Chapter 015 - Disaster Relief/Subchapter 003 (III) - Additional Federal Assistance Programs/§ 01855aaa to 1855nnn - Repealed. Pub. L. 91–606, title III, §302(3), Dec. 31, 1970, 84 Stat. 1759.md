@@ -6,7 +6,7 @@ Pub. L. 91–79, §16, Oct. 1, 1969, 83 Stat. 125, set out as a note under secti
 
 Section 1855bbb, Pub. L. 91–79, §2, Oct. 1, 1969, 83 Stat. 126, authorized the President to allocate funds for permanent repair and reconstruction of non-Federal streets, roads, and highway facilities destroyed or damaged as a result of a major disaster.
 
-Section 1855ccc, Pub. L. 91–79, §3, Oct. 1, 1969, 83 Stat. 126, covered allowable alterations in timber sales contracts between Secretary of Agriculture or Secretary of Interior and a timber purchaser in event of a major disaster causing major physical changes.
+Section 1855ccc, Pub. L. 91–79, §3, Oct. 1, 1969, 83 Stat. 126, covered allowable alterations in timber sales contracts between Secretary of Agriculture or Secretary of the Interior and a timber purchaser in event of a major disaster causing major physical changes.
 
 Section 1855ddd, Pub. L. 91–79, §4, Oct. 1, 1969, 83 Stat. 126, authorized Secretary of the Interior to give public land entrymen additional time to comply with requirements of law.
 

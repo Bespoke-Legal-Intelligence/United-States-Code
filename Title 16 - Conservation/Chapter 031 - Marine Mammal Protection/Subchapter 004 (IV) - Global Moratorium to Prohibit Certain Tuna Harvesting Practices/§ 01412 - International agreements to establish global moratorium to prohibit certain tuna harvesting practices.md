@@ -22,7 +22,7 @@ Any agreement entered into under this section shall—
 
 The moratorium authorized under subsection (a) of this section may be terminated prior to December 31, 1999, with respect to the United States for the harvesting of tuna in the eastern tropical Pacific Ocean only if—
 
-&emsp;(1) the Secretary submits to the Congress in accordance with section 1414(b) of this title a recommendation that the moratorium be terminated; and
+&emsp;(1) the Secretary submits to the Congress in accordance with section 1414(b) of this title arecommendation that the moratorium be terminated; and
 
 &emsp;(2) the recommendation is approved by enactment of a joint resolution of approval.
 

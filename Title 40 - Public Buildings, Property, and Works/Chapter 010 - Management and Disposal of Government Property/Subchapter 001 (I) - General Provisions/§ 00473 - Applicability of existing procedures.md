@@ -10,7 +10,7 @@ All policies, procedures, and directives prescribed—
 
 &emsp;(d) by the Archivist of the United States or any other officer or body whose functions are transferred by chapter 16 of this title,
 
-> in effect upon July 1, 1949, and not inconsistent herewith, shall remain in full force and effect unless and until superseded, or except as they may be amended, under the authority of this Act or under other appropriate authority.
+> in effect upon July 1, 1949, and not inconsistent herewith, shall remain in full force and effectunless and until superseded, or except as they may be amended, under the authority of this Act or under other appropriate authority.
 
 (June 30, 1949, ch. 288, title VI, §601, formerly title V, §501, 63 Stat. 399; renumbered Sept. 5, 1950, ch. 849, §6(a), (b), 64 Stat. 583.)
 

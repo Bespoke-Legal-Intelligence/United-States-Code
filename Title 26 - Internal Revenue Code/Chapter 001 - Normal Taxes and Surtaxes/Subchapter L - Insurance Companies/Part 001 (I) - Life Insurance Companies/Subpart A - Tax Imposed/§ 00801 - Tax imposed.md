@@ -10,7 +10,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;If a life insurance company has a net capital gain for the taxable year, then (in lieu of the tax imposed by paragraph (1)), there is hereby imposed a tax (if such tax is less than the tax imposed by paragraph (1)).
+&emsp;&emsp;If a life insurance company has a net capital gain for the taxable year, then (in lieu of the tax imposed by paragraph (1)), there ishereby imposed a tax (if such tax is less than the tax imposed by paragraph (1)).
 
 #### (B) Amount of tax
 
@@ -194,7 +194,7 @@ Fresh start adjustment.—For purposes of clause (i), the fresh start adjustment
 
 &emsp;&emsp;“(C)
 
-Related income inclusions not taken into account to the extent deduction disallowedunder subparagraph (b).—No premium shall be included in income to the extent such premium is directly related to an increase in a reserve for which a deduction is disallowed by subparagraph (B).
+Related income inclusions not taken into account to the extent deduction disallowed under subparagraph (b).—No premium shall be included in income to the extent such premium is directly related to an increase in a reserve for which a deduction is disallowed by subparagraph (B).
 
 &emsp;“(3)
 
@@ -362,7 +362,7 @@ Report With Respect to Segment Balance, Etc.—
 
 &emsp;“(1)
 
-In general.—The Secretary of the Treasury (in consultation with the Joint Committee on Taxation, the Committee on Ways and Means of the House of Representatives, and the Committee on Finance of the Senate) shall conduct a full and complete study of the operation of part I of subchapter L of chapter 1 of the Internal Revenue Code of 1986 during 1984, 1985, and 1986. Such study shall also include an analysis of life insurance products and the taxation thereof. Such study shall also include an analysis of whether part I of such subchapter L operates as a disincentive to growing companies.
+In general.—The Secretary of the Treasury (in consultation with the Joint Committee on Taxation, the Committee on Ways and Means of the House of Representatives, and the Committee on Finance of the Senate) shall conduct a full and complete study of the operation of part I of subchapter L of chapter 1 of the Internal Revenue Code of 1986 during 1984,1985, and 1986. Such study shall also include an analysis of life insurance products and the taxation thereof. Such study shall also include an analysis of whether part I of such subchapter L operates as a disincentive to growing companies.
 
 &emsp;“(2)
 
@@ -394,7 +394,7 @@ Reports.—
 
 &emsp;&emsp;“(A)
 
-Interim reports.—The Secretary of the Treasury shall submit interim reports on the studyconducted under this subsection to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate not later than July 1, 1986, 1987, and 1988.
+Interim reports.—The Secretary of the Treasury shall submit interim reports on the study conducted under this subsection to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate not later than July 1, 1986, 1987, and 1988.
 
 &emsp;&emsp;“(B)
 

@@ -2,7 +2,7 @@
 
 #### (a) Purpose
 
-The Congress declares that an additional purpose of the Soil Conservation Service and theExtension Service is to aid in protecting and improving the quality of water.
+The Congress declares that an additional purpose of the Soil Conservation Service and the Extension Service is to aid in protecting and improving the quality of water.
 
 #### (b) Conservation plans
 

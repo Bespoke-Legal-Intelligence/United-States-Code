@@ -24,7 +24,9 @@ Within thirty days after the export of any agricultural commodity to a country o
 
 (1) To establish a food security reserve under this section, the Secretary of Agriculture may acquire agricultural commodities (the export of which is suspended or restricted as described in subsection (a) of this section) that are suitable for use in providing emergency food assistance and urgent humanitarian relief through purchases from producers or in the market and by designation by the Secretary of stocks of the commodities held by the Commodity Credit Corporation, and to pay such storage, transportation, and related costs as may be necessary to permit maintenance of the commodities in the reserve for the purposes of this section and disposition of the commodities as provided in paragraph (2) of this subsection.
 
-(2) The provisions of subsections (c), (d), (e), (f), and (g)(2) of section 1736f–1 of this title shall apply to commodities in any reserve established under paragraph (1) of this subsection, and (except for the last sentence of subsection (c) of section 1736f–1 of this title) the references to “wheat” in such subsections of section 1736f–1 of this title shall be deemed to be references to “agricultural commodities”.
+(2)
+
+Applicability of certain provisions.—Subsections (c), (d), (e), and (f)(2) of section 1736f–1 of this title shall apply to commodities in any reserve established under paragraph (1), except that the references to “eligible commodities” in the subsections shall be deemed to be references to “agricultural commodities”.
 
 (3) Any determination by the President or the Secretary of Agriculture under this section shall be final.
 
@@ -44,7 +46,7 @@ Whenever stocks of agricultural commodities are disposed of or released from res
 
 The provisions of this section shall become effective with respect to any suspension of, or restriction on, the export of agricultural commodities, as described in subsection (a) of this section, implemented after December 3, 1980.
 
-(Pub. L. 96–494, title II, §208, Dec. 3, 1980, 94 Stat. 2573; Pub. L. 97–98, title X, §1004, Dec. 22, 1981, 95 Stat. 1260.)
+(Pub. L. 96–494, title II, §208, Dec. 3, 1980, 94 Stat. 2573; Pub. L. 97–98, title X, §1004, Dec. 22, 1981, 95 Stat. 1260; Pub. L. 104–127, title II, §225(b), Apr. 4, 1996, 110 Stat. 962.)
 
 #### References in Text
 
@@ -53,6 +55,8 @@ The Export Administration Act of 1979, referred to in subsec. (a), is Pub. L. 96
 Section 1445e of this title, referred to in subsec. (c)(2), was amended generally by Pub. L. 101–624, title XI, §1123, Nov. 28, 1990, 104 Stat. 3503, and, as so amended, subsec. (b) of section 1445e does not contain a clause (5).
 
 #### Amendments
+
+1996—Subsec. (d)(2). Pub. L. 104–127 added par. (2) and struck out former par. (2) which read as follows: “The provisions of subsections (c), (d), (e), (f), and (g)(2) of section 1736f–1 of this title shall apply to commodities in any reserve established under paragraph (1) of this subsection, and (except for the last sentence of subsection (c) of section 1736f–1 of this title) the references to ‘wheat’ in such subsections of section 1736f–1 of this title shall be deemed to be references to ‘agricultural commodities’.”
 
 1981—Subsec. (c)(2)(A). Pub. L. 97–98, §1004(1), substituted “third sentence” for “second sentence”.
 
@@ -70,7 +74,7 @@ Section 213 of title II of Pub. L. 96–494 provided that: “Except as otherwis
 
 Section 1 of Pub. L. 96–494 provided: “That this Act \[enacting this chapter and sections 1445h and 1736f–1 of this title, amending sections 608c, 1444c, 1445b, 1445e, and 1446 of this title, and enacting provisions set out as notes under this section, sections 1445e, 1445h, and 1736f–1 of this title, and section 714c of Title 15, Commerce and Trade\] may be cited as the ‘Agricultural Act of 1980’.”
 
-Section 201 of title II of Pub. L. 96–494 provided that: “This title \[enacting this chapter and section 1445h ofthis title, amending sections 1444c, 1445b, 1445e, and 1446 of this title, and enacting provisions set out as notes under this section, sections 1445e and 1445h of this title, and section 714c of Title 15, Commerce and Trade\] may be cited as the ‘Agricultural Trade Suspension Adjustment Act of 1980’.”
+Section 201 of title II of Pub. L. 96–494 provided that: “This title \[enacting this chapter and section 1445h of this title, amending sections 1444c, 1445b, 1445e, and 1446 of this title, and enacting provisions set out as notes under this section, sections 1445e and 1445h of this title, and section 714c of Title 15, Commerce and Trade\] may be cited as the ‘Agricultural Trade Suspension Adjustment Act of 1980’.”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

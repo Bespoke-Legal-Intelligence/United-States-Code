@@ -6,7 +6,7 @@ It shall be the duty of the Secretary of Agriculture, and he is authorized and d
 
 #### Amendments
 
-1978—Pub. L. 95–439 struck out provision requiring the Secretary of Agriculture to give notice of rules and regulations in the manner prescribed in section 123 of this title for notice of establishment of quarantine.
+1978—Pub. L. 95–439 struck out provision requiring Secretary of Agriculture to give notice of rules and regulations in the manner prescribed in section 123 of this title for notice of establishment of quarantine.
 
 1962—Pub. L. 87–518 substituted “quarantined animals” for “cattle or other livestock”.
 

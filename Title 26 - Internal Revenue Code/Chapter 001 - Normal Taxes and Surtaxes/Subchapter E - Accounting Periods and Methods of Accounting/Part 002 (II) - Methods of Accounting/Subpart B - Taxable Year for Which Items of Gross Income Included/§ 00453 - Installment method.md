@@ -18,7 +18,7 @@ For purposes of this section—
 
 #### (A) Dealer dispositions
 
-&emsp;&emsp;Any dealer disposition (as defined in subsection (<i>l)).</i>
+&emsp;&emsp;Any dealer disposition (as defined in subsection (<i>l</i>)).
 
 #### (B) Inventories of personal property
 
@@ -26,7 +26,7 @@ For purposes of this section—
 
 #### (c) Installment method defined
 
-For purposes of this section, the term “installment method” means a method under which the income recognized for any taxable year from a disposition is that proportion of the payments received in that year which the gross profit (realized or to be realized when payment is completed) bears to the total contract price.
+For purposes of this section, the term “installment method” means a method under which theincome recognized for any taxable year from a disposition is that proportion of the payments received in that year which the gross profit (realized or to be realized when payment is completed) bears to the total contract price.
 
 #### (d) Election out
 
@@ -208,7 +208,7 @@ For purposes of this section—
 
 #### (3) Related persons
 
-&emsp;For purposes of this subsection, the term “related persons” has the meaning given tosuch term by section 1239(b), except that such term shall include 2 or more partnerships having a relationship to each other described in section 707(b)(1)(B).
+&emsp;For purposes of this subsection, the term “related persons” has the meaning given to such term by section 1239(b), except that such term shall include 2 or more partnerships having a relationship to each other described in section 707(b)(1)(B).
 
 #### (h) Use of installment method by shareholders in certain liquidations
 
@@ -216,7 +216,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;If, in a liquidation to which section 331 applies, the shareholder receives (in exchange for the shareholder's stock) an installment obligation acquired in respect of a sale or exchange by the corporation during the 12-month period beginning on the date a plan of complete liquidation is adopted and the liquidation is completed during such 12-month period, then, for purposes of this section, the receipt of payments under such obligation (but not the receipt of such obligation) by the shareholder shall be treated as the receipt of payment for the stock.
+&emsp;&emsp;If, in a liquidation to which section 331 applies, the shareholder receives (in exchangefor the shareholder's stock) an installment obligation acquired in respect of a sale or exchange by the corporation during the 12-month period beginning on the date a plan of complete liquidation is adopted and the liquidation is completed during such 12-month period, then, for purposes of this section, the receipt of payments under such obligation (but not the receipt of such obligation) by the shareholder shall be treated as the receipt of payment for the stock.
 
 #### (B) Obligations attributable to sale of inventory must result from bulk sale
 
@@ -292,7 +292,7 @@ In the case of—
 
 &emsp;&emsp;(B) to the extent provided in regulations, property (other than stock or securities) of a kind regularly traded on an established market,
 
-> subsection (a) shall not apply, and, for purposes of this title, all payments to be received shall betreated as received in the year of disposition. The Secretary may provide for the application of this subsection in whole or in part for transactions in which the rules of this subsection otherwise would be avoided through the use of related parties, pass-thru entities, or intermediaries.
+> subsection (a) shall not apply, and, for purposes of this title, all payments to be received shall be treated as received in the year of disposition. The Secretary may provide for the application of this subsection in whole or in part for transactions in which the rules of this subsection otherwise would be avoided through the use of related parties, pass-thru entities, or intermediaries.
 
 #### (<i>l</i>) Dealer dispositions
 
@@ -372,7 +372,7 @@ For purposes of subsection (b)(2)(A)—
 
 #### Prior Provisions
 
-A prior section 453, acts Aug. 16, 1954, ch. 736, 68A Stat. 154; Sept. 2, 1958, Pub. L. 85–866, title I, §27(a), 72 Stat. 1624; Oct. 16, 1962, Pub. L. 87–834, §13(f)(5), 76 Stat. 1035; Feb. 26, 1964, Pub. L. 88–272, title II, §§222(a), 231(b)(5), 78 Stat. 75, 105; Aug. 22, 1964, Pub. L. 88–484, §1(b)(2), 78 Stat. 597; Aug. 31, 1964, Pub. L. 88–539, §3(a), (b), 78 Stat. 746; Sept. 12, 1966, Pub. L. 89–570, §1(b)(5), 80 Stat. 762; Nov. 13, 1966, Pub. L. 89–809, title II, §202(c), 80 Stat. 1576; Dec. 30, 1969, Pub. L. 91–172, title II, §211(b)(5), title III, §301(b)(7), title IV, §412(a), title IX, §916(a), 83 Stat. 570, 585, 608, 723; Oct. 4, 1976, Pub. L. 94–455, title II, §205(c)(1)(E), title XIX, §§1901(a)(66), 1906(b)(13)(A), 1951(b)(7)(A), 90 Stat. 1535, 1775, 1834, 1838; Nov. 6, 1978, Pub. L. 95–600, title VII, §703(j)(3), 92 Stat. 2941; Apr. 1, 1980, Pub. L. 96–222, title I, §104(a)(4)(H)(iv), 94 Stat. 217; Apr. 2, 1980, Pub. L. 96–223, title IV, §403(b)(2)(B), 94 Stat. 305; Oct. 19, 1980, Pub. L. 96–471, §2(c)(4), 94 Stat. 2254, related to installment method in general, installment method for dealers in personal property, and gain or loss dispositions of installment obligations, prior to repeal by Pub. L. 96–471, §2(a), Oct. 19, 1980, 94 Stat. 2247. See sections 453A and 453B of this title.
+A prior section 453, acts Aug. 16, 1954, ch. 736, 68A Stat. 154; Sept. 2, 1958, Pub. L. 85–866, title I, §27(a), 72 Stat. 1624; Oct. 16, 1962, Pub. L. 87–834, §13(f)(5), 76 Stat. 1035; Feb. 26, 1964, Pub. L. 88–272, title II, §§222(a), 231(b)(5), 78 Stat. 75, 105; Aug. 22, 1964, Pub. L. 88–484, §1(b)(2), 78 Stat. 597; Aug. 31, 1964, Pub. L. 88–539, §3(a), (b), 78 Stat. 746; Sept. 12, 1966, Pub. L. 89–570, §1(b)(5), 80 Stat. 762; Nov. 13, 1966, Pub. L. 89–809, title II, §202(c), 80 Stat. 1576; Dec. 30, 1969, Pub. L. 91–172, title II, §211(b)(5), title III, §301(b)(7), title IV, §412(a), title IX, §916(a), 83 Stat. 570, 585, 608, 723; Oct. 4, 1976, Pub. L. 94–455, title II, §205(c)(1)(E), title XIX, §§1901(a)(66), 1906(b)(13)(A), 1951(b)(7)(A), 90 Stat. 1535, 1775, 1834, 1838; Nov. 6, 1978, Pub. L. 95–600, title VII, §703(j)(3), 92 Stat.2941; Apr. 1, 1980, Pub. L. 96–222, title I, §104(a)(4)(H)(iv), 94 Stat. 217; Apr. 2, 1980, Pub. L. 96–223, title IV, §403(b)(2)(B), 94 Stat. 305; Oct. 19, 1980, Pub. L. 96–471, §2(c)(4), 94 Stat. 2254, related to installment method in general, installment method for dealers in personal property, and gain or loss dispositions of installment obligations, prior to repeal by Pub. L. 96–471, §2(a), Oct. 19, 1980, 94 Stat. 2247. See sections 453A and 453B of this title.
 
 #### Amendments
 
@@ -464,7 +464,7 @@ Special rules for dealers.—
 
 &emsp;“(A)
 
-In general.—In the case of dealer dispositions (within the meaning of section 453(<i>l</i>)(1) of the Internal Revenue Code of 1986 as added by this section), the amendments made by subsections (a) and (b) \[amending this section and repealing section 453C of this title\] shall apply to installment obligations arising from dispositions after December 31, 1987.
+In general.—In the case of dealer dispositions (within the meaning of section 453(<i>l</i>)(1) of the Internal Revenue Code of 1986 as added by this section), theamendments made by subsections (a) and (b) \[amending this section and repealing section 453C of this title\] shall apply to installment obligations arising from dispositions after December 31, 1987.
 
 &emsp;“(B)
 
@@ -562,15 +562,15 @@ Change in method of accounting.—In the case of any taxpayer who made sales und
 
 &emsp;&emsp;1st taxable year
 
-15&nbsp;&nbsp;&nbsp;&nbsp;
+15&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 &emsp;&emsp;2nd taxable year
 
-25&nbsp;&nbsp;&nbsp;&nbsp;
+25&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 &emsp;&emsp;3rd taxable year
 
-30&nbsp;&nbsp;&nbsp;&nbsp;
+30&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 &emsp;&emsp;4th taxable year
 
@@ -586,7 +586,7 @@ Acceleration of adjustments where contraction in amount of installment obligatio
 
 &emsp;“(A)
 
-In general.—If the percentage determined under subparagraph (B) for any taxable year in the adjustment period exceeds the percentage which would otherwise apply under paragraph (3)(D) for such taxable year (determined after the application of this paragraph for prior taxable years in the adjustment period)—
+In general.—If the percentage determined under subparagraph (B) for any taxable year in the adjustment period exceeds the percentage which would otherwise apply under paragraph (3)(D) for such taxable year (determined after the applicationof this paragraph for prior taxable years in the adjustment period)—
 
 &emsp;&emsp;“(i) the percentage determined under subparagraph (B) shall be substituted for the applicable percentage which would otherwise apply under paragraph (3)(D), and
 
@@ -684,7 +684,7 @@ For section 453a.—Section 453A of the Internal Revenue Code of 1986 (as amende
 
 “(5)
 
-For section 453b(f).—Section 453B(f) of the Internal Revenue Code of 1986 (as amended by section 2)shall apply to installment obligations becoming unenforceable after the date of the enactment of this Act \[Oct. 19, 1980\].
+For section 453b(f).—Section 453B(f) of the Internal Revenue Code of 1986 (as amended by section 2) shall apply to installment obligations becoming unenforceable after the date of the enactment of this Act \[Oct. 19, 1980\].
 
 “(6)
 
@@ -730,5 +730,5 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 26, 56, 163, 381, 453A, 453B, 469, 644, 679, 691, 3406 of this title.
+This section is referred to in sections 26, 56, 163, 381, 453A, 453B, 469, 644, 691, 3406 of this title.
 

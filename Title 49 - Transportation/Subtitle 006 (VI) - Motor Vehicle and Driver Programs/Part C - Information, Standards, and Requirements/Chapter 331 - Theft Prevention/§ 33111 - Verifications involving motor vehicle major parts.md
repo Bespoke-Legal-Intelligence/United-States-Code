@@ -32,7 +32,9 @@ Regulations.—The Attorney General shall prescribe regulations to carry out thi
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -59,4 +61,8 @@ Subsection (b)(2) is substituted for 15:2026b(c) (2d sentence) for clarity.
 #### Effective Date
 
 Section 4(v) of Pub. L. 103–272 provided that: “Section 33111 of title 49, United States Code, as enacted by section 1 of this Act, is effective on the date on which the National Stolen Passenger Motor Vehicle Information System is established under section 33109 of title 49.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 33109 of this title.
 

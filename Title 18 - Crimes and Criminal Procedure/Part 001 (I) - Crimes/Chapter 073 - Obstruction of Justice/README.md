@@ -19,10 +19,13 @@
 | [1515\.](%C2%A7%2001515%20-%20Definitions%20for%20certain%20provisions%3B%20general%20provision.md) | Definitions for certain provisions; general provision. |
 | [1516\.](%C2%A7%2001516%20-%20Obstruction%20of%20Federal%20audit.md) | Obstruction of Federal audit. |
 | [1517\.](%C2%A7%2001517%20-%20Obstructing%20examination%20of%20financial%20institution.md) | Obstructing examination of financial institution. |
+| [1518\.](%C2%A7%2001518%20-%20Obstruction%20of%20criminal%20investigations%20of%20health%20care%20offenses.md) | Obstruction of criminal investigations of health care offenses. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1996—Pub. L. 104–191, title II, §245(b), Aug. 21, 1996, 110 Stat. 2018, added item 1518.
 
 1990—Pub. L. 101–647, title XXV, §2503(b), Nov. 29, 1990, 104 Stat. 4861, added item 1517.
 
@@ -76,3 +79,4 @@ This chapter is referred to in section 3521 of this title.
 - [&sect; 01515 - Definitions for certain provisions; general provision](%C2%A7%2001515%20-%20Definitions%20for%20certain%20provisions%3B%20general%20provision.md)
 - [&sect; 01516 - Obstruction of Federal audit](%C2%A7%2001516%20-%20Obstruction%20of%20Federal%20audit.md)
 - [&sect; 01517 - Obstructing examination of financial institution](%C2%A7%2001517%20-%20Obstructing%20examination%20of%20financial%20institution.md)
+- [&sect; 01518 - Obstruction of criminal investigations of health care offenses](%C2%A7%2001518%20-%20Obstruction%20of%20criminal%20investigations%20of%20health%20care%20offenses.md)

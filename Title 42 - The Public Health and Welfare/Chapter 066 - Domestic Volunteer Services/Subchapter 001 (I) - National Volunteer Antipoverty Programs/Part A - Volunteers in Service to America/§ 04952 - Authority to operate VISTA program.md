@@ -14,5 +14,5 @@ This part shall be administered by one of the Assistant Directors appointed purs
 
 #### Effective Date of 1993 Amendment
 
-Section 322(b) of Pub. L. 103–82 provided that: “The amendments made by subsection (a) \[amending thissection\] shall take effect on the effective date of section 203(b).” \[Section 203(b) of Pub. L. 103–82 is effective 18 months after Sept. 21, 1993, or on such earlier date as the President shall determine to be appropriate and announce by proclamation in the Federal Register, see section 203(d) of Pub. L. 103–82, set out as a note under section 12651 of this title.\]
+Section 322(b) of Pub. L. 103–82 provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect on the effective date of section 203(b).” \[Section 203(b) of Pub. L. 103–82 is effective 18 months after Sept. 21, 1993, or on such earlier date as the President shall determine to be appropriate and announce by proclamation in the Federal Register, see section 203(d) of Pub. L. 103–82, set out as a note under section 12651 of this title.\]
 

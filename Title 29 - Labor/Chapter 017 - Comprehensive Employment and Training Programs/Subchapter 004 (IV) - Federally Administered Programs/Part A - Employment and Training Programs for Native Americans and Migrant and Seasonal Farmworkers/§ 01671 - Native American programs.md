@@ -12,13 +12,13 @@ The Congress therefore declares that, because of the special relationship betwee
 
 (1)(A) In carrying out responsibilities under this section, the Secretary shall, wherever possible, utilize Indian tribes, bands, or groups on Federal or State reservations, Oklahoma Indians, and including for the purpose of this chapter, Alaska Native villages or groups as defined in the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\], having a governing body for the provision of employment and training services under this section. When the Secretary determines that such tribe, band, or group has demonstrated the capability to effectively administer a comprehensive employment and training program, the Secretary shall require such tribe, band, or group to submit a comprehensive plan meeting such requirements as the Secretary prescribes.
 
-(B) The Secretary shall arrange for programs to meet the employment and training needs of Hawaiian natives through such organizations asthe Secretary determines will best meet their needs.
+(B) The Secretary shall arrange for programs to meet the employment and training needs of Hawaiian natives through such organizations as the Secretary determines will best meet their needs.
 
 (2) In carrying out responsibilities under this section, the Secretary shall make arrangements with organizations (meeting requirements prescribed by the Secretary) serving nonreservation Native Americans for programs and projects designed to meet the needs of such Native Americans for employment and training and related services.
 
 #### (d) Alternative operation through approved organizations
 
-Whenever the Secretary determines not to utilize Indian tribes, bands, or groups for the provision of employment and training services under this section, the Secretary shall, to the maximum extent feasible, enter into arrangements for the provision of such services with organizations which meet with the approval of the tribes, bands, or groups to be served.
+Whenever the Secretary determines not to utilize Indian tribes, bands, or groups for the provision of employment and training services under this section, the Secretary shall, to the maximum extent feasible, enter into arrangementsfor the provision of such services with organizations which meet with the approval of the tribes, bands, or groups to be served.
 
 #### (e) Monitoring of programs
 
@@ -118,7 +118,7 @@ Subsec. (j). Pub. L. 102–367, §401(b), amended subsec. (j) generally. Prior t
 
 Subsec. (k). Pub. L. 102–367, §401(c), added subsec. (k).
 
-Subsec. (<i>l</i>). Pub. L. 102–367, §401(d), added subsec. (<i>l).</i>
+Subsec. (<i>l</i>). Pub. L. 102–367, §401(d), added subsec. (<i>l</i>).
 
 1982—Subsec. (h)(2). Pub. L. 97–404 substituted reference to section 1516 of this title for reference to section 1513 of this title.
 

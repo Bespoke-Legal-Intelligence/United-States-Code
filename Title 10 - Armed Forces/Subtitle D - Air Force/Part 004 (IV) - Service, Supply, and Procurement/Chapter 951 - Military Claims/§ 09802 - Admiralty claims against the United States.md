@@ -24,6 +24,10 @@ Historical and Revision Notes
 
 9802(a)
 
+&nbsp;
+
+&nbsp;
+
 9802(b)
 
 9802(c)
@@ -42,7 +46,7 @@ In subsection (a), the words “consider, ascertain, adjust, determine, compromi
 
 1989—Subsec. (c). Pub. L. 101–189 substituted “$100,000” for “$10,000”.
 
-1972—Subsec. (a). Pub. L. 92–417 substituted “Admiralty claims against the United States” for “Damage by United States vessels, towage and salvage of United States vessels” in section catchline, in text preceding par. (1), struck out requirement that the Secretary ofthe Air Force discharge his functions under the direction of the Secretary of Defense, in par. (1), inserted “or by other property under the jurisdiction of the Department of the Air Force”, in par. (2), inserted “or to other property under the jurisdiction of the Department of the Air Force”, and added par. (3).
+1972—Subsec. (a). Pub. L. 92–417 substituted “Admiralty claims against the United States” for “Damage by United States vessels, towage and salvage of United States vessels” in section catchline, in text preceding par. (1), struck out requirement that the Secretary of the Air Force discharge his functions under the direction of the Secretary of Defense, in par. (1), inserted “or by other property under the jurisdiction of the Department of the Air Force”, in par. (2), inserted “or to other property under the jurisdiction of the Department of the Air Force”, and added par. (3).
 
 1965—Subsec. (c). Pub. L. 89–67 substituted “$10,000” for “$1,000”.
 

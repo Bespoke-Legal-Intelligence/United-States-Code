@@ -12,7 +12,7 @@ At the end of each fiscal year, the Commissioner of Social Security shall submit
 
 Nothing in this subchapter shall relieve any operator of the duty to comply with any State workmen's compensation law, except insofar as such State law is in conflict with the provisions of this subchapter and the Secretary by regulation, so prescribes. The provisions of any State workmen's compensation law which provide greater benefits than the benefits payable under this subchapter shall not thereby be construed or held to be in conflict with the provisions of this subchapter.
 
-(Pub. L. 91–173, title IV, §426, Dec. 30, 1969, 83 Stat. 798; Pub. L. 92–303, §5(3), May 19, 1972, 86Stat. 155; Pub. L. 103–296, title I, §108(i)(3), Aug. 15, 1994, 108 Stat. 1488; Pub. L. 104–66, title I, §1102(b)(2), Dec. 21, 1995, 109 Stat. 723.)
+(Pub. L. 91–173, title IV, §426, Dec. 30, 1969, 83 Stat. 798; Pub. L. 92–303, §5(3), May 19, 1972, 86 Stat. 155; Pub. L. 103–296, title I, §108(i)(3), Aug. 15, 1994, 108 Stat. 1488; Pub. L. 104–66, title I, §1102(b)(2), Dec. 21, 1995, 109 Stat. 723.)
 
 #### References in Text
 

@@ -8,7 +8,7 @@ Nothing in this chapter shall be construed as superseding, amending, modifying, 
 
 &emsp;(2) The Federal Coal Mine Health and Safety Act of 1969 (83 Stat. 742) \[30 U.S.C. 801 et seq.\].
 
-&emsp;(3) The Federal Water Pollution Control Act (79 Stat. 903), as amended \[33 U.S.C. 1251 et seq.\], the State laws enacted pursuant thereto, or other Federal laws relating to preservation of water quality.
+&emsp;(3) The Federal Water Pollution Control Act (79 Stat. 903), as amended \[33 U.S.C. 1251 etseq.\], the State laws enacted pursuant thereto, or other Federal laws relating to preservation of water quality.
 
 &emsp;(4) The Clean Air Act, as amended \[42 U.S.C. 7401 et seq.\].
 
@@ -30,7 +30,7 @@ To the greatest extent practicable each Federal agency shall cooperate with the 
 
 #### (d) Major Federal action
 
-Approval of the State programs, pursuant to section 1253(b) of this title, promulgation of Federal programs, pursuant to section 1254 of thistitle, and implementation of the Federal lands programs, pursuant to section 1273 of this title, shall not constitute a major action within the meaning of section 102(2)(C) of the National Environmental Policy Act of 1969 (42 U.S.C. 4332). Adoption of regulations under section 1251(b) of this title shall constitute a major action within the meaning of section 102(2)(C) of the National Environmental Policy Act of 1969 (42 U.S.C. 4332).
+Approval of the State programs, pursuant to section 1253(b) of this title, promulgation of Federal programs, pursuant to section 1254 of this title, and implementation of the Federal lands programs, pursuant to section 1273 of this title, shall not constitute a major action within the meaning of section 102(2)(C) of the National Environmental Policy Act of 1969 (42 U.S.C. 4332). Adoption of regulations under section 1251(b) of this title shall constitute a major action within the meaning of section 102(2)(C) of the National Environmental Policy Act of 1969 (42 U.S.C. 4332).
 
 (Pub. L. 95–87, title VII, §702, Aug. 3, 1977, 91 Stat. 519.)
 

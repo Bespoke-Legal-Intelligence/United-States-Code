@@ -10,11 +10,11 @@ Oath.—An officer who has served continuously since taking the oath of office p
 
 (Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2938.)
 
-#### Effective Date of Section
-
-<i>Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under section 10001 of this title.</i>
-
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in sections 3394 and 8394 of this title, prior to repeal by Pub. L. 103–337, §1629(a)(1), (c)(1).
+
+#### Cross References
+
+Regular Army officers, see section 626 of this title.
 

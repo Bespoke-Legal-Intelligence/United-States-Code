@@ -20,7 +20,7 @@ The Secretary and the Governor of the telephone bank may not charge any fee or c
 
 #### (3) Payment of costs
 
-&emsp;The Secretary may not, without the consent of the borrower, require, as a condition of processing an application for approval, that the borrower agree to pay the costs, fees, and expenses of consultants hired to provide technical or advisory services to the Secretary.
+&emsp;The Secretary may not, without the consent of the borrower, require, as a condition ofprocessing an application for approval, that the borrower agree to pay the costs, fees, and expenses of consultants hired to provide technical or advisory services to the Secretary.
 
 #### (4) Contracts, grants, and agreements
 
@@ -30,7 +30,7 @@ The Secretary and the Governor of the telephone bank may not charge any fee or c
 
 &emsp;Nothing in this subsection shall limit the authority of the Secretary to retain the services of consultants from funds made available to the Secretary or otherwise.
 
-(May 20, 1936, ch. 432, title I, §18, as added Nov. 28, 1990, Pub. L. 101–624, title XXIII, §2353, 104Stat. 4039; amended Nov. 1, 1993, Pub. L. 103–129, §2(c)(4), 107 Stat. 1364; Oct. 13, 1994, Pub. L. 103–354, title II, §235(a)(13), 108 Stat. 3221.)
+(May 20, 1936, ch. 432, title I, §18, as added Nov. 28, 1990, Pub. L. 101–624, title XXIII, §2353, 104 Stat. 4039; amended Nov. 1, 1993, Pub. L. 103–129, §2(c)(4), 107 Stat. 1364; Oct. 13, 1994, Pub. L. 103–354, title II, §235(a)(13), 108 Stat. 3221.)
 
 #### Amendments
 

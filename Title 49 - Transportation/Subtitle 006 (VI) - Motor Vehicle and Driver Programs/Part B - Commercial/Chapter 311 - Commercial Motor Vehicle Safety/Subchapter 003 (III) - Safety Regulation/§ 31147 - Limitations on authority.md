@@ -12,7 +12,9 @@ Regulating the Manufacturing of Vehicles.—This subchapter does not authorize t
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

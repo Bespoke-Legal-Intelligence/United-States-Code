@@ -32,7 +32,7 @@
 
 #### (5) Measures
 
-&emsp;The local educational agency shall use the same measure of poverty, which measure shall be the number of children ages 5 through 17 in poverty counted in the most recent census data approved by the Secretary, the number of children eligible for free and reduced priced lunches under the National School Lunch Act \[42 U.S.C. 1751 et seq.\], the number of children in families receiving assistance under the Aid to Families with Dependent Children program, or the number of children eligible to receive medical assistance under the Medicaid program, or a composite of such indicators, with respect to all school attendance areas in the local educational agency—
+&emsp;The local educational agency shall use the same measure of poverty, which measure shall be the number of children ages 5 through 17 in poverty counted in the most recent census data approved by the Secretary, the number of children eligible for free and reduced priced lunches under the National School Lunch Act \[42 U.S.C. 1751 et seq.\], the number of children in families receiving assistance under the State program funded under part A of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\], or the number of children eligible to receive medical assistance under the Medicaid program, or a composite of such indicators, with respect to all school attendance areas in the local educational agency—
 
 &emsp;&emsp;(A) to identify eligible school attendance areas;
 
@@ -46,7 +46,7 @@
 
 #### (7) Waiver for desegregation plans
 
-&emsp;The Secretary may approve a local educational agency's written request for a waiver of the requirements of subsections (a) and (c) of this section, and permit such agency to treat as eligible, and serve, any school that children attend with a State-ordered or acourt-ordered school desegregation plan or a plan that continues to be implemented in accordance with a State-ordered or court-ordered desegregation plan, if (A) the number of economically disadvantaged children enrolled in the school is at least 25 percent of the school's total enrollment; and (B) the Secretary determines on the basis of a written request from such agency and in accordance with such criteria as the Secretary establishes, that approval of that request would further the purposes of this part.
+&emsp;The Secretary may approve a local educational agency's written request for a waiver of the requirements of subsections (a) and (c) of this section, and permit such agency to treat as eligible, and serve, any school that children attend with a State-ordered or a court-ordered school desegregation plan or a plan that continues to be implemented in accordance with a State-ordered or court-ordered desegregation plan, if (A) the number of economically disadvantaged children enrolled in the school is at least 25 percent of the school's total enrollment; and (B) the Secretary determines on the basis of a written request from such agency and in accordance with such criteria as the Secretary establishes, that approval of that request would further the purposes of this part.
 
 #### (b) Local educational agency discretion
 
@@ -92,11 +92,21 @@
 
 &emsp;&emsp;(C) where appropriate, neglected and delinquent children in community day school programs.
 
-(Pub. L. 89–10, title I, §1113, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3532.)
+(Pub. L. 89–10, title I, §1113, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3532; amended Pub. L. 104–193, title I, §110(j)(1), Aug. 22, 1996, 110 Stat. 2172.)
 
 #### References in Text
 
 The National School Lunch Act, referred to in subsec. (a)(5), is act June 4, 1946, ch. 281, 60 Stat. 230, as amended, which is classified generally to chapter 13 (§1751 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of Title 42 and Tables.
+
+The Social Security Act, referred to in subsec. (a)(5), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part A of title IV of the Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+
+#### Amendments
+
+1996—Subsec. (a)(5). Pub. L. 104–193 substituted “State program funded under part A of title IV of the Social Security Act” for “Aid to Families with Dependent Children program”.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–193 effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, set out as a note under section 601 of Title 42, The Public Health and Welfare.
 
 #### Section Referred to in Other Sections
 

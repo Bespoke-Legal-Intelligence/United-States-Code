@@ -6,7 +6,7 @@ Definitions.—In this section, the terms “standards” and “amendments to s
 
 (b)
 
-General Rule.—The requirement of a State that a motor carrier, providing transportation subject to jurisdiction under subchapter I of chapter 135 and providing transportation in that State, must register with the State is not an unreasonable burden on transportation referred to in section 13501 when the State registration is completed under standards of the Secretary under subsection (c). When a State registration requirement imposes obligations in excess of the standards of the Secretary, the part in excess is an unreasonable burden.
+General Rule.—The requirement of a State that a motor carrier, providing transportation subject to jurisdiction under subchapter I of chapter 135 and providing transportation inthat State, must register with the State is not an unreasonable burden on transportation referred to in section 13501 when the State registration is completed under standards of the Secretary under subsection (c). When a State registration requirement imposes obligations in excess of the standards of the Secretary, the part in excess is an unreasonable burden.
 
 (c)
 
@@ -28,7 +28,7 @@ Specific requirements.—
 
 &emsp;&emsp;(A)
 
-Evidence of federal registration; proof of insurance; payment of fees.—Under the standards of the Secretary implementing the single State registration system described in paragraph (1) of this subsection, only a State acting in its capacityas registration State under such single State system may require a motor carrier registered by the Secretary under this part—
+Evidence of federal registration; proof of insurance; payment of fees.—Under the standards of the Secretary implementing the single State registration system described in paragraph (1) of this subsection, only a State acting in its capacity as registration State under such single State system may require a motor carrier registered by the Secretary under this part—
 
 &emsp;&emsp;&emsp;(i) to file and maintain evidence of such Federal registration;
 

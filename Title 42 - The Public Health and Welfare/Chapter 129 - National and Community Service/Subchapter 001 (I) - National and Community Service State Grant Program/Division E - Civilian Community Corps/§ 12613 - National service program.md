@@ -24,7 +24,7 @@ To the extent practicable, at least 50 percent of the participants in the nation
 
 Persons desiring to participate in the national service program shall enter into an agreement with the Director to participate in the Corps for a period of not less than nine months and not more than one year, as specified by the Director, and may renew the agreement for not more than one additional such period.
 
-(Pub. L. 101–610, title I, §153, formerly §195B, as added Pub. L. 102–484, div. A, title X, §1092(a)(1), Oct. 23, 1992, 106 Stat. 2523; renumbered §153 andamended Pub. L. 103–82, title I, §104(b), (e)(2)(A), Sept. 21, 1993, 107 Stat. 840, 846.)
+(Pub. L. 101–610, title I, §153, formerly §195B, as added Pub. L. 102–484, div. A, title X, §1092(a)(1), Oct. 23, 1992, 106 Stat. 2523; renumbered §153 and amended Pub. L. 103–82, title I, §104(b), (e)(2)(A), Sept. 21, 1993, 107 Stat. 840, 846.)
 
 #### Codification
 

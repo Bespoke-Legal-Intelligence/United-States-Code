@@ -14,7 +14,7 @@ Fees and charges assessed pursuant to this section shall be in such amounts as m
 
 #### (c) Limitation on fees and charges
 
-(1) The maximum aggregate amount of fees and charges in excess of the amounts being collected under current law which may be assessed and collected pursuant to this section in a fiscal year—
+(1) The maximum aggregate amount of fees and charges in excess of the amounts being collected under current law which may be assessedand collected pursuant to this section in a fiscal year—
 
 &emsp;(A) for services and activities carried out pursuant ot <sup>1</sup> the Federal Water Pollution Control Act \[33 U.S.C. 1251 et seq.\] is $10,000,000; and
 

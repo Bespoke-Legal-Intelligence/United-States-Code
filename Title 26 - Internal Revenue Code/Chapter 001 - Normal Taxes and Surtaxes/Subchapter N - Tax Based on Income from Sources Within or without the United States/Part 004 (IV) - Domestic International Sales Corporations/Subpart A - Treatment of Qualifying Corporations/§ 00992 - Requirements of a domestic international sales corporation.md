@@ -88,7 +88,7 @@ The following corporations shall not be eligible to be treated as a DISC—
 
 &emsp;(2) a personal holding company (as defined in section 542),
 
-&emsp;(3) a financial institution to which section 581 or 593 applies,
+&emsp;(3) a financial institution to which section 581 applies,
 
 &emsp;(4) an insurance company subject to the tax imposed by subchapter L,
 
@@ -108,7 +108,7 @@ If—
 
 > then, for purposes of applying subsection (d)(2) and section 541 (relating to personal holding company tax) to the subsidiary for the taxable year, there shall be taken into account under section 543(a)(5) (relating to produced film rents) any interest in a film acquired by the parent and transferred to the subsidiary as if such interest were acquired by the subsidiary at the time it was acquired by the parent.
 
-(Added Pub. L. 92–178, title V, §501, Dec. 10, 1971, 85 Stat. 535; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 97–354, §5(a)(32), Oct. 19, 1982, 96 Stat. 1695; Pub. L. 98–369, div. A, title VIII, §802(c)(1), July 18, 1984, 98 Stat. 999.)
+(Added Pub. L. 92–178, title V, §501, Dec. 10, 1971, 85 Stat. 535; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 97–354, §5(a)(32), Oct. 19, 1982, 96 Stat. 1695; Pub. L. 98–369, div. A, title VIII, §802(c)(1), July 18, 1984, 98 Stat. 999; Pub. L. 104–188, title I, §1616(b)(11), Aug. 20, 1996, 110 Stat. 1857.)
 
 #### References in Text
 
@@ -118,11 +118,17 @@ Section 941, referred to in subsec. (d)(6), was repealed by Pub. L. 94–455, ti
 
 #### Amendments
 
+1996—Subsec. (d)(3). Pub. L. 104–188 struck out “or 593” after “section 581”.
+
 1984—Subsec. (a)(1)(E). Pub. L. 98–369 added subpar. (E).
 
 1982—Subsec. (d)(7). Pub. L. 97–354 substituted “an S corporation” for “an electing small business corporation (as defined in section 1371(b))”.
 
 1976—Subsecs. (a)(2), (b)(1), (3), (c)(2)(B). Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–188 applicable to taxable years beginning after Dec. 31, 1995, see section 1616(c) of Pub. L. 104–188, set out as a note under section 593 of this title.
 
 #### Effective Date of 1984 Amendment
 

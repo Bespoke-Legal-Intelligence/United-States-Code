@@ -6,7 +6,7 @@ Whenever any person has engaged or there are reasonable grounds to believe that 
 
 #### (b) Attorney's fees; liability of United States for costs
 
-In any action commenced pursuant to this subchapter, the court, in its discretion, may allow the prevailing party, other than the United States, a reasonable attorney's fee as part of the costs, and the United States shall be liable for costs the same as a private person.
+In any action commenced pursuant to this subchapter, the court, in its discretion, mayallow the prevailing party, other than the United States, a reasonable attorney's fee as part of the costs, and the United States shall be liable for costs the same as a private person.
 
 #### (c) State or local enforcement proceedings; notification of State or local authority; stay of Federal proceedings
 
@@ -14,7 +14,7 @@ In the case of an alleged act or practice prohibited by this subchapter which oc
 
 #### (d) References to Community Relations Service to obtain voluntary compliance; duration of reference; extension of period
 
-In the case of an alleged act or practice prohibited by this subchapter which occurs in a State, or political subdivision of a State, which has no State or local law prohibiting such act or practice, a civil action may be brought under subsection (a) of this section: <i>Provided,</i> That the court may refer the matter to the Community Relations Service established by subchapter VIII of this chapter for as long as the court believes there is a reasonable possibility of obtaining voluntary compliance, but for not more than sixty days: <i>Provided further,</i> That upon expiration of such sixty-day period, the court may extend such period for an additional period, not to exceed a cumulative total of one hundred and twenty days, if it believes there then exists a reasonable possibility of securing voluntary compliance.
+In the case of an alleged act or practice prohibited by this subchapter which occurs in a State, or political subdivision of a State, which has no State or local law prohibiting such act or practice, a civil action may be brought under subsection (a) of this section: <i>Provided</i>, That the court may refer the matter to the Community Relations Service established by subchapter VIII of this chapter for as long as the court believes there is a reasonable possibility of obtaining voluntary compliance, but for not more than sixty days: <i>Provided further</i>, That upon expiration of such sixty-day period, the court may extend such period for an additional period, not to exceed a cumulative total of one hundred and twenty days, if it believes there then exists a reasonable possibility of securing voluntary compliance.
 
 (Pub. L. 88–352, title II, §204, July 2, 1964, 78 Stat. 244.)
 

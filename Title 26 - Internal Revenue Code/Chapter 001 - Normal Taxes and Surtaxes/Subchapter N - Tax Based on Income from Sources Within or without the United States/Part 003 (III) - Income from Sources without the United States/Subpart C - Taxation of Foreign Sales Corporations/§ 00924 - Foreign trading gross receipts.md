@@ -44,7 +44,7 @@ Except as otherwise provided in this section, for purposes of this subpart, the 
 
 #### (ii) Allocation of limitation
 
-&emsp;&emsp;&emsp;If the foreign trading gross receipts of a small FSC exceed the limitation of clause (i), the corporation may allocate such limitation among such gross receipts in suchmanner as it may select (at such time and in such manner as may be prescribed in regulations).
+&emsp;&emsp;&emsp;If the foreign trading gross receipts of a small FSC exceed the limitation of clause (i), the corporation may allocate such limitation among such gross receipts in such manner as it may select (at such time and in such manner as may be prescribed in regulations).
 
 #### (iii) Receipts of controlled group aggregated
 
@@ -122,7 +122,7 @@ The activities referred to in subsection (d) are—
 
 &emsp;&emsp;(B) such transaction is accomplished by a subsidy granted by the United States or any instrumentality thereof, or
 
-&emsp;&emsp;(C) such receipts are from another FSC which is a member of the same controlled group of corporations of which such corporation is a member.
+&emsp;&emsp;(C) such receipts are from another FSC which is a member of the same controlledgroup of corporations of which such corporation is a member.
 
 > &emsp;In the case of gross receipts of a FSC from a transaction involving any property, subparagraph (C) shall not apply if such FSC (and all other FSC's which are members of the same controlled group and which receive gross receipts from a transaction involving such property) do not use the pricing rules under paragraph (1) of section 925(a) (or the corresponding provisions of the regulations prescribed under section 925(b)) with respect to any transaction involving such property.
 

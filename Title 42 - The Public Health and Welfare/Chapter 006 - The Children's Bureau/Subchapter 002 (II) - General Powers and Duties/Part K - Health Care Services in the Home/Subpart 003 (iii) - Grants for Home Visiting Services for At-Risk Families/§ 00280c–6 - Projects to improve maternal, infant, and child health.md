@@ -92,7 +92,7 @@ For purposes of subsection (a)(1) of this section, a pregnant woman shall be con
 
 &emsp;In determining which personnel shall be utilized in the delivery of services, the case manager shall consider—
 
-&emsp;&emsp;(A) the stated objective of the project to be operated with the grant, as determinedafter considering identified gaps in the current service delivery system; and
+&emsp;&emsp;(A) the stated objective of the project to be operated with the grant, as determined after considering identified gaps in the current service delivery system; and
 
 &emsp;&emsp;(B) the nature of the needs of the family to be served, as determined at the initial assessment of the family that is conducted by the case manager, and through follow-up contacts by other providers of home visiting services.
 
@@ -260,7 +260,7 @@ For the purpose of carrying out this section, there is authorized to be appropri
 
 #### References in Text
 
-The Social Security Act, referred to in subsecs. (a)(3)(A), (b)(6), and (m)(7), is act Aug. 14, 1935, ch. 531,49 Stat. 620, as amended. Titles IV, V, and XIX of the Act are classified generally to subchapters IV (§601 et seq.), V (§701 et seq.), and XIX (§1396 et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+The Social Security Act, referred to in subsecs. (a)(3)(A), (b)(6), and (m)(7), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles IV, V, and XIX of the Act are classified generally to subchapters IV (§601 et seq.), V (§701 et seq.), and XIX (§1396 et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
 The Individuals with Disabilities Education Act, referred to in subsec. (n)(3), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended. Part H of the Act is classified generally to subchapter VIII (§1471 et seq.) of chapter 33 of Title 20, Education. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
 
@@ -281,6 +281,10 @@ Amendment by Pub. L. 103–448 effective Oct. 1, 1994, see section 401 of Pub. L
 #### Effective Date
 
 Section effective July 10, 1992, with programs making awards providing financial assistance in fiscal year 1993 and subsequent years effective for awards made on or after Oct. 1, 1992, see section 801(b), (d)(1) of Pub. L. 102–321, set out as an Effective Date of 1992 Amendment note under section 236 of this title.
+
+#### Reference to Community, Migrant, Public Housing, or Homeless Health Center Considered Reference to Health Center
+
+Reference to community health center, migrant health center, public housing health center, or homeless health center considered reference to health center, see section 4(c) of Pub. L. 104–299, set out as a note under section 254b of this title.
 
 #### Purpose
 

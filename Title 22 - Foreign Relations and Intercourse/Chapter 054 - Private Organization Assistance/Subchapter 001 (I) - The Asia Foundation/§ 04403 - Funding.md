@@ -8,7 +8,7 @@ There are authorized to be appropriated to the Secretary of State $13,900,000 fo
 
 Of amounts authorized to be appropriated under subsection (a) of this section, $1,324,000 for the fiscal year 1990 and $1,324,000 for the fiscal year 1991 shall be available only for the expansion of programs and services (including the establishment of a field office) for Oceania, comprised of Polynesia, Micronesia, and Melanesia.
 
-(Pub. L. 98–164, title IV, §404, Nov. 22, 1983, 97 Stat. 1039; Pub. L. 99–93, title IV, §401, Aug. 16,1985, 99 Stat. 437; Pub. L. 100–204, title VI, §601, Dec. 22, 1987, 101 Stat. 1383; Pub. L. 101–246, title V, §501, Feb. 16, 1990, 104 Stat. 73.)
+(Pub. L. 98–164, title IV, §404, Nov. 22, 1983, 97 Stat. 1039; Pub. L. 99–93, title IV, §401, Aug. 16, 1985, 99 Stat. 437; Pub. L. 100–204, title VI, §601, Dec. 22, 1987, 101 Stat. 1383; Pub. L. 101–246, title V, §501, Feb. 16, 1990, 104 Stat. 73.)
 
 #### Amendments
 

@@ -14,10 +14,8 @@ The purposes of this section are to—
 
 &nbsp;
 
-| &nbsp; | &nbsp; |
+| &nbsp; | Energy Standards Equations |
 | :--- | ---: |
-| &nbsp; | Energy  Standards |
-| &nbsp; | Equations |
 | Refrigerators and Refrigerator-Freezers with manual defrost | 16\.3 AV+316 |
 | Refrigerator-Freezers—partial automatic defrost | 21\.8 AV+429 |
 | Refrigerator-Freezers—automatic defrost with: |  |
@@ -55,9 +53,8 @@ The purposes of this section are to—
 
 &nbsp;
 
-| &nbsp; | &nbsp; |
-| :--- | ---: |
 | Product Class: | Ratio |
+| :--- | ---: |
 | Without Reverse Cycle and With Louvered Sides: |  |
 | Less than 6,000 Btu | 8\.0 |
 | 6,000 to 7,999 Btu | 8\.5 |
@@ -211,7 +208,7 @@ The purposes of this section are to—
 
 &nbsp;
 
-| Application for Operation of | Ballast Input Voltage | Total Nominal Lamp Watts | Ballast Efficacy Factor |
+| Application for Operation of | Ballast Input Voltage | Total Nominal Lamp Watts | Ballast Efficacy Factor |
 | :--- | :---: | :---: | ---: |
 | one F40T12 lamp | 120 | &nbsp;40 | 1\.805 |
 | &nbsp; | 277 | &nbsp;40 | 1\.805 |
@@ -226,7 +223,7 @@ The purposes of this section are to—
 
 (7)(A) The Secretary shall publish a final rule no later than January 1, 1992, to determine if the standards established under paragraph (5) should be amended, including whether such standards should be amended so that they would be applicable to ballasts described in paragraph (6) and other fluorescent lamp ballasts. Such rule shall contain such amendment, if any, and provide that the amendment shall apply to products manufactured on or after January 1, 1995.
 
-(B) After January 1, 1992, the Secretary shall publish a final rule no later than five years afterthe date of publication of a previous final rule. The Secretary shall determine in such rule whether to amend the standards in effect for fluorescent lamp ballasts, including whether such standards should be amended so that they would be applicable to additional fluorescent lamp ballasts.
+(B) After January 1, 1992, the Secretary shall publish a final rule no later than five years after the date of publication of a previous final rule. The Secretary shall determine in such rule whether to amend the standards in effect for fluorescent lamp ballasts, including whether such standards should be amended so that they would be applicable to additional fluorescent lamp ballasts.
 
 (C) Any amendment prescribed under subparagraph (B) shall apply to products manufactured after a date which is five years after—
 
@@ -253,13 +250,13 @@ FLUORESCENT LAMPS
 | Lamp Type | Nominal Lamp Wattage | Minimum CRI | Minimum Average Lamp Efficacy (LPW) | Effective Date (Months) |
 | :--- | :---: | :---: | :---: | ---: |
 | 4-foot medium bi-pin | G6\>35 W | 69 | 75\.0 | 36 |
-| &nbsp; | G6�35 W | 45 | 75\.0 | 36 |
+| &nbsp; | G635 W | 45 | 75\.0 | 36 |
 | 2-foot U-shaped | G6\>35 W | 69 | 68\.0 | 36 |
-| &nbsp; | G6�35 W | 45 | 64\.0 | 36 |
+| &nbsp; | G635 W | 45 | 64\.0 | 36 |
 | 8-foot slimline | &nbsp;65 W | 69 | 80\.0 | 18 |
-| &nbsp; | G6�65 W | 45 | 80\.0 | 18 |
+| &nbsp; | G665 W | 45 | 80\.0 | 18 |
 | 8-foot high output | G6\>100 W | 69 | 80\.0 | 18 |
-| &nbsp; | G6�100 W | 45 | 80\.0 | 18 |
+| &nbsp; | G6100 W | 45 | 80\.0 | 18 |
 
 INCANDESCENT REFLECTOR LAMPS
 
@@ -298,10 +295,10 @@ INCANDESCENT REFLECTOR LAMPS
 
 | &nbsp; | &nbsp; |
 | :--- | ---: |
-| Lavatory faucets | 2\.5 gallons per minute |
-| Lavatory replacement aerators | 2\.5 gallons per minute |
-| Kitchen faucets | 2\.5 gallons per minute |
-| Kitchen replacement aerators | 2\.5 gallons per minute |
+| Lavatory faucets | 2\.5 gallons per minute |
+| Lavatory replacement aerators | 2\.5 gallons per minute |
+| Kitchen faucets | 2\.5 gallons per minute |
+| Kitchen replacement aerators | 2\.5 gallons per minute |
 | Metering faucets | 0\.25 gallons per cycle&nbsp;&nbsp; |
 
 (3)(A) If the maximum flow rate requirements or the design requirements of ASME/ANSI Standard A112.18.1M–1989 are amended to improve the efficiency of water use of any type or class of showerhead or faucet and are approved by ANSI, the Secretary shall, not later than 12 months after the date of such amendment, publish a final rule establishing an amended uniform national standard for that product at the level specified in the amended ASME/ANSI Standard A112.18.1M and providing that such standard shall apply to products manufactured after a date which is 12 months after the publication of such rule, unless the Secretary determines, by rule published in the Federal Register, that adoption of a uniform national standard at the level specified in such amended ASME/ANSI Standard A112.18.1M—
@@ -382,7 +379,7 @@ INCANDESCENT REFLECTOR LAMPS
 
 &emsp;(II) is applicable to any sale or installation of all products in such type or class of low consumption water closet or low consumption urinal.
 
-(C) If, after any period of five consecutive years, the maximum flush volume requirements of the ASME/ANSI standard for low consumption water closets are not amended to improve the efficiency of water use of such products, or after any such period such requirements for low consumption urinals are not amended to improve the efficiency of water use of such products, the Secretary shall, not later than six months after the end of such five-year period, publish a final rule waiving the provisions of section 6297(c) of this title with respect to any State regulation concerning the water use or water efficiency of such type or class of water closet or urinal if such State regulation—
+(C) If, after any period of five consecutive years, the maximum flush volume requirements of the ASME/ANSI standard for low consumption water closets are not amended to improve the efficiency of water use of such products, or after any such period such requirements for lowconsumption urinals are not amended to improve the efficiency of water use of such products, the Secretary shall, not later than six months after the end of such five-year period, publish a final rule waiving the provisions of section 6297(c) of this title with respect to any State regulation concerning the water use or water efficiency of such type or class of water closet or urinal if such State regulation—
 
 &emsp;(i) is more stringent than the standards in effect for such type or class of water closet or urinal; and
 
@@ -436,7 +433,7 @@ After issuance of the last final rules required under subsections (b) through (i
 
 (1) The Secretary may not prescribe any amended standard which increases the maximum allowable energy use, or, in the case of showerheads, faucets, water closets, or urinals, water use, or decreases the minimum required energy efficiency, of a covered product.
 
-(2)(A) Any new or amended energy conservation standard prescribed by the Secretary under this section for any type (or class) of covered product shall be designed to achieve the maximum improvement in energy efficiency, or, in the case of showerheads, faucets, water closets, or urinals, water efficiency, which the Secretary determines is technologically feasible and economically justified.
+(2)(A) Any new or amended energy conservation standard prescribed by the Secretary underthis section for any type (or class) of covered product shall be designed to achieve the maximum improvement in energy efficiency, or, in the case of showerheads, faucets, water closets, or urinals, water efficiency, which the Secretary determines is technologically feasible and economically justified.
 
 (B)(i) In determining whether a standard is economically justified, the Secretary shall, after receiving views and comments furnished with respect to the proposed standard, determine whether the benefits of the standard exceed its burdens by, to the greatest extent practicable, considering—
 
@@ -456,7 +453,7 @@ After issuance of the last final rules required under subsections (b) through (i
 
 (ii) For purposes of clause (i)(V), the Attorney General shall make a determination of the impact, if any, of any lessening of competition likely to result from such standard and shall transmit such determination, not later than 60 days after the publication of a proposed rule prescribing or amending an energy conservation standard, in writing to the Secretary, together with an analysis of the nature and extent of such impact. Any such determination and analysis shall be published by the Secretary in the Federal Register.
 
-(iii) If the Secretary finds that the additional cost to the consumer of purchasing a product complying with an energy conservation standard level will be less than three times the value of the energy, and as applicable, water, savingsduring the first year that the consumer will receive as a result of the standard, as calculated under the applicable test procedure, there shall be a rebuttable presumption that such standard level is economically justified. A determination by the Secretary that such criterion is not met shall not be taken into consideration in the Secretary's determination of whether a standard is economically justified.
+(iii) If the Secretary finds that the additional cost to the consumer of purchasing a product complying with an energy conservation standard level will be less than three times the value of the energy, and as applicable, water, savings during the first year that the consumer will receive as a result of the standard, as calculated under the applicable test procedure, there shall be a rebuttable presumption that such standard level is economically justified. A determination by the Secretary that such criterion is not met shall not be taken into consideration in the Secretary's determination of whether a standard is economically justified.
 
 (3) The Secretary may not prescribe an amended or new standard under this section for a type (or class) of covered product if—
 

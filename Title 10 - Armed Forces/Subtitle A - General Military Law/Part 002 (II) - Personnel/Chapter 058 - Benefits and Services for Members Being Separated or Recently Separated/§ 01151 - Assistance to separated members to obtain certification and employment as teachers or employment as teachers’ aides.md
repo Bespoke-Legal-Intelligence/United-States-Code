@@ -20,13 +20,13 @@ States with Alternative Certification Requirements and Teacher and Teacher's Aid
 
 &emsp;(2) periodically request information from States identified under paragraph (1) to identify in these States those local educational agencies that—
 
-&emsp;&emsp;(A) are receiving grants under title I of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 2701 <sup>1</sup> et seq.) as a result of having within their jurisdictions concentrations of children from low-income families; and
+&emsp;&emsp;(A) are receiving grants under title I of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6301 et seq.) as a result of having within their jurisdictions concentrations of children from low-income families; and
 
 &emsp;&emsp;(B) are also experiencing a shortage of qualified teachers, in particular a shortage of science, mathematics, or engineering teachers; and
 
 &emsp;(3) periodically request information from all States to identify local educational agencies that—
 
-&emsp;&emsp;(A) are receiving grants under title I of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 2701 <sup>1</sup> et seq.) as a result of having within their jurisdictions concentrations of children from low-income families; and
+&emsp;&emsp;(A) are receiving grants under title I of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6301 et seq.) as a result of having within their jurisdictions concentrations of children from low-income families; and
 
 &emsp;&emsp;(B) are experiencing a shortage of teachers’ aides.
 
@@ -58,7 +58,7 @@ Selection of Participants.—(1) Selection of members to participate in the plac
 
 &emsp;(A) Except as provided in subparagraphs (B) and (C), not later than one year after the date of the discharge or release of the applicant from active duty.
 
-&emsp;(B) In the case of an applicant discharged or released from active duty before January 19, 1994, not later than one year after the date of the enactment of the National Defense Authorization Act for Fiscal Year 1995.
+&emsp;(B) In the case of an applicant discharged or released from active duty before January 19, 1994, not later than October 5, 1995.
 
 &emsp;(C) In the case of an applicant becoming educationally qualified for teacher placement assistance in accordance with subsection (c)(2) after the date of the discharge or release of the applicant from active duty, not later than one year after the date on which the applicant becomes educationally qualified.
 
@@ -70,7 +70,7 @@ Selection of Participants.—(1) Selection of members to participate in the plac
 
 (3) The Secretary of Defense, and the Secretary of Transportation with respect to the Coast Guard, may not select a member to participate in the program unless the Secretary concerned has sufficient appropriations for the placement program available at the time of the selection to satisfy the obligations to be incurred by the United States under subsections (g) and (h) with respect to that member.
 
-(4)(A) The Secretaries shall provide under the program for identifying, during each fiscal year in the period referred to in subsection (c)(1)(A), noncommissioned officers who, on or before theend of such fiscal year, will have completed 10 or more years of continuous active duty, who have the potential to perform competently as elementary or secondary school teachers, but who do not satisfy the minimum educational qualification criterion under subsection (c)(1)(B)(i) for teacher placement assistance.
+(4)(A) The Secretaries shall provide under the program for identifying, during each fiscal year in the period referred to in subsection (c)(1)(A), noncommissioned officers who, on or before the end of such fiscal year, will have completed 10 or more years of continuous active duty, who have the potential to perform competently as elementary or secondary school teachers, but who do not satisfy the minimum educational qualification criterion under subsection (c)(1)(B)(i) for teacher placement assistance.
 
 (B) The Secretaries shall inform noncommissioned officers identified under subparagraph (A) of the opportunity to qualify in accordance with subsection (c)(2) for teacher placement assistance under the program.
 
@@ -82,9 +82,9 @@ Agreement.—A member selected to participate in the placement program authorize
 
 &emsp;(2) to accept—
 
-&emsp;&emsp;(A) in the case of a member selected for assistance for placement as a teacher, an offer of full-time employment as an elementary or secondary school teacher for not less than five school years with a local educational agency identified under subsection (b)(2), to begin the school year after obtaining that certification or licensure; or
+&emsp;&emsp;(A) in the case of a member selected for assistance for placement as a teacher, an offer of full-time employment as an elementary or secondary school teacher for not less than two school years with a local educational agency identified under subsection (b)(2), to begin the school year after obtaining that certification or licensure; or
 
-&emsp;&emsp;(B) in the case of a member selected for assistance for placement as a teacher's aide, an offer of full-time employment as a teacher's aide in an elementary or secondary school for not less than five school years with a local educational agency identified under subsection (b)(3), to begin the school year after obtaining the necessary credentials.
+&emsp;&emsp;(B) in the case of a member selected for assistance for placement as a teacher's aide, an offer of full-time employment as a teacher's aide in an elementary or secondary school for not less than two school years with a local educational agency identified under subsection (b)(3), to begin the school year after obtaining the necessary credentials.
 
 (g)
 
@@ -94,7 +94,7 @@ Stipend for Participants.—(1) Except as provided in paragraph (2), the Secreta
 
 &emsp;(B) the total costs of the type described in paragraphs (1), (2), (3), (8), and (9) of section 472 of the Higher Education Act of 1965 (20 U.S.C. 1087<i>ll</i>) incurred by the participant while obtaining teacher certification or licensure or the necessary credentials to serve as a teacher's aide and employment as an elementary or secondary school teacher or teacher aide.
 
-(2) A member who is separated under the special separation benefits program under section 1174a of this title, receives voluntary separation payments under section 1175 of this title, or retires pursuant to the authority provided in section 4403 of the National Defense Authorization Act for Fiscal Year 1993 (Public Law 102–484; 10 U.S.C. 1293 note) shall not be paid a stipend under paragraph (1).
+(2) A member who is separated under the special separation benefits program under section 1174a of this title or receives voluntary separation payments under section 1175 of this title shall not be paid a stipend under paragraph (1).
 
 (3) A stipend paid under paragraph (1) shall be taken into account in determining the eligibility of the participant for Federal student financial assistance provided under title IV of the Higher Education Act of 1965 (20 U.S.C. 1070 et seq.).
 
@@ -106,19 +106,13 @@ Grants to Facilitate Placement.—(1) In the case of a participant in the placem
 
 (3) Under an agreement referred to in paragraph (1) or (2)—
 
-&emsp;(A) the local educational agency shall agree to employ the participant full time for not less than five consecutive school years (at a basic salary to be certified to the Secretary concerned) in a school of the local educational agency serving a concentration of children from low-income families; and
+&emsp;(A) the local educational agency shall agree to employ the participant full time for not less than two consecutive school years (at a basic salary to be certified to the Secretary concerned) in a school of the local educational agency serving a concentration of children from low-income families; and
 
 &emsp;(B) the Secretary concerned shall agree to pay to the local educational agency an amount based upon the basic salary paid by the local educational agency to the participant as a teacher or teacher's aide. The rate of payment by the Secretary concerned shall be as follows:
 
-&emsp;&emsp;(i) For the first school year of employment, 50 percent of the basic salary, except that the payment may not exceed $25,000.
+&emsp;&emsp;(i) For the first school year of employment, 50 percent of the basic salary, except that the payment may not exceed $17,000.
 
-&emsp;&emsp;(ii) For the second school year of employment, 40 percent of the basic salary, except that the payment may not exceed $10,000.
-
-&emsp;&emsp;(iii) For the third school year of employment, 30 percent of the basic salary, except that the payment may not exceed $7,500.
-
-&emsp;&emsp;(iv) For the fourth school year of employment, 20 percent of the basic salary, except that the payment may not exceed $5,000.
-
-&emsp;&emsp;(v) For the fifth school year of employment, 10 percent of the basic salary, except that the payment may not exceed $2,500.
+&emsp;&emsp;(ii) For the second school year of employment, 25 percent of the basic salary, except that the payment may not exceed $8,000.
 
 (4) Payments required under paragraph (2) may be made by the Secretary concerned in such installments as the Secretary concerned may determine.
 
@@ -164,17 +158,37 @@ Definitions.—In this section:
 
 &emsp;(2) The term “alternative certification or licensure requirements” means State or local teacher certification or licensure requirements that permit a demonstrated competence in appropriate subject areas gained in careers outside of education to be substituted for traditional teacher training course work.
 
-(Added Pub. L. 102–484, div. D, title XLIV, §4441(a)(1), Oct. 23, 1992, 106 Stat. 2725; amended Pub. L. 103–35, title II, §201(f)(1), May 31, 1993, 107 Stat. 99; Pub. L. 103–160, div. A, title V, §561(k), title XIII, §1331(a)–(c)(1), (d)–(g), Nov. 30, 1993, 107 Stat. 1668, 1791–1793; Pub. L. 103–337, div. A, title V, §543(c), title X, §1070(a)(7), title XI, §1131(a), (b), Oct. 5, 1994, 108 Stat. 2769, 2855, 2871; Pub. L. 103–382, title III, §391(b)(1), (2), Oct. 20, 1994, 108 Stat. 4021.)
+(Added Pub. L. 102–484, div. D, title XLIV, §4441(a)(1), Oct. 23, 1992, 106 Stat. 2725; amended Pub. L. 103–35, title II, §201(f)(1), May 31, 1993, 107 Stat. 99; Pub. L. 103–160, div. A, title V, §561(k), title XIII, §1331(a)–(c)(1), (d)–(g), Nov. 30, 1993, 107 Stat. 1668, 1791–1793; Pub. L. 103–337, div. A, title V, §543(c), title X, §1070(a)(7), title XI, §1131(a), (b), Oct. 5, 1994, 108 Stat. 2769, 2855, 2871; Pub. L. 103–382, title III, §391(b)(1), (2), Oct. 20, 1994, 108 Stat. 4021; Pub. L. 104–106, div. A, title XV, §1503(a)(10), Feb. 10, 1996, 110 Stat. 511; Pub. L. 104–201, div. A, title V, §576(a), Sept. 23, 1996, 110 Stat. 2535.)
 
 #### References in Text
 
 The Elementary and Secondary Education Act of 1965, referred to in subsec. (b)(2)(A), (3)(A), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended generally by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519. Title I of the Act is classified generally to subchapter I (§6301 et seq.) of chapter 70 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
 
-The date of the enactment of the National Defense Authorization Act for Fiscal Year 1995, referred to in subsec. (e)(1)(B), is the date of enactment of Pub. L. 103–337, which was approved Oct. 5, 1994.
-
 The Higher Education Act of 1965, referred to in subsec. (g)(3), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended. Title IV of the Act is classified generally to subchapter IV (§1070 et seq.) of chapter 28 of Title 20, Education, and part C (§2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
 #### Amendments
+
+1996—Subsec. (b)(2)(A), (3)(A). Pub. L. 104–106, §1503(a)(10)(A), substituted “(20 U.S.C. 6301 et seq.)” for “(20 U.S.C. 2701 et seq.)”.
+
+Subsec. (e)(1)(B). Pub. L. 104–106, §1503(a)(10)(B), substituted “not later than October 5, 1995” for “not later than one year after the date of the enactment of the National Defense Authorization Act for Fiscal Year 1995”.
+
+Subsec. (f)(2)(A), (B). Pub. L. 104–201, §576(a)(1)(A), substituted “two school years” for “five school years”.
+
+Subsec. (g)(2). Pub. L. 104–201, §576(a)(2), substituted “title or receives” for “title, receives” and struck out “, or retires pursuant to the authority provided in section 4403 of the National Defense Authorization Act for Fiscal Year 1993 (Public Law 102–484; 10 U.S.C. 1293 note)” after “section 1175 of this title”.
+
+Subsec. (h)(3)(A). Pub. L. 104–201, §576(a)(1)(B), substituted “two consecutive school years” for “five consecutive school years”.
+
+Subsec. (h)(3)(B)(i). Pub. L. 104–201, §576(a)(3)(A), substituted “$17,000” for “$25,000”.
+
+Subsec. (h)(3)(B)(ii). Pub. L. 104–201, §576(a)(3)(B), substituted “25 percent” for “40 percent” and “$8,000” for “$10,000”.
+
+Subsec. (h)(3)(B)(iii) to (v). Pub. L. 104–201, §576(a)(3)(C), struck out cls. (iii) to (v) which read as follows:
+
+“(iii) For the third school year of employment, 30 percent of the basic salary, except that the payment may not exceed $7,500.
+
+“(iv) For the fourth school year of employment, 20 percent of the basic salary, except that the payment may not exceed $5,000.
+
+“(v) For the fifth school year of employment, 10 percent of the basic salary, except that the payment may not exceed $2,500.”
 
 1994—Subsec. (a). Pub. L. 103–337, §543(c)(1), inserted “, and the Secretary of Transportation with respect to the Coast Guard,” after “Secretary of Defense” in introductory provisions.
 
@@ -192,7 +206,7 @@ Subsec. (c)(4). Pub. L. 103–337, §1131(a)(2), struck out par. (4) which read 
 
 Subsec. (d). Pub. L. 103–337, §543(c)(4), inserted “and the Secretary of Transportation” after “Secretary of Defense”.
 
-Subsec. (e)(1). Pub. L. 103–337, §543(c)(5), inserted “, and the Secretary of Transportation with respect to the Coast Guard,” after “Secretary of Defense” in first sentence and substituted “Secretaries” for “Secretary” before “may” in second sentence.
+Subsec. (e)(1). Pub. L. 103–337, §543(c)(5), inserted “, and the Secretary of Transportation with respect tothe Coast Guard,” after “Secretary of Defense” in first sentence and substituted “Secretaries” for “Secretary” before “may” in second sentence.
 
 Pub. L. 103–337, §1131(b), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Selection of members to participate in the placement program authorized by subsection (a) shall be made on the basis of applications submitted to the Secretary of Defense not later than one year after the date of the discharge or release of the members from active duty or, in the case of an applicant becoming educationally qualified for teacher placement assistance in accordance with subsection (c)(2), not later than one year after the date on which the applicant becomes educationally qualified. In the case of members referred to in subsection (c)(3), the Secretary shall establish a reasonable time period after October 23, 1992, for the submission of applications. An application shall be in such form and contain such information as the Secretary may require.”
 
@@ -266,9 +280,11 @@ Section 1331(h) of Pub. L. 103–160 provided that: “The amendments made by su
 
 &emsp;“(2) agreements entered into by the Secretary before such date with local educational agencies under such sections.”
 
+#### Savings Provision
+
+Section 576(d) of Pub. L. 104–201 provided that: “The amendments made by this section \[amending this section and sections 1598 and 2410j of this title\] do not affect obligations under agreements entered into in accordance with section 1151, 1598, or 2410j of title 10, United States Code, before the date of the enactment of this Act \[Sept. 23, 1996\].”
+
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 1142, 1598, 2410c of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should be “6301”.</i>
 

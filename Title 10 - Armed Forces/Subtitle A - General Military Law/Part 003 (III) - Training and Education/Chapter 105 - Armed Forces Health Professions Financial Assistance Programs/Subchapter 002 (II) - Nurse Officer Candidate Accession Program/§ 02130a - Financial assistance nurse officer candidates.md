@@ -2,7 +2,7 @@
 
 (a)
 
-Bonus Authorized.—(1) A person described in subsection (b) who, during the period beginning on November 29, 1989, and ending on September 30, 1996, executes a written agreement in accordance with subsection (c) to accept an appointment as a nurse officer may, upon the acceptance of the agreement by the Secretary concerned, be paid an accession bonus of not more than $5,000. The bonus shall be paid in periodic installments, as determined by the Secretary concerned at the time the agreement is accepted, except that the first installment may not exceed $2,500.
+Bonus Authorized.—(1) A person described in subsection (b) who, during the period beginning on November 29, 1989, and ending on September 30, 1998, executes a written agreement in accordance with subsection (c) to accept an appointment as a nurse officer may, upon the acceptance of the agreement by the Secretary concerned, be paid an accession bonus of not more than $5,000. The bonus shall be paid in periodic installments, as determined by the Secretary concerned at the time the agreement is accepted, except that the first installment may not exceed $2,500.
 
 (2) In addition to the accession bonus payable under paragraph (1), a person selected under such paragraph shall be entitled to a monthly stipend of not more than $500 for each month the individual is enrolled as a full-time student in an accredited baccalaureate degree program in nursing at a civilian educational institution that does not have a Senior Reserve Officers’ Training Program established under section 2102 of this title by the Secretary selecting the person. The continuation bonus may be paid for not more than 24 months.
 
@@ -14,7 +14,7 @@ Eligible Students.—A person eligible to enter into an agreement under subsecti
 
 &emsp;(2) has completed the second year of an accredited baccalaureate degree program in nursing and has more than 6 months of academic work remaining before graduation; and
 
-&emsp;(3) meets the qualifications for appointment as an officer of a reserve component of the Army, Navy, or Air Force as set forth in section 591 <sup>1</sup> of this title or, in the case of the Public Health Service, section 207 of the Public Health Service Act (42 U.S.C. 209) and the regulations of the Secretary concerned.
+&emsp;(3) meets the qualifications for appointment as an officer of a reserve component of the Army, Navy, or Air Force as set forth in section 12201 of this title or, in the case of the Public Health Service, section 207 of the Public Health Service Act (42 U.S.C. 209) and the regulations of the Secretary concerned.
 
 (c)
 
@@ -24,7 +24,7 @@ Required Agreement.—The agreement referred to in subsection (a) shall provide 
 
 &emsp;(2) That, upon acceptance of the agreement by the Secretary concerned, the person will enlist in a reserve component of an armed force.
 
-&emsp;(3) That the person will accept an appointment as an officer in the Nurse Corps of the Army or the Navy or as an officer designated as a nurse officer in the Air Force or commissioned corps of the Public Health Service, asthe case may be, upon graduation from the nursing degree program.
+&emsp;(3) That the person will accept an appointment as an officer in the Nurse Corps of the Army or the Navy or as an officer designated as a nurse officer in the Air Force or commissioned corps of the Public Health Service, as the case may be, upon graduation from the nursing degree program.
 
 &emsp;(4) That the person will serve on active duty as such an officer—
 
@@ -50,13 +50,15 @@ Refund of Payments.—(1) A person shall refund any bonus or stipend paid under 
 
 Regulations.—The Secretaries concerned shall prescribe regulations to carry out this section.
 
-(Added Pub. L. 101–189, div. A, title VII, §707(a), Nov. 29, 1989, 103 Stat. 1474; amended Pub. L. 101–510, div. A, title VI, §613(c), title XIV, §1484(d)(1), Nov. 5, 1990, 104 Stat. 1577, 1716; Pub. L. 102–190, div. A, title VI, §612(c)(1), Dec. 5, 1991, 105 Stat. 1376; Pub. L. 102–484, div. A, title VI, §612(h), Oct. 23, 1992, 106 Stat. 2421; Pub. L. 103–160, div. A, title VI, §611(a), Nov. 30, 1993, 107 Stat. 1679; Pub. L. 103–337, div. A, title VI, §612(a), Oct. 5, 1994, 108 Stat. 2783.)
-
-#### References in Text
-
-Section 591 of this title, referred to in subsec. (b)(3), was renumbered section 12201 of this title by Pub. L. 103–337, div. A, title XVI, §1662(c)(2), Oct. 5, 1994, 108 Stat. 2990. A new section 591 was added by section 1662(d)(3) of Pub. L. 103–337.
+(Added Pub. L. 101–189, div. A, title VII, §707(a), Nov. 29, 1989, 103 Stat. 1474; amended Pub. L. 101–510, div. A, title VI, §613(c), title XIV, §1484(d)(1), Nov. 5, 1990, 104 Stat. 1577, 1716; Pub. L. 102–190, div. A, title VI, §612(c)(1), Dec. 5, 1991, 105 Stat. 1376; Pub. L. 102–484, div. A, title VI, §612(h), Oct. 23, 1992, 106 Stat. 2421; Pub. L.103–160, div. A, title VI, §611(a), Nov. 30, 1993, 107 Stat. 1679; Pub. L. 103–337, div. A, title VI, §612(a), Oct. 5, 1994, 108 Stat. 2783; Pub. L. 104–106, div. A, title VI, §612(a), title XV, §1501(c)(23), Feb. 10, 1996, 110 Stat. 359, 499; Pub. L. 104–201, div. A, title VI, §612(a), Sept. 23, 1996, 110 Stat. 2543.)
 
 #### Amendments
+
+1996—Subsec. (a)(1). Pub. L. 104–201 substituted “September 30, 1998” for “September 30, 1997”.
+
+Pub. L. 104–106, §612(a), substituted “September 30, 1997” for “September 30, 1996”.
+
+Subsec. (b)(3). Pub. L. 104–106, §1501(c)(23), substituted “section 12201” for “section 591”.
 
 1994—Subsec. (a)(1). Pub. L. 103–337 substituted “September 30, 1996” for “September 30, 1995”.
 
@@ -73,6 +75,10 @@ Pub. L. 101–510, §613(c)(1), substituted “September 30, 1992,” for “Sep
 Subsecs. (a)(2), (b)(1). Pub. L. 101–510, §613(c)(2), inserted “by the Secretary selecting the person” after “section 2102 of this title”.
 
 Subsec. (d)(3). Pub. L. 101–510, §1484(d)(1)(B), substituted “November 29, 1989” for “the date of the enactment of the National Defense Authorization Act for Fiscal Years 1990 and 1991”.
+
+#### Effective Date of 1996 Amendment
+
+Section 1501(c) of Pub. L. 104–106 provided that the amendment made by that section is effective as of Dec. 1, 1994, and as if included as an amendment made by the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as originally enacted.
 
 #### Coverage of Period of Lapsed Authority
 

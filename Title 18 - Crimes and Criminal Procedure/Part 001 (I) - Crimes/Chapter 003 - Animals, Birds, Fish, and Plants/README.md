@@ -2,12 +2,12 @@
 
 | Sec. |  |
 | :--- | ---: |
-| 41\. | Hunting, fishing, trapping; disturbance or injury on wildlife refuges. |
-| 42\. | Importation or shipment of injurious mammals, birds, fish (including mollusks and crustacea), amphibia, and reptiles; permits, specimens for museums; regulations. |
-| 43\. | Animal enterprise terrorism. |
+| [41\.](%C2%A7%2000041%20-%20Hunting%2C%20fishing%2C%20trapping%3B%20disturbance%20or%20injury%20on%20wildlife%20refuges.md) | Hunting, fishing, trapping; disturbance or injury on wildlife refuges. |
+| [42\.](%C2%A7%2000042%20-%20Importation%20or%20shipment%20of%20injurious%20mammals%2C%20birds%2C%20fish%20%28including%20mollusks%20and%20crustacea%29%2C%20amphibia%2C%20and%20reptiles%3B%20permits%2C%20specimens%E2%80%A6.md) | Importation or shipment of injurious mammals, birds, fish (including mollusks and crustacea), amphibia, and reptiles; permits, specimens for museums; regulations. |
+| [43\.](%C2%A7%2000043%20-%20Animal%20enterprise%20terrorism.md) | Animal enterprise terrorism. |
 | \[44, 45. | Repealed.\] |
-| 46\. | Transportation of water hyacinths. |
-| 47\. | Use of aircraft or motor vehicles to hunt certain wild horses or burros; pollution of watering holes. |
+| [46\.](%C2%A7%2000046%20-%20Transportation%20of%20water%20hyacinths.md) | Transportation of water hyacinths. |
+| [47\.](%C2%A7%2000047%20-%20Use%20of%20aircraft%20or%20motor%20vehicles%20to%20hunt%20certain%20wild%20horses%20or%20burros%3B%20pollution%20of%20watering%20holes.md) | Use of aircraft or motor vehicles to hunt certain wild horses or burros; pollution of watering holes. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -4,12 +4,7 @@
 | :--- | ---: |
 | [10101\.](%C2%A7%2010101%20-%20Reserve%20components%20named.md) | Reserve components named. |
 | [10102\.](%C2%A7%2010102%20-%20Purpose%20of%20reserve%20components.md) | Purpose of reserve components. |
-| [10103\.](%C2%A7%2010103%20-%20Basic%20policy%20for%20order%20of%20the%20National%20Guard%20and%20reserve%20components%20to%20active%20duty.md) | Basic policy for order of National Guard into Federal service.<sup>1</sup> |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |
-| :--- | ---: |
+| [10103\.](%C2%A7%2010103%20-%20Basic%20policy%20for%20order%20into%20Federal%20service.md) | Basic policy for order into Federal service. |
 | [10104\.](%C2%A7%2010104%20-%20Army%20Reserve%20composition.md) | Army Reserve: composition. |
 | [10105\.](%C2%A7%2010105%20-%20Army%20National%20Guard%20of%20the%20United%20States%20composition.md) | Army National Guard of the United States: composition. |
 | [10106\.](%C2%A7%2010106%20-%20Army%20National%20Guard%20when%20a%20component%20of%20the%20Army.md) | Army National Guard: when a component of the Army. |
@@ -24,11 +19,13 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### Amendments
+
+1996—Pub. L. 104–106, div. A, title XV, §1501(b)(2)(B), Feb. 10, 1996, 110 Stat. 495, substituted “into Federal service” for “of National Guard into Federal service” in item 10103.
+
 #### Chapter Referred to in Other Sections
 
 This chapter is referred to in section 261 of this title.
-
-<i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
 
 
 ---
@@ -37,7 +34,7 @@ This chapter is referred to in section 261 of this title.
 
 - [&sect; 10101 - Reserve components named](%C2%A7%2010101%20-%20Reserve%20components%20named.md)
 - [&sect; 10102 - Purpose of reserve components](%C2%A7%2010102%20-%20Purpose%20of%20reserve%20components.md)
-- [&sect; 10103 - Basic policy for order of the National Guard and reserve components to active duty](%C2%A7%2010103%20-%20Basic%20policy%20for%20order%20of%20the%20National%20Guard%20and%20reserve%20components%20to%20active%20duty.md)
+- [&sect; 10103 - Basic policy for order into Federal service](%C2%A7%2010103%20-%20Basic%20policy%20for%20order%20into%20Federal%20service.md)
 - [&sect; 10104 - Army Reserve composition](%C2%A7%2010104%20-%20Army%20Reserve%20composition.md)
 - [&sect; 10105 - Army National Guard of the United States composition](%C2%A7%2010105%20-%20Army%20National%20Guard%20of%20the%20United%20States%20composition.md)
 - [&sect; 10106 - Army National Guard when a component of the Army](%C2%A7%2010106%20-%20Army%20National%20Guard%20when%20a%20component%20of%20the%20Army.md)

@@ -6,7 +6,7 @@ For the purposes of carrying out its functions and duties in connection with any
 
 #### (b) Witnesses and evidence
 
-Such attendance of witnesses and the production of such documentary evidence may be required from any place in the United States at any designated place of hearing. And in case ofdisobedience to a subpena the commission may invoke the aid of any district or territorial court of the United States in requiring the attendance and testimony of witnesses and the production of documentary evidence, and such court within the jurisdiction of which such inquiry is carried on may, in case of contumacy or refusal to obey a subpena issued to any corporation or other person, issue an order requiring such corporation or other person to appear before the commission, or to produce documentary evidence if so ordered or to give evidence touching the matter in question; and any failure to obey such order of the court may be punished by such court as a contempt thereof.
+Such attendance of witnesses and the production of such documentary evidence may be required from any place in the United States at any designated place of hearing. And in case of disobedience to a subpena the commission may invoke the aid of any district or territorial court of the United States in requiring the attendance and testimony of witnesses and the production of documentary evidence, and such court within the jurisdiction of which such inquiry is carried on may, in case of contumacy or refusal to obey a subpena issued to any corporation or other person, issue an order requiring such corporation or other person to appear before the commission, or to produce documentary evidence if so ordered or to give evidence touching the matter in question; and any failure to obey such order of the court may be punished by such court as a contempt thereof.
 
 #### (c) Mandamus
 
@@ -18,7 +18,7 @@ The commission may order testimony to be taken by deposition in any proceeding o
 
 #### (e) Fees and mileage of witnesses
 
-Witnesses summoned before the commission shall be paid the same fees and mileage that are paid witnesses in the courts of the United States, and witnesses whose depositions are taken and the persons taking the same, except employees of the commission, shall severally be entitled to the same fees and mileage as are paid for like services in the courts of the United States.
+Witnesses summoned before the commission shall be paid the same fees and mileage that are paid witnesses in the courts of the UnitedStates, and witnesses whose depositions are taken and the persons taking the same, except employees of the commission, shall severally be entitled to the same fees and mileage as are paid for like services in the courts of the United States.
 
 #### (f) Statements under oath
 
@@ -58,7 +58,7 @@ Subsec. (d). Pub. L. 85–686, §9(b), substituted “pending before the commiss
 
 #### Effective Date of 1970 Amendment
 
-Amendment by Pub. L. 91–452 effective on sixtieth day following Oct. 15, 1970, and not to affect any immunity to which any individual is entitled under this section by reason of any testimony given before sixtieth day following Oct. 15, 1970, see section 260 of Pub. L. 91–452, set out as an Effective Date; Savings Provisionnote under section 6001 of Title 18, Crimes and Criminal Procedure.
+Amendment by Pub. L. 91–452 effective on sixtieth day following Oct. 15, 1970, and not to affect any immunity to which any individual is entitled under this section by reason of any testimony given before sixtieth day following Oct. 15, 1970, see section 260 of Pub. L. 91–452, set out as an Effective Date; Savings Provision note under section 6001 of Title 18, Crimes and Criminal Procedure.
 
 #### Federal Rules of Civil Procedure
 

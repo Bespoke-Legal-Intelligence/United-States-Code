@@ -1,6 +1,6 @@
 ### §5381. Natural wine
 
-Natural wine is the product of the juice or must of sound, ripe grapes or other sound, ripefruit, made with such cellar treatment as may be authorized under section 5382 and containing not more than 21 percent by weight of total solids. Any wine conforming to such definition except for having become substandard by reason of its condition shall be deemed not to be natural wine, unless the condition is corrected.
+Natural wine is the product of the juice or must of sound, ripe grapes or other sound, ripe fruit, made with such cellar treatment as may be authorized under section 5382 and containing not more than 21 percent by weight of total solids. Any wine conforming to such definition except for having become substandard by reason of its condition shall be deemed not to be natural wine, unless the condition is corrected.
 
 (Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1383; amended Pub. L. 96–39, title VIII, §807(a)(48), July 26, 1979, 93 Stat. 288.)
 

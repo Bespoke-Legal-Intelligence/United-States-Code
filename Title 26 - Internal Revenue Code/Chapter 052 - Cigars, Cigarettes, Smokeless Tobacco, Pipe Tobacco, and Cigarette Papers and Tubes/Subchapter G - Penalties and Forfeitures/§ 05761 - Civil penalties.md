@@ -34,7 +34,7 @@ Subsec. (d). Pub. L. 97–34, §§722(a)(3), 724(b)(5), added subsec. (d). Forme
 
 1958—Subsec. (a). Pub. L. 85–859 struck out reference to section 6652 of this title.
 
-Subsec. (b). Pub. L. 85–859 substituted provisions relating to failure to pay tax for provisions which made persons willfully failing to pay a tax liable, in addition to any other penalty provided in this title, to a penalty of the amount of the tax evaded, or not paid.
+Subsec. (b). Pub. L. 85–859 substituted provisions relating to failure to pay tax for provisions which madepersons willfully failing to pay a tax liable, in addition to any other penalty provided in this title, to a penalty of the amount of the tax evaded, or not paid.
 
 Subsec. (c). Pub. L. 85–859 substituted provisions relating to failure to make deposit of taxes for provisions which authorized a penalty of 5 percent of the tax due but unpaid where a person failed to pay tax at the time prescribed, and required the penalties to be added to the tax and assessed and collected at the same time, in the same manner, and as a part of the tax.
 
@@ -50,7 +50,7 @@ Amendment by Pub. L. 98–369 effective as if included in the provision of the T
 
 #### Effective Date of 1983 Amendment
 
-Amendment by Pub. L. 97–448 effective, except as otherwise provided, as if it had been included in theprovision of the Economic Recovery Tax Act of 1981, Pub. L. 97–34, to which such amendment relates, see section 109 of Pub. L. 97–448, set out as a note under section 1 of this title.
+Amendment by Pub. L. 97–448 effective, except as otherwise provided, as if it had been included in the provision of the Economic Recovery Tax Act of 1981, Pub. L. 97–34, to which such amendment relates, see section 109 of Pub. L. 97–448, set out as a note under section 1 of this title.
 
 #### Effective Date of 1981 Amendment
 

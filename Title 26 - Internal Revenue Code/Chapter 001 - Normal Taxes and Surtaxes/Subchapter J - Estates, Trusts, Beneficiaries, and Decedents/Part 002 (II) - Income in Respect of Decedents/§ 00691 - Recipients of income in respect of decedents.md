@@ -78,7 +78,7 @@ The amount of any deduction specified in section 162, 163, 164, 212, or 611 (rel
 
 #### (C) Excess retirement accumulation tax
 
-&emsp;&emsp;For purposes of this subsection, no deduction shall be allowed for the portion of theestate tax attributable to the increase in such tax under section 4980A(d).
+&emsp;&emsp;For purposes of this subsection, no deduction shall be allowed for the portion of the estate tax attributable to the increase in such tax under section 4980A(d).
 
 #### (2) Method of computing deduction
 
@@ -132,13 +132,19 @@ The amount of any deduction specified in section 162, 163, 164, 212, or 611 (rel
 
 &emsp;&emsp;<b>For application of this section to income in respect of a deceased partner, see section 753.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 235; Feb. 26, 1964, Pub. L. 88–272, title II, §221(c)(2), 78 Stat. 75; Sept. 2, 1964, Pub. L. 88–570, §1, 78 Stat. 854; Oct. 4, 1976, Pub. L. 94–455, title XIX, §§1901(a)(91), 1906(b)(13)(A), 1951(b)(10)(A), title XX, §§2005(a)(4), 2006(b)(3), 90 Stat. 1779, 1834, 1839, 1876, 1889; Nov. 6, 1978, Pub. L. 95–600, title VII, §702(b)(1), 92 Stat. 2925; Apr. 1, 1980, Pub. L. 96–222, title I, §101(a)(8)(A), 94 Stat. 201; Apr. 2, 1980, Pub. L. 96–223, title IV, §401(a), 94 Stat. 299; Oct. 19, 1980, Pub. L. 96–471, §§2(b)(5), 3, 94 Stat. 2254; Aug. 13, 1981, Pub. L. 97–34, title IV, §403(a)(2)(C), 95 Stat. 301; July 18, 1984, Pub. L. 98–369, div. A, title IV, §474(r)(18), 98 Stat. 843; Oct. 22, 1986, Pub. L. 99–514, title III, §301(b)(8), title XIV, §1432(a)(3), 100 Stat. 2217, 2729; Dec. 22, 1987, Pub. L. 100–203, title X, §10202(c)(3), 101 Stat. 1330–392; Nov. 10, 1988, Pub. L. 100–647, title I, §1011A(g)(10), 102 Stat. 3482; Dec. 19, 1989, Pub. L. 101–239, title VII, §7841(d)(3), 103 Stat. 2428; Nov. 5, 1990, Pub. L. 101–508, title XI, §11101(d)(4), 104 Stat. 1388–405; July 3, 1992, Pub. L. 102–318, title V, §521(b)(27), 106 Stat. 312; Aug. 10, 1993, Pub. L. 103–66, title XIII, §13113(d)(4), 107 Stat. 430.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 235; Feb. 26, 1964, Pub. L. 88–272, title II, §221(c)(2), 78 Stat. 75; Sept. 2, 1964, Pub. L. 88–570, §1, 78 Stat. 854; Oct. 4, 1976, Pub. L. 94–455, title XIX, §§1901(a)(91), 1906(b)(13)(A), 1951(b)(10)(A), title XX, §§2005(a)(4), 2006(b)(3), 90 Stat. 1779, 1834, 1839, 1876, 1889; Nov. 6, 1978, Pub. L. 95–600, title VII, §702(b)(1), 92 Stat. 2925; Apr. 1, 1980, Pub. L. 96–222, title I, §101(a)(8)(A), 94 Stat. 201; Apr. 2, 1980, Pub. L. 96–223, title IV, §401(a), 94 Stat. 299; Oct. 19, 1980, Pub. L. 96–471, §§2(b)(5), 3, 94 Stat. 2254; Aug. 13, 1981, Pub. L. 97–34, title IV, §403(a)(2)(C), 95 Stat. 301; July 18, 1984, Pub. L. 98–369, div. A, title IV, §474(r)(18), 98 Stat. 843; Oct. 22, 1986, Pub. L. 99–514, title III, §301(b)(8), title XIV, §1432(a)(3), 100 Stat. 2217, 2729; Dec. 22, 1987, Pub. L. 100–203, title X, §10202(c)(3), 101Stat. 1330–392; Nov. 10, 1988, Pub. L. 100–647, title I, §1011A(g)(10), 102 Stat. 3482; Dec. 19, 1989, Pub. L. 101–239, title VII, §7841(d)(3), 103 Stat. 2428; Nov. 5, 1990, Pub. L. 101–508, title XI, §11101(d)(4), 104 Stat. 1388–405; July 3, 1992, Pub. L. 102–318, title V, §521(b)(27), 106 Stat. 312; Aug. 10, 1993, Pub. L. 103–66, title XIII, §13113(d)(4), 107 Stat. 430; Aug. 20, 1996, Pub. L. 104–188, title I, §§1401(b)(9), 1704(t)(73), 110 Stat. 1789, 1891.)
+
+#### Amendment of Subsection (c)
+
+<i>Pub. L. 104–188, title I, §1401(b)(9), (c), Aug. 20, 1996, 110 Stat. 1789, provided that, applicable to taxable years beginning after Dec. 31, 1999, with retention of certain transition rules, subsection (c) of this section is amended by striking par. (5).</i>
 
 #### Amendments
 
+1996—Subsec. (c)(5). Pub. L. 104–188, §1704(t)(73), provided that section 521(b)(27) of Pub. L. 102–318 shall be applied as if “Section 691(c)(5)” appeared instead of “Section 691(c)”. See 1992 Amendment note below.
+
 1993—Subsec. (c)(4). Pub. L. 103–66 inserted “1202,” after “1201,”.
 
-1992—Subsec. (c)(5). Pub. L. 102–318, which directed that section 691(c) be amended “in the text and heading” by substituting “402(d)” for “402(e)”, was executed by making the substitution in subsec. (c)(5) to reflect the probable intent of Congress.
+1992—Subsec. (c)(5). Pub. L. 102–318, which directed that section 691(c) be amended “in the text and heading” by substituting “402(d)” for “402(e)”, was executed by making the substitution in subsec. (c)(5). See 1996 Amendment note above.
 
 1990—Subsec. (c)(4). Pub. L. 101–508 substituted “1(h)” for “1(j)”.
 
@@ -188,6 +194,10 @@ Subsecs. (e), (f). Pub. L. 94–455, §1951(b)(10)(A), redesignated subsec. (f) 
 
 Subsecs. (e), (f). Pub. L. 88–570 added subsec. (e) and redesignated former subsec. (e) as (f).
 
+#### Effective Date of 1996 Amendment
+
+Amendment by section 1401(b)(9) of Pub. L. 104–188 applicable to taxable years beginning after Dec. 31, 1999, with retention of certain transition rules, see section 1401(c) of Pub. L. 104–188, set out as a note under section 402 of this title.
+
 #### Effective Date of 1993 Amendment
 
 Amendment by Pub. L. 103–66 applicable to stock issued after Aug. 10, 1993, see section 13113(e) of Pub. L. 103–66, set out as a note under section 53 of this title.
@@ -210,7 +220,7 @@ Amendment by Pub. L. 100–203 applicable to dispositions in taxable years begin
 
 #### Effective Date of 1986 Amendment
 
-Amendment by section 301(b)(8) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 301(c) of Pub. L. 99–514, set out as a note under section 62 of this title.
+Amendment by section 301(b)(8) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986,see section 301(c) of Pub. L. 99–514, set out as a note under section 62 of this title.
 
 Amendment by section 1432(a)(3) of Pub. L. 99–514 applicable to generation-skipping transfers (within the meaning of section 2611 of this title) made after Oct. 22, 1986, except as otherwise provided, see section 1433 of Pub. L. 99–514, set out as an Effective Date note under section 2601 of this title.
 
@@ -226,7 +236,7 @@ Amendment by Pub. L. 97–34 applicable to estates of decedents dying after Dec.
 
 For effective date of amendment by section 2(b)(5) of Pub. L. 96–471, see section 6(a)(1) of Pub. L. 96–471, set out as an Effective Date note under section 453 of this title.
 
-Section 6(b) of Pub. L. 96–471 provided: “The amendment made by section 3 \[amending this section\] shallapply in the case of decedents dying after the date of the enactment of this Act \[Oct. 19, 1980\].”
+Section 6(b) of Pub. L. 96–471 provided: “The amendment made by section 3 \[amending this section\] shall apply in the case of decedents dying after the date of the enactment of this Act \[Oct. 19, 1980\].”
 
 Amendment by Pub. L. 96–223 (repealing section 2005(a)(4) of Pub. L. 94–455 and the amendments made thereby, which had amended this section) applicable in respect of decedents dying after Dec. 31, 1976, and except for certain elections, this title to be applied and administered as if those repealed provisions had not been enacted, see section 401(b), (e) of Pub. L. 96–223, set out as a note under section 1023 of this title.
 
@@ -258,6 +268,10 @@ Pub. L. 94–455, §2005(a)(4), cited as a credit to this section, and the amend
 
 Section 1951(b)(10)(B) of Pub. L. 94–455 provided that: “Notwithstanding subparagraph (A) \[amending this section\], any election made under section 691(e) to have subsection (a)(4) of such section apply in the case of an installment obligation shall continue to be effective with respect to taxable years beginning after December 31, 1976. Section 691(c) shall not apply in respect of any amount included in gross income by reason of the preceding sentence. The liability under bond filed under section 44(d) of the Internal Revenue Code of 1939 (or corresponding provisions of prior law) in respect of which such an election applies is hereby released with respect to taxable years to which such election applies.”
 
+#### Plan Amendments Not Required Until January 1, 1998
+
+For provisions directing that if any amendments made by subtitle D \[§§1401–1465\] of title I of Pub. L. 104–188 require an amendment to any plan or annuity contract, such amendment shall not be required to be made before the first day of the first plan year beginning on or after Jan. 1, 1998, see section 1465 of Pub. L. 104–188, set out as a note under section 401 of this title.
+
 #### Plan Amendments Not Required Until January 1, 1994
 
 For provisions directing that if any amendments made by subtitle B \[§§521–523\] of title V of Pub. L. 102–318 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1994, see section 523 of Pub. L. 102–318, set out as a note under section 401 of this title.
@@ -274,5 +288,5 @@ Returns of decedents, see section 6012 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 67, 220, 421, 453B, 753, 1014, 1038, 1245, 1250 of this title.
+This section is referred to in sections 67, 220, 221, 421, 453B, 753, 1014, 1038, 1245, 1250, 1367 of this title.
 

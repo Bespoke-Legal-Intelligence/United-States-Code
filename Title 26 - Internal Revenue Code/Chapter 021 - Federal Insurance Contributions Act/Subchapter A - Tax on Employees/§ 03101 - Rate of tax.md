@@ -7,10 +7,10 @@ In addition to other taxes, there is hereby imposed on the income of every indiv
 &nbsp;
 
 | <b>In cases of wages received during:</b> | <b>The rate shall be:</b> |
-| :--- | ---: |
-| 1984, 1985, 1986, or 1987 | 5\.7 percent |
-| 1988 or 1989 | 6\.06 percent |
-| 1990 or thereafter | 6\.2 percent. |
+| --- | --- |
+| &nbsp;&nbsp;1984, 1985, 1986, or 1987 D5.7 percent |  |
+| &nbsp;&nbsp;1988 or 1989 D6.06 percent |  |
+| &nbsp;&nbsp;1990 or thereafter D6.2 percent. |  |
 
 #### (b) Hospital insurance
 
@@ -44,7 +44,7 @@ Section 233 of the Social Security Act, referred to in subsec. (c), is classifie
 
 1977—Subsec. (a). Pub. L. 95–216, §101(a)(1), substituted “1974 through 1977” for “1974 through 2010” in par. (1), substituted “wages received during the calendar year 1978, the rate shall be 5.05 percent” for “wages received after December 31, 2010, the rate shall be 5.95 percent” in par. (2), and added pars. (3) to (7).
 
-Subsec. (b). Pub. L. 95–216, §101(b)(1), substituted “wages received during the calendar year 1978, the rate shall be 1.00 percent” for “wages received during the calendar years 1978 through 1980, the rate shall be 1.10 percent” in par. (2), substituted “wages received during the calendar years 1979 and 1980, the rate shall be 1.05 percent” for “wages received during the calendar years 1981 through 1985, the rate shall be 1.35 percent”, in par. (3), substituted “wages received during the calendar years 1981 through 1984, the rate shall be 1.30 percent” for “wages received after December 31, 1985, the rate shall be 1.50 percent” in par. (4), and added pars. (5) and (6).
+Subsec. (b). Pub. L. 95–216, §101(b)(1), substituted “wages received during the calendar year 1978, the rate shall be 1.00 percent” for “wages received during the calendar years 1978 through 1980, the rate shall be 1.10 percent” in par. (2), substituted “wages received during the calendar years 1979 and 1980, the rate shall be 1.05 percent” for “wages received during the calendar years1981 through 1985, the rate shall be 1.35 percent”, in par. (3), substituted “wages received during the calendar years 1981 through 1984, the rate shall be 1.30 percent” for “wages received after December 31, 1985, the rate shall be 1.50 percent” in par. (4), and added pars. (5) and (6).
 
 Subsec. (c). Pub. L. 95–216, §317(b)(2), added subsec. (c).
 
@@ -54,7 +54,7 @@ Subsec. (b). Pub. L. 94–455, §1903(a)(1)(B), redesignated pars. (3) to (6) as
 
 1973—Subsec. (a)(4). Pub. L. 93–233, §6(a)(1), struck out provision for application of 4.85 percent rate of tax during calendar years 1974, 1975, 1976, and 1977.
 
-Subsec. (a)(5). Pub. L. 93–233, §6(a)(1), increased rate of tax from 4.80 percent to 4.95 percent and substitutedcalendar year “1974” for “1978” as the initial year for application of such rate.
+Subsec. (a)(5). Pub. L. 93–233, §6(a)(1), increased rate of tax from 4.80 percent to 4.95 percent and substituted calendar year “1974” for “1978” as the initial year for application of such rate.
 
 Subsec. (a)(6). Pub. L. 93–233, §6(a)(1), increased rate of tax from 5.85 percent to 5.95 percent.
 
@@ -110,7 +110,7 @@ Subsec. (b). Pub. L. 89–97, §111(c)(5), struck out “, but without regard t
 
 #### Effective Date of 1983 Amendment
 
-Section 123(a)(3) of Pub. L. 98–21 provided that: “The amendments made by this subsection \[amending thissection and section 3111 of this title\] shall apply to remuneration paid after December 31, 1983.”
+Section 123(a)(3) of Pub. L. 98–21 provided that: “The amendments made by this subsection \[amending this section and section 3111 of this title\] shall apply to remuneration paid after December 31, 1983.”
 
 #### Effective Date of 1977 Amendment
 

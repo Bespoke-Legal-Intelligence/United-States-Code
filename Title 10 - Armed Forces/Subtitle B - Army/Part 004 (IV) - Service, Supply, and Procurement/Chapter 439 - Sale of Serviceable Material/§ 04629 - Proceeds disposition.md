@@ -24,15 +24,13 @@ Historical and Revision Notes
 
 10:1395 (last sentence).
 
-22:259 (last sentence).
-
 Feb. 14, 1927, ch. 134 (last sentence), 44 Stat. 1096.
 
 &nbsp;
 
-July 17, 1914, ch. 149 (proviso), 38 Stat. 512.
+22:259 (last sentence).
 
-&nbsp;
+July 17, 1914, ch. 149 (proviso), 38 Stat. 512.
 
 May 31, 1939, ch. 161 (last sentence), 53 Stat. 796.
 

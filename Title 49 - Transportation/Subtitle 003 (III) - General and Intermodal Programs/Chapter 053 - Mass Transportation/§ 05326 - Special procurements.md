@@ -10,7 +10,7 @@ Turnkey System Projects.—(1) In this subsection, “turnkey system project” 
 
 (b)
 
-Multiyear Rolling Stock.—(1) A recipient procuring rolling stock with Government financial assistance under this chapter may make a multiyear contract to buy the rolling stock and replacement parts under which the recipient has an option to buy additional rolling stock or replacement parts for not more than 5 years after the date of the original contract.
+Multiyear Rolling Stock.—(1) A recipient procuring rolling stock with Government financial assistance under this chapter may make amultiyear contract to buy the rolling stock and replacement parts under which the recipient has an option to buy additional rolling stock or replacement parts for not more than 5 years after the date of the original contract.
 
 (2) The Secretary shall allow at least 2 recipients to act on a cooperative basis to procure rolling stock in compliance with this subsection and other Government procurement requirements.
 
@@ -28,7 +28,9 @@ Historical and Revision Notes
 
 Pub. L. 103–272
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -36,7 +38,7 @@ Pub. L. 103–272
 
 5326
 
-49 App.:1608(<i>l).</i>
+49 App.:1608(<i>l</i>).
 
 July 9, 1964, Pub. L. 88–365, 78 Stat. 302, §12(<i>l</i>); added Dec. 18, 1991, Pub. L. 102–240, §3019, 105 Stat. 2109; Oct. 6, 1992, Pub. L. 102–388, §502(j), 106 Stat. 1567.
 

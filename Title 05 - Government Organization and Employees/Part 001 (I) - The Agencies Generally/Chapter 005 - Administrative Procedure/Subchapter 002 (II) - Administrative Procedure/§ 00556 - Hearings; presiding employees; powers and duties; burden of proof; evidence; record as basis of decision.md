@@ -1,6 +1,6 @@
 ### §556. Hearings; presiding employees; powers and duties; burden of proof; evidence; record as basis of decision
 
-(a) This section applies, according to the provisions thereof, to hearings required by section553 or 554 of this title to be conducted in accordance with this section.
+(a) This section applies, according to the provisions thereof, to hearings required by section 553 or 554 of this title to be conducted in accordance with this section.
 
 (b) There shall preside at the taking of evidence—
 
@@ -36,7 +36,7 @@
 
 &emsp;(11) take other action authorized by agency rule consistent with this subchapter.
 
-(d) Except as otherwise provided by statute, the proponent of a rule or order has the burden of proof. Any oral or documentary evidence may be received, but the agency as a matter of policy shall provide for the exclusion of irrelevant, immaterial, or unduly repetitious evidence. A sanction may not be imposed or rule or order issued except on consideration of the whole record or those parts thereof cited by a party and supported by and in accordance with the reliable, probative, and substantial evidence. The agency may, to the extent consistent with the interests of justice and the policy of the underlying statutes administered by the agency, consider a violation of section 557(d) of this title sufficient grounds for a decision adverse to a party who has knowingly committed such violation or knowingly caused such violation to occur. A party is entitled to present his case or defense by oral or documentary evidence, to submit rebuttal evidence, and to conduct such cross-examination as may be required for a full and true disclosure of the facts. In rule making or determining claims for money or benefits or applications for initial licenses an agency may, when a party will not be prejudiced thereby, adopt procedures for the submission of all or part of the evidence in written form.
+(d) Except as otherwise provided by statute, the proponent of a rule or order has the burden of proof. Any oral or documentary evidence may be received, but the agency as a matter of policy shall provide for the exclusion of irrelevant, immaterial, or unduly repetitious evidence. A sanction may not be imposed or rule or order issued except on consideration of the whole record or those parts thereof cited by a party and supported by and in accordance with the reliable, probative, and substantial evidence. The agency may, to the extent consistent with the interests of justice and the policy of the underlying statutes administered by the agency, consider a violation of section 557(d) of this title sufficientgrounds for a decision adverse to a party who has knowingly committed such violation or knowingly caused such violation to occur. A party is entitled to present his case or defense by oral or documentary evidence, to submit rebuttal evidence, and to conduct such cross-examination as may be required for a full and true disclosure of the facts. In rule making or determining claims for money or benefits or applications for initial licenses an agency may, when a party will not be prejudiced thereby, adopt procedures for the submission of all or part of the evidence in written form.
 
 (e) The transcript of testimony and exhibits, together with all papers and requests filed in the proceeding, constitutes the exclusive record for decision in accordance with section 557 of this title and, on payment of lawfully prescribed costs, shall be made available to the parties. When an agency decision rests on official notice of a material fact not appearing in the evidence in the record, a party is entitled, on timely request, to an opportunity to show the contrary.
 
@@ -48,7 +48,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 5 U.S.C. 1006.
 
@@ -60,17 +62,13 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-<b>1990</b>—Subsec. (c)(6). Pub. L. 101–552, §§4(a)(1), 11, inserted before semicolon at end “or by the use of alternative means of dispute resolution as provided in subchapter IV of this chapter”. See Termination Date of 1990 Amendment; Savings Provision note below.
+1990—Subsec. (c)(6). Pub. L. 101–552, §4(a)(1), inserted before semicolon at end “or by the use of alternative means of dispute resolution as provided in subchapter IV of this chapter”.
 
-Subsec. (c)(7) to (11). Pub. L. 101–552, §§4(a)(2), 11, added pars. (7) and (8) and redesignated former pars. (7) and (8) and redesignated former pars. (7) to (9) as as (9) to (11), respectively. See Termination Date of 1990 Amendment; Savings Provision note below.
+Subsec. (c)(7) to (11). Pub. L. 101–552, §4(a)(2), added pars. (7) and (8) and redesignated former pars. (7) and (8) and redesignated former pars. (7) to (9) as (9) to (11), respectively.
 
-<b>1978</b>—Subsec. (b)(3). Pub. L. 95–251 substituted “administrative law judges” for “hearing examiners”.
+1978—Subsec. (b)(3). Pub. L. 95–251 substituted “administrative law judges” for “hearing examiners”.
 
-<b>1976</b>—Subsec. (d). Pub. L. 94–409 inserted provisions relating to consideration by agency of a violation under section 557(d) of this title.
-
-#### Termination Date of 1990 Amendment; Savings Provision
-
-For termination Oct. 1, 1995, of authority of agencies to use dispute resolution proceedings, with exceptions, under amendments by Pub. L. 101–552, see section 11 of Pub. L. 101–552, set out as a note under section 571 of this title.
+1976—Subsec. (d). Pub. L. 94–409 inserted provisions relating to consideration by agency of a violation under section 557(d) of this title.
 
 #### Effective Date of 1976 Amendment
 
@@ -110,5 +108,5 @@ Securities and Exchange Commission, delegation of functions by, see section 78d�
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 553, 554, 557, 558, 706, 3105 of this title; title 2 sections 501, 502, 1219, 1220, 1405; title 7 sections 86, 87e, 87f–1, 1359ii, 2023, 2707, 3804, 3805, 4906, 6802, 6804; title 8 section 1182; title 15 sections 57a, 2605, 3412; title 16 sections 796, 839f, 1536, 2602, 3636; title 20 section 1234; title 21 sections 321, 342, 379e, 1041; title 22 sections 1037a, 4136; title 30 sections 185, 811, 1415; title 33 sections 907, 1319, 1321; title 39 sections 404, 3624, 3661; title 41 sections 10b–1, 422; title 42 sections 300h–2, 2241, 7171, 7407, 7413, 7502, 7511a, 7524, 7607, 9612, 11504; title 46 sections 7702, 9303; title 47 section 155; title 49 sections 31136, 31317; title 50 App. sections 16, 2159, 2410, 2412.
+This section is referred to in sections 553, 554, 557, 558, 706, 3105 of this title; title 2 sections 501, 502, 1219, 1220, 1405; title 7 sections 86, 87e, 87f–1, 1359ii, 2023, 2707, 3804, 3805, 4906, 6802, 6804; title 8 section 1182; title 15 sections 57a, 2605, 3412; title 16 sections 796, 839f, 1536, 2602, 3636; title 20 section 1234; title 21 sections 321, 342, 379e, 1041; title 22 sections 1037a, 4136; title 30 sections 185, 811, 1415; title 33 sections 907, 1319, 1321; title 39 sections 404, 3624, 3661; title 41 sections 10b–1, 422; title 42 sections 300h–2, 2241, 7171, 7407, 7413, 7502, 7511a, 7524, 7607, 9612, 11504; title 46 sections 7702, 9303; title 47 section 155;title 49 sections 31136, 31317; title 50 App. sections 16, 2159, 2410, 2412.
 

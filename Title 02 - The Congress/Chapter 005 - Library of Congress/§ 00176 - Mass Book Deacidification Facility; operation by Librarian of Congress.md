@@ -6,7 +6,7 @@ Notwithstanding any other provision of law, the Librarian of Congress shall equi
 
 #### Authorization To Construct Facility
 
-Section 1 of Pub. L. 98–427 provided: “That the Librarian of Congress is authorized and directed, subject to the supervision and construction authority of a Federal civilian or military agency, to construct the Library of Congress Mass Book Deacidification Facility in accordance with the general design developed by the Library of Congress and reviewed by the Architect of the Capitol, as set forth in the document entitled ‘Library of Congress Mass Book Deacidification Facility, Engineering, Design, and Cost Estimate and Drawings’, dated December 1983. Such facility shall be constructed on Federal property within seventy-five miles of the United States Capitol Building.”
+Section 1 of Pub. L. 98–427 provided: “That the Librarian of Congress is authorized and directed, subjectto the supervision and construction authority of a Federal civilian or military agency, to construct the Library of Congress Mass Book Deacidification Facility in accordance with the general design developed by the Library of Congress and reviewed by the Architect of the Capitol, as set forth in the document entitled ‘Library of Congress Mass Book Deacidification Facility, Engineering, Design, and Cost Estimate and Drawings’, dated December 1983. Such facility shall be constructed on Federal property within seventy-five miles of the United States Capitol Building.”
 
 #### Authorization of Appropriation
 

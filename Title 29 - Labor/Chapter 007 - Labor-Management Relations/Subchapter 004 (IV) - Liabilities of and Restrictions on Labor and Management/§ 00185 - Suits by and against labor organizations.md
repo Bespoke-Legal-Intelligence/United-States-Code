@@ -2,7 +2,7 @@
 
 #### (a) Venue, amount, and citizenship
 
-Suits for violation of contracts between an employer and a labor organization representing employees in an industry affecting commerce as defined in this chapter, or between any such labor organizations, may be brought in any district court of the United States having jurisdiction of the parties, without respect to the amount in controversy or without regard to the citizenship of the parties.
+Suits for violation of contracts between an employer and a labor organization representing employees in an industry affecting commerce as defined in this chapter, or between any such labor organizations, may be brought in any district court of the United States having jurisdiction of the parties, without respect to theamount in controversy or without regard to the citizenship of the parties.
 
 #### (b) Responsibility for acts of agent; entity for purposes of suit; enforcement of money judgments
 
@@ -28,5 +28,5 @@ This chapter, referred to in subsecs. (a) and (b), was in the original “this A
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 187 of this title.
+This section is referred to in section 187 of this title; title 42 section 2297h–8.
 

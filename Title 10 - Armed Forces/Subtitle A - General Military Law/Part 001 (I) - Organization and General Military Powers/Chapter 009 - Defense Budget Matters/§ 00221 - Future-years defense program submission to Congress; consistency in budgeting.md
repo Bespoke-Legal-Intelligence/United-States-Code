@@ -24,45 +24,55 @@ A prior section 221 was renumbered section 226 of this title.
 
 1990—Pub. L. 101–510, §1402(a)(3)(A), which directed amendment of section catchline by substituting “Multiyear” for “Five-year”, was executed by substituting “Multiyear” for “Five-Year” as the probable intent of Congress.
 
-Subsec. (a). Pub. L. 101–510, §1402(a)(1), (2), substituted “a multiyear” for “the current five-year” and inserted at end “Any such multiyear defense program shall cover the fiscal year with respect to which the budget is submitted and at least the four succeeding fiscal years.”
+Subsec. (a). Pub. L. 101–510, §1402(a)(1), (2), substituted “a multiyear” for “the current five-year” andinserted at end “Any such multiyear defense program shall cover the fiscal year with respect to which the budget is submitted and at least the four succeeding fiscal years.”
 
 Subsecs. (b)(2)(A), (c). Pub. L. 101–510, §1402(a)(2)(A), substituted “multiyear” for “five-year”.
 
 #### Program Elements for Ballistic Missile Defense Organization
 
-Pub. L. 103–337, div. A, title II, §235, Oct. 5, 1994, 108 Stat. 2701, provided that: “In the budget justification materials submitted to Congress in support of the Department of Defense budget for any fiscal year after fiscal year 1995 (as submitted in the budget of the President), the amount requested for activities of the Ballistic Missile Defense Organization shall be set forth in accordance with the following program elements:
+Pub. L. 104–106, div. A, title II, §251, Feb. 10, 1996, 110 Stat. 233, provided that:
 
-&emsp;“(1) National Missile Defense.
+“(a)
 
-&emsp;“(2) Theater High-Altitude Area Defense (THAAD).
+Elements Specified.—In the budget justification materials submitted to Congress in support of the Department of Defense budget for any fiscal year after fiscal year 1996 (as submitted with the budget of the President under section 1105(a) of title 31, United States Code), the amount requested for activities of the Ballistic Missile Defense Organization shall be set forth in accordance with the following program elements:
 
-&emsp;“(3) The Hawk Missile system.
+&emsp;“(1) The Patriot system.
 
-&emsp;“(4) Battle Management, Command, Control, Communications, and Intelligence (BM/CG6<i>3</i>I).
+&emsp;“(2) The Navy Lower Tier (Area) system.
 
-&emsp;“(5) Patriot Advanced Capability-3 Missile System.
+&emsp;“(3) The Theater High-Altitude Area Defense (THAAD) system.
 
-&emsp;“(6) Patriot Advanced Capability-3 Missile risk reduction.
+&emsp;“(4) The Navy Upper Tier (Theater Wide) system.
 
-&emsp;“(7) Navy Lower Tier Missile Defense.
+&emsp;“(5) The Corps Surface-to-Air Missile (SAM) system.
 
-&emsp;“(8) Navy Upper Tier Missile Defense.
+&emsp;“(6) Other Theater Missile Defense Activities.
 
-&emsp;“(9) Army Corps Surface-to-Air Missile (CORPS SAM).
+&emsp;“(7) National Missile Defense.
 
-&emsp;“(10) Boost Phase Intercept Program.
+&emsp;“(8) Follow-On and Support Technologies.
 
-&emsp;“(11) Other Theater Missile Defense Activities.
+“(b)
 
-&emsp;“(12) Support Technologies.
+Treatment of Core Theater Missile Defense Programs.—Amounts requested for core theater missile defense programs specified in section 234 \[10 U.S.C. 2431 note\] shall be specified in individual, dedicated program elements, and amounts appropriated for such programs shall be available only for activities covered by those program elements.
 
-&emsp;“(13) Program Management.”
+“(c)
+
+BM/C<sup>3</sup>I Programs.—Amounts requested for programs, projects, and activities involving battle management, command, control, communications, and intelligence (BM/C<sup>3</sup>I) shall be included in the ‘Other Theater Missile Defense Activities’ program element or the ‘National Missile Defense’ program element, as determined on the basis of the primary objectives involved.
+
+“(d)
+
+Management and Support.—Each program element shall include requests for the amounts necessary for the management and support of the programs, projects, and activities contained in that program element.”
+
+Similar provisions were contained in Pub. L. 103–337, div. A, title II, §235, Oct. 5, 1994, 108 Stat. 2701, prior to repeal by Pub. L. 104–106, div. A, title II, §253(8), Feb. 10, 1996, 110 Stat. 235.
 
 #### Budget Submissions on Salaries and Expenses Related to Administrative Activities
 
-Pub. L. 104–61, title VIII, §8058, Dec. 1, 1995, 109 Stat. 663, provided that: “The President shall include with each budget for a fiscal year submitted to the Congress under section 1105 of title 31, United States Code, materials that shall identify clearly and separately the amounts requested in the budget for appropriation for that fiscal year for salaries and expenses related to administrative activities of the Department of Defense, the military departments, and the Defense Agencies.”
+Pub. L. 104–208, div. A, title I, §101(b) \[title VIII, §8047\], Sept. 30, 1996, 110 Stat. 3009–71, 3009–98, provided that: “The President shall include with each budget for a fiscal year submitted to the Congress under section 1105 of title 31, United States Code, materials that shall identify clearly and separately the amounts requested in the budget for appropriation for that fiscal year for salaries and expenses related to administrative activities of the Department of Defense, the military departments, and the Defense Agencies.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 104–61, title VIII, §8058, Dec. 1, 1995, 109 Stat. 663.
 
 Pub. L. 103–335, title VIII, §8069, Sept. 30, 1994, 108 Stat. 2635.
 
@@ -80,5 +90,5 @@ Section 1404 of Pub. L. 101–510 directed President to submit with budget submi
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 222, 2501 of this title; title 50 section 404b.
+This section is referred to in sections 113, 222, 2501, 10543 of this title; title 50 section 404b.
 

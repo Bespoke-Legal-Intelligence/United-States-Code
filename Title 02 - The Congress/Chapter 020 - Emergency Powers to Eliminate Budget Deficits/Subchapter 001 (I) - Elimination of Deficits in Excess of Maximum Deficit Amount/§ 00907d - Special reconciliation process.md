@@ -42,7 +42,7 @@
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), in the Senate the provisions of sections 636 and 641 of this title for the consideration of concurrent resolutions on the budget and conference reports thereon shall also apply to the consideration of resolutions, and reconciliation billsand reconciliation resolutions reported under this paragraph and conference reports thereon.
+&emsp;Except as provided in paragraph (2), in the Senate the provisions of sections 636 and 641 of this title for the consideration of concurrent resolutions on the budget and conference reports thereon shall also apply to the consideration of resolutions, and reconciliation bills and reconciliation resolutions reported under this paragraph and conference reports thereon.
 
 #### (2) Limit on debate
 

@@ -1,12 +1,6 @@
 ### §5205. Use of income on endowment
 
-#### (a) Requirement for funding of United States fellows in emerging European democracies
-
-For any fiscal year, not less than 50 percent of the amounts made available to Eisenhower Exchange Fellowships, Incorporated, pursuant to section 5203(a) of this title shall be available only to assist United States fellows in traveling to and studying in emerging European democracies.
-
-#### (b) Limitation on study in United States
-
-For any fiscal year, not more than 50 percent of the amounts made available to Eisenhower Exchange Fellowships, Incorporated, pursuant to section 5203(a) of this title shall be available to assist foreign fellows in traveling to and studying in the United States.
+#### (a), (b) Repealed. Pub. L. 104–134, title I, §101\[(a)\] \[title IV, §407\], Apr. 26, 1996, 110 Stat. 1321, 1321–45; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327
 
 #### (c) Agricultural exchange program
 
@@ -16,5 +10,11 @@ For any fiscal year, as may be determined by Eisenhower Exchange Fellowships, In
 
 In order to ensure that the United States fellows participating in programs of the Eisenhower Exchange Fellowships, Incorporated, are representative of the cultural, ethnic, and racial diversity of the American people, of the amounts made available to Eisenhower Exchange Fellowships, Incorporated, pursuant to section 5203(a) of this title which are obligated and expended for United States fellowship programs, not less than 10 percent shall be available only for participation by individuals who are representative of United States minority populations.
 
-(Pub. L. 101–454, §6, Oct. 24, 1990, 104 Stat. 1065.)
+(Pub. L. 101–454, §6, Oct. 24, 1990, 104 Stat. 1065; Pub. L. 104–134, title I, §101\[(a)\] \[title IV, §407\], Apr. 26, 1996, 110 Stat. 1321, 1321–45; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.)
+
+#### Amendments
+
+1996—Subsec. (a). Pub. L. 104–134 struck out heading and text of subsec. (a). Text read as follows: “For any fiscal year, not less than 50 percent of the amounts made available to Eisenhower Exchange Fellowships, Incorporated, pursuant to section 5203(a) of this title shall be available only to assist United States fellows in traveling to and studying in emerging European democracies.”
+
+Subsec. (b). Pub. L. 104–134 struck out heading and text of subsec. (b). Text read as follows: “For any fiscal year, not more than 50 percent of the amounts made available to Eisenhower Exchange Fellowships, Incorporated, pursuant to section 5203(a) of this title shall be available to assist foreign fellows in traveling to and studying in the United States.”
 

@@ -18,7 +18,9 @@ Inspection.—(1) The Secretary at any time may—
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -32,7 +34,7 @@ Aug. 23, 1958, Pub. L. 85–726, §407(d), 72 Stat. 766.
 
 &nbsp;
 
-49 App.:1551(b) (1)(E).
+49 App.:1551(b)(1)(E).
 
 Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1601(b)(1)(E); added Oct. 4, 1984, Pub. L. 98–443, §3(e), 98 Stat. 1704.
 
@@ -44,7 +46,7 @@ Aug. 23, 1958, Pub. L. 85–726, §407(e) (1st–3d sentences), 72 Stat. 766; Ja
 
 &nbsp;
 
-49 App.:1551(b) (1)(E).
+49 App.:1551(b)(1)(E).
 
 In subsection (a), the word “unreasonable” is substituted for “undue” for consistency in the revised title and with other titles of the United States Code.
 
@@ -54,5 +56,5 @@ In subsection (b)(2), the words “to carry out this subsection” are substitut
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 40109, 41110, 41708, 46301 of this title.
+This section is referred to in sections 41110, 41708 of this title.
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-After an applicant is determined eligible for assistance under this chapter by the appropriate county committee established pursuant to section 1982 <sup>1</sup> of this title, the Secretary shall evaluate, in accordance with regulations issued by the Secretary, the farming plan and financial situation of each qualified farmer or rancher applicant.
+After an applicant is determined eligible for assistance under this chapter by the appropriate county committee established pursuant to section 1982 <sup>1</sup> of this title, the Secretary shall evaluate, in accordance with regulations issued by the Secretary, the farming plan and financialsituation of each qualified farmer or rancher applicant.
 
 #### (b) Determinations
 
@@ -50,7 +50,7 @@ Section 1982 of this title, referred to in subsec. (a), was repealed by Pub. L. 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1935, 1948, 1949, 1983a of this title.
+This section is referred to in sections 1935, 1949, 1983a of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

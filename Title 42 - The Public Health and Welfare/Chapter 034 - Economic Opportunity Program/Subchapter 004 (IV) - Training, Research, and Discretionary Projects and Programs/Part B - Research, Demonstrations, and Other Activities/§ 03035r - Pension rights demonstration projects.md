@@ -142,7 +142,7 @@ The Social Security Act, referred to in subsec. (a)(2)(A), is act Aug. 14, 1935,
 
 The Railroad Retirement Act of 1974, referred to in subsec. (a)(2)(B), is act Aug. 29, 1935, ch. 812, as amended generally by Pub. L. 93–445, title I, §101, Oct. 16, 1974, 88 Stat. 1305, which is classified generally to subchapter IV (§231 et seq.) of chapter 9 of Title 45, Railroads. For further details and complete classification of this Act to the Code, see Codification note set out preceding section 231 of Title 45, section 231t of Title 45, and Tables.
 
-The Employee Retirement Income Security Act of 1974, referred to in subsec. (a)(2)(D), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 832, as amended, which is classified principally to chapter 18 (§1001 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
+The Employee Retirement Income Security Act of 1974, referred to in subsec. (a)(2)(D), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829, as amended, which is classified principally to chapter 18 (§1001 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
 
 #### Prior Provisions
 
@@ -156,7 +156,7 @@ Subsecs. (b) to (f). Pub. L. 103–171, §3(a)(13), substituted “Assistant Sec
 
 #### Change of Name
 
-Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Economic and Educational Opportunities of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Fifth Congress, Jan. 7, 1997.
 
 #### Effective Date
 

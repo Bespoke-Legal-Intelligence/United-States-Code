@@ -38,7 +38,7 @@
 
 (d)(1) The Special Counsel may appoint the legal, administrative, and support personnel necessary to perform the functions of the Special Counsel.
 
-(2) Any appointment made under this subsection shall be made in accordance with theprovisions of this title, except that such appointment shall not be subject to the approval or supervision of the Office of Personnel Management or the Executive Office of the President (other than approval required under section 3324 or subchapter VIII of chapter 33).
+(2) Any appointment made under this subsection shall be made in accordance with the provisions of this title, except that such appointment shall not be subject to the approval or supervision of the Office of Personnel Management or the Executive Office of the President (other than approval required under section 3324 or subchapter VIII of chapter 33).
 
 (e) The Special Counsel may prescribe such regulations as may be necessary to perform the functions of the Special Counsel. Such regulations shall be published in the Federal Register.
 
@@ -56,7 +56,7 @@
 
 #### Amendments
 
-<b>1994</b>—Subsec. (g)(1). Pub. L. 103–424, §3(b)(1) substituted “disclose any information from or about” for “provide information concerning”.
+1994—Subsec. (g)(1). Pub. L. 103–424, §3(b)(1) substituted “disclose any information from or about” for “provide information concerning”.
 
 Subsec. (g)(2). Pub. L. 103–424, §3(b)(2), substituted “an evaluation of the work performance, ability, aptitude, general qualifications, character, loyalty, or suitability for any personnel action of any” for “a matter described in subparagraph (A) or (B) of section 2302(b)(2) in connection with a”.
 

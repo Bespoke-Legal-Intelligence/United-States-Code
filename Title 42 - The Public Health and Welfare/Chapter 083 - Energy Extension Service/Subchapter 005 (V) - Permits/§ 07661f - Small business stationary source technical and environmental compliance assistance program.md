@@ -2,7 +2,7 @@
 
 #### (a) Plan revisions
 
-Consistent with sections 7410 and 7412 of this title, each State shall, after reasonable notice and public hearings, adopt and submit to the Administrator as part of the State implementationplan for such State or as a revision to such State implementation plan under section 7410 of this title, plans for establishing a small business stationary source technical and environmental compliance assistance program. Such submission shall be made within 24 months after November 15, 1990. The Administrator shall approve such program if it includes each of the following:
+Consistent with sections 7410 and 7412 of this title, each State shall, after reasonable notice and public hearings, adopt and submit to the Administrator as part of the State implementation plan for such State or as a revision to such State implementation plan under section 7410 of this title, plans for establishing a small business stationary source technical and environmental compliance assistance program. Such submission shall be made within 24 months after November 15, 1990. The Administrator shall approve such program if it includes each of the following:
 
 &emsp;(1) Adequate mechanisms for developing, collecting, and coordinating information concerning compliance methods and technologies for small business stationary sources, and programs to encourage lawful cooperation among such sources and other persons to further compliance with this chapter.
 
@@ -50,13 +50,13 @@ The Administrator shall establish within 9 months after November 15, 1990, a sma
 
 (2) Upon petition by a source, the State may, after notice and opportunity for public comment, include as a small business stationary source for purposes of this section any stationary source which does not meet the criteria of subparagraphs <sup>1</sup> (C), (D), or (E) of paragraph (1) but which does not emit more than 100 tons per year of all regulated pollutants.
 
-(3)(A) The Administrator, in consultation with the Administrator of the Small Business Administration and after providing notice and opportunity for public comment, may exclude from the small business stationary source definition under this section any category or subcategory of sources that the Administrator determines to have sufficient technical and financial capabilities to meet the requirements of this chapter without the application of this subsection.
+(3)(A) The Administrator, in consultation with the Administrator of the Small Business Administration and after providing notice and opportunity for public comment, may exclude from the small business stationary source definition under this section any category or subcategory of sources that the Administrator determines tohave sufficient technical and financial capabilities to meet the requirements of this chapter without the application of this subsection.
 
 (B) The State, in consultation with the Administrator and the Administrator of the Small Business Administration and after providing notice and opportunity for public hearing, may exclude from the small business stationary source definition under this section any category or subcategory of sources that the State determines to have sufficient technical and financial capabilities to meet the requirements of this chapter without the application of this subsection.
 
 #### (d) Monitoring
 
-The Administrator shall direct the Agency's Office of Small and Disadvantaged Business Utilization through the Small Business Ombudsman (hereinafter in this section referred to as the “Ombudsman”) to monitor the small business stationary source technical and environmental compliance assistance program underthis section. In carrying out such monitoring activities, the Ombudsman shall—
+The Administrator shall direct the Agency's Office of Small and Disadvantaged Business Utilization through the Small Business Ombudsman (hereinafter in this section referred to as the “Ombudsman”) to monitor the small business stationary source technical and environmental compliance assistance program under this section. In carrying out such monitoring activities, the Ombudsman shall—
 
 &emsp;(1) render advisory opinions on the overall effectiveness of the Small Business Stationary Source Technical and Environmental Compliance Assistance Program, difficulties encountered, and degree and severity of enforcement;
 

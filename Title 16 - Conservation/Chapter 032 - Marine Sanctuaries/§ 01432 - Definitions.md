@@ -4,7 +4,7 @@ As used in this chapter, the term—
 
 &emsp;(1) “draft management plan” means the plan described in section 1434(a)(1)(C)(v) of this title;
 
-&emsp;(2) “Magnuson Act” means the Magnuson Fishery Conservation and Management Act (16 U.S.C. 1801 et seq.);
+&emsp;(2) “Magnuson Act” means the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1801 et seq.);
 
 &emsp;(3) “marine environment” means those areas of coastal and ocean waters, the Great Lakes and their connecting waters, and submerged lands over which the United States exercises jurisdiction, including the exclusive economic zone, consistent with international law;
 
@@ -24,21 +24,29 @@ As used in this chapter, the term—
 
 &emsp;&emsp;(B) the cost of damage assessments under section 1443(b)(2) of this title; and
 
-&emsp;&emsp;(C) the reasonable cost of monitoring appropriate to the injured, restored, or replaced resources,<sup>1</sup>
+&emsp;&emsp;(C) the reasonable cost of monitoring appropriate to the injured, restored, or replaced resources;
 
-&emsp;(7) “response costs” means the costs of actions taken or authorized by the Secretary to minimize destruction or loss of, or injury to, sanctuary resources, or to minimize the imminent risks of such destruction, loss, or injury; and <sup>2</sup>
+&emsp;(7) “response costs” means the costs of actions taken or authorized by the Secretary to minimize destruction or loss of, or injury to, sanctuary resources, or to minimize the imminent risks of such destruction, loss, or injury;
 
 &emsp;(8) “sanctuary resource” means any living or nonliving resource of a national marine sanctuary that contributes to the conservation, recreational, ecological, historical, research, educational, or aesthetic value of the sanctuary; and
 
-&emsp;(9) “exclusive economic zone” means the exclusive economic zone as defined in the Magnuson Fishery Conservation and Management Act \[16 U.S.C. 1801 et seq.\].
+&emsp;(9) “exclusive economic zone” means the exclusive economic zone as defined in the Magnuson-Stevens Fishery Conservation and Management Act \[16 U.S.C. 1801 et seq.\].
 
-(Pub. L. 92–532, title III, §302, Oct. 23, 1972, 86 Stat. 1061; Pub. L. 96–332, §2, Aug. 29, 1980, 94 Stat. 1057; Pub. L. 97–375, title II, §202(a), Dec. 21, 1982, 96 Stat. 1822; Pub. L. 98–498, title I, §102, Oct. 19, 1984, 98 Stat. 2297; Pub. L. 100–627, title II, §204(b), Nov. 7, 1988, 102 Stat. 3217; Pub. L. 102–587, title II, §2102, Nov. 4, 1992, 106 Stat. 5040.)
+(Pub. L. 92–532, title III, §302, Oct. 23, 1972, 86 Stat. 1061; Pub. L. 96–332, §2, Aug. 29, 1980, 94 Stat. 1057; Pub. L. 97–375, title II, §202(a), Dec. 21, 1982, 96 Stat. 1822; Pub. L. 98–498, title I, §102, Oct. 19, 1984, 98 Stat. 2297; Pub. L. 100–627, title II, §204(b), Nov. 7, 1988, 102 Stat. 3217; Pub. L. 102–587, title II, §2102, Nov. 4, 1992, 106 Stat. 5040; Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41; Pub. L. 104–283, §9(b), Oct. 11, 1996, 110 Stat. 3367.)
 
 #### References in Text
 
-The Magnuson Fishery Conservation and Management Act, referred to in pars. (2) and (9), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, which is classified principally to chapter 38 (§1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
+The Magnuson-Stevens Fishery Conservation and Management Act, referred to in pars. (2) and (9), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, which is classified principally to chapter 38 (§1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
 #### Amendments
+
+1996—Par. (2). Pub. L. 104–208 substituted “Magnuson-Stevens Fishery” for “Magnuson Fishery”.
+
+Par. (6)(C). Pub. L. 104–283, §9(b)(1), which directed substitution of a semicolon for “, and” at end, was executed by substituting a semicolon for the comma at end to reflect the probable intent of Congress.
+
+Par. (7). Pub. L. 104–283, §9(b)(2), struck out “and” after “injury;”.
+
+Par. (9). Pub. L. 104–208 substituted “Magnuson-Stevens Fishery” for “Magnuson Fishery”.
 
 1992—Par. (1). Pub. L. 102–587, §2102(e)(1), substituted “1434(a)(1)(C)(v)” for “1434(a)(1)(E)”.
 
@@ -60,9 +68,13 @@ Par. (9). Pub. L. 102–587, §2102(d), added par. (9).
 
 1980—Subsec. (b). Pub. L. 96–332, §2(1), designated existing provisions as par. (1), struck out provision that a designation under this section would become effective sixty days after it was published unless the Governor of any State involved, before the expiration of the sixty-day period, certified to Secretary that the designation, or a specified portion thereof, was unacceptable to his State, in which case the designated sanctuary would not include the area certified as unacceptable until such time as the Governor withdrew his certification of unacceptability, and added par. (2).
 
-Subsec. (f). Pub. L. 96–332, §2(2), designated existing provisions as par. (2), added pars. (1), (3), and (4), and, in par. (2) as so designated, substituted “The Secretary, after consultation with other interested Federal and State agencies, shall issue necessary and reasonable regulations to implement the terms of the designation and control the activities described in it, except that all permits, licenses, and other authorizations issued pursuant to any other authority shall be valid unless such regulations otherwise provide” for “After a marine sanctuary has been designated under this section, the Secretary, after consultation with other interested Federal agencies, shall issue necessary and reasonable regulations to control any activities permitted within the designated marine sanctuary, and no permit, license, or other authorization issued pursuant to any other authority shall be valid unless the Secretary shall certify that the permitted activity is consistent with the purposes of this chapter and can be carried out within the regulations promulgated under this section”.
+Subsec. (f). Pub. L. 96–332, §2(2), designated existing provisions as par. (2), added pars. (1), (3), and (4), and, in par. (2) as so designated, substituted “The Secretary, after consultation with other interested Federal and State agencies, shall issue necessary and reasonable regulations to implement the terms of the designation and control the activities described in it, except that all permits, licenses, and other authorizations issued pursuant to any other authority shall be valid unlesssuch regulations otherwise provide” for “After a marine sanctuary has been designated under this section, the Secretary, after consultation with other interested Federal agencies, shall issue necessary and reasonable regulations to control any activities permitted within the designated marine sanctuary, and no permit, license, or other authorization issued pursuant to any other authority shall be valid unless the Secretary shall certify that the permitted activity is consistent with the purposes of this chapter and can be carried out within the regulations promulgated under this section”.
 
 Subsec. (h). Pub. L. 96–332, §2(3), added subsec. (h).
+
+#### Effective Date of 1996 Amendment
+
+Section 101(a) \[title II, §211(b)\] of div. A of Pub. L. 104–208 provided that the amendment made by that section is effective 15 days after Oct. 11, 1996.
 
 #### Regulations
 
@@ -79,8 +91,4 @@ Section 3 of Pub. L. 92–532, which is classified to section 1402 of Title 33, 
 #### Section Referred to in Other Sections
 
 This section is referred to in section 1443 of this title.
-
-<i><sup>1</sup></i><i> So in original. The comma probably should be a semicolon.</i>
-
-<i><sup>2</sup></i><i> So in original. The word “and” probably should not appear.</i>
 

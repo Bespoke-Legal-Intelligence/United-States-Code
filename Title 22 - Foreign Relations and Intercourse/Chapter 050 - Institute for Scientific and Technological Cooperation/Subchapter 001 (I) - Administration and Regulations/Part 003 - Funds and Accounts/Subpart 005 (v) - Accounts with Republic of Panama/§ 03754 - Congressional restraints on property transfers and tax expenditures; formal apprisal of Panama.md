@@ -22,7 +22,7 @@
 
 #### Effective Date of 1987 Amendment
 
-Amendment by Pub. L. 100–203 effective Jan. 1, 1988, see section 5429 of Pub. L. 100–203, set out as a note under section 3683 of this title.
+Amendment by Pub. L. 100–203 effective Jan. 1, 1988, see section 5429 of Pub. L. 100–203, set out as a note under section 3712 of this title.
 
 #### Delegation of Functions
 

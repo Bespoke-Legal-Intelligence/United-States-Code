@@ -78,13 +78,15 @@ Improved Allocation Formula.—The Secretary shall prescribe regulations to deve
 
 (j)
 
-Intrastate Compatibility.—The Secretary shall prescribe regulations specifying tolerance guidelines and standards for ensuring compatibility of intrastate commercial motor vehicle safety laws and regulations with Government motor carrier safety regulations to be enforced under section 31102(a) of this title. To the extent practicable, the guidelines and standards shall allow for maximum flexibility while ensuring the degree of uniformity that will not diminish transportation safety. In reviewing State plans and allocating amounts or making grants under section 153 of title 23, the Secretary shall ensure that the guidelines and standards are applied uniformly.
+Intrastate Compatibility.—The Secretary shall prescribe regulations specifying tolerance guidelines and standards for ensuring compatibility of intrastate commercial motor vehicle safety laws and regulations with Government motor carrier safety regulations to be enforcedunder section 31102(a) of this title. To the extent practicable, the guidelines and standards shall allow for maximum flexibility while ensuring the degree of uniformity that will not diminish transportation safety. In reviewing State plans and allocating amounts or making grants under section 153 of title 23, the Secretary shall ensure that the guidelines and standards are applied uniformly.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 987.)
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

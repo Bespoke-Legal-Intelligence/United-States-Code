@@ -22,7 +22,7 @@ This section amends various sections \[§§2101, 4102, 4109, 5541, 8101\] of tit
 
 #### Amendments
 
-<b>1979</b>—Par. (3). Pub. L. 96–54 substituted “National Oceanic and Atmospheric” for “Environmental Science Services”.
+1979—Par. (3). Pub. L. 96–54 substituted “National Oceanic and Atmospheric” for “Environmental Science Services”.
 
 #### Effective Date of 1979 Amendment
 
@@ -34,7 +34,7 @@ Pub. L. 103–226, §1, Mar. 30, 1994, 108 Stat. 111, provided that: “This Act
 
 #### Short Title of 1990 Amendment
 
-Pub. L. 101–508, title VII, §7202(a), Nov. 5, 1990, 104 Stat. 1388–335, provided that: “This section \[amendingsections 2105, 3502, 5334, 5335, 5365, 5551, 6308, 6312, 8331, 8347, 8401, 8461, and 8901 of this title and enacting provisions set out as notes under section 2105 of this title\] may be cited as the ‘Portability of Benefits for Nonappropriated Fund Employees Act of 1990’.”
+Pub. L. 101–508, title VII, §7202(a), Nov. 5, 1990, 104 Stat. 1388–335, provided that: “This section \[amending sections 2105, 3502, 5334, 5335, 5365, 5551, 6308, 6312, 8331, 8347, 8401, 8461, and 8901 of this title and enacting provisions set out as notes under section 2105 of this title\] may be cited as the ‘Portability of Benefits for Nonappropriated Fund Employees Act of 1990’.”
 
 #### Coordination of Title VII of Pub. L. 101–508 With Section 909 of Title 2
 
@@ -42,5 +42,5 @@ Pub. L. 101–508, title VII, §7301, Nov. 5, 1990, 104 Stat. 1388–341, provid
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 10 sections 4357, 6975, 9356; title 18 section 207; title 22 section 3641; title 41 section 423.
+This section is referred to in title 18 section 207; title 22 section 3641; title 41 section 423.
 

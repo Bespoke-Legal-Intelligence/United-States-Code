@@ -6,7 +6,7 @@ The Secretary of the Interior may in connection with irrigation projects under t
 
 #### References in Text
 
-The reclamation Act of June 17, 1902, referred to in text, is act June 17, 1902, ch. 1093, 32 Stat. 388, as amended, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 371 of this title and Tables.
+The reclamation Act of June 17, 1902, referred to in text, is act June 17, 1902, ch. 1093, 32 Stat. 388, asamended, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 371 of this title and Tables.
 
 #### Amendments
 

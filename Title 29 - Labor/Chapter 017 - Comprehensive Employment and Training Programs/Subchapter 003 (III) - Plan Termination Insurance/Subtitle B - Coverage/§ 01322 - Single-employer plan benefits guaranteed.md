@@ -48,7 +48,7 @@ Subject to the limitations contained in subsection (b) of this section, the corp
 
 &emsp;(ii) the amount of the substantial owner's monthly benefits guaranteed under subsection (a) of this section (as limited under paragraph (3) of this subsection).
 
-(C) In the case of a participant in a plan, other than a plan described in subparagraph (B), who is covered by the plan as a substantial owner, the amount of the benefit guaranteed under thissection shall, under regulations prescribed by the corporation, treat each benefit increase attributable to a plan amendment as if it were provided under a new plan. The benefits guaranteed under this section with respect to all such amendments shall not exceed the amount which would be determined under subparagraph (B) if subparagraph (B) applied.
+(C) In the case of a participant in a plan, other than a plan described in subparagraph (B), who is covered by the plan as a substantial owner, the amount of the benefit guaranteed under this section shall, under regulations prescribed by the corporation, treat each benefit increase attributable to a plan amendment as if it were provided under a new plan. The benefits guaranteed under this section with respect to all such amendments shall not exceed the amount which would be determined under subparagraph (B) if subparagraph (B) applied.
 
 (6)(A) No benefits accrued under a plan after the date on which the Secretary of the Treasury issues notice that he has determined that any trust which is a part of a plan does not meet the requirements of section 401(a) of title 26, or that the plan does not meet the requirements of section 404(a)(2) of title 26, are guaranteed under this section unless such determination is erroneous. This subparagraph does not apply if the Secretary subsequently issues a notice that such trust meets the requirements of section 401(a) of title 26 or that the plan meets the requirements of section 404(a)(2) of title 26 and if the Secretary determines that the trust or plan has taken action necessary to meet such requirements during the period between the issuance of the notice referred to in the preceding sentence and the issuance of the notice referred to in this sentence.
 
@@ -98,7 +98,7 @@ The corporation is authorized to guarantee the payment of such other classes of 
 
 #### (e) Nonforfeitability of preretirement survivor annuity
 
-For purposes of subsection (a) of this section, a qualified preretirement survivor annuity (as defined in section 1055(e)(1) of this title) with respect to a participant under a terminated single-employer plan shall not be treated as forfeitablesolely because the participant has not died as of the termination date.
+For purposes of subsection (a) of this section, a qualified preretirement survivor annuity (as defined in section 1055(e)(1) of this title) with respect to a participant under a terminated single-employer plan shall not be treated as forfeitable solely because the participant has not died as of the termination date.
 
 #### (f) Effective date of plan amendments
 
@@ -146,7 +146,7 @@ Section 777(b) of Pub. L. 103–465 provided that: “The amendment made by this
 
 #### Effective Date of 1989 Amendment
 
-Amendment by section 7881(f)(4), (5), (11) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Pension Protection Act, Pub. L. 100–203, §§9302–9346, to which such amendment relates, see section 7882 of Pub. L. 101–239, set out as a note under section 401 of Title 26, Internal Revenue Code.
+Amendment by section 7881(f)(4), (5), (11) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Pension Protection Act, Pub. L. 100–203, §§9302–9346, to which such amendment relates, see section 7882 of Pub. L. 101–239, set out as anote under section 401 of Title 26, Internal Revenue Code.
 
 Amendment by section 7891(a)(1) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 7891(f) of Pub. L. 101–239, set out as a note under section 1002 of this title.
 

@@ -4,13 +4,13 @@
 
 (b) The Secretary may issue a temporary certificate of inspection in place of a regular certificate of inspection issued under subsection (a) of this section.
 
-(c) At least 30 days (but not more than 60 days) before the current certificate of inspection issued to a vessel under subsection (a) of this section expires, the owner, charterer, managing operator, agent, master, or individual in charge of the vessel shall submit to the Secretary in writing a notice that the vessel—
+(c) At least 30 days before the current certificate of inspection issued to a vessel under subsection (a) of this section expires, the owner, charterer, managing operator, agent, master, or individual in charge of the vessel shall submit to the Secretary in writing a notice that the vessel—
 
 &emsp;(1) will be required to be inspected; or
 
 &emsp;(2) will not be operated so as to require an inspection.
 
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 515; Pub. L. 98–498, title II, §211(a), Oct. 19, 1984, 98 Stat. 2303.)
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 515; Pub. L. 98–498, title II, §211(a), Oct. 19, 1984, 98 Stat. 2303; Pub. L. 104–324, title VI, §606, Oct. 19, 1996, 110 Stat. 3931.)
 
 Historical and Revision Notes
 
@@ -31,6 +31,8 @@ Historical and Revision Notes
 Section 3309 provides for the issuance of a certificate of inspection that attests to the fact that the vessel has been found to be in compliance with the applicable maritime safety laws and regulations. Under this provision the Coast Guard can issue a temporary certificate of inspection upon compliance with the applicable laws or regulations to facilitate the preparation, processing, and forwarding of the regular certificate of inspection to the vessel. A temporary certificate does not imply less than satisfactory compliance.
 
 #### Amendments
+
+1996—Subsec. (c). Pub. L. 104–324 struck out “(but not more than 60 days)” after “30 days” in introductory provisions.
 
 1984—Subsec. (c). Pub. L. 98–498 added subsec. (c).
 

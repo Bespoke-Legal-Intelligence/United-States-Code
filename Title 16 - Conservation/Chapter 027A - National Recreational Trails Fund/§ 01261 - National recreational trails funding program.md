@@ -12,7 +12,7 @@ Moneys made available under this chapter are to be used on trails and trail-rela
 
 #### (1) Transitional provision
 
-&emsp;Until the date that is 3 years after December 18, 1991, a State shall be eligible to receivemoneys under this chapter only if such State's application proposes to use the moneys as provided in subsection (e) of this section.
+&emsp;Until the date that is 3 years after December 18, 1991, a State shall be eligible to receive moneys under this chapter only if such State'sapplication proposes to use the moneys as provided in subsection (e) of this section.
 
 #### (2) Permanent provision
 

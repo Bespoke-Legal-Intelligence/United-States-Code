@@ -20,7 +20,7 @@
 | [2904\.](%C2%A7%2002904%20-%20Termination%20and%20reservation%20authority%3B%20reciprocal%20nondiscriminatory%20treatment.md) | Termination and reservation authority; reciprocal nondiscriminatory treatment. |
 | (a) | In general. |
 | (b) | Reciprocal nondiscriminatory treatment. |
-| [2905\.](%C2%A7%2002905%20-%20Accession%20of%20state%20trading%20regimes%20to%20General%20Agreement%20on%20Tariffs%20and%20Trade%20for%20WTO.md) | Accession of state trading regimes to General Agreement on Tariffs and Trade for WTO. |
+| [2905\.](%C2%A7%2002905%20-%20Accession%20of%20state%20trading%20regimes%20to%20General%20Agreement%20on%20Tariffs%20and%20Trade%20or%20WTO.md) | Accession of state trading regimes to General Agreement on Tariffs and Trade or WTO. |
 | (a) | In general. |
 | (b) | Effects of affirmative determination. |
 | (c) | Expedited consideration of bill to approve extension. |
@@ -45,5 +45,5 @@ This chapter is referred to in sections 3104, 3109 of this title.
 - [&sect; 02902 - Trade agreement negotiating authority](%C2%A7%2002902%20-%20Trade%20agreement%20negotiating%20authority.md)
 - [&sect; 02903 - Implementation of trade agreements](%C2%A7%2002903%20-%20Implementation%20of%20trade%20agreements.md)
 - [&sect; 02904 - Termination and reservation authority; reciprocal nondiscriminatory treatment](%C2%A7%2002904%20-%20Termination%20and%20reservation%20authority%3B%20reciprocal%20nondiscriminatory%20treatment.md)
-- [&sect; 02905 - Accession of state trading regimes to General Agreement on Tariffs and Trade for WTO](%C2%A7%2002905%20-%20Accession%20of%20state%20trading%20regimes%20to%20General%20Agreement%20on%20Tariffs%20and%20Trade%20for%20WTO.md)
+- [&sect; 02905 - Accession of state trading regimes to General Agreement on Tariffs and Trade or WTO](%C2%A7%2002905%20-%20Accession%20of%20state%20trading%20regimes%20to%20General%20Agreement%20on%20Tariffs%20and%20Trade%20or%20WTO.md)
 - [&sect; 02906 - Definitions](%C2%A7%2002906%20-%20Definitions.md)

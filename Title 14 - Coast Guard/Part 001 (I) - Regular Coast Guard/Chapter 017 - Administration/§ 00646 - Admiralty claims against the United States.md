@@ -22,7 +22,7 @@ This section closely parallels title 46, U.S.C., 1946 ed., §§797, 798, which a
 
 #### Amendments
 
-1972—Subsec. (a). Pub. L. 92–417 incorporated in part first sentence of former subsec. (a) in text precedingpar. (1), substituted “Secretary” for “Secretary of the Treasury”, inserted provisions authorizing payments up to $100,000, struck out second, third, and fourth sentences providing that provisions of this section were supplementary to other provisions, that claims in excess of $3,000 accrued prior to Sept. 8, 1939, would not be considered, and that payments be made out of Coast Guard appropriations, and added pars. (1) to (3).
+1972—Subsec. (a). Pub. L. 92–417 incorporated in part first sentence of former subsec. (a) in text preceding par. (1), substituted “Secretary” for “Secretary of the Treasury”, inserted provisions authorizing payments up to $100,000, struck out second, third, and fourth sentences providing that provisions of this section were supplementary to other provisions, that claims in excess of $3,000 accrued prior to Sept. 8, 1939, would not be considered, and that payments be made out of Coast Guard appropriations, and added pars. (1) to (3).
 
 Subsec. (b). Pub. L. 92–417 incorporated in part first sentence of former subsec. (a).
 

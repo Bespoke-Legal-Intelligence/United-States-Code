@@ -10,7 +10,7 @@
 
 &emsp;(1) a vessel used only to respond to a discharge of oil or a hazardous substance;
 
-&emsp;(2) a vessel of less than 5,000 gross tons equipped with a double containment system determined by the Secretary to be as effective as a double hull for the prevention of a discharge of oil; or
+&emsp;(2) a vessel of less than 5,000 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title equipped with a double containment systemdetermined by the Secretary to be as effective as a double hull for the prevention of a discharge of oil;
 
 &emsp;(3) before January 1, 2015—
 
@@ -20,7 +20,13 @@
 
 &emsp;&emsp;&emsp;(i) within a lightering zone established under section 3715(b)(5) of this title; and
 
-&emsp;&emsp;&emsp;(ii) more than 60 miles from the baseline from which the territorial sea of the United States is measured.
+&emsp;&emsp;&emsp;(ii) more than 60 miles from the baseline from which the territorial sea of the United States is measured;
+
+&emsp;(4) a vessel documented under chapter 121 of this title that was equipped with a double hull before August 12, 1992;
+
+&emsp;(5) a barge of less than 1,500 gross tons (as measured under chapter 145 of this title) carrying refined petroleum product in bulk as cargo in or adjacent to waters of the Bering Sea, Chukchi Sea, and Arctic Ocean and waters tributary thereto and in the waters of the Aleutian Islands and the Alaskan Peninsula west of 155 degrees west longitude; or
+
+&emsp;(6) a vessel in the National Defense Reserve Fleet pursuant to section 11 of the Merchant Ship Sales Act of 1946 (50 App. U.S.C. 1744).
 
 (c)(1) In this subsection, the age of a vessel is determined from the later of the date on which the vessel—
 
@@ -30,11 +36,11 @@
 
 &emsp;(C) had its appraised salvage value determined by the Coast Guard and is qualified for documentation under section 4136 of the Revised Statutes of the United States (46 App. U.S.C. 14).
 
-(2) A vessel of less than 5,000 gross tons for which a building contract or contract for major conversion was placed before June 30, 1990, and that is delivered under that contract before January 1, 1994, and a vessel of less than 5,000 gross tons that had its appraised salvage value determined by the Coast Guard before June 30, 1990, and that qualifies for documentation under section 4136 of the Revised Statutes of the United States (46 App. U.S.C. 14) before January 1, 1994, may not operate in the navigable waters or the Exclusive Economic Zone of the United States after January 1, 2015, unless the vessel is equipped with a double hull or with a double containment system determined by the Secretary to be as effective as a double hull for the prevention of a discharge of oil.
+(2) A vessel of less than 5,000 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title for which a building contract or contract for major conversion was placed before June 30, 1990, and that is delivered under that contract before January 1, 1994, and a vessel of less than 5,000 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title that had its appraised salvage value determined by the Coast Guard before June 30, 1990, and that qualifies for documentation under section 4136 of the Revised Statutes of the United States (46 App. U.S.C. 14) before January 1, 1994, may not operate in the navigable waters or the Exclusive Economic Zone of the United States after January 1, 2015, unless the vessel is equipped with a double hull or with a double containment system determined by the Secretary to be as effective as a double hull for the prevention of a discharge of oil.
 
 (3) A vessel for which a building contract or contract for major conversion was placed before June 30, 1990, and that is delivered under that contract before January 1, 1994, and a vessel that had its appraised salvage value determined by the Coast Guard before June 30, 1990, and that qualifies for documentation under section 4136 of the Revised Statutes of the United States (46 App. U.S.C. 14) before January 1, 1994, may not operate in the navigable waters or Exclusive Economic Zone of the United States unless equipped with a double hull—
 
-&emsp;(A) in the case of a vessel of at least 5,000 gross tons but less than 15,000 gross tons—
+&emsp;(A) in the case of a vessel of at least 5,000 gross tons but less than 15,000 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title—
 
 &emsp;&emsp;(i) after January 1, 1995, if the vessel is 40 years old or older and has a single hull, or is 45 years old or older and has a double bottom or double sides;
 
@@ -50,7 +56,7 @@
 
 &emsp;&emsp;(vii) after January 1, 2005, if the vessel is 25 years old or older and has a single hull, or is 30 years old or older and has a double bottom or double sides;
 
-&emsp;(B) in the case of a vessel of at least 15,000 gross tons but less than 30,000 gross tons—
+&emsp;(B) in the case of a vessel of at least 15,000 gross tons but less than 30,000 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title—
 
 &emsp;&emsp;(i) after January 1, 1995, if the vessel is 40 years old or older and has a single hull, or is 45 years old or older and has a double bottom or double sides;
 
@@ -64,17 +70,17 @@
 
 &emsp;&emsp;(vi) after January 1, 2000, if the vessel is 30 years old or older and has a single hull, or is 35 years old or older and has a double bottom or double sides;
 
-&emsp;&emsp;(vii) after January 1, 2001, if the vessel is 29 years old or older and has a single hull, or is 34 years old or older and has a double bottom or double sides;
+&emsp;&emsp;(vii) after January 1, 2001, if the vessel is 29 years old or older and has a single hull, or is34 years old or older and has a double bottom or double sides;
 
 &emsp;&emsp;(viii) after January 1, 2002, if the vessel is 28 years old or older and has a single hull, or is 33 years old or older and has a double bottom or double sides;
 
-&emsp;&emsp;(ix) after January 1, 2003, if the vessel is 27 years old or older and has a single hull, or is32 years old or older and has a double bottom or double sides;
+&emsp;&emsp;(ix) after January 1, 2003, if the vessel is 27 years old or older and has a single hull, or is 32 years old or older and has a double bottom or double sides;
 
 &emsp;&emsp;(x) after January 1, 2004, if the vessel is 26 years old or older and has a single hull, or is 31 years old or older and has a double bottom or double sides; and
 
 &emsp;&emsp;(xi) after January 1, 2005, if the vessel is 25 years old or older and has a single hull, or is 30 years old or older and has a double bottom or double sides; and
 
-&emsp;(C) in the case of a vessel of at least 30,000 gross tons—
+&emsp;(C) in the case of a vessel of at least 30,000 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title—
 
 &emsp;&emsp;(i) after January 1, 1995, if the vessel is 28 years old or older and has a single hull, or 33 years old or older and has a double bottom or double sides;
 
@@ -94,11 +100,29 @@
 
 &emsp;(B) a vessel that has a double bottom or double sides may not operate after January 1, 2015.
 
-(Added Pub. L. 101–380, title IV, §4115(a), Aug. 18, 1990, 104 Stat. 517.)
+(d) The operation of barges described in subsection (b)(5) outside waters described in that subsection shall be on any conditions as the Secretary may require.
+
+(Added Pub. L. 101–380, title IV, §4115(a), Aug. 18, 1990, 104 Stat. 517; amended Pub. L. 104–324, title VII, §715, title XI, §1103, Oct. 19, 1996, 110 Stat. 3937, 3966.)
 
 #### References in Text
 
 The Deepwater Port Act of 1974, referred to in subsec. (b)(3)(A), is Pub. L. 93–627, Jan. 3, 1975, 88 Stat. 2126, as amended, which is classified generally to chapter 29 (§1501 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of Title 33 and Tables.
+
+#### Amendments
+
+1996—Subsec. (b)(2). Pub. L. 104–324, §715(1), inserted “as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title” after “5,000 gross tons”.
+
+Subsec. (b)(4) to (6). Pub. L. 104–324, §1103(1), added pars. (4) to (6).
+
+Subsec. (c)(2). Pub. L. 104–324, §715(2), inserted “as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title” after “5,000 gross tons” in two places.
+
+Subsec. (c)(3)(A). Pub. L. 104–324, §715(3), inserted “as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title” after “15,000 gross tons”.
+
+Subsec. (c)(3)(B). Pub. L. 104–324, §715(4), inserted “as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title” after “30,000 gross tons”.
+
+Subsec. (c)(3)(C). Pub. L. 104–324, §715(5), inserted “as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title” after “30,000 gross tons”.
+
+Subsec. (d). Pub. L. 104–324, §1103(2), added subsec. (d).
 
 #### Effective Date
 

@@ -20,9 +20,13 @@ For purposes of this subchapter—
 
 &emsp;(9) the term “State educational agency” includes the Bureau of Indian Affairs for purposes of serving schools funded by the Bureau of Indian Affairs in accordance with this part;
 
-&emsp;(10) the term “State library administrative agency” has the same meaning given to such term in section 351a of this title; and
+&emsp;(10) the term “State library administrative agency” has the same meaning given to such term in section 9122 of this title; and
 
 &emsp;(11) the term “technology” means state-of-the-art technology products and services, such as closed circuit television systems, educational television and radio programs and services, cable television, satellite, copper and fiber optic transmission, computer hardware and software, video and audio laser and CD-ROM discs, and video and audio tapes.
 
-(Pub. L. 89–10, title III, §3113, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3639.)
+(Pub. L. 89–10, title III, §3113, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3639;amended Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §709(a)(1), (3)\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–312.)
+
+#### Amendments
+
+1996—Par. (10). Pub. L. 104–208, §101(e) \[title VII, §709(a)(1), (3)\], amended par. (10) identically, substituting “section 9122 of this title” for “section 351a of this title”.
 

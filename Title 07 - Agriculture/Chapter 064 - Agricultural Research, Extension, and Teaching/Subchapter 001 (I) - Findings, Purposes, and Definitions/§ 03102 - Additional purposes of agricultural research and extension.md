@@ -26,7 +26,7 @@ This chapter, referred to in text, was in the original this “title”, meaning
 
 1990—Pub. L. 101–624 amended section catchline generally.
 
-1981—Par. (2). Pub. L. 97–98, §1403(1), inserted “extension, and teaching programs,” and substituted “these programs” for “such research, assure that high priority research is given adequate funding”.
+1981—Par. (2). Pub. L. 97–98, §1403(1), inserted “extension, and teaching programs,” and substituted “theseprograms” for “such research, assure that high priority research is given adequate funding”.
 
 Par. (4). Pub. L. 97–98, §1403(2), substituted “programs through” for “programs, including the initiatives specified in section 3101(8) of this title, through”.
 
@@ -41,8 +41,4 @@ Amendment by Pub. L. 97–98 effective Dec. 22, 1981, see section 1801 of Pub. L
 #### Effective Date
 
 Section effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as an Effective Date of 1977 Amendment note under section 1307 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3123 of this title.
 

@@ -12,7 +12,7 @@ The Secretary is authorized and directed to establish a program of assistance fo
 
 #### (c) Maximum amount of loan for costs of construction
 
-In providing assistance under such program, the Secretary is also authorized to make a loanto any person to defray up to 75 per centum of the costs directly related to the construction of a system or systems for nonelectric geothermal development pursuant to such subsection, where the Secretary finds that—
+In providing assistance under such program, the Secretary is also authorized to make a loan to any person to defray up to 75 per centum of the costs directly related to the construction of a system or systems for nonelectric geothermal development pursuant to such subsection, where the Secretary finds that—
 
 &emsp;(1) all necessary licenses and other required Federal, State, and local approvals for construction of such system or systems have been or will be issued,
 

@@ -44,7 +44,7 @@ Any action under this section may be brought in any United States district court
 
 #### (f) Good faith compliance with rule, regulation, or interpretation of Board or with interpretation or approval of duly authorized official or employee of Federal Reserve System
 
-No provision of this section, section 1607(b) of this title, section 1607(c) of this title, section 1607(e) of this title, or section 1611 of this title imposing any liability shall apply to any act done or omitted in good faith in conformity with any rule, regulation, or interpretation thereof by the Board or in conformity with any interpretation or approval by an official or employee of the Federal Reserve System duly authorized by the Board to issue such interpretations or approvals under such procedures as the Board may prescribe therefor, notwithstanding that after such act or omission has occurred, such rule, regulation, interpretation, or approval is amended, rescinded, or determined by judicial or other authority to be invalid for any reason.
+No provision of this section, section 1607(b) of this title, section 1607(c) of this title, section1607(e) of this title, or section 1611 of this title imposing any liability shall apply to any act done or omitted in good faith in conformity with any rule, regulation, or interpretation thereof by the Board or in conformity with any interpretation or approval by an official or employee of the Federal Reserve System duly authorized by the Board to issue such interpretations or approvals under such procedures as the Board may prescribe therefor, notwithstanding that after such act or omission has occurred, such rule, regulation, interpretation, or approval is amended, rescinded, or determined by judicial or other authority to be invalid for any reason.
 
 #### (g) Recovery for multiple failures to disclose
 
@@ -52,7 +52,7 @@ The multiple failure to disclose to any person any information required under th
 
 #### (h) Offset from amount owed to creditor or assignee; rights of defaulting consumer
 
-A person may not take any action to offset any amount for which a creditor or assignee is potentially liable to such person under subsection (a)(2) of this section against any amount owed by such person, unless the amount of the creditor's or assignee's liability under this subchapter has been determined by judgment of a court of competent jurisdiction in an action ofwhich such person was a party. This subsection does not bar a consumer then in default on the obligation from asserting a violation of this subchapter as an original action, or as a defense or counterclaim to an action to collect amounts owed by the consumer brought by a person liable under this subchapter.
+A person may not take any action to offset any amount for which a creditor or assignee is potentially liable to such person under subsection (a)(2) of this section against any amount owed by such person, unless the amount of the creditor's or assignee's liability under this subchapter has been determined by judgment of a court of competent jurisdiction in an action of which such person was a party. This subsection does not bar a consumer then in default on the obligation from asserting a violation of this subchapter as an original action, or as a defense or counterclaim to an action to collect amounts owed by the consumer brought by a person liable under this subchapter.
 
 #### (i) Class action moratorium
 

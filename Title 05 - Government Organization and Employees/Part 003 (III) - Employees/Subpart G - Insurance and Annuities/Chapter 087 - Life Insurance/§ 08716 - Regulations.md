@@ -20,7 +20,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 (a)
 
@@ -52,7 +54,7 @@ Section 1501 of title 31, District of Columbia Code, referred to in subsec. (b)(
 
 #### Amendments
 
-<b>1978</b>—Subsec. (a). Pub. L. 95–454, §906(a)(2), substituted “Office of Personnel Management” for “Civil Service Commission”.
+1978—Subsec. (a). Pub. L. 95–454, §906(a)(2), substituted “Office of Personnel Management” for “Civil Service Commission”.
 
 Subsec. (b). Pub. L. 95–454, §906(a)(3), substituted “Office” for “Commission” wherever appearing.
 

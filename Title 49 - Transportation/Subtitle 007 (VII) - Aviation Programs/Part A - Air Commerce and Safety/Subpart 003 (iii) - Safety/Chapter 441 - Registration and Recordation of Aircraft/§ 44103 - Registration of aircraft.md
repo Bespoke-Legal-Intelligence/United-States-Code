@@ -40,7 +40,9 @@ Certificates Available for Inspection.—An operator of an aircraft shall make a
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -68,7 +70,7 @@ Oct. 15, 1966, Pub. L. 89–670, §6(c)(1), 80 Stat. 938; Jan. 12, 1983, Pub. L.
 
 44103(b)
 
-49 App.:1401(e) (2)(D), (E).
+49 App.:1401(e)(2)(D), (E).
 
 Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §501(e)(2)(D), (E); added Oct. 19, 1984, Pub. L. 98–499, §4(a), 98 Stat. 2315.
 

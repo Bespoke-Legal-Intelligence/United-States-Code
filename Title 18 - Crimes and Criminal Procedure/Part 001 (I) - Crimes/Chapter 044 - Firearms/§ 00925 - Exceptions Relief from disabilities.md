@@ -1,18 +1,18 @@
 ### §925. Exceptions: Relief from disabilities
 
-(a)(1) The provisions of this chapter, except for provisions relating to firearms subject to the prohibitions of section 922(p), shall not apply with respect to the transportation, shipment, receipt, possession, or importation of any firearm or ammunition imported for, sold or shipped to, or issued for the use of, the United States or any department or agency thereof or any State or any department, agency, or political subdivision thereof.
+(a)(1) The provisions of this chapter, except for sections 922(d)(9) and 922(g)(9) and provisions relating to firearms subject to the prohibitions of section 922(p), shall not apply with respect to the transportation, shipment, receipt, possession, or importation of any firearm or ammunition imported for, sold or shipped to, or issued for the use of, the United States or any department or agency thereof or any State or any department, agency, or political subdivision thereof.
 
-(2) The provisions of this chapter, except for provisions relating to firearms subject to the prohibitions of section 922(p), shall not apply with respect to (A) the shipment or receipt of firearms or ammunition when sold or issued by the Secretary of the Army pursuant to section 4308 of title 10, and (B) the transportation of any such firearm or ammunition carried out to enable a person, who lawfully received such firearm or ammunition from the Secretary of the Army, to engage in military training or in competitions.
+(2) The provisions of this chapter, except for provisions relating to firearms subject to the prohibitions of section 922(p), shall not apply with respect to (A) the shipment or receipt of firearms or ammunition when sold or issued by the Secretary of the Army pursuant to section 4308 of title 10 before the repeal of such section by section 1624(a) of the Corporation for the Promotion of Rifle Practice and Firearms Safety Act, and (B) the transportation of any such firearm or ammunition carried out to enable a person, who lawfully received such firearm or ammunition from the Secretary of the Army, to engage in military training or in competitions.
 
 (3) Unless otherwise prohibited by this chapter, except for provisions relating to firearms subject to the prohibitions of section 922(p), or any other Federal law, a licensed importer, licensed manufacturer, or licensed dealer may ship to a member of the United States Armed Forces on active duty outside the United States or to clubs, recognized by the Department of Defense, whose entire membership is composed of such members, and such members or clubs may receive a firearm or ammunition determined by the Secretary of the Treasury to be generally recognized as particularly suitable for sporting purposes and intended for the personal use of such member or club.
 
 (4) When established to the satisfaction of the Secretary to be consistent with the provisions of this chapter, except for provisions relating to firearms subject to the prohibitions of section 922(p), and other applicable Federal and State laws and published ordinances, the Secretary may authorize the transportation, shipment, receipt, or importation into the United States to the place of residence of any member of the United States Armed Forces who is on active duty outside the United States (or who has been on active duty outside the United States within the sixty day period immediately preceding the transportation, shipment, receipt, or importation), of any firearm or ammunition which is (A) determined by the Secretary to be generally recognized as particularly suitable for sporting purposes, or determined by the Department of Defense to be a type of firearm normally classified as a war souvenir, and (B) intended for the personal use of such member.
 
-(5) For the purpose of paragraphs (3) and (4) of this subsection, the term “United States” means each of the several States and the District of Columbia.
+(5) For the purpose of paragraph (3) of this subsection, the term “United States” means each of the several States and the District of Columbia.
 
 (b) A licensed importer, licensed manufacturer, licensed dealer, or licensed collector who is indicted for a crime punishable by imprisonment for a term exceeding one year, may, notwithstanding any other provision of this chapter, continue operation pursuant to his existing license (if prior to the expiration of the term of the existing license timely application is made for a new license) during the term of such indictment and until any conviction pursuant to the indictment becomes final.
 
-(c) A person who is prohibited from possessing, shipping, transporting, or receiving firearms or ammunition may make application to the Secretary for relief from the disabilities imposed by Federal laws with respect to the acquisition, receipt, transfer, shipment, transportation, or possession of firearms, and the Secretary may grant such relief if it is established to his satisfaction that the circumstances regarding the disability, and the applicant's record and reputation, are such that the applicant will not be likely to act in a manner dangerous to public safety and that the granting of the relief would not be contrary to the public interest. Any person whose application for relief from disabilities is denied by the Secretary may file a petition with the United States district court for the district in which he resides for a judicial review of such denial. The court may in its discretion admit additional evidence where failure to do sowould result in a miscarriage of justice. A licensed importer, licensed manufacturer, licensed dealer, or licensed collector conducting operations under this chapter, who makes application for relief from the disabilities incurred under this chapter, shall not be barred by such disability from further operations under his license pending final action on an application for relief filed pursuant to this section. Whenever the Secretary grants relief to any person pursuant to this section he shall promptly publish in the Federal Register notice of such action, together with the reasons therefor.
+(c) A person who is prohibited from possessing, shipping, transporting, or receiving firearms or ammunition may make application to the Secretary for relief from the disabilities imposed by Federal laws with respect to the acquisition, receipt, transfer, shipment, transportation, or possession of firearms, and the Secretary may grant such relief if it is established to his satisfaction that the circumstances regarding the disability, and the applicant's record and reputation, are such that the applicant will not be likely to act in a manner dangerous to public safety and that the granting of the relief would not be contrary to the public interest. Any person whose application for relief from disabilities is denied by the Secretary may file a petition with the United States district court for the district in which he resides for a judicial review of such denial. The court may in its discretion admit additional evidence where failure to do so would result in a miscarriage of justice. A licensed importer, licensed manufacturer, licensed dealer, or licensed collector conducting operations under this chapter, who makes application for relief from the disabilities incurred under this chapter, shall not be barred by such disability from further operations under his license pending final action on an application for relief filed pursuant to this section. Whenever the Secretary grants relief to any person pursuant to this section he shall promptly publish in the Federal Register notice of such action, together with the reasons therefor.
 
 (d) The Secretary shall authorize a firearm or ammunition to be imported or brought into the United States or any possession thereof if the firearm or ammunition—
 
@@ -20,7 +20,7 @@
 
 &emsp;(2) is an unserviceable firearm, other than a machinegun as defined in section 5845(b) of the Internal Revenue Code of 1986 (not readily restorable to firing condition), imported or brought in as a curio or museum piece;
 
-&emsp;(3) is of a type that does not fall within the definition of a firearm as defined in section 5845(a) of the Internal Revenue Code of 1986 and is generally recognized as particularly suitable for or readily adaptable to sporting purposes, excluding surplus military firearms, except in any case where the Secretary has not authorized the importation of the firearm pursuant to this paragraph, it shall be unlawful to import any frame, receiver, or barrel of such firearm which would be prohibited if assembled; or
+&emsp;(3) is of a type that does not fall within the definition of a firearm as defined in section 5845(a) of the Internal Revenue Code of 1986 and is generally recognized as particularlysuitable for or readily adaptable to sporting purposes, excluding surplus military firearms, except in any case where the Secretary has not authorized the importation of the firearm pursuant to this paragraph, it shall be unlawful to import any frame, receiver, or barrel of such firearm which would be prohibited if assembled; or
 
 &emsp;(4) was previously taken out of the United States or a possession by the person who is bringing in the firearm or ammunition.
 
@@ -34,7 +34,7 @@
 
 (f) The Secretary shall not authorize, under subsection (d), the importation of any firearm the importation of which is prohibited by section 922(p).
 
-(Added Pub. L. 90–351, title IV, §902, June 19, 1968, 82 Stat. 233; amended Pub. L. 90–618, title I, §102, Oct. 22, 1968, 82 Stat. 1224; Pub. L. 98–573, title II, §233, Oct. 30, 1984, 98 Stat. 2991; Pub. L. 99–308, §105, May 19, 1986, 100 Stat. 459; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–649, §2(c), (f)(2)(C), (E), Nov. 10, 1988, 102 Stat. 3817, 3818; Pub. L. 101–647, title XXII, §2203(b), (c), Nov. 29, 1990, 104 Stat. 4857.)
+(Added Pub. L. 90–351, title IV, §902, June 19, 1968, 82 Stat. 233; amended Pub. L. 90–618, title I, §102, Oct. 22, 1968, 82 Stat. 1224; Pub. L. 98–573, title II, §233, Oct. 30, 1984, 98 Stat. 2991; Pub. L. 99–308, §105, May 19, 1986, 100 Stat. 459; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–649, §2(c), (f)(2)(C), (E), Nov. 10, 1988, 102 Stat. 3817, 3818; Pub. L. 101–647, title XXII, §2203(b), (c), Nov. 29, 1990, 104 Stat. 4857; Pub. L. 104–106, div. A, title XVI, §1624(b)(3), Feb. 10, 1996, 110 Stat. 522; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §658(d)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–372; Pub. L. 104–294, title VI, §607(c), Oct. 11, 1996, 110 Stat. 3511.)
 
 #### Amendment of Section
 
@@ -42,11 +42,19 @@
 
 #### References in Text
 
+Section 4308 of title 10 before the repeal of such section by section 1624(a) of the Corporation for the Promotion of Rifle Practice and Firearms Safety Act, referred to in subsec. (a)(2)(A), means section 4308 of Title 10, Armed Forces, prior to repeal by section 1624(a)(1) of Pub. L. 104–106, div. A, title XVI, Feb. 10, 1996, 110 Stat. 522.
+
 Section 5845(b) of the Internal Revenue Code of 1986, referred to in subsec. (d)(2), is classified to section 5845(b) of Title 26, Internal Revenue Code.
 
 Section 5845(a) of the Internal Revenue Code of 1986, referred to in subsec. (d)(3), is classified to section 5845(a) of Title 26.
 
 #### Amendments
+
+1996—Subsec. (a)(1). Pub. L. 104–208 inserted “sections 922(d)(9) and 922(g)(9) and” after “except for”.
+
+Subsec. (a)(2)(A). Pub. L. 104–106 inserted “before the repeal of such section by section 1624(a) of the Corporation for the Promotion of Rifle Practice and Firearms Safety Act” after “section 4308 of title 10”.
+
+Subsec. (a)(5). Pub. L. 104–294 substituted “For the purpose of paragraph (3)” for “For the purpose of paragraphs (3) and (4)”.
 
 1990—Subsec. (a)(1). Pub. L. 101–647, §2203(b), inserted “possession,” before “or importation”.
 
@@ -75,6 +83,10 @@ Subsec. (b). Pub. L. 90–618 added licensed collectors to the enumerated list o
 Subsec. (c). Pub. L. 90–618 substituted “imposed by Federal laws with respect to the acquisition, receipt, transfer, shipment, or possession of firearms and” for “under this chapter”, “to act in a manner dangerous to public safety” for “to conduct his operations in an unlawful manner,” and “licensed importer, licensed manufacturer, licensed dealer, or licensed collector” for “licensee”.
 
 Subsec. (d). Pub. L. 90–618 made minor changes in phraseology, subjected ammunition to the authority of the Secretary in text preceding par. (1), substituted “section 5845(b)” for “section 5848(2)” in par. (2), substituted “section 5845(a)” for “section 5848(1)” and “excluding surplus military firearms” for “and in the case of surplus military firearms is a rifle or shotgun” in par. (3), inserted “or ammunition” after “the firearm” in par. (4), and authorized the Secretary to permit the importation of ammunition for examination and testing in text following par. (4).
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–106 effective on the earlier of the date on which the Secretary of the Army submits a certification in accordance with section 5523 of Title 36, Patriotic Societies and Observances, or Oct. 1, 1996, see section 1624(c) of Pub. L. 104–106, set out as a note under section 4313 of Title 10, Armed Forces.
 
 #### Effective Date of 1988 Amendment; Sunset Provision
 

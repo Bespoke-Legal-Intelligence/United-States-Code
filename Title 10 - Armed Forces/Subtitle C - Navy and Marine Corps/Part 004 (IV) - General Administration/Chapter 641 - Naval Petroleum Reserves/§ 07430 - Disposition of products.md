@@ -140,7 +140,7 @@ Subsec. (j). Pub. L. 96–513, §513(34)(E), inserted “(15 U.S.C. 717 et seq.)
 
 Subsec. (k). Pub. L. 96–294, §804(b), amended subsec. (k) generally, inserting references to the Secretary, provision authorizing the exchange of petroleum under terms and conditions determined appropriate without regard to Federal procurement statutes and regulations, and provision making 42 U.S.C. 6239 inapplicable.
 
-Subsec. (<i>l</i>). Pub. L. 96–294, §804(c), added subsec. (<i>l).</i>
+Subsec. (<i>l</i>). Pub. L. 96–294, §804(c), added subsec. (<i>l</i>).
 
 1976—Subsec. (a). Pub. L. 94–258 substituted provisions setting forth requirements for Secretary in administering naval petroleum reserves under this chapter, for provisions setting forth requirements for Secretary of the Navy in administering naval petroleum and oil shale reserves under this chapter.
 
@@ -164,9 +164,19 @@ Functions vested in President by subsec. (k) of this section delegated to Secret
 
 #### Minimum Selling Price of United States Share of Petroleum
 
-Pub. L. 103–332, title II, Sept. 30, 1994, 108 Stat. 2525, provided in part: “That the requirements of 10 U.S.C. 7430(b)(2)(B) shall not apply in fiscal year 1995.”
+Pub. L. 104–208, div. A, title I, §101(d) \[title II\], Sept. 30, 1996, 110 Stat. 3009–181, 3009–210, provided in part: “That the requirements of 10 U.S.C. 7430(b)(2)(B) shall not apply to fiscal year 1997.”
 
-Similar provisions were contained in the following appropriation act:
+Pub. L. 104–201, div. C, title XXXIV, §3402, Sept. 23, 1996, 110 Stat. 2858, provided that: “Notwithstanding section 7430(b)(2) of title 10, United States Code, during fiscal year 1997, any sale of any part of the United States share of petroleum produced from Naval Petroleum Reserves Numbered 1, 2, and 3 shall be made at a price not less than 90 percent of the current sales price, as estimated by the Secretary of Energy, of comparable petroleum in the same area.”
+
+Similar provisions were contained in the following appropriation and authorization acts:
+
+Pub. L. 104–134, title I, §101(c) \[title II\], Apr. 26, 1996, 110 Stat. 1321–156, 1321–187; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.
+
+Pub. L. 104–106, div. C, title XXXIV, §3402, Feb. 10, 1996, 110 Stat. 631.
+
+Pub. L. 103–337, div. C, title XXXV, §3502, Oct. 5, 1994, 108 Stat. 3111.
+
+Pub. L. 103–332, title II, Sept. 30, 1994, 108 Stat. 2525.
 
 Pub. L. 103–138, title II, Nov. 11, 1993, 107 Stat. 1405.
 

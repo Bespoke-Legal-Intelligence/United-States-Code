@@ -56,7 +56,7 @@ If any portion of the earnings from business done with or for patrons is includi
 
 &emsp;&emsp;(B) with respect to the pool, the organization has entered into an agreement with the United States or any of its agencies which includes provisions to the effect that—
 
-&emsp;&emsp;&emsp;(i) the United States or such agency shall provide a loan to the organizationwith the products comprising the pool serving as collateral for such loan,
+&emsp;&emsp;&emsp;(i) the United States or such agency shall provide a loan to the organization with the products comprising the pool serving as collateral for such loan,
 
 &emsp;&emsp;&emsp;(ii) the organization shall use an amount equal to the proceeds of such loan to make price support advances to eligible producers (as determined by the United States or such agency), to defray costs of handling, processing, and storing such products, or to pay all or part of any administrative costs associated with the price support program,
 

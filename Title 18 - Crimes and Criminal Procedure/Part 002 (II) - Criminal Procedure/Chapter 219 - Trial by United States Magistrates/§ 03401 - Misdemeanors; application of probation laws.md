@@ -2,7 +2,7 @@
 
 (a) When specially designated to exercise such jurisdiction by the district court or courts he serves, any United States magistrate shall have jurisdiction to try persons accused of, and sentence persons convicted of, misdemeanors committed within that judicial district.
 
-(b) Any person charged with a misdemeanor may elect, however, to be tried before a judge of the district court for the district in which the offense was committed. The magistrate shall carefully explain to the defendant that he has a right to trial, judgment, and sentencing by a judge of the district court and that he may have a right to trial by jury before a district judge or magistrate. The magistrate shall not proceed to try the case unless the defendant, after such explanation, files a written consent to be tried before the magistrate that specifically waives trial, judgment, and sentencing by a judge of the district court.
+(b) Any person charged with a misdemeanor, other than a petty offense that is a class B misdemeanor charging a motor vehicle offense, a class C misdemeanor, or an infraction, may elect, however, to be tried before a district judge for the district in which the offense was committed. The magistrate judge shall carefully explain to the defendant that he has a right to trial, judgment, and sentencing by a district judge and that he may have a right to trial by jury before a district judge or magistrate judge. The magistrate judge may not proceed to try the case unless the defendant, after such explanation, expressly consents to be tried before the magistrate judge and expressly and specifically waives trial, judgment, and sentencing by a district judge. Any such consent and waiver shall be made in writing or orally on the record.
 
 (c) A magistrate who exercises trial jurisdiction under this section, and before whom a person is convicted or pleads either guilty or nolo contendere, may, with the approval of a judge of the district court, direct the probation service of the court to conduct a presentence investigation on that person and render a report to the magistrate prior to the imposition of sentence.
 
@@ -12,13 +12,13 @@
 
 (f) The district court may order that proceedings in any misdemeanor case be conducted before a district judge rather than a United States magistrate upon the court's own motion or, for good cause shown, upon petition by the attorney for the Government. Such petition should note the novelty, importance, or complexity of the case, or other pertinent factors, and be filed in accordance with regulations promulgated by the Attorney General.
 
-(g) The magistrate may, in a Class B or C misdemeanor case, or infraction case, involving a juvenile in which consent to trial before a magistrate has been filed under subsection (b) of this section, exercise all powers granted to the district court under chapter 403 of this title. For purposes of this subsection, proceedings under chapter 403 of this title may be instituted against a juvenile by a violation notice or complaint, except that no such case may proceed unless the certification referred to in section 5032 of this title has been filed in open court at the arraignment. No term of imprisonment shall be imposed by the magistrate in any such case.
+(g) The magistrate judge may, in a petty offense case involving a juvenile, that is a class B misdemeanor charging a motor vehicle offense, a class C misdemeanor, or an infraction, exercise all powers granted to the district court under chapter 403 of this title. The magistrate judge may, in any other class B or C misdemeanor case involving a juvenile in which consent to trial before a magistrate judge has been filed under subsection (b), exercise all powers granted to the district court under chapter 403 of this title. For purposes of this subsection, proceedings under chapter 403 of this title may be instituted against a juvenile by a violation notice or complaint, except that no such case may proceed unless the certification referred to in section 5032 of this title has been filed in open court at the arraignment. No term of imprisonment shall be imposed by the magistrate in any such case.
 
 (h) The magistrate judge shall have power to modify, revoke, or terminate supervised release of any person sentenced to a term of supervised release by a magistrate judge.
 
 (i) A district judge may designate a magistrate judge to conduct hearings to modify, revoke, or terminate supervised release, including evidentiary hearings, and to submit to the judge proposed findings of fact and recommendations for such modification, revocation, or termination by the judge, including, in the case of revocation, a recommended disposition under section 3583(e) of this title. The magistrate judge shall file his or her proposed findings and recommendations.
 
-(June 25, 1948, ch. 645, 62 Stat. 830; July 7, 1958, Pub. L. 85–508, §12(j), 72 Stat. 348; Oct. 17, 1968, Pub. L. 90–578, title III, §302(a), 82 Stat. 1115; Oct. 10, 1979, Pub. L. 96–82, §7(a), (b), 93 Stat. 645,646; Pub. L. 98–473, title II, §223(j), Oct. 12, 1984, 98 Stat. 2029; Nov. 18, 1988, Pub. L. 100–690, title VII, §7072(a), 102 Stat. 4405; Oct. 29, 1992, Pub. L. 102–572, title I, §103, 106 Stat. 4507.)
+(June 25, 1948, ch. 645, 62 Stat. 830; July 7, 1958, Pub. L. 85–508, §12(j), 72 Stat. 348; Oct. 17, 1968, Pub. L. 90–578, title III, §302(a), 82 Stat. 1115; Oct. 10, 1979, Pub. L. 96–82, §7(a), (b), 93 Stat. 645, 646; Pub. L. 98–473, title II, §223(j), Oct. 12, 1984, 98 Stat. 2029; Nov. 18, 1988, Pub. L. 100–690, title VII, §7072(a), 102 Stat. 4405; Oct. 29, 1992, Pub. L. 102–572, title I, §103, 106 Stat. 4507; Oct. 19, 1996, Pub. L. 104–317, title II, §202(a), 110 Stat. 3848.)
 
 #### Historical and Revision Notes
 
@@ -29,6 +29,10 @@ The phrase “the commissioner shall have power to grant probation” was insert
 Four sections were consolidated herein with minor rearrangements and deletion of unnecessary words.
 
 #### Amendments
+
+1996—Subsec. (b). Pub. L. 104–317, §202(a)(1), inserted “, other than a petty offense that is a class B misdemeanor charging a motor vehicle offense, a class C misdemeanor, or an infraction,” after “misdemeanor”, substituted “tried before a district judge” for “tried before a judge of the district court” and “by a district judge” for “by a judge of the district court”, substituted “magistrate judge” for “magistrate” in two places, and substituted “The magistrate judge may not proceed to try the case unless the defendant, after such explanation, expressly consents to be tried before the magistrate judge and expressly and specifically waives trial, judgment, and sentencing by a district judge. Any such consent and waiver shall be made in writing or orally on the record.” for “The magistrate shall not proceed to try the case unless the defendant, after such explanation, files a written consent to be tried before the magistrate that specifically waives trial, judgment, and sentencing by a judge of the district court.”
+
+Subsec. (g). Pub. L. 104–317, §202(a)(2), substituted “The magistrate judge may, in a petty offense case involving a juvenile, that is a class B misdemeanor charging a motor vehicle offense, a class C misdemeanor, or an infraction, exercise all powers granted to the district court under chapter 403 of this title. The magistrate judge may, in any other class B or C misdemeanor case involving a juvenile in which consent to trial before a magistrate judge has been filed under subsection (b), exercise all powers granted to the district court under chapter 403 of this title.” for “The magistrate may, in a Class B or C misdemeanor case, or infraction case, involving a juvenile in which consent to trial before a magistrate has been filed under subsection (b) of this section, exercise all powers granted to the district court under chapter 403 of this title.”
 
 1992—Subsec. (d). Pub. L. 102–572, §103(1), substituted “and to revoke, modify, or reinstate the probation of any person granted probation by a magistrate judge” for “and to revoke or reinstate the probation of any person granted probation by him”.
 
@@ -86,7 +90,7 @@ Amendment by Pub. L. 98–473 effective Nov. 1, 1987, and applicable only to off
 
 #### Effective Date of 1968 Amendment
 
-Amendment by Pub. L. 90–578 effective Oct. 17, 1968, except when a later effective date is applicable, which is the earlier of date when implementation of amendment by appointment of magistrates \[now United States magistrate judges\] and assumption of office takes place or third anniversary of enactment of Pub. L. 90–578 on Oct. 17, 1968, see section 403 of Pub. L. 90–578, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
+Amendment by Pub. L. 90–578 effective Oct. 17, 1968, except when a later effective date is applicable, whichis the earlier of date when implementation of amendment by appointment of magistrates \[now United States magistrate judges\] and assumption of office takes place or third anniversary of enactment of Pub. L. 90–578 on Oct. 17, 1968, see section 403 of Pub. L. 90–578, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
 
 #### Effective Date of 1958 Amendment
 
@@ -110,5 +114,5 @@ Probation, see section 3561 et seq. of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 7 section 1011; title 16 sections 460d, 460<i>l</i>–6a, 551, 670j, 1338; title 28 sections 636, 1915; title 43 section 1733; title 48 sections 1912, 1934.
+This section is referred to in section 5032 of this title; title 7 section 1011; title 16 sections 460d, 460<i>l</i>–6a, 551, 670j, 1338; title 28 sections 636, 1915; title 43 section 1733; title 48 sections 1912, 1934.
 

@@ -2,7 +2,7 @@
 
 On and after the entry into force of the International Coffee Agreement, 1983, and before October 1, 1989, the President is authorized, in order to carry out and enforce the provisions of that agreement—
 
-&emsp;(1) to regulate the entry of coffee for consumption, or withdrawal of coffee from warehouse for consumption, or any other form of entry or withdrawal of coffee such as for transportation or exportation, including whenever quotas are in effect pursuant to the agreement, (A) the limitation of entry, or withdrawal from warehouse, of coffee imported from countries which are not members of the International Coffee Organization, and (B) the prohibition of entry of any shipment from any member of the International Coffee Organization of coffee which is not accompanied either by a valid certificate of origin, a valid certificate of reexport, a valid certificateof reshipment, or a valid certificate of transit, issued by a qualified agency in such form as required under the agreement;
+&emsp;(1) to regulate the entry of coffee for consumption, or withdrawal of coffee from warehouse for consumption, or any other form of entry or withdrawal of coffee such as for transportation or exportation, including whenever quotas are in effect pursuant to the agreement, (A) the limitation of entry, or withdrawal from warehouse, of coffee imported from countries which are not members of the International Coffee Organization, and (B) the prohibition of entry of any shipment from any member of the International Coffee Organization of coffee which is not accompanied either by a valid certificate of origin, a valid certificate of reexport, a valid certificate of reshipment, or a valid certificate of transit, issued by a qualified agency in such form as required under the agreement;
 
 &emsp;(2) to require that every export or reexport of coffee from the United States shall be accompanied by a valid certificate of origin or a valid certificate of reexport, issued by a qualified agency of the United States designated by him, in such form as required under the agreement;
 
@@ -36,7 +36,7 @@ Section 1123(b) of Pub. L. 100–418 provided that: “The amendment made by sub
 
 #### Short Title
 
-Section 1 of Pub. L. 96–599 provided that: “This Act \[enacting this section and sections 1356<i>l</i> to 1356n of this title\] may be cited as the ‘International Coffee Agreement Act of 1980’.”
+Section 1 of Pub. L. 96–599 provided that: “This Act \[enacting this section and sections 1356<i>l</i> to 1356n of thistitle\] may be cited as the ‘International Coffee Agreement Act of 1980’.”
 
 #### Section Referred to in Other Sections
 

@@ -10,7 +10,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 5 U.S.C. 858.
 
@@ -32,5 +34,5 @@ Pub. L. 93–198, title VII, §734, Dec. 24, 1973, 87 Stat. 823, authorized the 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 22 section 1438.
+This section is referred to in title 10 section 1599c; title 22 section 1438.
 

@@ -20,7 +20,7 @@
 
 #### Amendments
 
-<b>1993</b>—Subsec. (c). Pub. L. 103–94 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows:
+1993—Subsec. (c). Pub. L. 103–94 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows:
 
 “(1) If an investigation by the Special Counsel under subsection (a)(1) substantiates an allegation relating to any activity prohibited under section 7324, the Special Counsel may petition the Merit Systems Protection Board for any penalties provided for under section 7325.
 

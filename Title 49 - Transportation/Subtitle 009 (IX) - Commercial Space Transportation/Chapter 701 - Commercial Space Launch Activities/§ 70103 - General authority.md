@@ -20,7 +20,9 @@ Executive Agency Assistance.—When necessary, the head of an executive agency s
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

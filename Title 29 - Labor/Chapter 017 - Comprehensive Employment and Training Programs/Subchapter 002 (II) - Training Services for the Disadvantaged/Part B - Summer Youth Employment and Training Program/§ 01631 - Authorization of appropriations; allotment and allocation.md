@@ -2,7 +2,7 @@
 
 #### (a) Territorial and Native American allocation
 
-From the funds appropriated under section 1502(a)(2) of this title, the Secretary shall first allocate to Guam, the Virgin Islands, American Samoa, the Federated States of Micronesia, the Republic of the Marshall Islands, Palau, the Commonwealth of the Northern Mariana Islands, and entities eligible under section 1671 of this title the same percentage of funds as were available to such areas and entities for the summer youth program in the fiscal year preceding the fiscal year for which the determination is made.
+From the funds appropriated under section 1502(a)(2) of this title, the Secretary shall firstallocate to Guam, the Virgin Islands, American Samoa, the Federated States of Micronesia, the Republic of the Marshall Islands, Palau, the Commonwealth of the Northern Mariana Islands, and entities eligible under section 1671 of this title the same percentage of funds as were available to such areas and entities for the summer youth program in the fiscal year preceding the fiscal year for which the determination is made.
 
 #### (b) Use of part C formula for allotment and allocation
 

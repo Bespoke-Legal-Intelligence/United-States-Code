@@ -12,7 +12,7 @@ It shall be unlawful for any person—
 
 &emsp;(4) to remove, alter, or obliterate a symbol or label required by section 825 of this title;
 
-&emsp;(5) to refuse or fail to make, keep, or furnish any record, report, notification, declaration,order or order form, statement, invoice, or information required under this subchapter or subchapter II of this chapter;
+&emsp;(5) to refuse or fail to make, keep, or furnish any record, report, notification, declaration, order or order form, statement, invoice, or information required under this subchapter or subchapter II of this chapter;
 
 &emsp;(6) to refuse any entry into any premises or inspection authorized by this subchapter or subchapter II of this chapter;
 
@@ -20,9 +20,13 @@ It shall be unlawful for any person—
 
 &emsp;(8) to use, to his own advantage, or to reveal, other than to duly authorized officers or employees of the United States, or to the courts when relevant in any judicial proceeding under this subchapter or subchapter II of this chapter, any information acquired in the course of an inspection authorized by this subchapter concerning any method or process which as a trade secret is entitled to protection, or to use to his own advantage or reveal (other than as authorized by section 830 of this title) any information that is confidential under such section;
 
-&emsp;(9) who is a regulated person to engage in a regulated transaction without obtaining the identification required by 830(a)(3) of this title; or
+&emsp;(9) who is a regulated person to engage in a regulated transaction without obtaining theidentification required by 830(a)(3) of this title;
 
-&emsp;(10) to fail to keep a record or make a report under section 830 of this title.
+&emsp;(10) to fail to keep a record or make a report under section 830 of this title; or
+
+&emsp;(11) to distribute a laboratory supply to a person who uses, or attempts to use, that laboratory supply to manufacture a controlled substance or a listed chemical, in violation of this subchapter or subchapter II of this chapter, with reckless disregard for the illegal uses to which such a laboratory supply will be put.
+
+> As used in paragraph (11), the term “laboratory supply” means a listed chemical or any chemical, substance, or item on a special surveillance list published by the Attorney General, which contains chemicals, products, materials, or equipment used in the manufacture of controlled substances and listed chemicals. For purposes of paragraph (11), there is a rebuttable presumption of reckless disregard at trial if the Attorney General notifies a firm in writing that a laboratory supply sold by the firm, or any other person or firm, has been used by a customer of the notified firm, or distributed further by that customer, for the unlawful production of controlled substances or listed chemicals a firm distributes and 2 weeks or more after the notification the notified firm distributes a laboratory supply to the customer.
 
 #### (b) Manufacture
 
@@ -40,15 +44,21 @@ It shall be unlawful for any person who is a registrant to manufacture a control
 
 (B) If a violation referred to in subparagraph (A) was committed after one or more prior convictions of the offender for an offense punishable under this paragraph (2), or for a crime under any other provision of this subchapter or subchapter II of this chapter or other law of the United States relating to narcotic drugs, marihuana, or depressant or stimulant substances, have become final, such person shall be sentenced to a term of imprisonment of not more than 2 years, a fine of $50,000, or both.
 
+(C) In addition to the penalties set forth elsewhere in this subchapter or subchapter II of this chapter, any business that violates paragraph (11) of subsection (a) of this section shall, with respect to the first such violation, be subject to a civil penalty of not more than $250,000, but shall not be subject to criminal penalties under this section, and shall, for any succeeding violation, be subject to a civil fine of not more than $250,000 or double the last previously imposed penalty, whichever is greater.
+
 (3) Except under the conditions specified in paragraph (2) of this subsection, a violation of this section does not constitute a crime, and a judgment for the United States and imposition of a civil penalty pursuant to paragraph (1) shall not give rise to any disability or legal disadvantage based on conviction for a criminal offense.
 
-(Pub. L. 91–513, title II, §402, Oct. 27, 1970, 84 Stat. 1262; Pub. L. 95–633, title II, §202(b)(1), (2), Nov. 10, 1978, 92 Stat. 3776; Pub. L. 100–690, title VI, §6056, Nov. 18, 1988, 102 Stat. 4318.)
+(Pub. L. 91–513, title II, §402, Oct. 27, 1970, 84 Stat. 1262; Pub. L. 95–633, title II, §202(b)(1), (2), Nov. 10, 1978, 92 Stat. 3776; Pub. L. 100–690, title VI, §6056, Nov. 18, 1988, 102 Stat. 4318; Pub. L. 104–237, title II, §205, Oct. 3, 1996, 110 Stat. 3103.)
 
 #### References in Text
 
 Schedules I and II, referred to in subsec. (b), are set out in section 812(c) of this title.
 
 #### Amendments
+
+1996—Subsec. (a). Pub. L. 104–237, §205(a), added par. (11) and closing provisions.
+
+Subsec. (c)(2)(C). Pub. L. 104–237, §205(b), added subpar. (C).
 
 1988—Subsec. (a)(8). Pub. L. 100–690, §6056(a), inserted “, or to use to his own advantage or reveal (other than as authorized by section 830 of this title) any information that is confidential under such section” after “protection”.
 
@@ -76,5 +86,5 @@ Pub. L. 96–359, §8(b), Sept. 26, 1980, 94 Stat. 1194, repealed section 203(d)
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 961 of this title.
+This section is referred to in sections 843, 961 of this title.
 

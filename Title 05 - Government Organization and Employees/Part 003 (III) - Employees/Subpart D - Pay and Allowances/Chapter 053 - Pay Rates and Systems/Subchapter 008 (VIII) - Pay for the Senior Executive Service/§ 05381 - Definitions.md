@@ -6,7 +6,7 @@ For the purpose of this subchapter, “agency”, “Senior Executive Service po
 
 #### Amendments
 
-<b>1989</b>—Pub. L. 101–136 inserted “ ‘career appointee’,” before “and”.
+1989—Pub. L. 101–136 inserted “ ‘career appointee’,” before “and”.
 
 #### Effective Date
 

@@ -2,7 +2,7 @@
 
 #### (a) Atomic energy defense activities
 
-Subject to the provisions of subsection (c) of this section, the provisions of this chapter shallnot apply with respect to any atomic energy defense activity or to any facility used in connection with any such activity.
+Subject to the provisions of subsection (c) of this section, the provisions of this chapter shall not apply with respect to any atomic energy defense activity or to any facility used in connection with any such activity.
 
 #### (b) Evaluation by President
 

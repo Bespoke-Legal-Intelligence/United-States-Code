@@ -60,7 +60,7 @@
 
 &emsp;(2) An offense within the purview of a current article of the Uniform Code of Military Justice (chapter 47 of title 10) or an earlier article on which the current article is based, as the case may be, on the basis of charges and specifications describing a violation of a statute named by paragraph (1), (3), or (4) of this subsection, if the executed sentence includes death, dishonorable discharge, or dismissal from the service, or if the defendant dies before execution of that sentence as finally approved.
 
-&emsp;(3) Perjury committed under the statutes of the United States or the District of Columbia in falsely denying the commission of an act which constitutes an offense within the purview of a statute named by paragraph (1) of this subsection.
+&emsp;(3) Perjury committed under the statutes of the United States or the District of Columbia in falsely denying the commission of an actwhich constitutes an offense within the purview of a statute named by paragraph (1) of this subsection.
 
 &emsp;(4) Subornation of perjury committed in connection with the false denial of another individual as specified by paragraph (3) of this subsection.
 
@@ -82,7 +82,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 5 U.S.C. 2282.
 
@@ -102,13 +104,13 @@ The date of enactment of this subsection, referred to in subsec. (d)(1)(C), is t
 
 #### Amendments
 
-<b>1994</b>—Subsec. (b)(2)(A). Pub. L. 103–337 substituted “, article 106 (spies), or article 106a (espionage)” for “or article 106 (spies)”.
+1994—Subsec. (b)(2)(A). Pub. L. 103–337 substituted “, article 106 (spies), or article 106a (espionage)” for “or article 106 (spies)”.
 
 Subsec. (d). Pub. L. 103–359 added subsec. (d).
 
-<b>1986</b>—Subsec. (c)(1)(C). Pub. L. 99–569 inserted provisions relating to section 601 of the National Security Act of 1947.
+1986—Subsec. (c)(1)(C). Pub. L. 99–569 inserted provisions relating to section 601 of the National Security Act of 1947.
 
-<b>1971</b>—Subsec. (c)(1)(C). Pub. L. 92–128 struck out “, 822 (conspiracy or evasion of apprehension during internal security emergency), or 823 (aiding evasion or apprehension during internal security emergency)” after “classified information)”.
+1971—Subsec. (c)(1)(C). Pub. L. 92–128 struck out “, 822 (conspiracy or evasion of apprehension during internal security emergency), or 823 (aiding evasion or apprehension during internal security emergency)” after “classified information)”.
 
 #### Effective Date of 1994 Amendment
 

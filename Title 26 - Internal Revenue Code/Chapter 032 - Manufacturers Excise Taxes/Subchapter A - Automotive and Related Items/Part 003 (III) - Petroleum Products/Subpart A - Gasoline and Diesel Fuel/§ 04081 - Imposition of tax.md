@@ -14,7 +14,7 @@
 
 &emsp;&emsp;&emsp;(iii) the entry into the United States of any taxable fuel for consumption, use, or warehousing, and
 
-&emsp;&emsp;&emsp;(iv) the sale of a taxable fuel to any person who is not registered under section 4101 unless there was a prior taxable removal or entry of such fuel under clause (i), (ii), or (iii).
+&emsp;&emsp;&emsp;(iv) the sale of a taxable fuel to any person who is not registered under section4101 unless there was a prior taxable removal or entry of such fuel under clause (i), (ii), or (iii).
 
 #### (B) Exemption for bulk transfers to registered terminals or refineries
 
@@ -26,9 +26,11 @@
 
 &emsp;&emsp;The rate of the tax imposed by this section is—
 
-&emsp;&emsp;&emsp;(i) in the case of gasoline, 18.3 cents per gallon, and
+&emsp;&emsp;&emsp;(i) in the case of gasoline other than aviation gasoline, 18.3 cents per gallon,
 
-&emsp;&emsp;&emsp;(ii) in the case of diesel fuel, 24.3 cents per gallon.
+&emsp;&emsp;&emsp;(ii) in the case of aviation gasoline, 19.3 cents per gallon, and
+
+&emsp;&emsp;&emsp;(iii) in the case of diesel fuel, 24.3 cents per gallon.
 
 #### (B) Leaking Underground Storage Tank Trust Fund tax
 
@@ -142,19 +144,33 @@ Under regulations prescribed by the Secretary—
 
 #### (1) In general
 
-&emsp;On and after October 1, 1999, each rate of tax specified in subsection (a)(2)(A) shall be 4.3 cents per gallon.
+&emsp;On and after October 1, 1999, the rates of tax specified in clauses (i) and (iii) of subsection (a)(2)(A) (other than the tax on aviation gasoline) shall be 4.3 cents per gallon.
 
-#### (2) Leaking Underground Storage Tank Trust Fund financing rate
+#### (2) Aviation gasoline <sup>1</sup>
+
+&emsp;On and after January 1, 1997, the rate specified in subsection (a)(2)(A)(ii) shall be 4.3 cents per gallon.
+
+#### (3) <sup>1</sup> Leaking Underground Storage Tank Trust Fund financing rate
 
 &emsp;The Leaking Underground Storage Tank Trust Fund financing rate under subsection (a)(2) shall not apply after December 31, 1995.
+
+#### (3) <sup>1</sup> Aviation gasoline
+
+&emsp;After December 31, 1996, the rate of tax specified in subsection (a)(2)(A)(i) on aviation gasoline shall be 4.3 cents per gallon.
 
 #### (e) Refunds in certain cases
 
 Under regulations prescribed by the Secretary, if any person who paid the tax imposed by this section with respect to any taxable fuel establishes to the satisfaction of the Secretary that a prior tax was paid (and not credited or refunded) with respect to such taxable fuel, then an amount equal to the tax paid by such person shall be allowed as a refund (without interest) to such person in the same manner as if it were an overpayment of tax imposed by this section.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 483; Mar. 30, 1955, ch. 18, §3(a)(3), 69 Stat. 14; Mar. 29, 1956, ch. 115, §3(a)(3), 70 Stat. 66; June 29, 1956, ch. 462, title II, §205, 70 Stat. 389; Sept. 21, 1959, Pub. L. 86–342, title II, §201(a), 73 Stat. 613; June 29, 1961, Pub. L. 87–61, title II, §201(b)–(d), 75 Stat. 123, 124; Dec. 31, 1970, Pub. L. 91–605, title III, §303(a)(6), 84 Stat. 1744; May 5, 1976, Pub. L. 94–280, title III, §303(a)(6), 90 Stat. 456; Nov. 6, 1978, Pub. L. 95–599, title V, §502(a)(5), 92 Stat. 2756; Nov. 9, 1978, Pub. L. 95–618, title II, §221(a)(1), 92 Stat. 3185; Apr. 2, 1980, Pub. L. 96–223, title II, §232(a)(1), (b)(3)(A), (d)(3), 94 Stat. 273, 276, 277; Jan. 6, 1983, Pub. L. 97–424, title V, §§511(a)(1), (d)(1), 516(a)(3), 96 Stat. 2169, 2171, 2182; July 18, 1984, Pub. L. 98–369, div. A, title VII, §732(a)(1), (2), title IX, §912(b), (f), 98 Stat. 976, 977, 1007; Oct. 17, 1986, Pub. L. 99–499, title V, §521(a)(1), 100 Stat. 1774; Oct. 22, 1986, Pub. L. 99–514, title XVII, §1703(a), 100 Stat. 2774; Apr. 2, 1987, Pub. L. 100–17, title V, §502(a)(4), (c)(2), 101 Stat. 256, 257; Dec. 22, 1987, Pub. L. 100–203, title X, §10502(d)(2), 101 Stat. 1330–444; Nov. 10, 1988, Pub. L. 100–647, title I, §1017(c)(1), (14), title II, §2001(d)(5), title VI, §6104(a), 102 Stat. 3575, 3577, 3595, 3711; Nov. 5, 1990, Pub. L. 101–508, title XI, §§11211(a)(1)–(3), (5)(A)–(C), (c)(3), (e)(3), 11212(a), (d)(1), (e)(2), 11215(a), 104 Stat. 1388–423, 1388–424, 1388–426, 1388–427, 1388–430, 1388–432, 1388–436; Dec. 18, 1991, Pub. L. 102–240, title VIII, §8002(a)(3), 105 Stat. 2203; Oct. 24, 1992, Pub. L. 102–486, title XIX, §1920(a), (b), 106 Stat. 3026; Aug. 10, 1993, Pub. L. 103–66, title XIII, §§13241(a), 13242(a), 107 Stat. 510, 514.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 483; Mar. 30, 1955, ch. 18, §3(a)(3), 69 Stat. 14; Mar. 29, 1956, ch. 115, §3(a)(3), 70 Stat. 66; June 29, 1956, ch. 462, title II, §205, 70 Stat. 389; Sept. 21, 1959, Pub. L. 86–342, title II, §201(a), 73 Stat. 613; June 29, 1961, Pub. L. 87–61, title II, §201(b)–(d), 75 Stat. 123, 124; Dec. 31, 1970, Pub. L. 91–605, title III, §303(a)(6), 84 Stat. 1744; May 5, 1976, Pub. L. 94–280, title III, §303(a)(6), 90 Stat. 456; Nov. 6, 1978, Pub. L. 95–599, title V, §502(a)(5), 92 Stat. 2756; Nov. 9, 1978, Pub. L. 95–618, title II, §221(a)(1), 92 Stat. 3185; Apr. 2, 1980, Pub. L. 96–223, title II, §232(a)(1), (b)(3)(A), (d)(3), 94 Stat. 273, 276, 277; Jan. 6, 1983, Pub. L. 97–424, title V, §§511(a)(1), (d)(1), 516(a)(3), 96 Stat. 2169, 2171, 2182; July 18, 1984, Pub. L. 98–369, div. A, title VII, §732(a)(1), (2), title IX, §912(b), (f), 98 Stat. 976, 977, 1007; Oct. 17, 1986, Pub. L. 99–499, title V, §521(a)(1), 100 Stat. 1774; Oct. 22, 1986, Pub. L. 99–514, title XVII, §1703(a), 100 Stat. 2774; Apr. 2, 1987, Pub. L. 100–17, title V, §502(a)(4), (c)(2), 101 Stat. 256, 257; Dec. 22, 1987, Pub. L. 100–203, title X, §10502(d)(2), 101 Stat. 1330–444; Nov. 10, 1988, Pub. L. 100–647, title I, §1017(c)(1), (14), title II, §2001(d)(5), title VI, §6104(a), 102 Stat. 3575, 3577, 3595, 3711; Nov. 5, 1990, Pub. L. 101–508, title XI, §§11211(a)(1)–(3), (5)(A)–(C), (c)(3), (e)(3), 11212(a), (d)(1), (e)(2), 11215(a), 104 Stat. 1388–423, 1388–424, 1388–426, 1388–427, 1388–430, 1388–432, 1388–436; Dec. 18, 1991, Pub. L. 102–240, title VIII, §8002(a)(3), 105 Stat. 2203; Oct. 24, 1992, Pub. L. 102–486, title XIX, §1920(a), (b), 106 Stat. 3026; Aug. 10, 1993, Pub. L. 103–66, title XIII, §§13241(a), 13242(a), 107 Stat. 510, 514; Aug. 20, 1996, Pub. L. 104–188, title I, §1609(a)(2), (g)(1), (2), (4)(B), 110 Stat. 1841–1843.)
 
 #### Amendments
+
+1996—Subsec. (a)(2)(A). Pub. L. 104–188, §1609(g)(1), added cls. (i) and (ii), redesignated former cl. (ii) as (iii), and struck out former cl. (i) which read as follows: “in the case of gasoline, 18.3 cents per gallon, and”.
+
+Subsec. (d)(1). Pub. L. 104–188, §1609(a)(2)(B), (g)(4)(B), substituted “the rates of tax specified in clauses (i) and (iii) of subsection (a)(2)(A) (other than the tax on aviation gasoline)” for “each rate of tax specified in subsection (a)(2)(A)”.
+
+Subsec. (d)(2), (3). Pub. L. 104–188, §1609(a)(2)(A), (g)(2), added par. (3) relating to aviation gasoline, redesignated former par. (2), relating to leaking underground storage tank trust fund financing rate, as another par. (3), and added new par. (2) relating to aviation gasoline.
 
 1993—Pub. L. 103–66, §13242(a), amended section generally, substituting, in subsec. (a), provisions imposing tax on taxable fuels for provisions imposing tax on gasoline, in subsec. (b), provisions relating to treatment of removal or subsequent sale of taxable fuels by blender for provisions relating to treatment of removal or subsequent sale of gasoline by blender or compounder, in subsec. (c), provisions relating to taxable fuels mixed with alcohol for provisions relating to gasoline mixed with alcohol at refinery etc., in subsec. (d), provisions decreasing tax rate imposed on taxable fuels to 4.3 cents per gallon beginning on and after Oct. 1, 1999, for provisions terminating the Highway Trust Fund financing and deficit reduction rates on and after Oct. 1, 1999, and Oct. 1, 1995, respectively, and, in subsec. (e), “taxable fuel” for “gasoline” in two places.
 
@@ -284,7 +300,7 @@ Subsec. (c)(3). Pub. L. 98–369, §912(f), substituted “coal (including peat)
 
 Subsec. (b). Pub. L. 97–424, §516(a)(3), substituted provision that, on and after Oct. 1, 1988, the taxes imposed by this section shall not apply, for provision that, on and after Oct. 1, 1984, the tax imposed by this section would be 11/2 cents a gallon.
 
-Subsec. (c)(1). Pub. L. 97–424, §511(d)(1)(A), substituted “subsection (a) shall be applied by substituting ‘4cents’ for ‘9 cents’ in the case of the sale of any gasoline” for “no tax shall be imposed by this section on the sale of any gasoline” after “Secretary,”.
+Subsec. (c)(1). Pub. L. 97–424, §511(d)(1)(A), substituted “subsection (a) shall be applied by substituting ‘4 cents’ for ‘9 cents’ in the case of the sale of any gasoline” for “no tax shall be imposed by this section on the sale of any gasoline” after “Secretary,”.
 
 Subsec. (c)(2). Pub. L. 97–424, §511(d)(1)(B), substituted “tax was imposed under subsection (a) at the rate of 4 cents a gallon by reason of this subsection” for “tax was not imposed by reason of this subsection” after “alcohol on which”, and inserted provision that the amount of tax imposed on any sale of such gasoline by such person shall be 5 cents a gallon.
 
@@ -317,6 +333,10 @@ Subsec. (a). Act June 29, 1956, redesignated first sentence as subsec. (a) and i
 Subsec. (b). Act June 29, 1956, redesignated second sentence as subsec. (b) and substituted “July 1, 1972” for “April 1, 1956”.
 
 1955—Act Mar. 30, 1955, substituted “April 1, 1956” for “April 1, 1955”.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–188 effective on 7th calendar day after Aug. 20, 1996, see section 1609(i) of Pub. L. 104–188, set out as a note under section 4041 of this title.
 
 #### Effective Date of 1993 Amendment
 
@@ -550,7 +570,7 @@ Section 1703(f) of Pub. L. 99–514, as amended by Pub. L. 100–647, title I, �
 
 #### Study of Evasion of Gasoline Tax
 
-Section 1703(g) of Pub. L. 99–514 directed Secretary of the Treasury or his delegate to conduct a study of incidence of evasion of gasoline tax, with report of thestudy to be submitted, not later than Dec. 31, 1986, to Committee on Ways and Means of House of Representatives and Committee on Finance of Senate.
+Section 1703(g) of Pub. L. 99–514 directed Secretary of the Treasury or his delegate to conduct a study of incidence of evasion of gasoline tax, with report of the study to be submitted, not later than Dec. 31, 1986, to Committee on Ways and Means of House of Representatives and Committee on Finance of Senate.
 
 #### Extension of Payment Due Date for Certain Fuel Taxes
 
@@ -597,4 +617,6 @@ Floor stocks refunds, see section 6412 of this title.
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 40, 4041, 4042, 4082, 4091, 4093, 4101, 4103, 4221, 6206, 6412, 6416, 6420, 6421, 6427, 9502, 9503, 9508 of this title; title 10 section 2398; title 46 section 13106.
+
+<i><sup>1</sup></i><i> So in original.</i>
 

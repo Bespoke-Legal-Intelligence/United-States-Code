@@ -1,6 +1,6 @@
 ### §240. Rules and regulations
 
-Rules and regulations for the enforcement of sections 237 to 242 of this title, not inconsistent with the provisions of said sections, shall be made by the Director of the National Institute of Standards and Technology and approved by the Secretary of Commerce, and such rules and regulations shall include reasonable variations or tolerances which may be allowed.
+Rules and regulations for the enforcement of sections 237 to 242 of this title, not inconsistent with the provisions of said sections, shall be made by the Director of the National Institute of Standards and Technology and approved bythe Secretary of Commerce, and such rules and regulations shall include reasonable variations or tolerances which may be allowed.
 
 (Aug. 23, 1916, ch. 396, §4, 39 Stat. 531; Aug. 23, 1988, Pub. L. 100–418, title V, §5115(c), 102 Stat. 1433.)
 
@@ -10,7 +10,7 @@ Rules and regulations for the enforcement of sections 237 to 242 of this title, 
 
 #### Transfer of Functions
 
-Functions of all other officers of Department of Commerce and functions of all agencies and employees ofsuch Department, with a few exceptions, transferred to Secretary of Commerce, with power vested in him to authorize their performance or performance of any of his functions by any of such officers, agencies, and employees, by Reorg. Plan No. 5 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
+Functions of all other officers of Department of Commerce and functions of all agencies and employees of such Department, with a few exceptions, transferred to Secretary of Commerce, with power vested in him to authorize their performance or performance of any of his functions by any of such officers, agencies, and employees, by Reorg. Plan No. 5 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Section Referred to in Other Sections
 

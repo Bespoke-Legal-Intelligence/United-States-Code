@@ -22,7 +22,9 @@ Act
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 5 U.S.C. 764.
 
@@ -52,9 +54,9 @@ The word “widower” is substituted for “dependent widower” to conform to 
 
 #### Amendments
 
-<b>1990</b>—Subsec. (b). Pub. L. 101–303 substituted “age 55” for “age 60”.
+1990—Subsec. (b). Pub. L. 101–303 substituted “age 55” for “age 60”.
 
-<b>1974</b>—Subsec. (a). Pub. L. 93–416, §20, substituted provisions relating to use of the most current United States Life Tables, for provisions relating to determination by the American Experience Tables of Mortality.
+1974—Subsec. (a). Pub. L. 93–416, §20, substituted provisions relating to use of the most current United States Life Tables, for provisions relating to determination by the American Experience Tables of Mortality.
 
 Subsec. (a)(1). Pub. L. 93–416, §19, substituted “$50” for “$5”.
 

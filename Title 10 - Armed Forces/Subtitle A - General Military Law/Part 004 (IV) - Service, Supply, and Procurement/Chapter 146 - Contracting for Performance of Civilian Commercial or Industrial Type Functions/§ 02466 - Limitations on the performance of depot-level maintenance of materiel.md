@@ -2,11 +2,9 @@
 
 (a)
 
-Percentage Limitation.—Not more than 40 percent of the funds made available in a fiscalyear to a military department or a Defense Agency for depot-level maintenance and repair workload may be used to contract for the performance by non-Federal Government personnel of such workload for the military department or the Defense Agency. Any such funds that are not used for such a contract shall be used for the performance of depot-level maintenance and repair workload by employees of the Department of Defense.
+Percentage Limitation.—Not more than 40 percent of the funds made available in a fiscal year to a military department or a Defense Agency for depot-level maintenance and repair workload may be used to contract for the performance by non-Federal Government personnel of such workload for the military department or the Defense Agency. Any such funds that are not used for such a contract shall be used for the performance of depot-level maintenance and repair workload by employees of the Department of Defense.
 
-(b)
-
-Prohibition on Management by End Strength.—The civilian employees of the Department of Defense involved in the depot-level maintenance and repair of materiel may not be managed on the basis of any end-strength constraint or limitation on the number of such employees who may be employed on the last day of a fiscal year. Such employees shall be managed solely on the basis of the available workload and the funds made available for such depot-level maintenance and repair.
+\[(b) Renumbered §2472(a)\]
 
 (c)
 
@@ -20,9 +18,15 @@ Exception.—Subsection (a) shall not apply with respect to the Sacramento Army 
 
 Report.—Not later than January 15, 1995, the Secretary of Defense shall submit to Congress a report identifying, for each military department and Defense Agency, the percentage of funds referred to in subsection (a) that was used during fiscal year 1994 to contract for the performance by non-Federal Government personnel of depot-level maintenance and repair workload.
 
-(Added Pub. L. 100–456, div. A, title III, §326(a), Sept. 29, 1988, 102 Stat. 1955; amended Pub. L. 101–189, div. A, title III, §313, Nov. 29, 1989, 103 Stat. 1412; Pub. L. 102–190, div. A, title III, §314(a)(1), Dec. 5, 1991, 105 Stat. 1336; Pub. L. 102–484, div. A, title III, §352(a)–(c), Oct. 23, 1992, 106 Stat. 2378; Pub. L. 103–337, div. A, title III, §332, Oct. 5, 1994, 108 Stat. 2715.)
+(Added Pub. L. 100–456, div. A, title III, §326(a), Sept. 29, 1988, 102 Stat. 1955; amended Pub. L. 101–189, div. A, title III, §313, Nov. 29, 1989, 103 Stat. 1412; Pub. L. 102–190, div. A, title III, §314(a)(1), Dec. 5, 1991, 105 Stat. 1336; Pub. L. 102–484, div. A, title III, §352(a)–(c), Oct. 23, 1992, 106 Stat. 2378; Pub. L. 103–337, div. A, title III, §332, Oct. 5, 1994, 108 Stat. 2715; Pub. L. 104–106, div. A, title III, §312(b), Feb. 10, 1996, 110 Stat. 250.)
+
+#### Repeal of Section
+
+<i>For contingent effective date of repeal of this section by section 311(f)(1) of Pub. L. 104–106, see section 311(f)(3) of Pub. L. 104–106, set out in a Policy Regarding Performance of Depot-Level Maintenance and Repair for Department of Defense note under section 2464 of this title.</i>
 
 #### Amendments
+
+1996—Subsec. (b). Pub. L. 104–106, §312(b), redesignated subsec. (b) as section 2472(a) of this title.
 
 1994—Subsec. (a). Pub. L. 103–337, §332(a), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows:
 
@@ -94,7 +98,7 @@ Conditions.—The Secretary shall ensure that activities conducted under this se
 
 #### Continuation of Percentage Limitations on Performance of Depot-Level Maintenance
 
-Pub. L. 103–160, div. A, title III, §343, Nov. 30, 1993, 107 Stat. 1624, provided that: “The Secretary of Defense shall ensure that the percentage limitations applicable to the depot-level maintenance workload performed by non-Federal Government personnel set forth in section 2466 of title 10, United States Code, are adhered to.”
+Pub. L. 103–160, div. A, title III, §343, Nov. 30, 1993, 107 Stat. 1624, provided that: “The Secretary of Defenseshall ensure that the percentage limitations applicable to the depot-level maintenance workload performed by non-Federal Government personnel set forth in section 2466 of title 10, United States Code, are adhered to.”
 
 #### Effect of 1992 Amendments on Existing Contracts
 

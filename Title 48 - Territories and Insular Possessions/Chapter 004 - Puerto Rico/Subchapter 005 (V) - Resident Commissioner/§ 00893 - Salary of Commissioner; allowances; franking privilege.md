@@ -6,11 +6,5 @@ The Resident Commissioner shall receive a salary payable monthly by the United S
 
 #### Codification
 
-Section is comprised of parts of third and fourth sentences of section 36 of act Mar. 2, 1917. Part of third sentence of section 36, fixing the salary of the commissioner at $7,500 per annum, was superseded by act Mar. 4, 1925, as amended, and set out as section 31 of Title 2, The Congress, providing for that commissioner a salary of $22,500 per annum. Part of the fourth sentence of section 36 is classified to section 46 of Title 2 \[see section 43b–1 of Title 2\]. See, also, Codification note set out under section 891 of this title.
-
-#### Cross References
-
-Mileage, see section 43 of Title 2, The Congress.
-
-Stationery allowance, see section 46b of Title 2.
+Section is comprised of parts of third and fourth sentences of section 36 of act Mar. 2, 1917. For classification of the remainder of section 36, see Codification note set out under section 891 of this title.
 

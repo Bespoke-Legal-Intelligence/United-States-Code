@@ -2,7 +2,7 @@
 
 #### (a) Application for grants, cooperative agreements, or contracts
 
-The Secretary may make an award of a grant, cooperative agreement, or contract under this subchapter only if an application for the award is submitted to the Secretary and the application is in such form, is made in such manner, and contains such agreements, assurances, and information as the Secretary determines to be necessary to carry out the program authorizing the award.
+The Secretary may make an award of a grant, cooperative agreement, or contract under thissubchapter only if an application for the award is submitted to the Secretary and the application is in such form, is made in such manner, and contains such agreements, assurances, and information as the Secretary determines to be necessary to carry out the program authorizing the award.
 
 #### (b) Duration of assistance
 

@@ -2,7 +2,7 @@
 
 #### (a) Fee collection
 
-Consistent with section 9701 of title 31, the Administrator may promulgate (and from time to time revise) regulations establishing fees to recover all reasonable costs to the Administrator associated with—
+Consistent with section 9701 of title 31, the Administrator may promulgate (and from time totime revise) regulations establishing fees to recover all reasonable costs to the Administrator associated with—
 
 &emsp;(1) new vehicle or engine certification under section 7525(a) of this title or part C of this subchapter,
 

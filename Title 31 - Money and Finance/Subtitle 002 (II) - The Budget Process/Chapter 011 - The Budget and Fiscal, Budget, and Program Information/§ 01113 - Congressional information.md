@@ -72,7 +72,7 @@ Act
 
 June 10, 1921, ch. 18, §212, 42 Stat. 23; Reorg. Plan No. 1 of 1939, eff. July 1, 1939, §1, 53 Stat. 1423; Reorg. Plan No. 2 of 1970, eff. July 1, 1970, §102(a), 84 Stat. 2085.
 
-1113(b)– (d)
+1113(b)–(d)
 
 31:1153(a)–(c).
 

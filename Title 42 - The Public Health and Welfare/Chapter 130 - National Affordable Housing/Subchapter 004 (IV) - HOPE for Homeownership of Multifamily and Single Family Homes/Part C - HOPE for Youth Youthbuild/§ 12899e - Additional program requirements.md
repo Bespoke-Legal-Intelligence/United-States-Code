@@ -14,7 +14,7 @@
 
 #### (2) Exception for individuals not meeting income or educational need requirements
 
-&emsp;Not more than 25 percent of the participants in such program may be individuals who donot meet the requirements of either paragraphs <sup>1</sup> (1)(B) or (C), but who have educational needs despite attainment of a high school diploma or its equivalent.
+&emsp;Not more than 25 percent of the participants in such program may be individuals who do not meet the requirements of either paragraphs <sup>1</sup> (1)(B) or (C), but who have educational needs despite attainment of a high school diploma or its equivalent.
 
 #### (3) Participation limitation
 

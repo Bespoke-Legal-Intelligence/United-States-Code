@@ -22,7 +22,7 @@
 
 (2) No agency or board of the Department of the Interior other than the Bureau of Land Management shall have authority to determine the navigability of a lake, river, or stream within an area selected by a Native or Native Corporation pursuant to the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\] or this Act unless a determination by the Bureau of Land Management that such lake, river, or stream, is or is not navigable, was validly appealed to such agency or board on or before December 2, 1980.
 
-(3) If title to land conveyed to a Native Corporation pursuant to the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\] or this Act which underlies a lake, river, or stream is challenged in a court of competent jurisdiction and such court determines that such land is owned by the Native Corporation, the Native Corporation shall be awarded a money judgment against the plaintiffs in an amount equal to its costs and attorney's fees, including costs and attorney's fees incurred on appeal.
+(3) If title to land conveyed to a Native Corporation pursuant to the Alaska Native ClaimsSettlement Act \[43 U.S.C. 1601 et seq.\] or this Act which underlies a lake, river, or stream is challenged in a court of competent jurisdiction and such court determines that such land is owned by the Native Corporation, the Native Corporation shall be awarded a money judgment against the plaintiffs in an amount equal to its costs and attorney's fees, including costs and attorney's fees incurred on appeal.
 
 #### (d) Definitions
 

@@ -18,7 +18,7 @@
 
 (i) The term “open end credit plan” means a plan under which the creditor reasonably contemplates repeated transactions, which prescribes the terms of such transactions, and which provides for a finance charge which may be computed from time to time on the outstanding unpaid balance. A credit plan which is an open end credit plan within the meaning of the preceding sentence is an open end credit plan even if credit information is verified from time to time.
 
-(j) The term “adequate notice,” as used in section 1643 of this title, means a printed notice to a cardholder which sets forth the pertinent facts clearly and conspicuously so that a person against whom it is to operate could reasonably be expected to have noticed it and understood its meaning. Such notice may be given to a cardholder by printing the notice on any credit card, or on each periodic statement of account,issued to the cardholder, or by any other means reasonably assuring the receipt thereof by the cardholder.
+(j) The term “adequate notice,” as used in section 1643 of this title, means a printed notice to a cardholder which sets forth the pertinent facts clearly and conspicuously so that a person against whom it is to operate could reasonably be expected to have noticed it and understood its meaning. Such notice may be given to a cardholder by printing the notice on any credit card, or on each periodic statement of account, issued to the cardholder, or by any other means reasonably assuring the receipt thereof by the cardholder.
 
 (k) The term “credit card” means any card, plate, coupon book or other credit device existing for the purpose of obtaining money, property, labor, or services on credit.
 
@@ -46,7 +46,7 @@
 
 (w) The term “residential mortgage transaction” means a transaction in which a mortgage, deed of trust, purchase money security interest arising under an installment sales contract, or equivalent consensual security interest is created or retained against the consumer's dwelling to finance the acquisition or initial construction of such dwelling.
 
-(x) As used in this section and section 1666f of this title, the term “regular price” means the tag or posted price charged for the property or service if a single price is tagged or posted, or the price charged for the property or service when payment is made by use of an open-end credit plan or a credit card if either (1) no price is tagged or posted, or (2) two prices are tagged or posted, one of which is charged when payment is made by use of an open-end credit plan or a credit card and the other when payment is made by use of cash, check, or similar means. For purposes of this definition, payment by check, draft, or other negotiable instrument which may result in the debiting of an open-end credit plan or a credit cardholder's open-end account shall not be considered payment made by use of the plan or the account.
+(x) As used in this section and section 1666f of this title, the term “regular price” means the tag or posted price charged for the property or service if a single price is tagged or posted, or the price charged for the property or service when payment is made by use of an open-end credit plan or a credit card if either (1) no price is tagged or posted, or (2) two prices are tagged or posted, one of which is charged when payment is made by use of an open-end credit plan or a credit card and the other when payment is made by use of cash, check, or similar means. For purposes of this definition, payment by check, draft, or other negotiable instrument which may result in the debiting of an open-end credit planor a credit cardholder's open-end account shall not be considered payment made by use of the plan or the account.
 
 (y) Any reference to any requirement imposed under this subchapter or any provision thereof includes reference to the regulations of the Board under this subchapter or the provision thereof in question.
 
@@ -124,7 +124,7 @@ Subsec. (aa). Pub. L. 103–325, §152(a), added subsec. (aa).
 
 Subsec. (bb). Pub. L. 103–325, §154(a), added subsec. (bb).
 
-1982—Subsec. (f). Pub. L. 97–320 struck out provision that a person who regularly arranged for the extension of consumer credit payable in more than four installments or for which the payment of a finance charge was or might have been required from persons not creditors was a creditor, and provision that this subchapter applied to any creditor, irrespective of his or its status as a natural person or any type of organization, who was a card issuer.
+1982—Subsec. (f). Pub. L. 97–320 struck out provision that a person who regularly arranged for the extension of consumer credit payable in more than four installments or for which the payment of a finance charge was or might have been required from persons notcreditors was a creditor, and provision that this subchapter applied to any creditor, irrespective of his or its status as a natural person or any type of organization, who was a card issuer.
 
 1981—Subsecs. (x) to (z). Pub. L. 97–25 added subsec. (z) and, effective Apr. 10, 1982, redesignated subsecs. (x), (y), and (z) as (y), (z), and (x), respectively.
 
@@ -182,5 +182,5 @@ Section 156 of title I of Pub. L. 103–325 provided that: “This subtitle \[su
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1604, 1605, 1610, 1615, 1631, 1635, 1638, 1639, 1641, 1667, 1693a, 1693g of this title; title 12 sections 1735f–5, 1735f–7a, 1834b, 2602, 3401; title 18 section 1030; title 42 section 5511.
+This section is referred to in sections 1604, 1605, 1610, 1615, 1631, 1635, 1638, 1639, 1641, 1667, 1679a, 1693a, 1693g of this title; title 12 sections 1735f–5, 1735f–7a, 1834b, 2602, 3401; title 18 section 1030; title 42 section 5511.
 

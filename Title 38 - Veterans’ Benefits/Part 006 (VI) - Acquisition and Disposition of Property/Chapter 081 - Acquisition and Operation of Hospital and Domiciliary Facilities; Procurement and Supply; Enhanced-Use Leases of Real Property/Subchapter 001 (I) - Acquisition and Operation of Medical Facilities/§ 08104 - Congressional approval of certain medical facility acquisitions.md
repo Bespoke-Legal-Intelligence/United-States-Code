@@ -6,27 +6,53 @@
 
 (3) For the purpose of this subsection:
 
-&emsp;(A) The term “major medical facility project” means a project for the construction, alteration, or acquisition of a medical facility involving a total expenditure of more than $3,000,000, but such term does not include an acquisition by exchange.
+&emsp;(A) The term “major medical facility project” means a project for the construction, alteration, or acquisition of a medical facility involving a total expenditure of more than $4,000,000, but such term does not include an acquisition by exchange.
 
 &emsp;(B) The term “major medical facility lease” means a lease for space for use as a new medical facility at an average annual rental of more than $300,000.
 
-(b) In the event that the President or the Secretary proposes to the Congress the funding of any construction, alteration, lease, or other acquisition to which subsection (a) of this section is applicable, the Secretary shall submit to each committee, on the same day, a prospectus of the proposed medical facility. Such prospectus shall include—
+(b) Whenever the President or the Secretary submit to the Congress a request for the funding of a major medical facility project (as defined in subsection (a)(3)(A)) or a major medical facility lease (as defined in subsection (a)(3)(B)), the Secretary shall submit to each committee, on the same day, a prospectus of the proposed medical facility. Any such prospectus shall include the following:
 
-&emsp;(1) a detailed description of the medical facility to be constructed, altered, leased, or otherwise acquired under this subchapter, including a description of the location of such facility and, in the case of a prospectus proposing the construction of a new or replacement medical facility, a description of the consideration that was given to acquiring an existing facility by lease or purchase and to the sharing of health-care resources with the Department of Defense under section 8111 of this title;
+&emsp;(1) A detailed description of the medical facility to be constructed, altered, leased, or otherwise acquired under this subchapter, including a description of the location of such facility and, in the case of a prospectus proposing the construction of a new or replacement medical facility, a description of the consideration that was given to acquiring an existing facility by lease or purchase and to the sharing of health-care resources with the Department of Defense under section 8111 of this title.
 
-&emsp;(2) an estimate of the cost to the United States of the construction, alteration, lease, or other acquisition of such facility (including site costs, if applicable); and
+&emsp;(2) An estimate of the cost to the United States of the construction, alteration, lease, or other acquisition of such facility (including site costs, if applicable).
 
-&emsp;(3) an estimate of the cost to the United States of the equipment required for the operation of such facility.
+&emsp;(3) An estimate of the cost to the United States of the equipment required for the operation of such facility.
+
+&emsp;(4) Demographic data applicable to such facility, including information on projected changes in the population of veterans to be served by the facility over a five-year period and a ten-year period.
+
+&emsp;(5) Current and projected workload and utilization data regarding the facility.
+
+&emsp;(6) Current and projected operating costs of the facility, including both recurring and non-recurring costs.
+
+&emsp;(7) The priority score assigned to the project or lease under the Department's prioritization methodology and, if the project or lease is being proposed for funding before a project or lease with a higher score, a specific explanation of the factors other than the priority score that were considered and the basis on which the project or lease is proposed for funding ahead of projects or leases with higher priority scores.
+
+&emsp;(8) In the case of a prospectus proposing the construction of a new or replacement medical facility, a description of each alternative to construction of the facility that was considered.
 
 (c) Not less than 30 days before obligating funds for a major medical facility project approved by a law described in subsection (a)(2) of this section in an amount that would cause the total amount obligated for that project to exceed the amount specified in the law for that project (or would add to total obligations exceeding such specified amount) by more than 10 percent, the Secretary shall provide the committees with notice of the Secretary's intention to do so and the reasons for the specified amount being exceeded.
 
-(d) In any case in which the Secretary proposes that funds be used for a purpose other than the purpose for which such funds were appropriated, the Secretary shall promptly notify each committee, in writing, of the particularsinvolved and the reasons why such funds were not used for the purpose for which appropriated.
+(d) In any case in which the Secretary proposes that funds be used for a purpose other than the purpose for which such funds were appropriated, the Secretary shall promptly notify each committee, in writing, of the particulars involved and the reasons why such funds were not used for the purpose for which appropriated.
 
 (e) The Secretary may accept gifts or donations for any of the purposes of this subchapter.
 
-(Added Pub. L. 96–22, title III, §301(a), June 13, 1979, 93 Stat. 56, §5004; amended Pub. L. 99–166, title III, §§301, 303, Dec. 3, 1985, 99 Stat. 954, 955; Pub. L. 99–576, title II, §221(b), Oct. 28, 1986, 100 Stat. 3259; Pub. L. 100–322, title IV, §422, May 20, 1988, 102 Stat. 553; renumbered §8104 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 102–405, title III, §301(a), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 103–79, §3(a), Aug. 13, 1993, 107 Stat. 771.)
+(f) The Secretary may not obligate funds in an amount in excess of $500,000 from the Advance Planning Fund of the Department toward design or development of a major medical facility project (as defined in subsection (a)(3)(A)) until—
+
+&emsp;(1) the Secretary submits to the committees a report on the proposed obligation; and
+
+&emsp;(2) a period of 30 days has passed after the date on which the report is received by the committees.
+
+(Added Pub. L. 96–22, title III, §301(a), June 13, 1979, 93 Stat. 56, §5004; amended Pub. L. 99–166, title III, §§301, 303, Dec. 3, 1985, 99 Stat. 954, 955; Pub. L. 99–576, title II, §221(b), Oct. 28, 1986, 100 Stat. 3259; Pub. L. 100–322, title IV, §422, May 20, 1988, 102 Stat. 553; renumbered §8104 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 102–405, title III, §301(a), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 103–79, §3(a), Aug. 13, 1993, 107 Stat. 771; Pub. L. 104–262, title II, §§205(a), 206(a), (c), Oct. 9, 1996, 110 Stat. 3189, 3190.)
 
 #### Amendments
+
+1996—Subsec. (a)(3)(A). Pub. L. 104–262, §206(a), substituted “$4,000,000” for “$3,000,000”.
+
+Subsec. (b). Pub. L. 104–262, §205(a)(1), inserted introductory provisions and struck out former introductory provisions which read as follows: “In the event that the President or the Secretary proposes to the Congress the funding of any construction, alteration, lease, or other acquisition to which subsection (a) of this section is applicable, the Secretary shall submit to each committee, on the same day, a prospectus of the proposed medical facility. Such prospectus shall include—”.
+
+Subsec. (b)(1) to (3). Pub. L. 104–262, §205(a)(2)–(4), substituted “A detailed” for “a detailed” and “title.” for “title;” in par. (1), “An estimate” for “an estimate” and “applicable).” for “applicable); and” in par. (2), and “An estimate” for “an estimate” in par. (3).
+
+Subsec. (b)(4) to (8). Pub. L. 104–262, §205(a)(5), added pars. (4) to (8).
+
+Subsec. (f). Pub. L. 104–262, §206(c), added subsec. (f).
 
 1993—Subsec. (a)(3)(A). Pub. L. 103–79 substituted “$3,000,000” for “$2,000,000”.
 
@@ -86,9 +112,15 @@ Subsecs. (d) to (f). Pub. L. 100–322, §422(d), redesignated subsecs. (e) and 
 
 Subsec. (b)(1). Pub. L. 99–166, §303, inserted “and, in the case of a prospectus proposing the construction of a new or replacement medical facility, a description of the consideration that was given to acquiring an existing facility by lease or purchase” after “such facility”.
 
+#### Effective Date of 1996 Amendment
+
+Section 205(b) of Pub. L. 104–262 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to any prospectus submitted by the Secretary of Veterans Affairs after the date of the enactment of this Act \[Oct. 9, 1996\].”
+
 #### Effective Date of 1992 Amendment
 
-Section 301(b) of Pub. L. 102–405 provided that: “The amendments made by subsection (a) \[amending this section\] shall not apply with respect to any project for which funds were appropriated before the date of the enactment of this Act \[Oct. 9, 1992\].
+Section 206(b)(2) of Pub. L. 104–262 provided that: “The amendments made by subsection (a) of such section \[meaning section 301(a) of Pub. L. 102–405, amending this section\] shall apply with respect to any major medical facility project or any major medical facility lease of the Department of Veterans Affairs, regardless of when funds are first appropriated for that project or lease, except that in the case of a project for which funds were first appropriated before October 9, 1992, such amendments shall not apply with respect to amounts appropriated for that project for a fiscal year before fiscal year 1998.”
+
+Section 301(b) of Pub. L. 102–405 provided that the amendments made by section 301(a) of Pub. L. 102–405, amending this section, were not applicable with respect to any project for which funds were appropriated before Oct. 9, 1992, prior to repeal by Pub. L. 104–262, title II, §206(b)(1), Oct. 9, 1996, 110 Stat. 3190.
 
 #### Section Referred to in Other Sections
 

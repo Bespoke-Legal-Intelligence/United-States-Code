@@ -18,11 +18,17 @@ Such portion of the readjustment allowance as prescribed by the Secretary may be
 
 #### (e) Child care costs
 
-In addition to child care assistance provided under section 1698(e) of this title, the Secretary shall provide enrollees who otherwise could not participate in the Job Corps with allowances to pay for child care costs, such as food, clothing, and health care for the child. Allowances under this subsection may only be provided during the first 2 months of an enrollee's participation in the program and shall be in an amount that does not exceed the maximum amount that may be provided by the State pursuant to section 602(g)(1)(C) of title 42.
+In addition to child care assistance provided under section 1698(e) of this title, the Secretary shall provide enrollees who otherwise could not participate in the Job Corps with allowances to pay for child care costs, such as food, clothing, and health care for the child. Allowances under this subsection may only be provided during the first 2 months of an enrollee's participation in the program.
 
-(Pub. L. 97–300, title IV, §429, Oct. 13, 1982, 96 Stat. 1374; Pub. L. 103–239, title VII, §731, May 4, 1994, 108 Stat. 607.)
+(Pub. L. 97–300, title IV, §429, Oct. 13, 1982, 96 Stat. 1374; Pub. L. 103–239, title VII, §731, May 4, 1994, 108 Stat. 607; Pub. L. 104–193, title I, §110(n)(11), Aug. 22, 1996, 110 Stat. 2174.)
 
 #### Amendments
 
+1996—Subsec. (e). Pub. L. 104–193 struck out “and shall be in an amount that does not exceed the maximum amount that may be provided by the State pursuant to section 602(g)(1)(C) of title 42” before period at end.
+
 1994—Subsec. (e). Pub. L. 103–239 added subsec. (e).
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–193 effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as an Effective Date note under section 601 of Title 42, The Public Health and Welfare.
 

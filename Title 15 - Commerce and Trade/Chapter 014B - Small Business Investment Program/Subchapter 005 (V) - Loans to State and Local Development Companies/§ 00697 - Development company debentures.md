@@ -28,7 +28,11 @@ No guarantee may be made with respect to any debenture under subsection (a) of t
 
 &emsp;(7) with respect to each loan made from the proceeds of such debenture, the Administration—
 
-&emsp;&emsp;(A) assesses and collects a fee, which shall be payable by the borrower, in an amount equal to 0.125 percent per year of the outstanding balance of the loan; and
+&emsp;&emsp;(A) assesses and collects a fee, which shall be payable by the borrower, in an amount equal to the lesser of—
+
+&emsp;&emsp;&emsp;(i) 0.9375 percent per year of the outstanding balance of the loan; or
+
+&emsp;&emsp;&emsp;(ii) such percentage per year of the outstanding balance of the loan as the Administrator may determine to be necessary to reduce the cost (as that term is defined in section 661a of title 2) to the Administration of purchasing and guaranteeing debentures under this chapter to an amount that, taking into consideration any available appropriated funds, would permit the Administration to purchase or guarantee $2,000,000,000 of debentures in fiscal year 1997; and
 
 &emsp;&emsp;(B) uses the proceeds of such fee to offset the cost (as such term is defined in section 661a of title 2) to the Administration of making guarantees under subsection (a) of this section.
 
@@ -40,9 +44,19 @@ No guarantee may be made with respect to any debenture under subsection (a) of t
 
 (3) The Administrator is authorized and directed to establish and publish quarterly a maximum legal interest rate for any commercial loan which funds any portion of the cost of the project financed pursuant to this section or section 697a of this title which is not funded by a debenture guaranteed under this section.
 
-#### (d) Administrative expenses; additional charge
+#### (d) Charges for Administration expenses
 
-The Administration may impose an additional charge for administrative expenses with respect to each debenture for which payment of principal and interest is guaranteed under subsection (a) of this section.
+#### (1) Level of charges
+
+&emsp;The Administration may impose an additional charge for administrative expenses with respect to each debenture for which payment of principal and interest is guaranteed under subsection (a) of this section.
+
+#### (2) Participation fee
+
+&emsp;The Administration shall collect a one-time fee in an amount equal to 50 basis points on the total participation in any project of any institution described in subclause (I), (II), or (III) of section 696(3)(B)(i) of this title. Such fee shall be imposed only when the participation of the institution will occupy a senior credit position to that of the development company. All proceeds of the fee shall be used to offset the cost (as that term is defined in section 661a of title 2) to the Administration of making guarantees under subsection (a) of this section.
+
+#### (3) Development company fee
+
+&emsp;The Administration shall collect annually from each development company a fee of 0.125 percent of the outstanding principal balance of any guaranteed debenture authorized by the Administration after September 30, 1996. Such fee shall be derived from the servicing fees collected by the development company pursuant to regulation, and shall not be derived from any additional fees imposed on small business concerns. All proceeds of the fee shall be used to offset the cost (as that term is defined in section 661a of title 2) to the Administration of making guarantees under subsection (a) of this section.
 
 #### (e) “Qualified State or local development company” defined; exception for rural company; authority
 
@@ -58,9 +72,55 @@ The Administration may impose an additional charge for administrative expenses w
 
 (3) Notwithstanding any other provision of law, qualified State or local development companies shall be authorized to prepare applications for deferred participation loans under section 636(a) of this title, to service such loans and to charge a reasonable fee for servicing such loans.
 
-(Pub. L. 85–699, title V, §503, as added Pub. L. 96–302, title I, §113(a), July 2, 1980, 94 Stat. 837; amended Pub. L. 100–590, title I, §§112(c), 114, 117(a), Nov. 3, 1988, 102 Stat. 2996–2998; Pub. L. 101–515, title V, §8, Nov. 5, 1990, 104 Stat. 2144; Pub. L. 103–403, title II, §213(1), Oct. 22, 1994, 108 Stat. 4184; Pub. L. 104–36, §6, Oct. 12, 1995, 109 Stat. 297.)
+#### (f) Effective date
+
+The fees authorized by subsections (b) and (c) of this section shall apply to financings approved by the Administration on or after October 1, 1996, but shall not apply to financings approved by the Administration on or after October 1, 1997.
+
+#### (g) Calculation of subsidy rate
+
+All fees, interest, and profits received and retained by the Administration under this section shall be included in the calculations made by the Director of the Office of Management and Budget to offset the cost (as that term is defined in section 661a of title 2) to the Administration of purchasing and guaranteeing debentures under this chapter.
+
+#### (h) Required actions upon default
+
+#### (1) Initial actions
+
+&emsp;Not later than the 45th day after the date on which a payment on a loan funded through a debenture guaranteed under this section is due and not received, the Administration shall—
+
+&emsp;&emsp;(A) take all necessary steps to bring such a loan current; or
+
+&emsp;&emsp;(B) implement a formal written deferral agreement.
+
+#### (2) Purchase or acceleration of debenture
+
+&emsp;Not later than the 65th day after the date on which a payment on a loan described in paragraph (1) is due and not received, and absent a formal written deferral agreement, the administration <sup>1</sup> shall take all necessary steps to purchase or accelerate the debenture.
+
+#### (3) Prepayment penalties
+
+&emsp;With respect to the portion of any project derived from funds set forth in section 696(3) of this title, the Administration—
+
+&emsp;&emsp;(A) shall negotiate the elimination of any prepayment penalties or late fees on defaulted loans made prior to September 30, 1996;
+
+&emsp;&emsp;(B) shall not pay any prepayment penalty or late fee on the default based purchase of loans issued after September 30, 1996; and
+
+&emsp;&emsp;(C) for any project financed after September 30, 1996, shall not pay any default interest rate higher than the interest rate on the note prior to the date of default.
+
+(Pub. L. 85–699, title V, §503, as added Pub. L. 96–302, title I, §113(a), July 2, 1980, 94 Stat. 837; amended Pub. L. 100–590, title I, §§112(c), 114, 117(a), Nov. 3, 1988, 102 Stat. 2996–2998; Pub. L. 101–515, title V, §8, Nov. 5, 1990, 104 Stat. 2144; Pub. L. 103–403, title II, §213(1), Oct. 22, 1994, 108 Stat. 4184; Pub. L. 104–36, §6, Oct. 12, 1995, 109 Stat. 297; Pub. L. 104–208, div. D, title II, §§202(b)–(e), 203, Sept. 30, 1996, 110 Stat. 3009–735, 3009–736.)
+
+#### References in Text
+
+For definition of “this chapter”, referred to in subsecs. (b)(7)(A)(ii) and (g), see References in Text note set out under section 661 of this title.
 
 #### Amendments
+
+1996—Subsec. (b)(7)(A). Pub. L. 104–208, §202(b), substituted “equal to the lesser of—” for “equal to 0.125 percent per year of the outstanding balance of the loan” and added cls. (i) and (ii).
+
+Subsec. (d). Pub. L. 104–208, §202(c), inserted heading and amended text of subsec. (d) generally. Prior to amendment, text read as follows: “The Administration may impose an additional charge for administrative expenses with respect to each debenture for which payment of principal and interest is guaranteed under subsection (a) of this section.”
+
+Subsec. (f). Pub. L. 104–208, §202(d), added subsec. (f).
+
+Subsec. (g). Pub. L. 104–208, §202(e), added subsec. (g).
+
+Subsec. (h). Pub. L. 104–208, §203, added subsec. (h).
 
 1995—Subsec. (b)(7). Pub. L. 104–36 added par. (7).
 
@@ -78,6 +138,10 @@ Subsec. (e). Pub. L. 100–590, §117, which directed substitution of “(1) For
 
 Pub. L. 100–590, §112(c)(A), formerly §112(c)(1)(A), as amended by Pub. L. 103–403, redesignated former subsec. (d) as (e).
 
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–208 effective Oct. 1, 1996, see section 3 of Pub. L. 104–208, set out as a note under section 633 of this title.
+
 #### Effective Date of 1995 Amendment
 
 Amendment by Pub. L. 104–36 inapplicable to loans made or guaranteed under Small Business Act or Small Business Investment Act of 1958 before Oct. 12, 1995, unless such loans are refinanced, extended, restructured, or renewed on or after Oct. 12, 1995, see section 8 of Pub. L. 104–36, set out as a note under section 634 of this title.
@@ -92,5 +156,7 @@ Section effective Oct. 1, 1980, see section 507 of Pub. L. 96–302, set out as 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 697a, 697d, 697e, 697f of this title.
+This section is referred to in sections 696, 697a, 697d, 697e, 697f of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

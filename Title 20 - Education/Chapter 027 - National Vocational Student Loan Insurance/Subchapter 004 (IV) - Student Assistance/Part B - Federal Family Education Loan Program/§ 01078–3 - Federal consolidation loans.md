@@ -6,7 +6,7 @@
 
 &emsp;For the purpose of providing loans to eligible borrowers for consolidation of their obligations with respect to eligible student loans, the Secretary or a guaranty agency shall enter into agreements in accordance with subsection (b) of this section with the following eligible lenders:
 
-&emsp;&emsp;(A) the Student Loan Marketing Association;
+&emsp;&emsp;(A) the Student Loan Marketing Association or the Holding Company of the Student Loan Marketing Association, including any subsidiary of the Holding Company, created pursuant to section 1087–3 of this title;
 
 &emsp;&emsp;(B) State agencies described in subparagraphs (D) and (F) of section 1085(d)(1) of this title; and
 
@@ -58,7 +58,7 @@
 
 &emsp;&emsp;(B) that each consolidation loan made by the lender will bear interest, and be subject to repayment, in accordance with subsection (c) of this section;
 
-&emsp;&emsp;(C) that each consolidation loan will be made, notwithstanding any other provision of this part limiting the annual or aggregateprincipal amount for all insured loans made to a borrower, in an amount (i) which is not less than the minimum amount required for eligibility of the borrower under subsection (a)(3) of this section, and (ii) which is equal to the sum of the unpaid principal and accrued unpaid interest and late charges of all eligible student loans received by the eligible borrower which are selected by the borrower for consolidation;
+&emsp;&emsp;(C) that each consolidation loan will be made, notwithstanding any other provision of this part limiting the annual or aggregate principal amount for all insured loans made to a borrower, in an amount (i) which is not less than the minimum amount required for eligibility of the borrower under subsection (a)(3) of this section, and (ii) which is equal to the sum of the unpaid principal and accrued unpaid interest and late charges of all eligible student loans received by the eligible borrower which are selected by the borrower for consolidation;
 
 &emsp;&emsp;(D) that the proceeds of each consolidation loan will be paid by the lender to the holder or holders of the loans so selected to discharge the liability on such loans;
 
@@ -98,7 +98,7 @@
 
 #### (4) Terms and conditions of loans
 
-&emsp;A consolidation loan made pursuant to this section shall be insurable by the Secretary or a guaranty agency pursuant to paragraph (2) only if the loan is made to an eligible borrower who has agreed to notify the holder of the loan promptly concerning any change of address and the loan is evidenced by a note or other written agreement which—
+&emsp;A consolidation loan made pursuant to this section shall be insurable by the Secretary ora guaranty agency pursuant to paragraph (2) only if the loan is made to an eligible borrower who has agreed to notify the holder of the loan promptly concerning any change of address and the loan is evidenced by a note or other written agreement which—
 
 &emsp;&emsp;(A) is made without security and without endorsement, except that if the borrower is a minor and such note or other written agreement executed by him or her would not, under applicable law, create a binding obligation, endorsement may be required;
 
@@ -118,7 +118,7 @@
 
 #### (5) Direct loans
 
-&emsp;In the event that a borrower is unable to obtain a consolidation loan from a lender withan agreement under subsection (a)(1) of this section, or is unable to obtain a consolidation loan with income-sensitive repayment terms acceptable to the borrower from such a lender, the Secretary shall offer any such borrower who applies for it, a direct consolidation loan. Such direct consolidation loan shall, as requested by the borrower, be repaid either pursuant to income contingent repayment under part C of this subchapter or pursuant to any other repayment provision under this section. The Secretary shall not offer such loans if, in the Secretary's judgment, the Department of Education does not have the necessary origination and servicing arrangements in place for such loans.
+&emsp;In the event that a borrower is unable to obtain a consolidation loan from a lender with an agreement under subsection (a)(1) of this section, or is unable to obtain a consolidation loan with income-sensitive repayment terms acceptable to the borrower from such a lender, the Secretary shall offer any such borrower who applies for it, a direct consolidation loan. Such direct consolidation loan shall, as requested by the borrower, be repaid either pursuant to income contingent repayment under part C of this subchapter or pursuant to any other repayment provision under this section. The Secretary shall not offer such loans if, in the Secretary's judgment, the Department of Education does not have the necessary origination and servicing arrangements in place for such loans.
 
 #### (c) Payment of principal and interest
 
@@ -156,7 +156,7 @@
 
 &emsp;Notwithstanding paragraph (2)—
 
-&emsp;&emsp;(A) a repayment schedule established with respect to a consolidation loan shall require that the minimum installment payment be an amount equal to not less than the accrued unpaid interest; and
+&emsp;&emsp;(A) a repayment schedule established with respect to a consolidation loan shall require that the minimum installment payment bean amount equal to not less than the accrued unpaid interest; and
 
 &emsp;&emsp;(B) except as required by the terms of repayment pursuant to income contingent repayment offered by the Secretary under subsection (b)(5) of this section, the lender of a consolidation loan may, with respect to repayment on the loan, when the amount of a monthly or other similar payment on the loan is not a multiple of $5, round the payment to the next highest whole dollar amount that is a multiple of $5.
 
@@ -232,13 +232,13 @@ The authority to make loans under this section expires at the close of September
 
 #### (1) In general
 
-&emsp;For any month beginning on or after October 1, 1993, each holder of a consolidation loan under this section for which the first disbursement was made on or after October 1, 1993, shall pay to the Secretary, on a monthly basis and in such manner as the Secretary shall prescribe, a rebate fee calculated on an annual basis equal to 1.05 percent of the principal plus accrued unpaid interest on such loan.
+&emsp;For any month beginning on or after October 1, 1993, each holder of a consolidation loanunder this section for which the first disbursement was made on or after October 1, 1993, shall pay to the Secretary, on a monthly basis and in such manner as the Secretary shall prescribe, a rebate fee calculated on an annual basis equal to 1.05 percent of the principal plus accrued unpaid interest on such loan.
 
 #### (2) Deposit
 
 &emsp;The Secretary shall deposit all fees collected pursuant to subsection (a) of this section into the insurance fund established in section 1081 of this title.
 
-(Pub. L. 89–329, title IV, §428C, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1388; amended Pub. L. 100–50, §10(s), June 3, 1987, 101 Stat. 345; Pub. L. 102–325, title IV, §419, July 23, 1992, 106 Stat. 532; Pub. L. 102–408, title III, §306(a), (b), Oct. 13, 1992, 106 Stat. 2084, 2086; Pub. L. 103–66, title IV, §§4046(a), (b)(2), 4106(a), Aug. 10, 1993, 107 Stat. 360, 363, 368; Pub. L. 103–208, §2(c)(33)–(37), Dec. 20, 1993, 107 Stat. 2466; Pub. L. 103–382, title III, §356, Oct. 20, 1994, 108 Stat. 3967.)
+(Pub. L. 89–329, title IV, §428C, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1388; amended Pub. L. 100–50, §10(s), June 3, 1987, 101 Stat. 345; Pub. L. 102–325, title IV, §419, July 23, 1992, 106 Stat. 532; Pub. L. 102–408, title III, §306(a), (b), Oct. 13, 1992, 106 Stat. 2084, 2086; Pub. L. 103–66, title IV, §§4046(a), (b)(2), 4106(a), Aug. 10, 1993, 107 Stat. 360, 363, 368; Pub. L. 103–208, §2(c)(33)–(37), Dec. 20, 1993, 107 Stat. 2466; Pub. L. 103–382, title III, §356, Oct. 20, 1994, 108 Stat. 3967; Pub. L. 104–208, div. A, title I, §101(e) \[title VI, §602(b)(1)(A)(ii)\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–283.)
 
 #### References in Text
 
@@ -250,13 +250,15 @@ This chapter, referred to in subsec. (d)(3)(C), was in the original “this Act�
 
 #### Codification
 
-Amendments by section 2(c)(33), (36) of Pub. L. 103–208 (which were effective as if included in Pub. L. 102–325) were executed to this section as amended by Pub. L.102–325 and Pub. L. 103–66, to reflect the probable intent of Congress.
+Amendments by section 2(c)(33), (36) of Pub. L. 103–208 (which were effective as if included in Pub. L. 102–325) were executed to this section as amended by Pub. L. 102–325 and Pub. L. 103–66, to reflect the probable intent of Congress.
 
 #### Prior Provisions
 
 A prior section 1078–3, Pub. L. 89–329, title IV, §428C, as added Pub. L. 99–272, title XVI, §16017(a), Apr. 7, 1986, 100 Stat. 343, related to consolidation loans, prior to the general revision of this part by Pub. L. 99–498.
 
 #### Amendments
+
+1996—Subsec. (a)(1)(A). Pub. L. 104–208 inserted “or the Holding Company of the Student Loan Marketing Association, including any subsidiary of the Holding Company, created pursuant to section 1087–3 of this title” after “Student Loan Marketing Association”.
 
 1994—Subsec. (a)(4)(D). Pub. L. 103–382 added subpar. (D).
 
@@ -292,7 +294,7 @@ Subsec. (c)(2)(A). Pub. L. 103–208, §2(c)(36), inserted period at end of cl. 
 
 Pub. L. 103–66, §4046(a)(3)(B)(i), in introductory provisions substituted “income-sensitive repayment schedules, established by the lender in accordance with the regulations of the Secretary. Except as required by such income-sensitive repayment schedules, or by the terms of repayment pursuant to income contingent repayment offered by the Secretary under subsection (b)(5) of this section, such repayment terms” for “income sensitive repayment schedules. Such repayment terms”, added cl. (i), and redesignated former cls. (i) to (v) as (ii) to (vi), respectively.
 
-Subsec. (c)(2)(B), (C). Pub. L. 103–66, §4046(a)(3)(B)(ii), (iii), redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows: “Unless a consolidation loan under subparagraph (A)(ii) will be used to discharge at least $5,000 of loans made under this part, such loan shall be repaid in accordance with subparagraph (A)(i).”
+Subsec. (c)(2)(B), (C). Pub. L. 103–66, §4046(a)(3)(B)(ii), (iii), redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows: “Unless a consolidation loan under subparagraph (A)(ii) will be usedto discharge at least $5,000 of loans made under this part, such loan shall be repaid in accordance with subparagraph (A)(i).”
 
 Subsec. (c)(3)(A). Pub. L. 103–208, §2(c)(37), inserted “be an amount” before “equal to”.
 
@@ -314,7 +316,7 @@ Subsec. (a)(4)(A). Pub. L. 102–325, §419(b)(2), amended subpar. (A) generally
 
 Subsec. (b)(4)(C). Pub. L. 102–325, §419(e), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “provides that periodic installments of principal need not be paid, but interest shall accrue and be paid, during any period for which the borrower would be eligible for a deferral under clause (i), (viii), or (ix) of section 1078(b)(1)(M) of this title, and that any such period shall not be included in determining the repayment period pursuant to subsection (c)(2) of this section;”.
 
-Subsec. (c)(2)(A). Pub. L. 102–325, §419(f), substituted “which shall include” for “which may include” in first sentence, inserted second sentence, and struck out former second sentence which read as follows: “Suchrepayment terms shall require that if the sum of the consolidation loan and the amount outstanding on other student loans to the individual—
+Subsec. (c)(2)(A). Pub. L. 102–325, §419(f), substituted “which shall include” for “which may include” in first sentence, inserted second sentence, and struck out former second sentence which read as follows: “Such repayment terms shall require that if the sum of the consolidation loan and the amount outstanding on other student loans to the individual—
 
 &emsp;“(i) is equal to or greater than $5,000 but less than $7,500, then such consolidation loan shall be repaid in not more than 10 years;
 
@@ -347,6 +349,10 @@ Subsec. (b)(1)(C). Pub. L. 100–50, §10(s)(5), in cl. (i), substituted “subs
 Subsec. (c)(2)(A)(v). Pub. L. 100–50, §10(s)(6), substituted “equal to or greater” for “more” the first time appearing, as the probable intent of Congress.
 
 Subsec. (c)(5). Pub. L. 100–50, §10(s)(7), inserted “, but a fee may be payable by the lender to the guaranty agency to cover the costs of increased or extended liability with respect to such loan” before period at end.
+
+#### Effective Date of 1996 Amendment
+
+Section 101(e) \[title VI, §602(b)(1)(B)\] of div. A of Pub. L. 104–208 provided that: “The amendments made by this paragraph \[amending this section and section 1085 of this title\] shall take effect on the reorganization effective date as defined in section 440(h) of the Higher Education Act of 1965 \[20 U.S.C. 1087–3(h)\] (as added by subsection (a)).”
 
 #### Effective Date of 1993 Amendments
 

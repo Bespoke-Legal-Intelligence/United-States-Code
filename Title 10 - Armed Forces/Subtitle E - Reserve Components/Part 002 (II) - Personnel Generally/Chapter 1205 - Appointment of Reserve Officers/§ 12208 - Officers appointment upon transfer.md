@@ -18,6 +18,10 @@ Historical and Revision Notes
 
 595(a)
 
+&nbsp;
+
+&nbsp;
+
 595(b)
 
 50:929(a) (less 2d sentence, less applicability to enlistments).

@@ -1,26 +1,22 @@
 ### §360b. New animal drugs
 
-#### (a) Unsafe new animal drugs and animal feed containing such drugs; conditions of safety; exemption of drugs for research
+#### (a) Unsafe new animal drugs and animal feed containing such drugs; conditions of safety; exemption of drugs for research; import tolerances
 
-(1) A new animal drug shall, with respect to any particular use or intended use of such drug, be deemed unsafe for the purposes of section 351(a)(5) and section 342(a)(2)(D) of this title unless—
+(1) A new animal drug shall, with respect to any particular use or intended use of such drug, be deemed unsafe for the purposes of section 351(a)(5) of this title and section 342(a)(2)(D) <sup>1</sup> of this title unless—
 
 &emsp;(A) there is in effect an approval of an application filed pursuant to subsection (b) of this section with respect to such use or intended use of such drug, and
 
 &emsp;(B) such drug, its labeling, and such use conform to such approved application.
 
-> A new animal drug shall also be deemed unsafe for such purposes in the event of removal from the establishment of a manufacturer, packer, or distributor of such drug for use in the manufacture of animal feed in any State unless at the time of such removal such manufacturer, packer, or distributor has an unrevoked written statement from the consignee of such drug, or notice from the Secretary, to the effect that, with respect to the use of such drug in animal feed, such consignee—
+> A new animal drug shall also be deemed unsafe for such purposes in the event of removal from the establishment of a manufacturer, packer, or distributor of such drug for use in the manufacture of animal feed in any State unless at the time of such removal such manufacturer, packer, or distributor has an unrevoked written statement from the consignee of such drug, or notice from the Secretary, to the effect that, with respect to the use of such drug in animal feed, such consignee (i) holds a license issued under subsection (m) of this section and has in its possession current approved labeling for such drug in animal feed; or (ii) will, if the consignee is not a user of the drug, ship such drug only to a holder of a license issued under subsection (m) of this section.
 
-&emsp;(i) is the holder of an approved application under subsection (m) of this section; or
+(2) An animal feed bearing or containing a new animal drug shall, with respect to any particular use or intended use of such animal feed be deemed unsafe for the purposes of section 351(a)(6) of this title unless—
 
-&emsp;(ii) will, if the consignee is not a user of the drug, ship such drug only to a holder of an approved application under subsection (m) of this section.
+&emsp;(A) there is in effect an approval of an application filed pursuant to subsection (b) of this section with respect to such drug, as used in such animal feed,
 
-(2) An animal feed bearing or containing a new animal drug shall, with respect to any particular use or intended use of such animal feed, be deemed unsafe for the purposes of section 351(a)(6) of this title unless—
+&emsp;(B) such animal feed is manufactured at a site for which there is in effect a license issued pursuant to subsection (m)(1) of this section to manufacture such animal feed, and
 
-&emsp;(A) there is in effect an approval of an application filed pursuant to subsection (b) of this section with respect to such drugs, as used in such animal feed,
-
-&emsp;(B) there is in effect an approval of an application pursuant to subsection (m)(1) of this section with respect to such animal feed, and
-
-&emsp;(C) such animal feed, its labeling, and such use conform to the conditions and indications of use published pursuant to subsection (i) of this section and to the application with respect thereto approved under subsection (m) of this section.
+&emsp;(C) such animal feed and its labeling, distribution, holding, and use conform to the conditions and indications of use published pursuant to subsection (i) of this section.
 
 (3) A new animal drug or an animal feed bearing or containing a new animal drug shall not be deemed unsafe for the purposes of section 351(a)(5) or (6) of this title if such article is for investigational use and conforms to the terms of an exemption in effect with respect thereto under subsection (j) of this section.
 
@@ -50,13 +46,17 @@
 
 &emsp;(B) is in compliance with regulations promulgated by the Secretary that establish the conditions for the use or intended use of the drug in animals.
 
-#### (b) Filing application for uses of new animal drug; contents; patent information; abbreviated application
+(6) For purposes of section 342(a)(2)(D) <sup>1</sup> of this title, a use or intended use of a new animal drug shall not be deemed unsafe under this section if the Secretary establishes a tolerance for such drug and any edible portion of any animal imported into the United States does not contain residues exceeding such tolerance. In establishing such tolerance, the Secretary shall rely on data sufficient to demonstrate that a proposed tolerance is safe based on similar food safety criteria used by the Secretary to establish tolerances for applications for new animal drugs filed under subsection (b)(1) of this section. The Secretary may consider and rely on data submitted by the drug manufacturer, including data submitted to appropriate regulatory authorities in any country where the new animal drug is lawfully used or data available from a relevant international organization, to the extent such data are not inconsistent with the criteria used by the Secretary to establish a tolerance for applications for new animal drugs filed under subsection (b)(1) of this section. For purposes of this paragraph, “relevant international organization” means the Codex Alimenterius Commission or other international organization deemed appropriate by the Secretary. The Secretary may, under procedures specified by regulation, revoke a tolerance established under this paragraph if information demonstrates that the use of the new animal drug under actual use conditions results in food being imported into the United States with residues exceeding the tolerance or if scientific evidence shows the tolerance to be unsafe.
+
+#### (b) Filing application for uses of new animal drug; contents; patent information; abbreviated application; presubmission conference
 
 (1) Any person may file with the Secretary an application with respect to any intended use or uses of a new animal drug. Such person shall submit to the Secretary as a part of the application (A) full reports of investigations which have been made to show whether or not such drug is safe and effective for use; (B) a full list of the articles used as components of such drug; (C) a full statement of the composition of such drug; (D) a full description of the methods used in, and the facilities and controls used for, the manufacture, processing, and packing of such drug; (E) such samples of such drug and of the articles used as components thereof, of any animal feed for use in or on which such drug is intended, and of the edible portions or products (before or after slaughter) of animals to which such drug (directly or in or on animal feed) is intended to be administered, as the Secretary may require; (F) specimens of the labeling proposed to be used for such drug, or in case such drug is intended for use in animal feed, proposed labeling appropriate for such use, and specimens of the labeling for the drug to be manufactured, packed, or distributed by the applicant; (G) a description of practicable methods for determining the quantity, if any, of such drug in or on food, and any substance formed in or on food, because of its use; and (H) the proposed tolerance or withdrawal period or other use restrictions for such drug if any tolerance or withdrawal period or other use restrictions are required in order to assure that the proposed use of such drug will be safe. The applicant shall file with the application the patent number and the expiration date of any patent which claims the new animal drug for which the applicant filed the application or which claims a method of using such drug and with respect to which a claim of patent infringement could reasonably be asserted if a person not licensed by the owner engaged in the manufacture, use, or sale of the drug. If an application is filed under this subsection for a drug and a patent which claims such drug or a method of using such drug is issued after the filing date but before approval of the application, the applicant shall amend the application to include the information required by the preceding sentence. Upon approval of the application, the Secretary shall publish information submitted under the two preceding sentences.
 
 (2) Any person may file with the Secretary an abbreviated application for the approval of a new animal drug. An abbreviated application shall contain the information required by subsection (n) of this section.
 
-#### (c) Period for approval of application; period for, notice, and expedition of hearing; period for issuance of order; abbreviated applications; withdrawal periods; effective date of approval; relationship to other applications; withdrawal or suspension of approval; bioequivalence; filing of additional patent information
+(3) Any person intending to file an application under paragraph (1) or a request for an investigational exemption under subsection (j) of this section shall be entitled to one or more conferences prior to such submission to reach an agreement acceptable to the Secretary establishing a submission or an investigational requirement, which may include a requirement for a field investigation. A decision establishing a submission or an investigational requirement shall bind the Secretary and the applicant or requestor unless (A) the Secretary and the applicant or requestor mutually agree to modify the requirement, or (B) the Secretary by written order determines that a substantiated scientific requirement essential to the determination of safety or effectiveness of the animal drug involved has appeared after the conference. No later than 25 calendar days after each such conference, the Secretary shall provide a written order setting forth a scientific justification specific to the animal drug and intended uses under consideration if the agreement referred to in the first sentence requires more than one field investigation as being essential to provide substantial evidence of effectiveness for the intended uses of the drug. Nothing in this paragraph shall be construed as compelling the Secretary to require a field investigation.
+
+#### (c) Period for submission and approval of application; period for notice and expedition of hearing; period for issuance of order; abbreviated applications; withdrawal periods; effective date of approval; relationship to other applications; withdrawal or suspension of approval; bioequivalence; filing of additional patent information
 
 (1) Within one hundred and eighty days after the filing of an application pursuant to subsection (b) of this section, or such additional period as may be agreed upon by the Secretary and the applicant, the Secretary shall either (A) issue an order approving the application if he then finds that none of the grounds for denying approval specified in subsection (d) of this section applies, or (B) give the applicant notice of an opportunity for a hearing before the Secretary under subsection (d) of this section on the question whether such application is approvable. If the applicant elects to accept the opportunity for a hearing by written request within thirty days after such notice, such hearing shall commence not more than ninety days after the expiration of such thirty days unless the Secretary and the applicant otherwise agree. Any such hearing shall thereafter be conducted on an expedited basis and the Secretary's order thereon shall be issued within ninety days after the date fixed by the Secretary for filing final briefs.
 
@@ -70,7 +70,7 @@
 
 &emsp;(iv)(I) if the application is for a drug whose active ingredients, route of administration, dosage form, strength, or use with other animal drugs in animal feed is the same as the active ingredients, route of administration, dosage form, strength, or use with other animal drugs in animal feed of the approved new animal drug referred to in the application, information submitted in the application is insufficient to show that the active ingredients, route of administration, dosage form, strength, or use with other animal drugs in animal feed is the same as that of the approved new animal drug, or
 
-&emsp;(II) if the application is for a drug whose active ingredients, route of administration, dosage form, strength, or use with other animaldrugs in animal feed is different from that of the approved new animal drug referred to in the application, no petition to file an application for the drug with the different active ingredients, route of administration, dosage form, strength, or use with other animal drugs in animal feed was approved under subsection (n)(3) of this section;
+&emsp;(II) if the application is for a drug whose active ingredients, route of administration, dosage form, strength, or use with other animal drugs in animal feed is different from that of the approved new animal drug referred to in the application, no petition to file an application for the drug with the different active ingredients, route of administration, dosage form, strength, or use with other animal drugs in animal feed was approved under subsection (n)(3) of this section;
 
 &emsp;(v) if the application was filed pursuant to the approval of a petition under subsection (n)(3) of this section, the application did not contain the information required by the Secretary respecting the active ingredients, route of administration, dosage form, strength, or use with other animal drugs in animal feed which is not the same;
 
@@ -102,7 +102,7 @@
 
 &emsp;&emsp;(II) the court decides that such patent has been infringed, the approval shall be made effective on such date as the court orders under section 271(e)(4)(A) of title 35, or
 
-&emsp;&emsp;(III) the court grants a preliminary injunction prohibiting the applicant from engaging in the commercial manufacture or sale ofthe drug until the court decides the issues of patent validity and infringement and if the court decides that such patent is invalid or not infringed, the approval shall be made effective on the date of such court decision.
+&emsp;&emsp;(III) the court grants a preliminary injunction prohibiting the applicant from engaging in the commercial manufacture or sale of the drug until the court decides the issues of patent validity and infringement and if the court decides that such patent is invalid or not infringed, the approval shall be made effective on the date of such court decision.
 
 > &emsp;In such an action, each of the parties shall reasonably cooperate in expediting the action. Until the expiration of 45 days from the date the notice made under subsection (n)(2)(B) of this section is received, no action may be brought under section 2201 of title 28 for a declaratory judgment with respect to the patent. Any action brought under section 2201 of title 28 shall be brought in the judicial district where the defendant has its principal place of business or a regular and established place of business.
 
@@ -110,7 +110,7 @@
 
 &emsp;&emsp;(I) the date the Secretary receives notice from the applicant under the previous application of the first commercial marketing of the drug under the previous application, or
 
-&emsp;&emsp;(II) the date of a decision of a court in an action described in subclause (III) <sup>1</sup> holding the patent which is the subject of the certification to be invalid or not infringed,
+&emsp;&emsp;(II) the date of a decision of a court in an action described in subclause (III) <sup>2</sup> holding the patent which is the subject of the certification to be invalid or not infringed,
 
 > &emsp;whichever is earlier.
 
@@ -118,13 +118,13 @@
 
 (F)(i) If an application submitted under subsection (b)(1) of this section for a drug, no active ingredient (including any ester or salt of the active ingredient) of which has been approved in any other application under subsection (b)(1) of this section, is approved after November 16, 1988, no application may be submitted under subsection (b)(2) of this section which refers to the drug for which the subsection (b)(1) application was submitted before the expiration of 5 years from the date of the approval of the application under subsection (b)(1) of this section, except that such an application may be submitted under subsection (b)(2) of this section after the expiration of 4 years from the date of the approval of the subsection (b)(1) application if it contains a certification of patent invalidity or noninfringement described in clause (iv) of subsection (n)(1)(G) of this section. The approval of such an application shall be made effective in accordance with subparagraph (B) except that, if an action for patent infringement is commenced during the one-year period beginning 48 months after the date of the approval of the subsection (b) application, the 30 month period referred to in subparagraph (D)(iii) shall be extended by such amount of time (if any) which is required for seven and one-half years to have elapsed from the date of approval of the subsection (b) application.
 
-(ii) If an application submitted under subsection (b)(1) of this section for a drug, which includes an active ingredient (including any ester or salt of the active ingredient) that has been approved in another application approved under such subsection, is approved after November 16, 1988, and if such application contains reports of new clinical or field investigations (other than bioequivalence or residue studies) and, in the case of food producing animals, human food safety studies (other than bioequivalence or residue studies) essential to the approval of the application and conducted or sponsored by the applicant, the Secretary may not make the approval of an application submitted under subsection (b)(2) of this section for the conditions of approval of such drug in the subsection (b)(1) application effective before the expiration of 3 years from the date of the approval of the application under subsection (b)(1) of this section for such drug.
+(ii) If an application submitted under subsection (b)(1) of this section for a drug, which includes an active ingredient (including any ester or salt of the active ingredient) that has been approved in another application approved under such subsection, is approved after November 16, 1988, and if such application contains substantial evidence of the effectiveness of the drug involved, any studies of animal safety, or, in the case of food producing animals, human food safety studies (other than bioequivalence or residue studies) required for the approval of the application and conducted or sponsored by the applicant, the Secretary may not make the approval of an application submitted under subsection (b)(2) of this section for the conditions of approval of such drug in the subsection (b)(1) application effective before the expiration of 3 years from the date of the approval of the application under subsection (b)(1) of this section for such drug.
 
-(iii) If a supplement to an application approved under subsection (b)(1) of this section is approved after November 16, 1988, and the supplement contains reports of new clinical or field investigations (other than bioequivalence or residue studies) and, in the case of food producing animals, human food safety studies (other than bioequivalence or residue studies) essential to the approval of the supplement and conducted or sponsored by the person submitting the supplement, the Secretary may not make the approval of an application submitted under subsection (b)(2) of this section for a change approved in the supplement effective before the expiration of 3 years from the date of the approval of the supplement.
+(iii) If a supplement to an application approved under subsection (b)(1) of this section is approved after November 16, 1988, and the supplement contains substantial evidence of the effectiveness of the drug involved, any studies of animal safety, or, in the case of food producing animals, human food safety studies (other than bioequivalence or residue studies) required for the approval of the supplement and conducted or sponsored by the person submitting the supplement, the Secretary may not make the approval of an application submitted under subsection (b)(2) of this section for a change approved in the supplement effective before the expiration of 3 years from the date of the approval of the supplement.
 
 (iv) An applicant under subsection (b)(1) of this section who comes within the provisions of clause (i) of this subparagraph as a result of an application which seeks approval for a use solely in non-food producing animals, may elect, within 10 days of receiving such approval, to waive clause (i) of this subparagraph, in which event the limitation on approval of applications submitted under subsection (b)(2) of this section set forth in clause (ii) of this subparagraph shall be applicable to the subsection (b)(1) application.
 
-(v) If an application (including any supplement to a new animal drug application) submitted under subsection (b)(1) of this section for a new animal drug for a food-producing animal use, which includes an active ingredient (including any ester or salt of the active ingredient) which has been the subject of a waiver under subparagraph (B)(iv) is approved after November 16, 1988, and if the application contains reports of clinical or field investigations or human food safety studies (other than bioequivalence or residue studies) essential to the new approval of the application and conducted or sponsored by the applicant, the Secretary may not make theapproval of an application (including any supplement to such application) submitted under subsection (b)(2) of this section for the new conditions of approval of such drug in the subsection (b)(1) application effective before the expiration of five years from the date of approval of the application under subsection (b)(1) of this section for such drug. The provisions of this paragraph shall apply only to the first approval for a food-producing animal use for the same applicant after the waiver under subparagraph (B)(iv).
+(v) If an application (including any supplement to a new animal drug application) submitted under subsection (b)(1) of this section for a new animal drug for a food-producing animal use, which includes an active ingredient (including any ester or salt of the active ingredient) which has been the subject of a waiver under clause (iv) is approved after November 16, 1988, and if the application contains substantial evidence of the effectiveness of the drug involved, any studies of animal safety, or human food safety studies (other than bioequivalence or residue studies) required for the new approval of the application and conducted or sponsored by the applicant, the Secretary may not make the approval of an application (including any supplement to such application) submitted under subsection (b)(2) of this section for the new conditions of approval of such drug in the subsection (b)(1) application effective before the expiration of five years from the date of approval of the application under subsection (b)(1) of this section for such drug. The provisions of this paragraph shall apply only to the first approval for a food-producing animal use for the same applicant after the waiver under clause (iv).
 
 (G) If an approved application submitted under subsection (b)(2) of this section for a new animal drug refers to a drug the approval of which was withdrawn or suspended for grounds described in paragraph (1) or (2) of subsection (e) of this section or was withdrawn or suspended under this subparagraph or which, as determined by the Secretary, has been withdrawn from sale for safety or effectiveness reasons, the approval of the drug under this paragraph shall be withdrawn or suspended—
 
@@ -144,11 +144,11 @@
 
 &emsp;&emsp;(III) in any case in which the Secretary determines that the measurement of the rate and extent of absorption or excretion of the new animal drug in biological fluids is inappropriate or impractical, an appropriate acute pharmacological effects test or other test of the new animal drug and, when deemed scientifically necessary, of the approved new animal drug referred to in the application in the species to be tested or in an appropriate animal model does not show a significant difference between the new animal drug and such approved new animal drug when administered at the same dose under similar experimental conditions.
 
-> &emsp;If the approved new animal drug referred to in the application for a new animal drug under subsection (n) of this section is approved for use in more than one animal species, the bioequivalency information described in subclauses (I), (II), and (III) shall be obtained for one species, or if the Secretary deems appropriate based on scientific principles, shall be obtained for more than one species. The Secretary may prescribe the dose to be used in determining bioequivalency under subclause (I), (II), or (III). To assure that the residues of the new animal drug will be consistent with the established tolerances for the approved new animal drug referred to in the application under subsection (b)(2) of this section upon the expiration of the withdrawal period contained in the application for the new animal drug, the Secretary shall require bioequivalency data or residue depletion studies of the new animal drug or such other data or studies as the Secretary considers appropriate based on scientific principles. If the Secretary requires one or more residue studies under the preceding sentence, the Secretary may not require that the assay methodology used to determine the withdrawal period of the new animal drug be more rigorous than the methodology used to determine the withdrawal period for the approved new animal drug referred to in the application. If such studies are required and if the approved new animal drug, referred to in the application for the new animal drug for which such studies are required, is approved for use in more than one animal species, such studies shall be conducted for one species, or if the Secretary deems appropriate based on scientific principles, shall be conducted for more than one species.
+> &emsp;If the approved new animal drug referred to in the application for a new animal drug under subsection (n) of this section is approved for use in more than one animal species, the bioequivalency information described in subclauses (I), (II), and (III) shall be obtained for one species, or if the Secretary deems appropriate based on scientific principles, shall be obtained for more than one species. The Secretary may prescribe the dose to be used in determining bioequivalency under subclause (I), (II), or (III). To assure that the residues of the new animal drug will be consistent with the established tolerances for the approved new animal drug referred to in the applicationunder subsection (b)(2) of this section upon the expiration of the withdrawal period contained in the application for the new animal drug, the Secretary shall require bioequivalency data or residue depletion studies of the new animal drug or such other data or studies as the Secretary considers appropriate based on scientific principles. If the Secretary requires one or more residue studies under the preceding sentence, the Secretary may not require that the assay methodology used to determine the withdrawal period of the new animal drug be more rigorous than the methodology used to determine the withdrawal period for the approved new animal drug referred to in the application. If such studies are required and if the approved new animal drug, referred to in the application for the new animal drug for which such studies are required, is approved for use in more than one animal species, such studies shall be conducted for one species, or if the Secretary deems appropriate based on scientific principles, shall be conducted for more than one species.
 
-(3) If the patent information described in subsection (b)(1) of this section could not be filed with the submission of an application under subsection (b)(1) of this section because the application was filed before the patent information was required under subsection (b)(1) of this section or a patent was issued after the application was approved under such subsection, the holder of an approved application shall file with the Secretary the patent number and the expiration date of any patent which claims the new animal drug for which the application was filed or which claims a method of using such drug and with respect to which a claim of patent infringement could reasonably be asserted if a person not licensed by the owner engaged in the manufacture, use, or sale of the drug. If the holder of an approved application could not file patent information under subsection (b)(1) of this section because it was not required at the time the application was approved, the holder shall filesuch information under this subsection not later than 30 days after November 16, 1988, and if the holder of an approved application could not file patent information under subsection (b)(1) of this section because no patent had been issued when an application was filed or approved, the holder shall file such information under this subsection not later than 30 days after the date the patent involved is issued. Upon the submission of patent information under this subsection, the Secretary shall publish it.
+(3) If the patent information described in subsection (b)(1) of this section could not be filed with the submission of an application under subsection (b)(1) of this section because the application was filed before the patent information was required under subsection (b)(1) of this section or a patent was issued after the application was approved under such subsection, the holder of an approved application shall file with the Secretary the patent number and the expiration date of any patent which claims the new animal drug for which the application was filed or which claims a method of using such drug and with respect to which a claim of patent infringement could reasonably be asserted if a person not licensed by the owner engaged in the manufacture, use, or sale of the drug. If the holder of an approved application could not file patent information under subsection (b)(1) of this section because it was not required at the time the application was approved, the holder shall file such information under this subsection not later than 30 days after November 16, 1988, and if the holder of an approved application could not file patent information under subsection (b)(1) of this section because no patent had been issued when an application was filed or approved, the holder shall file such information under this subsection not later than 30 days after the date the patent involved is issued. Upon the submission of patent information under this subsection, the Secretary shall publish it.
 
-#### (d) Grounds for refusing application; approval of application; factors; “substantial evidence” defined
+#### (d) Grounds for refusing application; approval of application; factors; “substantial evidence” defined; combination drugs
 
 (1) If the Secretary finds, after due notice to the applicant in accordance with subsection (c) of this section and giving him an opportunity for a hearing, in accordance with said subsection, that—
 
@@ -162,7 +162,7 @@
 
 &emsp;(E) evaluated on the basis of the information submitted to him as part of the application and any other information before him with respect to such drug, there is a lack of substantial evidence that the drug will have the effect it purports or is represented to have under the conditions of use prescribed, recommended, or suggested in the proposed labeling thereof;
 
-&emsp;(F) upon the basis of the information submitted to him as part of the application or any other information before him with respect to such drug, the tolerance limitation proposed, if any, exceeds that reasonably required to accomplish the physical or other technical effect for which the drug is intended;
+&emsp;(F) upon the basis of information submitted to the Secretary as part of the application or any other information before the Secretary with respect to such drug, any use prescribed, recommended, or suggested in labeling proposed for such drug will result in a residue of such drug in excess of a tolerance found by the Secretary to be safe for such drug;
 
 &emsp;(G) the application failed to contain the patent information prescribed by subsection (b)(1) of this section;
 
@@ -174,7 +174,53 @@
 
 (2) In determining whether such drug is safe for use under the conditions prescribed, recommended, or suggested in the proposed labeling thereof, the Secretary shall consider, among other relevant factors, (A) the probable consumption of such drug and of any substance formed in or on food because of the use of such drug, (B) the cumulative effect on man or animal of such drug, taking into account any chemically or pharmacologically related substance, (C) safety factors which in the opinion of experts, qualified by scientific training and experience to evaluate the safety of such drugs, are appropriate for the use of animal experimentation data, and (D) whether the conditions of use prescribed, recommended, or suggested in the proposed labeling are reasonably certain to be followed in practice. Any order issued under this subsection refusing to approve an application shall state the findings upon which it is based.
 
-(3) As used in this subsection and subsection (e) of this section, the term “substantial evidence” means evidence consisting of adequate and well-controlled investigations, including field investigation, by experts qualified by scientific training and experience to evaluate the effectiveness of the drug involved, on the basis of which it could fairly and reasonably be concluded by such experts that the drug will have the effect it purports or is represented to have under the conditions of use prescribed, recommended, or suggested in the labeling or proposed labeling thereof.
+(3) As used in this section, the term “substantial evidence” means evidence consisting of one or more adequate and well controlled investigations, such as—
+
+&emsp;(A) a study in a target species;
+
+&emsp;(B) a study in laboratory animals;
+
+&emsp;(C) any field investigation that may be required under this section and that meets the requirements of subsection (b)(3) of this section if a presubmission conference is requested by the applicant;
+
+&emsp;(D) a bioequivalence study; or
+
+&emsp;(E) an in vitro study;
+
+> by experts qualified by scientific training and experience to evaluate the effectiveness of the drug involved, on the basis of which it could fairly and reasonably be concluded by such experts that the drug will have the effect it purports or is represented to have under the conditions of use prescribed, recommended, or suggested in the labeling or proposed labeling thereof.
+
+(4) In a case in which an animal drug contains more than one active ingredient, or the labeling of the drug prescribes, recommends, or suggests use of the drug in combination with one or more other animal drugs, and the active ingredients or drugs intended for use in the combination have previously been separately approved for particular uses and conditions of use for which they are intended for use in the combination—
+
+&emsp;(A) the Secretary shall not issue an order under paragraph (1)(A), (1)(B), or (1)(D) refusing to approve the application for such combination on human food safety grounds unless the Secretary finds that the application fails to establish that—
+
+&emsp;&emsp;(i) none of the active ingredients or drugs intended for use in the combination, respectively, at the longest withdrawal time of any of the active ingredients or drugs in the combination, respectively, exceeds its established tolerance; or
+
+&emsp;&emsp;(ii) none of the active ingredients or drugs in the combination interferes with the methods of analysis for another of the active ingredients or drugs in the combination, respectively;
+
+&emsp;(B) the Secretary shall not issue an order under paragraph (1)(A), (1)(B), or (1)(D) refusing to approve the application for such combination on target animal safety grounds unless the Secretary finds that—
+
+&emsp;&emsp;(i)(I) there is a substantiated scientific issue, specific to one or more of the active ingredients or animal drugs in the combination, that cannot adequately be evaluated based on information contained in the application for the combination (including any investigations, studies, or tests for which the applicant has a right of reference or use from the person by or for whom the investigations, studies, or tests were conducted); or
+
+&emsp;&emsp;(II) there is a scientific issue raised by target animal observations contained in studies submitted to the Secretary as part of the application; and
+
+&emsp;&emsp;(ii) based on the Secretary's evaluation of the information contained in the application with respect to the issues identified in clauses (i)(I) and (II), paragraph (1)(A), (B), or (D) apply;
+
+&emsp;(C) except in the case of a combination that contains a nontopical antibacterial ingredient or animal drug, the Secretary shall not issue an order under paragraph (1)(E) refusing to approve an application for a combination animal drug intended for use other than in animal feed or drinking water unless the Secretary finds that the application fails to demonstrate that—
+
+&emsp;&emsp;(i) there is substantial evidence that any active ingredient or animal drug intended only for the same use as another active ingredient or animal drug in the combination makes a contribution to labeled effectiveness;
+
+&emsp;&emsp;(ii) each active ingredient or animal drug intended for at least one use that is different from all other active ingredients or animal drugs used in the combination provides appropriate concurrent use for the intended target population; or
+
+&emsp;&emsp;(iii) where based on scientific information the Secretary has reason to believe the active ingredients or animal drugs may be physically incompatible or have disparate dosing regimens, such active ingredients or animal drugs are physically compatible or do not have disparate dosing regimens; and
+
+&emsp;(D) the Secretary shall not issue an order under paragraph (1)(E) refusing to approve an application for a combination animal drug intended for use in animal feed or drinking water unless the Secretary finds that the application fails to demonstrate that—
+
+&emsp;&emsp;(i) there is substantial evidence that any active ingredient or animal drug intended only for the same use as another active ingredient or animal drug in the combination makes a contribution to the labeled effectiveness;
+
+&emsp;&emsp;(ii) each of the active ingredients or animal drugs intended for at least one use that is different from all other active ingredients or animal drugs used in the combination provides appropriate concurrent use for the intended target population;
+
+&emsp;&emsp;(iii) where a combination contains more than one nontopical antibacterial ingredient or animal drug, there is substantial evidence that each of the nontopical antibacterial ingredients or animal drugs makes a contribution to the labeled effectiveness; or
+
+&emsp;&emsp;(iv) where based on scientific information the Secretary has reason to believe the active ingredients or animal drugs intended for use in drinking water may be physically incompatible, such active ingredients or animal drugs intended for use in drinking water are physically compatible.
 
 #### (e) Withdrawal of approval; grounds; immediate suspension upon finding imminent hazard to health of man or animals
 
@@ -182,7 +228,7 @@
 
 &emsp;(A) that experience or scientific data show that such drug is unsafe for use under the conditions of use upon the basis of which the application was approved or the condition of use authorized under subsection (a)(4)(A) of this section;
 
-&emsp;(B) that new evidence not contained in such application or not available to the Secretary until after such application was approved, or tests by new methods, or tests by methods notdeemed reasonably applicable when such application was approved, evaluated together with the evidence available to the Secretary when the application was approved, shows that such drug is not shown to be safe for use under the conditions of use upon the basis of which the application was approved or that subparagraph (I) of paragraph (1) of subsection (d) of this section applies to such drug;
+&emsp;(B) that new evidence not contained in such application or not available to the Secretary until after such application was approved, or tests by new methods, or tests by methods not deemed reasonably applicable when such application was approved, evaluated together with the evidence available to the Secretary when the application was approved, shows that such drug is not shown to be safe for use under the conditions of use upon the basis of which the application was approved or that subparagraph (I) of paragraph (1) of subsection (d) of this section applies to such drug;
 
 &emsp;(C) on the basis of new information before him with respect to such drug, evaluated together with the evidence available to him when the application was approved, that there is a lack of substantial evidence that such drug will have the effect it purports or is represented to have under the conditions of use prescribed, recommended, or suggested in the labeling thereof;
 
@@ -218,7 +264,7 @@ An appeal may be taken by the applicant from an order of the Secretary refusing 
 
 #### (i) Publication in Federal Register; effective date and revocation or suspension of regulation
 
-When a new animal drug application filed pursuant to subsection (b) of this section is approved, the Secretary shall by notice, which upon publication shall be effective as a regulation, publish in the Federal Register the name and address of the applicant and the conditions and indications of use of the new animal drug covered by such application, including any tolerance and withdrawal period or other use restrictions and, if such new animal drug is intended for use in animal feed, appropriate purposes and conditions of use (including special labeling requirements) applicable to any animal feed for use in which such drug is approved, and such other information, upon the basis of which such application was approved, as the Secretary deems necessary to assure the safe and effective use of such drug. Upon withdrawal of approval of such new animal drug application or upon its suspension, the Secretary shall forthwith revoke or suspend, as the case may be, the regulation published pursuant to this subsection (i) insofar as it is based on the approval of such application.
+When a new animal drug application filed pursuant to subsection (b) of this section is approved, the Secretary shall by notice, which upon publication shall be effective as a regulation, publish in the Federal Register the name and address of the applicant and the conditions and indications of use of the new animal drug covered by such application, including any tolerance and withdrawal period or other use restrictions and, if such new animal drug is intended for use in animal feed, appropriate purposes and conditions of use (including special labeling requirements and any requirement that an animal feed bearing or containing the new animal drug be limited to use under the professional supervision of a licensed veterinarian) applicable to any animal feed for use in which such drug is approved, and such other information, upon the basis of which such application was approved, as the Secretary deems necessary to assure the safe and effective use of such drug. Upon withdrawal of approval of such new animal drug application or upon its suspension, the Secretary shall forthwith revoke or suspend, as the case may be, the regulation published pursuant to this subsection (i) insofar as it is based on the approval of such application.
 
 #### (j) Exemption of drugs for research; discretionary and mandatory conditions
 
@@ -234,55 +280,51 @@ While approval of an application for a new animal drug is effective, a food shal
 
 (2) Every person required under this subsection to maintain records, and every person in charge or custody thereof, shall, upon request of an officer or employee designated by the Secretary, permit such officer or employee at all reasonable times to have access to and copy and verify such records.
 
-#### (m)(1) Filing application for uses of animal feed containing new animal drug; contents
+#### (m) Feed mill licenses
 
-Any person may file with the Secretary an application with respect to any intended use or uses of an animal feed bearing or containing a new animal drug. Such person shall submit to the Secretary as part of the application (A) a full statement of the composition of such animal feed, (B) an identification of the regulation or regulations (relating to the new animal drug or drugs to be used in such feed), published pursuant to subsection (i) of this section, on which he relies as a basis for approval of his application with respect to the use of such drug in such feed, (C) a full description of the methods used in, and the facilities and controls used for, the manufacture, processing, and packing of such animal feed, (D) specimens of the labeling proposed to be used for such animal feed, and (E) if so requested by the Secretary, samples of such animal feed or components thereof.
+(1) Any person may file with the Secretary an application for a license to manufacture animal feeds bearing or containing new animal drugs. Such person shall submit to the Secretary as part of the application (A) a full statement of the business name and address of the specific facility at which the manufacturing is to take place and the facility's registration number, (B) the name and signature of the responsible individual or individuals for that facility, (C) a certification that the animal feeds bearing or containing new animal drugs are manufactured and labeled in accordance with the applicable regulations published pursuant to subsection (i) of this section, and (D) a certification that the methods used in, and the facilities and controls used for, manufacturing, processing, packaging, and holding such animal feeds are in conformity with current good manufacturing practice as described in section 351(a)(2)(B) of this title.
 
-#### (2) Period for approval of application; period for, notice, and expedition of hearing; period for issuance of order
+(2) Within 90 days after the filing of an application pursuant to paragraph (1), or such additional period as may be agreed upon by the Secretary and the applicant, the Secretary shall (A) issue an order approving the application if the Secretary then finds that none of the grounds for denying approval specified in paragraph (3) applies, or (B) give the applicant notice of an opportunity for a hearing before the Secretary under paragraph (3) on the question whether such application is approvable. The procedure governing such a hearing shall be the procedure set forth in the last two sentences of subsection (c)(1) of this section.
 
-Within ninety days after the filing of an application pursuant to paragraph (1) of this subsection, or such additional period as may be agreed upon by the Secretary and the applicant, the Secretary shall either (A) issue an order approving the application if he then finds that none of the grounds for denying approval specified in paragraph (3) applies, or (B) give the applicant notice of an opportunity for a hearing before the Secretary under paragraph (3) on the question whether such application is approvable. The procedure governing such a hearing shall be the procedure set forth in the last two sentences of subsection (c) of this section.
+(3) If the Secretary, after due notice to the applicant in accordance with paragraph (2) and giving the applicant an opportunity for a hearing in accordance with such paragraph, finds, on the basis of information submitted to the Secretary as part of the application, on the basis ofa preapproval inspection, or on the basis of any other information before the Secretary—
 
-#### (3) Grounds for refusing application; approval of application; approval effective during existence of subsection (i) regulation
+&emsp;(A) that the application is incomplete, false, or misleading in any particular;
 
-If the Secretary, after due notice to the applicant in accordance with paragraph (2) and giving him an opportunity for a hearing in accordance with such paragraph, finds, on the basis of information submitted to him as part of the application or on the basis of any other information before him—
+&emsp;(B) that the methods used in, and the facilities and controls used for, the manufacture, processing, and packing of such animal feed are inadequate to preserve the identity, strength, quality, and purity of the new animal drug therein; or
 
-&emsp;(A) that there is not in effect a regulation under subsection (i) of this section (identified in such application) on the basis of which such application may be approved;
+&emsp;(C) that the facility manufactures animal feeds bearing or containing new animal drugs in a manner that does not accord with the specifications for manufacture or labels animal feeds bearing or containing new animal drugs in a manner that does not accord with the conditions or indications of use that are published pursuant to subsection (i) of this section,
 
-&emsp;(B) that such animal feed (including the proposed use of any new animal drug therein or thereon) does not conform to an applicable regulation published pursuant to subsection (i) of this section referred to in the application, or that the purposes and conditions or indications of use prescribed, recommended, or suggested in the labeling of such feed do not conform to the applicable purposes and conditions or indications of use (including warnings) published pursuant to subsection (i) of this section or such labeling omits or fails to conform to other applicable information published pursuant to subsection (i) of this section;
+> the Secretary shall issue an order refusing to approve the application. If, after such notice and opportunity for hearing, the Secretary finds that subparagraphs (A) through (C) do not apply, the Secretary shall issue an order approving the application. An order under this subsection approving an application for a license to manufacture animal feeds bearing or containing new animal drugs shall permit a facility to manufacture only those animal feeds bearing or containing new animal drugs for which there are in effect regulations pursuant to subsection (i) of this section relating to the use of such drugs in or on such animal feed.
 
-&emsp;(C) that the methods used in, and the facilities and controls used for, the manufacture,processing, and packing of such animal feed are inadequate to preserve the identity, strength, quality, and purity of the new animal drug therein; or
+(4)(A) The Secretary shall, after due notice and opportunity for hearing to the applicant, revoke a license to manufacture animal feeds bearing or containing new animal drugs under this subsection if the Secretary finds—
 
-&emsp;(D) that, based on a fair evaluation of all material facts, such labeling is false or misleading in any particular;
+&emsp;(i) that the application for such license contains any untrue statement of a material fact; or
 
-> he shall issue an order refusing to approve the application. If, after such notice and opportunity for hearing, the Secretary finds that subparagraphs (A) through (D) do not apply, he shall issue an order approving the application. An order under this subsection approving an application with respect to an animal feed bearing or containing a new animal drug shall be effective only while there is in effect a regulation pursuant to subsection (i) of this section, on the basis of which such application (or a supplement thereto) was approved, relating to the use of such drug in or on such feed.
+&emsp;(ii) that the applicant has made changes that would cause the application to contain any untrue statements of material fact or that would affect the safety or effectiveness of the animal feeds manufactured at the facility unless the applicant has supplemented the application by filing with the Secretary adequate information respecting all such changes and unless there is in effect an approval of the supplemental application.
 
-#### (4) Withdrawal of approval; grounds; immediate suspension upon finding imminent hazard to health of man or animals
+> If the Secretary (or in the Secretary's absence the officer acting as the Secretary) finds that there is an imminent hazard to the health of humans or of the animals for which such animal feed is intended, the Secretary may suspend the license immediately, and give the applicant prompt notice of the action and afford the applicant the opportunity for an expedited hearing under this subsection; but the authority conferred by this sentence shall not be delegated.
 
-(A) The Secretary shall, after due notice and opportunity for hearing to the applicant, issue an order withdrawing approval of an application with respect to any animal feed under this subsection if the Secretary finds—
+(B) The Secretary may also, after due notice and opportunity for hearing to the applicant, revoke a license to manufacture animal feed under this subsection if the Secretary finds—
 
-&emsp;(i) that the application contains any untrue statement of a material fact; or
+&emsp;(i) that the applicant has failed to establish a system for maintaining required records, or has repeatedly or deliberately failed to maintain such records or to make required reports in accordance with a regulation or order under paragraph (5)(A) of this subsection or section 354(a)(3)(A) of this title, or the applicant has refused to permit access to, or copying or verification of, such records as required by subparagraph (B) of such paragraph or section 354(a)(3)(B) of this title;
 
-&emsp;(ii) that the applicant has made any changes from the standpoint of safety or effectiveness beyond the variations provided for in the application unless he has supplemented the application by filing with the Secretary adequate information respecting all such changes and unless there is in effect an approval of the supplemental application. The supplemental application shall be treated in the same manner as the original application.
+&emsp;(ii) that on the basis of new information before the Secretary, evaluated together with the evidence before the Secretary when such license was issued, the methods used in, or the facilities and controls used for, the manufacture, processing, packing, and holding of such animal feed are inadequate to assure and preserve the identity, strength, quality, and purity of the new animal drug therein, and were not made adequate within a reasonable time after receipt of written notice from the Secretary, specifying the matter complained of;
 
-> If the Secretary (or in his absence the officer acting as Secretary) finds that there is an imminent hazard to the health of man or of the animals for which such animal feed is intended, he may suspend the approval of such application immediately, and give the applicant prompt notice of his action and afford the applicant the opportunity for an expedited hearing under this subsection; but the authority conferred by this sentence shall not be delegated.
+&emsp;(iii) that on the basis of new information before the Secretary, evaluated together with the evidence before the Secretary when such license was issued, the labeling of any animal feeds, based on a fair evaluation of all material facts, is false or misleading in any particular and was not corrected within a reasonable time after receipt of written notice from the Secretary specifying the matter complained of; or
 
-(B) The Secretary may also, after due notice and opportunity for hearing to the applicant, issue an order withdrawing the approval of an application with respect to any animal feed under this subsection if the Secretary finds—
+&emsp;(iv) that on the basis of new information before the Secretary, evaluated together with the evidence before the Secretary when such license was issued, the facility has manufactured, processed, packed, or held animal feed bearing or containing a new animal drug adulterated under section 351(a)(6) of this title and the facility did not discontinue the manufacture, processing, packing, or holding of such animal feed within a reasonable time after receipt of written notice from the Secretary specifying the matter complained of.
 
-&emsp;(i) that the applicant has failed to establish a system for maintaining required records, or has repeatedly or deliberately failed to maintain such records or to make required reports in accordance with a regulation or order under paragraph (5)(A) of this subsection, or the applicant has refused to permit access to, or copying or verification of, such records as required by subparagraph (B) of such paragraph;
+(C) The Secretary may also revoke a license to manufacture animal feeds under this subsection if an applicant gives notice to the Secretary of intention to discontinue the manufacture of all animal feed covered under this subsection and waives an opportunity for a hearing on the matter.
 
-&emsp;(ii) that on the basis of new information before him, evaluated together with the evidence before him when such application was approved, the methods used in, or the facilities and controls used for, the manufacture, processing, and packing of such animal feed are inadequate to assure and preserve the identity, strength, quality, and purity of the new animal drug therein, and were not made adequate within a reasonable time after receipt of written notice from the Secretary, specifying the matter complained of; or
+(D) Any order under this paragraph shall state the findings upon which it is based.
 
-&emsp;(iii) that on the basis of new information before him, evaluated together with the evidence before him when the application was approved, the labeling of such animal feed, based on a fair evaluation of all material facts, is false or misleading in any particular and was not corrected within a reasonable time after receipt of written notice from the Secretary specifying the matter complained of.
+(5) When a license to manufacture animal feeds bearing or containing new animal drugs has been issued—
 
-(C) Any order under paragraph (4) of this subsection shall state the findings upon which it is based.
+&emsp;(A) the applicant shall establish and maintain such records, and make such reports to the Secretary, or (at the option of the Secretary) to the appropriate person or persons holding an approved application filed under subsection (b) of this section, as the Secretary may by general regulation, or by order with respect to such application, prescribe on the basis of a finding that such records and reports are necessary in order to enable the Secretary to determine, or facilitate a determination, whether there is or may be ground for invoking subsection (e) of this section or paragraph (4); and
 
-#### (5) Records and reports; regulations and orders; access to records
+&emsp;(B) every person required under this subsection to maintain records, and every person in charge or custody thereof, shall, upon request of an officer or employee designated by the Secretary, permit such officer or employeeat all reasonable times to have access to and copy and verify such records.
 
-In the case of an animal feed for which an approval of an application filed pursuant to this subsection is in effect—
-
-&emsp;(A) the applicant shall establish and maintain such records, and make such reports to the Secretary, or (at the option of the Secretary) to the appropriate person or persons holding an approved application filed under subsection (b) of this section, as the Secretary may by general regulation, or by order with respect to such application, prescribe on the basis of a finding that such records and reports are necessary in order to enable the Secretary to determine, or facilitate a determination, whether there is or may be ground for invoking subsection (e) of this section or paragraph (4) of this subsection.
-
-&emsp;(B) every person required under this subsection to maintain records, and every person in charge or custody thereof, shall, upon request of an officer or employee designated by the Secretary, permit such officer or employee at all reasonable times to have access to and copy and verify such records.
+(6) To the extent consistent with the public health, the Secretary may promulgate regulations for exempting from the operation of this subsection facilities that manufacture, process, pack, or hold animal feeds bearing or containing new animal drugs.
 
 #### (n) Abbreviated applications for new animal drugs; contents, filing, etc.; lists of approved drugs
 
@@ -290,7 +332,7 @@ In the case of an animal feed for which an approval of an application filed purs
 
 &emsp;(A)(i) except as provided in clause (ii), information to show that the conditions of use or similar limitations (whether in the labeling or published pursuant to subsection (i) of this section) prescribed, recommended, or suggested in the labeling proposed for the new animal drug have been previously approved for a new animal drug listed under paragraph (4) (hereinafter in this subsection referred to as an “approved new animal drug”), and
 
-&emsp;(ii) information to show that the withdrawal period at which residues of the new animal drug will be consistent with the tolerances established for the approved new animal drug is the same as the withdrawal period previously established for the approved new animal drug or, if the withdrawal period is proposed to be different, information showing that the residues of the new animal drug at the proposeddifferent withdrawal period will be consistent with the tolerances established for the approved new animal drug;
+&emsp;(ii) information to show that the withdrawal period at which residues of the new animal drug will be consistent with the tolerances established for the approved new animal drug is the same as the withdrawal period previously established for the approved new animal drug or, if the withdrawal period is proposed to be different, information showing that the residues of the new animal drug at the proposed different withdrawal period will be consistent with the tolerances established for the approved new animal drug;
 
 &emsp;(B)(i) information to show that the active ingredients of the new animal drug are the same as those of the approved new animal drug, and
 
@@ -338,7 +380,7 @@ In the case of an animal feed for which an approval of an application filed purs
 
 &emsp;(i) each owner of the patent which is the subject of the certification or the representative of such owner designated to receive such notice, and
 
-&emsp;(ii) the holder of the approved application under subsection (c)(1) of this section for thedrug which is claimed by the patent or a use of which is claimed by the patent or the representative of such holder designated to receive such notice.
+&emsp;(ii) the holder of the approved application under subsection (c)(1) of this section for the drug which is claimed by the patent or a use of which is claimed by the patent or the representative of such holder designated to receive such notice.
 
 (B) The notice referred to in subparagraph (A) shall state that an application, which contains data from bioequivalence studies, has been filed under this subsection for the drug with respect to which the certification is made to obtain approval to engage in the commercial manufacture, use, or sale of such drug before the expiration of the patent referred to in the certification. Such notice shall include a detailed statement of the factual and legal basis of the applicant's opinion that the patent is not valid or will not be infringed.
 
@@ -398,7 +440,7 @@ For purposes of this section, the term “patent” means a patent issued by the
 
 &emsp;(D) if the Secretary has determined that such drug is not a new drug, or
 
-&emsp;(E) upon the effective date of the approval of the first application filed under subsection\(b)(2) of this section which refers to such drug or upon the date upon which the approval of an application filed under subsection (b)(2) of this section which refers to such drug could be made effective if such an application had been filed.
+&emsp;(E) upon the effective date of the approval of the first application filed under subsection (b)(2) of this section which refers to such drug or upon the date upon which the approval of an application filed under subsection (b)(2) of this section which refers to such drug could be made effective if such an application had been filed.
 
 (2) Any request for data and information pursuant to paragraph (1) shall include a verified statement by the person making the request that any data or information received under such paragraph shall not be disclosed by such person to any other person—
 
@@ -406,9 +448,51 @@ For purposes of this section, the term “patent” means a patent issued by the
 
 &emsp;(B) without obtaining from any person to whom the data and information are disclosed an identical verified statement, a copy of which is to be provided by such person to the Secretary, which meets the requirements of this paragraph.
 
-(June 25, 1938, ch. 675, §512, as added July 13, 1968, Pub. L. 90–399, §101(b), 82 Stat. 343; amended Nov. 16, 1988, Pub. L. 100–670, title I, §§101, 102, 104, 107(a)(2), 102 Stat. 3971, 3981, 3982, 3984; Aug. 17, 1991, Pub. L. 102–108, §2(e), 105 Stat. 550; Aug. 13, 1993, Pub. L. 103–80, §3(r), 107 Stat. 777; Oct. 22, 1994, Pub. L. 103–396, §2(a), (b)(2), (3), 108 Stat. 4153, 4154.)
+(June 25, 1938, ch. 675, §512, as added July 13, 1968, Pub. L. 90–399, §101(b), 82 Stat. 343; amended Nov. 16, 1988, Pub. L. 100–670, title I, §§101, 102, 104, 107(a)(2), 102 Stat. 3971, 3981, 3982, 3984; Aug. 17, 1991, Pub. L. 102–108, §2(e), 105 Stat. 550; Aug. 13, 1993, Pub. L. 103–80, §3(r), 107 Stat. 777; Oct. 22, 1994, Pub. L. 103–396, §2(a), (b)(2), (3), 108 Stat. 4153, 4154; Oct. 9, 1996, Pub. L. 104–250, §§2(a)–(d), 3–5(c), 6(a), (b), 110 Stat. 3151–3153, 3155–3157.)
+
+#### References in Text
+
+Section 342(a)(2) of this title, referred to in subsec. (a)(1), (6), was amended by Pub. L. 104–170, title IV, §404, Aug. 3, 1996, 110 Stat. 1514, and, as so amended, no longer contains a subcl. (D). See section 342(a)(2)(C)(ii) of this title.
 
 #### Amendments
+
+1996—Subsec. (a)(1). Pub. L. 104–250, §6(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “A new animal drug shall, with respect to any particular use or intended use of such drug, be deemed unsafe for the purposes of section 351(a)(5) and section 342(a)(2)(D) of this title unless—
+
+&emsp;“(A) there is in effect an approval of an application filed pursuant to subsection (b) of this section with respect to such use or intended use of such drug, and
+
+&emsp;“(B) such drug, its labeling, and such use conform to such approved application.
+
+> A new animal drug shall also be deemed unsafe for such purposes in the event of removal from the establishment of a manufacturer, packer, or distributor of such drug for use in the manufacture of animal feed in any State unless at the time of such removal such manufacturer, packer, or distributor has an unrevoked written statement from the consignee of such drug, or notice from the Secretary, to the effect that, with respect to the use of such drug in animal feed, such consignee—
+
+&emsp;“(i) is the holder of an approved application under subsection (m) of this section; or
+
+&emsp;“(ii) will, if the consignee is not a user of the drug, ship such drug only to a holder of an approved application under subsection (m) of this section.”
+
+Subsec. (a)(2). Pub. L. 104–250, §6(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “An animal feed bearing or containing a new animal drug shall, with respect to any particular use or intended use of such animal feed, be deemed unsafe for the purposes of section 351(a)(6) of this title unless—
+
+&emsp;“(A) there is in effect an approval of an application filed pursuant to subsection (b) of this section with respect to such drugs, as used in such animal feed,
+
+&emsp;“(B) there is in effect an approval of an application pursuant to subsection (m)(1) of this section with respect to such animal feed, and
+
+&emsp;“(C) such animal feed, its labeling, and such use conform to the conditions and indications of use published pursuant to subsection (i) of this section and to the application with respect thereto approved under subsection (m) of this section.”
+
+Subsec. (a)(6). Pub. L. 104–250, §4, added par. (6).
+
+Subsec. (b)(3). Pub. L. 104–250, §2(d), added par. (3).
+
+Subsec. (c)(2)(F)(ii), (iii). Pub. L. 104–250, §2(b)(1), substituted “substantial evidence of the effectiveness of the drug involved, any studies of animal safety, or,” for “reports of new clinical or field investigations (other than bioequivalence or residue studies) and,” and “required for the approval” for “essential to the approval”.
+
+Subsec. (c)(2)(F)(v). Pub. L. 104–250, §2(b)(2), substituted “clause (iv)” for “subparagraph (B)(iv)” in two places, “substantial evidence of the effectiveness of the drug involved, any studies of animal safety,” for “reports of clinical or field investigations” and “required for the new approval” for “essential to the new approval”.
+
+Subsec. (d)(1)(F). Pub. L. 104–250, §3, amended subpar. (F) generally. Prior to amendment, subpar. (F) read as follows: “upon the basis of the information submitted to him as part of the application or any other information before him with respect to such drug, the tolerance limitation proposed, if any, exceeds that reasonably required to accomplish the physical or other technical effect for which the drug is intended;”.
+
+Subsec. (d)(3). Pub. L. 104–250, §2(a), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “As used in this subsection and subsection (e) of this section, the term ‘substantial evidence’ means evidence consisting of adequate and well-controlled investigations, including field investigation, by experts qualified by scientific training and experience to evaluate the effectiveness of the drug involved, on the basis of which it could fairly and reasonably be concluded by such experts that the drug will have the effect it purports or is represented to have under the conditions of use prescribed, recommended, or suggested in the labeling or proposed labeling thereof.”
+
+Subsec. (d)(4). Pub. L. 104–250, §2(c), added par. (4).
+
+Subsec. (i). Pub. L. 104–250, §5(c), inserted “and any requirement that an animal feed bearing or containing the new animal drug be limited to use under the professional supervision of a licensed veterinarian” after “(including special labeling requirements”.
+
+Subsec. (m). Pub. L. 104–250, §6(b), amended subsec. (m) generally, substituting provisions relating to application for feed mill licenses, including approval, refusal, revocation, and suspension of such licenses, and provisions for record and reporting requirements for, as well as exemption from, such licenses, for provisions relating to application for uses of animal feed containing new animal drug, including required contents, approval, refusal, and withdrawal of approval or suspension of such usage applications, and provisions for record and reporting requirements of such usage applications.
 
 1994—Subsec. (a)(4), (5). Pub. L. 103–396, §2(a), added pars. (4) and (5).
 
@@ -444,7 +528,7 @@ Subsecs. (n) to (p). Pub. L. 100–670, §101(b), added subsecs. (n) to (p) and 
 
 #### Effective Date of 1994 Amendment
 
-Section 2(d) of Pub. L. 103–396 provided that: “The amendments made by this section \[amending this section and section 331 of this title\] shall take effect upon the adoption of the final regulations under subsection (c) \[set out below\].”
+Section 2(d) of Pub. L. 103–396 provided that: “The amendments made by this section \[amending this section and section 331 of this title\] shall take effect upon the adoption of the final regulations under subsection (c) \[set out below\].” \[Final regulations were dated Oct. 22, 1996, filed Nov. 6, 1996, published Nov. 7, 1996, 61 F.R. 57732, and effective Dec. 9, 1996.\]
 
 #### Effective Date of 1988 Amendment
 
@@ -466,6 +550,24 @@ Section 108 of Pub. L. 90–399 provided that:
 
 #### Regulations
 
+Section 2(e) of Pub. L. 104–250 provided that:
+
+“(1)
+
+In general.—Not later than 6 months after the date of enactment of this Act \[Oct. 9, 1996\], the Secretary of Health and Human Services shall issue proposed regulations implementing the amendments made by this Act as described in paragraph (2)(A) of this subsection, and not later than 18 months after the date of enactment of this Act, the Secretary shall issue final regulations implementing such amendments. Not later than 12 months after the date of enactment of this Act, the Secretary shall issue proposed regulations implementing the other amendments made by this Act as described in paragraphs (2)(B) and (2)(C) of this subsection, and not later than 24 months after the date of enactment of this Act, the Secretary shall issue final regulations implementing such amendments.
+
+“(2)
+
+Contents.—In issuing regulations implementing the amendments made by this Act \[see Short Title of 1996 Amendments note set out under section 301 of this title\], and in taking an action to review an application for approval of a new animal drug under section 512 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 360b), or a request for an investigational exemption for a new animal drug under subsection (j) of such section, that is pending or has been submitted prior to the effective date of the regulations, the Secretary shall—
+
+&emsp;“(A) further define the term ‘adequate and well controlled’, as used in subsection (d)(3) of section 512 of such Act, to require that field investigations be designed and conducted in a scientifically sound manner, taking into account practical conditions in the field and differences between field conditions and laboratory conditions;
+
+&emsp;“(B) further define the term ‘substantial evidence’, as defined in subsection (d)(3) of such section, in a manner that encourages the submission of applications and supplemental applications; and
+
+&emsp;“(C) take into account the proposals contained in the citizen petition (FDA Docket No. 91P–0434/CP) jointly submitted by the American Veterinary Medical Association and the Animal Health Institute, dated October 21, 1991.
+
+> Until the regulations required by subparagraph (A) are issued, nothing in the regulations published at 21 C.F.R. 514.111(a)(5) (April 1, 1996) shall be construed to compel the Secretary of Health and Human Services to require a field investigation under section 512(d)(1)(E) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 360b(d)(1)(E)) or to apply any of its provisions in a manner inconsistent with the considerations for scientifically sound field investigations set forth in subparagraph (A).”
+
 Section 2(c) of Pub. L. 103–396 provided that: “Not later than 2 years after the date of the enactment of this Act \[Oct. 22, 1994\], the Secretary of Health and Human Services shall promulgate regulations to implement paragraphs (4)(A) and (5) of section 512(a) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 360b(a)(4)(A), (5)\] (as amended by subsection (a)).”
 
 Section 103 of Pub. L. 100–670 provided that:
@@ -478,13 +580,23 @@ General Rule.—The Secretary of Health and Human Services shall promulgate, in 
 
 Transition.—During the period beginning 60 days after the date of enactment of this Act \[Nov. 16, 1988\] and ending on the date regulations promulgated under subsection (a) take effect, abbreviated new animal drug applications may be submitted in accordance with the provisions of section 314.55 and part 320 of title 21 of the Code of Federal Regulations and shall be considered as suitable for any drug which has been approved for safety and effectiveness under section 512(c) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 360b(c)\] before the date of enactment of this Act. If any such provision of section 314.55 or part 320 is inconsistent with the requirements of section 512 of the Federal Food, Drug, and Cosmetic Act (as amended by this title), the Secretary shall consider the application under the applicable requirements of section 512 (as so amended).”
 
+#### Drugs Intended for Minor Species and Minor Uses
+
+Section 2(f) of Pub. L. 104–250 provided that: “The Secretary of Health and Human Services shall consider legislative and regulatory options for facilitating the approval under section 512 of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 360b\] of animal drugs intended for minor species and for minor uses and, within 18 months after the date of enactment of this Act \[Oct. 9, 1996\], announce proposals for legislative or regulatory change to the approval process under such section for animal drugs intended for use in minor species or for minor uses.”
+
+#### Transitional Provision Regarding Implementation of Pub. L. 104–250; Approved Medicated Feed Application Deemed License
+
+Section 6(c) of Pub. L. 104–250 provided that: “A person engaged in the manufacture of animal feeds bearing or containing new animal drugs who holds at least one approved medicated feed application for an animal feed bearing or containing new animal drugs, the manufacture of which was not otherwise exempt from the requirement for an approved medicated feed application on the date of the enactment of this Act \[Oct. 9, 1996\], shall be deemed to hold a license for the manufacturing site identified in the approved medicated feed application. The revocation of license provisions of section 512(m)(4) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 360b(m)(4)\], as amended by this Act, shall apply to such licenses. Such license shall expire within 18 months from the date of enactment of this Act unless the person submits to the Secretary a completed license application for the manufacturing site accompanied by a copy of an approved medicated feed application for such site, which license application shall be deemed to be approved upon receipt by the Secretary.”
+
 #### Drugs Primarily Manufactured Using Biotechnology
 
 Section 106 of Pub. L. 100–670 provided that: “Notwithstanding section 512(b)(2) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 360b(b)(2)\], the Secretary of Health and Human Services may not approve an abbreviated application submitted under such section for a new animal drug which is primarily manufactured using recombinant DNA, recombinant RNA, hybridoma technology, or other processes involving site specific genetic manipulation techniques.”
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 321, 331, 342, 351, 353, 360, 381, 382, 827 of this title; title 28 section 2201; title 35 sections 156, 271.
+This section is referred to in sections 321, 331, 342, 351, 353, 354, 360, 381, 827 of this title; title 28 section 2201; title 35 sections 156, 271.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “clause (iii)(III)”.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be “clause (iii)(III)”.</i>
 

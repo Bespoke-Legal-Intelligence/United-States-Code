@@ -18,7 +18,7 @@ The owner of a facility which ceases to be a public or nonprofit school as descr
 
 #### (c) Computation of base amount and interest
 
-(1) The base amount that the United States is entitled to recover under subsection (a) of this section is the amount bearing the same ratio to the then value (as determined by the agreement of the parties or in an action brought in the district court of the United States for the district in which the facility is situated) of the facility as the amount of the Federal participation bore to the cost of the construction.
+(1) The base amount that the United States is entitled to recover under subsection (a) of thissection is the amount bearing the same ratio to the then value (as determined by the agreement of the parties or in an action brought in the district court of the United States for the district in which the facility is situated) of the facility as the amount of the Federal participation bore to the cost of the construction.
 
 (2)(A) The interest that the United States is entitled to recover under subsection (a) of this section is the interest for the period (if any) described in subparagraph (B) at a rate (determined by the Secretary) based on the average of the bond equivalent rates of 91-day Treasury bills auctioned during such period.
 
@@ -42,7 +42,7 @@ The right of recovery of the United States under subsection (a) of this section 
 
 #### References in Text
 
-Subpart I of part A of this subchapter, referred to in subsec. (a), which consisted of sections 296 to 296d ofthis title was repealed (except for section 296c which was transferred to this section) by section 9(a)(1), (b)(1), (c)(1) of Pub. L. 99–92.
+Subpart I of part A of this subchapter, referred to in subsec. (a), which consisted of sections 296 to 296d of this title was repealed (except for section 296c which was transferred to this section) by section 9(a)(1), (b)(1), (c)(1) of Pub. L. 99–92.
 
 #### Codification
 

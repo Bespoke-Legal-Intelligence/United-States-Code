@@ -10,9 +10,11 @@
 
 &emsp;&emsp;(B) performing inactive-duty training;
 
-&emsp;&emsp;(C) performing authorized travel directly to or from active duty or inactive-duty training; or
+&emsp;&emsp;(C) performing authorized travel directly to or from active duty or inactive-duty training;
 
-&emsp;&emsp;(D) hospitalized or undergoing treatment for an injury, illness, or disease incurred or aggravated while on active duty or performing inactive-duty training.
+&emsp;&emsp;(D) remaining overnight, between successive periods of inactive-duty training, at or in the vicinity of the site of the inactive-duty training, if the site is outside reasonable commuting distance from the member's residence; or
+
+&emsp;&emsp;(E) hospitalized or undergoing treatment for an injury, illness, or disease incurred or aggravated while on active duty or performing inactive-duty training.
 
 &emsp;\[(3) Repealed. Pub. L. 99–661, div. A, title VI, §604(e)(3)(B), Nov. 14, 1986, 100 Stat. 3877.\]
 
@@ -32,7 +34,7 @@
 
 (c) In this section, the term “dependent” has the meaning given such term in section 1072(2) of this title.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 112; Oct. 13, 1964, Pub. L. 88–647, title III, §301(3), 78 Stat. 1071; Nov. 14, 1986, Pub. L. 99–661, div. A, title VI, §604(e)(3), 100 Stat. 3877; Oct. 5, 1994, Pub. L. 103–337, div. A, title VI, §652(a)(1), 108 Stat. 2793.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 112; Oct. 13, 1964, Pub. L. 88–647, title III, §301(3), 78 Stat. 1071; Nov. 14, 1986, Pub. L. 99–661, div. A, title VI, §604(e)(3), 100 Stat. 3877; Oct. 5, 1994, Pub. L. 103–337, div. A, title VI, §652(a)(1), 108 Stat. 2793; Feb. 10, 1996, Pub. L. 104–106, div. A, title VII, §702(b), 110 Stat. 371.)
 
 Historical and Revision Notes
 
@@ -61,6 +63,8 @@ In subsection (a), 5:2151 is omitted as covered by the revised sections of this 
 In subsection (b), the words “This section applies to each person \* \* \* even though” are substituted for the words “The benefits of this Act shall not be denied in respect of a person \* \* \* on the ground”.
 
 #### Amendments
+
+1996—Subsec. (a)(2)(C) to (E). Pub. L. 104–106 struck out “or” at end of subpar. (C), added subpar. (D), and redesignated former subpar. (D) as (E).
 
 1994—Subsec. (a). Pub. L. 103–337, §652(a)(1)(A), substituted “the remains of the following persons:” for “the remains of—”, capitalized the first letter of the first word in pars. (1) to (8), substituted a period for the last semicolon in pars. (1) to (6), substituted a period for “; and” in par. (7), and added par. (9).
 

@@ -1,5 +1,5 @@
 
-39 U.S.C.<br>United States Code, 1995 Edition<br>Title 39 - POSTAL SERVICE<br>From the U.S. Government Publishing Office, www.gpo.gov
+39 U.S.C.<br>United States Code, 1996 Edition<br>Title 39 - POSTAL SERVICE<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 39—POSTAL SERVICE
 
@@ -17,9 +17,13 @@
 
 Table I<br>This Table lists the sections of former Title 39, The Postal Service, and indicates the sections of Title 39, as enacted in 1960, which covered similar and related subject matter.
 
-<i>Title 39      Former Sections     </i>
+<i>Title 39</i>
 
-<i>Title 39   1960 Revision Sections  </i>
+<i>Former Sections</i>
+
+<i>Title 39</i>
+
+<i>1960 Revision Sections</i>
 
 1–3
 
@@ -2331,9 +2335,13 @@ Rep.
 
 Table II<br>This Table lists the sections of former Title 39, The Postal Service, and indicates the sections of Title 39, Postal Service, as revised in 1970, which cover similar and related subject matter.
 
-<i>Title 39 1960 Revision Sections</i>
+<i>Title 39</i>
 
-<i>Title 39         New Sections        </i>
+<i>1960 Revision Sections</i>
+
+<i>Title 39</i>
+
+<i>New Sections</i>
 
 1
 
@@ -3297,9 +3305,13 @@ Elim.
 
 Table III<br>This Table lists the sections of Title 39, Postal Service, as revised in 1970, and indicates the sections of former Title 39, The Postal Service, which covered similar and related subject matter.
 
-<i>Title 39         New Sections        </i>
+<i>Title 39</i>
 
-<i>Title 39      Former Sections     </i>
+<i>New Sections</i>
+
+<i>Title 39</i>
+
+<i>Former Sections</i>
 
 101
 
@@ -3327,6 +3339,8 @@ Table III<br>This Table lists the sections of Title 39, Postal Service, as revis
 
 205
 
+&nbsp;
+
 206
 
 306
@@ -3336,6 +3350,8 @@ Table III<br>This Table lists the sections of Title 39, Postal Service, as revis
 303
 
 208
+
+&nbsp;
 
 401
 
@@ -3371,11 +3387,15 @@ Table III<br>This Table lists the sections of Title 39, Postal Service, as revis
 
 409
 
+&nbsp;
+
 410
 
 2114
 
 411, 412
+
+&nbsp;
 
 601
 
@@ -3407,11 +3427,15 @@ Table III<br>This Table lists the sections of Title 39, Postal Service, as revis
 
 1002
 
+&nbsp;
+
 1003
 
 3106, 3501
 
 1004
+
+&nbsp;
 
 1005
 
@@ -3443,6 +3467,8 @@ Table III<br>This Table lists the sections of Title 39, Postal Service, as revis
 
 1201–1209
 
+&nbsp;
+
 2001
 
 1
@@ -3460,6 +3486,8 @@ Table III<br>This Table lists the sections of Title 39, Postal Service, as revis
 2201
 
 2005–2007
+
+&nbsp;
 
 2008
 
@@ -3538,6 +3566,8 @@ Table III<br>This Table lists the sections of Title 39, Postal Service, as revis
 4009
 
 3009–3011
+
+&nbsp;
 
 3201
 
@@ -3637,6 +3667,8 @@ Table III<br>This Table lists the sections of Title 39, Postal Service, as revis
 
 3602–3604
 
+&nbsp;
+
 3621
 
 2302–2304, 2306
@@ -3694,6 +3726,8 @@ Table III<br>This Table lists the sections of Title 39, Postal Service, as revis
 4554
 
 3684
+
+&nbsp;
 
 3685
 
@@ -3911,7 +3945,7 @@ Pub. L. 91–375, §6(<i>o</i>)–(q), Aug. 12, 1970, 84 Stat. 783, provided tha
 
 “(p) Whenever reference is made in any provision of law (other than this Act \[see Short Title note set out under section 101 of this title\] or provision of law amended by this Act), regulation, rule, record, or document to a postal inspector or chief postal inspector of the Post Office Department, such reference shall be deemed to be a reference to the appropriate officer or employee of the United States Postal Service who performs duties related to the inspection of postal matters.
 
-“(q) Whenever reference is made in any law to title 39, United States Code, or provision of that title, as such title or provision existed prior to the effectivedate of this section \[see Effective Date note set out above\], that reference shall be considered a reference to the appropriate provision of title 39, as amended by section 2 of this Act, unless no such provision is included therein.”
+“(q) Whenever reference is made in any law to title 39, United States Code, or provision of that title, as such title or provision existed prior to the effective date of this section \[see Effective Date note set out above\], that reference shall be considered a reference to the appropriate provision of title 39, as amended by section 2 of this Act, unless no such provision is included therein.”
 
 Provisions of section 6(<i>o</i>) to (q) of Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on date established therefor by the Board of Governors and published by it in the Federal Register, see section 15(a) of Pub. L. 91–375, set out as an Effective Date note above.
 

@@ -14,7 +14,7 @@ Regulations for Safe Transportation.—(1) The Secretary shall prescribe regulat
 
 &emsp;&emsp;(ii) causing hazardous material to be transported in commerce; or
 
-&emsp;&emsp;(iii) manufacturing, fabricating, marking, maintaining, reconditioning, repairing, or testing a packaging or a container that is represented, marked, certified, or sold by that person as qualified for use in transporting hazardous material in commerce; and
+&emsp;&emsp;(iii) manufacturing, fabricating, marking, maintaining, reconditioning, repairing, ortesting a packaging or a container that is represented, marked, certified, or sold by that person as qualified for use in transporting hazardous material in commerce; and
 
 &emsp;(B) shall govern safety aspects of the transportation of hazardous material the Secretary considers appropriate.
 
@@ -26,7 +26,9 @@ Historical and Revision Notes
 
 Pub. L. 103–272
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

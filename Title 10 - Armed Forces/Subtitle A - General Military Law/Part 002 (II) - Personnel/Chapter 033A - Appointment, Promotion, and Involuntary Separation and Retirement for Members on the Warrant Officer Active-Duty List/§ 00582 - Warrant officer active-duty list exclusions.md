@@ -6,11 +6,11 @@ Warrant officers in the following categories are not subject to this chapter:
 
 &emsp;&emsp;(A) on active duty for training;
 
-&emsp;&emsp;(B) on active duty under section 672(d) <sup>1</sup> of this title in connection with organizing, administering, recruiting, instructing, or training the reserve components;
+&emsp;&emsp;(B) on active duty under section 12301(d) of this title in connection with organizing, administering, recruiting, instructing, or training the reserve components;
 
 &emsp;&emsp;(C) on active duty to pursue special work;
 
-&emsp;&emsp;(D) ordered to active duty under section 673b <sup>1</sup> of this title; or
+&emsp;&emsp;(D) ordered to active duty under section 12304 of this title; or
 
 &emsp;&emsp;(E) on full-time National Guard duty.
 
@@ -18,21 +18,21 @@ Warrant officers in the following categories are not subject to this chapter:
 
 &emsp;(3) Students enrolled in the Army Physician's Assistant Program.
 
-(Added Pub. L. 102–190, div. A, title XI, §1112(a), Dec. 5, 1991, 105 Stat. 1500; amended Pub. L. 103–337, div. A, title V, §501(d), Oct. 5, 1994, 108 Stat. 2748.)
-
-#### References in Text
-
-Section 672 of this title, referred to in par. (1)(B), was renumbered section 12301 of this title by Pub. L. 103–337, div. A, title XVI, §1662(e)(2), Oct. 5, 1994, 108 Stat. 2992, and a new section 672 was added which does not contain a subsec. (d).
-
-Section 673b of this title, referred to in par. (1)(D), was renumbered section 12304 of this title by Pub. L. 103–337, div. A, title XVI, §1662(e)(2), Oct. 5, 1994, 108 Stat. 2992.
+(Added Pub. L. 102–190, div. A, title XI, §1112(a), Dec. 5, 1991, 105 Stat. 1500; amended Pub. L. 103–337, div. A, title V, §501(d), Oct. 5, 1994, 108 Stat. 2748; Pub. L. 104–106, div. A, title XV, §1501(c)(5), Feb. 10, 1996, 110 Stat. 498.)
 
 #### Amendments
 
+1996—Par. (1)(B). Pub. L. 104–106 substituted “section 12301(d)” for “section 672(d)”.
+
+Par. (1)(D). Pub. L. 104–106 substituted “section 12304” for “section 673b”.
+
 1994—Par. (2). Pub. L. 103–337 inserted before period at end “(other than retired warrant officers who were recalled to active duty before February 1, 1992, and have served continuously on active duty since that date)”.
+
+#### Effective Date of 1996 Amendment
+
+Section 1501(c) of Pub. L. 104–106 provided that the amendment made by that section is effective as of Dec. 1, 1994, and as if included as an amendment made by the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as originally enacted.
 
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 571, 574 of this title.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

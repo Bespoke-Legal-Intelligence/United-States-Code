@@ -76,13 +76,15 @@ Suspensions.—Notwithstanding sections 40105(b) and 40106(b) of this title, the
 
 (f)
 
-Condition of Carrier Authority.—This section is a condition to authority the Secretary of Transportation grants under this part to an air carrier or foreign air carrier.
+Condition of Carrier Authority.—This section is a condition to authority the Secretaryof Transportation grants under this part to an air carrier or foreign air carrier.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1209.)
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -144,7 +146,7 @@ In subsection (b)(2), the word “foreign” is added for consistency in the rev
 
 In subsection (c), the words “government of a foreign country” are substituted for “foreign government” for consistency in the revised title and with other titles of the Code.
 
-In subsection (d)(1), before clause (A), the words “Subject to paragraph (1)” are omitted as surplus. In clause (C), the words “foreign country” are substituted for “foreign government” for clarity and consistency in the revised title and with other titles of the Code. The word “prescribe” is substituted for “impose” for consistency in the revised title and with other titles of the Code. The word “provide” is substituted for “engagein” for consistency in the revised title. In clause (D), the words “directly or indirectly” are omitted as surplus.
+In subsection (d)(1), before clause (A), the words “Subject to paragraph (1)” are omitted as surplus. In clause (C), the words “foreign country” are substituted for “foreign government” for clarity and consistency in the revised title and with other titles of the Code. The word “prescribe” is substituted for “impose” for consistency in the revised title and with other titles of the Code. The word “provide” is substituted for “engage in” for consistency in the revised title. In clause (D), the words “directly or indirectly” are omitted as surplus.
 
 In subsection (d)(2)(A)(i), the words “identified” and “of such airport” are omitted as surplus.
 
@@ -158,5 +160,5 @@ In subsection (f), the words “issued under authority vested in” are omitted 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 44908, 44938, 46301 of this title.
+This section is referred to in sections 44908, 44938, 46301, 46316 of this title.
 

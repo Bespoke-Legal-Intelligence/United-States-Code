@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary, in consultation with the States, may make grants to, or enter into contracts with, State educational agencies, local educational agencies, institutions of higher education, and other public and private nonprofit entities to improve the interstate and intrastate coordination among such agencies’ educational programs, including the establishment or improvement of programs for credit accrual and exchange, available to migratory students.
+&emsp;The Secretary, in consultation with the States, may make grants to, or enter into contracts with, State educational agencies, localeducational agencies, institutions of higher education, and other public and private nonprofit entities to improve the interstate and intrastate coordination among such agencies’ educational programs, including the establishment or improvement of programs for credit accrual and exchange, available to migratory students.
 
 #### (2) Duration
 
@@ -42,7 +42,7 @@ For the purpose of carrying out this section in any fiscal year, the Secretary s
 
 #### Change of Name
 
-Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Economic and Educational Opportunities of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Fifth Congress, Jan. 7, 1997.
 
 #### Extension of Operation of Migrant Student Record Transfer System
 
@@ -54,7 +54,7 @@ Program Extension.—Notwithstanding any other provision of Federal law, the Sec
 
 “(b)
 
-Program Modification.—Major modification of such system may be made only after consultation with the Committee on Education and Labor \[now Committee on Economic and Educational Opportunities\] of the House of Representatives and the Committee on Labor and Human Resources of the Senate.”
+Program Modification.—Major modification of such system may be made only after consultation with the Committee on Education and Labor \[now Committee on Education and the Workforce\] of the House of Representatives and the Committee on Labor and Human Resources of the Senate.”
 
 #### Section Referred to in Other Sections
 

@@ -26,7 +26,7 @@ Subsec. (b). Pub. L. 97–89, §504(b), substituted “section 203, 205, or 207 
 
 #### Effective Date of 1981 Amendment
 
-Amendment by Pub. L. 97–89 effective Oct. 1, 1981, see section 806 of Pub. L. 97–89, set out as an Effective Date note under section 1601 of Title 10, Armed Forces.
+Amendment by Pub. L. 97–89 effective Oct. 1, 1981, see section 806 of Pub. L. 97–89, set out as an Effective Date note under section 1621 of Title 10, Armed Forces.
 
 #### Transfer of Functions
 
@@ -36,7 +36,7 @@ National Security Council transferred to Executive Office of President by Reorg.
 
 #### Termination of Advisory Committees
 
-Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-yearperiod following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 

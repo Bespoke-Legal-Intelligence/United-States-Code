@@ -46,7 +46,7 @@ There is a rebuttable presumption at trial that any property of a person convict
 
 > <i>Provided, however</i>, That an order entered pursuant to subparagraph (B) shall be effective for not more than ninety days, unless extended by the court for good cause shown or unless an indictment or information described in subparagraph (A) has been filed.
 
-(2) A temporary restraining order under this subsection may be entered upon application of the United States without notice or opportunity for a hearing when an information or indictment has not yet been filed with respect to the property, if the United States demonstrates that there is probable cause to believe that the property with respect to which the order is sought would, in the event of conviction, be subject to forfeiture under this section and that provision of notice will jeopardize the availability of the property for forfeiture. Such a temporary order shall expire not more than ten days after the date on which it is entered, unless extended for good cause shown or unless the party against whom it is entered consents to an extension fora longer period. A hearing requested concerning an order entered under this paragraph shall be held at the earliest possible time and prior to the expiration of the temporary order.
+(2) A temporary restraining order under this subsection may be entered upon application of the United States without notice or opportunity for a hearing when an information or indictment has not yet been filed with respect to the property, if the United States demonstrates that there is probable cause to believe that the property with respect to which the order is sought would, in the event of conviction, be subject to forfeiture under this section and that provision of notice will jeopardize the availability of the property for forfeiture. Such a temporary order shall expire not more than ten days after the date on which it is entered, unless extended for good cause shown or unless the party against whom it is entered consents to an extension for a longer period. A hearing requested concerning an order entered under this paragraph shall be held at the earliest possible time and prior to the expiration of the temporary order.
 
 (3) The court may receive and consider, at a hearing held pursuant to this subsection, evidence and information that would be inadmissible under the Federal Rules of Evidence.
 
@@ -98,7 +98,7 @@ In order to facilitate the identification and location of property declared forf
 
 #### (n) Third party interests
 
-(1) Following the entry of an order of forfeiture under this section, the United States shall publish notice of the order and of its intent to dispose of the property in such manner as the Attorney General may direct. The Governmentmay also, to the extent practicable, provide direct written notice to any person known to have alleged an interest in the property that is the subject of the order of forfeiture as a substitute for published notice as to those persons so notified.
+(1) Following the entry of an order of forfeiture under this section, the United States shall publish notice of the order and of its intent to dispose of the property in such manner as the Attorney General may direct. The Government may also, to the extent practicable, provide direct written notice to any person known to have alleged an interest in the property that is the subject of the order of forfeiture as a substitute for published notice as to those persons so notified.
 
 (2) Any person, other than the defendant, asserting a legal interest in property which has been ordered forfeited to the United States pursuant to this section may, within thirty days of the final publication of notice or his receipt of notice under paragraph (1), whichever is earlier, petition the court for a hearing to adjudicate the validity of his alleged interest in the property. The hearing shall be held before the court alone, without a jury.
 
@@ -138,7 +138,17 @@ If any of the property described in subsection (a) of this section, as a result 
 
 > the court shall order the forfeiture of any other property of the defendant up to the value of any property described in paragraphs (1) through (5).
 
-(Pub. L. 91–513, title II, §413, as added and amended Pub. L. 98–473, title II, §§303, 2301(d)–(f), Oct. 12, 1984, 98 Stat. 2044, 2192, 2193; Pub. L. 99–570, title I, §§1153(b), 1864, Oct. 27, 1986, 100 Stat. 3207–13, 3207–54.)
+#### (q) Restitution for cleanup of clandestine laboratory sites
+
+The court, when sentencing a defendant convicted of an offense under this subchapter or subchapter II of this chapter involving the manufacture of methamphetamine, may—
+
+&emsp;(1) order restitution as provided in sections 3612 and 3664 of title 18;
+
+&emsp;(2) order the defendant to reimburse the United States for the costs incurred by the United States for the cleanup associated with the manufacture of methamphetamine by the defendant; and
+
+&emsp;(3) order restitution to any person injured as a result of the offense as provided in section 3663 of title 18.
+
+(Pub. L. 91–513, title II, §413, as added and amended Pub. L. 98–473, title II, §§303, 2301(d)–(f), Oct. 12, 1984, 98 Stat. 2044, 2192, 2193; Pub. L. 99–570, title I, §§1153(b), 1864, Oct. 27, 1986, 100 Stat. 3207–13, 3207–54; Pub. L. 104–237, title II, §207, Oct. 3, 1996, 110 Stat. 3104.)
 
 #### References in Text
 
@@ -148,7 +158,9 @@ The Federal Rules of Criminal Procedure, referred to in subsec. (m), are set out
 
 #### Amendments
 
-1986—Subsec. (c). Pub. L. 99–570, §1864(1), substituted “subsection (n)” for “subsection (<i>o)”.</i>
+1996—Subsec. (q). Pub. L. 104–237 added subsec. (q).
+
+1986—Subsec. (c). Pub. L. 99–570, §1864(1), substituted “subsection (n)” for “subsection (<i>o</i>)”.
 
 Subsec. (f). Pub. L. 99–570, §1864(2), substituted “subsection (e)” for “subsection (f)”.
 
@@ -168,5 +180,5 @@ Subsec. (n)(1). Pub. L. 98–473, §2301(f), struck out “for at least seven su
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 333, 848, 970 of this title; title 18 sections 793, 794, 798, 982, 3554; title 33 section 1415; title 50 section 783.
+This section is referred to in sections 333, 848, 970 of this title; title 18 sections 793, 794, 798, 982, 1834, 3554; title 33 section 1415; title 50 section 783.
 

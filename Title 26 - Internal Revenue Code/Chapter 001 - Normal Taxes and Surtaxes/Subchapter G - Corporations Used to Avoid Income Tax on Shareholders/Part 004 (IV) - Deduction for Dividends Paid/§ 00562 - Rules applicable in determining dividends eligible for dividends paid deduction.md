@@ -26,7 +26,7 @@ In the case where a corporation which is a member of an affiliated group of corp
 
 #### (e) Special rules for real estate investment trusts
 
-In the case of a real estate investment trust, in determining the amount of dividends under section 316 for purposes of computing the dividends paid deduction, the earnings and profits of such trust for any taxable year beginning after December 31, 1980, shall be increased by the total amount of gain (if any) on the sale or exchange of real property by such trust during such taxable year.
+In the case of a real estate investment trust, in determining the amount of dividends undersection 316 for purposes of computing the dividends paid deduction, the earnings and profits of such trust for any taxable year beginning after December 31, 1980, shall be increased by the total amount of gain (if any) on the sale or exchange of real property by such trust during such taxable year.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 198; Feb. 26, 1964, Pub. L. 88–272, title II, §225(f)(3), 78 Stat. 88; Sept. 3, 1982, Pub. L. 97–248, title II, §222(e)(7), 96 Stat. 480; Jan. 12, 1983, Pub. L. 97–448, title I, §102(c)(2), 96 Stat. 2370; Oct. 22, 1986, Pub. L. 99–514, title VI, §657(a), title XVIII, §1804(d)(1), 100 Stat. 2299, 2800.)
 

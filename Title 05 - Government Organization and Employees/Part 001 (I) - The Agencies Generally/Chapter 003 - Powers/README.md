@@ -13,7 +13,7 @@
 
 #### Amendments
 
-<b>1993</b>—Pub. L. 103–62, §11(a), Aug. 3, 1993, 107 Stat. 295, added item 306.
+1993—Pub. L. 103–62, §11(a), Aug. 3, 1993, 107 Stat. 295, added item 306.
 
 
 ---

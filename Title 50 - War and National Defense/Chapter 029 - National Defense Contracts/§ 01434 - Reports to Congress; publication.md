@@ -1,6 +1,6 @@
 ### §1434. Reports to Congress; publication
 
-(a) Every department and agency acting under authority of this chapter shall, by March 15 of each year, report to Congress if any such action has been taken by that department or agency during the preceding calendar year. With respect to actions which involve actual or potential costto the United States in excess of $50,000, the report shall—
+(a) Every department and agency acting under authority of this chapter shall, by March 15 of each year, report to Congress if any such action has been taken by that department or agency during the preceding calendar year. With respect to actions which involve actual or potential cost to the United States in excess of $50,000, the report shall—
 
 &emsp;(1) name the contractor;
 

@@ -124,7 +124,7 @@ In clause (4)(A) and (B), the word “grant” is substituted for “ ‘grant�
 
 In clause (4)(B), the words “a private, nonprofit community organization eligible to receive amounts under the Community Services Block Grant Act (42 U.S.C. 9901 et seq.)” are substituted for “a community action agency under the Economic Opportunity Act of 1964, as amended” because of section 683(c)(2) of the Omnibus Budget Reconciliation Act of 1981 (Pub. L. 97–35, 95 Stat. 519).
 
-In clause (4)(C), the words “whether public or private” are omitted as surplus. The words “law of theUnited States” are substituted for “Federal laws” for consistency.
+In clause (4)(C), the words “whether public or private” are omitted as surplus. The words “law of the United States” are substituted for “Federal laws” for consistency.
 
 In clause (5), the words “head of a Federal agency” are omitted as unnecessary because heads of Federal agencies already have the authority to delegate.
 
@@ -158,7 +158,7 @@ Par. (7). Pub. L. 101–453, §5(a)(2), added par. (7). Former par. (7) redesign
 
 Par. (8). Pub. L. 101–453, §5(a)(1), redesignated par. (7) as (8). Former par. (8) redesignated (9).
 
-Par. (9). Pub. L. 101–453, §5(a)(1), (3), redesignated par. (8) as (9), added new text, and struck out former text which read as follows: “ ‘State’ means a State of the United States, the District of Columbia, a territory or possession of the United States, and an agency or instrumentality of a State but does not mean a local government of a State.” Former par. (9) redesignated (10).
+Par. (9). Pub. L. 101–453, §5(a)(1), (3), redesignated par. (8) as (9), added new text, and struck out former text which read as follows: “ ‘State’ means a State of the United States, the District of Columbia, a territory orpossession of the United States, and an agency or instrumentality of a State but does not mean a local government of a State.” Former par. (9) redesignated (10).
 
 Par. (10). Pub. L. 101–453, §5(a)(1), redesignated par. (9) as (10).
 

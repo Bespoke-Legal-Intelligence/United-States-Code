@@ -56,13 +56,11 @@ The principal office of the Commission shall be in the District of Columbia, whe
 
 (2) Without regard to the civil-service laws, but subject to chapter 51 and subchapter III of chapter 53 of title 5, each commissioner may appoint three professional assistants and a secretary, each of whom shall perform such duties as such commissioner shall direct. In addition, the chairman of the Commission may appoint, without regard to the civil-service laws, but subject to chapter 51 and subchapter III of chapter 53 of title 5, and administrative assistant who shall perform such duties as the chairman shall direct.
 
-(3) The Commission shall fix a reasonable rate of extra compensation for overtime services of engineers in charge and radio engineers of the Field Engineering and Monitoring Bureau of the Federal Communications Commission, who may be required to remain on duty between the hours of 5 o'clock postmeridian and 8 o'clock antemeridian or on Sundays or holidays to perform services in connection with the inspection of ship radio equipment and apparatus for the purposes of part II of subchapter III of this chapter or the Great Lakes Agreement, on the basis of one-half day's additional pay for each two hours or fraction thereof of at least one hour that the overtime extends beyond 5 o'clock postmeridian (but not to exceed two and one-half days’ pay for the full period from 5 o'clock postmeridian to 8 o'clock antemeridian) and two additional days’ pay for Sunday or holiday duty. The said extra compensation for overtime services shall be paid by the master, owner, or agent of such vessel to the local United States collector of customs or his representative, who shall deposit such collection into the Treasury of the United States to an appropriately designated receipt account:<i>Provided</i>, That the amounts of such collections received by the said collector of customs or his representatives shall be covered into the Treasury as miscellaneous receipts; and the payments of such extra compensation to the several employees entitled thereto shall be made from the annual appropriations for salaries and expenses of the Commission: <i>Provided further</i>, That to the extent that the annual appropriations which are authorized to be made from the general fund of the Treasury are insufficient, there are authorized to be appropriated from the general fund of the Treasury such additional amounts as may be necessary to the extent that the amounts of such receipts are in excess of the amounts appropriated: <i>Provided further</i>, That such extra compensation shall be paid if such field employees have been ordered to report for duty and have so reported whether the actual inspection of the radio equipment or apparatus takes place or not: <i>And provided further</i>, That in those ports where customary working hours are other than those hereinabove mentioned, the engineers in charge are vested with authority to regulate the hours of such employees so as to agree with prevailing working hours in said ports where inspections are to be made, but nothing contained in this proviso shall be construed in any manner to alter the length of a working day for the engineers in charge and radio engineers or the overtime pay herein fixed.
+(3) The Commission shall fix a reasonable rate of extra compensation for overtime services of engineers in charge and radio engineers of the Field Engineering and Monitoring Bureau of the Federal Communications Commission, who may be required to remain on duty between the hours of 5 o'clock postmeridian and 8 o'clock antemeridian or on Sundays or holidays to perform services in connection with the inspection of ship radio equipment and apparatus for the purposes of part II of subchapter III of this chapter or the Great Lakes Agreement, on the basis of one-half day's additional pay for each two hours or fraction thereof of at least one hour that the overtime extends beyond 5 o'clock postmeridian (but not to exceed two and one-half days’ pay for the full period from 5 o'clock postmeridian to 8 o'clock antemeridian) and two additional days’ pay for Sunday or holiday duty. The said extra compensation for overtime services shall be paid by the master, owner, or agent of such vessel to the local United States collector of customs or his representative, who shall deposit such collection into the Treasury of the United States to an appropriately designated receipt account: <i>Provided</i>, That the amounts of such collections received by the said collector of customs or his representatives shall be covered into the Treasury as miscellaneous receipts; and the payments of such extra compensation to the several employees entitled thereto shall be made from the annual appropriations for salaries and expenses of the Commission: <i>Provided further</i>, That to the extent that the annual appropriations which are authorized to be made from the general fund of the Treasury are insufficient, there are authorized to be appropriated from the general fund of the Treasury such additional amounts as may be necessary to the extent that the amounts of such receipts are in excess of the amounts appropriated: <i>Provided further</i>, That such extracompensation shall be paid if such field employees have been ordered to report for duty and have so reported whether the actual inspection of the radio equipment or apparatus takes place or not: <i>And provided further</i>, That in those ports where customary working hours are other than those hereinabove mentioned, the engineers in charge are vested with authority to regulate the hours of such employees so as to agree with prevailing working hours in said ports where inspections are to be made, but nothing contained in this proviso shall be construed in any manner to alter the length of a working day for the engineers in charge and radio engineers or the overtime pay herein fixed: and <i>Provided further</i>, That, in the alternative, an entity designated by the Commission may make the inspections referred to in this paragraph.
 
-(4)(A) The Commission, for purposes of preparing any examination for an amateur station operator license, may accept and employ the voluntary and uncompensated services of any individual who holds an amateur station operator license of a higher class than the class license for which the examination is being prepared. In the case of examinations for the highest class of amateur station operator license, the Commission may accept and employ such services of any individual who holds such class of license.
+(4)(A) The Commission, for purposes of preparing or administering any examination for an amateur station operator license, may accept and employ the voluntary and uncompensated services of any individual who holds an amateur station operator license of a higher class than the class of license for which the examination is being prepared or administered. In the case of examinations for the highest class of amateur station operator license, the Commission may accept and employ such services of any individual who holds such class of license.
 
-(B) The Commission, for purposes of administering any examination for an amateur station operator license, may accept and employ the voluntary and uncompensated services of any individual who holds an amateur station operator license of a higher class than the class license for which the examination is being conducted. In the case of examinations for the highest class of amateur station operator license, the Commission may accept and employ such services of any individual who holds such class of license. Any person who owns a significant interest in, or is an employee of, any company or other entity which is engaged in the manufacture or distribution of equipment used in connection with amateur radio transmissions, or in the preparation or distribution of any publication used in preparation for obtaining amateur station operator licenses, shall not be eligible to render any service under this subparagraph.
-
-(C)(i) The Commission, for purposes of monitoring violations of any provision of this chapter (and of any regulation prescribed by the Commission under this chapter) relating to the amateur radio service, may—
+(B)(i) The Commission, for purposes of monitoring violations of any provision of this chapter (and of any regulation prescribed by the Commission under this chapter) relating to the amateur radio service, may—
 
 &emsp;(I) recruit and train any individual licensed by the Commission to operate an amateur station; and
 
@@ -80,7 +78,7 @@ The principal office of the Commission shall be in the District of Columbia, whe
 
 > Nothing in this clause shall be construed to grant individuals recruited and trained under this subparagraph any authority to issue sanctions to violators or to take any enforcement action other than any action which the Commission may prescribe by rule.
 
-(D)(i) The Commission, for purposes of monitoring violations of any provision of this chapter (and of any regulation prescribed by the Commission under this chapter) relating to the citizens band radio service, may—
+(C)(i) The Commission, for purposes of monitoring violations of any provision of this chapter (and of any regulation prescribed by the Commission under this chapter) relating to the citizens band radio service, may—
 
 &emsp;(I) recruit and train any citizens band radio operator; and
 
@@ -96,19 +94,19 @@ The principal office of the Commission shall be in the District of Columbia, whe
 
 &emsp;(III) issuing advisory notices, under the general direction of the Commission, to persons who apparently have violated any provision of this chapter (or regulations prescribed by the Commission under this chapter) relating to the citizens band radio service.
 
-> Nothing in this clause shall be construed to grant individuals recruited and trained under this subparagraph any authority to issue sanctions to violators or to take any enforcementaction other than any action which the Commission may prescribe by rule.
+> Nothing in this clause shall be construed to grant individuals recruited and trained under this subparagraph any authority to issue sanctions to violators or to take any enforcement action other than any action which the Commission may prescribe by rule.
 
-(E) The Commission shall have the authority to endorse certification of individuals to perform transmitter installation, operation, maintenance, and repair duties in the private land mobile services and fixed services (as defined by the Commission by rule) if such certification programs are conducted by organizations or committees which are representative of the users in those services and which consist of individuals who are not officers or employees of the Federal Government.
+(D) The Commission shall have the authority to endorse certification of individuals to perform transmitter installation, operation, maintenance, and repair duties in the private land mobile services and fixed services (as defined by the Commission by rule) if such certification programs are conducted by organizations or committees which are representative of the users in those services and which consist of individuals who are not officers or employees of the Federal Government.
 
-(F) The authority of the Commission established in this paragraph shall not be subject to or affected by the provisions of part III of title 5 or section 1342 of title 31.
+(E) The authority of the Commission established in this paragraph shall not be subject to or affected by the provisions of part III of title 5 or section 1342 of title 31.
 
-(G) Any person who provides services under this paragraph shall not be considered, by reason of having provided such services, a Federal employee.
+(F) Any person who provides services under this paragraph shall not be considered, by reason of having provided such services, a Federal employee.
 
-(H) The Commission, in accepting and employing services of individuals under subparagraphs (A), (B), and (C), shall seek to achieve a broad representation of individuals and organizations interested in amateur station operation.
+(G) The Commission, in accepting and employing services of individuals under subparagraphs (A) and (B), shall seek to achieve a broad representation of individuals and organizations interested in amateur station operation.
 
-(I) The Commission may establish rules of conduct and other regulations governing the service of individuals under this paragraph.
+(H) The Commission may establish rules of conduct and other regulations governing the service of individuals under this paragraph.
 
-(J) With respect to the acceptance of voluntary uncompensated services for the preparation, processing, or administration of examinations for amateur station operator licenses pursuant to subparagraph (A) or (B) of this paragraph, individuals, or organizations which provide or coordinate such authorized volunteer services may recover from examinees reimbursement for out-of-pocket costs. The total amount of allowable cost reimbursement per examinee shall not exceed $4, adjusted annually every January 1 for changes in the Department of Labor Consumer Price Index.
+(I) With respect to the acceptance of voluntary uncompensated services for the preparation,processing, or administration of examinations for amateur station operator licenses pursuant to subparagraph (A) of this paragraph, individuals, or organizations which provide or coordinate such authorized volunteer services may recover from examinees reimbursement for out-of-pocket costs.
 
 (5)(A) The Commission, for purposes of preparing and administering any examination for a commercial radio operator license or endorsement, may accept and employ the services of persons that the Commission determines to be qualified. Any person so employed may not receive compensation for such services, but may recover from examinees such fees as the Commission permits, considering such factors as public service and cost estimates submitted by such person.
 
@@ -186,7 +184,7 @@ Rates of compensation of persons appointed under this section shall be subject t
 
 For the purpose of obtaining maximum effectiveness from the use of radio and wire communications in connection with safety of life and property, the Commission shall investigate and study all phases of the problem and the best methods of obtaining the cooperation and coordination of these systems.
 
-(June 19, 1934, ch. 652, title I, §4, 48 Stat. 1066; Jan. 22, 1936, ch. 25, 49 Stat. 1098; May 20, 1937, ch. 229, §§3, 4, 50 Stat. 190; Mar. 23, 1941, ch. 24, 55 Stat. 46; July 16, 1952, ch. 879, §3, 66 Stat. 711; Aug. 13, 1954, ch. 735, §2, 68 Stat. 729; June 29, 1960, Pub. L. 86–533, §1(24), 74 Stat. 249; July 12, 1960, Pub. L. 86–619, §2, 74 Stat. 407; Sept. 13, 1960, Pub. L. 86–752, §2, 74 Stat. 889; Aug. 13, 1981, Pub. L. 97–35, title XII, §1251(b), 95 Stat. 738; Sept. 8, 1982, Pub. L. 97–253, title V, §501(b)(1)–(3), 96 Stat. 805, 806; Sept. 13, 1982, Pub. L. 97–259, title I, §§102–104, 96 Stat. 1087–1089; Dec. 8, 1983, Pub. L. 98–214, §§10, 11, 97 Stat. 1471; Apr. 7, 1986, Pub. L. 99–272, title V, §5002(b), 100 Stat. 118; June 6, 1986, Pub. L. 99–334, §1(a), 100 Stat. 513; Nov. 3, 1988, Pub. L. 100–594, §3, 102 Stat. 3021; Sept. 28, 1990, Pub. L. 101–396, §§3, 4, 104 Stat. 848, 849; Oct. 27, 1992, Pub. L. 102–538, title II, §§201, 208, 106 Stat. 3542, 3543; Oct. 25, 1994, Pub. L. 103–414, title III, §303(a)(1), 108 Stat. 4294; Dec. 21, 1995, Pub. L. 104–66, title II, §2051(b), 109 Stat. 729.)
+(June 19, 1934, ch. 652, title I, §4, 48 Stat. 1066; Jan. 22, 1936, ch. 25, 49 Stat. 1098; May 20, 1937, ch. 229, §§3, 4, 50 Stat. 190; Mar. 23, 1941, ch. 24, 55 Stat. 46; July 16, 1952, ch. 879, §3, 66 Stat. 711; Aug. 13, 1954, ch. 735, §2, 68 Stat. 729; June 29, 1960, Pub. L. 86–533, §1(24), 74 Stat. 249; July 12, 1960, Pub. L. 86–619, §2, 74 Stat. 407; Sept. 13, 1960, Pub. L. 86–752, §2, 74 Stat. 889; Aug. 13, 1981, Pub. L. 97–35, title XII, §1251(b), 95 Stat. 738; Sept. 8, 1982, Pub. L. 97–253, title V, §501(b)(1)–(3), 96 Stat. 805, 806; Sept. 13, 1982, Pub. L. 97–259, title I, §§102–104, 96 Stat. 1087–1089; Dec. 8, 1983, Pub. L. 98–214, §§10, 11, 97 Stat. 1471; Apr. 7, 1986, Pub. L. 99–272, title V, §5002(b), 100 Stat. 118; June 6, 1986, Pub. L. 99–334, §1(a), 100 Stat. 513; Nov. 3, 1988, Pub. L. 100–594, §3, 102 Stat. 3021; Sept. 28, 1990, Pub. L. 101–396, §§3, 4, 104 Stat. 848, 849; Oct. 27, 1992, Pub. L. 102–538, title II, §§201, 208, 106 Stat. 3542, 3543; Oct. 25, 1994, Pub. L. 103–414, title III, §303(a)(1), 108 Stat. 4294; Dec. 21, 1995, Pub. L. 104–66, title II, §2051(b), 109 Stat. 729; Feb. 8, 1996, Pub. L. 104–104, title IV, §403(a), (b), 110 Stat. 130.)
 
 #### References in Text
 
@@ -196,9 +194,7 @@ The civil-service laws, referred to in subsec. (f)(1), (2), are set forth in Tit
 
 Part II of subchapter III of this chapter, referred to in subsec. (f)(3), is classified to section 351 et seq. of this title.
 
-For definition of Great Lakes Agreement, referred to in subsec. (f)(3), see section 153(ff) of this title and Great Lakes Agreement note set out under that section.
-
-Provisions of part III of title 5, referred to in subsec. (f)(4)(F), are classified to section 2101 et seq. of Title 5, Government Organization and Employees.
+Provisions of part III of title 5, referred to in subsec. (f)(4)(E), are classified to section 2101 et seq. of Title 5, Government Organization and Employees.
 
 Federal law on income taxes, estate taxes, and gift taxes, referred to in subsec. (g)(3)(C), is classified generally to Title 26, Internal Revenue Code.
 
@@ -206,9 +202,25 @@ Federal law on income taxes, estate taxes, and gift taxes, referred to in subsec
 
 In subsec. (f)(1), (2) “chapter 51 and subchapter III of chapter 53 of title 5” substituted for “the Classification of 1949” on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
 
-In subsec. (f)(4)(F), “section 1342 of title 31” substituted for “section 3679(b) of the Revised Statutes (31 U.S.C. 665(b))” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In subsec. (f)(4)(E), “section 1342 of title 31” substituted for “section 3679(b) of the Revised Statutes (31 U.S.C. 665(b))” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 #### Amendments
+
+1996—Subsec. (f)(3). Pub. L. 104–104, §403(b), inserted before period at end “: and <i>Provided further</i>, That, in the alternative, an entity designated by the Commission may make the inspections referred to in this paragraph”.
+
+Subsec. (f)(4)(A). Pub. L. 104–104, §403(a)(1), in first sentence, inserted “or administering” after “for purposes of preparing”, “of” after “than the class”, and “or administered” after “being prepared”.
+
+Subsec. (f)(4)(B). Pub. L. 104–104, §403(a)(2), (5), redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows: “The Commission, for purposes of administering any examination for an amateur station operator license, may accept and employ the voluntary and uncompensated services of any individual who holds an amateur station operator license of a higher class than the class license for which the examination is being conducted. In the case of examinations for the highest class of amateur station operator license, the Commission may accept and employ such services of any individual who holds such class of license. Any person who owns a significant interest in, or is an employee of, any company or other entity which is engaged in the manufacture or distribution of equipment used in connection with amateur radio transmissions, or in the preparation or distribution of any publication used in preparation for obtaining amateur station operator licenses, shall not be eligible to render any service under this subparagraph.”
+
+Subsec. (f)(4)(C) to (G). Pub. L. 104–104, §403(a)(5), redesignated subpars. (D) to (H) as (C) to (G), respectively. Former subpar. (C) redesignated (B).
+
+Subsec. (f)(4)(H). Pub. L. 104–104, §403(a)(5), redesignated subpar. (I) as (H). Former subpar. (H) redesignated (G).
+
+Pub. L. 104–104, §403(a)(3), substituted “subparagraphs (A) and (B)” for “subparagraphs (A), (B), and (C)”.
+
+Subsec. (f)(4)(I). Pub. L. 104–104, §403(a)(5), redesignated subpar. (J) as (I). Former subpar. (I) redesignated (H).
+
+Subsec. (f)(4)(J). Pub. L. 104–104, §403(a)(4), (5), redesignated subpar. (J) as (I) and substituted “subparagraph (A) of this paragraph” for “subparagraph (A) or (B) of this paragraph” and struck out last sentence which read as follows: “The total amount of allowable cost reimbursement per examinee shall not exceed $4, adjusted annually every January 1 for changes in the Department of Labor Consumer Price Index.”
 
 1995—Subsec. (f)(4)(J). Pub. L. 104–66 struck out at end “Such individuals and organizations shall maintain records of out-of-pocket expenditures and shall certify annually to the Commission that all costs for which reimbursement was obtained were necessarily and prudently incurred.”
 
@@ -278,9 +290,9 @@ Subsec. (k). Act July 16, 1952, §3(d), required Commission to make more detaile
 
 1941—Subsec. (f). Act Mar. 23, 1941, designated existing provisions as par. (1) and added par. (2).
 
-1937—Subsec. (k). Act May 20, 1937, inserted provisions that the Commission report to Congress annually at the beginning session of the Congress whether new wire or radio communication legislation is necessaryand make specific recommendations thereof to Congress.
+1937—Subsec. (k). Act May 20, 1937, inserted provisions that the Commission report to Congress annually at the beginning session of the Congress whether new wire or radio communication legislation is necessary and make specific recommendations thereof to Congress.
 
-Subsec. (<i>o</i>). Act May 20, 1937, added subsec. (<i>o).</i>
+Subsec. (<i>o</i>). Act May 20, 1937, added subsec. (<i>o</i>).
 
 1936—Subsec. (f). Act Jan. 22, 1936, inserted references to a chief accountant and three assistants.
 

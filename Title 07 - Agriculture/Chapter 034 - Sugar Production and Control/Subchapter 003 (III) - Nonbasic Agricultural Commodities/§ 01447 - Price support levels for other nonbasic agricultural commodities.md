@@ -1,8 +1,12 @@
 ### §1447. Price support levels for other nonbasic agricultural commodities
 
-The Secretary is authorized to make available through loans, purchases, or other operations price support to producers for any nonbasic agricultural commodity not designated in sections 1446, 1446a, and 1446d of this title at a level not in excess of 90 per centum of the parity price for the commodity.
+The Secretary is authorized to make available through loans, purchases, or other operations price support to producers for any nonbasic agricultural commodity not designated in sections 1446, 1446a, and 1446d <sup>1</sup> of this title at a level not in excess of 90 per centum of the parity price for the commodity.
 
 (Oct. 31, 1949, ch. 792, title III, §301, 63 Stat. 1053; Sept. 29, 1977, Pub. L. 95–113, title X, §1003(a), 91 Stat. 950.)
+
+#### References in Text
+
+Section 1446d of this title, referred to in text, was omitted from the Code.
 
 #### Amendments
 
@@ -11,6 +15,10 @@ The Secretary is authorized to make available through loans, purchases, or other
 #### Effective and Termination Dates of 1977 Amendment
 
 Section 1003(a) of Pub. L. 95–113 provided that the amendment made by that section is effective only with respect to 1978 through 1981 crops.
+
+#### Inapplicability of Section
+
+Section inapplicable to 1996 through 2002 crops of loan commodities, peanuts, and sugar and inapplicable to milk during period beginning Apr. 4, 1996, and ending Dec. 31, 2002, see section 7301(b)(1)(I) of this title.
 
 #### Elimination of Wool and Mohair Programs
 
@@ -22,5 +30,7 @@ Section 1003(b) of Pub. L. 95–113 provided that: “The amendment made by this
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1446, 1449 of this title.
+This section is referred to in sections 1446, 1449, 7301 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

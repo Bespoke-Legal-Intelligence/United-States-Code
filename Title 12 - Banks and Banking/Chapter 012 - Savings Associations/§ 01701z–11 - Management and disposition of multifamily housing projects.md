@@ -26,7 +26,7 @@ The Secretary of Housing and Urban Development shall manage or dispose of multif
 
 &emsp;&emsp;(H) disposing of such projects in a manner consistent with local housing market conditions.
 
-> In determining the manner in which a project is to be managed or disposed of, the Secretary may balance competing goals relating to individualprojects in a manner that will further the purposes of this section.
+> In determining the manner in which a project is to be managed or disposed of, the Secretary may balance competing goals relating to individual projects in a manner that will further the purposes of this section.
 
 #### (b) Definitions
 
@@ -76,7 +76,7 @@ For purposes of this section:
 
 &emsp;&emsp;&emsp;(ii) by low-income families other than very low-income families, the rent does not exceed 30 percent of 80 percent of the area median income, as determined by the Secretary, with adjustments for smaller and larger families; or
 
-&emsp;&emsp;(B) the unit, or the family residing in the unit, is receiving assistance under section 8 of the United States Housing Act of 1937 \[42 U.S.C. 1437f\].
+&emsp;&emsp;(B) the unit, or the family residing in the unit, is receiving assistance under section 8of the United States Housing Act of 1937 \[42 U.S.C. 1437f\].
 
 #### (6) Low-income families and very low-income families
 
@@ -220,7 +220,7 @@ In disposing of multifamily housing property under this section, consistent with
 
 &emsp;&emsp;&emsp;&emsp;(I) upon the disposition of the project otherwise required to be assisted with project-based assistance under subparagraph (A)(i) or (B)(i), the Secretary shall make available tenant-based assistance under section 8 \[42 U.S.C. 1437f\] to low-income families residing in units otherwise required to be assisted with such project-based assistance; and
 
-&emsp;&emsp;&emsp;&emsp;(II) the number of units subject to use restrictions or provided assistance underclause (i) shall be at least equivalent to the number of units otherwise required to be assisted with project-based assistance under section 8 in accordance with subparagraph (A)(i) or (B)(i).
+&emsp;&emsp;&emsp;&emsp;(II) the number of units subject to use restrictions or provided assistance under clause (i) shall be at least equivalent to the number of units otherwise required to be assisted with project-based assistance under section 8 in accordance with subparagraph (A)(i) or (B)(i).
 
 #### (D) Unsubsidized projects
 
@@ -254,7 +254,7 @@ In disposing of multifamily housing property under this section, consistent with
 
 #### (B) Limitation for subsidized and formerly subsidized projects
 
-&emsp;&emsp;The Secretary may not take actions under this paragraph in connection with units in subsidized or formerly subsidized projects for more than 10 percent of the aggregate number of units in such projects disposed of by the Secretary in any fiscal year.
+&emsp;&emsp;The Secretary may not take actions under this paragraph in connection with units in subsidized or formerly subsidized projectsfor more than 10 percent of the aggregate number of units in such projects disposed of by the Secretary in any fiscal year.
 
 #### (3) Other assistance
 
@@ -408,7 +408,7 @@ Contracts for project-based rental assistance under section 8 of the United Stat
 
 #### (1) In general
 
-&emsp;Whenever tenants will be displaced as a result of the demolition of, repairs to, or conversion in the use of, a multifamily housing project that is owned by the Secretary (or forwhich the Secretary is mortgagee in possession), the Secretary shall identify tenants who will be displaced, and shall notify all such tenants of their pending displacement and of any relocation assistance that may be available. In the case of a multifamily housing project that is subject to a mortgage held by the Secretary, the Secretary shall require the owner of the project to carry out the requirements of this paragraph, if the Secretary has authorized the demolition of, repairs to, or conversion in the use of such multifamily housing project.
+&emsp;Whenever tenants will be displaced as a result of the demolition of, repairs to, or conversion in the use of, a multifamily housing project that is owned by the Secretary (or for which the Secretary is mortgagee in possession), the Secretary shall identify tenants who will be displaced, and shall notify all such tenants of their pending displacement and of any relocation assistance that may be available. In the case of a multifamily housing project that is subject to a mortgage held by the Secretary, the Secretary shall require the owner of the project to carry out the requirements of this paragraph, if the Secretary has authorized the demolition of, repairs to, or conversion in the use of such multifamily housing project.
 
 #### (2) Rights of displaced tenants
 
@@ -442,7 +442,7 @@ Contracts for project-based rental assistance under section 8 of the United Stat
 
 &emsp;Notwithstanding any provision of law that requires competitive sales or bidding, the Secretary may carry out negotiated sales of mortgages held by the Secretary, without the competitive selection of purchasers or intermediaries, to units of general local government or State agencies, or groups of investors that include at least one such unit of general local government or State agency, if the negotiations are conducted with such agencies, except that—
 
-&emsp;&emsp;(A) the terms of any such sale shall include the agreement of the purchasing agency or unit of local government or State agency to act as mortgagee or owner of a beneficial interest in such mortgages, in a manner consistent with maintaining the projects that are subject to such mortgages for occupancy by the general tenant group intended to be served by the applicable mortgage insurance program, including, to the extent the Secretary determines appropriate, authorizing such unit of local government or State agency to enforce the provisions of any regulatory agreement or other program requirements applicable to the related projects; and
+&emsp;&emsp;(A) the terms of any such sale shall include the agreement of the purchasing agency or unit of local government or State agency to act as mortgagee or owner of a beneficial interest in such mortgages, in amanner consistent with maintaining the projects that are subject to such mortgages for occupancy by the general tenant group intended to be served by the applicable mortgage insurance program, including, to the extent the Secretary determines appropriate, authorizing such unit of local government or State agency to enforce the provisions of any regulatory agreement or other program requirements applicable to the related projects; and
 
 &emsp;&emsp;(B) the sales prices for such mortgages shall be, in the determination of the Secretary, the best prices that may be obtained for such mortgages from a unit of general local government or State agency, consistent with the expectation and intention that the projects financed will be retained for use under the applicable mortgage insurance program for the life of the initial mortgage insurance contract.
 
@@ -466,7 +466,7 @@ Not later than June 1 of each year, the Secretary shall submit to the Congress a
 
 &emsp;(2) the geographic locations of the projects, by State and region;
 
-&emsp;(3) the years during which projects were assigned to the Department, and the average andmedian length of time that projects remain in the HUD-held inventory;
+&emsp;(3) the years during which projects were assigned to the Department, and the average and median length of time that projects remain in the HUD-held inventory;
 
 &emsp;(4) the status of HUD-held mortgages;
 
@@ -504,7 +504,7 @@ Section 23 of the United States Housing Act of 1937, referred to in subsecs. (b)
 
 The Emergency Low Income Housing Preservation Act of 1987, referred to in subsec. (c)(2)(E), is title II of Pub. L. 100–242, Feb. 5, 1988, 101 Stat. 1877, which, as amended by Pub. L. 101–625, is known as the Low-Income Housing Preservation and Resident Homeownership Act of 1990, and is classified principally to subchapter I (§4101 et seq.) of chapter 42 of this title. Subtitle C of the Low-Income Housing Preservation and Resident Homeownership Act of 1990, probably means subtitle C of title II of Pub. L. 100–242, as added by Pub. L. 102–550, which is classified generally to subchapter II (§4141 et seq.) of chapter 42 of this title. Another subtitle C of title II of Pub. L. 100–242 amended sections 1472, 1485, and 1487 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of this title and Tables.
 
-The Cranston-Gonzalez National Affordable Housing Act, referred to in subsec. (c)(2)(E), is Pub. L. 101–625, Nov. 28, 1990, 104 Stat. 4079. Subtitle B of title IV of the Act is classified principally to part A (§12871 et seq.) of subchapter IV of chapter 130 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 12701 of Title 42 and Tables.
+The Cranston-Gonzalez National Affordable Housing Act, referred to in subsec. (c)(2)(E), is Pub. L. 101–625, Nov. 28, 1990, 104 Stat. 4079. Subtitle B of title IV of the Act is classified principally to part A (§12871 et seq.) ofsubchapter IV of chapter 130 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 12701 of Title 42 and Tables.
 
 The Social Security Act, referred to in subsec. (f)(9), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended, which is classified generally to chapter 7 (§301 et seq.) of Title 42. Part A of title IV of the Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
@@ -520,7 +520,7 @@ Section was enacted as part of the Housing and Community Development Amendments 
 
 1994—Pub. L. 103–233 amended section generally, substituting present provisions for former provisions which related, in subsec. (a) to goals, in subsec. (b) to management or disposal of property by negotiated competitive bids, in subsec. (c) to maintenance of housing projects, in subsec. (d) to financial assistance to owner, in subsec. (e) to right of first refusal, in subsec. (f) to displacement of tenants and relocation assistance, in subsec. (g) to assignment or partial payment of mortgages, in subsec. (h) to limitations on certain project, loan, and mortgage sales, in subsec. (i) to definition of multifamily housing project, in subsec. (j) to rules and regulations, in subsec. (k) to annual report describing status of projects, and in subsec. (<i>l</i>) to project-based assistance.
 
-1993—Subsec. (<i>l</i>). Pub. L. 103–120 added subsec. (<i>l).</i>
+1993—Subsec. (<i>l</i>). Pub. L. 103–120 added subsec. (<i>l</i>).
 
 1990—Subsec. (a)(1)(B). Pub. L. 101–625, §579(a), struck out “or vacant” after “moderate-income persons”.
 
@@ -532,7 +532,7 @@ Subsec. (d)(2), (3). Pub. L. 101–625, §579(b)(2), (3), added par. (2) and red
 
 1988—Subsec. (a). Pub. L. 100–628, §1010(a), substituted “occupied by low- and moderate-income persons on the date of assignment or foreclosure (whichever is greater)” for “, on the date of assignment, occupied by low- and moderate-income persons” in par. (1)(C).
 
-Pub. L. 100–242, §181(a), substituted introductory provisions and par. (1) for former introductory provisionsand par. (1) which read as follows: “It is the policy of the United States that the Secretary of Housing and Urban Development (hereinafter referred to as the ‘Secretary’) shall manage and dispose of multifamily housing projects which are owned by the Secretary in a manner consistent with the National Housing Act and this section. The purpose of the property management and disposition program of the Department of Housing and Urban Development shall be to manage and dispose of projects in a manner which will protect the financial interests of the Federal Government and be less costly to the Federal Government than other reasonable alternatives by which the Secretary can further the goals of—
+Pub. L. 100–242, §181(a), substituted introductory provisions and par. (1) for former introductory provisions and par. (1) which read as follows: “It is the policy of the United States that the Secretary of Housing and Urban Development (hereinafter referred to as the ‘Secretary’) shall manage and dispose of multifamily housing projects which are owned by the Secretary in a manner consistent with the National Housing Act and this section. The purpose of the property management and disposition program of the Department of Housing and Urban Development shall be to manage and dispose of projects in a manner which will protect the financial interests of the Federal Government and be less costly to the Federal Government than other reasonable alternatives by which the Secretary can further the goals of—
 
 &emsp;“(1) preserving the housing units so that at least those units which are occupied by low- and moderate-income persons or which are vacant, at the time of acquisition, are available to and affordable by such persons;”.
 
@@ -606,5 +606,5 @@ Section 184 of Pub. L. 100–242, as amended by Pub. L. 101–625, title V, §58
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1713, 1715z–1a, 1735f–19, 1735f–20, 3706, 4102 of this title; title 42 sections 1437d, 1437f, 12877.
+This section is referred to in sections 1713, 1715z–1a, 1735f–19, 1735f–20, 3706, 4102 of this title; title 42 section 12877.
 

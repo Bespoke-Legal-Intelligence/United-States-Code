@@ -1,6 +1,6 @@
 ### §4102. Inspection of records by local officers
 
-Under regulations prescribed by the Secretary, records required to be kept with respect to taxes under this part shall be open to inspection by such officers of a State, or a political subdivision of any such State, as shall be charged with the enforcement or collection of any tax on any taxable fuel (as defined in section 4083).
+Under regulations prescribed by the Secretary, records required to be kept with respect to taxesunder this part shall be open to inspection by such officers of a State, or a political subdivision of any such State, as shall be charged with the enforcement or collection of any tax on any taxable fuel (as defined in section 4083).
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 484; Oct. 4, 1976, Pub. L. 94–455, title XII, §1202(c)(1), 90 Stat. 1686; Jan. 6, 1983, Pub. L. 97–424, title V, §515(b)(9), 96 Stat. 2182; Aug. 10, 1993, Pub. L. 103–66, title XIII, §13242(d)(2), 107 Stat. 522.)
 

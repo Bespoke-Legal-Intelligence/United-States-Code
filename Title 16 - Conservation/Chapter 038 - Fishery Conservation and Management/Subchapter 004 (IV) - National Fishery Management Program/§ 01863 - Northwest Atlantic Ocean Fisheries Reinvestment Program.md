@@ -16,7 +16,7 @@
 
 (2)
 
-Consultation.—In establishing and implementing the Northwest Fisheries ReinvestmentProgram, the Secretary shall consult with representatives of the commercial fishing industry, the seafood processing industry, and the academic community (including the National Sea Grant Program).
+Consultation.—In establishing and implementing the Northwest Fisheries Reinvestment Program, the Secretary shall consult with representatives of the commercial fishing industry, the seafood processing industry, and the academic community (including the National Sea Grant Program).
 
 (3)
 
@@ -24,7 +24,7 @@ Activities Under Program.—Subject to the availability of appropriations, the S
 
 (4)
 
-Authorization of Appropriations.—There are authorized to be appropriated $5,000,000 for each of fiscal years 1993 through 1997 to carry out the purposes of this section. For fiscal year 1993 no more than $1,000,000, and for fiscal year 1994 no more than $2,000,000, of such funds may be provided from monies made available under section 713c–3(b) of title 15.
+Authorization of Appropriations.—There are authorized to be appropriated $5,000,000 for each of fiscal years 1993 through 1999 to carry out the purposes of this section. For fiscal year 1993 no more than $1,000,000, and for fiscal year 1994 no more than $2,000,000, of such funds may be provided from monies made available under section 713c–3(b) of title 15.
 
 #### (b) Assistance of other agencies
 
@@ -38,11 +38,15 @@ The New England Fishery Management Council, in consultation with other appropria
 
 For purposes of this section, the term “underutilized species of the northwest Atlantic Ocean” means any fish species of the northwest Atlantic Ocean that is identified, by the Director of the Northeast Fisheries Center of the National Marine Fisheries Service, as an underutilized species.
 
-(Pub. L. 94–265, title III, §314, as added Pub. L. 102–567, title IX, §902(a), Oct. 29, 1992, 106 Stat. 4317.)
+(Pub. L. 94–265, title III, §314, as added Pub. L. 102–567, title IX, §902(a), Oct. 29, 1992, 106 Stat. 4317; amended Pub. L. 104–297, title I, §117(b), Oct. 11, 1996, 110 Stat. 3604.)
 
 #### References in Text
 
 The Food, Agriculture, Conservation, and Trade Act of 1990, referred to in subsec. (b), is Pub. L. 101–624, Nov. 28, 1990, 104 Stat. 3359, as amended. For complete classification of this Act to the Code, see Short Title of 1990 Amendment note set out under section 1421 of Title 7, Agriculture, and Tables.
+
+#### Amendments
+
+1996—Subsec. (a)(4). Pub. L. 104–297 substituted “1999” for “1997”.
 
 #### Section Referred to in Other Sections
 

@@ -34,7 +34,7 @@ Section 1(a) of Pub. L. 101–392 provided that: “This Act \[see Tables for cl
 
 #### Short Title of 1968 Amendment
 
-Pub. L. 90–576, §1, Oct. 16, 1968, 82 Stat. 1064, provided that: “This Act \[enacting sections 6, 1119c to 1119c–4, 1226, 1241 to 1248, 1261 to 1264, 1281 to 1284, 1301 to 1305, 1321 to 1323, 1341, 1351 to 1355, 1371 to 1374, and 1391 of this title, amending sections 237, 237 note, 238, 239, 240, 241, 403, 421, 422, 423, 423 note, 425, 425 note, 426, 441, 442, 442 note, 443, 444, 462, 464, 481, 482, 482 note, 483, 484, 491, 511, 521, 541, 551, 561, 563, 588, 589, 611, 633, 644, 645, 1202, and 1221 of this title, repealing sections 15i, 15i note, 15j to 15q, 15aa to 15jj, 15aaa to 15ggg, 30, 31 to 33, and 34 of this title and section 1667 of Title 48, Territories and Insular Possessions, and enacting provisions set out as notes under sections 6, 11, 240, 886, 1202, 1321, and 2301 of this title and section 2809 of Title 42, The Public Health and Welfare may be cited as the ‘Vocational Education Amendments of 1968’.”
+Pub. L. 90–576, §1, Oct. 16, 1968, 82 Stat. 1064, provided that: “This Act \[enacting sections 6, 1119c to 1119c–4, 1226, 1241 to 1248, 1261 to 1264, 1281 to 1284, 1301 to 1305, 1321 to 1323, 1341, 1351 to 1355, 1371 to 1374, and 1391 of this title, amending sections 237, 237 note, 238, 239, 240, 241, 403, 421, 422, 423, 423 note, 425, 425 note, 426, 441, 442,442 note, 443, 444, 462, 464, 481, 482, 482 note, 483, 484, 491, 511, 521, 541, 551, 561, 563, 588, 589, 611, 633, 644, 645, 1202, and 1221 of this title, repealing sections 15i, 15i note, 15j to 15q, 15aa to 15jj, 15aaa to 15ggg, 30, 31 to 33, and 34 of this title and section 1667 of Title 48, Territories and Insular Possessions, and enacting provisions set out as notes under sections 6, 11, 240, 886, 1202, 1321, and 2301 of this title and section 2809 of Title 42, The Public Health and Welfare may be cited as the ‘Vocational Education Amendments of 1968’.”
 
 #### Short Title
 
@@ -50,7 +50,7 @@ Part H (§§381–390) of title III of Pub. L. 88–210, which enacted part H (�
 
 Section 701 of Pub. L. 101–392 provided that: “Upon the enactment of the Carl D. Perkins Vocational and Applied Technology Education Act Amendments of 1990 \[Pub. L. 101–392, approved Sept. 25, 1990\], each State and eligible recipient of Federal financial assistance under a State plan submitted pursuant to section 113 of the Carl D. Perkins Vocational Education Act \[section 2323 of this title\] may expend funds currently available under the Carl D. Perkins Vocational Education Act \[this chapter\] to—
 
-&emsp;“(1) conduct planning for any program or activity authorized under the Carl D. Perkins Vocational andApplied Technology Education Act, including the development of a State plan under section 113 of such Act;
+&emsp;“(1) conduct planning for any program or activity authorized under the Carl D. Perkins Vocational and Applied Technology Education Act, including the development of a State plan under section 113 of such Act;
 
 &emsp;“(2) develop State and local standards and measures as required by section 115 of the Carl D. Perkins Vocational and Applied Technology Education Act \[section 2325 of this title\]; and
 

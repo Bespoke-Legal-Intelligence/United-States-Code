@@ -8,7 +8,7 @@
 
 &emsp;(3) who is in a position subject to this subchapter and who (but for this section) would be subject to a reduction in pay under circumstances prescribed by the Office of Personnel Management by regulation to warrant the application of this section; or
 
-&emsp;(4) who is in a position subject to this subchapter and who is subject to a reduction or termination of a rate of pay established under subchapter IX of chapter 53;
+&emsp;(4) who is in a position subject to this subchapter and who is subject to a reduction ortermination of a rate of pay established under subchapter IX of chapter 53;
 
 > is entitled to basic pay at a rate equal to (A) the employee's allowable former rate of basic pay, plus (B) 50 percent of the amount of each increase in the maximum rate of basic pay payable for the grade of the employee's position immediately after such reduction in pay if such allowable former rate exceeds such maximum rate for such grade.
 
@@ -34,9 +34,9 @@ A prior section 5363, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 473, which relat
 
 #### Amendments
 
-<b>1993</b>—Subsec. (c)(2). Pub. L. 103–89 substituted “chapter 51 or 53” for “chapter 51, 53, or 54”.
+1993—Subsec. (c)(2). Pub. L. 103–89 substituted “chapter 51 or 53” for “chapter 51, 53, or 54”.
 
-<b>1990</b>—Subsec. (a)(2) to (4). Pub. L. 101–509 substituted “5305 of this title (or corresponding prior provision of this title);” for “5303 of this title; or” in par. (2), inserted “or” at end of par. (3), and added par. (4).
+1990—Subsec. (a)(2) to (4). Pub. L. 101–509 substituted “5305 of this title (or corresponding prior provision of this title);” for “5303 of this title; or” in par. (2), inserted “or” at end of par. (3), and added par. (4).
 
 #### Effective Date of 1993 Amendment
 

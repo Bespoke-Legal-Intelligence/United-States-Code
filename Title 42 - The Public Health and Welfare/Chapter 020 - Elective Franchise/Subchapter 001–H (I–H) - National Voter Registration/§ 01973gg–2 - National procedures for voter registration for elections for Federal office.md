@@ -18,13 +18,25 @@ Except as provided in subsection (b) of this section, notwithstanding any other 
 
 This subchapter does not apply to a State described in either or both of the following paragraphs:
 
-&emsp;(1) A State in which, under law that is in effect continuously on and after March 11, 1993, there is no voter registration requirement for any voter in the State with respect to an election for Federal office.
+&emsp;(1) A State in which, under law that is in effect continuously on and after August 1, 1994, there is no voter registration requirement for any voter in the State with respect to an election for Federal office.
 
-&emsp;(2) A State in which, under law that is in effect continuously on and after March 11, 1993, or that was enacted on or prior to March 11, 1993, and by its terms is to come into effect upon the enactment of this subchapter, so long as that law remains in effect, all voters in the State may register to vote at the polling place at the time of voting in a general election for Federal office.
+&emsp;(2) A State in which, under law that is in effect continuously on and after August 1, 1994, or that was enacted on or prior to August 1, 1994, and by its terms is to come into effect upon the enactment of this subchapter, so long as that law remains in effect, all voters in the State may register to vote at the polling place at the time of voting in a general election for Federal office.
 
-(Pub. L. 103–31, §4, May 20, 1993, 107 Stat. 78.)
+(Pub. L. 103–31, §4, May 20, 1993, 107 Stat. 78; Pub. L. 104–91, title I, §101(a), Jan. 6, 1996, 110 Stat. 11, amended Pub. L. 104–99, title II, §211, Jan. 26, 1996, 110 Stat. 37.)
 
 #### References in Text
 
 Upon the enactment of this subchapter, referred to in subsec. (b)(2), means the date of enactment of Pub. L. 103–31, which was approved May 20, 1993.
+
+#### Codification
+
+Amendment by Pub. L. 104–91 is based on section 116(a) of H.R. 2076, One Hundred Fourth Congress, as passed by the House of Representatives on Dec. 6, 1995, which was enacted into law by Pub. L. 104–91.
+
+#### Amendments
+
+1996—Subsec. (b). Pub. L. 104–91, as amended by Pub. L. 104–99, substituted “August 1, 1994” for “March 11, 1993” wherever appearing.
+
+#### Effective Date of 1996 Amendment
+
+Section 116(b) of H.R. 2076, One Hundred Fourth Congress, as passed by the House of Representatives on Dec. 6, 1995, and as enacted into law by Pub. L. 104–91, title I, §101(a), Jan. 6, 1996, 110 Stat. 11, as amended by Pub. L. 104–99, title II, §211, Jan. 26, 1996, 110 Stat. 37, provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect as if included in the provisions of the National Voter Registration Act of 1993 \[Pub. L. 103–31\].”
 

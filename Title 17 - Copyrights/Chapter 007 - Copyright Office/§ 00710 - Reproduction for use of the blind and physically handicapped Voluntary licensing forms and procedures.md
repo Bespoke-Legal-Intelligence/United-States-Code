@@ -4,3 +4,7 @@ The Register of Copyrights shall, after consultation with the Chief of the Divis
 
 (Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2594.)
 
+#### Section Referred to in Other Sections
+
+This section is referred to in section 121 of this title.
+

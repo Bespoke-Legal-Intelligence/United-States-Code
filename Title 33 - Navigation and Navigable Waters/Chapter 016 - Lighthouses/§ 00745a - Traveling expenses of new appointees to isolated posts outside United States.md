@@ -6,7 +6,7 @@ In all appropriations hereafter made for “General expenses, Coast Guard,” th
 
 #### Transfer of Functions
 
-“Coast Guard” substituted in text for “Lighthouse Service” on authority of Reorg. Plan No. II of 1939,§2(a), set out in the Appendix to Title 5, Government Organization and Employees, which transferred and consolidated Bureau of Lighthouses, of which Lighthouse Service was a part, with Coast Guard.
+“Coast Guard” substituted in text for “Lighthouse Service” on authority of Reorg. Plan No. II of 1939, §2(a), set out in the Appendix to Title 5, Government Organization and Employees, which transferred and consolidated Bureau of Lighthouses, of which Lighthouse Service was a part, with Coast Guard.
 
 For transfer of functions of other officers, employees, and agencies of Department of the Treasury, with certain exceptions, to Secretary of the Treasury with power to delegate, see Reorg. Plan No. 26 of 1950, §§1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5. Functions of Coast Guard, and Commandant of Coast Guard, were excepted from transfer when Coast Guard is operating as part of Navy under sections 1 and 3 of Title 14, Coast Guard.
 

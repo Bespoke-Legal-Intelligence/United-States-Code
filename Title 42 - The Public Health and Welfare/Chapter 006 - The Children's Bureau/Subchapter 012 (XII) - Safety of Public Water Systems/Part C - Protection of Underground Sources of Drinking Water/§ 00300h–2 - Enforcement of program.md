@@ -22,7 +22,7 @@ Civil actions referred to in paragraphs (1) and (2) of subsection (a) of this se
 
 &emsp;(B) any underground injection for the secondary or tertiary recovery of oil or natural gas,
 
-> the Administrator may also issue an order under this subsection either assessing a civil penalty of not more than $10,000 for each day of violation for any past or current violation, up to a maximum administrative penalty of $125,000, or requiring compliance with such regulation or other requirement, or both.
+> the Administrator may also issue an order under this subsection either assessing a civil penaltyof not more than $10,000 for each day of violation for any past or current violation, up to a maximum administrative penalty of $125,000, or requiring compliance with such regulation or other requirement, or both.
 
 (2) In any case in which the Administrator is authorized to bring a civil action under this section with respect to any regulation, or other requirement of this part relating to—
 
@@ -64,9 +64,9 @@ Civil actions referred to in paragraphs (1) and (2) of subsection (a) of this se
 
 #### (d) State authority to adopt or enforce laws or regulations respecting underground injection unaffected
 
-Nothing in this subchapter shall diminish any authority of a State or political subdivision to adopt or enforce any law or regulation respecting underground injection but no such law or regulation shall relieve any person of any requirement otherwise applicable under this subchapter.
+Nothing in this subchapter shall diminish any authority of a State or political subdivision toadopt or enforce any law or regulation respecting underground injection but no such law or regulation shall relieve any person of any requirement otherwise applicable under this subchapter.
 
-(July 1, 1944, ch. 373, title XIV, §1423, as added Dec. 16, 1974, Pub. L. 93–523, §2(a), 88 Stat. 1677;amended Dec. 5, 1980, Pub. L. 96–502, §2(b), 94 Stat. 2738; June 19, 1986, Pub. L. 99–339, title II, §202, 100 Stat. 654.)
+(July 1, 1944, ch. 373, title XIV, §1423, as added Dec. 16, 1974, Pub. L. 93–523, §2(a), 88 Stat. 1677; amended Dec. 5, 1980, Pub. L. 96–502, §2(b), 94 Stat. 2738; June 19, 1986, Pub. L. 99–339, title II, §202, 100 Stat. 654.)
 
 #### Amendments
 

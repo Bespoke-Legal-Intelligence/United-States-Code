@@ -3,12 +3,7 @@
 | Sec. |  |
 | :--- | ---: |
 | [4081\.](%C2%A7%2004081%20-%20Classification%20and%20treatment%20of%20prisoners.md) | Classification and treatment of prisoners. |
-| [4082\.](%C2%A7%2004082%20-%20Commitment%20to%20Attorney%20General%3B%20residential%20treatment%20centers%3B%20extension%20of%20limits%20of%20confinement%3B%20work%20furlough.md) | Commitment to Attorney General; residential treatment centers,<sup>1</sup> extension of limits of confinement; work furlough. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |
-| :--- | ---: |
+| [4082\.](%C2%A7%2004082%20-%20Commitment%20to%20Attorney%20General%3B%20residential%20treatment%20centers%3B%20extension%20of%20limits%20of%20confinement%3B%20work%20furlough.md) | Commitment to Attorney General; residential treatment centers; extension of limits of confinement; work furlough. |
 | [4083\.](%C2%A7%2004083%20-%20Penitentiary%20imprisonment%3B%20consent.md) | Penitentiary imprisonment; consent. |
 | 4084\. | Repealed. |
 | 4085\. | Repealed. |
@@ -18,6 +13,8 @@
 
 #### Amendments
 
+1996—Pub. L. 104–294, title VI, §601(f)(14), Oct. 11, 1996, 110 Stat. 3500, substituted “centers;” for “centers,” in item 4082.
+
 1984—Pub. L. 98–473, title II, §218(e), Oct. 12, 1984, 98 Stat. 2027, substituted “Repealed” for “Copy of commitment delivered with prisoner” in item 4084, and “Repealed” for “Transfer for state offense; expense” in item 4085.
 
 1965—Pub. L. 89–176, §2, Sept. 10, 1965, 79 Stat. 675, substituted “residential treatment centers, extension of limits of confinement; work furlough” for “transfer” in item 4082.
@@ -25,8 +22,6 @@
 #### Chapter Referred to in Other Sections
 
 This chapter is referred to in title 10 section 955.
-
-<i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
 
 
 ---

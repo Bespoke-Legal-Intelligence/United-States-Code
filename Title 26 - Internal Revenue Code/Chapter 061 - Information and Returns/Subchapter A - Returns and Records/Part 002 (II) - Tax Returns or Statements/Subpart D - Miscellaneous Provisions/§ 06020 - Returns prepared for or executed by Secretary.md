@@ -40,5 +40,5 @@ Limitations on assessment and collection, see section 6501 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 6229, 6501, 6664 of this title.
+This section is referred to in sections 6229, 6501, 6651, 6664 of this title.
 

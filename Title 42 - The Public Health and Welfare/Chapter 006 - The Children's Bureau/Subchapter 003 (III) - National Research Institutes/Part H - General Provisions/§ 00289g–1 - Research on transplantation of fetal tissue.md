@@ -56,7 +56,7 @@ In research carried out under subsection (a) of this section, human fetal tissue
 
 &emsp;(2) has provided such information to other individuals with responsibilities regarding the research;
 
-&emsp;(3) will require, prior to obtaining the consent of an individual to be a recipient of a transplantation of the tissue, written acknowledgment of receipt of such information by such recipient; and
+&emsp;(3) will require, prior to obtaining the consent of an individual to be a recipient of atransplantation of the tissue, written acknowledgment of receipt of such information by such recipient; and
 
 &emsp;(4) has had no part in any decisions as to the timing, method, or procedures used to terminate the pregnancy made solely for the purposes of the research.
 
@@ -88,7 +88,7 @@ In research carried out under subsection (a) of this section, human fetal tissue
 
 #### (f) Report
 
-The Secretary shall annually submit to the Committee on Energy and Commerce of the House of Representatives, and to the Committee on Labor and Human Resources of the Senate, a report describing the activities carried out under this section during the preceding fiscalyear, including a description of whether and to what extent research under subsection (a) of this section has been conducted in accordance with this section.
+The Secretary shall annually submit to the Committee on Energy and Commerce of the House of Representatives, and to the Committee on Labor and Human Resources of the Senate, a report describing the activities carried out under this section during the preceding fiscal year, including a description of whether and to what extent research under subsection (a) of this section has been conducted in accordance with this section.
 
 #### (g) “Human fetal tissue” defined
 

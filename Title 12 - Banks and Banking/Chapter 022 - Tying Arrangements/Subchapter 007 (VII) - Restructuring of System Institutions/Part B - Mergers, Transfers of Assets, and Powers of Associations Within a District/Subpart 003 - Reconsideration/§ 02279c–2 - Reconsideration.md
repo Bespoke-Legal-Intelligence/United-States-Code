@@ -26,11 +26,11 @@ A stockholder vote in favor of—
 
 #### (2) Effective date
 
-&emsp;A voluntary merger, transfer, or termination that is approved by a vote of the stockholders of two or more banks or associations shall not take effect until the expiration of 30 days after the date on which the stockholders of such banks or associations are notified of the final result of the vote in accordance with paragraph (1).
+&emsp;A voluntary merger, transfer, or termination that is approved by a vote of the stockholders of two or more banks or associations shall not take effect until the expiration of 30days after the date on which the stockholders of such banks or associations are notified of the final result of the vote in accordance with paragraph (1).
 
 #### (3) Petition filed
 
-&emsp;If a petition for reconsideration of a merger, transfer, or termination vote, signed by atleast 15 percent of the stockholders of one or more of the affected banks or associations, is presented to the Farm Credit Administration within 30 days after the date of the notification required under paragraph (1)—
+&emsp;If a petition for reconsideration of a merger, transfer, or termination vote, signed by at least 15 percent of the stockholders of one or more of the affected banks or associations, is presented to the Farm Credit Administration within 30 days after the date of the notification required under paragraph (1)—
 
 &emsp;&emsp;(A) a voluntary merger, transfer, or termination shall not take effect until the expiration of 60 days after the date on which the stockholders were notified of the final result of the vote; and
 

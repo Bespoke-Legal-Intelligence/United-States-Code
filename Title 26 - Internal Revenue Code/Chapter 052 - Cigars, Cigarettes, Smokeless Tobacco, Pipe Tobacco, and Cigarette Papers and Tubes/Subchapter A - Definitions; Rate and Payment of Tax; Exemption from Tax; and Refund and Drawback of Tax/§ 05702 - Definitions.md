@@ -56,7 +56,7 @@ When used in this chapter—
 
 #### (<i>l</i>) Importer
 
-“Importer” means any person in the United States to whom nontaxpaid tobacco products or cigarette papers or tubes manufactured in a foreign country, Puerto Rico, the Virgin Islands, or a possession of the United States are shipped or consigned; any person who removes cigars or cigarettes for sale or consumption in the United States from a customs bonded manufacturing warehouse; and any person who smuggles or otherwise unlawfully brings tobacco products or cigarette papers or tubes into the United States.
+“Importer” means any person in the United States to whom nontaxpaid tobacco products orcigarette papers or tubes manufactured in a foreign country, Puerto Rico, the Virgin Islands, or a possession of the United States are shipped or consigned; any person who removes cigars or cigarettes for sale or consumption in the United States from a customs bonded manufacturing warehouse; and any person who smuggles or otherwise unlawfully brings tobacco products or cigarette papers or tubes into the United States.
 
 #### (m) Determination of price on cigars
 
@@ -142,13 +142,13 @@ Subsec. (i). Pub. L. 85–859 substituted “into books or sets containing more 
 
 Subsec. (j). Pub. L. 85–859 substituted provisions defining “export warehouse” for provisions which defined “article” as manufactured tobacco, cigars, cigarettes, and cigarette papers and tubes.
 
-Subsec. (k). Pub. L. 85–859 added subsec. (k) and redesignated former subsec. (k) as (<i>l).</i>
+Subsec. (k). Pub. L. 85–859 added subsec. (k) and redesignated former subsec. (k) as (<i>l</i>).
 
 Subsec. (<i>l</i>). Pub. L. 85–859 redesignated former subsec. (k) as (<i>l</i>) and substituted “other than manufactured tobacco, cigars, and cigarettes” for “in process, leaf tobacco, and tobacco scraps, cuttings, clippings, siftings, dust, stems, and waste”. Former subsec. (<i>l</i>) redesignated (m).
 
 Subsec. (m). Pub. L. 85–859 redesignated former subsec. (<i>l</i>) as (m) and included within the definition persons who receive tobacco materials, other than stems and waste, for use in the production of fertilizer, insecticide, or nicotine, required associations of farmers or growers of tobacco to maintain records of all leaf tobacco acquired or received and sold or otherwise disposed of, and excluded from the definition persons who buy leaf tobacco without taking physical possession of the tobacco and qualified manufacturers of tobacco products. Former subsec. (m) redesignated (n).
 
-Subsec. (n). Pub. L. 85–859 redesignated former subsec. (m) as (n) and substituted “tobacco products or cigarette papers or tubes” for “articles”. Former subsec. (n) redesignated (<i>o).</i>
+Subsec. (n). Pub. L. 85–859 redesignated former subsec. (m) as (n) and substituted “tobacco products or cigarette papers or tubes” for “articles”. Former subsec. (n) redesignated (<i>o</i>).
 
 Subsec. (<i>o</i>). Pub. L. 85–859 redesignated former subsec. (n) as (<i>o</i>) and substituted “tobacco products or cigarette papers or tubes” for “articles” in two places, and inserted provisions to include within the definition persons who remove cigars or cigarettes for sale or consumption in the United States from a customs bonded manufacturing warehouse.
 

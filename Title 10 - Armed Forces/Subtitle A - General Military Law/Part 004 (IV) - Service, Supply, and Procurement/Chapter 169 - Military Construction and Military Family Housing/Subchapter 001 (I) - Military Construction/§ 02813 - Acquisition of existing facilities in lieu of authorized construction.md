@@ -20,13 +20,13 @@ Modification or Conversion of Acquired Facility.—(1) As part of the acquisitio
 
 (c)
 
-Notice and Wait Requirements.—A contract may not be entered into for the acquisition of a facility under subsection (a) until the end of the 30-day period beginning on the date the Secretary concerned transmits to the Committees on Armed Services and the Committees on Appropriations of the Senate and House of Representatives a written notification of the determination to acquire an existing facility instead of carrying out the authorized military construction project. The notification shall include the reasons for acquiring the facility.
+Notice and Wait Requirements.—A contract may not be entered into for the acquisition of a facility under subsection (a) until the end of the 30-day period beginning on the date the Secretary concerned transmits to the appropriate committees of Congress a written notification of the determination to acquire an existing facility instead of carrying out the authorized military construction project. The notification shall include the reasons for acquiring the facility.
 
-(Added Pub. L. 103–160, div. B, title XXVIII, §2805(a)(1), Nov. 30, 1993, 107 Stat. 1886.)
+(Added Pub. L. 103–160, div. B, title XXVIII, §2805(a)(1), Nov. 30, 1993, 107 Stat. 1886; amended Pub. L. 104–106, div. A, title XV, §1502(a)(25), Feb. 10, 1996, 110 Stat. 506.)
 
-#### Change of Name
+#### Amendments
 
-Committee on Armed Services of House of Representatives treated as referring to Committee on National Security of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+1996—Subsec. (c). Pub. L. 104–106 substituted “appropriate committees of Congress” for “Committees on Armed Services and the Committees on Appropriations of the Senate and House of Representatives”.
 
 #### Effective Date
 

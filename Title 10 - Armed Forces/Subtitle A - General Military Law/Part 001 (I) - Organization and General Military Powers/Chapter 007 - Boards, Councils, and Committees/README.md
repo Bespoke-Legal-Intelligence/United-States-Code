@@ -12,10 +12,13 @@
 | [178\.](%C2%A7%2000178%20-%20The%20Henry%20M.%20Jackson%20Foundation%20for%20the%20Advancement%20of%20Military%20Medicine.md) | The Henry M. Jackson Foundation for the Advancement of Military Medicine. |
 | [179\.](%C2%A7%2000179%20-%20Nuclear%20Weapons%20Council.md) | Nuclear Weapons Council. |
 | [180\.](%C2%A7%2000180%20-%20Service%20academy%20athletic%20programs%20review%20board.md) | Service academy athletic programs: review board. |
+| [181\.](%C2%A7%2000181%20-%20Joint%20Requirements%20Oversight%20Council.md) | Joint Requirements Oversight Council. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1996—Pub. L. 104–106, div. A, title IX, §905(a)(2), Feb. 10, 1996, 110 Stat. 404, added item 181.
 
 1991—Pub. L. 102–190, div. A, title V, §513(b), Dec. 5, 1991, 105 Stat. 1361, added item 180.
 
@@ -42,3 +45,4 @@ Pub. L. 98–36, §2(b), May 27, 1983, 97 Stat. 201, added item 178.
 - [&sect; 00178 - The Henry M. Jackson Foundation for the Advancement of Military Medicine](%C2%A7%2000178%20-%20The%20Henry%20M.%20Jackson%20Foundation%20for%20the%20Advancement%20of%20Military%20Medicine.md)
 - [&sect; 00179 - Nuclear Weapons Council](%C2%A7%2000179%20-%20Nuclear%20Weapons%20Council.md)
 - [&sect; 00180 - Service academy athletic programs review board](%C2%A7%2000180%20-%20Service%20academy%20athletic%20programs%20review%20board.md)
+- [&sect; 00181 - Joint Requirements Oversight Council](%C2%A7%2000181%20-%20Joint%20Requirements%20Oversight%20Council.md)

@@ -56,9 +56,7 @@
 | (a) | Eligibility of displaced homemakers and single parents for Federal assistance for first-time homebuyers. |
 | (b) | Definitions. |
 | (c) | Applicability. |
-| [12714\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions%20and%20Policies/%C2%A7%2012714%20-%20Maximum%20annual%20limitation%20on%20rent%20increases%20resulting%20from%20employment.md) | Maximum annual limitation on rent increases resulting from employment. |
-| (a) | In general. |
-| (b) | “Housing assistance program” defined. |
+| [12714\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions%20and%20Policies/%C2%A7%2012714%20-%20Repealed.%20Pub.%20L.%20104%E2%80%9399%2C%20title%20IV%2C%20%C2%A7404%28a%29%2C%20Jan.%2026%2C%201996%2C%20110%20Stat.%2044.md) | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -448,6 +446,7 @@
 | (c) | Application preparation. |
 | (d) | Reservation of funds. |
 | [12899h.](Subchapter%20004%20%28IV%29%20-%20HOPE%20for%20Homeownership%20of%20Multifamily%20and%20Single%20Family%20Homes/Part%20C%20-%20HOPE%20for%20Youth%20Youthbuild/%C2%A7%2012899h%20-%20Contracts.md) | Contracts. |
+| 12899h–1. | Ineligibility of Indian tribes. |
 | [12899i.](Subchapter%20004%20%28IV%29%20-%20HOPE%20for%20Homeownership%20of%20Multifamily%20and%20Single%20Family%20Homes/Part%20C%20-%20HOPE%20for%20Youth%20Youthbuild/%C2%A7%2012899i%20-%20Regulations.md) | Regulations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

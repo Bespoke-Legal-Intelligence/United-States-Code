@@ -88,7 +88,7 @@ Ex. Ord. No. 11749, Dec. 10, 1973, 38 F.R. 34177, which related to consolidation
 
 Ex. Ord. No. 11795, July 11, 1974, 39 F.R. 25939, as amended by Ex. Ord. No. 11910, Apr. 13, 1976, 41 F.R. 15681; Ex. Ord. No. 12148, July 20, 1979, 44 F.R. 43239; Ex. Ord. No. 12673, Mar. 23, 1989, 54 F.R. 12571, provided:
 
-By virtue of the authority vested in me by the Disaster Relief Act of 1974 (Public Law 93–288; 88 Stat. 143) \[see References to Disaster Relief Act of 1974 note above\], section 301 of title 3 of the United States Code, and as President of the United States of America, it is hereby ordered as follows:
+By virtue of the authority vested in me by the Disaster Relief Act of 1974 (Public Law 93–288; 88 Stat. 143) \[see References to Disaster Relief Act of 1974 noteabove\], section 301 of title 3 of the United States Code, and as President of the United States of America, it is hereby ordered as follows:
 
 \[
 

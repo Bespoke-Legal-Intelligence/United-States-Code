@@ -4,7 +4,7 @@ Section, acts Sept. 23, 1950, ch. 1024, title I, §2, 64 Stat. 987; Jan. 2, 1968
 
 #### Short Title of 1954 Amendment
 
-Act Aug. 24, 1954, ch. 886, §1, 68 Stat. 775, provided: “That this Act \[enacting sections 792a and 841 to 844 of this title, amending sections 782, 784, 785, 789 to 792, and 793 of this title, and enacting a provision set out as a note under section 841 of this title\] may be cited as the ‘Communist Control Act of 1954’.”
+Act Aug. 24, 1954, ch. 886, §1, 68 Stat. 775, provided: “That this Act \[enacting sections 792a and 841 to 844 ofthis title, amending sections 782, 784, 785, 789 to 792, and 793 of this title, and enacting a provision set out as a note under section 841 of this title\] may be cited as the ‘Communist Control Act of 1954’.”
 
 #### Short Title
 
@@ -14,5 +14,5 @@ Section 1(a) of act Sept. 23, 1950, which provided that title I of act Sept. 23,
 
 #### Separability
 
-Section 32 of title I of act Sept. 23, 1950, provided: “If any provision of this title \[see Short Title note above\] or the application thereof to any person or circumstances, is held invalid, the remaining provisions of this title, or the application of such provision to otherpersons or circumstances, shall not be affected thereby.”
+Section 32 of title I of act Sept. 23, 1950, provided: “If any provision of this title \[see Short Title note above\] or the application thereof to any person or circumstances, is held invalid, the remaining provisions of this title, or the application of such provision to other persons or circumstances, shall not be affected thereby.”
 

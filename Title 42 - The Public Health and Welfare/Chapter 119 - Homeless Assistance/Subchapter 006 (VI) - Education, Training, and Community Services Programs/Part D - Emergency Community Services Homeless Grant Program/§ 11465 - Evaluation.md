@@ -8,7 +8,7 @@ It is the purpose of this section to develop as rapidly as practicable, informat
 
 In carrying out the purpose described in subsection (a) of this section, the Secretary shall conduct evaluations that shall include—
 
-&emsp;(1) the use of cost and utilization data collected under the Primary Health Care for the Homeless Program under section 340 of the Public Health Service Act \[42 U.S.C. 256\] to conduct an evaluation, in consultation with organizations receiving grants under this subchapter and with the national representatives of such organizations, of the impact of health, case management and referral services provided by a representative sample of grantees concerning client outcome;
+&emsp;(1) the use of cost and utilization data collected under the Primary Health Care for the Homeless Program under section 340 of the Public Health Service Act <sup>1</sup> to conduct an evaluation, in consultation with organizations receiving grants under this subchapter and with the national representatives of such organizations, of the impact of health, case management and referral services provided by a representative sample of grantees concerning client outcome;
 
 &emsp;(2) under part C of title V,<sup>1</sup> an evaluation of the need for and availability of services for individuals who are homeless or at risk of becoming homeless that have a serious mental illness or substance abuse problem, with special attention paid to the service needs of the dually diagnosed;
 
@@ -19,6 +19,8 @@ In carrying out the purpose described in subsection (a) of this section, the Sec
 (Pub. L. 100–77, title VII, §755, as added Pub. L. 101–645, title VI, §641, Nov. 29, 1990, 104 Stat. 4746.)
 
 #### References in Text
+
+Section 340 of the Public Health Service Act, referred to in subsec. (b)(1), is section 340 of act July 1, 1944, which was classified to section 256 of this title prior to repeal by Pub. L. 104–299, §4(a)(3), Oct. 11, 1996, 110 Stat. 3645.
 
 This subchapter, referred to in subsec. (b)(1), was in the original “this title”, meaning title VII of Pub. L. 100–77, which enacted this subchapter and amended sections 1205 and 1207a of Title 20, Education, and sections 1503 and 1551 of Title 29, Labor.
 

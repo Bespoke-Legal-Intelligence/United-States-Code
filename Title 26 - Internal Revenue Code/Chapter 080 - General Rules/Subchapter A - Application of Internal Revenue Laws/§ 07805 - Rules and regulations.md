@@ -4,9 +4,45 @@
 
 Except where such authority is expressly given by this title to any person other than an officer or employee of the Treasury Department, the Secretary shall prescribe all needful rules and regulations for the enforcement of this title, including all rules and regulations as may be necessary by reason of any alteration of law in relation to internal revenue.
 
-#### (b) Retroactivity of regulations or rulings
+#### (b) Retroactivity of regulations
 
-The Secretary may prescribe the extent, if any, to which any ruling or regulation, relating to the internal revenue laws, shall be applied without retroactive effect.
+#### (1) In general
+
+&emsp;Except as otherwise provided in this subsection, no temporary, proposed, or final regulation relating to the internal revenue laws shall apply to any taxable period ending before the earliest of the following dates:
+
+&emsp;&emsp;(A) The date on which such regulation is filed with the Federal Register.
+
+&emsp;&emsp;(B) In the case of any final regulation, the date on which any proposed or temporary regulation to which such final regulation relates was filed with the Federal Register.
+
+&emsp;&emsp;(C) The date on which any notice substantially describing the expected contents of any temporary, proposed, or final regulation is issued to the public.
+
+#### (2) Exception for promptly issued regulations
+
+&emsp;Paragraph (1) shall not apply to regulations filed or issued within 18 months of the date of the enactment of the statutory provision to which the regulation relates.
+
+#### (3) Prevention of abuse
+
+&emsp;The Secretary may provide that any regulation may take effect or apply retroactively to prevent abuse.
+
+#### (4) Correction of procedural defects
+
+&emsp;The Secretary may provide that any regulation may apply retroactively to correct a procedural defect in the issuance of any prior regulation.
+
+#### (5) Internal regulations
+
+&emsp;The limitation of paragraph (1) shall not apply to any regulation relating to internal Treasury Department policies, practices, or procedures.
+
+#### (6) Congressional authorization
+
+&emsp;The limitation of paragraph (1) may be superseded by a legislative grant from Congress authorizing the Secretary to prescribe the effective date with respect to any regulation.
+
+#### (7) Election to apply retroactively
+
+&emsp;The Secretary may provide for any taxpayer to elect to apply any regulation before the dates specified in paragraph (1).
+
+#### (8) Application to rulings
+
+&emsp;The Secretary may prescribe the extent, if any, to which any ruling (including any judicial decision or any administrative determination other than by regulation) relating to the internal revenue laws shall be applied without retroactive effect.
 
 #### (c) Preparation and distribution of regulations, forms, stamps, and other matters
 
@@ -48,9 +84,15 @@ Except to the extent otherwise provided by this title, any election under this t
 
 &emsp;&emsp;(B) the consideration (and discussion) required under paragraph (2) shall be made in connection with the promulgation of such final regulation.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 917; Oct. 4, 1976, Pub. L. 94–455, title XIX, §1906(b)(13)(A), 90 Stat.1834; July 18, 1984, Pub. L. 98–369, div. A, title I, §43(b), 98 Stat. 558; Nov. 10, 1988, Pub. L. 100–647, title VI, §6232(a), 102 Stat. 3734; Nov. 5, 1990, Pub. L. 101–508, title XI, §11621(a), 104 Stat. 1388–503.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 917; Oct. 4, 1976, Pub. L. 94–455, title XIX, §1906(b)(13)(A), 90 Stat. 1834; July 18, 1984, Pub. L. 98–369, div. A, title I, §43(b), 98 Stat. 558; Nov. 10, 1988, Pub. L. 100–647, title VI, §6232(a), 102 Stat. 3734; Nov. 5, 1990, Pub. L. 101–508, title XI, §11621(a), 104 Stat. 1388–503; July 30, 1996, Pub. L. 104–168, title XI, §1101(a), 110 Stat. 1468.)
+
+#### References in Text
+
+The internal revenue laws, referred to in subsec. (b)(1), (8), are classified generally to this title.
 
 #### Amendments
+
+1996—Subsec. (b). Pub. L. 104–168 struck out “or rulings” after “regulations” in heading and amended text generally. Prior to amendment, text read as follows: “The Secretary may prescribe the extent, if any, to which any ruling or regulation, relating to the internal revenue laws, shall be applied without retroactive effect.”
 
 1990—Subsec. (f). Pub. L. 101–508 substituted heading for one which read “Impact of regulations on small business reviewed” and amended text generally. Prior to amendment, text read as follows: “After the publication of any proposed regulation by the Secretary and before the promulgation of any final regulation by the Secretary which does not supersede a proposed regulation, the Secretary shall submit such regulation to the Administrator of the Small Business Administration for comment on the impact of such regulation on small business. The Administrator shall have 4 weeks from the date of submission to respond.”
 
@@ -59,6 +101,10 @@ Except to the extent otherwise provided by this title, any election under this t
 1984—Pub. L. 98–369 added subsec. (d).
 
 1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
+
+#### Effective Date of 1996 Amendment
+
+Section 1101(b) of Pub. L. 104–168 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to regulations which relate to statutory provisions enacted on or after the date of the enactment of this Act \[July 30, 1996\].”
 
 #### Effective Date of 1990 Amendment
 
@@ -75,8 +121,4 @@ Amendment by Pub. L. 98–369 applicable to taxable years ending after July 18, 
 #### Cross References
 
 Departmental regulations, see section 301 of Title 5, Government Organization and Employees.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 18 section 3613.
 

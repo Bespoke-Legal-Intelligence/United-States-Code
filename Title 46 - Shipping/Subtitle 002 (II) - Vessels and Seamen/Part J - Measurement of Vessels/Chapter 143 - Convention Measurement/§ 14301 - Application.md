@@ -56,7 +56,7 @@ Section 14301(b) provides the following exemptions from the requirement in secti
 
 &emsp;3\. A vessel that operates only on the Great Lakes (although the owner may request that it be measured under the Convention);
 
-&emsp;4\. A vessel whose keel was laid or was at a similar stage of construction before January 1, 1986, and is on a domestic voyage, unless the vessel undergoes a change that significantly changes its tonnage or the owner requests that the vessel be measured under the Convention; and
+&emsp;4\. A vessel whose keel was laid or was at a similar stage of construction before January 1, 1986, and is on a domestic voyage, unless the vessel undergoes achange that significantly changes its tonnage or the owner requests that the vessel be measured under the Convention; and
 
 &emsp;5\. A vessel whose keel was laid or was at a similar stage of construction before July 18, 1982, unless the vessel undergoes a change that significantly changes the vessel's tonnage or the owner requests that the vessel be measured under the Convention.
 

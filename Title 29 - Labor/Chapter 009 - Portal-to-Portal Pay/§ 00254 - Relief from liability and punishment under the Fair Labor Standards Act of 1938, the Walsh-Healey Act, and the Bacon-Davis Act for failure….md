@@ -8,7 +8,7 @@ Except as provided in subsection (b) of this section, no employer shall be subje
 
 &emsp;(2) activities which are preliminary to or postliminary to said principal activity or activities,
 
-> which occur either prior to the time on any particular workday at which such employee commences, or subsequent to the time on any particular workday at which he ceases, such principal activity or activities.
+> which occur either prior to the time on any particular workday at which such employee commences, or subsequent to the time on any particular workday at which he ceases, such principal activity or activities. For purposes of this subsection, the use of an employer's vehicle for travel by an employee and activities performed by an employee which are incidental to the use of such vehicle for commuting shall not be considered part of the employee's principal activities if the use of such vehicle for travel is within the normal commuting area for the employer's business or establishment and the use of the employer's vehicle is subject to an agreement on the part of the employer and the employee or representative of such employee.
 
 #### (b) Compensability by contract or custom
 
@@ -26,13 +26,21 @@ For the purposes of subsection (b) of this section, an activity shall be conside
 
 In the application of the minimum wage and overtime compensation provisions of the Fair Labor Standards Act of 1938, as amended \[29 U.S.C. 201 et seq.\], of the Walsh-Healey Act \[41 U.S.C. 35 et seq.\], or of the Bacon-Davis Act \[40 U.S.C. 276a et seq.\], in determining the time for which an employer employs an employee with respect to walking, riding, traveling, or other preliminary or postliminary activities described in subsection (a) of this section, there shall be counted all that time, but only that time, during which the employee engages in any such activity which is compensable within the meaning of subsections (b) and (c) of this section.
 
-(May 14, 1947, ch. 52, §4, 61 Stat. 86.)
+(May 14, 1947, ch. 52, §4, 61 Stat. 86; Aug. 20, 1996, Pub. L. 104–188, \[title II\], §2102, 110 Stat. 1928.)
 
 #### References in Text
 
 The Fair Labor Standards Act of 1938, as amended, referred to in subsecs. (a) and (d), is act June 25, 1938, ch. 676, 52 Stat. 1060, as amended, which is classified generally to chapter 8 (§201 et seq.) of this title. For complete classification of this Act to the Code, see section 201 of this title and Tables.
 
 The Walsh-Healey and Bacon-Davis Acts, referred to in subsecs. (a) and (d), are defined for purposes of this chapter in section 262 of this title.
+
+#### Amendments
+
+1996—Subsec. (a). Pub. L. 104–188 in closing provisions inserted at end “For purposes of this subsection, the use of an employer's vehicle for travel by an employee and activities performed by an employee which are incidental to the use of such vehicle for commuting shall not be considered part of the employee's principal activities if the use of such vehicle for travel is within the normal commuting area for the employer's business or establishment and the use of the employer's vehicle is subject to an agreement on the part of the employer and the employee or representative of such employee.”
+
+#### Effective Date of 1996 Amendment
+
+Section 2103 of Pub. L. 104–188 provided that: “The amendment made by section 2101 \[probably means section 2102 of Pub. L. 104–188, amending this section\] shall take effect on the date of the enactment of this Act \[Aug. 20, 1996\] and shall apply in determining the application of section 4 of the Portal-to-Portal Act of 1947 \[this section\] to an employee in any civil action brought before such date of enactment but pending on such date.”
 
 #### Cross References
 

@@ -4,11 +4,13 @@
 
 &emsp;(1) on request of an employee, grant the employee compensatory time off from his scheduled tour of duty instead of payment under section 5542 or section 7 of the Fair Labor Standards Act of 1938 for an equal amount of time spent in irregular or occasional overtime work; and
 
-&emsp;(2) provide that an employee whose rate of basic pay is in excess of the maximum rate of basic pay for GS–10 (including any applicable locality-based comparability payment under section 5304 or similar provision of law and any applicable special rate of pay under section 5305 or similar provision of law) shall be granted compensatory time off from his scheduled tour of duty equal to the amount of time spent in irregular or occasional overtime work instead of being paid for that work under section 5542 of this title.
+&emsp;(2) provide that an employee whose rate of basic pay is in excess of the maximum rate of basic pay for GS–10 (including any applicable locality-based comparability payment under section 5304 or similar provision of law andany applicable special rate of pay under section 5305 or similar provision of law) shall be granted compensatory time off from his scheduled tour of duty equal to the amount of time spent in irregular or occasional overtime work instead of being paid for that work under section 5542 of this title.
 
-(b) The Architect of the Capitol may grant an employee paid on an annual basis compensatory time off from duty instead of overtime pay for overtime work.
+(b) The head of an agency may, on request of an employee, grant the employee compensatory time off from the employee's scheduled tour of duty instead of payment under section 5544 or section 7 of the Fair Labor Standards Act of 1938 for an equal amount of time spent in irregular or occasional overtime work. An agency head may not require an employee to be compensated for overtime work with an equivalent amount of compensatory time-off from the employee's tour of duty.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 486; Pub. L. 90–83, §1(25), Sept. 11, 1967, 81 Stat. 200; Pub. L. 101–509, title V, §529 \[title I, §101(b)(3)(E), title II, §210(2)\], Nov. 5, 1990, 104 Stat. 1427, 1439, 1460.)
+(c) The Architect of the Capitol may grant an employee paid on an annual basis compensatory time off from duty instead of overtime pay for overtime work.
+
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 486; Pub. L. 90–83, §1(25), Sept. 11, 1967, 81 Stat. 200; Pub. L. 101–509, title V, §529 \[title I, §101(b)(3)(E), title II, §210(2)\], Nov. 5, 1990, 104 Stat. 1427, 1439, 1460; Pub. L. 104–201, div. A, title XVI, §1610(a), Sept. 23, 1996, 110 Stat. 2738.)
 
 Historical and Revision Notes<br>1966
 
@@ -18,7 +20,9 @@ Act
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 5 U.S.C. 912.
 
@@ -56,13 +60,15 @@ July 18, 1966, Pub. L. 89–504, §404(b), 80 Stat. 297.
 
 #### References in Text
 
-Section 7 of the Fair Labor Standards Act of 1938, referred to in subsec. (a)(1), is classified to section 207 of Title 29, Labor.
+Section 7 of the Fair Labor Standards Act of 1938, referred to in subsecs. (a)(1) and (b), is classified to section 207 of Title 29, Labor.
 
 GS–10, referred to in subsec. (a)(2), is contained in the General Schedule which is set out under section 5332 of this title.
 
 #### Amendments
 
-<b>1990</b>—Subsec. (a)(1). Pub. L. 101–509, §529 \[title II, §210(2)\], inserted “under section 5542 or section 7 of the Fair Labor Standards Act of 1938” after “payment”.
+1996—Subsecs. (b), (c). Pub. L. 104–201 added subsec. (b) and redesignated former subsec. (b) as (c).
+
+1990—Subsec. (a)(1). Pub. L. 101–509, §529 \[title II, §210(2)\], inserted “under section 5542 or section 7 of the Fair Labor Standards Act of 1938” after “payment”.
 
 Subsec. (a)(2). Pub. L. 101–509, §529 \[title I, §101(b)(3)(E)\], inserted “(including any applicable locality-based comparability payment under section 5304 or similar provision of law and any applicable special rate of pay under section 5305 or similar provision of law)” after “GS–10”.
 
@@ -72,5 +78,5 @@ Amendment by Pub. L. 101–509 effective on such date as the President shall det
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 6123 of this title; title 2 section 1371; title 14 section 432; title 15 section 278e; title 32 section 709.
+This section is referred to in sections 5544, 6123 of this title; title 2 section 1371; title 14 section 432; title 15 section 278e; title 32 section 709.
 

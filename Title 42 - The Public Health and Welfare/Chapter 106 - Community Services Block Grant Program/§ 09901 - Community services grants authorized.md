@@ -4,7 +4,7 @@
 
 (b) There are authorized to be appropriated $525,000,000 for fiscal year 1995, and such sums as may be necessary for each of fiscal years 1996 through 1998, to carry out the provisions of this chapter.
 
-(Pub. L. 97–35, title VI, §672, Aug. 13, 1981, 95 Stat. 511; Pub. L. 98–558, title II, §201, Oct. 30, 1984, 98 Stat. 2884; Pub. L. 99–425, title IV, §401, Sept. 30, 1986, 100 Stat. 968; Pub. L. 101–501, title IV, §401(a), Nov. 3, 1990, 104 Stat. 1251; Pub. L. 103–252, title II, §202(a), May 18, 1994, 108 Stat. 651.)
+(Pub. L. 97–35, title VI, §672, Aug. 13, 1981, 95 Stat. 511; Pub. L. 98–558, title II, §201, Oct. 30,1984, 98 Stat. 2884; Pub. L. 99–425, title IV, §401, Sept. 30, 1986, 100 Stat. 968; Pub. L. 101–501, title IV, §401(a), Nov. 3, 1990, 104 Stat. 1251; Pub. L. 103–252, title II, §202(a), May 18, 1994, 108 Stat. 651.)
 
 #### References in Text
 

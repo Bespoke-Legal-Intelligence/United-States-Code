@@ -2,7 +2,7 @@
 
 The Secretary is authorized to accept lands, buildings, equipment, and other contributions from public and private sources and to prosecute projects in cooperation with other agencies, Federal, State, or private; the Mine Safety and Health Administration is authorized to promote health and safety education and training in the mining community through cooperative programs with States, industry, and safety associations; and any funds available to the Department may be used, with the approval of the Secretary, to provide for the costs of mine rescueand survival operations in the event of a major disaster.
 
-(Pub. L. 103–333, title I, Sept. 30, 1994, 108 Stat. 2545.)
+(Pub. L. 104–208, div. A, title I, §101(e) \[title I\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–240.)
 
 #### Codification
 
@@ -11,6 +11,10 @@ Section was enacted as part of the appropriation act cited as the credit to this
 #### Similar Provisions
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 104–134, title I, §101(d) \[title I\], Apr. 26, 1996, 110 Stat. 1321–211, 1321–218; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.
+
+Pub. L. 103–333, title I, Sept. 30, 1994, 108 Stat. 2545.
 
 Pub. L. 103–112, title I, Oct. 21, 1993, 107 Stat. 1088.
 

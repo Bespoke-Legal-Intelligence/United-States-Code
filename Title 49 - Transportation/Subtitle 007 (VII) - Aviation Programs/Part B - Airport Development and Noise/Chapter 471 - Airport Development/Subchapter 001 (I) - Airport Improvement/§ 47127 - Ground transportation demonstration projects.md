@@ -20,7 +20,9 @@ Priority.—In carrying out this section, the Secretary shall give priority to a
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -46,5 +48,5 @@ Section 13(b) of the Airport and Airway Development Act of 1970, referred to in 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 49101, 49102, 49104, 49105 of this title.
+This section is referred to in sections 50101, 50102, 50104, 50105 of this title.
 

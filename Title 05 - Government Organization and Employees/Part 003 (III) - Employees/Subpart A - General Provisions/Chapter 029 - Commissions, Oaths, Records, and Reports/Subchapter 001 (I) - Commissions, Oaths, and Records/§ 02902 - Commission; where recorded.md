@@ -14,7 +14,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 (a)
 
@@ -52,7 +54,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-<b>1975</b>—Subsec. (b). Pub. L. 94–183 struck out “the Postmaster General,” after “under the control of”.
+1975—Subsec. (b). Pub. L. 94–183 struck out “the Postmaster General,” after “under the control of”.
 
 #### Section Referred to in Other Sections
 

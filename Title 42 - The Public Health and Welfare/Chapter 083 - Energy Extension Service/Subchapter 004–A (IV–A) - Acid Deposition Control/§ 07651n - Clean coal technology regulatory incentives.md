@@ -20,7 +20,7 @@ For purposes of this section, “clean coal technology” means any technology, 
 
 #### (4) EPA regulations
 
-&emsp;Not later than 12 months after November 15, 1990, the Administrator shall promulgate regulations or interpretive rulings to revise requirements under section 7411 of this title and parts C and D,<sup>2</sup> as appropriate, to facilitate projects consistent in <sup>3</sup> this subsection. Withrespect to parts C and D,<sup>2</sup> such regulations or rulings shall apply to all areas in which EPA is the permitting authority. In those instances in which the State is the permitting authority under part C or D,<sup>2</sup> any State may adopt and submit to the Administrator for approval revisions to its implementation plan to apply the regulations or rulings promulgated under this subsection.
+&emsp;Not later than 12 months after November 15, 1990, the Administrator shall promulgate regulations or interpretive rulings to revise requirements under section 7411 of this title and parts C and D,<sup>2</sup> as appropriate, to facilitate projects consistent in <sup>3</sup> this subsection. With respect to parts C and D,<sup>2</sup> such regulations or rulings shall apply to all areas in which EPA is the permitting authority. In those instances in which the State is the permitting authority under part C or D,<sup>2</sup> any State may adopt and submit to the Administrator for approval revisions to its implementation plan to apply the regulations or rulings promulgated under this subsection.
 
 #### (c) Exemption for reactivation of very clean units
 

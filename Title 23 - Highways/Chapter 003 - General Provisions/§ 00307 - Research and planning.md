@@ -142,7 +142,7 @@ Federal share.—The Federal share payable on account of any project financed wi
 
 &emsp;(4)
 
-Administration of sums.—Funds which are subject to paragraph (1) shall be combined and administered by the Secretary as a single fund which shall be available for obligation for the same period as funds apportioned under section 104(b)(1) of this title.
+Administration of sums.—Funds which are subject to paragraph (1) shall be combined and administered by the Secretary as a singlefund which shall be available for obligation for the same period as funds apportioned under section 104(b)(1) of this title.
 
 (d)
 
@@ -174,7 +174,7 @@ Limitation of remedies.—
 
 &emsp;&emsp;(A)
 
-Same remedy as if united states.—The remedy against the United States provided by sections 1346(b) and 2672 of title 28, United States Code, for injury, loss of property, personal injury, or death shall apply to any claim against the National Academy of Sciences for money damages for injury, loss of property, personal injury, or death caused by any negligent or wrongful act or omission arising from activities conducted under or inconnection with this subsection. Any such claim shall be subject to the limitations and exceptions which would be applicable to such claim if such claim were against the United States. With respect to any such claim, the Secretary shall be treated as the head of the appropriate Federal agency for purposes of sections 2672 and 2675 of such title.
+Same remedy as if united states.—The remedy against the United States provided by sections 1346(b) and 2672 of title 28, United States Code, for injury, loss of property, personal injury, or death shall apply to any claim against the National Academy of Sciences for money damages for injury, loss of property, personal injury, or death caused by any negligent or wrongful act or omission arising from activities conducted under or in connection with this subsection. Any such claim shall be subject to the limitations and exceptions which would be applicable to such claim if such claim were against the United States. With respect to any such claim, the Secretary shall be treated as the head of the appropriate Federal agency for purposes of sections 2672 and 2675 of such title.
 
 &emsp;&emsp;(B)
 
@@ -198,7 +198,7 @@ Applied Research and Technology Program.—
 
 &emsp;(1)
 
-Establishment.—The Secretary shall establish and implement in accordance with this subsection an applied research and technology program for the purpose of accelerating testing, evaluation, and implementation of technologies which are designed to improve the durability, efficiency, environmental impact, productivity, and safety of highway, transit, and intermodal transportation systems.
+Establishment.—The Secretary shall establish and implement in accordance with thissubsection an applied research and technology program for the purpose of accelerating testing, evaluation, and implementation of technologies which are designed to improve the durability, efficiency, environmental impact, productivity, and safety of highway, transit, and intermodal transportation systems.
 
 &emsp;(2)
 
@@ -284,7 +284,7 @@ Seismic Research Program.—
 
 &emsp;(1)
 
-Establishment.—The Secretary shall establish a program to study the vulnerability of highways, tunnels, and bridges on the Federal-aid system to earthquakes and develop and implement cost-effective methods of retrofitting such highways, tunnels, and bridges to reduce such vulnerability.
+Establishment.—The Secretary shall establish a program to study the vulnerabilityof highways, tunnels, and bridges on the Federal-aid system to earthquakes and develop and implement cost-effective methods of retrofitting such highways, tunnels, and bridges to reduce such vulnerability.
 
 &emsp;(2)
 
@@ -310,7 +310,7 @@ Report.—Not later than 2 years after the date of the enactment of this section
 
 (h) The Secretary shall report to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives in January 1983, and in January of every second year thereafter, estimates of the future highway needs of the Nation. The biennial reports required under this subsection shall provide the means, including all necessary information, to relate and compare the conditions and service measures used in different years when such measures are changed.
 
-(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 913; Pub. L. 87–866, §11, Oct. 23, 1962, 76 Stat. 1148; Pub. L. 88–157, §6, Oct. 24, 1963, 77 Stat. 277; Pub. L. 89–564, title I, §103, Sept. 9, 1966, 80 Stat. 735; Pub. L. 91–605, title I, §§115(c), 126, 136(c), Dec. 31, 1970, 84 Stat. 1723, 1729, 1735; Pub. L. 93–87, title I, §151, Aug. 13, 1973, 87 Stat. 276; Pub. L. 96–470,title I, §112(b)(2), Oct. 19, 1980, 94 Stat. 2239; Pub. L. 97–424, title I, §§156(a), (b), (d), 160(a), Jan. 6, 1983, 96 Stat. 2134, 2135; Pub. L. 100–17, title I, §§128, 129, 133(b)(17), Apr. 2, 1987, 101 Stat. 167, 169, 172; Pub. L. 102–240, title VI, §§6001, 6005, Dec. 18, 1991, 105 Stat. 2162, 2170; Pub. L. 103–429, §3(10), Oct. 31, 1994, 108 Stat. 4378; Pub. L. 104–59, title III, §325(d), Nov. 28, 1995, 109 Stat. 592.)
+(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 913; Pub. L. 87–866, §11, Oct. 23, 1962, 76 Stat. 1148; Pub. L. 88–157, §6, Oct. 24, 1963, 77 Stat. 277; Pub. L. 89–564, title I, §103, Sept. 9, 1966, 80 Stat. 735; Pub. L. 91–605, title I, §§115(c), 126, 136(c), Dec. 31, 1970, 84 Stat. 1723, 1729, 1735; Pub. L. 93–87, title I, §151, Aug. 13, 1973, 87 Stat. 276; Pub. L. 96–470, title I, §112(b)(2), Oct. 19, 1980, 94 Stat. 2239; Pub. L. 97–424, title I, §§156(a), (b), (d), 160(a), Jan. 6, 1983, 96 Stat. 2134, 2135; Pub. L. 100–17, title I, §§128, 129, 133(b)(17), Apr. 2, 1987, 101 Stat. 167, 169, 172; Pub. L. 102–240, title VI, §§6001, 6005, Dec. 18, 1991, 105 Stat. 2162, 2170; Pub. L. 103–429, §3(10), Oct. 31, 1994, 108 Stat. 4378; Pub. L. 104–59, title III, §325(d), Nov. 28, 1995, 109 Stat. 592.)
 
 #### References in Text
 
@@ -394,7 +394,7 @@ Findings.—Congress finds that—
 
 &emsp;&emsp;“(D) the role of federally funded research and development in ensuring that appropriate transportation systems are developed and implemented;
 
-&emsp;“(2) the population of the United States is projected to increase by over 30,000,000 people within the next 20 years, mostly in existing major metropolitan areas,which will result in increased traffic congestion within and between urban areas, more accidents, loss of productive time, and increased cost of transportation unless new technologies are developed to improve public transportation within cities and to move people and goods between cities;
+&emsp;“(2) the population of the United States is projected to increase by over 30,000,000 people within the next 20 years, mostly in existing major metropolitan areas, which will result in increased traffic congestion within and between urban areas, more accidents, loss of productive time, and increased cost of transportation unless new technologies are developed to improve public transportation within cities and to move people and goods between cities;
 
 &emsp;“(3) 18,000,000 crashes, 4,000,000 injuries, and 45,000 fatalities each year on the Nation's highways are intolerable and substantial research is required in order to develop safer technologies in their most useful and economic forms;
 
@@ -470,7 +470,7 @@ Section 6011 of Pub. L. 102–240 provided that:
 
 “(a)
 
-Establishment.—Not later than 180 days after the date of transmittal of the report to Congress undersection 6010 \[of Pub. L. 102–240, formerly set out above\], the Secretary shall establish an independent surface transportation research advisory committee (hereinafter in this section referred to as the ‘advisory committee’).
+Establishment.—Not later than 180 days after the date of transmittal of the report to Congress under section 6010 \[of Pub. L. 102–240, formerly set out above\], the Secretary shall establish an independent surface transportation research advisory committee (hereinafter in this section referred to as the ‘advisory committee’).
 
 “(b)
 
@@ -514,7 +514,7 @@ Studies.—The Administrator of the Federal Highway Administration (hereinafter 
 
 “(b)
 
-Contracts.—To carry out the studies under subsection (a), the Administrator shall enter into contracts with the Western Research Institute of the University of Wyoming in order to conduct the necessary technical and analytical research in coordination with existing programs which evaluate actual performance of asphalts and modified asphalts in roadways, including the Strategic Highway Research Program.
+Contracts.—To carry out the studies under subsection (a), the Administrator shall enter into contracts with the Western Research Institute of the University of Wyoming in order to conduct the necessarytechnical and analytical research in coordination with existing programs which evaluate actual performance of asphalts and modified asphalts in roadways, including the Strategic Highway Research Program.
 
 “(c)
 
@@ -906,7 +906,7 @@ Section 119 of Pub. L. 91–605 provided that:
 
 #### Study of Relationship of Highway Construction to Public Transportation Services; Report to Congress
 
-Section 144 of Pub. L. 91–605 directed Secretary to undertake a study and analysis of use of existing highwayfacilities for highway public transportation service, need for additional highway facilities or adjustment of existing facilities to accommodate such service, and appropriate funding of such additional highway facilities and to report to Congress his findings and recommendations not later than Jan. 1, 1972.
+Section 144 of Pub. L. 91–605 directed Secretary to undertake a study and analysis of use of existing highway facilities for highway public transportation service, need for additional highway facilities or adjustment of existing facilities to accommodate such service, and appropriate funding of such additional highway facilities and to report to Congress his findings and recommendations not later than Jan. 1, 1972.
 
 #### Authorization of Additional Appropriations
 
@@ -938,7 +938,7 @@ Section 13 of Pub. L. 87–866, as amended by Pub. L. 97–449, §2(a), Jan. 12,
 
 #### Mileage Study of System of Interstate and Defense Highway for Alaska and Hawaii
 
-Pub. L. 86–342, title I, §105, Sept. 21, 1959, 73 Stat. 612, directed Secretary of Commerce to make a study of need for extension of National System of Interstate and Defense Highways \[now Dwight D. Eisenhower System of Interstate and Defense Highways\] within States of Alaska and Hawaii, and report results of such study to Congress within ten days subsequent to Jan. 4, 1960. The report was required to include recommendations as to approximate routes and mileages thereof which should be included in such system within those States.
+Pub. L. 86–342, title I, §105, Sept. 21, 1959, 73 Stat. 612, directed Secretary of Commerce to make a study of need for extension of National System of Interstate and Defense Highways \[now Dwight D. Eisenhower System of Interstate and Defense Highways\] within States of Alaska and Hawaii, and report results of such study to Congress within ten days subsequent to Jan. 4, 1960. The report was required to include recommendations asto approximate routes and mileages thereof which should be included in such system within those States.
 
 #### Tests To Determine Maximum Desirable Dimensions and Weights for Vehicles
 

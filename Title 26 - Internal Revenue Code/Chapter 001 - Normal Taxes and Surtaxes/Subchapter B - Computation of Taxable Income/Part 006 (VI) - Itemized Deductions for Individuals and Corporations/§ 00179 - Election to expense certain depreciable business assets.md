@@ -8,7 +8,41 @@ A taxpayer may elect to treat the cost of any section 179 property as an expense
 
 #### (1) Dollar limitation
 
-&emsp;The aggregate cost which may be taken into account under subsection (a) for any taxable year shall not exceed $17,500.
+&emsp;The aggregate cost which may be taken into account under subsection (a) for any taxable year shall not exceed the following applicable amount:
+
+<b> If the taxable year</b>
+
+<b>The applicable</b>
+
+<b>  begins in:</b>
+
+<b>amount is:</b>
+
+&emsp;&emsp;1997
+
+18,000&nbsp;&nbsp;
+
+&emsp;&emsp;1998
+
+18,500&nbsp;&nbsp;
+
+&emsp;&emsp;1999
+
+19,000&nbsp;&nbsp;
+
+&emsp;&emsp;2000
+
+20,000&nbsp;&nbsp;
+
+&emsp;&emsp;2001 or 2002
+
+24,000&nbsp;&nbsp;
+
+&emsp;&emsp;2003 or thereafter
+
+25,000.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### (2) Reduction in limitation
 
@@ -64,7 +98,7 @@ A taxpayer may elect to treat the cost of any section 179 property as an expense
 
 #### (1) Section 179 property
 
-&emsp;For purposes of this section, the term “section 179 property” means any tangible property (to which section 168 applies) which is section 1245 property (as defined in section 1245(a)(3)) and which is acquired by purchase for use in the active conduct of in <sup>1</sup> a trade or business.
+&emsp;For purposes of this section, the term “section 179 property” means any tangible property (to which section 168 applies) which is section 1245 property (as defined in section 1245(a)(3)) and which is acquired by purchase for use in the active conduct of a trade or business. Such term shall not include any property described in section 50(b) and shall not include air conditioning or heating units.
 
 #### (2) Purchase defined
 
@@ -76,7 +110,7 @@ A taxpayer may elect to treat the cost of any section 179 property as an expense
 
 &emsp;&emsp;(C) the basis of the property in the hands of the person acquiring it is not determined—
 
-&emsp;&emsp;&emsp;(i) in whole or in part by reference to the adjusted basis of such property in thehands of the person from whom acquired, or
+&emsp;&emsp;&emsp;(i) in whole or in part by reference to the adjusted basis of such property in the hands of the person from whom acquired, or
 
 &emsp;&emsp;&emsp;(ii) under section 1014(a) (relating to property acquired from a decedent).
 
@@ -120,9 +154,15 @@ A taxpayer may elect to treat the cost of any section 179 property as an expense
 
 &emsp;The Secretary shall, by regulations, provide for recapturing the benefit under any deduction allowable under subsection (a) with respect to any property which is not used predominantly in a trade or business at any time.
 
-(Added Pub. L. 85–866, title II, §204(a), Sept. 2, 1958, 72 Stat. 1679; amended Pub. L. 87–834, §13(c)(2), Oct. 16, 1962, 76 Stat. 1034; Pub. L. 91–172, title IV, §401(f), Dec. 30, 1969, 83 Stat. 603; Pub. L. 94–455, title II, §213(a), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1547, 1834; Pub. L. 97–34, title II, §202(a), Aug. 13, 1981, 95 Stat. 219; Pub. L. 97–354, §3(f), Oct. 19, 1982, 96 Stat. 1689; Pub. L. 97–448, title I, §102(aa), Jan. 12, 1983, 96 Stat. 2369; Pub. L. 98–369, div. A, title I, §13, July 18, 1984, 98 Stat. 505; Pub. L. 99–514, title II, §§201(d)(3), 202, Oct. 22, 1986, 100 Stat. 2139, 2142; Pub. L. 100–647, title I, §1002(a)(19), (b)(1), Nov. 10, 1988, 102 Stat. 3356, 3357; Pub. L. 101–508, title XI, §11813(b)(11), Nov. 5, 1990, 104 Stat. 1388–554; Pub. L. 103–66, title XIII, §13116(a), Aug. 10, 1993, 107 Stat. 432.)
+(Added Pub. L. 85–866, title II, §204(a), Sept. 2, 1958, 72 Stat. 1679; amended Pub. L. 87–834, §13(c)(2), Oct. 16, 1962, 76 Stat. 1034; Pub. L. 91–172, title IV, §401(f), Dec. 30, 1969, 83 Stat. 603; Pub. L. 94–455, title II, §213(a), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1547, 1834; Pub. L. 97–34, title II, §202(a), Aug. 13, 1981, 95 Stat. 219; Pub. L. 97–354, §3(f), Oct. 19, 1982, 96 Stat. 1689; Pub. L. 97–448, title I, §102(aa), Jan. 12, 1983, 96 Stat. 2369; Pub. L. 98–369, div. A, title I, §13, July 18, 1984, 98 Stat. 505; Pub. L. 99–514, title II, §§201(d)(3), 202, Oct. 22, 1986, 100 Stat. 2139, 2142; Pub. L. 100–647, title I, §1002(a)(19), (b)(1), Nov. 10, 1988, 102 Stat. 3356, 3357; Pub. L. 101–508, title XI, §11813(b)(11), Nov. 5, 1990, 104 Stat. 1388–554; Pub. L. 103–66, title XIII, §13116(a), Aug. 10, 1993, 107 Stat. 432; Pub. L. 104–188, title I, §§1111(a), 1702(h)(10), (19), Aug. 20, 1996, 110 Stat. 1758, 1874.)
 
 #### Amendments
+
+1996—Subsec. (b)(1). Pub. L. 104–188, §1111(a), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The aggregate cost which may be taken into account under subsection (a) for any taxable year shall not exceed $17,500.”
+
+Subsec. (d)(1). Pub. L. 104–188, §1702(h)(10), struck out “in” before “a trade or business”.
+
+Pub. L. 104–188, §1702(h)(19), inserted at end “Such term shall not include any property described in section 50(b) and shall not include air conditioning or heating units.”
 
 1993—Subsec. (b)(1). Pub. L. 103–66 substituted “$17,500” for “$10,000”.
 
@@ -134,7 +174,7 @@ Subsec. (d)(5). Pub. L. 101–508, §11813(b)(11)(B), amended par. (5) generally
 
 “(A)
 
-In general.—The aggregate cost of section 179 property taken into account under subsection (a) for any taxable year shall not exceed the aggregate amount of taxable income of the taxpayer for such taxable year which is derived from the active conduct by the taxpayer of any trade or business during such taxable year.
+In general.—The aggregate cost of section 179 property taken into account under subsection (a) forany taxable year shall not exceed the aggregate amount of taxable income of the taxpayer for such taxable year which is derived from the active conduct by the taxpayer of any trade or business during such taxable year.
 
 “(B)
 
@@ -150,7 +190,7 @@ Subsec. (d)(1). Pub. L. 100–647, §1002(a)(19), substituted “tangible proper
 
 Subsec. (d)(1). Pub. L. 99–514, §202(b), inserted “in the active conduct of”.
 
-Subsec. (d)(8). Pub. L. 99–514, §201(d)(3), substituted “Treatment of” for “Dollar limitation in case of” in heading and amended text generally. Prior to amendment, text read as follows: “In the case of a partnership, the dollar limitation contained in subsection (b)(1) shall apply with respect to the partnership andwith respect to each partner. A similar rule shall apply in the case of an S corporation and its shareholders.”
+Subsec. (d)(8). Pub. L. 99–514, §201(d)(3), substituted “Treatment of” for “Dollar limitation in case of” in heading and amended text generally. Prior to amendment, text read as follows: “In the case of a partnership, the dollar limitation contained in subsection (b)(1) shall apply with respect to the partnership and with respect to each partner. A similar rule shall apply in the case of an S corporation and its shareholders.”
 
 Subsec. (d)(10). Pub. L. 99–514, §202(c), struck out “before the close of the second taxable year following the taxable year in which it is placed in service by the taxpayer” after “at any time”.
 
@@ -173,6 +213,12 @@ Subsec. (e). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate�
 1962—Subsec. (d)(5). Pub. L. 87–834, §13(c)(2)(A), substituted “section 167(h)” for “section 167(g)”.
 
 Subsec. (d)(8). Pub. L. 87–834, §13(c)(2)(B), substituted “section 167(g)” for “section 167(f)”.
+
+#### Effective Date of 1996 Amendment
+
+Section 1111(b) of Pub. L. 104–188 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1996.”
+
+Amendment by section 1702(h)(10), (19) of Pub. L. 104–188 effective, except as otherwise expressly provided, as if included in the provision of the Revenue Reconciliation Act of 1990, Pub. L. 101–508, title XI, to which such amendment relates, see section 1702(i) of Pub. L. 104–188, set out as a note under section 38 of this title.
 
 #### Effective Date of 1993 Amendment
 
@@ -206,7 +252,7 @@ Amendment by Pub. L. 97–354 applicable to taxable years beginning after Dec. 3
 
 #### Effective Date of 1981 Amendment
 
-Amendment by Pub. L. 97–34 applicable to property placed in service after Dec. 31, 1980, in taxable years ending after that date, see section 209(a) of Pub. L. 97–34, set out as an Effective Date note under section 168 of this title.
+Amendment by Pub. L. 97–34 applicable to property placed in service after Dec. 31, 1980, in taxable years ending after that date, see section 209(a) of Pub. L.97–34, set out as an Effective Date note under section 168 of this title.
 
 #### Effective Date of 1976 Amendment
 
@@ -231,6 +277,4 @@ For provisions that nothing in amendment by Pub. L. 101–508 be construed to af
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 30, 42, 179A, 263, 280F, 1245, 1397A, 1397C of this title.
-
-<i><sup>1</sup></i><i> So in original. The word “in” probably should not appear.</i>
 

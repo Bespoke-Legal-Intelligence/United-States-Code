@@ -16,7 +16,7 @@ Compliance with the requirements imposed under this subchapter shall be enforced
 
 &emsp;(3) the Federal Credit Union Act \[12 U.S.C. 1751 et seq.\], by the Administrator of the National Credit Union Administration with respect to any Federal credit union.<sup>2</sup>
 
-&emsp;(4) part A of subtitle VII of title 49, by the Civil Aeronautics Board,<sup>3</sup> with respect to any air carrier or foreign air carrier subject to that part; and
+&emsp;(4) part A of subtitle VII of title 49, by the Secretary of Transportation, with respect to any air carrier or foreign air carrier subject to that part; and
 
 &emsp;(5) the Securities Exchange Act of 1934 \[15 U.S.C. 78a et seq.\], by the Securities and Exchange Commission, with respect to any broker or dealer subject to that Act.
 
@@ -28,9 +28,9 @@ For the purpose of the exercise by any agency referred to in subsection (a) of t
 
 #### (c) Overall enforcement authority of Federal Trade Commission
 
-Except to the extent that enforcement of the requirements imposed under this subchapter is specifically committed to some other Government agency under subsection (a) of this section, the Federal Trade Commission shall enforce such requirements. For the purpose of the exercise by the Federal Trade Commission of its functions and powers under the Federal Trade Commission Act \[15 U.S.C. 41 et seq.\], a violation of any requirement imposed under this subchapter shall be deemed a violation of a requirement imposed under that Act. All of the functions and powers of the Federal Trade Commission under the Federal Trade Commission Act are available to the Commission to enforce compliance by any person subject to the jurisdiction of the Commission with the requirements imposed under this subchapter, irrespective of whether that person is engaged in commerce ormeets any other jurisdictional tests in the Federal Trade Commission Act.
+Except to the extent that enforcement of the requirements imposed under this subchapter is specifically committed to some other Government agency under subsection (a) of this section, the Federal Trade Commission shall enforce such requirements. For the purpose of the exercise by the Federal Trade Commission of its functions and powers under the Federal Trade Commission Act \[15 U.S.C. 41 et seq.\], a violation of any requirement imposed under this subchapter shall be deemed a violation of a requirement imposed under that Act. All of the functions and powers of the Federal Trade Commission under the Federal Trade Commission Act are available to the Commission to enforce compliance by any person subject to the jurisdiction of the Commission with the requirements imposed under this subchapter, irrespective of whether that person is engaged in commerce or meets any other jurisdictional tests in the Federal Trade Commission Act.
 
-(Pub. L. 90–321, title IX, §917, as added Pub. L. 95–630, title XX, §2001, Nov. 10, 1978, 92 Stat. 3739; amended Pub. L. 101–73, title VII, §744(<i>o</i>), Aug. 9, 1989, 103 Stat. 440; Pub. L. 102–242, title II, §212(f), Dec. 19, 1991, 105 Stat. 2301.)
+(Pub. L. 90–321, title IX, §917, as added Pub. L. 95–630, title XX, §2001, Nov. 10, 1978, 92 Stat. 3739; amended Pub. L. 101–73, title VII, §744(<i>o</i>), Aug. 9, 1989, 103 Stat. 440; Pub. L. 102–242, title II, §212(f), Dec. 19, 1991, 105 Stat. 2301; Pub. L. 104–287, §6(h), Oct. 11, 1996, 110 Stat. 3399.)
 
 #### References in Text
 
@@ -48,6 +48,8 @@ In subsec. (a)(4), “part A of subtitle VII of title 49” substituted for “t
 
 #### Amendments
 
+1996—Subsec. (a)(4). Pub. L. 104–287 substituted “Secretary of Transportation” for “Civil Aeronautics Board”.
+
 1991—Subsec. (a). Pub. L. 102–242, §212(f)(2), inserted at end “The terms used in paragraph (1) that are not defined in this subchapter or otherwise defined in section 3(s) of the Federal Deposit Insurance Act (12 U.S.C. 1813(s)) shall have the meaning given to them in section 1(b) of the International Banking Act of 1978 (12 U.S.C. 3101).”
 
 Pub. L. 102–242, §212(f)(1), added par. (1) and struck out former par. (1) which read as follows: “section 8 of the Federal Deposit Insurance Act, in the case of—
@@ -64,8 +66,6 @@ Pub. L. 102–242, §212(f)(1), added par. (1) and struck out former par. (1) wh
 
 Functions vested in Administrator of National Credit Union Administration transferred and vested in National Credit Union Administration Board pursuant to section 1752a of Title 12, Banks and Banking.
 
-Functions, powers, and duties of Civil Aeronautics Board terminated or transferred by section 1551 of former Title 49, Transportation, effective in part on Dec. 31, 1981, in part on Jan. 1, 1983, and in part on Jan. 1, 1985.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 1693b, 1693p of this title.
@@ -73,6 +73,4 @@ This section is referred to in sections 1693b, 1693p of this title.
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
 <i><sup>2</sup></i><i> So in original. The period probably should be a semicolon.</i>
-
-<i><sup>3</sup></i><i> So in original. Probably should be “Secretary of Transportation”.</i>
 

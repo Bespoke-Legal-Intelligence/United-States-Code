@@ -52,8 +52,6 @@
 
 (C) Not later than 10 days after an election under subparagraph (A), the Secretary shall transmit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a notification of the election, together with an explanation of the reasons therefor.
 
-(D) This paragraph shall expire on December 31, 1995.
-
 (d)(1) The maturity of any housing loan shall not be more than thirty years and thirty-two days.
 
 (2)(A) Any loan for a term of more than five years shall be amortized in accordance with established procedure.
@@ -78,13 +76,15 @@
 
 (f) The application for or obtaining of a loan made, insured, or guaranteed under this chapter shall not be subject to reporting requirements applicable to requests for, or receipts of, Federal contracts, grants, loans, loan guarantees, loan insurance, or cooperative agreements except to the extent that such requirements are provided for in, or by the Secretary pursuant to, this title.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1205, 1212, §1803; Pub. L. 86–73, §2, June 30, 1959, 73 Stat. 156; Pub. L. 86–665, §1, July 14, 1960, 74 Stat. 531; Pub. L. 87–84, §1(a), July 6, 1961, 75 Stat. 201; Pub. L. 89–358, §5(d), Mar. 3, 1966, 80 Stat. 26; Pub. L. 90–77, title IV, §403(b), Aug. 31, 1967, 81 Stat. 190; Pub. L. 91–22, §4, June 6, 1969, 83 Stat. 32; Pub. L. 91–506, §2(b), (c), Oct. 23, 1970, 84 Stat. 1108; Pub.L. 93–75, July 26, 1973, 87 Stat. 176; Pub. L. 93–569, §§2(c), 8(1)–(5), Dec. 31, 1974, 88 Stat. 1863, 1866; Pub. L. 94–324, §7(6), (16), June 30, 1976, 90 Stat. 721; Pub. L. 95–476, title I, §103, Oct. 18, 1978, 92 Stat. 1498; Pub. L. 96–385, title IV, §401(c)(1), Oct. 7, 1980, 94 Stat. 1533; Pub. L. 97–66, title V, §501(a), Oct. 17, 1981, 95 Stat. 1031; Pub. L. 97–72, title III, §303(c), (e), Nov. 3, 1981, 95 Stat. 1060; Pub. L. 97–295, §4(61), (63), Oct. 12, 1982, 96 Stat. 1309; Pub. L. 97–306, title IV, §406(b), Oct. 14, 1982, 96 Stat. 1444; Pub. L. 98–223, title II, §205(c), Mar. 2, 1984, 98 Stat. 43; Pub. L. 100–198, §3(a)(1), Dec. 21, 1987, 101 Stat. 1315; Pub. L. 100–253, §3(a), Feb. 29, 1988, 102 Stat. 20; Pub. L. 100–322, title IV, §415(a)(3), (c)(2), (d)(1), May 20, 1988, 102 Stat. 550–552; Pub. L. 101–237, title III, §§304(a), 306(a), 313(b)(1), (6), Dec. 18, 1989, 103 Stat. 2073, 2074, 2077; Pub. L. 102–54, §§4(b), 6, June 13, 1991, 105 Stat. 268; renumbered §3703 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–547, §10(a), Oct. 28, 1992, 106 Stat. 3643; Pub. L. 103–78, §6, Aug. 13, 1993, 107 Stat. 769; Pub. L. 103–353, §7, Oct. 13, 1994, 108 Stat. 3175.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1205, 1212, §1803; Pub. L. 86–73, §2, June 30, 1959, 73 Stat. 156; Pub. L. 86–665, §1, July 14, 1960, 74 Stat. 531; Pub. L. 87–84, §1(a), July 6, 1961, 75 Stat. 201; Pub. L. 89–358, §5(d), Mar. 3, 1966, 80 Stat. 26; Pub. L. 90–77, title IV, §403(b), Aug. 31, 1967, 81 Stat. 190; Pub. L. 91–22, §4, June 6, 1969, 83 Stat. 32; Pub. L. 91–506, §2(b), (c), Oct. 23, 1970, 84 Stat. 1108; Pub. L. 93–75, July 26, 1973, 87 Stat. 176; Pub. L. 93–569, §§2(c), 8(1)–(5), Dec. 31, 1974, 88 Stat. 1863, 1866; Pub. L. 94–324, §7(6), (16), June 30, 1976, 90 Stat. 721; Pub. L. 95–476, title I, §103, Oct. 18, 1978, 92 Stat. 1498; Pub. L. 96–385, title IV, §401(c)(1), Oct. 7, 1980, 94 Stat. 1533; Pub. L. 97–66, title V,§501(a), Oct. 17, 1981, 95 Stat. 1031; Pub. L. 97–72, title III, §303(c), (e), Nov. 3, 1981, 95 Stat. 1060; Pub. L. 97–295, §4(61), (63), Oct. 12, 1982, 96 Stat. 1309; Pub. L. 97–306, title IV, §406(b), Oct. 14, 1982, 96 Stat. 1444; Pub. L. 98–223, title II, §205(c), Mar. 2, 1984, 98 Stat. 43; Pub. L. 100–198, §3(a)(1), Dec. 21, 1987, 101 Stat. 1315; Pub. L. 100–253, §3(a), Feb. 29, 1988, 102 Stat. 20; Pub. L. 100–322, title IV, §415(a)(3), (c)(2), (d)(1), May 20, 1988, 102 Stat. 550–552; Pub. L. 101–237, title III, §§304(a), 306(a), 313(b)(1), (6), Dec. 18, 1989, 103 Stat. 2073, 2074, 2077; Pub. L. 102–54, §§4(b), 6, June 13, 1991, 105 Stat. 268; renumbered §3703 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–547, §10(a), Oct. 28, 1992, 106 Stat. 3643; Pub. L. 103–78, §6, Aug. 13, 1993, 107 Stat. 769; Pub. L. 103–353, §7, Oct. 13, 1994, 108 Stat. 3175; Pub. L. 104–110, title I, §101(d), Feb. 13, 1996, 110 Stat. 768.)
 
 #### References in Text
 
 The Servicemen's Readjustment Act of 1944, referred to in subsec. (c)(2), is act June 22, 1944, ch. 268, 58 Stat. 284, as amended, which was classified generally to chapter 11C (§§693 to 697g) of former Title 38, Pensions, Bonuses, and Veterans’ Relief, which was repealed upon the enactment of Title 38, Veterans’ Benefits, by Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1105. For distribution of sections 693 to 697g of former Title 38 in this title, see Table preceding section 101 of this title.
 
 #### Amendments
+
+1996—Subsec. (c)(4)(D). Pub. L. 104–110 struck out subpar. (D) which read as follows: “This paragraph shall expire on December 31, 1995.”
 
 1994—Subsec. (a)(1)(A)(i)(IV), (B). Pub. L. 103–353 substituted “$50,750” for “$46,000”.
 
@@ -162,7 +162,7 @@ Subsec. (a)(2). Pub. L. 97–295, §4(63)(A), substituted “before October 23, 
 
 Subsec. (c)(1). Pub. L. 97–295, §4(63)(B), inserted “(12 U.S.C. 1709(b))” after “the National Housing Act”.
 
-Subsec. (c)(3). Pub. L. 97–306, §406(b)(1), substituted “used—” for “used:”. Notwithstanding that Pub. L. 97–306 directed amendment be made in provisions preceding cl. (1), amendment was executed in provisions preceding cl. (A) as the probable intent of Congress in view of the absence of a cl. (1) in subsec. (c)(3).
+Subsec. (c)(3). Pub. L. 97–306, §406(b)(1), substituted “used—” for “used:”. Notwithstanding that Pub. L.97–306 directed amendment be made in provisions preceding cl. (1), amendment was executed in provisions preceding cl. (A) as the probable intent of Congress in view of the absence of a cl. (1) in subsec. (c)(3).
 
 Subsec. (c)(3)(E). Pub. L. 97–306, §406(b)(2)–(4), added cl. (E).
 
@@ -230,7 +230,7 @@ Section 306(b) of Pub. L. 101–237 provided that: “The amendments made by sub
 
 #### Effective Date of 1988 Amendment
 
-Section 3(c) of Pub. L. 100–253 provided that: “The amendments made by this section \[amending this section and section 1819 \[now 3712\] of this title\] shall applyto loans which are closed on or after February 1, 1988, except that they shall not apply to any loan for which a guaranty commitment is made on or before December 31, 1987.
+Section 3(c) of Pub. L. 100–253 provided that: “The amendments made by this section \[amending this section and section 1819 \[now 3712\] of this title\] shall apply to loans which are closed on or after February 1, 1988, except that they shall not apply to any loan for whicha guaranty commitment is made on or before December 31, 1987.
 
 #### Effective Date of 1987 Amendment
 
@@ -262,23 +262,13 @@ Amendment by Pub. L. 93–569 effective Dec. 31, 1974, see section 10 of Pub. L.
 
 Amendment by Pub. L. 90–77 effective first day of first calendar month which begins more than ten days after Aug. 31, 1967, see section 405 of Pub. L. 90–77, set out as a note under section 101 of this title.
 
+#### Ratification of Actions During Period of Expired Authority
+
+Any action taken by Secretary of Veterans Affairs before Feb. 13, 1996, under provision of law amended by title I of Pub. L. 104–110 that was taken during period beginning on date on which authority of Secretary under such provision of law expired and ending on Feb. 13, 1996, considered to have same force and effect as if such amendment had been in effect at time of that action, see section 103 of Pub. L. 104–110, set out as a note under section 1710 of this title.
+
 #### Annual Reports on Guarantee and Insurance of Loans Bearing Negotiated Interest Rates and Points
 
-Section 10(b) of Pub. L. 102–547, as amended by Pub. L. 103–446, title XII, §1202(d), Nov. 2, 1994, 108 Stat. 4689, provided that: “Not later than December 31, 1993, and annually thereafter, the Secretary of Veterans Affairs shall transmit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on whether the Secretary has implemented the authority to guarantee and insure loans that bear negotiated interest rates and points under section 3703(c)(4) of title 38, United States Code (as added by subsection (a)). If the Secretary has implemented that authority, the Secretary shall include in the report—
-
-&emsp;“(1) a comparison of the interest rates paid by veterans for loans that bear interest rates negotiated under section 3703(c)(4) of such title with interest rates allowable under mortgages for single family housing insured by the Secretary of Housing and Urban Development pursuant to the National Housing Act \[12 U.S.C. 1701 et seq.\] and interest rates charged under conventional mortgage loan programs for single family housing;
-
-&emsp;“(2) a comparison of the negotiated interest rates being charged under paragraph (4) of section 3703(c) of such title with the interest rate that the Secretary would have established under paragraph (1) of such section during the same time period;
-
-&emsp;“(3) a comparison of the number of discount points charged by the lender for mortgage loans that bear interest rates negotiated under section 3703(c)(4) of such title with the number of discount points charged for mortgages for single family housing insured by the Secretary of Housing and Urban Development pursuant to the National Housing Act and the number of discount points charged under conventional mortgage loan programs for single family housing;
-
-&emsp;“(4) a discussion of the extent to which borrowers or sellers are paying the discount points on negotiated interest rate loans under section 3703(c)(4) of such title;
-
-&emsp;“(5) a discussion of whether the market share for housing loans guaranteed under such title has increased or decreased since the implementation of the authority to guarantee and insure loans that bear negotiated interest rates under section 3703(c)(4) of such title, and a discussion of the extent to which any change in market share was the result of that authority;
-
-&emsp;“(6) in claims paid following foreclosure, a discussion of the difference in the interest portion paid on loans guaranteed under section 3703(c)(4) of such title to what the interest portion would have been under the interest rate established under section 3703(c)(1) of such title; and
-
-&emsp;“(7) the number of first time homebuyers using loans that bear negotiated interest rates under section 3703(c)(4) of such title.”
+Section 10(b) of Pub. L. 102–547, as amended by Pub. L. 103–446, title XII, §1202(d), Nov. 2, 1994, 108 Stat. 4689, directed Secretary of Veterans Affairs to transmit report on guarantee and insurance of loans bearing negotiated interest rates and points to Committees on Veterans’ Affairs of Senate and House of Representatives no later than Dec. 31, 1993, and annually thereafter, prior to repeal by Pub. L. 104–110, title II, §201(b), Feb. 13, 1996, 110 Stat. 770.
 
 #### Expiration of Loan Benefit Entitlement of Certain World War II Veterans
 
@@ -286,5 +276,5 @@ Section 403(c) of Pub. L. 90–77 provided that the World War II loan benefit en
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3710, 3712, 3732, 3762 of this title; title 12 section 1715u.
+This section is referred to in sections 3710, 3712, 3732, 3736, 3762 of this title.
 

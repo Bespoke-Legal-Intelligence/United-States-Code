@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Amounts described in subsection (b) of this section and available for a fiscal year pursuant to section 300x or 300x–21 of this title, as the case may be, shall be allotted by the Secretary and paid to the States receiving a grant under the program involved, other than any State referred to in subsection (b) of this section with respect to such program. Such amounts shall be allotted in a manner equivalent to the manner in which the allotment under the program involved was determined.
+Amounts described in subsection (b) of this section and available for a fiscal year pursuant to section 300x or 300x–21 of this title, as the case may be, shall be allotted by the Secretaryand paid to the States receiving a grant under the program involved, other than any State referred to in subsection (b) of this section with respect to such program. Such amounts shall be allotted in a manner equivalent to the manner in which the allotment under the program involved was determined.
 
 #### (b) Specification of amounts
 

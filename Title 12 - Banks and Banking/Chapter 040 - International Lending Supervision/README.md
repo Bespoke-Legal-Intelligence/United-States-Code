@@ -34,7 +34,7 @@
 | (b) | Limits on disclosure. |
 | (c) | Records, property, workpapers, correspondence, and documents; accessibility. |
 | [3911\.](%C2%A7%2003911%20-%20Equal%20representation%20for%20Federal%20Deposit%20Insurance%20Corporation.md) | Equal representation for Federal Deposit Insurance Corporation. |
-| [3912\.](%C2%A7%2003912%20-%20Reports.md) | Reports. |
+| [3912\.](%C2%A7%2003912%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93208%2C%20div.%20A%2C%20title%20II%2C%20%C2%A72224%28c%29%2C%20Sept.%2030%2C%201996%2C%20110%20Stat.%203009%E2%80%93415.md) | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -55,4 +55,4 @@
 - [&sect; 03909 - General authorities](%C2%A7%2003909%20-%20General%20authorities.md)
 - [&sect; 03910 - Audit authority of General Accounting Office](%C2%A7%2003910%20-%20Audit%20authority%20of%20General%20Accounting%20Office.md)
 - [&sect; 03911 - Equal representation for Federal Deposit Insurance Corporation](%C2%A7%2003911%20-%20Equal%20representation%20for%20Federal%20Deposit%20Insurance%20Corporation.md)
-- [&sect; 03912 - Reports](%C2%A7%2003912%20-%20Reports.md)
+- [&sect; 03912 - Repealed. Pub. L. 104&#8211;208, div. A, title II, &sect;2224(c), Sept. 30, 1996, 110 Stat. 3009&#8211;415](%C2%A7%2003912%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93208%2C%20div.%20A%2C%20title%20II%2C%20%C2%A72224%28c%29%2C%20Sept.%2030%2C%201996%2C%20110%20Stat.%203009%E2%80%93415.md)

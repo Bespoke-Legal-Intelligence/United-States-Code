@@ -2,7 +2,7 @@
 
 #### (a) Authority of Secretary
 
-The National Park Service, under the direction of the Secretary, shall administer, protect,and develop the park, subject to the provisions of sections 1, 2, 3, and 4 of this title, as amended and supplemented.
+The National Park Service, under the direction of the Secretary, shall administer, protect, and develop the park, subject to the provisions of sections 1, 2, 3, and 4 of this title, as amended and supplemented.
 
 #### (b) Easements and rights-of-way
 

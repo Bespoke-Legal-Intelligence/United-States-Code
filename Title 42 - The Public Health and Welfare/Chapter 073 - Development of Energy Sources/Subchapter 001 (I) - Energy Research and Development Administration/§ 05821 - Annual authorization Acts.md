@@ -2,7 +2,7 @@
 
 #### (a) General requirements; applicability to appropriations
 
-All appropriations made to the Energy Research and Development Administration or the Administrator shall, except as otherwise provided by law, be subject to annual authorization in accordance with section 2017 of this title, section 5915 of this title, and section 5875 of this title. The provisions of this section shall apply with respect to appropriations made pursuant to the Act providing such authorization (hereinafter in this section referred to as “annual authorization Acts”).
+All appropriations made to the Energy Research and Development Administration or the Administrator shall, except as otherwise provided by law, be subject to annual authorization in accordance with section 2017 of this title, section 5915 of this title, and section 5875 of this title. The provisions of this section shall apply with respect to appropriations made pursuant tothe Act providing such authorization (hereinafter in this section referred to as “annual authorization Acts”).
 
 #### (b) Requirements and limitations respecting funds appropriated for operating expenses
 
@@ -46,7 +46,7 @@ All appropriations made to the Energy Research and Development Administration or
 
 #### (e) Requirements and limitations respecting merger of amounts appropriated for operating expenses or for plant and capital equipment
 
-Subject to the applicable requirements and limitations of this section and the authorization Act involved, when so specified in an appropriation Act, amounts appropriated pursuant to any annual authorization Act for “Operating expenses” or for “Plant and capital equipment” may be merged with any other amounts appropriated for like purposes pursuant to any other Act authorizing appropriations for the Administration: <i>Provided,</i> That no such amounts appropriated for “Plant and capital equipment” may be merged with amounts appropriated for “Operating expenses”.
+Subject to the applicable requirements and limitations of this section and the authorization Act involved, when so specified in an appropriation Act, amounts appropriated pursuant to any annual authorization Act for “Operating expenses” or for “Plant and capital equipment” may be merged with any other amounts appropriated for like purposes pursuant to any other Act authorizing appropriations for the Administration: <i>Provided</i>, That no such amounts appropriated for “Plant and capital equipment” may be merged with amounts appropriated for “Operating expenses”.
 
 #### (f) Availability until expended of amounts appropriated for operating expenses or for plant and capital equipment
 

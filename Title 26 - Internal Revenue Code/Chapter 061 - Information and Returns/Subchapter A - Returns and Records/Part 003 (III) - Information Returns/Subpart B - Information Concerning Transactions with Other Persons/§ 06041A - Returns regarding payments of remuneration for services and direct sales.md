@@ -28,7 +28,7 @@ If—
 
 #### (A) Buy-sell basis
 
-&emsp;&emsp;A transaction is on a buy-sell basis if the buyer performing the services is entitled toretain part or all of the difference between the price at which the buyer purchases the product and the price at which the buyer sells the product as part or all of the buyer's remuneration for the services, and
+&emsp;&emsp;A transaction is on a buy-sell basis if the buyer performing the services is entitled to retain part or all of the difference between the price at which the buyer purchases the product and the price at which the buyer sells the product as part or all of the buyer's remuneration for the services, and
 
 #### (B) Deposit-commission basis
 
@@ -56,7 +56,7 @@ No return shall be required under subsection (a) or (b) if a statement with resp
 
 Every person required to make a return under subsection (a) or (b) shall furnish to each person whose name is required to be set forth in such return a written statement showing—
 
-&emsp;(1) the name and address of the person required to make such return, and
+&emsp;(1) the name, address, and phone number of the information contact of the person required to make such return, and
 
 &emsp;(2) in the case of subsection (a), the aggregate amount of payments to the person required to be shown on such return.
 
@@ -72,7 +72,15 @@ Every person required to make a return under subsection (a) or (b) shall furnish
 
 &emsp;The person to whom an identification number is furnished under paragraph (1) shall include such number on any return which such person is required to file under this section and to which such identification number relates.
 
-(Added Pub. L. 97–248, title III, §312(a), Sept. 3, 1982, 96 Stat. 601.)
+(Added Pub. L. 97–248, title III, §312(a), Sept. 3, 1982, 96 Stat. 601; amended Pub. L. 104–168, title XII, §1201(a)(2), July 30, 1996, 110 Stat. 1469.)
+
+#### Amendments
+
+1996—Subsec. (e)(1). Pub. L. 104–168 substituted “name, address, and phone number of the information contact” for “name and address”.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–168 applicable to statements required to be furnished after Dec. 31, 1996 (determined without regard to any extension), see section 1201(b) of Pub. L. 104–168, set out as a note under section 6041 of this title.
 
 #### Effective Date
 

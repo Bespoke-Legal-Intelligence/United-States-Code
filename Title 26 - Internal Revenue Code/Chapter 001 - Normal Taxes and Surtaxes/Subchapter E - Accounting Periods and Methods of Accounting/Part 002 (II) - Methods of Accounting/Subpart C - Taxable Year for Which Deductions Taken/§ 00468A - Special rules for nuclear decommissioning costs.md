@@ -116,11 +116,13 @@ For purposes of this section, the term “nuclear powerplant” includes any uni
 
 For purposes of this section, a taxpayer shall be deemed to have made a payment to the Fund on the last day of a taxable year if such payment is made on account of such taxable year and is made within 21/2 months after the close of such taxable year.
 
-(Added Pub. L. 98–369, div. A, title I, §91(c)(1), July 18, 1984, 98 Stat. 604; amended Pub. L. 99–514, title XVIII, §1807(a)(4)(A)(i), (B)–(E)(vi), Oct. 22, 1986, 100 Stat. 2812, 2813; Pub. L. 102–486, title XIX, §1917(a), (b), Oct. 24, 1992, 106 Stat. 3024, 3025.)
+(Added Pub. L. 98–369, div. A, title I, §91(c)(1), July 18, 1984, 98 Stat. 604; amended Pub. L. 99–514, title XVIII, §1807(a)(4)(A)(i), (B)–(E)(vi), Oct. 22, 1986, 100 Stat. 2812, 2813; Pub. L. 102–486, title XIX, §1917(a), (b), Oct. 24, 1992, 106 Stat. 3024, 3025; Pub. L. 104–188, title I, §1704(j)(6), Aug. 20, 1996, 110 Stat. 1882.)
 
 #### Amendments
 
-1992—Subsec. (e)(2)(A). Pub. L. 102–486, §1917(b)(1), which directed that subpar. (A) be amended by striking “at the rate equal to the highest rate of tax specified in section 11(b)” and inserting “at the rate set forth in subparagraph (B)”, was executed by making the substitution for “at a rate equal to the highest rate of tax specified in section 11(b)”, to reflect the probable intent of Congress.
+1996—Subsec. (e)(2)(A). Pub. L. 104–188 provided that the amendment made by section 1917(b)(1) of Pub. L. 102–486 shall be applied as if “at a rate” appeared instead of “at the rate” in the material proposed to be stricken. See 1992 Amendment note below.
+
+1992—Subsec. (e)(2)(A). Pub. L. 102–486, §1917(b)(1), which directed that subpar. (A) be amended by striking “at the rate equal to the highest rate of tax specified in section 11(b)” and inserting “at the rate set forth in subparagraph (B)”, was executed by making the substitution for “at a rate equal to the highest rate of tax specified in section 11(b)”. See 1996 Amendment note above.
 
 Subsec. (e)(2)(B) to (D). Pub. L. 102–486, §1917(b)(2), added subpar. (B) and redesignated former subpars. (B) and (C) as (C) and (D), respectively.
 

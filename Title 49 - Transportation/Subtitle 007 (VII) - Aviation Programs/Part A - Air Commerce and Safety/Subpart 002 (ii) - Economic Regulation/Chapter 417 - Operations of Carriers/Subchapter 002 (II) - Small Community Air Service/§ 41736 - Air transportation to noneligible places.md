@@ -34,7 +34,7 @@ Approval for Certain Air Transportation.—Notwithstanding subsection (a)(1)(B) 
 
 Level of Air Transportation.—(1) If the Secretary designates a place under subsection (a)(1) of this section as eligible for compensation under this section, the Secretary shall decide, not later than 6 months after the date of the designation, on the level of air transportation to be provided under this section. Before making a decision, the Secretary shall consider the views of any interested community, the appropriate State authority of the State in which the place is located, and the State or local government or person agreeing to pay compensation for the transportation under subsection (b)(4) of this section.
 
-(2) After making the decision under paragraph (1) of this subsection, the Secretary shall provide notice that any air carrier that is willing toprovide the level of air transportation established under paragraph (1) for a place may submit an application to provide the transportation. In selecting an applicant, the Secretary shall consider, among other factors—
+(2) After making the decision under paragraph (1) of this subsection, the Secretary shall provide notice that any air carrier that is willing to provide the level of air transportation established under paragraph (1) for a place may submit an application to provide the transportation. In selecting an applicant, the Secretary shall consider, among other factors—
 
 &emsp;(A) the factors listed in section 41733(c)(1) of this title; and
 
@@ -68,7 +68,9 @@ Ending, Suspending, and Reducing Air Transportation.—An air carrier providing 
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -82,11 +84,11 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §419(d); added Oct. 24, 1978, Pu
 
 41736(b)
 
-49 App.:1389(d) (2)(B).
+49 App.:1389(d)(2)(B).
 
 41736(c)(1)
 
-49 App.:1389(d) (3)(A).
+49 App.:1389(d)(3)(A).
 
 41736(c)(2)
 
@@ -98,11 +100,11 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §419(d); added Oct. 24, 1978, Pu
 
 41736(e)
 
-49 App.:1389(d) (3)(B).
+49 App.:1389(d)(3)(B).
 
 41736(f)
 
-49 App.:1389(d) (2)(D).
+49 App.:1389(d)(2)(D).
 
 41736(g)
 
@@ -124,5 +126,5 @@ Section 401 of the Federal Aviation Act of 1958, referred to in subsec. (b)(1), 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 40109, 41110, 41738, 46301 of this title.
+This section is referred to in sections 41110, 41738 of this title.
 

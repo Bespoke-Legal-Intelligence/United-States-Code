@@ -10,7 +10,9 @@ The Secretary of Transportation may amend a regulation or change a requirement a
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -24,9 +26,9 @@ Feb. 4, 1887, ch. 104, 24 Stat. 379, §25(c); added Feb. 28, 1920, ch. 91, §441
 
 &nbsp;
 
-49 App.:1655(e) (6)(A).
+49 App.:1655(e)(6)(A).
 
 Oct. 15, 1966, Pub. L. 89–670, §6(e)(6)(A), 80 Stat. 939.
 
-In this section, before clause (1), the text of 49 App.:26(c) (words before 2d proviso) is omitted as executed. The words “The Secretary of Transportation may amend . . . change” are substituted for “and approved by the Secretary of Transportation” and “the Secretary may . . . revise, amend, or modify” for clarity and to eliminate unnecessary words. The words “regulation or . . . a requirement applicable to a railroad carrier for installing, maintaining, inspecting, or repairing a signal system under this chapter” are substituted for “rules, standards, and instructions herein provided for” and “rules, standards, and instructions prescribed by him under this subsection” for clarity, for consistency in the revised title, and because of the restatement. Clause (1) is substituted for “such railroad may from time to time change . . . but such change shall not take effect and the new rules, standards, and instructions be enforced until they shall have been filed with” for clarity and to eliminate unnecessary words. The words “and as revised, amended, or modified they shall be obligatory upon the railroad after a copy thereof shall have been served as above provided” are omitted as being superseded by 5:ch. 5, subch. II.
+In this section, before clause (1), the text of 49 App.:26(c) (words before 2d proviso) is omitted as executed. The words “The Secretary of Transportation may amend . . . change” are substituted for “and approved by the Secretary of Transportation” and “the Secretary may . . . revise, amend, or modify” for clarity and to eliminate unnecessary words. The words “regulation or . . . a requirement applicable to a railroad carrier for installing, maintaining, inspecting, or repairing a signal system under this chapter” are substituted for “rules, standards, and instructions herein provided for” and “rules, standards, and instructions prescribed by him under this subsection” for clarity, for consistency in the revised title, and because of the restatement. Clause (1) is substituted for “such railroad may from time to time change . . . but such change shall not take effect and the new rules, standards, and instructions be enforced until they shall have been filed with” for clarity and to eliminate unnecessary words. The words “and as revised, amended, ormodified they shall be obligatory upon the railroad after a copy thereof shall have been served as above provided” are omitted as being superseded by 5:ch. 5, subch. II.
 

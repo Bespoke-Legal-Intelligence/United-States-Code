@@ -28,17 +28,25 @@ For purposes of this chapter, the term—
 
 &emsp;(6) “major defense equipment” means any item of significant military equipment on the United States Munitions List having a nonrecurring research and development cost of more than $50,000,000 or a total production cost of more than $200,000,000;
 
-&emsp;(7) “defense articles and defense services” means, with respect to commercial exports subject to the provisions of section 2778 of this title, those items designated by the President pursuant to subsection (a)(1) of such section; and
+&emsp;(7) “defense articles and defense services” means, with respect to commercial exports subject to the provisions of section 2778 of this title, those items designated by the President pursuant to subsection (a)(1) of such section;
 
-&emsp;(8) “design and construction services” means, with respect to sales under section 2769 of this title, the design and construction of real property facilities, including necessary construction equipment and materials, engineering services, construction contract management services relating thereto, and technical advisory assistance in the operation and maintenance of real property facilities provided or performed by any department or agency of the Department of Defense or by a contractor pursuant to a contract with such department or agency.
+&emsp;(8) “design and construction services” means, with respect to sales under section 2769 of this title, the design and construction of real property facilities, including necessary construction equipment and materials, engineering services, construction contract management services relating thereto, and technical advisory assistance in the operation and maintenance of real property facilities provided or performed by any department or agency of the Department of Defense or by a contractor pursuant to a contract with such department or agency; and
 
-(Pub. L. 90–629, ch. 4, §47, as added Pub. L. 93–189, §25(12), Dec. 17, 1973, 87 Stat. 731; amended Pub. L. 94–329, title II, §215, June 30, 1976, 90 Stat. 746; Pub. L. 96–92, §22, Oct. 29, 1979, 93 Stat. 710; Pub. L. 96–533, title I, §105(f), Dec. 16, 1980, 94 Stat. 3135; Pub. L. 99–83, title I, §107(b), title XII, §1211(b)(3), Aug. 8, 1985, 99 Stat. 197, 279.)
+&emsp;(9) “significant military equipment” means articles—
+
+&emsp;&emsp;(A) for which special export controls are warranted because of the capacity of such articles for substantial military utility or capability; and
+
+&emsp;&emsp;(B) identified on the United States Munitions List.
+
+(Pub. L. 90–629, ch. 4, §47, as added Pub. L. 93–189, §25(12), Dec. 17, 1973, 87 Stat. 731; amended Pub. L. 94–329, title II, §215, June 30, 1976, 90 Stat. 746; Pub. L. 96–92, §22, Oct. 29, 1979, 93 Stat. 710; Pub. L. 96–533, title I, §105(f), Dec. 16, 1980, 94 Stat. 3135; Pub. L. 99–83, title I, §107(b), title XII, §1211(b)(3), Aug. 8, 1985, 99 Stat. 197, 279; Pub. L. 104–164, title I, §144, July 21, 1996, 110 Stat. 1434.)
 
 #### References in Text
 
-The Atomic Energy Act of 1954, as amended, referred to in par. (3), is act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 921, as amended, which is classified principally to chapter 23 (§2011 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 42 and Tables.
+The Atomic Energy Act of 1954, as amended, referred to in par. (3), is act Aug. 30, 1954, ch. 1073, §1, 68 Stat.921, as amended, which is classified principally to chapter 23 (§2011 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 42 and Tables.
 
 #### Amendments
+
+1996—Par. (9). Pub. L. 104–164 added par. (9).
 
 1985—Par. (2). Pub. L. 99–83, §107(b), inserted “, except as otherwise provided in section 2761(a) of this title,”.
 
@@ -58,5 +66,5 @@ Amendment by Pub. L. 99–83 effective Oct. 1, 1985, see section 1301 of Pub. L.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 2770 of this title; title 10 section 2350i; title 12 section 635.
+This section is referred to in sections 2321j, 2753, 2761, 2770 of this title; title 10 sections 2350i, 2540d; title 12 section 635.
 

@@ -10,7 +10,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary may permit a recipient country to make payment under an agreement under this subchapter in the local currency of such country in order to use the proceeds from such payments to carry out activities under section 1704 of this title.
+&emsp;&emsp;The Secretary may permit payment under an agreement under this subchapter in the local currency of the appropriate country in order to use the proceeds from such payments to carry out activities under section 1704 of this title.
 
 #### (B) Rates of exchange
 
@@ -22,19 +22,25 @@ Such agreements shall provide that interest accrue on the payment deferred under
 
 #### (c) Duration
 
-Payments required under such agreements may be made in reasonable annual amounts over the period (not less than 10 nor more than 30 years from the date of the last delivery of commodities in each year under such agreement) specified in the agreement.
+Payments required under such agreements may be made in reasonable annual amounts over the period (not more than 30 years from the date of the last delivery of commodities in each yearunder such agreement) specified in the agreement.
 
 #### (d) Deferral of payments
 
-The Secretary may defer the date on which the recipient country is required to begin making payment, under such agreements, for a period of not in excess of 7 years after the date of the last delivery of commodities in each year under the agreement, and interest shall be computed from the date of such last delivery.
+The Secretary may defer the date on which the developing country or private entity is required to begin making payment, under such agreements, for a period of not in excess of 5 years after the date of the last delivery of commodities in each year under the agreement, and interest shall be computed from the date of such last delivery.
 
 #### (e) Delivery of commodities
 
 Delivery of the commodities shall be made in accordance with the terms of the agreement.
 
-(July 10, 1954, ch. 469, title I, §103, 68 Stat. 456; Aug. 12, 1955, ch. 873, §1, 69 Stat. 721; May 28, 1956, ch. 327, title II, §208(a), 70 Stat. 201; Aug. 3, 1956, ch. 933, §1, 70 Stat. 988; Aug. 13, 1957, Pub. L. 85–128, §1(2), 71 Stat. 345; Sept. 6, 1958, Pub. L. 85–931, §2, 72 Stat. 1790; Sept. 21, 1959, Pub. L. 86–341, title I, §2, 73 Stat. 606; May 4, 1961, Pub. L. 87–28, 75 Stat. 64; Aug. 8, 1961, Pub. L. 87–128, title II, §201(2), 75 Stat. 306; Oct. 8, 1964, Pub. L. 88–638, §1(4), (5), 78 Stat. 1035; Nov. 11, 1966, Pub. L. 89–808, §2(B), 80 Stat. 1526; July 29, 1968, Pub. L. 90–436, §§4, 5, 82 Stat. 450; Nov. 30, 1970, Pub. L. 91–524, title VII, §703, as added Aug. 10, 1973, Pub. L. 93–86, §1(26), 87 Stat. 237; Oct. 18, 1973, Pub. L. 93–125, §1(e), 87 Stat. 450; Dec. 20, 1975, Pub. L. 94–161, title II, §203, 89 Stat. 851; Aug. 3, 1977, Pub. L. 95–88, title II, §§201(b), 211(b)(1), 91 Stat. 545, 551; Oct. 6, 1978, Pub. L. 95–424, title I, §102(b)(2)(B), 92 Stat. 941; Aug. 14, 1979, Pub. L. 96–53, title II, §201, 93 Stat. 368; Dec. 29, 1981, Pub. L. 97–113, title IV, §401(2)–(4), 95 Stat. 1537; Dec. 23, 1985, Pub. L. 99–198, title XI, §1111(d), 99 Stat. 1475; Dec. 22, 1987, Pub. L. 100–202, §9, 101 Stat. 1329–448; Nov. 28, 1990, Pub. L. 101–624, title XV, §1512, 104 Stat. 3634.)
+(July 10, 1954, ch. 469, title I, §103, 68 Stat. 456; Aug. 12, 1955, ch. 873, §1, 69 Stat. 721; May 28, 1956, ch. 327, title II, §208(a), 70 Stat. 201; Aug. 3, 1956, ch. 933, §1, 70 Stat. 988; Aug. 13, 1957, Pub. L. 85–128, §1(2), 71 Stat. 345; Sept. 6, 1958, Pub. L. 85–931, §2, 72 Stat. 1790; Sept. 21, 1959, Pub. L. 86–341, title I, §2, 73 Stat. 606; May 4, 1961, Pub. L. 87–28, 75 Stat. 64; Aug. 8, 1961, Pub. L. 87–128, title II, §201(2), 75 Stat. 306; Oct. 8, 1964, Pub. L. 88–638, §1(4), (5), 78 Stat. 1035; Nov. 11, 1966, Pub. L. 89–808, §2(B), 80 Stat. 1526; July 29, 1968, Pub. L. 90–436, §§4, 5, 82 Stat. 450; Nov. 30, 1970, Pub. L. 91–524, title VII, §703, as added Aug. 10, 1973, Pub. L. 93–86, §1(26), 87 Stat. 237; Oct. 18, 1973, Pub. L. 93–125, §1(e), 87 Stat. 450; Dec. 20, 1975, Pub. L. 94–161, title II, §203, 89 Stat. 851; Aug. 3, 1977, Pub. L. 95–88, title II, §§201(b), 211(b)(1), 91 Stat. 545, 551; Oct. 6, 1978, Pub. L. 95–424, title I, §102(b)(2)(B), 92 Stat. 941; Aug. 14, 1979, Pub. L. 96–53, title II, §201, 93 Stat. 368; Dec. 29, 1981, Pub. L. 97–113, title IV, §401(2)–(4), 95 Stat. 1537; Dec. 23, 1985, Pub. L. 99–198, title XI, §1111(d), 99 Stat. 1475; Dec. 22, 1987, Pub. L. 100–202, §9, 101 Stat. 1329–448; Nov. 28, 1990, Pub. L. 101–624, title XV, §1512, 104 Stat. 3634; Apr. 4, 1996, Pub. L. 104–127, title II, §204, 110 Stat. 953.)
 
 #### Amendments
+
+1996—Subsec. (a)(2)(A). Pub. L. 104–127, §204(1), struck out “a recipient country to make” after “may permit” and substituted “the appropriate country” for “such country”.
+
+Subsec. (c). Pub. L. 104–127, §204(2), struck out “less than 10 nor” before “more than 30”.
+
+Subsec. (d). Pub. L. 104–127, §204(3), substituted “developing country or private entity” for “recipient country” and “5 years” for “7 years”.
 
 1990—Pub. L. 101–624 amended section generally, substituting present provisions for provisions requiring President to consider efforts of recipients to increase agricultural production, determine amount needed in foreign currencies, protect other markets for United States commodities, make sales only to friendly countries, use private trade channels whenever practicable, consider expansion of markets, prevent resale by recipients, obtain favorable exchange rates, emphasize production of food crops, assist friendly countries in avoiding Communist domination, require payment of at least 5 per centum of purchase price upon delivery in dollars or convertible currency, obtain commitments from recipients to publicize source of food, require convertibility of foreign currencies, avoid displacement of sales that would otherwise have been made, assure United States obtains fair share in increase of commercial purchases by recipients, assure convertibility of foreign currencies at uniform exchange rates, and favor countries promoting private sector in allocation of commodities.
 
@@ -64,7 +70,7 @@ Subsec. (<i>l</i>). Pub. L. 97–113, §401(4), struck out requirement that Pres
 
 1977—Subsec. (b). Pub. L. 95–88, §211(b)(1), substituted “and in subchapters I and III–A of this chapter” for “and in section 1706(b)(2) of this title” after “uses specified in subsections (a), (b), (c), (e), and (h) of section 1704”.
 
-Subsec. (d). Pub. L. 95–88, §201(b), struck out provisions that “friendly country” not include, for the purpose only of sales of agricultural commodities under this subchapter, any nation which sold or furnished or permitted ships or aircraft under its registry to transport to or from Cuba or North Vietnam (excluding United States installations in Cuba) any equipment, materials, or commodities so long as they were governed by a Communist regime: <i>Provided</i>, That this exclusion from the definition of “friendly country” could be waived by the President if he determined that such waiver was in the national interest and reported such determination to the Congress within 10 days of the date of such determination, and struck out provisions that “friendly country” also not include, for the purposes only of sales under this subchapter, the United Arab Republic, unless the President determined that such sale was in the national interest of the United States, that no sales to the United Arab Republic be based upon the requirements of that nation for more than one fiscal year, and that the President keep the President of the Senate and the Speaker of the House of Representatives fully and currently informed with respect to sales made to the United Arab Republic under this subchapter.
+Subsec. (d). Pub. L. 95–88, §201(b), struck out provisions that “friendly country” not include, for the purpose only of sales of agricultural commodities under this subchapter, any nation which sold or furnished or permitted ships or aircraft under its registry to transport to or from Cuba or North Vietnam (excluding United States installations in Cuba) any equipment, materials, or commodities so long as they were governed by a Communist regime: <i>Provided</i>, That this exclusion from the definition of “friendly country” could be waived by the President if he determined that such waiver was in the national interest and reported such determination to the Congress within 10 days of the date of such determination, and struck out provisions that “friendly country” also not include, for the purposes only of sales under this subchapter, the United Arab Republic, unless the President determined thatsuch sale was in the national interest of the United States, that no sales to the United Arab Republic be based upon the requirements of that nation for more than one fiscal year, and that the President keep the President of the Senate and the Speaker of the House of Representatives fully and currently informed with respect to sales made to the United Arab Republic under this subchapter.
 
 1975—Subsec. (a). Pub. L. 94–161, §203(1), substituted “efforts to increase their own agricultural production, especially through small, family farm agriculture, to improve their facilities for transportation, storage, and distribution of food commodities, and to reduce their rate of population growth” for “efforts to meet their problems of food production and population growth”.
 
@@ -82,7 +88,7 @@ Subsecs. (<i>o</i>) to (q). Pub. L. 90–436, §5, added subsecs. (<i>o</i>) to 
 
 1966—Subsec. (a). Pub. L. 89–808 substituted provisions respecting self-help measures for meeting problems of food production and population growth for former provisions for appropriations for reimbursement of Commodity Credit Corporation, advance use of other funds, and classification of expenditures, now provided for in part by section 1733 of this title.
 
-Subsec. (b). Pub. L. 89–808 substituted provisions respecting taking steps to assure a progressive transition from sales for foreign currencies to sales for dollars (such transition to be completed by December 31, 1971) but authorizing payment in foreign currencies for purposes of section 1704(a) to (c), (e), and (h) of this titlefor former limitation on transactions, now provided for by section 1710 of this title.
+Subsec. (b). Pub. L. 89–808 substituted provisions respecting taking steps to assure a progressive transition from sales for foreign currencies to sales for dollars (such transition to be completed by December 31, 1971) but authorizing payment in foreign currencies for purposes of section 1704(a) to (c), (e), and (h) of this title for former limitation on transactions, now provided for by section 1710 of this title.
 
 Subsec. (c). Pub. L. 89–808 redesignated provisions of former section 1701(a) of this title as subsec. (c), substituting “subchapter” for “chapter”.
 
@@ -102,7 +108,7 @@ Subsec. (j). Pub. L. 89–808 incorporated in provisions added as subsec. (j) fo
 
 Subsec. (k). Pub. L. 89–808 added subsec. (k).
 
-Subsec. (<i>l</i>). Pub. L. 89–808 added subsec. (<i>l).</i>
+Subsec. (<i>l</i>). Pub. L. 89–808 added subsec. (<i>l</i>).
 
 Subsec. (m). Pub. L. 89–808 redesignated provisions of former section 1701(g) of this title as par. (1) and added par. (2).
 
@@ -159,4 +165,8 @@ Section 201(2) of Pub. L. 87–128 provided that the amendment made by that sect
 #### Effective Date of 1959 Amendment
 
 Section 2 of Pub. L. 86–341 provided that the amendment made by that section is effective Jan. 1, 1960.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 1736<i>o</i> of this title.
 

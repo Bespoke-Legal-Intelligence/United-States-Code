@@ -4,7 +4,7 @@
 
 Penalty.—(1) Subject to section 21304 of this title, a person violating a regulation prescribed or order issued under chapter 201 of this title related to accident and incident reporting or investigation, or violating chapters 203–209 of this title or a regulation or requirement prescribed or order issued under chapters 203–209, is liable to the United States Government for a civil penalty. An act by an individual that causes a railroad carrier to be in violation is a violation. A separate violation occurs for each day the violation continues.
 
-(2) The Secretary of Transportation imposes a civil penalty under this subsection. The amount of the penalty shall be at least $500 but not more than $10,000. However, when a grossly negligent violation or a pattern of repeated violations has caused an imminent hazard of death or injury to individuals, or has caused death or injury, the amount may be not more than $20,000.
+(2) The Secretary of Transportation imposes a civil penalty under this subsection. The amount of the penalty shall be at least $500 but not more than $10,000. However, when a grossly negligent violation or a pattern of repeated violations has caused an imminent hazard of death or injury toindividuals, or has caused death or injury, the amount may be not more than $20,000.
 
 (3) The Secretary may compromise the amount of the civil penalty under section 3711 of title 31. In determining the amount of a compromise, the Secretary shall consider—
 
@@ -24,7 +24,9 @@ Civil Actions To Collect.—The Attorney General shall bring a civil action in a
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -64,7 +66,7 @@ Apr. 14, 1910, ch. 160, §3 (1st sentence words between semicolon and proviso), 
 
 45:13 (1st sentence words before last comma, 2d sentence words before proviso, last sentence).
 
-Apr. 14, 1910, ch. 160, §4 (1st sentence words before last comma, 2d sentence words before proviso, last sentence), 36 Stat. 299; Aug. 14, 1957, Pub. L. 85–135, §1(2), 71 Stat. 352; July 8, 1976, Pub. L. 94–348, §3(b), 90 Stat. 818; Nov. 2, 1978, Pub. L. 95–574, §7(b), 92 Stat. 2461; June 22, 1988, Pub. L. 100–342, §13(3)(C)(i)–(iv), 102 Stat. 632; Sept. 3, 1992, Pub. L. 102–365, §§4(a)(1), (c)(4), 9(a)(5), 106 Stat. 973, 974, 978.
+Apr. 14, 1910, ch. 160, §4 (1st sentence words before last comma, 2d sentence words before proviso, last sentence), 36 Stat. 299; Aug. 14, 1957, Pub. L. 85–135, §1(2), 71 Stat. 352; July 8, 1976, Pub. L. 94–348, §3(b), 90 Stat. 818; Nov. 2, 1978, Pub. L. 95–574, §7(b), 92 Stat. 2461; June 22, 1988, Pub. L. 100–342, §13(3) (C)(i)–(iv), 102 Stat. 632; Sept. 3, 1992, Pub. L. 102–365, §§4(a)(1), (c)(4), 9(a)(5), 106 Stat. 973, 974, 978.
 
 &nbsp;
 
@@ -104,7 +106,7 @@ Feb. 4, 1887, ch. 104, 24 Stat. 379, §25(h) (1st sentence words before last com
 
 &nbsp;
 
-49 App.:1655(e) (1)(A), (C), (E)–(G), (K), (6)(A).
+49 App.:1655(e)(1)(A), (C), (E)–(G), (K), (6)(A).
 
 Oct. 15, 1966, Pub. L. 89–670, §6(e)(1)(A), (C), (E)–(G), (K), (6)(A), 80 Stat. 939.
 

@@ -6,7 +6,7 @@ The United States Court of Federal Claims and the United States Court of Federal
 
 #### (b) Parties
 
-(1) In all proceedings brought by the filing of a petition under section 300aa–11(b) of this title, the Secretary shall be named as the respondent, shall participate, and shall be represented in accordance with section 518(a) of title 28.
+(1) In all proceedings brought by the filing of a petition under section 300aa–11(b) of this title,the Secretary shall be named as the respondent, shall participate, and shall be represented in accordance with section 518(a) of title 28.
 
 (2) Within 30 days after the Secretary receives service of any petition filed under section 300aa–11 of this title the Secretary shall publish notice of such petition in the Federal Register. The special master designated with respect to such petition under subsection (c) of this section shall afford all interested persons an opportunity to submit relevant, written information—
 
@@ -82,7 +82,7 @@ The United States Court of Federal Claims and the United States Court of Federal
 
 (C) In conducting a proceeding on a petition a special master shall suspend the proceedings one time for 30 days on the motion of either party. After a motion for suspension is granted, further motions for suspension by either party may be granted by the special master, if the special master determines the suspension is reasonable and necessary, for an aggregate period not to exceed 150 days.
 
-(D) If, in reviewing proceedings on petitions for vaccine-related injuries or deaths associated with the administration of vaccines before October 1, 1988, the chief special master determines that the number of filings and resultant workload place an undue burden on the parties or the special master involved in such proceedings, the chief special master may, in the interest of justice, suspend proceedings on any petition for up to 30 months (but for not more than 6 months ata time) in addition to the suspension time under subparagraph (C).
+(D) If, in reviewing proceedings on petitions for vaccine-related injuries or deaths associated with the administration of vaccines before October 1, 1988, the chief special master determines that the number of filings and resultant workload place an undue burden on the parties or the special master involved in such proceedings, the chief special master may, in the interest of justice, suspend proceedings on any petition for up to 30 months (but for not more than 6 months at a time) in addition to the suspension time under subparagraph (C).
 
 (4)(A) Except as provided in subparagraph (B), information submitted to a special master or the court in a proceeding on a petition may not be disclosed to a person who is not a party to the proceeding without the express written consent of the person who submitted the information.
 
@@ -118,7 +118,7 @@ The findings of fact and conclusions of law of the United States Court of Federa
 
 If—
 
-&emsp;(1) a special master fails to make a decision on a petition within the 240 days prescribed by subsection (d)(3)(A)(ii) of this section (excluding (A) any period of suspension under subsection (d)(3)(C) or (d)(3)(D) of this section, and (B) any days the petition is before a special master as a result of a remand under subsection (e)(2)(C) of this section), or
+&emsp;(1) a special master fails to make a decision on a petition within the 240 days prescribed by subsection (d)(3)(A)(ii) of this section (excluding (A) any period of suspension under subsection (d)(3)(C) or (d)(3)(D) of this section, and\(B) any days the petition is before a special master as a result of a remand under subsection (e)(2)(C) of this section), or
 
 &emsp;(2) the United States Court of Federal Claims fails to enter a judgment under this section on a petition within 420 days (excluding (A) any period of suspension under subsection (d)(3)(C) or (d)(3)(D) of this section, and (B) any days the petition is before a special master as a result of a remand under subsection (e)(2)(C) of this section) after the date on which the petition was filed,
 
@@ -142,7 +142,7 @@ A prior section 2112 of act July 1, 1944, was successively renumbered by subsequ
 
 1993—Subsec. (d)(3)(D). Pub. L. 103–66 substituted “30 months (but for not more than 6 months at a time)” for “540 days”.
 
-1992—Subsecs. (a), (c) to (g). Pub. L. 102–572 substituted “United States Court of Federal Claims” for“United States Claims Court” and “Court of Federal Claims” for “Claims Court”, wherever appearing.
+1992—Subsecs. (a), (c) to (g). Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court” and “Court of Federal Claims” for “Claims Court”, wherever appearing.
 
 1991—Subsec. (d)(3)(D). Pub. L. 102–168, §201(c), (h)(2), realigned margin and substituted “540 days” for “180 days”.
 
@@ -224,7 +224,7 @@ Except as specifically provided in section 411 of Pub. L. 100–360, amendment b
 
 #### Review by 3-Judge Panel
 
-Section 322(c) of Pub. L. 99–660, as added by Pub. L. 101–502, §5(g)(2), Nov. 3, 1990, 104 Stat. 1288, and amended by Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516, provided that: “If the review authorized by section 2112(f) \[subsec. (f) of this section\] is held invalidbecause the judgment of the United States Court of Federal Claims being reviewed did not arise from a case or controversy under Article III of the Constitution, such judgment shall be reviewed by a 3-judge panel of the United States Court of Federal Claims. Such panel shall not include the judge who participated in such judgment.”
+Section 322(c) of Pub. L. 99–660, as added by Pub. L. 101–502, §5(g)(2), Nov. 3, 1990, 104 Stat. 1288, and amended by Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516, provided that: “If the review authorized by section 2112(f) \[subsec. (f) of this section\] is held invalid because the judgment of the United States Court of Federal Claims being reviewed did not arise from a case or controversy under Article III of the Constitution, such judgment shall be reviewed by a 3-judge panel of the United States Court of Federal Claims. Such panel shall not include the judge who participated in such judgment.”
 
 \[Enactment of section 322(c) of Pub. L. 99–660 by section 5(g)(2) of Pub. L. 101–502, set out above, effective Nov. 14, 1986, see section 5(h) of Pub. L. 101–502, set out as an Effective Date of 1990 Amendment note under section 300aa–11 of this title.\]
 

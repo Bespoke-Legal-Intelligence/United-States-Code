@@ -2,19 +2,27 @@
 
 #### (a) General rule
 
-If a partnership return is filed by an entity for a taxable year but it is determined that the entity is not a partnership for such year, then, to the extent provided in regulations, the provisions of this subchapter are hereby extended in respect of such year to such entity and its items and to persons holding an interest in such entity.
+If a partnership return is filed by an entity for a taxable year but it is determined that the entity is not a partnership for such year, then, to the extent provided in regulations, the provisions of this subchapter are hereby extended in respect of such year to such entity and its itemsand to persons holding an interest in such entity.
 
 #### (b) Similar rules in certain cases
 
-If for any taxable year—
+If a partnership return is filed for any taxable year but it is determined that there is no entity for such taxable year, to the extent provided in regulations, rules similar to the rules of subsection (a) shall apply.
 
-&emsp;(1) an entity files a return as an S corporation but it is determined that the entity was not an S corporation for such year, or
+(Added Pub. L. 98–369, div. A, title VII, §714(p)(1), July 18, 1984, 98 Stat. 964; amended Pub. L. 104–188, title I, §1307(c)(3)(B), Aug. 20, 1996, 110 Stat. 1782.)
 
-&emsp;(2) a partnership return or S corporation return is filed but it is determined that there is no entity for such taxable year,
+#### Amendments
 
-> then, to the extent provided in regulations, rules similar to the rules of subsection (a) shall apply.
+1996—Subsec. (b). Pub. L. 104–188 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “If for any taxable year—
 
-(Added Pub. L. 98–369, div. A, title VII, §714(p)(1), July 18, 1984, 98 Stat. 964.)
+&emsp;“(1) an entity files a return as an S corporation but it is determined that the entity was not an S corporation for such year, or
+
+&emsp;“(2) a partnership return or S corporation return is filed but it is determined that there is no entity for such taxable year,
+
+> then, to the extent provided in regulations, rules similar to the rules of subsection (a) shall apply.”
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–188 applicable to taxable years beginning after Dec. 31, 1996, see section 1317(a) of Pub. L. 104–188, set out as a note under section 641 of this title.
 
 #### Effective Date
 

@@ -10,19 +10,21 @@ Incurring Obligations.—The Secretary may incur obligations to make grants from
 
 (c)
 
-Expiration of Authority.—After September 30, 1996, the Secretary may not incur obligations under subsection (b) of this section, except for obligations of amounts—
+Expiration of Authority.—After September 30, 1998, the Secretary may not incur obligations under subsection (b) of this section, except for obligations of amounts—
 
 &emsp;(1) remaining available after that date under section 47117(b) of this title; or
 
 &emsp;(2) recovered by the United States Government from grants made under this chapter if the amounts are obligated only for increases under section 47108(b)(2) and (3) of this title in the maximum amount of obligations of the Government for any other grant made under this title.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1252; Pub. L. 103–305, title I, §101(b), Aug. 23, 1994, 108Stat. 1571; Pub. L. 103–429, §6(63), Oct. 31, 1994, 108 Stat. 4385.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1252; Pub. L. 103–305, title I, §101(b), Aug. 23, 1994, 108 Stat. 1571; Pub. L. 103–429, §6(63), Oct. 31, 1994, 108 Stat. 4385; Pub. L. 104–264, title I, §101(b), Oct. 9, 1996, 110 Stat. 3216.)
 
 Historical and Revision Notes
 
 Pub. L. 103–272
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -58,7 +60,9 @@ In subsection (c), the words “except for obligations of amounts” are substit
 
 Pub. L. 103–429
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -76,9 +80,15 @@ In subsection (c), the text of section 109(b) of the Airport Improvement Program
 
 #### Amendments
 
+1996—Subsec. (c). Pub. L. 104–264 substituted “1998” for “1996” in introductory provisions.
+
 1994—Subsec. (c). Pub. L. 103–429 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “After September 30, 1996, the Secretary may not incur obligations under subsection (b) of this section, except for obligations of amounts remaining available after that date under section 47117(b) of this title.”
 
 Pub. L. 103–305 substituted “After September 30, 1996, the Secretary” for “After September 30, 1993, the Secretary”.
+
+#### Effective Date of 1996 Amendment
+
+Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
 
 #### Section Referred to in Other Sections
 

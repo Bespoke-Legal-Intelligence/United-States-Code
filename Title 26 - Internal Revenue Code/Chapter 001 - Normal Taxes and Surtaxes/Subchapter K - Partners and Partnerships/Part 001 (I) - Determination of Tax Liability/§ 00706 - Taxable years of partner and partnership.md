@@ -28,7 +28,7 @@ In computing the taxable income of a partner for a taxable year, the inclusions 
 
 #### (2) Partner's taxable year
 
-&emsp;A partner may not change to a taxable year other than that of a partnership in which he is a principal partner unless he establishes, to the satisfaction of the Secretary, a business purpose therefor.
+&emsp;A partner may not change to a taxable year other than that of a partnership in which he isa principal partner unless he establishes, to the satisfaction of the Secretary, a business purpose therefor.
 
 #### (3) Principal partner
 
@@ -54,7 +54,7 @@ In computing the taxable income of a partner for a taxable year, the inclusions 
 
 #### (B) Further change not required for 3 years
 
-&emsp;&emsp;Except as provided in regulations necessary to prevent the avoidance of this section, if, by reason of paragraph (1)(B)(i), the taxable year of a partnership is changed,such partnership shall not be required to change to another taxable year for either of the 2 taxable years following the year of change.
+&emsp;&emsp;Except as provided in regulations necessary to prevent the avoidance of this section, if, by reason of paragraph (1)(B)(i), the taxable year of a partnership is changed, such partnership shall not be required to change to another taxable year for either of the 2 taxable years following the year of change.
 
 #### (5) Application with other sections
 
@@ -132,7 +132,7 @@ In computing the taxable income of a partner for a taxable year, the inclusions 
 
 &emsp;&emsp;(B) such partnership is a partner in another partnership (hereinafter in this paragraph referred to as the “lower tier partnership”),
 
-> &emsp;then (except to the extent provided in regulations) each partner's distributive share of anyitem of the upper tier partnership attributable to the lower tier partnership shall be determined by assigning the appropriate portion (determined by applying principles similar to the principles of subparagraphs (C) and (D) of paragraph (2)) of each such item to the appropriate days during which the upper tier partnership is a partner in the lower tier partnership and by allocating the portion assigned to any such day among the partners in proportion to their interests in the upper tier partnership at the close of such day.
+> &emsp;then (except to the extent provided in regulations) each partner's distributive share of any item of the upper tier partnership attributable to the lower tier partnership shall be determined by assigning the appropriate portion (determined by applying principles similar to the principles of subparagraphs (C) and (D) of paragraph (2)) of each such item to the appropriate days during which the upper tier partnership is a partner in the lower tier partnership and by allocating the portion assigned to any such day among the partners in proportion to their interests in the upper tier partnership at the close of such day.
 
 #### (4) Taxable year determined without regard to subsection (c)(2)(A)
 
@@ -206,7 +206,7 @@ Nothing in section 806 of Pub. L. 99–514 or in any legislative history relatin
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
 #### Section Referred to in Other Sections
 

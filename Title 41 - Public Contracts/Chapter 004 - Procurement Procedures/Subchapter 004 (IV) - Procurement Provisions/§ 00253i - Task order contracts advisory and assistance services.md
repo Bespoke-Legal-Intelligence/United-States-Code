@@ -36,7 +36,7 @@ The notice required by section 416 of this title and section 637(e) of title 15 
 
 (1) A task order may not increase the scope, period, or maximum value of the task order contract under which the order is issued. The scope, period, or maximum value of the contract may be increased only by modification of the contract.
 
-(2) Unless use of procedures other than competitive procedures is authorized by an exception in subsection (c) of section 253 of this title and approved in accordance with subsection (f)of such section, competitive procedures shall be used for making such a modification.
+(2) Unless use of procedures other than competitive procedures is authorized by an exception in subsection (c) of section 253 of this title and approved in accordance with subsection (f) of such section, competitive procedures shall be used for making such a modification.
 
 (3) Notice regarding the modification shall be provided in accordance with section 416 of this title and section 637(e) of title 15.
 
@@ -66,7 +66,7 @@ For effective date and applicability of section, see section 10001 of Pub. L. 10
 
 #### Construction
 
-Section not to be construed as modifying or superseding, or as intended to impair or restrict, authorities or responsibilities under section 759 of Title 40, Public Buildings, Property, and Works, or subchapter VI (§541 et seq.) of chapter 10 of Title 40, see section 1054(b) of Pub. L. 103–355, set out as a note under section 253h of this title.
+Section not to be construed as modifying or superseding, or as intended to impair or restrict, authorities or responsibilities under former section 759 of Title 40, Public Buildings, Property, and Works, or subchapter VI (§541 et seq.) of chapter 10 of Title 40, see section 1054(b) of Pub. L. 103–355, set out as a note under section 253h of this title.
 
 #### Section Referred to in Other Sections
 

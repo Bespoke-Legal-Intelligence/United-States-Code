@@ -2,7 +2,7 @@
 
 (a)(1) The Secretary may make grants to, or enter into contracts with, State educational agencies, institutions of higher education, junior and community colleges, vocational and technical institutions, and other appropriate nonprofit educational agencies for the development, operation, and dissemination of specially designed model programs of postsecondary, vocational, technical, continuing, or adult education for individuals with disabilities. Such model programs may include joint projects that coordinate with special education and transition services.
 
-(2) In making grants or contracts on a competitive basis under paragraph (1), the Secretary shall give priority consideration to 4 regional centers for the deaf and to model programs for individuals with disabling conditions other than deafness—
+(2) In making grants or contracts on a competitive basis under paragraph (1), the Secretary shall give priority consideration to 4 regional centers for the deaf and to model programs forindividuals with disabling conditions other than deafness—
 
 &emsp;(A) for developing and adapting programs of postsecondary, vocational, technical, continuing, or adult education to meet the special needs of individuals with disabilities,
 

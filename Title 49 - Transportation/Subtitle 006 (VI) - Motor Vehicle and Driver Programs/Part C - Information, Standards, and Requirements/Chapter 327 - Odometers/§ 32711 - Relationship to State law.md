@@ -10,7 +10,9 @@ Except to the extent that State law is inconsistent with this chapter, this chap
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

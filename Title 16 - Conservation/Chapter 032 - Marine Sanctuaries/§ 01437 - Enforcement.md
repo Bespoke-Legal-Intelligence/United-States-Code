@@ -68,7 +68,7 @@ Any person who is authorized to enforce this chapter may—
 
 &emsp;(A) Notwithstanding any other law, amounts received by the United States as civil penalties, forfeitures of property, and costs imposed under paragraph (2) shall be retained by the Secretary in the manner provided for in section 9607(f)(1) of title 42.
 
-&emsp;(B) Amounts received under this section for forfeitures and costs imposed under paragraph\(2) shall be used to pay the reasonable and necessary costs incurred by the Secretary to provide temporary storage, care, maintenance, and disposal of any sanctuary resource or other property seized in connection with a violation of this chapter or any regulation or permit issued under this chapter.
+&emsp;(B) Amounts received under this section for forfeitures and costs imposed under paragraph (2) shall be used to pay the reasonable and necessary costs incurred by the Secretary to provide temporary storage, care, maintenance, and disposal of any sanctuary resource or other property seized in connection with a violation of this chapter or any regulation or permit issued under this chapter.
 
 &emsp;(C) Amounts received under this section as civil penalties and any amounts remaining after the operation of subparagraph (B) shall be used, in order of priority, to—
 
@@ -102,15 +102,15 @@ If the Secretary determines that there is an imminent risk of destruction or los
 
 The area of application and enforceability of this chapter includes the territorial sea of the United States, as described in Presidential Proclamation 5928 of December 27, 1988, which is subject to the sovereignty of the United States, and the United States exclusive economic zone, consistent with international law.
 
-(Pub. L. 92–532, title III, §307, as added Pub. L. 98–498, title I, §102, Oct. 19, 1984, 98 Stat. 2302; amended Pub. L. 100–627, title II, §207, Nov. 7, 1988, 102 Stat. 3219; Pub. L. 102–587, title II, §2107(a)–(c), (e), Nov. 4, 1992, 106 Stat. 5043, 5044.)
+(Pub. L. 92–532, title III, §307, as added Pub. L. 98–498, title I, §102, Oct. 19, 1984, 98 Stat. 2302; amended Pub. L. 100–627, title II, §207, Nov. 7, 1988, 102 Stat. 3219; Pub. L. 102–587, title II, §2107(a)–(c), (e), Nov. 4, 1992, 106 Stat. 5043, 5044; Pub. L. 104–283, §9(c), Oct. 11, 1996, 110 Stat. 3367.)
 
 #### References in Text
-
-Section 9607(f)(1) of title 42, referred to in subsec. (e)(1)(A), was in the original “section 107(f)(1) of the Comprehensive Environmental Response, Compensation and Liability Act”, and was translated as meaning section 107(f)(1) of Pub. L. 96–510, known as the Comprehensive Environmental Response, Compensation and Liability Act of 1980, to reflect the probable intent of Congress.
 
 Presidential Proclamation 5928 of December 27, 1988, referred to in subsec. (j), is set out as a note under section 1331 of Title 43, Public Lands.
 
 #### Amendments
+
+1996—Subsec. (e)(1)(A). Pub. L. 104–283 made technical amendment to reference in original act which appears in text as reference to section 9607(f)(1) of title 42.
 
 1992—Subsec. (c)(1). Pub. L. 102–587, §2107(a)(1), substituted “$100,000” for “$50,000”.
 

@@ -1,7 +1,7 @@
 {
  "built_by": "uscode_git_v0.1.12",
  "eid": "USCODE-title8",
- "package": "USCODE-1995-title8",
+ "package": "USCODE-1996-title8",
  "pieces": [
   {
    "id": "8_",
@@ -32,14 +32,10 @@
    "id": "8_1_to_18",
    "marks": [
     [
-     "I",
+     "L",
      30,
-     [
-      [
-       115,
-       "[Page 2]"
-      ]
-     ]
+     "[Page 2]",
+     true
     ]
    ],
    "path": "Chapter 001 - General Provisions/§ 00001 to 18 - Repealed or Omitted.md",
@@ -909,82 +905,92 @@
    ]
   },
   {
-   "id": "8_&nbsp;",
+   "id": "8_-ch12",
    "marks": [
     [
      "I",
-     87,
+     88,
      [
       [
-       46,
+       49,
        "[Page 14]"
       ]
      ]
     ],
     [
      "I",
-     193,
+     197,
      [
       [
-       48,
+       57,
        "[Page 15]"
       ]
      ]
     ],
     [
      "I",
-     308,
+     321,
      [
       [
-       86,
+       109,
        "[Page 16]"
       ]
      ]
     ],
     [
      "I",
-     423,
+     435,
      [
       [
-       58,
+       56,
        "[Page 17]"
       ]
      ]
     ],
     [
      "I",
-     539,
+     542,
      [
       [
-       60,
+       58,
        "[Page 18]"
       ]
      ]
     ],
     [
      "I",
-     644,
+     660,
      [
       [
-       50,
+       102,
        "[Page 19]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     757,
+     [
+      [
+       93,
+       "[Page 20]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 011 - Nationality/Subchapter 006 (VI) - Naturalization of Persons Serving in the Armed Forces of the United States During World War II/10.md",
+   "path": "Chapter 012 - Immigration and Nationality/README.md",
    "printed_pages": [
     13,
-    19
+    20
    ]
   },
   {
-   "id": "8_-ch11-scI_2",
+   "id": "8_-ch12-scI",
    "marks": [],
-   "path": "Chapter 011 - Nationality/Subchapter 001 (I) - General Provisions/README.md",
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 001 (I) - General Provisions/README.md",
    "printed_pages": [
-    19,
-    19
+    20,
+    20
    ]
   },
   {
@@ -992,140 +998,126 @@
    "marks": [
     [
      "L",
-     24,
-     "[Page 20]",
+     18,
+     "[Page 21]",
      true
     ],
     [
      "I",
-     56,
+     66,
      [
       [
-       147,
-       "[Page 21]"
+       438,
+       "[Page 22]"
       ]
      ]
     ],
     [
-     "L",
-     76,
-     "[Page 22]",
-     true
-    ],
-    [
      "I",
-     136,
+     86,
      [
       [
-       88,
+       140,
        "[Page 23]"
       ]
      ]
     ],
     [
-     "I",
-     184,
-     [
-      [
-       262,
-       "[Page 24]"
-      ]
-     ]
+     "L",
+     136,
+     "[Page 24]",
+     true
     ],
     [
      "I",
-     220,
+     196,
      [
       [
-       229,
+       90,
        "[Page 25]"
       ]
      ]
     ],
     [
-     "L",
-     278,
-     "[Page 26]",
-     true
+     "I",
+     226,
+     [
+      [
+       98,
+       "[Page 26]"
+      ]
+     ]
     ],
     [
      "I",
-     342,
+     268,
      [
       [
-       283,
+       97,
        "[Page 27]"
       ]
      ]
     ],
     [
      "I",
-     390,
+     334,
      [
       [
-       95,
+       183,
        "[Page 28]"
       ]
      ]
     ],
     [
      "I",
-     440,
+     388,
      [
       [
-       109,
+       1011,
        "[Page 29]"
       ]
      ]
     ],
     [
-     "I",
-     508,
-     [
-      [
-       110,
-       "[Page 30]"
-      ]
-     ]
-    ],
-    [
      "L",
-     596,
-     "[Page 31]",
+     446,
+     "[Page 30]",
      true
     ],
     [
      "I",
-     662,
+     482,
      [
       [
-       118,
-       "[Page 32]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     730,
-     [
-      [
-       104,
-       "[Page 33]"
+       215,
+       "[Page 31]"
       ]
      ]
     ],
     [
      "L",
-     786,
+     576,
+     "[Page 32]",
+     true
+    ],
+    [
+     "L",
+     646,
+     "[Page 33]",
+     true
+    ],
+    [
+     "L",
+     732,
      "[Page 34]",
      true
     ],
     [
      "I",
-     838,
+     826,
      [
       [
-       175,
+       90,
        "[Page 35]"
       ]
      ]
@@ -1135,110 +1127,163 @@
      886,
      [
       [
-       429,
+       97,
        "[Page 36]"
       ]
      ]
     ],
     [
-     "I",
-     940,
-     [
-      [
-       107,
-       "[Page 37]"
-      ]
-     ]
+     "L",
+     944,
+     "[Page 37]",
+     true
     ],
     [
      "I",
-     1022,
+     1000,
      [
       [
-       108,
+       102,
        "[Page 38]"
       ]
      ]
     ],
     [
-     "L",
-     1114,
-     "[Page 39]",
-     true
+     "I",
+     1052,
+     [
+      [
+       404,
+       "[Page 39]"
+      ]
+     ]
     ],
     [
      "I",
-     1196,
+     1112,
      [
       [
-       164,
+       548,
        "[Page 40]"
       ]
      ]
     ],
     [
      "I",
-     1252,
+     1162,
      [
       [
-       226,
+       162,
        "[Page 41]"
       ]
      ]
     ],
     [
-     "L",
-     1310,
-     "[Page 42]",
-     true
-    ],
-    [
-     "L",
-     1362,
-     "[Page 43]",
-     true
+     "I",
+     1216,
+     [
+      [
+       168,
+       "[Page 42]"
+      ]
+     ]
     ],
     [
      "I",
-     1424,
+     1310,
      [
       [
-       153,
+       347,
+       "[Page 43]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     1392,
+     [
+      [
+       108,
        "[Page 44]"
       ]
      ]
     ],
     [
-     "I",
+     "L",
      1474,
+     "[Page 45]",
+     true
+    ],
+    [
+     "I",
+     1540,
      [
       [
-       318,
-       "[Page 45]"
+       173,
+       "[Page 46]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     1598,
+     [
+      [
+       102,
+       "[Page 47]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     1646,
+     [
+      [
+       107,
+       "[Page 48]"
+      ]
+     ]
+    ],
+    [
+     "L",
+     1712,
+     "[Page 49]",
+     true
+    ],
+    [
+     "I",
+     1766,
+     [
+      [
+       107,
+       "[Page 50]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     1834,
+     [
+      [
+       496,
+       "[Page 51]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 011 - Nationality/Subchapter 001 (I) - General Provisions/§ 01101 - Definitions.md",
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 001 (I) - General Provisions/§ 01101 - Definitions.md",
    "printed_pages": [
-    19,
-    45
+    20,
+    51
    ]
   },
   {
    "id": "8_1102",
-   "marks": [
-    [
-     "L",
-     32,
-     "[Page 46]",
-     true
-    ]
-   ],
-   "path": "Chapter 011 - Nationality/Subchapter 001 (I) - General Provisions/§ 01102 - Diplomatic and semidiplomatic immunities.md",
+   "marks": [],
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 001 (I) - General Provisions/§ 01102 - Diplomatic and semidiplomatic immunities.md",
    "printed_pages": [
-    45,
-    46
+    51,
+    51
    ]
   },
   {
@@ -1246,186 +1291,17 @@
    "marks": [
     [
      "L",
-     30,
-     "[Page 47]",
-     true
-    ]
-   ],
-   "path": "Chapter 011 - Nationality/Subchapter 001 (I) - General Provisions/§ 01103 - Powers and duties.md",
-   "printed_pages": [
-    46,
-    47
-   ]
-  },
-  {
-   "id": "8_1104",
-   "marks": [
-    [
-     "I",
-     4,
-     [
-      [
-       941,
-       "[Page 48]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     64,
-     [
-      [
-       166,
-       "[Page 49]"
-      ]
-     ]
-    ]
-   ],
-   "path": "Chapter 011 - Nationality/Subchapter 001 (I) - General Provisions/§ 01104 - Powers and duties of Secretary of State.md",
-   "printed_pages": [
-    47,
-    49
-   ]
-  },
-  {
-   "id": "8_1105",
-   "marks": [],
-   "path": "Chapter 011 - Nationality/Subchapter 001 (I) - General Provisions/§ 01105 - Liaison with internal security officers.md",
-   "printed_pages": [
-    49,
-    49
-   ]
-  },
-  {
-   "id": "8_1105a",
-   "marks": [
-    [
-     "I",
-     24,
-     [
-      [
-       460,
-       "[Page 50]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     68,
-     [
-      [
-       157,
-       "[Page 51]"
-      ]
-     ]
-    ]
-   ],
-   "path": "Chapter 011 - Nationality/Subchapter 001 (I) - General Provisions/§ 01105a - Judicial review of orders of deportation and exclusion.md",
-   "printed_pages": [
-    49,
-    51
-   ]
-  },
-  {
-   "id": "8_1106",
-   "marks": [
-    [
-     "L",
-     8,
+     10,
      "[Page 52]",
      true
-    ]
-   ],
-   "path": "Chapter 011 - Nationality/Subchapter 001 (I) - General Provisions/§ 01106 - Repealed. Pub. L. 91–510, title IV, §422(a), Oct. 26, 1970, 84 Stat. 1189.md",
-   "printed_pages": [
-    51,
-    52
-   ]
-  },
-  {
-   "id": "8_-ch11-scII_2",
-   "marks": [],
-   "path": "Chapter 011 - Nationality/Subchapter 002 (II) - Immigration/README.md",
-   "printed_pages": [
-    52,
-    52
-   ]
-  },
-  {
-   "id": "8_-ch11-scII_2-Part_I",
-   "marks": [],
-   "path": "Chapter 011 - Nationality/Subchapter 002 (II) - Immigration/Part 001 (I) - Selection System/README.md",
-   "printed_pages": [
-    52,
-    52
-   ]
-  },
-  {
-   "id": "8_1151",
-   "marks": [
+    ],
     [
      "I",
-     54,
+     48,
      [
       [
-       217,
+       461,
        "[Page 53]"
-      ]
-     ]
-    ],
-    [
-     "L",
-     112,
-     "[Page 54]",
-     true
-    ]
-   ],
-   "path": "Chapter 011 - Nationality/Subchapter 002 (II) - Immigration/Part 001 (I) - Selection System/§ 01151 - Worldwide level of immigration.md",
-   "printed_pages": [
-    52,
-    54
-   ]
-  },
-  {
-   "id": "8_1151a",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       109,
-       "[Page 55]"
-      ]
-     ]
-    ]
-   ],
-   "path": "Chapter 011 - Nationality/Subchapter 002 (II) - Immigration/Part 001 (I) - Selection System/§ 01151a - Repealed. Pub. L. 94–571, §7(g), Oct. 20, 1976, 90 Stat. 2706.md",
-   "printed_pages": [
-    54,
-    55
-   ]
-  },
-  {
-   "id": "8_1152",
-   "marks": [
-    [
-     "I",
-     54,
-     [
-      [
-       375,
-       "[Page 56]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     82,
-     [
-      [
-       1335,
-       "[Page 57]"
       ]
      ]
     ],
@@ -1434,16 +1310,189 @@
      126,
      [
       [
-       163,
-       "[Page 58]"
+       95,
+       "[Page 54]"
+      ]
+     ]
+    ],
+    [
+     "L",
+     223,
+     "[Page 55]",
+     true
+    ]
+   ],
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 001 (I) - General Provisions/§ 01103 - Powers and duties.md",
+   "printed_pages": [
+    51,
+    55
+   ]
+  },
+  {
+   "id": "8_1104",
+   "marks": [
+    [
+     "I",
+     20,
+     [
+      [
+       92,
+       "[Page 56]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 011 - Nationality/Subchapter 002 (II) - Immigration/Part 001 (I) - Selection System/§ 01152 - Numerical limitations on individual foreign states.md",
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 001 (I) - General Provisions/§ 01104 - Powers and duties of Secretary of State.md",
    "printed_pages": [
     55,
-    58
+    56
+   ]
+  },
+  {
+   "id": "8_1105",
+   "marks": [
+    [
+     "L",
+     10,
+     "[Page 57]",
+     true
+    ]
+   ],
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 001 (I) - General Provisions/§ 01105 - Liaison with internal security officers.md",
+   "printed_pages": [
+    56,
+    57
+   ]
+  },
+  {
+   "id": "8_1105a",
+   "marks": [],
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 001 (I) - General Provisions/§ 01105a - Repealed. Pub. L. 104–208, div. C, title III, §306(b), Sept. 30, 1996, 110 Stat. 3009–612.md",
+   "printed_pages": [
+    57,
+    57
+   ]
+  },
+  {
+   "id": "8_1106",
+   "marks": [],
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 001 (I) - General Provisions/§ 01106 - Repealed. Pub. L. 91–510, title IV, §422(a), Oct. 26, 1970, 84 Stat. 1189.md",
+   "printed_pages": [
+    57,
+    57
+   ]
+  },
+  {
+   "id": "8_-ch12-scII",
+   "marks": [],
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 002 (II) - Immigration/README.md",
+   "printed_pages": [
+    57,
+    57
+   ]
+  },
+  {
+   "id": "8_-ch12-scII-Part_I",
+   "marks": [],
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 002 (II) - Immigration/Part 001 (I) - Selection System/README.md",
+   "printed_pages": [
+    57,
+    57
+   ]
+  },
+  {
+   "id": "8_1151",
+   "marks": [
+    [
+     "L",
+     26,
+     "[Page 58]",
+     true
+    ],
+    [
+     "I",
+     92,
+     [
+      [
+       113,
+       "[Page 59]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     158,
+     [
+      [
+       110,
+       "[Page 60]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 002 (II) - Immigration/Part 001 (I) - Selection System/§ 01151 - Worldwide level of immigration.md",
+   "printed_pages": [
+    57,
+    60
+   ]
+  },
+  {
+   "id": "8_1151a",
+   "marks": [],
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 002 (II) - Immigration/Part 001 (I) - Selection System/§ 01151a - Repealed. Pub. L. 94–571, §7(g), Oct. 20, 1976, 90 Stat. 2706.md",
+   "printed_pages": [
+    60,
+    60
+   ]
+  },
+  {
+   "id": "8_1152",
+   "marks": [
+    [
+     "I",
+     16,
+     [
+      [
+       98,
+       "[Page 61]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     56,
+     [
+      [
+       2060,
+       "[Page 62]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     102,
+     [
+      [
+       215,
+       "[Page 63]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     146,
+     [
+      [
+       165,
+       "[Page 64]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 002 (II) - Immigration/Part 001 (I) - Selection System/§ 01152 - Numerical limitations on individual foreign states.md",
+   "printed_pages": [
+    60,
+    64
    ]
   },
   {
@@ -1451,87 +1500,89 @@
    "marks": [
     [
      "L",
-     14,
-     "[Page 59]",
-     true
-    ],
-    [
-     "L",
-     80,
-     "[Page 60]",
-     true
-    ],
-    [
-     "L",
-     156,
-     "[Page 61]",
-     true
-    ],
-    [
-     "L",
-     230,
-     "[Page 62]",
-     true
-    ],
-    [
-     "L",
-     296,
-     "[Page 63]",
-     true
-    ],
-    [
-     "L",
-     366,
-     "[Page 64]",
-     true
-    ],
-    [
-     "L",
-     460,
+     28,
      "[Page 65]",
      true
     ],
     [
      "L",
-     550,
+     98,
      "[Page 66]",
      true
     ],
     [
+     "L",
+     172,
+     "[Page 67]",
+     true
+    ],
+    [
+     "L",
+     246,
+     "[Page 68]",
+     true
+    ],
+    [
+     "L",
+     318,
+     "[Page 69]",
+     true
+    ],
+    [
      "I",
-     618,
+     378,
      [
       [
-       170,
-       "[Page 67]"
+       217,
+       "[Page 70]"
       ]
      ]
     ],
     [
      "I",
-     700,
+     476,
      [
       [
-       254,
-       "[Page 68]"
+       98,
+       "[Page 71]"
       ]
      ]
     ],
     [
      "I",
-     750,
+     568,
      [
       [
-       276,
-       "[Page 69]"
+       92,
+       "[Page 72]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     638,
+     [
+      [
+       111,
+       "[Page 73]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     696,
+     [
+      [
+       1570,
+       "[Page 74]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 011 - Nationality/Subchapter 002 (II) - Immigration/Part 001 (I) - Selection System/§ 01153 - Allocation of immigrant visas.md",
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 002 (II) - Immigration/Part 001 (I) - Selection System/§ 01153 - Allocation of immigrant visas.md",
    "printed_pages": [
-    58,
-    69
+    64,
+    74
    ]
   },
   {
@@ -1539,65 +1590,72 @@
    "marks": [
     [
      "I",
-     14,
+     8,
      [
       [
-       195,
-       "[Page 70]"
+       97,
+       "[Page 75]"
       ]
      ]
     ],
     [
      "L",
-     60,
-     "[Page 71]",
+     52,
+     "[Page 76]",
      true
     ],
     [
      "I",
-     100,
+     94,
      [
       [
-       512,
-       "[Page 72]"
+       278,
+       "[Page 77]"
       ]
      ]
     ],
     [
      "L",
-     154,
-     "[Page 73]",
+     146,
+     "[Page 78]",
      true
     ],
     [
      "L",
-     232,
-     "[Page 74]",
+     214,
+     "[Page 79]",
      true
     ]
    ],
-   "path": "Chapter 011 - Nationality/Subchapter 002 (II) - Immigration/Part 001 (I) - Selection System/§ 01154 - Procedure for granting immigrant status.md",
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 002 (II) - Immigration/Part 001 (I) - Selection System/§ 01154 - Procedure for granting immigrant status.md",
    "printed_pages": [
-    69,
-    74
+    74,
+    79
    ]
   },
   {
    "id": "8_1155",
-   "marks": [],
-   "path": "Chapter 011 - Nationality/Subchapter 002 (II) - Immigration/Part 001 (I) - Selection System/§ 01155 - Revocation of approval of petitions; notice of revocation; effective date.md",
+   "marks": [
+    [
+     "L",
+     24,
+     "[Page 80]",
+     true
+    ]
+   ],
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 002 (II) - Immigration/Part 001 (I) - Selection System/§ 01155 - Revocation of approval of petitions; notice of revocation; effective date.md",
    "printed_pages": [
-    74,
-    74
+    79,
+    80
    ]
   },
   {
    "id": "8_1156",
    "marks": [],
-   "path": "Chapter 011 - Nationality/Subchapter 002 (II) - Immigration/Part 001 (I) - Selection System/§ 01156 - Unused immigrant visas.md",
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 002 (II) - Immigration/Part 001 (I) - Selection System/§ 01156 - Unused immigrant visas.md",
    "printed_pages": [
-    74,
-    74
+    80,
+    80
    ]
   },
   {
@@ -1605,54 +1663,71 @@
    "marks": [
     [
      "I",
-     10,
+     22,
      [
       [
-       92,
-       "[Page 75]"
+       289,
+       "[Page 81]"
       ]
      ]
     ],
     [
      "I",
-     38,
+     62,
      [
       [
-       517,
-       "[Page 76]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     110,
-     [
-      [
-       117,
-       "[Page 77]"
+       218,
+       "[Page 82]"
       ]
      ]
     ],
     [
      "L",
-     198,
-     "[Page 78]",
+     136,
+     "[Page 83]",
      true
     ]
    ],
-   "path": "Chapter 011 - Nationality/Subchapter 002 (II) - Immigration/Part 001 (I) - Selection System/§ 01157 - Annual admission of refugees and admission of emergency situation refugees.md",
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 002 (II) - Immigration/Part 001 (I) - Selection System/§ 01157 - Annual admission of refugees and admission of emergency situation refugees.md",
    "printed_pages": [
-    74,
-    78
+    80,
+    83
    ]
   },
   {
    "id": "8_1158",
-   "marks": [],
-   "path": "Chapter 011 - Nationality/Subchapter 002 (II) - Immigration/Part 001 (I) - Selection System/§ 01158 - Asylum procedure.md",
+   "marks": [
+    [
+     "I",
+     12,
+     [
+      [
+       445,
+       "[Page 84]"
+      ]
+     ]
+    ],
+    [
+     "L",
+     92,
+     "[Page 85]",
+     true
+    ],
+    [
+     "I",
+     150,
+     [
+      [
+       93,
+       "[Page 86]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 002 (II) - Immigration/Part 001 (I) - Selection System/§ 01158 - Asylum.md",
    "printed_pages": [
-    78,
-    78
+    83,
+    86
    ]
   },
   {
@@ -1660,19 +1735,25 @@
    "marks": [
     [
      "I",
-     14,
+     18,
      [
       [
-       238,
-       "[Page 79]"
+       141,
+       "[Page 87]"
       ]
      ]
+    ],
+    [
+     "L",
+     102,
+     "[Page 88]",
+     true
     ]
    ],
-   "path": "Chapter 011 - Nationality/Subchapter 002 (II) - Immigration/Part 001 (I) - Selection System/§ 01159 - Adjustment of status of refugees.md",
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 002 (II) - Immigration/Part 001 (I) - Selection System/§ 01159 - Adjustment of status of refugees.md",
    "printed_pages": [
-    78,
-    79
+    86,
+    88
    ]
   },
   {
@@ -1680,99 +1761,82 @@
    "marks": [
     [
      "I",
-     6,
+     74,
      [
       [
-       97,
-       "[Page 80]"
+       187,
+       "[Page 89]"
       ]
      ]
     ],
     [
      "I",
-     74,
+     130,
      [
       [
-       439,
-       "[Page 81]"
+       137,
+       "[Page 90]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     210,
+     [
+      [
+       346,
+       "[Page 91]"
       ]
      ]
     ],
     [
      "L",
-     140,
-     "[Page 82]",
+     264,
+     "[Page 92]",
      true
     ],
     [
      "I",
-     212,
+     346,
      [
       [
-       94,
-       "[Page 83]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     280,
-     [
-      [
-       105,
-       "[Page 84]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     376,
-     [
-      [
-       207,
-       "[Page 85]"
+       114,
+       "[Page 93]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 011 - Nationality/Subchapter 002 (II) - Immigration/Part 001 (I) - Selection System/§ 01160 - Special agricultural workers.md",
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 002 (II) - Immigration/Part 001 (I) - Selection System/§ 01160 - Special agricultural workers.md",
    "printed_pages": [
-    79,
-    85
+    88,
+    93
    ]
   },
   {
    "id": "8_1161",
    "marks": [],
-   "path": "Chapter 011 - Nationality/Subchapter 002 (II) - Immigration/Part 001 (I) - Selection System/§ 01161 - Repealed. Pub. L. 103–416, title II, §219(ee)(1), Oct. 25, 1994, 108 Stat. 4319.md",
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 002 (II) - Immigration/Part 001 (I) - Selection System/§ 01161 - Repealed. Pub. L. 103–416, title II, §219(ee)(1), Oct. 25, 1994, 108 Stat. 4319.md",
    "printed_pages": [
-    85,
-    85
+    93,
+    93
    ]
   },
   {
-   "id": "8_-ch11-scII_2-Part_II",
+   "id": "8_-ch12-scII-Part_II",
    "marks": [],
-   "path": "Chapter 011 - Nationality/Subchapter 002 (II) - Immigration/Part 002 (II) - Admission Qualifications for Aliens; Travel Control of Citizens and Aliens/README.md",
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 002 (II) - Immigration/Part 002 (II) - Admission Qualifications for Aliens; Travel Control of Citizens and Aliens/README.md",
    "printed_pages": [
-    85,
-    85
+    93,
+    93
    ]
   },
   {
    "id": "8_1181",
-   "marks": [
-    [
-     "L",
-     32,
-     "[Page 86]",
-     true
-    ]
-   ],
-   "path": "Chapter 011 - Nationality/Subchapter 002 (II) - Immigration/Part 002 (II) - Admission Qualifications for Aliens; Travel Control of Citizens and Aliens/§ 01181 - Admission of immigrants into the United States.md",
+   "marks": [],
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 002 (II) - Immigration/Part 002 (II) - Admission Qualifications for Aliens; Travel Control of Citizens and Aliens/§ 01181 - Admission of immigrants into the United States.md",
    "printed_pages": [
-    85,
-    86
+    93,
+    93
    ]
   },
   {
@@ -1780,215 +1844,300 @@
    "marks": [
     [
      "I",
-     56,
-     [
-      [
-       95,
-       "[Page 87]"
-      ]
-     ]
-    ],
-    [
-     "L",
-     142,
-     "[Page 88]",
-     true
-    ],
-    [
-     "L",
-     210,
-     "[Page 89]",
-     true
-    ],
-    [
-     "I",
-     288,
-     [
-      [
-       265,
-       "[Page 90]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     380,
-     [
-      [
-       87,
-       "[Page 91]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     404,
-     [
-      [
-       511,
-       "[Page 92]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     442,
+     4,
      [
       [
        93,
-       "[Page 93]"
+       "[Page 94]"
       ]
      ]
     ],
     [
      "L",
-     476,
-     "[Page 94]",
+     70,
+     "[Page 95]",
      true
     ],
     [
      "I",
-     524,
+     156,
      [
       [
-       230,
-       "[Page 95]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     560,
-     [
-      [
-       462,
+       101,
        "[Page 96]"
       ]
      ]
     ],
     [
+     "L",
+     226,
+     "[Page 97]",
+     true
+    ],
+    [
      "I",
-     602,
+     304,
      [
       [
-       95,
-       "[Page 97]"
+       97,
+       "[Page 98]"
       ]
      ]
     ],
     [
-     "L",
-     662,
-     "[Page 98]",
-     true
-    ],
-    [
-     "L",
-     730,
-     "[Page 99]",
-     true
-    ],
-    [
-     "L",
-     800,
-     "[Page 100]",
-     true
+     "I",
+     372,
+     [
+      [
+       101,
+       "[Page 99]"
+      ]
+     ]
     ],
     [
      "I",
-     854,
+     460,
      [
       [
-       162,
+       142,
+       "[Page 100]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     530,
+     [
+      [
+       297,
        "[Page 101]"
       ]
      ]
     ],
     [
      "I",
-     914,
+     588,
      [
       [
-       164,
+       512,
        "[Page 102]"
       ]
      ]
     ],
     [
-     "L",
-     986,
-     "[Page 103]",
-     true
+     "I",
+     614,
+     [
+      [
+       1972,
+       "[Page 103]"
+      ]
+     ]
     ],
     [
      "I",
-     1054,
+     658,
      [
       [
-       93,
+       377,
        "[Page 104]"
       ]
      ]
     ],
     [
      "I",
-     1132,
+     686,
      [
       [
-       554,
+       139,
        "[Page 105]"
       ]
      ]
     ],
     [
      "I",
-     1188,
+     736,
      [
       [
-       489,
+       88,
        "[Page 106]"
       ]
      ]
     ],
     [
      "I",
-     1254,
+     772,
      [
       [
-       268,
+       370,
        "[Page 107]"
       ]
      ]
     ],
     [
      "L",
-     1374,
+     814,
      "[Page 108]",
+     true
+    ],
+    [
+     "I",
+     856,
+     [
+      [
+       440,
+       "[Page 109]"
+      ]
+     ]
+    ],
+    [
+     "L",
+     948,
+     "[Page 110]",
+     true
+    ],
+    [
+     "L",
+     1038,
+     "[Page 111]",
+     true
+    ],
+    [
+     "L",
+     1100,
+     "[Page 112]",
+     true
+    ],
+    [
+     "I",
+     1164,
+     [
+      [
+       651,
+       "[Page 113]"
+      ]
+     ]
+    ],
+    [
+     "L",
+     1222,
+     "[Page 114]",
+     true
+    ],
+    [
+     "L",
+     1282,
+     "[Page 115]",
+     true
+    ],
+    [
+     "L",
+     1342,
+     "[Page 116]",
+     true
+    ],
+    [
+     "L",
+     1428,
+     "[Page 117]",
+     true
+    ],
+    [
+     "I",
+     1490,
+     [
+      [
+       106,
+       "[Page 118]"
+      ]
+     ]
+    ],
+    [
+     "L",
+     1570,
+     "[Page 119]",
+     true
+    ],
+    [
+     "L",
+     1634,
+     "[Page 120]",
+     true
+    ],
+    [
+     "L",
+     1698,
+     "[Page 121]",
+     true
+    ],
+    [
+     "L",
+     1826,
+     "[Page 122]",
      true
     ]
    ],
-   "path": "Chapter 011 - Nationality/Subchapter 002 (II) - Immigration/Part 002 (II) - Admission Qualifications for Aliens; Travel Control of Citizens and Aliens/§ 01182 - Excludable aliens.md",
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 002 (II) - Immigration/Part 002 (II) - Admission Qualifications for Aliens; Travel Control of Citizens and Aliens/§ 01182 - Inadmissible aliens.md",
    "printed_pages": [
-    86,
-    108
+    93,
+    122
    ]
   },
   {
    "id": "8_1182a_to_1182c",
    "marks": [],
-   "path": "Chapter 011 - Nationality/Subchapter 002 (II) - Immigration/Part 002 (II) - Admission Qualifications for Aliens; Travel Control of Citizens and Aliens/§ 01182a to 1182c - Repealed. Pub. L. 87–301, §24(a)(1), (3), Sept. 26, 1961, 75 Stat. 657.md",
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 002 (II) - Immigration/Part 002 (II) - Admission Qualifications for Aliens; Travel Control of Citizens and Aliens/§ 01182a to 1182c - Repealed. Pub. L. 87–301, §24(a)(1), (3), Sept. 26, 1961, 75 Stat. 657.md",
    "printed_pages": [
-    108,
-    108
+    122,
+    122
    ]
   },
   {
    "id": "8_1183",
-   "marks": [],
-   "path": "Chapter 011 - Nationality/Subchapter 002 (II) - Immigration/Part 002 (II) - Admission Qualifications for Aliens; Travel Control of Citizens and Aliens/§ 01183 - Admission of aliens on giving bond or undertaking; return upon permanent departure.md",
+   "marks": [
+    [
+     "L",
+     46,
+     "[Page 123]",
+     true
+    ]
+   ],
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 002 (II) - Immigration/Part 002 (II) - Admission Qualifications for Aliens; Travel Control of Citizens and Aliens/§ 01183 - Admission of aliens on giving bond or undertaking; return upon permanent departure.md",
    "printed_pages": [
-    108,
-    108
+    122,
+    123
+   ]
+  },
+  {
+   "id": "8_1183a",
+   "marks": [
+    [
+     "L",
+     68,
+     "[Page 124]",
+     true
+    ],
+    [
+     "L",
+     146,
+     "[Page 125]",
+     true
+    ],
+    [
+     "I",
+     226,
+     [
+      [
+       301,
+       "[Page 126]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 002 (II) - Immigration/Part 002 (II) - Admission Qualifications for Aliens; Travel Control of Citizens and Aliens/§ 01183a - Requirements for sponsor's affidavit of support.md",
+   "printed_pages": [
+    123,
+    126
    ]
   },
   {
@@ -1996,143 +2145,146 @@
    "marks": [
     [
      "I",
-     4,
+     16,
      [
       [
-       317,
-       "[Page 109]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     36,
-     [
-      [
-       279,
-       "[Page 110]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     76,
-     [
-      [
-       328,
-       "[Page 111]"
+       523,
+       "[Page 127]"
       ]
      ]
     ],
     [
      "L",
-     114,
-     "[Page 112]",
+     60,
+     "[Page 128]",
      true
     ],
     [
      "L",
-     180,
-     "[Page 113]",
+     100,
+     "[Page 129]",
+     true
+    ],
+    [
+     "L",
+     144,
+     "[Page 130]",
+     true
+    ],
+    [
+     "L",
+     208,
+     "[Page 131]",
      true
     ],
     [
      "I",
-     234,
+     256,
      [
       [
-       84,
-       "[Page 114]"
+       598,
+       "[Page 132]"
       ]
      ]
     ],
     [
      "L",
-     304,
-     "[Page 115]",
+     336,
+     "[Page 133]",
      true
     ],
     [
-     "L",
-     386,
-     "[Page 116]",
-     true
+     "I",
+     418,
+     [
+      [
+       108,
+       "[Page 134]"
+      ]
+     ]
     ]
    ],
-   "path": "Chapter 011 - Nationality/Subchapter 002 (II) - Immigration/Part 002 (II) - Admission Qualifications for Aliens; Travel Control of Citizens and Aliens/§ 01184 - Admission of nonimmigrants.md",
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 002 (II) - Immigration/Part 002 (II) - Admission Qualifications for Aliens; Travel Control of Citizens and Aliens/§ 01184 - Admission of nonimmigrants.md",
    "printed_pages": [
-    108,
-    116
+    126,
+    134
    ]
   },
   {
    "id": "8_1184a",
-   "marks": [],
-   "path": "Chapter 011 - Nationality/Subchapter 002 (II) - Immigration/Part 002 (II) - Admission Qualifications for Aliens; Travel Control of Citizens and Aliens/§ 01184a - Philippine Traders as nonimmigrants.md",
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       364,
+       "[Page 135]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 002 (II) - Immigration/Part 002 (II) - Admission Qualifications for Aliens; Travel Control of Citizens and Aliens/§ 01184a - Philippine Traders as nonimmigrants.md",
    "printed_pages": [
-    116,
-    116
+    134,
+    135
    ]
   },
   {
    "id": "8_1185",
    "marks": [
     [
-     "I",
-     12,
-     [
-      [
-       140,
-       "[Page 117]"
-      ]
-     ]
-    ],
-    [
      "L",
-     94,
-     "[Page 118]",
+     66,
+     "[Page 136]",
      true
     ]
    ],
-   "path": "Chapter 011 - Nationality/Subchapter 002 (II) - Immigration/Part 002 (II) - Admission Qualifications for Aliens; Travel Control of Citizens and Aliens/§ 01185 - Travel control of citizens and aliens.md",
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 002 (II) - Immigration/Part 002 (II) - Admission Qualifications for Aliens; Travel Control of Citizens and Aliens/§ 01185 - Travel control of citizens and aliens.md",
    "printed_pages": [
-    116,
-    118
+    135,
+    136
    ]
   },
   {
    "id": "8_1186",
    "marks": [],
-   "path": "Chapter 011 - Nationality/Subchapter 002 (II) - Immigration/Part 002 (II) - Admission Qualifications for Aliens; Travel Control of Citizens and Aliens/§ 01186 - Transferred.md",
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 002 (II) - Immigration/Part 002 (II) - Admission Qualifications for Aliens; Travel Control of Citizens and Aliens/§ 01186 - Transferred.md",
    "printed_pages": [
-    118,
-    118
+    136,
+    136
    ]
   },
   {
    "id": "8_1186a",
    "marks": [
     [
+     "I",
+     48,
+     [
+      [
+       188,
+       "[Page 137]"
+      ]
+     ]
+    ],
+    [
      "L",
-     68,
-     "[Page 119]",
+     120,
+     "[Page 138]",
      true
     ],
     [
-     "I",
-     144,
-     [
-      [
-       101,
-       "[Page 120]"
-      ]
-     ]
+     "L",
+     196,
+     "[Page 139]",
+     true
     ]
    ],
-   "path": "Chapter 011 - Nationality/Subchapter 002 (II) - Immigration/Part 002 (II) - Admission Qualifications for Aliens; Travel Control of Citizens and Aliens/§ 01186a - Conditional permanent resident status for certain alien spouses and sons and daughters.md",
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 002 (II) - Immigration/Part 002 (II) - Admission Qualifications for Aliens; Travel Control of Citizens and Aliens/§ 01186a - Conditional permanent resident status for certain alien spouses and sons and daughters.md",
    "printed_pages": [
-    118,
-    120
+    136,
+    139
    ]
   },
   {
@@ -2140,71 +2292,63 @@
    "marks": [
     [
      "I",
-     6,
+     42,
      [
       [
-       95,
-       "[Page 121]"
+       93,
+       "[Page 140]"
       ]
      ]
     ],
     [
      "I",
-     80,
+     118,
      [
       [
-       96,
-       "[Page 122]"
+       100,
+       "[Page 141]"
       ]
      ]
-    ],
-    [
-     "L",
-     156,
-     "[Page 123]",
-     true
     ]
    ],
-   "path": "Chapter 011 - Nationality/Subchapter 002 (II) - Immigration/Part 002 (II) - Admission Qualifications for Aliens; Travel Control of Citizens and Aliens/§ 01186b - Conditional permanent resident status for certain alien entrepreneurs, spouses, and children.md",
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 002 (II) - Immigration/Part 002 (II) - Admission Qualifications for Aliens; Travel Control of Citizens and Aliens/§ 01186b - Conditional permanent resident status for certain alien entrepreneurs, spouses, and children.md",
    "printed_pages": [
-    120,
-    123
+    139,
+    141
    ]
   },
   {
    "id": "8_1187",
    "marks": [
     [
-     "I",
-     88,
-     [
-      [
-       92,
-       "[Page 124]"
-      ]
-     ]
-    ],
-    [
      "L",
-     162,
-     "[Page 125]",
+     34,
+     "[Page 142]",
      true
     ],
     [
-     "I",
-     244,
-     [
-      [
-       104,
-       "[Page 126]"
-      ]
-     ]
+     "L",
+     112,
+     "[Page 143]",
+     true
+    ],
+    [
+     "L",
+     182,
+     "[Page 144]",
+     true
+    ],
+    [
+     "L",
+     278,
+     "[Page 145]",
+     true
     ]
    ],
-   "path": "Chapter 011 - Nationality/Subchapter 002 (II) - Immigration/Part 002 (II) - Admission Qualifications for Aliens; Travel Control of Citizens and Aliens/§ 01187 - Visa waiver pilot program for certain visitors.md",
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 002 (II) - Immigration/Part 002 (II) - Admission Qualifications for Aliens; Travel Control of Citizens and Aliens/§ 01187 - Visa waiver pilot program for certain visitors.md",
    "printed_pages": [
-    123,
-    126
+    141,
+    145
    ]
   },
   {
@@ -2212,87 +2356,126 @@
    "marks": [
     [
      "I",
-     44,
+     50,
      [
       [
-       101,
-       "[Page 127]"
+       455,
+       "[Page 146]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     90,
+     [
+      [
+       93,
+       "[Page 147]"
       ]
      ]
     ],
     [
      "L",
-     76,
-     "[Page 128]",
-     true
-    ],
-    [
-     "L",
-     128,
-     "[Page 129]",
-     true
-    ],
-    [
-     "L",
-     222,
-     "[Page 130]",
+     146,
+     "[Page 148]",
      true
     ]
    ],
-   "path": "Chapter 011 - Nationality/Subchapter 002 (II) - Immigration/Part 002 (II) - Admission Qualifications for Aliens; Travel Control of Citizens and Aliens/§ 01188 - Admission of temporary H–2A workers.md",
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 002 (II) - Immigration/Part 002 (II) - Admission Qualifications for Aliens; Travel Control of Citizens and Aliens/§ 01188 - Admission of temporary H–2A workers.md",
    "printed_pages": [
-    126,
-    130
+    145,
+    148
    ]
   },
   {
-   "id": "8_-ch11-scII_2-Part_III",
-   "marks": [],
-   "path": "Chapter 011 - Nationality/Subchapter 002 (II) - Immigration/Part 003 (III) - Issuance of Entry Documents/README.md",
+   "id": "8_1189",
+   "marks": [
+    [
+     "I",
+     20,
+     [
+      [
+       134,
+       "[Page 149]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     106,
+     [
+      [
+       92,
+       "[Page 150]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 002 (II) - Immigration/Part 002 (II) - Admission Qualifications for Aliens; Travel Control of Citizens and Aliens/§ 01189 - Designation of foreign terrorist organizations.md",
    "printed_pages": [
-    130,
-    130
+    148,
+    150
+   ]
+  },
+  {
+   "id": "8_-ch12-scII-Part_III",
+   "marks": [],
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 002 (II) - Immigration/Part 003 (III) - Issuance of Entry Documents/README.md",
+   "printed_pages": [
+    150,
+    150
    ]
   },
   {
    "id": "8_1201",
    "marks": [
     [
+     "L",
+     14,
+     "[Page 151]",
+     true
+    ],
+    [
      "I",
-     28,
+     54,
      [
       [
-       1281,
-       "[Page 131]"
+       109,
+       "[Page 152]"
       ]
      ]
     ],
     [
-     "L",
-     98,
-     "[Page 132]",
-     true
-    ],
-    [
-     "L",
-     192,
-     "[Page 133]",
-     true
+     "I",
+     142,
+     [
+      [
+       108,
+       "[Page 153]"
+      ]
+     ]
     ]
    ],
-   "path": "Chapter 011 - Nationality/Subchapter 002 (II) - Immigration/Part 003 (III) - Issuance of Entry Documents/§ 01201 - Issuance of visas.md",
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 002 (II) - Immigration/Part 003 (III) - Issuance of Entry Documents/§ 01201 - Issuance of visas.md",
    "printed_pages": [
-    130,
-    133
+    150,
+    153
    ]
   },
   {
    "id": "8_1201a",
-   "marks": [],
-   "path": "Chapter 011 - Nationality/Subchapter 002 (II) - Immigration/Part 003 (III) - Issuance of Entry Documents/§ 01201a - Repealed. Pub. L. 99–653, §5(b), formerly §5(a)(d), Nov. 14, 1986, 100 Stat. 3656, renumbered §5(b), Pub. L. 100–525, §8(d)(2)….md",
+   "marks": [
+    [
+     "L",
+     8,
+     "[Page 154]",
+     true
+    ]
+   ],
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 002 (II) - Immigration/Part 003 (III) - Issuance of Entry Documents/§ 01201a - Repealed. Pub. L. 99–653, §5(b), formerly §5(a)(d), Nov. 14, 1986, 100 Stat. 3656, renumbered §5(b), Pub. L. 100–525, §8(d)(2)….md",
    "printed_pages": [
-    133,
-    133
+    153,
+    154
    ]
   },
   {
@@ -2300,62 +2483,66 @@
    "marks": [
     [
      "I",
-     24,
+     40,
      [
       [
-       515,
-       "[Page 134]"
+       438,
+       "[Page 155]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 011 - Nationality/Subchapter 002 (II) - Immigration/Part 003 (III) - Issuance of Entry Documents/§ 01202 - Application for visas.md",
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 002 (II) - Immigration/Part 003 (III) - Issuance of Entry Documents/§ 01202 - Application for visas.md",
    "printed_pages": [
-    133,
-    134
+    154,
+    155
    ]
   },
   {
    "id": "8_1203",
    "marks": [
     [
-     "L",
-     6,
-     "[Page 135]",
-     true
+     "I",
+     4,
+     [
+      [
+       144,
+       "[Page 156]"
+      ]
+     ]
     ]
    ],
-   "path": "Chapter 011 - Nationality/Subchapter 002 (II) - Immigration/Part 003 (III) - Issuance of Entry Documents/§ 01203 - Reentry permit.md",
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 002 (II) - Immigration/Part 003 (III) - Issuance of Entry Documents/§ 01203 - Reentry permit.md",
    "printed_pages": [
-    134,
-    135
+    155,
+    156
    ]
   },
   {
    "id": "8_1204",
    "marks": [],
-   "path": "Chapter 011 - Nationality/Subchapter 002 (II) - Immigration/Part 003 (III) - Issuance of Entry Documents/§ 01204 - Immediate relative and special immigrant visas.md",
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 002 (II) - Immigration/Part 003 (III) - Issuance of Entry Documents/§ 01204 - Immediate relative and special immigrant visas.md",
    "printed_pages": [
-    135,
-    135
+    156,
+    156
    ]
   },
   {
    "id": "8_1205",
    "marks": [],
-   "path": "Chapter 011 - Nationality/Subchapter 002 (II) - Immigration/Part 003 (III) - Issuance of Entry Documents/§ 01205 - Repealed. Pub. L. 87–301, §24(a)(2), Sept. 26, 1961, 75 Stat. 657.md",
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 002 (II) - Immigration/Part 003 (III) - Issuance of Entry Documents/§ 01205 - Repealed. Pub. L. 87–301, §24(a)(2), Sept. 26, 1961, 75 Stat. 657.md",
    "printed_pages": [
-    135,
-    135
+    156,
+    156
    ]
   },
   {
-   "id": "8_-ch11-scII_2-Part_IV",
+   "id": "8_-ch12-scII-Part_IV",
    "marks": [],
-   "path": "Chapter 011 - Nationality/Subchapter 002 (II) - Immigration/Part 004 (IV) - Provisions Relating to Entry and Exclusion/README.md",
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 002 (II) - Immigration/Part 004 (IV) - Inspection, Apprehension, Examination, Exclusion, and Removal/README.md",
    "printed_pages": [
-    135,
-    135
+    156,
+    156
    ]
   },
   {
@@ -2366,60 +2553,78 @@
      4,
      [
       [
-       890,
-       "[Page 136]"
+       140,
+       "[Page 157]"
       ]
      ]
     ],
     [
      "L",
-     56,
-     "[Page 137]",
+     42,
+     "[Page 158]",
      true
     ]
    ],
-   "path": "Chapter 011 - Nationality/Subchapter 002 (II) - Immigration/Part 004 (IV) - Provisions Relating to Entry and Exclusion/§ 01221 - Lists of alien and citizen passengers arriving and departing.md",
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 002 (II) - Immigration/Part 004 (IV) - Inspection, Apprehension, Examination, Exclusion, and Removal/§ 01221 - Lists of alien and citizen passengers arriving and departing.md",
    "printed_pages": [
-    135,
-    137
+    156,
+    158
    ]
   },
   {
    "id": "8_1222",
-   "marks": [],
-   "path": "Chapter 011 - Nationality/Subchapter 002 (II) - Immigration/Part 004 (IV) - Provisions Relating to Entry and Exclusion/§ 01222 - Detention of aliens for observation and examination upon arrival.md",
+   "marks": [
+    [
+     "I",
+     8,
+     [
+      [
+       1444,
+       "[Page 159]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 002 (II) - Immigration/Part 004 (IV) - Inspection, Apprehension, Examination, Exclusion, and Removal/§ 01222 - Detention of aliens for physical and mental examination.md",
    "printed_pages": [
-    137,
-    137
+    158,
+    159
    ]
   },
   {
    "id": "8_1223",
-   "marks": [],
-   "path": "Chapter 011 - Nationality/Subchapter 002 (II) - Immigration/Part 004 (IV) - Provisions Relating to Entry and Exclusion/§ 01223 - Repealed. Pub. L. 99–500, §101(b) [title II, §206(a), formerly §206], Oct. 18, 1986, 100 Stat. 1783–39, 1783–56; renumbered….md",
+   "marks": [
+    [
+     "I",
+     16,
+     [
+      [
+       87,
+       "[Page 160]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 002 (II) - Immigration/Part 004 (IV) - Inspection, Apprehension, Examination, Exclusion, and Removal/§ 01223 - Entry through or from foreign territory and adjacent islands.md",
    "printed_pages": [
-    137,
-    137
+    159,
+    160
    ]
   },
   {
    "id": "8_1224",
    "marks": [
     [
-     "I",
-     14,
-     [
-      [
-       107,
-       "[Page 138]"
-      ]
-     ]
+     "L",
+     28,
+     "[Page 161]",
+     true
     ]
    ],
-   "path": "Chapter 011 - Nationality/Subchapter 002 (II) - Immigration/Part 004 (IV) - Provisions Relating to Entry and Exclusion/§ 01224 - Physical and mental examinations; appeal of findings.md",
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 002 (II) - Immigration/Part 004 (IV) - Inspection, Apprehension, Examination, Exclusion, and Removal/§ 01224 - Designation of ports of entry for aliens arriving by aircraft.md",
    "printed_pages": [
-    137,
-    138
+    160,
+    161
    ]
   },
   {
@@ -2427,35 +2632,73 @@
    "marks": [
     [
      "L",
-     16,
-     "[Page 139]",
+     58,
+     "[Page 162]",
+     true
+    ],
+    [
+     "I",
+     122,
+     [
+      [
+       135,
+       "[Page 163]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     190,
+     [
+      [
+       274,
+       "[Page 164]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 002 (II) - Immigration/Part 004 (IV) - Inspection, Apprehension, Examination, Exclusion, and Removal/§ 01225 - Inspection by immigration officers; expedited removal of inadmissible arriving aliens; referral for hearing.md",
+   "printed_pages": [
+    161,
+    164
+   ]
+  },
+  {
+   "id": "8_1225a",
+   "marks": [
+    [
+     "L",
+     20,
+     "[Page 165]",
      true
     ]
    ],
-   "path": "Chapter 011 - Nationality/Subchapter 002 (II) - Immigration/Part 004 (IV) - Provisions Relating to Entry and Exclusion/§ 01225 - Inspection by immigration officers.md",
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 002 (II) - Immigration/Part 004 (IV) - Inspection, Apprehension, Examination, Exclusion, and Removal/§ 01225a - Preinspection at foreign airports.md",
    "printed_pages": [
-    138,
-    139
+    164,
+    165
    ]
   },
   {
    "id": "8_1226",
    "marks": [
     [
-     "I",
-     36,
-     [
-      [
-       110,
-       "[Page 140]"
-      ]
-     ]
+     "L",
+     40,
+     "[Page 166]",
+     true
+    ],
+    [
+     "L",
+     114,
+     "[Page 167]",
+     true
     ]
    ],
-   "path": "Chapter 011 - Nationality/Subchapter 002 (II) - Immigration/Part 004 (IV) - Provisions Relating to Entry and Exclusion/§ 01226 - Exclusion of aliens.md",
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 002 (II) - Immigration/Part 004 (IV) - Inspection, Apprehension, Examination, Exclusion, and Removal/§ 01226 - Apprehension and detention of aliens.md",
    "printed_pages": [
-    139,
-    140
+    165,
+    167
    ]
   },
   {
@@ -2463,34 +2706,99 @@
    "marks": [
     [
      "I",
-     18,
+     48,
      [
       [
-       897,
-       "[Page 141]"
+       226,
+       "[Page 168]"
       ]
      ]
     ],
     [
      "L",
-     60,
-     "[Page 142]",
+     114,
+     "[Page 169]",
+     true
+    ],
+    [
+     "L",
+     182,
+     "[Page 170]",
+     true
+    ],
+    [
+     "I",
+     240,
+     [
+      [
+       649,
+       "[Page 171]"
+      ]
+     ]
+    ],
+    [
+     "L",
+     346,
+     "[Page 172]",
+     true
+    ],
+    [
+     "I",
+     410,
+     [
+      [
+       216,
+       "[Page 173]"
+      ]
+     ]
+    ],
+    [
+     "L",
+     486,
+     "[Page 174]",
      true
     ]
    ],
-   "path": "Chapter 011 - Nationality/Subchapter 002 (II) - Immigration/Part 004 (IV) - Provisions Relating to Entry and Exclusion/§ 01227 - Immediate deportation of aliens excluded from admission or entering in violation of law.md",
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 002 (II) - Immigration/Part 004 (IV) - Inspection, Apprehension, Examination, Exclusion, and Removal/§ 01227 - Deportable aliens.md",
    "printed_pages": [
-    140,
-    142
+    167,
+    174
    ]
   },
   {
    "id": "8_1228",
-   "marks": [],
-   "path": "Chapter 011 - Nationality/Subchapter 002 (II) - Immigration/Part 004 (IV) - Provisions Relating to Entry and Exclusion/§ 01228 - Entry through or from foreign contiguous territory and adjacent islands.md",
+   "marks": [
+    [
+     "I",
+     60,
+     [
+      [
+       323,
+       "[Page 175]"
+      ]
+     ]
+    ],
+    [
+     "L",
+     114,
+     "[Page 176]",
+     true
+    ],
+    [
+     "I",
+     238,
+     [
+      [
+       223,
+       "[Page 177]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 002 (II) - Immigration/Part 004 (IV) - Inspection, Apprehension, Examination, Exclusion, and Removal/§ 01228 - Expedited removal of aliens convicted of committing aggravated felonies.md",
    "printed_pages": [
-    142,
-    142
+    174,
+    177
    ]
   },
   {
@@ -2498,222 +2806,288 @@
    "marks": [
     [
      "I",
-     2,
+     6,
      [
       [
-       1380,
-       "[Page 143]"
+       187,
+       "[Page 178]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 011 - Nationality/Subchapter 002 (II) - Immigration/Part 004 (IV) - Provisions Relating to Entry and Exclusion/§ 01229 - Designation of ports of entry for aliens arriving by aircraft.md",
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 002 (II) - Immigration/Part 004 (IV) - Inspection, Apprehension, Examination, Exclusion, and Removal/§ 01229 - Initiation of removal proceedings.md",
    "printed_pages": [
-    142,
-    143
+    177,
+    178
+   ]
+  },
+  {
+   "id": "8_1229a",
+   "marks": [
+    [
+     "L",
+     8,
+     "[Page 179]",
+     true
+    ],
+    [
+     "L",
+     82,
+     "[Page 180]",
+     true
+    ],
+    [
+     "L",
+     152,
+     "[Page 181]",
+     true
+    ]
+   ],
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 002 (II) - Immigration/Part 004 (IV) - Inspection, Apprehension, Examination, Exclusion, and Removal/§ 01229a - Removal proceedings.md",
+   "printed_pages": [
+    178,
+    181
+   ]
+  },
+  {
+   "id": "8_1229b",
+   "marks": [
+    [
+     "I",
+     16,
+     [
+      [
+       92,
+       "[Page 182]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     82,
+     [
+      [
+       92,
+       "[Page 183]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 002 (II) - Immigration/Part 004 (IV) - Inspection, Apprehension, Examination, Exclusion, and Removal/§ 01229b - Cancellation of removal; adjustment of status.md",
+   "printed_pages": [
+    181,
+    183
+   ]
+  },
+  {
+   "id": "8_1229c",
+   "marks": [
+    [
+     "I",
+     52,
+     [
+      [
+       91,
+       "[Page 184]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 002 (II) - Immigration/Part 004 (IV) - Inspection, Apprehension, Examination, Exclusion, and Removal/§ 01229c - Voluntary departure.md",
+   "printed_pages": [
+    183,
+    184
    ]
   },
   {
    "id": "8_1230",
    "marks": [],
-   "path": "Chapter 011 - Nationality/Subchapter 002 (II) - Immigration/Part 004 (IV) - Provisions Relating to Entry and Exclusion/§ 01230 - Records of admission.md",
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 002 (II) - Immigration/Part 004 (IV) - Inspection, Apprehension, Examination, Exclusion, and Removal/§ 01230 - Records of admission.md",
    "printed_pages": [
-    143,
-    143
+    184,
+    184
    ]
   },
   {
-   "id": "8_-ch11-scII_2-Part_V",
-   "marks": [],
-   "path": "Chapter 011 - Nationality/Subchapter 002 (II) - Immigration/Part 005 (V) - Deportation; Adjustment of Status/README.md",
+   "id": "8_1231",
+   "marks": [
+    [
+     "I",
+     44,
+     [
+      [
+       100,
+       "[Page 185]"
+      ]
+     ]
+    ],
+    [
+     "L",
+     112,
+     "[Page 186]",
+     true
+    ],
+    [
+     "I",
+     184,
+     [
+      [
+       145,
+       "[Page 187]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     270,
+     [
+      [
+       94,
+       "[Page 188]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     344,
+     [
+      [
+       97,
+       "[Page 189]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     426,
+     [
+      [
+       102,
+       "[Page 190]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 002 (II) - Immigration/Part 004 (IV) - Inspection, Apprehension, Examination, Exclusion, and Removal/§ 01231 - Detention and removal of aliens ordered removed.md",
    "printed_pages": [
-    143,
-    143
+    184,
+    190
+   ]
+  },
+  {
+   "id": "8_-ch12-scII-Part_V",
+   "marks": [],
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 002 (II) - Immigration/Part 005 (V) - Adjustment and Change of Status/README.md",
+   "printed_pages": [
+    190,
+    190
    ]
   },
   {
    "id": "8_1251",
-   "marks": [
-    [
-     "L",
-     26,
-     "[Page 144]",
-     true
-    ],
-    [
-     "L",
-     86,
-     "[Page 145]",
-     true
-    ],
-    [
-     "I",
-     174,
-     [
-      [
-       149,
-       "[Page 146]"
-      ]
-     ]
-    ],
-    [
-     "L",
-     250,
-     "[Page 147]",
-     true
-    ],
-    [
-     "I",
-     318,
-     [
-      [
-       109,
-       "[Page 148]"
-      ]
-     ]
-    ],
-    [
-     "L",
-     394,
-     "[Page 149]",
-     true
-    ]
-   ],
-   "path": "Chapter 011 - Nationality/Subchapter 002 (II) - Immigration/Part 005 (V) - Deportation; Adjustment of Status/§ 01251 - Deportable aliens.md",
+   "marks": [],
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 002 (II) - Immigration/Part 005 (V) - Adjustment and Change of Status/§ 01251 - Transferred.md",
    "printed_pages": [
-    143,
-    149
+    190,
+    190
    ]
   },
   {
    "id": "8_1251a",
    "marks": [],
-   "path": "Chapter 011 - Nationality/Subchapter 002 (II) - Immigration/Part 005 (V) - Deportation; Adjustment of Status/§ 01251a - Repealed. Pub. L. 87–301, §24(a)(3), Sept. 26, 1961, 75 Stat. 657.md",
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 002 (II) - Immigration/Part 005 (V) - Adjustment and Change of Status/§ 01251a - Repealed. Pub. L. 87–301, §24(a)(3), Sept. 26, 1961, 75 Stat. 657.md",
    "printed_pages": [
-    149,
-    149
+    190,
+    190
    ]
   },
   {
    "id": "8_1252",
    "marks": [
     [
-     "I",
+     "L",
      14,
+     "[Page 191]",
+     true
+    ],
+    [
+     "I",
+     92,
      [
       [
-       143,
-       "[Page 150]"
+       94,
+       "[Page 192]"
       ]
      ]
     ],
     [
      "I",
-     36,
+     172,
      [
       [
-       1018,
-       "[Page 151]"
+       189,
+       "[Page 193]"
       ]
      ]
     ],
     [
      "L",
-     50,
-     "[Page 152]",
+     230,
+     "[Page 194]",
      true
     ],
     [
      "I",
-     120,
+     306,
      [
       [
-       159,
-       "[Page 153]"
+       155,
+       "[Page 195]"
       ]
      ]
     ],
     [
      "I",
-     200,
+     394,
      [
       [
-       111,
-       "[Page 154]"
+       98,
+       "[Page 196]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 011 - Nationality/Subchapter 002 (II) - Immigration/Part 005 (V) - Deportation; Adjustment of Status/§ 01252 - Apprehension and deportation of aliens.md",
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 002 (II) - Immigration/Part 005 (V) - Adjustment and Change of Status/§ 01252 - Judicial review of orders of removal.md",
    "printed_pages": [
-    149,
-    154
+    190,
+    196
    ]
   },
   {
    "id": "8_1252a",
-   "marks": [
-    [
-     "I",
-     14,
-     [
-      [
-       92,
-       "[Page 155]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     78,
-     [
-      [
-       95,
-       "[Page 156]"
-      ]
-     ]
-    ]
-   ],
-   "path": "Chapter 011 - Nationality/Subchapter 002 (II) - Immigration/Part 005 (V) - Deportation; Adjustment of Status/§ 01252a - Expedited deportation of aliens convicted of committing aggravated felonies.md",
+   "marks": [],
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 002 (II) - Immigration/Part 005 (V) - Adjustment and Change of Status/§ 01252a - Transferred.md",
    "printed_pages": [
-    154,
-    156
+    196,
+    196
    ]
   },
   {
    "id": "8_1252b",
-   "marks": [
-    [
-     "I",
-     20,
-     [
-      [
-       93,
-       "[Page 157]"
-      ]
-     ]
-    ],
-    [
-     "L",
-     94,
-     "[Page 158]",
-     true
-    ],
-    [
-     "I",
-     166,
-     [
-      [
-       146,
-       "[Page 159]"
-      ]
-     ]
-    ]
-   ],
-   "path": "Chapter 011 - Nationality/Subchapter 002 (II) - Immigration/Part 005 (V) - Deportation; Adjustment of Status/§ 01252b - Deportation procedures.md",
+   "marks": [],
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 002 (II) - Immigration/Part 005 (V) - Adjustment and Change of Status/§ 01252b - Repealed. Pub. L. 104–208, div. C, title III, §308(b)(6), Sept. 30, 1996, 110 Stat. 3009–615.md",
    "printed_pages": [
-    156,
-    159
+    196,
+    196
+   ]
+  },
+  {
+   "id": "8_1252c",
+   "marks": [],
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 002 (II) - Immigration/Part 005 (V) - Adjustment and Change of Status/§ 01252c - Authorizing State and local law enforcement officials to arrest and detain certain illegal aliens.md",
+   "printed_pages": [
+    196,
+    196
    ]
   },
   {
@@ -2721,57 +3095,30 @@
    "marks": [
     [
      "L",
-     10,
-     "[Page 160]",
+     16,
+     "[Page 197]",
      true
     ],
     [
      "L",
-     52,
-     "[Page 161]",
+     92,
+     "[Page 198]",
      true
     ]
    ],
-   "path": "Chapter 011 - Nationality/Subchapter 002 (II) - Immigration/Part 005 (V) - Deportation; Adjustment of Status/§ 01253 - Countries to which aliens shall be deported.md",
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 002 (II) - Immigration/Part 005 (V) - Adjustment and Change of Status/§ 01253 - Penalties related to removal.md",
    "printed_pages": [
-    159,
-    161
+    196,
+    198
    ]
   },
   {
    "id": "8_1254",
-   "marks": [
-    [
-     "I",
-     8,
-     [
-      [
-       324,
-       "[Page 162]"
-      ]
-     ]
-    ],
-    [
-     "L",
-     52,
-     "[Page 163]",
-     true
-    ],
-    [
-     "I",
-     100,
-     [
-      [
-       163,
-       "[Page 164]"
-      ]
-     ]
-    ]
-   ],
-   "path": "Chapter 011 - Nationality/Subchapter 002 (II) - Immigration/Part 005 (V) - Deportation; Adjustment of Status/§ 01254 - Suspension of deportation.md",
+   "marks": [],
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 002 (II) - Immigration/Part 005 (V) - Adjustment and Change of Status/§ 01254 - Repealed. Pub. L. 104–208, div. C, title III, §308(b)(7), Sept. 30, 1996, 110 Stat. 3009–615.md",
    "printed_pages": [
-    161,
-    164
+    198,
+    198
    ]
   },
   {
@@ -2779,59 +3126,57 @@
    "marks": [
     [
      "I",
-     20,
+     14,
      [
       [
-       190,
-       "[Page 165]"
+       93,
+       "[Page 199]"
       ]
      ]
     ],
     [
      "I",
-     74,
+     70,
      [
       [
-       262,
-       "[Page 166]"
+       540,
+       "[Page 200]"
       ]
      ]
     ],
     [
+     "L",
+     136,
+     "[Page 201]",
+     true
+    ],
+    [
+     "L",
+     202,
+     "[Page 202]",
+     true
+    ],
+    [
      "I",
-     146,
+     282,
      [
       [
-       103,
-       "[Page 167]"
+       158,
+       "[Page 203]"
       ]
      ]
     ],
     [
-     "I",
-     214,
-     [
-      [
-       92,
-       "[Page 168]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     292,
-     [
-      [
-       169,
-       "[Page 169]"
-      ]
-     ]
+     "L",
+     378,
+     "[Page 204]",
+     true
     ]
    ],
-   "path": "Chapter 011 - Nationality/Subchapter 002 (II) - Immigration/Part 005 (V) - Deportation; Adjustment of Status/§ 01254a - Temporary protected status.md",
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 002 (II) - Immigration/Part 005 (V) - Adjustment and Change of Status/§ 01254a - Temporary protected status.md",
    "printed_pages": [
-    164,
-    169
+    198,
+    204
    ]
   },
   {
@@ -2839,73 +3184,63 @@
    "marks": [
     [
      "L",
-     6,
-     "[Page 170]",
-     true
-    ],
-    [
-     "L",
-     48,
-     "[Page 171]",
+     24,
+     "[Page 205]",
      true
     ],
     [
      "I",
-     108,
+     82,
      [
       [
-       114,
-       "[Page 172]"
+       187,
+       "[Page 206]"
       ]
      ]
     ],
     [
      "L",
-     194,
-     "[Page 173]",
+     170,
+     "[Page 207]",
+     true
+    ],
+    [
+     "L",
+     240,
+     "[Page 208]",
      true
     ],
     [
      "I",
-     304,
+     356,
      [
       [
-       212,
-       "[Page 174]"
+       68,
+       "[Page 209]"
       ]
      ]
     ],
     [
      "I",
-     382,
+     440,
      [
       [
-       170,
-       "[Page 175]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     462,
-     [
-      [
-       95,
-       "[Page 176]"
+       375,
+       "[Page 210]"
       ]
      ]
     ],
     [
      "L",
-     522,
-     "[Page 177]",
+     500,
+     "[Page 211]",
      true
     ]
    ],
-   "path": "Chapter 011 - Nationality/Subchapter 002 (II) - Immigration/Part 005 (V) - Deportation; Adjustment of Status/§ 01255 - Adjustment of status of nonimmigrant to that of person admitted for permanent residence.md",
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 002 (II) - Immigration/Part 005 (V) - Adjustment and Change of Status/§ 01255 - Adjustment of status of nonimmigrant to that of person admitted for permanent residence.md",
    "printed_pages": [
-    169,
-    177
+    204,
+    211
    ]
   },
   {
@@ -2913,105 +3248,97 @@
    "marks": [
     [
      "L",
-     54,
-     "[Page 178]",
-     true
-    ],
-    [
-     "L",
-     130,
-     "[Page 179]",
-     true
-    ],
-    [
-     "L",
-     188,
-     "[Page 180]",
+     78,
+     "[Page 212]",
      true
     ],
     [
      "I",
-     276,
+     156,
      [
       [
-       97,
-       "[Page 181]"
+       98,
+       "[Page 213]"
       ]
      ]
     ],
     [
      "L",
-     346,
-     "[Page 182]",
+     220,
+     "[Page 214]",
+     true
+    ],
+    [
+     "L",
+     300,
+     "[Page 215]",
      true
     ],
     [
      "I",
-     420,
+     370,
      [
       [
-       113,
-       "[Page 183]"
+       99,
+       "[Page 216]"
       ]
      ]
     ],
     [
      "L",
-     486,
-     "[Page 184]",
+     442,
+     "[Page 217]",
      true
-    ],
-    [
-     "I",
-     576,
-     [
-      [
-       271,
-       "[Page 185]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     652,
-     [
-      [
-       375,
-       "[Page 186]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     710,
-     [
-      [
-       646,
-       "[Page 187]"
-      ]
-     ]
     ],
     [
      "L",
-     778,
-     "[Page 188]",
+     494,
+     "[Page 218]",
+     true
+    ],
+    [
+     "L",
+     578,
+     "[Page 219]",
+     true
+    ],
+    [
+     "L",
+     672,
+     "[Page 220]",
+     true
+    ],
+    [
+     "L",
+     730,
+     "[Page 221]",
      true
     ],
     [
      "I",
-     862,
+     790,
      [
       [
-       210,
-       "[Page 189]"
+       157,
+       "[Page 222]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     864,
+     [
+      [
+       157,
+       "[Page 223]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 011 - Nationality/Subchapter 002 (II) - Immigration/Part 005 (V) - Deportation; Adjustment of Status/§ 01255a - Adjustment of status of certain entrants before January 1, 1982, to that of person admitted for lawful residence.md",
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 002 (II) - Immigration/Part 005 (V) - Adjustment and Change of Status/§ 01255a - Adjustment of status of certain entrants before January 1, 1982, to that of person admitted for lawful residence.md",
    "printed_pages": [
-    177,
-    189
+    211,
+    223
    ]
   },
   {
@@ -3019,53 +3346,68 @@
    "marks": [
     [
      "I",
-     30,
+     14,
      [
       [
-       110,
-       "[Page 190]"
+       194,
+       "[Page 224]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 011 - Nationality/Subchapter 002 (II) - Immigration/Part 005 (V) - Deportation; Adjustment of Status/§ 01255b - Adjustment of status of certain nonimmigrants to that of persons admitted for permanent residence.md",
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 002 (II) - Immigration/Part 005 (V) - Adjustment and Change of Status/§ 01255b - Adjustment of status of certain nonimmigrants to that of persons admitted for permanent residence.md",
    "printed_pages": [
-    189,
-    190
+    223,
+    224
    ]
   },
   {
    "id": "8_1256",
-   "marks": [],
-   "path": "Chapter 011 - Nationality/Subchapter 002 (II) - Immigration/Part 005 (V) - Deportation; Adjustment of Status/§ 01256 - Rescission of adjustment of status; effect upon naturalized citizen.md",
+   "marks": [
+    [
+     "I",
+     14,
+     [
+      [
+       216,
+       "[Page 225]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 002 (II) - Immigration/Part 005 (V) - Adjustment and Change of Status/§ 01256 - Rescission of adjustment of status; effect upon naturalized citizen.md",
    "printed_pages": [
-    190,
-    190
+    224,
+    225
    ]
   },
   {
    "id": "8_1257",
-   "marks": [
-    [
-     "L",
-     18,
-     "[Page 191]",
-     true
-    ]
-   ],
-   "path": "Chapter 011 - Nationality/Subchapter 002 (II) - Immigration/Part 005 (V) - Deportation; Adjustment of Status/§ 01257 - Adjustment of status of certain resident aliens to nonimmigrant status; exceptions.md",
+   "marks": [],
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 002 (II) - Immigration/Part 005 (V) - Adjustment and Change of Status/§ 01257 - Adjustment of status of certain resident aliens to nonimmigrant status; exceptions.md",
    "printed_pages": [
-    190,
-    191
+    225,
+    225
    ]
   },
   {
    "id": "8_1258",
-   "marks": [],
-   "path": "Chapter 011 - Nationality/Subchapter 002 (II) - Immigration/Part 005 (V) - Deportation; Adjustment of Status/§ 01258 - Change of nonimmigrant classification.md",
+   "marks": [
+    [
+     "I",
+     12,
+     [
+      [
+       272,
+       "[Page 226]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 002 (II) - Immigration/Part 005 (V) - Adjustment and Change of Status/§ 01258 - Change of nonimmigrant classification.md",
    "printed_pages": [
-    191,
-    191
+    225,
+    226
    ]
   },
   {
@@ -3073,33 +3415,33 @@
    "marks": [
     [
      "L",
-     38,
-     "[Page 192]",
+     48,
+     "[Page 227]",
      true
     ]
    ],
-   "path": "Chapter 011 - Nationality/Subchapter 002 (II) - Immigration/Part 005 (V) - Deportation; Adjustment of Status/§ 01259 - Record of admission for permanent residence in the case of certain aliens who entered the United States prior to January 1, 1972.md",
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 002 (II) - Immigration/Part 005 (V) - Adjustment and Change of Status/§ 01259 - Record of admission for permanent residence in the case of certain aliens who entered the United States prior to January 1, 1972.md",
    "printed_pages": [
-    191,
-    192
+    226,
+    227
    ]
   },
   {
    "id": "8_1260",
    "marks": [],
-   "path": "Chapter 011 - Nationality/Subchapter 002 (II) - Immigration/Part 005 (V) - Deportation; Adjustment of Status/§ 01260 - Removal of aliens falling into distress.md",
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 002 (II) - Immigration/Part 005 (V) - Adjustment and Change of Status/§ 01260 - Removal of aliens falling into distress.md",
    "printed_pages": [
-    192,
-    192
+    227,
+    227
    ]
   },
   {
-   "id": "8_-ch11-scII_2-Part_VI",
+   "id": "8_-ch12-scII-Part_VI",
    "marks": [],
-   "path": "Chapter 011 - Nationality/Subchapter 002 (II) - Immigration/Part 006 (VI) - Special Provisions Relating to Alien Crewmen/README.md",
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 002 (II) - Immigration/Part 006 (VI) - Special Provisions Relating to Alien Crewmen/README.md",
    "printed_pages": [
-    192,
-    192
+    227,
+    227
    ]
   },
   {
@@ -3108,64 +3450,72 @@
     [
      "L",
      18,
-     "[Page 193]",
+     "[Page 228]",
      true
     ]
    ],
-   "path": "Chapter 011 - Nationality/Subchapter 002 (II) - Immigration/Part 006 (VI) - Special Provisions Relating to Alien Crewmen/§ 01281 - Alien crewmen.md",
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 002 (II) - Immigration/Part 006 (VI) - Special Provisions Relating to Alien Crewmen/§ 01281 - Alien crewmen.md",
    "printed_pages": [
-    192,
-    193
+    227,
+    228
    ]
   },
   {
    "id": "8_1282",
    "marks": [
     [
-     "L",
-     34,
-     "[Page 194]",
-     true
+     "I",
+     32,
+     [
+      [
+       107,
+       "[Page 229]"
+      ]
+     ]
     ]
    ],
-   "path": "Chapter 011 - Nationality/Subchapter 002 (II) - Immigration/Part 006 (VI) - Special Provisions Relating to Alien Crewmen/§ 01282 - Conditional permits to land temporarily.md",
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 002 (II) - Immigration/Part 006 (VI) - Special Provisions Relating to Alien Crewmen/§ 01282 - Conditional permits to land temporarily.md",
    "printed_pages": [
-    193,
-    194
+    228,
+    229
    ]
   },
   {
    "id": "8_1283",
    "marks": [],
-   "path": "Chapter 011 - Nationality/Subchapter 002 (II) - Immigration/Part 006 (VI) - Special Provisions Relating to Alien Crewmen/§ 01283 - Hospital treatment of alien crewmen afflicted with certain diseases.md",
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 002 (II) - Immigration/Part 006 (VI) - Special Provisions Relating to Alien Crewmen/§ 01283 - Hospital treatment of alien crewmen afflicted with certain diseases.md",
    "printed_pages": [
-    194,
-    194
+    229,
+    229
    ]
   },
   {
    "id": "8_1284",
    "marks": [
     [
-     "L",
-     14,
-     "[Page 195]",
-     true
+     "I",
+     12,
+     [
+      [
+       561,
+       "[Page 230]"
+      ]
+     ]
     ]
    ],
-   "path": "Chapter 011 - Nationality/Subchapter 002 (II) - Immigration/Part 006 (VI) - Special Provisions Relating to Alien Crewmen/§ 01284 - Control of alien crewmen.md",
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 002 (II) - Immigration/Part 006 (VI) - Special Provisions Relating to Alien Crewmen/§ 01284 - Control of alien crewmen.md",
    "printed_pages": [
-    194,
-    195
+    229,
+    230
    ]
   },
   {
    "id": "8_1285",
    "marks": [],
-   "path": "Chapter 011 - Nationality/Subchapter 002 (II) - Immigration/Part 006 (VI) - Special Provisions Relating to Alien Crewmen/§ 01285 - Employment on passenger vessels of aliens afflicted with certain disabilities.md",
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 002 (II) - Immigration/Part 006 (VI) - Special Provisions Relating to Alien Crewmen/§ 01285 - Employment on passenger vessels of aliens afflicted with certain disabilities.md",
    "printed_pages": [
-    195,
-    195
+    230,
+    230
    ]
   },
   {
@@ -3173,24 +3523,24 @@
    "marks": [
     [
      "L",
-     22,
-     "[Page 196]",
+     4,
+     "[Page 231]",
      true
     ]
    ],
-   "path": "Chapter 011 - Nationality/Subchapter 002 (II) - Immigration/Part 006 (VI) - Special Provisions Relating to Alien Crewmen/§ 01286 - Discharge of alien crewmen; penalties.md",
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 002 (II) - Immigration/Part 006 (VI) - Special Provisions Relating to Alien Crewmen/§ 01286 - Discharge of alien crewmen; penalties.md",
    "printed_pages": [
-    195,
-    196
+    230,
+    231
    ]
   },
   {
    "id": "8_1287",
    "marks": [],
-   "path": "Chapter 011 - Nationality/Subchapter 002 (II) - Immigration/Part 006 (VI) - Special Provisions Relating to Alien Crewmen/§ 01287 - Alien crewmen brought into the United States with intent to evade immigration laws; penalties.md",
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 002 (II) - Immigration/Part 006 (VI) - Special Provisions Relating to Alien Crewmen/§ 01287 - Alien crewmen brought into the United States with intent to evade immigration laws; penalties.md",
    "printed_pages": [
-    196,
-    196
+    231,
+    231
    ]
   },
   {
@@ -3198,59 +3548,59 @@
    "marks": [
     [
      "I",
-     40,
+     32,
      [
       [
-       271,
-       "[Page 197]"
+       226,
+       "[Page 232]"
       ]
      ]
-    ],
-    [
-     "L",
-     72,
-     "[Page 198]",
-     true
     ],
     [
      "I",
-     126,
+     66,
      [
       [
-       139,
-       "[Page 199]"
+       329,
+       "[Page 233]"
       ]
      ]
     ],
     [
      "L",
-     206,
-     "[Page 200]",
+     118,
+     "[Page 234]",
+     true
+    ],
+    [
+     "L",
+     188,
+     "[Page 235]",
      true
     ]
    ],
-   "path": "Chapter 011 - Nationality/Subchapter 002 (II) - Immigration/Part 006 (VI) - Special Provisions Relating to Alien Crewmen/§ 01288 - Limitations on performance of longshore work by alien crewmen.md",
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 002 (II) - Immigration/Part 006 (VI) - Special Provisions Relating to Alien Crewmen/§ 01288 - Limitations on performance of longshore work by alien crewmen.md",
    "printed_pages": [
-    196,
-    200
+    231,
+    235
    ]
   },
   {
-   "id": "8_-ch11-scII_2-Part_VII",
+   "id": "8_-ch12-scII-Part_VII",
    "marks": [],
-   "path": "Chapter 011 - Nationality/Subchapter 002 (II) - Immigration/Part 007 (VII) - Registration of Aliens/README.md",
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 002 (II) - Immigration/Part 007 (VII) - Registration of Aliens/README.md",
    "printed_pages": [
-    200,
-    200
+    235,
+    235
    ]
   },
   {
    "id": "8_1301",
    "marks": [],
-   "path": "Chapter 011 - Nationality/Subchapter 002 (II) - Immigration/Part 007 (VII) - Registration of Aliens/§ 01301 - Alien seeking entry; contents.md",
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 002 (II) - Immigration/Part 007 (VII) - Registration of Aliens/§ 01301 - Alien seeking entry; contents.md",
    "printed_pages": [
-    200,
-    200
+    235,
+    235
    ]
   },
   {
@@ -3258,87 +3608,98 @@
    "marks": [
     [
      "L",
-     46,
-     "[Page 201]",
+     30,
+     "[Page 236]",
      true
     ]
    ],
-   "path": "Chapter 011 - Nationality/Subchapter 002 (II) - Immigration/Part 007 (VII) - Registration of Aliens/§ 01302 - Registration of aliens.md",
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 002 (II) - Immigration/Part 007 (VII) - Registration of Aliens/§ 01302 - Registration of aliens.md",
    "printed_pages": [
-    200,
-    201
+    235,
+    236
    ]
   },
   {
    "id": "8_1303",
    "marks": [],
-   "path": "Chapter 011 - Nationality/Subchapter 002 (II) - Immigration/Part 007 (VII) - Registration of Aliens/§ 01303 - Registration of special groups.md",
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 002 (II) - Immigration/Part 007 (VII) - Registration of Aliens/§ 01303 - Registration of special groups.md",
    "printed_pages": [
-    201,
-    201
+    236,
+    236
    ]
   },
   {
    "id": "8_1304",
-   "marks": [],
-   "path": "Chapter 011 - Nationality/Subchapter 002 (II) - Immigration/Part 007 (VII) - Registration of Aliens/§ 01304 - Forms for registration and fingerprinting.md",
+   "marks": [
+    [
+     "I",
+     30,
+     [
+      [
+       109,
+       "[Page 237]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 002 (II) - Immigration/Part 007 (VII) - Registration of Aliens/§ 01304 - Forms for registration and fingerprinting.md",
    "printed_pages": [
-    201,
-    201
+    236,
+    237
    ]
   },
   {
    "id": "8_1305",
-   "marks": [
-    [
-     "L",
-     6,
-     "[Page 202]",
-     true
-    ]
-   ],
-   "path": "Chapter 011 - Nationality/Subchapter 002 (II) - Immigration/Part 007 (VII) - Registration of Aliens/§ 01305 - Notices of change of address.md",
+   "marks": [],
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 002 (II) - Immigration/Part 007 (VII) - Registration of Aliens/§ 01305 - Notices of change of address.md",
    "printed_pages": [
-    201,
-    202
+    237,
+    237
    ]
   },
   {
    "id": "8_1306",
-   "marks": [],
-   "path": "Chapter 011 - Nationality/Subchapter 002 (II) - Immigration/Part 007 (VII) - Registration of Aliens/§ 01306 - Penalties.md",
+   "marks": [
+    [
+     "I",
+     16,
+     [
+      [
+       89,
+       "[Page 238]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 002 (II) - Immigration/Part 007 (VII) - Registration of Aliens/§ 01306 - Penalties.md",
    "printed_pages": [
-    202,
-    202
+    237,
+    238
    ]
   },
   {
-   "id": "8_-ch11-scII_2-Part_VIII",
+   "id": "8_-ch12-scII-Part_VIII",
    "marks": [],
-   "path": "Chapter 011 - Nationality/Subchapter 002 (II) - Immigration/Part 008 (VIII) - General Penalty Provisions/README.md",
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 002 (II) - Immigration/Part 008 (VIII) - General Penalty Provisions/README.md",
    "printed_pages": [
-    202,
-    202
+    238,
+    238
    ]
   },
   {
    "id": "8_1321",
    "marks": [
     [
-     "I",
-     4,
-     [
-      [
-       803,
-       "[Page 203]"
-      ]
-     ]
+     "L",
+     48,
+     "[Page 239]",
+     true
     ]
    ],
-   "path": "Chapter 011 - Nationality/Subchapter 002 (II) - Immigration/Part 008 (VIII) - General Penalty Provisions/§ 01321 - Prevention of unauthorized landing of aliens.md",
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 002 (II) - Immigration/Part 008 (VIII) - General Penalty Provisions/§ 01321 - Prevention of unauthorized landing of aliens.md",
    "printed_pages": [
-    202,
-    203
+    238,
+    239
    ]
   },
   {
@@ -3346,19 +3707,19 @@
    "marks": [
     [
      "I",
-     10,
+     48,
      [
       [
-       110,
-       "[Page 204]"
+       107,
+       "[Page 240]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 011 - Nationality/Subchapter 002 (II) - Immigration/Part 008 (VIII) - General Penalty Provisions/§ 01322 - Bringing in aliens subject to exclusion on a health-related ground; persons liable; clearance papers; exceptions; “person” defined.md",
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 002 (II) - Immigration/Part 008 (VIII) - General Penalty Provisions/§ 01322 - Bringing in aliens subject to denial of admission on a health-related ground; persons liable; clearance papers; exceptions; “person”….md",
    "printed_pages": [
-    203,
-    204
+    239,
+    240
    ]
   },
   {
@@ -3366,25 +3727,19 @@
    "marks": [
     [
      "I",
-     8,
+     38,
      [
       [
-       855,
-       "[Page 205]"
+       273,
+       "[Page 241]"
       ]
      ]
-    ],
-    [
-     "L",
-     66,
-     "[Page 206]",
-     true
     ]
    ],
-   "path": "Chapter 011 - Nationality/Subchapter 002 (II) - Immigration/Part 008 (VIII) - General Penalty Provisions/§ 01323 - Unlawful bringing of aliens into United States.md",
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 002 (II) - Immigration/Part 008 (VIII) - General Penalty Provisions/§ 01323 - Unlawful bringing of aliens into United States.md",
    "printed_pages": [
-    204,
-    206
+    240,
+    241
    ]
   },
   {
@@ -3392,29 +3747,35 @@
    "marks": [
     [
      "I",
-     50,
+     8,
      [
       [
-       91,
-       "[Page 207]"
+       144,
+       "[Page 242]"
       ]
      ]
     ],
     [
      "I",
-     98,
+     62,
      [
       [
-       218,
-       "[Page 208]"
+       654,
+       "[Page 243]"
       ]
      ]
+    ],
+    [
+     "L",
+     120,
+     "[Page 244]",
+     true
     ]
    ],
-   "path": "Chapter 011 - Nationality/Subchapter 002 (II) - Immigration/Part 008 (VIII) - General Penalty Provisions/§ 01324 - Bringing in and harboring certain aliens.md",
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 002 (II) - Immigration/Part 008 (VIII) - General Penalty Provisions/§ 01324 - Bringing in and harboring certain aliens.md",
    "printed_pages": [
-    206,
-    208
+    241,
+    244
    ]
   },
   {
@@ -3422,93 +3783,137 @@
    "marks": [
     [
      "I",
-     26,
+     8,
      [
       [
-       367,
-       "[Page 209]"
+       187,
+       "[Page 245]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     70,
+     [
+      [
+       95,
+       "[Page 246]"
       ]
      ]
     ],
     [
      "L",
-     98,
-     "[Page 210]",
+     138,
+     "[Page 247]",
      true
     ],
     [
      "I",
-     170,
+     222,
      [
       [
-       641,
-       "[Page 211]"
+       93,
+       "[Page 248]"
       ]
      ]
     ],
     [
      "I",
-     242,
+     292,
      [
       [
-       314,
-       "[Page 212]"
+       96,
+       "[Page 249]"
       ]
      ]
     ],
     [
      "I",
-     302,
+     346,
      [
       [
-       101,
-       "[Page 213]"
+       144,
+       "[Page 250]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     410,
+     [
+      [
+       491,
+       "[Page 251]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     492,
+     [
+      [
+       309,
+       "[Page 252]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     616,
+     [
+      [
+       144,
+       "[Page 253]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     734,
+     [
+      [
+       216,
+       "[Page 254]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     822,
+     [
+      [
+       110,
+       "[Page 255]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     904,
+     [
+      [
+       253,
+       "[Page 256]"
       ]
      ]
     ],
     [
      "L",
-     374,
-     "[Page 214]",
-     true
-    ],
-    [
-     "I",
-     446,
-     [
-      [
-       138,
-       "[Page 215]"
-      ]
-     ]
-    ],
-    [
-     "L",
-     520,
-     "[Page 216]",
+     982,
+     "[Page 257]",
      true
     ],
     [
      "L",
-     600,
-     "[Page 217]",
+     1038,
+     "[Page 258]",
      true
-    ],
-    [
-     "I",
-     650,
-     [
-      [
-       266,
-       "[Page 218]"
-      ]
-     ]
     ]
    ],
-   "path": "Chapter 011 - Nationality/Subchapter 002 (II) - Immigration/Part 008 (VIII) - General Penalty Provisions/§ 01324a - Unlawful employment of aliens.md",
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 002 (II) - Immigration/Part 008 (VIII) - General Penalty Provisions/§ 01324a - Unlawful employment of aliens.md",
    "printed_pages": [
-    208,
-    218
+    244,
+    258
    ]
   },
   {
@@ -3519,52 +3924,48 @@
      36,
      [
       [
-       555,
-       "[Page 219]"
+       95,
+       "[Page 259]"
       ]
      ]
     ],
     [
      "I",
-     88,
+     82,
      [
       [
-       138,
-       "[Page 220]"
+       135,
+       "[Page 260]"
       ]
      ]
     ],
     [
      "L",
-     144,
-     "[Page 221]",
+     138,
+     "[Page 261]",
      true
     ],
     [
      "I",
-     208,
+     202,
      [
       [
-       136,
-       "[Page 222]"
+       92,
+       "[Page 262]"
       ]
      ]
     ],
     [
-     "I",
-     298,
-     [
-      [
-       106,
-       "[Page 223]"
-      ]
-     ]
+     "L",
+     278,
+     "[Page 263]",
+     true
     ]
    ],
-   "path": "Chapter 011 - Nationality/Subchapter 002 (II) - Immigration/Part 008 (VIII) - General Penalty Provisions/§ 01324b - Unfair immigration-related employment practices.md",
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 002 (II) - Immigration/Part 008 (VIII) - General Penalty Provisions/§ 01324b - Unfair immigration-related employment practices.md",
    "printed_pages": [
-    218,
-    223
+    258,
+    263
    ]
   },
   {
@@ -3572,86 +3973,118 @@
    "marks": [
     [
      "I",
-     46,
+     24,
      [
       [
-       132,
-       "[Page 224]"
+       92,
+       "[Page 264]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     82,
+     [
+      [
+       290,
+       "[Page 265]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 011 - Nationality/Subchapter 002 (II) - Immigration/Part 008 (VIII) - General Penalty Provisions/§ 01324c - Penalties for document fraud.md",
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 002 (II) - Immigration/Part 008 (VIII) - General Penalty Provisions/§ 01324c - Penalties for document fraud.md",
    "printed_pages": [
-    223,
-    224
+    263,
+    265
+   ]
+  },
+  {
+   "id": "8_1324d",
+   "marks": [
+    [
+     "L",
+     18,
+     "[Page 266]",
+     true
+    ]
+   ],
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 002 (II) - Immigration/Part 008 (VIII) - General Penalty Provisions/§ 01324d - Civil penalties for failure to depart.md",
+   "printed_pages": [
+    265,
+    266
    ]
   },
   {
    "id": "8_1325",
-   "marks": [
-    [
-     "I",
-     20,
-     [
-      [
-       268,
-       "[Page 225]"
-      ]
-     ]
-    ]
-   ],
-   "path": "Chapter 011 - Nationality/Subchapter 002 (II) - Immigration/Part 008 (VIII) - General Penalty Provisions/§ 01325 - Improper entry by alien.md",
+   "marks": [],
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 002 (II) - Immigration/Part 008 (VIII) - General Penalty Provisions/§ 01325 - Improper entry by alien.md",
    "printed_pages": [
-    224,
-    225
+    266,
+    266
    ]
   },
   {
    "id": "8_1326",
-   "marks": [],
-   "path": "Chapter 011 - Nationality/Subchapter 002 (II) - Immigration/Part 008 (VIII) - General Penalty Provisions/§ 01326 - Reentry of deported alien; criminal penalties for reentry of certain deported aliens.md",
-   "printed_pages": [
-    225,
-    225
-   ]
-  },
-  {
-   "id": "8_1327",
    "marks": [
     [
+     "L",
+     6,
+     "[Page 267]",
+     true
+    ],
+    [
      "I",
-     8,
+     72,
      [
       [
-       266,
-       "[Page 226]"
+       163,
+       "[Page 268]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 011 - Nationality/Subchapter 002 (II) - Immigration/Part 008 (VIII) - General Penalty Provisions/§ 01327 - Aiding or assisting certain aliens to enter.md",
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 002 (II) - Immigration/Part 008 (VIII) - General Penalty Provisions/§ 01326 - Reentry of removed aliens.md",
    "printed_pages": [
-    225,
-    226
+    266,
+    268
+   ]
+  },
+  {
+   "id": "8_1327",
+   "marks": [],
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 002 (II) - Immigration/Part 008 (VIII) - General Penalty Provisions/§ 01327 - Aiding or assisting certain aliens to enter.md",
+   "printed_pages": [
+    268,
+    268
    ]
   },
   {
    "id": "8_1328",
-   "marks": [],
-   "path": "Chapter 011 - Nationality/Subchapter 002 (II) - Immigration/Part 008 (VIII) - General Penalty Provisions/§ 01328 - Importation of alien for immoral purpose.md",
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       565,
+       "[Page 269]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 002 (II) - Immigration/Part 008 (VIII) - General Penalty Provisions/§ 01328 - Importation of alien for immoral purpose.md",
    "printed_pages": [
-    226,
-    226
+    268,
+    269
    ]
   },
   {
    "id": "8_1329",
    "marks": [],
-   "path": "Chapter 011 - Nationality/Subchapter 002 (II) - Immigration/Part 008 (VIII) - General Penalty Provisions/§ 01329 - Jurisdiction of district courts.md",
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 002 (II) - Immigration/Part 008 (VIII) - General Penalty Provisions/§ 01329 - Jurisdiction of district courts.md",
    "printed_pages": [
-    226,
-    226
+    269,
+    269
    ]
   },
   {
@@ -3659,240 +4092,247 @@
    "marks": [
     [
      "I",
-     12,
+     20,
      [
       [
-       92,
-       "[Page 227]"
+       267,
+       "[Page 270]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 011 - Nationality/Subchapter 002 (II) - Immigration/Part 008 (VIII) - General Penalty Provisions/§ 01330 - Collection of penalties and expenses.md",
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 002 (II) - Immigration/Part 008 (VIII) - General Penalty Provisions/§ 01330 - Collection of penalties and expenses.md",
    "printed_pages": [
-    226,
-    227
+    269,
+    270
    ]
   },
   {
-   "id": "8_-ch11-scII_2-Part_IX",
+   "id": "8_-ch12-scII-Part_IX",
    "marks": [],
-   "path": "Chapter 011 - Nationality/Subchapter 002 (II) - Immigration/Part 009 (IX) - Miscellaneous/README.md",
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 002 (II) - Immigration/Part 009 (IX) - Miscellaneous/README.md",
    "printed_pages": [
-    227,
-    227
+    270,
+    270
    ]
   },
   {
    "id": "8_1351",
    "marks": [
     [
-     "I",
-     58,
-     [
-      [
-       72,
-       "[Page 228]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     183,
-     [
-      [
-       68,
-       "[Page 229]"
-      ]
-     ]
+     "L",
+     24,
+     "[Page 271]",
+     true
     ]
    ],
-   "path": "Chapter 011 - Nationality/Subchapter 002 (II) - Immigration/Part 009 (IX) - Miscellaneous/§ 01351 - Nonimmigrant visa fees.md",
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 002 (II) - Immigration/Part 009 (IX) - Miscellaneous/§ 01351 - Nonimmigrant visa fees.md",
    "printed_pages": [
-    227,
-    229
+    270,
+    271
    ]
   },
   {
    "id": "8_1352",
    "marks": [],
-   "path": "Chapter 011 - Nationality/Subchapter 002 (II) - Immigration/Part 009 (IX) - Miscellaneous/§ 01352 - Printing of reentry permits and blank forms of manifest and crew lists; sale to public.md",
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 002 (II) - Immigration/Part 009 (IX) - Miscellaneous/§ 01352 - Printing of reentry permits and blank forms of manifest and crew lists; sale to public.md",
    "printed_pages": [
-    229,
-    229
+    271,
+    271
    ]
   },
   {
    "id": "8_1353",
    "marks": [],
-   "path": "Chapter 011 - Nationality/Subchapter 002 (II) - Immigration/Part 009 (IX) - Miscellaneous/§ 01353 - Travel expenses and expense of transporting remains of officers and employees dying outside of United States.md",
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 002 (II) - Immigration/Part 009 (IX) - Miscellaneous/§ 01353 - Travel expenses and expense of transporting remains of officers and employees dying outside of United States.md",
    "printed_pages": [
-    229,
-    229
+    271,
+    271
    ]
   },
   {
    "id": "8_1353a",
    "marks": [
     [
-     "L",
-     10,
-     "[Page 230]",
-     true
+     "I",
+     2,
+     [
+      [
+       137,
+       "[Page 272]"
+      ]
+     ]
     ]
    ],
-   "path": "Chapter 011 - Nationality/Subchapter 002 (II) - Immigration/Part 009 (IX) - Miscellaneous/§ 01353a - Officers and employees; overtime services; extra compensation; length of working day.md",
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 002 (II) - Immigration/Part 009 (IX) - Miscellaneous/§ 01353a - Officers and employees; overtime services; extra compensation; length of working day.md",
    "printed_pages": [
-    229,
-    230
+    271,
+    272
    ]
   },
   {
    "id": "8_1353b",
    "marks": [],
-   "path": "Chapter 011 - Nationality/Subchapter 002 (II) - Immigration/Part 009 (IX) - Miscellaneous/§ 01353b - Extra compensation; payment.md",
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 002 (II) - Immigration/Part 009 (IX) - Miscellaneous/§ 01353b - Extra compensation; payment.md",
    "printed_pages": [
-    230,
-    230
+    272,
+    272
    ]
   },
   {
    "id": "8_1353c",
-   "marks": [],
-   "path": "Chapter 011 - Nationality/Subchapter 002 (II) - Immigration/Part 009 (IX) - Miscellaneous/§ 01353c - Immigration officials; service in foreign contiguous territory.md",
-   "printed_pages": [
-    230,
-    230
-   ]
-  },
-  {
-   "id": "8_1353d",
    "marks": [
     [
      "I",
-     2,
+     8,
      [
       [
-       275,
-       "[Page 231]"
+       110,
+       "[Page 273]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 011 - Nationality/Subchapter 002 (II) - Immigration/Part 009 (IX) - Miscellaneous/§ 01353d - Disposition of money received as extra compensation.md",
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 002 (II) - Immigration/Part 009 (IX) - Miscellaneous/§ 01353c - Immigration officials; service in foreign contiguous territory.md",
    "printed_pages": [
-    230,
-    231
+    272,
+    273
+   ]
+  },
+  {
+   "id": "8_1353d",
+   "marks": [],
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 002 (II) - Immigration/Part 009 (IX) - Miscellaneous/§ 01353d - Disposition of money received as extra compensation.md",
+   "printed_pages": [
+    273,
+    273
    ]
   },
   {
    "id": "8_1354",
    "marks": [],
-   "path": "Chapter 011 - Nationality/Subchapter 002 (II) - Immigration/Part 009 (IX) - Miscellaneous/§ 01354 - Applicability to members of the Armed Forces.md",
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 002 (II) - Immigration/Part 009 (IX) - Miscellaneous/§ 01354 - Applicability to members of the Armed Forces.md",
    "printed_pages": [
-    231,
-    231
+    273,
+    273
    ]
   },
   {
    "id": "8_1355",
-   "marks": [],
-   "path": "Chapter 011 - Nationality/Subchapter 002 (II) - Immigration/Part 009 (IX) - Miscellaneous/§ 01355 - Disposal of privileges at immigrant stations; rentals; retail sale; disposition of receipts.md",
+   "marks": [
+    [
+     "L",
+     14,
+     "[Page 274]",
+     true
+    ]
+   ],
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 002 (II) - Immigration/Part 009 (IX) - Miscellaneous/§ 01355 - Disposal of privileges at immigrant stations; rentals; retail sale; disposition of receipts.md",
    "printed_pages": [
-    231,
-    231
+    273,
+    274
    ]
   },
   {
    "id": "8_1356",
    "marks": [
     [
+     "I",
+     64,
+     [
+      [
+       368,
+       "[Page 275]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     100,
+     [
+      [
+       847,
+       "[Page 276]"
+      ]
+     ]
+    ],
+    [
      "L",
-     14,
-     "[Page 232]",
+     154,
+     "[Page 277]",
      true
     ],
     [
      "L",
-     78,
-     "[Page 233]",
+     204,
+     "[Page 278]",
      true
     ],
     [
-     "I",
-     110,
-     [
-      [
-       86,
-       "[Page 234]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     164,
-     [
-      [
-       747,
-       "[Page 235]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     252,
-     [
-      [
-       112,
-       "[Page 236]"
-      ]
-     ]
+     "L",
+     296,
+     "[Page 279]",
+     true
     ],
     [
      "L",
-     328,
-     "[Page 237]",
+     376,
+     "[Page 280]",
      true
     ]
    ],
-   "path": "Chapter 011 - Nationality/Subchapter 002 (II) - Immigration/Part 009 (IX) - Miscellaneous/§ 01356 - Disposition of moneys collected under the provisions of this subchapter.md",
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 002 (II) - Immigration/Part 009 (IX) - Miscellaneous/§ 01356 - Disposition of moneys collected under the provisions of this subchapter.md",
    "printed_pages": [
-    231,
-    237
+    274,
+    280
    ]
   },
   {
    "id": "8_1357",
    "marks": [
     [
-     "L",
-     40,
-     "[Page 238]",
-     true
+     "I",
+     26,
+     [
+      [
+       324,
+       "[Page 281]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     70,
+     [
+      [
+       237,
+       "[Page 282]"
+      ]
+     ]
     ]
    ],
-   "path": "Chapter 011 - Nationality/Subchapter 002 (II) - Immigration/Part 009 (IX) - Miscellaneous/§ 01357 - Powers of immigration officers and employees.md",
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 002 (II) - Immigration/Part 009 (IX) - Miscellaneous/§ 01357 - Powers of immigration officers and employees.md",
    "printed_pages": [
-    237,
-    238
+    280,
+    282
    ]
   },
   {
    "id": "8_1358",
    "marks": [],
-   "path": "Chapter 011 - Nationality/Subchapter 002 (II) - Immigration/Part 009 (IX) - Miscellaneous/§ 01358 - Local jurisdiction over immigrant stations.md",
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 002 (II) - Immigration/Part 009 (IX) - Miscellaneous/§ 01358 - Local jurisdiction over immigrant stations.md",
    "printed_pages": [
-    238,
-    238
+    282,
+    282
    ]
   },
   {
    "id": "8_1359",
    "marks": [],
-   "path": "Chapter 011 - Nationality/Subchapter 002 (II) - Immigration/Part 009 (IX) - Miscellaneous/§ 01359 - Application to American Indians born in Canada.md",
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 002 (II) - Immigration/Part 009 (IX) - Miscellaneous/§ 01359 - Application to American Indians born in Canada.md",
    "printed_pages": [
-    238,
-    238
+    282,
+    282
    ]
   },
   {
@@ -3900,100 +4340,295 @@
    "marks": [
     [
      "I",
-     2,
+     4,
      [
       [
-       380,
-       "[Page 239]"
+       92,
+       "[Page 283]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 011 - Nationality/Subchapter 002 (II) - Immigration/Part 009 (IX) - Miscellaneous/§ 01360 - Establishment of central file; information from other departments and agencies.md",
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 002 (II) - Immigration/Part 009 (IX) - Miscellaneous/§ 01360 - Establishment of central file; information from other departments and agencies.md",
    "printed_pages": [
-    238,
-    239
+    282,
+    283
    ]
   },
   {
    "id": "8_1361",
-   "marks": [],
-   "path": "Chapter 011 - Nationality/Subchapter 002 (II) - Immigration/Part 009 (IX) - Miscellaneous/§ 01361 - Burden of proof upon alien.md",
+   "marks": [
+    [
+     "I",
+     4,
+     [
+      [
+       106,
+       "[Page 284]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 002 (II) - Immigration/Part 009 (IX) - Miscellaneous/§ 01361 - Burden of proof upon alien.md",
    "printed_pages": [
-    239,
-    239
+    283,
+    284
    ]
   },
   {
    "id": "8_1362",
    "marks": [],
-   "path": "Chapter 011 - Nationality/Subchapter 002 (II) - Immigration/Part 009 (IX) - Miscellaneous/§ 01362 - Right to counsel.md",
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 002 (II) - Immigration/Part 009 (IX) - Miscellaneous/§ 01362 - Right to counsel.md",
    "printed_pages": [
-    239,
-    239
+    284,
+    284
    ]
   },
   {
    "id": "8_1363",
+   "marks": [],
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 002 (II) - Immigration/Part 009 (IX) - Miscellaneous/§ 01363 - Deposit of and interest on cash received to secure immigration bonds.md",
+   "printed_pages": [
+    284,
+    284
+   ]
+  },
+  {
+   "id": "8_1363a",
+   "marks": [
+    [
+     "I",
+     26,
+     [
+      [
+       92,
+       "[Page 285]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 002 (II) - Immigration/Part 009 (IX) - Miscellaneous/§ 01363a - Undercover investigation authority.md",
+   "printed_pages": [
+    284,
+    285
+   ]
+  },
+  {
+   "id": "8_1363b",
+   "marks": [],
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 002 (II) - Immigration/Part 009 (IX) - Miscellaneous/§ 01363b - Transportation of remains of immigration officers and border patrol agents killed in the line of duty.md",
+   "printed_pages": [
+    285,
+    285
+   ]
+  },
+  {
+   "id": "8_1364",
+   "marks": [
+    [
+     "I",
+     26,
+     [
+      [
+       91,
+       "[Page 286]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 002 (II) - Immigration/Part 009 (IX) - Miscellaneous/§ 01364 - Triennial comprehensive report on immigration.md",
+   "printed_pages": [
+    285,
+    286
+   ]
+  },
+  {
+   "id": "8_1365",
+   "marks": [],
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 002 (II) - Immigration/Part 009 (IX) - Miscellaneous/§ 01365 - Reimbursement of States for costs of incarcerating illegal aliens and certain Cuban nationals.md",
+   "printed_pages": [
+    286,
+    286
+   ]
+  },
+  {
+   "id": "8_1366",
    "marks": [
     [
      "I",
      2,
      [
       [
-       422,
-       "[Page 240]"
+       92,
+       "[Page 287]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 011 - Nationality/Subchapter 002 (II) - Immigration/Part 009 (IX) - Miscellaneous/§ 01363 - Deposit of and interest on cash received to secure immigration bonds.md",
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 002 (II) - Immigration/Part 009 (IX) - Miscellaneous/§ 01366 - Annual report on criminal aliens.md",
    "printed_pages": [
-    239,
-    240
+    286,
+    287
    ]
   },
   {
-   "id": "8_1364",
+   "id": "8_1367",
+   "marks": [
+    [
+     "I",
+     50,
+     [
+      [
+       108,
+       "[Page 288]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 002 (II) - Immigration/Part 009 (IX) - Miscellaneous/§ 01367 - Penalties for disclosure of information.md",
+   "printed_pages": [
+    287,
+    288
+   ]
+  },
+  {
+   "id": "8_1368",
    "marks": [],
-   "path": "Chapter 011 - Nationality/Subchapter 002 (II) - Immigration/Part 009 (IX) - Miscellaneous/§ 01364 - Triennial comprehensive report on immigration.md",
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 002 (II) - Immigration/Part 009 (IX) - Miscellaneous/§ 01368 - Increase in INS detention facilities; report on detention space.md",
    "printed_pages": [
-    240,
-    240
+    288,
+    288
    ]
   },
   {
-   "id": "8_1365",
+   "id": "8_1369",
    "marks": [
     [
      "L",
-     20,
-     "[Page 241]",
+     14,
+     "[Page 289]",
      true
     ]
    ],
-   "path": "Chapter 011 - Nationality/Subchapter 002 (II) - Immigration/Part 009 (IX) - Miscellaneous/§ 01365 - Reimbursement of States for costs of incarcerating illegal aliens and certain Cuban nationals.md",
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 002 (II) - Immigration/Part 009 (IX) - Miscellaneous/§ 01369 - Treatment of expenses subject to emergency medical services exception.md",
    "printed_pages": [
-    240,
-    241
+    288,
+    289
    ]
   },
   {
-   "id": "8_-ch11-scIII_2",
+   "id": "8_1370",
    "marks": [],
-   "path": "Chapter 011 - Nationality/Subchapter 003 (III) - Nationality and Naturalization/README.md",
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 002 (II) - Immigration/Part 009 (IX) - Miscellaneous/§ 01370 - Reimbursement of States and localities for emergency ambulance services.md",
    "printed_pages": [
-    241,
-    241
+    289,
+    289
    ]
   },
   {
-   "id": "8_-ch11-scIII_2-Part_I",
+   "id": "8_1371",
    "marks": [],
-   "path": "Chapter 011 - Nationality/Subchapter 003 (III) - Nationality and Naturalization/Part 001 (I) - Nationality at Birth and Collective Naturalization/README.md",
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 002 (II) - Immigration/Part 009 (IX) - Miscellaneous/§ 01371 - Reports.md",
    "printed_pages": [
-    241,
-    241
+    289,
+    289
+   ]
+  },
+  {
+   "id": "8_1372",
+   "marks": [
+    [
+     "I",
+     28,
+     [
+      [
+       99,
+       "[Page 290]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     96,
+     [
+      [
+       358,
+       "[Page 291]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 002 (II) - Immigration/Part 009 (IX) - Miscellaneous/§ 01372 - Program to collect information relating to nonimmigrant foreign students and other exchange program participants.md",
+   "printed_pages": [
+    289,
+    291
+   ]
+  },
+  {
+   "id": "8_1373",
+   "marks": [],
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 002 (II) - Immigration/Part 009 (IX) - Miscellaneous/§ 01373 - Communication between government agencies and the Immigration and Naturalization Service.md",
+   "printed_pages": [
+    291,
+    291
+   ]
+  },
+  {
+   "id": "8_1374",
+   "marks": [
+    [
+     "I",
+     12,
+     [
+      [
+       85,
+       "[Page 292]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 002 (II) - Immigration/Part 009 (IX) - Miscellaneous/§ 01374 - Information regarding female genital mutilation.md",
+   "printed_pages": [
+    291,
+    292
+   ]
+  },
+  {
+   "id": "8_1375",
+   "marks": [
+    [
+     "I",
+     58,
+     [
+      [
+       348,
+       "[Page 293]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 002 (II) - Immigration/Part 009 (IX) - Miscellaneous/§ 01375 - Mail-order bride business.md",
+   "printed_pages": [
+    292,
+    293
+   ]
+  },
+  {
+   "id": "8_-ch12-scIII",
+   "marks": [],
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 003 (III) - Nationality and Naturalization/README.md",
+   "printed_pages": [
+    293,
+    293
+   ]
+  },
+  {
+   "id": "8_-ch12-scIII-Part_I",
+   "marks": [],
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 003 (III) - Nationality and Naturalization/Part 001 (I) - Nationality at Birth and Collective Naturalization/README.md",
+   "printed_pages": [
+    293,
+    293
    ]
   },
   {
@@ -4001,48 +4636,48 @@
    "marks": [
     [
      "L",
-     26,
-     "[Page 242]",
+     28,
+     "[Page 294]",
      true
     ],
     [
      "L",
      92,
-     "[Page 243]",
+     "[Page 295]",
      true
     ]
    ],
-   "path": "Chapter 011 - Nationality/Subchapter 003 (III) - Nationality and Naturalization/Part 001 (I) - Nationality at Birth and Collective Naturalization/§ 01401 - Nationals and citizens of United States at birth.md",
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 003 (III) - Nationality and Naturalization/Part 001 (I) - Nationality at Birth and Collective Naturalization/§ 01401 - Nationals and citizens of United States at birth.md",
    "printed_pages": [
-    241,
-    243
+    293,
+    295
    ]
   },
   {
    "id": "8_1401a",
    "marks": [],
-   "path": "Chapter 011 - Nationality/Subchapter 003 (III) - Nationality and Naturalization/Part 001 (I) - Nationality at Birth and Collective Naturalization/§ 01401a - Birth abroad before 1952 to service parent.md",
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 003 (III) - Nationality and Naturalization/Part 001 (I) - Nationality at Birth and Collective Naturalization/§ 01401a - Birth abroad before 1952 to service parent.md",
    "printed_pages": [
-    243,
-    243
+    295,
+    295
    ]
   },
   {
    "id": "8_1401b",
    "marks": [],
-   "path": "Chapter 011 - Nationality/Subchapter 003 (III) - Nationality and Naturalization/Part 001 (I) - Nationality at Birth and Collective Naturalization/§ 01401b - Repealed. Pub. L. 92–584, §2, Oct. 27, 1972, 86 Stat. 1289.md",
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 003 (III) - Nationality and Naturalization/Part 001 (I) - Nationality at Birth and Collective Naturalization/§ 01401b - Repealed. Pub. L. 92–584, §2, Oct. 27, 1972, 86 Stat. 1289.md",
    "printed_pages": [
-    243,
-    243
+    295,
+    295
    ]
   },
   {
    "id": "8_1402",
    "marks": [],
-   "path": "Chapter 011 - Nationality/Subchapter 003 (III) - Nationality and Naturalization/Part 001 (I) - Nationality at Birth and Collective Naturalization/§ 01402 - Persons born in Puerto Rico on or after April 11, 1899.md",
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 003 (III) - Nationality and Naturalization/Part 001 (I) - Nationality at Birth and Collective Naturalization/§ 01402 - Persons born in Puerto Rico on or after April 11, 1899.md",
    "printed_pages": [
-    243,
-    243
+    295,
+    295
    ]
   },
   {
@@ -4051,41 +4686,41 @@
     [
      "L",
      8,
-     "[Page 244]",
+     "[Page 296]",
      true
     ]
    ],
-   "path": "Chapter 011 - Nationality/Subchapter 003 (III) - Nationality and Naturalization/Part 001 (I) - Nationality at Birth and Collective Naturalization/§ 01403 - Persons born in the Canal Zone or Republic of Panama on or after February 26, 1904.md",
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 003 (III) - Nationality and Naturalization/Part 001 (I) - Nationality at Birth and Collective Naturalization/§ 01403 - Persons born in the Canal Zone or Republic of Panama on or after February 26, 1904.md",
    "printed_pages": [
-    243,
-    244
+    295,
+    296
    ]
   },
   {
    "id": "8_1404",
    "marks": [],
-   "path": "Chapter 011 - Nationality/Subchapter 003 (III) - Nationality and Naturalization/Part 001 (I) - Nationality at Birth and Collective Naturalization/§ 01404 - Persons born in Alaska on or after March 30, 1867.md",
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 003 (III) - Nationality and Naturalization/Part 001 (I) - Nationality at Birth and Collective Naturalization/§ 01404 - Persons born in Alaska on or after March 30, 1867.md",
    "printed_pages": [
-    244,
-    244
+    296,
+    296
    ]
   },
   {
    "id": "8_1405",
    "marks": [],
-   "path": "Chapter 011 - Nationality/Subchapter 003 (III) - Nationality and Naturalization/Part 001 (I) - Nationality at Birth and Collective Naturalization/§ 01405 - Persons born in Hawaii.md",
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 003 (III) - Nationality and Naturalization/Part 001 (I) - Nationality at Birth and Collective Naturalization/§ 01405 - Persons born in Hawaii.md",
    "printed_pages": [
-    244,
-    244
+    296,
+    296
    ]
   },
   {
    "id": "8_1406",
    "marks": [],
-   "path": "Chapter 011 - Nationality/Subchapter 003 (III) - Nationality and Naturalization/Part 001 (I) - Nationality at Birth and Collective Naturalization/§ 01406 - Persons living in and born in the Virgin Islands.md",
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 003 (III) - Nationality and Naturalization/Part 001 (I) - Nationality at Birth and Collective Naturalization/§ 01406 - Persons living in and born in the Virgin Islands.md",
    "printed_pages": [
-    244,
-    244
+    296,
+    296
    ]
   },
   {
@@ -4094,23 +4729,23 @@
     [
      "L",
      6,
-     "[Page 245]",
+     "[Page 297]",
      true
     ]
    ],
-   "path": "Chapter 011 - Nationality/Subchapter 003 (III) - Nationality and Naturalization/Part 001 (I) - Nationality at Birth and Collective Naturalization/§ 01407 - Persons living in and born in Guam.md",
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 003 (III) - Nationality and Naturalization/Part 001 (I) - Nationality at Birth and Collective Naturalization/§ 01407 - Persons living in and born in Guam.md",
    "printed_pages": [
-    244,
-    245
+    296,
+    297
    ]
   },
   {
    "id": "8_1408",
    "marks": [],
-   "path": "Chapter 011 - Nationality/Subchapter 003 (III) - Nationality and Naturalization/Part 001 (I) - Nationality at Birth and Collective Naturalization/§ 01408 - Nationals but not citizens of the United States at birth.md",
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 003 (III) - Nationality and Naturalization/Part 001 (I) - Nationality at Birth and Collective Naturalization/§ 01408 - Nationals but not citizens of the United States at birth.md",
    "printed_pages": [
-    245,
-    245
+    297,
+    297
    ]
   },
   {
@@ -4119,122 +4754,118 @@
     [
      "L",
      12,
-     "[Page 246]",
+     "[Page 298]",
      true
     ]
    ],
-   "path": "Chapter 011 - Nationality/Subchapter 003 (III) - Nationality and Naturalization/Part 001 (I) - Nationality at Birth and Collective Naturalization/§ 01409 - Children born out of wedlock.md",
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 003 (III) - Nationality and Naturalization/Part 001 (I) - Nationality at Birth and Collective Naturalization/§ 01409 - Children born out of wedlock.md",
    "printed_pages": [
-    245,
-    246
+    297,
+    298
    ]
   },
   {
-   "id": "8_-ch11-scIII_2-Part_II",
+   "id": "8_-ch12-scIII-Part_II",
    "marks": [],
-   "path": "Chapter 011 - Nationality/Subchapter 003 (III) - Nationality and Naturalization/Part 002 (II) - Nationality Through Naturalization/README.md",
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 003 (III) - Nationality and Naturalization/Part 002 (II) - Nationality Through Naturalization/README.md",
    "printed_pages": [
-    246,
-    246
+    298,
+    298
    ]
   },
   {
    "id": "8_1421",
    "marks": [
     [
-     "I",
-     24,
-     [
-      [
-       99,
-       "[Page 247]"
-      ]
-     ]
+     "L",
+     20,
+     "[Page 299]",
+     true
     ],
     [
-     "L",
-     92,
-     "[Page 248]",
-     true
+     "I",
+     88,
+     [
+      [
+       435,
+       "[Page 300]"
+      ]
+     ]
     ]
    ],
-   "path": "Chapter 011 - Nationality/Subchapter 003 (III) - Nationality and Naturalization/Part 002 (II) - Nationality Through Naturalization/§ 01421 - Naturalization authority.md",
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 003 (III) - Nationality and Naturalization/Part 002 (II) - Nationality Through Naturalization/§ 01421 - Naturalization authority.md",
    "printed_pages": [
-    246,
-    248
+    298,
+    300
    ]
   },
   {
    "id": "8_1422",
    "marks": [
     [
-     "I",
-     8,
-     [
-      [
-       102,
-       "[Page 249]"
-      ]
-     ]
+     "L",
+     4,
+     "[Page 301]",
+     true
     ]
    ],
-   "path": "Chapter 011 - Nationality/Subchapter 003 (III) - Nationality and Naturalization/Part 002 (II) - Nationality Through Naturalization/§ 01422 - Eligibility for naturalization.md",
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 003 (III) - Nationality and Naturalization/Part 002 (II) - Nationality Through Naturalization/§ 01422 - Eligibility for naturalization.md",
    "printed_pages": [
-    248,
-    249
+    300,
+    301
    ]
   },
   {
    "id": "8_1423",
    "marks": [],
-   "path": "Chapter 011 - Nationality/Subchapter 003 (III) - Nationality and Naturalization/Part 002 (II) - Nationality Through Naturalization/§ 01423 - Requirements as to understanding the English language, history, principles and form of government of the United States.md",
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 003 (III) - Nationality and Naturalization/Part 002 (II) - Nationality Through Naturalization/§ 01423 - Requirements as to understanding the English language, history, principles and form of government of the United States.md",
    "printed_pages": [
-    249,
-    249
+    301,
+    301
    ]
   },
   {
    "id": "8_1424",
    "marks": [
     [
-     "I",
-     6,
-     [
-      [
-       140,
-       "[Page 250]"
-      ]
-     ]
+     "L",
+     4,
+     "[Page 302]",
+     true
     ],
     [
-     "L",
-     34,
-     "[Page 251]",
-     true
+     "I",
+     32,
+     [
+      [
+       213,
+       "[Page 303]"
+      ]
+     ]
     ]
    ],
-   "path": "Chapter 011 - Nationality/Subchapter 003 (III) - Nationality and Naturalization/Part 002 (II) - Nationality Through Naturalization/§ 01424 - Prohibition upon the naturalization of persons opposed to government or law, or who favor totalitarian forms of government.md",
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 003 (III) - Nationality and Naturalization/Part 002 (II) - Nationality Through Naturalization/§ 01424 - Prohibition upon the naturalization of persons opposed to government or law, or who favor totalitarian forms of government.md",
    "printed_pages": [
-    249,
-    251
+    301,
+    303
    ]
   },
   {
    "id": "8_1425",
    "marks": [],
-   "path": "Chapter 011 - Nationality/Subchapter 003 (III) - Nationality and Naturalization/Part 002 (II) - Nationality Through Naturalization/§ 01425 - Ineligibility to naturalization of deserters from the Armed Forces.md",
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 003 (III) - Nationality and Naturalization/Part 002 (II) - Nationality Through Naturalization/§ 01425 - Ineligibility to naturalization of deserters from the Armed Forces.md",
    "printed_pages": [
-    251,
-    251
+    303,
+    303
    ]
   },
   {
    "id": "8_1426",
    "marks": [],
-   "path": "Chapter 011 - Nationality/Subchapter 003 (III) - Nationality and Naturalization/Part 002 (II) - Nationality Through Naturalization/§ 01426 - Citizenship denied alien relieved of service in Armed Forces because of alienage.md",
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 003 (III) - Nationality and Naturalization/Part 002 (II) - Nationality Through Naturalization/§ 01426 - Citizenship denied alien relieved of service in Armed Forces because of alienage.md",
    "printed_pages": [
-    251,
-    251
+    303,
+    303
    ]
   },
   {
@@ -4245,194 +4876,191 @@
      4,
      [
       [
-       475,
-       "[Page 252]"
+       95,
+       "[Page 304]"
       ]
      ]
     ],
     [
      "I",
-     34,
+     32,
      [
       [
-       94,
-       "[Page 253]"
+       562,
+       "[Page 305]"
       ]
      ]
+    ],
+    [
+     "L",
+     108,
+     "[Page 306]",
+     true
     ]
    ],
-   "path": "Chapter 011 - Nationality/Subchapter 003 (III) - Nationality and Naturalization/Part 002 (II) - Nationality Through Naturalization/§ 01427 - Requirements of naturalization.md",
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 003 (III) - Nationality and Naturalization/Part 002 (II) - Nationality Through Naturalization/§ 01427 - Requirements of naturalization.md",
    "printed_pages": [
-    251,
-    253
+    303,
+    306
    ]
   },
   {
    "id": "8_1428",
-   "marks": [
-    [
-     "L",
-     10,
-     "[Page 254]",
-     true
-    ]
-   ],
-   "path": "Chapter 011 - Nationality/Subchapter 003 (III) - Nationality and Naturalization/Part 002 (II) - Nationality Through Naturalization/§ 01428 - Temporary absence of persons performing religious duties.md",
+   "marks": [],
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 003 (III) - Nationality and Naturalization/Part 002 (II) - Nationality Through Naturalization/§ 01428 - Temporary absence of persons performing religious duties.md",
    "printed_pages": [
-    253,
-    254
+    306,
+    306
    ]
   },
   {
    "id": "8_1429",
-   "marks": [],
-   "path": "Chapter 011 - Nationality/Subchapter 003 (III) - Nationality and Naturalization/Part 002 (II) - Nationality Through Naturalization/§ 01429 - Prerequisite to naturalization; burden of proof.md",
+   "marks": [
+    [
+     "L",
+     18,
+     "[Page 307]",
+     true
+    ]
+   ],
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 003 (III) - Nationality and Naturalization/Part 002 (II) - Nationality Through Naturalization/§ 01429 - Prerequisite to naturalization; burden of proof.md",
    "printed_pages": [
-    254,
-    254
+    306,
+    307
    ]
   },
   {
    "id": "8_1430",
    "marks": [
     [
-     "I",
-     4,
-     [
-      [
-       1246,
-       "[Page 255]"
-      ]
-     ]
+     "L",
+     26,
+     "[Page 308]",
+     true
     ]
    ],
-   "path": "Chapter 011 - Nationality/Subchapter 003 (III) - Nationality and Naturalization/Part 002 (II) - Nationality Through Naturalization/§ 01430 - Married persons and employees of certain nonprofit organizations.md",
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 003 (III) - Nationality and Naturalization/Part 002 (II) - Nationality Through Naturalization/§ 01430 - Married persons and employees of certain nonprofit organizations.md",
    "printed_pages": [
-    254,
-    255
+    307,
+    308
    ]
   },
   {
    "id": "8_1431",
-   "marks": [
-    [
-     "I",
-     10,
-     [
-      [
-       158,
-       "[Page 256]"
-      ]
-     ]
-    ]
-   ],
-   "path": "Chapter 011 - Nationality/Subchapter 003 (III) - Nationality and Naturalization/Part 002 (II) - Nationality Through Naturalization/§ 01431 - Children born outside United States of one alien and one citizen parent; conditions for automatic citizenship.md",
+   "marks": [],
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 003 (III) - Nationality and Naturalization/Part 002 (II) - Nationality Through Naturalization/§ 01431 - Children born outside United States of one alien and one citizen parent; conditions for automatic citizenship.md",
    "printed_pages": [
-    255,
-    256
+    308,
+    308
    ]
   },
   {
    "id": "8_1432",
-   "marks": [],
-   "path": "Chapter 011 - Nationality/Subchapter 003 (III) - Nationality and Naturalization/Part 002 (II) - Nationality Through Naturalization/§ 01432 - Children born outside United States of alien parents; conditions for automatic citizenship.md",
+   "marks": [
+    [
+     "L",
+     10,
+     "[Page 309]",
+     true
+    ]
+   ],
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 003 (III) - Nationality and Naturalization/Part 002 (II) - Nationality Through Naturalization/§ 01432 - Children born outside United States of alien parents; conditions for automatic citizenship.md",
    "printed_pages": [
-    256,
-    256
+    308,
+    309
    ]
   },
   {
    "id": "8_1433",
    "marks": [
     [
-     "I",
-     4,
-     [
-      [
-       94,
-       "[Page 257]"
-      ]
-     ]
+     "L",
+     30,
+     "[Page 310]",
+     true
     ]
    ],
-   "path": "Chapter 011 - Nationality/Subchapter 003 (III) - Nationality and Naturalization/Part 002 (II) - Nationality Through Naturalization/§ 01433 - Child born outside United States; application for certificate of citizenship requirements.md",
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 003 (III) - Nationality and Naturalization/Part 002 (II) - Nationality Through Naturalization/§ 01433 - Child born outside United States; application for certificate of citizenship requirements.md",
    "printed_pages": [
-    256,
-    257
+    309,
+    310
    ]
   },
   {
    "id": "8_1434",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       115,
-       "[Page 258]"
-      ]
-     ]
-    ]
-   ],
-   "path": "Chapter 011 - Nationality/Subchapter 003 (III) - Nationality and Naturalization/Part 002 (II) - Nationality Through Naturalization/§ 01434 - Repealed. Pub. L. 95–417, §7, Oct. 5, 1978, 92 Stat. 918.md",
+   "marks": [],
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 003 (III) - Nationality and Naturalization/Part 002 (II) - Nationality Through Naturalization/§ 01434 - Repealed. Pub. L. 95–417, §7, Oct. 5, 1978, 92 Stat. 918.md",
    "printed_pages": [
-    257,
-    258
+    310,
+    310
    ]
   },
   {
    "id": "8_1435",
    "marks": [
     [
-     "L",
-     40,
-     "[Page 259]",
-     true
-    ]
-   ],
-   "path": "Chapter 011 - Nationality/Subchapter 003 (III) - Nationality and Naturalization/Part 002 (II) - Nationality Through Naturalization/§ 01435 - Former citizens regaining citizenship.md",
-   "printed_pages": [
-    258,
-    259
-   ]
-  },
-  {
-   "id": "8_1436",
-   "marks": [
-    [
      "I",
-     2,
+     14,
      [
       [
-       419,
-       "[Page 260]"
+       658,
+       "[Page 311]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     62,
+     [
+      [
+       1448,
+       "[Page 312]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 011 - Nationality/Subchapter 003 (III) - Nationality and Naturalization/Part 002 (II) - Nationality Through Naturalization/§ 01436 - Nationals but not citizens; residence within outlying possessions.md",
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 003 (III) - Nationality and Naturalization/Part 002 (II) - Nationality Through Naturalization/§ 01435 - Former citizens regaining citizenship.md",
    "printed_pages": [
-    259,
-    260
+    310,
+    312
+   ]
+  },
+  {
+   "id": "8_1436",
+   "marks": [],
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 003 (III) - Nationality and Naturalization/Part 002 (II) - Nationality Through Naturalization/§ 01436 - Nationals but not citizens; residence within outlying possessions.md",
+   "printed_pages": [
+    312,
+    312
    ]
   },
   {
    "id": "8_1437",
    "marks": [],
-   "path": "Chapter 011 - Nationality/Subchapter 003 (III) - Nationality and Naturalization/Part 002 (II) - Nationality Through Naturalization/§ 01437 - Resident Philippine citizens excepted from certain requirements.md",
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 003 (III) - Nationality and Naturalization/Part 002 (II) - Nationality Through Naturalization/§ 01437 - Resident Philippine citizens excepted from certain requirements.md",
    "printed_pages": [
-    260,
-    260
+    312,
+    312
    ]
   },
   {
    "id": "8_1438",
-   "marks": [],
-   "path": "Chapter 011 - Nationality/Subchapter 003 (III) - Nationality and Naturalization/Part 002 (II) - Nationality Through Naturalization/§ 01438 - Former citizens losing citizenship by entering armed forces of foreign countries during World War II.md",
+   "marks": [
+    [
+     "I",
+     4,
+     [
+      [
+       281,
+       "[Page 313]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 003 (III) - Nationality and Naturalization/Part 002 (II) - Nationality Through Naturalization/§ 01438 - Former citizens losing citizenship by entering armed forces of foreign countries during World War II.md",
    "printed_pages": [
-    260,
-    260
+    312,
+    313
    ]
   },
   {
@@ -4440,25 +5068,19 @@
    "marks": [
     [
      "I",
-     4,
+     18,
      [
       [
-       86,
-       "[Page 261]"
+       369,
+       "[Page 314]"
       ]
      ]
-    ],
-    [
-     "L",
-     66,
-     "[Page 262]",
-     true
     ]
    ],
-   "path": "Chapter 011 - Nationality/Subchapter 003 (III) - Nationality and Naturalization/Part 002 (II) - Nationality Through Naturalization/§ 01439 - Naturalization through service in the armed forces.md",
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 003 (III) - Nationality and Naturalization/Part 002 (II) - Nationality Through Naturalization/§ 01439 - Naturalization through service in the armed forces.md",
    "printed_pages": [
-    260,
-    262
+    313,
+    314
    ]
   },
   {
@@ -4466,92 +5088,102 @@
    "marks": [
     [
      "I",
-     38,
+     4,
      [
       [
-       274,
-       "[Page 263]"
+       1957,
+       "[Page 315]"
       ]
      ]
     ],
     [
      "I",
-     128,
+     70,
      [
       [
-       435,
-       "[Page 264]"
+       106,
+       "[Page 316]"
       ]
      ]
+    ],
+    [
+     "L",
+     168,
+     "[Page 317]",
+     true
     ]
    ],
-   "path": "Chapter 011 - Nationality/Subchapter 003 (III) - Nationality and Naturalization/Part 002 (II) - Nationality Through Naturalization/§ 01440 - Naturalization through active-duty service in the Armed Forces during World War I, World War II, Korean hostilities, Vietnam hostilities….md",
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 003 (III) - Nationality and Naturalization/Part 002 (II) - Nationality Through Naturalization/§ 01440 - Naturalization through active-duty service in the Armed Forces during World War I, World War II, Korean hostilities, Vietnam hostilities….md",
    "printed_pages": [
-    262,
-    264
+    314,
+    317
    ]
   },
   {
    "id": "8_1440-1",
    "marks": [],
-   "path": "Chapter 011 - Nationality/Subchapter 003 (III) - Nationality and Naturalization/Part 002 (II) - Nationality Through Naturalization/§ 01440–1 - Posthumous citizenship through death while on active-duty service in armed forces during World War I, World War II, the Korean….md",
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 003 (III) - Nationality and Naturalization/Part 002 (II) - Nationality Through Naturalization/§ 01440–1 - Posthumous citizenship through death while on active-duty service in armed forces during World War I, World War II, the Korean….md",
    "printed_pages": [
-    264,
-    264
+    317,
+    317
    ]
   },
   {
    "id": "8_1440a_to_1440d",
-   "marks": [
-    [
-     "I",
-     4,
-     [
-      [
-       109,
-       "[Page 265]"
-      ]
-     ]
-    ]
-   ],
-   "path": "Chapter 011 - Nationality/Subchapter 003 (III) - Nationality and Naturalization/Part 002 (II) - Nationality Through Naturalization/§ 01440a to 1440d - Omitted.md",
+   "marks": [],
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 003 (III) - Nationality and Naturalization/Part 002 (II) - Nationality Through Naturalization/§ 01440a to 1440d - Omitted.md",
    "printed_pages": [
-    264,
-    265
+    317,
+    317
    ]
   },
   {
    "id": "8_1440e",
    "marks": [],
-   "path": "Chapter 011 - Nationality/Subchapter 003 (III) - Nationality and Naturalization/Part 002 (II) - Nationality Through Naturalization/§ 01440e - Exemption from naturalization fees for aliens naturalized through service during Vietnam hostilities or other subsequent period of….md",
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 003 (III) - Nationality and Naturalization/Part 002 (II) - Nationality Through Naturalization/§ 01440e - Exemption from naturalization fees for aliens naturalized through service during Vietnam hostilities or other subsequent period of….md",
    "printed_pages": [
-    265,
-    265
+    317,
+    317
    ]
   },
   {
    "id": "8_1441",
    "marks": [
     [
-     "L",
-     28,
-     "[Page 266]",
-     true
+     "I",
+     2,
+     [
+      [
+       89,
+       "[Page 318]"
+      ]
+     ]
     ]
    ],
-   "path": "Chapter 011 - Nationality/Subchapter 003 (III) - Nationality and Naturalization/Part 002 (II) - Nationality Through Naturalization/§ 01441 - Constructive residence through service on certain United States vessels.md",
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 003 (III) - Nationality and Naturalization/Part 002 (II) - Nationality Through Naturalization/§ 01441 - Constructive residence through service on certain United States vessels.md",
    "printed_pages": [
-    265,
-    266
+    317,
+    318
    ]
   },
   {
    "id": "8_1442",
-   "marks": [],
-   "path": "Chapter 011 - Nationality/Subchapter 003 (III) - Nationality and Naturalization/Part 002 (II) - Nationality Through Naturalization/§ 01442 - Alien enemies.md",
+   "marks": [
+    [
+     "I",
+     16,
+     [
+      [
+       326,
+       "[Page 319]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 003 (III) - Nationality and Naturalization/Part 002 (II) - Nationality Through Naturalization/§ 01442 - Alien enemies.md",
    "printed_pages": [
-    266,
-    266
+    318,
+    319
    ]
   },
   {
@@ -4559,127 +5191,126 @@
    "marks": [
     [
      "I",
-     16,
+     32,
      [
       [
-       179,
-       "[Page 267]"
+       140,
+       "[Page 320]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 011 - Nationality/Subchapter 003 (III) - Nationality and Naturalization/Part 002 (II) - Nationality Through Naturalization/§ 01443 - Administration.md",
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 003 (III) - Nationality and Naturalization/Part 002 (II) - Nationality Through Naturalization/§ 01443 - Administration.md",
    "printed_pages": [
-    266,
-    267
+    319,
+    320
    ]
   },
   {
    "id": "8_1444",
-   "marks": [
-    [
-     "I",
-     32,
-     [
-      [
-       107,
-       "[Page 268]"
-      ]
-     ]
-    ]
-   ],
-   "path": "Chapter 011 - Nationality/Subchapter 003 (III) - Nationality and Naturalization/Part 002 (II) - Nationality Through Naturalization/§ 01444 - Photographs; number.md",
+   "marks": [],
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 003 (III) - Nationality and Naturalization/Part 002 (II) - Nationality Through Naturalization/§ 01444 - Photographs; number.md",
    "printed_pages": [
-    267,
-    268
+    320,
+    320
    ]
   },
   {
    "id": "8_1445",
    "marks": [
     [
-     "I",
-     50,
-     [
-      [
-       871,
-       "[Page 269]"
-      ]
-     ]
+     "L",
+     18,
+     "[Page 321]",
+     true
     ]
    ],
-   "path": "Chapter 011 - Nationality/Subchapter 003 (III) - Nationality and Naturalization/Part 002 (II) - Nationality Through Naturalization/§ 01445 - Application for naturalization; declaration of intention.md",
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 003 (III) - Nationality and Naturalization/Part 002 (II) - Nationality Through Naturalization/§ 01445 - Application for naturalization; declaration of intention.md",
    "printed_pages": [
-    268,
-    269
+    320,
+    321
    ]
   },
   {
    "id": "8_1446",
    "marks": [
     [
+     "I",
+     4,
+     [
+      [
+       226,
+       "[Page 322]"
+      ]
+     ]
+    ],
+    [
      "L",
-     28,
-     "[Page 270]",
+     50,
+     "[Page 323]",
      true
     ]
    ],
-   "path": "Chapter 011 - Nationality/Subchapter 003 (III) - Nationality and Naturalization/Part 002 (II) - Nationality Through Naturalization/§ 01446 - Investigation of applicants; examination of applications.md",
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 003 (III) - Nationality and Naturalization/Part 002 (II) - Nationality Through Naturalization/§ 01446 - Investigation of applicants; examination of applications.md",
    "printed_pages": [
-    269,
-    270
+    321,
+    323
    ]
   },
   {
    "id": "8_1447",
    "marks": [
     [
-     "I",
-     22,
-     [
-      [
-       106,
-       "[Page 271]"
-      ]
-     ]
+     "L",
+     48,
+     "[Page 324]",
+     true
     ]
    ],
-   "path": "Chapter 011 - Nationality/Subchapter 003 (III) - Nationality and Naturalization/Part 002 (II) - Nationality Through Naturalization/§ 01447 - Hearings on denials of applications for naturalization.md",
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 003 (III) - Nationality and Naturalization/Part 002 (II) - Nationality Through Naturalization/§ 01447 - Hearings on denials of applications for naturalization.md",
    "printed_pages": [
-    270,
-    271
+    323,
+    324
    ]
   },
   {
    "id": "8_1448",
    "marks": [
     [
-     "L",
-     6,
-     "[Page 272]",
-     true
+     "I",
+     18,
+     [
+      [
+       165,
+       "[Page 325]"
+      ]
+     ]
     ]
    ],
-   "path": "Chapter 011 - Nationality/Subchapter 003 (III) - Nationality and Naturalization/Part 002 (II) - Nationality Through Naturalization/§ 01448 - Oath of renunciation and allegiance.md",
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 003 (III) - Nationality and Naturalization/Part 002 (II) - Nationality Through Naturalization/§ 01448 - Oath of renunciation and allegiance.md",
    "printed_pages": [
-    271,
-    272
+    324,
+    325
    ]
   },
   {
    "id": "8_1449",
    "marks": [
     [
-     "L",
-     6,
-     "[Page 273]",
-     true
+     "I",
+     4,
+     [
+      [
+       104,
+       "[Page 326]"
+      ]
+     ]
     ]
    ],
-   "path": "Chapter 011 - Nationality/Subchapter 003 (III) - Nationality and Naturalization/Part 002 (II) - Nationality Through Naturalization/§ 01449 - Certificate of naturalization; contents.md",
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 003 (III) - Nationality and Naturalization/Part 002 (II) - Nationality Through Naturalization/§ 01449 - Certificate of naturalization; contents.md",
    "printed_pages": [
-    272,
-    273
+    325,
+    326
    ]
   },
   {
@@ -4687,41 +5318,37 @@
    "marks": [
     [
      "L",
-     46,
-     "[Page 274]",
+     38,
+     "[Page 327]",
      true
     ]
    ],
-   "path": "Chapter 011 - Nationality/Subchapter 003 (III) - Nationality and Naturalization/Part 002 (II) - Nationality Through Naturalization/§ 01450 - Functions and duties of clerks and records of declarations of intention and applications for naturalization.md",
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 003 (III) - Nationality and Naturalization/Part 002 (II) - Nationality Through Naturalization/§ 01450 - Functions and duties of clerks and records of declarations of intention and applications for naturalization.md",
    "printed_pages": [
-    273,
-    274
+    326,
+    327
    ]
   },
   {
    "id": "8_1451",
    "marks": [
     [
-     "I",
-     24,
-     [
-      [
-       91,
-       "[Page 275]"
-      ]
-     ]
+     "L",
+     22,
+     "[Page 328]",
+     true
     ],
     [
      "L",
-     86,
-     "[Page 276]",
+     82,
+     "[Page 329]",
      true
     ]
    ],
-   "path": "Chapter 011 - Nationality/Subchapter 003 (III) - Nationality and Naturalization/Part 002 (II) - Nationality Through Naturalization/§ 01451 - Revocation of naturalization.md",
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 003 (III) - Nationality and Naturalization/Part 002 (II) - Nationality Through Naturalization/§ 01451 - Revocation of naturalization.md",
    "printed_pages": [
-    274,
-    276
+    327,
+    329
    ]
   },
   {
@@ -4730,32 +5357,32 @@
     [
      "L",
      56,
-     "[Page 277]",
+     "[Page 330]",
      true
     ]
    ],
-   "path": "Chapter 011 - Nationality/Subchapter 003 (III) - Nationality and Naturalization/Part 002 (II) - Nationality Through Naturalization/§ 01452 - Certificates of citizenship or U.S. non-citizen national status; procedure.md",
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 003 (III) - Nationality and Naturalization/Part 002 (II) - Nationality Through Naturalization/§ 01452 - Certificates of citizenship or U.S. non-citizen national status; procedure.md",
    "printed_pages": [
-    276,
-    277
+    329,
+    330
    ]
   },
   {
    "id": "8_1453",
    "marks": [],
-   "path": "Chapter 011 - Nationality/Subchapter 003 (III) - Nationality and Naturalization/Part 002 (II) - Nationality Through Naturalization/§ 01453 - Cancellation of certificates issued by Attorney General, the Commissioner or a Deputy Commissioner; action not to affect citizenship status.md",
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 003 (III) - Nationality and Naturalization/Part 002 (II) - Nationality Through Naturalization/§ 01453 - Cancellation of certificates issued by Attorney General, the Commissioner or a Deputy Commissioner; action not to affect citizenship status.md",
    "printed_pages": [
-    277,
-    277
+    330,
+    330
    ]
   },
   {
    "id": "8_1454",
    "marks": [],
-   "path": "Chapter 011 - Nationality/Subchapter 003 (III) - Nationality and Naturalization/Part 002 (II) - Nationality Through Naturalization/§ 01454 - Documents and copies issued by Attorney General.md",
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 003 (III) - Nationality and Naturalization/Part 002 (II) - Nationality Through Naturalization/§ 01454 - Documents and copies issued by Attorney General.md",
    "printed_pages": [
-    277,
-    277
+    330,
+    330
    ]
   },
   {
@@ -4764,7 +5391,7 @@
     [
      "L",
      4,
-     "[Page 278]",
+     "[Page 331]",
      true
     ],
     [
@@ -4773,33 +5400,33 @@
      [
       [
        763,
-       "[Page 279]"
+       "[Page 332]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 011 - Nationality/Subchapter 003 (III) - Nationality and Naturalization/Part 002 (II) - Nationality Through Naturalization/§ 01455 - Fiscal provisions.md",
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 003 (III) - Nationality and Naturalization/Part 002 (II) - Nationality Through Naturalization/§ 01455 - Fiscal provisions.md",
    "printed_pages": [
-    277,
-    279
+    330,
+    332
    ]
   },
   {
    "id": "8_1456",
    "marks": [],
-   "path": "Chapter 011 - Nationality/Subchapter 003 (III) - Nationality and Naturalization/Part 002 (II) - Nationality Through Naturalization/§ 01456 - Repealed. Pub. L. 86–682, §12(c), Sept. 2, 1960, 74 Stat. 708, eff. Sept. 1, 1960.md",
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 003 (III) - Nationality and Naturalization/Part 002 (II) - Nationality Through Naturalization/§ 01456 - Repealed. Pub. L. 86–682, §12(c), Sept. 2, 1960, 74 Stat. 708, eff. Sept. 1, 1960.md",
    "printed_pages": [
-    279,
-    279
+    332,
+    332
    ]
   },
   {
    "id": "8_1457",
    "marks": [],
-   "path": "Chapter 011 - Nationality/Subchapter 003 (III) - Nationality and Naturalization/Part 002 (II) - Nationality Through Naturalization/§ 01457 - Publication and distribution of citizenship textbooks; use of naturalization fees.md",
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 003 (III) - Nationality and Naturalization/Part 002 (II) - Nationality Through Naturalization/§ 01457 - Publication and distribution of citizenship textbooks; use of naturalization fees.md",
    "printed_pages": [
-    279,
-    279
+    332,
+    332
    ]
   },
   {
@@ -4811,33 +5438,33 @@
      [
       [
        416,
-       "[Page 280]"
+       "[Page 333]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 011 - Nationality/Subchapter 003 (III) - Nationality and Naturalization/Part 002 (II) - Nationality Through Naturalization/§ 01458 - Compilation of naturalization statistics and payment for equipment.md",
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 003 (III) - Nationality and Naturalization/Part 002 (II) - Nationality Through Naturalization/§ 01458 - Compilation of naturalization statistics and payment for equipment.md",
    "printed_pages": [
-    279,
-    280
+    332,
+    333
    ]
   },
   {
    "id": "8_1459",
    "marks": [],
-   "path": "Chapter 011 - Nationality/Subchapter 003 (III) - Nationality and Naturalization/Part 002 (II) - Nationality Through Naturalization/§ 01459 - Repealed. Pub. L. 101–649, title IV, §407(d)(20), Nov. 29, 1990, 104 Stat. 5046.md",
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 003 (III) - Nationality and Naturalization/Part 002 (II) - Nationality Through Naturalization/§ 01459 - Repealed. Pub. L. 101–649, title IV, §407(d)(20), Nov. 29, 1990, 104 Stat. 5046.md",
    "printed_pages": [
-    280,
-    280
+    333,
+    333
    ]
   },
   {
-   "id": "8_-ch11-scIII_2-Part_III",
+   "id": "8_-ch12-scIII-Part_III",
    "marks": [],
-   "path": "Chapter 011 - Nationality/Subchapter 003 (III) - Nationality and Naturalization/Part 003 (III) - Loss of Nationality/README.md",
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 003 (III) - Nationality and Naturalization/Part 003 (III) - Loss of Nationality/README.md",
    "printed_pages": [
-    280,
-    280
+    333,
+    333
    ]
   },
   {
@@ -4849,15 +5476,15 @@
      [
       [
        385,
-       "[Page 281]"
+       "[Page 334]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 011 - Nationality/Subchapter 003 (III) - Nationality and Naturalization/Part 003 (III) - Loss of Nationality/§ 01481 - Loss of nationality by native-born or naturalized citizen; voluntary action; burden of proof; presumptions.md",
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 003 (III) - Nationality and Naturalization/Part 003 (III) - Loss of Nationality/§ 01481 - Loss of nationality by native-born or naturalized citizen; voluntary action; burden of proof; presumptions.md",
    "printed_pages": [
-    280,
-    281
+    333,
+    334
    ]
   },
   {
@@ -4869,85 +5496,89 @@
      [
       [
        115,
-       "[Page 282]"
+       "[Page 335]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 011 - Nationality/Subchapter 003 (III) - Nationality and Naturalization/Part 003 (III) - Loss of Nationality/§ 01482 - Repealed. Pub. L. 95–432, §1, Oct. 10, 1978, 92 Stat. 1046.md",
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 003 (III) - Nationality and Naturalization/Part 003 (III) - Loss of Nationality/§ 01482 - Repealed. Pub. L. 95–432, §1, Oct. 10, 1978, 92 Stat. 1046.md",
    "printed_pages": [
-    281,
-    282
+    334,
+    335
    ]
   },
   {
    "id": "8_1483",
    "marks": [],
-   "path": "Chapter 011 - Nationality/Subchapter 003 (III) - Nationality and Naturalization/Part 003 (III) - Loss of Nationality/§ 01483 - Restrictions on loss of nationality.md",
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 003 (III) - Nationality and Naturalization/Part 003 (III) - Loss of Nationality/§ 01483 - Restrictions on loss of nationality.md",
    "printed_pages": [
-    282,
-    282
+    335,
+    335
    ]
   },
   {
    "id": "8_1484_to_1487",
    "marks": [],
-   "path": "Chapter 011 - Nationality/Subchapter 003 (III) - Nationality and Naturalization/Part 003 (III) - Loss of Nationality/§ 01484 to 1487 - Repealed. Pub. L. 95–432, §2, Oct. 10, 1978, 92 Stat. 1046.md",
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 003 (III) - Nationality and Naturalization/Part 003 (III) - Loss of Nationality/§ 01484 to 1487 - Repealed. Pub. L. 95–432, §2, Oct. 10, 1978, 92 Stat. 1046.md",
    "printed_pages": [
-    282,
-    282
+    335,
+    335
    ]
   },
   {
    "id": "8_1488",
    "marks": [],
-   "path": "Chapter 011 - Nationality/Subchapter 003 (III) - Nationality and Naturalization/Part 003 (III) - Loss of Nationality/§ 01488 - Nationality lost solely from performance of acts or fulfillment of conditions.md",
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 003 (III) - Nationality and Naturalization/Part 003 (III) - Loss of Nationality/§ 01488 - Nationality lost solely from performance of acts or fulfillment of conditions.md",
    "printed_pages": [
-    282,
-    282
+    335,
+    335
    ]
   },
   {
    "id": "8_1489",
    "marks": [
     [
-     "L",
-     6,
-     "[Page 283]",
-     true
+     "I",
+     2,
+     [
+      [
+       432,
+       "[Page 336]"
+      ]
+     ]
     ]
    ],
-   "path": "Chapter 011 - Nationality/Subchapter 003 (III) - Nationality and Naturalization/Part 003 (III) - Loss of Nationality/§ 01489 - Application of treaties; exceptions.md",
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 003 (III) - Nationality and Naturalization/Part 003 (III) - Loss of Nationality/§ 01489 - Application of treaties; exceptions.md",
    "printed_pages": [
-    282,
-    283
+    335,
+    336
    ]
   },
   {
-   "id": "8_-ch11-scIII_2-Part_IV",
+   "id": "8_-ch12-scIII-Part_IV",
    "marks": [],
-   "path": "Chapter 011 - Nationality/Subchapter 003 (III) - Nationality and Naturalization/Part 004 (IV) - Miscellaneous/README.md",
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 003 (III) - Nationality and Naturalization/Part 004 (IV) - Miscellaneous/README.md",
    "printed_pages": [
-    283,
-    283
+    336,
+    336
    ]
   },
   {
    "id": "8_1501",
    "marks": [],
-   "path": "Chapter 011 - Nationality/Subchapter 003 (III) - Nationality and Naturalization/Part 004 (IV) - Miscellaneous/§ 01501 - Certificate of diplomatic or consular officer of United States as to loss of American nationality.md",
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 003 (III) - Nationality and Naturalization/Part 004 (IV) - Miscellaneous/§ 01501 - Certificate of diplomatic or consular officer of United States as to loss of American nationality.md",
    "printed_pages": [
-    283,
-    283
+    336,
+    336
    ]
   },
   {
    "id": "8_1502",
    "marks": [],
-   "path": "Chapter 011 - Nationality/Subchapter 003 (III) - Nationality and Naturalization/Part 004 (IV) - Miscellaneous/§ 01502 - Certificate of nationality issued by Secretary of State for person not a naturalized citizen of United States for use in proceedings of a….md",
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 003 (III) - Nationality and Naturalization/Part 004 (IV) - Miscellaneous/§ 01502 - Certificate of nationality issued by Secretary of State for person not a naturalized citizen of United States for use in proceedings of a….md",
    "printed_pages": [
-    283,
-    283
+    336,
+    336
    ]
   },
   {
@@ -4955,171 +5586,169 @@
    "marks": [
     [
      "I",
-     8,
+     4,
      [
       [
-       183,
-       "[Page 284]"
+       999,
+       "[Page 337]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 011 - Nationality/Subchapter 003 (III) - Nationality and Naturalization/Part 004 (IV) - Miscellaneous/§ 01503 - Denial of rights and privileges as national.md",
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 003 (III) - Nationality and Naturalization/Part 004 (IV) - Miscellaneous/§ 01503 - Denial of rights and privileges as national.md",
    "printed_pages": [
-    283,
-    284
+    336,
+    337
    ]
   },
   {
    "id": "8_1504",
    "marks": [],
-   "path": "Chapter 011 - Nationality/Subchapter 003 (III) - Nationality and Naturalization/Part 004 (IV) - Miscellaneous/§ 01504 - Cancellation of United States passports and Consular Reports of Birth.md",
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 003 (III) - Nationality and Naturalization/Part 004 (IV) - Miscellaneous/§ 01504 - Cancellation of United States passports and Consular Reports of Birth.md",
    "printed_pages": [
-    284,
-    284
+    337,
+    337
    ]
   },
   {
-   "id": "8_-ch11-scIV_2",
+   "id": "8_-ch12-scIV",
    "marks": [],
-   "path": "Chapter 011 - Nationality/Subchapter 004 (IV) - Refugee Assistance/README.md",
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 004 (IV) - Refugee Assistance/README.md",
    "printed_pages": [
-    284,
-    284
+    337,
+    337
    ]
   },
   {
    "id": "8_1521",
    "marks": [
     [
-     "L",
-     20,
-     "[Page 285]",
-     true
+     "I",
+     6,
+     [
+      [
+       98,
+       "[Page 338]"
+      ]
+     ]
     ]
    ],
-   "path": "Chapter 011 - Nationality/Subchapter 004 (IV) - Refugee Assistance/§ 01521 - Office of Refugee Resettlement; establishment; appointment of Director; functions.md",
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 004 (IV) - Refugee Assistance/§ 01521 - Office of Refugee Resettlement; establishment; appointment of Director; functions.md",
    "printed_pages": [
-    284,
-    285
+    337,
+    338
    ]
   },
   {
    "id": "8_1522",
    "marks": [
     [
+     "L",
+     26,
+     "[Page 339]",
+     true
+    ],
+    [
+     "L",
+     86,
+     "[Page 340]",
+     true
+    ],
+    [
+     "L",
+     138,
+     "[Page 341]",
+     true
+    ],
+    [
      "I",
-     36,
+     192,
      [
       [
-       366,
-       "[Page 286]"
+       379,
+       "[Page 342]"
       ]
      ]
     ],
     [
      "I",
-     98,
+     236,
      [
       [
-       705,
-       "[Page 287]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     148,
-     [
-      [
-       134,
-       "[Page 288]"
+       593,
+       "[Page 343]"
       ]
      ]
     ],
     [
      "L",
-     200,
-     "[Page 289]",
+     298,
+     "[Page 344]",
+     true
+    ],
+    [
+     "I",
+     386,
+     [
+      [
+       105,
+       "[Page 345]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     462,
+     [
+      [
+       159,
+       "[Page 346]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     530,
+     [
+      [
+       109,
+       "[Page 347]"
+      ]
+     ]
+    ],
+    [
+     "L",
+     580,
+     "[Page 348]",
      true
     ],
     [
      "L",
-     246,
-     "[Page 290]",
+     632,
+     "[Page 349]",
      true
     ],
     [
      "I",
-     312,
+     684,
      [
       [
-       110,
-       "[Page 291]"
+       159,
+       "[Page 350]"
       ]
      ]
     ],
     [
      "L",
-     406,
-     "[Page 292]",
+     762,
+     "[Page 351]",
      true
-    ],
-    [
-     "I",
-     486,
-     [
-      [
-       108,
-       "[Page 293]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     528,
-     [
-      [
-       425,
-       "[Page 294]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     586,
-     [
-      [
-       318,
-       "[Page 295]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     644,
-     [
-      [
-       163,
-       "[Page 296]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     700,
-     [
-      [
-       107,
-       "[Page 297]"
-      ]
-     ]
     ]
    ],
-   "path": "Chapter 011 - Nationality/Subchapter 004 (IV) - Refugee Assistance/§ 01522 - Authorization for programs for domestic resettlement of and assistance to refugees.md",
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 004 (IV) - Refugee Assistance/§ 01522 - Authorization for programs for domestic resettlement of and assistance to refugees.md",
    "printed_pages": [
-    285,
-    297
+    338,
+    351
    ]
   },
   {
@@ -5127,40 +5756,171 @@
    "marks": [
     [
      "L",
-     6,
-     "[Page 298]",
+     44,
+     "[Page 352]",
      true
     ]
    ],
-   "path": "Chapter 011 - Nationality/Subchapter 004 (IV) - Refugee Assistance/§ 01523 - Congressional reports.md",
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 004 (IV) - Refugee Assistance/§ 01523 - Congressional reports.md",
    "printed_pages": [
-    297,
-    298
+    351,
+    352
    ]
   },
   {
    "id": "8_1524",
-   "marks": [
-    [
-     "L",
-     28,
-     "[Page 299]",
-     true
-    ]
-   ],
-   "path": "Chapter 011 - Nationality/Subchapter 004 (IV) - Refugee Assistance/§ 01524 - Authorization of appropriations.md",
+   "marks": [],
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 004 (IV) - Refugee Assistance/§ 01524 - Authorization of appropriations.md",
    "printed_pages": [
-    298,
-    299
+    352,
+    352
    ]
   },
   {
    "id": "8_1525",
    "marks": [],
-   "path": "Chapter 011 - Nationality/Subchapter 004 (IV) - Refugee Assistance/§ 01525 - Repealed. Pub. L. 103–236, title I, §162(m)(3), Apr. 30, 1994, 108 Stat. 409.md",
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 004 (IV) - Refugee Assistance/§ 01525 - Repealed. Pub. L. 103–236, title I, §162(m)(3), Apr. 30, 1994, 108 Stat. 409.md",
    "printed_pages": [
-    299,
-    299
+    352,
+    352
+   ]
+  },
+  {
+   "id": "8_-ch12-scV",
+   "marks": [],
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 005 (V) - Alien Terrorist Removal Procedures/README.md",
+   "printed_pages": [
+    352,
+    352
+   ]
+  },
+  {
+   "id": "8_1531",
+   "marks": [
+    [
+     "I",
+     38,
+     [
+      [
+       109,
+       "[Page 353]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 005 (V) - Alien Terrorist Removal Procedures/§ 01531 - Definitions.md",
+   "printed_pages": [
+    352,
+    353
+   ]
+  },
+  {
+   "id": "8_1532",
+   "marks": [],
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 005 (V) - Alien Terrorist Removal Procedures/§ 01532 - Establishment of removal court.md",
+   "printed_pages": [
+    353,
+    353
+   ]
+  },
+  {
+   "id": "8_1533",
+   "marks": [
+    [
+     "L",
+     44,
+     "[Page 354]",
+     true
+    ]
+   ],
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 005 (V) - Alien Terrorist Removal Procedures/§ 01533 - Removal court procedure.md",
+   "printed_pages": [
+    353,
+    354
+   ]
+  },
+  {
+   "id": "8_1534",
+   "marks": [
+    [
+     "L",
+     64,
+     "[Page 355]",
+     true
+    ],
+    [
+     "L",
+     136,
+     "[Page 356]",
+     true
+    ],
+    [
+     "I",
+     212,
+     [
+      [
+       168,
+       "[Page 357]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 005 (V) - Alien Terrorist Removal Procedures/§ 01534 - Removal hearing.md",
+   "printed_pages": [
+    354,
+    357
+   ]
+  },
+  {
+   "id": "8_1535",
+   "marks": [
+    [
+     "L",
+     74,
+     "[Page 358]",
+     true
+    ]
+   ],
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 005 (V) - Alien Terrorist Removal Procedures/§ 01535 - Appeals.md",
+   "printed_pages": [
+    357,
+    358
+   ]
+  },
+  {
+   "id": "8_1536",
+   "marks": [
+    [
+     "L",
+     48,
+     "[Page 359]",
+     true
+    ]
+   ],
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 005 (V) - Alien Terrorist Removal Procedures/§ 01536 - Custody and release pending removal hearing.md",
+   "printed_pages": [
+    358,
+    359
+   ]
+  },
+  {
+   "id": "8_1537",
+   "marks": [
+    [
+     "I",
+     62,
+     [
+      [
+       142,
+       "[Page 360]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 012 - Immigration and Nationality/Subchapter 005 (V) - Alien Terrorist Removal Procedures/§ 01537 - Custody and release after removal hearing.md",
+   "printed_pages": [
+    359,
+    360
    ]
   },
   {
@@ -5168,40 +5928,48 @@
    "marks": [],
    "path": "Chapter 013 - Immigration and Naturalization Service/README.md",
    "printed_pages": [
-    299,
-    299
+    360,
+    360
    ]
   },
   {
    "id": "8_1551",
    "marks": [
     [
-     "L",
-     44,
-     "[Page 300]",
-     true
+     "I",
+     38,
+     [
+      [
+       110,
+       "[Page 361]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 013 - Immigration and Naturalization Service/§ 01551 - Immigration and Naturalization Service.md",
    "printed_pages": [
-    299,
-    300
+    360,
+    361
    ]
   },
   {
    "id": "8_1552",
    "marks": [
     [
-     "L",
-     24,
-     "[Page 301]",
-     true
+     "I",
+     22,
+     [
+      [
+       215,
+       "[Page 362]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 013 - Immigration and Naturalization Service/§ 01552 - Commissioner of Immigration and Naturalization; office.md",
    "printed_pages": [
-    300,
-    301
+    361,
+    362
    ]
   },
   {
@@ -5209,8 +5977,8 @@
    "marks": [],
    "path": "Chapter 013 - Immigration and Naturalization Service/§ 01553 - Assistant Commissioners and one District Director; compensation and salary grade.md",
    "printed_pages": [
-    301,
-    301
+    362,
+    362
    ]
   },
   {
@@ -5218,8 +5986,8 @@
    "marks": [],
    "path": "Chapter 013 - Immigration and Naturalization Service/§ 01554 - Special immigrant inspectors at Washington.md",
    "printed_pages": [
-    301,
-    301
+    362,
+    362
    ]
   },
   {
@@ -5227,8 +5995,8 @@
    "marks": [],
    "path": "Chapter 013 - Immigration and Naturalization Service/§ 01555 - Immigration Service expenses.md",
    "printed_pages": [
-    301,
-    301
+    362,
+    362
    ]
   },
   {
@@ -5236,31 +6004,342 @@
    "marks": [],
    "path": "Chapter 013 - Immigration and Naturalization Service/§ 01556 - Transferred.md",
    "printed_pages": [
-    301,
-    301
+    362,
+    362
    ]
   },
   {
    "id": "8_1557",
    "marks": [
     [
-     "I",
-     8,
-     [
-      [
-       224,
-       "[Page 302]"
-      ]
-     ]
+     "L",
+     4,
+     "[Page 363]",
+     true
     ]
    ],
    "path": "Chapter 013 - Immigration and Naturalization Service/§ 01557 - Prevention of transportation in foreign commerce of alien women and girls under international agreement; Commissioner designated as….md",
    "printed_pages": [
-    301,
-    302
+    362,
+    363
+   ]
+  },
+  {
+   "id": "8_-ch14",
+   "marks": [
+    [
+     "I",
+     81,
+     [
+      [
+       75,
+       "[Page 364]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 014 - Restricting Welfare and Public Benefits for Aliens/README.md",
+   "printed_pages": [
+    363,
+    364
+   ]
+  },
+  {
+   "id": "8_1601",
+   "marks": [],
+   "path": "Chapter 014 - Restricting Welfare and Public Benefits for Aliens/§ 01601 - Statements of national policy concerning welfare and immigration.md",
+   "printed_pages": [
+    364,
+    364
+   ]
+  },
+  {
+   "id": "8_-ch14-scI",
+   "marks": [],
+   "path": "Chapter 014 - Restricting Welfare and Public Benefits for Aliens/Subchapter 001 (I) - Eligibility for Federal Benefits/README.md",
+   "printed_pages": [
+    364,
+    364
+   ]
+  },
+  {
+   "id": "8_1611",
+   "marks": [
+    [
+     "I",
+     20,
+     [
+      [
+       147,
+       "[Page 365]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 014 - Restricting Welfare and Public Benefits for Aliens/Subchapter 001 (I) - Eligibility for Federal Benefits/§ 01611 - Aliens who are not qualified aliens ineligible for Federal public benefits.md",
+   "printed_pages": [
+    364,
+    365
+   ]
+  },
+  {
+   "id": "8_1612",
+   "marks": [
+    [
+     "L",
+     16,
+     "[Page 366]",
+     true
+    ],
+    [
+     "L",
+     90,
+     "[Page 367]",
+     true
+    ],
+    [
+     "L",
+     166,
+     "[Page 368]",
+     true
+    ]
+   ],
+   "path": "Chapter 014 - Restricting Welfare and Public Benefits for Aliens/Subchapter 001 (I) - Eligibility for Federal Benefits/§ 01612 - Limited eligibility of qualified aliens for certain Federal programs.md",
+   "printed_pages": [
+    365,
+    368
+   ]
+  },
+  {
+   "id": "8_1613",
+   "marks": [
+    [
+     "L",
+     70,
+     "[Page 369]",
+     true
+    ]
+   ],
+   "path": "Chapter 014 - Restricting Welfare and Public Benefits for Aliens/Subchapter 001 (I) - Eligibility for Federal Benefits/§ 01613 - Five-year limited eligibility of qualified aliens for Federal means-tested public benefit.md",
+   "printed_pages": [
+    368,
+    369
+   ]
+  },
+  {
+   "id": "8_1614",
+   "marks": [],
+   "path": "Chapter 014 - Restricting Welfare and Public Benefits for Aliens/Subchapter 001 (I) - Eligibility for Federal Benefits/§ 01614 - Notification and information reporting.md",
+   "printed_pages": [
+    369,
+    369
+   ]
+  },
+  {
+   "id": "8_1615",
+   "marks": [
+    [
+     "I",
+     34,
+     [
+      [
+       106,
+       "[Page 370]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 014 - Restricting Welfare and Public Benefits for Aliens/Subchapter 001 (I) - Eligibility for Federal Benefits/§ 01615 - Requirements relating to provision of benefits based on citizenship, alienage, or immigration status under the National School Lunch Act….md",
+   "printed_pages": [
+    369,
+    370
+   ]
+  },
+  {
+   "id": "8_-ch14-scII",
+   "marks": [],
+   "path": "Chapter 014 - Restricting Welfare and Public Benefits for Aliens/Subchapter 002 (II) - Eligibility for State and Local Public Benefits Programs/README.md",
+   "printed_pages": [
+    370,
+    370
+   ]
+  },
+  {
+   "id": "8_1621",
+   "marks": [
+    [
+     "I",
+     60,
+     [
+      [
+       323,
+       "[Page 371]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 014 - Restricting Welfare and Public Benefits for Aliens/Subchapter 002 (II) - Eligibility for State and Local Public Benefits Programs/§ 01621 - Aliens who are not qualified aliens or nonimmigrants ineligible for State and local public benefits.md",
+   "printed_pages": [
+    370,
+    371
+   ]
+  },
+  {
+   "id": "8_1622",
+   "marks": [],
+   "path": "Chapter 014 - Restricting Welfare and Public Benefits for Aliens/Subchapter 002 (II) - Eligibility for State and Local Public Benefits Programs/§ 01622 - State authority to limit eligibility of qualified aliens for State public benefits.md",
+   "printed_pages": [
+    371,
+    371
+   ]
+  },
+  {
+   "id": "8_1623",
+   "marks": [
+    [
+     "L",
+     16,
+     "[Page 372]",
+     true
+    ]
+   ],
+   "path": "Chapter 014 - Restricting Welfare and Public Benefits for Aliens/Subchapter 002 (II) - Eligibility for State and Local Public Benefits Programs/§ 01623 - Limitation on eligibility for preferential treatment of aliens not lawfully present on basis of residence for higher education benefits.md",
+   "printed_pages": [
+    371,
+    372
+   ]
+  },
+  {
+   "id": "8_1624",
+   "marks": [],
+   "path": "Chapter 014 - Restricting Welfare and Public Benefits for Aliens/Subchapter 002 (II) - Eligibility for State and Local Public Benefits Programs/§ 01624 - Authority of States and political subdivisions of States to limit assistance to aliens and to distinguish among classes of aliens in….md",
+   "printed_pages": [
+    372,
+    372
+   ]
+  },
+  {
+   "id": "8_-ch14-scIII",
+   "marks": [],
+   "path": "Chapter 014 - Restricting Welfare and Public Benefits for Aliens/Subchapter 003 (III) - Attribution of Income and Affidavits of Support/README.md",
+   "printed_pages": [
+    372,
+    372
+   ]
+  },
+  {
+   "id": "8_1631",
+   "marks": [
+    [
+     "I",
+     44,
+     [
+      [
+       187,
+       "[Page 373]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 014 - Restricting Welfare and Public Benefits for Aliens/Subchapter 003 (III) - Attribution of Income and Affidavits of Support/§ 01631 - Federal attribution of sponsor's income and resources to alien.md",
+   "printed_pages": [
+    372,
+    373
+   ]
+  },
+  {
+   "id": "8_1632",
+   "marks": [
+    [
+     "I",
+     26,
+     [
+      [
+       367,
+       "[Page 374]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 014 - Restricting Welfare and Public Benefits for Aliens/Subchapter 003 (III) - Attribution of Income and Affidavits of Support/§ 01632 - Authority for States to provide for attribution of sponsors income and resources to the alien with respect to State programs.md",
+   "printed_pages": [
+    373,
+    374
+   ]
+  },
+  {
+   "id": "8_-ch14-scIV",
+   "marks": [],
+   "path": "Chapter 014 - Restricting Welfare and Public Benefits for Aliens/Subchapter 004 (IV) - General Provisions/README.md",
+   "printed_pages": [
+    374,
+    374
+   ]
+  },
+  {
+   "id": "8_1641",
+   "marks": [
+    [
+     "I",
+     46,
+     [
+      [
+       142,
+       "[Page 375]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 014 - Restricting Welfare and Public Benefits for Aliens/Subchapter 004 (IV) - General Provisions/§ 01641 - Definitions.md",
+   "printed_pages": [
+    374,
+    375
+   ]
+  },
+  {
+   "id": "8_1642",
+   "marks": [],
+   "path": "Chapter 014 - Restricting Welfare and Public Benefits for Aliens/Subchapter 004 (IV) - General Provisions/§ 01642 - Verification of eligibility for Federal public benefits.md",
+   "printed_pages": [
+    375,
+    375
+   ]
+  },
+  {
+   "id": "8_1643",
+   "marks": [
+    [
+     "L",
+     12,
+     "[Page 376]",
+     true
+    ]
+   ],
+   "path": "Chapter 014 - Restricting Welfare and Public Benefits for Aliens/Subchapter 004 (IV) - General Provisions/§ 01643 - Statutory construction.md",
+   "printed_pages": [
+    375,
+    376
+   ]
+  },
+  {
+   "id": "8_1644",
+   "marks": [],
+   "path": "Chapter 014 - Restricting Welfare and Public Benefits for Aliens/Subchapter 004 (IV) - General Provisions/§ 01644 - Communication between State and local government agencies and Immigration and Naturalization Service.md",
+   "printed_pages": [
+    376,
+    376
+   ]
+  },
+  {
+   "id": "8_1645",
+   "marks": [],
+   "path": "Chapter 014 - Restricting Welfare and Public Benefits for Aliens/Subchapter 004 (IV) - General Provisions/§ 01645 - Qualifying quarters.md",
+   "printed_pages": [
+    376,
+    376
    ]
   }
  ],
- "provenance_line": "<!-- USCODE-1995-title8 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
+ "provenance_line": "<!-- USCODE-1996-title8 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
  "title_folder": "Title 08 - Aliens and Nationality"
 }

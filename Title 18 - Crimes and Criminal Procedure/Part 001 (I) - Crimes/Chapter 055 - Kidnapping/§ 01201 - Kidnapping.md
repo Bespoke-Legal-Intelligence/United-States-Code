@@ -20,9 +20,9 @@
 
 (d) Whoever attempts to violate subsection (a) shall be punished by imprisonment for not more than twenty years.
 
-(e) If the victim of an offense under subsection (a) is an internationally protected person, the United States may exercise jurisdiction over the offense if the alleged offender is present within the United States, irrespective of the place where the offense was committed or the nationality of the victim or the alleged offender. As used in this subsection, the United States includes all areas under the jurisdiction of the United States including any of the places within the provisions of sections 5 and 7 of this title and section 46501(2) of title 49.
+(e) If the victim of an offense under subsection (a) is an internationally protected person outside the United States, the United States may exercise jurisdiction over the offense if (1) the victim is a representative, officer, employee, or agent of the United States, (2) an offender is a national of the United States, or (3) an offender is afterwards found in the United States. As used in this subsection, the United States includes all areas under the jurisdiction of the United States including any of the places within the provisions of sections 5 and 7 of this title and section 46501(2) of title 49. For purposes of this subsection, the term “national of the United States” has the meaning prescribed in section 101(a)(22) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(22)).
 
-(f) In the course of enforcement of subsection (a)(4) and any other sections prohibiting a conspiracy or attempt to violate subsection (a)(4),the Attorney General may request assistance from any Federal, State, or local agency, including the Army, Navy, and Air Force, any statute, rule, or regulation to the contrary notwithstanding.
+(f) In the course of enforcement of subsection (a)(4) and any other sections prohibiting a conspiracy or attempt to violate subsection (a)(4), the Attorney General may request assistance from any Federal, State, or local agency, including the Army, Navy, and Air Force, any statute, rule, or regulation to the contrary notwithstanding.
 
 (g)
 
@@ -62,7 +62,7 @@ Guidelines.—The United States Sentencing Commission is directed to amend the e
 
 (h) As used in this section, the term “parent” does not include a person whose parental rights with respect to the victim of an offense under this section have been terminated by a final court order.
 
-(June 25, 1948, ch. 645, 62 Stat. 760; Aug. 6, 1956, ch. 971, 70 Stat. 1043; Oct. 24, 1972, Pub. L. 92–539, title II, §201, 86 Stat. 1072; Oct. 8, 1976, Pub. L. 94–467, §4, 90 Stat. 1998; Nov. 9, 1977, Pub. L. 95–163, §17(b)(1), 91 Stat. 1286; Oct. 24, 1978, Pub. L. 95–504, §2(b), 92 Stat. 1705; Oct. 12, 1984, Pub. L. 98–473, title II, §1007, 98 Stat. 2139; Nov. 10, 1986, Pub. L. 99–646, §§36, 37(b), 100 Stat. 3599; Nov. 29, 1990, Pub. L. 101–647, title IV, §401, title XXXV, §3538, 104 Stat. 4819, 4925; July 5, 1994, Pub. L. 103–272, §5(e)(2), (8), 108 Stat. 1373, 1374; Sept. 13, 1994, Pub. L. 103–322, title VI, §60003(a)(6), title XXXII, §§320903(b), 320924, title XXXIII, §330021, 108 Stat. 1969, 2124, 2131, 2150.)
+(June 25, 1948, ch. 645, 62 Stat. 760; Aug. 6, 1956, ch. 971, 70 Stat. 1043; Oct. 24, 1972, Pub. L. 92–539, title II, §201, 86 Stat. 1072; Oct. 8, 1976, Pub. L. 94–467, §4, 90 Stat. 1998; Nov. 9, 1977, Pub. L. 95–163, §17(b)(1), 91 Stat. 1286; Oct. 24, 1978, Pub. L. 95–504, §2(b), 92 Stat. 1705; Oct. 12, 1984, Pub. L. 98–473, title II, §1007, 98 Stat. 2139; Nov. 10, 1986, Pub. L. 99–646, §§36, 37(b), 100 Stat. 3599; Nov. 29, 1990, Pub. L. 101–647, title IV, §401, title XXXV, §3538, 104 Stat. 4819, 4925; July 5, 1994, Pub. L. 103–272, §5(e)(2), (8), 108 Stat. 1373, 1374; Sept. 13, 1994, Pub. L. 103–322, title VI, §60003(a)(6), title XXXII, §§320903(b), 320924, title XXXIII, §330021, 108 Stat. 1969, 2124, 2131, 2150; Apr. 24, 1996, Pub. L. 104–132, title VII, §721(f), 110 Stat. 1299.)
 
 #### Historical and Revision Notes
 
@@ -81,6 +81,8 @@ The phrase “for any term of years or for life” was substituted for the words
 Minor changes were made in phraseology.
 
 #### Amendments
+
+1996—Subsec. (e). Pub. L. 104–132 substituted “If the victim of an offense under subsection (a) is an internationally protected person outside the United States, the United States may exercise jurisdiction over the offense if (1) the victim is a representative, officer, employee, or agent of the United States, (2) an offender is a national of the United States, or (3) an offender is afterwards found in the United States.” for “If the victim of an offense under subsection (a) is an internationally protected person, the United States may exercise jurisdiction over the offense if the alleged offender is present within the United States, irrespective of the place where the offense was committed or the nationality of the victim or the alleged offender.” and inserted at end “For purposes of this subsection, the term ‘national of the United States’ has the meaning prescribed in section 101(a)(22) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(22)).”
 
 1994—Pub. L. 103–322, §330021(1), which directed the amendment of this title “by striking ‘kidnaping’ each place it appears and inserting ‘kidnapping’ ”, was executed by substituting “Kidnapping” for “Kidnaping” as section catchline, to reflect the probable intent of Congress.
 

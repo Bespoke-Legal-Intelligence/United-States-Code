@@ -8,9 +8,9 @@
 
 &emsp;(3) Former Presidents and their spouses for their lifetimes, except that protection of a spouse shall terminate in the event of remarriage unless the former President did not serve as President prior to January 1, 1997, in which case, former Presidents and their spouses for a period of not more than ten years from the date a former President leaves office, except that—
 
-&emsp;&emsp;(1) protection of a spouse shall terminate in the event of remarriage or the divorce from, or death of a former President; and
+&emsp;&emsp;(A) protection of a spouse shall terminate in the event of remarriage or the divorce from, or death of a former President; and
 
-&emsp;&emsp;(2) should the death of a President occur while in office or within one year after leaving office, the spouse shall receive protection for one year from the time of such death:
+&emsp;&emsp;(B) should the death of a President occur while in office or within one year after leaving office, the spouse shall receive protection for one year from the time of such death:
 
 > &emsp;<i>Provided</i>, That the Secretary of the Treasury shall have the authority to direct the Secret Service to provide temporary protection for any of these individuals at any time if the Secretary of the Treasury or designee determines that information or conditions warrant such protection.
 
@@ -20,7 +20,7 @@
 
 &emsp;(6) Other distinguished foreign visitors to the United States and official representatives of the United States performing special missions abroad when the President directs that such protection be provided.
 
-&emsp;(7) Major Presidential and Vice Presidential candidates and, within 120 days of the general Presidential election, the spouses of such candidates. As used in this paragraph, the term “major Presidential and Vice Presidential candidates” means those individuals identified as such by the Secretary of the Treasury after consultation with an advisory committee consisting of the Speaker of the House of Representatives, the minority leader of the House of Representatives, the majority and minority leaders of the Senate, and one additional member selected by the other members of the committee.
+&emsp;(7) Major Presidential and Vice Presidential candidates and, within 120 days of the general Presidential election, the spouses of such candidates. As used in this paragraph, the term “major Presidential and Vice Presidentialcandidates” means those individuals identified as such by the Secretary of the Treasury after consultation with an advisory committee consisting of the Speaker of the House of Representatives, the minority leader of the House of Representatives, the majority and minority leaders of the Senate, and one additional member selected by the other members of the committee.
 
 > The protection authorized in paragraphs (2) through (7) may be declined.
 
@@ -50,7 +50,7 @@
 
 (d) Whoever knowingly and willfully obstructs, resists, or interferes with a Federal law enforcement agent engaged in the performance of the protective functions authorized by this section or by section 1752 of this title shall be fined not more than $1,000 or imprisoned not more than one year, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 818; July 16, 1951, ch. 226, §4, 65 Stat. 122; Aug. 31, 1954, ch. 1143, §2, 68 Stat. 999; Aug. 18, 1959, Pub. L. 86–168, title I, §104(h), 73 Stat. 387; Oct. 10, 1962, Pub. L. 87–791, 76 Stat. 809; Oct. 15, 1962, Pub. L. 87–829, §3, 76 Stat. 956; Sept. 15, 1965, Pub. L. 89–186, 79 Stat. 791; Sept. 29, 1965, Pub. L. 89–218, 79 Stat. 890; Oct. 21, 1968, Pub. L. 90–608, ch. XI, §1101, 82 Stat. 1198; Jan. 2, 1971, Pub. L. 91–644, title V, §19, 84 Stat. 1892; Jan. 5, 1971, Pub. L. 91–651, §4, 84 Stat. 1941; July 12, 1974, Pub. L. 93–346, §8, as added Dec. 27, 1974, Pub. L. 93–552, title VI, §609(a), 88 Stat. 1765; Sept. 11, 1976, Pub. L. 94–408, §2, 90 Stat. 1239; Oct. 12, 1982, Pub. L. 97–297, §3, 96 Stat. 1318; Oct. 14, 1982, Pub. L. 97–308, §2, 96 Stat. 1452; Nov. 14, 1983, Pub. L. 98–151, §115(b), 97 Stat. 977; Oct. 30, 1984, Pub. L. 98–587, §1(a), 98 Stat. 3110; Sept. 30, 1994, Pub. L. 103–329, title V, §530, 108 Stat. 2412.)
+(June 25, 1948, ch. 645, 62 Stat. 818; July 16, 1951, ch. 226, §4, 65 Stat. 122; Aug. 31, 1954, ch. 1143, §2, 68 Stat. 999; Aug. 18, 1959, Pub. L. 86–168, title I, §104(h), 73 Stat. 387; Oct. 10, 1962, Pub. L. 87–791, 76 Stat. 809; Oct. 15, 1962, Pub. L. 87–829, §3, 76 Stat. 956; Sept. 15, 1965, Pub. L. 89–186, 79 Stat. 791; Sept. 29, 1965, Pub. L. 89–218, 79 Stat. 890; Oct. 21, 1968, Pub. L. 90–608, ch. XI, §1101, 82 Stat. 1198; Jan. 2, 1971, Pub. L. 91–644, title V, §19, 84 Stat. 1892; Jan. 5, 1971, Pub. L. 91–651, §4, 84 Stat. 1941; July 12, 1974, Pub. L. 93–346, §8, as added Dec. 27, 1974, Pub. L. 93–552, title VI, §609(a), 88 Stat. 1765; Sept. 11, 1976, Pub. L. 94–408, §2, 90 Stat. 1239; Oct. 12, 1982, Pub. L. 97–297, §3, 96 Stat. 1318; Oct. 14, 1982, Pub. L. 97–308, §2, 96 Stat. 1452; Nov. 14, 1983, Pub. L. 98–151, §115(b), 97 Stat. 977; Oct. 30, 1984, Pub. L. 98–587, §1(a), 98 Stat. 3110; Sept. 30, 1994, Pub. L. 103–329, title V, §530, 108 Stat. 2412; Oct. 11, 1996, Pub. L. 104–294, title VI, §605(i), 110 Stat. 3510.)
 
 #### Historical and Revision Notes
 
@@ -73,6 +73,8 @@ Changes were made in phraseology.
 Section 216 of this title, referred to in subsec. (b)(1), was repealed by Pub. L. 98–473, title II, §1107(b), Oct. 12, 1984, 98 Stat. 2146.
 
 #### Amendments
+
+1996—Subsec. (a)(3). Pub. L. 104–294 redesignated subpars. (1) and (2) as (A) and (B), respectively, and realigned margins.
 
 1994—Subsec. (a)(3). Pub. L. 103–329, §530(a), inserted before period at end “unless the former President did not serve as President prior to January 1, 1997, in which case, former Presidents and their spouses for a period of not more than ten years from the date a former President leaves office, except that—
 
@@ -128,6 +130,28 @@ Amendment by Pub. L. 93–552 effective July 12, 1974, see section 609(b) of Pub
 
 Amendment by Pub. L. 86–168 effective Dec. 31, 1959, see section 104(k) of Pub. L. 86–168.
 
+#### Telecommunications Support to United States Secret Service by White House Communications Agency
+
+Pub. L. 104–208, div. A, title I, §101(b) \[title VIII, §8100\], Sept. 30, 1996, 110 Stat. 3009–71, 3009–108, provided that: “Beginning in fiscal year 1997 and thereafter, and notwithstanding any other provision of law, fixed and mobile telecommunications support shall be provided by the White House Communications Agency (WHCA) to the United States Secret Service (USSS), without reimbursement, in connection with the Secret Service's duties directly related to the protection of the President or the Vice President or other officer immediately next in order of succession to the office of the President at the White House Security Complex in the Washington, D.C. Metropolitan Area and Camp David, Maryland. For these purposes, the White House Security Complex includes the White House, the White House grounds, the Old Executive Office Building, the New Executive Office Building, the Blair House, the Treasury Building, and the Vice President's Residence at the Naval Observatory.”
+
+#### Off-Set of Costs of Protecting Former Presidents and Spouses
+
+Pub. L. 104–208, div. A, title I, §101(f) \[title V, §509\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–345, provided that: “The United States Secret Service may, during the fiscal year ending September 30, 1997, and hereafter, accept donations of money to off-set costs incurred while protecting former Presidents and spouses of former Presidents when the former President or spouse travels for the purpose of making an appearance or speech for a payment of money or any thing of value.”
+
+Similar provisions were contained in the following prior appropriations acts:
+
+Pub. L. 104–52, title V, §509, Nov. 19, 1995, 109 Stat. 492.
+
+Pub. L. 103–329, title V, §514, Sept. 30, 1994, 108 Stat. 2410.
+
+Pub. L. 103–123, title V, §515, Oct. 28, 1993, 107 Stat. 1253.
+
+Pub. L. 102–393, title V, §519, Oct. 6, 1992, 106 Stat. 1759.
+
+Pub. L. 102–141, title V, §522, Oct. 28, 1991, 105 Stat. 865.
+
+Pub. L. 101–509, title V, §525, Nov. 5, 1990, 104 Stat. 1426.
+
 #### Former Vice President or Spouse; Protection
 
 Pub. L. 103–1, Jan. 15, 1993, 107 Stat. 3, provided: “That—
@@ -150,7 +174,7 @@ Pub. L. 95–1, Jan. 19, 1977, 91 Stat. 3, provided: “That the United States S
 
 #### Presidential Protection Assistance Act of 1976
 
-Pub. L. 94–524, Oct. 17, 1976, 90 Stat. 2475, as amended by Pub. L. 99–190, §143, Dec. 19, 1985, 99 Stat. 1324; Pub. L. 101–136, title V, §527, Nov. 3, 1989, 103 Stat. 815; Pub. L. 101–509, title V, §531(a), Nov. 5, 1990, 104 Stat. 1469; Pub. L. 102–141, title V, §533, Oct. 28, 1991, 105 Stat. 867, provided: “That this Act may be cited as the ‘Presidential Protection Assistance Act of 1976’.
+Pub. L. 94–524, Oct. 17, 1976, 90 Stat. 2475, as amended by Pub. L. 99–190, §143, Dec. 19, 1985, 99 Stat. 1324; Pub. L. 101–136, title V, §527, Nov. 3, 1989, 103 Stat. 815; Pub. L. 101–509, title V, §531(a), Nov. 5, 1990, 104 Stat. 1469; Pub. L. 102–141, title V, §533, Oct. 28, 1991, 105 Stat. 867; Pub. L. 104–52, title V, §529, Nov. 19, 1995, 109 Stat. 496; Pub. L. 104–316, title I, §109(a), Oct. 19, 1996, 110 Stat. 3832, provided: “That this Act may be cited as the ‘Presidential Protection Assistance Act of 1976’.
 
 “
 
@@ -182,13 +206,13 @@ Sec. 3. (a) Each protectee may designate one non-governmental property to be ful
 
 “
 
-Sec. 4. Expenditures by the Secret Service for maintaining a permanent guard detail and for permanent facilities, equipment, and services to secure any non-Governmental property in addition to the one non-Governmental property designated by each protectee under subsection 3(a) or 3(b) may not exceed a cumulative total of $75,000 at each such additional non-Governmental property, unless expenditures in excess of that amount are specifically approved by resolutions adopted by the Committees on Appropriations of the House and Senate, respectively.
+Sec. 4. Expenditures by the Secret Service for maintaining a permanent guard detail and for permanent facilities, equipment, and services to secure any non-Governmental property in addition to the one non-Governmental property designated by each protectee under subsection 3(a) or 3(b) may not exceed a cumulative total of $200,000 at each such additional non-Governmental property, unless expenditures in excess of that amount are specifically approved by resolutions adopted by the Committees on Appropriations of the House and Senate, respectively.
 
 “
 
 Sec. 5. (a) All improvements and other items acquired by the Federal Government and used for the purpose of securing any non-Governmental property in the performance of the duties of the Secret Service shall be the property of the United States.
 
-“(b) Upon termination of Secret Service protection at any non-Governmental property all such improvements and other items shall be removed from the non-Governmental property unless the Director determines that it would not be economically feasible to do so; except that such improvements and other items shall be removed and the non-Governmental property shall be restored to its original state if the owner of such property at the time of termination requests the removal of such improvements or other items. If any such improvements or other items are not removed, the owner of the non-Governmental property at the time of termination shall compensate the United States for the original cost of such improvements or other items or for the amount by which they have increased the fair market value of the property, as determined by the Comptroller General of the United States, as of the date of termination, whichever is less.
+“(b) Upon termination of Secret Service protection at any non-Governmental property all such improvements and other items shall be removed from the non-Governmental property unless the Director determines that it would not be economically feasible to do so; except that such improvements and other items shall be removed and the non-Governmental property shall be restored to its original state if the owner of such property at the time of termination requests the removal of such improvements or other items. If any such improvements or other items are not removed, the owner of the non-Governmental property at the time of termination shall compensate the United States for the original cost of such improvements or other items or for the amount by which they have increased the fair market value of the property, as determined by the Director, as of the date of termination, whichever is less.
 
 “(c) In the event that any non-Governmental property becomes a previously designated property and Secret Service protection at that property has not been terminated, all such improvements and other items which the Director determines are not necessary to secure the previously designated property within the limitations imposed under section 4 shall be removed or compensated for in accordance with the procedures set forth under Subsection (b) of this section.
 
@@ -238,7 +262,7 @@ Section 5 of Pub. L. 91–651 provided that: “Section 3056 of title 18, United
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 351, 879, 1752, 4247 of this title; title 5 section 552a; title 12 section 3414; title 22 sections 2709, 4304; title 31 sections 1344, 1537.
+This section is referred to in sections 115, 351, 879, 1752, 2332b, 4247 of this title; title 5 sections 552a, 5542; title 12 section 3414; title 22 sections 2709, 4304; title 31 sections 1344, 1537.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

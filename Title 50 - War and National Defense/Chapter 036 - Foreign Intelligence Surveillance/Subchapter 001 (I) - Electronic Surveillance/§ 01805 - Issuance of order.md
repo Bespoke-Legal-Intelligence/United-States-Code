@@ -116,7 +116,7 @@ Certifications made by the Attorney General pursuant to section 1802(a) of this 
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–549 effective 60 days after Oct. 30, 1984, except where otherwise expressly provided, see section 9(a) of Pub. L. 98–549, set out as a note under section 521 of Title 47, Telegraphs, Telephones, and Radiotelegraphs.
+Amendment by Pub. L. 98–549 effective 60 days after Oct. 30, 1984, except where otherwise expressly provided, see section 9(a) of Pub. L. 98–549, set out as anote under section 521 of Title 47, Telegraphs, Telephones, and Radiotelegraphs.
 
 #### Section Referred to in Other Sections
 

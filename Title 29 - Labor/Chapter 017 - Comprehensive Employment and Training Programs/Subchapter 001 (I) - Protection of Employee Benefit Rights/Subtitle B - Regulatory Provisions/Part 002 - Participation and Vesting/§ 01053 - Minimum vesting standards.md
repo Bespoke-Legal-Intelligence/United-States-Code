@@ -6,7 +6,7 @@ Each pension plan shall provide that an employee's right to his normal retiremen
 
 &emsp;(1) A plan satisfies the requirements of this paragraph if an employee's rights in his accrued benefit derived from his own contributions are nonforfeitable.
 
-&emsp;(2) A plan satisfies the requirements of this paragraph if it satisfies the requirements of subparagraph (A), (B), or (C).
+&emsp;(2) A plan satisfies the requirements of this paragraph if it satisfies the requirements of subparagraph (A) or (B).
 
 &emsp;&emsp;(A) A plan satisfies the requirements of this subparagraph if an employee who has completed at least 5 years of service has a nonforfeitable right to 100 percent of the employee's accrued benefit derived from employer contributions.
 
@@ -22,35 +22,25 @@ percentage is:
 
 &emsp;&emsp;3
 
-20&nbsp;&nbsp;&nbsp;&nbsp;
+20&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 &emsp;&emsp;4
 
-40&nbsp;&nbsp;&nbsp;&nbsp;
+40&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 &emsp;&emsp;5
 
-60&nbsp;&nbsp;&nbsp;&nbsp;
+60&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 &emsp;&emsp;6
 
-80&nbsp;&nbsp;&nbsp;&nbsp;
+80&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 &emsp;&emsp;7 or more
 
 100\.&nbsp;&nbsp;&nbsp;
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-&emsp;&emsp;(C) A plan satisfies the requirements of this subparagraph if—
-
-&emsp;&emsp;&emsp;(i) the plan is a multiemployer plan (within the meaning of section 1002(37)), and
-
-&emsp;&emsp;&emsp;(ii) under the plan—
-
-&emsp;&emsp;&emsp;&emsp;(I) an employee who is covered pursuant to a collective bargaining agreement described in section 1002(37)(A)(ii) of this title and who has completed at least 10 years of service has a nonforfeitable right to 100 percent of the employee's accrued benefit derived from employer contributions, and
-
-&emsp;&emsp;&emsp;&emsp;(II) the requirements of subparagraph (A) or (B) are met with respect to employees not described in subclause (I).
 
 &emsp;(3)(A) A right to an accrued benefit derived from employer contributions shall not be treated as forfeitable solely because the plan provides that it is not payable if the participant dies (except in the case of a survivor annuity which is payable as provided in section 1055 of this title).
 
@@ -178,7 +168,7 @@ percentage is:
 
 #### (c) Plan amendments altering vesting schedule
 
-(1)(A) A plan amendment changing any vesting schedule under this plan shall be treated as notsatisfying the requirements of subsection (a)(2) of this section if the nonforfeitable percentage of the accrued benefit derived from employer contributions (determined as of the later of the date such amendment is adopted, or the date such amendment becomes effective) of any employee who is a participant in the plan is less than such nonforfeitable percentage computed under the plan without regard to such amendment.
+(1)(A) A plan amendment changing any vesting schedule under this plan shall be treated as not satisfying the requirements of subsection (a)(2) of this section if the nonforfeitable percentage of the accrued benefit derived from employer contributions (determined as of the later of the date such amendment is adopted, or the date such amendment becomes effective) of any employee who is a participant in the plan is less than such nonforfeitable percentage computed under the plan without regard to such amendment.
 
 (B) A plan amendment changing any vesting schedule under the plan shall be treated as not satisfying the requirements of subsection (a)(2) of this section unless each participant having not less than 3 years of service is permitted to elect, within a reasonable period after adoption of such amendment, to have his nonforfeitable percentage computed under the plan without regard to such amendment.
 
@@ -196,9 +186,21 @@ A pension plan may allow for nonforfeitable benefits after a lesser period and i
 
 (3) This subsection shall not apply to any distribution of dividends to which section 404(k) of title 26 applies.
 
-(Pub. L. 93–406, title I, §203, Sept. 2, 1974, 88 Stat. 854; Pub. L. 96–364, title III, §303, Sept. 26, 1980, 94 Stat. 1292; Pub. L. 98–397, title I, §§102(b), (c), (d)(2), (e)(2), 105(a), Aug. 23, 1984, 98 Stat. 1426–1428, 1436; Pub. L. 99–514, title XI, §§1113(e)(1), (2), (4)(A), 1139(c)(1), title XVIII, §1898(a)(1)(B), (4)(B)(i), (d)(1)(B), (2)(B), Oct. 22, 1986, 100 Stat. 2447, 2448, 2487, 2942, 2944, 2955; Pub. L. 101–239, title VII, §§7861(a)(1), (5)(B), (6)(B), 7862(d)(4), (5), (10), 7891(a)(1), (b)(1), (2), 7894(c)(3), Dec. 19, 1989, 103 Stat. 2430, 2434, 2445, 2449; Pub. L. 103–465, title VII, §767(c)(1), Dec. 8, 1994, 108 Stat. 5039.)
+(Pub. L. 93–406, title I, §203, Sept. 2, 1974, 88 Stat. 854; Pub. L. 96–364, title III, §303, Sept. 26, 1980, 94 Stat. 1292; Pub. L. 98–397, title I, §§102(b), (c), (d)(2), (e)(2), 105(a), Aug. 23, 1984, 98 Stat. 1426–1428, 1436; Pub. L. 99–514, title XI, §§1113(e)(1), (2), (4)(A), 1139(c)(1), title XVIII, §1898(a)(1)(B), (4)(B)(i), (d)(1)(B), (2)(B), Oct. 22, 1986, 100 Stat. 2447, 2448, 2487, 2942, 2944, 2955; Pub. L. 101–239, title VII, §§7861(a)(1), (5)(B), (6)(B), 7862(d)(4), (5), (10), 7891(a)(1), (b)(1), (2), 7894(c)(3), Dec. 19, 1989, 103 Stat. 2430, 2434, 2445, 2449; Pub. L. 103–465, title VII, §767(c)(1), Dec. 8, 1994, 108 Stat. 5039; Pub. L. 104–188, title I, §1442(b), Aug. 20, 1996, 110 Stat. 1808.)
 
 #### Amendments
+
+1996—Subsec. (a)(2). Pub. L. 104–188, §1442(b)(1), substituted “subparagraph (A) or (B)” for “subparagraph (A), (B), or (C)” in introductory provisions.
+
+Subsec. (a)(2)(C). Pub. L. 104–188, §1442(b)(2), struck out subpar. (C) which read as follows: “A plan satisfies the requirements of this subparagraph if—
+
+&emsp;“(i) the plan is a multiemployer plan (within the meaning of section 1002(37)), and
+
+&emsp;“(ii) under the plan—
+
+&emsp;&emsp;“(I) an employee who is covered pursuant to a collective bargaining agreement described in section 1002(37)(A)(ii) of this title and who has completed at least 10 years of service has a nonforfeitable right to 100 percent of the employee's accrued benefit derived from employer contributions, and
+
+&emsp;&emsp;“(II) the requirements of subparagraph (A) or (B) are met with respect to employees not described in subclause (I).”
 
 1994—Subsec. (e)(2). Pub. L. 103–465 amended par. (2) generally. Prior to amendment, par. (2) read as follows:
 
@@ -242,7 +244,7 @@ Subsec. (c)(1)(B). Pub. L. 99–514, §1113(e)(4)(A), substituted “3 years” 
 
 Subsec. (c)(3). Pub. L. 99–514, §1113(e)(2), struck out par. (3) which provided for class year vesting.
 
-Pub. L. 99–514, §1898(a)(1)(B), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The requirements of subsection (a)(2) of this section shall be deemed to be satisfied in the case of a class yearplan if such plan provides that 100 percent of each employee's right to or derived from the contributions of the employer on his behalf with respect to any plan year are nonforfeitable not later than the end of the 5th year following the plan year for which such contributions were made. For purposes of this part, the term ‘class year plan’ means a profit sharing, stock bonus, or money purchase plan which provides for the separate nonforfeitability of employees’ rights to or derived from the contributions for each plan year.”
+Pub. L. 99–514, §1898(a)(1)(B), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The requirements of subsection (a)(2) of this section shall be deemed to be satisfied in the case of a class year plan if such plan provides that 100 percent of each employee's right to or derived from the contributions of the employer on his behalf with respect to any plan year are nonforfeitable not later than the end of the 5th year following the plan year for which such contributions were made. For purposes of this part, the term ‘class year plan’ means a profit sharing, stock bonus, or money purchase plan which provides for the separate nonforfeitability of employees’ rights to or derived from the contributions for each plan year.”
 
 Subsec. (e)(1). Pub. L. 99–514, §1898(d)(1)(B), as amended by Pub. L. 101–239, §7862(d)(4), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “If the present value of any accrued benefit exceeds $3,500, such benefit shall not be treated as nonforfeitable if the plan provides that the present value of such benefit could be immediately distributed without the consent of the participant.”
 
@@ -264,9 +266,13 @@ Subsec. (e). Pub. L. 98–397, §105(a), added subsec. (e).
 
 Subsec. (b)(1)(G). Pub. L. 96–364, §303(2)–(4), added subpar. (G).
 
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–188 applicable to plan years beginning on or after the earlier of (1) the later of (A) Jan. 1, 1997, or (B) the date on which the last of the collective bargaining agreements pursuant to which the plan is maintained terminates (determined without regard to any extension thereof after Aug. 20, 1996), or (2) Jan. 1, 1999, but such amendment not applicable to any individual who does not have more than 1 hour of service under the plan on or after the 1st day of the 1st plan year to which such amendment applies, see section 1442(c) of Pub. L. 104–188, set out as a note under section 411 of Title 26, Internal Revenue Code.
+
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–465 applicable to plan years and limitation years beginning after Dec. 31, 1994, except that employer may elect to treat such amendment as effective on or after Dec. 8, 1994, with provisions relating to reduction of accrued benefits and timing of plan amendment, see section 767(d) of Pub. L. 103–465, set out as a note under section 411 of Title 26, Internal Revenue Code.
+Amendment by Pub. L. 103–465 applicable to plan years and limitation years beginning after Dec. 31, 1994, except that employer may elect to treat such amendment as effective on or after Dec. 8, 1994, with provisions relating to reduction of accrued benefits, exception, and timing of plan amendment, see section 767(d) of Pub. L. 103–465, as amended, set out as a note under section 411 of Title 26, Internal Revenue Code.
 
 #### Effective Date of 1989 Amendment
 
@@ -299,6 +305,10 @@ Amendment by Pub. L. 96–364 effective Sept. 26, 1980, except as specifically p
 Secretary of the Treasury or his delegate to issue before Feb. 1, 1988, final regulations to carry out amendments made by section 1113 of Pub. L. 99–514, see section 1141 of Pub. L. 99–514, set out as a note under section 401 of Title 26, Internal Revenue Code.
 
 Secretary authorized, effective Sept. 2, 1974, to promulgate regulations wherever provisions of this subchapter call for the promulgation of regulations, see section 1031 of this title.
+
+#### Plan Amendments Not Required Until January 1, 1998
+
+For provisions directing that if any amendments made by subtitle D \[§§1401–1465\] of title I of Pub. L. 104–188 require an amendment to any plan or annuity contract, such amendment shall not be required to be made before the first day of the first plan year beginning on or after Jan. 1, 1998, see section 1465 of Pub. L. 104–188, set out as a note under section 401 of Title 26, Internal Revenue Code.
 
 #### Plan Amendments Not Required Until January 1, 1989
 

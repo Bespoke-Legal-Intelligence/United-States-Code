@@ -30,7 +30,7 @@ Capital Acquisition and Corridor Development.—(1) Not more than $250,000,000 m
 
 Operating Expenses.—(1) Not more than $381,000,000 may be appropriated to the Secretary for each of the fiscal years ending September 30, 1993, and September 30, 1994, for the benefit of Amtrak for operating expenses. Not more than 5 percent of the amounts appropriated for each fiscal year shall be used to pay operating expenses under section 24704 of this title for transportation in operation on September 30, 1992.
 
-(2)(A) Not more than the following amounts may be appropriated to the Secretary for thebenefit of Amtrak for operating losses under section 24704 of this title for transportation beginning after September 30, 1992:
+(2)(A) Not more than the following amounts may be appropriated to the Secretary for the benefit of Amtrak for operating losses under section 24704 of this title for transportation beginning after September 30, 1992:
 
 &emsp;(i) $7,500,000 for the fiscal year ending September 30, 1993.
 
@@ -74,7 +74,9 @@ Limitations on Use.—Amounts appropriated under this section may not be used to
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

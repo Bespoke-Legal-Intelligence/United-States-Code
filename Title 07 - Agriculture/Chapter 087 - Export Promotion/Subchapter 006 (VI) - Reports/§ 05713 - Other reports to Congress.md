@@ -1,8 +1,8 @@
 ### §5713. Other reports to Congress
 
-The Secretary shall, on a quarterly basis, prepare and submit to the Committee on Agriculture and the Committee on Foreign Affairs of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report specifying the cumulative amount of export assistance provided by the Commodity Credit Corporation and the Secretary under the programs provided under this chapter, the Commodity Credit Corporation Charter Act \[15 U.S.C. 714 et seq.\], and under the Agricultural Trade Development and Assistance Act of 1954 \[7 U.S.C. 1691 et seq.\] during the current fiscal year. Such information may be provided in individual reports, in a consolidated report, or in the Long-Term Agricultural Trade Strategy Report (and annual updates to such report) prepared under section 5711 of this title.
+Subject to section 6917 of this title, the Secretary shall, on a quarterly basis, prepare and submit to the Committee on Agriculture and the Committee on Foreign Affairs of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report specifying the cumulative amount of export assistance provided by the Commodity Credit Corporation and the Secretary under the programs provided under this chapter, the Commodity Credit Corporation Charter Act \[15 U.S.C. 714 et seq.\], and under the Agricultural Trade Development and Assistance Act of 1954 \[7 U.S.C. 1691 et seq.\] during the current fiscal year. Such information may be provided in individual reports or in a consolidated report.
 
-(Pub. L. 95–501, title VI, §603, as added Pub. L. 101–624, title XV, §1531, Nov. 28, 1990, 104 Stat. 3689.)
+(Pub. L. 95–501, title VI, §603, as added Pub. L. 101–624, title XV, §1531, Nov. 28, 1990, 104 Stat. 3689; amended Pub. L. 104–127, title II, §§241(c)(2), 251, Apr. 4, 1996, 110 Stat. 964, 971.)
 
 #### References in Text
 
@@ -13,6 +13,12 @@ The Agricultural Trade Development and Assistance Act of 1954, referred to in te
 #### Prior Provisions
 
 A prior section 603 of Pub. L. 95–501 enacted provisions set out as a note under section 612c–3 of this title prior to the complete revision of Pub. L. 95–501 by Pub. L. 101–624.
+
+#### Amendments
+
+1996—Pub. L. 104–127, §251, in first sentence, substituted “Subject to section 6917 of this title, the” for “The”.
+
+Pub. L. 104–127, §241(c)(2), in last sentence, substituted “or in a consolidated report” for “, in a consolidated report, or in the Long-Term Agricultural Trade Strategy Report (and annual updates to such report) prepared under section 5711 of this title”.
 
 #### Change of Name
 

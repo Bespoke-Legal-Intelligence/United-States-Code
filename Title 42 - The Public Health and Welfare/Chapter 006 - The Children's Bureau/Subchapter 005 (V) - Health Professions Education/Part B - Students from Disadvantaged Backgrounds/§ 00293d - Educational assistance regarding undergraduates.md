@@ -4,7 +4,7 @@
 
 #### (1) Authority for grants
 
-&emsp;For the purpose of assisting individuals from disadvantaged backgrounds, as determined in accordance with criteria prescribed by the Secretary, to undertake education to enter a health profession, the Secretary may make grants to and enter into contracts with schools of medicine, osteopathic medicine, public health, dentistry, veterinary medicine, optometry, pharmacy, allied health, chiropractic, and podiatric medicine, public and nonprofit private schools which offer graduate programs in clinical psychology, and other public or private nonprofit health or educational entities to assist in meeting the costs described in paragraph (2).
+&emsp;For the purpose of assisting individuals from disadvantaged backgrounds, as determined in accordance with criteria prescribed by theSecretary, to undertake education to enter a health profession, the Secretary may make grants to and enter into contracts with schools of medicine, osteopathic medicine, public health, dentistry, veterinary medicine, optometry, pharmacy, allied health, chiropractic, and podiatric medicine, public and nonprofit private schools which offer graduate programs in clinical psychology, and other public or private nonprofit health or educational entities to assist in meeting the costs described in paragraph (2).
 
 #### (2) Authorized expenditures
 
@@ -68,7 +68,7 @@ The Secretary shall ensure that services and activities under subsection (a) of 
 
 &emsp;&emsp;(C) 10 percent shall be obligated for community-based programs.
 
-&emsp;&emsp;(D) Not more than 5 percent may be obligated for grants and contracts having the primary purpose of informing individuals about the existence and general nature of health careers.
+&emsp;&emsp;(D) Not more than 5 percent may be obligated for grants and contracts having theprimary purpose of informing individuals about the existence and general nature of health careers.
 
 (July 1, 1944, ch. 373, title VII, §740, as added Oct. 13, 1992, Pub. L. 102–408, title I, §102, 106 Stat. 2032.)
 

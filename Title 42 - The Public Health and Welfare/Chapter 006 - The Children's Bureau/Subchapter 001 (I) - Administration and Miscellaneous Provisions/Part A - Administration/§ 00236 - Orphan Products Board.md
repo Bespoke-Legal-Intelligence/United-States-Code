@@ -44,7 +44,7 @@ The Board shall submit to the Committee on Labor and Human Resources of the Sena
 
 &emsp;(3) containing the results of the evaluations carried out by the Board.
 
-> The Director of the National Institutes of Health shall submit to the Board for inclusion in the annual report a report on the rare disease and condition research activities of the Institutes of the National Institutes of Health; the Secretary of the Treasury shall submit to the Board for inclusion in the annual report a report on the use of the credit against tax provided by section 44H <sup>2</sup> of title 26; and the Secretary of Health and Human Services shall submit to the Board for inclusion in the annual report a report on the program of assistance under section 360ee of title 21 for the development of drugs for rare diseases and conditions. Each annual reportshall be submitted by June 1 of each year for the preceding calendar year.
+> The Director of the National Institutes of Health shall submit to the Board for inclusion in the annual report a report on the rare disease and condition research activities of the Institutes of the National Institutes of Health; the Secretary of the Treasury shall submit to the Board for inclusion in the annual report a report on the use of the credit against tax provided by section 44H <sup>2</sup> of title 26; and the Secretary of Health and Human Services shall submit to the Board for inclusion in the annual report a report on the program of assistance under section 360ee of title 21 for the development of drugs for rare diseases and conditions. Each annual report shall be submitted by June 1 of each year for the preceding calendar year.
 
 (July 1, 1944, ch. 373, title II, §227, as added Jan. 4, 1983, Pub. L. 97–414, §3, 96 Stat. 2051; amended Oct. 22, 1986, Pub. L. 99–514, §2, 100 Stat. 2095; July 10, 1992, Pub. L. 102–321, title I, §163(b)(1), 106 Stat. 375; Oct. 27, 1992, Pub. L. 102–531, title III, §312(d)(1), 106 Stat. 3504.)
 
@@ -52,7 +52,7 @@ The Board shall submit to the Committee on Labor and Human Resources of the Sena
 
 The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (c)(1)(A), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended. Subchapter B of the Federal Food, Drug, and Cosmetic Act probably means subchapter B of chapter V of the Federal Food, Drug, and Cosmetic Act which is classified generally to part B (section 360aa et seq.) of subchapter V of chapter 9 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
 
-Section 44H of title 26, referred to in subsec. (e), was renumbered section 28 of title 26, by Pub. L. 98–369, div. A, title IV, §471(c)(1), July 18, 1984, 98 Stat. 826.
+Section 44H of title 26, referred to in subsec. (e), was renumbered section 28 of title 26, by Pub. L. 98–369, div. A, title IV, §471(c)(1), July 18, 1984, 98 Stat. 826, and subsequently renumbered section 45C of title 26 by Pub. L. 104–188, title I, §1205(a)(1), Aug. 20, 1996, 110 Stat. 1775.
 
 #### Prior Provisions
 
@@ -106,7 +106,7 @@ Prior fiscal years.—
 
 &emsp;&emsp;“(A) Except as provided in subparagraph (B), in the case of any program making awards of grants, cooperative agreements, or contracts, if the program began operation prior to the date of the enactment of this Act \[July 10, 1992\] and the program is amended by this Act, awards made prior to October 1, 1992, shall continue to be subject to the terms and conditions upon which such awards were made, notwithstanding the amendments made by this Act.
 
-&emsp;&emsp;“(B) Subparagraph (A) does not apply with respect to the amendments made by this Act to part B of title XIX of the Public Health Service Act \[section 300x et seq. of this title\]. Section 205(a) \[set out as a note under section 300x of this title\] applies with respect to the program established in such part.”
+&emsp;&emsp;“(B) Subparagraph (A) does not apply with respect to the amendments made by this Act to part B of title XIX of the Public Health Service Act \[section 300x et seq. of this title\]. Section 205(a) \[set out as a note under section 300x of this title\] applieswith respect to the program established in such part.”
 
 #### Use of “CDC” as Acronym for Centers for Disease Control and Prevention
 
@@ -214,7 +214,7 @@ Report.—The Commission shall transmit to the Secretary and to each House of th
 
 &emsp;“(2) such legislation or administrative actions as it considers appropriate.
 
-“(<i>o)</i>
+“(<i>o</i>)
 
 Termination.—The Commission shall terminate 90 days after the date of the submittal of its report under subsection (n).
 

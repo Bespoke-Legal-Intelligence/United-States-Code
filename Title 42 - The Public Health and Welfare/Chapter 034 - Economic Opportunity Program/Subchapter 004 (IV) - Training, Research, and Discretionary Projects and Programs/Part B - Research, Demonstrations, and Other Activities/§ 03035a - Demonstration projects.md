@@ -86,7 +86,7 @@ In making grants and contracts under subsection (a)(1) of this section, the Assi
 
 &emsp;&emsp;(B) education, training, and information dissemination projects, including—
 
-&emsp;&emsp;&emsp;(i) projects for the provision of gerontological training to music therapists, and education and training of individuals inthe aging network regarding the efficacy and benefits of music therapy for older individuals; and
+&emsp;&emsp;&emsp;(i) projects for the provision of gerontological training to music therapists, and education and training of individuals in the aging network regarding the efficacy and benefits of music therapy for older individuals; and
 
 &emsp;&emsp;&emsp;(ii) projects for disseminating to the aging network and to music therapists background materials on music therapy, best practice manuals, and other information on providing music therapy to older individuals; and
 
@@ -98,7 +98,7 @@ In making grants and contracts under subsection (a)(1) of this section, the Assi
 
 #### (c) Procedures for identification of persons needing supportive services, compilation of available services, and development of information and referral services
 
-The Assistant Secretary shall consult with the Assistant Secretary <sup>1</sup> of the Rehabilitation Services Administration, the Assistant Secretary <sup>1</sup> of the Social Security Administration, and the Surgeon General of the Public Health Service, to develop procedures for—
+The Assistant Secretary shall consult with the Assistant Secretary <sup>1</sup> of the Rehabilitation Services Administration, the Assistant Secretary <sup>1</sup> of the Social Security Administration, and theSurgeon General of the Public Health Service, to develop procedures for—
 
 &emsp;(1) identifying elderly, blind, and disabled individuals who need supportive services;
 
@@ -154,7 +154,7 @@ Subsec. (b)(2). Pub. L. 102–375, §904(a)(19)(B)(ii), substituted “older ind
 
 Subsec. (b)(6). Pub. L. 102–375, §904(a)(19)(B)(iii), substituted “older individuals residing in rural areas” for “the rural elderly”.
 
-Subsec. (b)(8). Pub. L. 102–375, §§406(2)(A), 904(a)(19)(B)(iv), substituted “older individuals residingin rural areas” for “the rural elderly” and struck out “and” at end.
+Subsec. (b)(8). Pub. L. 102–375, §§406(2)(A), 904(a)(19)(B)(iv), substituted “older individuals residing in rural areas” for “the rural elderly” and struck out “and” at end.
 
 Subsec. (b)(9). Pub. L. 102–375, §406(2)(B), substituted “include projects furnishing multigenerational services by older individuals addressing the needs of children, such as—
 

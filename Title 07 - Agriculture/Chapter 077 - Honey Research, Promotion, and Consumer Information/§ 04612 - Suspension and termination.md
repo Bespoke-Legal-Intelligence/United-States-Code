@@ -26,7 +26,7 @@ The Secretary shall hold a referendum on the request of the Honey Board or when 
 
 #### (d) Marketing year; termination or suspension at end of
 
-The Secretary shall terminate or suspend an order at the end of the marketing year in which a referendum is conducted under subsection (b) or (c) of this section whenever the Secretary determines that such suspension or termination isfavored by a majority of those voting in a referendum and that the producers and importers comprising this majority produce and import more than 50 per centum of the volume of honey produced and imported by those voting in the referendum.
+The Secretary shall terminate or suspend an order at the end of the marketing year in which a referendum is conducted under subsection (b) or (c) of this section whenever the Secretary determines that such suspension or termination is favored by a majority of those voting in a referendum and that the producers and importers comprising this majority produce and import more than 50 per centum of the volume of honey produced and imported by those voting in the referendum.
 
 (Pub. L. 98–590, §13, Oct. 30, 1984, 98 Stat. 3123; Pub. L. 101–624, title XIX, §1985, Nov. 28, 1990, 104 Stat. 3907.)
 

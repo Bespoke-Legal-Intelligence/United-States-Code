@@ -10,7 +10,7 @@ Section is comprised of section 3 (less the first proviso) of act Aug. 11, 1916.
 
 #### Cross References
 
-Map or plan required by this section need not be filed with irrigation district for approval of Secretary of Interior where there is a contract between United States and an irrigation district, see section 513 of this title.
+Map or plan required by this section need not be filed with irrigation district for approval of Secretary of the Interior where there is a contract between United States and an irrigation district, see section 513 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -13,6 +13,7 @@ This part is referred to in section 965 of this title.
 
 - [&sect; 00871 - Attorney General](%C2%A7%2000871%20-%20Attorney%20General.md)
 - [&sect; 00872 - Education and research programs of Attorney General](%C2%A7%2000872%20-%20Education%20and%20research%20programs%20of%20Attorney%20General.md)
+- [&sect; 00872a - Public-private education program](%C2%A7%2000872a%20-%20Public-private%20education%20program.md)
 - [&sect; 00873 - Cooperative arrangements](%C2%A7%2000873%20-%20Cooperative%20arrangements.md)
 - [&sect; 00874 - Advisory committees](%C2%A7%2000874%20-%20Advisory%20committees.md)
 - [&sect; 00875 - Administrative hearings](%C2%A7%2000875%20-%20Administrative%20hearings.md)
@@ -32,3 +33,4 @@ This part is referred to in section 965 of this title.
 - [&sect; 00887 - Coordination and consolidation of post-seizure administration](%C2%A7%2000887%20-%20Coordination%20and%20consolidation%20of%20post-seizure%20administration.md)
 - [&sect; 00888 - Expedited procedures for seized conveyances](%C2%A7%2000888%20-%20Expedited%20procedures%20for%20seized%20conveyances.md)
 - [&sect; 00889 - Production control of controlled substances](%C2%A7%2000889%20-%20Production%20control%20of%20controlled%20substances.md)
+- [&sect; 00890 - Review of Federal sales of chemicals usable to manufacture controlled substances](%C2%A7%2000890%20-%20Review%20of%20Federal%20sales%20of%20chemicals%20usable%20to%20manufacture%20controlled%20substances.md)

@@ -5,11 +5,7 @@
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 03441 - Program formulation and implementation](%C2%A7%2003441%20-%20Program%20formulation%20and%20implementation.md)
-- [&sect; 03442 - Plans; preparation, etc](%C2%A7%2003442%20-%20Plans%3B%20preparation%2C%20etc.md)
-- [&sect; 03443 - Approval of plans](%C2%A7%2003443%20-%20Approval%20of%20plans.md)
-- [&sect; 03444 - Authorization of appropriations](%C2%A7%2003444%20-%20Authorization%20of%20appropriations.md)
-- [&sect; 03445 - Reporting requirement](%C2%A7%2003445%20-%20Reporting%20requirement.md)
+- [&sect; 03441 to 3445 - Repealed. Pub. L. 104&#8211;127, title III, &sect;336(f)(1), Apr. 4, 1996, 110 Stat. 1007](%C2%A7%2003441%20to%203445%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93127%2C%20title%20III%2C%20%C2%A7336%28f%29%281%29%2C%20Apr.%204%2C%201996%2C%20110%20Stat.%201007.md)
 - [&sect; 03451 - Statement of purpose](%C2%A7%2003451%20-%20Statement%20of%20purpose.md)
 - [&sect; 03452 - Definitions](%C2%A7%2003452%20-%20Definitions.md)
 - [&sect; 03453 - Establishment and scope](%C2%A7%2003453%20-%20Establishment%20and%20scope.md)

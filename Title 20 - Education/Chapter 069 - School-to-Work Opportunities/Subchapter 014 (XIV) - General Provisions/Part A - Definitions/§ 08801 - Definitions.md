@@ -26,7 +26,7 @@ Except as otherwise provided, for the purposes of this chapter, the following te
 
 &emsp;&emsp;(A) without regard to the source of funds—
 
-&emsp;&emsp;&emsp;(i) the aggregate current expenditures, during the third fiscal year preceding the fiscal year for which the determination is made (or, if satisfactory data for that year are not available, during the most recent preceding fiscal year for which satisfactory data are available) of all local educational agencies in the State or, in the case of the United States for all States (which, for the purpose of this paragraph, means the 50 States and the District of Columbia); plus
+&emsp;&emsp;&emsp;(i) the aggregate current expenditures, during the third fiscal year preceding the fiscal year for which the determination ismade (or, if satisfactory data for that year are not available, during the most recent preceding fiscal year for which satisfactory data are available) of all local educational agencies in the State or, in the case of the United States for all States (which, for the purpose of this paragraph, means the 50 States and the District of Columbia); plus
 
 &emsp;&emsp;&emsp;(ii) any direct current expenditures by the State for the operation of such agencies; divided by
 
@@ -174,5 +174,5 @@ Except as otherwise provided, for the purposes of this chapter, the following te
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1687, 2471, 4020, 5502, 5802, 8821, 9001 of this title; title 10 section 2194; title 15 sections 2642, 2662; title 29 sections 761a, 794, 1503, 2618; title 42 sections 300j–21, 2000d–4a, 3030g–12, 3030<i>o</i>, 6107, 7382b, 9855, 9877, 12511.
+This section is referred to in sections 1687, 2471, 4020, 5502, 5802, 8821, 9001 of this title; title 2 section 117b–2; title 7 section 3152; title 10 section 2194; title 15 sections 2642, 2662; title 29 sections 761a, 794, 1503, 2618; title 42 sections 300j–21, 2000d–4a, 3030g–12, 3030<i>o</i>, 6107, 7382b, 9855, 9877, 12511.
 

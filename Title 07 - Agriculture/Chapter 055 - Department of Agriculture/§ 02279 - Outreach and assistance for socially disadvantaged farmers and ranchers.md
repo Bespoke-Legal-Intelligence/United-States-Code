@@ -8,7 +8,7 @@
 
 #### (2) Grants and contracts
 
-&emsp;The Secretary may make grants and enter into contracts and other agreements in thefurtherance of this section with the following entities—
+&emsp;The Secretary may make grants and enter into contracts and other agreements in the furtherance of this section with the following entities—
 
 &emsp;&emsp;(A) any community based organization that—
 

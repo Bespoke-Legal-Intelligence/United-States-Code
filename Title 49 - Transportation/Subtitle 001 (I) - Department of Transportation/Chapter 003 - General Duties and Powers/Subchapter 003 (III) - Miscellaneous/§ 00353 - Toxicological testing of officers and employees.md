@@ -16,7 +16,9 @@ Noncompliance Not a Defense.—An officer or employee required to submit to toxi
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

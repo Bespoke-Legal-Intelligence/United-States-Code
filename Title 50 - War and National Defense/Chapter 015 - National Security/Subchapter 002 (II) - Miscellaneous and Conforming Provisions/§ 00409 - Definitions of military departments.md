@@ -10,7 +10,7 @@
 
 #### References in Text
 
-This Act, referred to in text, means act July 26, 1947, ch. 343, 61 Stat. 495, as amended, known as the National Security Act of 1947. For complete classification of this Act to the Code, see Short Title note set out under section 401 of this title and Tables.
+This Act, referred to in text, means act July 26, 1947, ch. 343, 61 Stat. 495, as amended, known as the NationalSecurity Act of 1947. For complete classification of this Act to the Code, see Short Title note set out under section 401 of this title and Tables.
 
 #### Codification
 

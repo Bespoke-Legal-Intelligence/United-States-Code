@@ -22,7 +22,7 @@ Each institution of higher education, in order to carry out the provisions of se
 
 &emsp;(9) an explanation of any special options the borrower may have for loan consolidation or other refinancing of the loan;
 
-&emsp;(10) a statement that the borrower has the right to prepay all or part of the loan, at any time, without penalty, a statement summarizing circumstances in which repayment of the loan or interest that accrues on the loan may be deferred, and a brief notice of the program for repayment of loans, on the basis of military service, pursuant to the Department of Defense educational loan repayment program (10 U.S.C. 2172); <sup>1</sup>
+&emsp;(10) a statement that the borrower has the right to prepay all or part of the loan, at any time, without penalty, a statement summarizing circumstances in which repayment of the loan or interest that accrues on the loan may be deferred, and a brief notice of the program for repayment of loans, on the basis of military service, pursuant to the Department of Defense educational loan repayment program (10 U.S.C. 16302);
 
 &emsp;(11) a definition of default and the consequences to the borrower if the borrower defaults, together with a statement that the disbursement of, and the default on, a loan under this part, shall be reported to a credit bureau or credit reporting agency;
 
@@ -56,17 +56,15 @@ Each institution of higher education shall enter into an agreement with the Secr
 
 Such information shall be available without cost to the borrower. The failure of an eligible institution to provide information as required by this section shall not (1) relieve a borrower of the obligation to repay a loan in accordance with its terms, (2) provide a basis for a claim for civil damages, or (3) be deemed to abrogate the obligation of the Secretary to make payments with respect to such loan.
 
-(Pub. L. 89–329, title IV, §463A, as added Pub. L. 99–498, title IV, §405(a), Oct. 17, 1986, 100 Stat. 1446; amended Pub. L. 100–50, §13(g), (h), June 3, 1987, 101 Stat. 349; Pub. L. 102–325, title IV, §463(c), July 23, 1992, 106 Stat. 579; Pub. L. 103–208, §2(f)(8), Dec. 20, 1993, 107 Stat. 2471.)
-
-#### References in Text
-
-Section 2172 of title 10, referred to in subsec. (a)(10), was renumbered section 16302 of Title 10, Armed Forces, by Pub. L. 103–337, div. A, title XVI, §1663(d)(2)(A), Oct. 5, 1994, 108 Stat. 3009.
+(Pub. L. 89–329, title IV, §463A, as added Pub. L. 99–498, title IV, §405(a), Oct. 17, 1986, 100 Stat. 1446; amended Pub. L. 100–50, §13(g), (h), June 3, 1987, 101 Stat. 349; Pub. L. 102–325, title IV, §463(c), July 23, 1992, 106 Stat. 579; Pub. L. 103–208, §2(f)(8), Dec. 20, 1993, 107 Stat. 2471; Pub. L. 104–106, div. A, title XV, §1501(e)(4), Feb. 10, 1996, 110 Stat. 501.)
 
 #### Prior Provisions
 
-A prior section 1087cc–1, Pub. L. 89–329, title IV, §463A, as added Pub. L. 96–374, title IV, §447(b), Oct. 3, 1980, 94 Stat. 1443; amended Pub. L. 97–301, §13, Oct. 13, 1982, 96 Stat. 1405; Pub. L. 98–79, §3(b), Aug. 15, 1983, 97 Stat. 478; Pub. L. 99–272, title XVI, §16027, Apr. 7, 1986, 100 Stat. 353, related to student loan information to be provided by institutions, prior to the general revision of this part by Pub. L. 99–498.
+A prior section 1087cc–1, Pub. L. 89–329, title IV, §463A, as added Pub. L. 96–374, title IV, §447(b), Oct. 3, 1980, 94 Stat. 1443; amended Pub. L. 97–301, §13, Oct. 13, 1982, 96 Stat. 1405; Pub. L. 98–79, §3(b), Aug. 15, 1983, 97Stat. 478; Pub. L. 99–272, title XVI, §16027, Apr. 7, 1986, 100 Stat. 353, related to student loan information to be provided by institutions, prior to the general revision of this part by Pub. L. 99–498.
 
 #### Amendments
+
+1996—Subsec. (a)(10). Pub. L. 104–106 substituted “(10 U.S.C. 16302)” for “(10 U.S.C. 2172)”.
 
 1993—Subsecs. (d), (e). Pub. L. 103–208 struck out subsecs. (d) and (e), which read as follows:
 
@@ -86,6 +84,10 @@ Subsecs. (d), (e). Pub. L. 102–325, §463(c)(2), added subsecs. (d) and (e).
 
 Subsec. (a)(10). Pub. L. 100–50, §13(h), substituted “the Department of Defense educational loan repayment program (10 U.S.C. 2172)” for “section 902 of the Department of Defense Authorization Act, 1981 (10 U.S.C. 2141, note)”.
 
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–106 effective as if included in the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as enacted on Oct. 5, 1994, see section 1501(f)(3) of Pub. L. 104–106, set out as a note under section 113 of Title 10, Armed Forces.
+
 #### Effective Date of 1993 Amendment
 
 Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1003 of this title.
@@ -101,6 +103,4 @@ Section applicable only to loans made for periods of enrollment beginning on or 
 #### Section Referred to in Other Sections
 
 This section is referred to in section 1087cc of this title.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -62,5 +62,5 @@ Section 1(c)(5)(B) of Pub. L. 92–303 provided that: “Only section 205(b), (g
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 902 of this title.
+This section is referred to in section 902 of this title; title 31 section 3716.
 

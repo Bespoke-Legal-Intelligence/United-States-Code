@@ -58,7 +58,7 @@ The Secretary of the Interior may from time to time make such provisions as he s
 
 #### Sec. 3. Assistant Secretary of the Interior
 
-There shall be in the Department of the Interior one additional Assistant Secretary of the Interior, who shall be appointed by the President, by and with the advice and consent of the Senate, who shall performsuch duties as the Secretary of the Interior shall prescribe, and who shall receive compensation at the rate prescribed by law for Assistant Secretaries of executive departments.
+There shall be in the Department of the Interior one additional Assistant Secretary of the Interior, who shall be appointed by the President, by and with the advice and consent of the Senate, who shall perform such duties as the Secretary of the Interior shall prescribe, and who shall receive compensation at the rate prescribed by law for Assistant Secretaries of executive departments.
 
 #### Sec. 4. Administrative Assistant Secretary
 

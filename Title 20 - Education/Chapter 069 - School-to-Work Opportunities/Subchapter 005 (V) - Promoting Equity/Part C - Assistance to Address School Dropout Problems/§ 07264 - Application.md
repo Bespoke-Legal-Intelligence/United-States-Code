@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;A grant under this part may be made only to a local educational agency or an educational partnership which submits an application tothe Secretary containing such information as may be required by the Secretary by regulation.
+&emsp;A grant under this part may be made only to a local educational agency or an educational partnership which submits an application to the Secretary containing such information as may be required by the Secretary by regulation.
 
 #### (2) Duration
 
@@ -24,7 +24,7 @@ Each such application shall—
 
 &emsp;(3) include a plan for coordinated activities involving not less than one secondary school and its feeder junior high or middle schools and elementary schools for local educational agencies that have feeder systems;
 
-&emsp;(4) when applicable, describe how programs assisted under this part will be coordinated with, and not duplicate, programs assisted under subchapter I of this chapter;
+&emsp;(4) when applicable, describe how programs assisted under this part will be coordinatedwith, and not duplicate, programs assisted under subchapter I of this chapter;
 
 &emsp;(5) include a description of how the program assisted under this part is consistent with the second National Education Goal, relating to school completion, and other Federal programs as appropriate; and
 

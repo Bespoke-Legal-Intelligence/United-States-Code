@@ -2,7 +2,7 @@
 
 #### (a) Discriminatory practices prohibited; employees or applicants for employment subject to coverage
 
-All personnel actions affecting employees or applicants for employment (except with regard to aliens employed outside the limits of the United States) in military departments as defined in section 102 of title 5, in executive agencies as defined in section 105 of title 5 (including employees and applicants for employment who are paid from nonappropriated funds), in the United States Postal Service and the Postal Rate Commission, in those units of the Government of the District of Columbia having positions in the competitive service, and in those units of the judicial branch of the Federal Government having positions in the competitive service, and in the Government Printing Office,the General Accounting Office, and the Library of Congress shall be made free from any discrimination based on race, color, religion, sex, or national origin.
+All personnel actions affecting employees or applicants for employment (except with regard to aliens employed outside the limits of the United States) in military departments as defined in section 102 of title 5, in executive agencies as defined in section 105 of title 5 (including employees and applicants for employment who are paid from nonappropriated funds), in the United States Postal Service and the Postal Rate Commission, in those units of the Government of the District of Columbia having positions in the competitive service, and in those units of the judicial branch of the Federal Government having positions in the competitive service, and in the Government Printing Office, the General Accounting Office, and the Library of Congress shall be made free from any discrimination based on race, color, religion, sex, or national origin.
 
 #### (b) Equal Employment Opportunity Commission; enforcement powers; issuance of rules, regulations, etc.; annual review and approval of national and regional equal employment opportunity plans; review and evaluation of equal employment opportunity programs and publication of progress reports; consultations with interested parties; compliance with rules, regulations, etc.; contents of national and regional equal employment opportunity plans; authority of Librarian of Congress
 
@@ -38,7 +38,7 @@ Nothing contained in this Act shall relieve any Government agency or official of
 
 #### References in Text
 
-This Act, referred to in subsec. (e), means Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended, known as the Civil Rights Act of 1964, which is classified principally to subchapters II to IX of this chapter (§2000a et seq.). For complete classification of this Act to theCode, see Short Title note set out under section 2000a of this title and Tables.
+This Act, referred to in subsec. (e), means Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended, known as the Civil Rights Act of 1964, which is classified principally to subchapters II to IX of this chapter (§2000a et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 2000a of this title and Tables.
 
 Executive Order 11478, as amended, referred to in subsecs. (c) and (e), is set out as a note under section 2000e of this title.
 
@@ -70,7 +70,7 @@ Amendment by Pub. L. 96–191 effective Oct. 1, 1980, see section 10(a) of Pub. 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1981a, 2000e, 12209 of this title; title 2 sections 60<i>l</i>, 1202, 1361; title 5 sections 2302, 7201, 7702, 7703; title 22 sections 3905, 4131; title 29 section 794a.
+This section is referred to in sections 1981a, 2000e, 12209 of this title; title 2 sections 60<i>l</i>, 1202, 1361; title 3 sections 411, 435; title 5 sections 2302, 7201, 7702, 7703; title 22 sections 3905, 4131; title 28 section 3905; title 29 section 794a.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

@@ -6,19 +6,49 @@ The Secretary is authorized to make and insure loans under this subchapter to fa
 
 #### (b) Rural youths in 4–H Clubs, Future Farmers of America, etc.
 
-(1) Loans may also be made under this subchapter without regard to the requirements of clauses (2) and (3) of subsection (a) of this section to youths who are rural residents to enable them to operate enterprises in connection with their participation in 4–H Clubs, Future Farmers of America, and similar organizations and for the purposes specified in section 1942 of this title.
+(1) Loans may also be made under this subchapter without regard to the requirements of clauses (2) and (3) of subsection (a) of this section to youths who are rural residents to enable them to operate enterprises in connection with their participation in 4–H Clubs, Future Farmers of America, and similar organizations.
 
 (2) A person receiving a loan under this subsection who executes a promissory note therefor shall thereby incur full personal liability for the indebtedness evidenced by such note in accordance with its terms free of any disability of minority.
 
 (3) For loans under this subsection the Secretary may accept the personal liability of a cosigner of the promissory note in addition to the borrowers’ personal liability.
 
-#### (c) Restriction on eligibility
+(4)
 
-The Secretary may not restrict eligibility for loans made or insured under this subchapter for purposes set forth in section 1942 of this title solely to borrowers of loans that are outstanding on December 23, 1985.
+Youth enterprises not farming or ranching.—The operation of an enterprise by a youth under this subsection shall not be considered the operation of a farm or ranch under this chapter.
 
-(Pub. L. 87–128, title III, §311, Aug. 8, 1961, 75 Stat. 310; Pub. L. 92–419, title I, §120(a), Aug. 30, 1972, 86 Stat. 665; Pub. L. 95–334, title I, §114, Aug. 4, 1978, 92 Stat. 425; Pub. L. 97–98, title XVI,§1601(b), Dec. 22, 1981, 95 Stat. 1346; Pub. L. 99–198, title XIII, §§1301(a), 1302(b), 1303, Dec. 23, 1985, 99 Stat. 1518, 1519.)
+#### (c) Direct loans
+
+#### (1) In general
+
+&emsp;Subject to paragraph (3), the Secretary may make a direct loan under this subchapter only to a farmer or rancher who—
+
+&emsp;&emsp;(A) is a qualified beginning farmer or rancher who has not operated a farm or ranch, or who has operated a farm or ranch for not more than 5 years;
+
+&emsp;&emsp;(B) has not received a previous direct operating loan made under this subchapter; or
+
+&emsp;&emsp;(C) has received a previous direct operating loan made under this subchapter during 6 or fewer years.
+
+#### (2) Youth loans
+
+&emsp;In this subsection, the term “direct operating loan” shall not include a loan made to a youth under subsection (b) of this section.
+
+#### (3) Transition rule
+
+&emsp;If, as of April 4, 1996, a farmer or rancher has received a direct operating loan under this subchapter during each of 4 or more previous years, the borrower shall be eligible to receive a direct operating loan under this subchapter during 3 additional years after April 4, 1996.
+
+(Pub. L. 87–128, title III, §311, Aug. 8, 1961, 75 Stat. 310; Pub. L. 92–419, title I, §120(a), Aug. 30, 1972, 86 Stat. 665; Pub. L. 95–334, title I, §114, Aug. 4, 1978, 92 Stat. 425; Pub. L. 97–98, title XVI, §1601(b), Dec. 22, 1981, 95 Stat. 1346; Pub. L. 99–198, title XIII, §§1301(a), 1302(b), 1303, Dec. 23, 1985, 99 Stat. 1518, 1519; Pub. L. 104–127, title VI, §§611, 661(f), Apr. 4, 1996, 110 Stat. 1087, 1107.)
+
+#### References in Text
+
+For definition of “this chapter”, referred to in subsec. (b)(4), see note set out under section 1921 of this title.
 
 #### Amendments
+
+1996—Subsec. (b)(1). Pub. L. 104–127, §661(f), struck out “and for the purposes specified in section 1942 of this title” before period at end.
+
+Subsec. (b)(4). Pub. L. 104–127, §611(b), added par. (4).
+
+Subsec. (c). Pub. L. 104–127, §611(a), added subsec. (c) and struck out former subsec. (c) which read as follows: “The Secretary may not restrict eligibility for loans made or insured under this subchapter for purposes set forth in section 1942 of this title solely to borrowers of loans that are outstanding on December 23, 1985.”
 
 1985—Subsec. (a). Pub. L. 99–198, §1301(a), substituted—
 
@@ -38,9 +68,17 @@ Subsec. (c). Pub. L. 99–198, §1302(b), added subsec. (c).
 
 1972—Pub. L. 92–419 designated existing provisions as subsec. (a) and added subsec. (b).
 
+#### Effective Date of 1996 Amendment
+
+Amendment by section 611 of Pub. L. 104–127 effective 90 days after Apr. 4, 1996, and amendment by section 661(f) of Pub. L. 104–127 effective Apr. 4, 1996, see section 663(a), (b) of Pub. L. 104–127, set out as a note under section 1922 of this title.
+
 #### Effective Date of 1981 Amendment
 
 Amendment by Pub. L. 97–98 effective Dec. 22, 1981, see section 1801 of Pub. L. 97–98, set out as an Effective Date note under section 4301 of this title.
+
+#### Authority of Secretary To Make or Guarantee Certain Loans
+
+Pub. L. 104–134, title II, §2002, Apr. 26, 1996, 110 Stat. 1321–313, provided that: “Notwithstanding any other provision of law, the Secretary of Agriculture is hereby authorized to make or guarantee an operating loan under Subtitle B \[7 U.S.C. 1941 et seq.\] or an emergency loan under Subtitle C \[7 U.S.C. 1961 et seq.\] of the Consolidated Farm and Rural Development Act (7 U.S.C. 1922 et. seq.), as in effect prior to April 4, 1996, to a loan applicant who was less than 90 days delinquent on April 4, 1996, if the loan applicant had submitted an application for the loan prior to April 5, 1996.”
 
 #### 1989 Farm Operating Loans
 
@@ -80,5 +118,5 @@ Pub. L. 100–387, title III, §312, Aug. 11, 1988, 102 Stat. 948.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1942, 2006a of this title.
+This section is referred to in sections 1922, 1994, 2006a of this title.
 

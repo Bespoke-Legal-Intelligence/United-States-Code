@@ -6,9 +6,9 @@ The President is authorized to delegate and assign any duties or powers imposed 
 
 #### Ex. Ord. No. 12580. Superfund Implementation
 
-Ex. Ord. No. 12580, Jan. 23, 1987, 52 F.R. 2923, as amended by Ex. Ord. No. 12777, §1(a), Oct. 18, 1991, 56 F.R. 54757, provided:
+Ex. Ord. No. 12580, Jan. 23, 1987, 52 F.R. 2923, as amended by Ex. Ord. No. 12777, §1(a), Oct. 18, 1991, 56 F.R. 54757; Ex. Ord. No. 13016, Aug. 28, 1996, 61 F.R. 45871, provided:
 
-By the authority vested in me as President of the United States of America by Section 115 of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980, as amended (42 U.S.C. 9615 <i>et seq.</i>) (“the Act”), and by Section 301 of Title 3 of the United States Code, it is hereby ordered as follows:
+By the authority vested in me as President of the United States of America by Section 115 of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980, as amended (42 U.S.C. 9615 <i>et seq</i>.) (“the Act”), and by Section 301 of Title 3 of the United States Code, it is hereby ordered as follows:
 
 Section 1. <i>National Contingency Plan</i>. (a)(1) The National Contingency Plan (“the NCP”), shall provide for a National Response Team (“the NRT”) composed of representatives of appropriate Federal departments and agencies for national planning and coordination of preparedness and response actions, and Regional Response Teams as the regional counterparts to the NRT for planning and coordination of regional preparedness and response actions.
 
@@ -82,9 +82,13 @@ Sec. 4. <i>Enforcement</i>. (a) The functions vested in the President by Section
 
 (2) Subject to subsection\[s\] (a) and (b)(2) of this Section, the functions vested in the President by Section 109 of the Act \[42 U.S.C. 9609\], relating to violations of Sections 103(a) and (b), and 122 of the Act \[42 U.S.C. 9603(a), (b), 9622\], are delegated to the Coast Guard with respect to any release or threatened release involving the coastal zone, Great Lakes waters, ports, and harbors.
 
+(3) Subject to subsections (a) and (b)(1) of this section, the functions vested in the President by sections 106(a) \[42 U.S.C. 9606(a)\] and 122 \[42 U.S.C. 9622\] (except subsection (b)(1)) of the Act are delegated to the Secretary of the Interior, the Secretary of Commerce, the Secretary of Agriculture, the Secretary of Defense, and the Secretary of Energy, to be exercised only with the concurrence of the Coast Guard, with respect to any release or threatened release in the coastal zone, Great Lakes waters, ports, and harbors, affecting (1) natural resources under their trusteeship, or (2) a vessel or facility subject to their custody, jurisdiction, or control. Such authority shall not be exercised at any vessel or facility at which the Coast Guard is the lead Federal agency for the conduct or oversight of a response action. Such authority shall not be construed to authorize or permit use of the Hazardous Substance Superfund to implement section 106 or to fund performance of any response action in lieu of the payment by a person who receives but does not comply with an order pursuant to section 106(a), where such order has been issued by the Secretary of the Interior, the Secretary of Commerce, the Secretary of Agriculture, the Secretary of Defense, or the Secretary of Energy. This subsection shall not be construed to limit any authority delegated by any other section of this order. Authority granted under this subsection shall be exercised in a manner to ensure interagency coordination that enhances efficiency and effectiveness.
+
 (d)(1) Subject to subsections (a), (b)(1), and (c)(1) of this Section, the functions vested in the President by Sections 106 and 122 of the Act \[42 U.S.C. 9606, 9622\] are delegated to the Administrator.
 
 (2) Subject to subsections (a), (b)(2), and (c)(2) of this Section, the functions vested in the President by Section 109 of the Act \[42 U.S.C. 9609\], relating to violations of Sections 103 and 122 of the Act \[42 U.S.C. 9603, 9622\], are delegated to the Administrator.
+
+(3) Subject to subsections (a), (b)(1), and (c)(1) of this section, the functions vested in the President by sections 106(a) \[42 U.S.C. 9606(a)\] and 122 \[42 U.S.C. 9622\] (except subsection (b)(1)) of the Act are delegated to the Secretary of the Interior, the Secretary of Commerce, the Secretary of Agriculture, the Secretary of Defense, and the Department of Energy, to be exercised only with the concurrence of the Administrator, with respect to any release or threatened release affecting (1) natural resources under their trusteeship, or (2) a vessel or facility subject to their custody, jurisdiction, or control. Such authority shall not be exercised at any vessel or facility at which the Administrator is the lead Federal official for the conduct or oversight of a response action. Such authority shall not be construed to authorize or permit use of the Hazardous Substance Superfund to implement section 106 or to fund performance of any response action in lieu of the payment by a person who receives but does not comply with an order pursuant to section 106(a), where such order has been issued by the Secretary of the Interior, the Secretary of Commerce, the Secretary of Agriculture, the Secretary of Defense, or the Secretary of Energy. This subsection shall not be construed to limit any authority delegated by any other section of this order. Authority granted under this subsection shall be exercised in a manner to ensure interagency coordination that enhances efficiency and effectiveness.
 
 (e) Notwithstanding any other provision of this Order, the authority under Sections 104(e)(5)(A) and 106(a) of the Act \[42 U.S.C. 9604(e)(5)(A), 9606(a)\] to seek information, entry, inspection, samples, or response actions from Executive departments and agencies may be exercised only with the concurrence of the Attorney General.
 
@@ -169,6 +173,4 @@ Sec. 11. <i>General Provisions</i>. (a) The function vested in the President by 
 (g) The following functions vested in the President by the Act which have been delegated or assigned by this Order may be redelegated to the head of any Executive department or agency with his consent: functions set forth in Sections 2 (except subsection (b)), 3, 4(b), 4(c), 4(d), 5(b), 5(c), and 8(c) of this Order.
 
 (h) Executive Order No. 12316 of August 14, 1981, is revoked.
-
-Ronald Reagan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

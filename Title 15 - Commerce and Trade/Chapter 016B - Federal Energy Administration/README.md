@@ -22,7 +22,7 @@
 | (b) | Adjustments; procedures respecting application and operation; judicial review. |
 | (c) | Judicial review of administrative rulemaking; filing of petition in United States Court of Appeals. |
 | (d) | to (k) Repealed or Redesignated. |
-| (<i>l)</i> | Authority and responsibility of General Counsel. |
+| (<i>l</i>) | Authority and responsibility of General Counsel. |
 | [767\.](Subchapter%20001%20%28I%29%20-%20Federal%20Energy%20Administration/%C2%A7%2000767%20-%20Transitional%20and%20savings%20provisions.md) | Transitional and savings provisions. |
 | (a) | Continuance of effective status. |
 | (b) | Pending proceedings; orders, appeals, payments. |
@@ -110,10 +110,7 @@
 | (d) | Rules relating to Administration procurement activities. |
 | (e) | Participation of Administration employees in organizations relating to promulgation of commercial standards. |
 | (f) | “Commercial standards” defined. |
-| [789\.](Subchapter%20001%20%28I%29%20-%20Federal%20Energy%20Administration/%C2%A7%2000789%20-%20Organizational%20conflicts.md) | Organizational conflicts. |
-| (a) | Information bearing on possible conflict of interest. |
-| (b) | Required finding that no conflict of interest exists or that conflicts have been avoided; mitigation of conflict when conflict is unavoidable. |
-| (c) | Rules and regulations. |
+| [789\.](Subchapter%20001%20%28I%29%20-%20Federal%20Energy%20Administration/%C2%A7%2000789%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93106%2C%20div.%20D%2C%20title%20XLIII%2C%20%C2%A74304%28b%29%282%29%2C%20Feb.%2010%2C%201996%2C%20110%20Stat.%20664.md) | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -54,7 +54,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 (a)–(c)
 
@@ -80,9 +82,9 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-<b>1988</b>—Subsec. (c)(2). Pub. L. 100–238 inserted “or 8401(17)” after “8331(20)”.
+1988—Subsec. (c)(2). Pub. L. 100–238 inserted “or 8401(17)” after “8331(20)”.
 
-<b>1980</b>—Subsec. (a). Pub. L. 96–427, §2(b), substituted new formula for group life insurance to be computed by multiplying the basic insurance with a factor to be obtained from the table based on age for provisions calling for group life insurance and an equal amount of death and dismemberment insurance in accordance with a schedule based on the basic pay with special provision for extension by the amount of increase in the annual rates of basic pay for positions at level II of the Executive Schedule under section 5313 of this title. Prior to this amendment, the table was as follows:
+1980—Subsec. (a). Pub. L. 96–427, §2(b), substituted new formula for group life insurance to be computed by multiplying the basic insurance with a factor to be obtained from the table based on age for provisions calling for group life insurance and an equal amount of death and dismemberment insurance in accordance with a schedule based on the basic pay with special provision for extension by the amount of increase in the annual rates of basic pay for positions at level II of the Executive Schedule under section 5313 of this title. Prior to this amendment, the table was as follows:
 
 &nbsp;
 
@@ -113,19 +115,19 @@ Standard changes are made to conform with the definitions applicable and the sty
 | 28,000&nbsp;&nbsp; | 29,000&nbsp;&nbsp; | 31,000&nbsp;&nbsp; | 31,000&nbsp;&nbsp; |
 | 29,000&nbsp;&nbsp; | &nbsp; | 32,000&nbsp;&nbsp; | 32,000&nbsp;&nbsp; |
 
-Subsec. (b). Pub. L. 96–427, §2(c), inserted provision that an employee eligible for insurance is entitled to be insured for group accidental death and dismemberment insurance in accordance with this subsection and substituted reference to employee's basic insurance amount for reference to the amount shown in the schedule in subsec. (a) of this section in four places.
+Subsec. (b). Pub. L. 96–427, §2(c), inserted provision that an employee eligible for insurance is entitled to beinsured for group accidental death and dismemberment insurance in accordance with this subsection and substituted reference to employee's basic insurance amount for reference to the amount shown in the schedule in subsec. (a) of this section in four places.
 
 Subsec. (c). Pub. L. 96–427, §2(d), expanded definition of “annual pay” to include premium pay under section 5545(c)(2) of this title with respect to a law enforcement officer as defined in section 8331(20) of this title.
 
-<b>1978</b>—Subsecs. (b), (c). Pub. L. 95–454, §906(a)(2), (3), substituted “Office of Personnel Management” and “Office” for “Civil Service Commission” and “Commission”, respectively, wherever appearing.
+1978—Subsecs. (b), (c). Pub. L. 95–454, §906(a)(2), (3), substituted “Office of Personnel Management” and “Office” for “Civil Service Commission” and “Commission”, respectively, wherever appearing.
 
 Subsec. (d)(1). Pub. L. 95–454, §801(a)(3)(E), substituted “subchapter VI of chapter 53” for “section 5337”.
 
-<b>1972</b>—Subsec. (d)(2). Pub. L. 92–392 substituted “section 5344 or 5349 of this title” for “section 5343 of this title” and added the exception.
+1972—Subsec. (d)(2). Pub. L. 92–392 substituted “section 5344 or 5349 of this title” for “section 5343 of this title” and added the exception.
 
-<b>1967</b>—Subsec. (a). Pub. L. 90–206, in material preceding the table, struck out reference to an approximate relationship between the amount of group life insurance and the eligible employee's annual pay and inserted reference to an automatic extension of the schedule correspondingly by the amounts of increases in the annual rate of basic pay for positions at level II of the Executive Schedule under section 5313 of this title, and raised the insurance coverages for both life and accidental death and dismemberment.
+1967—Subsec. (a). Pub. L. 90–206, in material preceding the table, struck out reference to an approximate relationship between the amount of group life insurance and the eligible employee's annual pay and inserted reference to an automatic extension of the schedule correspondingly by the amounts of increases in the annual rate of basic pay for positions at level II of the Executive Schedule under section 5313 of this title, and raised the insurance coverages for both life and accidental death and dismemberment.
 
-<b>1966</b>—Subsec. (c). Pub. L. 89–737 inserted provision that, for the purpose of this chapter, “annual pay” includes premium pay under section 5545(c)(1) of this title.
+1966—Subsec. (c). Pub. L. 89–737 inserted provision that, for the purpose of this chapter, “annual pay” includes premium pay under section 5545(c)(1) of this title.
 
 #### Effective Date of 1988 Amendment
 

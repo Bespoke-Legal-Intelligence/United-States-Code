@@ -26,7 +26,7 @@ Not later than January 1, 1992, the Administrator shall promulgate regulations u
 
 #### (2) Promulgation of additional low-polluting fuel requirement
 
-&emsp;(A) If the Administrator determines, based on the testing under paragraph (1), that urban buses subject to the particulate matter (PM) standard applicable pursuant to subsection (b) of this section do not comply with such standard in use over their full useful life, he shall revise the standards applicable to such buses to require (in addition to compliance with the PM standard applicable pursuant to subsection (b) of this section) that all new urban buses purchased or placed into service by owners or operators of urban buses in all metropolitan statistical areas or consolidated metropolitan statistical areas with a 1980 population of 750,000 or more shall be capable of operating, and shall be exclusively operated, on low-polluting fuels. The Administrator shall establish the pass-fail rate for purposes of testing under this subparagraph.
+&emsp;(A) If the Administrator determines, based on the testing under paragraph (1), that urbanbuses subject to the particulate matter (PM) standard applicable pursuant to subsection (b) of this section do not comply with such standard in use over their full useful life, he shall revise the standards applicable to such buses to require (in addition to compliance with the PM standard applicable pursuant to subsection (b) of this section) that all new urban buses purchased or placed into service by owners or operators of urban buses in all metropolitan statistical areas or consolidated metropolitan statistical areas with a 1980 population of 750,000 or more shall be capable of operating, and shall be exclusively operated, on low-polluting fuels. The Administrator shall establish the pass-fail rate for purposes of testing under this subparagraph.
 
 &emsp;(B) The Administrator shall promulgate a schedule phasing in any low-polluting fuel requirement established pursuant to this paragraph to an increasing percentage of new urban buses purchased or placed into service in each of the first 5 model years commencing 3 years after the determination under subparagraph (A). Under such schedule 100 percent of new urban buses placed into service in the fifth model year commencing 3 years after the determination under subparagraph (A) shall comply with the low-polluting fuel requirement established pursuant to this paragraph.
 
@@ -36,7 +36,7 @@ Not later than January 1, 1992, the Administrator shall promulgate regulations u
 
 Not later than 12 months after November 15, 1990, the Administrator shall promulgate regulations under section 7521(a) of this title requiring that urban buses which—
 
-&emsp;(1) are operating in areas referred to in subparagraph (A) of subsection (c)(2) of this section (or subparagraph (C) of subsection (c)(2)of this section if the Administrator has taken action under that subparagraph);
+&emsp;(1) are operating in areas referred to in subparagraph (A) of subsection (c)(2) of this section (or subparagraph (C) of subsection (c)(2) of this section if the Administrator has taken action under that subparagraph);
 
 &emsp;(2) were not subject to standards in effect under the regulations under subsection (a) of this section; and
 

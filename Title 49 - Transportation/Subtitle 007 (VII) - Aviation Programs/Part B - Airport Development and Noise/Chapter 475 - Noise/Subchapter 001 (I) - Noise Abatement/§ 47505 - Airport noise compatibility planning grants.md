@@ -2,7 +2,7 @@
 
 (a)
 
-General Authority.—The Secretary of Transportation may make a grant to a sponsorof an airport to develop, for planning purposes, information necessary to prepare and submit—
+General Authority.—The Secretary of Transportation may make a grant to a sponsor of an airport to develop, for planning purposes, information necessary to prepare and submit—
 
 &emsp;(1) a noise exposure map and related information under section 47503 of this title, including the cost of obtaining the information; or
 
@@ -16,7 +16,9 @@ Availability of Amounts and Government's Share of Costs.—A grant under subsect
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -32,5 +34,5 @@ In subsection (a), before clause (1), the words “incur obligations to” are o
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 40117, 47117, 48103 of this title.
+This section is referred to in sections 40117, 47115, 47117, 48103 of this title.
 

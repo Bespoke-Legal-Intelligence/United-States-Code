@@ -62,7 +62,7 @@ The Federal share of assistance under this section shall be not less than—
 
 #### (2) Special rule
 
-&emsp;In any case in which the facility being repaired, restored, reconstructed, or replacedunder this section was under construction on the date of the major disaster, the cost of repairing, restoring, reconstructing, or replacing such facility shall include, for purposes of this section, only those costs which, under the contract for such construction, are the owner's responsibility and not the contractor's responsibility.
+&emsp;In any case in which the facility being repaired, restored, reconstructed, or replaced under this section was under construction on the date of the major disaster, the cost of repairing, restoring, reconstructing, or replacing such facility shall include, for purposes of this section, only those costs which, under the contract for such construction, are the owner's responsibility and not the contractor's responsibility.
 
 #### (f) Associated expenses
 
@@ -102,7 +102,7 @@ For purposes of this section, associated expenses include the following:
 
 #### (5) Other labor costs
 
-&emsp;Base and overtime wages for an applicant's employees and extra hires performing eligible work plus fringe benefits on such wages to the extent that such benefits were being paid before the disaster.
+&emsp;Base and overtime wages for an applicant's employees and extra hires performing eligiblework plus fringe benefits on such wages to the extent that such benefits were being paid before the disaster.
 
 (Pub. L. 93–288, title IV, §406, as added Pub. L. 100–707, title I, §106(b), Nov. 23, 1988, 102 Stat. 4699.)
 

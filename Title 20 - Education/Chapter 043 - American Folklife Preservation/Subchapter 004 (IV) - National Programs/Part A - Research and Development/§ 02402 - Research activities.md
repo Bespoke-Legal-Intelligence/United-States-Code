@@ -26,7 +26,7 @@ In addition, the Secretary shall support meritorious, unsolicited research propo
 
 #### (c) Dissemination
 
-(1) The Secretary shall establish a system for disseminating information resulting from research and development activities carried out under this chapter. In establishing such system, the Secretary shall use existing dissemination systems, including the National Diffusion Network, the National Center or Centers for Research in Vocational Education, and the National Network for Curriculum Coordination in Vocational and Technical Education, in order to assure broad access at the State and local levels to the information being disseminated.
+(1) The Secretary shall establish a system for disseminating information resulting from research and development activities carried out under this chapter. In establishing such system, the Secretary shall use existing disseminationsystems, including the National Diffusion Network, the National Center or Centers for Research in Vocational Education, and the National Network for Curriculum Coordination in Vocational and Technical Education, in order to assure broad access at the State and local levels to the information being disseminated.
 
 (2)(A) In order to comply with paragraph (1), the Secretary shall establish through grants or contracts a National Network for Curriculum Coordination in Vocational and Technical Education (in this paragraph referred to as the “Network”) consisting of 6 regional curriculum coordination centers. The Network shall—
 
@@ -72,7 +72,7 @@ Subsec. (a)(8). Pub. L. 101–392, §403(1)(F), redesignated par. (7) as (8).
 
 Subsec. (b). Pub. L. 101–392, §403(2), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “In addition, the Secretary shall—
 
-&emsp;“(1) initiate leadership development and inservice education activities for State and local vocationaleducation instructors, counselors, and administrators; and
+&emsp;“(1) initiate leadership development and inservice education activities for State and local vocational education instructors, counselors, and administrators; and
 
 &emsp;“(2) support meritorious, unsolicited research proposals from individual researchers community colleges, State advisory councils, and State and local educators relating to the goals of this chapter.”
 

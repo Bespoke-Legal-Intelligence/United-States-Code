@@ -18,7 +18,7 @@ The Secretary may provide any project with one or more of the following types of
 
 #### (4) Operating costs
 
-&emsp;Annual payments for operating costs of housing assisted under this part, not to exceed 75 percent of the annual operating costs of such housing. Grant recipients may reapply for such assistance as needed to continue the use of the housing for purposes of this part.
+&emsp;Annual payments for operating costs of housing assisted under this part, not to exceed 75 percent of the annual operating costs of such housing. Grant recipients may reapplyfor such assistance as needed to continue the use of the housing for purposes of this part.
 
 #### (5) Supportive services
 
@@ -40,7 +40,7 @@ The Secretary may provide any project with one or more of the following types of
 
 #### (3) Conversion
 
-&emsp;If the Secretary determines that a project is no longer needed for use as supportive housing and approves the use of the project for the direct benefit of low-income persons pursuant toa request for such use by the recipient operating the project, the Secretary may authorize the recipient to convert the project to such use.
+&emsp;If the Secretary determines that a project is no longer needed for use as supportive housing and approves the use of the project for the direct benefit of low-income persons pursuant to a request for such use by the recipient operating the project, the Secretary may authorize the recipient to convert the project to such use.
 
 #### (c) Repayment of assistance and prevention of undue benefits
 

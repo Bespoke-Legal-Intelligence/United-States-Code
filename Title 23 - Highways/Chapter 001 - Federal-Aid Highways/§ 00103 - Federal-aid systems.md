@@ -216,7 +216,7 @@ Exception.—In any State where the withdrawal of an interstate route or portion
 
 &emsp;&emsp;(L)
 
-Applicability of fta.—<sup>4</sup>
+Applicability of chapter 53 of title 49.—
 
 &emsp;&emsp;&emsp;(i)
 
@@ -324,7 +324,7 @@ Eligible Projects for NHS.—Subject to project approval by the Secretary, funds
 
 &emsp;(13) In accordance with all applicable Federal law and regulations, participation in wetlands mitigation efforts related to projects funded under this title, which may include participation in wetlands mitigation banks; contributions to statewide and regional efforts to conserve, restore, enhance and create wetlands; and development of statewide and regional wetlands conservation and mitigation plans, including any such banks, efforts, and plans authorized pursuant to the Water Resources Development Act of 1990 (including crediting provisions). Contributions to such mitigation efforts may take place concurrent with or in advance of project construction. Contributions toward these efforts may occur in advance of project construction only if such efforts are consistent with all applicable requirements of Federal law and regulations and State transportation planning processes.
 
-(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 887; Pub. L. 86–70, §21(d)(1), June 25, 1959, 73 Stat. 145; Pub. L. 86–624, §17(b), (c), July 12, 1960, 74 Stat. 415; Pub. L. 87–866, §8(a), Oct. 23, 1962, 76 Stat. 1147; Pub. L. 90–238, Jan. 2, 1968, 81 Stat. 772; Pub. L. 90–495, §§14, 21, Aug. 23, 1968, 82 Stat. 822, 826; Pub. L. 91–605, title I, §§106(b), 124, Dec. 31, 1970, 84 Stat. 1716, 1729; Pub. L. 93–87, title I, §§109(a), 110(a), (b), 137, 148(a)–(c), (e), Aug. 13, 1973, 87 Stat. 255, 256, 268, 274; Pub. L. 93–643, §125, Jan. 4, 1975, 88 Stat. 2290; Pub. L. 94–280, title I, §§109, 110, 111(a), May 5, 1976, 90 Stat. 431, 433; Pub. L. 95–599, title I, §107(a), (b), (f)(1), Nov. 6, 1978, 92 Stat. 2694, 2695; Pub. L. 96–106, §§1, 2(a), (c), Nov. 9, 1979, 93 Stat. 796; Pub. L. 96–144, §2, Dec. 13, 1979, 93 Stat. 1084; Pub. L. 97–424, title I, §§107(a)–(c)(1), (d), (e), 108(f), Jan. 6, 1983, 96 Stat. 2101–2104; Pub. L. 100–17, title I, §103(b), (f)(1), Apr. 2, 1987, 101 Stat. 136, 141; Pub. L. 102–240, title I, §§1006(a), (b), (d), 1011, title III, §3003(b), Dec. 18, 1991, 105 Stat. 1923, 1925, 1935, 2088; Pub. L. 103–272, §5(f)(1), July 5, 1994, 108 Stat. 1374; Pub. L. 103–429, §§3(1), 7(a)(4)(B), Oct. 31, 1994, 108 Stat. 4377, 4389; Pub. L. 104–59, title I, §101, title III, §301(a), Nov. 28, 1995, 109 Stat. 569, 578.)
+(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 887; Pub. L. 86–70, §21(d)(1), June 25, 1959, 73 Stat. 145; Pub. L. 86–624, §17(b), (c), July 12, 1960, 74 Stat. 415; Pub. L. 87–866, §8(a), Oct. 23, 1962, 76 Stat. 1147; Pub. L. 90–238, Jan. 2, 1968, 81 Stat. 772; Pub. L. 90–495, §§14, 21, Aug. 23, 1968, 82 Stat. 822, 826; Pub. L. 91–605, title I, §§106(b), 124, Dec. 31, 1970, 84 Stat. 1716, 1729; Pub. L. 93–87, title I, §§109(a), 110(a), (b), 137, 148(a)–(c), (e), Aug. 13, 1973, 87 Stat. 255, 256, 268, 274; Pub. L. 93–643, §125, Jan. 4, 1975, 88 Stat. 2290; Pub. L. 94–280, title I, §§109, 110, 111(a), May 5, 1976, 90 Stat. 431, 433; Pub. L. 95–599, title I, §107(a), (b), (f)(1), Nov. 6, 1978, 92 Stat. 2694, 2695; Pub. L. 96–106, §§1, 2(a), (c), Nov. 9, 1979, 93 Stat. 796; Pub. L. 96–144, §2, Dec. 13, 1979, 93 Stat. 1084; Pub. L. 97–424, title I, §§107(a)–(c)(1), (d), (e), 108(f), Jan. 6, 1983, 96 Stat. 2101–2104; Pub. L. 100–17, title I, §103(b), (f)(1), Apr. 2, 1987, 101 Stat. 136, 141; Pub. L. 102–240, title I, §§1006(a), (b), (d), 1011, title III, §3003(b), Dec. 18, 1991, 105 Stat. 1923, 1925, 1935, 2088; Pub. L. 103–272, §5(f)(1), July 5, 1994, 108 Stat. 1374; Pub. L. 103–429, §§3(1), 7(a)(4)(B), Oct. 31, 1994, 108 Stat. 4377, 4389; Pub. L. 104–59, title I, §101, title III, §301(a), Nov. 28, 1995, 109 Stat. 569, 578; Pub. L. 104–287, §2, Oct. 11, 1996, 110 Stat. 3388.)
 
 #### References in Text
 
@@ -353,6 +353,12 @@ Section 23(a) of the Federal-Aid Highway Act of 1968, referred to in subsec. (g)
 The Water Resources Development Act of 1990, referred to in subsec. (i)(13), is Pub. L. 101–640, Nov. 28, 1990, 104 Stat. 4604. For complete classification of this Act to the Code, see Short Title of 1990 Amendment note set out under section 2201 of Title 33, Navigation and Navigable Waters, and Tables.
 
 #### Amendments
+
+1996—Subsec. (e)(4)(L). Pub. L. 104–287 substituted “
+
+chapter 53 of title 49” for “
+
+fta” in heading.
 
 1995—Subsec. (b)(3)(C). Pub. L. 104–59, §101(b)(1), substituted “The” for “For purposes of proposing highways for designation to the National Highway System, the”.
 
@@ -424,7 +430,7 @@ Pub. L. 97–424, §107(e)(1), struck out “which is within an urbanized area o
 
 Pub. L. 97–424, §107(e)(2), substituted “which will serve the area or areas from which the interstate route or portion thereof was withdrawn, which are selected by the responsible local officials of the area or areas to be served, and which are selected by the Governor or the Governors of the State or the States in which the withdrawn route was located if the withdrawn route was not within an urbanized area or did not pass through and connect urbanized areas, and which are submitted by the Governors of the States in which the withdrawn route was located”, for “which will serve the urbanized area and the connecting nonurbanized area corridor from which the interstate route or portion thereof was withdrawn, which are selected by the responsible local officials of the urbanized area or area to be served, and which are submitted by the Governor of the State in which the withdrawn route was located”, after “section 103 of this title; or both,” in second sentence.
 
-1979—Subsec. (e)(4). Pub. L. 96–144 provided that after Sept. 30, 1979, the Secretary shall not withdraw his approval under par. (4) of any route or portion thereof on the Interstate System open to traffic before the date of the proposed withdrawal, and that any withdrawal ofapproval of any such route or portion thereof before Sept. 30, 1979, is determined to be authorized by par. (4).
+1979—Subsec. (e)(4). Pub. L. 96–144 provided that after Sept. 30, 1979, the Secretary shall not withdraw his approval under par. (4) of any route or portion thereof onthe Interstate System open to traffic before the date of the proposed withdrawal, and that any withdrawal of approval of any such route or portion thereof before Sept. 30, 1979, is determined to be authorized by par. (4).
 
 Pub. L. 96–106, §1, inserted provision that the preceding sentence not apply to a designation made under section 139 of this title.
 
@@ -460,7 +466,7 @@ Subsec. (e)(2). Pub. L. 93–87, §137(a), substituted in first sentence “addi
 
 Subsec. (e)(4). Pub. L. 93–87, §137(b), added par. (4).
 
-Subsec. (g). Pub. L. 93–87, §110(a), substituted first sentence reading “the Secretary, on July 1, 1974, shall remove from designation as a part of the Interstate System each segment of such system for which a State has not notified the Secretary that such State intends to construct such segment, and which the Secretaryfinds is not essential to completion of a unified and connected Interstate System.” for “The Secretary, on July 1, 1973, shall remove from designation as a part of the Interstate System every segment of such System for which a State has not established a schedule for the expenditure of funds for completion of construction of such segment within the period of availability of funds authorized to be appropriated for completion of the Interstate System, and with respect to which the State has not provided the Secretary with assurances satisfactory to him that such schedule will be met.”; deleted former second sentence reading “Nothing in the preceding sentence shall be construed to prohibit the substitution prior to July 1, 1973, of alternative segments of the Interstate System which will meet the requirements of this title.”; substituted “Any segment of the Interstate System, with respect to which a State has not submitted by July 1, 1975, a schedule for the expenditure of funds for completion of construction of such segment or alternative segment within the period of availability of funds authorized to be appropriated for completion of the Interstate System, and with respect to which the State has not provided the Secretary with assurances satisfactory to him such schedule will be met,” for “Any segment of the Interstate System with respect to which a State has not submitted plans, specifications, and estimates for approval by the Secretary by July 1, 1975,” before “shall be removed from designation as a part of the Interstate System”; authorized the Secretary to designate as a part of the Interstate System any segment previously removed from the System when necessary in the interest of national defense or for other reasons of national interest; and made subsec. (g) inapplicable to any segment of the Interstate System referred to in section 23(a) of the Federal-Aid Highway Act of 1968.
+Subsec. (g). Pub. L. 93–87, §110(a), substituted first sentence reading “the Secretary, on July 1, 1974, shall remove from designation as a part of the Interstate System each segment of such system for which a Statehas not notified the Secretary that such State intends to construct such segment, and which the Secretary finds is not essential to completion of a unified and connected Interstate System.” for “The Secretary, on July 1, 1973, shall remove from designation as a part of the Interstate System every segment of such System for which a State has not established a schedule for the expenditure of funds for completion of construction of such segment within the period of availability of funds authorized to be appropriated for completion of the Interstate System, and with respect to which the State has not provided the Secretary with assurances satisfactory to him that such schedule will be met.”; deleted former second sentence reading “Nothing in the preceding sentence shall be construed to prohibit the substitution prior to July 1, 1973, of alternative segments of the Interstate System which will meet the requirements of this title.”; substituted “Any segment of the Interstate System, with respect to which a State has not submitted by July 1, 1975, a schedule for the expenditure of funds for completion of construction of such segment or alternative segment within the period of availability of funds authorized to be appropriated for completion of the Interstate System, and with respect to which the State has not provided the Secretary with assurances satisfactory to him such schedule will be met,” for “Any segment of the Interstate System with respect to which a State has not submitted plans, specifications, and estimates for approval by the Secretary by July 1, 1975,” before “shall be removed from designation as a part of the Interstate System”; authorized the Secretary to designate as a part of the Interstate System any segment previously removed from the System when necessary in the interest of national defense or for other reasons of national interest; and made subsec. (g) inapplicable to any segment of the Interstate System referred to in section 23(a) of the Federal-Aid Highway Act of 1968.
 
 Subsec. (h). Pub. L. 93–87, §110(b), added subsec. (h).
 
@@ -522,7 +528,7 @@ Section 8(b) of Pub. L. 87–866 provided that: “The amendment made by subsect
 
 #### Effective Date of 1959 Amendment
 
-Section 21(d) of Pub. L. 86–70 provided that the repeal of subsec. (f) of this section, sections 116(d), 119, and 120(h) of this title, and sections 321a to 321d and 322 to 325 of Title 48, Territories and Insular Possessions, is effective July 1, 1959.
+Section 21(d) of Pub. L. 86–70 provided that the repeal of subsec. (f) of this section, sections 116(d), 119, and120(h) of this title, and sections 321a to 321d and 322 to 325 of Title 48, Territories and Insular Possessions, is effective July 1, 1959.
 
 #### Functional Reclassification of Highways
 
@@ -580,7 +586,7 @@ Section 107(e) of Pub. L. 95–599, as amended by Pub. L. 97–424, title I, §1
 
 #### Interstate System Routes Withdrawn for Purpose of Designating Alternative Routes as Subject to Route Withdrawal Provisions
 
-Section 111(b) of Pub. L. 94–280 provided that: “The amendment made by subsection (a) of this section \[to fourth sentence of subsec. (e)(2) of this section\] shall be applicable to each route on the Interstate System approval of which was withdrawn or is hereafter withdrawn by the Secretary of Transportation in accordance with the provisions of section 103(e)(2) of title 23, United States Code, including any route on the Interstate System approval of which was withdrawn by theSecretary of Transportation in accordance with the provisions of title 23, United States Code, on August 30, 1965, for the purpose of designating an alternative route.”
+Section 111(b) of Pub. L. 94–280 provided that: “The amendment made by subsection (a) of this section \[to fourth sentence of subsec. (e)(2) of this section\] shall be applicable to each route on the Interstate System approval of which was withdrawn or is hereafter withdrawn by the Secretary of Transportation in accordance with the provisions of section 103(e)(2) of title 23, United States Code, including any route on the Interstate System approval of which was withdrawn by the Secretary of Transportation in accordance with the provisions of title 23, United States Code, on August 30, 1965, for the purpose of designating an alternative route.”
 
 #### Interstate System Subsection (e)(4) Provisions in Effect Prior to Amendment by Pub. L. 94–280, §110; Route Withdrawals Within Urbanized Areas; Availability of Mileage in Other States; Public Mass Transit Nonhighway Projects; General Funds Unavailable for Obligation after June 30, 1981; Supplementary Funds; Urban Mass Transportation Provisions Applicable
 
@@ -599,6 +605,4 @@ This section is referred to in sections 101, 104, 115, 118, 119, 124, 139, 157, 
 <i><sup>2</sup></i><i> See References in Text note below.</i>
 
 <i><sup>3</sup></i><i> So in original. Probably should be followed by a comma.</i>
-
-<i><sup>4</sup></i><i> So in original. Probably should be “chapter 53 of title 49.—”.</i>
 

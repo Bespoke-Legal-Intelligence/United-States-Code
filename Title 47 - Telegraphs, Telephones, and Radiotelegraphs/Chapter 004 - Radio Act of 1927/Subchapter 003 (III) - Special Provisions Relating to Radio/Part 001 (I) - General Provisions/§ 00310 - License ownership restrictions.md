@@ -12,9 +12,9 @@ No broadcast or common carrier or aeronautical en route or aeronautical fixed ra
 
 &emsp;(2) any corporation organized under the laws of any foreign government;
 
-&emsp;(3) any corporation of which any officer or director is an alien or of which more than one-fifth of the capital stock is owned of record or voted by aliens or their representatives or by a foreign government or representative thereof or by any corporation organized under the laws of a foreign country;
+&emsp;(3) any corporation of which more than one-fifth of the capital stock is owned of record or voted by aliens or their representatives or by a foreign government or representative thereof or by any corporation organized under the laws of a foreign country;
 
-&emsp;(4) any corporation directly or indirectly controlled by any other corporation of which any officer or more than one-fourth of the directors are aliens, or of which more than one-fourth of the capital stock is owned of record or voted by aliens, their representatives, or by a foreign government or representative thereof, or by any corporation organized under the laws of a foreign country, if the Commission finds that the public interest will be served by the refusal or revocation of such license.
+&emsp;(4) any corporation directly or indirectly controlled by any other corporation of which more than one-fourth of the capital stock is owned of record or voted by aliens, their representatives, or by a foreign government or representative thereof, or by any corporation organized under the laws of a foreign country, if the Commission finds that the public interest will be served by the refusal or revocation of such license.
 
 #### (c) Authorization for aliens licensed by foreign governments; multilateral or bilateral agreement to which United States and foreign country are parties as prerequisite
 
@@ -22,7 +22,7 @@ In addition to amateur station licenses which the Commission may issue to aliens
 
 #### (d) Assignment and transfer of construction permit or station license
 
-No construction permit or station license, or any rights thereunder, shall be transferred, assigned, or disposed of in any manner, voluntarily or involuntarily, directly or indirectly, or by transfer of control of any corporation holding such permit or license, to any person except upon application to the Commission and upon finding by the Commission that the public interest, convenience, and necessity will be served thereby. Any such application shall be disposed of as if the proposed transferee or assignee were making application under section 308 of this title for the permit or license in question; but in acting thereon the Commission may not consider whether the public interest, convenience, and necessity might be served by the transfer, assignment, or disposal of the permit or licenseto a person other than the proposed transferee or assignee.
+No construction permit or station license, or any rights thereunder, shall be transferred, assigned, or disposed of in any manner, voluntarily or involuntarily, directly or indirectly, or by transfer of control of any corporation holding such permit or license, to any person except upon application to the Commission and upon finding by the Commission that the public interest, convenience, and necessity will be served thereby. Any such application shall be disposed of as if the proposed transferee or assignee were making application under section 308 of this title for the permit or license in question; but in acting thereon the Commission may not consider whether the public interest, convenience, and necessity might be served by the transfer, assignment, or disposal of the permit or license to a person other than the proposed transferee or assignee.
 
 #### (e) Administration of regional concentration rules for broadcast stations
 
@@ -30,13 +30,17 @@ No construction permit or station license, or any rights thereunder, shall be tr
 
 (2) For purposes of this subsection, the term “regional concentration rules” means the provisions of sections 73.35, 73.240, and 73.636 of title 47, Code of Federal Regulations (as in effect June 1, 1983), which prohibit any party from directly or indirectly owning, operating, or controlling three broadcast stations in one or several services where any two of such stations are within 100 miles of the third (measured city-to-city), and where there is a primary service contour overlap of any of the stations.
 
-(June 19, 1934, ch. 652, title III, §310, 48 Stat. 1086; July 16, 1952, ch. 879, §8, 66 Stat. 716; Aug. 28, 1958, Pub. L. 85–817, §2, 72 Stat. 981; May 28, 1964, Pub. L. 88–313, §2, 78 Stat. 202; Aug. 10, 1971, Pub. L. 92–81, §2, 85 Stat. 302; Nov. 30, 1974, Pub. L. 93–505, §2, 88 Stat. 1576; Dec. 8, 1983, Pub. L. 98–214, §7, 97 Stat. 1469; Sept. 28, 1990, Pub. L. 101–396, §8(b), 104 Stat. 850.)
+(June 19, 1934, ch. 652, title III, §310, 48 Stat. 1086; July 16, 1952, ch. 879, §8, 66 Stat. 716; Aug. 28, 1958, Pub. L. 85–817, §2, 72 Stat. 981; May 28, 1964, Pub. L. 88–313, §2, 78 Stat. 202; Aug. 10, 1971, Pub. L. 92–81, §2, 85 Stat. 302; Nov. 30, 1974, Pub. L. 93–505, §2, 88 Stat. 1576; Dec. 8, 1983, Pub. L. 98–214, §7, 97 Stat. 1469; Sept. 28, 1990, Pub. L. 101–396, §8(b), 104 Stat. 850; Feb. 8, 1996, Pub. L. 104–104, title IV, §403(k), 110 Stat. 131.)
 
 #### Codification
 
 In subsec. (c), “subchapter II of chapter 5, and chapter 7, of title 5” substituted for “the Administrative Procedure Act” on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
 
 #### Amendments
+
+1996—Subsec. (b)(3). Pub. L. 104–104, §403(k)(1), struck out “of which any officer or director is an alien or” before “of which more”.
+
+Subsec. (b)(4). Pub. L. 104–104, §403(k)(2), struck out “of which any officer or more than one-fourth of the directors are aliens, or” after “any other corporation”.
 
 1990—Subsec. (c). Pub. L. 101–396 substituted “multilateral or bilateral agreement, to which the United States and the alien's government are parties,” for “bilateral agreement between the United States and the alien's government”.
 

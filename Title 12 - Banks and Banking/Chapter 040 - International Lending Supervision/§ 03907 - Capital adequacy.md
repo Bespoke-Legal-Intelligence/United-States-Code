@@ -16,13 +16,13 @@
 
 (B) Such appropriate Federal banking agency may deny such approval where it determines that such proposal would adversely affect the ability of the banking institution to comply with such plan.
 
-(C) The Chairman of the Board of Governors of the Federal Reserve System and the Secretary of the Treasury shall encourage governments, central banks, and regulatory authorities of other major banking countries to work toward maintaining and, where appropriate, strengthening the capital bases of banking institutions involved in international lending.
+(C) The Chairman of the Board of Governors of the Federal Reserve System and the Secretary of the Treasury shall encourage governments, central banks, and regulatory authorities ofother major banking countries to work toward maintaining and, where appropriate, strengthening the capital bases of banking institutions involved in international lending.
 
 (Pub. L. 98–181, title IX, §908, Nov. 30, 1983, 97 Stat. 1280.)
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1464, 3904, 3912 of this title.
+This section is referred to in sections 1464, 3904 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “capital”.</i>
 

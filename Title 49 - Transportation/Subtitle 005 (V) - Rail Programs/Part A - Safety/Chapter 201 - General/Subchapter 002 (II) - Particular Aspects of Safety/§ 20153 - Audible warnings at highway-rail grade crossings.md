@@ -12,7 +12,7 @@ Definitions.—As used in this section—
 
 (b)
 
-Requirement.—The Secretary of Transportation shall prescribe regulations requiring thata locomotive horn shall be sounded while each train is approaching and entering upon each public highway-rail grade crossing.
+Requirement.—The Secretary of Transportation shall prescribe regulations requiring that a locomotive horn shall be sounded while each train is approaching and entering upon each public highway-rail grade crossing.
 
 (c)
 
@@ -50,15 +50,39 @@ Specific Rules.—The Secretary may, by regulation, provide that the following c
 
 (g)
 
-Issuance.—The Secretary shall issue regulations required by this section pertaining to categories of highway-rail grade crossings that in the judgment of the Secretary pose the greatest safety hazard to rail and highway users not later than 24 months following the date of enactment of this section. The Secretary shall issue regulations pertaining to any other categories of crossings not later than 48 months following the date of enactment of this section.
+Issuance.—The Secretary shall issue regulations required by this section pertaining to categories of highway-rail grade crossings that in the judgment of the Secretary pose the greatest safety hazard to rail and highway users not later than 24 months following November 2, 1994. The Secretary shall issue regulations pertaining to any other categories of crossings not later than 48 months following November 2, 1994.
 
 (h)
 
 Impact of Regulations.—The Secretary shall include in regulations prescribed under this section a concise statement of the impact of such regulations with respect to the operation of section 20106 of this title (national uniformity of regulation).
 
-(Added Pub. L. 103–440, title III, §302(a), Nov. 2, 1994, 108 Stat. 4626.)
+(i)
 
-#### References in Text
+Regulations.—In issuing regulations under this section, the Secretary—
 
-The date of enactment of this section, referred to in subsec. (g), is the date of enactment of Pub. L. 103–440, which was approved Nov. 2, 1994.
+&emsp;(1) shall take into account the interest of communities that—
+
+&emsp;&emsp;(A) have in effect restrictions on the sounding of a locomotive horn at highway-rail grade crossings; or
+
+&emsp;&emsp;(B) have not been subject to the routine (as defined by the Secretary) sounding of a locomotive horn at highway-rail grade crossings;
+
+&emsp;(2) shall work in partnership with affected communities to provide technical assistance and shall provide a reasonable amount of timefor local communities to install supplementary safety measures, taking into account local safety initiatives (such as public awareness initiatives and highway-rail grade crossing traffic law enforcement programs) subject to such terms and conditions as the Secretary deems necessary, to protect public safety; and
+
+&emsp;(3) may waive (in whole or in part) any requirement of this section (other than a requirement of this subsection or subsection (j)) that the Secretary determines is not likely to contribute significantly to public safety.
+
+(j)
+
+Effective Date of Regulations.—Any regulations under this section shall not take effect before the 365th day following the date of publication of the final rule.
+
+(Added Pub. L. 103–440, title III, §302(a), Nov. 2, 1994, 108 Stat. 4626; amended Pub. L. 104–264, title XII, §1218(a), Oct. 9, 1996, 110 Stat. 3285; Pub. L. 104–287, §5(51), Oct. 11, 1996, 110 Stat. 3393.)
+
+#### Amendments
+
+1996—Subsec. (g). Pub. L. 104–287 substituted “November 2, 1994” for “the date of enactment of this section” in two places.
+
+Subsecs. (i), (j). Pub. L. 104–264 added subsecs. (i) and (j).
+
+#### Effective Date of 1996 Amendment
+
+Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
 

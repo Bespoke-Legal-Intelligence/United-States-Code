@@ -4,7 +4,7 @@
 
 (b) There is in the Office a Deputy Director of the Office of Personnel Management appointed by the President, by and with the advice and consent of the Senate. The Deputy Director shall perform such functions as the Director may from time to time prescribe and shall act as Director during the absence or disability of the Director or when the office of Director is vacant.
 
-(c) No individual shall, while serving as Director or Deputy Director, serve in any other office or position in the Government of the United States except as otherwise provided by law or at the direction of the President. The Director and Deputy Director shall not recommend any individual for appointment to any position (other than Deputy Director of the Office) which requires the advice and consent of the Senate.
+(c) No individual shall, while serving as Director or Deputy Director, serve in any other officeor position in the Government of the United States except as otherwise provided by law or at the direction of the President. The Director and Deputy Director shall not recommend any individual for appointment to any position (other than Deputy Director of the Office) which requires the advice and consent of the Senate.
 
 (d) There may be within the Office of Personnel Management not more than 5 Associate Directors, as determined from time to time by the Director. Each Associate Director shall be appointed by the Director.
 
@@ -16,7 +16,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 5 U.S.C. 632 (2d–4th pars.).
 
@@ -32,7 +34,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-<b>1978</b>—Pub. L. 95–454 substituted “Director; Deputy Director; Associate Directors” for “Term of office; filling vacancies; removal” in section catchline, and in text provisions relating to the Director, Deputy Director, and Associate Directors of the Office of Personnel Management for provisions relating to the term of office, vacancies, and removal of members of the United States Civil Service Commission.
+1978—Pub. L. 95–454 substituted “Director; Deputy Director; Associate Directors” for “Term of office; filling vacancies; removal” in section catchline, and in text provisions relating to the Director, Deputy Director, and Associate Directors of the Office of Personnel Management for provisions relating to the term of office, vacancies, and removal of members of the United States Civil Service Commission.
 
 #### Effective Date of 1978 Amendment
 

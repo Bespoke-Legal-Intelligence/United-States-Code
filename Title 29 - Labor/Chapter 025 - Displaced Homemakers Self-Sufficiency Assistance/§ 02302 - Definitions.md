@@ -30,7 +30,7 @@ As used in this chapter:
 
 &emsp;&emsp;(F) other entities designated by the Governor that have the demonstrated ability to meet the needs of displaced homemakers.
 
-&emsp;(5) The term “eligible statewide public agency or statewide nonprofit organization” meansagencies and organizations with demonstrated experience administering programs that serve displaced homemakers.
+&emsp;(5) The term “eligible statewide public agency or statewide nonprofit organization” means agencies and organizations with demonstratedexperience administering programs that serve displaced homemakers.
 
 &emsp;(6) The term “Secretary” means the Secretary of Labor.
 

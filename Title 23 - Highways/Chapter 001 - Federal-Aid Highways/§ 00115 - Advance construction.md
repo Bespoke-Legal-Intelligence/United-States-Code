@@ -8,7 +8,7 @@ Substitute, Congestion Mitigation and Air Quality Improvement, Surface Transport
 
 General rule.—Subject to paragraph (2), when a State—
 
-&emsp;&emsp;(A)(i) has obligated all funds apportioned or allocated to it under section 103(e)(4)(H), 104(b)(2), 104(b)(3), 104(f), 144, or 307 of this title, or
+&emsp;&emsp;(A)(i) has obligated all funds apportioned or allocated to it under section 103(e)(4)(H),104(b)(2), 104(b)(3), 104(f), 144, or 307 of this title, or
 
 &emsp;&emsp;(ii) has used or demonstrates that it will use all obligation authority allocated to it for Federal-aid highways and highway safety construction, and
 
@@ -86,7 +86,7 @@ Subsec. (c). Pub. L. 102–302, §103(5), struck out “152” after “144,”.
 
 Subsec. (d). Pub. L. 102–302, §103(6), added subsec. (d) and struck out former subsec. (d) which read as follows: “
 
-Limitation on Advanced Funding for Fiscal Years 1987–1990.—The Secretary may not approve an application of a State under this section with respect to a project with funds apportioned, or currently authorized to be apportioned, under section 103(e)(4)(H), 104, 130, 144, 152, or 307 if the amount of approved applicationswith respect to such projects exceeds the total of unobligated funds apportioned or allocated to the State under such section, plus such State's expected apportionment under such section from existing authorizations plus an amount equal to such State's expected apportionment under such section (other than section 104(b)(5)(A)) for one additional fiscal year. This subsection shall only be effective during the period beginning January 1, 1987, and ending September 30, 1990.”
+Limitation on Advanced Funding for Fiscal Years 1987–1990.—The Secretary may not approve an application of a State under this section with respect to a project with funds apportioned, or currently authorized to be apportioned, under section 103(e)(4)(H), 104, 130, 144, 152, or 307 if the amount of approved applications with respect to such projects exceeds the total of unobligated funds apportioned or allocated to the State under such section, plus such State's expected apportionment under such section from existing authorizations plus an amount equal to such State's expected apportionment under such section (other than section 104(b)(5)(A)) for one additional fiscal year. This subsection shall only be effective during the period beginning January 1, 1987, and ending September 30, 1990.”
 
 1987—Pub. L. 100–17, §113(d)(1)(A), substituted “Advance construction” for “Construction by States in advance of apportionment” in section catchline.
 

@@ -10,7 +10,7 @@
 - [&sect; 01593 - Initiative and recall](%C2%A7%2001593%20-%20Initiative%20and%20recall.md)
 - [&sect; 01594 - Repealed. Pub. L. 90&#8211;496, &sect;6, Aug. 23, 1968, 82 Stat. 839](%C2%A7%2001594%20-%20Repealed.%20Pub.%20L.%2090%E2%80%93496%2C%20%C2%A76%2C%20Aug.%2023%2C%201968%2C%2082%20Stat.%20839.md)
 - [&sect; 01595 - Vacancy in office of Governor or Lieutenant Governor](%C2%A7%2001595%20-%20Vacancy%20in%20office%20of%20Governor%20or%20Lieutenant%20Governor.md)
-- [&sect; 01596 - Delegate from Virgin Islands to United States House of Representatives; clerk hire allowance and transportation expenses](%C2%A7%2001596%20-%20Delegate%20from%20Virgin%20Islands%20to%20United%20States%20House%20of%20Representatives%3B%20clerk%20hire%20allowance%20and%20transportation%20expenses.md)
+- [&sect; 01596 - Repealed. Pub. L. 104&#8211;186, title II, &sect;224(3), Aug. 20, 1996, 110 Stat. 1752](%C2%A7%2001596%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93186%2C%20title%20II%2C%20%C2%A7224%283%29%2C%20Aug.%2020%2C%201996%2C%20110%20Stat.%201752.md)
 - [&sect; 01597 - Reorganization of government](%C2%A7%2001597%20-%20Reorganization%20of%20government.md)
 - [&sect; 01598 - Omitted](%C2%A7%2001598%20-%20Omitted.md)
 - [&sect; 01599 - Transfer of functions from government comptroller for Virgin Islands to Inspector General, Department of the Interior](%C2%A7%2001599%20-%20Transfer%20of%20functions%20from%20government%20comptroller%20for%20Virgin%20Islands%20to%20Inspector%20General%2C%20Department%20of%20the%20Interior.md)

@@ -30,7 +30,9 @@ The Civil Aeromedical Institute established by section 106(j) of this title mayâ
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

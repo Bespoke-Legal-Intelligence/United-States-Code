@@ -52,7 +52,9 @@ Nonconsideration of Slot Availability.—In determining what is basic essential 
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -74,11 +76,11 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §419(b)(2), (5)–(8); added Oct
 
 41734(d)
 
-49 App.:1389(b) (6)(A).
+49 App.:1389(b)(6)(A).
 
 41734(e)
 
-49 App.:1389(b) (6)(B).
+49 App.:1389(b)(6)(B).
 
 41734(f)
 
@@ -90,7 +92,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §419(b)(2), (5)–(8); added Oct
 
 In subsection (b), the words “If at the end of the notice period under subsection (a) of this section” are substituted for “If an air carrier has provided notice to the Secretary under paragraph (2) of such air carrier's intention to suspend, terminate, or reduce service to any eligible point below the level of basic essential air service to such point, and if at the conclusion of the applicable period of notice” for clarity and to eliminate unnecessary words.
 
-In subsection (c), the words “either with or without compensation” are omitted as unnecessary. The words “shall require the carrier providing service to continue to provide service for additional 30-day periods” are substituted for “shall extend such requirement for such additional 30-day periods . . . as may be necessary tocontinue basic essential air service to such eligible point”, and the words “the Secretary shall decide if another carrier will provide service on a continuing basis” are substituted for “making the same determination”, for clarity.
+In subsection (c), the words “either with or without compensation” are omitted as unnecessary. The words “shall require the carrier providing service to continue to provide service for additional 30-day periods” are substituted for “shall extend such requirement for such additional 30-day periods . . . as may be necessary to continue basic essential air service to such eligible point”, and the words “the Secretary shall decide if another carrier will provide service on a continuing basis” are substituted for “making the same determination”, for clarity.
 
 In subsections (d)(1) and (e)(1), the word “fair” is omitted as being included in “reasonable”.
 
@@ -118,5 +120,5 @@ For definitions of the terms “slot” and “high density airport” used in s
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 40109, 41110, 41714, 41732, 41733, 41735, 46301 of this title.
+This section is referred to in sections 41110, 41714, 41732, 41733, 41735 of this title.
 

@@ -72,7 +72,7 @@ It is the policy of the United States that all programs, projects, and activitie
 
 The content of Pub. L. 93–516, Dec. 7, 1974, 88 Stat. 1617, including provisions thereof which amended various sections of this chapter and enacted provisions set out as notes under this section, was originally contained in H.R. 14225, 93rd Congress, Second Session, which was pocket-vetoed during the 31-day intrasession adjournment of the 93rd Congress for the Congressional elections in November, 1974.
 
-Pursuant to an order of the United States District Court for the District of Columbia (<i>Kennedy v. Jones</i>, D.C.D.C. 1976, 412 F.Supp. 353), H.R. 14225 was deemed to have become law without the approval of the President on Nov. 21, 1974, and was given the designation Pub. L.93–651. Therefore, for purposes of codification, this chapter should be deemed to have been amended by Pub. L. 93–651, Nov. 21, 1974, 89 Stat. 2–3, in exactly the same manner as it was amended by Pub. L. 93–516, Dec. 7, 1974, 88 Stat. 1617.
+Pursuant to an order of the United States District Court for the District of Columbia (<i>Kennedy v. Jones</i>, D.C.D.C. 1976, 412 F.Supp. 353), H.R. 14225 was deemed to have become law without the approval of the President on Nov. 21, 1974, and was given the designation Pub. L. 93–651. Therefore, for purposes of codification, this chapter should be deemed to have been amended by Pub. L. 93–651, Nov. 21, 1974, 89 Stat. 2–3, in exactly the same manner as it was amended by Pub. L. 93–516, Dec. 7, 1974, 88 Stat. 1617.
 
 #### Prior Provisions
 
@@ -112,7 +112,7 @@ Section 1(a) of Pub. L. 102–569 provided that: “This Act \[see Tables for cl
 
 #### Short Title of 1991 Amendment
 
-Pub. L. 102–52, §1, June 6, 1991, 105 Stat. 260, provided that: “This Act \[amending sections 720, 732, 741, 761, 771, 772, 774, 775, 777, 777a, 777f, 785, 792, 795f, 795i, 795q, 796i, and 1904 of this title and section 1475 of Title 20, Education\] may be cited as the ‘Rehabilitation Act Amendments of 1991’.”
+Pub. L. 102–52, §1, June 6, 1991, 105 Stat. 260, provided that: “This Act \[amending sections 720, 732, 741, 761, 771,772, 774, 775, 777, 777a, 777f, 785, 792, 795f, 795i, 795q, 796i, and 1904 of this title and section 1475 of Title 20, Education\] may be cited as the ‘Rehabilitation Act Amendments of 1991’.”
 
 #### Short Title of 1986 Amendment
 
@@ -132,7 +132,7 @@ Pub. L. 94–230, §1, Mar. 15, 1976, 90 Stat. 211, provided that: “This Act \
 
 #### Short Title of 1974 Amendment
 
-Pub. L. 93–516, title I, §100, Dec. 7, 1974, 88 Stat. 1617, provided that: “This title \[amending sections 702, 706,720 to 722, 732, 741, 750, 761, 762, 771, 772, 774 to 776, 783, 785, and 792 of this title and enacting provisions set out as a note under section 702 of this title\] shall be known as the ‘Rehabilitation Act Amendments of 1974’.”
+Pub. L. 93–516, title I, §100, Dec. 7, 1974, 88 Stat. 1617, provided that: “This title \[amending sections 702, 706, 720 to 722, 732, 741, 750, 761, 762, 771, 772, 774 to 776, 783, 785, and 792 of this title and enacting provisions set out as a note under section 702 of this title\] shall be known as the ‘Rehabilitation Act Amendments of 1974’.”
 
 An identical provision is contained in Pub. L. 93–651, title I, §100, Nov. 21, 1974, 89 Stat. 2–3. See Codification note above.
 
@@ -162,7 +162,7 @@ Sec. 2. The Secretary of Labor is hereby designated and empowered to exercise, w
 
 Sec. 3. The head of a Federal agency may, in conformity with the provisions of section 503(c) of the Rehabilitation Act of 1973 \[29 U.S.C. 793(c)\], and regulations issued by the Secretary of Labor pursuant to section 2 of this order, exempt any contract and, following consultation with the Secretary of Labor, any class of contracts, from the requirements of section 503 of the act \[29 U.S.C. 793\].
 
-Sec. 4. The Federal Acquisition Regulations and, to the extent necessary, any supplemental or comparable regulation issued by any agency of the executive branch shall, following consultation with the Secretary of Labor, be amended to require, as a condition of entering into, renewing or extending any contract subject to the provisions of section 503 of the Rehabilitation Act of 1973 \[29 U.S.C. 793\], inclusion of a provision requiring compliance with that section and regulations issued by the Secretary pursuant to section 2 of this order.
+Sec. 4. The Federal Acquisition Regulations and, to the extent necessary, any supplemental or comparable regulation issued by any agency of the executive branch shall, following consultation with the Secretary of Labor, be amended to require, as a condition of entering into, renewing or extending any contract subjectto the provisions of section 503 of the Rehabilitation Act of 1973 \[29 U.S.C. 793\], inclusion of a provision requiring compliance with that section and regulations issued by the Secretary pursuant to section 2 of this order.
 
 #### Section Referred to in Other Sections
 

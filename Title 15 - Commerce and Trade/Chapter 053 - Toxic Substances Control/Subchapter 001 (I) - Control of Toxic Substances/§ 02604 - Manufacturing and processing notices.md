@@ -58,7 +58,7 @@
 
 (B) The Administrator shall, in prescribing a rule under subparagraph (A) which lists any chemical substance, identify those uses, if any, which the Administrator determines, by rule under subsection (a)(2) of this section, would constitute a significant new use of such substance.
 
-(C) Any rule under subparagraph (A), and any substantive amendment or repeal of such a rule, shall be promulgated pursuant to the procedures specified in section 553 of title 5, except that (i) the Administrator shall give interested persons an opportunity for the oral presentation of data, views, or arguments, in addition to an opportunity to make written submissions, (ii) a transcript shall be kept of any oral presentation, and (iii) the Administrator shall make and publish with the rule the finding described in subparagraph (A).
+(C) Any rule under subparagraph (A), and any substantive amendment or repeal of such a rule, shall be promulgated pursuant to the procedures specified in section 553 of title 5, except that (i)the Administrator shall give interested persons an opportunity for the oral presentation of data, views, or arguments, in addition to an opportunity to make written submissions, (ii) a transcript shall be kept of any oral presentation, and (iii) the Administrator shall make and publish with the rule the finding described in subparagraph (A).
 
 #### (c) Extension of notice period
 
@@ -108,11 +108,11 @@ The Administrator may for good cause extend for additional periods (not to excee
 
 &emsp;(I) the Administrator does not issue a proposed order under paragraph (1) respecting such substance, or
 
-&emsp;(II) the Administrator issues such an order respecting such substance but such order does not take effect because objections were filed under paragraph (1)(C) with respect to it,
+&emsp;(II) the Administrator issues such an order respecting such substance but such order doesnot take effect because objections were filed under paragraph (1)(C) with respect to it,
 
 > the Administrator, through attorneys of the Environmental Protection Agency, shall apply to the United States District Court for the District of Columbia or the United States district court for the judicial district in which the manufacturer or processor, as the case may be, of such substance is found, resides, or transacts business for an injunction to prohibit or limit the manufacture, processing, distribution in commerce, use, or disposal of such substance (or to prohibit or limit any combination of such activities).
 
-(ii) If the Administrator issues a proposed order under paragraph (1)(A) respecting a chemical substance but such order does not take effectbecause objections have been filed under paragraph (1)(C) with respect to it, the Administrator is not required to apply for an injunction under clause (i) respecting such substance if the Administrator determines, on the basis of such objections, that the determinations under paragraph (1)(A) may not be made.
+(ii) If the Administrator issues a proposed order under paragraph (1)(A) respecting a chemical substance but such order does not take effect because objections have been filed under paragraph (1)(C) with respect to it, the Administrator is not required to apply for an injunction under clause (i) respecting such substance if the Administrator determines, on the basis of such objections, that the determinations under paragraph (1)(A) may not be made.
 
 (B) A district court of the United States which receives an application under subparagraph (A)(i) for an injunction respecting a chemical substance shall issue such injunction if the court finds that—
 
@@ -148,7 +148,7 @@ The Administrator may for good cause extend for additional periods (not to excee
 
 > A proposed order issued under clause (i) respecting a chemical substance shall take effect on the expiration of the notification period applicable under subsection (a), (b), or (c) of this section to the manufacture or processing of such substance.
 
-(B) If the district court of the United States to which an application has been made under subparagraph (A)(ii) finds that there is a reasonable basis to conclude that the manufacture, processing, distribution in commerce, use, or disposal of the chemical substance with respect to which such application was made, or that any combination of such activities, presents or will present an unreasonable risk of injury to health or the environment before a rule promulgated under section 2605 of this title can protect against such risk, the court shall issue an injunction to prohibit the manufacture, processing, or distribution in commerce of such substance or to prohibit any combination of such activities.
+(B) If the district court of the United States to which an application has been made under subparagraph (A)(ii) finds that there is a reasonable basis to conclude that the manufacture, processing, distribution in commerce, use, or disposalof the chemical substance with respect to which such application was made, or that any combination of such activities, presents or will present an unreasonable risk of injury to health or the environment before a rule promulgated under section 2605 of this title can protect against such risk, the court shall issue an injunction to prohibit the manufacture, processing, or distribution in commerce of such substance or to prohibit any combination of such activities.
 
 (C) The provisions of subparagraphs (B) and (C) of subsection (e)(1) of this section shall apply with respect to an order issued under clause (i) of subparagraph (A); and the provisions of subparagraph (C) of subsection (e)(2) of this section shall apply with respect to an injunction issued under subparagraph (B).
 
@@ -190,7 +190,7 @@ If the Administrator has not initiated any action under this section or section 
 
 &emsp;&emsp;(I) five years after the date referred to in clause (i), or
 
-&emsp;&emsp;(II) at the expiration of a period which begins on the date referred to in clause (i) and is equal to the period which the Administrator determines was necessary to develop such data,
+&emsp;&emsp;(II) at the expiration of a period which begins on the date referred to in clause (i) andis equal to the period which the Administrator determines was necessary to develop such data,
 
 > &emsp;whichever is later.
 

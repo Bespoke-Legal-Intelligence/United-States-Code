@@ -10,3 +10,7 @@
 
 Section 3(p) of Pub. L. 88–130 authorized officers who failed of selection for continuation to request their discharge with severance pay computed in accordance with this section.
 
+#### Section Referred to in Other Sections
+
+This section is referred to in section 283 of this title.
+

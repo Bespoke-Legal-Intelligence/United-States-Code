@@ -6,5 +6,5 @@ The Special Counsel shall submit an annual report to the Congress on the activit
 
 #### Amendments
 
-<b>1994</b>—Pub. L. 103–424 inserted “cases in which it did not make a determination whether there are reasonable grounds to believe that a prohibited personnel practice has occurred, exists, or is to be taken within the 240-day period specified in section 1214(b)(2)(A)(i),” after “investigations conducted by it,”.
+1994—Pub. L. 103–424 inserted “cases in which it did not make a determination whether there are reasonable grounds to believe that a prohibited personnel practice has occurred, exists, or is to be taken within the 240-day period specified in section 1214(b)(2)(A)(i),” after “investigations conducted by it,”.
 

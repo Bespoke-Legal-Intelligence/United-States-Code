@@ -18,7 +18,11 @@ The Commission shall, within 180 days of October 5, 1992, establish standards by
 
 &emsp;(3) communications between the cable operator and the subscriber (including standards governing bills and refunds).
 
-#### (c) Consumer protection laws and customer service agreements
+#### (c) Subscriber notice
+
+A cable operator may provide notice of service and rate changes to subscribers using any reasonable written means at its sole discretion. Notwithstanding section 543(b)(6) of this title or any other provision of this chapter, a cable operator shall not be required to provide prior notice of any rate change that is the result of a regulatory fee, franchise fee, or any other fee, tax, assessment, or charge of any kind imposed by any Federal agency, State, or franchising authority on the transaction between the operator and the subscriber.
+
+#### (d) Consumer protection laws and customer service agreements
 
 #### (1) Consumer protection laws
 
@@ -28,9 +32,11 @@ The Commission shall, within 180 days of October 5, 1992, establish standards by
 
 &emsp;Nothing in this section shall be construed to preclude a franchising authority and a cable operator from agreeing to customer service requirements that exceed the standards established by the Commission under subsection (b) of this section. Nothing in this subchapter shall be construed to prevent the establishment or enforcement of any municipal law or regulation, or any State law, concerning customer service that imposes customer service requirements that exceed the standards set by the Commission under this section, or that addresses matters not addressed by the standards set by the Commission under this section.
 
-(June 19, 1934, ch. 652, title VI, §632, as added Oct. 30, 1984, Pub. L. 98–549, §2, 98 Stat. 2796; amended Oct. 5, 1992, Pub. L. 102–385, §8, 106 Stat. 1484.)
+(June 19, 1934, ch. 652, title VI, §632, as added Oct. 30, 1984, Pub. L. 98–549, §2, 98 Stat. 2796; amended Oct. 5, 1992, Pub. L. 102–385, §8, 106 Stat. 1484; Feb. 8, 1996, Pub. L. 104–104, title III, §301(g), 110 Stat. 117.)
 
 #### Amendments
+
+1996—Subsecs. (c), (d). Pub. L. 104–104 added subsec. (c) and redesignated former subsec. (c) as (d).
 
 1992—Pub. L. 102–385 amended section generally. Prior to amendment, section read as follows:
 

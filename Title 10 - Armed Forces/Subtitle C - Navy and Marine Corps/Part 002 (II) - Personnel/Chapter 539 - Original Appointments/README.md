@@ -13,9 +13,7 @@
 | [5589\.](%C2%A7%2005589%20-%20Regular%20Navy%20and%20Regular%20Marine%20Corps%20officers%20designated%20for%20limited%20duty.md) | Regular Navy and Regular Marine Corps: officers designated for limited duty. |
 | \[5590 to 5595. Repealed.\] |  |
 | [5596\.](%C2%A7%2005596%20-%20Navy%20and%20Marine%20Corps%20temporary%20appointments%20of%20officers%20designated%20for%20limited%20duty.md) | Navy and Marine Corps: temporary appointments of officers designated for limited duty. |
-| \[5597 to 5599. Repealed.\] |  |
-| [5600\.](%C2%A7%2005600%20-%20Naval%20Reserve%20and%20Marine%20Corps%20Reserve%20service%20credit%20upon%20original%20appointment.md) | Naval Reserve and Marine Corps Reserve: service credit upon original appointment.<sup>1</sup> |
-| \[5601. | Repealed.\] |
+| \[5597 to 5601. Repealed.\] |  |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -43,8 +41,6 @@ General military law provisions relating to appointments—
 
 &emsp;&emsp;Reserve officers, see section 12201 et seq. of this title.
 
-<i><sup>1</sup></i><i> Editorially supplied. Item 5600 struck out by Pub. L. 103–337 without corresponding repeal of section 5600.</i>
-
 
 ---
 
@@ -66,5 +62,5 @@ General military law provisions relating to appointments—
 - [&sect; 05591 to 5595 - Repealed. Pub. L. 96&#8211;513, title III, &sect;323, Dec. 12, 1980, 94 Stat. 2893](%C2%A7%2005591%20to%205595%20-%20Repealed.%20Pub.%20L.%2096%E2%80%93513%2C%20title%20III%2C%20%C2%A7323%2C%20Dec.%2012%2C%201980%2C%2094%20Stat.%202893.md)
 - [&sect; 05596 - Navy and Marine Corps temporary appointments of officers designated for limited duty](%C2%A7%2005596%20-%20Navy%20and%20Marine%20Corps%20temporary%20appointments%20of%20officers%20designated%20for%20limited%20duty.md)
 - [&sect; 05597 to 5599 - Repealed. Pub. L. 96&#8211;513, title III, &sect;327, Dec. 12, 1980, 94 Stat. 2894](%C2%A7%2005597%20to%205599%20-%20Repealed.%20Pub.%20L.%2096%E2%80%93513%2C%20title%20III%2C%20%C2%A7327%2C%20Dec.%2012%2C%201980%2C%2094%20Stat.%202894.md)
-- [&sect; 05600 - Naval Reserve and Marine Corps Reserve service credit upon original appointment](%C2%A7%2005600%20-%20Naval%20Reserve%20and%20Marine%20Corps%20Reserve%20service%20credit%20upon%20original%20appointment.md)
+- [&sect; 05600 - Repealed. Pub. L. 104&#8211;106, div. A, title XV, &sect;1501(c)(26), Feb. 10, 1996, 110 Stat. 499](%C2%A7%2005600%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93106%2C%20div.%20A%2C%20title%20XV%2C%20%C2%A71501%28c%29%2826%29%2C%20Feb.%2010%2C%201996%2C%20110%20Stat.%20499.md)
 - [&sect; 05601 - Repealed. Pub. L. 89&#8211;609, &sect;1(10), Sept. 30, 1966, 80 Stat. 853](%C2%A7%2005601%20-%20Repealed.%20Pub.%20L.%2089%E2%80%93609%2C%20%C2%A71%2810%29%2C%20Sept.%2030%2C%201966%2C%2080%20Stat.%20853.md)

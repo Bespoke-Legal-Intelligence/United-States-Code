@@ -12,7 +12,7 @@ The Board may not make any grant to RFE/RL, Incorporated, unless the certificate
 
 (1) The Board may not make any grant to RFE/RL, Incorporated unless the headquarters of RFE/RL, Incorporated and its senior administrative and managerial staff are in a location which ensures economy, operational effectiveness, and accountability to the Board.
 
-(2) Not later than 90 days after confirmation of all members of the Board, the Board shall provide a report to Congress on the number of administrative, managerial, and technical staff of RFE/RL, Incorporated who will be located within the metropolitan area of Washington, D.C., and the number of employees whose principal place of business will be located outside the metropolitan area of Washington, D.C.
+(2) Not later than 90 days after confirmation of all members of the Board, the Board shall provide a report to Congress on the number of administrative, managerial, and technical staff ofRFE/RL, Incorporated who will be located within the metropolitan area of Washington, D.C., and the number of employees whose principal place of business will be located outside the metropolitan area of Washington, D.C.
 
 #### (c) Limitation on grant amounts
 
@@ -70,7 +70,7 @@ No grant funds provided under this section may be used for the following purpose
 
 (2) Representatives of the General Accounting Office shall have access to all books, accounts, records, reports, files, papers, and property belonging to or in use by RFE/RL, Incorporated pertaining to such financial transactions and necessary to facilitate an audit. Such representatives shall be afforded full facilities for verifying transactions with any assets held by depositories, fiscal agents, and custodians. All such books, accounts, records, reports, files, papers, and property of RFE/RL, Incorporated, shall remain in the possession and custody of RFE/RL, Incorporated.
 
-(3) Notwithstanding any other provision of law and upon repeal of the Board for International Broadcasting Act \[22 U.S.C. 2871 et seq.\], the Inspector General of the United States Information Agency is authorized to exercise the authorities of the Inspector General Act of 1978 with respect to RFE/RL, Incorporated.
+(3) Notwithstanding any other provision of law and upon repeal of the Board for InternationalBroadcasting Act \[22 U.S.C. 2871 et seq.\], the Inspector General of the United States Information Agency is authorized to exercise the authorities of the Inspector General Act of 1978 with respect to RFE/RL, Incorporated.
 
 #### (k) Plan for relocation
 
@@ -92,7 +92,7 @@ Not later than 90 days after the date of confirmation of all members of the Boar
 
 The foreign relations laws of the United States, referred to in subsec. (h)(1)(A), are classified generally to this title.
 
-The Board for International Broadcasting Act, referred to in subsecs. (f) and (j)(3), is Pub. L. 93–129, Oct.19, 1973, 87 Stat. 456, as amended, which was classified generally to chapter 43 (§2871 et seq.) of this title prior to repeal by Pub. L. 103–236, title III, §310(e), Apr. 30, 1994, 108 Stat. 442. See section 6209(e) of this title.
+The Board for International Broadcasting Act, referred to in subsecs. (f) and (j)(3), is Pub. L. 93–129, Oct. 19, 1973, 87 Stat. 456, as amended, which was classified generally to chapter 43 (§2871 et seq.) of this title prior to repeal by Pub. L. 103–236, title III, §310(e), Apr. 30, 1994, 108 Stat. 442. See section 6209(e) of this title.
 
 The Inspector General Act of 1978, referred to in subsec. (j)(3), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 

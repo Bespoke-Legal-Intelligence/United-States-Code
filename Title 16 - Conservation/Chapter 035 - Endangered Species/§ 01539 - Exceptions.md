@@ -36,7 +36,7 @@
 
 #### (b) Hardship exemptions
 
-(1) If any person enters into a contract with respect to a species of fish or wildlife or plant before the date of the publication in the Federal Register of notice of consideration of that species as an endangered species and the subsequent listing of that species as an endangered species pursuant to section 1533 of this title will cause undue economic hardship to such person under the contract, the Secretary, in order to minimize such hardship, may exempt such person from the application of section 1538(a) of this title to the extent the Secretary deems appropriate if such person applies to him for such exemption and includes with such application such information as the Secretary may require to prove such hardship; except that (A) no such exemption shall be for a duration of more than one year from the date of publication in the Federal Register of notice of consideration of the species concerned, or shall apply to a quantity of fish or wildlife or plants in excess of that specified by the Secretary; (B) the one-year period for those species of fish or wildlife listed by the Secretary as endangered prior to December 28, 1973, shall expire in accordance with the terms of section 668cc–3 <sup>1</sup> of this title; and (C) no such exemption may be granted for the importation or exportation of a specimen listed in Appendix I of the Convention which is to be used in a commercial activity.
+(1) If any person enters into a contract with respect to a species of fish or wildlife or plant before the date of the publication in the Federal Register of notice of consideration of that species as an endangered species and the subsequent listing of that species as an endangeredspecies pursuant to section 1533 of this title will cause undue economic hardship to such person under the contract, the Secretary, in order to minimize such hardship, may exempt such person from the application of section 1538(a) of this title to the extent the Secretary deems appropriate if such person applies to him for such exemption and includes with such application such information as the Secretary may require to prove such hardship; except that (A) no such exemption shall be for a duration of more than one year from the date of publication in the Federal Register of notice of consideration of the species concerned, or shall apply to a quantity of fish or wildlife or plants in excess of that specified by the Secretary; (B) the one-year period for those species of fish or wildlife listed by the Secretary as endangered prior to December 28, 1973, shall expire in accordance with the terms of section 668cc–3 <sup>1</sup> of this title; and (C) no such exemption may be granted for the importation or exportation of a specimen listed in Appendix I of the Convention which is to be used in a commercial activity.
 
 (2) As used in this subsection, the term “undue economic hardship” shall include, but not be limited to:
 
@@ -58,7 +58,7 @@ The Secretary may grant exceptions under subsections (a)(1)(A) and (b) of this s
 
 #### (e) Alaska natives
 
-(1) Except as provided in paragraph (4) of this subsection the provisions of this chapter shall not apply with respect to the taking of any endangered species or threatened species, or theimportation of any such species taken pursuant to this section, by—
+(1) Except as provided in paragraph (4) of this subsection the provisions of this chapter shall not apply with respect to the taking of any endangered species or threatened species, or the importation of any such species taken pursuant to this section, by—
 
 &emsp;(A) any Indian, Aleut, or Eskimo who is an Alaskan Native who resides in Alaska; or
 
@@ -114,7 +114,7 @@ The Secretary may grant exceptions under subsections (a)(1)(A) and (b) of this s
 
 &emsp;(D) any term or condition prescribed pursuant to paragraph (5)(A) or (B), or both, which the Secretary deems necessary or appropriate.
 
-(5) The Secretary shall prescribe such regulations as he deems necessary and appropriate tocarry out the purposes of this subsection. Such regulations may set forth—
+(5) The Secretary shall prescribe such regulations as he deems necessary and appropriate to carry out the purposes of this subsection. Such regulations may set forth—
 
 &emsp;(A) terms and conditions which may be imposed on applicants for exemptions under this subsection (including, but not limited to, requirements that applicants register inventories, keep complete sales records, permit duly authorized agents of the Secretary to inspect such inventories and records, and periodically file appropriate reports with the Secretary); and
 
@@ -132,7 +132,7 @@ The Secretary may grant exceptions under subsections (a)(1)(A) and (b) of this s
 
 &emsp;(B) immunize any person from prosecution for any such act.
 
-(8)(A)(i) <sup>2</sup> Any valid certificate of exemption which was renewed after October 13, 1982, and was in effect on March 31, 1988, shall be deemed to be renewed for a six-month period beginning on October 7, 1988. Any person holding such a certificate may apply to the Secretary for one additional renewal of such certificate for a period not to exceed 5 years beginning on October 7, 1988.
+(8)(A)(i) <sup>2</sup> Any valid certificate of exemption which was renewed after October 13, 1982, and was in effect on March 31, 1988, shall be deemed to be renewed for a six-month period beginning on October 7, 1988. Any person holding such a certificate may apply to the Secretary for oneadditional renewal of such certificate for a period not to exceed 5 years beginning on October 7, 1988.
 
 (B) If the Secretary approves any application for renewal of an exemption under this paragraph, he shall issue to the applicant a certificate of renewal of such exemption which shall provide that all terms, conditions, prohibitions, and other regulations made applicable by the previous certificate shall remain in effect during the period of the renewal.
 

@@ -12,7 +12,9 @@ Premium Levels.—The Secretary may provide reinsurance at premiums not less tha
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

@@ -30,7 +30,7 @@ Pub. L. 94–204, §14, Jan. 2, 1976, 89 Stat. 1154, provided that:
 
 &emsp;“(6) Venetie.
 
-“(c) Funds authorized under this section may be used only for planning, development, and other purposes for which the corporations set forth in subsections (a) and\(b) are organized under the Settlement Act \[this chapter\].
+“(c) Funds authorized under this section may be used only for planning, development, and other purposes for which the corporations set forth in subsections (a) and (b) are organized under the Settlement Act \[this chapter\].
 
 “(d) There is authorized to be appropriated to the Secretary for the purpose of this section a sum of $1,600,000 in fiscal year 1976.”
 

@@ -32,5 +32,5 @@ This Act, referred to in text, means Pub. L. 92–549, Oct. 25, 1972, 86 Stat. 1
 
 #### Short Title
 
-Section 1 of Pub. L. 92–549 provided: “That this Act \[enacting this section and sections 277d–35 to 277d–42 of this title and amending section 1322 of Title 19, Customs Duties\] may be cited as the ‘American-Mexican Boundary Treaty Act of 1972’.”
+Section 1 of Pub. L. 92–549 provided: “That this Act \[enacting this section and sections 277d–35 to 277d–42 ofthis title and amending section 1322 of Title 19, Customs Duties\] may be cited as the ‘American-Mexican Boundary Treaty Act of 1972’.”
 

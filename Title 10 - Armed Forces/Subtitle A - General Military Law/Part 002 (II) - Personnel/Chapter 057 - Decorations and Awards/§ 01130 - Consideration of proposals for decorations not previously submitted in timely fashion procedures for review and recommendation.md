@@ -1,0 +1,134 @@
+### §1130. Consideration of proposals for decorations not previously submitted in timely fashion: procedures for review and recommendation
+
+(a) Upon request of a Member of Congress, the Secretary concerned shall review a proposal for the award or presentation of a decoration (or the upgrading of a decoration), either for an individual or a unit, that is not otherwise authorized to be presented or awarded due to limitations established by law or policy for timely submission of a recommendation for such award or presentation. Based upon such review, the Secretary shall make a determination as to the merits of approving the award or presentation of the decoration and the other determinations necessary to comply with subsection (b).
+
+(b) Upon making a determination under subsection (a) as to the merits of approving the award or presentation of the decoration, the Secretary concerned shall submit to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives and to the requesting member of Congress notice in writing of one of the following:
+
+&emsp;(1) The award or presentation of the decoration does not warrant approval on the merits.
+
+&emsp;(2) The award or presentation of the decoration warrants approval and a waiver by law of time restrictions prescribed by law is recommended.
+
+&emsp;(3) The award or presentation of the decoration warrants approval on the merits and has been approved as an exception to policy.
+
+&emsp;(4) The award or presentation of the decoration warrants approval on the merits, but a waiver of the time restrictions prescribed by law or policy is not recommended.
+
+> A notice under paragraph (1) or (4) shall be accompanied by a statement of the reasons for the decision of the Secretary.
+
+(c) Determinations under this section regarding the award or presentation of a decoration shall be made in accordance with the same procedures that apply to the approval or disapproval of the award or presentation of a decoration when a recommendation for such award or presentation is submitted in a timely manner as prescribed by law or regulation.
+
+(d) In this section:
+
+&emsp;(1) The term “Member of Congress” means—
+
+&emsp;&emsp;(A) a Senator; or
+
+&emsp;&emsp;(B) a Representative in, or a Delegate or Resident Commissioner to, Congress.
+
+&emsp;(2) The term “decoration” means any decoration or award that may be presented or awarded to a member or unit of the armed forces.
+
+(Added Pub. L. 104–106, div. A, title V, §526(a), Feb. 10, 1996, 110 Stat. 313.)
+
+#### Authority To Award Decorations Recognizing Acts of Valor Performed in Combat During the Vietnam Conflict
+
+Section 522 of Pub. L. 104–106 provided that:
+
+“(a)
+
+Findings.—Congress makes the following findings:
+
+&emsp;“(1) The Ia Drang Valley (Pleiku) campaign, carried out by the Armed Forces in the Ia Drang Valley of Vietnam from October 23, 1965, to November 26, 1965, is illustrative of the many battles during the Vietnam conflict which pitted forces of the United States against North Vietnamese Army regulars and Viet Cong in vicious fighting.
+
+&emsp;“(2) Accounts of those battles that have been published since the end of that conflict authoritatively document numerous and repeated acts of extraordinary heroism, sacrifice, and bravery on the part of members of the Armed Forces, many of which have never been officially recognized.
+
+&emsp;“(3) In some of those battles, United States military units suffered substantial losses, with some units sustaining casualties in excess of 50 percent.
+
+&emsp;“(4) The incidence of heavy casualties throughout the Vietnam conflict inhibited the timely collection of comprehensive and detailed information to support recommendations for awards recognizing acts of heroism, sacrifice, and bravery.
+
+&emsp;“(5) Subsequent requests to the Secretaries of the military departments for review of award recommendations for such acts have been denied because of restrictions in law and regulations that require timely filing of such recommendations and documented justification.
+
+&emsp;“(6) Acts of heroism, sacrifice, and bravery performed in combat by members of the Armed Forces deserve appropriate and timely recognition by the people of the United States.
+
+&emsp;“(7) It is appropriate to recognize acts of heroism, sacrifice, or bravery that are belatedly, but properly, documented by persons who witnessed those acts.
+
+“(b)
+
+Waiver of Time Limitations for Recommendations for Awards.—(1) Any decoration covered by paragraph (2) may be awarded, without regard to any time limit imposed by law or regulation for a recommendation for such award to any person for actions by that person in the Southeast Asia theater of operations while serving on active duty during the Vietnam era. The waiver of time limitations under this paragraph applies only in the case of awards for acts of valor for which a request for consideration is submitted under subsection (c).
+
+“(2) Paragraph (1) applies to any decoration (including any device in lieu of a decoration) that, during or after the Vietnam era and before the date of the enactment of this Act \[Feb. 10, 1996\], was authorized by law or under regulations of the Department of Defense or the military department concerned to be awarded to members of the Armed Forces for acts of valor.
+
+“(c)
+
+Review of Requests for Consideration of Awards.—(1) The Secretary of each military department shall review each request for consideration of award of a decoration described in subsection (b) that are received by the Secretary during the one-year period beginning on the date of enactment of this Act \[Feb. 10, 1996\].
+
+“(2) The Secretaries shall begin the review within 30 days after the date of the enactment of this Act and shall complete the review of each request for consideration not later than one year after the date on which the request is received.
+
+“(3) The Secretary may use the same process for carrying out the review as the Secretary uses for reviewing other recommendations for award of decorations to members of the Armed Forces under the Secretary's jurisdiction for valorous acts.
+
+“(d)
+
+Report.—(1) Upon completing the review of each such request under subsection (c), the Secretary shall submit a report on the review to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives.
+
+“(2) The report shall include, with respect to each request for consideration received, the following information:
+
+&emsp;“(A) A summary of the request for consideration.
+
+&emsp;“(B) The findings resulting from the review.
+
+&emsp;“(C) The final action taken on the request for consideration.
+
+“(e)
+
+Definition.—For purposes of this section:
+
+&emsp;“(1) The term ‘Vietnam era’ has the meaning given that term in section 101 of title 38, United States Code.
+
+&emsp;“(2) The term ‘active duty’ has the meaning given that term in section 101 of title 10, United States Code.”
+
+#### Military Intelligence Personnel Prevented by Secrecy From Being Considered for Decorations and Awards
+
+Section 523 of Pub. L. 104–106 provided that:
+
+“(a)
+
+Waiver on Restrictions of Awards.—(1) Any decoration covered by paragraph (2) may be awarded, without regard to any time limit imposed by law or regulation for a recommendation for such award, to any person for an act, achievement, or service that the person performed in carrying out military intelligence duties during the period beginning on January 1, 1940, and ending on December 31, 1990.
+
+“(2) Paragraph (1) applies to any decoration (including any device in lieu of a decoration) that, during or after the period described in paragraph (1) and before the date of the enactment of this Act \[Feb. 10, 1996\], was authorized by law or under the regulations of the Department of Defense or the military department concerned to be awarded to a person for an act, achievement, or service performed by that person while serving on active duty.
+
+“(b)
+
+Review of Requests for Consideration of Awards.—(1) The Secretary of each military department shall review each request for consideration of award of a decoration described in subsection (a) that is received by the Secretary during the one-year period beginning on the date of the enactment of this Act \[Feb. 10, 1996\].
+
+“(2) The Secretaries shall begin the review within 30 days after the date of the enactment of this Act and shall complete the review of each request for consideration not later than one year after the date on which the request is received.
+
+“(3) The Secretary may use the same process for carrying out the review as the Secretary uses for reviewing other recommendations for awarding decorations to members of the Armed Forces under the Secretary's jurisdiction for acts, achievements, or service.
+
+“(c)
+
+Report.—(1) Upon completing the review of each such request under subsection (b), the Secretary shall submit a report on the review to the Committee onArmed Services of the Senate and the Committee on National Security of the House of Representatives.
+
+“(2) The report shall include, with respect to each request for consideration reviewed, the following information:
+
+&emsp;“(A) A summary of the request for consideration.
+
+&emsp;“(B) The findings resulting from the review.
+
+&emsp;“(C) The final action taken on the request for consideration.
+
+&emsp;“(D) Administrative or legislative recommendations to improve award procedures with respect to military intelligence personnel.
+
+“(d)
+
+Definition.—For purposes of this section, the term ‘active duty’ has the meaning given such term in section 101 of title 10, United States Code.”
+
+#### Eligibility for Armed Forces Expeditionary Medal Based Upon Service in El Salvador
+
+Section 525 of Pub. L. 104–106 provided that:
+
+“(a)
+
+In General.—For the purpose of determining eligibility of members and former members of the Armed Forces for the Armed Forces Expeditionary Medal, the country of El Salvador during the period beginning on January 1, 1981 and ending on February 1, 1992, shall be treated as having been designated as an area and a period of time in which members of the Armed Forces participated in operations in significant numbers and otherwise met the general requirements for the award of that medal.
+
+“(b)
+
+Individual Determination.—The Secretary of the military department concerned shall determine whether individual members or former members of the Armed Forces who served in El Salvador during the period beginning on January 1, 1981 and ending on February 1, 1992 meet the individual service requirements for award of the Armed Forces Expeditionary Medal as established in applicable regulations. Such determinations shall be made as expeditiously as possible after the date of the enactment of this Act \[Feb. 10, 1996\].”
+

@@ -4,7 +4,7 @@
 
 #### (1) Procurement of promotional materials
 
-&emsp;The Secretary is authorized to procure materials that, in the judgment of the Secretary, are necessary to promote the Corps of Engineers safety program.
+&emsp;The Secretary is authorized to procure materials that, in the judgment of the Secretary,are necessary to promote the Corps of Engineers safety program.
 
 #### (2) Distribution of materials to employees
 

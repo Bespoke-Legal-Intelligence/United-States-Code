@@ -1,16 +1,12 @@
 ### SUBCHAPTER III—NEGOTIATED RULEMAKING PROCEDURE
 
-#### Repeal of Subchapter
-
-<i>Subchapter repealed effective six years after Nov. 29, 1990, see section 5 of Pub. L. 101–648, as amended, set out as an Effective Date of Repeal; Savings Provision note under section 561 of this title.</i>
-
 #### Prior Provisions
 
 A prior subchapter III (§571 et seq.) was redesignated subchapter V (§591 et seq.) of this chapter.
 
 #### Amendments
 
-<b>1992</b>—Pub. L. 102–354, §3(a)(1), Aug. 26, 1992, 106 Stat. 944, redesignated subchapter IV of this chapter relating to negotiated rulemaking procedure as this subchapter.
+1992—Pub. L. 102–354, §3(a)(1), Aug. 26, 1992, 106 Stat. 944, redesignated subchapter IV of this chapter relating to negotiated rulemaking procedure as this subchapter.
 
 #### Subchapter Referred to in Other Sections
 
@@ -29,5 +25,6 @@ This subchapter is referred to in title 20 section 6511; title 25 sections 450k,
 - [&sect; 00566 - Conduct of committee activity](%C2%A7%2000566%20-%20Conduct%20of%20committee%20activity.md)
 - [&sect; 00567 - Termination of committee](%C2%A7%2000567%20-%20Termination%20of%20committee.md)
 - [&sect; 00568 - Services, facilities, and payment of committee member expenses](%C2%A7%2000568%20-%20Services%2C%20facilities%2C%20and%20payment%20of%20committee%20member%20expenses.md)
-- [&sect; 00569 - Role of the Administrative Conference of the United States and other entities](%C2%A7%2000569%20-%20Role%20of%20the%20Administrative%20Conference%20of%20the%20United%20States%20and%20other%20entities.md)
+- [&sect; 00569 - Encouraging negotiated rulemaking](%C2%A7%2000569%20-%20Encouraging%20negotiated%20rulemaking.md)
 - [&sect; 00570 - Judicial review](%C2%A7%2000570%20-%20Judicial%20review.md)
+- [&sect; 00570a - Authorization of appropriations](%C2%A7%2000570a%20-%20Authorization%20of%20appropriations.md)

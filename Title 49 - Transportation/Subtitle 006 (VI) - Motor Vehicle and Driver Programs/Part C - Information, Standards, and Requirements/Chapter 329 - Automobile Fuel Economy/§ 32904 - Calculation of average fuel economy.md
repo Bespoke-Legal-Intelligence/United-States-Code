@@ -2,7 +2,7 @@
 
 (a)
 
-Method of Calculation.—(1) The Administrator of the Environmental Protection Agencyshall calculate the average fuel economy of a manufacturer subject to—
+Method of Calculation.—(1) The Administrator of the Environmental Protection Agency shall calculate the average fuel economy of a manufacturer subject to—
 
 &emsp;(A) section 32902(a) of this title in a way prescribed by the Administrator; and
 
@@ -54,7 +54,7 @@ Separate Calculations for Passenger Automobiles Manufactured Domestically and No
 
 (4) In this subsection, the fuel economy of a passenger automobile that is not manufactured domestically is deemed to be equal to the average fuel economy of all passenger automobiles manufactured by the same manufacturer that are not manufactured domestically.
 
-(5)(A) A manufacturer may submit to the Secretary of Transportation for approval a plan, including supporting material, stating the actions and the deadlines for taking the actions, that will ensure that the model or models referred to in subparagraph (B) of this paragraph will bemanufactured domestically before the end of the 4th model year covered by the plan. The Secretary promptly shall consider and act on the plan. The Secretary shall approve the plan unless—
+(5)(A) A manufacturer may submit to the Secretary of Transportation for approval a plan, including supporting material, stating the actions and the deadlines for taking the actions, that will ensure that the model or models referred to in subparagraph (B) of this paragraph will be manufactured domestically before the end of the 4th model year covered by the plan. The Secretary promptly shall consider and act on the plan. The Secretary shall approve the plan unless—
 
 &emsp;(i) the Secretary finds that the plan is inadequate to meet the requirements of this paragraph; or
 
@@ -78,7 +78,7 @@ Separate Calculations for Passenger Automobiles Manufactured Domestically and No
 
 (B) The Secretary of Transportation shall grant the exemption unless the Secretary finds that the exemption would result in reduced employment in the United States related to motor vehicle manufacturing during the period of the exemption. An exemption under this paragraph is effective for 5 model years or, if requested by the manufacturer, a longer period provided by the Secretary in the order granting the exemption. The exemption applies to passenger automobiles manufactured by that manufacturer during the period of the exemption.
 
-(C) Before granting an exemption, the Secretary of Transportation shall provide notice of, and reasonable opportunity for, written or oral comment about the petition. The period for comment shall end not later than 60 days after the petition is filed, except that the Secretary may extend the period for not more than another 30 days. The Secretary shall decide whether to grant or deny the exemption, and publish notice of the decision in the Federal Register, not later than 90 days after the petition is filed, except that the Secretary may extend the time for decision to a later date (not later than 150 days after the petition is filed) if the Secretary publishes notice of, and reasons for, the extension in the Federal Register. If the Secretary does not make a decision within the time provided in this subparagraph, the petition is deemed to have been granted. Not later than 30 days after the end of the decision period, the Secretary shall submit a written statement of the reasons for not making a decision to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives.
+(C) Before granting an exemption, the Secretary of Transportation shall provide notice of, and reasonable opportunity for, written or oral comment about the petition. The period for comment shall end not later than 60 days after the petition is filed, except that the Secretary may extend the period for not more than another 30 days. The Secretary shall decide whether to grant or deny the exemption, and publish notice of the decision in the Federal Register, not later than 90 days after the petition is filed, except that the Secretary may extend the time for decision to a later date (not later than 150 days after the petition is filed) if the Secretary publishes notice of, and reasons for, the extension in the Federal Register. If the Secretary does not make a decision within the time provided in this subparagraph, the petition is deemed to have been granted. Not later than 30 days after the end of the decision period, the Secretary shall submit a written statement of the reasons for not making a decision to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Commerce of the House of Representatives.
 
 (7)(A) A person adversely affected by a decision of the Secretary of Transportation granting or denying an exemption may file, not later than 30 days after publication of the notice of the decision, a petition for review in the United States Court of Appeals for the District of Columbia Circuit. That court has exclusive jurisdiction to review the decision and to affirm, remand, or set aside the decision under section 706(2)(A)–(D) of title 5.
 
@@ -104,13 +104,15 @@ Effective Date of Procedure or Amendment.—The Administrator shall prescribe a 
 
 Reports and Consultation.—The Administrator shall report measurements and calculations under this section to the Secretary of Transportation and shall consult and coordinate with the Secretary in carrying out this section.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1062; Pub. L. 103–429, §6(36), Oct. 31, 1994, 108 Stat. 4380.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1062; Pub. L. 103–429, §6(36), Oct. 31, 1994, 108 Stat. 4380; Pub. L. 104–287, §5(63), Oct. 11, 1996, 110 Stat. 3395.)
 
 Historical and Revision Notes
 
 Pub. L. 103–272
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -194,7 +196,9 @@ This makes conforming amendments necessary because of the restatement of 15:2003
 
 Pub. L. 103–429, §6(36)(B)
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -208,9 +212,9 @@ Oct. 20, 1972, Public Law 92–513, §503(b)(2)(E), (G), as amended Dec. 8, 1993
 
 The text of 49:32904(b)(1) is the text of 49:32904(b)(2), as enacted by section 1 of the Act of July 5, 1994 (Public Law 103–272, 108 Stat. 1063), with conforming changes made in the cited cross-references.
 
-The text of subsection (b)(2) is the text of 49:32904(b)(1)(A), as enacted by section 1 of the Act of July 5, 1994 (Public Law 103–272, 108 Stat. 1063), with the amendments of the underlying source provisions of 49:32904(b)(1)(A) made by section 371(b)(1) of the North American Free Trade Implementation Act (Public Law 103–182, 107 Stat. 2128). The words “(except as provided in paragraph (3))” are substituted for “Except as provided in subparagraph (G)” because of the restatement of 15:2003(b)(2)(G) as 49:32904(b)(3).
+The text of subsection (b)(2) is the text of 49:32904(b)(1)(A), as enacted by section 1 of the Act ofJuly 5, 1994 (Public Law 103–272, 108 Stat. 1063), with the amendments of the underlying source provisions of 49:32904(b)(1)(A) made by section 371(b)(1) of the North American Free Trade Implementation Act (Public Law 103–182, 107 Stat. 2128). The words “(except as provided in paragraph (3))” are substituted for “Except as provided in subparagraph (G)” because of the restatement of 15:2003(b)(2)(G) as 49:32904(b)(3).
 
-In subsection (b)(3)(A), the words “is imported . . . more than 30 days after” are substituted for “is not imported . . . prior to the expiration of 30 days following” for clarity and consistency with title 49, United States Code.
+In subsection (b)(3)(A), the words “is imported . . . more than 30 days after” are substituted for “is not imported . . . prior to the expiration of 30 days following” for clarity and consistency with title 49, United States Code.
 
 In subsection (b)(3)(C), the words “and the EPA Administrator may prescribe rules for purposes of carrying out this subparagraph” are omitted as surplus because of the authority of the Administrator to prescribe regulations under 49:32910(d). The amendment made by section 371(b)(2) of the North American Free Trade Implementation Act (Public Law 103–182, 107 Stat. 2128) is not given effect because the last sentence of section 503(b)(2)(E) of the Motor Vehicle and Cost Savings Act (Public Law 92–513, 86 Stat. 947) was omitted in the restatement of title 49 because of the authority of the Administrator to prescribe regulations under 49:32910(d).
 
@@ -221,6 +225,8 @@ The text of subsection (b)(4) is the text of 49:32904(b)(1)(B), as enacted by se
 This makes conforming amendments necessary because of the restatement of 15:2003(b)(2)(G) as 49:32904(b)(3) by section 6(36)(B) of the bill.
 
 #### Amendments
+
+1996—Subsec. (b)(6)(C). Pub. L. 104–287 substituted “Committee on Commerce” for “Committee on Energy and Commerce”.
 
 1994—Subsec. (b)(1). Pub. L. 103–429, §6(36)(B), added par. (1) and struck out former par. (1) which read as follows: “In this subsection—
 
@@ -249,10 +255,6 @@ Subsec. (b)(6). Pub. L. 103–429, §6(36)(A), redesignated par. (4) as (6). For
 Subsec. (b)(6)(A). Pub. L. 103–429, §6(36)(D), substituted “paragraph (1)(A)” for “paragraph (2)(A)” in introductory provisions.
 
 Subsec. (b)(7), (8). Pub. L. 103–429, §6(36)(A), redesignated pars. (5) and (6) as (7) and (8), respectively.
-
-#### Change of Name
-
-Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Section Referred to in Other Sections
 

@@ -32,7 +32,9 @@ Subpenas for Witnesses.—In a civil action brought under this section, a subpen
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

@@ -2,9 +2,11 @@
 
 (a)(1) Subject to the provisions of this section, the Secretary of Defense may repay—
 
-&emsp;(A) any loan made, insured, or guaranteed under part B of title IV of the Higher Education Act of 1965 (20 U.S.C. 1071 et seq.); or
+&emsp;(A) any loan made, insured, or guaranteed under part B of title IV of the Higher Education Act of 1965 (20 U.S.C. 1071 et seq.);
 
-&emsp;(B) any loan made under part E of such title (20 U.S.C. 1087aa et seq.).
+&emsp;(B) any loan made under part D of such title (the William D. Ford Federal Direct Loan Program, 20 U.S.C. 1087a et seq.); or
+
+&emsp;(C) any loan made under part E of such title (20 U.S.C. 1087aa et seq.).
 
 > Repayment of any such loan shall be made on the basis of each complete year of service performed by the borrower.
 
@@ -12,7 +14,7 @@
 
 (b) The portion or amount of a loan that may be repaid under subsection (a) is 331/3 percent or $1,500, whichever is greater, for each year of service.
 
-(c) If a portion of a loan is repaid under this section for any year, interest on the remainderof such loan shall accrue and be paid in the same manner as is otherwise required.
+(c) If a portion of a loan is repaid under this section for any year, interest on the remainder of such loan shall accrue and be paid in the same manner as is otherwise required.
 
 (d) Nothing in this section shall be construed to authorize refunding any repayment of a loan.
 
@@ -20,13 +22,15 @@
 
 (f) The Secretary of Defense shall, by regulation, prescribe a schedule for the allocation of funds made available to carry out the provisions of this section and section 16301 of this title during any year for which funds are not sufficient to pay the sum of the amounts eligible for repayment under subsection (a) and section 16301(a) of this title.
 
-(Added Pub. L. 99–145, title VI, §671(a)(1), Nov. 8, 1985, 99 Stat. 661; amended Pub. L. 103–337, div. A, title XVI, §1663(e), Oct. 5, 1994, 108 Stat. 3009.)
+(Added Pub. L. 99–145, title VI, §671(a)(1), Nov. 8, 1985, 99 Stat. 661; amended Pub. L. 103–337, div. A, title XVI, §1663(e), Oct. 5, 1994, 108 Stat. 3009; Pub. L. 104–106, div. A, title X, §1079(a), Feb. 10, 1996, 110 Stat. 451.)
 
 #### References in Text
 
-The Higher Education Act of 1965, referred to in subsec. (a)(1), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended. Parts B and E of title IV of the Higher Education Act of 1965 are classified to parts B (§1071 et seq.) and D (§1087aa et seq.) of subchapter IV of chapter 28 of Title 20, Education, respectively. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
+The Higher Education Act of 1965, referred to in subsec. (a)(1), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended. Parts B, D, and E of title IV of the Higher Education Act of 1965 are classified to parts B (§1071 et seq.), C (§1087a et seq.), and D (§1087aa et seq.) of subchapter IV of chapter 28 of Title 20, Education, respectively. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
 #### Amendments
+
+1996—Subsec. (a)(1). Pub. L. 104–106 struck out “or” at end of subpar. (A), added subpar. (B), and redesignated former subpar. (B) as (C).
 
 1994—Pub. L. 103–337, §1663(e)(6), substituted “Education loan repayment program: enlisted members on active duty in specified military specialties” for “General educational loan repayment program” as section catchline.
 

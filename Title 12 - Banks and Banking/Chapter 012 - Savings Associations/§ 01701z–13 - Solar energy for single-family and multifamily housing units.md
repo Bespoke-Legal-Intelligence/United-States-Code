@@ -32,7 +32,7 @@ This Act, referred to in subsec. (b)(2), is Pub. L. 95–557, Oct. 31, 1978, 92 
 
 #### Codification
 
-Section was enacted as part of the Housing and Community Development Amendments of 1978, and not aspart of the National Housing Act which comprises this chapter.
+Section was enacted as part of the Housing and Community Development Amendments of 1978, and not as part of the National Housing Act which comprises this chapter.
 
 #### Amendments
 

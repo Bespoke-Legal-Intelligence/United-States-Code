@@ -2,7 +2,7 @@
 
 #### (a) Grants to States
 
-The Secretary, acting through the Center and in consultation with the Attorney General, is authorized to make grants to the States for the purpose of assisting States in developing, establishing, and operating programs designed to improve—
+The Secretary, in consultation with the Attorney General, is authorized to make grants to the States for the purpose of assisting States in developing, establishing, and operating programs designed to improve—
 
 &emsp;(1) the handling of child abuse and neglect cases, particularly cases of child sexual abuse and exploitation, in a manner which limits additional trauma to the child victim;
 
@@ -14,7 +14,7 @@ The Secretary, acting through the Center and in consultation with the Attorney G
 
 In order for a State to qualify for assistance under this section, such State shall—
 
-&emsp;(1) fulfill the requirements of sections <sup>1</sup> 5106a(b) of this title;
+&emsp;(1) fulfill the requirements of section 5106a(b) <sup>1</sup> of this title;
 
 &emsp;(2) establish a task force as provided in subsection (c) of this section;
 
@@ -32,7 +32,7 @@ In order for a State to qualify for assistance under this section, such State sh
 
 #### (1) General rule
 
-&emsp;Except as provided in paragraph (2), a State requesting assistance under this section shall establish or designate, and maintain a State multidisciplinary task force on children's justice (hereinafter referred to as “State task force”) composed of professionals with knowledge and experience relating to the criminal justice system and issues of child physical abuse, child neglect, child sexual abuse and exploitation, and child maltreatment related fatalities. The State task force shall include—
+&emsp;Except as provided in paragraph (2), a State requesting assistance under this section shall establish or designate, and maintain, a State multidisciplinary task force on children's justice (hereinafter referred to as “State task force”) composed of professionals with knowledge and experience relating to the criminal justice system and issues of child physical abuse, child neglect, child sexual abuse and exploitation, and child maltreatment related fatalities. The State task force shall include—
 
 &emsp;&emsp;(A) individuals representing the law enforcement community;
 
@@ -44,7 +44,7 @@ In order for a State to qualify for assistance under this section, such State sh
 
 &emsp;&emsp;(E) individuals representing child protective service agencies;
 
-&emsp;&emsp;(F) individuals experienced in working with children with disabilities <sup>2</sup>
+&emsp;&emsp;(F) individuals experienced in working with children with disabilities;
 
 &emsp;&emsp;(G) parents; and
 
@@ -58,7 +58,7 @@ In order for a State to qualify for assistance under this section, such State sh
 
 Before a State receives assistance under this section, and at three year intervals thereafter, the State task force shall comprehensively—
 
-&emsp;(1) review and evaluate State investigative, administrative and both civil and criminal judicial handling of cases of child abuse and neglect, particularly child sexual abuse and exploitation, as well as cases involving suspected child maltreatment related fatalities and cases involving a potential combination of jurisdictions, such as interstate, Federal-State, and State-Tribal; <sup>3</sup>
+&emsp;(1) review and evaluate State investigative, administrative and both civil and criminal judicial handling of cases of child abuse and neglect, particularly child sexual abuse and exploitation, as well as cases involving suspected child maltreatment related fatalities and cases involving a potential combination of jurisdictions, such as interstate, Federal-State, and State-Tribal; and
 
 &emsp;(2) make policy and training recommendations in each of the categories described in subsection (e) of this section.
 
@@ -88,9 +88,25 @@ Before a State receives assistance under this section, and at three year interva
 
 For grants under this section, the Secretary shall use the amount authorized by section 10603a of this title.
 
-(Pub. L. 93–247, title I, §109, formerly §10, as added Pub. L. 100–294, title I, §101, Apr. 25, 1988, 102 Stat. 113; renumbered title I, §109, and amended Pub. L. 101–126, §3(a)(1), (2), (b)(5), Oct. 25, 1989, 103 Stat. 764, 765; Pub. L. 102–295, title I, §116(a), May 28, 1992, 106 Stat. 195.)
+(Pub. L. 93–247, title I, §107, formerly §10, as added Pub. L. 100–294, title I, §101, Apr. 25, 1988, 102 Stat. 113; renumbered title I, §109, and amended Pub. L. 101–126, §3(a)(1), (2), (b)(5), Oct. 25, 1989, 103 Stat. 764, 765; Pub. L. 102–295, title I, §116(a), May 28, 1992, 106 Stat. 195; renumbered §107 and amended Pub. L. 104–235, title I, §113(a)(1)(B), (2), Oct. 3, 1996, 110 Stat. 3079.)
+
+#### References in Text
+
+Section 5106a(b) of this title, referred to in subsec. (b)(1), was in the original a reference to section 107(b), meaning section 107(b) of Pub. L. 93–247. Section 107 of Pub. L. 93–247 was renumbered section 106 by Pub. L. 104–235, title I, §113(a)(1)(A), Oct. 3, 1996, 110 Stat. 3079. Section 109 of Pub. L. 93–247 was renumbered section 107 and is classified to this section.
+
+#### Prior Provisions
+
+A prior section 107 of Pub. L. 93–247 was renumbered section 106 and is classified to section 5106a of this title.
 
 #### Amendments
+
+1996—Subsec. (a). Pub. L. 104–235, §113(a)(2)(A), substituted “The Secretary, in consultation” for “The Secretary, acting through the Center and in consultation” in introductory provisions.
+
+Subsec. (b)(1). Pub. L. 104–235, §113(a)(2)(B), substituted “section” for “sections”.
+
+Subsec. (c)(1). Pub. L. 104–235, §113(a)(2)(C), inserted comma after “maintain” in introductory provisions and semicolon at end of subpar. (F).
+
+Subsec. (d)(1). Pub. L. 104–235, §113(a)(2)(D), inserted “and” at end.
 
 1992—Pub. L. 102–295, §116(a)(1), in section catchline inserted “and neglect” after “child abuse”.
 
@@ -120,11 +136,7 @@ Subsec. (e)(1)(C). Pub. L. 102–295, §116(a)(6)(C), inserted “, protocols�
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 5105, 5106f of this title.
+This section is referred to in sections 5106f, 10603a of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “section”.</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be followed by a semicolon.</i>
-
-<i><sup>3</sup></i><i> So in original. Probably should be followed by “and”.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

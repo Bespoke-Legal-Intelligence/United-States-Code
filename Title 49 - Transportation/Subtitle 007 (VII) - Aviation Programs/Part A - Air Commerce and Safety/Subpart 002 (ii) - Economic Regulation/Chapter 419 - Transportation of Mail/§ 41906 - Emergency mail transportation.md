@@ -12,7 +12,9 @@ Transportation Not Air Transportation.—Transportation provided under a contrac
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

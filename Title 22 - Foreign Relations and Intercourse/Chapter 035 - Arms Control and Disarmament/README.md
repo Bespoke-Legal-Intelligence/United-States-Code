@@ -47,7 +47,7 @@
 | (i) | Disarmament implications of foreign and national security policies of United States. |
 | (j) | National security and foreign policy implications of disarmament. |
 | (k) | Methods for maintenance of peace and security during stages of disarmament. |
-| (<i>l)</i> | War prevention factors. |
+| (<i>l</i>) | War prevention factors. |
 | (m) | Other related problems. |
 | [2572\.](Subchapter%20003%20%28III%29%20-%20Functions/%C2%A7%2002572%20-%20Patents%3B%20availability%20to%20general%20public%3B%20protection%20of%20background%20rights.md) | Patents; availability to general public; protection of background rights. |
 | [2573\.](Subchapter%20003%20%28III%29%20-%20Functions/%C2%A7%2002573%20-%20Policy%20formulation.md) | Policy formulation. |

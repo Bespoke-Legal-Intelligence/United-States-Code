@@ -8,7 +8,7 @@
 
 #### (2) Determination by facility ascertaining cause of death
 
-&emsp;If a victim of an emergency is transported by emergency response employees to a medicalfacility and the victim dies at or before reaching the medical facility, the medical facility ascertaining the cause of death shall notify the designated officer of the emergency response employees who transported the victim to the initial medical facility of any determination by the medical facility that the victim had an airborne infectious disease.
+&emsp;If a victim of an emergency is transported by emergency response employees to a medical facility and the victim dies at or before reaching the medical facility, the medical facility ascertaining the cause of death shall notify the designated officer of the emergency response employees who transported the victim to the initial medical facility of any determination by the medical facility that the victim had an airborne infectious disease.
 
 #### (b) Requirement of prompt notification
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Not later than 180 days after September 23, 1994, each appropriate Federal banking agency and the National Credit Union Administration Board shall establish an independent intra-agency appellate process. The process shall be available to review material supervisory determinations made at insured depository institutions or at insured credit unions that the agency supervises.
+Not later than 180 days after September 23, 1994, each appropriate Federal banking agencyand the National Credit Union Administration Board shall establish an independent intra-agency appellate process. The process shall be available to review material supervisory determinations made at insured depository institutions or at insured credit unions that the agency supervises.
 
 #### (b) Review process
 
@@ -26,7 +26,7 @@ Not later than 90 days after September 23, 1994, each appropriate Federal bankin
 
 &emsp;The ombudsman appointed in accordance with paragraph (1) for any agency shall—
 
-&emsp;&emsp;(A) act as a liaison between the agency and any affected person with respect to anyproblem such party may have in dealing with the agency resulting from the regulatory activities of the agency; and
+&emsp;&emsp;(A) act as a liaison between the agency and any affected person with respect to any problem such party may have in dealing with the agency resulting from the regulatory activities of the agency; and
 
 &emsp;&emsp;(B) assure that safeguards exist to encourage complainants to come forward and preserve confidentiality.
 
@@ -92,7 +92,7 @@ For purposes of this section, the following definitions shall apply:
 
 #### (2) Independent appellate process
 
-&emsp;The term “independent appellate process” means a review by an agency official who does not directly or indirectly report to the agency official who made the material supervisory determination under review.
+&emsp;The term “independent appellate process” means a review by an agency official who doesnot directly or indirectly report to the agency official who made the material supervisory determination under review.
 
 #### (3) Alternative means of dispute resolution
 
@@ -116,7 +116,7 @@ Nothing in this section shall affect the authority of an appropriate Federal ban
 
 #### Termination of Administrative Conference of United States
 
-For termination of Administrative Conference of United States, see provision of title IV of Pub. L.104–52, set out as a note preceding section 591 of Title 5, Government Organization and Employees.
+For termination of Administrative Conference of United States, see provision of title IV of Pub. L. 104–52, set out as a note preceding section 591 of Title 5, Government Organization and Employees.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

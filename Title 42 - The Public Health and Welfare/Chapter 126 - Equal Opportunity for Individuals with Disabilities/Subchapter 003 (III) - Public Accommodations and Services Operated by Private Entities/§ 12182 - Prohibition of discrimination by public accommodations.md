@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-No individual shall be discriminated against on the basis of disability in the full and equal enjoyment of the goods, services, facilities, privileges, advantages, or accommodations of any place of public accommodation by any person who owns, leases (or leases to), or operates a place of public accommodation.
+No individual shall be discriminated against on the basis of disability in the full and equalenjoyment of the goods, services, facilities, privileges, advantages, or accommodations of any place of public accommodation by any person who owns, leases (or leases to), or operates a place of public accommodation.
 
 #### (b) Construction
 
@@ -16,7 +16,7 @@ No individual shall be discriminated against on the basis of disability in the f
 
 #### (ii) Participation in unequal benefit
 
-&emsp;&emsp;&emsp;It shall be discriminatory to afford an individual or class of individuals, on the basis of a disability or disabilities of such individual or class, directly, or through contractual, licensing, or other arrangements with the opportunity to participate in or benefit from a good, service, facility, privilege, advantage, or accommodationthat is not equal to that afforded to other individuals.
+&emsp;&emsp;&emsp;It shall be discriminatory to afford an individual or class of individuals, on the basis of a disability or disabilities of such individual or class, directly, or through contractual, licensing, or other arrangements with the opportunity to participate in or benefit from a good, service, facility, privilege, advantage, or accommodation that is not equal to that afforded to other individuals.
 
 #### (iii) Separate benefit
 
@@ -70,7 +70,7 @@ No individual shall be discriminated against on the basis of disability in the f
 
 #### (ii) Equivalent service
 
-&emsp;&emsp;&emsp;If a private entity which operates a fixed route system and which is not subject to section 12184 of this title purchases or leases a vehicle with a seating capacity of 16 passengers or less (including the driver) for use on such system after the effectivedate of this subparagraph that is not readily accessible to or usable by individuals with disabilities, it shall be considered discrimination for such entity to fail to operate such system so that, when viewed in its entirety, such system ensures a level of service to individuals with disabilities, including individuals who use wheelchairs, equivalent to the level of service provided to individuals without disabilities.
+&emsp;&emsp;&emsp;If a private entity which operates a fixed route system and which is not subject to section 12184 of this title purchases or leases a vehicle with a seating capacity of 16 passengers or less (including the driver) for use on such system after the effective date of this subparagraph that is not readily accessible to or usable by individuals with disabilities, it shall be considered discrimination for such entity to fail to operate such system so that, when viewed in its entirety, such system ensures a level of service to individuals with disabilities, including individuals who use wheelchairs, equivalent to the level of service provided to individuals without disabilities.
 
 #### (C) Demand responsive system
 
@@ -106,5 +106,5 @@ Section effective 18 months after July 26, 1990, but with subsec. (a) of this se
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 12183, 12184, 12186, 12188, 12209 of this title; title 2 section 1331.
+This section is referred to in sections 12183, 12184, 12186, 12188, 12209 of this title; title 2 section 1331; title 3 section 421.
 

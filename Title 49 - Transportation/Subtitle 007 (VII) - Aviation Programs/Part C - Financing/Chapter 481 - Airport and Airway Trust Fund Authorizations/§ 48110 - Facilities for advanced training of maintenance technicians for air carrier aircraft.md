@@ -6,7 +6,9 @@ For the fiscal years ending September 30, 1993–1995, amounts necessary to carr
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -22,5 +24,5 @@ The words “to the Secretary of Transportation” are added for clarity and con
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 47108, 49101, 49102, 49105 of this title.
+This section is referred to in sections 47108, 50101, 50102, 50105 of this title.
 

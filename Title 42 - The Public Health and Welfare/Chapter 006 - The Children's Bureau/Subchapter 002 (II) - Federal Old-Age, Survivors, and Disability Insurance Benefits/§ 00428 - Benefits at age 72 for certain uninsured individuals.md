@@ -8,7 +8,7 @@ Every individual who—
 
 &emsp;(2)(A) attained such age before 1968, or (B)(i) attained such age after 1967 and before 1972, and (ii) has not less than 3 quarters of coverage, whenever acquired, for each calendar year elapsing after 1966 and before the year in which he or she attained such age,
 
-&emsp;(3) is a resident of the United States (as defined in subsection (e) of this section), and is (A) a citizen of the United States or (B) analien lawfully admitted for permanent residence who has resided in the United States (as defined in section 410(i) of this title) continuously during the 5 years immediately preceding the month in which he or she files application under this section, and
+&emsp;(3) is a resident of the United States (as defined in subsection (e) of this section), and is (A) a citizen of the United States or (B) an alien lawfully admitted for permanent residence who has resided in the United States (as defined in section 410(i) of this title) continuously during the 5 years immediately preceding the month in which he or she files application under this section, and
 
 &emsp;(4) has filed application for benefits under this section,
 
@@ -20,7 +20,7 @@ The benefit amount to which an individual is entitled under this section for any
 
 #### (c) Reduction for government pension system benefits
 
-(1) The benefit amount of any individual under this section for any month shall be reduced (but not below zero) by the amount of any periodic benefit under a governmental pension system for which he or she is eligible for such month.
+(1) The benefit amount of any individual under this section for any month shall be reduced (butnot below zero) by the amount of any periodic benefit under a governmental pension system for which he or she is eligible for such month.
 
 (2) In the case of a husband and wife only one of whom is entitled to benefits under this section for any month, the benefit amount, after any reduction under paragraph (1), shall be further reduced (but not below zero) by the excess (if any) of (A) the total amount of any periodic benefits under governmental pension systems for which the spouse who is not entitled to benefits under this section is eligible for such month, over (B) the benefit amount as determined without regard to this subsection.
 
@@ -46,7 +46,7 @@ The benefit amount to which an individual is entitled under this section for any
 
 The benefit to which any individual is entitled under this section for any month shall not be paid for such month if—
 
-&emsp;(1) such individual receives aid or assistance in the form of money payments in such month under a State plan approved under subchapter I, X, XIV, or XVI of this chapter, or part A of subchapter IV of this chapter, or
+&emsp;(1) such individual receives aid or assistance in the form of money payments in such month under a State plan approved under subchapter I, X, XIV, or XVI of this chapter, or under a State program funded under part A of subchapter IV of this chapter, or
 
 &emsp;(2) such individual's husband or wife receives such aid or assistance in such month, and under the State plan the needs of such individual were taken into account in determining eligibility for (or amount of) such aid or assistance,
 
@@ -54,7 +54,7 @@ The benefit to which any individual is entitled under this section for any month
 
 #### (e) Suspension where individual is residing outside United States
 
-The benefit to which any individual is entitled under this section for any month shall not bepaid if, during such month, such individual is not a resident of the United States. For purposes of this subsection, the term “United States” means the 50 States and the District of Columbia.
+The benefit to which any individual is entitled under this section for any month shall not be paid if, during such month, such individual is not a resident of the United States. For purposes of this subsection, the term “United States” means the 50 States and the District of Columbia.
 
 #### (f) Treatment as monthly insurance benefits
 
@@ -84,7 +84,7 @@ For purposes of this section—
 
 &emsp;(4) The determination of whether an individual is a husband or wife for any month shall be made under subsection (h) of section 416 of this title without regard to subsections (b) and (f) of section 416 of this title.
 
-(Aug. 14, 1935, ch. 531, title II, §228, as added Mar. 15, 1966, Pub. L. 89–368, title III, §302(a), 80 Stat. 67; amended Jan. 2, 1968, Pub. L. 90–248, title I, §102(b), title II, §241(a) 81 Stat. 827, 916; Dec. 30, 1969, Pub. L. 91–172, title X, §1003(b), 83 Stat. 740; Mar. 17, 1971, Pub. L. 92–5, title II, §202(b), 85 Stat. 10; July 1, 1972, Pub. L. 92–336, title II, §201(g)(2), 86 Stat. 411; Dec. 31, 1973, Pub. L. 93–233, §§2(b)(1), 18(c), 87 Stat. 952, 968; Apr. 20, 1983, Pub. L. 98–21, title III, §305(a)–(d), 97 Stat. 113; July 18, 1984, Pub. L. 98–369, div. B, title VI, §§2662(e), 2663(j)(3)(A)(iv), 98 Stat. 1159, 1170; Nov. 5, 1990, Pub. L. 101–508, title V, §5114(a), 104 Stat. 1388–273; June 13, 1991, Pub. L. 102–54, §13(q)(3)(B)(i), 105 Stat. 279; Aug. 15, 1994, Pub. L. 103–296, title I, §107(a)(4), 108 Stat. 1478.)
+(Aug. 14, 1935, ch. 531, title II, §228, as added Mar. 15, 1966, Pub. L. 89–368, title III, §302(a), 80 Stat. 67; amended Jan. 2, 1968, Pub. L. 90–248, title I, §102(b), title II, §241(a) 81 Stat. 827, 916; Dec. 30, 1969, Pub. L. 91–172, title X, §1003(b), 83 Stat. 740; Mar. 17, 1971, Pub. L. 92–5, title II, §202(b), 85 Stat. 10; July 1, 1972, Pub. L. 92–336, title II, §201(g)(2), 86 Stat. 411; Dec. 31, 1973, Pub. L. 93–233, §§2(b)(1), 18(c), 87 Stat. 952, 968; Apr. 20, 1983, Pub. L. 98–21, title III, §305(a)–(d), 97 Stat. 113; July 18, 1984, Pub. L. 98–369, div. B, title VI, §§2662(e), 2663(j)(3)(A)(iv), 98 Stat. 1159, 1170; Nov. 5, 1990, Pub. L. 101–508, title V, §5114(a), 104 Stat. 1388–273; June 13, 1991, Pub. L. 102–54, §13(q)(3)(B)(i), 105 Stat. 279; Aug. 15, 1994, Pub. L. 103–296, title I, §107(a)(4), 108 Stat. 1478; Aug. 22, 1996, Pub. L. 104–193, title I, §108(a)(2), 110 Stat. 2165.)
 
 #### References in Text
 
@@ -95,6 +95,8 @@ Section 211 of Pub. L. 93–66, referred to in subsec. (d), is set out as a note
 Section 228e(<i>l</i>) of title 45, referred to in subsec. (h)(1), is a reference to section 5(<i>l</i>) of the Railroad Retirement Act of 1937. That Act was amended in its entirety and completely revised by Pub. L. 93–445, Oct. 16, 1974, 88 Stat. 1305. The Act, as thus amended and revised, was redesignated the Railroad Retirement Act of 1974, and is classified generally to subchapter IV (§231 et seq.) of chapter 9 of Title 45, Railroads. Section 228e of title 45 is covered by section 231e of Title 45.
 
 #### Amendments
+
+1996—Subsec. (d)(1). Pub. L. 104–193 inserted “under a State program funded under” before “part A of subchapter IV of this chapter”.
 
 1994—Subsecs. (c)(5), (8), (d), (g). Pub. L. 103–296 substituted “Commissioner of Social Security” for “Secretary” wherever appearing.
 
@@ -114,7 +116,7 @@ Subsec. (c)(1). Pub. L. 98–21, §305(d)(1), substituted “he or she” for �
 
 Subsec. (c)(2). Pub. L. 98–21, §305(b), substituted “(B) the benefit amount as determined without regard to this subsection” for “(B) the larger of $32.20 or the amount most recently established in lieu thereof under section 415(i) of this title”.
 
-Subsec. (c)(3). Pub. L. 98–21, §305(c), amended par. (3) generally, substituting provisions relating to either a husband or wife for provision that the benefit amount of the wife, after any reduction under paragraph (1), would be further reduced (but not below zero) by the excess (if any) of (i) the total amount of any periodic benefits under governmental pension systems for which the husband was eligible for such month, over (ii) the larger of $64.40 or the amount most recently established in lieu thereof under section 415(i) of this title, and that the benefit amount of the husband, after any reduction under paragraph (1), would be further reduced (but not below zero) by the excess (if any) of (i) thetotal amount of any periodic benefits under governmental pension systems for which the wife was eligible for such month, over (ii) the larger of $32.20 or the amount most recently established in lieu thereof under section 415(i) of this title.
+Subsec. (c)(3). Pub. L. 98–21, §305(c), amended par. (3) generally, substituting provisions relating to either a husband or wife for provision that the benefit amount of the wife, after any reduction under paragraph (1), would be further reduced (but not below zero) by the excess (if any) of (i) the total amount of any periodic benefits under governmental pension systems for which the husband was eligible for such month, over (ii) the larger of $64.40 or the amount most recently established in lieu thereof under section 415(i) of this title, and that the benefit amount of the husband, after any reduction under paragraph (1), would be further reduced (but not below zero) by the excess (if any) of (i) the total amount of any periodic benefits under governmental pension systems for which the wife was eligible for such month, over (ii) the larger of $32.20 or the amount most recently established in lieu thereof under section 415(i) of this title.
 
 Subsec. (c)(4)(C). Pub. L. 98–21, §305(d)(2), as amended by Pub. L. 98–369, §2662(e), substituted “his or her” for “his” wherever appearing.
 
@@ -165,6 +167,10 @@ Subsec. (c)(3)(A). Pub. L. 90–248, §102(b)(4), substituted “$40” for “$
 Subsec. (c)(3)(B). Pub. L. 90–248, §102(b)(5), substituted “$20” for “$17.50”.
 
 Subsec. (d)(1). Pub. L. 90–248, §241(a), struck out “IV,” after “I,” and inserted “or part A of subchapter IV of this chapter,” after “XVI of this chapter,”.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–193 effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as an Effective Date note under section 601 of this title.
 
 #### Effective Date of 1994 Amendment
 
@@ -228,5 +234,5 @@ Section 302(b) of Pub. L. 89–368 provided that: “For purposes of paragraph (
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 405, 415, 662, 1320b–1 of this title; title 48 section 1421q.
+This section is referred to in sections 405, 415, 659, 1320b–1 of this title; title 48 section 1421q.
 

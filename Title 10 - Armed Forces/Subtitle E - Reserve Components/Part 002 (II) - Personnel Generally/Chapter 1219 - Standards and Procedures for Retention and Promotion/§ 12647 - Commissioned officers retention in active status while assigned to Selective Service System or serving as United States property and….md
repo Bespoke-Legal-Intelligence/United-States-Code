@@ -1,12 +1,8 @@
 ### §12647. Commissioned officers: retention in active status while assigned to Selective Service System or serving as United States property and fiscal officers
 
-Notwithstanding chapters 337, 363, 573, 837, and 863 of this title, a reserve commissioned officer, other than a commissioned warrant officer, who is assigned to the Selective Service System or who is a property and fiscal officer appointed, designated, or detailed under section 708 of title 32, may be retained in an active status in that assignment or position until he becomes 60 years of age.
+Notwithstanding chapters 573, 1407, and 1409 of this title, a reserve commissioned officer, other than a commissioned warrant officer, who is assigned to the Selective Service System or who is a property and fiscal officer appointed, designated, or detailed under section 708 of title 32, may be retained in an active status in that assignment or position until he becomes 60 years of age.
 
 (Added Pub. L. 85–861, §1(22)(B), Sept. 2, 1958, 72 Stat. 1445, §1007; amended Pub. L. 86–559, §1(3)(B), June 30, 1960, 74 Stat. 265; renumbered §12647 and amended Pub. L. 103–337, div. A, title XVI, §§1662(h)(2), 1675(d)(4), Oct. 5, 1994, 108 Stat. 2996, 3018.)
-
-#### Amendment of Section
-
-<i>Pub. L. 103–337, div. A, title XVI, §§1675(d)(4), 1691(b)(1), Oct. 5, 1994, 108 Stat. 3018, 3026, provided that, effective Oct. 1, 1996, this section is amended by striking out “chapters 337, 363, 573, 837, and 863” and inserting in lieu thereof “chapters 573, 1407, and 1409”.</i>
 
 Historical and Revision Notes
 
@@ -28,7 +24,9 @@ The words “this title” are substituted for the words “this chapter”, sin
 
 #### Amendments
 
-1994—Pub. L. 103–337, §1662(h)(2), renumbered section 1007 of this title as this section.
+1994—Pub. L. 103–337, §1675(d)(4), substituted “573, 1407, and 1409” for “337, 363, 573, 837, and 863”.
+
+Pub. L. 103–337, §1662(h)(2), renumbered section 1007 of this title as this section.
 
 1960—Pub. L. 86–559 inserted “or serving as United States property and fiscal officers” in section catchline, and inserted provisions in text authorizing retention of reserve commissioned officers who are property and fiscal officers, appointed, designated, or detailed under section 708 of title 32.
 

@@ -2,7 +2,7 @@
 
 #### (a) Authority
 
-Government-owned, contractor-operated laboratories that are funded out of funds availableto the Department of Energy for national security programs are authorized to carry out laboratory-directed research and development.
+Government-owned, contractor-operated laboratories that are funded out of funds available to the Department of Energy for national security programs are authorized to carry out laboratory-directed research and development.
 
 #### (b) Regulations
 

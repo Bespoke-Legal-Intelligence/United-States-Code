@@ -24,7 +24,9 @@ Government's Share.—When there would be a clear and direct financial benefit t
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

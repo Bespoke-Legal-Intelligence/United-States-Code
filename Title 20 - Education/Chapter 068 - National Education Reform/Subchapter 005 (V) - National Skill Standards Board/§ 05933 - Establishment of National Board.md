@@ -8,7 +8,7 @@ There is established a National Skill Standards Board (hereafter in this subchap
 
 #### (1) In general
 
-&emsp;The National Board shall be composed of 28 members (appointed in accordance with paragraph (3)), of whom—
+&emsp;The National Board shall be composed of 27 members (appointed in accordance with paragraph (3)), of whom—
 
 &emsp;&emsp;(A) one member shall be the Secretary of Labor;
 
@@ -16,13 +16,11 @@ There is established a National Skill Standards Board (hereafter in this subchap
 
 &emsp;&emsp;(C) one member shall be the Secretary of Commerce;
 
-&emsp;&emsp;(D) one member shall be the Chairperson of the National Education Standards and Improvement Council established pursuant to section 5842(a) of this title;
+&emsp;&emsp;(D) eight members shall be representatives of business (including representatives of small employers and representatives of large employers) selected from among individuals recommended by recognized national business organizations or trade associations;
 
-&emsp;&emsp;(E) eight members shall be representatives of business (including representatives of small employers and representatives of large employers) selected from among individuals recommended by recognized national business organizations or trade associations;
+&emsp;&emsp;(E) eight members shall be representatives of organized labor selected from among individuals recommended by recognized national labor federations; and
 
-&emsp;&emsp;(F) eight members shall be representatives of organized labor selected from among individuals recommended by recognized national labor federations; and
-
-&emsp;&emsp;(G)(i) 2 members shall be neutral, qualified human resource professionals; and
+&emsp;&emsp;(F)(i) 2 members shall be neutral, qualified human resource professionals; and
 
 &emsp;&emsp;(ii) 6 members shall be representatives from the following groups, with at least 1 member from each group:
 
@@ -36,7 +34,7 @@ There is established a National Skill Standards Board (hereafter in this subchap
 
 #### (2) Diversity requirements
 
-&emsp;The members described in subparagraph (G) of paragraph (1) shall have expertise in the area of education and training. The members described in subparagraphs (E), (F), and (G) of paragraph (1) shall—
+&emsp;The members described in subparagraph (F) of paragraph (1) shall have expertise in the area of education and training. The members described in subparagraphs (D), (E), and (F) of paragraph (1) shall—
 
 &emsp;&emsp;(A) in the aggregate, represent a broad cross-section of occupations and industries; and
 
@@ -46,21 +44,21 @@ There is established a National Skill Standards Board (hereafter in this subchap
 
 &emsp;The membership of the National Board shall be appointed as follows:
 
-&emsp;&emsp;(A) Twelve members (four from each class of members described in subparagraphs (E), (F), and (G) of paragraph (1)) shall be appointed by the President.
+&emsp;&emsp;(A) Twelve members (four from each class of members described in subparagraphs (D), (E), and (F) of paragraph (1)) shall be appointed by the President.
 
-&emsp;&emsp;(B) Six members (two from each class of members described in subparagraphs (E), (F), and (G) of paragraph (1)) shall be appointed by the Speaker of the House of Representatives, of whom three members (one from each class of members described in subparagraphs (E), (F), and (G) of paragraph (1)) shall be selected from recommendations made by the Majority Leader of the House of Representatives and three members (one from each class of members described in subparagraphs (E), (F), and (G) of paragraph (1)) shall be selected from recommendations made by the Minority Leader of the House of Representatives.
+&emsp;&emsp;(B) Six members (two from each class of members described in subparagraphs (D), (E), and (F) of paragraph (1)) shall be appointed by the Speaker of the House of Representatives, of whom three members (one from each class of members described in subparagraphs (D), (E), and (F) of paragraph (1)) shall be selected from recommendations made by the Majority Leader of the House of Representatives and three members (one from each class of members described in subparagraphs (D), (E), and (F) of paragraph (1)) shall be selected from recommendations made by the Minority Leader of the House of Representatives.
 
-&emsp;&emsp;(C) Six members (two from each class of members described in subparagraphs (E), (F), and (G) of paragraph (1)) shall be appointed by the President pro tempore of the Senate, of whom three members (one from each class of members described in subparagraphs (E), (F), and (G) of paragraph (1)) shall be selected from recommendations made by the Majority Leader of the Senate and three members (one from each class of members described in subparagraphs (E), (F), and (G) of paragraph (1)) shall be selected from recommendations made by the Minority Leader of the Senate.
+&emsp;&emsp;(C) Six members (two from each class of members described in subparagraphs (D), (E), and (F) of paragraph (1)) shall be appointed by the President pro tempore of the Senate, of whom three members (one fromeach class of members described in subparagraphs (D), (E), and (F) of paragraph (1)) shall be selected from recommendations made by the Majority Leader of the Senate and three members (one from each class of members described in subparagraphs (D), (E), and (F) of paragraph (1)) shall be selected from recommendations made by the Minority Leader of the Senate.
 
 #### (4) Ex officio nonvoting members
 
-&emsp;The members of the National Board specified in subparagraphs (A), (B), (C), and (D) of paragraph (1) shall be ex officio, nonvoting members of the National Board.
+&emsp;The members of the National Board specified in subparagraphs (A), (B), and (C) of paragraph (1) shall be ex officio, nonvoting members of the National Board.
 
 #### (5) Term
 
-&emsp;Each member of the National Board appointed under subparagraph (E), (F), or (G) of paragraph (1) shall be appointed for a term of 4 years, except that of the initial members of the Board appointed under such subparagraphs—
+&emsp;Each member of the National Board appointed under subparagraph (D), (E), or (F) of paragraph (1) shall be appointed for a term of 4 years, except that of the initial members of the Board appointed under such subparagraphs—
 
-&emsp;&emsp;(A) twelve members shall be appointed for a term of 3 years (four from each class of members described in subparagraphs (E), (F), and (G) of paragraph (1)), of whom—
+&emsp;&emsp;(A) twelve members shall be appointed for a term of 3 years (four from each class of members described in subparagraphs (D), (E), and (F) of paragraph (1)), of whom—
 
 &emsp;&emsp;&emsp;(i) two from each such class shall be appointed in accordance with paragraph (3)(A);
 
@@ -68,7 +66,7 @@ There is established a National Skill Standards Board (hereafter in this subchap
 
 &emsp;&emsp;&emsp;(iii) one from each such class shall be appointed in accordance with paragraph (3)(C); and
 
-&emsp;&emsp;(B) twelve members shall be appointed for a term of 4 years (four from each class of members described in subparagraphs (E), (F), and (G) of paragraph (1)), of whom—
+&emsp;&emsp;(B) twelve members shall be appointed for a term of 4 years (four from each class of members described in subparagraphs (D), (E), and (F) of paragraph (1)), of whom—
 
 &emsp;&emsp;&emsp;(i) two from each such class shall be appointed in accordance with paragraph (3)(A);
 
@@ -90,11 +88,11 @@ There is established a National Skill Standards Board (hereafter in this subchap
 
 #### (B) Initial Chairperson
 
-&emsp;&emsp;The first Chairperson of the National Board shall be elected, by a majority vote of the National Board, from among the members who are representatives of business (as described in subparagraph (E) of subsection (b)(1) of this section) and shall serve for a term of 2 years.
+&emsp;&emsp;The first Chairperson of the National Board shall be elected, by a majority vote of the National Board, from among the members who are representatives of business (as described in subparagraph (D) of subsection (b)(1) of this section) and shall serve for a term of 2 years.
 
 #### (2) Vice Chairpersons
 
-&emsp;The National Board, by majority vote, shall annually elect 3 Vice Chairpersons (each representing a different class of the classes of members described in subparagraphs (E), (F), and (G) of subsection (b)(1) of this section and each of whom shall serve for a term of 1 year) from among its members appointed under subsection (b)(3) of this section.
+&emsp;The National Board, by majority vote, shall annually elect 3 Vice Chairpersons (each representing a different class of the classes of members described in subparagraphs (D), (E), and (F) of subsection (b)(1) of this section and each of whom shall serve for a term of 1 year) from among its members appointed under subsection (b)(3) of this section.
 
 #### (d) Compensation and expenses
 
@@ -134,7 +132,7 @@ Notwithstanding section 1342 of title 31, the National Board is authorized, in c
 
 #### (2) Staff of Federal agencies
 
-&emsp;Upon the request of the National Board, the head of any Federal agency of the United States may detail to the National Board, on a reimbursable basis, any of the personnel of such Federal agency to assist the National Board in carrying out this subchapter. Such detail shall be without interruption or loss of civil service status or privilege.
+&emsp;Upon the request of the National Board, the head of any Federal agency of the UnitedStates may detail to the National Board, on a reimbursable basis, any of the personnel of such Federal agency to assist the National Board in carrying out this subchapter. Such detail shall be without interruption or loss of civil service status or privilege.
 
 #### (h) Conflict of interest
 
@@ -148,5 +146,21 @@ The Chairperson of the National Board may procure temporary and intermittent ser
 
 The National Board shall terminate on September 30, 1999.
 
-(Pub. L. 103–227, title V, §503, Mar. 31, 1994, 108 Stat. 192.)
+(Pub. L. 103–227, title V, §503, Mar. 31, 1994, 108 Stat. 192; Pub. L. 104–134, title I, §101(d) \[title VII, §703(a)(17)\], Apr. 26, 1996, 110 Stat. 1321–211, 1321–254; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.)
+
+#### Amendments
+
+1996—Subsec. (b)(1). Pub. L. 104–134, §101(d) \[title VII, §703(a)(17)(A)(i)(I)\], substituted “27” for “28” in introductory provisions.
+
+Subsec. (b)(1)(D) to (G). Pub. L. 104–134, §101(d) \[title VII, §703(a)(17)(A)(i)(II), (III)\], redesignated subpars. (E) to (G) as (D) to (F), respectively, and struck out former subpar. (D) which read as follows: “one member shall be the Chairperson of the National Education Standards and Improvement Council established pursuant to section 5842(a) of this title;”.
+
+Subsec. (b)(2). Pub. L. 104–134, §101(d) \[title VII, §703(a)(17)(A)(ii), (iii)\], in introductory provisions, substituted “subparagraph (F)” for “subparagraph (G)” and “subparagraphs (D), (E), and (F)” for “subparagraphs (E), (F), and (G)”.
+
+Subsec. (b)(3). Pub. L. 104–134, §101(d) \[title VII, §703(a)(17)(A)(ii)\], substituted “subparagraphs (D), (E), and (F)” for “subparagraphs (E), (F), and (G)” wherever appearing.
+
+Subsec. (b)(4). Pub. L. 104–134, §101(d) \[title VII, §703(a)(17)(A)(iv)\], substituted “and (C)” for “(C), and (D)”.
+
+Subsec. (b)(5). Pub. L. 104–134, §101(d) \[title VII, §703(a)(17)(A)(ii), (v)\], substituted “subparagraph (D), (E), or (F)” for “subparagraph (E), (F), or (G)” in introductory provisions and “subparagraphs (D), (E), and (F)” for “subparagraphs (E), (F), and (G)” in introductory provisions of subpars. (A) and (B).
+
+Subsec. (c)(1)(B), (2). Pub. L. 104–134, §101(d) \[title VII, §703(a)(17)(B)\], which directed that subsec. (e) of this section be amended by substituting “subparagraph (D)” for “subparagraph (E)” in par. (1)(B) and “subparagraphs (D), (E), and (F)” for “subparagraphs (E), (F), and (G)” in par. (2), was executed by making the amendment in subsec. (c) of this section to reflect the probable intent of Congress, because the language being struck out did not appear in subsec. (e).
 

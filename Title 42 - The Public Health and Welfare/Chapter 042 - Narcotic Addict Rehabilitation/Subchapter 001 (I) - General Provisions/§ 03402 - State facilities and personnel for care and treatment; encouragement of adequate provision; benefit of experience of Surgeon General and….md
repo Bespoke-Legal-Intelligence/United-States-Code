@@ -10,5 +10,5 @@ Section was not enacted as part of the Narcotic Addict Rehabilitation Act of 196
 
 #### Transfer of Functions
 
-Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1956, 31 F.R. 8855, 80 Stat. 1610, set out as a note under section 202 of this title. Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.
+Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of allagencies of or in Public Health Service transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1956, 31 F.R. 8855, 80 Stat. 1610, set out as a note under section 202 of this title. Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.
 

@@ -38,7 +38,7 @@ The security shall be released (and any amounts thereunder shall be refunded tog
 
 #### (e) Notice
 
-A contributing sponsor which is required to provide security under subsection (a) of this section shall notify the Pension Benefit GuarantyCorporation within 30 days after the amendment requiring such security takes effect. Such notice shall contain such information as the Corporation may require.
+A contributing sponsor which is required to provide security under subsection (a) of this section shall notify the Pension Benefit Guaranty Corporation within 30 days after the amendment requiring such security takes effect. Such notice shall contain such information as the Corporation may require.
 
 #### (f) Definitions
 

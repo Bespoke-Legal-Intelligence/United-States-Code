@@ -1,8 +1,14 @@
 ### §3318. Penalties
 
-(a) Except as otherwise provided in this part, the owner, charterer, managing operator, agent, master, or individual in charge of a vessel operated in violation of this part or a regulation prescribed under this part, and a person violating a regulation that applies to a small passenger vessel, freight vessel of less than 100 gross tons, or sailing school vessel, are liable to the United States Government for a civil penalty of not more than $5,000. The vessel also is liable in rem for the penalty.
+(a) Except as otherwise provided in this part, the owner, charterer, managing operator, agent, master, or individual in charge of a vessel operated in violation of this part or a regulation prescribed under this part, and a person violating a regulation that applies to a small passenger vessel, freight vessel of less than 100 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title, or sailing school vessel, are liable to the United States Government for a civil penalty of not more than $5,000. The vessel also is liable in rem for the penalty.
 
-(b) A person that knowingly manufactures, sells, offers for sale, or possesses with intent to sell, any equipment subject to this part, and the equipment is so defective as to be insufficient to accomplish the purpose for which it is intended, commits a class D felony.
+(b)(1) A person that knowingly manufactures, sells, offers for sale, or possesses with intent to sell, any equipment subject to this part, and the equipment is so defective as to be insufficient to accomplish the purpose for which it is intended, commits a class D felony.
+
+(2) A person commits a class D felony if the person—
+
+&emsp;(A) alters or services lifesaving, fire safety, or any other equipment subject to this part for compensation; and
+
+&emsp;(B) by that alteration or servicing, intentionally renders that equipment unsafe and unfit for the purpose for which it is intended.
 
 (c) A person that employs a means or device whereby a boiler may be subjected to a pressure greater than allowed by the terms of the vessel's certificate of inspection commits a class D felony.
 
@@ -34,7 +40,7 @@
 
 (i) A person violating section 3309(c) of this title is liable to the Government for a civil penalty of not more than $1,000.
 
-(j)(1) An owner, charterer, managing operator, agent, master, or individual in charge of a vessel required to be inspected under this chapter operating the vessel without the certificate of inspection is liable to the Government for a civil penalty of not more than $10,000 for each day during which the violation occurs, except when the violation involves operation of a vessel of less than 1,600 gross tons, the penalty is not more than $2,000 for each day during which the violation occurs. The vessel also is liable in rem for the penalty.
+(j)(1) An owner, charterer, managing operator, agent, master, or individual in charge of a vessel required to be inspected under this chapter operating the vessel without the certificate of inspection is liable to the Government for a civil penalty of not more than $10,000 for each day during which the violation occurs, except when the violation involves operation of a vessel of less than 1,600 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title, the penalty is not more than $2,000 for each day during which the violation occurs. The vessel also is liable in rem for the penalty.
 
 (2) A person is not liable for a penalty under this subsection if—
 
@@ -44,11 +50,11 @@
 
 &emsp;(C) the Secretary believes that unforeseen circumstances exist so that it is not feasible to conduct a scheduled inspection before the expiration of the certificate of inspection.
 
-(k) The owner, charterer, managing operator, agent, master, or individual in charge of a vessel failing to comply with a direction issued by the Secretary under section 3311(b) of this title is liable to the Government for a civil penalty of not more than $10,000 for each day during which the violation occurs. The vessel also is liable in rem for the penalty.
+(k) The owner, charterer, managing operator, agent, master, or individual in charge of a vessel failing to comply with a direction issued by the Secretary under section 3311(b) of this title is liable to the Government for a civil penalty ofnot more than $10,000 for each day during which the violation occurs. The vessel also is liable in rem for the penalty.
 
 (<i>l</i>) A person committing an act described by subsections (b)–(f) of this section is liable to the Government for a civil penalty of not more than $5,000. If the violation involves the operation of a vessel, the vessel also is liable in rem for the penalty.
 
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 517; Pub. L. 98–498, title II, §211(c), Oct. 19, 1984, 98 Stat. 2304; Pub. L. 99–307, §1(6), May 19, 1986, 100 Stat. 445; Pub. L. 101–380, title IV, §4302(b), Aug. 18, 1990, 104 Stat. 538.)
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 517; Pub. L. 98–498, title II, §211(c), Oct. 19, 1984, 98 Stat. 2304; Pub. L. 99–307, §1(6), May 19, 1986, 100 Stat. 445; Pub. L. 101–380, title IV, §4302(b), Aug. 18, 1990, 104 Stat. 538; Pub. L. 104–324, title III, §310, title VII, §713, Oct. 19, 1996, 110 Stat. 3919, 3936.)
 
 Historical and Revision Notes
 
@@ -84,6 +90,12 @@ Section 3318 provides for a number of specific civil and criminal penalties.
 
 #### Amendments
 
+1996—Subsec. (a). Pub. L. 104–324, §713(1), inserted “as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title” after “100 gross tons”.
+
+Subsec. (b)(1). Pub. L. 104–324, §310, designated existing provisions as par. (1) and added par. (2).
+
+Subsec. (j)(1). Pub. L. 104–324, §713(2), inserted “as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title” after “1,600 gross tons”.
+
 1990—Subsec. (b). Pub. L. 101–380, §4302(b)(1), substituted “commits a class D felony” for “shall be fined not more than $10,000, imprisoned for not more than 5 years, or both”.
 
 Subsec. (c). Pub. L. 101–380, §4302(b)(2), substituted “commits a class D felony” for “shall be fined not more than $5,000, imprisoned for not more than 5 years, or both”.
@@ -110,7 +122,7 @@ Subsec. (g). Pub. L. 98–498, §211(c)(6), substituted “is liable to the Gove
 
 Subsec. (h). Pub. L. 98–498, §211(c)(7), substituted “Government for a civil penalty of not more than $1,000.” for “United States Government for a civil penalty of not more than $500.”
 
-Subsecs. (i) to (<i>l</i>). Pub. L. 98–498, §211(c)(8), added subsecs. (i) to (<i>l).</i>
+Subsecs. (i) to (<i>l</i>). Pub. L. 98–498, §211(c)(8), added subsecs. (i) to (<i>l</i>).
 
 #### Effective Date of 1990 Amendment
 

@@ -48,7 +48,7 @@ General Purposes.—The purposes of this chapter are—
 
 &emsp;(3) to assist States and local governments and their authorities in financing areawide urban mass transportation systems that are to be operated by public or private mass transportation companies as decided by local needs;
 
-&emsp;(4) to provide financial assistance to State and local governments and their authorities to help carry out national goals related to mobility for elderly individuals, individuals with disabilities, and economically disadvantaged individuals; and
+&emsp;(4) to provide financial assistance to State and local governments and their authorities to help carry out national goals related to mobility for elderly individuals, individuals withdisabilities, and economically disadvantaged individuals; and
 
 &emsp;(5) to establish a partnership that allows a community, with financial assistance from the Government, to satisfy its urban mass transportation requirements.
 
@@ -56,7 +56,9 @@ General Purposes.—The purposes of this chapter are—
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -124,7 +126,7 @@ In subsections (d) and (e), the words “hereby declared to be” are omitted as
 
 In subsection (d), the words “to ensure that mass transportation can be used by elderly individuals and individuals with disabilities” are substituted for “in the planning and design of mass transportation facilities and services so that the availability to elderly persons and persons with disabilities of mass transportation which they can effectively utilize will be assured” to eliminate unnecessary words. The words “the field of” and “(including the programs under this chapter) . . . contain provisions” are omitted as surplus.
 
-In subsection (e), the words “carrying out” are substituted for “construction of”, and the word “capital” is added, for consistency in the revised chapter. The reference to section 5310 of the revised title is added forclarity because a loan or grant made under section 5310 is deemed to have been made under section 5309.
+In subsection (e), the words “carrying out” are substituted for “construction of”, and the word “capital” is added, for consistency in the revised chapter. The reference to section 5310 of the revised title is added for clarity because a loan or grant made under section 5310 is deemed to have been made under section 5309.
 
 In subsection (f)(5), the words “local” and “to exercise the initiative necessary” are omitted as surplus.
 

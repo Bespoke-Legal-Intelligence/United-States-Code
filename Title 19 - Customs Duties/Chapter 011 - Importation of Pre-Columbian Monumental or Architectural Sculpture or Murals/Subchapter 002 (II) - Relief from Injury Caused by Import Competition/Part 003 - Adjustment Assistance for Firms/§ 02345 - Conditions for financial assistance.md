@@ -12,7 +12,7 @@ No financial assistance shall be provided under this part unless the Secretary d
 
 (1) The rate of interest on direct loans made under this part shall be—
 
-&emsp;(A) a rate determined by the Secretary of the Treasury taking into consideration the current average market yield on outstanding marketable obligations of the United States with remaining periods of maturity that are comparable to the average maturities of such loans, adjusted to the nearest one-eighth of 1 percent, plus
+&emsp;(A) a rate determined by the Secretary of the Treasury taking into consideration thecurrent average market yield on outstanding marketable obligations of the United States with remaining periods of maturity that are comparable to the average maturities of such loans, adjusted to the nearest one-eighth of 1 percent, plus
 
 &emsp;(B) an amount adequate in the judgment of the Secretary of Commerce to cover administrative costs and probable losses under the program.
 

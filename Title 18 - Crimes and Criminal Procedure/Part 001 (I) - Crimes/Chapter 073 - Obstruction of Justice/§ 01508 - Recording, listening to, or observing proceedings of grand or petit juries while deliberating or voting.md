@@ -6,13 +6,15 @@ Whoever knowingly and willfully, by any means or device whatsoever—
 
 &emsp;(b) listens to or observes, or attempts to listen to or observe, the proceedings of any grand or petit jury of which he is not a member in any court of the United States while such jury is deliberating or voting—
 
-&emsp;&emsp;shall be fined under this title or imprisoned not more than one year, or both.
+> shall be fined under this title or imprisoned not more than one year, or both.
 
 Nothing in paragraph (a) of this section shall be construed to prohibit the taking of notes by a grand or petit juror in any court of the United States in connection with and solely for the purpose of assisting him in the performance of his duties as such juror.
 
-(Added Aug. 2, 1956, ch. 879, §1, 70 Stat. 935; amended Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(H), 108 Stat. 2147.)
+(Added Aug. 2, 1956, ch. 879, §1, 70 Stat. 935; amended Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(H), 108 Stat. 2147; Oct. 11, 1996, Pub. L. 104–294, title VI, §601(f)(13), 110 Stat. 3500.)
 
 #### Amendments
+
+1996—Pub. L. 104–294 realigned margins for provisions beginning “shall be fined” and ending “one year, or both.”
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $1,000” in par. following par. (b).
 

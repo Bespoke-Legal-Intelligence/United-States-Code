@@ -4,3 +4,7 @@ As used in this chapter, the terms “bank”, “bank holding company”, “su
 
 (Pub. L. 91–607, title I, §106(a), Dec. 31, 1970, 84 Stat. 1766.)
 
+#### Section Referred to in Other Sections
+
+This section is referred to in title 7 section 2016.
+

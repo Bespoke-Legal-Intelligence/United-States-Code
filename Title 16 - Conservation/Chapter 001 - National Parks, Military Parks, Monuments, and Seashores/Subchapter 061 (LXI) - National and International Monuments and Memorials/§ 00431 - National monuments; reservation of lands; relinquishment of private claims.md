@@ -10,7 +10,7 @@ Act June 8, 1906, ch. 3060, 34 Stat. 225, which is classified generally to secti
 
 #### National Monument Commission
 
-Act Aug. 31, 1954, ch. 1160, 68 Stat. 1029, provided for a Commission to obtain plans and designs for a useful monument to the nation symbolizing to the United States and the world the ideals of a democracy as embodied in the five freedoms (speech, religion, press, assembly, and petition) and to submit such plans to Congress for legislative authorization after approval by the Secretary of the Interior, the National Capital Planning Commission, and the Commission of Fine Arts, The Commission terminated 30 days after submission of required report which was submitted in 1957 but audit of business was not completed until September 1964.
+Act Aug. 31, 1954, ch. 1160, 68 Stat. 1029, provided for a Commission to obtain plans and designs for a useful monument to the nation symbolizing to the United States and the world the ideals of a democracy as embodied in the five freedoms (speech, religion, press, assembly, and petition) and to submit such plans to Congress for legislative authorization after approval by the Secretary of the Interior, the National Capital Planning Commission, and the Commission of Fine Arts, The Commission terminated 30 days after submission ofrequired report which was submitted in 1957 but audit of business was not completed until September 1964.
 
 National Monuments Established Under Presidential Proclamation
 
@@ -18,7 +18,7 @@ National Monuments Established Under Presidential Proclamation
 
 Ackia Battleground National Monument, Mississippi \[see section 450r of this title\].—Proc. No. 2307, Oct. 25, 1938, 53 Stat. 2494.
 
-Admiralty Island National Monument, Alaska \[Monument established within Tongass National Forest by Pub. L. 96–487, title V, §503(b), Dec. 2, 1980, 94 Stat. 2399\].—Proc. No. 4611, Dec. 1, 1978, 93 Stat. 1446.
+Admiralty Island National Monument, Alaska \[Monument established within Tongass National Forest by Pub. L. 96–487, title V, §503(b), Dec. 2, 1980, 94 Stat. 2399; Pub. L. 104–123, Apr. 1, 1996, 110 Stat. 879\].—Proc. No. 4611, Dec. 1, 1978, 93 Stat. 1446.
 
 Andrew Johnson National Monument, Tennessee \[Monument redesignated Andrew Johnson National Historical Site, see section 450<i>o</i> of this title\].—Proc. No. 2554, Apr. 27, 1942, 56 Stat. 1955.
 
@@ -88,7 +88,7 @@ Colorado National Monument, Colorado.—Proc. No. 1126, May 24, 1911, 37 Stat. 1
 
 c69.
 
-Craters of the Moon National Monument, Idaho.—Proc. No. 1694, May 2, 1924, 43 Stat. 1947; Proc. No. 1843, July 23, 1928, 45 Stat. 2959; Proc. No. 1916, July 9, 1930, 46 Stat. 3029; Proc. No. 2499, July 18, 1941, 55 Stat. 1660; Proc. No. 3506, Nov. 19, 1962, 77 Stat. 960.
+Craters of the Moon National Monument, Idaho.—Proc. No. 1694, May 2, 1924, 43 Stat. 1947; Proc. No. 1843, July 23, 1928, 45 Stat. 2959; Proc. No. 1916, July 9, 1930, 46 Stat. 3029; Proc. No. 2499, July 18, 1941, 55 Stat. 1660; Proc. No. 3506, Nov. 19, 1962, 77 Stat. 960; Pub. L. 104–333, div. I, title II, §205, Nov. 12, 1996, 110 Stat. 4106.
 
 Death Valley National Monument, California and Nevada \[Monument abolished and incorporated in Death Valley National Park, see section 410aaa–1 of this title\].—Proc. No. 2028, Feb. 11, 1933, 47 Stat. 2554; Proc. No. 2228, Mar. 26, 1937, 50 Stat. 1823; Proc. No. 2961, Jan. 17, 1952, 66 Stat.
 
@@ -122,7 +122,7 @@ Fort Matanzas National Monument, Florida.—Proc. No. 1713, Oct. 15, 1924, 43 St
 
 Fort Niagara National Monument, New York.—Proc. No. 1745, Sept. 5, 1925, 44 Stat. 2582.
 
-Fort Pulaski National Monument, Georgia.—Proc. No. 1713, Oct. 15, 1924, 43 Stat. 1968.
+Fort Pulaski National Monument, Georgia.—Proc. No. 1713, Oct. 15, 1924, 43 Stat. 1968; June 26, 1936, ch. 844, 49 Stat. 1979; Nov. 12, 1996, Pub. L. 104–333, div. I, title VIII, §807, 110 Stat. 4188.
 
 Fort Wood National Monument, New York.—Proc. No. 1713, Oct. 15, 1924, 43 Stat. 1968.
 
@@ -258,19 +258,19 @@ Tuzigoot National Monument, Arizona.—Proc. No. 2344, July 25, 1939, 53 Stat. 2
 
 Verendrye National Monument, North Dakota.—Proc. No. 1380, June 29, 1917, 40 Stat. 1677.
 
-Walnut Canyon National Monument, Arizona.—Proc. No. 1318, Nov. 30, 1915, 39 Stat. 1761; Proc. No. 2300, Sept. 24, 1938, 53 Stat. 2469.
+Walnut Canyon National Monument, Arizona.—Proc. No. 1318, Nov. 30, 1915, 39 Stat. 1761; Proc. No. 2300, Sept. 24, 1938, 53 Stat. 2469; Pub. L. 104–333, div. I, title II, §208, Nov. 12, 1996, 110 Stat. 4107.
 
 Wheeler National Monument, Colorado \[Monument abolished by act Aug. 3, 1950, ch. 534, 64 Stat. 405\].—Proc. No. 831, Dec. 7, 1908, 35 Stat. 2214.
 
 White Sands National Monument, New Mexico.—Proc. No. 2025, Jan. 18, 1933, 47 Stat. 2551; Proc. No. 2108, Nov. 28, 1934, 49 Stat. 3426; Proc. No. 2295, Aug. 29, 1938, 53 Stat. 2465; Proc. No. 3024, June 24, 1953, 67 Stat.
 
-c53.
+c53; Pub. L. 104–201, div. B, title XXVIII, §2854, Sept. 23, 1996, 110 Stat. 2803.
 
 Wrangell-St. Elias National Monument, Alaska.—Proc. No. 4625, Dec. 1, 1978, 93 Stat. 1470.
 
-Wupatki National Monument, Arizona.—Proc. No. 1721, Dec. 9, 1924, 43 Stat. 1977; Proc. No. 2243, July 9, 1937, 52 Stat. 1841; Proc. No. 2454, Jan. 20, 1941, 55 Stat. 1608.
+Wupatki National Monument, Arizona.—Proc. No. 1721, Dec. 9, 1924, 43 Stat. 1977; Proc. No. 2243, July 9, 1937, 52 Stat. 1841; Proc. No. 2454, Jan. 20, 1941, 55 Stat. 1608; Pub. L. 104–333, div. I, title II, §207, Nov. 12, 1996, 110 Stat. 4107.
 
-Yucca House National Monument, Colorado.—Proc. No. 1549, Dec. 19, 1919, 41 Stat. 1781.
+Yucca House National Monument, Colorado.—Proc. No. 1549, Dec. 19, 1919, 41 Stat. 1781; Pub. L. 104–333, div. I, title II, §201, Nov. 12, 1996, 110 Stat. 4105.
 
 Yukon-Charley National Monument, Alaska.—Proc. No. 4626, Dec. 1, 1978, 93 Stat. 1472.
 
@@ -294,7 +294,7 @@ Florissant Fossil Beds National Monument, Colorado.—Pub. L. 91–60, Aug. 20, 
 
 Fossil Butte National Monument, Wyoming.—Pub. L. 92–537, Oct. 23, 1972, 86 Stat. 1069.
 
-Hagerman Fossil Beds National Monument, Idaho.—Pub. L. 100–696, title III, §§301–308, Nov. 18, 1988, 102 Stat. 4575, as amended by Pub. L. 101–512, title I, Nov. 5, 1990, 104 Stat. 1923.
+Hagerman Fossil Beds National Monument, Idaho.—Pub. L. 100–696, title III, §§301–308, Nov. 18, 1988, 102 Stat. 4575, as amended by Pub. L. 101–512, title I, Nov. 5, 1990, 104 Stat. 1923; Pub. L. 104–333, div. I, title II, §206, Nov. 12, 1996, 110 Stat. 4106.
 
 Hohokam Pima National Monument, Arizona.—Pub. L. 92–525, Oct. 21, 1972, 86 Stat. 1047.
 
@@ -310,7 +310,7 @@ Newberry National Volcanic Monument, Oregon.—Pub. L. 101–522, Nov. 5, 1990, 
 
 Pecos National Monument, New Mexico \[included in Pecos National Historical Park by Pub. L. 101–313, title II, §202(b), June 27, 1990, 104 Stat. 278 (16 U.S.C. 410rr–1(b))\].—Pub. L. 89–54, June 28, 1965, 79 Stat. 195; repealed by Pub. L. 101–313, title II, §202(c), June 27, 1990, 104 Stat. 278 (16 U.S.C. 410rr–1(c)).
 
-Petroglyph National Monument, New Mexico.—Pub. L. 101–313, title I, June 27, 1990, 104 Stat. 272, as amended by Pub. L. 103–50, ch. IV, §401, July 2, 1993, 107 Stat. 252.
+Petroglyph National Monument, New Mexico.—Pub. L. 101–313, title I, June 27, 1990, 104 Stat. 272, as amended by Pub. L. 103–50, ch. IV, §401, July 2, 1993, 107 Stat. 252; Pub. L. 104–333, div. I, title VIII, §814(d)(2)(D), Nov. 12, 1996, 110 Stat. 4196.
 
 Poverty Point National Monument, Louisiana.—Pub. L. 100–560, Oct. 31, 1988, 102 Stat. 2803.
 
@@ -319,6 +319,8 @@ Salinas Pueblo Missions National Monument, New Mexico.—Pub. L. 96–550, title
 National Memorials
 
 &nbsp;
+
+AIDS Memorial Grove National Memorial, California.—Pub. L. 104–333, div. I, title V, §516, Nov. 12, 1996, 110 Stat. 4170.
 
 Arkansas Post National Memorial, Arkansas.—Pub. L. 86–595, July 6, 1960, 74 Stat. 333.
 
@@ -344,7 +346,7 @@ Federal Hall National Memorial, New York.—Designated May 26, 1939. Designation
 
 Fort Caroline National Memorial, Florida.—Act Sept. 21, 1950, ch. 973, 64 Stat. 897. Established Jan. 16, 1953.
 
-Franklin Delano Roosevelt National Memorial, District of Columbia.—Pub. L. 97–224, July 28, 1982, 96 Stat. 243.
+Franklin Delano Roosevelt National Memorial, District of Columbia.—Acts Aug. 11, 1955, ch. 833, 69 Stat. 694; Sept. 1, 1959, Pub. L. 86–214, 73 Stat. 445; Oct. 18, 1962, Pub. L. 87–842, 76 Stat. 1079; Oct. 30, 1965, Pub. L. 89–305, 79 Stat. 1126; Sept. 8, 1970, Pub. L. 91–398, 84 Stat. 837; June 30, 1972, Pub. L. 92–332, 86 Stat. 401; July 28, 1982, Pub. L. 97–224, 96 Stat. 243; Oct. 1, 1996, Pub. L. 104–221, §§3, 4, 110 Stat. 3024.
 
 Hamilton Grange National Memorial, New York.—Pub. L. 87–438, Apr. 27, 1962, 76 Stat. 57, as amended by Pub. L. 100–701, §1, Nov. 19, 1988, 102 Stat. 4640.
 
@@ -360,7 +362,11 @@ Lincoln National Memorial, District of Columbia.—Act Feb. 9, 1911, ch. 42, 36 
 
 Mount Rushmore National Memorial, South Dakota.—Act Feb. 25, 1929, ch. 315, 45 Stat. 1300.
 
+National D-Day Memorial, Virginia.—Pub. L. 104–201, div. A, title X, §1080, Sept. 23, 1996, 110 Stat. 2670.
+
 National Fallen Firefighters’ Memorial, Maryland.—Pub. L. 101–347, Aug. 9, 1990, 104 Stat. 398.
+
+National Law Enforcement Officers Memorial, District of Columbia.—Establishment of Maintenance Fund by Pub. L. 104–329, title II, §201, Oct. 20, 1996, 110 Stat. 4011.
 
 Patrick Henry National Memorial, Virginia.—Pub. L. 99–296, May 12, 1986, 100 Stat. 429.
 
@@ -388,7 +394,7 @@ Conveyance of property to National Academy of Sciences for erection and maintena
 
 #### Study To Add Alaska and Hawaii to Lincoln National Memorial
 
-Pub. L. 94–556, Oct. 19, 1976, 90 Stat. 2632, directed Secretary of the Interior to study feasibility of and make recommendations for recognition at an appropriate place at Lincoln National Memorial of the addition to the Union of the States of Alaska and Hawaii, directed that recommendations, after review and approval by Commission of Fine Arts, National Capital Planning Commission, and Advisory Council on Historic Preservation, be submitted to Committees on Interior and Insular Affairs of the Senate and the House of Representatives, and, if neither committee adopted a resolution of disapproval, directed Secretary to carry out recommendations.
+Pub. L. 94–556, Oct. 19, 1976, 90 Stat. 2632, directed Secretary of the Interior to study feasibility of and make recommendations for recognition at an appropriateplace at Lincoln National Memorial of the addition to the Union of the States of Alaska and Hawaii, directed that recommendations, after review and approval by Commission of Fine Arts, National Capital Planning Commission, and Advisory Council on Historic Preservation, be submitted to Committees on Interior and Insular Affairs of the Senate and the House of Representatives, and, if neither committee adopted a resolution of disapproval, directed Secretary to carry out recommendations.
 
 #### Cross Reference
 

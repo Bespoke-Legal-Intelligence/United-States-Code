@@ -48,7 +48,7 @@ The total of the amounts which are treated under section 666 as having been dist
 
 &emsp;&emsp;The partial tax shall be reduced by an amount which is equal to the pre-death portion of the partial tax multiplied by a fraction—
 
-&emsp;&emsp;&emsp;(i) the numerator of which is that portion of the tax imposed by chapter 11 or 13,as the case may be, which is attributable (on a proportionate basis) to amounts included in the accumulation distribution, and
+&emsp;&emsp;&emsp;(i) the numerator of which is that portion of the tax imposed by chapter 11 or 13, as the case may be, which is attributable (on a proportionate basis) to amounts included in the accumulation distribution, and
 
 &emsp;&emsp;&emsp;(ii) the denominator of which is the amount of the accumulation distribution which is subject to the tax imposed by chapter 11 or 13, as the case may be.
 
@@ -134,7 +134,7 @@ Amendment by Pub. L. 99–514 applicable to taxable years beginning after Dec. 3
 
 Amendment by section 701(q)(1)(B), (C) of Pub. L. 95–600 applicable to distributions made in taxable years beginning after Dec. 31, 1975, see section 701(q)(3)(A) of Pub. L. 95–600, set out as a note under section 665 of this title.
 
-Section 702<i>(o)</i>(2) of Pub. L. 95–600, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply—
+Section 702(<i>o</i>)(2) of Pub. L. 95–600, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply—
 
 &emsp;“(A) in the case of the tax imposed by chapter 11 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954, section 2001 et seq. of this title\], to the estates of decedents dying after December 31, 1979, and
 

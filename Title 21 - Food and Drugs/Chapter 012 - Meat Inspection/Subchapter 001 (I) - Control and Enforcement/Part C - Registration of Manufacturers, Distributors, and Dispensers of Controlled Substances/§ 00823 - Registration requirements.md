@@ -12,7 +12,7 @@ The Attorney General shall register an applicant to manufacture controlled subst
 
 &emsp;(4) prior conviction record of applicant under Federal and State laws relating to the manufacture, distribution, or dispensing of such substances;
 
-&emsp;(5) past experience in the manufacture of controlled substances, and the existence in the establishment of effective control against diversion; and
+&emsp;(5) past experience in the manufacture of controlled substances, and the existence in theestablishment of effective control against diversion; and
 
 &emsp;(6) such other factors as may be relevant to and consistent with the public health and safety.
 
@@ -78,7 +78,7 @@ The Attorney General shall register practitioners (including pharmacies, as dist
 
 &emsp;(5) Such other conduct which may threaten the public health and safety.
 
-> Separate registration under this part for practitioners engaging in research with controlled substances in schedule II, III, IV, or V, who are already registered under this part in another capacity, shall not be required. Registration applications by practitioners wishing to conduct research with controlled substances in schedule I shall be referred to the Secretary, who shall determine the qualifications and competency of each practitioner requesting registration, as well as the merits of the research protocol. The Secretary, in determining the merits of each research protocol, shall consult with the Attorney General as to effective procedures to adequately safeguard against diversion of such controlled substances from legitimate medical or scientific use. Registration for the purpose of bona fide research with controlled substances in schedule I by a practitioner deemed qualified by the Secretary may be denied by the Attorney General only on a ground specified in section 824(a) of this title. Article 7 of the Convention on Psychotropic Substances shall not be construed to prohibit, or impose additional restrictions upon, research involving drugs or other substances scheduled under the convention which is conducted in conformity with this subsection and other applicable provisions of this subchapter.
+> Separate registration under this part for practitioners engaging in research with controlled substances in schedule II, III, IV, or V, who are already registered under this part in another capacity, shall not be required. Registration applications by practitioners wishing to conduct research with controlled substances in schedule I shall be referred to the Secretary, who shall determine the qualifications and competency of each practitioner requesting registration, as well as the merits of the research protocol. The Secretary, in determining the merits of each research protocol, shall consult with the Attorney General as to effective procedures to adequatelysafeguard against diversion of such controlled substances from legitimate medical or scientific use. Registration for the purpose of bona fide research with controlled substances in schedule I by a practitioner deemed qualified by the Secretary may be denied by the Attorney General only on a ground specified in section 824(a) of this title. Article 7 of the Convention on Psychotropic Substances shall not be construed to prohibit, or impose additional restrictions upon, research involving drugs or other substances scheduled under the convention which is conducted in conformity with this subsection and other applicable provisions of this subchapter.
 
 #### (g) Practitioners dispensing narcotic drugs for narcotic treatment; annual registration; separate registration; qualifications
 
@@ -92,7 +92,7 @@ Practitioners who dispense narcotic drugs to individuals for maintenance treatme
 
 #### (h) Applicants for distribution of list I chemicals
 
-The Attorney General shall register an applicant to distribute a list I chemical unless theAttorney General determines that registration of the applicant is inconsistent with the public interest. Registration under this subsection shall not be required for the distribution of a drug product that is exempted under section 802(39)(A)(iv) of this title. In determining the public interest for the purposes of this subsection, the Attorney General shall consider—
+The Attorney General shall register an applicant to distribute a list I chemical unless the Attorney General determines that registration of the applicant is inconsistent with the public interest. Registration under this subsection shall not be required for the distribution of a drug product that is exempted under section 802(39)(A)(iv) of this title. In determining the public interest for the purposes of this subsection, the Attorney General shall consider—
 
 &emsp;(1) maintenance by the applicant of effective controls against diversion of listed chemicals into other than legitimate channels;
 
@@ -134,5 +134,5 @@ For provisional registration of persons engaged in manufacturing, distributing, 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 824, 827, 828, 880, 952, 958, 965 of this title.
+This section is referred to in sections 824, 827, 828, 844, 880, 952, 958, 965 of this title.
 

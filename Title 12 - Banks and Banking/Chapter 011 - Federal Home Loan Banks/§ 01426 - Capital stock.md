@@ -2,7 +2,7 @@
 
 #### (a) Par value of shares
 
-The capital stock of each Federal Home Loan Bank shall be divided into shares of a par value of $100 each. The minimum capital stock shall be issued at par. Stock issued thereafter shall be issued at such price not less than par as may be fixed by the Board.
+The capital stock of each Federal Home Loan Bank shall be divided into shares of a par value of $100 each. The minimum capital stock shall be issued at par. Stock issued thereafter shall beissued at such price not less than par as may be fixed by the Board.
 
 #### (b) Minimum subscriptions; retirement of oversubscriptions; limitations; cancellation of oversubscriptions; aggregate unpaid loan principal; reports and information
 
@@ -30,7 +30,7 @@ Any member other than a Federal savings and loan association may withdraw from m
 
 #### (f) Disposal of stock
 
-A Federal Home Loan Bank may, with the approval of the Board, permit the disposal of stock to another member, or to an institution eligible to become a member, but only to enable such an institution to become a member.
+A Federal Home Loan Bank may, with the approval of the Board, permit the disposal of stock to another member, or to an institution eligibleto become a member, but only to enable such an institution to become a member.
 
 #### (g) Dividends
 
@@ -56,7 +56,7 @@ Pub. L. 101–73, §710(b)(2), struck out “or nonmember borrower” after “s
 
 Pub. L. 101–73, §706(2), substituted “If any member's membership in a Federal Home Loan Bank is terminated, the indebtedness of such member to the Federal Home Loan Bank shall be liquidated in an orderly manner (as determined by the Federal Home Loan Bank), and upon completion of such liquidation, the capital stock in the Federal Home Loan Bank owned by such member shall be surrendered and canceled. Any such liquidation shall be deemed a prepayment of any such indebtedness, and shall be subject to any penalties or other fees applicable to such prepayment.” for “In any such case, the indebtedness of such member or nonmember borrower to the Federal Home Loan Bank shall be liquidated, and the capital stock in the Federal Home Loan Bank owned by such member shall be surrendered and canceled, except that in the case of a voluntary withdrawal, such liquidation shall be deemed a prepayment of any such indebtedness, and shall be subject to any penalties applicable to such prepayment.”
 
-Pub. L. 101–73, §§701(b)(1), (3)(A), 706(1), redesignated subsec. (i) as (e), substituted “Board” for “board”wherever appearing, and struck out former subsec. (e) which related to loans to institutions not authorized to subscribe to stock.
+Pub. L. 101–73, §§701(b)(1), (3)(A), 706(1), redesignated subsec. (i) as (e), substituted “Board” for “board” wherever appearing, and struck out former subsec. (e) which related to loans to institutions not authorized to subscribe to stock.
 
 Subsec. (f). Pub. L. 101–73, §§701(b)(1), (3)(A), 706(1), redesignated subsec. (j) as (f), substituted “Board” for “board”, and struck out former subsec. (f) which related to subscription by United States, maximum amounts, and payments.
 
@@ -88,7 +88,7 @@ Subsec. (<i>l</i>). Pub. L. 87–210, §2, repealed subsec. (<i>l</i>) which req
 
 1955—Subsec. (i). Act Aug. 11, 1955, provided that a Federal savings and loan association may not withdraw voluntarily, inserted proviso clause in item (ii), and inserted provisions authorizing removal of a member institution which has a management or home-financing policy of a character inconsistent with sound and economical home financing or with the purposes of this chapter.
 
-1950—Subsec. (<i>l</i>). Act June 27, 1950, added subsec. (<i>l).</i>
+1950—Subsec. (<i>l</i>). Act June 27, 1950, added subsec. (<i>l</i>).
 
 1935—Subsec. (k). Act May 28, 1935, omitted exception clause relating to stock held by the United States.
 

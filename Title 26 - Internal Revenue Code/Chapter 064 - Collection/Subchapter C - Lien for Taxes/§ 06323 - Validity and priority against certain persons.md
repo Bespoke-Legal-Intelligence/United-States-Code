@@ -26,7 +26,7 @@ Even though notice of a lien imposed by section 6321 has been filed, such lien s
 
 #### (3) Personal property purchased at retail
 
-&emsp;With respect to tangible personal property purchased at retail, as against a purchaser in the ordinary course of the seller's trade or business, unless at the time of such purchase such purchaser intends such purchase to (or knows such purchase will) hinder, evade, or defeat the collection of any tax under this title.
+&emsp;With respect to tangible personal property purchased at retail, as against a purchaser inthe ordinary course of the seller's trade or business, unless at the time of such purchase such purchaser intends such purchase to (or knows such purchase will) hinder, evade, or defeat the collection of any tax under this title.
 
 #### (4) Personal property purchased in casual sale
 
@@ -66,7 +66,7 @@ Even though notice of a lien imposed by section 6321 has been filed, such lien s
 
 #### (10) Passbook loans
 
-&emsp;With respect to a savings deposit, share, or other account, evidenced by a passbook, withan institution described in section 581 or 591, to the extent of any loan made by such institution without actual notice or knowledge of the existence of such lien, as against such institution, if such loan is secured by such account and if such institution has been continuously in possession of such passbook from the time the loan is made.
+&emsp;With respect to a savings deposit, share, or other account, evidenced by a passbook, with an institution described in section 581 or 591, to the extent of any loan made by such institution without actual notice or knowledge of the existence of such lien, as against such institution, if such loan is secured by such account and if such institution has been continuously in possession of such passbook from the time the loan is made.
 
 #### (c) Protection for certain commercial transactions financing agreements, etc.
 
@@ -94,7 +94,7 @@ Even though notice of a lien imposed by section 6321 has been filed, such lien s
 
 &emsp;&emsp;&emsp;(i) to make loans to the taxpayer to be secured by commercial financing security acquired by the taxpayer in the ordinary course of his trade or business, or
 
-&emsp;&emsp;&emsp;(ii) to purchase commercial financing security (other than inventory) acquired by the taxpayer in the ordinary course of his trade or business;
+&emsp;&emsp;&emsp;(ii) to purchase commercial financing security (other than inventory) acquired bythe taxpayer in the ordinary course of his trade or business;
 
 > &emsp;&emsp;but such an agreement shall be treated as coming within the term only to the extent that such loan or purchase is made before the 46th day after the date of tax lien filing or (if earlier) before the lender or purchaser had actual notice or knowledge of such tax lien filing.
 
@@ -172,7 +172,7 @@ If the lien imposed by section 6321 is not valid as against a lien or security i
 
 &emsp;(2) the reasonable charges and expenses of an indenture trustee or agent holding the security interest for the benefit of the holder of the security interest,
 
-&emsp;(3) the reasonable expenses, including reasonable compensation for attorneys, actually incurred in collecting or enforcing the obligation secured,
+&emsp;(3) the reasonable expenses, including reasonable compensation for attorneys, actuallyincurred in collecting or enforcing the obligation secured,
 
 &emsp;(4) the reasonable costs of insuring, preserving, or repairing the property to which the lien or security interest relates,
 
@@ -322,9 +322,31 @@ For purposes of this section and section 6324—
 
 &emsp;For purposes of this subchapter, a forfeiture under local law of property seized by a law enforcement agency of a State, county, or other local governmental subdivision shall relate back to the time of seizure, except that this paragraph shall not apply to the extent that under local law the holder of an intervening claim or interest would have priority over the interest of the State, county, or other local governmental subdivision in the property.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 779; Feb. 26, 1964, Pub. L. 88–272, title II, §236(a), (c)(1), 78 Stat. 127, 128; July 5, 1966, Pub. L. 89–493, §17(a), 80 Stat. 266; Nov. 2, 1966, Pub. L. 89–719, title I, §101(a), 80 Stat. 1125; Oct. 4, 1976, Pub. L. 94–455, title XII, §1202(h)(2), title XIX, §1906(b)(13)(A), title XX, §2008(c), 90 Stat. 1688, 1834, 1892; Nov. 6, 1978, Pub. L. 95–600, title VII, §702(q)(1), (2), 92 Stat. 2937, 2938; Oct. 22, 1986, Pub. L. 99–514, title XV, §1569(a), 100 Stat. 2764; Nov. 10, 1988, Pub. L. 100–647, title I, §1015(s)(1), 102 Stat. 3573; Nov. 5, 1990, Pub. L. 101–508, title XI, §§11317(b), 11704(a)(26), 104 Stat. 1388–458, 1388–519.)
+#### (j) Withdrawal of notice in certain circumstances
+
+#### (1) In general
+
+&emsp;The Secretary may withdraw a notice of a lien filed under this section and this chaptershall be applied as if the withdrawn notice had not been filed, if the Secretary determines that—
+
+&emsp;&emsp;(A) the filing of such notice was premature or otherwise not in accordance with administrative procedures of the Secretary,
+
+&emsp;&emsp;(B) the taxpayer has entered into an agreement under section 6159 to satisfy the tax liability for which the lien was imposed by means of installment payments, unless such agreement provides otherwise,
+
+&emsp;&emsp;(C) the withdrawal of such notice will facilitate the collection of the tax liability, or
+
+&emsp;&emsp;(D) with the consent of the taxpayer or the Taxpayer Advocate, the withdrawal of such notice would be in the best interests of the taxpayer (as determined by the Taxpayer Advocate) and the United States.
+
+> &emsp;Any such withdrawal shall be made by filing notice at the same office as the withdrawn notice. A copy of such notice of withdrawal shall be provided to the taxpayer.
+
+#### (2) Notice to credit agencies, etc.
+
+&emsp;Upon written request by the taxpayer with respect to whom a notice of a lien was withdrawn under paragraph (1), the Secretary shall promptly make reasonable efforts to notify credit reporting agencies, and any financial institution or creditor whose name and address is specified in such request, of the withdrawal of such notice. Any such request shall be in such form as the Secretary may prescribe.
+
+(Aug. 16, 1954, ch. 736, 68A Stat. 779; Feb. 26, 1964, Pub. L. 88–272, title II, §236(a), (c)(1), 78 Stat. 127, 128; July 5, 1966, Pub. L. 89–493, §17(a), 80 Stat. 266; Nov. 2, 1966, Pub. L. 89–719, title I, §101(a), 80 Stat. 1125; Oct. 4, 1976, Pub. L. 94–455, title XII, §1202(h)(2), title XIX, §1906(b)(13)(A), title XX, §2008(c), 90 Stat. 1688, 1834, 1892; Nov. 6, 1978, Pub. L. 95–600, title VII, §702(q)(1), (2), 92 Stat. 2937, 2938; Oct. 22, 1986, Pub. L. 99–514, title XV, §1569(a), 100 Stat. 2764; Nov. 10, 1988, Pub. L. 100–647, title I, §1015(s)(1), 102 Stat. 3573; Nov. 5, 1990, Pub. L. 101–508, title XI, §§11317(b), 11704(a)(26), 104 Stat. 1388–458, 1388–519; July 30, 1996, Pub. L. 104–168, title V, §501(a), 110 Stat. 1460.)
 
 #### Amendments
+
+1996—Subsec. (j). Pub. L. 104–168 added subsec. (j).
 
 1990—Subsec. (a). Pub. L. 101–508, §11704(a)(26), substituted “Purchasers” for “Purchases” in heading.
 
@@ -387,6 +409,10 @@ Subsec. (i)(3). Pub. L. 89–719 redesignated provisions of former subsec. (e) a
 1964—Subsec. (a). Pub. L. 88–272, §236(c)(1), substituted “subsections (c) and (d)” for “subsection (c)”.
 
 Subsecs. (d), (e). Pub. L. 88–272, §236(a), added subsec. (d) and redesignated former subsec. (d) as (e).
+
+#### Effective Date of 1996 Amendment
+
+Section 501(d) of Pub. L. 104–168 provided that: “The amendments made by this section \[amending this section and section 6343 of this title\] shall take effect on the date of the enactment of this Act \[July 30, 1996\].”
 
 #### Effective Date of 1990 Amendment
 

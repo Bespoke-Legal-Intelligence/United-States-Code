@@ -2,7 +2,7 @@
 
 #### (a) Authority to seek injunction
 
-A civil action in the name of the United States to enjoin any person from further engaging in conduct subject to penalty under section 6700 (relating to penalty for promoting abusive tax shelters, etc.) or section 6701 (relating to penalties for aiding and abetting understatement of tax liability) may be commenced at the request of the Secretary. Any action under this section shall be brought in the district court of the United States for the district in which such person resides, has his principal place of business, or has engaged in conduct subject to penalty under section 6700 or section 6701. The court may exercise its jurisdiction over such action (as provided in section 7402(a)) separate and apart from any other action brought by the United States against such person.
+A civil action in the name of the United States to enjoin any person from further engaging in conduct subject to penalty under section 6700 (relating to penalty for promoting abusive tax shelters, etc.) or section 6701 (relating to penalties for aiding and abetting understatement of tax liability) may be commenced at the request of the Secretary. Any action under this section shall be brought in the district court of the United States for the district in which suchperson resides, has his principal place of business, or has engaged in conduct subject to penalty under section 6700 or section 6701. The court may exercise its jurisdiction over such action (as provided in section 7402(a)) separate and apart from any other action brought by the United States against such person.
 
 #### (b) Adjudication and decree
 

@@ -4,7 +4,7 @@ The payment of all moneys and the distribution of all goods stipulated to be fur
 
 First. To the chiefs of a tribe, for the tribe.
 
-Second. In cases where the imperious interest of the tribe or the individuals intended to be benefited, or any treaty stipulation, requires the intervention of an agency, then to such person as the tribe shall appoint to receive such moneys or goods; or if several persons be appointed, then upon the joint order or receipt of such persons.
+Second. In cases where the imperious interest of the tribe or the individuals intended to be benefited, or any treaty stipulation, requires the intervention of an agency, then to such person as the tribe shall appoint to receive such moneys or goods; or if several persons be appointed,then upon the joint order or receipt of such persons.
 
 Third. To the heads of the families and to the individuals entitled to participate in the moneys or goods.
 

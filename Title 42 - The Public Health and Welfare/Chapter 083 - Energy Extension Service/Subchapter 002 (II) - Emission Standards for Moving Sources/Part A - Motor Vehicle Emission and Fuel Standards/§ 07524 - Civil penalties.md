@@ -16,7 +16,7 @@ The Administrator may commence a civil action to assess and recover any civil pe
 
 #### (2) Determining amount
 
-&emsp;In determining the amount of any civil penalty assessed under this subsection, the Administrator shall take into account the gravity of the violation, the economic benefit or savings (if any) resulting from the violation,the size of the violator's business, the violator's history of compliance with this subchapter, action taken to remedy the violation, the effect of the penalty on the violator's ability to continue in business, and such other matters as justice may require.
+&emsp;In determining the amount of any civil penalty assessed under this subsection, the Administrator shall take into account the gravity of the violation, the economic benefit or savings (if any) resulting from the violation, the size of the violator's business, the violator's history of compliance with this subchapter, action taken to remedy the violation, the effect of the penalty on the violator's ability to continue in business, and such other matters as justice may require.
 
 #### (3) Effect of Administrator's action
 
@@ -48,7 +48,7 @@ The Administrator may commence a civil action to assess and recover any civil pe
 
 > &emsp;the Administrator shall request the Attorney General to bring a civil action in an appropriate district court to recover the amount assessed (plus interest at rates established pursuant to section 6621(a)(2) of title 26 from the date of the final order or the date of the final judgment, as the case may be). In such an action, the validity, amount, and appropriateness of the penalty shall not be subject to review. Any person who fails to pay on a timely basis the amount of an assessment of a civil penalty as described in the first sentence of this paragraph shall be required to pay, in addition to that amount and interest, the United States’ enforcement expenses, including attorneys fees and costs for collection proceedings, and a quarterly nonpayment penalty for each quarter during which such failure to pay persists. The nonpayment penalty shall be in an amount equal to 10 percent of the aggregate amount of that person's penalties and nonpayment penalties which are unpaid as of the beginning of such quarter.
 
-(July 14, 1955, ch. 360, title I, §205, as added Oct. 20, 1965, Pub. L. 89–272, title I, §101(8), 79 Stat. 994; amended Nov. 21, 1967, Pub. L. 90–148, §2, 81 Stat. 500; Dec. 31, 1970, Pub. L. 91–604, §7(c), 84 Stat. 1694; Aug. 7, 1977, Pub. L. 95–95, title II, §219(c), 91 Stat. 762; Nov. 15, 1990, Pub. L. 101–549, title II, §228(c), 104 Stat. 2508.)
+(July 14, 1955, ch. 360, title I, §205, as added Oct. 20, 1965, Pub. L. 89–272, title I, §101(8), 79 Stat. 994; amended Nov. 21, 1967, Pub. L. 90–148, §2, 81 Stat. 500; Dec. 31, 1970, Pub. L. 91–604, §7(c), 84 Stat. 1694; Aug. 7, 1977, Pub. L. 95–95, title II,§219(c), 91 Stat. 762; Nov. 15, 1990, Pub. L. 101–549, title II, §228(c), 104 Stat. 2508.)
 
 #### Codification
 

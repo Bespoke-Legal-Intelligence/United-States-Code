@@ -32,5 +32,5 @@ A prior section 134 was renumbered section 132 of this title.
 
 #### Order of Succession
 
-For order of succession in event of death, disability, or resignation of Secretary, see Ex. Ord. No. 12787, Dec. 31, 1991, 57 F.R. 517, set out as a note under section 3347 of Title 5, Government Organization and Employees.
+For order of succession in event of death, disability, or resignation of Secretary, see Ex. Ord. No. 13000, Apr. 24, 1996, 61 F.R. 18483, set out as a note under section 3347 of Title 5, Government Organization and Employees.
 

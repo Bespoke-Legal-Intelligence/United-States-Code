@@ -42,7 +42,7 @@ Venue in condemnation proceedings, see section 1403 of Title 28, Judiciary and J
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 16 sections 81e, 159a, 231b, 242, 263, 403i, 423k, 423n, 425a, 430a, 430k, 430u, 430nn, 433c, 433h, 447b, 449, 450m, 450p, 459a; title 25 sections 500a, 941j, 1724, 1754; title 42 sections 1532, 2222; title 43 section 1522; title 50 section 167f.
+This section is referred to in title 8 section 1103; title 16 sections 81e, 159a, 231b, 242, 263, 403i, 423k, 423n, 425a, 430a, 430k, 430u, 430nn, 433c, 433h, 447b, 449, 450m, 450p, 459a; title 25 sections 500a, 941j, 1724, 1754; title 42 sections 1532, 2222; title 43 section 1522; title 50 section 167f.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

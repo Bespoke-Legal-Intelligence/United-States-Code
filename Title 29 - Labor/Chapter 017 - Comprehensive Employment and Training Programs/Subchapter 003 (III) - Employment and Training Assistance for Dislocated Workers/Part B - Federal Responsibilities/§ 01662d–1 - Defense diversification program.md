@@ -306,7 +306,7 @@ Persons Eligible for Clearinghouse Services.—The following persons shall be el
 
 &emsp;“(1) Members of the Armed Forces who are discharged or released from active duty.
 
-&emsp;“(2) Civilian employees of the Department of Defense who are terminated from such employment as a result of reductions in defense spending or the closureor realignment of a military installation, as determined by the Secretary of Defense.
+&emsp;“(2) Civilian employees of the Department of Defense who are terminated from such employment as a result of reductions in defense spending or the closure or realignment of a military installation, as determined by the Secretary of Defense.
 
 &emsp;“(3) Employees of defense contractors who are terminated or laid off (or receive a notice of termination or lay off) as a result of the completion or termination of a defense contract or program or reductions in defense spending, as determined by the Secretary of Defense.
 

@@ -1,0 +1,26 @@
+### §461. Management rights
+
+(a)
+
+Scope.—If there is no obligation under the provisions of chapter 71 of title 5 for the head of an agency of the United States to consult or negotiate with a labor organization on a particular matter by reason of that matter being covered by a provision of law or a Governmentwide regulation, the Director of the National Imagery and Mapping Agency is not obligated to consult or negotiate with a labor organization on that matter even if that provision of law or regulation is inapplicable to the National Imagery and Mapping Agency.
+
+(b)
+
+Bargaining Units.—The National Imagery and Mapping Agency shall accord exclusive recognition to a labor organization under section 7111 of title 5 only for a bargaining unit that was recognized as appropriate for the Defense Mapping Agency on the day before the date on which employees and positions of the Defense Mapping Agency in that bargaining unit became employees and positions of the National Imagery and Mapping Agency under the National Imagery and Mapping Agency Act of 1996 (title XI of the National Defense Authorization Act for Fiscal Year 1997).
+
+(c)
+
+Termination of Bargaining Unit Coverage of Position Modified To Affect National Security Directly.—(1) If the Director of the National Imagery and Mapping Agency determines that the responsibilities of a position within a collective bargaining unit should be modified to include intelligence, counterintelligence, investigative, or security duties not previously assigned to that position and that the performance of the newly assigned duties directly affects the national security of the United States, then, upon such a modification of the responsibilities of that position, the position shall cease to be covered by the collective bargaining unit and the employee in that position shall cease to be entitled to representation by a labor organization accorded exclusive recognition for that collective bargaining unit.
+
+(2) A determination described in paragraph (1) that is made by the Director of the National Imagery and Mapping Agency may not be reviewed by the Federal Labor Relations Authority or any court of the United States.
+
+(Added Pub. L. 104–201, div. A, title XI, §1112(a)(2), Sept. 23, 1996, 110 Stat. 2681.)
+
+#### References in Text
+
+The National Imagery and Mapping Agency Act of 1996 (title XI of the National Defense Authorization Act for Fiscal Year 1997), referred to in subsec. (b), is title XI of Pub. L. 104–201, div. A, Sept. 23, 1996, 110 Stat. 2675. For complete classification of this Act to the Code, see Short Title of 1996 Amendment note set out under section 441 of this title and Tables.
+
+#### Effective Date
+
+Section effective Oct. 1, 1996, see section 1124 of Pub. L. 104–201, set out as an Effective Date of 1996 Amendment note under section 193 of this title.
+

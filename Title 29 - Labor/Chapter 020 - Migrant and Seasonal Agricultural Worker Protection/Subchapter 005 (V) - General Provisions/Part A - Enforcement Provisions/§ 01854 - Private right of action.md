@@ -10,9 +10,9 @@ Upon application by a complainant and in such circumstances as the court may dee
 
 #### (c) Award of damages or other equitable relief; amount; criteria; appeal
 
-(1) If the court finds that the respondent has intentionally violated any provision of this chapter or any regulation under this chapter, it may award damages up to and including an amount equal to the amount of actual damages, or statutory damages of up to $500 per plaintiffper violation, or other equitable relief, except that (A) multiple infractions of a single provision of this chapter or of regulations under this chapter shall constitute only one violation for purposes of determining the amount of statutory damages due a plaintiff; and (B) if such complaint is certified as a class action, the court shall award no more than the lesser of up to $500 per plaintiff per violation, or up to $500,000 or other equitable relief.
+(1) If the court finds that the respondent has intentionally violated any provision of this chapter or any regulation under this chapter, it may award damages up to and including an amount equal to the amount of actual damages, or statutory damages of up to $500 per plaintiff per violation, or other equitable relief, except that (A) multiple infractions of a single provision of this chapter or of regulations under this chapter shall constitute only one violation for purposes of determining the amount of statutory damages due a plaintiff; and (B) if such complaint is certified as a class action, the court shall award no more than the lesser of up to $500 per plaintiff per violation, or up to $500,000 or other equitable relief.
 
-(2) In determining the amount of damages to be awarded under paragraph (1), the court is authorized to consider whether an attempt was made to resolve the issues in dispute before the resort to litigation.
+(2) In determining the amount of damages to be awarded under paragraph (1), the court is authorized to consider whether an attempt wasmade to resolve the issues in dispute before the resort to litigation.
 
 (3) Any civil action brought under this section shall be subject to appeal as provided in chapter 83 of title 28.
 
@@ -62,7 +62,7 @@ If it is determined under a State workers’ compensation law that the workers�
 
 1995—Subsec. (d). Pub. L. 104–49, §1(a)(2), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows:
 
-“(d)(1) Notwithstanding any other provision of this chapter, where a State workers’ compensation law isapplicable and coverage is provided for a migrant or seasonal agricultural worker, the workers’ compensation benefits shall be the exclusive remedy for loss of such worker under this chapter in the case of bodily injury or death.
+“(d)(1) Notwithstanding any other provision of this chapter, where a State workers’ compensation law is applicable and coverage is provided for a migrant or seasonal agricultural worker, the workers’ compensation benefits shall be the exclusive remedy for loss of such worker under this chapter in the case of bodily injury or death.
 
 “(2) The exclusive remedy prescribed by paragraph (1) precludes the recovery under subsection (c) of this section of actual damages for loss from an injury or death but does not preclude recovery under subsection (c) of this section for statutory damages or an injunction.”
 

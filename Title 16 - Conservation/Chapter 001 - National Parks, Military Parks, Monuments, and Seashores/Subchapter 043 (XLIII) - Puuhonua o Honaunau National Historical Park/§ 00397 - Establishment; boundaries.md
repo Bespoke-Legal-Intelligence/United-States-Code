@@ -72,7 +72,7 @@ Beginning at the east end of this right-of-way on the common boundary of the lan
 
 1\. Eighty degrees thirty-six minutes five seconds one hundred and seventeen feet along L. C. Aw. 7712:1 to M. Kekuanaoa, to the Triangulation Station “Ahupuaa” of the B. P. Bishop estate;
 
-2\. Eighty-two degrees twenty minutes seven thousand two hundred eighty-nine and one-tenthfeet along same to a one and one-fourth-inch pipe in concrete monument on the east boundary of parcel 1 the coordinates of said point of the end of this six-foot right-of-way referred to Government Triangulation Station “Lae-O-Kanoni” being four thousand one hundred eighty-two and four-tenths feet south and three thousand seven hundred thirty-nine and four-tenths feet east.
+2\. Eighty-two degrees twenty minutes seven thousand two hundred eighty-nine and one-tenth feet along same to a one and one-fourth-inch pipe in concrete monument on the east boundary of parcel 1 the coordinates of said point of the end of this six-foot right-of-way referred to Government Triangulation Station “Lae-O-Kanoni” being four thousand one hundred eighty-two and four-tenths feet south and three thousand seven hundred thirty-nine and four-tenths feet east.
 
 Area, one and two one-hundredths acres.
 
@@ -82,7 +82,7 @@ Being portion of L. C. Aw. 8521–B to G. D. Hueu, being portion of the Ahupuaa 
 
 Beginning at a one and one-half-inch pipe in concrete monument called “Kalani” at the northeast corner of this parcel, the southeast corner of parcel 1, on the common boundary of the land of Keokea and Kiilae, the coordinates of said point of beginning referred to Government Survey Triangulation Station “Lae-O-Kanoni” being seven thousand four hundred forty-four and eight-tenths feet south and five thousand three and two-tenths feet east and running by azimuths measured clockwise from true south:
 
-1\. Three hundred thirty-eight degrees forty-nine minutes thirty seconds five hundred ninety-five and four-tenths feet along the remainder of L. C. Aw. 8521–B to G. D. Hueu to the eight thousand foot south coordinates line referred to Government Survey Triangulation Station “Lae-O-Kanoni”;
+1\. Three hundred thirty-eight degrees forty-nine minutes thirty seconds five hundred ninety-five and four-tenths feet along the remainder of L. C. Aw. 8521–B to G. D. Hueu to the eightthousand foot south coordinates line referred to Government Survey Triangulation Station “Lae-O-Kanoni”;
 
 2\. Ninety degree no minutes one thousand ninety-nine and seven-tenths feet along same and along said eight thousand foot south coordinates line and across school grant 7 Apana 6 to high-water mark;
 

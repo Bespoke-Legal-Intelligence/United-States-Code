@@ -42,5 +42,5 @@ Notwithstanding the provisions of subsection (a) of this section, the United Sta
 
 1982—Subsec. (i). Pub. L. 97–232 added subsec. (i).
 
-1980—Subsec. (b). Pub. L. 96–344 struck out “constructed” after “visitor center” and inserted provision authorizing the Secretary to inform the public of the contributions of Representative Ryan to the creation of the recreation area by means of signs, markers, etc.,and to take such additional action, not later than Dec. 31, 1980, as deemed appropriate to recognize and commemorate the contributions of Representative Ryan to the recreation area.
+1980—Subsec. (b). Pub. L. 96–344 struck out “constructed” after “visitor center” and inserted provision authorizing the Secretary to inform the public of the contributions of Representative Ryan to the creation of the recreation area by means of signs, markers, etc., and to take such additional action, not later than Dec. 31, 1980, as deemed appropriate to recognize and commemorate the contributions of Representative Ryan to the recreation area.
 

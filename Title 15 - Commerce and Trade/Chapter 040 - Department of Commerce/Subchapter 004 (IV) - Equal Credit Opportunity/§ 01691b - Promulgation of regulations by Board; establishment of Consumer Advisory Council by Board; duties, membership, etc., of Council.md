@@ -10,7 +10,7 @@
 
 (4) Pursuant to Board regulations, entities making business or commercial loans shall maintain such records or other data relating to such loans as may be necessary to evidence compliance with this subsection or enforce any action pursuant to the authority of this chapter. In no event shall such records or data be maintained for a period of less than one year. The Board shall promulgate regulations to implement this paragraph in the manner prescribed by chapter 5 of title 5.
 
-(5) The Board shall provide in regulations that an applicant for a business or commercial loanshall be provided a written notice of such applicant's right to receive a written statement of the reasons for the denial of such loan.
+(5) The Board shall provide in regulations that an applicant for a business or commercial loan shall be provided a written notice of such applicant's right to receive a written statement of the reasons for the denial of such loan.
 
 #### (b) Consumer Advisory Council
 

@@ -26,7 +26,9 @@ Limitations on Reimbursement.—(1) An owner or operator of an aircraft is requi
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

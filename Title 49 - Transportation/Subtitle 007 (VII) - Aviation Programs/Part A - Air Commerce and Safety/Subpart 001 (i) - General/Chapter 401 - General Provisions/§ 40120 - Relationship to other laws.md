@@ -20,7 +20,9 @@ Additional Remedies.—A remedy under this part is in addition to any other reme
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -48,7 +50,7 @@ Subsection (c) is substituted for 49 App.:1506 to eliminate unnecessary words an
 
 #### References in Text
 
-The International Navigational Rules Act of 1977, referred to in subsec. (a), is Pub. L. 95–75, July 27, 1977, 91 Stat. 308, as amended, which is classified principally to chapter 30 (§1601 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 33 and Tables.
+The International Navigational Rules Act of 1977, referred to in subsec. (a), is Pub. L. 95–75, July 27, 1977, 91Stat. 308, as amended, which is classified principally to chapter 30 (§1601 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 33 and Tables.
 
 #### Ex. Ord. No. 10854. Extension of Application
 

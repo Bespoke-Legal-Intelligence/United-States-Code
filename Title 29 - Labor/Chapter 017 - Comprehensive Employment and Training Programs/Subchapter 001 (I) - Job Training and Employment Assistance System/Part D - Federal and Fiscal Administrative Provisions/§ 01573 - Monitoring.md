@@ -10,7 +10,7 @@ The Secretary may investigate any matter the Secretary deems necessary to determ
 
 #### (c) Witnesses; books, papers, and documents
 
-For the purpose of any investigation or hearing under this chapter, the provisions of section 9 of the Federal Trade Commission Act (15 U.S.C. 49) (relating to the attendance of witnesses and the production of books, papers, and documents) are made applicable to the Secretary.
+For the purpose of any investigation or hearing under this chapter, the provisions of section 9 of the Federal Trade Commission Act (15U.S.C. 49) (relating to the attendance of witnesses and the production of books, papers, and documents) are made applicable to the Secretary.
 
 (Pub. L. 97–300, title I, §163, Oct. 13, 1982, 96 Stat. 1348.)
 

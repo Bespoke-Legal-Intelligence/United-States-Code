@@ -6,7 +6,7 @@ The Secretary, in consultation with the Director of the National Vaccine Program
 
 #### (b) Report
 
-In the report required in section 300aa–4 of this title, the Secretary, acting through the Director of the National Vaccine Program under subchapter XIX of this chapter, shall include information with respect to activities and the progress made in implementing the provisions of this section and achieving its goals.
+In the report required in section 300aa–4 of this title, the Secretary, acting through the Directorof the National Vaccine Program under subchapter XIX of this chapter, shall include information with respect to activities and the progress made in implementing the provisions of this section and achieving its goals.
 
 #### (c) Authorization of appropriations
 

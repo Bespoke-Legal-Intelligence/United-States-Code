@@ -2,7 +2,7 @@
 
 #### (a) Financial assistance; joint programs of eligible recipients and community-based organizations; special services and activities
 
-From the portion of the allotment of each State under section 2311 of this title available for this part, each State shall provide financial assistance to joint programs of eligible recipients and community-based organizations within the State for the conduct of special vocational education services and activities described in subsection (b) of this section.
+From the portion of the allotment of each State under section 2311 of this title availablefor this part, each State shall provide financial assistance to joint programs of eligible recipients and community-based organizations within the State for the conduct of special vocational education services and activities described in subsection (b) of this section.
 
 #### (b) Programs eligible for funding
 

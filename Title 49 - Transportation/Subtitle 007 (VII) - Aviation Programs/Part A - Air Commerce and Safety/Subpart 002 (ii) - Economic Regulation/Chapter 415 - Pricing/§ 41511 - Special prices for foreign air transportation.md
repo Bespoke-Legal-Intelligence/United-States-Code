@@ -36,7 +36,9 @@ Space-Available Basis.—Under terms the Secretary prescribes, an air carrier or
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -50,7 +52,7 @@ Aug. 23, 1958, Pub. L. 85–726, §403(b)(1) (2d– last sentences), 72 Stat. 75
 
 &nbsp;
 
-49 App.:1551(a) (4)(B) (related to 49 App.:1373(b)(1)), (b)(1)(E).
+49 App.:1551(a)(4)(B) (related to 49 App.:1373(b)(1)), (b)(1)(E).
 
 Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1601(a)(4)(B) (related to §403(b)(1)), (b)(1)(E); added Oct. 4, 1984, Pub. L. 98–443, §3(c), (e), 98 Stat. 1703, 1704.
 
@@ -60,7 +62,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1601(a)(4)(B) (related to §403
 
 &nbsp;
 
-49 App.:1551(a) (4)(B) (related to 49 App.:1373(b)(1)), (b)(1)(E).
+49 App.:1551(a)(4)(B) (related to 49 App.:1373(b)(1)), (b)(1)(E).
 
 In this section, the words “foreign air transportation” are substituted for “transportation” and “in the case of overseas or foreign air transportation” because 49 App.:1551(a)(4)(B) provides that 49 App.:1373 no longer applies to interstate or overseas air transportation and 49 App.:1376(a)–(e), restated in section 41901 of the revised title, governs rates for the transportation of mail by aircraft. See section 40102(a) of the revised title defining “air transportation” to mean interstate or foreign air transportation or the transportation of mail by aircraft. The word “conditions” is omitted as being included in “terms”.
 
@@ -72,5 +74,5 @@ In subsection (b)(4), the words “an individual who has severely impaired visio
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 40109, 41110, 46301 of this title.
+This section is referred to in section 41110 of this title.
 

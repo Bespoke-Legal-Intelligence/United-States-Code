@@ -6,7 +6,7 @@ To the extent permitted by law and requested by the Chairman, the Administrator 
 
 #### (b) Accounting, research, and technology assessment services
 
-The Comptroller General, the Librarian of Congress, and the Director of the Office of Technology Assessment shall, to the extent permitted by law and subject to the availability of funds, provide the Board with such facilities, support, funds and services, including staff, as may be necessary for the effective performance of the functions of the Board.
+The Comptroller General, the Librarian of Congress, and the Director of the Office of Technology Assessment shall, to the extent permitted by law and subject to the availability of funds, provide the Board with such facilities,support, funds and services, including staff, as may be necessary for the effective performance of the functions of the Board.
 
 #### (c) Additional support
 

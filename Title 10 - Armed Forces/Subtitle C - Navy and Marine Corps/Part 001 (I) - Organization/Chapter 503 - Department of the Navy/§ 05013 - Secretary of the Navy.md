@@ -112,7 +112,7 @@ Report.—Not later than two years after the date of the enactment of this Act \
 
 #### Order of Succession
 
-For order of succession in event of death, permanent disability, or resignation of Secretary of Defense, see Ex. Ord. No. 12787, Dec. 31, 1991, 57 F.R. 517, set out as a note under section 3347 of Title 5, Government Organization and Employees.
+For order of succession in event of death, permanent disability, or resignation of Secretary of Defense, see Ex. Ord. No. 13000, Apr. 24, 1996, 61 F.R. 18483, set out as a note under section 3347 of Title 5, Government Organization and Employees.
 
 For order of succession in event of death, permanent disability, or resignation of Secretary of the Navy, see Ex. Ord. No. 12879, Nov. 8, 1993, 58 F.R. 59929, set out as a note under section 3347 of Title 5.
 
@@ -128,5 +128,5 @@ Lease of real and personal property, see section 2662 et seq. of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 162, 5033, 5043 of this title.
+This section is referred to in sections 162, 5033, 5043, 10172, 10173 of this title.
 

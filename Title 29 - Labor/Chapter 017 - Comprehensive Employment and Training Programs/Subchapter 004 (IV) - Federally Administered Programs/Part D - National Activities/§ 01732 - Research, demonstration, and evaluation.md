@@ -8,7 +8,7 @@ It is the purpose of this section to assist the United States in expanding emplo
 
 #### (1) In general
 
-&emsp;The Secretary shall establish a comprehensive program of training and employment research, utilizing the methods, techniques, and knowledge of the behavioral and social sciences and such other methods, techniques, and knowledge as will aid in the solution of the employment and training problems of the United States.
+&emsp;The Secretary shall establish a comprehensive program of training and employment research, utilizing the methods, techniques, andknowledge of the behavioral and social sciences and such other methods, techniques, and knowledge as will aid in the solution of the employment and training problems of the United States.
 
 #### (2) Studies
 
@@ -129,6 +129,10 @@ The Social Security Act, referred to in subsec. (d)(1)(B)(v), is act Aug. 14, 19
 #### Effective Date of 1992 Amendment
 
 Amendment by Pub. L. 102–367 effective July 1, 1993, see section 701(a) of Pub. L. 102–367, set out as an Effective Date of 1992 Amendment; Transition Provisions note under section 1501 of this title.
+
+#### Workforce Flexibility Partnership Demonstration Program
+
+Pub. L. 104–208, div. A, title I, §101(e) \[title I\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–234, provided in part: “That the Secretary of Labor shall establish a workforce flexibility (work-flex) partnership demonstration program under which the Secretary shall authorize not more than six States, of which at least three States shall each have populations not in excess of 3,500,000, with a preference given to those States that have been designated Ed-Flex Partnership States under section 311(e) of Public Law 103–227 \[20 U.S.C. 5891(e)\], to waive any statutory or regulatory requirement applicable to service delivery areas or substate areas within the State under titles I–III of the Job Training Partnership Act \[29 U.S.C. 1511 et seq., 1601 et seq., 1651 et seq.\] (except for requirements relating to wage and labor standards, grievance procedures and judicial review, nondiscrimination, allotment of funds, and eligibility), and any of the statutory or regulatory requirements of sections 8–10 of the Wagner-Peyser Act \[29 U.S.C. 49g–49i\] (except for requirements relating to the provision of services to unemployment insurance claimants and veterans, and to universal access to basic labor exchange services without cost to job seekers), for a duration not to exceed the waiver period authorized under section 311(e) of Public Law 103–227, pursuant to a plan submitted by such States and approved by the Secretary for the provision of workforce employment and training activities in the States, which includes a description of the process by which service delivery areas and substate areas may apply for and have waivers approved by the State, the requirements of the Wagner-Peyser Act \[29 U.S.C. 49 et seq.\] to be waived, the outcomes to be achieved and other measures to be taken to ensure appropriate accountability for federal funds.”
 
 #### Section Referred to in Other Sections
 

@@ -10,7 +10,7 @@ Any State desiring to receive the amount for which it is eligible for any fiscal
 
 &emsp;(4) the development of training programs, including inservice training programs, for teachers, counselors, other educators, and administrators;
 
-&emsp;(5) fostering cooperative arrangements with such community groups and agencies as thepublic employment services, vocational rehabilitation service, community mental health agencies, education opportunity centers, and other community resources concerned with vocational development guidance and counseling, in order to avoid unnecessary duplication in the provision of services in the community or area to be served; and
+&emsp;(5) fostering cooperative arrangements with such community groups and agencies as the public employment services, vocational rehabilitation service, community mental health agencies, education opportunity centers, and other community resources concerned with vocational development guidance and counseling, in order to avoid unnecessary duplication in the provision of services in the community or area to be served; and
 
 &emsp;(6) inventories of State, local, and private resources available for the development of career education and career development programs and services.
 

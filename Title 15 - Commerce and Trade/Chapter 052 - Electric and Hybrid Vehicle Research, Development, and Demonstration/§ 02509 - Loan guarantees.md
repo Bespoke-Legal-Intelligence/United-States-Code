@@ -56,7 +56,7 @@ As used in this section, the term “qualified borrower” means any partnership
 
 (1) With respect to any loan guaranteed pursuant to this section, the Secretary of Energy is authorized to enter into a contract to pay, and to pay, the lender for and on behalf of the borrower the principal and interest charges which become due and payable on the unpaid balance of such loan if the Secretary of Energy finds—
 
-&emsp;(A) that the borrower is unable to meet principal and interest charges, that it is in the public interest to permit the borrower to continue to pursue the purposes of the project, and that the probable net cost to the Federal Government in paying such principal will be less than that which would result in the event of a default; and
+&emsp;(A) that the borrower is unable to meet principal and interest charges, that it is in the public interest to permit the borrower to continue to pursue the purposes of the project, and that the probable net cost to the Federal Government in paying such principal will beless than that which would result in the event of a default; and
 
 &emsp;(B) that the amount of such principal and interest charges which the Secretary of Energy is authorized to pay shall be no greater than the amount of principal and interest which the borrower is obligated to pay under the loan agreement.
 

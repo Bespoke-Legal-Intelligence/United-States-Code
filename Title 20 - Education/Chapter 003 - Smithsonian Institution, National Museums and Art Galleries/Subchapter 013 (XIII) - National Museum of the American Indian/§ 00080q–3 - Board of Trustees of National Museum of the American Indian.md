@@ -72,7 +72,7 @@ Subject to the general policies of the Board of Regents, the Board of Trustees s
 
 &emsp;&emsp;(A) the Secretary of the Smithsonian Institution;
 
-&emsp;&emsp;(B) an Assistant Secretary of the Smithsonian Institution appointed by the Board of Regents; and
+&emsp;&emsp;(B) a senior official of the Smithsonian Institution appointed by the Board of Regents; and
 
 &emsp;&emsp;(C) 23 individuals appointed by the Board of Regents from a list of nominees recommended by the Board of Trustees.
 
@@ -82,7 +82,7 @@ Subject to the general policies of the Board of Regents, the Board of Trustees s
 
 #### (3) Terms
 
-&emsp;The trustee appointed under paragraph (1)(B) shall serve at the pleasure of the Board of Regents. Except as otherwise provided in the next sentence, the terms of members appointed under paragraph (1)(C) shall be 3 years. Of the members first appointed under paragraph (1)(C)—
+&emsp;The trustee appointed under paragraph (1)(B) shall serve at the pleasure of the Board of Regents. Except as otherwise provided in the next sentence, the terms of members appointed under paragraph (1)(C) shall be 3years. Of the members first appointed under paragraph (1)(C)—
 
 &emsp;&emsp;(A) 7 members, 4 of whom shall be Indians, shall be appointed for a term of one year, as designated at the time of appointment; and
 
@@ -100,7 +100,11 @@ A majority of the members of the Board of Trustees then in office shall constitu
 
 Members of the Board shall be entitled (to the same extent as provided in section 5703 of title 5 with respect to employees serving intermittently in the Government service) to per diem, travel, and transportation expenses for each day (including travel time) during which they are engaged in the performance of their duties.
 
-(Pub. L. 101–185, §5, Nov. 28, 1989, 103 Stat. 1337.)
+(Pub. L. 101–185, §5, Nov. 28, 1989, 103 Stat. 1337; Pub. L. 104–278, §2, Oct. 9, 1996, 110 Stat. 3355.)
+
+#### Amendments
+
+1996—Subsec. (f)(1)(B). Pub. L. 104–278 substituted “a senior official” for “an Assistant Secretary”.
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

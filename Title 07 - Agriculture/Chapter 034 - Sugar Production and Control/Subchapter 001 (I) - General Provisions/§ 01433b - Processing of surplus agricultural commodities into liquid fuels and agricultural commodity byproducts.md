@@ -6,7 +6,7 @@ Notwithstanding any other provision of law, in order to prevent the accumulation
 
 #### (b) Feasibility of processing
 
-In determining the feasibility of providing for the processing of Commodity Credit Corporation stocks of commodities under subsection (a) of this section, the Secretary shall consider the nature of the commodities, and the acquisition, transportation, handling, storage, interest, and other costs associated with acquiring and maintaining such stocks, including the effect of such stocks in depressing commodity prices, as well as the value and utility of such stocks when processed into liquid fuels and agricultural commodity byproducts.
+In determining the feasibility of providing for the processing of Commodity Credit Corporation stocks of commodities under subsection (a) ofthis section, the Secretary shall consider the nature of the commodities, and the acquisition, transportation, handling, storage, interest, and other costs associated with acquiring and maintaining such stocks, including the effect of such stocks in depressing commodity prices, as well as the value and utility of such stocks when processed into liquid fuels and agricultural commodity byproducts.
 
 #### (c) Annual report to Congress
 
@@ -17,6 +17,10 @@ Not later than one hundred and twenty days after October 21, 1982, and annually 
 #### Amendments
 
 1985—Subsec. (a). Pub. L. 99–198 substituted provision authorizing the Corporation to make its accumulated agricultural commodities stocks available at no cost or reduced cost to encourage the purchase thereof for the production of liquid fuels and commodity byproducts, with any use of such commodities to be made in such a manner as to encourage increased use and avoid displacing usual marketings of such commodities for provision authorizing the Corporation to provide for processing of its accumulated stock into liquid fuels and commodity byproducts to be either made available to Federal agencies to meet their regular or emergency needs or to be sold commercially by the Corporation, at a price determined by the Secretary notwithstanding any other provisions of law and in a manner so as not to disrupt the prices in commercial markets of agriculturally-derived liquid fuel.
+
+#### Inapplicability of Section
+
+Section inapplicable to 1996 through 2002 crops of loan commodities, peanuts, and sugar and inapplicable to milk during period beginning Apr. 4, 1996, and ending Dec. 31, 2002, see section 7301(b)(1)(J) of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

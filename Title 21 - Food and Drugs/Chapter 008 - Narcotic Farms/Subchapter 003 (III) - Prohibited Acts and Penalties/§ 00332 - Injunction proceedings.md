@@ -28,7 +28,7 @@ Section 203 of title II of Pub. L. 87–781 provided that: “The amendments mad
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 334, 360j of this title; title 42 section 1396r–8.
+This section is referred to in sections 333, 334, 360j of this title; title 42 section 1396r–8.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

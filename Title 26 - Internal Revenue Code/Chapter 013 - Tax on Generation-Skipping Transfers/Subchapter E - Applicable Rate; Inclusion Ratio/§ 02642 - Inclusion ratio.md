@@ -162,7 +162,7 @@ Except as provided in subsection (f)—
 
 #### (4) Coordination with subsection (d)
 
-&emsp;Under regulations, appropriate adjustments shall be made in the application of subsection\(d) to take into account the provisions of this subsection.
+&emsp;Under regulations, appropriate adjustments shall be made in the application of subsection (d) to take into account the provisions of this subsection.
 
 #### (f) Special rules for certain inter vivos transfers
 
@@ -224,7 +224,7 @@ Subsec. (b)(2)(A). Pub. L. 100–647, §1014(g)(4)(C), inserted before period at
 
 Subsec. (b)(2)(B). Pub. L. 100–647, §1014(g)(4)(E), substituted “to property transferred at death” for “at or after death” in heading and “to property transferred as a result of the death of the transferor” for “at or after the death of the transferor” in text.
 
-Subsec. (b)(3). Pub. L. 100–647, §1014(g)(4)(F)(ii), as amended by Pub. L. 101–508, §11704(a)(36), substituted “Allocations to inter vivos transfers” for “Inter vivos allocations” in heading.
+Subsec. (b)(3). Pub. L. 100–647, §1014(g)(4)(F)(ii), as amended by Pub. L. 101–508, §11704(a)(36), substituted“Allocations to inter vivos transfers” for “Inter vivos allocations” in heading.
 
 Pub. L. 100–647, §1014(g)(4)(F)(i), substituted “to any property not transferred as a result of the death of the transferor is” for “to any property is made during the life of the transferor but is”.
 

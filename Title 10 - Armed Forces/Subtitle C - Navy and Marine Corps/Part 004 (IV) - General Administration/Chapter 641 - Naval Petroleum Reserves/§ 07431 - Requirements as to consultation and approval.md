@@ -1,6 +1,6 @@
 ### §7431. Requirements as to consultation and approval
 
-(a) The Committee on Armed Services of the Senate and the House of Representatives must be consulted and the President's approval must be obtained before any condemnation proceedings may be started under this chapter and before any of the following transactions authorized by this chapter may be effective:
+(a) The Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives must be consulted and the President's approval must be obtained before any condemnation proceedings may be started under this chapter and before any of the following transactions authorized by this chapter may be effective:
 
 &emsp;(1) A lease of any part of the naval petroleum reserves.
 
@@ -12,11 +12,11 @@
 
 &emsp;(5) An agreement to exchange land, the right to royalty production, or the right to any money due the United States.
 
-(b)(1) During the period of production authorized by section 7422(c) of this title, the Secretary shall submit to the Committees on Armed Services of the Senate and the House of Representatives any new plans or substantial amendments to ongoing plans for the exploration, development, and production of the naval petroleum reserves.
+(b)(1) During the period of production authorized by section 7422(c) of this title, the Secretary shall submit to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives any new plans or substantial amendments to ongoing plans for the exploration, development, and production of the naval petroleum reserves.
 
 (2) All plans or substantial amendments submitted to the Congress pursuant to this section shall contain a report by the Attorney General of the United States with respect to the anticipated effects of such plans or amendments on competition. Such plans or amendments shall not be implemented until sixty days after such plans or amendments have been submitted to such committees.
 
-(c) During the period of production authorized by section 7422(c) of this title, the Secretary shall submit annual reports as of the first day of the fiscal year to the Committees on Armed Services of the Senate and the House of Representatives, and such committees shall cause such reports to be printed as a Senate or House document, as appropriate. The Secretary shall include in such reports, with respect to each naval petroleum reserve, an explanation in detail of the following:
+(c) During the period of production authorized by section 7422(c) of this title, the Secretary shall submit annual reports as of the first day ofthe fiscal year to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives, and such committees shall cause such reports to be printed as a Senate or House document, as appropriate. The Secretary shall include in such reports, with respect to each naval petroleum reserve, an explanation in detail of the following:
 
 &emsp;(1) The status of the exploration, development, and production programs.
 
@@ -24,11 +24,11 @@
 
 &emsp;(3) The status of pipeline construction and procurement and problems related to the availability of transportation facilities.
 
-&emsp;(4) A summary of future plans for exploration, development, production, disposal, andtransportation of the production from the naval petroleum reserves.
+&emsp;(4) A summary of future plans for exploration, development, production, disposal, and transportation of the production from the naval petroleum reserves.
 
 &emsp;(5) Such other information regarding the reserve as the Secretary deems appropriate.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 460; Oct. 11, 1962, Pub. L. 87–796, §1(7), 76 Stat. 905; Apr. 5, 1976, Pub. L. 94–258, title II, §201(12), 90 Stat. 311; Oct. 19, 1984, Pub. L. 98–525, title XIV, §1405(52), 98 Stat. 2625; Nov. 8, 1985, Pub. L. 99–145, title XIII, §1303(a)(25), 99 Stat. 740.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 460; Oct. 11, 1962, Pub. L. 87–796, §1(7), 76 Stat. 905; Apr. 5, 1976, Pub. L. 94–258, title II, §201(12), 90 Stat. 311; Oct. 19, 1984, Pub. L. 98–525, title XIV, §1405(52), 98 Stat. 2625; Nov. 8, 1985, Pub. L. 99–145, title XIII, §1303(a)(25), 99 Stat. 740; Feb. 10, 1996, Pub. L. 104–106, div. A, title XV, §1502(a)(2), 110 Stat. 502.)
 
 Historical and Revision Notes
 
@@ -46,6 +46,8 @@ June 4, 1920, ch. 228 (4th par., 1st proviso, of amended 3d and 4th provisos), 4
 
 #### Amendments
 
+1996—Subsecs. (a), (b)(1), (c). Pub. L. 104–106 substituted “Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives” for “Committees on Armed Services of the Senate and the House of Representatives”.
+
 1985—Subsec. (c). Pub. L. 99–145 in pars. (1) to (3) substituted “The” for “the” at beginning and periods for the semicolons at end, in par. (4) substituted “A summary” for “a summary” and a period for “; and”, and in par. (5) substituted “Such” for “such”.
 
 1984—Subsecs. (b)(1), (c). Pub. L. 98–525 inserted “of this title” after “section 7422(c)”.
@@ -54,13 +56,9 @@ June 4, 1920, ch. 228 (4th par., 1st proviso, of amended 3d and 4th provisos), 4
 
 1962—Pub. L. 87–796 included oil shale reserves in cls. (1) and (2), inserted provisions in cl. (2) excepting consultation and Presidential approval in connection with issuance of permits, licenses, easements, grazing and agricultural leases, rights-of-way, and similar contracts pertaining to use of surface area of naval petroleum and oil shale reserves, and included oil shale, and products therefrom produced from any part of oil shale reserves.
 
-#### Change of Name
-
-Committee on Armed Services of House of Representatives treated as referring to Committee on National Security of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
-
 #### Contract for Studies of Potential Transfer Out of Federal Control of Facilities and Functions at Elk Hills and Teapot Dome; Restrictions
 
-Pub. L. 101–45, title I, §501, June 30, 1989, 103 Stat. 103, provided that: “No funds appropriated or made available heretofore or hereafter under this or any other Act may be used by the executive branch to contract with organizations outside the Department of Energy to perform studies of the potential transfer out of Federal ownership, management or control by sale, lease, or other disposition, in whole or in part, the facilities and functions of Naval Petroleum Reserve Numbered 1 (Elk Hills), located in Kern County, California, established by Executive order of the President, dated September 2, 1912, and Naval Petroleum Reserve Numbered 3 (Teapot Dome), located in Wyoming, established by Executive order of the President, dated April 30, 1915: <i>Provided</i>, That the negotiation of changes to the unit plan contract with Chevron which governs operation of Elk Hills, where the purpose of the changes is to prepare for the divestiture of the Reserve, is prohibited.”
+Pub. L. 101–45, title I, §501, June 30, 1989, 103 Stat. 103, provided that no funds appropriated or made available under Pub. L. 101–45 or any other Act were to be used by the executive branch to contract with organizations outside Department of Energy to perform studies of potential transfer out of Federal ownership, management or control by sale, lease, or other disposition, in whole or in part, of facilities and functions of Naval Petroleum Reserve Numbered 1 (Elk Hills) and Naval Petroleum Reserve Numbered 3 (Teapot Dome), and prohibited negotiation of changes to unit plan contract with Chevron which governed operation of Elk Hills, where purpose of changes was to prepare for divestiture of the Reserve, prior to repeal by Pub. L. 104–134, title I, §101(c) \[title II\], Apr. 26, 1996, 110 Stat. 1321–156, 1321–187; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.
 
 #### Section Referred to in Other Sections
 

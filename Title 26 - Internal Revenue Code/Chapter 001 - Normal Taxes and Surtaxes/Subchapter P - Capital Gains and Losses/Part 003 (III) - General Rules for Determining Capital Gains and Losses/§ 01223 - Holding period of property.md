@@ -8,7 +8,7 @@ For purposes of this subtitle—
 
 &emsp;&emsp;(B) a distribution to which section 355 (or so much of section 356 as relates to section 355) applies shall be treated as an exchange.
 
-&emsp;(2) In determining the period for which the taxpayer has held property however acquired there shall be included the period for whichsuch property was held by any other person, if under this chapter such property has, for the purpose of determining gain or loss from a sale or exchange, the same basis in whole or in part in his hands as it would have in the hands of such other person.
+&emsp;(2) In determining the period for which the taxpayer has held property however acquired there shall be included the period for which such property was held by any other person, if under this chapter such property has, for the purpose of determining gain or loss from a sale or exchange, the same basis in whole or in part in his hands as it would have in the hands of such other person.
 
 &emsp;(3) In determining the period for which the taxpayer has held stock or securities received upon a distribution where no gain was recognized to the distributee under section 1081(c) (or under section 112(g) of the Revenue Act of 1928, 45 Stat. 818, or the Revenue Act of 1932, 48 Stat. 705), there shall be included the period for which he held the stock or securities in the distributing corporation before the receipt of the stock or securities on such distribution.
 

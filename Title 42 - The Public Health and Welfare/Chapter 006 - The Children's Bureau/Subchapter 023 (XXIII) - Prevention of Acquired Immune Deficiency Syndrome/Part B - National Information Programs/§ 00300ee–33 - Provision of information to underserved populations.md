@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary may make grants to public entities, to migrant health centers (as defined in section 254b(a) of this title), to community health centers (as defined in section 254c(a) of this title), and to nonprofit private entities concerned with acquired immune deficiency syndrome, for the purpose of assisting grantees in providing services to populations of individuals that are underserved with respect to programs providing information on the prevention of exposure to, and the transmission of, the etiologic agent for acquired immune deficiency syndrome.
+The Secretary may make grants to public entities, to migrant health centers (as defined in section 254b(a) <sup>1</sup> of this title), to community health centers (as defined in section 254c(a) <sup>1</sup> of this title), and to nonprofit private entities concerned with acquired immune deficiency syndrome, for the purpose of assisting grantees in providing services to populations of individuals that are underserved with respect to programs providing information on the prevention of exposure to, and the transmission of, the etiologic agent for acquired immune deficiency syndrome.
 
 #### (b) Preferences in making grants
 
@@ -10,7 +10,17 @@ In making grants under subsection (a) of this section, the Secretary shall give 
 
 (July 1, 1944, ch. 373, title XXV, formerly title XV, §2523, as added Nov. 4, 1988, Pub. L. 100–607, title II, §221, 102 Stat. 3103; renumbered title XXV, Aug. 16, 1989, Pub. L. 101–93, §5(e)(1), 103 Stat. 612.)
 
+#### References in Text
+
+Sections 254b and 254c of this title, referred to in subsec. (a), were in the original references to sections 329 and 330, meaning sections 329 and 330 of act July 1, 1944, which were omitted in the general amendment of subpart I (§254b et seq.) of part D of subchapter II of this chapter by Pub. L. 104–299, §2, Oct. 11, 1996, 110 Stat. 3626. Sections 2 and 3(a) of Pub. L. 104–299 enacted new sections 330 and 330A of act July 1, 1944, which are classified, respectively, to sections 254b and 254c of this title.
+
+#### Reference to Community, Migrant, Public Housing, or Homeless Health Center Considered Reference to Health Center
+
+Reference to community health center, migrant health center, public housing health center, or homeless health center considered reference to health center, see section 4(c) of Pub. L. 104–299, set out as a note under section 254b of this title.
+
 #### Section Referred to in Other Sections
 
 This section is referred to in section 300ee–34 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

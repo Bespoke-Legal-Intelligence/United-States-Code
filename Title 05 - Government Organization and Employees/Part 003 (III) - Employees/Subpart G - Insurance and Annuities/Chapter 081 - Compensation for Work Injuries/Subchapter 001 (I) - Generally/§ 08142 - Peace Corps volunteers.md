@@ -40,7 +40,9 @@ Act
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 22 U.S.C. 2504(d).
 
@@ -62,7 +64,7 @@ Section 8142 of title 5 was derived from section 2504(d) of title 22. This amend
 
 #### Amendments
 
-<b>1974</b>—Subsec. (c)(2). Pub. L. 93–416 inserted provision relating to a volunteer with one or more minor children.
+1974—Subsec. (c)(2). Pub. L. 93–416 inserted provision relating to a volunteer with one or more minor children.
 
 #### Effective Date of 1974 Amendment
 

@@ -34,10 +34,7 @@
 | [832\.](Subchapter%20003%20%28III%29%20-%20Personnel%20Security%20Procedures%20in%20National%20Security%20Agency/%C2%A7%2000832%20-%20Full%20field%20investigation%20and%20appraisal.md) | Full field investigation and appraisal. |
 | (a) | Conditional employment; other current security clearance; circumstances authorizing employment on temporary basis. |
 | (b) | Boards of appraisal; establishment; membership; appointment; appraisal in doubtful cases; report and recommendation; qualifications of members; Secretary's clearance contrary to board's recommendation. |
-| [833\.](Subchapter%20003%20%28III%29%20-%20Personnel%20Security%20Procedures%20in%20National%20Security%20Agency/%C2%A7%2000833%20-%20Termination%20of%20employment.md) | Termination of employment. |
-| (a) | Generally; finality. |
-| (b) | Employment in other departments or agencies. |
-| (c) | Delegation of authority; limitation. |
+| [833\.](Subchapter%20003%20%28III%29%20-%20Personnel%20Security%20Procedures%20in%20National%20Security%20Agency/%C2%A7%2000833%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93201%2C%20div.%20A%2C%20title%20XVI%2C%20%C2%A71633%28b%29%282%29%2C%20Sept.%2023%2C%201996%2C%20110%20Stat.%202751.md) | Repealed. |
 | [834\.](Subchapter%20003%20%28III%29%20-%20Personnel%20Security%20Procedures%20in%20National%20Security%20Agency/%C2%A7%2000834%20-%20%E2%80%9CClassified%20information%E2%80%9D%20defined.md) | “Classified information” defined. |
 | [835\.](Subchapter%20003%20%28III%29%20-%20Personnel%20Security%20Procedures%20in%20National%20Security%20Agency/%C2%A7%2000835%20-%20Nonapplicability%20of%20administrative%20procedure%20provisions.md) | Nonapplicability of administrative procedure provisions. |
 
@@ -83,6 +80,7 @@ This chapter is referred to in sections 842, 843 of this title; title 26 section
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
 - [Subchapter 001 (I) - Control of Subversive Activities](Subchapter%20001%20%28I%29%20-%20Control%20of%20Subversive%20Activities/README.md)
+- [Subchapter 002 (II) - Emergency Detention of Suspected Security Risks](Subchapter%20002%20%28II%29%20-%20Emergency%20Detention%20of%20Suspected%20Security%20Risks/README.md)
 - [Subchapter 003 (III) - Personnel Security Procedures in National Security Agency](Subchapter%20003%20%28III%29%20-%20Personnel%20Security%20Procedures%20in%20National%20Security%20Agency/README.md)
 - [Subchapter 004 (IV) - Communist Control](Subchapter%20004%20%28IV%29%20-%20Communist%20Control/README.md)
 - [Subchapter 005 (V) - Registration of Certain Persons Trained in Foreign Espionage Systems](Subchapter%20005%20%28V%29%20-%20Registration%20of%20Certain%20Persons%20Trained%20in%20Foreign%20Espionage%20Systems/README.md)

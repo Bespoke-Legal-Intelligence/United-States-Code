@@ -4,7 +4,7 @@
 
 &emsp;(1) the fundamental research and related education program supported by the Federal Government and conducted by the Nation's universities and colleges are essential to our national security, and to our health, economic welfare, and general well-being;
 
-&emsp;(2) many national research and related education programs conducted by universities and colleges are now hindered by obsolete research buildings and equipment, and many institutions lack sufficient resources to repair, renovate, or replace their laboratories;
+&emsp;(2) many national research and related education programs conducted by universities andcolleges are now hindered by obsolete research buildings and equipment, and many institutions lack sufficient resources to repair, renovate, or replace their laboratories;
 
 &emsp;(3) the Nation's capacity to conduct high quality research and education programs and to maintain its competitive position at the forefront of modern science, engineering, and technology is threatened by this research capital deficit, which poses serious and adverse consequences to our future national security, health, welfare, and ability to compete in the international marketplace;
 

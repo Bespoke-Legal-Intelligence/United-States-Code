@@ -48,7 +48,7 @@ Part B of subchapter XI of this chapter, referred to in subsec. (b)(1)(D), is cl
 
 #### Amendments
 
-1994—Subsec. (b)(1). Pub. L. 103–296 inserted “, except that, in so applying such sections and in applying section 405(<i>l</i>) of this title thereto, any reference therein to the Commissioner of Social Security or the Social Security Administration shall be considered a referenceto the Secretary or the Department of Health and Human Services, respectively” after “section 405(g) of this title” in closing provisions.
+1994—Subsec. (b)(1). Pub. L. 103–296 inserted “, except that, in so applying such sections and in applying section 405(<i>l</i>) of this title thereto, any reference therein to the Commissioner of Social Security or the Social Security Administration shall be considered a reference to the Secretary or the Department of Health and Human Services, respectively” after “section 405(g) of this title” in closing provisions.
 
 1987—Subsec. (a). Pub. L. 100–203, §4085(i)(18), inserted “or a claim for benefits with respect to home health services under part B of this subchapter” before “shall”.
 

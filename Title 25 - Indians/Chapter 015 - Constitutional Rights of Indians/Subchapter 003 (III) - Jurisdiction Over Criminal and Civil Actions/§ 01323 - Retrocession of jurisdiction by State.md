@@ -14,7 +14,7 @@ Section 7 of the Act of August 15, 1953 (67 Stat. 588), is hereby repealed, but 
 
 Section 7 of the Act of August 15, 1953, referred to in text, is section 7 of act Aug. 15, 1953, ch. 505, 67 Stat. 588, which is set out as a note under section 1360 of Title 28, Judiciary and Judicial Procedure.
 
-#### Ex. Ord. No. 11435. Designating Secretary of Interior To Accept Retrocession of Jurisdiction by State
+#### Ex. Ord. No. 11435. Designating Secretary of the Interior To Accept Retrocession of Jurisdiction by State
 
 Ex. Ord. No. 11435, Nov. 21, 1968, 33 F.R. 17339, provided:
 

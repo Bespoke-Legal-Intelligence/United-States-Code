@@ -5,7 +5,7 @@
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 00451 - Limit on cost of buildings erected in national parks](%C2%A7%2000451%20-%20Limit%20on%20cost%20of%20buildings%20erected%20in%20national%20parks.md)
+- [&sect; 00451 - Repealed. Pub. L. 104&#8211;333, div. I, title VIII, &sect;801, Nov. 12, 1996, 110 Stat. 4186](%C2%A7%2000451%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93333%2C%20div.%20I%2C%20title%20VIII%2C%20%C2%A7801%2C%20Nov.%2012%2C%201996%2C%20110%20Stat.%204186.md)
 - [&sect; 00451a - Limitation on further extension or establishment of national parks in Wyoming](%C2%A7%2000451a%20-%20Limitation%20on%20further%20extension%20or%20establishment%20of%20national%20parks%20in%20Wyoming.md)
 - [&sect; 00452 - Revenues of national parks covered into Treasury; estimates for care of parks](%C2%A7%2000452%20-%20Revenues%20of%20national%20parks%20covered%20into%20Treasury%3B%20estimates%20for%20care%20of%20parks.md)
 - [&sect; 00452a - Acquisition of non-Federal land within existing boundaries of any National Park; donations; authorization of appropriations](%C2%A7%2000452a%20-%20Acquisition%20of%20non-Federal%20land%20within%20existing%20boundaries%20of%20any%20National%20Park%3B%20donations%3B%20authorization%20of%20appropriations.md)

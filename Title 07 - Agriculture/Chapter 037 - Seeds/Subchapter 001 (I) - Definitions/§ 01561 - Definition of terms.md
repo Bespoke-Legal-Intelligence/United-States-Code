@@ -98,7 +98,7 @@ Subsec. (a)(17). Pub. L. 97–439, §5(a)(2), redesignated par. (18) as (17). Fo
 
 Subsec. (a)(18) to (25). Pub. L. 97–439, §5(a)(2), redesignated pars. (18) through (25) as (17) through (24), respectively.
 
-1969—Subsec. (a)(25). Pub. L. 91–89 inserted provision authorizing Secretary (after due notice, hearing, and full consideration of the views of interested parties) toapprove of the standards and procedures of seed certifying agencies authorized under the laws of a State, Territory, or possession.
+1969—Subsec. (a)(25). Pub. L. 91–89 inserted provision authorizing Secretary (after due notice, hearing, and full consideration of the views of interested parties) to approve of the standards and procedures of seed certifying agencies authorized under the laws of a State, Territory, or possession.
 
 1966—Subsec. (a)(1). Pub. L. 89–686, §1, struck out references to “Alaska,” and “Hawaii,” before and after “District of Columbia,”.
 
@@ -132,7 +132,7 @@ See section 1610 of this title.
 
 #### Admission of Alaska and Hawaii to Statehood
 
-Alaska was admitted into the Union on Jan. 3, 1959, on issuance of Proc. No. 3269, Jan. 3, 1959, 24 F.R. 81, 73 Stat.
+Alaska was admitted into the Union on Jan. 3, 1959, on issuance of Proc. No. 3269, Jan. 3, 1959, 24 F.R. 81, 73Stat.
 
 c16, and Hawaii was admitted into the Union on Aug. 21, 1959, on issuance of Proc. No. 3309, Aug. 21, 1959, 24 F.R. 6868, 73 Stat.
 

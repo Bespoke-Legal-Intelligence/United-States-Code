@@ -2,9 +2,9 @@
 
 (a) For the purpose of determining whether an enlisted member of the Army may be retired under section 3914 or 3917 of this title, his years of service are computed by adding all active service in the armed forces and service computed under section 3683 <sup>1</sup> of this title.
 
-(b) Time required to be made up under section 972 of this title may not be counted in determining years of service under subsection (a).
+(b) Time required to be made up under section 972(a) of this title may not be counted in determining years of service under subsection (a).
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 228; Sept. 2, 1958, Pub. L. 85–861, §1(97), 72 Stat. 1488; Sept. 8, 1980, Pub. L. 96–343, §9(a)(2), 94 Stat. 1128; July 1, 1986, Pub. L. 99–348, title II, §202(c), 100 Stat. 695; Oct. 5, 1994, Pub. L. 103–337, div. A, title VI, §635(a)(1), 108 Stat. 2788.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 228; Sept. 2, 1958, Pub. L. 85–861, §1(97), 72 Stat. 1488; Sept. 8, 1980, Pub. L. 96–343, §9(a)(2), 94 Stat. 1128; July 1, 1986, Pub. L. 99–348, title II, §202(c), 100 Stat. 695; Oct. 5, 1994, Pub. L. 103–337, div. A, title VI, §635(a)(1), 108 Stat. 2788; Feb. 10, 1996, Pub. L. 104–106, div. A, title V, §561(d)(2)(A), 110 Stat. 322.)
 
 Historical and Revision Notes<br>1956
 
@@ -18,15 +18,15 @@ Act
 
 3925(a)
 
-3925(b)
-
 10:947 (proviso).
 
 10:958.
 
-\[No source\].
-
 Mar. 2, 1907, ch. 2515, §1 (proviso), 34 Stat. 1218.
+
+3925(b)
+
+\[No source\].
 
 Aug. 10, 1946, ch. 952, §6(b), 60 Stat. 996.
 
@@ -58,9 +58,11 @@ Section 3683 of this title, referred to in subsec. (a), was repealed (subject to
 
 #### Amendments
 
+1996—Subsec. (b). Pub. L. 104–106 substituted “section 972(a)” for “section 972”.
+
 1994—Subsec. (a). Pub. L. 103–337, §635(a)(1)(A), struck out “and of computing his retired pay under section 3991 of this title,” after “3917 of this title,”.
 
-Subsec. (c). Pub. L. 103–337, §635(a)(1)(B), struck out subsec. (c) which read as follows: “In determining amember's years of service under subsection (a) for the purpose of computing the member's retired pay under section 3991 of this title—
+Subsec. (c). Pub. L. 103–337, §635(a)(1)(B), struck out subsec. (c) which read as follows: “In determining a member's years of service under subsection (a) for the purpose of computing the member's retired pay under section 3991 of this title—
 
 &emsp;“(1) each full month of service that is in addition to the number of full years of service creditable to the member shall be credited as 1/12 of a year; and
 
@@ -73,6 +75,10 @@ Subsec. (c). Pub. L. 103–337, §635(a)(1)(B), struck out subsec. (c) which rea
 Subsec. (a). Pub. L. 96–343, §9(a)(2)(B), substituted “an enlisted” for “a regular enlisted”.
 
 1958—Subsec. (b). Pub. L. 85–861 substituted “section 972 of this title” for “section 3638 of this title”.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–106 effective Feb. 10, 1996, and applicable to any period of time covered by section 972 of this title that occurs after that date, see section 561(e) of Pub. L. 104–106, set out as a note under section 972 of this title.
 
 #### Effective Date of 1994 Amendment
 

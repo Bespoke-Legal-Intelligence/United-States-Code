@@ -1,4 +1,4 @@
-### §894 . Collection of extensions of credit by extortionate means
+### §894. Collection of extensions of credit by extortionate means
 
 (a) Whoever knowingly participates in any way, or conspires to do so, in the use of any extortionate means
 

@@ -27,7 +27,7 @@
 | (i) | Books and records of processors. |
 | (j) | Prohibition on use of funds to influence governmental action. |
 | (k) | Coordination. |
-| (<i>l)</i> | Exemptions. |
+| (<i>l</i>) | Exemptions. |
 | (m) | Report. |
 | (n) | Other terms and conditions. |
 | [6408\.](%C2%A7%2006408%20-%20Permissive%20terms.md) | Permissive terms. |
@@ -81,6 +81,10 @@
 | (b) | Administrative expenses. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Chapter Referred to in Other Sections
+
+This chapter is referred to in section 7401 of this title.
 
 
 ---

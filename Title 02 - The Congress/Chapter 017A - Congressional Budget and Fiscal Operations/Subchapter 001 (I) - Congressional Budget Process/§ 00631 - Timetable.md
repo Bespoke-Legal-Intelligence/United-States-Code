@@ -6,7 +6,7 @@ The timetable with respect to the congressional budget process for any fiscal ye
 
 | &nbsp; | &nbsp; |
 | :--- | ---: |
-| <b>On or before:</b> | <b> Action to be completed:</b> |
+| <b>On or before:</b> | <b>Action to be completed:</b> |
 | First Monday in February | President submits his budget. |
 | February 15 | Congressional Budget Office submits report to Budget Committees. |
 | February 25 | Committees submit views and estimates to Budget Committees. |
@@ -28,11 +28,11 @@ Section was formerly classified to section 1321 of Title 31 prior to the general
 
 1990—Pub. L. 101–508 substituted “First Monday in February” for “First Monday after January 3”.
 
-1985—Pub. L. 99–177 amended section generally. Prior to the amendment the timetable was on or before: November 10—President submits current services budget; 15th day after Congress meets—President submits hisbudget; March 15—Committees and joint committees submit reports to Budget Committees; April 1—Congressional Budget Office submits reports to Budget Committees; April 15—Budget Committees report first concurrent resolution on the budget to their Houses; May 15—Committees report bills and resolutions authorizing new budget authority; May 15—Congress completes action on first concurrent resolution on the budget; 7th day after Labor Day—Congress completes action on bills and resolutions providing new budget authority and new spending authority; September 15—Congress completes action on second required concurrent resolution on the budget; September 25—Congress completes action on reconciliation bill or resolution, or both, implementing second required concurrent resolution; October 1—Fiscal year begins.
+1985—Pub. L. 99–177 amended section generally. Prior to the amendment the timetable was on or before: November 10—President submits current services budget; 15th day after Congress meets—President submits his budget; March 15—Committees and joint committees submit reports to Budget Committees; April 1—Congressional Budget Office submits reports to Budget Committees; April 15—Budget Committees report first concurrent resolution on the budget to their Houses; May 15—Committees report bills and resolutions authorizing new budget authority; May 15—Congress completes action on first concurrent resolution on the budget; 7th day after Labor Day—Congress completes action on bills and resolutions providing new budget authority and new spending authority; September 15—Congress completes action on second required concurrent resolution on the budget; September 25—Congress completes action on reconciliation bill or resolution, or both, implementing second required concurrent resolution; October 1—Fiscal year begins.
 
 #### Effective Date of 1985 Amendment
 
-Amendment by Pub. L. 99–177 effective Dec. 12, 1985, and applicable with respect to fiscal years beginning after Sept. 30, 1985, see section 275(a)(1) of Pub. L. 99–177, set out as an Effective and Termination Dates note under section 900 of this title.
+Amendment by Pub. L. 99–177 effective Dec. 12, 1985, and applicable with respect to fiscal years beginningafter Sept. 30, 1985, see section 275(a)(1) of Pub. L. 99–177, set out as an Effective and Termination Dates note under section 900 of this title.
 
 #### Effective Date
 

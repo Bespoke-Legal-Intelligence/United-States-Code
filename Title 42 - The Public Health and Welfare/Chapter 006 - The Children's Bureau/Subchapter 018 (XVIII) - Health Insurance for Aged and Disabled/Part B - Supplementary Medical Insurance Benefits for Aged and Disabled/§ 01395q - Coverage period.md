@@ -10,7 +10,7 @@ The period during which an individual is entitled to benefits under the insuranc
 
 &emsp;(B) in the case of an individual who enrolls pursuant to such subsection (d) in the month in which he first satisfies such paragraph, the first day of the month following the month in which he so enrolls, or
 
-&emsp;(C) in the case of an individual who enrolls pursuant to such subsection (d) in the month following the month in which he first satisfies such paragraph, the first day of the second month following the month in which he so enrolls, or
+&emsp;(C) in the case of an individual who enrolls pursuant to such subsection (d) in the monthfollowing the month in which he first satisfies such paragraph, the first day of the second month following the month in which he so enrolls, or
 
 &emsp;(D) in the case of an individual who enrolls pursuant to such subsection (d) more than one month following the month in which he satisfies such paragraph, the first day of the third month following the month in which he so enrolls, or
 
@@ -64,7 +64,7 @@ Part A of this subchapter, referred to in subsec. (c), is classified to section 
 
 1986—Subsec. (b). Pub. L. 99–509 substituted “month following the month” for “calendar quarter following the calendar quarter” in second and sixth sentences.
 
-Subsec. (e). Pub. L. 99–272 amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “Notwithstanding subsection (a) of this section, in the case of an individual who enrolls during a special enrollment period pursuant to—
+Subsec. (e). Pub. L. 99–272 amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “Notwithstanding subsection (a) of this section, in thecase of an individual who enrolls during a special enrollment period pursuant to—
 
 &emsp;“(1) subparagraph (A) of section 1395p(i)(3) of this title—
 
@@ -150,7 +150,7 @@ Extension of the general enrollment period under section 1395p(e) of this title 
 
 #### Coverage Period for Individuals Becoming Eligible in March 1966 Who Enroll in May 1966
 
-Pub. L. 89–384, §3(d), Apr. 8, 1966, 80 Stat. 105, provided that: “In the case of an individual who first satisfies paragraphs (1) and (2) of section 1836 of the Social Security Act \[section 1395<i>o</i> of this title\] in March, 1966, and who enrolls pursuant to subsection (d) of section 1837 of such Act \[section 1395p of this title\] in May 1966, his coverage period shall, notwithstanding section 1838(a)(2)(D) of such Act \[subsec. (a)(2)(D) of this section\], begin on July 1, 1966.”
+Pub. L. 89–384, §3(d), Apr. 8, 1966, 80 Stat. 105, provided that: “In the case of an individual who first satisfies paragraphs (1) and (2) of section 1836 of the Social Security Act \[section 1395<i>o</i> of this title\] in March, 1966, and who enrolls pursuant to subsection (d) of section 1837 ofsuch Act \[section 1395p of this title\] in May 1966, his coverage period shall, notwithstanding section 1838(a)(2)(D) of such Act \[subsec. (a)(2)(D) of this section\], begin on July 1, 1966.”
 
 #### Commencement of Coverage Period of Certain Enrollees
 

@@ -10,7 +10,7 @@
 
 &emsp;(2) was subject to local real property taxes within the 5-year period before the interest is acquired.
 
-(b) The Secretary shall make payments only for the 5 fiscal years after the fiscal year in which the interest in land is acquired. Under guidelines the Secretary prescribes, the unit of general local government receiving the payment from the Secretary shall distribute payments proportionally to units and school districts that lost real property taxes because of the acquisition of the interest. A unit receiving a distribution may use a payment for any governmental purpose.
+(b) The Secretary shall make payments only for the 5 fiscal years after the fiscal year in which the interest in land is acquired. Under guidelines the Secretary prescribes, the unit of general local government receiving the payment from the Secretary shall distribute paymentsproportionally to units and school districts that lost real property taxes because of the acquisition of the interest. A unit receiving a distribution may use a payment for any governmental purpose.
 
 (c) Each yearly payment by the Secretary under this section is equal to one percent of the fair market value of the interest in land on the date the Government acquires the interest. However, a payment may not be more than the amount of real property taxes levied on the property during the last fiscal year before the fiscal year in which the interest is acquired. A decision on fair market value under this section may not include an increase in the value of an interest because the land is rezoned when the rezoning causes the increase after the date of enactment of a law authorizing the acquisition of an interest under subsection (a) of this section.
 
@@ -60,5 +60,5 @@ In subsection (c), the words “The amount of . . . made . . . fiscal . . 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 6905 of this title; title 16 sections 79<i>o</i>, 460aaa–2; title 43 section 1457a.
+This section is referred to in section 6905 of this title; title 16 sections 79<i>o</i>, 460aaa–2, 698u–4; title 43 section 1457a.
 

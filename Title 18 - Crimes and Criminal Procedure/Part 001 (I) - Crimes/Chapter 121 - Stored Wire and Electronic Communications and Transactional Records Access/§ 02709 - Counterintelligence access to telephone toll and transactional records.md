@@ -8,7 +8,7 @@ Duty to Provide.—A wire or electronic communication service provider shall com
 
 Required Certification.—The Director of the Federal Bureau of Investigation, or his designee in a position not lower than Deputy Assistant Director, may—
 
-&emsp;(1) request the name, address, length of service, and toll billing records of a person or entity if the Director (or his designee in a position not lower than Deputy Assistant Director) certifies in writing to the wire or electronic communication service provider to which the request is made that—
+&emsp;(1) request the name, address, length of service, and local and long distance toll billing records of a person or entity if the Director (or his designee in a position not lower than Deputy Assistant Director) certifies in writing to the wire or electronic communication service provider to which the request is made that—
 
 &emsp;&emsp;(A) the name, address, length of service, and toll billing records sought are relevant to an authorized foreign counterintelligence investigation; and
 
@@ -36,9 +36,11 @@ Dissemination by Bureau.—The Federal Bureau of Investigation may disseminate i
 
 Requirement That Certain Congressional Bodies Be Informed.—On a semiannual basis the Director of the Federal Bureau of Investigation shall fully inform the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate, and the Committee on the Judiciary of the House of Representatives and the Committee on the Judiciary of the Senate, concerning all requests made under subsection (b) of this section.
 
-(Added Pub. L. 99–508, title II, §201\[(a)\], Oct. 21, 1986, 100 Stat. 1867; amended Pub. L. 103–142, Nov. 17, 1993, 107 Stat. 1491.)
+(Added Pub. L. 99–508, title II, §201\[(a)\], Oct. 21, 1986, 100 Stat. 1867; amended Pub. L. 103–142, Nov. 17, 1993, 107 Stat. 1491; Pub. L. 104–293, title VI, §601(a), Oct. 11, 1996, 110 Stat. 3469.)
 
 #### Amendments
+
+1996—Subsec. (b)(1). Pub. L. 104–293 inserted “local and long distance” before “toll billing records”.
 
 1993—Subsec. (b). Pub. L. 103–142, §1, amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “
 

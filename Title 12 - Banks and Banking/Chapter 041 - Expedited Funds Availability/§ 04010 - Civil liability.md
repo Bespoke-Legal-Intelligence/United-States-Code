@@ -42,11 +42,11 @@ In determining the amount of any award in any class action, the court shall cons
 
 #### (d) Jurisdiction
 
-Any action under this section may be brought in any United States district court, or in anyother court of competent jurisdiction, within one year after the date of the occurrence of the violation involved.
+Any action under this section may be brought in any United States district court, or in any other court of competent jurisdiction, within one year after the date of the occurrence of the violation involved.
 
 #### (e) Reliance on Board rulings
 
-No provision of this section imposing any liability shall apply to any act done or omitted in good faith in conformity with any rule, regulation, or interpretation thereof by the Board of Governors of the Federal Reserve System, notwithstanding the fact that after such act or omission has occurred, such rule, regulation, or interpretation is amended, rescinded, or determined by judicial or other authority to be invalid for any reason.
+No provision of this section imposing any liability shall apply to any act done or omitted ingood faith in conformity with any rule, regulation, or interpretation thereof by the Board of Governors of the Federal Reserve System, notwithstanding the fact that after such act or omission has occurred, such rule, regulation, or interpretation is amended, rescinded, or determined by judicial or other authority to be invalid for any reason.
 
 #### (f) Authority to establish rules regarding losses and liability among depository institutions
 

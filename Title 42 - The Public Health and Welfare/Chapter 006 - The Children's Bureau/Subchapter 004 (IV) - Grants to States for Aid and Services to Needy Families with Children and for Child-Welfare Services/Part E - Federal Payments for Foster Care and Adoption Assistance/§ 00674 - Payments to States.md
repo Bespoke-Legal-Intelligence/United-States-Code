@@ -44,7 +44,7 @@ For each quarter beginning after September 30, 1980, each State which has a plan
 
 (2) The Secretary shall then pay to the State, in such installments as he may determine, the amounts so estimated, reduced or increased to the extent of any overpayment or underpayment which the Secretary determines was made under this section to such State for any prior quarter and with respect to which adjustment has not already been made under this subsection.
 
-(3) The pro rata share to which the United States is equitably entitled, as determined by the Secretary, of the net amount recovered during any quarter by the State or any political subdivision thereof with respect to foster care and adoption assistance furnished under theState plan shall be considered an overpayment to be adjusted under this subsection.
+(3) The pro rata share to which the United States is equitably entitled, as determined by the Secretary, of the net amount recovered during any quarter by the State or any political subdivision thereof with respect to foster care and adoption assistance furnished under the State plan shall be considered an overpayment to be adjusted under this subsection.
 
 (4)(A) Within 60 days after receipt of a State claim for expenditures pursuant to subsection (a) of this section, the Secretary shall allow, disallow, or defer such claim.
 
@@ -64,11 +64,31 @@ For each quarter beginning after September 30, 1980, each State which has a plan
 
 The Secretary shall treat as necessary for the proper and efficient administration of the State plan all expenditures of a State necessary in order for the State to plan, design, develop, install, and operate data collection and information retrieval systems described in subsection (a)(3)(C) of this section, without regard to whether the systems may be used with respect to foster or adoptive children other than those on behalf of whom foster care maintenance payments or adoption assistance payments may be made under this part.
 
-(Aug. 14, 1935, ch. 531, title IV, §474, as added June 17, 1980, Pub. L. 96–272, title I, §101(a)(1), 94 Stat. 506; amended Dec. 28, 1980, Pub. L. 96–611, §3, 94 Stat. 3567; July 18, 1984, Pub. L. 98–369, div. B, title VI, §2663(c)(18), 98 Stat. 1167; Nov. 8, 1984, Pub. L. 98–617, §4(a), (b), 98 Stat. 3296, 3297; Apr. 7, 1986, Pub. L. 99–272, title XII, §§12306(a), (b), 12307(c), 100 Stat. 294, 296; Oct. 22, 1986, Pub. L. 99–514, title XVIII, §1883(b)(9), 100 Stat. 2917; Dec. 22, 1987, Pub. L. 100–203, title IX, §9132(a), 101 Stat. 1330–313; Dec. 19, 1989, Pub. L. 101–239, title VIII, §§8001(a), 8002(c), 8006(a), title X, §§10401(a), 10402(a), 10403(c)(1), 103 Stat. 2452, 2453, 2461, 2487, 2488; Nov. 5, 1990, Pub. L. 101–508, title V, §5071(a), 104 Stat. 1388–233; Aug. 10, 1993, Pub. L. 103–66, title XIII, §13713(a)(1), (2), (b)(1), 107 Stat. 656, 657; Oct. 31, 1994, Pub. L. 103–432, title II, §§207(a), (b), 210(a), 108 Stat. 4457, 4460.)
+#### (d) Reduction for violation of plan requirement
+
+(1) If, during any quarter of a fiscal year, a State's program operated under this part is found, as a result of a review conducted under section 1320a–2a of this title, or otherwise, to have violated section 671(a)(18) <sup>2</sup> of this title with respect to a person or to have failed to implement a corrective action plan within a period of time not to exceed 6 months with respect to such violation, then, notwithstanding subsection (a) of this section and any regulations promulgated under section 1320a–2a(b)(3) of this title, the Secretary shall reduce the amount otherwise payable to the State under this part, for that fiscal year quarter and for any subsequent quarter of such fiscal year, until the State program is found, as a result of a subsequent review under section 1320a–2a of this title, to have implemented a corrective action plan with respect to such violation, by—
+
+&emsp;(A) 2 percent of such otherwise payable amount, in the case of the 1st such finding for the fiscal year with respect to the State;
+
+&emsp;(B) 3 percent of such otherwise payable amount, in the case of the 2nd such finding for the fiscal year with respect to the State; or
+
+&emsp;(C) 5 percent of such otherwise payable amount, in the case of the 3rd or subsequent such finding for the fiscal year with respect to the State.
+
+> In imposing the penalties described in this paragraph, the Secretary shall not reduce any fiscal year payment to a State by more than 5 percent.
+
+(2) Any other entity which is in a State that receives funds under this part and which violates section 671(a)(18) <sup>2</sup> of this title during a fiscal year quarter with respect to any person shall remit to the Secretary all funds that were paid by the State to the entity during the quarter from such funds.
+
+(3)(A) Any individual who is aggrieved by a violation of section 671(a)(18) <sup>2</sup> of this title by a State or other entity may bring an action seeking relief from the State or other entity in any United States district court.
+
+(B) An action under this paragraph may not be brought more than 2 years after the date the alleged violation occurred.
+
+(4) This subsection shall not be construed to affect the application of the Indian Child Welfare Act of 1978 \[25 U.S.C. 1901 et seq.\].
+
+(Aug. 14, 1935, ch. 531, title IV, §474, as added June 17, 1980, Pub. L. 96–272, title I, §101(a)(1), 94 Stat. 506; amended Dec. 28, 1980, Pub. L. 96–611, §3, 94 Stat. 3567; July 18, 1984, Pub. L. 98–369, div. B, title VI, §2663(c)(18), 98 Stat. 1167; Nov. 8, 1984, Pub. L. 98–617, §4(a), (b), 98 Stat. 3296, 3297; Apr. 7, 1986, Pub. L. 99–272, title XII, §§12306(a), (b), 12307(c), 100 Stat. 294, 296; Oct. 22, 1986, Pub. L. 99–514, title XVIII, §1883(b)(9), 100 Stat. 2917; Dec. 22, 1987, Pub. L. 100–203, title IX, §9132(a), 101 Stat. 1330–313; Dec. 19, 1989, Pub. L. 101–239, title VIII, §§8001(a), 8002(c), 8006(a), title X, §§10401(a), 10402(a), 10403(c)(1), 103 Stat. 2452, 2453, 2461, 2487, 2488; Nov. 5, 1990, Pub. L. 101–508, title V, §5071(a), 104 Stat. 1388–233; Aug. 10, 1993, Pub. L. 103–66, title XIII, §13713(a)(1), (2), (b)(1), 107 Stat. 656, 657; Oct. 31, 1994, Pub. L. 103–432, title II, §§207(a), (b), 210(a), 108 Stat. 4457, 4460; Aug. 20, 1996, Pub. L. 104–188, title I, §1808(b), 110 Stat. 1903.)
 
 #### Amendment of Subsection (a)(3)(C)
 
-<i>Pub. L. 103–66, title XIII, §13713(b), Aug. 10, 1993, 107 Stat. 657, provided that, applicable to expenditures during fiscal years beginning on or after Oct. 1, 1996, subsection (a)(3)(C) of this section is amended by substituting “50 percent” for “75 percent” wherever appearing.</i>
+<i>Pub. L. 103–66, title XIII, §13713(b), Aug. 10, 1993, 107 Stat. 657, as amended by Pub. L. 104–193, title V, §502, Aug. 22, 1996, 110 Stat. 2277, provided that, applicable to expenditures during fiscal years beginning on or after Oct. 1, 1997, subsection (a)(3)(C) of this section is amended by substituting “50 percent” for “75 percent” wherever appearing.</i>
 
 #### References in Text
 
@@ -76,7 +96,13 @@ Subsection (b) of this section, referred to in subsec. (a), was repealed by Pub.
 
 Parts A and B of this subchapter, referred to in subsec. (a)(3)(C)(iii), (iv), are classified to sections 601 et seq. and 620 et seq., respectively, of this title.
 
+Section 671(a)(18) of this title, referred to in subsec. (d)(1)(3), probably means the par. (18) of section 671(a) which relates to denial or delay of adoption or foster care and was added by Pub. L. 104–188, title I, §1808(a)(3), Aug. 20, 1996, 110 Stat. 1903.
+
+The Indian Child Welfare Act of 1978, referred to in subsec. (d)(4), is Pub. L. 95–608, Nov. 8, 1978, 92 Stat. 3069, as amended, which is classified principally to chapter 21 (§1901 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 1901 of Title 25 and Tables.
+
 #### Amendments
+
+1996—Subsec. (d). Pub. L. 104–188 added subsec. (d).
 
 1994—Subsec. (b). Pub. L. 103–432, §207(a), (b)(2), redesignated subsec. (d) as (b) and struck out former subsec. (b) which related to maximum aggregate sums payable to any State and State allotments for fiscal years 1981 to 1992.
 
@@ -174,7 +200,7 @@ Section 210(b) of Pub. L. 103–432 provided that: “The amendment made by subs
 
 Section 13713(a)(3) of Pub. L. 103–66 provided that: “The amendments made by this subsection \[amending this section\] shall take effect on October 1, 1993.”
 
-Section 13713(b)(2) of Pub. L. 103–66 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to expenditures during fiscal years beginning on or after October 1, 1996.”
+Section 13713(b)(2) of Pub. L. 103–66, as amended by Pub. L. 104–193, title V, §502, Aug. 22, 1996, 110 Stat. 2277, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to expenditures during fiscal years beginning on or after October 1, 1997.”
 
 #### Effective Date of 1990 Amendment
 
@@ -207,4 +233,6 @@ Amendment by Pub. L. 98–369 effective July 18, 1984, but not to be construed a
 This section is referred to in sections 673, 677 of this title; title 2 section 906.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

@@ -40,7 +40,7 @@ For purposes of this section—
 
 #### (2) Applicable exclusion
 
-&emsp;The term “applicable exclusion” means, with respect to any specified fringe benefit plan, the section specified under paragraph (1)under which benefits under such plan are excludable from gross income.
+&emsp;The term “applicable exclusion” means, with respect to any specified fringe benefit plan, the section specified under paragraph (1) under which benefits under such plan are excludable from gross income.
 
 #### (3) Special rule for multiemployer plans
 
@@ -80,7 +80,7 @@ Section 3021(a)(15)(B) of Pub. L. 100–647 provided that: “The amendments mad
 
 Amendment by section 1151(h) of Pub. L. 99–514 applicable to years beginning after Dec. 31, 1988, with certain qualifications and exceptions, see section 1151(k) of Pub. L. 99–514, as amended, set out as a note under section 79 of this title.
 
-Amendment by section 1879(d)(1) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
+Amendment by section 1879(d)(1) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L.98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
 #### Effective Date
 

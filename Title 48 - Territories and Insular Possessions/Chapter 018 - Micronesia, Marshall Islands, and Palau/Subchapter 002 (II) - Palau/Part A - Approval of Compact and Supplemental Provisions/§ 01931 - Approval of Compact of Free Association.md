@@ -82,6 +82,10 @@ Section was formerly set out as a note under section 1681 of this title.
 
 Committee on Interior and Insular Affairs of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 5, One Hundred Third Congress, Jan. 5, 1993. Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
+#### Regulations Regarding Habitual Residence
+
+Commissioner of Immigration and Naturalization to issue regulations, not later than 6 months after Sept. 30, 1996, governing rights of “habitual residence” in United States under terms of the Compact of Free Association between the Government of the United States and the Government of Palau, see section 643 of Pub. L. 104–208, set out as a note under section 1901 of this title.
+
 #### Termination of Trust Territory of the Pacific Islands
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of this title.
@@ -252,7 +256,7 @@ I74“preambleI74“the government of the united states of america and the gover
 
 #### “Section 152
 
-“(a) The premises of such representatives \[sic\] offices, and their archives wherever located, shall be inviolable. The property and assets of such representative offices shall be immune from search, requisition, attachment and any form of seizure unless such immunity is expressly waived. Official communications in transit shall be inviolable and accorded the freedomand protections accorded by recognized principles of intentional \[sic\] law to official communications of a diplomatic mission.
+“(a) The premises of such representatives \[sic\] offices, and their archives wherever located, shall be inviolable. The property and assets of such representative offices shall be immune from search, requisition, attachment and any form of seizure unless such immunity is expressly waived. Official communications in transit shall be inviolable and accorded the freedom and protections accorded by recognized principles of intentional \[sic\] law to official communications of a diplomatic mission.
 
 “(b) Persons designated by the sending Government may serve in the capacity of its resident representatives with the consent of the receiving Government. Such designated persons shall be immune from civil and criminal process relating to words spoken or written and all acts performed by them in their official capacity and falling within their functions as such representatives, except insofar as such immunity may be expressly waived by the sending Government. While serving in a resident representative capacity, such designated persons shall not be liable to arrest or detention pending trial, except in the case of a grave crime and pursuant to a decision by a competent judicial authority, and such persons shall enjoy immunity from seizure of personal property, immigration restrictions, and laws relating to alien registration, fingerprinting, and the registration of foreign agents.
 
@@ -272,7 +276,7 @@ I74“preambleI74“the government of the united states of america and the gover
 
 #### “Section 162
 
-“(a) The Government of the United States and the Government of Palau agree that with respect to the activities of the Government of the United States in Palau, and with respect to substantively equivalent activities of the Government of Palau, each of the Governments shall be bound by such environmental protection standards as may be mutually agreed for the purpose of carrying out the policy set forth in this Compact.
+“(a) The Government of the United States and the Government of Palau agree that with respect to the activities of the Government of the United States inPalau, and with respect to substantively equivalent activities of the Government of Palau, each of the Governments shall be bound by such environmental protection standards as may be mutually agreed for the purpose of carrying out the policy set forth in this Compact.
 
 #### “Section 163
 
@@ -314,7 +318,7 @@ I74“preambleI74“the government of the united states of america and the gover
 
 “Except as otherwise provided in this Compact and its related agreements:
 
-“(a) The Government of Palau shall be immune from the jurisdiction of the courts of the United States, andthe Government of the United States shall be immune from the jurisdiction of the courts of Palau.
+“(a) The Government of Palau shall be immune from the jurisdiction of the courts of the United States, and the Government of the United States shall be immune from the jurisdiction of the courts of Palau.
 
 “(b) The Government of the United States accepts responsibility for and shall pay:
 
@@ -326,7 +330,7 @@ I74“preambleI74“the government of the united states of america and the gover
 
 “(c) Any claim not referred to in Section 174(b) and arising from an act or omission of the Government of the Trust Territory of the Pacific Islands or the Government of the United States prior to the effective date of this Compact shall be adjudicated in the same manner as a claim adjudicated according to Section 174(d). In any claim against the Government of the Trust Territory of the Pacific Islands, the Government of the United States shall stand in the place of the Government of the Trust Territory of the Pacific Islands. A judgment on any claim referred to in Section 174(b) or this subsection, not otherwise satisfied by the Government of the United States, may be presented for certification to the United States Court of Appeals for the Federal Circuit, or its successor court, which shall have jurisdiction therefor, notwithstanding the provisions of 28 U.S.C. 1502, and which court's decisions shall be reviewable as provided by the laws of the United States. The United States Court of Appeals for the Federal Circuit shall certify such judgment, and order payment thereof, unless it finds, after a hearing, that such judgment is manifestly erroneous as to law or fact, or manifestly excessive. In either of such cases the United States Court of Appeals for the Federal Circuit shall have jurisdiction to modify such judgment.
 
-“(d) The Government of Palau, shall not be immune from the jurisdiction of the courts of the United States, and the Government of the United States shall not be immune from the jurisdiction of the courts of Palau in any case in which the action is based on a commercial activity of the defendant Government carried out where the action is brought, or in a case in which damages are sought for personal injury or death or damage to or loss of property occurring where the action is brought. This subsection shall apply only to actions based on commercial activities entered into or injuries or losses suffered on or after the effective date of this Compact.
+“(d) The Government of Palau, shall not be immune from the jurisdiction of the courts of the United States, and the Government of the United States shall not be immune from the jurisdiction of the courts of Palau in any case in which the action is based on a commercialactivity of the defendant Government carried out where the action is brought, or in a case in which damages are sought for personal injury or death or damage to or loss of property occurring where the action is brought. This subsection shall apply only to actions based on commercial activities entered into or injuries or losses suffered on or after the effective date of this Compact.
 
 #### “Section 175
 
@@ -432,7 +436,7 @@ I74“preambleI74“the government of the united states of america and the gover
 
 #### “Section 223
 
-“The citizens of Palau who are receiving post-secondary education assistance from the Government of theUnited States on the day preceding the effective date of this Compact shall continue to be eligible, if otherwise qualified, to receive such assistance to complete their academic programs for a maximum of four years after the effective date of this Compact.
+“The citizens of Palau who are receiving post-secondary education assistance from the Government of the United States on the day preceding the effective date of this Compact shall continue to be eligible, if otherwise qualified, to receive such assistance to complete their academic programs for a maximum of four years after the effective date of this Compact.
 
 #### “Section 224
 
@@ -520,7 +524,7 @@ I74“preambleI74“the government of the united states of america and the gover
 
 #### “Section 254
 
-“(a) In determining any income tax imposed by the Government of Palau, the Government of Palau shall have authority to impose tax upon income derived by a resident of Palau from sources without Palau in the same manner and to the same extent as the Government of Palau imposes tax upon income derived from within its jurisdiction. If the Government of Palau exercises such authority as provided in this subsection, any individual resident of Palau who is subject to tax by the Government of the United States on income which is also taxed by the Government of Palau shall be relieved of liability to the Government of the United States for the tax which, but for this subsection, would otherwise be imposed by the Government of the United States on such income. For purposes of this Section, the term ‘resident of Palau’ shall be deemed to include any person who was physically present in Palau for a period of 183 or more days during any taxable year. The relief from liability referred to in this subsection means only:
+“(a) In determining any income tax imposed by the Government of Palau, the Government of Palau shallhave authority to impose tax upon income derived by a resident of Palau from sources without Palau in the same manner and to the same extent as the Government of Palau imposes tax upon income derived from within its jurisdiction. If the Government of Palau exercises such authority as provided in this subsection, any individual resident of Palau who is subject to tax by the Government of the United States on income which is also taxed by the Government of Palau shall be relieved of liability to the Government of the United States for the tax which, but for this subsection, would otherwise be imposed by the Government of the United States on such income. For purposes of this Section, the term ‘resident of Palau’ shall be deemed to include any person who was physically present in Palau for a period of 183 or more days during any taxable year. The relief from liability referred to in this subsection means only:
 
 &emsp;“(1) relief in the form of the foreign tax credit (or deduction in lieu thereof) available with respect to the income taxes of a possession of the United States, and
 
@@ -568,7 +572,7 @@ I74“preambleI74“the government of the united states of america and the gover
 
 #### “Section 321
 
-“The Government of the United States may establish and use defense sites in Palau, and may designate forthis purpose land and water areas and improvements in accordance with the provisions of a separate agreement which shall come into force simultaneously with this Compact.
+“The Government of the United States may establish and use defense sites in Palau, and may designate for this purpose land and water areas and improvements in accordance with the provisions of a separate agreement which shall come into force simultaneously with this Compact.
 
 #### “Section 322
 
@@ -676,7 +680,7 @@ I74“preambleI74“the government of the united states of america and the gover
 
 #### “Section 423
 
-“If a dispute between the Government of the United States and the Government of Palau cannot be resolved within 90 days of written notification in the manner provided in Section 422, either party to the dispute may refer it to arbitration in accordance with Section 424.
+“If a dispute between the Government of the United States and the Government of Palau cannot be resolvedwithin 90 days of written notification in the manner provided in Section 422, either party to the dispute may refer it to arbitration in accordance with Section 424.
 
 #### “Section 424
 
@@ -880,7 +884,7 @@ William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1951, 1955, 1972 of this title; title 20 sections 351a, 351c, 351e, 1102, 1201a, 1401, 2322, 2471.
+This section is referred to in sections 1951, 1955, 1972 of this title; title 20 sections 1102, 1201a, 1401, 2322, 2471.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “or”.</i>
 

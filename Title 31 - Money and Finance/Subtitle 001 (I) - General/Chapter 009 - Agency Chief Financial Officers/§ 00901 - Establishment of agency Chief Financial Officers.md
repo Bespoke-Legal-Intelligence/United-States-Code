@@ -130,5 +130,5 @@ Functions.—The Chief Financial Officers Council shall meet periodically to adv
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 503, 903, 3515 of this title; title 42 section 902.
+This section is referred to in sections 503, 903, 3515 of this title; title 40 section 1425; title 42 section 902.
 

@@ -9,7 +9,7 @@
 | [6325\.](%C2%A7%2006325%20-%20Officers%20retired%20grade%20and%20pay.md) | Officers: retired grade and pay. |
 | [6326\.](%C2%A7%2006326%20-%20Enlisted%20members%2030%20years.md) | Enlisted members: 30 years. |
 | [6327\.](%C2%A7%2006327%20-%20Officers%20and%20enlisted%20members%20of%20the%20Naval%20Reserve%20and%20Marine%20Corps%20Reserve%2030%20years%3B%2020%20years%3B%20retired%20pay.md) | Officers and enlisted members of the Naval Reserve and Marine Corps Reserve: 30 years; 20 years; retired pay. |
-| \[6328. | Repealed.\] |
+| [6328\.](%C2%A7%2006328%20-%20Computation%20of%20years%20of%20service%20voluntary%20retirement.md) | Computation of years of service: voluntary retirement. |
 | [6329\.](%C2%A7%2006329%20-%20Officers%20not%20to%20be%20retired%20for%20misconduct.md) | Officers not to be retired for misconduct. |
 | [6330\.](%C2%A7%2006330%20-%20Enlisted%20members%20transfer%20to%20Fleet%20Reserve%20and%20Fleet%20Marine%20Corps%20Reserve%3B%20retainer%20pay.md) | Enlisted members: transfer to Fleet Reserve and Fleet Marine Corps Reserve; retainer pay. |
 | [6331\.](%C2%A7%2006331%20-%20Members%20of%20the%20Fleet%20Reserve%20and%20Fleet%20Marine%20Corps%20Reserve%20transfer%20to%20the%20retired%20list%3B%20retired%20pay.md) | Members of the Fleet Reserve and Fleet Marine Corps Reserve: transfer to the retired list; retired pay. |
@@ -17,10 +17,15 @@
 | [6333\.](%C2%A7%2006333%20-%20Computation%20of%20retired%20and%20retainer%20pay.md) | Computation of retired and retainer pay. |
 | [6334\.](%C2%A7%2006334%20-%20Higher%20grade%20after%2030%20years%20of%20service%20warrant%20officers%20and%20enlisted%20members.md) | Higher grade after 30 years of service: warrant officers and enlisted members. |
 | [6335\.](%C2%A7%2006335%20-%20Restoration%20to%20former%20grade%20warrant%20officers%20and%20enlisted%20members.md) | Restoration to former grade: warrant officers and enlisted members. |
+| [6336\.](%C2%A7%2006336%20-%20Highest%20grade%20held%20satisfactorily%20Reserve%20enlisted%20members%20reduced%20in%20grade%20not%20as%20a%20result%20of%20the%20member%27s%20misconduct.md) | Highest grade held satisfactorily: Reserve enlisted members reduced in grade not as a result of the member's misconduct. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1996—Pub. L. 104–201, div. A, title V, §532(b)(2), Sept. 23, 1996, 110 Stat. 2519, added item 6336.
+
+Pub. L. 104–106, div. A, title V, §561(d)(3)(B), Feb. 10, 1996, 110 Stat. 323, added item 6328.
 
 1987—Pub. L. 100–180, div. A, title V, §512(e)(2), Dec. 4, 1987, 101 Stat. 1091, added items 6334 and 6335.
 
@@ -46,7 +51,7 @@ General military law provisions, see section 1201 et seq. of this title.
 - [&sect; 06325 - Officers retired grade and pay](%C2%A7%2006325%20-%20Officers%20retired%20grade%20and%20pay.md)
 - [&sect; 06326 - Enlisted members 30 years](%C2%A7%2006326%20-%20Enlisted%20members%2030%20years.md)
 - [&sect; 06327 - Officers and enlisted members of the Naval Reserve and Marine Corps Reserve 30 years; 20 years; retired pay](%C2%A7%2006327%20-%20Officers%20and%20enlisted%20members%20of%20the%20Naval%20Reserve%20and%20Marine%20Corps%20Reserve%2030%20years%3B%2020%20years%3B%20retired%20pay.md)
-- [&sect; 06328 - Repealed. Pub. L. 99&#8211;348, title II, &sect;203(b)(5), July 1, 1986, 100 Stat. 696](%C2%A7%2006328%20-%20Repealed.%20Pub.%20L.%2099%E2%80%93348%2C%20title%20II%2C%20%C2%A7203%28b%29%285%29%2C%20July%201%2C%201986%2C%20100%20Stat.%20696.md)
+- [&sect; 06328 - Computation of years of service voluntary retirement](%C2%A7%2006328%20-%20Computation%20of%20years%20of%20service%20voluntary%20retirement.md)
 - [&sect; 06329 - Officers not to be retired for misconduct](%C2%A7%2006329%20-%20Officers%20not%20to%20be%20retired%20for%20misconduct.md)
 - [&sect; 06330 - Enlisted members transfer to Fleet Reserve and Fleet Marine Corps Reserve; retainer pay](%C2%A7%2006330%20-%20Enlisted%20members%20transfer%20to%20Fleet%20Reserve%20and%20Fleet%20Marine%20Corps%20Reserve%3B%20retainer%20pay.md)
 - [&sect; 06331 - Members of the Fleet Reserve and Fleet Marine Corps Reserve transfer to the retired list; retired pay](%C2%A7%2006331%20-%20Members%20of%20the%20Fleet%20Reserve%20and%20Fleet%20Marine%20Corps%20Reserve%20transfer%20to%20the%20retired%20list%3B%20retired%20pay.md)
@@ -54,3 +59,4 @@ General military law provisions, see section 1201 et seq. of this title.
 - [&sect; 06333 - Computation of retired and retainer pay](%C2%A7%2006333%20-%20Computation%20of%20retired%20and%20retainer%20pay.md)
 - [&sect; 06334 - Higher grade after 30 years of service warrant officers and enlisted members](%C2%A7%2006334%20-%20Higher%20grade%20after%2030%20years%20of%20service%20warrant%20officers%20and%20enlisted%20members.md)
 - [&sect; 06335 - Restoration to former grade warrant officers and enlisted members](%C2%A7%2006335%20-%20Restoration%20to%20former%20grade%20warrant%20officers%20and%20enlisted%20members.md)
+- [&sect; 06336 - Highest grade held satisfactorily Reserve enlisted members reduced in grade not as a result of the member's misconduct](%C2%A7%2006336%20-%20Highest%20grade%20held%20satisfactorily%20Reserve%20enlisted%20members%20reduced%20in%20grade%20not%20as%20a%20result%20of%20the%20member%27s%20misconduct.md)

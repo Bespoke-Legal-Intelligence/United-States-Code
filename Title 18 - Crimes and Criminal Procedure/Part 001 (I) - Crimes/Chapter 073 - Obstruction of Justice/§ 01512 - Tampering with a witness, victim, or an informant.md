@@ -12,7 +12,7 @@
 
 (2) The punishment for an offense under this subsection is—
 
-&emsp;(A) in the case of murder (as defined in section 1111), the death penalty or imprisonment for life, and in the case of any other killing, the punishment provided in section 1112; <sup>1</sup>
+&emsp;(A) in the case of murder (as defined in section 1111), the death penalty or imprisonment for life, and in the case of any other killing, the punishment provided in section 1112; and
 
 &emsp;(B) in the case of an attempt, imprisonment for not more than twenty years.
 
@@ -64,9 +64,15 @@
 
 (h) A prosecution under this section or section 1503 may be brought in the district in which the official proceeding (whether or not pending or about to be instituted) was intended to be affected or in the district in which the conduct constituting the alleged offense occurred.
 
-(Added Pub. L. 97–291, §4(a), Oct. 12, 1982, 96 Stat. 1249; amended Pub. L. 99–646, §61, Nov. 10, 1986, 100 Stat. 3614; Pub. L. 100–690, title VII, §7029(a), (c), Nov. 18, 1988, 102 Stat. 4397, 4398; Pub. L. 103–322, title VI, §60018, title XXXIII, §330016(1)(O), (U), Sept. 13, 1994, 108 Stat. 1975, 2148.)
+(i) If the offense under this section occurs in connection with a trial of a criminal case, the maximum term of imprisonment which may be imposed for the offense shall be the higher of that otherwise provided by law or the maximum term that could have been imposed for any offense charged in such case.
+
+(Added Pub. L. 97–291, §4(a), Oct. 12, 1982, 96 Stat. 1249; amended Pub. L. 99–646, §61, Nov. 10, 1986, 100 Stat. 3614; Pub. L. 100–690, title VII, §7029(a), (c), Nov. 18, 1988, 102 Stat. 4397, 4398; Pub. L. 103–322, title VI, §60018, title XXXIII, §330016(1)(O), (U), Sept. 13, 1994, 108 Stat. 1975, 2148; Pub. L. 104–214, §1(2), Oct. 1, 1996, 110 Stat.3017; Pub. L. 104–294, title VI, §604(b)(31), Oct. 11, 1996, 110 Stat. 3508.)
 
 #### Amendments
+
+1996—Subsec. (a)(2)(A). Pub. L. 104–294 inserted “and” after semicolon at end.
+
+Subsec. (i). Pub. L. 104–214 added subsec. (i).
 
 1994—Subsec. (a)(2)(A). Pub. L. 103–322, §60018, amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “(A) in the case of a killing, the punishment provided in sections 1111 and 1112 of this title; and”.
 
@@ -84,7 +90,11 @@ Subsecs. (b) to (g). Pub. L. 99–646, §61(1), (3), redesignated former subsec.
 
 #### Change of Name
 
-Reference to United States magistrate or to magistrate deemed to refer to United States magistrate judge pursuant to section 321 of Pub. L. 101–650, set outas a note under section 631 of Title 28, Judiciary and Judicial Procedure.
+Reference to United States magistrate or to magistrate deemed to refer to United States magistrate judge pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–294 effective Sept. 13, 1994, see section 604(d) of Pub. L. 104–294, set out as a note under section 13 of this title.
 
 #### Effective Date
 
@@ -176,7 +186,7 @@ Consultation with victim.—The victim of a serious crime, or in the case of a m
 
 &emsp;“(6)
 
-Separate waiting area.—Victims and other prosecution witnesses should be provided prior tocourt appearance a waiting area that is separate from all other witnesses.
+Separate waiting area.—Victims and other prosecution witnesses should be provided prior to court appearance a waiting area that is separate from all other witnesses.
 
 &emsp;“(7)
 
@@ -203,6 +213,4 @@ General victim assistance.—The guidelines should also ensure that any other im
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 1514, 1515, 1961, 2516, 3142 of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should be followed by “and”.</i>
 

@@ -66,7 +66,7 @@ The provisions of this section shall apply to any patent the application for whi
 
 #### Prior Provisions
 
-Provisions similar to this section were contained in section 1811(c)(1), (2) of this title, prior to the general amendment and renumbering of act Aug. 1, 1946, by act Aug. 30, 1954.
+Provisions similar to this section were contained in section 1811(c)(1), (2) of this title, prior to the generalamendment and renumbering of act Aug. 1, 1946, by act Aug. 30, 1954.
 
 #### Amendments
 

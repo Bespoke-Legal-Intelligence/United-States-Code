@@ -1,6 +1,6 @@
 ### §1937. Irish counterpart account; approval of disposition
 
-Pursuant to section 1513(b)(6) <sup>1</sup> of this title, the disposition within Ireland of the unencumbered balance, in the amount of approximately 6,000,000 Irish pounds, of the special account of Irish funds established under article IV of the Economic Cooperation Agreement between the United States of America and Ireland, dated June 28, 1948, for the purposes of—
+Pursuant to section 1513(b)(6) <sup>1</sup> of this title, the disposition within Ireland of the unencumbered balance, in the amount of approximately 6,000,000 Irish pounds, of the special account of Irish funds established under article IV of the Economic Cooperation Agreement between theUnited States of America and Ireland, dated June 28, 1948, for the purposes of—
 
 &emsp;(1) scholarship exchange between the United States and Ireland;
 

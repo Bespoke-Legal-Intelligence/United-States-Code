@@ -50,3 +50,7 @@ Section 4(c) of Pub. L. 85–475, as amended by Pub. L. 99–514, §2, Oct. 22, 
 
 “(2) In the case of transportation with respect to which the second sentence of section 4281 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] applies, the repeals and amendments made by subsections (a) and (b) \[repealing sections 4271 to 4273 and 4281 to 4283 of this title and amending this section and sections 4292, 6416, 7012, and 7272 of this title\] shall apply only if the transportation begins on or after August 1, 1958.”
 
+#### Section Referred to in Other Sections
+
+This section is referred to in section 9502 of this title.
+

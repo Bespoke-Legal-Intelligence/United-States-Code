@@ -22,7 +22,7 @@
 
 (3) The Secretary shall determine the number, terms of service, and pay and allowances of members of the Committee appointed by the Secretary, except that a term of service of any such member may not exceed three years. The Secretary may reappoint any such member for additional terms of service.
 
-(b) The Secretary shall, on a regular basis, consult with and seek the advice of the Committee with respect to the administration of benefits by the Department for women veterans, reports and studies pertaining to women veterans and the needs of women veterans with respect to compensation, health care, rehabilitation, outreach, and other benefits and programs administered by the Department.
+(b) The Secretary shall, on a regular basis, consult with and seek the advice of the Committee with respect to the administration of benefits by the Department for women veterans, reports and studies pertaining to women veterans and the needs of women veterans with respect to compensation, health care, rehabilitation, outreach, and other benefits and programs administered by the Department, including the Center for Women Veterans.
 
 (c)(1) Not later than July 1 of each even-numbered year, the Committee shall submit to the Secretary a report on the programs and activities of the Department that pertain to women veterans. Each such report shall include—
 
@@ -38,7 +38,7 @@
 
 (4) The Secretary shall submit with each annual report submitted to the Congress pursuant to section 529 of this title a summary of all reports and recommendations of the Committee submitted to the Secretary since the previous annual report of the Secretary submitted pursuant to such section.
 
-(Added Pub. L. 102–83, §2(a), Aug. 6, 1991, 105 Stat. 393; amended Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984.)
+(Added Pub. L. 102–83, §2(a), Aug. 6, 1991, 105 Stat. 393; amended Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 104–275, title V, §501(e)(1), Oct. 9, 1996, 110 Stat. 3341.)
 
 #### Prior Provisions
 
@@ -47,6 +47,8 @@ Prior section 542 was renumbered section 1542 of this title.
 Provisions similar to those in this section were contained in section 222 of this title prior to repeal by Pub. L. 102–83, §2(a).
 
 #### Amendments
+
+1996—Subsec. (b). Pub. L. 104–275 inserted “, including the Center for Women Veterans” before period at end.
 
 1992—Subsec. (a)(2)(B)(iii). Pub. L. 102–405 substituted “Under Secretary for Health” for “Chief Medical Director” and “Under Secretary for Benefits” for “Chief Benefits Director”.
 

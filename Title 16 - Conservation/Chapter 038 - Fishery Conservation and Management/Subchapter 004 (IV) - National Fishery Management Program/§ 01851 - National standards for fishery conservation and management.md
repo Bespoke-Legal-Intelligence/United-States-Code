@@ -12,23 +12,45 @@ Any fishery management plan prepared, and any regulation promulgated to implemen
 
 &emsp;(4) Conservation and management measures shall not discriminate between residents of different States. If it becomes necessary to allocate or assign fishing privileges among various United States fishermen, such allocation shall be (A) fair and equitable to all such fishermen; (B) reasonably calculated to promote conservation; and (C) carried out in such manner that no particular individual, corporation, or other entity acquires an excessive share of such privileges.
 
-&emsp;(5) Conservation and management measures shall, where practicable, promote efficiency in the utilization of fishery resources; except that no such measure shall have economic allocation as its sole purpose.
+&emsp;(5) Conservation and management measures shall, where practicable, consider efficiency inthe utilization of fishery resources; except that no such measure shall have economic allocation as its sole purpose.
 
 &emsp;(6) Conservation and management measures shall take into account and allow for variations among, and contingencies in, fisheries, fishery resources, and catches.
 
 &emsp;(7) Conservation and management measures shall, where practicable, minimize costs and avoid unnecessary duplication.
 
+&emsp;(8) Conservation and management measures shall, consistent with the conservation requirements of this chapter (including the prevention of overfishing and rebuilding of overfished stocks), take into account the importance of fishery resources to fishing communities in order to (A) provide for the sustained participation of such communities, and (B) to the extent practicable, minimize adverse economic impacts on such communities.
+
+&emsp;(9) Conservation and management measures shall, to the extent practicable, (A) minimize bycatch and (B) to the extent bycatch cannot be avoided, minimize the mortality of such bycatch.
+
+&emsp;(10) Conservation and management measures shall, to the extent practicable, promote the safety of human life at sea.
+
 #### (b) Guidelines
 
 The Secretary shall establish advisory guidelines (which shall not have the force and effect of law), based on the national standards, to assist in the development of fishery management plans.
 
-(Pub. L. 94–265, title III, §301, Apr. 13, 1976, 90 Stat. 346; Pub. L. 97–453, §4, Jan. 12, 1983, 96 Stat. 2484; Pub. L. 98–623, title IV, §404(3), Nov. 8, 1984, 98 Stat. 3408.)
+(Pub. L. 94–265, title III, §301, Apr. 13, 1976, 90 Stat. 346; Pub. L. 97–453, §4, Jan. 12, 1983, 96 Stat. 2484; Pub. L. 98–623, title IV, §404(3), Nov. 8, 1984, 98 Stat. 3408; Pub. L. 104–297, title I, §106, Oct. 11, 1996, 110 Stat. 3570.)
+
+#### References in Text
+
+This chapter, referred to in subsec. (a)(8), was in the original “this Act”, meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
 #### Amendments
+
+1996—Subsec. (a)(5). Pub. L. 104–297, §106(a), substituted “consider efficiency” for “promote efficiency”.
+
+Subsec. (a)(8) to (10). Pub. L. 104–297, §106(b), added pars. (8) to (10).
 
 1984—Subsec. (a)(1). Pub. L. 98–623 inserted “for the United States fishing industry”.
 
 1983—Subsec. (b). Pub. L. 97–453 substituted “advisory guidelines (which shall not have the force and effect of law)” for “guidelines”.
+
+#### Restriction on Funding Certain New Fishery Management Plans, Amendments or Regulations
+
+Pub. L. 104–208, div. A, title I, §101(a) \[title II, §§208, 211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–40, 3009–41, provided that: “None of the funds appropriated under this Act or any other Act henceforth may be used to develop new fishery management plans, amendments, or regulations which create new individual fishing quota programs (whether such quotas are transferable or not) or to implement any such plans, amendments or regulations approved by a Regional Fishery Management Council or the Secretary after January 4, 1995, until offsetting fees to pay for the cost of administering such plans, amendments, or regulations are expressly authorized under the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1801 et seq.). This restriction shall also apply to any program relating to the Gulf of Mexico commercial red snapper fishery that authorizes the consolidation of licenses, permits or endorsements that result in different trip limits for vessels in the same class. This restriction shall not apply in any way to the North Pacific halibut and sablefish, South Atlantic wreckfish, or the Mid-Atlantic surfclam and ocean (including mahogany) quohog individual fishing quota programs. The term ‘individual fishing quota’ does not include a community development quota.”
+
+Similar provisions were contained in the following prior appropriation act:
+
+Pub. L. 104–134, title I, §101\[(a)\] \[title II, §210\], Apr. 26, 1996, 110 Stat. 1321, 1321–31; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; repealed by Pub. L. 104–297, title I, §108(f)(6), Oct. 11, 1996, 110 Stat. 3579.
 
 #### Albemarle Sound-Roanoke River Basin: Striped Bass Study
 
@@ -58,13 +80,13 @@ In general.—The Director of the United States Fish and Wildlife Service, in co
 
 &emsp;&emsp;“(A) immediately undertake a biological study of the striped bass fishery resources and habitats of the Albemarle Sound-Roanoke River basin area;
 
-&emsp;&emsp;“(B) develop short-term and long-term recommendations for Federal and State governmentagencies for restoring and conserving such resources and habitats; and
+&emsp;&emsp;“(B) develop short-term and long-term recommendations for Federal and State government agencies for restoring and conserving such resources and habitats; and
 
 &emsp;&emsp;“(C) submit the results of such study and such recommendations to the Congress and to the States of North Carolina and Virginia as soon as practicable, but not later than 36 months after the date of the enactment of this Act \[Nov. 3, 1988\].
 
 &emsp;“(2)
 
-Contents of the study.—The study conducted under this subsection shall, to the extent existing data are adequate, use such existing data and shall include—
+Contents of the study.—The study conducted under this subsection shall, to the extent existingdata are adequate, use such existing data and shall include—
 
 &emsp;&emsp;“(A) a description of the Albemarle Sound-Roanoke River basin area, and an investigation and analysis of the effects of land and water use practices on the striped bass population and habitats of the area;
 
@@ -106,11 +128,11 @@ Restriction on Use of Other Funds.—Amounts appropriated pursuant to the author
 
 #### Exclusive Economic Zone: Atlantic Striped Bass Protection
 
-Pub. L. 100–589, §6(a)–(f), Nov. 3, 1988, 102 Stat. 2986, as amended by Pub. L. 102–130, §4, Oct. 17, 1991, 105 Stat. 627, provided that:
+Pub. L. 100–589, §6(a)–(f), Nov. 3, 1988, 102 Stat. 2986, as amended by Pub. L. 102–130, §4, Oct. 17, 1991, 105 Stat. 627; Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that:
 
 “(a)
 
-Regulation of Fishing in Exclusive Economic Zone.—The Secretary of Commerce shall promulgate regulations governing the fishing for Atlantic striped bass in the exclusive economic zone that the Secretary determines to be consistent with the national standards set forth in section 301 of the Magnuson Fishery Conservation and Management Act (16 U.S.C. 1851) and necessary and appropriate to—
+Regulation of Fishing in Exclusive Economic Zone.—The Secretary of Commerce shall promulgate regulations governing the fishing for Atlantic striped bass in the exclusive economic zone that the Secretary determines to be consistent with the national standards set forth in section 301 of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1851) and necessary and appropriate to—
 
 &emsp;“(1) ensure the effectiveness of State regulations or a Federal moratorium on fishing for Atlantic striped bass within the coastal waters of a coastal State; and
 
@@ -124,15 +146,15 @@ Consultation; Periodic Review of Regulations.—In preparing regulations under s
 
 “(d)
 
-Applicability of Magnuson Act Provisions.—The provisions of sections 307, 308, 309, 310, and 311 of the Magnuson Fishery Conservation and Management Act (16 U.S.C. 1857, 1858, 1859, 1860, and 1861) regarding prohibited acts, civil penalties, criminal offenses, civil forfeitures, and enforcement shall apply with respect to regulations and any plan issued under subsection (a) of this section as if such regulations or plan were issued under the Magnuson Fishery Conservation and Management Act \[16 U.S.C. 1801 et seq.\].
+Applicability of Magnuson Act Provisions.—The provisions of sections 307, 308, 309, 310, and 311 of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1857, 1858, 1859, 1860, and 1861) regarding prohibited acts, civil penalties, criminal offenses, civil forfeitures, and enforcement shall apply with respect to regulations and any plan issued under subsection (a) of this section as if such regulations or plan were issued under the Magnuson-Stevens Fishery Conservation and Management Act \[16 U.S.C. 1801 et seq.\].
 
 “(e)
 
-Definition.—As used in this section, the term ‘exclusive economic zone’ has the meaning given such term in section 3(6) of the Magnuson Fishery Conservation and Management Act (16 U.S.C. 1802(6)).”
+Definition.—As used in this section, the term ‘exclusive economic zone’ has the meaning given such term in section 3(6) \[now 3(11)\] of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1802(6) \[now 1802(11)\]).”
 
 #### Atlantic Striped Bass Conservation
 
-Pub. L. 98–613, §§1–9, Oct. 31, 1984, 98 Stat. 3187–3190, as amended by Pub. L. 99–432, §§1–5, Oct. 1, 1986, 100 Stat. 989, 990; Pub. L. 100–589, §§1, 2, 4, 6(g), Nov. 3, 1988, 102 Stat. 2984, 2987; Pub. L. 102–130, §2, Oct. 17, 1991, 105 Stat. 626; Pub. L. 103–206, title VIII, §810, Dec. 20, 1993, 107 Stat. 2453, provided that:
+Pub. L. 98–613, §§1–9, Oct. 31, 1984, 98 Stat. 3187–3190, as amended by Pub. L. 99–432, §§1–5, Oct. 1, 1986, 100 Stat. 989, 990; Pub. L. 100–589, §§1, 2, 4, 6(g), Nov. 3, 1988, 102 Stat. 2984, 2987; Pub. L. 102–130, §2, Oct. 17, 1991, 105 Stat. 626; Pub. L. 103–206, title VIII, §812, formerly §810, Dec. 20, 1993, 107 Stat. 2453, renumbered §812, Pub. L. 104–297, title IV, §404(c), Oct. 11, 1996, 110 Stat. 3619; Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that:
 
 #### “SECTION 1. SHORT TITLE.
 
@@ -160,7 +182,7 @@ Purpose.—It is therefore declared to be the purpose of the Congress in this Ac
 
 “As used in this Act—
 
-&emsp;“(1) The term ‘Magnuson Act’ means the Magnuson Fishery Conservation and Management Act (16 U.S.C. 1801 et seq.).
+&emsp;“(1) The term ‘Magnuson Act’ means the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1801 et seq.).
 
 &emsp;“(2) The term ‘Atlantic striped bass’ means members of stocks or populations of the species Morone saxatilis, which ordinarily migrate seaward of the waters described in paragraph (3)(A)(i).
 
@@ -258,7 +280,7 @@ Enforcement.—(1) The Secretaries shall enforce a moratorium declared under sec
 
 “(2)
 
-Enforcement authority.—A person authorized by the Secretaries may take any action to enforce a moratorium declared under section 4(b) that an officer authorized by the Secretary under section 311(b) of the Magnuson Fishery Conservation and Management Act \[16 U.S.C. 1861(b)\] may take to enforce that Act \[16 U.S.C. 1801 et seq.\].
+Enforcement authority.—A person authorized by the Secretaries may take any action to enforce a moratorium declared under section 4(b) that an officer authorized by the Secretary under section 311(b) of the Magnuson-Stevens Fishery Conservation and Management Act \[16 U.S.C. 1861(b)\] may take to enforce that Act \[16 U.S.C. 1801 et seq.\].
 
 “(3)
 
@@ -282,9 +304,9 @@ Cooperative Agreements.—The Secretaries may enter into cooperative agreements 
 
 “Within six months of the date of enactment of this Act \[Oct. 31, 1984\], the Secretaries shall review the existing Plan and shall report to the Commission, the Chairman of the House Committee on Merchant Marine and Fisheries, the Chairman of the Senate Committee on Commerce, Science and Transportation and the Chairman of the Senate Committee on Environment and Public Works on the adequacy of the Plan to achieve the purposes of this Act. Such report shall include recommendations for additional measures that may need to be taken and include recommendations concerning specific State actions regarding the management and conservation of striped bass.
 
-#### “SEC. 9. \[Repealed. Pub. L. 103–206, title VIII, §810, Dec. 20, 1993, 107 Stat. 2453.\]”
+#### “SEC. 9. \[Repealed. Pub. L. 103–206, title VIII, §812, formerly §810, Dec. 20, 1993, 107 Stat. 2453; renumbered §812, Pub. L. 104–297, title IV, §404(c), Oct. 11, 1996, 110 Stat. 3619.\]”
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1434, 1802, 5103 of this title.
+This section is referred to in sections 1434, 1802, 5103, 5107b of this title.
 

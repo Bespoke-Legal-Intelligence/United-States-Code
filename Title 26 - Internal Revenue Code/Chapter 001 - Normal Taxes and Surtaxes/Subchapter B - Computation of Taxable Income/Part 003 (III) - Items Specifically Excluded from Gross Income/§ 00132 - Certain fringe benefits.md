@@ -64,7 +64,7 @@ For purposes of this section—
 
 #### (4) Qualified property or services
 
-&emsp;The term “qualified property or services” means any property (other than real property and other than personal property of a kind held for investment) or services which are offered for sale to customers in the ordinary course of the line of business of the employer in which the employee is peforming <sup>1</sup> services.
+&emsp;The term “qualified property or services” means any property (other than real propertyand other than personal property of a kind held for investment) or services which are offered for sale to customers in the ordinary course of the line of business of the employer in which the employee is peforming <sup>1</sup> services.
 
 #### (d) Working condition fringe defined
 
@@ -150,7 +150,7 @@ For purposes of this section—
 
 #### (E) Employee
 
-&emsp;&emsp;For purposes of this subsection, the term “employee” does not include an individual who is an employee within the meaning of section 401(c)(1).
+&emsp;&emsp;For purposes of this subsection, the term “employee” does not include an individualwho is an employee within the meaning of section 401(c)(1).
 
 #### (6) Inflation adjustment
 
@@ -278,7 +278,7 @@ For purposes of paragraph (1) of subsection (a), any service provided by an empl
 
 #### (C) Airline-related services
 
-&emsp;&emsp;For purposes of this paragraph, the term “airline-related services” means any of thefollowing services provided in connection with air transportation:
+&emsp;&emsp;For purposes of this paragraph, the term “airline-related services” means any of the following services provided in connection with air transportation:
 
 &emsp;&emsp;&emsp;(i) Catering.
 
@@ -322,13 +322,13 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 (Added Pub. L. 98–369, div. A, title V, §531(a)(1), July 18, 1984, 98 Stat. 877; amended Pub. L. 99–272, title XIII, §13207(a)(1), (b)(1), Apr. 7, 1986, 100 Stat. 319; Pub. L. 99–514, title XI, §§1114(b)(5), 1151(e)(2)(A), (g)(5), title XVIII, §§1853(a), 1899A(5), Oct. 22, 1986, 100 Stat. 2451, 2506, 2507, 2870, 2958; Pub. L. 100–647, title I, §1011B(a)(31)(B), title VI, §6066(a), Nov. 10, 1988, 102 Stat. 3488, 3702; Pub. L. 101–140, title II, §203(a)(1), (2), Nov. 8, 1989, 103 Stat. 830; Pub. L. 101–239, title VII, §§7101(b), 7841(d)(7), (19), Dec. 19, 1989, 103 Stat. 2304, 2428, 2429; Pub. L. 102–486, title XIX, §1911(a)–(c), Oct. 24, 1992, 106 Stat. 3012–3014; Pub. L. 103–66, title XIII, §§13101(b), 13201(b)(3)(F), 13213(d)(1), (2), (3)(B), (C), Aug. 10, 1993, 107 Stat. 420, 459, 474.)
 
-#### Adjustment of Limitation on Exclusion for Qualified Transportation Fringe for Tax Years Beginning in 1996
+#### Adjustment of Limitation on Exclusion for Qualified Transportation Fringe for Tax Years Beginning in 1997
 
-<i>For adjustment of limitation on exclusion for an employer-provided qualified transportation fringe under subsection (f) of this section for tax years beginning in 1996, see section 3.06 of Revenue Procedure 95–53, set out as a note under section 1 of this title.</i>
+<i>For adjustment of limitation on exclusion for an employer-provided qualified transportation fringe under subsection (f) of this section for tax years beginning in 1997, see section 3.07 of Revenue Procedure 96–59, set out as a note under section 1 of this title.</i>
 
 #### Prior Provisions
 
-A prior section 132 was renumbered section 137 of this title.
+A prior section 132 was renumbered section 138 of this title.
 
 #### Amendments
 
@@ -346,7 +346,7 @@ Subsec. (j). Pub. L. 103–66, §13213(d)(2), redesignated subsec. (i) as (j). F
 
 Subsec. (j)(4)(B)(iii). Pub. L. 103–66, §13213(d)(3)(B), substituted “subsection (h)” for “subsection (f)”.
 
-Subsec. (k). Pub. L. 103–66, §13213(d)(2), redesignated subsec. (j) as (k). Former subsec. (k) redesignated (<i>l).</i>
+Subsec. (k). Pub. L. 103–66, §13213(d)(2), redesignated subsec. (j) as (k). Former subsec. (k) redesignated (<i>l</i>).
 
 Subsec. (<i>l</i>). Pub. L. 103–66, §13213(d)(2), (3)(C), redesignated subsec. (k) as (<i>l</i>) and substituted “subsections (e) and (g)” for “subsection (e)”. Former subsec. (<i>l</i>) redesignated (m).
 
@@ -462,7 +462,7 @@ Effective Date.—The provisions of this section shall take effect on January 1,
 
 #### Treatment of Certain Leased Operations of Department Stores
 
-Section 1853(e) of Pub. L. 99–514 provided that: “For purposes of section 132(h)(2)(B) \[now 132(j)(2)(B)\] of theInternal Revenue Code of 1954 \[now 1986\], a leased section of a department store which, in connection with the offering of beautician services, customarily makes sales of beauty aids in the ordinary course of business shall be treated as engaged in over-the-counter sales of property.”
+Section 1853(e) of Pub. L. 99–514 provided that: “For purposes of section 132(h)(2)(B) \[now 132(j)(2)(B)\] of the Internal Revenue Code of 1954 \[now 1986\], a leased section of a department store which, in connection with the offering of beautician services, customarily makes sales of beauty aids in the ordinary course of business shall be treated as engaged in over-the-counter sales of property.”
 
 #### Transitional Rule for Determination of Line of Business in Case of Affiliated Group Operating Airline
 

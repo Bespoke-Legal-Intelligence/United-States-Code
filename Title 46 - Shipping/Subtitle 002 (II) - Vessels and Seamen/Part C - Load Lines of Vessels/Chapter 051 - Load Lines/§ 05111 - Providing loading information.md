@@ -1,6 +1,6 @@
 ### §5111. Providing loading information
 
-The Secretary may prescribe regulations requiring the owner, charterer, managing operator, and agent of a vessel to provide loading information (including information on loading distribution, stability, and margin of strength) tothe master or individual in charge of the vessel in a language the master or individual understands.
+The Secretary may prescribe regulations requiring the owner, charterer, managing operator, and agent of a vessel to provide loading information (including information on loading distribution, stability, and margin of strength) to the master or individual in charge of the vessel in a language the master or individual understands.
 
 (Pub. L. 99–509, title V, §5101(2), Oct. 21, 1986, 100 Stat. 1917.)
 

@@ -48,7 +48,7 @@ For a farm to be certified under this chapter as an organic farm with respect to
 
 #### (2) Dairy livestock
 
-&emsp;A dairy animal from which milk or milk products will be sold or labeled as organicallyproduced shall be raised and handled in accordance with this chapter for not less than the 12-month period immediately prior to the sale of such milk and milk products.
+&emsp;A dairy animal from which milk or milk products will be sold or labeled as organically produced shall be raised and handled in accordance with this chapter for not less than the 12-month period immediately prior to the sale of such milk and milk products.
 
 #### (f) Livestock identification
 

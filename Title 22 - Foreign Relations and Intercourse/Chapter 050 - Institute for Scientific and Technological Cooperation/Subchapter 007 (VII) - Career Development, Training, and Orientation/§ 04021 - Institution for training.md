@@ -90,7 +90,7 @@ Construction of Training Facilities.—The Administrator of General Services may
 
 Use of Funds.—(1)(A) Of amounts authorized to be appropriated to the Department of State for fiscal years 1986 and 1987 for ‘Administration of Foreign Affairs’ by section 101(1) \[Pub. L. 99–93, §101(1), which is not classified to the Code\], a total of not to exceed $11,000,000 may be transferred by the Secretary of State to the Administrator of General Services for carrying out feasibility studies, site acquisition, and design, architectural, and engineering planning under subsection (b) of this section.
 
-“(B) Of the amounts authorized to be appropriated to the Department of State for fiscal years beginning after September 30, 1987, the Secretary of State may transfer a total not to exceed $11,000,000 for ‘Administration of Foreign Affairs’ to the Administrator of General Services for carrying out feasibility studies, site preparation, and design, architectural, and engineering planning under subsection (b).
+“(B) Of the amounts authorized to be appropriated to the Department of State for fiscal years beginning after September 30, 1987, the Secretary of State may transfer a total not to exceed $11,000,000 for ‘Administration of Foreign Affairs’ to the Administrator of General Services for carrying out feasibility studies, sitepreparation, and design, architectural, and engineering planning under subsection (b).
 
 “(2) Of amounts authorized to be appropriated to the Department of State for fiscal years beginning after September 30, 1987, for ‘Administration of Foreign Affairs’, a total not to exceed $70,000,000 may be transferred by the Secretary of State to the Administrator of General Services for carrying out construction under subsection (b) of this section.
 

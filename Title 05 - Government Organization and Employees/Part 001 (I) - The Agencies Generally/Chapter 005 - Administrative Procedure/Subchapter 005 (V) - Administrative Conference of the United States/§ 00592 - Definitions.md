@@ -16,7 +16,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 5 U.S.C. 1045a.
 
@@ -30,9 +32,9 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Prior Provisions
 
-A prior section 592 was renumbered section 582 of this title.
+A prior section 592 was renumbered section 582 of this title and was subsequently repealed.
 
 #### Amendments
 
-<b>1992</b>—Pub. L. 102–354 renumbered section 572 of this title as this section.
+1992—Pub. L. 102–354 renumbered section 572 of this title as this section.
 

@@ -18,7 +18,7 @@ Section 1 of Pub. L. 90–264 provided: “That this Act \[enacting this chapter
 
 #### Capitol Grounds; Erection of Flagpoles and Improvement of Traffic
 
-Pub. L. 94–320, June 25, 1976, 90 Stat. 711, provided: “That, subject to the approval of the Architect of theCapitol and to such conditions as he may prescribe, the Secretary of the Interior is authorized to make such use of that portion of the United States Capitol Grounds adjacent or in close proximity to the sidewalks abutting the circular perimeter of the Union Station Plaza in front of Columbus Plaza and the National Visitor Center as may be necessary to enable the Secretary of the Interior to erect and maintain flagpoles to fly the flags of each of the States of the United States and its territories and possessions, generally as shown on NCPC Map File Numbered 1.11 (38.00)–27861.
+Pub. L. 94–320, June 25, 1976, 90 Stat. 711, provided: “That, subject to the approval of the Architect of the Capitol and to such conditions as he may prescribe, the Secretary of the Interior is authorized to make such use of that portion of the United States Capitol Grounds adjacent or in close proximity to the sidewalks abutting the circular perimeter of the Union Station Plaza in front of Columbus Plaza and the National Visitor Center as may be necessary to enable the Secretary of the Interior to erect and maintain flagpoles to fly the flags of each of the States of the United States and its territories and possessions, generally as shown on NCPC Map File Numbered 1.11 (38.00)–27861.
 
 “
 

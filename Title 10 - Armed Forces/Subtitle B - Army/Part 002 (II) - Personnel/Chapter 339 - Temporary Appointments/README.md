@@ -20,12 +20,6 @@
 
 Rank, adjustment of dates by President, see section 3572 of this title.
 
-Reserve officers, appointments in time of war, see section 3395 of this title.
-
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in section 3395 of this title.
-
 
 ---
 

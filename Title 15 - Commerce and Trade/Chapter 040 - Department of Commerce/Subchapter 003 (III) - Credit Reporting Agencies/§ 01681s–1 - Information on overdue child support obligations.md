@@ -14,7 +14,7 @@ Notwithstanding any other provision of this subchapter, a consumer reporting age
 
 #### Prior Provisions
 
-A prior section 622 of Pub. L. 90–321 was renumbered section 623 and is classified to section 1681t of this title.
+A prior section 622 of Pub. L. 90–321 was renumbered section 624 and is classified to section 1681t of this title.
 
 #### Effective Date
 

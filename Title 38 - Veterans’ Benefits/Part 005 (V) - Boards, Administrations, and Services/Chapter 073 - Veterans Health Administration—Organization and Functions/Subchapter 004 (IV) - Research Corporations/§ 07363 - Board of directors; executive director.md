@@ -8,15 +8,17 @@
 
 (b) Each such corporation shall have an executive director who shall be appointed by the board of directors with the concurrence of the Under Secretary for Health of the Department. The executive director of a corporation shall be responsible for the operations of the corporation and shall have such specific duties and responsibilities as the board may prescribe.
 
-(c) An individual appointed under subsection (a)(2) to the board of directors of a corporation established under this subchapter may not be affiliated with, employed by, or have any other financial relationship with any entity that is a source of funding for research by the Department unless that source of funding is a governmental entity or an entity the income of which is exempt from taxation under section 501(c)(3) of the Internal Revenue Code of 1986.
+(c) An individual appointed under subsection (a)(2) to the board of directors of a corporation established under this subchapter may not be affiliated with, employed by, or have any other financial relationship with any entity that is a source of funding for research by the Department unless that source of funding is a governmental entity or an entity the income of whichis exempt from taxation under the Internal Revenue Code of 1986.
 
-(Added Pub. L. 100–322, title II, §204(a), May 20, 1988, 102 Stat. 510, §4163; renumbered §7363 and amended Pub. L. 102–40, title IV, §§401(a)(4)(B), 403(a)(1), (2), (4), May 7, 1991, 105 Stat. 221, 239; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984.)
+(Added Pub. L. 100–322, title II, §204(a), May 20, 1988, 102 Stat. 510, §4163; renumbered §7363 and amended Pub. L. 102–40, title IV, §§401(a)(4)(B), 403(a)(1), (2), (4), May 7, 1991, 105 Stat. 221, 239; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 104–262, title III, §343(b), Oct. 9, 1996, 110 Stat. 3207.)
 
 #### References in Text
 
-Section 501(c)(3) of the Internal Revenue Code of 1986, referred to in subsec. (c), is classified to section 501(c)(3) of Title 26, Internal Revenue Code.
+The Internal Revenue Code of 1986, referred to in subsec. (c), is classified generally to Title 26, Internal Revenue Code.
 
 #### Amendments
+
+1996—Subsec. (c). Pub. L. 104–262 struck out “section 501(c)(3) of” before “the Internal Revenue Code of 1986”.
 
 1992—Subsec. (b). Pub. L. 102–405 substituted “Under Secretary for Health” for “Chief Medical Director”.
 

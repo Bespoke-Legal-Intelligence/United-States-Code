@@ -30,7 +30,15 @@ Adjustment and Diversification Assistance.—(1) The Secretary of Defense may ma
 
 (C) The Secretary shall carry out this paragraph in coordination with the Secretary of Commerce.
 
-(5) The Secretary of Defense may also make grants, conclude cooperative agreements, and supplement other Federal funds in order to assist a State or local government in planning community adjustments and economic diversification even though the State or local government is not currently eligible for assistance under paragraph (1) if the Secretary determines that a substantial portion of the economic activity or population of the geographic area to be subject to the advance planning is dependent on defense expenditures.
+(5)(A) The Secretary of Defense may also make grants, conclude cooperative agreements, and supplement other Federal funds in order to assist a State or local government in planning community adjustments and economic diversification even though the State or local government is not currently eligible for assistance under paragraph (1) if the Secretary determines that a substantial portion of the economic activity or population of the geographic area to be subject to the advance planning is dependent on defense expenditures.
+
+(B) The Secretary of Defense may also make grants, conclude cooperative agreements, and supplement other Federal funds in order to assist a State in enhancing its capacities—
+
+&emsp;(i) to assist communities, businesses, and workers adversely affected by an action described in paragraph (1);
+
+&emsp;(ii) to support local adjustment and diversification initiatives; and
+
+&emsp;(iii) to stimulate cooperation between statewide and local adjustment and diversification efforts.
 
 (6) Funds provided to State and local governments and regional organizations under this section may be used as part or all of any required non-Federal contribution to a Federal grant-in-aid program for the purposes stated in paragraph (1).
 
@@ -46,13 +54,13 @@ Adjustment and Diversification Assistance.—(1) The Secretary of Defense may ma
 
 (c)
 
-Annual Report.—The Secretary of Defense shall submit a report not later than December 1 of each year to the Committees on Armed Services of the Senate and House of Representatives concerning the operation of this section during the preceding fiscal year. Each such report shall identify each State, unit of local government, and regional organization that received a grant under this section during such fiscal year and the total amount granted under this section during such year to each such State, unit of local government, and regional organization.
+Annual Report.—The Secretary of Defense shall submit a report not later than December 1 of each year to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives concerning the operation of this section during the preceding fiscal year. Each such report shall identify each State, unit of local government, and regional organization that received a grant under this section during such fiscal year and the total amount granted under this section during such year to each such State, unit of local government, and regional organization.
 
 (d)
 
 Definitions.—In this section:
 
-&emsp;(1) The term “military installation” means any camp, post, station, base, yard, or other installation under the jurisdiction of a military department that is located within any ofthe several States, the District of Columbia, the Commonwealth of Puerto Rico, or Guam.
+&emsp;(1) The term “military installation” means any camp, post, station, base, yard, or other installation under the jurisdiction of a military department that is located within any of the several States, the District of Columbia, the Commonwealth of Puerto Rico, or Guam.
 
 &emsp;(2) The term “defense facility” means any private facility producing goods or services pursuant to a defense contract.
 
@@ -62,13 +70,17 @@ Definitions.—In this section:
 
 Assistance Subject to Appropriations.—The authority of the Secretary of Defense to make grants under this section in any fiscal year is subject to the availability of appropriations for that purpose.
 
-(Added Pub. L. 97–86, title IX, §912(a)(1), Dec. 1, 1981, 95 Stat. 1122; amended Pub. L. 98–115, title VIII, §808, Oct. 11, 1983, 97 Stat. 789; Pub. L. 100–26, §7(k)(3), Apr. 21, 1987, 101 Stat. 284; Pub. L. 100–456, div. B, title XXVIII, §2805, Sept. 29, 1988, 102 Stat. 2116; Pub. L. 101–510, div. D, title XLI, §4102(b), Nov. 5, 1990, 104 Stat. 1851; Pub. L. 102–25, title VII, §701(j)(3), Apr. 6, 1991, 105 Stat. 116; Pub. L. 102–484, div. A, title X, §1052(28), div. D, title XLIII, §4301(a)–(c), Oct. 23, 1992, 106 Stat. 2500, 2696, 2697; Pub. L. 103–35, title II, §202(a)(15), May 31, 1993, 107 Stat. 101; Pub. L. 103–160, div. B, title XXIX, §2913, Nov. 30, 1993, 107 Stat. 1925; Pub. L. 103–337, div. A, title XI, §§1122(a), 1123(a), (b), Oct. 5, 1994, 108 Stat. 2870, 2871.)
+(Added Pub. L. 97–86, title IX, §912(a)(1), Dec. 1, 1981, 95 Stat. 1122; amended Pub. L. 98–115, title VIII, §808, Oct. 11, 1983, 97 Stat. 789; Pub. L. 100–26, §7(k)(3), Apr. 21, 1987, 101 Stat. 284; Pub. L. 100–456, div. B, title XXVIII, §2805, Sept. 29, 1988, 102 Stat. 2116; Pub. L. 101–510, div. D, title XLI, §4102(b), Nov. 5, 1990, 104 Stat. 1851; Pub. L. 102–25, title VII, §701(j)(3), Apr. 6, 1991, 105 Stat. 116; Pub. L. 102–484, div. A, title X, §1052(28), div. D, title XLIII, §4301(a)–(c), Oct. 23, 1992, 106 Stat. 2500, 2696, 2697; Pub. L. 103–35, title II, §202(a)(15), May 31, 1993, 107 Stat. 101; Pub. L. 103–160, div. B, title XXIX, §2913, Nov. 30, 1993, 107 Stat. 1925; Pub. L. 103–337, div. A, title XI, §§1122(a), 1123(a), (b), Oct. 5, 1994, 108 Stat. 2870, 2871; Pub. L. 104–106, div. A, title XV, §1502(a)(1), Feb. 10, 1996, 110 Stat. 502; Pub. L. 104–201, div. B, title XXVIII, §2814, Sept. 23, 1996, 110 Stat. 2790.)
 
 #### References in Text
 
 The National Environmental Policy Act of 1969, referred to in subsec. (a), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 #### Amendments
+
+1996—Subsec. (b)(5). Pub. L. 104–201 designated existing provisions as subpar. (A) and added subpar. (B).
+
+Subsec. (c). Pub. L. 104–106 substituted “Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives” for “Committees on Armed Services of the Senate and House of Representatives”.
 
 1994—Subsec. (b)(5) to (7). Pub. L. 103–337, §1123(a), added par. (5) and redesignated former pars. (5) and (6) as (6) and (7), respectively. Former par. (7) redesignated (8).
 
@@ -102,7 +114,7 @@ Subsec. (e). Pub. L. 102–484, §4301(c)(4), inserted heading.
 
 1990—Subsec. (b)(3) to (6). Pub. L. 101–510 added par. (3), redesignated par. (5) as (4), and struck out former pars. (3), (4), and (6), which read as follows:
 
-“(3) In the case of the cancellation or termination of a Department of Defense contract or the failure to proceed with an approved major weapon system program, assistance may be made under paragraph (1) only if the cancellation, termination, or failure to proceed involves the loss of 2,500 or more full-time Department of Defense and contractor employee positions in the locality of the affected community.
+“(3) In the case of the cancellation or termination of a Department of Defense contract or the failure to proceed with an approved major weapon system program, assistance may be made under paragraph (1) only if thecancellation, termination, or failure to proceed involves the loss of 2,500 or more full-time Department of Defense and contractor employee positions in the locality of the affected community.
 
 “(4) In the case of a publicly-announced planned major reduction in Department of Defense spending that will directly and adversely affect a community, assistance may be made under paragraph (1) only if the publicly-announced planned major reduction will result in the loss of 1,000 or more full-time Department of Defense and contractor employee positions over a five-year period in the locality of the affected community.
 
@@ -115,10 +127,6 @@ Subsec. (b)(4) to (6). Pub. L. 100–456, §2805(b), added par. (4) and redesign
 1987—Subsec. (d). Pub. L. 100–26 inserted “the term” after “In this section,”.
 
 1983—Subsec. (b)(2). Pub. L. 98–115 substituted “2,000” for “2,500”.
-
-#### Change of Name
-
-Committee on Armed Services of House of Representatives treated as referring to Committee on National Security of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Effective Date of 1993 Amendment
 
@@ -154,7 +162,7 @@ Pub. L. 102–172, title VIII, §8149, Nov. 26, 1991, 105 Stat. 1214, provided t
 
 #### Defense Economic Adjustment, Diversification, Conversion, and Stabilization
 
-Pub. L. 101–510, div. D, Nov. 5, 1990, 104 Stat. 1848, as amended by Pub. L. 102–190, div. A, title X, §1062(c), Dec. 5, 1991, 105 Stat. 1475; Pub. L. 102–484, div. D, title XLII, §4212(b), Oct. 23, 1992, 106 Stat. 2664, provided that:
+Pub. L. 101–510, div. D, Nov. 5, 1990, 104 Stat. 1848, as amended by Pub. L. 102–190, div. A, title X, §1062(c), Dec. 5, 1991, 105 Stat. 1475; Pub. L. 102–484, div. D, title XLII, §4212(b), Oct. 23, 1992, 106 Stat. 2664; Pub. L. 104–201, div. A, title VIII, §825, Sept. 23, 1996, 110 Stat. 2611, provided that:
 
 #### “SEC. 4001. SHORT TITLE
 
@@ -260,41 +268,7 @@ Duties of Committee.—The Economic Adjustment Committee shall—
 
 #### “TITLE XLI—ECONOMIC ADJUSTMENT PLANNING
 
-#### “SEC. 4101. NOTIFICATION
-
-“(a)
-
-In General.—The Chairman of Economic Adjustment Committee shall establish procedures to ensure that the head of the appropriate Federal agencies promptly notify the appropriate official or other person or party described in subsection (b) with respect to any community, business, or group of workers that may be substantially and seriously affected as a result of—
-
-&emsp;“(1) the annual budget of the President submitted to Congress pursuant to section 1105 of title 31, United States Code, and any longer-term guidance document of the Secretary of Defense;
-
-&emsp;“(2) the public announcement of the realignment or closure of a military installation or defense facility; or
-
-&emsp;“(3) the cancellation or curtailment of a major defense contract.
-
-“(b)
-
-Persons To Receive Notice.—The officials, persons, and other parties referred to in subsection (a) are—
-
-&emsp;“(1) the chief elected executive official of an affected State;
-
-&emsp;“(2) the mayor of an affected city;
-
-&emsp;“(3) the executive or other appropriate representative of any other affected political subdivision of a State; and
-
-&emsp;“(4) the head of a national or international labor organization, the headquarters of which is located in the United States, which represents a substantially and seriously affected group of workers.
-
-“(c)
-
-Benefit Information Required to Accompany Notice.—Each notice under subsection (a) shall contain information describing Federal economic adjustment programs available to communities, businesses, and groups of workers.
-
-“(d)
-
-Notification of Communities Affected by Defense Realignment Before Date of Enactment.—The information provided under subsection (a) shall include information regarding actions referred to in such subsection which were—
-
-&emsp;“(1) proposed in the budget of the President which was submitted to Congress during the period beginning on January 1, 1990, and ending on the date of the enactment of this Act \[Nov. 5, 1990\]; or
-
-&emsp;“(2) otherwise announced during such period.
+#### “\[SEC. 4101. Repealed. Pub. L. 104–201, div. A, title VIII, §825, Sept. 23, 1996, 110 Stat. 2611.\]
 
 #### “SEC. 4102. ECONOMIC ADJUSTMENT PLANNING ASSISTANCE THROUGH THE DEPARTMENT OF DEFENSE
 
@@ -316,27 +290,7 @@ Authorization of Appropriations.—There are authorized to be appropriated to th
 
 #### “TITLE XLII—ADJUSTMENT ASSISTANCE FOR EMPLOYEES
 
-#### “SEC. 4201. SECRETARY OF DEFENSE NOTICE REQUIREMENT
-
-“(a)
-
-Information to be Provided.—The Secretary of Defense shall—
-
-&emsp;“(1) provide timely information to the Secretary of Labor on—
-
-&emsp;&emsp;“(A) any proposed closure of, or substantial reduction in, military installations; and
-
-&emsp;&emsp;“(B) any proposed cancellation of, or reduction in, any contract for products or services for the Department of Defense,
-
-> &emsp;if the proposed closure, cancellation, or reduction will have a substantial impact on employment;
-
-&emsp;“(2) when feasible, identify the location at which employment which will be affected by such closure, cancellation, or reduction; and
-
-&emsp;“(3) provide to the Secretary of Labor information with respect to such proposed closure, cancellation, or reduction.
-
-“(b)
-
-Notification to Governor of State Concerned.—If the Secretary of Labor receives information under subsection (a), the Secretary shall notify the Governor of each State in which such proposed closure, cancellation, or reduction will occur pursuant to guidelines established by the Economic Adjustment Committee to avoid duplicative notification.
+#### “\[SEC. 4201. Repealed. Pub. L. 104–201, div. A, title VIII, §825, Sept. 23, 1996, 110 Stat. 2611.\]
 
 #### “SEC. 4202. DEFENSE CONVERSION ADJUSTMENT PROGRAM
 
@@ -492,7 +446,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 Section 1. <i>Function of the Secretary of Defense</i>. The Secretary of Defense shall, through the Economic Adjustment Committee, design and establish a Defense Economic Adjustment Program.
 
-Sec. 2. <i>Purpose of the Defense Economic Adjustment Program</i>. The Defense Economic Adjustment Program shall assist in the alleviation of serious community socioeconomic effects that result from major Defense base closures, realignments, and Defense contract-relatedadjustments, and the encroachment of the civilian community on the mission of military installations.
+Sec. 2. <i>Purpose of the Defense Economic Adjustment Program</i>. The Defense Economic Adjustment Program shall assist in the alleviation of serious community socioeconomic effects that result from major Defense base closures, realignments, and Defense contract-related adjustments, and the encroachment of the civilian community on the mission of military installations.
 
 Sec. 3. <i>Functions of the Defense Economic Adjustment Program</i>. The Defense Economic Adjustment Program shall:
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretaries may not provide an implementation grant under section 6142 of this title to aState unless the State agrees that the State will use all amounts received from such grant to implement the statewide School-to-Work Opportunities system in accordance with this section.
+The Secretaries may not provide an implementation grant under section 6142 of this title to a State unless the State agrees that the State will use all amounts received from such grant to implement the statewide School-to-Work Opportunities system in accordance with this section.
 
 #### (b) Subgrants to local partnerships
 
@@ -70,7 +70,7 @@ The Secretaries may not provide an implementation grant under section 6142 of th
 
 &emsp;&emsp;(K) establishing or expanding school-to-apprenticeship programs in cooperation with registered apprenticeship agencies and apprenticeship sponsors;
 
-&emsp;&emsp;(L) assisting participating employers, including small- and medium-size businesses,to identify and train workplace mentors and to develop work-based learning components;
+&emsp;&emsp;(L) assisting participating employers, including small- and medium-size businesses, to identify and train workplace mentors and to develop work-based learning components;
 
 &emsp;&emsp;(M) promoting the formation of partnerships between elementary schools and secondary schools (including middle schools) and local businesses as an investment in future workplace productivity and competitiveness;
 

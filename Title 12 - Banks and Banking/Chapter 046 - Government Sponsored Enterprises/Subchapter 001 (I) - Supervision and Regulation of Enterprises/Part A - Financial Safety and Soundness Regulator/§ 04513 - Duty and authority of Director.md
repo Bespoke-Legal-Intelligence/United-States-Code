@@ -46,7 +46,7 @@ The Director shall not be required to obtain the prior approval, comment, or rev
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a) and (b)(11), was in the original “this title”, meaning title XIII of Pub. L. 102–550, Oct. 28, 1992, 106 Stat. 3941, which isclassified principally to this chapter. For complete classification of title XIII to the Code, see Short Title note set out under section 4501 of this title and Tables.
+This chapter, referred to in subsecs. (a) and (b)(11), was in the original “this title”, meaning title XIII of Pub. L. 102–550, Oct. 28, 1992, 106 Stat. 3941, which is classified principally to this chapter. For complete classification of title XIII to the Code, see Short Title note set out under section 4501 of this title and Tables.
 
 #### Section Referred to in Other Sections
 

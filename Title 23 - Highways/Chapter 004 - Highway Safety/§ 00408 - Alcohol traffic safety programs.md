@@ -26,7 +26,7 @@
 
 &emsp;(C) that any person with a blood alcohol concentration of 0.10 percent or greater when driving a motor vehicle shall be deemed to be driving while intoxicated; and
 
-&emsp;(D) for increased efforts or resources dedicated to the enforcement of alcohol-related traffic laws and increased efforts to inform the public of such enforcement.
+&emsp;(D) for increased efforts or resources dedicated to the enforcement of alcohol-relatedtraffic laws and increased efforts to inform the public of such enforcement.
 
 (2) For purposes of this section, a State is eligible for a supplemental grant if such State is eligible for a basic grant and in addition provides for some or all of the criteria established by the Secretary under subsection (f).
 
@@ -90,7 +90,7 @@ Subsec. (f)(8). Pub. L. 98–363, §4(c), added par. (8).
 
 #### Effectiveness of Drunk Driving Laws
 
-Pub. L. 104–59, title III, §358(d), Nov. 28, 1995, 109 Stat. 626, provided that: “The Secretary shall conduct a study to evaluate the effectiveness on reducing drunk driving and appropriateness of laws enacted in the States which allow a health care provider who treats an individual involved in a vehicular accident to report the blood alcohol level, if known, of such individual to the local law enforcement agency which has jurisdiction over the accident site if the blood alcohol concentration level exceeds the maximum level permitted under State law.”
+Pub. L. 104–59, title III, §358(d), Nov. 28, 1995, 109 Stat. 626, provided that: “The Secretary shall conduct astudy to evaluate the effectiveness on reducing drunk driving and appropriateness of laws enacted in the States which allow a health care provider who treats an individual involved in a vehicular accident to report the blood alcohol level, if known, of such individual to the local law enforcement agency which has jurisdiction over the accident site if the blood alcohol concentration level exceeds the maximum level permitted under State law.”
 
 #### Minimum Drinking Age
 

@@ -24,7 +24,7 @@ From the amount made available under section 7104(a) <sup>1</sup> of this title
 
 #### (2) Minimum
 
-&emsp;For any fiscal year, no State shall be allotted under this subsection an amount that is less than one-half of 1 percent of the total amount allotted to all the States under this subsection.
+&emsp;For any fiscal year, no State shall be allotted under this subsection an amount that isless than one-half of 1 percent of the total amount allotted to all the States under this subsection.
 
 #### (3) Reallotment
 

@@ -18,7 +18,7 @@ The provisions of sections 206 (except subsection (d) in the case of paragraph (
 
 &emsp;(7) any employee to the extent that such employee is exempted by regulations, order, or certificate of the Secretary issued under section 214 of this title; or
 
-&emsp;(8) any employee employed in connection with the publication of any weekly, semiweekly, or daily newspaper with a circulation of less than four thousand the major part of which circulation is within the county where published or counties contiguous thereto; or
+&emsp;(8) any employee employed in connection with the publication of any weekly, semiweekly, or daily newspaper with a circulation of less than four thousand the major part ofwhich circulation is within the county where published or counties contiguous thereto; or
 
 &emsp;(9) Repealed. Pub. L. 93–259, §23(a)(1), Apr. 8, 1974, 88 Stat. 69.
 
@@ -32,7 +32,19 @@ The provisions of sections 206 (except subsection (d) in the case of paragraph (
 
 &emsp;(15) any employee employed on a casual basis in domestic service employment to provide babysitting services or any employee employed in domestic service employment to provide companionship services for individuals who (because of age or infirmity) are unable to care for themselves (as such terms are defined and delimited by regulations of the Secretary); or
 
-&emsp;(16) a criminal investigator who is paid availability pay under section 5545a of title 5.
+&emsp;(16) a criminal investigator who is paid availability pay under section 5545a of title 5; or
+
+&emsp;(17) any employee who is a computer systems analyst, computer programmer, software engineer, or other similarly skilled worker, whose primary duty is—
+
+&emsp;&emsp;(A) the application of systems analysis techniques and procedures, including consulting with users, to determine hardware, software, or system functional specifications;
+
+&emsp;&emsp;(B) the design, development, documentation, analysis, creation, testing, or modification of computer systems or programs, including prototypes, based on and related to user or system design specifications;
+
+&emsp;&emsp;(C) the design, documentation, testing, creation, or modification of computer programs related to machine operating systems; or
+
+&emsp;&emsp;(D) a combination of duties described in subparagraphs (A), (B), and (C) the performance of which requires the same level of skills, and
+
+> &emsp;who, in the case of an employee who is compensated on an hourly basis, is compensated at a rate of not less than $27.63 an hour.
 
 #### (b) Maximum hour requirements
 
@@ -136,6 +148,58 @@ The provisions of section 207 of this title shall not apply with respect to—
 
 &emsp;(iii) such individuals be employed under such waiver (I) for not more than eight weeks between June 1 and October 15 of any calendar year, and (II) in accordance with such other terms and conditions as the Secretary shall prescribe for such individuals’ protection.
 
+(5)(A) In the administration and enforcement of the child labor provisions of this chapter, employees who are 16 and 17 years of age shall be permitted to load materials into, but not operate or unload materials from, scrap paper balers and paper box compactors—
+
+&emsp;(i) that are safe for 16- and 17-year-old employees loading the scrap paper balers or paper box compactors; and
+
+&emsp;(ii) that cannot be operated while being loaded.
+
+(B) For purposes of subparagraph (A), scrap paper balers and paper box compactors shall be considered safe for 16- or 17-year-old employees to load only if—
+
+&emsp;(i)(I) the scrap paper balers and paper box compactors meet the American National Standards Institute's Standard ANSI Z245.5–1990 for scrap paper balers and Standard ANSI Z245.2–1992 for paper box compactors; or
+
+&emsp;(II) the scrap paper balers and paper box compactors meet an applicable standard that is adopted by the American National Standards Institute after August 6, 1996, and that is certified by the Secretary to be at least as protective of the safety of minors as the standard described in subclause (I);
+
+&emsp;(ii) the scrap paper balers and paper box compactors include an on-off switch incorporating a key-lock or other system and the control of the system is maintained in the custody of employees who are 18 years of age or older;
+
+&emsp;(iii) the on-off switch of the scrap paper balers and paper box compactors is maintained in an off position when the scrap paper balers and paper box compactors are not in operation; and
+
+&emsp;(iv) the employer of 16- and 17-year-old employees provides notice, and posts a notice, on the scrap paper balers and paper box compactors stating that—
+
+&emsp;&emsp;(I) the scrap paper balers and paper box compactors meet the applicable standard described in clause (i);
+
+&emsp;&emsp;(II) 16- and 17-year-old employees may only load the scrap paper balers and paper box compactors; and
+
+&emsp;&emsp;(III) any employee under the age of 18 may not operate or unload the scrap paper balers and paper box compactors.
+
+> The Secretary shall publish in the Federal Register a standard that is adopted by the American National Standards Institute for scrap paper balers or paper box compactors and certified by the Secretary to be protective of the safety of minors under clause (i)(II).
+
+(C)(i) Employers shall prepare and submit to the Secretary reports—
+
+&emsp;(I) on any injury to an employee under the age of 18 that requires medical treatment (other than first aid) resulting from the employee's contact with a scrap paper baler or paper box compactor during the loading, operation, or unloading of the baler or compactor; and
+
+&emsp;(II) on any fatality of an employee under the age of 18 resulting from the employee's contact with a scrap paper baler or paper box compactor during the loading, operation, or unloading of the baler or compactor.
+
+(ii) The reports described in clause (i) shall be used by the Secretary to determine whether or not the implementation of subparagraph (A) has had any effect on the safety of children.
+
+(iii) The reports described in clause (i) shall provide—
+
+&emsp;(I) the name, telephone number, and address of the employer and the address of the place of employment where the incident occurred;
+
+&emsp;(II) the name, telephone number, and address of the employee who suffered an injury or death as a result of the incident;
+
+&emsp;(III) the date of the incident;
+
+&emsp;(IV) a description of the injury and a narrative describing how the incident occurred; and
+
+&emsp;(V) the name of the manufacturer and the model number of the scrap paper baler or paper box compactor involved in the incident.
+
+(iv) The reports described in clause (i) shall be submitted to the Secretary promptly, but not later than 10 days after the date on which an incident relating to an injury or death occurred.
+
+(v) The Secretary may not rely solely on the reports described in clause (i) as the basis for making a determination that any of the employers described in clause (i) has violated a provision of section 212 of this title relating to oppressive child labor or a regulation or order issued pursuant to section 212 of this title. The Secretary shall, prior to making such a determination, conduct an investigation and inspection in accordance with section 212(b) of this title.
+
+(vi) The reporting requirements of this subparagraph shall expire 2 years after August 6, 1996.
+
 #### (d) Delivery of newspapers and wreathmaking
 
 The provisions of sections 206, 207, and 212 of this title shall not apply with respect to any employee engaged in the delivery of newspapers to the consumer or to any homeworker engaged in the making of wreaths composed principally of natural holly, pine, cedar, or other evergreens (including the harvesting of the evergreens or other forest products used in making such wreaths).
@@ -146,7 +210,7 @@ The provisions of section 207 of this title shall not apply with respect to empl
 
 #### (f) Employment in foreign countries and certain United States territories
 
-The provisions of sections 206, 207, 211, and 212 of this title shall not apply with respect to any employee whose services during the workweek are performed in a workplace within a foreigncountry or within territory under the jurisdiction of the United States other than the following: a State of the United States; the District of Columbia; Puerto Rico; the Virgin Islands; outer Continental Shelf lands defined in the Outer Continental Shelf Lands Act (ch. 345, 67 Stat. 462) \[43 U.S.C. 1331 et seq.\]; American Samoa; Guam; Wake Island; Eniwetok Atoll; Kwajalein Atoll; and Johnston Island.
+The provisions of sections 206, 207, 211, and 212 of this title shall not apply with respect to any employee whose services during the workweek are performed in a workplace within a foreign country or within territory under the jurisdiction of the United States other than the following: a State of the United States; the District of Columbia; Puerto Rico; the Virgin Islands; outer Continental Shelf lands defined in the Outer Continental Shelf Lands Act (ch. 345, 67 Stat. 462) \[43 U.S.C. 1331 et seq.\]; American Samoa; Guam; Wake Island; Eniwetok Atoll; Kwajalein Atoll; and Johnston Island.
 
 #### (g) Certain employment in retail or service establishments, agriculture
 
@@ -202,9 +266,9 @@ The provisions of section 207 of this title shall not apply for a period or peri
 
 &emsp;&emsp;(B) in excess of forty-eight hours in any workweek,
 
-> &emsp;compensation at a rate not less than one and one-half times the regular rate at which he is employed. No week included in any fifty-two week period for purposes of the preceding sentence may be included for such purposes in any other fifty-two week period.
+> &emsp;compensation at a rate not less than one and one-half times the regular rate at which he isemployed. No week included in any fifty-two week period for purposes of the preceding sentence may be included for such purposes in any other fifty-two week period.
 
-(June 25, 1938, ch. 676, §13, 52 Stat. 1067; Aug. 9, 1939, ch. 605, 53 Stat. 1266; Oct. 26, 1949, ch. 736, §11, 63 Stat. 917; Aug. 8, 1956, ch. 1035, §3, 70 Stat. 1118; Aug. 30, 1957, Pub. L. 85–231, §1(1), 71 Stat. 514; July 12, 1960, Pub. L. 86–624, §21(b), 74 Stat. 417; May 5, 1961, Pub. L. 87–30, §§9, 10, 75 Stat. 71, 74; Sept. 23, 1966, Pub. L. 89–601, title II, §§201–204(a), (b), 205–212(a), 213, 214, 215(b), (c), 80 Stat. 833–838; Oct. 15, 1966, Pub. L. 89–670, §8(e), 80 Stat. 943; 1970 Reorg. Plan No. 2, §102, eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2085; June 23, 1972, Pub. L. 92–318, title IX, §906(b)(1), 86 Stat. 375; Apr. 8, 1974, Pub. L. 93–259, §§6(c)(2), 7(b)(3), (4), 8, 9(b), 10, 11, 12(a), 13(a)–(d), 14–18, 20(a)–(c), 21(b), 22, 23, 25(b), 88 Stat. 61–69, 72; Nov. 1, 1977, Pub. L. 95–151, §§4–8, 9(d), 11, 14, 91 Stat. 1249, 1250–1252; Sept. 27, 1979, Pub. L. 96–70, title I, §1225(a), 93 Stat. 468; Nov. 17, 1989, Pub. L. 101–157, §3(c), 103 Stat. 939; Sept. 30, 1994, Pub. L. 103–329, title VI, §633(d), 108 Stat. 2428; Dec. 29, 1995, Pub. L. 104–88, title III, §340, 109 Stat. 955.)
+(June 25, 1938, ch. 676, §13, 52 Stat. 1067; Aug. 9, 1939, ch. 605, 53 Stat. 1266; Oct. 26, 1949, ch. 736, §11, 63 Stat. 917; Aug. 8, 1956, ch. 1035, §3, 70 Stat. 1118; Aug. 30, 1957, Pub. L. 85–231, §1(1), 71 Stat. 514; July 12, 1960, Pub. L. 86–624, §21(b), 74 Stat. 417; May 5, 1961, Pub. L. 87–30, §§9, 10, 75 Stat. 71, 74; Sept. 23, 1966, Pub. L. 89–601, title II, §§201–204(a), (b), 205–212(a), 213, 214, 215(b), (c), 80 Stat. 833–838; Oct. 15, 1966, Pub. L. 89–670, §8(e), 80 Stat. 943; 1970 Reorg. Plan No. 2, §102, eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2085; June 23, 1972, Pub. L. 92–318, title IX, §906(b)(1), 86 Stat. 375; Apr. 8, 1974, Pub. L. 93–259, §§6(c)(2), 7(b)(3), (4), 8, 9(b), 10, 11, 12(a), 13(a)–(d), 14–18, 20(a)–(c), 21(b), 22, 23, 25(b), 88 Stat. 61–69, 72; Nov. 1, 1977, Pub. L. 95–151, §§4–8, 9(d), 11, 14, 91 Stat. 1249, 1250–1252; Sept. 27, 1979, Pub. L. 96–70, title I, §1225(a), 93 Stat. 468; Nov. 17, 1989, Pub. L. 101–157, §3(c), 103 Stat. 939; Sept. 30, 1994, Pub. L. 103–329, title VI, §633(d), 108 Stat. 2428; Dec. 29, 1995, Pub. L. 104–88, title III, §340, 109 Stat. 955; Aug. 6, 1996, Pub. L. 104–174, §1, 110 Stat. 1553; Aug. 20, 1996, Pub. L. 104–188, \[title II\], §2105(a), 110 Stat. 1929.)
 
 #### References in Text
 
@@ -219,6 +283,10 @@ In subsec. (a)(1), “subchapter II of chapter 5 of title 5” substituted for �
 In subsec. (b)(1), “section 31502 of title 49” substituted for “section 3102 of title 49” on authority of Pub. L. 103–272, §§1(c), (e), 6(b), July 5, 1994, 108 Stat. 745, 862, 1029, 1378. Previously, “section 3102 of title 49” substituted for “section 204 of the Motor Carrier Act, 1935 \[49 U.S.C. 304\]”, on authority of Pub. L. 97–449, §6(b), Jan. 12, 1983, 96 Stat. 2443, the first section of which enacted subtitle I (§101 et seq.) and chapter 31 (§3101 et seq.) of subtitle II of Title 49, Transportation.
 
 #### Amendments
+
+1996—Subsec. (a)(17). Pub. L. 104–188 added par. (17).
+
+Subsec. (c)(5). Pub. L. 104–174 added par. (5).
 
 1995—Subsec. (b)(2). Pub. L. 104–88 substituted “rail carrier subject to part A of subtitle IV of title 49” for “common carrier by rail and subject to the provisions of part I of the Interstate Commerce Act”.
 
@@ -272,7 +340,7 @@ Subsec. (b)(2). Pub. L. 93–259, §23(c), amended par. (2) (insofar as it relat
 
 Subsec. (b)(4). Pub. L. 93–259, §11(a), effective May 1, 1974, inserted “who is” after “employee” and “, and who receives compensation for employment in excess of forty-eight hours in any workweek at a rate not less than one and one-half times the regular rate at which he is employed” before the semi-colon. Pub. L. 93–259, §11(b), substituted “forty-four hours” for “forty-eight hours” effective one year after May 1, 1974. Pub. L. 93–259, §11(c), repealed subsec. (b)(4) effective two years after May 1, 1974.
 
-Subsec. (b)(7). Pub. L. 93–259, §21(b)(1), substituted “(regardless of whether or not such railway or carrier is public or private or operated for profit or not for profit), if such employee receives compensation for employment in excess of forty-eight hours in any workweek at a rate not less than one and one-half times the regular rate at which he is employed” for “, if the rates and services of such railway or carrier are subject to regulation by a State or local agency” effective May 1, 1974. Pub. L. 93–259, §21(b)(2), substituted “forty-four hours” for “forty-eight hours” effective one year afterMay 1, 1974. Pub. L. 93–259, §21(b)(3) repealed subsec. (b)(7) effective two years after May 1, 1974.
+Subsec. (b)(7). Pub. L. 93–259, §21(b)(1), substituted “(regardless of whether or not such railway or carrier is public or private or operated for profit or not for profit), if such employee receives compensation for employment in excess of forty-eight hours in any workweek at a rate not less than one and one-half times the regular rate at which he is employed” for “, if the rates and services of such railway or carrier are subject to regulation by a State or local agency” effective May 1, 1974. Pub. L. 93–259, §21(b)(2), substituted “forty-four hours” for “forty-eight hours” effective one year after May 1, 1974. Pub. L. 93–259, §21(b)(3) repealed subsec. (b)(7) effective two years after May 1, 1974.
 
 Subsec. (b)(8). Pub. L. 93–259, §§12(a), 13(a), effective May 1, 1974, insofar as relating to nursing home employees, struck out exemption provision respecting any employee who is employed by an establishment which is an institution (other than a hospital) primarily engaged in the care of the sick, the aged, or the mentally ill or defective who reside on the premises, and receives compensation for employment in excess of forty-eight hours in any workweek at a rate not less than one and one-half times the regular rate at which he is employed, and insofar as relating to a hotel, motel, and restaurant employees, substituted “(A) any employee (other than an employee of a hotel or motel who performs maid or custodial services) who is” for “any employee”, inserted before the semicolon “and who receives compensation for employment in excess of forty-eight hours in any workweek at a rate not less than one and one-half times the regular rate at which he is employed”, and added subpar. (B). Pub. L. 93–259, §13(b), effective one year after May 1, 1974, substituted “forty-six hours” for “forty-eight hours” in subparas. (A) and (B). Pub. L. 93–259, §13(c), effective two years after May 1, 1974, substituted “forty-four hours” for “forty-six hours” in subpar. (B). Pub. L. 93–259, §13(d), repealed subsec. (b)(8)(B) and eliminated the designation (A), effective three years after May 1, 1974.
 
@@ -486,7 +554,7 @@ Amendment by Pub. L. 87–30 effective upon expiration of one hundred and twenty
 
 #### Effective Date of 1957 Amendment
 
-Pub. L. 85–231, §2, provided that: “The amendments made by this Act \[amending this section and sections 216 and 217 of this title\] shall take effect upon the expiration of ninety days from the date of its enactment \[Aug. 30, 1957\].”
+Pub. L. 85–231, §2, provided that: “The amendments made by this Act \[amending this section and sections216 and 217 of this title\] shall take effect upon the expiration of ninety days from the date of its enactment \[Aug. 30, 1957\].”
 
 #### Effective Date of 1949 Amendment
 
@@ -497,6 +565,10 @@ Amendment by act Oct. 26, 1949, effective ninety days after Oct. 26, 1949, see s
 Functions vested by law (including reorganization plans) in Bureau of the Budget or Director of Bureau of the Budget transferred to President of the United States by section 101 of Reorg. Plan No. 2 of 1970, eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2085, set out in the Appendix to Title 5, Government Organization and Employees. Section 102 of Reorg. Plan No. 2 of 1970 redesignated Bureau of the Budget as Office of Management and Budget.
 
 For transfer of functions of other officers, employees, and agencies of Department of Labor, with certain exceptions, to Secretary of Labor, with power to delegate, see Reorg. Plan No. 6 of 1950, §§1, 2, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5.
+
+#### Exemptions for Apprentices and Student Learners
+
+Section 3 of Pub. L. 104–174 provided that: “Section 1 \[amending this section\] shall not be construed as affecting the exemption for apprentices and student learners published in section 570.63 of title 29, Code of Federal Regulations.”
 
 #### Regulations Concerning Computer, Software, and Other Similarly Skilled Professionals
 

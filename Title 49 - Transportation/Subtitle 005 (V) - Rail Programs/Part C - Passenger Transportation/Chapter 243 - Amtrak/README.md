@@ -22,7 +22,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in section 24104 of this title; title 45 section 1104.
+This chapter is referred to in sections 24104, 24902 of this title; title 45 section 1104.
 
 
 ---

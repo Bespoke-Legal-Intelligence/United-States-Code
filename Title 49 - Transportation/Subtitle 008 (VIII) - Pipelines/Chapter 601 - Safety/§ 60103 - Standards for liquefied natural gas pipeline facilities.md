@@ -64,7 +64,7 @@ Operation and Maintenance Standards.—The Secretary of Transportation shall pre
 
 (e)
 
-Effective Dates.—A standard prescribed under this section is effective on the 30th day after the Secretary of Transportation prescribes the standard. However, the Secretary for good cause may prescribe a different effective date when required because of the time reasonably necessary to comply with the standard. The different date must be specified in the regulation prescribing the standard.
+Effective Dates.—A standard prescribed under this section is effective on the 30th dayafter the Secretary of Transportation prescribes the standard. However, the Secretary for good cause may prescribe a different effective date when required because of the time reasonably necessary to comply with the standard. The different date must be specified in the regulation prescribing the standard.
 
 (f)
 
@@ -78,7 +78,9 @@ Effect on Other Standards.—This section does not preclude applying a standard 
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -112,7 +114,7 @@ Aug. 12, 1968, Pub. L. 90–481, 82 Stat. 720, §6; added Nov. 30, 1979, Pub. L.
 
 60103(f)
 
-49 App.:1674a (a)(3).
+49 App.:1674a(a)(3).
 
 60103(g)
 
@@ -124,7 +126,7 @@ In subsections (a) and (b), before each clause (1), the words “Not later than 
 
 In subsection (a), before clause (1), the words “with respect to standards relating to the location of any new LNG facility” are omitted because of the restatement. In clause (2), the word “involved” is omitted as surplus. In clause (4), the words “meteorological, geological, topographical, seismic, and other” are omitted as surplus. In clause (5), the word “existing” is omitted as surplus.
 
-In subsection (b), before clause (1), the text of 49 App.:1674a(a)(2) (1st sentence) is omitted as executed. The text of 49 App.:1674a(a)(2) (last sentence) is omitted as surplus. The words “with respect to standards applicable to the design, installation, construction, initial inspection, and initial testing of any new LNG facility” are omitted because of the restatement. In clause (1), the words “thermal resistance and other” are omitted as surplus. In clause (2), the words “(such as multiplediking, insulated concrete, and vapor containment barriers)” are omitted as surplus. In clause (3), the words “(for example, whether it is to be in a liquid or semisolid state)” are omitted as surplus. In clause (4), the words “under such a design” are omitted as surplus.
+In subsection (b), before clause (1), the text of 49 App.:1674a(a)(2) (1st sentence) is omitted as executed. The text of 49 App.:1674a(a)(2) (last sentence) is omitted as surplus. The words “with respect to standards applicable to the design, installation, construction, initial inspection, and initial testing of any new LNG facility” are omitted because of the restatement. In clause (1), the words “thermal resistance and other” are omitted as surplus. In clause (2), the words “(such as multiple diking, insulated concrete, and vapor containment barriers)” are omitted as surplus. In clause (3), the words “(for example, whether it is to be in a liquid or semisolid state)” are omitted as surplus. In clause (4), the words “under such a design” are omitted as surplus.
 
 In subsection (c)(1) and (2), the word “prescribed” is substituted for “issued” for consistency in the revised title and with other titles of the Code.
 

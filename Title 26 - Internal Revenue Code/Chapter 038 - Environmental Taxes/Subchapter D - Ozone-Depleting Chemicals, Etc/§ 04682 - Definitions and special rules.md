@@ -16,9 +16,8 @@ For purposes of this subchapter—
 
 &nbsp;
 
-| &nbsp; | &nbsp; |
-| :--- | ---: |
 | <b>Common name:</b> | <b>Chemical nomenclature:</b> |
+| :--- | ---: |
 | CFC–11 | &nbsp;trichlorofluoromethane |
 | CFC–12 | &nbsp;dichlorodifluoromethane |
 | CFC–113 | &nbsp;trichlorotrifluoroethane |
@@ -50,79 +49,79 @@ Ozone-depleting chemical:
 
 &emsp;&emsp;CFC–11
 
-1\.0&nbsp;
+1\.0&nbsp;&nbsp;
 
 &emsp;&emsp;CFC–12
 
-1\.0&nbsp;
+1\.0&nbsp;&nbsp;
 
 &emsp;&emsp;CFC–113
 
-0\.8&nbsp;
+0\.8&nbsp;&nbsp;
 
 &emsp;&emsp;CFC–114
 
-1\.0&nbsp;
+1\.0&nbsp;&nbsp;
 
 &emsp;&emsp;CFC–115
 
-0\.6&nbsp;
+0\.6&nbsp;&nbsp;
 
 &emsp;&emsp;Halon-1211
 
-3\.0&nbsp;
+3\.0&nbsp;&nbsp;
 
 &emsp;&emsp;Halon-1301
 
-10\.0&nbsp;
+10\.0&nbsp;&nbsp;
 
 &emsp;&emsp;Halon-2402
 
-6\.0&nbsp;
+6\.0&nbsp;&nbsp;
 
 &emsp;&emsp;Carbon tetrachloride
 
-1\.1&nbsp;
+1\.1&nbsp;&nbsp;
 
 &emsp;&emsp;Methyl chloroform
 
-0\.1&nbsp;
+0\.1&nbsp;&nbsp;
 
 &emsp;&emsp;CFC–13.
 
-1\.0&nbsp;
+1\.0&nbsp;&nbsp;
 
 &emsp;&emsp;CFC–111
 
-1\.0&nbsp;
+1\.0&nbsp;&nbsp;
 
 &emsp;&emsp;CFC–112
 
-1\.0&nbsp;
+1\.0&nbsp;&nbsp;
 
 &emsp;&emsp;CFC–211
 
-1\.0&nbsp;
+1\.0&nbsp;&nbsp;
 
 &emsp;&emsp;CFC–212
 
-1\.0&nbsp;
+1\.0&nbsp;&nbsp;
 
 &emsp;&emsp;CFC–213
 
-1\.0&nbsp;
+1\.0&nbsp;&nbsp;
 
 &emsp;&emsp;CFC–214
 
-1\.0&nbsp;
+1\.0&nbsp;&nbsp;
 
 &emsp;&emsp;CFC–215
 
-1\.0&nbsp;
+1\.0&nbsp;&nbsp;
 
 &emsp;&emsp;CFC–216
 
-1\.0&nbsp;
+1\.0&nbsp;&nbsp;
 
 &emsp;&emsp;CFC–217
 
@@ -146,7 +145,7 @@ For purposes of this subchapter—
 
 #### (1) Recycling
 
-&emsp;No tax shall be imposed by section 4681 on any ozone-depleting chemical which is diverted or recovered in the United States as part of a recycling process (and not as part of the original manufacturing or production process).
+&emsp;No tax shall be imposed by section 4681 on any ozone-depleting chemical which is diverted or recovered in the United States as part of a recycling process (and not as part of the original manufacturing or production process), or on any recycled halon imported from any country which is a signatory to the Montreal Protocol on Substances that Deplete the Ozone Layer.
 
 #### (2) Use in further manufacture
 
@@ -194,7 +193,7 @@ For purposes of this subchapter—
 
 #### (ii) 1986 export percentage
 
-&emsp;&emsp;&emsp;A person's 1986 export percentage is the percentage equal to the ozone-depletion factor adjusted pounds of ozone-depleting chemicals manufactured or produced by such person during 1986 which were exported during 1986, divided by the ozone-depletion factor adjusted pounds of all ozone-depleting chemicals manufactured or produced by such person during 1986.The percentage determined under the preceding sentence shall be computed by taking into account the sum of such person's direct 1986 exports (as determined by the Environmental Protection Agency) and such person's indirect 1986 exports (as allocated to such person by such Agency in determining such person's consumption and production rights for ozone-depleting chemicals).
+&emsp;&emsp;&emsp;A person's 1986 export percentage is the percentage equal to the ozone-depletion factor adjusted pounds of ozone-depleting chemicals manufactured or produced by such person during 1986 which were exported during 1986, divided by the ozone-depletion factor adjusted pounds of all ozone-depleting chemicals manufactured or produced by such person during 1986. The percentage determined under the preceding sentence shall be computed by taking into account the sum of such person's direct 1986 exports (as determined by the Environmental Protection Agency) and such person's indirect 1986 exports (as allocated to such person by such Agency in determining such person's consumption and production rights for ozone-depleting chemicals).
 
 #### (C) Separate application of limit for newly listed chemicals
 
@@ -280,11 +279,11 @@ For purposes of this subchapter—
 
 &emsp;&emsp;Halon-1211
 
-2\.49&nbsp;
+2\.49&nbsp;&nbsp;
 
 &emsp;&emsp;Halon-1301
 
-0\.75&nbsp;
+0\.75&nbsp;&nbsp;
 
 &emsp;&emsp;Halon-2402
 
@@ -326,27 +325,25 @@ For purposes of this subchapter—
 
 &emsp;&emsp;(B) the tax (if any) which would be imposed by section 4681 if such substance were used for such use by the manufacturer, producer, or importer thereof on the date of its use by such person.
 
-> &emsp;Amounts payable under the preceding sentence with respect to uses during the taxable year shall be treated as described in section34(a) for such year unless claim therefor has been timely filed under this paragraph.
+> &emsp;Amounts payable under the preceding sentence with respect to uses during the taxable year shall be treated as described in section 34(a) for such year unless claim therefor has been timely filed under this paragraph.
 
-#### (4) Chemicals used for sterilizing medical instruments and as propellants in metered-dose inhalers
+#### (4) Chemicals used as propellants in metered-dose inhalers
 
-#### (A) Rate of tax
+#### (A) Tax-exempt
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;In the case of—
+&emsp;&emsp;&emsp;No tax shall be imposed by section 4681 on—
 
-&emsp;&emsp;&emsp;&emsp;(I) any use during the applicable period of any substance to sterilize medical instruments or as propellants in metered-dose inhalers, or
+&emsp;&emsp;&emsp;&emsp;(I) any use of any substance as a propellant in metered-dose inhalers, or
 
-&emsp;&emsp;&emsp;&emsp;(II) any qualified sale during such period by the manufacturer, producer, or importer of any substance,
-
-&emsp;&emsp;&nbsp;the tax imposed by section 4681 shall be equal to $1.67 per pound.
+&emsp;&emsp;&emsp;&emsp;(II) any qualified sale by the manufacturer, producer, or importer of any substance.
 
 #### (ii) Qualified sale
 
 &emsp;&emsp;&emsp;For purposes of clause (i), the term “qualified sale” means any sale by the manufacturer, producer, or importer of any substance—
 
-&emsp;&emsp;&emsp;&emsp;(I) for use by the purchaser to sterilize medical instruments or as propellants in metered-dose inhalers, or
+&emsp;&emsp;&emsp;&emsp;(I) for use by the purchaser as a propellant in metered-dose inhalers, or
 
 &emsp;&emsp;&emsp;&emsp;(II) for resale by the purchaser to a 2d purchaser for such use by the 2d purchaser.
 
@@ -354,21 +351,7 @@ For purposes of this subchapter—
 
 #### (B) Overpayments
 
-&emsp;&emsp;If any substance on which tax was paid under this subchapter is used during the applicable period by any person to sterilize medical instruments or as propellants in metered-dose inhalers, credit or refund without interest shall be allowed to such person in an amount equal to the excess of—
-
-&emsp;&emsp;&emsp;(i) the tax paid under this subchapter on such substance, or
-
-&emsp;&emsp;&emsp;(ii) the tax (if any) which would be imposed by section 4681 if such substance were used for such use by the manufacture, producer, or importer thereof on the date of its use by such person.
-
-> &emsp;&emsp;Amounts payable under the preceding sentence with respect to uses during the taxable year shall be treated as described in section 34(a) for such year unless claim thereof has been timely filed under this subparagraph.
-
-#### (C) Applicable period
-
-&emsp;&emsp;For purposes of this paragraph, the term “applicable period” means—
-
-&emsp;&emsp;&emsp;(i) 1993 in the case of substances to sterilize medical instruments, and
-
-&emsp;&emsp;&emsp;(ii) any period after 1992 in the case of propellants in metered-dose inhalers.
+&emsp;&emsp;If any substance on which tax was paid under this subchapter is used by any person as a propellant in metered-dose inhalers, credit or refund without interest shall be allowed to such person in an amount equal to the tax so paid. Amounts payable under the preceding sentence with respect to uses during the taxable year shall be treated as described in section 34(a) for such year unless claim thereof has been timely filed under this subparagraph.
 
 #### (5) Treatment of methyl chloroform
 
@@ -406,13 +389,17 @@ For purposes of this subchapter—
 
 &emsp;All other provisions of law, including penalties, applicable with respect to the taxes imposed by section 4681 shall apply to the floor stocks taxes imposed by this subsection.
 
-(Added Pub. L. 101–239, title VII, §7506(a), Dec. 19, 1989, 103 Stat. 2365; amended Pub. L. 101–508, title XI, §§11203(a), (b), (d), 11701(g), Nov. 5, 1990, 104 Stat. 1388–421, 1388–422, 1388–508; Pub. L. 102–486, title XIX, §§1931(b), (c), 1932(a)–(c), Oct. 24, 1992, 106 Stat. 3029–3031.)
+(Added Pub. L. 101–239, title VII, §7506(a), Dec. 19, 1989, 103 Stat. 2365; amended Pub. L. 101–508, title XI, §§11203(a), (b), (d), 11701(g), Nov. 5, 1990, 104 Stat. 1388–421, 1388–422, 1388–508; Pub. L. 102–486, title XIX, §§1931(b), (c), 1932(a)–(c), Oct. 24, 1992, 106 Stat. 3029–3031; Pub. L. 104–188, title I, §1803(a)(1), (b), Aug. 20, 1996, 110 Stat. 1892, 1893.)
 
 #### Prior Provisions
 
 A prior section 4682, added Pub. L. 96–510, title II, §231(a), Dec. 11, 1980, 94 Stat. 2804, was contained in subchapter C of this chapter, prior to repeal by Pub. L. 99–499, title V, §514(a)(1), (c), Oct. 17, 1986, 100 Stat. 1767, effective Oct. 1, 1983, with provision for waiver of statute of limitations on claims for overpayment.
 
 #### Amendments
+
+1996—Subsec. (d)(1). Pub. L. 104–188, §1803(a)(1), inserted before period at end “, or on any recycled halon imported from any country which is a signatory to the Montreal Protocol on Substances that Deplete the Ozone Layer”.
+
+Subsec. (g)(4). Pub. L. 104–188, §1803(b), amended par. (4) generally, substituting provisions relating to chemicals used as propellants in metered-dose inhalers for provisions relating to chemicals used for sterilizing medical instruments and as propellants in metered-dose inhalers, including provisions relating to rate of tax, overpayments, and applicable period.
 
 1992—Subsec. (g)(2)(A). Pub. L. 102–486, §1932(a), in table, for sales or use during 1993, decreased applicable percentages from 3.3, 1.0, and 1.6 to 2.49, 0.75, and 1.24 in the case of Halon-1211, Halon-1301, and Halon-2402, respectively, and struck out applicable percentages for sales or use during 1991 and 1992.
 
@@ -440,6 +427,26 @@ Subsec. (d)(3)(C). Pub. L. 101–508, §11203(b), added subpar. (C).
 
 Subsec. (h)(3). Pub. L. 101–508, §11203(d)(2), substituted “June 30” for “April 1”.
 
+#### Effective Date of 1996 Amendment
+
+Section 1803(c) of Pub. L. 104–188 provided that:
+
+“(1)
+
+Recycled halon.—
+
+&emsp;“(A)
+
+In general.—Except as provided in subparagraph (B), the amendment made by subsection (a)(1) \[amending this section\] shall take effect on January 1, 1997.
+
+&emsp;“(B)
+
+Halon-1211.—In the case of Halon-1211, the amendment made by subsection (a)(1) shall take effect on January 1, 1998.
+
+“(2)
+
+Metered-dose inhalers.—The amendment made by subsection (b) \[amending this section\] shall take effect on the 7th day after the date of the enactment of this Act \[Aug. 20, 1996\].”
+
 #### Effective Date of 1992 Amendment
 
 Amendment by section 1931(b), (c) of Pub. L. 102–486 applicable to taxable chemicals sold or used on or after Jan. 1, 1993, see section 1931(d) of Pub. L. 102–486, set out as a note under section 4681 of this title.
@@ -451,6 +458,10 @@ Section 1932(d) of Pub. L. 102–486 provided that: “The amendments made by th
 Amendment by section 11203(a), (b), and (d) of Pub. L. 101–508 effective Jan. 1, 1991, see section 11203(e) of Pub. L. 101–508, set out as a note under section 4681 of this title.
 
 Amendment by section 11701(g) of Pub. L. 101–508 effective, except as otherwise provided, as if included in the provision of the Revenue Reconciliation Act of 1989, Pub. L. 101–239, title VII, to which such amendment relates, see section 11701(n) of Pub. L. 101–508, set out as a note under section 42 of this title.
+
+#### Certification System
+
+Section 1803(a)(2) of Pub. L. 104–188 provided that: “The Secretary of the Treasury, after consultation with the Administrator of the Environmental Protection Agency, shall develop a certification system to ensure compliance with the recycling requirement for imported halon under section 4682(d)(1) of the Internal Revenue Code of 1986, as amended by paragraph (1).”
 
 #### Deposits for First Quarter of 1991
 

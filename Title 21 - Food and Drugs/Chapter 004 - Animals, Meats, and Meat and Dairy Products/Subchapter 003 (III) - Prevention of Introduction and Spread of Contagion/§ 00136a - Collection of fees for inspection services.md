@@ -1,60 +1,50 @@
 ### §136a. Collection of fees for inspection services
 
-#### (a) Quarantine, inspection and transportation fees
+#### (a) Quarantine and inspection fees
 
-#### (1) Quarantine and inspection
+#### (1) Fees authorized
 
-#### (A) In general
+&emsp;The Secretary of Agriculture may prescribe and collect fees sufficient—
 
-&emsp;&emsp;The Secretary of Agriculture (hereafter referred to in this section as the “Secretary”) may prescribe and collect fees to cover the cost of providing agricultural quarantine and inspection services in connection with the arrival at a port in the customs territory of the United States, or the preclearance or preinspection at a site outside the customs territory of the United States, of an international passenger, commercial vessel, commercial aircraft, commercial truck, or railroad car.
+&emsp;&emsp;(A) to cover the cost of providing agricultural quarantine and inspection services in connection with the arrival at a port in the customs territory of the United States, or the preclearance or preinspection at a site outside the customs territory of the United States, of an international passenger, commercial vessel, commercial aircraft, commercial truck, or railroad car;
 
-#### (B) Airport inspection services
+&emsp;&emsp;(B) to cover the cost of administering this subsection; and
 
-&emsp;&emsp;For airport inspection services, the Secretary shall collect no more than $69,000,000 in fiscal year 1992 and $75,000,000 in fiscal year 1993 from international airline passengers and commercial aircraft operators.
+&emsp;&emsp;(C) through fiscal year 2002, to maintain a reasonable balance in the Agricultural Quarantine Inspection User Fee Account established under paragraph (5).
 
-#### (C) Commercial truck and railroad car inspection services
+#### (2) Limitation
 
-&emsp;&emsp;For commercial truck and railroad car inspection services, the Secretary shall collect no more than $3,667,000 in fiscal year 1992 and $3,890,000 in fiscal year 1993 from commercial truck and railroad car operators.
+&emsp;In setting the fees under paragraph (1), the Secretary shall ensure that the amount of the fees is commensurate with the costs of agricultural quarantine and inspection services with respect to the class of persons or entities paying the fees. The costs of the services with respect to passengers as a class includes the costs of related inspections of the aircraft or other vehicle.
 
-#### (D) Costs
+#### (3) Status of fees
 
-&emsp;&emsp;Fees, including fees from international airline passengers and commercial aircraft operators, may only be collected to the extent that the Secretary reasonably estimates that the amount of the fees are commensurate with the costs of agricultural quarantine and inspection services with respect to the class of persons or entities paying the fees. The costs of such services with respect to passengers as a class includes the costs of related inspections of the aircraft.
+&emsp;Fees collected under this subsection by any person on behalf of the Secretary are held in trust for the United States and shall be remitted to the Secretary in such manner and at such times as the Secretary may prescribe.
 
-#### (2) Treasury
+#### (4) Late payment penalties
 
-&emsp;Any person who collects a fee under this subsection shall remit such fee to the Treasury of the United States prior to the date that is 31 days after the close of the calendar quarter in which such fee is collected.
+&emsp;If a person subject to a fee under this subsection fails to pay the fee when due, the Secretary shall assess a late payment penalty, and the overdue fees shall accrue interest, as required by section 3717 of title 31.
 
-#### (3) Agricultural Quarantine Inspection User Fee Account
+#### (5) Agricultural quarantine inspection user fee account
 
 #### (A) Establishment
 
-&emsp;&emsp;There is established in the Treasury of the United States a no-year fund, to be known as the “Agricultural Quarantine Inspection User Fee Account” (hereafter referred to in this section as the “Account”), for the use of the Secretary for quarantine or inspection services under this section.
+&emsp;&emsp;There is established in the Treasury of the United States a fund, to be known as the “Agricultural Quarantine Inspection User Fee Account”, which shall contain all of the fees collected under this subsection and late payment penalties and interest charges collected under paragraph (4) through fiscal year 2002.
 
-#### (B) Amounts in Account
+#### (B) Use of account
 
-#### (i) Deposits
+&emsp;&emsp;For each of fiscal years 1996 through 2002, funds in the Agricultural Quarantine Inspection User Fee Account shall be available, in such amounts as are provided in advance in appropriations Acts, to cover the costs associated with the provision of agricultural quarantine and inspection services and the administration of this subsection. Amounts made available under this subparagraph shall be available until expended.
 
-&emsp;&emsp;&emsp;All of the fees collected under this subsection shall be deposited in the Account.
+#### (C) Excess fees
 
-#### (ii) Reimbursement
+&emsp;&emsp;Fees and other amounts collected under this subsection in any of fiscal years 1996 through 2002 in excess of $100,000,000 shall be available for the purposes specified in subparagraph (B) until expended, without further appropriation.
 
-&emsp;&emsp;&emsp;The Secretary of the Treasury shall use the Account to provide reimbursements to any appropriation accounts that incur the costs associated with the administration of this subsection and all other activities carried out by the Secretary at ports in the customs territory of the United States and at preclearance or preinspection sites outside the customs territory of the United States in connection with the enforcement of the animal quarantine laws. Any such reimbursement shall be subject to appropriations under clause (v).
+#### (6) Use of amounts collected after fiscal year 2002
 
-#### (iii) Procedure
+&emsp;After September 30, 2002, the unobligated balance in the Agricultural Quarantine Inspection User Fee Account and fees and other amounts collected under this subsection shall be credited to the Department of Agriculture accounts that incur the costs associated with the provision of agricultural quarantine and inspection services and the administration of this subsection. The fees and other amounts shall remain available to the Secretary until expended without fiscal year limitation.
 
-&emsp;&emsp;&emsp;The Secretary of the Treasury shall make reimbursement under clause (ii) on a quarterly basis. Amounts required to be reimbursed under clause (ii), shall be made on the basis of estimates made by the Secretary of the expenses described in clause (ii) that are incurred by the Secretary in the 3-month period immediately preceding such reimbursement.
+#### (7) Staff years
 
-#### (iv) Adjustments
-
-&emsp;&emsp;&emsp;Adjustments of reimbursements made under clause (ii) shall be made to the extent necessary to correct prior estimates that were in excess of, or less than, the amount required to be reimbursed under clause (iii).
-
-#### (v) Authorization of appropriations
-
-&emsp;&emsp;&emsp;There are authorized to be appropriated each fiscal year amounts in the Fund <sup>1</sup> for use for quarantine or inspection services.
-
-#### (4) Adjustment in fee amounts
-
-&emsp;Subject to the limits set forth in paragraph (1), the Secretary shall adjust the amount of the fees to be assessed under this subsection to reflect the cost to the Secretary in administering such subsection, in carrying out the activities at ports in customs territory of the United States and preclearance and preinspection sites outside the customs territory of the United States in connection with the provision of agricultural quarantine inspection services, and in maintaining a reasonable balance in the Account.
+&emsp;The number of full-time equivalent positions in the Department of Agriculture attributable to the provision of agricultural quarantine and inspection services and the administration of this subsection shall not be counted toward the limitation on the total number of full-time equivalent positions in all agencies specified in section 5(b) of the Federal Workforce Restructuring Act of 1994 (Public Law 103–226; 5 U.S.C. 3101 note) or other limitation on the total number of full-time equivalent positions.
 
 #### (b) Omitted
 
@@ -68,13 +58,13 @@
 
 #### (3) Fees
 
-&emsp;All fees collected pursuant to this subsection and any late payment penalties or accrued interest collected pursuant to this subsection shall be credited to the accounts thatincur the cost and shall remain available until expended without fiscal year limitation.
+&emsp;All fees collected pursuant to this subsection and any late payment penalties or accrued interest collected pursuant to this subsection shall be credited to the accounts that incur the cost and shall remain available until expended without fiscal year limitation.
 
 #### (4) Liability
 
-&emsp;Any person for whom an activity related to the importation, entry, or exportation of an animal, article, or means of conveyance or relating to veterinary diagnostics, is performed pursuant to the section, shall be liable for payment of fees assessed. Upon failure to pay such fees when due, the Secretary shall assess a late payment penalty, and such overdue fees shall accrue interest, as required by section 3717 of title 31. All fees, late payment penalties, and accrued interest collected shall be credited to such accounts that incur the costs and shall remain available until expended without fiscal year limitation.
+&emsp;Any person for whom an activity related to the importation, entry, or exportation of an animal, article, or means of conveyance or relating to veterinary diagnostics, is performedpursuant to the section, shall be liable for payment of fees assessed. Upon failure to pay such fees when due, the Secretary shall assess a late payment penalty, and such overdue fees shall accrue interest, as required by section 3717 of title 31. All fees, late payment penalties, and accrued interest collected shall be credited to such accounts that incur the costs and shall remain available until expended without fiscal year limitation.
 
-#### (5) Leins <sup>2</sup>
+#### (5) Leins <sup>1</sup>
 
 #### (A) In general
 
@@ -82,7 +72,7 @@
 
 #### (B) Other animals, etc.
 
-&emsp;&emsp;In the case of any person who fails to make payment when due under this subsection, the Secretary shall have a lien against any animal, article, or means of conveyance thereafter imported, moved in interstate commerce, or attempted to be exported by the person after the date of such failure until the date on which such owner or operator make <sup>3</sup> full payment to the Secretary under this subsection.
+&emsp;&emsp;In the case of any person who fails to make payment when due under this subsection, the Secretary shall have a lien against any animal, article, or means of conveyance thereafter imported, moved in interstate commerce, or attempted to be exported by the person after the date of such failure until the date on which such owner or operator make <sup>2</sup> full payment to the Secretary under this subsection.
 
 #### (C) Sales of animals, etc.
 
@@ -154,7 +144,7 @@ An action may be brought for the recovery of fees, late payment penalties, and a
 
 &emsp;For the purposes of subsection (a) of this section, the term “vessel” does not include any ferry.
 
-(Pub. L. 101–624, title XXV, §2509, Nov. 28, 1990, 104 Stat. 4069; Pub. L. 101–508, title I, §1203, Nov. 5, 1990, 104 Stat. 1388–11; Pub. L. 102–237, title X, §1015, Dec. 13, 1991, 105 Stat. 1902.)
+(Pub. L. 101–624, title XXV, §2509, Nov. 28, 1990, 104 Stat. 4069; Pub. L. 101–508, title I, §1203, Nov. 5, 1990, 104 Stat. 1388–11; Pub. L. 102–237, title X, §1015, Dec. 13, 1991, 105 Stat. 1902; Pub. L. 104–127, title IX, §917, Apr. 4, 1996, 110 Stat. 1187.)
 
 #### References in Text
 
@@ -165,6 +155,8 @@ Section 101 of Public Law 92–73, referred to in subsec. (f)(1)(L), is listed i
 Section is comprised of section 2509 of Pub. L. 101–624. Subsecs. (b) and (c)(2) of section 2509 of Pub. L. 101–624 amended section 147a(f) of Title 7, Agriculture, and section 114a of this title, respectively.
 
 #### Amendments
+
+1996—Subsec. (a). Pub. L. 104–127 added subsec. (a) and struck out heading and text of former subsec. (a) which consisted of pars. (1) to (4) relating to quarantine, inspection, and transportation fees.
 
 1991—Subsec. (a)(1). Pub. L. 102–237, §1015(1), designated existing provisions as subpar. (A), realigned margin, added heading, and added subpars. (B) to (D).
 

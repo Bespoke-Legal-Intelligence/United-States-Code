@@ -82,7 +82,7 @@ Section 1 of Pub. L. 101–601 provided that: “This Act \[enacting this chapte
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 16 section 470h–4.
+This section is referred to in title 10 section 2684; title 16 section 470h–4; title 20 section 80q–9a.
 
 <i><sup>1</sup></i><i> So in original. The period probably should be a comma.</i>
 

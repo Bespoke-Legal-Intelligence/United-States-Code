@@ -28,7 +28,7 @@ As used in this part—
 
 &emsp;&emsp;(E) recognize teachers as an important source of knowledge that should inform and help shape professional development; and
 
-&emsp;(4) the term “local”, when used with respect to standards, means challenging content and student performance standards in the core academic subjects (in addition to challenging State content and student performance standards approved by the State for subchapter I of this chapter).
+&emsp;(4) the term “local”, when used with respect to standards, means challenging content andstudent performance standards in the core academic subjects (in addition to challenging State content and student performance standards approved by the State for subchapter I of this chapter).
 
 (Pub. L. 89–10, title II, §2402, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3635.)
 

@@ -14,7 +14,7 @@ Section is comprised of subsec. (a)(1)(A)(i) and (ii) of section 2 of the Commod
 
 Pub. L. 102–546, §404(b)(1), which directed the substitution of “(i) The Commission” for former first two sentences and provisions of former third sentence ending with “; <i>Provided</i>, That the Commission”, was executed by making the substitution for provisions ending with “: <i>Provided</i>, That the Commission”, to reflect the probable intent of Congress.
 
-1983—Pub. L. 97–444, §101(a)(2), inserted in third sentence, first proviso, “, except to the extent otherwise provided in section 2a of this title,” after “exclusive jurisdiction”.
+1983—Pub. L. 97–444, §101(a)(2), inserted in third sentence, first proviso, “, except to the extent otherwiseprovided in section 2a of this title,” after “exclusive jurisdiction”.
 
 Pub. L. 97–444, §201(1), inserted definition of “introducing broker”.
 
@@ -68,7 +68,7 @@ Section 2 of act July 26, 1955, provided that: “This Act \[amending this secti
 
 #### Effective Date of 1954 Amendment
 
-Section 710(b) of act Aug. 28, 1954, which provided that the amendment of this section by act Aug. 28, 1954,was effective 60 days after Aug. 28, 1954, was repealed by Pub. L. 103–130, §3(a), Nov. 1, 1993, 107 Stat. 1369, eff. Dec. 31, 1995.
+Section 710(b) of act Aug. 28, 1954, which provided that the amendment of this section by act Aug. 28, 1954, was effective 60 days after Aug. 28, 1954, was repealed by Pub. L. 103–130, §3(a), Nov. 1, 1993, 107 Stat. 1369, eff. Dec. 31, 1995.
 
 #### Effective Date of 1940 Amendment
 

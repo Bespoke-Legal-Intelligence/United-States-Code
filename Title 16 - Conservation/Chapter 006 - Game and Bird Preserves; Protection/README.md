@@ -94,7 +94,7 @@
 | [696\.](%C2%A7%2000696%20-%20National%20Key%20Deer%20Refuge%3B%20establishment%3B%20acquisition%20of%20property%20exchanges%2C%20cash%20equalization%20payments%3B%20administration.md) | National Key Deer Refuge; establishment; acquisition of property: exchanges, cash equalization payments; administration. |
 | [696a.](%C2%A7%2000696a%20-%20Acquisition%20of%20title%20to%20properties%20for%20National%20Key%20Deer%20Refuge%3B%20rights-of-way%20and%20easements.md) | Acquisition of title to properties for National Key Deer Refuge; rights-of-way and easements. |
 | [696b.](%C2%A7%2000696b%20-%20Authorization%20of%20appropriations%3B%20limitation.md) | Authorization of appropriations; limitation. |
-| 697, 697a. Omitted. |  |
+| 697, 697a. | Omitted. |
 | [698\.](%C2%A7%2000698%20-%20Big%20Thicket%20National%20Preserve.md) | Big Thicket National Preserve. |
 | (a) | Establishment. |
 | (b) | Location; boundaries; publication in Federal Register. |
@@ -174,6 +174,37 @@
 | (c) | Environmental audits. |
 | (d) | Future additions. |
 | [698t.](%C2%A7%2000698t%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+| [698u.](%C2%A7%2000698u%20-%20Tallgrass%20Prairie%20National%20Preserve%20findings%20and%20purposes.md) | Tallgrass Prairie National Preserve: findings and purposes. |
+| (a) | Findings. |
+| (b) | Purposes. |
+| 698u–1. | Definitions. |
+| 698u–2. | Establishment of Tallgrass Prairie National Preserve. |
+| (a) | In general. |
+| (b) | Description. |
+| 698u–3. | Administration of National Preserve. |
+| (a) | In general. |
+| (b) | Application of regulations. |
+| (c) | Facilities. |
+| (d) | Liability. |
+| (e) | Unit of National Park System. |
+| (f) | Agreement and donations. |
+| (g) | General management plan. |
+| 698u–4. | Limited authority to acquire. |
+| (a) | In general. |
+| (b) | Payments in lieu of taxes. |
+| (c) | Prohibitions. |
+| 698u–5. | Advisory Committee. |
+| (a) | Establishment. |
+| (b) | Duties. |
+| (c) | Membership. |
+| (d) | Terms. |
+| (e) | Chairperson. |
+| (f) | Meetings. |
+| (g) | Quorum. |
+| (h) | Compensation. |
+| (i) | Charter. |
+| 698u–6. | Restriction on authority. |
+| 698u–7. | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -292,3 +323,11 @@
 - [&sect; 00698r - Administration](%C2%A7%2000698r%20-%20Administration.md)
 - [&sect; 00698s - Acquisition](%C2%A7%2000698s%20-%20Acquisition.md)
 - [&sect; 00698t - Authorization of appropriations](%C2%A7%2000698t%20-%20Authorization%20of%20appropriations.md)
+- [&sect; 00698u - Tallgrass Prairie National Preserve findings and purposes](%C2%A7%2000698u%20-%20Tallgrass%20Prairie%20National%20Preserve%20findings%20and%20purposes.md)
+- [&sect; 00698u&#8211;1 - Definitions](%C2%A7%2000698u%E2%80%931%20-%20Definitions.md)
+- [&sect; 00698u&#8211;2 - Establishment of Tallgrass Prairie National Preserve](%C2%A7%2000698u%E2%80%932%20-%20Establishment%20of%20Tallgrass%20Prairie%20National%20Preserve.md)
+- [&sect; 00698u&#8211;3 - Administration of National Preserve](%C2%A7%2000698u%E2%80%933%20-%20Administration%20of%20National%20Preserve.md)
+- [&sect; 00698u&#8211;4 - Limited authority to acquire](%C2%A7%2000698u%E2%80%934%20-%20Limited%20authority%20to%20acquire.md)
+- [&sect; 00698u&#8211;5 - Advisory Committee](%C2%A7%2000698u%E2%80%935%20-%20Advisory%20Committee.md)
+- [&sect; 00698u&#8211;6 - Restriction on authority](%C2%A7%2000698u%E2%80%936%20-%20Restriction%20on%20authority.md)
+- [&sect; 00698u&#8211;7 - Authorization of appropriations](%C2%A7%2000698u%E2%80%937%20-%20Authorization%20of%20appropriations.md)

@@ -10,7 +10,7 @@ Amounts in the Fund shall be used for the promotion of scholarly, cultural, and 
 
 &emsp;(1) support for studies, including language studies, in institutions of higher education or scholarly research in Japan and the United States, designed to foster mutual understanding between Japan and the United States;
 
-&emsp;(2) support for major collections of Japanese books and publications in appropriate librarieslocated throughout the United States and similar support for collections of American books and publications in appropriate libraries located throughout Japan;
+&emsp;(2) support for major collections of Japanese books and publications in appropriate libraries located throughout the United States and similar support for collections of American books and publications in appropriate libraries located throughout Japan;
 
 &emsp;(3) support for programs in the arts in association with appropriate institutions in Japan and the United States;
 
@@ -22,7 +22,7 @@ Amounts in the Fund shall be used for the promotion of scholarly, cultural, and 
 
 #### (c) Use of amounts in Fund for administrative expenses of Japan-United States Friendship Commission
 
-Amounts in the Fund may also be used to pay administrative expenses of the Japan-United States Friendship Commission, established by section 2903 of this title, as directed by that Commission.
+Amounts in the Fund may also be used to pay administrative expenses of the Japan-United States Friendship Commission, established bysection 2903 of this title, as directed by that Commission.
 
 #### (d) Authorization of appropriations; source of amounts
 

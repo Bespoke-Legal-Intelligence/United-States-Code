@@ -2,25 +2,25 @@
 
 #### (a) Management and duties
 
-Notwithstanding any other authority with respect to the jurisdiction and control over the management of the House Restaurant and the cafeteria and other food service facilities of the House of Representatives, the jurisdiction over such restaurant and facilities and authority over the direction and supervision of the immediate management and operation thereof shall be vested in the Committee on House Administration; and the immediate management and operation of such restaurant and facilities may be vested in such official or other authority, acting as the agent of the committee, as the committee may designate; and the official or authority so designated shall perform the duties vested in the Architect of the Capitol by section 208 of the First Supplemental Civil Functions Appropriation Act, 1941 (54 Stat. 1056; Public, No. 812, Seventy-sixth Congress).
+Notwithstanding any other authority with respect to the jurisdiction and control over the management of the House Restaurant and the cafeteria and other food service facilities of the House of Representatives, the jurisdiction over such restaurant and facilities and authority over the direction and supervision of the immediate management and operation thereof shall be vested in the Committee on House Oversight; and the immediate management and operation of such restaurant and facilities may be vested in such official or other authority, acting as the agent of the committee, as the committee may designate; and the official or authority so designated shall perform the duties vested in the Architect of the Capitol by section 208 <sup>1</sup> of the First Supplemental Civil Functions Appropriation Act, 1941 (54 Stat. 1056; Public, No. 812, Seventy-sixth Congress).
 
 #### (b) Transfer of accounts, records, supplies, equipment, and assets
 
-The Architect of the Capitol is hereby authorized and directed to transfer, as the Committee on House Administration directs, all accounts, records, supplies, equipment, and assets of the House Restaurant and the cafeteria and other food service facilities of the House which are in the possession or under the control of the Architect of the Capitol in order that all such items may be available for the maintenance and operation of the House Restaurant under the authority of, and as directed by, the Committee on House Administration.
+The Architect of the Capitol is hereby authorized and directed to transfer, as the Committee on House Oversight directs, all accounts, records, supplies, equipment, and assets of the House Restaurant and the cafeteria and other food service facilities of the House which are in the possession or under the control of the Architect of the Capitol in order that all such items may be available for the maintenance and operation of the House Restaurant under the authority of, and as directed by, the Committee on House Oversight.
 
 #### (c) Special deposit account
 
-All authority, responsibility, and functions vested in or imposed upon the Architect of the Capitol in connection with the special deposit account established by section 208 of the First Supplemental Civil Functions Appropriation Act, 1941, shall be vested in or imposed upon such other official, authority, or authorities asthe Committee on House Administration may designate.
+All authority, responsibility, and functions vested in or imposed upon the Architect of the Capitol in connection with the special deposit account established by section 208 <sup>1</sup> of the First Supplemental Civil Functions Appropriation Act, 1941, shall be vested in or imposed upon such other official, authority, or authorities as the Committee on House Oversight may designate.
 
 #### (d) Effective date
 
 The provisions of this section shall become effective on the first day of the first calendar month beginning after the date of adoption of this resolution, until otherwise provided by law.
 
-(Pub. L. 92–51, July 9, 1971, 85 Stat. 133.)
+(Pub. L. 92–51, July 9, 1971, 85 Stat. 133; Pub. L. 104–186, title II, §221(3)(A), Aug. 20, 1996, 110 Stat. 1748.)
 
 #### References in Text
 
-Section 208 of the First Supplemental Civil Functions Appropriation Act, 1941, referred to in subsecs. (a) and (c), is section 208 of act Oct. 9, 1940, ch. 780, title II, 54 Stat. 1056, which was formerly classified to this section and is now set out below in a Prior Provisions note.
+Section 208 of the First Supplemental Civil Functions Appropriation Act, 1941, referred to in subsecs. (a) and (c), is section 208 of act Oct. 9, 1940, ch. 780, title II, 54 Stat. 1056, which was formerly classified to this section, and was repealed by Pub. L. 104–186, title II, §221(3)(B), Aug. 20, 1996, 110 Stat. 1748. See Prior Provisions note below.
 
 The first day of the first calendar month beginning after the date of adoption of this resolution, referred to in subsec. (d), is April 1, 1971.
 
@@ -30,27 +30,21 @@ Section is based on section 2 of House Resolution No. 317, Ninety-second Congres
 
 #### Prior Provisions
 
-A prior section 174k, act Oct. 9, 1940, ch. 780, title II, §208, 54 Stat. 1056, which was classified to this section prior to its supersedure by Pub. L. 92–51, §101, July 9, 1971, 85 Stat. 133. Section 208 of act Oct. 9, 1940, read as follows:
+A prior section 174k, act Oct. 9, 1940, ch. 780, title II, §208, 54 Stat. 1056, which provided that the House Restaurant was to be managed under the direction of the Architect of the Capitol, was classified to this section and was repealed by Pub. L. 104–186, title II, §221(3)(B), Aug. 20, 1996, 110 Stat. 1748.
 
-“(a) The Architect of the Capitol is authorized and directed to carry into effect for the House of Representatives, and to exercise the authorities contained in, the Resolution of the House of Representatives numbered 590, adopted September 5, 1940, and any other resolution of such House amendatory thereof or supplementary thereto hereafter adopted. Such authority and direction shall continue until the House of Representatives shall by resolution otherwise order.
+#### Amendments
 
-“(b) There is established with the Treasurer of the United States a special deposit account in the name of the Architect of the Capitol for the House of Representatives Restaurant, into which shall be deposited all sums received pursuant to such resolution or resolutions and from the operations thereunder and from which shall be disbursed the sums necessary in connection with the exercise of the duties required under such resolution or resolutions and the operations thereunder. Any appropriation hereafter made from the Treasury of the United States for such restaurant shall be a part of the appropriation ‘Contingent Expenses, House of Representatives, Miscellaneous Items’, for the particular fiscal year involved and each such part shall be paid to the Architect of the Capitol by the Clerk of the House of Representatives in such sum as such appropriation or appropriations shall hereafter specify and shall be deposited by such Architect in full in such special deposit account.
+1996—Subsecs. (a) to (c). Pub. L. 104–186 substituted “House Oversight” for “House Administration” wherever appearing.
 
-“(c) Deposits and disbursements under such special deposit account (1) shall be made by the Architect, or, when directed by him, by such employees of the Architect as he may designate, and (2) shall be subject to audit by the General Accounting Office at such times and in such manner as the Comptroller General may direct: <i>Provided</i>, That payments made by or under the direction of the Architect of the Capitol from such special deposit account shall be conclusive upon all officers of the government.
+#### Special Deposit Account From Vending Operations
 
-“(d) The Architect, Assistant Architect, and any employees of the Architect designated by the Architect under subsection (c) of this section shall each give bond in the sum of $5,000 with such surety as the Secretary of the Treasury may approve for the handling of the financial transactions under such special deposit account.”
+Pub. L. 104–53, title I, §107A, Nov. 19, 1995, 109 Stat. 522, as amended by Pub. L. 104–197, title I, §101(a), Sept. 16, 1996, 110 Stat. 2400, provided that:
 
-The Resolution of the House of Representatives numbered 590, adopted September 5, 1940, referred to in subsec. (a) of section 208 set out above, read as follows: “That effective October 1, 1940, until otherwise ordered by the House, the management of the House Restaurant and all matters connected therewith shall be under the direction of the Architect of the United States Capitol under such rules and regulations as he may prescribe for the operation and the employment of necessary assistance for the conduct of said restaurant by such business methods as may produce the best results consistent with economical and modern management.
+“(a) Subject to the direction of the Committee on House Oversight of the House of Representatives, the amounts deposited in the account specified in subsection (b) from vending operations of the House of Representatives Restaurant System shall be available to pay the cost of goods sold for such operations.
 
-“
+“(b) The account referred to in subsection (a) is the special deposit account established for the House of Representatives Restaurant by section 208 of the First Supplemental Civil Functions Appropriation Act, 1941 (40 U.S.C. 174k note).”
 
-Sec. 2. The Committee on Account after the close of business September 30, 1940, is hereby authorized and directed to transfer to the jurisdiction of the Architect of the United States Capitol all accounts, records, supplies, equipment, and assets of the House Restaurant that may be in the possession or under the control of the said committee in order that all such items may be available to the Architect of the United States Capitol toward maintenance and operation of the House of Representatives Restaurant.”
-
-House Resolution 186, agreed to April 24, 1941, authorized the establishment of a branch of the House Restaurant in the New House Office Building.
-
-#### Change of Name
-
-Committee on House Administration of House of Representatives treated as referring to Committee on House Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+\[Pub. L. 104–197, title I, §101(b), Sept. 16, 1996, 110 Stat. 2401, provided that: “The amendments made by subsection (a) \[amending section 107A of Pub. L. 104–53, set out above\] shall apply with respect to fiscal years beginning after September 30, 1996.”\]
 
 #### Transfer of Food Service Operations; Election by Certain Affected Employees; Disability and Retirement Benefits; Promulgation of Regulations
 
@@ -89,4 +83,6 @@ Pub. L. 99–500, §111, Oct. 18, 1986, 100 Stat. 1783–348, and Pub. L. 99–5
 #### Section Referred to in Other Sections
 
 This section is referred to in section 166b–1f of this title; title 5 section 5533.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

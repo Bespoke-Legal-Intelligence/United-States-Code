@@ -1,14 +1,12 @@
 ### §31b. Expense allowance of Speaker of House of Representatives
 
-There shall be paid to the Speaker of the House of Representatives in equal monthly installments an expense allowance of $10,000 per annum (which shall be in lieu of the allowance provided by section 601(b) <sup>1</sup> of the Legislative Reorganization Act of 1946, as amended) to assist in defraying expenses relating to or resulting from the discharge of his official duties, for which no accounting, other than for income tax purposes, shall be made by him.
+There shall be paid to the Speaker of the House of Representatives in equal monthly installments an expense allowance of $10,000 per annum to assist in defraying expenses relating to or resulting from the discharge of his official duties, for which no accounting, other than for income tax purposes, shall be made by him.
 
-(Jan. 19, 1949, ch. 2, §1(e), 63 Stat. 4; Oct. 20, 1951, ch. 521, title VI, §619(c), 65 Stat. 570.)
-
-#### References in Text
-
-Section 601(b) of the Legislative Reorganization Act of 1946, as amended, referred to in text, was classified to section 31a of this title, and was repealed by act Mar. 2, 1955, ch. 9, §4(b), 69 Stat. 11, eff. Mar. 1, 1955.
+(Jan. 19, 1949, ch. 2, §1(e), 63 Stat. 4; Oct. 20, 1951, ch. 521, title VI, §619(c), 65 Stat. 570; Aug. 20, 1996, Pub. L. 104–186, title II, §203(1), 110 Stat. 1725.)
 
 #### Amendments
+
+1996—Pub. L. 104–186 struck out “(which shall be in lieu of the allowance provided by section 601(b) of the Legislative Reorganization Act of 1946, as amended)” after “per annum”.
 
 1951—Act Oct. 20, 1951, made Speaker's expense allowance taxable.
 
@@ -22,7 +20,5 @@ Section effective at noon, Jan. 20, 1949, see section 3 of act Jan. 19, 1949.
 
 #### Cross References
 
-Adjustment of allowances by Committee on House Administration, see section 57 of this title.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+Adjustment of allowances by Committee on House Oversight, see section 57 of this title.
 

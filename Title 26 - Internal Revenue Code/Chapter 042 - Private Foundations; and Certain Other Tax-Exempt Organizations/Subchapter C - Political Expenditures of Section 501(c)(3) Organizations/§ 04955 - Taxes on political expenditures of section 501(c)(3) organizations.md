@@ -54,9 +54,9 @@ For purposes of this section—
 
 &emsp;&emsp;(E) Any other expense which has the primary effect of promoting public recognition, or otherwise primarily accruing to the benefit, of such individual.
 
-#### (e) Coordination with section 4945
+#### (e) Coordination with sections 4945 and 4958
 
-If tax is imposed under this section with respect to any political expenditure, such expenditure shall not be treated as a taxable expenditure for purposes of section 4945.
+If tax is imposed under this section with respect to any political expenditure, such expenditure shall not be treated as a taxable expenditure for purposes of section 4945 or an excess benefit for purposes of section 4958.
 
 #### (f) Other definitions
 
@@ -76,7 +76,7 @@ For purposes of this section—
 
 #### (3) Correction
 
-&emsp;The terms “correction” and “correct” mean, with respect to any political expenditure, recovering part or all of the expenditure to the extent recovery is possible, establishment of safeguards to prevent future political expenditures, and where full recovery is not possible,such additional corrective action as is prescribed by the Secretary by regulations.
+&emsp;The terms “correction” and “correct” mean, with respect to any political expenditure, recovering part or all of the expenditure to the extent recovery is possible, establishment of safeguards to prevent future political expenditures, and where full recovery is not possible, such additional corrective action as is prescribed by the Secretary by regulations.
 
 #### (4) Taxable period
 
@@ -86,7 +86,23 @@ For purposes of this section—
 
 &emsp;&emsp;(B) the date on which tax imposed by subsection (a)(1) is assessed.
 
-(Added Pub. L. 100–203, title X, §10712(a), Dec. 22, 1987, 101 Stat. 1330–465.)
+(Added Pub. L. 100–203, title X, §10712(a), Dec. 22, 1987, 101 Stat. 1330–465; amended Pub. L. 104–168, title XIII, §1311(c)(1), July 30, 1996, 110 Stat. 1478.)
+
+#### Amendments
+
+1996—Subsec. (e). Pub. L. 104–168 substituted “sections 4945 and 4958” for “section 4945” in heading and inserted “or an excess benefit for purposes of section 4958” before period at end of text.
+
+#### Effective Date of 1996 Amendment
+
+Section 1311(d)(1), (2) of Pub. L. 104–168 provided that:
+
+“(1)
+
+In general.—The amendments made by this section \[enacting section 4958 of this title and amending this section and sections 4963, 6213, 7422, and 7454 of this title\] (other than subsection (b)) \[amending section 501 of this title\] shall apply to excess benefit transactions occurring on or after September 14, 1995.
+
+“(2)
+
+Binding contracts.—The amendments referred to in paragraph (1) shall not apply to any benefit arising from a transaction pursuant to any written contract which was binding on September 13, 1995, and at all times thereafter before such transaction occurred.”
 
 #### Effective Date
 
@@ -94,5 +110,5 @@ Section 10712(d) of Pub. L. 100–203 provided that: “The amendments made by t
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 4912, 4962, 4963, 6213, 6852, 7409, 7422, 7454 of this title.
+This section is referred to in sections 4912, 4962, 4963, 6033, 6213, 6852, 7409, 7422, 7454 of this title.
 

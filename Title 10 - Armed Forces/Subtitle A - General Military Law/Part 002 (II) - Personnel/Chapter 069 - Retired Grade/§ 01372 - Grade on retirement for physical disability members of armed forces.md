@@ -4,13 +4,13 @@ Unless entitled to a higher retired grade under some other provision of law, any
 
 &emsp;(1) The grade or rank in which he is serving on the date when his name is placed on the temporary disability retired list or, if his name was not carried on that list, on the date when he is retired.
 
-&emsp;(2) The highest temporary grade or rank in which he served satisfactorily, as determinedby the Secretary of the armed force from which he is retired.
+&emsp;(2) The highest temporary grade or rank in which he served satisfactorily, as determined by the Secretary of the armed force from which he is retired.
 
-&emsp;(3) The permanent regular or reserve grade to which he would have been promoted had it not been for the physical disability for which he is retired and which was found to exist as a result of his physical examination for promotion.
+&emsp;(3) The permanent regular or reserve grade to which he would have been promoted had it not been for the physical disability for which he is retired and which was found to exist as a result of a physical examination.
 
-&emsp;(4) The temporary grade to which he would have been promoted had it not been for the physical disability for which he is retired, if eligibility for that promotion was required to be based on cumulative years of service or years of service in grade and the disability was discovered as a result of his physical examination for promotion.
+&emsp;(4) The temporary grade to which he would have been promoted had it not been for the physical disability for which he is retired, if eligibility for that promotion was required to be based on cumulative years of service or years of service in grade and the disability was discovered as a result of a physical examination.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 105.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 105; Sept. 23, 1996, Pub. L. 104–201, div. A, title V, §577, 110 Stat. 2536.)
 
 Historical and Revision Notes
 
@@ -29,6 +29,10 @@ Historical and Revision Notes
 Oct. 12, 1949, ch. 681, §§402(d) (104th through 128th words, as applicable to retired grade; and 2d and 5th provisos), 409 (less applicability to §402(d) (last proviso)), 63 Stat. 818, 823.
 
 Clause (1) is substituted for 37:272(d) (104th through 128th words, as applicable to retired grade). The words “if his name was not carried on that list” are substituted for the words “whichever is earlier”.
+
+#### Amendments
+
+1996—Pars. (3), (4). Pub. L. 104–201 substituted “a physical examination” for “his physical examination for promotion”.
 
 #### Cross References
 

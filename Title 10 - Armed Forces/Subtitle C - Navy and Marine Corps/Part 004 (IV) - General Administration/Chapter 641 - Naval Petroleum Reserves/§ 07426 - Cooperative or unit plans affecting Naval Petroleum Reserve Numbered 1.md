@@ -16,11 +16,11 @@
 
 > The quantity of petroleum permitted to be produced as compensation for surrendering control of the rate of production may, in the discretion of the Secretary, be reduced or eliminated at any time on reasonable notice if the Secretary is not then having petroleum produced for national defense under section 7422 of this title.
 
-(d) In no event may the quantity of petroleum produced under subsection (c) from any zone for any private contracting party exceed one-third of its share of the recoverable petroleum in thatzone as estimated on the date fixed in the contract.
+(d) In no event may the quantity of petroleum produced under subsection (c) from any zone for any private contracting party exceed one-third of its share of the recoverable petroleum in that zone as estimated on the date fixed in the contract.
 
-(e) No contract may be made under this section until the Committees on Armed Services of the Senate and the House of Representatives have been consulted as to all its details.
+(e) No contract may be made under this section until the Committee on Armed Services ofthe Senate and the Committee on National Security of the House of Representatives have been consulted as to all its details.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 459; Apr. 5, 1976, Pub. L. 94–258, title II, §201(7), 90 Stat. 309; Dec. 12, 1980, Pub. L. 96–513, title V, §513(32)(A), (B), 94 Stat. 2933; Oct. 19, 1984, Pub. L. 98–525, title XIV, §1405(52), 98 Stat. 2625.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 459; Apr. 5, 1976, Pub. L. 94–258, title II, §201(7), 90 Stat. 309; Dec. 12, 1980, Pub. L. 96–513, title V, §513(32)(A), (B), 94 Stat. 2933; Oct. 19, 1984, Pub. L. 98–525, title XIV, §1405(52), 98 Stat. 2625; Feb. 10, 1996, Pub. L. 104–106, div. A, title XV, §1502(a)(2), 110 Stat. 502.)
 
 Historical and Revision Notes
 
@@ -50,6 +50,8 @@ In subsection (d) the words “from any zone for any private contracting party�
 
 #### Amendments
 
+1996—Subsec. (e). Pub. L. 104–106 substituted “Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives” for “Committees on Armed Services of the Senate and the House of Representatives”.
+
 1984—Subsec. (a). Pub. L. 98–525 inserted in provisions preceding par. (1) “of this title” after “section 7422(c)”.
 
 1980—Pub. L. 96–513, §513(32)(B), substituted “Naval Petroleum Reserve Numbered 1” for “naval petroleum reserve numbered 1” in section catchline.
@@ -57,10 +59,6 @@ In subsection (d) the words “from any zone for any private contracting party�
 Subsec. (a). Pub. L. 96–513, §513(32)(A), substituted “Naval Petroleum Reserve Numbered 1” for “naval petroleum reserve numbered 1” wherever appearing.
 
 1976—Subsec. (a). Pub. L. 94–258 substituted “Subject to the provisions of section 7422(c), the Secretary” for “The Secretary of the Navy”.
-
-#### Change of Name
-
-Committee on Armed Services of House of Representatives treated as referring to Committee on National Security of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Effective Date of 1980 Amendment
 

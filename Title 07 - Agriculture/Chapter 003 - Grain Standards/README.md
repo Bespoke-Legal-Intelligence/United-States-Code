@@ -44,7 +44,7 @@
 | (i) | Unauthorized weighing prohibited. |
 | (j) | Authority under United States Warehouse Act not limited. |
 | (k) | Access to elevators, warehouses, or other storage or handling facilities. |
-| (<i>l)</i> | Fees; establishment, amount, payment, etc. |
+| (<i>l</i>) | Fees; establishment, amount, payment, etc. |
 | [79b.](%C2%A7%2000079b%20-%20Testing%20of%20equipment.md) | Testing of equipment. |
 | (a) | Random and periodic testing at least annually; fees. |
 | (b) | Personnel to conduct testing. |

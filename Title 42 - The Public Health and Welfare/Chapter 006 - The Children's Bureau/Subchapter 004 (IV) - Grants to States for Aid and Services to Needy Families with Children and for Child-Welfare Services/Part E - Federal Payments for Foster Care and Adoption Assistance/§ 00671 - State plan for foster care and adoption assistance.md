@@ -18,7 +18,7 @@ In order for a State to be eligible for payments under this part, it shall have 
 
 &emsp;(7) provides that the State agency will monitor and conduct periodic evaluations of activities carried out under this part;
 
-&emsp;(8) provides safeguards which restrict the use of or disclosure of information concerning individuals assisted under the State plan to purposes directly connected with (A) the administration of the plan of the State approved under this part, the plan or program of the State under part A, B, or D of this subchapter (including activities under part F of this subchapter) or under subchapter I, V, X, XIV, XVI (as in effect in Puerto Rico, Guam, and the Virgin Islands), XIX, or XX of this chapter, or the supplemental security income program established by subchapter XVI of this chapter, (B) any investigation, prosecution, or criminal or civil proceeding, conducted in connection with the administration of any such plan or program, (C) the administration of any other Federal or federally assisted program which provides assistance, in cash or in kind, or services, directly to individuals on the basis of need, (D) any audit or similar activity conducted in connection with the administration of any such plan or program by any governmental agency which is authorized by law to conduct such audit or activity, and (E) reporting and providing information pursuant to paragraph (9) to appropriate authorities with respect to known or suspected child abuse or neglect; and the safeguards so provided shall prohibit disclosure, to any committee or legislative body (other than an agency referred to in clause (D) with respect to an activity referred to in such clause), of any information which identifies by name or address any such applicant or recipient; except that nothing contained herein shall preclude a State from providing standards which restrict disclosures to purposes more limited than those specified herein, or which, in the case of adoptions, prevent disclosure entirely;
+&emsp;(8) provides safeguards which restrict the use of or disclosure of information concerning individuals assisted under the State plan to purposes directly connected with (A) the administration of the plan of the State approved under this part, the plan or program of the State under part A, B, or D of this subchapter\(including activities under part F <sup>1</sup> of this subchapter) or under subchapter I, V, X, XIV, XVI (as in effect in Puerto Rico, Guam, and the Virgin Islands), XIX, or XX of this chapter, or the supplemental security income program established by subchapter XVI of this chapter, (B) any investigation, prosecution, or criminal or civil proceeding, conducted in connection with the administration of any such plan or program, (C) the administration of any other Federal or federally assisted program which provides assistance, in cash or in kind, or services, directly to individuals on the basis of need, (D) any audit or similar activity conducted in connection with the administration of any such plan or program by any governmental agency which is authorized by law to conduct such audit or activity, and (E) reporting and providing information pursuant to paragraph (9) to appropriate authorities with respect to known or suspected child abuse or neglect; and the safeguards so provided shall prohibit disclosure, to any committee or legislative body (other than an agency referred to in clause (D) with respect to an activity referred to in such clause), of any information which identifies by name or address any such applicant or recipient; except that nothing contained herein shall preclude a State from providing standards which restrict disclosures to purposes more limited than those specified herein, or which, in the case of adoptions, prevent disclosure entirely;
 
 &emsp;(9) provides that the State agency will—
 
@@ -26,7 +26,7 @@ In order for a State to be eligible for payments under this part, it shall have 
 
 &emsp;&emsp;(B) provide such information with respect to a situation described in subparagraph (A) as the State agency may have;
 
-&emsp;(10) provides for the establishment or designation of a State authority or authorities which shall be responsible for establishing and maintaining standards for foster family homes and child care institutions which are reasonably in accord with recommended standards of national organizations concerned with standards for such institutions or homes, including standards related to admission policies, safety, sanitation, and protection of civil rights,and provides that the standards so established shall be applied by the State to any foster family home or child care institution receiving funds under this part or part B of this subchapter;
+&emsp;(10) provides for the establishment or designation of a State authority or authorities which shall be responsible for establishing and maintaining standards for foster family homes and child care institutions which are reasonably in accord with recommended standards of national organizations concerned with standards for such institutions or homes, including standards related to admission policies, safety, sanitation, and protection of civil rights, and provides that the standards so established shall be applied by the State to any foster family home or child care institution receiving funds under this part or part B of this subchapter;
 
 &emsp;(11) provides for periodic review of the standards referred to in the preceding paragraph and amounts paid as foster care maintenance payments and adoption assistance to assure their continuing appropriateness;
 
@@ -38,21 +38,37 @@ In order for a State to be eligible for payments under this part, it shall have 
 
 &emsp;(15) effective October 1, 1983, provides that, in each case, reasonable efforts will be made (A) prior to the placement of a child in foster care, to prevent or eliminate the need for removal of the child from his home, and (B) to make it possible for the child to return to his home;
 
-&emsp;(16) provides for the development of a case plan (as defined in section 675(1) of this title) for each child receiving foster care maintenance payments under the State plan and provides for a case review system which meets the requirements described in section 675(5)(B) of this title with respect to each such child; and
+&emsp;(16) provides for the development of a case plan (as defined in section 675(1) of this title) for each child receiving foster care maintenance payments under the State plan and provides for a case review system which meets the requirements described in section 675(5)(B) of this title with respect to each such child;
 
-&emsp;(17) provides that, where appropriate, all steps will be taken, including cooperative efforts with the State agencies administering the plans approved under parts A and D of this subchapter, to secure an assignment to the State of any rights to support on behalf of each child receiving foster care maintenance payments under this part.
+&emsp;(17) provides that, where appropriate, all steps will be taken, including cooperative efforts with the State agencies administering the program funded under part A of this subchapter and plan approved under part D of this subchapter, to secure an assignment to the State of any rights to support on behalf of each child receiving foster care maintenance payments under this part; and
+
+&emsp;(18) <sup>2</sup> not later than January 1, 1997, provides that neither the State nor any other entity in the State that receives funds from the Federal Government and is involved in adoption or foster care placements may—
+
+&emsp;&emsp;(A) deny to any person the opportunity to become an adoptive or a foster parent, on the basis of the race, color, or national origin of the person, or of the child, involved; or
+
+&emsp;&emsp;(B) delay or deny the placement of a child for adoption or into foster care, on the basis of the race, color, or national origin of the adoptive or foster parent, or the child, involved.
+
+&emsp;(18) <sup>2</sup> provides that the State shall consider giving preference to an adult relative over a non-related caregiver when determining a placement for a child, provided that the relative caregiver meets all relevant State child protection standards.
 
 #### (b) Approval of plan by Secretary
 
 The Secretary shall approve any plan which complies with the provisions of subsection (a) of this section.
 
-(Aug. 14, 1935, ch. 531, title IV, §471, as added June 17, 1980, Pub. L. 96–272, title I, §101(a)(1), 94 Stat. 501; amended Aug. 13, 1981, Pub. L. 97–35, title XXIII, §2353(r), 95 Stat. 874; Sept. 3, 1982, Pub. L. 97–248, title I, §160(d), 96 Stat. 400; Aug. 16, 1984, Pub. L. 98–378, §11(c), 98 Stat. 1318; Oct. 22, 1986, Pub. L. 99–514, title XVII, §1711(c)(2), 100 Stat. 2784; Oct. 13, 1988, Pub. L. 100–485, title II, §202(c)(1), 102 Stat. 2378; Nov. 5, 1990, Pub. L. 101–508, title V, §5054(b), 104 Stat. 1388–229; Aug. 10, 1993, Pub. L. 103–66, title XIII, §13711(b)(4), 107 Stat. 655; Oct. 31, 1994, Pub. L. 103–432, title II, §203(b), 108 Stat. 4456.)
+(Aug. 14, 1935, ch. 531, title IV, §471, as added June 17, 1980, Pub. L. 96–272, title I, §101(a)(1), 94 Stat. 501; amended Aug. 13, 1981, Pub. L. 97–35, title XXIII, §2353(r), 95 Stat. 874; Sept. 3, 1982, Pub. L. 97–248, title I, §160(d), 96 Stat. 400; Aug. 16, 1984, Pub. L. 98–378, §11(c), 98 Stat. 1318; Oct. 22, 1986, Pub. L. 99–514, title XVII, §1711(c)(2), 100 Stat. 2784; Oct. 13, 1988, Pub. L. 100–485, title II, §202(c)(1), 102 Stat. 2378; Nov. 5, 1990, Pub. L. 101–508, title V, §5054(b), 104 Stat. 1388–229; Aug. 10, 1993, Pub. L. 103–66, title XIII, §13711(b)(4), 107 Stat. 655; Oct. 31, 1994, Pub. L. 103–432, title II, §203(b), 108 Stat. 4456; Aug. 20, 1996, Pub. L. 104–188, title I, §1808(a), 110 Stat. 1903; Aug. 22, 1996, Pub. L. 104–193, title I, §108(d)(2), title V, §505, 110 Stat. 2166, 2278.)
 
 #### References in Text
 
-Parts A, B, D, and F of this subchapter, referred to in subsec. (a)(2), (4), (8)–(10), (13), and (17), are classified to sections 601 et seq., 620 et seq., 651 et seq., and 681 et seq., respectively, of this title.
+Parts A, B, and D of this subchapter, referred to in subsec. (a)(2), (4), (8)–(10), (13), and (17), are classified to sections 601 et seq., 620 et seq., and 651 et seq., respectively, of this title.
+
+Part F of this subchapter, referred to in subsec. (a)(8), was classified to section 681 et seq. of this title, prior to repeal by Pub. L. 104–193, title I, §108(e), Aug. 22, 1996, 110 Stat. 2167.
 
 #### Amendments
+
+1996—Subsec. (a)(17). Pub. L. 104–193, §108(d)(2), substituted “program funded under part A of this subchapter and plan approved under part D of this subchapter” for “plans approved under parts A and D of this subchapter”.
+
+Subsec. (a)(18). Pub. L. 104–193, §505(3), added par. (18) relating to preference to adult relatives.
+
+Pub. L. 104–188, §1808(a)(3), added par. (18) relating to denial or delay of adoption or foster care on basis of race, color, or national origin.
 
 1994—Subsec. (b). Pub. L. 103–432 struck out after first sentence “However, in any case in which the Secretary finds, after reasonable notice and opportunity for a hearing, that a State plan which has been approved by the Secretary no longer complies with the provisions of subsection (a) of this section, or that in the administration of the plan there is a substantial failure to comply with the provisions of the plan, the Secretary shall notify the State that further payments will not be made to the State under this part, or that such payments will be made to the State but reduced by an amount which the Secretary determines appropriate, until the Secretary is satisfied that there is no longer any such failure to comply, and until he is so satisfied he shall make no further payments to the State, or shall reduce such payments by the amount specified in his notification to the State.”
 
@@ -72,21 +88,39 @@ Subsec. (a)(9). Pub. L. 101–508, §5054(b)(1), amended par. (9) generally. Pri
 
 1981—Subsec. (a)(10). Pub. L. 97–35, §2353(r), as amended by Pub. L. 97–248, §160(d), substituted provisions that in order for a State to be eligible for payments under this part a State plan must provide for establishment or designation of a State authority or authorities responsible for standards for foster family homes and child care institutions, such standards to be reasonably in accord with recommended standards of national organizations concerned with standards for such institutions or homes, including standards related to admission policies, safety, sanitation, and protection of civil rights, for provisions that such State plan provide for the application of standards referred to in section 1397b(d)(1) of this title.
 
+#### Effective Date of 1996 Amendment
+
+Amendment by section 108(d)(2) of Pub. L. 104–193 effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as an Effective Date note under section 601 of this title.
+
 #### Effective Date of 1994 Amendment
 
 Section 203(c)(2) of Pub. L. 103–432 provided that: “The amendment made by subsection (b) \[amending this section\] shall take effect on October 1, 1995.”
 
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103–66 effective with respect to calendar quarters beginning on or after Oct. 1, 1993,see section 13711(c) of Pub. L. 103–66, set out as a note under section 622 of this title.
+Amendment by Pub. L. 103–66 effective with respect to calendar quarters beginning on or after Oct. 1, 1993, see section 13711(c) of Pub. L. 103–66, set out as a note under section 622 of this title.
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–508 applicable with respect to benefits for months beginning on or after the first day of the 6th calendar month following November 1990, see section 5054(c) of Pub. L. 101–508, set out as a note under section 602 of this title.
+Section 5054(c) of Pub. L. 101–508 provided that: “The amendments made by this section \[amending this section and section 602 of this title\] shall apply with respect to benefits for months beginning on or after the first day of the 6th calendar month following the month in which this Act is enacted \[November 1990\].”
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–485 effective Oct. 1, 1990, with provision for earlier effective dates in case of States making certain changes in their State plans and formally notifying the Secretary of Health and Human Services of their desire to become subject to the amendments by title II of Pub. L. 100–485, at such earlier effective dates, see section 204 of Pub. L. 100–485, set out as an Effective Date note under section 681 of this title.
+Section 204 of title II of Pub. L. 100–485 provided that:
+
+“(a)
+
+In General.—Except as provided in subsection (b), the amendments made by this title \[enacting sections 681 to 687 of this title, amending this section, sections 602, 603, 607, 1308, 1396a, and 1396s of this title, and section 51 of Title 26, Internal Revenue Code, repealing sections 609, 614, 630 to 632, and 633 to 645 of this title, and enacting provisions set out as notes under section 681 of this title\] shall become effective on October 1, 1990.
+
+“(b)
+
+Special Rules.—(1)(A) If any State makes the changes in its State plan approved under section 402 of the Social Security Act \[section 602 of this title\] that are required in order to carry out the amendments made by this title and formally notifies the Secretary of Health and Human Services of its desire to become subject to such amendments as of the first day of any calendar quarter beginning on or after the date on which the proposed regulations of the Secretary of Health and Human Services are published under section 203(a) \[42 U.S.C. 671 note\] (or, if earlier, the date on which such regulations are required to be published under such section) and before October 1, 1990, such amendments shall become effective with respect to that State as of such first day.
+
+“(B) In the case of any State in which the amendments made by this title become effective (in accordance with subparagraph (A)) with respect to any quarter of a fiscal year beginning before October 1, 1990, the limitation applicable to the State for the fiscal year under section 403(k)(2) of the Social Security Act \[section 603(k)(2) of this title\] (as added by section 201(c)(1) of this Act) shall be an amount that bears the same ratio to such limitation (as otherwise determined with respect to the State for the fiscal year) as the number of quarters in the fiscal year throughout which such amendments apply to the State bears to 4.
+
+“(2) Section 403(<i>l</i>)(3) of the Social Security Act \[section 603(<i>l</i>)(3) of this title\] (as added by section 201(c)(2) of this Act) is repealed effective October 1, 1995 (except that subparagraph (A) of such section 403(<i>l</i>)(3) shall remain in effect for purposes of applying any reduction in payment rates required by such subparagraph for any of the fiscal years specified therein); and section 403(<i>l</i>)(4) of such Act (as so added) is repealed effective October 1, 1998.
+
+“(3) Subsections (a), (c), and (d) of section 203 of this Act \[42 U.S.C. 671 note, 681 notes\], and section 486 of the Social Security Act \[section 686 of this title\] (as added by section 201(b) of this Act), shall become effective on the date of the enactment of this Act \[Oct. 13, 1988\].”
 
 #### Effective Date of 1986 Amendment
 
@@ -104,7 +138,15 @@ Amendment by Pub. L. 97–248 effective Oct. 1, 1981, see section 160(e) of Pub.
 
 Amendment by Pub. L. 97–35 effective Oct. 1, 1981, except as otherwise explicitly provided, see section 2354 of Pub. L. 97–35, set out as an Effective Date note under section 1397 of this title.
 
+#### Regulations
+
+Section 203(a) of title II of Pub. L. 100–485 provided that: “Not later than 6 months after the date of the enactment of this Act \[Oct. 13, 1988\], the Secretary of Health and Human Services (in this section referred to as the ‘Secretary’) shall issue proposed regulations for the purpose of implementing the amendments made by this title \[see Effective Date of 1988 Amendment note above\], including regulations establishing uniform data collection requirements. The Secretary shall publish final regulations for such purpose not later than one year after the date of the enactment of this Act. Regulations issued under this subsection shall be developed by the Secretary in consultation with the Secretary of Labor and with the responsible State agencies described in section 482(a)(2) of the Social Security Act \[section 682(a)(2) of this title\].”
+
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 652, 658, 664, 666, 672, 677, 1320a–2, 1320a–10 of this title; title 26 section 6402.
+This section is referred to in sections 652, 658, 664, 666, 672, 674, 677, 1320a–2, 1320a–10 of this title; title 26 section 6402.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. Two pars. (18) have been enacted.</i>
 

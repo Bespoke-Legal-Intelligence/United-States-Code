@@ -114,10 +114,10 @@
 | (i) | Exemptions. |
 | (j) | Conversions. |
 | (k) | Inclusion of law enforcement vehicles and urban buses. |
-| (<i>l)</i> | Consideration of factors. |
+| (<i>l</i>) | Consideration of factors. |
 | (m) | Consultation and participation of other Federal agencies. |
 | (n) | Petitions. |
-| (<i>o)</i> | Mandatory State fleet programs. |
+| (<i>o</i>) | Mandatory State fleet programs. |
 | [13258\.](Subchapter%20003%20%28III%29%20-%20Availability%20and%20Use%20of%20Replacement%20Fuels%2C%20Alternative%20Fuels%2C%20and%20Alternative%20Fueled%20Private%20Vehicles/%C2%A7%2013258%20-%20Credits.md) | Credits. |
 | (a) | In general. |
 | (b) | Allocation. |
@@ -223,7 +223,7 @@
 | (i) | United States-Asia Environmental Partnership. |
 | (j) | Buy America. |
 | (k) | Reports to Congress. |
-| (<i>l)</i> | Definitions. |
+| (<i>l</i>) | Definitions. |
 | (m) | Authorization of appropriations. |
 | [13317\.](Subchapter%20005%20%28V%29%20-%20Renewable%20Energy/%C2%A7%2013317%20-%20Renewable%20energy%20production%20incentive.md) | Renewable energy production incentive. |
 | (a) | Incentive payments. |
@@ -312,7 +312,7 @@
 | (i) | United States-Asia Environmental Partnership. |
 | (j) | Buy America. |
 | (k) | Reports to Congress. |
-| (<i>l)</i> | “Host country” defined. |
+| (<i>l</i>) | “Host country” defined. |
 | (m) | Authorization of appropriations. |
 | [13363\.](Subchapter%20006%20%28VI%29%20-%20Coal/Part%20C%20-%20Other%20Coal%20Provisions/%C2%A7%2013363%20-%20Conventional%20coal%20technology%20transfer.md) | Conventional coal technology transfer. |
 | [13364\.](Subchapter%20006%20%28VI%29%20-%20Coal/Part%20C%20-%20Other%20Coal%20Provisions/%C2%A7%2013364%20-%20Study%20of%20utilization%20of%20coal%20combustion%20byproducts.md) | Study of utilization of coal combustion byproducts. |
@@ -337,10 +337,10 @@
 | (i) | Approval of Secretary of the Interior. |
 | (j) | Authorization to stimulate coal seam. |
 | (k) | Notice and objection. |
-| (<i>l)</i> | Plugging. |
+| (<i>l</i>) | Plugging. |
 | (m) | Notice and objection by other parties. |
 | (n) | Venting for safety. |
-| (<i>o)</i> | Other laws. |
+| (<i>o</i>) | Other laws. |
 | (p) | Definitions. |
 | [13369\.](Subchapter%20006%20%28VI%29%20-%20Coal/Part%20C%20-%20Other%20Coal%20Provisions/%C2%A7%2013369%20-%20Establishment%20of%20data%20base%20and%20study%20of%20transportation%20rates.md) | Establishment of data base and study of transportation rates. |
 | (a) | Data base. |
@@ -383,7 +383,7 @@
 | (i) | Selection of projects. |
 | (j) | United States-Asia Environmental Partnership. |
 | (k) | Buy America. |
-| (<i>l)</i> | Report to Congress. |
+| (<i>l</i>) | Report to Congress. |
 | (m) | Definitions. |
 | (n) | Authorization of appropriations. |
 | [13388\.](Subchapter%20007%20%28VII%29%20-%20Global%20Climate%20Change/%C2%A7%2013388%20-%20Global%20Climate%20Change%20Response%20Fund.md) | Global Climate Change Response Fund. |
@@ -569,7 +569,7 @@
 | (i) | Definitions. |
 | (j) | Authorization of appropriations. |
 | (k) | Sense of Congress. |
-| (<i>l)</i> | Sunset provision. |
+| (<i>l</i>) | Sunset provision. |
 | [13479\.](Subchapter%20009%20%28IX%29%20-%20Energy%20and%20Environment/Part%20B%20-%20Electricity%20Generation%20and%20Use/%C2%A7%2013479%20-%20Spark%20M.%20Matsunaga%20Renewable%20Energy%20and%20Ocean%20Technology%20Center.md) | Spark M. Matsunaga Renewable Energy and Ocean Technology Center. |
 | (a) | Findings. |
 | (b) | Purpose. |
@@ -691,7 +691,7 @@
 
 |  |  |
 | :--- | ---: |
-| [13551\.](Subchapter%20012%20%28XII%29%20-%20Miscellaneous/Part%20B%20-%20Other%20Miscellaneous%20Provisions/%C2%A7%2013551%20-%20Geothermal%20heat%20pumps.md) | Geothermal heat pumps. |
+| [13551\.](Subchapter%20012%20%28XII%29%20-%20Miscellaneous/Part%20B%20-%20Other%20Miscellaneous%20Provisions/%C2%A7%2013551%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93182%2C%20title%20III%2C%20%C2%A7301%2C%20Aug.%206%2C%201996%2C%20110%20Stat.%201683.md) | Repealed. |
 | [13552\.](Subchapter%20012%20%28XII%29%20-%20Miscellaneous/Part%20B%20-%20Other%20Miscellaneous%20Provisions/%C2%A7%2013552%20-%20Use%20of%20energy%20futures%20for%20fuel%20purchases.md) | Use of energy futures for fuel purchases. |
 | (a) | Fuel study. |
 | (b) | Report. |

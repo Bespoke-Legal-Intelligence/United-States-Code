@@ -2,7 +2,7 @@
 
 #### (a) Publication of notice of proposed changes in rules of measurement and rates of tolls in Federal Register; participation by interested parties; availability of analysis
 
-The Commission shall publish in the Federal Register notice of any proposed change in the rules of measurement or rates of tolls referred to in section 3791(a) of this title. The Commission shall give interested parties an opportunity to participate in the proceedings through submission of written data, views, or arguments, and participation in a public hearing to be held not less than 30 days after the date of publication of the notice. The notice shall include the substance of the proposed change and a statement of the time, place, and nature of the proceedings. At the time of publication of such notice, the Commission shall make available to the public an analysis showing the basis and justification for the proposed change, which, in the case of a change in rates of tolls, shall indicate the conformity of the existing and proposed rates of tolls with the requirements of section 3792 of this title, and the Commission's adherence to the requirement for full consideration of the following factors set forth in Understanding (1) incorporated in the Resolution of Ratification of the Treaty Concerning the Permanent Neutrality and Operation of the Panama Canal (adopted by the United States Senate on March 16, 1978):
+The Commission shall publish in the Federal Register notice of any proposed change in the rules of measurement or rates of tolls referred to in section 3791 of this title. The Commission shall give interested parties an opportunity to participate in the proceedings through submission of written data, views, or arguments, and participation in a public hearing to be held not less than 30 days after the date of publication of the notice. The notice shall include the substance of the proposed change and a statement of the time, place, and nature of the proceedings. At the time of publication of such notice, the Commission shall make available to the public an analysis showing the basis and justification for the proposed change, which, in the case of a change in rates of tolls, shall indicate the conformity of the existing and proposed rates of tolls with the requirements of section 3792 of this title, and the Commission's adherence to the requirement for full consideration of the following factors set forth in Understanding (1) incorporated in the Resolution of Ratification of the Treaty Concerning the Permanent Neutrality and Operation of the Panama Canal (adopted by the United States Senate on March 16, 1978):
 
 &emsp;(1) the costs of operating and maintaining the Panama Canal;
 
@@ -20,23 +20,23 @@ After consideration of the relevant matter presented, the Commission may revise 
 
 #### (c) Publication of notice of changes in rules of measurement and rates of tolls in Federal Register
 
-After the proceedings have been conducted pursuant to subsections (a) and (b) of this section, the Commission shall publish in the Federal Register a notice of the changes in the rules of measurement or rates of tolls, as the case may be, to be recommended to the President.
+After the proceedings have been conducted pursuant to subsections (a) and (b) of this section, the Commission may change the rules of measurement or rates of tolls, as the case may be. The Commission shall publish notice of any such change in the Federal Register not less than 30 days before the effective date of the change.
 
-#### (d) Transmission of complete record of proceedings to President
+#### (d) Judicial review
 
-Upon publication of the notice pursuant to subsection (c) of this section, the Commission shall forward a complete record of the proceedings, with the recommendation of the Commission, to the President for his consideration. The President may approve, disapprove, or modify any or all of the changes in the rules of measurement or rates of tolls recommended by the Commission.
+Action to change the rules of measurement for the Panama Canal or the rates of tolls for theuse of the Canal pursuant to this part shall be subject to judicial review in accordance with chapter 7 of title 5.
 
-#### (e) Effective date of prescribed rules of measurement and rates of tolls
+(Pub. L. 96–70, title I, §1604, Sept. 27, 1979, 93 Stat. 490; Pub. L. 104–106, div. C, title XXXV, §3528, Feb. 10, 1996, 110 Stat. 641.)
 
-Rules of measurement or rates of tolls prescribed by the President pursuant to this part shall take effect on a date prescribed by the President which is not less than 30 days after the President publishes such rules or rates in the Federal Register.
+#### Amendments
 
-#### (f) Judicial review
+1996—Subsec. (a). Pub. L. 104–106, §3528(1), substituted “3791” for “3791(a)”.
 
-Action to change the rules of measurement for the Panama Canal or the rates of tolls for the use of the Canal pursuant to this part shall be subject to judicial review in accordance with chapter 7 of title 5.
+Subsec. (c). Pub. L. 104–106, §3528(2), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “After the proceedings have been conducted pursuant to subsections (a) and (b) of this section, the Commission shall publish in the Federal Register a notice of the changes in the rules of measurement or rates of tolls, as the case may be, to be recommended to the President.”
 
-(Pub. L. 96–70, title I, §1604, Sept. 27, 1979, 93 Stat. 490.)
+Subsec. (d). Pub. L. 104–106, §3528(3), redesignated subsec. (f) as (d) and struck out former subsec. (d) which read as follows: “Upon publication of the notice pursuant to subsection (c) of this section, the Commission shall forward a complete record of the proceedings, with the recommendation of the Commission, to the President for his consideration. The President may approve, disapprove, or modify any or all of the changes in the rules of measurement or rates of tolls recommended by the Commission.”
 
-#### Section Referred to in Other Sections
+Subsec. (e). Pub. L. 104–106, §3528(3), struck out subsec. (e) which read as follows: “Rules of measurement or rates of tolls prescribed by the President pursuant to this part shall take effect on a date prescribed by the President which is not less than 30 days after the President publishes such rules or rates in the Federal Register.”
 
-This section is referred to in section 3795 of this title.
+Subsec. (f). Pub. L. 104–106, §3528(3), redesignated subsec. (f) as (d).
 

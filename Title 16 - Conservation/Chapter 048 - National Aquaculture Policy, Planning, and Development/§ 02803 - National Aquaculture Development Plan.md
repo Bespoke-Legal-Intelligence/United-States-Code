@@ -84,13 +84,15 @@ The Secretaries, through the coordinating group, shall undertake a continuing as
 
 &emsp;(6) the identification of the economic, physical, legal, institutional, and social constraints that inhibit the development of aquaculture in the United States.
 
-(Pub. L. 96–362, §4, Sept. 26, 1980, 94 Stat. 1199; Pub. L. 99–198, title XVII, §1734, Dec. 23, 1985, 99 Stat. 1641.)
+(Pub. L. 96–362, §4, Sept. 26, 1980, 94 Stat. 1199; Pub. L. 96–561, title II, §238(b), Dec. 22, 1980, 94 Stat. 3300; Pub. L. 99–198, title XVII, §1734, Dec. 23, 1985, 99 Stat. 1641; Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41.)
 
 #### References in Text
 
 Reorganization Plan Numbered 4 of 1970, referred to in subsec. (c)(A), is Reorg. Plan No. 4 of 1970, 35 F.R. 15627, 84 Stat. 2090, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
+
+1996—Subsec. (a)(2). Pub. L. 104–208 made technical amendment to reference in original act which appears in text as reference to section 1852 of this title.
 
 1985—Subsec. (a)(2). Pub. L. 99–198, §1734(1)(A), (B), substituted “Secretary” for “Secretaries” wherever appearing and inserted provisions requiring consultations with the Secretary of Commerce and the Secretary of the Interior.
 
@@ -101,6 +103,16 @@ Subsec. (b). Pub. L. 99–198, §1734(2), inserted “to” after “determine�
 Subsec. (c)(1). Pub. L. 99–198, §1734(3)(A), substituted “Secretary determines” for “Secretaries determine”.
 
 Subsec. (c)(2)(C). Pub. L. 99–198, §1734(3)(B)–(D), added subpar. (C).
+
+1980—Subsec. (a)(2). Pub. L. 96–561 made technical amendment to reference in original act which appears in text as reference to section 1852 of this title.
+
+#### Effective Date of 1996 Amendment
+
+Section 101(a) \[title II, §211(b)\] of div. A of Pub. L. 104–208 provided that the amendment made by that section is effective 15 days after Oct. 11, 1996.
+
+#### Effective Date of 1980 Amendment
+
+Section 238(b) of Pub. L. 96–561 provided that the amendment made by that section is effective 15 days after Dec. 22, 1980.
 
 #### Section Referred to in Other Sections
 

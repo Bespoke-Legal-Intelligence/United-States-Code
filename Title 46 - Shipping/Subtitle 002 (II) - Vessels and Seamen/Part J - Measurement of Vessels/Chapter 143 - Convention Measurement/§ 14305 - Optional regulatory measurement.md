@@ -100,5 +100,5 @@ For provisions relating to the International Convention for the Prevention of Po
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 14302, 14501 of this title.
+This section is referred to in sections 7506, 14302, 14501 of this title.
 

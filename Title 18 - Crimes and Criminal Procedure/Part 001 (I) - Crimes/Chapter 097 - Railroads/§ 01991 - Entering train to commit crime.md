@@ -2,11 +2,11 @@
 
 Whoever, in any Territory or District, or within or upon any place within the exclusive jurisdiction of the United States, willfully and maliciously trespasses upon or enters upon any railroad train, railroad car, or railroad locomotive, with the intent to commit murder or robbery, shall be fined under this title or imprisoned not more than twenty years, or both.
 
-Whoever, within such jurisdiction, willfully and maliciously trespasses upon or enters upon any railroad train, railroad car, or railroad locomotive, with intent to commit any unlawful violence upon or against any passenger on said train, or car, or upon or against any engineer, conductor, fireman, brakeman, or any officer or employee connected with said locomotive, train, or car, or upon or against any express messenger or mail agent on said train or in any car thereof, or to commit any crime or offense against any person or property thereon, shall be fined not more than $1,000 or imprisoned not more than one year, or both.
+Whoever, within such jurisdiction, willfully and maliciously trespasses upon or enters upon any railroad train, railroad car, or railroad locomotive, with intent to commit any unlawful violence upon or against any passenger on said train, or car, or upon or against any engineer, conductor, fireman, brakeman, or any officer or employee connected with said locomotive, train, or car, or upon or against any express messenger or mail agent on said train or in any car thereof, or to commit any crime or offense against any person or property thereon, shall be fined under this title or imprisoned not more than one year, or both.
 
 Upon the trial of any person charged with any offense set forth in this section, it shall not be necessary to set forth or prove the particular person against whom it was intended to commit the offense, or that it was intended to commit such offense against any particular person.
 
-(June 25, 1948, ch. 645, 62 Stat. 794; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(K), 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 794; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(K), 108Stat. 2147; Oct. 11, 1996, Pub. L. 104–294, title VI, §601(a)(8), 110 Stat. 3498.)
 
 #### Historical and Revision Notes
 
@@ -19,6 +19,8 @@ Words “whoever shall counsel, aid, abet, or assist in the perpetration of any 
 Minor changes also were made in phraseology.
 
 #### Amendments
+
+1996—Pub. L. 104–294 substituted “fined under this title” for “fined not more than $1,000” in second par.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $5,000” in first par.
 

@@ -12,7 +12,7 @@ Funds awarded under this part shall be used to pay for enhanced instructional op
 
 &emsp;(4) identification and acquisition of curricular materials, educational software, and technologies to be used in the program;
 
-&emsp;(5) basic instructional services which are directly attributable to the presence in the school district of immigrant children, including the costs of providing additional classroom supplies, overhead costs, costs of construction, acquisition or rental of space, costs of transportation, or such other costs as are directlyattributable to such additional basic instructional services; and
+&emsp;(5) basic instructional services which are directly attributable to the presence in the school district of immigrant children, including the costs of providing additional classroom supplies, overhead costs, costs of construction, acquisition or rental of space, costs of transportation, or such other costs as are directly attributable to such additional basic instructional services; and
 
 &emsp;(6) such other activities, related to the purposes of this part, as the Secretary may authorize.
 

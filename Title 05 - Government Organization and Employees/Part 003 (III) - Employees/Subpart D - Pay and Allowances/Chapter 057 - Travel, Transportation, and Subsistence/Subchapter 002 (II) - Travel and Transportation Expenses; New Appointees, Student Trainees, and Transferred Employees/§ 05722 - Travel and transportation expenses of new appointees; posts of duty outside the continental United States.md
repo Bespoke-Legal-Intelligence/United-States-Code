@@ -1,10 +1,12 @@
 ### §5722. Travel and transportation expenses of new appointees; posts of duty outside the continental United States
 
-(a) Under such regulations as the President may prescribe and subject to subsections (b) and (c) of this section, an agency may pay from its appropriations—
+(a) Under regulations prescribed under section 5738 of this title and subject to subsections (b) and (c) of this section, an agency may pay from its appropriations—
 
-&emsp;(1) travel expenses of a new appointee and transportation expenses of his immediate family and his household goods and personal effects from the place of actual residence at the time of appointment to the place of employment outside the continental United States; and
+&emsp;(1) travel expenses of a new appointee and transportation expenses of his immediate family and his household goods and personal effects from the place of actual residence at the time of appointment to the place of employment outside the continental United States;
 
-&emsp;(2) these expenses on the return of an employee from his post of duty outside the continental United States to the place of his actual residence at the time of assignment to duty outside the United States.
+&emsp;(2) these expenses on the return of an employee from his post of duty outside the continental United States to the place of his actual residence at the time of assignment to duty outside the United States; and
+
+&emsp;(3) the expenses of transporting a privately owned motor vehicle as authorized under section 5727(c) of this title.
 
 (b) An agency may pay expenses under subsection (a)(1) of this section only after the individual selected for appointment agrees in writing to remain in the Government service for a minimum period of—
 
@@ -24,7 +26,7 @@
 
 (d) This section does not apply to appropriations for the Foreign Service of the United States.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 501.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 501; Pub. L. 104–201, div. A, title XVII, §§1715(b)(1), 1723(b)(1), Sept. 23, 1996, 110 Stat. 2755, 2759.)
 
 Historical and Revision Notes
 
@@ -32,7 +34,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 5 U.S.C. 73b–3(a) (less 3d–6th proviso).
 
@@ -48,9 +52,23 @@ In subsections (b)(1) and (c)(1), the words “under chapter 25 of title 20” a
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
-#### Delegation of Functions
+#### Amendments
 
-Authority of President under subsec. (a) of this section to prescribe regulations with respect to payment of travel expenses and transportation expenses of household goods and personal effects delegated to Administrator of General Services, see section 1(4) of Ex. Ord. No. 11609, July 22, 1971, 36 F.R. 13747, set out as a note under section 301 of Title 3, The President.
+1996—Subsec. (a). Pub. L. 104–201, §1723(b)(1), in introductory provisions, substituted “Under regulations prescribed under section 5738 of this title” for “Under such regulations as the President may prescribe”.
+
+Subsec. (a)(3). Pub. L. 104–201, §1715(b)(1), added par. (3).
+
+#### Effective Date of 1996 Amendment
+
+Section 1725(a) of title XVII of div. A of Pub. L. 104–201 provided that: “The amendments made by this title \[enacting sections 5737, 5738, and 5756 of this title, amending this section, sections 3375, 5723 to 5724c, 5726 to 5729, and 5731 of this title, section 1348 of Title 31, Money and Finance, section 707 of Title 38, Veterans’ Benefits, and sections 290aa and 299c–4 of Title 42, The Public Health and Welfare\] shall take effect 180 days after the date of the enactment of this Act \[Sept. 23, 1996\].”
+
+#### Regulations
+
+Section 1725(b) of title XVII of div. A of Pub. L. 104–201 provided that: “The Administrator of General Services shall, not later than the effective date set forth under subsection (a) \[set out above\], issue final regulations implementing the amendments made by this title \[see Effective Date of 1996 Amendment note above\].”
+
+#### Assessment of Cost Savings
+
+Section 1724 of title XVII of div. A of Pub. L. 104–201 provided that: “No later than one year after the effective date set forth in section 1725(a) \[set out above\], the Comptroller General shall submit to the Committee on Governmental Affairs of the Senate and the Committee on Government Reform and Oversight of the House of Representatives an assessment of the costs of Federal travel administration that are saved as a result of the amendments made by this title \[see Effective Date of 1996 Amendment note above\] and the regulations prescribed to carry out the amendments.”
 
 #### Section Referred to in Other Sections
 

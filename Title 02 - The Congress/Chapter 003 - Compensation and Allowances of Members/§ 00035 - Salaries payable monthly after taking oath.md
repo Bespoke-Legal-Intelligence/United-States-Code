@@ -10,5 +10,5 @@ R.S. §39 derived from Res. Mar. 29, 1867, No. 18, 15 Stat. 24.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 25b, 35a of this title.
+This section is referred to in section 35a of this title.
 

@@ -1,0 +1,40 @@
+### §2315. Testing of preparedness for emergencies involving nuclear, radiological, chemical, and biological weapons
+
+#### (a) Emergencies involving chemical or biological weapons
+
+(1) The Secretary of Defense shall develop and carry out a program for testing and improving the responses of Federal, State, and local agencies to emergencies involving biological weapons and related materials and emergencies involving chemical weapons and related materials.
+
+(2) The program shall include exercises to be carried out during each of five successive fiscal years beginning with fiscal year 1997.
+
+(3) In developing and carrying out the program, the Secretary shall coordinate with the Director of the Federal Bureau of Investigation, the Director of the Federal Emergency Management Agency, the Secretary of Energy, and the heads of any other Federal, State, and local government agencies that have an expertise or responsibilities relevant to emergencies described in paragraph (1).
+
+#### (b) Emergencies involving nuclear and radiological weapons
+
+(1) The Secretary of Energy shall develop and carry out a program for testing and improving the responses of Federal, State, and local agencies to emergencies involving nuclear and radiological weapons and related materials.
+
+(2) The program shall include exercises to be carried out during each of five successive fiscal years beginning with fiscal year 1997.
+
+(3) In developing and carrying out the program, the Secretary shall coordinate with the Director of the Federal Bureau of Investigation, the Director of the Federal Emergency Management Agency, the Secretary of Defense, and the heads of any other Federal, State, and local government agencies that have an expertise or responsibilities relevant to emergencies described in paragraph (1).
+
+#### (c) Annual revisions of programs
+
+The official responsible for carrying out a program developed under subsection (a) or (b) of this section shall revise the program not later than June 1 in each fiscal year covered by the program. The revisions shall include adjustments that the official determines necessary or appropriate on the basis of the lessons learned from the exercise or exercises carried out under the program in the fiscal year, including lessons learned regarding coordination problems and equipment deficiencies.
+
+#### (d) Option to transfer responsibility
+
+(1) The President may designate the head of an agency outside the Department of Defense to assume the responsibility for carrying out the program developed under subsection (a) of this section beginning on or after October 1, 1999, and relieve the Secretary of Defense of that responsibility upon the assumption of the responsibility by the designated official.
+
+(2) The President may designate the head of an agency outside the Department of Energy to assume the responsibility for carrying out the program developed under subsection (b) of this section beginning on or after October 1, 1999, and relieve the Secretary of Energy of that responsibility upon the assumption of the responsibility by the designated official.
+
+#### (e) Funding
+
+Of the total amount authorized to be appropriated under section 301,<sup>1</sup> $15,000,000 is available for the development and execution of the programs required by this section, including the participation of State and local agencies in exercises carried out under the programs.
+
+(Pub. L. 104–201, div. A, title XIV, §1415, Sept. 23, 1996, 110 Stat. 2720.)
+
+#### References in Text
+
+Section 301, referred to in subsec. (e), is section 301 of Pub. L. 104–201, div. A, title III, Sept. 23, 1996, 110 Stat. 2475, which is not classified to the Code.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+

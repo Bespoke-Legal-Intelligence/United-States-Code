@@ -28,7 +28,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 5 U.S.C. 2285(a), (b).
 
@@ -46,5 +48,5 @@ The date of enactment of this subsection, referred to in subsec. (e), is the dat
 
 #### Amendments
 
-<b>1996</b>—Subsec. (e). Pub. L. 104–93 added subsec. (e).
+1996—Subsec. (e). Pub. L. 104–93 added subsec. (e).
 

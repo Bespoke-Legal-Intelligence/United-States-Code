@@ -12,7 +12,7 @@ The President is authorized to employ such other personnel as he deems necessary
 
 #### (d) Extension of benefits
 
-For the purpose of performing functions under this chapter outside the United States, the Director of the United States Information Agency is authorized to provide that any person employed or assigned by a United States Government agency shall be entitled, except to the extent that the Director of the United States Information Agency may specify otherwise in cases in which the period of employment or assignment exceeds thirty months, to the same benefits as are provided by section 3950 of this title for individuals appointed to the Foreign Service.
+For the purpose of performing functions under this chapter outside the United States, the Director of the United States Information Agency is authorized to provide that any person employed or assigned by a United States Government agency shall be entitled, except to the extent that the Director of the United States Information Agency may specify otherwise in cases in which the period of employment or assignment exceeds thirty months, to the samebenefits as are provided by section 3950 of this title for individuals appointed to the Foreign Service.
 
 #### (e) Grants; use of funds, counseling service; publicity and promotion abroad
 
@@ -68,7 +68,7 @@ Subsec. (d). Pub. L. 96–465, §2206(a)(9), among other changes, substituted re
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96–465 effective Feb. 15, 1981, except as otherwise provided, see section 2403 of Pub. L.96–465, set out as an Effective Date note under section 3901 of this title.
+Amendment by Pub. L. 96–465 effective Feb. 15, 1981, except as otherwise provided, see section 2403 of Pub. L. 96–465, set out as an Effective Date note under section 3901 of this title.
 
 #### Effective Date of 1979 Amendment
 
@@ -120,7 +120,7 @@ Sec. 2. <i>United States Information Agency</i>. (a) Subject to the provisions o
 
 (4) The functions so conferred by Sections 104(d) and 108(c) and (d) of the Act \[subsec. (d) of this section and section 2458(c), (d) of this title\] to the extent that they pertain to the functions delegated by the foregoing provisions of this section.
 
-(b) The Director of the United States Information Agency shall prepare and transmit to the President the reports which the President is required to submit tothe Congress by section 108(b) of the Act \[section 2458(b) of this title\] to the extent that they are with respect to activities carried out by the United States Information Agency pursuant to section 102(a)(2)(iii) and section 102(a)(3) of the Act \[section 2452(a)(2)(iii) and (a)(3) of this title\].
+(b) The Director of the United States Information Agency shall prepare and transmit to the President the reports which the President is required to submit to the Congress by section 108(b) of the Act \[section 2458(b) of this title\] to the extent that they are with respect to activities carried out by the United States Information Agency pursuant to section 102(a)(2)(iii) and section 102(a)(3) of the Act \[section 2452(a)(2)(iii) and (a)(3) of this title\].
 
 (c) The functions so conferred by Section 102(a)(3) of the Act \[section 2452(a)(3) of this title\] to the extent that they are in respect of fairs, expositions, and demonstrations held outside of the United States, but exclusive of the functions delegated by the provisions of Section 1(a)(3) of this order.
 
@@ -224,7 +224,7 @@ Section 101. Executive Order No. 11034 of June 25, 1962 \[set out as a note abov
 
 (3) By adding a new paragraph at the end of section 8(a), reading as follows:
 
-“(15) Any provision of law or limitation of authority to the extent that such provision or limitation would limit or prohibit (i) receipt of admission fees or payments under contracts through advances or otherwise, for concessions, services, space, or other consideration, and the credit of such receipts to the applicable appropriation, and (ii) rental or lease for periods not exceeding ten years of buildings and grounds.”
+“(15) Any provision of law or limitation of authority to the extent that such provision or limitation wouldlimit or prohibit (i) receipt of admission fees or payments under contracts through advances or otherwise, for concessions, services, space, or other consideration, and the credit of such receipts to the applicable appropriation, and (ii) rental or lease for periods not exceeding ten years of buildings and grounds.”
 
 (4) By adding a new paragraph at the end of section 10, reading as follows:
 
@@ -248,7 +248,7 @@ By virtue of the authority vested in me by section 104 of the Mutual Educational
 
 Section 1. The Secretary of the Interior is authorized, with respect to the International Symposium on Geothermal Energy to be held in San Francisco, California, in May 1975, to perform the functions conferred by section 102(b)(5), (7), and (8) of the act \[section 2452(b)(5), (7) and (8) of this title\].
 
-Sec. 2. I find that the delegation made by section 1 of this order is in the interest of the purposes expressed inthe act and the efficient administration of the International Symposium on Geothermal Energy.
+Sec. 2. I find that the delegation made by section 1 of this order is in the interest of the purposes expressed in the act and the efficient administration of the International Symposium on Geothermal Energy.
 
 Sec. 3. The delegation made by this order shall become effective upon the expiration of sixty days while the Congress is in session. In computing that sixty days, there shall be excluded days on which either House is not in session because of an adjournment of more than three days.
 

@@ -61,24 +61,24 @@
 
 |  |  |
 | :--- | ---: |
-| [1461\.](Subchapter%20004%20%28IV%29%20-%20Participation%20by%20Government%20Agencies/%C2%A7%2001461%20-%20General%20authorization.md) | General authorization. |
+| [1461\.](Subchapter%20005%20%28V%29%20-%20Dissemination%20Abroad%20of%20Information%20About%20the%20United%20States/%C2%A7%2001461%20-%20General%20authorization.md) | General authorization. |
 | (a) | Dissemination of information abroad. |
 | (b) | Dissemination of information within United States. |
 | 1461–1. | Mission of United States Information Agency. |
 | 1461–1a. | Ban on domestic activities by United States Information Agency. |
-| [1461a.](Subchapter%20004%20%28IV%29%20-%20Participation%20by%20Government%20Agencies/%C2%A7%2001461a%20-%20Omitted.md) | Omitted. |
-| [1461b.](Subchapter%20004%20%28IV%29%20-%20Participation%20by%20Government%20Agencies/%C2%A7%2001461b%20-%20Indemnification%20of%20owners%20of%20short-wave%20radio%20facilities%20against%20loss%20or%20damage.md) | Indemnification of owners of short-wave radio facilities against loss or damage. |
-| [1461c.](Subchapter%20004%20%28IV%29%20-%20Participation%20by%20Government%20Agencies/%C2%A7%2001461c%20-%20Omitted.md) | Omitted. |
-| [1462\.](Subchapter%20004%20%28IV%29%20-%20Participation%20by%20Government%20Agencies/%C2%A7%2001462%20-%20Policies%20governing%20information%20activities.md) | Policies governing information activities. |
-| [1463\.](Subchapter%20004%20%28IV%29%20-%20Participation%20by%20Government%20Agencies/%C2%A7%2001463%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93236%2C%20title%20III%2C%20%C2%A7315%28a%29%2C%20Apr.%2030%2C%201994%2C%20108%20Stat.%20445.md) | Repealed. |
-| [1464\.](Subchapter%20004%20%28IV%29%20-%20Participation%20by%20Government%20Agencies/%C2%A7%2001464%20-%20Voice%20of%20America-Europe.md) | Voice of America/Europe. |
-| [1464a.](Subchapter%20004%20%28IV%29%20-%20Participation%20by%20Government%20Agencies/%C2%A7%2001464a%20-%20USIA%20satellite%20and%20television.md) | USIA satellite and television. |
+| [1461a.](Subchapter%20005%20%28V%29%20-%20Dissemination%20Abroad%20of%20Information%20About%20the%20United%20States/%C2%A7%2001461a%20-%20Omitted.md) | Omitted. |
+| [1461b.](Subchapter%20005%20%28V%29%20-%20Dissemination%20Abroad%20of%20Information%20About%20the%20United%20States/%C2%A7%2001461b%20-%20Indemnification%20of%20owners%20of%20short-wave%20radio%20facilities%20against%20loss%20or%20damage.md) | Indemnification of owners of short-wave radio facilities against loss or damage. |
+| [1461c.](Subchapter%20005%20%28V%29%20-%20Dissemination%20Abroad%20of%20Information%20About%20the%20United%20States/%C2%A7%2001461c%20-%20Omitted.md) | Omitted. |
+| [1462\.](Subchapter%20005%20%28V%29%20-%20Dissemination%20Abroad%20of%20Information%20About%20the%20United%20States/%C2%A7%2001462%20-%20Policies%20governing%20information%20activities.md) | Policies governing information activities. |
+| [1463\.](Subchapter%20005%20%28V%29%20-%20Dissemination%20Abroad%20of%20Information%20About%20the%20United%20States/%C2%A7%2001463%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93236%2C%20title%20III%2C%20%C2%A7315%28a%29%2C%20Apr.%2030%2C%201994%2C%20108%20Stat.%20445.md) | Repealed. |
+| [1464\.](Subchapter%20005%20%28V%29%20-%20Dissemination%20Abroad%20of%20Information%20About%20the%20United%20States/%C2%A7%2001464%20-%20Voice%20of%20America-Europe.md) | Voice of America/Europe. |
+| [1464a.](Subchapter%20005%20%28V%29%20-%20Dissemination%20Abroad%20of%20Information%20About%20the%20United%20States/%C2%A7%2001464a%20-%20USIA%20satellite%20and%20television.md) | USIA satellite and television. |
 | (a) | In general. |
 | (b) | Broadcast principles. |
 | (c) | Programs. |
 | (d) | Costs. |
 | (e) | Allocation of funds. |
-| [1464b.](Subchapter%20004%20%28IV%29%20-%20Participation%20by%20Government%20Agencies/%C2%A7%2001464b%20-%20Voice%20of%20America%20hiring%20practices.md) | Voice of America hiring practices. |
+| [1464b.](Subchapter%20005%20%28V%29%20-%20Dissemination%20Abroad%20of%20Information%20About%20the%20United%20States/%C2%A7%2001464b%20-%20Voice%20of%20America%20hiring%20practices.md) | Voice of America hiring practices. |
 | (a) | Prohibition. |
 | (b) | Exception. |
 | (c) | Report. |
@@ -225,6 +225,7 @@ This chapter is referred to in sections 2054, 2056, 2275, 2458, 2681 of this tit
 - [Subchapter 002 (II) - Interchange of Persons, Knowledge, and Skills Between United States and Foreign Countries](Subchapter%20002%20%28II%29%20-%20Interchange%20of%20Persons%2C%20Knowledge%2C%20and%20Skills%20Between%20United%20States%20and%20Foreign%20Countries/README.md)
 - [Subchapter 003 (III) - Assignment of Specialists](Subchapter%20003%20%28III%29%20-%20Assignment%20of%20Specialists/README.md)
 - [Subchapter 004 (IV) - Participation by Government Agencies](Subchapter%20004%20%28IV%29%20-%20Participation%20by%20Government%20Agencies/README.md)
+- [Subchapter 005 (V) - Dissemination Abroad of Information About the United States](Subchapter%20005%20%28V%29%20-%20Dissemination%20Abroad%20of%20Information%20About%20the%20United%20States/README.md)
 - [Subchapter 005&#8211;A (V&#8211;A) - Radio Broadcasting to Cuba](Subchapter%20005%E2%80%93A%20%28V%E2%80%93A%29%20-%20Radio%20Broadcasting%20to%20Cuba/README.md)
 - [Subchapter 005&#8211;B (V&#8211;B) - Television Broadcasting to Cuba](Subchapter%20005%E2%80%93B%20%28V%E2%80%93B%29%20-%20Television%20Broadcasting%20to%20Cuba/README.md)
 - [Subchapter 006 (VI) - Advisory Commissions to Formulate Policies](Subchapter%20006%20%28VI%29%20-%20Advisory%20Commissions%20to%20Formulate%20Policies/README.md)

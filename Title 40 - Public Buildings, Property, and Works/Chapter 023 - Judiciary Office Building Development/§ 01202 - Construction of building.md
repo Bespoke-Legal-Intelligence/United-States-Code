@@ -34,7 +34,7 @@
 
 #### (A) Size of building
 
-&emsp;&emsp;The building (excluding parking facilities) to be constructed under this chapter maynot exceed 520,000 gross square feet in size above the level of Columbia Plaza in the District of Columbia.
+&emsp;&emsp;The building (excluding parking facilities) to be constructed under this chapter may not exceed 520,000 gross square feet in size above the level of Columbia Plaza in the District of Columbia.
 
 #### (B) Height of building
 

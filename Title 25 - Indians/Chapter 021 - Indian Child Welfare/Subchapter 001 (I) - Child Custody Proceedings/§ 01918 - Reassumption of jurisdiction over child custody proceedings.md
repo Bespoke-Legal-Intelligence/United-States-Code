@@ -16,7 +16,7 @@ Any Indian tribe which became subject to State jurisdiction pursuant to the prov
 
 &emsp;(iv) the feasibility of the plan in cases of multitribal occupation of a single reservation or geographic area.
 
-(2) In those cases where the Secretary determines that the jurisdictional provisions of section 1911(a) of this title are not feasible, he is authorized to accept partial retrocession which will enable tribes to exercise referral jurisdiction as provided in section 1911(b) of this title, or, where appropriate, will allow them to exercise exclusive jurisdiction as provided in section 1911(a) of this title over limited community or geographic areas without regard for the reservation status of the area affected.
+(2) In those cases where the Secretary determines that the jurisdictional provisions of section 1911(a) of this title are not feasible, he is authorized to accept partial retrocession which will enable tribes to exercise referral jurisdiction as provided in section 1911(b) of this title, or, where appropriate, will allow them to exercise exclusive jurisdiction as provided in section 1911(a) of this title over limited community orgeographic areas without regard for the reservation status of the area affected.
 
 #### (c) Approval of petition; publication in Federal Register; notice; reassumption period; correction of causes for disapproval
 

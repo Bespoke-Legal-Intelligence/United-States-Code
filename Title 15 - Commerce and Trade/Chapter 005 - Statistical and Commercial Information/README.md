@@ -8,14 +8,14 @@
 | [175\.](%C2%A7%2000175%20-%20Additional%20duties%20of%20Bureau.md) | Additional duties of Bureau. |
 | [176\.](%C2%A7%2000176%20-%20Collection%20of%20commercial%20statistics.md) | Collection of commercial statistics. |
 | [176a.](%C2%A7%2000176a%20-%20Confidential%20nature%20of%20information%20furnished%20Bureau.md) | Confidential nature of information furnished Bureau. |
-| 176b, 177. Repealed. |  |
+| 176b, 177. | Repealed. |
 | [178\.](%C2%A7%2000178%20-%20Collection%20of%20statistics%20of%20foreign%20and%20interstate%20commerce%20and%20transportation.md) | Collection of statistics of foreign and interstate commerce and transportation. |
 | 179 to 181. Repealed. |  |
 | [182\.](%C2%A7%2000182%20-%20Statistics%20of%20manufactures.md) | Statistics of manufactures. |
 | [183\.](%C2%A7%2000183%20-%20Report%20of%20statistics.md) | Report of statistics. |
 | 184 to 187. Repealed. |  |
 | [188\.](%C2%A7%2000188%20-%20Publication%20of%20commercial%20information.md) | Publication of commercial information. |
-| 189, 189a. Repealed. |  |
+| 189, 189a. | Repealed. |
 | [190\.](%C2%A7%2000190%20-%20Discussions%20in%20commercial%20reports%20of%20partisan%20questions.md) | Discussions in commercial reports of partisan questions. |
 | [191\.](%C2%A7%2000191%20-%20Terms%20of%20measure%2C%20weight%2C%20and%20money%20in%20commercial%20reports.md) | Terms of measure, weight, and money in commercial reports. |
 | 192 to 195. Repealed or Omitted. |  |

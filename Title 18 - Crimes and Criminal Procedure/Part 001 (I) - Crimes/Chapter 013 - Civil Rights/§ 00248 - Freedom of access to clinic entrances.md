@@ -48,7 +48,7 @@ In general.—If the Attorney General of the United States has reasonable cause 
 
 &emsp;&emsp;(B)
 
-Relief.—In any action under subparagraph (A), the court may award appropriate relief, including temporary, preliminary or permanent injunctive relief, and compensatory damages to persons aggrieved as described in paragraph (1)(B). The court, to vindicate the public interest, may also assess a civil penalty against each respondent—
+Relief.—In any action under subparagraph (A), the court may award appropriate relief, including temporary, preliminary or permanent injunctive relief, and compensatory damages to persons aggrieved as described in paragraph (1)(B). The court, tovindicate the public interest, may also assess a civil penalty against each respondent—
 
 &emsp;&emsp;&emsp;(i) in an amount not exceeding $10,000 for a nonviolent physical obstruction and $15,000 for other first violations; and
 
@@ -60,7 +60,7 @@ Actions by state attorneys general.—
 
 &emsp;&emsp;(A)
 
-In general.—If the Attorney General of a State has reasonable cause to believe that any person or group of persons is being, has been, or may be injured by conduct constituting a violation of this section, such Attorney General may commence a civil action in the name of such State, as parens patriaeon behalf of natural persons residing in such State, in any appropriate United States District Court.
+In general.—If the Attorney General of a State has reasonable cause to believe that any person or group of persons is being, has been, or may be injured by conduct constituting a violation of this section, such Attorney General may commence a civil action in the name of such State, as parens patriae on behalf of natural persons residing in such State, in any appropriate United States District Court.
 
 &emsp;&emsp;(B)
 

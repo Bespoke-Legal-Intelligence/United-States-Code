@@ -8,7 +8,7 @@
 
 (2) The Secretary shall explore, to the extent feasible, the prospects for joint financial participation by other nations with the United States in the construction of a fusion engineering device.
 
-(3) Within two years of October 7, 1980, the Secretary shall transmit to the House Committee on Science and Technology and the Senate Committee on Energy and Natural Resources the results of such examinations and explorations with his recommendations for construction of a national or international fusion engineering device: <i>Provided, however,</i> That such examinations and explorations shall not have the effect of delaying design activities related to a national fusion engineering device.
+(3) Within two years of October 7, 1980, the Secretary shall transmit to the House Committee on Science and Technology and the Senate Committee on Energy and Natural Resources the results of such examinations and explorations with his recommendations for construction of a national or international fusion engineering device: <i>Provided, however</i>, That such examinations and explorations shall not have the effect of delaying design activities related to a national fusion engineering device.
 
 (Pub. L. 96–386, §9, Oct. 7, 1980, 94 Stat. 1543.)
 

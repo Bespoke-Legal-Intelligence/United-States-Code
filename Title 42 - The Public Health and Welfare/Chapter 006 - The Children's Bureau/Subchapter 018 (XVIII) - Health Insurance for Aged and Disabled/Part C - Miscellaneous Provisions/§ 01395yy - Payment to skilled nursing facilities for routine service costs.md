@@ -38,7 +38,7 @@ The Secretary may make adjustments in the limits set forth in subsection (a) of 
 
 (3) For purposes of this subsection, urban and rural areas shall be determined in the same manner as for purposes of subsection (a) of this section, and the term “region” shall have the same meaning as under section 1395ww(d)(2)(D) of this title.
 
-(4) The Secretary shall establish the prospective payment amounts for cost reporting periods beginning in a fiscal year at least 90 days prior to the beginning of such fiscal year, on the basis of the most recent data available for a 12-month period. A skilled nursing facility must notify the Secretary of its intention to be paid pursuant to this subsection for a cost reporting period no later than 30 days before the beginning of that period.
+(4) The Secretary shall establish the prospective payment amounts for cost reporting periods beginning in a fiscal year at least 90 days priorto the beginning of such fiscal year, on the basis of the most recent data available for a 12-month period. A skilled nursing facility must notify the Secretary of its intention to be paid pursuant to this subsection for a cost reporting period no later than 30 days before the beginning of that period.
 
 (5) The Secretary shall provide for a simplified cost report to be filed by facilities being paid pursuant to this subsection, which shall require only the cost information necessary for determining prospective payment amounts pursuant to paragraph (2) and reasonable costs of ancillary services.
 
@@ -106,7 +106,7 @@ Pub. L. 103–432, title I, §106(a), Oct. 31, 1994, 108 Stat. 4405, provided th
 
 #### No Change in Limits on Per Diem Service Costs for Extended Care Services for Fiscal Years 1994 and 1995
 
-Section 13503(a)(1) of Pub. L. 103–66 provided that: “The Secretary of Health and Human Services may not provide for any change in the limits on per diem routine service costs for extended care services under section 1888 of the Social Security Act \[this section\] for cost reporting periods beginning during fiscal years 1994 and 1995, except as may be necessary to take into account the amendments made by paragraph (3)(A) \[amending this section\]. The effect of the preceding sentence shall not be considered by the Secretary in making adjustments pursuant to section 1888(c) of such Act to the payment limits for such services during such fiscal years.”
+Section 13503(a)(1) of Pub. L. 103–66 provided that: “The Secretary of Health and Human Services may notprovide for any change in the limits on per diem routine service costs for extended care services under section 1888 of the Social Security Act \[this section\] for cost reporting periods beginning during fiscal years 1994 and 1995, except as may be necessary to take into account the amendments made by paragraph (3)(A) \[amending this section\]. The effect of the preceding sentence shall not be considered by the Secretary in making adjustments pursuant to section 1888(c) of such Act to the payment limits for such services during such fiscal years.”
 
 #### No Change in Prospective Payments for Services Furnished During Fiscal Years 1994 and 1995
 

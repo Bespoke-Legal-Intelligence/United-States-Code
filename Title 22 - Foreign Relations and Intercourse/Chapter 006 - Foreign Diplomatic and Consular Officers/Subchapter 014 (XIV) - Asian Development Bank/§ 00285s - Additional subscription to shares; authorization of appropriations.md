@@ -4,7 +4,7 @@
 
 (b) In order to pay for the increase in the United States subscription to the Bank provided for in this section, there are authorized to be appropriated without fiscal year limitation $814,286,250 for payment by the Secretary of the Treasury.
 
-(Pub. L. 89–369, §22, as added Pub. L. 95–118, title V, §501, Oct. 3, 1977, 91 Stat. 1068; amended Pub.L. 97–35, title XIII, §1353, Aug. 13, 1981, 95 Stat. 745.)
+(Pub. L. 89–369, §22, as added Pub. L. 95–118, title V, §501, Oct. 3, 1977, 91 Stat. 1068; amended Pub. L. 97–35, title XIII, §1353, Aug. 13, 1981, 95 Stat. 745.)
 
 #### Amendments
 

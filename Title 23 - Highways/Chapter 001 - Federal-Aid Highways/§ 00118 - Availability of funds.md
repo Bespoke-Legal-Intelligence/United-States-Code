@@ -44,7 +44,7 @@ Priority consideration for certain projects.—In selecting projects to fund und
 
 Period of availability of discretionary funds.—Sums made available pursuant to this paragraph shall remain available until expended.
 
-(d) In addition to amounts otherwise available to carry out this section, an amount equal to the amount by which the unobligated apportionment for the Interstate System in any State is reduced under section 103(e)(4) of this title on account of the withdrawal of a route or portion thereof on the Interstate System, which withdrawal is approved after the date of enactment of this subsection, shall be available to the Secretary for obligation in accordance with subsection (b)(1) of this section.
+(d) In addition to amounts otherwise available to carry out this section, an amount equal to the amount by which the unobligated apportionment for the Interstate System in any State is reduced under section 103(e)(4) of this title on account of the withdrawal of a route or portion thereof on the Interstate System, which withdrawal is approved after the date of enactmentof this subsection, shall be available to the Secretary for obligation in accordance with subsection (b)(1) of this section.
 
 (e) The total payments to any State shall not at any time during a current fiscal year exceed the total of all apportionments to such State in accordance with section 104 of this title for such fiscal year and all preceding fiscal years.
 
@@ -112,7 +112,7 @@ Amendment by Pub. L. 102–240 effective Dec. 18, 1991, and applicable to funds 
 
 #### Effective Date of 1979 Amendment
 
-Section 5(b) of Pub. L. 96–106 provided that: “The amendment made by subsection (a) of this section\[amending this section\] shall apply to all amounts apportioned under section 104(b)(5)(B) of title 23, United States Code, for the fiscal year 1978 and for subsequent fiscal years.”
+Section 5(b) of Pub. L. 96–106 provided that: “The amendment made by subsection (a) of this section \[amending this section\] shall apply to all amounts apportioned under section 104(b)(5)(B) of title 23, United States Code, for the fiscal year 1978 and for subsequent fiscal years.”
 
 #### Section Referred to in Other Sections
 

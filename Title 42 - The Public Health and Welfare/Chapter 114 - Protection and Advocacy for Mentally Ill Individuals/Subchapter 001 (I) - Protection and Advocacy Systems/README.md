@@ -2,7 +2,7 @@
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in sections 256, 10841, 10851 of this title.
+This subchapter is referred to in sections 10841, 10851 of this title.
 
 
 ---

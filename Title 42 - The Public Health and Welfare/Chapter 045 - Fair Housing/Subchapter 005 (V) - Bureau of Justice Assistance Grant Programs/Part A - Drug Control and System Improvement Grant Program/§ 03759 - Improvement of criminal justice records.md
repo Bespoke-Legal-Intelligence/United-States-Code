@@ -16,7 +16,7 @@ The improvement referred to in subsection (a) of this section shall include—
 
 &emsp;(4) <sup>1</sup> the improvement of State record systems and the sharing with the Attorney General of all of the records described in paragraphs (1), (2), and (3) of this subsection and the records required by the Attorney General under section 103 of the Brady Handgun Violence Prevention Act, for the purpose of implementing that Act.
 
-&emsp;(4) <sup>1</sup> the improvement of State record systems and the sharing of all of the records described in paragraphs (1), (2), and (3) and the child abuse crime records required under the National Child Protection Act of 1993 \[42 U.S.C. 5119 et seq.\] with the Attorney Generalfor the purpose of implementing the National Child Protection Act of 1993.
+&emsp;(4) <sup>1</sup> the improvement of State record systems and the sharing of all of the records described in paragraphs (1), (2), and (3) and the child abuse crime records required under the National Child Protection Act of 1993 \[42 U.S.C. 5119 et seq.\] with the Attorney General for the purpose of implementing the National Child Protection Act of 1993.
 
 #### (c) Guidelines
 

@@ -26,7 +26,9 @@ Agreements To Combine Amounts.—States may agree to combine any part of the amo
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -36,7 +38,7 @@ Historical and Revision Notes
 
 49 App.:1654(e).
 
-Oct. 15, 1966, Pub. L. 89–670, 80 Stat. 931, §5(e), (j); added Feb. 5, 1976, Pub. L. 94–210, §803, 90 Stat. 130; Nov. 8, 1978, Pub. L. 95–607, §§102–106(a), 107–109(a), 92 Stat. 3059, 3062; Oct. 12, 1979, Pub. L. 96–86, §115(b), 93 Stat. 662; Aug. 13, 1981, Pub. L. 97–35, §§1191, 1192, 95 Stat. 699; Jan. 14, 1983, Pub. L. 97–468, §501, 96 Stat. 2551; Apr. 7, 1986, Pub. L. 99–272, §4018, 100 Stat. 111; restated Dec. 11, 1989, Pub. L. 101–213, §2(a), (c), 103 Stat. 1843, 1845, 1847.
+Oct. 15, 1966, Pub. L. 89–670, 80 Stat. 931, §5(e), (j); added Feb. 5, 1976, Pub. L. 94–210, §803, 90 Stat. 130; Nov. 8, 1978, Pub. L. 95–607, §§102–106(a), 107– 109(a), 92 Stat. 3059, 3062; Oct. 12, 1979, Pub. L. 96–86, §115(b), 93 Stat. 662; Aug. 13, 1981, Pub. L. 97–35, §§1191, 1192, 95 Stat. 699; Jan. 14, 1983, Pub. L. 97–468, §501, 96 Stat. 2551; Apr. 7, 1986, Pub. L. 99–272, §4018, 100 Stat. 111; restated Dec. 11, 1989, Pub. L. 101–213, §2(a), (c), 103 Stat. 1843, 1845, 1847.
 
 22105(b)
 

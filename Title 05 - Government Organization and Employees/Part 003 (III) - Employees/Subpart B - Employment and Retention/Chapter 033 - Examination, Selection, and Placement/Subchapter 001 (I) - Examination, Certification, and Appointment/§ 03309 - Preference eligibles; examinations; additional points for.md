@@ -14,7 +14,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 5 U.S.C. 852 (1st sentence).
 
@@ -42,7 +44,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-<b>1967</b>—Cl. (1). Pub. L. 90–83 substituted “section 2108(3)(C)–(G)” for “section 2108(3)(B)–(F).” See Historical and Revision Notes under section 3305 of this title.
+1967—Cl. (1). Pub. L. 90–83 substituted “section 2108(3)(C)–(G)” for “section 2108(3)(B)–(F).” See Historical and Revision Notes under section 3305 of this title.
 
 #### Cross References
 
@@ -56,5 +58,5 @@ Seniority not affected by transfer of postal ten-point preference eligibles, see
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3313, 3320 of this title; title 22 section 1438.
+This section is referred to in sections 3313, 3320 of this title; title 10 section 1599c; title 22 section 1438.
 

@@ -6,7 +6,7 @@ Congress finds that closer coordination and more effective use of resources amon
 
 #### (b) Data elements
 
-The Secretaries of Labor, Education, and Health and Human Services, in consultation with other appropriate departments and with the National Occupational Information Coordinating Committee, shall identify a core set of consistently defined data elements for employment and training programs, including those funded under this subchapter and subchapters II and III of this chapter, the Wagner-Peyser Act (29 U.S.C. 49 et seq.), the Carl D. Perkins Vocational and Applied Technology Education Act (20 U.S.C. 2301 et seq.), the JOBS program, and title V of the Older Americans Act of 1965 (42 U.S.C. 3056 et seq.).
+The Secretaries of Labor, Education, and Health and Human Services, in consultation with other appropriate departments and with the National Occupational Information Coordinating Committee, shall identify a core set of consistently defined data elements for employment and training programs, including those funded under this subchapter and subchapters II and III of this chapter, the Wagner-Peyser Act (29 U.S.C. 49 et seq.), the Carl D. Perkins Vocational and Applied Technology Education Act (20 U.S.C. 2301 et seq.), and title V of the Older Americans Act of 1965 (42 U.S.C. 3056 et seq.).
 
 #### (c) Report
 
@@ -16,7 +16,7 @@ The Secretary shall prepare and submit to Congress not later than January 1, 199
 
 The Secretary shall consult with experts and practitioners, at the Federal, State, and local levels and in the various program areas, in fulfilling the requirements of this section. The Secretary shall also consult with the General Accounting Office in fulfilling the requirements of this section.
 
-(Pub. L. 97–300, title IV, §455, as added Pub. L. 102–367, title IV, §404(a), Sept. 7, 1992, 106 Stat. 1084.)
+(Pub. L. 97–300, title IV, §455, as added Pub. L. 102–367, title IV, §404(a), Sept. 7, 1992, 106 Stat. 1084; amended Pub. L. 104–193, title I, §110(n)(13), Aug. 22, 1996, 110 Stat. 2174.)
 
 #### References in Text
 
@@ -29,6 +29,14 @@ The Older Americans Act of 1965, referred to in subsec. (b), is Pub. L. 89–73,
 #### Prior Provisions
 
 A prior section 1735, Pub. L. 97–300, title IV, §455, Oct. 13, 1982, 96 Stat. 1383, related to personnel training and technical assistance with respect to programs under this chapter, prior to repeal by Pub. L. 102–367, title IV, §403(a)(4), title VII, §701(a), Sept. 7, 1992, 106 Stat. 1084, 1103, effective July 1, 1993.
+
+#### Amendments
+
+1996—Subsec. (b). Pub. L. 104–193 struck out “the JOBS program,” before “and title V”.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–193 effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as an Effective Date note under section 601 of Title 42, The Public Health and Welfare.
 
 #### Effective Date
 

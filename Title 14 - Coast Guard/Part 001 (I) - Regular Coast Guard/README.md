@@ -11,11 +11,14 @@
 | [<b>13.</b>](Chapter%20013%20-%20Pay%2C%20Allowances%2C%20Awards%2C%20and%20Other%20Rights%20and%20Benefits/README.md) | <b>Pay, Allowances, Awards, and Other Rights and Benefits</b> | <b>461</b> |
 | <b>\[15.</b> | <b>Repealed.\]</b> |  |
 | [<b>17.</b>](Chapter%20017%20-%20Administration/README.md) | <b>Administration</b> | <b>631</b> |
+| [<b>18.</b>](Chapter%20018%20-%20Coast%20Guard%20Housing%20Authorities/README.md) | <b>Coast Guard Housing Authorities</b> | <b>680</b> |
 | [<b>19.</b>](Chapter%20019%20-%20Environmental%20Compliance%20and%20Restoration%20Program/README.md) | <b>Coast Guard Environmental Compliance and Restoration Program </b><b><sup>1</sup></b> | <b>690</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1996—Pub. L. 104–324, title II, §208(c), Oct. 19, 1996, 110 Stat. 3913, added item for chapter 18.
 
 1989—Pub. L. 101–225, title II, §222(b), Dec. 12, 1989, 103 Stat. 1918, added item for chapter 19.
 
@@ -35,4 +38,5 @@
 - [Chapter 013 - Pay, Allowances, Awards, and Other Rights and Benefits](Chapter%20013%20-%20Pay%2C%20Allowances%2C%20Awards%2C%20and%20Other%20Rights%20and%20Benefits/README.md)
 - [Chapter 015 - Repealed](Chapter%20015%20-%20Repealed/README.md)
 - [Chapter 017 - Administration](Chapter%20017%20-%20Administration/README.md)
+- [Chapter 018 - Coast Guard Housing Authorities](Chapter%20018%20-%20Coast%20Guard%20Housing%20Authorities/README.md)
 - [Chapter 019 - Environmental Compliance and Restoration Program](Chapter%20019%20-%20Environmental%20Compliance%20and%20Restoration%20Program/README.md)

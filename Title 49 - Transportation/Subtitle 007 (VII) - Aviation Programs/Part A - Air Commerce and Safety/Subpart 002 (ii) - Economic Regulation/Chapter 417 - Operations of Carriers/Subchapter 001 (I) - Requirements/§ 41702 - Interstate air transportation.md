@@ -6,7 +6,9 @@ An air carrier shall provide safe and adequate interstate air transportation.
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -20,7 +22,7 @@ Aug. 23, 1958, Pub. L. 85–726, §404(a)(1), 72 Stat. 760; Mar. 22, 1972, Pub. 
 
 &nbsp;
 
-49 App.:1551(a) (4)(C) (related to 49 App.:1374(a)(1)).
+49 App.:1551(a)(4)(C) (related to 49 App.:1374(a)(1)).
 
 Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1601(a)(4)(C) (related to §404(a)(1)); added Oct. 4, 1984, Pub. L. 98–443, §3(c), 98 Stat. 1703.
 
@@ -28,5 +30,5 @@ This section is substituted for 49 App.:1374(a)(1) because 49 App.:1551(a)(4)(C)
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 40109, 41110, 46301 of this title.
+This section is referred to in section 41110 of this title.
 

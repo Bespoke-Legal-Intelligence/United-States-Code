@@ -6,7 +6,7 @@ The corporation created by this chapter shall have the following powers: To have
 
 #### Cross References
 
-Loan or gift of condemned or obsolete material by Secretary of military department or Secretary of Treasury, see section 2572 of Title 10, Armed Forces.
+Loan or gift of condemned or obsolete material by Secretary of military department or Secretary of the Treasury, see section 2572 of Title 10, Armed Forces.
 
 Penalty for unauthorized manufacture, reproduction, or sale of badges or emblems of veterans’ organizations, see section 705 of Title 18, Crimes and Criminal Procedure.
 

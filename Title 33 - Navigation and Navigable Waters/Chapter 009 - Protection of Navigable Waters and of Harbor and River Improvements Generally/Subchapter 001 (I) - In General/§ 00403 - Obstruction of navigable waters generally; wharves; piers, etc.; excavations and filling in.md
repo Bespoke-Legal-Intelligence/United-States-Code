@@ -1,6 +1,6 @@
 ### §403. Obstruction of navigable waters generally; wharves; piers, etc.; excavations and filling in
 
-The creation of any obstruction not affirmatively authorized by Congress, to the navigable capacity of any of the waters of the UnitedStates is prohibited; and it shall not be lawful to build or commence the building of any wharf, pier, dolphin, boom, weir, breakwater, bulkhead, jetty, or other structures in any port, roadstead, haven, harbor, canal, navigable river, or other water of the United States, outside established harbor lines, or where no harbor lines have been established, except on plans recommended by the Chief of Engineers and authorized by the Secretary of the Army; and it shall not be lawful to excavate or fill, or in any manner to alter or modify the course, location, condition, or capacity of, any port, roadstead, haven, harbor, canal, lake, harbor or refuge, or inclosure within the limits of any breakwater, or of the channel of any navigable water of the United States, unless the work has been recommended by the Chief of Engineers and authorized by the Secretary of the Army prior to beginning the same.
+The creation of any obstruction not affirmatively authorized by Congress, to the navigable capacity of any of the waters of the United States is prohibited; and it shall not be lawful to build or commence the building of any wharf, pier, dolphin, boom, weir, breakwater, bulkhead, jetty, or other structures in any port, roadstead, haven, harbor, canal, navigable river, or other water of the United States, outside established harbor lines, or where no harbor lines have been established, except on plans recommended by the Chief of Engineers and authorized by the Secretary of the Army; and it shall not be lawful to excavate or fill, or in any manner to alter or modify the course, location, condition, or capacity of, any port, roadstead, haven, harbor, canal, lake, harbor or refuge, or inclosure within the limits of any breakwater, or of the channel of any navigable water of the United States, unless the work has been recommended by the Chief of Engineers and authorized by the Secretary of the Army prior to beginning the same.
 
 (Mar. 3, 1899, ch. 425, §10, 30 Stat. 1151; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501.)
 
@@ -44,5 +44,5 @@ Violations as misdemeanors, see section 406 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 27, 59j–1, 59y, 59bb, 59cc, 59dd, 59ff, 59gg, 59hh, 403b, 406, 412, 413, 418, 426p, 465, 1371, 1503, 2104, 2317 of this title.
+This section is referred to in sections 27, 59c–3, 59j–1, 59y, 59bb, 59cc, 59dd, 59ff, 59gg, 59hh, 403b, 406, 412, 413, 418, 426p, 465, 1371, 1503, 2104, 2317 of this title.
 

@@ -1,0 +1,100 @@
+### §5102. Advisory board on child abuse and neglect
+
+#### (a) Appointment
+
+The Secretary may appoint an advisory board to make recommendations to the Secretary and to the appropriate committees of Congress concerning specific issues relating to child abuse and neglect.
+
+#### (b) Solicitation of nominations
+
+The Secretary shall publish a notice in the Federal Register soliciting nominations for the appointment of members of the advisory board under subsection (a) of this section.
+
+#### (c) Composition
+
+In establishing the board under subsection (a) of this section, the Secretary shall appoint members from the general public who are individuals knowledgeable in child abuse and neglect prevention, intervention, treatment, or research, and with due consideration to representation of ethnic or racial minorities and diverse geographic areas, and who represent—
+
+&emsp;(1) law (including the judiciary);
+
+&emsp;(2) psychology (including child development);
+
+&emsp;(3) social services (including child protective services);
+
+&emsp;(4) medicine (including pediatrics);
+
+&emsp;(5) State and local government;
+
+&emsp;(6) organizations providing services to disabled persons;
+
+&emsp;(7) organizations providing services to adolescents;
+
+&emsp;(8) teachers;
+
+&emsp;(9) parent self-help organizations;
+
+&emsp;(10) parents’ groups;
+
+&emsp;(11) voluntary groups;
+
+&emsp;(12) family rights groups; and
+
+&emsp;(13) children's rights advocates.
+
+#### (d) Vacancies
+
+Any vacancy in the membership of the board shall be filled in the same manner in which the original appointment was made.
+
+#### (e) Election of officers
+
+The board shall elect a chairperson and vice-chairperson at its first meeting from among the members of the board.
+
+#### (f) Duties
+
+Not later than 1 year after the establishment of the board under subsection (a) of this section, the board shall submit to the Secretary and the appropriate committees of Congress a report, or interim report, containing—
+
+&emsp;(1) recommendations on coordinating Federal, State, and local child abuse and neglect activities with similar activities at the Federal, State, and local level pertaining to family violence prevention;
+
+&emsp;(2) specific modifications needed in Federal and State laws and programs to reduce the number of unfounded or unsubstantiated reports of child abuse or neglect while enhancing the ability to identify and substantiate legitimate cases of abuse or neglect which place a child in danger; and
+
+&emsp;(3) recommendations for modifications needed to facilitate coordinated national data collection with respect to child protection and child welfare.
+
+(Pub. L. 93–247, title I, §102, formerly §3, Jan. 31, 1974, 88 Stat. 5; Pub. L. 95–266, title I, §102, Apr. 24, 1978, 92 Stat. 206; Pub. L. 98–457, title I, §§102, 121, Oct. 9, 1984, 98 Stat. 1750, 1752; Pub. L. 100–294, title I, §101, Apr. 25, 1988, 102 Stat. 103; renumbered title I, §102, and amended Pub. L. 101–126, §3(a)(1), (2), (b)(1), Oct. 25, 1989, 103 Stat. 764; Pub. L. 102–295, title I, §111, May 28, 1992, 106 Stat. 190; Pub. L. 104–235, title I, §102, Oct. 3, 1996, 110 Stat. 3065.)
+
+#### Amendments
+
+1996—Pub. L. 104–235 amended section generally, substituting present provisions for provisions which related to appointment of Advisory Board on Child Abuse and Neglect in subsec. (a); solicitation of nominations in subsec. (b); composition of Advisory Board in subsec. (c); election of officers in subsec. (d); meetings in subsec. (e); duties in subsec. (f); compensation in subsec. (g); and authorization of appropriations in subsec. (h).
+
+1992—Subsec. (f)(4). Pub. L. 102–295, §111(a), added par. (4).
+
+Subsec. (h). Pub. L. 102–295, §111(b), added subsec. (h).
+
+1989—Subsecs. (c)(1)(A), (e), (f)(2)(E). Pub. L. 101–126, §3(b)(1), made technical amendments to references to sections 5103, 5105, and 5106 of this title to reflect renumbering of corresponding sections of original act.
+
+1988—Pub. L. 100–294 amended section generally, substituting provisions relating to Advisory Board on Child Abuse and Neglect for provisions relating to definitions. See section 5106g of this title.
+
+1984—Cl. (1). Pub. L. 98–457, §121(1), designated provisions after opening phrase as cl. (1).
+
+Pub. L. 98–457, §102(1), inserted “(including any employee of a residential facility or any staff person providing out-of-home care)”.
+
+Cl. (2). Pub. L. 98–457, §102(2), (3), added cl. (2).
+
+Cl. (3). Pub. L. 98–457, §121(2), (3), added cl. (3).
+
+1978—Pub. L. 95–266 inserted “or exploitation” after “sexual abuse” and “, or the age specified by the child protection law of the State in question,” after “eighteen”.
+
+#### Effective Date of 1989 Amendment
+
+Section 8 of Pub. L. 101–126 provided that: “This Act and the amendments made by this Act \[see Short Title of 1989 Amendment note set out under section 5101 of this title\] shall take effect October 1, 1989, or upon the date of the enactment of this Act \[Oct. 25, 1989\], whichever occurs later.”
+
+#### Effective Date of 1984 Amendment
+
+Section 128 of Pub. L. 98–457 provided that:
+
+“(a) Except as provided in subsection (b), the provisions of this part or any amendment made by this part \[part B (§§121–128) of title I of Pub. L. 98–457, amending this section and section 5103 of this title and enacting provisions set out as notes under sections 5101 and 5103 of this title\] shall be effective on the date of the enactment of this Act \[Oct. 9, 1984\].
+
+“(b)(1) Except as provided in paragraph (2), the amendments made by sections 122 and 123(b) of this Act \[amending section 5103 of this title\] shall become effective one year after the date of such enactment \[Oct. 9, 1984\].
+
+“(2) In the event that, prior to such effective date, funds have not been appropriated pursuant to section 5 of the Act (as amended by section 104 of this Act) \[section 5104 of this title\] for the purpose of grants under section 4(c)(1) of the Act (as added by section 123(a) of this Act) \[section 5103(c)(1) of this title\], any State which has not met any requirement of section 4(b)(2)(K) of the Act (as added by section 122(3) of this Act) may be granted a waiver of such requirements for a period of not more than one year, if the Secretary finds that such State is making a good-faith effort to comply with such requirements.”
+
+#### Termination of Advisory Boards
+
+Advisory boards established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of its establishment, unless, in the case of a board established by the President or an officer of the Federal Government, such board is renewed by appropriate action prior to the end of such period, or in the case of a board established by the Congress, its duration is otherwise provided by law, see sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+

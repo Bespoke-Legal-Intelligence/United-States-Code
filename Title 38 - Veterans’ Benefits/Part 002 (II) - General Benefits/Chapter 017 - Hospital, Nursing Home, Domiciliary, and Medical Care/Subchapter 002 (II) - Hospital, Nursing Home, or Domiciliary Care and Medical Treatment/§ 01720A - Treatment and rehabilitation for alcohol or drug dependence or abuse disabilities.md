@@ -16,7 +16,7 @@
 
 (2) No person serving in the active military, naval, or air service may be transferred pursuant to an agreement made under paragraph (1) of this subsection unless such person requests such transfer in writing for a specified period of time during the last thirty days of such person's enlistment period or tour of duty. No such person transferred pursuant to such a request may be furnished such care and services by the Secretary beyond the period of time specified in such request unless such person requests in writing an extension for a further specified period of time and such request is approved by the Secretary.
 
-(e) The Secretary may not furnish care and treatment and rehabilitative services under subsection (a) of this section after December 31, 1995.
+(e) The Secretary may not furnish care and treatment and rehabilitative services under subsection (a) of this section after December 31, 1997.
 
 (f)(1) During the period beginning on December 1, 1988, and ending on October 1, 1997, the Secretary shall conduct an ongoing clinical evaluation in order to determine the long-term results of drug and alcohol abuse treatment furnished to veterans in contract residential treatment facilities under this section.
 
@@ -36,15 +36,17 @@
 
 (4) The Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives the following reports on the evaluation under this subsection:
 
-&emsp;(A) Not later than February 1, 1993, an interim report containing information obtainedduring the first four years of the evaluation and any conclusions that the Secretary has drawn on the basis of that information.
+&emsp;(A) Not later than February 1, 1993, an interim report containing information obtained during the first four years of the evaluation and any conclusions that the Secretary has drawn on the basis of that information.
 
 &emsp;(B) Not later than March 31, 1998, a final report containing information obtained during the evaluation and the determinations and conclusions of the Secretary based on that information.
 
 (g) The authority of the Secretary to enter into contracts under this section shall be effective for any fiscal year only to such extent or in such amounts as are provided in appropriation Acts.
 
-(Added Pub. L. 96–22, title I, §104(a), June 13, 1979, 93 Stat. 50, §620A; amended Pub. L. 96–128, title V, §501(c), Nov. 28, 1979, 93 Stat. 987; Pub. L. 97–251, §6, Sept. 8, 1982, 96 Stat. 716; Pub. L. 97–258, §3(k)(1), Sept. 13, 1982, 96 Stat. 1065; Pub. L. 99–108, §3, Sept. 30, 1985, 99 Stat. 481; Pub. L. 99–166, title I, §101(a), (b)(1), Dec. 3, 1985, 99 Stat. 942, 943; Pub. L. 100–687, div. B, title XV, §1509, Nov. 18, 1988, 102 Stat. 4137; Pub. L. 100–689, title V, §502(a)(1), (b), Nov. 18, 1988, 102 Stat. 4179; Pub. L. 102–54, §14(b)(13), June 13, 1991, 105 Stat. 284; renumbered §1720A and amended Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–86, title III, §303, Aug. 14, 1991, 105 Stat. 416; Pub. L. 103–452, title I, §103(b), Nov. 2, 1994, 108 Stat. 4786.)
+(Added Pub. L. 96–22, title I, §104(a), June 13, 1979, 93 Stat. 50, §620A; amended Pub. L. 96–128, title V, §501(c), Nov. 28, 1979, 93 Stat. 987; Pub. L. 97–251, §6, Sept. 8, 1982, 96 Stat. 716; Pub. L. 97–258, §3(k)(1), Sept. 13, 1982, 96 Stat. 1065; Pub. L. 99–108, §3, Sept. 30, 1985, 99 Stat. 481; Pub. L. 99–166, title I, §101(a), (b)(1), Dec. 3, 1985, 99 Stat. 942, 943; Pub. L. 100–687, div. B, title XV, §1509, Nov. 18, 1988, 102 Stat. 4137; Pub. L. 100–689, title V, §502(a)(1), (b), Nov. 18, 1988, 102 Stat. 4179; Pub. L. 102–54, §14(b)(13), June 13, 1991, 105 Stat. 284; renumbered §1720A and amended Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–86, title III, §303, Aug. 14, 1991, 105 Stat. 416; Pub. L. 103–452, title I, §103(b), Nov. 2, 1994, 108 Stat. 4786; Pub. L. 104–110, title I, §101(b), Feb. 13, 1996, 110 Stat. 768.)
 
 #### Amendments
+
+1996—Subsec. (e). Pub. L. 104–110 substituted “December 31, 1997” for “December 31, 1995”.
 
 1994—Subsec. (e). Pub. L. 103–452 substituted “December 31, 1995” for “December 31, 1994”.
 
@@ -139,6 +141,20 @@ Amendment by Pub. L. 96–128 effective Nov. 28, 1979, see section 601(b) of Pub
 #### Effective Date
 
 Section effective Oct. 1, 1979, see section 107 of Pub. L. 96–22, set out as an Effective Date of 1979 Amendment note under section 1701 of this title.
+
+#### Ratification of Actions During Period of Expired Authority
+
+Any action taken by Secretary of Veterans Affairs before Feb. 13, 1996, under provision of law amended by title I of Pub. L. 104–110 that was taken during period beginning on date on which authority of Secretary under such provision of law expired and ending on Feb. 13, 1996, considered to have same force and effect as if such amendment had been in effect at time of that action, see section 103 of Pub. L. 104–110, set out as a note under section 1710 of this title.
+
+#### Report on Consolidation of Certain Programs
+
+Section 202(a) of Pub. L. 104–110 provided that: “The Secretary of Veterans Affairs shall submit to Congress, not later than March 1, 1997, a report on the advantages and disadvantages of consolidating into one program the following three programs:
+
+&emsp;“(1) The alcohol and drug abuse contract care program under section 1720A of title 38, United States Code.
+
+&emsp;“(2) The program to provide community-based residential care to homeless chronically mentally ill veterans under section 115 of the Veterans’ Benefits and Services Act of 1988 \[Pub. L. 100–322\] (38 U.S.C. 1712 note).
+
+&emsp;“(3) The demonstration program under section 7 of Public Law 102–54 (38 U.S.C. 1718 note).”
 
 #### Loans to Organizations Providing Transitional Housing for Substance Abusers
 

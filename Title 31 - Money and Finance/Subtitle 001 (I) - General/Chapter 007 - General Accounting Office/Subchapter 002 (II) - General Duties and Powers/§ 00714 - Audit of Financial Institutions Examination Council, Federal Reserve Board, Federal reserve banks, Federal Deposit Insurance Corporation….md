@@ -18,11 +18,11 @@
 
 (3) This subsection does not authorize an officer or employee of an agency to withhold information from a committee of Congress authorized to have the information.
 
-(d)(1) To carry out this section, all records and property of or used by an agency, including samples of reports of examinations of a bank or bank holding company the Comptroller General considers statistically meaningful and workpapers and correspondence related to the reports shall be made available to the Comptroller General. The Comptroller General shall give an agency a current list of officers and employees to whom, with proper identification, records and property may be made available, and who may make notes or copies necessary to carry out an audit. An agency shall give the Comptroller General suitable and lockable offices and furniture, telephones, and access to copying facilities.
+(d)(1) To carry out this section, all records and property of or used by an agency, including samples of reports of examinations of a bank or bank holding company the Comptroller General considers statistically meaningful and workpapers and correspondence related to the reports shall be made available to the Comptroller General. The Comptroller General shall give an agency a current list of officers and employees to whom, with proper identification, records and property may be made available, and who may make notes or copies necessary to carry out an audit.
 
-(2) Except for the temporary removal of workpapers of the Comptroller General that do not identify a customer of an open or closed bank or bank holding company, an open bank, or an open bank holding company, all workpapers of the Comptroller General and records and property of or used by an agency that the Comptroller General possesses during an audit, shall remain in the agency. The Comptroller General shall prevent unauthorized access to records or property.
+(2) The Comptroller General shall prevent unauthorized access to records or property of or used by an agency that the Comptroller General obtains during an audit.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 890; Pub. L. 101–73, title III, §307(c), Aug. 9, 1989, 103 Stat. 353.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 890; Pub. L. 101–73, title III, §307(c), Aug. 9, 1989, 103 Stat. 353; Pub. L. 104–316, title I, §115(a), Oct. 19, 1996, 110 Stat. 3834.)
 
 Historical and Revision Notes
 
@@ -67,6 +67,8 @@ In subsection (d)(1), the words “To carry out this section, all records and pr
 In subsection (d)(2), the words “records and property of or used by an agency” are substituted for “agency materials described in subparagraph (A)” for consistency. The words “The Comptroller General shall prevent unauthorized access to records or property” are substituted for 31:67(e)(7)(D)(last sentence) for clarity.
 
 #### Amendments
+
+1996—Subsec. (d). Pub. L. 104–316 struck out at end of par. (1) “An agency shall give the Comptroller General suitable and lockable offices and furniture, telephones, and access to copying facilities.” and amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Except for the temporary removal of workpapers of the Comptroller General that do not identify a customer of an open or closed bank or bank holding company, an open bank, or an open bank holding company, all workpapers of the Comptroller General and records and property of or used by an agency that the Comptroller General possesses during an audit, shall remain in the agency. The Comptroller General shall prevent unauthorized access to records or property.”
 
 1989—Subsec. (a). Pub. L. 101–73 inserted reference to Office of Thrift Supervision.
 

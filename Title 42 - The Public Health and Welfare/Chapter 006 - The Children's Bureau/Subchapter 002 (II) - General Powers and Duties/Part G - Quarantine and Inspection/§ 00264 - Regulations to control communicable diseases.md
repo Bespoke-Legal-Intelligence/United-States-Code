@@ -54,5 +54,5 @@ Removal of revenue officers, during epidemics, see section 112 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 201, 266, 271 of this title; title 49 section 24301.
+This section is referred to in sections 201, 266, 271 of this title; title 21 section 381; title 49 section 24301.
 

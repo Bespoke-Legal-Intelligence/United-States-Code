@@ -2,7 +2,7 @@
 
 If he considers it in the best interest of the United States, the Secretary may have remitted or cancelled any part of an enlisted member's indebtedness to the United States or any of its instrumentalities remaining unpaid before, or at the time of, that member's honorable discharge.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 594; Sept. 2, 1958, Pub. L. 85–861, §33(a)(45), 72 Stat. 1567; Sept. 7, 1962, Pub. L. 87–649, §14c(58), 76 Stat. 502; Dec. 12, 1980, Pub. L. 96–513, title V, §514(22)(A), (B), 94 Stat. 2936.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 594; Sept. 2, 1958, Pub. L. 85–861, §33(a)(45), 72 Stat. 1567; Sept.7, 1962, Pub. L. 87–649, §14c(58), 76 Stat. 502; Dec. 12, 1980, Pub. L. 96–513, title V, §514(22)(A), (B), 94 Stat. 2936.)
 
 Historical and Revision Notes<br>1956
 
@@ -27,6 +27,8 @@ R.S. 1300.
 R.S. 1301.
 
 9837(b)
+
+&nbsp;
 
 9837(c)
 

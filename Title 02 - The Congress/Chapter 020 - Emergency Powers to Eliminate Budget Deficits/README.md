@@ -66,8 +66,7 @@
 | (h) | Treatment of Federal administrative expenses. |
 | (i) | Treatment of payments and advances made with respect to unemployment compensation programs. |
 | (j) | Commodity Credit Corporation. |
-| (k) | Special rules for JOBS portion of AFDC. |
-| (<i>l)</i> | Effects of sequestration. |
+| (k) | Effects of sequestration. |
 | [907\.](Subchapter%20001%20%28I%29%20-%20Elimination%20of%20Deficits%20in%20Excess%20of%20Maximum%20Deficit%20Amount/%C2%A7%2000907%20-%20The%20baseline.md) | The baseline. |
 | (a) | In general. |
 | (b) | Direct spending and receipts. |
@@ -93,7 +92,7 @@
 | (i) | Vote on final passage of joint resolution. |
 | (j) | Appeal from decision of Chair. |
 | (k) | Conference reports. |
-| (<i>l)</i> | Resolution from other House. |
+| (<i>l</i>) | Resolution from other House. |
 | (m) | Senate action on House resolution. |
 | [907d.](Subchapter%20001%20%28I%29%20-%20Elimination%20of%20Deficits%20in%20Excess%20of%20Maximum%20Deficit%20Amount/%C2%A7%2000907d%20-%20Special%20reconciliation%20process.md) | Special reconciliation process. |
 | (a) | Reporting of resolutions and reconciliation bills and resolutions, in Senate. |

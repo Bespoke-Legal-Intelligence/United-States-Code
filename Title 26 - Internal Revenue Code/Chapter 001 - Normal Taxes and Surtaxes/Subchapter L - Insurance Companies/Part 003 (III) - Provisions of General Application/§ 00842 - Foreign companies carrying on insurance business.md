@@ -2,7 +2,7 @@
 
 #### (a) Taxation under this subchapter
 
-If a foreign company carrying on an insurance business within the United States would qualify under part I or II of this subchapter for the taxable year if (without regard to income not effectively connected with the conduct of any trade or business within the United States) it were a domestic corporation, such company shall betaxable under such part on its income effectively connected with its conduct of any trade or business within the United States. With respect to the remainder of its income which is from sources within the United States, such a foreign company shall be taxable as provided in section 881.
+If a foreign company carrying on an insurance business within the United States would qualify under part I or II of this subchapter for the taxable year if (without regard to income not effectively connected with the conduct of any trade or business within the United States) it were a domestic corporation, such company shall be taxable under such part on its income effectively connected with its conduct of any trade or business within the United States. With respect to the remainder of its income which is from sources within the United States, such a foreign company shall be taxable as provided in section 881.
 
 #### (b) Minimum effectively connected net investment income
 
@@ -100,7 +100,7 @@ If a foreign company carrying on an insurance business within the United States 
 
 #### (3) Adjustment to limitation on deduction for policyholder dividends in the case of foreign mutual life insurance companies
 
-&emsp;For purposes of section 809, the equity base of any foreign mutual life insurance companyas of the close of any taxable year shall be increased by the excess of—
+&emsp;For purposes of section 809, the equity base of any foreign mutual life insurance company as of the close of any taxable year shall be increased by the excess of—
 
 &emsp;&emsp;(A) the required United States assets of the company (determined under subsection (b)(2)), over
 
@@ -146,7 +146,7 @@ Subsec. (d)(4). Pub. L. 100–647, §2004(q)(3), added par. (4).
 
 #### Effective Date of 1989 Amendment
 
-Amendment by Pub. L. 101–239 effective as if included in the provision of the Revenue Act of 1987, Pub. L. 100–203, title X, to which such amendment relates, see section 7823 of Pub. L. 101–239, set out as a note under section 26 of this title.
+Amendment by Pub. L. 101–239 effective as if included in the provision of the Revenue Act of 1987, Pub. L.100–203, title X, to which such amendment relates, see section 7823 of Pub. L. 101–239, set out as a note under section 26 of this title.
 
 #### Effective Date of 1988 Amendment
 

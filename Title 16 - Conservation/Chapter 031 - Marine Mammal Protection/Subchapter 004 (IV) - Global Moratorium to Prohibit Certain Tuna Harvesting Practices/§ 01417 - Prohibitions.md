@@ -30,7 +30,7 @@ It is unlawful—
 
 #### (2) Criminal penalty
 
-&emsp;A person that knowingly and willfully violates subsection (a)(6) of this section shall besubject to a criminal penalty under section 1375(b) of this title.
+&emsp;A person that knowingly and willfully violates subsection (a)(6) of this section shall be subject to a criminal penalty under section 1375(b) of this title.
 
 #### (c) Civil forfeitures
 
@@ -48,7 +48,7 @@ For purposes of this section, tuna or a tuna product is dolphin safe if—
 
 &emsp;(4) in the case of tuna or a product that contains tuna harvested outside the eastern tropical Pacific Ocean by a purse seine vessel in a fishery in which the Secretary has determined that a regular and significant association occurs between marine mammals and tuna, and in which tuna is harvested through the use of purse seine nets deployed on or to encircle marine mammals, it is accompanied by a written statement executed by the captain of the vessel and by an observer, certifying that no purse seine net was intentionally deployed on or to encircle marine mammals during the particular voyage on which the tuna was harvested.
 
-(Pub. L. 92–522, title III, §307, as added Pub. L. 102–523, §2(a), Oct. 26, 1992, 106 Stat. 3431.)
+(Pub. L. 92–522, title III, §307, as added Pub. L. 102–523, §2(a), Oct. 26, 1992, 106 Stat. 3431; amended Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41.)
 
 #### References in Text
 
@@ -57,4 +57,12 @@ Section 4003 of the Driftnet Impact, Monitoring, Assessment, and Control Act of 
 #### Codification
 
 Another section 307 of Pub. L. 92–522 was renumbered section 407 and is classified to section 1421f of this title.
+
+#### Amendments
+
+1996—Subsec. (c). Pub. L. 104–208 made technical amendment to reference in original act which appears in text as reference to section 1860 of this title.
+
+#### Effective Date of 1996 Amendment
+
+Section 101(a) \[title II, §211(b)\] of div. A of Pub. L. 104–208 provided that the amendment made by that section is effective 15 days after Oct. 11, 1996.
 

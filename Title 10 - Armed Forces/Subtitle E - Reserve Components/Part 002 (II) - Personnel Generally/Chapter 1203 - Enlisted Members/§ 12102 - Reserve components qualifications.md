@@ -1,6 +1,6 @@
 ### §12102. Reserve components: qualifications
 
-(a) To become an enlisted member of a reserve component a person must be enlisted as a Reserve of an armed force and subscribe to the oath prescribed by section 502 of this title, or be transferred to that component according to law. In addition, to become an enlisted member of the Army National Guard of the United Statesor the Air National Guard of the United States, he must meet the requirements of section 12107 of this title.
+(a) To become an enlisted member of a reserve component a person must be enlisted as a Reserve of an armed force and subscribe to the oath prescribed by section 502 of this title, or be transferred to that component according to law. In addition, to become an enlisted member of the Army National Guard of the United States or the Air National Guard of the United States, he must meet the requirements of section 12107 of this title.
 
 (b) Except as otherwise provided by law, the Secretary concerned shall prescribe physical, mental, moral, professional, and age qualifications for the enlistment of persons as Reserves of the armed forces under his jurisdiction. However, no person may be enlisted as a Reserve unless—
 
@@ -8,15 +8,9 @@
 
 &emsp;(2) he has previously served in the armed forces or in the National Security Training Corps.
 
-(c) Women may be enlisted as Reserves of the armed forces. Women are enlisted in the grades and ratings authorized for enlisted women of the regular component of the armed force concerned. Any female former enlisted member of an armed force may, if otherwise qualified, be enlisted as a Reserve of that armed force in the highest grade or rating in which she previously served satisfactorily on active duty (other than for training).
+(c) A person who is otherwise qualified, but who has a physical defect that the Secretary concerned determines will not interfere with the performance of the duties to which that person may be assigned, may be enlisted as a Reserve of any armed force under the jurisdiction of that Secretary.
 
-(d) A person who is otherwise qualified, but who has a physical defect that the Secretary concerned determines will not interfere with the performance of the duties to which that person may be assigned, may be enlisted as a Reserve of any armed force under the jurisdiction of that Secretary.
-
-(Aug. 10, 1956, ch. 1041, 70A Stat. 17, §510; Dec. 23, 1963, Pub. L. 88–236, 77 Stat. 474; Nov. 8, 1967, Pub. L. 90–130, §1(2), 81 Stat. 374; Oct. 22, 1968, Pub. L. 90–623, §2(3), 82 Stat. 1314; Dec. 12, 1980, Pub. L. 96–513, title V, §511(13), 94 Stat. 2921; renumbered §12102 and amended Oct. 5, 1994, Pub. L. 103–337, div. A, title XVI, §§1631(a), 1662(b)(2), 1675(a), 108 Stat. 2964, 2989, 3017.)
-
-#### Amendment of Subsections (c) and (d)
-
-<i>Pub. L. 103–337, div. A, title XVI, §§1631(a), 1691(b)(1), Oct. 5, 1994, 108 Stat. 2964, 3026, provided that, effective Oct. 1, 1996, this section is amended by striking out subsection (c) and redesignating subsection (d) as subsection (c).</i>
+(Aug. 10, 1956, ch. 1041, 70A Stat. 17, §510; Dec. 23, 1963, Pub. L. 88–236, 77 Stat. 474; Nov. 8, 1967, Pub. L. 90–130, §1(2), 81 Stat. 374; Oct. 22, 1968, Pub. L. 90–623, §2(3), 82 Stat. 1314; Dec. 12, 1980, Pub. L. 96–513, title V, §511(13), 94 Stat. 2921; renumbered §12102 and amended Oct. 5, 1994, Pub. L. 103–337, div. A, title XVI, §§1631(a), 1662(b)(2), 1675(a), 108 Stat. 2964, 2989, 3017; Feb. 10, 1996, Pub. L. 104–106, div. A, title XV, §1501(a)(5)(A), 110 Stat. 495.)
 
 Historical and Revision Notes
 
@@ -30,7 +24,11 @@ Historical and Revision Notes
 
 510(b)
 
+&nbsp;
+
 510(c)
+
+&nbsp;
 
 510(d)
 
@@ -58,9 +56,13 @@ The Immigration and Nationality Act, referred to in subsec. (b)(1), is act June 
 
 #### Amendments
 
+1996—Subsecs. (c), (d). Pub. L. 104–106 made technical correction to directory language of Pub. L. 103–337, §1631(a). See 1994 Amendment note below.
+
 1994—Pub. L. 103–337, §1662(b)(2), renumbered section 510 of this title as this section.
 
 Subsec. (a). Pub. L. 103–337, §1675(a), substituted “12107” for “3261 or 8261”.
+
+Subsecs. (c), (d). Pub. L. 103–337, §1631(a), as amended by Pub. L. 104–106, redesignated subsec. (d) as (c) and struck out former subsec. (c) which read as follows: “Women may be enlisted as Reserves of the armed forces. Women are enlisted in the grades and ratings authorized for enlisted women of the regular component of the armed force concerned. Any female former enlisted member of an armed force may, if otherwise qualified, be enlisted as a Reserve of that armed force in the highest grade or rating in which she previously served satisfactorily on active duty (other than for training).”
 
 1980—Subsec. (b)(1). Pub. L. 96–513 substituted “the Immigration and Nationality Act (8 U.S.C. 1101 et seq.)” for “chapter 12 of title 8”.
 
@@ -69,6 +71,10 @@ Subsec. (a). Pub. L. 103–337, §1675(a), substituted “12107” for “3261 o
 1967—Subsec. (c). Pub. L. 90–130 struck out provision limiting the reserve components in which women may be enlisted as Reserves of the armed forces to the Army Reserve, Naval Reserve, Air Force Reserve, Marine Corps Reserve, and Coast Guard Reserve.
 
 1963—Subsec. (b)(1). Pub. L. 88–236 substituted “he is a citizen of the United States or has been lawfully admitted to the United States for permanent residence under chapter 12 of title 8” for “he is, or has made a declaration of intention to become, a citizen of the United States or of a possession thereof”.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–106 effective as if included in the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as enacted on Oct. 5, 1994, see section 1501(f)(3) of Pub. L. 104–106, set out as a note under section 113 of this title.
 
 #### Effective Date of 1994 Amendment
 
@@ -84,7 +90,7 @@ Amendment by Pub. L. 90–623 intended to restate without substantive change the
 
 #### Treatment of Single Parents Enlisting in Reserve Components of the Armed Forces
 
-Pub. L. 99–661, div. A, title V, §523, Nov. 14, 1986, 100 Stat. 3871, as amended by Pub. L. 100–180, div. A, title V, §503, Dec. 4, 1987, 101 Stat. 1085; Pub. L. 101–189, div. A, title V, §504, Nov. 29, 1989, 103 Stat. 1437, which provided that, in determining under section 510 \[now 12102\] of title 10 whether a person who is applying to enlist in a reserve component of the Armed Forces upon discharge or release from active duty is qualified for enlistment as a Reserve of an Armed Force, the Secretary concerned may not disqualify the person because the person is a single parent if the person is otherwise qualified for enlistment, the person became a single parent while serving on active duty, and the person's status as a single parent was not a factor in the person's discharge or release from active duty, with provision that the requirements imposed with respect to parenthood not be more stringent than those imposed on a member who becomes a single parent during theterm of the member's enlistment, and with provision defining “single parent” as a person who is not married and who has custody of a child under the age of 18 pursuant to a court order, expired on Sept. 30, 1991.
+Pub. L. 99–661, div. A, title V, §523, Nov. 14, 1986, 100 Stat. 3871, as amended by Pub. L. 100–180, div. A, title V, §503, Dec. 4, 1987, 101 Stat. 1085; Pub. L. 101–189, div. A, title V, §504, Nov. 29, 1989, 103 Stat. 1437, which provided that, in determining under section 510 \[now 12102\] of title 10 whether a person who is applying to enlist in a reserve component of the Armed Forces upon discharge or release from active duty is qualified for enlistment as a Reserve of an Armed Force, the Secretary concerned may not disqualify the person because the person is a single parent if the person is otherwise qualified for enlistment, the person became a single parent while serving on active duty, and the person's status as a single parent was not a factor in the person's discharge or release from active duty, with provision that the requirements imposed with respect to parenthood not be more stringent than those imposed on a member who becomes a single parent during the term of the member's enlistment, and with provision defining “single parent” as a person who is not married and who has custody of a child under the age of 18 pursuant to a court order, expired on Sept. 30, 1991.
 
 #### Cross References
 

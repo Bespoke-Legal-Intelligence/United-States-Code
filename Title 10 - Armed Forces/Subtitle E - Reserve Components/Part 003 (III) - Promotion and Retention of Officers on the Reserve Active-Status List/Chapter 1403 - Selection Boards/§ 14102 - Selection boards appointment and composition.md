@@ -2,7 +2,7 @@
 
 (a)
 
-Appointment.—Members of selection boards convened under section 14101 of this titleshall be appointed by the Secretary of the military department concerned in accordance with this section. Promotion boards and special selection boards shall consist of five or more officers. Continuation boards shall consist of three or more officers. All of the officers of any such selection board shall be of the same armed force as the officers under consideration by the board.
+Appointment.—Members of selection boards convened under section 14101 of this title shall be appointed by the Secretary of the military department concerned in accordance with this section. Promotion boards and special selection boards shall consist of five or more officers. Continuation boards shall consist of three or more officers. All of the officers of any such selection board shall be of the same armed force as the officers under consideration by the board.
 
 (b)
 
@@ -19,10 +19,6 @@ Representation of Competitive Categories.—(1) Except as provided in paragraph 
 Prohibition of Service on Consecutive Promotion Boards.—No officer may be a member of two successive promotion boards convened under section 14101(a) of this title for the consideration of officers of the same competitive category and grade if the second of the two boards is to consider any officer who was considered and not recommended for promotion to the next higher grade by the first of the two boards.
 
 (Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2924.)
-
-#### Effective Date of Section
-
-<i>Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under section 10001 of this title.</i>
 
 #### Prior Provisions
 

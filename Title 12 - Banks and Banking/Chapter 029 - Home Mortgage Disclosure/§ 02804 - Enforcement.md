@@ -32,7 +32,7 @@ For the purpose of the exercise by any agency referred to in subsection (b) of t
 
 #### References in Text
 
-Section 25 of the Federal Reserve Act, referred to in subsec. (b)(1)(B), is classified to subchapter I (§601 et seq.) of chapter 6 of this title. Section 25(a) of the Federal Reserve Act, which is classified to subchapter II (§611 et seq.) of chapter 6 of this title, was renumberedsection 25A of that act by Pub. L. 102–242, title I, §142(e)(2), Dec. 19, 1991, 105 Stat. 2281.
+Section 25 of the Federal Reserve Act, referred to in subsec. (b)(1)(B), is classified to subchapter I (§601 et seq.) of chapter 6 of this title. Section 25(a) of the Federal Reserve Act, which is classified to subchapter II (§611 et seq.) of chapter 6 of this title, was renumbered section 25A of that act by Pub. L. 102–242, title I, §142(e)(2), Dec. 19, 1991, 105 Stat. 2281.
 
 The Federal Credit Union Act, referred to in subsec. (b)(3), is act June 26, 1934, ch. 750, 48 Stat. 1216, as amended, which is classified generally to chapter 14 (§1751 et seq.) of this title. For complete classification of this Act to the Code, see section 1751 of this title and Tables.
 

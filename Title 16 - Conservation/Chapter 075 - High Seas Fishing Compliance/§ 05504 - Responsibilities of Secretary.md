@@ -14,7 +14,7 @@ The Secretary, in cooperation with the Secretary of State and the Secretary of t
 
 &emsp;(3) promptly notify FAO of additions to or deletions from the record, and the reason for any deletion;
 
-&emsp;(4) convey to FAO information relating to any permit granted under section 5503(b)(3) of this title, including the vessel's identity, owner or operator, and factors relevant to the Secretary's determination to issue the permit;
+&emsp;(4) convey to FAO information relating to any permit granted under section 5503(b)(3) of this title, including the vessel's identity,owner or operator, and factors relevant to the Secretary's determination to issue the permit;
 
 &emsp;(5) report promptly to FAO all relevant information regarding any activities of high seas fishing vessels that undermine the effectiveness of international conservation and management measures, including the identity of the vessels and any sanctions imposed; and
 
@@ -30,17 +30,25 @@ If the Secretary, in cooperation with the Secretary of State and the Secretary o
 
 #### (d) Regulations
 
-The Secretary, after consultation with the Secretary of State and the Secretary of the department in which the Coast Guard is operating, may promulgate such regulations, in accordance with section 553 of title 5, as may be necessary to carry out the purposes of the Agreement and this chapter. The Secretary shall coordinate such regulations with any other entities regulating high seas fishing vessels, in order to minimize duplication of permit application and reporting requirements. To the extent practicable, such regulations shall also be consistent with regulations implementing fishery management plans under the Magnuson Fishery Conservation and Management Act (16 U.S.C. 1801 et seq.).
+The Secretary, after consultation with the Secretary of State and the Secretary of the department in which the Coast Guard is operating, may promulgate such regulations, in accordance with section 553 of title 5, as may be necessary to carry out the purposes of the Agreement and this chapter. The Secretary shall coordinate such regulations with any other entities regulating high seas fishing vessels, in order to minimize duplication of permit application and reporting requirements. To the extent practicable, such regulations shall also be consistent with regulations implementing fishery management plans under the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1801 et seq.).
 
 #### (e) Notice of international conservation and management measures
 
 The Secretary, in consultation with the Secretary of State, shall publish in the Federal Register, from time to time, a notice listing international conservation and management measures recognized by the United States.
 
-(Pub. L. 104–43, title I, §105, Nov. 3, 1995, 109 Stat. 370.)
+(Pub. L. 104–43, title I, §105, Nov. 3, 1995, 109 Stat. 370; Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41.)
 
 #### References in Text
 
-The Magnuson Fishery Conservation and Management Act, referred to in subsec. (d), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, which is classified principally to chapter 38 (§1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
+The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (d), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, which is classified principally to chapter 38 (§1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
+
+#### Amendments
+
+1996—Subsec. (d). Pub. L. 104–208 substituted “Magnuson-Stevens Fishery” for “Magnuson Fishery”.
+
+#### Effective Date of 1996 Amendment
+
+Section 101(a) \[title II, §211(b)\] of div. A of Pub. L. 104–208 provided that the amendment made by that section is effective 15 days after Oct. 11, 1996.
 
 #### Section Referred to in Other Sections
 

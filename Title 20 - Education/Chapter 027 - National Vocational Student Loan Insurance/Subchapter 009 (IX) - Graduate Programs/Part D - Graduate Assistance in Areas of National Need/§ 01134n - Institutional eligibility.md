@@ -8,7 +8,7 @@ Any academic department or program of an institution of higher education that of
 
 After consultation with the National Science Foundation, the National Academy of Sciences, the National Endowments for the Arts and the Humanities, and other appropriate Federal and nonprofit agencies and organizations, the Secretary shall designate areas of national need, such as mathematics, biology, physics, chemistry, engineering, geosciences, computer science, or foreign languages and area studies. In making such designations, the Secretary shall take into account the extent to which the interest is compelling and the extent to which other Federal programs support postbaccalaureate study in the area concerned.
 
-(Pub. L. 89–329, title IX, §943, as added Pub. L. 99–498, title IX, §901(a), Oct. 17, 1986, 100 Stat. 1556; amended Pub. L. 102–325, title IX, §901, July 23, 1992, 106 Stat. 769; Pub. L. 103–208, §2(j)(38), Dec. 20, 1993, 107 Stat. 2484.)
+(Pub. L. 89–329, title IX, §943, as added Pub. L. 99–498, title IX, §901(a), Oct. 17, 1986, 100 Stat. 1556; amended Pub. L. 102–325, title IX, §901, July23, 1992, 106 Stat. 769; Pub. L. 103–208, §2(j)(38), Dec. 20, 1993, 107 Stat. 2484.)
 
 #### Prior Provisions
 

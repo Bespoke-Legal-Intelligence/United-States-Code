@@ -70,7 +70,7 @@
 
 &emsp;&emsp;&emsp;(iii) exercise oversight of the administration of the United States Section that is authorized to be established under section 3315 of this title; and
 
-&emsp;&emsp;&emsp;(iv) make recommendations to the Trade Representative regarding the convening of extraordinary challenge committees and special committees under chapter 19.
+&emsp;&emsp;&emsp;(iv) make recommendations to the Trade Representative regarding the convening ofextraordinary challenge committees and special committees under chapter 19.
 
 #### (3) Preliminary candidate lists
 
@@ -114,7 +114,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;If, after the Trade Representative has submitted the final candidate lists to theappropriate Congressional Committees under subparagraph (A) for a calendar year and before July 1 of such calendar year, the Trade Representative determines that additional individuals need to be added to a final candidate list, the Trade Representative shall—
+&emsp;&emsp;&emsp;If, after the Trade Representative has submitted the final candidate lists to the appropriate Congressional Committees under subparagraph (A) for a calendar year and before July 1 of such calendar year, the Trade Representative determines that additional individuals need to be added to a final candidate list, the Trade Representative shall—
 
 &emsp;&emsp;&emsp;&emsp;(I) request the interagency group established under paragraph (2)(A) to prepare a list of individuals who are qualified to be added to such candidate list;
 
@@ -176,7 +176,7 @@
 
 &emsp;&emsp;&emsp;(iii) act to make a joint appointment with the Government of a NAFTA country, under the terms of the Agreement, of any individual who is a citizen or national of the United States to serve as any other member of such a panel or committee;
 
-> &emsp;&emsp;only if such individual is on the appropriate final candidate list that was submitted tothe appropriate Congressional Committees under subsection (c)(4)(A) of this section during such calendar year or on such list as it may be amended under subsection (c)(4)(C)(iv)(I) of this section, or on the list submitted under subsection (b)(3) of this section to the Congressional Committees referred to in such subsection; and
+> &emsp;&emsp;only if such individual is on the appropriate final candidate list that was submitted to the appropriate Congressional Committees under subsection (c)(4)(A) of this section during such calendar year or on such list as it may be amended under subsection (c)(4)(C)(iv)(I) of this section, or on the list submitted under subsection (b)(3) of this section to the Congressional Committees referred to in such subsection; and
 
 &emsp;&emsp;(B) no individual may—
 
@@ -188,7 +188,7 @@
 
 #### (3) Exceptions
 
-&emsp;Notwithstanding subsection (c)(3) (other than subparagraph (B)), (c)(4), or paragraph (2)(A) of this subsection, individuals included on the preliminary candidate lists submitted to the appropriate Congressional Committees under subsection (c)(3)(B) of this section may—
+&emsp;Notwithstanding subsection (c)(3) of this section (other than subparagraph (B)), subsection (c)(4) of this section, or paragraph (2)(A) of this subsection, individuals included on the preliminary candidate lists submitted to the appropriate Congressional Committees under subsection (c)(3)(B) of this section may—
 
 &emsp;&emsp;(A) be selected by the Trade Representative for placement on the rosters described in paragraph 1 of Annex 1901.2 and paragraph 1 of Annex 1904.13 during the 3-month period beginning on the date on which the Agreement enters into force with respect to the United States; and
 
@@ -214,11 +214,15 @@ The administering authority under title VII of the Tariff Act of 1930 \[19 U.S.C
 
 At such time as the final candidate lists are submitted under subsection (c)(4)(A) of this section and the final forms of amendments are submitted under subsection (c)(4)(C)(iv) of this section, the Trade Representative shall submit to the Committee on the Judiciary and the Committee on Ways and Means of the House of Representatives, and to the Committee on Finance and the Committee on the Judiciary of the Senate, a report regarding the efforts made to secure the participation of judges and former judges on binational panels, extraordinary challenge committees, and special committees established under chapter 19.
 
-(Pub. L. 103–182, title IV, §402, Dec. 8, 1993, 107 Stat. 2129.)
+(Pub. L. 103–182, title IV, §402, Dec. 8, 1993, 107 Stat. 2129; Pub. L. 104–295, §21(c)(1), Oct. 11, 1996, 110 Stat. 3530.)
 
 #### References in Text
 
 The Tariff Act of 1930, referred to in subsec. (g), is act June 17, 1930, ch. 497, 46 Stat. 590, as amended. Title VII of the Act is classified generally to subtitle IV (§1671 et seq.) of chapter 4 of this title. For complete classification of this Act to the Code, see section 1654 of this title and Tables.
+
+#### Amendments
+
+1996—Subsec. (d)(3). Pub. L. 104–295 substituted “subsection (c)(4) of this section” for “(c)(4)” in introductory provisions.
 
 #### North American Free Trade Agreement: Entry Into Force
 

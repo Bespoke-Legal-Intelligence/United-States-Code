@@ -6,7 +6,7 @@ Part D—Special Assistance and Other Programs
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
 - [&sect; 01920, 1921 - Repealed. Pub. L. 87&#8211;195, pt. III, &sect;642(a)(2), Sept. 4, 1961, 75 Stat. 460](%C2%A7%2001920%2C%201921%20-%20Repealed.%20Pub.%20L.%2087%E2%80%93195%2C%20pt.%20III%2C%20%C2%A7642%28a%29%282%29%2C%20Sept.%204%2C%201961%2C%2075%20Stat.%20460.md)
-- [&sect; 01922 - Surplus agricultural commodities; funds for shipments](%C2%A7%2001922%20-%20Surplus%20agricultural%20commodities%3B%20funds%20for%20shipments.md)
+- [&sect; 01922 - Repealed. Pub. L. 104&#8211;127, title II, &sect;228, Apr. 4, 1996, 110 Stat. 963](%C2%A7%2001922%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93127%2C%20title%20II%2C%20%C2%A7228%2C%20Apr.%204%2C%201996%2C%20110%20Stat.%20963.md)
 - [&sect; 01923, 1924 - Repealed. Pub. L. 87&#8211;195, pt. III, &sect;642(a)(2), Sept. 4, 1961, 75 Stat. 460](%C2%A7%2001923%2C%201924%20-%20Repealed.%20Pub.%20L.%2087%E2%80%93195%2C%20pt.%20III%2C%20%C2%A7642%28a%29%282%29%2C%20Sept.%204%2C%201961%2C%2075%20Stat.%20460.md)
 - [&sect; 01925 - Repealed](%C2%A7%2001925%20-%20Repealed.md)
 - [&sect; 01926, 1927 - Repealed. Pub. L. 87&#8211;195, pt. III, &sect;642(a)(2), Sept. 4, 1961, 75 Stat. 460](%C2%A7%2001926%2C%201927%20-%20Repealed.%20Pub.%20L.%2087%E2%80%93195%2C%20pt.%20III%2C%20%C2%A7642%28a%29%282%29%2C%20Sept.%204%2C%201961%2C%2075%20Stat.%20460.md)

@@ -6,7 +6,7 @@ Transportation Provided at Rates Other Than Legal Tariff Rates.—
 
 &emsp;(1)
 
-In general.—When a claim is made by a motor carrier of property (other than a household goods carrier) providing transportation subject to jurisdiction under subchapter II of chapter 105 (as in effect on the day before the effective date of this section) or subchapter I of chapter 135, by a freight forwarder (other than a household goods freight forwarder), or by a party representing such a carrier or freight forwarder regarding the collection of rates or charges for such transportation in addition to those originally billed and collected by the carrier or freight forwarder for such transportation, the person against whom the claim is made may elect to satisfy the claim under the provisions of subsection (b), (c), or (d), upon showing that—
+In general.—When a claim is made by a motor carrier of property (other than a household goods carrier) providing transportation subject to jurisdiction under subchapter II of chapter 105 (as in effect on December 31, 1995) or subchapter I of chapter 135, by a freight forwarder (other than a household goods freight forwarder), or by a party representing such a carrier or freight forwarder regarding the collection of rates or charges for such transportation in addition to those originally billed and collected by the carrier or freight forwarder for such transportation, the person against whom the claim is made may elect to satisfy the claim under the provisions of subsection (b), (c), or (d), upon showing that—
 
 &emsp;&emsp;(A) the carrier or freight forwarder is no longer transporting property or is transporting property for the purpose of avoiding the application of this section; and
 
@@ -28,7 +28,7 @@ Forum.—If there is a dispute as to the showing under paragraph (1)(A), such di
 
 &emsp;(3)
 
-Effect of satisfaction of claims.—Satisfaction of the claim under subsection (b), (c), or (d) shall be binding on the parties, and the parties shall not be subject to chapter 119 of this title, as such chapter was in effect on the day before the effective date of this section, or chapter 149.
+Effect of satisfaction of claims.—Satisfaction of the claim under subsection (b), (c), or (d) shall be binding on the parties, and the parties shall not be subject to chapter 119 of this title, as such chapter was in effect on December 31, 1995, or chapter 149.
 
 (b)
 
@@ -48,7 +48,7 @@ Claims Involving Public Warehousemen.—Notwithstanding subsections (b) and (c),
 
 (e)
 
-Effects of Election.—When a person from whom additional legally applicable freight rates or charges are sought does not elect to use the provisions of subsection (b), (c) or (d), the person may pursue all rights and remedies existing under this part or, for transportation provided before the effective date of this section, all rights and remedies that existed under this title on the day before such effective date.
+Effects of Election.—When a person from whom additional legally applicable freight rates or charges are sought does not elect to use the provisions of subsection (b), (c) or (d), the person may pursue all rights and remedies existing under this part or, for transportation provided before January 1, 1996, all rights and remedies that existed under this title on December 31, 1995.
 
 (f)
 
@@ -100,15 +100,23 @@ In general.—Notwithstanding subsections (b), (c), and (d), a person from whom 
 
 Recyclable materials defined.—In this subsection, the term “recyclable materials” means waste products for recycling or reuse in the furtherance of recognized pollution control programs.
 
-(Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 874.)
+(Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 874; amended Pub. L. 104–287, §5(29), Oct. 11, 1996, 110 Stat. 3391.)
+
+#### Historical and Revision Notes
+
+I74Pub. L. 104–287, §5(29)(A)
+
+This amends 49:13709(a)(1) and (3) for clarity and consistency.
+
+#### Pub. L. 104–287, §5(29)(B)
+
+This amends 49:13709(e) by setting out the effective date for 49:13709 and for clarity and consistency.
 
 #### References in Text
 
-Subchapter II of chapter 105 (as in effect on the day before the effective date of this section), referred to in subsec. (a)(1), means subchapter II (§10521 et seq.) of chapter 105 of this title as in effect on the day before Jan. 1, 1996. That subchapter was omitted in the general amendment of this subtitle by Pub. L. 104–88, title I, §102(a), Dec. 29, 1995, 109 Stat. 804, effective Jan. 1, 1996.
+Subchapter II of chapter 105, referred to in subsec. (a)(1), was omitted in the general amendment of this subtitle by Pub. L. 104–88, title I, §102(a), Dec. 29, 1995, 109 Stat. 804, effective Jan. 1, 1996.
 
-Chapter 119, as such chapter was in effect on the day before the effective date of this section, referred to in subsec. (a)(3), means chapter 119 (§11901 et seq.) of this title as in effect on the day before Jan. 1, 1996. That chapter was omitted and a new chapter 119 enacted in the general amendment of this subtitle by Pub. L. 104–88, title I, §102(a), Dec. 29, 1995, 109 Stat. 804, 849, effective Jan. 1, 1996.
-
-For the effective date of this section, referred to in subsec. (e), as Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 701 of this title.
+Chapter 119, referred to in subsec. (a)(3), was omitted and a new chapter 119 enacted in the general amendment of this subtitle by Pub. L. 104–88, title I, §102(a), Dec. 29, 1995, 109 Stat. 804, 849, effective Jan. 1, 1996.
 
 The Small Business Act, referred to in subsec. (h)(1)(A), is Pub. L. 85–536, July 18, 1958, 72 Stat. 384, as amended, which is classified generally to chapter 14A (§631 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 631 of Title 15 and Tables.
 
@@ -117,6 +125,12 @@ Section 501 of the Internal Revenue Code of 1986, referred to in subsec. (h)(1)(
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in section 10701 of this title prior to the general amendment of this subtitle by Pub. L. 104–88, §102(a).
+
+#### Amendments
+
+1996—Subsec. (a)(1), (3). Pub. L. 104–287, §5(29)(A), substituted “December 31, 1995” for “the day before the effective date of this section”.
+
+Subsec. (e). Pub. L. 104–287, §5(29)(B), substituted “January 1, 1996” for “the effective date of this section” and “December 31, 1995” for “the day before such effective date”.
 
 #### Abolition of Interstate Commerce Commission
 

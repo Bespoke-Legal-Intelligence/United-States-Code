@@ -28,13 +28,13 @@
 
 &emsp;(1) the plans, policies, and procedures of the Postal Service designed to comply with all of the provisions of section 101 of this title;
 
-&emsp;(2) postal operations generally, including data on the speed and reliability of service provided for the various classes of mail andtypes of mail service, mail volume, productivity, trends in postal operations, and analyses of the impact of internal and external factors upon the Postal Service;
+&emsp;(2) postal operations generally, including data on the speed and reliability of service provided for the various classes of mail and types of mail service, mail volume, productivity, trends in postal operations, and analyses of the impact of internal and external factors upon the Postal Service;
 
 &emsp;(3) a listing of the total expenditures and obligations incurred by the Postal Service for the most recent fiscal year for which information is available, an estimate of the total expenditures and obligations to be incurred by the Postal Service during the fiscal year for which funds are requested to be appropriated, and the means by which these estimated expenses will be financed; and
 
 &emsp;(4) such other matters as the committees may determine necessary to ensure that the Congress is fully and currently consulted and informed on postal operations, plans, and policies.
 
-> Not later than March 15 of each year, the Postal Service shall appear before the Committee on Governmental Affairs of the Senate and the Committee on Post Office and Civil Service of the House of Representatives to submit information which any such committee considers necessary to determine the amount of funds to be appropriated for the operation of the Postal Service, and to present testimony and respond to questions with respect to such budget and statement. Each such committee shall take such action as it considers appropriate and shall advise the Postal Service of such action.
+> Not later than March 15 of each year, the Postal Service shall appear before the Committee on Governmental Affairs of the Senate and the Committee on Post Office and Civil Service of the House of Representatives to submit information which any such committee considers necessary to determine the amount of funds to be appropriated for the operation of the Postal Service, and to present testimony and respond to questions with respect to such budget andstatement. Each such committee shall take such action as it considers appropriate and shall advise the Postal Service of such action.
 
 (f) The failure of the President to request the appropriation of any part of the funds authorized by this section may not be deemed a failure of appropriations.
 

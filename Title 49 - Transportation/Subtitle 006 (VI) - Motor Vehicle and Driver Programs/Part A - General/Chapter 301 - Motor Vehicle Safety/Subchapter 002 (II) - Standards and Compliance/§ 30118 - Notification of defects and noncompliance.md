@@ -34,7 +34,9 @@ Hearings About Meeting Notification Requirements.—On the motion of the Secreta
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

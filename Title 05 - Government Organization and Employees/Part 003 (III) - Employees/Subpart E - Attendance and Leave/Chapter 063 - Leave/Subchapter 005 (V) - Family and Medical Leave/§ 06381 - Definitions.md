@@ -34,11 +34,11 @@ For the purpose of this subchapter—
 
 #### Amendment of Paragraph (1)(A)
 
-<i>Pub. L. 104–1, title II, §202(c)(2), (e)(2), Jan. 23, 1995, 109 Stat. 9, 10, provided that, effective 1 year after transmission to Congress of the study under section 1371 of Title 2, The Congress, paragraph (1)(A) of this section is amended by striking “and” after “District of Columbia” and inserting before the semicolon the following: “, and any employee of the General Accounting Office or the Library of Congress”.</i>
+<i>Pub. L. 104–1, title II, §202(c)(2), (e)(2), Jan. 23, 1995, 109 Stat. 9, 10, provided that, effective 1 year after transmission to Congress of the study under section 1371 of Title 2, The Congress, see Effective Date of 1995 Amendment note below, paragraph (1)(A) of this section is amended by striking “and” after “District of Columbia” and inserting before the semicolon the following: “, and any employee of the General Accounting Office or the Library of Congress”.</i>
 
 #### Effective Date of 1995 Amendment
 
-Amendment by Pub. L. 104–1 effective 1 year after transmission to Congress of the study under section 1371 of Title 2, The Congress, see section 1312(e)(2) of Title 2.
+Amendment by Pub. L. 104–1 effective 1 year after transmission to Congress of the study under section 1371 of Title 2, The Congress, see section 1312(e)(2) of Title 2. The study required under section 1371 of Title 2, dated Dec. 31, 1996, was transmitted to Congress by the Board of Directors of the Office of Compliance on Dec. 30, 1996.
 
 #### Effective Date
 

@@ -8,7 +8,7 @@ In Special Aircraft Jurisdiction.—(1) In this subsection—
 
 &emsp;(B) an attempt to commit aircraft piracy is in the special aircraft jurisdiction of the United States although the aircraft is not in flight at the time of the attempt if the aircraft would have been in the special aircraft jurisdiction of the United States had the aircraft piracy been completed.
 
-(2) An individual committing or attempting to commit aircraft piracy—
+(2) An individual committing or attempting or conspiring to commit aircraft piracy—
 
 &emsp;(A) shall be imprisoned for at least 20 years; or
 
@@ -16,21 +16,31 @@ In Special Aircraft Jurisdiction.—(1) In this subsection—
 
 (b)
 
-Outside Special Aircraft Jurisdiction.—(1) An individual committing an offense (as defined in the Convention for the Suppression of Unlawful Seizure of Aircraft) on an aircraft in flight outside the special aircraft jurisdiction of the United States and later found in the United States—
+Outside Special Aircraft Jurisdiction.—(1) An individual committing or conspiring to commit an offense (as defined in the Convention for the Suppression of Unlawful Seizure of Aircraft) on an aircraft in flight outside the special aircraft jurisdiction of the United States—
 
 &emsp;(A) shall be imprisoned for at least 20 years; or
 
 &emsp;(B) notwithstanding section 3559(b) of title 18, if the death of another individual results from the commission or attempt, shall be put to death or imprisoned for life.
 
-(2) This subsection applies only if the place of takeoff or landing of the aircraft on which the individual commits the offense is located outside the territory of the country of registration of the aircraft.
+(2) There is jurisdiction over the offense in paragraph (1) if—
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1241; Pub. L. 103–429, §6(61), Oct. 31, 1994, 108 Stat. 4385.)
+&emsp;(A) a national of the United States was aboard the aircraft;
+
+&emsp;(B) an offender is a national of the United States; or
+
+&emsp;(C) an offender is afterwards found in the United States.
+
+(3) For purposes of this subsection, the term “national of the United States” has the meaning prescribed in section 101(a)(22) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(22)).
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1241; Pub. L. 103–429, §6(61), Oct. 31, 1994, 108 Stat. 4385; Pub. L. 104–132, title VII, §§721(a), 723(b), Apr. 24, 1996, 110 Stat. 1298, 1300.)
 
 Historical and Revision Notes
 
 Pub. L. 103–272
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -68,6 +78,14 @@ This amends 49:46502(a)(2)(B) and (b)(1)(B) to clarify the restatement of 49 App
 
 #### Amendments
 
+1996—Subsec. (a)(2). Pub. L. 104–132, §723(b)(1), inserted “or conspiring” after “attempting”.
+
+Subsec. (b)(1). Pub. L. 104–132, §§721(a)(1), 723(b)(2), in introductory provisions, inserted “or conspiring to commit” after “committing” and struck out “and later found in the United States” after “jurisdiction of the United States”.
+
+Subsec. (b)(2). Pub. L. 104–132, §721(a)(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “This subsection applies only if the place of takeoff or landing of the aircraft on which the individual commits the offense is located outside the territory of the country of registration of the aircraft.”
+
+Subsec. (b)(3). Pub. L. 104–132, §721(a)(3), added par. (3).
+
 1994—Subsecs. (a)(2)(B), (b)(1)(B). Pub. L. 103–429 inserted “notwithstanding section 3559(b) of title 18,” before “if the death”.
 
 #### Effective Date of 1994 Amendment
@@ -80,5 +98,5 @@ The United States is a party to the Convention for the Suppression of Unlawful S
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 44903, 46302, 46507 of this title; title 18 sections 2333, 2339A, 2516, 3286, 3559, 3592, 3663.
+This section is referred to in sections 44903, 46302, 46507 of this title; title 18 sections 1956, 2332b, 2333, 2339A, 2516, 3286, 3559, 3592, 3663.
 

@@ -18,7 +18,9 @@ Information Penalty.—A person knowingly and willfully requesting, or under fal
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

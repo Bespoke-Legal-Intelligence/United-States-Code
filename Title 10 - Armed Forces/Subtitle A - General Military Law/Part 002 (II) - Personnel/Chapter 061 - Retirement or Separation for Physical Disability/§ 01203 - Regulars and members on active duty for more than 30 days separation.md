@@ -1,6 +1,12 @@
 ### §1203. Regulars and members on active duty for more than 30 days: separation
 
-Upon a determination by the Secretary concerned that a member of a regular component of the armed forces entitled to basic pay, or any other member of the armed forces entitled to basic pay who has been called or ordered to active duty (other than for training under section 10148(a) of this title) for a period of more than 30 days, is unfit to perform the duties of his office, grade, rank, or rating because of physical disability incurred while entitled to basic pay, the member may be separated from his armed force, with severance pay computed under section 1212 of this title, if the Secretary also determines that—
+(a)
+
+Separation.—Upon a determination by the Secretary concerned that a member described in section 1201(c) of this title is unfit to perform the duties of the member's office, grade, rank, or rating because of physical disability incurred while entitled to basic pay or while absent as described in section 1201(c)(3) of this title, the member may be separated from the member's armed force, with severance pay computed under section 1212 of this title, if the Secretary also makes the determinations with respect to the member and that disability specified in subsection (b).
+
+(b)
+
+Required Determinations of Disability.—Determinations referred to in subsection (a) are determinations by the Secretary that—
 
 &emsp;(1) the member has less than 20 years of service computed under section 1208 of this title;
 
@@ -16,9 +22,9 @@ Upon a determination by the Secretary concerned that a member of a regular compo
 
 &emsp;&emsp;(C) the disability is at least 30 percent under the standard schedule of rating disabilities in use by the Department of Veterans Affairs at the time of the determination, the disability was neither (i) the proximate result of performing active duty, (ii) incurred in line of duty in time of war or national emergency, nor (iii) incurred in line of duty after September 14, 1978, and the member has less than eight years of service computed under section 1208 of this title on the date when he would otherwise be retired under section 1201 of this title or placed on the temporary disability retired list under section 1202 of this title.
 
-> However, if the member is eligible for transfer to the inactive status list under section 1209 of this title, and so elects, he shall be transferred to that list instead of being separated.
+> However, if the member is eligible for transfer to the inactive status list under section 1209 ofthis title, and so elects, he shall be transferred to that list instead of being separated.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 92; Sept. 2, 1958, Pub. L. 85–861, §1(28)(A), 72 Stat. 1451; Sept. 7, 1962, Pub. L. 87–651, title I, §107(a), 76 Stat. 508; Sept. 19, 1978, Pub. L. 95–377, §3(2), (3), 92 Stat. 719, 720; Sept. 8, 1980, Pub. L. 96–343, §10(c)(2), (3), 94 Stat. 1129; Dec. 12, 1980, Pub. L. 96–513, title I, §117, 94 Stat. 2878; Nov. 29, 1989, Pub. L. 101–189, div. A, title XVI, §1621(a)(1), 103 Stat. 1602; Oct. 5, 1994, Pub. L. 103–337, div. A, title XVI, §1671(c)(6), 108 Stat. 3014.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 92; Sept. 2, 1958, Pub. L. 85–861, §1(28)(A), 72 Stat. 1451; Sept. 7, 1962, Pub. L. 87–651, title I, §107(a), 76 Stat. 508; Sept. 19, 1978, Pub. L. 95–377, §3(2), (3), 92 Stat. 719, 720; Sept. 8, 1980, Pub. L. 96–343, §10(c)(2), (3), 94 Stat. 1129; Dec. 12, 1980, Pub. L. 96–513, title I, §117, 94 Stat. 2878; Nov. 29, 1989, Pub. L. 101–189, div. A, title XVI, §1621(a)(1), 103 Stat. 1602; Oct. 5, 1994, Pub. L. 103–337, div. A, title XVI, §1671(c)(6), 108 Stat. 3014; Sept. 23, 1996, Pub. L. 104–201, div. A, title V, §572(c), 110 Stat. 2533.)
 
 Historical and Revision Notes<br>1956
 
@@ -74,6 +80,8 @@ The changes correct typographical errors.
 
 #### Amendments
 
+1996—Pub. L. 104–201 added subsec. (a), designated existing provisions as subsec. (b), and substituted introductory provisions of subsec. (b) for “Upon a determination by the Secretary concerned that a member of a regular component of the armed forces entitled to basic pay, or any other member of the armed forces entitled to basic pay who has been called or ordered to active duty (other than for training under section 10148(a) of this title) for a period of more than 30 days, is unfit to perform the duties of his office, grade, rank, or rating because of physical disability incurred while entitled to basic pay, the member may be separated from his armed force, with severance pay computed under section 1212 of this title, if the Secretary also determines that—”.
+
 1994—Pub. L. 103–337 substituted “10148(a)” for “270(b)” in introductory provisions.
 
 1989—Par. (4)(A) to (C). Pub. L. 101–189 substituted “Department of Veterans Affairs” for “Veterans’ Administration” wherever appearing.
@@ -93,6 +101,10 @@ Par. (4)(C). Pub. L. 95–377, §3(3), designated existing conditions of perform
 1962—Pub. L. 87–651 substituted “training under section 270(b) of this title)” for “training) under section 270(b) of this title.”
 
 1958—Pub. L. 85–861 inserted “under section 270(b) of this title” after “(other than for training)”.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–201 effective Sept. 23, 1996, and applicable with respect to physical disabilities incurred on or after such date, see section 572(d) of Pub. L. 104–201, set out as a note under section 1201 of this title.
 
 #### Effective Date of 1994 Amendment
 
@@ -116,5 +128,5 @@ Members on temporary disability retired list, separation under this section, see
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1204, 1205, 1206, 1210, 1212 of this title; title 42 section 213a.
+This section is referred to in sections 1201, 1204, 1205, 1206, 1210, 1212 of this title; title 42 section 213a.
 

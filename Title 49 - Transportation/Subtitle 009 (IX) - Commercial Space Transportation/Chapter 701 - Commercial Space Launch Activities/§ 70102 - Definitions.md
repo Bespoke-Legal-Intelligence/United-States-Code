@@ -28,7 +28,7 @@ In this chapter—
 
 &emsp;&emsp;(B) the conduct of a launch.
 
-&emsp;(6) “launch site” means the location on Earth from which a launch takes place (as defined in a license the Secretary issues or transfers under this chapter) and necessary facilities.
+&emsp;(6) “launch site” means the location on Earth from which a launch takes place (as defined in a license the Secretary issues or transfers under this chapter) and necessary facilities at that location.
 
 &emsp;(7) “launch vehicle” means—
 
@@ -54,11 +54,15 @@ In this chapter—
 
 &emsp;(12) “United States” means the States of the United States, the District of Columbia, and the territories and possessions of the United States.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1331.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1331; Pub. L. 104–287, §5(92), Oct. 11, 1996, 110 Stat. 3398.)
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+Pub. L. 103–272
+
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -109,6 +113,18 @@ In clause (9), the words “corporation, partnership, joint venture, association
 Clauses (10) and (12) are substituted for 49 App.:2603(10) to eliminate unnecessary words.
 
 In clause (11), before subclause (A), the words “or entity” are omitted as surplus. In subclause (A), the words “its agencies” are omitted as surplus.
+
+#### Pub. L. 104–287
+
+This amends 49:70102(6) to correct an error in the codification enacted by section 1 of the Act of July 5, 1994 (Public Law 103–272, 108 Stat. 1331).
+
+#### Amendments
+
+1996—Par. (6). Pub. L. 104–287 substituted “facilities at that location” for “facilities”.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–287 effective July 5, 1994, see section 8(1) of Pub. L. 104–287, set out as a note under section 5303 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -38,6 +38,10 @@ Act
 
 107(b)
 
+&nbsp;
+
+&nbsp;
+
 107(c)
 
 32:22 (less proviso).

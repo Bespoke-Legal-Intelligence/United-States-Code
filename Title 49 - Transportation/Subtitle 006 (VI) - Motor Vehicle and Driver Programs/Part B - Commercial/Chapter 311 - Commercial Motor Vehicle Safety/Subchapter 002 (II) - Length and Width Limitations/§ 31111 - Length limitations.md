@@ -48,7 +48,7 @@ Exemptions.—(1) If the chief executive officer of a State, after consulting un
 
 (3) A chief executive officer's notification under this subsection must include specific evidence of safety problems supporting the officer's decision and the results of consultations about alternative routes.
 
-(4)(A) If the Secretary decides, on request of a chief executive officer or on the Secretary's own initiative, a segment of the Dwight D. Eisenhower System of Interstate and Defense Highways is not capable of safely accommodating a commercial motor vehicle having a length described in subsection (b)(1)(A) of this section or the motor vehicle combination described in subsection (c) of this section, the Secretary shall exempt the segment from either or both of those provisions. Before making a decision under this paragraph, the Secretary shall consider any possible alternative route that serves the area in which the segment is located.
+(4)(A) If the Secretary decides, on request of a chief executive officer or on the Secretary's owninitiative, a segment of the Dwight D. Eisenhower System of Interstate and Defense Highways is not capable of safely accommodating a commercial motor vehicle having a length described in subsection (b)(1)(A) of this section or the motor vehicle combination described in subsection (c) of this section, the Secretary shall exempt the segment from either or both of those provisions. Before making a decision under this paragraph, the Secretary shall consider any possible alternative route that serves the area in which the segment is located.
 
 (B) The Secretary shall make a decision about a specific segment not later than 120 days after the date of receipt of notification from a chief executive officer under paragraph (1) of this subsection or the date on which the Secretary initiates action under subparagraph (A) of this paragraph, whichever is applicable. If the Secretary finds the decision will not be made in time, the Secretary immediately shall notify Congress, giving the reasons for the delay, information about the resources assigned, and the projected date for the decision.
 
@@ -62,7 +62,9 @@ Accommodating Specialized Equipment.—In prescribing regulations to carry out t
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

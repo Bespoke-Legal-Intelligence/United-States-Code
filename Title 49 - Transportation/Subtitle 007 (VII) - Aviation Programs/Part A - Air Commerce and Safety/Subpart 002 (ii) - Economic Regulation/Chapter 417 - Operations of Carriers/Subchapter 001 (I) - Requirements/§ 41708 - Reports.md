@@ -20,7 +20,9 @@ Requirements.—The Secretary may require an air carrier or foreign air carrier�
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -34,7 +36,7 @@ Aug. 23, 1958, Pub. L. 85–726, §407(e) (last sentence), 72 Stat. 766.
 
 &nbsp;
 
-49 App.:1551(b) (1)(E).
+49 App.:1551(b)(1)(E).
 
 Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1601(b)(1)(E); added Oct. 4, 1984, Pub. L. 98–443, §3(e), 98 Stat. 1704.
 
@@ -46,7 +48,7 @@ Aug. 23, 1958, Pub. L. 85–726, §407(a), 72 Stat. 766; Feb. 15, 1980, Pub. L. 
 
 &nbsp;
 
-49 App.:1551(b) (1)(E).
+49 App.:1551(b)(1)(E).
 
 In subsection (a), the word “reasonably” is omitted as surplus. The words “carry out” are substituted for “administration” for consistency in the revised title. The words “section 11343(c) of this title” are substituted for “section 5(8) of the Interstate Commerce Act, as amended” in section 407(e) of the Federal Aviation Act of 1958 (Public Law 85–726, 72 Stat. 766), to cite the corresponding section of the revised title and correct the inaccurate reference to the definition of “affiliate”.
 
@@ -54,5 +56,5 @@ In subsection (b)(3), the word “copy” is substituted for “true copy” to 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 40109, 41110, 46301 of this title.
+This section is referred to in section 41110 of this title.
 

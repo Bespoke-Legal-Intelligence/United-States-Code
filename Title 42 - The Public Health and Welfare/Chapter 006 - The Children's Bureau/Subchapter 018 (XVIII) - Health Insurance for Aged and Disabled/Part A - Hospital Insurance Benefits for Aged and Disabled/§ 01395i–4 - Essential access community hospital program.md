@@ -40,7 +40,7 @@ A State is eligible to receive a grant under subsection (a)(1) of this section o
 
 &emsp;&emsp;(A) is located in a State receiving a grant under subsection (a)(1) of this section;
 
-&emsp;&emsp;(B) is designated as an essential access community hospital or a rural primary carehospital by the State in which it is located or is a member of a rural health network (as defined in subsection (g) of this section);
+&emsp;&emsp;(B) is designated as an essential access community hospital or a rural primary care hospital by the State in which it is located or is a member of a rural health network (as defined in subsection (g) of this section);
 
 &emsp;&emsp;(C) submits to the State in which it is located and to the Secretary, at such time and in such form as the Secretary may require, an application containing such information and assurances as the Secretary may require; and
 
@@ -94,7 +94,7 @@ A State may designate a hospital as an essential access community hospital only 
 
 &emsp;&emsp;(C) has ceased, or agrees (upon the approval of such application) to cease, providing inpatient care (except as required under subparagraph (F));
 
-&emsp;&emsp;(D) in the case of a facility that is a member of a rural health network, has in effect an agreement to participate with other hospitals and facilities in the communications system of such network, including the network's system for the electronic sharing ofpatient data, including telemetry and medical records, if the network has in operation such a system;
+&emsp;&emsp;(D) in the case of a facility that is a member of a rural health network, has in effect an agreement to participate with other hospitals and facilities in the communications system of such network, including the network's system for the electronic sharing of patient data, including telemetry and medical records, if the network has in operation such a system;
 
 &emsp;&emsp;(E) makes available 24-hour emergency care;
 
@@ -204,7 +204,7 @@ There are authorized to be appropriated from the Federal Hospital Insurance Trus
 
 &emsp;(2) $15,000,000 for grants to hospitals, facilities, and consortia under subsection (a)(2) of this section.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1820, as added Dec. 19, 1989, Pub. L. 101–239, title VI, §6003(g)(1)(A), 103 Stat. 2145; amended Nov. 5, 1990, Pub. L. 101–508, title IV, §4008(d)(1)–(3), (m)(2)(B), 104 Stat. 1388–44, 1388–45, 1388–53; Oct. 31, 1994, Pub. L. 103–432, title I, §102(a)(1), (2), (b)(1)(A), (2), (c), (f), (h), 108 Stat. 4401–4404.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1820, as added Dec. 19, 1989, Pub. L. 101–239, title VI,§6003(g)(1)(A), 103 Stat. 2145; amended Nov. 5, 1990, Pub. L. 101–508, title IV, §4008(d)(1)–(3), (m)(2)(B), 104 Stat. 1388–44, 1388–45, 1388–53; Oct. 31, 1994, Pub. L. 103–432, title I, §102(a)(1), (2), (b)(1)(A), (2), (c), (f), (h), 108 Stat. 4401–4404.)
 
 #### References in Text
 
@@ -234,11 +234,11 @@ Subsec. (i)(1)(B). Pub. L. 103–432, §102(b)(1)(A)(iii), substituted “paragr
 
 Subsec. (i)(2)(A). Pub. L. 103–432, §102(b)(2)(B)(ii), in cl. (i) inserted “(except as provided in subsection (k) of this section)” and in cl. (ii) inserted “or subsection (k) of this section”.
 
-Subsec. (k). Pub. L. 103–432, §102(b)(2)(A)(ii), added subsec. (k). Former subsec. (k) redesignated (<i>l).</i>
+Subsec. (k). Pub. L. 103–432, §102(b)(2)(A)(ii), added subsec. (k). Former subsec. (k) redesignated (<i>l</i>).
 
 Subsec. (<i>l</i>). Pub. L. 103–432, §102(h), substituted “1990 through 1997” for “1990, 1991, and 1992” in introductory provisions.
 
-Pub. L. 103–432, §102(b)(2)(A)(i), redesignated subsec. (k) as (<i>l).</i>
+Pub. L. 103–432, §102(b)(2)(A)(i), redesignated subsec. (k) as (<i>l</i>).
 
 1990—Subsec. (d)(1). Pub. L. 101–508, §4008(m)(2)(B)(i), struck out “demonstration” before “program”.
 
@@ -258,11 +258,7 @@ Section 4008(d)(4) of Pub. L. 101–508 provided that: “The amendments made by
 
 #### GAO Reports
 
-Section 102(a)(4) of Pub. L. 103–432 provided that: “Not later than 2 years after the date of the enactment of this Act \[Oct. 31, 1994\], the Comptroller General shall submit reports to Congress on—
-
-&emsp;“(A) the application of the requirements under section 1820(f) of the Social Security Act \[subsec. (f) of this section\] (as amended by this subsection) that rural primary care hospitals provide inpatient care only to those individuals whose attending physicians certify may reasonably be expected to be discharged within 72 hours after admission and maintain an average length of inpatient stay during a year that does not exceed 72 hours; and
-
-&emsp;“(B) the extent to which such requirements have resulted in such hospitals providing inpatient care beyond their capabilities or have limited the ability of such hospitals to provide needed services.”
+Section 102(a)(4) of Pub. L. 103–432 directed Comptroller General to submit to Congress, not later than 2 years after Oct. 31, 1994, reports on application of requirements under subsec. (f) of this section that rural primary care hospitals provide inpatient care only to those individuals whose attending physicians certify may reasonably be expected to be discharged within 72 hours after admission and maintain average length of inpatient stay during a year that does not exceed 72 hours, and extent to which such requirements have resulted in such hospitals providing inpatient care beyond their capabilities or have limited ability of such hospitals to provide needed services.
 
 #### Section Referred to in Other Sections
 

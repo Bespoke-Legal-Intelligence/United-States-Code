@@ -27,7 +27,7 @@
 | [3105\.](%C2%A7%2003105%20-%20Authority%20of%20Federal%20Reserve%20System.md) | Authority of Federal Reserve System. |
 | (a) | Bank reserves. |
 | (b) | Omitted. |
-| (c) | Examination of branches and agencies by Board. |
+| (c) | Foreign bank examinations and reporting. |
 | (d) | Establishment of foreign bank offices in United States. |
 | (e) | Termination of foreign bank offices in United States. |
 | (f) | Judicial review. |

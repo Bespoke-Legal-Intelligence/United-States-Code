@@ -10,7 +10,9 @@ Unless the Secretary of Transportation is satisfied that an airport is not impos
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

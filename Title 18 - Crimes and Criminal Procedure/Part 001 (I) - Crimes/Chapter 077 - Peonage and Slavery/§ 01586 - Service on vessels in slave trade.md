@@ -18,3 +18,7 @@ Mandatory-punishment provisions were rephrased in the alternative.
 
 Slavery abolished, see Const. Amend. 13.
 
+#### Section Referred to in Other Sections
+
+This section is referred to in section 1961 of this title.
+

@@ -32,7 +32,7 @@ Each recipient shall certify to the Secretary that—
 
 &emsp;&emsp;(B) other Federal, State, local, and private assistance available for such individuals;
 
-&emsp;(4) in the case of a recipient that is a State, it will obtain any matching amounts required under subsection (a) of this section in a manner so that local governments, Indian tribes, agencies, and local nonprofit organizations receiving assistance from the grant that are least capable of providing the recipient Statewith such matching amounts receive the benefit of the $100,000 subtrahend under subsection (a)(2) of this section;
+&emsp;(4) in the case of a recipient that is a State, it will obtain any matching amounts required under subsection (a) of this section in a manner so that local governments, agencies, and local nonprofit organizations receiving assistance from the grant that are least capable of providing the recipient State with such matching amounts receive the benefit of the $100,000 subtrahend under subsection (a)(2) of this section;
 
 &emsp;(5) it will develop and implement procedures to ensure the confidentiality of records pertaining to any individual provided family violence prevention or treatment services under any project assisted under this part and that the address or location of any family violence shelter project assisted under this part will, except with written authorization of the person or persons responsible for the operation of such shelter, not be made public;
 
@@ -48,9 +48,11 @@ The Secretary shall, by regulation, require each recipient that is not a State t
 
 If an individual or family who receives assistance under this part from a recipient violates program requirements, the recipient may terminate assistance in accordance with a formal process established by the recipient that recognizes the rights of individuals affected, which may include a hearing.
 
-(Pub. L. 100–77, title IV, §415, July 22, 1987, 101 Stat. 497; Pub. L. 100–628, title IV, §424, Nov. 7, 1988, 102 Stat. 3232; Pub. L. 101–625, title VIII, §832(e)(1), (2), (h), Nov. 28, 1990, 104 Stat. 4360, 4362; Pub. L. 102–550, title XIV, §1402(b)–(d), Oct. 28, 1992, 106 Stat. 4012, 4013.)
+(Pub. L. 100–77, title IV, §415, July 22, 1987, 101 Stat. 497; Pub. L. 100–628, title IV, §424, Nov. 7, 1988, 102 Stat. 3232; Pub. L. 101–625, title VIII, §832(e)(1), (2), (h), Nov. 28, 1990, 104 Stat. 4360, 4362; Pub. L. 102–550, title XIV, §1402(b)–(d), Oct. 28, 1992, 106 Stat. 4012, 4013; Pub. L. 104–330, title V, §506(a)(5), Oct. 26, 1996, 110 Stat. 4044.)
 
 #### Amendments
+
+1996—Subsec. (c)(4). Pub. L. 104–330 struck out “Indian tribes,” after “local governments,”.
 
 1992—Subsec. (c). Pub. L. 102–550, §1402(b), in par. (1), substituted a semicolon for period at end, in par. (3), struck out “and” at end, in par. (4), inserted “it will” after “State,” and struck out “and” at end, in par. (5), inserted “it will” before “develop” and substituted a semicolon for period at end, redesignated par. (4), relating to consistency of activities undertaken with assistance under this part, as (6) and substituted “; and” for period at end, and added par. (7).
 
@@ -71,4 +73,10 @@ Pub. L. 101–625, §832(e)(2)(C), added par. (4) relating to matching funds obt
 Subsec. (c)(5). Pub. L. 101–625, §832(e)(2)(C), added par. (5).
 
 1988—Subsec. (c)(1). Pub. L. 100–628 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “it will maintain any building for which assistance is used under this part as a shelter for homeless individuals for not less than a 3-year period or for not less than a 10-year period if such assistance is used for the major rehabilitation or conversion of such building;”.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–330 effective Oct. 1, 1997, except as otherwise expressly provided, see section 107 of Pub. L. 104–330, set out as an Effective Date note under section 4101 of Title 25, Indians.
+
+Amendment by Pub. L. 104–330 applicable with respect to amounts made available for assistance under this subchapter for fiscal year 1998 and fiscal years thereafter, see section 506(c) of Pub. L. 104–330, set out as a note under section 11371 of this title.
 

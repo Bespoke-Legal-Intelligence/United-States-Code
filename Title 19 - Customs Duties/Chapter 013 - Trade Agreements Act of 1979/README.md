@@ -24,7 +24,7 @@
 | (a) | Presidential waiver of discriminatory purchasing requirements. |
 | (b) | Designation of eligible countries and instrumentalities. |
 | (c) | Modification or withdrawal of waivers and designations. |
-| (d) | Limitations on waiver authority not effective unless provision amended. |
+| (d) | Omitted. |
 | (e) | Procurement procedures by certain Federal agencies. |
 | (f) | Small business and minority preferences. |
 | [2512\.](Subchapter%20001%20%28I%29%20-%20Government%20Procurement/%C2%A7%2002512%20-%20Authority%20to%20encourage%20reciprocal%20competitive%20procurement%20practices.md) | Authority to encourage reciprocal competitive procurement practices. |
@@ -43,14 +43,6 @@
 | (a) | Monitoring and enforcement structure recommendations. |
 | (b) | Rules of origin. |
 | (c) | Report to Congress on rules of origin. |
-| (d) | Annual report on foreign discrimination. |
-| (e) | Consultation. |
-| (f) | Procedures with respect to violations of Agreement. |
-| (g) | Procedures with respect to other discrimination. |
-| (h) | Limitations on imposing sanctions. |
-| (i) | Renegotiation to secure full and open competition. |
-| (j) | Federal Register notices of actions. |
-| (k) | General report on actions under this section. |
 | [2516\.](Subchapter%20001%20%28I%29%20-%20Government%20Procurement/%C2%A7%2002516%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93355%2C%20title%20VII%2C%20%C2%A77206%28c%29%2C%20Oct.%2013%2C%201994%2C%20108%20Stat.%203382%3B%20Pub.%20L.%20103%E2%80%93465%2C%20title%20III%2C%20%C2%A7342%28d%29%2C%20Dec.%208%2C%201994%E2%80%A6.md) | Repealed. |
 | [2517\.](Subchapter%20001%20%28I%29%20-%20Government%20Procurement/%C2%A7%2002517%20-%20Availability%20of%20information%20to%20Members%20of%20Congress%20designated%20as%20official%20advisers.md) | Availability of information to Members of Congress designated as official advisers. |
 | [2518\.](Subchapter%20001%20%28I%29%20-%20Government%20Procurement/%C2%A7%2002518%20-%20Definitions.md) | Definitions. |

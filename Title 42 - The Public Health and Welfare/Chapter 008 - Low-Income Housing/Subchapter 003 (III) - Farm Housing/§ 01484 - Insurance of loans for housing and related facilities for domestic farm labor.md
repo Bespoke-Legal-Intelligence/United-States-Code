@@ -76,7 +76,11 @@ Housing and related facilities constructed with loans under this section may be 
 
 &emsp;(2) the need for such housing in the area has diminished to the extent that the purpose of the loan, providing housing for domestic farm labor, can no longer be met.
 
-(July 15, 1949, ch. 338, title V, §514, as added June 30, 1961, Pub. L. 87–70, title VIII, §804(a), 75 Stat. 186; amended Sept. 2, 1964, Pub. L. 88–560, title V, §502, 78 Stat. 796; Aug. 1, 1968, Pub. L. 90–448, title X, §1004, 82 Stat. 553; Dec. 31, 1970, Pub. L. 91–609, title VIII, §801(a)–(c), 84 Stat. 1805, 1806; Oct. 12, 1977, Pub. L. 95–128, title V, §505, 91 Stat. 1140; Oct. 31, 1978, Pub. L. 95–557, title V, §§501(d), 504, 92 Stat. 2111, 2112; Dec. 21, 1979, Pub. L. 96–153, title V, §501(b), 93 Stat. 1133; Oct. 8, 1980, Pub. L. 96–399, title V, §507(b), 94 Stat. 1670; Nov. 30, 1983, Pub. L. 98–181, title V, §510, 97 Stat. 1243; Feb. 5, 1988, Pub. L. 100–242, title III, §§305(a), 316(b), 101 Stat. 1895, 1897; Nov. 7, 1988, Pub. L. 100–628, title X, §1043(a), 102 Stat. 3273.)
+#### (j) Equity skimming penalty
+
+Whoever, as an owner, agent, or manger,<sup>2</sup> or who is otherwise in custody, control, or possession of property that is security for a loan made or insured under this section willfully uses, or authorizes the use, of any part of the rents, assets, proceeds, income, or other funds derived from such property, for any purpose other than to meet actual or necessary expenses of the property, or for any other purpose not authorized by this subchapter or the regulations adopted pursuant to this subchapter, shall be fined not more than $250,000 or imprisoned not more than 5 years, or both.
+
+(July 15, 1949, ch. 338, title V, §514, as added June 30, 1961, Pub. L. 87–70, title VIII, §804(a), 75 Stat. 186; amended Sept. 2, 1964, Pub. L. 88–560, title V, §502, 78 Stat. 796; Aug. 1, 1968, Pub. L. 90–448, title X, §1004, 82 Stat. 553; Dec. 31, 1970, Pub. L. 91–609, title VIII, §801(a)–(c), 84 Stat. 1805, 1806; Oct. 12, 1977, Pub. L. 95–128, title V, §505, 91 Stat. 1140; Oct. 31, 1978, Pub. L. 95–557, title V, §§501(d), 504, 92 Stat. 2111, 2112; Dec. 21, 1979, Pub. L. 96–153, title V, §501(b), 93 Stat. 1133; Oct. 8, 1980, Pub. L. 96–399, title V, §507(b), 94 Stat. 1670; Nov. 30, 1983, Pub. L. 98–181, title V, §510, 97 Stat. 1243; Feb. 5, 1988, Pub. L. 100–242, title III, §§305(a), 316(b), 101 Stat. 1895, 1897; Nov. 7, 1988, Pub. L. 100–628, title X, §1043(a), 102 Stat. 3273; Aug. 6, 1996, Pub. L. 104–180, title VII, §734(e)(1), 110 Stat. 1603.)
 
 #### References in Text
 
@@ -87,6 +91,8 @@ Sections 1005a and 1005c(a), (b), and (c) of title 7, referred to in subsec. (b)
 Another section 801(b) of Pub. L. 91–609 amended section 1460(c)(1) of this title.
 
 #### Amendments
+
+1996—Subsec. (j). Pub. L. 104–180 added subsec. (j).
 
 1988—Subsec. (f)(1). Pub. L. 100–242, §316(b), struck out “and” at end.
 
@@ -122,7 +128,9 @@ Agricultural Credit Insurance Fund as designation for farm tenant insurance fund
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1472, 1479, 1480, 1483, 1486, 1487, 1490a, 1490j, 4851b, 8011 of this title.
+This section is referred to in sections 1472, 1479, 1480, 1483, 1486, 1487, 1490a, 1490j, 4851b, 8011 of this title; title 7 section 2204f.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be “manager,”.</i>
 

@@ -62,7 +62,7 @@ For purposes of this section—
 
 #### (2) Purchase
 
-&emsp;The term “purchase” has the meaning given such term by section 1043(b)(4).
+&emsp;The taxpayer shall be considered to have purchased any property if, but for subsection (d), the unadjusted basis of such property would be its cost within the meaning of section 1012.
 
 #### (3) Specialized small business investment company
 
@@ -76,11 +76,19 @@ For purposes of this section—
 
 If gain from any sale is not recognized by reason of subsection (a), such gain shall be applied to reduce (in the order acquired) the basis for determining gain or loss of any common stock or partnership interest in any specialized small business investment company which is purchased by the taxpayer during the 60-day period described in subsection (a). This subsection shall not apply for purposes of section 1202.
 
-(Added Pub. L. 103–66, title XIII, §13114(a), Aug. 10, 1993, 107 Stat. 430.)
+(Added Pub. L. 103–66, title XIII, §13114(a), Aug. 10, 1993, 107 Stat. 430; amended Pub. L. 104–188, title I, §1703(a), Aug. 20, 1996, 110 Stat. 1875.)
 
 #### References in Text
 
-Section 301(d) of the Small Business Investment Act of 1958, referred to in subsec. (c)(3), is classified to section 681(d) of Title 15, Commerce and Trade.
+Section 301(d) of the Small Business Investment Act of 1958, referred to in subsec. (c)(3), was classified to section 681(d) of Title 15, Commerce and Trade, prior to repeal by Pub. L. 104–208, div. D, title II, §208(b)(3)(A), Sept. 30, 1996, 110 Stat. 3009–742.
+
+#### Amendments
+
+1996—Subsec. (c)(2). Pub. L. 104–188 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The term ‘purchase’ has the meaning given such term by section 1043(b)(4).”
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–188 effective as if included in the provision of the Revenue Reconciliation Act of 1993, Pub. L. 103–66, §§13001–13444, to which such amendment relates, see section 1703(<i>o</i>) of Pub. L. 104–188, set out as a note under section 39 of this title.
 
 #### Effective Date
 

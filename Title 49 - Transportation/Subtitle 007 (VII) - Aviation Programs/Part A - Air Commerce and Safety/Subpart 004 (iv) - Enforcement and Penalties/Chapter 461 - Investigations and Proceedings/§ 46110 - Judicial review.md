@@ -24,7 +24,9 @@ Supreme Court Review.—A decision by a court under this section may be reviewed
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -38,7 +40,7 @@ Aug. 23, 1958, Pub. L. 85–726, §1006(a), (b), (e), (f) (as §1006(a), (b), (e
 
 &nbsp;
 
-49 App.:1551(b) (1)(E).
+49 App.:1551(b)(1)(E).
 
 Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1601(b)(1)(E); added Oct. 4, 1984, Pub. L. 98–443, §3(e), 98 Stat. 1704.
 
@@ -56,7 +58,7 @@ Aug. 23, 1958, Pub. L. 85–726, §1006(c) (related to Administrator and CAB), 7
 
 &nbsp;
 
-49 App.:1551(b) (1)(E).
+49 App.:1551(b)(1)(E).
 
 &nbsp;
 
@@ -74,7 +76,7 @@ Aug. 23, 1958, Pub. L. 85–726, §1006(d) (related to Administrator and CAB), 7
 
 &nbsp;
 
-49 App.:1551(b) (1)(E).
+49 App.:1551(b)(1)(E).
 
 &nbsp;
 
@@ -86,7 +88,7 @@ Aug. 23, 1958, Pub. L. 85–726, §1006(d) (related to Administrator and CAB), 7
 
 &nbsp;
 
-49 App.:1551(b) (1)(E).
+49 App.:1551(b)(1)(E).
 
 &nbsp;
 
@@ -98,7 +100,7 @@ Aug. 23, 1958, Pub. L. 85–726, §1006(d) (related to Administrator and CAB), 7
 
 &nbsp;
 
-49 App.:1551(b) (1)(E).
+49 App.:1551(b)(1)(E).
 
 &nbsp;
 

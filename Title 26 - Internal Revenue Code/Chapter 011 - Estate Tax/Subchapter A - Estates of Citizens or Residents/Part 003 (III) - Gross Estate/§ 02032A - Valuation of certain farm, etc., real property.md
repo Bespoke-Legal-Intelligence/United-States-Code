@@ -162,7 +162,7 @@
 
 &emsp;&emsp;(A) such property ceases to be used for the qualified use set forth in subparagraph (A) or (B) of subsection (b)(2) under which the property qualified under subsection (b), or
 
-&emsp;&emsp;(B) during any period of 8 years ending after the date of the decedent's death and before the date of the death of the qualified heir, there had been periods aggregating more than 3 years during which—
+&emsp;&emsp;(B) during any period of 8 years ending after the date of the decedent's death andbefore the date of the death of the qualified heir, there had been periods aggregating more than 3 years during which—
 
 &emsp;&emsp;&emsp;(i) in the case of periods during which the property was held by the decedent, there was no material participation by the decedent or any member of his family in the operation of the farm or other business, and
 
@@ -252,7 +252,7 @@ For purposes of this section—
 
 #### (3) Certain real property included
 
-&emsp;In the case of real property which meets the requirements of subparagraph (C) of subsection (b)(1), residential buildings and related improvements on such real property occupied on a regular basis by the owner or lessee of such real property or by persons employed by such owner or lessee for the purpose of operating or maintaining such real property, and roads, buildings, and other structures and improvements functionally related to the qualified use shall be treated as real property devoted to the qualified use.
+&emsp;In the case of real property which meets the requirements of subparagraph (C) of subsection (b)(1), residential buildings and related improvements on such real property occupied on a regular basis by the owner or lessee of such real property or by persons employed bysuch owner or lessee for the purpose of operating or maintaining such real property, and roads, buildings, and other structures and improvements functionally related to the qualified use shall be treated as real property devoted to the qualified use.
 
 #### (4) Farm
 
@@ -502,7 +502,7 @@ The Secretary shall prescribe regulations setting forth the application of this 
 
 &emsp;For purposes of this subsection, the term “qualified exchange property” means real property which is to be used for the qualified use set forth in subparagraph (A) or (B) of subsection (b)(2) under which the real property exchanged therefor originally qualified under subsection (a).
 
-(Added Pub. L. 94–455, title XX, §2003(a), Oct. 4, 1976, 90 Stat. 1856; amended Pub. L. 95–472, §4(a), (c), Oct. 17, 1978, 92 Stat. 1334, 1336; Pub. L. 95–600, title VII, §702(d)(1), (2), (4), (5), Nov. 6, 1978, 92 Stat. 2928, 2929; Pub. L. 97–34, title IV, §421(a)–(d)(2)(A), (e), (f), (h)–(j)(2)(A), (3), (4), Aug. 13, 1981, 95 Stat. 306–313; Pub. L. 97–448, title I, §104(b)(1), (2), Jan. 12, 1983, 96 Stat. 2381; Pub. L. 98–369, div. A, title X, §1025(a), July 18, 1984, 98 Stat. 1030; Pub. L. 99–514, title I, §104(b)(3), Oct. 22, 1986, 100 Stat. 2105; Pub. L. 100–647, title VI, §6151(a), Nov. 10, 1988, 102 Stat. 3724; Pub. L. 101–508, title XI, §11802(f)(5), Nov. 5, 1990, 104 Stat. 1388–530.)
+(Added Pub. L. 94–455, title XX, §2003(a), Oct. 4, 1976, 90 Stat. 1856; amended Pub. L. 95–472, §4(a), (c), Oct. 17, 1978, 92 Stat. 1334, 1336; Pub. L. 95–600, title VII, §702(d)(1), (2), (4), (5), Nov. 6, 1978, 92 Stat. 2928, 2929; Pub. L. 97–34, title IV,§421(a)–(d)(2)(A), (e), (f), (h)–(j)(2)(A), (3), (4), Aug. 13, 1981, 95 Stat. 306–313; Pub. L. 97–448, title I, §104(b)(1), (2), Jan. 12, 1983, 96 Stat. 2381; Pub. L. 98–369, div. A, title X, §1025(a), July 18, 1984, 98 Stat. 1030; Pub. L. 99–514, title I, §104(b)(3), Oct. 22, 1986, 100 Stat. 2105; Pub. L. 100–647, title VI, §6151(a), Nov. 10, 1988, 102 Stat. 3724; Pub. L. 101–508, title XI, §11802(f)(5), Nov. 5, 1990, 104 Stat. 1388–530.)
 
 #### References in Text
 
@@ -712,5 +712,5 @@ Land diverted from production of agricultural commodities under a 1983 payment-i
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 263A, 453, 453A, 469, 1014, 1016, 1040, 1223, 1396, 1397B, 2013, 2035, 2056A, 2624, 2663, 6324B of this title.
+This section is referred to in sections 263A, 453, 453A, 469, 529, 1014, 1016, 1040, 1223, 1396, 1397B, 2013, 2035, 2056A, 2624, 2663, 6324B of this title.
 

@@ -94,7 +94,7 @@
 
 #### (d) Applications and reports
 
-(1) All applications and reports submitted to the Secretary under this chapter, and anyamendments to such applications or reports, shall be filed with the agency or area education officer designated by the Director of the Office of Indian Education of the Bureau of Indian Affairs. The date on which such filing occurs shall, for purposes of this chapter, be treated as the date on which the application or amendment is submitted to the Secretary.
+(1) All applications and reports submitted to the Secretary under this chapter, and any amendments to such applications or reports, shall be filed with the agency or area education officer designated by the Director of the Office of Indian Education of the Bureau of Indian Affairs. The date on which such filing occurs shall, for purposes of this chapter, be treated as the date on which the application or amendment is submitted to the Secretary.
 
 (2) Any application that is submitted under this chapter shall be accompanied by a document indicating the action taken by the tribal governing body in authorizing such application.
 

@@ -1,4 +1,4 @@
-### §21 . Stolen or counterfeit nature of property for certain crimes defined
+### §21. Stolen or counterfeit nature of property for certain crimes defined
 
 (a) Wherever in this title it is an element of an offense that—
 

@@ -34,11 +34,9 @@
 
 &emsp;&emsp;(E) the Tennessee Valley Authority;
 
-&emsp;&emsp;(F) the Federal Labor Relations Authority;
+&emsp;&emsp;(F) the Federal Labor Relations Authority; or
 
-&emsp;&emsp;(G) the Federal Service Impasses Panel; or
-
-&emsp;&emsp;(H) the Central Imagery Office;
+&emsp;&emsp;(G) the Federal Service Impasses Panel.
 
 &emsp;(4) “labor organization” means an organization composed in whole or in part of employees, in which employees participate and pay dues, and which has as a purpose the dealing with an agency concerning grievances and conditions of employment, but does not include—
 
@@ -124,19 +122,25 @@
 
 (2) The President may issue an order suspending any provision of this chapter with respect to any agency, installation, or activity located outside the 50 States and the District of Columbia, if the President determines that the suspension is necessary in the interest of national security.
 
-(Added Pub. L. 95–454, title VII, §701, Oct. 13, 1978, 92 Stat. 1192; amended Pub. L. 96–465, title II, §2314(g), Oct. 17, 1980, 94 Stat. 2168; Pub. L. 102–54, §13(b)(1), June 13, 1991, 105 Stat. 274; Pub. L. 103–359, title V, §501(j), Oct. 14, 1994, 108 Stat. 3430.)
+(Added Pub. L. 95–454, title VII, §701, Oct. 13, 1978, 92 Stat. 1192; amended Pub. L. 96–465, title II, §2314(g), Oct. 17, 1980, 94 Stat. 2168; Pub. L. 102–54, §13(b)(1), June 13, 1991, 105 Stat. 274; Pub. L. 103–359, title V, §501(j), Oct. 14, 1994, 108 Stat. 3430; Pub. L. 104–201, div. A, title XVI, §1634(a), Sept. 23, 1996, 110 Stat. 2752.)
 
 #### Amendments
 
-<b>1994</b>—Subsec. (a)(3)(H). Pub. L. 103–359 added subpar. (H).
+1996—Subsec. (a)(3)(F) to (H). Pub. L. 104–201 inserted “or” at end of subpar. (F), substituted a period for “; or” at end of subpar. (G), and struck out subpar. (H) which read as follows: “the Central Imagery Office;”.
 
-<b>1991</b>—Subsec. (a)(3). Pub. L. 102–54 substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
+1994—Subsec. (a)(3)(H). Pub. L. 103–359 added subpar. (H).
 
-<b>1980</b>—Subsec. (a)(2)(iv). Pub. L. 96–465 struck out “the Agency for International Development, or” after “Department of State,” and inserted “the United States International Development Cooperation Agency, the Department of Agriculture, or the Department of Commerce” after “Communication Agency”.
+1991—Subsec. (a)(3). Pub. L. 102–54 substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
+
+1980—Subsec. (a)(2)(iv). Pub. L. 96–465 struck out “the Agency for International Development, or” after “Department of State,” and inserted “the United States International Development Cooperation Agency, the Department of Agriculture, or the Department of Commerce” after “Communication Agency”.
 
 #### Change of Name
 
 International Communication Agency, referred to in subsec. (a)(2)(B)(iv), redesignated United States Information Agency and Director or any other official of International Communication Agency redesignated as Director or other official, as appropriate, of United States Information Agency by section 303 of Pub. L. 97–241, title III, Aug. 24, 1982, 96 Stat. 291, set out as a note under section 1461 of Title 22, Foreign Relations and Intercourse.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–201 effective Oct. 1, 1996, see section 1635 of Pub. L. 104–201, set out as a note under section 1593 of Title 10, Armed Forces.
 
 #### Effective Date of 1980 Amendment
 
@@ -148,7 +152,7 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 #### Ex. Ord. No. 12171. Exclusions From Coverage of Program
 
-Ex. Ord. No. 12171, Nov. 19, 1979, 44 F.R. 66565, as amended by Ex. Ord. No. 12338, Jan. 11, 1982, 47 F.R. 1369; Ex. Ord. No. 12410, Mar. 28, 1983, 48 F.R. 13143; Ex. Ord. No. 12559, May 20, 1986, 51 F.R. 18761; Ex. Ord. No.12632, Mar. 23, 1988, 53 F.R. 9852; Ex. Ord. No. 12666, Jan. 12, 1989, 54 F.R. 1921; Ex. Ord. No. 12671, Mar. 14, 1989, 54 F.R. 11157; Ex. Ord. No. 12681, July 6, 1989, 54 F.R. 28997; Ex. Ord. No. 12693, Sept. 29, 1989, 54 F.R. 40629, provided:
+Ex. Ord. No. 12171, Nov. 19, 1979, 44 F.R. 66565, as amended by Ex. Ord. No. 12338, Jan. 11, 1982, 47 F.R. 1369; Ex. Ord. No. 12410, Mar. 28, 1983, 48 F.R. 13143; Ex. Ord. No. 12559, May 20, 1986, 51 F.R. 18761; Ex. Ord. No. 12632, Mar. 23, 1988, 53 F.R. 9852; Ex. Ord. No. 12666, Jan. 12, 1989, 54 F.R. 1921; Ex. Ord. No. 12671, Mar. 14, 1989, 54 F.R. 11157; Ex. Ord. No. 12681, July 6, 1989, 54 F.R. 28997; Ex. Ord. No. 12693, Sept. 29, 1989, 54 F.R. 40629, provided:
 
 By the authority vested in me as President by the Constitution and statutes of the United States of America, including Section 7103(b) of Title 5 of the United States Code, and in order to exempt certain agencies or subdivisions thereof from coverage of the Federal Labor-Management Relations Program, it is hereby ordered as follows:
 
@@ -398,7 +402,7 @@ Ex. Ord. No. 12391, Nov. 4, 1982, 47 F.R. 50457, provided:
 
 By the authority vested in me as President by the Constitution and statutes of the United States of America, including Section 7103(b)(2) of Title 5 and Section 301 of Title 3 of the United States Code, and having determined that it is necessary in the interest of national security to suspend certain labor-management relations provisions with respect to overseas activities of the Department of Defense, it is hereby ordered as follows:
 
-Section 1. <i>Suspensions.</i> With regard to United States citizen employees of the Department of Defense, including the Military Departments, who are employed outside the United States as defined in 5 U.S.C. 7103(a)(18), with the exception of those employed in the Republic of Panama:
+Section 1. <i>Suspensions</i>. With regard to United States citizen employees of the Department of Defense, including the Military Departments, who are employed outside the United States as defined in 5 U.S.C. 7103(a)(18), with the exception of those employed in the Republic of Panama:
 
 (a) The provisions of 5 U.S.C. 7105(a)(2)(D), (E), (G), and (H) and of 5 U.S.C. 7123(b) are suspended with respect to any matter which substantially impairs the implementation by the United States Forces of any treaty or agreement, including any minutes or understandings thereto, between the United States and the Government of the host nation;
 
@@ -408,7 +412,7 @@ Section 1. <i>Suspensions.</i> With regard to United States citizen employees of
 
 (d) The provisions of 5 U.S.C. 7121(b)(3)(C) are suspended with respect to any grievance involving the implementation by the United States Forces of any treaty or agreement, including any minutes or understandings thereto, between the United States and the Government of the host nation.
 
-Sec. 2. <i>Disputes.</i> Disputes between a labor organization and the United States Forces as to whether a particular matter is covered by one or more of the suspensions set forth in this Order shall be referred to the Secretary of Defense. The decision of the Secretary in such disputes shall be made after consultation with the Secretary of State and shall be final. The Secretary of Defense may delegate this authority, but only to the Deputy Secretary of Defense, an Under Secretary of Defense, or an Assistant Secretary of Defense. The functions assigned to the Secretary of State may not be delegated or assigned to anyone below the rank of an Assistant Secretary of State.
+Sec. 2. <i>Disputes</i>. Disputes between a labor organization and the United States Forces as to whether a particular matter is covered by one or more of the suspensions set forth in this Order shall be referred to the Secretary of Defense. The decision of the Secretary in such disputes shall be made after consultation with the Secretary of State and shall be final. The Secretary of Defense may delegate this authority, but only to the Deputy Secretary of Defense, an Under Secretary of Defense, or an Assistant Secretary of Defense. The functions assigned to the Secretary of State may not be delegated or assigned to anyone below the rank of an Assistant Secretary of State.
 
 Ronald Reagan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -420,7 +424,7 @@ By virtue of the authority vested in me as President by the Constitution and law
 
 Section 1. <i>Determinations</i>. The agencies or subdivisions thereof set forth in Section 3 of this Order are hereby determined to have as a primary function intelligence, counterintelligence, investigative, or national security work. It is also hereby determined that Chapter 71 of Title 5 of the United States Code cannot be applied to these agencies or subdivisions in a manner consistent with national security requirements and considerations. These agencies or subdivisions thereof are hereby excluded from coverage under Chapter 71 of Title 5 of the United States Code.
 
-Sec. 2. <i>Relationship to Executive Order No. 12559</i>. The determinations set forth in Section 1 of this Order are the same determinations that I made at the time of andas a predicate to my issuance on May 20, 1986, of Executive Order No. 12559 \[amending Ex. Ord. No. 12171, set out as a note above\], which was issued for the same purpose as this Order. On July 10, 1987, Executive Order No. 12559 was held by a United States District Court to be incomplete as a matter of form, and therefore invalid, because it did not expressly set forth these determinations. <i>AFGE v. Reagan</i>, Civil No. 86–1587 (D.D.C.). These determinations were not expressly set forth in the text of Executive Order No. 12559 because all that Order did was amend Executive Order No. 12171 \[set out as a note above\] by adding the agencies or subdivisions referred to in Section 1 of this Order to the list in Executive Order No. 12171 of entities excluded from coverage of the Federal Labor-Management Relations Program, and these determinations were already expressly set forth in the text of Executive Order No. 12171, which remains in effect (as amended). This Order is not intended to reflect any belief that the form of Executive Order No. 12559 was invalid, but is intended solely to accomplish the purpose of that Order.
+Sec. 2. <i>Relationship to Executive Order No. 12559</i>. The determinations set forth in Section 1 of this Order are the same determinations that I made at the time of and as a predicate to my issuance on May 20, 1986, of Executive Order No. 12559 \[amending Ex. Ord. No. 12171, set out as a note above\], which was issued for the same purpose as this Order. On July 10, 1987, Executive Order No. 12559 was held by a United States District Court to be incomplete as a matter of form, and therefore invalid, because it did not expressly set forth these determinations. <i>AFGE v. Reagan</i>, Civil No. 86–1587 (D.D.C.). These determinations were not expressly set forth in the text of Executive Order No. 12559 because all that Order did was amend Executive Order No. 12171 \[set out as a note above\] by adding the agencies or subdivisions referred to in Section 1 of this Order to the list in Executive Order No. 12171 of entities excluded from coverage of the Federal Labor-Management Relations Program, and these determinations were already expressly set forth in the text of Executive Order No. 12171, which remains in effect (as amended). This Order is not intended to reflect any belief that the form of Executive Order No. 12559 was invalid, but is intended solely to accomplish the purpose of that Order.
 
 Sec. 3. <i>Amendment of Executive Order No. 12171</i>. Executive Order No. 12171 is amended by deleting Section 1–209 and inserting in its place:
 
@@ -432,5 +436,5 @@ Ronald Reagan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 4703, 5596, 6121, 7323, 8473 of this title; title 2 section 1351; title 7 section 7011; title 22 section 3701; title 38 section 711.
+This section is referred to in sections 4703, 5596, 6121, 7323, 8473 of this title; title 2 section 1351; title 7 section 7011; title 10 section 1614; title 22 section 3701; title 38 section 711.
 

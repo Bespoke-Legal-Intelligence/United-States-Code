@@ -2,7 +2,7 @@
 
 #### (a) Establishment of State controls; cost principles; procurement standards; monitoring; noncompliance; certification to Secretary; corrective action; report to Congress
 
-(1) Each State shall establish such fiscal control and fund accounting procedures as may be necessary to assure the proper disbursal of, and accounting for, Federal funds paid to the recipient under subchapters II and III of this chapter.Such procedures shall ensure that all financial transactions are conducted and records maintained in accordance with generally accepted accounting principles applicable in each State.
+(1) Each State shall establish such fiscal control and fund accounting procedures as may be necessary to assure the proper disbursal of, and accounting for, Federal funds paid to the recipient under subchapters II and III of this chapter. Such procedures shall ensure that all financial transactions are conducted and records maintained in accordance with generally accepted accounting principles applicable in each State.
 
 (2) The Secretary shall prescribe regulations establishing uniform cost principles substantially equivalent to such principles generally applicable to recipients of Federal grants funds. At a minimum, such standards shall provide that, to be allowable, costs must—
 
@@ -124,7 +124,7 @@ In emergency situations, if the Secretary determines it is necessary to protect 
 
 #### (g) Secretary's action against harassment of complainants
 
-If the Secretary determines that any recipient under this chapter has discharged or in any other manner discriminated against a participant or against any individual in connection with the administration of the program involved, or against any individual because such individual has filed any complaint or instituted or caused to be instituted any proceeding under or related to this chapter, or has testified or is about to testify in any such proceeding or investigation under or related to this chapter, or otherwise unlawfully denied to any individual a benefit to which that individual is entitled under the provisions of this chapter or the Secretary's regulations, the Secretary shall, within thirty days, take such action or order such corrective measures, as necessary, with respect to the recipient or the aggrieved individual, or both.
+If the Secretary determines that any recipient under this chapter has discharged or in anyother manner discriminated against a participant or against any individual in connection with the administration of the program involved, or against any individual because such individual has filed any complaint or instituted or caused to be instituted any proceeding under or related to this chapter, or has testified or is about to testify in any such proceeding or investigation under or related to this chapter, or otherwise unlawfully denied to any individual a benefit to which that individual is entitled under the provisions of this chapter or the Secretary's regulations, the Secretary shall, within thirty days, take such action or order such corrective measures, as necessary, with respect to the recipient or the aggrieved individual, or both.
 
 #### (h) Remedies not exclusive
 

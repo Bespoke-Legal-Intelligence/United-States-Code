@@ -1,6 +1,6 @@
 ### §§386 to 386f. Repealed. Aug. 11, 1955, ch. 790, §2, 69 Stat. 674
 
-Sections 386 to 386b, act May 16, 1928, ch. 575, §§1–3, 45 Stat. 571, 572, provided for establishment of an experiment station in Hawaii, authorized appropriations andan increase in permanent annual appropriations. See sections 361a and 361c of this title.
+Sections 386 to 386b, act May 16, 1928, ch. 575, §§1–3, 45 Stat. 571, 572, provided for establishment of an experiment station in Hawaii, authorized appropriations and an increase in permanent annual appropriations. See sections 361a and 361c of this title.
 
 Section 386c, act Feb. 23, 1929, ch. 299, 45 Stat. 1256, extended provisions of agricultural experiment station program to Alaska. See section 361a of this title.
 

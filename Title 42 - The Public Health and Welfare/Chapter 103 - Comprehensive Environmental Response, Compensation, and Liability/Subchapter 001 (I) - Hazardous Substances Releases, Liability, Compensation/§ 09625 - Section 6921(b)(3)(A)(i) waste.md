@@ -2,7 +2,7 @@
 
 #### (a) Revision of hazard ranking system
 
-This section shall apply only to facilities which are not included or proposed for inclusionon the National Priorities List and which contain substantial volumes of waste described in section 6921(b)(3)(A)(i) of this title. As expeditiously as practicable, the President shall revise the hazard ranking system in effect under the National Contingency Plan with respect to such facilities in a manner which assures appropriate consideration of each of the following site-specific characteristics of such facilities:
+This section shall apply only to facilities which are not included or proposed for inclusion on the National Priorities List and which contain substantial volumes of waste described in section 6921(b)(3)(A)(i) of this title. As expeditiously as practicable, the President shall revise the hazard ranking system in effect under the National Contingency Plan with respect to such facilities in a manner which assures appropriate consideration of each of the following site-specific characteristics of such facilities:
 
 &emsp;(1) The quantity, toxicity, and concentrations of hazardous constituents which are present in such waste and a comparison thereof with other wastes.
 

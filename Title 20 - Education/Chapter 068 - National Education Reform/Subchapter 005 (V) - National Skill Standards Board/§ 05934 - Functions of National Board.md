@@ -102,7 +102,7 @@ In order to support the activities described in subsections (b) and (d) of this 
 
 &emsp;&emsp;(iv) A system to evaluate the implementation of the skill standards, and assessment and certification systems developed pursuant to this paragraph, and the effectiveness of the information disseminated pursuant to subparagraph (C) for informing the users of such standards and systems of the requirements of relevant civil rights laws.
 
-&emsp;&emsp;(v) A system to periodically revise and update the skill standards, and assessment and certification systems developed pursuant to this paragraph, which will take into account changes in standards in other countries.
+&emsp;&emsp;(v) A system to periodically revise and update the skill standards, and assessment andcertification systems developed pursuant to this paragraph, which will take into account changes in standards in other countries.
 
 #### (2) Endorsement
 
@@ -122,11 +122,7 @@ In order to support the activities described in subsections (b) and (d) of this 
 
 &emsp;The endorsement or absence of an endorsement by the National Board of a skill standard, or assessment and certification system, under subsection (d) of this section shall not be used in any action or proceeding to establish that the use of a skill standard or assessment and certification system conforms or does not conform to the requirements of civil rights laws.
 
-#### (f) Coordination
-
-The National Board shall establish cooperative arrangements with the National Education Standards and Improvement Council to promote the coordination of the development of skill standards under this section with the development of voluntary national content standards and voluntary national student performance standards in accordance with section 5843 of this title.
-
-#### (g) Financial assistance
+#### (f) Financial assistance
 
 #### (1) In general
 
@@ -160,7 +156,7 @@ The National Board shall establish cooperative arrangements with the National Ed
 
 &emsp;&emsp;For purposes of this paragraph, the term “costs of administration” means costs relating to staff, supplies, equipment, space, and travel and per diem, costs of conducting meetings and conferences, and other related costs.
 
-(Pub. L. 103–227, title V, §504, Mar. 31, 1994, 108 Stat. 195.)
+(Pub. L. 103–227, title V, §504, Mar. 31, 1994, 108 Stat. 195; Pub. L. 104–134, title I, §101(d) \[title VII, §703(a)(18)\], Apr. 26, 1996, 110 Stat. 1321–211, 1321–254; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.)
 
 #### References in Text
 
@@ -169,6 +165,10 @@ Act of August 16, 1937, known as the National Apprenticeship Act, referred to in
 Subchapter II of this chapter, referred to in subsec. (d)(1)(B)(i)(III), was in the original “title II”, meaning title II of Pub. L. 103–227, Mar. 31, 1994, 108 Stat. 133, which enacted subchapter II of this chapter and section 3425 of this title, amended section 5093 of this title and section 5315 of Title 5, Government Organization and Employees, and enacted provisions set out as a note under section 5093 of this title.
 
 Federal civil rights laws, referred to in subsec. (d)(1)(B)(i)(VII), (ii)(III), are classified generally to chapter 21 (§1981 et seq.) of Title 42, The Public Health and Welfare.
+
+#### Amendments
+
+1996—Subsecs. (f), (g). Pub. L. 104–134 redesignated subsec. (g) as (f) and struck out heading and text of former subsec. (f). Text read as follows: “The National Board shall establish cooperative arrangements with the National Education Standards and Improvement Council to promote the coordination of the development of skill standards under this section with the development of voluntary national content standards and voluntary national student performance standards in accordance with section 5843 of this title.”
 
 #### Section Referred to in Other Sections
 

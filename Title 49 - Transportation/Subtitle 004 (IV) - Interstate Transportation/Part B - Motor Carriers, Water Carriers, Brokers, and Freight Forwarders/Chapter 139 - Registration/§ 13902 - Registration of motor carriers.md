@@ -50,7 +50,7 @@ Charter transportation.—The Secretary shall register under subsection (a)(1) a
 
 &emsp;&emsp;(B)
 
-Regular-route transportation.—The Secretary shall register under subsection (a)(1) a public recipient of governmental assistance to provide regular-route transportation subject to jurisdiction under subchapter I of chapter 135 as a motor carrier of passengers if the Secretary finds that the recipient meets the requirements of subsection (a)(1), unless the Secretary finds, on the basis of evidence presented by any personobjecting to the registration, that the transportation to be provided pursuant to the registration is not in the public interest.
+Regular-route transportation.—The Secretary shall register under subsection (a)(1) a public recipient of governmental assistance to provide regular-route transportation subject to jurisdiction under subchapter I of chapter 135 as a motor carrier of passengers if the Secretary finds that the recipient meets the requirements of subsection (a)(1), unless the Secretary finds, on the basis of evidence presented by any person objecting to the registration, that the transportation to be provided pursuant to the registration is not in the public interest.
 
 &emsp;&emsp;(C)
 
@@ -90,15 +90,15 @@ Public recipient of governmental assistance.—The term “public recipient of g
 
 &emsp;&emsp;&emsp;(iii) any public agency or instrumentality of one or more States and municipalities and political subdivisions of a State,
 
-&emsp;&emsp;&emsp;(iv) any Indian tribe,
+&emsp;&emsp;&emsp;(iv) any Indian tribe, and
 
-&emsp;&emsp;&emsp;(v) any corporation, board, or other person owned or controlled by any entity described in clause (i), (ii), (iii), or (iv), and
+&emsp;&emsp;&emsp;(v) any corporation, board, or other person owned or controlled by any entity described in clause (i), (ii), (iii), or (iv),
 
-> &emsp;&emsp;which before, on, or after the effective date of this subsection received governmental assistance for the purchase or operation of any bus.
+> &emsp;&emsp;which before, on, or after January 1, 1996, received governmental assistance for the purchase or operation of any bus.
 
 &emsp;&emsp;(B)
 
-Private recipient of government assistance.—The term “private recipient of government assistance” means any person (other than a person described in subparagraph (A)) who before, on, or after the effective date of this paragraph received governmental financial assistance in the form of a subsidy for the purchase, lease, or operation of any bus.
+Private recipient of government assistance.—The term “private recipient of government assistance” means any person (other than a person described in subparagraph (A)) who before, on, or after January 1, 1996, received governmental financial assistance in the form of a subsidy for the purchase, lease, or operation of any bus.
 
 (c)
 
@@ -124,7 +124,7 @@ Removal or modification.—The President, or the delegate thereof, may remove or
 
 Protection of existing operations.—Unless and until the President, or the delegate thereof, makes a determination under paragraph (1) or (3), nothing in this subsection shall affect—
 
-&emsp;&emsp;(A) operations of motor carriers of property or passengers domiciled in any contiguous foreign country or owned or controlled by persons of any contiguous foreign country permitted in the commercial zones along the United States-Mexico border as such zones were defined on the day before the effective date of this section; or
+&emsp;&emsp;(A) operations of motor carriers of property or passengers domiciled in any contiguous foreign country or owned or controlled by persons of any contiguous foreign country permitted in the commercial zones along the United States-Mexico border as such zones were defined on December 31, 1995; or
 
 &emsp;&emsp;(B) any existing restrictions on operations of motor carriers of property or passengers domiciled in any contiguous foreign country or owned or controlled by persons of any contiguous foreign country or any modifications thereof pursuant to section 6 of the Bus Regulatory Reform Act of 1982.
 
@@ -152,33 +152,53 @@ Transition Rule.—
 
 In general.—Pending the implementation of the rulemaking required by section 13908, the Secretary may register a person under this section—
 
-&emsp;&emsp;(A) as a motor common carrier if such person would have been issued a certificate to provide transportation as a motor common carrier under this subtitle on the day before the effective date of this section; and
+&emsp;&emsp;(A) as a motor common carrier if such person would have been issued a certificate to provide transportation as a motor common carrier under this subtitle on December 31, 1995; and
 
 &emsp;&emsp;(B) as a motor contract carrier if such person would have been issued a permit to provide transportation as a motor contract carrier under this subtitle on such day.
 
 &emsp;(2)
 
-Definitions.—In this subsection, the terms “motor common carrier” and “motor contract carrier” have the meaning such terms had under section 10102 as such section was in effect on the day before the effective date of this section.
+Definitions.—In this subsection, the terms “motor common carrier” and “motor contract carrier” have the meaning such terms had under section 10102 as such section was in effect on December 31, 1995.
 
 (e)
 
 Motor Carrier Defined.—In this section and sections 13905 and 13906, the term “motor carrier” includes foreign motor private carriers.
 
-(Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 880.)
+(Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 880; amended Pub. L. 104–287, §5(32), Oct. 11, 1996, 110 Stat. 3391.)
+
+#### Historical and Revision Notes
+
+I74Pub. L. 104–287, §5(32)(A)
+
+This amends 49:13902(b)(8)(A) to correct a grammatical error and to set out the effective date of 49:13902(b).
+
+#### Pub. L. 104–287, §5(32)(B)
+
+This sets out the effective date of 49:13902(b)(8).
+
+#### Pub. L. 104–287, §5(32)(C)
+
+This amends 49:13902(c)(4)(A) and (d)(1) and (2) for clarity and consistency.
 
 #### References in Text
-
-For the effective date of this subsection, the effective date of this paragraph, and the effective date of this section, referred to in subsecs. (b)(8), (c)(4)(A), and (d), as Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 701 of this title.
 
 Section 6 of the Bus Regulatory Reform Act of 1982, referred to in subsec. (c)(4)(B), is section 6 of Pub. L. 97–261, Sept. 20, 1982, 96 Stat. 1103, which amended former sections 10102, 10322, 10521, 10922, and 11711 of this title, section 250 of Title 26, Internal Revenue Code, and section 5201 of Title 39, Postal Service.
 
 Section 4481 of the Internal Revenue Code of 1986, referred to in subsec. (c)(8), is classified to section 4481 of Title 26, Internal Revenue Code.
 
-Section 10102 as such section was in effect on the day before the effective date of this section, referred to in subsec. (d)(2), means section 10102 of this title as in effect on the day before Jan. 1, 1996. Section 10102 was omitted and a new section 10102 enacted in the general amendment of this subtitle by Pub. L. 104–88, title I, §102(a), Dec. 29, 1995, 109 Stat. 804, 806, effective Jan. 1, 1996.
+Section 10102, referred to in subsec. (d)(2), was omitted and a new section 10102 enacted in the general amendment of this subtitle by Pub. L. 104–88, title I, §102(a), Dec. 29, 1995, 109 Stat. 804, 806, effective Jan. 1, 1996.
 
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in section 10922 of this title prior to the general amendment of this subtitle by Pub. L. 104–88, §102(a).
+
+#### Amendments
+
+1996—Subsec. (b)(8)(A). Pub. L. 104–287, §5(32)(A), inserted “and” after “any Indian tribe,” in cl. (iv), struck out “and” after “clause (i), (ii), (iii), or (iv),” in cl. (v), and substituted “January 1, 1996,” for “the effective date of this subsection” in concluding provisions.
+
+Subsec. (b)(8)(B). Pub. L. 104–287, §5(32)(B), substituted “January 1, 1996,” for “the effective date of this paragraph”.
+
+Subsecs. (c)(4)(A), (d)(1)(A), (2). Pub. L. 104–287, §5(32)(C), substituted “December 31, 1995” for “the day before the effective date of this section”.
 
 #### Limited Modification to Moratorium on Issuance of Certificates or Permits With Respect to Mexico
 

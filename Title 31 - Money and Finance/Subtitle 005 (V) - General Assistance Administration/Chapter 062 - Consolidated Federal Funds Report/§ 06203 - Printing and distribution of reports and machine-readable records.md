@@ -18,7 +18,7 @@
 
 &emsp;(C) the Committees on Governmental Affairs, the Budget, and Appropriations of the Senate.
 
-(3) The Director shall also transmit promptly after the end of each calendar year, free of charge, one machine-readable record of the report required by section 6202 to the Committee on Rules and Administration of the Senate and to the Committee on House Administration of the House of Representatives.
+(3) The Director shall also transmit promptly after the end of each calendar year, free of charge, one machine-readable record of the report required by section 6202 to the Committee on Rules and Administration of the Senate and to the Committee on House Oversight of the House of Representatives.
 
 (4) Subject to subsection (b), the Director may, at his discretion, waive all or part of the fee required by subsection (a)(1)(B) of this section.
 
@@ -28,11 +28,15 @@
 
 &emsp;(2) the number of printed copies and the number of machine-readable records of the report that will be purchased.
 
-(Added Pub. L. 99–547, §2(a), Oct. 27, 1986, 100 Stat. 3058.)
+(Added Pub. L. 99–547, §2(a), Oct. 27, 1986, 100 Stat. 3058; amended Pub. L. 104–186, title II, §219(b)(3), Aug. 20, 1996, 110 Stat. 1748.)
+
+#### Amendments
+
+1996—Subsec. (a)(3). Pub. L. 104–186 substituted “House Oversight” for “House Administration”.
 
 #### Change of Name
 
-Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives and Committee on House Administration of House of Representatives treated as referring to Committee on House Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Section Referred to in Other Sections
 

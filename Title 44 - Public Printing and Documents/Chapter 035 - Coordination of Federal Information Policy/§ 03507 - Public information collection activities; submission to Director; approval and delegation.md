@@ -36,7 +36,7 @@
 
 (c)(1) For any proposed collection of information not contained in a proposed rule, the Director shall notify the agency involved of the decision to approve or disapprove the proposed collection of information.
 
-(2) The Director shall provide the notification under paragraph (1), within 60 days after receiptor publication of the notice under subsection (a)(1)(D), whichever is later.
+(2) The Director shall provide the notification under paragraph (1), within 60 days after receipt or publication of the notice under subsection (a)(1)(D), whichever is later.
 
 (3) If the Director does not notify the agency of a denial or approval within the 60-day period described under paragraph (2)—
 
@@ -104,11 +104,11 @@
 
 &emsp;(B) after having made a reasonable effort to seek public comment, but no later than 60 days before the expiration date of the control number assigned by the Director for the currently approved collection of information, submit the collection of information for review and approval under this section, which shall include an explanation of how the agency has used the information that it has collected.
 
-(2) If under the provisions of this section, the Director disapproves a collection of informationcontained in an existing rule, or recommends or instructs the agency to make a substantive or material change to a collection of information contained in an existing rule, the Director shall—
+(2) If under the provisions of this section, the Director disapproves a collection of information contained in an existing rule, or recommends or instructs the agency to make a substantive or material change to a collection of information contained in an existing rule, the Director shall—
 
 &emsp;(A) publish an explanation thereof in the Federal Register; and
 
-&emsp;(B) instruct the agency to undertake a rulemaking within a reasonable time limited to consideration of changes to the collection of information contained in the rule and thereafter to submit the collection of information for approval or disapproval under this chapter.
+&emsp;(B) instruct the agency to undertake a rulemaking within a reasonable time limited toconsideration of changes to the collection of information contained in the rule and thereafter to submit the collection of information for approval or disapproval under this chapter.
 
 (3) An agency may not make a substantive or material modification to a collection of information after such collection has been approved by the Director, unless the modification has been submitted to the Director for review and approval under this chapter.
 
@@ -132,15 +132,23 @@
 
 &emsp;&emsp;(iii) the use of normal clearance procedures is reasonably likely to prevent or disrupt the collection of information or is reasonably likely to cause a statutory or court ordered deadline to be missed.
 
-(2) The Director shall approve or disapprove any such authorization request within the time requested by the agency head and, if approved, shall assign the collection of information a control number. Any collection of information conducted under this subsection may be conducted without compliance with the provisions of this chapter for a maximum of 90 days after the date on which the Director received the request to authorize such collection.
+(2) The Director shall approve or disapprove any such authorization request within the time requested by the agency head and, if approved, shall assign the collection of information a control number. Any collection of information conducted under this subsection may be conducted without compliance with the provisions of this chapter for a maximum of 180 days after the date on which the Director received the request to authorize such collection.
 
-(Added Pub. L. 104–13, §2, May 22, 1995, 109 Stat. 176.)
+(Added Pub. L. 104–13, §2, May 22, 1995, 109 Stat. 176; amended Pub. L. 104–106, div. E, title LVI, §5605(d), Feb. 10, 1996, 110 Stat. 700.)
 
 #### Prior Provisions
 
 A prior section 3507, added Pub. L. 96–511, §2(a), Dec. 11, 1980, 94 Stat. 2819; amended Pub. L. 99–500, §101(m) \[title VIII, §817\], Oct. 18, 1986, 100 Stat. 1783–308, 1783–338, and Pub. L. 99–591, §101(m) \[title VIII, §817\], Oct. 30, 1986, 100 Stat. 3341–308, 3341–338, related to submission to Director of public information collection request for an approval or delegation to a senior official of an agency prior to the general amendment of this chapter by Pub. L. 104–13.
 
 Another prior section 3507, Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1304, provided for cooperation of agencies in making information available, prior to the general amendment of this chapter by Pub. L. 96–511. See section 3510(a) of this title.
+
+#### Amendments
+
+1996—Subsec. (j)(2). Pub. L. 104–106 substituted “180 days” for “90 days”.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–106 effective 180 days after Feb. 10, 1996, see section 5701 of Pub. L. 104–106, set out as an Effective Date note under section 1401 of Title 40, Public Buildings, Property, and Works.
 
 #### Section Referred to in Other Sections
 

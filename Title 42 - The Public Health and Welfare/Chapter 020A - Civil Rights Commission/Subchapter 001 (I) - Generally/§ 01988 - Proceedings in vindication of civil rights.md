@@ -6,13 +6,13 @@ The jurisdiction in civil and criminal matters conferred on the district courts 
 
 #### (b) Attorney's fees
 
-In any action or proceeding to enforce a provision of sections 1981, 1981a, 1982, 1983, 1985, and 1986 of this title, title IX of Public Law 92–318 \[20 U.S.C. 1681 et seq.\], the Religious Freedom Restoration Act of 1993 \[42 U.S.C. 2000bb et seq.\], title VI of the Civil Rights Act of 1964 \[42 U.S.C. 2000d et seq.\], or section 13981 of this title,,<sup>1</sup> the court, in its discretion, may allow the prevailing party, other than the United States, a reasonable attorney's fee as part of the costs.
+In any action or proceeding to enforce a provision of sections 1981, 1981a, 1982, 1983, 1985, and 1986 of this title, title IX of Public Law 92–318 \[20 U.S.C. 1681 et seq.\], the Religious Freedom Restoration Act of 1993 \[42 U.S.C. 2000bb et seq.\], title VI of the Civil Rights Act of 1964 \[42 U.S.C. 2000d et seq.\], or section 13981 of this title,,<sup>1</sup> the court, in its discretion, may allow the prevailing party, other than the United States, a reasonable attorney's fee as part of the costs, except that in any action brought against a judicial officer for an act or omission taken in such officer's judicial capacity such officer shall not be held liable for any costs, including attorney's fees, unless such action was clearly in excess of such officer's jurisdiction.
 
 #### (c) Expert fees
 
-In awarding an attorney's fee under subsection (b) of this section in any action or proceeding to enforce a provision of section 1981 or 1981a of this title, the court, in its discretion, may include expert fees as part of the attorney's fee.
+In awarding an attorney's fee under subsection (b) of this section in any action or proceeding toenforce a provision of section 1981 or 1981a of this title, the court, in its discretion, may include expert fees as part of the attorney's fee.
 
-(R.S. §722; Pub. L. 94–559, §2, Oct. 19, 1976, 90 Stat. 2641; Pub. L. 96–481, title II, §205(c), Oct. 21, 1980, 94 Stat. 2330; Pub. L. 102–166, title I, §§103, 113(a), Nov. 21, 1991, 105 Stat. 1074, 1079; Pub. L. 103–141, §4(a), Nov. 16, 1993, 107 Stat. 1489; Pub. L. 103–322, title IV, §40303, Sept. 13, 1994, 108 Stat. 1942.)
+(R.S. §722; Pub. L. 94–559, §2, Oct. 19, 1976, 90 Stat. 2641; Pub. L. 96–481, title II, §205(c), Oct. 21, 1980, 94 Stat. 2330; Pub. L. 102–166, title I, §§103, 113(a), Nov. 21, 1991, 105 Stat. 1074, 1079; Pub. L. 103–141, §4(a), Nov. 16, 1993, 107 Stat. 1489; Pub. L. 103–322, title IV, §40303, Sept. 13, 1994, 108 Stat. 1942; Pub. L. 104–317, title III, §309(b), Oct. 19, 1996, 110 Stat. 3853.)
 
 #### References in Text
 
@@ -39,6 +39,8 @@ R.S. §722 derived from acts Apr. 9, 1866, ch. 31, §3, 14 Stat. 27; May 31, 187
 Section was formerly classified to section 729 of Title 28 prior to the general revision and enactment of Title 28, Judiciary and Judicial Procedure, by act June 25, 1948, ch. 646, §1, 62 Stat. 869.
 
 #### Amendments
+
+1996—Subsec. (b). Pub. L. 104–317 inserted before period at end “, except that in any action brought against a judicial officer for an act or omission taken in such officer's judicial capacity such officer shall not be held liable for any costs, including attorney's fees, unless such action was clearly in excess of such officer's jurisdiction”.
 
 1994—Subsec. (b). Pub. L. 103–322, which directed the amendment of the last sentence of this section by striking “or” after “92–318,” and by inserting “, or section 13981 of this title,” after “1964”, was executed to subsec. (b) of this section by striking “or” after “Act of 1993,” and by inserting “, or section 13981 of this title,” after “1964”, to reflect the probable intent of Congress and amendments by Pub. L. 102–166 and Pub. L. 103–141. See 1993 and 1991 Amendment notes below.
 
@@ -78,7 +80,7 @@ Scope and application, see Rules 1 and 54, Title 18, Appendix, Crimes and Crimin
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1981a, 3602 of this title.
+This section is referred to in sections 1981a, 1997e, 3602 of this title.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

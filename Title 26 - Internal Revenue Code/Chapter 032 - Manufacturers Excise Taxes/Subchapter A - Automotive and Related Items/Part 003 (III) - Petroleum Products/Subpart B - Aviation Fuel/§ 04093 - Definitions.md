@@ -30,7 +30,7 @@ For purposes of this subpart—
 
 &emsp;For purposes of paragraph (1), the term “wholesale distributor” includes any person who sells aviation fuel to producers, retailers, or to users who purchase in bulk quantities and accept delivery into bulk storage tanks. Such term does not include any person who (excluding the term “wholesale distributor” from paragraph (1)) is a producer or importer.
 
-(Added Pub. L. 100–203, title X, §10502(a), Dec. 22, 1987, 101 Stat. 1330–440; amended Pub. L. 100–647, title II, §2004(s)(1), title III, §3001(a), Nov. 10, 1988, 102 Stat. 3609, 3613; Pub. L. 101–508, title XI, §§11211(b)(4)(A), 11212(b)(4), 11704(a)(20), Nov. 5, 1990, 104 Stat. 1388–425, 1388–431, 1388–519; Pub. L. 103–66, title XIII, §§13241(f)(3), (4), 13242(a), Aug. 10, 1993, 107 Stat. 511, 512, 520.)
+(Added Pub. L. 100–203, title X, §10502(a), Dec. 22, 1987, 101 Stat. 1330–440; amended Pub. L. 100–647, title II, §2004(s)(1), title III, §3001(a), Nov. 10, 1988, 102 Stat. 3609, 3613; Pub. L. 101–508, title XI, §§11211(b)(4)(A), 11212(b)(4), 11704(a)(20), Nov. 5, 1990, 104 Stat. 1388–425, 1388–431, 1388–519; Pub. L. 103–66, title XIII, §§13241(f)(3), (4), 13242(a), Aug. 10, 1993, 107 Stat. 511, 512, 520; Pub. L. 104–188, title I, §1702(b)(2)(A), Aug. 20, 1996, 110 Stat. 1868.)
 
 #### Prior Provisions
 
@@ -40,7 +40,15 @@ A prior section 4094, added Pub. L. 89–44, title II, §202(c)(1)(A), June 21, 
 
 #### Amendments
 
-1993—Pub. L. 103–66, §13242(a), amended heading and text generally, substituting subsecs. (a) and (b) for former subsecs. (a) to (f) relating to exemptions from tax imposed under section 4091, information reporting, administrative rules, and cross references.
+1996—Subsec. (c)(2)(B). Pub. L. 104–188 amended subpar. (B), as in effect before the amendments made by the Revenue Reconciliation Act of 1993 (ch. I, §§13001–13444, of title XIII of Pub. L. 103–66) by inserting before the period “unless such fuel is sold for exclusive use by a State or any political subdivision thereof”. Prior to amendment by Pub. L. 103–66, subpar. (B) read as follows:
+
+“(B)
+
+Deficit reduction tax on fuel used in trains.—In the case of fuel sold for use in a diesel-powered train, paragraph (1) also shall not apply to so much of the tax imposed by section 4091 as is attributable to the diesel fuel deficit reduction rate imposed by such section.”
+
+See 1993 Amendment note below.
+
+1993—Pub. L. 103–66, §13242(a), amended heading and text generally, substituting subsecs. (a) and (b) forformer subsecs. (a) to (f) relating to exemptions from tax imposed under section 4091, information reporting, administrative rules, and cross references.
 
 Subsec. (c)(2)(A), (B). Pub. L. 103–66, §13241(f)(3), amended subpars. (A) and (B) generally to read as follows:
 
@@ -75,6 +83,10 @@ Subsecs. (e), (f). Pub. L. 101–508, §11212(b)(4), redesignated subsec. (f) as
 &emsp;“(4) the tax imposed by section 4091 shall not apply to taxable fuel sold for the exclusive use of any State, any political subdivision of a State, or the District of Columbia.”
 
 Subsecs. (d) to (f). Pub. L. 100–647, §2004(s)(1), added subsec. (d) and redesignated former subsecs. (d) and (e) as (e) and (f), respectively.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–188 effective, except as otherwise expressly provided, as if included in the provision of the Revenue Reconciliation Act of 1990, Pub. L. 101–508, title XI, to which such amendment relates, see section 1702(i) of Pub. L. 104–188, set out as a note under section 38 of this title.
 
 #### Effective Date of 1993 Amendment
 

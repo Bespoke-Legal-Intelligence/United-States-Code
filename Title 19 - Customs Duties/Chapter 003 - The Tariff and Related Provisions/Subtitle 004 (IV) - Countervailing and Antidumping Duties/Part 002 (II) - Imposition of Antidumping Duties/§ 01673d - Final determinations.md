@@ -140,15 +140,17 @@ Whenever the administering authority or the Commission makes a determination und
 
 #### (e) Correction of ministerial errors
 
-The administering authority shall establish procedures for the correction of ministerial errors in final determinations within a reasonable time after the determinations are issued under this section. Such procedures shall ensure opportunity for interested parties to present their views regarding any such errors. As used in this subsection, the term “ministerial error” includes errors in addition, subtraction, or other arithmetic function, clerical errors resulting from inaccurate copying, duplication, or the like, and any other type of unintentional error which the administering authority considers ministerial.
+The administering authority shall establish procedures for the correction of ministerial errors in final determinations within a reasonabletime after the determinations are issued under this section. Such procedures shall ensure opportunity for interested parties to present their views regarding any such errors. As used in this subsection, the term “ministerial error” includes errors in addition, subtraction, or other arithmetic function, clerical errors resulting from inaccurate copying, duplication, or the like, and any other type of unintentional error which the administering authority considers ministerial.
 
-(June 17, 1930, ch. 497, title VII, §735, as added July 26, 1979, Pub. L. 96–39, title I, §101, 93 Stat. 169; amended Oct. 30, 1984, Pub. L. 98–573, title VI, §§602(c), 605(b), 98 Stat. 3024, 3028; Aug. 23, 1988, Pub. L. 100–418, title I, §§1324(b)(3), 1333(a), 102 Stat. 1201, 1209; Dec. 8, 1994, Pub. L. 103–465, title II, §§212(b)(2)(B), 213(b), 214(b)(2), 219(b), (c)(6)–(8), 233(a)(5)(V), 108 Stat. 4849–4851, 4856, 4857, 4900.)
+(June 17, 1930, ch. 497, title VII, §735, as added July 26, 1979, Pub. L. 96–39, title I, §101, 93 Stat. 169; amended Oct. 30, 1984, Pub. L. 98–573, title VI, §§602(c), 605(b), 98 Stat. 3024, 3028; Aug. 23, 1988, Pub. L. 100–418, title I, §§1324(b)(3), 1333(a), 102 Stat. 1201, 1209; Dec. 8, 1994, Pub. L. 103–465, title II, §§212(b)(2)(B), 213(b), 214(b)(2), 219(b), (c)(6)–(8), 233(a)(5)(V), 108 Stat. 4849–4851, 4856, 4857, 4900; Oct. 11, 1996, Pub. L. 104–295, §20(b)(6), 110 Stat. 3527.)
 
 #### Amendments
 
+1996—Subsec. (a)(3)(A)(i). Pub. L. 104–295 amended Pub. L. 103–465, §214(b)(2)(A)(i). See 1994 Amendment note below.
+
 1994—Subsec. (a)(1). Pub. L. 103–465, §233(a)(5)(V), substituted “subject merchandise” for “merchandise which was the subject of the investigation”.
 
-Subsec. (a)(3)(A)(i). Pub. L. 103–465, §214(b)(2)(A)(i), inserted “and material injury by reason of dumped imports” after “history of dumping”, and directed the substitution of “subject merchandise” for “class or kind of the merchandise which is the subject of the investigation”, which was executed by making the substitution in text which did not contain “the” before “merchandise”, to reflect the probable intent of Congress.
+Subsec. (a)(3)(A)(i). Pub. L. 103–465, §214(b)(2)(A)(i), as amended by Pub. L. 104–295, inserted “and material injury by reason of dumped imports” after “history of dumping” and substituted “subject merchandise” for “class or kind of merchandise which is the subject of the investigation”.
 
 Subsec. (a)(3)(A)(ii). Pub. L. 103–465, §214(b)(2)(A)(ii), substituted “subject merchandise at less than its fair value and that there would be material injury by reason of such sales” for “merchandise which is the subject of the investigation at less than its fair value”.
 

@@ -44,7 +44,7 @@ Any State meeting the eligibility requirements set forth in section 1412 of this
 
 &emsp;&emsp;(B) that—
 
-&emsp;&emsp;&emsp;(i) children with disabilities in private schools and facilities will be provided special education and related services (in conformance with an individualized education program as required by this subchapter) at no cost to their parents or guardian, if such children are placed in or referred to such schools or facilities by the State or appropriate local educational agency as the means of carrying out the requirements of this subchapter or any other applicable law requiring the provision of special education and related services to all children with disabilities within such State; and
+&emsp;&emsp;&emsp;(i) children with disabilities in private schools and facilities will be provided special education and related services (in conformance with an individualized education program as required by this subchapter) at no cost to their parents or guardian, if such children are placed in or referred to such schools or facilities by the State or appropriate local educational agency as the means of carrying out the requirements of this subchapter or any other applicable law requiring the provision of special education and related services to allchildren with disabilities within such State; and
 
 &emsp;&emsp;&emsp;(ii) in all such instances, the State educational agency shall determine whether such schools and facilities meet standards that apply to State and local educational agencies and that children so served have all the rights they would have if served by such agencies;
 
@@ -76,7 +76,7 @@ Any State meeting the eligibility requirements set forth in section 1412 of this
 
 &emsp;&emsp;(B) comments publicly on any rules or regulations proposed for issuance by the State regarding the education of children with disabilities and the procedures for distribution of funds under this subchapter, and
 
-&emsp;&emsp;(C) assists the State in developing and reporting such data and evaluations as may assist the Secretary in the performance ofthe responsibilities of the Secretary under section 1418 of this title;
+&emsp;&emsp;(C) assists the State in developing and reporting such data and evaluations as may assist the Secretary in the performance of the responsibilities of the Secretary under section 1418 of this title;
 
 &emsp;(13) set forth policies and procedures for developing and implementing interagency agreements between the State educational agency and other appropriate State and local agencies to—
 
@@ -120,7 +120,7 @@ Whenever a State educational agency provides free appropriate public education f
 
 (B) If a State educational agency is dissatisfied with the Secretary's final action after a proceeding under subparagraph (A) of this paragraph, it may, within 60 days after notice of such action, file with the United States court of appeals for the circuit in which such State is located a petition for review of that action. A copy of the petition shall be forthwith transmitted by the clerk of the court to the Secretary. The Secretary thereupon shall file in the court the record of the proceedings on which the Secretary based the Secretary's action, as provided in section 2112 of title 28.
 
-(C) The findings of fact by the Secretary, if supported by substantial evidence, shall be conclusive; but the court, for good cause shown,may remand the case to the Secretary to take further evidence, and the Secretary may thereupon make new or modified findings of fact and may modify the Secretary's previous action, and shall file in the court the record of the further proceedings. Such new or modified findings of fact shall likewise be conclusive if supported by substantial evidence.
+(C) The findings of fact by the Secretary, if supported by substantial evidence, shall be conclusive; but the court, for good cause shown, may remand the case to the Secretary to take further evidence, and the Secretary may thereupon make new or modified findings of fact and may modify the Secretary's previous action, and shall file in the court the record of the further proceedings. Such new or modified findings of fact shall likewise be conclusive if supported by substantial evidence.
 
 (D) Upon the filing of a petition under subparagraph (B), the court shall have jurisdiction to affirm the action of the Secretary or to set it aside, in whole or in part. The judgment of the court shall be subject to review by the Supreme Court of the United States upon certiorari or certification as provided in section 1254 of title 28.
 
@@ -132,7 +132,7 @@ This chapter shall not be construed to permit a State to reduce medical and othe
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (e), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles V and XIX of the Social Security Act are classified generally to subchapters V (§701 et seq.) and XIX (§1396 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (e), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. TitlesV and XIX of the Social Security Act are classified generally to subchapters V (§701 et seq.) and XIX (§1396 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Amendments
 
@@ -186,7 +186,7 @@ Subsec. (a)(9). Pub. L. 100–630, §102(c)(6), substituted “under this subcha
 
 Subsec. (a)(12). Pub. L. 100–630, §102(c)(7), substituted “children, which—” for “children, which” in introductory provisions, added subpars. (A) to (C), and struck out former cls. (A) to (C) which read as follows: “(A) advises the State educational agency of unmet needs within the State in the education of handicapped children, (B) comments publicly on any rules or regulations proposed for issuance by the State regarding the education of handicapped children and the procedures for distribution of funds under this subchapter, and (C) assists the State in developing and reporting such data and evaluations as may assist the Secretary in the performance of his responsibilities under section 1418 of this title;”.
 
-Subsec. (a)(13). Pub. L. 100–630, §102(c)(8), substituted “local agencies to—” for “local agencies to” in introductory provisions, added subpars. (A) and (B), and struck out former cls. (A) and (B) which read as follows: “(A) define the financial responsibility of each agency for providing handicapped children and youth with free appropriate public education, and (B) resolve interagency disputes, including procedures under which local educational agencies may initiate proceedings under the agreement in order to secure reimbursement from other agencies or otherwise implement the provisions of the agreement.”
+Subsec. (a)(13). Pub. L. 100–630, §102(c)(8), substituted “local agencies to—” for “local agencies to” in introductory provisions, added subpars. (A) and (B), and struck out former cls. (A) and (B) which read as follows: “(A) define the financial responsibility of each agency for providing handicapped children and youth with free appropriate public education, and (B) resolveinteragency disputes, including procedures under which local educational agencies may initiate proceedings under the agreement in order to secure reimbursement from other agencies or otherwise implement the provisions of the agreement.”
 
 Subsec. (a)(14). Pub. L. 100–630, §102(c)(9), inserted “set forth” after “policies”, and in subpar. (A) substituted “such personnel are” for “he or she is”.
 

@@ -18,11 +18,11 @@ Determination of Newly Democratic Nations.—The Secretary concerned and the Sec
 
 (d)
 
-Reports to Congressional Committees.—The Secretary concerned and the Secretary of State shall notify the Committee on Armed Services and the Committee on Foreign Relations of the Senate and the Committee on Armed Services and the Committee on Foreign Affairs of the House of Representatives of each approval under subsection (b) and each determination under subsection (c).
+Reports to Congressional Committees.—The Secretary concerned and the Secretary of State shall notify the Committee on Armed Services and the Committee on Foreign Relations of the Senate and the Committee on National Security and the Committee on International Relations of the House of Representatives of each approval under subsection (b) and each determination under subsection (c).
 
 (e)
 
-Continued Entitlement to Retired Pay and Benefits.—The eligibility of a retired member to receive retired or retainer pay and other benefits arising from the retired member's status as a retired member of the uniformed services, and the eligibility of dependents ofsuch retired member to receive benefits on the basis of such retired member's status as a retired member of the uniformed services, may not be terminated by reason of employment or holding of an office or position consented to in subsection (a).
+Continued Entitlement to Retired Pay and Benefits.—The eligibility of a retired member to receive retired or retainer pay and other benefits arising from the retired member's status as a retired member of the uniformed services, and the eligibility of dependents of such retired member to receive benefits on the basis of such retired member's status as a retired member of the uniformed services, may not be terminated by reason of employment or holding of an office or position consented to in subsection (a).
 
 (f)
 
@@ -32,17 +32,13 @@ Retired Member Defined.—In this section, the term “retired member” means a
 
 Civil Employment by Foreign Governments.—For a provision of law providing the consent of Congress to civil employment by foreign governments, see section 908 of title 37.
 
-(Added Pub. L. 103–160, div. A, title XIV, §1433(b)(1), Nov. 30, 1993, 107 Stat. 1834, §1058; renumbered §1060, Pub. L. 103–337, div. A, title X, §1070(a)(6)(A), Oct. 5, 1994, 108 Stat. 2855.)
+(Added Pub. L. 103–160, div. A, title XIV, §1433(b)(1), Nov. 30, 1993, 107 Stat. 1834, §1058; renumbered §1060, Pub. L. 103–337, div. A, title X, §1070(a)(6)(A), Oct. 5, 1994, 108 Stat. 2855; amended Pub. L. 104–106, div. A, title XV, §1502(a)(13), Feb. 10, 1996, 110 Stat. 503.)
 
 #### Amendments
 
+1996—Subsec. (d). Pub. L. 104–106 substituted “Committee on National Security and the Committee on International Relations” for “Committee on Armed Services and the Committee on Foreign Affairs”.
+
 1994—Pub. L. 103–337 renumbered section 1058 of this title as this section.
-
-#### Change of Name
-
-Committee on Armed Services of House of Representatives treated as referring to Committee on National Security of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
-
-Committee on Foreign Affairs of House of Representatives treated as referring to Committee on International Relations of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2.
 
 #### Effective Date
 

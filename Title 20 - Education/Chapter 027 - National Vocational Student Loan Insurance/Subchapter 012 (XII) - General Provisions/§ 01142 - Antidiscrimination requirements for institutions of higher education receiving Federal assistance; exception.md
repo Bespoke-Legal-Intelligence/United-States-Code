@@ -12,7 +12,7 @@ Nothing in this chapter shall be construed to limit the rights or responsibiliti
 
 #### References in Text
 
-This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 89–329, as amended, known as the Higher Education Act of 1965. For complete classification of this Act to the Code, seeShort Title note set out under section 1001 of this title and Tables.
+This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 89–329, as amended, known as the Higher Education Act of 1965. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
 The Americans With Disabilities Act of 1990, referred to in subsec. (b), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, as amended, which is classified principally to chapter 126 (§12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
 

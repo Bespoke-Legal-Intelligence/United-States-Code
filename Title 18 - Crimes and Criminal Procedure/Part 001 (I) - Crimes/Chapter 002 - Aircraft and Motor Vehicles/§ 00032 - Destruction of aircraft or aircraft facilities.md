@@ -14,7 +14,7 @@
 
 &emsp;(6) communicates information, knowing the information to be false and under circumstances in which such information may reasonably be believed, thereby endangering the safety of any such aircraft in flight; or
 
-&emsp;(7) attempts to do anything prohibited under paragraphs (1) through (6) of this subsection;
+&emsp;(7) attempts or conspires to do anything prohibited under paragraphs (1) through (6) of this subsection;
 
 > shall be fined under this title or imprisoned not more than twenty years or both.
 
@@ -26,15 +26,25 @@
 
 &emsp;(3) places or causes to be placed on a civil aircraft registered in a country other than the United States while such aircraft is in service, a device or substance which is likely to destroy that aircraft, or to cause damage to that aircraft which renders that aircraft incapable of flight or which is likely to endanger that aircraft's safety in flight; or
 
-&emsp;(4) attempts to commit an offense described in paragraphs (1) through (3) of this subsection;
+&emsp;(4) attempts or conspires to commit an offense described in paragraphs (1) through (3) of this subsection;
 
-> shall, if the offender is later found in the United States, be fined under this title or imprisoned not more than twenty years, or both.
+> shall be fined under this title or imprisoned not more than twenty years, or both. There is jurisdiction over an offense under this subsection if a national of the United States was on board, or would have been on board, the aircraft; an offender is a national of the United States; or an offender is afterwards found in the United States. For purposes of this subsection, the term “national of the United States” has the meaning prescribed in section 101(a)(22) of the Immigration and Nationality Act.
 
 (c) Whoever willfully imparts or conveys any threat to do an act which would violate any of paragraphs (1) through (5) of subsection (a) or any of paragraphs (1) through (3) of subsection (b) of this section, with an apparent determination and will to carry the threat into execution shall be fined under this title or imprisoned not more than five years, or both.
 
-(Added July 14, 1956, ch. 595, §1, 70 Stat. 539; amended Oct. 12. 1984, Pub. L. 98–473, title II, §2013(b), 98 Stat. 2187; Nov. 18, 1988, Pub. L. 100–690, title VII, §7016, 102 Stat. 4395; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(O), (S), 108 Stat. 2148.)
+(Added July 14, 1956, ch. 595, §1, 70 Stat. 539; amended Oct. 12. 1984, Pub. L. 98–473, title II, §2013(b), 98 Stat. 2187; Nov. 18, 1988, Pub. L. 100–690, title VII, §7016, 102 Stat. 4395; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(O), (S), 108 Stat. 2148; Apr. 24, 1996, Pub. L. 104–132, title VII, §§721(b), 723(a)(1), 110 Stat. 1298, 1300.)
+
+#### References in Text
+
+Section 101(a)(22) of the Immigration and Nationality Act, referred to in subsec. (b), is classified to section 1101(a)(22) of Title 8, Aliens and Nationality.
 
 #### Amendments
+
+1996—Subsec. (a)(7). Pub. L. 104–132, §723(a)(1), inserted “or conspires” after “attempts”.
+
+Subsec. (b). Pub. L. 104–132, §721(b), in closing provisions, struck out “, if the offender is later found in the United States,” before “be fined under this title” and inserted at end “There is jurisdiction over an offense under this subsection if a national of the United States was on board, or would have been on board, the aircraft; an offender is a national of the United States; or an offender is afterwards found in the United States. For purposes of this subsection, the term ‘national of the United States’ has the meaning prescribed in section 101(a)(22) of the Immigration and Nationality Act.”
+
+Subsec. (b)(4). Pub. L. 104–132, §723(a)(1), inserted “or conspires” after “attempts”.
 
 1994—Subsecs. (a), (b). Pub. L. 103–322, §330016(1)(S), substituted “fined under this title” for “fined not more than $100,000” in concluding provisions.
 
@@ -68,5 +78,5 @@ Destruction of property moving in commerce, see section 80501 of Title 49, Trans
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2339A, 2516, 3286, 3592, 5032 of this title; title 49 section 44936.
+This section is referred to in sections 1956, 2332b, 2339A, 2516, 3286, 3592, 5032 of this title; title 49 section 44936.
 

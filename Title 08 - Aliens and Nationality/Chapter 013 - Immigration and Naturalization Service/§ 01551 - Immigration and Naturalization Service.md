@@ -36,7 +36,7 @@ Pub. L. 96–132, §22, Nov. 30, 1979, 93 Stat. 1050, provided that:
 
 “(2) The Special Investigator may be removed from office by the Attorney General. The Attorney General shall communicate the reasons for any such removal to both Houses of Congress.
 
-“(3) For the purposes of section 7324 of title 5 of the United States Code, the Special Investigator shall not be considered to be an employee who determines policies to be pursued by the United States in the nationwide administration of Federal laws.
+“(3) For the purposes of section 7324 of title 5 of the United States Code, the Special Investigator shall notbe considered to be an employee who determines policies to be pursued by the United States in the nationwide administration of Federal laws.
 
 “(4) The Special Investigator shall, in accordance with applicable laws and regulations governing the civil service—
 

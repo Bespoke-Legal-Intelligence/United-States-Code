@@ -8,7 +8,7 @@ Within nine months from April 29, 1988, the Secretary shall promulgate, subject 
 
 Any rule or regulation promulgated by the Secretary under subsection (a) of this section shall provide that—
 
-&emsp;(1) exploration or development and production activities may not be undertaken, exceptpursuant to a permit issued by the National Park Service authorizing such activities or access; and
+&emsp;(1) exploration or development and production activities may not be undertaken, except pursuant to a permit issued by the National Park Service authorizing such activities or access; and
 
 &emsp;(2) final action by the National Park Service with respect to any application for a permit authorizing such activities shall occur within 90 days from the date such an application is submitted unless—
 
@@ -36,7 +36,7 @@ Prior to the promulgation of rules or regulations under this section, the Secret
 
 #### (f) Minerals Management Office; establishment; duties
 
-There is hereby authorized to be established a Minerals Management Office within the Office of the Superintendent of the Big Cypress National Preserve, for the purpose of ensuring, consistent with the purposes for which the Big Cypress National Preserve was established, timely consideration of and final action on applications for the exploration or development and production of non-Federal oil and gas rights located beneath the surface of lands within the boundaries of the Big Cypress National Preserve and the Addition.
+There is hereby authorized to be established a Minerals Management Office within the Office of the Superintendent of the Big Cypress National Preserve, for the purpose of ensuring, consistent with the purposes for which the Big Cypress National Preserve was established, timely consideration of and final action on applications for the exploration or development and production of non-Federal oil and gas rights located beneath the surface of lands within the boundariesof the Big Cypress National Preserve and the Addition.
 
 #### (g) Authorization of appropriations
 

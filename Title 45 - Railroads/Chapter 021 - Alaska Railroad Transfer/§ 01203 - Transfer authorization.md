@@ -2,7 +2,7 @@
 
 #### (a) Authority of Secretary; time, manner, etc., of transfer
 
-Subject to the provisions of this chapter, the United States, through the Secretary, shalltransfer all rail properties of the Alaska Railroad to the State. Such transfer shall occur as soon as practicable after the Secretary has made the certifications required by subsection (d) of this section and shall be accomplished in the manner specified in subsection (b) of this section.
+Subject to the provisions of this chapter, the United States, through the Secretary, shall transfer all rail properties of the Alaska Railroad to the State. Such transfer shall occur as soon as practicable after the Secretary has made the certifications required by subsection (d) of this section and shall be accomplished in the manner specified in subsection (b) of this section.
 
 #### (b) Simultaneous and interim transfers, conveyances, etc.
 
@@ -30,7 +30,7 @@ Subject to the provisions of this chapter, the United States, through the Secret
 
 (2) In the license granted under subsection (b)(1)(C) of this section and in all conveyances made to the State under this chapter, there shall be reserved to the Secretary of the Interior, the Secretary of Defense and the Secretary of Agriculture, as appropriate, existing easements for administration (including agency transportation and utility purposes) that are identified in the report required by section 1204(a) of this title. The appropriate Secretary may obtain, only after consent of the State, such future easements as are necessary for administration. Existing and future easements and use of such easements shall not interfere with operations and support functions of the State-owned railroad.
 
-(3) There shall be reserved to the Secretary of the Interior the right to use and occupy, without compensation, five thousand square feet of land at Talkeetna, Alaska, as described in ARR lease numbered 69–25–0003–5165 for National Park Service administrative activities, so long as the use or occupation does not interfere with the operation of the State-owned railroad. This reservation shall be effective on the date of transfer under this section or the expiration date of such lease, whichever is later.
+(3) There shall be reserved to the Secretary of the Interior the right to use and occupy, without compensation, five thousand square feet of land at Talkeetna, Alaska, as described in ARR lease numbered 69–25–0003–5165 for National ParkService administrative activities, so long as the use or occupation does not interfere with the operation of the State-owned railroad. This reservation shall be effective on the date of transfer under this section or the expiration date of such lease, whichever is later.
 
 #### (d) Certifications by Secretary; scope, subject matter, etc.
 
@@ -68,7 +68,7 @@ Subject to the provisions of this chapter, the United States, through the Secret
 
 (D) Payment to transferred employees pursuant to subparagraph (A)(vi) of this paragraph shall not exceed the percentage of any transferred employee's base salary level provided by the United States as a cost-of-living allowance on the day before the date of transfer, unless the parties agree to the contrary.
 
-(E) Prior to the date of transfer, the Secretary shall also certify that the State-owned railroad has agreed to the retention, for at least one year from the date of transfer, of the offices of the Alaska Railroad, except in cases of separation for cause, resignation, retirement, or lack of work, at or above their base salaries in effect on the date of transfer, in such positions as theState-owned railroad may determine; or to the payment of lump-sum severance pay in an amount equal to such base salary for one year to officers not retained by the State-owned railroad upon transfer or, for officers separated within one year on or after the date of transfer, of a portion of such lump-sum severance payment (diminished pro rata for employment by the State-owned railroad within one year of the date of transfer prior to separation).
+(E) Prior to the date of transfer, the Secretary shall also certify that the State-owned railroadhas agreed to the retention, for at least one year from the date of transfer, of the offices of the Alaska Railroad, except in cases of separation for cause, resignation, retirement, or lack of work, at or above their base salaries in effect on the date of transfer, in such positions as the State-owned railroad may determine; or to the payment of lump-sum severance pay in an amount equal to such base salary for one year to officers not retained by the State-owned railroad upon transfer or, for officers separated within one year on or after the date of transfer, of a portion of such lump-sum severance payment (diminished pro rata for employment by the State-owned railroad within one year of the date of transfer prior to separation).
 
 (4) Prior to the date of transfer, the Secretary shall also certify that the State has agreed to allow representatives of the Secretary adequate access to employees and records of the Alaska Railroad when needed for the performance of functions related to the period of Federal ownership.
 

@@ -64,7 +64,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(III) on student populations that have been the traditional beneficiaries of Federal assistance in order to determine whether such population's educational attainment has been improved as a result of such programs;
 
-&emsp;&emsp;&emsp;(v) evaluate how the National Assessment Governing Board, the Advisory Council on Education Statistics, the National Education Goals Panel, and the National Education Statistics and Improvement Council (and any other Federal board established to analyze, address, or approve education standards and assessments) coordinate, interact, or duplicate efforts to assist the States in reforming the educational systems of States; and
+&emsp;&emsp;&emsp;(v) evaluate how the National Assessment Governing Board, the Advisory Council on Education Statistics, and the National Education Goals Panel coordinate, interact, or duplicate efforts to assist the States in reforming the educational systems of States; and
 
 &emsp;&emsp;&emsp;(vi) include a review of the programs under the Acts described in clauses (i) and (ii) in such detail as the Secretary deems appropriate, and may involve cooperation with other Federal departments and agencies in order to incorporate evaluations and recommendations of such departments and agencies; and
 
@@ -92,19 +92,23 @@
 
 The Secretary is authorized to provide guidance, technical assistance, and model programs to recipients of assistance under this chapter to strengthen information for quality assurance and performance information feedback at State and local levels. Such guidance and assistance shall promote the development, measurement and reporting of valid, reliable, timely and consistent performance indicators within a program in order to promote continuous program improvement. Nothing in this subsection shall be construed to establish a national data system.
 
-(Pub. L. 89–10, title XIV, §14701, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3908.)
+(Pub. L. 89–10, title XIV, §14701, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3908; amended Pub. L. 104–134, title I, §101(d) \[title VII, §703(b)(5)\], Apr. 26, 1996, 110 Stat. 1321–211, 1321–255; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.)
 
 #### References in Text
 
 The Improving America's Schools Act of 1994, referred to in subsec. (b)(1)(B)(i), is Pub. L. 103–382, Oct. 20, 1994, 108 Stat. 3518. For complete classification of this Act to the Code, see Short Title of 1994 Amendment note set out under section 6301 of this title and Tables.
 
-The Goals 2000: Educate America Act, referred to in subsec. (b)(1)(B)(ii), (C)(ii), is Pub. L. 103–227, Mar. 31, 1994, 108 Stat. 125 (except titles V and IX), as amended, which is classified principally to chapter 68 (§5801 et seq.) of this title (except subchapters V (§5931 et seq.)and IX (§6001 et seq.)). For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
+The Goals 2000: Educate America Act, referred to in subsec. (b)(1)(B)(ii), (C)(ii), is Pub. L. 103–227, Mar. 31, 1994, 108 Stat. 125 (except titles V and IX), as amended, which is classified principally to chapter 68 (§5801 et seq.) of this title (except subchapters V (§5931 et seq.) and IX (§6001 et seq.)). For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
 
 The School-to-Work Opportunities Act of 1994, referred to in subsec. (b)(1)(B)(ii), (C)(ii), is Pub. L. 103–239, May 4, 1994, 108 Stat. 568, as amended, which is classified principally to chapter 69 (§6101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6101 of this title and Tables.
 
+#### Amendments
+
+1996—Subsec. (b)(1)(B)(v). Pub. L. 104–134 substituted “and the National Education Goals Panel” for “the National Education Goals Panel, and the National Education Statistics and Improvement Council (and any other Federal board established to analyze, address, or approve education standards and assessments)”.
+
 #### Change of Name
 
-Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Economic and Educational Opportunities of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Fifth Congress, Jan. 7, 1997.
 
 #### Section Referred to in Other Sections
 

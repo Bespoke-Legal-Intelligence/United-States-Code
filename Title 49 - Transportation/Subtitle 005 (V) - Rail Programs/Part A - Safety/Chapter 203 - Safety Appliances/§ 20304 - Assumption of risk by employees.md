@@ -6,7 +6,9 @@ An employee of a railroad carrier injured by a vehicle or train used in violatio
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

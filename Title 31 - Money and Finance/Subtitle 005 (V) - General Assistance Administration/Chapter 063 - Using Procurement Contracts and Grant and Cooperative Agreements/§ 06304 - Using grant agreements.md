@@ -26,5 +26,5 @@ The words “type of” are omitted as unnecessary. The words “money, property
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 15 sections 3710a, 4602.
+This section is referred to in title 15 sections 3710a, 4602; title 30 section 1901.
 

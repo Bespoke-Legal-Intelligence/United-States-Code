@@ -12,7 +12,7 @@ Eligible Organizations.—Any not-for-profit industrial or professional organiza
 
 #### Prior Provisions
 
-A prior section 2518 was renumbered section 2522 of this title.
+A prior section 2518 was renumbered section 2522 of this title and subsequently repealed.
 
 #### Amendments
 

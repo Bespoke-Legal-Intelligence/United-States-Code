@@ -6,7 +6,9 @@ Under regulations prescribed by the Secretary of Transportation, a manufacturer 
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

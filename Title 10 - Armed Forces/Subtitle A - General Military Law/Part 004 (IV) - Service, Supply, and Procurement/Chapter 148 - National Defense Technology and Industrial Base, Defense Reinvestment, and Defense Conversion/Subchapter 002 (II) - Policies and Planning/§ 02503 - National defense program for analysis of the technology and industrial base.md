@@ -2,21 +2,7 @@
 
 (a)
 
-Establishment.—(1) The Secretary of Defense, in consultation with the National Defense Technology and Industrial Base Council, shall establish a program for analysis of the national technology and industrial base.
-
-(2) As determined by the Secretary of Defense, the program shall be administered by one of the following:
-
-&emsp;(A) An existing federally funded research and development center.
-
-&emsp;(B) A consortium of existing federally funded research and development centers and other nonprofit entities.
-
-&emsp;(C) A private sector entity (other than a federally funded research and development center).
-
-&emsp;(D) The National Defense University.
-
-(3) A contract may be awarded under subparagraph (A), (B), or (C) of paragraph (2) only through the use of competitive procedures.
-
-(4) The Secretary of Defense shall ensure that there is appropriate coordination between the program and the Critical Technologies Institute.
+Establishment.—The Secretary of Defense shall establish a program for analysis of the national technology and industrial base.
 
 (b)
 
@@ -32,7 +18,7 @@ Functions.—The functions of the program shall include, with respect to the nat
 
 &emsp;(3) Provision of technical support and assistance to—
 
-&emsp;&emsp;(A) the National Defense Technology and Industrial Base Council in the preparation of the periodic assessments required by section 2505 of this title and the periodic plans required by section 2506 of this title;
+&emsp;&emsp;(A) the Secretary of Defense for the preparation of the periodic assessments required by section 2505 of this title;
 
 &emsp;&emsp;(B) the defense acquisition university structure and its elements; and
 
@@ -40,11 +26,31 @@ Functions.—The functions of the program shall include, with respect to the nat
 
 &emsp;(4) Dissemination, through the National Technical Information Service of the Department of Commerce, of unclassified information and assessments for further dissemination within the Federal Government and to the private sector.
 
-(Added Pub. L. 102–484, div. D, title XLII, §4213(a), Oct. 23, 1992, 106 Stat. 2665.)
+(Added Pub. L. 102–484, div. D, title XLII, §4213(a), Oct. 23, 1992, 106 Stat. 2665; amended Pub. L. 104–201, div. A, title VIII, §829(b), Sept. 23, 1996, 110 Stat. 2612.)
 
 #### Prior Provisions
 
 A prior section 2503, added Pub. L. 100–456, div. A, title VIII, §821(b)(1)(B), Sept. 29, 1988, 102 Stat. 2016; amended Pub. L. 101–189, div. A, title VIII, §842(a), (b), Nov. 29, 1989, 103 Stat. 1514, 1515; Pub. L. 102–25, title VII, §701(f)(4), Apr. 6, 1991, 105 Stat. 115; Pub. L. 102–484, div. A, title X, §1052(32), Oct. 23, 1992, 106 Stat. 2501, established defense industrial base office, prior to repeal by Pub. L. 102–484, §4202(a).
+
+#### Amendments
+
+1996—Subsec. (a). Pub. L. 104–201, §829(b)(1), substituted “The Secretary of Defense” for “(1) The Secretary of Defense, in consultation with the National Defense Technology and Industrial Base Council,” and struck out pars. (2) to (4) which read as follows:
+
+“(2) As determined by the Secretary of Defense, the program shall be administered by one of the following:
+
+&emsp;“(A) An existing federally funded research and development center.
+
+&emsp;“(B) A consortium of existing federally funded research and development centers and other nonprofit entities.
+
+&emsp;“(C) A private sector entity (other than a federally funded research and development center).
+
+&emsp;“(D) The National Defense University.
+
+“(3) A contract may be awarded under subparagraph (A), (B), or (C) of paragraph (2) only through the use of competitive procedures.
+
+“(4) The Secretary of Defense shall ensure that there is appropriate coordination between the program and the Critical Technologies Institute.”
+
+Subsec. (c)(3)(A). Pub. L. 104–201, §829(b)(2), substituted “the Secretary of Defense for” for “the National Defense Technology and Industrial Base Council in” and struck out “and the periodic plans required by section 2506 of this title” after “section 2505 of this title”.
 
 #### Deadline for Establishing Program
 

@@ -6,11 +6,11 @@ Notwithstanding any other provision of law, the Secretary, if he determines that
 
 #### (b) Conditions for transfers
 
-Transfers under this section shall be subject to the following conditions: (1) except as provided in section 1379(b) of this title, no allotment or quota shall be transferred to a farm in another county: <i>Provided,</i> That in the case of Virginia fire-cured tobacco type 21 and Virginia sun-cured tobacco type 37, any such transfer may be made to a farm in another county in the same State; (2) no transfer other than by annual lease of an allotment or quota from a farm subject to a mortgage or other lien shall be permitted unless the transfer is agreed to by the lienholders; (3) no sale of a farm allotment or quota from a farm shall be permitted if any sale of allotment or quota to the same farm has been made within the three immediately preceding crop years; and (4) no transfer of allotment or quota shall be effective until a record thereof is filed with the county committee of the county to which such transfer is made and such committee determines that the transfer complies with the provisions of this section.
+Transfers under this section shall be subject to the following conditions: (1) except as provided in section 1379(b) of this title, no allotment or quota shall be transferred to a farm in another county: <i>Provided</i>, That in the case of Virginia fire-cured tobacco type 21 and Virginia sun-cured tobacco type 37, any such transfer may be made to a farm in another county in the same State; (2) no transfer other than by annual lease of an allotment or quota from a farm subject to a mortgage or other lien shall be permitted unless the transfer is agreed to by the lienholders; (3) no sale of a farm allotment or quota from a farm shall be permitted if any sale of allotment or quota to the same farm has been made within the three immediately preceding crop years; and (4) no transfer of allotment or quota shall be effective until a record thereof is filed with the county committee of the county to which such transfer is made and such committee determines that the transfer complies with the provisions of this section.
 
 #### (c) Transfer of acreage history and marketing quota
 
-The transfer of an allotment or quota under this section shall have the effect of transferring also the acreage history and marketing quota attributable to such allotment or quota and if the transfer is made prior to the determination of the allotment or quota for any year the transfer shall include the right of the owner or operator to have an allotment or quota determined for the farm for such year: <i>Provided,</i> That in the case of a transfer by lease the amount of the allotment or quota shall be considered for purposes of determining allotments or quotas after the expiration of the lease to have been planted on the farm from which such allotment is transferred.
+The transfer of an allotment or quota under this section shall have the effect of transferring also the acreage history and marketing quota attributable to such allotment or quota and if the transfer is made prior to the determination of the allotment or quota for any year the transfer shall include the right of the owner or operator to have an allotment or quota determined for the farm for such year: <i>Provided</i>, That in the case of a transfer by lease the amount of the allotment or quota shall be considered for purposes of determining allotments or quotas afterthe expiration of the lease to have been planted on the farm from which such allotment is transferred.
 
 #### (d) Five-year restriction on new farm allotments or quotas
 
@@ -26,7 +26,7 @@ Any lease under this section may be made for such term of years not to exceed fi
 
 #### (g) Acreage transfer maximums
 
-Under the provisions of this section not more than ten acres of allotment may be transferred to any farm: <i>Provided,</i> That the total acreage allotted to any farm after such transfer shall not exceed 50 per centum of the acreage of cropland in the farm.
+Under the provisions of this section not more than ten acres of allotment may be transferred to any farm: <i>Provided</i>, That the total acreage allotted to any farm after such transfer shall not exceed 50 per centum of the acreage of cropland in the farm.
 
 #### (h) Future allotments; referendum voting eligibility
 
@@ -40,7 +40,7 @@ If the sale or transfer under this section occurs during a period in which the f
 
 The Secretary shall prescribed such regulations and other terms and conditions as he deems necessary for the administration of this section.
 
-(Feb. 16, 1938, ch. 30, title III, §318, as added July 7, 1967, Pub. L. 90–51, §1, 81 Stat. 120; amendedJuly 5, 1968, Pub. L. 90–387, 82 Stat. 293; Oct. 23, 1971, Pub. L. 92–144, 85 Stat. 393; Nov. 29, 1983, Pub. L. 98–180, title II, §212(a), 97 Stat. 1149; Oct. 28, 1992, Pub. L. 102–566, §1, 106 Stat. 4269.)
+(Feb. 16, 1938, ch. 30, title III, §318, as added July 7, 1967, Pub. L. 90–51, §1, 81 Stat. 120; amended July 5, 1968, Pub. L. 90–387, 82 Stat. 293; Oct. 23, 1971, Pub. L. 92–144, 85 Stat. 393; Nov. 29, 1983, Pub. L. 98–180, title II, §212(a), 97 Stat. 1149; Oct. 28, 1992, Pub. L. 102–566, §1, 106 Stat. 4269.)
 
 #### Amendments
 

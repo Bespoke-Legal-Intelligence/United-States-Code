@@ -1,0 +1,16 @@
+### §12899h–1. Ineligibility of Indian tribes
+
+Indian tribes, Indian housing authorities, and other agencies primarily serving Indians or Indian areas shall not be eligible applicants for amounts made available for assistance under this part for fiscal year 1997 and fiscal years thereafter.
+
+(Pub. L. 101–625, title IV, §460, as added Pub. L. 104–330, title V, §504(a)(2), Oct. 26, 1996, 110 Stat. 4044.)
+
+#### Prior Provisions
+
+A prior section 460 of Pub. L. 101–625 was renumbered section 461, and is classified to section 12899i of this title.
+
+#### Effective Date
+
+Section effective Oct. 1, 1997, except as otherwise expressly provided, see section 107 of Pub. L. 104–330, set out as a note under section 4101 of Title 25, Indians.
+
+Section 504(b) of Pub. L. 104–330 provided that: “The amendments under subsection (a) \[enacting this section\] shall apply with respect to amounts made available for assistance under subtitle D of title II of the Cranston-Gonzalez National Affordable Housing Act \[42 U.S.C. 12899 et seq.\] for fiscal year 1998 and fiscal years thereafter.”
+

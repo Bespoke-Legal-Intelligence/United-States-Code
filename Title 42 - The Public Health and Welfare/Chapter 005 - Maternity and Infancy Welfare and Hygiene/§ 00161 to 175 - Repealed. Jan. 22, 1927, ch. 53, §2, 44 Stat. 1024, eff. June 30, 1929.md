@@ -1,6 +1,6 @@
 ### §§161 to 175. Repealed. Jan. 22, 1927, ch. 53, §2, 44 Stat. 1024, eff. June 30, 1929
 
-Section 161, act Nov. 23, 1921, ch. 135, §3, 42 Stat. 224, related to creation of Board of Maternity and InfantHygiene and administration of this chapter by Children's Bureau.
+Section 161, act Nov. 23, 1921, ch. 135, §3, 42 Stat. 224, related to creation of Board of Maternity and Infant Hygiene and administration of this chapter by Children's Bureau.
 
 Section 162, act Nov. 23, 1921, ch. 135, §1, 42 Stat. 224, related to authorization of appropriations.
 

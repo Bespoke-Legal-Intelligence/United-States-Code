@@ -42,15 +42,21 @@
 
 #### (B) Effect of subsequent State law
 
-&emsp;&emsp;The enactment by any State of a law of the type described in subparagraph (A) shall not affect the validity of any contractual commitment to purchase, hold, or invest that was made prior to the effective date of the law and shall not require the sale or other disposition of any securities acquired prior to the effective date of the law.
+&emsp;&emsp;The enactment by any State of a law of the type described in subparagraph (A) shallnot affect the validity of any contractual commitment to purchase, hold, or invest that was made prior to the effective date of the law and shall not require the sale or other disposition of any securities acquired prior to the effective date of the law.
 
 #### (d) State usury laws superseded
 
-Any provision of the constitution or law of any State which expressly limits the rate or amount of interest, discount points, finance charges, or other charges that may be charged, taken, received, or reserved by agricultural lenders or certified facilities shall not apply to any agricultural loan made by an originator or a certified facility in accordance with this subchapter that is included in a pool for which the Corporation has provided a guarantee.
+A provision of the Constitution or law of any State shall not apply to an agricultural loan made by an originator or a certified facility in accordance with this subchapter for sale to the Corporation or to a certified facility for inclusion in a pool for which the Corporation has provided, or has committed to provide, a guarantee, if the loan, not later than 180 days after the date the loan was made, is sold to the Corporation or included in a pool for which the Corporation has provided a guarantee, if the provision—
 
-(Pub. L. 92–181, title VIII, §8.12, as added Pub. L. 100–233, title VII, §702, Jan. 6, 1988, 101 Stat. 1703; amended Pub. L. 100–399, title VI, §601(k), (<i>l</i>), Aug. 17, 1988, 102 Stat. 1006.)
+&emsp;(1) limits the rate or amount of interest, discount points, finance charges, or other charges that may be charged, taken, received, or reserved by an agricultural lender or a certified facility; or
+
+&emsp;(2) limits or prohibits a prepayment penalty (either fixed or declining), yield maintenance, or make-whole payment that may be charged, taken, or received by an agricultural lender or a certified facility in connection with the full or partial payment of the principal amount due on a loan by a borrower in advance of the scheduled date for the payment under the terms of the loan, otherwise known as a prepayment of the loan principal.
+
+(Pub. L. 92–181, title VIII, §8.12, as added Pub. L. 100–233, title VII, §702, Jan. 6, 1988, 101 Stat. 1703; amended Pub. L. 100–399, title VI, §601(k), (<i>l</i>), Aug. 17, 1988, 102 Stat. 1006; Pub. L. 104–105, title I, §112, Feb. 10, 1996, 110 Stat. 165.)
 
 #### Amendments
+
+1996—Subsec. (d). Pub. L. 104–105 added subsec. (d) and struck out heading and text of former subsec. (d). Text read as follows: “Any provision of the constitution or law of any State which expressly limits the rate or amount of interest, discount points, finance charges, or other charges that may be charged, taken, received, or reserved by agricultural lenders or certified facilities shall not apply to any agricultural loan made by an originator or a certified facility in accordance with this subchapter that is included in a pool for which the Corporation has provided a guarantee.”
 
 1988—Subsec. (a)(1). Pub. L. 100–399, §601(k), inserted “, or obligations backed by,” before “a pool”.
 

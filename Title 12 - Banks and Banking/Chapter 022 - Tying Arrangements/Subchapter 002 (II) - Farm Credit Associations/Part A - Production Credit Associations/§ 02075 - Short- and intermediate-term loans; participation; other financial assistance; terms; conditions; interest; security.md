@@ -4,7 +4,7 @@
 
 Each production credit association, under standards prescribed by the board of directors of the Farm Credit Bank of the district, may make, guarantee, or participate with other lenders in short- and intermediate-term loans and other similar financial assistance to—
 
-&emsp;(1) bona fide farmers and ranchers and the producers or harvesters of aquatic products, for agricultural or aquatic purposes and other requirements of such borrowers, including financing for basic processing and marketing directly related to the operations of the borrower and those of other eligible farmers, ranchers, and producers or harvesters of aquatic products, except that the operationsof the borrower shall supply some portion of the total processing or marketing for which financing is extended, except that the aggregate of the financing provided by any association for basic processing and marketing directly related to the operations of farmers, ranchers, and producers or harvesters of aquatic products, if the operations of the applicant supply less than 20 percent of the total processing or marketing for which financing is extended, shall not exceed 15 percent of the total of all outstanding loans of all associations in the district at the end of its preceding fiscal year;
+&emsp;(1) bona fide farmers and ranchers and the producers or harvesters of aquatic products, for agricultural or aquatic purposes and other requirements of such borrowers, including financing for basic processing and marketing directly related to the operations of the borrower and those of other eligible farmers, ranchers, and producers or harvesters of aquatic products, except that the operations of the borrower shall supply some portion of the total processing or marketing for which financing is extended, except that the aggregate of the financing provided by any association for basic processing and marketing directly related to the operations of farmers, ranchers, and producers or harvesters of aquatic products, if the operations of the applicant supply less than 20 percent of the total processing or marketing for which financing is extended, shall not exceed 15 percent of the total of all outstanding loans of all associations in the district at the end of its preceding fiscal year;
 
 &emsp;(2) rural residents for housing financing in rural areas, under regulations of the Farm Credit Administration; and
 
@@ -18,7 +18,7 @@ Each production credit association, under standards prescribed by the board of d
 
 #### (2) Limitation
 
-&emsp;The aggregate of such housing loans in an association to persons other than farmers or ranchers shall not exceed 15 percent of the outstanding loans at the end of its preceding fiscal year except on prior approval by the Farm Credit Bank of the district. The aggregate of such housing loans in any farm credit district shall not exceed 15 percent of the outstanding loans of all associations in the district at the end of the preceding fiscal year.
+&emsp;The aggregate of such housing loans in an association to persons other than farmers or ranchers shall not exceed 15 percent of the outstanding loans at the end of its precedingfiscal year except on prior approval by the Farm Credit Bank of the district. The aggregate of such housing loans in any farm credit district shall not exceed 15 percent of the outstanding loans of all associations in the district at the end of the preceding fiscal year.
 
 #### (3) Rural areas
 

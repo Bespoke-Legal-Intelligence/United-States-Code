@@ -12,7 +12,7 @@ From funds appropriated under subsection (d) of this section, the Secretary is a
 
 &emsp;&emsp;(A) activities that will promote systemic education reform at the State and local levels, such as—
 
-&emsp;&emsp;&emsp;(i) research and development related to challenging State content and challenging State student performance standards and opportunity-to-learn standards or strategies for student learning;
+&emsp;&emsp;&emsp;(i) research and development related to challenging State content and challenging State student performance standards;
 
 &emsp;&emsp;&emsp;(ii) the development and evaluation of model strategies for—
 
@@ -28,7 +28,7 @@ From funds appropriated under subsection (d) of this section, the Secretary is a
 
 &emsp;&emsp;&emsp;(iv) developing and evaluating programs that directly involve parents and family members in the academic progress of their children;
 
-&emsp;&emsp;&emsp;(v) developing and evaluating strategies for integrating instruction and assessment such that teachers and administrators can focus on what students should know and be able to do at particular grade levels, which instruction shall promote the synthesis of knowledge, encourage the development ofproblem-solving skills drawing on a vast range of disciplines, and promote the development of higher order thinking by all students; and
+&emsp;&emsp;&emsp;(v) developing and evaluating strategies for integrating instruction and assessment such that teachers and administrators can focus on what students should know and be able to do at particular grade levels, which instruction shall promote the synthesis of knowledge, encourage the development of problem-solving skills drawing on a vast range of disciplines, and promote the development of higher order thinking by all students; and
 
 &emsp;&emsp;&emsp;(vi) developing and evaluating strategies for supporting professional development for teachers across all disciplines and for pupil services personnel, guidance counselors, and administrators, including inservice training that improves the skills of pupil services personnel, counselors and administrators for working with students from diverse populations;
 
@@ -106,13 +106,13 @@ From funds appropriated under subsection (d) of this section, the Secretary is a
 
 #### (3) Peer review
 
-&emsp;The Secretary shall use a peer review process in reviewing applications for assistanceunder this section and may use funds appropriated under subsection (d) of this section for the cost of such peer review.
+&emsp;The Secretary shall use a peer review process in reviewing applications for assistance under this section and may use funds appropriated under subsection (d) of this section for the cost of such peer review.
 
 #### (d) Authorization
 
 For the purpose of carrying out this section, there are authorized to be appropriated $50,000,000 for fiscal year 1995 and such sums as may be necessary for each of the four succeeding fiscal years.
 
-(Pub. L. 89–10, title X, §10101, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3809.)
+(Pub. L. 89–10, title X, §10101, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3809; amended Pub. L. 104–134, title I, §101(d) \[title VII, §703(b)(4)\], Apr. 26, 1996, 110 Stat. 1321–211, 1321–255; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.)
 
 #### References in Text
 
@@ -121,6 +121,10 @@ This Act, as in effect on the day preceding October 20, 1994, referred to in sub
 The Fund for the Improvement and Reform of Schools and Teaching Act, as in effect on the day preceding October 20, 1994, referred to in subsec. (b)(2), is part B (§§3201–3243) of title III of Pub. L. 100–297, Apr. 28, 1988, 102 Stat. 338, which was classified generally to chapter 60 (§4801 et seq.) of this title, prior to repeal by Pub. L. 103–382, title III, §365, Oct. 20, 1994, 108 Stat. 3975.
 
 The Education for Economic Security Act, referred to in subsec. (b)(2), is Pub. L. 98–377, Aug. 11, 1984, 98 Stat. 1267, as amended. Title III of the Act, as in effect on the day preceding October 20, 1994, is classified generally to subchapter III (§3981 et seq.) of chapter 52 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of this title and Tables.
+
+#### Amendments
+
+1996—Subsec. (b)(1)(A)(i). Pub. L. 104–134 struck out “and opportunity-to-learn standards or strategies for student learning” after “student performance standards”.
 
 <i><sup>1</sup></i><i> So in original. The semicolon probably should be a period.</i>
 

@@ -124,7 +124,7 @@
 
 #### (3) Institutions of emerging excellence
 
-&emsp;Of the amounts appropriated under subsection (h) of this section for a fiscal year, the Director of the Center shall make available 25 percent for grants under subsection (a) of this section to applicants that, in addition to meeting the requirements established in paragraph (1), have demonstrated emerging excellence in biomedical or behavioral research, as follows:
+&emsp;Of the amounts appropriated under subsection (h) of this section for a fiscal year, theDirector of the Center shall make available 25 percent for grants under subsection (a) of this section to applicants that, in addition to meeting the requirements established in paragraph (1), have demonstrated emerging excellence in biomedical or behavioral research, as follows:
 
 &emsp;&emsp;(A) The applicant has a plan for research or training advancement and possesses the ability to carry out the plan.
 
@@ -152,7 +152,7 @@ The Director of the Center may make a grant under subsection (a) of this section
 
 &emsp;&emsp;(A) 50 percent of the necessary cost of the construction of a proposed facility as determined by the Director; or
 
-&emsp;&emsp;(B) in the case of a multipurpose facility, 40 percent of that part of the necessary costof construction that the Director determines to be proportionate to the contemplated use of the facility.
+&emsp;&emsp;(B) in the case of a multipurpose facility, 40 percent of that part of the necessary cost of construction that the Director determines to be proportionate to the contemplated use of the facility.
 
 #### (2) Reservation of amounts
 

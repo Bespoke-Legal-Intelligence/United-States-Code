@@ -6,7 +6,7 @@ Aircraft Subject to Liens.—When an aircraft is involved in a violation referre
 
 (b)
 
-Seizure.—An aircraft subject to a lien under this section may be seized summarily and placed in the custody of a person authorized to take custody of it under regulations of the Secretary of Transportation (or the Administrator of the Federal Aviation Administration with respect to aviation safety duties and powers designated to be carried out by the Administrator). A report on the seizure shall be submitted to the Attorney General. The Attorney General promptly shall bring a civil action in rem to enforce the lien or notify the Secretary or Administrator that the action will not be brought.
+Seizure.—An aircraft subject to a lien under this section may be seized summarily and placed in the custody of a person authorized to take custody of it under regulations of the Secretary of Transportation (or the Administratorof the Federal Aviation Administration with respect to aviation safety duties and powers designated to be carried out by the Administrator). A report on the seizure shall be submitted to the Attorney General. The Attorney General promptly shall bring a civil action in rem to enforce the lien or notify the Secretary or Administrator that the action will not be brought.
 
 (c)
 
@@ -26,7 +26,9 @@ Release.—An aircraft seized under subsection (b) of this section shall be rele
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -44,7 +46,7 @@ Aug. 23, 1958, Pub. L. 85–726, §§901(b), 903(b)(2), (3), 72 Stat. 784, 786.
 
 &nbsp;
 
-49 App.:1551(b) (1)(E).
+49 App.:1551(b)(1)(E).
 
 Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1601(b)(1)(E); added Oct. 4, 1984, Pub. L. 98–443, §3(e), 98 Stat. 1704.
 
@@ -60,7 +62,7 @@ Oct. 15, 1966, Pub. L. 89–670, §6(c)(1), 80 Stat. 938; Jan. 12, 1983, Pub. L.
 
 &nbsp;
 
-49 App.:1551(b) (1)(E).
+49 App.:1551(b)(1)(E).
 
 &nbsp;
 

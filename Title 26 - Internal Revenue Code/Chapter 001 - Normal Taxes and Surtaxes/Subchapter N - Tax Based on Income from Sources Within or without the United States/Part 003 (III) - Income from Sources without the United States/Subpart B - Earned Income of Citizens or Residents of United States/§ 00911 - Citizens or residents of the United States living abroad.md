@@ -64,7 +64,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;The term “housing expenses” means the reasonable expenses paid or incurred duringthe taxable year by or on behalf of an individual for housing for the individual (and, if they reside with him, for his spouse and dependents) in a foreign country. The term—
+&emsp;&emsp;The term “housing expenses” means the reasonable expenses paid or incurred during the taxable year by or on behalf of an individual for housing for the individual (and, if they reside with him, for his spouse and dependents) in a foreign country. The term—
 
 &emsp;&emsp;&emsp;(i) includes expenses attributable to the housing (such as utilities and insurance), but
 
@@ -222,7 +222,7 @@ For purposes of this section—
 
 #### (2) Revocation
 
-&emsp;A taxpayer may revoke an election made under paragraph (1) for any taxable year after the taxable year for which such election was made. Except with the consent of the Secretary, any taxpayer who makes such a revocation for any taxable year may not make another election under this section for anysubsequent taxable year before the 6th taxable year after the taxable year for which such revocation was made.
+&emsp;A taxpayer may revoke an election made under paragraph (1) for any taxable year after the taxable year for which such election was made. Except with the consent of the Secretary, any taxpayer who makes such a revocation for any taxable year may not make another election under this section for any subsequent taxable year before the 6th taxable year after the taxable year for which such revocation was made.
 
 #### (f) Cross references
 
@@ -302,7 +302,7 @@ Subsec. (c)(1)(D). Pub. L. 95–615, §202(b), struck out subpar. (D) which defi
 
 Subsec. (c)(7). Pub. L. 95–615, §202(c), added par. (7).
 
-Pub. L. 95–600, §703(e), redesignated former par. (8) as (7). Such par. (8) was subsequently repealed by section 202(e) of Pub. L. 95–615 without taking into account theredesignation of par. (8) as (7) by Pub. L. 95–600. See 1978 Amendment note for subsec. (c)(8) below.
+Pub. L. 95–600, §703(e), redesignated former par. (8) as (7). Such par. (8) was subsequently repealed by section 202(e) of Pub. L. 95–615 without taking into account the redesignation of par. (8) as (7) by Pub. L. 95–600. See 1978 Amendment note for subsec. (c)(8) below.
 
 Subsec. (c)(8). Pub. L. 95–615, §202(e), struck out par. (8) which related to the nonexclusion under subsec. (a) of any amount attributable to services performed in a foreign country or countries if such amount was received outside of the foreign country or countries where such services were performed and if one of the purposes was the avoidance of any tax imposed by such foreign country or countries on such amount.
 
@@ -364,7 +364,7 @@ Amendment by section 108(a)(1)(A), (C), (D) of Pub. L. 96–222 effective as if 
 
 Amendment by section 401(b)(4) of Pub. L. 95–600 applicable to taxable years beginning after Dec. 31, 1978, see section 401(c) of Pub. L. 95–600, set out as a note under section 1201 of this title.
 
-Section 701(u)(10)(B) of Pub. L. 95–600, as amended by Pub. L. 96–222, title I, §107(a)(1)(B), Apr. 1, 1980, 94 Stat. 222, provided that: “The amendment made by subparagraph (A) \[amending this section\] shall apply to taxable years beginning in calendar year 1978 but only in the case of taxpayers who make an election under section 209(c) of the Foreign Earned Income Act of 1978 \[section 209(c) of Pub. L. 95–615, set out below\].”
+Section 701(u)(10)(B) of Pub. L. 95–600, as amended by Pub. L. 96–222, title I, §107(a)(1)(B), Apr. 1, 1980, 94 Stat.222, provided that: “The amendment made by subparagraph (A) \[amending this section\] shall apply to taxable years beginning in calendar year 1978 but only in the case of taxpayers who make an election under section 209(c) of the Foreign Earned Income Act of 1978 \[section 209(c) of Pub. L. 95–615, set out below\].”
 
 Amendment by section 703(e) of Pub. L. 95–600 effective on Oct. 4, 1976, see section 703(r) of Pub. L. 95–600, set out as a note under section 46 of this title.
 
@@ -450,5 +450,5 @@ Information From Federal Agencies.—Each agency of the Federal Government which
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1, 32, 59, 66, 72, 79, 86, 105, 135, 219, 403, 410, 414, 415, 469, 505, 865, 879, 988, 1034, 1402, 3401, 4980B, 6012, 6091, 7701 of this title; title 22 section 3310; title 29 section 1322; title 42 section 411.
+This section is referred to in sections 1, 23, 32, 59, 66, 72, 79, 86, 105, 135, 137, 219, 403, 410, 414, 415, 469, 505, 865, 879, 988, 1034, 1402, 3401, 4980B, 6012, 6091, 7701 of this title; title 22 section 3310; title 29 section 1322; title 42 section 411.
 

@@ -10,11 +10,11 @@ For the purpose of carrying out the provisions of this subchapter, each river ba
 
 &emsp;(3) use the United States mails in the same manner and upon the same conditions as departments and agencies of the United States;
 
-&emsp;(4) employ and compensate such personnel as it deems advisable, including consultants, atrates not in excess of the daily equivalent of the rate prescribed for grade GS–18 under section 5332 of title 5, and retain and compensate such professional or technical service firms as it deems advisable on a contract basis;
+&emsp;(4) employ and compensate such personnel as it deems advisable, including consultants, at rates not in excess of the daily equivalent of the rate prescribed for grade GS–18 under section 5332 of title 5, and retain and compensate such professional or technical service firms as it deems advisable on a contract basis;
 
 &emsp;(5) arrange for the services of personnel from any State or the United States, or any subdivision or agency thereof, or any intergovernmental agency;
 
-&emsp;(6) make arrangements, including contracts, with any participating government, except the United States or the District of Columbia, for inclusion in a suitable retirement and employee benefit system of such of its personnel as may not be eligible for or continuing in another governmental retirement or employee benefit system, or otherwise provide for such coverage of its personnel;
+&emsp;(6) make arrangements, including contracts, with any participating government, except the United States or the District of Columbia, for inclusion in a suitable retirement and employee benefit system of such of its personnelas may not be eligible for or continuing in another governmental retirement or employee benefit system, or otherwise provide for such coverage of its personnel;
 
 &emsp;(7) purchase, hire, operate, and maintain passenger motor vehicles; and
 

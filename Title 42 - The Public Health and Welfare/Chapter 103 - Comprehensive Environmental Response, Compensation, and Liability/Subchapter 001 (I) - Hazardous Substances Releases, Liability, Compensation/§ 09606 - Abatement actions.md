@@ -8,7 +8,7 @@ In addition to any other action taken by a State or local government, when the P
 
 (1) Any person who, without sufficient cause, willfully violates, or fails or refuses to comply with, any order of the President under subsection (a) of this section may, in an action brought in the appropriate United States district court to enforce such order, be fined not more than $25,000 for each day in which such violation occurs or such failure to comply continues.
 
-(2)(A) Any person who receives and complies with the terms of any order issued under subsection (a) of this section may, within 60 days after completion of the required action, petition the President for reimbursement from the Fund for the reasonable costs of such action, plus interest. Any interest payable under this paragraph shall accrue on the amounts expended from the date of expenditure at the same rate as specified for interest on investments of the Hazardous Substance Superfund established under subchapter A of chapter 98 of title 26.
+(2)(A) Any person who receives and complies with the terms of any order issued under subsection (a) of this section may, within 60 days after completion of the required action, petitionthe President for reimbursement from the Fund for the reasonable costs of such action, plus interest. Any interest payable under this paragraph shall accrue on the amounts expended from the date of expenditure at the same rate as specified for interest on investments of the Hazardous Substance Superfund established under subchapter A of chapter 98 of title 26.
 
 (B) If the President refuses to grant all or part of a petition made under this paragraph, the petitioner may within 30 days of receipt of such refusal file an action against the President in the appropriate United States district court seeking reimbursement from the Fund.
 
@@ -22,7 +22,7 @@ In addition to any other action taken by a State or local government, when the P
 
 Within one hundred and eighty days after December 11, 1980, the Administrator of the Environmental Protection Agency shall, after consultation with the Attorney General, establish and publish guidelines for using the imminent hazard, enforcement, and emergency response authorities of this section and other existing statutes administered by the Administrator of the Environmental Protection Agency to effectuate the responsibilities and powers created by this chapter. Such guidelines shall to the extent practicable be consistent with the national hazardous substance response plan, and shall include, at a minimum, the assignment of responsibility for coordinating response actions with the issuance of administrative orders, enforcement of standards and permits, the gathering of information, and other imminent hazard and emergency powers authorized by (1) sections 1321(c)(2),<sup>1</sup> 1318, 1319, and 1364(a) of title 33, (2) sections 6927, 6928, 6934, and 6973 of this title, (3) sections 300j–4 and 300i of this title, (4) sections 7413, 7414, and 7603 of this title, and (5) section 2606 of title 15.
 
-(Pub. L. 96–510, title I, §106, Dec. 11, 1980, 94 Stat. 2780; Pub. L. 99–499, title I, §§106, 109(b), Oct. 17,1986, 100 Stat. 1628, 1633; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095.)
+(Pub. L. 96–510, title I, §106, Dec. 11, 1980, 94 Stat. 2780; Pub. L. 99–499, title I, §§106, 109(b), Oct. 17, 1986, 100 Stat. 1628, 1633; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095.)
 
 #### References in Text
 

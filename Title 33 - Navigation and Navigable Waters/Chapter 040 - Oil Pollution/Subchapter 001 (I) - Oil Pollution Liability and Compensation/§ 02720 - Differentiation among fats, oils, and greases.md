@@ -32,6 +32,18 @@ Section was enacted as part of the Edible Oil Regulatory Reform Act, and not as 
 
 Section is comprised of section 2 of Pub. L. 104–55. Subsec. (d) of section 2 of Pub. L. 104–55 amended sections 2704 and 2716 of this title.
 
+#### Sense of Congress on Implementation of Regulations Regarding Animal Fats and Vegetable Oils
+
+Pub. L. 104–324, title XI, §1130, Oct. 19, 1996, 110 Stat. 3985, provided that:
+
+“(a)
+
+Sense of Congress.—It is the sense of Congress that, in an effort to reduce unnecessary regulatory burdens, a regulation issued or enforced and an interpretation or guideline established pursuant to Public Law 104–55 \[see Short Title of 1995 Amendment note set out under section 2701 of this title\] should in any manner possible recognize and provide for the differences in the physical, chemical, biological, and other properties, and in the environmental effects, of the classes of fats, oils, and greases described under that law.
+
+“(b)
+
+Report.—Within 60 days after the date of enactment of this section \[Oct. 19, 1996\] and on January 1 of each year thereafter, the Secretary of Transportation shall submit a report to Congress on the extent to which the implementation by the United States Coast Guard of regulations issued or enforced, or interpretations or guidelines established, pursuant to Public Law 104–55, carry out the intent of Congress and recognize and provide for the differences in the physical, chemical, biological, and other properties, and in the environmental effects, of the classes of fats, oils, and greases described under that law.”
+
 #### Section Referred to in Other Sections
 
 This section is referred to in section 2704 of this title.

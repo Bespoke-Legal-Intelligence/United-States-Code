@@ -14,7 +14,7 @@ There is established in the Institute an Advanced Technology Program (hereafter 
 
 Under the Program established in subsection (a) of this section, and consistent with the mission and policies of the Institute, the Secretary, acting through the Director, and subject to subsections (c) and (d) of this section, may—
 
-&emsp;(1) aid industry-led United States joint research and development ventures (hereafter inthis section referred to as “joint ventures”) (which may also include universities and independent research organizations), including those involving collaborative technology demonstration projects which develop and test prototype equipment and processes, through—
+&emsp;(1) aid industry-led United States joint research and development ventures (hereafter in this section referred to as “joint ventures”) (which may also include universities and independent research organizations), including those involving collaborative technology demonstration projects which develop and test prototype equipment and processes, through—
 
 &emsp;&emsp;(A) provision of organizational and technical advice; and
 
@@ -68,7 +68,7 @@ When entering into contracts or making awards under subsection (b) of this secti
 
 &emsp;(9) A company shall be eligible to receive financial assistance under this section only if—
 
-&emsp;&emsp;(A) the Secretary finds that the company's participation in the Program would be in the economic interest of the United States, as evidenced by investments in the United States in research, development, and manufacturing (including, for example, the manufacture of major components or subassemblies in the United States); significant contributions to employment in the United States; and agreement with respect to any technology arising from assistance provided under this section to promote the manufacture within the United States of products resulting from that technology (taking into account the goals of promoting the competitiveness of United States industry), and to procure parts and materials from competitive suppliers; and
+&emsp;&emsp;(A) the Secretary finds that the company's participation in the Program would be in the economic interest of the United States, as evidenced by investments in the United States in research, development, and manufacturing (including, for example, the manufacture of major components or subassemblies in the United States); significant contributions to employment in the UnitedStates; and agreement with respect to any technology arising from assistance provided under this section to promote the manufacture within the United States of products resulting from that technology (taking into account the goals of promoting the competitiveness of United States industry), and to procure parts and materials from competitive suppliers; and
 
 &emsp;&emsp;(B) either—
 
@@ -114,7 +114,7 @@ As used in this section—
 
 &emsp;&emsp;(B) the development or testing of basic engineering techniques;
 
-&emsp;&emsp;(C) the extension of investigative finding or theory of a scientific or technical nature into practical application for experimental and demonstration purposes, including the experimental production and testing of models, prototypes, equipment, materials, and processes;
+&emsp;&emsp;(C) the extension of investigative finding or theory of a scientific or technical natureinto practical application for experimental and demonstration purposes, including the experimental production and testing of models, prototypes, equipment, materials, and processes;
 
 &emsp;&emsp;(D) the collection, exchange, and analysis of research information;
 
@@ -180,7 +180,7 @@ Section 201(b) of Pub. L. 102–245 provided that:
 
 &emsp;“(B) to promote and assist in the development of advanced technologies and the generic application of such technologies to civilian products, processes, and services;
 
-&emsp;“(C) to improve the competitive position of United States industry by supporting industry-led research and development projects in areas of emerging technology which have substantial potential to advance the economic well-being and national security of the United States, such as high-resolution information systems, advanced manufacturing technology, and advanced materials; and
+&emsp;“(C) to improve the competitive position of United States industry by supporting industry-led researchand development projects in areas of emerging technology which have substantial potential to advance the economic well-being and national security of the United States, such as high-resolution information systems, advanced manufacturing technology, and advanced materials; and
 
 &emsp;“(D) to support projects that range from idea exploration to prototype development and address long-term, high-risk areas of technological research, development, and application that are not otherwise being adequately developed by the private sector, but are likely to yield important benefits to the Nation.”
 

@@ -20,7 +20,7 @@ A borrower of a loan made by the Federal Financing Bank and guaranteed under sec
 
 &emsp;&emsp;(C)(i) the present value of 100 percent of the amount of interest for 1 year on the outstanding principal balance of the loan or loan advance, or any portion of the loan or advance, being refinanced or prepaid; plus
 
-&emsp;&emsp;(ii) for the interval between the date of the refinancing or prepayment and the first quarterly payment date that occurs 12 years after the end of the year in which the amount being refinanced or prepaid was advanced, the present value of the difference between—
+&emsp;&emsp;(ii) for the interval between the date of the refinancing or prepayment and the firstquarterly payment date that occurs 12 years after the end of the year in which the amount being refinanced or prepaid was advanced, the present value of the difference between—
 
 &emsp;&emsp;&emsp;(I) each payment scheduled for the interval on the loan amount being refinanced or prepaid; and
 

@@ -16,7 +16,7 @@ For purposes of this subchapter:
 
 &emsp;&emsp;&emsp;(i) any community having a population in excess of 2,500 inhabitants; and
 
-&emsp;&emsp;&emsp;(ii) any dwelling with a purchase price exceeding $100,000 (as adjusted for inflation).
+&emsp;&emsp;&emsp;(ii) any dwelling, excluding the land to which the dwelling is affixed, with a value exceeding $100,000 (as adjusted for inflation).
 
 #### (2) Board
 
@@ -32,9 +32,9 @@ For purposes of this subchapter:
 
 &emsp;The term “certified facility” means—
 
-&emsp;&emsp;(A) a secondary marketing agricultural loan facility that is certified under section 2279aa–5 of this title; or
+&emsp;&emsp;(A) an agricultural mortgage marketing facility that is certified under section 2279aa–5 of this title; or
 
-&emsp;&emsp;(B) the Corporation and any affiliate thereof, but only with respect to qualified loans described in paragraph (9)(B).
+&emsp;&emsp;(B) the Corporation and any affiliate thereof.
 
 #### (4) Corporation
 
@@ -72,7 +72,7 @@ For purposes of this subchapter:
 
 &emsp;&emsp;(B) that is the portion of a loan guaranteed by the Secretary of Agriculture pursuant to the Consolidated Farm and Rural Development Act (7 U.S.C. 1921 et seq.), except that—
 
-&emsp;&emsp;&emsp;(i) subsections (b) through (f) of section 2279aa–6 of this title, and sections 2279aa–7, 2279aa–8, and 2279aa–9 of this title, shall not apply to the portion of a loan guaranteed by the Secretary or to an obligation, pool, or security representing an interest in or obligation backed by a pool of obligations relating to the portion of a loan guaranteed by the Secretary; and
+&emsp;&emsp;&emsp;(i) subsections (b) through (d) of section 2279aa–6 of this title, and sections 2279aa–8 and 2279aa–9 of this title, shall not apply to the portion of a loan guaranteed by the Secretary or to an obligation, pool, or security representing an interest in or obligation backed by a pool of obligations relating to the portion of a loan guaranteed by the Secretary; and
 
 &emsp;&emsp;&emsp;(ii) the portion of a loan guaranteed by the Secretary shall be considered to meet all standards for qualified loans for all purposes under this chapter.
 
@@ -80,13 +80,21 @@ For purposes of this subchapter:
 
 &emsp;The term “State” has the meaning given such term in section 2277a of this title.
 
-(Pub. L. 92–181, title VIII, §8.0, as added Pub. L. 100–233, title VII, §702, Jan. 6, 1988, 101 Stat. 1686; amended Pub. L. 100–399, title VI, §601(a), Aug.17, 1988, 102 Stat. 1005; Pub. L. 101–624, title XVIII, §1839, Nov. 28, 1990, 104 Stat. 3834.)
+(Pub. L. 92–181, title VIII, §8.0, as added Pub. L. 100–233, title VII, §702, Jan. 6, 1988, 101 Stat. 1686; amended Pub. L. 100–399, title VI, §601(a), Aug. 17, 1988, 102 Stat. 1005; Pub. L. 101–624, title XVIII, §1839, Nov. 28, 1990, 104 Stat. 3834; Pub. L. 104–105, title I, §§101, 102, 108(c)(1), 109(b)(1), Feb. 10, 1996, 110 Stat. 163–165.)
 
 #### References in Text
 
 The Consolidated Farm and Rural Development Act, referred to in par. (9)(B), is title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, as amended, which is classified principally to chapter 50 (§1921 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1921 of Title 7 and Tables.
 
 #### Amendments
+
+1996—Par. (1)(B)(ii). Pub. L. 104–105, §101, substituted “, excluding the land to which the dwelling is affixed, with a value” for “with a purchase price”.
+
+Par. (3)(A). Pub. L. 104–105, §102(1), substituted “an agricultural mortgage marketing” for “a secondary marketing agricultural loan”.
+
+Par. (3)(B). Pub. L. 104–105, §102(2), struck out “, but only with respect to qualified loans described in paragraph (9)(B)” after “thereof”.
+
+Par. (9)(B)(i). Pub. L. 104–105, §§108(c)(1), 109(b)(1), substituted “(d)” for “(f)” and “2279aa–8” for “2279aa–7, 2279aa–8,”.
 
 1990—Par. (3). Pub. L. 101–624, §1839(a), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The term ‘certified facility’ means a secondary marketing agricultural loan facility that is certified under section 2279aa–5 of this title.”
 

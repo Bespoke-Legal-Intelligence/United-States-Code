@@ -2,7 +2,7 @@
 
 (a) The total service of an employee or Member is the full years and twelfth parts thereof, excluding from the aggregate the fractional part of a month, if any.
 
-(b) The service of an employee shall be credited from the date of original employment to the date of separation on which title to annuity is based in the civilian service of the Government. Except as provided in paragraph (13) <sup>1</sup> of this subsection, credit may not be allowed for aperiod of separation from the service in excess of 3 calendar days. The service includes—
+(b) The service of an employee shall be credited from the date of original employment to the date of separation on which title to annuity is based in the civilian service of the Government. Except as provided in paragraph (13) <sup>1</sup> of this subsection, credit may not be allowed for a period of separation from the service in excess of 3 calendar days. The service includes—
 
 &emsp;(1) employment as a substitute in the postal field service;
 
@@ -26,7 +26,7 @@
 
 &emsp;(11) subject to sections 8334(c) and 8339(i) of this title, service in any capacity of at least 130 days (or its equivalent) per calendar year performed after July 1, 1946, for the National Committee for a Free Europe; Free Europe Committee, Incorporated; Free Europe, Incorporated; Radio Liberation Committee; Radio Liberty Committee; subdivisions of any of those organizations; Radio Free Europe/Radio Liberty, Incorporated, Radio Free Asia; the Asia Foundation; or the Armed Forces Network, Europe (AFN–E), but only if such service is not credited for benefits under any other retirement system which is established for such entities and funded in whole or in part by the Government and only if the individual later becomes subject to this subchapter;
 
-&emsp;(12) service as a justice or judge of the United States, as defined by section 451 of title 28, and service as a judge of a court created by Act of Congress in a territory which is invested with any jurisdiction of a district court of the United States, but no credit shall be allowed for such service if the employee is entitled to a salary or an annuity under section 371, 372, or 373 of title 28;
+&emsp;(12) service as a justice or judge of the United States, as defined by section 451 of title 28, and service as a judge of a court created by Act of Congress in a territory which is invested with any jurisdiction of a district courtof the United States, but no credit shall be allowed for such service if the employee is entitled to a salary or an annuity under section 371, 372, or 373 of title 28;
 
 &emsp;(13) subject to sections 8334(c) and 8339(i) of this title, service performed on or after December 6, 1967, and before the effective date of this paragraph as an employee of the House Beauty Shop, only if he serves as such an employee for a period of at least five years after such effective date;
 
@@ -36,15 +36,15 @@
 
 &emsp;(16) service performed by any individual as an employee described in section 2105(c) of this title after June 18, 1952, and before January 1, 1966, if (A) such service involved conducting an arts and crafts, drama, music, library, service club, youth activities, sports, or recreation program (including any outdoor recreation program) for personnel of the armed forces, and (B) such individual is an employee subject to this subchapter on the day before the date of the enactment of the Nonappropriated Fund Instrumentalities Employees’ Retirement Credit Act of 1986.
 
-> The Office of Personnel Management shall accept the certification of the Secretary of Agriculture or his designee concerning service for the purpose of this subchapter of the type performed by an employee named by paragraph (3) of this subsection. The Office of Personnel Management shall accept the certification of the Secretary of Commerce or his designee concerning service for the purpose of this subchapter of the type performed by an employee named by paragraph (14) of this subsection. The Office of Personnel Management shall accept the certification of the Capitol Guide Board concerning service for the purpose of this subchapter of the type described in paragraph (8) of this subsection and performed by an employee. The Office of Personnel Management shall accept the certification of the Clerk of the House of Representatives concerning service for the purpose of this subchapter of the type described in paragraph (13) of this subsection. For the purpose of paragraph (5) of this subsection—
+> The Office of Personnel Management shall accept the certification of the Secretary of Agriculture or his designee concerning service for the purpose of this subchapter of the type performed by an employee named by paragraph (3) of this subsection. The Office of Personnel Management shall accept the certification of the Secretary of Commerce or his designee concerning service for the purpose of this subchapter of the type performed by an employee named by paragraph (14) of this subsection. The Office of Personnel Management shall accept the certification of the Capitol Guide Board concerning service for the purpose of this subchapter of the type described in paragraph (8) of this subsection and performed by an employee. The Office of Personnel Management shall accept the certification of the Chief Administrative Officer of the House of Representatives concerning service for the purpose of this subchapter of the type described in paragraph (13) of this subsection. For the purpose of paragraph (5) of this subsection—
 
 &emsp;(A) a volunteer and a volunteer leader are deemed receiving pay during their service at the respective rates of readjustment allowances payable under sections 2504(c) and 2505(1) of title 22; and
 
-&emsp;(B) the period of an individual's service as a volunteer or volunteer leader under chapter 34of title 22 is the period between enrollment as a volunteer or volunteer leader and the termination of that service by the President or by death or resignation.
+&emsp;(B) the period of an individual's service as a volunteer or volunteer leader under chapter 34 of title 22 is the period between enrollment as a volunteer or volunteer leader and the termination of that service by the President or by death or resignation.
 
 The Office of Personnel Management shall accept the certification of the Executive Director of the Board for International Broadcasting, and the Secretary of State with respect to the Asia Foundation and the Secretary of Defense with respect to the Armed Forces Network, Europe (AFN–E), concerning services for the purposes of this subchapter of the type described in paragraph (11) of this subsection. For the purpose of this subchapter, service of the type described in paragraph (15) of this subsection shall be considered Member service. The Office of Personnel Management shall accept, for the purposes of this subchapter, the certification of the head of a nonappropriated fund instrumentality of the United States concerning service of the type described in paragraph (16) of this subsection which was performed for such appropriated fund instrumentality.
 
-(c)(1) Except as provided in paragraph (2) of this subsection and subsection (d) of this section—
+(c)(1) Except as provided in paragraphs (2) and (4) of this subsection and subsection (d) of this section—
 
 &emsp;(A) the service of an individual who first becomes an employee or Member before October 1, 1982, shall include credit for each period of military service performed before the date of the separation on which the entitlement to an annuity under this subchapter is based, subject to section 8332(j) of this title; and
 
@@ -84,6 +84,8 @@ The Office of Personnel Management shall accept the certification of the Executi
 
 &emsp;(ii) this paragraph shall be carried out in any case which involves a former spouse.
 
+(4) If, after January 1, 1997, an employee or Member waives retired pay that is subject to a court order for which there has been effective service on the Secretary concerned for purposes of section 1408 of title 10, the military service on which the retired pay is based may be credited as service for purposes of this subchapter only if the employee or Member authorizes the Director to deduct and withhold from the annuity payable to the employee or Member under this subchapter an amount equal to the amount that, if the annuity payment was instead a payment of the employee's or Member's retired pay, would have been deducted and withheld and paid to the former spouse covered by the court order under such section 1408. The amount deducted and withheld under this paragraph shall be paid to that former spouse. The period of civil service employment by the employee or Member shall not be taken into consideration in determining the amount of the deductions and withholding or the amount of the payment to the former spouse. The Director of the Office of Personnel Management shall prescribe regulations to carry out this paragraph.
+
 (d) For the purpose of section 8339(c)(1) of this title, a Member—
 
 &emsp;(1) shall be allowed credit only for periods of military service not exceeding 5 years, plus military service performed by the Member on leaving his office, for the purpose of performing military service, during a war or national emergency proclaimed by the President or declared by Congress and before his final separation from service as Member; and
@@ -112,7 +114,7 @@ The Office of Personnel Management shall accept the certification of the Executi
 
 > Credit for service performed as Commissioner may not exceed 313 days in a year before July 1, 1945, or 260 days in a year after June 30, 1945. For the purpose of this subchapter, the employment and pay of a Commissioner is deemed on a daily basis when actually employed.
 
-(j)(1) Notwithstanding any other provision of this section, military service, except military service covered by military leave with pay from a civilian position, performed by an individual after December 1956, the period of an individual's services as a volunteer under part A of title VIII of the Economic Opportunity Act of 1964, the period of an individual's service as a full-time volunteer enrolled in a program of at least 1 year's duration under part A, B, or C of title I of the Domestic Volunteer Service Act of 1973, and the period of an individual's service as a volunteer or volunteer leader under chapter 34 of title 22, shall be excluded in determining the aggregate period of service on which an annuity payable under this subchapter to the individual or to his spouse, former spouse or child is based, if the individual, spouse, former spouse, or child is entitled, or would on proper application be entitled, at the time of that determination, to monthly old-age or survivors benefits under section 402 of title 42 based on the individual's wages and self-employment income. If the military service or service as a volunteer under part A of title VIII of the Economic Opportunity Act of 1964, as a full-time volunteer enrolled in a program of at least 1 year's duration under part A, B, or C of title I of the Domestic Volunteer Service Act of 1973, or as a volunteer or volunteer leader under chapter 34 of title 22 is not excluded by the preceding sentence, but on becoming 62 years of age, the individual or spouse, former spouse <sup>3</sup> becomes entitled, or would on proper application be entitled, to the described benefits, the Office of Personnel Management shall redetermine the aggregate period of service on which the annuity is based, effective as of the first day of the month in which he or she becomes 62 years of age, so as to exclude that service. The Secretary of Health, Education, and Welfare, on request of the Office, shall inform the Office whether or not the individual, spouse, former spouse, or child is entitled at any named time to the described benefits. For the purpose of this subsection, the period of an individual's service as a volunteer or volunteer leader under chapter 34 of title 22 is the period between enrollment as a volunteer or volunteer leader and termination of that service by the President or by death or resignation and the period of an individual's service as a volunteer under part A of title VIII of the Economic Opportunity Act of 1964 or under part A, B, or C of title I of the Domestic Volunteer Service Act of 1973 is the period between enrollment as a volunteer and termination of that service by the Director of the Office of Economic Opportunity or the Chief Executive Officer of the Corporation for National and Community Service, as appropriate, or by death or resignation.
+(j)(1) Notwithstanding any other provision of this section, military service, except military service covered by military leave with pay from a civilian position, performed by an individual after December 1956, the period of an individual's services as a volunteer under part A of title VIII of the Economic Opportunity Act of 1964, the period of an individual's service as a full-time volunteer enrolled in a program of at least 1 year's duration under part A, B, or C of title I of the Domestic Volunteer Service Act of 1973, and the period of an individual's service as a volunteer or volunteer leader under chapter 34 of title 22, shall be excluded in determining the aggregate period of service on which an annuity payable under this subchapter to the individual or to his spouse, former spouse or child is based,if the individual, spouse, former spouse, or child is entitled, or would on proper application be entitled, at the time of that determination, to monthly old-age or survivors benefits under section 402 of title 42 based on the individual's wages and self-employment income. If the military service or service as a volunteer under part A of title VIII of the Economic Opportunity Act of 1964, as a full-time volunteer enrolled in a program of at least 1 year's duration under part A, B, or C of title I of the Domestic Volunteer Service Act of 1973, or as a volunteer or volunteer leader under chapter 34 of title 22 is not excluded by the preceding sentence, but on becoming 62 years of age, the individual or spouse, former spouse <sup>3</sup> becomes entitled, or would on proper application be entitled, to the described benefits, the Office of Personnel Management shall redetermine the aggregate period of service on which the annuity is based, effective as of the first day of the month in which he or she becomes 62 years of age, so as to exclude that service. The Secretary of Health, Education, and Welfare, on request of the Office, shall inform the Office whether or not the individual, spouse, former spouse, or child is entitled at any named time to the described benefits. For the purpose of this subsection, the period of an individual's service as a volunteer or volunteer leader under chapter 34 of title 22 is the period between enrollment as a volunteer or volunteer leader and termination of that service by the President or by death or resignation and the period of an individual's service as a volunteer under part A of title VIII of the Economic Opportunity Act of 1964 or under part A, B, or C of title I of the Domestic Volunteer Service Act of 1973 is the period between enrollment as a volunteer and termination of that service by the Director of the Office of Economic Opportunity or the Chief Executive Officer of the Corporation for National and Community Service, as appropriate, or by death or resignation.
 
 (2) The provisions of paragraph (1) of this subsection relating to credit for military service shall not apply to—
 
@@ -120,11 +122,11 @@ The Office of Personnel Management shall accept the certification of the Executi
 
 &emsp;(B) the service of any employee or Member described in section 8332(c)(1)(B) of this title.
 
-(3) The provisions of paragraph (1) relating to credit for service as a volunteer or volunteer leader under the Economic Opportunity Act of 1964, part A, B, or C of title I of the Domestic Volunteer Service Act of 1973, or the Peace Corps Act shall not apply to any period of service as a volunteer or volunteer leader of an employee or Member with respect to which the employee or Member has made the deposit with interest, if any, required by section 8334(<i>l).</i>
+(3) The provisions of paragraph (1) relating to credit for service as a volunteer or volunteer leader under the Economic Opportunity Act of 1964, part A, B, or C of title I of the Domestic Volunteer Service Act of 1973, or the Peace Corps Act shall not apply to any period of service as a volunteer or volunteer leader of an employee or Member with respect to which the employee or Member has made the deposit with interest, if any, required by section 8334(<i>l</i>).
 
 (k)(1) An employee who enters on approved leave without pay to serve as a full-time officer or employee of an organization composed primarily of employees as defined by section 8331(1) of this title, within 60 days after entering on that leave without pay, may file with his employing agency an election to receive full retirement credit for his periods of that leave without pay and arrange to pay currently into the Fund, through his employing agency, amounts equal to the retirement deductions and agency contributions that would be applicable if he were in pay status. If the election and all payments provided by this paragraph are not made, the employee may not receive credit for the periods of leave without pay occurring after July 17, 1966, notwithstanding the third <sup>4</sup> sentence of subsection (f) of this section. For the purpose of the preceding sentence, “employee” includes an employee who was on approved leave without pay and serving as a full-time officer or employee of such an organization on July 18, 1966, and who filed a similar election before September 17, 1966.
 
-(2) An employee may deposit with interest an amount equal to retirement deductions representing any period or periods of approvedleave without pay while serving, before July 18, 1966, as a full-time officer or employee of an organization composed primarily of employees as defined by section 8331(1) of this title. An employee who makes the deposit shall be allowed full retirement credit for the period or periods of leave without pay. If the employee dies, a survivor as defined by section 8331(10) of this title may make the deposit. If the deposit is not made in full, retirement credit shall be allowed in accordance with the third <sup>4</sup> sentence of subsection (f) of this section.
+(2) An employee may deposit with interest an amount equal to retirement deductions representing any period or periods of approved leave without pay while serving, before July 18, 1966, as a full-time officer or employee of an organization composed primarily of employees as defined by section 8331(1) of this title. An employee who makes the deposit shall be allowed full retirement credit for the period or periods of leave without pay. If the employee dies, a survivor as defined by section 8331(10) of this title may make the deposit. If the deposit is not made in full, retirement credit shall be allowed in accordance with the third <sup>4</sup> sentence of subsection (f) of this section.
 
 (<i>l</i>)(1) Any employee or Member who—
 
@@ -166,7 +168,7 @@ The Office of Personnel Management shall accept the certification of the Executi
 
 > shall be treated for all purposes of this subchapter as if any service that would have been creditable under the retirement system established under section 10 of the Federal Reserve Act was service performed while subject to this subchapter if any employee and employer deductions, contributions or rights with respect to the employee's service are transferred from such retirement system to the Fund.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 567; Pub. L. 90–83, §1(73), Sept. 11, 1967, 81 Stat. 214; Pub. L. 90–486, §5(a), Aug. 13, 1968, 82 Stat. 757; Pub. L. 91–177, title I, §112(a), Dec. 30, 1969, 83 Stat. 831; Pub. L. 91–510, title IV, §442(b), Oct. 26, 1970, 84 Stat. 1191; Pub. L. 91–658, §1, Jan. 8, 1971, 84 Stat. 1961; Pub. L. 92–297, §7(1), May 16, 1972, 86 Stat. 144; Pub. L. 92–454, §1, Oct. 2, 1972, 86 Stat. 760; Pub. L. 93–113, title VI, §602, Oct. 1, 1973, 87 Stat. 417; Pub. L. 94–183, §2(32), (33), (39), Dec. 31, 1975, 89 Stat. 1058, 1059; Pub. L. 95–382, §1(a), Sept. 22, 1978, 92 Stat. 727; Pub. L. 95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 96–54, §2(a)(48), Aug. 14, 1979, 93 Stat. 384; Pub. L. 96–465, title II, §2313, Oct. 17, 1980, 94 Stat. 2167; Pub. L. 96–523, §4(a), Dec. 12, 1980, 94 Stat. 3040; Pub. L. 97–164, title II, §207(a), Apr. 2, 1982, 96 Stat. 54; Pub. L. 97–253, title III, §306(b), (c), Sept. 8, 1982, 96 Stat. 795, 796; Pub. L. 97–346, §3(a), (b), Oct. 15, 1982, 96 Stat. 1647; Pub. L. 98–51, title I, §111(2), July 14, 1983, 97 Stat. 269; Pub. L. 89–702, title II, §209(a)–(e), as added Pub. L. 98–129, §2, Oct. 14, 1983, 97 Stat. 843; Pub. L. 98–369, div. B, title II, §2208(a), July 18, 1984, 98 Stat. 1060; Pub. L. 99–251, title II, §202, Feb. 27, 1986, 100 Stat. 23; Pub. L. 99–335, title II, §207(g), June 6, 1986, 100 Stat. 595; Pub. L. 99–556, title V, §502(a), Oct. 27, 1986, 100 Stat. 3140; Pub. L. 99–638, §2(b)(2), Nov. 10, 1986, 100 Stat. 3536; Pub. L. 100–204, title V, §503, Dec. 22, 1987, 101 Stat. 1383; Pub. L. 101–530, §1, Nov. 6, 1990, 104 Stat. 2338; Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–242, title IV, §466(a), Dec. 19, 1991, 105 Stat. 2384; Pub. L. 102–378, §2(58),Oct. 2, 1992, 106 Stat. 1354; Pub. L. 103–82, title III, §371(a)(1), title IV, §405(b), Sept. 21, 1993, 107 Stat. 909, 921; Pub. L. 103–337, div. A, title XVI, §1677(a)(3), Oct. 5, 1994, 108 Stat. 3019.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 567; Pub. L. 90–83, §1(73), Sept. 11, 1967, 81 Stat. 214; Pub. L. 90–486, §5(a), Aug. 13, 1968, 82 Stat. 757; Pub. L. 91–177, title I, §112(a), Dec. 30, 1969, 83 Stat. 831; Pub. L. 91–510, title IV, §442(b), Oct. 26, 1970, 84 Stat. 1191; Pub. L. 91–658, §1, Jan. 8, 1971, 84 Stat. 1961; Pub. L. 92–297, §7(1), May 16, 1972, 86 Stat. 144; Pub. L. 92–454, §1, Oct. 2, 1972, 86 Stat. 760; Pub. L. 93–113, title VI, §602, Oct. 1, 1973, 87 Stat. 417; Pub. L. 94–183, §2(32), (33), (39), Dec. 31, 1975, 89 Stat. 1058, 1059; Pub. L. 95–382, §1(a), Sept. 22, 1978, 92 Stat. 727; Pub. L. 95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 96–54, §2(a)(48), Aug. 14, 1979, 93 Stat. 384; Pub. L. 96–465, title II, §2313, Oct. 17, 1980, 94 Stat. 2167; Pub. L. 96–523, §4(a), Dec. 12, 1980, 94 Stat. 3040; Pub. L. 97–164, title II, §207(a), Apr. 2, 1982, 96 Stat. 54; Pub. L. 97–253, title III, §306(b), (c), Sept. 8, 1982, 96 Stat. 795, 796; Pub. L. 97–346, §3(a), (b), Oct. 15, 1982, 96 Stat. 1647; Pub. L. 98–51, title I, §111(2), July 14, 1983, 97 Stat. 269; Pub. L. 89–702, title II, §209(a)–(e), as added Pub. L. 98–129, §2, Oct. 14, 1983, 97 Stat. 843; Pub. L. 98–369, div. B, title II, §2208(a), July 18, 1984, 98 Stat. 1060; Pub. L. 99–251, title II, §202, Feb. 27, 1986, 100 Stat. 23; Pub. L. 99–335, title II, §207(g), June 6, 1986, 100 Stat. 595; Pub. L. 99–556, title V, §502(a), Oct. 27, 1986, 100 Stat. 3140; Pub. L. 99–638, §2(b)(2), Nov. 10, 1986, 100 Stat. 3536; Pub. L. 100–204, title V, §503, Dec. 22, 1987, 101 Stat. 1383; Pub. L. 101–530, §1, Nov. 6, 1990, 104 Stat. 2338; Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–242, title IV, §466(a), Dec. 19, 1991, 105 Stat. 2384; Pub. L. 102–378, §2(58), Oct. 2, 1992, 106 Stat. 1354; Pub. L. 103–82, title III, §371(a)(1), title IV, §405(b), Sept. 21, 1993, 107 Stat. 909, 921; Pub. L. 103–337, div. A, title XVI, §1677(a)(3), Oct. 5, 1994, 108 Stat. 3019; Pub. L. 104–186, title II, §215(11), Aug. 20, 1996, 110 Stat. 1746; Pub. L. 104–201, div. A, title VI, §637(a), Sept. 23, 1996, 110 Stat. 2580.)
 
 Historical and Revision Notes<br>1966
 
@@ -176,7 +178,9 @@ Act
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 5 U.S.C. 2253 (less (f) and (g)).
 
@@ -282,7 +286,7 @@ The effective date of this paragraph, referred to in subsec. (b)(14), is Oct. 14
 
 The date of the enactment of the Nonappropriated Fund Instrumentalities Employees’ Retirement Credit Act of 1986, referred to in subsec. (b)(16), is the date of enactment of section 2 of Pub. L. 99–638, which was approved Nov. 10, 1986.
 
-Chapter 67 of that title as in effect before the effective date of the Reserve Officer Personnel Management Act, referred to in subsec. (c)(2)(B), means chapter 67 (§1331 et seq.) of Title 10, Armed Forces, prior to itstransfer to part II of subtitle E of Title 10, its renumbering as chapter 1223, and its general revision by section 1662(j)(1) of Pub. L. 103–337. A new chapter 67 (§1331) of Title 10 was added by section 1662(j)(7) of Pub. L. 103–337. For effective date of the Reserve Officer Personnel Management Act (Pub. L. 103–337, title XVI), see section 1691 of Pub. L. 103–337, set out as an Effective Date note under section 10001 of Title 10.
+Chapter 67 of that title as in effect before the effective date of the Reserve Officer Personnel Management Act, referred to in subsec. (c)(2)(B), means chapter 67 (§1331 et seq.) of Title 10, Armed Forces, prior to its transfer to part II of subtitle E of Title 10, its renumbering as chapter 1223, and its general revision by section 1662(j)(1) of Pub. L. 103–337. A new chapter 67 (§1331) of Title 10 was added by section 1662(j)(7) of Pub. L. 103–337. For effective date of the Reserve Officer Personnel Management Act (Pub. L. 103–337, title XVI), see section 1691 of Pub. L. 103–337, set out as an Effective Date note under section 10001 of Title 10.
 
 The Peace Corps Act, referred to in subsec. (j)(3), is Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, as amended, which is classified principally to chapter 34 (§2501 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of Title 22 and Tables.
 
@@ -300,9 +304,15 @@ Section 10 of the Federal Reserve Act, referred to in subsec. (n), is section 10
 
 #### Amendments
 
-<b>1994</b>—Subsec. (c)(2)(B). Pub. L. 103–337 substituted “chapter 1223 of title 10 (or under chapter 67 of that title as in effect before the effective date of the Reserve Officer Personnel Management Act)” for “chapter 67 of title 10”.
+1996—Subsec. (b). Pub. L. 104–186 substituted “Chief Administrative Officer” for “Clerk” in fourth sentence of concluding provisions.
 
-<b>1993</b>—Subsec. (j)(1). Pub. L. 103–82, §405(b), which directed that “the Chief Executive Officer of the Corporation for National and Community Service” be substituted for “the Director of ACTION”, could not be executed because “the Director of ACTION” does not appear in text.
+Subsec. (c)(1). Pub. L. 104–201, §637(a)(2), in introductory provisions, substituted “Except as provided inparagraphs (2) and (4)” for “Except as provided in paragraph (2)”.
+
+Subsec. (c)(4). Pub. L. 104–201, §637(a)(1), added par. (4).
+
+1994—Subsec. (c)(2)(B). Pub. L. 103–337 substituted “chapter 1223 of title 10 (or under chapter 67 of that title as in effect before the effective date of the Reserve Officer Personnel Management Act)” for “chapter 67 of title 10”.
+
+1993—Subsec. (j)(1). Pub. L. 103–82, §405(b), which directed that “the Chief Executive Officer of the Corporation for National and Community Service” be substituted for “the Director of ACTION”, could not be executed because “the Director of ACTION” does not appear in text.
 
 Pub. L. 103–82, §371(a)(1)(A)(i), in first sentence inserted “the period of an individual's service as a full-time volunteer enrolled in a program of at least 1 year's duration under part A, B, or C of title I of the Domestic Volunteer Service Act of 1973,” after “Economic Opportunity Act of 1964,”.
 
@@ -312,17 +322,17 @@ Pub. L. 103–82, §371(a)(1)(A)(iii), in last sentence inserted “or under par
 
 Subsec. (j)(3). Pub. L. 103–82, §371(a)(1)(B), added par. (3).
 
-<b>1992</b>—Subsec. (b). Pub. L. 102–378 substituted “paragraph (16)” for “paragrpah (16)”.
+1992—Subsec. (b). Pub. L. 102–378 substituted “paragraph (16)” for “paragrpah (16)”.
 
-<b>1991</b>—Subsec. (c)(2)(A)(ii). Pub. L. 102–83 substituted “section 1101 of title 38” for “section 301 of title 38”.
+1991—Subsec. (c)(2)(A)(ii). Pub. L. 102–83 substituted “section 1101 of title 38” for “section 301 of title 38”.
 
 Subsec. (n). Pub. L. 102–242 added subsec. (n).
 
-<b>1990</b>—Subsec. (b). Pub. L. 101–530 struck out at beginning of last paragraph “service referred to in paragraph (6) is allowable only in the case of persons performing service under section 709 of title 32 after December 31, 1968.”
+1990—Subsec. (b). Pub. L. 101–530 struck out at beginning of last paragraph “service referred to in paragraph (6) is allowable only in the case of persons performing service under section 709 of title 32 after December 31, 1968.”
 
-<b>1987</b>—Subsec. (b). Pub. L. 100–204 inserted “, and the Secretary of State with respect to the Asia Foundation and the Secretary of Defense with respect to the Armed Forces Network, Europe (AFN–E),” after “Board for International Broadcasting” in last paragraph.
+1987—Subsec. (b). Pub. L. 100–204 inserted “, and the Secretary of State with respect to the Asia Foundation and the Secretary of Defense with respect to the Armed Forces Network, Europe (AFN–E),” after “Board for International Broadcasting” in last paragraph.
 
-<b>1986</b>—Subsec. (b). Pub. L. 99–638 which directed the amendment of subchapter (b) of section 8332 by adding par. (16) and closing provision relating to acceptance by the Office of Personnel Management of the certification of a nonappropriated fund instrumentality concerning service of the type described in par. (16) was executed to subsec. (b) of this section, as the probable intent of Congress.
+1986—Subsec. (b). Pub. L. 99–638 which directed the amendment of subchapter (b) of section 8332 by adding par. (16) and closing provision relating to acceptance by the Office of Personnel Management of the certification of a nonappropriated fund instrumentality concerning service of the type described in par. (16) was executed to subsec. (b) of this section, as the probable intent of Congress.
 
 Pub. L. 99–335, §207(g)(1)(C), (D), substituted “paragraph (14)” for “paragraph (13)” in second sentence following par. (15), and inserted last sentence providing that for purposes of this subchapter, service of the type described in par. (15) of this subsection shall be considered Member service.
 
@@ -336,9 +346,9 @@ Subsec. (j)(1). Pub. L. 99–251 substituted “spouse, former spouse” for “
 
 Subsec. (k). Pub. L. 99–335, §207(g)(3), which directed the substitution of “third” for “second” in last sentence of par. (1), was executed by substituting “third” for “second” in penultimate sentence of par. (1) and last sentence of par. (2) as the probable intent of Congress.
 
-<b>1984</b>—Subsec. (b)(13). Pub. L. 98–369 inserted in the par. (13) added by Pub. L. 98–129 “, and regardless of whether the Native who performs the service retires before, on, or after the effective date of this paragraph”.
+1984—Subsec. (b)(13). Pub. L. 98–369 inserted in the par. (13) added by Pub. L. 98–129 “, and regardless of whether the Native who performs the service retires before, on, or after the effective date of this paragraph”.
 
-<b>1983</b>—Subsec. (b). Pub. L. 98–129 substituted “Except as provided in paragraph (13) of this subsection, credit” for “Credit” in provisions preceding par. (1), and inserted in provisions immediately following par. (13) the sentence providing that the Office of Personnel Management shall accept the certification of the Secretary of Commerce or his designee concerning service for the purpose of this subchapter of the type performed by an employee named by par. (13) of this subsection.
+1983—Subsec. (b). Pub. L. 98–129 substituted “Except as provided in paragraph (13) of this subsection, credit” for “Credit” in provisions preceding par. (1), and inserted in provisions immediately following par. (13) the sentence providing that the Office of Personnel Management shall accept the certification of the Secretary of Commerce or his designee concerning service for the purpose of this subchapter of the type performed by an employee named by par. (13) of this subsection.
 
 Pub. L. 98–51, §111(2)(D), inserted in provisions immediately following par. (13) the sentence providing that the Office of Personnel Management shall accept the certification of the Clerk of the House of Representatives concerning service for the purpose of this subchapter of the type described in par. (13) of this subsection.
 
@@ -350,7 +360,7 @@ Subsec. (f). Pub. L. 98–129 inserted “and service described in paragraph (13
 
 Subsec. (<i>l</i>)(1)(C). Pub. L. 98–129 added subpar. (C).
 
-<b>1982</b>—Subsec. (b)(12). Pub. L. 97–164 added par. (12).
+1982—Subsec. (b)(12). Pub. L. 97–164 added par. (12).
 
 Subsec. (c). Pub. L. 97–253, §306(b), designated existing first sentence as par. (1), inserted provision differentiating between individuals who become employees or Members before Oct. 1, 1982, and those who become so on or after Oct. 1, 1982, and designated existing second sentence as par. (2) with accommodating redesignations of paragraphs and subparagraphs as subparagraphs and clauses accordingly.
 
@@ -362,45 +372,49 @@ Subsec. (j). Pub. L. 97–253, §306(c), redesignated existing provisions as par
 
 Subsec. (j)(2)(A). Pub. L. 97–346, §3(a), substituted “period” for “month”.
 
-<b>1980</b>—Subsec. (b)(10), (11). Pub. L. 96–465 added pars. (10) and (11) and last sentence relating to acceptance by the Office of Personnel Management of the certification of the Executive Director of the Board for International Broadcasting.
+1980—Subsec. (b)(10), (11). Pub. L. 96–465 added pars. (10) and (11) and last sentence relating to acceptance by the Office of Personnel Management of the certification of the Executive Director of the Board for International Broadcasting.
 
 Subsec. (m). Pub. L. 96–523 added subsec. (m).
 
-<b>1979</b>—Subsec. (b). Pub. L. 96–54, §2(a)(48)(B), substituted “after December 31, 1968” for “United States Code, on or after the effective date of the National Guard Technicians Act of 1968” in last sentence.
+1979—Subsec. (b). Pub. L. 96–54, §2(a)(48)(B), substituted “after December 31, 1968” for “United States Code, on or after the effective date of the National Guard Technicians Act of 1968” in last sentence.
 
 Subsec. (b)(6). Pub. L. 96–54, §2(a)(48)(A), struck out “, United States Code” after “32”.
 
-<b>1978</b>—Subsecs. (b), (j). Pub. L. 95–454 substituted “Office of Personnel Management” and “Office” for “Civil Service Commission” and “Commission”, respectively, wherever appearing.
+1978—Subsecs. (b), (j). Pub. L. 95–454 substituted “Office of Personnel Management” and “Office” for “Civil Service Commission” and “Commission”, respectively, wherever appearing.
 
-Subsec. (<i>l</i>). Pub. L. 95–382 added subsec. (<i>l).</i>
+Subsec. (<i>l</i>). Pub. L. 95–382 added subsec. (<i>l</i>).
 
-<b>1975</b>—Subsec. (b)(7). Pub. L. 94–183, §2(39), struck out “(—U.S.C.—)” after “Domestic Volunteer Service Act of 1973”.
+1975—Subsec. (b)(7). Pub. L. 94–183, §2(39), struck out “(—U.S.C.—)” after “Domestic Volunteer Service Act of 1973”.
 
 Subsec. (b)(8). Pub. L. 94–183, §2(32), substituted “after February 18, 1929, and before noon on January 3, 1971” for “on and after February 19, 1929, and prior to the effective date of section 442 of the Legislative Reorganization Act of 1970”.
 
 Subsec. (b)(9). Pub. L. 94–183, §2(33), substituted “8339(i)” for “8339(h)”.
 
-<b>1973</b>—Subsec. (b)(7). Pub. L. 93–113 included period of service of a full-time volunteer enrolled in a program of at least one year's duration under part A, B, or C of title I of the Domestic Volunteer Service Act of 1973.
+1973—Subsec. (b)(7). Pub. L. 93–113 included period of service of a full-time volunteer enrolled in a program of at least one year's duration under part A, B, or C of title I of the Domestic Volunteer Service Act of 1973.
 
-<b>1972</b>—Subsec. (b). Pub. L. 92–454 added par. (9).
+1972—Subsec. (b). Pub. L. 92–454 added par. (9).
 
 Pub. L. 92–297 substituted “8339(i)” for “8339(h)” in pars. (3) and (8).
 
-<b>1971</b>—Subsec. (f). Pub. L. 91–658 provided for leave-without-pay status for retirement purposes of employees or former employees who return to duty after a period of separation during which compensation benefits were received.
+1971—Subsec. (f). Pub. L. 91–658 provided for leave-without-pay status for retirement purposes of employees or former employees who return to duty after a period of separation during which compensation benefits were received.
 
-<b>1970</b>—Subsec. (b). Pub. L. 91–510 added par. (8) and provision for Civil Service Commission acceptance of certification of Capitol Guide Board concerning service for purpose of this subchapter, respectively.
+1970—Subsec. (b). Pub. L. 91–510 added par. (8) and provision for Civil Service Commission acceptance of certification of Capitol Guide Board concerning service for purpose of this subchapter, respectively.
 
-<b>1969</b>—Subsec. (b)(7). Pub. L. 91–177, §112(a)(1), added par. (7).
+1969—Subsec. (b)(7). Pub. L. 91–177, §112(a)(1), added par. (7).
 
 Subsec. (j). Pub. L. 91–177, §112(a)(2), excluded period of an individual's services as a VISTA volunteer under part A of subchapter VIII of title 42, from aggregate period of service determining annuity payments.
 
 Pub. L. 91–177, §112(a)(3), inserted provision for computation of period of service of a VISTA volunteer under part A of subchapter VIII of title 42.
 
-<b>1968</b>—Subsec. (b). Pub. L. 90–486 added par. (6), and provisions that service referred to in par. (6) is allowable only in the case of persons performing service under section 709 of title 32, on or after the specified effective date.
+1968—Subsec. (b). Pub. L. 90–486 added par. (6), and provisions that service referred to in par. (6) is allowable only in the case of persons performing service under section 709 of title 32, on or after the specified effective date.
 
 #### Change of Name
 
 Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 3508 of Title 20, Education.
+
+#### Effective Date of 1996 Amendment
+
+Section 637(c) of Pub. L. 104–201 provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 8411 of this title\] shall take effect on January 1, 1997.”
 
 #### Effective Date of 1994 Amendment
 
@@ -448,7 +462,7 @@ Old-age or survivors insurance benefits.—Subject to subparagraph (B), in any c
 
 &emsp;&emsp;“(i) the numerator of which is the total of the wages (within the meaning of section 209 of the Social Security Act \[42 U.S.C. 409\]) for service as a volunteer or volunteer leader under the Economic Opportunity Act of 1964, the Domestic Volunteer Service Act of 1973, or the Peace Corps Act of such individual credited for years before the calendar year in which the determination month occurs, up to the contribution and benefit base determined under section 230 of the Social Security Act \[42 U.S.C. 430\] (or other applicable maximum annual amount referred to in section 215(e)(1) of such Act \[42 U.S.C. 415(e)(1)\] for each such year); and
 
-&emsp;&emsp;“(ii) the denominator of which is the total of all wages described in clause (i), plus all other wages (within the meaning of section 209 of such Act \[42 U.S.C. 409\]) and all self-employment income (within the meaning of section 211(b) of such Act \[42 U.S.C. 411(b)\]) of such individual credited for years after 1936 and before the calendar year in which the determination month occurs, up to the contribution and benefit base (or such other amount referred toin section 215(e)(1) of such Act \[42 U.S.C. 415(e)(1)\] for each such year.
+&emsp;&emsp;“(ii) the denominator of which is the total of all wages described in clause (i), plus all other wages (within the meaning of section 209 of such Act \[42 U.S.C. 409\]) and all self-employment income (within the meaning of section 211(b) of such Act \[42 U.S.C. 411(b)\]) of such individual credited for years after 1936 and before the calendar year in which the determination month occurs, up to the contribution and benefit base (or such other amount referred to in section 215(e)(1) of such Act \[42 U.S.C. 415(e)(1)\] for each such year.
 
 &emsp;“(B)
 
@@ -472,7 +486,7 @@ Determination month.—For purposes of this paragraph, the term ‘determination
 
 &emsp;&emsp;“(iv)
 
-Rule relating to annuities based on earlier separations.—Any increase in an annuity which occurs by virtue of the enactment of this paragraph shall be effective beginning with the annuity payment payable for the first calendar month beginning after the effective date of this subtitle \[Oct. 1, 1993\].
+Rule relating to annuities based on earlier separations.—Any increase in an annuity which occurs by virtue of the enactment of thisparagraph shall be effective beginning with the annuity payment payable for the first calendar month beginning after the effective date of this subtitle \[Oct. 1, 1993\].
 
 “(3)
 
@@ -544,7 +558,7 @@ Section 502(c) of Pub. L. 99–556 provided that:
 
 “(1) The amendments made by this section \[amending this section and section 8411 of this title\] shall apply to a survivor of an employee or Member who dies on or after the 180th day after the date of the enactment of this Act \[Oct. 27, 1986\].
 
-“(2) Upon application to the Office of Personnel Management, such amendments shall also apply to a survivor of an employee or Member whose date of deathprecedes such 180th day, except that any resulting recomputation shall not be effective for any period beginning before the 60th day after the date on which the application is received.”
+“(2) Upon application to the Office of Personnel Management, such amendments shall also apply to a survivor of an employee or Member whose date of death precedes such 180th day, except that any resulting recomputation shall not be effective for any period beginning before the 60th day after the date on which the application is received.”
 
 Amendment by Pub. L. 99–335 effective Jan. 1, 1987, see section 702(a) of Pub. L. 99–335, set out as an Effective Date note under section 8401 of this title.
 
@@ -560,7 +574,7 @@ Section 111(2) of Pub. L. 98–51 provided that the amendment made by that secti
 
 Section 3(n) of Pub. L. 97–346 provided that: “The amendments made by this section \[amending this section and sections 8334, 8342, 8344, and 8348 of this title and provisions set out as notes under this section and sections 5504, 5532, 5728, 8331, 8334, and 8337 of this title\] shall take effect as of the date of the enactment of the Omnibus Budget Reconciliation Act of 1982 \[Sept. 8, 1982\].”
 
-Amendment by Pub. L. 97–253 effective Oct. 1, 1982, except that any employee or Member who retired after Sept. 8, 1982, and before Oct. 1, 1985, or is entitled to an annuity under chapter 83 of this title based on a separation from service occurring during such period, or a survivor of such individual, may make a payment under section 8334(j)(1) of this title, and regulations required to be issued under section 8334(j)(1) of this title, to be issued by the Office of Personnel Management within 90 days after such effective date, see section 306(g) of Pub. L. 97–253, as amended, set out as a note under section 8331 of this title.
+Amendment by Pub. L. 97–253 effective Oct. 1, 1982, except that any employee or Member who retired after Sept. 8, 1982, and before Oct. 1, 1985, or is entitled to an annuity under chapter 83 of this title based on a separation from service occurring during such period, or a survivor of such individual, may make a paymentunder section 8334(j)(1) of this title, and regulations required to be issued under section 8334(j)(1) of this title, to be issued by the Office of Personnel Management within 90 days after such effective date, see section 306(g) of Pub. L. 97–253, as amended, set out as a note under section 8331 of this title.
 
 Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L. 97–164, set out as a note under section 171 of Title 28, Judiciary and Judicial Procedure.
 
@@ -590,7 +604,7 @@ Section 2 of Pub. L. 95–382 provided that:
 
 “(b) Subject to subsection (c) of this section, the amendments made by the first section of this Act \[amending this section and section 8334 of this title\], shall apply with respect to annuities which commence before, on, or after the effective date of this Act, but no monetary benefit by reason of such amendments shall accrue for any period before such effective date.
 
-“(c)(1) An annuity or survivor annuity based on the service of an employee or Member who performed service described in section 8332(<i>l</i>) of title 5, United States Code, as added by the first section of this Act, shall, upon application to the Civil Service Commission, be recomputed in accordance with such section 8332(<i>l).</i>
+“(c)(1) An annuity or survivor annuity based on the service of an employee or Member who performed service described in section 8332(<i>l</i>) of title 5, United States Code, as added by the first section of this Act, shall, upon application to the Civil Service Commission, be recomputed in accordance with such section 8332(<i>l</i>).
 
 “(2) Any recomputation of an annuity under paragraph (1) shall apply with respect to months beginning more than 30 days after the date on which application for such recomputation is received in the Commission.
 
@@ -624,10 +638,6 @@ Amendment by Pub. L. 90–486 effective Jan. 1, 1969, except that no deductions 
 
 Section 4 of Pub. L. 101–530 provided that: “The Office of Personnel Management shall prescribe any regulations necessary for the implementation of this Act \[amending this section, enacting provisions set out as a note above, and enacting and amending provisions set out as notes under section 709 of Title 32, National Guard\].”
 
-#### Transfer of Functions
-
-Certain functions of Clerk of House of Representatives transferred to Director of Non-legislative and Financial Services by section 7 of House Resolution No. 423, One Hundred Second Congress, Apr. 9, 1992. Director of Non-legislative and Financial Services replaced by Chief Administrative Officer of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
-
 #### Creditability of ICC Employee's Annual Leave for Purposes of Meeting Minimum Eligibility Requirements for Immediate Annuity
 
 Pub. L. 104–88, title I, §105, Dec. 29, 1995, 109 Stat. 920, provided that:
@@ -642,7 +652,7 @@ Limitation and Other Conditions.—Any regulations necessary to carry out this s
 
 &emsp;“(1) defining the types of leave for which credit may be given under this section (such definition to be similar to the corresponding provisions of the regulations under section 351.608(c)(2) of title 5 of the Code of Federal Regulations, as in effect on the date of the enactment of this Act \[Dec. 29, 1995\]);
 
-&emsp;“(2) limiting the amount of accrued annual leave which may be used for the purposes specified in subsection (a) to the minimum period of time necessary in order to permit such employee to attain first eligibility for an immediate annuity under section 8336, 8412, or 8414 of title 5, United States Code (in a manner similar to the corresponding provisions of the regulations referred to in paragraph (1));
+&emsp;“(2) limiting the amount of accrued annual leave which may be used for the purposes specified in subsection (a) to the minimum period of time necessaryin order to permit such employee to attain first eligibility for an immediate annuity under section 8336, 8412, or 8414 of title 5, United States Code (in a manner similar to the corresponding provisions of the regulations referred to in paragraph (1));
 
 &emsp;“(3) under which contributions (or arrangements for the making of contributions) shall be made so that—
 
@@ -744,7 +754,7 @@ Section 1 of Pub. L. 99–638 provided: “That (a) service described in subsect
 
 “(c)(1) An individual may not receive credit for service pursuant to this Act \[amending sections 2105 and 8332 of this title and enacting provisions set out as notes under sections 8331 and 8332 of this title\] unless—
 
-&emsp;“(A) within 14 months after the date of the enactment of this Act \[Nov. 10, 1986\], and in accordance with regulations under subsection (d), the individual files appropriate written application with the Office of Personnel Management;
+&emsp;“(A) within 14 months after the date of the enactment of this Act \[Nov. 10, 1986\], and in accordancewith regulations under subsection (d), the individual files appropriate written application with the Office of Personnel Management;
 
 &emsp;“(B) at the time of filing the application under subparagraph (A), the individual is employed by the Government and subject to subchapter III of chapter 83 of title 5, United States Code (other than section 8344 of such title), or chapter 84 of such title (other than section 8468 of such title);
 
@@ -780,7 +790,7 @@ Section 307 of Pub. L. 97–253, as amended by Pub. L. 97–346, §3(k), Oct. 15
 
 #### District of Columbia Substitute Teachers
 
-Section 2 of Pub. L. 92–454 provided that: “An annuity or survivor annuity based on the service of an employeeor annuitant who performed service described in section 1 of this Act \[amending this section\] shall, upon application to the Civil Service Commission, be recomputed, effective on the first day of the first month following the date of enactment of this Act \[Oct. 2, 1972\], in accordance with section 1 of this Act.”
+Section 2 of Pub. L. 92–454 provided that: “An annuity or survivor annuity based on the service of an employee or annuitant who performed service described in section 1 of this Act \[amending this section\] shall, upon application to the Civil Service Commission, be recomputed, effective on the first day of the first month following the date of enactment of this Act \[Oct. 2, 1972\], in accordance with section 1 of this Act.”
 
 #### National Guard Technicians
 
@@ -792,7 +802,7 @@ Section 6(a), (b) of Pub. L. 86–415, Apr. 8, 1960, 74 Stat. 35, provided that:
 
 “(a) Except as provided in subsection (b), service as a commissioned officer in the Regular Corps of the Public Health Service prior to July 1, 1960, shall be considered, for purposes of credit under the Civil Service Retirement Act \[this subchapter\], other than section 3(f) thereof \[section 8333(a) of this title\], as civilian service performed by an employee (as defined in such Act \[this subchapter\]) and commissioned officers of the Reserve Corps of the Public Health Service, subject to the Civil Service Retirement Act \[this subchapter\] on June 30, 1960, shall be considered as voluntarily separated on that date, with respect to service as such officers, from civilian positions subject to such Act \[this subchapter\].
 
-“(b) If a commissioned officer of the Regular or Reserve Corps of the Public Health Service is retired after June 30, 1960, and becomes entitled to retired pay from the Public Health Service, all service in the Regular or Reserve Corps of the Public Health Service prior to July 1, 1960, together with any other service which is performed at any time with the Public Health Service, other than as a commissioned officer, and which is credited to the officer for purposes of such retirement, shall be considered as military service for purposes of section 3(b) of the Civil Service Retirement Act \[subsecs. (c)–(e) of this section\]; except that, in the case of any such officer who is retired pursuant to subsection (a) of section 211 of the Public Health Service Act \[section 212(a) of Title 42\], any such service which was performed prior to July 1, 1960, which was subject to the Civil Service Retirement Act \[this subchapter\], and with respect to which he has not, prior to his retirement, received a refund of deductions under the Civil Service Retirement Act \[this subchapter\], shall not be considered as military service for purposes of such section 3(b) \[subsecs. (c)–(e) of this section\], but only if he waives his right to have such service included for purposes of computing the amount of his retired pay from the Service.”
+“(b) If a commissioned officer of the Regular or Reserve Corps of the Public Health Service is retired after June 30, 1960, and becomes entitled to retired pay from the Public Health Service, all service in the Regular or Reserve Corps of the Public Health Service prior to July 1, 1960, together with any other service which is performed at any time with the Public Health Service, other than as a commissioned officer, and which is credited to the officer for purposes of such retirement, shall be considered as military service for purposes of section 3(b) of the Civil Service Retirement Act \[subsecs. (c)–(e) of this section\]; except that, in the case of any such officer who is retired pursuant to subsection (a) of section 211 of the Public Health Service Act \[section 212(a) of Title 42\], any such service which was performed prior to July 1, 1960, which was subject to theCivil Service Retirement Act \[this subchapter\], and with respect to which he has not, prior to his retirement, received a refund of deductions under the Civil Service Retirement Act \[this subchapter\], shall not be considered as military service for purposes of such section 3(b) \[subsecs. (c)–(e) of this section\], but only if he waives his right to have such service included for purposes of computing the amount of his retired pay from the Service.”
 
 #### Section Referred to in Other Sections
 

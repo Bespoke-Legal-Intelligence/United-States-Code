@@ -1,4 +1,4 @@
-### §607 . Place of solicitation
+### §607. Place of solicitation
 
 (a) It shall be unlawful for any person to solicit or receive any contribution within the meaning of section 301(8) of the Federal Election Campaign Act of 1971 in any room or building occupied in the discharge of official duties by any person mentioned in section 603, or in any navy yard, fort, or arsenal. Any person who violates this section shall be fined under this title or imprisoned not more than three years, or both.
 

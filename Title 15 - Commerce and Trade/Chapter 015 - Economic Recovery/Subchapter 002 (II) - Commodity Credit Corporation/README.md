@@ -2,13 +2,11 @@
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in title 7 sections 1308–3, 1429, 1431, 1444, 1444–2, 1445–1, 1446c–1, 1736bb–6, 2250a, 5201, 5713; title 16 sections 3811, 3821; title 21 section 889.
+This subchapter is referred to in title 7 sections 1308–3, 1429, 1444, 1445–1, 1446c–1, 2250a, 5201, 5713, 7284, 7502; title 16 sections 3811, 3821; title 21 section 889.
 
 <i><sup>1</sup></i><i> So in original. The comma probably should be a semicolon.</i>
 
-<i><sup>2</sup></i><i> So in original. The period probably should be “; and”.</i>
-
-<i><sup>3</sup></i><i> So in original. Probably should be section “209(a)”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be section “209(a)”.</i>
 
 
 ---

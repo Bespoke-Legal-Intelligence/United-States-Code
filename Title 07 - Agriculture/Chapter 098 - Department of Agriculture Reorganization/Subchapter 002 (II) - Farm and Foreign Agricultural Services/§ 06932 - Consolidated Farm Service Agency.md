@@ -10,11 +10,11 @@ If the Secretary establishes the Consolidated Farm Service Agency under subsecti
 
 &emsp;(1) Agricultural price and income support programs, production adjustment programs, and related programs.
 
-&emsp;(2) General supervision of the Federal Crop Insurance Corporation.
+&emsp;(2) Repealed. Pub. L. 104–127, title I, §194(c), Apr. 4, 1996, 110 Stat. 946.
 
 &emsp;(3) Agricultural credit programs assigned before October 13, 1994, by law to the Farmers Home Administration (including farm ownership and operating, emergency, and disaster loan programs) and other lending programs for agricultural producers and others engaged in the production of agricultural commodities.
 
-&emsp;(4) Subchapter B of chapter 1 of subtitle D of title XII of the Food Security Act of 1985 (16 U.S.C. 3831–3836) and the agricultural conservation program under the Soil Conservation and Domestic Allotment Act (16 U.S.C. 590g et seq.).
+&emsp;(4) Subchapter B of chapter 1 of subtitle D of title XII of the Food Security Act of 1985 (16 U.S.C. 3831–3836).
 
 &emsp;(5) Such other functions as the Secretary considers appropriate, except for those programs assigned by the Secretary to the Natural Resources Conservation Service or another agency of the Department under section 6962(b) of this title.
 
@@ -28,7 +28,7 @@ In carrying out the programs specified in subsection (b)(4) of this section, the
 
 &emsp;(3) ensure that, in reaching such concurrence at the local level, the Natural Resources Conservation Service works in cooperation with Soil and Water Conservation Districts or similar organizations established under State law;
 
-&emsp;(4) ensure that officials of county and area committees established under section 8(b)(5) of the Soil Conservation and Domestic Allotment Act (16 U.S.C. 590h(b)(5)) meet annually with officials of such Districts or similar organizations to consider local conservation priorities and guidelines; and
+&emsp;(4) ensure that officials of county and area committees established under section 590h(b)(5) of title 16 meet annually with officials of such Districts or similar organizations to consider local conservation priorities and guidelines; and
 
 &emsp;(5) take steps to ensure that the concurrence process does not interfere with the effective delivery of such programs.
 
@@ -40,7 +40,13 @@ In carrying out the programs specified in subsection (b)(4) of this section, the
 
 #### (2) Treatment of technical determination
 
-&emsp;With respect to administrative appeals involving a technical determination made by the Natural Resources Conservation Service, the Consolidated Farm Service Agency, by rule with the concurrence of the Natural Resources Conservation Service, shall establish procedures for obtaining review by the Natural Resources Conservation Service of the technical determinations involved. Such rules shall ensure that technical criteria established by the Natural Resources Conservation Service shall be used by the Consolidated Farm Service Agency as the basis for any decisions regarding technical determinations. If no review is requested, the technical determination of the Natural Resources Conservation Service shall be the technical basis for any decision rendered by a county or area committee established under section 8(b)(5) of the Soil Conservation and Domestic Allotment Act (16 U.S.C. 590h(b)(5)). If the committee requests a review by the Natural Resources Conservation Service of a wetlands determination of the Service, the Consolidated Farm Service Agency shall consult with other Federal agencies whenever required by law or under a memorandum of agreement in existence on October 13, 1994.
+#### (A) In general
+
+&emsp;&emsp;With respect to administrative appeals involving a technical determination made by the Natural Resources Conservation Service, the Consolidated Farm Service Agency, by rule with the concurrence of the Natural Resources Conservation Service, shall establish procedures for obtaining review by the Natural Resources Conservation Service of the technical determinations involved. Such rules shall ensure that technical criteria established by the Natural Resources Conservation Service shall be used by the Consolidated Farm Service Agency as the basis for any decisions regarding technical determinations. If no review is requested, the technical determination of the Natural Resources Conservation Service shall be the technical basis for any decision rendered by a county or area committee established under section 590h(b)(5) of title 16. If the committee requests a review by the Natural Resources Conservation Service of a wetlands determination of the Service, the Consolidated Farm Service Agency shall consult with other Federal agencies whenever required by law or under a memorandum of agreement in existence on October 13, 1994.
+
+#### (B) Economic hardship
+
+&emsp;&emsp;After a technical determination has been made, on a producer's request, if a county or area committee determines that the application of the producer's conservation systemwould impose an undue economic hardship on the producer, the committee shall provide the producer with relief to avoid the hardship.
 
 #### (3) Reinstatement of program benefits
 
@@ -50,7 +56,7 @@ In carrying out the programs specified in subsection (b)(4) of this section, the
 
 #### (1) Use authorized
 
-&emsp;In the implementation of programs and activities assigned to the Consolidated Farm Service Agency, the Secretary may use interchangeably in local offices of the Agency both Federal employees of the Department and non-Federal employees of county and area committees established under section 8(b)(5) of the Soil Conservation and Domestic Allotment Act (16 U.S.C. 590h(b)(5)).
+&emsp;In the implementation of programs and activities assigned to the Consolidated Farm Service Agency, the Secretary may use interchangeably in local offices of the Agency both Federal employees of the Department and non-Federal employees of county and area committees established under section 590h(b)(5) of title 16.
 
 #### (2) Exception
 
@@ -76,17 +82,23 @@ For purposes of subsections (c) through (f) of this section:
 
 &emsp;(2) A reference to the “Natural Resources Conservation Service” includes any other office, agency, or administrative unit of the Department assigned the functions authorized for the Natural Resources Conservation Service under section 6962(b) of this title.
 
-(Pub. L. 103–354, title II, §226, Oct. 13, 1994, 108 Stat. 3214.)
+(Pub. L. 103–354, title II, §226, Oct. 13, 1994, 108 Stat. 3214; Pub. L. 104–127, title I, §194(c), title III, §§315(b), 336(a)(2)(C), Apr. 4, 1996, 110 Stat. 946, 985, 1005.)
 
 #### References in Text
 
 The Food Security Act of 1985, referred to in subsecs. (b)(4) and (d)(1), (3), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354, as amended. Title XII of the Act, popularly known as the “Sodbuster Law”, is classified principally to chapter 58 (§3801 et seq.) of Title 16, Conservation. Subchapter B of chapter 1 of subtitle D of title XII of the Act is classified generally to subpart B (§3831 et seq.) of part I of subchapter IV of chapter 58 of Title 16. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of this title and Tables.
 
-The Soil Conservation and Domestic Allotment Act, referred to in subsec. (b)(4), is act Apr. 27, 1935, ch. 85, 49 Stat. 163, as amended, which is classified generally to chapter 3B (§590a et seq.) of Title 16. For complete classification of this Act to the Code, see section 590q of Title 16 and Tables.
-
 #### Codification
 
 Section is comprised of section 226 of Pub. L. 103–354. Subsec. (h) of section 226 of Pub. L. 103–354 amended section 1981 of this title.
+
+#### Amendments
+
+1996—Subsec. (b)(2). Pub. L. 104–127, §194(c), struck out par. (2) which read as follows: “General supervision of the Federal Crop Insurance Corporation.”
+
+Subsec. (b)(4). Pub. L. 104–127, §336(a)(2)(C), struck out before period at end “and the agricultural conservation program under the Soil Conservation and Domestic Allotment Act (16 U.S.C. 590g et seq.)”.
+
+Subsec. (d)(2). Pub. L. 104–127, §315(b), designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
 
 #### Section Referred to in Other Sections
 

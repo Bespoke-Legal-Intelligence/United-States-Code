@@ -8,7 +8,7 @@ The Secretary may take such action as is necessary to—
 
 &emsp;(2) protect the navigable waters and the resources therein from harm resulting from vessel or structure damage, destruction, or loss. Such action may include, but need not be limited to—
 
-&emsp;&emsp;(A) establishing procedures, measures, and standards for the handling, loading, unloading, storage, stowage, and movement on the structure (including the emergency removal,control, and disposition) of explosives or other dangerous articles and substances, including oil or hazardous material as those terms are defined in section 2101 of title 46;
+&emsp;&emsp;(A) establishing procedures, measures, and standards for the handling, loading, unloading, storage, stowage, and movement on the structure (including the emergency removal, control, and disposition) of explosives or other dangerous articles and substances, including oil or hazardous material as those terms are defined in section 2101 of title 46;
 
 &emsp;&emsp;(B) prescribing minimum safety equipment requirements for the structure to assure adequate protection from fire, explosion, natural disaster, and other serious accidents or casualties;
 

@@ -54,7 +54,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary of Housing and Urban Development and the Secretary of Agriculture (through Administrator of the Farmers HomeAdministration) shall enter into contracts with States, Indian tribes, units of general local government and local nonprofit housing sponsors, utilizing any amounts appropriated under subsection (n) of this section—
+&emsp;The Secretary of Housing and Urban Development and the Secretary of Agriculture (through Administrator of the Farmers Home Administration) shall enter into contracts with States, Indian tribes, units of general local government and local nonprofit housing sponsors, utilizing any amounts appropriated under subsection (n) of this section—
 
 &emsp;&emsp;(A) to provide congregate services programs for eligible project residents to promote and encourage maximum independence within a home environment for such residents capable of self-care with appropriate supportive services; or
 
@@ -72,7 +72,7 @@ For each State, Indian tribe, unit of general local government, and nonprofit ho
 
 #### (1) In general
 
-&emsp;A congregate services program under this section shall provide meal and other services for eligible project residents (and other residents and nonresidents, as provided in subsection (e) of this section), as provided in this section, that are coordinated on site.
+&emsp;A congregate services program under this section shall provide meal and other servicesfor eligible project residents (and other residents and nonresidents, as provided in subsection (e) of this section), as provided in this section, that are coordinated on site.
 
 #### (2) Meal services
 
@@ -128,7 +128,7 @@ For each State, Indian tribe, unit of general local government, and nonprofit ho
 
 &emsp;Assistance under this section may be provided with respect to the employment of one or more individuals (hereinafter referred to as “service coordinator”) who may be responsible for—
 
-&emsp;&emsp;(A) working with the professional assessment committee established under subsection (f) <sup>2</sup> of this section on an ongoingbasis to assess the service needs of eligible residents;
+&emsp;&emsp;(A) working with the professional assessment committee established under subsection (f) <sup>2</sup> of this section on an ongoing basis to assess the service needs of eligible residents;
 
 &emsp;&emsp;(B) working with service providers and the professional assessment committee to tailor the provision of services to the needs and characteristics of eligible residents;
 
@@ -272,7 +272,7 @@ The funds made available under this section shall be allocated by the Secretary 
 
 #### (A) Contribution requirement
 
-&emsp;&emsp;In providing contracts under subsection (b) of this section, each Secretary concerned shall provide for the cost of providing the congregate services program assisted under this section to be distributed as follows:
+&emsp;&emsp;In providing contracts under subsection (b) of this section, each Secretary concernedshall provide for the cost of providing the congregate services program assisted under this section to be distributed as follows:
 
 &emsp;&emsp;&emsp;(i) Each State, Indian tribe, unit of general <sup>5</sup> government, or nonprofit housing sponsor that receives amounts under a contract under subsection (b) of this section shall supplement any such amount with amounts sufficient to provide 50 percent of the cost of providing the congregate services program. Any monetary or in-kind contributions received by a congregate services program under the Congregate Housing Services Act of 1978 \[42 U.S.C. 8001 et seq.\] may be considered for purposes of fulfilling the requirement under this clause. The Secretary concerned shall encourage owners to use excess residual receipts to the extent available to supplement funds for retrofit and supportive services under this section.
 
@@ -342,13 +342,13 @@ For purposes of this section:
 
 &emsp;(6) The term “eligible housing project” means—
 
-&emsp;&emsp;(A) public housing (as such term is defined in section 3(b) of the United States Housing Act of 1937 \[42 U.S.C. 1437a(b)\]) and lower income housing developed or operated pursuant to a contract between the Secretary of Housing and Urban Development and an Indian housing authority under title II of the United States Housing Act of 1937 \[42 U.S.C. 1437aa et seq.\];
+&emsp;&emsp;(A) public housing (as such term is defined in section 3(b) of the United States Housing Act of 1937 \[42 U.S.C. 1437a(b)\]) and lower income housing developed or operated pursuant to a contract between the Secretary of Housing and Urban Development and an Indian housing authority under title II <sup>9</sup> of the United States Housing Act of 1937;
 
 &emsp;&emsp;(B) housing assisted under section 8 of the United States Housing Act of 1937 \[42 U.S.C. 1437f\] with a contract that is attached to the structure under subsection (d)(2) of such section or with a contract entered into in connection with the new construction or moderate rehabilitation of the structure under section 8(b)(2) of the United States Housing Act,<sup>9</sup> as such section existed before October 1, 1983;
 
 &emsp;&emsp;(C) housing assisted under section 1701q of title 12;
 
-&emsp;&emsp;(D) housing assisted under section 1715<i>l</i>(d) or 1715z–1 of title 12, with respect to which the owner has made a binding commitment to the Secretary of Housing and Urban Development not to prepay the mortgage orterminate the insurance contract under section 1715t of title 12 (unless the binding commitments have been made to extend the low-income use restrictions relating to such housing for the remaining useful life of the housing);
+&emsp;&emsp;(D) housing assisted under section 1715<i>l</i>(d) or 1715z–1 of title 12, with respect to which the owner has made a binding commitment to the Secretary of Housing and Urban Development not to prepay the mortgage or terminate the insurance contract under section 1715t of title 12 (unless the binding commitments have been made to extend the low-income use restrictions relating to such housing for the remaining useful life of the housing);
 
 &emsp;&emsp;(E) housing assisted under section 1484 or 1485 of this title, with respect to which the owner has made a binding commitment to the Secretary of Agriculture not to prepay or refinance the mortgage (unless the binding commitments have been made to extend the low-income use restrictions relating to such housing for not less than the 20-year period under section 1472(c)(4) of this title); and
 
@@ -402,7 +402,7 @@ For purposes of this section:
 
 &emsp;&emsp;(A) describing the activities being carried out with assistance under this section and the population being served by such activities;
 
-&emsp;&emsp;(B) evaluating the effectiveness of the program of providing assistance for congregateservices under this section, and a comparison of the effectiveness of the program under this section with the HOPE for Elderly Independence Program under section 8012 of this title; and
+&emsp;&emsp;(B) evaluating the effectiveness of the program of providing assistance for congregate services under this section, and a comparison of the effectiveness of the program under this section with the HOPE for Elderly Independence Program under section 8012 of this title; and
 
 &emsp;&emsp;(C) containing any other information that the Secretary concerned considers helpful to the Congress in evaluating the effectiveness of this section.
 
@@ -442,7 +442,7 @@ The Congregate Housing Services Act of 1978, referred to in subsecs. (d)(2)(B)(i
 
 The Fair Labor Standards Act of 1938, referred to in subsec. (j)(1)(A), is act June 25, 1938, ch. 676, 52 Stat. 1060, as amended, which is classified principally to chapter 8 (§201 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see section 201 of Title 29 and Tables.
 
-The United States Housing Act of 1937, referred to in subsec. (k)(6)(A), is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 653, and amended. Title II of the Act is classified generally to subchapter II (§1437aa et seq.) of chapter 8 of this title.
+The United States Housing Act of 1937, referred to in subsec. (k)(6)(A), is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 653, and amended. Title II of the Act, which was classified generally to subchapter II (§1437aa et seq.) of chapter 8 of this title, was repealed by Pub. L. 104–330, title V, §501(a), Oct. 26, 1996, 110 Stat. 4041. For complete classification of this Act to the Code, see Short title note set out under section 1437 of this title and Tables.
 
 Section 8(b)(2) of the United States Housing Act, referred to in subsec. (k)(6)(B), probably means section 8(b)(2) of the United States Housing Act of 1937, which was classified to section 1437f(b)(2) of this title and was repealed by Pub. L. 98–181, title II, §209(a)(2), Nov. 30, 1983, 97 Stat. 1183.
 
@@ -482,7 +482,7 @@ Interim regulations.—Not later than the expiration of the 30-day period beginn
 
 “(2)
 
-Final regulations.—Not later than the expiration of the 90-day period beginning upon the publication of interim regulations under paragraph (1), each such Secretary shall issue final regulations implementing section 802 of the Cranston-Gonzalez National Affordable Housing Act after notice and opportunity for public comment regarding the interim regulations, pursuant to the provisions of section 553 of title 5, United States Code (notwithstanding subsections (a)(2), (b)(B), and (d)(3) of such section). The duration of the period for public comment under such section 553 shall be not less than 60 days, and the final regulations shall take effect upon issuance.
+Final regulations.—Not later than the expiration of the 90-day period beginning upon the publication of interim regulations under paragraph (1), each such Secretary shall issue final regulations implementing section 802 of the Cranston-Gonzalez National Affordable Housing Act after notice and opportunity forpublic comment regarding the interim regulations, pursuant to the provisions of section 553 of title 5, United States Code (notwithstanding subsections (a)(2), (b)(B), and (d)(3) of such section). The duration of the period for public comment under such section 553 shall be not less than 60 days, and the final regulations shall take effect upon issuance.
 
 “(3)
 

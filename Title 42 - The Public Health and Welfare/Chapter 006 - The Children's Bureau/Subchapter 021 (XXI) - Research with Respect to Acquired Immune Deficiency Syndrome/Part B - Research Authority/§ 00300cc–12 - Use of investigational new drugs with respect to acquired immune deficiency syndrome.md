@@ -40,7 +40,7 @@ In the case of a new drug with respect to which the Secretary has made a determi
 
 For purposes of this section, the term “new drug” has the meaning given such term in section 321 of title 21.
 
-(July 1, 1944, ch. 373, title XXIII, §2312, as added Nov. 4, 1988, Pub. L. 100–607, title II, §201(4), 102 Stat. 3066; June 10, 1993, Pub. L. 103–43, title XX, §2008(d)(2), 107 Stat. 212.)
+(July 1, 1944, ch. 373, title XXIII, §2312, as added Nov. 4, 1988, Pub. L. 100–607, title II, §201(4), 102 Stat. 3066; amended June 10, 1993, Pub. L. 103–43, title XX, §2008(d)(2), 107 Stat. 212.)
 
 #### Prior Provisions
 

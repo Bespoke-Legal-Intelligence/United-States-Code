@@ -16,23 +16,21 @@
 | [514\.](%C2%A7%2000514%20-%20Bounties%20prohibited%3B%20substitutes%20prohibited.md) | Bounties prohibited; substitutes prohibited. |
 | [515\.](%C2%A7%2000515%20-%20Reenlistment%20after%20discharge%20as%20warrant%20officer.md) | Reenlistment after discharge as warrant officer. |
 | [516\.](%C2%A7%2000516%20-%20Effect%20upon%20enlisted%20status%20of%20acceptance%20of%20appointment%20as%20cadet%20or%20midshipman.md) | Effect upon enlisted status of acceptance of appointment as cadet or midshipman. |
-| 517\.<sup>1</sup> | Authorized daily average: members in pay grades E–8 and E–9. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |
-| :--- | ---: |
+| [517\.](%C2%A7%2000517%20-%20Authorized%20daily%20average%20members%20in%20pay%20grades%20E%E2%80%938%20and%20E%E2%80%939.md) | Authorized daily average: members in pay grades E–8 and E–9. |
 | [518\.](%C2%A7%2000518%20-%20Temporary%20enlistments.md) | Temporary enlistments. |
 | [519\.](%C2%A7%2000519%20-%20Temporary%20enlistments%20during%20war%20or%20emergency.md) | Temporary enlistments: during war or emergency. |
 | [520\.](%C2%A7%2000520%20-%20Limitation%20on%20enlistment%20and%20induction%20of%20persons%20whose%20score%20on%20the%20Armed%20Forces%20Qualification%20Test%20is%20below%20a%20prescribed%20level.md) | Limitation on enlistment and induction of persons whose score on the Armed Forces Qualification Test is below a prescribed level. |
 | [520a.](%C2%A7%2000520a%20-%20Criminal%20history%20information%20for%20military%20recruiting%20purposes.md) | Criminal history information for military recruiting purposes. |
 | [520b.](%C2%A7%2000520b%20-%20Applicants%20for%20enlistment%20authority%20to%20use%20funds%20for%20the%20issue%20of%20authorized%20articles.md) | Applicants for enlistment: authority to use funds for the issue of authorized articles. |
+| [520c.](%C2%A7%2000520c%20-%20Recruiting%20functions%20use%20of%20funds.md) | Recruiting functions: use of funds. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
 
-1994—Pub. L. 103–337, div. A, title XVI, §1671(b)(3), Oct. 5, 1994, 108 Stat. 3013, struck out items 510 “Reserve components: qualifications”, 511 “Reserve components: terms”, 512 “Reserve components: transfers”, and 517 “Authorized daily average: members in pay grades E–8 and E–9”.
+1996—Pub. L. 104–201, div. A, title III, §361(b), Sept. 23, 1996, 110 Stat. 2491, added item 520c.
+
+1994—Pub. L. 103–337, div. A, title XVI, §1671(b)(3), Oct. 5, 1994, 108 Stat. 3013, as amended by Pub. L. 104–106, div. A, title XV, §1501(a)(8)(A), Feb. 10, 1996, 110 Stat. 495, struck out items 510 “Reserve components: qualifications”, 511 “Reserve components: terms”, and 512 “Reserve components: transfers”.
 
 1989—Pub. L. 101–189, div. A, title V, §501(a)(2), Nov. 29, 1989, 103 Stat. 1435, added item 513.
 
@@ -64,8 +62,6 @@ Particular provisions relating to enlistments—
 
 &emsp;&emsp;National Guard, see sections 302 to 304 and 313 of Title 32, National Guard.
 
-<i><sup>1</sup></i><i> Editorialy supplied. Item 517 struck out by Pub. L. 103–337 without corresponding repeal of section 517.</i>
-
 
 ---
 
@@ -93,3 +89,4 @@ Particular provisions relating to enlistments—
 - [&sect; 00520 - Limitation on enlistment and induction of persons whose score on the Armed Forces Qualification Test is below a prescribed level](%C2%A7%2000520%20-%20Limitation%20on%20enlistment%20and%20induction%20of%20persons%20whose%20score%20on%20the%20Armed%20Forces%20Qualification%20Test%20is%20below%20a%20prescribed%20level.md)
 - [&sect; 00520a - Criminal history information for military recruiting purposes](%C2%A7%2000520a%20-%20Criminal%20history%20information%20for%20military%20recruiting%20purposes.md)
 - [&sect; 00520b - Applicants for enlistment authority to use funds for the issue of authorized articles](%C2%A7%2000520b%20-%20Applicants%20for%20enlistment%20authority%20to%20use%20funds%20for%20the%20issue%20of%20authorized%20articles.md)
+- [&sect; 00520c - Recruiting functions use of funds](%C2%A7%2000520c%20-%20Recruiting%20functions%20use%20of%20funds.md)

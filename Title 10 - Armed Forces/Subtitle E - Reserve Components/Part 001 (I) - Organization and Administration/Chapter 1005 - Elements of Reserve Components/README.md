@@ -3,12 +3,7 @@
 | Sec. |  |
 | :--- | ---: |
 | [10141\.](%C2%A7%2010141%20-%20Ready%20Reserve%3B%20Standby%20Reserve%3B%20Retired%20Reserve%20placement%20and%20status%20of%20members%3B%20training%20categories.md) | Ready Reserve; Standby Reserve; Retired Reserve: placement and status of members; training categories. |
-| [10142\.](%C2%A7%2010142%20-%20Ready%20Reserve.md) | Ready Reserve generally.<sup>1</sup> |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |
-| :--- | ---: |
+| [10142\.](%C2%A7%2010142%20-%20Ready%20Reserve.md) | Ready Reserve. |
 | [10143\.](%C2%A7%2010143%20-%20Ready%20Reserve%20Selected%20Reserve.md) | Ready Reserve: Selected Reserve. |
 | [10144\.](%C2%A7%2010144%20-%20Ready%20Reserve%20Individual%20Ready%20Reserve.md) | Ready Reserve: Individual Ready Reserve. |
 | [10145\.](%C2%A7%2010145%20-%20Ready%20Reserve%20placement%20in.md) | Ready Reserve: placement in. |
@@ -24,11 +19,13 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### Amendments
+
+1996—Pub. L. 104–106, div. A, title XV, §1501(b)(3), Feb. 10, 1996, 110 Stat. 496, struck out “generally” after “Reserve” in item 10142.
+
 #### Chapter Referred to in Other Sections
 
 This chapter is referred to in section 261 of this title.
-
-<i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
 
 
 ---

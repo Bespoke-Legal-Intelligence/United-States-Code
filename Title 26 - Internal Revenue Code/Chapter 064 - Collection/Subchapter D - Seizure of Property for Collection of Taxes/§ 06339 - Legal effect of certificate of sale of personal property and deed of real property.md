@@ -14,7 +14,7 @@ In all cases of sale pursuant to section 6335 of property (other than real prope
 
 #### (3) As authority for transfer of corporate stock
 
-&emsp;If such property consists of stocks, shall be notice, when received, to any corporation, company, or association of such transfer, and shall be authority to such corporation, company, or association to record the transfer on its books and records in the same manner as if the stocks were transferred or assigned by the party holding the same, in lieu of any originalor prior certificate, which shall be void, whether canceled or not; and
+&emsp;If such property consists of stocks, shall be notice, when received, to any corporation, company, or association of such transfer, and shall be authority to such corporation, company, or association to record the transfer on its books and records in the same manner as if the stocks were transferred or assigned by the party holding the same, in lieu of any original or prior certificate, which shall be void, whether canceled or not; and
 
 #### (4) As receipts
 
@@ -63,8 +63,4 @@ Amendment by Pub. L. 89–719 applicable after Nov. 2, 1966, regardless of when 
 #### Effective Date of 1958 Amendment
 
 Amendment by Pub. L. 85–866 effective Aug. 17, 1954, see section 1(c)(2) of Pub. L. 85–866, set out as a note under section 165 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 18 section 3613.
 

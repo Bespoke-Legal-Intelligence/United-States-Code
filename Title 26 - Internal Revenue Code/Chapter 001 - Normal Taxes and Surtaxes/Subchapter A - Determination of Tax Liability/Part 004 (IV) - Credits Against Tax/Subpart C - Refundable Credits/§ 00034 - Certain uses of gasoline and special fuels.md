@@ -8,19 +8,13 @@ There shall be allowed as a credit against the tax imposed by this subtitle for 
 
 &emsp;(2) under section 6421 with respect to gasoline used during the taxable year (A) otherwise than as a fuel in a highway vehicle or (B) in vehicles while engaged in furnishing certain public passenger land transportation service (determined without regard to section 6421(i)),<sup>1</sup> and
 
-&emsp;(3) under section 6427—
-
-&emsp;&emsp;(A) with respect to fuels used for nontaxable purposes or resold, or
-
-&emsp;&emsp;(B) with respect to any qualified diesel-powered highway vehicle purchased (or deemed purchased under section 6427(g)(6)),
-
-> &emsp;during the taxable year (determined without regard to section 6427(k)).
+&emsp;(3) under section 6427 with respect to fuels used for nontaxable purposes or resold during the taxable year (determined without regard to section 6427(k)).
 
 #### (b) Exception
 
-Credit shall not be allowed under subsection (a) for any amount payable under section 6421 or6427, if a claim for such amount is timely filed and, under section 6421(j) or 6427(k), is payable under such section.
+Credit shall not be allowed under subsection (a) for any amount payable under section 6421 or 6427, if a claim for such amount is timely filed and, under section 6421(j) or 6427(k), is payable under such section.
 
-(Added Pub. L. 89–44, title VIII, 809(c), June 21, 1965, 79 Stat. 167, §39; amended Pub. L. 91–258, title II, §207(c), May 21, 1970, 84 Stat. 248; Pub. L. 94–455, title XIX, §§1901(a)(3), 1906(b)(8), (9), Oct. 4, 1976, 90 Stat. 1764, 1834; Pub. L. 94–530, §1(c)(1), Oct. 17, 1976, 90 Stat. 2487; Pub. L. 95–599, title V, §505(c)(1), Nov. 6, 1978, 92 Stat. 2760; Pub. L. 95–618, title II, §233(b)(2)(C), Nov. 9, 1978, 92 Stat. 3191; Pub. L. 96–223, title II, §232(d)(4)(A), Apr. 2, 1980, 94 Stat. 278; Pub. L. 97–424, title V, §515(b)(6)(A)–(C), Jan. 6, 1983, 96 Stat. 2181; renumbered §34 and amended Pub. L. 98–369, div. A, title IV, §471(c), title IX, §911(d)(2)(A), July 18, 1984, 98 Stat. 826, 1006; Pub. L. 99–514, title XVII, §1703(e)(2)(F), title XVIII, §1877(a), Oct. 22, 1986, 100 Stat. 2778, 2902; Pub. L. 100–647, title I, §1017(c)(2), Nov. 10, 1988, 102 Stat. 3576.)
+(Added Pub. L. 89–44, title VIII, 809(c), June 21, 1965, 79 Stat. 167, §39; amended Pub. L. 91–258, title II, §207(c), May 21, 1970, 84 Stat. 248; Pub. L. 94–455, title XIX, §§1901(a)(3), 1906(b)(8), (9), Oct. 4, 1976, 90 Stat. 1764, 1834; Pub. L. 94–530, §1(c)(1), Oct. 17, 1976, 90 Stat. 2487; Pub. L. 95–599, title V, §505(c)(1), Nov. 6, 1978, 92 Stat. 2760; Pub. L. 95–618, title II, §233(b)(2)(C), Nov. 9, 1978, 92 Stat. 3191; Pub. L. 96–223, title II, §232(d)(4)(A), Apr. 2, 1980, 94 Stat. 278; Pub. L. 97–424, title V, §515(b)(6)(A)–(C), Jan. 6, 1983, 96 Stat. 2181; renumbered §34 and amended Pub. L. 98–369, div. A, title IV, §471(c), title IX, §911(d)(2)(A), July 18, 1984, 98 Stat. 826, 1006; Pub. L. 99–514, title XVII, §1703(e)(2)(F), title XVIII, §1877(a), Oct. 22, 1986, 100 Stat. 2778, 2902; Pub. L. 100–647, title I, §1017(c)(2), Nov. 10, 1988, 102 Stat. 3576; Pub. L. 104–188, title I, §1606(b)(1), Aug. 20, 1996, 110 Stat. 1839.)
 
 #### References in Text
 
@@ -31,6 +25,14 @@ Section 6421(i), referred to in subsec. (a)(2), was repealed by Pub. L. 103–66
 A prior section 34, acts Aug. 16, 1954, ch. 736, 68A Stat. 13; June 25, 1959, Pub. L. 86–69, §3(a)(1), 73 Stat. 139; Sept. 14, 1960, Pub. L. 86–779, §10(e), 74 Stat. 1009; Feb. 26, 1964, Pub. L. 88–272, title II, §201(a), 78 Stat. 31, related to dividends received by individuals, prior to repeal by Pub. L. 88–272, title II, §201(b), Feb. 26, 1964, 78 Stat. 31, effective with respect to dividends received after Dec. 31, 1964.
 
 #### Amendments
+
+1996—Subsec. (a)(3). Pub. L. 104–188 amended par. (3) generally. Prior to amendment, par. (3) read as follows: “under section 6427—
+
+&emsp;“(A) with respect to fuels used for nontaxable purposes or resold, or
+
+&emsp;“(B) with respect to any qualified diesel-powered highway vehicle purchased (or deemed purchased under section 6427(g)(6)),
+
+> during the taxable year (determined without regard to section 6427(k)).”
 
 1988—Subsec. (b). Pub. L. 100–647 substituted “section 6421(j) or 6427(k)” for “section 6421(i) or 6427(j)”.
 
@@ -79,6 +81,10 @@ Subsec. (c). Pub. L. 94–455, §1901(a)(3), redesignated subsec. (c) as (b).
 Subsec. (a)(4). Pub. L. 91–258, §207(c)(2), added par. (4).
 
 Subsec. (c). Pub. L. 91–258, §207(c)(3), (4), inserted references to sections 6427 and 6427(f), respectively.
+
+#### Effective Date of 1996 Amendment
+
+Section 1606(c) of Pub. L. 104–188 provided that: “The amendments made by this section \[amending this section and section 6427 of this title\] shall apply to vehicles purchased after the date of the enactment of this Act \[Aug. 20, 1996\].”
 
 #### Effective Date of 1988 Amendment
 

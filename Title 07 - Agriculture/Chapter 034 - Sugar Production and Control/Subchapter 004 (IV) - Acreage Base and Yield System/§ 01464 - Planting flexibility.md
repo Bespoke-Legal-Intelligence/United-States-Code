@@ -40,7 +40,7 @@ The producers on a farm may, in accordance with this section, plant for harvest 
 
 #### (2) Exception for soybeans
 
-&emsp;If on January 1 of any calendar year the Secretary estimates that the national average price of soybeans during the following marketing year for soybeans would be less than 105 percent of the nonrecourse loan level for soybeans established in section 1446f of this title if soybeans were allowed to be planted on up to 25 percent of the crop acreage base under this section, the quantity of the crop acreage base that may be planted to soybeans under this section may not exceed 15 percent of the crop acreage base.
+&emsp;If on January 1 of any calendar year the Secretary estimates that the national average price of soybeans during the following marketing year for soybeans would be less than 105 percent of the nonrecourse loan level for soybeans established in section 1446f <sup>1</sup> of this title if soybeans were allowed to be planted on up to 25 percent of the crop acreage base under this section, the quantity of the crop acreage base that may be planted to soybeans under this section may not exceed 15 percent of the crop acreage base.
 
 #### (d) Plantings in excess of permitted acreage
 
@@ -67,6 +67,8 @@ Notwithstanding any other provision of this Act, producers of a program crop who
 (Oct. 31, 1949, ch. 792, title V, §504, as added Dec. 23, 1985, Pub. L. 99–198, title X, §1031, 99 Stat. 1461; amended Feb. 28, 1986, Pub. L. 99–253, §4, 100 Stat. 37; Mar. 20, 1986, Pub. L. 99–260, §8, 100 Stat. 51; Aug. 11, 1988, Pub. L. 100–387, title III, §301(a)(1), 102 Stat. 945; Aug. 14, 1989, Pub. L. 101–81, §1, 103 Stat. 563; Aug. 14, 1989, Pub. L. 101–82, title VI, §603(a), 103 Stat. 587; Dec. 19, 1989, Pub. L. 101–239, title I, §1002(a), 103 Stat. 2106; Nov. 28, 1990, Pub. L. 101–624, title XI, §1101, 104 Stat. 3494; Dec. 13, 1991, Pub. L. 102–237, title I, §112(c), 105 Stat. 1837.)
 
 #### References in Text
+
+Section 1446f of this title, referred to in subsec. (c)(2), was repealed by Pub. L. 104–127, title I, §171(b)(2)(H), Apr. 4, 1996, 110 Stat. 938.
 
 This Act, referred to in subsec. (d), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, as amended, known as the Agricultural Act of 1949, which is classified principally to this chapter (§1421 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
 
@@ -112,6 +114,10 @@ Section 1 of Pub. L. 101–81 provided that the amendment made by that section i
 
 Section 301(a)(1) of Pub. L. 100–387 provided that the amendment made by that section is effective for 1989 and 1990 crops.
 
+#### Inapplicability of Section
+
+Section inapplicable to 1996 through 2002 crops of loan commodities, peanuts, and sugar and inapplicable to milk during period beginning Apr. 4, 1996, and ending Dec. 31, 2002, see section 7301(b)(1)(K) of this title.
+
 #### Cottonseed and Sunflowerseed Oil
 
 Section 301(b) of Pub. L. 100–387, as amended by Pub. L. 101–624, title XV, §1541, Nov. 28, 1990, 104 Stat. 3691; Pub. L. 102–237, title VI, §602(b), Dec. 13, 1991, 105 Stat. 1878, provided that:
@@ -130,11 +136,13 @@ Section 301(b) of Pub. L. 100–387, as amended by Pub. L. 101–624, title XV, 
 
 “(iv) In carrying out this subparagraph, the Secretary shall ensure that, to the maximum extent practicable, equivalent amounts of funds are used during each fiscal year to encourage the sale of sunflowerseed oil and cottonseed oil in world markets.
 
-“(B) To the extent practicable, facilitation of cottonseed oil exports shall be accomplished through the use of authorities available to the Secretary other than the authority granted in subparagraph (A).
+“(B) To the extent practicable, facilitation of cottonseed oil exports shall be accomplished through the useof authorities available to the Secretary other than the authority granted in subparagraph (A).
 
 “(3) Except as otherwise provided in paragraph (2)(A), the Secretary shall use the funds, facilities, and authorities of the Commodity Credit Corporation to carry out this subsection.”
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1441–2, 1444–2, 1444f, 1445b–3a, 1463 of this title.
+This section is referred to in section 1463 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

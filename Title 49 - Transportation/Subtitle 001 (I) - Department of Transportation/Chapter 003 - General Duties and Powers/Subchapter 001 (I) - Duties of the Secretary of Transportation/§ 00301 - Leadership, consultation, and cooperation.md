@@ -22,7 +22,9 @@ The Secretary of Transportation shall—
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -56,7 +58,7 @@ Section 5003 of Pub. L. 102–240, which directed Secretary of Transportation to
 
 #### National Commission on Intermodal Transportation
 
-Section 5005 of Pub. L. 102–240 provided for establishment of a National Commission on Intermodal Transportation, consisting of 11 appointed members, to make a complete investigation and study of intermodal transportation in the United States and internationally and to send a report to Congress not later than Sept. 30, 1993, containing recommendations for implementing the policy set out in section 302(e) of this title, with the Commission to terminate on the 180th day following transmittal of the report.
+Section 5005 of Pub. L. 102–240 provided for establishment of a National Commission on Intermodal Transportation, consisting of 11 appointed members, to make a complete investigation and study of intermodal transportation in the United States and internationally and to send a report to Congress not later than Sept. 30, 1993, containing recommendations for implementing the policy set out in section 302(e) of this title, with the Commission to terminate on the 180th day following transmittal of the report, prior to repeal by Pub. L. 104–287, §7(3), Oct. 11, 1996, 110 Stat. 3400.
 
 #### Border Crossings
 
@@ -64,7 +66,7 @@ Section 6015 of Pub. L. 102–240 directed Secretary of Transportation to identi
 
 #### Underground Pipelines
 
-Section 6020 of Pub. L. 102–240 directed Secretary of Transportation to conduct a study to evaluate feasibility, costs, and benefits of constructing and operating pneumatic capsule pipelines for underground movement of commodities other than hazardous liquids and gas, and to submit, not later than 2 years after Dec. 18, 1991, a report to Congress on the results of the study.
+Section 6020 of Pub. L. 102–240 directed Secretary of Transportation to conduct a study to evaluate feasibility, costs, and benefits of constructing and operating pneumatic capsule pipelines for underground movement of commodities other than hazardous liquids and gas, and to submit, not later than 2 years after Dec. 18, 1991, a report to Congress on the results of the study, prior to repeal by Pub. L. 104–287, §7(3), Oct. 11, 1996, 110 Stat. 3400.
 
 #### Long-Range National Transportation Strategic Planning Study
 

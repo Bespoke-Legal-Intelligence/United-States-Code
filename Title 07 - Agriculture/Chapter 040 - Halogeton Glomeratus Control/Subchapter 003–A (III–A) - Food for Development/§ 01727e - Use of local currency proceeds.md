@@ -36,9 +36,9 @@ The local currency proceeds of sales pursuant to section 1727c(2) of this title 
 
 > Section 1306 of title 31 shall not apply to the use under this subsection of local currency proceeds that are owned by the United States.
 
-#### (b) Support of indigenous nongovernmental organizations
+#### (b) Support of nongovernmental organizations
 
-To the extent practicable, not less than 10 percent of the amounts contained in an account established for a recipient country under section 1727d(a) of this title shall be used by such country to support the development and utilization of indigenous nongovernmental organizations and cooperatives that are active in rural development, agricultural education, sustainable agricultural production, other measures to assist poor people, and environmental protection projects within such country.
+To the extent practicable, not less than 10 percent of the amounts contained in an account established for a recipient country under section 1727d(a) of this title shall be used by such country to support the development and utilization of nongovernmental organizations and cooperatives that are active in rural development, agricultural education, sustainable agricultural production, other measures to assist poor people, and environmental protection projects within such country.
 
 #### (c) Investment of local currencies by nongovernmental organizations
 
@@ -48,13 +48,15 @@ A nongovernmental organization may invest local currencies that accrue to that o
 
 If the Administrator determines that local currencies deposited in a special account pursuant to this subchapter are not needed for any of the activities prescribed in paragraphs (1) through (13) of subsection (a) of this section or for any other specific economic development purpose in the recipient country, the Administrator may use those currencies to provide support for any institution (other than an institution whose primary purpose is to provide religious education) located in the recipient country that provides education in agricultural sciences or other disciplines for a significant number of United States nationals (who may include members of the United States Armed Forces or the Foreign Service or dependents of such members).
 
-(July 10, 1954, ch. 469, title III, §306, as added Aug. 3, 1977, Pub. L. 95–88, title II, §211(a)(2), 91 Stat. 551; amended Aug. 14, 1979, Pub. L. 96–53, title II, §207(a), 93 Stat. 369; Nov. 28, 1990, Pub. L. 101–624, title XV, §1512, 104 Stat. 3643.)
+(July 10, 1954, ch. 469, title III, §306, as added Aug. 3, 1977, Pub. L. 95–88, title II, §211(a)(2), 91 Stat. 551; amended Aug. 14, 1979, Pub. L. 96–53, title II, §207(a), 93 Stat. 369; Nov. 28, 1990, Pub. L. 101–624, title XV, §1512, 104 Stat. 3643; Apr. 4, 1996, Pub. L. 104–127, title II, §211(a), 110 Stat. 955.)
 
 #### Prior Provisions
 
-A prior section 306 of act July 10, 1954, ch. 469, title III, as added Sept. 21, 1959, Pub. L. 86–341, title I, §11, 73 Stat. 608, enacted section 1695 of this title, prior to repeal to by Pub. L. 89–808, §2(D), Nov. 11, 1966, 80 Stat. 1535.
+A prior section 306 of act July 10, 1954, ch. 469, title III, as added Sept. 21, 1959, Pub. L. 86–341, title I, §11, 73 Stat. 608, enacted section 1695 of this title, prior to repeal by Pub. L. 89–808, §2(D), Nov. 11, 1966, 80 Stat. 1535.
 
 #### Amendments
+
+1996—Subsec. (b). Pub. L. 104–127 amended heading and struck out “indigenous” before “nongovernmental” in text.
 
 1990—Pub. L. 101–624 amended section generally, substituting present provisions for provisions requiring submission of annual report by recipient countries to President on activities and progress of Food for Development Program.
 

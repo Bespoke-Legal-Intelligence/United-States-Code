@@ -22,5 +22,5 @@ The words “District of Columbia government” are added because of section 47�
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 2 section 60a–2; title 5 section 5306; title 22 sections 277d–3, 1461b, 3723; title 42 sections 2204, 2204a, 2210, 2295, 2394.
+This section is referred to in title 2 section 60a–2; title 5 section 5306; title 22 sections 277d–3, 1461b; title 42 sections 2204, 2204a, 2210, 2295, 2394.
 

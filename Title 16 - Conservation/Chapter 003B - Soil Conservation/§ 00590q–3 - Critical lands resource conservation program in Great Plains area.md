@@ -4,7 +4,7 @@ Notwithstanding any other provision of law—
 
 #### (a) Authorization for program
 
-The Secretary of Agriculture is authorized to formulate and carry out a program with owners and operators of land in the Great Plains area as described in section 590p(b) of this title to reduce runoff, soil and water erosion, and otherwise to promote the conservation of soil and water resources in such area through the conversion of cropland from soil depleting uses to conserving uses including the production of soil conserving cover crops.
+The Secretary of Agriculture is authorized to formulate and carry out a program with owners and operators of land in the Great Plains area as described in section 590p(b) <sup>1</sup> of this title to reduce runoff, soil and water erosion, and otherwise to promote the conservation of soil and water resources in such area through the conversion of cropland from soil depleting uses toconserving uses including the production of soil conserving cover crops.
 
 #### (b) Terms of agreements with owners or operators
 
@@ -12,7 +12,7 @@ To effectuate the purposes of the program, the Secretary may enter into an agree
 
 #### (c) Annual adjustment payments
 
-In consideration for such agreement, the Secretary shall make annual adjustment payments to the owner or operator for the period of the agreement at such rate or rates not in excess of$30 per acre as the Secretary determines to be fair and reasonable. The Secretary may use an advertising and bid procedure in determining the lands in any area to be covered by agreements and the payment rate therefor. The Secretary and the owner or operator may agree that the annual adjustment payments for the agreement period shall be made either upon approval of the agreement or in such installments as they may agree to be desirable: <i>Provided</i>, That for each year any annual adjustment payment is made in advance of performance, the annual adjustment payment shall be reduced by 5 per centum.
+In consideration for such agreement, the Secretary shall make annual adjustment payments to the owner or operator for the period of the agreement at such rate or rates not in excess of $30 per acre as the Secretary determines to be fair and reasonable. The Secretary may use an advertising and bid procedure in determining the lands in any area to be covered by agreements and the payment rate therefor. The Secretary and the owner or operator may agree that the annual adjustment payments for the agreement period shall be made either upon approval of the agreement or in such installments as they may agree to be desirable: <i>Provided</i>, That for each year any annual adjustment payment is made in advance of performance, the annual adjustment payment shall be reduced by 5 per centum.
 
 #### (d) Termination of agreements
 
@@ -43,6 +43,10 @@ The Secretary shall prescribe such regulations as the Secretary determines neces
 There are authorized to be appropriated for the period beginning October 1, 1977, and ending September 30, 1981, such sums as may be necessary to carry out the program provided for in this section. The Secretary is authorized to utilize the facilities, services, and authorities of the Commodity Credit Corporation in discharging the Secretary's functions and responsibilities under the program, including payment of costs of administration: <i>Provided</i>, That the Commodity Credit Corporation shall not make any expenditures for such purposes unless the Corporation has received funds to cover such expenditures from appropriations made to carry out this section.
 
 (Pub. L. 95–113, title XV, §1511, Sept. 29, 1977, 91 Stat. 1022.)
+
+#### References in Text
+
+Section 590p of this title, referred to in subsec. (a), was repealed by Pub. L. 104–127, title III, §336(b)(1), Apr. 4, 1996, 110 Stat. 1006.
 
 #### Codification
 

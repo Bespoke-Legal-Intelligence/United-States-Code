@@ -30,7 +30,7 @@ It shall be an unfair labor practice for a labor organization—
 
 &emsp;(3) to coerce, discipline, fine, or attempt to coerce a member of the labor organization as punishment or reprisal, or for the purpose of hindering or impeding the member's work performance or productivity as an employee or the discharge of the member's functions as an employee;
 
-&emsp;(4) to discriminate against an employee with regard to the terms and conditions of membership in the labor organization on the basis ofrace, color, creed, national origin, sex, age preferential or nonpreferential civil service status, political affiliation, marital status, or handicapping condition;
+&emsp;(4) to discriminate against an employee with regard to the terms and conditions of membership in the labor organization on the basis of race, color, creed, national origin, sex, age preferential or nonpreferential civil service status, political affiliation, marital status, or handicapping condition;
 
 &emsp;(5) to refuse to consult or negotiate in good faith with the Department, as required under this subchapter;
 
@@ -76,7 +76,7 @@ Issues which can properly be raised under an appeals procedure may not be raised
 
 #### Effective Date of 1991 Amendment
 
-Section 153(f) of Pub. L. 102–138 provided that: “The amendments made by this section \[amending this section and sections 4131, 4134, 4137, 4139, and 4140 of this title\] shall not apply with respect to any grievance (within the meaning of section 1101 of the Act \[22 U.S.C. 4131\], as amended by this section) arising before the date of enactment of this Act \[Oct. 28, 1991\].”
+Section 153(f) of Pub. L. 102–138 provided that: “The amendments made by this section \[amending this section and sections 4131, 4134, 4137, 4139, and 4140 of this title\] shall not apply with respect to any grievance (within the meaning of section 1101 of the Act \[22 U.S.C.4131\], as amended by this section) arising before the date of enactment of this Act \[Oct. 28, 1991\].”
 
 #### Section Referred to in Other Sections
 

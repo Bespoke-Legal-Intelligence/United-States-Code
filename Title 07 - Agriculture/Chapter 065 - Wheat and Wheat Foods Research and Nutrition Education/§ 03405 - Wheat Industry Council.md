@@ -4,7 +4,7 @@ Any order issued pursuant to this chapter shall contain such terms and condition
 
 #### (a) Establishment; powers
 
-&emsp;for the establishment and appointment by the Secretary of a Wheat Industry Council which shall consist of not more than twenty members and alternates therefor, and for the definition of its powers and duties which shall include only the powers enumerated in this section, and shall specifically include the powers to (1) administer such order in accordance with its terms and provisions, (2) make rules and regulations to effectuate the terms and provisions of such order, (3) receive, investigate, and report to the Secretary complaints of violations of such order, and (4) recommend to the Secretary amendments to such order. The term of an appointment to the Councilshall be for two years with no member serving more than three consecutive terms, except that initial appointments shall be proportionately for two-year and three-year terms;
+&emsp;for the establishment and appointment by the Secretary of a Wheat Industry Council which shall consist of not more than twenty members and alternates therefor, and for the definition of its powers and duties which shall include only the powers enumerated in this section, and shall specifically include the powers to (1) administer such order in accordance with its terms and provisions, (2) make rules and regulations to effectuate the terms and provisions of such order, (3) receive, investigate, and report to the Secretary complaints of violations of such order, and (4) recommend to the Secretary amendments to such order. The term of an appointment to the Council shall be for two years with no member serving more than three consecutive terms, except that initial appointments shall be proportionately for two-year and three-year terms;
 
 #### (b) Membership
 
@@ -24,7 +24,7 @@ Any order issued pursuant to this chapter shall contain such terms and condition
 
 #### (f) Maintenance of records
 
-&emsp;that the Council shall maintain such books and records, which shall be available to the Secretary for inspection and audit, and prepare and submit such reports from time to time, to the Secretary as the Secretary may prescribe, and for appropriate accounting by the Council, with respect to the receipt and disbursement of all funds entrusted to it;
+&emsp;that the Council shall maintain such books and records, which shall be available to the Secretary for inspection and audit, and prepare and submit such reports from time to time, to the Secretary as the Secretary may prescribe, and for appropriate accounting bythe Council, with respect to the receipt and disbursement of all funds entrusted to it;
 
 #### (g) Contracts
 
@@ -32,7 +32,7 @@ Any order issued pursuant to this chapter shall contain such terms and condition
 
 #### (h) Investment of assessment funds
 
-&emsp;that the Council, with the approval of the Secretary, may invest, pending disbursement pursuant to a plan or project, funds collected through assessments authorized under this title in, and only in, obligations of the UnitedStates or any agency thereof, in general obligations of any State or any political subdivision thereof, in any interest-bearing account or certificate of deposit of a bank which is a member of the Federal Reserve System, or in obligations fully guaranteed as to principal and interest by the United States;
+&emsp;that the Council, with the approval of the Secretary, may invest, pending disbursement pursuant to a plan or project, funds collected through assessments authorized under this title in, and only in, obligations of the United States or any agency thereof, in general obligations of any State or any political subdivision thereof, in any interest-bearing account or certificate of deposit of a bank which is a member of the Federal Reserve System, or in obligations fully guaranteed as to principal and interest by the United States;
 
 #### (i) Lobbying restriction
 

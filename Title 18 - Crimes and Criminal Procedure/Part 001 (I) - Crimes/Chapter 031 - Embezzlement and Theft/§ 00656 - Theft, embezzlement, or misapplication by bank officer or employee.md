@@ -1,10 +1,10 @@
 ### §656. Theft, embezzlement, or misapplication by bank officer or employee
 
-Whoever, being an officer, director, agent or employee of, or connected in any capacity with any Federal Reserve bank, member bank, depository institution holding company, national bank, insured bank, branch or agency of a foreign bank, or organization operating under section 25 or section 25(a) <sup>1</sup> of the Federal Reserve Act,,<sup>2</sup> or a receiver of a national bank, insured bank, branch, agency, or organization or any agent or employee of the receiver, or a Federal Reserve Agent, or an agent or employee of a Federal Reserve Agent or of the Board of Governors of the Federal Reserve System, embezzles, abstracts, purloins or willfully misapplies any of the moneys, funds or credits of such bank, branch, agency, or organization or holding company or any moneys, funds, assets or securities intrusted to the custody or care of such bank, branch, agency, or organization, or holding company or to the custody or care of any such agent, officer, director, employee or receiver, shall be fined not more than $1,000,000 or imprisoned not more than 30 years, or both; but if the amount embezzled, abstracted, purloined or misapplied does not exceed $100, he shall be fined under this title or imprisoned not more than one year, or both.
+Whoever, being an officer, director, agent or employee of, or connected in any capacity with any Federal Reserve bank, member bank, depository institution holding company, national bank, insured bank, branch or agency of a foreign bank, or organization operating under section 25 or section 25(a) <sup>1</sup> of the Federal Reserve Act, or a receiver of a national bank, insured bank, branch, agency, or organization or any agent or employee of the receiver, or a Federal Reserve Agent, or an agent or employee of a Federal Reserve Agent or of the Board of Governors of the Federal Reserve System, embezzles, abstracts, purloins or willfully misapplies any of the moneys, funds or credits of such bank, branch, agency, or organization or holding company or any moneys, funds, assets or securities intrusted to the custody or care of such bank, branch, agency, or organization, or holding company or to the custody or care of any such agent, officer, director, employee or receiver, shall be fined not more than $1,000,000 or imprisoned not more than 30 years, or both; but if the amount embezzled, abstracted, purloined or misapplied does not exceed $1,000, he shall be fined under this title or imprisoned not more than one year, or both.
 
-As used in this section, the term “national bank” is synonymous with “national banking association”; “member bank” means and includes any national bank, state bank, or bank and trust company which has become a member of one of the Federal Reserve banks; “insured bank” includes any bank, banking association, trust company, savings bank, or other banking institution, the deposits of which are insured by the Federal Deposit Insurance Corporation; and the term “branch or agency of a foreign bank” means a branch or agency described in section 20(9) of this title. For purposes of this section, the term “depository institution holding company” has the meaning given such term in section 3 of the Federal Deposit Insurance Act.
+As used in this section, the term “national bank” is synonymous with “national banking association”; “member bank” means and includes any national bank, state bank, or bank and trust company which has become a member of one of the Federal Reserve banks; “insured bank” includes any bank, banking association, trust company, savings bank, or other banking institution, the deposits of which are insured by the Federal Deposit Insurance Corporation; and the term “branch or agency of a foreign bank” means a branch or agency described in section 20(9) of this title. For purposes of this section,the term “depository institution holding company” has the meaning given such term in section 3 of the Federal Deposit Insurance Act.
 
-(June 25, 1948, ch. 645, 62 Stat. 729; Aug. 9, 1989, Pub. L. 101–73, title IX, §961(b), 103 Stat. 499; Nov. 29, 1990, Pub. L. 101–647, title XXV, §§2504(b), 2595(a)(1), 2597(f), 104 Stat. 4861, 4906, 4909; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(H), 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 729; Aug. 9, 1989, Pub. L. 101–73, title IX, §961(b), 103 Stat. 499; Nov. 29, 1990, Pub. L. 101–647, title XXV, §§2504(b), 2595(a)(1), 2597(f), 104 Stat. 4861, 4906, 4909; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(H), 108 Stat. 2147; Oct. 11, 1996, Pub. L. 104–294, title VI, §§601(f)(1), 606(a), 110 Stat. 3499, 3511.)
 
 #### Historical and Revision Notes
 
@@ -48,19 +48,21 @@ Section 3 of the Federal Deposit Insurance Act, referred to in text, is classifi
 
 #### Amendments
 
-1994—Pub. L. 103–322, in first undesignated par., substituted “fined under this title” for “fined not more than $1,000” after “he shall be”.
+1996—Pub. L. 104–294, in first par., substituted “Federal Reserve Act,” for “Federal Reserve Act,,” and “$1,000” for “$100”.
 
-1990—Pub. L. 101–647, §2597(f)(1), in first undesignated par., directed substitution of “national bank, insured bank, branch or agency of a foreign bank, or organization operating under section 25 or section 25(a) of the Federal Reserve Act,” for “national bank, or insured bank” which was executed by making the substitution for “national bank or insured bank” to reflect the probable intent of Congress, and inserted “insured bank, branch, agency, or organization” after “receiver of a national bank,”, “, branch, agency, or organization” after “misapplies any of the moneys, funds or credits of such bank”, and “branch, agency, or organization” after “custody or care of such bank,”.
+1994—Pub. L. 103–322, in first par., substituted “fined under this title” for “fined not more than $1,000” after “he shall be”.
 
-Pub. L. 101–647, §2595(a)(1)(A), (B), in first undesignated par., inserted “depository institution holding company,” after “Federal Reserve Bank, member bank,” and “or holding company” after “such bank” in two places.
+1990—Pub. L. 101–647, §2597(f)(1), in first par., directed substitution of “national bank, insured bank, branch or agency of a foreign bank, or organization operatingunder section 25 or section 25(a) of the Federal Reserve Act,” for “national bank, or insured bank” which was executed by making the substitution for “national bank or insured bank” to reflect the probable intent of Congress, and inserted “insured bank, branch, agency, or organization” after “receiver of a national bank,”, “, branch, agency, or organization” after “misapplies any of the moneys, funds or credits of such bank”, and “branch, agency, or organization” after “custody or care of such bank,”.
 
-Pub. L. 101–647, §2504(b), in first undesignated par., substituted “30 years” for “20 years”.
+Pub. L. 101–647, §2595(a)(1)(A), (B), in first par., inserted “depository institution holding company,” after “Federal Reserve Bank, member bank,” and “or holding company” after “such bank” in two places.
 
-Pub. L. 101–647, §2597(f)(2), in second undesignated par., struck out “and” after “one of the Federal Reserve Banks;” and directed insertion of “; and the term ‘branch or agency of a foreign bank’ means a branch or agency described in section 20(9) of this title” before the period which was executed by making the insertion before the period at end of first sentence to reflect the probable intent of Congress.
+Pub. L. 101–647, §2504(b), in first par., substituted “30 years” for “20 years”.
 
-Pub. L. 101–647, §2595(a)(1)(C), in second undesignated par., inserted at end “For purposes of this section, the term ‘depository institution holding company’ has the meaning given such term in section 3 of the Federal Deposit Insurance Act.”
+Pub. L. 101–647, §2597(f)(2), in second par., struck out “and” after “one of the Federal Reserve Banks;” and directed insertion of “; and the term ‘branch or agency of a foreign bank’ means a branch or agency described in section 20(9) of this title” before the period which was executed by making the insertion before the period at end of first sentence to reflect the probable intent of Congress.
 
-1989—Pub. L. 101–73, in first undesignated par., substituted “$1,000,000” for “$5,000” and “20 years” for “five years”.
+Pub. L. 101–647, §2595(a)(1)(C), in second par., inserted at end “For purposes of this section, the term ‘depository institution holding company’ has the meaning given such term in section 3 of the Federal Deposit Insurance Act.”
+
+1989—Pub. L. 101–73, in first par., substituted “$1,000,000” for “$5,000” and “20 years” for “five years”.
 
 #### Cross References
 
@@ -71,6 +73,4 @@ Federal Reserve System, laws applicable on becoming member bank, see section 324
 This section is referred to in sections 225, 657, 981, 982, 1006, 1510, 1956, 3059A, 3293, 3322 of this title; title 12 sections 324, 1785, 1786, 1821, 1828, 1829, 1831k, 1833a.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
-
-<i><sup>2</sup></i><i> So in original.</i>
 

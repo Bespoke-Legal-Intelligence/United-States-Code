@@ -10,7 +10,7 @@ Such research activities—
 
 &emsp;(1) shall have a practical application to teachers, counselors, paraprofessionals, school administrators, parents, and others involved in improving the education of limited English proficient students and their families;
 
-&emsp;(2) may include research on effective instructional practices for multilingual classes, and on effective instruction strategies to be used by teachers and other staff who do not know the native language of a limited English proficient child or youth in their classrooms;
+&emsp;(2) may include research on effective instructional practices for multilingual classes, and on effective instruction strategies to be used by teachers and other staff who do notknow the native language of a limited English proficient child or youth in their classrooms;
 
 &emsp;(3) may include establishing (through the National Center for Education Statistics in consultation with experts in bilingual education, second language acquisition, and English-as-a-second-language) a common definition of “limited English proficient student” for purposes of national data collection; and
 
@@ -70,7 +70,7 @@ Authorized Activities.—Research activities authorized to be assisted under thi
 
 “(c)
 
-Consultation and Delegation of Authority.—In carrying out the responsibilities of this section, the Secretary may delegate authority to the Director, and in any event, shall consult with the Director, representatives of State and local educational agencies, appropriate groups and organizations involved in bilingual education, the Committee on Labor and Human Resources of the Senate, and the Committee on Education and Labor \[now Committee on Economic and Educational Opportunities\] of the House of Representatives.
+Consultation and Delegation of Authority.—In carrying out the responsibilities of this section, the Secretary may delegate authority to the Director, and in any event, shall consult with the Director, representatives of State and local educational agencies, appropriate groups and organizations involved in bilingual education, the Committee on Labor and Human Resources of the Senate, and the Committee on Education and Labor \[now Committee on Education and the Workforce\] of the House of Representatives.
 
 “(d)
 

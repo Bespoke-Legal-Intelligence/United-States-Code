@@ -38,7 +38,7 @@ An agreement with a hospital under this section shall, except as otherwise provi
 
 &emsp;(i) The term “availability date” means, with respect to an extended care patient at a hospital, any date on which a bed is available for the patient in a skilled nursing facility located within the geographic region in which the hospital is located.
 
-&emsp;(ii) The term “extended care patient” means an individual being furnished extended careservices at a hospital pursuant to an agreement with the Secretary under this section.
+&emsp;(ii) The term “extended care patient” means an individual being furnished extended care services at a hospital pursuant to an agreement with the Secretary under this section.
 
 (3) In the case of an agreement for a cost reporting period under this section with a hospital that has more than 49 beds, payment may not be made in the period for patient-days of extended care services that exceed 15 percent of the product of the number of days in the period and the average number of licensed beds in the hospital in the period, except that such payment shall continue to be made in the period for those patients who are receiving extended care services at the time the hospital reaches the limit specified in this paragraph.
 
@@ -48,7 +48,7 @@ During a period for which a hospital has in effect an agreement under this secti
 
 #### (f) Conditions applicable to skilled nursing facilities
 
-A hospital which enters into an agreement with the Secretary under this section shall be required to meet those conditions applicable to skilled nursing facilities relating to discharge planning and the social services function (and staffing requirements to satisfy it) which are promulgated by the Secretary under section 1395i–3 of this title. Services furnished by such a hospital which would otherwise constitute post-hospital extended care services if furnished by a skilled nursing facility shall be subject to the same requirements applicable to such services when furnished by a skilled nursing facility except for those requirements the Secretary determines are inappropriate in the case of these services being furnished by a hospital under this section.
+A hospital which enters into an agreement with the Secretary under this section shall be required to meet those conditions applicable to skilled nursing facilities relating to discharge planning and the social services function (and staffing requirements to satisfy it) which are promulgated by the Secretary under section1395i–3 of this title. Services furnished by such a hospital which would otherwise constitute post-hospital extended care services if furnished by a skilled nursing facility shall be subject to the same requirements applicable to such services when furnished by a skilled nursing facility except for those requirements the Secretary determines are inappropriate in the case of these services being furnished by a hospital under this section.
 
 #### (g) Agreements on demonstration basis
 
@@ -92,7 +92,7 @@ Amendment by Pub. L. 101–234 effective Jan. 1, 1990, see section 101(d) of Pub
 
 Amendment by Pub. L. 100–485 effective as if included in the enactment of the Medicare Catastrophic Coverage Act of 1988, Pub. L. 100–360, see section 608(g)(1) of Pub. L. 100–485, set out as a note under section 704 of this title.
 
-Amendment by section 104(d)(6) of Pub. L. 100–360 effective Jan. 1, 1989, except as otherwise provided, and applicable to inpatient hospital deductible for 1989 and succeeding years, to care and services furnished on orafter Jan. 1, 1989, to premiums for January 1989 and succeeding months, and to blood or blood cells furnished on or after Jan. 1, 1989, see section 104(a) of Pub. L. 100–360, set out as a note under section 1395d of this title.
+Amendment by section 104(d)(6) of Pub. L. 100–360 effective Jan. 1, 1989, except as otherwise provided, and applicable to inpatient hospital deductible for 1989 and succeeding years, to care and services furnished on or after Jan. 1, 1989, to premiums for January 1989 and succeeding months, and to blood or blood cells furnished on or after Jan. 1, 1989, see section 104(a) of Pub. L. 100–360, set out as a note under section 1395d of this title.
 
 Except as specifically provided in section 411 of Pub. L. 100–360, amendment by section 411(b)(4)(D), (<i>l</i>)(1)(C) of Pub. L. 100–360, as it relates to a provision in the Omnibus Budget Reconciliation Act of 1987, Pub. L. 100–203, effective as if included in the enactment of that provision in Pub. L. 100–203, see section 411(a) of Pub. L. 100–360, set out as a Reference to OBRA; Effective Date note under section 106 of Title 1, General Provisions.
 
@@ -108,7 +108,7 @@ Section 904(d) of Pub. L. 96–499 provided that: “The amendments made by this
 
 #### Hold Harmless for Amendment by Pub. L. 101–508
 
-Section 4008(j)(2) of Pub. L. 101–508 provided that: “If, as a result of the amendment made by paragraph (1) \[amending this section\], the reasonable cost of routine services furnished by a hospital during a calendar year (as determined under section 1883 of the Social Security Act \[this section\]) is less than the reasonable cost of such services determined under such section for the previous calendar year, the reasonable cost of such services furnished by the hospital during the calendar year under such section shall be equal to the reasonable cost determined under such section for the previous calendar year.”
+Section 4008(j)(2) of Pub. L. 101–508 provided that: “If, as a result of the amendment made by paragraph (1)\[amending this section\], the reasonable cost of routine services furnished by a hospital during a calendar year (as determined under section 1883 of the Social Security Act \[this section\]) is less than the reasonable cost of such services determined under such section for the previous calendar year, the reasonable cost of such services furnished by the hospital during the calendar year under such section shall be equal to the reasonable cost determined under such section for the previous calendar year.”
 
 #### Swing Beds Certified Prior to May 1, 1987
 

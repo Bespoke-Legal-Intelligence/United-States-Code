@@ -4,13 +4,11 @@
 
 For purposes of this chapter, the earnings and profits of a foreign corporation attributable to amounts which are, or have been, included in the gross income of a United States shareholder under section 951(a) shall not, when—
 
-&emsp;(1) such amounts are distributed to,
+&emsp;(1) such amounts are distributed to, or
 
-&emsp;(2) such amounts would, but for this subsection, be included under section 951(a)(1)(B) in the gross income of, or
+&emsp;(2) such amounts would, but for this subsection, be included under section 951(a)(1)(B) in the gross income of,
 
-&emsp;(3) such amounts would, but for this subsection, be included under section 951(a)(1)(C) in the gross income of,
-
-> such shareholder (or any other United States person who acquires from any person any portion of the interest of such United States shareholder in such foreign corporation, but only to the extent of such portion, and subject to such proof of the identity of such interest as the Secretary may by regulations prescribe) directly or indirectly through a chain of ownership described under section 958(a), be again included in the gross income of such United States shareholder (or of such other United States person). The rules of subsection (c) shall apply for purposes of paragraph (1) of this subsection and the rules of subsection (f) shall apply for purposes of paragraphs (2) and (3) of this subsection.
+> such shareholder (or any other United States person who acquires from any person any portion of the interest of such United States shareholder in such foreign corporation, but only to the extent of such portion, and subject to such proof of the identity of such interest as the Secretary may by regulations prescribe) directly or indirectly through a chain of ownership described under section 958(a), be again included in the gross income of such United States shareholder (or of such other United States person). The rules of subsection (c) shall apply for purposes of paragraph (1) of this subsection and the rules of subsection (f) shall apply for purposes of paragraph (2) of this subsection.
 
 #### (b) Exclusion from gross income of certain foreign subsidiaries
 
@@ -32,6 +30,8 @@ For purposes of subsections (a) and (b), section 316(a) shall be applied by appl
 
 &emsp;(3) then to other earnings and profits.
 
+> References in this subsection to section 951(a)(1)(C) and subsection (a)(3) shall be treated as references to such provisions as in effect on the day before the date of the enactment of the Small Business Job Protection Act of 1996.
+
 #### (d) Distributions excluded from gross income not to be treated as dividends
 
 Except as provided in section 960(a)(3), any distribution excluded from gross income under subsection (a) shall be treated, for purposes of this chapter, as a distribution which is not a dividend; except that such distributions shall immediately reduce earnings and profits.
@@ -44,19 +44,31 @@ For purposes of this section and section 960(b), any amount included in the gros
 
 #### (1) In general
 
-&emsp;For purposes of this section—
-
-&emsp;&emsp;(A) amounts that would be included under subparagraph (B) of section 951(a)(1) (determined without regard to this section) shall be treated as attributable first to earnings described in subsection (c)(2), and then to earnings described in subsection (c)(3), and
-
-&emsp;&emsp;(B) amounts that would be included under subparagraph (C) of section 951(a)(1) (determined without regard to this section) shall be treated as attributable first to earnings described in subsection (c)(2) to the extent the earnings so described were accumulated in taxable years beginning after September 30, 1993, and then to earnings described in subsection (c)(3).
+&emsp;For purposes of this section, amounts that would be included under subparagraph (B) of section 951(a)(1) (determined without regard to this section) shall be treated as attributable first to earnings described in subsection (c)(2), and then to earnings described in subsection (c)(3).
 
 #### (2) Treatment of distributions
 
-&emsp;In applying this section, actual distributions shall be taken into account before amounts that would be included under subparagraphs (B) and (C) of section 951(a)(1) (determined without regard to this section).
+&emsp;In applying this section, actual distributions shall be taken into account before amounts that would be included under section 951(a)(1)(B) (determined without regard to this section).
 
-(Added Pub. L. 87–834, §12(a), Oct. 16, 1962, 76 Stat. 1019; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 98–369, div. A, title I, §133(b)(1), July 18, 1984, 98 Stat. 668; Pub. L. 99–514, title XII, §1226(b), Oct. 22, 1986, 100 Stat. 2560; Pub. L. 100–647, title I, §1012(bb)(7)(A), Nov. 10, 1988, 102 Stat. 3536; Pub. L. 103–66, title XIII, §13231(c)(1), (2), (4)(A), (B), Aug. 10, 1993, 107 Stat. 497, 498.)
+(Added Pub. L. 87–834, §12(a), Oct. 16, 1962, 76 Stat. 1019; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 98–369, div. A, title I, §133(b)(1), July 18, 1984, 98Stat. 668; Pub. L. 99–514, title XII, §1226(b), Oct. 22, 1986, 100 Stat. 2560; Pub. L. 100–647, title I, §1012(bb)(7)(A), Nov. 10, 1988, 102 Stat. 3536; Pub. L. 103–66, title XIII, §13231(c)(1), (2), (4)(A), (B), Aug. 10, 1993, 107 Stat. 497, 498; Pub. L. 104–188, title I, §1501(b)(4)–(8), Aug. 20, 1996, 110 Stat. 1826.)
+
+#### References in Text
+
+The date of the enactment of the Small Business Job Protection Act of 1996, referred to in subsec. (c), is the date of enactment of Pub. L. 104–188, which was approved Aug. 20, 1996.
 
 #### Amendments
+
+1996—Subsec. (a). Pub. L. 104–188, §1501(b)(4), (5), substituted “paragraph (2)” for “paragraphs (2) and (3)” in closing provisions, inserted “or” at end of par. (1), struck out “or” at end of par. (2), and struck out par. (3) which read as follows: “such amounts would, but for this subsection, be included under section 951(a)(1)(C) in the gross income of,”.
+
+Subsec. (c). Pub. L. 104–188, §1501(b)(6), inserted at end “References in this subsection to section 951(a)(1)(C) and subsection (a)(3) shall be treated as references to such provisions as in effect on the day before the date of the enactment of the Small Business Job Protection Act of 1996.”
+
+Subsec. (f)(1). Pub. L. 104–188, §1501(b)(7), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “For purposes of this section—
+
+&emsp;“(A) amounts that would be included under subparagraph (B) of section 951(a)(1) (determined without regard to this section) shall be treated as attributable first to earnings described in subsection (c)(2), and then to earnings described in subsection (c)(3), and
+
+&emsp;“(B) amounts that would be included under subparagraph (C) of section 951(a)(1) (determined without regard to this section) shall be treated as attributable first to earnings described in subsection (c)(2) to the extent the earnings so described were accumulated in taxable years beginning after September 30, 1993, and then to earnings described in subsection (c)(3).”
+
+Subsec. (f)(2). Pub. L. 104–188, §1501(b)(8), substituted “section 951(a)(1)(B)” for “subparagraphs (B) and (C) of section 951(a)(1)”.
 
 1993—Subsec. (a). Pub. L. 103–66, §13231(c)(2)(A), (4)(A), substituted in introductory provisions “earnings and profits” for “earnings and profits for taxable year” and inserted at end of closing provisions “The rules of subsection (c) shall apply for purposes of paragraph (1) of this subsection and the rules of subsection (f) shall apply for purposes of paragraphs (2) and (3) of this subsection.”
 
@@ -77,6 +89,10 @@ Subsec. (f). Pub. L. 103–66, §13231(c)(2)(B), added subsec. (f).
 1984—Subsec. (e). Pub. L. 98–369 added subsec. (e).
 
 1976—Subsecs. (a), (b). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–188 applicable to taxable years of foreign corporations beginning after Dec. 31, 1996, and to taxable years of United States shareholders within which or with which such taxable years of foreign corporations end, see section 1501(d) of Pub. L. 104–188, set out as a note under section 904 of this title.
 
 #### Effective Date of 1993 Amendment
 
@@ -120,5 +136,5 @@ Election.—
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 851, 951, 956, 956A, 960, 961, 962, 986, 1246, 1248, 1291, 1293, 1297 of this title.
+This section is referred to in sections 851, 951, 956, 960, 961, 962, 986, 1246, 1248, 1291, 1293, 1297 of this title.
 

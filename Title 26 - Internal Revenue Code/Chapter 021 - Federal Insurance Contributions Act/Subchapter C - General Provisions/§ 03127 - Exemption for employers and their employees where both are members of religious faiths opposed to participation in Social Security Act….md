@@ -14,7 +14,7 @@ Notwithstanding any other provision of this chapter (and under regulations presc
 
 An application for exemption filed by an employer (or a partner) under subsection (a)(1) or by an employee under subsection (a)(2) shall be approved only if—
 
-&emsp;(1) such application contains or is accompanied by the evidence described in section1402(g)(1)(A) and a waiver described in section 1402(g)(1)(B),
+&emsp;(1) such application contains or is accompanied by the evidence described in section 1402(g)(1)(A) and a waiver described in section 1402(g)(1)(B),
 
 &emsp;(2) the Commissioner of Social Security makes the findings (with respect to such sect or division) described in section 1402(g)(1)(C), (D), and (E), and
 

@@ -162,7 +162,7 @@ For purposes of section 201(a) of the Federal Property and Administrative Servic
 
 &emsp;(iv) In the case of a fixed-price contract, a fair profit determined by taking into consideration the relevant risks and local market conditions.
 
-&emsp;(v) If the Secretary and the tribe or tribal organization are unable to develop a mutually agreeable construction contract proposal pursuant to the procedures set forth in this subsection, the tribe or tribal organization may submit a final contract proposal to the Secretary. Not later than 30 days after receiving such final contract proposal, the Secretary shall approve the contract proposal and award the contract, unless, during such period the Secretary declines the proposal pursuant to subsections (a)(2) and (b) <sup>2</sup> of section 450f of this title (including providing opportunity foran appeal pursuant to section 450f(b) of this title).
+&emsp;(v) If the Secretary and the tribe or tribal organization are unable to develop a mutually agreeable construction contract proposal pursuant to the procedures set forth in this subsection, the tribe or tribal organization may submit a final contract proposal to the Secretary. Not later than 30 days after receiving such final contract proposal, the Secretary shall approve the contract proposal and award the contract, unless, during such period the Secretary declines the proposal pursuant to subsections (a)(2) and (b) <sup>2</sup> of section 450f of this title (including providing opportunity for an appeal pursuant to section 450f(b) of this title).
 
 #### (n) Rental rates for housing for Government employees in Alaska
 
@@ -174,7 +174,7 @@ Notwithstanding any other provision of law, the rental rates for housing provide
 
 > as based on the cost of comparable private rental housing in the nearest established community with a year-round population of 1,500 or more individuals.
 
-(Pub. L. 93–638, title I, §105, formerly §106, Jan. 4, 1975, 88 Stat. 2210; renumbered §105 and amended Pub. L. 100–472, title II, §204, Oct. 5, 1988, 102 Stat. 2291; Pub. L. 101–301, §2(a)(7), May 24, 1990, 104 Stat. 207; Pub. L. 101–644, title II, §203(c)–(e), Nov. 29, 1990, 104 Stat. 4666; Pub. L. 103–413, title I, §§102(10)–(13), 106, Oct. 25, 1994, 108 Stat. 4253–4255, 4270.)
+(Pub. L. 93–638, title I, §105, formerly §106, Jan. 4, 1975, 88 Stat. 2210; renumbered §105 and amended Pub. L. 100–472, title II, §204, Oct. 5, 1988, 102 Stat. 2291; Pub. L. 101–301, §2(a)(7), May 24, 1990, 104 Stat. 207; Pub. L. 101–644, title II, §203(c)–(e), Nov. 29, 1990, 104 Stat. 4666; Pub. L. 103–413, title I, §§102(10)–(13), 106, Oct. 25, 1994, 108 Stat. 4253–4255, 4270; Pub. L. 104–109, §7, Feb. 12, 1996, 110 Stat. 764.)
 
 #### References in Text
 
@@ -184,7 +184,7 @@ The Federal Property and Administrative Services Act of 1949, referred to in sub
 
 Section 9(c) of the Act of Aug. 2, 1946, referred to in subsec. (a)(3)(C)(ii)(III), is section 9(c) of act Aug. 2, 1946, ch. 744, 60 Stat. 809, which amended section 5 of Title 41.
 
-The Service Control Act of 1965, referred to in subsec. (a)(3)(C)(ii)(IX), probably means the Service Contract Act of 1965, or Pub. L. 89–286, Oct. 22, 1965, 79 Stat. 1034, as amended, which is classified generally to chapter 6 (§351 et seq.) of Title 41. For complete classification of this Act to the Code, see Short Title note set out under section 351 of Title 41 and Tables.
+The Service Control Act of 1965, referred to in subsec. (a)(3)(C)(ii)(IX), probably means the Service ContractAct of 1965, or Pub. L. 89–286, Oct. 22, 1965, 79 Stat. 1034, as amended, which is classified generally to chapter 6 (§351 et seq.) of Title 41. For complete classification of this Act to the Code, see Short Title note set out under section 351 of Title 41 and Tables.
 
 The Small Business Act, referred to in subsec. (a)(3)(C)(ii)(X), is Pub. L. 85–536, July 18, 1958, 72 Stat. 384, as amended, which is classified generally to chapter 14A (§631 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 631 of Title 15 and Tables.
 
@@ -202,9 +202,11 @@ A prior section 105 of Pub. L. 93–638 was renumbered section 104 by Pub. L. 10
 
 #### Amendments
 
+1996—Subsec. (e). Pub. L. 104–109 made technical amendment to directory language of Pub. L. 103–413, §102(11). See 1994 Amendment note below.
+
 1994—Subsec. (a). Pub. L. 103–413, §102(10), added subsec. (a) and struck out former subsec. (a) which read as follows: “Contracts with tribal organizations pursuant to section 450f of this title shall be in accordance with all Federal contracting laws and regulations except that, in the discretion of the appropriate Secretary, such contracts may be negotiated without advertising and need not conform with the provisions of sections 270a to 270d of title 40: <i>Provided</i>, That the appropriate Secretary may waive any provisions of such contracting laws or regulations which he determines are not appropriate for the purposes of the contract involved or inconsistent with the provisions of this Act: <i>Provided further</i>, That, except for construction contracts (or sub-contracts of such a construction contract), the Office of Federal Procurement Policy Act (88 Stat. 796; 41 U.S.C. 401 et seq.) and Federal acquisition regulations promulgated thereunder shall not apply to self-determination contracts.”
 
-Subsec. (e). Pub. L. 103–413, §102(11), which directed the addition of subsec. (e) and striking out of former subsec. (e) without identifying the section to be amended, was executed by amending this section, which is section 105 of Pub. L. 93–638. Prior to amendment subsec. (e) read as follows: “Whenever an Indian tribe requests retrocession of the appropriate Secretary for any contract entered into pursuant to this Act, such retrocession shall become effective one year from the date of the request by the Indian tribe or at such date as may be mutually agreed by the Secretary and the Indian tribe.”
+Subsec. (e). Pub. L. 103–413, §102(11), as amended by Pub. L. 104–109, added subsec. (e) and struck out former subsec. (e) which read as follows: “Whenever an Indian tribe requests retrocession of the appropriate Secretary for any contract entered into pursuant to this Act, such retrocession shall become effective one year from the date of the request by the Indian tribe or at such date as may be mutually agreed by the Secretary and the Indian tribe.”
 
 Subsec. (f)(2). Pub. L. 103–413, §102(12), added par. (2) and struck out former par. (2) which read as follows: “donate to an Indian tribe or tribal organization the title to any personal or real property found to be excess to the needs of the Bureau of Indian Affairs, the Indian Health Service, or the General Services Administration, including property and equipment purchased with funds under any self-determination contract or grant agreement; and”.
 
@@ -214,7 +216,7 @@ Subsecs. (i) to (n). Pub. L. 103–413, §102(13), added subsecs. (i) to (n).
 
 1990—Subsec. (a). Pub. L. 101–301 substituted “sub-contracts of such a construction contract” for “sub-contracts in such cases where the tribal contractor has sub-contracted the activity”.
 
-Subsec. (c)(1)(B). Pub. L. 101–644, §203(c), amended subpar. (B) generally. Prior to amendment, subpar. (B)read as follows: “for an indefinite term in the case of a mature contract.”
+Subsec. (c)(1)(B). Pub. L. 101–644, §203(c), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “for an indefinite term in the case of a mature contract.”
 
 Subsec. (d). Pub. L. 101–644, §203(d), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows:
 

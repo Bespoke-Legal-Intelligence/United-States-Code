@@ -11,5 +11,5 @@
 - [&sect; 00460m&#8211;3 - Establishment; notice in Federal Register; alteration of boundaries; acreage limitation](%C2%A7%2000460m%E2%80%933%20-%20Establishment%3B%20notice%20in%20Federal%20Register%3B%20alteration%20of%20boundaries%3B%20acreage%20limitation.md)
 - [&sect; 00460m&#8211;4 - Cooperative land development programs; hunting and fishing](%C2%A7%2000460m%E2%80%934%20-%20Cooperative%20land%20development%20programs%3B%20hunting%20and%20fishing.md)
 - [&sect; 00460m&#8211;5 - Administration](%C2%A7%2000460m%E2%80%935%20-%20Administration.md)
-- [&sect; 00460m&#8211;6 - Ozark National Scenic Riverways Commission](%C2%A7%2000460m%E2%80%936%20-%20Ozark%20National%20Scenic%20Riverways%20Commission.md)
+- [&sect; 00460m&#8211;6 - Free-roaming horses](%C2%A7%2000460m%E2%80%936%20-%20Free-roaming%20horses.md)
 - [&sect; 00460m&#8211;7 - Authorization of appropriations](%C2%A7%2000460m%E2%80%937%20-%20Authorization%20of%20appropriations.md)

@@ -2,7 +2,7 @@
 
 #### (a) Comprehensive information plan
 
-The Secretary, acting through the Director of the Centers for Disease Control and Prevention,shall annually prepare a comprehensive plan, including a budget, for a National Acquired Immune Deficiency Syndrome Information Program. The plan shall contain provisions to implement the provisions of this subchapter. The Director shall submit such plan to the Secretary. The authority established in this subsection may not be construed to be the exclusive authority for the Director to carry out information activities with respect to acquired immune deficiency syndrome.
+The Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall annually prepare a comprehensive plan, including a budget, for a National Acquired Immune Deficiency Syndrome Information Program. The plan shall contain provisions to implement the provisions of this subchapter. The Director shall submit such plan to the Secretary. The authority established in this subsection may not be construed to be the exclusive authority for the Director to carry out information activities with respect to acquired immune deficiency syndrome.
 
 #### (b) Clearinghouse
 
@@ -20,7 +20,7 @@ The Secretary, acting through the Director of the Centers for Disease Control an
 
 The Secretary shall provide for the establishment and maintenance of toll-free telephone communications to provide information to, and respond to queries from, the public concerning acquired immune deficiency syndrome. Such communications shall be available on a 24-hour basis.
 
-(July 1, 1944, ch. 373, title XXV, formerly title XV, §2521, as added Nov. 4, 1988, Pub. L. 100–607, title II, §221, 102 Stat. 3102; renumbered title XXV, Aug. 16, 1989, Pub. L. 101–93, §5(e)(1), 103 Stat. 612; Oct. 27, 1992, Pub. L. 102–531, title III, §312(d)(22), 106 Stat. 3505.)
+(July 1, 1944, ch. 373, title XXV, formerly title XV, §2521, as added Nov. 4, 1988, Pub. L. 100–607, title II, §221, 102 Stat. 3102; renumbered title XXV, Aug. 16, 1989, Pub. L. 101–93, §5(e)(1), 103 Stat. 612; amended Oct. 27, 1992, Pub. L. 102–531, title III, §312(d)(22), 106 Stat. 3505.)
 
 #### Amendments
 

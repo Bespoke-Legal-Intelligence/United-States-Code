@@ -6,7 +6,7 @@ It shall be unlawful for a business development company to acquire any assets (o
 
 &emsp;(1) securities purchased, in transactions not involving any public offering or in such other transactions as the Commission may, by rule, prescribe if it finds that enforcement of this subchapter and of the Securities Act of 1933 \[15 U.S.C. 77a et seq.\] with respect to such transactions is not necessary in the public interest or for the protection of investors by reason of the small amount, or the limited nature of the public offering, involved in such transactions—
 
-&emsp;&emsp;(A) from the issuer of such securities, which issuer is an eligible portfolio company, or from any person who is, or who within the preceding thirteen months has been, an affiliated person of such eligible portfolio company; or
+&emsp;&emsp;(A) from the issuer of such securities, which issuer is an eligible portfolio company, from any person who is, or who within the preceding thirteen months has been, an affiliated person of such eligible portfolio company, or from any other person, subject to such rules and regulations as the Commission may prescribe as necessary or appropriate in the public interest or for the protection of investors; or
 
 &emsp;&emsp;(B) from the issuer of such securities, which issuer is described in section 80a–2(a)(46)(A) and (B) of this title but is not an eligible portfolio company because it has issued a class of securities with respect to which a member of a national securities exchange, broker, or dealer may extend or maintain credit to or for a customer pursuant to rules or regulations adopted by the Board of Governors of the Federal Reserve System under section 78g of this title, or from any person who is an officer or employee of such issuer, if—
 
@@ -42,13 +42,15 @@ It shall be unlawful for a business development company to acquire any assets (o
 
 For purposes of this section, the value of a business development company's assets shall be determined as of the date of the most recent financial statements filed by such company with the Commission pursuant to section 78m of this title, and shall be determined no less frequently than annually.
 
-(Aug. 22, 1940, ch. 686, title I, §55, as added Oct. 21, 1980, Pub. L. 96–477, title I, §105, 94 Stat. 2278; amended Dec. 4, 1987, Pub. L. 100–181, title VI, §626, 101 Stat. 1263.)
+(Aug. 22, 1940, ch. 686, title I, §55, as added Oct. 21, 1980, Pub. L. 96–477, title I, §105, 94 Stat. 2278; amended Dec. 4, 1987, Pub. L. 100–181, title VI, §626, 101 Stat. 1263; Oct. 11, 1996, Pub. L. 104–290, title V, §505, 110 Stat. 3446.)
 
 #### References in Text
 
 The Securities Act of 1933, referred to in subsec. (a)(1), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, as amended, which is classified generally to subchapter I (§77a et seq.) of chapter 2A of this title. For complete classification of this Act to the Code, see section 77a of this title and Tables.
 
 #### Amendments
+
+1996—Subsec. (a)(1)(A). Pub. L. 104–290 substituted “from any person” for “or from any person” and inserted before semicolon “, or from any other person, subject to such rules and regulations as the Commission may prescribe as necessary or appropriate in the public interest or for the protection of investors”.
 
 1987—Subsec. (a)(1)(B). Pub. L. 100–181 substituted “described in section” for “described in sections”.
 

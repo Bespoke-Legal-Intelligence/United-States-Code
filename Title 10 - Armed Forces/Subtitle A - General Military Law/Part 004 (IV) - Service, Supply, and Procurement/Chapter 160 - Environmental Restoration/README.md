@@ -4,7 +4,7 @@
 | :--- | ---: |
 | [2701\.](%C2%A7%2002701%20-%20Environmental%20restoration%20program.md) | Environmental restoration program. |
 | [2702\.](%C2%A7%2002702%20-%20Research%2C%20development%2C%20and%20demonstration%20program.md) | Research, development, and demonstration program. |
-| [2703\.](%C2%A7%2002703%20-%20Environmental%20restoration%20transfer%20account.md) | Environmental restoration transfer account. |
+| [2703\.](%C2%A7%2002703%20-%20Environmental%20restoration%20accounts.md) | Environmental restoration accounts. |
 | [2704\.](%C2%A7%2002704%20-%20Commonly%20found%20unregulated%20hazardous%20substances.md) | Commonly found unregulated hazardous substances. |
 | [2705\.](%C2%A7%2002705%20-%20Notice%20of%20environmental%20restoration%20activities.md) | Notice of environmental restoration activities. |
 | [2706\.](%C2%A7%2002706%20-%20Annual%20reports%20to%20Congress.md) | Annual reports to Congress. |
@@ -15,15 +15,19 @@
 
 #### Amendments
 
+1996—Pub. L. 104–201, div. A, title III, §322(a)(2), Sept. 23, 1996, 110 Stat. 2478, substituted “accounts” for “transfer account” in item 2703.
+
 1991—Pub. L. 102–190, div. A, title III, §331(a)(2), Dec. 5, 1991, 105 Stat. 1340, added item 2708.
 
 Pub. L. 102–25, title VII, §701(e)(6), Apr. 6, 1991, 105 Stat. 114, substituted “Annual reports to Congress” for “Annual report to Congress” in item 2706.
 
-1989—Pub. L. 101–189, div. A, title III, §357(a)(2)(B), Nov. 29, 1989, 103 Stat. 1427, which directed amendment of the item relating to section 2706 in the table of sections at the beginning of chapter 106 to read “Annual reports to Congress”, could not be executed because item 2706 is in this chapter and not in chapter 106.
+1989—Pub. L. 101–189, div. A, title III, §357(a)(2)(B), Nov. 29, 1989, 103 Stat. 1427, which directed amendmentof the item relating to section 2706 in the table of sections at the beginning of chapter 106 to read “Annual reports to Congress”, could not be executed because item 2706 is in this chapter and not in chapter 106.
 
 #### Chapter Referred to in Other Sections
 
 This chapter is referred to in section 2810 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “agency”.</i>
 
 
 ---
@@ -32,7 +36,7 @@ This chapter is referred to in section 2810 of this title.
 
 - [&sect; 02701 - Environmental restoration program](%C2%A7%2002701%20-%20Environmental%20restoration%20program.md)
 - [&sect; 02702 - Research, development, and demonstration program](%C2%A7%2002702%20-%20Research%2C%20development%2C%20and%20demonstration%20program.md)
-- [&sect; 02703 - Environmental restoration transfer account](%C2%A7%2002703%20-%20Environmental%20restoration%20transfer%20account.md)
+- [&sect; 02703 - Environmental restoration accounts](%C2%A7%2002703%20-%20Environmental%20restoration%20accounts.md)
 - [&sect; 02704 - Commonly found unregulated hazardous substances](%C2%A7%2002704%20-%20Commonly%20found%20unregulated%20hazardous%20substances.md)
 - [&sect; 02705 - Notice of environmental restoration activities](%C2%A7%2002705%20-%20Notice%20of%20environmental%20restoration%20activities.md)
 - [&sect; 02706 - Annual reports to Congress](%C2%A7%2002706%20-%20Annual%20reports%20to%20Congress.md)

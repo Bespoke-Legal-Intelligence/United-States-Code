@@ -61,7 +61,7 @@
 | (i) | Effect of prior Federal law. |
 | (j) | Surplus timber. |
 | (k) | Suspension of prohibitions. |
-| (<i>l)</i> | Existing authority not affected. |
+| (<i>l</i>) | Existing authority not affected. |
 | [620d.](%C2%A7%2000620d%20-%20Monitoring%20and%20enforcement.md) | Monitoring and enforcement. |
 | (a) | Monitoring and reports. |
 | (b) | Report to Congress. |

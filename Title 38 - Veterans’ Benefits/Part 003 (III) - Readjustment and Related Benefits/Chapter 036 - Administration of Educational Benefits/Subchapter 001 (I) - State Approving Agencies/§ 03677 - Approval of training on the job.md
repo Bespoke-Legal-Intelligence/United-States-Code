@@ -4,7 +4,7 @@
 
 (b) The training establishment offering training which is desired to be approved for the purposes of this chapter must submit to the appropriate State approving agency a written application for approval which, in addition to furnishing such information as is required by the State approving agency, contains a certification that—
 
-&emsp;(1) the wages to be paid the eligible veteran or person (A) upon entrance into training, are not less than wages paid nonveterans in the same training position and are at least 50 per centum of the wages paid for the job for which the veteran or person is to be trained, and (B) such wages will be increased in regular periodic increments until, not later than the last full month of the training period, they will be at least 85 per centum of the wages paid for the job for which such eligible veteran or person is being trained; and
+&emsp;(1) the wages to be paid the eligible veteran or person (A) upon entrance into training, are not less than wages paid nonveterans in the same training position and are at least 50 percentum of the wages paid for the job for which the veteran or person is to be trained, and (B) such wages will be increased in regular periodic increments until, not later than the last full month of the training period, they will be at least 85 per centum of the wages paid for the job for which such eligible veteran or person is being trained; and
 
 &emsp;(2) there is reasonable certainty that the job for which the eligible veteran or person is to be trained will be available to the veteran or person at the end of the training period.
 

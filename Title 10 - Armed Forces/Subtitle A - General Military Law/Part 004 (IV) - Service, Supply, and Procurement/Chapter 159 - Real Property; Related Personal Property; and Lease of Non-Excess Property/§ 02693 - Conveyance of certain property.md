@@ -1,6 +1,6 @@
 ### §2693. Conveyance of certain property
 
-(a) Except as provided in subsection (b), before any real property or facility of the UnitedStates that is under the jurisdiction of any department, agency, or instrumentality of the Department of Defense is determined to be excess to the needs of such department, agency, or instrumentality, the Secretary shall—
+(a) Except as provided in subsection (b), before any real property or facility of the United States that is under the jurisdiction of any department, agency, or instrumentality of the Department of Defense is determined to be excess to the needs of such department, agency, or instrumentality, the Secretary shall—
 
 &emsp;(1) provide adequate notification of the availability of such real property or facility within the Department of Defense;
 

@@ -1,0 +1,4 @@
+### §116. Repealed. Pub. L. 104–316, title I, §121(a), Oct. 19, 1996, 110 Stat. 3836
+
+Section, acts July 1, 1944, ch. 358, §16, 58 Stat. 664; Ex. Ord. No. 9809, §8, eff. Dec. 12, 1946, 11 F.R. 14281; 1947 Reorg. Plan No. 1, §201, eff. July 1, 1947, 12 F.R. 4534, 61 Stat. 951; June 30, 1949, ch. 288, title I, §102(b), 63 Stat. 380, related to functions and jurisdiction of General Accounting Office in reviewing final settlements made by contracting agency, in certifying settlements suspected of being fraudulent to Department of Justice, Administrator of General Services, and contracting agency, and in reporting on efficacy of settlement methods and procedures to Congress.
+

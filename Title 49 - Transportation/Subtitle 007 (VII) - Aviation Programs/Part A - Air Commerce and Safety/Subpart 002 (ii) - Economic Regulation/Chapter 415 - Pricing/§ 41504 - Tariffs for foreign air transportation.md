@@ -20,7 +20,7 @@ Filing and Contents.—In the way prescribed by regulation by the Secretary of T
 
 (b)
 
-Changes.—(1) Except as provided in paragraph (2) of this subsection, an air carrier or foreign air carrier may change a price or a classification, rule, or practice affecting that price or the value of the transportation provided under that price, specified in a tariff of the carrier for foreign air transportation only after 30 days after the carrier has filed, published, and posted notice of the proposed change in the same way as required for a tariff under subsection (a) of this section. However, the Secretary may prescribe an alternative notice requirement, of atleast 25 days, to allow an air carrier or foreign air carrier to match a proposed change in a passenger fare or a charge of another air carrier or foreign air carrier. A notice under this paragraph must state plainly the change proposed and when the change will take effect.
+Changes.—(1) Except as provided in paragraph (2) of this subsection, an air carrier or foreign air carrier may change a price or a classification, rule, or practice affecting that price or the value of the transportation provided under that price, specified in a tariff of the carrier for foreign air transportation only after 30 days after the carrier has filed, published, and posted notice of the proposed change in the same way as required for a tariff under subsection (a) of this section. However, the Secretary may prescribe an alternative notice requirement, of at least 25 days, to allow an air carrier or foreign air carrier to match a proposed change in a passenger fare or a charge of another air carrier or foreign air carrier. A notice under this paragraph must state plainly the change proposed and when the change will take effect.
 
 (2) If the effect of a proposed change would be to begin a passenger fare that is outside of, or not covered by, the range of passenger fares specified under section 41509(e)(2) and (3) of this title, the proposed change may be put into effect only on the expiration of 60 days after the notice is filed under regulations prescribed by the Secretary.
 
@@ -32,7 +32,9 @@ Rejection of Changes.—The Secretary may reject a tariff or tariff change that 
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -46,7 +48,7 @@ Aug. 23, 1958, Pub. L. 85–726, §403(a), 72 Stat. 758.
 
 &nbsp;
 
-49 App.:1551(a) (4)(B) (related to 49 App.:1373(a)), (b)(1)(E).
+49 App.:1551(a)(4)(B) (related to 49 App.:1373(a)), (b)(1)(E).
 
 Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1601(a)(4)(B) (related to §403(a), (c)(1), (2)), (b)(1)(E); added Oct. 4, 1984, Pub. L. 98–443, §3(c), (e), 98 Stat. 1703, 1704.
 
@@ -58,7 +60,7 @@ Aug. 23, 1958, Pub. L. 85–726, §403(c)(1), (2), 72 Stat. 759; Nov. 9, 1977, P
 
 &nbsp;
 
-49 App.:1551(a) (4)(B) (related to 49 App.:1373(c)(1)), (b)(1)(E).
+49 App.:1551(a)(4)(B) (related to 49 App.:1373(c)(1)), (b)(1)(E).
 
 41504(b)(2)
 
@@ -66,7 +68,7 @@ Aug. 23, 1958, Pub. L. 85–726, §403(c)(1), (2), 72 Stat. 759; Nov. 9, 1977, P
 
 &nbsp;
 
-49 App.:1551(a) (4)(B) (related to 49 App.:1373(c)(2)), (b)(1)(E).
+49 App.:1551(a)(4)(B) (related to 49 App.:1373(c)(2)), (b)(1)(E).
 
 41504(c)
 
@@ -74,7 +76,7 @@ Aug. 23, 1958, Pub. L. 85–726, §403(c)(1), (2), 72 Stat. 759; Nov. 9, 1977, P
 
 &nbsp;
 
-49 App.:1551(a) (4)(B) (related to 49 App.:1373(a)), (b)(1)(E).
+49 App.:1551(a)(4)(B) (related to 49 App.:1373(a)), (b)(1)(E).
 
 In this section, the words “foreign air transportation” are substituted for “air transportation” because 49 App.:1551(a)(4)(B) provides that 49 App.:1373 no longer applies to interstate or overseas air transportation and 49 App.:1376(a)–(e), restated in section 41901 of the revised title, governs rates for the transportation of mail by aircraft. See section 40102(a) of the revised title defining “air transportation” to mean interstate or foreign air transportation or the transportation of mail by aircraft. The words “passenger fare” are substituted for “fare” for consistency in the revised title.
 
@@ -82,9 +84,9 @@ In subsection (a), before clause (1), the word “print” is omitted as being i
 
 In subsection (b)(1), the words “for foreign air transportation” are added because of 49 App.:1551(a)(4)(B). See the revision notes for subsection (a) of this section. The words “in the same way as required for a tariff under” are substituted for “in accordance with” for clarity. The words “proposed change in a passenger fare or a charge of another air carrier or foreign air carrier” are substituted for “fares or charges specified in another air carrier's or foreign air carrier's proposed tariff” for clarity and consistency in this section.
 
-In subsection (b)(2), the words “not covered by” are substituted for “to which such range of fares does not apply” to eliminate unnecessary words. The words “subparagraphs (A) and (B) of section 1482(d)(4) of this Appendix . . . section 1482(d)(7) of this Appendix” are omitted because those sections related to interstate and overseas air transportation and the source provisions restated in this section relate to foreign air transportation. In addition, the text of 49 App.:1551(a)(5)(D) provides that 49 App.:1482(d) ceased to be in effect on January 1, 1985, except as related to foreign air transportation. The reference in the source provisions to “section 1482(j)(9) of this Appendix” has been restated as though it were a reference to 49 App.:1482(j)(10) to correct an apparent error in the International Air Transportation Competition Act of 1979 (Public Law 96–192, 94 Stat. 35). Section 24(b) of S. 1300 of the 96th Congress (the derivative source for the International Air Transportation Competition Act of 1979), as originally passed by both the Senate and the House of Representatives, restated section 403(c)(2) of the Federal Aviation Act of 1958 (Public Law 85–726, 72 Stat. 759) to read as it now does with a cross–reference to section 1002(j)(9) of the Federal Aviation Act of 1958. Also contained in those versions of S. 1300 in section 24(a) was an amendment to section 1002(j) of the Federal Aviation Act of 1958 to add a paragraph (9) that contained language identical to what is now section 1002(j)(10) of the Federal Aviation Act of 1958. When S. 1300 was reported by the conference committee and enacted into law as the International Air Transportation Competition Act of 1979, section 24(a) had been changed so that a different paragraph (9) was added and what had been paragraph (9) was now designated as a new paragraph (10) to be added. Apparently, when the conference committee redesignated section 1002(j)(9) as 1002(j)(10) it did not make a corresponding change in the cross–reference in section 403(c)(2). See 125 Cong. Rec. 26936, 32147, 36939.
+In subsection (b)(2), the words “not covered by” are substituted for “to which such range of fares does not apply” to eliminate unnecessary words. The words “subparagraphs (A) and (B) of section 1482(d)(4) of this Appendix . . . section 1482(d)(7) of this Appendix” are omitted because those sections related to interstate and overseas air transportation and the source provisions restated in this section relate to foreign air transportation. In addition, the text of 49 App.:1551(a)(5)(D) provides that 49 App.:1482(d) ceased to be in effect on January 1, 1985, except as related to foreign air transportation. The reference in the source provisions to “section 1482(j)(9) of this Appendix” has been restated as though it were a reference to 49 App.:1482(j)(10) to correct an apparent error in the International Air Transportation Competition Act of 1979 (Public Law 96–192, 94 Stat. 35). Section 24(b) of S. 1300 of the 96th Congress (the derivative source for the International Air Transportation Competition Act of 1979), as originally passed by both the Senate and the House of Representatives, restated section 403(c)(2) of the Federal Aviation Act of 1958 (Public Law 85–726, 72 Stat. 759) to read as it now does with a cross–reference to section 1002(j)(9) of the Federal Aviation Act of 1958. Also contained in those versions of S. 1300 in section 24(a) was an amendment to section 1002(j) of the Federal Aviation Act of 1958 to add a paragraph (9) that contained language identical to what is now section 1002(j)(10) of the Federal Aviation Act of 1958. When S. 1300 was reported by the conference committee and enacted into law as the International Air Transportation Competition Act of 1979, section 24(a) had been changed so that a different paragraph (9) was added and what had been paragraph (9) was now designated as a new paragraph (10) to be added. Apparently, when the conference committee redesignated section 1002(j)(9) as1002(j)(10) it did not make a corresponding change in the cross–reference in section 403(c)(2). See 125 Cong. Rec. 26936, 32147, 36939.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 40109, 41110, 41310, 41503, 41509, 46301 of this title.
+This section is referred to in sections 41110, 41310, 41503, 41509 of this title.
 

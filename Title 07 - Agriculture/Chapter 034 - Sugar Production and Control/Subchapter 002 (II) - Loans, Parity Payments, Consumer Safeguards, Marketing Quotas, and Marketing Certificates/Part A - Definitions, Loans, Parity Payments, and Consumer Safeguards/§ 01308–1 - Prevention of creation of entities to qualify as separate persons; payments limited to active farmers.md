@@ -6,7 +6,7 @@ For the purposes of preventing the use of multiple legal entities to avoid the e
 
 #### (1) In general
 
-&emsp;A person (as defined in section 1308(5)(B)(i) of this title) that receives farm program payments (as described in paragraphs (1) and (2) of this section as being subject to limitation) for a crop year under the Agricultural Act of 1949 (7 U.S.C. 1421 et seq.) may not also hold, directly or indirectly, substantial beneficial interests in more than two entities (as defined in section 1308(5)(B)(i)(II) of this title) engaged in farm operations that also receive such payments as separate persons, for the purposes of the application of the limitations under section 1308 of this title. A person that does not receive such payments for a crop year may not hold, directly or indirectly, substantial beneficial interests in more than three entities that receive such payments as separate persons, for the purposes of the application of the limitations under section 1308 of this title.
+&emsp;A person (as defined in section 1308(5)(B)(i) of this title) that receives farm program payments (as described in paragraphs (1) and (2) of this section as being subject to limitation) for a crop year may not also hold, directly or indirectly, substantial beneficial interests in more than two entities (as defined in section 1308(5)(B)(i)(II) of this title) engaged in farm operations that also receive such payments as separate persons, for the purposes of the application of the limitations under section 1308 of this title. A person that does not receive such payments for a crop year may not hold, directly or indirectly, substantial beneficial interests in more than three entities that receive such payments as separate persons, for the purposes of the application of the limitations under section 1308 of this title.
 
 #### (2) Minimal beneficial interests
 
@@ -20,7 +20,7 @@ For the purposes of preventing the use of multiple legal entities to avoid the e
 
 #### (A) In general
 
-&emsp;&emsp;If a person is notified that the person holds substantial beneficial interests in more than the number of entities receiving payments that is permitted under this subsection for the purposes of the application of the limitations under section 1308 of this title, the person immediately shall notify the Secretary, designating those entities that should be considered as permitted entities for the person for purposes of applying the limitations. Each remaining entity in which the person holds a substantial beneficial interest shall be subject to reductions in the payments to the entity subject to limitation under section 1308 of this title in accordance with this subparagraph. Each such payment applicable to the entity shall be reduced by an amount that bears the same relation to the full payment that the person's beneficial interest inthe entity bears to all beneficial interests in the entity combined. Before making such reductions, the Secretary shall notify all individuals or entities affected thereby and permit them to adjust among themselves their interests in the designated entity or entities.
+&emsp;&emsp;If a person is notified that the person holds substantial beneficial interests in more than the number of entities receiving payments that is permitted under this subsection for the purposes of the application of the limitations under section 1308 of this title, the person immediately shall notify the Secretary, designating those entities that should be considered as permitted entities for the person for purposes of applying the limitations. Each remaining entity in which the person holds a substantial beneficial interest shall be subject to reductions in the payments to the entity subject to limitation under section 1308 of this title in accordance with this subparagraph. Each such payment applicable to the entity shall be reduced by an amount that bears the same relation to the full payment that the person's beneficial interest in the entity bears to all beneficial interests in the entity combined. Before making such reductions, the Secretary shall notify all individuals or entities affected thereby and permit them to adjust among themselves their interests in the designated entity or entities.
 
 #### (B) Notice not provided
 
@@ -30,7 +30,7 @@ For the purposes of preventing the use of multiple legal entities to avoid the e
 
 #### (1) In general
 
-&emsp;To be separately eligible for farm program payments (as described in paragraphs (1) and (2) of section 1308 of this title as being subject to limitation) under the Agricultural Act of 1949 \[7 U.S.C. 1421 et seq.\] with respect to a particular farming operation (whether in the person's own right or as a partner in a general partnership, a grantor of a revocable trust, a participant in a joint venture, or a participant in a similar entity (as determined by the Secretary) that is the producer of the crops involved), a person must be an individual or entity described in section 1308(5)(B)(i) of this title and actively engaged in farming with respect to such operation, as provided under paragraphs (2), (3), and (4).
+&emsp;To be separately eligible for farm program payments (as described in paragraphs (1) and (2) of section 1308 of this title as being subject to limitation) with respect to a particular farming operation (whether in the person's own right or as a partner in a general partnership, a grantor of a revocable trust, a participant in a joint venture, or a participant in a similar entity (as determined by the Secretary) that is the producer of the crops involved), a person must be an individual or entity described in section 1308(5)(B)(i) of this title and actively engaged in farming with respect to such operation, as provided under paragraphs (2), (3), and (4).
 
 #### (2) General classes actively engaged in farming
 
@@ -106,17 +106,17 @@ For the purposes of preventing the use of multiple legal entities to avoid the e
 
 &emsp;To determine whether a person growing hybrid seed under contract shall be considered to be actively engaged in farming, the Secretary shall not take into consideration the existence of a hybrid seed contract.
 
-(Pub. L. 99–198, title X, §1001A, as added and amended Pub. L. 100–203, title I, §§1301(a)(3), 1302, Dec. 22, 1987, 101 Stat. 1330–12, 1330–14; Pub. L. 101–624, title XI, §1111(d), (f), Nov. 28, 1990, 104 Stat. 3498, 3499; Pub. L. 102–237, title I, §118(c), Dec. 13, 1991, 105 Stat. 1841.)
-
-#### References in Text
-
-The Agricultural Act of 1949, referred to in subsecs. (a)(1) and (b)(1), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, as amended, which is classified principally to chapter 35A (§1421 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
+(Pub. L. 99–198, title X, §1001A, as added and amended Pub. L. 100–203, title I, §§1301(a)(3), 1302, Dec. 22, 1987, 101 Stat. 1330–12, 1330–14; Pub. L. 101–624, title XI, §1111(d), (f), Nov. 28, 1990, 104 Stat. 3498, 3499; Pub. L. 102–237, title I, §118(c), Dec. 13, 1991, 105 Stat. 1841; Pub. L. 104–127, title I, §115(c)(1), Apr. 4, 1996, 110 Stat. 903.)
 
 #### Codification
 
 Section was enacted as part of the Food Security Act of 1985, and not as part of the Agricultural Adjustment Act of 1938 which comprises this chapter.
 
 #### Amendments
+
+1996—Subsec. (a)(1). Pub. L. 104–127, §115(c)(1)(A), struck out “under the Agricultural Act of 1949 (7 U.S.C. 1421 et seq.)” before “may not also hold”.
+
+Subsec. (b)(1). Pub. L. 104–127, §115(c)(1)(B), struck out “under the Agricultural Act of 1949” before “with respect to a particular”.
 
 1991—Subsec. (a)(2). Pub. L. 102–237 struck out “0 to” after “less than”.
 
@@ -140,5 +140,5 @@ Section 1301(a) of Pub. L. 100–203 provided that this section is effective beg
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1308, 1308–2, 1308–4 of this title.
+This section is referred to in sections 1308, 1308–2, 1308–4, 7215 of this title.
 

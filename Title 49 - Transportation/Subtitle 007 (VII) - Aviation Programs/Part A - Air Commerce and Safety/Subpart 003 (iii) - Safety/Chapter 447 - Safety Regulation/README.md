@@ -25,12 +25,17 @@
 | [44721\.](%C2%A7%2044721%20-%20Aeronautical%20maps%20and%20charts.md) | Aeronautical maps and charts. |
 | [44722\.](%C2%A7%2044722%20-%20Aircraft%20operations%20in%20winter%20conditions.md) | Aircraft operations in winter conditions. |
 | [44723\.](%C2%A7%2044723%20-%20Annual%20report.md) | Annual report. |
+| [44724\.](%C2%A7%2044724%20-%20Manipulation%20of%20flight%20controls.md) | Manipulation of flight controls. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### Amendments
+
+1996—Pub. L. 104–264, title VI, §602(a)(2), Oct. 9, 1996, 110 Stat. 3264, added item 44724.
+
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in title 10 section 2640; title 11 section 1110.
+This chapter is referred to in sections 46301, 46316 of this title; title 10 section 2640; title 11 section 1110.
 
 
 ---
@@ -60,3 +65,4 @@ This chapter is referred to in title 10 section 2640; title 11 section 1110.
 - [&sect; 44721 - Aeronautical maps and charts](%C2%A7%2044721%20-%20Aeronautical%20maps%20and%20charts.md)
 - [&sect; 44722 - Aircraft operations in winter conditions](%C2%A7%2044722%20-%20Aircraft%20operations%20in%20winter%20conditions.md)
 - [&sect; 44723 - Annual report](%C2%A7%2044723%20-%20Annual%20report.md)
+- [&sect; 44724 - Manipulation of flight controls](%C2%A7%2044724%20-%20Manipulation%20of%20flight%20controls.md)

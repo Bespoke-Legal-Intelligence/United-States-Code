@@ -6,7 +6,7 @@ Except as provided in subsection (b) of this section, if the Secretary of Agricu
 
 #### (b) Exception
 
-The Secretary of Agriculture may permit, subject to such terms and conditions as the Secretary determines appropriate, the importationof cattle, sheep, other ruminants, or swine (including embryos of the animals), or the fresh, chilled, or frozen meat of the animals, from a region if the Secretary determines that the region from which the animal or meat originated is, and is likely to remain, free from rinderpest and foot-and-mouth disease, or is, and is likely to remain, a region of low prevalence of rinderpest and foot-and-mouth disease.
+The Secretary of Agriculture may permit, subject to such terms and conditions as the Secretary determines appropriate, the importation of cattle, sheep, other ruminants, or swine (including embryos of the animals), or the fresh, chilled, or frozen meat of the animals, from a region if the Secretary determines that the region from which the animal or meat originated is, and is likely to remain, free from rinderpest and foot-and-mouth disease, or is, and is likely to remain, a region of low prevalence of rinderpest and foot-and-mouth disease.
 
 #### (c) Regulations
 
@@ -48,7 +48,7 @@ Amendment by Pub. L. 100–449 effective on date the United States-Canada Free-T
 
 #### Effective Date of 1967 Amendment
 
-Amendment by Pub. L. 90–201 effective on expiration of sixty days after Dec. 15, 1967, see section 20(a) of Pub. L. 90–201, set out as an Effective Date note under section 601 of Title 21, Food and Drugs.
+Amendment by Pub. L. 90–201 effective on expiration of sixty days after Dec. 15, 1967, see section 20(a) of Pub.L. 90–201, set out as an Effective Date note under section 601 of Title 21, Food and Drugs.
 
 #### Section Referred to in Other Sections
 

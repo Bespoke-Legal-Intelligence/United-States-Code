@@ -62,7 +62,7 @@ Reference to United States magistrate or to magistrate deemed to refer to United
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
+Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision ofthe Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
 #### Effective Date of 1986 Amendment
 
@@ -112,5 +112,5 @@ Contempt—
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 6038A, 6038C, 7210, 7602, 7609 of this title.
+This section is referred to in sections 6038A, 6038C, 6048, 7210, 7602, 7609 of this title.
 

@@ -1,6 +1,6 @@
 ### §377. General expenses of Bureau of Reclamation chargeable to general reclamation fund
 
-The cost and expense after June 30, 1945, of the office of the Commissioner in the District of Columbia, and, except for such cost and expense as are incurred on behalf of specific projects, ofgeneral investigations and of nonproject offices outside the District of Columbia, shall be charged to the reclamation fund and shall not be charged as a part of the reimbursable construction or operation and maintenance costs.
+The cost and expense after June 30, 1945, of the office of the Commissioner in the District of Columbia, and, except for such cost and expense as are incurred on behalf of specific projects, of general investigations and of nonproject offices outside the District of Columbia, shall be charged to the reclamation fund and shall not be charged as a part of the reimbursable construction or operation and maintenance costs.
 
 (Dec. 5, 1924, ch. 4, §4, subsec. O, 43 Stat. 704; Apr. 19, 1945, ch. 80, 59 Stat. 54.)
 

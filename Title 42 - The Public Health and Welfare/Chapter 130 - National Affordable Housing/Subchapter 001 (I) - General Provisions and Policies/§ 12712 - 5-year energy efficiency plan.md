@@ -134,5 +134,5 @@ Task Force.—To develop the plan, the Secretary shall form a task force to make
 
 #### Energy Efficiency Demonstration
 
-Section 961 of Pub. L. 101–625 directed Secretary of Housing and Urban Development to establish a program to demonstrate various methods of improving the energy efficiency of existing housing, provided for funding, provided that the demonstration determine appropriate design, improvement, and rehabilitation methods and practices for increasing residential energy efficiency in housing already constructed, and directed Secretary, as soon as practicable after Sept. 30, 1991, to submit to Congress a report setting forth the findingsand recommendations of the Secretary as a result of the demonstration.
+Section 961 of Pub. L. 101–625 directed Secretary of Housing and Urban Development to establish a program to demonstrate various methods of improving the energy efficiency of existing housing, provided for funding, provided that the demonstration determine appropriate design, improvement, and rehabilitation methods and practices for increasing residential energy efficiency in housing already constructed, and directed Secretary, as soon as practicable after Sept. 30, 1991, to submit to Congress a report setting forth the findings and recommendations of the Secretary as a result of the demonstration.
 

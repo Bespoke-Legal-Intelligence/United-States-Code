@@ -6,7 +6,7 @@ The President is authorized to designate a Demilitarization Enterprise Fund for 
 
 #### (b) Purpose of Fund
 
-The purpose of the Demilitarization Enterprise Fund is to receive grants pursuant to this section and to use the grant proceeds to provide financial support under programs described in subsection (b)(5) of this section for demilitarization of industries and conversion of military technologies and capabilities into civilian activities.
+The purpose of the Demilitarization Enterprise Fund is to receive grants pursuant to thissection and to use the grant proceeds to provide financial support under programs described in subsection (b)(5) of this section for demilitarization of industries and conversion of military technologies and capabilities into civilian activities.
 
 #### (c) Grant authority
 

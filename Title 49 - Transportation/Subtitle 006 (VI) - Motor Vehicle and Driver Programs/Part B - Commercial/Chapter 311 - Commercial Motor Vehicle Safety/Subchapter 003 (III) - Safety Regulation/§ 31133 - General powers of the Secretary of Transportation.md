@@ -36,7 +36,9 @@ Delegation.—The Secretary may delegate to a State receiving a grant under sect
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

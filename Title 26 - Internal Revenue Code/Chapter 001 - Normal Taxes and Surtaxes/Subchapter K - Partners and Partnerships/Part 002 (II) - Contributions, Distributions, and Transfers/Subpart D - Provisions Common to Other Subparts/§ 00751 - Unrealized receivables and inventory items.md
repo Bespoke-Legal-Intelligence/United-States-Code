@@ -162,7 +162,7 @@ Amendment by section 1101(d)(2) of Pub. L. 94–455 applicable to sales, exchang
 
 Amendment by section 1901(a)(93) of Pub. L. 94–455 effective for taxable years beginning after Dec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
 
-Section 2110(b) of Pub. L. 94–455, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:“Subsection (a) \[amending this section\] shall apply to transactions described in sections 731, 736, 741, or 751 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] which occur after December 31, 1976, in taxable years ending after that date.”
+Section 2110(b) of Pub. L. 94–455, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “Subsection (a) \[amending this section\] shall apply to transactions described in sections 731, 736, 741, or 751 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] which occur after December 31, 1976, in taxable years ending after that date.”
 
 #### Effective Date of 1969 Amendment
 
@@ -194,7 +194,7 @@ Recognition and character of gain or loss on sale or exchange, see section 741 o
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 453, 467, 617, 724, 731, 732, 735, 736, 737, 741, 1245, 1250, 1255, 1257, 6050K of this title.
+This section is referred to in sections 170, 453, 467, 617, 724, 731, 732, 735, 736, 737, 741, 1245, 1250, 1255, 1257, 6050K of this title.
 
 <i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
 

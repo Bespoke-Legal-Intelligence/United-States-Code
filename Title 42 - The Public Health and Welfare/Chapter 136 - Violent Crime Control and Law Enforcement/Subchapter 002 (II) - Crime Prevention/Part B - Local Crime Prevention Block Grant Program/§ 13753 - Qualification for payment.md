@@ -16,7 +16,7 @@ A unit of general local government qualifies for a payment under this part for a
 
 &emsp;(4) if at least 25 percent of the pay of individuals employed by the government in a public employee occupation is paid out of the trust fund, individuals in the occupation any part of whose pay is paid out of the trust fund will receive pay at least equal to the prevailing rate of pay for individuals employed in similar public employee occupations by the government;
 
-&emsp;(5) the government will use accounting, audit, and fiscal procedures that conform to guidelines which shall be prescribed by the Attorney General after consultation with the Comptroller General of the United States. As applicable, amounts received under this part shall be audited in compliance with the Single Audit Act of 1984 \[31 U.S.C. 7501 et seq.\];
+&emsp;(5) the government will use accounting, audit, and fiscal procedures that conform to guidelines which shall be prescribed by the Attorney General. As applicable, amounts received under this part shall be audited in compliance with the Single Audit Act of 1984 \[31 U.S.C. 7501 et seq.\];
 
 &emsp;(6) after reasonable notice to the government, the government will make available to the Attorney General and the Comptroller General of the United States, with the right to inspect, records the Attorney General reasonably requires to review compliance with this part or the Comptroller General of the United States reasonably requires to review compliance and operations;
 
@@ -50,11 +50,15 @@ A unit of general local government shall give the chief executive officer of the
 
 &emsp;&emsp;(B) will comply with subsection (b) of this section and regulations prescribed under subsection (b) of this section.
 
-(Pub. L. 103–322, title III, §30203, Sept. 13, 1994, 108 Stat. 1841.)
+(Pub. L. 103–322, title III, §30203, Sept. 13, 1994, 108 Stat. 1841; Pub. L. 104–316, title I, §122(u), Oct. 19, 1996, 110 Stat. 3838.)
 
 #### References in Text
 
-The Single Audit Act of 1984, referred to in subsec. (b)(5), is Pub. L. 98–502, Oct. 19, 1984, 98 Stat. 2327, which is classified generally to chapter 75 (§7501 et seq.) of Title 31, Money and Finance. For complete classification of this Act to the Code, see Short Title note set out under section 7501 of Title 31 and Tables.
+The Single Audit Act of 1984, referred to in subsec. (b)(5), is Pub. L. 98–502, Oct. 19, 1984, 98 Stat. 2327, as amended, which is classified generally to chapter 75 (§7501 et seq.) of Title 31, Money and Finance. For complete classification of this Act to the Code, see Short Title note set out under section 7501 of Title 31 and Tables.
+
+#### Amendments
+
+1996—Subsec. (b)(5). Pub. L. 104–316 struck out “after consultation with the Comptroller General of the United States” after “Attorney General”.
 
 #### Section Referred to in Other Sections
 

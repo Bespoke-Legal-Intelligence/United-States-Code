@@ -48,7 +48,7 @@ Subject to such regulations as the Secretary may prescribe, the Secretary may is
 
 #### (e) Nonattachment of lien
 
-If the Secretary determines that, because of confusion of names or otherwise, any person (other than the person against whom the tax was assessed) is or may be injured by the appearance that a notice of lien filed under section 6323 refers to such person, the Secretary may issue a certificate that the lien does not attach to the property of such person.
+If the Secretary determines that, because of confusion of names or otherwise, any person\(other than the person against whom the tax was assessed) is or may be injured by the appearance that a notice of lien filed under section 6323 refers to such person, the Secretary may issue a certificate that the lien does not attach to the property of such person.
 
 #### (f) Effect of certificate
 
@@ -126,11 +126,11 @@ Section 348(b) of Pub. L. 97–248 provided that: “The amendment made by subse
 
 #### Effective Date of 1978 Amendment
 
-Section 513(b) of Pub. L. 95–600 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to the estates of decedents dying after December 31, 1976.”
+Section 513(b) of Pub. L. 95–600 provided that: “The amendments made by subsection (a) \[amending thissection\] shall apply with respect to the estates of decedents dying after December 31, 1976.”
 
 #### Effective Date of 1966 Amendment
 
-Amendment by Pub. L. 89–719 applicable after Nov. 2, 1966, regardless of when title or lien of United Statesarose or when lien or interest of another person was acquired, with certain exceptions, see section 114(a)–(c) of Pub. L. 89–719, set out as a note under section 6323 of this title.
+Amendment by Pub. L. 89–719 applicable after Nov. 2, 1966, regardless of when title or lien of United States arose or when lien or interest of another person was acquired, with certain exceptions, see section 114(a)–(c) of Pub. L. 89–719, set out as a note under section 6323 of this title.
 
 #### Effective Date of 1958 Amendment
 
@@ -142,5 +142,5 @@ Authority to release levy, see section 6343 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 7103, 7426, 7432 of this title; title 18 section 3613; title 28 section 3201.
+This section is referred to in sections 7103, 7426, 7432 of this title; title 28 section 3201.
 

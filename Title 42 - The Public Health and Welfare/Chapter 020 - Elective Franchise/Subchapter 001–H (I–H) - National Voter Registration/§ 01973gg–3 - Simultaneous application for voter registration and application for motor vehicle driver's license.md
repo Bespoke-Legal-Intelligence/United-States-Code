@@ -40,7 +40,7 @@ No information relating to the failure of an applicant for a State motor vehicle
 
 &emsp;&emsp;(iii) a statement that if an applicant does register to vote, the office at which the applicant submits a voter registration application will remain confidential and will be used only for voter registration purposes; and
 
-&emsp;(E) shall be made available (as submitted by the applicant, or in machine readable or otherformat) to the appropriate State election official as provided by State law.
+&emsp;(E) shall be made available (as submitted by the applicant, or in machine readable or other format) to the appropriate State election official as provided by State law.
 
 #### (d) Change of address
 

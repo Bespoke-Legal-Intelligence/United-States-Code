@@ -14,7 +14,7 @@
 
 #### Amendments
 
-<b>1987</b>—Subsec. (b). Pub. L. 100–180 struck out “within the Office” after “for the adjudication” in second sentence and inserted at end “Such procedures may provide that determinations of eligibility under the requirements of this section shall be adjudicated by the Executive agency making the appointment for which the eligibility is determined.”
+1987—Subsec. (b). Pub. L. 100–180 struck out “within the Office” after “for the adjudication” in second sentence and inserted at end “Such procedures may provide that determinations of eligibility under the requirements of this section shall be adjudicated by the Executive agency making the appointment for which the eligibility is determined.”
 
 #### Section Referred to in Other Sections
 

@@ -144,7 +144,7 @@ Any party submitting written information, including business proprietary informa
 
 #### (2) Contents of protective order
 
-&emsp;Each protective order issued under this subsection shall be in such form and contain suchrequirements as the administering authority or the Commission may determine by regulation to be appropriate. The administering authority and the Commission shall ensure that regulations issued pursuant to this paragraph shall be designed to provide an opportunity for participation in the binational panel proceeding, including any extraordinary challenge, equivalent to that available for judicial review of determinations by the administering authority or the Commission that are not subject to review by a binational panel.
+&emsp;Each protective order issued under this subsection shall be in such form and contain such requirements as the administering authority or the Commission may determine by regulation to be appropriate. The administering authority and the Commission shall ensure thatregulations issued pursuant to this paragraph shall be designed to provide an opportunity for participation in the binational panel proceeding, including any extraordinary challenge, equivalent to that available for judicial review of determinations by the administering authority or the Commission that are not subject to review by a binational panel.
 
 #### (3) Prohibited acts
 
@@ -178,7 +178,7 @@ Any party submitting written information, including business proprietary informa
 
 #### (B) Witnesses and evidence
 
-&emsp;&emsp;The attendance of witnesses who are authorized to be summoned, and the production of documentary evidence authorized to be ordered, under subparagraph (A) may be required from any place in the United States at any designated place of hearing. In the case of disobedience to a subpoena issued under subparagraph (A), an action may be filed in any district or territorial court of the United States to require the attendance and testimony of witnesses and the production of documentary evidence. Such court, within the jurisdiction of which such inquiry is carried on, may, in case of contumacy or refusal to obey a subpoena issued to any individual, partnership, corporation, association, organization or other entity, issue anyorder requiring such individual or entity to appear before the administering authority or the Commission, or to produce documentary evidence if so ordered or to give evidence concerning the matter in question. Any failure to obey such order of the court may be punished by the court as a contempt thereof.
+&emsp;&emsp;The attendance of witnesses who are authorized to be summoned, and the production of documentary evidence authorized to be ordered, under subparagraph (A) may be required from any place in the United States at any designated place of hearing. In the case of disobedience to a subpoena issued under subparagraph (A), an action may be filed in any district or territorial court of the United States to require the attendance and testimony of witnesses and the production of documentary evidence. Such court, within the jurisdiction of which such inquiry is carried on, may, in case of contumacy or refusal to obey a subpoena issued to any individual, partnership, corporation, association, organization or other entity, issue any order requiring such individual or entity to appear before the administering authority or the Commission, or to produce documentary evidence if so ordered or to give evidenceconcerning the matter in question. Any failure to obey such order of the court may be punished by the court as a contempt thereof.
 
 #### (C) Mandamus
 
@@ -232,7 +232,7 @@ The administering authority and the Commission shall provide an opportunity for 
 
 &emsp;In addition to the requirements set forth in paragraph (2)—
 
-&emsp;&emsp;(A) the administering authority shall include in a final determination described in paragraph (1) an explanation of the basis for its determination that addresses relevant arguments, made by interested parties who are parties to the investigation or review (as the case may be), concerning the establishment of dumping or a countervailable subsidy, orthe suspension of the investigation, with respect to which the determination is made; and
+&emsp;&emsp;(A) the administering authority shall include in a final determination described in paragraph (1) an explanation of the basis for its determination that addresses relevant arguments, made by interested parties who are parties to the investigation or review (as the case may be), concerning the establishment of dumping or a countervailable subsidy, or the suspension of the investigation, with respect to which the determination is made; and
 
 &emsp;&emsp;(B) the Commission shall include in a final determination of injury an explanation of the basis for its determination that addresses relevant arguments that are made by interested parties who are parties to the investigation or review (as the case may be) concerning volume, price effects, and impact on the industry of imports of the subject merchandise.
 

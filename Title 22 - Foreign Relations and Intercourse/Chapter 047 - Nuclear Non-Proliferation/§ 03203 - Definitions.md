@@ -28,3 +28,7 @@ The Atomic Energy Act of 1954, as amended, referred to in subsec. (a)(6), (7), i
 
 The Energy Reorganization Act of 1974, referred to in subsec. (b), is Pub. L. 93–438, Oct. 11, 1974, 88 Stat. 1233, as amended, which is classified principally to chapter 73 (§5801 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 5801 of Title 42 and Tables.
 
+#### Section Referred to in Other Sections
+
+This section is referred to in section 6305 of this title.
+

@@ -12,7 +12,7 @@
 
 #### (2) Court determination
 
-&emsp;A determination that a person is a sexually violent predator and a determination that a person is no longer a sexually violent predator shall be made by the sentencing court after receiving a report by a State board composed of experts in the field of the behavior and treatment of sexual offenders.
+&emsp;A determination that a person is a sexually violent predator and a determination that a person is no longer a sexually violent predator shall be made by the sentencing court after receiving a report by a State board composed of experts in the field of the behavior and treatment of sexual offenders, victim rights advocates, and representatives from law enforcement agencies.
 
 #### (3) Definitions
 
@@ -40,7 +40,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) chooses to include such an offense in those which are criminal offenses against a victim who is a minor for the purposes of this section.
 
-> &emsp;&emsp;For purposes of this subparagraph conduct which is criminal only because of the age of the victim shall not be considered a criminaloffense if the perpetrator is 18 years of age or younger.
+> &emsp;&emsp;For purposes of this subparagraph conduct which is criminal only because of the age of the victim shall not be considered a criminal offense if the perpetrator is 18 years of age or younger.
 
 &emsp;&emsp;(B) The term “sexually violent offense” means any criminal offense that consists of aggravated sexual abuse or sexual abuse (as described in sections 2241 and 2242 of title 18 or as described in the State criminal code) or an offense that has as its elements engaging in physical contact with another person with intent to commit aggravated sexual abuse or sexual abuse (as described in such sections of title 18 or as described in the State criminal code).
 
@@ -72,7 +72,7 @@ An approved State registration program established under this section shall cont
 
 #### (2) Transfer of information to State and the FBI
 
-&emsp;The officer, or in the case of a person placed on probation, the court, shall, within 3 days after receipt of information described in paragraph (1), forward it to a designated State law enforcement agency. The State law enforcement agency shall immediately enter the information into the appropriate State law enforcement record system and notify the appropriate law enforcement agency having jurisdiction where the person expects to reside. The State law enforcement agency shall also immediately transmit the conviction data and fingerprints to the Federal Bureau of Investigation.
+&emsp;The officer, or in the case of a person placed on probation, the court, shall, within 3 days after receipt of information described in paragraph (1), forward it to a designated State law enforcement agency. The State law enforcement agency shall immediately enter the information into the appropriate State law enforcement record system and notify the appropriate law enforcement agency having jurisdiction where the person expects to reside. The State law enforcement agency shall also immediately transmit all information described in paragraph (1) to the Federal Bureau of Investigation for inclusion in the FBI database described in section 14072 of this title.
 
 #### (3) Verification
 
@@ -82,7 +82,7 @@ An approved State registration program established under this section shall cont
 
 &emsp;&emsp;(ii) The person shall mail the verification form to the designated State law enforcement agency within 10 days after receipt of the form.
 
-&emsp;&emsp;(iii) The verification form shall be signed by the person, and state that the person still resides at the address last reported to the designated State law enforcement agency.
+&emsp;&emsp;(iii) The verification form shall be signed by the person, and state that the person still resides at the address last reported to the designated State law enforcement agency. The person shall include with the verification form, fingerprints and a photograph of that person.
 
 &emsp;&emsp;(iv) If the person fails to mail the verification form to the designated State law enforcement agency within 10 days after receipt of the form, the person shall be in violation of this section unless the person proves that the person has not changed the residence address.
 
@@ -98,9 +98,17 @@ An approved State registration program established under this section shall cont
 
 #### (6) Length of registration
 
-&emsp;(A) A person required to register under subparagraph (A) of subsection (a)(1) of this section shall continue to comply with this section until 10 years have elapsed since the person was released from prison, placed on parole, supervised release, or probation.
+&emsp;A person required to register under subsection (a)(1) of this section shall continue to comply with this section, except during ensuing periods of incarceration, until—
 
-&emsp;(B) The requirement of a person to register under subparagraph (B) of subsection (a)(1) of this section shall terminate upon a determination, made in accordance with paragraph (2) of subsection (a) of this section, that the person no longer suffers from a mental abnormality or personality disorder that would make the person likely to engage in a predatory sexually violent offense.
+&emsp;&emsp;(A) 10 years have elapsed since the person was released from prison or placed on parole, supervised release, or probation; or
+
+&emsp;&emsp;(B) for the life of that person if that person—
+
+&emsp;&emsp;&emsp;(i) has 1 or more prior convictions for an offense described in subsection (a)(1)(A) of this section; or
+
+&emsp;&emsp;&emsp;(ii) has been convicted of an aggravated offense described in subsection (a)(1)(A) of this section; or
+
+&emsp;&emsp;&emsp;(iii) has been determined to be a sexually violent predator pursuant to subsection (a)(2) of this section.
 
 #### (c) Penalty
 
@@ -108,13 +116,9 @@ A person required to register under a State program established pursuant to this
 
 #### (d) Release of information
 
-The information collected under a State registration program shall be treated as private data expect that—
+(1) The information collected under a State registration program may be disclosed for any purpose permitted under the laws of the State.
 
-&emsp;(1) such information may be disclosed to law enforcement agencies for law enforcement purposes;
-
-&emsp;(2) such information may be disclosed to government agencies conducting confidential background checks; and
-
-&emsp;(3) the designated State law enforcement agency and any local law enforcement agency authorized by the State agency may release relevant information that is necessary to protect the public concerning a specific person required to register under this section, except that the identity of a victim of an offense that requires registration under this section shall not be released.
+(2) The designated State law enforcement agency and any local law enforcement agency authorized by the State agency shall release relevant information that is necessary to protect the public concerning a specific person required to register under this section, except that the identity of a victim of an offense that requires registration under this section shall not be released.
 
 #### (e) Immunity for good faith conduct
 
@@ -134,5 +138,65 @@ Law enforcement agencies, employees of law enforcement agencies, and State offic
 
 Reallocation of funds.—Any funds that are not allocated for failure to comply with this section shall be reallocated to States that comply with this section.
 
-(Pub. L. 103–322, title XVII, §170101, Sept. 13, 1994, 108 Stat. 2038.)
+#### (g) Fingerprints
+
+Each requirement to register under this section shall be deemed to also require the submission of a set of fingerprints of the person required to register, obtained in accordance with regulations prescribed by the Attorney General under section 14072(h) of this title.
+
+(Pub. L. 103–322, title XVII, §170101, Sept. 13, 1994, 108 Stat. 2038; (As amended Pub. L. 104–145, §2, May 17, 1996, 110 Stat. 1345; Pub. L. 104–236, §§3–7, Oct. 3, 1996, 110 Stat. 3096, 3097.)
+
+#### Amendments
+
+1996—Subsec. (a)(2). Pub. L. 104–236, §4, inserted before period at end “, victim rights advocates, and representatives from law enforcement agencies”.
+
+Subsec. (b)(2). Pub. L. 104–236, §7, amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “The officer, or in the case of a person placed on probation, the court, shall, within 3 days after receipt of information described in paragraph (1), forward it to a designated State law enforcement agency. The State law enforcement agency shall immediately enter the information into the appropriate State law enforcement record system and notify the appropriate law enforcement agency having jurisdiction where the person expects to reside. The State law enforcement agency shall also immediately transmit the conviction data and fingerprints to the Federal Bureau of Investigation.”
+
+Subsec. (b)(3)(A)(iii). Pub. L. 104–236, §6, inserted at end “The person shall include with the verification form, fingerprints and a photograph of that person.”
+
+Subsec. (b)(6). Pub. L. 104–236, §3, amended heading and text of par. (6) generally. Prior to amendment, text read as follows:
+
+“(A) A person required to register under subparagraph (A) of subsection (a)(1) of this section shall continue to comply with this section until 10 years have elapsed since the person was released from prison, placed on parole, supervised release, or probation.
+
+“(B) The requirement of a person to register under subparagraph (B) of subsection (a)(1) of this sectionshall terminate upon a determination, made in accordance with paragraph (2) of subsection (a) of this section, that the person no longer suffers from a mental abnormality or personality disorder that would make the person likely to engage in a predatory sexually violent offense.”
+
+Subsec. (d). Pub. L. 104–145 amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows: “The information collected under a State registration program shall be treated as private data expect that—
+
+&emsp;“(1) such information may be disclosed to law enforcement agencies for law enforcement purposes;
+
+&emsp;“(2) such information may be disclosed to government agencies conducting confidential background checks; and
+
+&emsp;“(3) the designated State law enforcement agency and any local law enforcement agency authorized by the State agency may release relevant information that is necessary to protect the public concerning a specific person required to register under this section, except that the identity of a victim of an offense that requires registration under this section shall not be released.”
+
+Subsec. (g). Pub. L. 104–236, §5, added subsec. (g).
+
+#### Effective Date of 1996 Amendment
+
+Section 10 of Pub. L. 104–236 provided that:
+
+“(a)
+
+In General.—This Act \[enacting sections 14072 and 14073 of this title, amending this section, and enacting provisions set out as notes under this section and section 13701 of this title\] and the amendments made by this Act shall become effective 1 year after the date of enactment of this Act \[Oct. 3, 1996\].
+
+“(b)
+
+Compliance by States.—Each State shall implement the amendments made by sections 3, 4, 5, 6, and 7 of this Act \[amending this section\] not later than 3 years after the date of enactment of this Act, except that the Attorney General may grant an additional 2 years to a State that is making good faith efforts to implement such amendments.
+
+“(c)
+
+Ineligibility for Funds.—
+
+&emsp;“(1) A State that fails to implement the program as described in sections 3, 4, 5, 6, and 7 of this Act \[amending this section\] shall not receive 10 percent of the funds that would otherwise be allocated to the State under section 506 of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3756).
+
+&emsp;“(2) Any funds that are not allocated for failure to comply with section 3, 4, 5, 6, or 7 of this Act shall be reallocated to States that comply with these sections.”
+
+#### Regulations
+
+Section 9 of Pub. L. 104–236 provided that: “Not later than 1 year after the date of enactment of this Act \[Oct. 3, 1996\], the Attorney General shall issue regulations to carry out this Act \[see Effective Date of 1996 Amendment note above\] and the amendments made by this Act.”
+
+#### Severability
+
+Section 11 of Pub. L. 104–236 provided that: “If any provision of this Act \[see Effective Date of 1996 Amendment note above\], an amendment made by this Act, or the application of such provision or amendment to any person or circumstance is held to be unconstitutional, the remainder of this Act, the amendments made by this Act, and the application of the provisions of such to any person or circumstance shall not be affected thereby.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 14072 of this title.
 

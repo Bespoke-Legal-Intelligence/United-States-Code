@@ -6,7 +6,7 @@ Fair Labor Standards Act of 1938, applicability of, see section 213 of Title 29,
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in sections 156, 1842, 1863, 1864, 1866 of this title; title 16 sections 460<i>l–</i>5; 470h, 471i, 1456; title 29 sections 213, 402, 630, 653, 1002; title 30 section 1702; title 33 sections 941, 1321, 1503, 2701, 2753; title 41 section 357; title 42 sections 2000e, 7627, 9611, 13211.
+This subchapter is referred to in sections 156, 1842, 1863, 1864, 1866 of this title; title 16 sections 460<i>l–</i>5; 470h, 471i, 1456; title 29 sections 213, 402, 630, 653, 1002; title 30 sections 1702, 1721, 1721a; title 33 sections 941, 1321, 1503, 2701; title 41 section 357; title 42 sections 2000e, 7627, 9611, 13211.
 
 
 ---
@@ -22,7 +22,7 @@ This subchapter is referred to in sections 156, 1842, 1863, 1864, 1866 of this t
 - [&sect; 01337 - Grant of leases by Secretary](%C2%A7%2001337%20-%20Grant%20of%20leases%20by%20Secretary.md)
 - [&sect; 01338 - Disposition of revenues](%C2%A7%2001338%20-%20Disposition%20of%20revenues.md)
 - [&sect; 01338a - Moneys received as a result of forfeiture by Outer Continental Shelf permittee, lessee, or right-of-way holder; return of excess amounts](%C2%A7%2001338a%20-%20Moneys%20received%20as%20a%20result%20of%20forfeiture%20by%20Outer%20Continental%20Shelf%20permittee%2C%20lessee%2C%20or%20right-of-way%20holder%3B%20return%20of%20excess%20amounts.md)
-- [&sect; 01339 - Refunds; filing time limitation; certification of repayment; necessity of report to Congress](%C2%A7%2001339%20-%20Refunds%3B%20filing%20time%20limitation%3B%20certification%20of%20repayment%3B%20necessity%20of%20report%20to%20Congress.md)
+- [&sect; 01339 - Repealed. Pub. L. 104&#8211;185, &sect;8(b), Aug. 13, 1996, 110 Stat. 1717](%C2%A7%2001339%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93185%2C%20%C2%A78%28b%29%2C%20Aug.%2013%2C%201996%2C%20110%20Stat.%201717.md)
 - [&sect; 01340 - Geological and geophysical explorations](%C2%A7%2001340%20-%20Geological%20and%20geophysical%20explorations.md)
 - [&sect; 01341 - Reservation of lands and rights](%C2%A7%2001341%20-%20Reservation%20of%20lands%20and%20rights.md)
 - [&sect; 01342 - Prior claims as unaffected](%C2%A7%2001342%20-%20Prior%20claims%20as%20unaffected.md)

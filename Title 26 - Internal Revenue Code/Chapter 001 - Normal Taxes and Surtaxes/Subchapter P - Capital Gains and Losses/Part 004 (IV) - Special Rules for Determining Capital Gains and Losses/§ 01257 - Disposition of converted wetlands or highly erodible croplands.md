@@ -14,7 +14,7 @@ For purposes of this section—
 
 #### (1) Converted wetland
 
-&emsp;The term “converted wetland” means any converted wetland (as defined in section 1201(4) of the Food Security Act of 1985 (16 U.S.C. 3801(4))) held—
+&emsp;The term “converted wetland” means any converted wetland (as defined in section 1201(4) <sup>1</sup> of the Food Security Act of 1985 (16 U.S.C. 3801(4))) held—
 
 &emsp;&emsp;(A) by the person whose activities resulted in such land being converted wetland, or
 
@@ -22,7 +22,7 @@ For purposes of this section—
 
 #### (2) Highly erodible cropland
 
-&emsp;The term “highly erodible cropland” means any highly erodible cropland (as defined in section 1201(6) of the Food Security Act of 1985 (16 U.S.C. 3801(6))), if at any time the taxpayer used such land for farming purposes (other than the grazing of animals).
+&emsp;The term “highly erodible cropland” means any highly erodible cropland (as defined in section 1201(6) <sup>1</sup> of the Food Security Act of 1985 (16 U.S.C. 3801(6))), if at any time the taxpayer used such land for farming purposes (other than the grazing of animals).
 
 #### (3) Treatment of successors
 
@@ -34,7 +34,13 @@ Under regulations prescribed by the Secretary, rules similar to the rules applic
 
 (Added Pub. L. 99–514, title IV, §403(a), Oct. 22, 1986, 100 Stat. 2222.)
 
+#### References in Text
+
+Section 1201(4) of the Food Security Act of 1985 (16 U.S.C. 3801(4)) and section 1201(6) of the Food Security Act of 1985 (16 U.S.C. 3801(6)), referred to in subsec. (c)(1), (2), probably are references to section 1201(a)(4) and 1201(a)(6) of that Act (16 U.S.C. 3801(a)(4), (6)). Section 1201 of the Food Security Act of 1985 was subsequently amended, and subsecs. (a)(4) and (a)(6) of section 1201 no longer define the terms “converted wetland” and “highly erodible cropland”, respectively. However, such terms are defined elsewhere in that section.
+
 #### Effective Date
 
 Section 403(c) of Pub. L. 99–514 provided that: “The amendments made by this section \[enacting this section\] shall apply to dispositions of converted wetland or highly erodible cropland (as defined in section 1257(c) of the Internal Revenue Code of 1986 as added by this section) first used for farming after March 1, 1986, in taxable years ending after that date.”
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

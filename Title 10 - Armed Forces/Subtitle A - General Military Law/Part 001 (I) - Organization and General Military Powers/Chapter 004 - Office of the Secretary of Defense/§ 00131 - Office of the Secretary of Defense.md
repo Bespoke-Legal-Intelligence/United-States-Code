@@ -30,13 +30,15 @@
 
 (d) The Secretary of each military department, and the civilian employees and members of the armed forces under the jurisdiction of the Secretary, shall cooperate fully with personnel of the Office of the Secretary of Defense to achieve efficient administration of the Department of Defense and to carry out effectively the authority, direction, and control of the Secretary of Defense.
 
-(Added Pub. L. 99–433, title I, §104, Oct. 1, 1986, 100 Stat. 996; amended Pub. L. 103–160, div. A, title IX, §906(a), Nov. 30, 1993, 107 Stat. 1729; Pub. L. 103–337, div. A, title IX, §903(b)(1), Oct. 5, 1994, 108 Stat. 2823.)
+(Added Pub. L. 99–433, title I, §104, Oct. 1, 1986, 100 Stat. 996; amended Pub. L. 103–160, div. A, title IX, §906(a), Nov. 30, 1993, 107 Stat. 1729; Pub. L. 103–337, div. A, title IX, §903(b)(1), Oct. 5, 1994, 108 Stat. 2823; Pub. L. 104–106, div. A, title IX, §903(e)(1), Feb. 10, 1996, 110 Stat. 402; Pub. L. 104–201, div. A, title IX, §901, Sept. 23, 1996, 110 Stat. 2617.)
 
 #### Prior Provisions
 
 A prior section 131 was renumbered section 111 of this title.
 
 #### Amendments
+
+1996—Subsec. (b)(6) to (11). Pub. L. 104–106, §903(a), (e)(1), which directed amendment of subsec. (b), eff. Jan. 31, 1997, by striking out pars. (6) and (8) and redesignating pars. (7), (9), (10), and (11) as (6), (7), (8), and (9), respectively, was repealed by Pub. L. 104–201.
 
 1994—Subsec. (b)(4). Pub. L. 103–337 substituted “Under Secretary of Defense (Comptroller)” for “Comptroller”.
 
@@ -62,7 +64,99 @@ A prior section 131 was renumbered section 111 of this title.
 
 &emsp;“(10) Such other offices and officials as may be established by law or the Secretary of Defense may establish or designate in the Office.”
 
-#### Management Studies of Office of Secretary of Defense
+#### Effective Date of 1996 Amendment
+
+Section 903(a) of Pub. L. 104–106, which provided that the amendments made by section 903 of Pub. L. 104–106 (amending this section and sections 138, 176, 1056, 1216, 1587, and 10201 of this title, repealing sections 133a, 134a, 137, and 142 of this title, and amending provisions set out as a note under section 167 of this title) were to take effect on Jan. 31, 1997, was repealed by Pub. L. 104–201, div. A, title IX, §901, Sept. 23, 1996, 110 Stat. 2617.
+
+#### Reduction of Personnel Assigned to Office of the Secretary of Defense
+
+Section 903 of Pub. L. 104–201 provided that:
+
+“(a)
+
+Permanent Limitation on OSD Personnel.—Effective October 1, 1999, the number of OSD personnel may not exceed 75 percent of the baseline number.
+
+“(b)
+
+Phased Reduction.—The number of OSD personnel—
+
+&emsp;“(1) as of October 1, 1997, may not exceed 85 percent of the baseline number; and
+
+&emsp;“(2) as of October 1, 1998, may not exceed 80 percent of the baseline number.
+
+“(c)
+
+Baseline Number.—For purposes of this section, the term ‘baseline number’ means the number of OSD personnel as of October 1, 1994.
+
+“(d)
+
+OSD Personnel Defined.—For purposes of this section, the term ‘OSD personnel’ means military and civilian personnel of the Department of Defense who are assigned to, or employed in, functions in the Office of the Secretary of Defense (including Direct Support Activities of that Office and the Washington Headquarters Services of the Department of Defense).
+
+“(e)
+
+Limitation on Reassignment of Functions.—In carrying out reductions in the number of personnel assigned to, or employed in, the Office of the Secretary of Defense in order to comply with this section, the Secretary of Defense may not reassign functions solely in order to evade the requirements contained in this section.
+
+“(f)
+
+Flexibility.—If the Secretary of Defense determines, and certifies to Congress, that the limitation in subsection (b) with respect to any fiscal year would adversely affect United States national security, the Secretary may waive the limitation under that subsection with respect to that fiscal year. If the Secretary of Defense determines, and certifies to Congress, that the limitation in subsection (a) during fiscal year 1999 would adversely affect United States national security, the Secretary may waive the limitation under that subsection with respect to that fiscal year. The authority under this subsection may be used only once, with respect to a single fiscal year.
+
+“(g)
+
+Repeal of Prior Requirement.—\[Amended section 901 of Pub. L. 104–106, set out as a note below.\]”
+
+#### Organization of Office of the Secretary of Defense
+
+Section 901 of Pub. L. 104–106, as amended by Pub. L. 104–201, div. A, title IX, §903(g), Sept. 23, 1996, 110 Stat. 2618, provided that:
+
+“(a)
+
+Findings.—Congress makes the following findings:
+
+&emsp;“(1) The statutory provisions that as of the date of the enactment of this Act \[Feb. 10, 1996\] govern the organization of the Office of the Secretary of Defense have evolved from enactment of a number of executive branch legislative proposals and congressional initiatives over a period of years.
+
+&emsp;“(2) The May 1995 report of the congressionally mandated Commission on Roles and Missions of the Armed Forces included a number of recommendations relating to the Office of the Secretary of Defense.
+
+&emsp;“(3) The Secretary of Defense has decided to create a special Department task force and to conduct other reviews to review many of the Commission's recommendations.
+
+&emsp;“(4) The Secretary of Defense has decided to institute a 5 percent per year reduction of civilian personnel assigned to the Office of the Secretary of Defense, including the Washington Headquarters Service and the Defense Support Activities, for the period from fiscal year 1996 through fiscal year 2001.
+
+&emsp;“(5) Over the ten-year period from 1986 through 1995, defense spending in real dollars has been reduced by 34 percent and military end-strengths have been reduced by 28 percent. During the same period, the number of civilian employees of the Office of the Secretary of Defense has increased by 22 percent.
+
+&emsp;“(6) To achieve greater efficiency and to revalidate the role and mission of the Office of the Secretary of Defense, a comprehensive review of the organizations and functions of that Office and of the personnel needed to carry out those functions is required.
+
+“(b)
+
+Review.—The Secretary of Defense shall conduct a further review of the organizations and functions of the Office of the Secretary of Defense, including the Washington Headquarters Service and the Defense Support Activities, and the personnel needed to carry out those functions. The review shall include the following:
+
+&emsp;“(1) An assessment of the appropriate functions of the Office and whether the Office of the Secretary of Defense or some of its component parts should be organized along mission lines.
+
+&emsp;“(2) An assessment of the adequacy of the present organizational structure to efficiently and effectively support the Secretary in carrying out his responsibilities in a manner that ensures civilian authority in the Department of Defense.
+
+&emsp;“(3) An assessment of the advantages and disadvantages of the use of political appointees to fill the positions of the various Under Secretaries of Defense, Assistant Secretaries of Defense, and Deputy Under Secretaries of Defense.
+
+&emsp;“(4) An assessment of the extent of unnecessary duplication of functions between the Office of the Secretary of Defense and the Joint Staff.
+
+&emsp;“(5) An assessment of the extent of unnecessary duplication of functions between the Office of the Secretary of Defense and the military departments.
+
+&emsp;“(6) An assessment of the appropriate number of positions referred to in paragraph (3) and of Deputy Assistant Secretaries of Defense.
+
+&emsp;“(7) An assessment of whether some or any of the functions currently performed by the Office of Humanitarian and Refugee Affairs are more properly or effectively performed by another agency of Government or elsewhere within the Department of Defense.
+
+&emsp;“(8) An assessment of the efficacy of the Joint Requirements Oversight Council and whether it is advisable or necessary to establish a statutory charter for this organization.
+
+&emsp;“(9) An assessment of any benefits or efficiencies derived from decentralizing certain functions currently performed by the Office of the Secretary of Defense.
+
+&emsp;“(10) An assessment of the appropriate size, number, and functional responsibilities of the Defense Agencies and other Department of Defense support organizations.
+
+“(c)
+
+Report.—Not later than March 1, 1996, the Secretary of Defense shall submit to the congressional defense committees a report containing—
+
+&emsp;“(1) his findings and conclusions resulting from the review under subsection (b); and
+
+&emsp;“(2) a plan for implementing resulting recommendations, including proposals for legislation (with supporting rationale) that would be required as a result of the review.”
+
+#### Management Studies of Office of the Secretary of Defense
 
 Section 109 of Pub. L. 99–433 provided that:
 

@@ -52,7 +52,7 @@ Another prior section 3747, Pub. L. 90–351, title I, §407, as added Pub. L. 9
 
 Section 3748, Pub. L. 90–351, title I, §408, as added Pub. L. 91–644, title I, §5(2), Jan. 2, 1971, 84 Stat. 1885, was renumbered section 407 of Pub. L. 90–351 by Pub. L. 93–83, §2, Aug. 6, 1973, 87 Stat. 209, and was classified to prior section 3747 of this title.
 
-Section 3750, Pub. L. 90–351, title I, §451, as added Pub. L. 91–644, title I, §6(a), Jan. 2, 1971, 84 Stat. 1885;amended Pub. L. 93–83, §2, Aug. 6, 1973, 87 Stat. 209, set out Congressional statement of purpose in providing a system of grants for correctional institutions and facilities.
+Section 3750, Pub. L. 90–351, title I, §451, as added Pub. L. 91–644, title I, §6(a), Jan. 2, 1971, 84 Stat. 1885; amended Pub. L. 93–83, §2, Aug. 6, 1973, 87 Stat. 209, set out Congressional statement of purpose in providing a system of grants for correctional institutions and facilities.
 
 Section 3750a, Pub. L. 90–351, title I, §452, as added Pub. L. 91–644, title I, §6(a), Jan. 2, 1971, 84 Stat. 1885; amended Pub. L. 93–83, §2, Aug. 6, 1973, 87 Stat. 209, related to applications for grants and their incorporation into comprehensive State plans.
 

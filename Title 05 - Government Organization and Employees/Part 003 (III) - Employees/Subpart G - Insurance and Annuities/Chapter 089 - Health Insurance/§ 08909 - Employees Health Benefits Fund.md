@@ -6,7 +6,7 @@
 
 &emsp;(2) to pay expenses for administering this chapter within the limitations that may be specified annually by Congress.
 
-> Payments from the Fund to a plan participating in a letter-of-credit arrangement under this chapter shall, in connection with any payment or reimbursement to be made by such plan for a health service or supply, be made, to the maximum extent practicable, on a checks-presented basis (as defined under regulations of the Department of the Treasury).
+> Payments from the Fund to a plan participating in a letter-of-credit arrangement under thischapter shall, in connection with any payment or reimbursement to be made by such plan for a health service or supply, be made, to the maximum extent practicable, on a checks-presented basis (as defined under regulations of the Department of the Treasury).
 
 (b) Portions of the contributions made by enrollees and the Government shall be regularly set aside in the Fund as follows:
 
@@ -34,7 +34,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 5 U.S.C. 3007.
 
@@ -58,23 +60,23 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-<b>1990</b>—Subsec. (a). Pub. L. 101–508, §7002(b), inserted at end “Payments from the Fund to a plan participating in a letter-of-credit arrangement under this chapter shall, in connection with any payment or reimbursement to be made by such plan for a health service or supply, be made, to the maximum extent practicable, on a checks-presented basis (as defined under regulations of the Department of the Treasury).”
+1990—Subsec. (a). Pub. L. 101–508, §7002(b), inserted at end “Payments from the Fund to a plan participating in a letter-of-credit arrangement under this chapter shall, in connection with any payment or reimbursement to be made by such plan for a health service or supply, be made, to the maximum extent practicable, on a checks-presented basis (as defined under regulations of the Department of the Treasury).”
 
 Subsec. (f). Pub. L. 101–508, §7002(c), added subsec. (f).
 
-<b>1988</b>—Subsec. (d). Pub. L. 100–654 substituted “former spouse, or person having continued coverage under section 8905a of this title” for “or former spouse” in two places.
+1988—Subsec. (d). Pub. L. 100–654 substituted “former spouse, or person having continued coverage under section 8905a of this title” for “or former spouse” in two places.
 
-<b>1986</b>—Subsec. (b). Pub. L. 99–251 substituted “enrollees” for “employees” in last sentence.
+1986—Subsec. (b). Pub. L. 99–251 substituted “enrollees” for “employees” in last sentence.
 
-<b>1985</b>—Subsec. (d). Pub. L. 99–53, §2(e), substituted “section 8903(3) or 8903a” for “section 8903(3)” and inserted provision directing that if the successor organization is an organization described in section 8901(8)(B) of this title, any transferred employee, annuitant, or former spouse may not remain enrolled in the plan after the end of the contract term in which the merger occurs unless the individual is a full member of such organization (as determined under section 8903a(d) of this title).
+1985—Subsec. (d). Pub. L. 99–53, §2(e), substituted “section 8903(3) or 8903a” for “section 8903(3)” and inserted provision directing that if the successor organization is an organization described in section 8901(8)(B) of this title, any transferred employee, annuitant, or former spouse may not remain enrolled in the plan after the end of the contract term in which the merger occurs unless the individual is a full member of such organization (as determined under section 8903a(d) of this title).
 
 Subsec. (e). Pub. L. 99–53, §2(f), inserted “or 8903a” before “of this title”.
 
-<b>1984</b>—Subsecs. (a), (b). Pub. L. 98–615, §3(6)(A), substituted “enrollees” for “employees, annuitants,” in provisions preceding par. (1).
+1984—Subsecs. (a), (b). Pub. L. 98–615, §3(6)(A), substituted “enrollees” for “employees, annuitants,” in provisions preceding par. (1).
 
 Subsec. (d). Pub. L. 98–615, §3(6)(B), substituted “Each employee, annuitant, or former spouse” for “Each employee or annuitant”.
 
-<b>1978</b>—Subsecs. (a), (b). Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission” and “Office” for “Commission” wherever appearing.
+1978—Subsecs. (a), (b). Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission” and “Office” for “Commission” wherever appearing.
 
 #### Effective Date of 1990 Amendment
 
@@ -134,7 +136,7 @@ Prohibited Transfers.—(1) No amount in the Employees Health Benefits Fund may 
 
 “(b)
 
-Restriction Relating to Use of Certain Amounts in the Fund.—(1) Any amount which is in the Employees Health Benefits Fund, and which is described in paragraph (2), may be used solely for the purpose of paying the Government contribution under chapter 89 of title 5, United States Code, for health benefits for annuitants enrolled in health benefits plans (without regard to the health benefits plan or plans from which the refunds were received).
+Restriction Relating to Use of Certain Amounts in the Fund.—(1) Any amount which is in the Employees Health Benefits Fund, and which is described in paragraph (2), may be used solely for the purpose of paying the Government contribution underchapter 89 of title 5, United States Code, for health benefits for annuitants enrolled in health benefits plans (without regard to the health benefits plan or plans from which the refunds were received).
 
 “(2) This subsection applies with respect to any amounts—
 

@@ -2,7 +2,7 @@
 
 (a) Except as permitted by subsection (b), no Member of Congress or officer or employee of the executive, legislative, or judicial branch shall solicit or accept anything of value from a person—
 
-&emsp;(1) seeking official action from, doing business with, or (in the case of executive branch officers and employees) conducting activities regulated by, the individual's employing entity; or
+&emsp;(1) seeking official action from, doing business with, or (in the case of executive branch officers and employees) conducting activitiesregulated by, the individual's employing entity; or
 
 &emsp;(2) whose interests may be substantially affected by the performance or nonperformance of the individual's official duties.
 
@@ -40,7 +40,7 @@ The Ethics in Government Act of 1978, referred to in subsec. (d)(1)(E), is Pub. 
 
 #### Amendments
 
-<b>1990</b>—Subsec. (a). Pub. L. 101–280, §4(d)(1)(A), substituted “branch” for “branches” in introductory provisions.
+1990—Subsec. (a). Pub. L. 101–280, §4(d)(1)(A), substituted “branch” for “branches” in introductory provisions.
 
 Subsec. (a)(1). Pub. L. 101–280, §4(d)(1)(B), substituted “by, the” for “by the” and “entity” for “agency”.
 

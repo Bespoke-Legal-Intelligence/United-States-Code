@@ -24,7 +24,7 @@ The Secretary is authorized to require such information with respect to persons 
 
 #### (d) Authority to require information concerning section 912 allowances
 
-The Secretary may by regulations require any individual who receives allowances which are excluded from gross income under section 912 for any taxable year to include on his return of the taxes imposed by subtitle A for such taxableyear such information with respect to the amount and type of such allowances as the Secretary determines to be appropriate.
+The Secretary may by regulations require any individual who receives allowances which are excluded from gross income under section 912 for any taxable year to include on his return of the taxes imposed by subtitle A for such taxable year such information with respect to the amount and type of such allowances as the Secretary determines to be appropriate.
 
 #### (e) Regulations requiring returns on magnetic media, etc.
 
@@ -100,7 +100,7 @@ Section 1015(q)(2) of Pub. L. 100–647 provided that: “The amendment made by 
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–369 applicable to transactions after Dec. 31, 1984, in taxable years ending aftersuch date, see section 805(a)(1) of Pub. L. 98–369, set out as an Effective Date note under section 921 of this title.
+Amendment by Pub. L. 98–369 applicable to transactions after Dec. 31, 1984, in taxable years ending after such date, see section 805(a)(1) of Pub. L. 98–369, set out as an Effective Date note under section 921 of this title.
 
 #### Effective Date of 1983 Amendment
 
@@ -158,7 +158,7 @@ Pub. L. 95–600, title V, §551, Nov. 6, 1978, 92 Stat. 2890, required a study 
 
 Section 3(d)(1) of Pub. L. 89–243, Oct. 9, 1965, 79 Stat. 955, provided that the first period for which returns were to be made under subsec. (d)(1) of this section with respect to acquisitions made subject to tax by this section was the period commencing Feb. 11, 1965, and ending at the close of the calendar quarter in which the enactment of Pub. L. 89–243 \[Oct. 9, 1965\] occurred.
 
-Section 3(e) of Pub. L. 88–563 provided that the first period for which returns were to be made under subsec. (d)(1) of this section was the period commencing July 19, 1963, and ending at the close of the calendar quarter in which the enactment of Pub. L. 88–563 \[Sept. 2, 1964\] occurred.
+Section 3(e) of Pub. L. 88–563 provided that the first period for which returns were to be made under subsec.\(d)(1) of this section was the period commencing July 19, 1963, and ending at the close of the calendar quarter in which the enactment of Pub. L. 88–563 \[Sept. 2, 1964\] occurred.
 
 #### Section Referred to in Other Sections
 

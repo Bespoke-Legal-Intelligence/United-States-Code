@@ -56,7 +56,9 @@ Historical and Revision Notes
 
 Pub. L. 103–272
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -66,7 +68,7 @@ Pub. L. 103–272
 
 45:581(a), (b)(1) (1st sentence), (2).
 
-Oct. 30, 1970, Pub. L. 91–518, 84 Stat. 1327, §§501(a)–(c)(4), 503(b), 504(f); added Aug. 13, 1981, Pub. L. 97–35, §1137, 95 Stat. 647, 648, 649.
+Oct. 30, 1970, Pub. L. 91–518, 84 Stat. 1327, §§501(a)– (c)(4), 503(b), 504(f); added Aug. 13, 1981, Pub. L. 97–35, §1137, 95 Stat. 647, 648, 649.
 
 24501(b)
 

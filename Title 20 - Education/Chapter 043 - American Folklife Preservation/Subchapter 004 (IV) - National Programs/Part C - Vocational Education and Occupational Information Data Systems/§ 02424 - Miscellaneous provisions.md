@@ -2,7 +2,7 @@
 
 #### (a) Collection of information at reasonable cost
 
-The Secretary shall take such action as may be necessary to secure at reasonable cost the information required by this part. To ensure reasonable cost, the Secretary, in consultation with the Vocational Education Task Force, the National Center for Education Statistics, theOffice of Vocational and Adult Education, and the National Occupational Information Coordinating Committee shall determine the methodology to be used and the frequency with which information is to be collected.
+The Secretary shall take such action as may be necessary to secure at reasonable cost the information required by this part. To ensure reasonable cost, the Secretary, in consultation with the Vocational Education Task Force, the National Center for Education Statistics, the Office of Vocational and Adult Education, and the National Occupational Information Coordinating Committee shall determine the methodology to be used and the frequency with which information is to be collected.
 
 #### (b) Cooperation of States
 

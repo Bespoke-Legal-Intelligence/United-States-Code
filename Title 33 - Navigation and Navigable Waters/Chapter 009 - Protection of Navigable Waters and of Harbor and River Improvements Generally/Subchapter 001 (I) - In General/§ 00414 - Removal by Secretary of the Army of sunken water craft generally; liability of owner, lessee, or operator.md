@@ -36,5 +36,5 @@ Marking of obstructions, see section 86 of Title 14, Coast Guard.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 409, 412, 415, 416, 418 of this title; title 43 section 2105.
+This section is referred to in sections 409, 411, 412, 415, 416, 418 of this title; title 43 section 2105.
 

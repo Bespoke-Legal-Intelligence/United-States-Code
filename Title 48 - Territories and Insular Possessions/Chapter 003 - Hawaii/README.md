@@ -1028,7 +1028,7 @@ seal\]
 
 #### Ex. Ord. No. 11048. Administration of Wake Island and Midway Island
 
-Ex. Ord. No. 11048, Sept. 4, 1962, 27 F.R. 8851, provided:
+Ex. Ord. No. 11048, Sept. 4, 1962, 27 F.R. 8851, as amended by Ex. Ord. No. 13022, §1, Oct. 31, 1996, 61 F.R. 56875, provided:
 
 By virtue of the authority vested in me by section 48 of the Hawaii Omnibus Act (approved July 12, 1960; 74 Stat. 424; P.L. 86–624) \[set out above\] and section 301 of title 3 of the United States Code and as President of the United States, it is hereby ordered as follows:
 
@@ -1042,11 +1042,7 @@ Sec. 103. Executive Order No. 6935 of December 29, 1934, to the extent that it p
 
 #### Part II—Midway Island
 
-Section 201. The Secretary of the Navy shall be responsible for the civil administration of Midway Island and all executive and legislative authority necessary for that administration, and all judicial authority respecting Midway Island other than the authority contained in the act of June 15, 1950 (64 Stat. 217), as amended (48 U.S.C. 644a) shall be vested in the Secretary of the Navy.
-
-Sec. 202. The executive, legislative, and judicial authority provided for in section 201 of this order shall be exercised through such agency or agencies of the Navy Department, or through such officers or employees under the jurisdiction of the Secretary of the Navy, as the Secretary may direct or authorize, and shall be exercised in such manner as the Secretary, or any person or persons acting under the authority of the Secretary, may direct or authorize.
-
-Sec. 203. Such public lands on the Midway Islands, Hawaiian group, between the parallels of 28°5G6� and 28°25G6� North latitude, and between the meridians of 177°10G6� and 177°80G6� West longitude, as were placed under the jurisdiction and control of the Navy Department by the provisions of Executive Order No. 199–A of January 20, 1903, are hereby continued under the jurisdiction and control of that Department. Executive Order No. 199–A is hereby superseded.
+\[Superseded by Ex. Ord. No. 13022, §1, Oct. 31, 1996, 61 F.R. 56875\]
 
 #### Part III—Miscellaneous Provisions
 
@@ -1060,7 +1056,37 @@ Sec. 304. This order shall not be deemed to affect Executive Order No. 9709 of M
 
 Sec. 305. Nothing in this order shall be deemed to reduce, limit, or otherwise modify the authority or responsibility of the Attorney General to represent the legal interests of the United States in civil or criminal cases arising under the provisions of the act of June 15, 1950.
 
-John F. Kennedy.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+#### Ex. Ord. No. 13022. Administration of the Midway Islands
+
+Ex. Ord. No. 13022, Oct. 31, 1996, 61 F.R. 56875, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 48 of the Hawaii Omnibus Act, Public Law 86-624 \[set out above\], and section 301 of title 3, United States Code, it is hereby ordered as follows:
+
+Section 1. The Midway Islands, Hawaiian group, and their territorial seas, located approximately between the parallels of 28 degrees 5 minutes and 28 degrees 25 minutes North latitude and between the meridians of 177 degrees 10 minutes and 177 degrees 30 minutes West longitude, were placed under the jurisdiction and control of the Department of the Navy by the provisions of Executive Order 199–A of January 20, 1903, and Part II of Executive Order 11048 of September 4, 1962, and are hereby transferred to the jurisdiction and control of the Department of the Interior. The provisions of Executive Order 199–A of January 20, 1903, and the provisions of Executive Order 11048 of September 4, 1962, that pertain to the Midway Islands are hereby superseded.
+
+Sec. 2. The Midway Islands Naval Defensive Sea Area and the Midway Islands Naval Airspace Reservation are hereby dissolved. The provisions of Executive Order 8682 of February 14, 1941, as amended by Executive Order 8729 of April 2, 1941, are hereby superseded.
+
+Sec. 3. (a) The Secretary of the Interior, through the United States Fish and Wildlife Service, shall administer the Midway Islands as the Midway Atoll National Wildlife Refuge in a manner consistent with Executive Order 12996 of March 25, 1996 \[16 U.S.C. 668dd note\], for the following purposes:
+
+(1) maintaining and restoring natural biological diversity within the refuge;
+
+(2) providing for the conservation and management of fish and wildlife and their habitats within the refuge;
+
+(3) fulfilling the international treaty obligations of the United States with respect to fish and wildlife;
+
+(4) providing opportunities for scientific research, environmental education, and compatible wildlife dependent recreational activities; and
+
+(5) in a manner compatible with refuge purposes, shall recognize and maintain the historic significance of the Midway Islands consistent with the policy stated in Executive Order 11593 of May 13, 1971 \[16 U.S.C. 470 note\].
+
+(b) The Secretary of the Interior shall be responsible for the civil administration of the Midway Islands and all executive and legislative authority necessary for that administration, and all judicial authority respecting the Midway Islands other than the authority contained in 48 U.S.C. 644a.
+
+Sec. 4. Any civil or criminal proceeding that is pending under the Midway Islands Code, 32 CFR Part 762, upon the date of this order, shall remain under the jurisdiction of the Secretary of the Navy. Actions arising after the date of this order are the responsibility of the Secretary of the Interior and shall be administered pursuant to regulations promulgated by the Secretary of the Interior.
+
+Sec. 5. To the extent that any prior Executive order or proclamation is inconsistent with the provisions of this order, this order shall control.
+
+Sec. 6. Nothing in this order shall be deemed to reduce, limit, or otherwise modify the authority or responsibility of the Attorney General of the United States to represent the legal interests of the United States in civil or criminal cases arising under the provisions of 48 U.S.C. 644a.
+
+William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Delegation of Functions
 

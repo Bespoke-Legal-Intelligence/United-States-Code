@@ -28,7 +28,7 @@
 
 &emsp;(4) a transaction by a stockbroker in a security that is executed after a transaction of a kind specified in paragraph (1) or (2) of this subsection in such security and before the expiration of 40 days after the first date on which such security was bona fide offered to the public by the issuer or by or through an underwriter, if such stockbroker provides, at the time of or before such transaction by such stockbroker, a disclosure statement approved under section 1125 of this title, and, if the court orders, information supplementing such disclosure statement.
 
-(b)(1) Except as provided in paragraph (2) of this subsection and except with respect to ordinary trading transactions of an entity that is not an issuer, an entity is an underwriter under section 2(11) of the Securities Act of 1933, if such entity—
+(b)(1) Except as provided in paragraph (2) of this subsection and except with respect to ordinary trading transactions of an entity that is not an issuer, an entity is an underwriter under section 2(11) of the Securities Act of 1933,<sup>1</sup> if such entity—
 
 &emsp;(A) purchases a claim against, interest in, or claim for an administrative expense in the case concerning, the debtor, if such purchase is with a view to distribution of any security received or to be received in exchange for such a claim or interest;
 
@@ -42,7 +42,7 @@
 
 &emsp;(D) is an issuer, as used in such section 2(11), with respect to such securities.
 
-(2) An entity is not an underwriter under section 2(11) of the Securities Act of 1933 or under paragraph (1) of this subsection with respect to an agreement that provides only for—
+(2) An entity is not an underwriter under section 2(11) of the Securities Act of 1933 <sup>1</sup> or under paragraph (1) of this subsection with respect to an agreement that provides only for—
 
 &emsp;(A)(i) the matching or combining of fractional interests in securities offered or sold under the plan into whole interests; or
 
@@ -50,7 +50,7 @@
 
 &emsp;(B) the purchase or sale for such entities of such fractional or whole interests as are necessary to adjust for any remaining fractional interests after such matching.
 
-(3) An entity other than an entity of the kind specified in paragraph (1) of this subsection is not an underwriter under section 2(11) of the Securities Act of 1933 with respect to any securities offered or sold to such entity in the manner specified in subsection (a)(1) of this section.
+(3) An entity other than an entity of the kind specified in paragraph (1) of this subsection is not an underwriter under section 2(11) of the Securities Act of 1933 <sup>1</sup> with respect to any securities offered or sold to such entity in the manner specified in subsection (a)(1) of this section.
 
 (c) An offer or sale of securities of the kind and in the manner specified under subsection (a)(1) of this section is deemed to be a public offering.
 
@@ -68,7 +68,7 @@ In light of the amendments made to the Securities Act of 1933 \[15 U.S.C. 77a et
 
 One other point with respect to Section 1145 deserves comment. Section 1145(a)(3) grants a debtor in possession or trustee in chapter 11 an extremely narrow portfolio security exemption from section 5 of the Securities Act of 1933 \[15 U.S.C. 77e\] or any comparable State law. The provision was considered by Congress and adopted after much study. The exemption is reasonable and is more restrictive than comparable provisions under the Securities Act \[15 U.S.C. 77a et seq.\] relating to the estates of decedents. Subsequent to passage of H.R. 8200 by the House of Representatives, the Securities and Exchange Commission promulgated Rule 148 to treat with this problem under existing law. Members of Congress received opinions from attorneys indicating dissatisfaction with the Commission's rule although the rule has been amended, the ultimate limitation of 1 percent promulgated by the Commission is wholly unacceptable.
 
-The Commission rule would permit a trustee or debtor in possession to distribute securities at the rate of 1 percent every 6 months. Section 1145(a)(3) permits the trustee to distribute 4 percent of the securities during the 2-year period immediately following the date of the filing of the petition. In addition, the security must be of a reporting company under section 13 of the Securities and Exchange Act of 1934 \[15 U.S.C. 78m\], and must be in compliance with all applicable requirements for the continuing of trading in the security on the date that the trustee offers or sells the security.
+The Commission rule would permit a trustee or debtor in possession to distribute securities at the rate of 1 percent every 6 months. Section 1145(a)(3) permits the trustee to distribute 4 percent of the securities during the 2-year period immediately following the date of the filing of the petition. In addition, the security must be of a reporting company under section 13 of the Securities and Exchange Act of 1934 \[15 U.S.C. 78m\], and mustbe in compliance with all applicable requirements for the continuing of trading in the security on the date that the trustee offers or sells the security.
 
 With these safeguards the trustee or debtor in possession should be able to distribute 4 percent of the securities of a class at any time during the 2-year period immediately following the date of the filing of the petition in the interests of expediting bankruptcy administration. The same rationale that applies in expeditiously terminating decedents’ estates applies no less to an estate under title 11.
 
@@ -100,15 +100,17 @@ Subsection (c) makes an offer or sale of securities under the plan in an exempt 
 
 #### References in Text
 
-Sections 2(11) and 5 of the Securities Act of 1933, referred to in subsecs. (a) and (b), are classified to sections 77b(11) and 77e, respectively, of Title 15, Commerce and Trade.
+Section 5 of the Securities Act of 1933, referred to in subsec. (a), is classified to section 77e of Title 15, Commerce and Trade.
 
 Sections 13 and 15(d) of the Securities Exchange Act of 1934, referred to in subsec. (a)(3)(B)(i), are classified to sections 78m and 78<i>o</i>(d), respectively, of Title 15.
 
-The Trust Indenture Act of 1939, referred to in subsec. (d), is title III of act May 27, 1933, ch. 38, as added Aug. 3, 1939, ch. 411, 53 Stat. 1149, as amended, which is classified generally to subchapter III (§77aaa et seq.) of chapter 2A of Title 15. For complete classification of this Act to the Code, see section 77aaa of Title 15 and Tables.
+Section 2(11) of the Securities Act of 1933, referred to in subsec. (b), was redesignated section 2(a)(11) of the Act by Pub. L. 104–290, title I, §106(a)(1), Oct. 11, 1996, 110 Stat. 3424, and is classified to section 77b(a)(11) of Title 15.
+
+The Trust Indenture Act of 1939, referred to in subsec. (d), is title III of act May 27, 1933, ch. 38, as added Aug. 3, 1939, ch. 411, 53 Stat. 1149, as amended, which is classified generally to subchapter III (§77aaa et seq.) of chapter 2A of Title 15. For complete classification ofthis Act to the Code, see section 77aaa of Title 15 and Tables.
 
 #### Amendments
 
-1994—Subsec. (a). Pub. L. 103–394, §501(d)(33)(A), in introductory provisions struck out “(15 U.S.C. 77e)” after“Act of 1933” and substituted “do not apply” for “does not apply” and in par. (3)(B)(i) struck out “(15 U.S.C. 78m or 78<i>o</i>(d))” after “Act of 1934”.
+1994—Subsec. (a). Pub. L. 103–394, §501(d)(33)(A), in introductory provisions struck out “(15 U.S.C. 77e)” after “Act of 1933” and substituted “do not apply” for “does not apply” and in par. (3)(B)(i) struck out “(15 U.S.C. 78m or 78<i>o</i>(d))” after “Act of 1934”.
 
 Subsec. (b)(1). Pub. L. 103–394, §501(d)(33)(B), struck out “(15 U.S.C. 77b(11))” after “Act of 1933”.
 
@@ -141,4 +143,6 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 364, 901 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

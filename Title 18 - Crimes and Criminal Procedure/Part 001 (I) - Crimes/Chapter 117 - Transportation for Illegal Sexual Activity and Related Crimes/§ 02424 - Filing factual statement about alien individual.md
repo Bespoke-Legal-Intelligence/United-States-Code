@@ -1,16 +1,16 @@
 ### §2424. Filing factual statement about alien individual
 
-(a) Whoever keeps, maintains, controls, supports, or harbors in any house or place for the purpose of prostitution, or for any other immoral purpose, any alien individual within three years after that individual has entered the United States from any country, party to the arrangement adopted July 25, 1902, for the suppression of the white-slave traffic, shall file with the Commissioner of Immigration and Naturalization a statement in writing setting forth the name of such alien individual, the place at which that individual is kept, and all facts as to the date of that individual's entry into the United States, the port through which that individual entered, that individual's age, nationality, and parentage, and concerning that individual's procuration to come to this country within the knowledge of such person; and
+(a) Whoever keeps, maintains, controls, supports, or harbors in any house or place for the purpose of prostitution, or for any other immoral purpose, any individual, knowing or in reckless disregard of the fact that the individual is an alien, shall file with the Commissioner of Immigration and Naturalization a statement in writing setting forth the name of such individual, the place at which that individual is kept, and all facts as to the date of that individual's entry into the United States, the port through which that individual entered, that individual's age, nationality, and parentage, and concerning that individual's procuration to come to this country within the knowledge of such person; and
 
-Whoever fails within thirty days after commencing to keep, maintain, control, support, or harbor in any house or place for the purpose of prostitution, or for any other immoral purpose, any alien individual within three years after that individual has entered the United States from any country, party to the said arrangement for the suppression of the white-slave traffic, to file such statement concerning such alien individual with the Commissioner of Immigration and Naturalization; or
+Whoever fails within five business days after commencing to keep, maintain, control, support, or harbor in any house or place for the purpose of prostitution, or for any other immoral purpose, any alien individual to file such statement concerning such alien individual with the Commissioner of Immigration and Naturalization; or
 
 Whoever knowingly and willfully states falsely or fails to disclose in such statement any fact within that person's knowledge or belief with reference to the age, nationality, or parentage of any such alien individual, or concerning that individual's procuration to come to this country—
 
-Shall be fined under this title or imprisoned not more than two years, or both.
+Shall be fined under this title or imprisoned not more than 10 years, or both.
 
 (b) In any prosecution brought under this section, if it appears that any such statement required is not on file in the office of the Commissioner of Immigration and Naturalization, the person whose duty it is to file such statement shall be presumed to have failed to file said statement, unless such person or persons shall prove otherwise. No person shall be excused from furnishing the statement, as required by this section, on the ground or for the reason that the statement so required by that person, or the information therein contained, might tend to criminate that person or subject that person to a penalty or forfeiture, but no information contained in the statement or any evidence which is directly or indirectly derived from such information may be used against any person making such statement in any criminal case, except a prosecution for perjury, giving a false statement or otherwise failing to comply with this section.
 
-(June 25, 1948, ch. 645, 62 Stat. 813; Oct. 15, 1970, Pub. L. 91–452, title II, §226, 84 Stat. 930; Nov. 7,1986, Pub. L. 99–628, §5(c), 100 Stat. 3511; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(I), 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 813; Oct. 15, 1970, Pub. L. 91–452, title II, §226, 84 Stat. 930; Nov. 7, 1986, Pub. L. 99–628, §5(c), 100 Stat. 3511; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(I), 108 Stat. 2147; Sept. 30, 1996, Pub. L. 104–208, div. C, title III, §325, 110 Stat. 3009–629.)
 
 #### Historical and Revision Notes
 
@@ -23,6 +23,12 @@ Words “shall be deemed guilty of a misdemeanor” were omitted as unnecessary 
 Minor changes were made in phraseology.
 
 #### Amendments
+
+1996—Subsec. (a). Pub. L. 104–208, §325(1), in first par. substituted “individual, knowing or in reckless disregard of the fact that the individual is an alien” for “alien individual within three years after that individual has entered the United States from any country, party to the arrangement adopted July 25, 1902, for thesuppression of the white-slave traffic” and struck out “alien” after “the name of such”.
+
+Pub. L. 104–208, §325(2), in second par. substituted “five business” for “thirty” and struck out “within three years after that individual has entered the United States from any country, party to the said arrangement for the suppression of the white-slave traffic,” after “any alien individual”.
+
+Pub. L. 104–208, §325(3), substituted “10” for “two” in last par.
 
 1994—Subsec. (a). Pub. L. 103–322 substituted “fined under this title” for “fined not more than $2,000” in last par.
 

@@ -10,7 +10,7 @@ In this chapter:
 
 &emsp;(4) The term “technology and industrial base sector” means a group of public or private persons and organizations that engage in, or are capable of engaging in, similar research, development, or production activities.
 
-&emsp;(5) The terms “Federal laboratory” and “laboratory” have the meaning given the term “laboratory” in section 12(d)(2) of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3710a(d)(2)), except that such termsinclude a federally funded research and development center sponsored by a Federal agency.
+&emsp;(5) The terms “Federal laboratory” and “laboratory” have the meaning given the term “laboratory” in section 12(d)(2) of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3710a(d)(2)), except that such terms include a federally funded research and development center sponsored by a Federal agency.
 
 &emsp;(6) The term “critical technology” means a technology that is—
 
@@ -20,7 +20,7 @@ In this chapter:
 
 &emsp;(7) The term “national critical technology” means a technology that appears on the list of national critical technologies contained in the most recent biennial report on national critical technologies submitted to Congress by the President pursuant to section 603(d) of the National Science and Technology Policy, Organization, and Priorities Act of 1976 (42 U.S.C. 6683(d)).
 
-&emsp;(8) The term “defense critical technology” means a technology that appears on the list of critical technologies contained, pursuant to subsection (b)(4) of section 2505 of this title, in the most recent national technology and industrial base assessment submitted to Congress by the Secretary of Defense pursuant to section 2506(e) of this title.
+&emsp;(8) The term “defense critical technology” means a technology that appears on the list of critical technologies contained, pursuant to subsection (b)(4) <sup>1</sup> of section 2505 of this title, in the most recent national technology and industrial base assessment submitted to Congress by the Secretary of Defense pursuant to section 2506(e) <sup>1</sup> of this title.
 
 &emsp;(9) The term “eligible firm” means a company or other business entity that, as determined by the Secretary of Commerce—
 
@@ -34,45 +34,53 @@ In this chapter:
 
 > &emsp;Such term includes a consortium of such companies or other business entities, as determined by the Secretary of Commerce.
 
-&emsp;(10) The term “manufacturing technology” means techniques and processes designed to improve manufacturing quality, productivity, and practices, including quality control, shop floor management, inventory management, and worker training, as well as manufacturing equipment and software.
+&emsp;(10) The term “manufacturing technology” means techniques and processes designed toimprove manufacturing quality, productivity, and practices, including quality control, shop floor management, inventory management, and worker training, as well as manufacturing equipment and software.
 
-&emsp;(11) The term “manufacturing extension program” means a public or private, nonprofit program for the improvement of the quality, productivity, and performance of United States-based small manufacturing firms in the United States.
-
-&emsp;(12) The term “United States-based small manufacturing firm” means a company or other business entity that, as determined by the Secretary of Commerce—
-
-&emsp;&emsp;(A) engages in manufacturing;
-
-&emsp;&emsp;(B) has less than 500 employees; and
-
-&emsp;&emsp;(C) is an eligible firm.
-
-&emsp;(13) The term “Small Business Innovation Research Program” means the program established under the following provisions of section 9 of the Small Business Act (15 U.S.C. 638):
+&emsp;(11) The term “Small Business Innovation Research Program” means the program established under the following provisions of section 9 of the Small Business Act (15 U.S.C. 638):
 
 &emsp;&emsp;(A) Paragraphs (4) through (7) of subsection (b).
 
-&emsp;&emsp;(B) Subsections (e) through (<i>l).</i>
+&emsp;&emsp;(B) Subsections (e) through (<i>l</i>).
 
-&emsp;(14) The term “Small Business Technology Transfer Program” means the program established under the following provisions of such section:
+&emsp;(12) The term “Small Business Technology Transfer Program” means the program established under the following provisions of such section:
 
 &emsp;&emsp;(A) Paragraphs (4) through (7) of subsection (b).
 
 &emsp;&emsp;(B) Subsections (e) and (n) through (p).
 
-&emsp;(15) The term “significant equity percentage” means—
+&emsp;(13) The term “significant equity percentage” means—
 
 &emsp;&emsp;(A) a level of contribution and participation sufficient, when compared to the other non-Federal participants in the partnership or other cooperative arrangement involved, to demonstrate a comparable long-term financial commitment to the product or process development involved; and
 
 &emsp;&emsp;(B) any other criteria the Secretary may consider necessary to ensure an appropriate equity mix among the participants.
 
-&emsp;(16) The term “person of a foreign country” has the meaning given such term in section 3502(d) of the Primary Dealers Act of 1988 (22 U.S.C. 5342(d)).
+&emsp;(14) The term “person of a foreign country” has the meaning given such term in section 3502(d) of the Primary Dealers Act of 1988 (22 U.S.C. 5342(d)).
 
-(Added Pub. L. 102–484, div. D, title XLII, §4203(a), Oct. 23, 1992, 106 Stat. 2661; amended Pub. L. 103–160, div. A, title XI, §1182(a)(9), title XIII, §1315(f), Nov. 30, 1993, 107 Stat. 1771, 1788; Pub. L. 103–337, div. A, title XI, §§1113(d), 1115(e), Oct. 5, 1994, 108 Stat. 2866, 2869.)
+(Added Pub. L. 102–484, div. D, title XLII, §4203(a), Oct. 23, 1992, 106 Stat. 2661; amended Pub. L. 103–160, div. A, title XI, §1182(a)(9), title XIII, §1315(f), Nov. 30, 1993, 107 Stat. 1771, 1788; Pub. L. 103–337, div. A, title XI, §§1113(d), 1115(e), Oct. 5, 1994, 108 Stat. 2866, 2869; Pub. L. 104–106, div. A, title X, §1081(h), Feb. 10, 1996, 110 Stat. 455.)
+
+#### References in Text
+
+Section 2505 of this title, referred to in par. (8), was amended generally by Pub. L. 104–201, div. A, title VIII, §829(c)(1), Sept. 23, 1996, 110 Stat. 2612, and, as so amended, no longer contains a subsec. (b)(4).
+
+Section 2506 of this title, referred to in par. (8), was amended generally by Pub. L. 104–201, div. A, title VIII, §829(d), Sept. 23, 1996, 110 Stat. 2613, and, as so amended, no longer contains a subsec. (e).
 
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in former sections 2511 and 2521 of this title prior to repeal by Pub. L. 102–484, §4202(a).
 
 #### Amendments
+
+1996—Pars. (11) to (16). Pub. L. 104–106 redesignated pars. (13) to (16) as (11) to (14), respectively, and struck out former pars. (11) and (12) which read as follows:
+
+“(11) The term ‘manufacturing extension program’ means a public or private, nonprofit program for the improvement of the quality, productivity, and performance of United States-based small manufacturing firms in the United States.
+
+“(12) The term ‘United States-based small manufacturing firm’ means a company or other business entity that, as determined by the Secretary of Commerce—
+
+&emsp;“(A) engages in manufacturing;
+
+&emsp;“(B) has less than 500 employees; and
+
+&emsp;“(C) is an eligible firm.”
 
 1994—Par. (5). Pub. L. 103–337, §1113(d), inserted before period at end “, except that such terms include a federally funded research and development center sponsored by a Federal agency”.
 
@@ -90,7 +98,7 @@ Section 1101 of title XI of div. A of Pub. L. 103–337 provided that: “This t
 
 #### Short Title of 1993 Amendment
 
-Section 1301 of title XIII of div. A of Pub. L. 103–160 provided that: “This title \[enacting sections 1152 and 1153 of this title and sections 1279d, 1279e, and 1280a ofthe Appendix to Title 46, Shipping, amending this section, sections 1142, 1151, 1598, 2410j, 2501, 2502, 2511 to 2513, 2523, and 2524 of this title, sections 1551 and 1662d–1 of Title 29, Labor, section 31326 of Title 46, and sections 1271, 1273, 1274, and 1274a of the Appendix to Title 46, repealing section 2504 of this title, enacting provisions set out as notes under sections 1143, 1151, 2501, 2511, 2701, and 5013 of this title, section 1662d–1 of Title 29, and sections 1279b and 1279d of the Appendix to Title 46, amending provisions set out as notes under sections 1143, 2391, and 2501 of this title, and repealing provisions set out as a note under section 2701 of this title\] may be cited as the ‘Defense Conversion, Reinvestment, and Transition Assistance Amendments of 1993’.”
+Section 1301 of title XIII of div. A of Pub. L. 103–160 provided that: “This title \[enacting sections 1152 and 1153 of this title and sections 1279d, 1279e, and 1280a of the Appendix to Title 46, Shipping, amending this section, sections 1142, 1151, 1598, 2410j, 2501, 2502, 2511 to 2513, 2523, and 2524 of this title, sections 1551 and 1662d–1 of Title 29, Labor, section 31326 of Title 46, and sections 1271, 1273, 1274, and 1274a of the Appendix to Title 46, repealing section 2504 of this title, enacting provisions set out as notes under sections 1143, 1151, 2501, 2511, 2701, and 5013 of this title, section 1662d–1 of Title 29, and sections 1279b and 1279d of the Appendix to Title 46, amending provisions set out as notes under sections 1143, 2391, and 2501 of this title, and repealing provisions set out as a note under section 2701 of this title\] may be cited as the ‘Defense Conversion, Reinvestment, and Transition Assistance Amendments of 1993’.”
 
 #### Short Title
 
@@ -108,7 +116,7 @@ Section 4101 of Pub. L. 102–484 provided that: “Congress makes the following
 
 &emsp;“(2) The change in the military threat presents a unique opportunity to restructure and reduce the military requirements of the United States.
 
-&emsp;“(3) As the United States proceeds with the post-Cold War defense build down, the Nation must recognize and address the impact of reduced defense spending on the military personnel, civilian employees, and defense industry workers who have been the foundation of the national defense policies of the United States.
+&emsp;“(3) As the United States proceeds with the post-Cold War defense build down, the Nation must recognize and address the impact of reduced defense spending on the military personnel, civilian employees,and defense industry workers who have been the foundation of the national defense policies of the United States.
 
 &emsp;“(4) The defense build down will have a significant impact on communities as procurements are reduced and military installations are closed and realigned.
 
@@ -128,7 +136,7 @@ Section 4201 of title XLII of div. D of Pub. L. 102–484 provided that: “The 
 
 #### Transition Provision; “Defense Critical Technology” Defined
 
-Section 4203(b) of Pub. L. 102–484 provided that: “Until the first national technology and industrial base assessment is submitted to Congress by the Secretary of Defense pursuant to section 2506(e) of title 10, United States Code, as added by section 4216, the term ‘defense critical technology’ for the purposes of chapter 148 of such title, as added by section 4202, shall have the meaning given such term in section 2521 of title 10, United States Code, as in effect on the day before the date of the enactment of this Act \[Oct. 23, 1992\].”
+Section 4203(b) of Pub. L. 102–484 provided that until first national technology and industrial base assessment was submitted to Congress by Secretary of Defense pursuant to former section 2506(e) of this title, the term “defense critical technology” for purposes of this chapter, would have meaning given such term in section 2521 of this title, as in effect on day before Oct. 23, 1992.
 
 #### Section Referred to in Other Sections
 

@@ -88,5 +88,5 @@ Rules applicable in determining dividends eligible for dividends paid credit ded
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 301, 331, 562, 565, 956A, 959, 6042, 7518 of this title; title 46 App. section 1177.
+This section is referred to in sections 301, 331, 562, 565, 956, 959, 6042, 7518 of this title; title 46 App. section 1177.
 

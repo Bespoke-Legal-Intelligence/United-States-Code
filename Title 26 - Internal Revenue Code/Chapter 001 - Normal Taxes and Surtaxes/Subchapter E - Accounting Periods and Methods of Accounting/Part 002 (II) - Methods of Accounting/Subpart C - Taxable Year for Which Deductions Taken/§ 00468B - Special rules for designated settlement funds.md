@@ -44,7 +44,7 @@ For purposes of section 461(h), economic performance shall be deemed to occur as
 
 #### (c) Deductions not allowed for transfer of insurance amounts
 
-No deduction shall be allowable for any qualified payment by the taxpayer of any amounts received from the settlement of any insurance claim to the extent such amounts are excluded from the gross income of the taxpayer.
+No deduction shall be allowable for any qualified payment by the taxpayer of any amounts received from the settlement of any insuranceclaim to the extent such amounts are excluded from the gross income of the taxpayer.
 
 #### (d) Definitions
 
@@ -130,7 +130,7 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 Section 1807(a)(7)(C) of Pub. L. 99–514, as amended by Pub. L. 100–647, title I, §1018(f)(3), Nov. 10, 1988, 102 Stat. 3582, provided that: “In the case of any settlement fund which is established for claimants against a corporation which filed a petition for reorganization under chapter 11 of title 11, United States Code, on August 26, 1982, and which filed with a United States district court a first amended and restated plan of reorganization before March 1, 1986—
 
-&emsp;“(i) any portion of such fund which is established pursuant to a court order and with qualified payments, which meets the requirements of subparagraphs (C) and (D) of section 468B(d)(2) of the Internal Revenue Code of 1954 \[now 1986\] (as added by this paragraph), and with respect to which an election is made under subparagraph (F) thereof, shall be treated as a designated settlement fund for purposes of section 468B of such Code,
+&emsp;“(i) any portion of such fund which is established pursuant to a court order and with qualified payments, which meets the requirements of subparagraphs (C) and (D) of section 468B(d)(2) of the InternalRevenue Code of 1954 \[now 1986\] (as added by this paragraph), and with respect to which an election is made under subparagraph (F) thereof, shall be treated as a designated settlement fund for purposes of section 468B of such Code,
 
 &emsp;“(ii) such corporation (or any successor thereof) shall be liable for the tax imposed by section 468B of such Code on such portion of the fund (and the fund shall not be liable for such tax), such tax shall be deductible by the corporation, and the rate of tax under section 468B of such Code for any taxable year shall be equal to 15 percent, and
 

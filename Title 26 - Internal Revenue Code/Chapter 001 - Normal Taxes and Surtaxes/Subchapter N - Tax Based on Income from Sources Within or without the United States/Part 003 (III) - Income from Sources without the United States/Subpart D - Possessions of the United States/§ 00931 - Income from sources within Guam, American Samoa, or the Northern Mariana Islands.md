@@ -42,7 +42,7 @@ For purposes of this section—
 
 #### Amendments
 
-1986—Pub. L. 99–514 amended section generally, substituting provisions relating to income from sources within Guam, American Samoa, or the Northern Mariana Islands, for former provisions relating to income from sources within possessions of the United States, which had declared in: subsec. (a), general rule as to gross income, including requirements relating to 3-year period and trade or business; subsec. (b), rule as to amounts received in United States; subsec. (c), definition of “possession of the United States”; subsec. (d), general rule allowing deductions only to extent connected with income from sources within United States, and specific exceptions to limitations of general rule; subsec. (e), deduction for personal exemption; subsec. (f), allowance of deductions and credits; subsec. (g), foreign tax credit; subsec. (h), provisions relating to employees of United States.
+1986—Pub. L. 99–514 amended section generally, substituting provisions relating to income from sourceswithin Guam, American Samoa, or the Northern Mariana Islands, for former provisions relating to income from sources within possessions of the United States, which had declared in: subsec. (a), general rule as to gross income, including requirements relating to 3-year period and trade or business; subsec. (b), rule as to amounts received in United States; subsec. (c), definition of “possession of the United States”; subsec. (d), general rule allowing deductions only to extent connected with income from sources within United States, and specific exceptions to limitations of general rule; subsec. (e), deduction for personal exemption; subsec. (f), allowance of deductions and credits; subsec. (g), foreign tax credit; subsec. (h), provisions relating to employees of United States.
 
 1984—Subsec. (d)(2)(B). Pub. L. 98–369 substituted “for losses” for “, for losses of property not connected with the trade or business if arising from certain casualties or theft,”.
 
@@ -246,7 +246,7 @@ Mirror system.—For purposes of this section, the mirror system of taxation con
 
 &emsp;“(3)
 
-Special rule for northern mariana islands.—Notwithstanding the provisions of the lastclause of section 601(a) of Public Law 94–241 \[48 U.S.C. 1801 note\], the Commonwealth of the Northern Mariana Islands may elect to continue its mirror system of taxation without regard to whether Guam enacts tax laws under the authority provided in subsection (a).”
+Special rule for northern mariana islands.—Notwithstanding the provisions of the last clause of section 601(a) of Public Law 94–241 \[48 U.S.C. 1801 note\], the Commonwealth of the Northern Mariana Islands may elect to continue its mirror system of taxation without regard to whether Guam enacts tax laws under the authority provided in subsection (a).”
 
 #### Cross References
 
@@ -256,5 +256,5 @@ Income from sources within the United States, see section 861 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 86, 135, 168, 865, 876, 901, 936, 1302, 1402, 1504, 6091, 7654, 7655 of this title; title 42 section 411; title 48 section 1421i.
+This section is referred to in sections 23, 86, 135, 137, 168, 865, 876, 901, 936, 1302, 1402, 1504, 6091, 7654, 7655 of this title; title 42 section 411; title 48 section 1421i.
 

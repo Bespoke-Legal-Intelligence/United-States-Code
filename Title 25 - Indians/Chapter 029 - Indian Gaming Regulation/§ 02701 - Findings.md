@@ -4,7 +4,7 @@ The Congress finds that—
 
 &emsp;(1) numerous Indian tribes have become engaged in or have licensed gaming activities on Indian lands as a means of generating tribal governmental revenue;
 
-&emsp;(2) Federal courts have held that section 81 of this title requires Secretarial review of management contracts dealing with Indian gaming, but does not provide standards for approval of such contracts;
+&emsp;(2) Federal courts have held that section 81 of this title requires Secretarial review ofmanagement contracts dealing with Indian gaming, but does not provide standards for approval of such contracts;
 
 &emsp;(3) existing Federal law does not provide clear standards or regulations for the conduct of gaming on Indian lands;
 

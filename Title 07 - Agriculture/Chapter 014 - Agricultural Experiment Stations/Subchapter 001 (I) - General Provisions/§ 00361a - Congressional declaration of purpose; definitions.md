@@ -16,7 +16,7 @@ The Bankhead-Jones Act of 1935, referred to in text, is act June 29, 1935, ch. 3
 
 Title I, section 9, of that Act, referred to in text, was classified to section 427h of this title prior to repeal.
 
-The Act approved July 2, 1862 (12 Stat. 503), referred to in text, is act July 2, 1862, ch. 130, 12 Stat. 503, as amended, popularly known as the “Morrill Act” and also as the “First Morrill Act”, which is classified generally to subchapter I of chapter 13 (§301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 301 of this Act and Tables.
+The Act approved July 2, 1862 (12 Stat. 503), referred to in text, is act July 2, 1862, ch. 130, 12 Stat. 503, asamended, popularly known as the “Morrill Act” and also as the “First Morrill Act”, which is classified generally to subchapter I of chapter 13 (§301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 301 of this Act and Tables.
 
 #### Codification
 
@@ -34,7 +34,7 @@ Section was formerly classified to section 362 of this title.
 
 #### Effective Date of 1974 Amendment
 
-Amendment by Pub. L. 93–471 effective July 1, 1975, unless Pub. L. 93–471 repealed by District of Columbia Council after Jan. 2, 1975, and prior to July 1, 1975; orsuch amendment by Pub. L. 93–471, as amended by the District Council, also effective July 1, 1975, or some other date prescribed by the Council as authorized under provisions of section 407 of Pub. L. 93–471.
+Amendment by Pub. L. 93–471 effective July 1, 1975, unless Pub. L. 93–471 repealed by District of Columbia Council after Jan. 2, 1975, and prior to July 1, 1975; or such amendment by Pub. L. 93–471, as amended by the District Council, also effective July 1, 1975, or some other date prescribed by the Council as authorized under provisions of section 407 of Pub. L. 93–471.
 
 #### Effective Date of 1972 Amendment
 

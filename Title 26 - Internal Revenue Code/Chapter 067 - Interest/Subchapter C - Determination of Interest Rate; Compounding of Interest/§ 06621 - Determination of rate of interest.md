@@ -32,7 +32,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), the Federal short-term rate determinedunder paragraph (1) for any month shall apply during the first calendar quarter beginning after such month.
+&emsp;&emsp;Except as provided in subparagraph (B), the Federal short-term rate determined under paragraph (1) for any month shall apply during the first calendar quarter beginning after such month.
 
 #### (B) Special rule for individual estimated tax
 
@@ -60,11 +60,13 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) the date on which the deficiency notice under section 6212 is sent.
 
+> &emsp;&emsp;The preceding sentence shall be applied without regard to any such letter or notice which is withdrawn by the Secretary.
+
 #### (B) Special rules
 
 #### (i) Nondeficiency procedures
 
-&emsp;&emsp;&emsp;In the case of any underpayment of any tax imposed by this subtitle to which the deficiency procedures do not apply, subparagraph (A) shall be applied by taking into account any letter or notice provided by the Secretary which notifies the taxpayer of the assessment or proposed assessment of the tax.
+&emsp;&emsp;&emsp;In the case of any underpayment of any tax imposed by this title to which the deficiency procedures do not apply, subparagraph (A) shall be applied by taking into account any letter or notice provided by the Secretary which notifies the taxpayer of the assessment or proposed assessment of the tax.
 
 #### (ii) Exception where amounts paid in full
 
@@ -86,9 +88,13 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) in the case of any other tax, the period to which the underpayment relates.
 
-(Added Pub. L. 93–625, §7(a)(1), Jan. 3, 1975, 88 Stat. 2114; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–167, §4(b), Dec. 29, 1979, 93 Stat. 1275; Pub. L. 97–34, title VII, §711(a)–(c), Aug. 13, 1981, 95 Stat. 340; Pub. L. 97–248, title III, §345(a), Sept. 3, 1982, 96 Stat. 636; Pub. L. 98–369, div. A, title I, §144(a), July 18, 1984, 98 Stat. 682; Pub. L. 99–514, title XV, §§1511(a), (c)(1), 1535(a), Oct. 22, 1986, 100 Stat. 2744, 2750; Pub. L. 100–647, title I, §1015(d), Nov. 10, 1988, 102 Stat. 3569; Pub. L. 101–239, title VII, §7721(b), Dec. 19, 1989, 103 Stat. 2399; Pub. L. 101–508, title XI, §11341(a), Nov. 5, 1990, 104 Stat. 1388–470; Pub. L. 103–465, title VII, §713(a), Dec. 8, 1994, 108 Stat. 5001.)
+(Added Pub. L. 93–625, §7(a)(1), Jan. 3, 1975, 88 Stat. 2114; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–167, §4(b), Dec. 29, 1979, 93 Stat. 1275; Pub. L. 97–34, title VII, §711(a)–(c), Aug. 13, 1981, 95 Stat. 340; Pub. L. 97–248, title III, §345(a), Sept. 3, 1982, 96 Stat. 636; Pub. L. 98–369, div. A, title I, §144(a), July 18, 1984, 98 Stat. 682; Pub. L. 99–514, title XV, §§1511(a), (c)(1), 1535(a), Oct. 22, 1986, 100 Stat. 2744, 2750; Pub. L. 100–647, title I, §1015(d), Nov. 10, 1988, 102 Stat. 3569; Pub. L. 101–239, title VII, §7721(b), Dec. 19, 1989, 103 Stat. 2399; Pub. L. 101–508, title XI, §11341(a), Nov. 5, 1990, 104 Stat. 1388–470; Pub. L. 103–465, title VII, §713(a), Dec. 8, 1994, 108 Stat. 5001; Pub. L. 104–188, title I, §1702(c)(6), (7), Aug. 20, 1996, 110 Stat. 1870.)
 
 #### Amendments
+
+1996—Subsec. (c)(2)(A). Pub. L. 104–188, §1702(c)(6), inserted closing provisions “The preceding sentence shall be applied without regard to any such letter or notice which is withdrawn by the Secretary.”
+
+Subsec. (c)(2)(B)(i). Pub. L. 104–188, §1702(c)(7), substituted “this title” for “this subtitle”.
 
 1994—Subsec. (a)(1). Pub. L. 103–465 inserted concluding provisions.
 
@@ -114,7 +120,7 @@ Subsec. (d). Pub. L. 99–514, §1511(c)(1)(A), redesignated subsec. (d) as (c).
 
 1984—Subsec. (d). Pub. L. 98–369 added subsec. (d).
 
-1982—Subsec. (b). Pub. L. 97–248 substituted provisions that if the adjusted prime rate charged by banks (rounded to the nearest full percent) during the 6-month period ending on September 30 of any calendar year, or during the 6-month period ending on March 31 of any calendar year, differs from the interest rate in effect under this section on either such date, respectively, then the Secretary shall establish, within 15days after the close of the applicable 6-month period, an adjusted rate of interest equal to such adjusted prime rate, and that any adjusted rate of interest established under paragraph (1) shall become effective on January 1 of the succeeding year in the case of an adjustment attributable to paragraph (1)(A), and on July 1 of the same year in the case of an adjustment attributable to paragraph (1)(B), for provisions that the Secretary was to establish an adjusted rate of interest for the purpose of subsection (a) not later than October 15 of any year if the adjusted prime rate charged by banks during September of that year, rounded to the nearest full percent, was at least a full percentage point more or less than the interest rate which was then in effect, and that any such adjusted rate of interest would be equal to the adjusted prime rate charged by banks, rounded to the nearest full percent, and would become effective on January 1 of the immediately succeeding year.
+1982—Subsec. (b). Pub. L. 97–248 substituted provisions that if the adjusted prime rate charged by banks (rounded to the nearest full percent) during the 6-month period ending on September 30 of any calendar year, or during the 6-month period ending on March 31 of any calendar year, differs from the interest rate in effect under this section on either such date, respectively, then the Secretary shall establish, within 15 days after the close of the applicable 6-month period, an adjusted rate of interest equal to such adjusted prime rate, and that any adjusted rate of interest established under paragraph (1) shall become effective on January 1 of the succeeding year in the case of an adjustment attributable to paragraph (1)(A), and on July 1 of the same year in the case of an adjustment attributable to paragraph (1)(B), for provisions that the Secretary was to establish an adjusted rate of interest for the purpose of subsection (a) not later than October 15 of any year if the adjusted prime rate charged by banks during September of that year, rounded to the nearest full percent, was at least a full percentage point more or less than the interest rate which was then in effect, and that any such adjusted rate of interest would be equal to the adjusted prime rate charged by banks, rounded to the nearest full percent, and would become effective on January 1 of the immediately succeeding year.
 
 1981—Subsec. (b). Pub. L. 97–34, §711(a), struck out provision that an adjustment provided for under this subsection not be made prior to the expiration of 23 months following the date of any preceding adjustment under this subsection which changes the rate of interest.
 
@@ -125,6 +131,10 @@ Subsec. (c). Pub. L. 97–34, §711(b), struck out “90 percent of” before �
 1979—Subsec. (a). Pub. L. 96–167 substituted provisions setting the annual rate established under this section to be such adjusted rate as is established by the Secretary under subsec. (b) of this section for provision that the rate of interest under sections 6601(a), 6602, 6611(a), 6332(c)(1), and 7426(g) of this title, and under section 2411(a) of title 28 was to be 9 percent per annum, or such adjusted rate as was established by the Secretary under subsection (b).
 
 1976—Subsecs. (a), (b). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–188 effective, except as otherwise expressly provided, as if included in the provision of the Revenue Reconciliation Act of 1990, Pub. L. 101–508, title XI, to which such amendment relates, see section 1702(i) of Pub. L. 104–188, set out as a note under section 38 of this title.
 
 #### Effective Date of 1994 Amendment
 
@@ -184,5 +194,5 @@ Section 1511(b) of Pub. L. 99–514 provided that: “The Secretary of the Treas
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 42, 148, 412, 453A, 460, 644, 852, 1258, 1291, 4497, 6214, 6332, 6343, 6427, 6601, 6602, 6611, 6654, 6655, 7426 of this title; title 5 section 5596; title 10 section 2306a; title 14 section 830; title 15 sections 1116, 1117; title 19 sections 1557, 1592, 1593a, 1677g; title 28 sections 1961, 2411, 2644; title 29 sections 1083, 1084, 1132; title 30 sections 934, 1721; title 41 sections 254b, 422; title 42 sections 608, 7413, 7511d, 7524, 7661a.
+This section is referred to in sections 42, 148, 412, 453A, 460, 644, 668, 852, 1258, 1291, 4497, 6332, 6343, 6427, 6601, 6602, 6611, 6654, 6655, 7426 of this title; title 5 section 5596; title 10 section 2306a; title 14 section 830; title 15 sections 1116, 1117; title 19 sections 1557, 1592, 1593a, 1677g; title 28 sections 1961, 2411, 2644; title 29 sections 1083, 1084, 1132; title 30 sections 934, 1721; title 41 sections 254b, 422; title 42 sections 608, 7413, 7511d, 7524, 7661a.
 

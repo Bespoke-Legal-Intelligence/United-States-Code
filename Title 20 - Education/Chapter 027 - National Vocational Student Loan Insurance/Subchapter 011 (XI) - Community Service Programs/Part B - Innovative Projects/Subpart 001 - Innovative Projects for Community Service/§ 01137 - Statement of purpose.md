@@ -1,6 +1,6 @@
 ### §1137. Statement of purpose
 
-It is the purpose of this subpart to support innovative projects in order to encourage studentparticipation in community service projects, including literacy projects.
+It is the purpose of this subpart to support innovative projects in order to encourage student participation in community service projects, including literacy projects.
 
 (Pub. L. 89–329, title XI, §1121, as added Pub. L. 102–325, title XI, §1101, July 23, 1992, 106 Stat. 788.)
 

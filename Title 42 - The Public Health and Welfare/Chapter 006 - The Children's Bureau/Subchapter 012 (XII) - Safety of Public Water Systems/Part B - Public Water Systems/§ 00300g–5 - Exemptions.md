@@ -4,39 +4,41 @@
 
 A State which has primary enforcement responsibility may exempt any public water system within the State's jurisdiction from any requirement respecting a maximum contaminant level or any treatment technique requirement, or from both, of an applicable national primary drinking water regulation upon a finding that—
 
-&emsp;(1) due to compelling factors (which may include economic factors), the public water system is unable to comply with such contaminant level or treatment technique requirement,
+&emsp;(1) due to compelling factors (which may include economic factors, including qualification of the public water system as a system serving a disadvantaged community pursuant to section 300j–12(d) of this title), the public water system is unable to comply with such contaminant level or treatment technique requirement, or to implement measures to develop an alternative source of water supply,
 
-&emsp;(2) the public water system was in operation on the effective date of such contaminant level or treatment technique requirement, or, for a system that was not in operation by that date, only if no reasonable alternative source of drinking water is available to such new system, and
+&emsp;(2) the public water system was in operation on the effective date of such contaminant level or treatment technique requirement, or, for a system that was not in operation by that date, only if no reasonable alternative source of drinking water is available to such new system,
 
-&emsp;(3) the granting of the exemption will not result in an unreasonable risk to health.
+&emsp;(3) the granting of the exemption will not result in an unreasonable risk to health; <sup>1</sup> and
 
-#### (b) Compliance schedule and implementation of control measures; notice and hearing; dates for compliance with schedule; extension of final date for compliance; compliance, enforcement; approval or revision of schedules and revocation of exemptions
+&emsp;(4) management or restructuring changes (or both) cannot reasonably be made that will result in compliance with this subchapter or, if compliance cannot be achieved, improve the quality of the drinking water.
+
+#### (b) Compliance schedule and implementation of control measures; notice and hearing; dates for compliance with schedule; compliance, enforcement; approval or revision of schedules and revocation of exemptions
 
 (1) If a State grants a public water system an exemption under subsection (a) of this section, the State shall prescribe, at the time the exemption is granted, a schedule for—
 
-&emsp;(A) compliance (including increments of progress) by the public water system witheach contaminant level requirement and treatment technique requirement with respect to which the exemption was granted, and
+&emsp;(A) compliance (including increments of progress or measures to develop an alternative source of water supply) by the public water system with each contaminant level requirement or treatment technique requirement with respect to which the exemption was granted, and
 
 &emsp;(B) implementation by the public water system of such control measures as the State may require for each contaminant, subject to such contaminant level requirement or treatment technique requirement, during the period ending on the date compliance with such requirement is required.
 
 > Before a schedule prescribed by a State pursuant to this subsection may take effect, the State shall provide notice and opportunity for a public hearing on the schedule. A notice given pursuant to the preceding sentence may cover the prescribing of more than one such schedule and a hearing held pursuant to such notice shall include each of the schedules covered by the notice.
 
-(2)(A) A schedule prescribed pursuant to this subsection for a public water system granted an exemption under subsection (a) of this section shall require compliance by the system with each contaminant level and treatment technique requirement with respect to which the exemption was granted as expeditiously as practicable (as the State may reasonably determine) but (except as provided in subparagraph (B))—
+(2)(A) A schedule prescribed pursuant to this subsection for a public water system granted an exemption under subsection (a) of this sectionshall require compliance by the system with each contaminant level and treatment technique requirement with respect to which the exemption was granted as expeditiously as practicable (as the State may reasonably determine) but not later than 3 years after the otherwise applicable compliance date established in section 300g–1(b)(10) of this title.
 
-&emsp;(i) in the case of an exemption granted with respect to a contaminant level or treatment technique requirement prescribed by the national primary drinking water regulations promulgated under section 300g–1(a) of this title, not later than 12 months after June 19, 1986; and
+(B) No exemption shall be granted unless the public water system establishes that—
 
-&emsp;(ii) in the case of an exemption granted with respect to a contaminant level or treatment technique requirement prescribed by national primary drinking water regulations, other than a regulation referred to in section 300g–1(a) of this title, 12 months after the date of the issuance of the exemption.
+&emsp;(i) the system cannot meet the standard without capital improvements which cannot be completed prior to the date established pursuant to section 300g–1(b)(10) of this title;
 
-(B) The final date for compliance provided in any schedule in the case of any exemption may be extended by the State (in the case of a State which has primary enforcement responsibility) or by the Administrator (in any other case) for a period not to exceed 3 years after the date of the issuance of the exemption if the public water system establishes that—
-
-&emsp;(i) the system cannot meet the standard without capital improvements which cannot be completed within the period of such exemption;
-
-&emsp;(ii) in the case of a system which needs financial assistance for the necessary improvements, the system has entered into an agreement to obtain such financial assistance; or
+&emsp;(ii) in the case of a system which needs financial assistance for the necessary improvements, the system has entered into an agreement to obtain such financial assistance or assistance pursuant to section 300j–12 of this title, or any other Federal or State program is reasonably likely to be available within the period of the exemption; or
 
 &emsp;(iii) the system has entered into an enforceable agreement to become a part of a regional public water system; and
 
 > the system is taking all practicable steps to meet the standard.
 
-(C) In the case of a system which does not serve more than 500 service connections and which needs financial assistance for the necessary improvements, an exemption granted under clause (i) or (ii) of subparagraph (B) may be renewed for one or more additional 2-year periods if the system establishes that it is taking all practicable steps to meet the requirements of subparagraph (B).
+(C) In the case of a system which does not serve more than a population of 3,300 and which needs financial assistance for the necessary improvements, an exemption granted under clause (i) or (ii) of subparagraph (B) may be renewed for one or more additional 2-year periods, but not to exceed a total of 6 years, if the system establishes that it is taking all practicable steps to meet the requirements of subparagraph (B).
+
+(D)
+
+Limitation.—A public water system may not receive an exemption under this section if the system was granted a variance under section 300g–4(e) of this title.
 
 (3) Each public water system's exemption granted by a State under subsection (a) of this section shall be conditioned by the State upon compliance by the public water system with the schedule prescribed by the State pursuant to this subsection. The requirements of each schedule prescribed by a State pursuant to this subsection shall be enforceable by the State under its laws. Any requirement of a schedule on which an exemption granted under this section is conditioned may be enforced under section 300g–3 of this title as if such requirement was part of a national primary drinking water regulation.
 
@@ -50,7 +52,7 @@ Each State which grants an exemption under subsection (a) of this section shall 
 
 (1) Not later than 18 months after the effective date of the interim national primary drinking water regulations the Administrator shall complete a comprehensive review of the exemptions granted (and schedules prescribed pursuant thereto) by the States during the one-year period beginning on such effective date. The Administrator shall conduct such subsequent reviews of exemptions and schedules as he deems necessary to carry out the purposes of this subchapter, but each subsequent review shall be completed within each 3-year period following the completion of the first review under this subparagraph. Before conducting any review under this subparagraph, the Administrator shall publish notice of the proposed review in the Federal Register. Such notice shall (A) provide information respecting the location of data and other information respecting the exemptions to be reviewed (including data and other information concerning new scientific matters bearing on such exemptions), and (B) advise of the opportunity to submit comments on the exemptions reviewed and on the need for continuing them. Upon completion of any such review, the Administrator shall publish in the Federal Register the results of his review, together with findings responsive to comments submitted in connection with such review.
 
-(2)(A) If the Administrator finds that a State has, in a substantial number of instances,abused its discretion in granting exemptions under subsection (a) of this section or failed to prescribe schedules in accordance with subsection (b) of this section, the Administrator shall notify the State of his findings. In determining if a State has abused its discretion in granting exemptions in a substantial number of instances, the Administrator shall consider the number of persons who are affected by the exemptions and if the requirements applicable to the granting of the exemptions were complied with. A notice under this subparagraph shall—
+(2)(A) If the Administrator finds that a State has, in a substantial number of instances, abused its discretion in granting exemptions under subsection (a) of this section or failed to prescribe schedules in accordance with subsection (b) of this section, the Administrator shall notify the State of his findings. In determining if a State has abused its discretion in granting exemptions in a substantial number of instances, the Administrator shall consider the number of persons who are affected by the exemptions and if the requirements applicable to the granting of the exemptions were complied with. A notice under this subparagraph shall—
 
 &emsp;(i) identify each exempt public water system with respect to which the finding was made,
 
@@ -74,9 +76,31 @@ If a State does not have primary enforcement responsibility for public water sys
 
 If an application for an exemption under this section is made, the State receiving the application or the Administrator, as the case may be, shall act upon such application within a reasonable period (as determined under regulations prescribed by the Administrator) after the date of its submission.
 
-(July 1, 1944, ch. 373, title XIV, §1416, as added Dec. 16, 1974, Pub. L. 93–523, §2(a), 88 Stat. 1672; amended Nov. 16, 1977, Pub. L. 95–190, §10(a), 91 Stat. 1398; Dec. 5, 1980, Pub. L. 96–502, §§1, 4(b), 94 Stat. 2737, 2738; June 19, 1986, Pub. L. 99–339, title I, §§101(c)(4), 105, 100 Stat. 646, 649.)
+(July 1, 1944, ch. 373, title XIV, §1416, as added Dec. 16, 1974, Pub. L. 93–523, §2(a), 88 Stat. 1672; amended Nov. 16, 1977, Pub. L. 95–190, §10(a), 91 Stat. 1398; Dec. 5, 1980, Pub. L. 96–502, §§1, 4(b), 94 Stat. 2737, 2738; June 19, 1986, Pub. L. 99–339, title I, §§101(c)(4), 105, 100 Stat. 646, 649; Aug. 6, 1996, Pub. L. 104–182, title I, §117(a), 110 Stat. 1644.)
 
 #### Amendments
+
+1996—Subsec. (a)(1). Pub. L. 104–182, §117(a)(1), inserted “, including qualification of the public water system as a system serving a disadvantaged community pursuant to section 300j–12(d) of this title” after “(which may include economic factors” and “or to implement measures to develop an alternative source of water supply,” after “treatment technique requirement,”.
+
+Subsec. (a)(4). Pub. L. 104–182, §117(a)(2), added par. (4).
+
+Subsec. (b)(1)(A). Pub. L. 104–182, §117(a)(3), substituted “(including increments of progress or measures to develop an alternative source of water supply)” for “(including increments of progress)” and “requirement or treatment” for “requirement and treatment”.
+
+Subsec. (b)(2)(A). Pub. L. 104–182, §117(a)(4)(A), substituted “not later than 3 years after the otherwise applicable compliance date established in section 300g–1(b)(10) of this title.” for “(except as provided in subparagraph (B))—
+
+&emsp;“(i) in the case of an exemption granted with respect to a contaminant level or treatment technique requirement prescribed by the national primary drinking water regulations promulgated under section 300g–1(a) of this title, not later than 12 months after June 19, 1986; and
+
+&emsp;“(ii) in the case of an exemption granted with respect to a contaminant level or treatment technique requirement prescribed by national primary drinking water regulations, other than a regulation referred to in section 300g–1(a) of this title, 12 months after the date of the issuance of the exemption.”
+
+Subsec. (b)(2)(B). Pub. L. 104–182, §117(a)(4)(A), substituted “No exemption shall be granted unless” for “The final date for compliance provided in any schedule in the case of any exemption may be extended by the State (in the case of a State which has primary enforcement responsibility) or by the Administrator (in any other case) for a period not to exceed 3 years after the date of the issuance of the exemption if” in introductory provisions.
+
+Subsec. (b)(2)(B)(i). Pub. L. 104–182, §117(a)(4)(B), substituted “prior to the date established pursuant to section 300g–1(b)(10) of this title” for “within the period of such exemption”.
+
+Subsec. (b)(2)(B)(ii). Pub. L. 104–182, §117(a)(4)(C), inserted “or assistance pursuant to section 300j–12 of this title, or any other Federal or State program is reasonably likely to be available within the period of the exemption” after “such financial assistance”.
+
+Subsec. (b)(2)(C). Pub. L. 104–182, §117(a)(4)(D), substituted “a population of 3,300” for “500 service connections” and inserted “, but not to exceed a total of 6 years,” after “for one or more additional 2-year periods”.
+
+Subsec. (b)(2)(D). Pub. L. 104–182, §117(a)(4)(E), added subpar. (D).
 
 1986—Subsec. (b)(1). Pub. L. 99–339, §105(a)(1), substituted “at the time” for “within one year of the date”.
 
@@ -104,5 +128,7 @@ Subsec. (b)(2)(B)(i). Pub. L. 96–502, §1, substituted “January 1, 1986” f
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 300g, 300g–2, 300g–3, 300j–2, 300j–7, 300j–8 of this title.
+This section is referred to in sections 300g, 300g–2, 300g–3, 300g–9, 300j–2, 300j–7, 300j–8 of this title.
+
+<i><sup>1</sup></i><i> So in original. The semicolon probably should be a comma.</i>
 

@@ -30,7 +30,11 @@ The execution of the lease by the Corporation and the Department shall not be co
 
 (Aug. 1, 1946, ch. 724, title II, §1403, as added Oct. 24, 1992, Pub. L. 102–486, title IX, §901, 106 Stat. 2935.)
 
+#### Repeal of Section
+
+<i>Section repealed effective as of date on which 100 percent of ownership of United States Enrichment Corporation has been transferred to private investors, see section 3116(a)(1) of Pub. L. 104–134, set out as a note under section 2297 of this title.</i>
+
 #### Section Referred to in Other Sections
 
-This section is referred to in section 2201 of this title.
+This section is referred to in sections 2201, 2297h–5 of this title.
 

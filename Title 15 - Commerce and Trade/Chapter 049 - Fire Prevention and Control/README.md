@@ -22,7 +22,7 @@
 | (i) | Educational and professional assistance. |
 | (j) | Board of Visitors. |
 | (k) | Accreditation. |
-| (<i>l)</i> | Admission. |
+| (<i>l</i>) | Admission. |
 | [2207\.](%C2%A7%2002207%20-%20Fire%20technology.md) | Fire technology. |
 | (a) | Development. |
 | (b) | Limitation on manufacture and sale of equipment. |
@@ -78,7 +78,7 @@
 | (i) | Assessment. |
 | (j) | Regulations. |
 | (k) | Administration. |
-| (<i>l)</i> | Purchase of American made equipment and products. |
+| (<i>l</i>) | Purchase of American made equipment and products. |
 | [2222\.](%C2%A7%2002222%20-%20Effectiveness%20study%20concerning%20smoke%20detectors%2C%20heat%20detectors%2C%20and%20sprinkler%20suppression%20systems.md) | Effectiveness study concerning smoke detectors, heat detectors, and sprinkler suppression systems. |
 | (a) | Authorization; considerations. |
 | (b) | Recommendations by Administrator. |

@@ -22,7 +22,7 @@ For purposes of the tax imposed by section 2001, the value of the taxable estate
 
 #### (2) Interest in unidentified assets
 
-&emsp;Where the assets (included in the decedent's gross estate) out of which, or the proceeds of which, an interest passing to the surviving spouse may be satisfied include a particular asset or assets with respect to which no deduction would be allowed if such asset or assets passed from the decedent to such spouse, then the value of such interest passing to such spouse shall, for purposes of subsection (a), be reduced by the aggregate value of such particular assets.
+&emsp;Where the assets (included in the decedent's gross estate) out of which, or the proceeds of which, an interest passing to the surviving spouse may be satisfied include a particular asset or assets with respect to which no deduction would be allowed if such asset or assetspassed from the decedent to such spouse, then the value of such interest passing to such spouse shall, for purposes of subsection (a), be reduced by the aggregate value of such particular assets.
 
 #### (3) Interest of spouse conditional on survival for limited period
 
@@ -180,7 +180,7 @@ For purposes of this section, an interest in property shall be considered as pas
 
 #### (B) Special rule
 
-&emsp;&emsp;If any property passes from the decedent to the surviving spouse of the decedent, for purposes of subparagraph (A), such property shall be treated as passing to such spouse in a qualified domestic trust if—
+&emsp;&emsp;If any property passes from the decedent to the surviving spouse of the decedent, for purposes of subparagraph (A), such propertyshall be treated as passing to such spouse in a qualified domestic trust if—
 
 &emsp;&emsp;&emsp;(i) such property is transferred to such a trust before the date on which the return of the tax imposed by this chapter is made, or
 
@@ -298,7 +298,7 @@ Subsection (b).—The amendments made by subsection (b) \[amending section 2523 
 
 Amendment by section 11701(<i>l</i>)(1) of Pub. L. 101–508 effective, except as otherwise provided, as if included in the provision of the Revenue Reconciliation Act of 1989, Pub. L. 101–239, title VII, to which such amendment relates, see section 11701(n) of Pub. L. 101–508, set out as a note under section 42 of this title.
 
-Amendment by section 11702(g)(5) of Pub. L. 101–508 effective as if included in the provision of the Technicaland Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 11702(j) of Pub. L. 101–508, set out as a note under section 59 of this title.
+Amendment by section 11702(g)(5) of Pub. L. 101–508 effective as if included in the provision of the Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 11702(j) of Pub. L. 101–508, set out as a note under section 59 of this title.
 
 #### Effective Date of 1989 Amendment
 

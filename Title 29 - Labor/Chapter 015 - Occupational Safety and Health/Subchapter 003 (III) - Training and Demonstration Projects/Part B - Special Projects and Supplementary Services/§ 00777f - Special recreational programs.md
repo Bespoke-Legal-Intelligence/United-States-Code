@@ -24,7 +24,7 @@
 
 (b) There are authorized to be appropriated such sums as may be necessary for each of the fiscal years 1993 through 1997.
 
-(Pub. L. 93–112, title III, §316, as added Pub. L. 95–602, title I, §116(2), Nov. 6, 1978, 92 Stat. 2976;amended Pub. L. 98–221, title I, §137, Feb. 22, 1984, 98 Stat. 26; Pub. L. 99–506, title I, §103(d)(2)(C), title IV, §407, Oct. 21, 1986, 100 Stat. 1810, 1827; Pub. L. 100–630, title II, §204(j), Nov. 7, 1988, 102 Stat. 3309; Pub. L. 102–52, §4(e)(3), June 6, 1991, 105 Stat. 261; Pub. L. 102–569, title I, §102(p)(25), title III, §310, Oct. 29, 1992, 106 Stat. 4359, 4420; Pub. L. 103–73, title I, §110(d), Aug. 11, 1993, 107 Stat. 726.)
+(Pub. L. 93–112, title III, §316, as added Pub. L. 95–602, title I, §116(2), Nov. 6, 1978, 92 Stat. 2976; amended Pub. L. 98–221, title I, §137, Feb. 22, 1984, 98 Stat. 26; Pub. L. 99–506, title I, §103(d)(2)(C), title IV, §407, Oct. 21, 1986, 100 Stat. 1810, 1827; Pub. L. 100–630, title II, §204(j), Nov. 7, 1988, 102 Stat. 3309; Pub. L. 102–52, §4(e)(3), June 6, 1991, 105 Stat. 261; Pub. L. 102–569, title I, §102(p)(25), title III, §310, Oct. 29, 1992, 106 Stat. 4359, 4420; Pub. L. 103–73, title I, §110(d), Aug. 11, 1993, 107 Stat. 726.)
 
 #### Amendments
 

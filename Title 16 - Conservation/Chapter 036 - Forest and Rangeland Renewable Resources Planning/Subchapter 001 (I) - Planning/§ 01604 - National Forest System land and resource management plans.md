@@ -2,7 +2,7 @@
 
 #### (a) Development, maintenance, and revision by Secretary of Agriculture as part of program; coordination
 
-As a part of the Program provided for by section 1602 of this title, the Secretary of Agriculture shall develop, maintain, and, as appropriate, revise land and resource managementplans for units of the National Forest System, coordinated with the land and resource management planning processes of State and local governments and other Federal agencies.
+As a part of the Program provided for by section 1602 of this title, the Secretary of Agriculture shall develop, maintain, and, as appropriate, revise land and resource management plans for units of the National Forest System, coordinated with the land and resource management planning processes of State and local governments and other Federal agencies.
 
 #### (b) Criteria
 
@@ -54,7 +54,7 @@ As soon as practicable, but not later than two years after October 22, 1976, the
 
 &emsp;(3) specifying guidelines for land management plans developed to achieve the goals of the Program which—
 
-&emsp;&emsp;(A) insure consideration of the economic and environmental aspects of various systems of renewable resource management, including the related systems of silviculture and protection of forest resources, to providefor outdoor recreation (including wilderness), range, timber, watershed, wildlife, and fish;
+&emsp;&emsp;(A) insure consideration of the economic and environmental aspects of various systems of renewable resource management, including the related systems of silviculture and protection of forest resources, to provide for outdoor recreation (including wilderness), range, timber, watershed, wildlife, and fish;
 
 &emsp;&emsp;(B) provide for diversity of plant and animal communities based on the suitability and capability of the specific land area in order to meet overall multiple-use objectives, and within the multiple-use objectives of a land management plan adopted pursuant to this section, provide, where appropriate, to the degree practicable, for steps to be taken to preserve the diversity of tree species similar to that existing in the region controlled by the plan;
 
@@ -70,7 +70,7 @@ As soon as practicable, but not later than two years after October 22, 1976, the
 
 &emsp;&emsp;&emsp;(iii) protection is provided for streams, streambanks, shorelines, lakes, wetlands, and other bodies of water from detrimental changes in water temperatures, blockages of water courses, and deposits of sediment, where harvests are likely to seriously and adversely affect water conditions or fish habitat; and
 
-&emsp;&emsp;&emsp;(iv) the harvesting system to be used is not selected primarily because it will give the greatest dollar return or the greatest unit output of timber; and
+&emsp;&emsp;&emsp;(iv) the harvesting system to be used is not selected primarily because it will givethe greatest dollar return or the greatest unit output of timber; and
 
 &emsp;&emsp;(F) insure that clearcutting, seed tree cutting, shelterwood cutting, and other cuts designed to regenerate an evenaged stand of timber will be used as a cutting method on National Forest System lands only where—
 
@@ -94,7 +94,7 @@ As soon as practicable, but not later than two years after October 22, 1976, the
 
 #### (i) Consistency of resource plans, permits, contracts, and other instruments with land management plans; revision
 
-Resource plans and permits, contracts, and other instruments for the use and occupancy of National Forest System lands shall be consistent with the land management plans. Those resource plans and permits, contracts, and other such instruments currently in existence shall be revised as soon as practicable to be made consistent with such plans. When land management plans are revised, resource plans and permits, contracts, and other instruments, when necessary, shall be revised as soon as practicable. Any revision in present or future permits, contracts, and other instruments made pursuant tothis section shall be subject to valid existing rights.
+Resource plans and permits, contracts, and other instruments for the use and occupancy of National Forest System lands shall be consistent with the land management plans. Those resource plans and permits, contracts, and other such instruments currently in existence shall be revised as soon as practicable to be made consistent with such plans. When land management plans are revised, resource plans and permits, contracts, and other instruments, when necessary, shall be revised as soon as practicable. Any revision in present or future permits, contracts, and other instruments made pursuant to this section shall be subject to valid existing rights.
 
 #### (j) Effective date of land management plans and revisions
 
@@ -140,7 +140,7 @@ For transfer of certain enforcement functions of Secretary or other official in 
 
 #### Expeditious Completion of Management Plans of Forest Service and Bureau of Land Management; Continuation of Existing Plans; Judicial Review
 
-Pub. L. 101–121, title III, §312, Oct. 23, 1989, 103 Stat. 743, provided that: “The Forest Service and Bureau of Land Management are to continue to complete as expeditiously as possible development of their respective Forest Land and Resource Management Plans to meet all applicable statutory requirements. Notwithstanding the date in section 6(c) of the NFMA (16 U.S.C. 1600) \[16 U.S.C. 1604(c)\], the Forest Service, and the Bureau of Land Management under separate authority, may continue the management of lands within their jurisdiction under existing land and resource management plans pending the completion of new plans. Nothing shall limit judicial review of particular activities on these lands: <i>Provided, however</i>, That there shall be no challenges to any existing plan on the sole basis that the plan in its entirety is outdated, or in the case of the Bureau of Land Management, solely on the basis that the plan does not incorporate information available subsequent to the completion of the existing plan:<i>Provided further</i>, That any and all particular activities to be carried out under existing plans may nevertheless be challenged.”
+Pub. L. 101–121, title III, §312, Oct. 23, 1989, 103 Stat. 743, provided that: “The Forest Service and Bureau of Land Management are to continue to complete as expeditiously as possible development of their respective Forest Land and Resource Management Plans to meet all applicable statutory requirements. Notwithstanding the date in section 6(c) of the NFMA (16 U.S.C. 1600) \[16 U.S.C. 1604(c)\], the Forest Service, and the Bureau of Land Management under separate authority, may continue the management of lands within their jurisdiction under existing land and resource management plans pending the completion of new plans. Nothing shall limit judicial review of particular activities on these lands: <i>Provided, however</i>, That there shall be no challenges to any existing plan on the sole basis that the plan in its entirety is outdated, or in the case of the Bureau of Land Management, solely on the basis that the plan does not incorporate information available subsequent to the completion of the existing plan: <i>Provided further</i>, That any and all particular activities to be carried out under existing plans may nevertheless be challenged.”
 
 Similar provisions were contained in the following prior appropriation acts:
 

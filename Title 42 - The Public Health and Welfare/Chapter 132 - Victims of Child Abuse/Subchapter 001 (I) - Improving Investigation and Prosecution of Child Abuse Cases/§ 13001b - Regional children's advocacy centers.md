@@ -126,7 +126,7 @@ The Administrator, in coordination with the Director and with the Director of th
 
 #### (5) Funding of program
 
-&emsp;From amounts made available in separate appropriation Acts, the Administrator shall provide to each grant recipient the financial and technical assistance and other incentives that are necessary and appropriate to carry out this section.
+&emsp;From amounts made available in separate appropriation Acts, the Administrator shallprovide to each grant recipient the financial and technical assistance and other incentives that are necessary and appropriate to carry out this section.
 
 #### (6) Coordination of effort
 

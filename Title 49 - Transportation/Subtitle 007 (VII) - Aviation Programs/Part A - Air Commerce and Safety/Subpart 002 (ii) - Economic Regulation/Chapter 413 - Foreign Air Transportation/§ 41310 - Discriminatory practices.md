@@ -50,13 +50,15 @@ Review.—(1) The Secretaries of State, the Treasury, and Transportation and the
 
 (f)
 
-Reports.—Not later than 30 days after acting on a complaint under this section, the Secretary of Transportation shall report to the Committee on Public Works and Transportation of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate on action taken under this section on the complaint.
+Reports.—Not later than 30 days after acting on a complaint under this section, the Secretary of Transportation shall report to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate on action taken under this section on the complaint.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1130.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1130; Pub. L. 104–287, §5(9), Oct. 11, 1996, 110 Stat. 3389.)
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -70,7 +72,7 @@ Aug. 23, 1958, Pub. L. 85–726, §404(b), 72 Stat. 760.
 
 &nbsp;
 
-49 App.:1551(a) (4)(C) (related to 49 App.:1374(b)).
+49 App.:1551(a)(4)(C) (related to 49 App.:1374(b)).
 
 Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1601(a)(4)(C) (related to §404(b)); added Oct. 4, 1984, Pub. L. 98–443, §3(c), 98 Stat. 1703.
 
@@ -82,17 +84,17 @@ June 16, 1948, ch. 473, 62 Stat. 450, §11; added Jan. 3, 1975, Pub. L. 93–623
 
 41310(c)
 
-49 App.:1159b(b) (1).
+49 App.:1159b(b)(1).
 
 Jan. 3, 1975, Pub. L. 93–623, 88 Stat. 2102, §2(b)(1), (2), (4); added Feb. 15, 1980, Pub. L. 96–192, §23, 94 Stat. 45; Oct. 4, 1984, Pub. L. 98–443, §9(d)(2), (3), 98 Stat. 1707; Aug. 23, 1988, Pub. L. 100–418, §§10011, 10012(1), (2), 102 Stat. 1573.
 
 41310(d)(1)
 
-49 App.:1159b(b) (2), (4).
+49 App.:1159b(b)(2), (4).
 
 41310(d)(2)
 
-49 App.:1159b(b) (3).
+49 App.:1159b(b)(3).
 
 Jan. 3, 1975, Pub. L. 93–623, 88 Stat. 2102, §2(b)(3), (e); added Aug. 23, 1988, Pub. L. 100–418, §§10012(3), 10013, 102 Stat. 1573.
 
@@ -140,9 +142,9 @@ In subsection (e)(1), before clause (A), the text of 49 App.:1159b(a) (1st, 2d s
 
 In subsection (e)(2), the words “faced by United States carriers in foreign air transportation”, “as may be”, and “required by this subsection” are omitted as surplus.
 
-#### Change of Name
+#### Amendments
 
-Committee on Public Works and Transportation of House of Representatives treated as referring to Committee on Transportation and Infrastructure of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+1996—Subsec. (f). Pub. L. 104–287 substituted “Transportation and Infrastructure” for “Public Works and Transportation”.
 
 #### Section Referred to in Other Sections
 

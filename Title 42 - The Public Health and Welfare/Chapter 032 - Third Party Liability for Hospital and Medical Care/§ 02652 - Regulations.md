@@ -22,5 +22,5 @@ Under and by virtue of the authority vested in me by Title 3 of the United State
 
 Section 1. The Director of the Office of Management and Budget shall, for the purposes of the Act of September 25, 1962, \[this chapter\], from time to time, determine and establish rates that represent the reasonable value of hospital, medical, surgical, or dental care and treatment (including prostheses and medical appliances) furnished or to be furnished.
 
-Sec. 2. Except as provided in Section 1 of this order, the Attorney General shall prescribe regulations tocarry out the purposes of the Act of September 25, 1962 \[this chapter\].
+Sec. 2. Except as provided in Section 1 of this order, the Attorney General shall prescribe regulations to carry out the purposes of the Act of September 25, 1962 \[this chapter\].
 

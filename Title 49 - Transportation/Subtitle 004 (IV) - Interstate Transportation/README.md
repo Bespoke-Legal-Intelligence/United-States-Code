@@ -39,13 +39,13 @@
 | :--- | :---: | ---: |
 | [<b>151.</b>](Part%20C%20-%20Pipeline%20Carriers/Chapter%20151%20-%20General%20Provisions/README.md) | <b>GENERAL PROVISIONS</b> | <b>15101</b> |
 | [<b>153.</b>](Part%20C%20-%20Pipeline%20Carriers/Chapter%20153%20-%20Jurisdiction/README.md) | <b>JURISDICTION</b> | <b>15301</b> |
-| <b>155.</b> | <b>RATES AND TARIFFS </b><b><sup>1</sup></b> | <b>15501</b> |
+| [<b>155.</b>](Part%20C%20-%20Pipeline%20Carriers/Chapter%20155%20-%20Rates/README.md) | <b>RATES AND TARIFFS </b><b><sup>1</sup></b> | <b>15501</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 |  |  |  |
 | :--- | :---: | ---: |
-| <b>157.</b> | <b>OPERATIONS OF CARRIERS</b> | <b>15701</b> |
+| [<b>157.</b>](Part%20C%20-%20Pipeline%20Carriers/Chapter%20157%20-%20Operations%20of%20Carriers/README.md) | <b>OPERATIONS OF CARRIERS</b> | <b>15701</b> |
 | [<b>159.</b>](Part%20C%20-%20Pipeline%20Carriers/Chapter%20159%20-%20Enforcement%20Investigations%2C%20Rights%2C%20and%20Remedies/README.md) | <b>ENFORCEMENT: INVESTIGATIONS, RIGHTS, AND REMEDIES</b> | <b>15901</b> |
 | [<b>161.</b>](Part%20C%20-%20Pipeline%20Carriers/Chapter%20161%20-%20Civil%20and%20Criminal%20Penalties/README.md) | <b>CIVIL AND CRIMINAL PENALTIES</b> | <b>16101</b> |
 
@@ -57,7 +57,7 @@ A prior subtitle IV, consisting of chapters 101 to 119, related to interstate co
 
 #### Subtitle Referred to in Other Sections
 
-This subtitle is referred to in sections 521, 703, 721, 722, 723, 724, 727, 24301, 41309, 41502 of this title; title 7 section 225; title 11 sections 1166, 1169; title 15 sections 19, 21, 26, 44, 1681s, 1691c, 1692<i>l</i>; title 16 section 813; title 18 section 2341; title 28 sections 2321, 2323; title 29 section 1841; title 33 section 1507; title 42 sections 4916, 4917; title 45 sections 65, 157, 741, 791, 912, 1007, 1103, 1104, 1112; title 46 App. section 884; title 47 section 601; title 48 section 751.
+This subtitle is referred to in sections 521, 703, 721, 722, 723, 724, 727, 24301, 28301, 41309, 41502 of this title; title 7 section 225; title 11 sections 1166, 1169; title 15 sections 19, 21, 26, 44, 1681s, 1691c, 1692<i>l</i>; title 16 section 813; title 18 section 2341; title 28 sections 2321, 2323; title 29 section 1841; title 33 section 1507; title 42 sections 4916, 4917; title 45 sections 151, 157, 741, 791, 912, 1007, 1103, 1104, 1112; title 46 App. section 884; title 47 section 601; title 48 section 751.
 
 
 ---

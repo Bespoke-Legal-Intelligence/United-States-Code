@@ -2,7 +2,7 @@
 
 (a)
 
-General Authority.—(1) To enable the Secretary of Transportation to decide whether amanufacturer of passenger motor vehicles or passenger motor vehicle equipment is complying with this chapter and standards prescribed under this chapter, the Secretary may require the manufacturer to—
+General Authority.—(1) To enable the Secretary of Transportation to decide whether a manufacturer of passenger motor vehicles or passenger motor vehicle equipment is complying with this chapter and standards prescribed under this chapter, the Secretary may require the manufacturer to—
 
 &emsp;(A) keep records;
 
@@ -46,7 +46,9 @@ Historical and Revision Notes
 
 Pub. L. 103–272
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

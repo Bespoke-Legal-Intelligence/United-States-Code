@@ -14,7 +14,7 @@ The Secretary shall prescribe by regulations the person who is required to make 
 
 #### (b) Information returns
 
-The Secretary may by regulations require a return to be filed containing such information as he determines to be necessary for purposes of this chapter.
+The Secretary may by regulations require a return to be filed containing such informationas he determines to be necessary for purposes of this chapter.
 
 (Added Pub. L. 99–514, title XIV, §1431(a), Oct. 22, 1986, 100 Stat. 2728.)
 

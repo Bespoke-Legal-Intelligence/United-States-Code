@@ -12,7 +12,9 @@ Protecting Complainants.—Notwithstanding section 552 of title 5, the Secretary
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

@@ -12,7 +12,7 @@ The Secretary shall have the power, in order to determine whether any person has
 
 #### (b) Frequency of submission of books and records
 
-The Secretary may not under the authority of this section require any plan to submit to the Secretary any books or records of the plan more than once in any 12 month period, unless the Secretary has reasonable cause to believe there may exist a violation of this subchapter or any regulation or order thereunder.
+The Secretary may not under the authority of this section require any plan to submit to theSecretary any books or records of the plan more than once in any 12 month period, unless the Secretary has reasonable cause to believe there may exist a violation of this subchapter or any regulation or order thereunder.
 
 #### (c) Other provisions applicable relating to attendance of witnesses and production of books, records, etc.
 
@@ -34,5 +34,5 @@ Secretary authorized, effective Sept. 2, 1974, to promulgate regulations whereve
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1135 of this title; title 5 section 8478a.
+This section is referred to in sections 1135, 1136 of this title; title 5 section 8478a.
 

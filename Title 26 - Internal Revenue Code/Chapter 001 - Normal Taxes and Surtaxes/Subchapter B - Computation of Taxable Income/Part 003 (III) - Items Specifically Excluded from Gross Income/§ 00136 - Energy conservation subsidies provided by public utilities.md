@@ -2,25 +2,7 @@
 
 #### (a) Exclusion
 
-#### (1) In general
-
-&emsp;Gross income shall not include the value of any subsidy provided (directly or indirectly) by a public utility to a customer for the purchase or installation of any energy conservation measure.
-
-#### (2) Limitation on exclusion for nonresidential property
-
-#### (A) In general
-
-&emsp;&emsp;In the case of any subsidy provided with respect to any energy conservation measure referred to in subsection (c)(1)(B), only the applicable percentage of such subsidy shall be excluded from gross income under paragraph (1).
-
-#### (B) Applicable percentage
-
-&emsp;&emsp;For purposes of subparagraph (A), the term “applicable percentage” means—
-
-&emsp;&emsp;&emsp;(i) 40 percent in the case of subsidies provided during 1995,
-
-&emsp;&emsp;&emsp;(ii) 50 percent in the case of subsidies provided during 1996, and
-
-&emsp;&emsp;&emsp;(iii) 65 percent in the case of subsidies provided after 1996.
+Gross income shall not include the value of any subsidy provided (directly or indirectly) by a public utility to a customer for the purchase or installation of any energy conservation measure.
 
 #### (b) Denial of double benefit
 
@@ -30,65 +12,25 @@ Notwithstanding any other provision of this subtitle, no deduction or credit sha
 
 #### (1) In general
 
-&emsp;For purposes of this section, the term “energy conservation measure” means any installation or modification primarily designed to reduce consumption of electricity or natural gas or to improve the management of energy demand—
+&emsp;For purposes of this section, the term “energy conservation measure” means any installation or modification primarily designed to reduce consumption of electricity or natural gas or to improve the management of energy demand with respect to a dwelling unit.
 
-&emsp;&emsp;(A) with respect to a dwelling unit, and
-
-&emsp;&emsp;(B) on or after January 1, 1995, with respect to property other than dwelling units.
-
-> &emsp;The purchase and installation of specially defined energy property shall be treated as an energy conservation measure described in subparagraph (B).
-
-#### (2) Other definitions and special rules
+#### (2) Other definitions
 
 &emsp;For purposes of this subsection—
 
-#### (A) Specially defined energy property
-
-&emsp;&emsp;The term “specially defined energy property” means—
-
-&emsp;&emsp;&emsp;(i) a recuperator,
-
-&emsp;&emsp;&emsp;(ii) a heat wheel,
-
-&emsp;&emsp;&emsp;(iii) a regenerator,
-
-&emsp;&emsp;&emsp;(iv) a heat exchanger,
-
-&emsp;&emsp;&emsp;(v) a waste heat boiler,
-
-&emsp;&emsp;&emsp;(vi) a heat pipe,
-
-&emsp;&emsp;&emsp;(vii) an automatic energy control system,
-
-&emsp;&emsp;&emsp;(viii) a turbulator,
-
-&emsp;&emsp;&emsp;(ix) a preheater,
-
-&emsp;&emsp;&emsp;(x) a combustible gas recovery system,
-
-&emsp;&emsp;&emsp;(xi) an economizer,
-
-&emsp;&emsp;&emsp;(xii) modifications to alumina electrolytic cells,
-
-&emsp;&emsp;&emsp;(xiii) modifications to chlor-alkali electrolytic cells, or
-
-&emsp;&emsp;&emsp;(xiv) any other property of a kind specified by the Secretary by regulations,
-
-> &emsp;&emsp;the principal purpose of which is reducing the amount of energy consumed in any existing industrial or commercial process and which is installed in connection with an existing industrial or commercial facility.
-
-#### (B) Dwelling unit
+#### (A) Dwelling unit
 
 &emsp;&emsp;The term “dwelling unit” has the meaning given such term by section 280A(f)(1).
 
-#### (C) Public utility
+#### (B) Public utility
 
-&emsp;&emsp;The term “public utility” means a person engaged in the sale of electricity or natural gas to residential, commercial, or industrial customers for use by such customers. For purposes of the preceding sentence, the term “person” includes the Federal Government, a State or local government or any politicalsubdivision thereof, or any instrumentality of any of the foregoing.
+&emsp;&emsp;The term “public utility” means a person engaged in the sale of electricity or natural gas to residential, commercial, or industrial customers for use by such customers. For purposes of the preceding sentence, the term “person” includes the Federal Government, a State or local government or any political subdivision thereof, or any instrumentality of any of the foregoing.
 
 #### (d) Exception
 
 This section shall not apply to any payment to or from a qualified cogeneration facility or qualifying small power production facility pursuant to section 210 of the Public Utility Regulatory Policy Act of 1978.
 
-(Added Pub. L. 102–486, title XIX, §1912(a), Oct. 24, 1992, 106 Stat. 3014.)
+(Added Pub. L. 102–486, title XIX, §1912(a), Oct. 24, 1992, 106 Stat. 3014; amended Pub. L. 104–188, title I, §1617(a), (b), Aug. 20, 1996, 110 Stat. 1858.)
 
 #### References in Text
 
@@ -96,7 +38,25 @@ Section 210 of the Public Utility Regulatory Policy Act of 1978, referred to in 
 
 #### Prior Provisions
 
-A prior section 136 was renumbered section 137 of this title.
+A prior section 136 was renumbered section 138 of this title.
+
+#### Amendments
+
+1996—Subsec. (a). Pub. L. 104–188, §1617(b)(1), reenacted heading without change and amended text generally, substituting present provisions for former provisions which consisted of general exclusion in par. (1) and limitation for exclusion on nonresidential property in par. (2).
+
+Subsec. (c)(1). Pub. L. 104–188, §1617(a), substituted “energy demand with respect to a dwelling unit.” for “energy demand—
+
+&emsp;“(A) with respect to a dwelling unit, and
+
+&emsp;“(B) on or after January 1, 1995, with respect to property other than dwelling units.
+
+> The purchase and installation of specially defined energy property shall be treated as an energy conservation measure described in subparagraph (B).”
+
+Subsec. (c)(2). Pub. L. 104–188, §1617(b)(2), struck out “and special rules” after “definitions” in heading, redesignated subpars. (B) and (C) as (A) and (B), respectively, and struck out former subpar. (A) which related to “specially defined energy property”.
+
+#### Effective Date of 1996 Amendment
+
+Section 1617(c) of Pub. L. 104–188 provided that: “The amendments made by this section \[amending this section\] shall apply to amounts received after December 31, 1996, unless received pursuant to a written binding contract in effect on September 13, 1995, and at all times thereafter.”
 
 #### Effective Date
 

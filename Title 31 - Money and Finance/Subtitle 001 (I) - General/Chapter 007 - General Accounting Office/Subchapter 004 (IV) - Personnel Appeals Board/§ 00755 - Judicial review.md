@@ -8,9 +8,9 @@
 
 &emsp;(3) unsupported by substantial evidence.
 
-(b) If an officer, employee, applicant for employment, or employee of the Architect of the Capitol, the Botanic Garden, or the Senate Restaurants is the prevailing party in a proceeding under this section, and the decision is based on a finding of discrimination prohibited under section 732(f) of this title or under section 312(e)(2) <sup>2</sup>of the Architect of the Capitol Human Resources Act, attorney's fees may be allowed by the court in accordance with the standards prescribed under section 706(k) of the Civil Rights Act of 1964.
+(b) If an officer, employee, applicant for employment, or employee of the Architect of the Capitol, the Botanic Garden, or the Senate Restaurants is the prevailing party in a proceeding under this section, and the decision is based on a finding of discrimination prohibited under section 732(f) of this title or under section 312(e)(2) <sup>2</sup> of the Architect of the Capitol Human Resources Act, attorney's fees may be allowed by the court in accordance with the standards prescribed under section 706(k) of the Civil Rights Act of 1964.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 902; Pub. L. 98–216, §1(1), Feb. 14, 1984, 98 Stat. 3; Pub. L. 100–426, title I, §103(a), (b), Sept. 9, 1988, 102 Stat. 1599; Pub. L. 103–283, title III, §312(e)(4)(C), July 22, 1994, 108 Stat. 1446.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 902; Pub. L. 98–216, §1(1), Feb. 14, 1984, 98 Stat. 3; Pub. L. 100–426, title I, §103(a), (b), Sept. 9, 1988, 102 Stat.1599; Pub. L. 103–283, title III, §312(e)(4)(C), July 22, 1994, 108 Stat. 1446.)
 
 Historical and Revision Notes<br>1982
 
@@ -24,7 +24,7 @@ Act
 
 755
 
-31:52–3(<i>l).</i>
+31:52–3(<i>l</i>).
 
 Feb. 15, 1980, Pub. L. 96–191, §4(<i>l</i>), 94 Stat. 31.
 
@@ -56,7 +56,7 @@ Subsec. (b). Pub. L. 100–426, §103(b)(2), added subsec. (b).
 
 Section 103(c) of Pub. L. 100–426 provided that: “Nothing in any of the amendments made by this section \[amending this section\] shall apply with respect to an appeal pending on the date of the enactment of this Act \[Sept. 9, 1988\].”
 
-#### Application of Provisions Amended by Section 312(e) of Pub. L. 103–283
+#### Application of Provisions Amended by Pub. L. 103–283
 
 Provisions of this section amended by section 312(e) of Pub. L. 103–283 to be applied and administered as if section 312(e) and the amendments made by section 312(e) had not been enacted, see section 504(c)(2) of Pub. L. 104–1, set out as a note under section 751 of this title.
 

@@ -6,7 +6,7 @@ Not later than 1 year after the date of the enactment of this Act and annually t
 
 &emsp;(2) activities undertaken to accomplish the goals stated in section 941d of this title.
 
-(Pub. L. 101–537, title I, §1008, Nov. 8, 1990, 104 Stat. 2374; Pub. L. 101–646, title II, §2008, Nov. 29, 1990, 104 Stat. 4777.)
+(Pub. L. 101–537, title I, §1008, Nov. 8, 1990, 104 Stat. 2374; Pub. L. 101–646, title II, §2008, Nov. 29, 1990, 104 Stat. 4777; Pub. L. 104–332, §2(h)(1), Oct. 26, 1996, 110 Stat. 4091.)
 
 #### References in Text
 
@@ -15,6 +15,10 @@ The date of the enactment of this Act, referred to in text, is the date of enact
 #### Codification
 
 Pub. L. 101–537 and Pub. L. 101–646 enacted substantially identical sections.
+
+#### Amendments
+
+1996—Pub. L. 104–332 made technical amendment to Pub. L. 101–646, §2008, which enacted this section.
 
 #### Abolition of House Committee on Merchant Marine and Fisheries
 

@@ -9,10 +9,13 @@
 | [774\.](%C2%A7%2000774%20-%20Religious%20apparel%20wearing%20while%20in%20uniform.md) | Religious apparel: wearing while in uniform. |
 | [775\.](%C2%A7%2000775%20-%20Issue%20of%20uniform%20without%20charge.md) | Issue of uniform without charge. |
 | [776\.](%C2%A7%2000776%20-%20Applicability%20of%20chapter.md) | Applicability of chapter. |
+| [777\.](%C2%A7%2000777%20-%20Wearing%20of%20insignia%20of%20higher%20grade%20before%20promotion%20%28frocking%29%20authority%3B%20restrictions.md) | Wearing of insignia of higher grade before promotion (frocking): authority; restrictions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1996—Pub. L. 104–106, div. A, title V, §503(a)(2), Feb. 10, 1996, 110 Stat. 294, added item 777.
 
 1992—Pub. L. 102–484, div. A, title III, §377(b), Oct. 23, 1992, 106 Stat. 2387, added item 775 and redesignated former item 775 as 776.
 
@@ -42,3 +45,4 @@ Particular provisions relating to uniforms—
 - [&sect; 00774 - Religious apparel wearing while in uniform](%C2%A7%2000774%20-%20Religious%20apparel%20wearing%20while%20in%20uniform.md)
 - [&sect; 00775 - Issue of uniform without charge](%C2%A7%2000775%20-%20Issue%20of%20uniform%20without%20charge.md)
 - [&sect; 00776 - Applicability of chapter](%C2%A7%2000776%20-%20Applicability%20of%20chapter.md)
+- [&sect; 00777 - Wearing of insignia of higher grade before promotion (frocking) authority; restrictions](%C2%A7%2000777%20-%20Wearing%20of%20insignia%20of%20higher%20grade%20before%20promotion%20%28frocking%29%20authority%3B%20restrictions.md)

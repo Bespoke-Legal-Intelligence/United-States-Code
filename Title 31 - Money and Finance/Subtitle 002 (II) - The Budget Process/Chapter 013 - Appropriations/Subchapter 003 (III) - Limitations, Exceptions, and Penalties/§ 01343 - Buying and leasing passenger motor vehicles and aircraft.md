@@ -24,7 +24,7 @@
 
 &emsp;(D) is not more than the amount specified in a law.
 
-(2) Additional systems and equipment may be bought for a passenger motor vehicle if the Administrator decides the purchase is appropriate. The price of additional systems or equipment is not included in deciding whether the cost of thevehicle is within a maximum price specified in a law.
+(2) Additional systems and equipment may be bought for a passenger motor vehicle if the Administrator decides the purchase is appropriate. The price of additional systems or equipment is not included in deciding whether the cost of the vehicle is within a maximum price specified in a law.
 
 (d) An appropriation (except an appropriation for the armed forces) is available to buy, maintain, or operate an aircraft only if the appropriation specifically authorizes the purchase, maintenance, or operation.
 
@@ -88,7 +88,7 @@ In subsection (a), the word “agency” is substituted for “department of the
 
 In subsection (b), before clause (1), the words “buy or lease” are substituted for “purchase or hire” for consistency. In clause (1)(C), the words “section 101 of title 5” are used because of section 7(b) of the Act of September 6, 1966 (Pub. L. 89–554, 80 Stat. 631).
 
-In subsection (c)(1), before clause (A), the word “agency” is substituted for “department” for consistency. The words “total cost” are substituted for “cost” because of the restatement. The words “(except costs required only for transportation)” are substituted for “which shall be in addition to the amount required for transportation” for clarity. Clause (A) is substituted for “completely equipped for operation” and 31:638a(c)(1)(2d sentence) to eliminate unnecessary words.
+In subsection (c)(1), before clause (A), the word “agency” is substituted for “department” for consistency. The words “total cost” are substituted for “cost” because of the restatement. The words “(except costs required only for transportation)” are substituted for “which shall be in addition to the amount required for transportation” for clarity. Clause (A) is substitutedfor “completely equipped for operation” and 31:638a(c)(1)(2d sentence) to eliminate unnecessary words.
 
 In subsection (c)(2), the words “Notwithstanding any other provisions of law” are omitted as surplus.
 
@@ -118,9 +118,11 @@ Pub. L. 100–202, §101(b) \[title VIII, §8119\], Dec. 22, 1987, 101 Stat. 132
 
 #### Maximum Purchase Price of Motor Vehicles; Exceptions
 
-Act Nov. 19, 1995, Pub. L. 104–52, title VI, §604, 109 Stat. 497, provided that: “Unless otherwise specifically provided, the maximum amount allowable during the current fiscal year in accordance with section 16 of the Act of August 2, 1946 (60 Stat. 810 \[31 U.S.C. 1343\]), for the purchase of any passenger motor vehicle (exclusive of buses, ambulances, law enforcement, and undercover surveillance vehicles), is hereby fixed at $8,100 except station wagons for which the maximum shall be $9,100: <i>Provided</i>, That these limits may be exceeded by not to exceed $3,700 for police-type vehicles, and by not to exceed $4,000 for special heavy-duty vehicles: <i>Provided further</i>, That the limits set forth in this section may not be exceeded by more than five percent for electric or hybrid vehicles purchased for demonstration under the provisions of the Electric and Hybrid Vehicle Research, Development, and Demonstration Act of 1976 \[15 U.S.C. 2501 et seq\]: <i>Provided further</i>, That the limits set forth in this section may be exceeded by the incremental cost of clean alternative fuels vehicles acquired pursuant to Public Law 101–549 \[see Tables for classification\] over the cost of comparable conventionally fueled vehicles.”
+Act Sept. 30, 1996, Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §604\], 110 Stat. 3009–314, 3009–353, provided that: “Unless otherwise specifically provided, the maximum amount allowable during the current fiscal year in accordance with section 16 of the Act of August 2, 1946 (60 Stat. 810 \[31 U.S.C. 1343\]), for the purchase of any passenger motor vehicle (exclusive of buses, ambulances, law enforcement, and undercover surveillance vehicles), is hereby fixed at $8,100 except station wagons for which the maximum shall be $9,100: <i>Provided</i>, That these limits may be exceeded by not to exceed $3,700 for police-type vehicles, and by not to exceed $4,000 for special heavy-duty vehicles: <i>Provided further</i>, That the limits set forth in this section may not be exceeded by more than 5 percent for electric or hybrid vehicles purchased for demonstration under the provisions of the Electric and Hybrid Vehicle Research, Development, and Demonstration Act of 1976 \[15 U.S.C. 2501 et seq.\]: <i>Provided further</i>, That the limits set forth in this section may be exceeded by the incremental cost of clean alternative fuels vehicles acquired pursuant to Public Law 101–549 \[see Tables for classification\] over the cost of comparable conventionally fueled vehicles.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Nov. 19, 1995, Pub. L. 104–52, title VI, §604, 109 Stat. 497.
 
 Sept. 30, 1994, Pub. L. 103–329, title VI, §604, 108 Stat. 2416.
 

@@ -14,11 +14,11 @@ Health Care Officers Described.—A health care officer referred to in subsectio
 
 &emsp;(1) is a reserve officer on active duty (other than for training) under a call or order to active duty for a period of more than 30 days but less than one year;
 
-&emsp;(2) is involuntarily retained on active duty under section 673c <sup>1</sup> of title 10, or is recalled to active duty under section 688 of title 10 for a period of more than 30 days; or
+&emsp;(2) is involuntarily retained on active duty under section 12305 of title 10, or is recalled to active duty under section 688 of title 10 for a period of more than 30 days; or
 
 &emsp;(3) voluntarily agrees to remain on active duty for a period of less than one year at a time when—
 
-&emsp;&emsp;(A) officers are involuntarily retained on active duty under section 673c <sup>1</sup> of title 10; or
+&emsp;&emsp;(A) officers are involuntarily retained on active duty under section 12305 of title 10; or
 
 &emsp;&emsp;(B) the Secretary of Defense determines (pursuant to regulations prescribed by the Secretary) that special circumstances justify the payment of special pay under this section.
 
@@ -30,11 +30,15 @@ Monthly Payments.—Payment of special pay pursuant to this section may be made 
 
 Special Rule for Reserve Medical Officer.—While a reserve medical officer receives a special pay under section 302 of this title by reason of subsection (a), the officer shall not be entitled to special pay under subsection (h) of that section.
 
-(Added Pub. L. 102–190, div. A, title VI, §634(a), Dec. 5, 1991, 105 Stat. 1381.)
+(Added Pub. L. 102–190, div. A, title VI, §634(a), Dec. 5, 1991, 105 Stat. 1381; amended Pub. L. 104–106, div. A, title XV, §1501(d)(4)(A), Feb. 10, 1996, 110 Stat. 500.)
 
-#### References in Text
+#### Amendments
 
-Section 673c of title 10, referred to in subsec. (b)(2), (3)(A), was renumbered section 12305 of Title 10, Armed Forces, by Pub. L. 103–337, div. A, title XVI, §1662(e)(2), Oct. 5, 1994, 108 Stat. 2992.
+1996—Subsec. (b)(2), (3)(A). Pub. L. 104–106 substituted “section 12305 of title 10” for “section 673c of title 10”.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–106 effective as if included in the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as enacted on Oct. 5, 1994, see section 1501(f)(3) of Pub. L. 104–106, set out as a note under section 113 of Title 10, Armed Forces.
 
 #### Active Duty in Connection With Operation Desert Storm
 
@@ -60,7 +64,7 @@ Health Care Officers Described.—A health care officer referred to in subsectio
 
 “(c)
 
-Monthly Payments.—Payment of special pay pursuant to this section may be made on a monthly basis. If the service on active duty of an officer described in subsection (b) is terminated before the end of the period for which a payment is made to the officer under subsection (a), the officer is entitled to special pay under section 302, 302a, 302b, 302e, or 303 of title 37, United States Code (whichever applies), only for the portion of that period that the officer actually served on active duty. The officer shall refund any amount received in excess of the amount that corresponds to the period of active duty of the officer.
+Monthly Payments.—Payment of special pay pursuant to this section may be made on a monthly basis. If the service on active duty of an officer described in subsection (b) is terminated before the end of the period for which a payment is made to the officerunder subsection (a), the officer is entitled to special pay under section 302, 302a, 302b, 302e, or 303 of title 37, United States Code (whichever applies), only for the portion of that period that the officer actually served on active duty. The officer shall refund any amount received in excess of the amount that corresponds to the period of active duty of the officer.
 
 “(d)
 
@@ -70,5 +74,7 @@ Special Rule for Reserve Medical Officer.—While a reserve medical officer rece
 
 Period of Applicability.—Subsection (a) shall apply during the period beginning on August 1, 1990, and ending on the first day of the first month beginning on or after the date 180 days after the end of the Persian Gulf conflict.”
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+#### Section Referred to in Other Sections
+
+This section is referred to in section 303a of this title.
 

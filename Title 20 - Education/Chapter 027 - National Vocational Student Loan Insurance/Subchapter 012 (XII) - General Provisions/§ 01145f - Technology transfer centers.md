@@ -68,7 +68,7 @@ Funding for affiliate centers authorized in subsection (c) of this section shall
 
 (1) The Secretary, after consultation with the Departments of Agriculture, Energy, Commerce, and Interior shall publish, for public comment, a proposed list of priorities for the establishment of regional technology transfer centers and shall propose the regional composition of such centers, keeping in mind that satellite and telecommunications technology enables regions to contain noncontiguous States.
 
-(2) The Secretary shall publish the final list of regions and priorities along with the public's comments. In establishing such regions, the Secretary may designate a State or a portion of a State as a region.
+(2) The Secretary shall publish the final list of regions and priorities along with the public'scomments. In establishing such regions, the Secretary may designate a State or a portion of a State as a region.
 
 (Pub. L. 89–329, title XII, §1212, formerly §1211, as added Pub. L. 100–418, title VI, §6231, Aug. 23, 1988, 102 Stat. 1518; renumbered §1212 and amended Pub. L. 103–208, §2(j)(55), (56), Dec. 20, 1993, 107 Stat. 2485.)
 

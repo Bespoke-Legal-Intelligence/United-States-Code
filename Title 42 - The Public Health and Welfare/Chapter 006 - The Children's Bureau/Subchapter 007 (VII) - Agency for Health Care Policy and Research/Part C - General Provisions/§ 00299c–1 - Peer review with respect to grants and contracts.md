@@ -26,7 +26,7 @@ The Administrator may not approve an application described in subsection (a)(1) 
 
 #### (3) Duration
 
-&emsp;Notwithstanding section 14(a) of the Federal Advisory Committee Act, peer review groupsestablished under this section shall continue in existence until otherwise provided by law.
+&emsp;Notwithstanding section 14(a) of the Federal Advisory Committee Act, peer review groups established under this section shall continue in existence until otherwise provided by law.
 
 #### (d) Categories of review
 

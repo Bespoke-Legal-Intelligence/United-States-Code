@@ -6,7 +6,7 @@ Nothing in this chapter shall be construed as modifying or affecting the require
 
 #### References in Text
 
-Section 414 of the Mutual Security Act of 1954, as amended, referred to in text, was classified to section 1934 of Title 22, Foreign Relations and Intercourse, and was repealed by section 212(b)(1) of Pub. L. 94–329, title II, 90 Stat. 745. Section 212(b)(1) of Pub. L. 94–329, also provided that any reference to section 414 of the Mutual Security Act of 1954 shall be deemed to be a reference to section 38 of the Arms Export Control Act. Section 38 of the Arms Export Control Act is classified to section 2778 of Title 22.
+Section 414 of the Mutual Security Act of 1954, as amended, referred to in text, was classified to section 1934 of Title 22, Foreign Relations and Intercourse, and was repealed by section 212(b)(1) of Pub. L. 94–329, titleII, 90 Stat. 745. Section 212(b)(1) of Pub. L. 94–329, also provided that any reference to section 414 of the Mutual Security Act of 1954 shall be deemed to be a reference to section 38 of the Arms Export Control Act. Section 38 of the Arms Export Control Act is classified to section 2778 of Title 22.
 
 #### Prior Provisions
 

@@ -12,11 +12,11 @@
 
 #### (A) In general
 
-&emsp;&emsp;The term “bank” means any bank (as defined in section 581) other than an organization to which section 593 applies.
+&emsp;&emsp;The term “bank” means any bank (as defined in section 581).
 
 #### (B) Banking business of United States branch of foreign corporation
 
-&emsp;&emsp;The term “bank” also includes any corporation to which subparagraph (A) would apply except for the fact that it is a foreign corporation. In the case of any such foreign corporation, this section shall apply only with respect to loans outstanding the interest on which is effectively connected with the conduct of a banking business within the United States.
+&emsp;&emsp;The term “bank” also includes any corporation to which subparagraph (A) would apply except for the fact that it is a foreign corporation. In the case of any such foreign corporation, this section shall apply only with respect to loans outstanding the interest on which is effectively connected withthe conduct of a banking business within the United States.
 
 #### (b) Addition to reserves for bad debts
 
@@ -26,7 +26,7 @@
 
 #### (2) Experience method
 
-&emsp;The amount determined under this paragraph for a taxable year shall be the amountnecessary to increase the balance of the reserve for losses on loans (at the close of the taxable year) to the greater of—
+&emsp;The amount determined under this paragraph for a taxable year shall be the amount necessary to increase the balance of the reserve for losses on loans (at the close of the taxable year) to the greater of—
 
 &emsp;&emsp;(A) the amount which bears the same ratio to loans outstanding at the close of the taxable year as (i) the total bad debts sustained during the taxable year and the 5 preceding taxable years (or, with the approval of the Secretary, a shorter period), adjusted for recoveries of bad debts during such period, bears to (ii) the sum of the loans outstanding at the close of such 6 or fewer taxable years, or
 
@@ -78,8 +78,8 @@
 | :--- | ---: |
 | &nbsp; | <b>The applicable</b> |
 | <b>    If the case of the—</b> | <b>fraction is—</b> |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1st succeeding year | 2/9&nbsp; |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2nd succeeding year | 1/3&nbsp; |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1st succeeding year | 2/9&nbsp;&nbsp; |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2nd succeeding year | 1/3&nbsp;&nbsp; |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3rd succeeding year | 4/9. |
 
 #### (B) Suspension of recapture for taxable year for which bank is financially troubled
@@ -154,9 +154,11 @@
 
 &emsp;&emsp;In the case of a parent-subsidiary controlled group, any election under this section shall be made separately by each member of such group.
 
-(Added Pub. L. 91–172, title IV, §431(a), Dec. 30, 1969, 83 Stat. 616; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 97–34, title II, §267(a), Aug. 13, 1981, 95 Stat. 266; Pub. L. 99–514, title IX, §901(a), (d)(1), Oct. 22, 1986, 100 Stat. 2375, 2378; Pub. L. 100–203, title X, §10301(b)(2), Dec. 22, 1987, 101 Stat. 1330–429; Pub. L. 100–647, title I, §1009(a)(2), (3), Nov. 10, 1988, 102 Stat. 3445; Pub. L. 101–508, title XI, §11801(a)(26), (c)(12)(C)–(E), Nov. 5, 1990, 104 Stat. 1388–521, 1388–527.)
+(Added Pub. L. 91–172, title IV, §431(a), Dec. 30, 1969, 83 Stat. 616; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 97–34, title II, §267(a), Aug. 13, 1981, 95 Stat. 266; Pub. L. 99–514, title IX, §901(a), (d)(1), Oct. 22, 1986, 100 Stat. 2375, 2378; Pub. L. 100–203, title X, §10301(b)(2), Dec. 22, 1987, 101 Stat. 1330–429; Pub. L. 100–647, title I, §1009(a)(2), (3), Nov. 10, 1988, 102 Stat. 3445; Pub. L. 101–508, title XI, §11801(a)(26), (c)(12)(C)–(E), Nov. 5, 1990, 104 Stat. 1388–521, 1388–527; Pub. L. 104–188, title I, §1616(b)(6), Aug. 20, 1996, 110 Stat. 1856.)
 
 #### Amendments
+
+1996—Subsec. (a)(2)(A). Pub. L. 104–188 struck out “other than an organization to which section 593 applies” after “section 581)”.
 
 1990—Subsec. (b)(1). Pub. L. 101–508, §11801(c)(12)(C), substituted “shall not exceed the addition to the reserve for losses on loans determined under the experience method as provided in paragraph (2).” for “shall not exceed the greater of—
 
@@ -207,6 +209,10 @@ Subsec. (c). Pub. L. 99–514, §901(a)(2), added subsec. (c).
 1981—Subsec. (b)(2). Pub. L. 97–34 defined “allowable percentage” to mean 1.0 percent for taxable years beginning in 1982 and 0.6 percent for taxable years beginning after 1982, previously so applicable for taxable years beginning after 1981 and redefined “base year” by substituting the last taxable year beginning before 1976 for taxable years beginning after 1975 but before 1983, for the last taxable year beginning before 1976 for taxable years after 1975 but before 1982; and the last taxable year beginning before 1983 for taxable years beginning after 1982, for the last taxable year beginning before 1982 for taxable years beginning after 1981.
 
 1976—Subsec. (b)(3), (4). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–188 applicable to taxable years beginning after Dec. 31, 1995, see section 1616(c) of Pub. L. 104–188, set out as a note under section 593 of this title.
 
 #### Effective Date of 1988 Amendment
 

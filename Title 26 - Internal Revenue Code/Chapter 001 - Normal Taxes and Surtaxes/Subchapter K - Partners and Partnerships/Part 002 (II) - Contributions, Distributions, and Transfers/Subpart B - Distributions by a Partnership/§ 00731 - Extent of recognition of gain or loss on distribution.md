@@ -52,7 +52,7 @@ No gain or loss shall be recognized to a partnership on a distribution to a part
 
 &emsp;&emsp;&emsp;(iv) except to the extent provided in regulations prescribed by the Secretary, any interest in a precious metal which, as of the date of the distribution, is actively traded (within the meaning of section 1092(d)(1)) unless such metal was produced, used, or held in the active conduct of a trade or business by the partnership,
 
-&emsp;&emsp;&emsp;(v) except as otherwise provided in regulations prescribed by the Secretary, interests in any entity if substantially all of the assets of such entity consist (directly or indirectly) of marketable securities, money, or both, and
+&emsp;&emsp;&emsp;(v) except as otherwise provided in regulations prescribed by the Secretary, interests in any entity if substantially all ofthe assets of such entity consist (directly or indirectly) of marketable securities, money, or both, and
 
 &emsp;&emsp;&emsp;(vi) to the extent provided in regulations prescribed by the Secretary, any interest in an entity not described in clause (v) but only to the extent of the value of such interest which is attributable to marketable securities, money, or both.
 
@@ -74,7 +74,7 @@ No gain or loss shall be recognized to a partnership on a distribution to a part
 
 #### (B) Limitation on gain recognized
 
-&emsp;&emsp;In the case of a distribution of marketable securities to a partner, the amount takeninto account under paragraph (1) shall be reduced (but not below zero) by the excess (if any) of—
+&emsp;&emsp;In the case of a distribution of marketable securities to a partner, the amount taken into account under paragraph (1) shall be reduced (but not below zero) by the excess (if any) of—
 
 &emsp;&emsp;&emsp;(i) such partner's distributive share of the net gain which would be recognized if all of the marketable securities of the same class and issuer as the distributed securities held by the partnership were sold (immediately before the transaction to which the distribution relates) by the partnership for fair market value, over
 

@@ -18,9 +18,13 @@ No article subject to this subchapter shall be sold or offered for sale by any p
 
 #### (e) Use withholding directive respecting false or misleading marking, labeling, or container; modification of false or misleading matter; hearing; withholding use pending proceedings; finality of Secretary's action; judicial review; application of section 194 of title 7
 
-If the Secretary has reason to believe that any marking or labeling or the size or form of any container in use or proposed for use with respect to any article subject to this subchapter is false or misleading in any particular, he may direct that such use be withheld unless the marking, labeling, or container is modified in such manner as he may prescribe so that it will not be false or misleading. If the person, firm, or corporation using or proposing to use the marking, labeling or container does not accept the determination of the Secretary, such person, firm, or corporation may request a hearing, but the use of the marking, labeling, or container shall, if the Secretary so directs, be withheld pending hearing and final determination by the Secretary. Any such determination by the Secretary shall be conclusive unless, within thirtydays after receipt of notice of such final determination, the person, firm, or corporation adversely affected thereby appeals to the United States court of appeals for the circuit in which such person, firm, or corporation has its principal place of business or to the United States Court of Appeals for the District of Columbia Circuit. The provisions of section 194 of title 7 shall be applicable to appeals taken under this section.
+If the Secretary has reason to believe that any marking or labeling or the size or form of any container in use or proposed for use with respect to any article subject to this subchapter is false or misleading in any particular, he may direct that such use be withheld unless the marking, labeling, or container is modified in such manner as he may prescribe so that it will not be false or misleading. If the person, firm, or corporation using or proposing to use the marking, labeling or container does not accept the determination of the Secretary, such person, firm, or corporation may request a hearing, but the use of the marking, labeling, or container shall, if the Secretary so directs, be withheld pending hearing and final determination by the Secretary. Any such determination by the Secretary shall be conclusive unless, within thirty days after receipt of notice of such final determination, the person, firm, or corporation adversely affected thereby appeals to the United States court of appeals for the circuit in which such person, firm, or corporation has its principal place of business or to the United States Court of Appeals for the District of Columbia Circuit. The provisions of section 194 of title 7 shall be applicable to appeals taken under this section.
 
-(Mar. 4, 1907, ch. 2907, title I, §7, formerly 5th par., 34 Stat. 1262; renumbered §7 and amended Dec. 15, 1967, Pub. L. 90–201, §§1, 3(a), 6, 81 Stat. 584, 588; Oct. 17, 1979, Pub. L. 96–88, title V, §509(b), 93 Stat. 695.)
+#### (f) Lamb and mutton
+
+The Secretary, consistent with United States international obligations, shall establish standards for the labeling of sheep carcasses, parts of sheep carcasses, sheepmeat, and sheepmeat food products.
+
+(Mar. 4, 1907, ch. 2907, title I, §7, formerly 5th par., 34 Stat. 1262; renumbered §7 and amended Dec. 15, 1967, Pub. L. 90–201, §§1, 3(a), 6, 81 Stat. 584, 588; Oct. 17, 1979, Pub. L. 96–88, title V, §509(b), 93 Stat. 695; Apr. 4, 1996, Pub. L. 104–127, title II, §279, 110 Stat. 979.)
 
 #### References in Text
 
@@ -33,6 +37,8 @@ Either Act and these Acts, referred to in subsec. (c)(2), mean the Federal Meat 
 Section was formerly classified to section 75 of this title.
 
 #### Amendments
+
+1996—Subsec. (f). Pub. L. 104–127 added subsec. (f).
 
 1967—Subsec. (a). Pub. L. 90–201, §§3(a), 6(a), (b), struck out “interstate or foreign” before “commerce” and provisions prohibiting sales of meat or meat food products in interstate or foreign commerce under any false or deceptive names and permitting trade names or names which are usual to such products and are not false and deceptive and are approved by the Secretary of Agriculture, now incorporated in subsec. (d), and designated remaining provisions as subsecs. (a), respectively.
 

@@ -30,7 +30,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 5 U.S.C. 784 (less (a)).
 
@@ -56,7 +58,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-<b>1970</b>—Subsec. (c)(1). Pub. L. 91–596 included representatives of labor organizations representing employees.
+1970—Subsec. (c)(1). Pub. L. 91–596 included representatives of labor organizations representing employees.
 
 #### Executive Order No. 10990
 
@@ -82,7 +84,7 @@ Scope of this Order
 
 1–101. This order applies to all agencies of the Executive Branch except military personnel and uniquely military equipment, systems, and operations.
 
-1–102. For the purposes of this order, the term “agency” means an Executive department, as defined in 5U.S.C. 101, or any employing unit or authority of the Federal government, other than those of the judicial and legislative branches. Since section 19 \[29 U.S.C. 668\] of the Occupational Safety and Health Act (“the Act”) \[29 U.S.C. 651 et seq.\] covers all Federal employees, however, the Secretary of Labor (“the Secretary”) shall cooperate and consult with the heads of agencies in the legislative and judicial branches of the government to help them adopt safety and health programs.
+1–102. For the purposes of this order, the term “agency” means an Executive department, as defined in 5 U.S.C. 101, or any employing unit or authority of the Federal government, other than those of the judicial and legislative branches. Since section 19 \[29 U.S.C. 668\] of the Occupational Safety and Health Act (“the Act”) \[29 U.S.C. 651 et seq.\] covers all Federal employees, however, the Secretary of Labor (“the Secretary”) shall cooperate and consult with the heads of agencies in the legislative and judicial branches of the government to help them adopt safety and health programs.
 
 #### 1–2.
 
@@ -118,7 +120,7 @@ Heads of Agencies
 
 Occupational Safety and Health Committees
 
-1–301. Agency heads may establish occupational safety and health committees. If committees are established, they shall be established at both the national level and, for agencies with field or regional offices, other appropriate levels. The committees shall be composed of representatives of management and an equal number of nonmanagement employees or their representatives. Where there are exclusive bargaining representatives for employees at the national or other level in an agency, such representatives shall select the appropriate nonmanagement members of the committee.
+1–301. Agency heads may establish occupational safety and health committees. If committees are established, they shall be established at both the national level and, for agencies with field or regional offices, other appropriate levels. The committees shall be composed of representatives of management and an equalnumber of nonmanagement employees or their representatives. Where there are exclusive bargaining representatives for employees at the national or other level in an agency, such representatives shall select the appropriate nonmanagement members of the committee.
 
 1–302. The committees shall, except where prohibited by law,
 
@@ -152,7 +154,7 @@ Department of Labor
 
 (h) Evaluate the occupational safety and health programs of agencies and promptly submit reports to the agency heads. The evaluations shall be conducted through such scheduled headquarters or field reviews, studies or inspections as the Secretary deems necessary, at least annually for the larger or more hazardous agencies or operations, and as the Secretary deems appropriate for the smaller or less hazardous agencies.
 
-(i) Conduct unannounced inspections of agency workplaces when the Secretary determines necessary if an agency does not have occupational safety and health committees; or in response to reports of unsafe or unhealthful working conditions, upon request of occupational safety and health committees under Section 1–3; or, in the case of a report of an imminent danger, whensuch a committee has not responded to an employee who has alleged to it that the agency has not adequately responded to a report as required in 1–201(h). When the Secretary or his designee performs an inspection and discovers unsafe or unhealthy conditions, a violation of any provisions of this order, or any safety or health standards adopted by an agency pursuant to this order, or any program element approved by the Secretary, he shall promptly issue a report to the head of the agency and to the appropriate occupational safety and health committee, if any. The report shall describe the nature of the findings and may make recommendations for correcting the violation.
+(i) Conduct unannounced inspections of agency workplaces when the Secretary determines necessary if an agency does not have occupational safety and health committees; or in response to reports of unsafe or unhealthful working conditions, upon request of occupational safety and health committees under Section 1–3; or, in the case of a report of an imminent danger, when such a committee has not responded to an employee who has alleged to it that the agency has not adequately responded to a report as required in 1–201(h). When the Secretary or his designee performs an inspection and discovers unsafe or unhealthy conditions, a violation of any provisions of this order, or any safety or health standards adopted by an agency pursuant to this order, or any program element approved by the Secretary, he shall promptly issue a report to the head of the agency and to the appropriate occupational safety and health committee, if any. The report shall describe the nature of the findings and may make recommendations for correcting the violation.
 
 (j) Submit to the President each year a summary report of the status of the occupational safety and health of Federal employees, and, together with agency responses, evaluations of individual agency progress and problems in correcting unsafe and unhealthful working conditions, and recommendations for improving their performance.
 
@@ -210,7 +212,7 @@ Sec. 2. <i>Scope of Order</i>. All agencies of the Executive branch are directed
 
 Sec. 3. <i>Coordination</i>. The Secretary of Transportation shall provide leadership and guidance to the heads of agencies to assist them with the employee safety belt programs established pursuant to this Order.
 
-Sec. 4. <i>Other Powers and Duties</i>. (a) Nothing in this Order shall be construed to impair or alter the powersand duties of the heads of the various Federal agencies pursuant to Section 19 of the Occupational Safety and Health Act of 1970 \[29 U.S.C. 668\], or to Sections 7901, 7902, and 7903 of Title 5 of the United States Code, nor shall it be construed to affect any right, duty, or procedure under the National Labor Relations Act \[29 U.S.C. 151 et seq.\].
+Sec. 4. <i>Other Powers and Duties</i>. (a) Nothing in this Order shall be construed to impair or alter the powers and duties of the heads of the various Federal agencies pursuant to Section 19 of the Occupational Safety and Health Act of 1970 \[29 U.S.C. 668\], or to Sections 7901, 7902, and 7903 of Title 5 of the United States Code, nor shall it be construed to affect any right, duty, or procedure under the National Labor Relations Act \[29 U.S.C. 151 et seq.\].
 
 (b) The Secretary of Defense shall be responsible for implementation of all provisions of this Order insofar as they apply to military personnel of the Department of Defense.
 

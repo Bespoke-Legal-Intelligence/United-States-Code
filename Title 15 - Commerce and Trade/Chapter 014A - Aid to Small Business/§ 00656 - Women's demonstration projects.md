@@ -50,7 +50,7 @@ For purposes of this section, the term “small business concern” means a smal
 
 #### (e) Authorization of appropriations
 
-There are authorized to be appropriated $4,000,000 for each fiscal year to carry out thedemonstration projects authorized by this section. Notwithstanding any other provision of law, the Administration may use such expedited acquisition methods as it deems appropriate to achieve the purposes of this section, except that it shall ensure that all eligible sources are provided a reasonable opportunity to submit proposals.
+There are authorized to be appropriated $4,000,000 for each fiscal year to carry out the demonstration projects authorized by this section. Notwithstanding any other provision of law, the Administration may use such expedited acquisition methods as it deems appropriate to achieve the purposes of this section, except that it shall ensure that all eligible sources are provided a reasonable opportunity to submit proposals.
 
 #### (f) Annual report
 

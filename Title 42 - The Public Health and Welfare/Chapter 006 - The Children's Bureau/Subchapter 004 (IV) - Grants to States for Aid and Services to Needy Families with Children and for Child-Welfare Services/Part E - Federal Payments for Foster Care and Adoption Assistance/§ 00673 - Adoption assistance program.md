@@ -12,15 +12,15 @@
 
 (2) For purposes of paragraph (1)(B)(ii), a child meets the requirements of this paragraph if such child—
 
-&emsp;(A)(i) at the time adoption proceedings were initiated, met the requirements of section 606(a) of this title or section 607 of this title or would have met such requirements except for his removal from the home of a relative (specified in section 606(a) of this title), either pursuant to a voluntary placement agreement with respect to which Federal payments are provided under section 674 (or 603) of this title or as a result of a judicial determination to the effect that continuation therein would be contrary to the welfare of such child,
+&emsp;(A)(i) at the time adoption proceedings were initiated, met the requirements of section 606(a) of this title or section 607 of this title (as such sections were in effect on June 1, 1995) or would have met such requirements except for his removal from the home of a relative (specified in section 606(a) of this title (as so in effect)), either pursuant to a voluntary placement agreement with respect to which Federal payments are provided under section 674 (or 603 (as such section was in effect on June 1, 1995)) of this title or as a result of a judicial determination to the effect that continuation therein would be contrary to the welfare of such child,
 
 &emsp;(ii) meets all of the requirements of subchapter XVI of this chapter with respect to eligibility for supplemental security income benefits, or
 
 &emsp;(iii) is a child whose costs in a foster family home or child-care institution are covered by the foster care maintenance payments being made with respect to his or her minor parent as provided in section 675(4)(B) of this title,
 
-&emsp;(B)(i) received aid under the State plan approved under section 602 of this title in or for the month in which such agreement was entered into or court proceedings leading to the removal of such child from the home were initiated, or
+&emsp;(B)(i) would have received aid under the State plan approved under section 602 of this title (as in effect on June 1, 1995) in or for the month in which such agreement was entered into or court proceedings leading to the removal of such child from the home were initiated, or
 
-&emsp;(ii)(I) would have received such aid in or for such month if application had been made therefor, or (II) had been living with a relative specified in section 606(a) of this title within six months prior to the month in which such agreement was entered into or such proceedings were initiated, and would have received such aid in or for such month if in such month he had been living with such a relative and application therefor had been made, or
+&emsp;(ii)(I) would have received such aid in or for such month if application had been made therefor, or (II) had been living with a relative specified in section 606(a) of this title (as in effect on June 1, 1995) within six months prior to the month in which such agreement was entered into or such proceedings were initiated, and would have received such aid in or for such month if in such month he had been living with such a relative and application therefor had been made, or
 
 &emsp;(iii) is a child described in subparagraph (A)(ii) or (A)(iii), and
 
@@ -34,21 +34,25 @@
 
 (5) For purposes of this part, individuals with whom a child (who has been determined by the State, pursuant to subsection (c) of this section, to be a child with special needs) is placed for adoption in accordance with applicable State and local law shall be eligible for such payments, during the period of the placement, on the same terms and subject to the same conditions as if such individuals had adopted such child.
 
-(6)(A) For purposes of paragraph (1)(B)(i), the term “nonrecurring adoption expenses” means reasonable and necessary adoption fees, court costs, attorney fees, and other expenses which are directly related to the legal adoption of a child with special needs and which are not incurred in violation of State or Federal law.
+(6)(A) For purposes of paragraph (1)(B)(i), the term “nonrecurring adoption expenses” meansreasonable and necessary adoption fees, court costs, attorney fees, and other expenses which are directly related to the legal adoption of a child with special needs and which are not incurred in violation of State or Federal law.
 
 (B) A State's payment of nonrecurring adoption expenses under an adoption assistance agreement shall be treated as an expenditure made for the proper and efficient administration of the State plan for purposes of section 674(a)(3)(E) of this title.
 
-#### (b) Aid to families with dependent children
+#### (b) Aid for dependent children; assistance for minor children in needy families
 
-For purposes of subchapters XIX and XX of this chapter, any child—
+(1) For purposes of subchapter XIX of this chapter, any child who is described in paragraph (3) is deemed to be a dependent child as defined in section 606 of this title (as in effect as of June 1, 1995) and deemed to be a recipient of aid to families with dependent children under part A of this subchapter (as so in effect) in the State where such child resides.
 
-&emsp;(1)(A) who is a child described in subsection (a)(2) of this section, and
+(2) For purposes of subchapter XX of this chapter, any child who is described in paragraph (3) is deemed to be a minor child in a needy family under a State program funded under part A of this subchapter and deemed to be a recipient of assistance under such part.
 
-&emsp;(B) with respect to whom an adoption assistance agreement is in effect under this section (whether or not adoption assistance payments are provided under the agreement or are being made under this section), including any such child who has been placed for adoption in accordance with applicable State and local law (whether or not an interlocutory or other judicial decree of adoption has been issued), or
+(3) A child described in this paragraph is any child—
 
-&emsp;(2) with respect to whom foster care maintenance payments are being made under section 672 of this title,
+&emsp;(A)(i) who is a child described in subsection (a)(2) of this section, and
 
-> shall be deemed to be a dependent child as defined in section 606 of this title and shall be deemed to be a recipient of aid to families with dependent children under part A of this subchapter in the State where such child resides. For purposes of the preceding sentence, a child whose costs in a foster family home or child-care institution are covered by the foster care maintenance payments being made with respect to his or her minor parent, as provided in section 675(4)(B) of this title, shall be considered a child with respect to whom foster care maintenance payments are being made under section 672 of this title.
+&emsp;(ii) with respect to whom an adoption assistance agreement is in effect under this section (whether or not adoption assistance payments are provided under the agreement or are being made under this section), including any such child who has been placed for adoption in accordance with applicable State and local law (whether or not an interlocutory or other judicial decree of adoption has been issued), or
+
+&emsp;(B) with respect to whom foster care maintenance payments are being made under section 672 of this title.
+
+(4) For purposes of paragraphs (1) and (2), a child whose costs in a foster family home or child-care institution are covered by the foster care maintenance payments being made with respect to the child's minor parent, as provided in section 675(4)(B) of this title, shall be considered a child with respect to whom foster care maintenance payments are being made under section 672 of this title.
 
 #### (c) Children with special needs
 
@@ -58,13 +62,29 @@ For purposes of this section, a child shall not be considered a child with speci
 
 &emsp;(2) the State had first determined (A) that there exists with respect to the child a specific factor or condition (such as his ethnic background, age, or membership in a minority or sibling group, or the presence of factors such as medical conditions or physical, mental, or emotional handicaps) because of which it is reasonable to conclude that such child cannot be placed with adoptive parents without providing adoption assistance under this section or medical assistance under subchapter XIX of this chapter, and (B) that, except where it would be against the best interests of the child because of such factors as the existence of significant emotional ties with prospective adoptive parents while in the care of such parents as a foster child, a reasonable, but unsuccessful, effort has been made to place the child with appropriate adoptive parents without providing adoption assistance under this section or medical assistance under subchapter XIX of this chapter.
 
-(Aug. 14, 1935, ch. 531, title IV, §473, as added and amended June 17, 1980, Pub. L. 96–272, title I, §§101(a)(1), 102(a)(3), 94 Stat. 504, 514; Apr. 7, 1986, Pub. L. 99–272, title XII, §12305(a), (b)(1), 100 Stat. 293; Oct. 22, 1986, Pub. L. 99–514, title XVII, §1711(a), (b), (c)(3)–(5), 100 Stat. 2783, 2784; Nov. 6, 1986, Pub. L. 99–603, title II, §201(b)(2)(B), 100 Stat. 3403; Dec. 22, 1987, Pub. L. 100–203, title IX, §§9133(b)(3), (4), 9139(b), 101 Stat. 1330–314, 1330–321; Oct. 31, 1994, Pub. L. 103–432, title II, §§265(b), 266(a), 108 Stat. 4469.)
+(Aug. 14, 1935, ch. 531, title IV, §473, as added and amended June 17, 1980, Pub. L. 96–272, title I, §§101(a)(1), 102(a)(3), 94 Stat. 504, 514; Apr. 7, 1986, Pub. L. 99–272, title XII, §12305(a), (b)(1), 100 Stat. 293; Oct. 22, 1986, Pub. L. 99–514, title XVII, §1711(a), (b), (c)(3)–(5), 100 Stat. 2783, 2784; Nov. 6, 1986, Pub. L. 99–603, title II, §201(b)(2)(B), 100 Stat. 3403; Dec. 22, 1987, Pub. L. 100–203, title IX, §§9133(b)(3), (4), 9139(b), 101 Stat. 1330–314, 1330–321; Oct. 31, 1994, Pub. L. 103–432, title II, §§265(b), 266(a), 108 Stat. 4469; Aug. 22, 1996, Pub. L. 104–193, title I, §108(d)(5), (6), 110 Stat. 2167.)
 
 #### References in Text
 
-Part A of this subchapter, referred to in subsec. (b), is classified to section 601 et seq. of this title.
+Part A of this subchapter, referred to in subsec. (b)(1), (2), is classified to section 601 et seq. of this title.
 
 #### Amendments
+
+1996—Subsec. (a)(2)(A)(i). Pub. L. 104–193, §108(d)(5)(A), inserted “(as such sections were in effect on June 1, 1995)” after “section 607 of this title”, “(as so in effect)” after “specified in section 606(a) of this title”, and “(as such section was in effect on June 1, 1995)” after “603”.
+
+Subsec. (a)(2)(B)(i). Pub. L. 104–193, §108(d)(5)(B), inserted “would have” before “received aid under the State plan” and “(as in effect on June 1, 1995)” after “602 of this title”.
+
+Subsec. (a)(2)(B)(ii)(II). Pub. L. 104–193, §108(d)(5)(C), inserted “(as in effect on June 1, 1995)” after “606(a) of this title”.
+
+Subsec. (b). Pub. L. 104–193, §108(d)(6), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “For purposes of subchapters XIX and XX of this chapter, any child—
+
+&emsp;“(1)(A) who is a child described in subsection (a)(2) of this section, and
+
+&emsp;“(B) with respect to whom an adoption assistance agreement is in effect under this section (whether or not adoption assistance payments are provided under the agreement or are being made under this section), including any such child who has been placed for adoption in accordance with applicable State and local law (whether or not an interlocutory or other judicial decree of adoption has been issued), or
+
+&emsp;“(2) with respect to whom foster care maintenance payments are being made under section 672 of this title,
+
+> shall be deemed to be a dependent child as defined in section 606 of this title and shall be deemed to be a recipient of aid to families with dependent children under part A of this subchapter in the State where such child resides. For purposes of the preceding sentence, a child whose costs in a foster family home or child-care institution are covered by the foster care maintenance payments being made with respect to his or her minor parent, as provided in section 675(4)(B) of this title, shall be considered a child with respect to whom foster care maintenance payments are being made under section 672 of this title.”
 
 1994—Subsec. (a)(6)(B). Pub. L. 103–432, §266(a), substituted “section 674(a)(3)(E) of this title” for “section 674(a)(3)(C) of this title”.
 
@@ -98,15 +118,19 @@ Subsec. (c)(2). Pub. L. 99–272, §12305(b)(1), substituted “without providin
 
 1980—Subsec. (a)(1). Pub. L. 96–272, §102(a)(3), inserted references to voluntary placement agreements in subpars. (A)(i) and (B)(i), (ii).
 
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–193 effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as an Effective Date note under section 601 of this title.
+
 #### Effective Date of 1994 Amendment
 
-Amendment by section 265(b) of Pub. L. 103–432 effective as if included in the provision of Pub. L. 101–239 to which the amendment relates, at the time the provision became law, see section 265(d) of Pub. L. 103–432, set out as a note under section 608 of this title.
+Section 265(d) of Pub. L. 103–432 provided that: “Each amendment made by this section \[amending this section and sections 608 and 675 of this title\] shall take effect as if the amendment had been included in the provision of OBRA–1989 \[Pub. L. 101–239\] to which the amendment relates, at the time the provision became law.”
 
 Section 266(b) of Pub. L. 103–432 provided that: “The amendment made by this section \[amending this section\] shall take effect as if the amendment had been included in the provision of OBRA–1993 \[Pub. L. 103–66\] to which the amendment relates, at the time the provision became law.”
 
 #### Effective Date of 1987 Amendment
 
-Amendment by section 9133(b)(3), (4) of Pub. L. 100–203 effective Apr. 1, 1988, see section 9133(c) of Pub. L. 100–203, set out as a note under section 602 of this title.
+Amendment by section 9133(b)(3), (4) of Pub. L. 100–203 effective Apr. 1, 1988, see section 9133(c) of Pub. L. 100–203, set out as a note under section 672 of this title.
 
 #### Effective Date of 1986 Amendments
 

@@ -4,11 +4,11 @@
 
 #### (1) Establishment required
 
-&emsp;Within 120 days after the date on which the permanent board first meets with a quorumpresent, the Corporation shall issue standards for the certification of agricultural mortgage marketing facilities, including eligibility standards in accordance with paragraph (2).
+&emsp;Within 120 days after the date on which the permanent board first meets with a quorum present, the Corporation shall issue standards for the certification of agricultural mortgage marketing facilities (other than the Corporation), including eligibility standards in accordance with paragraph (2).
 
 #### (2) Minimum requirements
 
-&emsp;To be eligible to be certified under the standards referred to in paragraph (1), an agricultural mortgage marketing facility shall—
+&emsp;To be eligible to be certified under the standards referred to in paragraph (1), an agricultural mortgage marketing facility (other than the Corporation) shall—
 
 &emsp;&emsp;(A) be an institution of the Farm Credit System or a corporation, association, or trust organized under the laws of the United States or of any State;
 
@@ -50,13 +50,21 @@ Any certification by the Corporation of an agricultural mortgage marketing facil
 
 #### (1) Establishment of affiliate authorized
 
-&emsp;Notwithstanding any other provision of this chapter, any Farm Credit System institution (other than the Corporation), acting for such institution alone or in conjunction with one or more other such institutions, may establish and operate, as an affiliate, an agricultural mortgage marketing facility if, within a reasonable time after such establishment, such facility obtains and thereafter retains certification under subsection (b) of this section as a certified facility.
+&emsp;Notwithstanding any other provision of this chapter, any Farm Credit System institution,acting for such institution alone or in conjunction with one or more other such institutions, may establish and operate, as an affiliate, an agricultural mortgage marketing facility if, within a reasonable time after such establishment, such facility obtains and thereafter retains certification under subsection (b) of this section as a certified facility.
 
 #### (2) Exclusive agency agreement authorized
 
 &emsp;Any number of Farm Credit System institutions (other than the Corporation) may enter into an agreement with any certified facility (including an affiliate established under paragraph (1)) to sell the qualified loans of such institutions exclusively to or through the facility.
 
-(Pub. L. 92–181, title VIII, §8.5, as added Pub. L. 100–233, title VII, §702, Jan. 6, 1988, 101 Stat. 1694.)
+(Pub. L. 92–181, title VIII, §8.5, as added Pub. L. 100–233, title VII, §702, Jan. 6, 1988, 101 Stat. 1694; amended Pub. L. 104–105, title I, §106, Feb. 10, 1996, 110 Stat. 164.)
+
+#### Amendments
+
+1996—Subsec. (a)(1). Pub. L. 104–105, §106(1)(A), inserted “(other than the Corporation)” after “facilities”.
+
+Subsec. (a)(2). Pub. L. 104–105, §106(1)(B), inserted “(other than the Corporation)” after “facility” in introductory provisions.
+
+Subsec. (e)(1). Pub. L. 104–105, §106(2), struck out “(other than the Corporation)” after “System institution”.
 
 #### Section Referred to in Other Sections
 

@@ -54,7 +54,7 @@ Gain from—
 
 &emsp;For purposes of paragraph (3)(C), the term “unrealized receivables or fees” means, to the extent not previously includible in income under the method of accounting used by the corporation, any rights (contractual or otherwise) to payment for—
 
-&emsp;&emsp;(A) goods delivered, or to be delivered, to the extent the proceeds therefrom would be treated as amounts received from the sale or exchange of property other than a capital asset, or
+&emsp;&emsp;(A) goods delivered, or to be delivered, to the extent the proceeds therefrom would betreated as amounts received from the sale or exchange of property other than a capital asset, or
 
 &emsp;&emsp;(B) services rendered or to be rendered.
 
@@ -108,7 +108,7 @@ In the case of gain realized by a shareholder with respect to his stock in a col
 
 &emsp;&emsp;&emsp;(ii) by treating any liquidating sale or exchange of property by such other corporation within such 3-year period (but only if at the time of such sale or exchange the shareholder owned more than 20 percent in value of the outstanding stock in such other corporation) as a sale or exchange by such shareholder of his proportionate share of the property sold or exchanged,
 
-> &emsp;does not exceed an amount equal to 15 percent of the net worth of the corporation. This paragraph shall not apply to any sale or exchange of stock to the issuing corporation or, in the case of a shareholder who owns more than 20 percent in value of the outstanding stock of the corporation, to any sale or exchange of stock by such shareholder to any person related to him (within the meaning of paragraph (8)).
+> &emsp;does not exceed an amount equal to 15 percent of the net worth of the corporation. This paragraph shall not apply to any sale or exchange of stock to the issuing corporation or, in thecase of a shareholder who owns more than 20 percent in value of the outstanding stock of the corporation, to any sale or exchange of stock by such shareholder to any person related to him (within the meaning of paragraph (8)).
 
 #### \[(2) to (4). Repealed. Pub. L. 99–514, title VI, §631(e)(6)(A), Oct. 22, 1986, 100 Stat. 2273\]
 
@@ -214,7 +214,7 @@ In the case of gain realized by a shareholder with respect to his stock in a col
 
 #### (3) Exception for certain tax-free transactions
 
-&emsp;If the basis of a subsection (f) asset in the hands of a transferee is determined by reference to its basis in the hands of the transferor by reason of the application of section 332, 351, 361, 371(a), or 374(a),<sup>1</sup> then the amount of gain taken into account by the transferor under paragraph (2) shall not exceed the amount of gain recognized to the transferor on the transfer of such asset (determined without regard to this subsection). This paragraph shall apply only if the transferee—
+&emsp;If the basis of a subsection (f) asset in the hands of a transferee is determined by reference to its basis in the hands of the transferor by reason of the application of section 332, 351, or 361, then the amount of gain taken into account by the transferor under paragraph (2) shall not exceed the amount of gain recognized to the transferor on the transfer of such asset (determined without regard to this subsection). This paragraph shall apply only if the transferee—
 
 &emsp;&emsp;(A) is not an organization which is exempt from tax imposed by this chapter, and
 
@@ -234,7 +234,7 @@ In the case of gain realized by a shareholder with respect to his stock in a col
 
 #### (C) Special rule for land
 
-&emsp;&emsp;In the case of land or any interest in real property (other than a security interest) described in subparagraph (A), the term “subsection (f) asset” includes any improvements resulting from construction with respect to such property if such construction is commenced (by the consenting corporation or by a transferee corporation which has agreed to the application of paragraph (2)) within 2 years after the date of any sale described in subparagraph (A).
+&emsp;&emsp;In the case of land or any interest in real property (other than a security interest) described in subparagraph (A), the term “subsection (f) asset” includes any improvements resulting from construction with respect to such property if such construction is commenced (by the consenting corporation or by a transferee corporation which has agreed to the application of paragraph (2)) within 2years after the date of any sale described in subparagraph (A).
 
 #### (5) 5-year limitation as to shareholder
 
@@ -256,13 +256,11 @@ In the case of gain realized by a shareholder with respect to his stock in a col
 
 &emsp;&emsp;(B) paragraph (3) shall not apply if the transferee is a foreign corporation.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 107; Sept. 2, 1958, Pub. L. 85–866, title I, §20(a), 72 Stat. 1615; Oct. 16, 1962, Pub. L. 87–834, §13(f)(4), 76 Stat. 1035; Feb. 26, 1964, Pub. L. 88–272, title II, §231(b)(4), 78 Stat. 105; Aug. 22, 1964, Pub. L. 88–484, §1(a), 78 Stat. 596; Sept. 12, 1966, Pub. L. 89–570, §1(b)(4), 80 Stat. 762; Dec. 30, 1969, Pub. L. 91–172, title II, §211(b)(4), title V, §514(b)(1), 83 Stat. 570, 643; Oct. 4, 1976, Pub. L. 94–455, title II, §205(c)(2), title XIV, §1402(b)(1)(B), (2), title XIX, §§1901(b)(3)(A), (I), 1906(b)(13)(A), 90 Stat. 1535, 1731, 1732, 1792, 1793, 1834; Aug. 13, 1981, Pub. L. 97–34, title V, §505(c)(2), 95 Stat. 332; Sept. 3, 1982, Pub. L. 97–248, title II, §222(e)(5), 96 Stat. 480; July 18, 1984, Pub. L. 98–369, div. A, title I, §§43(c)(1), 65(a)–(c), 135(a), title IV, §492(b)(2), title X, §1001(b)(2), (e), 98 Stat. 558, 584, 669, 854, 1011, 1012; Oct. 22, 1986, Pub. L. 99–514, title VI, §631(e)(6), title XVIII, §§1804(i)(1), 1899A(8), 100 Stat. 2273, 2807, 2958; Nov. 10, 1988, Pub. L. 100–647, title I, §1006(e)(18), 102 Stat. 3403.)
-
-#### References in Text
-
-Sections 371 and 374, referred to in subsec. (f)(3), were repealed by Pub. L. 101–508, title XI, §11801(a)(19), Nov. 5, 1990, 104 Stat. 1388–521.
+(Aug. 16, 1954, ch. 736, 68A Stat. 107; Sept. 2, 1958, Pub. L. 85–866, title I, §20(a), 72 Stat. 1615; Oct. 16, 1962, Pub. L. 87–834, §13(f)(4), 76 Stat. 1035; Feb. 26, 1964, Pub. L. 88–272, title II, §231(b)(4), 78 Stat. 105; Aug. 22, 1964, Pub. L. 88–484, §1(a), 78 Stat. 596; Sept. 12, 1966, Pub. L. 89–570, §1(b)(4), 80 Stat. 762; Dec. 30, 1969, Pub. L. 91–172, title II, §211(b)(4), title V, §514(b)(1), 83 Stat. 570, 643; Oct. 4, 1976, Pub. L. 94–455, title II, §205(c)(2), title XIV, §1402(b)(1)(B), (2), title XIX, §§1901(b)(3)(A), (I), 1906(b)(13)(A), 90 Stat. 1535, 1731, 1732, 1792, 1793, 1834; Aug. 13, 1981, Pub. L. 97–34, title V, §505(c)(2), 95 Stat. 332; Sept. 3, 1982, Pub. L. 97–248, title II, §222(e)(5), 96 Stat. 480; July 18, 1984, Pub. L. 98–369, div. A, title I, §§43(c)(1), 65(a)–(c), 135(a), title IV, §492(b)(2), title X, §1001(b)(2), (e), 98 Stat. 558, 584, 669, 854, 1011, 1012; Oct. 22, 1986, Pub. L. 99–514, title VI, §631(e)(6), title XVIII, §§1804(i)(1), 1899A(8), 100 Stat. 2273, 2807, 2958; Nov. 10, 1988, Pub. L. 100–647, title I, §1006(e)(18), 102 Stat. 3403; Aug. 20, 1996, Pub. L. 104–188, title I, §1702(h)(7), 110 Stat. 1874.)
 
 #### Amendments
+
+1996—Subsec. (f)(3). Pub. L. 104–188 substituted “351, or 361” for “351, 361, 371(a), or 374(a)”.
 
 1988—Subsec. (e)(1)(C)(ii). Pub. L. 100–647 substituted “any liquidating sale or exchange” for “any sale or exchange” and struck out “, gain or loss on which was not recognized to such other corporation under section 337(a),” after “other corporation)”.
 
@@ -294,7 +292,7 @@ Subsec. (f)(8). Pub. L. 98–369, §135(a), added par. (8).
 
 1981—Subsec. (c)(2)(B). Pub. L. 97–34 struck out “(and governmental obligations described in section 1221(5))” after “corporation”.
 
-1976—Subsec. (a). Pub. L. 94–455, §§1402(b)(1)(B), (2), 1901(b)(3)(I), in provisions following par. (3), provided that “6 months” would be changed to “9 months” for taxable years beginning in 1977 and “9 months” would be changed to “1 year” for taxable years beginningafter Dec. 31, 1977, and substituted “ordinary income” for “gain from the sale or exchange of property which is not a capital asset”.
+1976—Subsec. (a). Pub. L. 94–455, §§1402(b)(1)(B), (2), 1901(b)(3)(I), in provisions following par. (3), provided that “6 months” would be changed to “9 months” for taxable years beginning in 1977 and “9 months” would be changed to “1 year” for taxable years beginning after Dec. 31, 1977, and substituted “ordinary income” for “gain from the sale or exchange of property which is not a capital asset”.
 
 Subsec. (e)(1)(C), (5)(A), (6)(D). Pub. L. 94–455, §1901(b)(3)(A), substituted “ordinary income” for “gain from the sale or exchange of property which is neither a capital asset nor property described in section 1231(b)” wherever appearing.
 
@@ -317,6 +315,10 @@ Subsec. (f). Pub. L. 88–484 added subsection (f).
 1962—Subsec. (e)(12). Pub. L. 87–834 added par. (12).
 
 1958—Subsec. (e). Pub. L. 85–866 added subsec. (e).
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–188 effective, except as otherwise expressly provided, as if included in the provision of the Revenue Reconciliation Act of 1990, Pub. L. 101–508, title XI, to which such amendment relates, see section 1702(i) of Pub. L. 104–188, set out as a note under section 38 of this title.
 
 #### Effective Date of 1988 Amendment
 
@@ -384,11 +386,9 @@ Section 20(b) of Pub. L. 85–866 provided that: “The amendment made by subsec
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 338, 467, 1255, 1257 of this title.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

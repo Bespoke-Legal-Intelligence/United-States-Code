@@ -16,7 +16,7 @@ The Congress recognizes that job training is an investment in human capital and 
 
 #### (2) Achievement of basic measures
 
-&emsp;In order to determine whether the basic measures described in subsection (a) of thissection are achieved for programs under parts A and C of subchapter II of this chapter, the Secretary, in consultation with the Secretary of Education and the Secretary of Health and Human Services, shall prescribe performance standards.
+&emsp;In order to determine whether the basic measures described in subsection (a) of this section are achieved for programs under parts A and C of subchapter II of this chapter, the Secretary, in consultation with the Secretary of Education and the Secretary of Health and Human Services, shall prescribe performance standards.
 
 #### (3) Factors for adult standards
 
@@ -62,7 +62,7 @@ The Congress recognizes that job training is an investment in human capital and 
 
 &emsp;&emsp;(B) a representative period after termination from the program that is a reasonable indicator of postprogram employment, earnings, and cash welfare payment reductions; and
 
-&emsp;&emsp;(C) cost-effective methods for obtaining such data as are necessary to carry out this section and section 1732(d) of this title which, notwithstanding any other provision of law, may include access to earnings records, State employment security records, records collected under the Federal Insurance Contributions Act (chapter 21 of the Internal Revenue Code of 1986) \[26 U.S.C. 3101 et seq.\], State aid to families with dependent children records, statistical sampling techniques, and similar records or measures, with appropriate safeguards to protect the confidentiality of the information obtained.
+&emsp;&emsp;(C) cost-effective methods for obtaining such data as are necessary to carry out this section and section 1732(d) of this title which, notwithstanding any other provision of law, may include access to earnings records, State employment security records, records collected under the Federal Insurance Contributions Act (chapter 21 of the Internal Revenue Code of 1986) \[26 U.S.C. 3101 et seq.\], records collected under the State program funded under part A of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\], statistical sampling techniques, and similar records or measures, with appropriate safeguards to protect the confidentiality of the information obtained.
 
 #### (7) Incentive grants
 
@@ -84,7 +84,7 @@ The Congress recognizes that job training is an investment in human capital and 
 
 #### (8) Program expenditures
 
-&emsp;The Secretary shall prescribe performance standards relating gross program expenditures to various performance measures under this subsection, excluding any cost per participant measure. The Governors shall not take performance standards prescribed under thisparagraph into consideration in awarding incentive grants under paragraph (7).
+&emsp;The Secretary shall prescribe performance standards relating gross program expenditures to various performance measures under this subsection, excluding any cost per participant measure. The Governors shall not take performance standards prescribed under this paragraph into consideration in awarding incentive grants under paragraph (7).
 
 #### (c) Subchapter III performance standards
 
@@ -124,7 +124,7 @@ The Congress recognizes that job training is an investment in human capital and 
 
 #### (e) Additional State standards permitted
 
-The Governor may prescribe performance standards for programs under subchapter II of this chapter and subchapter III of this chapter in addition to those standards established by the Secretary under subsections (b) and (c) of this section. Such additional standards may include criteria relating to establishment of effective linkages with other programs to avoid duplication and enhance the delivery of services, the provision of high quality services, and successful service to hard-to-serve individuals. The additional performance standards established for subchapter II of this chapter shall be reported in the Governor's coordination and special services plan.
+The Governor may prescribe performance standards for programs under subchapter II ofthis chapter and subchapter III of this chapter in addition to those standards established by the Secretary under subsections (b) and (c) of this section. Such additional standards may include criteria relating to establishment of effective linkages with other programs to avoid duplication and enhance the delivery of services, the provision of high quality services, and successful service to hard-to-serve individuals. The additional performance standards established for subchapter II of this chapter shall be reported in the Governor's coordination and special services plan.
 
 #### (f) Subchapter IV standards
 
@@ -176,7 +176,7 @@ The National Commission for Employment Policy shall—
 
 #### (A) Plan required for continued failure
 
-&emsp;&emsp;If a service delivery area continues to fail to meet such performance standards for 2consecutive program years, the Governor shall notify the Secretary and the service delivery area of the continued failure, and shall develop and impose a reorganization plan.
+&emsp;&emsp;If a service delivery area continues to fail to meet such performance standards for 2 consecutive program years, the Governor shall notify the Secretary and the service delivery area of the continued failure, and shall develop and impose a reorganization plan.
 
 #### (B) Elements
 
@@ -220,13 +220,17 @@ The National Commission for Employment Policy shall—
 
 For the purposes of this section, the term “employment” means employment for 20 or more hours per week.
 
-(Pub. L. 97–300, title I, §106, Oct. 13, 1982, 96 Stat. 1333; Pub. L. 97–404, §1(b), Dec. 31, 1982, 96 Stat. 2026; Pub. L. 99–496, §15(b), Oct. 16, 1986, 100 Stat. 1266; Pub. L. 100–418, title VI, §6304(a), Aug. 23, 1988, 102 Stat. 1538; Pub. L. 100–628, title VII, §§713(b), 714(b), Nov. 7, 1988, 102 Stat. 3255, 3256; Pub. L. 102–367, title I, §115(a), Sept. 7, 1992, 106 Stat. 1030.)
+(Pub. L. 97–300, title I, §106, Oct. 13, 1982, 96 Stat. 1333; Pub. L. 97–404, §1(b), Dec. 31, 1982, 96 Stat. 2026; Pub. L. 99–496, §15(b), Oct. 16, 1986, 100 Stat. 1266; Pub. L. 100–418, title VI, §6304(a), Aug. 23, 1988, 102 Stat. 1538; Pub. L. 100–628, title VII, §§713(b), 714(b), Nov. 7, 1988, 102 Stat. 3255, 3256; Pub. L. 102–367, title I, §115(a), Sept. 7, 1992, 106 Stat. 1030; Pub. L. 104–193, title I, §110(n)(2), Aug. 22, 1996, 110 Stat. 2174.)
 
 #### References in Text
 
 The Federal Insurance Contributions Act, referred to in subsec. (b)(6)(C), is act Aug. 16, 1954, ch. 736, §§3101, 3102, 3111, 3112, 3121 to 3128, 68A Stat. 415, as amended, which is classified generally to chapter 21 (§3101 et seq.) of Title 26, Internal Revenue Code. For complete classification of this Act to the Code, see section 3128 of Title 26 and Tables.
 
+The Social Security Act, referred to in subsec. (b)(6)(C), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part A of title IV of the Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+
 #### Amendments
+
+1996—Subsec. (b)(6)(C). Pub. L. 104–193 substituted “records collected under the State program funded under part A of title IV of the Social Security Act,” for “State aid to families with dependent children records,”
 
 1992—Pub. L. 102–367 amended section generally, substituting subsecs. (a) to (k) for former subsecs. (a) to (h) which also related to performance standards for programs under this chapter.
 
@@ -241,6 +245,10 @@ Subsec. (g). Pub. L. 100–418, §6304(a)(2), designated existing provisions as 
 1986—Subsec. (d)(3). Pub. L. 99–496 inserted reference to disabled and Vietnam era veterans, including veterans who served in the Indochina Theater between Aug. 5, 1964, and May 7, 1975.
 
 1982—Subsec. (d)(3). Pub. L. 97–404 substituted “offenders” for “ex-offenders”.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–193 effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as an Effective Date note under section 601 of Title 42, The Public Health and Welfare.
 
 #### Effective Date of 1992 Amendment
 

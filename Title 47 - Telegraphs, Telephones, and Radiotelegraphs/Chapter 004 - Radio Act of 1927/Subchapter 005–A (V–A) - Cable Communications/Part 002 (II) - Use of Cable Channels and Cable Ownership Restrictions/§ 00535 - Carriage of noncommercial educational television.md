@@ -30,7 +30,7 @@ In addition to the carriage requirements set forth in section 534 of this title,
 
 &emsp;&emsp;(ii) may, in its discretion, carry additional such stations.
 
-&emsp;(B) In the case of a cable system described in this paragraph which operates beyond the presence of any qualified local noncommercial educational television station, the cable operator shall import and carry on that system the signal of at least one qualified noncommercial educational television station to comply with subparagraph (A)(i).
+&emsp;(B) In the case of a cable system described in this paragraph which operates beyond the presence of any qualified local noncommercialeducational television station, the cable operator shall import and carry on that system the signal of at least one qualified noncommercial educational television station to comply with subparagraph (A)(i).
 
 &emsp;(C) The cable operator of a cable system described in this paragraph which carries the signal of a qualified local noncommercial educational station affiliated with a State public television network shall not be required to carry the signal of any additional qualified local noncommercial educational television stations affiliated with the same network if the programming of such additional stations is substantially duplicated by the programming of the qualified local noncommercial educational television station receiving carriage.
 
@@ -72,7 +72,7 @@ A qualified local noncommercial educational television station whose signal is c
 
 #### (5) Channel positioning
 
-&emsp;Each signal carried in fulfillment of the carriage obligations of a cable operator under this section shall be carried on the cable system channel number on which the qualified local noncommercial educational television station is broadcast over the air, or on the channel on which it was carried on July 19, 1985, at the election of the station, or on such other channel number as is mutually agreed upon by the station and the cable operator. Any dispute regarding the positioning of a qualified local noncommercial educationaltelevision station shall be resolved by the Commission.
+&emsp;Each signal carried in fulfillment of the carriage obligations of a cable operator under this section shall be carried on the cable system channel number on which the qualified local noncommercial educational television station is broadcast over the air, or on the channel on which it was carried on July 19, 1985, at the election of the station, or on suchother channel number as is mutually agreed upon by the station and the cable operator. Any dispute regarding the positioning of a qualified local noncommercial educational television station shall be resolved by the Commission.
 
 #### (h) Availability of signals
 
@@ -138,5 +138,5 @@ Section effective 60 days after Oct. 5, 1992, see section 28 of Pub. L. 102–38
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 325, 532, 534, 543, 555 of this title.
+This section is referred to in sections 325, 336, 532, 534, 543, 555, 573 of this title.
 

@@ -12,13 +12,17 @@
 
 &emsp;(3) the Comptroller General agrees with the decision of the head of the agency.
 
-(b)(1) The Comptroller General shall relieve a disbursing official of the armed forces responsible for the physical loss or deficiency of public money, vouchers, or records, or shall authorize reimbursement, from an appropriation or fund available for reimbursement, of the amount of the loss or deficiency paid by or for the official as restitution, when—
+(b)(1) The Comptroller General shall relieve an official of the armed forces referred to in subsection (a) responsible for the physical loss or deficiency of public money, vouchers, or records, or a payment described in section 3528(a)(4)(A) of this title, or shall authorize reimbursement, from an appropriation or fund available for reimbursement, of the amount of the loss or deficiency paid by or for the official as restitution, when—
 
-&emsp;(A) the Secretary of Defense or the appropriate Secretary of the military department of the Department of Defense decides that the official was carrying out official duties when the loss or deficiency occurred;
+&emsp;(A) in the case of a physical loss or deficiency—
 
-&emsp;(B) the loss or deficiency was not the result of an illegal or incorrect payment; and
+&emsp;&emsp;(i) the Secretary of Defense or the appropriate Secretary of the military department of the Department of Defense (or the Secretary of Transportation, in the case of a disbursing official of the Coast Guard when the Coast Guard is not operating as a service in the Navy) decides that the official was carrying out official duties when the loss or deficiency occurred;
 
-&emsp;(C) the loss or deficiency was not the result of fault or negligence by the official.
+&emsp;&emsp;(ii) the loss or deficiency was not the result of an illegal or incorrect payment; and
+
+&emsp;&emsp;(iii) the loss or deficiency was not the result of fault or negligence by the official; or
+
+&emsp;(B) in the case of a payment described in section 3528(a)(4)(A) of this title, the Secretary of Defense or the Secretary of the appropriate military department (or the Secretary of Transportation, in the case of a disbursing official of the Coast Guard when the Coast Guard is not operating as a service in the Navy), after taking a diligent collection action, finds that the criteria of section 3528(b)(1) of this title are satisfied.
 
 (2) The finding of the Secretary involved is conclusive on the Comptroller General.
 
@@ -38,7 +42,7 @@
 
 (e) Relief provided under this section is in addition to relief provided under another law.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 965.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 965; Pub. L. 104–106, div. A, title IX, §913(c)(4), Feb. 10, 1996, 110 Stat. 411; Pub. L. 104–201, div. A, title X, §1009(c)(2), Sept. 23, 1996, 110 Stat. 2635.)
 
 Historical and Revision Notes
 
@@ -88,7 +92,7 @@ Aug. 11, 1955, ch. 803, §1, 69 Stat. 687.
 
 In the section, the word “official” is substituted for “officer”, and the words “Comptroller General” are substituted for “General Accounting Office” for consistency in the revised title and with other titles of the United States Code.
 
-In subsection (a), before clause (1), the words “Except as provided in subsection (b) of this section” are added for clarity. The words “disbursing or other” are omitted as surplus. The words “public money, vouchers, checks, securities, or records” are substituted for “Government funds, vouchers, records, checks, securities, or papers” for consistency in the revised title and with other titles of the Code. The words “subsequent to August 1, 1947” are omitted as executed. In clause (1)(A), the words “carrying out” are substituted for “acting in the discharge of” for consistency. The words“failure to act” are substituted for “omission” for clarity. Clause (2) is substituted for 31:82a–1(a)(2d sentence), and clause (3) is substituted for 31:82a–1(1st sentence words between 1st and 2d commas), to eliminate unnecessary words.
+In subsection (a), before clause (1), the words “Except as provided in subsection (b) of this section” are added for clarity. The words “disbursing or other” are omitted as surplus. The words “public money, vouchers, checks, securities, or records” are substituted for “Government funds, vouchers, records, checks, securities, or papers” for consistency in the revised title and with other titles of the Code. The words “subsequent to August 1, 1947” are omitted as executed. In clause (1)(A), the words “carrying out” are substituted for “acting in the discharge of” for consistency. The words “failure to act” are substituted for “omission” for clarity. Clause (2) is substituted for 31:82a–1(a)(2d sentence), and clause (3) is substituted for 31:82a–1(1st sentence words between 1st and 2d commas), to eliminate unnecessary words.
 
 In subsection (b)(1), before clause (A), the words “armed forces” are substituted for “Army, Navy, Air Force, or Marine Corps” for consistency with title 10. The words “responsible for” are substituted for “Whenever . . . incurs or has incurred” for consistency. The words “public money, vouchers, or records” are substituted for “Government funds, vouchers, records, or papers” for consistency in the revised title and with other titles of the Code. The word “reimbursement” is substituted for “that purpose” for clarity. In clause (A), the words “the Secretary of Defense, or” are added for clarity because of Comptroller General decision B–201579 (Apr. 1, 1981). The words “appropriate Secretary of the military department of the Department of Defense” are substituted for “the Secretary of the department concerned”, for clarity. The words “carrying out official” are substituted for “in line of his” for consistency. In clause (B), the words “the loss or deficiency was not the result of an illegal or incorrect payment” are substituted for 31:95a(3d sentence) to eliminate unnecessary words.
 
@@ -99,4 +103,18 @@ In subsection (c), the words “or any officer of the General Accounting Office 
 In subsection (d)(1), before clause (A), the words “restore or otherwise”, and the words “in . . . any amount” in 31:82a–2(c), are omitted as surplus. In clause (A), the words “to be charged” are substituted for “therefor” for clarity. In clause (B), the words “carried out” are substituted for “effected” for consistency.
 
 Subsection (e) is substituted for 31:82a–2(b)(last sentence) and 95a(last sentence) to eliminate unnecessary words.
+
+#### Amendments
+
+1996—Subsec. (b)(1). Pub. L. 104–106, §913(c)(4)(C)–(F), inserted “(A) in the case of a physical loss or deficiency—”, redesignated former subpars. (A) to (C) as cls. (i) to (iii), respectively, and added subpar. (B).
+
+Pub. L. 104–106, §913(c)(4)(A), (B), in introductory provisions, substituted “an official of the armed forces referred to in subsection (a)” for “a disbursing official of the armed forces” and “records, or a payment described in section 3528(a)(4)(A) of this title,” for “records,”.
+
+Subsec. (b)(1)(A)(i). Pub. L. 104–201, §1009(c)(2)(A), inserted “(or the Secretary of Transportation, in the case of a disbursing official of the Coast Guard when the Coast Guard is not operating as a service in the Navy)” after “Department of Defense”.
+
+Subsec. (b)(1)(B). Pub. L. 104–201, §1009(c)(2)(B), inserted “(or the Secretary of Transportation, in the case of a disbursing official of the Coast Guard when the Coast Guard is not operating as a service in the Navy)” after “or the Secretary of the appropriate military department”.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in title 37 section 1007.
 

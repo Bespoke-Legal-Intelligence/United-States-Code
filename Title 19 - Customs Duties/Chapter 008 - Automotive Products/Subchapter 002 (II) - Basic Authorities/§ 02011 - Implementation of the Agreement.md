@@ -2,7 +2,7 @@
 
 #### (a) Modification of Harmonized Tariff Schedule
 
-The President is authorized to proclaim the modifications of the Harmonized Tariff Scheduleof the United States provided for in title IV of this Act.
+The President is authorized to proclaim the modifications of the Harmonized Tariff Schedule of the United States provided for in title IV of this Act.
 
 #### (b) Duty-free treatment of Canadian motor-vehicle equipment
 
@@ -30,7 +30,7 @@ Amendment by Pub. L. 100–418 effective Jan. 1, 1989, and applicable with respe
 
 Proc. No. 3682, Oct. 21, 1965, 30 F.R. 13683, provided:
 
-WHEREAS the United States and Canada on January 16, 1965, entered into an Agreement Concerning Automotive Products, which provides that Canada shall accord duty-free treatment to imports of certain automotive products of the United States and that, after enactment of implementing legislation, the United States shall accord duty-free treatment to certain automotive products of Canada retroactively to the earliest date administratively possible following the date on which the agreement has been implemented by Canada (art. II, 89th Cong. 1st sess., H. Rep. 537, 38);
+WHEREAS the United States and Canada on January 16, 1965, entered into an Agreement Concerning Automotive Products, which provides that Canada shall accord duty-free treatment to imports of certain automotive products of the United States and that, afterenactment of implementing legislation, the United States shall accord duty-free treatment to certain automotive products of Canada retroactively to the earliest date administratively possible following the date on which the agreement has been implemented by Canada (art. II, 89th Cong. 1st sess., H. Rep. 537, 38);
 
 WHEREAS the agreement of January 16, 1965, was implemented by Canada through the granting of the requisite duty-free treatment to United States products on January 18, 1965;
 

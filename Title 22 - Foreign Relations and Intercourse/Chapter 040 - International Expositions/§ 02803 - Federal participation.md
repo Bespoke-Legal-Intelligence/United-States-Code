@@ -24,7 +24,7 @@ The Federal Government may participate in an international exposition proposed t
 
 &emsp;(C) the Secretary of Commerce shall determine whether the Federal Government should be deeded a satisfactory site for the Federal pavilion in fee simple, free of all liens and encumbrances, as a condition of participation in the exposition.
 
-(2) Notwithstanding paragraph (1)(B) of this subsection, if the Secretary of Commerce, in consultation with the Administrator determines that no design of a Federal pavilion will satisfyboth needs described in paragraph (1)(B) of this subsection, the Secretary shall design a temporary Federal pavilion.
+(2) Notwithstanding paragraph (1)(B) of this subsection, if the Secretary of Commerce, in consultation with the Administrator determines that no design of a Federal pavilion will satisfy both needs described in paragraph (1)(B) of this subsection, the Secretary shall design a temporary Federal pavilion.
 
 #### (c) Authorization of appropriations for Federal pavilion
 
@@ -40,7 +40,7 @@ The enactment of a specific authorization of appropriations shall be required—
 
 For the purposes of this section—
 
-&emsp;(1) a Federal pavilion shall be considered to satisfy both needs described in subsection (b)(1)(B) of this section if the Federal pavilion which satisfies the needs described in paragraph (1)(B)(i) of such subsection can be modified after completion of the exposition to satisfy the needs described in paragraph (1)(B)(ii) of such subsection, provided that such modification shall cost no more than the expense of demolition, dismantling, or other disposal, or if the cost is higher, it shall be no more than 50 per centum of the original cost of the construction of the pavilion; and
+&emsp;(1) a Federal pavilion shall be considered to satisfy both needs described in subsection\(b)(1)(B) of this section if the Federal pavilion which satisfies the needs described in paragraph (1)(B)(i) of such subsection can be modified after completion of the exposition to satisfy the needs described in paragraph (1)(B)(ii) of such subsection, provided that such modification shall cost no more than the expense of demolition, dismantling, or other disposal, or if the cost is higher, it shall be no more than 50 per centum of the original cost of the construction of the pavilion; and
 
 &emsp;(2) a Federal pavilion is temporary if the Federal pavilion is designed to satisfy the minimum needs of the Federal Government described in subsection (b)(1)(B)(i) of this section and is intended for disposal by the Federal Government after the termination of participation in the exposition.
 

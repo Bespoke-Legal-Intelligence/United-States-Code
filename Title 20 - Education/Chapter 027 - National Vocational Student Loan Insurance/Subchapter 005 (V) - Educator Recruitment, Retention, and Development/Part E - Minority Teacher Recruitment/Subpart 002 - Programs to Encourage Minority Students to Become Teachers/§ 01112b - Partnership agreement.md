@@ -16,7 +16,7 @@ The agreement shall include—
 
 #### (c) Selection criteria
 
-In making grants under section 1112a of this title, the Secretary shall approve applicationswhich contain provision for projects designed to carry out the purposes described in section 1112 of this title and which—
+In making grants under section 1112a of this title, the Secretary shall approve applications which contain provision for projects designed to carry out the purposes described in section 1112 of this title and which—
 
 &emsp;(1) identify students who indicate an interest in entering the teaching profession, and provide such individuals with support programs such as—
 
@@ -28,7 +28,7 @@ In making grants under section 1112a of this title, the Secretary shall approve 
 
 &emsp;&emsp;(D) academic advice and guidance in course selection to prepare for teacher certification;
 
-&emsp;&emsp;(E) information and advice regarding eligibility for membership in the Teacher Corps established under subpart 3 of part C of this subchapter, and other financial assistance programs;
+&emsp;&emsp;(E) information and advice regarding eligibility for membership in the Teacher Corpsestablished under subpart 3 of part C of this subchapter, and other financial assistance programs;
 
 &emsp;&emsp;(F) teaching mentors;
 

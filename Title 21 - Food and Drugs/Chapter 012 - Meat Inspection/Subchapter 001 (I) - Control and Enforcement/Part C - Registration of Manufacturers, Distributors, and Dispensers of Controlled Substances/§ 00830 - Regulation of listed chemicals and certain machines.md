@@ -2,11 +2,7 @@
 
 #### (a) Record of regulated transactions
 
-(1) Each regulated person who engages in a regulated transaction involving a listed chemical, a tableting machine, or an encapsulating machine shall keep a record of the transaction—
-
-&emsp;(A) for 4 years after the date of the transaction, if the listed chemical is a list I chemical or if the transaction involves a tableting machine or an encapsulating machine; and
-
-&emsp;(B) for 2 years after the date of the transaction, if the listed chemical is a list II chemical.
+(1) Each regulated person who engages in a regulated transaction involving a listed chemical, a tableting machine, or an encapsulating machine shall keep a record of the transaction for two years after the date of the transaction.
 
 (2) A record under this subsection shall be retrievable and shall include the date of the regulated transaction, the identity of each party to the regulated transaction, a statement of the quantity and form of the listed chemical, a description of the tableting machine or encapsulating machine, and a description of the method of transfer. Such record shall be available for inspection and copying by the Attorney General.
 
@@ -27,6 +23,24 @@
 > Each report under subparagraph (A) shall be made at the earliest practicable opportunity after the regulated person becomes aware of the circumstance involved. A regulated person may not complete a transaction with a person whose description or identifying characteristic is furnished to the regulated person under subparagraph (B) unless the transaction is approved by the Attorney General. The Attorney General shall make available to regulated persons guidance documents describing transactions and circumstances for which reports are required under subparagraph (A) and subparagraph (C).
 
 (2) A regulated person that manufactures a listed chemical shall report annually to the Attorney General, in such form and manner and containing such specific data as the Attorney General shall prescribe by regulation, information concerning listed chemicals manufactured by the person. The requirement of the preceding sentence shall not apply to the manufacture of a drug product that is exempted under section 802(39)(A)(iv) of this title.
+
+(3)
+
+Mail order reporting.—(A) Each regulated person who engages in a transaction with a nonregulated person which—
+
+&emsp;(i) involves ephedrine, pseudoephedrine, or phenylpropanolamine (including drug products containing these chemicals); and
+
+&emsp;(ii) uses or attempts to use the Postal Service or any private or commercial carrier;
+
+> shall, on a monthly basis, submit a report of each such transaction conducted during the previous month to the Attorney General in such form, containing such data, and at such times as the Attorney General shall establish by regulation.
+
+(B) The data required for such reports shall include—
+
+&emsp;(i) the name of the purchaser;
+
+&emsp;(ii) the quantity and form of the ephedrine, pseudoephedrine, or phenylpropanolamine purchased; and
+
+&emsp;(iii) the address to which such ephedrine, pseudoephedrine, or phenylpropanolamine was sent.
 
 #### (c) Confidentiality of information obtained by Attorney General; non-disclosure; exceptions
 
@@ -52,7 +66,7 @@
 
 (5) Notwithstanding paragraph (4), a civil action may not be brought under such paragraph against investigative or law enforcement personnel of the Drug Enforcement Administration.
 
-(Pub. L. 91–513, title II, §310, as added Pub. L. 95–633, title II, §202(a), Nov. 10, 1978, 92 Stat. 3774; amended Pub. L. 100–690, title VI, §6052(a), Nov. 18, 1988, 102 Stat. 4312; Pub. L. 103–200, §§2(c), 10, Dec. 17, 1993, 107 Stat. 2336, 2341.)
+(Pub. L. 91–513, title II, §310, as added Pub. L. 95–633, title II, §202(a), Nov. 10, 1978, 92 Stat. 3774; amended Pub. L. 100–690, title VI, §6052(a), Nov. 18, 1988, 102 Stat. 4312; Pub. L. 103–200, §§2(c), 10, Dec. 17, 1993, 107 Stat. 2336, 2341; Pub. L. 104–237, title II, §208, title IV, §402, Oct. 3, 1996, 110 Stat. 3104, 3111.)
 
 #### References in Text
 
@@ -61,6 +75,14 @@ Subchapter II of this chapter, referred to in subsec. (c)(2)(A), (B), was in the
 The customs laws, referred to in subsec. (c)(2)(A), (B), are classified generally to Title 19, Customs Duties.
 
 #### Amendments
+
+1996—Subsec. (a)(1). Pub. L. 104–237, §208, substituted “for two years after the date of the transaction.” for the dash after “record of the transaction” and struck out subpars. (A) and (B) which read as follows:
+
+“(A) for 4 years after the date of the transaction, if the listed chemical is a list I chemical or if the transaction involves a tableting machine or an encapsulating machine; and
+
+“(B) for 2 years after the date of the transaction, if the listed chemical is a list II chemical.”
+
+Subsec. (b)(3). Pub. L. 104–237, §402, added par. (3).
 
 1993—Subsec. (a)(1). Pub. L. 103–200, §2(c)(1), substituted “list I chemical” for “precursor chemical” in subpar. (A) and “a list II chemical” for “an essential chemical” in subpar. (B).
 

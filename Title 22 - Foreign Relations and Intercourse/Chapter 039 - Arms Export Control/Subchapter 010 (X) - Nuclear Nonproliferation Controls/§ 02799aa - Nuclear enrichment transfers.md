@@ -18,15 +18,11 @@ Except as provided in subsection (b) of this section, no funds made available to
 
 > Such certification shall set forth the reasons supporting such determination in each particular case.
 
-(2)(A) A certification under paragraph (1) of this subsection shall take effect on the date onwhich the certification is received by the Congress. However, if, within thirty calendar days after receiving this certification, the Congress enacts a joint resolution stating in substance that the Congress disapproves the furnishing of assistance pursuant to the certification, then upon the enactment of that resolution the certification shall cease to be effective and all deliveries of assistance furnished under the authority of that certification shall be suspended immediately.
+(2)(A) A certification under paragraph (1) of this subsection shall take effect on the date on which the certification is received by the Congress. However, if, within thirty calendar days after receiving this certification, the Congress enacts a joint resolution stating in substance that the Congress disapproves the furnishing of assistance pursuant to the certification, thenupon the enactment of that resolution the certification shall cease to be effective and all deliveries of assistance furnished under the authority of that certification shall be suspended immediately.
 
 (B) Any joint resolution under this paragraph shall be considered in the Senate in accordance with the provisions of section 601(b) of the International Security Assistance and Arms Export Control Act of 1976.
 
 (Pub. L. 90–629, ch. 10, §101, as added Pub. L. 103–236, title VIII, §826(a), Apr. 30, 1994, 108 Stat. 515.)
-
-#### Repeal of Section
-
-<i>For repeal of section by section 851 of Pub. L. 103–236, see Effective and Termination Dates note below.</i>
 
 #### References in Text
 
@@ -34,9 +30,13 @@ The Foreign Assistance Act of 1961, referred to in subsec. (a), is Pub. L. 87–
 
 Section 601(b) of the International Security Assistance and Arms Export Control Act of 1976, referred to in subsec. (b)(2)(B), is section 601(b) of Pub. L. 94–329, title VI, June 30, 1976, 90 Stat. 765, which is not classified to the Code.
 
-#### Effective and Termination Dates
+#### References to Sections 2429 and 2429a of This Title Deemed To Be References to Sections 2799aa and 2799aa–1 of This Title
 
-Subchapter effective 60 days after Apr. 30, 1994, and ceases to be effective and is repealed on date of enactment of first Foreign Relations Authorization Act enacted after Apr. 30, 1994, see sections 831 and 851 of Pub. L. 103–236, set out in the Nuclear Proliferation Prevention; Effective and Termination Dates of 1994 Amendment note under section 3201 of this title.
+Section 826(c) of Pub. L. 103–236 provided that: “Any reference in law as of the date of enactment of this Act \[Apr. 30, 1994\] to section 669 or 670 of the Foreign Assistance Act of 1961 \[former 22 U.S.C. 2429, 2429a\] shall, after such date, be deemed to be a reference to section 101 or 102, as the case may be, of the Arms Export Control Act \[22 U.S.C. 2799aa, 2799aa–1\].”
+
+#### Effective Date
+
+Subchapter effective 60 days after Apr. 30, 1994, see section 831 of Pub. L. 103–236, set out as a note under section 6301 of this title.
 
 #### Section Referred to in Other Sections
 

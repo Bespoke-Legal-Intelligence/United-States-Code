@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary shall enter into a contract with a nongovernmental organization described in subsection (b) of this section to establish and maintain a clearinghouse to provide information to nongovernmental groups located throughout the United States that assist low-income individuals or communities regarding food assistance, self-help activities to aid individuals in becoming self-reliant, and other activities that empower low-income individuals or communities to improve the lives of low-income individuals and reduce reliance on Federal, State, or local governmental agencies for food or other assistance.
+The Secretary shall enter into a contract with a nongovernmental organization described insubsection (b) of this section to establish and maintain a clearinghouse to provide information to nongovernmental groups located throughout the United States that assist low-income individuals or communities regarding food assistance, self-help activities to aid individuals in becoming self-reliant, and other activities that empower low-income individuals or communities to improve the lives of low-income individuals and reduce reliance on Federal, State, or local governmental agencies for food or other assistance.
 
 #### (b) Nongovernmental organization
 
@@ -24,7 +24,7 @@ The nongovernmental organization referred to in subsection (a) of this section s
 
 &emsp;(5) be experienced in communicating the purpose of the clearinghouse through the media, including the radio and print media, and be able to provide access to the clearinghouse information through computer or telecommunications technology, as well as through the mails; and
 
-&emsp;(6) be able to provide examples, advice, and guidance to States, counties, cities, communities, antihunger groups, and local organizations regarding means of assisting individualsand communities to reduce reliance on government programs, reduce hunger, improve nutrition, and otherwise assist low-income individuals and communities become more self-sufficient.
+&emsp;(6) be able to provide examples, advice, and guidance to States, counties, cities, communities, antihunger groups, and local organizations regarding means of assisting individuals and communities to reduce reliance on government programs, reduce hunger, improve nutrition, and otherwise assist low-income individuals and communities become more self-sufficient.
 
 #### (c) Audits
 

@@ -54,7 +54,9 @@ Distribution of Guidelines.—The guidelines developed under this section shall 
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -106,5 +108,5 @@ In subsection (f), the words “departments, agencies, and instrumentalities of 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 40119, 46301, 46316 of this title.
+This section is referred to in section 40119 of this title.
 

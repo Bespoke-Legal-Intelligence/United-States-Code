@@ -20,7 +20,7 @@
 
 (2) The Executive Director shall annually engage, on behalf of all individuals for whom an account is maintained, an independent qualified public accountant, who shall conduct an examination of all accounts and other books and records maintained in the administration of this subchapter and subchapter VII as the public accountant considers necessary to enable the public accountant to make the determination required by paragraph (3). The examination shall be conducted in accordance with generally accepted auditing standards and shall involve such tests of the accounts, books, and records as the public accountant considers necessary.
 
-(3) The public accountant conducting an examination under paragraph (2) shall determine whether the accounts, books, and records referred to in such paragraph have been maintained in conformity with generally accepted accounting principles applied on a basis consistent with the manner in which such principles were applied during the examination conducted under such paragraph during the preceding year. The public accountant shall transmit to the Board and the Comptroller General of the United States a report on his examination, including his determination under this paragraph.
+(3) The public accountant conducting an examination under paragraph (2) shall determine whether the accounts, books, and records referred to in such paragraph have been maintained in conformity with generally accepted accounting principles applied on a basis consistent with the manner in which such principles were applied during the examination conducted under such paragraph during the preceding year. The public accountant shall transmit to the Board a report on his examination, including his determination under this paragraph.
 
 (4) In making a determination under paragraph (3), a public accountant may rely on the correctness of any actuarial matter certified by an enrolled actuary if the public accountant states his reliance in the report transmitted to the Board under such paragraph.
 
@@ -32,9 +32,19 @@
 
 (2) Information under this subsection shall be provided at least 30 calendar days before the beginning of each election period under section 8432(b)(1)(A) of this title, and in a manner designed to facilitate informed decisionmaking with respect to elections under sections 8432 and 8438 of this title.
 
-(d) Each employee, Member, former employee, or former Member who elects to invest in the Common Stock Index Investment Fund or the Fixed Income Investment Fund described in paragraphs (1) and (3), respectively, of section 8438(a) of this title shall sign an acknowledgement prescribed by the Executive Director which states that the employee, Member, former employee, or former Member understands that an investment in either such Fund is made at the employee's, Member's, former employee's, or former Member's risk, that the employee, Member, former employee, or former Member is not protected by the Government against any loss on such investment, and that a return on such investment is not guaranteed by the Government.
+(d) Each employee, Member, former employee, or former Member who elects to invest in the Common Stock Index Investment Fund, the Fixed Income Investment Fund, the International Stock Index Investment Fund, or the Small Capitalization Stock Index Investment Fund, defined in paragraphs (1), (3), (5), and (10), respectively, of section 8438(a) of this title shall sign an acknowledgement prescribed by the Executive Director which states that the employee, Member, former employee, or former Member understands that an investment in either such Fund is made at the employee's, Member's, former employee's, or former Member's risk, that the employee, Member, former employee, or former Member is not protected by the Government against any loss on such investment, and that a return on such investment is not guaranteed by the Government.
 
-(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 555.)
+(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 555; amended Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §659 \[title I, §103\]\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–372, 3009–373; Pub. L. 104–316, title I, §103(j), Oct. 19, 1996, 110 Stat. 3829.)
+
+#### Amendments
+
+1996—Subsec. (b)(3). Pub. L. 104–316 struck out “and the Comptroller General of the United States” after “to the Board”.
+
+Subsec. (d). Pub. L. 104–208 substituted “Each employee, Member, former employee, or former Member who elects to invest in the Common Stock Index Investment Fund, the Fixed Income Investment Fund, the International Stock Index Investment Fund, or the Small Capitalization Stock Index Investment Fund, defined in paragraphs (1), (3), (5), and (10),” for “Each employee, Member, former employee, or former Member who elects to invest in the Common Stock Index Investment Fund or the Fixed Income Investment Fund described in paragraphs (1) and (3),”.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–208 effective Sept. 30, 1996, with provisions for certain funds to be offered for investment at earliest practicable election period, see section 101(f) \[title VI, §659 \[title I, §104\]\] of Pub. L. 104–208, set out as a note under section 8438 of this title.
 
 #### Section Referred to in Other Sections
 

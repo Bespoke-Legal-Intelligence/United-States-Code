@@ -18,11 +18,11 @@ A civil action may be brought—
 
 &emsp;(5) except as otherwise provided in subsection (b) of this section, by the Secretary (A) to enjoin any act or practice which violates any provision of this subchapter, or (B) to obtain other appropriate equitable relief (i) to redress such violation or (ii) to enforce any provision of this subchapter;
 
-&emsp;(6) by the Secretary to collect any civil penalty under subsection (c)(2) or (i) or (<i>l</i>) of this section;
+&emsp;(6) by the Secretary to collect any civil penalty under paragraph (2), (4), or (5) of subsection (c) of this section or under subsection (i) or (<i>l</i>) of this section;
 
 &emsp;(7) by a State to enforce compliance with a qualified medical child support order (as defined in section 1169(a)(2)(A) of this title);
 
-&emsp;(8) by the Secretary, or by an employer or other person referred to in section 1021(f)(1) ofthis title, (A) to enjoin any act or practice which violates subsection (f) of section 1021 of this title, or (B) to obtain appropriate equitable relief (i) to redress such violation or (ii) to enforce such subsection; or
+&emsp;(8) by the Secretary, or by an employer or other person referred to in section 1021(f)(1) of this title, (A) to enjoin any act or practice which violates subsection (f) of section 1021 of this title, or (B) to obtain appropriate equitable relief (i) to redress such violation or (ii) to enforce such subsection; or
 
 &emsp;(9) in the event that the purchase of an insurance contract or insurance annuity in connection with termination of an individual's status as a participant covered under a pension plan with respect to all or any portion of the participant's pension benefit under such plan constitutes a violation of part 4 of this title <sup>1</sup> or the terms of the plan, by the Secretary, by any individual who was a participant or beneficiary at the time of the alleged violation, or by a fiduciary, to obtain appropriate relief, including the posting of security if necessary, to assure receipt by the participant or beneficiary of the amounts provided or to be provided by such insurance contract or annuity, plus reasonable prejudgment interest on such amounts.
 
@@ -36,15 +36,21 @@ A civil action may be brought—
 
 (2) The Secretary shall not initiate an action to enforce section 1145 of this title.
 
+(3) The Secretary is not authorized to enforce under this part any requirement of part 7 against a health insurance issuer offering health insurance coverage in connection with a group health plan (as defined in section 1191b(a)(1) of this title). Nothing in this paragraph shall affect the authority of the Secretary to issue regulations to carry out such part.
+
 #### (c) Administrator's refusal to supply requested information; penalty for failure to provide annual report in complete form
 
-(1) Any administrator (A) who fails to meet the requirements of paragraph (1) or (4) of section 1166 <sup>2</sup> of this title or section 1021(e)(1) of this title with respect to a participant or beneficiary, or (B) who fails or refuses to comply with a request for any information which such administrator is required by this subchapter to furnish to a participant or beneficiary (unless such failure or refusal results from matters reasonably beyond the control of the administrator) by mailing the material requested to the last known address of the requesting participant or beneficiary within 30 days after such request may in the court's discretion be personally liable to such participant or beneficiary in the amount of up to $100 a day from the date of such failure or refusal, and the court may in its discretion order such other relief as it deems proper.
+(1) Any administrator (A) who fails to meet the requirements of paragraph (1) or (4) of section 1166 <sup>2</sup> of this title or section 1021(e)(1) of this title with respect to a participant or beneficiary, or (B) who fails or refuses to comply with a request for any information which such administrator is required by this subchapter to furnish to a participant or beneficiary (unless such failure or refusal results from matters reasonably beyond the control of the administrator) by mailing the material requested to the last known address of the requesting participant or beneficiary within 30 days after such request may in the court's discretion be personally liable to such participant or beneficiary in the amount of up to $100 a day from the date of such failure or refusal, and the court may in its discretion order such other relief as it deems proper. For purposes of this paragraph, each violation described in subparagraph (A) with respect to any single participant, and each violation described in subparagraph (B) with respect to any single participant or beneficiary, shall be treated as a separate violation.
 
 (2) The Secretary may assess a civil penalty against any plan administrator of up to $1,000 a day from the date of such plan administrator's failure or refusal to file the annual report required to be filed with the Secretary under section 1021(b)(4) of this title. For purposes of this paragraph, an annual report that has been rejected under section 1024(a)(4) of this title for failure to provide material information shall not be treated as having been filed with the Secretary.
 
 (3) Any employer maintaining a plan who fails to meet the notice requirement of section 1021(d) of this title with respect to any participant or beneficiary or who fails to meet the requirements of section 1021(e)(2) of this title with respect to any person may in the court's discretion be liable to such participant or beneficiary or to such person in the amount of up to $100 a day from the date of such failure, and the court may in its discretion order such other relief as it deems proper.
 
-(4) The Secretary may assess a civil penalty of not more than $1,000 for each violation by any person of section 1021(f)(1) of this title. For purposes of this paragraph, each violation described in subparagraph (A) with respect to any single participant, and each violation described in subparagraph (B) with respect to any single participant or beneficiary, shall be treated as a separate violation. The Secretary and the Secretary of Health and Human Services shall maintain such ongoing consultation as may be necessary and appropriate to coordinate enforcement under this subsection with enforcement under section 1320b–14(c)(8) of title 42.
+(4) The Secretary may assess a civil penalty of not more than $1,000 for each violation by any person of section 1021(f)(1) of this title.
+
+(5) The Secretary may assess a civil penalty against any person of up to $1,000 a day from the date of the person's failure or refusal to file the information required to be filed by such person with the Secretary under regulations prescribed pursuant to section 1021(g) of this title.
+
+(6) The Secretary and the Secretary of Health and Human Services shall maintain such ongoing consultation as may be necessary and appropriate to coordinate enforcement under this subsection with enforcement under section 1320b–14(c)(8) of title 42.
 
 #### (d) Status of employee benefit plan as entity
 
@@ -54,7 +60,7 @@ A civil action may be brought—
 
 #### (e) Jurisdiction
 
-(1) Except for actions under subsection (a)(1)(B) of this section, the district courts of the United States shall have exclusive jurisdiction of civil actions under this subchapter brought by the Secretary or by a participant, beneficiary, fiduciary, or any person referred toin section 1021(f)(1) of this title. State courts of competent jurisdiction and district courts of the United States shall have concurrent jurisdiction of actions under paragraphs (1)(B) and (7) of subsection (a) of this section.
+(1) Except for actions under subsection (a)(1)(B) of this section, the district courts of the United States shall have exclusive jurisdiction of civil actions under this subchapter brought by the Secretary or by a participant, beneficiary, fiduciary, or any person referred to in section 1021(f)(1) of this title. State courts of competent jurisdiction and district courts of the United States shall have concurrent jurisdiction of actions under paragraphs (1)(B) and (7) of subsection (a) of this section.
 
 (2) Where an action under this subchapter is brought in a district court of the United States, it may be brought in the district where the plan is administered, where the breach took place, or where a defendant resides or may be found, and process may be served in any other district where a defendant resides or may be found.
 
@@ -64,7 +70,7 @@ The district courts of the United States shall have jurisdiction, without respec
 
 #### (g) Attorney's fees and costs; awards in actions involving delinquent contributions
 
-(1) In any action under this subchapter (other than an action described in paragraph (2)) by a participant, beneficiary, or fiduciary, the court in its discretion may allow a reasonable attorney's fee and costs of action to either party.
+(1) In any action under this subchapter (other than an action described in paragraph (2)) by aparticipant, beneficiary, or fiduciary, the court in its discretion may allow a reasonable attorney's fee and costs of action to either party.
 
 (2) In any action under this subchapter by a fiduciary for or on behalf of a plan to enforce section 1145 of this title in which a judgment in favor of the plan is awarded, the court shall award the plan—
 
@@ -128,7 +134,7 @@ Suits by an administrator, fiduciary, participant, or beneficiary of an employee
 
 In the case of a distribution to a pension plan participant or beneficiary in violation of section 1056(e) of this title by a plan fiduciary, the Secretary shall assess a penalty against such fiduciary in an amount equal to the value of the distribution. Such penalty shall not exceed $10,000 for each such distribution.
 
-(Pub. L. 93–406, title I, §502, Sept. 2, 1974, 88 Stat. 891; Pub. L. 96–364, title III, §306(b), Sept. 26, 1980, 94 Stat. 1295; Pub. L. 99–272, title X, §10002(b), Apr. 7, 1986, 100 Stat. 231; Pub. L. 100–203, title IX, §§9342(c), 9344, Dec. 22, 1987, 101 Stat. 1330–372, 1330–373; Pub. L. 101–239, title II, §2101(a), (b), title VII, §§7881(b)(5)(B), (j)(2), (3), 7891(a)(1), 7894(f)(1), Dec. 19, 1989, 103 Stat. 2123, 2438, 2442, 2445, 2450; Pub. L. 101–508, title XII, §12012(d)(2), Nov. 5, 1990, 104 Stat. 1388–573; Pub. L. 103–66, title IV, §4301(c)(1)–(3), Aug. 10, 1993, 107 Stat. 376; Pub. L. 103–401, §§2, 3, Oct. 22, 1994, 108 Stat. 4172; Pub. L. 103–465, title VII, §761(a)(9)(B)(ii), Dec. 8, 1994, 108 Stat. 5033.)
+(Pub. L. 93–406, title I, §502, Sept. 2, 1974, 88 Stat. 891; Pub. L. 96–364, title III, §306(b), Sept. 26,1980, 94 Stat. 1295; Pub. L. 99–272, title X, §10002(b), Apr. 7, 1986, 100 Stat. 231; Pub. L. 100–203, title IX, §§9342(c), 9344, Dec. 22, 1987, 101 Stat. 1330–372, 1330–373; Pub. L. 101–239, title II, §2101(a), (b), title VII, §§7881(b)(5)(B), (j)(2), (3), 7891(a)(1), 7894(f)(1), Dec. 19, 1989, 103 Stat. 2123, 2438, 2442, 2445, 2450; Pub. L. 101–508, title XII, §12012(d)(2), Nov. 5, 1990, 104 Stat. 1388–573; Pub. L. 103–66, title IV, §4301(c)(1)–(3), Aug. 10, 1993, 107 Stat. 376; Pub. L. 103–401, §§2, 3, Oct. 22, 1994, 108 Stat. 4172; Pub. L. 103–465, title VII, §761(a)(9)(B)(ii), Dec. 8, 1994, 108 Stat. 5033; Pub. L. 104–191, title I, §101(b), (e)(2), Aug. 21, 1996, 110 Stat. 1951, 1952; Pub. L. 104–204, title VI, §603(b)(3)(E), Sept. 26, 1996, 110 Stat. 2938.)
 
 #### References in Text
 
@@ -139,6 +145,16 @@ Paragraphs (1) and (4) of section 1166 of this title, referred to in subsec. (c)
 This chapter, referred to in subsec. (k), was in the original “this Act”, meaning Pub. L. 93–406, known as the Employee Retirement Income Security Act of 1974. Titles I, III, and IV of such Act are classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
 #### Amendments
+
+1996—Subsec. (a)(6). Pub. L. 104–191, §101(e)(2)(A)(i), substituted “under paragraph (2), (4), or (5) of subsection (c) of this section or under subsection (i) or (<i>l</i>) of this section” for “under subsection (c)(2) or (i) or (<i>l</i>) of this section”.
+
+Subsec. (b)(3). Pub. L. 104–204 made technical amendment to reference in original act which appears in text as reference to section 1191b of this title.
+
+Pub. L. 104–191, §101(b), added par. (3).
+
+Subsec. (c)(1). Pub. L. 104–191, §101(e)(2)(B), inserted at end “For purposes of this paragraph, each violation described in subparagraph (A) with respect to any single participant, and each violation described in subparagraph (B) with respect to any single participant or beneficiary, shall be treated as a separate violation.”
+
+Subsec. (c)(4) to (6). Pub. L. 104–191, §101(e)(2)(A)(ii), struck out “For purposes of this paragraph, each violation described in subparagraph (A) with respect to any single participant, and each violation described in subparagraph (B) with respect to any single participant or beneficiary, shall be treated as a separate violation. The Secretary and” after “section 1021(f)(1) of this title.”, redesignated “the Secretary of Health and Human Services shall maintain such ongoing consultation as may be necessary and appropriate to coordinate enforcement under this subsection with enforcement under section 1320b–14(c)(8) of title 42.” as par. (6) and inserted “The Secretary and” before “the Secretary of Health and Human Services”, and added par. (5).
 
 1994—Subsec. (a)(9). Pub. L. 103–401, §2, added par. (9).
 
@@ -170,7 +186,7 @@ Subsec. (c)(3). Pub. L. 101–239, §7881(b)(5)(B), added par. (3).
 
 Subsec. (g)(2). Pub. L. 101–239, §7891(a)(1), substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
-Subsec. (<i>l</i>). Pub. L. 101–239, §2101(a), added subsec. (<i>l).</i>
+Subsec. (<i>l</i>). Pub. L. 101–239, §2101(a), added subsec. (<i>l</i>).
 
 1987—Subsec. (c). Pub. L. 100–203, §9342(c), designated existing provision as par. (1), redesignated as cls. (A) and (B) former cls. (1) and (2), and added par. (2).
 
@@ -182,6 +198,12 @@ Subsec. (i). Pub. L. 100–203, §9344, amended second sentence generally. Prior
 
 Subsec. (g). Pub. L. 96–364, §306(b)(2), redesignated existing provisions as par. (1), inserted exception for actions under paragraph (2), and added par. (2).
 
+#### Effective Date of 1996 Amendments
+
+Amendment by Pub. L. 104–204 applicable with respect to group health plans for plan years beginning on or after Jan. 1, 1998, see section 603(c) of Pub. L. 104–204 set out as a note under section 1003 of this title.
+
+Amendment by Pub. L. 104–191 applicable with respect to group health plans for plan years beginning after June 30, 1997, except as otherwise provided, see section 101(g) of Pub. L. 104–191, set out as a note under section 1181 of this title.
+
 #### Effective Date of 1994 Amendments
 
 Amendment by Pub. L. 103–465 applicable to plan years beginning after Dec. 31, 1994, see section 761(b)(1) of Pub. L. 103–465, set out as a note under section 1056 of this title.
@@ -190,13 +212,13 @@ Section 5 of Pub. L. 103–401 provided that: “The amendments made by this Act
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–508 applicable to qualified transfers under section 420 of title 26 made after Nov. 5, 1990, see section 12012(e) of Pub. L. 101–508, set out as a note under section 1021 of this title.
+Amendment by Pub. L. 101–508 applicable to qualified transfers under section 420 of title 26 made after Nov.5, 1990, see section 12012(e) of Pub. L. 101–508, set out as a note under section 1021 of this title.
 
 #### Effective Date of 1989 Amendment
 
 Section 2101(c) of Pub. L. 101–239 provided that: “The amendments made by this section \[amending this section\] shall apply to any breach of fiduciary responsibility or other violation occurring on or after the date of the enactment of this Act \[Dec. 19, 1989\].”
 
-Amendment by section 7881(b)(5)(B), (j)(2), (3) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Pension Protection Act, Pub. L. 100–203, §§9302–9346, to which such amendment relates, see section 7882 of Pub. L. 101–239, set outas a note under section 401 of Title 26, Internal Revenue Code.
+Amendment by section 7881(b)(5)(B), (j)(2), (3) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Pension Protection Act, Pub. L. 100–203, §§9302–9346, to which such amendment relates, see section 7882 of Pub. L. 101–239, set out as a note under section 401 of Title 26, Internal Revenue Code.
 
 Amendment by section 7891(a)(1) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 7891(f) of Pub. L. 101–239, set out as a note under section 1002 of this title.
 
@@ -236,7 +258,7 @@ For provisions setting forth circumstances under which any amendment to a plan r
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1140 of this title.
+This section is referred to in sections 1101, 1136, 1140 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “subtitle”.</i>
 

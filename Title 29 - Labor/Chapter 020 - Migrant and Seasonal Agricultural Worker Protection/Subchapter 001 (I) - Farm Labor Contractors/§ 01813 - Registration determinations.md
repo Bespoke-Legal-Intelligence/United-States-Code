@@ -20,7 +20,7 @@ In accordance with regulations, the Secretary may refuse to issue or renew, or m
 
 &emsp;&emsp;(A) of any crime under State or Federal law relating to gambling, or to the sale, distribution or possession of alcoholic beverages, in connection with or incident to any farm labor contracting activities; or
 
-&emsp;&emsp;(B) of any felony under State or Federal law involving robbery, bribery, extortion,embezzlement, grand larceny, burglary, arson, violation of narcotics laws, murder, rape, assault with intent to kill, assault which inflicts grievous bodily injury, prostitution, peonage, or smuggling or harboring individuals who have entered the United States illegally; or
+&emsp;&emsp;(B) of any felony under State or Federal law involving robbery, bribery, extortion, embezzlement, grand larceny, burglary, arson, violation of narcotics laws, murder, rape, assault with intent to kill, assault which inflicts grievous bodily injury, prostitution, peonage, or smuggling or harboring individuals who have entered the United States illegally; or
 
 &emsp;(6) has been found to have violated paragraph (1) or (2) of section 1324a(a) of title 8.
 
@@ -46,5 +46,5 @@ The Farm Labor Contractor Registration Act of 1963, referred to in subsec. (a)(4
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–603 applicable to employment, recruitment, referral, or utilization of services of an individual occurring on or after first day of seventh month beginning after Nov. 6, 1986, except that if 8 U.S.C. 1324a is terminated as of a date under 8 U.S.C. 1324a(<i>l</i>), the amendment by Pub. L. 99–603 is no longer applicable, see section 101(b)(2) of Pub. L. 99–603, as amended, set out as a note under section 1802 of this title.
+Amendment by Pub. L. 99–603 applicable to employment, recruitment, referral, or utilization of services of an individual occurring on or after first day of seventh month beginning after Nov. 6, 1986, see section 101(b)(2) of Pub. L. 99–603, as amended, set out as a note under section 1802 of this title.
 

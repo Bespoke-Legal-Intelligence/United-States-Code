@@ -22,7 +22,7 @@ As used in this subchapter the term:
 
 (g) “Secretary” means the Secretary of Commerce.
 
-(Pub. L. 97–176, §2, May 17, 1982, 96 Stat. 78; Pub. L. 102–251, title III, §302(a), Mar. 9, 1992, 106 Stat. 64.)
+(Pub. L. 97–176, §2, May 17, 1982, 96 Stat. 78; Pub. L. 102–251, title III, §302(a), Mar. 9, 1992, 106 Stat. 64; Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41.)
 
 #### Amendment of Section
 
@@ -37,6 +37,14 @@ As used in this subchapter the term:
 Section 1811 of this title, referred to in subsec. (c), which established the fishery conservation zone, was amended generally by Pub. L. 99–659, title I, §101(b), Nov. 14, 1986, 100 Stat. 3706, and now relates to United States sovereign rights to fish and fishery management authority within the exclusive economic zone.
 
 Proclamation Numbered 5030, referred to in subsec. (c), is Proc. No. 5030, Mar. 10, 1983, 48 F.R. 10605, which is set out as a note under section 1453 of this title.
+
+#### Amendments
+
+1996—Subsec. (c). Pub. L. 104–208 made technical amendment to reference in original act which appears in text as reference to section 1811 of this title.
+
+#### Effective Date of 1996 Amendment
+
+Section 101(a) \[title II, §211(b)\] of div. A of Pub. L. 104–208 provided that the amendment made by that section is effective 15 days after Oct. 11, 1996.
 
 #### Effective Date of 1992 Amendment
 

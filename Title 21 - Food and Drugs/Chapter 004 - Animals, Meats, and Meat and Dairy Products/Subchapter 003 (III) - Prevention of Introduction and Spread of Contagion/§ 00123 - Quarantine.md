@@ -6,7 +6,7 @@ The Secretary of Agriculture is authorized to quarantine by regulation any State
 
 #### Amendments
 
-1978—Pub. L. 95–439 struck out provision requiring the Secretary of Agriculture to give written notice of the establishment of quarantine to the proper officials of railroads, steamboats, or other transportation systems and to publish notice of the establishment of quarantine in newspapers in the quarantined State or Territory or the District of Columbia.
+1978—Pub. L. 95–439 struck out provision requiring Secretary of Agriculture to give written notice of the establishment of quarantine to the proper officials of railroads, steamboats, or other transportation systems and to publish notice of the establishment of quarantine in newspapers in the quarantined State or Territory or the District of Columbia.
 
 1962—Pub. L. 87–518 authorized quarantine upon the determination that any animals or poultry are affected with a communicable disease of livestock or poultry or that the contagion of any such disease exists or that vectors which may disseminate any such disease exist.
 

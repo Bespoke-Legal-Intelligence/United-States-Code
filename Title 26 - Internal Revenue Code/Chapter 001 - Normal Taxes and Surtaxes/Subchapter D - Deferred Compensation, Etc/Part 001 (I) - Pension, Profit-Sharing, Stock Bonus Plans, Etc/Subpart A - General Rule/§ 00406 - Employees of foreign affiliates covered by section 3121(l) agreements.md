@@ -16,7 +16,7 @@ For purposes of applying this part with respect to a pension, profit-sharing, or
 
 &emsp;For purposes of applying section 401(a)(4) and section 410(b) with respect to an individual who is treated as an employee of an American employer under subsection (a)—
 
-&emsp;&emsp;(A) if such individual is a highly compensated employee (within the meaning of section 414(q)), he shall be treated as having such capacity with respect to such American employer; and
+&emsp;&emsp;(A) if such individual is a highly compensated employee (within the meaning ofsection 414(q)), he shall be treated as having such capacity with respect to such American employer; and
 
 &emsp;&emsp;(B) the determination of whether such individual is a highly compensated employee (as so defined) shall be made by treating such individual's total compensation (determined with the application of paragraph (2) of this subsection) as compensation paid by such American employer and by determining such individual's status with regard to such American employer.
 
@@ -58,13 +58,17 @@ An individual who is treated as an employee of an American employer under subsec
 
 &emsp;(1) Section 72(f) (relating to special rules for computing employees’ contributions).
 
-&emsp;(2) Section 101(b) (relating to employees’ death benefits).
+&emsp;(2) Section 2039 (relating to annuities).
 
-&emsp;(3) Section 2039 (relating to annuities).
+(Added Pub. L. 88–272, title II, §220(a), Feb. 26, 1964, 78 Stat. 58; amended Pub. L. 91–172, title V, §515(c)(2), Dec. 30, 1969, 83 Stat. 645; Pub. L. 93–406, title II, §§1016(a)(4), 2005(c)(12), Sept. 2, 1974, 88 Stat. 929, 992; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 98–21, title III, §321(c), (e)(2)(A)–(D)(i), Apr. 20, 1983, 97 Stat. 119, 120; Pub. L. 98–369, div. A, title IV, §491(d)(13)–(15), July 18, 1984, 98 Stat. 849; Pub. L. 99–514, title XI, §§1112(d)(3), 1114(b)(9)(A), (C), title XVIII, §1852(e)(2)(C), Oct. 22, 1986, 100 Stat. 2445, 2451, 2868; Pub. L. 100–647, title I, §1011A(b)(1)(C), (16), Nov. 10, 1988, 102 Stat. 3472, 3475; Pub. L. 101–239, title VII, §§7811(g)(3), 7831(f), title X, §10201(b)(1), (2), Dec. 19, 1989, 103 Stat. 2409, 2427, 2472; Pub. L. 102–318, title V, §521(b)(14), July 3, 1992, 106 Stat. 311; Pub. L. 104–188, title I, §§1401(b)(7), 1402(b)(2), Aug. 20, 1996, 110 Stat. 1789, 1790.)
 
-(Added Pub. L. 88–272, title II, §220(a), Feb. 26, 1964, 78 Stat. 58; amended Pub. L. 91–172, title V, §515(c)(2), Dec. 30, 1969, 83 Stat. 645; Pub. L. 93–406, title II, §§1016(a)(4), 2005(c)(12), Sept. 2, 1974, 88 Stat. 929, 992; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 98–21, title III, §321(c), (e)(2)(A)–(D)(i), Apr. 20, 1983, 97 Stat. 119, 120; Pub. L. 98–369, div. A, title IV, §491(d)(13)–(15), July 18, 1984, 98 Stat. 849; Pub. L. 99–514, title XI, §§1112(d)(3), 1114(b)(9)(A), (C), title XVIII, §1852(e)(2)(C), Oct. 22, 1986, 100 Stat. 2445, 2451, 2868; Pub. L. 100–647, title I, §1011A(b)(1)(C), (16), Nov. 10, 1988, 102 Stat. 3472, 3475; Pub. L. 101–239, title VII, §§7811(g)(3), 7831(f), title X, §10201(b)(1), (2), Dec. 19, 1989, 103 Stat. 2409, 2427, 2472; Pub. L. 102–318, title V, §521(b)(14), July 3, 1992, 106 Stat. 311.)
+#### Repeal of Subsection (c)
+
+<i>Pub. L. 104–188, title I, §1401(b)(7), (c), Aug. 20, 1996, 110 Stat. 1789, provided that, applicable to taxable years beginning after Dec. 31, 1999, with retention of certain transition rules, subsection (c) of this section is repealed.</i>
 
 #### Amendments
+
+1996—Subsec. (e)(2), (3). Pub. L. 104–188, §1402(b)(2), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “Section 101(b) (relating to employees’ death benefits).”
 
 1992—Subsec. (c). Pub. L. 102–318 substituted “402(d)” for “402(e)”.
 
@@ -76,7 +80,7 @@ Subsec. (c). Pub. L. 101–239, §7811(g)(3), substituted “purposes of limitat
 
 Subsec. (c)(3). Pub. L. 101–239, §10201(b)(2), substituted “3121(<i>l</i>)(6)(B)” for “3121(<i>l</i>)(8)(B)”.
 
-1988—Subsec. (c). Pub. L. 100–647, §1011A(b)(16), struck out “of capital gain provisions and” after “service for purposes” in heading and substituted “applying section 402(e)” for “applying subsections (a)(2) and (e) of section 402, and section 403(a)(2)” in text.
+1988—Subsec. (c). Pub. L. 100–647, §1011A(b)(16), struck out “of capital gain provisions and” after “service forpurposes” in heading and substituted “applying section 402(e)” for “applying subsections (a)(2) and (e) of section 402, and section 403(a)(2)” in text.
 
 Subsec. (e). Pub. L. 100–647, §1011A(b)(1)(C), redesignated pars. (2) to (4) as (1) to (3), respectively, and struck out former par. (1) which read as follows: “Section 72(d) (relating to employees’ annuities).”
 
@@ -117,6 +121,12 @@ Subsec. (e). Pub. L. 98–21, §321(e)(2)(A), substituted reference to an Americ
 Subsec. (c). Pub. L. 93–406, §2005(c)(12), substituted “subsections (a)(2) and (e) of section 402” for “section 72(n), section 402(a)(2)”.
 
 1969—Subsec. (c). Pub. L. 91–172 substituted “provisions and limitation of tax” for “provisions” in heading, and substituted “section 72(n), section 402(a)(2),” for “section 402(a)(2)” in text.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by section 1401(b)(7) of Pub. L. 104–188 applicable to taxable years beginning after Dec. 31, 1999, with retention of certain transition rules, see section 1401(c) of Pub. L. 104–188, set out as a note under section 402 of this title.
+
+Amendment by section 1402(b)(2) of Pub. L. 104–188 applicable with respect to decedents dying after Aug. 20, 1996, see section 1402(c) of Pub. L. 104–188, set out as a note under section 101 of this title.
 
 #### Effective Date of 1992 Amendment
 
@@ -160,7 +170,7 @@ Section 321(f) of Pub. L. 98–21 provided that:
 
 #### Effective Date of 1974 Amendment
 
-Amendment by section 1016(a)(4) of Pub. L. 93–406 applicable, except as otherwise provided in section 1017(c)through (i) of Pub. L. 93–406, for plan years beginning after Sept. 2, 1974, but, in the case of plans in existence on Jan. 1, 1974, amendment by Pub. L. 93–406 applicable for plan years beginning after Dec. 31, 1975, see section 1017 of Pub. L. 93–406, set out as an Effective Date; Transition of Rules note under section 410 of this title.
+Amendment by section 1016(a)(4) of Pub. L. 93–406 applicable, except as otherwise provided in section 1017(c) through (i) of Pub. L. 93–406, for plan years beginning after Sept. 2, 1974, but, in the case of plans in existence on Jan. 1, 1974, amendment by Pub. L. 93–406 applicable for plan years beginning after Dec. 31, 1975, see section 1017 of Pub. L. 93–406, set out as an Effective Date; Transition of Rules note under section 410 of this title.
 
 Amendment by section 2005(c)(12) of Pub. L. 93–406 applicable only with respect to distributions or payments made after Dec. 31, 1973, in taxable years beginning after Dec. 31, 1973, see section 2005(d) of Pub. L. 93–406, set out as a note under section 402 of this title.
 
@@ -175,6 +185,10 @@ Section 220(d) of Pub. L. 88–272 provided that: “The amendments made by subs
 #### Regulations
 
 Secretary of the Treasury or his delegate to issue before Feb. 1, 1988, final regulations to carry out amendments made by sections 1112 and 1114 of Pub. L. 99–514, see section 1141 of Pub. L. 99–514, set out as a note under section 401 of this title.
+
+#### Plan Amendments Not Required Until January 1, 1998
+
+For provisions directing that if any amendments made by subtitle D \[§§1401–1465\] of title I of Pub. L. 104–188 require an amendment to any plan or annuity contract, such amendment shall not be required to be made before the first day of the first plan year beginning on or after Jan. 1, 1998, see section 1465 of Pub. L. 104–188, set out as a note under section 401 of this title.
 
 #### Plan Amendments Not Required Until January 1, 1994
 

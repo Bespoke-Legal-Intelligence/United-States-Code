@@ -20,7 +20,7 @@ Each application described in subsection (a) of this section shall—
 
 &emsp;&emsp;(E) during the 5-year period described in the application, the State educational agency will evaluate its standards and programs for teacher preparation and inservice professional development for elementary mathematics and science;
 
-&emsp;&emsp;(F) the State educational agency will take into account the needs for greater access to and participation in mathematics and science by students and teachers from historically underrepresented groups, including females, minorities, individuals with limitedEnglish proficiency, the economically disadvantaged, and individuals with disabilities; and
+&emsp;&emsp;(F) the State educational agency will take into account the needs for greater access to and participation in mathematics and science by students and teachers from historically underrepresented groups, including females, minorities, individuals with limited English proficiency, the economically disadvantaged, and individuals with disabilities; and
 
 &emsp;&emsp;(G) that the needs of teachers and students in areas with high concentrations of low-income students and sparsely populated areas will be given priority in awarding assistance under this part;
 

@@ -34,7 +34,9 @@ Historical and Revision Notes
 
 Pub. L. 97–449
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -70,7 +72,9 @@ In subsection (b), before clause (1), the words “aviation activities of the De
 
 Pub. L. 98–216
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

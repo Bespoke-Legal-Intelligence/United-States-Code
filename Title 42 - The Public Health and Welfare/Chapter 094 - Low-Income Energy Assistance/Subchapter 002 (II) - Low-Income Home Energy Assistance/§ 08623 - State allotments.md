@@ -12,7 +12,7 @@
 
 &emsp;(ii) no State for fiscal year 1986 and thereafter shall receive less than the amount of funds the State would have received in fiscal year 1984 if the appropriations for this subchapter for fiscal year 1984 had been $1,975,000,000, and
 
-&emsp;(B) any State whose allotment percentage out of funds available to States from a total appropriation of $2,250,000,000 would be less than 1 percent, shall not, in any year when total appropriations equal or exceed$2,250,000,000, have its allotment percentage reduced from the percentage it would receive from a total appropriation of $2,140,000,000.
+&emsp;(B) any State whose allotment percentage out of funds available to States from a total appropriation of $2,250,000,000 would be less than 1 percent, shall not, in any year when total appropriations equal or exceed $2,250,000,000, have its allotment percentage reduced from the percentage it would receive from a total appropriation of $2,140,000,000.
 
 (3) If the sums appropriated for any fiscal year for making grants under this subchapter are not sufficient to pay in full the total amount allocated to a State under paragraph (1) for such fiscal year, the amount which all States will receive under this subchapter for such fiscal year shall be ratably reduced.
 
@@ -84,7 +84,7 @@ Of the funds available to each State under subsection (a) of this section, a rea
 
 #### (g) Allotment of emergency funds
 
-Notwithstanding subsections (a) through (f) of this section, the Secretary may allot amounts appropriated pursuant to section 8621(e) of this title to one or more than one State. In determining to which State or States additional funds may be allotted, the Secretary shall take into account the extent to which a State was affected by the emergency or disaster, the availability to an affected State of other resources under this or any other program, and such other factors as the Secretary determines relevant. The Secretary shall notify Congress of the allotment pursuant to this subsection prior to releasing the allotted funds.
+Notwithstanding subsections (a) through (f) of this section, the Secretary may allot amounts appropriated pursuant to section 8621(e) of this title to one or more than one State. In determining to which State or States additional funds may be allotted, the Secretary shall take into account the extent to which a State was affected by the emergency or disaster, the availability to an affected State of other resources under this or any other program, and such otherfactors as the Secretary determines relevant. The Secretary shall notify Congress of the allotment pursuant to this subsection prior to releasing the allotted funds.
 
 (Pub. L. 97–35, title XXVI, §2604, Aug. 13, 1981, 95 Stat. 894; Pub. L. 98–558, title VI, §§603, 604, Oct. 30, 1984, 98 Stat. 2890; Pub. L. 99–425, title V, §§502(a), 503, 505(b), Sept. 30, 1986, 100 Stat. 973–975; Pub. L. 101–501, title VII, §703, Nov. 3, 1990, 104 Stat. 1258; Pub. L. 103–252, title III, §§304(c), 311(c)(3), May 18, 1994, 108 Stat. 659, 662.)
 

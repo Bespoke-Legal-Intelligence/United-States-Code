@@ -48,7 +48,7 @@ Section 2332, Pub. L. 88–210, title II, §202, as added Pub. L. 98–524, §1,
 
 Section 2333, Pub. L. 88–210, title II, §203, as added Pub. L. 98–524, §1, Oct. 19, 1984, 98 Stat. 2453; amended Pub. L. 99–159, title VII, §705, Nov. 22, 1985, 99 Stat. 905, related to allocation within individual States of the funds available for vocational education services and activities for the handicapped.
 
-Section 2334, Pub. L. 88–210, title II, §204, as added Pub. L. 98–524, §1, Oct. 19, 1984, 98 Stat. 2454; amended Pub. L. 101–476, title IX, §901(a)(2), Oct. 30, 1990, 104 Stat. 1142, related to criteria for services and activities for the handicapped and for the disadvantaged.
+Section 2334, Pub. L. 88–210, title II, §204, as added Pub. L. 98–524, §1, Oct. 19, 1984, 98 Stat. 2454; amendedPub. L. 101–476, title IX, §901(a)(2), Oct. 30, 1990, 104 Stat. 1142, related to criteria for services and activities for the handicapped and for the disadvantaged.
 
 #### Effective Date
 

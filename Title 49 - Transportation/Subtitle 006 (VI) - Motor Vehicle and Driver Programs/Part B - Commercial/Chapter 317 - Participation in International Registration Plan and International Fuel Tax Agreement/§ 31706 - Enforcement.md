@@ -20,7 +20,9 @@ Relief.—Subject to section 1341 of title 28, the court, on a proper showing—
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

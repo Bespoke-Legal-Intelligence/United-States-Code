@@ -1,10 +1,10 @@
 ### §1361. Government property or contracts
 
-Whoever willfully injures or commits any depredation against any property of the United States, or of any department or agency thereof, or any property which has been or is being manufactured or constructed for the United States, or any department or agency thereof, or attempts to commit any of the foregoing offenses <sup>1</sup> shall be punished as follows:
+Whoever willfully injures or commits any depredation against any property of the United States, or of any department or agency thereof, or any property which has been or is being manufactured or constructed for the United States, or any department or agency thereof, or attempts to commit any of the foregoing offenses, shall be punished as follows:
 
-If the damage or attempted damage to such property exceeds the sum of $100, by a fine of <sup>2</sup> under this title or imprisonment for not more than ten years, or both; if the damage or attempted damage to such property does not exceed the sum of $100, by a fine of <sup>2</sup> under this title or by imprisonment for not more than one year, or both.
+If the damage or attempted damage to such property exceeds the sum of $1,000, by a fine under this title or imprisonment for not more than ten years, or both; if the damage or attempted damage to such property does not exceed the sum of $1,000, by a fine under this title or by imprisonment for not more than one year, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 764; Sept. 13, 1994, Pub. L. 103–322, title XXXII, §320903(d)(1), title XXXIII, §330016(1)(H), (L), 108 Stat. 2125, 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 764; Sept. 13, 1994, Pub. L. 103–322, title XXXII, §320903(d)(1), title XXXIII, §330016(1)(H), (L), 108 Stat. 2125, 2147; Oct. 11, 1996, Pub. L. 104–294, title VI, §§601(a)(3), 605(e), 606(a), 110 Stat. 3498, 3510, 3511.)
 
 #### Historical and Revision Notes
 
@@ -24,6 +24,10 @@ Minor changes were made in phraseology.
 
 #### Amendments
 
+1996—Pub. L. 104–294, §605(e), inserted comma after “foregoing offenses” in first par.
+
+Pub. L. 104–294, §§601(a)(3), 606(a), in second par., substituted “fine under this title” for “fine of under this title” in two places and “$1,000” for “$100” in two places.
+
 1994—Pub. L. 103–322, §320903(d)(1)(A), inserted “or attempts to commit any of the foregoing offenses” before “shall be punished” in first par.
 
 Pub. L. 103–322, §330016(1)(H), (L), in second par., substituted “under this title” for “not more than $10,000” before “or imprisonment for not more than ten years” and for “not more than $1,000” before “or by imprisonment for not more than one year”.
@@ -32,9 +36,5 @@ Pub. L. 103–322, §320903(d)(1)(B), inserted “or attempted damage” after �
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2339A, 3050, 3286 of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
-
-<i><sup>2</sup></i><i> So in original. The word “of” probably should not appear.</i>
+This section is referred to in sections 1956, 2332b, 2339A, 3050, 3286 of this title.
 

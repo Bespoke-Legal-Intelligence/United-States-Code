@@ -30,7 +30,7 @@ Section 305 of Pub. L. 99–198 provided that the amendment made by that section
 
 #### Effective Date of 1965 Amendment
 
-Amendment by Pub. L. 89–321 effective beginning with the crop planted for harvest in calendar year 1966, see section 501 of Pub. L. 89–321, set out as a note under section 1332 of this title.
+Amendment by Pub. L. 89–321 effective beginning with the crop planted for harvest in calendar year 1966,see section 501 of Pub. L. 89–321, set out as a note under section 1332 of this title.
 
 #### Effective Date of 1962 Amendment
 
@@ -44,23 +44,17 @@ Section 122(e) of Pub. L. 87–128 provided that the amendment made by that sect
 
 Amendment by act July 3, 1948, effective Jan. 1, 1950, see section 303 of act July 3, 1948, set out as a note under section 1301 of this title.
 
-#### Inapplicability to 1991 Through 1995 Crops of Wheat
+#### Inapplicability of Section
+
+Section inapplicable to 1996 through 2002 crops of loan commodities, peanuts, and sugar and inapplicable to milk during period beginning Apr. 4, 1996, and ending Dec. 31, 2002, see section 7301(a)(1)(A) of this title.
 
 Section inapplicable to 1991 through 1995 crops of wheat, see section 303 of Pub. L. 101–624, set out as a note under section 1331 of this title.
 
-#### Inapplicability to 1986 Crop of Wheat
-
 Section inapplicable to 1986 crop of wheat, see section 310(a) of Pub. L. 99–198, set out as a note under section 1332 of this title.
-
-#### Inapplicability to 1982 Through 1985 Crops of Wheat
 
 Section inapplicable to 1982 through 1985 crops of wheat, see section 303 of Pub. L. 97–98, set out as a note under section 1331 of this title.
 
-#### Inapplicability to 1978 Through 1981 Crops of Wheat
-
 Section inapplicable to 1978 through 1981 crops of wheat, see section 404 of Pub. L. 95–113, set out as a note under section 1331 of this title.
-
-#### Inapplicability to 1971 Through 1977 Crops of Wheat
 
 Pub. L. 91–524, title IV, §404(1), Nov. 30, 1970, 84 Stat. 1366, as amended by Pub. L. 93–86, §1(11), Aug. 10, 1973, 87 Stat. 229, provided that this section is not applicable to 1971 through 1977 crops of wheat.
 

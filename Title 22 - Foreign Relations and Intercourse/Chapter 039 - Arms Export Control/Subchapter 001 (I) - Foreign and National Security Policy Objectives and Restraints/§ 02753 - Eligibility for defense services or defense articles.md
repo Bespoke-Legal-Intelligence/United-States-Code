@@ -14,7 +14,25 @@ No defense article or defense service shall be sold or leased by the United Stat
 
 > In considering a request for approval of any transfer of any weapon, weapons system, munitions, aircraft, military boat, military vessel, or other implement of war to another country, the President shall not give his consent under paragraph (2) to the transfer unless the United States itself would transfer the defense article under consideration to that country. In addition, the President shall not give his consent under paragraph (2) to the transfer of any significant defense articles on the United States Munitions List unless the foreign country requesting consent to transfer agrees to demilitarize such defense articles prior to transfer, or the proposed recipient foreign country provides a commitment in writing to the United States Government that it will not transfer such defense articles, if not demilitarized, to any other foreign country or person without first obtaining the consent of the President. The President shall promptly submit a report to the Speaker of the House of Representatives and to the Committee on Foreign Relations of the Senate on the implementation of each agreement entered into pursuant to clause (2) of this subsection.
 
-#### (b) Repealed. Pub. L. 95–92, §15, Aug. 4, 1977, 91 Stat. 622
+#### (b) Necessity of consent by President
+
+The consent of the President under paragraph (2) of subsection (a) of this section or under paragraph (1) of section 2314(a) of this title (as it relates to subparagraph (B) of such paragraph) shall not be required for the transfer by a foreign country or international organization of defense articles sold by the United States under this chapter if—
+
+&emsp;(1) such articles constitute components incorporated into foreign defense articles;
+
+&emsp;(2) the recipient is the government of a member country of the North Atlantic Treaty Organization, the Government of Australia, the Government of Japan, or the Government of New Zealand;
+
+&emsp;(3) the recipient is not a country designated under section 2371 of this title;
+
+&emsp;(4) the United States-origin components are not—
+
+&emsp;&emsp;(A) significant military equipment (as defined in section 2794(9) of this title);
+
+&emsp;&emsp;(B) defense articles for which notification to Congress is required under section 2776(b) of this title; and
+
+&emsp;&emsp;(C) identified by regulation as Missile Technology Control Regime items; and
+
+&emsp;(5) the foreign country or international organization provides notification of the transfer of the defense articles to the United States Government not later than 30 days after the date of such transfer.
 
 #### (c) Termination of credits, guaranties or sales; report of violation by President; national security exception; conditions for reinstatement
 
@@ -50,11 +68,29 @@ No defense article or defense service shall be sold or leased by the United Stat
 
 > Any certification submitted to Congress pursuant to this paragraph shall be unclassified, except that information regarding the dollar value and number of articles or services proposed to be transferred may be classified if public disclosure thereof would be clearly detrimental to the security of the United States.
 
-(2)(A) Except as provided in subparagraph (B), unless the President states in the certification submitted pursuant to paragraph (1) of this subsection that an emergency exists which requiresthat consent to the proposed transfer become effective immediately in the national security interests of the United States, such consent shall not become effective until 30 calendar days after the date of such submission and such consent shall become effective then only if the Congress does not enact, within such 30-day period, a joint resolution, as provided for in sections 2776(b)(2) and 2776(b)(3) of this title prohibiting the proposed transfer.
+(2)(A) Except as provided in subparagraph (B), unless the President states in the certification submitted pursuant to paragraph (1) of this subsection that an emergency exists which requires that consent to the proposed transfer become effective immediately in the national security interests of the United States, such consent shall not become effective until 30 calendar days after the date of such submission and such consent shall become effective then only if the Congress does not enact, within such 30-day period, a joint resolution prohibiting the proposed transfer.
 
-(B) In the case of a proposed transfer to the North Atlantic Treaty Organization, or any member country of such Organization, Japan, Australia, or New Zealand, unless the President states in the certification submitted pursuant to paragraph (1) of this subsection that an emergency exists which requires that consent to the proposed transfer become effective immediately in the national security interests of the United States, such consent shall not become effective until fifteen calendar days after the date of such submission and such consent shall become effective then only if the Congress does not enact, within such fifteen-day period, a law prohibiting the proposed transfer.
+(B) In the case of a proposed transfer to the North Atlantic Treaty Organization, or anymember country of such Organization, Japan, Australia, or New Zealand, unless the President states in the certification submitted pursuant to paragraph (1) of this subsection that an emergency exists which requires that consent to the proposed transfer become effective immediately in the national security interests of the United States, such consent shall not become effective until fifteen calendar days after the date of such submission and such consent shall become effective then only if the Congress does not enact, within such fifteen-day period, a joint resolution prohibiting the proposed transfer.
 
-(3) The President may not give his consent to the transfer of any major defense equipment valued (in terms of its original acquisition cost) at $14,000,000 or more, or of any defense article or defense service valued (in terms of its original acquisition cost) at $50,000,000 or more, the export of which has been licensed or approved under section 2778 of this title, unless at least 30 calendar days before giving such consent the President submits to the Speaker of the House of Representatives and the Chairman of the Committee on Foreign Relations of the Senate a report containing the information specified in subparagraphs (A) through (E) of paragraph (1). Such consent shall become effective then only if the Congress does not enact, within a 30-day period, a joint resolution, as provided for in sections 2776(c)(2) and 2776(c)(3) of this title prohibiting the proposed transfer.
+(C) If the President states in his certification under subparagraph (A) or (B) that an emergency exists which requires that consent to the proposed transfer become effective immediately in the national security interests of the United States, thus waiving the requirements of that subparagraph, the President shall set forth in the certification a detailed justification for his determination, including a description of the emergency circumstances which necessitate immediate consent to the transfer and a discussion of the national security interests involved.
+
+(D)(i) Any joint resolution under this paragraph shall be considered in the Senate in accordance with the provisions of section 601(b) of the International Security Assistance and Arms Export Control Act of 1976.
+
+(ii) For the purpose of expediting the consideration and enactment of joint resolutions under this paragraph, a motion to proceed to the consideration of any such joint resolution after it has been reported by the appropriate committee shall be treated as highly privileged in the House of Representatives.
+
+(3)(A) The President may not give his consent to the transfer of any major defense equipment valued (in terms of its original acquisition cost) at $14,000,000 or more, or of any defense article or defense service valued (in terms of its original acquisition cost) at $50,000,000 or more, the export of which has been licensed or approved under section 2778 of this title, unless before giving such consent the President submits to the Speaker of the House of Representatives and the Chairman of the Committee on Foreign Relations of the Senate a certification containing the information specified in subparagraphs (A) through (E) of paragraph (1). Such certification shall be submitted—
+
+&emsp;(i) at least 15 calendar days before such consent is given in the case of a transfer to a country which is a member of the North Atlantic Treaty Organization or Australia, Japan, or New Zealand; and
+
+&emsp;(ii) at least 30 calendar days before such consent is given in the case of a transfer to any other country,
+
+> unless the President states in his certification that an emergency exists which requires that consent to the proposed transfer become effective immediately in the national security interests of the United States. If the President states in his certification that such an emergency exists (thus waiving the requirements of clause (i) or (ii), as the case may be, and of subparagraph (B)) the President shall set forth in the certification a detailed justification for his determination, including a description of the emergency circumstances which necessitate that consent to the proposed transfer become effective immediately and a discussion of the national security interests involved.
+
+(B) Consent to a transfer subject to subparagraph (A) shall become effective after the end of the 15-day or 30-day period specified in subparagraph (A)(i) or (ii), as the case may be, only if the Congress does not enact, within that period, a joint resolution prohibiting the proposed transfer.
+
+(C)(i) Any joint resolution under this paragraph shall be considered in the Senate in accordance with the provisions of section 601(b) of the International Security Assistance and Arms Export Control Act of 1976.
+
+(ii) For the purpose of expediting the consideration and enactment of joint resolutions under this paragraph, a motion to proceed to the consideration of any such joint resolution after it has been reported by the appropriate committee shall be treated as highly privileged in the House of Representatives.
 
 (4) This subsection shall not apply—
 
@@ -74,21 +110,35 @@ If the President receives any information that a transfer of any defense article
 
 #### (f) Sales and leases to countries in breach of nuclear nonproliferation agreements and treaties
 
-No sales or leases shall be made to any country that the President has determined is in material breach of its binding commitments to the United States under international treaties or agreements concerning the nonproliferation of nuclear explosive devices (as defined in section 830(4) of the Nuclear Proliferation Prevention Act of 1994) and unsafeguarded special nuclear material (as defined in section 830(8) of that Act).
+No sales or leases shall be made to any country that the President has determined is in material breach of its binding commitments to the United States under international treaties or agreements concerning the nonproliferation of nuclear explosive devices (as defined in section 6305(4) of this title) and unsafeguarded special nuclear material (as defined in section 6305(8) of this title).
 
-(Pub. L. 90–629, ch. 1, §3, Oct. 22, 1968, 82 Stat. 1322; Pub. L. 91–672, §1, Jan. 12, 1971, 84 Stat. 2053; Pub. L. 93–189, §25(2), Dec. 17, 1973, 87 Stat. 729; Pub. L. 93–559, §45(a)(1), Dec. 30, 1974, 88 Stat. 1813; Pub. L. 94–329, title II, §§203(a), 204(a), (b)(1), title III, §304(b), June 30, 1976, 90 Stat. 735, 736, 754, 755; Pub. L. 95–92, §§15–18, Aug. 4, 1977, 91 Stat. 622; Pub. L. 96–92, §11, Oct. 29, 1979, 93 Stat. 705; Pub. L. 96–533, title I, §101, Dec. 16, 1980, 94 Stat. 3131; Pub. L. 97–113, title I, §§101(a), 102(a), 109(b)(2), Dec. 29, 1981, 95 Stat. 1519, 1520, 1526; Pub. L. 99–83, title I, §115(b)(2), title V, §503(b), Aug. 8, 1985, 99 Stat. 201, 221; Pub. L. 99–145, title XI, §1102(a)(3), (5), Nov. 8, 1985, 99 Stat. 710; Pub. L. 99–247, §1(a), Feb. 12, 1986, 100 Stat. 9; Pub. L. 99–661, div. A, title XIII, §1342(e), Nov. 14, 1986, 100 Stat. 3991; Pub. L. 100–461, title V, §577, Oct. 1, 1988, 102 Stat. 2268–45; Pub. L. 101–222, §2(b), Dec. 12, 1989, 103 Stat. 1896; Pub. L. 103–236, title VIII, §822(a)(1), Apr. 30, 1994, 108 Stat. 511.)
-
-#### Amendment of Section
-
-<i>For termination of amendment by section 851 of Pub. L. 103–236, see Effective and Termination Dates of 1994 Amendment note below.</i>
+(Pub. L. 90–629, ch. 1, §3, Oct. 22, 1968, 82 Stat. 1322; Pub. L. 91–672, §1, Jan. 12, 1971, 84 Stat. 2053;Pub. L. 93–189, §25(2), Dec. 17, 1973, 87 Stat. 729; Pub. L. 93–559, §45(a)(1), Dec. 30, 1974, 88 Stat. 1813; Pub. L. 94–329, title II, §§203(a), 204(a), (b)(1), title III, §304(b), June 30, 1976, 90 Stat. 735, 736, 754, 755; Pub. L. 95–92, §§15–18, Aug. 4, 1977, 91 Stat. 622; Pub. L. 96–92, §11, Oct. 29, 1979, 93 Stat. 705; Pub. L. 96–533, title I, §101, Dec. 16, 1980, 94 Stat. 3131; Pub. L. 97–113, title I, §§101(a), 102(a), 109(b)(2), Dec. 29, 1981, 95 Stat. 1519, 1520, 1526; Pub. L. 99–83, title I, §115(b)(2), title V, §503(b), Aug. 8, 1985, 99 Stat. 201, 221; Pub. L. 99–145, title XI, §1102(a)(3), (5), Nov. 8, 1985, 99 Stat. 710; Pub. L. 99–247, §1(a), Feb. 12, 1986, 100 Stat. 9; Pub. L. 99–661, div. A, title XIII, §1342(e), Nov. 14, 1986, 100 Stat. 3991; Pub. L. 100–461, title V, §577, Oct. 1, 1988, 102 Stat. 2268–45; Pub. L. 101–222, §2(b), Dec. 12, 1989, 103 Stat. 1896; Pub. L. 103–236, title VIII, §822(a)(1), Apr. 30, 1994, 108 Stat. 511; Pub. L. 104–164, title I, §§141(a), (b), 142, July 21, 1996, 110 Stat. 1430, 1431, 1433.)
 
 #### References in Text
 
-Section 830 of the Nuclear Proliferation Prevention Act of 1994, referred to in subsec. (f), is section 830 of Pub. L. 103–236 which is set out in the Nuclear Proliferation Prevention; Effective and Termination Dates of 1994 Amendment note under section 3201 of this title.
+Section 601(b) of the International Security Assistance and Arms Export Control Act of 1976, referred to in subsec. (d)(2)(D)(i), (3)(C)(i), is section 601(b) of Pub. L. 94–329, June 30, 1976, 90 Stat. 729, which made provision for expedited procedures in the Senate, and is not classified to the Code.
 
 #### Amendments
 
-1994—Subsec. (f). Pub. L. 103–236 temporarily added subsec. (f). See Effective and Termination Dates of 1994 Amendment note below.
+1996—Subsec. (b). Pub. L. 104–164, §142, added subsec. (b).
+
+Subsec. (d)(2)(A). Pub. L. 104–164, §141(a)(1), struck out “, as provided for in sections 2776(b)(2) and 2776(b)(3) of this title” after “joint resolution”.
+
+Subsec. (d)(2)(B). Pub. L. 104–164, §141(a)(2), substituted “joint resolution prohibiting the proposed transfer” for “law prohibiting the proposed transfer”.
+
+Subsec. (d)(2)(C), (D). Pub. L. 104–164, §141(a)(3), added subpars. (C) and (D).
+
+Subsec. (d)(3)(A). Pub. L. 104–164, §141(b), designated existing provisions as subpar. (A), struck out “at least 30 calendar days” before “before giving such consent the President”, substituted “a certification” for “a report” after “Committee on Foreign Relations of the Senate”, and substituted “Such certification shall be submitted—
+
+&emsp;“(i) at least 15 calendar days before such consent is given in the case of a transfer to a country which is a member of the North Atlantic Treaty Organization or Australia, Japan, or New Zealand; and
+
+&emsp;“(ii) at least 30 calendar days before such consent is given in the case of a transfer to any other country,
+
+> unless the President states in his certification that an emergency exists which requires that consent to the proposed transfer become effective immediately in the national security interests of the United States. If the President states in his certification that such an emergency exists (thus waiving the requirements of clause (i) or (ii), as the case may be, and of subparagraph (B)) the President shall set forth in the certification a detailed justification for his determination, including a description of the emergency circumstances which necessitate that consent to the proposed transfer become effective immediately and a discussion of the national security interests involved.” for “Such consent shall become effective then only if the Congress does not enact, within a 30-day period, a joint resolution, as provided for in sections 2776(c)(2) and 2776(c)(3) of this title prohibiting the proposed transfer.”
+
+Subsec. (d)(3)(B), (C). Pub. L. 104–164, §141(b)(3), added subpars. (B) and (C).
+
+1994—Subsec. (f). Pub. L. 103–236 added subsec. (f).
 
 1989—Subsec. (f). Pub. L. 101–222 struck out subsec. (f) which directed termination of sales under this chapter to countries granting sanctuary to international terrorists. See section 2780 of this title.
 
@@ -116,7 +166,7 @@ Subsec. (d)(2). Pub. L. 97–113, §102(a), designated existing provisions as su
 
 Subsec. (d)(3). Pub. L. 97–113, §101(a)(2), substituted “transfer of any major defense equipment valued (in terms of its original acquisition cost) at $14,000,000 or more, or of any defense article or defense service valued (in terms of its original acquisition cost) at $50,000,000 or more” for “transfer to a third country of a defense article or a defense service valued (in terms of its original acquisition costs) at $25,000,000 or more, or of major defense equipment valued (in terms of its original acquisition costs) at $7,000,000 or more”.
 
-Subsec. (d)(4). Pub. L. 97–113, §101(a)(3), struck out subpar. (D), which provided that subsec. (d) of this section not apply to transfers to the North Atlantic Treaty Organization, any member country of such organization, Japan, Australia, or New Zealand, of any major defense equipment valued (in terms of its original acquisition cost) at less than $7,000,000 or of any defense article or related training or other defense service valued (in terms of its original acquisition cost) at less than $25,000,000.
+Subsec. (d)(4). Pub. L. 97–113, §101(a)(3), struck out subpar. (D), which provided that subsec. (d) of this section not apply to transfers to the North Atlantic Treaty Organization, any member country of such organization, Japan, Australia, or New Zealand, of any majordefense equipment valued (in terms of its original acquisition cost) at less than $7,000,000 or of any defense article or related training or other defense service valued (in terms of its original acquisition cost) at less than $25,000,000.
 
 1980—Subsec. (d)(1). Pub. L. 96–533, §101(a)(2)(A), substituted “pursuant to this paragraph” for “pursuant to this subsection”.
 
@@ -150,9 +200,13 @@ Subsecs. (c), (d). Pub. L. 93–189, §25(2)(D), added subsecs. (c) and (d).
 
 1971—Subsec. (b). Pub. L. 91–672 extended the retaliatory measures against countries seizing, taking custody or fining American vessels for fishing outside of twelve miles of their coast, to sales, credits, guaranties, and laid down a period of one year as the extent of such prohibition, and added assurances of future restraint received from such countries as an additional ground for waiver, and provided exception that the prohibition will not apply in cases governed by international agreements to which the United States is a party.
 
-#### Effective and Termination Dates of 1994 Amendment
+#### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 103–236 effective 60 days after Apr. 30, 1994, and ceases to be effective and is repealed on date of enactment of first Foreign Relations Authorization Act enacted after Apr. 30, 1994, and any provision repealed by that amendment shall be reenacted, see sections 831 and 851 of Pub. L. 103–236, set out in the Nuclear Proliferation Prevention; Effective and Termination Dates of 1994 Amendment note under section 3201 of this title.
+Section 141(f) of Pub. L. 104–164 provided that: “The amendments made by this section \[amending this section and sections 2776, 2796a, and 2796b of this title\] apply with respect to certifications required to be submitted on or after the date of the enactment of this Act \[July 21, 1996\].”
+
+#### Effective Date of 1994 Amendment
+
+Amendment by Pub. L. 103–236 effective 60 days after Apr. 30, 1994, see section 831 of Pub. L. 103–236, set out as an Effective Date note under section 6301 of this title.
 
 #### Effective Date of 1985 Amendment
 

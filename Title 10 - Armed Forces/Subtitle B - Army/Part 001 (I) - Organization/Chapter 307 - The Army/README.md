@@ -10,7 +10,7 @@
 | \[3066. | Repealed.\] |
 | [3067\.](%C2%A7%2003067%20-%20Army%20Medical%20Department.md) | Army Medical Department. |
 | [3068\.](%C2%A7%2003068%20-%20Medical%20Service%20Corps%20organization%3B%20Chief%20and%20assistant%20chiefs.md) | Medical Service Corps: organization; Chief and assistant chiefs. |
-| [3069\.](%C2%A7%2003069%20-%20Army%20Nurse%20Corps%20composition%3B%20Chief%20and%20assistant%20chief%3B%20appointment.md) | Army Nurse Corps: composition; chief and assistant chief; appointment. |
+| [3069\.](%C2%A7%2003069%20-%20Army%20Nurse%20Corps%20composition%3B%20Chief%20and%20assistant%20chief%3B%20appointment%3B%20grade.md) | Army Nurse Corps: composition; Chief and assistant chief; appointment; grade. |
 | [3070\.](%C2%A7%2003070%20-%20Army%20Medical%20Specialist%20Corps%20organization%3B%20Chief%20and%20assistant%20chiefs.md) | Army Medical Specialist Corps: organization; Chief and assistant chiefs. |
 | \[3071. | Repealed.\] |
 | [3072\.](%C2%A7%2003072%20-%20Judge%20Advocate%20General%27s%20Corps.md) | Judge Advocate General's Corps. |
@@ -25,7 +25,9 @@
 
 #### Amendments
 
-1994—Pub. L. 103–337, div. A, title X, §1070(a)(16), title XVI, §1672(b)(1), Oct. 5, 1994, 108 Stat. 2856, 3015, struck out items 3076 “Army Reserve: composition”, 3077 “Army National Guard of United States: composition”, 3078 “Army National Guard: when a component of Army”, 3079 “Army National Guard of United States: status when not in Federal service”, and 3080 “Army National Guard of the United States: authority of officers with respect to Federal status”, struck out “3082.” before “Army” in item 3082, and then struck out item 3082 “Army National Guard combat readiness reform: annual report”.
+1996—Pub. L. 104–201, div. A, title V, §502(c)(1), Sept. 23, 1996, 110 Stat. 2511, substituted “Chief and assistant chief; appointment; grade” for “chief and assistant chief; appointment” in item 3069.
+
+1994—Pub. L. 103–337, div. A, title X, §1070(a)(16), title XVI, §1672(b)(1), Oct. 5, 1994, 108 Stat. 2856, 3015, struck out items 3076 “Army Reserve: composition”, 3077 “Army National Guard of United States: composition”, 3078 “Army National Guard: when a component of Army”, 3079 “Army National Guard of United States: status when not in Federal service”, and 3080 “Army National Guard of the United States: authority of officers with respect to Federal status”, struck out “3082.”before “Army” in item 3082, and then struck out item 3082 “Army National Guard combat readiness reform: annual report”.
 
 1993—Pub. L. 103–160, div. A, title V, §521(b), Nov. 30, 1993, 107 Stat. 1655, added item 3082.
 
@@ -54,7 +56,7 @@
 - [&sect; 03066 - Repealed. Pub. L. 96&#8211;513, title II, &sect;201, Dec. 12, 1980, 94 Stat. 2878](%C2%A7%2003066%20-%20Repealed.%20Pub.%20L.%2096%E2%80%93513%2C%20title%20II%2C%20%C2%A7201%2C%20Dec.%2012%2C%201980%2C%2094%20Stat.%202878.md)
 - [&sect; 03067 - Army Medical Department](%C2%A7%2003067%20-%20Army%20Medical%20Department.md)
 - [&sect; 03068 - Medical Service Corps organization; Chief and assistant chiefs](%C2%A7%2003068%20-%20Medical%20Service%20Corps%20organization%3B%20Chief%20and%20assistant%20chiefs.md)
-- [&sect; 03069 - Army Nurse Corps composition; Chief and assistant chief; appointment](%C2%A7%2003069%20-%20Army%20Nurse%20Corps%20composition%3B%20Chief%20and%20assistant%20chief%3B%20appointment.md)
+- [&sect; 03069 - Army Nurse Corps composition; Chief and assistant chief; appointment; grade](%C2%A7%2003069%20-%20Army%20Nurse%20Corps%20composition%3B%20Chief%20and%20assistant%20chief%3B%20appointment%3B%20grade.md)
 - [&sect; 03070 - Army Medical Specialist Corps organization; Chief and assistant chiefs](%C2%A7%2003070%20-%20Army%20Medical%20Specialist%20Corps%20organization%3B%20Chief%20and%20assistant%20chiefs.md)
 - [&sect; 03071 - Repealed. Pub. L. 95&#8211;485, title VIII, &sect;820(b), Oct. 20, 1978, 92 Stat. 1627](%C2%A7%2003071%20-%20Repealed.%20Pub.%20L.%2095%E2%80%93485%2C%20title%20VIII%2C%20%C2%A7820%28b%29%2C%20Oct.%2020%2C%201978%2C%2092%20Stat.%201627.md)
 - [&sect; 03072 - Judge Advocate General's Corps](%C2%A7%2003072%20-%20Judge%20Advocate%20General%27s%20Corps.md)

@@ -54,7 +54,7 @@ The information required to be furnished by sections 6033, 6034, and 6058, toget
 
 &emsp;&emsp;(B) notify the appropriate State officer of the mailing of a notice of deficiency of tax imposed under section 507 or chapter 41 or 42, and
 
-&emsp;&emsp;(C) at the request of such appropriate State officer, make available for inspection and copying such returns, filed statements,records, reports, and other information, relating to a determination under subparagraph (A) or (B) as are relevant to any determination under State law.
+&emsp;&emsp;(C) at the request of such appropriate State officer, make available for inspection and copying such returns, filed statements, records, reports, and other information, relating to a determination under subparagraph (A) or (B) as are relevant to any determination under State law.
 
 #### (2) Appropriate State officer
 
@@ -70,7 +70,13 @@ The annual return required to be filed under section 6033 (relating to returns b
 
 #### (A) In general
 
-&emsp;&emsp;During the 3-year period beginning on the filing date, a copy of the annual return filed under section 6033 (relating to returns by exempt organizations) by any organization to which this paragraph applies shall be made available by such organization for inspection during regular business hours by any individual at the principal office of the organization and, if such organization regularly maintains 1 or more regional or district offices having 3 or more employees, at each such regional or district office.
+&emsp;&emsp;During the 3-year period beginning on the filing date—
+
+&emsp;&emsp;&emsp;(i) a copy of the annual return filed under section 6033 (relating to returns by exempt organizations) by any organization to which this paragraph applies shall be made available by such organization for inspection during regular business hours by any individual at the principal office of such organization and, if such organization regularly maintains 1 or more regional or district offices having 3 or more employees, at each such regional or district office, and
+
+&emsp;&emsp;&emsp;(ii) upon request of an individual made at such principal office or such a regional or district office, a copy of such annual return shall be provided to such individual without charge other than a reasonable fee for any reproduction and mailing costs.
+
+> &emsp;&emsp;The request described in clause (ii) must be made in person or in writing. If the request under clause (ii) is made in person, such copy shall be provided immediately and, if made in writing, shall be provided within 30 days.
 
 #### (B) Organizations to which paragraph applies
 
@@ -98,19 +104,29 @@ The annual return required to be filed under section 6033 (relating to returns b
 
 &emsp;&emsp;&emsp;(ii) such organization filed an application for recognition of exemption under section 501,
 
-> &emsp;&emsp;a copy of such application (together with a copy of any papers submitted in support of such application and any letter or other document issued by the Internal Revenue Service with respect to such application) shall be made available by the organization for inspection during regular business hours by any individual at the principal office of the organization and, if the organization regularly maintains 1 or more regional or district offices having 3 or more employees, at each such regional or district office.
+> &emsp;&emsp;a copy of such application (together with a copy of any papers submitted in support of such application and any letter or other document issued by the Internal Revenue Service with respect to such application) shall be made available by the organization for inspection during regular business hours by any individual at the principal office of the organization and, if the organization regularly maintains 1 or more regional or district offices having 3 or more employees, at each such regional or district office (and, upon request of an individual made at such principal office or such a regional or district office, a copy of the material requested to be available for inspection under this subparagraph shall be provided (in accordance with the last sentence of paragraph (1)(A)) to such individual without charge other than reasonable fee for any reproduction and mailing costs).
 
 #### (B) Nondisclosure of certain information
 
 &emsp;&emsp;Subparagraph (A) shall not require the disclosure of any information if the Secretary withheld such information from public inspection under subsection (a)(1)(D).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 755; Sept. 2, 1958, Pub. L. 85–866, title I, §75(a), 72 Stat. 1660; Dec. 30, 1969, Pub. L. 91–172, title I, §101(e)(1)–(3), (j)(36), 83 Stat. 523, 530; Sept. 2, 1974, Pub. L. 93–406, title II, §1022(g)(1)–(3), 88 Stat. 940, 941; Oct. 4, 1976, Pub. L. 94–455, title XII, §1201(d)(1), title XIII, §1307(d)(2)(B), title XIX, §1906(b)(13)(A), 90 Stat. 1667, 1727, 1834; Feb. 10, 1978, Pub. L. 95–227, §4(e), 92 Stat. 23; Oct. 20, 1978, Pub. L. 95–488, §1(d),  92  Stat.  1638;  Nov.  6,  1978,  Pub.  L. 95–600, title VII, §703(m), 92 Stat. 2943; Dec. 28, 1980, Pub. L. 96–603, §1(b), (d)(3), 94 Stat. 3503, 3504; July 18, 1984, Pub. L. 98–369, div. A, title III, §306(b), title IV, §491(d)(49), 98 Stat. 784, 852; Dec. 22, 1987, Pub. L. 100–203, title X, §10702(a), 101 Stat. 1330–459.)
+#### (3) Limitation
+
+&emsp;Paragraph (1)(A)(ii) (and the corresponding provision of paragraph (2)) shall not apply to any request if, in accordance with regulations promulgated by the Secretary, the organization has made the requested documents widely available, or, the Secretary determines, upon application by an organization, that such request is part of a harassment campaign and that compliance with such request is not in the public interest.
+
+(Aug. 16, 1954, ch. 736, 68A Stat. 755; Sept. 2, 1958, Pub. L. 85–866, title I, §75(a), 72 Stat. 1660; Dec. 30, 1969, Pub. L. 91–172, title I, §101(e)(1)–(3), (j)(36), 83 Stat. 523, 530; Sept. 2, 1974, Pub. L. 93–406, title II, §1022(g)(1)–(3), 88 Stat. 940, 941; Oct. 4, 1976, Pub. L. 94–455, title XII, §1201(d)(1), title XIII, §1307(d)(2)(B), title XIX, §1906(b)(13)(A), 90 Stat. 1667, 1727, 1834; Feb. 10, 1978, Pub. L. 95–227, §4(e), 92 Stat. 23; Oct. 20, 1978, Pub. L. 95–488, §1(d),  92  Stat.  1638;  Nov.  6,  1978,  Pub.  L. 95–600, title VII, §703(m), 92 Stat. 2943; Dec. 28, 1980, Pub. L. 96–603, §1(b), (d)(3), 94 Stat. 3503, 3504; July 18, 1984, Pub. L. 98–369, div. A, title III, §306(b), title IV, §491(d)(49), 98 Stat. 784, 852; Dec. 22, 1987, Pub. L. 100–203, title X, §10702(a), 101 Stat. 1330–459; July 30, 1996, Pub. L. 104–168, title XIII, §1313(a), 110 Stat. 1479.)
 
 #### References in Text
 
 The date of enactment of this subparagraph, referred to in subsec. (a)(1)(A), is Sept. 2, 1958.
 
 #### Amendments
+
+1996—Subsec. (e)(1)(A). Pub. L. 104–168, §1313(a)(1), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “During the 3-year period beginning on the filing date, a copy of the annual return filed under section 6033 (relating to returns by exempt organizations) by any organization to which this paragraph applies shall be made available by such organization for inspection during regular business hours by any individual at the principal office of the organization and, if such organization regularly maintains 1 or more regional or district offices having 3 or more employees, at each such regional or district office.”
+
+Subsec. (e)(2)(A). Pub. L. 104–168, §1313(a)(2), inserted before the period at end “(and, upon request of an individual made at such principal office or such a regional or district office, a copy of the material requested to be available for inspection under this subparagraph shall be provided (in accordance with the last sentence of paragraph (1)(A)) to such individual without charge other than reasonable fee for any reproduction and mailing costs)”.
+
+Subsec. (e)(3). Pub. L. 104–168, §1313(a)(3), added par. (3).
 
 1987—Subsec. (e). Pub. L. 100–203 added subsec. (e).
 
@@ -149,6 +165,10 @@ Subsec. (b). Pub. L. 93–406, §1022(g)(3), which purported to amend subsec. (b
 Subsecs. (c), (d). Pub. L. 91–172, §101(e)(2), (3), added subsecs. (c) and (d).
 
 1958—Pub. L. 85–866 designated existing provisions as subsec. (b) and added subsec. (a).
+
+#### Effective Date of 1996 Amendment
+
+Section 1313(c) of Pub. L. 104–168 provided that: “The amendments made by this section \[amending this section and section 6685 of this title\] shall apply to requests made on or after the 60th day after the Secretary of the Treasury first issues the regulations referred to section 6104(e)(3) of the Internal Revenue Code of 1986 (as added by subsection (a)(3)).”
 
 #### Effective Date of 1987 Amendment
 

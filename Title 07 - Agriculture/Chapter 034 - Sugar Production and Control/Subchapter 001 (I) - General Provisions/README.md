@@ -1,5 +1,9 @@
 ### SUBCHAPTER I—GENERAL PROVISIONS
 
+#### Subchapter Referred to in Other Sections
+
+This subchapter is referred to in section 7301 of this title.
+
 
 ---
 
@@ -15,7 +19,7 @@
 - [&sect; 01424 - Utilization of services and facilities of Commodity Credit Corporation](%C2%A7%2001424%20-%20Utilization%20of%20services%20and%20facilities%20of%20Commodity%20Credit%20Corporation.md)
 - [&sect; 01425 - Producer rights and liabilities](%C2%A7%2001425%20-%20Producer%20rights%20and%20liabilities.md)
 - [&sect; 01425a - Producers of honey; loan obligations and liabilities](%C2%A7%2001425a%20-%20Producers%20of%20honey%3B%20loan%20obligations%20and%20liabilities.md)
-- [&sect; 01426 - Advance announcement of price support levels](%C2%A7%2001426%20-%20Advance%20announcement%20of%20price%20support%20levels.md)
+- [&sect; 01426 - Repealed. Pub. L. 104&#8211;127, title I, &sect;171(b)(2)(I), Apr. 4, 1996, 110 Stat. 938](%C2%A7%2001426%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93127%2C%20title%20I%2C%20%C2%A7171%28b%29%282%29%28I%29%2C%20Apr.%204%2C%201996%2C%20110%20Stat.%20938.md)
 - [&sect; 01427 - Commodity Credit Corporation sales price restrictions](%C2%A7%2001427%20-%20Commodity%20Credit%20Corporation%20sales%20price%20restrictions.md)
 - [&sect; 01427&#8211;1 - Quality requirements for Commodity Credit Corporation owned grain](%C2%A7%2001427%E2%80%931%20-%20Quality%20requirements%20for%20Commodity%20Credit%20Corporation%20owned%20grain.md)
 - [&sect; 01427a - Reserve inventories for alleviation of distress of natural disaster](%C2%A7%2001427a%20-%20Reserve%20inventories%20for%20alleviation%20of%20distress%20of%20natural%20disaster.md)
@@ -36,6 +40,6 @@
 - [&sect; 01433c&#8211;1 - Advance recourse loans](%C2%A7%2001433c%E2%80%931%20-%20Advance%20recourse%20loans.md)
 - [&sect; 01433d - Omitted](%C2%A7%2001433d%20-%20Omitted.md)
 - [&sect; 01433e - Repealed. Pub. L. 103&#8211;354, title II, &sect;281(b), Oct. 13, 1994, 108 Stat. 3233](%C2%A7%2001433e%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93354%2C%20title%20II%2C%20%C2%A7281%28b%29%2C%20Oct.%2013%2C%201994%2C%20108%20Stat.%203233.md)
-- [&sect; 01433f - Crop insurance requirement](%C2%A7%2001433f%20-%20Crop%20insurance%20requirement.md)
+- [&sect; 01433f - Repealed. Pub. L. 104&#8211;127, title I, &sect;171(b)(2)(I), Apr. 4, 1996, 110 Stat. 938](%C2%A7%2001433f%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93127%2C%20title%20I%2C%20%C2%A7171%28b%29%282%29%28I%29%2C%20Apr.%204%2C%201996%2C%20110%20Stat.%20938.md)
 - [&sect; 01434 - Encouragement of production of crops of which United States is a net importer and for which price support programs are not in effect&#8230;](%C2%A7%2001434%20-%20Encouragement%20of%20production%20of%20crops%20of%20which%20United%20States%20is%20a%20net%20importer%20and%20for%20which%20price%20support%20programs%20are%20not%20in%20effect%E2%80%A6.md)
 - [&sect; 01435 - Production of commodities for conversion into alcohol or hydrocarbons for use as motor fuels or other fuels; terms and conditions&#8230;](%C2%A7%2001435%20-%20Production%20of%20commodities%20for%20conversion%20into%20alcohol%20or%20hydrocarbons%20for%20use%20as%20motor%20fuels%20or%20other%20fuels%3B%20terms%20and%20conditions%E2%80%A6.md)

@@ -16,7 +16,9 @@ Status of Advisory Committee Members.—A member of an advisory committee appoin
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

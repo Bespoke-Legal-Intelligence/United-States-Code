@@ -42,11 +42,13 @@ No standard prescribed under subsection (a) of this section shall take effect be
 
 #### (e) Nondiscrimination requirement
 
-The standards established under subsection (a) of this section shall not discriminate against small originators or small agricultural mortgage loans that are at least $50,000.
+The standards established under subsection (a) of this section shall not discriminate against small originators or small agricultural mortgage loans that are at least $50,000. The Board shall promote and encourage the inclusion of qualified loans for small farms and family farmers in the agricultural mortgage secondary market.
 
-(Pub. L. 92–181, title VIII, §8.8, as added Pub. L. 100–233, title VII, §702, Jan. 6, 1988, 101 Stat. 1700; amended Pub. L. 100–399, title VI, §601(i), Aug. 17, 1988, 102 Stat. 1005.)
+(Pub. L. 92–181, title VIII, §8.8, as added Pub. L. 100–233, title VII, §702, Jan. 6, 1988, 101 Stat. 1700; amended Pub. L. 100–399, title VI, §601(i), Aug. 17, 1988, 102 Stat. 1005; Pub. L. 104–105, title I, §110, Feb. 10, 1996, 110 Stat. 165.)
 
 #### Amendments
+
+1996—Subsec. (e). Pub. L. 104–105 inserted at end “The Board shall promote and encourage the inclusion of qualified loans for small farms and family farmers in the agricultural mortgage secondary market.”
 
 1988—Subsec. (a). Pub. L. 100–399 inserted “permanent” after “appointment and election of the”.
 
@@ -56,5 +58,5 @@ Amendment by Pub. L. 100–399 effective as if enacted immediately after enactme
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 2279aa of this title.
+This section is referred to in sections 2279aa, 2279aa–6 of this title.
 

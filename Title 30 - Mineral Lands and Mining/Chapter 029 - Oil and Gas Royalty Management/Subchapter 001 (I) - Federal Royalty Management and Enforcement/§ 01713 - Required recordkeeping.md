@@ -6,7 +6,11 @@ A lessee, operator, or other person directly involved in developing, producing, 
 
 #### (b) Length of time maintenance required
 
-Records required by the Secretary with respect to oil and gas leases from Federal or Indian lands or the Outer Continental Shelf shall be maintained for 6 years after the records are generated unless the Secretary notifies the record holder that he has initiated an audit or investigation involving such records and that such records must be maintained for a longer period. In any case when an audit or investigation is underway, records shall be maintained until the Secretary releases the record holder of the obligation to maintain such records.
+Records required by the Secretary with respect to oil and gas leases from Federal or Indian lands or the Outer Continental Shelf shall be maintained for 6 years after the records are generated unless the Secretary notifies the record holder that he has initiated an audit or investigation involving such records and thatsuch records must be maintained for a longer period. In any case when an audit or investigation is underway, records shall be maintained until the Secretary releases the record holder of the obligation to maintain such records.
 
 (Pub. L. 97–451, title I, §103, Jan. 12, 1983, 96 Stat. 2451.)
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 1724 of this title.
 

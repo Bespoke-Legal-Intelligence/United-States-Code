@@ -6,7 +6,9 @@ The purpose of this chapter is to reduce economic loss resulting from damage to 
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

@@ -10,7 +10,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 5 U.S.C. 4.
 
@@ -26,7 +28,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-<b>1988</b>—Pub. L. 100–398 inserted “agency” after “Executive” in section catchline and substituted “Executive agency (other than the General Accounting Office)” for “Executive department” in text.
+1988—Pub. L. 100–398 inserted “agency” after “Executive” in section catchline and substituted “Executive agency (other than the General Accounting Office)” for “Executive department” in text.
 
 #### Cross References
 

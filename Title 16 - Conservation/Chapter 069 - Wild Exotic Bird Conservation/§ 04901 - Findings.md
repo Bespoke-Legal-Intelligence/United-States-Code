@@ -20,7 +20,7 @@ The Congress finds the following:
 
 &emsp;(9) The Convention recognizes that trade in species that are threatened with extinction, or that may become so, should be subject to strict regulation.
 
-&emsp;(10) The necessary population assessments, monitoring programs, and appropriate remedial measures for species listed in Appendix II of the Convention are not always being undertaken in order to maintain species at levelsabove which they might become eligible for inclusion in Appendix I of the Convention.
+&emsp;(10) The necessary population assessments, monitoring programs, and appropriate remedial measures for species listed in Appendix II of the Convention are not always being undertaken in order to maintain species at levels above which they might become eligible for inclusion in Appendix I of the Convention.
 
 &emsp;(11) Resolutions adopted pursuant to the Convention recommend that the Parties to the Convention take appropriate measures regarding trade in species of exotic birds that have significantly high mortality rates in transport, including suspension of trade for commercial purposes between Parties when appropriate.
 

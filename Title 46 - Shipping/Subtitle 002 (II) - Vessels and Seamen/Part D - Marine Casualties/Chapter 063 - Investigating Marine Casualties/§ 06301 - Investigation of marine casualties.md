@@ -34,5 +34,5 @@ Section 2(h) of Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 599, provided that: “
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 6307 of this title; title 49 section 1133.
+This section is referred to in sections 6307, 6308 of this title; title 49 section 1133.
 

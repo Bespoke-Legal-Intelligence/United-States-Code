@@ -10,11 +10,13 @@ It is the purpose of this chapter to assist the Nation and the States in augment
 
 &emsp;(4) promote the interest of State and local governments as well as private industry in research and the development of technology that will reclaim waste water and to convert saline and other impaired waters to waters suitable for municipal, industrial, agricultural, recreational, and other beneficial uses;
 
-&emsp;(5) to <sup>1</sup> promote more effective coordination of the Nation's water resources research program; and
+&emsp;(5) promote more effective coordination of the Nation's water resources research program;
 
-&emsp;(6) promote the development of a cadre of trained research scientists, engineers, and technicians for future water resources problems.
+&emsp;(6) promote the development of a cadre of trained research scientists, engineers, and technicians for future water resources problems; and
 
-(Pub. L. 98–242, title I, §103, Mar. 22, 1984, 98 Stat. 97; Pub. L. 101–397, §1(a), Sept. 28, 1990, 104 Stat. 852.)
+&emsp;(7) encourage long-term planning and research to meet future water management, quality, and supply challenges.
+
+(Pub. L. 98–242, title I, §103, Mar. 22, 1984, 98 Stat. 97; Pub. L. 101–397, §1(a), Sept. 28, 1990, 104 Stat. 852; Pub. L. 104–147, §2, May 24, 1996, 110 Stat. 1375.)
 
 #### References in Text
 
@@ -22,7 +24,11 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 #### Amendments
 
-1990—Par. (5). Pub. L. 101–397 substituted “to promote more effective coordination of” for “coordinate more effectively”.
+1996—Par. (5). Pub. L. 104–147, §2(1), struck out “to” before “promote” and “and” after “program;”.
 
-<i><sup>1</sup></i><i> So in original. The word “to” probably should not appear.</i>
+Par. (6). Pub. L. 104–147, §2(2), substituted “; and” for period at end.
+
+Par. (7). Pub. L. 104–147, §2(3), added par. (7).
+
+1990—Par. (5). Pub. L. 101–397 substituted “to promote more effective coordination of” for “coordinate more effectively”.
 

@@ -4,11 +4,7 @@ The President is hereby authorized to accept membership for the United States in
 
 (July 30, 1946, ch. 700, §1, 60 Stat. 712.)
 
-#### Constitution of the United Nations Educational,
-
-Scientific,
-
-and Cultural Organization
+#### Constitution of the United Nations Educational, Scientific, and Cultural Organization
 
 I74the governments of the states parties to this constitution on behalf of their peoples declare
 
@@ -28,7 +24,7 @@ I74the governments of the states parties to this constitution on behalf of their
 
 #### in consequence whereof
 
-> they do hereby create the United Nations Educational, Scientific and Cultural Organisation for the purpose of advancing, through the educational and scientific and cultural relations of the peoples of the world, the objectives of international peace and of the common welfare of mankind for which the United Nations Organisation was established and which its Charter proclaims.
+> they do hereby create the United Nations Educational, Scientific and Cultural Organisation for the purpose ofadvancing, through the educational and scientific and cultural relations of the peoples of the world, the objectives of international peace and of the common welfare of mankind for which the United Nations Organisation was established and which its Charter proclaims.
 
 #### article i.
 
@@ -152,7 +148,7 @@ The Organisation shall include a General Conference, an Executive Board and a Se
 
 2\. The Director-General shall be nominated by the Executive Board and appointed by the General Conference for a period of six years, under such conditions as the Conference may approve, and shall be eligible for re-appointment. He shall be the chief administrative officer of the Organisation.
 
-3\. The Director-General, or a deputy designated by him, shall participate, without the right to vote, in all meetings of the General Conference, of the Executive Board, and of the committees of the Organisation. Heshall formulate proposals for appropriate action by the Conference and the Board.
+3\. The Director-General, or a deputy designated by him, shall participate, without the right to vote, in all meetings of the General Conference, of the Executive Board, and of the committees of the Organisation. He shall formulate proposals for appropriate action by the Conference and the Board.
 
 4\. The Director-General shall appoint the staff of the Secretariat in accordance with staff regulations to be approved by the General Conference. Subject to the paramount consideration of securing the highest standards of integrity, efficiency and technical competence, appointment to the staff shall be on as wide a geographical basis as possible.
 

@@ -68,9 +68,9 @@ In the case of a hospital that has a hospital emergency department, if any indiv
 
 &emsp;&emsp;(ii) misrepresents an individual's condition or other information, including a hospital's obligations under this section,
 
-> &emsp;is subject to a civil money penalty of not more than $50,000 for each such violation and, if the violation is is <sup>2</sup> gross and flagrant or is repeated, to exclusion from participation in this subchapter and State health care programs. The provisions of section 1320a–7a of this title\(other than the first and second sentences of subsection (a) and subsection (b)) shall apply to a civil money penalty and exclusion under this subparagraph in the same manner as such provisions apply with respect to a penalty, exclusion, or proceeding under section 1320a–7a(a) of this title.
+> &emsp;is subject to a civil money penalty of not more than $50,000 for each such violation and, if the violation is is <sup>2</sup> gross and flagrant or is repeated, to exclusion from participation in this subchapter and State health care programs. The provisions of section 1320a–7a of this title (other than the first and second sentences of subsection (a) and subsection (b)) shall apply to a civil money penalty and exclusion under this subparagraph in the same manner as such provisions apply with respect to a penalty, exclusion, or proceeding under section 1320a–7a(a) of this title.
 
-&emsp;(C) If, after an initial examination, a physician determines that the individual requires the services of a physician listed by the hospital on its list of on-call physicians (required to be maintained under section 1395cc(a)(1)(I) of this title) and notifies the on-call physician and the on-call physician fails or refuses to appear within a reasonable period of time, and the physician orders the transfer of the individual because the physician determines that without the services of the on-call physician the benefits of transfer outweigh the risks of transfer, the physician authorizing the transfer shall not be subject to a penalty under subparagraph (B). However, the previous sentence shall not apply to the hospital or to the on-call physician who failed or refused to appear.
+&emsp;(C) If, after an initial examination, a physician determines that the individual requires the services of a physician listed by the hospital on its list of on-call physicians (requiredto be maintained under section 1395cc(a)(1)(I) of this title) and notifies the on-call physician and the on-call physician fails or refuses to appear within a reasonable period of time, and the physician orders the transfer of the individual because the physician determines that without the services of the on-call physician the benefits of transfer outweigh the risks of transfer, the physician authorizing the transfer shall not be subject to a penalty under subparagraph (B). However, the previous sentence shall not apply to the hospital or to the on-call physician who failed or refused to appear.
 
 #### (2) Civil enforcement
 
@@ -126,7 +126,7 @@ The provisions of this section do not preempt any State or local law requirement
 
 #### (g) Nondiscrimination
 
-A participating hospital that has specialized capabilities or facilities (such as burn units,shock-trauma units, neonatal intensive care units, or (with respect to rural areas) regional referral centers as identified by the Secretary in regulation) shall not refuse to accept an appropriate transfer of an individual who requires such specialized capabilities or facilities if the hospital has the capacity to treat the individual.
+A participating hospital that has specialized capabilities or facilities (such as burn units, shock-trauma units, neonatal intensive care units, or (with respect to rural areas) regional referral centers as identified by the Secretary in regulation) shall not refuse to accept an appropriate transfer of an individual who requires such specialized capabilities or facilities if the hospital has the capacity to treat the individual.
 
 #### (h) No delay in examination or treatment
 
@@ -186,7 +186,7 @@ Subsec. (b)(3). Pub. L. 101–239, §6211(b)(2), inserted “and informs the ind
 
 Subsec. (c). Pub. L. 101–239, §6211(g)(1)(A), substituted “individual” for “patient” in heading.
 
-Subsec. (c)(1). Pub. L. 101–239, §6211(c)(4), (g)(1)(B), (h)(2)(E), in introductory provisions, substituted “an individual” for “a patient”, “subsection (e)(3)(B) of thissection)” for “subsection (e)(4)(B) of this section) or is in active labor”, and “the individual” for “the patient”, and inserted at end “A certification described in clause (ii) or (iii) of subparagraph (A) shall include a summary of the risks and benefits upon which the certification is based.”
+Subsec. (c)(1). Pub. L. 101–239, §6211(c)(4), (g)(1)(B), (h)(2)(E), in introductory provisions, substituted “an individual” for “a patient”, “subsection (e)(3)(B) of this section)” for “subsection (e)(4)(B) of this section) or is in active labor”, and “the individual” for “the patient”, and inserted at end “A certification described in clause (ii) or (iii) of subparagraph (A) shall include a summary of the risks and benefits upon which the certification is based.”
 
 Subsec. (c)(1)(A)(i). Pub. L. 101–239, §6211(c)(1), (g)(1)(B), substituted “the individual” for “the patient”, “the individual's behalf” for “the patient's behalf”, and “after being informed of the hospital's obligations under this section and of the risk of transfer, in writing requests transfer to another medical facility” for “requests that the transfer be effected”.
 
@@ -256,7 +256,7 @@ Subsec. (e)(3). Pub. L. 99–514 struck out “and has, under the agreement, obl
 
 Amendment by section 4008(b)(1)–(3)(A) of Pub. L. 101–508 applicable to actions occurring on or after the first day of the sixth month beginning after Nov. 5, 1990, see section 4008(b)(4) of Pub. L. 101–508, set out as a note under section 1395cc of this title.
 
-Amendment by section 4207(a)(1)(A) of Pub. L. 101–508 effective on the first day of the first month beginningmore than 60 days after Nov. 5, 1990, see section 4207(a)(1)(C) of Pub. L. 101–508, as amended, set out as a note under section 1320c–3 of this title.
+Amendment by section 4207(a)(1)(A) of Pub. L. 101–508 effective on the first day of the first month beginning more than 60 days after Nov. 5, 1990, see section 4207(a)(1)(C) of Pub. L. 101–508, as amended, set out as a note under section 1320c–3 of this title.
 
 Section 4207(a)(4), formerly 4027(a)(4), of Pub. L. 101–508, as renumbered and amended by Pub. L. 103–432, title I, §160(d)(4), (5)(B), Oct. 31, 1994, 108 Stat. 4444, provided that: “The amendments made by paragraphs (2) and (3) \[amending this section\] shall apply to actions occurring on or after the first day of the sixth month beginning after the date of the enactment of this Act \[Nov. 5, 1990\].”
 

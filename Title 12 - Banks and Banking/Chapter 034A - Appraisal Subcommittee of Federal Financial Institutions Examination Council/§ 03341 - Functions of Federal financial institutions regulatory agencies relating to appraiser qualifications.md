@@ -10,9 +10,9 @@ Each Federal financial institutions regulatory agency and the Resolution Trust C
 
 #### (c) GAO study of appraisals in connection with real estate related financial transactions below threshold level
 
-#### (1) Study required
+#### (1) GAO studies
 
-&emsp;At the end of the 18-month period, and the end of the 36-month period, beginning on October 28, 1992, the Comptroller General of the United States shall conduct a study on the adequacy and quality of appraisals or evaluations conducted in connection with real estate related financial transactions below the threshold level established under subsection (b) of this section, taking into account—
+&emsp;The Comptroller General of the United States may conduct, under such conditions as the Comptroller General determines appropriate, studies on the adequacy and quality of appraisals or evaluations conducted in connection with real estate related financial transactions below the threshold level established under subsection (b) of this section, taking into account—
 
 &emsp;&emsp;(A) the cost to any financial institution involved in any such transaction;
 
@@ -24,15 +24,27 @@ Each Federal financial institutions regulatory agency and the Resolution Trust C
 
 #### (2) Reports to Congress and the appropriate Federal financial institutions regulatory agencies
 
-&emsp;Upon completing each of the studies required under paragraph (1), the Comptroller General shall submit a report on the Comptroller General's findings and conclusions with respect to such study to the Federal financial institutions regulatory agencies, the Committee on Banking, Finance and Urban Affairs of the House of Representatives, and the Committee on Banking, Housing, and Urban Affairs of the Senate, together with such recommendations for legislative or administrative action as the Comptroller General determines to be appropriate.
+&emsp;Upon completing each of the studies referred to in paragraph (1), the Comptroller General shall submit a report on the Comptroller General's findings and conclusions with respect to such study to the Federal financial institutions regulatory agencies, the Committee on Banking, Finance and Urban Affairs of the House of Representatives, and the Committee on Banking, Housing, and Urban Affairs of the Senate, together with such recommendations for legislative or administrative action as the Comptroller General determines to be appropriate.
 
-(Pub. L. 101–73, title XI, §1112, Aug. 9, 1989, 103 Stat. 514; Pub. L. 102–550, title IX, §954, Oct. 28, 1992, 106 Stat. 3894.)
+(Pub. L. 101–73, title XI, §1112, Aug. 9, 1989, 103 Stat. 514; Pub. L. 102–550, title IX, §954, Oct. 28, 1992, 106 Stat. 3894; Pub. L. 104–208, div. A, title II, §2704(d)(15)(B), Sept. 30, 1996, 110 Stat. 3009–495; Pub. L. 104–316, title I, §106(g), Oct. 19, 1996, 110 Stat. 3831.)
+
+#### Amendment of Subsection (c)(1)(B)
+
+<i>Pub. L. 104–208, div. A, title II, §2704(c), (d)(15)(B), Sept. 30, 1996, 110 Stat. 3009–487, 3009–495, provided that, effective Jan. 1, 1999, if no insured depository institution is a savings association on that date, subsection (c)(1)(B) of this section is amended by striking “Bank Insurance Fund, the Savings Association Insurance Fund,” and inserting “Deposit Insurance Fund”.</i>
 
 #### Amendments
+
+1996—Subsec. (c)(1). Pub. L. 104–316, §106(g)(1)(A), (2), in heading substituted “GAO studies” for “Study required”, and in text substituted “The Comptroller General of the United States may conduct, under such conditions as the Comptroller General determines appropriate, studies” for “At the end of the 18-month period, and the end of the 36-month period, beginning on October 28, 1992, the Comptroller General of the United States shall conduct a study”.
+
+Subsec. (c)(2). Pub. L. 104–316, §106(g)(1)(B), substituted “referred to in” for “required under”.
 
 1992—Pub. L. 102–550 designated existing provisions as subsec. (a), inserted heading, and added subsecs. (b) and (c).
 
 #### Change of Name
 
 Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–208 effective Jan. 1, 1999, if no insured depository institution is a savings association on that date, see section 2704(c) of Pub. L. 104–208, set out as a note under section 1821 of this title.
 

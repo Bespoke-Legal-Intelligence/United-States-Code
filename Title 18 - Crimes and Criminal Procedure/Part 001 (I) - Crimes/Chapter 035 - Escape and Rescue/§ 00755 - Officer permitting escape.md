@@ -1,8 +1,8 @@
 ### §755. Officer permitting escape
 
-Whoever, having in his custody any prisoner by virtue of process issued under the laws of the United States by any court, judge, or commissioner, voluntarily suffers such prisoner to escape, shall be fined under this title or imprisoned not more than two years, or both; or if he negligently suffers such person to escape, heshall be fined under this title or imprisoned not more than one year, or both.
+Whoever, having in his custody any prisoner by virtue of process issued under the laws of the United States by any court, judge, or commissioner, voluntarily suffers such prisoner to escape, shall be fined under this title or imprisoned not more than 5 years, or both; or if he negligently suffers such person to escape, he shall be fined under this title or imprisoned not more than one year, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 735; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(G), (I), 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 735; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(G), (I), 108 Stat. 2147; Apr. 24, 1996, Pub. L. 104–132, title VII, §705(a)(2), 110 Stat. 1295.)
 
 #### Historical and Revision Notes
 
@@ -18,9 +18,11 @@ Changes in phraseology were made.
 
 #### Senate Revision Amendment
 
-The text of this section was changed by Senate amendment in view of the act of June 21, 1947, ch. 111, 61 Stat. 134, which, by amending section 244 of Title 18, U.S.C., became an additional source of this section. The amendment constitutes the last clause of this section. See Senate Report No. 1620, amendment No. 8, 80th Cong.
+The text of this section was changed by Senate amendment in view of the act of June 21, 1947, ch. 111,61 Stat. 134, which, by amending section 244 of Title 18, U.S.C., became an additional source of this section. The amendment constitutes the last clause of this section. See Senate Report No. 1620, amendment No. 8, 80th Cong.
 
 #### Amendments
+
+1996—Pub. L. 104–132 substituted “5 years” for “two years”.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $2,000” after “escape, shall be” and for “fined not more than $500” after “he shall be”.
 

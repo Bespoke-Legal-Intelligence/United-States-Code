@@ -18,7 +18,7 @@ Chapter 143 provides implementing legislation for the International Convention o
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 14103, 14501, 14504 of this title.
+This chapter is referred to in sections 7506, 14103, 14104, 14501, 14504 of this title; section 883 of Appendix to this title.
 
 
 ---

@@ -8,7 +8,7 @@ If, within ten years after the date of transfer to the State authorized by secti
 
 If, after the date of transfer pursuant to section 1203 of this title, the State discontinues use of any land within the right-of-way, the State's interest in such land shall revert to the United States. The State shall be considered to have discontinued use within the meaning of this subsection and subsection (d) of this section when:
 
-&emsp;(1) the Governor of the State of Alaska delivers to the Secretary of the Interior a noticeof such discontinuance, including a legal description of the property subject to the notice, and a quitclaim deed thereto; or
+&emsp;(1) the Governor of the State of Alaska delivers to the Secretary of the Interior a notice of such discontinuance, including a legal description of the property subject to the notice, and a quitclaim deed thereto; or
 
 &emsp;(2) the State has made no use of the land for a continuous period of eighteen years for transportation, communication, or transmission purposes. Notice of such discontinuance shall promptly be published in the Federal Register by the Secretary, the Secretary of the Interior, or the Secretary of Agriculture, and reversion shall be effected one year after such notice, unless within such one-year period the State brings an appropriate action in the United States District Court for the District of Alaska to establish that the use has been continuing without an eighteen-year lapse. Any such action shall have the effect of staying reversion until exhaustion of appellate review from the final judgment in that action or termination of the right to seek such review, whichever first occurs.
 

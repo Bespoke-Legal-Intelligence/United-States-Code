@@ -80,5 +80,5 @@ Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board o
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1005 of this title; title 5 section 8473.
+This section is referred to in section 1005 of this title; title 5 section 8473; title 18 section 205.
 

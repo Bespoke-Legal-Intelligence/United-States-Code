@@ -62,7 +62,7 @@ The Administrator may establish and issue various categories of permits, includi
 
 #### (4) General site management plan requirement; prohibitions
 
-&emsp;After January 1, 1995, no site shall receive a final designation unless a management planhas been developed pursuant to this section. Beginning on January 1, 1997, no permit for dumping pursuant to this Act or authorization for dumping under section 1413(e) of this title shall be issued for a site unless such site has received a final designation pursuant to this subsection or an alternative site has been selected pursuant to section 1413(b) of this title.
+&emsp;After January 1, 1995, no site shall receive a final designation unless a management plan has been developed pursuant to this section. Beginning on January 1, 1997, no permit for dumping pursuant to this Act or authorization for dumping under section 1413(e) of this title shall be issued for a site (other than the site located off the coast of Newport Beach, California, which is known as “LA–3”) unless such site has received a final designation pursuant to this subsection or an alternative site has been selected pursuant to section 1413(b) of this title. Beginning January 1, 2000, no permit for dumping pursuant to this Act or authorization for dumping under section 1413(e) of this title shall be issued for the site located off the coast of Newport Beach, California, which is known as “LA–3”, unless such site has received a final designation pursuant to this subsection or an alternative site has been selected pursuant to section 1413(b) of this title.
 
 #### (5) Management plans for previously designated sites
 
@@ -70,13 +70,13 @@ The Administrator may establish and issue various categories of permits, includi
 
 #### (d) Fish wastes
 
-No permit is required under this subchapter for the transportation for dumping or the dumping of fish wastes, except when deposited in harbors or other protected or enclosed coastal waters, or where the Administrator finds that such deposits could endanger health, the environment, or ecological systems in a specific location. Where the Administrator makes such a finding, such material may be deposited only as authorized by a permit issued by the Administrator under this section.
+No permit is required under this subchapter for the transportation for dumping or the dumping of fish wastes, except when deposited in harbors or other protected or enclosed coastal waters, or where the Administrator finds that such deposits could endanger health, the environment, or ecological systems in a specific location. Where the Administrator makes such afinding, such material may be deposited only as authorized by a permit issued by the Administrator under this section.
 
 #### (e) Foreign State permits; acceptance
 
 In the case of transportation of material, by an agency or instrumentality of the United States or by a vessel or aircraft registered in the United States or flying the United States flag, from a location in a foreign State Party to the Convention, a permit issued pursuant to the authority of that foreign State Party, in accordance with Convention requirements, and which otherwise could have been issued pursuant to subsection (a) of this section, shall be accepted, for the purposes of this subchapter, as if it were issued by the Administrator under the authority of this section: <i>Provided</i>, That in the case of an agency or instrumentality of the United States, no application shall be made for a permit to be issued pursuant to the authority of a foreign State Party to the Convention unless the Administrator concurs in the filing of such application.
 
-(Pub. L. 92–532, title I, §102, Oct. 23, 1972, 86 Stat. 1054; Pub. L. 93–254, §1(4), Mar. 22, 1974, 88 Stat. 51; Pub. L. 96–572, §3, Dec. 22, 1980, 94 Stat. 3345; Pub. L. 100–688, title III, §3201(b), Nov. 18, 1988, 102 Stat. 4153; Pub. L. 102–580, title V, §506(a), Oct. 31, 1992, 106 Stat. 4868.)
+(Pub. L. 92–532, title I, §102, Oct. 23, 1972, 86 Stat. 1054; Pub. L. 93–254, §1(4), Mar. 22, 1974, 88 Stat. 51; Pub. L. 96–572, §3, Dec. 22, 1980, 94 Stat. 3345; Pub. L. 100–688, title III, §3201(b), Nov. 18, 1988, 102 Stat. 4153; Pub. L. 102–580, title V, §506(a), Oct. 31, 1992, 106 Stat. 4868; Pub. L. 104–303, title V, §582, Oct. 12, 1996, 110 Stat. 3791.)
 
 #### References in Text
 
@@ -84,13 +84,15 @@ This Act, referred to in subsec. (c)(4), means Pub. L. 92–532, which is classi
 
 #### Amendments
 
+1996—Subsec. (e)(4). Pub. L. 104–303 inserted “(other than the site located off the coast of Newport Beach, California, which is known as ‘LA–3’)” after “for a site” and inserted at end “Beginning January 1, 2000, no permit for dumping pursuant to this Act or authorization for dumping under section 1413(e) of this title shall be issued for the site located off the coast of Newport Beach, California, which is known as ‘LA–3’, unless such site has received a final designation pursuant to this subsection or an alternative site has been selected pursuant to section 1413(b) of this title.”
+
 1992—Subsec. (c). Pub. L. 102–580 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The Administrator may, considering the criteria established pursuant to subsection (a) of this section, designate recommended sites or times for dumping and, when he finds it necessary to protect critical areas, shall, after consultation with the Secretary, also designate sites or times within which certain materials may not be dumped.”
 
 1988—Subsec. (a). Pub. L. 100–688 substituted “agents, high-level” for “agents and high-level” and inserted “and medical waste,” after “radioactive waste,”.
 
 1980—Subsec. (e). Pub. L. 96–572 inserted applicability to United States agency or instrumentality, and proviso respecting such agency or instrumentality.
 
-1974—Subsec. (a). Pub. L. 93–254, §1(4)(A), substituted “for which no permit may be issued,” for “as provided for in section 1411 of this title,” inserted “or in the case of a vessel or aircraft registered in the United States or flying the United States flag,” after “instrumentality of the United States,” and required the Administrator to apply the standards and criteria binding upon the United States under the Convention, including its Annexes.
+1974—Subsec. (a). Pub. L. 93–254, §1(4)(A), substituted “for which no permit may be issued,” for “as provided for in section 1411 of this title,”, inserted “or in the case of a vessel or aircraft registered in the United States or flying the United States flag,” after “instrumentality of the United States,”, and required the Administrator to apply the standards and criteria binding upon the United States under the Convention, including its Annexes.
 
 Subsec. (e). Pub. L. 93–254, §1(4)(B), added subsec. (e).
 

@@ -1,14 +1,10 @@
 ### §10b. Contracts for public works; specification for use of American materials; blacklisting contractors violating requirements
 
-(a) Every contract for the construction, alteration, or repair of any public building or public work in the United States growing out of an appropriation heretofore made or hereafter to be made shall contain a provision that in the performance of the work the contractor, subcontractors, material men, or suppliers, shall use only such unmanufactured articles, materials, and supplies as have been mined or produced in the United States, and only such manufactured articles, materials, and supplies as have been manufactured in the United States substantially all from articles, materials, or supplies mined, produced, or manufactured, as the case may be, in the United States except as provided in section 10a of this title: <i>Provided, however</i>, That if the head of the Federal agency making the contract shall find that in respect to some particular articles, materials, or supplies it is impracticable to make such requirement or that it would unreasonably increase the cost, an exception shall be noted in the specifications as to that particular article, material, or supply, and a public record made of the findings which justified the exception.
+(a) Every contract for the construction, alteration, or repair of any public building or public work in the United States growing out of an appropriation heretofore made or hereafter to be made shall contain a provision that in the performance of the work the contractor, subcontractors, material men, or suppliers, shall use only such unmanufactured articles, materials, and supplies as have been mined or produced in the United States, and only such manufactured articles, materials, and supplies as have been manufactured in the United States substantially all from articles, materials, or supplies mined, produced, or manufactured, as the case may be, in the United States except as provided in section 10a of this title: <i>Provided, however</i>, That if the head of the department or independent establishment making the contract shall find that in respect to some particular articles, materials, or supplies it is impracticable to make such requirement or that it would unreasonably increase the cost, an exception shall be noted in the specifications as to that particular article, material, or supply, and a public record made of the findings which justified the exception.
 
-(b) If the head of a Federal agency which has made any contract containing the provision required by subsection (a) of this section finds that in the performance of such contract there has been a failure to comply with such provisions, he shall make public his findings, including therein the name of the contractor obligated under such contract, and no other contract for the construction, alteration, or repair of any public building or public work in the United States or elsewhere shall be awarded to such contractor, subcontractors, material men, or suppliers with which such contractor is associated or affiliated, within a period of three years after such findings is made public.
+(b) If the head of a department, bureau, agency, or independent establishment which has made any contract containing the provision required by subsection (a) of this section finds that in the performance of such contract there has been a failure to comply with such provisions, he shall make public his findings, including therein the name of the contractor obligated under such contract, and no other contract for the construction, alteration, or repair of any public building or public work in the United States or elsewhere shall be awarded to such contractor, subcontractors, material men, or suppliers with which such contractor is associated or affiliated, within a period of three years after such findings is made public.
 
 (Mar. 3, 1933, ch. 212, title III, §3, 47 Stat. 1520; Aug. 23, 1988, Pub. L. 100–418, title VII, §7005(c), 102 Stat. 1553.)
-
-#### Amendment of Section
-
-<i>For termination of amendment by section 7004 of Pub. L. 100–418, see Termination Date of 1988 Amendment note below.</i>
 
 #### Amendments
 
@@ -18,7 +14,7 @@ Subsec. (b). Pub. L. 100–418, §§7004, 7005(c)(2), temporarily substituted �
 
 #### Termination Date of 1988 Amendment
 
-Amendment by Pub. L. 100–418 to cease to be effective on Apr. 30, 1996, unless Congress, after reviewing report required by section 2515(k) of Title 19, Customs Duties, extends such date, see section 7004 of Pub. L. 100–418, set out as an Effective and Termination Dates of 1988 Amendment note under section 10a of this title.
+Amendment by Pub. L. 100–418 to cease to be effective on Apr. 30, 1996, unless Congress, after reviewing reportrequired by former section 2515(k) of Title 19, Customs Duties, extends such date, see section 7004 of Pub. L. 100–418, set out as an Effective and Termination Dates of 1988 Amendment note under section 10a of this title.
 
 #### Prohibition on Use of Funds for Construction Contracts With Contractors of Foreign Countries Which Deny United States Contractors Fair Opportunities in Construction Projects of That Country's Government
 
@@ -32,5 +28,5 @@ Pub. L. 100–202, §109, Dec. 22, 1987, 101 Stat. 1329–434.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 10b–2, 10c, 10d, 42, 428 of this title; title 10 section 2533; title 15 sections 2507, 5528; title 19 sections 2512, 2513; title 20 section 6067; title 24 section 225h; title 25 section 1638b.
+This section is referred to in sections 10c, 10d of this title.
 

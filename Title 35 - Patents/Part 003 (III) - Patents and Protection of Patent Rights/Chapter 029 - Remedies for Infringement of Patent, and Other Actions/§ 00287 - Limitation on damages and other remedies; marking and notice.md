@@ -56,7 +56,33 @@
 
 (6) A person who receives a response to a request for disclosure under this subsection shall pay to the person to whom the request was made a reasonable fee to cover actual costs incurred in complying with the request, which may not exceed the cost of a commercially available automated patent search of the matter involved, but in no case more than $500.
 
-(July 19, 1952, ch. 950, 66 Stat. 813; Aug. 23, 1988, Pub. L. 100–418, title IX, §9004(a), 102 Stat. 1564; Dec. 8, 1994, Pub. L. 103–465, title V, §533(b)(5), 108 Stat. 4989.)
+(c)(1) With respect to a medical practitioner's performance of a medical activity that constitutes an infringement under section 271(a) or (b) of this title, the provisions of sections 281, 283, 284, and 285 of this title shall not apply against the medical practitioner or against a related health care entity with respect to such medical activity.
+
+(2) For the purposes of this subsection:
+
+&emsp;(A) the term “medical activity” means the performance of a medical or surgical procedure on a body, but shall not include (i) the use of a patented machine, manufacture, or composition of matter in violation of such patent, (ii) the practice of a patented use of a composition of matter in violation of such patent, or (iii) the practice of a process in violation of a biotechnology patent.
+
+&emsp;(B) the term “medical practitioner” means any natural person who is licensed by a State to provide the medical activity described in subsection (c)(1) or who is acting under the direction of such person in the performance of the medical activity.
+
+&emsp;(C) the term “related health care entity” shall mean an entity with which a medical practitioner has a professional affiliation under which the medical practitioner performs the medical activity, including but not limited to a nursing home, hospital, university, medical school, health maintenance organization, group medical practice, or a medical clinic.
+
+&emsp;(D) the term “professional affiliation” shall mean staff privileges, medical staff membership, employment or contractual relationship, partnership or ownership interest, academic appointment, or other affiliation under which a medical practitioner provides the medical activity on behalf of, or in association with, the health care entity.
+
+&emsp;(E) the term “body” shall mean a human body, organ or cadaver, or a nonhuman animal used in medical research or instruction directly relating to the treatment of humans.
+
+&emsp;(F) the term “patented use of a composition of matter” does not include a claim for a method of performing a medical or surgical procedure on a body that recites the use of a composition of matter where the use of that composition of matter does not directly contribute to achievement of the objective of the claimed method.
+
+&emsp;(G) the term “State” shall mean any state <sup>1</sup> or territory of the United States, the District of Columbia, and the Commonwealth of Puerto Rico.
+
+(3) This subsection does not apply to the activities of any person, or employee or agent of such person (regardless of whether such person is a tax exempt organization under section 501(c) of the Internal Revenue Code), who is engaged in the commercial development, manufacture, sale, importation, or distribution of a machine, manufacture, or composition of matter or the provision of pharmacy or clinical laboratory services (other than clinical laboratory services provided in a physician's office), where such activities are:
+
+&emsp;(A) directly related to the commercial development, manufacture, sale, importation, or distribution of a machine, manufacture, or composition of matter or the provision of pharmacy or clinical laboratory services (other than clinical laboratory services provided in a physician's office), and
+
+&emsp;(B) regulated under the Federal Food, Drug, and Cosmetic Act, the Public Health Service Act, or the Clinical Laboratories Improvement Act.
+
+(4) This subsection shall not apply to any patent issued before the date of enactment of this subsection.
+
+(July 19, 1952, ch. 950, 66 Stat. 813; Aug. 23, 1988, Pub. L. 100–418, title IX, §9004(a), 102 Stat. 1564; Dec. 8, 1994, Pub. L. 103–465, title V, §533(b)(5), 108 Stat. 4989; Sept. 30, 1996, Pub. L. 104–208, div. A, title I, §101(a) \[title VI, §616\], 110 Stat. 3009, 3009–67.)
 
 #### Historical and Revision Notes
 
@@ -66,11 +92,23 @@ Language is changed. The proviso in the corresponding section of existing statut
 
 #### References in Text
 
-Section 9006 of the Process Patent Amendments Act of 1988, referred to in subsec. (b)(1), is section 9006 oftitle IX of Pub. L. 100–418, which is set out as a note under section 271 of this title.
+Section 9006 of the Process Patent Amendments Act of 1988, referred to in subsec. (b)(1), is section 9006 of title IX of Pub. L. 100–418, which is set out as a note under section 271 of this title.
 
 The effective date of the Process Patent Amendments Act of 1988, referred to in subsec. (b)(4)(C), is the effective date of title IX of Pub. L. 100–418. See section 9006 of Pub. L. 100–418, set out as a note under section 271 of this title.
 
+Section 501(c) of the Internal Revenue Code, referred to in subsec. (c)(3), is classified to section 501(c) of Title 26, Internal Revenue Code.
+
+The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (c)(3)(B), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended, which is classified generally to chapter 9 (§301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
+
+The Public Health Service Act, referred to in subsec. (c)(3)(B), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended, which is classified generally to chapter 6A (§201 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
+
+The Clinical Laboratories Improvement Act, referred to in subsec. (c)(3)(B), probably means the Clinical Laboratories Improvement Act of 1967, section 5 of Pub. L. 90–174, Dec. 5, 1967, 81 Stat. 536, which enacted section 263a of Title 42 and enacted provisions set out as notes under section 263a of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 263a of Title 42 and Tables.
+
+The date of enactment of this subsection, referred to in subsec. (c)(4), is the date of enactment of Pub. L. 104–208, which enacted subsec. (c) and which was approved Sept. 30, 1996.
+
 #### Amendments
+
+1996—Subsec. (c). Pub. L. 104–208 added subsec. (c).
 
 1994—Subsec. (a). Pub. L. 103–465, §533(b)(5)(A), substituted “making, offering for sale, or selling within the United States” for “making or selling” and inserted “or importing any patented article into the United States,” after “under them,”.
 
@@ -95,4 +133,6 @@ Amendment by Pub. L. 100–418 effective 6 months after Aug. 23, 1988, and, subj
 #### Section Referred to in Other Sections
 
 This section is referred to in section 157 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

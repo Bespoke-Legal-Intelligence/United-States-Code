@@ -6,7 +6,7 @@
 
 &emsp;(2) oil pipe lines;
 
-&emsp;(3) substations for electric power transmission lines, telephone lines, and telegraph lines, and pumping stations for gas, water, sewer, and oil pipe lines;
+&emsp;(3) substations for electric power transmission lines and pumping stations for gas, water, sewer, and oil pipe lines;
 
 &emsp;(4) canals;
 
@@ -18,9 +18,15 @@
 
 &emsp;(8) dams and reservoirs in connection with fish and wildlife programs, fish hatcheries, and other improvements relating to fish-culture;
 
-&emsp;(9) roads and streets; and
+&emsp;(9) roads and streets;
 
-&emsp;(10) any other purpose that he considers advisable, except a purpose covered by section 2669 of this title or by the Act of March 4, 1911 (43 U.S.C. 961).
+&emsp;(10) poles and lines for the transmission or distribution of electric power;
+
+&emsp;(11) poles and lines for the transmission or distribution of communications signals (including telephone and telegraph signals);
+
+&emsp;(12) structures and facilities for the transmission, reception, and relay of such signals; and
+
+&emsp;(13) any other purpose that he considers advisable, except a purpose covered by section 2669 of this title.
 
 (b) No easement granted under this section may include more land than is necessary for the easement.
 
@@ -34,7 +40,7 @@
 
 (d) Copies of instruments granting easements over public lands under this section shall be furnished to the Secretary of the Interior.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 150; Oct. 19, 1984, Pub. L. 98–525, title XIV, §1405(38), 98 Stat. 2624.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 150; Oct. 19, 1984, Pub. L. 98–525, title XIV, §1405(38), 98 Stat. 2624; Sept. 23, 1996, Pub. L. 104–201, div. B, title XXVIII, §2861, 110 Stat. 2804.)
 
 Historical and Revision Notes
 
@@ -45,6 +51,12 @@ Historical and Revision Notes
 <i>Source (Statutes at Large)</i>
 
 2668(a)
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 2668(b)
 
@@ -62,7 +74,7 @@ July 24, 1946, ch. 596, §7, 60 Stat. 643; Oct. 25, 1951, ch. 563, §101 (31st t
 
 43:931b (last sentence) \[43:931b is made applicable to the Navy by 50:171–1 (16th through 21st words)\].
 
-In subsection (a), the word “conditions” is omitted as covered by the word “terms”. The description of the persons covered in the opening paragraph and the landscovered in clauses (1)–(10) is restated to reflect an opinion of the Judge Advocate General of the Army (JAGR 1952/3179, 27 Mar. 1952). The exceptions to clause (10) make express the fact that the revised section does not cover certain easements authorized by earlier law. The word “over” includes the word “across”. The words “of the United States”, “and empowered”, “acquired lands”, “jurisdiction and”, and “municipality” are omitted as surplusage. The word “Commonwealth” is inserted to reflect the present status of Puerto Rico.
+In subsection (a), the word “conditions” is omitted as covered by the word “terms”. The description of the persons covered in the opening paragraph and the lands covered in clauses (1)–(10) is restated to reflect an opinion of the Judge Advocate General of the Army (JAGR 1952/3179, 27 Mar. 1952). The exceptions to clause (10) make express the fact that the revised section does not cover certain easements authorized by earlier law. The word “over” includes the word “across”. The words “of the United States”, “and empowered”, “acquired lands”, “jurisdiction and”, and “municipality” are omitted as surplusage. The word “Commonwealth” is inserted to reflect the present status of Puerto Rico.
 
 In subsection (b), the words “for the easement” are substituted for the words “for the purpose for which granted”.
 
@@ -71,6 +83,14 @@ In subsections (b) and (c), the word “easement” is substituted for the word 
 In subsection (c), the word “terminate” is substituted for the words “annulled and forfeited”. The words “and conditions” are omitted as covered by the word “terms”. The words “two-year period” are substituted for the words “a period of two consecutive years”. The words “of rights granted under authority hereof” are omitted as surplusage.
 
 #### Amendments
+
+1996—Subsec. (a)(3). Pub. L. 104–201, §2861(b)(1), struck out “, telephone lines, and telegraph lines,” after “transmission lines”.
+
+Subsec. (a)(9). Pub. L. 104–201, §2861(a)(1), struck out “and” at end.
+
+Subsec. (a)(10) to (12). Pub. L. 104–201, §2861(a)(3), added pars. (10) to (12). Former par. (10) redesignated (13).
+
+Subsec. (a)(13). Pub. L. 104–201, §2861(a)(2), (b)(2), redesignated par. (10) as (13) and struck out “or by the Act of March 4, 1911 (43 U.S.C. 961)” after “2669 of this title”.
 
 1984—Subsec. (a)(10). Pub. L. 98–525 substituted “the Act of March 4, 1911 (43 U.S.C. 961)” for “section 961 of title 43”.
 

@@ -12,7 +12,7 @@ For transfer of functions of other officers, employees, and agencies of Departme
 
 Cherokee Outlet, provisions inapplicable to, see section 371 of this title.
 
-Lands held in trust may be leased by allottee for period not to exceed five years under rules and regulations of Secretary of Interior, see section 403 of this title.
+Lands held in trust may be leased by allottee for period not to exceed five years under rules and regulations of Secretary of the Interior, see section 403 of this title.
 
 Unallotted lands authorized to be leased for oil and gas mining purposes, see section 398 of this title.
 

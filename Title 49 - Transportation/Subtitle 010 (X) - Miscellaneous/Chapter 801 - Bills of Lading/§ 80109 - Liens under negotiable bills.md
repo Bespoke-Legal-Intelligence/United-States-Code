@@ -10,7 +10,9 @@ A common carrier issuing a negotiable bill of lading has a lien on the goods cov
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

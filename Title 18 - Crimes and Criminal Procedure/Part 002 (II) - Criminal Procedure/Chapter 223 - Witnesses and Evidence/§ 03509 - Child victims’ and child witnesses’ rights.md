@@ -40,7 +40,7 @@ Definitions.—For purposes of this section—
 
 &emsp;(11) the term “negligent treatment” means the failure to provide, for reasons other than poverty, adequate food, clothing, shelter, or medical care so as to seriously endanger the physical health of the child; and
 
-&emsp;(12) the term “child abuse” does not include discipline administered by a parent or legal guardian to his or her child provided it is reasonable in manner and moderate in degree and otherwise does not constitute cruelty.
+&emsp;(12) the term “child abuse” does not include discipline administered by a parent or legalguardian to his or her child provided it is reasonable in manner and moderate in degree and otherwise does not constitute cruelty.
 
 (b)
 
@@ -108,7 +108,7 @@ Videotaped deposition of child.—(A) In a proceeding involving an alleged offen
 
 > &emsp;The defendant shall be afforded the rights applicable to defendants during trial, including the right to an attorney, the right to be confronted with the witness against the defendant, and the right to cross-examine the child.
 
-&emsp;(iv) If the preliminary finding of inability under clause (i) is based on evidence that the child is unable to testify in the physical presence of the defendant, the court may order that the defendant, including a defendant represented pro se, be excluded from the room in which the deposition is conducted. If the court orders that the defendant be excluded from the deposition room, the court shall order that 2-way closed circuit television equipment relay the defendant's image into the room in which the child is testifying, and the child's testimony into the room in which the defendant is viewing the proceeding, and that the defendant be provided with a means of private, contemporaneous communication with the defendant's attorney during the deposition.
+&emsp;(iv) If the preliminary finding of inability under clause (i) is based on evidence that the child is unable to testify in the physical presence of the defendant, the court may order that the defendant, including a defendant represented pro se, be excluded from the room inwhich the deposition is conducted. If the court orders that the defendant be excluded from the deposition room, the court shall order that 2-way closed circuit television equipment relay the defendant's image into the room in which the child is testifying, and the child's testimony into the room in which the defendant is viewing the proceeding, and that the defendant be provided with a means of private, contemporaneous communication with the defendant's attorney during the deposition.
 
 &emsp;(v)
 
@@ -196,7 +196,7 @@ Confidentiality of information.—(A) A person acting in a capacity described in
 
 &emsp;(2)
 
-Filing under seal.—All papers to be filed in court that disclose the name of or any other information concerning a child shall be filed under seal without necessity of obtaining a court order. The person who makes the filing shall submit to the clerk of the court—
+Filing under seal.—All papers to be filed in court that disclose the name of or any other information concerning a child shall be filed under seal without necessity of obtaining acourt order. The person who makes the filing shall submit to the clerk of the court—
 
 &emsp;&emsp;(A) the complete paper to be kept under seal; and
 
@@ -218,7 +218,7 @@ Disclosure of information.—This subsection does not prohibit disclosure of the
 
 (e)
 
-Closing the Courtroom.—When a child testifies the court may order the exclusion from the courtroom of all persons, including members of the press, who do not have a direct interest in the case. Such an order may be made if the court determines on the record that requiring the child to testify in open court would cause substantial psychological harm to the child or would result in the child's inability to effectively communicate. Such an order shall be narrowly tailored to serve the government's <sup>1</sup> specific compelling interest.
+Closing the Courtroom.—When a child testifies the court may order the exclusion from the courtroom of all persons, including members of the press, who do not have a direct interest in the case. Such an order may be made if the court determines on the record that requiring the child to testify in open court would cause substantial psychological harm to the child or would result in the child's inability to effectively communicate. Such an order shall be narrowly tailored to serve the Government's specific compelling interest.
 
 (f)
 
@@ -242,7 +242,7 @@ Role of multidisciplinary child abuse teams.—The role of the multidisciplinary
 
 &emsp;&emsp;(C) medical evaluations related to abuse or neglect;
 
-&emsp;&emsp;(D) psychological and psychiatric diagnoses and evaluation services for the child, parent or parents, guardian or guardians, orother caregivers, or any other individual involved in a child victim or child witness case;
+&emsp;&emsp;(D) psychological and psychiatric diagnoses and evaluation services for the child, parent or parents, guardian or guardians, or other caregivers, or any other individual involved in a child victim or child witness case;
 
 &emsp;&emsp;(E) expert medical, psychological, and related professional testimony;
 
@@ -264,7 +264,7 @@ Duties of guardian ad litem.—A guardian ad litem may attend all the deposition
 
 &emsp;(3)
 
-Immunities.—A guardian ad litem shall be presumed to be acting in good faith and shall be immune from civil and criminal liability for complying with the guardian's lawful duties described in subpart <sup>2</sup> (2).
+Immunities.—A guardian ad litem shall be presumed to be acting in good faith andshall be immune from civil and criminal liability for complying with the guardian's lawful duties described in paragraph (2).
 
 (i)
 
@@ -282,7 +282,7 @@ Stay of Civil Action.—If, at any time that a cause of action for recovery of c
 
 Testimonial Aids.—The court may permit a child to use anatomical dolls, puppets, drawings, mannequins, or any other demonstrative device the court deems appropriate for the purpose of assisting a child in testifying.
 
-(Added Pub. L. 101–647, title II, §225(a), Nov. 29, 1990, 104 Stat. 4798; amended Pub. L. 103–322, title XXXIII, §§330010(6), (7), 330011(e), 330018(b), Sept. 13, 1994, 108 Stat. 2143, 2145, 2149.)
+(Added Pub. L. 101–647, title II, §225(a), Nov. 29, 1990, 104 Stat. 4798; amended Pub. L. 103–322, title XXXIII, §§330010(6), (7), 330011(e), 330018(b), Sept. 13, 1994, 108 Stat. 2143, 2145, 2149; Pub. L. 104–294, title VI, §605(h), Oct. 11, 1996, 110 Stat. 3510.)
 
 #### References in Text
 
@@ -291,6 +291,10 @@ The Federal Rules of Evidence, referred to in subsec. (c)(1), are set out in the
 The Federal Rules of Criminal Procedure, referred to in subsec. (f), are set out in the Appendix to this title.
 
 #### Amendments
+
+1996—Subsec. (e). Pub. L. 104–294, §605(h)(1), substituted “serve the Government's” for “serve the government's”.
+
+Subsec. (h)(3). Pub. L. 104–294, §605(h)(2), substituted “in paragraph (2)” for “in subpart (2)”.
 
 1994—Pub. L. 103–322, §330011(e), made technical amendment to directory language of Pub. L. 101–647, §225(a), which enacted this section.
 
@@ -304,7 +308,7 @@ Subsec. (k). Pub. L. 103–322, §330018(b), substituted heading for one which r
 
 #### Effective Date of 1994 Amendment
 
-Section 330011(e) of Pub. L. 103–322 provided that the amendment made by that section is effective as of thedate on which section 225(a) of Pub. L. 101–647 took effect.
+Section 330011(e) of Pub. L. 103–322 provided that the amendment made by that section is effective as of the date on which section 225(a) of Pub. L. 101–647 took effect.
 
 #### Section Referred to in Other Sections
 

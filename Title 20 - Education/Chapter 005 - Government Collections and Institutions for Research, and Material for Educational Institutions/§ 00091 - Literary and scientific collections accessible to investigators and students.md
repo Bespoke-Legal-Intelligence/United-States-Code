@@ -50,7 +50,7 @@ Functions of all other officers of Department of Commerce and functions of all a
 
 Functions of all other officers of Department of the Interior and functions of all agencies and employees of such Department, with two exceptions, transferred to Secretary of the Interior, with power vested in him to authorize their performance or performance of any of his functions by any of such officers, agencies, and employees, by Reorg. Plan No. 3 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5.
 
-Fish and Wildlife Service, created by Reorg. Plan No. III of 1940, eff. June 30, 1940, 5 F.R. 2107, 54 Stat. 1231, succeeded by United States Fish and Wildlife Serviceestablished by act Aug. 8, 1956, ch. 1036, §3, 70 Stat. 1120, which is classified to section 742b of Title 16, Conservation.
+Fish and Wildlife Service, created by Reorg. Plan No. III of 1940, eff. June 30, 1940, 5 F.R. 2107, 54 Stat. 1231, succeeded by United States Fish and Wildlife Service established by act Aug. 8, 1956, ch. 1036, §3, 70 Stat. 1120, which is classified to section 742b of Title 16, Conservation.
 
 Bureau of Fisheries consolidated with Bureau of Biological Survey into Fish and Wildlife Service in Department of the Interior by Reorg. Plan No. III of 1940, set out in the Appendix to Title 5. The Bureau had been previously transferred to Department of the Interior by Reorg. Plan No. II of 1939, §4(e), also set out in the Appendix to Title 5.
 

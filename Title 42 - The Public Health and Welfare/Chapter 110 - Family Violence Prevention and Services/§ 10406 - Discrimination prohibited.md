@@ -8,7 +8,7 @@
 
 #### (b) Notification and request to secure compliance; referral to Attorney General or other action by Secretary
 
-Whenever the Secretary finds that a State or other entity that has received financial assistance under this chapter has failed to comply with a provision of law referred to in subsection (a)(1) of this section, with subsection (a)(2) of this section, or with an applicable regulation\(including one prescribed to carry out subsection (a)(2) of this section), the Secretary shall notify the chief executive officer of the State and shall request such officer to secure compliance. If, within a reasonable period of time, not to exceed sixty days, the chief executive officer fails or refuses to secure compliance, the Secretary may—
+Whenever the Secretary finds that a State or other entity that has received financial assistance under this chapter has failed to comply with a provision of law referred to in subsection (a)(1) of this section, with subsection (a)(2) of this section, or with an applicable regulation (including one prescribed to carry out subsection (a)(2) of this section), the Secretary shall notify the chief executive officer of the State and shall request such officer to secure compliance. If, within a reasonable period of time, not to exceed sixty days, the chief executive officer fails or refuses to secure compliance, the Secretary may—
 
 &emsp;(1) refer the matter to the Attorney General of the United States with a recommendation that an appropriate civil action be instituted,
 

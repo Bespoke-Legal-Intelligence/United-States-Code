@@ -20,7 +20,7 @@ An eligible student awarded a scholarship under this division may use such schol
 
 #### (d) Assistance not to exceed cost of attendance
 
-A scholarship awarded under this division to any student, in combination with the Pell Grant and other student financial assistance available to such student, may not exceed the student's cost of attendance (as defined in section 1087<i>ll</i> of this title).
+A scholarship awarded under this division to any student, in combination with the Pell Grant and other student financial assistance availableto such student, may not exceed the student's cost of attendance (as defined in section 1087<i>ll</i> of this title).
 
 #### (e) Presidential Access Scholars
 

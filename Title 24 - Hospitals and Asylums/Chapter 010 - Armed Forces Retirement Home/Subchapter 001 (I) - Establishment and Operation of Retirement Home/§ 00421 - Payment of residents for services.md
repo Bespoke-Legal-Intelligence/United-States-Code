@@ -10,13 +10,21 @@ A resident receiving pay for services authorized under subsection (a) of this se
 
 &emsp;(1) receiving the pay of a position or being employed in a position for the purposes of section 5532 of title 5; or
 
-&emsp;(2) being an employee of the United States for any other purpose.
+&emsp;(2) being an employee of the United States for any purpose other than—
+
+&emsp;&emsp;(A) subchapter I of chapter 81 of title 5 (relating to compensation for work-related injuries); and
+
+&emsp;&emsp;(B) chapter 171 of title 28 (relating to claims for damages or loss).
 
 #### (c) “Position” defined
 
 In subsection (b)(1) of this section, the term “position” has the meaning given that term in section 5531 of title 5.
 
-(Pub. L. 101–510, div. A, title XV, §1521, as added Pub. L. 102–484, div. A, title III, §385(a), Oct. 23, 1992, 106 Stat. 2394.)
+(Pub. L. 101–510, div. A, title XV, §1521, as added Pub. L. 102–484, div. A, title III, §385(a), Oct. 23,1992, 106 Stat. 2394; amended Pub. L. 104–201, div. A, title X, §1052(b), Sept. 23, 1996, 110 Stat. 2650.)
+
+#### Amendments
+
+1996—Subsec. (b)(2). Pub. L. 104–201 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “being an employee of the United States for any other purpose.”
 
 #### Forgiveness of Indebtedness
 

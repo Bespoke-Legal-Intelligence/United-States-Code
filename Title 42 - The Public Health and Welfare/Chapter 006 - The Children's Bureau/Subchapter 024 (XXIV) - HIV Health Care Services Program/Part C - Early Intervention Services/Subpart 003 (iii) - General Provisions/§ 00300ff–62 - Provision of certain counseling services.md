@@ -38,7 +38,7 @@ The Secretary may not make a grant under this part unless the applicant for the 
 
 &emsp;&emsp;(A) the availability, through the applicant, of early intervention services;
 
-&emsp;&emsp;(B) the availability in the geographic area of appropriate health care, mental healthcare, and social and support services, including providing referrals for such services, as appropriate;
+&emsp;&emsp;(B) the availability in the geographic area of appropriate health care, mental health care, and social and support services, including providing referrals for such services, as appropriate;
 
 &emsp;&emsp;(C) the benefits of locating and counseling any individual by whom the infected individual may have been exposed to HIV and any individual whom the infected individual may have exposed to HIV; and
 

@@ -24,7 +24,9 @@ Mortgagee and Lien Holder Rights Not Affected.—Except as provided in subsectio
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

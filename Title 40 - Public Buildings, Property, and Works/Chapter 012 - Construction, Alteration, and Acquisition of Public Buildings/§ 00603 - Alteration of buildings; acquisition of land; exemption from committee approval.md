@@ -18,7 +18,7 @@ Section 11 of Pub. L. 92–313 provided that: “This Act \[see Short Title of 1
 
 #### Issuance of Regulations Pursuant to Public Buildings Amendments of 1972; Approval of Rates for Space and Services Furnished
 
-Section 7 of Pub. L. 92–313 provided that: “To carry out the provisions of the Public Buildings Amendments of 1972 \[see Short Title of 1972 Amendment note set out under section 601 of this title\], the Administrator of General Services shall issue such regulations as he deems necessary. Such regulations shall be coordinated with the Office of Management and Budget, and therates established by the Administrator of General Services pursuant to sections 210(j) and 210(k) of the Federal Property and Administrative Services Act of 1949, as amended \[section 490(j) and (k) of this title\], shall be approved by the Director of the Office of Management and Budget.”
+Section 7 of Pub. L. 92–313 provided that: “To carry out the provisions of the Public Buildings Amendments of 1972 \[see Short Title of 1972 Amendment note set out under section 601 of this title\], the Administrator of General Services shall issue such regulations as he deems necessary. Such regulations shall be coordinated with the Office of Management and Budget, and the rates established by the Administrator of General Services pursuant to sections 210(j) and 210(k) of the Federal Property and Administrative Services Act of 1949, as amended \[section 490(j) and (k) of this title\], shall be approved by the Director of the Office of Management and Budget.”
 
 #### Section Referred to in Other Sections
 

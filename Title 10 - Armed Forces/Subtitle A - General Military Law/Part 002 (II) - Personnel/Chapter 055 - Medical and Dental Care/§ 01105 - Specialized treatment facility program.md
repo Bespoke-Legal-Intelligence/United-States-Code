@@ -36,13 +36,13 @@ Payment of Costs Related to Care in Specialized Treatment Facilities.—(1) Subj
 
 Covered Beneficiary Defined.—In this section, the term “covered beneficiary” means a person covered under section 1079 or 1086 of this title.
 
-(h)
-
-Expiration of Program.—The Secretary may not carry out the specialized treatment facility program authorized by this section after September 30, 1995.
-
-(Added Pub. L. 102–190, div. A, title VII, §715(a), Dec. 5, 1991, 105 Stat. 1403; amended Pub. L. 103–160, div. A, title VII, §716(a)(1), Nov. 30, 1993, 107 Stat. 1691.)
+(Added Pub. L. 102–190, div. A, title VII, §715(a), Dec. 5, 1991, 105 Stat. 1403; amended Pub. L. 103–160, div. A, title VII, §716(a)(1), Nov. 30, 1993, 107 Stat. 1691; Pub. L. 104–106, div. A, title VII, §706, Feb. 10, 1996, 110 Stat. 373.)
 
 #### Amendments
+
+1996—Subsec. (h). Pub. L. 104–106 struck out subsec. (h) which read as follows: “
+
+Expiration of Program.—The Secretary may not carry out the specialized treatment facility program authorized by this section after September 30, 1995.”
 
 1993—Pub. L. 103–160 substituted “Specialized treatment facility program” for “Issuance of nonavailability of health care statements” as section catchline and amended text generally. Prior to amendment, text read as follows: “In determining whether to issue a nonavailability of health care statement for any person entitled to health care in facilities of the uniformed services under this chapter, the commanding officer of such a facility may consider the availability of health care services for such person pursuant to any contract or agreement entered into under this chapter for the provision of health care services within the area served by that facility.”
 

@@ -16,7 +16,7 @@ Subject to this chapter, and to effectuate the declared purposes of this chapter
 
 #### (3) Issuance of order
 
-&emsp;After notice and opportunity for public comment are given, as provided in paragraph (2),the Secretary shall issue an order, taking into consideration the comments received and including in the order provisions necessary to ensure that the order is in conformity with the requirements of this chapter.
+&emsp;After notice and opportunity for public comment are given, as provided in paragraph (2), the Secretary shall issue an order, taking into consideration the comments received and including in the order provisions necessary to ensure that the order is in conformity with the requirements of this chapter.
 
 #### (4) Effective date of order
 

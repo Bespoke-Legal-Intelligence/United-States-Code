@@ -4,7 +4,7 @@ Cotton is the basic natural fiber of the Nation. It is produced by many individu
 
 It has long been found to be in the public interest to have, or endeavor to have, a reasonable balance between the supply of and demand for cotton grown in this country. To serve this public interest the Congress has provided for the comprehensive exercise of regulatory authority in regulating the handling of such cotton supplemented by price-support programs with the objective of adjusting supply to demand in the interest of benefiting producers and all others concerned with the production and handling of cotton as well as the general economy of the country. In order for the objective of such programs to be effectuated to the fullest degree, it is necessary that the existing regulation of marketing be supplemented by providing as part of the overall governmental program for effectuating this objective, means of increasing the demand for cotton with the view of eventually reducing or eliminating the need for limiting marketings and supporting the price of cotton.
 
-It is therefore declared to be the policy of the Congress and the purpose of this chapter that it is essential in the public interest through the exercise of the powers provided herein, to authorize and enable the establishment of an orderly procedure for the development, financing through adequate assessments on all cotton marketed in the United States and on imports of cotton, and carrying out an effective and continuous coordinated program of research and promotion designed to strengthen cotton's competitive position and to maintain and expand domestic and foreign markets and uses for United States cotton.
+It is therefore declared to be the policy of the Congress and the purpose of this chapter that itis essential in the public interest through the exercise of the powers provided herein, to authorize and enable the establishment of an orderly procedure for the development, financing through adequate assessments on all cotton marketed in the United States and on imports of cotton, and carrying out an effective and continuous coordinated program of research and promotion designed to strengthen cotton's competitive position and to maintain and expand domestic and foreign markets and uses for United States cotton.
 
 (Pub. L. 89–502, §2, July 13, 1966, 80 Stat. 279; Pub. L. 101–624, title XIX, §1991, Nov. 28, 1990, 104 Stat. 3909.)
 
@@ -18,7 +18,7 @@ Section 20 of Pub. L. 89–502 provided that: “This Act \[enacting this chapte
 
 #### Short Title of 1990 Amendment
 
-Section 1990 of Pub. L. 101–624 provided that: “This subtitle \[subtitle G (§§1990–1998) of title XIX of Pub. L.101–624, amending this section and sections 2106 to 2110 and 2116 of this title, and enacting provisions set out below\] may be cited as the ‘Cotton Research and Promotion Act Amendments of 1990’.”
+Section 1990 of Pub. L. 101–624 provided that: “This subtitle \[subtitle G (§§1990–1998) of title XIX of Pub. L. 101–624, amending this section and sections 2106 to 2110 and 2116 of this title, and enacting provisions set out below\] may be cited as the ‘Cotton Research and Promotion Act Amendments of 1990’.”
 
 #### Short Title
 

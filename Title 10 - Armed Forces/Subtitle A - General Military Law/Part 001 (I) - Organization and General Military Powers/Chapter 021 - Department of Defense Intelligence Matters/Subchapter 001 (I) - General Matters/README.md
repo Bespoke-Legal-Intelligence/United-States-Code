@@ -5,8 +5,13 @@
 | [421\.](%C2%A7%2000421%20-%20Funds%20for%20foreign%20cryptologic%20support.md) | Funds for foreign cryptologic support. |
 | [422\.](%C2%A7%2000422%20-%20Counterintelligence%20official%20reception%20and%20representation%20expenses.md) | Counterintelligence official reception and representation expenses. |
 | [423\.](%C2%A7%2000423%20-%20Authority%20to%20use%20proceeds%20from%20counterintelligence%20operations%20of%20the%20military%20departments.md) | Authority to use proceeds from counterintelligence operations of the military departments. |
-| [424\.](%C2%A7%2000424%20-%20Disclosure%20of%20organizational%20and%20personnel%20information%20exemption%20for%20Defense%20Intelligence%20Agency.md) | Disclosure of organizational and personnel information: exemption for Defense Intelligence Agency. |
-| [425\.](%C2%A7%2000425%20-%20Disclosure%20of%20personnel%20information%20exemption%20for%20National%20Reconnaissance%20Office.md) | Disclosure of personnel information: exemption for National Reconnaissance Office. |
+| [424\.](%C2%A7%2000424%20-%20Disclosure%20of%20organizational%20and%20personnel%20information%20exemption%20for%20Defense%20Intelligence%20Agency%2C%20National%20Reconnaissance%20Office%2C%20and%E2%80%A6.md) | Disclosure of organizational and personnel information: exemption for Defense Intelligence Agency.<sup>1</sup> |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+|  |  |
+| :--- | ---: |
+| [425\.](%C2%A7%2000425%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93201%2C%20div.%20A%2C%20title%20XI%2C%20%C2%A71112%28d%29%2C%20Sept.%2023%2C%201996%2C%20110%20Stat.%202683.md) | Disclosure of personnel information: exemption for National Reconnaissance Office.<sup>2</sup> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -22,6 +27,10 @@
 
 1987—Pub. L. 100–180, div. A, title XII, §1231(3), Dec. 4, 1987, 101 Stat. 1160, substituted “departments” for “department” in item 423.
 
+<i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
+
+<i><sup>2</sup></i><i> Section repealed by Pub. L. 104–201 without corresponding amendment of subchapter analysis.</i>
+
 
 ---
 
@@ -30,5 +39,5 @@
 - [&sect; 00421 - Funds for foreign cryptologic support](%C2%A7%2000421%20-%20Funds%20for%20foreign%20cryptologic%20support.md)
 - [&sect; 00422 - Counterintelligence official reception and representation expenses](%C2%A7%2000422%20-%20Counterintelligence%20official%20reception%20and%20representation%20expenses.md)
 - [&sect; 00423 - Authority to use proceeds from counterintelligence operations of the military departments](%C2%A7%2000423%20-%20Authority%20to%20use%20proceeds%20from%20counterintelligence%20operations%20of%20the%20military%20departments.md)
-- [&sect; 00424 - Disclosure of organizational and personnel information exemption for Defense Intelligence Agency](%C2%A7%2000424%20-%20Disclosure%20of%20organizational%20and%20personnel%20information%20exemption%20for%20Defense%20Intelligence%20Agency.md)
-- [&sect; 00425 - Disclosure of personnel information exemption for National Reconnaissance Office](%C2%A7%2000425%20-%20Disclosure%20of%20personnel%20information%20exemption%20for%20National%20Reconnaissance%20Office.md)
+- [&sect; 00424 - Disclosure of organizational and personnel information exemption for Defense Intelligence Agency, National Reconnaissance Office, and&#8230;](%C2%A7%2000424%20-%20Disclosure%20of%20organizational%20and%20personnel%20information%20exemption%20for%20Defense%20Intelligence%20Agency%2C%20National%20Reconnaissance%20Office%2C%20and%E2%80%A6.md)
+- [&sect; 00425 - Repealed. Pub. L. 104&#8211;201, div. A, title XI, &sect;1112(d), Sept. 23, 1996, 110 Stat. 2683](%C2%A7%2000425%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93201%2C%20div.%20A%2C%20title%20XI%2C%20%C2%A71112%28d%29%2C%20Sept.%2023%2C%201996%2C%20110%20Stat.%202683.md)

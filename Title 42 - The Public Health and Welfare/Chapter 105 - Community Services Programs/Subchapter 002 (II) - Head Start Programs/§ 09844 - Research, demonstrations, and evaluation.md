@@ -42,7 +42,7 @@ In carrying out activities under this section, the Secretary shall—
 
 &emsp;&emsp;(C) individuals from other Federal agencies, and individuals from organizations, involved with children and families, ensuring that the individuals described in this subparagraph reflect the multicultural nature of the children and families served by the Head Start programs and the multidisciplinary nature of the Head Start programs;
 
-&emsp;(2) whenever feasible and appropriate, obtain the views of persons participating in and served by programs and projects assisted under this subchapter with respect to activities under this section; and
+&emsp;(2) whenever feasible and appropriate, obtain the views of persons participating in and served by programs and projects assistedunder this subchapter with respect to activities under this section; and
 
 &emsp;(3) establish, to the extent appropriate, working relationships with the faculties of institutions of higher education, as defined in section 1141(a) of title 20, located in the area in which any evaluation under this section is being conducted, unless there is no such institution of higher education willing and able to participate in such evaluation.
 
@@ -100,25 +100,7 @@ Amendment by Pub. L. 101–501 effective Oct. 1, 1990, see section 1001(a) of Pu
 
 #### Study of Full-Day and Full-Year Head Start Programs
 
-Section 126 of Pub. L. 103–252 provided that:
-
-“(a)
-
-Study.—The Secretary of Health and Human Services shall conduct a study of the extent to which Head Start programs are addressing the need for Head Start services during a full working day or full calendar year among eligible low-income families with preschool children.
-
-“(b)
-
-Report.—The Secretary shall prepare and submit a report to the Committee on Education and Labor \[now Committee on Economic and Educational Opportunities\] of the House of Representatives and the Committee on Labor and Human Resources of the Senate not later than January 31, 1997, containing the results of the study, including—
-
-&emsp;“(1) the number of eligible children in need of full-day or full-year Head Start programs;
-
-&emsp;“(2) the number of full-day, full-year Head Start programs and the number of children served in such program and those provided full-day or full-year services through cooperative arrangements with other funding sources;
-
-&emsp;“(3) a description of promising models currently employed by Head Start programs for meeting such needs both directly and through arrangements with other service providers;
-
-&emsp;“(4) a description of the barriers to meeting the need for full-day, full-year care among such families; and
-
-&emsp;“(5) recommendations on how the barriers could be eliminated in order to meet the needs of children and families served.”
+Section 126 of Pub. L. 103–252 directed Secretary of Health and Human Services to conduct a study of extent to which Head Start programs address the need for Head Start services during a full working day or full calendar year among eligible low-income families with preschool children and to submit a report to Congress not later than Jan. 31, 1997.
 
 #### Section Referred to in Other Sections
 

@@ -6,7 +6,7 @@ An employee of a contractor may not be discharged, demoted, or otherwise discrim
 
 #### (b) Investigation of complaints
 
-A person who believes that the person has been subjected to a reprisal prohibited by subsection (a) of this section may submit a complaint to the Inspector General of the executive agency. Unless the Inspector General determines that the complaint is frivolous, the Inspector General shall investigate the complaint and, upon completion of such investigation, submit a report of the findings of the investigation to the person, the contractor concerned, and the head of the agency. In the case of an executive agency that does not have an inspector general, the duties of the inspector general under this section shall be performed by an official designated by the head of the executive agency.
+A person who believes that the person has been subjected to a reprisal prohibited by subsection (a) of this section may submit a complaint to the Inspector General of the executive agency. Unless the Inspector General determines that the complaint is frivolous, the Inspector General shall investigate the complaint and, upon completion of such investigation, submit a report of the findings of the investigation to the person, the contractor concerned, and the head of the agency. In the case of an executive agency that does not have an Inspector General, the duties of the Inspector General under this sectionshall be performed by an official designated by the head of the executive agency.
 
 #### (c) Remedy and enforcement authority
 
@@ -36,11 +36,19 @@ In this section:
 
 &emsp;(3) The term “Inspector General” means an Inspector General appointed under the Inspector General Act of 1978.
 
-(June 30, 1949, ch. 288, title III, §315, as added Oct. 13, 1994, Pub. L. 103–355, title VI, §6006, 108 Stat. 3365.)
+(June 30, 1949, ch. 288, title III, §315, as added Oct. 13, 1994, Pub. L. 103–355, title VI, §6006, 108 Stat. 3365; amended Feb. 10, 1996, Pub. L. 104–106, div. D, title XLIII, §4321(e)(8), 110 Stat. 675.)
 
 #### References in Text
 
 The Inspector General Act of 1978, referred to in subsec. (e)(3), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### Amendments
+
+1996—Subsec. (b). Pub. L. 104–106 substituted “Inspector General” for “inspector general” after “does not have an” and after “the duties of the”.
+
+#### Effective Date of 1996 Amendment
+
+For effective date and applicability of amendment by Pub. L. 104–106, see section 4401 of Pub. L. 104–106, set out as a note under section 251 of this title.
 
 #### Effective Date
 

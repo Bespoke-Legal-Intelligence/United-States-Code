@@ -93,7 +93,7 @@
 | (d) | Permanent vacancy in office of Lieutenant Governor; Governor to appoint new Lieutenant Governor with advice and consent of legislature; term of office. |
 | (e) | Temporary disability or temporary absence of Governor and Lieutenant Governor; appointment of Acting Governor; permanent vacancies in offices of Governor and Lieutenant Governor; appointment of Governor. |
 | (f) | Additional compensation. |
-| [1596\.](Subchapter%20004%20%28IV%29%20-%20Executive%20Branch/%C2%A7%2001596%20-%20Delegate%20from%20Virgin%20Islands%20to%20United%20States%20House%20of%20Representatives%3B%20clerk%20hire%20allowance%20and%20transportation%20expenses.md) | Delegate from Virgin Islands to United States House of Representatives; clerk hire allowance and transportation expenses. |
+| [1596\.](Subchapter%20004%20%28IV%29%20-%20Executive%20Branch/%C2%A7%2001596%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93186%2C%20title%20II%2C%20%C2%A7224%283%29%2C%20Aug.%2020%2C%201996%2C%20110%20Stat.%201752.md) | Repealed. |
 | [1597\.](Subchapter%20004%20%28IV%29%20-%20Executive%20Branch/%C2%A7%2001597%20-%20Reorganization%20of%20government.md) | Reorganization of government. |
 | (a) | Consolidation of departments, bureaus, etc.; popular election of school board members. |
 | (b) | Changes after examination from time to time. |
@@ -156,10 +156,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 1469a–1, 1645 of this title.
-
 #### Constitutions for Virgin Islands and Guam: Establishment; Congressional Authorization
 
 Pub. L. 94–584, Oct. 21, 1976, 90 Stat. 2899, as amended by Pub. L. 96–597, title V, §501, Dec. 24, 1980, 94 Stat. 3479, provided:
@@ -172,7 +168,7 @@ Sec. 2. \[Constitutional conventions and draft provisions\] (a) The Legislatures
 
 “(b) Such constitutions shall—
 
-&emsp;“(1) recognize, and be consistent with, the sovereignty of the United States over the Virgin Islands and Guam, respectively, and the supremacy of the provisions of the Constitution, treaties, and laws of the United States applicable to the Virgin Islands and Guam, respectively, including, but not limited to, those provisions of the Organic Act \[section 1405 et seq. of this title\] and Revised Organic Act of the Virgin Islands \[this chapter\] and the Organic Act of Guam \[section 1421 et seq. of this title\] which do not relate to local self-government.
+&emsp;“(1) recognize, and be consistent with, the sovereignty of the United States over the Virgin Islands and Guam, respectively, and the supremacy of the provisions of the Constitution, treaties, and laws ofthe United States applicable to the Virgin Islands and Guam, respectively, including, but not limited to, those provisions of the Organic Act \[section 1405 et seq. of this title\] and Revised Organic Act of the Virgin Islands \[this chapter\] and the Organic Act of Guam \[section 1421 et seq. of this title\] which do not relate to local self-government.
 
 &emsp;“(2) provide for a republican form of government, consisting of three branches: executive, legislative, and judicial;
 
@@ -188,7 +184,7 @@ Sec. 2. \[Constitutional conventions and draft provisions\] (a) The Legislatures
 
 “
 
-Sec. 3. \[Selection and qualification of members\] The members of such constitutional conventions shall be chosen as provided by the laws of the Virgin Islands and Guam, respectively (enacted after the date of enactment of this Act \[Oct. 21, 1976\]): <i>Provided, however</i>, That no person shall be eligible to be a member of the constitutional conventions, unless he is a citizen of theUnited States and qualified to vote in the Virgin Islands and Guam, respectively.
+Sec. 3. \[Selection and qualification of members\] The members of such constitutional conventions shall be chosen as provided by the laws of the Virgin Islands and Guam, respectively (enacted after the date of enactment of this Act \[Oct. 21, 1976\]): <i>Provided, however</i>, That no person shall be eligible to be a member of the constitutional conventions, unless he is a citizen of the United States and qualified to vote in the Virgin Islands and Guam, respectively.
 
 “
 
@@ -197,6 +193,10 @@ Sec. 4. \[Submittal of proposed constitutions to governors and President\] The c
 “
 
 Sec. 5. \[Transmittal to Congress and submittal to voters\] Within sixty calendar days after the respective date on which he has received each constitution, the President shall transmit such constitution together with his comments to the Congress. The constitution, in each case, shall be deemed to have been approved by the Congress within sixty legislative days (not interrupted by an adjournment sine die of the Congress) after its submission by the President, unless prior to that date the Congress has approved the constitution, or modified or amended it, in whole or in part, by joint resolution. As so approved or modified, the constitutions shall be submitted to the qualified voters of the Virgin Islands and Guam, respectively, for acceptance or rejection through islandwide referendums to be conducted as provided under the laws of the Virgin Islands and Guam, respectively, (enacted after the date of enactment of this Act) \[Oct. 21, 1976\]. Upon approval by not less than a majority of the votes (counting only the affirmative or negative votes) participating in such referendums, the constitutions shall become effective in accordance with their terms.”
+
+#### Chapter Referred to in Other Sections
+
+This chapter is referred to in sections 1469a–1, 1645 of this title.
 
 
 ---

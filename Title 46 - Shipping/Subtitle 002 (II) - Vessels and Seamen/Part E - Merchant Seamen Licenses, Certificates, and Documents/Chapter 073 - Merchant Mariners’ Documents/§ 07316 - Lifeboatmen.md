@@ -18,7 +18,7 @@ Historical and Revision Notes
 
 7316
 
-46:643(<i>l)</i>
+46:643(<i>l</i>)
 
 Section 7316 establishes the minimum standards an individual must meet in order to qualify for an endorsement as lifeboatman.
 

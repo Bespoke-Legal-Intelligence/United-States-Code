@@ -2,33 +2,61 @@
 
 #### (a) Authorization of appropriations
 
-There are authorized to be appropriated such funds as Congress may determine necessary to support research on specific national or regional animal health or disease problems, but not to exceed $35,000,000 for each of the fiscal years 1991 through 1995, and not in excess of such sums as may after September 29, 1977, be authorized by law for any subsequent fiscal year.
+There are authorized to be appropriated such funds as Congress may determine necessary to support research on specific national or regional animal health or disease problems, or national or regional problems relating to pre-harvest, on-farm food safety, or animal well-being, but notto exceed $35,000,000 for each of the fiscal years 1991 through 1997, and not in excess of such sums as may after September 29, 1977, be authorized by law for any subsequent fiscal year.
 
 #### (b) Duration of grants
 
-Notwithstanding the provisions of section 3197 of this title, funds appropriated under this section shall be awarded in the form of grants, for periods not to exceed five years, to eligible institutions.
+Notwithstanding the provisions of section 3197 of this title, funds appropriated under this section shall be awarded in the form of grants, for periods not to exceed five years, to State agricultural experiment stations, colleges and universities, other research institutions and organizations, Federal agencies, private organizations or corporations, and individuals.
 
 #### (c) Establishment of annual priority lists for allocation of funds
 
-In order to establish a rational allocation of funds appropriated under this section, the Secretary shall establish annually priority lists of animal health and disease problems of national or regional significance. Such lists shall be prepared after consultation with the Joint Council, the Advisory Board, and the Board. Any recommendations made in connection with such consultation shall not be controlling on the Secretary's determination of priorities. In establishing such priorities, the Secretary, the Joint Council, the Advisory Board, and the Board shall consider the following factors:
+In order to establish a rational allocation of funds appropriated under this section, the Secretary shall establish annually priority lists of animal health and disease, food safety, and animal well-being problems of national or regional significance. Such lists shall be prepared after consultation with the Advisory Board and the Board. Any recommendations made in connection with such consultation shall not be controlling on the Secretary's determination of priorities. In establishing such priorities, the Secretary, the Advisory Board, and the Board shall consider the following factors:
 
 &emsp;(1) any health or disease problem which causes or may cause significant economic losses to any part of the livestock production industry;
 
-&emsp;(2) whether current scientific knowledge necessary to prevent, cure, or abate such a health or disease problem is adequate; and
+&emsp;(2) any food safety problem that has a significant pre-harvest (on-farm) component and is recognized as posing a significant health hazard to the consuming public;
 
-&emsp;(3) whether the status of scientific research is such that accomplishments may be anticipated through the application of scientific effort to such health or disease problem.
+&emsp;(3) issues of animal well-being related to production methods that will improve the housing and management of animals to improve the well-being of livestock production species;
+
+&emsp;(4) whether current scientific knowledge necessary to prevent, cure, or abate such a health or disease problem is adequate; and
+
+&emsp;(5) whether the status of scientific research is such that accomplishments may be anticipated through the application of scientific effort to such health or disease problem.
 
 #### (d) Assignment of priorities for grants
 
-Without regard to any consultation under subsection (c) of this section, the Secretary shall, to the extent feasible, award grants to eligible institutions on the basis of the priorities assigned through a peer review system. Grantees shall be selected on a competitive basis in accordance with such procedures as the Secretary may establish.
+Without regard to any consultation under subsection (c) of this section, the Secretary shall, to the extent feasible, award grants on the basis of the priorities assigned through a peer review system. Grantees shall be selected on a competitive basis in accordance with such procedures as the Secretary may establish.
 
 #### (e) Distribution of multiyear grants
 
 In the case of multiyear grants, the Secretary shall distribute funds to grant recipients on a schedule which is reasonably related to the timetable required for the orderly conduct of the research project involved.
 
-(Pub. L. 95–113, title XIV, §1434, Sept. 29, 1977, 91 Stat. 1004; Pub. L. 97–98, title XIV, §1430, Dec. 22, 1981, 95 Stat. 1309; Pub. L. 99–198, title XIV, §1414(c), Dec. 23, 1985, 99 Stat. 1549; Pub. L. 101–624, title XVI, §1601(b)(2), Nov. 28, 1990, 104 Stat. 3703.)
+#### (f) Applicability of Federal Advisory Committee Act
+
+The Federal Advisory Committee Act (5 U.S.C. App.) and title XVIII of this Act \[7 U.S.C. 2281 et seq.\] shall not apply to a panel or board created solely for the purpose of reviewing applications or proposals submitted under this subchapter.
+
+(Pub. L. 95–113, title XIV, §1434, Sept. 29, 1977, 91 Stat. 1004; Pub. L. 97–98, title XIV, §1430, Dec. 22, 1981, 95 Stat. 1309; Pub. L. 99–198, title XIV, §1414(c), Dec. 23, 1985, 99 Stat. 1549; Pub. L. 101–624, title XVI, §1601(b)(2), Nov. 28, 1990, 104 Stat. 3703; Pub. L. 104–127, title VIII, §§812, 852(b)(5), Apr. 4, 1996, 110 Stat. 1165, 1171.)
+
+#### References in Text
+
+The Federal Advisory Committee Act, referred to in subsec. (f), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+
+Title XVIII of this Act, referred to in subsec. (f), is title XVIII of the Food and Agriculture Act of 1977, Pub. L. 95–113, Sept. 29, 1977, 91 Stat. 1041, as amended, which is classified generally to chapter 55A (§2281 et seq.) of this title. For complete classification of this Act to the Code, see Short Title of 1977 Amendment note set out under section 1281 of this title and Tables.
 
 #### Amendments
+
+1996—Subsec. (a). Pub. L. 104–127, §812(1), inserted “or national or regional problems relating to pre-harvest, on-farm food safety, or animal well-being,” after “problems,” and substituted “1997” for “1995”.
+
+Subsec. (b). Pub. L. 104–127, §812(2), substituted “State agricultural experiment stations, colleges and universities, other research institutions and organizations, Federal agencies, private organizations or corporations, and individuals” for “eligible institutions”.
+
+Subsec. (c). Pub. L. 104–127, §852(b)(5), in introductory provisions, substituted “after consultation with the Advisory Board” for “after consultation with the Joint Council, the Advisory Board,” and “the Secretary, the Advisory Board,” for “the Secretary, the Joint Council, the Advisory Board,”.
+
+Pub. L. 104–127, §812(3)(A), in introductory provisions, inserted “, food safety, and animal well-being” after “animal health and disease”.
+
+Subsec. (c)(2) to (5). Pub. L. 104–127, §812(3)(B), added pars. (2) and (3) and redesignated former pars. (2) and (3) as (4) and (5), respectively.
+
+Subsec. (d). Pub. L. 104–127, §812(4), struck out “to eligible institutions” after “award grants”.
+
+Subsec. (f). Pub. L. 104–127, §812(5), added subsec. (f).
 
 1990—Subsec. (a). Pub. L. 101–624 substituted “for each of the fiscal years 1991 through 1995,” for “annually for the period beginning October 1, 1981, and ending September 30, 1990,”.
 

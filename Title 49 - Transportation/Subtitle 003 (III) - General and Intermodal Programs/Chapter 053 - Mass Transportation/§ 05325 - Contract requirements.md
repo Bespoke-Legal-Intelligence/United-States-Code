@@ -26,13 +26,17 @@ Procuring Associated Capital Maintenance Items.—A recipient of a grant under s
 
 (d)
 
-Management, Architectural, and Engineering Contracts.—A contract for program management, construction management, a feasibility study, and preliminary engineering, design, architectural, engineering, surveying, mapping, or related services for a project for which a grant or loan is made under this chapter shall be awarded in the same way as a contract for architectural and engineering services is negotiated under title IX of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 541 et seq.) or an equivalent qualifications-based requirement of a State. This subsection does not apply to the extent a State has adopted or adopts by law a formal procedure for procuring those services.
+Architectural, Engineering, and Design Contracts.—A contract for program management, construction management, a feasibility study, and preliminary engineering, design, architectural, engineering, surveying, mapping, or related services for a project for which a grant or loan is made under this chapter shall be awarded in the same way as a contract for architectural and engineering services is negotiated under title IX of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 541 et seq.) or an equivalent qualifications-based requirement of a State. This subsection does not apply to the extent a State has adopted or adopts by law a formal procedure for procuring those services.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 825.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 825; Pub. L. 104–287, §5(16), Oct. 11, 1996, 110 Stat. 3390.)
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+Pub. L. 103–272
+
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -62,13 +66,29 @@ July 9, 1964, Pub. L. 88–365, 78 Stat. 302, §12(b)(3); added Apr. 2, 1987, Pu
 
 July 9, 1964, Pub. L. 88–365, 78 Stat. 302, §12(b)(4); added Apr. 2, 1987, Pub. L. 100–17, §316, 101 Stat. 232.
 
-In subsection (a), the words “reconstruction”, “in furtherance of the purposes”, “by applicants”, “procedures as defined by the Secretary”, “of the contractingparties”, and “the operations or activities under” are omitted as surplus. The words “shall be made available to” are substituted for “shall . . . have access to”, and the words “an officer or employee of the Secretary or Comptroller General” are substituted for “any of their duly authorized representatives”, for consistency in the revised title and with other titles of the United States Code.
+In subsection (a), the words “reconstruction”, “in furtherance of the purposes”, “by applicants”, “procedures as defined by the Secretary”, “of the contracting parties”, and “the operations or activities under” are omitted as surplus. The words “shall be made available to” are substituted for “shall . . . have access to”, and the words “an officer or employee of the Secretary or Comptroller General” are substituted for “any of their duly authorized representatives”, for consistency in the revised title and with other titles of the United States Code.
 
 Subsection (b) is substituted for 49 App.:1608(b)(2) for clarity. The text of 49 App.:1608(b)(2) (last sentence) is omitted as executed.
+
+#### Pub. L. 104–287
+
+This amends the catchline for 49:5325(d) to make a clarifying amendment.
 
 #### References in Text
 
 The Federal Property and Administrative Services Act of 1949, referred to in subsec. (d), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Title IX of the Act is classified generally to subchapter VI (§541 et seq.) of chapter 10 of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 471 of Title 40 and Tables.
+
+#### Amendments
+
+1996—Subsec. (d). Pub. L. 104–287 substituted “
+
+Architectural, Engineering, and Design Contracts” for “
+
+Management, Architectural, and Engineering Contracts” in heading.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–287 effective July 5, 1994, see section 8(1) of Pub. L. 104–287, set out as a note under section 5303 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -2,7 +2,7 @@
 
 In the performance of its functions, the Central Intelligence Agency is authorized to—
 
-(a) Transfer to and receive from other Government agencies such sums as may be approved by the Office of Management and Budget, for the performance of any of the functions or activities authorized under subparagraphs (B) and (C) of section 403(a)(2) of this title, subsections (c)(5) and (d) of section 403–3 of this title, subsections (a) and (g) of section 403–4 of this title, and section 405 of this title, and any other Government agency is authorized to transfer to or receive from the Agency such sums without regard to any provisions of law limiting or prohibiting transfers between appropriations. Sums transferred to the Agency in accordance with this paragraph may be expended for the purposes and under the authority of sections 403a to 403s of this title without regard to limitations of appropriations from which transferred;
+(a) Transfer to and receive from other Government agencies such sums as may be approved by the Office of Management and Budget, for the performance of any of the functions or activities authorized under subparagraphs (B) and (C) of section 403(a)(2) of this title, subsections (c)(5) <sup>1</sup> and (d) of section 403–3 of this title, subsections (a) and (g) of section 403–4 of this title, and section 405 of this title, and any other Government agency is authorized to transfer to or receive from the Agency such sums without regard to any provisions of law limiting or prohibiting transfers between appropriations. Sums transferred to the Agency in accordance with this paragraph may be expended for the purposes and under the authority of sections 403a to 403s of this title without regard to limitations of appropriations from which transferred;
 
 (b) Exchange funds without regard to section 3651 of the Revised Statutes;
 
@@ -17,6 +17,8 @@ In the performance of its functions, the Central Intelligence Agency is authoriz
 (June 20, 1949, ch. 227, §5, formerly §6, 63 Stat. 211; June 26, 1951, ch. 151, 65 Stat. 89; renumbered §5, July 7, 1958, Pub. L. 85–507, §21(b)(2), 72 Stat. 337; amended Aug. 19, 1964, Pub. L. 88–448, title IV, §402(a)(28), 78 Stat. 494; Dec. 4, 1981, Pub. L. 97–89, title V, §502, 95 Stat. 1153; Dec. 9, 1983, Pub. L. 98–215, title IV, §401, 97 Stat. 1477; Dec. 3, 1993, Pub. L. 103–178, title V, §501(1), 107 Stat. 2038.)
 
 #### References in Text
+
+Subsection (c)(5) of section 403–3 of this title, referred to in subsec. (a), was redesignated subsection (c)(6) by Pub. L. 104–293, title VIII, §807(a)(2), Oct. 11, 1996, 110 Stat. 3480.
 
 Section 403d of this title, included within the reference in subsec. (a) to sections 403a to 403q, was repealed by Pub. L. 85–507, §21(b)(2), July 7, 1958, 72 Stat. 337.
 
@@ -44,7 +46,7 @@ Section was enacted as part of the Central Intelligence Agency Act of 1949, and 
 
 #### Effective Date of 1981 Amendment
 
-Amendment by Pub. L. 97–89 effective Oct. 1, 1981, see section 806 of Pub. L. 97–89, set out as an Effective Date note under section 1601 of Title 10, Armed Forces.
+Amendment by Pub. L. 97–89 effective Oct. 1, 1981, see section 806 of Pub. L. 97–89, set out as an Effective Date note under section 1621 of Title 10, Armed Forces.
 
 #### Effective Date of 1964 Amendment
 
@@ -52,13 +54,17 @@ Amendment by Pub. L. 88–448 effective on first day of first month which begins
 
 #### Restriction on Transfer of Funds Available to Central Intelligence Agency for Drug Interdiction and Counter-Drug Activities
 
-Pub. L. 104–61, title VIII, §8096(b), Dec. 1, 1995, 109 Stat. 671, provided that: “None of the funds available to the Central Intelligence Agency for any fiscal year for drug interdiction and counter-drug activities may be transferred to any other department or agency of the United States except as specifically provided in an appropriations law.”
+Pub. L. 104–208, div. A, title I, §101(b) \[title VIII, §8080(b)\], Sept. 30, 1996, 110 Stat. 3009–71, 3009–104, provided that: “None of the funds available to the Central Intelligence Agency for any fiscal year for drug interdiction and counter-drug activities may be transferred to any other department or agency of the United States except as specifically provided in an appropriations law.”
 
-Similar provisions were contained in the following prior appropriation act:
+Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 104–61, title VIII, §8096(b), Dec. 1, 1995, 109 Stat. 671.
 
 Pub. L. 103–335, title VIII, §8154(b), Sept. 30, 1994, 108 Stat. 2658.
 
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 403a, 403e of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

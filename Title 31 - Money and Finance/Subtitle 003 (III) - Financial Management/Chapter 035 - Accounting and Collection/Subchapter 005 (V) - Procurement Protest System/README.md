@@ -2,7 +2,7 @@
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in section 1558 of this title; title 10 section 2305; title 40 section 759; title 41 section 253b.
+This subchapter is referred to in section 1558 of this title; title 10 section 2305; title 15 section 205<i>l</i>; title 41 sections 253b, 423, 431.
 
 
 ---

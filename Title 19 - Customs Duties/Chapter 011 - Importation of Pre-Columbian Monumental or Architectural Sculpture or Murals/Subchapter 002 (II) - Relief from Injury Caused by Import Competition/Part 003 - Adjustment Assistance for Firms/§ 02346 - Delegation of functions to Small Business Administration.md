@@ -2,7 +2,7 @@
 
 #### (a) Delegation of functions as to eligibility certification
 
-In the case of any firm which is small (within the meaning of the Small Business Act \[15U.S.C. 631 et seq.\] and regulations promulgated thereunder), the Secretary may delegate all of his functions under this part (other than the functions under sections 2341 and 2342(d) <sup>1</sup> of this title with respect to the certification of eligibility and section 2354 of this title) to the Administrator of the Small Business Administration.
+In the case of any firm which is small (within the meaning of the Small Business Act \[15 U.S.C. 631 et seq.\] and regulations promulgated thereunder), the Secretary may delegate all of his functions under this part (other than the functions under sections 2341 and 2342(d) <sup>1</sup> of this title with respect to the certification of eligibility and section 2354 of this title) to the Administrator of the Small Business Administration.
 
 #### (b) Authorization of appropriations
 

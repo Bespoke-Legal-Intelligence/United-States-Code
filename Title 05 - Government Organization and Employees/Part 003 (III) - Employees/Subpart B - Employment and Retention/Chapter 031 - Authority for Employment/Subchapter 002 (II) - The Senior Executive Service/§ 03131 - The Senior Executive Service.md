@@ -60,5 +60,5 @@ Pub. L. 98–615, title III, §301, Nov. 8, 1984, 98 Stat. 3217, provided that: 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3151, 3393a of this title; title 10 sections 1590, 1601; title 31 section 733.
+This section is referred to in sections 3151, 3393a of this title; title 10 section 1606; title 31 section 733.
 

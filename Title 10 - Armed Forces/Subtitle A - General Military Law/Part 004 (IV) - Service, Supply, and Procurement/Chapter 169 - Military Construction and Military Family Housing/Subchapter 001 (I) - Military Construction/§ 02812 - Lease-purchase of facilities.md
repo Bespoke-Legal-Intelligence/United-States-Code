@@ -28,7 +28,7 @@
 
 &emsp;(2) shall provide that, at the end of the term of the lease, title to the leased facility shall vest in the United States; and
 
-&emsp;(3) shall include such other terms and conditions as the Secretary concerned determinesare necessary or desirable to protect the interests of the United States.
+&emsp;(3) shall include such other terms and conditions as the Secretary concerned determines are necessary or desirable to protect the interests of the United States.
 
 (c)(1) The Secretary concerned may not enter into a lease under this section until—
 

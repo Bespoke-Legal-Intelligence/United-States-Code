@@ -16,7 +16,7 @@ The Archivist of the United States shall cause to be compiled, edited, indexed, 
 
 Amendment by Pub. L. 98–497 effective Apr. 1, 1985, see section 301 of Pub. L. 98–497, set out as a note under section 2102 of Title 44, Public Printing and Documents.
 
-#### Effect of Repeal of Section 73 of Act Jan. 12, 1895
+#### Effect of Repeal of Section 73 of Act Jan. 12, 1895
 
 This section and section 112a of this title as not affected by the repeal of section 73 of act Jan. 12, 1895, ch. 23, 28 Stat. 615, which related to the same subject matter, see section 56(i) of act Oct. 31, 1951, ch. 655, 65 Stat. 729.
 

@@ -15,5 +15,5 @@
 - [&sect; 03528 - Responsibilities and relief from liability of certifying officials](%C2%A7%2003528%20-%20Responsibilities%20and%20relief%20from%20liability%20of%20certifying%20officials.md)
 - [&sect; 03529 - Requests for decisions of the Comptroller General](%C2%A7%2003529%20-%20Requests%20for%20decisions%20of%20the%20Comptroller%20General.md)
 - [&sect; 03530 - Adjusting accounts](%C2%A7%2003530%20-%20Adjusting%20accounts.md)
-- [&sect; 03531 - Property returns](%C2%A7%2003531%20-%20Property%20returns.md)
+- [&sect; 03531 - Repealed. Pub. L. 104&#8211;316, title I, &sect;115(f)(1), Oct. 19, 1996, 110 Stat. 3834](%C2%A7%2003531%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93316%2C%20title%20I%2C%20%C2%A7115%28f%29%281%29%2C%20Oct.%2019%2C%201996%2C%20110%20Stat.%203834.md)
 - [&sect; 03532 - Notification of account deficiencies](%C2%A7%2003532%20-%20Notification%20of%20account%20deficiencies.md)

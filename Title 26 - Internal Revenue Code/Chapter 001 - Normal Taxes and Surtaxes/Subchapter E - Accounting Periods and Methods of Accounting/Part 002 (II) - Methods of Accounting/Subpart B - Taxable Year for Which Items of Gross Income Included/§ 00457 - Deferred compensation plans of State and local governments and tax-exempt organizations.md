@@ -30,7 +30,7 @@ For purposes of this section, the term “eligible deferred compensation plan”
 
 &emsp;(5) which meets the distribution requirements of subsection (d), and
 
-&emsp;(6) which provides that—
+&emsp;(6) except as provided in subsection (g), which provides that—
 
 &emsp;&emsp;(A) all amounts of compensation deferred under the plan,
 
@@ -56,7 +56,7 @@ For purposes of this section, the term “eligible deferred compensation plan”
 
 &emsp;&emsp;(B) any amount—
 
-&emsp;&emsp;&emsp;(i) excluded from gross income under section 402(e)(3) or section 402(h)(1)(B) for the taxable year, or
+&emsp;&emsp;&emsp;(i) excluded from gross income under section 402(e)(3) or section 402(h)(1)(B) or (k) for the taxable year, or
 
 &emsp;&emsp;&emsp;(ii) with respect to which a deduction is allowable by reason of a contribution to an organization described in section 501(c)(18) for the taxable year,
 
@@ -142,23 +142,61 @@ For purposes of this section—
 
 &emsp;Gains from the disposition of property shall be treated as income attributable to such property.
 
-#### (9) Benefits not treated as made available by reason of certain elections
+#### (9) Benefits not treated as made available by reason of certain elections, etc.
 
-&emsp;If—
+#### (A) Total amount payable is $3,500 or less
 
-&emsp;&emsp;(A) the total amount payable to a participant under the plan does not exceed $3,500, and
+&emsp;&emsp;The total amount payable to a participant under the plan shall not be treated as made available merely because the participant may elect to receive such amount (or the plan may distribute such amount without the participant's consent) if—
 
-&emsp;&emsp;(B) no additional amounts may be deferred under the plan with respect to the participant,
+&emsp;&emsp;&emsp;(i) such amount does not exceed $3,500, and
 
-> &emsp;the amount payable to the participant under the plan shall not be treated as made available merely because such participant may elect to receive a lump sum payable after separation from service and within 60 days of the election.
+&emsp;&emsp;&emsp;(ii) such amount may be distributed only if—
+
+&emsp;&emsp;&emsp;&emsp;(I) no amount has been deferred under the plan with respect to such participant during the 2-year period ending on the date of the distribution, and
+
+&emsp;&emsp;&emsp;&emsp;(II) there has been no prior distribution under the plan to such participant to which this subparagraph applied.
+
+> &emsp;&emsp;A plan shall not be treated as failing to meet the distribution requirements of subsection (d) by reason of a distribution to which this subparagraph applies.
+
+#### (B) Election to defer commencement of distributions
+
+&emsp;&emsp;The total amount payable to a participant under the plan shall not be treated as madeavailable merely because the participant may elect to defer commencement of distributions under the plan if—
+
+&emsp;&emsp;&emsp;(i) such election is made after amounts may be available under the plan in accordance with subsection (d)(1)(A) and before commencement of such distributions, and
+
+&emsp;&emsp;&emsp;(ii) the participant may make only 1 such election.
 
 #### (10) Transfers between plans
 
 &emsp;A participant shall not be required to include in gross income any portion of the entire amount payable to such participant solely by reason of the transfer of such portion from 1 eligible deferred compensation plan to another eligible deferred compensation plan.
 
-#### (11) Certain plans excepted
+#### (11) Certain plans excluded
 
-&emsp;Any bona fide vacation leave, sick leave, compensatory time, severance pay, disabilitypay, or death benefit plan shall be treated as a plan not providing for the deferral of compensation.
+#### (A) In general
+
+&emsp;&emsp;The following plans shall be treated as not providing for the deferral of compensation:
+
+&emsp;&emsp;&emsp;(i) Any bona fide vacation leave, sick leave, compensatory time, severance pay, disability pay, or death benefit plan.
+
+&emsp;&emsp;&emsp;(ii) Any plan paying solely length of service awards to bona fide volunteers (or their beneficiaries) on account of qualified services performed by such volunteers.
+
+#### (B) Special rules applicable to length of service award plans
+
+#### (i) Bona fide volunteer
+
+&emsp;&emsp;&emsp;An individual shall be treated as a bona fide volunteer for purposes of subparagraph (A)(ii) if the only compensation received by such individual for performing qualified services is in the form of—
+
+&emsp;&emsp;&emsp;&emsp;(I) reimbursement for (or a reasonable allowance for) reasonable expenses incurred in the performance of such services, or
+
+&emsp;&emsp;&emsp;&emsp;(II) reasonable benefits (including length of service awards), and nominal fees for such services, customarily paid by eligible employers in connection with the performance of such services by volunteers.
+
+#### (ii) Limitation on accruals
+
+&emsp;&emsp;&emsp;A plan shall not be treated as described in subparagraph (A)(ii) if the aggregate amount of length of service awards accruing with respect to any year of service for any bona fide volunteer exceeds $3,000.
+
+#### (C) Qualified services
+
+&emsp;&emsp;For purposes of this paragraph, the term “qualified services” means fire fighting and prevention services, emergency medical services, and ambulance services.
 
 #### (12) Exception for nonelective deferred compensation of nonemployees
 
@@ -173,6 +211,14 @@ For purposes of this section—
 #### (13) Special rule for churches
 
 &emsp;The term “eligible employer” shall not include a church (as defined in section 3121(w)(3)(A)) or qualified church-controlled organization (as defined in section 3121(w)(3)(B)).
+
+#### (14) Treatment of qualified governmental excess benefit arrangements
+
+&emsp;Subsections (b)(2) and (c)(1) shall not apply to any qualified governmental excess benefit arrangement (as defined in section 415(m)(3)), and benefits provided under such an arrangement shall not be taken into account in determining whether any other plan is an eligible deferred compensation plan.
+
+#### (15) Cost-of-living adjustment of maximum deferral amount
+
+&emsp;The Secretary shall adjust the $7,500 amount specified in subsections (b)(2) and (c)(1) at the same time and in the same manner as under section 415(d), except that the base period shall be the calendar quarter ending September 30, 1994, and any increase under this paragraph which is not a multiple of $500 shall be rounded to the next lowest multiple of $500.
 
 #### (f) Tax treatment of participants where plan or arrangement of employer is not eligible
 
@@ -192,9 +238,11 @@ For purposes of this section—
 
 &emsp;&emsp;(B) an annuity plan or contract described in section 403,
 
-&emsp;&emsp;(C) that portion of any plan which consists of a transfer of property described in section 83, and
+&emsp;&emsp;(C) that portion of any plan which consists of a transfer of property described in section 83,
 
-&emsp;&emsp;(D) that portion of any plan which consists of a trust to which section 402(b) applies.
+&emsp;&emsp;(D) that portion of any plan which consists of a trust to which section 402(b) applies, and
+
+&emsp;&emsp;(E) a qualified governmental excess benefit arrangement described in section 415(m).
 
 #### (3) Definitions
 
@@ -208,9 +256,53 @@ For purposes of this section—
 
 &emsp;&emsp;The rights of a person to compensation are subject to a substantial risk of forfeiture if such person's rights to such compensation are conditioned upon the future performance of substantial services by any individual.
 
-(Added Pub. L. 95–600, title I, §131(a), Nov. 6, 1978, 92 Stat. 2779; amended Pub. L. 96–222, title I, §101(a)(4), Apr. 1, 1980, 94 Stat. 196; Pub. L. 98–369, div. A, title IV, §491(d)(33), July 18, 1984, 98 Stat. 851; Pub. L. 99–514, title XI, §1107(a), Oct. 22, 1986, 100 Stat. 2426; Pub. L. 100–647, title I, §1011(e)(1), (2), (9), (10), title VI, §§6064(a)–(c), 6071(c), Nov. 10, 1988, 102 Stat. 3460, 3461, 3700, 3701, 3705; Pub. L. 101–239, title VII, §§7811(g)(4), (5), 7816(j), Dec. 19, 1989, 103 Stat. 2409, 2421; Pub. L. 102–318, title V, §521(b)(26), July 3, 1992, 106 Stat. 312.)
+#### (g) Governmental plans must maintain set-asides for exclusive benefit of participants
+
+#### (1) In general
+
+&emsp;A plan maintained by an eligible employer described in subsection (e)(1)(A) shall not be treated as an eligible deferred compensation plan unless all assets and income of the plan described in subsection (b)(6) are held in trust for the exclusive benefit of participants and their beneficiaries.
+
+#### (2) Taxability of trusts and participants
+
+&emsp;For purposes of this title—
+
+&emsp;&emsp;(A) a trust described in paragraph (1) shall be treated as an organization exempt from taxation under section 501(a), and
+
+&emsp;&emsp;(B) notwithstanding any other provision of this title, amounts in the trust shall be includible in the gross income of participants and beneficiaries only to the extent, and at the time, provided in this section.
+
+#### (3) Custodial accounts and contracts
+
+&emsp;For purposes of this subsection, custodial accounts and contracts described in section 401(f) shall be treated as trusts under rules similar to the rules under section 401(f).
+
+(Added Pub. L. 95–600, title I, §131(a), Nov. 6, 1978, 92 Stat. 2779; amended Pub. L. 96–222, title I, §101(a)(4), Apr. 1, 1980, 94 Stat. 196; Pub. L. 98–369, div. A, title IV, §491(d)(33), July 18, 1984, 98 Stat. 851; Pub. L. 99–514, title XI, §1107(a), Oct. 22, 1986, 100 Stat. 2426; Pub. L. 100–647, title I, §1011(e)(1), (2), (9), (10), title VI, §§6064(a)–(c), 6071(c), Nov. 10, 1988, 102 Stat. 3460, 3461, 3700, 3701, 3705; Pub. L. 101–239, title VII, §§7811(g)(4), (5), 7816(j), Dec. 19, 1989, 103 Stat. 2409, 2421; Pub. L. 102–318, title V, §521(b)(26), July 3, 1992, 106 Stat. 312; Pub. L. 104–188, title I, §§1421(b)(3)(C), 1444(b)(2), (3), 1447(a), (b), 1448(a), (b), 1458(a), Aug. 20, 1996, 110 Stat. 1796, 1810, 1812, 1813, 1819.)
 
 #### Amendments
+
+1996—Subsec. (b)(6). Pub. L. 104–188, §1448(b), inserted “except as provided in subsection (g),” before “which provides that” in introductory provisions.
+
+Subsec. (c)(2)(B)(i). Pub. L. 104–188, §1421(b)(3)(C), substituted “section 402(h)(1)(B) or (k)” for “section 402(h)(1)(B)”.
+
+Subsec. (e)(9). Pub. L. 104–188, §1447(a), amended par. (9) generally. Prior to amendment, par. (9) read as follows: “
+
+Benefits not treated as made available by reason of certain elections.—If—
+
+&emsp;“(A) the total amount payable to a participant under the plan does not exceed $3,500, and
+
+&emsp;“(B) no additional amounts may be deferred under the plan with respect to the participant,
+
+> the amount payable to the participant under the plan shall not be treated as made available merely because such participant may elect to receive a lump sum payable after separation from service and within 60 days of the election.”
+
+Subsec. (e)(11). Pub. L. 104–188, §1458(a), amended par. (11) generally. Prior to amendment, par. (11) read as follows: “
+
+Certain plans excepted.—Any bona fide vacation leave, sick leave, compensatory time, severance pay, disability pay, or death benefit plan shall be treated as a plan not providing for the deferral of compensation.”
+
+Subsec. (e)(14). Pub. L. 104–188, §1444(b)(2), added par. (14).
+
+Subsec. (e)(15). Pub. L. 104–188, §1447(b), added par. (15).
+
+Subsec. (f)(2)(E). Pub. L. 104–188, §1444(b)(3), added subpar. (E).
+
+Subsec. (g). Pub. L. 104–188, §1448(a), added subsec. (g).
 
 1992—Subsec. (c)(2)(B)(i). Pub. L. 102–318 substituted “402(e)(3)” for “402(a)(8)”.
 
@@ -257,6 +349,26 @@ Subsec. (e)(13). Pub. L. 100–647, §6064(c), added par. (13).
 1984—Subsec. (e)(2). Pub. L. 98–369, §491(d)(33), struck out subpar. (C) which provided that par. (1) of this subsection not apply to a qualified bond purchase plan described in section 405(a), and redesignated subpars. (D) and (E) as (C) and (D), respectively.
 
 1980—Subsec. (d)(9)(B). Pub. L. 96–222 in cl. (i) struck out “described in section 501(c)(12)” after “any organization” and substituted “electric service on a mutual or cooperative basis” for “electric service” and in cl. (ii) substituted “paragraph (4) or (6) of section 501(a)” for “section 501(c)(6)” and “at least 80 percent of the members” for “all the members”.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by section 1421(b)(3)(C) of Pub. L. 104–188 applicable to taxable years beginning after Dec. 31, 1996, see section 1421(e) of Pub. L. 104–188, set out as a note under section 72 of this title.
+
+Amendment by section 1444(b)(2), (3) of Pub. L. 104–188 applicable to years beginning after Dec. 31, 1994, see section 1444(e) of Pub. L. 104–188, set out as a note under section 415 of this title.
+
+Section 1447(c) of Pub. L. 104–188 provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1996.”
+
+Section 1448(c) of Pub. L. 104–188 provided that:
+
+“(1)
+
+In general.—Except as provided in paragraph (2), the amendments made by this section \[amending this section\] shall apply to assets and income described in section 457(b)(6) of the Internal Revenue Code of 1986 held by a plan on and after the date of the enactment of this Act \[Aug. 20, 1996\].
+
+“(2)
+
+Transition rule.—In the case of a plan in existence on the date of the enactment of this Act, a trust need not be established by reason of the amendments made by this section before January 1, 1999.”
+
+Section 1458(c)(1) of Pub. L. 104–188 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to accruals of length of service awards after December 31, 1996.”
 
 #### Effective Date of 1992 Amendment
 
@@ -352,7 +464,7 @@ Existing deferrals and arrangements.—Section 457 of such Code shall not apply 
 
 &emsp;&emsp;&emsp;“(II) on such date provides for a deferral for each taxable year covered by the agreement of a fixed amount or of an amount determined pursuant to a fixed formula.
 
-> &emsp;Clause (ii) shall not apply to any taxable year ending after the date on which any modification to the amount or formula described in subclause (II) is effective. Amounts described in the first sentence shall betaken into account for applying section 457 to other amounts deferred under any deferred compensation plan. This subparagraph shall only apply to individuals who were covered under the plan and agreement on August 16, 1986.
+> &emsp;Clause (ii) shall not apply to any taxable year ending after the date on which any modification to the amount or formula described in subclause (II) is effective. Amounts described in the first sentence shall be taken into account for applying section 457 to other amounts deferred under any deferred compensation plan. This subparagraph shall only apply to individuals who were covered under the plan and agreement on August 16, 1986.
 
 “(4)
 
@@ -379,6 +491,10 @@ Amendment by Pub. L. 96–222 effective, except as otherwise provided, as if it 
 #### Effective Date
 
 Section 131(c)(1) of Pub. L. 95–600 provided that: “The amendments made by this section \[enacting this section\] shall apply to taxable years beginning after December 31, 1978.”
+
+#### Plan Amendments Not Required Until January 1, 1998
+
+For provisions directing that if any amendments made by subtitle D \[§§1401–1465\] of title I of Pub. L. 104–188 require an amendment to any plan or annuity contract, such amendment shall not be required to be made before the first day of the first plan year beginning on or after Jan. 1, 1998, see section 1465 of Pub. L. 104–188, set out as a note under section 401 of this title.
 
 #### Plan Amendments Not Required Until January 1, 1994
 
@@ -444,5 +560,5 @@ Qualified state judicial plan.—For purposes of subparagraph (A), the term ‘q
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 219, 403, 414, 818, 3121, 4974, 6051 of this title; title 4 section 114; title 11 section 101; title 12 section 1821; title 42 section 409.
+This section is referred to in sections 219, 403, 414, 415, 818, 3121, 4974, 6051 of this title; title 4 section 114; title 11 section 101; title 12 section 1821; title 42 section 409.
 

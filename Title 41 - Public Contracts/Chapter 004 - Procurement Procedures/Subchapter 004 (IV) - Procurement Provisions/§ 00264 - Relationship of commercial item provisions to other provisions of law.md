@@ -32,7 +32,7 @@ Contract Clauses.—(1) The regulations prescribed under subsection (a) shall co
 
 “(2) Such regulations shall provide that a prime contractor shall not be required by the Federal Government to apply to any of its divisions, subsidiaries, affiliates, subcontractors, or suppliers that are furnishing commercial items any contract clause except those—
 
-&emsp;“(A) that are required to implement provisions of law or executive orders applicable to subcontractors furnishing commercial items or commercial components, as the case may be; or
+&emsp;“(A) that are required to implement provisions of law or executive orders applicable to subcontractorsfurnishing commercial items or commercial components, as the case may be; or
 
 &emsp;“(B) that are determined to be consistent with standard commercial practice.
 
@@ -84,13 +84,13 @@ Defense Contract Clauses.—(1) Section 824(b) of the National Defense Authoriza
 
 “(2) Notwithstanding subsection (b), a contract of the Department of Defense entered into before the date on which section 824(b) ceases to be effective under paragraph (1), and a subcontract entered into before such date under such a contract, may include clauses developed pursuant to paragraphs (2) and (3) of section 824(b) of the National Defense Authorization Act for Fiscal Years 1990 and 1991 (Public Law 101–189; \[former\] 10 U.S.C. 2325 note).”
 
-#### Provisions Not Affected by Title VIII of Pub. L. 103–355
+#### Provisions Not Affected by Title VIII of Pub. L. 103–355
 
 Section 8304 of title VIII of Pub. L. 103–355 provided that: “Nothing in this title \[enacting this section, sections 264a, 264b, and 430 of this title, sections 2375 to 2377 of Title 10, Armed Forces, and section 334 of Title 40, Public Buildings, Property, and Works, amending sections 57, 58, 253g, 254, 403, 416, 418, 422, 423, and 701 of this title, sections 2306, 2320, 2321, 2384, 2393, 2397, 2397b, 2397c, 2402, 2408, and 2410b of Title 10, section 1368 of Title 33, Navigation and Navigable Waters, and section 40118 of Title 49, Transportation, repealing section 424 of this title and section 2325 of Title 10, enacting provisions set out as notes under this section, sections 264b and 430 of this title, and section 7606 of Title 42, The Public Health and Welfare, and amending provisions set out as notes under sections 2301 and 2327 of Title 10\] shall be construed as modifying or superseding, or as intended to impair or restrict, authorities or responsibilities under—
 
 &emsp;“(1) section 2323 of title 10, United States Code, or section 7102 of the Federal Acquisition Streamlining Act of 1994 \[Pub. L. 103–355, 15 U.S.C. 644 note\];
 
-&emsp;“(2) the Brooks Automatic Data Processing Act (section 111 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 759));
+&emsp;“(2) the Brooks Automatic Data Processing Act (section 111 of the Federal Property and Administrative Services Act of 1949 (\[former\] 40 U.S.C. 759));
 
 &emsp;“(3) Brooks Architect-Engineers Act (title IX of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 541 et seq.));
 

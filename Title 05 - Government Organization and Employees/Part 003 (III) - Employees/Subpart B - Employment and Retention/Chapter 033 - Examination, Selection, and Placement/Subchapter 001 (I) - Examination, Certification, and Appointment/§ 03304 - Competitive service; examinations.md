@@ -10,7 +10,7 @@
 
 (c) Notwithstanding a contrary provision of this title or of the rules and regulations prescribed under this title for the administration of the competitive service, an individual who served—
 
-&emsp;(1) for at least 3 years in the legislative branch in a position in which he was paid by the Secretary of the Senate or the Clerk of the House of Representatives; or
+&emsp;(1) for at least 3 years in the legislative branch in a position in which he was paid by the Secretary of the Senate or the Chief Administrative Officer of the House of Representatives; or
 
 &emsp;(2) for at least 4 years as a secretary or law clerk, or both, to a justice or judge of the United States;
 
@@ -28,7 +28,7 @@
 
 (e) Employees at any place outside the District of Columbia where the President or the Office of Personnel Management directs that examinations be held shall allow the reasonable use of public buildings for, and in all proper ways facilitate, holding the examinations.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 418; Pub. L. 95–454, title IX, §906(a)(5), Oct. 13, 1978, 92 Stat. 1225; Pub. L. 99–586, Oct. 29, 1986, 100 Stat. 3325; Pub. L. 104–65, §§16(a), (b), 17(a), Dec. 19, 1995, 109 Stat. 703.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 418; Pub. L. 95–454, title IX, §906(a)(5), Oct. 13, 1978, 92 Stat. 1225; Pub. L. 99–586, Oct. 29, 1986, 100 Stat. 3325; Pub. L. 104–65, §§16(a), (b), 17(a), Dec. 19, 1995, 109 Stat. 703; Pub. L. 104–186, title II, §215(2), Aug. 20, 1996, 110 Stat. 1745.)
 
 #### Amendment of Section
 
@@ -44,7 +44,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 (a)
 
@@ -98,9 +100,11 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-<b>1986</b>—Subsecs. (d), (e). Pub. L. 99–586 added subsec. (d) and redesignated former subsec. (d) as (e).
+1996—Subsec. (c)(1). Pub. L. 104–186 substituted “Chief Administrative Officer” for “Clerk”.
 
-<b>1978</b>—Subsec. (d). Pub. L. 95–454 substituted “the Office of Personnel Management” for “a Civil Service Commission board of examiners”.
+1986—Subsecs. (d), (e). Pub. L. 99–586 added subsec. (d) and redesignated former subsec. (d) as (e).
+
+1978—Subsec. (d). Pub. L. 95–454 substituted “the Office of Personnel Management” for “a Civil Service Commission board of examiners”.
 
 #### Effective Date of 1995 Amendment
 
@@ -115,10 +119,6 @@ Section 17(b) of Pub. L. 104–65 provided that: “The amendment made by this s
 #### Effective Date of 1978 Amendment
 
 Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as a note under section 1101 of this title.
-
-#### Transfer of Functions
-
-Certain functions of Clerk of House of Representatives transferred to Director of Non-legislative and Financial Services by section 7 of House Resolution No. 423, One Hundred Second Congress, Apr. 9, 1992. Director of Non-legislative and Financial Services replaced by Chief Administrative Officer of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
 
 #### Cross References
 

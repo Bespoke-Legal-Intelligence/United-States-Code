@@ -4,7 +4,7 @@
 
 #### (1) Prepayment authorized
 
-&emsp;Subject to the requirements set forth in subsection (b) of this section, an issuer of a debenture purchased by the Federal Financing Bank and guaranteed by the Administration under this chapter may, at the election of the borrower (in the case of a loan under section 697 of this title) or the issuer (in the case of a small business investment company) and with the approval of the Administration, prepay such debenture in accordance with the provisions of this section. A small business investment company operating under the authority of section 681(d) of this title that has issued a debenture that was purchased by and is held by the Administration, may, under the same terms and conditions, prepay such debenture, and the penalty as provided in this section, and shall thereafter be immediately eligible to apply for additional assistance from the Administration.
+&emsp;Subject to the requirements set forth in subsection (b) of this section, an issuer of a debenture purchased by the Federal Financing Bank and guaranteed by the Administration under this chapter may, at the election of the borrower (in the case of a loan under section 697 of this title) or the issuer (in the case of a small business investment company) and with the approval of the Administration, prepay such debenture in accordance with the provisions of this section.
 
 #### (2) Procedure
 
@@ -100,7 +100,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) the qualified State or local development company that issued a debenture pursuant to section 697 of this title, which has been purchased by the Federal Financing Bank; and
 
-&emsp;&emsp;(B) a small business investment company licensed pursuant to subsection (c) or (d) of section 681 of this title; or
+&emsp;&emsp;(B) a small business investment company licensed pursuant to section 681 of this title; or
 
 &emsp;(2) the term “borrower” means a small business concern whose loan secures a debenture issued pursuant to section 697 of this title.
 
@@ -112,7 +112,7 @@ Not later than 30 days after October 22, 1994, the Administration shall promulga
 
 There are authorized to be appropriated $30,000,000 to carry out the provisions of The Small Business Prepayment Penalty Relief Act of 1994.
 
-(Pub. L. 85–699, title V, §509, as added Pub. L. 103–403, title V, §503, Oct. 22, 1994, 108 Stat. 4199.)
+(Pub. L. 85–699, title V, §509, as added Pub. L. 103–403, title V, §503, Oct. 22, 1994, 108 Stat. 4199; amended Pub. L. 104–208, div. D, title II, §208(h)(1)(H), Sept. 30, 1996, 110 Stat. 3009–747.)
 
 #### References in Text
 
@@ -121,6 +121,12 @@ For definition of “this chapter”, referred to in subsec. (a)(1), see Referen
 Public Law 103–317, referred to in subsec. (a)(2)(B)(iii), is Pub. L. 103–317, Aug. 26, 1994, 108 Stat. 1724, known as the Departments of Commerce, Justice, and State, The Judiciary, and Related Agencies Appropriations Act, 1995. For complete classification of this Act to the Code, see Tables.
 
 The Small Business Prepayment Penalty Relief Act of 1994, referred to in subsec. (g), is title V of Pub. L. 103–403, Oct. 22, 1994, 108 Stat. 4198, which enacted this section and provisions set out as notes under this section and section 661 of this title. For complete classification of this Act to the Code, see Short Title of 1994 Amendment note set out under section 661 of this title and Tables.
+
+#### Amendments
+
+1996—Subsec. (a)(1). Pub. L. 104–208, §208(h)(1)(H)(i), struck out at end “A small business investment company operating under the authority of section 681(d) of this title that has issued a debenture that was purchased by and is held by the Administration, may, under the same terms and conditions, prepay such debenture, and the penalty as provided in this section, and shall thereafter be immediately eligible to apply for additional assistance from the Administration.”
+
+Subsec. (e)(1)(B). Pub. L. 104–208, §208(h)(1)(H)(ii), substituted “section 681 of this title” for “subsection (c) or (d) of section 681 of this title”.
 
 #### Intention of Congress
 

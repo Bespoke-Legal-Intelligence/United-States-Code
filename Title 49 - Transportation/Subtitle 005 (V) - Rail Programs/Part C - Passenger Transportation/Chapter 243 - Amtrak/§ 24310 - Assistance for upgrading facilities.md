@@ -2,7 +2,7 @@
 
 (a)
 
-To Correct Dangerous Conditions.—(1) Amtrak or the owner of a facility presenting a danger to the employees, passengers, or property of Amtrak may petition the Secretary of Transportation for assistance to the owner for relocation or other measures undertaken after December 31, 1977, to minimize or eliminate the danger.
+To Correct Dangerous Conditions.—(1) Amtrak or the owner of a facility presenting a danger to the employees, passengers, or property of Amtrak may petition the Secretary of Transportation for assistance to the owner forrelocation or other measures undertaken after December 31, 1977, to minimize or eliminate the danger.
 
 (2) The Secretary shall recommend to Congress that Congress authorize amounts for the relocation or other measures if the Secretary decides that—
 
@@ -20,7 +20,9 @@ To Correct State and Local Violations.—(1) Amtrak, by itself or jointly with a
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

@@ -1,6 +1,6 @@
 ### §612. Composition of selection boards
 
-(a)(1) Members of selection boards shall be appointed by the Secretary of the military department concerned in accordance with this section. A selection board shall consist of five or more officers who are on the active-duty list of the same armed force as the officers under consideration by the board. Each member of a selection board must be serving in a grade higher than the grade of the officers under consideration by the board, except that no member of a board may be serving in a grade below major or lieutenant commander.
+(a)(1) Members of selection boards shall be appointed by the Secretary of the military department concerned in accordance with this section. A selection board shall consist of five or more officers who are on the active-duty list of the same armed force as the officers under consideration by the board. Each member of a selectionboard must be serving in a grade higher than the grade of the officers under consideration by the board, except that no member of a board may be serving in a grade below major or lieutenant commander.
 
 (2)(A) Except as provided in subparagraph (B), a selection board shall include at least one officer from each competitive category of officers to be considered by the board.
 

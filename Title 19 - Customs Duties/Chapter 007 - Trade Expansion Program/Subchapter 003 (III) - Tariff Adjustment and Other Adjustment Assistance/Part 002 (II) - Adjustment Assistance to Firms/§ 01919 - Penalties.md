@@ -4,7 +4,3 @@ Whoever makes a false statement of a material fact knowing it to be false, or kn
 
 (Pub. L. 87–794, title III, §319, Oct. 11, 1962, 76 Stat. 892.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 15 section 636.
-

@@ -74,15 +74,3 @@ Sec. 5. <i>Presidential Direction</i>. The authorities delegated pursuant to thi
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-### SUBCHAPTER IV—TRADE RELATIONS
-
-### WITH COUNTRIES NOT CURRENTLY
-
-### RECEIVING NONDISCRIMINATORY
-
-### TREATMENT
-
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 2191 of this title.
-

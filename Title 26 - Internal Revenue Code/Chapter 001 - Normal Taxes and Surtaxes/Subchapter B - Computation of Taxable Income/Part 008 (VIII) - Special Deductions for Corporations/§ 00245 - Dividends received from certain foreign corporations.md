@@ -8,7 +8,7 @@
 
 #### (2) Qualified 10-percent owned foreign corporation
 
-&emsp;For purposes of this subsection, the term “qualified 10-percent owned foreign corporation” means any foreign corporation (other than a foreign personal holding company or passive foreign investment company) if at least 10 percent of the stock of such corporation (by vote and value) is owned by the taxpayer.
+&emsp;For purposes of this subsection, the term “qualified 10-percent owned foreign corporation” means any foreign corporation (other than a foreign personal holding company or passive foreign investment company) if atleast 10 percent of the stock of such corporation (by vote and value) is owned by the taxpayer.
 
 #### (3) U.S.-source portion
 
@@ -90,7 +90,7 @@
 
 &emsp;In the case of a domestic corporation, there shall be allowed as a deduction an amount equal to—
 
-&emsp;&emsp;(A) 100 percent of any dividend received from another corporation which is distributed out of earnings and profits attributable to foreign trade income for a period during which such other corporation was a FSC, and
+&emsp;&emsp;(A) 100 percent of any dividend received from another corporation which is distributed out of earnings and profits attributable to foreign trade income for a period duringwhich such other corporation was a FSC, and
 
 &emsp;&emsp;(B) 70 percent (80 percent in the case of dividends from a 20-percent owned corporation as defined in section 243(c)(2)) of any dividend received from another corporation which is distributed out of earnings and profits attributable to effectively connected income received or accrued by such other corporation while such other corporation was a FSC.
 
@@ -204,5 +204,5 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 56, 78, 163, 172, 243, 246, 246A, 263, 277, 301, 469, 512, 596, 805, 810, 812, 815, 832, 833, 861, 864, 1059, 1244 of this title.
+This section is referred to in sections 56, 78, 163, 172, 243, 246, 246A, 263, 277, 301, 469, 512, 805, 810, 812, 815, 832, 833, 861, 864, 1059, 1244 of this title.
 

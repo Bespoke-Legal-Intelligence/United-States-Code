@@ -34,7 +34,7 @@ Pub. L. 100–688, title I, §1001, Nov. 18, 1988, 102 Stat. 4139, provided that
 
 #### Short Title
 
-Section 1 of Pub. L. 92–532 provided: “That this Act \[enacting this chapter, chapter 41 (§2801 et seq.) of thistitle, and chapters 32 (§1431 et seq.) and 32A (§1447 et seq.) of Title 16, Conservation\] may be cited as the ‘Marine Protection, Research, and Sanctuaries Act of 1972’.”
+Section 1 of Pub. L. 92–532 provided: “That this Act \[enacting this chapter, chapter 41 (§2801 et seq.) of this title, and chapters 32 (§1431 et seq.) and 32A (§1447 et seq.) of Title 16, Conservation\] may be cited as the ‘Marine Protection, Research, and Sanctuaries Act of 1972’.”
 
 #### Territorial Sea of United States
 

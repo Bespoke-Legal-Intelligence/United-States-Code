@@ -14,7 +14,7 @@ In the administration of this part and other pertinent laws under the jurisdicti
 
 (2) The Director of the National Institutes of Health shall serve as chairman of the task force.
 
-(3) In consultation with the Advisory Commission on Childhood Vaccines, the task force shall prepare recommendations to the Secretary concerning implementation of the requirements of subsection (a) of this section.
+(3) In consultation with the Advisory Commission on Childhood Vaccines, the task force shallprepare recommendations to the Secretary concerning implementation of the requirements of subsection (a) of this section.
 
 #### (c) Report
 

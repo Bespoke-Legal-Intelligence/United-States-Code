@@ -126,7 +126,7 @@ The Secretary may make—
 
 &emsp;&emsp;(B) a description of the applicant and a statement of its qualifications;
 
-&emsp;&emsp;(C) identification and description of the project involved, and a description of the composition of the tenants, including family size and income;
+&emsp;&emsp;(C) identification and description of the project involved, and a description of thecomposition of the tenants, including family size and income;
 
 &emsp;&emsp;(D) a certification by the public official responsible for submitting the comprehensive housing affordability strategy under section 12705 of this title that the proposed activities are consistent with the approved housing strategy of the State or unit of general local government within which the project is located; and
 
@@ -154,15 +154,9 @@ The Secretary may make—
 
 &emsp;The Secretary shall notify each applicant, not later than 6 months after the date of the submission of the application, whether the application is approved or disapproved.
 
-#### (e) Exceptions to general program requirements
+#### (e) Exception to general program requirements
 
-#### (1) Long-term viability
-
-&emsp;The Secretary may waive or revise rules established under this subchapter governing rents, income eligibility, and other areas of public housing management, to permit a public housing agency to undertake measures that enhance the long-term viability of a severely distressed public housing project revitalized under this section.
-
-#### (2) Selection of tenants
-
-&emsp;For projects revitalized under this section, a public housing agency may select tenants pursuant to a local system of preferences, in lieu of selecting tenants pursuant to the preferences specified under section 1437d(c)(4)(A)(i) of this title. Such local system shall be established in writing and shall respond to local housing needs and priorities as determined by the public housing agency. The public housing agency shall hold 1 or more public hearings to obtain the views of low-income tenants and other interested parties on the housing needs and priorities of the agency's jurisdiction.
+The Secretary may waive or revise rules established under this subchapter governing rents, income eligibility, and other areas of public housing management, to permit a public housing agency to undertake measures that enhance the long-term viability of a severely distressed public housing project revitalized under this section.
 
 #### (f) Other program requirements
 
@@ -214,11 +208,11 @@ For the purposes of this section:
 
 &emsp;&emsp;(C) complies with standards of financial accountability acceptable to the Secretary; and
 
-&emsp;&emsp;(D) has among its purposes significant activities related to the provision of decent housing that is affordable to very low-income families.
+&emsp;&emsp;(D) has among its purposes significant activities related to the provision of decenthousing that is affordable to very low-income families.
 
 #### (3) Public housing agency
 
-&emsp;The term “public housing agency” has the meaning given the term in section 1437a(b) of this title, except that it does not include any Indian housing authority.
+&emsp;The term “public housing agency” has the meaning given the term in section 1437a(b) of this title.
 
 #### (4) Resident management corporation
 
@@ -262,15 +256,37 @@ The Secretary shall submit to the Congress an annual report setting forth—
 
 &emsp;(4) the recommendations of the Secretary for statutory and regulatory improvements to the program established by this section.
 
-(Sept. 1, 1937, ch. 896, title I, §24, as added Oct. 28, 1992, Pub. L. 102–550, title I, §120, 106 Stat. 3695.)
+(Sept. 1, 1937, ch. 896, title I, §24, as added Oct. 28, 1992, Pub. L. 102–550, title I, §120, 106 Stat. 3695; amended Jan. 26, 1996, Pub. L. 104–99, title IV, §402(d)(6)(A)(vi), 110 Stat. 43; Oct. 26, 1996, Pub. L. 104–330, title V, §501(b)(9), 110 Stat. 4042.)
+
+#### Amendment of Section
+
+<i>For termination of amendment by section 402(f) of Pub. L. 104–99, see Effective and Termination Dates of 1996 Amendments note below.</i>
 
 #### References in Text
 
 The Fair Housing Act, referred to in subsecs. (c)(4)(E) and (d)(3)(E), is title VIII of Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 81, as amended, which is classified principally to subchapter I (§3601 et seq.) of chapter 45 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of this title and Tables.
 
-The Civil Rights Act of 1964, referred to in subsecs. (c)(4)(E) and (d)(3)(E), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended. Title VI of the Act is classified generally to subchapter V (§2000d et seq.) of chapter 21 of this title. For complete classification of this Act tothe Code, see Short Title note set out under section 2000a of this title and Tables.
+The Civil Rights Act of 1964, referred to in subsecs. (c)(4)(E) and (d)(3)(E), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended. Title VI of the Act is classified generally to subchapter V (§2000d et seq.) of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of this title and Tables.
 
 The Age Discrimination Act of 1975, referred to in subsecs. (c)(4)(E) and (d)(3)(E), is title III of Pub. L. 94–135, Nov. 28, 1975, 89 Stat. 728, as amended, which is classified generally to chapter 76 (§6101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6101 of this title and Tables.
+
+#### Amendments
+
+1996—Subsec. (e). Pub. L. 104–99 temporarily substituted “Exception” for “Exceptions” in subsec. heading and struck out “(1)
+
+Long-term viability.—” before “The Secretary may waive” and par. (2) which read as follows:
+
+“(2)
+
+Selection of tenants.—For projects revitalized under this section, a public housing agency may select tenants pursuant to a local system of preferences, in lieu of selecting tenants pursuant to the preferences specified under section 1437d(c)(4)(A)(i) of this title. Such local system shall be established in writing and shall respond to local housing needs and priorities as determined by the public housing agency. The public housing agency shall hold 1 or more public hearings to obtain the views of low-income tenants and other interested parties on the housing needs and priorities of the agency's jurisdiction.” See Effective and Termination Dates of 1996 Amendments note below.
+
+Subsec. (h)(3). Pub. L. 104–330 struck out “, except that it does not include any Indian housing authority” after “section 1437a(b) of this title”.
+
+#### Effective and Termination Dates of 1996 Amendments
+
+Amendment by Pub. L. 104–330 effective Oct. 1, 1997, except as otherwise expressly provided, see section 107 of Pub. L. 104–330, set out as an Effective Date note under section 4101 of Title 25, Indians.
+
+Amendment by Pub. L. 104–99 effective Jan. 26, 1996, and only for fiscal years 1996 and 1997, see section 402(f)of Pub. L. 104–99, as amended, set out as a note under section 1437a of this title.
 
 #### Section Referred to in Other Sections
 

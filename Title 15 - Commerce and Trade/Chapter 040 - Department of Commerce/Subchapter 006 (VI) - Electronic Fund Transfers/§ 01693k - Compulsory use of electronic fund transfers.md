@@ -4,7 +4,7 @@ No person may—
 
 &emsp;(1) condition the extension of credit to a consumer on such consumer's repayment by means of preauthorized electronic fund transfers; or
 
-&emsp;(2) require a consumer to establish an account for receipt of electronic fund transfers with a particular financial institution as a condition of employment or receipt of a government benefit.
+&emsp;(2) require a consumer to establish an account for receipt of electronic fund transferswith a particular financial institution as a condition of employment or receipt of a government benefit.
 
 (Pub. L. 90–321, title IX, §913, as added Pub. L. 95–630, title XX, §2001, Nov. 10, 1978, 92 Stat. 3737.)
 

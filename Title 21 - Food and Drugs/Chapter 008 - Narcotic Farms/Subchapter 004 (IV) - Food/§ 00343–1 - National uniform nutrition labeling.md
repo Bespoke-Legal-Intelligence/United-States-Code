@@ -68,7 +68,7 @@ Exception.—If a State or political subdivision submits a petition under sectio
 
 “(3)
 
-Requirements pertaining to certain claims.—Notwithstanding subparagraphs (D) and (E) of paragraph (1) and except with respect to claims approved in accordance with section 202(b) of the Dietary Supplement Act of 1992 \[Pub. L. 102–571, set out as a note under section 343 of this title\], the requirements described in paragraphs (4) and (5) of section 403A(a) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 343–1(a)(4) and (5)) that pertain to dietary supplements of vitamins, minerals, herbs, or other similar nutritional substances shall not take effect until the date final regulations take effect to implement subsection (q) or (r), as appropriate, of section 403 of such Act with respect to such dietary supplements.”
+Requirements pertaining to certain claims.—Notwithstanding subparagraphs (D) and (E) of paragraph (1) and except with respect to claims approved in accordance with section 202(b) of the Dietary Supplement Act of 1992 \[Pub. L. 102–571, set out as a note under section 343 of this title\], the requirements described in paragraphs (4) and (5) of section 403A(a) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 343–1(a)(4) and (5)) that pertain to dietary supplementsof vitamins, minerals, herbs, or other similar nutritional substances shall not take effect until the date final regulations take effect to implement subsection (q) or (r), as appropriate, of section 403 of such Act with respect to such dietary supplements.”
 
 Section 6(b) of Pub. L. 101–535 provided that:
 

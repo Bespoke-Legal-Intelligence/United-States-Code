@@ -10,7 +10,7 @@ The Board shall have an Executive Committee as provided in section 1865 of this 
 
 #### (c) Meetings; nominations; quorum; notice
 
-The persons nominated for appointment as members of the Board (1) shall be eminent in the fields of the basic, medical, or social sciences, engineering, agriculture, education, research management, or public affairs; (2) shall be selected solely on the basis of established records of distinguished service; and (3) shall be so selected as to provide representation of the views of scientific and engineering leaders in all areas of the Nation. In making nominations under this section, the President shall give due regard to equitable representation of scientists and engineers who are women or who represent minority groups. The President is requested, in the making of nominations of persons for appointment as members, to give due consideration to any recommendations for nomination which may be submitted to him by the National Academy of Sciences, the National Academy of Engineering, the National Association of State Universities and Land Grant Colleges, the Association of American Universities, the Association of American Colleges, the Association of State Colleges and Universities, or by other scientific, engineering, or educational organizations.
+The persons nominated for appointment as members of the Board (1) shall be eminent in the fields of the basic, medical, or social sciences, engineering, agriculture, education, research management, or public affairs; (2) shall be selected solely on the basis of established records of distinguished service; and (3) shall be so selected as to provide representation of the views of scientific and engineering leaders in all areas of the Nation. In making nominations under this section, the President shall give due regard to equitable representation of scientists and engineers who are women or who represent minority groups. The President is requested, in the making of nominations of persons for appointment as members, to give due consideration to any recommendations for nomination which may be submitted to him by the National Academy of Sciences, the National Academy of Engineering, the National Association of State Universitiesand Land Grant Colleges, the Association of American Universities, the Association of American Colleges, the Association of State Colleges and Universities, or by other scientific, engineering, or educational organizations.
 
 #### (d) Term of office; reappointment
 
@@ -36,7 +36,7 @@ The Board is authorized to establish such special commissions as it may from tim
 
 The Board is also authorized to appoint from among its members such committees as it deems necessary, and to assign to committees so appointed such survey and advisory functions as the Board deems appropriate to assist it in exercising its powers and functions under this chapter.
 
-#### (j) Annual report to President; submittal to Congress
+#### (j) Report to President; submittal to Congress
 
 (1) The Board shall render to the President, for submission to the Congress no later than January 15 of each even numbered year, a report on indicators of the state of science and engineering in the United States.
 
@@ -64,7 +64,7 @@ The Ethics in Government Act of 1978, referred to in subsec. (k), is Pub. L. 95�
 
 Pub. L. 100–570, §105(a), added subsec. (k) relating to closed meetings.
 
-1985—Subsec. (c). Pub. L. 99–159, §110(a)(12), inserted “and engineering”, “and engineers”, and “the National Academy of Engineering,” and inserted “, engineering,” after “other scientific”.
+1985—Subsec. (c). Pub. L. 99–159, §110(a)(12), inserted “and engineering”, “and engineers”, and “the National Academy of Engineering,” and inserted “, engineering,” after “other scientific”.
 
 Subsec. (e). Pub. L. 99–159, §109(a), struck out requirement that notice be made to members by registered or certified mail mailed to the last known address of record.
 
@@ -106,7 +106,7 @@ Subsec. (e). Pub. L. 86–232 substituted provision for an election of a Chairma
 
 #### Termination of Advisory Committees
 
-Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, suchcommittee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 

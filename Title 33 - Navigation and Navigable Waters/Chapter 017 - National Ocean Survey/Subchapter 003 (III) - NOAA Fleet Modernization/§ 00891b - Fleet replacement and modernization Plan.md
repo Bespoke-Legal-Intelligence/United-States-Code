@@ -6,7 +6,7 @@ To carry out the program authorized in section 891a of this title, the Secretary
 
 #### (b) Timing
 
-The Plan required in subsection (a) of this section shall be submitted to Congress within 30days of October 29, 1992, and updated on an annual basis.
+The Plan required in subsection (a) of this section shall be submitted to Congress within 30 days of October 29, 1992, and updated on an annual basis.
 
 #### (c) Plan elements
 

@@ -25,13 +25,13 @@
 
 #### Amendments
 
-<b>1984</b>—Pub. L. 98–614, §3(e)(3), Nov. 8, 1984, 98 Stat. 3193, substituted “passage” for “disapproval” in item 912.
+1984—Pub. L. 98–614, §3(e)(3), Nov. 8, 1984, 98 Stat. 3193, substituted “passage” for “disapproval” in item 912.
 
-<b>1977</b>—Pub. L. 95–17, §2, Apr. 6, 1977, 91 Stat. 29, reenacted chapter heading and items 901 to 903, 905 to 909, and 911 without change, substituted “plan” for “plans” in item 904 and “Introduction and reference of resolution” for “Reference of resolution to committee” in item 910, inserted “; vote on final disapproval” in item 912, and omitted item 913 “Decisions without debate on motion to postpone or proceed”.
+1977—Pub. L. 95–17, §2, Apr. 6, 1977, 91 Stat. 29, reenacted chapter heading and items 901 to 903, 905 to 909, and 911 without change, substituted “plan” for “plans” in item 904 and “Introduction and reference of resolution” for “Reference of resolution to committee” in item 910, inserted “; vote on final disapproval” in item 912, and omitted item 913 “Decisions without debate on motion to postpone or proceed”.
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in title 20 section 3463; title 42 sections 2000e–6, 3534, 7176, 8401, 8819; title 49 sections 103, 104, 106, 703.
+This chapter is referred to in title 7 section 5903; title 20 section 3463; title 42 sections 2000e–6, 3534, 7176, 8401, 8819; title 49 sections 103, 104, 106, 703.
 
 <i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
 

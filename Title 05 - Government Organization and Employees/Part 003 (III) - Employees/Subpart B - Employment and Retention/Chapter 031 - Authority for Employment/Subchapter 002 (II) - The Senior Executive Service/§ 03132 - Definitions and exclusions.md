@@ -6,7 +6,7 @@
 
 &emsp;&emsp;(A) any agency or unit thereof excluded from coverage by the President under subsection (c) of this section; or
 
-&emsp;&emsp;(B) the Federal Bureau of Investigation, the Drug Enforcement Administration, the Central Intelligence Agency, the Defense Intelligence Agency, the Central Imagery Office, the National Security Agency, Department of Defense intelligence activities the civilian employees of which are subject to section 1590 of title 10,,<sup>1</sup> and, as determined by the President, an Executive agency, or unit thereof, whose principal function is the conduct of foreign intelligence or counterintelligence activities;
+&emsp;&emsp;(B) the Federal Bureau of Investigation, the Drug Enforcement Administration, the Central Intelligence Agency, the Defense Intelligence Agency, the National Imagery and Mapping Agency, the National Security Agency, Department of Defense intelligence activities the civilian employees of which are subject to section 1590 of title 10,,<sup>1</sup> and, as determined by the President, an Executive agency, or unit thereof, whose principal function is the conduct of foreign intelligence or counterintelligence activities;
 
 &emsp;&emsp;(C) the Federal Election Commission; or
 
@@ -80,7 +80,7 @@
 
 > the Office shall, within 30 days after the action, transmit to the Congress written notice of the exclusion or revocation.
 
-(Added Pub. L. 95–454, title IV, §402(a), Oct. 13, 1978, 92 Stat. 1155; amended Pub. L. 96–54, §2(a)(12), Aug. 14, 1979, 93 Stat. 382; Pub. L. 96–187, title II, §203, Jan. 8, 1980, 93 Stat. 1368; Pub. L. 100–325, §2(c), May 30, 1988, 102 Stat. 581; Pub. L. 101–73, title VII, §742(c), Aug. 9, 1989, 103 Stat. 437; Pub. L. 101–509, title V, §529 \[title I, §101(b)(9)(A)\], Nov. 5, 1990, 104 Stat. 1427, 1441; Pub. L. 101–624, title XVIII, §1841, Nov. 28, 1990, 104 Stat. 3835; Pub. L. 102–496, title IV, §402(b), Oct. 24, 1992, 106 Stat. 3184; Pub. L. 102–550, title XIII, §1351(b), Oct. 28, 1992, 106 Stat. 3969; Pub. L. 103–359, title V, §501(d), Oct. 14, 1994, 108 Stat. 3429.)
+(Added Pub. L. 95–454, title IV, §402(a), Oct. 13, 1978, 92 Stat. 1155; amended Pub. L. 96–54, §2(a)(12), Aug. 14, 1979, 93 Stat. 382; Pub. L. 96–187, title II, §203, Jan. 8, 1980, 93 Stat. 1368; Pub. L. 100–325, §2(c), May 30, 1988, 102 Stat. 581; Pub. L. 101–73, title VII, §742(c), Aug. 9, 1989, 103 Stat. 437; Pub. L. 101–509, title V, §529 \[title I, §101(b)(9)(A)\], Nov. 5, 1990, 104 Stat. 1427, 1441; Pub. L. 101–624, title XVIII, §1841, Nov. 28, 1990, 104 Stat. 3835; Pub. L. 102–496, title IV, §402(b), Oct. 24, 1992, 106 Stat. 3184; Pub. L. 102–550, title XIII, §1351(b), Oct. 28, 1992, 106 Stat. 3969; Pub. L. 103–359, title V, §501(d), Oct. 14, 1994, 108 Stat. 3429; Pub. L. 104–201, div. A, title XI, §1122(a)(1), Sept. 23, 1996, 110 Stat. 2687.)
 
 #### References in Text
 
@@ -90,25 +90,31 @@ The date of the enactment of the Civil Service Reform Act of 1978, referred to i
 
 #### Amendments
 
-<b>1994</b>—Subsec. (a)(1)(B). Pub. L. 103–359 inserted “the Central Imagery Office,” after “Defense Intelligence Agency,”.
+1996—Subsec. (a)(1)(B). Pub. L. 104–201 substituted “National Imagery and Mapping Agency” for “Central Imagery Office”.
 
-<b>1992</b>—Subsec. (a)(1)(B). Pub. L. 102–496 inserted “, Department of Defense intelligence activities the civilian employees of which are subject to section 1590 of title 10,” after “National Security Agency”.
+1994—Subsec. (a)(1)(B). Pub. L. 103–359 inserted “the Central Imagery Office,” after “Defense Intelligence Agency,”.
+
+1992—Subsec. (a)(1)(B). Pub. L. 102–496 inserted “, Department of Defense intelligence activities the civilian employees of which are subject to section 1590 of title 10,” after “National Security Agency”.
 
 Subsec. (a)(1)(D). Pub. L. 102–550 inserted “the Office of Federal Housing Enterprise Oversight of the Department of Housing and Urban Development,” after “Farm Credit Administration,”.
 
-<b>1990</b>—Subsec. (a)(1)(D). Pub. L. 101–624 inserted reference to Farm Credit Administration.
+1990—Subsec. (a)(1)(D). Pub. L. 101–624 inserted reference to Farm Credit Administration.
 
 Subsec. (a)(2). Pub. L. 101–509 substituted “classified above GS–15 pursuant to section 5108” for “in GS–16, 17, or 18 of the General Schedule”.
 
-<b>1989</b>—Subsec. (a)(1)(D). Pub. L. 101–73 added subpar. (D).
+1989—Subsec. (a)(1)(D). Pub. L. 101–73 added subpar. (D).
 
-<b>1988</b>—Subsec. (a)(1)(B). Pub. L. 100–325, §2(c)(1), inserted reference to Drug Enforcement Administration.
+1988—Subsec. (a)(1)(B). Pub. L. 100–325, §2(c)(1), inserted reference to Drug Enforcement Administration.
 
 Subsec. (a)(2)(iii). Pub. L. 100–235, §2(c)(2), struck out cl. (iii) which read as follows: “any position in the Drug Enforcement Administration which is excluded from the competitive service under section 201 of the Crime Control Act of 1976 (5 U.S.C. 5108 note; 90 Stat. 2425);”.
 
-<b>1980</b>—Subsec. (a)(1)(C). Pub. L. 96–187 added subpar. (C).
+1980—Subsec. (a)(1)(C). Pub. L. 96–187 added subpar. (C).
 
-<b>1979</b>—Subsec. (a)(1)(B). Pub. L. 96–54 inserted “and,” after “Security Agency,”.
+1979—Subsec. (a)(1)(B). Pub. L. 96–54 inserted “and,” after “Security Agency,”.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–201 effective Oct. 1, 1996, see section 1124 of Pub. L. 104–201, set out as a note under section 193 of Title 10, Armed Forces.
 
 #### Effective Date of 1990 Amendment
 
@@ -124,7 +130,7 @@ Amendment by Pub. L. 96–54 effective July 12, 1979, see section 2(b) of Pub. L
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2101a, 3104, 3133, 3151, 3372, 3391, 3591, 4311, 4507, 4508, 5304, 5347, 5376, 5381, 5724, 7323, 8432 of this title; title 10 sections 1590, 1601, 3014, 5014, 8014; title 20 section 1402; title 22 section 2664a; title 31 section 733; title 38 sections 308, 7281; title 42 section 904; title 44 section 2103.
+This section is referred to in sections 2101a, 3104, 3133, 3151, 3372, 3391, 3591, 4311, 4507, 4508, 5304, 5347, 5376, 5381, 5724, 7323, 8432 of this title; title 10 sections 1606, 1614, 3014, 5014, 8014; title 20 section 1402; title 22 section 2664a; title 31 section 733; title 38 sections 308, 7281; title 42 section 904; title 44 section 2103.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

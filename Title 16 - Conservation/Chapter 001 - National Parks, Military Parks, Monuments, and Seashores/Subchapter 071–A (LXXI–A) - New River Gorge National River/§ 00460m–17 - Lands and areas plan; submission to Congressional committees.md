@@ -8,7 +8,7 @@ Within two years from November 10, 1978, the Secretary shall submit, in writing,
 
 &emsp;(iii) the annual acquisition program (including the level of funding) which he recommends for the ensuing four fiscal years; and
 
-&emsp;(iv) the feasibility and suitability of including within the boundaries of the nationalriver, the section of the New River from Fayetteville to Gauley Bridge, and reasons therefor.
+&emsp;(iv) the feasibility and suitability of including within the boundaries of the national river, the section of the New River from Fayetteville to Gauley Bridge, and reasons therefor.
 
 (Pub. L. 95–625, title XI, §1103, Nov. 10, 1978, 92 Stat. 3546.)
 

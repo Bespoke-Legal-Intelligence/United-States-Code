@@ -1,32 +1,56 @@
 ### §8107. Operational and construction plans for medical facilities
 
-(a)(1) In order to promote effective planning for the orderly construction, replacement, and alteration of medical facilities in accordance with the comparative urgency of the need for the services to be provided by such facilities, the Secretary, after considering the analysis and recommendations of the Under Secretary for Health, shall submit to each committee an annual report on the construction, replacement, alteration, and operation of medical facilities.
+(a) In order to promote effective planning for the efficient provision of care to eligible veterans, the Secretary, based on the analysis and recommendations of the Under Secretary for Health, shall submit to each committee an annual report regarding long-range health planning of the Department. The report shall be submitted each year not later than the date on which the budget for the next fiscal year is submitted to the Congress under section 1105 of title 31.
 
-(2) Each such report shall contain—
+(b) Each report under subsection (a) shall include the following:
 
-&emsp;(A) a five-year strategic plan for the operation and construction of medical facilities—
+&emsp;(1) A five-year strategic plan for the provision of care under chapter 17 of this title to eligible veterans through coordinated networks of medical facilities operating within prescribed geographic service-delivery areas, such plan to include provision of services for the specialized treatment and rehabilitative needs of disabled veterans (including veterans with spinal cord dysfunction, blindness, amputations, and mental illness) through distinct programs or facilities of the Department dedicated to the specialized needs of those veterans.
 
-&emsp;&emsp;(i) setting forth—
+&emsp;(2) A description of how planning for the networks will be coordinated.
 
-&emsp;&emsp;&emsp;(I) the mission of each existing or proposed medical facility;
+&emsp;(3) A profile regarding each such network of medical facilities which identifies—
 
-&emsp;&emsp;&emsp;(II) any planned change in such mission; and
+&emsp;&emsp;(A) the mission of each existing or proposed medical facility in the network;
 
-&emsp;&emsp;&emsp;(III) the operational steps needed to achieve the facility's mission and thedates by which such steps are planned to be completed; and
+&emsp;&emsp;(B) any planned change in the mission for any such facility and the rationale for such planned change;
 
-&emsp;&emsp;(ii) a five-year plan, based on the factors set out in subclause (i) of this clause, for construction, replacement, or alteration projects for each such facility;
+&emsp;&emsp;(C) the population of veterans to be served by the network and anticipated changes over a five-year period and a ten-year period, respectively, in that population and in the health-care needs of that population;
 
-&emsp;(B) a list, in order of priority, of not less than 10 hospitals that, in the judgment of the Secretary, after considering the analysis and recommendations of the Under Secretary for Health, are most in need of construction or replacement; and
+&emsp;&emsp;(D) information relevant to assessing progress toward the goal of achieving relative equivalency in the level of resources per patient distributed to each network, such information to include the plans for and progress toward lowering the cost of care-delivery in the network (by means such as changes in the mix in the network of physicians, nurses, physician assistants, and advance practice nurses);
 
-&emsp;(C) general plans (including projected costs, site location, and, if appropriate, necessary land acquisition) for each medical facility for which construction, replacement, or alteration is planned under clause (A)(ii) of this paragraph.
+&emsp;&emsp;(E) the capacity of non-Federal facilities in the network to provide acute, long-term, and specialized treatment and rehabilitative services (described in section 7305 <sup>1</sup> of this title), and determinations regarding the extent to which services to be provided in each service-delivery area and each facility in such area should be provided directly through facilities of the Department or through contract or other arrangements, including arrangements authorized under sections 8111 and 8153 of this title; and
 
-(3) The report under this subsection shall be submitted not later than June 30 of each year.
+&emsp;&emsp;(F) a five-year plan for construction, replacement, or alteration projects in support of the approved mission of each facility in the network and a description of how those projects will improve access to care, or quality of care, for patients served in the network.
 
-(b) The Secretary shall submit to each committee not later than January 31 of each year a report showing the location, space, cost, and status of each medical facility (1) the construction, alteration, lease, or other acquisition of which has been approved under section 8104(a) of this title, and (2) which was uncompleted as of the date of the last preceding report made under this subsection.
+&emsp;(4) A status report for each facility on progress toward—
 
-(Added Pub. L. 96–22, title III, §301(a), June 13, 1979, 93 Stat. 58, §5007; amended Pub. L. 99–166, title III, §302(a)–(c)(1), Dec. 3, 1985, 99 Stat. 955; Pub. L. 99–576, title II, §222, Oct. 28, 1986, 100 Stat. 3259; renumbered §8107 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–54, §14(f)(3), June 13, 1991, 105 Stat. 287; Pub. L. 102–83, §4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984.)
+&emsp;&emsp;(A) instituting planned mission changes identified under paragraph (3)(B);
+
+&emsp;&emsp;(B) implementing principles of managed care of eligible veterans; and
+
+&emsp;&emsp;(C) developing and instituting cost-effective alternatives to provision of institutional care.
+
+(c) The Secretary shall submit to each committee not later than January 31 of each year a report showing the location, space, cost, and status of each medical facility (1) the construction, alteration, lease, or other acquisition of which has been approved under section 8104(a) of this title, and (2) which was uncompleted as of the date of the last preceding report made under this subsection.
+
+(d)(1) The Secretary shall submit to each committee, not later than January 31 of each year, a report showing the current priorities of the Department for proposed major medical construction projects. Each such report shall identify the 20 projects, from within all the projects in the Department's inventory of proposed projects, that have the highest priority and, for those 20 projects, the relative priority and rank scoring of each such project and the projected cost of such project (including the projected operating costs, including both recurring and nonrecurring costs). The 20 projects shall be compiled, and their relative rankings shall be shown, by category of project (including the categories of ambulatory care projects, nursing home care projects, and such other categories as the Secretary determines).
+
+(2) The Secretary shall include in each report, for each project listed, a description of the specific factors that account for the relative ranking of that project in relation to other projects within the same category.
+
+(3) In a case in which the relative ranking of a proposed project has changed since the last report under this subsection was submitted, the Secretary shall also include in the report a description of the reasons for the change in the ranking, including an explanation of any change in the scoring of the project under the Department's scoring system for proposed major medical construction projects.
+
+(Added Pub. L. 96–22, title III, §301(a), June 13, 1979, 93 Stat. 58, §5007; amended Pub. L. 99–166, title III, §302(a)–(c)(1), Dec. 3, 1985, 99 Stat. 955; Pub. L. 99–576, title II, §222, Oct. 28, 1986, 100 Stat. 3259; renumbered §8107 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991,105 Stat. 238, 239; Pub. L. 102–54, §14(f)(3), June 13, 1991, 105 Stat. 287; Pub. L. 102–83, §4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 104–262, title II, §204, Oct. 9, 1996, 110 Stat. 3188.)
+
+#### References in Text
+
+Section 7305 of this title, referred to in subsec. (b)(3)(E), does not describe specialized treatment and rehabilitative services. However, specialized treatment and rehabilitative services are referred to in section 7306(f) of this title.
 
 #### Amendments
+
+1996—Subsec. (a). Pub. L. 104–262, §204(2), added subsec. (a) and struck out former subsec. (a) which directed the Secretary to submit an annual report on the construction, replacement, alteration, and operation of medical facilities.
+
+Subsecs. (b), (c). Pub. L. 104–262, §204(1), (2), added subsec. (b) and redesignated former subsec. (b) as (c).
+
+Subsec. (d). Pub. L. 104–262, §204(3), added subsec. (d).
 
 1992—Subsec. (a)(1), (2)(B). Pub. L. 102–405 substituted “Under Secretary for Health” for “Chief Medical Director”.
 
@@ -51,4 +75,6 @@ Subsec. (a)(1). Pub. L. 99–166, §302(a)(1)–(3), designated existing provisi
 Subsec. (a)(2), (3). Pub. L. 99–166, §302(a)(4), added pars. (2) and (3).
 
 Subsec. (b). Pub. L. 99–166, §302(b), struck out “(beginning in 1981)” before “a report”, designated existing provisions as cl. (1), and substituted cl. (2) designation for “, in the case of the second and each succeeding report made under this subsection,”.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

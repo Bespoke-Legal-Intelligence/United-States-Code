@@ -36,7 +36,7 @@
 
 &emsp;(iii) consultative, counseling, and training services for the families of deaf-blind infants, toddlers, children, and youth.
 
-(4) A grant, cooperative agreement, or contract pursuant to paragraph (1)(B) may be made only for programs providing (A) technical assistance to agencies, institutions, and organizations that are preparing deaf-blind adolescents for adult placements, or that are preparing to receive deaf-blind young adults into adult living and work environments, or that serve, or propose to serve, deaf-blind individuals; (B) training or inservice training to paraprofessionals or professionals serving, or preparing to serve, such individuals; and (C) assistance in the development or replication of successful innovative approaches to providing rehabilitative, supervised, semisupervised, or independent living programs.
+(4) A grant, cooperative agreement, or contract pursuant to paragraph (1)(B) may be made only for programs providing (A) technical assistance to agencies, institutions, and organizations that are preparing deaf-blind adolescents for adult placements, or that are preparing to receive deaf-blind young adults into adult living and work environments, or that serve, or propose to serve, deaf-blind individuals; (B) training or inservice training to paraprofessionals or professionals serving, or preparing to serve, suchindividuals; and (C) assistance in the development or replication of successful innovative approaches to providing rehabilitative, supervised, semisupervised, or independent living programs.
 
 (5) In carrying out this subsection, the Secretary is authorized to enter into a number of grants or cooperative agreements to establish and support single and multi-State centers for the provision of technical assistance and pilot supplementary services, for the purposes of program development and expansion, for children and youth with deaf-blindness and their families.
 
@@ -76,7 +76,7 @@ The Secretary may make grants to, or enter into contracts or cooperative agreeme
 
 &emsp;(2) the development and demonstration of new, or improvements in existing methods, approaches, or techniques that would contribute to the adjustment and education of children and youth with deaf-blindness.
 
-(Pub. L. 91–230, title VI, §622, Apr. 13, 1970, 84 Stat. 182; Pub. L. 98–199, §§3(b), 10, Dec. 2, 1983, 97 Stat. 1358, 1364; Pub. L. 99–457, title III, §302, Oct. 8, 1986, 100 Stat. 1160; Pub. L. 100–630, title I, §103(c), Nov. 7, 1988, 102 Stat. 3297; Pub. L.101–476, title III, §302, Oct. 30, 1990, 104 Stat. 1118; Pub. L. 102–119, §25(a)(8), Oct. 7, 1991, 105 Stat. 606; Pub. L. 103–382, title III, §391(f)(3), Oct. 20, 1994, 108 Stat. 4023.)
+(Pub. L. 91–230, title VI, §622, Apr. 13, 1970, 84 Stat. 182; Pub. L. 98–199, §§3(b), 10, Dec. 2, 1983, 97 Stat. 1358, 1364; Pub. L. 99–457, title III, §302, Oct. 8, 1986, 100 Stat. 1160; Pub. L. 100–630, title I, §103(c), Nov. 7, 1988, 102 Stat. 3297; Pub. L. 101–476, title III, §302, Oct. 30, 1990, 104 Stat. 1118; Pub. L. 102–119, §25(a)(8), Oct. 7, 1991, 105 Stat. 606; Pub. L. 103–382, title III, §391(f)(3), Oct. 20, 1994, 108 Stat. 4023.)
 
 #### Amendments
 

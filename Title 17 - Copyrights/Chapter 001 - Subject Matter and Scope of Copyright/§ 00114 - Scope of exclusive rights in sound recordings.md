@@ -38,7 +38,7 @@ Exempt transmissions and retransmissions.—The performance of a sound recording
 
 &emsp;&emsp;&emsp;(iii) the radio station's broadcast transmission was being retransmitted to cable systems (as defined in section 111(f)) by a satellite carrier on January 1, 1995, and that retransmission was being retransmitted by cable systems as a separate and discrete signal, and the satellite carrier obtains the radio station's broadcast transmission in an analog format: <i>Provided</i>, That the broadcast transmission being retransmitted may embody the programming of no more than one radio station; or
 
-&emsp;&emsp;&emsp;(iv) the radio station's broadcast transmission is made by a noncommercial educational broadcast station funded on or after January 1, 1995, under section 396(k) of the Communications Act of 1934 (47 U.S.C. 396(k)), consists solely of noncommercial educational and cultural radio programs, and the retransmission, whether or not simultaneous, is a nonsubscription terrestrial broadcast retransmission; or
+&emsp;&emsp;&emsp;(iv) the radio station's broadcast transmission is made by a noncommercial educational broadcast station funded on or after January 1, 1995, under section 396(k) of the Communications Act of 1934 (47U.S.C. 396(k)), consists solely of noncommercial educational and cultural radio programs, and the retransmission, whether or not simultaneous, is a nonsubscription terrestrial broadcast retransmission; or
 
 &emsp;&emsp;(C) a transmission that comes within any of the following categories—
 
@@ -86,7 +86,7 @@ Licenses for transmissions by interactive services.—
 
 &emsp;&emsp;(E) For the purposes of this paragraph—
 
-&emsp;&emsp;&emsp;(i) a “licensor” shall include the licensing entity and any other entity under any material degree of common ownership, management, or control that owns copyrights in sound recordings; and
+&emsp;&emsp;&emsp;(i) a “licensor” shall include the licensing entity and any other entity under anymaterial degree of common ownership, management, or control that owns copyrights in sound recordings; and
 
 &emsp;&emsp;&emsp;(ii) a “performing rights society” is an association or corporation that licenses the public performance of nondramatic musical works on behalf of the copyright owner, such as the American Society of Composers, Authors and Publishers, Broadcast Music, Inc., and SESAC, Inc.
 
@@ -98,7 +98,7 @@ Rights not otherwise limited.—
 
 &emsp;&emsp;(B) Nothing in this section annuls or limits in any way—
 
-&emsp;&emsp;&emsp;(i) the exclusive right to publicly perform a musical work, including by meansof a digital audio transmission, under section 106(4);
+&emsp;&emsp;&emsp;(i) the exclusive right to publicly perform a musical work, including by means of a digital audio transmission, under section 106(4);
 
 &emsp;&emsp;&emsp;(ii) the exclusive rights in a sound recording or the musical work embodied therein under sections 106(1), 106(2) and 106(3); or
 
@@ -134,7 +134,7 @@ Licenses for Nonexempt Subscription Transmissions.—
 
 &emsp;&emsp;(ii) in the first week of January, 2000 and at 5-year intervals thereafter.
 
-&emsp;(B)(i) The procedures specified in paragraph (2) shall be repeated, in accordance with regulations that the Librarian of Congress shallprescribe, upon the filing of a petition in accordance with section 803(a)(1) during a 60-day period commencing—
+&emsp;(B)(i) The procedures specified in paragraph (2) shall be repeated, in accordance with regulations that the Librarian of Congress shall prescribe, upon the filing of a petition in accordance with section 803(a)(1) during a 60-day period commencing—
 
 &emsp;&emsp;(I) six months after publication of a notice of the initiation of voluntary negotiation proceedings under paragraph (1) pursuant to a petition under paragraph (4)(A)(i); or
 
@@ -192,7 +192,7 @@ Definitions.—As used in this section, the following terms have the following m
 
 &emsp;(2) A “broadcast” transmission is a transmission made by a terrestrial broadcast station licensed as such by the Federal Communications Commission.
 
-&emsp;(3) A “digital audio transmission” is a digital transmission as defined in section 101, thatembodies the transmission of a sound recording. This term does not include the transmission of any audiovisual work.
+&emsp;(3) A “digital audio transmission” is a digital transmission as defined in section 101, that embodies the transmission of a sound recording. This term does not include the transmission of any audiovisual work.
 
 &emsp;(4) An “interactive service” is one that enables a member of the public to receive, on request, a transmission of a particular sound recording chosen by or on behalf of the recipient. The ability of individuals to request that particular sound recordings be performed for reception by the public at large does not make a service interactive. If an entity offers both interactive and non-interactive services (either concurrently or at different times), the non-interactive component shall not be treated as part of an interactive service.
 

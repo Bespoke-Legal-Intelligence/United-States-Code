@@ -28,7 +28,7 @@ If gasoline is sold to any person for any purpose described in paragraph (2), (3
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), not more than one claim may be filed under subsection (a), not more than one claim may be filed under subsection (b), and not more than one claim may be filed under subsection (c), by any person with respect to gasoline used during his taxable year; and no claim shall be allowed under this paragraph with respect to gasoline used during any taxable year unless filed by such person not later than the time prescribed by law for filing a claim for credit or refund of overpayment of income tax for such taxable year. For purposes of this subsection, a person's taxable year shall be his taxable year for purposes of subtitle A.
+&emsp;Except as provided in paragraph (2), not more than one claim may be filed under subsection (a), not more than one claim may be filed under subsection (b), and not more than one claim may be filed under subsection (c), byany person with respect to gasoline used during his taxable year; and no claim shall be allowed under this paragraph with respect to gasoline used during any taxable year unless filed by such person not later than the time prescribed by law for filing a claim for credit or refund of overpayment of income tax for such taxable year. For purposes of this subsection, a person's taxable year shall be his taxable year for purposes of subtitle A.
 
 #### (2) Exception
 
@@ -76,7 +76,7 @@ For purposes of this section—
 
 #### (iv) Noncommercial boats
 
-&emsp;&emsp;&emsp;In the case of a boat used predominantly in any activity which is of a type generallyconsidered to constitute entertainment, amusement, or recreation, clause (iii)(II) shall not apply to—
+&emsp;&emsp;&emsp;In the case of a boat used predominantly in any activity which is of a type generally considered to constitute entertainment, amusement, or recreation, clause (iii)(II) shall not apply to—
 
 &emsp;&emsp;&emsp;&emsp;(I) the taxes under sections 4041(a)(1) and 4081 for the period after December 31, 1993, and before January 1, 2000, and
 
@@ -92,7 +92,7 @@ For purposes of this section—
 
 &emsp;This section shall not apply in respect of gasoline which is used as a fuel in an aircraft—
 
-&emsp;&emsp;(A) in noncommercial aviation (as defined in section 4041(c)(4)), or
+&emsp;&emsp;(A) in noncommercial aviation (as defined in section 4041(c)(2)), or
 
 &emsp;&emsp;(B) in aviation which is not noncommercial aviation (as so defined) with respect to the tax imposed by section 4081 at the Leaking Underground Storage Tank Trust Fund financing rate and, in the case of fuel purchased after September 30, 1995, at so much of the rate specified in section 4081(a)(2)(A) as does not exceed 4.3 cents per gallon.
 
@@ -152,13 +152,15 @@ The Secretary may by regulations prescribe the conditions, not inconsistent with
 
 &emsp;&emsp;<b>(3) For treatment of an Indian tribal government as a State and </b><b><sup>1</sup></b> a subdivision of an Indian tribal government as a political subdivision of a State), see section 7871.
 
-(Added June 29, 1956, ch. 462, title II, §208(c), 70 Stat. 394; amended July 25, 1956, ch. 725, §2, 70 Stat. 644; Sept. 2, 1958, Pub. L. 85–859, title I, §§163(d)(3), 164(a), 72 Stat. 1312; Sept. 21, 1959, Pub. L. 86–342, title II, §201(d)(2), 73 Stat. 615; June 29, 1961, Pub. L. 87–61, title II, §201(e), 75 Stat. 124; June 28, 1962, Pub. L. 87–508, §5(c)(2), 76 Stat. 118; June 21, 1965, Pub. L. 89–44, title VIII, §809(b), 79 Stat. 166; May 21, 1970, Pub. L. 91–258, title II, §§205(b)(1), (c)(8), 207(b), 84 Stat. 241, 242, 248; Dec. 31, 1970, Pub. L. 91–605, title III, §303(a)(11), 84 Stat. 1744; May 5, 1976, Pub. L. 94–280, title III, §303(a)(11), 90 Stat. 456; Oct. 4, 1976, Pub. L. 94–455, title XIX, §1906(a)(27)(A)(i), (B)–(D), (b)(13)(A), 90 Stat. 1827, 1828, 1834; Nov. 6, 1978, Pub. L. 95–599, title V, §502(a)(10), 92 Stat. 2756; Nov. 9, 1978, Pub. L. 95–618, title II, §§222(a)(1), 233(a)(1), (3)(A), 92 Stat. 3186, 3190; Apr. 1, 1980, Pub. L. 96–222, title I, §108(c)(1), 94 Stat. 226; Jan. 6, 1983, Pub. L. 97–424, title V, §§511(c)(1), (3), 515(b)(7), 516(a)(6), 96 Stat. 2170, 2171, 2182, 2183; Jan. 14, 1983, Pub. L. 97–473, title II, §202(b)(12), 96 Stat. 2610; July 18, 1984, Pub. L. 98–369, div. A, title IV, §474(r)(38), 98 Stat. 846; Oct. 17, 1986, Pub. L. 99–499, title V, §521(c)(2), 100 Stat. 1778; Oct. 22, 1986, Pub. L. 99–514, title XVII, §1703(c)(1), (2)(A), (B), (D), 100 Stat. 2776, 2777; Apr. 2, 1987, Pub. L. 100–17, title V, §502(b)(7), 101 Stat. 257; Dec. 22, 1987, Pub. L. 100–203, title X, §10502(d)(9), (10), 101 Stat. 1330–444; Nov. 10, 1988, Pub. L. 100–647, title I, §1017(c)(6)–(8), (15), title II, §2001(d)(3)(E), (F), 102 Stat. 3576, 3577, 3595; Dec. 19, 1989, Pub. L.101–239, title VII, §7841(d)(20), 103 Stat. 2429; Nov. 5, 1990, Pub. L. 101–508, title XI, §11211(d)(6), 104 Stat. 1388–427; Dec. 18, 1991, Pub. L. 102–240, title VIII, §8002(b)(6), 105 Stat. 2203; Aug. 10, 1993, Pub. L. 103–66, title XIII, §§13163(b), 13241(f)(6), (7), 13242(d)(20), (22)–(24), 107 Stat. 454, 512, 524.)
+(Added June 29, 1956, ch. 462, title II, §208(c), 70 Stat. 394; amended July 25, 1956, ch. 725, §2, 70 Stat. 644; Sept. 2, 1958, Pub. L. 85–859, title I, §§163(d)(3), 164(a), 72 Stat. 1312; Sept. 21, 1959, Pub. L. 86–342, title II, §201(d)(2), 73 Stat. 615; June 29, 1961, Pub. L. 87–61, title II, §201(e), 75 Stat. 124; June 28, 1962, Pub. L. 87–508, §5(c)(2), 76 Stat. 118; June 21, 1965, Pub. L. 89–44, title VIII, §809(b), 79 Stat. 166; May 21, 1970, Pub. L. 91–258, title II, §§205(b)(1), (c)(8), 207(b), 84 Stat. 241, 242, 248; Dec. 31, 1970, Pub. L. 91–605, title III, §303(a)(11), 84 Stat. 1744; May 5, 1976, Pub. L. 94–280, title III, §303(a)(11), 90 Stat. 456; Oct. 4, 1976, Pub. L. 94–455, title XIX, §1906(a)(27)(A)(i), (B)–(D), (b)(13)(A), 90 Stat. 1827, 1828, 1834; Nov. 6, 1978, Pub. L. 95–599, title V, §502(a)(10), 92 Stat. 2756; Nov. 9, 1978, Pub. L. 95–618, title II, §§222(a)(1), 233(a)(1), (3)(A), 92 Stat. 3186, 3190; Apr. 1, 1980, Pub. L. 96–222, title I, §108(c)(1), 94 Stat. 226; Jan. 6, 1983, Pub. L. 97–424, title V, §§511(c)(1), (3), 515(b)(7), 516(a)(6), 96 Stat. 2170, 2171, 2182, 2183; Jan. 14, 1983, Pub. L. 97–473, title II, §202(b)(12), 96 Stat. 2610; July 18, 1984, Pub. L. 98–369, div. A, title IV, §474(r)(38), 98 Stat. 846; Oct. 17, 1986, Pub. L. 99–499, title V, §521(c)(2), 100 Stat. 1778; Oct. 22, 1986, Pub. L. 99–514, title XVII, §1703(c)(1), (2)(A), (B), (D), 100 Stat. 2776, 2777; Apr. 2, 1987, Pub. L. 100–17, title V, §502(b)(7), 101 Stat. 257; Dec. 22, 1987, Pub. L. 100–203, title X, §10502(d)(9), (10), 101 Stat. 1330–444; Nov. 10, 1988, Pub. L. 100–647, title I, §1017(c)(6)–(8), (15), title II, §2001(d)(3)(E), (F), 102 Stat. 3576, 3577, 3595; Dec. 19, 1989, Pub. L. 101–239, title VII, §7841(d)(20), 103 Stat. 2429; Nov. 5, 1990, Pub. L. 101–508, title XI, §11211(d)(6), 104 Stat. 1388–427; Dec. 18, 1991, Pub. L. 102–240, title VIII, §8002(b)(6), 105 Stat. 2203; Aug. 10, 1993, Pub. L. 103–66, title XIII, §§13163(b), 13241(f)(6), (7), 13242(d)(20), (22)–(24), 107 Stat. 454, 512, 524; Aug. 20, 1996, Pub. L. 104–188, title I, §1609(g)(4)(C), 110 Stat. 1843.)
 
 #### Prior Provisions
 
 A prior section 6421 was renumbered section 6422 of this title.
 
 #### Amendments
+
+1996—Subsec. (f)(2)(A). Pub. L. 104–188 substituted “4041(c)(2)” for “4041(c)(4)”.
 
 1993—Subsec. (c). Pub. L. 103–66, §13242(d)(22), inserted at end “The preceding sentence shall apply notwithstanding paragraphs (2)(A) and (3) of subsection (f).”
 
@@ -192,7 +194,7 @@ Subsec. (f)(2). Pub. L. 100–647, §2001(d)(3)(E), added par. (2) and struck ou
 
 Subsec. (f)(3). Pub. L. 100–647, §2001(d)(3)(E), added par. (3).
 
-Subsec. (f)(4). Pub. L. 100–647, §2001(d)(3)(E), struck out par. (4) which read as follows: “This section shall not apply with respect to the tax imposed by section 4081 at the Leaking Underground Storage Tank Trust Fund financing rate on gasoline used in any off-highway business use other than use in a vessel employed in the fisheries or in the whaling business.”
+Subsec. (f)(4). Pub. L. 100–647, §2001(d)(3)(E), struck out par. (4) which read as follows: “This section shall not apply with respect to the tax imposed by section4081 at the Leaking Underground Storage Tank Trust Fund financing rate on gasoline used in any off-highway business use other than use in a vessel employed in the fisheries or in the whaling business.”
 
 Subsec. (i). Pub. L. 100–647, §1017(c)(6), redesignated subsec. (i), relating to income tax credit in lieu of payment, as (j).
 
@@ -272,7 +274,7 @@ Subsec. (i)(2). Pub. L. 94–455, §1906(a)(27)(D)(ii), substituted “subsectio
 
 Subsec. (i)(3). Pub. L. 94–455, §1906(a)(27)(D)(iii), struck out “for gasoline used after June 30, 1965” after “subtitle A”.
 
-1970—Subsec. (a). Pub. L. 91–258, §205(b)(1)(A), inserted requirement that, except as provided in par. (3) of subsec. (e) of this section, where gasoline is used after June 30, 1970, as a fuel in an aircraft, the Secretary or his delegate pay (without interest) to the ultimate purchaser of such gasoline an amount equal to the amount determined by multiplying the number of gallons of gasoline so used by the rate at which tax was imposed on such gasoline under section 4081.
+1970—Subsec. (a). Pub. L. 91–258, §205(b)(1)(A), inserted requirement that, except as provided in par. (3) of subsec. (e) of this section, where gasoline is used after June 30, 1970, as a fuel in an aircraft, the Secretary or his delegate pay (without interest) to the ultimate purchaser of such gasoline an amount equal to the amount determined by multiplying the number ofgallons of gasoline so used by the rate at which tax was imposed on such gasoline under section 4081.
 
 Subsec. (c)(3)(A)(ii). Pub. L. 91–258, §207(b), substituted “a claim for credit or refund of overpayment of income tax” for “an income tax return” after “time prescribed by law for filing”.
 
@@ -318,13 +320,17 @@ Subsec. (i)(2), (3). Pub. L. 85–859, §163(d)(3), substituted “section 6416(
 
 1956—Subsec. (d)(2). Act July 25, 1956, substituted “4263(a)” for “4262(b)”.
 
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–188 effective on 7th calendar day after Aug. 20, 1996, see section 1609(i) of Pub. L. 104–188, set out as a note under section 4041 of this title.
+
 #### Effective Date of 1993 Amendment
 
 Amendment by section 13163(b) of Pub. L. 103–66 effective Jan. 1, 1994, see section 13163(d) of Pub. L. 103–66, set out as a note under section 4041 of this title.
 
 Amendment by section 13241(f)(6), (7) of Pub. L. 103–66 effective Oct. 1, 1993, see section 13241(g) of Pub. L. 103–66, set out as a note under section 4041 of this title.
 
-Amendment by section 13242(d)(20), (22)–(24) of Pub. L. 103–66 effective Jan. 1, 1994, see section 13242(e) of Pub.L. 103–66, set out as a note under section 4041 of this title.
+Amendment by section 13242(d)(20), (22)–(24) of Pub. L. 103–66 effective Jan. 1, 1994, see section 13242(e) of Pub. L. 103–66, set out as a note under section 4041 of this title.
 
 #### Effective Date of 1988 Amendment
 

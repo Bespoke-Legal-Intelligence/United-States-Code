@@ -18,7 +18,7 @@ Section 3 of Pub. L. 96–511, as amended by Pub. L. 97–258, §5(b), Sept. 13,
 
 “\[(a) Repealed\]
 
-“(b) The Director of the Office of Management and Budget shall delegate to the Administrator for the Office of Information and Regulatory Affairs all functions, authority, and responsibility of the Director under section 552a of title 5, United States Code, under Executive Order 12046 \[Ex. Ord. No. 12046, Mar. 27, 1978, 43 F.R. 14193, set out as a note under section 305 of Title 47, Telegraphs, Telephones, and Radiotelegraphs\] and Reorganization Plan No. 1 for telecommunications \[probably means Reorg. Plan No. 1 of 1970, 35 F.R. 6421, 84 Stat. 2083, set out in the Appendix to Title 5, Government Organization and Employees\], and under sections 110 and 111 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 759) \[40 U.S.C. 757, 759\].”
+“(b) The Director of the Office of Management and Budget shall delegate to the Administrator for the Office of Information and Regulatory Affairs all functions, authority, and responsibility of the Director under section 552a of title 5, United States Code, under Executive Order 12046 \[Ex. Ord. No. 12046, Mar. 27, 1978, 43 F.R. 14193, set out as a note under section 305 of Title 47, Telegraphs, Telephones, and Radiotelegraphs\] and Reorganization Plan No. 1 for telecommunications \[probably means Reorg. Plan No. 1 of 1970, 35 F.R. 6421, 84 Stat. 2083, set out in the Appendix to Title 5, Government Organization and Employees\], and under sections 110 and 111 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 759) \[40 U.S.C. 757, former 759\].”
 
 #### Section Referred to in Other Sections
 

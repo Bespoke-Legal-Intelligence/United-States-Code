@@ -22,7 +22,7 @@
 | [13b.](%C2%A7%2000013b%20-%20Payment%20of%20care%2C%20tuition%2C%20assistance%2C%20and%20other%20expenses%20of%20Indians%20in%20boarding%20homes%2C%20institutions%2C%20and%20schools%3B%20payment%20of%20rewards.md) | Payment of care, tuition, assistance, and other expenses of Indians in boarding homes, institutions, and schools; payment of rewards. |
 | [13c.](%C2%A7%2000013c%20-%20Source%20of%20funds%20to%20pay%20cost%20of%20lunches%20for%20nonboarding%20public%20school%20students.md) | Source of funds to pay cost of lunches for nonboarding public school students. |
 | [13d.](%C2%A7%2000013d%20-%20Limits%20on%20use%20of%20appropriated%20funds%20by%20Bureau%20for%20general%20or%20other%20welfare%20assistance.md) | Limits on use of appropriated funds by Bureau for general or other welfare assistance. |
-| 13d–1. | Standards of need under AFDC as basis for general assistance payments by Bureau of Indian Affairs; ratable reductions. |
+| 13d–1. | Standards of need as basis for general assistance payments by Bureau of Indian Affairs; ratable reductions. |
 | 13d–2. | Enrollment and general assistance payments. |
 | (a) | In general. |
 | (b) | Factors not to be considered. |
@@ -73,7 +73,7 @@ Ex. Ord. No. 11399, Mar. 6, 1968, 33 F.R. 4245, as amended by Ex. Ord. 11551, Au
 - [&sect; 00013b - Payment of care, tuition, assistance, and other expenses of Indians in boarding homes, institutions, and schools; payment of rewards](%C2%A7%2000013b%20-%20Payment%20of%20care%2C%20tuition%2C%20assistance%2C%20and%20other%20expenses%20of%20Indians%20in%20boarding%20homes%2C%20institutions%2C%20and%20schools%3B%20payment%20of%20rewards.md)
 - [&sect; 00013c - Source of funds to pay cost of lunches for nonboarding public school students](%C2%A7%2000013c%20-%20Source%20of%20funds%20to%20pay%20cost%20of%20lunches%20for%20nonboarding%20public%20school%20students.md)
 - [&sect; 00013d - Limits on use of appropriated funds by Bureau for general or other welfare assistance](%C2%A7%2000013d%20-%20Limits%20on%20use%20of%20appropriated%20funds%20by%20Bureau%20for%20general%20or%20other%20welfare%20assistance.md)
-- [&sect; 00013d&#8211;1 - Standards of need under AFDC as basis for general assistance payments by Bureau of Indian Affairs; ratable reductions](%C2%A7%2000013d%E2%80%931%20-%20Standards%20of%20need%20under%20AFDC%20as%20basis%20for%20general%20assistance%20payments%20by%20Bureau%20of%20Indian%20Affairs%3B%20ratable%20reductions.md)
+- [&sect; 00013d&#8211;1 - Standards of need as basis for general assistance payments by Bureau of Indian Affairs; ratable reductions](%C2%A7%2000013d%E2%80%931%20-%20Standards%20of%20need%20as%20basis%20for%20general%20assistance%20payments%20by%20Bureau%20of%20Indian%20Affairs%3B%20ratable%20reductions.md)
 - [&sect; 00013d&#8211;2 - Enrollment and general assistance payments](%C2%A7%2000013d%E2%80%932%20-%20Enrollment%20and%20general%20assistance%20payments.md)
 - [&sect; 00013e - Expenses of exhibits; advance payments for services; termination of Federal supervision; treaty expenses](%C2%A7%2000013e%20-%20Expenses%20of%20exhibits%3B%20advance%20payments%20for%20services%3B%20termination%20of%20Federal%20supervision%3B%20treaty%20expenses.md)
 - [&sect; 00014 - Money accruing to Indians from Department of Veterans Affairs or other governmental agencies](%C2%A7%2000014%20-%20Money%20accruing%20to%20Indians%20from%20Department%20of%20Veterans%20Affairs%20or%20other%20governmental%20agencies.md)

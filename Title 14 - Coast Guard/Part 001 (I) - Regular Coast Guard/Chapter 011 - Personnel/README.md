@@ -7,8 +7,8 @@
 | Sec. |  |
 | :--- | ---: |
 | [211\.](Officers/a.%20appointments/%C2%A7%2000211%20-%20Original%20appointment%20of%20permanent%20commissioned%20officers.md) | Original appointment of permanent commissioned officers. |
-| \[212, 213. Repealed.\] |  |
-| [214\.](Officers/a.%20appointments/%C2%A7%2000214%20-%20Original%20appointment%20of%20temporary%20officers.md) | Original appointment of temporary officers. |
+| \[212, 213. | Repealed.\] |
+| [214\.](Officers/a.%20appointments/%C2%A7%2000214%20-%20Appointment%20of%20temporary%20officers.md) | Appointment of temporary officers. |
 | [215\.](Officers/a.%20appointments/%C2%A7%2000215%20-%20Rank%20of%20warrant%20officers.md) | Rank of warrant officers. |
 | \[221 to 248. Repealed.\] |  |
 
@@ -44,7 +44,7 @@
 | [274\.](Officers/c.%20promotions/%C2%A7%2000274%20-%20Promotions%3B%20pay%20and%20allowances.md) | Promotions; pay and allowances. |
 | [275\.](Officers/c.%20promotions/%C2%A7%2000275%20-%20Wartime%20temporary%20service%20promotions.md) | Wartime temporary service promotions. |
 | [276\.](Officers/c.%20promotions/%C2%A7%2000276%20-%20Promotion%20of%20officers%20not%20included%20on%20active%20duty%20promotion%20list.md) | Promotion of officers not included on active duty promotion list. |
-| [277\.](Officers/c.%20promotions/%C2%A7%2000277%20-%20Temporary%20promotions%20of%20warrant%20officers.md) | Temporary promotions of warrant officers. |
+| \[277. | Repealed.\] |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -116,7 +116,7 @@
 | [360\.](Enlisted%20Members/%C2%A7%2000360%20-%20Recall%20to%20active%20duty%20with%20consent%20of%20member.md) | Recall to active duty with consent of member. |
 | [361\.](Enlisted%20Members/%C2%A7%2000361%20-%20Relief%20of%20retired%20enlisted%20member%20promoted%20while%20on%20active%20duty.md) | Relief of retired enlisted member promoted while on active duty. |
 | [362\.](Enlisted%20Members/%C2%A7%2000362%20-%20Retirement%20in%20cases%20where%20higher%20grade%20or%20rating%20has%20been%20held.md) | Retirement in cases where higher grade or rating has been held. |
-| \[363, 364. Repealed.\] |  |
+| \[363, 364. | Repealed.\] |
 | [365\.](Enlisted%20Members/%C2%A7%2000365%20-%20Extension%20of%20enlistments.md) | Extension of enlistments. |
 | [366\.](Enlisted%20Members/%C2%A7%2000366%20-%20Retention%20beyond%20term%20of%20enlistment%20in%20case%20of%20disability.md) | Retention beyond term of enlistment in case of disability. |
 | [367\.](Enlisted%20Members/%C2%A7%2000367%20-%20Detention%20beyond%20term%20of%20enlistment.md) | Detention beyond term of enlistment. |
@@ -137,7 +137,7 @@
 | [422\.](General%20Provisions/%C2%A7%2000422%20-%20Status%20of%20recalled%20personnel.md) | Status of recalled personnel. |
 | [423\.](General%20Provisions/%C2%A7%2000423%20-%20Computation%20of%20retired%20pay.md) | Computation of retired pay. |
 | [424\.](General%20Provisions/%C2%A7%2000424%20-%20Limitations%20on%20retirement%20and%20retired%20pay.md) | Limitations on retirement and retired pay. |
-| \[425. | Repealed.\] |
+| [425\.](General%20Provisions/%C2%A7%2000425%20-%20Board%20for%20Correction%20of%20Military%20Records%20deadline.md) | Board for Correction of Military Records deadline. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -158,6 +158,8 @@ This chapter, dealing with the appointment, enlistment, promotion, retirement an
 The subject matter seemed to break down into the sub-heads of “Commissioned Officers”, “Warrant Officers”, “Enlisted Men”, and “General Provisions”. Each of the first three sub-heads parallels the other two, insofar as the applicability of statutes of the three groups permits. The last sub-head includes the broad provisions which, in the same terms, can be made applicable to all military personnel. In accord with existing Navy and Coast Guard law, the term “commissioned officer” includes commissioned warrant officers unless specifically excepted, or manifestly inapplicable. Heretofore Coast Guard statutes have designated commissioned warrant officers as chief warrant officers; in line with Navy designation it is changed to commissioned warrant officers throughout this title. Terms such as “Coast Guard personnel” or “personnel of the Coast Guard”, as used throughout this title, are intended to include all employees of the Service, civilian and military. 81st Congress, House Report No. 557.
 
 #### Amendments
+
+1996—Pub. L. 104–324, title II, §§209(b), 210(b), 211(b), Oct. 19, 1996, 110 Stat. 3914, 3915, substituted “Appointment” for “Original appointment” in item 214, struck out item 277 “Temporary promotions of warrant officers”, and added item 425.
 
 1994—Pub. L. 103–337, div. A, title V, §541(e)(2), (f)(5)(B), Oct. 5, 1994, 108 Stat. 2766, 2767, struck out items 212 “Original appointment of permanent commissioned warrant officers” and 213 “Original appointment of permanent warrant officers (W–1)” and added item 215.
 

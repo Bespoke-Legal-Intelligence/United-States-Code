@@ -16,9 +16,11 @@ Merchandise which is introduced or attempted to be introduced into the United St
 
 &emsp;&emsp;(A) is stolen, smuggled, or clandestinely imported or introduced;
 
-&emsp;&emsp;(B) is a controlled substance, as defined in the Controlled Substances Act (21 U.S.C. 801 et seq.), and is not imported in accordance with applicable law; or
+&emsp;&emsp;(B) is a controlled substance, as defined in the Controlled Substances Act (21 U.S.C. 801 et seq.), and is not imported in accordance with applicable law;
 
-&emsp;&emsp;(C) is a contraband article, as defined in section 80302 of title 49.
+&emsp;&emsp;(C) is a contraband article, as defined in section 80302 of title 49; or
+
+&emsp;&emsp;(D) is a plastic explosive, as defined in section 841(q) of title 18, which does not contain a detection agent, as defined in section 841(p) of such title.
 
 &emsp;(2) The merchandise may be seized and forfeited if—
 
@@ -44,7 +46,7 @@ Merchandise which is introduced or attempted to be introduced into the United St
 
 &emsp;&emsp;(B) permit the exportation of the merchandise, unless its release would adversely affect health, safety, or conservation or be in contravention of a bilateral or multilateral agreement or treaty.
 
-(June 17, 1930, ch. 497, title IV, §596, as added Sept. 1, 1954, ch. 1213, title V, §502, 68 Stat. 1140; amended Oct. 27, 1986, Pub. L. 99–570, title III, §3123, 100 Stat. 3207–87; Dec. 8, 1993, Pub. L. 103–182, title VI, §624, 107 Stat. 2187.)
+(June 17, 1930, ch. 497, title IV, §596, as added Sept. 1, 1954, ch. 1213, title V, §502, 68 Stat. 1140; amended Oct. 27, 1986, Pub. L. 99–570, title III, §3123, 100 Stat. 3207–87; Dec. 8, 1993, Pub. L. 103–182, title VI, §624, 107 Stat. 2187; Apr. 24, 1996, Pub. L. 104–132, title VI, §606, 110 Stat. 1290.)
 
 #### References in Text
 
@@ -56,11 +58,17 @@ In subsec. (c)(1)(C), “section 80302 of title 49” substituted for “section
 
 #### Amendments
 
+1996—Subsec. (c)(1)(D). Pub. L. 104–132 added subpar. (D).
+
 1993—Subsec. (c). Pub. L. 103–182 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “Any merchandise that is introduced or attempted to be introduced into the United States contrary to law (other than in violation of section 1592 of this title) may be seized and forfeited.”
 
 1986—Subsec. (a). Pub. L. 99–570, §3123(1), (2), substituted “subsection (b) or (c) of section 1594” for “the proviso to section 1594” and “may be seized” for “shall be seized”.
 
 Subsec. (c). Pub. L. 99–570, §3123(3), added subsec. (c).
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–132 effective 1 year after Apr. 24, 1996, see section 607 of Pub. L. 104–132, set out as a note under section 841 of Title 18, Crimes and Criminal Procedure.
 
 #### Section Referred to in Other Sections
 

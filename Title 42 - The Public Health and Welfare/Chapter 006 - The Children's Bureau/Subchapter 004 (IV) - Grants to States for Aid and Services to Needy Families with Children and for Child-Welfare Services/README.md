@@ -8,14 +8,14 @@
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in sections 280c–6, 503, 1301, 1306a, 1320b–2, 1320b–6, 1396b, 3020d, 6862, 9432, 9433, 9452 of this title; title 7 sections 2014, 2015, 2017, 2025, 2026, 2029; title 20 section 6333; title 26 sections 42, 6334; title 29 section 1532.
+This subchapter is referred to in sections 280c–6, 503, 1301, 1306a, 1320b–2, 1396b, 3020d, 6862, 9432, 9433, 9452 ofthis title; title 7 sections 2014, 2015, 2017, 2026, 2029; title 8 section 1611; title 26 sections 42, 6334; title 29 sections 1531, 1532, 1605.
 
 
 ---
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [Part A - Aid to Families with Dependent Children](Part%20A%20-%20Aid%20to%20Families%20with%20Dependent%20Children/README.md)
+- [Part A - Block Grants to States for Temporary Assistance for Needy Families](Part%20A%20-%20Block%20Grants%20to%20States%20for%20Temporary%20Assistance%20for%20Needy%20Families/README.md)
 - [Part B - Child and Family Services](Part%20B%20-%20Child%20and%20Family%20Services/README.md)
 - [Part C - Work Incentive Program for Recipients of Aid under State Plan Approved under Part A](Part%20C%20-%20Work%20Incentive%20Program%20for%20Recipients%20of%20Aid%20under%20State%20Plan%20Approved%20under%20Part%20A/README.md)
 - [Part D - Child Support and Establishment of Paternity](Part%20D%20-%20Child%20Support%20and%20Establishment%20of%20Paternity/README.md)

@@ -15,6 +15,6 @@
 - [&sect; 05776 - Criteria for grants](%C2%A7%2005776%20-%20Criteria%20for%20grants.md)
 - [&sect; 05776a - Missing and Exploited Children's Task Force](%C2%A7%2005776a%20-%20Missing%20and%20Exploited%20Children%27s%20Task%20Force.md)
 - [&sect; 05777 - Authorization of appropriations](%C2%A7%2005777%20-%20Authorization%20of%20appropriations.md)
-- [&sect; 05778 - Special study and report](%C2%A7%2005778%20-%20Special%20study%20and%20report.md)
+- [&sect; 05778 - Repealed. Pub. L. 104&#8211;235, title II, &sect;231(b), Oct. 3, 1996, 110 Stat. 3092](%C2%A7%2005778%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93235%2C%20title%20II%2C%20%C2%A7231%28b%29%2C%20Oct.%203%2C%201996%2C%20110%20Stat.%203092.md)
 - [&sect; 05779 - Reporting requirement](%C2%A7%2005779%20-%20Reporting%20requirement.md)
 - [&sect; 05780 - State requirements](%C2%A7%2005780%20-%20State%20requirements.md)

@@ -30,13 +30,13 @@ In carrying out the provisions of subsection (a) of this section the Administrat
 
 &emsp;(5) establish and maintain research fellowships at public or nonprofit private educational institutions or research organizations;
 
-&emsp;(6) collect and disseminate, in cooperation with other Federal departments and agencies, and with other public or private agencies, institutions, and organizations having related responsibilities, basic data on chemical, physical, and biological effects of varying water quality and other information pertaining to pollution and the prevention, reduction, and elimination thereof; and
+&emsp;(6) collect and disseminate, in cooperation with other Federal departments and agencies,and with other public or private agencies, institutions, and organizations having related responsibilities, basic data on chemical, physical, and biological effects of varying water quality and other information pertaining to pollution and the prevention, reduction, and elimination thereof; and
 
 &emsp;(7) develop effective and practical processes, methods, and prototype devices for the prevention, reduction, and elimination of pollution.
 
 #### (c) Research and studies on harmful effects of pollutants; cooperation with Secretary of Health and Human Services
 
-In carrying out the provisions of subsection (a) of this section the Administrator shall conductresearch on, and survey the results of other scientific studies on, the harmful effects on the health or welfare of persons caused by pollutants. In order to avoid duplication of effort, the Administrator shall, to the extent practicable, conduct such research in cooperation with and through the facilities of the Secretary of Health and Human Services.
+In carrying out the provisions of subsection (a) of this section the Administrator shall conduct research on, and survey the results of other scientific studies on, the harmful effects on the health or welfare of persons caused by pollutants. In order to avoid duplication of effort, the Administrator shall, to the extent practicable, conduct such research in cooperation with and through the facilities of the Secretary of Health and Human Services.
 
 #### (d) Sewage treatment; identification and measurement of effects of pollutants; augmented streamflow
 
@@ -70,7 +70,7 @@ The Administrator shall conduct research and technical development work, and mak
 
 &emsp;(C) provide, in addition to the program established under paragraph (1) of this subsection, training in technical matters relating to the causes, prevention, reduction, and elimination of pollution for personnel of public agencies and other persons with suitable qualifications.
 
-(4) The Administrator shall submit, through the President, a report to the Congress not later than December 31, 1973, summarizing the actions taken under this subsection and the effectiveness of such actions, and setting forth the number of persons trained, the occupational categories for which training was provided, the effectiveness of other Federal, State, and local training programs in this field, together with estimates of future needs, recommendations onimproving training programs, and such other information and recommendations, including legislative recommendations, as he deems appropriate.
+(4) The Administrator shall submit, through the President, a report to the Congress not later than December 31, 1973, summarizing the actions taken under this subsection and the effectiveness of such actions, and setting forth the number of persons trained, the occupational categories for which training was provided, the effectiveness of other Federal, State, and local training programs in this field, together with estimates of future needs, recommendations on improving training programs, and such other information and recommendations, including legislative recommendations, as he deems appropriate.
 
 #### (h) Lake pollution
 
@@ -106,7 +106,7 @@ In carrying out the provisions of this section relating to the conduct by the Ad
 
 (1) The Administrator shall, in an effort to prevent degradation of the environment from the disposal of waste oil, conduct a study of (A) the generation of used engine, machine, cooling, and similar waste oil, including quantities generated, the nature and quality of such oil, present collecting methods and disposal practices, and alternate uses of such oil; (B) the long-term, chronic biological effects of the disposal of such waste oil; and (C) the potential market for such oils, including the economic and legal factors relating to the sale of products made from such oils, the level of subsidy, if any, needed to encourage the purchase by public and private nonprofit agencies of products from such oil, and the practicability of Federal procurement, on a priority basis, of products made from such oil. In conducting such study, the Administrator shall consult with affected industries and other persons.
 
-(2) The Administrator shall report the preliminary results of such study to Congress within six months after October 18, 1972, and shall submit a final report to Congress within 18 months after such date.
+(2) The Administrator shall report the preliminary results of such study to Congress within six months after October 18, 1972, and shall submita final report to Congress within 18 months after such date.
 
 #### (n) Comprehensive studies of effects of pollution on estuaries and estuarine zones; reports
 
@@ -138,7 +138,7 @@ In carrying out the provisions of subsection (a) of this section the Administrat
 
 (4)
 
-Small flows clearinghouse.—Notwithstanding section 1285(d) of this title, from amounts that are set aside for a fiscal year under section 1285(i) of this title and are not obligated by the end of the 24-month period of availability for such amounts under section 1285(d) of this title, the Administrator shall make available $1,000,000 or such unobligated amount, whichever is less, to support a national clearinghouse within the Environmental Protection Agency to collect and disseminate information on small flows of sewage and innovative or alternative wastewater treatment processes and techniques, consistent with paragraph (3). This paragraph shall apply with respect to amounts set aside under section 1285(i) of this title for which the 24-month period of availability referred to in the preceding sentence ends on or after September 30, 1986.
+Small flows clearinghouse.—Notwithstanding section 1285(d) of this title, from amounts that are set aside for a fiscal year under section 1285(i) of this title and are not obligated by the end of the 24-month period of availability for such amounts under section1285(d) of this title, the Administrator shall make available $1,000,000 or such unobligated amount, whichever is less, to support a national clearinghouse within the Environmental Protection Agency to collect and disseminate information on small flows of sewage and innovative or alternative wastewater treatment processes and techniques, consistent with paragraph (3). This paragraph shall apply with respect to amounts set aside under section 1285(i) of this title for which the 24-month period of availability referred to in the preceding sentence ends on or after September 30, 1986.
 
 #### (r) Research grants to colleges and universities
 
@@ -166,7 +166,7 @@ In subsecs. (b)(4) and (g)(3)(A), “section 3324(a) and (b) of title 31” subs
 
 1987—Subsec. (q)(4). Pub. L. 100–4, §102, added par. (4).
 
-Subsec. (u). Pub. L. 100–4, §101(a), in cl. (1) struck out “and” after “1975,”, “1980,”, and “1981,” and inserted “such sums as may be necessary for fiscal years 1983 through 1985, and not to exceed $22,770,000 per fiscal year for each of the fiscal years 1986 through 1990,”, in cl. (2) struck out “and” after “1981,” and inserted “such sums as may be necessary for fiscal years 1983 through 1985, and $3,000,000 per fiscal year for each of the fiscal years 1986 through 1990,”, and in cl. (3) struck out “and” after “1981,” and inserted “such sums as may be necessary for fiscal years 1983 through 1985, and $1,500,000 per fiscal year for each of the fiscal years 1986 through 1990,”.
+Subsec. (u). Pub. L. 100–4, §101(a), in cl. (1) struck out “and” after “1975,”, “1980,”, and “1981,” and inserted “such sums as may be necessary for fiscal years 1983 through 1985, and not to exceed $22,770,000 per fiscal year for each of the fiscal years 1986 through 1990,”, in cl. (2) struck out “and” after “1981,” and inserted “such sums as may be necessary for fiscal years 1983 through 1985, and $3,000,000 per fiscal year for each of the fiscal years 1986 through 1990,”, and in cl. (3) struck out “and” after “1981,” and inserted “such sums as may benecessary for fiscal years 1983 through 1985, and $1,500,000 per fiscal year for each of the fiscal years 1986 through 1990,”.
 
 1980—Subsec. (u). Pub. L. 96–483 in par. (1) inserted authorization of not to exceed $20,697,000 and $22,770,000 for fiscal years ending Sept. 30, 1981, and 1982, respectively; in par. (2) inserted authorization of the sum of $3,000,000 for each of fiscal years 1981 and 1982; and in par. (3) inserted authorization of the sum of $1,500,000 for each of fiscal years 1981 and 1982.
 

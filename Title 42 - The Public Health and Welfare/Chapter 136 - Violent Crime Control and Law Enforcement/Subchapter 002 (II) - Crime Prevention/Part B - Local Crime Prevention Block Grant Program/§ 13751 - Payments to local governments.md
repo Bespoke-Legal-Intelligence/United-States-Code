@@ -100,6 +100,84 @@ Funds made available under this part to units of local government shall not be u
 
 (Pub. L. 103–322, title III, §30201, Sept. 13, 1994, 108 Stat. 1838.)
 
+#### Establishment of Boys and Girls Clubs
+
+Pub. L. 104–294, title IV, §401, Oct. 11, 1996, 110 Stat. 3496, provided that:
+
+“(a)
+
+Findings and Purpose.—
+
+&emsp;“(1)
+
+Findings.—The Congress finds that—
+
+&emsp;&emsp;“(A) the Boys and Girls Clubs of America, chartered by an Act of Congress on December 10, 1991 \[Pub. L. 102–199, see Tables for classification\], during its 90-year history as a national organization, has proven itself as a positive force in the communities it serves;
+
+&emsp;&emsp;“(B) there are 1,810 Boys and Girls Clubs facilities throughout the United States, Puerto Rico, and the United States Virgin Islands, serving 2,420,000 youths nationwide;
+
+&emsp;&emsp;“(C) 71 percent of the young people who benefit from Boys and Girls Clubs programs live in our inner cities and urban areas;
+
+&emsp;&emsp;“(D) Boys and Girls Clubs are locally run and have been exceptionally successful in balancing public funds with private sector donations and maximizing community involvement;
+
+&emsp;&emsp;“(E) Boys and Girls Clubs are located in 289 public housing sites across the Nation;
+
+&emsp;&emsp;“(F) public housing projects in which there is an active Boys and Girls Club have experienced a 25 percent reduction in the presence of crack cocaine, a 22 percent reduction in overall drug activity, and a 13 percent reduction in juvenile crime;
+
+&emsp;&emsp;“(G) these results have been achieved in the face of national trends in which overall drug use by youth has increased 105 percent since 1992 and 10.9 percent of the Nation's young people use drugs on a monthly basis; and
+
+&emsp;&emsp;“(H) many public housing projects and other distressed areas are still underserved by Boys and Girls Clubs.
+
+&emsp;“(2)
+
+Purpose.—It is the purpose of this section to provide adequate resources in the form of seed money for the Boys and Girls Clubs of America to establish 1,000 additional local Boys and Girls Clubs in public housing projects and other distressed areas by 2001.
+
+“(b)
+
+Definitions.—For purposes of this section—
+
+&emsp;“(1) the terms ‘public housing’ and ‘project’ have the same meanings as in section 3(b) of the United States Housing Act of 1937 \[42 U.S.C. 1437a(b)\]; and
+
+&emsp;“(2) the term ‘distressed area’ means an urban, suburban, or rural area with a high percentage of high risk youth as defined in section 509A of the Public Health Service Act (42 U.S.C. 290aa–8(f) \[42 U.S.C. 290bb–23(g)\]).
+
+“(c)
+
+Establishment.—
+
+&emsp;“(1)
+
+In general.—For each of the fiscal years 1997, 1998, 1999, 2000, and 2001, the Director of the Bureau of Justice Assistance of the Department of Justice shall provide a grant to the Boys and Girls Clubs of America for the purpose of establishing Boys and Girls Clubs in public housing projects and other distressed areas.
+
+&emsp;“(2)
+
+Contracting authority.—Where appropriate, the Secretary of Housing and Urban Development, in consultation with the Attorney General, shall enter into contracts with the Boys and Girls Clubs of America to establish clubs pursuant to the grants under paragraph (1).
+
+“(d)
+
+Report.—Not later than May 1 of each fiscal year for which amounts are made available to carry out this Act \[see Tables for classification\], the Attorney General shall submit to the Committees on the Judiciary of the Senate and the House of Representatives a report that details the progress made under this Act in establishing Boys and Girls Clubs in public housing projects and other distressed areas, and the effectiveness of the programs in reducing drug abuse and juvenile crime.
+
+“(e)
+
+Authorization of Appropriations.—
+
+&emsp;“(1)
+
+In general.—There are authorized to be appropriated to carry out this section—
+
+&emsp;&emsp;“(A) $20,000,000 for fiscal year 1997;
+
+&emsp;&emsp;“(B) $20,000,000 for fiscal year 1998;
+
+&emsp;&emsp;“(C) $20,000,000 for fiscal year 1999;
+
+&emsp;&emsp;“(D) $20,000,000 for fiscal year 2000; and
+
+&emsp;&emsp;“(E) $20,000,000 for fiscal year 2001.
+
+&emsp;“(2)
+
+Violent crime reduction trust fund.—The sums authorized to be appropriated by this subsection may be made from the Violent Crime Reduction Trust Fund.”
+
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 13753, 13755, 14214 of this title.

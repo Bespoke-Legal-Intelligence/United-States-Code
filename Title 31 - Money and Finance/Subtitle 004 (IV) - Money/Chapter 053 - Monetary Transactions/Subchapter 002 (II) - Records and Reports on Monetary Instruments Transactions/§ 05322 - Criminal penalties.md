@@ -48,7 +48,7 @@ In subsection (c), the words “the purposes of both civil and criminal penaltie
 
 Subsec. (c). Pub. L. 99–570, §1356(c)(1), substituted “5318(a)(2)” for “5318(2)” in two places.
 
-1984—Subsec. (a). Pub. L. 98–473, which directed the substitution of “$250,000, or imprisonment not more than five years, or both” for “$1,000, or imprisonment not more than one year, or both”, was executed by substituting the quoted wording for “$1,000, imprisoned for not more than one year, or both” to reflect the probable intent of Congress.
+1984—Subsec. (a). Pub. L. 98–473, which directed the substitution of “$250,000, or imprisonment not morethan five years, or both” for “$1,000, or imprisonment not more than one year, or both”, was executed by substituting the quoted wording for “$1,000, imprisoned for not more than one year, or both” to reflect the probable intent of Congress.
 
 #### Effective Date of 1986 Amendment
 

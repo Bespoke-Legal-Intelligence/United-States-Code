@@ -4,6 +4,8 @@
 
 This subchapter is referred to in title 10 section 1744; title 16 section 3198; title 38 section 7403.
 
+<i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
+
 
 ---
 
@@ -11,7 +13,7 @@ This subchapter is referred to in title 10 section 1744; title 16 section 3198; 
 
 - [&sect; 03301 - Civil service; generally](%C2%A7%2003301%20-%20Civil%20service%3B%20generally.md)
 - [&sect; 03302 - Competitive service; rules](%C2%A7%2003302%20-%20Competitive%20service%3B%20rules.md)
-- [&sect; 03303 - Political recommendations](%C2%A7%2003303%20-%20Political%20recommendations.md)
+- [&sect; 03303 - Competitive service; recommendations of Senators or Representatives](%C2%A7%2003303%20-%20Competitive%20service%3B%20recommendations%20of%20Senators%20or%20Representatives.md)
 - [&sect; 03304 - Competitive service; examinations](%C2%A7%2003304%20-%20Competitive%20service%3B%20examinations.md)
 - [&sect; 03304a - Competitive service; career appointment after 3 years&#8217; temporary service](%C2%A7%2003304a%20-%20Competitive%20service%3B%20career%20appointment%20after%203%20years%E2%80%99%20temporary%20service.md)
 - [&sect; 03305 - Competitive service; examinations; when held](%C2%A7%2003305%20-%20Competitive%20service%3B%20examinations%3B%20when%20held.md)

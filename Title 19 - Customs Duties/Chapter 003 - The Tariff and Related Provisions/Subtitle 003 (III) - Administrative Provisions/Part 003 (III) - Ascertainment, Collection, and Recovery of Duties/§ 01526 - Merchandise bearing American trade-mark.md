@@ -24,17 +24,25 @@ Any person dealing in any such merchandise may be enjoined from dealing therein 
 
 #### (e) Merchandise bearing counterfeit mark; seizure and forfeiture; disposition of seized goods
 
-Any such merchandise bearing a counterfeit mark (within the meaning of section 1127 of title 15) imported into the United States in violation of the provisions of section 1124 of title 15, shall be seized and, in the absence of the written consent of the trademark owner, forfeited for violations of the customs laws. Upon seizure of such merchandise, the Secretary shall notify the owner of the trademark, and shall, after forfeiture, obliterate the trademark where feasible and dispose of the goods seized—
+Any such merchandise bearing a counterfeit mark (within the meaning of section 1127 of title15) imported into the United States in violation of the provisions of section 1124 of title 15, shall be seized and, in the absence of the written consent of the trademark owner, forfeited for violations of the customs laws. Upon seizure of such merchandise, the Secretary shall notify the owner of the trademark, and shall, after forfeiture, destroy the merchandise. Alternatively, if the merchandise is not unsafe or a hazard to health, and the Secretary has the consent of the trademark owner, the Secretary may obliterate the trademark where feasible and dispose of the goods seized—
 
 &emsp;(1) by delivery to such Federal, State, and local government agencies as in the opinion of the Secretary have a need for such merchandise,
 
-&emsp;(2) by gift to such eleemosynary institutions as in the opinion of the Secretary have a need for such merchandise,
+&emsp;(2) by gift to such eleemosynary institutions as in the opinion of the Secretary have a need for such merchandise, or
 
-&emsp;(3) more than 90 days after the date of forfeiture, by sale by the Customs Service at public auction under such regulations as the Secretary prescribes, except that before making any such sale the Secretary shall determine that no Federal, State, or local government agency or eleemosynary institution has established a need for such merchandise under paragraph (1) or (2), or
+&emsp;(3) more than 90 days after the date of forfeiture, by sale by the Customs Service at public auction under such regulations as the Secretary prescribes, except that before making any such sale the Secretary shall determine that no Federal, State, or local government agency or eleemosynary institution has established a need for such merchandise under paragraph (1) or (2).
 
-&emsp;(4) if the merchandise is unsafe or a hazard to health, by destruction.
+#### (f) Civil penalties
 
-(June 17, 1930, ch. 497, title IV, §526, 46 Stat. 741; Jan. 2, 1975, Pub. L. 93–596, §3, 88 Stat. 1949; Oct. 3, 1978, Pub. L. 95–410, title II, §211(a), (c), 92 Stat. 903; Dec. 8, 1993, Pub. L. 103–182, title VI, §663, 107 Stat. 2214.)
+(1) Any person who directs, assists financially or otherwise, or aids and abets the importation of merchandise for sale or public distribution that is seized under subsection (e) of this section shall be subject to a civil fine.
+
+(2) For the first such seizure, the fine shall be not more than the value that the merchandise would have had if it were genuine, according to the manufacturer's suggested retail price, determined under regulations promulgated by the Secretary.
+
+(3) For the second seizure and thereafter, the fine shall be not more than twice the value that the merchandise would have had if it were genuine, as determined under regulations promulgated by the Secretary.
+
+(4) The imposition of a fine under this subsection shall be within the discretion of the Customs Service, and shall be in addition to any other civil or criminal penalty or other remedy authorized by law.
+
+(June 17, 1930, ch. 497, title IV, §526, 46 Stat. 741; Jan. 2, 1975, Pub. L. 93–596, §3, 88 Stat. 1949; Oct. 3, 1978, Pub. L. 95–410, title II, §211(a), (c), 92 Stat. 903; Dec. 8, 1993, Pub. L. 103–182, title VI, §663, 107 Stat. 2214; July 2, 1996, Pub. L. 104–153, §§9, 10, 110 Stat. 1388.)
 
 #### References in Text
 
@@ -49,6 +57,10 @@ The customs laws, referred to in subsec. (b), are classified generally to this t
 Provisions similar to those in this section were contained in act Sept. 21, 1922, ch. 356, title IV, §526, 42 Stat. 975. That section was superseded by section 526 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
 #### Amendments
+
+1996—Subsec. (e). Pub. L. 104–153, §9, inserted “destroy the merchandise. Alternatively, if the merchandise is not unsafe or a hazard to health, and the Secretary has the consent of the trademark owner, the Secretary may” after “shall, after forfeiture,” in second sentence, inserted “or” at end of par. (2), substituted period for “, or” at end of par. (3), and struck out par. (4) which read as follows: “if the merchandise is unsafe or a hazard to health, by destruction.”
+
+Subsec. (f). Pub. L. 104–153, §10, added subsec. (f).
 
 1993—Subsec. (e)(3). Pub. L. 103–182 substituted “90 days” for “1 year” and “the Customs Service” for “appropriate customs officers”.
 

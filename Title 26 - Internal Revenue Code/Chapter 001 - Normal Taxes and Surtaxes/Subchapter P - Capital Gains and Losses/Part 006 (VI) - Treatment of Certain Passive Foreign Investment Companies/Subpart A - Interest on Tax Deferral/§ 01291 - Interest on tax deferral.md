@@ -26,7 +26,7 @@
 
 #### (A) Holding period
 
-&emsp;&emsp;The taxpayer's holding period shall be determined under section 1223; except that, for purposes of applying this section to an excess distribution, such holding period shall be treated as ending on the date of such distribution.
+&emsp;&emsp;The taxpayer's holding period shall be determined under section 1223; except that, forpurposes of applying this section to an excess distribution, such holding period shall be treated as ending on the date of such distribution.
 
 #### (B) Current year
 
@@ -106,7 +106,7 @@ For purposes of this section—
 
 #### (B) Due date
 
-&emsp;&emsp;For purposes of this subsection, the term “due date” means the date prescribed by law\(determined without regard to extensions) for filing the return of the tax imposed by this chapter for the taxable year.
+&emsp;&emsp;For purposes of this subsection, the term “due date” means the date prescribed by law (determined without regard to extensions) for filing the return of the tax imposed by this chapter for the taxable year.
 
 #### (d) Coordination with subpart B
 
@@ -192,7 +192,7 @@ To the extent provided in regulations, in the case of any transfer of stock in a
 
 &emsp;&emsp;(C) to the extent—
 
-&emsp;&emsp;&emsp;(i) that such excess distribution taxes are allocated to a taxable year referred toin subsection (a)(1)(B), such taxes shall be taken into account under section 901 for the current year, and
+&emsp;&emsp;&emsp;(i) that such excess distribution taxes are allocated to a taxable year referred to in subsection (a)(1)(B), such taxes shall be taken into account under section 901 for the current year, and
 
 &emsp;&emsp;&emsp;(ii) that such excess distribution taxes are allocated to any other taxable year, such taxes shall reduce (subject to the principles of section 904(d) and not below zero) the increase in tax determined under subsection (c)(2) for such taxable year by reason of such distribution (but such taxes shall not be taken into account under section 901).
 

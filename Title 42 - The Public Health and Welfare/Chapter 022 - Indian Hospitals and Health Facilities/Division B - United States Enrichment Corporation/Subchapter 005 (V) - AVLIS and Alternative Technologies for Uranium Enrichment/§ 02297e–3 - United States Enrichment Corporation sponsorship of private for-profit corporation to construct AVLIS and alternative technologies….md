@@ -28,7 +28,7 @@
 
 #### (1) Grants from USEC
 
-&emsp;The Corporation may make grants to the private corporation established under subsection (a) of this section from amounts available in the AVLIS Commercialization Fund. Such grants shall be used by the private corporation to carry out any remaining predeployment activity assigned to the private corporation by the Corporation. Such grants may not be used for the costs of constructing an AVLIS, or alternative technologies for uranium enrichment, production facility or engaging in directly related preconstruction activities (other than such assigned predeployment activities). The aggregate amount of such grants shall not exceed $364,000,000.
+&emsp;The Corporation may make grants to the private corporation established under subsection (a) of this section from amounts available in the AVLIS Commercialization Fund. Such grants shall be used by the private corporation to carry out any remaining predeployment activity assigned to the private corporation by the Corporation. Such grantsmay not be used for the costs of constructing an AVLIS, or alternative technologies for uranium enrichment, production facility or engaging in directly related preconstruction activities (other than such assigned predeployment activities). The aggregate amount of such grants shall not exceed $364,000,000.
 
 #### (2) Licensing agreement
 
@@ -47,6 +47,10 @@
 &emsp;The Corporation may provide to the private corporation established under subsection (a) of this section, on a reimbursable basis, such additional personnel, services, and equipment as the 2 corporations may determine to be appropriate.
 
 (Aug. 1, 1946, ch. 724, title II, §1604, as added Oct. 24, 1992, Pub. L. 102–486, title IX, §901, 106 Stat. 2940; amended Oct. 29, 1992, Pub. L. 102–572, title IX, §902(b)(2), 106 Stat. 4516.)
+
+#### Repeal of Section
+
+<i>Section repealed effective as of date on which 100 percent of ownership of United States Enrichment Corporation has been transferred to private investors, see section 3116(a)(1) of Pub. L. 104–134, set out as a note under section 2297 of this title.</i>
 
 #### Amendments
 

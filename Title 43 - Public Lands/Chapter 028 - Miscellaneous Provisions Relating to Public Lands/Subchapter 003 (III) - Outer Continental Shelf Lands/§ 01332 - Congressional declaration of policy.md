@@ -20,7 +20,7 @@ It is hereby declared to be the policy of the United States that—
 
 &emsp;(6) operations in the outer Continental Shelf should be conducted in a safe manner by well-trained personnel using technology, precautions, and techniques sufficient to prevent or minimize the likelihood of blowouts, loss of well control, fires, spillages, physical obstruction to other users of the waters or subsoil and seabed, or other occurrences which may cause damage to the environment or to property, or endanger life or health.
 
-(Aug. 7, 1953, ch. 345, §3, 67 Stat. 462; Sept. 18, 1978, Pub. L. 95–372, title II, §202, 92 Stat. 634; Apr. 7, 1986, Pub. L. 99–272, title VIII, §8002, 100 Stat. 148.)
+(Aug. 7, 1953, ch. 345, §3, 67 Stat. 462; Sept. 18, 1978, Pub. L. 95–372, title II, §202, 92 Stat. 634;Apr. 7, 1986, Pub. L. 99–272, title VIII, §8002, 100 Stat. 148.)
 
 #### Amendments
 

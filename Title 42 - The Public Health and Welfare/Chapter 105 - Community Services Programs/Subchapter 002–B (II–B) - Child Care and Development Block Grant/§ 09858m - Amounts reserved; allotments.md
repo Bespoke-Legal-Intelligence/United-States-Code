@@ -4,11 +4,11 @@
 
 #### (1) Territories and possessions
 
-&emsp;The Secretary shall reserve not to exceed one half of 1 percent of the amount appropriated under this subchapter in each fiscal year for payments to Guam, American Samoa, the Virgin Islands of the United States, the Commonwealth of the Northern Mariana Islands, and the Trust Territory of the Pacific Islands to be allotted in accordance with their respective needs.
+&emsp;The Secretary shall reserve not to exceed one half of 1 percent of the amount appropriated under this subchapter in each fiscal year for payments to Guam, American Samoa, the Virgin Islands of the United States, and the Commonwealth of the Northern Mariana Islands to be allotted in accordance with their respective needs.
 
 #### (2) Indians <sup>1</sup> tribes
 
-&emsp;The Secretary shall reserve not more than 3 percent of the amount appropriated under section 9858 of this title in each fiscal year for payments to Indian tribes and tribal organizations with applications approved under subsection (c) of this section.
+&emsp;The Secretary shall reserve not less than 1 percent, and not more than 2 percent, of the amount appropriated under section 9858 of this title in each fiscal year for payments to Indian tribes and tribal organizations with applications approved under subsection (c) of this section.
 
 #### (b) State allotment
 
@@ -68,7 +68,7 @@
 
 #### (B) Services on reservations
 
-&emsp;&emsp;In the case of an applicant located in a State other than Alaska, California, orOklahoma, programs and activities under this section will be carried out on the Indian reservation for the benefit of Indian children.
+&emsp;&emsp;In the case of an applicant located in a State other than Alaska, California, or Oklahoma, programs and activities under this section will be carried out on the Indian reservation for the benefit of Indian children.
 
 #### (C) Reports and audits
 
@@ -88,7 +88,25 @@
 
 #### (5) Dual eligibility of Indian children
 
-&emsp;The awarding of a grant or contract under this section for programs or activities to be conducted in a State or States shall not affect the eligibility of any Indian child to receive services provided or to participate in programs and activities carried our <sup>2</sup> under a grant to the State or States under this subchapter.
+&emsp;The awarding of a grant or contract under this section for programs or activities to be conducted in a State or States shall not affect the eligibility of any Indian child to receive services provided or to participate in programs and activities carried out under a grant to the State or States under this subchapter.
+
+#### (6) Construction or renovation of facilities
+
+#### (A) Request for use of funds
+
+&emsp;&emsp;An Indian tribe or tribal organization may submit to the Secretary a request to use amounts provided under this subsection for construction or renovation purposes.
+
+#### (B) Determination
+
+&emsp;&emsp;With respect to a request submitted under subparagraph (A), and except as provided in subparagraph (C), upon a determination by the Secretary that adequate facilities are not otherwise available to an Indian tribe or tribal organization to enable such tribe or organization to carry out child care programs in accordance with this subchapter, and that the lack of such facilities will inhibit the operation of such programs in the future, the Secretary may permit the tribe or organization to use assistance provided under this subsection to make payments for the construction or renovation of facilities that will be used to carry out such programs.
+
+#### (C) Limitation
+
+&emsp;&emsp;The Secretary may not permit an Indian tribe or tribal organization to use amounts provided under this subsection for construction or renovation if such use will result in a decrease in the level of child care services provided by the tribe or organization as compared to the level of such services provided by the tribe or organization in the fiscal year preceding the year for which the determination under subparagraph (A) is being made.
+
+#### (D) Uniform procedures
+
+&emsp;&emsp;The Secretary shall develop and implement uniform procedures for the solicitation and consideration of requests under this paragraph.
 
 #### (d) Data and information
 
@@ -114,11 +132,15 @@ The Secretary shall obtain from each appropriate Federal agency, the most recent
 
 &emsp;For purposes of any other section of this subchapter, any amount reallotted to a State under this subsection shall be considered to be part of the allotment made under subsection (b) of this section to the State.
 
+#### (4) Indian tribes or tribal organizations
+
+&emsp;Any portion of a grant or contract made to an Indian tribe or tribal organization under subsection (c) of this section that the Secretary determines is not being used in a manner consistent with the provision of this subchapter in the period for which the grant or contract is made available, shall be allotted by the Secretary to other tribes or organizations that have submitted applications under subsection (c) of this section in accordance with their respective needs.
+
 #### (f) “State” defined
 
 For the purposes of this section, the term “State” includes only the 50 States, the District of Columbia, and the Commonwealth of Puerto Rico.
 
-(Pub. L. 97–35, title VI, §658O, as added Pub. L. 101–508, title V, §5082(2), Nov. 5, 1990, 104 Stat. 1388–246; amended Pub. L. 102–401, §3(a), Oct. 7, 1992, 106 Stat. 1959; Pub. L. 102–586, §8(c)(1), Nov. 4, 1992, 106 Stat. 5036.)
+(Pub. L. 97–35, title VI, §658O, as added Pub. L. 101–508, title V, §5082(2), Nov. 5, 1990, 104 Stat. 1388–246; amended Pub. L. 102–401, §3(a), Oct. 7, 1992, 106 Stat. 1959; Pub. L. 102–586, §8(c)(1), Nov. 4, 1992, 106 Stat. 5036; Pub. L. 104–193, title VI, §613, Aug. 22, 1996, 110 Stat. 2286.)
 
 #### References in Text
 
@@ -126,17 +148,25 @@ The National School Lunch Act, referred to in subsec. (b)(3), is act June 4, 194
 
 #### Amendments
 
+1996—Subsec. (a)(1). Pub. L. 104–193, §613(1)(A), made technical amendment to heading, inserted “and” before “the Commonwealth of the Northern Marianna Islands”, and struck out “, and the Trust Territory of the Pacific Islands” before “to be allotted in accordance”.
+
+Subsec. (a)(2). Pub. L. 104–193, §613(1)(B), substituted “less than 1 percent, and not more than 2 percent,” for “more than 3 percent”.
+
+Subsec. (c)(5). Pub. L. 104–193, §613(2)(A), substituted “activities carried out” for “activities carried our”.
+
+Subsec. (c)(6). Pub. L. 104–193, §613(2)(B), added par. (6).
+
+Subsec. (e)(4). Pub. L. 104–193, §613(3), added par. (4).
+
 1992—Pub. L. 102–401 and Pub. L. 102–586 made identical technical corrections to directory language of Pub. L. 101–508, §5082(2), which added this section.
 
-#### Termination of Trust Territory of the Pacific Islands
+#### Effective Date of 1996 Amendment
 
-For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
+Amendment by Pub. L. 104–193 effective Oct. 1, 1996, see section 615 of Pub. L. 104–193, set out as a note under section 9858 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 9858h of this title.
+This section is referred to in sections 9858d, 9858h of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “Indian”.</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be “out”.</i>
 

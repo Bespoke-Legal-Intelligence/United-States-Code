@@ -17,13 +17,14 @@
 |  |  |  |
 | :--- | :---: | ---: |
 | [<b>7.</b>](Chapter%20007%20-%20Judicial%20Review/README.md) | <b>Judicial Review</b> | <b>701</b> |
+| [<b>8.</b>](Chapter%20008%20-%20Congressional%20Review%20of%20Agency%20Rulemaking/README.md) | <b>Congressional Review of Agency Rulemaking</b> | <b>801</b> |
 | [<b>9.</b>](Chapter%20009%20-%20Executive%20Reorganization/README.md) | <b>Executive Reorganization</b> | <b>901</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<i><sup>1</sup></i><i> Pub. L. 90–83 added section 500 to chapter 5 without making a corresponding change in Part analysis.</i>
+#### Amendments
 
-<i><sup>2</sup></i><i> Editorially supplied. Chapter 6 added by Pub. L. 96–354 without a corresponding amendment of Part analysis.</i>
+1996—Pub. L. 104–121, title II, §253, Mar. 29, 1996, 110 Stat. 874, added item for chapter 8.
 
 
 ---
@@ -35,4 +36,5 @@
 - [Chapter 005 - Administrative Procedure](Chapter%20005%20-%20Administrative%20Procedure/README.md)
 - [Chapter 006 - The Analysis of Regulatory Functions](Chapter%20006%20-%20The%20Analysis%20of%20Regulatory%20Functions/README.md)
 - [Chapter 007 - Judicial Review](Chapter%20007%20-%20Judicial%20Review/README.md)
+- [Chapter 008 - Congressional Review of Agency Rulemaking](Chapter%20008%20-%20Congressional%20Review%20of%20Agency%20Rulemaking/README.md)
 - [Chapter 009 - Executive Reorganization](Chapter%20009%20-%20Executive%20Reorganization/README.md)

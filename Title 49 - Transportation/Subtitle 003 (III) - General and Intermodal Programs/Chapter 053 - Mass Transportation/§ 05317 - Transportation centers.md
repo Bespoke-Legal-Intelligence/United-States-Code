@@ -24,7 +24,7 @@ Grants for Regional Transportation Centers.—(1) The Secretary of Transportatio
 
 &emsp;(i) infrastructure research on transportation.
 
-&emsp;(ii) research and training on transportation safety and the transportation of passengers and property and the interpretation, publication, and dissemination of the results of the research.
+&emsp;(ii) research and training on transportation safety and the transportation of passengersand property and the interpretation, publication, and dissemination of the results of the research.
 
 (B) Each transportation center—
 
@@ -52,9 +52,9 @@ Grants for University Transportation Centers.—(1) To accelerate the involvemen
 
 (B) The Secretary shall make grants to the University of Idaho to plan, design, and construct a building in which to conduct the research and development activities of the Center.
 
-(C) Amounts authorized by section 5338(e)(2) of this title may be obligated in the same way as amounts apportioned under chapter 1 of title 23 (except that the Government share of the cost of the activities conducted under this paragraph is 80 percent and the amounts remain available until expended) and are not subject to an obligational limitation.
+(C) Amounts authorized by section 5338(e)(2) of this title may be obligated in the same way as amounts apportioned under chapter 1 of title 23 (except that the Government share of the cost of the activities conducted under subparagraph (B) of this paragraph is 80 percent and the amounts remain available until expended) and are not subject to an obligational limitation.
 
-(D) A grant made under this paragraph is not subject to the requirements of this section (except this paragraph).
+(D) A grant made under this paragraph is not subject to the requirements of this section.
 
 (c)
 
@@ -72,11 +72,15 @@ Amounts Available for Technology Transfer Activities.—At least 5 percent of th
 
 Allocation Among Government Regions.—The Secretary shall allocate amounts available to carry out this section equitably among the Government regions.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 815.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 815; Pub. L. 104–287, §5(14), Oct. 11, 1996, 110 Stat. 3390.)
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+Pub. L. 103–272
+
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -112,19 +116,19 @@ July 9, 1964, Pub. L. 88–365, 78 Stat. 302, §11(b)(7), (8)(A), (B)(i), (ii), 
 
 5317(c)
 
-49 App.:1607c(b) (11).
+49 App.:1607c(b)(11).
 
 5317(d)
 
-49 App.:1607c(b) (12).
+49 App.:1607c(b)(12).
 
 5317(e)
 
-49 App.:1607c(b) (15).
+49 App.:1607c(b)(15).
 
 5317(f)
 
-49 App.:1607c(b) (14).
+49 App.:1607c(b)(14).
 
 In this section, the duties and powers of the Secretary of Housing and Urban Development are omitted for clarity. Section 1(a)(1) of Reorganization Plan No. 2 of 1968 (eff. June 30, 1968, 82 Stat. 1369) provided that the Secretary retained the authority to make grants under section 11 of the Urban Mass Transportation Act of 1964 (Public Law 88–365, 78 Stat. 302), as added by section 2(a)(2) of the Act of September 8, 1966 (Public Law 89–562, 80 Stat. 716) \[subsequently changed to the Federal Transit Act by section 3003(a) of the Intermodal Surface Transportation Efficiency Act of 1991 (Public Law 102–240, 105 Stat. 2087)\] that primarily concerned the relationship of urban transportation systems to the planned development of urban areas or the role of transportation planning in overall urban planning. However, section 11(b) of the Federal Transit Act was amended by section 307 of the Federal Public Transportation Act of 1978 (Public Law 95–599, 92 Stat. 2745) and no longer is concerned with urban planning. Therefore, the Secretary is not involved in making grants under section 11(b).
 
@@ -146,9 +150,23 @@ In subsection (b)(5)(D), the words “(except this paragraph)” are added for c
 
 In subsection (d), the words “out of the Highway Trust Fund (other than the Mass Transit Account)” are omitted as surplus. The reference to section 1002 is substituted for the reference to section 102 to correct a mistake in the source provisions being restated in this subsection.
 
+#### Pub. L. 104–287
+
+This amends 49:5315(d), 5317(b)(5), and 5323(b)(1), (c), and (e) to correct erroneous cross-references.
+
 #### References in Text
 
 Section 1002 of the Intermodal Surface Transportation Efficiency Act of 1991, referred to in subsec. (d), is section 1002 of Pub. L. 102–240. Subsections (a) to (g) of section 1002 of the Act are set out as a note under section 104 of Title 23, Highways. Subsection (h) of section 1002 of the Act amended section 157 of Title 23.
+
+#### Amendments
+
+1996—Subsec. (b)(5)(C). Pub. L. 104–287, §5(14)(A), substituted “under subparagraph (B) of this paragraph” for “under this paragraph”.
+
+Subsec. (b)(5)(D). Pub. L. 104–287, §5(14)(B), struck out “(except this paragraph)” after “requirements of this section”.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–287 effective July 5, 1994, see section 8(1) of Pub. L. 104–287, set out as a note under section 5303 of this title.
 
 #### Section Referred to in Other Sections
 

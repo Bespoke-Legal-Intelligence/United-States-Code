@@ -20,11 +20,9 @@ For purposes of subsection (a), the information described in this subsection is 
 
 &emsp;&emsp;(B) had any transaction with the reporting corporation during its taxable year,
 
-&emsp;(2) the manner in which the reporting corporation is related to each person referred to in paragraph (1),
+&emsp;(2) the manner in which the reporting corporation is related to each person referred to in paragraph (1), and
 
-&emsp;(3) transactions between the reporting corporation and each foreign person which is a related party to the reporting corporation, and
-
-&emsp;(4) such information as the Secretary may require for purposes of carrying out the provisions of section 453C.<sup>1</sup>
+&emsp;(3) transactions between the reporting corporation and each foreign person which is a related party to the reporting corporation.
 
 #### (c) Definitions
 
@@ -64,7 +62,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) “10 percent” shall be substituted for “50 percent” in section 318(a)(2)(C), and
 
-&emsp;&emsp;(B) subparagraphs (A), (B), and (C) of section 318(a)(3) shall not be applied so as to consider a United States person as owning stock which is owned by a person who is not a United States person.
+&emsp;&emsp;(B) subparagraphs (A), (B), and (C) of section 318(a)(3) shall not be applied so as to consider a United States person as owningstock which is owned by a person who is not a United States person.
 
 #### (d) Penalty for failure to furnish information or maintain records
 
@@ -122,7 +120,7 @@ For purposes of this section—
 
 #### (B) Review of secretarial determination of noncompliance
 
-&emsp;&emsp;Notwithstanding any law or rule of law, any reporting corporation which has been notified by the Secretary that the Secretary has determined that such corporation has not substantially complied with a summons referred to in paragraph (2) shall have the right to begin a proceeding to review such determination not later than the 90th day after the day on which the notice referred to in paragraph (2)(C) was mailed. If such a proceeding is not begun on or before such 90th day, such determination by the Secretary shall be binding and shall not be reviewed by any court.
+&emsp;&emsp;Notwithstanding any law or rule of law, any reporting corporation which has been notified by the Secretary that the Secretary has determined that such corporation has not substantially complied with a summons referred to in paragraph (2) shall have the right to begin a proceeding to review such determination not later than the 90th day after the day on which the notice referred to in paragraph (2)(C) was mailed. If such a proceeding is not begun on or before such 90th day, such determination by the Secretaryshall be binding and shall not be reviewed by any court.
 
 #### (C) Jurisdiction
 
@@ -130,19 +128,19 @@ For purposes of this section—
 
 #### (D) Suspension of statute of limitations
 
-&emsp;&emsp;If the reporting corporation brings an action under subparagraph (A) or (B), the running of any period of limitations under section 6501 (relating to assessment and collection of tax) or under section 6531 (relating to criminal prosecutions) with respect to any transaction to which the summons relates shall be suspended for the period during which such proceeding, and appeals therein, are pending. In no event shall any such period expire before the 90th day after the day on which there is a final determination in such proceeding.
+&emsp;&emsp;If the reporting corporation brings an action under subparagraph (A) or (B), the running of any period of limitations under section 6501 (relating to assessment and collection of tax) or under section 6531 (relating to criminal prosecutions) with respect to any affected taxable year shall be suspended for the period during which such proceeding, and appeals therein, are pending. In no event shall any such period expire before the 90th day after the day on which there is a final determination in such proceeding. For purposes of this subparagraph, the term “affected taxable year” means any taxable year if the determination of the amount of tax imposed for such taxable year is affected by the treatment of the transaction to which the summons relates.
 
 #### (f) Cross reference
 
 &emsp;&emsp;<b>For provisions relating to criminal penalties for violation of this section, see section 7203.</b>
 
-(Added Pub. L. 97–248, title III, §339(a), Sept. 3, 1982, 96 Stat. 632; amended Pub. L. 97–448, title III, §306(b)(4), Jan. 12, 1983, 96 Stat. 2406; Pub. L. 98–369, div. A, title VII, §714(<i>l</i>), July 18, 1984, 98 Stat. 963; Pub. L. 99–514, title XII, §1245(a), (b)(1)–(4), Oct. 22, 1986, 100 Stat. 2581; Pub. L. 101–239, title VII, §7403(a)–(d), Dec. 19, 1989, 103 Stat. 2358, 2359; Pub. L. 101–508, title XI, §§11315(b)(1), 11704(a)(23), Nov. 5, 1990, 104 Stat. 1388–457, 1388–519.)
-
-#### References in Text
-
-Section 453C, referred to in subsec. (b)(4), was repealed by Pub. L. 100–203, title X, §10202(a)(1), Dec. 22, 1987, 101 Stat. 1330–388.
+(Added Pub. L. 97–248, title III, §339(a), Sept. 3, 1982, 96 Stat. 632; amended Pub. L. 97–448, title III, §306(b)(4), Jan. 12, 1983, 96 Stat. 2406; Pub. L. 98–369, div. A, title VII, §714(<i>l</i>), July 18, 1984, 98 Stat. 963; Pub. L. 99–514, title XII, §1245(a), (b)(1)–(4), Oct. 22, 1986, 100 Stat. 2581; Pub. L. 101–239, title VII, §7403(a)–(d), Dec. 19, 1989, 103 Stat. 2358, 2359; Pub. L. 101–508, title XI, §§11315(b)(1), 11704(a)(23), Nov. 5, 1990, 104 Stat. 1388–457, 1388–519; Pub. L. 104–188, title I, §§1702(c)(5), 1704(f)(5)(B), Aug. 20, 1996, 110 Stat. 1869, 1880.)
 
 #### Amendments
+
+1996—Subsec. (b)(2) to (4). Pub. L. 104–188, §1704(f)(5)(B), inserted “and” at end of par. (2), substituted a period for “, and” at end of par. (3), and struck out par. (4) which read as follows: “such information as the Secretary may require for purposes of carrying out the provisions of section 453C.”
+
+Subsec. (e)(4)(D). Pub. L. 104–188, §1702(c)(5), substituted “any affected taxable year” for “any transaction to which the summons relates” and inserted at end “For purposes of this subparagraph, the term ‘affected taxable year’ means any taxable year if the determination of the amount of tax imposed for such taxable year is affected by the treatment of the transaction to which the summons relates.”
 
 1990—Subsec. (a)(1). Pub. L. 101–508, §11315(b)(1), struck out “or is a foreign corporation engaged in trade or business within the United States” after “corporation”.
 
@@ -179,6 +177,10 @@ Subsec. (c)(2). Pub. L. 99–514, §1245(b)(4), amended par. (2) generally. Prio
 1984—Subsec. (c)(1). Pub. L. 98–369 substituted section “6038(e)(1)” for “6038(d)(1)”.
 
 1983—Subsec. (c)(2)(B). Pub. L. 97–448 inserted “, (b)(2)(C),” after “(a)(4)”.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by section 1702(c)(5) of Pub. L. 104–188 effective, except as otherwise expressly provided, as if included in the provision of the Revenue Reconciliation Act of 1990, Pub. L. 101–508, title XI, to which such amendment relates, see section 1702(i) of Pub. L. 104–188, set out as a note under section 38 of this title.
 
 #### Effective Date of 1990 Amendment
 
@@ -238,7 +240,5 @@ Continuation of Old Failures.—In the case of any failure with respect to a tax
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 6038C of this title.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+This section is referred to in sections 6038C, 6048 of this title.
 

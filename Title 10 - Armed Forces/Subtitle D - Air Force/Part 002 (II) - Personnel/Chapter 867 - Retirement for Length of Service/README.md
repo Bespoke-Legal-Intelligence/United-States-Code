@@ -9,7 +9,7 @@
 | [8917\.](%C2%A7%2008917%20-%20Thirty%20years%20or%20more%20regular%20enlisted%20members.md) | Thirty years or more: regular enlisted members. |
 | [8918\.](%C2%A7%2008918%20-%20Thirty%20years%20or%20more%20regular%20commissioned%20officers.md) | Thirty years or more: regular commissioned officers. |
 | \[8919. | Repealed.\] |
-| [8920\.](%C2%A7%2008920%20-%20More%20than%20thirty%20years%20professors%20of%20the%20United%20States%20Air%20Force%20Academy.md) | More than thirty years: professors of the United States Air Force Academy. |
+| [8920\.](%C2%A7%2008920%20-%20More%20than%20thirty%20years%20permanent%20professors%20and%20the%20Director%20of%20Admissions%20of%20the%20United%20States%20Air%20Force%20Academy.md) | More than thirty years: permanent professors and the Director of Admissions of the United States Air Force Academy. |
 | \[8921 to 8923. Repealed.\] |  |
 | [8924\.](%C2%A7%2008924%20-%20Forty%20years%20or%20more%20Air%20Force%20officers.md) | Forty years or more: Air Force officers. |
 | [8925\.](%C2%A7%2008925%20-%20Computation%20of%20years%20of%20service%20voluntary%20retirement%3B%20enlisted%20members.md) | Computation of years of service: voluntary retirement; enlisted members. |
@@ -20,6 +20,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1996—Pub. L. 104–106, div. A, title V, §509(b)(2), Feb. 10, 1996, 110 Stat. 298, substituted “permanent professors and the Director of Admissions” for “professors” in item 8920.
 
 1980—Pub. L. 96–513, title V, §504(17), Dec. 12, 1980, 94 Stat. 2917, struck out items 8913 “Twenty years or more: deferred officers not recommended for promotion”, 8915 “Twenty-eight years: deferred retirement of nurses and medical specialists in regular grade of major”, 8916 “Twenty-eight years: promotion-list lieutenant colonels”, 8919 “Thirty years or more: regular commissioned officers; excessive number”, 8921 “Thirty years or five years in grade: promotion-list colonels”, 8922 “Thirty years or five years in grade: regular brigadier generals”, 8923 “Thirty-five years or five years in grade: regular major generals”, and 8927 “Computation of years of service: mandatory retirement; regular commissioned officers”.
 
@@ -48,7 +50,7 @@ Retirement for length of service, general military law provisions, see section 1
 - [&sect; 08917 - Thirty years or more regular enlisted members](%C2%A7%2008917%20-%20Thirty%20years%20or%20more%20regular%20enlisted%20members.md)
 - [&sect; 08918 - Thirty years or more regular commissioned officers](%C2%A7%2008918%20-%20Thirty%20years%20or%20more%20regular%20commissioned%20officers.md)
 - [&sect; 08919 - Repealed. Pub. L. 96&#8211;513, title II, &sect;217(a), Dec. 12, 1980, 94 Stat. 2886](%C2%A7%2008919%20-%20Repealed.%20Pub.%20L.%2096%E2%80%93513%2C%20title%20II%2C%20%C2%A7217%28a%29%2C%20Dec.%2012%2C%201980%2C%2094%20Stat.%202886.md)
-- [&sect; 08920 - More than thirty years professors of the United States Air Force Academy](%C2%A7%2008920%20-%20More%20than%20thirty%20years%20professors%20of%20the%20United%20States%20Air%20Force%20Academy.md)
+- [&sect; 08920 - More than thirty years permanent professors and the Director of Admissions of the United States Air Force Academy](%C2%A7%2008920%20-%20More%20than%20thirty%20years%20permanent%20professors%20and%20the%20Director%20of%20Admissions%20of%20the%20United%20States%20Air%20Force%20Academy.md)
 - [&sect; 08921 to 8923 - Repealed. Pub. L. 96&#8211;513, title II, &sect;217(a), Dec. 12, 1980, 94 Stat. 2886](%C2%A7%2008921%20to%208923%20-%20Repealed.%20Pub.%20L.%2096%E2%80%93513%2C%20title%20II%2C%20%C2%A7217%28a%29%2C%20Dec.%2012%2C%201980%2C%2094%20Stat.%202886.md)
 - [&sect; 08924 - Forty years or more Air Force officers](%C2%A7%2008924%20-%20Forty%20years%20or%20more%20Air%20Force%20officers.md)
 - [&sect; 08925 - Computation of years of service voluntary retirement; enlisted members](%C2%A7%2008925%20-%20Computation%20of%20years%20of%20service%20voluntary%20retirement%3B%20enlisted%20members.md)

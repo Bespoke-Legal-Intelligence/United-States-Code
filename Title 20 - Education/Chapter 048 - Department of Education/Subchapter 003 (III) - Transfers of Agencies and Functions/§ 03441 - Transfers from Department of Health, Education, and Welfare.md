@@ -50,11 +50,9 @@ There are transferred to the Secretary—
 
 &emsp;(C) all functions of the Commissioner of Rehabilitation and the Director of the National Institute of Handicapped Research of the Department of Health, Education, and Welfare under the Rehabilitation Act of 1973 \[29 U.S.C. 701 et seq.\];
 
-&emsp;(5) all functions of the Institute of Museum Services of the Department of Health, Education, and Welfare, and of the Director thereof;
+&emsp;(5) all functions of the Advisory Council on Education Statistics; and
 
-&emsp;(6) all functions of the Advisory Council on Education Statistics; and
-
-&emsp;(7) all functions of the Federal Education Data Acquisition Council.
+&emsp;(6) all functions of the Federal Education Data Acquisition Council.
 
 #### (b) Offices, etc., transferred to Department
 
@@ -66,13 +64,11 @@ There are transferred to the Department—
 
 &emsp;(3) all offices in the Department of Health, Education, and Welfare established under the Rehabilitation Act of 1973 \[29 U.S.C. 701 et seq.\];
 
-&emsp;(4) the Institute of Museum Services of the Department of Health, Education, and Welfare;
+&emsp;(4) the Advisory Council on Education Statistics;
 
-&emsp;(5) the Advisory Council on Education Statistics;
+&emsp;(5) the Federal Education Data Acquisition Council; and
 
-&emsp;(6) the Federal Education Data Acquisition Council; and
-
-&emsp;(7) any advisory committee of the Department of Health, Education, and Welfare giving advice or making recommendations that primarily concern education functions transferred by this section.
+&emsp;(6) any advisory committee of the Department of Health, Education, and Welfare giving advice or making recommendations that primarily concern education functions transferred by this section.
 
 #### (c) Administrative functions transferred to Secretary
 
@@ -88,7 +84,7 @@ There are transferred to the Secretary all functions of the Secretary of Health,
 
 Nothing in the provisions of this section or in the provisions of this chapter shall authorize the transfer of functions under part A of title V of the Economic Opportunity Act of 1964 \[42 U.S.C. 2928 et seq.\], relating to Project Head Start, from the Secretary of Health, Education, and Welfare to the Secretary.
 
-(Pub. L. 96–88, title III, §301, Oct. 17, 1979, 93 Stat. 677; Pub. L. 101–476, title IX, §901(a)(2), Oct. 30, 1990, 104 Stat. 1142.)
+(Pub. L. 96–88, title III, §301, Oct. 17, 1979, 93 Stat. 677; Pub. L. 101–476, title IX, §901(a)(2), Oct. 30, 1990, 104 Stat. 1142; Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §709(b)(2)\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–313.)
 
 #### References in Text
 
@@ -96,7 +92,7 @@ The General Education Provisions Act, referred to in subsec. (a)(2)(A), is title
 
 The Elementary and Secondary Education Act of 1965, referred to in subsec. (a)(2)(B), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended, which was classified generally to chapter 47 (§2701 et seq.) of this title. The Act was amended generally by Pub. L. 100–297, Apr. 28, 1988, 102 Stat. 140, and subsequently by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519, and is classified generally to chapter 70 (§6301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
 
-The Higher Education Act of 1965, referred to in subsec. (a)(2)(C), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219,as amended, which is classified principally to chapter 28 (§1001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
+The Higher Education Act of 1965, referred to in subsec. (a)(2)(C), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended, which is classified principally to chapter 28 (§1001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
 The Education Amendments of 1978, referred to in subsec. (a)(2)(D), is Pub. L. 95–561, Nov. 1, 1978, 92 Stat. 2143, as amended. For complete classification of this Act to the Code, see Short Title of 1978 Amendment note set out under section 6301 of this title and Tables.
 
@@ -127,6 +123,10 @@ The Rehabilitation Act of 1973, referred to in subsecs. (a)(4)(A), (C), and (b)(
 Act of June 20, 1936, commonly referred to as the Randolph-Sheppard Act, referred to in subsec. (a)(4)(B), is act June 20, 1936, ch. 638, 49 Stat. 1559, as amended, which is classified generally to chapter 6A (§107 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 107 of this title and Tables.
 
 #### Amendments
+
+1996—Subsec. (a)(5) to (7). Pub. L. 104–208, §101(e) \[title VII, §709(b)(2)(A)\], redesignated pars. (6) and (7) as (5) and (6), respectively, and struck out former par. (5) which transferred all functions of the Institute of Museum Services of the Department of Health, Education, and Welfare to the Secretary of Education.
+
+Subsec. (b)(4) to (7). Pub. L. 104–208, §101(e) \[title VII, §709(b)(2)(B)\], redesignated pars. (5) to (7) as (4) to (6), respectively, and struck out former par. (4) which transferred the offices, etc., of the Institute of Museum Services of the Department of Health, Education, and Welfare to the Department of Education.
 
 1990—Subsec. (a)(2)(H). Pub. L. 101–476 substituted “Individuals with Disabilities Education Act” for “Education of the Handicapped Act”.
 

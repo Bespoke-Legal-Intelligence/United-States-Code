@@ -30,7 +30,7 @@ The Secretary, after consulting the Secretary of Labor, shall establish the size
 
 #### (f) Termination of certification of eligibility
 
-If the Secretary determines that a community requires no additional assistance under this part, he shall terminate the certification of eligibility of such community and promptly have notice of such termination published in the Federal Register. Such termination shall take effect on the termination date specified by the Secretary.
+If the Secretary determines that a community requires no additional assistance under this part, he shall terminate the certification of eligibility of such community and promptly havenotice of such termination published in the Federal Register. Such termination shall take effect on the termination date specified by the Secretary.
 
 (Pub. L. 93–618, title II, §271, Jan. 3, 1975, 88 Stat. 2035.)
 

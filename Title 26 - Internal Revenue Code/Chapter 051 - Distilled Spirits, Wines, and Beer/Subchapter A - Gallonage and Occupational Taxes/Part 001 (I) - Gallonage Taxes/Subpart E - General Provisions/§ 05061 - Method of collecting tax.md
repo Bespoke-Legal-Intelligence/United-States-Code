@@ -12,7 +12,7 @@ Notwithstanding the provisions of subsection (a), any taxes imposed on, or amoun
 
 &emsp;(2) section 5006(c) or (d),
 
-&emsp;(3) section 5041(e),<sup>1</sup>
+&emsp;(3) section 5041(f),
 
 &emsp;(4) section 5043(a)(3),
 
@@ -60,7 +60,7 @@ The internal revenue taxes imposed by this part shall be in addition to any impo
 
 #### (A) In general
 
-&emsp;&emsp;Notwithstanding the preceding provisions of this subsection, the taxes on distilled spirits, wines, and beer for the period beginning on September 16 and ending on September 26 shall be paid not later than September 29.
+&emsp;&emsp;Notwithstanding the preceding provisions of this subsection, the taxes on distilledspirits, wines, and beer for the period beginning on September 16 and ending on September 26 shall be paid not later than September 29.
 
 #### (B) Safe harbor
 
@@ -94,7 +94,7 @@ The internal revenue taxes imposed by this part shall be in addition to any impo
 
 &emsp;&emsp;Under regulations prescribed by the Secretary, principles similar to the principles of subparagraph (A) shall apply to a group of persons under common control where 1 or more of such persons is not a corporation.
 
-(Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1335; amended Pub. L. 94–455, title XIX, §§1905(a)(6), (b)(2)(E)(iii), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1819, 1822, 1834; Pub. L. 96–39, title VIII, §§804(b), 807(a)(9), July 26, 1979, 93 Stat. 274, 281; Pub. L. 98–369, div. A, title I, §27(c)(1), July 18, 1984, 98 Stat. 509; Pub. L. 99–509, title VIII, §8011(b)(1), Oct. 21, 1986, 100 Stat. 1952; Pub. L. 99–514, title XVIII, §1801(c)(1), Oct. 22, 1986, 100 Stat. 2786; Pub. L. 100–647, title II, §2003(b)(1)(A), (B), Nov. 10, 1988, 102 Stat. 3598; Pub. L. 101–508, title XI, §§11201(b)(3), 11704(a)(21), Nov. 5, 1990, 104 Stat. 1388–416, 1388–519; Pub. L. 103–465, title I, §136(c)(5), title VII, §712(b), Dec. 8, 1994, 108 Stat. 4842, 5000.)
+(Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1335; amended Pub. L. 94–455, title XIX, §§1905(a)(6), (b)(2)(E)(iii), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1819, 1822, 1834; Pub. L. 96–39, title VIII, §§804(b), 807(a)(9), July 26, 1979, 93 Stat. 274, 281; Pub. L. 98–369, div. A, title I, §27(c)(1), July 18, 1984, 98 Stat. 509; Pub. L. 99–509, title VIII, §8011(b)(1), Oct. 21, 1986, 100 Stat. 1952; Pub. L. 99–514, title XVIII, §1801(c)(1), Oct. 22, 1986, 100 Stat. 2786; Pub. L. 100–647, title II, §2003(b)(1)(A), (B), Nov. 10, 1988, 102 Stat. 3598; Pub. L. 101–508, title XI, §§11201(b)(3), 11704(a)(21), Nov. 5, 1990, 104 Stat. 1388–416, 1388–519; Pub. L. 103–465, title I, §136(c)(5), title VII, §712(b), Dec. 8, 1994, 108 Stat. 4842, 5000; Pub. L. 104–188, title I, §1702(b)(6), Aug. 20, 1996, 110 Stat. 1869.)
 
 #### Prior Provisions
 
@@ -103,6 +103,8 @@ A prior section 5061, act Aug. 16, 1954, ch. 736, 68A Stat. 614, consisted of pr
 Provisions similar to those comprising subsec. (d) of this section were contained in former section 5001(c), act Aug. 16, 1954, ch. 736, 68A Stat. 597, prior to the general revision of this chapter by Pub. L. 85–859.
 
 #### Amendments
+
+1996—Subsec. (b)(3). Pub. L. 104–188 substituted “section 5041(f),” for “section 5041(e),”.
 
 1994—Subsec. (b)(1). Pub. L. 103–465, §136(c)(5), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “section 5001(a)(5), (6), or (7),”.
 
@@ -128,11 +130,15 @@ Subsec. (d). Pub. L. 96–39, §804(b), added subsec. (d).
 
 1976—Subsec. (a). Pub. L. 94–455, §§1905(a)(6)(A), 1906(b)(13)(A), struck out last sentence providing for continued payment of taxes by stamp until the Secretary shall by regulation provide for collection of the taxes on the basis of a return and struck out “or his delegate” after “Secretary”.
 
-Subsec. (b). Pub. L. 94–455, §1905(a)(6)(B), substituted the exceptions provisions for discretion method of collection providing that “Whether or not the method of collecting any tax imposed by this part is specifically provided in this part, any such tax may, under regulations prescribed by the Secretary or his delegate, be collected by stamp, coupon, serially-numbered ticket, or the use of tax-stamp machines, or by such other reasonable device or method as may be necessary or helpful in securing collection of the tax.”
+Subsec. (b). Pub. L. 94–455, §1905(a)(6)(B), substituted the exceptions provisions for discretion method of collection providing that “Whether or not the method of collecting any tax imposed by this part is specifically provided in this part, any such tax may, under regulations prescribed by the Secretary or his delegate, becollected by stamp, coupon, serially-numbered ticket, or the use of tax-stamp machines, or by such other reasonable device or method as may be necessary or helpful in securing collection of the tax.”
 
 Subsec. (c). Pub. L. 94–455, §1905(a)(6)(C), substituted the import duties provision for provision respecting applicability of other provisions of law and reading “All administrative and penalty provisions of this title, insofar as applicable, shall apply to the collection of any tax which the Secretary or his delegate determines or prescribes shall be collected in any manner provided in this section.”
 
 Subsec. (d). Pub. L. 94–455, §1905(b)(2)(E)(iii), struck out subsec. (d) which provided cross reference to section 5689 for penalty and forfeiture for tampering with a stamp machine.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–188 effective, except as otherwise expressly provided, as if included in the provision of the Revenue Reconciliation Act of 1990, Pub. L. 101–508, title XI, to which such amendment relates, see section 1702(i) of Pub. L. 104–188, set out as a note under section 38 of this title.
 
 #### Effective Date of 1994 Amendment
 
@@ -259,6 +265,4 @@ Secretary Defined.—For purposes of this section, the term ‘Secretary’ mean
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 4052, 5026, 5043, 5054, 5081, 5703, 5731, 5801, 6302 of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should be section “5041(f),”.</i>
 

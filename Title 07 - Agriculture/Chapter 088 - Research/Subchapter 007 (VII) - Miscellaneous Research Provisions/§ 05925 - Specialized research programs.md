@@ -1,8 +1,22 @@
 ### §5925. Specialized research programs
 
-#### (a) Animal lean content research
+#### (a) Brown citrus aphid and citrus tristeza virus
 
-The Secretary of Agriculture is encouraged to fund research for the development of technology which will ascertain the lean content of animal carcasses to be used for human consumption.
+#### (1) Research grants authorized
+
+&emsp;The Secretary of Agriculture may make competitive grants available to support research for the purpose of—
+
+&emsp;&emsp;(A) developing methods to eradicate the brown citrus aphid and the citrus tristeza virus from citrus crops grown in the United States; or
+
+&emsp;&emsp;(B) adapting citrus crops grown in the United States to the brown citrus aphid and the citrus tristeza virus.
+
+#### (2) Method of providing grants
+
+&emsp;Grants authorized under this subsection shall be made in the same manner, and shall be subject to the same conditions, as provided for competitive grants under section 450i of this title.
+
+#### (3) Authorization of appropriations
+
+&emsp;There are authorized to be appropriated to carry out this subsection $3,000,000 for fiscal year 1997.
 
 #### (b) Ethanol research
 
@@ -52,7 +66,7 @@ The Secretary of Agriculture shall conduct a research program for the purpose of
 
 #### (4) Authorization of appropriations
 
-&emsp;There are authorized to be appropriated $100,000 for each of the fiscal years 1991 through 1995 to carry out this subsection.
+&emsp;There are authorized to be appropriated $100,000 for each of the fiscal years 1991 through 1997 to carry out this subsection.
 
 #### (e) Prickly pear research
 
@@ -76,63 +90,13 @@ The Secretary of Agriculture shall conduct a research program for the purpose of
 
 #### (4) Authorization of appropriations
 
-&emsp;There are authorized to be appropriated $100,000 for each of the fiscal years 1991 through 1995 to carry out this subsection.
+&emsp;There are authorized to be appropriated $100,000 for each of the fiscal years 1991 through 1997 to carry out this subsection.
 
-#### (f) Immunoassay research
+#### (f) Deer tick ecology and related research
 
-#### (1) Research required
+There are authorized to be appropriated $250,000 for each of the fiscal years 1991 through 1997 to be used by the Secretary of Agriculture, acting through the Cooperative State Research Service, to make competitive grants to assist research in the field of population ecology of deer ticks and other insects and pests which transmit Lyme disease.
 
-&emsp;The Secretary of Agriculture shall establish and carry out a program to make grants to colleges and universities for research relating to immunoassay used—
-
-&emsp;&emsp;(A) to detect agricultural pesticide residues on agricultural commodities for human consumption; and
-
-&emsp;&emsp;(B) to diagnose animal and plant diseases.
-
-#### (2) Preference
-
-&emsp;In making grants under this subsection, the Secretary may give preference to those colleges and universities that, as of November 28, 1990, are conducting research described in this subsection.
-
-#### (g) Niche market development
-
-The Secretary shall make research and extension grants available for the development of agricultural production and marketing systems that will service niche markets located in nearby metropolitan areas. In awarding such grants, the Secretary shall pay particular attention to areas—
-
-&emsp;(1) with a high concentration of small farm operations; and
-
-&emsp;(2) that experience difficulty in delivering products to market due to geographic isolation.
-
-#### (h) Scrapie research
-
-#### (1) Research authorized
-
-&emsp;The Secretary of Agriculture may establish and carry out a program to conduct research on the disease of scrapie in sheep and goats, including research regarding the following:
-
-&emsp;&emsp;(A) Methods for detecting infection of animals with scrapie before the animals become symptomatic.
-
-&emsp;&emsp;(B) Methods for treatment, prevention, and cure of scrapie.
-
-&emsp;&emsp;(C) Methods for controlling the spread of scrapie.
-
-#### (2) Grants and contracts
-
-&emsp;In carrying out a research program established under this subsection, the Secretary may make grants to and contract with Federal, State, and local agencies and any other organizations that are experienced in research regarding animal diseases.
-
-#### (3) Coordination
-
-&emsp;The Secretary shall coordinate the research program established under this subsection with other research programs regarding encephalopathies, in particular research regarding bovine spongiform encephalopathy in cattle.
-
-#### (i) Deer tick ecology and related research
-
-There are authorized to be appropriated $250,000 for each of the fiscal years 1991 through 1995 to be used by the Secretary of Agriculture, acting through the Cooperative State Research Service, to make competitive grants to assist research in the field of population ecology of deer ticks and other insects and pests which transmit Lyme disease.
-
-#### (j) New commercial products from natural plant materials
-
-The Secretary of Agriculture may—
-
-&emsp;(1) conduct fundamental and applied research related to the development of new commercial products derived from natural plant materials for industrial, medical, and agricultural applications; and
-
-&emsp;(2) participate with colleges and universities, other Federal agencies, and private sector entities in conducting such research.
-
-#### (k) Administrative provisions
+#### (g) Administrative provisions
 
 #### (1) Peer review
 
@@ -146,9 +110,45 @@ The Secretary of Agriculture may—
 
 &emsp;Unless otherwise specified in this section, State agricultural experiment stations, all colleges and universities, other research institutions and organizations, Federal agencies, private organizations or corporations, and individuals shall be eligible to participate in the programs established by this section.
 
-(Pub. L. 101–624, title XVI, §1672, Nov. 28, 1990, 104 Stat. 3770; Pub. L. 102–237, title IV, §§406, 407(11), Dec. 13, 1991, 105 Stat. 1864, 1865.)
+(Pub. L. 101–624, title XVI, §1672, Nov. 28, 1990, 104 Stat. 3770; Pub. L. 102–237, title IV, §§406, 407(11), Dec. 13, 1991, 105 Stat. 1864, 1865; Pub. L. 104–127, title VIII, §§836, 863, 888, Apr. 4, 1996, 110 Stat. 1169, 1174, 1180.)
 
 #### Amendments
+
+1996—Subsec. (a). Pub. L. 104–127, §§863(1), 888, added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “The Secretary of Agriculture is encouraged to fund research for the development of technology which will ascertain the lean content of animal carcasses to be used for human consumption.”
+
+Subsecs. (d)(4), (e)(4). Pub. L. 104–127, §836, substituted “1997” for “1995”.
+
+Subsec. (f). Pub. L. 104–127, §863, redesignated subsec. (i) as (f) and struck out heading and text of former subsec. (f). Text read as follows:
+
+“(1)
+
+Research required.—The Secretary of Agriculture shall establish and carry out a program to make grants to colleges and universities for research relating to immunoassay used—
+
+&emsp;“(A) to detect agricultural pesticide residues on agricultural commodities for human consumption; and
+
+&emsp;“(B) to diagnose animal and plant diseases.
+
+“(2)
+
+Preference.—In making grants under this subsection, the Secretary may give preference to those colleges and universities that, as of November 28, 1990, are conducting research described in this subsection.”
+
+Subsec. (g). Pub. L. 104–127, §863, redesignated subsec. (k) as (g) and struck out heading and text of former subsec. (g). Text read as follows: “The Secretary shall make research and extension grants available for the development of agricultural production and marketing systems that will service niche markets located in nearby metropolitan areas. In awarding such grants, the Secretary shall pay particular attention to areas—
+
+&emsp;“(1) with a high concentration of small farm operations; and
+
+&emsp;“(2) that experience difficulty in delivering products to market due to geographic isolation.”
+
+Subsec. (h). Pub. L. 104–127, §863(1), struck out subsec. (h) which provided that Secretary of Agriculture may establish and carry out a program to conduct research on disease of scrapie in sheep and goats.
+
+Subsec. (i). Pub. L. 104–127, §§836, 863(2), redesignated subsec. (i) as (f) and substituted “1997” for “1995”.
+
+Subsec. (j). Pub. L. 104–127, §863(1), struck out heading and text of subsec. (j). Text read as follows: “The Secretary of Agriculture may—
+
+&emsp;“(1) conduct fundamental and applied research related to the development of new commercial products derived from natural plant materials for industrial, medical, and agricultural applications; and
+
+&emsp;“(2) participate with colleges and universities, other Federal agencies, and private sector entities in conducting such research.”
+
+Subsec. (k). Pub. L. 104–127, §863(2), redesignated subsec. (k) as (g).
 
 1991—Subsec. (c). Pub. L. 102–237, §407(11), redesignated pars. (A) to (I) as (1) to (9), respectively.
 

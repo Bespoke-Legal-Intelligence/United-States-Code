@@ -14,7 +14,7 @@ Section was formerly classified to section 229 of Title 31 prior to the general 
 
 #### Change of Name
 
-Act June 25, 1948, eff. Sept. 1, 1948, substituted “United States attorney” for “district attorney of the United States”. See section 541 of Title 28, Judiciaryand Judicial Procedure, and Historical and Revision Notes thereunder.
+Act June 25, 1948, eff. Sept. 1, 1948, substituted “United States attorney” for “district attorney of the United States”. See section 541 of Title 28, Judiciary and Judicial Procedure, and Historical and Revision Notes thereunder.
 
 #### Section Referred to in Other Sections
 

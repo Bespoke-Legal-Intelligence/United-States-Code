@@ -6,7 +6,7 @@ A lender, in connection with a federally related mortgage loan, may not require 
 
 &emsp;(1) to deposit in any escrow account which may be established in connection with such loan for the purpose of assuring payment of taxes, insurance premiums, or other charges with respect to the property, in connection with the settlement, an aggregate sum (for such purpose) in excess of a sum that will be sufficient to pay such taxes, insurance premiums and other charges attributable to the period beginning on the last date on which each such charge would have been paid under the normal lending practice of the lender and local custom, provided that the selection of each such date constitutes prudent lending practice, and ending on the due date of its first full installment payment under the mortgage, plus one-sixth of the estimated total amount of such taxes, insurance premiums and other charges to be paid on dates, as provided above, during the ensuing twelve-month period; or
 
-&emsp;(2) to deposit in any such escrow account in any month beginning with the first full installment payment under the mortgage a sum (for the purpose of assuring payment of taxes, insurance premiums and other charges with respect to the property) in excess of the sum of (A) one-twelfth of the total amount of the estimated taxes, insurance premiums and other charges which are reasonably anticipated to be paid on dates during the ensuing twelve months which dates are in accordance with the normal lending practice of the lender and local custom, provided that the selection of each such date constitutes prudent lending practice, plus (B) such amount as is necessary to maintain an additional balance in such escrow account not to exceed one-sixth of the estimated total amount of such taxes, insurance premiums and other charges to be paid on dates, as provided above, during the ensuing twelve-month period: <i>Provided, however</i>, That in the event the lender determines there will be or is a deficiency he shall not be prohibited from requiring additional monthly deposits in such escrow account to avoid or eliminate such deficiency.
+&emsp;(2) to deposit in any such escrow account in any month beginning with the first full installment payment under the mortgage a sum\(for the purpose of assuring payment of taxes, insurance premiums and other charges with respect to the property) in excess of the sum of (A) one-twelfth of the total amount of the estimated taxes, insurance premiums and other charges which are reasonably anticipated to be paid on dates during the ensuing twelve months which dates are in accordance with the normal lending practice of the lender and local custom, provided that the selection of each such date constitutes prudent lending practice, plus (B) such amount as is necessary to maintain an additional balance in such escrow account not to exceed one-sixth of the estimated total amount of such taxes, insurance premiums and other charges to be paid on dates, as provided above, during the ensuing twelve-month period: <i>Provided, however</i>, That in the event the lender determines there will be or is a deficiency he shall not be prohibited from requiring additional monthly deposits in such escrow account to avoid or eliminate such deficiency.
 
 #### (b) Notification of shortage in escrow account
 
@@ -26,7 +26,7 @@ If the terms of any federally related mortgage loan require the borrower to make
 
 #### (C) Initial statement at closing
 
-&emsp;&emsp;Any servicer may submit the statement required under subparagraph (A) to the borrower at closing and may incorporate suchstatement in the uniform settlement statement required under section 2603 of this title. Not later than the expiration of the 90-day period beginning on November 28, 1990, the Secretary shall issue regulations prescribing any changes necessary to the uniform settlement statement under section 2603 of this title that specify how the statement required under subparagraph (A) of this section shall be incorporated in the uniform settlement statement.
+&emsp;&emsp;Any servicer may submit the statement required under subparagraph (A) to the borrower at closing and may incorporate such statement in the uniform settlement statement required under section 2603 of this title. The Secretary shall issue regulations prescribing any changes necessary to the uniform settlement statement under section 2603 of this title that specify how the statement required under subparagraph (A) of this section shall be incorporated in the uniform settlement statement.
 
 #### (2) Annual statement
 
@@ -52,13 +52,15 @@ If the terms of any federally related mortgage loan require the borrower to make
 
 &emsp;&emsp;(B) in the case of any penalty determined under subparagraph (A), the $100,000 limitation under paragraph (1) shall not apply.
 
-(Pub. L. 93–533, §10, Dec. 22, 1974, 88 Stat. 1728; Pub. L. 94–205, §8, Jan. 2, 1976, 89 Stat. 1158; Pub. L. 101–625, title IX, §942(a), Nov. 28, 1990, 104 Stat. 4411.)
+(Pub. L. 93–533, §10, Dec. 22, 1974, 88 Stat. 1728; Pub. L. 94–205, §8, Jan. 2, 1976, 89 Stat. 1158; Pub. L. 101–625, title IX, §942(a), Nov. 28, 1990, 104 Stat. 4411; Pub. L. 104–208, div. A, title II, §2103(g)(2), Sept. 30, 1996, 110 Stat. 3009–401.)
 
 #### Amendments
 
+1996—Subsec. (c)(1)(C). Pub. L. 104–208 substituted “The Secretary” for “Not later than the expiration of the 90-day period beginning on November 28, 1990, the Secretary” in second sentence.
+
 1990—Pub. L. 101–625 designated existing provisions as subsec. (a), inserted heading, and added subsecs. (b) to (d).
 
-1976—Pub. L. 94–205 provided that in addition to amounts required for the payment of taxes, insurance premiums, and other charges due at settlement, the buyer could not be required at settlement to place into an escrow account more than one-sixth of the estimated total amount of such taxes, insurance premiums, and other charges payable within a twelve month period beginning on the date of settlement, but the buyer could be required to make monthly payments into an escrow account sufficient to maintain a surplus of one-sixth of the estimated total amount payable in the coming twelve month period.
+1976—Pub. L. 94–205 provided that in addition to amounts required for the payment of taxes, insurancepremiums, and other charges due at settlement, the buyer could not be required at settlement to place into an escrow account more than one-sixth of the estimated total amount of such taxes, insurance premiums, and other charges payable within a twelve month period beginning on the date of settlement, but the buyer could be required to make monthly payments into an escrow account sufficient to maintain a surplus of one-sixth of the estimated total amount payable in the coming twelve month period.
 
 #### Effective Date of 1976 Amendment
 

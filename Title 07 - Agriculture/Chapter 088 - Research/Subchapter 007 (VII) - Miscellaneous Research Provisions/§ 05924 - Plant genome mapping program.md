@@ -40,11 +40,13 @@ The Secretary shall require (when the Secretary considers it to be appropriate) 
 
 #### (g) Authorization of appropriations
 
-There are authorized to be appropriated such sums as may be necessary to carry out this section.
+There are authorized to be appropriated for fiscal years 1996 and 1997 such sums as may be necessary to carry out this section.
 
-(Pub. L. 101–624, title XVI, §1671, Nov. 28, 1990, 104 Stat. 3769; Pub. L. 104–66, title I, §1011(s), Dec. 21, 1995, 109 Stat. 710.)
+(Pub. L. 101–624, title XVI, §1671, Nov. 28, 1990, 104 Stat. 3769; Pub. L. 104–66, title I, §1011(s), Dec. 21, 1995, 109 Stat. 710; Pub. L. 104–127, title VIII, §835, Apr. 4, 1996, 110 Stat. 1169.)
 
 #### Amendments
+
+1996—Subsec. (g). Pub. L. 104–127 inserted “for fiscal years 1996 and 1997” after “appropriated”.
 
 1995—Subsecs. (g), (h). Pub. L. 104–66 redesignated subsec. (h) as (g) and struck out former subsec. (g) which required Secretary to submit annual reports to Congress describing operations of grant program for plant genome mapping.
 

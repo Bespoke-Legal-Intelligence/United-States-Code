@@ -1,6 +1,6 @@
 ### §3760. Purposes
 
-(a) The purpose of this subpart is to provide additional Federal financial assistance to public or private agencies and private nonprofit organizations for purposes of—
+(a) The purpose of this subpart is to provide additional Federal financial assistance to publicor private agencies and private nonprofit organizations for purposes of—
 
 &emsp;(1) undertaking educational and training programs for criminal justice personnel;
 

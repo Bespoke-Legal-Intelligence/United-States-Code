@@ -12,7 +12,7 @@ For each fiscal year, $700,000 of the registration fees collected by the Office 
 
 The authority contained in subsection (a) of this section shall be exercised to such extent and in such amounts as are to be provided in an appropriation Act.
 
-(Aug. 1, 1956, ch. 841, title I, §45, as added Feb. 16, 1990, Pub. L. 101–246, title I, §118(2), 104 Stat. 25; amended Oct. 28, 1991, Pub. L. 102–138, title I, §126, 105 Stat. 659.)
+(Aug. 1, 1956, ch. 841, title I, §45, as added Feb. 16, 1990, Pub. L. 101–246, title I, §118(2), 104 Stat. 25;amended Oct. 28, 1991, Pub. L. 102–138, title I, §126, 105 Stat. 659.)
 
 #### References in Text
 

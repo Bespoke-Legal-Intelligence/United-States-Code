@@ -1,6 +1,6 @@
 ### §308. Releasing property from attachment
 
-Whenever any property owned or held by the United States, or in which the United States has or claims an interest, shall, in any judicial proceeding under the laws of any State, district, or territory, be seized, arrested, attached, or held for the security or satisfaction of any claim made against such property, the Attorney General, in his discretion, may direct the United States Attorney for the district in which the property is located, to cause a stipulation to be entered into for the discharge of such property from such seizure, arrest, attachment, or proceeding, to the effect that upon such discharge, the person asserting the claim against such property shall become entitled to all the benefits of this section and section 309 of this title. Nothing herein contained shall, however, be considered as recognizing or conceding any right to enforce by seizure, arrest, attachment, or any judicial process, any claim against any property of the United States, or against any property held, owned, or employed by the United States, or by any department thereof, for any public use, or as waiving any objection to any proceeding instituted to enforce any such claim.
+Whenever any property owned or held by the United States, or in which the United States hasor claims an interest, shall, in any judicial proceeding under the laws of any State, district, or territory, be seized, arrested, attached, or held for the security or satisfaction of any claim made against such property, the Attorney General, in his discretion, may direct the United States Attorney for the district in which the property is located, to cause a stipulation to be entered into for the discharge of such property from such seizure, arrest, attachment, or proceeding, to the effect that upon such discharge, the person asserting the claim against such property shall become entitled to all the benefits of this section and section 309 of this title. Nothing herein contained shall, however, be considered as recognizing or conceding any right to enforce by seizure, arrest, attachment, or any judicial process, any claim against any property of the United States, or against any property held, owned, or employed by the United States, or by any department thereof, for any public use, or as waiving any objection to any proceeding instituted to enforce any such claim.
 
 (R.S. §3753; May 10, 1934, ch. 277, §512(b), 48 Stat. 759; June 2, 1965, Pub. L. 89–30, §1(a), 79 Stat. 118.)
 
@@ -10,7 +10,7 @@ R.S. §3753 derived from act June 11, 1864, ch. 117, 13 Stat. 122.
 
 #### Amendments
 
-1965—Pub. L. 89–30 substituted the Attorney General acting through the United States Attorney for the district in which the property is located, for the Secretary of the Treasury, acting through the General Counsel for the Department of Treasury, as the proper official to cause a stipulation to be entered into for the discharge of attached property.
+1965—Pub. L. 89–30 substituted the Attorney General acting through the United States Attorney for the district in which the property is located, for the Secretary of the Treasury, acting through the General Counsel for the Department of the Treasury, as the proper official to cause a stipulation to be entered into for the discharge of attached property.
 
 #### Transfer of Functions
 

@@ -16,7 +16,7 @@ The Secretary shall develop and conduct, in accordance with the purpose and prov
 
 &emsp;(C) that secure the Federal investment made under this part and address the issues of eviction from and sale of property receiving weatherization materials under this part.
 
-(3) The Secretary, in coordination with the Secretaries and Director described in paragraph (2)(A) and with the Director of the Community Services Administration and the Secretary of Agriculture, shall develop and publish in the Federal Register for public comment, not later than 60 days after November 9, 1978, proposed amendments to the regulations prescribed under paragraph (1). Such amendments shall provide that the standards described in paragraph (2)(A) shall include a set of procedures to be applied to each dwelling unit to determine the optimum set of cost-effective measures, within the cost guidelines set for the program, to be installed insuch dwelling unit. Such standards shall, in order to achieve such optimum savings of energy, take into consideration the following factors—
+(3) The Secretary, in coordination with the Secretaries and Director described in paragraph (2)(A) and with the Director of the Community Services Administration and the Secretary of Agriculture, shall develop and publish in the Federal Register for public comment, not later than 60 days after November 9, 1978, proposed amendments to the regulations prescribed under paragraph (1). Such amendments shall provide that the standards described in paragraph (2)(A) shall include a set of procedures to be applied to each dwelling unit to determine the optimum set of cost-effective measures, within the cost guidelines set for the program, to be installed in such dwelling unit. Such standards shall, in order to achieve such optimum savings of energy, take into consideration the following factors—
 
 &emsp;(A) the cost of the weatherization material;
 
@@ -30,7 +30,7 @@ The Secretary shall develop and conduct, in accordance with the purpose and prov
 
 (5) In any case in which a dwelling consists of a rental unit or rental units, the State, in the implementation of this part, shall ensure that—
 
-&emsp;(A) the benefits of weatherization assistance in connection with such rental units, including units where the tenants pay for their energy through their rent, will accrue primarily to the low-income tenants residing in such units;
+&emsp;(A) the benefits of weatherization assistance in connection with such rental units, including units where the tenants pay for their energy through their rent, will accrue primarilyto the low-income tenants residing in such units;
 
 &emsp;(B) for a reasonable period of time after weatherization work has been completed on a dwelling containing a unit occupied by an eligible household, the tenants in that unit (including households paying for their energy through their rent) will not be subjected to rent increases unless those increases are demonstrably related to matters other than the weatherization work performed;
 
@@ -78,7 +78,7 @@ Subsec. (b)(5), (6). Pub. L. 101–440, §7(b)(2), added pars. (5) and (6).
 
 Subsec. (b)(4). Pub. L. 96–294, §574, added par. (4).
 
-Subsec. (c). Pub. L. 96–294, §§573(b), 577(2), substituted “Secretary” for “Administrator” wherever appearing, and struck out provisions relating to determinations respecting inapplicability of allocation requirement and priority for an applicable community action agency.
+Subsec. (c). Pub. L. 96–294, §§573(b), 577(2), substituted “Secretary” for “Administrator” wherever appearing,and struck out provisions relating to determinations respecting inapplicability of allocation requirement and priority for an applicable community action agency.
 
 Subsec. (d), (e). Pub. L. 96–294, §577(2), substituted “Secretary” for “Administrator” wherever appearing.
 

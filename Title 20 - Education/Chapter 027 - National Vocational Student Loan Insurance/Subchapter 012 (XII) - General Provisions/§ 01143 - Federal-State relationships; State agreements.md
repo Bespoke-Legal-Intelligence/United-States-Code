@@ -42,7 +42,7 @@ The information and assurances provided by a State in accordance with paragraphs
 
 (1) For the purpose of this section, the selection of the State entity or entities authorized to act on behalf of the State for the purpose of entering into an agreement with the Secretary shall be in accordance with the State law of each individual State with respect to the authority to make legal agreements between the State and the Federal Government.
 
-(2)(A) Nothing in this section shall be construed to authorize the Secretary to require any State to adopt, as a condition for entering into an agreement, or for participation in an applicable program as defined in subsection (f) of this section, a specific State organizational structure for achieving participation in the planning, or administration of programs, or for statewide planning, coordination, governing, regulating, or administering of postsecondary education agencies, institutions, or programs in the State.
+(2)(A) Nothing in this section shall be construed to authorize the Secretary to require any State to adopt, as a condition for entering into an agreement, or for participation in an applicable program as defined in subsection (f) of thissection, a specific State organizational structure for achieving participation in the planning, or administration of programs, or for statewide planning, coordination, governing, regulating, or administering of postsecondary education agencies, institutions, or programs in the State.
 
 (B) Nothing in this section shall be construed as a limitation on the authority of any State to adopt a State organizational structure for postsecondary education agencies, institutions, or programs which is appropriate to the needs, traditions, and circumstances of that State, or as a limitation on the authority of a State entering into an agreement pursuant to this section to modify the State organizational structure at any time subsequent to entering into such an agreement.
 
@@ -71,10 +71,6 @@ A prior section 1203 of Pub. L. 89–329, as added Pub. L. 92–318, title I, §
 #### Effective Date
 
 Section effective Oct. 1, 1980, see section 1393(a) of Pub. L. 96–374, set out as an Effective Date of 1980 Amendment note under section 1001 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1022 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

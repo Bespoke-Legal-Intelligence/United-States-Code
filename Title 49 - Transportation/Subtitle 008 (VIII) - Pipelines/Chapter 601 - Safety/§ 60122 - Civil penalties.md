@@ -2,7 +2,7 @@
 
 (a)
 
-General Penalties.—(1) A person that the Secretary of Transportation decides, after written notice and an opportunity for a hearing, has violated section 60114(c) or 60118(a) of this title or a regulation prescribed or order issued under this chapter is liable to the United States Government for a civil penalty of not more than $25,000 for each violation. A separate violation occurs for each day the violation continues. The maximum civil penalty under this paragraph for a related series of violations is $500,000.
+General Penalties.—(1) A person that the Secretary of Transportation decides, after written notice and an opportunity for a hearing, has violated section 60114(c) <sup>1</sup> or 60118(a) of this title or a regulation prescribed or order issued under this chapter is liable to the United States Government for a civil penalty of not more than $25,000 for each violation. A separate violation occurs for each day the violation continues. Themaximum civil penalty under this paragraph for a related series of violations is $500,000.
 
 (2) A person violating a standard or order under section 60103 or 60111 of this title is liable to the Government for a civil penalty of not more than $50,000 for each violation. A penalty under this paragraph may be imposed in addition to penalties imposed under paragraph (1) of this subsection.
 
@@ -34,13 +34,15 @@ Deposit in Treasury.—Amounts collected under this section shall be deposited i
 
 (f)
 
-Prohibition on Multiple Penalties for Same Act.—Separate penalties for violating aregulation prescribed under this chapter and for violating an order under section 60112 or 60118(b) of this title may not be imposed under this chapter if both violations are based on the same act.
+Prohibition on Multiple Penalties for Same Act.—Separate penalties for violating a regulation prescribed under this chapter and for violating an order under section 60112 or 60118(b) of this title may not be imposed under this chapter if both violations are based on the same act.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1325.)
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -48,7 +50,7 @@ Historical and Revision Notes
 
 60122(a)(1)
 
-49 App.:1679a (a)(1), (3) (1st sentence).
+49 App.:1679a(a)(1), (3) (1st sentence).
 
 Aug. 12, 1968, Pub. L. 90–481, 82 Stat. 720, §11(a); added Nov. 30, 1979, Pub. L. 96–129, §§104(b), 154, 93 Stat. 992, 1002; Oct. 31, 1988, Pub. L. 100–561, §106, 102 Stat. 2807; Oct. 24, 1992, Pub. L. 102–508, §§112(a), 304(b), 106 Stat. 3295, 3308.
 
@@ -60,7 +62,7 @@ Nov. 30, 1979, Pub. L. 96–129, §208(a), (b), (d), 93 Stat. 1009, 1010; Oct. 3
 
 60122(a)(2)
 
-49 App.:1679a (a)(2).
+49 App.:1679a(a)(2).
 
 60122(b)
 
@@ -116,7 +118,13 @@ In subsection (d), the words “imposed or compromised under this section” are
 
 In subsection (f), the words “Separate penalties . . . prescribed under this chapter . . . may not be imposed under this chapter” are substituted for “Nothing in this title shall be construed to authorize . . . penalties” for clarity.
 
+#### References in Text
+
+Section 60114(c) of this title, referred to in subsec. (a), was redesignated section 60114(b) by Pub. L. 104–304, §20(d), Oct. 12, 1996, 110 Stat. 3804.
+
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 60105, 60114 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -66,7 +66,7 @@ Whenever title to an invention is vested in the United States, there may be rese
 
 &emsp;(1) a revocable or irrevocable nonexclusive, paid-up license for the practice of the invention throughout the world; and
 
-&emsp;(2) the rights to such invention in any foreign country where the United States has elected not to secure patent rights and the contractor elects to do so, subject to the rights set forth in paragraphs (2), (3), (6), and (7) of subsection (h) of this section: <i>Provided,</i> That when specifically requested by the Secretary and three years after issuance of such a patent, the contractor shall submit the report specified in subsection (h)(1) of this section.
+&emsp;(2) the rights to such invention in any foreign country where the United States has elected not to secure patent rights and the contractor elects to do so, subject to the rights set forth in paragraphs (2), (3), (6), and (7) of subsection (h) of this section: <i>Provided</i>, That when specifically requested by the Secretary and three years after issuance of such a patent, the contractor shall submit the report specified in subsection (h)(1) of this section.
 
 #### (g) to (i) Repealed. Pub. L. 96–517, §7(c), Dec. 12, 1980, 94 Stat. 3027
 

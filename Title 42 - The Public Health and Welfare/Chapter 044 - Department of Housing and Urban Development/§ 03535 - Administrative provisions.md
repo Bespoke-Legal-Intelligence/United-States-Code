@@ -8,7 +8,7 @@ The personnel employed in connection with, and the assets, liabilities, contract
 
 #### (c) Employment, compensation, authority, and duties of personnel
 
-The Secretary is authorized, subject to the civil service and classification laws, to select, appoint, employ, and fix the compensation of such officers and employees, including attorneys, as shall be necessary to carry out the provisions of this chapter and to prescribe their authority and duties: <i>Provided,</i> That any other provision of law to the contrary notwithstanding, the Secretary may fix the compensation for not more than six positions in the Department at the annual rate applicable to positions in level V of the Executive Schedule provided by subchapter II of chapter 53 of title 5.
+The Secretary is authorized, subject to the civil service and classification laws, to select, appoint, employ, and fix the compensation of such officers and employees, including attorneys, as shall be necessary to carry out the provisions of this chapter and to prescribe their authority and duties: <i>Provided</i>, That any other provision of law to the contrary notwithstanding, the Secretary may fix the compensation for not more than six positions in the Department at the annual rate applicable to positions in level V of the Executive Schedule provided by subchapter II of chapter 53 of title 5.
 
 #### (d) Delegation of authority; rules and regulations
 
@@ -34,7 +34,7 @@ Except as such authority is otherwise expressly provided in any other Act admini
 
 Except as such authority is otherwise expressly provided in any other Act administered by the Secretary, the Secretary is authorized to—
 
-&emsp;(1) foreclose on any property or commence any action to protect or enforce any right conferred upon him by any law, contract, or other agreement, and bid for and purchase at any foreclosure or any other sale any property in connection with which he has made a loan or grant. In the event of any such acquisition, the Secretary may, notwithstanding any other provision of law relating to the acquisition, handling, or disposal of real property by the United States, complete, administer, remodel and convert, dispose of, lease, and otherwise deal with, such property: <i>Provided,</i> That any such acquisition of real property shall not deprive any State or political subdivision thereof of its civil or criminal jurisdiction in and over such property or impair the civil rights under the State or local laws of the inhabitants on such property: <i>Provided further,</i> That section 5 of title 41 shall not apply to any contract for services or supplies on account of any property so acquired or owned if the amount of such contract does not exceed $2,500;
+&emsp;(1) foreclose on any property or commence any action to protect or enforce any right conferred upon him by any law, contract, or other agreement, and bid for and purchase at any foreclosure or any other sale any property in connection with which he has made a loan or grant. In the event of any such acquisition, the Secretary may, notwithstanding any other provision of law relating to the acquisition, handling, or disposal of real property by the United States, complete, administer, remodel and convert, dispose of, lease, and otherwise deal with, such property: <i>Provided</i>, That any such acquisition of real property shall not deprive any State or political subdivision thereof of its civil or criminal jurisdiction in and over such property or impair the civil rights under the State or local laws of the inhabitants on such property: <i>Provided further</i>, That section 5 of title 41 shall not apply to any contract for services or supplies on account of any property so acquired or owned if the amount of such contract does not exceed $2,500;
 
 &emsp;(2) enter into agreements to pay annual sums in lieu of taxes to any State or local taxing authority with respect to any real property so acquired or owned;
 
@@ -132,7 +132,7 @@ A plan for the reorganization of any regional, area, insuring, or other field of
 
 (2) The programs subject to this subsection shall be the programs authorized under—
 
-&emsp;(A) titles I and II of the United States Housing Act of 1937 \[42 U.S.C. 1437 et seq.; 1437aa et seq.\];
+&emsp;(A) titles I \[42 U.S.C. 1437 et seq.\] and II <sup>1</sup> of the United States Housing Act of 1937;
 
 &emsp;(B) section 202 of the Housing Act of 1959 \[12 U.S.C. 1701q\];
 
@@ -170,7 +170,7 @@ A plan for the reorganization of any regional, area, insuring, or other field of
 
 (2) Of the amounts authorized to be appropriated by this section, $96,000,000 shall be available for each of the fiscal years 1993 and 1994, which amounts shall be used to provide staff in regional, field, or zone offices of the Department of Housing and Urban Development to review, process, approve, and service applications for mortgage insurance under title II of the National Housing Act \[12 U.S.C. 1707 et seq.\] for housing consisting of 5 or more dwelling units.
 
-(3) Of the amounts authorized to be appropriated to carry out this section, not less than $5,000,000 of such amount shall be available for each fiscal year exclusively for the purposes of providing ongoing training and capacity building for Department personnel.
+(3) Of the amounts authorized to be appropriated to carry out this section, not less than$5,000,000 of such amount shall be available for each fiscal year exclusively for the purposes of providing ongoing training and capacity building for Department personnel.
 
 (Pub. L. 89–174, §7, Sept. 9, 1965, 79 Stat. 669; Pub. L. 90–284, title VIII, §808(b)(2), Apr. 11, 1968, 82 Stat. 84; Pub. L. 90–448, title VIII, §807(d), Aug. 1, 1968, 82 Stat. 544; Pub. L. 91–609, title I, §120(c), title IX, §§905, 906, Dec. 31, 1970, 84 Stat. 1775, 1809, 1811; Pub. L. 94–375, §§17(d), 21, Aug. 3, 1976, 90 Stat. 1077; Pub. L. 95–557, title III, §§316, 324, title IX, §908, Oct. 31, 1978, 92 Stat. 2099, 2103, 2129; Pub. L. 96–399, title III, §334(a), Oct. 8, 1980, 94 Stat. 1653; Pub. L. 98–479, title I, §104(b), Oct. 17, 1984, 98 Stat. 2225; Pub. L. 100–242, title V, §563(a), Feb. 5, 1988, 101 Stat. 1944; Pub. L. 101–235, title I, §§106, 123, 124, 141, Dec. 15, 1989, 103 Stat. 2000, 2021, 2022, 2030; Pub. L. 101–625, title IX, §954(a), Nov. 28, 1990, 104 Stat. 4420; Pub. L. 102–550, title IX, §§902(b), (c), 929, Oct. 28, 1992, 106 Stat. 3867, 3887; Pub. L. 103–233, title I, §104, Apr. 11, 1994, 108 Stat. 363.)
 
@@ -186,7 +186,7 @@ The Housing and Urban Development Act of 1965, referred to in subsec. (m), is Pu
 
 The Department of Housing and Urban Development Reform Act of 1989, referred to in subsec. (<i>o</i>)(3), is Pub. L. 101–235, Dec. 15, 1989, 103 Stat. 1987. For complete classification of this Act to the Code, see Short Title of 1989 Amendment note set out under section 3531 of this title and Tables.
 
-The United States Housing Act of 1937, referred to in subsec. (r)(2)(A), is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 653, and amended. Titles I and II of the Act are classified generally to subchapter I (§1437 et seq.) and subchapter II (§1437aa et seq.), respectively, of chapter 8 of this title.
+The United States Housing Act of 1937, referred to in subsec. (r)(2)(A), is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 653, and amended. Title I of the Act is classified generally to subchapter I (§1437 et seq.) of chapter 8 of this title. Title II of the Act, which was classified generally to subchapter II (§1437aa et seq.) of chapter 8 of this title, was repealed by Pub. L. 104–330, title V, §501(a), Oct. 26, 1996, 110 Stat. 4041. For complete classification of this Act to the Code, see Short Title note set out under section 1437 of this title and Tables.
 
 The Fair Housing Act, referred to in subsec. (r)(2)(D), is title VIII of Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 81, as amended, which is classified principally to subchapter I of chapter 45 (§3601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of this title and Tables.
 
@@ -266,7 +266,7 @@ Subsec. (r). Pub. L. 101–235, §124, added subsec. (r).
 
 1978—Subsec. (n). Pub. L. 95–557, §316, inserted “or facilities, or to assist in establishing, equipping, and operating interagency day care facilities” after “a day care center facility”, substituted “any such day care center” for “such a day care center” and inserted provision relating to limited start-up costs in an amount limited to 3 per centum of the first year's operating budget, but not to exceed $3,500.
 
-Subsec. (<i>o</i>). Pub. L. 95–557, §324, added subsec. (<i>o).</i>
+Subsec. (<i>o</i>). Pub. L. 95–557, §324, added subsec. (<i>o</i>).
 
 Subsec. (p). Pub. L. 95–557, §908, added subsec. (p).
 
@@ -276,7 +276,7 @@ Subsec. (n). Pub. L. 94–375, §21, added subsec. (n).
 
 1970—Subsec. (e). Pub. L. 91–609, §906, substituted “for individuals not to exceed the per diem equivalent to the highest rate for grade GS–18 of the General Schedule under section 5332 of title 5” for “not to exceed $100 per diem for individuals”.
 
-Subsecs. (h) to (<i>l</i>). Pub. L. 91–609, §905, added subsecs. (h) to (<i>l).</i>
+Subsecs. (h) to (<i>l</i>). Pub. L. 91–609, §905, added subsecs. (h) to (<i>l</i>).
 
 Subsec. (m). Pub. L. 91–609, §120(c), added subsec. (m).
 

@@ -22,7 +22,7 @@ The parents’ contribution from adjusted available income is equal to the amoun
 
 &emsp;(2) assessing such adjusted available income in accordance with the assessment schedule set forth in subsection (e) of this section; and
 
-&emsp;(3) dividing the assessment resulting under paragraph (2) by the number of the family members who are enrolled or accepted for enrollment, on at least a half-time basis, in a degree, certificate, or other program leading to a recognized educational credential at an institution of higher education that is an eligible institution in accordance with the provisions of section 1094 of this title during the award period for which assistance under this subchapter and part C of subchapter I of chapter 34 of title 42 is requested;
+&emsp;(3) dividing the assessment resulting under paragraph (2) by the number of the family members who are enrolled or accepted for enrollment, on at least a half-time basis, in a degree, certificate, or other program leading to arecognized educational credential at an institution of higher education that is an eligible institution in accordance with the provisions of section 1094 of this title during the award period for which assistance under this subchapter and part C of subchapter I of chapter 34 of title 42 is requested;
 
 > except that the amount determined under this subsection shall not be less than zero.
 
@@ -297,7 +297,7 @@ For periods of enrollment other than 9 months, the parents’ contribution from 
 
 &emsp;&emsp;(A) the parents’ adjusted available income (determined in accordance with subsection (b)(1) of this section) is increased by the difference between the income protection allowance (determined in accordance with subsection (c)(4) of this section) for a family of four and a family of five, each with one child in college;
 
-&emsp;&emsp;(B) the resulting revised parents’ adjusted available income is assessed according tosubsection (e) of this section and adjusted according to subsection (b)(3) of this section to determine a revised parents’ contribution from adjusted available income;
+&emsp;&emsp;(B) the resulting revised parents’ adjusted available income is assessed according to subsection (e) of this section and adjusted according to subsection (b)(3) of this section to determine a revised parents’ contribution from adjusted available income;
 
 &emsp;&emsp;(C) the original parents’ contribution from adjusted available income is subtracted from the revised parents’ contribution from adjusted available income, and the result is divided by 12 to determine the monthly adjustment amount; and
 

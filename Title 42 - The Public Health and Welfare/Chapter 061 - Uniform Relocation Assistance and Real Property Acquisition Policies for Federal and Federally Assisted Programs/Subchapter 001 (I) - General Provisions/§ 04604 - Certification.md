@@ -2,7 +2,7 @@
 
 #### (a) Acceptance of State agency certification
 
-Notwithstanding sections 4630 and 4655 of this title, the head of a Federal agency may discharge any of his responsibilities under this chapter by accepting a certification by a Stateagency that it will carry out such responsibility, if the head of the lead agency determines that such responsibility will be carried out in accordance with State laws which will accomplish the purpose and effect of this chapter.
+Notwithstanding sections 4630 and 4655 of this title, the head of a Federal agency may discharge any of his responsibilities under this chapter by accepting a certification by a State agency that it will carry out such responsibility, if the head of the lead agency determines that such responsibility will be carried out in accordance with State laws which will accomplish the purpose and effect of this chapter.
 
 #### (b) Promulgation of regulations; notice and comment; consultation with local governments
 

@@ -14,7 +14,7 @@ The following actions shall be taken in order to assure that there is a sufficie
 
 The Job Training Partnership Act, referred to in text, is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, as amended, which is classified generally to chapter 19 (§1501 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of Title 29 and Tables.
 
-The Older American Community Service Employment Act, referred to in text, is title V of Pub. L. 89–73,as added Pub. L. 94–135, title I, §113(a), Nov. 28, 1975, 89 Stat. 720, and amended, which is classified generally to subchapter IX (§3056 et seq.) of chapter 35 of this title. For complete classification of this Act to the Code, see Short Title of 1975 Amendment note set out under section 3001 of this title and Tables.
+The Older American Community Service Employment Act, referred to in text, is title V of Pub. L. 89–73, as added Pub. L. 94–135, title I, §113(a), Nov. 28, 1975, 89 Stat. 720, and amended, which is classified generally to subchapter IX (§3056 et seq.) of chapter 35 of this title. For complete classification of this Act to the Code, see Short Title of 1975 Amendment note set out under section 3001 of this title and Tables.
 
 The Energy Conservation in Existing Buildings Act of 1976, referred to in text, is title IV of Pub. L. 94–385, Aug. 14, 1976, 90 Stat. 1150, as amended. Part A of the Energy Conservation in Existing Buildings Act of 1976 is classified generally to part A (§6861 et seq.) of subchapter III of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 6801 of this title and Tables.
 

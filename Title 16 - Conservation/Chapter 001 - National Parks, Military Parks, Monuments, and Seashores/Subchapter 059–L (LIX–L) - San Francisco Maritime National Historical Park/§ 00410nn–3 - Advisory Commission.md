@@ -8,7 +8,7 @@ There is hereby established the Advisory Commission of the San Francisco Maritim
 
 &emsp;(2) 2 members appointed for terms of 4 years from recommendations submitted by the Governor of the State of California, at least one of whom shall have professional expertise in maritime historic preservation.
 
-&emsp;(3) 4 members appointed for terms of 5 years from recommendations submitted by the Mayor of San Francisco with special consideration given to individuals with knowledge of museum and/or maritime issues and who represent the local fishing industry, recreationalusers, the business community, and neighborhood groups.
+&emsp;(3) 4 members appointed for terms of 5 years from recommendations submitted by the Mayor of San Francisco with special consideration given to individuals with knowledge of museum and/or maritime issues and who represent the local fishing industry, recreational users, the business community, and neighborhood groups.
 
 &emsp;(4) 1 member appointed for a term of 5 years from recommendations from the Secretary of Commerce, who shall have professional expertise in the maritime industry.
 

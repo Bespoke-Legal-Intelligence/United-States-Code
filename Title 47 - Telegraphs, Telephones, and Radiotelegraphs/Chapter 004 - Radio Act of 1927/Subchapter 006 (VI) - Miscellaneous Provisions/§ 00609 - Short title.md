@@ -8,6 +8,12 @@ This chapter may be cited as the “Communications Act of 1934.”
 
 This chapter, referred to in text, was in the original “this Act”, meaning act June 19, 1934, ch. 652, 48 Stat. 1064, as amended, known as the Communications Act of 1934, which enacted this chapter, amended section 35 of this title, section 21 of Title 15, Commerce and Trade, section 487 of former Title 46, Shipping, and sections 1, 2, 5, and 15 of former Title 49, Transportation, and repealed sections 484 to 487 of former Title 46. For complete classification of this Act to the Code, see Tables.
 
+#### Short Title of 1996 Amendment
+
+Pub. L. 104–104, §1(a), Feb. 8, 1996, 110 Stat. 56, provided that: “This Act \[enacting sections 160, 161, 222, 230, 251 to 261, 271 to 276, 336, 363, 549, 560, 561, 571 to 573, 613, and 614 of this title and section 79z–5c of Title 15, Commerce and Trade, amending sections 151, 153 to 155, 204, 208, 214, 220, 221, 223 to 225, 228, 302a, 303, 305, 307 to 310, 312, 319, 330, 332, 360, 382, 385, 402, 522, 531 to 534, 537, 541 to 544a, 548, 552, 556, 557, 559, and 605 of this title, sections 18, 79, 79z–6, and 5714 of Title 15, and sections 1462, 1465, and 2422 of Title 18, Crimes and Criminal Procedure, and enacting provisions set out as notes under this section and sections 151 to 153, 156, 157, 204, 214, 223, 228, 303, 308, 332, 534, 543, and 561 of this title and section 1462 of Title 18\] may be cited as the ‘Telecommunications Act of 1996’.”
+
+Pub. L. 104–104, title V, §501, Feb. 8, 1996, 110 Stat. 133, provided that: “This title \[enacting sections 230, 560, and 561 of this title, amending sections 223, 303, 330, 531, 532, and 559 of this title and sections 1462, 1465, and 2422 of Title 18, Crimes and Criminal Procedure, and enacting provisions set out as notes under sections 223, 303, and 561 of this title and section 1462 of Title 18\] may be cited as the ‘Communications Decency Act of 1996’.”
+
 #### Short Title of 1992 Amendments
 
 Pub. L. 102–385, §1, Oct. 5, 1992, 106 Stat. 1460, provided that: “This Act \[enacting sections 334, 335, 534 to 537, 544a, 548, and 555a of this title, amending sections 325, 332, 522, 532, 533, 541 to 544, 546, 551 to 555, and 558 of this title, and enacting provisions set out as notes under sections 325, 521, 531, 543, and 554 of this title\] may be cited as the ‘Cable Television Consumer Protection and Competition Act of 1992’.”
@@ -26,7 +32,7 @@ Pub. L. 101–437, title II, §201, Oct. 18, 1990, 104 Stat. 997, provided that:
 
 Pub. L. 101–435, §1, Oct. 17, 1990, 104 Stat. 986, provided that: “This Act \[enacting section 226 of this title and provisions set out as a note under section 226 of this title\] may be cited as the ‘Telephone Operator Consumer Services Improvement Act of 1990’.”
 
-Pub. L. 101–431, §1, Oct. 15, 1990, 104 Stat. 960, provided that: “This Act \[amending sections 303 and 330 of thistitle and enacting provisions set out as notes under section 303 of this title\] may be cited as the ‘Television Decoder Circuitry Act of 1990’.”
+Pub. L. 101–431, §1, Oct. 15, 1990, 104 Stat. 960, provided that: “This Act \[amending sections 303 and 330 of this title and enacting provisions set out as notes under section 303 of this title\] may be cited as the ‘Television Decoder Circuitry Act of 1990’.”
 
 Pub. L. 101–396, §1, Sept. 28, 1990, 104 Stat. 848, provided: “That this Act \[enacting section 333 of this title, amending sections 154, 156, 203, 303, 310, and 503 of this title, and amending provisions set out as a note under section 154 of this title\] may be cited as the ‘Federal Communications Commission Authorization Act of 1990’.”
 
@@ -56,7 +62,7 @@ Pub. L. 97–259, title I, §101, Sept. 13, 1982, 96 Stat. 1087, provided that: 
 
 Pub. L. 97–130, §1, Dec 29, 1981, 95 Stat. 1687, provided that: “This Act \[amending section 222 of this title and section 1017 of Title 45, Railroads, and enacting provisions set out as notes under section 222 of this title and section 1017 of Title 45\] may be referred to as the ‘Record Carrier Competition Act of 1981’.”
 
-Pub. L. 97–35, title XII, §1221, Aug. 13, 1981, 95 Stat. 725, provided that: “This chapter \[chapter 1 (§§1221–1234) of subtitle B of title XII of Pub. L. 97–35, enacting sections 399a and 399b of this title, amending sections 391, 392, 396, 397, and 399 of this title, and enacting provisions set out as notes under section 396 of this title\] may be cited as the ‘Public Broadcasting Amendments Act of 1981’.”
+Pub. L. 97–35, title XII, §1221, Aug. 13, 1981, 95 Stat. 725, provided that: “This chapter \[chapter 1\(§§1221–1234) of subtitle B of title XII of Pub. L. 97–35, enacting sections 399a and 399b of this title, amending sections 391, 392, 396, 397, and 399 of this title, and enacting provisions set out as notes under section 396 of this title\] may be cited as the ‘Public Broadcasting Amendments Act of 1981’.”
 
 #### Short Title of 1978 Amendments
 

@@ -44,7 +44,7 @@ Terms used in this section shall have the same respective meanings as when used 
 
 Pub. L. 99–514, §621(e)(1), repealed amendment by Pub. L. 94–455, §806(f)(2). See 1976 Amendment note below.
 
-1984—Pub. L. 98–369, §474(r)(12)(A)(ii), in catchline of section 383, as in effect prior to amendment by Pub. L.94–455, §806(f)(2), as related to section 382(a) of this title, substituted “Special limitations on unused business credits, research credits, foreign taxes, and capital losses” for “Special limitations on carryovers of unused investment credits, work incentive program credits, new employee credits, alcohol fuel credits, research credits, employee stock ownership credits, foreign taxes, and capital losses”.
+1984—Pub. L. 98–369, §474(r)(12)(A)(ii), in catchline of section 383, as in effect prior to amendment by Pub. L. 94–455, §806(f)(2), as related to section 382(a) of this title, substituted “Special limitations on unused business credits, research credits, foreign taxes, and capital losses” for “Special limitations on carryovers of unused investment credits, work incentive program credits, new employee credits, alcohol fuel credits, research credits, employee stock ownership credits, foreign taxes, and capital losses”.
 
 Pub. L. 98–369, §474(r)(12)(B)(ii), in catchline of section 383, as amended by Pub. L. 94–455, §806(f)(2), as related to section 382(b) of this title, substituted “business credits, research credits” for “investment credits, work incentive program credits”.
 

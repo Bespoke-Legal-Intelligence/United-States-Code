@@ -6,7 +6,7 @@
 
 &emsp;(2) upon appointment, call to active duty, enlistment, or induction, from his home or from the place from which called or ordered to active duty to his first station;
 
-&emsp;(3) upon separation from the service, placement on the temporary disability retired list, release from active duty, or retirement, from his last duty station to his home or the place from which he was called or ordered to active duty, whether or not he is or will be a member of a uniformed service at the time the travel is or will be performed;
+&emsp;(3) upon separation from the service, placement on the temporary disability retired list,release from active duty, or retirement, from his last duty station to his home or the place from which he was called or ordered to active duty, whether or not he is or will be a member of a uniformed service at the time the travel is or will be performed;
 
 &emsp;(4) when away from home to perform duty, including duty by a member of the Army National Guard of the United States or the Air National Guard of the United States, as the case may be, in his status as a member of the National Guard, for which he is entitled to, or has waived, pay under this title; and
 
@@ -42,7 +42,7 @@
 
 (d)(1) The travel and transportation allowances authorized for each kind of travel may not be more than one of the following:
 
-&emsp;(A) Transportation in kind, reimbursement therefor, or, under regulations prescribed by the Secretaries concerned, when travel by privately owned conveyance is authorized or approved as more advantageous to the Government, a monetary allowance in place of the cost of transportation, at the rates provided in section 5704 of title 5, based on distances established over the shortest usually traveled route, under mileage tables prepared under the direction of the Secretary of Defense.
+&emsp;(A) Transportation in kind, reimbursement therefor, or, under regulations prescribed by the Secretaries concerned, when travel by privately owned conveyance is authorized or approved as more advantageous to the Government, a monetary allowance in place of the cost of transportation, at the rates provided in section 5704 of title 5.
 
 &emsp;(B) Transportation in kind, reimbursement therefor, or a monetary allowance as provided in subparagraph (A), plus a payment in lieu of subsistence as provided in paragraph (2) in an amount sufficient to meet normal and necessary expenses in the area to which travel is performed.
 
@@ -60,7 +60,7 @@
 
 (4) For travel consuming less than a full day, the payment prescribed by regulation under paragraph (2) shall be allocated in such manner as the Secretaries concerned prescribe.
 
-(e) A member who is on duty with, or is undergoing training for, the Air Mobility Command, the Marine Corps Transport Squadrons, the Fleet Tactical Support Squadrons, the Naval Aircraft Ferrying Squadrons, or any other unit determined by the Secretary concerned to be performing duties similar to the duties performed by such command or squadrons, and who is away from his permanent station, may be paid a per diem in lieu of subsistence in an amount not more than the amount to which he would be entitled if he were performing travel in connection with temporary duty without, in either case, the issuance of orders for specific travel.
+(e) A member who is on duty with, or is undergoing training for, the Air Mobility Command, the Marine Corps Transport Squadrons, the Fleet Tactical Support Squadrons, the Naval Aircraft Ferrying Squadrons, or any other unit determined by the Secretary concerned to be performing duties similar to the duties performed by such command or squadrons, and who is away from his permanent station, may bepaid a per diem in lieu of subsistence in an amount not more than the amount to which he would be entitled if he were performing travel in connection with temporary duty without, in either case, the issuance of orders for specific travel.
 
 (f)(1) The travel and transportation allowances authorized under this section for a member who is separated from the service or released from active duty may be paid or provided only for travel actually performed.
 
@@ -94,7 +94,7 @@
 
 (g) In the case of an enlisted member who is in a travel status and not entitled to receive per diem in lieu of subsistence for any day (or portion of a day) because the member is furnished meals in a Government mess, the member may not be paid a basic allowance for subsistence for such day (or portion of such day) that the member is furnished meals in a Government mess.
 
-(h)(1) Subject to paragraph (2), a member of the armed forces accompanying a Member ofCongress or a congressional employee on official travel may be authorized reimbursement for actual travel and transportation expenses incurred for such travel.
+(h)(1) Subject to paragraph (2), a member of the armed forces accompanying a Member of Congress or a congressional employee on official travel may be authorized reimbursement for actual travel and transportation expenses incurred for such travel.
 
 (2) The reimbursement authorized in paragraph (1) may be paid—
 
@@ -110,7 +110,7 @@
 
 (i) Under uniform regulations prescribed by the Secretaries concerned, a member of a uniformed service entitled to travel and transportation allowances under subsection (a) is entitled to reimbursement for parking fees, ferry fares, and bridge, road, and tunnel tolls actually incurred incident to such travel.
 
-(j)(1) In the case of a member of a reserve component performing annual training duty or inactive-duty training who is not otherwise entitled to travel and transportation allowances in connection with such duty under subsection (a), the Secretary concerned may reimburse the member for housing service charge expenses incurred by the member in occupying transient government housing during the performance of such duty.
+(j)(1) In the case of a member of a reserve component performing active duty for training or inactive-duty training who is not otherwise entitled to travel and transportation allowances in connection with such duty under subsection (a), the Secretary concerned may reimburse the member for housing service charge expenses incurred by the member in occupying transient government housing during the performance of such duty.
 
 (2) Any payment or other benefit under this subsection shall be provided in accordance with regulations prescribed by the Secretaries concerned.
 
@@ -118,7 +118,7 @@
 
 (k) In this section, the term “involuntarily separated” has the meaning given that term in section 1141 of title 10.
 
-(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 472; Pub. L. 89–680, §1(1), Oct. 15, 1966, 80 Stat. 957; Pub. L. 89–718, §§55, 56, Nov. 2, 1966, 80 Stat. 1122, 1123; Pub. L. 90–168, §3, Dec. 1, 1967, 81 Stat. 525; Pub. L. 91–183, Dec. 30, 1969, 83 Stat. 840; Pub. L. 94–296, §1, May 29, 1976, 90 Stat. 584; Pub. L. 96–342, title VIII, §807(a), Sept. 8, 1980, 94 Stat. 1096; Pub. L. 96–343, §5(a), Sept. 8, 1980, 94 Stat. 1126; Pub. L. 97–60, title I, §121(a), Oct. 14, 1981, 95 Stat. 999; Pub. L. 98–94, title IX, §908(b), Sept. 24, 1983, 97 Stat. 637; Pub. L. 98–525, title V, §533(g), title VI, §613(a), title XIV, §1402(c), Oct. 19, 1984, 98 Stat. 2528, 2539, 2621; Pub. L. 99–145, title VI, §612(a), Nov. 8, 1985, 99 Stat. 639; Pub. L. 99–500, §101(c) \[title IX, §9073\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–113, and Pub. L. 99–591, §101(c) \[title IX, §9073\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–113; Pub. L. 99–661, div. A, title VI, §614(a), title XIII, §1343(b)(2), Nov. 14, 1986, 100 Stat. 3879, 3995; Pub. L. 100–26, §8(a), (d)(6), Apr. 21, 1987, 101 Stat. 284, 285; Pub. L. 100–180, div. A, title VI, §617(a), Dec. 4, 1987, 101 Stat. 1096; Pub. L. 101–189, div. A, title VI, §621(a), Nov. 29, 1989, 103 Stat. 1446; Pub. L. 101–510, div. A, title V, §503(a), Nov. 5, 1990, 104 Stat. 1558; Pub. L. 102–25, title VII, §702(b)(1)–(3), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–484, div. A, title VI, §624, Oct. 23, 1992, 106 Stat. 2423; Pub. L. 103–160, div. A, title V, §561(<i>l</i>)(1), Nov. 30, 1993, 107 Stat. 1668; Pub. L. 103–337, div. A, title VI, §§621, 622, Oct. 5, 1994, 108 Stat. 2784.)
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 472; Pub. L. 89–680, §1(1), Oct. 15, 1966, 80 Stat. 957; Pub. L. 89–718, §§55, 56, Nov. 2, 1966, 80 Stat. 1122, 1123; Pub. L. 90–168, §3, Dec. 1, 1967, 81 Stat. 525; Pub. L. 91–183, Dec. 30, 1969, 83 Stat. 840; Pub. L. 94–296, §1, May 29, 1976, 90 Stat. 584; Pub. L. 96–342, title VIII, §807(a), Sept. 8, 1980, 94 Stat. 1096; Pub. L. 96–343, §5(a), Sept. 8, 1980, 94 Stat. 1126; Pub. L. 97–60, title I, §121(a), Oct. 14, 1981, 95 Stat. 999; Pub. L. 98–94, title IX, §908(b), Sept. 24, 1983, 97 Stat. 637; Pub. L. 98–525, title V, §533(g), title VI, §613(a), title XIV, §1402(c), Oct. 19, 1984, 98 Stat. 2528, 2539, 2621; Pub. L. 99–145, title VI, §612(a), Nov. 8, 1985, 99 Stat. 639; Pub. L. 99–500, §101(c) \[title IX, §9073\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–113, and Pub. L. 99–591, §101(c)\[title IX, §9073\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–113; Pub. L. 99–661, div. A, title VI, §614(a), title XIII, §1343(b)(2), Nov. 14, 1986, 100 Stat. 3879, 3995; Pub. L. 100–26, §8(a), (d)(6), Apr. 21, 1987, 101 Stat. 284, 285; Pub. L. 100–180, div. A, title VI, §617(a), Dec. 4, 1987, 101 Stat. 1096; Pub. L. 101–189, div. A, title VI, §621(a), Nov. 29, 1989, 103 Stat. 1446; Pub. L. 101–510, div. A, title V, §503(a), Nov. 5, 1990, 104 Stat. 1558; Pub. L. 102–25, title VII, §702(b)(1)–(3), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–484, div. A, title VI, §624, Oct. 23, 1992, 106 Stat. 2423; Pub. L. 103–160, div. A, title V, §561(<i>l</i>)(1), Nov. 30, 1993, 107 Stat. 1668; Pub. L. 103–337, div. A, title VI, §§621, 622, Oct. 5, 1994, 108 Stat. 2784; Pub. L. 104–106, div. A, title VI, §621, Feb. 10, 1996, 110 Stat. 363; Pub. L. 104–201, div. A, title XII, §1252, Sept. 23, 1996, 110 Stat. 2698.)
 
 Historical and Revision Notes
 
@@ -130,11 +130,15 @@ Historical and Revision Notes
 
 404(a)
 
+&nbsp;
+
 404(b)
 
 404(c)
 
 404(d)
+
+&nbsp;
 
 404(e)
 
@@ -185,6 +189,10 @@ Dec. 21, 1982, Pub. L. 97–377, title I, §101(c) \[title VII, §767\], 96 Stat
 Dec. 29, 1981, Pub. L. 97–114, title VII, §771, 95 Stat. 1590.
 
 #### Amendments
+
+1996—Subsec. (d)(1)(A). Pub. L. 104–106 struck out “, based on distances established over the shortest usually traveled route, under mileage tables prepared under the direction of the Secretary of Defense” after “section 5704 of title 5”.
+
+Subsec. (j)(1). Pub. L. 104–201 substituted “active duty for training” for “annual training duty”.
 
 1994—Subsec. (d)(1)(A). Pub. L. 103–337, §621, substituted “Secretary of Defense” for “Secretary of the Army”.
 
@@ -290,7 +298,7 @@ Section 121(d) of Pub. L. 97–60 provided that:
 
 “(2) Paragraph (2) of section 404(b) of title 37, United States Code, as added by subsection (a)(2)(C), shall apply to travel performed after October 31, 1981.
 
-“(3) Paragraph (3) of section 406(a) of title 37, United States Code, as added by subsection (b)(1)(C), shall take effect on the date of the enactment of this Act \[Oct. 14, 1981\].
+“(3) Paragraph (3) of section 406(a) of title 37, United States Code, as added by subsection (b)(1)(C), shall takeeffect on the date of the enactment of this Act \[Oct. 14, 1981\].
 
 “(4) The amendments made by subsections (a)(3) and (b)(3) \[amending this section and section 406 of this title\] shall take effect on November 1, 1981, and shall apply to members who are retired, placed on the temporary disability retired list, discharged, or involuntarily released on or after November 1, 1981, except that such amendments shall not apply to any member who before November 1, 1981, had completed eighteen years of active service.
 
@@ -326,7 +334,7 @@ Pub. L. 98–473, title I, §101(h) \[title VIII, §8113\], Oct. 12, 1984, 98 St
 
 Increase in Per Diem Rates; Reimbursement for Actual Expenses Incident to Travel
 
-The increase from $12 to $16 in the per diem allowance and the provision for reimbursement for actual expenses incident to travel up to $30 per day provided in the amendment of subsec. (d) of this section by Pub. L. 89–718 had already been put into effect by Pub. L. 87–500, §§1, 2, June 27, 1962, 76 Stat. 111, which although not amending subsec. (d) of this section, had raised the per diem allowance and provided for the reimbursement for actual expenses up to $30 per day through the device of effecting an amendment to section 303(a) of the Career Compensation Act of 1949, act Oct. 12, 1949, ch. 681, title III, 63 Stat. 813. Pub. L. 89–500 was repealed by section 75(3) of Pub. L. 89–718, except with respect to rightsand duties that matured, penalties that were incurred, and proceedings that were begun before November 2, 1966.
+The increase from $12 to $16 in the per diem allowance and the provision for reimbursement for actual expenses incident to travel up to $30 per day provided in the amendment of subsec. (d) of this section by Pub. L. 89–718 had already been put into effect by Pub. L. 87–500, §§1, 2, June 27, 1962, 76 Stat. 111, which although not amending subsec. (d) of this section, had raised the per diem allowance and provided for the reimbursement for actual expenses up to $30 per day through the device of effecting an amendment to section 303(a) of the Career Compensation Act of 1949, act Oct. 12, 1949, ch. 681, title III, 63 Stat. 813. Pub. L. 89–500 was repealed by section 75(3) of Pub. L. 89–718, except with respect to rights and duties that matured, penalties that were incurred, and proceedings that were begun before November 2, 1966.
 
 #### Cross References
 
@@ -338,5 +346,5 @@ Travel and transportation allowances for reserves and members of National Guard 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 404a, 406, 406a, 406b, 406c, 408, 410, 411, 411a, 411b, 411e, 420, 433, 1002, 1003 of this title; title 5 section 4109; title 10 sections 1174a, 1175.
+This section is referred to in sections 404a, 406, 406a, 406b, 406c, 408, 410, 411, 411a, 411b, 411e, 420, 433, 1002, 1003 of this title; title 5 section 4109; title 10 sections 1174a, 1175, 2013.
 

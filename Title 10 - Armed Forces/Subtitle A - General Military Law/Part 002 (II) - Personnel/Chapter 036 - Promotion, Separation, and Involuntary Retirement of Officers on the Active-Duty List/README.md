@@ -12,7 +12,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 1174, 3037, 5046, 5148, 5149, 5596, 5891, 5899, 5902, 5906, 6403, 8037, 14301, 14306, 14308, 14317 of this title.
+This chapter is referred to in sections 1174, 3037, 5046, 5148, 5149, 5596, 8037, 14301, 14306, 14308, 14317 of this title.
 
 
 ---

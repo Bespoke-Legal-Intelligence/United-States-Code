@@ -20,7 +20,7 @@ Level IV of the Executive Schedule applies to the following positions, for which
 
 &emsp;Assistant Secretaries of Commerce (11).
 
-&emsp;Assistant Secretaries of Defense (11).
+&emsp;Assistant Secretaries of Defense (10).
 
 &emsp;Assistant Secretaries of the Air Force (4).
 
@@ -294,7 +294,7 @@ Level IV of the Executive Schedule applies to the following positions, for which
 
 &emsp;Director, Bureau of the Census, Department of Commerce.
 
-&emsp;Director of the Institute of Museum Services.
+&emsp;Director of the Institute of Museum and Library Services.
 
 &emsp;Chief Financial Officer, Department of Agriculture.
 
@@ -354,9 +354,61 @@ Level IV of the Executive Schedule applies to the following positions, for which
 
 &emsp;Administrator, Rural Utilities Service, Department of Agriculture.
 
-&emsp;Members, Board of Directors of the Farm Credit System Insurance Corporation.
+&emsp;Executive Director of the Alternative Agricultural Research and Commercialization Corporation.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 461; Pub. L. 89–670, §10(d)(4), (e), Oct. 15, 1966, 80 Stat. 948; Pub. L. 89–734, §1(1), Nov. 2, 1966, 80 Stat. 1163; Pub. L. 89–779, §8(c)(1), Nov. 6, 1966, 80 Stat. 1364; Pub. L. 90–83, §1(15), Sept. 11, 1967, 81 Stat. 198; Pub. L. 90–206, title II, §215(b), Dec. 16, 1967, 81 Stat. 638; Pub. L. 90–351, title I, §505, June 19, 1968, 82 Stat. 205; Pub. L. 90–448, title XI, §1105(b), title XVII, §1708(b), Aug. 1, 1968, 82 Stat. 567, 606; Pub. L. 90–623, §1(4), Oct. 22, 1968, 82 Stat. 1312; Pub. L. 91–121, title IV, §404(b), Nov. 19, 1969, 83 Stat. 207; Pub. L. 91–175, pt. V, §503(2), Dec. 30, 1969, 83 Stat. 826; Pub. L. 91–206, §5(b), Mar. 10, 1970, 84 Stat. 51; Pub. L. 91–375, §6(c)(14), Aug. 12, 1970, 84 Stat. 776; Pub. L. 91–469, §42(b), Oct. 21, 1970, 84 Stat. 1038; Pub. L. 91–477, §3(b), Oct. 21, 1970, 84 Stat. 1072; Pub. L. 91–596, §§12(c)(2), 29(b), Dec. 29, 1970, 84 Stat. 1604, 1619; Pub. L. 91–611, title II, §211(b), Dec. 31, 1970, 84 Stat. 1829; Pub. L. 91–644, title I, §7 (1), (2), Jan. 2, 1971, 84 Stat. 1887; Pub. L. 92–22, §2, June 1, 1971, 85 Stat. 76; Pub. L. 92–181, title V, §5.41(a), formerly §5.27(a), Dec. 10, 1971, 85 Stat. 625, renumbered Pub. L. 99–205, title II, §205(a)(2), Dec. 23, 1985, 99 Stat. 1703; Pub. L. 92–215, §2, Dec. 22, 1971, 85 Stat. 777; Pub. L. 92–255, title II, §212(b), Mar. 21, 1972, 86 Stat. 69;Pub. L. 92–261, §9(b), Mar. 24, 1972, 86 Stat. 110; Pub. L. 92–302, §2(c), May 18, 1972, 86 Stat. 149; Pub. L. 92–352, title I, §104(3), July 13, 1972, 86 Stat. 490; Pub. L. 92–419, title VI, §604(b), Aug. 30, 1972, 86 Stat. 676; Pub. L. 92–573, §4(h)(2), Oct. 27, 1972, 86 Stat. 1211; Pub. L. 92–603, title IV, §404(b), Oct. 30, 1972, 86 Stat. 1488; Pub. L. 90–351, title I, §506(a), as added Pub. L. 93–83, §2, Aug. 6, 1973, 87 Stat. 211; Pub. L. 93–126, §9(b), as added Pub. L. 93–312, §9, June 8, 1974, 88 Stat. 238; Pub. L. 93–383, title VIII, §818(c), Aug. 22, 1974, 88 Stat. 740; Pub. L. 93–400, §13, Aug. 30, 1974, 88 Stat. 799; Pub. L. 93–438, title III, §310(3), Oct. 11, 1974, 88 Stat. 1253; Pub. L. 93–463, title I, §102(b), Oct. 23, 1974, 88 Stat. 1391; Pub. L. 93–618, title I, §172(c)(2), Jan. 3, 1975, 88 Stat. 2010; Pub. L. 94–82, title II, §202(b)(4), Aug. 9, 1975, 89 Stat. 420; Pub. L. 94–123, §2(c)(2), Oct. 22, 1975, 89 Stat. 670; Pub. L. 94–183, §2(18), Dec. 31, 1975, 89 Stat. 1057; Pub. L. 92–255, title II, §209(b), as added Pub. L. 94–237, §4(b), Mar. 19, 1976, 90 Stat. 243; Pub. L. 94–375, §17(c), Aug. 3, 1976, 90 Stat. 1077; Pub. L. 94–461, §4(b), Oct. 8, 1976, 90 Stat. 1969; Pub. L. 94–503, title II, §202(b), Oct. 15, 1976, 90 Stat. 2426; Pub. L. 94–561, §3(a), Oct. 19, 1976, 90 Stat. 2643; Pub. L. 95–88, title I, §124(b), Aug. 3, 1977, 91 Stat. 542; Pub. L. 95–91, title VII, §710(f), Aug. 4, 1977, 91 Stat. 609; Pub. L. 95–105, title I, §109(d), Aug. 17, 1977, 91 Stat. 847; Pub. L. 95–108, §2(b), Aug. 17, 1977, 91 Stat. 871; Pub. L. 95–164, title III, §302(b), Nov. 9, 1977, 91 Stat. 1319; Pub. L. 95–173, §9(b), Nov. 12, 1977, 91 Stat. 1360; Pub. L. 95–351, title III, §302, Aug. 20, 1978, 92 Stat. 514; Pub. L. 95–426, title I, §§114(b)(2), 115(b)(1), Oct. 7, 1978, 92 Stat. 969; Pub. L. 95–452, §10(a), Oct. 12, 1978, 92 Stat. 1108; Pub. L. 95–454, title II, §§202(c)(2), (3), title VII, §703(d), Oct. 13, 1978, 92 Stat. 1131, 1217; Pub. L. 95–630, title V, §502(e), Nov. 10, 1978, 92 Stat. 3681; Pub. L. 96–39, title XI, §1106(c)(4), July 26, 1979, 93 Stat. 312; Pub. L. 96–53, title IV, §412(b), Aug. 14, 1979, 93 Stat. 377; Pub. L. 96–54, §2(a)(25)(A), Aug. 14, 1979, 93 Stat. 382; Pub. L. 96–88, title V, §508(e), (g), Oct. 17, 1979, 93 Stat. 692; Pub. L. 96–107, title VIII, §820(e)(1), Nov. 9, 1979, 93 Stat. 819; Pub. L. 96–132, §5, Nov. 30, 1979, 93 Stat. 1045; Pub. L. 96–153, title VI, §603(b), Dec. 21, 1979, 93 Stat. 1138; Pub. L. 90–351, title I, §809, as added Pub. L. 96–157, §2, Dec. 27, 1979, 93 Stat. 1204; Pub. L. 96–302, title IV, §403, July 2, 1980, 94 Stat. 850; Pub. L. 96–511, §4(d), Dec. 11, 1980, 94 Stat. 2826; Pub. L. 97–31, §12(1)(B), Aug. 6, 1981, 95 Stat. 153; Pub. L. 97–35, title III, §396(h)(4), Aug. 13, 1981, 95 Stat. 441; Pub. L. 97–98, title XIV, §1414(b), Dec. 22, 1981, 95 Stat. 1303; Pub. L. 97–195, §1(b)(2), June 16, 1982, 96 Stat. 115; Pub. L. 97–252, title XI, §1117(d), Sept. 8, 1982, 96 Stat. 753; Pub. L. 97–325, §8(b), Oct. 15, 1982, 96 Stat. 1605; Pub. L. 97–449, §3(3), Jan. 12, 1983, 96 Stat. 2441; Pub. L. 98–80, §2(c)(1), Aug. 23, 1983, 97 Stat. 485; Pub. L. 98–94, title XII, §§1211(b), 1212(d), Sept. 24, 1983, 97 Stat. 686, 687; Pub. L. 98–164, title I, §125(b)(2), Nov. 22, 1983, 97 Stat. 1026; Pub. L. 98–202, §6(b), Dec. 2, 1983, 97 Stat. 1382; Pub. L. 98–216, §3(a)(3), Feb. 14, 1984, 98 Stat. 6; Pub. L. 98–369, title III, §2332(b), July 18, 1984, 98 Stat. 1089; Pub. L. 98–443, §9(e), Oct. 4, 1984, 98 Stat. 1707; Pub. L. 98–473, title II, §§609J(b), 1701(b), Oct. 12, 1984, 98 Stat. 2102, 2185; Pub. L. 98–594, §1(b), Oct. 30, 1984, 98 Stat. 3129; Pub. L. 99–64, title I, §116(c), July 12, 1985, 99 Stat. 153; Pub. L. 99–73, §6(b)(1), July 29, 1985, 99 Stat. 173; Pub. L. 99–93, title I, §115(b), title VII, §704(a)(2), Aug. 16, 1985, 99 Stat. 411, 445; Pub. L. 99–399, title I, §104(c), title IV, §§412(c), 413(e), formerly 413(a)(5), Aug. 27, 1986, 100 Stat. 856, 867, 868, as renumbered Pub. L. 100–204, title I, §134(b), Dec. 22, 1987, 101 Stat. 1344; Pub. L. 99–500, §101(c) \[title X, §903(b)(2)(B)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–132, and Pub. L. 99–591, §101(c) \[title X, §903(b)(2)(B)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–132; Pub. L. 99–619, §2(b)(2), Nov. 6, 1986, 100 Stat. 3491; Pub. L. 99–659, title IV, §407(e)(2), Nov. 14, 1986, 100 Stat. 3740; Pub. L. 99–661, div. A, title IX, formerly title IV, §903(b)(2)(B), Nov. 14, 1986, 100 Stat. 3912, as renumbered Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–204, title I, §178(a)(2), Dec. 22, 1987, 101 Stat. 1362; Pub. L. 100–297, title III, §3001(b)(2), Apr. 28, 1988, 102 Stat. 331; Pub. L. 100–418, title II, §2301(i), formerly §2301(h), title V, §5112(c)(2), Aug. 23, 1988, 102 Stat. 1341, 1431, as renumbered Pub. L. 102–429, title II, §203(b)(1), Oct. 21, 1992, 106 Stat. 2201; Pub. L. 100–485, title VI, §603(b), Oct. 13, 1988, 102 Stat. 2409; Pub. L. 100–504, title I, §103(a), Oct. 18, 1988, 102 Stat. 2521; Pub. L. 100–527, §13(f), Oct. 25, 1988, 102 Stat. 2643; Pub. L. 100–607, title V, §503(b)(2), Nov. 4, 1988, 102 Stat. 3121; Pub. L. 100–679, §11(d), Nov. 17, 1988, 102 Stat. 4070; Pub. L. 100–687, div. A, title II, §201(b)(1), Nov. 18, 1988, 102 Stat. 4109; Pub. L. 100–690, title I, §§1003(a)(4)(C), 1007(c)(4), title VII, §§7252(b)(3), 7608(e), Nov. 18, 1988, 102 Stat. 4182, 4188, 4436, 4517; Pub. L. 101–73, title V, §501(b)(2)(A), title VII, §742(a)(2), Aug. 9, 1989, 103 Stat. 393, 436; Pub. L. 101–189, div. A, title XI, §1112, Nov. 29, 1989, 103 Stat. 1554; Pub. L. 101–319, §3(a), July 3, 1990, 104 Stat. 290; Pub. L. 101–509, title V, §529 \[title I, §113(2)\], Nov. 5, 1990, 104 Stat. 1427, 1455; Pub. L. 101–512, title III, §318 \[title II, §202(a)(2)\], Nov. 5, 1990, 104 Stat. 1960, 1975; Pub. L. 101–576, title II, §207(c), Nov. 15, 1990, 104 Stat. 2846; Pub. L. 102–138, title I, §122(d)(1), Oct. 28, 1991, 105 Stat. 659; Pub. L. 102–180, §3(g), Dec. 2, 1991, 105 Stat. 1231; Pub. L. 102–183, title IV, §404, Dec. 4, 1991, 105 Stat. 1267; Pub. L. 102–190, div. A, title IX, §§901(b), 903(a)(1), div. C, title XXXV, §3504(a), Dec. 5, 1991, 105 Stat. 1450, 1451, 1586; Pub. L. 102–325, title XV, §1553(b), July 23, 1992, 106 Stat. 839; Pub. L. 102–359, §2(b)(1), Aug. 26, 1992, 106 Stat. 962; Pub. L. 102–552, title II, §201(b)(2), Oct. 28, 1992, 106 Stat. 4105; Pub. L. 103–123, title I, §108(a)(2), Oct. 28, 1993, 107 Stat. 1234; Pub. L. 103–160, div. A, title IX, §§902(a)(2), 903(c)(2), Nov. 30, 1993, 107 Stat. 1727, 1728; Pub. L. 103–171, §3(b)(1), Dec. 2, 1993, 107 Stat. 1991; Pub. L. 103–204, §23(b), Dec. 17, 1993, 107 Stat. 2408; Pub. L. 103–227, title II, §233(b), Mar. 31, 1994, 108 Stat. 155; Pub. L. 103–236, title I, §162(d)(2), title III, §307(b)(2), title VII, §708(b), Apr. 30, 1994, 108 Stat. 405, 436, 494; Pub. L. 103–272, §4(b)(2), July 5, 1994, 108 Stat. 1361; Pub. L. 103–296, title I, §§106(a)(7)(B), 108(e)(3), Aug. 15, 1994, 108 Stat. 1476, 1486; Pub. L. 103–333, title I, §106, Sept. 30, 1994, 108 Stat. 2548; Pub. L. 103–337, div. A, title IX, §901(b), Oct. 5, 1994, 108 Stat. 2822; Pub. L. 103–354, title II, §§218(d), 232(b)(3), Oct. 13, 1994, 108 Stat. 3212, 3219; Pub. L. 104–88, title III, §301(b), Dec. 29, 1995, 109 Stat. 943.)
+&emsp;Chief Information Officer, Department of Agriculture.
+
+&emsp;Chief Information Officer, Department of Commerce.
+
+&emsp;Chief Information Officer, Department of Defense (unless the official designated as the Chief Information Officer of the Department of Defense is an official listed under section 5312, 5313, or 5314 of this title).
+
+&emsp;Chief Information Officer, Department of Education.
+
+&emsp;Chief Information Officer, Department of Energy.
+
+&emsp;Chief Information Officer, Department of Health and Human Services.
+
+&emsp;Chief Information Officer, Department of Housing and Urban Development.
+
+&emsp;Chief Information Officer, Department of <sup>3</sup> Interior.
+
+&emsp;Chief Information Officer, Department of Justice.
+
+&emsp;Chief Information Officer, Department of Labor.
+
+&emsp;Chief Information Officer, Department of State.
+
+&emsp;Chief Information Officer, Department of Transportation.
+
+&emsp;Chief Information Officer, Department of <sup>3</sup> Treasury.
+
+&emsp;Chief Information Officer, Department of Veterans Affairs.
+
+&emsp;Chief Information Officer, Environmental Protection Agency.
+
+&emsp;Chief Information Officer, National Aeronautics and Space Administration.
+
+&emsp;Chief Information Officer, Agency for International Development.
+
+&emsp;Chief Information Officer, Federal Emergency Management Agency.
+
+&emsp;Chief Information Officer, General Services Administration.
+
+&emsp;Chief Information Officer, National Science Foundation.
+
+&emsp;Chief Information Officer, Nuclear Regulatory Agency.
+
+&emsp;Chief Information Officer, Office of Personnel Management.
+
+&emsp;Chief Information Officer, Small Business Administration.
+
+&emsp;Inspector General, United States Postal Service.
+
+&emsp;Assistant Directors of Central Intelligence (3).
+
+&emsp;General Counsel of the Central Intelligence Agency.
+
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 461; Pub. L. 89–670, §10(d)(4), (e), Oct. 15, 1966, 80 Stat. 948; Pub. L. 89–734, §1(1), Nov. 2, 1966, 80 Stat. 1163; Pub. L. 89–779, §8(c)(1), Nov. 6, 1966, 80 Stat. 1364; Pub. L. 90–83, §1(15), Sept. 11, 1967, 81 Stat. 198; Pub. L. 90–206, title II, §215(b), Dec. 16, 1967, 81 Stat. 638; Pub. L. 90–351, title I, §505, June 19, 1968, 82 Stat. 205; Pub. L. 90–448, title XI, §1105(b), title XVII, §1708(b), Aug. 1, 1968, 82 Stat. 567, 606; Pub. L. 90–623, §1(4), Oct. 22, 1968, 82 Stat. 1312; Pub. L. 91–121, title IV, §404(b), Nov. 19, 1969, 83 Stat. 207; Pub. L. 91–175, pt. V, §503(2), Dec. 30, 1969, 83 Stat. 826; Pub. L. 91–206, §5(b), Mar. 10, 1970, 84 Stat. 51; Pub. L. 91–375, §6(c)(14), Aug. 12, 1970, 84 Stat. 776; Pub. L. 91–469, §42(b), Oct. 21, 1970, 84 Stat. 1038; Pub. L. 91–477, §3(b), Oct. 21, 1970, 84 Stat. 1072; Pub. L. 91–596, §§12(c)(2), 29(b), Dec. 29, 1970, 84 Stat. 1604, 1619; Pub. L. 91–611, title II, §211(b), Dec. 31, 1970, 84 Stat. 1829; Pub. L. 91–644, title I, §7 (1), (2), Jan. 2, 1971, 84 Stat. 1887; Pub. L. 92–22, §2, June 1, 1971, 85 Stat. 76; Pub. L. 92–181, title V, §5.41(a), formerly §5.27(a), Dec. 10, 1971, 85 Stat. 625, renumbered Pub. L. 99–205, title II, §205(a)(2), Dec. 23, 1985, 99 Stat. 1703; Pub. L. 92–215, §2, Dec. 22, 1971, 85 Stat. 777; Pub. L. 92–255, title II, §212(b), Mar. 21, 1972, 86 Stat. 69; Pub. L. 92–261, §9(b), Mar. 24, 1972, 86 Stat. 110; Pub. L. 92–302, §2(c), May 18, 1972, 86 Stat. 149; Pub. L. 92–352, title I, §104(3), July 13, 1972, 86 Stat. 490; Pub. L. 92–419, title VI, §604(b), Aug. 30, 1972, 86 Stat. 676; Pub. L. 92–573, §4(h)(2), Oct. 27, 1972, 86 Stat. 1211; Pub. L. 92–603, title IV, §404(b), Oct. 30, 1972, 86 Stat. 1488; Pub. L. 90–351, title I, §506(a), as added Pub. L. 93–83, §2, Aug. 6, 1973, 87 Stat. 211; Pub. L. 93–126, §9(b), as added Pub. L. 93–312, §9, June 8, 1974, 88 Stat. 238; Pub. L. 93–383, title VIII, §818(c), Aug. 22, 1974, 88 Stat. 740; Pub. L. 93–400, §13, Aug. 30, 1974, 88 Stat. 799; Pub. L. 93–438, title III, §310(3), Oct. 11, 1974, 88 Stat. 1253; Pub. L. 93–463, title I, §102(b), Oct. 23, 1974, 88 Stat. 1391; Pub. L. 93–618, title I, §172(c)(2), Jan. 3, 1975, 88 Stat. 2010; Pub. L. 94–82, title II, §202(b)(4), Aug. 9, 1975, 89 Stat. 420; Pub. L. 94–123, §2(c)(2), Oct. 22, 1975, 89 Stat. 670; Pub. L. 94–183, §2(18), Dec. 31, 1975, 89 Stat. 1057; Pub. L. 92–255, title II, §209(b), as added Pub. L. 94–237, §4(b), Mar. 19, 1976, 90 Stat. 243; Pub. L. 94–375, §17(c), Aug. 3, 1976, 90 Stat. 1077; Pub. L. 94–461, §4(b), Oct. 8, 1976, 90 Stat. 1969; Pub. L. 94–503, title II, §202(b), Oct. 15, 1976, 90 Stat. 2426; Pub. L. 94–561, §3(a), Oct. 19, 1976, 90 Stat. 2643; Pub. L. 95–88, title I, §124(b), Aug. 3, 1977, 91 Stat. 542; Pub. L. 95–91, title VII, §710(f), Aug. 4, 1977, 91 Stat. 609; Pub. L. 95–105, title I, §109(d), Aug. 17, 1977, 91 Stat. 847; Pub. L. 95–108, §2(b), Aug. 17, 1977, 91 Stat. 871; Pub. L. 95–164, title III, §302(b), Nov. 9, 1977, 91 Stat. 1319; Pub. L. 95–173, §9(b), Nov. 12, 1977, 91 Stat. 1360; Pub. L. 95–351, title III, §302, Aug. 20, 1978, 92 Stat. 514; Pub. L. 95–426, title I, §§114(b)(2), 115(b)(1), Oct. 7, 1978, 92 Stat. 969; Pub. L. 95–452, §10(a), Oct. 12, 1978, 92 Stat. 1108; Pub. L. 95–454, title II, §§202(c)(2), (3), title VII, §703(d), Oct. 13, 1978, 92 Stat. 1131, 1217; Pub. L. 95–630, title V, §502(e), Nov. 10, 1978, 92 Stat. 3681; Pub. L. 96–39, title XI, §1106(c)(4), July 26, 1979, 93 Stat. 312; Pub. L. 96–53, title IV, §412(b), Aug. 14, 1979, 93 Stat. 377; Pub. L. 96–54, §2(a)(25)(A), Aug. 14, 1979, 93 Stat. 382; Pub. L. 96–88, title V, §508(e), (g), Oct. 17, 1979, 93 Stat. 692; Pub. L. 96–107, title VIII, §820(e)(1), Nov. 9, 1979, 93 Stat. 819; Pub. L. 96–132, §5, Nov. 30, 1979, 93 Stat. 1045; Pub. L. 96–153, title VI, §603(b), Dec. 21, 1979, 93 Stat. 1138; Pub. L. 90–351, title I, §809, as added Pub. L. 96–157, §2, Dec. 27, 1979, 93 Stat. 1204; Pub. L. 96–302, title IV, §403, July 2, 1980, 94 Stat. 850; Pub. L. 96–511, §4(d), Dec. 11, 1980, 94 Stat. 2826; Pub. L. 97–31, §12(1)(B), Aug. 6, 1981, 95 Stat. 153; Pub. L. 97–35, title III,§396(h)(4), Aug. 13, 1981, 95 Stat. 441; Pub. L. 97–98, title XIV, §1414(b), Dec. 22, 1981, 95 Stat. 1303; Pub. L. 97–195, §1(b)(2), June 16, 1982, 96 Stat. 115; Pub. L. 97–252, title XI, §1117(d), Sept. 8, 1982, 96 Stat. 753; Pub. L. 97–325, §8(b), Oct. 15, 1982, 96 Stat. 1605; Pub. L. 97–449, §3(3), Jan. 12, 1983, 96 Stat. 2441; Pub. L. 98–80, §2(c)(1), Aug. 23, 1983, 97 Stat. 485; Pub. L. 98–94, title XII, §§1211(b), 1212(d), Sept. 24, 1983, 97 Stat. 686, 687; Pub. L. 98–164, title I, §125(b)(2), Nov. 22, 1983, 97 Stat. 1026; Pub. L. 98–202, §6(b), Dec. 2, 1983, 97 Stat. 1382; Pub. L. 98–216, §3(a)(3), Feb. 14, 1984, 98 Stat. 6; Pub. L. 98–369, title III, §2332(b), July 18, 1984, 98 Stat. 1089; Pub. L. 98–443, §9(e), Oct. 4, 1984, 98 Stat. 1707; Pub. L. 98–473, title II, §§609J(b), 1701(b), Oct. 12, 1984, 98 Stat. 2102, 2185; Pub. L. 98–594, §1(b), Oct. 30, 1984, 98 Stat. 3129; Pub. L. 99–64, title I, §116(c), July 12, 1985, 99 Stat. 153; Pub. L. 99–73, §6(b)(1), July 29, 1985, 99 Stat. 173; Pub. L. 99–93, title I, §115(b), title VII, §704(a)(2), Aug. 16, 1985, 99 Stat. 411, 445; Pub. L. 99–399, title I, §104(c), title IV, §§412(c), 413(e), formerly 413(a)(5), Aug. 27, 1986, 100 Stat. 856, 867, 868, as renumbered Pub. L. 100–204, title I, §134(b), Dec. 22, 1987, 101 Stat. 1344; Pub. L. 99–500, §101(c) \[title X, §903(b)(2)(B)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–132, and Pub. L. 99–591, §101(c) \[title X, §903(b)(2)(B)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–132; Pub. L. 99–619, §2(b)(2), Nov. 6, 1986, 100 Stat. 3491; Pub. L. 99–659, title IV, §407(e)(2), Nov. 14, 1986, 100 Stat. 3740; Pub. L. 99–661, div. A, title IX, formerly title IV, §903(b)(2)(B), Nov. 14, 1986, 100 Stat. 3912, as renumbered Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–204, title I, §178(a)(2), Dec. 22, 1987, 101 Stat. 1362; Pub. L. 100–297, title III, §3001(b)(2), Apr. 28, 1988, 102 Stat. 331; Pub. L. 100–418, title II, §2301(i), formerly §2301(h), title V, §5112(c)(2), Aug. 23, 1988, 102 Stat. 1341, 1431, as renumbered Pub. L. 102–429, title II, §203(b)(1), Oct. 21, 1992, 106 Stat. 2201; Pub. L. 100–485, title VI, §603(b), Oct. 13, 1988, 102 Stat. 2409; Pub. L. 100–504, title I, §103(a), Oct. 18, 1988, 102 Stat. 2521; Pub. L. 100–527, §13(f), Oct. 25, 1988, 102 Stat. 2643; Pub. L. 100–607, title V, §503(b)(2), Nov. 4, 1988, 102 Stat. 3121; Pub. L. 100–679, §11(d), Nov. 17, 1988, 102 Stat. 4070; Pub. L. 100–687, div. A, title II, §201(b)(1), Nov. 18, 1988, 102 Stat. 4109; Pub. L. 100–690, title I, §§1003(a)(4)(C), 1007(c)(4), title VII, §§7252(b)(3), 7608(e), Nov. 18, 1988, 102 Stat. 4182, 4188, 4436, 4517; Pub. L. 101–73, title V, §501(b)(2)(A), title VII, §742(a)(2), Aug. 9, 1989, 103 Stat. 393, 436; Pub. L. 101–189, div. A, title XI, §1112, Nov. 29, 1989, 103 Stat. 1554; Pub. L. 101–319, §3(a), July 3, 1990, 104 Stat. 290; Pub. L. 101–509, title V, §529 \[title I, §113(2)\], Nov. 5, 1990, 104 Stat. 1427, 1455; Pub. L. 101–512, title III, §318 \[title II, §202(a)(2)\], Nov. 5, 1990, 104 Stat. 1960, 1975; Pub. L. 101–576, title II, §207(c), Nov. 15, 1990, 104 Stat. 2846; Pub. L. 102–138, title I, §122(d)(1), Oct. 28, 1991, 105 Stat. 659; Pub. L. 102–180, §3(g), Dec. 2, 1991, 105 Stat. 1231; Pub. L. 102–183, title IV, §404, Dec. 4, 1991, 105 Stat. 1267; Pub. L. 102–190, div. A, title IX, §§901(b), 903(a)(1), div. C, title XXXV, §3504(a), Dec. 5, 1991, 105 Stat. 1450, 1451, 1586; Pub. L. 102–325, title XV, §1553(b), July 23, 1992, 106 Stat. 839; Pub. L. 102–359, §2(b)(1), Aug. 26, 1992, 106 Stat. 962; Pub. L. 102–552, title II, §201(b)(2), Oct. 28, 1992, 106 Stat. 4105; Pub. L. 103–123, title I, §108(a)(2), Oct. 28, 1993, 107 Stat. 1234; Pub. L. 103–160, div. A, title IX, §§902(a)(2), 903(c)(2), Nov. 30, 1993, 107 Stat. 1727, 1728; Pub. L. 103–171, §3(b)(1), Dec. 2, 1993, 107 Stat. 1991; Pub. L. 103–204, §23(b), Dec. 17, 1993, 107 Stat. 2408; Pub. L. 103–227, title II, §233(b), Mar. 31, 1994, 108 Stat. 155; Pub. L. 103–236, title I, §162(d)(2), title III, §307(b)(2), title VII, §708(b), Apr. 30, 1994, 108 Stat. 405, 436, 494; Pub. L. 103–272, §4(b)(2), July 5, 1994, 108 Stat. 1361; Pub. L. 103–296, title I, §§106(a)(7)(B), 108(e)(3), Aug. 15, 1994, 108 Stat. 1476, 1486; Pub. L. 103–333, title I, §106, Sept. 30, 1994, 108 Stat. 2548; Pub. L. 103–337, div. A, title IX, §901(b), Oct. 5, 1994, 108 Stat. 2822; Pub. L. 103–354, title II, §§218(d), 232(b)(3), Oct. 13, 1994, 108 Stat. 3212, 3219; Pub. L. 104–88, title III, §301(b), Dec. 29, 1995, 109 Stat. 943; Pub. L. 104–105, title II, §219(b)(2), Feb. 10, 1996, 110 Stat. 184; Pub. L. 104–106, div. A, title IX, §902(b), div. E, title LI, §5125(e), Feb. 10, 1996, 110 Stat. 401, 686; Pub. L. 104–127, title VII, §723(b), Apr. 4, 1996, 110 Stat. 1119; Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §709(b)(1)\], (f) \[title VI, §662(c)(1)\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–313, 3009–314, 3009–380; Pub. L. 104–293, title VIII, §§812(b), 813(c), Oct. 11, 1996, 110 Stat. 3482, 3483.)
 
 #### Amendment of Section
 
@@ -370,7 +422,9 @@ Act
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 (1)–(69)
 
@@ -468,9 +522,23 @@ Amendment by Pub. L. 94–237 to formerly designated par. (95) of this section h
 
 #### Amendments
 
-<b>1995</b>—Pub. L. 104–88 substituted “Members, Surface Transportation Board” for “Members, Interstate Commerce Commission”.
+1996—Pub. L. 104–293 inserted items relating to Assistant Directors of Central Intelligence and General Counsel of Central Intelligence Agency.
 
-<b>1994</b>—Pub. L. 103–354 substituted “(3)” for “(7)” in item relating to Assistant Secretaries of Agriculture and inserted item relating to Administrator, Rural Utilities Service, Department of Agriculture.
+Pub. L. 104–208, §101(f) \[title VI, §662(c)(1)\], inserted item relating to Inspector General, United States Postal Service.
+
+Pub. L. 104–208, §101(e) \[title VII, §709(b)(1)\], substituted “Museum and Library Services” for “Museum Services” after “Director of the Institute of”.
+
+Pub. L. 104–127 inserted item relating to Executive Director of the Alternative Agricultural Research and Commercialization Corporation.
+
+Pub. L. 104–106, §5125(e), inserted items relating to Chief Information Officer of Departments of Agriculture, Commerce, Defense, Education, Energy, Health and Human Services, Housing and Urban Development, Interior, Justice, Labor, State, Transportation, Treasury, and Veterans Affairs and Chief Information Officer of Environmental Protection Agency, National Aeronautics and Space Administration, Agency for International Development, Federal Emergency Management Agency, General Services Administration, National Science Foundation, Nuclear Regulatory Agency, Office of Personnel Management, and Small Business Administration.
+
+Pub. L. 104–106, §902(b), substituted “(10)” for “(11)” in item relating to Assistant Secretaries of Defense.
+
+Pub. L. 104–105 struck out item relating to Members, Board of Directors of the Farm Credit System Insurance Corporation.
+
+1995—Pub. L. 104–88 substituted “Members, Surface Transportation Board” for “Members, Interstate Commerce Commission”.
+
+1994—Pub. L. 103–354 substituted “(3)” for “(7)” in item relating to Assistant Secretaries of Agriculture and inserted item relating to Administrator, Rural Utilities Service, Department of Agriculture.
 
 Pub. L. 103–337 substituted “(11)” for “(10)” in item relating to Assistant Secretaries of Defense.
 
@@ -490,7 +558,7 @@ Pub. L. 103–236, §162(d)(2), directed insertion of item relating to 20 Assist
 
 Pub. L. 103–227 inserted item relating to Director of the Office of Educational Technology.
 
-<b>1993</b>—Pub. L. 103–204 inserted item relating to Inspector General, Federal Deposit Insurance Corporation.
+1993—Pub. L. 103–204 inserted item relating to Inspector General, Federal Deposit Insurance Corporation.
 
 Pub. L. 103–171 substituted “(6)” for “(5)” in item relating to Assistant Secretaries of Health and Human Services.
 
@@ -498,13 +566,13 @@ Pub. L. 103–160 substituted “(10)” for “(11)” in item relating to Assi
 
 Pub. L. 103–123 inserted item relating to Commissioner of Customs, Department of the Treasury.
 
-<b>1992</b>—Pub. L. 102–552 inserted item relating to Members, Board of Directors of the Farm Credit System Insurance Corporation.
+1992—Pub. L. 102–552 inserted item relating to Members, Board of Directors of the Farm Credit System Insurance Corporation.
 
 Pub. L. 102–359 substituted “(10)” for “(6)” in item relating to Assistant Secretaries of Education.
 
 Pub. L. 102–325 inserted item relating to Liaison for Community and Junior Colleges, Department of Education.
 
-<b>1991</b>—Pub. L. 102–190, §3504(a), inserted item relating to Administrator of the Panama Canal Commission.
+1991—Pub. L. 102–190, §3504(a), inserted item relating to Administrator of the Panama Canal Commission.
 
 Pub. L. 102–190, §903(a)(1), inserted items relating to General Counsels of the Departments of the Army, Navy, and Air Force.
 
@@ -516,7 +584,7 @@ Pub. L. 102–180 inserted item relating to Commissioner, Office of Navajo and H
 
 Pub. L. 102–138 inserted item relating to Assistant Secretary for South Asian Affairs, Department of State.
 
-<b>1990</b>—Pub. L. 101–576 inserted items relating to Chief Financial Officers of Departments of Agriculture, Commerce, Defense, Education, Energy, Health and Human Services, Housing and Urban Development, the Interior, Justice, Labor, State, Transportation, the Treasury, and Veterans Affairs and Chief Financial Officers of Environmental Protection Agency and National Aeronautics and Space Administration.
+1990—Pub. L. 101–576 inserted items relating to Chief Financial Officer of Departments of Agriculture, Commerce, Defense, Education, Energy, Health and Human Services, Housing and Urban Development, the Interior, Justice, Labor, State, Transportation, the Treasury, and Veterans Affairs and Chief Financial Officers of Environmental Protection Agency and National Aeronautics and Space Administration.
 
 Pub. L. 101–512 inserted item relating to Director of the Institute of Museum Services.
 
@@ -524,13 +592,13 @@ Pub. L. 101–509 inserted item relating to Director, Bureau of the Census, Depa
 
 Pub. L. 101–319 inserted item relating to Chairman, United States Parole Commission.
 
-<b>1989</b>—Pub. L. 101–189 substituted “(4)” for “(3)” in item relating to Assistant Secretaries of the Air Force.
+1989—Pub. L. 101–189 substituted “(4)” for “(3)” in item relating to Assistant Secretaries of the Air Force.
 
 Pub. L. 101–73, §742(a)(2), substituted “Directors, Federal Housing Finance Board” for “Members, Federal Home Loan Bank Board”.
 
 Pub. L. 101–73, §501(b)(2)(A), inserted item relating to Inspector General, Resolution Trust Corporation.
 
-<b>1988</b>—Pub. L. 100–690, §7608(e), inserted item relating to Director, United States Marshals Service.
+1988—Pub. L. 100–690, §7608(e), inserted item relating to Director, United States Marshals Service.
 
 Pub. L. 100–690, §7252(b)(3), inserted item relating to Administrator, Office of Juvenile Justice and Delinquency Prevention.
 
@@ -546,7 +614,7 @@ Pub. L. 100–607 inserted item relating to Commissioner of Food and Drugs, Depa
 
 Pub. L. 100–527 substituted “Inspector General, Department of Veterans Affairs” for “Inspector General, Veterans’ Administration” and inserted items relating to Assistant Secretaries, Department of Veterans Affairs (6), General Counsel, Department of Veterans Affairs, and Director of the National Cemetery System.
 
-Pub. L. 100–504 inserted items relating to Inspectors General for Departments of Commerce, Interior, Justice, and Treasury and for following agencies: Agency for International Development, Environmental Protection Agency, Federal Emergency Management Agency, General Services Administration, National Aeronautics and Space Administration, Nuclear Regulatory Commission, Office of Personnel Management, Railroad Retirement Board, and Small Business Administration.
+Pub. L. 100–504 inserted items relating to Inspector General for Departments of Commerce, Interior, Justice, and Treasury and for following agencies: Agency for International Development, Environmental Protection Agency, Federal Emergency Management Agency, General Services Administration, National Aeronautics and Space Administration, Nuclear Regulatory Commission, Office of Personnel Management, Railroad Retirement Board, and Small Business Administration.
 
 Pub. L. 100–485 substituted “(5)” for “(4)” in item relating to Assistant Secretaries of Health and Human Services.
 
@@ -556,9 +624,9 @@ Pub. L. 100–418, §2301(h), inserted item relating to Assistant Secretary of C
 
 Pub. L. 100–297 inserted item relating to Commissioner, National Center for Education Statistics.
 
-<b>1987</b>—Pub. L. 100–204 inserted item relating to Ambassadors at Large.
+1987—Pub. L. 100–204 inserted item relating to Ambassadors at Large.
 
-<b>1986</b>—Pub. L. 99–619 substituted “Assistant Secretaries of Labor (10), one of whom shall be the Assistant Secretary of Labor for Veterans’ Employment and Training” for “Assistant Secretaries of Labor (5)”.
+1986—Pub. L. 99–619 substituted “Assistant Secretaries of Labor (10), one of whom shall be the Assistant Secretary of Labor for Veterans’ Employment and Training” for “Assistant Secretaries of Labor (5)”.
 
 Pub. L. 99–659 substituted “Assistant Secretary of Commerce for Oceans and Atmosphere, the incumbent of which also serves as Deputy Administrator of the National Oceanic and Atmospheric Administration” for “Deputy Administrator, National Oceanic and Atmospheric Administration” and struck out item relating to Associate Administrator, National Oceanic and Atmospheric Administration.
 
@@ -568,7 +636,7 @@ Pub. L. 99–399, §104(c), substituted “(15)” for “(14)” in item relati
 
 Pub. L. 99–399, §§412(c), 413(e), formerly §413(a)(5), as renumbered by Pub. L. 100–204, §134(b), inserted items relating to Inspector General, United States Information Agency, and Inspector General, Department of State.
 
-<b>1985</b>—Pub. L. 99–93, §704(a)(2)(A), struck out item relating to Deputy Director of United States Arms Control and Disarmament Agency.
+1985—Pub. L. 99–93, §704(a)(2)(A), struck out item relating to Deputy Director of United States Arms Control and Disarmament Agency.
 
 Pub. L. 99–93, §704(a)(2)(B), inserted item relating to Assistant Directors, United States Arms Control and Disarmament Agency (4).
 
@@ -580,7 +648,7 @@ Pub. L. 99–73 inserted item relating to Director, National Bureau of Standards
 
 Pub. L. 99–64 substituted “(11)” for “(8)” in item relating to Assistant Secretaries of Commerce.
 
-<b>1984</b>—Pub. L. 98–594 substituted “(7)” for “(5)” in item relating to Assistant Secretaries of the Treasury.
+1984—Pub. L. 98–594 substituted “(7)” for “(5)” in item relating to Assistant Secretaries of the Treasury.
 
 Pub. L. 98–473, §1701(b), struck out items relating to United States Attorney for Southern District of New York, United States Attorney for District of Columbia, United States Attorney for Northern District of Illinois, and United States Attorney for Central District of California.
 
@@ -592,7 +660,7 @@ Pub. L. 98–369 inserted item relating to Administrator of Health Care Financin
 
 Pub. L. 98–216 substituted “Assistant Directors of Office of Management and Budget (3)” for “Assistant Directors of the Bureau of the Budget (3)”.
 
-<b>1983</b>—Pub. L. 98–202, §6(b)(1), inserted item relating to two Special Representatives for Arms Control and Disarmament Negotiations, United States Arms Control and Disarmament Agency.
+1983—Pub. L. 98–202, §6(b)(1), inserted item relating to two Special Representatives for Arms Control and Disarmament Negotiations, United States Arms Control and Disarmament Agency.
 
 Pub. L. 98–202, §6(b)(2), struck out item relating to Special Representative for Arms Control and Disarmament Negotiations, United States Arms Control and Disarmament Agency.
 
@@ -610,23 +678,23 @@ Pub. L. 98–80 inserted items relating to Assistant Administrator for Toxic Sub
 
 Pub. L. 97–449 substituted “Deputy Federal Highway Administrator” for “Director of Public Roads”.
 
-<b>1982</b>—Pub. L. 97–325 substituted “(7)” for “(6)” in item relating to Assistant Secretaries of Agriculture.
+1982—Pub. L. 97–325 substituted “(7)” for “(6)” in item relating to Assistant Secretaries of Agriculture.
 
 Pub. L. 97–252 inserted item relating to Inspector General, Department of Defense.
 
 Pub. L. 97–195 substituted “(8)” for “(7)” in item relating to Assistant Secretaries of Commerce.
 
-<b>1981</b>—Pub. L. 97–98 substituted “(6)” for “(5)” in item relating to Assistant Secretaries of Agriculture.
+1981—Pub. L. 97–98 substituted “(6)” for “(5)” in item relating to Assistant Secretaries of Agriculture.
 
 Pub. L. 97–35 struck out item relating to Director, Office of Self-Help Development and Technical Assistance, National Consumer Cooperative Bank.
 
 Pub. L. 97–31 substituted “(7)” for “(8)” in item relating to Assistant Secretaries of Commerce.
 
-<b>1980</b>—Pub. L. 96–511 inserted item relating to Administrator, Office of Information and Regulatory Affairs, Office of Management and Budget.
+1980—Pub. L. 96–511 inserted item relating to Administrator, Office of Information and Regulatory Affairs, Office of Management and Budget.
 
 Pub. L. 96–302 inserted item relating to Chief Counsel for Advocacy, Small Business Administration.
 
-<b>1979</b>—Pub. L. 96–157 inserted items relating to Administrator of Law Enforcement Assistance, Director of National Institute of Justice, and Director of Bureau of Justice Statistics, and struck out items relating to Deputy Administrator for Policy Development and Deputy Administrator for Administration of Law Enforcement Assistance Administration.
+1979—Pub. L. 96–157 inserted items relating to Administrator of Law Enforcement Assistance, Director of National Institute of Justice, and Director of Bureau of Justice Statistics, and struck out items relating to Deputy Administrator for Policy Development and Deputy Administrator for Administration of Law Enforcement Assistance Administration.
 
 Pub. L. 96–88, §508(g), substituted “Health and Human Services” for “Health, Education, and Welfare” in items relating to General Counsel of Department of Health and Human Services, Commissioner of Social Security, Department of Health and Human Services, and Inspector General, Department of Health and Human Services.
 
@@ -646,7 +714,7 @@ Par. (91). Pub. L. 96–153 substituted “Federal Emergency Management Agency�
 
 Par. (128). Pub. L. 96–53 added par. (128) relating to Deputy Director, Institute for Scientific and Technological Cooperation.
 
-<b>1978</b>—Par. (10). Pub. L. 95–426, §114(b)(2), struck out par. (10) relating to Deputy Under Secretary of State.
+1978—Par. (10). Pub. L. 95–426, §114(b)(2), struck out par. (10) relating to Deputy Under Secretary of State.
 
 Par. (66). Pub. L. 95–454, §202(c)(2), substituted “Merit Systems Protection Board” for “United States Civil Service Commission”.
 
@@ -670,7 +738,7 @@ Pub. L. 95–452 added par. (124) relating to Inspector General, Department of H
 
 Pars. (125) to (127). Pub. L. 95–452 added pars. (125) to (127) relating to Inspectors General for Department of Labor, Department of Transportation, and Veterans’ Administration, respectively.
 
-<b>1977</b>—Par. (1). Pub. L. 95–105, §109(d)(1), struck out par. (1) relating to Administrator, Bureau of Security and Consular Affairs, Department of State.
+1977—Par. (1). Pub. L. 95–105, §109(d)(1), struck out par. (1) relating to Administrator, Bureau of Security and Consular Affairs, Department of State.
 
 Par. (12). Pub. L. 95–173 substituted “(8)” for “(6)” in par. (12) relating to Assistant Secretaries of Commerce.
 
@@ -688,7 +756,7 @@ Pars. (114) to (119). Pub. L. 95–91 added pars. (114) to (119) relating to Ass
 
 Pars. (120), (121). Pub. L. 95–164 added pars. (120) and (121) relating to Assistant Secretary of Labor for Mine Safety and Health and Members, Federal Mine Safety and Health Review Commission, respectively.
 
-<b>1976</b>—Par. (11). Pub. L. 94–561 substituted “(5)” for “(4)” in par. (11) relating to Assistant Secretaries of Agriculture.
+1976—Par. (11). Pub. L. 94–561 substituted “(5)” for “(4)” in par. (11) relating to Assistant Secretaries of Agriculture.
 
 Par. (96). Pub. L. 94–237 substituted “Deputy Director of the Office of Drug Abuse Policy” for “Deputy Director of the Special Action Office for Drug Abuse Prevention”.
 
@@ -704,7 +772,7 @@ Pub. L. 94–503 added par. (110) relating to United States Attorney for Norther
 
 Pars. (111) to (113). Pub. L. 94–503 added pars. (111) to (113) relating to United States Attorney for Central District of California, Director, Bureau of Prisons, Department of Justice, and Deputy Administrator for Administration of the Law Enforcement Assistance Administration, respectively.
 
-<b>1975</b>—Pub. L. 94–82 substituted provisions applying level IV of Executive Schedule to positions for which annual rate of basic pay shall be rate determined withrespect to such level under chapter 11 of title 2, as adjusted by section 5318 of this title, for provisions applying such level IV to positions for which annual rate of basic pay is $28,750.
+1975—Pub. L. 94–82 substituted provisions applying level IV of Executive Schedule to positions for which annual rate of basic pay shall be rate determined with respect to such level under chapter 11 of title 2, as adjusted by section 5318 of this title, for provisions applying such level IV to positions for which annual rate of basic pay is $28,750.
 
 Par. (24). Pub. L. 93–618 substituted “Members, United States International Trade Commission” for “Chairman of the United States Tariff Commission”.
 
@@ -712,7 +780,7 @@ Par. (31). Pub. L. 94–123 repealed par. (31) relating to Deputy Chief Medical 
 
 Pars. (93) to (107). Pub. L. 94–183 redesignated par. (92) Administrator of the National Credit Union Administration, par. (93) Members, Postal Rate Commission, par. (94) Members, Occupational Safety and Health Review Commission, par. (95) Deputy Director of the Special Action Office for Drug Abuse Prevention, par. (96) Deputy Under Secretaries of the Treasury (or Assistant Secretaries of the Treasury), par. (97) Members, Consumer Product Safety Commission, par. (97) Commissioner of Social Security, Department of Health, Education, and Welfare, par. (99) Assistant Secretary for Oceans and International Environmental and Scientific Affairs, Department of State, par. (100) Administrator for Federal Procurement Policy, par. (100) Assistant Administrators, Energy Research and Development Administration, par. (100) Members, Commodity Futures Trading Commission, par. (101) Director of Nuclear Reactor Regulation, Nuclear Regulatory Commission, par. (102) Director of Nuclear Material Safety and Safeguards, Nuclear Regulatory Commission, par. (103) Director of Nuclear Regulatory Research, Nuclear Regulatory Commission, par. (104) Executive Director for Operations, Nuclear Regulatory Commission, as pars. (93) to (107), respectively.
 
-<b>1974</b>—Par. (50). Pub. L. 93–438 struck out par. (50) relating to General Manager of Atomic Energy Commission.
+1974—Par. (50). Pub. L. 93–438 struck out par. (50) relating to General Manager of Atomic Energy Commission.
 
 Par. (87). Pub. L. 93–383 increased number of Assistant Secretaries of Housing and Urban Development from 6 to 8.
 
@@ -726,9 +794,9 @@ Pub. L. 93–400 added par. (100) relating to Administrator for Federal Procurem
 
 Pars. (101) to (104). Pub. L. 93–438 added pars. (101) to (104) relating to Director of Nuclear Reactor Regulation, Director of Nuclear Material Safety and Safeguards, Director of Nuclear Regulatory Research, and Executive Director for Operations, respectively, of Nuclear Regulatory Commission.
 
-<b>1973</b>—Par. (90). Pub. L. 93–83 substituted “Deputy Administrator for Policy Development of the Law Enforcement Assistance Administration” for “Associate Administrator of Law Enforcement Assistance (2)”.
+1973—Par. (90). Pub. L. 93–83 substituted “Deputy Administrator for Policy Development of the Law Enforcement Assistance Administration” for “Associate Administrator of Law Enforcement Assistance (2)”.
 
-<b>1972</b>—Par. (10). Pub. L. 92–352 substituted “Secretary of State” for “Secretaries of State (2)”.
+1972—Par. (10). Pub. L. 92–352 substituted “Secretary of State” for “Secretaries of State (2)”.
 
 Par. (11). Pub. L. 92–419 substituted “(4)” for “(3)” in par. (11) relating to Assistant Secretaries of Agriculture.
 
@@ -744,7 +812,7 @@ Par. (97). Pub. L. 92–603 added par. (97) relating to Commissioner of Social S
 
 Pub. L. 92–573 added par. (97) relating to Members, Consumer Product Safety Commission (4).
 
-<b>1971</b>—Par. (13). Pub. L. 92–215 substituted “(9)” for “(8)” in par. (13) relating to Assistant Secretaries of Defense.
+1971—Par. (13). Pub. L. 92–215 substituted “(9)” for “(8)” in par. (13) relating to Assistant Secretaries of Defense.
 
 Par. (18). Pub. L. 92–22 substituted “(6)” for “(5)” in par. (18) relating to Assistant Secretaries of the Interior.
 
@@ -752,7 +820,7 @@ Par. (51). Pub. L. 92–181 struck out par. (51) relating to Governor of Farm Cr
 
 Par. (90). Pub. L. 91–644, §7(1), (2), in amending section 505 of Pub. L. 90–351, struck out par. (90) “Administrator of Law Enforcement Assistance”, renumbered as par. (55) of section 5314 of this title, and renumbered par. (126) “Associate Administrator of Law Enforcement Assistance (2)” of section 5316 of this title as par. (90) of this section, respectively.
 
-<b>1970</b>—Par. (12). Pub. L. 91–477 substituted “(6)” for “(5)” in par. (12) relating to Assistant Secretaries of Commerce. Pub. L. 91–469 also substituted “(6)” for “(5)” in par. (12). Thus, the correct figure in par. (12) presumably should be seven. See amendment of par. (12) by Pub. L. 95–173 above.
+1970—Par. (12). Pub. L. 91–477 substituted “(6)” for “(5)” in par. (12) relating to Assistant Secretaries of Commerce. Pub. L. 91–469 also substituted “(6)” for “(5)” in par. (12). Thus, the correct figure in par. (12) presumably should be seven. See amendment of par. (12) by Pub. L. 95–173 above.
 
 Par. (15). Pub. L. 91–611 substituted “(5)” for “(4)” in par. (15) relating to Assistant Secretaries of the Army.
 
@@ -766,11 +834,11 @@ Par. (93). Pub. L. 91–375, §6(c)(14)(B), added par. (93) relating to Members,
 
 Par. (94). Pub. L. 91–596, §12(c)(2), added par. (94) relating to Members, Occupational Safety and Health Review Commission.
 
-<b>1969</b>—Par. (13). Pub. L. 91–121 substituted “(8)” for “(7)” in par. (13) relating to Assistant Secretaries of Defense.
+1969—Par. (13). Pub. L. 91–121 substituted “(8)” for “(7)” in par. (13) relating to Assistant Secretaries of Defense.
 
 Par. (92). Pub. L. 91–175 added par. (92) relating to Executive Vice President, Overseas Private Investment Corporation.
 
-<b>1968</b>—Pars. (14) to (16). Pub. L. 90–623 substituted “(4)” for “(3)” in pars. (14) to (16) relating to Assistant Secretaries of Air Force, Army, and Navy respectively.
+1968—Pars. (14) to (16). Pub. L. 90–623 substituted “(4)” for “(3)” in pars. (14) to (16) relating to Assistant Secretaries of Air Force, Army, and Navy respectively.
 
 Par. (87). Pub. L. 90–448, §1708(b), substituted “(6)” for “(4)” in par. (87) relating to Assistant Secretaries of Housing and Urban Development.
 
@@ -778,9 +846,9 @@ Par. (90). Pub. L. 90–351 added par. (90) relating to Administrator of Law Enf
 
 Par. (91). Pub. L. 90–448, §1105(b), added par. (91) relating to Federal Insurance Administrator, Department of Housing and Urban Development.
 
-<b>1967</b>—Pub. L. 90–206 increased annual rate of basic pay from $27,000 to $28,750.
+1967—Pub. L. 90–206 increased annual rate of basic pay from $27,000 to $28,750.
 
-<b>1966</b>—Pub. L. 89–779 added par. (78) relating to Deputy Administrator of Small Business Administration.
+1966—Pub. L. 89–779 added par. (78) relating to Deputy Administrator of Small Business Administration.
 
 Pub. L. 89–734 added par. (78) relating to Assistant Secretary for Science, Smithsonian Institution, and par. (79) relating to Assistant Secretary for History and Art, Smithsonian Institution.
 
@@ -789,6 +857,10 @@ Pub. L. 89–670 added par. (78) relating to Members, National Transportation Sa
 #### Change of Name
 
 “Export-Import Bank of Washington”, referred to in items relating to First Vice President and Members, was changed to “Export-Import Bank of the United States” in the Export-Import Bank Act of 1945, section 635 et seq. of Title 12, Banks and Banking, as provided for in section 1(a) of Pub. L. 90–267, Mar. 13, 1968, 82 Stat. 47.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by section 5125(e) of Pub. L. 104–106 effective 180 days after Feb. 10, 1996, see section 5701 of Pub. L. 104–106, set out as an Effective Date note under section 1401 of Title 40, Public Buildings, Property, and Works.
 
 #### Effective Date of 1995 Amendment
 
@@ -878,7 +950,7 @@ Amendment by Pub. L. 97–35 effective on day after Final Government Equity Rede
 
 #### Effective Date of 1980 Amendments
 
-Amendment by Pub. L. 96–511 effective Apr. 1, 1981, see section 5 of Pub. L. 96–511, set out as an EffectiveDate note under section 3501 of Title 44, Public Printing and Documents.
+Amendment by Pub. L. 96–511 effective Apr. 1, 1981, see section 5 of Pub. L. 96–511, set out as a note under section 2904 of Title 44, Public Printing and Documents.
 
 Amendment by Pub. L. 96–302 effective Oct. 1, 1980, see section 507 of Pub. L. 96–302, set out as a note under section 631 of Title 15, Commerce and Trade.
 
@@ -964,6 +1036,10 @@ United States Information Agency, including Office of Deputy Director, referred 
 
 One of the 6 positions of Assistant Administrator, Agency for International Development, provided for in this section, was abolished by Reorg. Plan No. 2 of 1979, §7, 44 F.R. 41165, 93 Stat. 1378, set out in the Appendix to this title.
 
+#### Inspector General, United States Postal Service
+
+Section 101(f) \[title VI, §662(c)(1)\] of Pub. L. 104–208 provided in part that: “The amendment made by the preceding sentence \[amending this section\] shall applynotwithstanding section 410 or any other provision of title 39, United States Code.”
+
 #### Compensation of Deputy Administrator of Drug Enforcement Administration
 
 Section 6153(c) of Pub. L. 100–690 provided that: “The Deputy Administrator of the Drug Enforcement Administration shall receive compensation at the rate now or hereafter prescribed by law for positions of Level IV of the Executive Schedule Pay Rate (5 U.S.C. 5315).”
@@ -978,59 +1054,61 @@ Position of Associate Director of Federal Bureau of Investigation placed tempora
 
 #### Salary Increases
 
-<b>1996</b>—Salaries of positions at level IV continued at $115,700 per annum by Ex. Ord. No. 12984, Dec. 28, 1995, 61 F.R. 237, set out as a note under section 5332 of this title.
+1997—Salaries of positions at level IV continued at $115,700 per annum by Ex. Ord. No. 13033, Dec. 27, 1996, 61 F.R. 68987, set out as a note under section 5332 of this title.
 
-<b>1995</b>—Salaries of positions at level IV continued at $115,700 per annum by Ex. Ord. No. 12944, Dec. 28, 1994, 60 F.R. 309.
+1996—Salaries of positions at level IV continued at $115,700 per annum by Ex. Ord. No. 12984, Dec. 28, 1995, 61 F.R. 237.
 
-<b>1993</b>—Salaries of positions at level IV increased to $115,700 per annum, effective on the first day of the first pay period beginning on or after Jan. 1, 1993, as provided by Ex. Ord. No. 12826, Dec. 30, 1992, 57 F.R. 62909.
+1995—Salaries of positions at level IV continued at $115,700 per annum by Ex. Ord. No. 12944, Dec. 28, 1994, 60 F.R. 309.
 
-<b>1992</b>—Salaries of positions at level IV increased to $112,100 per annum, effective on the first day of the first pay period beginning on or after Jan. 1, 1992, as provided by Ex. Ord. No. 12786, Dec. 26, 1991, 56 F.R. 67453.
+1993—Salaries of positions at level IV increased to $115,700 per annum, effective on the first day of the first pay period beginning on or after Jan. 1, 1993, as provided by Ex. Ord. No. 12826, Dec. 30, 1992, 57 F.R. 62909.
 
-<b>1991</b>—Salaries of positions at level IV increased to $108,300 per annum, effective on the first day of the first pay period beginning on or after Jan. 1, 1991, as provided by Ex. Ord. No. 12736, Dec. 12, 1990, 55 F.R. 51385.
+1992—Salaries of positions at level IV increased to $112,100 per annum, effective on the first day of the first pay period beginning on or after Jan. 1, 1992, as provided by Ex. Ord. No. 12786, Dec. 26, 1991, 56 F.R. 67453.
 
-<b>1990</b>—Salaries of positions at level IV increased to $83,600 per annum, effective on the first day of the first pay period beginning on or after Jan. 1, 1990, and continued at that rate by Ex. Ord. No. 12698, Dec. 23, 1989, 54 F.R. 53473.
+1991—Salaries of positions at level IV increased to $108,300 per annum, effective on the first day of the first pay period beginning on or after Jan. 1, 1991, as provided by Ex. Ord. No. 12736, Dec. 12, 1990, 55 F.R. 51385.
 
-<b>1989</b>—Salaries of positions at level IV increased to $80,700 per annum, effective on the first day of the first pay period beginning on or after Jan. 1, 1989, see Ex. Ord. No. 12663, Jan. 6, 1989, 54 F.R. 791.
+1990—Salaries of positions at level IV increased to $83,600 per annum, effective on the first day of the first pay period beginning on or after Jan. 1, 1990, and continued at that rate by Ex. Ord. No. 12698, Dec. 23, 1989, 54 F.R. 53473.
 
-<b>1988</b>—Salaries of positions at level IV continued at $77,500 per annum by Ex. Ord. No. 12622, Dec. 31, 1987, 53 F.R. 222.
+1989—Salaries of positions at level IV increased to $80,700 per annum, effective on the first day of the first pay period beginning on or after Jan. 1, 1989, see Ex. Ord. No. 12663, Jan. 6, 1989, 54 F.R. 791.
 
-<b>1987</b>—Salaries of positions at level IV increased to $77,500 per annum, on recommendation of the President of the United States, see note set out under section 358 of Title 2, The Congress.
+1988—Salaries of positions at level IV continued at $77,500 per annum by Ex. Ord. No. 12622, Dec. 31, 1987, 53 F.R. 222.
+
+1987—Salaries of positions at level IV increased to $77,500 per annum, on recommendation of the President of the United States, see note set out under section 358 of Title 2, The Congress.
 
 Salaries of positions at level IV increased to $74,500 per annum, effective on the first day of the first pay period beginning on or after Jan. 1, 1987, as provided by Ex. Ord. No. 12578, Dec. 31, 1986, 52 F.R. 505.
 
-<b>1985</b>—Salaries of positions at level IV increased to $72,300 per annum, effective on the first day of the first pay period beginning on or after Jan. 1, 1985, as provided by Ex. Ord. No. 12496, Dec. 28, 1984, 50 F.R. 211, as amended by Ex. Ord. No. 12540, Dec. 30, 1985, 51 F.R. 577.
+1985—Salaries of positions at level IV increased to $72,300 per annum, effective on the first day of the first pay period beginning on or after Jan. 1, 1985, as provided by Ex. Ord. No. 12496, Dec. 28, 1984, 50 F.R. 211, as amended by Ex. Ord. No. 12540, Dec. 30, 1985, 51 F.R. 577.
 
-<b>1984</b>—Salaries of positions at level IV increased to $69,900 per annum, effective on the first day of the first pay period beginning on or after Jan. 1, 1984, as provided by Ex. Ord. No. 12456, Dec. 30, 1983, 49 F.R. 347, as amended Ex. Ord. No. 12477, May 23, 1984, 49 F.R. 22041; Ex. Ord. No. 12487, Sept. 14, 1984, 49 F.R. 36493.
+1984—Salaries of positions at level IV increased to $69,900 per annum, effective on the first day of the first pay period beginning on or after Jan. 1, 1984, as provided by Ex. Ord. No. 12456, Dec. 30, 1983, 49 F.R. 347, as amended Ex. Ord. No. 12477, May 23, 1984, 49 F.R. 22041; Ex. Ord. No. 12487, Sept. 14, 1984, 49 F.R. 36493.
 
-<b>1982</b>—Salaries of positions at level IV increased to $67,200 per annum, effective on the first day of the first pay period beginning on or after Oct. 1, 1982, as provided by Ex. Ord. No. 12387, Oct. 8, 1982, 47 F.R. 44981. Ex. Ord. No. 12387 further provided that pursuant to section 101(e) of Pub. L. 97–276 funds are not available to pay a salary at a rate which exceeds the rate in effect on Sept. 30, 1982, which was $58,500.00
+1982—Salaries of positions at level IV increased to $67,200 per annum, effective on the first day of the first pay period beginning on or after Oct. 1, 1982, as provided by Ex. Ord. No. 12387, Oct. 8, 1982, 47 F.R. 44981. Ex. Ord. No. 12387 further provided that pursuant to section 101(e) of Pub. L. 97–276 funds are not available to pay a salary at a rate which exceeds the rate in effect on Sept. 30, 1982, which was $58,500.00
 
 Maximum rate payable after Dec. 17, 1982, increased from $58,500.00 to $67,200.00, see Pub. L. 97–377, title I, §129(b)–(d), Dec. 21, 1982, 96 Stat. 1914, set out as a note under section 5318 of this title.
 
 Limitations on use of funds for fiscal year ending Sept. 30, 1983, appropriated by any Act to pay the salary or pay of any individual in legislative, executive, or judicial branch in position equal to or above level V of the Executive Schedule, see section 101(e) of Pub. L. 97–276, as amended, set out as a note under section 5318 of this title.
 
-<b>1981</b>—Salaries of positions at level IV increased to $64,600 per annum, effective on the first day of the first pay period beginning on or after Oct. 1, 1981, as provided by Ex. Ord. No. 12330, Oct. 15, 1981, 46 F.R. 50921. Ex. Ord. No. 12330 further provided that pursuant to section 101(c) of Pub. L. 97–51 funds are not available to pay a salary at a rate which exceeds the rate in effect on Sept. 30, 1981, which was $52,750.00.
+1981—Salaries of positions at level IV increased to $64,600 per annum, effective on the first day of the first pay period beginning on or after Oct. 1, 1981, as provided by Ex. Ord. No. 12330, Oct. 15, 1981, 46 F.R. 50921. Ex. Ord. No. 12330 further provided that pursuant to section 101(c) of Pub. L. 97–51 funds are not available to pay a salary at a rate which exceeds the rate in effect on Sept. 30, 1981, which was $52,750.00.
 
 Limitations on use of funds for fiscal year ending Sept. 30, 1982, appropriated by any Act to pay the salary or pay of any individual in legislative, executive, or judicial branch in position equal to or above level V of the Executive Schedule, see sections 101(g) and 141 of Pub. L. 97–92, set out as a note under section 5318 of this title.
 
-<b>1980</b>—Salaries of positions at level IV increased to $61,600 per annum, effective on the first day of the first pay period beginning on or after Oct. 1, 1980, as provided by Ex. Ord. No. 12248, Oct. 16, 1980, 45 F.R. 69199. Ex. Ord. No. 12248, further provided that pursuant to section 101(c) of Pub. L. 96–369, funds are not available to pay a salary at a rate which exceeds the rate in effect on Sept. 30, 1980, which was $52,750.
+1980—Salaries of positions at level IV increased to $61,600 per annum, effective on the first day of the first pay period beginning on or after Oct. 1, 1980, as provided by Ex. Ord. No. 12248, Oct. 16, 1980, 45 F.R. 69199. Ex. Ord. No. 12248, further provided that pursuant to section 101(c) of Pub. L. 96–369, funds are not available to pay a salary at a rate which exceeds the rate in effect on Sept. 30, 1980, which was $52,750.
 
 Limitations on use of funds for fiscal year ending Sept. 30, 1981, appropriated by any Act to pay the salary or pay of any individual in legislative, executive, or judicial branch in position equal to or above level V of the Executive Schedule, see section 101(c) of Pub. L. 96–536, as amended, set out as a note under section 5318 of this title.
 
-<b>1979</b>—Salaries of positions at level IV increased to $56,500 per annum, effective on the first day of the first pay period beginning on or after Oct. 1, 1979, as provided by Ex. Ord. No. 12165, Oct. 9, 1979, 44 F.R. 58671, as amended by Ex. Ord. No. 12200, Mar. 12, 1980, 45 F.R. 16443. Ex. Ord. No. 12165 further provided that pursuant to section 101(c) of Pub. L. 96–86 funds appropriated for fiscal year 1980 may not be used to pay a salary at a rate which exceeds an increase of 5.5 percent over the rate in effect on Sept. 30, 1978, which is a maximum rate payable of $52,750.
+1979—Salaries of positions at level IV increased to $56,500 per annum, effective on the first day of the first pay period beginning on or after Oct. 1, 1979, as provided by Ex. Ord. No. 12165, Oct. 9, 1979, 44 F.R. 58671, as amended by Ex. Ord. No. 12200, Mar. 12, 1980, 45 F.R. 16443. Ex. Ord. No. 12165 further provided that pursuant to section 101(c) of Pub. L. 96–86 funds appropriated for fiscal year 1980 may not be used to pay a salary at a rate which exceeds an increase of 5.5 percent over the rate in effect on Sept. 30, 1978, which is a maximum rate payable of $52,750.
 
 Applicability to funds appropriated by any Act for fiscal year ending Sept. 30, 1980, of limitation of section 304 of Pub. L. 95–391 on use of funds to pay the salary or pay of any individual in legislative, executive, or judicial branch in position equal to or above level V of the Executive Schedule, see section 101 of Pub. L. 96–86, set out as a note under section 5318 of this title.
 
-<b>1978</b>—Salaries of positions at level IV increased to $52,800 per annum, effective in the first pay period beginning on or after Oct. 1, 1978, as provided by Ex. Ord. No. 12087, Oct. 7, 1978, 43 F.R. 46823. Ex. Ord. No. 12087, further provided that pursuant to the Legislative Branch Appropriation Act, 1979, funds are not available to pay a salary at a rate which exceeds the rate in effect on Sept. 30, 1978, which was $50,000.
+1978—Salaries of positions at level IV increased to $52,800 per annum, effective in the first pay period beginning on or after Oct. 1, 1978, as provided by Ex. Ord. No. 12087, Oct. 7, 1978, 43 F.R. 46823. Ex. Ord. No. 12087, further provided that pursuant to the Legislative Branch Appropriation Act, 1979, funds are not available to pay a salary at a rate which exceeds the rate in effect on Sept. 30, 1978, which was $50,000.
 
-Limitations on use of funds for fiscal year ending Sept. 30, 1979, appropriated by any Act to pay the salary or pay of any individual in legislative, executive, or judicial branch in position equal or above level V of the Executive Schedule, see section 304 of Pub. L. 95–391 and section 613 of Pub. L. 95–429, set out as a note under section 5318 of this title.
+Limitations on use of funds for fiscal year ending Sept. 30, 1979, appropriated by any Act to pay the salary or pay of any individual in legislative, executive, or judicial branch in position equal or above level V of the Executive Schedule, see section 304 of Pub. L. 95–391and section 613 of Pub. L. 95–429, set out as a note under section 5318 of this title.
 
-<b>1977</b>—Salaries of positions at level IV increased to $50,000 per annum, on recommendation of the President of the United States, see note set out under section 358 of Title 2, The Congress.
+1977—Salaries of positions at level IV increased to $50,000 per annum, on recommendation of the President of the United States, see note set out under section 358 of Title 2, The Congress.
 
-<b>1976</b>—Salaries of positions at level IV increased to $41,800 per annum, effective on the first day of the first pay period beginning on or after Oct. 1, 1976, see Ex. Ord. No. 11941, Oct. 1, 1976, 41 F.R. 43889. Ex. Ord. No. 11941, further provided that pursuant to the Legislative Branch Appropriation Act, 1977, funds are not available to pay a salary at a rate which exceeds the rate in effect on Sept. 30, 1976, which was $39,900.
+1976—Salaries of positions at level IV increased to $41,800 per annum, effective on the first day of the first pay period beginning on or after Oct. 1, 1976, see Ex. Ord. No. 11941, Oct. 1, 1976, 41 F.R. 43889. Ex. Ord. No. 11941, further provided that pursuant to the Legislative Branch Appropriation Act, 1977, funds are not available to pay a salary at a rate which exceeds the rate in effect on Sept. 30, 1976, which was $39,900.
 
-<b>1975</b>—Salaries of positions at level IV increased to $39,900 per annum, effective on the first day of the first pay period beginning on or after Oct. 1, 1975, by Ex. Ord. No. 11883, Oct. 6, 1975, 40 F.R. 47091.
+1975—Salaries of positions at level IV increased to $39,900 per annum, effective on the first day of the first pay period beginning on or after Oct. 1, 1975, by Ex. Ord. No. 11883, Oct. 6, 1975, 40 F.R. 47091.
 
-<b>1969</b>—Salaries of positions at level IV increased from $28,750 to $38,000 per annum, commencing on the first day of the pay period which begins after February 14, 1969, on recommendation of the President of the United States, see note set out under section 358 of Title 2, The Congress.
+1969—Salaries of positions at level IV increased from $28,750 to $38,000 per annum, commencing on the first day of the pay period which begins after February 14, 1969, on recommendation of the President of the United States, see note set out under section 358 of Title 2, The Congress.
 
 #### Pay Increase; Effective Date
 
@@ -1038,9 +1116,11 @@ Persons occupying a position under the Executive Schedule on May 18, 1972, and l
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 5317, 5377, 5380, 8432 of this title; title 2 sections 61d, 136a–2, 285e, 286e, 288, 437c, 474, 601; title 7 section 5902; title 10 sections 973, 2359, 2837; title 12 sections 1422b, 2242, 2277a–2; title 15 sections 274, 790b, 1507c, 2204; title 16 section 3181; title 17 section 701; title 18 section 207; title 19 section 2171; title 20 sections 76k, 3501, 3503, 5603, 5608, 9001, 9002; title 22 sections 286a, 290f, 290h–5, 2651a, 3506, 3961, 6203, 6207; title 25 sections 2704, 3505; title 26 section 3121; title 28 sections 332, 548, 587, 594, 603; title 29 sections 792, 2215; title 30 sections 1121, 1211; title 31 section 731; title 36 section 169j–5; title 38 section 7404; title 40 section 206–1; title 42 sections 300aa–12, 410, 1395ww, 1975b, 4346, 5553, 5871, 5872, 7132, 7133, 7134, 7135, 7136, 7139, 7141, 7211, 7291, 7293, 8820, 10224, 12651e, 12651f; title 44 section 303.
+This section is referred to in sections 5317, 5377, 5380, 8432 of this title; title 2 sections 61d, 136a–2, 285e, 288, 437c, 474, 601; title 7 section 5903; title 10 sections 973, 2359; title 12 sections 1422b, 2242; title 15 sections 274, 790b, 1507c, 2204; title 16 section 3181; title 17 section 701; title 18 section 207; title 19 section 2171; title 20 sections 76k, 3501, 3503, 5603, 5608, 9001, 9002; title 22 sections 286a, 290f, 290h–5, 2651a, 3506, 3961, 6203, 6207; title 25 sections 2704, 3505; title 26 section 3121; title 28 sections 332, 548, 587, 594, 603; title 29 sections 792, 2215; title 30 sections 1121, 1211; title 31 section 731; title 36 section 169j–5; title 38 section 7404; title 40 section 206–1; title 42 sections 300aa–12, 410, 1395ww, 1975b, 4346, 5553, 5871, 5872, 7132, 7133, 7134, 7135, 7136, 7139, 7141, 7211, 7291, 7293, 8820, 10224, 12651e, 12651f; title 44 section 303.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a period.</i>
 
 <i><sup>2</sup></i><i> The word “The” probably should not appear.</i>
+
+<i><sup>3</sup></i><i> So in original. Probably should be followed by “the”.</i>
 

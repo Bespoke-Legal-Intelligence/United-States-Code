@@ -8,7 +8,7 @@ Section 15j, acts June 8, 1936, ch. 541, §3, 49 Stat. 1489; Aug. 1, 1946, ch. 7
 
 Section 15k, acts June 8, 1936, ch. 541, §4, 49 Stat. 1489; Aug. 1, 1946, ch. 725, title I, §101, 60 Stat. 776; Aug. 2, 1956, ch. 871, title III, §301, 70 Stat. 925, required that Federal funds be matched by State and local funds in order to receive benefits of section 15i et seq. of this title.
 
-Section 15<i>l,</i> acts June 8, 1936, ch. 541, §5, 49 Stat. 1489; 1940 Reorg. Plan No. III, §1(a)(1), eff. June 30, 1940, 5 F.R. 2107, 54 Stat. 1231; Aug. 1, 1946, ch. 725, title I, §101, 60 Stat. 776; Aug. 2, 1956, ch. 871, title III, §301, 70 Stat. 925, provided for method of payment of funds to which the State or Territory was entitled under section 15i et seq. of this title.
+Section 15<i>l</i>, acts June 8, 1936, ch. 541, §5, 49 Stat. 1489; 1940 Reorg. Plan No. III, §1(a)(1), eff. June 30, 1940, 5 F.R. 2107, 54 Stat. 1231; Aug. 1, 1946, ch. 725, title I, §101, 60 Stat. 776; Aug. 2, 1956, ch. 871, title III, §301, 70 Stat. 925, provided for method of payment of funds to which the State or Territory was entitled under section 15i et seq. of this title.
 
 Section 15m, acts June 8, 1936, ch. 541, §6, 49 Stat. 1489; Aug. 1, 1946, ch. 725, title I, §101, 60 Stat. 777; Aug. 2, 1956, ch. 871, title, III, §301, 70 Stat. 925, made funds available for salary and expenses of State directors.
 

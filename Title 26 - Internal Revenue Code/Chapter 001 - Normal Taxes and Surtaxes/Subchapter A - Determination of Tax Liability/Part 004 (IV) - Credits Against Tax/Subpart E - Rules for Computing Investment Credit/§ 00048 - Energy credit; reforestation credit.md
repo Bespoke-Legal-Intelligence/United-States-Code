@@ -92,7 +92,7 @@ Termination.—Effective with respect to periods after June 30, 1992, the energy
 
 1991—Subsec. (a)(2)(B). Pub. L. 102–227 substituted “June 30, 1992” for “December 31, 1991”.
 
-1990—Pub. L. 101–508, §11813(a), amended section generally, substituting section catchline for one which read: “Definitions; special rules” and in text substituting present provisions for provisions defining section 38 property, new section 38 property, used section 38 property, provisions relating to certain leased property, estates and trusts, special rules for qualified rehabilitated buildings, credit for movie and television films, treatment of energy property, application of certain transitional rules, definitions of certain credits, definition of single purpose agricultural or horticultural structure, basis adjustment to section 38 property, certain section 501(d) organizations, special rules relating to sound recordings, and a cross reference to section 381 of this title.
+1990—Pub. L. 101–508, §11813(a), amended section generally, substituting section catchline for one whichread: “Definitions; special rules” and in text substituting present provisions for provisions defining section 38 property, new section 38 property, used section 38 property, provisions relating to certain leased property, estates and trusts, special rules for qualified rehabilitated buildings, credit for movie and television films, treatment of energy property, application of certain transitional rules, definitions of certain credits, definition of single purpose agricultural or horticultural structure, basis adjustment to section 38 property, certain section 501(d) organizations, special rules relating to sound recordings, and a cross reference to section 381 of this title.
 
 Subsec. (a)(8). Pub. L. 101–508, §11801(c)(6)(A), struck out par. (8) “Amortized property” which read as follows: “Any property with respect to which an election under section 167(k), 184, or 188 applies shall not be treated as section 38 property.”
 
@@ -122,7 +122,7 @@ Subsec. (t). Pub. L. 100–647, §1002(a)(20), redesignated subsec. (s), relatin
 
 Subsec. (a)(4). Pub. L. 99–514, §1802(a)(9)(A), substituted “514(b)” for “514(c)” and “514(a)” for “514(b)”.
 
-Subsec. (a)(5)(B)(iii). Pub. L. 99–514, §1802(a)(5)(B), struck out cl. (iii) which provided that (I) in the case of any aircraft used under a qualifying lease (as defined in section 47(a)(7)(C)) and which is leased to a foreignperson or entity before January 1, 1990, clause (i) shall be applied by substituting “3 years” for “6 months” and that (II) for purposes of applying section 47(a)(1) and (5)(B) there shall not be taken into account any period of a lease to which subclause (I) applies.
+Subsec. (a)(5)(B)(iii). Pub. L. 99–514, §1802(a)(5)(B), struck out cl. (iii) which provided that (I) in the case of any aircraft used under a qualifying lease (as defined in section 47(a)(7)(C)) and which is leased to a foreign person or entity before January 1, 1990, clause (i) shall be applied by substituting “3 years” for “6 months” and that (II) for purposes of applying section 47(a)(1) and (5)(B) there shall not be taken into account any period of a lease to which subclause (I) applies.
 
 Subsec. (a)(5)(D), (E). Pub. L. 99–514, §1802(a)(4)(C), added subpar. (D) and redesignated former subpar. (D) as (E).
 
@@ -158,7 +158,7 @@ Subsec. (s)(5). Pub. L. 99–514, §803(b)(2)(B), which directed the general ame
 
 1985—Subsec. (g)(2)(A)(i), (B)(v). Pub. L. 99–121 substituted “19” for “18”.
 
-1984—Subsec. (a)(5). Pub. L. 98–369, §31(b), amended par. (5) generally, to extend its scope to encompass property used by foreign persons or entities and to create an exception for short-term leases by substituting provisions covered by subpars. (A) to (D) for former provisions which had directed that property used by the United States, any State or political subdivision thereof, any international organization, or any agency or instrumentality of any of the foregoing not be treated as section 38 property, that for purposes of that prohibition the International Telecommunications Satellite Consortium, the International Maritime Satellite Organization, and any successor organization of such Consortium or Organization not be treated as an international organization, and that if any qualified rehabilitated building were used by the governmental unit pursuant to a lease, this paragraph would not apply to that portion of the basis of such building attributable to qualified rehabilitation expenditures.
+1984—Subsec. (a)(5). Pub. L. 98–369, §31(b), amended par. (5) generally, to extend its scope to encompassproperty used by foreign persons or entities and to create an exception for short-term leases by substituting provisions covered by subpars. (A) to (D) for former provisions which had directed that property used by the United States, any State or political subdivision thereof, any international organization, or any agency or instrumentality of any of the foregoing not be treated as section 38 property, that for purposes of that prohibition the International Telecommunications Satellite Consortium, the International Maritime Satellite Organization, and any successor organization of such Consortium or Organization not be treated as an international organization, and that if any qualified rehabilitated building were used by the governmental unit pursuant to a lease, this paragraph would not apply to that portion of the basis of such building attributable to qualified rehabilitation expenditures.
 
 Subsec. (b). Pub. L. 98–369, §114(a), amended subsec. (b) generally, substituting a general definition of “new section 38 property” for definitions which made reference to property constructed, reconstructed or erected after December 31, 1961, and adding pars. (2) and (3).
 
@@ -260,7 +260,7 @@ Subsec. (a)(3)(D). Pub. L. 97–34, §212(c), added subpar. (D).
 
 Subsec. (a)(4). Pub. L. 97–34, §214(a), inserted provision that, if any qualified rehabilitated building is used by the tax-exempt organization pursuant to a lease, this paragraph shall not apply to that portion of the basis of such building which is attributable to qualified rehabilitation expenditures.
 
-Subsec. (a)(5). Pub. L. 97–34, §214(b), inserted provision that, if any qualified rehabilitated building is usedby the governmental unit pursuant to a lease, this paragraph shall not apply to that portion of the basis of such building which is attributable to qualified rehabilitation expenditures.
+Subsec. (a)(5). Pub. L. 97–34, §214(b), inserted provision that, if any qualified rehabilitated building is used by the governmental unit pursuant to a lease, this paragraph shall not apply to that portion of the basis of such building which is attributable to qualified rehabilitation expenditures.
 
 Subsec. (a)(8). Pub. L. 97–34, §212(d)(2)(A), substituted “or 188” for “188, or 191”.
 
@@ -298,7 +298,7 @@ Subsec. (<i>l</i>)(3)(A). Pub. L. 96–223, §222(b), (g)(2), struck out “(oth
 
 Subsec. (<i>l</i>)(3)(B). Pub. L. 96–223, §222(i)(1)(A), redesignated subpar. (C) as (B). Former subpar. (B), which excluded public utility property from the terms “alternative energy property”, “solar or wind energy property”, or “recycling equipment”, was struck out.
 
-Subsec. (<i>l</i>)(3)(C), (D). Pub. L. 96–223, §222(i)(1)(A), (3), redesignated subpar. (D) as (C) and inserted following cl. (ii) provision that, for the purposes of the preceding sentence, in the case of property which is alternative energy property solely by reason of the amendments made by section 222(b) of the Crude Oil Windfall Profit Tax Act of 1980, “January 1, 1980” was to be substituted for “October 1, 1978”. Former subpar. (C) redesignated (B).
+Subsec. (<i>l</i>)(3)(C), (D). Pub. L. 96–223, §222(i)(1)(A), (3), redesignated subpar. (D) as (C) and inserted followingcl. (ii) provision that, for the purposes of the preceding sentence, in the case of property which is alternative energy property solely by reason of the amendments made by section 222(b) of the Crude Oil Windfall Profit Tax Act of 1980, “January 1, 1980” was to be substituted for “October 1, 1978”. Former subpar. (C) redesignated (B).
 
 Subsec. (<i>l</i>)(4)(C). Pub. L. 96–223, §222(c), added subpar. (C).
 
@@ -358,7 +358,7 @@ Subsec. (n). Pub. L. 95–618, §301(b), redesignated former subsec. (<i>l</i>) 
 
 Pub. L. 95–600, §141(b), added subsec. (n). Former subsec. (n) redesignated (p).
 
-Subsec. (<i>o</i>). Pub. L. 95–600, §141(b), added subsec. (<i>o).</i>
+Subsec. (<i>o</i>). Pub. L. 95–600, §141(b), added subsec. (<i>o</i>).
 
 Subsecs. (p), (q). Pub. L. 95–600, §§141(b), 314(b), added subsec. (p). Former subsec. (n) redesignated (p) and subsequently as (q).
 
@@ -376,7 +376,7 @@ Subsec. (f). Pub. L. 94–455, §802(b)(6), substituted “section 46(a)(3)” f
 
 Subsec. (i)(2). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
-Subsecs. (k), (<i>l</i>). Pub. L. 94–455, §804(a), added subsec. (k) and redesignated former subsec. (k) as subsec. (<i>l).</i>
+Subsecs. (k), (<i>l</i>). Pub. L. 94–455, §804(a), added subsec. (k) and redesignated former subsec. (k) as subsec. (<i>l</i>).
 
 1975—Subsec. (a)(2)(B). Pub. L. 94–12, §604(a), substituted “territorial waters within the northern portion of the Western Hemisphere” for “territorial waters” in cl. (x) and inserted definition of “northern portion of the Western Hemisphere” following cl. (x).
 
@@ -402,7 +402,7 @@ Subsec. (a)(6). Pub. L. 92–178, §104(e), substituted provisions for treatment
 
 Subsec. (a)(7) to (9). Pub. L. 92–178, §§103, 104(f)(1), (g), added pars. (7) to (9), respectively.
 
-Subsec. (d). Pub. L. 92–178, §108(b) and (c), substituted “section 46(d)(1)” for “section 46(d)”; and designated as par. (1) the present first sentence, redesignated as subpars. (A) and (B) provisions formerly designated cls. (1) and (2), again substituted “section 46(d)(1)” for “section 46(d)” in par. (1) and inserted “(other than property described in paragraph (4))” in par. (1), added pars. (2) and (4), incorporated provisions of former second, third, and fourth sentences in provisions designated as par. (3), substituted in par. (3) “the lessee shall be treated for all purposes of this subpart as having acquired a fractional portion of such property equal to the fraction determined under paragraph (2)(B) with respect to such property” for “the lessee shall be treated for all purposes of this subpart as having acquired such property”, and struck out former fifth and sixth sentences respecting election regarding treatment of leases of suspension period property and section 38 property. See Effective Date of 1971 Amendment note below.
+Subsec. (d). Pub. L. 92–178, §108(b) and (c), substituted “section 46(d)(1)” for “section 46(d)”; and designated aspar. (1) the present first sentence, redesignated as subpars. (A) and (B) provisions formerly designated cls. (1) and (2), again substituted “section 46(d)(1)” for “section 46(d)” in par. (1) and inserted “(other than property described in paragraph (4))” in par. (1), added pars. (2) and (4), incorporated provisions of former second, third, and fourth sentences in provisions designated as par. (3), substituted in par. (3) “the lessee shall be treated for all purposes of this subpart as having acquired a fractional portion of such property equal to the fraction determined under paragraph (2)(B) with respect to such property” for “the lessee shall be treated for all purposes of this subpart as having acquired such property”, and struck out former fifth and sixth sentences respecting election regarding treatment of leases of suspension period property and section 38 property. See Effective Date of 1971 Amendment note below.
 
 1969—Subsec. (a)(4). Pub. L. 91–172, §121(d)(2)(A), inserted provision relating to the percentage of the basis or cost of debt-financed property that may be considered in computing qualified investment under section 46(c) of this title.
 
@@ -426,7 +426,7 @@ Subsecs. (h) to (k). Pub. L. 89–800, §1(a), added subsecs. (h) to (j) and red
 
 1964—Subsec. (a)(1)(C). Pub. L. 88–272, §203(c)(2), added subpar. (C).
 
-Subsec. (d). Pub. L. 88–272, §203(a)(3)(A), (b), substituted “except as provided in paragraph (2)” for “if such property was constructed by the lessor (or by acorporation which controls or is controlled by the lessor within the meaning of section 368(c))” in par. (1), “if such property is leased by a corporation which is a member of an affiliated group (within the meaning of section 46(a)(5) to another corporation which is a member of the same affiliated group” for “if paragraph (1) does not apply” in par. (2), and deleted provisions which stated that if a lessor made an election under this subsection, subsec. (g) would not apply with respect to such property, and deductions otherwise allowable under section 162 to the lessee for amounts paid the lessor would be adjusted consistent with subsec. (g).
+Subsec. (d). Pub. L. 88–272, §203(a)(3)(A), (b), substituted “except as provided in paragraph (2)” for “if such property was constructed by the lessor (or by a corporation which controls or is controlled by the lessor within the meaning of section 368(c))” in par. (1), “if such property is leased by a corporation which is a member of an affiliated group (within the meaning of section 46(a)(5) to another corporation which is a member of the same affiliated group” for “if paragraph (1) does not apply” in par. (2), and deleted provisions which stated that if a lessor made an election under this subsection, subsec. (g) would not apply with respect to such property, and deductions otherwise allowable under section 162 to the lessee for amounts paid the lessor would be adjusted consistent with subsec. (g).
 
 Subsec. (g). Pub. L. 88–272, §203(a)(1), repealed subsec. (g) which required that the basis of section 38 property be reduced by 7 percent of the qualified investment.
 
@@ -446,7 +446,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 If any interest costs incurred after Dec. 31, 1986, are attributable to costs incurred before Jan. 1, 1987, the amendment by section 803(b)(2)(B) of Pub. L. 99–514 is applicable to such interest costs only to the extent such interest costs are attributable to costs which were required to be capitalized under section 263 of the Internal Revenue Code of 1954 and which would have been taken into account in applying section 189 of the Internal Revenue Code of 1954 (as in effect before its repeal by section 803 of Pub. L. 99–514) or, if applicable, section 266 of such Code, see section 7831(d)(2) of Pub. L. 101–239, set out as an Effective Date note under section 263A of this title.
 
-Amendment by section 251(b), (c) of Pub. L. 99–514 applicable to property placed in service after Dec. 31, 1986, in taxable years ending after such date, except as otherwise provided for certain rehabilitations see section 251(d) of Pub. L. 99–514, set out as a note under section 46 of this title.
+Amendment by section 251(b), (c) of Pub. L. 99–514 applicable to property placed in service after Dec. 31, 1986, in taxable years ending after such date, except as otherwise provided for certain rehabilitations, see section 251(d) of Pub. L. 99–514, set out as a note under section 46 of this title.
 
 Amendment by section 701(e)(4)(C) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, with certain exceptions and qualifications, see section 701(f) of Pub. L. 99–514, set out as an Effective Date note under section 55 of this title.
 
@@ -526,7 +526,7 @@ Amendment by section 209(c) of Pub. L. 97–248 applicable to property placed in
 
 #### Effective Date of 1981 Amendment
 
-Section 213(b) of Pub. L. 97–34, as amended by Pub. L. 97–448, title I, §102(g), Jan. 12, 1983, 96 Stat. 2372, provided that: “The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1980.”
+Section 213(b) of Pub. L. 97–34, as amended by Pub. L. 97–448, title I, §102(g), Jan. 12, 1983, 96 Stat. 2372, provided that: “The amendment made by this section\[amending this section\] shall apply to taxable years beginning after December 31, 1980.”
 
 Section 214(c) of Pub. L. 97–34 provided that: “The amendments made by this section \[amending this section\] shall apply to uses after July 29, 1980, in taxable years ending after such date.”
 
@@ -558,7 +558,7 @@ In general.—Except as provided in paragraph (2), the amendments made by this s
 
 Alumina electrolytic cells.—The amendments made by subsection (d)(1) \[amending this section\] shall apply to periods after September 30, 1978, under rules similar to the rules of section 48(m) of such Code.”
 
-Section 223(a)(2) of Pub. L. 96–223, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to periods after December 31, 1979,under rules similar to the rules of section 48(m) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\].”
+Section 223(a)(2) of Pub. L. 96–223, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to periods after December 31, 1979, under rules similar to the rules of section 48(m) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\].”
 
 Section 223(c)(2) of Pub. L. 96–223, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
@@ -626,7 +626,7 @@ Amendment by section 703(a)(3), (4) of Pub. L. 95–600 effective on Oct. 4, 197
 
 #### Effective Date of 1976 Amendment
 
-Amendment by section 802(b)(6) of Pub. L. 94–455 applicable to taxable years beginning after Dec. 31, 1975, see section 802(c) of Pub. L. 94–455, set out as a note under section 46 of this title.
+Amendment by section 802(b)(6) of Pub. L. 94–455 applicable to taxable years beginning after Dec. 31, 1975,see section 802(c) of Pub. L. 94–455, set out as a note under section 46 of this title.
 
 Section 804(e) of Pub. L. 94–455, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
@@ -724,7 +724,7 @@ For applicability of amendment by section 701(e)(4)(C) of Pub. L. 99–514 notwi
 
 #### Special Rule
 
-Section 1879(j)(3) of Pub. L. 99–514 provided that: “If refund or credit of any overpayment of tax resulting from the application of this subsection \[amending this section\] is prevented at any time before the close of the date which is 1 year after the date of the enactment ofthis Act \[Oct. 22, 1986\] by operation of any law or rule of law (including res judicata), refund or credit of such overpayment (to the extent attributable to the application of the amendments made by this subsection \[amending this section\]) may, nevertheless, be made or allowed if claim therefor is filed before the close of such 1-year period.”
+Section 1879(j)(3) of Pub. L. 99–514 provided that: “If refund or credit of any overpayment of tax resulting from the application of this subsection \[amending this section\] is prevented at any time before the close of the date which is 1 year after the date of the enactment of this Act \[Oct. 22, 1986\] by operation of any law or rule of law (including res judicata), refund or credit of such overpayment (to the extent attributable to the application of the amendments made by this subsection \[amending this section\]) may, nevertheless, be made or allowed if claim therefor is filed before the close of such 1-year period.”
 
 #### Clarification of Effect of 1984 Amendment on Investment Tax Credit
 
@@ -782,7 +782,7 @@ In general.—A taxpayer described in subparagraph (B) may elect to have this pa
 
 &emsp;&emsp;“(B)
 
-Who may elect.—A taxpayer may make an election under this paragraph if he has filed an action in any court of competent jurisdiction, before January 1, 1976, for a determination of such taxpayer's rights to the allowance of a credit against tax under section 38 of the Internal Revenue Code of 1986 for any taxable year beginning before January 1, 1975, with respect to any film.
+Who may elect.—A taxpayer may make an election under this paragraph if he has filed an action in any court of competent jurisdiction, before January 1, 1976, for a determination of such taxpayer's rights to the allowance of a credit againsttax under section 38 of the Internal Revenue Code of 1986 for any taxable year beginning before January 1, 1975, with respect to any film.
 
 &emsp;&emsp;“(C)
 

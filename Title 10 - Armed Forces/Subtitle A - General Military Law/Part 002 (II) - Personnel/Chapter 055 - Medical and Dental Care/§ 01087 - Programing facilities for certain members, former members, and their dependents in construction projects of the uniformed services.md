@@ -12,7 +12,7 @@
 
 &emsp;(B) the anticipated capability of the medical and dental staff of the facility, determined in accordance with regulations prescribed by the Secretary of Defense and based upon realistic projections of the number of physicians and other health-care providers that it can reasonably be expected will be assigned to or will otherwise be available to the facility.
 
-(2) In addition, a determination made for the purpose of clause (2) of subsection (a) shall be made in accordance with an economic analysis\(including a life-cycle cost analysis) of the facility and consideration of all reasonable and available medical care treatment alternatives (including treatment provided under a contract under section 1086 of this title or under part A of title XVIII of the Social Security Act (42 U.S.C. 1395c et seq.)).
+(2) In addition, a determination made for the purpose of clause (2) of subsection (a) shall be made in accordance with an economic analysis (including a life-cycle cost analysis) of the facility and consideration of all reasonable and available medical care treatment alternatives (including treatment provided under a contract under section 1086 of this title or under part A of title XVIII of the Social Security Act (42 U.S.C. 1395c et seq.)).
 
 (Added Pub. L. 89–614, §2(7), Sept. 30, 1966, 80 Stat. 866; amended Pub. L. 97–337, §1, Oct. 15, 1982, 96 Stat. 1631; Pub. L. 98–525, title XIV, §1405(24), Oct. 19, 1984, 98 Stat. 2623; Pub. L. 99–661, div. A, title XIII, §1343(a)(4), Nov. 14, 1986, 100 Stat. 3992.)
 
@@ -28,7 +28,7 @@ The Social Security Act, referred to in subsec. (b)(2), is act Aug. 14, 1935, ch
 
 1982—Subsec. (a). Pub. L. 97–337, §1(1), designated existing provisions as subsec. (a).
 
-Pub. L. 97–337, §1(2), substituted provisions limiting the maximum amount of space to be programed as the greater of the amounts of space described in par. (1) or (2) for provisions limiting the amount of space to be programed to that amount needed to support teaching and training requirements, except that space may be programed in areas having large concentrations of retired members where there is a critical shortage of facilities.
+Pub. L. 97–337, §1(2), substituted provisions limiting the maximum amount of space to be programed as the greater of the amounts of space described in par. (1) or (2) for provisions limiting the amount of space to beprogramed to that amount needed to support teaching and training requirements, except that space may be programed in areas having large concentrations of retired members where there is a critical shortage of facilities.
 
 Subsec. (b). Pub. L. 97–337, §1(2), added subsec. (b).
 

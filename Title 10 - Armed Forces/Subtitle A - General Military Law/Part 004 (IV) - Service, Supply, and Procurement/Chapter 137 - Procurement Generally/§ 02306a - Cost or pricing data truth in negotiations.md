@@ -42,7 +42,7 @@ Required Cost or Pricing Data and Certification.—(1) The head of an agency sha
 
 (4) Except as provided under subsection (b), this section applies to contracts entered into by the head of an agency on behalf of a foreign government.
 
-(5) For purposes of paragraph (1)(C), a contractor or subcontractor granted a waiver under subsection (b)(1)(B) shall be considered as having been required to make available cost or pricing data under this section.
+(5) For purposes of paragraph (1)(C), a contractor or subcontractor granted a waiver under subsection (b)(1)(B) <sup>1</sup> shall be considered as having been required to make available cost or pricing data under this section.
 
 (6) Upon the request of a contractor that was required to submit cost or pricing data under paragraph (1) in connection with a prime contract entered into on or before December 5, 1990, the head of the agency that entered into such contract shall modify the contract to reflect subparagraphs (B)(ii) and (C)(ii) of paragraph (1). All such modifications shall be made without requiring consideration.
 
@@ -54,81 +54,59 @@ Exceptions.—
 
 &emsp;(1)
 
-In general.—Submission of cost or pricing data shall not be required under subsection (a) in the case of a contract, a subcontract, or modification of a contract or subcontract—
+In general.—Submission of certified cost or pricing data shall not be required under subsection (a) in the case of a contract, a subcontract, or modification of a contract or subcontract—
 
 &emsp;&emsp;(A) for which the price agreed upon is based on—
 
-&emsp;&emsp;&emsp;(i) adequate price competition;
+&emsp;&emsp;&emsp;(i) adequate price competition; or
 
-&emsp;&emsp;&emsp;(ii) established catalog or market prices of commercial items that are sold in substantial quantities to the general public; or
+&emsp;&emsp;&emsp;(ii) prices set by law or regulation;
 
-&emsp;&emsp;&emsp;(iii) prices set by law or regulation; or
+&emsp;&emsp;(B) for the acquisition of a commercial item; or
 
-&emsp;&emsp;(B) in an exceptional case when the head of the procuring activity, without delegation, determines that the requirements of this section may be waived and justifies in writing the reasons for such determination.
+&emsp;&emsp;(C) in an exceptional case when the head of the procuring activity, without delegation, determines that the requirements of this section may be waived and justifies in writing the reasons for such determination.
 
 &emsp;(2)
 
-Modifications of contracts and subcontracts for commercial items.—In the case of a modification of a contract or subcontract for a commercial item that is not covered by the prohibition on the submission of cost or pricing data in paragraph (1)(A), submission of cost or pricing data shall not be required under subsection (a) if—
+Modifications of contracts and subcontracts for commercial items.—In the case of a modification of a contract or subcontract for a commercial item that is not covered by the exception to the submission of certified cost or pricing data in paragraph (1)(A) or (1)(B), submission of certified cost or pricing data shall not be required under subsection (a) if—
 
-&emsp;&emsp;(A) the contract or subcontract being modified is a contract or subcontract for which submission of cost or pricing data may not be required by reason of paragraph (1)(A); and
+&emsp;&emsp;(A) the contract or subcontract being modified is a contract or subcontract for which submission of certified cost or pricing data may not be required by reason of paragraph (1)(A) or (1)(B); and
 
 &emsp;&emsp;(B) the modification would not change the contract or subcontract, as the case may be, from a contract or subcontract for the acquisition of a commercial item to a contract or subcontract for the acquisition of an item other than a commercial item.
 
-&emsp;(3) FAR
-
-standards.— The Federal Acquisition Regulation shall provide clear standards for determining whether the exceptions provided in paragraph (1)(A) apply. In the case of the exception provided in paragraph (1)(A)(i), the regulations shall specify the criteria to be used to determine whether adequate price competition exists. In the case of the exception provided in paragraph (1)(A)(ii), the regulations shall provide that the exception applies to items that are sold in substantial quantities to the general public, without regard to the quantity of items that may be sold to the Federal Government.
-
 (c)
 
-Restrictions on Additional Authority to Require Cost or Pricing Data or Other Information.—
+Cost or Pricing Data on Below-Threshold Contracts.—
 
 &emsp;(1)
 
-Authority to require cost or pricing data on below-threshold contracts.—(A) Subject to subparagraph (B), when cost or pricing data are not required to be submitted by subsection (a) for a contract, subcontract, or modification of a contract or subcontract, such data may nevertheless be required to be submitted by the head of the procuring activity, but only if the head of the procuring activity determines that such data are necessary for the evaluation by the agency of the reasonableness of the price of the contract, subcontract, or modification of a contract or subcontract. In any case in which the head of the procuring activity requires such data to be submitted under this subsection, the head of the procuring activity shall justify in writing the reason for such requirement.
-
-&emsp;(B) The head of the procuring activity may not require certified cost or pricing data to be submitted under this paragraph for any contract or subcontract, or modification of a contract or subcontract, covered by the exceptions in subsection (b)(1)(A).
-
-&emsp;(C) The head of a procuring activity may not delegate functions under this paragraph.
+Authority to require submission.—Subject to paragraph (2), when certified cost or pricing data are not required to be submitted by subsection (a) for a contract, subcontract, or modification of a contract or subcontract, such data may nevertheless be required to be submitted by the head of the procuring activity, but only if the head of the procuring activity determines that such data are necessary for the evaluation by the agency of the reasonableness of the price of the contract, subcontract, or modification of a contract or subcontract. In any case in which the head of the procuring activity requires such data to be submitted under this subsection, the head of the procuring activity shall justify in writing the reason for such requirement.
 
 &emsp;(2)
 
-Authority to require information other than certified cost or pricing data.—When certified cost or pricing data are not required to be submitted under this section for a contract, subcontract, or modification of a contract or subcontract, the head of the procuring activity may require submission of data other than certified cost or pricing data to the extent necessary to determine the reasonableness of the price of the contract, subcontract, or modification of the contract or subcontract.
-
-(d)
-
-Additional Exception Provisions Regarding Commercial Items.—
-
-&emsp;(1)
-
-Procurements based on adequate price competition.—To the maximum extent practicable, the head of an agency shall conduct procurements of commercial items on a competitive basis. In any procurement of a commercial item conducted on a competitive basis and based upon adequate price competition, the head of the agency conducting the procurement shall not require cost or pricing data to be submitted under subsection (a) for the contract, subcontract, or modification of the contract or subcontract under the procurement. If additional information is necessary to determine the reasonableness of the price of the contract, subcontract, or modification, the head of the agency shall, to the maximum extent practicable, obtain the additional information from sources other than the offeror.
-
-&emsp;(2)
-
-Procurements not based on adequate price competition.—(A)(i) In any case in which it is not practicable to conduct a procurement of a commercial item covered by subsection (a) on a competitive basis, and the procurement is not covered by an exception in subsection (b), the contracting officer shall seek to obtain from the offeror or contractor information described in clause (ii). When such information is not available from that source, the contracting officer shall seek to obtain such information from another source or sources.
-
-&emsp;(ii) The information referred <sup>1</sup> in clause (i) is information on prices at which the same item or similar items have been sold in the commercial market that is adequate for evaluating, through price analysis, the reasonableness of the price of the contract, subcontract, or modification of the contract or subcontract under the procurement.
-
-&emsp;(B) The contracting officer shall exempt a contract, subcontract, or modification of a contract or subcontract under the procurement from the requirements of subsection (a) if the contracting officer obtains the information described in subparagraph (A)(ii) in accordance with standards and procedures set forth in the Federal Acquisition Regulation.
-
-&emsp;(C) A contracting officer may require submission of cost or pricing data under subsection (a) only if the contracting officer makes a written determination that the agency is unable to obtain the information described in subparagraph (A)(ii).
+Exception.—The head of the procuring activity may not require certified cost or pricing data to be submitted under this paragraph for any contract or subcontract, or modification of a contract or subcontract, covered by the exceptions in subparagraph (A) or (B) of subsection (b)(1).
 
 &emsp;(3)
 
-Authority to audit.—(A) In accordance with procedures prescribed in the Federal Acquisition Regulation, the head of an agency is authorized to examine all information provided by an offeror, contractor, or subcontractor pursuant to paragraph (2)(A) and all books and records of such offeror, contractor, or subcontractor that directly relate to such information in order to determine whether the agency is receiving accurate information required under this subsection.
+Delegation of authority prohibited.—The head of a procuring activity may not delegate functions under this paragraph.
 
-&emsp;(B) The right under subparagraph (A) shall expire 2 years after the date of award of the contract, or 2 years after the date of the modification of the contract, with respect to which the information was provided.
+(d)
 
-&emsp;(4)
+Submission of Other Information.—
 
-Limitations on requests for data.—The Federal Acquisition Regulation shall include reasonable limitations on requests under this section for sales data relating to commercial items.
+&emsp;(1)
 
-&emsp;(5)
+Authority to require submission.—When certified cost or pricing data are not required to be submitted under this section for a contract, subcontract, or modification of a contract or subcontract, the contracting officer shall require submission of data other than certified cost or pricing data to the extent necessary to determine the reasonableness of the price of the contract, subcontract, or modification of the contract or subcontract. Except in the case of a contract or subcontract covered by the exceptions in subsection (b)(1)(A), the data submitted shall include, at a minimum, appropriate information on the prices at which the same item or similar items have previously been sold that is adequate for evaluating the reasonableness of the price for the procurement.
 
-Form of information.—In requesting information from an offeror under this subsection, a contracting officer shall, to the maximum extent practicable, limit the scope of the request to include only information that is in the form regularly maintained by the offeror in commercial operations.
+&emsp;(2)
 
-&emsp;(6)
+Limitations on authority.—The Federal Acquisition Regulation shall include the following provisions regarding the types of information that contracting officers may require under paragraph (1):
 
-Confidentiality.—Any information received under this subsection that is exempt from disclosure under section 552(b) of title 5 shall not be disclosed by the Federal Government.
+&emsp;&emsp;(A) Reasonable limitations on requests for sales data relating to commercial items.
+
+&emsp;&emsp;(B) A requirement that a contracting officer limit, to the maximum extent practicable, the scope of any request for information relating to commercial items from an offeror to only that information that is in the form regularly maintained by the offeror in commercial operations.
+
+&emsp;&emsp;(C) A statement that any information received relating to commercial items that is exempt from disclosure under section 552(b) of title 5 shall not be disclosed by the Federal Government.
 
 (e)
 
@@ -162,7 +140,7 @@ Price Reductions for Defective Cost or Pricing Data.—(1)(A) A prime contract (
 
 &emsp;(i) the certification under subsection (a)(2) with respect to the cost or pricing data involved was known to be false when signed; or
 
-&emsp;(ii) the United States proves that, had the cost or pricing data referred to in subparagraph (A)(ii) been submitted to the United States before the date of agreement on the price of the contract (or price of the modification) or, if applicable consistent with paragraph (1)(B), another date agreed upon between the parties,,<sup>2</sup> the submission of such cost or pricing data would not have resulted in an increase in that price in the amount to be offset.
+&emsp;(ii) the United States proves that, had the cost or pricing data referred to in subparagraph (A)(ii) been submitted to the United States before the date of agreement on the price of the contract (or price of the modification) or, if applicable consistent with paragraph (1)(B), another date agreed upon between the parties, the submission of such cost or pricing data would not have resulted in an increase in that price in the amount to be offset.
 
 (f)
 
@@ -184,10 +162,6 @@ Right of United States To Examine Contractor Records.—For the purpose of evalu
 
 (h)
 
-Required Regulations.—The Federal Acquisition Regulation shall contain provisions concerning the types of information that offerors must submit for a contracting officer to consider in determining whether the price of a procurement to the Government is fair and reasonable when certified cost or pricing data are not required to be submitted under this section because the price of the procurement to the United States is not expected to exceed the applicable threshold amount set forth in subsection (a) (as adjusted pursuant to paragraph (7) of such subsection). Such information, at a minimum, shall include appropriate information on the prices at which the same item or similar items have previously been sold that is adequate for evaluating the reasonableness of the price of the proposed contract or subcontract for the procurement.
-
-(i)
-
 Definitions.—In this section:
 
 &emsp;(1)
@@ -200,15 +174,15 @@ Subcontract.—The term “subcontract” includes a transfer of commercial item
 
 &emsp;(3)
 
-Commercial item.—The term “commercial item” has the meaning provided such term in section 4(12) of the Office of Federal Procurement Policy Act.
+Commercial item.—The term “commercial item” has the meaning provided such term in section 4(12) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(12)).
 
-(Added Pub. L. 99–500, §101(c) \[title X, §952(a)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–166, and Pub. L. 99–591, §101(c) \[title X, §952(a)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–166; Pub. L. 99–661, div. A, title IX, formerly title IV, §952(a), Nov. 14, 1986, 100 Stat. 3945, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; amended Pub. L. 100–180, div. A, title VIII, §804(a), (b), Dec. 4, 1987, 101 Stat. 1125; Pub. L. 101–510, div. A, title VIII, §803(a)(1), (d), Nov. 5, 1990, 104 Stat. 1589, 1590; Pub. L. 102–25, title VII, §701(b), (f)(8), Apr. 6, 1991, 105 Stat. 113, 115; Pub. L. 102–190, div. A, title VIII, §804(a)–(c)(1), title X, §1061(a)(9), Dec. 5, 1991, 105 Stat. 1415, 1416, 1472; Pub. L. 103–355, title I, §§1201–1209, Oct. 13, 1994, 108 Stat. 3273–3277.)
+(Added Pub. L. 99–500, §101(c) \[title X, §952(a)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–166, and Pub. L. 99–591, §101(c) \[title X, §952(a)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–166; Pub. L. 99–661, div. A, title IX, formerly title IV, §952(a), Nov. 14, 1986, 100 Stat. 3945, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; amended Pub. L. 100–180, div. A, title VIII, §804(a), (b), Dec. 4, 1987, 101 Stat. 1125; Pub. L. 101–510, div. A, title VIII, §803(a)(1), (d), Nov. 5, 1990, 104 Stat. 1589, 1590; Pub. L. 102–25, title VII, §701(b), (f)(8), Apr. 6, 1991, 105 Stat. 113, 115; Pub. L. 102–190, div. A, title VIII, §804(a)–(c)(1), title X, §1061(a)(9), Dec. 5, 1991, 105 Stat. 1415, 1416, 1472; Pub. L. 103–355, title I, §§1201–1209, Oct. 13, 1994, 108 Stat. 3273–3277; Pub. L. 104–106, div. D, title XLII, §4201(a), title XLIII, §4321(a)(2), (b)(7), Feb. 10, 1996, 110 Stat. 649, 671, 672; Pub. L. 104–201, div. A, title X, §1074(a)(12), Sept. 23, 1996, 110 Stat. 2659.)
 
 #### References in Text
 
-Section 6621 of the Internal Revenue Code of 1986, referred to in subsec. (f)(1)(A)(ii), is classified to section 6621 of Title 26, Internal Revenue Code.
+Subsection (b), referred to in subsec. (a)(5), was amended generally by Pub. L. 104–106, div. D, title XLII, §4201(a)(1), Feb. 10, 1996, 110 Stat. 649, and, as so amended, provisions formerly appearing in subsec. (b)(1)(B) are contained in subsec. (b)(1)(C).
 
-Section 4(12) of the Office of Federal Procurement Policy Act, referred to in subsec. (i)(3), is classified to section 403(12) of Title 41, Public Contracts.
+Section 6621 of the Internal Revenue Code of 1986, referred to in subsec. (f)(1)(A)(ii), is classified to section 6621 of Title 26, Internal Revenue Code.
 
 #### Codification
 
@@ -216,11 +190,29 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 Pub. L. 99–500, Pub. L. 99–591, and Pub. L. 99–661 added identical sections.
 
-#### Prior Provisions
-
-Provisions similar to those in subsec. (h) of this section were contained in Pub. L. 101–510, div. A, title VIII, §803(c)(2), Nov. 5, 1990, 104 Stat. 1590, which was set out below, prior to repeal by Pub. L. 103–355, §1210.
-
 #### Amendments
+
+1996—Subsec. (b). Pub. L. 104–106, §4321(a)(2), made technical correction to directory language of Pub. L. 103–355, §1202(a). See 1994 Amendment note below.
+
+Pub. L. 104–106, §4201(a)(1), amended subsec. (b) generally, revising and restating as pars. (1) and (2) the provisions of former pars. (1) and (2) and striking out par. (3).
+
+Subsec. (c). Pub. L. 104–106, §4201(a)(1), amended subsec. (c) generally, revising and restating as subsec. (c) the provisions of former subsec. (c)(1).
+
+Subsec. (d). Pub. L. 104–106, §4321(b)(7)(A), which directed amendment of subsec. (d)(2)(A)(ii), by inserting “to” after “The information referred”, could not be executed because subsec. (d)(2)(A) did not contain a cl. (ii) or the language “The information referred” subsequent to amendment by Pub. L. 104–106, §4201(a)(1). See below.
+
+Pub. L. 104–106, §4201(a)(1), amended subsec. (d) generally, revising and restating as pars. (1) and (2) provisions of former subsecs. (c)(2) and (d)(2), (4) and striking out provisions of former subsec. (d)(1), (3) relating to procurements based on adequate price competition and authority to audit.
+
+Subsec. (e)(4)(B)(ii). Pub. L. 104–106, §4321(b)(7)(B), struck out second comma after “parties”.
+
+Subsec. (h). Pub. L. 104–106, §4201(a)(2), redesignated subsec. (i) as (h) and struck out former subsec. (h) which read as follows: “
+
+Required Regulations.—The Federal Acquisition Regulation shall contain provisions concerning the types of information that offerors must submit for a contracting officer to consider in determining whether the price of a procurement to the Government is fair and reasonable when certified cost or pricing data are not required to be submitted under this section because the price of the procurement to the United States is not expected to exceed the applicable threshold amount set forth in subsection (a) (as adjusted pursuant to paragraph (7) of such subsection). Such information, at a minimum, shall include appropriate information on the prices at which the same item or similar items have previously been sold that is adequate for evaluating the reasonableness of the price of the proposed contract or subcontract for the procurement.”
+
+Subsec. (h)(3). Pub. L. 104–201 inserted “(41 U.S.C. 403(12))” before period at end.
+
+Subsec. (i). Pub. L. 104–106, §4201(a)(2)(B), redesignated subsec. (i) as (h).
+
+Subsec. (i)(3). Pub. L. 104–106, §4321(b)(7)(C), which directed amendment of subsec. (i)(3) by inserting “(41 U.S.C. 403(12))” before period at end, could not be executed because section did not contain a subsec. (i) subsequent to the amendment by Pub. L. 104–106, §4201(a)(2)(B), redesignating subsec. (i) as (h). See above.
 
 1994—Subsec. (a)(1)(A)(i). Pub. L. 103–355, §1201(a)(1), struck out “and before January 1, 1996,” after “December 5, 1990,”.
 
@@ -228,11 +220,11 @@ Subsec. (a)(1)(A)(ii). Pub. L. 103–355, §1201(a)(2), struck out “or after D
 
 Subsec. (a)(5). Pub. L. 103–355, §1202(b), substituted “subsection (b)(1)(B)” for “subsection (b)(2)”.
 
-Subsec. (a)(6). Pub. L. 103–355, §1201(c), struck out subpar. (A) designation and subpar. (B) which read as follows: “The head of an agency is not required to modify a contract under subparagraph (A) if that head of an agency determines that the submission of cost or pricing data with respect to that contract should be required under subsection (c).”
+Subsec. (a)(6). Pub. L. 103–355, §1201(c), struck out subpar. (A) designation and subpar. (B) which read asfollows: “The head of an agency is not required to modify a contract under subparagraph (A) if that head of an agency determines that the submission of cost or pricing data with respect to that contract should be required under subsection (c).”
 
 Subsec. (a)(7). Pub. L. 103–355, §1201(b), added par. (7).
 
-Subsec. (b). Pub. L. 103–355, §1202(a), amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “This section need not be applied to a contract or subcontract—
+Subsec. (b). Pub. L. 103–355, §1202(a), as amended by Pub. L. 104–106, §4321(a)(2), amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “This section need not be applied to a contract or subcontract—
 
 &emsp;“(1) for which the price agreed upon is based on—
 
@@ -322,6 +314,12 @@ Subsec. (e)(2). Pub. L. 100–180, §804(b)(2), amended par. (2) generally. Prio
 
 Subsec. (g). Pub. L. 100–180, §804(a), amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “In this section, the term ‘cost or pricing data’ means all information that is verifiable and that, as of the date of agreement on the price of a contract (or the price of a contract modification), a prudent buyer or seller would reasonably expect to affect price negotiations significantly. Such term does not include information that is judgmental, but does include the factual information from which a judgment was derived.”
 
+#### Effective Date of 1996 Amendment
+
+For effective date and applicability of amendment by sections 4201(a) and 4321(b)(7) of Pub. L. 104–106, see section 4401 of Pub. L. 104–106, set out as a note under section 251 of Title 41, Public Contracts.
+
+Section 4321(a) of Pub. L. 104–106 provided that the amendment made by that section is effective as of Oct. 13, 1994, and as if included in Pub. L. 103–355 as enacted.
+
 #### Effective Date of 1994 Amendment
 
 For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under section 251 of Title 41, Public Contracts.
@@ -340,7 +338,7 @@ Section 804(c) of Pub. L. 100–180 provided that:
 
 #### Effective Date of 1986 Amendment
 
-Section 101(c) \[title X, §952(d)\] of Pub. L. 99–500 and Pub. L. 99–591, and section 952(d) of title IX, formerlytitle IV, of Pub. L. 99–661, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273, provided that:
+Section 101(c) \[title X, §952(d)\] of Pub. L. 99–500 and Pub. L. 99–591, and section 952(d) of title IX, formerly title IV, of Pub. L. 99–661, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273, provided that:
 
 “(1) Except as provided in paragraph (2), section 2306a of title 10, United States Code (as added by subsection (a)), and the amendment and repeal made by subsection (b) \[amending section 2306 of this title and repealing a provision set out as a note under section 2304 of this title\], shall apply with respect to contracts or modifications on contracts entered into after the end of the 120-day period beginning on the date of the enactment of this Act \[Oct. 18, 1986\].
 
@@ -356,9 +354,7 @@ Section 803(b) of Pub. L. 101–510 provided that (1) after increase in threshol
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2306, 2313, 2343, 2375 of this title; title 15 section 4602.
+This section is referred to in sections 2306, 2313, 2343, 2375 of this title; title 15 section 4602; title 41 section 423.
 
-<i><sup>1</sup></i><i> So in original. Probably should be followed by “to”.</i>
-
-<i><sup>2</sup></i><i> So in original.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

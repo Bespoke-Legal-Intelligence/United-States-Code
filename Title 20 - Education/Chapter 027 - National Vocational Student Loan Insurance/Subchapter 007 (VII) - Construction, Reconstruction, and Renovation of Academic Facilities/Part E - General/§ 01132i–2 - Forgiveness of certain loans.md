@@ -18,7 +18,7 @@ Each institution of higher education requesting forgiveness of any loan under th
 
 #### (d) Reduction of amounts owed to Treasurer
 
-If the Secretary forgives all or part of a loan described in subsection (a) of this section, theoutstanding balance remaining on the notes of the Secretary that were issued to the Secretary of the Treasury under section 1132g(d) of this title as in effect prior to July 23, 1992, or under any provision of this subchapter as in effect at the time such note was issued, shall be reduced by such amount forgiven.
+If the Secretary forgives all or part of a loan described in subsection (a) of this section, the outstanding balance remaining on the notes of the Secretary that were issued to the Secretary of the Treasury under section 1132g(d) of this title as in effect prior to July 23, 1992, or under any provision of this subchapter as in effect at the time such note was issued, shall be reduced by such amount forgiven.
 
 (Pub. L. 89–329, title VII, §783, as added Pub. L. 99–498, title VII, §701, Oct. 17, 1986, 100 Stat. 1545; amended Pub. L. 100–203, title III, §3101, Dec. 22, 1987, 101 Stat. 1330–39; Pub. L. 102–325, title VII, §708(d), July 23, 1992, 106 Stat. 754; Pub. L. 103–208, §2(j)(23), Dec. 20, 1993, 107 Stat. 2481.)
 

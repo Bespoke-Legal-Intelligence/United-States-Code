@@ -2,23 +2,27 @@
 
 (a) Except as otherwise provided by law, each member of a uniformed service who is entitled to basic pay is entitled to a basic allowance for subsistence as set forth in this section.
 
-(b) An enlisted member is entitled to the basic allowance for subsistence, on a daily basis, of one of the following types—
+(b)(1) An enlisted member is entitled to the basic allowance for subsistence, on a daily basis, of one of the following types—
 
-&emsp;(1) when rations in kind are not available;
+&emsp;(A) when rations in kind are not available;
 
-&emsp;(2) when permission to mess separately is granted; and
+&emsp;(B) when permission to mess separately is granted; and
 
-&emsp;(3) when assigned to duty under emergency conditions where no messing facilities of the United States are available.
+&emsp;(C) when assigned to duty under emergency conditions where no messing facilities of the United States are available.
 
-> The allowance to an enlisted member, when authorized, may be paid in advance for a period of not more than three months. An enlisted member is entitled to the allowance while on an authorized leave of absence, while confined in a hospital, or while performing travel under orders away from his designated post of duty other than field duty or sea duty. The allowance for an enlisted member who is authorized to receive the basic allowance for subsistence under this subsection is at the rate prescribed in accordance with section 1009 of this title or as otherwise prescribed by law. Unless he is entitled to basic pay under chapter 3 of this title, an enlisted member of a reserve component of a uniformed service, or of the National Guard, is entitled, in the discretion of the Secretary concerned, to rations in kind, or a part thereof, when the instruction or duty periods, described in section 206(a) of this title, total at least eight hours in a calendar day. The Secretary concerned may provide an enlisted member who could be provided rations in kind under the preceding sentence with a commutation when rations in kind are not available.
+(2) The allowance to an enlisted member, when authorized, may be paid in advance for a period of not more than three months. An enlisted member is entitled to the allowance while on an authorized leave of absence, while confined in a hospital, or while performing travel under orders away from his designated post of duty other than field duty or sea duty. The allowance for an enlisted member who is authorized to receive the basic allowance for subsistence under this subsection is at the rate prescribed in accordance with section 1009 of this title or as otherwise prescribed by law.
+
+(3) Unless he is entitled to basic pay under chapter 3 of this title, an enlisted member of a reserve component of a uniformed service, or of the National Guard, is entitled, in the discretion of the Secretary concerned, to rations in kind, or a part thereof, when the instruction or duty periods, described in section 206(a) of this title, total at least eight hours in a calendar day. The Secretary concerned may provide an enlisted member who could be provided rations in kind under the preceding sentence with a commutation when rations in kind are not available.
+
+(4) In the case of enlisted members of the Army, Navy, Air Force, or Marine Corps who, when present at their permanent duty station, reside without dependents in Government quarters, the Secretary concerned may not provide a basic allowance for subsistence to more than 12 percent of such members under the jurisdiction of the Secretary concerned. The Secretary concerned may exceed such percentage if the Secretary determines that compliance would increase costs to the Government, would impose financial hardships on members otherwise entitled to a basic allowance for subsistence, or would reduce the quality of life for such members. This paragraph shall not apply to members described in the first sentence when the members are not residing at their permanent duty station. The Secretary concerned shall achieve the percentage limitation specified in this paragraph as soon as possible after the date of the enactment of this paragraph, but in no case later than September 30, 1996.
 
 (c) An officer of a uniformed service who is entitled to basic pay is, at all times, entitled to the basic allowances for subsistence at the monthly rate prescribed in accordance with section 1009 of this title. An aviation cadet of the Navy, Air Force, Marine Corps, or Coast Guard is entitled to the same basic allowance for subsistence as is provided for an officer of the Navy, Air Force, Marine Corps, or Coast Guard, respectively.
 
 (d) Under regulations and in areas prescribed by the Secretary of Defense and the Secretary of Transportation with respect to the Coast Guard when it is not operating as a service in the Navy, an enlisted member who is granted permission to mess separately, and whose duties require him to buy at least one meal from other than a messing facility of the United States, is entitled to not more than the pro rata allowance authorized for each such meal for an enlisted member when rations in kind are not available.
 
-(e)(1) The President may prescribe regulations for the administration of this section, including definitions of the terms “field duty” and “sea duty” for purposes of the third sentence of subsection (b).
+(e)(1) The President may prescribe regulations for the administration of this section, including definitions of the terms “field duty” and “sea duty” for purposes of subsection (b)(2).
 
-(2) For purposes of subsection (b), a member shall not be considered to be performing travel under orders away from his designated post of duty if such member—
+(2) For purposes of subsection (b)(2), a member shall not be considered to be performing travel under orders away from his designated post of duty if such member—
 
 &emsp;(A) is an enlisted member serving his first tour of active duty;
 
@@ -26,7 +30,7 @@
 
 &emsp;(C) is not actually traveling between stations pursuant to orders directing a change of station.
 
-(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 470; Pub. L. 89–444, §2(2), June 9, 1966, 80 Stat. 198; Pub. L. 93–419, §3(1)–(5), Sept. 19, 1974, 88 Stat. 1152; Pub. L. 96–513, title IV, §411, Dec. 12, 1980, 94 Stat. 2905; Pub. L. 98–94, title IX, §908(a), Sept. 24, 1983, 97 Stat. 637; Pub. L. 98–525, title VI, §605, Oct. 19, 1984, 98 Stat. 2537; Pub. L. 98–557, §17(d), Oct. 30, 1984, 98 Stat. 2868; Pub. L. 99–145, title XIII, §1303(b)(5), Nov. 8, 1985, 99 Stat. 740; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117.)
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 470; Pub. L. 89–444, §2(2), June 9, 1966, 80 Stat. 198; Pub. L. 93–419, §3(1)–(5), Sept. 19, 1974, 88 Stat. 1152; Pub. L. 96–513, title IV, §411, Dec. 12, 1980, 94 Stat. 2905; Pub. L. 98–94, title IX, §908(a), Sept. 24, 1983, 97 Stat. 637; Pub. L. 98–525, title VI, §605, Oct. 19, 1984, 98 Stat. 2537; Pub. L. 98–557, §17(d), Oct. 30, 1984, 98 Stat. 2868; Pub. L. 99–145, title XIII, §1303(b)(5), Nov. 8, 1985, 99 Stat. 740; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 104–106, div. A, title VI, §602(a)–(c)(1), Feb. 10, 1996, 110 Stat. 356, 357.)
 
 Historical and Revision Notes
 
@@ -104,7 +108,17 @@ In subsection (d), the reference in section 251(a) of existing title 37 to the a
 
 In subsection (e), the words “Effective April 15, 1955,” are omitted as executed. The words “United States” are substituted for the word “Government”. The words “messing facilities” are substituted for the word “messes” to conform to subsections (b) and (d).
 
+#### References in Text
+
+The date of the enactment of this paragraph, referred to in subsec. (b)(4), is the date of enactment of Pub. L. 104–106, which was approved Feb. 10, 1996.
+
 #### Amendments
+
+1996—Subsec. (b). Pub. L. 104–106, §602(a), (b), designated first sentence as par. (1), redesignated former pars. (1), (2), and (3) as subpars. (A), (B), and (C), respectively, of par. (1), designated second to fourth sentences as par. (2), designated fifth and sixth sentences as par. (3), and added par. (4).
+
+Subsec. (e)(1). Pub. L. 104–106, §602(c)(1)(A), substituted “subsection (b)(2)” for “the third sentence of subsection (b)”.
+
+Subsec. (e)(2). Pub. L. 104–106, §602(c)(1)(B), substituted “subsection (b)(2)” for “subsection (b)”.
 
 1991—Subsec. (e). Pub. L. 102–25 struck out “of this section” after “subsection (b)” in pars. (1) and (2).
 

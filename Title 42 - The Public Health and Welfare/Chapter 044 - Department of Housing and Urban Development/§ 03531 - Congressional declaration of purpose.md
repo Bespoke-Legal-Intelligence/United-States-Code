@@ -46,15 +46,15 @@ Ex. Ord. No. 11668, Apr. 21, 1972, 37 F.R. 8057, provided:
 
 By virtue of the authority vested in me as President of the United States and in accordance with the provisions of the Department of Housing and Urban Development Act, as amended (42 U.S.C. 3531 et seq.), title VIII of the Housing Act of 1964, as amended (20 U.S.C. 801 et seq.), and title V of the Housing and Urban Development Act of 1970 (12 U.S.C. 1701z–1 et seq.), it is ordered as follows:
 
-Section 1. <i>Policy.</i> The Nation's housing stock represents an important national resource which must be preserved and well managed if public and private investments are to be protected, and if we are to meet our goal of providing a decent home and suitable living environment for low and moderate income residents. The production of Federally-assisted housing has greatly expanded in recent years, creating a need for a balanced strategy to ensure that such housing remains viable for the purposes intended.
+Section 1. <i>Policy</i>. The Nation's housing stock represents an important national resource which must be preserved and well managed if public and private investments are to be protected, and if we are to meet our goal of providing a decent home and suitable living environment for low and moderate income residents. The production of Federally-assisted housing has greatly expanded in recent years, creating a need for a balanced strategy to ensure that such housing remains viable for the purposes intended.
 
 This expansion also creates a need for a growing supply of new management manpower for the years ahead. Special skills must be developed among these managers so that they can effectively overcome the social and economic problems facing many residents of Federally-assisted housing, including the elderly. Training, the improvement of career opportunities, and the upgrading of industry standards are all essential to the improvement of the Nation's housing management capability, particularly for low and moderate income housing.
 
-Sec. 2. <i>Establishment of a National Center for Housing Management.</i> (a) The Secretary of Housing and Urban Development is directed to call upon public-spirited citizens, dedicated and experienced in the appropriate disciplines, to create, in accordance with existing laws, a new, non-governmental, not-for-profit institution to serve as a National Center for Housing Management (referred to herein as the Center).
+Sec. 2. <i>Establishment of a National Center for Housing Management</i>. (a) The Secretary of Housing and Urban Development is directed to call upon public-spirited citizens, dedicated and experienced in the appropriate disciplines, to create, in accordance with existing laws, a new, non-governmental, not-for-profit institution to serve as a National Center for Housing Management (referred to herein as the Center).
 
 (b) The Center should be designed to provide objective and independent leadership at the national level in helping meet the Nation's housing management and training needs and should work cooperatively with the Department of Housing and Urban Development and with the public and private organizations and institutions involved in, or affected by, its activities.
 
-Sec. 3. <i>Activities of the Center.</i> The activities of the Center should be developed along lines that include the following objectives:
+Sec. 3. <i>Activities of the Center</i>. The activities of the Center should be developed along lines that include the following objectives:
 
 (1) Development of training and educational programs for housing management and personnel:
 
@@ -66,7 +66,7 @@ Sec. 3. <i>Activities of the Center.</i> The activities of the Center should be 
 
 (5) Stimulating the creation of new management entities, and strengthening the effectiveness of existing management entities.
 
-Sec. 4. <i>Assistance by Federal Agencies.</i> To the extent consistent with law, all other Federal executive departments and agencies shall cooperate and work with the Department of Housing and Urban Development and the Center in providing appropriate advice and financial support so as to ensure that the above described objectives are carried out with the most effective and efficient use of Federal, State and local resources, both public and private.
+Sec. 4. <i>Assistance by Federal Agencies</i>. To the extent consistent with law, all other Federal executive departments and agencies shall cooperate and work with the Department of Housing and Urban Development and the Center in providing appropriate advice and financial support so as to ensure that the above described objectives are carried out with the most effective and efficient use of Federal, State and local resources, both public and private.
 
 Richard Nixon.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

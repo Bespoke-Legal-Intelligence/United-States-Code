@@ -22,7 +22,7 @@
 
 #### (2) Capital gains of aliens present in the United States 183 days or more
 
-&emsp;In the case of a nonresident alien individual present in the United States for a period or periods aggregating 183 days or more during the taxable year, there is hereby imposed for such year a tax of 30 percent of the amount by which his gains, derived from sources within the United States, from the sale or exchange at any time during such year of capital assets exceed his losses, allocable to sources withinthe United States, from the sale or exchange at any time during such year of capital assets. For purposes of this paragraph, gains and losses shall be taken into account only if, and to the extent that, they would be recognized and taken into account if such gains and losses were effectively connected with the conduct of a trade or business within the United States, except that such gains and losses shall be determined without regard to section 1202 and such losses shall be determined without the benefits of the capital loss carryover provided in section 1212. Any gain or loss which is taken into account in determining the tax under paragraph (1) or subsection (b) shall not be taken into account in determining the tax under this paragraph. For purposes of the 183-day requirement of this paragraph, a nonresident alien individual not engaged in trade or business within the United States who has not established a taxable year for any prior period shall be treated as having a taxable year which is the calendar year.
+&emsp;In the case of a nonresident alien individual present in the United States for a period or periods aggregating 183 days or more during the taxable year, there is hereby imposed for such year a tax of 30 percent of the amount by which his gains, derived from sources within the United States, from the sale or exchange at any time during such year of capital assets exceed his losses, allocable to sources within the United States, from the sale or exchange at any time during such year of capital assets.For purposes of this paragraph, gains and losses shall be taken into account only if, and to the extent that, they would be recognized and taken into account if such gains and losses were effectively connected with the conduct of a trade or business within the United States, except that such gains and losses shall be determined without regard to section 1202 and such losses shall be determined without the benefits of the capital loss carryover provided in section 1212. Any gain or loss which is taken into account in determining the tax under paragraph (1) or subsection (b) shall not be taken into account in determining the tax under this paragraph. For purposes of the 183-day requirement of this paragraph, a nonresident alien individual not engaged in trade or business within the United States who has not established a taxable year for any prior period shall be treated as having a taxable year which is the calendar year.
 
 #### (3) Taxation of social security benefits
 
@@ -82,7 +82,7 @@ For purposes of this section, a nonresident alien individual who (without regard
 
 &emsp;&emsp;&emsp;(ii) personal services described in section 864(b)(1) performed within the United States by such individual, and
 
-&emsp;&emsp;(B) at the time the first amount is paid as an annuity under the annuity plan or by the trust, 90 percent or more of the employees for whom contributions or benefits are provided under such annuity plan, or under the plan or plans of which the trust is a part, are citizens or residents of the United States.
+&emsp;&emsp;(B) at the time the first amount is paid as an annuity under the annuity plan or by thetrust, 90 percent or more of the employees for whom contributions or benefits are provided under such annuity plan, or under the plan or plans of which the trust is a part, are citizens or residents of the United States.
 
 #### (2) Exclusion
 
@@ -90,7 +90,7 @@ For purposes of this section, a nonresident alien individual who (without regard
 
 &emsp;&emsp;(A) the recipient's country of residence grants a substantially equivalent exclusion to residents and citizens of the United States; or
 
-&emsp;&emsp;(B) the recipient's country of residence is a beneficiary developing country within the meaning of section 502 of the Trade Act of 1974 (19 U.S.C. 2462).
+&emsp;&emsp;(B) the recipient's country of residence is a beneficiary developing country under title V of the Trade Act of 1974 (19 U.S.C. 2462).<sup>2</sup>
 
 #### (g) Special rules for original issue discount
 
@@ -312,7 +312,11 @@ No tax shall be imposed under paragraph (1)(A) of subsection (a) on the proceeds
 
 &emsp;&emsp;<b>(7) For special tax treatment of gain or loss from the disposition by a nonresident alien individual of a United States real property interest, see section 897.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 278; Sept. 2, 1958, Pub. L. 85–866, title I, §§40(a), 41(a), 72 Stat. 1638, 1639; Apr. 22, 1960, Pub. L. 86–437, §2(b), 74 Stat. 79; Sept. 21, 1961, Pub. L. 87–256, §110(b), 75 Stat. 535; Feb. 26, 1964, Pub. L. 88–272, title I, §113(b), title II, §201(d)(12), 78 Stat. 24, 32; Nov. 13, 1966, Pub. L. 89–809, title I, §103(a)(1), 80 Stat. 1547; Dec. 10, 1971, Pub. L. 92–178, title III, §313(a), (b), 85 Stat. 526, 527; Sept. 2, 1974, Pub. L. 93–406, title II, §2005(c)(8), 88 Stat. 992; Oct. 4, 1976, Pub. L. 94–455, title X, §1012(a)(2), title XIX, §§1901(b)(3)(I), 1906(b)(13)(A), 90 Stat. 1613, 1793, 1834; Nov. 6, 1978, Pub. L. 95–600, title IV, §§401(b)(3), 421(e)(4), 92 Stat. 2867, 2876; Apr. 1, 1980, Pub. L. 96–222, title I, §104(a)(4)(H)(v), 94 Stat. 217; Dec. 5, 1980, Pub. L. 96–499, title XI, §1122(c)(1), 94 Stat. 2687; Dec. 28, 1980, Pub. L. 96–605, title II, §227(a), 94 Stat. 3530; Aug. 13, 1981, Pub. L. 97–34, title VII, §725(c)(1), 95 Stat. 346; Apr. 20, 1983, Pub. L. 98–21, title I, §121(c)(1), title III, §335(b)(2)(B), 97 Stat. 82, 130; July 18, 1984, Pub. L. 98–369, div. A, title I, §§42(a)(9), 127(a), 128(a), title IV, §412(b)(1), 98 Stat. 557, 648, 653, 792; Apr. 7, 1986, Pub. L. 99–272, title XII, §12103(b), 100 Stat. 285; Oct. 22, 1986, Pub. L. 99–514, title III, §301(b)(9), title XII, §§1211(b)(4), (5), 1214(c)(1), title XVIII, §1810(d)(1)(A), (2), (3)(A), (B), (e)(2)(A), 100 Stat. 2217, 2536, 2542, 2825, 2826; Nov. 10, 1988, Pub. L. 100–647, title I, §1001(d)(2)(B), title VI, §6134(a)(1), 102 Stat. 3350, 3721; July 3, 1992, Pub. L. 102–318, title V, §521(b)(28)–(30), 106 Stat. 312; Aug. 10, 1993, Pub. L. 103–66, title XIII, §§13113(d)(5), 13237(a)(1), (c)(1), 107 Stat. 430, 506, 508; Aug. 15, 1994, Pub. L. 103–296, title III, §320(a)(1)(A), 108 Stat. 1535; Dec. 8, 1994, Pub. L. 103–465, title VII, §733(a), 108 Stat. 5006.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 278; Sept. 2, 1958, Pub. L. 85–866, title I, §§40(a), 41(a), 72 Stat. 1638, 1639; Apr. 22, 1960, Pub. L. 86–437, §2(b), 74 Stat. 79; Sept. 21, 1961, Pub. L. 87–256, §110(b), 75 Stat. 535; Feb. 26, 1964, Pub. L. 88–272, title I, §113(b), title II, §201(d)(12), 78 Stat. 24, 32; Nov. 13, 1966, Pub. L. 89–809, title I, §103(a)(1), 80 Stat. 1547; Dec. 10, 1971, Pub. L. 92–178, title III, §313(a), (b), 85 Stat. 526, 527; Sept. 2, 1974, Pub. L. 93–406, title II, §2005(c)(8), 88 Stat. 992; Oct. 4, 1976, Pub. L. 94–455, title X, §1012(a)(2), title XIX, §§1901(b)(3)(I), 1906(b)(13)(A), 90 Stat. 1613, 1793, 1834; Nov. 6, 1978, Pub. L. 95–600, title IV, §§401(b)(3), 421(e)(4), 92 Stat. 2867, 2876; Apr. 1, 1980, Pub. L. 96–222, title I, §104(a)(4)(H)(v), 94 Stat. 217; Dec. 5, 1980, Pub. L. 96–499, title XI, §1122(c)(1), 94 Stat. 2687; Dec. 28, 1980, Pub. L. 96–605, title II, §227(a), 94 Stat. 3530; Aug. 13, 1981, Pub. L. 97–34, title VII, §725(c)(1), 95 Stat. 346; Apr. 20, 1983, Pub. L. 98–21, title I, §121(c)(1), title III, §335(b)(2)(B), 97 Stat. 82, 130; July 18, 1984, Pub. L. 98–369, div. A, title I, §§42(a)(9), 127(a), 128(a), title IV, §412(b)(1), 98 Stat. 557, 648, 653, 792; Apr. 7, 1986, Pub. L. 99–272, title XII, §12103(b), 100 Stat. 285; Oct. 22, 1986, Pub. L. 99–514, title III, §301(b)(9), title XII, §§1211(b)(4), (5), 1214(c)(1), title XVIII, §1810(d)(1)(A), (2), (3)(A), (B), (e)(2)(A), 100 Stat. 2217, 2536, 2542, 2825, 2826; Nov. 10, 1988, Pub. L. 100–647, title I, §1001(d)(2)(B), title VI, §6134(a)(1), 102 Stat. 3350, 3721; July 3, 1992, Pub. L. 102–318, title V, §521(b)(28)–(30), 106 Stat. 312; Aug. 10, 1993, Pub. L. 103–66, title XIII, §§13113(d)(5), 13237(a)(1), (c)(1), 107 Stat. 430, 506, 508; Aug. 15, 1994, Pub. L. 103–296, title III, §320(a)(1)(A), 108 Stat. 1535; Dec. 8, 1994, Pub. L. 103–465, title VII, §733(a), 108 Stat. 5006; Aug. 20, 1996, Pub. L. 104–188, title I, §§1401(b)(10), 1954(b)(1), 110 Stat. 1789, 1928.)
+
+#### Amendment of Subsection (b)
+
+<i>Pub. L. 104–188, title I, §1401(b)(10), (c), Aug. 20, 1996, 110 Stat. 1789, provided that, applicable to taxable years beginning after Dec. 31, 1999, with retention of certain transition rules, subsection (b)(1) of this section is amended by striking “section 1, 55, or 402(d)(1)” and inserting “section 1 or 55”.</i>
 
 #### References in Text
 
@@ -320,7 +324,11 @@ Section 207 of the Social Security Act, referred to in subsec. (a)(3)(A), is cla
 
 Section 932(c), referred to in subsec. (a)(3), was repealed and a new section 932(c) of this title, which does not relate to taxation of social security benefits, was enacted by Pub. L. 99–514, title XII, §§1272(d)(1), 1274(a), Oct. 22, 1986, 100 Stat. 2594, 2596.
 
+The Trade Act of 1974, referred to in subsec. (f)(2)(B), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, as amended. Title V of the Trade Act of 1974 is classified generally to subchapter V (§2461 et seq.) of chapter 12 of Title 19, Customs Duties. For complete classification of this Act to the Code, see section 2101 of Title 19 and Tables.
+
 #### Amendments
+
+1996—Subsec. (f)(2)(B). Pub. L. 104–188, §1954(b)(1), substituted “under title V” for “within the meaning of section 502”.
 
 1994—Subsec. (a)(3)(A). Pub. L. 103–465 substituted “85 percent” for “one-half”.
 
@@ -406,7 +414,7 @@ Subsec. (g)(7). Pub. L. 94–455, §1012(a)(2), added par. (7).
 
 Subsec. (a)(1)(C). Pub. L. 92–178, §313(b), designated existing provisions as cl. (i), inserted “and before April 1, 1972,” after “September 28, 1965,”, substituted “section 1232(a)(2)(B)” for “section 1232”, and inserted “, in the case of corporate obligations issued after May 27, 1969, and before April 1, 1972, amounts which would be so considered but for the fact the obligations were issued after May 27, 1969,”, and added cls. (ii) and (iii).
 
-1966—Subsecs. (a), (b). Pub. L. 89–809 consolidated the substance of former subsecs. (a) to (c) and, as part ofthe consolidation, revised the overall income tax treatment of nonresident alien individuals by substituting provisions dividing their income for tax purposes into two basic groups according to whether or not the income is effectively connected with a United States trade or business for provisions calling for different tax treatment based upon whether or not they are, or are not, engaged in a trade or business in the United States, with a further breakdown of those not engaged in trade or business in the United States as to whether their income is over or under $21,200.
+1966—Subsecs. (a), (b). Pub. L. 89–809 consolidated the substance of former subsecs. (a) to (c) and, as part of the consolidation, revised the overall income tax treatment of nonresident alien individuals by substituting provisions dividing their income for tax purposes into two basic groups according to whether or not the income is effectively connected with a United States trade or business for provisions calling for different tax treatment based upon whether or not they are, or are not, engaged in a trade or business in the United States, with a further breakdown of those not engaged in trade or business in the United States as to whether their income is over or under $21,200.
 
 Subsec. (c). Pub. L. 89–809 redesignated subsec. (d) as (c) and inserted provisions that any income described in section 1441(b)(1) or (2) which is received by such individual shall, to the extent derived from sources within the United States, be treated as effectively connected with the conduct of a trade or business within the United States. Substance of former subsec. (c) revised and incorporated into subsecs. (a) and (b).
 
@@ -425,6 +433,12 @@ Subsec. (b). Pub. L. 88–272, §§113(b)(1), (3), 201(d)(12), substituted “$1
 1958—Subsec. (a)(1). Pub. L. 85–866, §40(a), inserted “section 403(a)(2),” after “section 402(a)(2),”.
 
 Subsec. (b). Pub. L. 85–866, §41(a), inserted last par. covering former provisions of par. (3), which was struck out by the amendment, and containing new provisions with references to credits under section 34 and 35 and exclusion under section 116 of this title.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by section 1401(b)(10) of Pub. L. 104–188 applicable to taxable years beginning after Dec. 31, 1999, with retention of certain transition rules, see section 1401(c) of Pub. L. 104–188, set out as a note under section 402 of this title.
+
+Amendment by section 1954(b)(1) of Pub. L. 104–188 applicable to articles entered on or after Oct. 1, 1996, with provisions relating to retroactive application, see section 1953 of Pub. L. 104–188, set out as an Effective Date note under section 2461 of Title 19, Customs Duties.
 
 #### Effective Date of 1994 Amendments
 
@@ -468,7 +482,7 @@ Section 127(g) of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, Oct. 22
 
 “(1)
 
-In general.—Except as otherwise provided in this subsection, the amendments made by this section \[amending this section and sections 163, 864, 881, 1441, 1442, and 2105 of this title\] shall apply to interest received after the date of the enactment of this Act \[July 18, 1984\] with respect to obligations issued after such date, in taxable years ending after such date.
+In general.—Except as otherwise provided in this subsection, the amendments made by this section\[amending this section and sections 163, 864, 881, 1441, 1442, and 2105 of this title\] shall apply to interest received after the date of the enactment of this Act \[July 18, 1984\] with respect to obligations issued after such date, in taxable years ending after such date.
 
 “(2)
 
@@ -580,6 +594,10 @@ Section 41(c) of Pub. L. 85–866 provided that: “The amendments made by this 
 
 For nonapplication of amendments by sections 1211(b)(4), (5) and 1214(c)(1) of Pub. L. 99–514 to the extent application of such amendments would be contrary to any treaty obligation of the United States in effect on Oct. 22, 1986, with provision that for such purposes any amendment by title I of Pub. L. 100–647 be treated as if it had been included in the provision of Pub. L. 99–514 to which such amendment relates, see section 1012(aa)(3), (4) of Pub. L. 100–647, set out as a note under section 861 of this title.
 
+#### Plan Amendments Not Required Until January 1, 1998
+
+For provisions directing that if any amendments made by subtitle D \[§§1401–1465\] of title I of Pub. L. 104–188 require an amendment to any plan or annuity contract, such amendment shall not be required to be made before the first day of the first plan year beginning on or after Jan. 1, 1998, see section 1465 of Pub. L. 104–188, set out as a note under section 401 of this title.
+
 #### Plan Amendments Not Required Until January 1, 1994
 
 For provisions directing that if any amendments made by subtitle B \[§§521–523\] of title V of Pub. L. 102–318 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1994, see section 523 of Pub. L. 102–318, set out as a note under section 401 of this title.
@@ -613,4 +631,6 @@ Withholding tax on—
 This section is referred to in sections 2, 5, 26, 32, 306, 860G, 861, 864, 873, 877, 881, 882, 884, 887, 891, 897, 906, 1235, 1276, 1278, 1441, 1442, 1444, 1445, 2105, 6012, 6049, 7701 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be “(19 U.S.C. 2461 et seq.).”</i>
 

@@ -20,7 +20,7 @@
 
 &emsp;An advisory council—
 
-&emsp;&emsp;(A)(i) may on the basis of the materials provided by the organization respecting activities conducted at the organization, make recommendations to the Administrator or Director of the Administration or Center for which it was established respecting such activities;
+&emsp;&emsp;(A)(i) may on the basis of the materials provided by the organization respecting activities conducted at the organization, make recommendations to the Administrator or Director of the Administration or Center forwhich it was established respecting such activities;
 
 &emsp;&emsp;(ii) shall review applications submitted for grants and cooperative agreements for activities for which advisory council approval is required under section 290aa–3(d)(2) of this title and recommend for approval applications for projects that show promise of making valuable contributions to the Administration's mission; and
 

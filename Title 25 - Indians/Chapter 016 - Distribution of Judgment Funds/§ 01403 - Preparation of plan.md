@@ -6,13 +6,13 @@ The Secretary shall prepare a plan which shall best serve the interests of all t
 
 &emsp;(1) receive and consider any resolution or communication, together with any suggested use or distribution plan, which any affected Indian tribe may wish to submit to him; and
 
-&emsp;(2) hold a hearing of record, after appropriate public notice, to obtain the testimony of leaders and members of the Indian tribe which may receive any portion, or be affectedby the use or distribution, of such funds, in the area in which such Indian tribe is located and at a time which shall best serve the convenience of the eligible members thereof.
+&emsp;(2) hold a hearing of record, after appropriate public notice, to obtain the testimony of leaders and members of the Indian tribe which may receive any portion, or be affected by the use or distribution, of such funds, in the area in which such Indian tribe is located and at a time which shall best serve the convenience of the eligible members thereof.
 
 #### (b) Guidelines
 
 In preparing a plan for the use or distribution of the funds of each Indian judgment, the Secretary shall, among other things, be assured that—
 
-&emsp;(1) legal, financial, and other expertise of the Department of the Interior has been made fully available in an advisory capacity to the Indian tribe which is entitled to such funds to assist it to develop and communicate to the Secretary pursuant to clause (1) of subsection (a) of this section its own suggested plan for the distribution and use of such funds;
+&emsp;(1) legal, financial, and other expertise of the Department of the Interior has been made fully available in an advisory capacity to the Indian tribe which is entitled to such funds to assist it to develop and communicate to the Secretary pursuant to clause (1) of subsection\(a) of this section its own suggested plan for the distribution and use of such funds;
 
 &emsp;(2) the needs and desires of any groups or individuals who are in a minority position, but who are also entitled to receive such funds, have been fully ascertained and considered;
 

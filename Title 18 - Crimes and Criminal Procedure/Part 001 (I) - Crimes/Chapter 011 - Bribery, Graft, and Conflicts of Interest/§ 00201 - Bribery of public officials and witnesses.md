@@ -46,7 +46,7 @@
 
 &emsp;shall be fined under this title or imprisoned for not more than two years, or both.
 
-(d) Paragraphs (3) and (4) of subsection (b) and paragraphs (2) and (3) of subsection (c) shall not be construed to prohibit the payment or receipt of witness fees provided by law, or the payment, by the party upon whose behalf a witness is called and receipt by a witness, of the reasonable cost of travel and subsistence incurred and the reasonable value of time lost in attendanceat any such trial, hearing, or proceeding, or in the case of expert witnesses, a reasonable fee for time spent in the preparation of such opinion, and in appearing and testifying.
+(d) Paragraphs (3) and (4) of subsection (b) and paragraphs (2) and (3) of subsection (c) shall not be construed to prohibit the payment or receipt of witness fees provided by law, or the payment, by the party upon whose behalf a witness is called and receipt by a witness, of the reasonable cost of travel and subsistence incurred and the reasonable value of time lost in attendance at any such trial, hearing, or proceeding, or in the case of expert witnesses, a reasonable fee for time spent in the preparation of such opinion, and in appearing and testifying.
 
 (e) The offenses and penalties prescribed in this section are separate from and in addition to those prescribed in sections 1503, 1504, and 1505 of this title.
 
@@ -56,7 +56,7 @@
 
 A prior section 201, act June 25, 1948, ch. 645, 62 Stat. 691, prescribed penalties for anyone who offered or gave anything of value to an officer or other person to influence his decisions, prior to the general amendment of this chapter by Pub. L. 87–849, and is substantially covered by revised section 201.
 
-Provisions similar to those comprising this section were contained in former sections 201 to 213 of this title, prior to the general amendment of this chapter by Pub. L. 87–849.
+Provisions similar to those comprising this section were contained in sections 201 to 213 of this title, prior to the general amendment of this chapter by Pub. L. 87–849.
 
 #### Amendments
 
@@ -112,7 +112,11 @@ Amendment by Pub. L. 91–405 effective Sept. 22, 1970, see section 206(b) of Pu
 
 #### Effective Date
 
-Section 4 of Pub. L. 87–849 provided that: “This Act \[enacting this section and sections 202 to 209 and 218 of this title, redesignating sections 214, 215, 217 to 222 as 210, 211, 212 to 217 of this title respectively, repealing sections 223, 282, 284, 434, and 1914 of this title, and section 99 of former Title 5, Executive Departments and Government Officers and Employees, and enacting provisions set out as notes under section 281 and 282 of this title\] shall take effect ninety days after the date of its enactment \[Oct. 23, 1962\]”.
+Section 4 of Pub. L. 87–849 provided that: “This Act \[enacting this section and sections 202 to 209 and 218 ofthis title, redesignating sections 214, 215, 217 to 222 as 210, 211, 212 to 217 of this title respectively, repealing sections 223, 282, 284, 434, and 1914 of this title, and section 99 of former Title 5, Executive Departments and Government Officers and Employees, and enacting provisions set out as notes under section 281 and 282 of this title\] shall take effect ninety days after the date of its enactment \[Oct. 23, 1962\]”.
+
+#### Short Title of 1996 Amendment
+
+Pub. L. 104–177, §1, Aug. 6, 1996, 110 Stat. 1563, provided that: “This Act \[amending section 205 of this title\] may be cited as the ‘Federal Employee Representation Improvement Act of 1996’.”
 
 #### Short Title of 1986 Amendment
 
@@ -316,7 +320,7 @@ Set forth below are the citations to the legislative history of Public Law 87–
 
 18 U.S.C. 216, which was repealed by section 1(c) of Public Law 87–849, prohibited the payment to or acceptance by a Member of Congress or officer or employee of the Government of any money or thing of value for giving or procuring a Government contract. Since this offense is within the scope of the newly enacted 18 U.S.C. 201 and 18 U.S.C. 203, relating to bribery and conflicts of interest, respectively, section 216 is no longer necessary.
 
-<sup>2</sup> See section 2 of Public Law 87–849. 18 U.S.C. 281 and 18 U.S.C. 283 were not completely set aside by section 2 but remain in effect to the extent that they apply to retired officers of the Armed Forces (see “Retired Officers of the Armed Forces,” <i>infra).</i>
+<sup>2</sup> See section 2 of Public Law 87–849. 18 U.S.C. 281 and 18 U.S.C. 283 were not completely set aside by section 2 but remain in effect to the extent that they apply to retired officers of the Armed Forces (see “Retired Officers of the Armed Forces,” <i>infra</i>).
 
 <sup>3</sup> S. Rept. 2213, 87th Cong., 2d sess., p. 6.
 

@@ -24,7 +24,7 @@ The Secretary shall conduct in the Service, and encourage, cooperate with, and r
 
 #### (b) Testing for carcinogenicity, teratogenicity, mutagenicity, and other harmful biological effects; consultation
 
-(1) The Secretary shall conduct and may support through grants and contracts studies and testing of substances for carcinogenicity, teratogenicity, mutagenicity, and other harmful biological effects. In carrying out this paragraph, the Secretary shall consult with entities of the Federal Government, outside of the Department of Health and Human Services, engaged in comparable activities. The Secretary, upon request of such an entity and under appropriate arrangements for the payment of expenses, may conduct for such entity studies and testing of substancesfor carcinogenicity, teratogenicity, mutagenicity, and other harmful biological effects.
+(1) The Secretary shall conduct and may support through grants and contracts studies and testing of substances for carcinogenicity, teratogenicity, mutagenicity, and other harmful biological effects. In carrying out this paragraph, the Secretary shall consult with entities of the Federal Government, outside of the Department of Health and Human Services, engaged in comparable activities. The Secretary, upon request of such an entity and under appropriate arrangements for the payment of expenses, may conduct for such entity studies and testing of substances for carcinogenicity, teratogenicity, mutagenicity, and other harmful biological effects.
 
 (2)(A) The Secretary shall establish a comprehensive program of research into the biological effects of low-level ionizing radiation under which program the Secretary shall conduct such research and may support such research by others through grants and contracts.
 
@@ -140,6 +140,28 @@ Amendment by Pub. L. 92–423 effective 60 days after Sept. 19, 1972, or on such
 
 Amendment by Pub. L. 92–218 effective 60 days after Dec. 23, 1971, or on such prior date after Dec. 23, 1971, as the President shall prescribe and publish in the Federal Register, see section 7 of Pub. L. 92–218, set out as a note under section 218 of this title.
 
+#### Female Genital Mutilation
+
+Pub. L. 104–134, title I, §101(d) \[title V, §520\], Apr. 26, 1996, 110 Stat. 1321–211, 1321–250; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327, provided that:
+
+“(a) Congress finds that—
+
+&emsp;“(1) the practice of female genital mutilation is carried out by members of certain cultural and religious groups within the United States; and
+
+&emsp;“(2) the practice of female genital mutilation often results in the occurrence of physical and psychological health effects that harm the women involved.
+
+“(b) The Secretary of Health and Human Services shall do the following:
+
+&emsp;“(1) Compile data on the number of females living in the United States who have been subjected to female genital mutilation (whether in the United States or in their countries of origin), including a specification of the number of girls under the age of 18 who have been subjected to such mutilation.
+
+&emsp;“(2) Identify communities in the United States that practice female genital mutilation, and design and carry out outreach activities to educate individuals in the communities on the physical and psychological health effects of such practice. Such outreach activities shall be designed and implemented in collaboration with representatives of the ethnic groups practicing such mutilation and with representatives of organizations with expertise in preventing such practice.
+
+&emsp;“(3) Develop recommendations for the education of students of schools of medicine and osteopathic medicine regarding female genital mutilation and complications arising from such mutilation. Such recommendations shall be disseminated to such schools.
+
+“(c) For purposes of this section the term ‘female genital mutilation’ means the removal or infibulation (or both) of the whole or part of the clitoris, the labia minor, or the labia major.
+
+“(d) The Secretary of Health and Human Services shall commence carrying out this section not later than 90 days after the date of enactment of this Act \[Apr. 26, 1996\].”
+
 #### Sentinel Disease Concept Study
 
 Section 1910 of Pub. L. 103–43 provided that:
@@ -202,5 +224,5 @@ Pub. L. 93–641, §6, Jan. 4, 1975, 88 Stat. 2275, set out as a note under sect
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 242, 242a, 263, 282, 284, 7610 of this title.
+This section is referred to in sections 242, 242a, 254c, 263, 282, 284, 7610 of this title.
 

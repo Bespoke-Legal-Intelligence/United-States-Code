@@ -12,7 +12,7 @@ Any eligible recipient desiring financial assistance under this part shall, acco
 
 &emsp;(3) contain a description of how the needs of individuals who are members of special populations will be assessed and a description of the planned use of funds to meet such needs;
 
-&emsp;(4) describe how access to programs of good quality will be provided to students who are economically disadvantaged (including foster children), students with handicaps, and students of limited English proficiency through affirmative outreach and recruitment efforts;
+&emsp;(4) describe how access to programs of good quality will be provided to students who are economically disadvantaged (including fosterchildren), students with handicaps, and students of limited English proficiency through affirmative outreach and recruitment efforts;
 
 &emsp;(5) provide assurances that the programs funded under this part shall be carried out according to the criteria for programs for each special population;
 

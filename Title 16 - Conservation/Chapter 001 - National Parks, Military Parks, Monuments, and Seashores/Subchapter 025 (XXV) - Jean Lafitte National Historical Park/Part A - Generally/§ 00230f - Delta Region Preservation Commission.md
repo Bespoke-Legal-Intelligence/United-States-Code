@@ -36,7 +36,7 @@ The Commission shall act and advise by affirmative vote of a majority of its mem
 
 #### (e) Ex officio members; staff support and technical services; termination date
 
-The Directors of the Heritage Conservation and Recreation Service and the National Park Service shall serve as ex officio members of theCommission and provide such staff support and technical services as may be necessary to carry out the functions of the Commission. The Commission shall terminate twenty years from November 10, 1978.
+The Directors of the Heritage Conservation and Recreation Service and the National Park Service shall serve as ex officio members of the Commission and provide such staff support and technical services as may be necessary to carry out the functions of the Commission. The Commission shall terminate twenty years from November 10, 1978.
 
 (Pub. L. 95–625, title IX, §907, Nov. 10, 1978, 92 Stat. 3537; Pub. L. 96–87, title IV, §401(q)(3), (4), Oct. 12, 1979, 93 Stat. 666; Pub. L. 100–250, §1(c), Feb. 16, 1988, 102 Stat. 16; Pub. L. 100–355, §2, June 28, 1988, 102 Stat. 667.)
 

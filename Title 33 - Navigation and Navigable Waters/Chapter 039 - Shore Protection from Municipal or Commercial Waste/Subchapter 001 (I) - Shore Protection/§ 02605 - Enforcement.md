@@ -6,7 +6,7 @@ The Secretary of Transportation shall enforce this chapter under section 89 of t
 
 #### (b) Periodic examinations
 
-The Secretary shall conduct periodic examinations of vessels operating under this chapter transporting municipal or commercial waste to determine that each of these vessels has a permit issued under section 2602 of this title.
+The Secretary shall conduct periodic examinations of vessels operating under this chaptertransporting municipal or commercial waste to determine that each of these vessels has a permit issued under section 2602 of this title.
 
 #### (c) Refusal of clearance
 

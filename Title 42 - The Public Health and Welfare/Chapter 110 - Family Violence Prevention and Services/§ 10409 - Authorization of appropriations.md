@@ -16,15 +16,27 @@ There are authorized to be appropriated to carry out this chapter—
 
 #### (b) Section 10402(a) and (b)
 
-Of the amounts appropriated under subsection (a) of this section for each fiscal year, not less than 80 percent shall be used for making grants under subsection 10402(a) of this title, and not less than 10 percent shall be used for the purpose of carrying out section 10402(b) of this title.
+Of the amounts appropriated under subsection (a) of this section for each fiscal year, not less than 70 percent shall be used for making grants under subsection 10402(a) of this title, and not less than 10 percent shall be used for the purpose of carrying out section 10402(b) of this title.
 
 #### (c) Section 10407
 
 Of the amounts appropriated under subsection (a) of this section for each fiscal year, 5 percent shall be used by the Secretary for making grants under section 10407 of this title.
 
-(Pub. L. 98–457, title III, §310, Oct. 9, 1984, 98 Stat. 1763; Pub. L. 100–294, title III, §301, Apr. 25, 1988, 102 Stat. 124; Pub. L. 102–295, title III, §316, May 28, 1992, 106 Stat. 206; Pub. L. 103–322, title IV, §40241, Sept. 13, 1994, 108 Stat. 1934.)
+#### (d) Grants for State coalitions
+
+Of the amounts appropriated under subsection (a) of this section for each fiscal year, not less than 10 percent of such amounts shall be used by the Secretary for making grants under section 10410 of this title.
+
+#### (e) Non-supplanting requirement
+
+Federal funds made available to a State under this chapter shall be used to supplement and not supplant other Federal, State, and local public funds expended to provide services and activities that promote the purposes of this chapter.
+
+(Pub. L. 98–457, title III, §310, Oct. 9, 1984, 98 Stat. 1763; Pub. L. 100–294, title III, §301, Apr. 25, 1988, 102 Stat. 124; Pub. L. 102–295, title III, §316, May 28, 1992, 106 Stat. 206; Pub. L. 103–322, title IV, §40241, Sept. 13, 1994, 108 Stat. 1934; Pub. L. 104–235, title II, §203, Oct. 3, 1996, 110 Stat. 3089.)
 
 #### Amendments
+
+1996—Subsec. (b). Pub. L. 104–235, §203(1), substituted “70 percent” for “80 percent”.
+
+Subsecs. (d), (e). Pub. L. 104–235, §203(2), added subsecs. (d) and (e).
 
 1994—Subsec. (a). Pub. L. 103–322 amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “There are authorized to be appropriated to carry out the provisions of sections 10402 through 10408 of this title and section 10413 of this title, $60,000,000 for fiscal year 1992, and such sums as may be necessary for each of the fiscal years 1993 through 1995.”
 

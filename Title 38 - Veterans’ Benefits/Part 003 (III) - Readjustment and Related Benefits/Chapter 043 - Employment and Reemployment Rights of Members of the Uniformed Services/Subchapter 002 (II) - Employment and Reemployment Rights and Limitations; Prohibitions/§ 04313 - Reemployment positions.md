@@ -1,6 +1,6 @@
 ### §4313. Reemployment positions
 
-(a) Subject to subsection (b) (in the case of any employee) and sections 4314 and 4315 (in the case of an employee of the Federal Government), a person entitled to reemployment under section 4312, upon completion of a period of service in the uniformed services, shall be promptly reemployed in a position of employment in accordance with the following order of priority:
+(a) Subject to subsection (b) (in the case of any employee) and sections 4314 and 4315 (in thecase of an employee of the Federal Government), a person entitled to reemployment under section 4312, upon completion of a period of service in the uniformed services, shall be promptly reemployed in a position of employment in accordance with the following order of priority:
 
 &emsp;(1) Except as provided in paragraphs (3) and (4), in the case of a person whose period of service in the uniformed services was for less than 91 days—
 
@@ -14,13 +14,13 @@
 
 &emsp;&emsp;(B) in the position of employment in which the person was employed on the date of the commencement of the service in the uniformed services, or a position of like seniority, status and pay, the duties of which the person is qualified to perform, only if the person is not qualified to perform the duties of a position referred to in subparagraph (A) after reasonable efforts by the employer to qualify the person.
 
-&emsp;(3) In the case of a person who has a disability incurred in, or aggravated during, suchservice, and who (after reasonable efforts by the employer to accommodate the disability) is not qualified due to such disability to be employed in the position of employment in which the person would have been employed if the continuous employment of such person with the employer had not been interrupted by such service—
+&emsp;(3) In the case of a person who has a disability incurred in, or aggravated during, such service, and who (after reasonable efforts by the employer to accommodate the disability) is not qualified due to such disability to be employed in the position of employment in which the person would have been employed if the continuous employment of such person with the employer had not been interrupted by such service—
 
 &emsp;&emsp;(A) in any other position which is equivalent in seniority, status, and pay, the duties of which the person is qualified to perform or would become qualified to perform with reasonable efforts by the employer; or
 
 &emsp;&emsp;(B) if not employed under subparagraph (A), in a position which is the nearest approximation to a position referred to in subparagraph (A) in terms of seniority, status, and pay consistent with circumstances of such person's case.
 
-&emsp;(4) In the case of a person who (A) is not qualified to be employed in (i) the position of employment in which the person would have been employed if the continuous employment of such person with the employer had not been interrupted by such service, or (ii) in the position of employment in which such person was employed on the date of the commencement of the service in the uniform services for any reason (other than disability incurred in, or aggravated during, service in the uniformed services), and (B) cannot become qualified with reasonable efforts by the employer, in any other position of lesser status and pay which such person is qualified to perform, with full seniority.
+&emsp;(4) In the case of a person who (A) is not qualified to be employed in (i) the position of employment in which the person would have been employed if the continuous employment of such person with the employer had not been interrupted by such service, or (ii) in the position of employment in which such person was employed on the date of the commencement of the service in the uniformed services for any reason (other than disability incurred in, or aggravated during, service in the uniformed services), and (B) cannot become qualified with reasonable efforts by the employer, in any other position which is the nearest approximation to a position referred to first in clause (A)(i) and then in clause (A)(ii) which such person is qualified to perform, with full seniority.
 
 (b)(1) If two or more persons are entitled to reemployment under section 4312 in the same position of employment and more than one of them has reported for such reemployment, the person who left the position first shall have the prior right to reemployment in that position.
 
@@ -30,11 +30,19 @@
 
 &emsp;(B) In the case of a person who has a disability incurred in, or aggravated during, a period of service in the uniformed services that requires reasonable efforts by the employer for the person to be able to perform the duties of the position of employment, in any other position referred to in subsection (a)(3) (in the order of priority set out in that subsection) that provides a similar status and pay to a position referred to in paragraph (1) of this subsection, consistent with circumstances of such person's case, with full seniority.
 
-(Added Pub. L. 103–353, §2(a), Oct. 13, 1994, 108 Stat. 3157.)
+(Added Pub. L. 103–353, §2(a), Oct. 13, 1994, 108 Stat. 3157; amended Pub. L. 104–275, title III, §311(5), Oct. 9, 1996, 110 Stat. 3335.)
 
 #### Prior Provisions
 
 A prior section 4313 was renumbered section 7613 of this title.
+
+#### Amendments
+
+1996—Subsec. (a)(4). Pub. L. 104–275 substituted “uniformed services” for “uniform services” in cl. (A)(ii) and “which is the nearest approximation to a position referred to first in clause (A)(i) and then in clause (A)(ii) which” for “of lesser status and pay which” in cl. (B).
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–275 effective Oct. 13, 1994, see section 313 of Pub. L. 104–275, set out as a note under section 4301 of this title.
 
 #### Effective Date
 
@@ -42,5 +50,5 @@ Section effective with respect to reemployments initiated on or after the first 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 4312, 4314, 4315 of this title; title 2 section 1316.
+This section is referred to in sections 4312, 4314, 4315 of this title; title 2 section 1316; title 3 section 416.
 

@@ -50,7 +50,7 @@ For purposes of this section, the term “trade or business” includes any acti
 
 #### (C) Qualifying organization
 
-&emsp;&emsp;For purposes of this paragraph, the term “qualifying organization” means an organization which is described in section 501(c) (3), (4), or (5) which regularly conducts, as one of its substantial exempt purposes, an agricultural and educational fair or exposition.
+&emsp;&emsp;For purposes of this paragraph, the term “qualifying organization” means an organization which is described in section 501(c) (3), (4), or (5) which regularly conducts, as one of its substantial exempt purposes, anagricultural and educational fair or exposition.
 
 #### (3) Qualified convention and trade show activities
 
@@ -158,9 +158,9 @@ In the case of a mutual or cooperative telephone or electric company, the term �
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 172; July 14, 1960, Pub. L. 86–667, §4, 74 Stat. 536; Dec. 30, 1969, Pub. L. 91–172, title I, §121(b)(4), (c), 83 Stat. 541, 542; Oct. 4, 1976, Pub. L. 94–455, title XIII, §§1305(a), 1311(a), 90 Stat. 1716, 1729; Oct. 21, 1978, Pub. L. 95–502, title III, §301(a), 92 Stat. 1702; Dec. 28, 1980, Pub. L. 96–605, title I, §106(b), 94 Stat. 3524; Oct. 22, 1986, Pub. L. 99–514, title XVI, §§1601(a), 1602(a), (b), 100 Stat. 2766, 2767; Nov. 5, 1990, Pub. L. 101–508, title XI, §11101(d)(1)(G), 104 Stat. 1388–405; Aug. 10, 1993, Pub. L. 103–66, title XIII, §13201(b)(3)(H), 107 Stat. 459.)
 
-#### Adjustment of Low Cost Article Limitation for Tax Years Beginning in 1996
+#### Adjustment of Low Cost Article Limitation for Tax Years Beginning in 1997
 
-<i>For adjustment of “low cost article” limitation under subsection (h)(2) of this section for tax years beginning in 1996, see section 3.09 of Revenue Procedure 95–53, set out as a note under section 1 of this title.</i>
+<i>For adjustment of “low cost article” limitation under subsection (h)(2) of this section for tax years beginning in 1997, see section 3.11 of Revenue Procedure 96–59, set out as a note under section 1 of this title.</i>
 
 #### Amendments
 
@@ -170,7 +170,7 @@ In the case of a mutual or cooperative telephone or electric company, the term �
 
 1986—Subsec. (d)(3)(B). Pub. L. 99–514, §1602(a), inserted “or to educate persons in attendance regarding new developments or products and services related to the exempt activities of the organization”.
 
-Subsec. (d)(3)(C). Pub. L. 99–514, §1602(b), substituted “section 501(c)(3), (4), (5), or (6)” for “section 501(c)(5) or\(6)” and inserted “or which educates persons in attendance regarding new developments or products and services related to the exempt activities of the organization”.
+Subsec. (d)(3)(C). Pub. L. 99–514, §1602(b), substituted “section 501(c)(3), (4), (5), or (6)” for “section 501(c)(5) or (6)” and inserted “or which educates persons in attendance regarding new developments or products and services related to the exempt activities of the organization”.
 
 Subsec. (h). Pub. L. 99–514, §1601(a), added subsec. (h).
 
@@ -218,7 +218,7 @@ Section 1311(b) of Pub. L. 94–455, as amended by Pub. L. 99–514, §2, Oct. 2
 
 #### Effective Date of 1969 Amendment
 
-Amendment by Pub. L. 91–172 applicable to taxable years beginning after Dec. 31, 1969, see section 121(g) of Pub. L. 91–172, set out as a note under section 511 of this title.
+Amendment by Pub. L. 91–172 applicable to taxable years beginning after Dec. 31, 1969, see section 121(g) ofPub. L. 91–172, set out as a note under section 511 of this title.
 
 #### Effective Date of 1960 Amendment
 
@@ -250,5 +250,5 @@ Effective Date.—Subsection (a) shall apply to games of chance conducted after 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 144, 145, 150, 414, 501, 509, 512, 514, 527, 1245, 1250, 3121, 4942, 7611 of this title; title 16 section 2708; title 29 section 1002; title 39 section 3626; title 42 section 410.
+This section is referred to in sections 144, 145, 150, 414, 501, 509, 512, 514, 527, 593, 1245, 1250, 3121, 4942, 7611 of this title; title 16 section 2708; title 29 section 1002; title 39 section 3626; title 42 section 410.
 

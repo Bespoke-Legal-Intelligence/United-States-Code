@@ -42,7 +42,7 @@
 
 &emsp;(B) an evaluation of the ability of the Board (based on existing and projected personnel levels) to ensure timely disposition of such appeals as required by section 7101(a) of this title.
 
-(e) A performance incentive that is authorized by law for officers and employees of the Federal Government may be awarded to a member of the Board (including an acting member) by reason ofthat member's service on the Board only if the Chairman of the Board determines that such member should be awarded that incentive. A determination by the Chairman for such purpose shall be made taking into consideration the quality of performance of the Board member.
+(e) A performance incentive that is authorized by law for officers and employees of the Federal Government may be awarded to a member of the Board (including an acting member) by reason of that member's service on the Board only if the Chairman of the Board determines that such member should be awarded that incentive. A determination by the Chairman for such purpose shall be made taking into consideration the quality of performance of the Board member.
 
 (Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1240, §4001; Pub. L. 98–223, title II, §208(a)–(c), Mar. 2, 1984, 98 Stat. 43, 44; Pub. L. 100–687, div. A, title II, §§201(a), 202(b), 208, 209, Nov. 18, 1988, 102 Stat. 4109, 4110, 4112; renumbered §7101 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–54, §14(e)(2), June 13, 1991, 105 Stat. 287; Pub. L. 102–83, §§2(c)(3), 4(a)(3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 402, 404, 405; Pub. L. 103–271, §§2–5, July 1, 1994, 108 Stat. 740, 741; Pub. L. 103–446, title II, §§201(d), 203, Nov. 2, 1994, 108 Stat. 4657.)
 

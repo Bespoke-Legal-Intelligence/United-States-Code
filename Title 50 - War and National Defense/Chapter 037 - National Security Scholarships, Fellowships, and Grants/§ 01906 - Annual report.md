@@ -2,7 +2,7 @@
 
 #### (a) Annual report
 
-The Secretary shall submit to the President and to the Congress an annual report of the conduct of the program required by this chapter. The report shall be submitted each year at thetime that the President's budget for the next fiscal year is submitted to Congress pursuant to section 1105 of title 31.
+The Secretary shall submit to the President and to the Congress an annual report of the conduct of the program required by this chapter. The report shall be submitted each year at the time that the President's budget for the next fiscal year is submitted to Congress pursuant to section 1105 of title 31.
 
 #### (b) Contents of report
 
@@ -22,9 +22,11 @@ Each such report shall contain—
 
 &emsp;&emsp;(B) in the case of individuals who did not subsequently become employees of the United States Government, an analysis of the reasons why they did not become employees and an explanation as to what use, if any, was made of the assistance by those recipients; and
 
-&emsp;&emsp;(C) the uses made of grants to educational institutions; and
+&emsp;&emsp;(C) the uses made of grants to educational institutions;
 
-&emsp;(6) any legislative changes recommended by the Secretary to facilitate the administration of the program or otherwise to enhance its objectives.
+&emsp;(6) the current list of agencies and offices of the Federal Government required to be developed by section 1902(g) of this title; and
+
+&emsp;(7) any legislative changes recommended by the Secretary to facilitate the administrationof the program or otherwise to enhance its objectives.
 
 #### (c) Submission of initial report
 
@@ -34,13 +36,15 @@ The first report under this section shall be submitted at the time the budget fo
 
 During the preparation of each report required by subsection (a) of this section, the Secretary shall consult with the members of the Board specified in paragraphs (1) through (7) of section 1903(b) of this title. Each such member shall submit to the Secretary an assessment of their hiring needs in the areas of language and area studies and a projection of the deficiencies in such areas. The Secretary shall include all assessments in the report required by subsection (a) of this section.
 
-(Pub. L. 102–183, title VIII, §806, Dec. 4, 1991, 105 Stat. 1276; Pub. L. 103–178, title III, §311(b)(1), Dec. 3, 1993, 107 Stat. 2037.)
+(Pub. L. 102–183, title VIII, §806, Dec. 4, 1991, 105 Stat. 1276; Pub. L. 103–178, title III, §311(b)(1), Dec. 3, 1993, 107 Stat. 2037; Pub. L. 104–201, div. A, title X, §1078(f)(3), Sept. 23, 1996, 110 Stat. 2667.)
 
 #### Amendments
+
+1996—Subsec. (b)(5) to (7). Pub. L. 104–201 struck out “and” at end of par. (5), added par. (6), and redesignated former par. (6) as (7).
 
 1993—Subsec. (d). Pub. L. 103–178 added subsec. (d).
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1902 of this title.
+This section is referred to in sections 1902, 1903 of this title.
 

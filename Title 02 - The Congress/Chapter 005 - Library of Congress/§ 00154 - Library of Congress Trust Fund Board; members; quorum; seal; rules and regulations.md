@@ -10,7 +10,7 @@ Section is comprised of first par. of section 1 of act Mar. 3, 1925. Second par.
 
 #### Amendments
 
-1992—Pub. L. 102–246 struck out “and” after “Librarian of Congress,” inserted “, four persons appointed by the Speaker of the House of Representatives (in consultation with the minority leader of the House of Representatives) for a term of five years each (the first appointments being for two, three, four, and five years, respectively), and four persons appointed by the majority leader of the Senate (in consultation with the minority leader of the Senate) for a term of five years each (the first appointments being for two, three, four, and five years, respectively)” after “respectively)”, and substituted “Nine” for “Three”.
+1992—Pub. L. 102–246 struck out “and” after “Librarian of Congress,” inserted “, four persons appointed by the Speaker of the House of Representatives (in consultation with the minority leader of the House of Representatives) for a term of five years each (the first appointments being for two, three, four, and five years, respectively), and four persons appointed by the majority leader of the Senate (in consultation with the minority leader of the Senate) for a term of five years each (the first appointments being for two, three, four,and five years, respectively)” after “respectively)”, and substituted “Nine” for “Three”.
 
 1978—Pub. L. 95–277 inserted “(or an Assistant Secretary designated in writing by the Secretary of the Treasury)”.
 

@@ -40,11 +40,11 @@ United States Capitol Grounds and Buildings.—Immediately upon the acquisition 
 
 “(c)
 
-Building Codes.—The real property and improvements acquired in accordance with subsection (a) shall be repaired and altered, to the maximum extentfeasible as determined by the Architect of the Capitol, in accordance with a nationally recognized model building code, and other applicable nationally recognized codes (including electrical codes, fire and life safety codes, and plumbing codes, as determined by the Architect of the Capitol), using the most current edition of the nationally recognized codes referred to in this subsection.
+Building Codes.—The real property and improvements acquired in accordance with subsection (a) shall be repaired and altered, to the maximum extent feasible as determined by the Architect of the Capitol, in accordance with a nationally recognized model building code, and other applicable nationally recognized codes (including electrical codes, fire and life safety codes, and plumbing codes, as determined by the Architect of the Capitol), using the most current edition of the nationally recognized codes referred to in this subsection.
 
 “(d)
 
-Repairs; Expenditures.—The Architect of the Capitol is authorized, without regard to the provisions of section 3709 of the Revised Statutes of the United States \[41 U.S.C. 5\], to enter into contracts and to make expenditures for (1) necessary repairs to, and refurbishment of, the real property and the improvements on such real property acquired in accordance with subsection (a), including expenditures for personal and other services as may be necessary to carry out the purposes of this Act; and (2) for the construction on such real property of any facilities thereon as authorized under subsection (f). In no event shall the aggregate value of contracts and expenditures under this subsection exceed an amount equal to that authorized to be appropriated pursuant to subsection (e).
+Repairs; Expenditures.—The Architect of the Capitol is authorized, without regard to the provisions of section 3709 of the Revised Statutes of the United States \[41 U.S.C. 5\], to enter into contracts and to make expenditures for (1) necessary repairs to, and refurbishment of, the real property and the improvements on such real property acquired in accordancewith subsection (a), including expenditures for personal and other services as may be necessary to carry out the purposes of this Act; and (2) for the construction on such real property of any facilities thereon as authorized under subsection (f). In no event shall the aggregate value of contracts and expenditures under this subsection exceed an amount equal to that authorized to be appropriated pursuant to subsection (e).
 
 “(e)
 
@@ -84,11 +84,11 @@ Pub. L. 94–157, title I, §112, Dec. 18, 1975, 89 Stat. 832, provided that:
 
 #### Construction of Extension to New Senate Office Building
 
-Pub. L. 96–69, title V, §502, Sept. 25, 1979, 93 Stat. 450, appropriated additional funds of $52,583,400 toward finishing construction of an extension to the New Senate Office Building, to remain available until expended, set the figure $137,730,400 as the ceiling on the total cost forconstruction of the building, and further provided that the building and office space therein upon completion meet all needs for personnel presently supplied by the Carrol Arms, the Senate Courts, the Plaza Hotel, and the Capitol Hill Apartments and that those buildings be vacated.
+Pub. L. 96–69, title V, §502, Sept. 25, 1979, 93 Stat. 450, appropriated additional funds of $52,583,400 toward finishing construction of an extension to the New Senate Office Building, to remain available until expended, set the figure $137,730,400 as the ceiling on the total cost for construction of the building, and further provided that the building and office space therein upon completion meet all needs for personnel presently supplied by the Carrol Arms, the Senate Courts, the Plaza Hotel, and the Capitol Hill Apartments and that those buildings be vacated.
 
 Pub. L. 93–245, ch. VI, Jan. 3, 1974, 87 Stat. 1079, appropriated funds for the construction of an extension of the Senate subway transportation system, construction of additional floor levels on the rear center wing of the Dirksen Office Building, changes to the Dirksen and Russell Office Buildings to provide improved means of circulation to, in, and through those buildings and the extension, and other changes required to properly correlate use of the three buildings.
 
-Pub. L. 92–607, ch. V, §508, Oct. 31, 1972, 86 Stat. 1510, appropriated funds for the construction and equipment of an extension to the New Senate Office Building and for structural and other changes in the existing New Senate Office Building necessitated by such construction.
+Pub. L. 92–607, ch. V, §508, Oct. 31, 1972, 86 Stat. 1510, appropriated funds for the construction and equipment of an extension to the New Senate Office Building and for structural and other changes in the existing NewSenate Office Building necessitated by such construction.
 
 #### Development of Plans for Garage and Related Facilities for Senate
 

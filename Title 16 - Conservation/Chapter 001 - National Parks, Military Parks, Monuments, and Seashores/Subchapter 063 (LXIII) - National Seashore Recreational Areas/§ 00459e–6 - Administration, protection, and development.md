@@ -10,7 +10,7 @@ Access to that section of the seashore lying between the easterly boundary of th
 
 #### (c) Utilization of authority for conservation and development of natural resources; user fees
 
-In administering, protecting, and developing the entire Fire Island National Seashore, the Secretary shall be guided by the provisions of sections 459e to 459e–9 of this title and the applicable provisions of the laws relating to the national park system, and the Secretary may utilize any other statutory authority available to him for the conservation and development of natural resources to the extent he finds that such authority will further the purposes of sections 459e to 459e–9 of this title. Appropriate user fees may be collected notwithstanding any limitation on such authority by any provision of law.
+In administering, protecting, and developing the entire Fire Island National Seashore, theSecretary shall be guided by the provisions of sections 459e to 459e–9 of this title and the applicable provisions of the laws relating to the national park system, and the Secretary may utilize any other statutory authority available to him for the conservation and development of natural resources to the extent he finds that such authority will further the purposes of sections 459e to 459e–9 of this title. Appropriate user fees may be collected notwithstanding any limitation on such authority by any provision of law.
 
 (Pub. L. 88–587, §7, Sept. 11, 1964, 78 Stat. 931; Pub. L. 95–625, title III, §322(c), Nov. 10, 1978, 92 Stat. 3489.)
 

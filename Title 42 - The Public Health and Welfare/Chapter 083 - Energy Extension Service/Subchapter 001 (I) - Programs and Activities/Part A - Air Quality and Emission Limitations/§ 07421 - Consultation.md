@@ -16,7 +16,7 @@ In carrying out the requirements of this chapter requiring applicable implementa
 
 #### References in Text
 
-Section 7413(d) of this title, referred to in text, was amended generally by Pub. L. 101–549, title VII, §701, Nov. 15, 1990, 104 Stat. 2672, and, as so amended, no longer relates to final compliance orders.
+Section 7413(d) of this title, referred to in text, was amended generally by Pub. L. 101–549, title VII, §701,Nov. 15, 1990, 104 Stat. 2672, and, as so amended, no longer relates to final compliance orders.
 
 #### Amendments
 

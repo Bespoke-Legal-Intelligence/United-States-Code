@@ -14,7 +14,9 @@ Not later than April 1 of each year, the Secretary of Transportation shall submi
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

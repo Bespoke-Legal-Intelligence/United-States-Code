@@ -34,7 +34,7 @@ The purpose of the Foundation shall be to support the National Institutes of Hea
 
 #### (2) Fees
 
-&emsp;The Foundation may assess fees for the provision of professional, administrative and management services by the Foundation in amounts determined reasonable and appropriate by the Executive Director.
+&emsp;The Foundation may assess fees for the provision of professional, administrative andmanagement services by the Foundation in amounts determined reasonable and appropriate by the Executive Director.
 
 #### (3) Authority of Foundation
 
@@ -218,7 +218,7 @@ No participant in the program established under this part shall exercise any adm
 
 #### (8) National Institutes of Health Amendments of 1990
 
-&emsp;The activities conducted in support of the National Institutes of Health Amendments of1990 (Public Law 101–613), and the amendments made by such Act, shall not be nullified by the enactment of this section.<sup>3</sup>
+&emsp;The activities conducted in support of the National Institutes of Health Amendments of 1990 (Public Law 101–613), and the amendments made by such Act, shall not be nullified by the enactment of this section.<sup>3</sup>
 
 #### (9) Limitation of activities
 
@@ -248,21 +248,7 @@ No participant in the program established under this part shall exercise any adm
 
 &emsp;Amounts appropriated under any provision of law other than paragraph (1) may not be expended to establish or operate the Foundation.
 
-#### (n) Report on adequacy of compliance
-
-#### (1) In general
-
-&emsp;With respect to the mission and function of the Foundation, the Comptroller General of the United States shall conduct an audit to determine—
-
-&emsp;&emsp;(A) whether the Foundation is in compliance with the guidelines established under this section; and
-
-&emsp;&emsp;(B) whether the procedures utilized under this section are adequate to prevent conflicts of interest involving the Foundation, the employees of the Foundation or members of the Board of the Foundation.
-
-#### (2) Report
-
-&emsp;Not later than 18 months after the date on which the Foundation is incorporated, the Comptroller General of the United States shall complete the audit required under paragraph (1) and prepare and submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Labor and Human Resources of the Senate, a report describing the findings made with respect to such audit.
-
-(July 1, 1944, ch. 373, title IV, §499, formerly §499A, as added Nov. 16, 1990, Pub. L. 101–613, §2, 104 Stat. 3224; amended Nov. 26, 1991, Pub. L. 102–170, title II, §216, 105 Stat. 1128; July 10, 1992, Pub. L. 102–321, title I, §163(b)(6), 106 Stat. 376; renumbered §499 and amended June 10, 1993, Pub. L. 103–43, title I, §121(b)(3), title XVII, §1701, 107 Stat. 133, 186.)
+(July 1, 1944, ch. 373, title IV, §499, formerly §499A, as added Nov. 16, 1990, Pub. L. 101–613, §2, 104 Stat. 3224; amended Nov. 26, 1991, Pub. L. 102–170, title II, §216, 105 Stat. 1128; July 10, 1992, Pub. L. 102–321, title I, §163(b)(6), 106 Stat. 376; renumbered §499 and amended June 10, 1993, Pub. L. 103–43, title I, §121(b)(3), title XVII, §1701, 107 Stat. 133, 186; Oct. 19, 1996, Pub. L. 104–316, title I, §122(b), 110 Stat. 3836.)
 
 #### References in Text
 
@@ -275,6 +261,8 @@ The National Institutes of Health Amendments of 1990, referred to in subsec. (k)
 A prior section 499 of act July 1, 1944, was classified to section 289h of this title prior to repeal by Pub. L. 103–43.
 
 #### Amendments
+
+1996—Subsec. (n). Pub. L. 104–316 struck out subsec. (n) which required Comptroller General to conduct audit and prepare report to Congress on adequacy of compliance of the Foundation with guidelines established under this section.
 
 1993—Subsec. (a). Pub. L. 103–43, §1701(1), inserted “, acting through the Director of NIH,” after “Secretary shall” and struck out “, except for the purposes of the Ethics in Government Act and the Technology Transfer Act,” after “shall not”.
 
@@ -326,7 +314,7 @@ Subsec. (i)(15). Pub. L. 103–43, §1701(5)(I), substituted “part” for “s
 
 Subsec. (j). Pub. L. 103–43, §1701(2), redesignated subsec. (h) as (j).
 
-Subsecs. (k), (<i>l</i>). Pub. L. 103–43, §1701(6), added subsecs. (k) and (<i>l).</i>
+Subsecs. (k), (<i>l</i>). Pub. L. 103–43, §1701(6), added subsecs. (k) and (<i>l</i>).
 
 Subsec. (m). Pub. L. 103–43, §1701(7), amended heading and text of subsec. (m) generally. Prior to amendment, text read as follows:
 

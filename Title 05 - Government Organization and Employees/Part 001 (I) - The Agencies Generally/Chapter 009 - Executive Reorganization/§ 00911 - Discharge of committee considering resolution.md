@@ -10,7 +10,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 5 U.S.C. 133z–13.
 
@@ -24,11 +26,11 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-<b>1984</b>—Pub. L. 98–614 substituted “75 calendar days” for “45 calendar days”.
+1984—Pub. L. 98–614 substituted “75 calendar days” for “45 calendar days”.
 
-<b>1977</b>—Pub. L. 95–17 substituted provisions deeming the committee discharged from further consideration of a resolution where that committee has not reported the resolution within 45 days of continuous session of Congress after the resolution's introduction for provisions permitting a motion to discharge a committee where the committee considering a resolution has not reported the resolution within 20 calendar days after the resolution's introduction, provisions permitting a motion to discharge to be made only by an individual favoring the resolution and limiting debate to 1 hour, and provisions prohibiting a renewal of a motion to discharge where the original motion was agreed to or disagreed to or the making of another motion with respect to a resolution from the same reorganization plan.
+1977—Pub. L. 95–17 substituted provisions deeming the committee discharged from further consideration of a resolution where that committee has not reported the resolution within 45 days of continuous session of Congress after the resolution's introduction for provisions permitting a motion to discharge a committee where the committee considering a resolution has not reported the resolution within 20 calendar days after the resolution's introduction, provisions permitting a motion to discharge to be made only by an individual favoring the resolution and limiting debate to 1 hour, and provisions prohibiting a renewal of a motion to discharge where the original motion was agreed to or disagreed to or the making of another motion with respect to a resolution from the same reorganization plan.
 
-<b>1971</b>—Subsec. (a). Pub. L. 92–179 substituted “20 calendar days” for “10 calendar days”.
+1971—Subsec. (a). Pub. L. 92–179 substituted “20 calendar days” for “10 calendar days”.
 
 #### Section Referred to in Other Sections
 

@@ -4,17 +4,13 @@ The purpose of this subchapter is to establish a framework for the conduct of ne
 
 (Added Pub. L. 101–648, §3(a), Nov. 29, 1990, 104 Stat. 4970, §581; renumbered §561, Pub. L. 102–354, §3(a)(2), Aug. 26, 1992, 106 Stat. 944.)
 
-#### Repeal of Section
-
-<i>Section repealed effective six years after Nov. 29, 1990, see section 5 of Pub. L. 101–648, as amended, set out as an Effective Date of Repeal; Savings Provision note below.</i>
-
 #### Amendments
 
-<b>1992</b>—Pub. L. 102–354 renumbered section 581 of this title as this section.
+1992—Pub. L. 102–354 renumbered section 581 of this title as this section.
 
 #### Effective Date of Repeal; Savings Provision
 
-Section 5 of Pub. L. 101–648, as amended by Pub. L. 102–354, §5(a)(2), Aug. 26, 1992, 106 Stat. 945, provided that: “Subchapter III of chapter 5 of title 5, United States Code (enacted as subchapter IV of chapter 5 of title 5, United States Code, by section 3 of this Act and redesignated as subchapter III of such chapter 5 by section (3)(a) of the Administrative Procedure Technical Amendments Act of 1991 \[Pub. L. 102–354\]) and that portion of the table of sections at the beginning of chapter 5 of title 5, United States Code, relating to subchapter III, are repealed, effective 6 years after the date of the enactment of this Act \[Nov. 29, 1990\], except that the provisions of such subchapter shall continue to apply after the date of the repeal with respect to then pending negotiated rulemaking proceedings initiated before the date of repeal which, in the judgment of the agencies which are convening or have convened such proceedings, require such continuation, until such negotiated rulemaking proceedings terminate pursuant to such subchapter.”
+Section 5 of Pub. L. 101–648, as amended by Pub. L. 102–354, §5(a)(2), Aug. 26, 1992, 106 Stat. 945, which provided that subchapter III of chapter 5 of title 5 and the table of sections corresponding to such subchapter, were repealed, effective 6 years after Nov. 29, 1990, except for then pending proceedings, was repealed by Pub. L. 104–320, §11(a), Oct. 19, 1996, 110 Stat. 3873.
 
 #### Short Title of 1992 Amendment
 

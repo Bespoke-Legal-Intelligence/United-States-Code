@@ -12,7 +12,7 @@ In the case of stock and securities of a corporation the value of which, by reas
 
 &emsp;&emsp;<b>For executor's right to be furnished on request a statement regarding any valuation made by the Secretary within the gross estate, see section 7517.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 380; Oct. 16, 1962, Pub. L. 87–834, §18(a)(1), 76 Stat. 1052; Oct. 4, 1976,Pub. L. 94–455, title XX, §2008(a)(2)(A), 90 Stat. 1891.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 380; Oct. 16, 1962, Pub. L. 87–834, §18(a)(1), 76 Stat. 1052; Oct. 4, 1976, Pub. L. 94–455, title XX, §2008(a)(2)(A), 90 Stat. 1891.)
 
 #### Amendments
 

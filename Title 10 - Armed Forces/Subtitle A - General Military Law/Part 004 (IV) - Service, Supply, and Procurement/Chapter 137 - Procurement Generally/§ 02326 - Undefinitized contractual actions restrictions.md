@@ -104,7 +104,7 @@ Section 101(c) \[title X, §908(d)(2)\] of Pub. L. 99–500 and Pub. L. 99–591
 
 #### Limitation on Use of Funds for Undefinitized Contractual Actions; Oversight by Inspector General; Waiver Authority
 
-Section 101(c) \[title X, §908(a)–(c), (e)\] of Pub. L. 99–500 and Pub. L. 99–591, and section 908(a)–(c), (e) of title IX, formerly title IV, of Pub. L. 99–661, renumbered title IX and amended by Pub. L. 100–26, §§3(5), 5(2), Apr. 21, 1987, 101 Stat. 273, 274, provided that:
+Section 101(c) \[title X, §908(a)–(c), (e)\] of Pub. L. 99–500 and Pub. L. 99–591, and section 908(a)–(c), (e) of title IX, formerly title IV, of Pub. L. 99–661; renumbered title IX and amended by Pub. L. 100–26, §§3(5), 5(2), Apr. 21, 1987, 101 Stat. 273, 274; Pub. L. 104–106, div. D, title XLIII, §4322(b)(2), Feb. 10, 1996, 110 Stat. 677, provided that:
 
 “(a)
 
@@ -126,7 +126,7 @@ Limitation on Use of Funds for Undefinitized Contractual Actions.—(1) On the l
 
 &emsp;&emsp;“(ii) the amount of such funds obligated for undefinitized contractual actions; and
 
-&emsp;“(B) except with respect to the six-month period described in paragraph (4)(A), may not enter into any additional undefinitized contractual actions until the date on which the Secretary certifies to Congress that such limit is not exceeded by the cumulative amount of funds obligated for undefinitized contractual actions under the jurisdiction of the Secretary that are not definitized on or before such date and were entered into—
+&emsp;“(B) except with respect to the six-month period described in paragraph (4)(A), may not enter into any additional undefinitized contractual actions until the date on which the Secretary certifies to Congressthat such limit is not exceeded by the cumulative amount of funds obligated for undefinitized contractual actions under the jurisdiction of the Secretary that are not definitized on or before such date and were entered into—
 
 &emsp;&emsp;“(i) during the six-month period for which such limit was exceeded; or
 
@@ -158,5 +158,5 @@ Waiver Authority.—The Secretary of Defense may waive the application of subsec
 
 “(e)
 
-Definition.—For purposes of this section, the term ‘undefinitized contractual action’ has the meaning given such term in section 2325(g) of title 10, United States Code (as added by subsection (d)(1)).”
+Definition.—For purposes of this section, the term ‘undefinitized contractual action’ has the meaning given such term in section 2326(g) of title 10, United States Code (as added by subsection (d)(1)).”
 

@@ -2,11 +2,25 @@
 
 #### (a) General
 
-Notwithstanding any other provision of law, the final system plan which is adopted by the Association and which becomes effective after review by the Congress is not subject to reviewby any court except in accordance with this section. After the final system plan becomes effective under section 718 of this title, it may be reviewed with respect to matters concerning the value of the rail properties to be conveyed under the plan and the value of the consideration to be received for such properties.
+Notwithstanding any other provision of law, the final system plan which is adopted by the Association and which becomes effective after review by the Congress is not subject to review by any court except in accordance with this section. After the final system plan becomes effective under section 718 of this title, it may be reviewed with respect to matters concerning the value of the rail properties to be conveyed under the plan and the value of the consideration to be received for such properties.
 
 #### (b) Special court
 
-Within 30 days after January 2, 1974, the Association shall make application to the judicial panel on multi-district litigation authorized by section 1407 of title 28 for the consolidation in a single, three-judge district court of the United States of all judicial proceedings with respect to the final system plan. Within 30 days after such application is received, the panel shall make the consolidation in a district court (cited herein as the “special court”) which the panel determines to be convenient to the parties and the one most likely to be able to conduct any proceedings under this section with the least delay and the greatest possible fairness and ability. Such proceedings shall be conducted by the special court which shall be composed of three Federal judges who shall be selected by the panel, except that none of the judges selected may be a judge assigned to a proceeding involving any railroad in reorganization in the region under section 77 of the Bankruptcy Act. The special court is authorized to exercise the powers of a district judge in any judicial district with respect to such proceedings and such powers shall include those of a reorganization court. The special court shall have the power to order the conveyance of rail properties of railroads leased, operated, or controlled by a railroad in reorganization in the region. The special court may issue rules for the conduct of any proceedings under this section and under section 745 of this title, including rules with respect to the time within which motions may be filed, and with respect to appropriate representation of interests not otherwise represented (including the Secretary with respect to a petition by the Association in the case of a proposal developed by the Secretary, under such section 745 of this title). No determination by the panel under this subsection may be reviewed in any court.
+(1) Within 30 days after January 2, 1974, the Association shall make application to the judicial panel on multi-district litigation authorized by section 1407 of title 28 for the consolidation in a single, three-judge district court of the United States of all judicial proceedings with respect to the final system plan. Within 30 days after such application is received, the panel shall make the consolidation in a district court (cited herein as the “special court”) which the panel determines to be convenient to the parties and the one most likely to be able to conduct any proceedings under this section with the least delay and the greatest possible fairness and ability. Such proceedings shall be conducted by the special court which shall be composed of three Federal judges who shall be selected by the panel, except that none of the judges selected may be a judge assigned to a proceeding involving any railroad in reorganization in the region under section 77 of the Bankruptcy Act. The special court is authorized to exercise the powers of a district judge in any judicial district with respect to such proceedings and such powers shall include those of a reorganization court. The special court shall have the power to order the conveyance of rail properties of railroads leased, operated, or controlled by a railroad in reorganization in the region. The special court may issue rules for the conduct of any proceedings under this section and under section 745 of this title, including rules with respect to the time within which motions may be filed, and with respect to appropriate representation of interests not otherwise represented (including the Secretary with respect to a petition by the Association in the case of a proposal developed by the Secretary, under such section 745 of this title). No determination by the panel under this subsection may be reviewed in any court.
+
+(2) The special court referred to in paragraph (1) of this subsection is abolished effective 90 days after October 19, 1996. On such effective date, all jurisdiction and other functions of the special court shall be assumed by the United States District Court for the District of Columbia. With respect to any proceedings that arise or continue after the date on which the special court is abolished, the references in the following provisions to the special court established under this subsection shall be deemed to refer to the United States District Court for the District of Columbia:
+
+&emsp;(A) Subsections (c), (e)(1), (e)(2), (f) and (g) of this section.
+
+&emsp;(B) Sections 712(d)(3), (g), 717(a)(1), (b)(1), (b)(2), 718(d)(2), 741(e)(2), (g), (k)(3), (k)(15), 743(a)(1), (a)(2), (b)(1), (b)(6)(A), (c)(1), (c)(2), (c)(3), (c)(4), (c)(5), 744(a)(1)(B), (i)(3), 745(c), (d)(1), (d)(2), (d)(3), (d)(4), (d)(5), (d)(8), (e), (f)(1), (f)(2)(B), (f)(2)(D), (f)(2)(E), (f)(3), 746(a), (b), (c)(4), and 791(b)(3), (c) of this title).
+
+&emsp;(C) Sections 1105(a) and 1115 of this title.
+
+&emsp;(D) Sections 1323(2)(A)(iii), (2)(B), (2)(C), (3)(C), (3)(E), (4)(A) and 1324(b) of this title.
+
+&emsp;(E) Section 24907(b) of title 49.
+
+&emsp;(F) Any other Federal law (other than this subsection and section 605 of the Federal Courts Improvement Act of 1996), Executive order, rule, regulation, delegation of authority, or document of or relating to the special court as previously established under paragraph (1) of this subsection.
 
 #### (c) Delivery of plan to special court
 
@@ -50,7 +64,7 @@ Within 90 days after its effective date, the Association shall deliver a certifi
 
 (2) The original and exclusive jurisdiction of the special court shall include any action, whether filed by any interested person or initiated by the special court itself, to interpret, alter, amend, modify, or implement any of the orders entered by such court pursuant to section 743(b) of this title in order to effect the purposes of this chapter or the goals of the final system plan. During the pendency of any proceeding described in this paragraph, the special court may enter such orders as it determines to be appropriate, including orders enjoining, restraining, conditioning, or limiting any conveyance, transfer, or use of any asset or right which is subject to such an order or which is at issue in such a proceeding, or which involves the enforcement of any liens or encumbrances upon such assets or rights. Any orders pursuant to this paragraph which interpret, alter, amend, modify, or implement orders entered by the special court shall be final and shall not be restrained or enjoined by any court.
 
-(3) A final order or judgment of the special court in any action referred to in this section shall be reviewable only upon petition for a writ of certiorari to the Supreme Court of the United States. Such review is exclusive and any such petition shall be filed in the Supreme Court not more than 20 days after entry of such order or judgment.
+(3) An order or judgment of the United States District Court for the District of Columbia in any action referred to in this section shall be reviewable in accordance with sections 1291, 1292, and 1294 of title 28.
 
 #### (f) Disposition of cash deposits
 
@@ -58,19 +72,15 @@ Whenever the compensation which is deposited with the special court under sectio
 
 #### (g) Stay of court proceedings
 
-The special court may stay or enjoin any action or proceeding in any State court or in any court of the United States other than the Supreme Court if such action or proceeding is contrary to any provision of this chapter, impairs the effective implementation of this chapter, or interferes with the execution of any order of the special court pursuant to this chapter.
+The special court may stay or enjoin any action or proceeding in any State court or in any court of the United States other than the Supreme Court or Court of Appeals for the District of Columbia Circuit if such action or proceeding is contrary to any provision of this chapter, impairs the effective implementation of this chapter, or interferes with the execution of any order of the special court pursuant to this chapter.
 
-#### (h) Special masters
-
-(1) The special court may appoint and fix the compensation and assign the duties of such special masters as it considers necessary or appropriate to conduct hearings, receive evidence and report thereon to the special court, and perform such other acts as the special court may require. The special court may employ such special masters by contract or otherwise, without regard to section 5 of title 41 or part III of title 5, on such terms and conditions as it may determine. Such special masters shall not be deemed to be employees of the Federal Government or any department, agency, or instrumentality thereof. The special court may also appoint employees in such number as may be approved by the Director of the Administrative Office of the United States Courts, and may procure such administrative services as may be necessary for it or the special masters to complete their assignments expeditiously.
-
-(2) There are authorized to be appropriated such sums as are necessary to carry out the purposes of this subsection. Sums appropriated under this subsection are authorized to remain available until expended.
-
-(Pub. L. 93–236, title II, §209, Jan. 2, 1974, 87 Stat. 999; Pub. L. 94–210, title VI, §§602(a), (b), 607(i), (<i>l</i>), (r), (s), Feb. 5, 1976, 90 Stat. 86, 97, 98; Pub. L. 94–216, §2, Feb. 17, 1976, 90 Stat. 191; Pub. L. 95–199, §3, Nov. 23, 1977, 91 Stat. 1423; Pub. L. 100–352, §6(d), June 27, 1988, 102 Stat. 663.)
+(Pub. L. 93–236, title II, §209, Jan. 2, 1974, 87 Stat. 999; Pub. L. 94–210, title VI, §§602(a), (b), 607(i), (<i>l</i>), (r), (s), Feb. 5, 1976, 90 Stat. 86, 97, 98; Pub. L. 94–216, §2, Feb. 17, 1976, 90 Stat. 191; Pub. L. 95–199, §3, Nov. 23, 1977, 91 Stat. 1423; Pub. L. 100–352, §6(d), June 27, 1988, 102 Stat. 663; Pub. L. 104–317, title VI, §605(a), (b)(1), (c)(1), Oct. 19, 1996, 110 Stat. 3858, 3859.)
 
 #### References in Text
 
-Section 77 of the Bankruptcy Act, referred to in subsec. (b), was classified to section 205 of former Title 11, Bankruptcy. The Bankruptcy Act (act July 1, 1898, ch. 541, 30 Stat. 544, as amended) was repealed effective Oct. 1, 1979, by Pub. L. 95–598, §§401(a), 402(a), Nov. 6, 1978, 92 Stat. 2682, section 101 of which enacted revised Title 11. For current provisions relating to railroad reorganization, see subchapter IV (§1161 et seq.) of chapter 11 of Title 11.
+Section 77 of the Bankruptcy Act, referred to in subsec. (b)(1), was classified to section 205 of former Title 11, Bankruptcy. The Bankruptcy Act (act July 1, 1898, ch. 541, 30 Stat. 544, as amended) was repealed effective Oct. 1, 1979, by Pub. L. 95–598, §§401(a), 402(a), Nov. 6, 1978, 92 Stat. 2682, section 101 of which enacted revised Title 11. For current provisions relating to railroad reorganization, see subchapter IV (§1161 et seq.) of chapter 11 of Title 11.
+
+Section 605 of the Federal Courts Improvement Act of 1996, referred to in subsec. (b)(2)(F), is section 605 of Pub. L. 104–317, title VI, Oct. 19, 1996, 110 Stat. 3858, which amended this section and sections 743, 745, 1104, and 1105 of this title and enacted provisions set out as notes under this section.
 
 #### Codification
 
@@ -78,7 +88,15 @@ Amendment of subsec. (c)(2) by section 607(s) of Pub. L. 94–210 was executed b
 
 #### Amendments
 
-1988—Subsec. (e)(3). Pub. L. 100–352 struck out “, except that any order or judgment enjoining the enforcement, or declaring or determining the unconstitutionality or invalidity, of this chapter, in whole or inpart, or of any action taken under this chapter, shall be reviewable by direct appeal to the Supreme Court of the United States in the same manner that an injunctive order may be appealed under section 1253 of title 28” before the period at end of first sentence and substituted “such petition shall be filed in the Supreme Court” for “petition or appeal shall be filed” in second sentence.
+1996—Subsec. (b). Pub. L. 104–317, §605(a), designated existing provisions as par. (1) and added par. (2).
+
+Subsec. (e)(3). Pub. L. 104–317, §605(b)(1), added par. (3) and struck out former par. (3) which read as follows: “A final order or judgment of the special court in any action referred to in this section shall be reviewable only upon petition for a writ of certiorari to the Supreme Court of the United States. Such review is exclusive and any such petition shall be filed in the Supreme Court not more than 20 days after entry of such order or judgment.”
+
+Subsec. (g). Pub. L. 104–317, §605(c)(1)(A), inserted “or Court of Appeals for the District of Columbia Circuit” after “Supreme Court”.
+
+Subsec. (h). Pub. L. 104–317, §605(c)(1)(B), struck out subsec. (h) relating to special masters.
+
+1988—Subsec. (e)(3). Pub. L. 100–352 struck out “, except that any order or judgment enjoining the enforcement, or declaring or determining the unconstitutionality or invalidity, of this chapter, in whole or in part, or of any action taken under this chapter, shall be reviewable by direct appeal to the Supreme Court of the United States in the same manner that an injunctive order may be appealed under section 1253 of title 28” before the period at end of first sentence and substituted “such petition shall be filed in the Supreme Court” for “petition or appeal shall be filed” in second sentence.
 
 1977—Subsec. (h). Pub. L. 95–199 added subsec. (h).
 
@@ -90,6 +108,10 @@ Subsec. (d)(1). Pub. L. 94–210, §607(i), inserted “or any subsidiary thereo
 
 Subsecs. (e) to (g). Pub. L. 94–210, §602(b), added subsecs. (e) to (g).
 
+#### Effective Date of 1996 Amendment
+
+Section 605(e) of Pub. L. 104–317 provided that: “The amendments made by subsections (b) and (c) of this section \[amending this section and sections 743, 745, 1104, and 1105 of this title\] shall take effect 90 days after the date of enactment of this Act \[Oct. 19, 1996\] and, except as provided in subsection (d) \[enacting provisions set out as a note below\], shall apply with respect to proceedings that arise or continue after such effective date.”
+
 #### Effective Date of 1988 Amendment
 
 Amendment by Pub. L. 100–352 effective ninety days after June 27, 1988, except that such amendment not to apply to cases pending in Supreme Court on such effective date or affect right to review or manner of reviewing judgment or decree of court which was entered before such effective date, see section 7 of Pub. L. 100–352, set out as a note under section 1254 of Title 28, Judiciary and Judicial Procedure.
@@ -97,6 +119,18 @@ Amendment by Pub. L. 100–352 effective ninety days after June 27, 1988, except
 #### Abolition of United States Railway Association and Transfer of Functions and Securities
 
 See section 1341 of this title.
+
+#### Cases Pending in Special Court
+
+Section 605(d) of Pub. L. 104–317 provided that: “Effective 90 days after the date of enactment of this Act \[Oct. 19, 1996\], any case pending in the special court established under section 209(b) of the Regional Rail Reorganization Act of 1973 (45 U.S.C. 719(b)) shall be assigned to the United States District Court for the District of Columbia as though the case had originally been filed in that court. The amendments made by subsection (b) of this section \[amending this section and sections 743 and 1105 of this title\] shall not apply to any final order or judgment entered by the special court for which—
+
+&emsp;“(1) a petition for writ of certiorari has been filed before the date on which the special court is abolished; or
+
+&emsp;“(2) the time for filing a petition for writ of certiorari has not expired before that date.”
+
+#### References to Courthouse
+
+Reference to United States Courthouse in District of Columbia deemed reference to “E. Barrett Prettyman United States Courthouse”, see section 2 of Pub. L. 104–151, set out as an E. Barrett Prettyman United States Courthouse Designation note under section 129a of Title 40, Public Buildings, Property, and Works.
 
 #### Applicability of National Environmental Policy Act
 
@@ -108,7 +142,7 @@ This section is referred to in sections 718, 741, 743, 744, 745, 1104, 1323, 132
 
 ### <b>RULES OF THE SPECIAL COURT, REGIONAL RAIL REORGANIZATION ACT OF 1973</b>
 
-#### <i>(Effective May 20, 1982, as amended to January 16, 1996)</i>
+#### <i>(Effective May 20, 1982, as amended to January 6, 1997)</i>
 
 Rule
 
@@ -226,7 +260,7 @@ Panels of the Court
 
 A. Two panels. The Court shall consist of two panels of three judges to be known as the General Panel and the §1152 Panel. The General Panel consists of the judges appointed from time to time by the Judicial Panel on Multidistrict Litigation under §209(b) of the Regional Rail Reorganization Act of 1973 (the Act). The §1152 Panel consists of the judges appointed from time to time by the Judicial Panel on Multidistrict Litigation under §1152(d) of the Northeast Rail Service Act of 1981 (NRSA).
 
-B. Presiding Judges. Each panel shall appoint one of its members as its Presiding Judge. ThePresiding Judge of the General Panel shall be the Presiding Judge of the Court.
+B. Presiding Judges. Each panel shall appoint one of its members as its Presiding Judge. The Presiding Judge of the General Panel shall be the Presiding Judge of the Court.
 
 C. The General Panel. The General Panel shall have exclusive jurisdiction over all actions described in §209(e), over proceedings under §§303 and 306(c)(4), and over supplemental transactions proposed under §305 of the Act.
 
@@ -354,7 +388,7 @@ Rule 13.
 
 Proceedings Involving Interstate Commerce Commission
 
-In any proceeding involving a question that arises under the Interstate Commerce Act and related laws (codified in Subtitle 4 of Title 49 of the United States Code), or the rules, regulations, or orders of the Interstate Commerce Commission issued thereunder, or that affects a proceeding that is pending before or may properly be brought in the first instance before the Interstate Commerce Commission, a copy of each pleading or other paper filed with the Clerk shall be served upon the General Counsel, Interstate Commerce Commission, Washington, D.C. 20423.
+In any proceeding involving a question that arises under the Interstate Commerce Act andrelated laws (codified in Subtitle 4 of Title 49 of the United States Code), or the rules, regulations, or orders of the Interstate Commerce Commission issued thereunder, or that affects a proceeding that is pending before or may properly be brought in the first instance before the Interstate Commerce Commission, a copy of each pleading or other paper filed with the Clerk shall be served upon the General Counsel, Interstate Commerce Commission, Washington, D.C. 20423.
 
 #### References in Text
 
@@ -440,7 +474,7 @@ Rule 19.
 
 References to Regional Rail Reorganization Act and Northeast Rail Service Act
 
-In all papers filed with the Court references of sections of the Regional Rail Reorganization Act of 1973 or Northeast Rail Service Act of 1981shall be to such sections as numbered in the applicable Act and not to such sections as numbered in the U.S. Code.
+In all papers filed with the Court references of sections of the Regional Rail Reorganization Act of 1973 or Northeast Rail Service Act of 1981 shall be to such sections as numbered in the applicable Act and not to such sections as numbered in the U.S. Code.
 
 #### References in Text
 

@@ -2,25 +2,27 @@
 
 (a)
 
-General Authority.—The Secretary of Transportation may make grants and loans under this section to assist State and local governmental authorities in financing—
+General Authority.—(1) The Secretary of Transportation may make grants and loans under this section to assist State and local governmental authorities in financing—
 
-&emsp;(1) capital projects for new fixed guideway systems, and extensions to existing fixed guideway systems, including the acquisition of real property, the initial acquisition of rolling stock for the systems, alternatives analysis related to the development of the systems, and the acquisition of rights of way, and relocation, for fixed guideway corridor development for projects in the advanced stages of alternatives analysis or preliminary engineering;
+&emsp;(A) capital projects for new fixed guideway systems, and extensions to existing fixed guideway systems, including the acquisition of real property, the initial acquisition of rolling stock for the systems, alternatives analysis related to the development of the systems, and the acquisition of rights of way, and relocation, for fixed guideway corridor development for projects in the advanced stages of alternatives analysis or preliminary engineering;
 
-&emsp;(2) capital projects, including property and improvements (except public highways other than fixed guideway facilities), needed for an efficient and coordinated mass transportation system;
+&emsp;(B) capital projects, including property and improvements (except public highways other than fixed guideway facilities), needed for an efficient and coordinated mass transportation system;
 
-&emsp;(3) the capital costs of coordinating mass transportation with other transportation;
+&emsp;(C) the capital costs of coordinating mass transportation with other transportation;
 
-&emsp;(4) the introduction of new technology, through innovative and improved products, into mass transportation;
+&emsp;(D) the introduction of new technology, through innovative and improved products, into mass transportation;
 
-&emsp;(5) transportation projects that enhance urban economic development or incorporate private investment, including commercial and residential development, because the projects—
+&emsp;(E) transportation projects that enhance urban economic development or incorporate private investment, including commercial and residential development, because the projects—
 
-&emsp;&emsp;(A) enhance the effectiveness of a mass transportation project and are related physically or functionally to that mass transportation project; or
+&emsp;&emsp;(i) enhance the effectiveness of a mass transportation project and are related physically or functionally to that mass transportation project; or
 
-&emsp;&emsp;(B) establish new or enhanced coordination between mass transportation and other transportation;
+&emsp;&emsp;(ii) establish new or enhanced coordination between mass transportation and other transportation;
 
-&emsp;(6) mass transportation projects planned, designed, and carried out to meet the special needs of elderly individuals and individuals with disabilities; and
+&emsp;(F) mass transportation projects planned, designed, and carried out to meet the special needs of elderly individuals and individuals with disabilities; and
 
-&emsp;(7) the development of corridors to support fixed guideway systems, including protectingrights of way through acquisition, construction of dedicated bus and high occupancy vehicle lanes and park and ride lots, and other nonvehicular capital improvements that the Secretary may decide would result in increased mass transportation usage in the corridor.
+&emsp;(G) the development of corridors to support fixed guideway systems, including protecting rights of way through acquisition, construction of dedicated bus and high occupancy vehicle lanes and park and ride lots, and other nonvehicular capital improvements that the Secretary may decide would result in increased mass transportation usage in the corridor.
+
+(2) The Secretary of Transportation shall require that all grants and loans under this subsection be subject to all terms, conditions, requirements, and provisions the Secretary decides are necessary or appropriate for the purposes of this section, including requirements for the disposition of net increases in value of real property resulting from the project assisted under this section.
 
 (b)
 
@@ -28,7 +30,7 @@ Loans for Real Property Interests.—(1) The Secretary of Transportation may mak
 
 (2) The Secretary of Transportation may make a loan under paragraph (1) of this subsection for an approved project only after finding that the property reasonably is expected to be required for a mass transportation system and that it will be used for that system within a reasonable time.
 
-(3) An applicant for a loan under this subsection shall provide a copy of the application to the planning agency for the community affected by the project at the same time the application is submitted to the Secretary of Transportation. If the planning agency submits comments to the Secretary not later than 30 days after the application is submitted, or, if the agency requests more time within those 30 days, within a period the Secretary establishes, the Secretary shall consider those comments before taking final action on the application.
+(3) An applicant for a loan under this subsection shall provide a copy of the application tothe planning agency for the community affected by the project at the same time the application is submitted to the Secretary of Transportation. If the planning agency submits comments to the Secretary not later than 30 days after the application is submitted, or, if the agency requests more time within those 30 days, within a period the Secretary establishes, the Secretary shall consider those comments before taking final action on the application.
 
 (4) A loan agreement under this subsection shall provide that a capital project on the property will be started not later than 10 years after the fiscal year in which the agreement is made. If an interest in property acquired under this subsection is not used for the purpose for which it was acquired, an appraisal of the current value of the property or interest shall be made when a decision is made about the use. The decision shall be made within the 10-year period. Two-thirds of the increase in value shall be paid to the Secretary of Transportation for deposit in the Treasury as miscellaneous receipts.
 
@@ -80,7 +82,7 @@ Criteria for Grants and Loans for Fixed Guideway Systems.—(1) This subsection 
 
 (4)(A) The Secretary of Transportation shall issue guidelines on how the Secretary will evaluate results of alternatives analysis, project justification, and the degree of local financial commitment.
 
-(B) The project justification under paragraph (1)(B) of this subsection shall be adjusted to reflect differences in local land, construction, and operating costs.
+(B) The project justification under paragraph (2) of this subsection shall be adjusted to reflect differences in local land, construction, and operating costs.
 
 (C) The degree of local financial commitment is acceptable only if—
 
@@ -98,7 +100,7 @@ Criteria for Grants and Loans for Fixed Guideway Systems.—(1) This subsection 
 
 &emsp;(iii) any debt obligation that exists or is proposed by the recipient for the proposed project or other mass transportation purpose.
 
-(5) A proposed project may advance from alternatives analysis to preliminary engineering only if the Secretary of Transportation finds that the project meets the requirements of this section and there is a reasonable chance that the project will continue to meet the requirements at the end of preliminary engineering.
+(5) A proposed project may advance from alternatives analysis to preliminary engineering onlyif the Secretary of Transportation finds that the project meets the requirements of this section and there is a reasonable chance that the project will continue to meet the requirements at the end of preliminary engineering.
 
 (6)(A) A new fixed guideway system or extension of an existing fixed guideway system is not subject to the requirements of this subsection, and the simultaneous evaluation of similar projects in at least 2 corridors in a metropolitan area may not be limited, if—
 
@@ -120,9 +122,9 @@ Criteria for Grants and Loans for Fixed Guideway Systems.—(1) This subsection 
 
 (f)
 
-Required Payments and Eligible Costs of Projects That Enhance Urban Economic Development or Incorporate Private Investment.—(1) Each grant or loan under subsection (a)(5) of this section shall require that a person making an agreement to occupy space in a facility pay a reasonable share of the costs of the facility through rental payments and other means.
+Required Payments and Eligible Costs of Projects That Enhance Urban Economic Development or Incorporate Private Investment.—(1) Each grant or loan under subsection (a)(5) <sup>1</sup> of this section shall require that a person making an agreement to occupy space in a facility pay a reasonable share of the costs of the facility through rental payments and other means.
 
-(2) Eligible costs for a project under subsection (a)(5) of this section—
+(2) Eligible costs for a project under subsection (a)(5) <sup>1</sup> of this section—
 
 &emsp;(A) include property acquisition, demolition of existing structures, site preparation, utilities, building foundations, walkways, open space, and a capital project for, and improving, equipment or a facility for an intermodal transfer facility or transportation mall; but
 
@@ -132,7 +134,7 @@ Required Payments and Eligible Costs of Projects That Enhance Urban Economic Dev
 
 Letters of Intent, Full Financing Grant Agreements, and Early Systems Work Agreements.—(1)(A) The Secretary of Transportation may issue a letter of intent to an applicant announcing an intention to obligate, for a project under this section, an amount from future available budget authority specified in law that is not more than the amount stipulated as the financial participation of the Secretary in the project. The amount shall be sufficient to complete at least an operable segment when a letter is issued for a fixed guideway project.
 
-(B) At least 30 days before issuing a letter under subparagraph (A) of this paragraph, the Secretary of Transportation shall notify in writing the Committee on Public Works and Transportation of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate of the proposed issuance of the letter.
+(B) At least 30 days before issuing a letter under subparagraph (A) of this paragraph, the Secretary of Transportation shall notify in writing the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate of the proposed issuance of the letter.
 
 (C) The issuance of a letter is deemed not to be an obligation under sections 1108(c) and (d), 1501, and 1502(a) of title 31 or an administrative commitment.
 
@@ -180,15 +182,15 @@ Loan Payment Forgiveness.—A grant agreement for a capital project may forgive 
 
 Limitation on Making Loans and Grants for Projects.—The Secretary of Transportation may not make a loan under this section for a project for which a grant (except a relocation payment grant) is made under this section. However, the Secretary may make a project grant even though real property for the project has been or will be acquired through a loan under subsection (b) of this section.
 
-(<i>l)</i>
+(<i>l</i>)
 
 Fiscal Capacity Considerations.—If the Secretary of Transportation gives priority consideration to financing projects that include more than the non-Government share required under subsection (h) of this section, the Secretary shall give equal consideration to differences in the fiscal capacity of State and local governments.
 
 (m)
 
-Allocating Amounts.—(1) Of the amounts available for grants and loans under this sectionfor each of the fiscal years ending September 30, 1993–1997—
+Allocating Amounts.—(1) Of the amounts available for grants and loans under this section for each of the fiscal years ending September 30, 1993–1997—
 
-&emsp;(A) 40 percent is available for fixed guideway modernization;
+&emsp;(A) 40 percent is available for rail fixed guideway modernization;
 
 &emsp;(B) 40 percent is available for capital projects for new fixed guideway systems and extensions to existing fixed guideway systems; and
 
@@ -196,7 +198,7 @@ Allocating Amounts.—(1) Of the amounts available for grants and loans under th
 
 (2) At least 5.5 percent of the amounts available in each fiscal year under paragraph (1)(C) of this subsection is available for areas other than urbanized areas.
 
-(3) Not later than January 20 of each year, the Secretary of Transportation shall submit to the Committee on Public Works and Transportation of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate a proposal on the allocation of amounts to be made available to finance grants and loans for capital projects for new fixed guideway systems and extensions to existing fixed guideway systems among applicants for those amounts.
+(3) Not later than January 20 of each year, the Secretary of Transportation shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate a proposal on the allocation of amounts to be made available to finance grants and loans for capital projects for newfixed guideway systems and extensions to existing fixed guideway systems among applicants for those amounts.
 
 (4) A person applying for, or receiving, assistance for a project described in clause (A), (B), or (C) of paragraph (1) of this subsection may receive assistance for a project described in another of those clauses.
 
@@ -214,15 +216,19 @@ Undertaking Projects in Advance.—(1) The Secretary of Transportation may pay t
 
 (3) The Secretary of Transportation shall consider changes in capital project cost indices when determining the estimated cost under paragraph (2) of this subsection.
 
-(<i>o)</i>
+(<i>o</i>)
 
 Use of Deobligated Amounts.—An amount available under this section that is deobligated may be used for any purpose under this section.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 800.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 800; Pub. L. 104–287, §5(9), (12), Oct. 11, 1996, 110 Stat. 3389.)
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+Pub. L. 103–272
+
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -230,25 +236,25 @@ Historical and Revision Notes
 
 5309(a) (1)–(5)
 
-49 App.:1602(a) (1)(A).
+49 App.:1602(a)(1)(A).
 
 July 9, 1964, Pub. L. 88–365, §3(a)(1)(A), 78 Stat. 303; May 25, 1967, Pub. L. 90–19, §20(a), 81 Stat. 25; Oct. 15, 1970, Pub. L. 91–453, §2(2), 84 Stat. 962; Nov. 26, 1974, Pub. L. 93–503, §§102, 104, 106, 88 Stat. 1566, 1571, 1572; Nov. 6, 1978, Pub. L. 95–599, §302(a), 92 Stat. 2735; Jan. 6, 1983, Pub. L. 97–424, §313, 96 Stat. 2152.
 
 &nbsp;
 
-49 App.:1602(a) (1)(B), (C), (D) (1st, 3d sentences).
+49 App.:1602(a)(1)(B), (C), (D) (1st, 3d sentences).
 
 July 9, 1964, Pub. L. 88–365, §3(a)(1)(B)–(D), (2)(B), (3), 78 Stat. 303; May 25, 1967, Pub. L. 90–19, §20(a), 81 Stat. 25; Oct. 15, 1970, Pub. L. 91–453, §2(2), 84 Stat. 962; Nov. 26, 1974, Pub. L. 93–503, §§102, 104, 106, 88 Stat. 1566, 1571, 1572; restated Nov. 6, 1978, Pub. L. 95–599, §302(a), 92 Stat. 2735, 2736.
 
 5309(a)(6)
 
-49 App.:1602(a) (1)(E).
+49 App.:1602(a)(1)(E).
 
 July 9, 1964, Pub. L. 88–365, §3(a)(1)(E), 78 Stat. 303; May 25, 1967, Pub. L. 90–19, §20(a), 81 Stat. 25; Oct. 15, 1970, Pub. L. 91–453, §2(2), 84 Stat. 962; Nov. 26, 1974, Pub. L. 93–503, §§102, 104, 106, 88 Stat. 1566, 1571, 1572; Nov. 6, 1978, Pub. L. 95–599, §302(a), 92 Stat. 2736; restated Dec. 18, 1991, Pub. L. 102–240, §3006(a), 105 Stat. 2089.
 
 5309(a)(7)
 
-49 App.:1602(a) (1)(F).
+49 App.:1602(a)(1)(F).
 
 July 9, 1964, Pub. L. 88–365, 78 Stat. 302, §3(a)(1)(F); added Dec. 18, 1991, Pub. L. 102–240, §3006(b), 105 Stat. 2089.
 
@@ -260,7 +266,7 @@ July 9, 1964, Pub. L. 88–365, §3(b), 78 Stat. 303; May 25, 1967, Pub. L. 90�
 
 5309(b)(2)
 
-49 App.:1602(a) (2)(B).
+49 App.:1602(a)(2)(B).
 
 5309(b)(3)
 
@@ -300,11 +306,11 @@ July 9, 1964, Pub. L. 88–365, 78 Stat. 302, §3(i); added Apr. 2, 1987, Pub. L
 
 5309(f)(1)
 
-49 App.:1602(a) (1)(D) (last sentence).
+49 App.:1602(a)(1)(D) (last sentence).
 
 5309(f)(2)
 
-49 App.:1602(a) (1)(D) (2d sentence).
+49 App.:1602(a)(1)(D) (2d sentence).
 
 5309(g)
 
@@ -332,7 +338,7 @@ July 9, 1964, Pub. L. 88–365, §3(c), 78 Stat. 303; May 25, 1967, Pub. L. 90�
 
 49 App.:1602(c) (1st sentence).
 
-5309(<i>l)</i>
+5309(<i>l</i>)
 
 49 App.:1603(d).
 
@@ -364,11 +370,11 @@ July 9, 1964, Pub. L. 88–365, 78 Stat. 302, §3(k)(2); added Apr. 2, 1987, Pub
 
 5309(n)
 
-49 App.:1602(<i>l).</i>
+49 App.:1602(<i>l</i>).
 
 July 9, 1964, Pub. L. 88–365, 78 Stat. 302, §3(<i>l</i>); added Apr. 2, 1987, Pub. L. 100–17, §306(a), 101 Stat. 224; Dec. 18, 1991, Pub. L. 102–240, §3006(e), 105 Stat. 2089.
 
-5309(<i>o)</i>
+5309(<i>o</i>)
 
 49 App.:1602(n).
 
@@ -422,17 +428,43 @@ In subsection (m)(4), the text of 49 App.:1602(k)(2)(B) is omitted as expired.
 
 In subsection (n)(2), the words “Subject to the provisions of this paragraph”, “the Federal share of which the Secretary is authorized to pay under this subsection”, and “actually” are omitted as surplus.
 
+#### Pub. L. 104–287, §5(12)(A)
+
+This amends 49:5309(a) to clarify the restatement of 49 App.:1602(a)(1) by section 1 of the Act of July 5, 1994 (Public Law 103–272, 108 Stat. 800).
+
+#### Pub. L. 104–287, §5(12)(B)
+
+This amends 49:5309(e)(4)(B) to correct an erroneous cross-reference.
+
+#### Pub. L. 104–287, §5(12)(C)
+
+This amends 49:5309(m)(1)(A) to make a conforming amendment.
+
 #### References in Text
 
 The Clean Air Act, referred to in subsec. (e)(6)(A)(i), (B)(ii), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
 
 Part A of title I of the Intermodal Surface Transportation Efficiency Act of 1991, referred to in subsec. (e)(6)(C), is part A (§§1001 to 1109) of title I of Pub. L. 102–240, Dec. 18, 1991, 105 Stat. 1915, as amended. For complete classification of this Act to the Code, see Short Title of 1991 Amendment note set out under section 101 of this title and Tables.
 
+Subsection (a)(5) of this section, referred to in subsec. (f)(1), (2), was redesignated subsec. (a)(1)(E) by Pub. L. 104–287, §5(12)(A)(i), (ii), Oct. 11, 1996, 110 Stat. 3389.
+
 The National Environmental Policy Act of 1969, referred to in subsec. (g)(3)(A), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
-#### Change of Name
+#### Amendments
 
-Committee on Public Works and Transportation of House of Representatives treated as referring to Committee on Transportation and Infrastructure of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+1996—Subsec. (a). Pub. L. 104–287, §5(12)(A), designated existing provisions as par. (1), redesignated former pars. (1) to (7) as subpars. (A) to (G) of par. (1), respectively, and former subpars. (A) and (B) of par. (5) as subcls. (i) and (ii) of subpar. (E), respectively, and added par. (2).
+
+Subsec. (e)(4)(B). Pub. L. 104–287, §5(12)(B), substituted “paragraph (2)” for “paragraph (1)(B)”.
+
+Subsec. (g)(1)(B). Pub. L. 104–287, §5(9), substituted “Transportation and Infrastructure” for “Public Works and Transportation”.
+
+Subsec. (m)(1)(A). Pub. L. 104–287, §5(12)(C), inserted “rail” before “fixed guideway modernization”.
+
+Subsec. (m)(3). Pub. L. 104–287, §5(9), substituted “Transportation and Infrastructure” for “Public Works and Transportation”.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by section 5(12) of Pub. L. 104–287 effective July 5, 1994, see section 8(1) of Pub. L. 104–287, set out as a note under section 5303 of this title.
 
 #### Encouragement of Adversely Affected Industries To Compete for Contracts
 
@@ -440,5 +472,7 @@ Pub. L. 91–453, §10, Oct. 15, 1970, 84 Stat. 968, as amended by Pub. L. 102�
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 5301, 5310, 5319, 5320, 5323, 5324, 5327, 5328, 5331, 5333, 5334, 5337, 5338 of this title; title 42 sections 3013, 3338.
+This section is referred to in sections 5301, 5310, 5315, 5319, 5320, 5323, 5324, 5327, 5328, 5331, 5333, 5334, 5337, 5338 of this title; title 42 sections 3013, 3338.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

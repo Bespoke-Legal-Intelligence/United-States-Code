@@ -19,7 +19,7 @@
 | (b) | Division of liability for mobile offshore drilling units. |
 | (c) | Exceptions. |
 | (d) | Adjusting limits of liability. |
-| [2705\.](Subchapter%20001%20%28I%29%20-%20Oil%20Pollution%20Liability%20and%20Compensation/%C2%A7%2002705%20-%20Interest.md) | Interest. |
+| [2705\.](Subchapter%20001%20%28I%29%20-%20Oil%20Pollution%20Liability%20and%20Compensation/%C2%A7%2002705%20-%20Interest%3B%20partial%20payment%20of%20claims.md) | Interest; partial payment of claims. |
 | (a) | General rule. |
 | (b) | Period. |
 | [2706\.](Subchapter%20001%20%28I%29%20-%20Oil%20Pollution%20Liability%20and%20Compensation/%C2%A7%2002706%20-%20Natural%20resources.md) | Natural resources. |
@@ -67,7 +67,8 @@
 | (c) | Advertisement by President. |
 | [2715\.](Subchapter%20001%20%28I%29%20-%20Oil%20Pollution%20Liability%20and%20Compensation/%C2%A7%2002715%20-%20Subrogation.md) | Subrogation. |
 | (a) | In general. |
-| (b) | Actions on behalf of Fund. |
+| (b) | Interim damages. |
+| (c) | Actions on behalf of Fund. |
 | [2716\.](Subchapter%20001%20%28I%29%20-%20Oil%20Pollution%20Liability%20and%20Compensation/%C2%A7%2002716%20-%20Financial%20responsibility.md) | Financial responsibility. |
 | (a) | Requirement. |
 | (b) | Sanctions. |
@@ -116,7 +117,7 @@
 | (i) | Termination. |
 | (j) | Use of funds. |
 | (k) | Research. |
-| (<i>l)</i> | “Prince William Sound and its adjacent waters” defined. |
+| (<i>l</i>) | “Prince William Sound and its adjacent waters” defined. |
 | [2732\.](Subchapter%20002%20%28II%29%20-%20Prince%20William%20Sound%20Provisions/%C2%A7%2002732%20-%20Terminal%20and%20tanker%20oversight%20and%20monitoring.md) | Terminal and tanker oversight and monitoring. |
 | (a) | Short title and findings. |
 | (b) | Demonstration programs. |
@@ -129,18 +130,19 @@
 | (i) | Administrative actions. |
 | (j) | Location and compensation. |
 | (k) | Funding. |
-| (<i>l)</i> | Reports. |
+| (<i>l</i>) | Reports. |
 | (m) | Definitions. |
 | (n) | Savings clause. |
-| (<i>o)</i> | Alternative voluntary advisory group in lieu of Council. |
+| (<i>o</i>) | Alternative voluntary advisory group in lieu of Council. |
 | [2733\.](Subchapter%20002%20%28II%29%20-%20Prince%20William%20Sound%20Provisions/%C2%A7%2002733%20-%20Bligh%20Reef%20light.md) | Bligh Reef light. |
 | [2734\.](Subchapter%20002%20%28II%29%20-%20Prince%20William%20Sound%20Provisions/%C2%A7%2002734%20-%20Vessel%20traffic%20service%20system.md) | Vessel traffic service system. |
 | [2735\.](Subchapter%20002%20%28II%29%20-%20Prince%20William%20Sound%20Provisions/%C2%A7%2002735%20-%20Equipment%20and%20personnel%20requirements%20under%20tank%20vessel%20and%20facility%20response%20plans.md) | Equipment and personnel requirements under tank vessel and facility response plans. |
 | (a) | In general. |
 | (b) | Definitions. |
 | [2736\.](Subchapter%20002%20%28II%29%20-%20Prince%20William%20Sound%20Provisions/%C2%A7%2002736%20-%20Funding.md) | Funding. |
-| (a) | Section 2731. |
-| (b) | Sections 2733 and 2734. |
+| (a) | Sections 2731, 2733, and 2734. |
+| (b) | Use of interest only. |
+| (c) | Use for section 2712. |
 | [2737\.](Subchapter%20002%20%28II%29%20-%20Prince%20William%20Sound%20Provisions/%C2%A7%2002737%20-%20Limitation.md) | Limitation. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -158,13 +160,7 @@
 | [2752\.](Subchapter%20003%20%28III%29%20-%20Miscellaneous/%C2%A7%2002752%20-%20Annual%20appropriations.md) | Annual appropriations. |
 | (a) | Required. |
 | (b) | Exceptions. |
-| [2753\.](Subchapter%20003%20%28III%29%20-%20Miscellaneous/%C2%A7%2002753%20-%20Outer%20Banks%20protection.md) | Outer Banks protection. |
-| (a) | Short title. |
-| (b) | Findings. |
-| (c) | Prohibition of oil and gas leasing, exploration, and development. |
-| (d) | Additional environmental information. |
-| (e) | Environmental Sciences Review Panel. |
-| (f) | Authorization of appropriations. |
+| [2753\.](Subchapter%20003%20%28III%29%20-%20Miscellaneous/%C2%A7%2002753%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93134%2C%20title%20I%2C%20%C2%A7101%28c%29%20%5Btitle%20I%2C%20%C2%A7109%5D%2C%20Apr.%2026%2C%201996%2C%20110%20Stat.%201321%E2%80%93156%2C%201321%E2%80%93177%3B%20renumbered%20title%20I%2C%20Pub%E2%80%A6.md) | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

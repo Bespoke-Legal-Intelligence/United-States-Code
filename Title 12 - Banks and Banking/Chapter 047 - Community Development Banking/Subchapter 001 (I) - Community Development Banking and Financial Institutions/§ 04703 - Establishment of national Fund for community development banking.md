@@ -192,7 +192,11 @@ Section is comprised of section 104 of Pub. L. 103–325. Subsecs. (e) and (i) o
 
 #### Administration of Fund by Secretary of the Treasury
 
-Pub. L. 104–19, title I, July 27, 1995, 109 Stat. 237, provided in part: “That notwithstanding any other provision of law, for purposes of administering the Community Development Financial Institutions Fund, the Secretary of the Treasury shall have all powers and rights of the Administrator of the CDBFI Act \[12 U.S.C. 4701 et seq.\] and the Fund shall be within the Department of the Treasury.”
+Pub. L. 104–134, title I, §101(e) \[title III\], Apr. 26, 1996, 110 Stat. 1321–257, 1321–294; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327, provided in part: “That notwithstanding any other provision of law, for purposes of administering the Community Development Financial Institutions Fund, the Secretary of the Treasury shall have all powers and rights of the Administrator of the CDBFI Act \[12 U.S.C. 4701 et seq.\] and the Fund shall be within the Department of the Treasury.”
+
+Similar provisions were contained in the following prior appropriations act:
+
+Pub. L. 104–19, title I, July 27, 1995, 109 Stat. 237.
 
 #### Section Referred to in Other Sections
 

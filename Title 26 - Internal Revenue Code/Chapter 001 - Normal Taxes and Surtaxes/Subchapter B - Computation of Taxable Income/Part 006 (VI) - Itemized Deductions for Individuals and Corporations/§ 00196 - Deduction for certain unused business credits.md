@@ -14,7 +14,7 @@ For purposes of this section, the term “qualified business credits” means—
 
 &emsp;(1) the investment credit determined under section 46 (but only to the extent attributable to property the basis of which is reduced by section 50(c)),
 
-&emsp;(2) the targeted jobs credit determined under section 51(a),
+&emsp;(2) the work opportunity credit determined under section 51(a),
 
 &emsp;(3) the alcohol fuels credit determined under section 40(a),
 
@@ -34,9 +34,11 @@ Subsection (a) shall be applied by substituting “an amount equal to 50 percent
 
 &emsp;(2) the research credit determined under section 41(a) for a taxable year beginning before January 1, 1990.
 
-(Added Pub. L. 97–248, title II, §205(a)(2), Sept. 3, 1982, 96 Stat. 428; amended Pub. L. 98–369, div. A, title IV, §474(r)(8)(A), July 18, 1984, 98 Stat. 840; Pub. L. 100–647, title IV, §4008(b)(2), Nov. 10, 1988, 102 Stat. 3653; Pub. L. 101–239, title VII, §§7110(c)(2), 7814(e)(1), (2)(D), Dec. 19, 1989, 103 Stat. 2325, 2413, 2414; Pub. L. 101–508, title XI, §§11511(b)(3), 11813(b)(12), Nov. 5, 1990, 104 Stat. 1388–485, 1388–554; Pub. L. 103–66, title XIII, §§13302(b)(2), 13322(c)(2), Aug. 10, 1993, 107 Stat. 555, 563.)
+(Added Pub. L. 97–248, title II, §205(a)(2), Sept. 3, 1982, 96 Stat. 428; amended Pub. L. 98–369, div. A, title IV, §474(r)(8)(A), July 18, 1984, 98 Stat. 840; Pub. L. 100–647, title IV, §4008(b)(2), Nov. 10, 1988, 102 Stat. 3653; Pub. L. 101–239, title VII, §§7110(c)(2), 7814(e)(1), (2)(D), Dec. 19, 1989, 103 Stat. 2325, 2413, 2414; Pub. L. 101–508, title XI, §§11511(b)(3), 11813(b)(12), Nov. 5, 1990, 104 Stat. 1388–485, 1388–554; Pub. L. 103–66, title XIII,§§13302(b)(2), 13322(c)(2), Aug. 10, 1993, 107 Stat. 555, 563; Pub. L. 104–188, title I, §1201(e)(1), Aug. 20, 1996, 110 Stat. 1772.)
 
 #### Amendments
+
+1996—Subsec. (c)(2). Pub. L. 104–188 substituted “work opportunity credit” for “targeted jobs credit”.
 
 1993—Subsec. (c)(6). Pub. L. 103–66, §13302(b)(2), added par. (6).
 
@@ -59,6 +61,10 @@ Subsec. (d)(2). Pub. L. 101–239, §7110(c)(2), inserted “for a taxable year 
 Subsec. (d). Pub. L. 100–647, §4008(b)(2)(B), inserted “and research credit” after “tax credit” in heading and amended text generally. Prior to amendment, text read as follows: “In the case of the investment credit determined under section 46(a) (other than a credit to which section 48(q)(3) applies), subsection (a) shall be applied by substituting ‘an amount equal to 50 percent of’ for ‘an amount equal to’.”
 
 1984—Pub. L. 98–369 amended section generally, substituting provisions relating to deduction for certain unused business credits for provisions relating to deduction for certain unused investment credits.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–188 applicable to individuals who begin work for the employer after Sept. 30, 1996, see section 1201(g) of Pub. L. 104–188, set out as a note under section 38 of this title.
 
 #### Effective Date of 1993 Amendment
 

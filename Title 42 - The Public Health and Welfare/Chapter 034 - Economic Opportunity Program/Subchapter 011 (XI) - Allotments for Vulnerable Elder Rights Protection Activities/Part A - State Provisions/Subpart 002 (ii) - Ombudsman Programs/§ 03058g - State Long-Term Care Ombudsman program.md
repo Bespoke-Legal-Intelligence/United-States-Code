@@ -254,7 +254,7 @@ The State agency shall require the Office to—
 
 &emsp;&emsp;(F) providing policy, regulatory, and legislative recommendations to solve identified problems, to resolve the complaints, to improve the quality of care and life of residents, to protect the health, safety, welfare, and rights of residents, and to remove the barriers;
 
-&emsp;(2) analyze, comment on, and monitor the development and implementation of Federal, State, and local laws, regulations, and other government policies and actions that pertain to long-term care facilities and services, and to the health, safety, welfare, and rights of residents, in the State, and recommend any changes in such laws, regulations, and policies as the Office determines to be appropriate;
+&emsp;(2) analyze, comment on, and monitor the development and implementation of Federal, State, and local laws, regulations, and other government policies and actions that pertainto long-term care facilities and services, and to the health, safety, welfare, and rights of residents, in the State, and recommend any changes in such laws, regulations, and policies as the Office determines to be appropriate;
 
 &emsp;(3)(A) provide such information as the Office determines to be necessary to public and private agencies, legislators, and other persons, regarding—
 

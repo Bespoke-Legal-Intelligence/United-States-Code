@@ -8,7 +8,7 @@ Whoever induces or influences such Department to purchase or acquire any propert
 
 Shall be fined under this title or imprisoned not more than one year, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 752; Oct. 31, 1951, ch. 655, §26, 65 Stat. 720; May 25, 1967, Pub. L. 90–19, §24(d), 81 Stat. 28; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(H), 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 752; Oct. 31, 1951, ch. 655, §26, 65 Stat. 720; May 25, 1967, Pub. L. 90–19, §24(d), 81 Stat. 28; Sept. 13, 1994, Pub. L.103–322, title XXXIII, §330016(1)(H), 108 Stat. 2147.)
 
 #### Historical and Revision Notes
 

@@ -7,5 +7,4 @@ Transition Authority
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 03851 - Transition authority of President](%C2%A7%2003851%20-%20Transition%20authority%20of%20President.md)
-- [&sect; 03852 - Commitment of prisoners to custody of Attorney General or Commission](%C2%A7%2003852%20-%20Commitment%20of%20prisoners%20to%20custody%20of%20Attorney%20General%20or%20Commission.md)
+- [&sect; 03851, 3852 - Repealed. Pub. L. 104&#8211;201, div. C, title XXXV, &sect;3546(a)(4), Sept. 23, 1996, 110 Stat. 2868](%C2%A7%2003851%2C%203852%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93201%2C%20div.%20C%2C%20title%20XXXV%2C%20%C2%A73546%28a%29%284%29%2C%20Sept.%2023%2C%201996%2C%20110%20Stat.%202868.md)

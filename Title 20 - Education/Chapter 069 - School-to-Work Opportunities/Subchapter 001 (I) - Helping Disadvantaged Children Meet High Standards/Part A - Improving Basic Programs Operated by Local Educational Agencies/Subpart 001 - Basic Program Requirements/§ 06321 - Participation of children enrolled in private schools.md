@@ -50,7 +50,7 @@
 
 #### (1) In general
 
-&emsp;The control of funds provided under this part, and title to materials, equipment, and property purchased with such funds, shall be in a public agency, and a public agency shall administer such funds and property.
+&emsp;The control of funds provided under this part, and title to materials, equipment, andproperty purchased with such funds, shall be in a public agency, and a public agency shall administer such funds and property.
 
 #### (2) Provision of services
 

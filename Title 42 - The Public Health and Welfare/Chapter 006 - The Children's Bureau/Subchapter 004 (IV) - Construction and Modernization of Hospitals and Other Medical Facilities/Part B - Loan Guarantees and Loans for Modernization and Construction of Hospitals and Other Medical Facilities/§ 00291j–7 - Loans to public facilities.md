@@ -26,7 +26,7 @@
 
 &emsp;(A) to guarantee to such purchaser (and any successor in interest to such purchaser) payment of the principal and interest payable under such loan, and
 
-&emsp;(B) to pay as an interest subsidy to such purchaser (and any successor in interest of such purchaser) amounts which when added to the amount of interest payable on such loan, are equivalent to a reasonable rate of interest on such loan as determined by the Secretary,after taking into account the range of prevailing interest rates in the private market on similar loans and the risks assumed by the United States.
+&emsp;(B) to pay as an interest subsidy to such purchaser (and any successor in interest of such purchaser) amounts which when added to the amount of interest payable on such loan, are equivalent to a reasonable rate of interest on such loan as determined by the Secretary, after taking into account the range of prevailing interest rates in the private market on similar loans and the risks assumed by the United States.
 
 (2) Any such agreement—
 

@@ -12,7 +12,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 5 U.S.C. 93.
 
@@ -30,7 +32,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-<b>1976</b>—Pub. L. 94–213 designated existing provisions as subsec. (a) and added subsec. (b).
+1976—Pub. L. 94–213 designated existing provisions as subsec. (a) and added subsec. (b).
 
 #### Cross References
 

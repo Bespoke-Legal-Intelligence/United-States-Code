@@ -50,7 +50,7 @@
 
 #### (1) In general
 
-&emsp;In the case of any individual who travels outside the United States away from home inpursuit of a trade or business or in pursuit of an activity described in section 212, no deduction shall be allowed under section 162, or section 212 for that portion of the expenses of such travel otherwise allowable under such section which, under regulations prescribed by the Secretary, is not allocable to such trade or business or to such activity.
+&emsp;In the case of any individual who travels outside the United States away from home in pursuit of a trade or business or in pursuit of an activity described in section 212, no deduction shall be allowed under section 162, or section 212 for that portion of the expenses of such travel otherwise allowable under such section which, under regulations prescribed by the Secretary, is not allocable to such trade or business or to such activity.
 
 #### (2) Exception
 
@@ -120,7 +120,7 @@ Subsection (a) shall not apply to—
 
 #### (9) Expenses includible in income of persons who are not employees
 
-&emsp;Expenses paid or incurred by the taxpayer for goods, services, and facilities to the extent that the expenses are includible in the grossincome of a recipient of the entertainment, amusement, or recreation who is not an employee of the taxpayer as compensation for services rendered or as a prize or award under section 74. The preceding sentence shall not apply to any amount paid or incurred by the taxpayer if such amount is required to be included (or would be so required except that the amount is less than $600) in any information return filed by such taxpayer under part III of subchapter A of chapter 61 and is not so included.
+&emsp;Expenses paid or incurred by the taxpayer for goods, services, and facilities to the extent that the expenses are includible in the gross income of a recipient of the entertainment, amusement, or recreation who is not an employee of the taxpayer as compensation for services rendered or as a prize or award under section 74. The preceding sentence shall not apply to any amount paid or incurred by the taxpayer if such amount is required to be included (or would be so required except that the amount is less than $600) in any information return filed by such taxpayer under part III of subchapter A of chapter 61 and is not so included.
 
 > For purposes of this subsection, any item referred to in subsection (a) shall be treated as an expense.
 
@@ -164,7 +164,7 @@ For purposes of this chapter, if deductions are disallowed under subsection (a) 
 
 #### (A) North American area
 
-&emsp;&emsp;The term “North American area” means the United States, its possessions, and the Trust Territory of the Pacific Islands, and Canada and Mexico.
+&emsp;&emsp;The term “North American area” means the United States, its possessions, and theTrust Territory of the Pacific Islands, and Canada and Mexico.
 
 #### (B) Cruise ship
 
@@ -308,7 +308,7 @@ For purposes of subsection (d), the term “qualified nonpersonal use vehicle”
 
 &emsp;&emsp;An item provided by an employer to an employee shall not be treated as having been provided for safety achievement if—
 
-&emsp;&emsp;&emsp;(i) during the taxable year, employee achievement awards (other than awards excludable under section 132(e)(1)) for safety achievement have previously been awarded by the employer to more than 10 percent of the employees of the employer (excluding employees described in clause (ii)), or
+&emsp;&emsp;&emsp;(i) during the taxable year, employee achievement awards (other than awardsexcludable under section 132(e)(1)) for safety achievement have previously been awarded by the employer to more than 10 percent of the employees of the employer (excluding employees described in clause (ii)), or
 
 &emsp;&emsp;&emsp;(ii) such item is awarded to a manager, administrator, clerical employee, or other professional employee.
 
@@ -350,7 +350,7 @@ For purposes of subsection (d), the term “qualified nonpersonal use vehicle”
 
 #### (2) Skyboxes, etc.
 
-&emsp;In the case of a skybox or other private luxury box leased for more than 1 event, the amount allowable as a deduction under this chapter with respect to such events shall not exceed the sum of the face value of non-luxurybox seat tickets for the seats in such box covered by the lease. For purposes of the preceding sentence, 2 or more related leases shall be treated as 1 lease.
+&emsp;In the case of a skybox or other private luxury box leased for more than 1 event, the amount allowable as a deduction under this chapter with respect to such events shall not exceed the sum of the face value of non-luxury box seat tickets for the seats in such box covered by the lease. For purposes of the preceding sentence, 2 or more related leases shall be treated as 1 lease.
 
 #### (m) Additional limitations on travel expenses
 
@@ -426,7 +426,7 @@ For purposes of subsection (d), the term “qualified nonpersonal use vehicle”
 
 The Secretary shall prescribe such regulations as he may deem necessary to carry out the purposes of this section, including regulations prescribing whether subsection (a) or subsection (b) applies in cases where both such subsections would otherwise apply.
 
-(Added Pub. L. 87–834, §4(a)(1), Oct. 16, 1962, 76 Stat. 974; amended Pub. L. 88–272, title II, §217(a), Feb. 26, 1964, 78 Stat. 56; Pub. L. 94–455, title VI, §602(a), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1572, 1834; Pub. L. 95–600, title III, §361(a), (b), title VII, §701(g)(1)–(3), Nov. 6, 1978, 92 Stat. 2847, 2903, 2904; Pub. L. 96–222, title I, §103(a)(10)(A), (B) Apr. 1, 1980, 94 Stat. 212; Pub. L. 96–598, §5(a), Dec. 24, 1980, 94 Stat. 3488; Pub. L. 96–605, title I, §108(a), Dec. 28, 1980, 94 Stat. 3524; Pub. L. 96–608, §4(a), Dec. 28, 1980, 94 Stat. 3552; Pub. L. 97–34, title II, §265(a), (b), Aug. 13, 1981, 95 Stat. 265; Pub. L. 97–248, title III, §§307(a)(1), 308(a), Sept. 3, 1982, 96 Stat. 589, 591; Pub. L. 97–424, title V, §543(a), Jan. 6, 1983, 96 Stat. 2195; Pub. L. 98–67, title I, §102(a), title II, §222(a), Aug. 5, 1983, 97 Stat. 369, 395; Pub. L. 98–369, div. A, title I, §179(b)(1), title VIII, §801(c), July 18, 1984, 98 Stat. 718, 995; Pub. L. 99–44, §§1(a), 2, 6(b), May 24, 1985, 99 Stat. 77, 79;Pub. L. 99–514, title I, §§122(c), (d), 142(a)–(c), title XI, §1114(b)(6), Oct. 22, 1986, 100 Stat. 2110, 2117–2120, 2451; Pub. L. 100–647, title I, §§1001(g)(1)–(4)(A), (5), 1018(u)(2), title VI, §6003(a), Nov. 10, 1988, 102 Stat. 3351, 3352, 3590, 3684; Pub. L. 101–239, title VII, §§7816(a), 7841(d)(18), Dec. 19, 1989, 103 Stat. 2420, 2429; Pub. L. 101–508, title XI, §11802(b), Nov. 5, 1990, 104 Stat. 1388–529; Pub. L. 103–66, title XIII, §§13209(a), (b), 13210(a), (b), 13272(a), Aug. 10, 1993, 107 Stat. 469, 542.)
+(Added Pub. L. 87–834, §4(a)(1), Oct. 16, 1962, 76 Stat. 974; amended Pub. L. 88–272, title II, §217(a), Feb. 26, 1964, 78 Stat. 56; Pub. L. 94–455, title VI, §602(a), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1572, 1834; Pub. L. 95–600, title III, §361(a), (b), title VII, §701(g)(1)–(3), Nov. 6, 1978, 92 Stat. 2847, 2903, 2904; Pub. L. 96–222, title I, §103(a)(10)(A), (B) Apr. 1, 1980, 94 Stat. 212; Pub. L. 96–598, §5(a), Dec. 24, 1980, 94 Stat. 3488; Pub. L. 96–605, title I, §108(a), Dec. 28, 1980, 94 Stat. 3524; Pub. L. 96–608, §4(a), Dec. 28, 1980, 94 Stat. 3552; Pub. L. 97–34, title II, §265(a), (b), Aug. 13, 1981, 95 Stat. 265; Pub. L. 97–248, title III, §§307(a)(1), 308(a), Sept. 3, 1982, 96 Stat. 589, 591; Pub. L. 97–424, title V, §543(a), Jan. 6, 1983, 96 Stat. 2195; Pub. L. 98–67, title I, §102(a), title II, §222(a), Aug. 5, 1983, 97 Stat. 369, 395; Pub. L. 98–369, div. A, title I, §179(b)(1), title VIII, §801(c), July 18, 1984, 98 Stat. 718, 995; Pub. L. 99–44, §§1(a), 2, 6(b), May 24, 1985, 99 Stat. 77, 79; Pub. L. 99–514, title I, §§122(c), (d), 142(a)–(c), title XI, §1114(b)(6), Oct. 22, 1986, 100 Stat. 2110, 2117–2120, 2451; Pub. L. 100–647, title I, §§1001(g)(1)–(4)(A), (5), 1018(u)(2), title VI, §6003(a), Nov. 10, 1988, 102 Stat. 3351, 3352, 3590, 3684; Pub. L. 101–239, title VII, §§7816(a), 7841(d)(18), Dec. 19, 1989, 103 Stat. 2420, 2429; Pub. L. 101–508, title XI, §11802(b), Nov. 5, 1990, 104 Stat. 1388–529; Pub. L. 103–66, title XIII, §§13209(a), (b), 13210(a), (b), 13272(a), Aug. 10, 1993, 107 Stat. 469, 542.)
 
 #### References in Text
 
@@ -500,15 +500,15 @@ Subsec. (h). Pub. L. 99–514, §142(c), struck out “or 212” after “sectio
 
 Subsec. (j). Pub. L. 99–514, §122(d), added subsec. (j). Former subsec. (j) redesignated (k).
 
-Subsec. (k). Pub. L. 99–514, §142(a)(1), added subsec. (k). Former subsec. (k) redesignated (<i>o).</i>
+Subsec. (k). Pub. L. 99–514, §142(a)(1), added subsec. (k). Former subsec. (k) redesignated (<i>o</i>).
 
 Subsecs. (<i>l</i>) to (n). Pub. L. 99–514, §142(b), added subsecs. (<i>l</i>) to (n).
 
-Subsec. (<i>o</i>). Pub. L. 99–514, §142(a)(1), redesignated former subsec. (k) as (<i>o).</i>
+Subsec. (<i>o</i>). Pub. L. 99–514, §142(a)(1), redesignated former subsec. (k) as (<i>o</i>).
 
 1985—Subsec. (d). Pub. L. 99–44, §2(a), inserted at end “This subsection shall not apply to any qualified nonpersonal use vehicle (as defined in subsection (i)).”
 
-Pub. L. 99–44, §1(a), substituted “adequate records or by sufficient evidence corroborating the taxpayer's own statement” for “adequate contemporaneous records”, and provided that the Internal Revenue Code of 1954\[now 1986\] \[this title\] shall be applied as if “contemporaneous” had not been added to subsec. (d). See Effective Date of 1985 Amendment note below.
+Pub. L. 99–44, §1(a), substituted “adequate records or by sufficient evidence corroborating the taxpayer's own statement” for “adequate contemporaneous records”, and provided that the Internal Revenue Code of 1954 \[now 1986\] \[this title\] shall be applied as if “contemporaneous” had not been added to subsec. (d). See Effective Date of 1985 Amendment note below.
 
 Subsecs. (i), (j). Pub. L. 99–44, §2(b), added subsec. (i) and redesignated former subsec. (i) as (j).
 
@@ -636,7 +636,7 @@ Section 602(b) of Pub. L. 94–455 provided that: “The amendments made by this
 
 #### Effective Date of 1964 Amendment
 
-Section 217(b) of Pub. L. 88–272 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to taxable years ending after December 31, 1962, but only in respect of periods after such date.”
+Section 217(b) of Pub. L. 88–272 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to taxable years endingafter December 31, 1962, but only in respect of periods after such date.”
 
 #### Effective Date
 
@@ -668,7 +668,7 @@ For treatment of use of automobile by I.R.S. special agent for purposes of this 
 
 #### Substantiation by Adequate Contemporaneous Records
 
-Section 1(a) of Pub. L. 99–44, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided in partthat: “the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] shall be applied and administered as if the word ‘contemporaneous’ had not been added \[by Pub. L. 98–369\] to such subsection (d) \[subsec. (d) of this section\].”
+Section 1(a) of Pub. L. 99–44, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided in part that: “the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] shall be applied and administered as if the word ‘contemporaneous’ had not been added \[by Pub. L. 98–369\] to such subsection (d) \[subsec. (d) of this section\].”
 
 #### Use of Facilities in Case of Independent Contractors, Etc.
 

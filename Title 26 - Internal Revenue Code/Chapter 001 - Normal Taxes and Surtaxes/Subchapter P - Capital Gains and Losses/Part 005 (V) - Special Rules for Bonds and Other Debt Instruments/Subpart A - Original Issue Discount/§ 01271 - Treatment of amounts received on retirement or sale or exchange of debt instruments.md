@@ -182,7 +182,7 @@ Treatment of Debt Instruments Received in Exchange for Property.—
 
 In general.—
 
-&emsp;&emsp;“(A) Except as otherwise provided in this subsection, section 1274 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as added by section 41) and the amendment made by section 41(b) (relatingto amendment of section 483) shall apply to sales or exchanges after December 31, 1984.
+&emsp;&emsp;“(A) Except as otherwise provided in this subsection, section 1274 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as added by section 41) and the amendment made by section 41(b) (relating to amendment of section 483) shall apply to sales or exchanges after December 31, 1984.
 
 &emsp;&emsp;“(B) Section 1274 of such Code and the amendment made by section 41(b) shall not apply to any sale or exchange pursuant to a written contract which was binding on March 1, 1984, and at all times thereafter before the sale or exchange.
 
@@ -204,7 +204,7 @@ Clarification of interest accrual.—In the case of any sale or exchange—
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) after March 1, 1984, nothing in section 483 of the Internal Revenue Code of 1986 shall permit any interest to be deductible before the period to which such interest is properly allocable, or
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) after June 8, 1984, notwithstanding section 483 of the Internal Revenue Code of 1986 or any other provision of law, no interest shall be deductible before the period to which such interest is properly allocable.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) after June 8, 1984, notwithstanding section 483 of the Internal Revenue Code of 1986 orany other provision of law, no interest shall be deductible before the period to which such interest is properly allocable.
 
 &emsp;&emsp;&emsp;“(ii)
 
@@ -492,7 +492,7 @@ First year.—The amount taken into account for the first taxable year in the sp
 
 &emsp;&emsp;&emsp;“(ii)
 
-For subsequent years in spread period.—The amount taken into account in the second or any succeeding taxable year in the spread period shall be the sum of—
+For subsequent years in spread period.—The amount taken into account in the second orany succeeding taxable year in the spread period shall be the sum of—
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) the portion of the net adjustments not taken into account in the preceding taxable year of the spread period divided by the number of remaining taxable years in the spread period (including the year for which the determination is being made), and
 

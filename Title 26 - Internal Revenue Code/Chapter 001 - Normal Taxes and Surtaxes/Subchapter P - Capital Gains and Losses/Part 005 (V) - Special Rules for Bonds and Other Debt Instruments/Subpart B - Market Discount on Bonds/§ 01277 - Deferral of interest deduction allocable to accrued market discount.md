@@ -50,7 +50,7 @@ Except as otherwise provided in this section, the net direct interest expense wi
 
 #### (C) Disallowed interest expense reduced for amounts previously taken into account under paragraph (1)
 
-&emsp;&emsp;For purposes of this paragraph, the amount of the disallowed interest expenseshall not include any amount previously taken into account under paragraph (1).
+&emsp;&emsp;For purposes of this paragraph, the amount of the disallowed interest expense shall not include any amount previously taken into account under paragraph (1).
 
 #### (3) Disallowed interest expense
 
@@ -64,11 +64,13 @@ For purposes of this section, the term “net direct interest expense” means, 
 
 &emsp;(2) the aggregate amount of interest (including original issue discount) includible in gross income for the taxable year with respect to such bond.
 
-> In the case of any financial institution which is a bank (as defined in section 585(a)(2)) or to which section 593 applies, the determination of whether interest is described in paragraph (1) shall be made under principles similar to the principles of section 291(e)(1)(B)(ii). Under rules similar to the rules of section 265(a)(5), short sale expenses shall be treated as interest for purposes of determining net direct interest expense.
+> In the case of any financial institution which is a bank (as defined in section 585(a)(2)), the determination of whether interest is described in paragraph (1) shall be made under principles similar to the principles of section 291(e)(1)(B)(ii). Under rules similar to the rules of section 265(a)(5), short sale expenses shall be treated as interest for purposes of determining net direct interest expense.
 
-(Added Pub. L. 98–369, div. A, title I, §41(a), July 18, 1984, 98 Stat. 545; amended Pub. L. 99–514, title IX, §§901(d)(4)(F), §902(e)(2), title XVIII, §1899A(29)–(31), Oct. 22, 1986, 100 Stat. 2380, 2382, 2960; Pub. L. 100–647, title I, §1018(u)(31), Nov. 10, 1988, 102 Stat. 3592; Pub. L. 103–66, title XIII, §13206(b)(1)(B), Aug. 10, 1993, 107 Stat. 465.)
+(Added Pub. L. 98–369, div. A, title I, §41(a), July 18, 1984, 98 Stat. 545; amended Pub. L. 99–514, title IX, §§901(d)(4)(F), §902(e)(2), title XVIII, §1899A(29)–(31), Oct. 22, 1986, 100 Stat. 2380, 2382, 2960; Pub. L. 100–647, title I, §1018(u)(31), Nov. 10, 1988, 102 Stat. 3592; Pub. L. 103–66, title XIII, §13206(b)(1)(B), Aug. 10, 1993, 107 Stat. 465; Pub. L. 104–188, title I, §1616(b)(14), Aug. 20, 1996, 110 Stat. 1857.)
 
 #### Amendments
+
+1996—Subsec. (c). Pub. L. 104–188 struck out “or to which section 593 applies” after “585(a)(2))” in closing provisions.
 
 1993—Subsec. (d). Pub. L. 103–66 struck out heading and text of subsec. (d). Text read as follows: “In the case of a market discount bond issued on or before July 18, 1984, any gain recognized by the taxpayer on any disposition of such bond shall be treated as ordinary income to the extent the amount of such gain does not exceed the amount allowable with respect to such bond under subsection (b)(2) for the taxable year in which such bond is disposed of.”
 
@@ -83,6 +85,10 @@ Subsec. (c). Pub. L. 99–514, §901(d)(4)(F), substituted “which is a bank (a
 Pub. L. 99–514, §902(e)(2), substituted “section 265(a)(5)” for “section 265(5)”.
 
 Subsec. (d). Pub. L. 99–514, §1899A(31), substituted “July 18, 1984” for “the date of the enactment of this section”.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–188 applicable to taxable years beginning after Dec. 31, 1995, see section 1616(c) of Pub. L. 104–188, set out as a note under section 593 of this title.
 
 #### Effective Date of 1993 Amendment
 

@@ -10,7 +10,7 @@
 
 (b) The Board may decrease the reserve requirement set forth in subsection (a) of this section when in its opinion such a decrease is necessary or desirable. The Board may also require special reserves to protect the interests of members either by regulation or for an individual credit union in any special case.
 
-(June 26, 1934, ch. 750, title I, §116, formerly §12, 48 Stat. 1221; Oct. 25, 1949, ch. 713, §3, 63 Stat. 890;renumbered §17 and amended Sept. 22, 1959, Pub. L. 86–354, §1, 73 Stat. 634; Mar. 10, 1970, Pub. L. 91–206, §2(1), 84 Stat. 49; renumbered title I, §116, and amended Oct. 19, 1970, Pub. L. 91–468, §§1(2), 9, 84 Stat. 994, 1017; Apr. 19, 1977, Pub. L. 95–22, title III, §305, 91 Stat. 52; Nov. 10, 1978, Pub. L. 95–630, title V, §502(b), 92 Stat. 3681.)
+(June 26, 1934, ch. 750, title I, §116, formerly §12, 48 Stat. 1221; Oct. 25, 1949, ch. 713, §3, 63 Stat. 890; renumbered §17 and amended Sept. 22, 1959, Pub. L. 86–354, §1, 73 Stat. 634; Mar. 10, 1970, Pub. L. 91–206, §2(1), 84 Stat. 49; renumbered title I, §116, and amended Oct. 19, 1970, Pub. L. 91–468, §§1(2), 9, 84 Stat. 994, 1017; Apr. 19, 1977, Pub. L. 95–22, title III, §305, 91 Stat. 52; Nov. 10, 1978, Pub. L. 95–630, title V, §502(b), 92 Stat. 3681.)
 
 #### Amendments
 

@@ -10,7 +10,7 @@ There are authorized to be appropriated to carry out part B of subchapter II of 
 
 #### (c) Senior Companion Program
 
-There are authorized to be appropriated to carry out part C of subchapter II of this chapter, $40,000,000 for fiscal year 1994, and such sums as may be necessary for each of the fiscal years 1995 and 1996.
+There are authorized to be appropriated to carry out part C of subchapter II of this chapter,$40,000,000 for fiscal year 1994, and such sums as may be necessary for each of the fiscal years 1995 and 1996.
 
 #### (d) Demonstration programs
 
@@ -32,7 +32,7 @@ Subsec. (c). Pub. L. 101–204, §804(c), inserted “not less than the amount a
 
 1986—Subsec. (a). Pub. L. 99–551, §9(b), inserted “, $32,000,000 for fiscal year 1987, $33,280,000 for fiscal year 1988, and $34,610,000 for fiscal year 1989” and struck out “$30,412,000 for fiscal year 1983, $29,700,000 for fiscal year 1984, $30,400,000 for fiscal year 1985, and” after “to be appropriated”.
 
-Subsec. (b). Pub. L. 99–551, §9(c), inserted “, $60,000,000 for fiscal year 1987, $62,400,000 for fiscalyear 1988, and $64,900,000 for fiscal year 1989” and struck out “$52,650,000 for fiscal year 1983, $54,300,000 for fiscal year 1984, $56,700,000 for fiscal year 1985, and” after “to be appropriated”.
+Subsec. (b). Pub. L. 99–551, §9(c), inserted “, $60,000,000 for fiscal year 1987, $62,400,000 for fiscal year 1988, and $64,900,000 for fiscal year 1989” and struck out “$52,650,000 for fiscal year 1983, $54,300,000 for fiscal year 1984, $56,700,000 for fiscal year 1985, and” after “to be appropriated”.
 
 Subsec. (c). Pub. L. 99–551, §9(d), inserted “, $29,740,000 for fiscal year 1987, $30,930,000 for fiscal year 1988, and $32,170,000 for fiscal year 1989” and struck out “$17,607,000 for fiscal year 1983, $27,800,000 for fiscal year 1984, $28,200,000 for fiscal year 1985, and” after “to be appropriated”.
 

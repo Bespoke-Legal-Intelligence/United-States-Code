@@ -20,7 +20,7 @@
 | (i) | Modification or setting aside of order by Court of Appeals. |
 | (j) | Rehearing upon order or remand. |
 | (k) | “Mandate” defined. |
-| (<i>l)</i> | Penalty for violation of order; injunctions and other appropriate equitable relief. |
+| (<i>l</i>) | Penalty for violation of order; injunctions and other appropriate equitable relief. |
 | (m) | Civil actions for recovery of penalties for knowing violations of rules and cease and desist orders respecting unfair or deceptive acts or practices; jurisdiction; maximum amount of penalties; continuing violations; de novo determinations; compromise or settlement procedure. |
 | (n) | Standard of proof; public policy considerations. |
 | [45a.](Subchapter%20001%20%28I%29%20-%20Federal%20Trade%20Commission/%C2%A7%2000045a%20-%20Labels%20on%20products.md) | Labels on products. |

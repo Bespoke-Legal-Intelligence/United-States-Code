@@ -6,7 +6,7 @@ To the extent practicable, each project shall provide supportive services for re
 
 #### (b) Requirements
 
-Supportive services provided in connection with a project shall address the special needs ofindividuals (such as homeless persons with disabilities and homeless families with children) intended to be served by a project.
+Supportive services provided in connection with a project shall address the special needs of individuals (such as homeless persons with disabilities and homeless families with children) intended to be served by a project.
 
 #### (c) Services
 

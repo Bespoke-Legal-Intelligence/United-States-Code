@@ -22,7 +22,7 @@ Par. (2). Pub. L. 97–444, §207(3), inserted “if a futures commission mercha
 
 1974—Pub. L. 93–463 substituted “Commission” for “Secretary of Agriculture” in pars. (1) and (2).
 
-1968—Pub. L. 90–258 struck out from second proviso of first par. authorization for investment of customer funds in investment securities of the kind national banking associations may buy or in loans secured by negotiable warehouse receipts conveying or securing title to readily marketable commodities to the extent of the current loan value of such receipts and added second par, making it unlawful for any person, including a clearing agency of a contract market or any depository, to treat customer funds as belonging to any person other than the customer, respectively.
+1968—Pub. L. 90–258 struck out from second proviso of first par. authorization for investment of customer funds in investment securities of the kind national banking associations may buy or in loans secured by negotiable warehouse receipts conveying or securing title to readily marketable commodities to the extent of the current loan value of such receipts and added second par., making it unlawful for any person, including a clearing agency of a contract market or any depository, to treat customer funds as belonging to any person other than the customer, respectively.
 
 #### Effective Date of 1983 Amendment
 

@@ -100,7 +100,7 @@ In this subchapter, the term “home and community care” means one or more of 
 
 #### (D) Periodic review
 
-&emsp;&emsp;Each individual who qualifies as a functionally disabled elderly individual shall have the individual's assessment periodically reviewed and revised not less often than once every 12 months.
+&emsp;&emsp;Each individual who qualifies as a functionally disabled elderly individual shallhave the individual's assessment periodically reviewed and revised not less often than once every 12 months.
 
 #### (E) Conduct of assessment by interdisciplinary teams
 
@@ -122,7 +122,7 @@ In this subchapter, the term “home and community care” means one or more of 
 
 #### (G) Appeal procedures
 
-&emsp;&emsp;Each State which elects to provide home and community care under this section musthave in effect an appeals process for individuals adversely affected by determinations under subparagraph (F).
+&emsp;&emsp;Each State which elects to provide home and community care under this section must have in effect an appeals process for individuals adversely affected by determinations under subparagraph (F).
 
 #### (d) Individual community care plan (ICCP)
 
@@ -170,7 +170,7 @@ In this subchapter, the term “home and community care” means one or more of 
 
 #### (1) Ceiling on payment amounts
 
-&emsp;Payments may not be made under section 1396b(a) of this title to a State for home and community care provided under this section in a quarter to the extent that the medical assistance for such care in the quarter exceeds 50 percent of the product of—
+&emsp;Payments may not be made under section 1396b(a) of this title to a State for home andcommunity care provided under this section in a quarter to the extent that the medical assistance for such care in the quarter exceeds 50 percent of the product of—
 
 &emsp;&emsp;(A) the average number of individuals in the quarter receiving such care under this section;
 
@@ -186,7 +186,7 @@ In this subchapter, the term “home and community care” means one or more of 
 
 #### (B) Reduction in payment if failure to maintain effort
 
-&emsp;&emsp;If the amount reported under subparagraph (A) by a State with respect to a fiscal year is less than the amount reported under subparagraph (A) with respect to fiscal year1989, the Secretary shall provide for a reduction in payments to the State under section 1396b(a) of this title in an amount equal to the difference between the amounts so reported.
+&emsp;&emsp;If the amount reported under subparagraph (A) by a State with respect to a fiscal year is less than the amount reported under subparagraph (A) with respect to fiscal year 1989, the Secretary shall provide for a reduction in payments to the State under section 1396b(a) of this title in an amount equal to the difference between the amounts so reported.
 
 #### (f) Minimum requirements for home and community care
 
@@ -406,7 +406,7 @@ In this subchapter, the term “home and community care” means one or more of 
 
 #### (B) Minimum protections
 
-&emsp;&emsp;Interim requirements under subparagraph (A) and final requirements under paragraph (2) shall assure, through methods other than reliance on State licensure processes, that individuals receiving home and community care are protected from neglect, physical and sexual abuse, financial exploitation, inappropriate involuntary restraint, and the provision of health care services by unqualified personnel in community care settings.
+&emsp;&emsp;Interim requirements under subparagraph (A) and final requirements under paragraph (2) shall assure, through methods other than reliance on State licensure processes, that individuals receiving home and communitycare are protected from neglect, physical and sexual abuse, financial exploitation, inappropriate involuntary restraint, and the provision of health care services by unqualified personnel in community care settings.
 
 #### (2) Development of final requirements
 

@@ -24,7 +24,7 @@ The Secretary may through grants to public and private nonprofit agencies, provi
 
 &emsp;(B) The Secretary shall use 40 percent of such excess to award grants under subsection (a) of this section on a competitive basis to eligible agencies for local and statewide programs.
 
-&emsp;(C) The Secretary shall use the remaining 20 percent of such excess to award grants undersubsection (a) of this section on a competitive basis to eligible agencies for nationwide programs, including programs benefiting Native Americans and migrant farm workers. In any fiscal year, the Secretary may not make grants under this subparagraph to a particular eligible agency in an aggregate amount exceeding $300,000.
+&emsp;(C) The Secretary shall use the remaining 20 percent of such excess to award grants under subsection (a) of this section on a competitive basis to eligible agencies for nationwide programs, including programs benefiting Native Americans and migrant farm workers. In any fiscal year, the Secretary may not make grants under this subparagraph to a particular eligible agency in an aggregate amount exceeding $300,000.
 
 (3) For purposes of paragraphs (1)(A) and (2)(A), an eligible agency shall demonstrate that the proposed program is statewide in scope and represents a comprehensive and coordinated effort to alleviate hunger within the State.
 
@@ -80,7 +80,7 @@ Subsec. (d). Pub. L. 101–501, §406(b)(2), (c)(1), amended section identically
 
 #### Change of Name
 
-Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Economic and Educational Opportunities of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Fifth Congress, Jan. 7, 1997.
 
 #### Effective Date of 1994 Amendment
 

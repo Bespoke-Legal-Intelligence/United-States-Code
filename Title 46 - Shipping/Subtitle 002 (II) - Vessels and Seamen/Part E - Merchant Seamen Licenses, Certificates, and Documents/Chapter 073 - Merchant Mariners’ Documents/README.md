@@ -35,7 +35,7 @@ Chapter 73 establishes the general requirements for the issuance of a merchant m
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in title 50 App. section 1744.
+This chapter is referred to in section 1132 of Appendix to this title; title 50 App. section 1744.
 
 
 ---

@@ -76,6 +76,10 @@
 | [59c.](Subchapter%20002%20%28II%29%20-%20Waters%20Declared%20Nonnavigable%20Change%20of%20Name/%C2%A7%2000059c%20-%20East%20River%2C%20New%20York.md) | East River, New York. |
 | 59c–1. | East and Hudson Rivers, New York. |
 | 59c–2. | East River, New York. |
+| 59c–3. | Queens County, New York. |
+| (a) | Description of nonnavigable area. |
+| (b) | Requirement that area be improved. |
+| (c) | Expiration date. |
 | [59d.](Subchapter%20002%20%28II%29%20-%20Waters%20Declared%20Nonnavigable%20Change%20of%20Name/%C2%A7%2000059d%20-%20River%20Raisin%2C%20Michigan.md) | River Raisin, Michigan. |
 | [59e.](Subchapter%20002%20%28II%29%20-%20Waters%20Declared%20Nonnavigable%20Change%20of%20Name/%C2%A7%2000059e%20-%20Bayou%20Lafourche%2C%20Louisiana.md) | Bayou Lafourche, Louisiana. |
 | 59e–1. | Additional portion of Bayou Lafourche, Louisiana. |

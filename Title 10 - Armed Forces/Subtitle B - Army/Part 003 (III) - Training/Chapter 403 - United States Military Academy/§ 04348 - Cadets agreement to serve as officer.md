@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) will accept an appointment, if tendered, as a commissioned officer of the Regular Army or the Regular Air Force; and
 
-&emsp;&emsp;(B) will serve on active duty for at least six years immediately after such appointment.
+&emsp;&emsp;(B) will serve on active duty for at least five years immediately after such appointment.
 
 &emsp;(3) That if an appointment described in paragraph (2) is not tendered or if the cadet is permitted to resign as a regular officer before completion of the commissioned service obligation of the cadet, the cadet—
 
@@ -18,7 +18,7 @@
 
 (b)(1) The Secretary of the Army may transfer to the Army Reserve, and may order to active duty for such period of time as the Secretary prescribes (but not to exceed four years), a cadet who breaches an agreement under subsection (a). The period of time for which a cadet is ordered to active duty under this paragraph may be determined without regard to section 651(a) of this title.
 
-(2) A cadet who is transferred to the Army Reserve under paragraph (1) shall be transferred inan appropriate enlisted grade or rating, as determined by the Secretary.
+(2) A cadet who is transferred to the Army Reserve under paragraph (1) shall be transferred in an appropriate enlisted grade or rating, as determined by the Secretary.
 
 (3) For the purposes of paragraph (1), a cadet shall be considered to have breached an agreement under subsection (a) if the cadet is separated from the Academy under circumstances which the Secretary determines constitute a breach by the cadet of the cadet's agreement to complete the course of instruction at the Academy and accept an appointment as a commissioned officer upon graduation from the Academy.
 
@@ -36,7 +36,7 @@
 
 (2) In the case of a cadet who is a minor and who has parents or a guardian, the cadet may sign the agreement required by subsection (a) only with the consent of a parent or guardian.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 243; Mar. 3, 1964, Pub. L. 88–276, §5(a), 78 Stat. 153; Oct. 13, 1964, Pub. L. 88–647, title III, §301(9), 78 Stat. 1072; Oct. 19, 1984, Pub. L. 98–525, title V, §§541(a), 542(b), 98 Stat. 2529; Nov. 8, 1985, Pub. L. 99–145, title V, §512(a), 99 Stat. 623; Nov. 29, 1989, Pub. L. 101–189, div. A, title V, §511(b), title XVI, §1622(e)(5), 103 Stat. 1439, 1605.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 243; Mar. 3, 1964, Pub. L. 88–276, §5(a), 78 Stat. 153; Oct. 13, 1964, Pub. L. 88–647, title III, §301(9), 78 Stat. 1072; Oct. 19, 1984, Pub. L. 98–525, title V, §§541(a), 542(b), 98 Stat. 2529; Nov. 8, 1985, Pub. L. 99–145, title V, §512(a), 99 Stat. 623; Nov. 29, 1989, Pub. L. 101–189, div. A, title V, §511(b), title XVI, §1622(e)(5), 103 Stat. 1439, 1605; Feb. 10, 1996, Pub. L. 104–106, div. A, title V, §531(a), 110 Stat. 314.)
 
 Historical and Revision Notes
 
@@ -55,6 +55,8 @@ June 30, 1950, ch. 421, §3, 64 Stat. 304.
 The word “agreement” is substituted for the word “articles”. The words “Hereafter”, “appointed to the United States Military Academy”, “engage”, and 10:1092c (1st 25 words of clause (2)) are omitted as surplusage. The word “separated” is substituted for the words “discharged by competent authority”. The words “if he is permitted to resign” are substituted for the words “in the event of the acceptance of his resignation”, since a resignation is effective only when accepted. The first 31 words of clause (3) are substituted for 10:1092c (last 29 words of clause (3)). The last sentence is substituted for the words “with the consent of his parents or guardian if he be a minor, and if any he have”.
 
 #### Amendments
+
+1996—Subsec. (a)(2)(B). Pub. L. 104–106 substituted “five years” for “six years”.
 
 1989—Subsec. (a)(2)(B). Pub. L. 101–189, §511(b), substituted “six years” for “five years”.
 
@@ -82,6 +84,10 @@ Subsec. (a)(3). Pub. L. 98–525, §524(b), substituted “at least the sixth an
 
 Subsec. (a)(2). Pub. L. 88–276 substituted “five” for “three”.
 
+#### Effective Date of 1996 Amendment
+
+Section 531(e) of Pub. L. 104–106 provided that: “The amendments made by this section \[amending this section and sections 6959 and 9348 of this title\] apply to persons first admitted to the United States Military Academy, United States Naval Academy, and United States Air Force Academy after December 31, 1991.”
+
 #### Effective Date of 1989 Amendment
 
 Amendment by section 511(b) of Pub. L. 101–189 applicable to persons who are first admitted to one of the military service academies after Dec. 31, 1991, see section 511(e) of Pub. L. 101–189, as amended, set out as a note under section 2114 of this title.
@@ -96,7 +102,7 @@ Section 512(e) of Pub. L. 99–145 provided that: “The amendments made by subs
 
 #### Effective Date of 1984 Amendment
 
-Section 541(d) of Pub. L. 98–525 provided that: “The amendments made by this section \[amending this section and sections 6959 and 9348 of this title\] shall applywith respect to agreements entered into under section 4348, 6959, or 9348 of title 10, United States Code, before, on, or after the date of the enactment of this Act \[Oct. 19, 1984\].”
+Section 541(d) of Pub. L. 98–525 provided that: “The amendments made by this section \[amending this section and sections 6959 and 9348 of this title\] shall apply with respect to agreements entered into under section 4348, 6959, or 9348 of title 10, United States Code, before, on, or after the date of the enactment of this Act \[Oct. 19, 1984\].”
 
 #### Effective Date of 1964 Amendment; Obligated Period of Service
 

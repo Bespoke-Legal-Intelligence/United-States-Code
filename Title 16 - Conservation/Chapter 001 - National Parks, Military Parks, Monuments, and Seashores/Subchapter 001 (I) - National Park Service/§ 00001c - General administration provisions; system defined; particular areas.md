@@ -2,7 +2,7 @@
 
 #### (a) “National park system” defined
 
-The “national park system” shall include any area of land and water now or hereafter administered by the Secretary of the Interior through the National Park Service for park, monument,historic, parkway, recreational, or other purposes.
+The “national park system” shall include any area of land and water now or hereafter administered by the Secretary of the Interior through the National Park Service for park, monument, historic, parkway, recreational, or other purposes.
 
 #### (b) Specific provisions applicable to area; uniform application of sections 1b to 1d and other provisions of this title to all areas when not in conflict with specific provisions; references in other provisions to national parks, monuments, recreation areas, historic monuments, or parkways not a limitation of such other provisions to those areas
 
@@ -30,5 +30,5 @@ Subsec. (b). Pub. L. 91–383 substituted provisions making specific provisions 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1a–1, 459b–6, 459c–6, 5207 of this title.
+This section is referred to in sections 1a–1, 1f, 459b–6, 459c–6, 5207 of this title.
 

@@ -14,9 +14,13 @@ Except as provided in section 557 of this title, any provision of law of any Sta
 
 #### (d) “State” defined
 
-For purposes of this section, the term “State” has the meaning given such term in section 153(v) of this title.
+For purposes of this section, the term “State” has the meaning given such term in section 153 of this title.
 
-(June 19, 1934, ch. 652, title VI, §636, as added Oct. 30, 1984, Pub. L. 98–549, §2, 98 Stat. 2800.)
+(June 19, 1934, ch. 652, title VI, §636, as added Oct. 30, 1984, Pub. L. 98–549, §2, 98 Stat. 2800; amended Feb. 8, 1996, Pub. L. 104–104, §3(d)(3), 110 Stat. 61.)
+
+#### Amendments
+
+1996—Subsec. (d). Pub. L. 104–104 substituted “section 153” for “section 153(v)”.
 
 #### Effective Date
 

@@ -31,8 +31,7 @@
 | (h) | Jurisdiction of District Court; suits for recovery or collection of taxes; payment of judgment. |
 | [1421j.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001421j%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | [1421k.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001421k%20-%20Designation%20of%20naval%20or%20military%20reservations%3B%20closed%20port.md) | Designation of naval or military reservations; closed port. |
-| 1421k–1. | Delegate from Guam to United States House of Representatives; clerk hire allowance and transportation expenses. |
-| 1421<i>l</i>, 1421m. Repealed. |  |
+| 1421k–1 to 1421m. Repealed. |  |
 | [1421n.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001421n%20-%20Applicability%20of%20Federal%20copyright%20laws.md) | Applicability of Federal copyright laws. |
 | 1421<i>o.</i> | Federal assistance for fire control, watershed protection, and reforestation. |
 | [1421p.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001421p%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |

@@ -4,9 +4,19 @@
 
 Notwithstanding any other provision of law, the Administrator may provide agricultural commodities to meet emergency food needs under this subchapter through governments and public or private agencies, including intergovernmental organizations such as the World Food Program and other multilateral organizations, in such manner and on such terms and conditions as the Administrator determines appropriate to respond to the emergency.
 
-#### (b) Non-emergency assistance
+#### (b) Nonemergency assistance
 
-The Administrator may provide agricultural commodities for non-emergency assistance under this subchapter through eligible organizations (as described in subsection (d) of this section) that have entered into an agreement with the Administrator to use such commodities in accordance with this subchapter.
+#### (1) In general
+
+&emsp;The Administrator may provide agricultural commodities for nonemergency assistance under this subchapter through eligible organizations (as described in subsection (d) of this section) that have entered into an agreement with the Administrator to use the commodities in accordance with this subchapter.
+
+#### (2) Limitation
+
+&emsp;The Administrator may not deny a request for funds submitted under this subsection because the program for which the funds are requested—
+
+&emsp;&emsp;(A) would be carried out by the eligible organization in a foreign country in which the Agency for International Development does not have a mission, office, or other presence; or
+
+&emsp;&emsp;(B) is not part of a development plan for the country prepared by the Agency.
 
 #### (c) Uses of assistance
 
@@ -20,11 +30,11 @@ To be eligible to receive assistance under subsection (b) of this section an org
 
 &emsp;(2) an intergovernmental organization, such as the World Food Program.
 
-#### (e) Support for private voluntary organizations and cooperatives
+#### (e) Support for eligible organizations
 
 #### (1) In general
 
-&emsp;Of the funds made available in each fiscal year under this subchapter to the Administrator, not less than $10,000,000, and not more than $13,500,000, shall be made available in each fiscal year to private voluntary organizations and cooperatives to assist such organizations and cooperatives in—
+&emsp;Of the funds made available in each fiscal year under this subchapter to the Administrator, not less than $10,000,000, and not more than $28,000,000, shall be made available in each fiscal year to eligible organizations described in subsection (d) of this section, to assist the organizations in—
 
 &emsp;&emsp;(A) establishing new programs under this subchapter; and
 
@@ -32,17 +42,11 @@ To be eligible to receive assistance under subsection (b) of this section an org
 
 #### (2) Request for funds
 
-&emsp;In order to receive funds made available under paragraph (1), a private voluntary organization or cooperative must submit a request for such funds (which must be approved by the Administrator) when submitting a proposal to the Administrator for an agreement under this subchapter. Such request for funds shall include a specific explanation of—
-
-&emsp;&emsp;(A) the program costs to be offset by such funds;
-
-&emsp;&emsp;(B) the reason why such funds are needed in carrying out the particular assistance program; and
-
-&emsp;&emsp;(C) the degree to which such funds will improve the provision of food assistance to foreign countries (particularly those in sub-Saharan Africa suffering from acute, long-term food shortages).
+&emsp;To receive funds made available under paragraph (1), an eligible organization described in subsection (d) of this section shall submit a request for the funds that is subject to approval by the Administrator.
 
 #### (3) Assistance with respect to sale
 
-&emsp;Upon the request of a private voluntary organization or cooperative, the Administrator may provide assistance to that organization or cooperative with respect to the sale of agricultural commodities made available to it under this subchapter.
+&emsp;Upon the request of an eligible organization, the Administrator may provide assistance to the eligible organization with respect to the sale of agricultural commodities made available to it under this subchapter.
 
 #### (f) Effective use of commodities
 
@@ -64,9 +68,25 @@ To ensure that agricultural commodities made available under this subchapter are
 
 Commodities provided under this subchapter shall, to the extent practicable, be clearly identified with appropriate markings on the package or container of such commodity in the language of the locality in which such commodities are distributed, as being furnished by the people of the United States of America.
 
-(July 10, 1954, ch. 469, title II, §202, 68 Stat. 458; May 14, 1960, Pub. L. 86–472, ch. VI, §601 (a)(1), 74 Stat. 140; Dec. 16, 1963, Pub. L. 88–205, pt. IV, §403(d), 77 Stat. 390; Nov. 11, 1966, Pub. L. 89–808, §2(C), 80 Stat. 1534; Aug. 3, 1977, Pub. L. 95–88, title II, §§207, 208(a), 91 Stat. 547; Aug. 14, 1979, Pub. L. 96–53, title I, §121, title II, §202, 93 Stat. 366, 368; Aug. 8, 1985, Pub. L. 99–83, title X, §§1003, 1004(a), 1005, 99 Stat. 270, 271; Dec. 22, 1987, Pub. L. 100–202, §11, 101 Stat. 1329–448; Nov. 5, 1990,Pub. L. 101–508, title I, §1204(b)(1), 104 Stat. 1388–11; Nov. 28, 1990, Pub. L. 101–624, title XV, §1512, 104 Stat. 3636.)
+(July 10, 1954, ch. 469, title II, §202, 68 Stat. 458; May 14, 1960, Pub. L. 86–472, ch. VI, §601 (a)(1), 74 Stat. 140; Dec. 16, 1963, Pub. L. 88–205, pt. IV, §403(d), 77 Stat. 390; Nov. 11, 1966, Pub. L. 89–808, §2(C), 80 Stat. 1534; Aug. 3, 1977, Pub. L. 95–88, title II, §§207, 208(a), 91 Stat. 547; Aug. 14, 1979, Pub. L. 96–53, title I, §121, title II, §202, 93 Stat. 366, 368; Aug. 8, 1985, Pub. L. 99–83, title X, §§1003, 1004(a), 1005, 99 Stat. 270, 271; Dec. 22, 1987, Pub. L. 100–202, §11, 101 Stat. 1329–448; Nov. 5, 1990, Pub. L. 101–508, title I, §1204(b)(1), 104 Stat. 1388–11; Nov. 28, 1990, Pub. L. 101–624, title XV, §1512, 104 Stat. 3636; Apr. 4, 1996, Pub. L. 104–127, title II, §207(a), 110 Stat. 953.)
 
 #### Amendments
+
+1996—Subsec. (b). Pub. L. 104–127, §207(a)(1), added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows: “The Administrator may provide agricultural commodities for non-emergency assistance under this subchapter through eligible organizations (as described in subsection (d) of this section) that have entered into an agreement with the Administrator to use such commodities in accordance with this subchapter.”
+
+Subsec. (e). Pub. L. 104–127, §207(a)(2)(A), substituted “eligible organizations” for “private voluntary organizations and cooperatives” in heading.
+
+Subsec. (e)(1). Pub. L. 104–127, §207(a)(2)(B), in introductory provisions, substituted “$28,000,000” for “$13,500,000” and “eligible organizations described in subsection (d) of this section, to assist the organizations” for “private voluntary organizations and cooperatives to assist such organizations and cooperatives”.
+
+Subsec. (e)(2). Pub. L. 104–127, §207(a)(2)(C), added par. (2) and struck out heading and text of former par. (2). Text read as follows: “In order to receive funds made available under paragraph (1), a private voluntary organization or cooperative must submit a request for such funds (which must be approved by the Administrator) when submitting a proposal to the Administrator for an agreement under this subchapter. Such request for funds shall include a specific explanation of—
+
+&emsp;“(A) the program costs to be offset by such funds;
+
+&emsp;“(B) the reason why such funds are needed in carrying out the particular assistance program; and
+
+&emsp;“(C) the degree to which such funds will improve the provision of food assistance to foreign countries (particularly those in sub-Saharan Africa suffering from acute, long-term food shortages).”
+
+Subsec. (e)(3). Pub. L. 104–127, §207(a)(2)(D), substituted “an eligible organization, the Administrator may provide assistance to the eligible organization” for “a private voluntary organization or cooperative, the Administrator may provide assistance to that organization or cooperative”.
 
 1990—Pub. L. 101–624 amended section generally, substituting present provisions for provisions relating to furnishing commodities through friendly governments, agencies, and organizations, assistance for community and other self-help activities, and multiyear agreements for distribution of commodities through nonprofit voluntary agencies and cooperatives.
 
@@ -126,5 +146,5 @@ Section 601(a)(2) of Pub. L. 86–472, which provided that the amendment of this
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1724 of this title.
+This section is referred to in sections 1724, 1725, 1736f–1 of this title.
 

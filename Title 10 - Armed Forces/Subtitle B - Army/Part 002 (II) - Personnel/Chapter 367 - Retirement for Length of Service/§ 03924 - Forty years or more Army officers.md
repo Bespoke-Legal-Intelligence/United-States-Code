@@ -16,6 +16,10 @@ Historical and Revision Notes
 
 3924(a)
 
+&nbsp;
+
+&nbsp;
+
 3924(b)
 
 10:942 (as applicable to commissioned officers).

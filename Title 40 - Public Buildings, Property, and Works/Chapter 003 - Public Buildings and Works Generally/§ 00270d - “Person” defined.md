@@ -6,7 +6,7 @@ The term “person” and the masculine pronoun as used in sections 270a to 270d
 
 #### Effective Date
 
-Section effective upon expiration of sixty days after Aug. 24, 1935, but not applicable to any contract awarded pursuant to any invitation for bids issued on or before the date it takes effect, or to any persons or bonds in respect of any such contract, see section 5 of act Aug. 24, 1935, set out as a note under section 270a of this title.
+Section effective upon expiration of sixty days after Aug. 24, 1935, but not applicable to any contract awarded pursuant to any invitation for bids issued on or before the date it takes effect, or to any persons or bonds in respect of any such contract, see section 7 of act Aug. 24, 1935, set out as a note under section 270a of this title.
 
 #### Cross References
 

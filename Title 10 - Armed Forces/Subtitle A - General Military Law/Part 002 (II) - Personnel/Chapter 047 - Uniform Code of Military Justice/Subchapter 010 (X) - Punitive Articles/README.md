@@ -22,7 +22,7 @@
 | [892\.](%C2%A7%2000892%20-%20Art.%2092.%20Failure%20to%20obey%20order%20or%20regulation.md) | 92\. | Failure to obey order or regulation. |
 | [893\.](%C2%A7%2000893%20-%20Art.%2093.%20Cruelty%20and%20maltreatment.md) | 93\. | Cruelty and maltreatment. |
 | [894\.](%C2%A7%2000894%20-%20Art.%2094.%20Mutiny%20or%20sedition.md) | 94\. | Mutiny or sedition. |
-| [895\.](%C2%A7%2000895%20-%20Art.%2095.%20Resistance%2C%20breach%20of%20arrest%2C%20and%20escape.md) | 95\. | Resistance, breach of arrest, and escape. |
+| [895\.](%C2%A7%2000895%20-%20Art.%2095.%20Resistance%2C%20flight%2C%20breach%20of%20arrest%2C%20and%20escape.md) | 95\. | Resistance, flight, breach of arrest, and escape. |
 | [896\.](%C2%A7%2000896%20-%20Art.%2096.%20Releasing%20prisoner%20without%20proper%20authority.md) | 96\. | Releasing prisoner without proper authority. |
 | [897\.](%C2%A7%2000897%20-%20Art.%2097.%20Unlawful%20detention.md) | 97\. | Unlawful detention. |
 | [898\.](%C2%A7%2000898%20-%20Art.%2098.%20Noncompliance%20with%20procedural%20rules.md) | 98\. | Noncompliance with procedural rules. |
@@ -36,7 +36,7 @@
 | [906\.](%C2%A7%2000906%20-%20Art.%20106.%20Spies.md) | 106\. | Spies. |
 | [906a.](%C2%A7%2000906a%20-%20Art.%20106a.%20Espionage.md) | 106a. | Espionage. |
 | [907\.](%C2%A7%2000907%20-%20Art.%20107.%20False%20official%20statements.md) | 107\. | False official statements. |
-| [908\.](%C2%A7%2000908%20-%20Art.%20108.%20Military%20property%20of%20United%20States%E2%80%94%20Loss%2C%20damage%2C%20destruction%2C%20or%20wrongful%20disposition.md) | 108\. | Military property of United States—Loss, damage, destruction, or wrongful disposition. |
+| [908\.](%C2%A7%2000908%20-%20Art.%20108.%20Military%20property%20of%20United%20States%E2%80%94Loss%2C%20damage%2C%20destruction%2C%20or%20wrongful%20disposition.md) | 108\. | Military property of United States—Loss, damage, destruction, or wrongful disposition. |
 | [909\.](%C2%A7%2000909%20-%20Art.%20109.%20Property%20other%20than%20military%20property%20of%20United%20States%E2%80%94Waste%2C%20spoilage%2C%20or%20destruction.md) | 109\. | Property other than military property of United States—Waste, spoilage, or destruction. |
 | [910\.](%C2%A7%2000910%20-%20Art.%20110.%20Improper%20hazarding%20of%20vessel.md) | 110\. | Improper hazarding of vessel. |
 | [911\.](%C2%A7%2000911%20-%20Art.%20111.%20Drunken%20or%20reckless%20operation%20of%20a%20vehicle%2C%20aircraft%2C%20or%20vessel.md) | 111\. | Drunken or reckless operation of a vehicle, aircraft, or vessel. |
@@ -67,6 +67,8 @@
 | [934\.](%C2%A7%2000934%20-%20Art.%20134.%20General%20article.md) | 134\. | General article. |
 
 #### Amendments
+
+1996—Pub. L. 104–106, div. A, title XI, §1112(b), Feb. 10, 1996, 110 Stat. 461, inserted “flight,” after “Resistance,” in item 895.
 
 1992—Pub. L. 102–484, div. A, title X, §1066(a)(2), Oct. 23, 1992, 106 Stat. 2506, substituted “operation of a vehicle, aircraft, or vessel” for “driving”.
 
@@ -103,7 +105,7 @@ Federal retirement benefits, forfeiture upon conviction of offenses described he
 - [&sect; 00892 - Art. 92. Failure to obey order or regulation](%C2%A7%2000892%20-%20Art.%2092.%20Failure%20to%20obey%20order%20or%20regulation.md)
 - [&sect; 00893 - Art. 93. Cruelty and maltreatment](%C2%A7%2000893%20-%20Art.%2093.%20Cruelty%20and%20maltreatment.md)
 - [&sect; 00894 - Art. 94. Mutiny or sedition](%C2%A7%2000894%20-%20Art.%2094.%20Mutiny%20or%20sedition.md)
-- [&sect; 00895 - Art. 95. Resistance, breach of arrest, and escape](%C2%A7%2000895%20-%20Art.%2095.%20Resistance%2C%20breach%20of%20arrest%2C%20and%20escape.md)
+- [&sect; 00895 - Art. 95. Resistance, flight, breach of arrest, and escape](%C2%A7%2000895%20-%20Art.%2095.%20Resistance%2C%20flight%2C%20breach%20of%20arrest%2C%20and%20escape.md)
 - [&sect; 00896 - Art. 96. Releasing prisoner without proper authority](%C2%A7%2000896%20-%20Art.%2096.%20Releasing%20prisoner%20without%20proper%20authority.md)
 - [&sect; 00897 - Art. 97. Unlawful detention](%C2%A7%2000897%20-%20Art.%2097.%20Unlawful%20detention.md)
 - [&sect; 00898 - Art. 98. Noncompliance with procedural rules](%C2%A7%2000898%20-%20Art.%2098.%20Noncompliance%20with%20procedural%20rules.md)
@@ -117,7 +119,7 @@ Federal retirement benefits, forfeiture upon conviction of offenses described he
 - [&sect; 00906 - Art. 106. Spies](%C2%A7%2000906%20-%20Art.%20106.%20Spies.md)
 - [&sect; 00906a - Art. 106a. Espionage](%C2%A7%2000906a%20-%20Art.%20106a.%20Espionage.md)
 - [&sect; 00907 - Art. 107. False official statements](%C2%A7%2000907%20-%20Art.%20107.%20False%20official%20statements.md)
-- [&sect; 00908 - Art. 108. Military property of United States&#8212; Loss, damage, destruction, or wrongful disposition](%C2%A7%2000908%20-%20Art.%20108.%20Military%20property%20of%20United%20States%E2%80%94%20Loss%2C%20damage%2C%20destruction%2C%20or%20wrongful%20disposition.md)
+- [&sect; 00908 - Art. 108. Military property of United States&#8212;Loss, damage, destruction, or wrongful disposition](%C2%A7%2000908%20-%20Art.%20108.%20Military%20property%20of%20United%20States%E2%80%94Loss%2C%20damage%2C%20destruction%2C%20or%20wrongful%20disposition.md)
 - [&sect; 00909 - Art. 109. Property other than military property of United States&#8212;Waste, spoilage, or destruction](%C2%A7%2000909%20-%20Art.%20109.%20Property%20other%20than%20military%20property%20of%20United%20States%E2%80%94Waste%2C%20spoilage%2C%20or%20destruction.md)
 - [&sect; 00910 - Art. 110. Improper hazarding of vessel](%C2%A7%2000910%20-%20Art.%20110.%20Improper%20hazarding%20of%20vessel.md)
 - [&sect; 00911 - Art. 111. Drunken or reckless operation of a vehicle, aircraft, or vessel](%C2%A7%2000911%20-%20Art.%20111.%20Drunken%20or%20reckless%20operation%20of%20a%20vehicle%2C%20aircraft%2C%20or%20vessel.md)

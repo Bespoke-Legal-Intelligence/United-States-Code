@@ -8,7 +8,7 @@ The purpose of this section is to establish procedures for development, implemen
 
 For purposes of this section, the term “critical aquifer protection area” means either of the following:
 
-&emsp;(1) All or part of an area located within an area for which an application or designation as a sole or principal source aquifer pursuant to section 300h–3(e) of this title, has been submitted and approved by the Administrator not later than 24 months after June 19, 1986, and which satisfies the criteria established by the Administrator under subsection (d) of this section.
+&emsp;(1) All or part of an area located within an area for which an application or designation as a sole or principal source aquifer pursuant to section 300h–3(e) of this title, has been submitted and approved by the Administrator and which satisfies the criteria established by the Administrator under subsection (d) of this section.
 
 &emsp;(2) All or part of an area which is within an aquifer designated as a sole source aquifer as of June 19, 1986, and for which an areawide ground water quality protection plan has been approved under section 208 of the Clean Water Act \[33 U.S.C. 1288\] prior to June 19, 1986.
 
@@ -96,7 +96,7 @@ Upon entering a cooperative agreement under subsection (i) of this section, the 
 
 #### (k) Activities funded under other law
 
-No funds authorized under this subsection <sup>1</sup> may be used to fund activities funded under other sections of this chapter or the Clean Water Act \[33 U.S.C. 1251 et seq.\], the Solid Waste Disposal Act \[42 U.S.C. 6901 et seq.\], the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 \[42 U.S.C. 9601 et seq.\] or other environmental laws.
+No funds authorized under this section may be used to fund activities funded under other sections of this chapter or the Clean Water Act \[33 U.S.C. 1251 et seq.\], the Solid Waste Disposal Act \[42 U.S.C. 6901 et seq.\], the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 \[42 U.S.C. 9601 et seq.\] or other environmental laws.
 
 #### (<i>l</i>) Savings provision
 
@@ -106,33 +106,20 @@ Nothing under this section shall be construed to amend, supersede or abrogate ri
 
 There are authorized to be appropriated to carry out this section not more than the following amounts:
 
-> &emsp;Fiscal year:
+&nbsp;
 
-<i>Amount  </i>
-
-&nbsp;&nbsp;1987
-
-&nbsp;$10,000,000
-
-&nbsp;&nbsp;1988
-
-&nbsp;&nbsp;15,000,000
-
-&nbsp;&nbsp;1989
-
-&nbsp;&nbsp;17,500,000
-
-&nbsp;&nbsp;1990
-
-&nbsp;&nbsp;17,500,000
-
-&nbsp;&nbsp;1991
-
-&nbsp;&nbsp;17,500,000
+| Fiscal year: | <i>Amount</i> |
+| :--- | ---: |
+| &nbsp;&nbsp;1987 | $10,000,000&nbsp;&nbsp; |
+| &nbsp;&nbsp;1988 | 15,000,000&nbsp;&nbsp; |
+| &nbsp;&nbsp;1989 | 17,500,000   |
+| &nbsp;&nbsp;1990 | 17,500,000&nbsp;&nbsp; |
+| &nbsp;&nbsp;1991 | 17,500,000&nbsp;&nbsp; |
+| &nbsp;&nbsp;1992–2003 | 15,000,000. |
 
 > Matching grants under this section may also be used to implement or update any water quality management plan for a sole or principal source aquifer approved (before June 19, 1986) by the Administrator under section 208 of the Federal Water Pollution Control Act \[33 U.S.C. 1288\].
 
-(July 1, 1944, ch. 373, title XIV, §1427, as added and amended June 19, 1986, Pub. L. 99–339, titleII, §203, title III, §301(f), 100 Stat. 657, 664; Dec. 21, 1995, Pub. L. 104–66, title II, §2021(g), 109 Stat. 727.)
+(July 1, 1944, ch. 373, title XIV, §1427, as added and amended June 19, 1986, Pub. L. 99–339, title II, §203, title III, §301(f), 100 Stat. 657, 664; Dec. 21, 1995, Pub. L. 104–66, title II, §2021(g), 109 Stat. 727; Aug. 6, 1996, Pub. L. 104–182, title I, §120(a), title V, §501(b)(2), (f)(3), 110 Stat. 1650, 1691.)
 
 #### References in Text
 
@@ -144,9 +131,19 @@ The Comprehensive Environmental Response, Compensation, and Liability Act of 198
 
 #### Amendments
 
+1996—Pub. L. 104–182, §501(f)(3), made technical amendment to section catchline and subsec. (a) designation.
+
+Subsec. (b)(1). Pub. L. 104–182, §120(a)(1), struck out “not later than 24 months after June 19, 1986,” after “by the Administrator”.
+
+Subsec. (k). Pub. L. 104–182, §501(b)(2), substituted “this section” for “this subsection”.
+
+Subsec. (m). Pub. L. 104–182, §120(a)(2), inserted table item relating to fiscal years 1992 through 2003.
+
 1995—Subsecs. (<i>l</i>) to (n). Pub. L. 104–66 redesignated subsecs. (m) and (n) as (<i>l</i>) and (m), respectively, and struck out heading and text of former subsec. (<i>l</i>). Text read as follows: “Not later than December 31, 1989, each State shall submit to the Administrator a report assessing the impact of the program on ground water quality and identifying those measures found to be effective in protecting ground water resources. No later than September 30, 1990, the Administrator shall submit to Congress a report summarizing the State reports, and assessing the accomplishments of the sole source aquifer demonstration program including an identification of protection methods found to be most effective and recommendations for their application to protect ground water resources from contamination whenever necessary.”
 
 1986—Subsec. (n). Pub. L. 99–339 added subsec. (n).
 
-<i><sup>1</sup></i><i> So in original. Probably should be “section”.</i>
+#### Section Referred to in Other Sections
+
+This section is referred to in section 300j–14 of this title.
 

@@ -20,11 +20,11 @@ Any mortgage acquired as security under subsection (a) of this section shall be 
 
 #### (c) Availability of receipts for financing functions
 
-All repayments of loans, payments of interest, and other receipts arising out of transactions entered into by the Secretary pursuant to this part, shall be available for financing functions performed under this part, including administrative expenses in connection with such functions.
+All repayments of loans, payments of interest, and other receipts arising out of transactionsentered into by the Secretary pursuant to this part, shall be available for financing functions performed under this part, including administrative expenses in connection with such functions.
 
 #### (d) Privileged or confidential information
 
-To the extent the Secretary deems it appropriate, and consistent with the provisions of section 552(b)(4) and section 552b(c)(4) of title 5,that portion of any record, material or data received by the Secretary in connection with any application for financial assistance under this part which contains trade secrets or commercial or financial information regarding the operation or competitive position of any business shall be deemed to be privileged or confidential within the meaning of those provisions.
+To the extent the Secretary deems it appropriate, and consistent with the provisions of section 552(b)(4) and section 552b(c)(4) of title 5, that portion of any record, material or data received by the Secretary in connection with any application for financial assistance under this part which contains trade secrets or commercial or financial information regarding the operation or competitive position of any business shall be deemed to be privileged or confidential within the meaning of those provisions.
 
 #### (e) Capital assets secured by first lien; exceptions
 

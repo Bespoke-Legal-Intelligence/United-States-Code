@@ -34,7 +34,7 @@
 
 (g) Except as otherwise expressly provided by law, special pay may not be provided to a physician or dentist in the Veterans Health Administration for any factor not specified in section 7433, 7434, 7435, or 7436, as applicable, of this title.
 
-(h) In no case may the total amount of compensation paid to a physician or dentist under this title in any year exceed the amount of annual compensation (excluding expenses) specified in section 102 of title 3.
+(h) In no case may the total amount of compensation paid to a physician or dentist underthis title in any year exceed the amount of annual compensation (excluding expenses) specified in section 102 of title 3.
 
 (Added Pub. L. 102–40, title I, §102, May 7, 1991, 105 Stat. 194; amended Pub. L. 102–405, title II, §204(a), title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1983, 1984.)
 

@@ -52,7 +52,7 @@ Status of Persons Providing Services.—(1) Subject to paragraph (3), while prov
 
 &emsp;(B) Section 2733 of this title and chapter 171 of title 28 (relating to claims for damages or loss).
 
-&emsp;(C) Section 522a <sup>1</sup> of title 5 (relating to maintenance of records on individuals).
+&emsp;(C) Section 552a of title 5 (relating to maintenance of records on individuals).
 
 &emsp;(D) Chapter 11 of title 18 (relating to conflicts of interest).
 
@@ -74,9 +74,11 @@ Status of Persons Providing Services.—(1) Subject to paragraph (3), while prov
 
 Reimbursement of Incidental Expenses.—The Secretary concerned may provide for reimbursement of a person for incidental expenses incurred by the person in providing voluntary services accepted under subsection (a). The Secretary shall determine which expenses are eligible for reimbursement under this subsection. Any such reimbursement may be made from appropriated or nonappropriated funds.
 
-(Added Pub. L. 98–94, title XII, §1266(a), Sept. 24, 1983, 97 Stat. 704; amended Pub. L. 99–145, title XVI, §1624(a), Nov. 8, 1985, 99 Stat. 778; Pub. L. 99–661, div. A, title XIII, §1355, Nov. 14, 1986, 100 Stat. 3996; Pub. L. 100–26, §3(9), Apr. 21, 1987, 101 Stat. 274; Pub. L. 101–189, div. A, title XVI, §1634, Nov. 29, 1989, 103 Stat. 1608; Pub. L. 102–190, div. A, title III, §345, Dec. 5, 1991, 105 Stat. 1346; Pub. L. 103–337, div. A, title X, §1061(a), Oct. 5, 1994, 108 Stat. 2845.)
+(Added Pub. L. 98–94, title XII, §1266(a), Sept. 24, 1983, 97 Stat. 704; amended Pub. L. 99–145, title XVI, §1624(a), Nov. 8, 1985, 99 Stat. 778; Pub. L. 99–661, div. A, title XIII, §1355, Nov. 14, 1986, 100 Stat. 3996; Pub. L. 100–26, §3(9), Apr. 21, 1987, 101 Stat. 274; Pub. L. 101–189, div. A, title XVI, §1634, Nov. 29, 1989, 103 Stat. 1608; Pub. L. 102–190, div. A, title III, §345, Dec. 5, 1991, 105 Stat. 1346; Pub. L. 103–337, div. A, title X, §1061(a), Oct. 5, 1994, 108 Stat. 2845; Pub. L. 104–201, div. A, title X, §1074(a)(8), Sept. 23, 1996, 110 Stat. 2659.)
 
 #### Amendments
+
+1996—Subsec. (d)(1)(C). Pub. L. 104–201 substituted “Section 552a” for “Section 522a”.
 
 1994—Pub. L. 103–337 amended section generally, substituting subsecs. (a) to (e) for former subsecs. (a) to (c) which related to acceptance by Secretary concerned of voluntary services, status of persons providing voluntary services, and reimbursement of expenses incurred by such persons.
 
@@ -111,6 +113,4 @@ Section 1061(b) of Pub. L. 103–337 provided that:
 #### Section Referred to in Other Sections
 
 This section is referred to in title 5 section 8171.
-
-<i><sup>1</sup></i><i> So in original. Probably should be section “552a”.</i>
 

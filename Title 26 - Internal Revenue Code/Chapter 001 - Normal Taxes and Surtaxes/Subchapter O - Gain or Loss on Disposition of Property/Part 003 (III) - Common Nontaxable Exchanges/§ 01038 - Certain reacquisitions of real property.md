@@ -22,7 +22,7 @@ If—
 
 #### (2) Limitation
 
-&emsp;The amount of gain determined under paragraph (1) resulting from a reacquisition during any taxable year beginning after the date ofthe enactment of this section shall not exceed the amount by which the price at which the real property was sold exceeded its adjusted basis, reduced by the sum of—
+&emsp;The amount of gain determined under paragraph (1) resulting from a reacquisition during any taxable year beginning after the date of the enactment of this section shall not exceed the amount by which the price at which the real property was sold exceeded its adjusted basis, reduced by the sum of—
 
 &emsp;&emsp;(A) the amount of the gain on the sale of such property returned as income for periods prior to the reacquisition of such property, and
 
@@ -66,9 +66,7 @@ If—
 
 > then, under regulations prescribed by the Secretary, subsections (b), (c), and (d) of this section shall not apply to the reacquisition of such property and, for purposes of applying sections 121 and 1034, the resale of such property shall be treated as a part of the transaction constituting the original sale of such property.
 
-#### (f) Reacquisitions by domestic building and loan associations
-
-This section shall not apply to a reacquisition of real property by an organization described in section 593(a) (relating to domestic building and loan associations, etc.).
+#### \[(f) Repealed. Pub. L. 104–188, title I, §1616(b)(12), Aug. 20, 1996, 110 Stat. 1857\]
 
 #### (g) Acquisition by estate, etc., of seller
 
@@ -78,13 +76,19 @@ Under regulations prescribed by the Secretary, if an installment obligation is i
 
 &emsp;(2) the basis of the real property acquired by the taxpayer shall be increased by an amount equal to the deduction under section 691(c) which would (but for this subsection) have been allowable to the taxpayer with respect to the gain on the exchange of the obligation for the real property.
 
-(Added Pub. L. 88–570, §2(a), Sept. 2, 1964, 78 Stat. 854; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–600, title IV, §§404(c)(6), 405(c)(3), Nov. 6, 1978, 92 Stat. 2870, 2871; Pub. L. 96–471, §4, Oct. 19, 1980, 94 Stat. 2255.)
+(Added Pub. L. 88–570, §2(a), Sept. 2, 1964, 78 Stat. 854; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–600, title IV, §§404(c)(6), 405(c)(3), Nov. 6, 1978, 92 Stat. 2870, 2871; Pub. L. 96–471, §4, Oct. 19, 1980, 94 Stat. 2255; Pub. L. 104–188, title I, §1616(b)(12), Aug. 20, 1996, 110 Stat. 1857.)
 
 #### Codification
 
 Section 405(c)(3) of Pub. L. 95–600 purported to amend section 1083(e)(1)(B) of this title, however, since section 1083 of this title contains no subsec. (e)(1)(B), this amendment was executed to subsec. (e)(1)(B) of this section as the probable intent of Congress.
 
 #### Amendments
+
+1996—Subsec. (f). Pub. L. 104–188 struck out subsec. (f) which read as follows:
+
+“(f)
+
+Reacquisitions by Domestic Building and Loan Associations.—This section shall not apply to a reacquisition of real property by an organization described in section 593(a) (relating to domestic building and loan associations, etc.).”
 
 1980—Subsec. (g). Pub. L. 96–471 added subsec. (g).
 
@@ -93,6 +97,10 @@ Section 405(c)(3) of Pub. L. 95–600 purported to amend section 1083(e)(1)(B) o
 Subsec. (e)(1)(B). Pub. L. 95–600, §405(c)(3), substituted “(relating to rollover of gain on sale of principal residence)” for “(relating to sale or exchange of residence)”. See Codification note above.
 
 1976—Subsec. (e). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–188 applicable to taxable years beginning after Dec. 31, 1995, see section 1616(c) of Pub. L. 104–188, set out as a note under section 593 of this title.
 
 #### Effective Date of 1980 Amendment
 

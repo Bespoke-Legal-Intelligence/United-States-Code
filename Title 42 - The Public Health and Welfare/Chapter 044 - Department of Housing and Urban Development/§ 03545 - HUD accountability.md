@@ -212,5 +212,5 @@ Applicability.—Section 102(d) of the Department of Housing and Urban Developme
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1439, 1485, 4852d, 12742, 12774 of this title.
+This section is referred to in sections 1439, 1485, 4852d, 12742, 12774 of this title; title 25 section 4136.
 

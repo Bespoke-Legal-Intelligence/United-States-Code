@@ -78,7 +78,3 @@ Amendment by Pub. L. 96–513 effective Sept. 15, 1981, but the authority to pre
 
 Amendment by Pub. L. 85–861 effective Aug. 10, 1956, see section 33(g) of Pub. L. 85–861, set out as a note under section 101 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 8356 of this title.
-

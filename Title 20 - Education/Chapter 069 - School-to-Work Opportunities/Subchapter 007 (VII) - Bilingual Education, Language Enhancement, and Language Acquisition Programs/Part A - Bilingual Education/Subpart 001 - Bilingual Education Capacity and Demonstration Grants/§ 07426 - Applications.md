@@ -52,7 +52,7 @@ Such application shall include documentation that the applicant has the qualifie
 
 &emsp;An application for a grant under this subpart shall contain the following:
 
-&emsp;&emsp;(A) A description of the need for the proposed program, including data on the number of children and youth of limited-English proficiency in the school or school district to be served and the characteristics of such children and youth, such as language spoken, dropout rates, proficiency in Englishand the native language, academic standing in relation to the English-proficient peers of such children and youth, and, where applicable, the recency of immigration.
+&emsp;&emsp;(A) A description of the need for the proposed program, including data on the number of children and youth of limited-English proficiency in the school or school district to be served and the characteristics of such children and youth, such as language spoken, dropout rates, proficiency in English and the native language, academic standing in relation to the English-proficient peers of such children and youth, and, where applicable, the recency of immigration.
 
 &emsp;&emsp;(B) A description of the program to be implemented and how such program's design—
 
@@ -70,7 +70,7 @@ Such application shall include documentation that the applicant has the qualifie
 
 &emsp;&emsp;(D) An assurance that the applicant will not reduce the level of State and local funds that the applicant expends for bilingual education or special alternative instruction programs if the applicant receives an award under this subpart.
 
-&emsp;&emsp;(E) An assurance that the applicant will employ teachers in the proposed program that, individually or in combination, are proficient in English, including written, as well as oral, communication skills.
+&emsp;&emsp;(E) An assurance that the applicant will employ teachers in the proposed programthat, individually or in combination, are proficient in English, including written, as well as oral, communication skills.
 
 &emsp;&emsp;(F) A budget for grant funds.
 

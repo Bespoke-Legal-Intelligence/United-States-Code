@@ -62,7 +62,7 @@ In subsection (c), the words “and fair” are omitted as surplusage. 10:1092c�
 
 #### Effective Date
 
-Section 52(a) of act Aug. 10, 1956, provided that: “Section 541 of title 10, United States Code, enacted by section 1 of this Act, takes effect (1) in the year in which the initial class graduates from the United States AirForce Academy, or (2) upon the rescission of the agreement under which graduates of the United States Military Academy and the United States Naval Academy may volunteer for appointment in the Air Force, whichever is earlier.”
+Section 52(a) of act Aug. 10, 1956, provided that: “Section 541 of title 10, United States Code, enacted by section 1 of this Act, takes effect (1) in the year in which the initial class graduates from the United States Air Force Academy, or (2) upon the rescission of the agreement under which graduates of the United States Military Academy and the United States Naval Academy may volunteer for appointment in the Air Force, whichever is earlier.”
 
 #### Appointment of United States Military Academy Graduates in Air Force
 

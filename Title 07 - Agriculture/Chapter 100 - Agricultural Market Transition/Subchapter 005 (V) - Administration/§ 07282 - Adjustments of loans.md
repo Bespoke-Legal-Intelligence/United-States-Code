@@ -1,0 +1,24 @@
+### §7282. Adjustments of loans
+
+#### (a) Adjustment authority
+
+The Secretary may make appropriate adjustments in the loan rates for any commodity for differences in grade, type, quality, location, and other factors.
+
+#### (b) Manner of adjustment
+
+The adjustments under the authority of this section shall, to the maximum extent practicable, be made in such manner that the average loan level for the commodity will, on the basis of the anticipated incidence of the factors, be equal to the level of support determined as provided in this chapter.
+
+#### (c) Adjustment on county basis
+
+The Secretary may establish loan rates for a crop for producers in individual counties in a manner that results in the lowest such rate being 95 percent of the national average loan rate, except that such action shall not result in an increase in outlays. Adjustments under this subsection shall not result in an increase in the national average loan rate for any year.
+
+(Pub. L. 104–127, title I, §162, Apr. 4, 1996, 110 Stat. 935.)
+
+#### References in Text
+
+For definition of “this chapter”, referred to in subsec. (b), see note set out under section 7201 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 7271 of this title.
+

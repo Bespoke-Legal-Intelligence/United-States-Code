@@ -7,7 +7,7 @@
 | [751b.](%C2%A7%2000751b%20-%20Surveys%20in%20Nome%20and%20Fairbanks%20districts.md) | Surveys in Nome and Fairbanks districts. |
 | [752\.](%C2%A7%2000752%20-%20Boundaries%20and%20contents%20of%20public%20lands%3B%20how%20ascertained.md) | Boundaries and contents of public lands; how ascertained. |
 | [753\.](%C2%A7%2000753%20-%20Lines%20of%20division%20of%20half%20quarter%20sections%3B%20how%20run.md) | Lines of division of half quarter sections; how run. |
-| 754 to 756. Repealed. |  |
+| 754 to 756. Repealed. |  |
 | [757\.](%C2%A7%2000757%20-%20Cost%20of%20survey%20of%20private%20land%20claims%20to%20be%20reported%20and%20paid.md) | Cost of survey of private land claims to be reported and paid. |
 | [758\.](%C2%A7%2000758%20-%20Delivery%20of%20patent%20contingent%20on%20refund%20of%20cost%20of%20survey.md) | Delivery of patent contingent on refund of cost of survey. |
 | [759\.](%C2%A7%2000759%20-%20Survey%20for%20and%20by%20settlers%20in%20township.md) | Survey for and by settlers in township. |
@@ -17,7 +17,7 @@
 | [763\.](%C2%A7%2000763%20-%20Deposits%20in%20Louisiana%20applicable%20to%20resurveys.md) | Deposits in Louisiana applicable to resurveys. |
 | 764, 765. | Repealed. |
 | [766\.](%C2%A7%2000766%20-%20Geological%20surveys%2C%20extension%20of%20public%20surveys%2C%20expenses%20of%20subdividing.md) | Geological surveys, extension of public surveys, expenses of subdividing. |
-| 767 to 769. Repealed. |  |
+| 767 to 769. Repealed. |  |
 | [770\.](%C2%A7%2000770%20-%20Rectangular%20mode%20of%20survey%3B%20departure%20from.md) | Rectangular mode of survey; departure from. |
 | [771\.](%C2%A7%2000771%20-%20Repealed.%20Dec.%2016%2C%201930%2C%20ch.%2014%2C%20%C2%A71%2C%2046%20Stat.%201029.md) | Repealed. |
 | [772\.](%C2%A7%2000772%20-%20Resurveys%20or%20retracements%20to%20mark%20boundaries%20of%20undisposed%20lands.md) | Resurveys or retracements to mark boundaries of undisposed lands. |

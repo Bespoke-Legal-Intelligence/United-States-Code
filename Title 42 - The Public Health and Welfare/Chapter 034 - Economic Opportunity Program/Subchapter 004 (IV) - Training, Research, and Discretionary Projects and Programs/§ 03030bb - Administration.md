@@ -14,7 +14,7 @@ The Assistant Secretary shall ensure that grants and contracts under this subcha
 
 #### (d) Consultation
 
-The Assistant Secretary shall, in developing priorities, consistent with the requirements of this subchapter, for awarding grants and entering into contracts under this subchapter, consult annually with State agencies, area agencies on aging, recipients of grants under subchapter X of this chapter, institutions of higher education, organizations representing beneficiaries of services under this chapter, and other organizations, and individuals, with expertise in aging issues.
+The Assistant Secretary shall, in developing priorities, consistent with the requirements of this subchapter, for awarding grants and entering into contracts under this subchapter, consult annually with State agencies, area agencies on aging, recipients of grants under subchapterX of this chapter, institutions of higher education, organizations representing beneficiaries of services under this chapter, and other organizations, and individuals, with expertise in aging issues.
 
 #### (e) Evaluation and compliance
 

@@ -32,7 +32,7 @@ Section was formerly classified to section 281a of Title 5 prior to the general 
 
 #### Change of Name
 
-Bureau of Prohibition and Commissioner of Prohibition redesignated Bureau of Industrial Alcohol and Commissioner of Industrial Alcohol, respectively, by act May 27, 1930.
+Bureau of Prohibition and Commissioner of Prohibition redesignated Bureau of Industrial Alcohol andCommissioner of Industrial Alcohol, respectively, by act May 27, 1930.
 
 “United States Customs Service” substituted for “Bureau of Customs” pursuant to Treasury Department Order 165–23, Apr. 4, 1973, eff. Aug. 1, 1973, 38 F.R. 13037. See, also, section 308 of Title 31, Money and Finance.
 

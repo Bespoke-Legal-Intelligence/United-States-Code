@@ -18,7 +18,7 @@ For the purpose of carrying out this part, there is authorized to be appropriate
 
 #### Prior Provisions
 
-A prior section 290cc–36, act July 1, 1944, ch. 373, title V, §536, as added July 22, 1987, Pub. L. 100–77, title VI, §611(3), 101 Stat. 523, and amended Nov. 4, 1988, Pub. L.100–607, title VIII, §§802(b)(3), 812(a), 102 Stat. 3169, 3170; Nov. 7, 1988, Pub. L. 100–628, title VI, §§602(b)(3), 612(a), 102 Stat. 3242, 3243; Nov. 18, 1988, Pub. L. 100–690, title II, §2614(b), 102 Stat. 4239; Aug. 16, 1989, Pub. L. 101–93, §5(t)(1), 103 Stat. 615, defined terms used in this part, prior to the general revision of this part by Pub. L. 101–645.
+A prior section 290cc–36, act July 1, 1944, ch. 373, title V, §536, as added July 22, 1987, Pub. L. 100–77, title VI, §611(3), 101 Stat. 523, and amended Nov. 4, 1988, Pub. L. 100–607, title VIII, §§802(b)(3), 812(a), 102 Stat. 3169, 3170; Nov. 7, 1988, Pub. L. 100–628, title VI, §§602(b)(3), 612(a), 102 Stat. 3242, 3243; Nov. 18, 1988, Pub. L. 100–690, title II, §2614(b), 102 Stat. 4239; Aug. 16, 1989, Pub. L. 101–93, §5(t)(1), 103 Stat. 615, defined terms used in this part, prior to the general revision of this part by Pub. L. 101–645.
 
 #### Amendments
 
@@ -30,9 +30,9 @@ A prior section 290cc–36, act July 1, 1944, ch. 373, title V, §536, as added 
 
 #### Effective Date of 1988 Amendments
 
-Amendment by Pub. L. 100–628 effective Nov. 7, 1988, see section 631 of Pub. L. 100–628, set out as a note under section 256 of this title.
+Amendment by Pub. L. 100–628 effective Nov. 7, 1988, see section 631 of Pub. L. 100–628, set out as a note under section 254e of this title.
 
-Amendment by Pub. L. 100–607 effective Nov. 4, 1988, see section 831 of Pub. L. 100–607, set out as a note under section 256 of this title.
+Amendment by Pub. L. 100–607 effective Nov. 4, 1988, see section 831 of Pub. L. 100–607, set out as a note under section 254e of this title.
 
 #### Section Referred to in Other Sections
 

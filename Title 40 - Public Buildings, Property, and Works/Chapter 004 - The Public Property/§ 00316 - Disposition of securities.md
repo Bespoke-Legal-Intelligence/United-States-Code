@@ -2,7 +2,7 @@
 
 With respect to any bonds, notes, or other securities acquired on behalf of the United States under the provisions of the Transportation Act of 1920, including, without limitation of the foregoing, any securities acquired as an incident to a case under title 11, receivership, or reorganization proceeding, or by assignment, transfer, substitution, or issuance, or by purchase, default, or other acquisition (whether at a foreclosure sale or otherwise) of collateral given for the payment of obligations to the United States, the President, or any officer, agent, or agency he may designate, is authorized to sell, exchange or otherwise dispose of, any such bonds, notes, or other securities, or to enter into arrangements for the extension of the maturity thereof, in such manner, in such amounts, at such prices, for cash, securities or other property, or any combination thereof, and upon such terms and conditions as the President or any officer, agent, or agency so designated may deem advisable and in the public interest.
 
-(Feb. 28, 1920, ch. 91, §213, as added Aug. 13, 1940, ch. 666, 54 Stat. 788, and amended Nov. 6, 1978, Pub. L. 95–598, title III, §325, 92 Stat. 2679.)
+(Feb. 28, 1920, ch. 91, §213, as added Aug. 13, 1940, ch. 666, 54 Stat. 788; amended Nov. 6, 1978, Pub. L. 95–598, title III, §325, 92 Stat. 2679.)
 
 #### References in Text
 

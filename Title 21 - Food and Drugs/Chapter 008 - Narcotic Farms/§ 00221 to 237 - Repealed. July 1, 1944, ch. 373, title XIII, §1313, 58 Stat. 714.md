@@ -12,7 +12,7 @@ Section 223, act Jan. 19, 1929, ch. 82, §3, 45 Stat. 1085; 1939 Reorg. Plan No.
 
 Section 224, act Jan. 19, 1929, ch. 82, §4, 45 Stat. 1086, provided for construction of buildings for two of the narcotic farms.
 
-Section 225, act Jan. 19, 1929, ch. 82, §5, 45 Stat. 1086; June 14, 1930, ch. 488, §4(a), 46 Stat. 586; 1939 Reorg. Plan No. I, §§201, 205, eff. July 1, 1939, 4 F.R. 2728, 53 Stat. 1424, provided for control and management of narcotic farms.
+Section 225, acts Jan. 19, 1929, ch. 82, §5, 45 Stat. 1086; June 14, 1930, ch. 488, §4(a), 46 Stat. 586; 1939 Reorg. Plan No. I, §§201, 205, eff. July 1, 1939, 4 F.R. 2728, 53 Stat. 1424, provided for control and management of narcotic farms.
 
 Section 226, act Jan. 19, 1929, ch. 82, §6, 45 Stat. 1086; 1939 Reorg. Plan No. I, §§201, 205, eff. July 1, 1939, 4 F.R. 2728, 53 Stat. 1424, 1425, provided for care and treatment of addicts. See section 257 of Title 42.
 

@@ -2,7 +2,7 @@
 
 #### (a) Overall negotiating objective
 
-The President shall seek in the renegotiations provided for in article XXIV(7),<sup>1</sup> of the Agreement more open and equitable market access abroad, and the harmonization, reduction, or elimination of devices which distort trade or commerce related to Government procurement, with the overall goal of maximizing the economic benefit to the United States through maintaining and enlarging foreign markets for products of United States agriculture, industry, mining, and commerce, the development of fair and equitable market opportunities, and open and nondiscriminatory world trade. In carrying out the provisions of this subsection, the President shall consider the assessment made in the report required under section 2516(a) <sup>2</sup> of this title.
+The President shall seek in the renegotiations provided for in article XXIV(7) of the Agreement more open and equitable market access abroad, and the harmonization, reduction, or elimination of devices which distort trade or commerce related to Government procurement, with the overall goal of maximizing the economic benefit to the United States through maintaining and enlarging foreign markets for products of United States agriculture, industry, mining, and commerce, the development of fair and equitable market opportunities, and open and nondiscriminatory world trade. In carrying out the provisions of this subsection, the President shall consider the assessment made in the report required under section 2516(a) <sup>1</sup> of this title.
 
 #### (b) Sector negotiating objectives
 
@@ -10,13 +10,13 @@ The President shall seek, consistent with the overall objective set forth in sub
 
 #### (c) Independent verification objective
 
-The President shall seek to establish in the renegotiation provided for in article XXIV(7),<sup>1</sup> of the Agreement a system for independent verification of information provided by parties to the Agreement to the Committee on Government Procurement pursuant to article XIX(5),<sup>1</sup> of the Agreement.
+The President shall seek to establish in the renegotiation provided for in article XXIV(7) of the Agreement a system for independent verification of information provided by parties to the Agreement to the Committee on Government Procurement pursuant to article XIX(5) of the Agreement.
 
 #### (d) Reports on negotiations
 
 #### (1) Report in the event of inadequate progress
 
-&emsp;If, during the renegotiations of the Agreement, the President at any time determines that the renegotiations are not progressing satisfactorily and are not likely to result, within twelve months of the commencement thereof, in an expansion of the Agreement to cover purchases by the entities of the governments of developed countries which are theprincipal purchasers of goods and equipment in appropriate product sectors, he shall so report to the congressional committees referred to in section 2512(c)(1) of this title. Taking into account the objectives set forth in subsections (a) and (b) of this section and the factors required to be analyzed under section 2512(c) of this title, the President shall further report to such committees appropriate actions to seek reciprocity in such product sectors with such countries in the area of government procurement.
+&emsp;If, during the renegotiations of the Agreement, the President at any time determines that the renegotiations are not progressing satisfactorily and are not likely to result, within twelve months of the commencement thereof, in an expansion of the Agreement to cover purchases by the entities of the governments of developed countries which are the principal purchasers of goods and equipment in appropriate product sectors, he shall so report to the congressional committees referred to in section 2512(c)(1) of this title. Taking into account the objectives set forth in subsections (a) and (b) of this section and the factors required to be analyzed under section 2512(c) of this title, the President shall further report to such committees appropriate actionsto seek reciprocity in such product sectors with such countries in the area of government procurement.
 
 #### (2) Legislative recommendations
 
@@ -30,7 +30,7 @@ The President shall seek to establish in the renegotiation provided for in artic
 
 Before exercising the waiver authority in section 2511 of this title for procurement not covered by the Agreement on the date it enters into force with respect to the United States, the President shall follow the consultation provisions of section 135 \[19 U.S.C. 2155\] and chapter 6 of title I of the Trade Act of 1974 \[19 U.S.C. 2211 et seq.\] for private sector and congressional consultations.
 
-(Pub. L. 96–39, title III, §304, July 26, 1979, 93 Stat. 238; Pub. L. 103–465, title III, §342(b), Dec. 8, 1994, 108 Stat. 4953.)
+(Pub. L. 96–39, title III, §304, July 26, 1979, 93 Stat. 238; Pub. L. 103–465, title III, §342(b), Dec. 8, 1994, 108 Stat. 4953; Pub. L. 104–295, §20(c)(11), Oct. 11, 1996, 110 Stat. 3528.)
 
 #### References in Text
 
@@ -39,6 +39,10 @@ Section 2516 of this title, referred to in subsec. (a), was repealed by Pub. L. 
 The Trade Act of 1974, referred to in subsec. (e), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, as amended. Chapter 6 of title I of the Trade Act of 1974 is classified generally to part 6 of subchapter I (§2211 et seq.) of chapter 12 of this title. For complete classification of this Act to the Code, see References in Text note set out under section 2101 of this title and Tables.
 
 #### Amendments
+
+1996—Subsec. (a). Pub. L. 104–295, §20(c)(11)(A), struck out comma after “XXIV(7)”.
+
+Subsec. (c). Pub. L. 104–295, §20(c)(11)(B), struck out comma after “XXIV(7)” and “XIX(5)”.
 
 1994—Subsec. (a). Pub. L. 103–465, §342(b)(1), substituted “article XXIV(7)” for “part IX, paragraph 6”.
 
@@ -62,7 +66,5 @@ The Agreement on Government Procurement, as referred to in section 3511(d)(17) o
 
 This section is referred to in section 2512 of this title.
 
-<i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
-
-<i><sup>2</sup></i><i> See References in Text note below.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

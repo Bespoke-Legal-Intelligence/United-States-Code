@@ -50,5 +50,5 @@ Section 1 of Pub. L. 98–129 provided: “That this Act \[amending this chapter
 
 #### Short Title
 
-Pub. L. 89–702, which is classified principally to this chapter, is popularly known as the “Fur Seal Act of 1966”. Prior to the general amendment of Pub. L. 89–702 by Pub. L. 98–129, section 1 of Pub. L. 89–702 had provided: “That this Act \[enacting this chapter, amending section 2254(g) of former Title 5, Executive Departments and Government Officers and Employees, repealing sections 631a to 631q of this title, and amending provisions set out as a note preceding section 21 of Title 48, Territories and Insular Possessions\] may be cited as the ‘Fur Seal Act of 1966’.”
+Pub. L. 89–702, which is classified principally to this chapter, is popularly known as the “Fur Seal Act of1966”. Prior to the general amendment of Pub. L. 89–702 by Pub. L. 98–129, section 1 of Pub. L. 89–702 had provided: “That this Act \[enacting this chapter, amending section 2254(g) of former Title 5, Executive Departments and Government Officers and Employees, repealing sections 631a to 631q of this title, and amending provisions set out as a note preceding section 21 of Title 48, Territories and Insular Possessions\] may be cited as the ‘Fur Seal Act of 1966’.”
 

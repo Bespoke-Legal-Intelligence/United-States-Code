@@ -28,7 +28,7 @@
 
 &emsp;(5) the Deputy Secretary of Defense and Under Secretaries of Defense, the Secretary of the Air Force, the Secretary of the Army, the Secretary of the Navy, the members and Vice Chairman of the Joint Chiefs of Staff, and the Commandant of the Coast Guard;
 
-&emsp;(6) the Director of the Central Intelligence Agency and the Director of the Federal Bureau of Investigation;
+&emsp;(6) the Director of the Central Intelligence Agency, the Director of the Federal Bureau of Investigation, and the Administrator of the Drug Enforcement Administration;
 
 &emsp;(7) the Chairman of the Board of Governors of the Federal Reserve System;
 
@@ -42,7 +42,7 @@
 
 (d)(1) Any determination made under subsection (b)(9) of this section shall be in writing and shall include the name and title of the officer or employee affected, the reason for such determination, and the duration of the authorization for such officer or employee to use a passenger carrier for transportation between residence and place of employment.
 
-(2) If a clear and present danger, an emergency, or a compelling operational consideration described in subsection (b)(9) of this section extends or may extend for a period in excess of 15 calendar days, the head of the Federal agency shall determine whether an authorization under such paragraph shall be extended in excess of 15 calendar days for a period of not more than 90 additional calendar days. Determinations made under this paragraph may be reviewed by the head of such agency at the end ofeach such period, and, where appropriate, a subsequent determination may be made whether such danger, emergency, or consideration continues to exist and whether an additional extension, not to exceed 90 calendar days, may be authorized. Determinations made under this paragraph shall be in accordance with regulations prescribed pursuant to paragraph (1) of subsection (e).
+(2) If a clear and present danger, an emergency, or a compelling operational consideration described in subsection (b)(9) of this section extends or may extend for a period in excess of 15 calendar days, the head of the Federal agency shall determine whether an authorization under such paragraph shall be extended in excess of 15 calendar days for a period of not more than 90 additional calendar days. Determinations made under this paragraph may be reviewed by the head of such agency at the end of each such period, and, where appropriate, a subsequent determination may be made whether such danger, emergency, or consideration continues to exist and whether an additional extension, not to exceed 90 calendar days, may be authorized. Determinations made under this paragraph shall be in accordance with regulations prescribed pursuant to paragraph (1) of subsection (e).
 
 (3) The authority to make designations under subsection (b)(1) of this section and to make determinations pursuant to subsections (a)(2) and (b)(3)(B) and (9) of this section and pursuant to paragraph (2) of this subsection may not be delegated, except that, with respect to the Executive Office of the President, the President may delegate the authority of the President under subsection (b)(9) of this section to an officer in the Executive Office of the President. No designation or determination under this section may be made solely or principally for the comfort or convenience of the officer or employee.
 
@@ -84,7 +84,7 @@
 
 (h) Notwithstanding section 410(a) of title 39, this section applies to the United States Postal Service.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 924; Pub. L. 99–550, §1(a), Oct. 27, 1986, 100 Stat. 3067; Pub. L. 100–180, div. A, title XIII, §1314(d)(2), Dec. 4, 1987, 101 Stat. 1176; Pub. L. 100–202, §101(a) \[title IV, §407\], Dec. 22, 1987, 101 Stat. 1329, 1329–26; Pub. L. 101–510, div. A, title III, §326(b), Nov. 5, 1990, 104 Stat. 1531; Pub. L. 103–272, §4(f)(2), July 5, 1994, 108 Stat. 1363.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 924; Pub. L. 99–550, §1(a), Oct. 27, 1986, 100 Stat. 3067; Pub. L. 100–180, div. A, title XIII, §1314(d)(2), Dec. 4, 1987, 101 Stat. 1176; Pub. L. 100–202, §101(a) \[title IV, §407\], Dec. 22, 1987, 101 Stat. 1329, 1329–26; Pub. L. 101–510, div. A, title III, §326(b), Nov. 5, 1990, 104 Stat. 1531; Pub. L. 103–272, §4(f)(2), July 5, 1994, 108 Stat. 1363; Pub. L. 104–91, title I, §101(a), Jan. 6, 1996, 110 Stat. 11, amended Pub. L. 104–99, title II, §211, Jan. 26, 1996, 110 Stat. 37.)
 
 Historical and Revision Notes
 
@@ -120,7 +120,13 @@ Subsection (b)(2)(B) of this section, referred to in subsec. (d)(3), (4), was re
 
 Section 3502 of title 44, referred to in subsec. (g)(2)(H), which in par. (10) defined “independent regulatory agency”, was omitted in the general amendment of chapter 35 of Title 44, Public Printing and Documents, by Pub. L. 104–13, §2, May 22, 1995, 109 Stat. 163. Pub. L. 104–13 enacted a new section 3502 of Title 44 which also defines “independent regulatory agency”.
 
+#### Codification
+
+Amendment by Pub. L. 104–91 is based on section 118 of H.R. 2076, One Hundred Fourth Congress, as passed by the House of Representatives on Dec. 6, 1995, which was enacted into law by Pub. L. 104–91.
+
 #### Amendments
+
+1996—Subsec. (b)(6). Pub. L. 104–91, as amended by Pub. L. 104–99, amended par. (6) generally. Prior to amendment, par. (6) read as follows: “the Director of the Central Intelligence Agency and the Director of the Federal Bureau of Investigation;”.
 
 1994—Subsecs. (b), (d), (e). Pub. L. 103–272 amended Pub. L. 100–202. See 1987 Amendment notes below.
 
@@ -132,7 +138,7 @@ Subsec. (b)(4). Pub. L. 100–180 inserted “the members and Vice Chairman of�
 
 Subsec. (d)(1), (2). Pub. L. 100–202, §101(a) \[title IV, §407(2)(A)\], as amended by Pub. L. 103–272, substituted “subsection (b)(9) of this section” for “paragraph (8) of subsection (b)”.
 
-Subsec. (d)(3). Pub. L. 100–202, §101(a) \[title IV, §407(2)(B)\], as amended by Pub. L. 103–272, substituted “subsections (a)(2) and (b)(3)(B) and (9)” for “subsections (a)(2), (b)(2)(B), and (b)(8)” and “subsection (b)(9)” for “subsection (b)(8)”.
+Subsec. (d)(3). Pub. L. 100–202, §101(a) \[title IV, §407(2)(B)\], as amended by Pub. L. 103–272, substituted“subsections (a)(2) and (b)(3)(B) and (9)” for “subsections (a)(2), (b)(2)(B), and (b)(8)” and “subsection (b)(9)” for “subsection (b)(8)”.
 
 Subsec. (d)(4). Pub. L. 100–202, §101(a) \[title IV, §407(2)(C)\], as amended by Pub. L. 103–272, substituted “subsection (b)(1), (3)(B), and (9) of this section” and “subsection (b)(9), and the expected duration of any authorization under subsection (b)(9)” for “paragraphs (1), (2)(B), and (8) of subsection (b)” and “paragraph (8) of subsection (b), and the expected duration of any authorization under such paragraph”, respectively.
 
@@ -168,11 +174,11 @@ Pub. L. 101–194, title V, §503, Nov. 30, 1989, 103 Stat. 1755, as amended by 
 
 #### Use of Official Vehicles of House of Representatives
 
-Pub. L. 101–194, title VIII, §802(d), Nov. 30, 1989, 103 Stat. 1773, provided that: “The Committee on House Administration \[now Committee on House Oversight\] of the House of Representatives shall take such action as may be necessary to carry out section 503 \[set out above\] with respect to vehicles of the House of Representatives.”
+Pub. L. 101–194, title VIII, §802(d), Nov. 30, 1989, 103 Stat. 1773, as amended by Pub. L. 104–186, title II, §219(a), Aug. 20, 1996, 110 Stat. 1747, provided that: “The Committee on House Oversight of the House of Representatives shall take such action as may be necessary to carry out section 503 \[set out above\] with respect to vehicles of the House of Representatives.”
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1349 of this title; title 5 section 3374; title 22 section 3622; title 40 section 491.
+This section is referred to in section 1349 of this title; title 5 section 3374; title 15 section 278e; title 22 section 3622; title 40 section 491.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

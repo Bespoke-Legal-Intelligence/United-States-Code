@@ -12,7 +12,7 @@ Upon receipt of notice and demand from the Secretary, there shall be paid at the
 
 &emsp;&emsp;<b>(3) For provisions relating to jeopardy assessments, see subchapter A of chapter 70.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 760; Oct. 4, 1976, Pub. L. 94–455, title XIX, §1906(b)(13)(A), 90 Stat. 1834; Dec. 24, 1980, Pub. L. 96–589, §6(i)(7), 94 Stat. 3410.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 760; Oct. 4, 1976, Pub. L. 94–455, title XIX, §1906(b)(13)(A), 90 Stat.1834; Dec. 24, 1980, Pub. L. 96–589, §6(i)(7), 94 Stat. 3410.)
 
 #### Amendments
 

@@ -2,7 +2,7 @@
 
 #### (a) Supersedure; effective date
 
-Except as provided in subsection (b) of this section, the provisions of this subchapter andsubchapter III of this chapter shall supersede any and all State laws insofar as they may now or hereafter relate to any employee benefit plan described in section 1003(a) of this title and not exempt under section 1003(b) of this title. This section shall take effect on January 1, 1975.
+Except as provided in subsection (b) of this section, the provisions of this subchapter and subchapter III of this chapter shall supersede any and all State laws insofar as they may now or hereafter relate to any employee benefit plan described in section 1003(a) of this title and not exempt under section 1003(b) of this title. This section shall take effect on January 1, 1975.
 
 #### (b) Construction and application
 
@@ -48,7 +48,9 @@ Except as provided in subsection (b) of this section, the provisions of this sub
 
 &emsp;(A) with respect to which the State exercises its acquired rights under section 1169(b)(3) of this title with respect to a group health plan (as defined in section 1167(1) of this title), or
 
-&emsp;(B) for recoupment of payment with respect to items or services pursuant to a State plan for medical assistance approved under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] which would not have been payable if such acquired rights had been executed beforepayment with respect to such items or services by the group health plan.
+&emsp;(B) for recoupment of payment with respect to items or services pursuant to a State plan for medical assistance approved under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] which would not have been payable if such acquired rights had been executed before payment with respect to such items or services by the group health plan.
+
+(9) For additional provisions relating to group health plans, see section 1191 of this title.
 
 #### (c) Definitions
 
@@ -62,7 +64,7 @@ For purposes of this section:
 
 Nothing in this subchapter shall be construed to alter, amend, modify, invalidate, impair, or supersede any law of the United States (except as provided in sections 1031 and 1137(c) of this title) or any rule or regulation issued under any such law.
 
-(Pub. L. 93–406, title I, §514, Sept. 2, 1974, 88 Stat. 897; Pub. L. 97–473, title III, §§301(a), 302(b), Jan. 14, 1983, 96 Stat. 2611, 2613; Pub. L. 98–397, title I, §104(b), Aug. 23, 1984, 98 Stat. 1436; Pub. L. 99–272, title IX, §9503(d)(1), Apr. 7, 1986, 100 Stat. 207; Pub. L. 101–239, title VII, §7894(f)(2)(A), (3)(A), Dec. 19, 1989, 103 Stat. 2450, 2451; Pub. L. 103–66, title IV, §4301(c)(4), Aug. 10, 1993, 107 Stat. 377.)
+(Pub. L. 93–406, title I, §514, Sept. 2, 1974, 88 Stat. 897; Pub. L. 97–473, title III, §§301(a), 302(b), Jan. 14, 1983, 96 Stat. 2611, 2613; Pub. L. 98–397, title I, §104(b), Aug. 23, 1984, 98 Stat. 1436; Pub. L. 99–272, title IX, §9503(d)(1), Apr. 7, 1986, 100 Stat. 207; Pub. L. 101–239, title VII, §7894(f)(2)(A), (3)(A), Dec. 19, 1989, 103 Stat. 2450, 2451; Pub. L. 103–66, title IV, §4301(c)(4), Aug. 10, 1993, 107 Stat. 377; Pub. L. 104–191, title I, §101(f)(1), Aug. 21, 1996, 110 Stat. 1953; Pub. L. 104–204, title VI, §603(b)(3)(G), Sept. 26, 1996, 110 Stat. 2938.)
 
 #### References in Text
 
@@ -70,13 +72,17 @@ The Social Security Act, referred to in subsec. (b)(8)(B), is act Aug. 14, 1935,
 
 #### Amendments
 
+1996—Subsec. (b)(9). Pub. L. 104–204 made technical amendment to reference in original act which appears in text as reference to section 1191 of this title.
+
+Pub. L. 104–191 added par. (9).
+
 1993—Subsec. (b)(7). Pub. L. 103–66, §4301(c)(4)(A), which directed the insertion in par. (7)(D) of “, qualified medical child support orders (within the meaning of section 1169(a)(2)(A) of this title), and the provisions of law referred to in section 1169(a)(2)(B)(ii) of this title to the extent enforced by qualified medical child support orders” before the period, was executed by making the insertion before the period at end of par. (7), to reflect the probable intent of Congress.
 
 Subsec. (b)(8). Pub. L. 103–66, §4301(c)(4)(B), added par. (8) and struck out former par. (8) which read as follows: “Subsection (a) of this section shall not apply to any State law mandating that an employee benefit plan not include any provision which has the effect of limiting or excluding coverage or payment for any health care for an individual who would otherwise be covered or entitled to benefits or services under the terms of the employee benefit plan, because that individual is provided, or is eligible for, benefits or services pursuant to a plan under title XIX of the Social Security Act, to the extent such law is necessary for the State to be eligible to receive reimbursement under title XIX of that Act.”
 
 1989—Subsec. (b)(5)(C). Pub. L. 101–239, §7894(f)(2)(A), substituted “by such parts 1 and 4 and the preceding sections of this part” for “by such parts”.
 
-Subsec. (b)(6)(B). Pub. L. 101–239, §7894(f)(3)(A), substituted “section 1002(1)” for “section 1002(<i>l)”.</i>
+Subsec. (b)(6)(B). Pub. L. 101–239, §7894(f)(3)(A), substituted “section 1002(1)” for “section 1002(<i>l</i>)”.
 
 1986—Subsec. (b)(8). Pub. L. 99–272 added par. (8).
 
@@ -85,6 +91,12 @@ Subsec. (b)(6)(B). Pub. L. 101–239, §7894(f)(3)(A), substituted “section 10
 1983—Subsec. (b)(5). Pub. L. 97–473, §301(a), added par. (5).
 
 Subsec. (b)(6). Pub. L. 97–473, §302(b), added par. (6).
+
+#### Effective Date of 1996 Amendments
+
+Amendment by Pub. L. 104–204 applicable with respect to group health plans for plan years beginning on or after Jan. 1, 1998, see section 603(c) of Pub. L. 104–204 set out as a note under section 1003 of this title.
+
+Amendment by Pub. L. 104–191 applicable with respect to group health plans for plan years beginning after June 30, 1997, except as otherwise provided, see section 101(g) of Pub. L. 104–191, set out as a note under section 1181 of this title.
 
 #### Effective Date of 1989 Amendment
 
@@ -132,5 +144,5 @@ Section 301(b) of Pub. L. 97–473 provided that: “The amendment made by this 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1114 of this title; title 4 section 114.
+This section is referred to in sections 1114, 1191, 1191b of this title; title 4 section 114; title 26 section 9805; title 42 sections 300gg–23, 300gg–62, 300gg–91.
 

@@ -10,53 +10,61 @@ The President may provide duty-free treatment for any eligible article from any 
 
 &emsp;(4) the extent of the beneficiary developing country's competitiveness with respect to eligible articles.
 
-(Pub. L. 93–618, title V, §501, Jan. 3, 1975, 88 Stat. 2066; Pub. L. 98–573, title V, §502, Oct. 30, 1984, 98 Stat. 3018.)
+(Pub. L. 93–618, title V, §501, as added Pub. L. 104–188, title I, §1952(a), Aug. 20, 1996, 110 Stat. 1917.)
 
-#### Amendments
+#### Prior Provisions
 
-1984—Par. (1). Pub. L. 98–573, §502(1), inserted “through the expansion of their exports”.
+A prior section 2461, Pub. L. 93–618, title V, §501, Jan. 3, 1975, 88 Stat. 2066; Pub. L. 98–573, title V, §502, Oct. 30, 1984, 98 Stat. 3018, related to authority to extend preferences, prior to the general amendment of this subchapter by Pub. L. 104–188.
 
-Par. (4). Pub. L. 98–573, §502(2)–(4), added par. (4).
+#### Effective Date
 
-#### Effective Date of 1984 Amendment
+Section 1953 of Pub. L. 104–188 provided that:
 
-Section 508 of title V of Pub. L. 98–573 provided that: “The amendments made by this title \[enacting section 2466 of this title, amending this section and sections 2462 to 2465 of this title, and enacting provisions set out as notes under this section and section 2101 of this title\] shall take effect on January 4, 1985.”
+“(a)
 
-#### Statement of Purpose of 1984 Amendment
+In General.—The amendments made by this subtitle \[subtitle J (§§1951–1954) of title I of Pub. L. 104–188, enacting this subchapter, amending sections 2702, 3011, 3202, 3331, and 3551 of this title, section 1444–2 of Title 7, Agriculture, section 4711 of Title 15, Commerce and Trade, sections 262p–4p and 2191a of Title 22, Foreign Relations and Intercourse, and section 871 of Title 26, Internal Revenue Code, and enacting provisions set out as a note under section 2101 of this title\] apply to articles entered on or after October 1, 1996.
 
-Section 501(b) of title V of Pub. L. 98–573 provided that: “The purpose of this title \[enacting section 2466 of this title, amending this section and sections 2462 to 2465 of this title, and enacting provisions set out as notes under this section and section 2101 of this title\] is to—
+“(b)
 
-&emsp;“(1) promote the development of developing countries, which often need temporary preferential advantages to compete effectively with industrialized countries;
+Retroactive Application.—
 
-&emsp;“(2) promote the notion that trade, rather than aid, is a more effective and cost-efficient way of promoting broad-based sustained economic development;
+&emsp;“(1)
 
-&emsp;“(3) take advantage of the fact that developing countries provide the fastest growing markets for United States exports and that foreign exchange earnings from trade with such countries through the Generalized System of Preferences can further stimulate United States exports;
+General rule.—Notwithstanding section 514 of the Tariff Act of 1930 \[19 U.S.C. 1514\] or any other provision of law and subject to subsection (c)—
 
-&emsp;“(4) allow for the consideration of the fact that there are significant differences among developing countries with respect to their general development and international competitiveness;
+&emsp;&emsp;“(A) any article that was entered—
 
-&emsp;“(5) encourage the providing of increased trade liberalization measures, thereby setting an example to be emulated by other industrialized countries;
+&emsp;&emsp;&emsp;“(i) after July 31, 1995, and
 
-&emsp;“(6) recognize that a large number of developing countries must generate sufficient foreign exchange earnings to meet international debt obligations;
+&emsp;&emsp;&emsp;“(ii) before January 1, 1996, and
 
-&emsp;“(7) promote the creation of additional opportunities for trade among the developing countries;
+&nbsp;&nbsp;to which duty-free treatment under title V of the Trade Act of 1974 \[this subchapter\] would have applied if the entry had been made on July 31, 1995, shall be liquidated or reliquidated as free of duty, and the Secretary of the Treasury shall refund any duty paid with respect to such entry, and
 
-&emsp;“(8) integrate developing countries into the international trading system with its attendant responsibilities in a manner commensurate with their development;
+&emsp;&emsp;“(B) any article that was entered—
 
-&emsp;“(9) encourage developing countries—
+&emsp;&emsp;&emsp;“(i) after December 31, 1995, and
 
-&emsp;&emsp;“(A) to eliminate or reduce significant barriers to trade in goods and services and to investment,
+&emsp;&emsp;&emsp;“(ii) before October 1, 1996, and
 
-&emsp;&emsp;“(B) to provide effective means under which foreign nationals may secure, exercise, and enforce exclusive intellectual property rights, and
+&nbsp;&nbsp;to which duty-free treatment under title V of the Trade Act of 1974 \[this subchapter\] (as amended by this subtitle) would have applied if the entry had been made on or after October 1, 1996, shall be liquidated or reliquidated as free of duty, and the Secretary of the Treasury shall refund any duty paid with respect to such entry.
 
-&emsp;&emsp;“(C) to afford workers internationally recognized worker rights; and
+&emsp;“(2)
 
-&emsp;“(10) address the concerns listed in the preceding paragraphs in a manner that—
+Limitation on refunds.—No refund shall be made pursuant to this subsection before October 1, 1996.
 
-&emsp;&emsp;“(A) does not adversely affect United States producers and workers, and
+&emsp;“(3)
 
-&emsp;&emsp;“(B) conforms to the international obligations of the United States under the General Agreement on Tariffs and Trade.”
+Entry.—As used in this subsection, the term ‘entry’ includes a withdrawal from warehouse for consumption.
+
+“(c)
+
+Requests.—Liquidation or reliquidation may be made under subsection (b) with respect to an entry only if a request therefor is filed with the Customs Service, within 180 days after the date of the enactment of this Act \[Aug. 20, 1996\], that contains sufficient information to enable the Customs Service—
+
+&emsp;“(1) to locate the entry; or
+
+&emsp;“(2) to reconstruct the entry if it cannot be located.”
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2463, 2464 of this title.
+This section is referred to in sections 2462, 2463 of this title.
 

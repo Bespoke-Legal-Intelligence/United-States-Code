@@ -16,4 +16,5 @@
 - [&sect; 00610 - Telephone service for disabled](%C2%A7%2000610%20-%20Telephone%20service%20for%20disabled.md)
 - [&sect; 00611 - Closed-captioning of public service announcements](%C2%A7%2000611%20-%20Closed-captioning%20of%20public%20service%20announcements.md)
 - [&sect; 00612 - Syndicated exclusivity](%C2%A7%2000612%20-%20Syndicated%20exclusivity.md)
-- [&sect; 00613 - Repealed. Pub. L. 103&#8211;414, title III, &sect;304(a)(18), Oct. 25, 1994, 108 Stat. 4297](%C2%A7%2000613%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93414%2C%20title%20III%2C%20%C2%A7304%28a%29%2818%29%2C%20Oct.%2025%2C%201994%2C%20108%20Stat.%204297.md)
+- [&sect; 00613 - Video programming accessibility](%C2%A7%2000613%20-%20Video%20programming%20accessibility.md)
+- [&sect; 00614 - Telecommunications Development Fund](%C2%A7%2000614%20-%20Telecommunications%20Development%20Fund.md)

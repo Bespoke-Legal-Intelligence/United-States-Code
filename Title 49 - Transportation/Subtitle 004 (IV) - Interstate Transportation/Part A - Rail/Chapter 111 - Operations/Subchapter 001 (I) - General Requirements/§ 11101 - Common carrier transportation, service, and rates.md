@@ -18,17 +18,17 @@
 
 (e) A rail carrier shall provide transportation or service in accordance with the rates and service terms, and any changes thereto, as published or otherwise made available under subsection (b), (c), or (d).
 
-(f) The Board shall, by regulation, establish rules to implement this section. The regulations shall provide for immediate disclosure and dissemination of rates and service terms, including classifications, rules, and practices, and their effective dates. Final regulations shall be adopted by the Board not later than 180 days after the effective date of the ICC Termination Act of 1995.
+(f) The Board shall, by regulation, establish rules to implement this section. The regulations shall provide for immediate disclosure and dissemination of rates and service terms, including classifications, rules, and practices, and their effective dates. Final regulations shall be adopted by the Board not later than 180 days after January 1, 1996.
 
-(Added Pub. L. 104–88, title I, §102(a), Dec. 29, 1995, 109 Stat. 830.)
-
-#### References in Text
-
-For the effective date of the ICC Termination Act of 1995, referred to in subsec. (f), as Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 701 of this title.
+(Added Pub. L. 104–88, title I, §102(a), Dec. 29, 1995, 109 Stat. 830; amended Pub. L. 104–287, §5(25), Oct. 11, 1996, 110 Stat. 3390.)
 
 #### Prior Provisions
 
-A prior section 11101, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1419; Pub. L. 96–258, §1(10), June 3, 1980, 94 Stat. 426; Pub. L. 96–448, title II, §222, Oct. 14, 1980, 94 Stat. 1929; Pub. L. 99–521, §9(a), Oct. 22, 1986, 100 Stat. 2997; Pub. L. 103–180, §8, Dec. 3, 1993, 107 Stat. 2052, related to duties of carriers to provide transportation and service, prior to the general amendment of this subtitle by Pub.L. 104–88, §102(a). See sections 11101, 13710, 14101, and 15701 of this title.
+A prior section 11101, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1419; Pub. L. 96–258, §1(10), June 3, 1980, 94 Stat. 426; Pub. L. 96–448, title II, §222, Oct. 14, 1980, 94 Stat. 1929; Pub. L. 99–521, §9(a), Oct. 22, 1986, 100 Stat. 2997; Pub. L. 103–180, §8, Dec. 3, 1993, 107 Stat. 2052, related to duties of carriers to provide transportation and service, prior to the general amendment of this subtitle by Pub. L. 104–88, §102(a). See sections 11101, 13710, 14101, and 15701 of this title.
+
+#### Amendments
+
+1996—Subsec. (f). Pub. L. 104–287 substituted “January 1, 1996” for “the effective date of the ICC Termination Act of 1995”.
 
 #### Effective Date
 

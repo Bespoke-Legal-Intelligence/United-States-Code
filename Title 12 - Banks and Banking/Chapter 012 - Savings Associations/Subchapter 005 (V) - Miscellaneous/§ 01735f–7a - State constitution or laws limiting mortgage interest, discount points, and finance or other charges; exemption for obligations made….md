@@ -2,7 +2,7 @@
 
 #### (a) Applicability to loan, mortgage, credit sale, or advance; applicability to deposit, account, or obligation
 
-(1) The provisions of the constitution or the laws of any State expressly limiting the rate or amount of interest, discount points, financecharges, or other charges which may be charged, taken, received, or reserved shall not apply to any loan, mortgage, credit sale, or advance which is—
+(1) The provisions of the constitution or the laws of any State expressly limiting the rate or amount of interest, discount points, finance charges, or other charges which may be charged, taken, received, or reserved shall not apply to any loan, mortgage, credit sale, or advance which is—
 
 &emsp;(A) secured by a first lien on residential real property, by a first lien on all stock allocated to a dwelling unit in a residential cooperative housing corporation, or by a first lien on a residential manufactured home;
 
@@ -60,7 +60,7 @@ The provisions of subsection (a)(1) of this section shall not apply to a loan, m
 
 &emsp;(3) require that upon prepayment in full, the debtor shall be entitled to a refund of the unearned portion of the precomputed finance charge in an amount not less than the amount which would be calculated by the actuarial method, except that the debtor shall not be entitled to a refund which is less than $1; and
 
-&emsp;(4) include such other provisions as the Federal Home Loan Bank Board may prescribe after a finding that additional protections are required.
+&emsp;(4) include such other provisions as the Federal Home Loan Bank Board may prescribeafter a finding that additional protections are required.
 
 #### (d) Implementation of provisions applicable to residential manufactured home
 
@@ -128,7 +128,7 @@ Federal Home Loan Bank Board abolished and functions transferred, see sections 4
 
 #### Choice of Highest Applicable Interest Rate
 
-Pub. L. 96–221, title V, §528, Mar. 31, 1980, 94 Stat. 168, provided that: “In any case in which one or more provisions of, or amendments made by, this title \[enacting sections 86a, 1730g, 1735f–7a, and 1831d of this title, amending section 1785 of this title and section 687 of Title 15, Commerce and Trade, and enacting provisions set out as notes under sections 86a, 1730g, and 1735f–7 of this title\], section 529 of the National Housing Act \[section 1735f–7 of this title\], or any other provision of law, including section 5197 of the Revised Statutes (12 U.S.C. 85), apply with respect to the same loan, mortgage, credit sale, or advance, such loan, mortgage, credit sale, or advance may be made at the highest applicable rate.”
+Pub. L. 96–221, title V, §528, Mar. 31, 1980, 94 Stat. 168, provided that: “In any case in which one or more provisions of, or amendments made by, this title \[enacting sections 86a, 1730g, 1735f–7a, and 1831d of this title, amending section 1785 of this title and section 687 of Title 15, Commerce and Trade, and enacting provisions set out as notes under sections 86a, 1730g, and 1735f–7 of this title\], section 529 of the National Housing Act \[section 1735f–7 of this title\], or any other provision of law, including section 5197 of the Revised Statutes (12 U.S.C. 85), apply with respect to the same loan, mortgage, credit sale, or advance, such loan, mortgage, creditsale, or advance may be made at the highest applicable rate.”
 
 #### Definition of “State”
 

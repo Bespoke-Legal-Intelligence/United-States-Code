@@ -10,19 +10,47 @@ Each Federal agency may permit the director of any of its Government-operated Fe
 
 #### (b) Enumerated authority
 
-Under agreements entered into pursuant to subsection (a)(1) of this section, a Government-operated Federal laboratory, and, to the extent provided in an agency-approved joint work statement, a Government-owned, contractor-operated laboratory, may (subject to subsection (c) of this section)—
+(1) Under an agreement entered into pursuant to subsection (a)(1) of this section, the laboratory may grant, or agree to grant in advance, to a collaborating party patent licenses or assignments, or options thereto, in any invention made in whole or in part by a laboratory employee under the agreement, for reasonable compensation when appropriate. The laboratory shall ensure, through such agreement, that the collaborating party has the option to choose an exclusive license for a pre-negotiated field of use for any such invention under the agreement or, if there is more than one collaborating party, that the collaborating parties are offered the option to hold licensing rights that collectively encompass the rights that would be held under such an exclusive license by one party. In consideration for the Government's contribution under the agreement, grants under this paragraph shall be subject to the following explicit conditions:
 
-&emsp;(1) accept, retain, and use funds, personnel, services, and property from collaborating parties and provide personnel, services, and property to collaborating parties;
+&emsp;(A) A nonexclusive, nontransferable, irrevocable, paid-up license from the collaborating party to the laboratory to practice the invention or have the invention practiced throughout the world by or on behalf of the Government. In the exercise of such license, the Government shall not publicly disclose trade secrets or commercial or financial information that is privileged or confidential within the meaning of section 552(b)(4) of title 5 or which would be considered as such if it had been obtained from a non-Federal party.
 
-&emsp;(2) grant or agree to grant in advance, to a collaborating party, patent licenses or assignments, or options thereto, in any invention made in whole or in part by a laboratory employee under the agreement, retaining a nonexclusive, nontransferrable, irrevocable, paid-up license to practice the invention or have the invention practiced throughout the world by or on behalf of the Government and such other rights as the Federal laboratory deems appropriate;
+&emsp;(B) If a laboratory assigns title or grants an exclusive license to such an invention, the Government shall retain the right—
 
-&emsp;(3) waive, subject to reservation by the Government of a nonexclusive, irrevocable, paid-up license to practice the invention or have the invention practiced throughout the world by or on behalf of the Government, in advance, in whole or in part, any right of ownershipwhich the Federal Government may have to any subject invention made under the agreement by a collaborating party or employee of a collaborating party;
+&emsp;&emsp;(i) to require the collaborating party to grant to a responsible applicant a nonexclusive, partially exclusive, or exclusive license to use the invention in the applicant's licensed field of use, on terms that are reasonable under the circumstances; or
 
-&emsp;(4) determine rights in other intellectual property developed under an agreement entered into under subsection (a)(1) of this section; and
+&emsp;&emsp;(ii) if the collaborating party fails to grant such a license, to grant the license itself.
 
-&emsp;(5) to the extent consistent with any applicable agency requirements and standards of conduct, permit employees or former employees of the laboratory to participate in efforts to commercialize inventions they made while in the service of the United States.
+&emsp;(C) The Government may exercise its right retained under subparagraph (B) only in exceptional circumstances and only if the Government determines that—
 
-> A Government-owned, contractor-operated laboratory that enters into a cooperative research and development agreement under subsection (a)(1) of this section may use or obligate royalties or other income accruing to such laboratory under such agreement with respect to any invention only (i) for payments to inventors; (ii) for the purposes described in section 3710c(a)(1)(B)(i), (ii), and (iv) of this title; and (iii) for scientific research and development consistent with the research and development mission and objectives of the laboratory.
+&emsp;&emsp;(i) the action is necessary to meet health or safety needs that are not reasonably satisfied by the collaborating party;
+
+&emsp;&emsp;(ii) the action is necessary to meet requirements for public use specified by Federal regulations, and such requirements are not reasonably satisfied by the collaborating party; or
+
+&emsp;&emsp;(iii) the collaborating party has failed to comply with an agreement containing provisions described in subsection (c)(4)(B) of this section.
+
+> &emsp;This determination is subject to administrative appeal and judicial review under section 203(2) of title 35.
+
+(2) Under agreements entered into pursuant to subsection (a)(1) of this section, the laboratory shall ensure that a collaborating party may retain title to any invention made solely by its employee in exchange for normally granting the Government a nonexclusive, nontransferable, irrevocable, paid-up license to practice the invention or have the invention practiced throughout the world by or on behalf of the Government for research or other Government purposes.
+
+(3) Under an agreement entered into pursuant to subsection (a)(1) of this section, a laboratory may—
+
+&emsp;(A) accept, retain, and use funds, personnel, services, and property from a collaborating party and provide personnel, services, and property to a collaborating party;
+
+&emsp;(B) use funds received from a collaborating party in accordance with subparagraph (A) to hire personnel to carry out the agreement who will not be subject to full-time-equivalent restrictions of the agency;
+
+&emsp;(C) to the extent consistent with any applicable agency requirements or standards of conduct, permit an employee or former employee of the laboratory to participate in an effort to commercialize an invention made by the employee or former employee while in the employment or service of the Government; and
+
+&emsp;(D) waive, subject to reservation by the Government of a nonexclusive, irrevocable, paid-up license to practice the invention or have the invention practiced throughout the world by or on behalf of the Government, in advance, in whole or in part, any right of ownership which the Federal Government may have to any subject invention made under the agreement by a collaborating party or employee of a collaborating party.
+
+(4) A collaborating party in an exclusive license in any invention made under an agreement entered into pursuant to subsection (a)(1) of this section shall have the right of enforcement under chapter 29 of title 35.
+
+(5) A Government-owned, contractor-operated laboratory that enters into a cooperative research and development agreement pursuant to subsection (a)(1) of this section may use or obligate royalties or other income accruing to the laboratory under such agreement with respect to any invention only—
+
+&emsp;(A) for payments to inventors;
+
+&emsp;(B) for purposes described in clauses (i), (ii), (iii), and (iv) of section 3710c(a)(1)(B) of this title; and
+
+&emsp;(C) for scientific research and development consistent with the research and development missions and objectives of the laboratory.
 
 #### (c) Contract considerations
 
@@ -60,7 +88,7 @@ Under agreements entered into pursuant to subsection (a)(1) of this section, a G
 
 (ii) A Federal agency that receives a proposed agreement and joint work statement under clause (i) shall review and approve, request specific modifications to, or disapprove the proposed agreement and joint work statement within 30 days after such submission. No agreement may be entered into by a Government-owned, contractor-operated laboratory under this section before both approval of the agreement and approval of a joint work statement under this clause.
 
-(iii) In any case in which an agency which has contracted with an entity referred to in clause (i) disapproves or requests the modification of a cooperative research and development agreement or joint work statement submitted under that clause, the agency shall transmit a written explanation of such disapproval or modification to the head of the laboratory concerned.
+(iii) In any case in which an agency which has contracted with an entity referred to in clause\(i) disapproves or requests the modification of a cooperative research and development agreement or joint work statement submitted under that clause, the agency shall transmit a written explanation of such disapproval or modification to the head of the laboratory concerned.
 
 (6) Each agency shall maintain a record of all agreements entered into under this section.
 
@@ -104,13 +132,15 @@ In implementing this section, each agency which has contracted with a non-Federa
 
 &emsp;(2) Classified information and unclassified sensitive information protected by law, regulation, or Executive order shall be appropriately safeguarded.
 
-(Pub. L. 96–480, §12, as added and renumbered §11, Pub. L. 99–502, §§2, 9(e)(1), Oct. 20, 1986, 100 Stat. 1785, 1797; renumbered §12, Pub. L. 100–418, title V, §5122(a)(1), Aug. 23, 1988, 102 Stat. 1438; amended Pub. L. 100–519, title III, §301, Oct. 24, 1988, 102 Stat. 2597; Pub. L. 101–189, div. C, title XXXI, §3133(a), (b), Nov. 29, 1989, 103 Stat. 1675, 1677; Pub. L. 102–25, title VII, §705(g), Apr. 6, 1991, 105 Stat. 121; Pub. L. 102–245, title III, §302(a), Feb. 14, 1992, 106 Stat. 20; Pub. L. 102–484, div. C, title XXXI, §3135(a), Oct. 23, 1992, 106 Stat. 2640; Pub. L. 103–160, div. C, title XXXI, §3160, Nov. 30, 1993, 107 Stat. 1957.)
+(Pub. L. 96–480, §12, as added and renumbered §11, Pub. L. 99–502, §§2, 9(e)(1), Oct. 20, 1986, 100 Stat. 1785, 1797; renumbered §12, Pub. L. 100–418, title V, §5122(a)(1), Aug. 23, 1988, 102 Stat. 1438; amended Pub. L. 100–519, title III, §301, Oct. 24, 1988, 102 Stat. 2597; Pub. L. 101–189, div. C, title XXXI, §3133(a), (b), Nov. 29, 1989, 103 Stat. 1675, 1677; Pub. L. 102–25, title VII, §705(g), Apr. 6, 1991, 105 Stat. 121; Pub. L. 102–245, title III, §302(a), Feb. 14, 1992, 106 Stat. 20; Pub. L. 102–484, div. C, title XXXI, §3135(a), Oct. 23, 1992, 106 Stat. 2640; Pub. L. 103–160, div. C, title XXXI, §3160, Nov. 30, 1993, 107 Stat. 1957; Pub. L. 104–113, §4, Mar. 7, 1996, 110 Stat. 775.)
 
 #### References in Text
 
 Executive Order No. 12344, referred to in subsec. (d)(2), is set out as a note under section 7158 of Title 42, The Public Health and Welfare.
 
 #### Amendments
+
+1996—Subsec. (b). Pub. L. 104–113 amended subsec. (b) generally, to require that laboratory ensure that collaborating party be provided option of choosing exclusive license for pre-negotiated field of use for any invention under agreement or that collaborating party be offered option of holding licensing rights that collectively encompass rights that would be held under such exclusive license by one party, to set forth explicit conditions that grants under par. (1) were to be subject to, and to require laboratory to ensure that collaborating party might retain title to any invention made solely by its employee in exchange for normally granting Government nonexclusive, nontransferable, irrevocable, paid-up license to practice invention by or on behalf of Government for research or for other Government purposes.
 
 1993—Subsec. (d)(2)(B). Pub. L. 103–160, §3160(1), inserted “(including a weapon production facility of the Department of Energy)” after “facilities” and “, or the production, maintenance, testing, or dismantlement of a nuclear weapon or its components,” after “research and development”.
 
@@ -202,5 +232,5 @@ Section 3133(d) of Pub. L. 101–189, as amended by Pub. L. 101–510, div. A, t
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 278n, 3710c, 3714, 3715, 5528 of this title; title 10 sections 2371, 2491, 2519; title 23 sections 307, 403; title 33 section 2313; title 42 sections 2123, 13541; title 49 section 309.
+This section is referred to in sections 278n, 3710c, 3714, 3715, 5528 of this title; title 10 sections 2371a, 2491, 2519; title 23 sections 307, 403; title 33 section 2313; title 42 sections 2123, 13541; title 49 section 309.
 

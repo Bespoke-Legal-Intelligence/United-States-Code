@@ -6,7 +6,9 @@ Not more than $10,000,000 may be appropriated to the Secretary of Transportation
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

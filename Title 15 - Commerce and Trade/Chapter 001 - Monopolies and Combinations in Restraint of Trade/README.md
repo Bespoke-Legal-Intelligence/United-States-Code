@@ -81,7 +81,7 @@
 | (i) | Finality of orders modified by Court of Appeals. |
 | (j) | Finality of orders issued on rehearing ordered by Court of Appeals or Supreme Court. |
 | (k) | “Mandate” defined. |
-| (<i>l)</i> | Penalties. |
+| (<i>l</i>) | Penalties. |
 | [21a.](%C2%A7%2000021a%20-%20Actions%20and%20proceedings%20pending%20prior%20to%20June%2019%2C%201936%3B%20additional%20and%20continuing%20violations.md) | Actions and proceedings pending prior to June 19, 1936; additional and continuing violations. |
 | [22\.](%C2%A7%2000022%20-%20District%20in%20which%20to%20sue%20corporation.md) | District in which to sue corporation. |
 | [23\.](%C2%A7%2000023%20-%20Suits%20by%20United%20States%3B%20subpoenas%20for%20witnesses.md) | Suits by United States; subpoenas for witnesses. |
@@ -138,7 +138,7 @@ Automobile dealer suits against manufacturers, see chapter 27 of this title.
 
 Bids for services and supplies for armed forces violating anti-trust laws, reference to Attorney General, see section 2305 of Title 10, Armed Forces.
 
-Agreements between carriers as to rates, etc., see section 10706 of Title 49, Transportation.
+Carriers, agreements between as to rates, etc., see section 10706 of Title 49, Transportation.
 
 Department of Commerce, see section 1501 et seq. of this title.
 

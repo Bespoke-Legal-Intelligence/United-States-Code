@@ -16,7 +16,9 @@ Orders.—After an opportunity for a hearing on the record, the Secretary may is
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -24,17 +26,17 @@ Historical and Revision Notes
 
 60111(a)
 
-49 App.:1674b (b)(1), (c).
+49 App.:1674b(b)(1), (c).
 
 Aug. 12, 1968, Pub. L. 90–481, 82 Stat. 720, §7(b)(1)–(3), (c); added Nov. 30, 1979, Pub. L. 96–129, §153, 93 Stat. 1002.
 
 60111(b)
 
-49 App.:1674b (b)(2).
+49 App.:1674b(b)(2).
 
 60111(c)
 
-49 App.:1674b (b)(3).
+49 App.:1674b(b)(3).
 
 In subsection (a), the words “is not maintaining adequate insurance or otherwise”, the text of 49 App.:1674b(c), and the words “and serve upon” and “a statement of” are omitted as surplus.
 

@@ -46,7 +46,7 @@
 
 &emsp;(15) peptic ulcer disease,
 
-> which became manifest to a degree of 10 percent or more after active military, naval, or air service shall be considered to have been incurred inor aggravated by such service, notwithstanding that there is no record of such disease during the period of service.
+> which became manifest to a degree of 10 percent or more after active military, naval, or air service shall be considered to have been incurred in or aggravated by such service, notwithstanding that there is no record of such disease during the period of service.
 
 (c)(1) For the purposes of section 1110 of this title, and subject to the provisions of section 1113 of this title, a disease specified in paragraph (2) of this subsection becoming manifest in a radiation-exposed veteran shall be considered to have been incurred in or aggravated during active military, naval, or air service, notwithstanding that there is no record of evidence of such disease during a period of such service.
 
@@ -152,7 +152,7 @@ Section 2(b) of Pub. L. 102–578 provided that: “The amendments made by subse
 
 #### Effective Date of 1991 Amendment
 
-Section 104(b) of Pub. L. 102–86 provided that: “No benefit may be paid by reason of the amendment made by subsection (a) \[amending this section\] for any period before the date of the enactment of this Act \[Aug. 14, 1991\].”
+Section 104(b) of Pub. L. 102–86 provided that: “No benefit may be paid by reason of the amendment madeby subsection (a) \[amending this section\] for any period before the date of the enactment of this Act \[Aug. 14, 1991\].”
 
 #### Effective Date of 1988 Amendment
 
@@ -178,5 +178,5 @@ Section 4 of Pub. L. 87–645 provided that: “This Act \[amending this section
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1113, 1137 of this title.
+This section is referred to in sections 1113, 1137, 1710 of this title.
 

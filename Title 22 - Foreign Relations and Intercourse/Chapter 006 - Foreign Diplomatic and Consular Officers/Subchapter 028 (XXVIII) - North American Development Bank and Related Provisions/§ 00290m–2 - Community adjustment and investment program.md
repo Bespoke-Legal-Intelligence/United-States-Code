@@ -10,7 +10,7 @@
 
 (4)(A) Each Federal agency selected by the President to assist in carrying out the community adjustment and investment program shall use the funds transferred to it by the President from the Bank to pay for the costs of direct and guaranteed loans, as defined in section 661a of title 2, and, as appropriate, other costs associated with such loans, all subject to the restrictions and limitations that apply to such agency's existing loan or loan guarantee program.
 
-(B) Funds transferred to an agency under subparagraph (A) shall be in addition to the amount of funds authorized in any appropriations Act to be expended by that agency for its loan or loan guarantee program.
+(B) Funds transferred to an agency under subparagraph (A) shall be in addition to the amount of funds authorized in any appropriations Act tobe expended by that agency for its loan or loan guarantee program.
 
 (5) The President shall—
 

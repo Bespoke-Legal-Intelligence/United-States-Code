@@ -4,7 +4,7 @@
 
 (2) The limitation imposed under paragraph (1)(A) for participation of nonprofit schools in the special milk program shall not apply to split-session kindergarten programs conducted in schools in which children do not have access to the meal service program operating in schools the children attend as authorized under this chapter or the National School Lunch Act.
 
-(3) For the purposes of this section “United States” means the fifty States, Guam, the Commonwealth of Puerto Rico, the Virgin Islands, American Samoa, the Trust Territory of the Pacific Islands, and the District of Columbia.
+(3) For the purposes of this section “United States” means the fifty States, Guam, the Commonwealth of Puerto Rico, the Virgin Islands, American Samoa, the Commonwealth of the Northern Mariana Islands, and the District of Columbia.
 
 (4) The Secretary shall administer the special milk program provided for by this section to the maximum extent practicable in the same manner as the Secretary administered the special milk program provided for by this chapter during the fiscal year ending June 30, 1969.
 
@@ -22,7 +22,7 @@
 
 (b) Commodity only schools shall not be eligible to participate in the special milk program under this section. For the purposes of the preceding sentence, the term “commodity only schools” means schools that do not participate in the school lunch program under the National School Lunch Act \[42 U.S.C. 1751 et seq.\], but which receive commodities made available by the Secretary for use by such schools in nonprofit lunch programs.
 
-(Pub. L. 89–642, §3, Oct. 11, 1966, 80 Stat. 885; Pub. L. 91–295, June 30, 1970, 84 Stat. 336; Pub. L. 93–150, §7, Nov. 7, 1973, 87 Stat. 563; Pub. L. 93–347, §3, July 12, 1974, 88 Stat. 341; Pub. L. 94–105, §15(a), Oct. 7, 1975, 89 Stat. 522; Pub. L. 95–166, §§11, 20(1), (2), Nov. 10, 1977, 91 Stat. 1337, 1346; Pub. L. 95–627, §5(a), Nov. 10, 1978, 92 Stat. 3619; Pub. L. 96–499, title II, §209, Dec. 5, 1980, 94 Stat. 2602; Pub. L. 97–35, title VIII, §§807, 813(c), Aug. 13, 1981, 95 Stat. 527, 530; Pub. L. 99–500, title III, §329, Oct. 18, 1986, 100 Stat. 1783–362, and Pub. L. 99–591, title III, §329, Oct. 30, 1986, 100 Stat. 3341–365; Pub. L. 99–661, div. D, title II, §4209, Nov. 14, 1986, 100 Stat. 4073; Pub. L. 101–147, title II, §211, title III, §321, Nov. 10, 1989, 103 Stat. 911, 916.)
+(Pub. L. 89–642, §3, Oct. 11, 1966, 80 Stat. 885; Pub. L. 91–295, June 30, 1970, 84 Stat. 336; Pub. L. 93–150, §7, Nov. 7, 1973, 87 Stat. 563; Pub. L. 93–347, §3, July 12, 1974, 88 Stat. 341; Pub. L. 94–105, §15(a), Oct. 7, 1975, 89 Stat. 522; Pub. L. 95–166, §§11, 20(1), (2), Nov. 10, 1977, 91 Stat. 1337, 1346; Pub. L. 95–627, §5(a), Nov. 10, 1978, 92 Stat. 3619; Pub. L. 96–499, title II, §209, Dec. 5, 1980, 94 Stat. 2602; Pub. L. 97–35, title VIII, §§807, 813(c), Aug. 13, 1981, 95 Stat. 527, 530; Pub. L. 99–500, title III, §329, Oct. 18, 1986, 100 Stat. 1783–362, and Pub. L. 99–591, title III, §329, Oct. 30, 1986, 100 Stat. 3341–365; Pub. L. 99–661, div. D, title II, §4209, Nov. 14, 1986, 100 Stat. 4073; Pub. L. 101–147, title II, §211, title III, §321, Nov. 10, 1989, 103 Stat. 911, 916; Pub. L. 104–193, title VII, §721, Aug. 22, 1996, 110 Stat. 2301.)
 
 #### References in Text
 
@@ -33,6 +33,8 @@ The National School Lunch Act, referred to in subsecs. (a)(1), (2), (b), is act 
 Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
+
+1996—Subsec. (a)(3). Pub. L. 104–193 substituted “the Commonwealth of the Northern Mariana Islands” for “the Trust Territory of the Pacific Islands”.
 
 1989—Subsec. (a). Pub. L. 101–147, §211(a), amended subsec. (a) as identically amended by Pub. L. 99–591, §329, and Pub. L. 99–661, §4209, to read as if only the amendment by Pub. L. 99–661 was enacted, resulting in no change in text, see 1986 Amendment note below.
 
@@ -85,10 +87,6 @@ Amendment by Pub. L. 95–627 effective July 1, 1979, except as specifically pro
 #### Effective Date of 1977 Amendment
 
 Section 20 of Pub. L. 95–166 provided that the amendment made by that section is effective July 1, 1977.
-
-#### Termination of Trust Territory of the Pacific Islands
-
-For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 
 #### Section Referred to in Other Sections
 

@@ -1,6 +1,6 @@
 ### §4505. Certification of organizations
 
-(a) The eligibility of any organization to represent milk producers, and to participate in the making of nominations under section 4504 of this title shall be certified by the Secretary. The Secretary shall certify any organization that the Secretary determines meets the eligibility criteria established by the Secretary under this section and the Secretary's determination as to eligibility shall be final.
+(a) The eligibility of any organization to represent milk producers, and to participate in themaking of nominations under section 4504 of this title shall be certified by the Secretary. The Secretary shall certify any organization that the Secretary determines meets the eligibility criteria established by the Secretary under this section and the Secretary's determination as to eligibility shall be final.
 
 (b) Certification shall be based, in addition to other available information, on a factual report submitted by the organization, which shall contain information deemed relevant and specified by the Secretary, including, but not limited to, the following:
 
@@ -16,7 +16,7 @@
 
 &emsp;(6) the organization's ability and willingness to further the aims and objectives of this subchapter.
 
-> The primary considerations in determining the eligibility of an organization shall be whetherits membership consists primarily of milk producers who produce a substantial volume of milk and whether the primary or overriding interest of the organization is in the production or processing of fluid milk and dairy products and promotion of the nutritional attributes of fluid milk and dairy products.
+> The primary considerations in determining the eligibility of an organization shall be whether its membership consists primarily of milk producers who produce a substantial volume of milk and whether the primary or overriding interest of the organization is in the production or processing of fluid milk and dairy products and promotion of the nutritional attributes of fluid milk and dairy products.
 
 (Pub. L. 98–180, title I, §114, Nov. 29, 1983, 97 Stat. 1140.)
 

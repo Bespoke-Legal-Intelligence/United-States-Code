@@ -14,7 +14,7 @@ As used in this chapter—
 
 &emsp;(6) “United States” includes the several States, territories, and possessions of the United States, Puerto Rico, and the District of Columbia;
 
-&emsp;(7) “vending facility” means automatic vending machines, cafeterias, snack bars, cart services, shelters, counters, and such other appropriate auxiliary equipment as the Secretary may by regulation prescribe as being necessary for the sale of the articles or services described in section 107a(a)(5) of this title and which may be operated by blind licensees; and
+&emsp;(7) “vending facility” means automatic vending machines, cafeterias, snack bars, cartservices, shelters, counters, and such other appropriate auxiliary equipment as the Secretary may by regulation prescribe as being necessary for the sale of the articles or services described in section 107a(a)(5) of this title and which may be operated by blind licensees; and
 
 &emsp;(8) “vending machine income” means receipts (other than those of a blind licensee) from vending machine operations on Federal property, after cost of goods sold (including reasonable service and maintenance costs), where the machines are operated, serviced, or maintained by, or with the approval of, a department, agency, or instrumentality of the United States, or commissions paid (other than to a blind licensee) by a commercial vending concern which operates, services, and maintains vending machines on Federal property for, or with the approval of, a department, agency, or instrumentality of the United States.
 

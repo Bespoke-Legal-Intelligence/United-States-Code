@@ -14,9 +14,37 @@ Nothing in subsection (a) of this section shall prohibit the Secretary from salv
 
 For transfer of certain enforcement functions of Secretary or other official in Department of Agriculture under this subchapter to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, see note set out under section 1601 of this title.
 
+#### Timber Sales Pipeline Restoration Fund
+
+Pub. L. 104–134, title I, §101(c) \[title III, §327\], Apr. 26, 1996, 110 Stat. 1321–156, 1321–206; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327, provided that:
+
+“(a) The Secretary of Agriculture and the Secretary of the Interior shall each establish a Timber Sales Pipeline Restoration Fund (hereinafter ‘Agriculture Fund’ and ‘Interior Fund’ or ‘Funds’). Any revenues received from sales released under section 2001(k) of the fiscal year 1995 Supplemental Appropriations for Disaster Assistance and Rescissions Act \[probably means section 2001(k) of Pub. L. 104–19, set out below\], minus the funds necessary to make payments to States or local governments under other law concerning the distribution of revenues derived from the affected lands, which are in excess of $37,500,000 (hereinafter ‘excess revenues’) shall be deposited into the Funds. The distribution of excess revenues between the Agriculture Fund and Interior Fund shall be calculated by multiplying the total of excess revenues times a fraction with a denominator of the total revenues received from all sales released under such section 2001(k) and numerators of the total revenues received from such sales on lands within the National Forest System and the total revenues received from such sales on lands administered by the Bureau of Land Management, respectively: <i>Provided</i>, That revenues or portions thereof from sales released under such section 2001(k), minus the amounts necessary for State and local government payments and other necessary deposits, may be deposited into the Funds immediately upon receipt thereof and subsequently redistributed between the Funds or paid into the United States Treasury as miscellaneous receipts as may be required when the calculation of excess revenues is made.
+
+“(b)(1) From the funds deposited into the Agriculture Fund and into the Interior Fund pursuant to subsection (a)—
+
+&emsp;“(A) seventy-five percent shall be available, without fiscal year limitation or further appropriation, for preparation of timber sales, other than salvage sales as defined in section 2001(a)(3) of the fiscal year 1995 Supplemental Appropriations for Disaster Assistance and Rescissions Act \[probably means section 2001(a)(3) of Pub. L. 104–19, set out below\], which—
+
+&emsp;&emsp;“(i) are situated on lands within the National Forest System and lands administered by the Bureau of Land Management, respectively; and
+
+&emsp;&emsp;“(ii) are in addition to timber sales for which funds are otherwise available in this Act or other appropriations Acts; and
+
+&emsp;“(B) twenty-five percent shall be available, without fiscal year limitation or further appropriation, to expend on the backlog of recreation projects on lands within the National Forest System and lands administered by the Bureau of Land Management, respectively.
+
+“(2) Expenditures under this subsection for preparation of timber sales may include expenditures for Forest Service activities within the forest land management budget line item and associated timber roads, and Bureau of Land Management activities within the Oregon and California grant lands account and the forestry management area account, as determined by the Secretary concerned.
+
+“(c) Revenues received from any timber sale prepared under subsection (b) or under this subsection, minus the amounts necessary for State and local government payments and other necessary deposits, shall be deposited into the Fund from which funds were expended on such sale. Such deposited revenues shall be available for preparation of additional timber sales and completion of additional recreation projects in accordance with the requirements set forth in subsection (b).
+
+“(d) The Secretary concerned shall terminate all payments into the Agriculture Fund or the Interior Fund, and pay any unobligated funds in the affected Fund into the United States Treasury as miscellaneous receipts, whenever the Secretary concerned makes a finding, published in the Federal Register, that sales sufficient to achieve the total allowable sales quantity of the National Forest System for the Forest Service or the allowable sales level for the Oregon and California grant lands for the Bureau of Land Management, respectively, have been prepared.
+
+“(e) Any timber sales prepared and recreation projects completed under this section shall comply with all applicable environmental and natural resource laws and regulations.
+
+“(f) The Secretary concerned shall report annually to the Committees on Appropriations of the United States Senate and the House of Representatives on expenditures made from the Fund for timber sales and recreation projects, revenues received into the Fund from timber sales, and timber sale preparation and recreation project work undertaken during the previous year and projected for the next year under the Fund. Such information shall be provided for each Forest Service region and Bureau of Land Management State office.
+
+“(g) The authority of this section shall terminate upon the termination of both Funds in accordance with the provisions of subsection (d).”
+
 #### Emergency Salvage Timber Sale Program
 
-Pub. L. 104–19, title II, §2001, July 27, 1995, 109 Stat. 240, provided that:
+Pub. L. 104–19, title II, §2001, July 27, 1995, 109 Stat. 240, as amended by Pub. L. 104–134, title I, §101(c) \[title III, §316\], Apr. 26, 1996, 110 Stat. 1321–156, 1321–202; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327, provided that:
 
 “(a)
 
@@ -24,7 +52,7 @@ Definitions.—For purposes of this section:
 
 &emsp;“(1) The term ‘appropriate committees of Congress’ means the Committee on Resources, the Committee on Agriculture, and the Committee on Appropriations of the House of Representatives and the Committee on Energy and Natural Resources, the Committee on Agriculture, Nutrition, and Forestry, and the Committee on Appropriations of the Senate.
 
-&emsp;“(2) The term ‘emergency period’ means the period beginning on the date of the enactment of this section \[July 27, 1995\] and ending on September 30, 1997.
+&emsp;“(2) The term ‘emergency period’ means the period beginning on the date of the enactment of this section \[July 27, 1995\] and ending on December 31, 1996.
 
 &emsp;“(3) The term ‘salvage timber sale’ means a timber sale for which an important reason for entry includes the removal of disease- or insect-infested trees, dead, damaged, or down trees, or trees affected by fire or imminently susceptible to fire or insect attack. Such term also includes the removal of associated trees or trees lacking the characteristics of a healthy and viable ecosystem for the purpose of ecosystem improvement or rehabilitation, except that any such sale must include an identifiable salvage component of trees described in the first sentence.
 
@@ -40,7 +68,7 @@ Completion of Salvage Timber Sales.—
 
 &emsp;“(1)
 
-Salvage timber sales.—Using the expedited procedures provided in subsection (c), the Secretaryconcerned shall prepare, advertise, offer, and award contracts during the emergency period for salvage timber sales from Federal lands described in subsection (a)(4). During the emergency period, the Secretary concerned is to achieve, to the maximum extent feasible, a salvage timber sale volume level above the programmed level to reduce the backlogged volume of salvage timber. The preparation, advertisement, offering, and awarding of such contracts shall be performed utilizing subsection (c) and notwithstanding any other provision of law, including a law under the authority of which any judicial order may be outstanding on or after the date of the enactment of this Act \[July 27, 1995\].
+Salvage timber sales.—Using the expedited procedures provided in subsection (c), the Secretary concerned shall prepare, advertise, offer, and award contracts during the emergency period for salvage timber sales from Federal lands described in subsection (a)(4). During the emergency period, the Secretary concerned is to achieve, to the maximum extent feasible, a salvage timber sale volume level above the programmed level to reduce the backlogged volume of salvage timber. The preparation, advertisement, offering, and awarding of such contracts shall be performed utilizing subsection (c) and notwithstanding any other provision of law, including a law under the authority of which any judicial order may be outstanding on or after the date of the enactment of this Act \[July 27, 1995\].
 
 &emsp;“(2)
 
@@ -158,7 +186,7 @@ Standard of review.—The courts shall have authority to enjoin permanently, ord
 
 &emsp;“(5)
 
-Time for decision.—Civil actions filed under this subsection shall be assigned for hearing at the earliest possible date. The court shall render its final decision relative to any challenge within 45 days from the date such challenge is brought, unless the court determines that a longer period of time is required to satisfy the requirement of the United States Constitution. In order to reach a decision within 45 days, the district court may assign all or part of any such case or cases to one or more Special Masters, for prompt review and recommendations to the court.
+Time for decision.—Civil actions filed under this subsection shall be assigned for hearing at the earliest possible date. The court shall render its final decision relative to any challenge within 45 days from the date such challenge is brought, unless the courtdetermines that a longer period of time is required to satisfy the requirement of the United States Constitution. In order to reach a decision within 45 days, the district court may assign all or part of any such case or cases to one or more Special Masters, for prompt review and recommendations to the court.
 
 &emsp;“(6)
 
@@ -232,7 +260,7 @@ Threatened or endangered bird species.—No sale unit shall be released or compl
 
 Alternative offer in case of delay.—If for any reason a sale cannot be released and completed under the terms of this subsection within 45 days after the date of the enactment of this Act, the Secretary concerned shall provide the purchaser an equal volume of timber, of like kind and value, which shall be subject to the terms of the original contract and shall not count against current allowable sale quantities.
 
-“(<i>l)</i>
+“(<i>l</i>)
 
 Effect on Plans, Policies, and Activities.—Compliance with this section shall not require or permit any administrative action, including revisions, amendment, consultation, supplementation, or other action, in or for any land management plan, standard, guideline, policy, regional guide, or multiforest plan because of implementation or impacts, site-specific or cumulative, of activities authorized or required by this section, except that any such administrative action with respect to salvage timber sales is permitted to the extent necessary, at the sole discretion of the Secretary concerned, to meet the salvage timber sale goal specified in subsection (b)(1) of this section or to reflect the effects of the salvage program. The Secretary concerned shall not rely on salvage timber sales as the basis for administrative action limiting other multiple use activities nor be required to offer a particular salvage timber sale. No project decision shall be required to be halted or delayed by such documents or guidance, implementation, or impacts.”
 

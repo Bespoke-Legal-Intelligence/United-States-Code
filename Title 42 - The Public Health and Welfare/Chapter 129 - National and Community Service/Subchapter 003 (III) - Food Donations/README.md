@@ -7,6 +7,6 @@
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 12671 - Sense of Congress concerning enactment of Good Samaritan Food Donation Act](%C2%A7%2012671%20-%20Sense%20of%20Congress%20concerning%20enactment%20of%20Good%20Samaritan%20Food%20Donation%20Act.md)
-- [&sect; 12672 - Model Good Samaritan Food Donation Act](%C2%A7%2012672%20-%20Model%20Good%20Samaritan%20Food%20Donation%20Act.md)
-- [&sect; 12673 - Effect of section 12672](%C2%A7%2012673%20-%20Effect%20of%20section%2012672.md)
+- [&sect; 12671 - Repealed. Pub. L. 104&#8211;210, &sect;1(a)(1), Oct. 1, 1996, 110 Stat. 3011](%C2%A7%2012671%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93210%2C%20%C2%A71%28a%29%281%29%2C%20Oct.%201%2C%201996%2C%20110%20Stat.%203011.md)
+- [&sect; 12672 - Transferred](%C2%A7%2012672%20-%20Transferred.md)
+- [&sect; 12673 - Repealed. Pub. L. 104&#8211;210, &sect;1(a)(1), Oct. 1, 1996, 110 Stat. 3011](%C2%A7%2012673%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93210%2C%20%C2%A71%28a%29%281%29%2C%20Oct.%201%2C%201996%2C%20110%20Stat.%203011.md)

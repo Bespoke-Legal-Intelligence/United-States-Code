@@ -2,7 +2,7 @@
 
 #### (a) Amount of credit
 
-For purposes of section 38, the amount of the Indian employment credit determined under thissection with respect to any employer for any taxable year is an amount equal to 20 percent of the excess (if any) of—
+For purposes of section 38, the amount of the Indian employment credit determined under this section with respect to any employer for any taxable year is an amount equal to 20 percent of the excess (if any) of—
 
 &emsp;(1) the sum of—
 
@@ -22,7 +22,7 @@ For purposes of this section—
 
 &emsp;&emsp;The term “qualified wages” means any wages paid or incurred by an employer for services performed by an employee while such employee is a qualified employee.
 
-#### (B) Coordination with targeted jobs credit
+#### (B) Coordination with work opportunity credit
 
 &emsp;&emsp;The term “qualified wages” shall not include wages attributable to service rendered during the 1-year period beginning with the day the individual begins work for the employer if any portion of such wages is taken into account in determining the credit under section 51.
 
@@ -156,13 +156,21 @@ For purposes of this section—
 
 This section shall not apply to taxable years beginning after December 31, 2003.
 
-(Added Pub. L. 103–66, title XIII, §13322(b), Aug. 10, 1993, 107 Stat. 559.)
+(Added Pub. L. 103–66, title XIII, §13322(b), Aug. 10, 1993, 107 Stat. 559; amended Pub. L. 104–188, title I, §1201(e)(1), Aug. 20, 1996, 110 Stat. 1772.)
 
 #### References in Text
 
-The Alaska Native Claims Settlement Act, referred to in subsec. (c)(6), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
+The Alaska Native Claims Settlement Act, referred to in subsec. (c)(6), is Pub. L. 92–203, Dec. 18, 1971, 85Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
 The date of the enactment of this paragraph, referred to in subsec. (e)(4), is the date of enactment of Pub. L. 103–66, which was approved Aug. 10, 1993.
+
+#### Amendments
+
+1996—Subsec. (b)(1)(B). Pub. L. 104–188, which directed that subsec. (b)(1)(B) of this section be amended in the text by substituting “work opportunity credit” for “targeted jobs credit”, was executed by making the substitution in the heading, to reflect the probable intent of Congress, because the phrase “targeted jobs credit” appeared only in the heading, and not in the text, of subpar. (B).
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–188 applicable to individuals who begin work for the employer after Sept. 30, 1996, see section 1201(g) of Pub. L. 104–188, set out as a note under section 38 of this title.
 
 #### Effective Date
 

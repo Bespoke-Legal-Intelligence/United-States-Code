@@ -36,7 +36,7 @@ For purposes of this subchapter—
 
 #### (6) Refineries which produce natural gasoline
 
-&emsp;In the case of any United States refinery which produces natural gasoline from naturalgas, the gasoline so produced shall be treated as received at such refinery at the time so produced.
+&emsp;In the case of any United States refinery which produces natural gasoline from natural gas, the gasoline so produced shall be treated as received at such refinery at the time so produced.
 
 #### (7) Premises
 
@@ -116,7 +116,7 @@ There shall be allowed as a credit against so much of the tax imposed by section
 
 #### (B) Trust Fund balance may not be reduced below $1,000,000,000
 
-&emsp;&emsp;Transfers may be made under subparagraph (A) only to the extent that the unobligated balance of the Oil Spill Liability Trust Fund exceeds $1,000,000,000. If any transfer is not made by reason of the preceding sentence, such transfer shall be made as soon as permitted under such sentence.
+&emsp;&emsp;Transfers may be made under subparagraph (A) only to the extent that the unobligated balance of the Oil Spill Liability Trust Fund exceeds $1,000,000,000. If any transfer isnot made by reason of the preceding sentence, such transfer shall be made as soon as permitted under such sentence.
 
 #### (4) No carryback
 

@@ -24,11 +24,11 @@ A prior section 5361, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 473, which relat
 
 #### Amendments
 
-<b>1993</b>—Par. (5). Pub. L. 103–89 substituted “or a special occupational pay system under subchapter IX” for “a special occupational pay system under subchapter IX, or the performance management and recognition system under chapter 54 of this title”.
+1993—Par. (5). Pub. L. 103–89 substituted “or a special occupational pay system under subchapter IX” for “a special occupational pay system under subchapter IX, or the performance management and recognition system under chapter 54 of this title”.
 
-<b>1990</b>—Par. (5). Pub. L. 101–509 inserted “a special occupational pay system under subchapter IX,” before “or the performance”.
+1990—Par. (5). Pub. L. 101–509 inserted “a special occupational pay system under subchapter IX,” before “or the performance”.
 
-<b>1984</b>—Par. (5). Pub. L. 98–615 substituted “performance management and recognition system” for “merit pay system”.
+1984—Par. (5). Pub. L. 98–615 substituted “performance management and recognition system” for “merit pay system”.
 
 #### Effective Date of 1993 Amendment
 

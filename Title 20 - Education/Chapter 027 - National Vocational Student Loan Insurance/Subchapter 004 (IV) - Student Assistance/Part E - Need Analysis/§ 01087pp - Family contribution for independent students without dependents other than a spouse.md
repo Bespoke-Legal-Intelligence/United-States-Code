@@ -10,7 +10,7 @@ For each independent student without dependents other than a spouse, the expecte
 
 &emsp;&emsp;(B) the family's contribution from assets (determined in accordance with subsection (c) of this section); and
 
-&emsp;(2) dividing the sum resulting under paragraph (1) by the number of students who are enrolled or accepted for enrollment, on at least a half-time basis, in a degree, certificate, or other program leading to a recognized educational credential at an institution of higher education that is an eligible institution in accordance with the provisions of section 1094 of this title during the award period for which assistance under this subchapter and part C ofsubchapter I of chapter 34 of title 42 is requested;
+&emsp;(2) dividing the sum resulting under paragraph (1) by the number of students who are enrolled or accepted for enrollment, on at least a half-time basis, in a degree, certificate, or other program leading to a recognized educational credential at an institution of higher education that is an eligible institution in accordance with the provisions of section 1094 of this title during the award period for which assistance under this subchapter and part C of subchapter I of chapter 34 of title 42 is requested;
 
 > except that the amount determined under this subsection shall not be less than zero.
 
@@ -97,7 +97,7 @@ Percentages for Computation of State and Other Tax Allowance
 
 &emsp;&emsp;(B) the net value of investments and real estate, excluding the net value in the principal place of residence; and
 
-&emsp;&emsp;(C) the adjusted net worth of a business or farm, computed on the basis of the net worth of such business or farm (hereafter referred to as “NW”), determined in accordance with the following table (or a successor table prescribed by the Secretary under section 1087rr of this title), except as provided under section 1087vv(f) of this title:
+&emsp;&emsp;(C) the adjusted net worth of a business or farm, computed on the basis of the net worth of such business or farm (hereafter referred to as “NW”), determined in accordance withthe following table (or a successor table prescribed by the Secretary under section 1087rr of this title), except as provided under section 1087vv(f) of this title:
 
 Adjusted Net Worth of a Business or Farm
 
@@ -179,7 +179,7 @@ In the case of a student who is divorced or separated, or whose spouse has died,
 
 1992—Pub. L. 102–325 amended section generally, substituting provisions relating to family contribution for independent students without dependents other than a spouse for provisions relating to family contribution for independent students without dependents (including a spouse).
 
-1987—Subsec. (b)(1)(A), (B). Pub. L. 100–50, §14(13)(B), (C), substituted subpar. (A) and introductory provisions of subpar. (B) for introductory provisions of former subpar. (A) which read as follows: “computing the student's available taxable income by deducting from the student's adjusted gross income—”. Former subpar. (B) redesignated (C).
+1987—Subsec. (b)(1)(A), (B). Pub. L. 100–50, §14(13)(B), (C), substituted subpar. (A) and introductory provisions of subpar. (B) for introductory provisions of former subpar. (A) which read as follows: “computing the student's available taxable income by deducting from the student's adjusted gross income—”. Former subpar. (B) redesignated (C).
 
 Subsec. (b)(1)(C). Pub. L. 100–50, §14(13)(B), redesignated subpar. (B) as (C). Former subpar. (C) redesignated (D).
 

@@ -40,7 +40,9 @@ Autopsies.—(1) The Board may order an autopsy to be performed and have other t
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -66,7 +68,7 @@ Oct. 15, 1966, Pub. L. 89–670, §6(d) (1st sentence), 80 Stat. 938.
 
 &nbsp;
 
-49 App.:1903(a) (1)(A).
+49 App.:1903(a)(1)(A).
 
 Jan. 3, 1975, Pub. L. 93–633, §304(a)(1)(A), (b)(5), 88 Stat. 2168, 2170.
 
@@ -92,7 +94,7 @@ Jan. 3, 1975, Pub. L. 93–633, §304(a)(1)(A), (b)(5), 88 Stat. 2168, 2170.
 
 &nbsp;
 
-49 App.:1903(a) (1)(A), (b)(5).
+49 App.:1903(a)(1)(A), (b)(5).
 
 In subsection (a), before clause (1), the word “officer” is added for consistency in the revised title.
 

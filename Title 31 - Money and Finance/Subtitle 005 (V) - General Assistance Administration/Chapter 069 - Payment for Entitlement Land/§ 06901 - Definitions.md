@@ -18,19 +18,27 @@ In this chapter—
 
 &emsp;&emsp;(G) that is a reserve area (as defined in section 401(g)(3) of the Act of June 15, 1935 (16 U.S.C. 715s(g)(3))).
 
-&emsp;(2) “unit of general local government” means:
+&emsp;(2)(A) “unit of general local government” means—
 
-&emsp;&emsp;(A) a county (or parish), township, borough, or city where the city is independent of any other unit of general local government, that: (i) is within the class or classes of such political subdivisions in a State that the Secretary of the Interior, in his discretion, determines to be the principal provider or providers of governmental services within the State; and (ii) is a unit of general government as determined by the Secretary of the Interior on the basis of the same principles as were used on January 1, 1983, by the Secretary of Commerce for general statistical purposes. The term “governmental services” includes, but is not limited to, those services that relate to public safety, environment, housing, social services, transportation, and governmental administration;
+&emsp;&emsp;(i) a county (or parish), township, borough, or city where the city is independent of any other unit of general local government, that—
 
-&emsp;&emsp;(B) the District of Columbia;
+&emsp;&emsp;&emsp;(I) is within the class or classes of such political subdivision in a State that the Secretary of the Interior, in his discretion, determines to be the principal provider or providers of governmental services within the State; and
 
-&emsp;&emsp;(C) the Commonwealth of Puerto Rico;
+&emsp;&emsp;&emsp;(II) is a unit of general government, as determined by the Secretary of the Interior on the basis of the same principles as were used by the Secretary of Commerce on January 1, 1983, for general statistical purposes;
 
-&emsp;&emsp;(D) Guam; and
+&emsp;&emsp;(ii) any area in Alaska that is within the boundaries of a census area used by the Secretary of Commerce in the decennial census, but that is not included within the boundary of a governmental entity described under clause (i);
 
-&emsp;&emsp;(E) the Virgin Islands.
+&emsp;&emsp;(iii) the District of Columbia;
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 1031; Pub. L. 98–63, title I, §101(1), July 30, 1983, 97 Stat. 323; Pub. L. 100–446, title I, Sept. 27, 1988, 102 Stat. 1775; Pub. L. 103–272, §4(f)(3), July 5, 1994, 108 Stat. 1364.)
+&emsp;&emsp;(iv) the Commonwealth of Puerto Rico;
+
+&emsp;&emsp;(v) Guam; and
+
+&emsp;&emsp;(vi) the Virgin Islands.
+
+&emsp;(B) the term “governmental services” includes, but is not limited to, those services that relate to public safety, the environment, housing, social services, transportation, and governmental administration.
+
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 1031; Pub. L. 98–63, title I, §101(1), July 30, 1983, 97 Stat. 323; Pub. L. 100–446, title I, Sept. 27, 1988, 102 Stat. 1775; Pub. L. 103–272, §4(f)(3), July 5, 1994, 108 Stat. 1364; Pub. L. 104–333, div. I, title X, §1033(a), Nov. 12, 1996, 110 Stat. 4239.)
 
 Historical and Revision Notes
 
@@ -74,6 +82,18 @@ In clause (2), before subclause (A), the word “general” is added for consist
 
 #### Amendments
 
+1996—Par. (2). Pub. L. 104–333 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “ ‘unit of general local government’ means:
+
+&emsp;“(A) a county (or parish), township, borough, or city where the city is independent of any other unit of general local government, that: (i) is within the class or classes of such political subdivisions in a State that the Secretary of the Interior, in his discretion, determines to be the principal provider or providers of governmental services within the State; and (ii) is a unit of general government as determined by the Secretary of the Interior on the basis of the same principles as were used on January 1, 1983, by the Secretary of Commerce for general statistical purposes. The term ‘governmental services’ includes, but is not limited to, those services that relate to public safety, environment, housing, social services, transportation, and governmental administration;
+
+&emsp;“(B) the District of Columbia;
+
+&emsp;“(C) the Commonwealth of Puerto Rico;
+
+&emsp;“(D) Guam; and
+
+&emsp;“(E) the Virgin Islands.”
+
 1994—Par. (2)(A). Pub. L. 103–272 amended Pub. L. 100–446. See 1988 Amendment note below.
 
 1988—Par. (2)(A). Pub. L. 100–446, as amended by Pub. L. 103–272, struck out “existing in Alaska on October 20, 1976” after “township, borough”.
@@ -87,4 +107,8 @@ Section 4(f)(3) of Pub. L. 103–272 provided that the amendment made by that se
 #### Short Title of 1994 Amendment
 
 Pub. L. 103–397, §1, Oct. 22, 1994, 108 Stat. 4156, provided that: “This Act \[amending sections 6902 and 6903 of this title and enacting provisions set out as notes under sections 6902 and 6903 of this title\] may be cited as the ‘Payments In Lieu of Taxes Act’.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 6902 of this title.
 

@@ -20,10 +20,11 @@
 | [206\.](%C2%A7%2000206%20-%20Minimum%20wage.md) | Minimum wage. |
 | (a) | Employees engaged in commerce; home workers in Puerto Rico and Virgin Islands; employees in American Samoa; seamen on American vessels; agricultural employees. |
 | (b) | Additional applicability to employees pursuant to subsequent amendatory provisions. |
-| (c) | Employees in Puerto Rico. |
+| (c) | Repealed. |
 | (d) | Prohibition of sex discrimination. |
 | (e) | Employees of employers providing contract services to United States. |
 | (f) | Employees in domestic service. |
+| (g) | Newly hired employees who are less than 20 years old. |
 | [207\.](%C2%A7%2000207%20-%20Maximum%20hours.md) | Maximum hours. |
 | (a) | Employees engaged in interstate commerce; additional applicability to employees pursuant to subsequent amendatory provisions. |
 | (b) | Employment pursuant to collective bargaining agreement; employment by independently owned and controlled local enterprise engaged in distribution of petroleum products. |
@@ -35,10 +36,10 @@
 | (i) | Employment by retail or service establishment. |
 | (j) | Employment in hospital or establishment engaged in care of sick, aged, or mentally ill. |
 | (k) | Employment by public agency engaged in fire protection or law enforcement activities. |
-| (<i>l)</i> | Employment in domestic service in one or more households. |
+| (<i>l</i>) | Employment in domestic service in one or more households. |
 | (m) | Employment in tobacco industry. |
 | (n) | Employment by street, suburban, or interurban electric railway, or local trolley or motorbus carrier. |
-| (<i>o)</i> | Compensatory time. |
+| (<i>o</i>) | Compensatory time. |
 | (p) | Special detail work for fire protection and law enforcement employees; occasional or sporadic employment; substitution. |
 | (q) | Maximum hour exemption for employees receiving remedial education. |
 | [208\.](%C2%A7%2000208%20-%20Wage%20orders%20in%20American%20Samoa.md) | Wage orders in American Samoa. |
@@ -93,7 +94,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 251 to 262, 795, 1802 of this title; title 2 sections 60k, 1302, 1313, 1371, 1434; title 5 section 2105; title 7 sections 2015, 2026, 2029; title 15 sections 1014, 3152; title 38 section 1718; title 41 section 355; title 42 sections 1437t, 3056, 5044, 8009, 8011, 12655<i>l.</i>
+This chapter is referred to in sections 251 to 262, 795, 1802 of this title; title 2 sections 60k, 1302, 1313, 1371, 1434; title 3 sections 402, 413; title 5 section 2105; title 7 sections 2015, 2026, 2029; title 15 sections 1014, 3152; title 38 section 1718; title 41 section 355; title 42 sections 1437t, 3056, 5044, 8009, 8011, 12655<i>l.</i>
 
 
 ---

@@ -18,7 +18,7 @@ Section 2(c) of Pub. L. 93–380 provided that:
 
 #### Study of Civilian Aviation Training Programs
 
-Pub. L. 102–325, title XIV, §1410, July 23, 1992, 106 Stat. 821, directed Secretary of Education to enter into appropriate arrangements with National Academy of Sciences Commission on Behavioral and Social Sciences and Education to study civilian aviation training programs needed to satisfy workforce requirements of commercial aviation industry in year 2000 and beyond, directed Secretary to request that National Academy of Sciences Commission on Behavioral and Social Sciences and Education submit an interim report to Secretary and Congress within 1 year after July 23, 1992, and directed that the study be completed within 2 years of July 23, 1992.
+Pub. L. 102–325, title XIV, §1410, July 23, 1992, 106 Stat. 821, directed Secretary of Education to enter into appropriate arrangements with National Academy of Sciences Commission on Behavioral and Social Sciences and Education to study civilian aviation training programs needed to satisfy workforce requirements of commercial aviation industry in year 2000 and beyond, directed Secretary to request that National Academyof Sciences Commission on Behavioral and Social Sciences and Education submit an interim report to Secretary and Congress within 1 year after July 23, 1992, and directed that the study be completed within 2 years of July 23, 1992.
 
 #### National Commission on Independent Higher Education
 
@@ -34,7 +34,7 @@ Pub. L. 102–62, June 27, 1991, 105 Stat. 305, as amended by Pub. L. 102–359,
 
 #### National Commission on Responsibilities for Financing Postsecondary Education
 
-Pub. L. 99–498, title XIII, §1321, Oct. 17, 1986, 100 Stat. 1584, as amended by Pub. L. 101–324, July 6, 1990, 104 Stat. 300; Pub. L. 102–170, title III, §306, Nov. 26, 1991, 105 Stat. 1136, established as an independent agency in executive branch a commission to be known as National Commission on Responsibilities for Financing Postsecondary Education, directed Commission to study and investigate extent to which (1) there is a consistent and coherent Federal policy regarding the appropriate family role in financing costs of postsecondary education for family members, (2) current Federal laws and regulations promote stated Federal policy, and (3) extent to which State laws which remove parental responsibilities for children over 18 years of age conflict with Federal policy in this area, directed Commission to (A) summarize appropriate findings of National Commission on Student Financial Assistance, (B) recommend to Congress a comprehensive analysis on extent to which consensus exists regarding appropriate role of family in financing postsecondary education,and (C) recommend changes in current law required to achieve desired Federal policy, and provided that Commission would terminate 2 years after first meeting of its members.
+Pub. L. 99–498, title XIII, §1321, Oct. 17, 1986, 100 Stat. 1584, as amended by Pub. L. 101–324, July 6, 1990, 104 Stat. 300; Pub. L. 102–170, title III, §306, Nov. 26, 1991, 105 Stat. 1136, established as an independent agency in executive branch a commission to be known as National Commission on Responsibilities for Financing Postsecondary Education, directed Commission to study and investigate extent to which (1) there is a consistent and coherent Federal policy regarding the appropriate family role in financing costs of postsecondary education for family members, (2) current Federal laws and regulations promote stated Federal policy, and (3) extent to which State laws which remove parental responsibilities for children over 18 years of age conflict with Federal policy in this area, directed Commission to (A) summarize appropriate findings of National Commission on Student Financial Assistance, (B) recommend to Congress a comprehensive analysis on extent to which consensus exists regarding appropriate role of family in financing postsecondary education, and (C) recommend changes in current law required to achieve desired Federal policy, and provided that Commission would terminate 2 years after first meeting of its members.
 
 #### Study of Classroom Use of Volunteers
 
@@ -46,7 +46,7 @@ Pub. L. 96–374, title XIII, §1331, Oct. 3, 1980, 94 Stat. 1499, established a
 
 #### Appropriations Not Authorized for Native Hawaiian Education Study for Fiscal Year 1982, 1983, or 1984
 
-Pub. L. 97–35, title V, §512(a), Aug. 13, 1981, 95 Stat. 444, provided that: “No funds are authorized to be appropriated to carry out part D of title XIII of the Education Amendments of 1980 \[section 1331 of Pub. L. 96–374, set out as a note above\] for fiscal year 1982, 1983, or 1984.”
+Pub. L. 97–35, title V, §512(a), Aug. 13, 1981, 95 Stat. 444, provided that: “No funds are authorized to be appropriated to carry out part D of title XIII of the Education Amendments of 1980 \[section 1331 of Pub. L.96–374, set out as a note above\] for fiscal year 1982, 1983, or 1984.”
 
 #### Financing of Elementary and Secondary Education; Studies and Surveys; Advisory Panel; Reports
 

@@ -1,6 +1,6 @@
 ### §8705. Death claims; order of precedence; escheat
 
-(a) The amount of group life insurance and group accidental death insurance in force on anemployee at the date of his death shall be paid, on the establishment of a valid claim, to the person or persons surviving at the date of his death, in the following order of precedence:
+(a) The amount of group life insurance and group accidental death insurance in force on an employee at the date of his death shall be paid, on the establishment of a valid claim, to the person or persons surviving at the date of his death, in the following order of precedence:
 
 &emsp;First, to the beneficiary or beneficiaries designated by the employee in a signed and witnessed writing received before death in the employing office or, if insured because of receipt of annuity or of benefits under subchapter I of chapter 81 of this title as provided by section 8706(b) of this title, in the Office of Personnel Management. For this purpose, a designation, change, or cancellation of beneficiary in a will or other document not so executed and filed has no force or effect.
 
@@ -30,7 +30,9 @@ Act
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 5 U.S.C. 2093.
 
@@ -64,7 +66,7 @@ In subsection (c), “Commission” is substituted for “Civil Service Commissi
 
 #### Amendments
 
-<b>1978</b>—Subsec. (a). Pub. L. 95–583 struck out “or (c)” after “section 8706(b)”.
+1978—Subsec. (a). Pub. L. 95–583 struck out “or (c)” after “section 8706(b)”.
 
 Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission”.
 

@@ -30,7 +30,7 @@ Congress finds that—
 
 &emsp;(8) in order to increase agricultural exports and improve prices for farmers and ranchers in the United States, it is necessary that all agricultural export programs of the United States be used in an expeditious manner, including programs established under the Agricultural Trade Development and Assistance Act of 1954 (7 U.S.C. 1691 et seq.), the Commodity Credit Corporation Charter Act (15 U.S.C. 714 et seq.), and section 416 of the Agricultural Act of 1949 (7 U.S.C. 1431);
 
-&emsp;(9) greater use should be made by the Secretary of Agriculture of the authorities established under section 4 <sup>1</sup> of the Food for Peace Act of 1966 (7 U.S.C. 1707a), the Agricultural Trade Development and Assistance Act of 1954 (7 U.S.C. 1691 et seq.), section 416 of the Agricultural Act of 1949 (7 U.S.C. 1431), and the Commodity Credit Corporation Charter Act (15 U.S.C. 714 et seq.) to provide intermediate credit financing and other assistance for the establishment of facilities in importing countries to—
+&emsp;(9) greater use should be made by the Secretary of Agriculture of the authorities established under section 4 <sup>1</sup> of the Food for PeaceAct of 1966 (7 U.S.C. 1707a), the Agricultural Trade Development and Assistance Act of 1954 (7 U.S.C. 1691 et seq.), section 416 of the Agricultural Act of 1949 (7 U.S.C. 1431), and the Commodity Credit Corporation Charter Act (15 U.S.C. 714 et seq.) to provide intermediate credit financing and other assistance for the establishment of facilities in importing countries to—
 
 &emsp;&emsp;(A) improve the handling, marketing, processing, storage, and distribution of imported agricultural commodities and products; and
 

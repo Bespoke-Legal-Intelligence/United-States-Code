@@ -20,7 +20,7 @@ Report.—Not later than June 15, 1992, the Secretary shall submit to Congress a
 
 &emsp;(6) a summary of actions of the Secretary to alert mass transportation operators of the nature of the unsafe condition found to create a serious hazard of death or injury; and
 
-&emsp;(7) recommendations of the Secretary to Congress of any legislative or administrative actions necessary to ensure that all recipientsof amounts under this chapter will undertake the best way available to correct or eliminate hazards of death or injury, including—
+&emsp;(7) recommendations of the Secretary to Congress of any legislative or administrative actions necessary to ensure that all recipients of amounts under this chapter will undertake the best way available to correct or eliminate hazards of death or injury, including—
 
 &emsp;&emsp;(A) a timetable for undertaking actions;
 
@@ -32,7 +32,9 @@ Report.—Not later than June 15, 1992, the Secretary shall submit to Congress a
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

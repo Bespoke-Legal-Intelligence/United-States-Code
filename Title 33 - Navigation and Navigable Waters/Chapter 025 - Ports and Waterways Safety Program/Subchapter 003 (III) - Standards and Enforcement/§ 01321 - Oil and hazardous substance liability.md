@@ -24,7 +24,7 @@ For the purpose of this section, the term—
 
 &emsp;(10) “onshore facility” means any facility (including, but not limited to, motor vehicles and rolling stock) of any kind located in, on, or under, any land within the United States other than submerged land;
 
-&emsp;(11) “offshore facility” means any facility of any kind located in, on, or under, any of the navigable waters of the United States, and any facility of any kind which is subject to the jurisdiction of the United States and is located in, on, or under any other waters, other than a vessel or a public vessel;
+&emsp;(11) “offshore facility” means any facility of any kind located in, on, or under, any of thenavigable waters of the United States, and any facility of any kind which is subject to the jurisdiction of the United States and is located in, on, or under any other waters, other than a vessel or a public vessel;
 
 &emsp;(12) “act of God” means an act occasioned by an unanticipated grave natural disaster;
 
@@ -58,13 +58,13 @@ For the purpose of this section, the term—
 
 #### (b) Congressional declaration of policy against discharges of oil or hazardous substances; designation of hazardous substances; study of higher standard of care incentives and report to Congress; liability; penalties; civil actions: penalty limitations, separate offenses, jurisdiction, mitigation of damages and costs, recovery of removal costs, alternative remedies, and withholding clearance of vessels
 
-(1) The Congress hereby declares that it is the policy of the United States that there should be no discharges of oil or hazardous substances into or upon the navigable waters of the United States, adjoining shorelines, or into or upon the waters of the contiguous zone, or in connection with activities under the Outer Continental Shelf Lands Act \[43 U.S.C. 1331 et seq.\] or the Deepwater Port Act of 1974 \[33 U.S.C. 1501 et seq.\], or which may affect natural resources belonging to, appertaining to, or under the exclusive management authority of the United States (including resources under the Magnuson Fishery Conservation and Management Act \[16 U.S.C. 1801 et seq.\]).
+(1) The Congress hereby declares that it is the policy of the United States that there should be no discharges of oil or hazardous substances into or upon the navigable waters of the United States, adjoining shorelines, or into or upon the waters of the contiguous zone, or in connection with activities under the Outer Continental Shelf Lands Act \[43 U.S.C. 1331 et seq.\] or the Deepwater Port Act of 1974 \[33 U.S.C. 1501 et seq.\], or which may affect natural resources belonging to, appertaining to, or under the exclusive management authority of the United States (including resources under the Magnuson-Stevens Fishery Conservation and Management Act \[16 U.S.C. 1801 et seq.\]).
 
-(2)(A) The Administrator shall develop, promulgate, and revise as may be appropriate, regulations designating as hazardous substances, other than oil as defined in this section, such elements and compounds which, when discharged in any quantity into or upon the navigable waters of the United States or adjoining shorelines or the waters of the contiguous zone or in connection with activities under the Outer Continental Shelf Lands Act \[43 U.S.C. 1331 et seq.\] or the Deepwater Port Act of 1974 \[33 U.S.C. 1501 et seq.\], or which may affect natural resources belonging to, appertaining to, or under the exclusive management authority of the United States (including resources under the Magnuson Fishery Conservation and Management Act \[16 U.S.C. 1801 et seq.\]), present an imminent and substantial danger to the public health or welfare, including, but not limited to, fish, shellfish, wildlife, shorelines, and beaches.
+(2)(A) The Administrator shall develop, promulgate, and revise as may be appropriate, regulations designating as hazardous substances, other than oil as defined in this section, such elements and compounds which, when discharged in any quantity into or upon the navigable waters of the United States or adjoining shorelines or the waters of the contiguous zone or in connection with activities under the Outer Continental Shelf Lands Act \[43 U.S.C. 1331 et seq.\] or the Deepwater Port Act of 1974 \[33 U.S.C. 1501 et seq.\], or which may affect natural resources belonging to, appertaining to, or under the exclusive management authority of the United States (including resources under the Magnuson-Stevens Fishery Conservation and Management Act \[16 U.S.C. 1801 et seq.\]), present an imminent and substantial danger to the public health or welfare, including, but not limited to, fish, shellfish, wildlife, shorelines, and beaches.
 
 (B) The Administrator shall within 18 months after the date of enactment of this paragraph, conduct a study and report to the Congress on methods, mechanisms, and procedures to create incentives to achieve a higher standard of care in all aspects of the management and movement of hazardous substances on the part of owners, operators, or persons in charge of onshore facilities, offshore facilities, or vessels. The Administrator shall include in such study (1) limits of liability, (2) liability for third party damages, (3) penalties and fees, (4) spill prevention plans, (5) current practices in the insurance and banking industries, and (6) whether the penalty enacted in subclause (bb) of clause (iii) of subparagraph (B) of subsection (b)(2) of section 311 of Public Law 92–500 should be enacted.
 
-(3) The discharge of oil or hazardous substances (i) into or upon the navigable waters of the United States, adjoining shorelines, or into or upon the waters of the contiguous zone, or (ii) in connection with activities under the Outer Continental Shelf Lands Act \[43 U.S.C. 1331 et seq.\] or the Deepwater Port Act of 1974 \[33 U.S.C. 1501 et seq.\], or which may affect natural resources belonging to, appertaining to, or under the exclusive management authority of the United States (including resources under the Magnuson Fishery Conservation and Management Act \[16 U.S.C. 1801 et seq.\]), in such quantities as may be harmful as determined by the President under paragraph (4) of this subsection, is prohibited, except (A) in the case of such discharges into the waters of the contiguous zone or which may affect natural resources belonging to, appertaining to, or under the exclusive management authority of the United States (including resources under the Magnuson Fishery Conservation and Management Act), where permitted under the Protocol of 1978 Relating to the International Convention for the Prevention of Pollution from Ships, 1973, and (B) where permitted in quantities and at times and locations or under such circumstances or conditions as the President may, by regulation, determine not to be harmful. Any regulations issued under this subsection shall be consistent with maritime safety and with marine and navigation laws and regulations and applicable water quality standards.
+(3) The discharge of oil or hazardous substances (i) into or upon the navigable waters of the United States, adjoining shorelines, or into or upon the waters of the contiguous zone, or (ii) in connection with activities under the Outer Continental Shelf Lands Act \[43 U.S.C. 1331 et seq.\] or the Deepwater Port Act of 1974 \[33 U.S.C. 1501 et seq.\], or which may affect natural resources belonging to, appertaining to, or under the exclusive management authority of the United States (including resources under the Magnuson-Stevens Fishery Conservation and Management Act \[16 U.S.C. 1801 et seq.\]), in such quantities as may be harmful as determined by the President under paragraph (4) of this subsection, is prohibited, except (A) in the case of such discharges into the waters of the contiguous zone or which may affect natural resources belonging to, appertaining to, or under the exclusive management authority of the United States (including resources under the Magnuson-Stevens Fishery Conservation and Management Act), where permitted under the Protocolof 1978 Relating to the International Convention for the Prevention of Pollution from Ships, 1973, and (B) where permitted in quantities and at times and locations or under such circumstances or conditions as the President may, by regulation, determine not to be harmful. Any regulations issued under this subsection shall be consistent with maritime safety and with marine and navigation laws and regulations and applicable water quality standards.
 
 (4) The President shall by regulation, determine for the purposes of this section those quantities of oil and any hazardous substances the discharge of which may be harmful to the public health or welfare or the environment of the United States, including but not limited to fish, shellfish, wildlife, and public and private property, shorelines, and beaches.
 
@@ -82,7 +82,7 @@ Violations.—Any owner, operator, or person in charge of any vessel, onshore fa
 
 &emsp;&emsp;(ii) who fails or refuses to comply with any regulation issued under subsection (j) of this section to which that owner, operator, or person in charge is subject,
 
-> &emsp;may be assessed a class I or class II civil penalty by the Secretary of the department inwhich the Coast Guard is operating or the Administrator.
+> &emsp;may be assessed a class I or class II civil penalty by the Secretary of the department in which the Coast Guard is operating or the Administrator.
 
 &emsp;(B)
 
@@ -178,7 +178,7 @@ Failure to comply with regulation.—Any person who fails or refuses to comply w
 
 &emsp;(D)
 
-Gross negligence.—In any case in which a violation of paragraph (3) was the result of gross negligence or willful misconduct of a person described in subparagraph (A), the person shall be subject to a civil penalty of not less than $100,000, and not more than $3,000 per barrel of oil or unit of reportable quantity of hazardous substance discharged.
+Gross negligence.—In any case in which a violation of paragraph (3) was the result ofgross negligence or willful misconduct of a person described in subparagraph (A), the person shall be subject to a civil penalty of not less than $100,000, and not more than $3,000 per barrel of oil or unit of reportable quantity of hazardous substance discharged.
 
 &emsp;(E)
 
@@ -252,7 +252,7 @@ Withholding clearance.—If any owner, operator, or person in charge of a vessel
 
 &emsp;(A) Each Federal agency, State, owner or operator, or other person participating in efforts under this subsection shall act in accordance with the National Contingency Plan or as directed by the President.
 
-&emsp;(B) An owner or operator participating in efforts under this subsection shall act in accordance with the National Contingency Plan and the applicable response plan required under subsection (j) of this section, or as directed by the President.
+&emsp;(B) An owner or operator participating in efforts under this subsection shall act in accordance with the National Contingency Plan and the applicable response plan required under subsection (j) of this section, or as directed by the President, except that the owner or operator may deviate from the applicable response plan if the President or the Federal On-Scene Coordinator determines that deviation from the response plan would provide for a more expeditious or effective response to the spill or mitigation of its environmental effects.
 
 #### (4) Exemption from liability
 
@@ -366,7 +366,7 @@ Withholding clearance.—If any owner, operator, or person in charge of a vessel
 
 (1) Except where an owner or operator can prove that a discharge was caused solely by (A) an act of God, (B) an act of war, (C) negligence on the part of the United States Government, or (D) an act or omission of a third party without regard to whether any such act or omission was or was not negligent, or any combination of the foregoing clauses, such owner or operator of any vessel from which oil or a hazardous substance is discharged in violation of subsection (b)(3) of this section shall, notwithstanding any other provision of law, be liable to the United States Government for the actual costs incurred under subsection (c) of this section for the removal of such oil or substance by the United States Government in an amount not to exceed, in the case of an inland oil barge $125 per gross ton of such barge, or $125,000, whichever is greater, and in the case of any other vessel, $150 per gross ton of such vessel (or, for a vessel carrying oil or hazardous substances as cargo, $250,000), whichever is greater, except that where the United States can show that such discharge was the result of willful negligence or willful misconduct within the privity and knowledge of the owner, such owner or operator shall be liable to the United States Government for the full amount of such costs. Such costs shall constitute a maritime lien on such vessel which may be recovered in an action in rem in the district court of the United States for any district within which any vessel may be found. The United States may also bring an action against the owner or operator of such vessel in any court of competent jurisdiction to recover such costs.
 
-(2) Except where an owner or operator of an onshore facility can prove that a discharge was caused solely by (A) an act of God, (B) an act of war, (C) negligence on the part of the United States Government, or (D) an act or omission of a third party without regard to whether any such act or omission was or was not negligent, or any combination of the foregoing clauses, such owner or operator of any such facility from which oil or a hazardous substance is discharged in violation of subsection (b)(3) of this section shall be liable to the United States Government for the actual costs incurred under subsection (c) of this section for the removal of such oil or substance by the United States Government in an amount not to exceed $50,000,000, except that where the United States can show that such discharge was the result of willful negligence or willful misconduct within the privity and knowledge of the owner, such owner or operator shall be liable to the United States Government for the full amount of such costs. The United States may bring an action against the owner or operator of such facility in any court of competent jurisdiction to recover such costs. The Administrator is authorized, by regulation, after consultation with the Secretary of Commerce and the Small Business Administration, to establish reasonable and equitable classifications of those onshore facilities having a total fixed storage capacity of 1,000 barrels or less which he determines because of size, type, and location do not present a substantial risk of the discharge of oil or a hazardous substance in violation of subsection (b)(3) of this section, and apply with respect to such classifications differing limits of liability which may be less than the amount contained in this paragraph.
+(2) Except where an owner or operator of an onshore facility can prove that a discharge was caused solely by (A) an act of God, (B) an act of war, (C) negligence on the part of the United States Government, or (D) an act or omission of a third party without regard to whether any such act or omission was or was not negligent, or any combination of the foregoing clauses, such owner or operator of any such facility from which oil or a hazardous substance is discharged in violation of subsection (b)(3) of this section shall be liable to the United States Government for the actual costs incurred under subsection (c) of this section for the removal of such oil or substance by the United States Government in an amount not to exceed $50,000,000, except that where the United States can show that such discharge was the result of willful negligence or willful misconduct within the privity and knowledge of the owner, such owner or operator shall be liable to the United States Government for the full amount of such costs. The United States may bring an action against the owner or operator of such facility in any court of competent jurisdiction to recover such costs. The Administrator is authorized, by regulation, after consultation with the Secretary of Commerce and the Small Business Administration, to establish reasonable and equitable classifications of those onshore facilities having a total fixed storage capacity of 1,000 barrels or less which he determines because of size, type, andlocation do not present a substantial risk of the discharge of oil or a hazardous substance in violation of subsection (b)(3) of this section, and apply with respect to such classifications differing limits of liability which may be less than the amount contained in this paragraph.
 
 (3) Except where an owner or operator of an offshore facility can prove that a discharge was caused solely by (A) an act of God, (B) an act of war, (C) negligence on the part of the United States Government, or (D) an act or omission of a third party without regard to whether any such act or omission was or was not negligent, or any combination of the foregoing clauses, such owner or operator of any such facility from which oil or a hazardous substance is discharged in violation of subsection (b)(3) of this section shall, notwithstanding any other provision of law, be liable to the United States Government for the actual costs incurred under subsection (c) of this section for the removal of such oil or substance by the United States Government in an amount not to exceed $50,000,000, except that where the United States can show that such discharge was the result of willful negligence or willful misconduct within the privity and knowledge of the owner, such owner or operator shall be liable to the United States Government for the full amount of such costs. The United States may bring an action against the owner or operator of such a facility in any court of competent jurisdiction to recover such costs.
 
@@ -384,7 +384,7 @@ The liabilities established by this section shall in no way affect any rights wh
 
 #### (i) Recovery of removal costs
 
-In any case where an owner or operator of a vessel or an onshore facility or an offshore facility from which oil or a hazardous substance is discharged in violation of subsection (b)(3) of this section acts to remove such oil or substance in accordance with regulations promulgated pursuant to this section, such owner or operator shall be entitled to recover the reasonable costs incurred in such removal upon establishing, in a suit which may be brought against the United States Government in the United States Court of Federal Claims, that such discharge was caused solely by (A) an act of God, (B) an act of war, (C) negligence on the part of the United States Government, or (D) an act or omission of a third party without regard to whether such act or omission was or was not negligent, or of any combination of the foregoing causes.
+In any case where an owner or operator of a vessel or an onshore facility or an offshore facility from which oil or a hazardous substance is discharged in violation of subsection (b)(3) of this section acts to remove such oil or substance in accordance with regulations promulgated pursuant to this section, such owner or operator shall be entitled to recover the reasonable costs incurred in such removal upon establishing, in a suit which may be brought against the UnitedStates Government in the United States Court of Federal Claims, that such discharge was caused solely by (A) an act of God, (B) an act of war, (C) negligence on the part of the United States Government, or (D) an act or omission of a third party without regard to whether such act or omission was or was not negligent, or of any combination of the foregoing causes.
 
 #### (j) National Response System
 
@@ -396,7 +396,7 @@ In any case where an owner or operator of a vessel or an onshore facility or an 
 
 &emsp;The Secretary of the department in which the Coast Guard is operating shall establish a National Response Unit at Elizabeth City, North Carolina. The Secretary, acting through the National Response Unit—
 
-&emsp;&emsp;(A) shall compile and maintain a comprehensive computer list of spill removal resources, personnel, and equipment that is available worldwide and within the areas designated by the President pursuant to paragraph (4), which shall be available to Federal and State agencies and the public;
+&emsp;&emsp;(A) shall compile and maintain a comprehensive computer list of spill removal resources, personnel, and equipment that is available worldwide and within the areas designated by the President pursuant to paragraph (4), and of information regarding previous spills, including data from universities, research institutions, State governments, and other nations, as appropriate, which shall be disseminated as appropriate to response groups and area committees, and which shall be available to Federal and State agencies and the public;
 
 &emsp;&emsp;(B) shall provide technical assistance, equipment, and other resources requested by a Federal On-Scene Coordinator;
 
@@ -454,7 +454,7 @@ In any case where an owner or operator of a vessel or an onshore facility or an 
 
 &emsp;&emsp;(iv) list the equipment (including firefighting equipment), dispersants or other mitigating substances and devices, and personnel available to an owner or operator and Federal, State, and local agencies, to ensure an effective and immediate removal of a discharge, and to ensure mitigation or prevention of a substantial threat of a discharge;
 
-&emsp;&emsp;(v) describe the procedures to be followed for obtaining an expedited decision regarding the use of dispersants;
+&emsp;&emsp;(v) compile a list of local scientists, both inside and outside Federal Government service, with expertise in the environmental effects of spills of the types of oil typically transported in the area, who may be contacted to provide information or, where appropriate, participate in meetings of the scientific support team convened in response to a spill, and describe the procedures to be followed for obtaining an expedited decision regarding the use of dispersants;
 
 &emsp;&emsp;(vi) describe in detail how the plan is integrated into other Area Contingency Plans and vessel, offshore facility, and onshore facility response plans approved under this subsection, and into operating procedures of the National Response Unit;
 
@@ -488,7 +488,7 @@ In any case where an owner or operator of a vessel or an onshore facility or an 
 
 &emsp;&emsp;(iii) identify, and ensure by contract or other means approved by the President the availability of, private personnel and equipment necessary to remove to the maximum extent practicable a worst case discharge (including a discharge resulting from fire or explosion), and to mitigate or prevent a substantial threat of such a discharge;
 
-&emsp;&emsp;(iv) describe the training, equipment testing, periodic unannounced drills, and response actions of persons on the vessel or at the facility, to be carried out under the plan to ensure the safety of the vessel or facilityand to mitigate or prevent the discharge, or the substantial threat of a discharge;
+&emsp;&emsp;(iv) describe the training, equipment testing, periodic unannounced drills, and response actions of persons on the vessel or at the facility, to be carried out under the plan to ensure the safety of the vessel or facility and to mitigate or prevent the discharge, or the substantial threat of a discharge;
 
 &emsp;&emsp;(v) be updated periodically; and
 
@@ -582,7 +582,7 @@ The several district courts of the United States are invested with jurisdiction 
 
 #### (<i>o</i>) Obligation for damages unaffected; local authority not preempted; existing Federal authority not modified or affected
 
-(1) Nothing in this section shall affect or modify in any way the obligations of any owner or operator of any vessel, or of any owner or operator of any onshore facility or offshore facility to any person or agency under any provision of law for damages to any publicly owned or privately owned property resulting from a discharge of any oil or hazardous substance or from the removal of any such oil or hazardous substance.
+(1) Nothing in this section shall affect or modify in any way the obligations of any owner oroperator of any vessel, or of any owner or operator of any onshore facility or offshore facility to any person or agency under any provision of law for damages to any publicly owned or privately owned property resulting from a discharge of any oil or hazardous substance or from the removal of any such oil or hazardous substance.
 
 (2) Nothing in this section shall be construed as preempting any State or political subdivision thereof from imposing any requirement or liability with respect to the discharge of oil or hazardous substance into any waters within such State, or with respect to any removal activities related to such discharge.
 
@@ -602,15 +602,15 @@ Nothing in this section shall be construed to impose, or authorize the impositio
 
 The Oil Spill Liability Trust Fund established under section 9509 of title 26 shall be available to carry out subsections (b), (c), (d), (j), and (<i>l</i>) of this section as those subsections apply to discharges, and substantial threats of discharges, of oil. Any amounts received by the United States under this section shall be deposited in the Oil Spill Liability Trust Fund.
 
-(June 30, 1948, ch. 758, title III, §311, as added Oct. 18, 1972, Pub. L. 92–500, §2, 86 Stat. 862; amended Dec. 28, 1973, Pub. L. 93–207, §1(4), 87 Stat. 906; Dec. 27, 1977, Pub. L. 95–217, §§57, 58(a)–(g), (i), (k)–(m), 91 Stat. 1593–1596; Nov. 2, 1978, Pub. L. 95–576, §1(b), 92 Stat. 2467; Oct. 21, 1980, Pub. L. 96–478, §13(b), 94 Stat. 2303; Oct. 21, 1980, Pub. L. 96–483, §8, 94 Stat. 2362; Dec. 22, 1980, Pub. L. 96–561, title II, §238(b), 94 Stat. 3300; Apr. 2, 1982, Pub. L. 97–164, title I, §161(5), 96 Stat. 49; Feb. 4, 1987, Pub. L. 100–4, title V, §502(b), 101 Stat. 75; Aug. 18, 1990, Pub. L. 101–380, title II, §2002(b), title IV, §§4201(a), (b), (b)\[(c)\], 4202(a), (c), 4204, 4301(a), (b), 4305, 4306, 104 Stat. 507, 523–527, 532, 533, 540, 541; Oct. 6, 1992, Pub. L. 102–388, title III, §349, 106 Stat. 1554; Oct. 29, 1992, Pub. L. 102–572, title IX, §902(b)(1), 106 Stat. 4516.)
+(June 30, 1948, ch. 758, title III, §311, as added Oct. 18, 1972, Pub. L. 92–500, §2, 86 Stat. 862; amended Dec. 28, 1973, Pub. L. 93–207, §1(4), 87 Stat. 906; Dec. 27, 1977, Pub. L. 95–217, §§57, 58(a)–(g), (i), (k)–(m), 91 Stat. 1593–1596; Nov. 2, 1978, Pub. L. 95–576, §1(b), 92 Stat. 2467; Oct. 21, 1980, Pub. L. 96–478, §13(b), 94 Stat. 2303; Oct. 21, 1980, Pub. L. 96–483, §8, 94 Stat. 2362; Dec. 22, 1980, Pub. L. 96–561, title II, §238(b), 94 Stat. 3300; Apr. 2, 1982, Pub. L. 97–164, title I, §161(5), 96 Stat. 49; Feb. 4, 1987, Pub. L. 100–4, title V, §502(b), 101 Stat. 75; Aug. 18, 1990, Pub. L. 101–380, title II, §2002(b), title IV, §§4201(a), (b), (b)\[(c)\], 4202(a), (c), 4204, 4301(a), (b), 4305, 4306, 104 Stat. 507, 523–527, 532, 533, 540, 541; Oct. 6, 1992, Pub. L. 102–388, title III, §349, 106 Stat. 1554; Oct. 29, 1992, Pub. L. 102–572, title IX, §902(b)(1), 106 Stat. 4516; Sept. 30, 1996, Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], 110 Stat. 3009, 3009–41; Oct. 19, 1996, Pub. L. 104–324, title XI, §§1143, 1144, 110 Stat. 3992.)
 
 #### References in Text
 
 The Outer Continental Shelf Lands Act, referred to in subsecs. (b)(1), (2)(A), (3) and (r), is act Aug. 7, 1953, ch. 345, 67 Stat. 462, as amended, which is classified generally to subchapter III (§1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1331 of Title 43 and Tables.
 
-The Deepwater Port Act of 1974, referred to in subsecs. (b)(1), (2)(A), (3) and (r), is Pub. L. 93–627, Jan. 3,1975, 88 Stat. 2126, as amended, which is classified generally to chapter 29 (§1501 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of this title and Tables.
+The Deepwater Port Act of 1974, referred to in subsecs. (b)(1), (2)(A), (3) and (r), is Pub. L. 93–627, Jan. 3, 1975, 88 Stat. 2126, as amended, which is classified generally to chapter 29 (§1501 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of this title and Tables.
 
-The Magnuson Fishery Conservation and Management Act, referred to in subsec. (b)(1), (2)(A), (3), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, which is classified principally to chapter 38 (§1801 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 16 and Tables.
+The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (b)(1), (2)(A), (3), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, which is classified principally to chapter 38 (§1801 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 16 and Tables.
 
 The date of enactment of this paragraph, referred to in subsec. (b)(2)(B), probably means the date of enactment of Pub. L. 95–576, which amended subsec. (b)(2)(B) and which was approved Nov. 2, 1978.
 
@@ -629,6 +629,14 @@ The Oil Pollution Act of 1990, referred to in subsecs. (c)(5)(B), (d)(2)(H), and
 August 18, 1990, referred to in subsec. (j)(6), was in the original “the date of enactment of this section”, which was translated as meaning the date of enactment of Pub. L. 101–380, which enacted subsec. (j)(2) to (8), to reflect the probable intent of Congress.
 
 #### Amendments
+
+1996—Subsec. (b)(1), (2)(A), (3). Pub. L. 104–208 substituted “Magnuson-Stevens Fishery” for “Magnuson Fishery” wherever appearing.
+
+Subsec. (c)(3)(B). Pub. L. 104–324, §1144, inserted “, except that the owner or operator may deviate from the applicable response plan if the President or the Federal On-Scene Coordinator determines that deviation from the response plan would provide for a more expeditious or effective response to the spill or mitigation of its environmental effects” before period at end.
+
+Subsec. (j)(2)(A). Pub. L. 104–324, §1143(1), inserted “and of information regarding previous spills, including data from universities, research institutions, State governments, and other nations, as appropriate, which shall be disseminated as appropriate to response groups and area committees, and” after “paragraph (4),”.
+
+Subsec. (j)(4)(C)(v). Pub. L. 104–324, §1143(2), inserted “compile a list of local scientists, both inside and outside Federal Government service, with expertise in the environmental effects of spills of the types of oil typically transported in the area, who may be contacted to provide information or, where appropriate, participate in meetings of the scientific support team convened in response to a spill, and” before “describe”.
 
 1992—Subsec. (b)(12). Pub. L. 102–388 added par. (12).
 
@@ -724,7 +732,7 @@ Subsec. (c)(2)(D). Pub. L. 95–217, §58(e), substituted “and imminent threat
 
 Subsec. (d). Pub. L. 95–217, §58(c)(2), inserted “or under the Intervention on the High Seas Act (or the convention defined in section 2(3) thereof)” after “Any expense incurred under this subsection”.
 
-Subsec. (f)(1). Pub. L. 95–217, §58(d)(2), substituted “, in the case of an inland oil barge $125 per gross ton of such barge, or $125,000, whichever is greater, and in the case of any other vessel, $150 per gross ton of such vessel (or, for a vessel carrying oil or hazardous substances as cargo, $250,000), whichever is greater,” for “$100 per gross ton of such vessel or $14,000,000, whichever is lesser,”.
+Subsec. (f)(1). Pub. L. 95–217, §58(d)(2), substituted “, in the case of an inland oil barge $125 per gross ton of such barge, or $125,000, whichever is greater, and in the case of any other vessel, $150 per gross ton of such vessel (or, for a vessel carrying oil or hazardous substances as cargo, $250,000), whichever is greater,” for “$100 per gross ton of such vessel or $14,000,000, whichever is lesser,”.
 
 Subsec. (f)(2), (3). Pub. L. 95–217, §58(d)(5), (6), substituted “$50,000,000” for “$8,000,000”.
 
@@ -746,6 +754,10 @@ Subsecs. (q), (r). Pub. L. 95–217, §58(i), added subsecs. (q) and (r).
 
 Subsecs. (g), (i). Pub. L. 93–207, §1(4)(C), substituted “(b)(3)” for “(b)(2)” wherever appearing.
 
+#### Effective Date of 1996 Amendment
+
+Section 101(a) \[title II, §211(b)\] of div. A of Pub. L. 104–208 provided that the amendment made by that section is effective 15 days after Oct. 11, 1996.
+
 #### Effective Date of 1992 Amendment
 
 Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. L. 102–572, set out as a note under section 171 of Title 28, Judiciary and Judicial Procedure.
@@ -760,7 +772,7 @@ Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L.
 
 #### Effective Date of 1980 Amendments
 
-Amendment by Pub. L. 96–561 effective 15 days after Dec. 22, 1980, see section 238 of Pub. L. 96–561, set out as a Short Title of 1980 Amendment note under section 1801 of Title 16, Conservation.
+Section 238(b) of Pub. L. 96–561 provided that the amendment made by that section is effective 15 days after Dec. 22, 1980.
 
 Amendment by Pub. L. 96–478 effective Oct. 2, 1983, see section 14(a) of Pub. L. 96–478, set out as an Effective Date note under section 1901 of this title.
 
@@ -778,7 +790,7 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 #### Termination of United States District Court for the District of the Canal Zone
 
-For termination of the United States District Court for the District of the Canal Zone at end of the “transition period”, being the 30-month period beginning Oct. 1, 1979, and ending midnight Mar. 31, 1982, see Paragraph 5 of Article XI of the Panama Canal Treaty of 1977 and sections 3831 and 3841 to 3843 of Title 22, Foreign Relations and Intercourse.
+For termination of the United States District Court for the District of the Canal Zone at end of the “transition period”, being the 30-month period beginning Oct. 1, 1979, and ending midnight Mar. 31, 1982, see Paragraph 5 of Article XI of the Panama Canal Treaty of 1977 and sections 2101 and 2201 to 2203 of Pub. L. 96–70, title II, Sept. 27, 1979, 93 Stat. 493, formerly classified to sections 3831 and 3841 to 3843, respectively, of Title 22, Foreign Relations and Intercourse.
 
 #### Oil Spill Liability Under Oil Pollution Act of 1990
 
@@ -790,7 +802,7 @@ Section 2002(b)(2) of Pub. L. 101–380 provided that: “Subsection (k) \[of th
 
 #### Revision of National Contingency Plan
 
-Section 4201(c)\[(d)\] of Pub. L. 101–380 provided that: “Not later than one year after the date of the enactment of this Act \[Aug. 18, 1990\], the President shall revise and republish the National Contingency Plan prepared under section 311(c)(2) of the Federal Water Pollution Control Act \[33 U.S.C. 1321(c)(2)\] (as in effect immediately before the date of the enactment of this Act) to implement the amendments made by this section and section 4202 \[amending this section\].”
+Section 4201(c)\[(d)\] of Pub. L. 101–380 provided that: “Not later than one year after the date of the enactment of this Act \[Aug. 18, 1990\], the President shall revise and republish the National Contingency Plan prepared under section 311(c)(2) of the Federal Water Pollution Control Act \[33 U.S.C. 1321(c)(2)\] (as in effect immediately before the date of the enactment of this Act)to implement the amendments made by this section and section 4202 \[amending this section\].”
 
 #### Implementation of National Planning and Response System
 
@@ -860,7 +872,7 @@ Section 1. <i>National Contingency Plan, Area Committees, and Area Contingency P
 
 “(3) Except for periods of activation because of response action, the representative of the Environmental Protection Agency (“EPA”) shall be the chairman, and the representative of the United States Coast Guard shall be the vice chairman, of the NRT and these agencies’ representatives shall be co-chairs of the Regional Response Teams (“the RRTs”). When the NRT or an RRT is activated for a response action, the EPA representative shall be the chairman when the release or threatened release or discharge or threatened discharge occurs in the inland zone, and the United States Coast Guard representative shall be the chairman when the release or threatened release or discharge or threatened discharge occurs in the coastal zone, unless otherwise agreed upon by the EPA and the United States Coast Guard representatives (inland and coastal zones are defined in the NCP).
 
-“(4) The RRTs may include representatives from State governments, local governments (as agreed upon by the States), and Indian tribal governments. Subject to the functions and authorities delegated to Executive departments and agencies in other sections of this order, the NRT shall provide policy and program direction to the RRTs.
+“(4) The RRTs may include representatives from State governments, local governments (as agreed uponby the States), and Indian tribal governments. Subject to the functions and authorities delegated to Executive departments and agencies in other sections of this order, the NRT shall provide policy and program direction to the RRTs.
 
 “(b)(1) The responsibility for the revision of the NCP and all the other functions vested in the President by Sections 105(a), (b), (c), and (g), 125, and 301(f) of the Act, by Section 311(d)(1) of the Federal Water Pollution Control Act, and by Section 4201(c) of the Oil Pollution Act of 1990 is delegated to the Administrator of the Environmental Protection Agency (“the Administrator”).
 
@@ -946,7 +958,7 @@ Sec. 7. <i>Management of the Oil Spill Liability Trust Fund and Claims</i>. (a)(
 
 (2) The functions vested in the President by Section 1012(a)(2) of OPA \[33 U.S.C. 2712(a)(2)\], respecting the payment of costs and determining consistency with the NCP, are delegated to the Federal trustees designated in the NCP.
 
-(3) The functions vested in the President by Section 1012(a)(5) of OPA, respecting the payment of costs and expenses of departments and agencies having responsibility for the implementation, administration, and enforcement of the Oil Pollution Act of 1990 and subsections (b), (c), (d), (j) and (<i>l</i>) of Section 311 of FWPCA, are delegated to each head of such department and agency.
+(3) The functions vested in the President by Section 1012(a)(5) of OPA, respecting the payment of costs andexpenses of departments and agencies having responsibility for the implementation, administration, and enforcement of the Oil Pollution Act of 1990 and subsections (b), (c), (d), (j) and (<i>l</i>) of Section 311 of FWPCA, are delegated to each head of such department and agency.
 
 (b) The functions vested in the President by Section 1012(c) of OPA, respecting designation of Federal officials who may obligate money, are delegated to each head of the departments and agencies to whom functions have been delegated under section 7(a) of this order for the purpose of carrying out such functions.
 
@@ -992,7 +1004,7 @@ George Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1266, 1314, 1318, 1319, 1376, 1402, 2701, 2702, 2703, 2704, 2712, 2735, 2752 of this title; title 8 section 1288; title 14 section 690; title 26 sections 9507, 9509; title 42 sections 6991b, 7412, 9601, 9602, 9605, 9606, 9607, 9611, 9651, 9652, 9654, 10601; title 43 sections 1653, 1656; title 46 sections 2101, 3715.
+This section is referred to in sections 1266, 1314, 1318, 1319, 1322, 1376, 1402, 2701, 2702, 2703, 2704, 2712, 2735, 2752 of this title; title 8 section 1288; title 14 section 690; title 26 sections 9507, 9509; title 42 sections 6991b, 7412, 9601, 9602, 9605, 9606, 9607, 9611, 9651, 9652, 9654, 10601; title 43 sections 1653, 1656; title 46 sections 2101, 3715.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

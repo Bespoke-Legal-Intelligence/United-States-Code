@@ -1,6 +1,6 @@
 ### §1918. Disloyalty and asserting the right to strike against the Government
 
-Whoever violates the provision of section 7311 of title 5 that an individual may not accept or hold a position in the Government of the United States or the government of the District of Columbia if he—
+Whoever violates the provision of section 7311 of title 5 that an individual may not accept or hold a position in the Government of the UnitedStates or the government of the District of Columbia if he—
 
 &emsp;(1) advocates the overthrow of our constitutional form of government;
 
@@ -10,9 +10,9 @@ Whoever violates the provision of section 7311 of title 5 that an individual may
 
 &emsp;(4) is a member of an organization of employees of the Government of the United States or of individuals employed by the government of the District of Columbia that he knows asserts the right to strike against the Government of the United States or the government of the District of Columbia;
 
-> shall be fined not more than $1,000 or imprisoned not more than one year and a day, or both.
+> shall be fined under this title or imprisoned not more than one year and a day, or both.
 
-(Added Pub. L. 89–554, §3(d), Sept. 6, 1966, 80 Stat. 609.)
+(Added Pub. L. 89–554, §3(d), Sept. 6, 1966, 80 Stat. 609; amended Pub. L. 104–294, title VI, §601(a)(8), Oct. 11, 1996, 110 Stat. 3498.)
 
 Historical and Revision Notes
 
@@ -20,7 +20,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 5 U.S.C. 118r.
 
@@ -35,4 +37,8 @@ The section is rewritten to conform to the style of title 18. The statement of t
 The words “From and after July 1, 1956”, appearing in the Act of June 29, 1956, are omitted as executed.
 
 The words “shall be guilty of a felony” are omitted as unnecessary in view of the definitive section 1 of this title. (See reviser's note under section 550 of this title.)
+
+#### Amendments
+
+1996—Pub. L. 104–294 substituted “fined under this title” for “fined not more than $1,000” in concluding provisions.
 

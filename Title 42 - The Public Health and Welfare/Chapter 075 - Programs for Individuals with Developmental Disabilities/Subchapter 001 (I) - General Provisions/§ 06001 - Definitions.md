@@ -102,7 +102,7 @@ For purposes of this chapter:
 
 &emsp;&emsp;(C) reunite families with members who have been placed out of the home, whenever possible.
 
-> &emsp;Such term includes respite care, rehabilitation technology, personal assistance services, parent training and counseling, support for elderly parents, vehicular and home modifications,and assistance with extraordinary expenses associated with the needs of individuals with developmental disabilities.
+> &emsp;Such term includes respite care, rehabilitation technology, personal assistance services, parent training and counseling, support for elderly parents, vehicular and home modifications, and assistance with extraordinary expenses associated with the needs of individuals with developmental disabilities.
 
 #### (12) Federal priority areas
 
@@ -146,7 +146,7 @@ For purposes of this chapter:
 
 #### (18) Personal assistance services
 
-&emsp;The term “personal assistance services” means a range of services, provided by one or more individuals, designed to assist an individual with a disability to perform daily living activities on or off a job that such individual would typically perform if such individual did not have a disability. Such services shall be designed to increase such individual's control in life and ability to perform everyday activities on or off such job.
+&emsp;The term “personal assistance services” means a range of services, provided by one or more individuals, designed to assist an individual with a disability to perform daily living activities on or off a job that such individual would typically perform if such individual didnot have a disability. Such services shall be designed to increase such individual's control in life and ability to perform everyday activities on or off such job.
 
 #### (19) Prevention
 
@@ -230,7 +230,7 @@ For purposes of this chapter:
 
 #### (31) Unserved and underserved
 
-&emsp;The term “unserved and underserved” includes populations such as individuals from racial and ethnic minority backgrounds, disadvantaged individuals, individuals with limited-English proficiency, individuals from underserved geographic areas (rural or urban), and specific groups of individuals within the population of individuals with developmental disabilities, including individuals with developmental disabilities attributable to physical impairment, mental impairment, or a combination of physical and mental impairments.
+&emsp;The term “unserved and underserved” includes populations such as individuals fromracial and ethnic minority backgrounds, disadvantaged individuals, individuals with limited-English proficiency, individuals from underserved geographic areas (rural or urban), and specific groups of individuals within the population of individuals with developmental disabilities, including individuals with developmental disabilities attributable to physical impairment, mental impairment, or a combination of physical and mental impairments.
 
 (Pub. L. 88–164, title I, §102, as added Pub. L. 98–527, §2, Oct. 19, 1984, 98 Stat. 2663; amended Pub. L. 100–146, title I, §102, Oct. 29, 1987, 101 Stat. 841; Pub. L. 101–496, §4, Oct. 31, 1990, 104 Stat. 1192; Pub. L. 103–230, title I, §103, Apr. 6, 1994, 108 Stat. 288.)
 
@@ -252,7 +252,7 @@ Par. (8)(A). Pub. L. 101–496, §4(2), (3), struck out “and” at end of cl. 
 
 Par. (8)(B). Pub. L. 101–496, §4(2), (4), struck out “or in home-like settings” after “homes” and substituted “citizens without disabilities” for “nondisabled citizens”.
 
-Par. (9). Pub. L. 101–496, §4(5), which directed the substitution of “special adaptation of generic services or specialized services” for “specialized services or specialadaptation of generic services”, was executed by making the substitution for “specialized services or special adaptations of generic services” wherever appearing in subpars. (A) to (E) to reflect the probable intent of Congress.
+Par. (9). Pub. L. 101–496, §4(5), which directed the substitution of “special adaptation of generic services or specialized services” for “specialized services or special adaptation of generic services”, was executed by making the substitution for “specialized services or special adaptations of generic services” wherever appearing in subpars. (A) to (E) to reflect the probable intent of Congress.
 
 Par. (9)(B)(iv). Pub. L. 101–496, §4(6), substituted “approaches, strategies” for “models” and inserted “Federal, State and local” before “policymakers”.
 
@@ -300,5 +300,5 @@ Amendment by Pub. L. 100–146 effective Oct. 1, 1987, see section 601 of Pub. L
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1437a, 1471, 3035n, 6024, 6042, 6862, 8013, 9877, 11382 of this title.
+This section is referred to in sections 1437a, 1471, 3035n, 6024, 6042, 6862, 8013, 9877, 11382 of this title; title 25 section 4103.
 

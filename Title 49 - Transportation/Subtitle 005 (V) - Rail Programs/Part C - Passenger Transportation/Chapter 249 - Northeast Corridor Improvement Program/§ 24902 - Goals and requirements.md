@@ -46,7 +46,7 @@ Passenger Radio Mobile Telephone Service.—The President and departments, agenc
 
 Priorities in Selecting and Scheduling Projects.—When selecting and scheduling specific projects, Amtrak shall apply the following considerations, in the following order of priority:
 
-&emsp;(1) Safety-related items should be completed before other items because the safety of thepassengers and users of the Northeast Corridor is paramount.
+&emsp;(1) Safety-related items should be completed before other items because the safety of the passengers and users of the Northeast Corridor is paramount.
 
 &emsp;(2) Activities that benefit the greatest number of passengers should be completed before activities involving fewer passengers.
 
@@ -94,15 +94,21 @@ Coordination.—(1) The Secretary of Transportation shall coordinate—
 
 (2) If the Secretary finds significant noncompliance with this section, the Secretary may deny financing to a noncomplying program until the noncompliance is corrected.
 
-(<i>l)</i>
+(<i>l</i>)
 
 Completion.—Amtrak shall give the highest priority to completing the program.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 930.)
+(m)
+
+Applicable Procedures.—No State or local building, zoning, subdivision, or similar or related law, nor any other State or local law from which a project would be exempt if undertaken by the Federal Government or an agency thereof within a Federal enclave wherein Federal jurisdiction is exclusive, including without limitation with respect to all such laws referenced herein above requirements for permits, actions, approvals or filings, shall apply in connection with the construction, ownership, use, operation, financing, leasing, conveying, mortgaging or enforcing a mortgage of (i) any improvement undertaken by or for the benefit ofAmtrak as part of, or in furtherance of, the Northeast Corridor Improvement Project (including without limitation maintenance, service, inspection or similar facilities acquired, constructed or used for high speed trainsets) or chapter 241, 243, or 247 of this title or (ii) any land (and right, title or interest created with respect thereto) on which such improvement is located and adjoining, surrounding or any related land. These exemptions shall remain in effect and be applicable with respect to such land and improvements for the benefit of any mortgagee before, upon and after coming into possession of such improvements or land, any third party purchasers thereof in foreclosure (or through a deed in lieu of foreclosure), and their respective successors and assigns, in each case to the extent the land or improvements are used, or held for use, for railroad purposes or purposes accessory thereto. This subsection (m) shall not apply to any improvement or related land unless Amtrak receives a Federal operating subsidy in the fiscal year in which Amtrak commits to or initiates such improvement.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 930; Pub. L. 104–205, title III, §334, Sept. 30, 1996, 110 Stat. 2974.)
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -242,7 +248,7 @@ Feb. 5, 1976, Pub. L. 94–210, §704(c)(1), 90 Stat. 123; May 30, 1980, Pub. L.
 
 Feb. 5, 1976, Pub. L. 94–210, 90 Stat. 31, §704(c)(2); added May 30, 1980, Pub. L. 96–254, §210(2), 94 Stat. 414.
 
-24902(<i>l)</i>
+24902(<i>l</i>)
 
 45:545(h) (last sentence).
 
@@ -297,6 +303,10 @@ In subsection (k)(1), before clause (A), the words “take all steps necessary t
 The Communications Act of 1934, referred to in subsec. (d), is act June 19, 1934, ch. 652, 48 Stat. 1064, as amended, which is classified principally to chapter 5 (§151 et seq.) of Title 47, Telegraphs, Telephones, and Radiotelegraphs. For complete classification of this Act to the Code, see section 609 of Title 47 and Tables.
 
 Section 703(1)(E) of the Railroad Revitalization and Regulatory Reform Act of 1976, referred to in subsecs. (h) and (i), is section 703(1)(E) of Pub. L. 94–210, which was classified to section 853(1)(E) of Title 45, Railroads, and was repealed and reenacted as subsec. (h) of this section by Pub. L. 103–272, §§1(e), 7(b), July 5, 1994, 108 Stat. 932, 1379.
+
+#### Amendments
+
+1996—Subsec. (m). Pub. L. 104–205 added subsec. (m).
 
 #### Abolition of Interstate Commerce Commission and Transfer of Functions
 

@@ -1,6 +1,6 @@
 ### §422h. Planning and construction; transfer of funds
 
-The planning and construction of projects undertaken pursuant to this subchapter shall be subject to all procedural requirements and other provisions of the Fish and Wildlife Coordination Act (48 Stat. 401), as amended (16 U.S.C. 661 et seq.). The Secretary shall transfer to the Fish and Wildlife Service or to the National Marine Fisheries Service, out of appropriations or other funds made available under this subchapter, such funds as may be necessary to conduct the investigations required to carry out the purposes of this section.
+The planning and construction of projects undertaken pursuant to this subchapter shall be subject to all procedural requirements and other provisions of the Fish and Wildlife Coordination Act (48 Stat. 401), as amended (16 U.S.C. 661 et seq.). The Secretary shall transfer to the Fish and Wildlife Service or to the National MarineFisheries Service, out of appropriations or other funds made available under this subchapter, such funds as may be necessary to conduct the investigations required to carry out the purposes of this section.
 
 (Aug. 6, 1956, ch. 972, §8, 70 Stat. 1047; Sept. 2, 1966, Pub. L. 89–553, §1(5), 80 Stat. 377; Oct. 27, 1986, Pub. L. 99–546, title III, §308, 100 Stat. 3055.)
 

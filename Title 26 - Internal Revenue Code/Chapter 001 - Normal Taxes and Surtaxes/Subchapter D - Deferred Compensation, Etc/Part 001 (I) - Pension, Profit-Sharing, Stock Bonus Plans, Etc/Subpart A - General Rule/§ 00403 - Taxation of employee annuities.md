@@ -52,7 +52,7 @@
 
 &emsp;&emsp;(D) except in the case of a contract purchased by a church, such contract is purchased under a plan which meets the nondiscrimination requirements of paragraph (12), and
 
-&emsp;&emsp;(E) in the case of a contract purchased under a plan which provides a salary reduction agreement, the plan meets the requirements of section 401(a)(30),
+&emsp;&emsp;(E) in the case of a contract purchased under a salary reduction agreement, the contract meets the requirements of section 401(a)(30),
 
 > &emsp;then amounts contributed by such employer for such annuity contract on or after such rights become nonforfeitable shall be excluded from the gross income of the employee for the taxable year to the extent that the aggregate of such amounts does not exceed the exclusion allowance for such taxable year. The amount actually distributed to any distributee under such contract shall be taxable to the distributee (in the year in which so distributed) under section 72 (relating to annuities). For purposes of applying the rules of this subsection to amounts contributed by an employer for a taxable year, amounts transferred to a contract described in this paragraph by reason of a rollover contribution described in paragraph (8) of this subsection or section 408(d)(3)(A)(iii) shall not be considered contributed by such employer.
 
@@ -178,7 +178,7 @@
 
 #### (10) Distribution requirements
 
-&emsp;Under regulations prescribed by the Secretary, this subsection shall not apply to any annuity contract (or to any custodial account described in paragraph (7) or retirement income account described in paragraph (9)) unless requirements similar to the requirements of sections 401(a)(9) and 401(a)(31) are met (and requirements similar to the incidental death benefit requirements of section 401(a) are met) with respect to such annuity contract (or custodial account or retirement income account). Any amount transferred in an <sup>1</sup> direct trustee-to-trustee transfer in accordance with section 401(a)(31) shall not be includible in gross income for the taxable year of the transfer.
+&emsp;Under regulations prescribed by the Secretary, this subsection shall not apply to any annuity contract (or to any custodial account described in paragraph (7) or retirement income account described in paragraph (9)) unless requirements similar to the requirements of sections 401(a)(9) and 401(a)(31) are met (and requirements similar to the incidental death benefit requirements of section 401(a) are met) with respect to such annuity contract (or custodial account or retirement income account). Any amount transferred in a direct trustee-to-trustee transfer in accordance with section 401(a)(31) shall not be includible in gross income for the taxable year of the transfer.
 
 #### (11) Requirement that distributions not begin before age 591/2, separation from service, death, or disability
 
@@ -204,15 +204,19 @@
 
 #### (B) Church
 
-&emsp;&emsp;For purposes of paragraph (1)(D), the term “church” has the meaning given to such term by section 3121(w)(3)(A). Such termshall include any qualified church-controlled organization (as defined in section 3121(w)(3)(B)).
+&emsp;&emsp;For purposes of paragraph (1)(D), the term “church” has the meaning given to such term by section 3121(w)(3)(A). Such term shall include any qualified church-controlled organization (as defined in section 3121(w)(3)(B)).
 
 #### (c) Taxability of beneficiary under nonqualified annuities or under annuities purchased by exempt organizations
 
-Premiums paid by an employer for an annuity contract which is not subject to subsection (a) shall be included in the gross income of the employee in accordance with section 83 (relating to property transferred in connection with performance of services), except that the value of such contract shall be substituted for the fair market value of the property for purposes of applying such section. The preceding sentence shall not apply to that portion of the premiums paid which is excluded from gross income under subsection (b). In the case of any portion of any contract which is attributable to premiums to which this subsection applies, the amount actually paid or made available under such contract to any beneficiary which is attributable to such premiums shall be taxable to the beneficiary (in the year in which so paid or made available) under section 72 (relating to annuities).
+Premiums paid by an employer for an annuity contract which is not subject to subsection (a) shall be included in the gross income of the employee in accordance with section 83 (relating toproperty transferred in connection with performance of services), except that the value of such contract shall be substituted for the fair market value of the property for purposes of applying such section. The preceding sentence shall not apply to that portion of the premiums paid which is excluded from gross income under subsection (b). In the case of any portion of any contract which is attributable to premiums to which this subsection applies, the amount actually paid or made available under such contract to any beneficiary which is attributable to such premiums shall be taxable to the beneficiary (in the year in which so paid or made available) under section 72 (relating to annuities).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 137; Sept. 2, 1958, Pub. L. 85–866, title I, §23(a)–(c), 72 Stat. 1620–1622; Oct. 4, 1961, Pub. L. 87–370, §3(a), 75 Stat. 801; Oct. 10, 1962, Pub. L. 87–792, §4(d), 76 Stat. 825; Feb. 26, 1964, Pub. L. 88–272, title II, §232(e)(4)–(6), 78 Stat. 111; Dec. 30, 1969, Pub. L. 91–172, title III, §321(b)(2), title V, §515(a)(2), 83 Stat. 591, 644; Sept. 2, 1974, Pub. L. 93–406, title II, §§1022(e), 2002(g)(6), 2004(c)(4), 2005(b)(2), 88 Stat. 940, 969, 986, 991; Apr. 15, 1976, Pub. L. 94–267, §1(b), 90 Stat. 366; Oct. 4, 1976, Pub. L. 94–455, title XIV, §1402(b)(1)(D), (2), title XV, §1504(a), title XIX, §§1901(a)(58), (b)(8)(A), 1906(b)(13)(A), 90 Stat. 1731, 1732, 1738, 1774, 1794, 1834; Oct. 14, 1978, Pub. L. 95–458, §4(b), 92 Stat. 1259; Nov. 6, 1978, Pub. L. 95–600, title I, §§154(a), 156(a), (b), 157(g)(2), 92 Stat. 2801, 2802, 2808; Apr. 1, 1980, Pub. L. 96–222, title I, §101(a)(12), (13)(C), 94 Stat. 204; Aug. 13, 1981, Pub. L. 97–34, title III, §311(b)(3)(B), 95 Stat. 280; Sept. 3, 1982, Pub. L. 97–248, title II, §251(a), (b), (c)(3), 96 Stat. 529–531; Jan. 12, 1983, Pub. L. 97–448, title I, §103(c)(8)(B), 96 Stat. 2377; Apr. 20, 1983, Pub. L. 98–21, title I, §122(c)(4), 97 Stat. 87; July 18, 1984, Pub. L. 98–369, div. A, title IV, §491(d)(12), title V, §§521(c), 522(a)(2), (3), (d)(9)–(11), title X, §1001(b)(4), (e), 98 Stat. 849, 867, 869–871, 1011, 1012; Oct. 22, 1986, Pub. L. 99–514, title XI, §§1120(a), (b), 1122(b)(1)(B), (d), 1123(c), title XVIII, §1852(a)(3)(A), (B), (5)(B), (b)(10), 100 Stat. 2463, 2466, 2469, 2474, 2865, 2867; Nov. 10, 1988, Pub. L. 100–647, title I, §1011(c)(7)(B), (12), (m)(1), (2), title VI, §6052(a)(1), 102 Stat. 3458, 3459, 3471, 3696; Nov. 5, 1990, Pub. L. 101–508, title XI, §11701(k), 104 Stat. 1388–513; July 3, 1992, Pub. L. 102–318, title V, §§521(b)(12), (13), 522(a)(3), (c)(2), (3), 106 Stat. 311, 314, 315.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 137; Sept. 2, 1958, Pub. L. 85–866, title I, §23(a)–(c), 72 Stat. 1620–1622; Oct. 4, 1961, Pub. L. 87–370, §3(a), 75 Stat. 801; Oct. 10, 1962, Pub. L. 87–792, §4(d), 76 Stat. 825; Feb. 26, 1964, Pub. L. 88–272, title II, §232(e)(4)–(6), 78 Stat. 111; Dec. 30, 1969, Pub. L. 91–172, title III, §321(b)(2), title V, §515(a)(2), 83 Stat. 591, 644; Sept. 2, 1974, Pub. L. 93–406, title II, §§1022(e), 2002(g)(6), 2004(c)(4), 2005(b)(2), 88 Stat. 940, 969, 986, 991; Apr. 15, 1976, Pub. L. 94–267, §1(b), 90 Stat. 366; Oct. 4, 1976, Pub. L. 94–455, title XIV, §1402(b)(1)(D), (2), title XV, §1504(a), title XIX, §§1901(a)(58), (b)(8)(A), 1906(b)(13)(A), 90 Stat. 1731, 1732, 1738, 1774, 1794, 1834; Oct. 14, 1978, Pub. L. 95–458, §4(b), 92 Stat. 1259; Nov. 6, 1978, Pub. L. 95–600, title I, §§154(a), 156(a), (b), 157(g)(2), 92 Stat. 2801, 2802, 2808; Apr. 1, 1980, Pub. L. 96–222, title I, §101(a)(12), (13)(C), 94 Stat. 204; Aug. 13, 1981, Pub. L. 97–34, title III, §311(b)(3)(B), 95 Stat. 280; Sept. 3, 1982, Pub. L. 97–248, title II, §251(a), (b), (c)(3), 96 Stat. 529–531; Jan. 12, 1983, Pub. L. 97–448, title I, §103(c)(8)(B), 96 Stat. 2377; Apr. 20, 1983, Pub. L. 98–21, title I, §122(c)(4), 97 Stat. 87; July 18, 1984, Pub. L. 98–369, div. A, title IV, §491(d)(12), title V, §§521(c), 522(a)(2), (3), (d)(9)–(11), title X, §1001(b)(4), (e), 98 Stat. 849, 867, 869–871, 1011, 1012; Oct. 22, 1986, Pub. L. 99–514, title XI, §§1120(a), (b), 1122(b)(1)(B), (d), 1123(c), title XVIII, §1852(a)(3)(A), (B), (5)(B), (b)(10), 100 Stat. 2463, 2466, 2469, 2474, 2865, 2867; Nov. 10, 1988, Pub. L. 100–647, title I, §1011(c)(7)(B), (12), (m)(1), (2), title VI, §6052(a)(1), 102 Stat. 3458, 3459, 3471, 3696; Nov. 5, 1990, Pub. L. 101–508, title XI, §11701(k), 104 Stat. 1388–513; July 3, 1992, Pub. L. 102–318, title V, §§521(b)(12), (13), 522(a)(3), (c)(2), (3), 106 Stat. 311, 314, 315; Aug. 20, 1996, Pub. L. 104–188, title I, §§1450(c)(1), 1704(t)(69), 110 Stat. 1815, 1891.)
 
 #### Amendments
+
+1996—Subsec. (b)(1)(E). Pub. L. 104–188, §1450(c)(1), amended subpar. (E) generally. Prior to amendment, subpar. (E) read as follows: “in the case of a contract purchased under a plan which provides a salary reduction agreement, the plan meets the requirements of section 401(a)(30),”.
+
+Subsec. (b)(10). Pub. L. 104–188, §1704(t)(69), substituted “a direct” for “an direct” in last sentence.
 
 1992—Subsec. (a)(4)(A)(i). Pub. L. 102–318, §521(b)(12)(A), inserted before comma at end “in an eligible rollover distribution (within the meaning of section 402(c)(4))”.
 
@@ -256,7 +260,7 @@ Subsec. (a)(2). Pub. L. 99–514, §1122(b)(1)(B), struck out par. (2) which rea
 
 &emsp;“(iii) a lump sum distribution (as defined in section 402(e)(4)(A)) is paid to the recipient,
 
-> so much of the total taxable amount (as defined in section 402(e)(4)(D)) of such distribution as is equal to the product of such total taxable amount multiplied by the fraction described in section 402(a)(2) shall be treated as a gain from the sale or exchange of a capital asset held for more than 6 months. For purposes of this paragraph, in the case of an individual who is an employee without regard to section 401(c)(1), determination of whether or not any distribution is a lump sum distribution shall be made without regard to the requirement that an election be made under subsection (e)(4)(B) of section 402, but no distribution to any taxpayer other than an individual, estate, or trust may be treated as a lump sum distribution under this paragraph.
+> so much of the total taxable amount (as defined in section 402(e)(4)(D)) of such distribution as is equal to the product of such total taxable amount multiplied by the fraction described in section 402(a)(2) shall be treated as a gain from the sale or exchange of a capital asset held for more than 6 months. For purposes of this paragraph, in the case of an individual who is an employeewithout regard to section 401(c)(1), determination of whether or not any distribution is a lump sum distribution shall be made without regard to the requirement that an election be made under subsection (e)(4)(B) of section 402, but no distribution to any taxpayer other than an individual, estate, or trust may be treated as a lump sum distribution under this paragraph.
 
 “(B) Cross reference
 
@@ -376,6 +380,10 @@ Subsec. (b)(3). Pub. L. 87–370, §(3)(a)(2), substituted “the employer descr
 
 Subsecs. (b) to (d). Pub. L. 85–866, §23(a), added subsec. (b), redesignated former subsec. (b) as (c), and added subsec. (d).
 
+#### Effective Date of 1996 Amendment
+
+Section 1450(c)(2) of Pub. L. 104–188 provided that: “The amendment made by this subsection \[amending this section\] shall apply to years beginning after December 31, 1995, except a contract shall not be required to meet any change in any requirement by reason of such amendment before the 90th day after the date of the enactment of this Act \[Aug. 20, 1996\].”
+
 #### Effective Date of 1992 Amendment
 
 Amendment by section 521(b)(12), (13) of Pub. L. 102–318 applicable to distributions after Dec. 31, 1992, see section 521(e) of Pub. L. 102–318, set out as a note under section 402 of this title.
@@ -404,7 +412,7 @@ In general.—Except as provided in paragraph (2), the amendments made by this s
 
 “(2)
 
-Collective bargaining agreements.—In the case of a plan maintained pursuant to 1 or more collective bargaining agreements between employee representatives and 1 or more employers ratified before March 1, 1986, the amendments made by this section shall not apply to plan years beginning before the earlier of—
+Collective bargaining agreements.—In the case of a plan maintained pursuant to 1 or more collective bargaining agreements between employee representatives and 1 or more employers ratified beforeMarch 1, 1986, the amendments made by this section shall not apply to plan years beginning before the earlier of—
 
 &emsp;“(A) January 1, 1991, or
 
@@ -528,6 +536,38 @@ Section 23(g) of Pub. L. 85–866 provided that: “The amendments made by subse
 
 Secretary of the Treasury or his delegate to issue before Feb. 1, 1988, final regulations to carry out amendments made by section 1120 of Pub. L. 99–514, see section 1141 of Pub. L. 99–514, set out as a note under section 401 of this title.
 
+#### Modifications of Subsection (b) of This Section
+
+Section 1450(a), (b) of Pub. L. 104–188 provided that:
+
+“(a)
+
+Multiple Salary Reduction Agreements Permitted.—
+
+&emsp;“(1)
+
+General rule.—For purposes of section 403(b) of the Internal Revenue Code of 1986, the frequency that an employee is permitted to enter into a salary reduction agreement, the salary to which such an agreement may apply, and the ability to revoke such an agreement shall be determined under the rules applicable to cash or deferred elections under section 401(k) of such Code.
+
+&emsp;“(2)
+
+Constructive receipt.—\[Amended section 402 of this title.\]
+
+&emsp;“(3)
+
+Effective date.—This subsection shall apply to taxable years beginning after December 31, 1995.
+
+“(b)
+
+Treatment of Indian Tribal Governments.—
+
+&emsp;“(1)
+
+In general.—In the case of any contract purchased in a plan year beginning before January 1, 1995, section 403(b) of the Internal Revenue Code of 1986 shall be applied as if any reference to an employer described in section 501(c)(3) of the Internal Revenue Code of 1986 which is exempt from tax under section 501 of such Code included a reference to an employer which is an Indian tribal government (as defined by section 7701(a)(40) of such Code), a subdivision of an Indian tribal government (determined in accordance with section 7871(d) of such Code), an agency or instrumentality of an Indian tribal government or subdivision thereof, or a corporation chartered under Federal, State, or tribal law which is owned in whole or in part by any of the foregoing.
+
+&emsp;“(2)
+
+Rollovers.—Solely for purposes of applying section 403(b)(8) of such Code to a contract to which paragraph (1) applies, a qualified cash or deferred arrangement under section 401(k) of such Code shall be treated as if it were a plan or contract described in clause (ii) of section 403(b)(8)(A) of such Code.”
+
 #### Sampling To Determine Whether Plan Meets Subsection (b)(12) Requirements
 
 Section 6052(b) of Pub. L. 100–647 provided that: “In the case of plan years beginning in 1989, 1990, or 1991, determinations as to whether a plan meets the requirements of section 403(b)(12) of the 1986 Code may be made on the basis of a statistically valid random sample. The preceding sentence shall apply only if—
@@ -535,6 +575,10 @@ Section 6052(b) of Pub. L. 100–647 provided that: “In the case of plan years
 &emsp;“(1) the sampling is conducted by an independent person in a manner not inconsistent with regulations prescribed by the Secretary, and
 
 &emsp;“(2) the statistical method and sample size result in a 95 percent probability that the results will have a margin of error not greater than 3 percent.”
+
+#### Plan Amendments Not Required Until January 1, 1998
+
+For provisions directing that if any amendments made by subtitle D \[§§1401–1465\] of title I of Pub. L. 104–188 require an amendment to any plan or annuity contract, such amendment shall not be required to be made before the first day of the first plan year beginning on or after Jan. 1, 1998, see section 1465 of Pub. L. 104–188, set out as a note under section 401 of this title.
 
 #### Plan Amendments Not Required Until January 1, 1994
 
@@ -566,7 +610,5 @@ Limitation on retirement income inapplicable to any amount excluded under this s
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 72, 101, 104, 219, 280G, 401, 402, 404, 406, 407, 408, 412, 414, 415, 457, 818, 871, 911, 3121, 3306, 3401, 3405, 4972, 4973, 4974, 4975, 4979, 4980, 4980A, 6047, 6104, 7476, 7871 of this title; title 4 section 114; title 11 section 522; title 12 section 1831f; title 15 sections 77c, 78c; title 28 section 3010; title 29 sections 1103, 1132, 1344; title 42 section 409.
-
-<i><sup>1</sup></i><i> So in original. Probably should be “a”.</i>
+This section is referred to in sections 72, 104, 219, 280G, 401, 402, 404, 406, 407, 408, 412, 414, 415, 457, 818, 871, 911, 3121, 3306, 3401, 3405, 4972, 4973, 4974, 4975, 4979, 4980, 4980A, 6047, 6104, 7476, 7871 of this title; title 4 section 114; title 11 section 522; title 12 section 1831f; title 15 sections 77c, 78c; title 28 section 3010; title 29 sections 1103, 1132, 1344; title 42 section 409.
 

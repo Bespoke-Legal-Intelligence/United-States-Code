@@ -52,7 +52,7 @@ The Secretary shall develop and maintain statistical data relating to permanent 
 
 &emsp;(E) the identification of farm family members, including spouses, and farm workers working the equivalent of a full-time job on the farm who are dislocated by such farm and ranch failures.
 
-(2) The Secretary shall publish a report based upon such data as soon as practicable after the end of each calendar year. Such report shall include a comparison of data contained therein with data currently used by the Bureau of Labor Statistics in determining the Nation's annual employment and unemployment rates and an analysis of whether farmers and ranchers are being adequately counted in such employmentstatistics. Such report shall also include an analysis of alternative methods for reducing the adverse effects of displacements of farmers and ranchers, not only on the individual farmer or rancher, but on the surrounding community.
+(2) The Secretary shall publish a report based upon such data as soon as practicable after the end of each calendar year. Such report shall include a comparison of data contained therein with data currently used by the Bureau of Labor Statistics in determining the Nation's annual employment and unemployment rates and an analysis of whether farmers and ranchers are being adequately counted in such employment statistics. Such report shall also include an analysis of alternative methods for reducing the adverse effects of displacements of farmers and ranchers, not only on the individual farmer or rancher, but on the surrounding community.
 
 #### (g) Nationwide database on quarterly earnings, industry affiliation, and geographic location of employment of individuals
 

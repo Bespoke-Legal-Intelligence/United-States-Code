@@ -100,7 +100,7 @@ The Maritime Administration shall dispose of surplus vessels of one thousand fiv
 
 &emsp;(A) to any public agency for use in carrying out or promoting for the residents of a given political area one or more public purposes, such as conservation, economic development, education, parks and recreation, public health, and public safety; or
 
-&emsp;(B) to nonprofit educational or public health institutions or organizations, such as medical institutions, hospitals, clinics, health centers, drug abuse treatment centers, providers of assistance to homeless individuals <sup>2</sup> schools, colleges, universities, schools for the mentally retarded, schools for the physically handicapped, child care centers, radio and television stations licensed by the Federal Communications Commission as educational radio or educational television stations, museums attended by the public, and libraries serving freeall residents of a community, district, State, or region, which are exempt from taxation under section 501 of title 26, for purposes of education or public health (including research for any such purpose).
+&emsp;(B) to nonprofit educational or public health institutions or organizations, such as medical institutions, hospitals, clinics, health centers, drug abuse treatment centers, providers of assistance to homeless individuals <sup>2</sup> schools, colleges, universities, schools for the mentally retarded, schools for the physically handicapped, child care centers, radio and television stations licensed by the Federal Communications Commission as educational radio or educational television stations, museums attended by the public, and libraries serving free all residents of a community, district, State, or region, which are exempt from taxation under section 501 of title 26, for purposes of education or public health (including research for any such purpose).
 
 > The Administrator, in allocating and transferring property under this paragraph, shall give fair consideration, consistently with the established criteria, to expressions of need and interest on the part of public agencies and other eligible institutions within that State, and shall give special consideration to requests by eligible recipients, transmitted through the State agency, for specific items of property.
 
@@ -108,7 +108,7 @@ The Maritime Administration shall dispose of surplus vessels of one thousand fiv
 
 (B) The State plan shall provide for the fair and equitable distribution of property within such State based on the relative needs and resources of interested public agencies and other eligible institutions within the State and their abilities to utilize the property.
 
-(C)(i) The State plan of operation shall require the State agency to utilize a management control system and accounting system for donable property transferred under this section of the same types as are required by State law for State-owned property, except that the State agency, with the approval of the chief executive officer of the State, may elect, in lieu of such systems, to utilize such other management control and accounting systems as are effective to govern the utilization, inventory control, accountability, and disposal of property under this subsection.
+(C)(i) The State plan of operation shall require the State agency to utilize a management control system and accounting system for donable property transferred under this section of the same types as are required by State law for State-owned property, except that the State agency, with the approval of the chief executiveofficer of the State, may elect, in lieu of such systems, to utilize such other management control and accounting systems as are effective to govern the utilization, inventory control, accountability, and disposal of property under this subsection.
 
 (ii) The State plan of operation shall require the State agency to provide for the return of donable property for further distribution if such property, while still usable, has not been placed in use for the purpose for which it was donated within one year of donation or ceases to be used by the donee for such purposes within one year of being placed in use.
 
@@ -156,7 +156,7 @@ The Maritime Administration shall dispose of surplus vessels of one thousand fiv
 
 (3) Without monetary consideration to the United States, the Administrator may convey to any State, political subdivision, instrumentalities thereof, or municipality, all of the right, title, and interest of the United States in and to any surplus real and related personal property which the Secretary of the Interior has determined is suitable and desirable for use as a historic monument, for the benefit of the public. No property shall be determined to be suitable or desirable for use as a historic monument except in conformity with the recommendation of the Advisory Board on National Parks, Historic Sites, Buildings and Monuments established by section 463 of title 16, and only so much of any such property shall be so determined to be suitable or desirable for which such use as is necessary for the preservation and proper observation of its historic features.
 
-(A) The Administrator may authorize use of any property conveyed under this subsection or the Surplus Property Act of 1944, as amended, for revenue-producing activities if the Secretary of the Interior (i) determines that such activities are compatible with use of the property for historic monument purposes, (ii) approves the grantee's plan for repair, rehabilitation, restoration, and maintenance of the property, and (iii) approves the grantee's plan for financing repair,rehabilitation, restoration, and maintenance of the property. The Secretary shall not approve a financial plan unless it provides that incomes in excess of costs of repair, rehabilitation, restoration, and maintenance shall be used by the grantee only for public historic preservation, park, or recreational purposes. The Administrator may not authorize any uses under this subsection until the Secretary has examined and approved the accounting and financial procedures used by the grantee. The Secretary may periodically audit the records of the grantee, directly related to the property conveyed.
+(A) The Administrator may authorize use of any property conveyed under this subsection or the Surplus Property Act of 1944, as amended, for revenue-producing activities if the Secretary of the Interior (i) determines that such activities are compatible with use of the property for historic monument purposes, (ii) approves the grantee's plan for repair, rehabilitation, restoration, and maintenance of the property, and (iii) approves the grantee's plan for financing repair, rehabilitation, restoration, and maintenance of the property. The Secretary shall not approve a financial plan unless it provides that incomes in excess of costs of repair, rehabilitation, restoration, and maintenance shall be used by the grantee only for public historic preservation, park, or recreational purposes. The Administrator may not authorize any uses under this subsection until the Secretary has examined and approved the accounting and financial procedures used by the grantee. The Secretary may periodically audit the records of the grantee, directly related to the property conveyed.
 
 (B) The deed of conveyance of any surplus real property disposed of under the provisions of this subsection—
 
@@ -204,7 +204,7 @@ For the purpose of carrying into effect the provisions of subsection (j) of this
 
 #### (<i>o</i>) Biennial reports to Congress by Administrator; copies to Comptroller General
 
-(1) Six months after the end of the first full fiscal year after November 5, 1988, and biennially thereafter, the Administrator shall transmit a report to the Congress that covers the initial period from November 5, 1988, and each succeeding biennial period and contains—
+(1) Six months after the end of the first full fiscal year after November 5, 1988, and bienniallythereafter, the Administrator shall transmit a report to the Congress that covers the initial period from November 5, 1988, and each succeeding biennial period and contains—
 
 &emsp;(A) a full and independent evaluation of the operation of programs for the donation of Federal surplus personal property,
 
@@ -226,7 +226,7 @@ For the purpose of carrying into effect the provisions of subsection (j) of this
 
 (3) With respect to surplus real and related personal property conveyed pursuant to this subsection, the Administrator is authorized and directed—
 
-&emsp;(A) to determine and enforce compliance with the terms, conditions, reservations, andrestrictions contained in any instrument by which such transfer was made;
+&emsp;(A) to determine and enforce compliance with the terms, conditions, reservations, and restrictions contained in any instrument by which such transfer was made;
 
 &emsp;(B) to reform, correct, or amend any such instrument by the execution of a corrective reformative or amendatory instrument where necessary to correct such instrument or to conform such transfer to the requirements of applicable law; and
 
@@ -268,7 +268,7 @@ For the purpose of carrying into effect the provisions of subsection (j) of this
 
 &emsp;(C) Section 2687 of title 10, United States Code.
 
-(June 30, 1949, ch. 288, title II, §203, 63 Stat. 385; Aug. 10, 1949, ch. 412, §12(a), (g), 63 Stat. 591; Sept. 5, 1950, ch. 849, §4, 64 Stat. 579; July 12, 1952, ch. 703, §1(i), (j), 66 Stat. 593; Aug. 8, 1953,ch. 399, 67 Stat. 521; July 14, 1954, ch. 481, 68 Stat. 474; June 3, 1955, ch. 130, §§1, 2(a), 3, 5, 6, 69 Stat. 83, 84; Aug. 1, 1955, ch. 442, 69 Stat. 430; July 3, 1956, ch. 513, §§1–3, 70 Stat. 493, 494; Aug. 3, 1956, ch. 942, 70 Stat. 1020; July 2, 1958, Pub. L. 85–486, 72 Stat. 288; July 20, 1961, Pub. L. 87–94, 75 Stat. 213; Oct. 10, 1962, Pub. L. 87–786, 76 Stat. 805; Nov. 8, 1965, Pub. L. 89–348, §2(4), 79 Stat. 1312; Oct. 22, 1970, Pub. L. 91–485, §§2–4, 84 Stat. 1084, 1085; Aug. 4, 1972, Pub. L. 92–362, §1, 86 Stat. 503; Pub. L. 90–351, title I, §525, as added Aug. 6, 1973, Pub. L. 93–83, §2, 87 Stat. 216; Oct. 17, 1976, Pub. L. 94–519, §1, 90 Stat. 2451; Oct. 17, 1979, Pub. L. 96–88, title III, §301(a)(2)(P), (b), title V, §§507, 509(b), 93 Stat. 678, 692, 695; Aug. 6, 1981, Pub. L. 97–31, §12(15), 95 Stat. 154; Oct. 12, 1984, Pub. L. 98–473, title II, §§701, 702, 98 Stat. 2129, 2130; Aug. 22, 1986, Pub. L. 99–386, title II, §§201, 207, 100 Stat. 822, 823; Oct. 22, 1986, Pub. L. 99–514, §2, 100 Stat. 2095; July 22, 1987, Pub. L. 100–77, title V, §502(a), 101 Stat. 510; Nov. 5, 1988, Pub. L. 100–612, §§3–5, 102 Stat. 3180, 3181; Nov. 18, 1988, Pub. L. 100–690, title II, §2081(b), 102 Stat. 4216; Sept. 21, 1993, Pub. L. 103–82, title II, §202(f), 107 Stat. 888; Nov. 30, 1993, Pub. L. 103–160, div. B, title XXIX, §2927, 107 Stat. 1932; Dec. 21, 1995, Pub. L. 104–66, title II, §2091(a), 109 Stat. 730.)
+(June 30, 1949, ch. 288, title II, §203, 63 Stat. 385; Aug. 10, 1949, ch. 412, §12(a), (g), 63 Stat. 591; Sept. 5, 1950, ch. 849, §4, 64 Stat. 579; July 12, 1952, ch. 703, §1(i), (j), 66 Stat. 593; Aug. 8, 1953, ch. 399, 67 Stat. 521; July 14, 1954, ch. 481, 68 Stat. 474; June 3, 1955, ch. 130, §§1, 2(a), 3, 5, 6, 69 Stat. 83, 84; Aug. 1, 1955, ch. 442, 69 Stat. 430; July 3, 1956, ch. 513, §§1–3, 70 Stat. 493, 494; Aug. 3, 1956, ch. 942, 70 Stat. 1020; July 2, 1958, Pub. L. 85–486, 72 Stat. 288; July 20, 1961, Pub. L. 87–94, 75 Stat. 213; Oct. 10, 1962, Pub. L. 87–786, 76 Stat. 805; Nov. 8, 1965, Pub. L. 89–348, §2(4), 79 Stat. 1312; Oct. 22, 1970, Pub. L. 91–485, §§2–4, 84 Stat. 1084, 1085; Aug. 4, 1972, Pub. L. 92–362, §1, 86 Stat. 503; Pub. L. 90–351, title I, §525, as added Aug. 6, 1973, Pub. L. 93–83, §2, 87 Stat. 216; Oct. 17, 1976, Pub. L. 94–519, §1, 90 Stat. 2451; Oct. 17, 1979, Pub. L. 96–88, title III, §301(a)(2)(P), (b), title V, §§507, 509(b), 93 Stat. 678, 692, 695; Aug. 6, 1981, Pub. L. 97–31, §12(15), 95 Stat. 154; Oct. 12, 1984, Pub. L. 98–473, title II, §§701, 702, 98 Stat. 2129, 2130; Aug. 22, 1986, Pub. L. 99–386, title II, §§201, 207, 100 Stat. 822, 823; Oct. 22, 1986, Pub. L. 99–514, §2, 100 Stat. 2095; July 22, 1987, Pub. L. 100–77, title V, §502(a), 101 Stat. 510; Nov. 5, 1988, Pub. L. 100–612, §§3–5, 102 Stat. 3180, 3181; Nov. 18, 1988, Pub. L. 100–690, title II, §2081(b), 102 Stat. 4216; Sept. 21, 1993, Pub. L. 103–82, title II, §202(f), 107 Stat. 888; Nov. 30, 1993, Pub. L. 103–160, div. B, title XXIX, §2927, 107 Stat. 1932; Dec. 21, 1995, Pub. L. 104–66, title II, §2091(a), 109 Stat. 730.)
 
 #### References in Text
 
@@ -284,7 +284,7 @@ The National and Community Service Act of 1990, referred to in subsec. (k)(5)(B)
 
 In subsec. (k)(1)(A), (B), “section 501(c)(3) of title 26” substituted for “section 101(6) of title 26” on authority of section 7852(b) of Title 26, Internal Revenue Code, which provides that a reference in other laws to the Internal Revenue Code of 1939 is deemed a reference to the corresponding provision of the Internal Revenue Code of 1986.
 
-November 5, 1988, referred to in subsec. (<i>o</i>)(1), was in the original “the date of enactment of this paragraph and such effective date”, which was translated as meaning the date of enactment of Pub. L. 100–612, which amended subsec. (<i>o</i>) generally, to reflect the probable intent of Congress.
+November 5, 1988, referred to in subsec. (<i>o</i>)(1), was in the original “the date of enactment of this paragraph and such effective date”, which was translated asmeaning the date of enactment of Pub. L. 100–612, which amended subsec. (<i>o</i>) generally, to reflect the probable intent of Congress.
 
 Section was formerly classified to section 233 of Title 41, Public Contracts.
 
@@ -314,7 +314,7 @@ Subsec. (<i>o</i>). Pub. L. 100–612, §5, amended subsec. (<i>o</i>) generally
 
 Subsec. (j)(4)(E). Pub. L. 99–386, §207, substituted “$5,000” for “$3,000”.
 
-Subsec. (<i>o</i>). Pub. L. 99–386, §201, substituted “with respect to property disposed of under subsection (j) or (p) of this section” for “with respect to personal property donated under subsection (j) of this section and with respect to real and related personal property transferred or conveyanced under subsection (p) of this section”, “disposing of property under subsection (k) of this section, or under section 13(d) or 13(g) of the Surplus Property Act of 1944 (50 U.S.C. App. 1622(d) or (g)), shall submit” for “disposing of real property under subsection (k) of this section, shall submit”, “cost of all property”for “cost of all personal property so donated and of all real property”, and “show disposals of” for “show donations and transfers of”.
+Subsec. (<i>o</i>). Pub. L. 99–386, §201, substituted “with respect to property disposed of under subsection (j) or (p) of this section” for “with respect to personal property donated under subsection (j) of this section and with respect to real and related personal property transferred or conveyanced under subsection (p) of this section”, “disposing of property under subsection (k) of this section, or under section 13(d) or 13(g) of the Surplus Property Act of 1944 (50 U.S.C. App. 1622(d) or (g)), shall submit” for “disposing of real property under subsection (k) of this section, shall submit”, “cost of all property” for “cost of all personal property so donated and of all real property”, and “show disposals of” for “show donations and transfers of”.
 
 1984—Subsec. (<i>o</i>). Pub. L. 98–473, §702, amended first sentence generally, inserting provisions requiring Administrator to make an annual report to Congress on total acquisition value of all personal and real property transferred pursuant to subsection (p) of this section.
 
@@ -340,7 +340,7 @@ Subsec. (n). Pub. L. 91–485, §3, substituted “(k)(1)” for (k) in first se
 
 Subsec. (<i>o</i>). Pub. L. 91–485, §4, substituted reference to fiscal year for reference to calendar quarter and struck out reference to distribution to educational or public health institutions in each State, Territory and possession and the requirement that the first report be submitted during the first calendar quarter beginning after the enactment of the subsection.
 
-1965—Subsec. (<i>o</i>). Pub. L. 89–348 required the Secretary of Health, Education, and Welfare to report semiannually instead of quarterly to the Senate and the House of Representatives with respect to personal property donations to State surplus property agencies and real property disposals to public health and educational institutions.
+1965—Subsec. (<i>o</i>). Pub. L. 89–348 required the Secretary of Health, Education, and Welfare to report semiannually instead of quarterly to the Senate andthe House of Representatives with respect to personal property donations to State surplus property agencies and real property disposals to public health and educational institutions.
 
 1962—Subsec. (j)(3), (7). Pub. L. 87–786 inserted provisions in par. (3) authorizing distribution to schools for the mentally retarded, schools for the physically handicapped, radio and television stations licensed by the Federal Communications Commission as educational radio or educational television stations, and to public libraries, and added par. (7).
 
@@ -378,11 +378,11 @@ Subsec. (m). Act Aug. 1, 1955, redesignated subsec. (<i>l</i>) as (m). Former su
 
 Act June 3, 1955, §3, added subsec. (m).
 
-Subsec. (n). Act Aug. 1, 1955, redesignated subsec. (m) as (n). Former subsec. (n) redesignated (<i>o).</i>
+Subsec. (n). Act Aug. 1, 1955, redesignated subsec. (m) as (n). Former subsec. (n) redesignated (<i>o</i>).
 
 Act June 3, 1955, §5, added subsec. (n).
 
-Subsec. (<i>o</i>). Act Aug. 1, 1955, redesignated subsec. (n) as (<i>o).</i>
+Subsec. (<i>o</i>). Act Aug. 1, 1955, redesignated subsec. (n) as (<i>o</i>).
 
 1954—Subsec. (e). Act July 14, 1954, substituted “June 30, 1955” for “June 30, 1954”.
 
@@ -445,6 +445,62 @@ Section 4 of act June 3, 1955, provided that:
 “(a) In the case of personal property donated or sold at a discount for educational, public health or memorial purposes, including research, under any provision of law enacted prior to the enactment of the Federal Property and Administrative Services Act of 1949 \[see Short Title note set out under section 471 of this title\], no term, condition, reservation, or restriction imposed on the use of such property shall remain in effect after the date of the enactment of this Act \[June 3, 1955\]. This subsection shall not be deemed to terminate any civil or criminal liability arising out of a violation of such a term, condition, reservation, or restriction which occurred prior to the enactment of this Act, if a judicial proceeding to enforce such liability is pending at the time of, or commenced within one year after the enactment of this Act.
 
 “(b) No term, condition, reservation, or restriction imposed upon the use of any single item of property donated under section 203(j) of the Federal Property and Administrative Services Act of 1949 \[subsec. (j) of this section\] prior to the enactment of this Act \[June 3, 1955\] which has an acquisition cost of less than $2,500 shall remain in effect after the expiration of the one-year period which begins on the date of the enactment of this Act \[June 3, 1955\]. This subsection shall not be deemed to terminate any civil or criminal liability arising out of a violation of such a term, condition, reservation, or restriction if (1) such violation occurred prior to the expiration of such one-year period and (2) a judicial proceeding to enforce such liability is pending at the time of enactment of this Act or is commenced not later than one year after the expiration of such one-year period.”
+
+#### Ex. Ord. No. 12999. Educational Technology: Ensuring Opportunity for All Children in the Next Century
+
+Ex. Ord. No. 12999, Apr. 17, 1996, 61 F.R. 17227, provided:
+
+In order to ensure that American children have the skills they need to succeed in the information-intensive 21st century, the Federal Government is committed to working with the private sector to promote four major developments in American education: making modern computer technology an integral part of every classroom; providing teachers with the professional development they need to use new technologies effectively; connecting classrooms to the National Information Infrastructure; and encouraging the creation of excellent educational software. This Executive order streamlines the transfer of excess and surplus Federal computer equipment to our Nation's classrooms and encourages Federal employees to volunteer their time and expertise to assist teachers and to connect classrooms.
+
+Accordingly, by the authority vested in me as President by the Constitution and the laws of the United States of America, including the provisions of the Stevenson-Wydler Technology Innovation Act of 1980, as amended (15 U.S.C. 3701 <i>et seq.</i>), the Federal Property and Administrative Services Act of 1949, ch. 288, 63 Stat. 377 \[see Short Title note set out under section 471 of this title\], and the National Defense Authorization Act for Fiscal Year 1996, Public Law 104–106 \[see Tables for classification\], it is hereby ordered as follows:
+
+Section 1. <i>Protection of Educationally Useful Federal Equipment</i>. (a) Educationally useful Federal equipment is a vital national resource. To the extent such equipment can be used as is, separated into parts for other computers, or upgraded—either by professional technicians, students, or other recycling efforts—educationally useful Federal equipment is a valuable tool for computer education. Therefore, to the extent possible, all executive departments and agencies (hereinafter referred to as “agencies”) shall protect and safeguard such equipment, particularly when declared excess or surplus, so that it may be recycled and transferred, if appropriate, pursuant to this order.
+
+Sec. 2. <i>Efficient Transfer of Educationally Useful Federal Equipment to Schools and Nonprofit Organizations</i>. (a) To the extent permitted by law, all agencies shall give highest preference to schools and nonprofit organizations, including community-based educational organizations, (“schools and nonprofit organizations”) in the transfer, through gift or donation, of educationally useful Federal equipment.
+
+(b) Agencies shall attempt to give particular preference to schools and nonprofit organizations located in the Federal enterprise communities and empowerment zones established in the Omnibus Reconciliation Act of 1993, Public Law 103–66 \[see 26 U.S.C. 1391 et seq.\].
+
+(c) Each agency shall, to the extent permitted by law and where appropriate, identify educationally useful Federal equipment that it no longer needs and transfer it to a school or nonprofit organization by:
+
+(1) conveying research equipment directly to the school or organization pursuant to 15 U.S.C. 3710(i); or
+
+(2) reporting excess equipment to the General Services Administration (GSA) for donation when declared surplus in accordance with section 203(j) of the Federal Property and Administrative Services Act of 1949, as amended, 40 U.S.C. 484(j). Agencies shall report such equipment as far as possible in advance of the date the equipment becomes excess, so that GSA may attempt to arrange direct transfers from the donating agency to recipients eligible under this order.
+
+(d) In transfers made pursuant to paragraph (c)(1) of this section, title shall transfer directly from the agency to the schools or nonprofit organizations as required by 15 U.S.C. 3710(i). All such transfers shall be reported to the GSA. At the direction of the recipient institution or organization, and if appropriate, transferred equipment may be conveyed initially to a nonprofit reuse or recycling program that will upgrade it before transfer to the school or nonprofit organization holding title.
+
+(e) All transfers to schools or nonprofit organizations, whether made directly or through GSA, shall be made at the lowest cost to the school or nonprofit organization permitted by law.
+
+(f) The availability of educationally useful Federal equipment shall be made known to eligible recipients under this order by all practicable means, including newspaper, community announcements, and the Internet.
+
+(g) The regional Federal Executive Boards shall help facilitate the transfer of educationally useful Federal equipment from the agencies they represent to recipients eligible under this order.
+
+Sec. 3. <i>Assisting Teachers’ Professional Development: Connecting Classrooms</i>. (a) Each agency that has employees who have computer expertise shall, to the extent permitted by law and in accordance with the guidelines of the Office of Personnel Management, encourage those employees to:
+
+(1) help connect America's classrooms to the National Information Infrastructure;
+
+(2) assist teachers in learning to use computers to teach; and
+
+(3) provide ongoing maintenance of and technical support for the educationally useful Federal equipment transferred pursuant to this order.
+
+(b) Each agency described in subsection (a) shall submit to the Office of Science and Technology Policy, within 6 months of the date of this order, an implementation plan to advance the developments described in this order, particularly those required in this section. The plan shall be consistent with approved agency budget totals and shall be coordinated through the Office of Science and Technology Policy.
+
+(c) Nothing in this order shall be interpreted to bar a recipient of educationally useful Federal equipment from lending that equipment, whether on a permanent or temporary basis, to a teacher, administrator, student, employee, or other designated person in furtherance of educational goals.
+
+Sec. 4. <i>Definitions</i>. For the purposes of this order: (a) “Schools” means individual public or private education institutions encompassing prekindergarten through twelfth grade, as well as public school districts.
+
+(b) “Community-based educational organizations” means nonprofit entities that are engaged in collaborative projects with schools or that have education as their primary focus. Such organizations shall qualify as nonprofit educational institutions or organizations for purposes of section 203(j) of the Federal Property and Administrative Services Act of 1949, as amended.
+
+(c) “Educationally useful Federal equipment” means computers and related peripheral tools (e.g., printers, modems, routers, and servers), including telecommunications and research equipment, that are appropriate for use in prekindergarten, elementary, middle, or secondary school education. It shall also include computer software, where the transfer of licenses is permitted.
+
+(d) “Nonprofit reuse or recycling program” means a 501(c) organization able to upgrade computer equipment at no or low cost to the school or nonprofit organization taking title to it.
+
+(e) “Federal Executive Boards,” as defined in 5 C.F.R. Part 960, are regional organizations of each Federal agency's highest local officials.
+
+Sec. 5. This order shall supersede Executive Order No. 12821 of November 16, 1992.
+
+Sec. 6. <i>Judicial Review</i>. This order is not intended, and should not be construed, to create any right or benefit, substantive or procedural, enforceable at law by a party against the United States, its agencies, its officers, or its employees.
+
+William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Cross References
 

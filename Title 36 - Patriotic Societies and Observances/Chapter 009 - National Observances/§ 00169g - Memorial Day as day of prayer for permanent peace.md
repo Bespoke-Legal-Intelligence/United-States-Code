@@ -4,3 +4,7 @@ The President is authorized and requested to issue a proclamation calling upon t
 
 (May 11, 1950, ch. 182, 64 Stat. 158.)
 
+#### References in Laws of the United States to Observances of Legal Public Holidays
+
+Reference to “May 30, Memorial Day” in text, considered reference to the day for the observance of such holiday prescribed in section 6103(a) of Title 5, Government Organization and Employees (the last Monday in May), see section 1(b) of Pub. L. 90–363, set out as a note under section 6103 of Title 5.
+

@@ -1,6 +1,6 @@
 ### §825u. Interest rate on power bonds held by Administrator of General Services
 
-The Administrator of General Services or his successor in interest is authorized to reduce therate of interest to 21/2 per centum on all power bonds held by such Agency issued by States, public authorities, counties, municipalities, and other subdivisions of State governments for power projects financed by the Public Works Administration.
+The Administrator of General Services or his successor in interest is authorized to reduce the rate of interest to 21/2 per centum on all power bonds held by such Agency issued by States, public authorities, counties, municipalities, and other subdivisions of State governments for power projects financed by the Public Works Administration.
 
 (July 31, 1946, ch. 710, §6, 60 Stat. 744; June 30, 1949, ch. 288, title I, §103(a), 63 Stat. 380.)
 

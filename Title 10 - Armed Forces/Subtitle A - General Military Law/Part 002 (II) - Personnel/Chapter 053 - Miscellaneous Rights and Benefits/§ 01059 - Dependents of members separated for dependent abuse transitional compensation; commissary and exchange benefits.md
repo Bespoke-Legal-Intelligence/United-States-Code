@@ -2,7 +2,7 @@
 
 (a)
 
-Authority To Pay Compensation.—The Secretary of Defense, with respect to the armed forces (other than the Coast Guard when it is not operating as a service in the Navy), and the Secretary of Transportation, with respect to the Coast Guard when it is not operating as a service in the Navy, may each establish a program to pay monthly transitional compensation in accordance with this section to dependents or former dependents of a member of the armed forces described in subsection (b).
+Authority To Pay Compensation.—The Secretary of Defense, with respect to the armed forces (other than the Coast Guard when it is not operating as a service in the Navy), and the Secretary of Transportation, with respect to the Coast Guard when it is not operating as a service in the Navy, may each establish a program to pay monthly transitional compensation in accordance with this section to dependents or former dependents of a member of the armed forces described in subsection (b). Upon establishment of such a program, the program shall apply in the case of each such member described in subsection (b) who is under the jurisdiction of the Secretary establishing the program.
 
 (b)
 
@@ -22,25 +22,25 @@ Dependent-Abuse Offenses.—For purposes of this section, a dependent-abuse offe
 
 &emsp;(1) that involves abuse of the spouse or a dependent child of the member; and
 
-&emsp;(2) that is a criminal offense specified in regulations prescribed by the Secretary of Defense under subsection (j).<sup>1</sup>
+&emsp;(2) that is a criminal offense specified in regulations prescribed by the Secretary of Defense under subsection (k).
 
 (d)
 
-Recipients of Payments.—In any case of a separation from active duty as described in subsection (b), the Secretary shall pay such compensation to dependents or former dependents of the former member as follows:
+Recipients of Payments.—In the case of any individual described in subsection (b), the Secretary shall pay such compensation to dependents or former dependents of the individual as follows:
 
-&emsp;(1) If the former member was married at the time of the commission of the dependent-abuse offense resulting in the separation, such compensation shall (except as otherwise provided in this subsection) be paid to the spouse or former spouse to whom the member was married at that time.
+&emsp;(1) If the individual was married at the time of the commission of the dependent-abuse offense resulting in the separation, such compensation shall (except as otherwise provided in this subsection) be paid to the spouse or former spouse to whom the individual was married at that time.
 
-&emsp;(2) If there is a spouse or former spouse who (but for subsection (g)) would be eligible for compensation under this section and if there is a dependent child of the former member who does not reside in the same household as that spouse or former spouse, such compensation shall be paid to each such dependent child of the former member who does not reside in that household.
+&emsp;(2) If there is a spouse or former spouse who (but for subsection (g)) would be eligible for compensation under this section and if there is a dependent child of the individual described in subsection (b) who does not reside in the same household as that spouse or former spouse, such compensation shall be paid to each such dependent child of the individual described in subsection (b) who does not reside in that household.
 
-&emsp;(3) If there is no spouse or former spouse who is (or but for subsection (g) would be) eligible under paragraph (1), such compensation shall be paid to the dependent children of the former member.
+&emsp;(3) If there is no spouse or former spouse who is (or but for subsection (g) would be) eligible under paragraph (1), such compensation shall be paid to the dependent children of the individual described in subsection (b).
 
-&emsp;(4) For purposes of paragraphs (2) and (3), an individual's status as a “dependent child” shall be determined as of the date on which the member is convicted of the dependent-abuse offense or, in a case described in subsection (b)(2), as of the date on which the member is separated from active duty.
+&emsp;(4) For purposes of paragraphs (2) and (3), an individual's status as a “dependent child” shall be determined as of the date on which the individual described in subsection (b) is convicted of the dependent-abuse offense or, in a case described in subsection (b)(2), as of the date on which the individual described in subsection (b) is separated from active duty.
 
 (e)
 
 Commencement and Duration of Payment.—(1) Payment of transitional compensation under this section—
 
-&emsp;(A) in the case of a member convicted by a court-martial for a dependent-abuse offense, shall commence as of the date of the approval of the court-martial sentence by the person acting under section 860(c) of this title (article 60(c) of the Uniform Code of Military Justice) if the sentence, as approved, includes a dismissal, dishonorable discharge, bad conduct discharge, or forfeiture of all pay and allowances; and
+&emsp;(A) in the case of a member convicted by a court-martial for a dependent-abuse offense,shall commence as of the date of the approval of the court-martial sentence by the person acting under section 860(c) of this title (article 60(c) of the Uniform Code of Military Justice) if the sentence, as approved, includes a dismissal, dishonorable discharge, bad conduct discharge, or forfeiture of all pay and allowances; and
 
 &emsp;(B) in the case of a member being considered under applicable regulations for administrative separation from active duty in accordance with such regulations (if the basis for the separation includes a dependent-abuse offense), shall commence as of the date on which the separation action is initiated by a commander of the member pursuant to such regulations, as determined by the Secretary concerned.
 
@@ -70,7 +70,7 @@ Spouse and Former Spouse Forfeiture Provisions.—(1) If a former spouse receivi
 
 (2) If after a punitive or other adverse action is executed in the case of a former member as described in subsection (b) the former member resides in the same household as the spouse or former spouse, or dependent child, to whom compensation is otherwise payable under this section, the Secretary shall terminate payment of such compensation, effective as of the time the former member begins residing in such household. Compensation paid for a period after the former member's separation, but before the former member resides in the household, shall not be recouped. If the former member subsequently ceases to reside in such household before the end of the period of eligibility for such payments, the Secretary may not resume such payments.
 
-(3) In a case in which the victim of the dependent-abuse offense resulting in a punitive or other adverse action described in subsection (b) was a dependent child, the Secretary concerned may not pay compensation under this section to a spouse or former spouse who would otherwise be eligible to receive such compensation if the Secretary determines (under regulations prescribed under subsection (j)) <sup>2</sup> that the spouse or former spouse was an active participant in the conduct constituting the dependent-abuse offense.
+(3) In a case in which the victim of the dependent-abuse offense resulting in a punitive or other adverse action described in subsection (b) was a dependent child, the Secretary concerned may not pay compensation under this section to a spouse or former spouse who would otherwise be eligible to receive such compensation if the Secretary determines (under regulations prescribed under subsection (k)) that the spouse or former spouse was an active participant in the conduct constituting the dependent-abuse offense.
 
 (h)
 
@@ -96,7 +96,7 @@ Regulations.—(1) The Secretary of Defense shall prescribe regulations to carry
 
 (2) Regulations prescribed under paragraph (1) shall include the criminal offenses, or categories of offenses, under the Uniform Code of Military Justice (chapter 47 of this title), Federal criminal law, the criminal laws of the States and other jurisdictions of the United States, and the laws of other nations that are to be considered to be dependent-abuse offenses for the purposes of this section.
 
-(<i>l)</i>
+(<i>l</i>)
 
 Dependent Child Defined.—In this section, the term “dependent child”, with respect to a member or former member of the armed forces referred to in subsection (b), means an unmarried child, including an adopted child or a stepchild, who was residing with the member at the time of the dependent-abuse offense resulting in the separation of the former member and—
 
@@ -106,9 +106,25 @@ Dependent Child Defined.—In this section, the term “dependent child”, with
 
 &emsp;(3) who is 18 years of age or older but less than 23 years of age, is enrolled in a full-time course of study in an institution of higher learning approved by the Secretary of Defense and who is (or, at the time a punitive or other adverse action was executed in the case of the former member as described in subsection (b), was) dependent on the former member for over one-half of the child's support.
 
-(Added Pub. L. 103–160, div. A, title V, §554(a)(1), Nov. 30, 1993, 107 Stat. 1663, §1058; renumbered §1059 and amended Pub. L. 103–337, div. A, title V, §535(a)–(c)(1), title X, §1070(a)(5)(A), Oct. 5, 1994, 108 Stat. 2762, 2763, 2855.)
+(Added Pub. L. 103–160, div. A, title V, §554(a)(1), Nov. 30, 1993, 107 Stat. 1663, §1058; renumbered §1059 and amended Pub. L. 103–337, div. A, title V, §535(a)–(c)(1), title X, §1070(a)(5)(A), Oct. 5, 1994, 108 Stat. 2762, 2763, 2855; Pub. L. 104–106, div. A, title VI, §636(a), (b), title XV, §1503(a)(8), Feb. 10, 1996, 110 Stat. 367, 511.)
 
 #### Amendments
+
+1996—Subsec. (a). Pub. L. 104–106, §636(a), inserted at end “Upon establishment of such a program, the program shall apply in the case of each such member described in subsection (b) who is under the jurisdiction of the Secretary establishing the program.”
+
+Subsec. (c)(2). Pub. L. 104–106, §1503(a)(8), substituted “subsection (k)” for “subsection (j)”.
+
+Subsec. (d). Pub. L. 104–106, §636(b)(1), in introductory provisions, substituted “the case of any individual described in subsection (b)” for “any case of a separation from active duty as described in subsection (b)” and “dependents of the individual” for “dependents of the former member”.
+
+Subsec. (d)(1). Pub. L. 104–106, §636(b)(2), substituted “If the individual” for “If the former member” and “to whom the individual” for “to whom the member”.
+
+Subsec. (d)(2). Pub. L. 104–106, §636(b)(3), substituted “individual described in subsection (b)” for “former member” in two places.
+
+Subsec. (d)(3). Pub. L. 104–106, §636(b)(4), substituted “individual described in subsection (b)” for “former member”.
+
+Subsec. (d)(4). Pub. L. 104–106, §636(b)(5), substituted “individual described in subsection (b)” for “member” in two places.
+
+Subsec. (g)(3). Pub. L. 104–106, §1503(a)(8), substituted “subsection (k))” for “subsection (j))”.
 
 1994—Pub. L. 103–337, §1070(a)(5)(A), renumbered section 1058 of this title as this section.
 
@@ -130,17 +146,13 @@ Subsecs. (j) to (<i>l</i>). Pub. L. 103–337, §535(b), added subsec. (j) and r
 
 #### Effective Date
 
-Section 554(b) of Pub. L. 103–160, as amended by Pub. L. 103–337, div. A, title X, §1070(b)(5), Oct. 5, 1994, 108 Stat. 2856, provided that:
+Section 554(b) of Pub. L. 103–160, as amended by Pub. L. 103–337, div. A, title X, §1070(b)(5), Oct. 5, 1994, 108 Stat. 2856; Pub. L. 104–106, div. A, title VI, §636(c), Feb. 10, 1996, 110 Stat. 367, provided that:
 
-“(1) The section of title 10, United States Code, added by subsection (a)(1) \[this section\] shall apply with respect to a member of the Armed Forces who, on or after the date of the enactment of this Act \[Nov. 30, 1993\]—
+“(1) The section of title 10, United States Code, added by subsection (a)(1) \[this section\] shall apply with respect to a member of the Armed Forces who, after November 29, 1993—
 
 &emsp;“(A) is separated from active duty as described in subsection (b) of such section; or
 
 &emsp;“(B) forfeits all pay and allowances as described in such subsection.
 
-“(2) Notwithstanding paragraph (1), no payment may be made under such section with respect to any period before April 1, 1994.”
-
-<i><sup>1</sup></i><i> So in original. Probably should be subsection “(k)”.</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be subsection “(k)”.</i>
+“(2) Payments of transitional compensation under that section in the case of any person eligible to receive payments under that section shall be made for each month after November 1993 for which that person may be paid transitional compensation in accordance with that section.”
 

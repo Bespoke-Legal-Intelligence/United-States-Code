@@ -10,9 +10,9 @@ Proof of defendant's possession of such goods, unless explained to the satisfact
 
 Merchandise introduced into the United States in violation of this section, or the value thereof, to be recovered from any person described in the first or second paragraph of this section, shall be forfeited to the United States.
 
-The term “United States”, as used in this section, shall not include Virgin Islands, American Samoa, Wake Island, Midway Islands, Kingman Reef, Johnston Island, or Guam.
+The term “United States”, as used in this section, shall not include the Virgin Islands, American Samoa, Wake Island, Midway Islands, Kingman Reef, Johnston Island, or Guam.
 
-(June 25, 1948, ch. 645, 62 Stat. 716; Aug. 24, 1954, ch. 890, §1, 68 Stat. 782; Sept. 1, 1954, ch. 1213, title V, §507, 68 Stat. 1141; June 30, 1955, ch. 258, §2(c), 69 Stat. 242; Sept. 13, 1994, Pub. L. 103–322, title XXXII, §320903(c), title XXXIII, §§330004(18), 330016(1)(L), 108 Stat. 2125, 2142, 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 716; Aug. 24, 1954, ch. 890, §1, 68 Stat. 782; Sept. 1, 1954, ch. 1213, title V, §507, 68 Stat. 1141; June 30, 1955, ch. 258, §2(c), 69 Stat. 242; Sept. 13, 1994, Pub. L. 103–322, title XXXII, §320903(c), title XXXIII, §§330004(18), 330016(1)(L), 108 Stat. 2125, 2142, 2147; Oct. 11, 1996, Pub. L. 104–294, title VI, §604(b)(23), 110 Stat. 3508.)
 
 #### Historical and Revision Notes
 
@@ -34,9 +34,11 @@ Changes were made in phraseology.
 
 #### Amendments
 
+1996—Pub. L. 104–294 amended Pub. L. 103–322, §330004(18). See 1994 Amendment note below.
+
 1994—Pub. L. 103–322, §330016(1)(L), substituted “fined under this title” for “fined not more than $10,000” in third par.
 
-Pub. L. 103–322, §330004(18), struck out “the Philippine Islands,” before “Virgin Islands” in last par.
+Pub. L. 103–322, §330004(18), as amended by Pub. L. 104–294, §604(b)(23), struck out “Philippine Islands,” before “Virgin Islands” in last par.
 
 Pub. L. 103–322, §320903(c), inserted “or attempts to smuggle or clandestinely introduce” after “clandestinely introduces” in first par.
 
@@ -45,6 +47,10 @@ Pub. L. 103–322, §320903(c), inserted “or attempts to smuggle or clandestin
 1954—Act Sept. 1, 1954, permitted forfeiture of value of merchandise imported in violation of section.
 
 Act Aug. 24, 1954, increased fine from $5,000 to $10,000 and imprisonment from two years to five years.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–294 effective Sept. 13, 1994, see section 604(d) of Pub. L. 104–294, set out as a note under section 13 of this title.
 
 #### Effective Date of 1955 Amendment
 

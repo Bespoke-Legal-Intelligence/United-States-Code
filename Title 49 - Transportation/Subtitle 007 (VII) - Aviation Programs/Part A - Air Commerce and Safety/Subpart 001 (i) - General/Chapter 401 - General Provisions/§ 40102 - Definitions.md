@@ -8,7 +8,7 @@ General Definitions.—In this part—
 
 &emsp;(2) “air carrier” means a citizen of the United States undertaking by any means, directly or indirectly, to provide air transportation.
 
-&emsp;(3) “air commerce” means foreign air commerce, interstate air commerce, the transportation of mail by aircraft, the operation of aircraft within the limits of a Federal airway, or the operation of aircraft that directly affects, or may endanger safety in, foreign or interstate air commerce.
+&emsp;(3) “air commerce” means foreign air commerce, interstate air commerce, the transportation of mail by aircraft, the operation of aircraft within the limits of a Federal airway, or the operation of aircraft that directly affects,or may endanger safety in, foreign or interstate air commerce.
 
 &emsp;(4) “air navigation facility” means a facility used, available for use, or designed for use, in aid of air navigation, including—
 
@@ -152,7 +152,7 @@ General Definitions.—In this part—
 
 &emsp;&emsp;&emsp;(ii) transporting passengers other than—
 
-&emsp;&emsp;&emsp;&emsp;(I) transporting (for other than commercial purposes) crewmembers or otherpersons aboard the aircraft whose presence is required to perform, or is associated with the performance of, a governmental function such as firefighting, search and rescue, law enforcement, aeronautical research, or biological or geological resource management; or
+&emsp;&emsp;&emsp;&emsp;(I) transporting (for other than commercial purposes) crewmembers or other persons aboard the aircraft whose presence is required to perform, or is associated with the performance of, a governmental function such as firefighting, search and rescue, law enforcement, aeronautical research, or biological or geological resource management; or
 
 &emsp;&emsp;&emsp;&emsp;(II) transporting (for other than commercial purposes) persons aboard the aircraft if the aircraft is operated by the Armed Forces or an intelligence agency of the United States.
 
@@ -166,7 +166,7 @@ General Definitions.—In this part—
 
 &emsp;&emsp;(B) as the representative of the State before the Secretary of Transportation in any matter about which the Secretary is required to consult with or consider the views of a State authority under subpart II of this part.
 
-&emsp;(40) “ticket agent” means a person (except an air carrier, a foreign air carrier, or an employee of an air carrier or foreign air carrier) that as a principal or agent sells, offers for sale, negotiates for, or holds itself out as selling, providing, or arranging for, air transportation.
+&emsp;(40) “ticket agent” means a person (except an air carrier, a foreign air carrier, or an employee of an air carrier or foreign air carrier)that as a principal or agent sells, offers for sale, negotiates for, or holds itself out as selling, providing, or arranging for, air transportation.
 
 &emsp;(41) “United States” means the States of the United States, the District of Columbia, and the territories and possessions of the United States, including the territorial sea and the overlying airspace.
 
@@ -180,7 +180,9 @@ Historical and Revision Notes
 
 Pub. L. 103–272
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -238,7 +240,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §101(11); added Nov. 9, 1977, Pu
 
 49 App.:1301(12).
 
-Aug. 23, 1958, Pub. L. 85–726, §101(12), (16)– (34), (37), (40), (41), 72 Stat. 737, 739; July 10, 1962, Pub. L. 87–528, §1, 76 Stat. 143; Sept. 26, 1968, Pub. L. 90–514, §1, 82 Stat. 867; Oct. 14, 1970, Pub. L. 91–449, §1(2), 84 Stat. 921; Aug. 5, 1974, Pub. L. 93–366, §206, 88 Stat. 419; Nov. 9, 1977, Pub. L. 95–163, §17(b)(1), 91 Stat. 1286; Oct. 24, 1978, Pub. L. 95–504, §2(a)(4), (b), 92 Stat. 1705.
+Aug. 23, 1958, Pub. L. 85–726, §101(12), (16)–(34), (37), (40), (41), 72 Stat. 737, 739; July 10, 1962, Pub. L. 87–528, §1, 76 Stat. 143; Sept. 26, 1968, Pub. L. 90–514, §1, 82 Stat. 867; Oct. 14, 1970, Pub. L. 91–449, §1(2), 84 Stat. 921; Aug. 5, 1974, Pub. L. 93–366, §206, 88 Stat. 419; Nov. 9, 1977, Pub. L. 95–163, §17(b)(1), 91 Stat. 1286; Oct. 24, 1978, Pub. L. 95–504, §2(a)(4), (b), 92 Stat. 1705.
 
 40102(a)(12)
 
@@ -256,13 +258,13 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §101(14) (less certificate), (15
 
 &nbsp;
 
-49 App.:1551(b) (1)(E).
+49 App.:1551(b)(1)(E).
 
 Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1601(b)(1)(E); added Oct. 4, 1984, Pub. L. 98–443, §3(e), 98 Stat. 1704.
 
 40102(a) (15)–(18)
 
-49 App.:1301 (16)–(19).
+49 App.:1301(16)–(19).
 
 40102(a)(19)
 
@@ -304,7 +306,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §105(b)(2), (d) (related to (b)(
 
 40102(a) (26)–(32)
 
-49 App.:1301 (25)–(31).
+49 App.:1301(25)–(31).
 
 40102(a)(33)
 

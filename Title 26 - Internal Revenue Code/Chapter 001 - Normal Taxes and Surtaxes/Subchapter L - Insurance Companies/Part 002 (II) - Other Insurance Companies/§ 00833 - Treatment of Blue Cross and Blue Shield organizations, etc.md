@@ -130,7 +130,29 @@ In the case of any organization to which this section applies—
 
 &emsp;&emsp;For purposes of subsection (b), the adjusted surplus of any organization meeting the requirements of this paragraph as of the beginning of the 1st taxable year for which it meets such requirements shall be its surplus as of such time.
 
-(Added Pub. L. 99–514, title X, §1012(b)(1), Oct. 22, 1986, 100 Stat. 2391.)
+#### (4) Treatment as existing Blue Cross or Blue Shield organization
+
+#### (A) In general
+
+&emsp;&emsp;Paragraph (2) shall be applied to an organization described in subparagraph (B) as if it were a Blue Cross or Blue Shield organization.
+
+#### (B) Applicable organization
+
+&emsp;&emsp;An organization is described in this subparagraph if it—
+
+&emsp;&emsp;&emsp;(i) is organized under, and governed by, State laws which are specifically and exclusively applicable to not-for-profit health insurance or health service type organizations, and
+
+&emsp;&emsp;&emsp;(ii) is not a Blue Cross or Blue Shield organization or health maintenance organization.
+
+(Added Pub. L. 99–514, title X, §1012(b)(1), Oct. 22, 1986, 100 Stat. 2391; amended Pub. L. 104–191, title III, §351(a), Aug. 21, 1996, 110 Stat. 2071.)
+
+#### Amendments
+
+1996—Subsec. (c)(4). Pub. L. 104–191 added par. (4).
+
+#### Effective Date of 1996 Amendment
+
+Section 351(b) of Pub. L. 104–191 provided that: “The amendment made by this section \[amending this section\] shall apply to taxable years ending after December 31, 1996.”
 
 #### Effective Date
 
@@ -182,7 +204,7 @@ Other special rules.—
 
 &emsp;&emsp;“(iv) dental benefit coverage provided by a Delta Dental Plans Association organization through contracts with independent professional service providers so long as the provision of such coverage is the principal activity of such organization.
 
-&emsp;“(D) For purposes of this paragraph, the term ‘pension business’ means the administration of any plan described in section 401(a) of the Internal Revenue Code of 1954 \[now 1986\] which includes a trust exempt from tax under section 501(a), any plan under which amounts are contributed by an individual's employer for an annuity contract described in section 403(b) of such Code, any individual retirement plan described in section 408 of such Code, and any eligible deferred compensation plan to which section 457(a) of such Code applies.”
+&emsp;“(D) For purposes of this paragraph, the term ‘pension business’ means the administration of any plan described in section 401(a) of the Internal Revenue Code of 1954 \[now 1986\] which includes a trust exempt from tax under section 501(a), any plan under whichamounts are contributed by an individual's employer for an annuity contract described in section 403(b) of such Code, any individual retirement plan described in section 408 of such Code, and any eligible deferred compensation plan to which section 457(a) of such Code applies.”
 
 \[The due date for the report referred to in section 1012(c)(2) of Pub. L. 99–514, set out above, extended to July 1, 1992, by Pub. L. 101–508, title XI, §11831(b), Nov. 5, 1990, 104 Stat. 1388–559.\]
 

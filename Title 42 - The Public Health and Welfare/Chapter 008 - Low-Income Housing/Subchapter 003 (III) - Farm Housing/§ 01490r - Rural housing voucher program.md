@@ -16,5 +16,5 @@ In carrying out the rural housing voucher program under this section, the Secret
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1483, 1490m of this title.
+This section is referred to in sections 1436a, 1483, 1490m of this title.
 

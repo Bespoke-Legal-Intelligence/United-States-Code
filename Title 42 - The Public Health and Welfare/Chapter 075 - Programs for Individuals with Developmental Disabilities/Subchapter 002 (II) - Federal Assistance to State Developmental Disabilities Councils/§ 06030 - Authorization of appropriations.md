@@ -1,8 +1,8 @@
 ### §6030. Authorization of appropriations
 
-For allotments under section 6025 of this title, there are authorized to be appropriated $70,000,000 for fiscal year 1994, and such sums asmay be necessary for each of the fiscal years 1995 and 1996.
+For allotments under section 6025 of this title, there are authorized to be appropriated $70,000,000 for fiscal year 1994, and such sums as may be necessary for each of the fiscal years 1995 through 1999.
 
-(Pub. L. 88–164, title I, §130, as added Pub. L. 98–527, §2, Oct. 19, 1984, 98 Stat. 2679; amended Pub. L. 100–146, title II, §208, Oct. 29, 1987, 101 Stat. 851; Pub. L. 101–496, §14, Oct. 31, 1990, 104 Stat. 1198; Pub. L. 103–230, title II, §212, Apr. 6, 1994, 108 Stat. 313.)
+(Pub. L. 88–164, title I, §130, as added Pub. L. 98–527, §2, Oct. 19, 1984, 98 Stat. 2679; amended Pub. L. 100–146, title II, §208, Oct. 29, 1987, 101 Stat. 851; Pub. L. 101–496, §14, Oct. 31, 1990, 104 Stat. 1198; Pub. L. 103–230, title II, §212, Apr. 6, 1994, 108 Stat. 313; Pub. L. 104–183, §2, Aug. 6, 1996, 110 Stat. 1694.)
 
 #### Prior Provisions
 
@@ -15,6 +15,8 @@ Section 6032, Pub. L. 88–164, title I, §122, as added Pub. L. 94–103, title
 Section 6033, Pub. L. 88–164, title I, §123, as added Pub. L. 94–103, title I, §105, Oct. 4, 1975, 89 Stat. 487; amended Pub. L. 95–602, title V, §509, Nov. 6, 1978, 92 Stat. 3010; Pub. L. 97–35, title IX, §911(b), Aug. 13, 1981, 95 Stat. 563; Pub. L. 98–221, title III, §303, Feb. 22, 1984, 98 Stat. 35, authorized appropriations for demonstration and training grants for university affiliated facilities. See section 6064 of this title.
 
 #### Amendments
+
+1996—Pub. L. 104–183 substituted “1995 through 1999” for “1995 and 1996”.
 
 1994—Pub. L. 103–230 substituted “$70,000,000 for fiscal year 1994, and such sums as may be necessary for each of the fiscal years 1995 and 1996.” for “$77,400,000 for fiscal year 1991, and such sums as may be necessary for each of the fiscal years 1992 and 1993.”
 

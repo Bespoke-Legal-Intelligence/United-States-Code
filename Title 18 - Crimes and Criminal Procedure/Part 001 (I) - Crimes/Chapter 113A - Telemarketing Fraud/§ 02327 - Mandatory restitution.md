@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—Notwithstanding section 3663, and in addition to any other civil or criminal penalty authorized by law, the court shall order restitution for any offense under this chapter.
+In General.—Notwithstanding section 3663 or 3663A, and in addition to any other civil or criminal penalty authorized by law, the court shall order restitution for any offense under this chapter.
 
 (b)
 
@@ -10,15 +10,11 @@ Scope and Nature of Order.—
 
 &emsp;(1)
 
-Directions.—The order of restitution under this section shall direct that—
-
-&emsp;&emsp;(A) the defendant pay to the victim (through the appropriate court mechanism) the full amount of the victim's losses as determined by the court, pursuant to paragraph (3); and
-
-&emsp;&emsp;(B) the United States Attorney enforce the restitution order by all available and reasonable means.
+Directions.—The order of restitution under this section shall direct the defendant to pay to the victim (through the appropriate court mechanism) the full amount of the victim's losses as determined by the court pursuant to paragraph (2).
 
 &emsp;(2)
 
-Enforcement by victim.—An order of restitution may be enforced by a victim named inthe order to receive the restitution as well as by the United States Attorney, in the same manner as a judgment in a civil action.
+Enforcement.—An order of restitution under this section shall be issued and enforced in accordance with section 3664 in the same manner as an order under section 3663A.
 
 &emsp;(3)
 
@@ -34,81 +30,49 @@ Order mandatory.—(A) The issuance of a restitution order under this section is
 
 &emsp;&emsp;(ii) the fact that a victim has, or is entitled to, receive compensation for his or her injuries from the proceeds of insurance or any other source.
 
-&emsp;(C)(i) Notwithstanding subparagraph (A), the court may take into account the economic circumstances of the defendant in determining the manner in which and the schedule according to which the restitution is to be paid.
-
-&emsp;(ii) For purposes of this subparagraph, the term “economic circumstances” includes—
-
-&emsp;&emsp;(I) the financial resources and other assets of the defendant;
-
-&emsp;&emsp;(II) projected earnings, earning capacity, and other income of the defendant; and
-
-&emsp;&emsp;(III) any financial obligations of the defendant, including obligations to dependents.
-
-&emsp;(D) Subparagraph (A) does not apply if—
-
-&emsp;&emsp;(i) the court finds on the record that the economic circumstances of the defendant do not allow for the payment of any amount of a restitution order, and do not allow for the payment of any or some portion of the amount of a restitution order in the foreseeable future (under any reasonable schedule of payments); and
-
-&emsp;&emsp;(ii) the court enters in its order the amount of the victim's losses, and provides a nominal restitution award.
-
-&emsp;(5)
-
-More than 1 offender.—When the court finds that more than 1 offender has contributed to the loss of a victim, the court may make each offender liable for payment of the full amount of restitution or may apportion liability among the offenders to reflect the level of contribution and economic circumstances of each offender.
-
-&emsp;(6)
-
-More than 1 victim.—When the court finds that more than 1 victim has sustained a loss requiring restitution by an offender, the court shall order full restitution of each victim but may provide for different payment schedules to reflect the economic circumstances of each victim.
-
-&emsp;(7)
-
-Payment schedule.—An order under this section may direct the defendant to make a single lump-sum payment or partial payments at specified intervals.
-
-&emsp;(8)
-
-Setoff.—Any amount paid to a victim under this section shall be set off against any amount later recovered as compensatory damages by the victim from the defendant in—
-
-&emsp;&emsp;(A) any Federal civil proceeding; and
-
-&emsp;&emsp;(B) any State civil proceeding, to the extent provided by the law of the State.
-
-&emsp;(9)
-
-Effect on other sources of compensation.—The issuance of a restitution order shall not affect the entitlement of a victim to receive compensation with respect to a loss from insurance or any other source until the payments actually received by the victim under the restitution order fully compensate the victim for the loss.
-
-&emsp;(10)
-
-Condition of probation or supervised release.—Compliance with a restitution issued under this section shall be a condition of any probation or supervised release of a defendant. The court may revoke probation or a term of supervised release, modify the terms or conditions of probation or a term of supervised release, hold the defendant in contempt pursuant to section 3583(e), or suspend the offender's eligibility for any grant, contract, loan, professional license, or commercial license provided by an agency of the United States or with appropriated funds of the United States if the defendant fails to comply with the order. In determining whether to revoke probation or a term of supervised release, modify the terms or conditions of probation or supervised release or hold a defendant serving a term of supervised release in contempt, the court shall consider the defendant's employment status, earning ability and financial resources, the willfulness of the defendant's failure to comply, and any other circumstances that may have a bearing on the defendant's ability to comply.
-
 (c)
-
-Proof of Claim.—
-
-&emsp;(1)
-
-Affidavit.—Within 60 days after conviction and, in any event, not later than 10 days prior to sentencing, the United States Attorney (or the United States Attorney's delegee), after consulting with the victim, shall prepare and file an affidavit with the court listing the amounts subject to restitution under this section. The affidavit shall be signed by the United States Attorney (or the United States Attorney's delegee) and the victim. Should the victim object to any of the information included in the affidavit, the United States Attorney (or the United States Attorney's delegee) shall advise the victim that the victim may file a separate affidavit and shall provide the victim with an affidavit form which may be used to do so.
-
-&emsp;(2)
-
-Objection.—If, after the defendant has been notified of the affidavit, no objection is raised by the defendant, the amounts attested to in the affidavit filed pursuant to paragraph (1) shall be entered in the court's restitution order. If objection is raised, the court may require the victim or the United States Attorney (or the United States Attorney's delegee) to submit further affidavits or other supporting documents, demonstrating the victim's losses.
-
-&emsp;(3)
-
-Additional documentation and testimony.—If the court concludes, after reviewing the supporting documentation and considering the defendant's objections, that there is a substantial reason for doubting the authenticity or veracity of the records submitted, the court may require additional documentation or hear testimony on those questions. The privacy of any records filed, or testimony heard, pursuant to this section shall be maintained to the greatest extent possible, and such records may be filed or testimony heard in camera.
-
-&emsp;(4)
-
-Final determination of losses.—If the victim's losses are not ascertainable by the date that is 10 days prior to sentencing as provided in paragraph (1), the United States Attorney (or the United States Attorney's delegee) shall so inform the court, and the court shall set a date for the final determination of the victim's losses, not to exceed 90 days after sentencing. If the victim subsequently discovers further losses, the victim shall have 60 days after discovery of those losses in which to petition the court for an amended restitution order. Such order may be granted only upon a showing of good cause for the failure to include such losses in the initial claim for restitutionary relief.
-
-(d)
-
-Modification of Order.—A victim or the offender may petition the court at any time to modify a restitution order as appropriate in view of a change in the economic circumstances of the offender.
-
-(e)
-
-Reference to Magistrate or Special Master.—The court may refer any issue arising in connection with a proposed order of restitution to a magistrate or special master for proposed findings of fact and recommendations as to disposition, subject to a de novo determination of the issue by the court.
-
-(f)
 
 Definition.—For purposes of this section, the term “victim” includes the individual harmed as a result of a commission of a crime under this chapter, including, in the case of a victim who is incompetent, incapacitated, or deceased, the legal guardian of the victim or representative of the victim's estate, another family member, or any other person appointed as suitable by the court, but in no event shall the defendant be named as such representative or guardian.
 
-(Added Pub. L. 103–322, title XXV, §250002(a)(2), Sept. 13, 1994, 108 Stat. 2082.)
+(Added Pub. L. 103–322, title XXV, §250002(a)(2), Sept. 13, 1994, 108 Stat. 2082; amended Pub. L. 104–132, title II, §205(e), Apr. 24, 1996, 110 Stat. 1232; Pub. L. 104–294, title VI, §601(n), Oct. 11, 1996, 110 Stat. 3502.)
+
+#### Amendments
+
+1996—Subsec. (a). Pub. L. 104–132, §205(e)(1), inserted “or 3663A” after “3663”.
+
+Subsec. (b)(1). Pub. L. 104–132, §205(e)(2)(A), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The order of restitution under this section shall direct that—
+
+&emsp;“(A) the defendant pay to the victim (through the appropriate court mechanism) the full amount of the victim's losses as determined by the court, pursuant to paragraph (3); and
+
+&emsp;“(B) the United States Attorney enforce the restitution order by all available and reasonable means.”
+
+Subsec. (b)(2). Pub. L. 104–132, §205(e)(2)(B), struck out “by victim” after “Enforcement” in heading and amended text generally. Prior to amendment, text read as follows: “An order of restitution may be enforced by a victim named in the order to receive the restitution as well as by the United States Attorney, in the same manner as a judgment in a civil action.”
+
+Subsec. (b)(4)(C), (D). Pub. L. 104–132, §205(e)(2)(C), struck out subpars. (C) and (D), which related to court's consideration of economic circumstances of defendant in determining schedule of payment of restitution orders, and court's entry of nominal restitution awards where economic circumstances of defendant do not allow for payment of restitution, respectively.
+
+Subsec. (b)(5) to (10). Pub. L. 104–132, §205(e)(2)(D), struck out pars. (5) to (10), which related, respectively, to more than 1 offender, more than 1 victim, payment schedule, setoff, effect on other sources of compensation, and condition of probation or supervised release.
+
+Subsec. (c). Pub. L. 104–294, which directed substitution of “designee” for “delegee” wherever appearing, could not be executed because of amendment by Pub. L. 104–132, §205(e)(3), (4). See below.
+
+Pub. L. 104–132, §205(e)(3), (4), redesignated subsec. (f) as (c) and struck out former subsec. (c) relating to proof of claim.
+
+Subsecs. (d), (e). Pub. L. 104–132, §205(e)(3), struck out subsecs. (d) and (e) which read as follows:
+
+“(d)
+
+Modification of Order.—A victim or the offender may petition the court at any time to modify a restitution order as appropriate in view of a change in the economic circumstances of the offender.
+
+“(e)
+
+Reference to Magistrate or Special Master.—The court may refer any issue arising in connection with a proposed order of restitution to a magistrate or special master for proposed findings of fact and recommendations as to disposition, subject to a de novo determination of the issue by the court.”
+
+Subsec. (f). Pub. L. 104–132, §205(e)(4), redesignated subsec. (f) as (c).
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–132 effective, to extent constitutionally permissible, for sentencing proceedings in cases in which defendant is convicted on or after Apr. 24, 1996, see section 211 of Pub. L. 104–132, set out as a note under section 2248 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 3563, 3613, 3664 of this title.
 

@@ -6,11 +6,11 @@ Each Job Corps center shall provide enrollees with an intensive, well-organized,
 
 #### (b) Use of existing educational agencies providing substantially equivalent training
 
-The Secretary may arrange for enrollee education and vocational training through localpublic or private educational agencies, vocational educational institutions, or technical institutes, whenever such institutions provide training substantially equivalent in cost and quality to that which the Secretary could provide through other means.
+The Secretary may arrange for enrollee education and vocational training through local public or private educational agencies, vocational educational institutions, or technical institutes, whenever such institutions provide training substantially equivalent in cost and quality to that which the Secretary could provide through other means.
 
 #### (c) High school equivalency certificates
 
-To the extent feasible, arrangements for education, both at the center and at other locations, shall provide opportunities for qualified enrollees to obtain the equivalent of a certificate of graduation from high school. The Secretary, with the concurrence of the Secretary of Education, shall develop certificates to be issued to each enrollee who satisfactorily completes service in the Job Corps and which will reflect the enrollee's level of educational attainment.
+To the extent feasible, arrangements for education, both at the center and at other locations, shall provide opportunities for qualified enrollees to obtain the equivalent of a certificate of graduation from high school. The Secretary, with the concurrence of the Secretary ofEducation, shall develop certificates to be issued to each enrollee who satisfactorily completes service in the Job Corps and which will reflect the enrollee's level of educational attainment.
 
 #### (d) Advanced career training: postsecondary institutions; company-sponsored training programs; availability of benefits; demonstration of reasonable program completion and placement
 

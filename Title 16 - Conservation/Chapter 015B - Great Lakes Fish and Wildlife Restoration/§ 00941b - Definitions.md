@@ -26,7 +26,7 @@ In this chapter—
 
 &emsp;(10) the term “State Director” means the head of the agency, department, board, commission, or other governmental entity of each of the States of New York, Ohio, Indiana, Illinois, Michigan, Wisconsin, Minnesota, and the Commonwealth of Pennsylvania which is responsible for the management and conservation of the fish and wildlife resources of that State.
 
-(Pub. L. 101–537, title I, §1004, Nov. 8, 1990, 104 Stat. 2371; Pub. L. 101–646, title II, §2004, Nov. 29, 1990, 104 Stat. 4774.)
+(Pub. L. 101–537, title I, §1004, Nov. 8, 1990, 104 Stat. 2371; Pub. L. 101–646, title II, §2004, Nov. 29, 1990, 104 Stat. 4774; Pub. L. 104–332, §2(h)(1), Oct. 26, 1996, 110 Stat. 4091.)
 
 #### References in Text
 
@@ -35,6 +35,10 @@ This chapter, referred to in text, was in the original “this Act”, which, to
 #### Codification
 
 Pub. L. 101–537 and Pub. L. 101–646 enacted substantially identical sections.
+
+#### Amendments
+
+1996—Pub. L. 104–332 made technical amendment to Pub. L. 101–646, §2004, which enacted this section.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “Lakes”.</i>
 

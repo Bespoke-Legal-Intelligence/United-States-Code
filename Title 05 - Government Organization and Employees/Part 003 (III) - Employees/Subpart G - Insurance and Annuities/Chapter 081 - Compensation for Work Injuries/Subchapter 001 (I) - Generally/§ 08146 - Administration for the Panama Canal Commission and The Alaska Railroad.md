@@ -6,7 +6,7 @@
 
 &emsp;(2) so far as employees of The Alaska Railroad are concerned to the general manager of The Alaska Railroad.
 
-(b) When administration is transferred under subsection (a) of this section, the expenses incident to physical examinations which are payable under section 8123 of this title shall be paid from appropriations for the Panama Canal Commission or for The Alaska Railroad, as the case may be, instead of from the Employees’ Compensation Fund. The President may authorize the Panama Canal Commission and the general manager of The Alaska Railroad to pay the compensation provided by this subchapter, including medical, surgical, and hospital services and supplies under section 8103 of this title and the transportation and burial expenses under sections 8103 and 8134 of this title, from appropriations for the Panama Canal Commission and for The Alaska Railroad, and these appropriations shall be reimbursed for the payments by transfer of funds from the Employees’ Compensation Fund.
+(b) When administration is transferred under subsection (a) of this section, the expenses incident to physical examinations which are payable under section 8123 of this title shall be paid from appropriations for the Panama Canal Commission or for The Alaska Railroad, as the casemay be, instead of from the Employees’ Compensation Fund. The President may authorize the Panama Canal Commission and the general manager of The Alaska Railroad to pay the compensation provided by this subchapter, including medical, surgical, and hospital services and supplies under section 8103 of this title and the transportation and burial expenses under sections 8103 and 8134 of this title, from appropriations for the Panama Canal Commission and for The Alaska Railroad, and these appropriations shall be reimbursed for the payments by transfer of funds from the Employees’ Compensation Fund.
 
 (c) The President may authorize the Panama Canal Commission to waive, at its discretion, the making of the claim required by section 8121 of this title in the case of compensation to an employee of the Panama Canal Commission for temporary disability, either total or partial.
 
@@ -22,7 +22,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 5 U.S.C. 793 (1st 3 pars., less 2d sentence of 2d par.).
 
@@ -46,7 +48,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-<b>1979</b>—Pub. L. 96–70, §3302(e)(9)(A), substituted “Panama Canal Commission” for “Canal Zone” in section catchline.
+1979—Pub. L. 96–70, §3302(e)(9)(A), substituted “Panama Canal Commission” for “Canal Zone” in section catchline.
 
 Subsec. (a)(1). Pub. L. 96–70, §3302(e)(9)(B), substituted “Panama Canal Commission are concerned to the Commission” for “Canal Zone Government and of the Panama Canal Company are concerned to the Governor of the Canal Zone”.
 

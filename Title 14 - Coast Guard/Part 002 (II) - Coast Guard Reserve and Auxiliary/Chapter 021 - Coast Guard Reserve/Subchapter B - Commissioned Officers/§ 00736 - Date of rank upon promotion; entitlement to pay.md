@@ -4,7 +4,7 @@
 
 (b) Notwithstanding any other law, when the running mate of a reserve officer serving in the grade of rear admiral (lower half) is promoted to the grade of rear admiral, the reserve officer shall also be promoted to that grade.
 
-(c) For the purposes of subsection (a) of this section, the date of appointment shall be that date when promotion authority is exercised by the Secretary. However, the Secretary may adjust the date of appointment—
+(c) For the purposes of subsection (a) of this section, the date of appointment shall be thatdate when promotion authority is exercised by the Secretary. However, the Secretary may adjust the date of appointment—
 
 &emsp;(1) if a delay in the finding required under section 734(a) of this title is beyond the control of the officer and the officer is otherwise qualified for promotion; or
 

@@ -6,7 +6,7 @@ There are authorized to be appropriated to carry out this subchapter, $30,000,00
 
 #### (b) Special projects
 
-Of the amount appropriated under subsection (1) <sup>2</sup> for each fiscal year, at least 10 percent ofsuch amount shall be utilized in each such fiscal year for activities under section 1235b(1)(C) of this title.
+Of the amount appropriated under subsection (1) <sup>2</sup> for each fiscal year, at least 10 percent of such amount shall be utilized in each such fiscal year for activities under section 1235b(1)(C) of this title.
 
 (Pub. L. 90–247, title IV, §476, formerly Pub. L. 89–10, title IV, §4706, as added Pub. L. 102–545, §3, Oct. 27, 1992, 106 Stat. 3589; renumbered §476 of Pub. L. 90–247 and amended Pub. L. 103–252, title I, §121(a)(1), (2)(D), (c), May 18, 1994, 108 Stat. 649.)
 

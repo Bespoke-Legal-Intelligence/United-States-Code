@@ -16,9 +16,11 @@
 
 (c) There are authorized to be appropriated for studies under this chapter not to exceed $36,283,000 for fiscal year 1990, and such sums as may be necessary for fiscal year 1991. Any amount appropriated under this subsection shall remain available until expended.
 
-(Pub. L. 90–448, title XIII, §1376, Aug. 1, 1968, 82 Stat. 589; Pub. L. 94–375, §14(c), Aug. 3, 1976, 90 Stat. 1075; Pub. L. 95–128, title VII, §702, Oct. 12, 1977, 91 Stat. 1144; Pub. L. 95–557, title III, §309, Oct. 31, 1978, 92 Stat. 2098; Pub. L. 96–153, title VI, §602(c), Dec. 21, 1979, 93 Stat. 1137; Pub. L. 96–399, title III, §304, Oct. 8, 1980, 94 Stat. 1639; Pub. L. 97–35, title III, §341(a), Aug. 13, 1981, 95 Stat. 418; Pub. L. 98–181, title IV, §451(c), Nov. 30, 1983, 97 Stat. 1229; Pub. L. 100–242, title V, §543, Feb. 5, 1988, 101 Stat. 1940; Pub. L. 101–137, §4, Nov. 3, 1989, 103 Stat. 825.)
+(Pub. L. 90–448, title XIII, §1376, Aug. 1, 1968, 82 Stat. 589; Pub. L. 94–375, §14(c), Aug. 3, 1976, 90 Stat. 1075; Pub. L. 95–128, title VII, §702, Oct. 12, 1977, 91 Stat. 1144; Pub. L. 95–557, title III, §309, Oct. 31, 1978, 92 Stat. 2098; Pub. L. 96–153, title VI, §602(c), Dec. 21, 1979, 93 Stat. 1137; Pub. L. 96–399, title III, §304, Oct. 8, 1980, 94 Stat. 1639; Pub. L. 97–35, title III, §341(a), Aug. 13, 1981, 95 Stat. 418; Pub. L. 98–181, title IV, §451(c), Nov. 30, 1983, 97 Stat. 1229; Pub. L. 100–242, title V, §543, Feb. 5, 1988, 101 Stat. 1940; Pub. L. 101–137, §4, Nov. 3, 1989, 103 Stat. 825; Pub. L. 104–204, title III, Sept. 26, 1996, 110 Stat. 2915.)
 
 #### Amendments
+
+1996—Subsec. (c). Pub. L. 104–204, which directed amendment of first sentence by substituting “such sums as may be necessary through September 30, 1997 for studies under this chapter.” for “this subsection” and all that follows, could not be executed because phrase “this subsection” does not appear in first sentence.
 
 1989—Subsec. (c). Pub. L. 101–137 substituted provisions authorizing appropriations of not to exceed $36,283,000 for fiscal year 1990 and such sums as may be necessary for fiscal year 1991 for provisions authorizing appropriations of $37,000,000 for fiscal year 1988, and $37,000,000 for fiscal year 1989.
 

@@ -28,7 +28,9 @@ Nonnegotiable Bills.—(1) A bill of lading is nonnegotiable if the bill states 
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

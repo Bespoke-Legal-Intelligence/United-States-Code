@@ -42,7 +42,7 @@ Aug. 9, 1946, ch. 931, §2(f) (last 8 words), 60 Stat. 963.
 
 In subsection (a), the words “After August 31, 1946”, in section 33(b) of existing title 37, are omitted as executed. The words “allowance or”, in section 33(b) of existing title 37, are omitted as surplusage. The last sentence of section 33(b) of existing title 37 is omitted as executed, since the Act of December 28, 1945 (59 Stat. 663) was repealed by section 506(g) of the Officer Personnel Act of 1947 (61 Stat. 892).
 
-In subsections (a) and (b), the words “, or his designated representative,” are substituted for the last 8 words of section 32(f) of existing title 37.
+In subsections (a) and (b), the words “, or his designated representative,” are substituted for the last 8 words of section 32(f) of existing title 37.
 
 In subsection (b), the words “Except as provided in subsection (a) of this section” are inserted for clarity. The words “the part of his absence that is more than the number of days’ leave authorized by that section” are substituted for the words “such absence”.
 
@@ -59,4 +59,8 @@ In subsection (b), the words “Except as provided in subsection (a) of this sec
 #### Effective Date of 1980 Amendment
 
 Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under section 101 of Title 10, Armed Forces.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in title 10 section 1201.
 

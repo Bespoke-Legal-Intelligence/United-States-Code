@@ -8,7 +8,7 @@
 
 &emsp;(A) there is no other preschool program in the community;
 
-&emsp;(B) the community is located in a medically underserved area, as designated by the Secretary pursuant to section 254c(b)(3) of thistitle and is located in a health professional shortage area, as designated by the Secretary pursuant to section 254e(a)(1) of this title;
+&emsp;(B) the community is located in a medically underserved area, as designated by the Secretary pursuant to section 254c(b)(3) <sup>1</sup> of this title and is located in a health professional shortage area, as designated by the Secretary pursuant to section 254e(a)(1) of this title;
 
 &emsp;(C) the community is in a location which, by reason of remoteness, does not permit reasonable access to the types of services described in clauses (A) and (B); and
 
@@ -22,7 +22,7 @@ The Secretary shall not prescribe any fee schedule or otherwise provide for the 
 
 #### (c) Availability of more than one year of services; children eligible
 
-Each Head Start program operated in a community shall be permitted to provide more than 1 year of Head Start services to eligible children (age 3 to compulsory school attendance) in the State.
+Each Head Start program operated in a community shall be permitted to provide more than1 year of Head Start services to eligible children (age 3 to compulsory school attendance) in the State.
 
 #### (d) Indian tribes
 
@@ -41,6 +41,10 @@ Each Head Start program operated in a community shall be permitted to provide mo
 (3) In providing services through a Head Start program to such children, the Indian tribe may not use funds that the Secretary has determined, in accordance with section 9835(g)(3) of this title, are to be used for expanding Head Start programs under this subchapter.
 
 (Pub. L. 97–35, title VI, §645, Aug. 13, 1981, 95 Stat. 504; Pub. L. 98–558, title I, §105, Oct. 30, 1984, 98 Stat. 2879; Pub. L. 99–425, title I, §104, Sept. 30, 1986, 100 Stat. 966; Pub. L. 101–501, title I, §§113, 114, Nov. 3, 1990, 104 Stat. 1231; Pub. L. 101–597, title IV, §401(e), Nov. 16, 1990, 104 Stat. 3035; Pub. L. 103–252, title I, §111, May 18, 1994, 108 Stat. 637.)
+
+#### References in Text
+
+Section 254c of this title, referred to in subsec. (a)(2)(B), was in the original a reference to section 330 of the Public Health Service Act, act July 1, 1944, which was omitted in the general amendment of subpart I (§254b et seq.) of part D of subchapter II of chapter 6A of this title by Pub. L. 104–299, §2, Oct. 11, 1996, 110 Stat. 3626. Sections 2 and 3(a) of Pub. L. 104–299 enacted new sections 330 and 330A of act July 1, 1944, which are classified, respectively, to sections 254b and 254c of this title.
 
 #### Amendments
 
@@ -75,4 +79,6 @@ Amendment by Pub. L. 99–425 effective Oct. 1, 1986, see section 1001 of Pub. L
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 1758, 1766, 9835, 9840a of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

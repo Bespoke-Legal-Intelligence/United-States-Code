@@ -4,7 +4,7 @@
 
 (b)(1) Except as otherwise provided in subsection (d) of this section, sections 1055, 1056(d) and 1058 of this title shall apply with respect to plan years beginning after December 31, 1975.
 
-(2) Except as otherwise provided in subsections (c) and (d) of this section in the case of a plan in existence on January 1, 1974, this part shall apply in the case of plan years beginning after December 31, 1975.
+(2) Except as otherwise provided in subsections (c) and (d) of this section in the case of a planin existence on January 1, 1974, this part shall apply in the case of plan years beginning after December 31, 1975.
 
 (c)(1) In the case of a plan maintained on January 1, 1974, pursuant to one or more agreements which the Secretary finds to be collective bargaining agreements between employee organizations and one or more employers, no plan shall be treated as not meeting the requirements of sections 1054 and 1055 of this title by reason of a supplementary or special plan provision (within the meaning of paragraph (2)) for any plan year before the year which begins after the earlier of—
 
@@ -62,7 +62,7 @@ Subsec. (f). Pub. L. 101–239, §7894(h)(2), added subsec. (f).
 
 #### Effective Date of 1989 Amendment
 
-Amendment by section 7891(a)(1) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 7891(f) of Pub. L. 101–239, set out as a note under section 1002 of this title.
+Amendment by section 7891(a)(1) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L.99–514, to which such amendment relates, see section 7891(f) of Pub. L. 101–239, set out as a note under section 1002 of this title.
 
 Amendment by section 7894(h)(2) of Pub. L. 101–239 effective, except as otherwise provided, as if originally included in the provision of the Employee Retirement Income Security Act of 1974, Pub. L. 93–406, to which such amendment relates, see section 7894(i) of Pub. L. 101–239, set out as a note under section 1002 of this title.
 

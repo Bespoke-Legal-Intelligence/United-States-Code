@@ -22,7 +22,7 @@ The purposes and policies of this chapter are—
 
 &emsp;(1) to identify and designate as national marine sanctuaries areas of the marine environment which are of special national significance;
 
-&emsp;(2) to provide authority for comprehensive and coordinated conservation and management of these marine areas, and activities affecting them, in a manner which complements existing regulatory authorities.<sup>1</sup>
+&emsp;(2) to provide authority for comprehensive and coordinated conservation and management of these marine areas, and activities affecting them, in a manner which complements existing regulatory authorities;
 
 &emsp;(3) to support, promote, and coordinate scientific research on, and monitoring of, the resources of these marine areas, especially long-term monitoring and research of these areas;
 
@@ -38,9 +38,11 @@ The purposes and policies of this chapter are—
 
 &emsp;(9) to maintain, restore, and enhance living resources by providing places for species that depend upon these marine areas to survive and propagate.
 
-(Pub. L. 92–532, title III, §301, Oct. 23, 1972, 86 Stat. 1061; Pub. L. 96–332, §1, Aug. 29, 1980, 94 Stat. 1057; Pub. L. 98–498, title I, §102, Oct. 19, 1984, 98 Stat. 2296; Pub. L. 102–587, title II, §2101, Nov. 4, 1992, 106 Stat. 5039.)
+(Pub. L. 92–532, title III, §301, Oct. 23, 1972, 86 Stat. 1061; Pub. L. 96–332, §1, Aug. 29, 1980, 94 Stat. 1057; Pub. L. 98–498, title I, §102, Oct. 19, 1984, 98 Stat. 2296; Pub. L. 102–587, title II, §2101, Nov. 4, 1992, 106 Stat. 5039; Pub. L. 104–283, §9(a), Oct. 11, 1996, 110 Stat. 3367.)
 
 #### Amendments
+
+1996—Subsec. (b)(2). Pub. L. 104–283 substituted a semicolon for a period at end.
 
 1992—Subsec. (a)(2). Pub. L. 102–587, §2101(a)(1), inserted “, and in some cases international,” after “national”.
 
@@ -64,6 +66,10 @@ Subsec. (b). Pub. L. 102–587, §2101(b), amended subsec. (b) generally. Prior 
 
 1980—Pub. L. 96–332 inserted provisions defining “State”.
 
+#### Short Title of 1996 Amendment
+
+Section 1 of Pub. L. 104–283 provided that: “This Act \[amending this section and sections 1432, 1434, 1437, 1442, 1443, 1444, 1445a, and 1445b of this title, renumbering provisions set out as a note under section 1442 of this title as section 1445b of this title, enacting provisions set out as notes under this section and sections 1433 and 1445 of this title, and amending provisions set out as a note under section 1433 of this title\] may be cited as the ‘National Marine Sanctuaries Preservation Act’.”
+
 #### Short Title of 1992 Amendment
 
 Section 1 of Pub. L. 102–587 provided that: “This Act \[see Tables for classification\] may be cited as the ‘Oceans Act of 1992’.”
@@ -76,7 +82,7 @@ Section 101 of title I of Pub. L. 98–498 provided that: “This title \[enacti
 
 #### Short Title
 
-Section 316 of Pub. L. 92–532, as added by Pub. L. 102–587, title II, §2112, Nov. 4, 1992, 106 Stat. 5047, provided that: “This title \[probably means title III of Pub. L. 92–532, which enacted this chapter, see Codification note set out under section 1445a of this title\] may be cited as ‘The National Marine Sanctuaries Act’.”
+Section 317 of title III, formerly section 316, of Pub. L. 92–532, as added by Pub. L. 102–587, title II, §2112, Nov. 4, 1992, 106 Stat. 5047; renumbered §317 of title III, Pub. L. 104–283, §§6(a), 9(f), Oct. 11, 1996, 110 Stat. 3364, 3368, provided that: “This title \[enacting this chapter\] may be cited as ‘The National Marine Sanctuaries Act’.”
 
 #### Congressional Findings, Policy, and Declaration of Purpose
 
@@ -93,6 +99,4 @@ For provisions relating to the responsibility of the head of each Executive agen
 #### Prevention, Control, and Abatement of Environmental Pollution at Federal Facilities
 
 Ex. Ord. No. 11752, Dec. 17, 1973, 38 F.R. 34793, set out as a note under section 4331 of Title 42, The Public Health and Welfare, which related to the prevention, control, and abatement of environmental pollution at Federal facilities, was revoked by Ex. Ord. No. 12088, Oct. 13, 1978, 43 F.R. 47707, set out as a note under section 4321 of Title 42.
-
-<i><sup>1</sup></i><i> So in original. The period probably should be a semicolon.</i>
 

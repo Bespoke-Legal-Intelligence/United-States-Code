@@ -24,5 +24,5 @@ This Act, referred to in subsecs. (a) and (b), is Pub. L. 102–486, Oct. 24, 19
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 12005, 13331, 13411, 13412, 13413, 13414, 13431, 13432, 13433, 13434, 13436, 13437, 13451, 13452, 13453, 13454, 13455, 13456, 13471, 13472, 13474, 13475, 13477, 13501, 13502, 13503 of this title.
+This section is referred to in sections 12005, 13331, 13411, 13412, 13413, 13414, 13431, 13432, 13433, 13434, 13437, 13451, 13452, 13453, 13454, 13455, 13456, 13471, 13472, 13474, 13475, 13477, 13501, 13502, 13503 of this title.
 

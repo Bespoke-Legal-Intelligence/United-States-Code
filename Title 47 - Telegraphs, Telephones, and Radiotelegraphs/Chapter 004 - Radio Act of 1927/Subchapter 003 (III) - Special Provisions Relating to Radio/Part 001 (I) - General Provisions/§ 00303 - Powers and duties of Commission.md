@@ -12,7 +12,7 @@ Except as otherwise provided in this chapter, the Commission from time to time, 
 
 (e) Regulate the kind of apparatus to be used with respect to its external effects and the purity and sharpness of the emissions from each station and from the apparatus therein;
 
-(f) Make such regulations not inconsistent with law as it may deem necessary to prevent interference between stations and to carry out the provisions of this chapter: <i>Provided, however</i>, That changes in the frequencies, authorized power, or in the times of operation of any station, shall not be made without the consent of the station licensee unless, after a public hearing, the Commission shall determine that such changes will promote public convenience or interest or will serve public necessity, or the provisions of this chapter will be more fully complied with;
+(f) Make such regulations not inconsistent with law as it may deem necessary to prevent interference between stations and to carry out the provisions of this chapter: <i>Provided, however</i>, That changes in the frequencies, authorized power, or in the times of operation of any station, shall not be made without the consent of the station licensee unless the Commission shall determine that such changes will promote public convenience or interest or will serve public necessity, or the provisions of this chapter will be more fully complied with;
 
 (g) Study new uses for radio, provide for experimental uses of frequencies, and generally encourage the larger and more effective use of radio in the public interest;
 
@@ -66,13 +66,35 @@ Except as otherwise provided in this chapter, the Commission from time to time, 
 
 (u) Require that apparatus designed to receive television pictures broadcast simultaneously with sound be equipped with built-in decoder circuitry designed to display closed-captioned television transmissions when such apparatus is manufactured in the United States or imported for use in the United States, and its television picture screen is 13 inches or greater in size.
 
-(June 19, 1934, ch. 652, title III, §303, 48 Stat. 1082; May 20, 1937, ch. 229, §§5, 6, 50 Stat. 190, 191; Aug. 28, 1958, Pub. L. 85–817, §1, 72 Stat. 981; Apr. 27, 1962, Pub. L. 87–445, 76 Stat. 64; July 10, 1962, Pub. L. 87–529, §1, 76 Stat. 150; May 28, 1964, Pub. L. 88–313, §1, 78 Stat. 202; Aug. 22, 1964, Pub. L. 88–487, §2, 78 Stat. 602; Oct. 19, 1965, Pub. L. 89–268, 79 Stat. 990; Aug. 10, 1971, Pub. L. 92–81, §1, 85 Stat. 302; Nov. 30, 1974, Pub. L. 93–505, §1, 88 Stat. 1576; Sept. 13, 1982, Pub. L. 97–259, titleI, §§109–111(a), 113(b), 96 Stat. 1092, 1093; Sept. 28, 1990, Pub. L. 101–396, §8(a), 104 Stat. 850; Oct. 15, 1990, Pub. L. 101–431, §3, 104 Stat. 960; Oct. 27, 1992, Pub. L. 102–538, title II, §210(a), 106 Stat. 3544.)
+(v) Have exclusive jurisdiction to regulate the provision of direct-to-home satellite services. As used in this subsection, the term “direct-to-home satellite services” means the distribution or broadcasting of programming or services by satellite directly to the subscriber's premises without the use of ground receiving or distribution equipment, except at the subscriber's premises or in the uplink process to the satellite.
+
+(June 19, 1934, ch. 652, title III, §303, 48 Stat. 1082; May 20, 1937, ch. 229, §§5, 6, 50 Stat. 190, 191; Aug.28, 1958, Pub. L. 85–817, §1, 72 Stat. 981; Apr. 27, 1962, Pub. L. 87–445, 76 Stat. 64; July 10, 1962, Pub. L. 87–529, §1, 76 Stat. 150; May 28, 1964, Pub. L. 88–313, §1, 78 Stat. 202; Aug. 22, 1964, Pub. L. 88–487, §2, 78 Stat. 602; Oct. 19, 1965, Pub. L. 89–268, 79 Stat. 990; Aug. 10, 1971, Pub. L. 92–81, §1, 85 Stat. 302; Nov. 30, 1974, Pub. L. 93–505, §1, 88 Stat. 1576; Sept. 13, 1982, Pub. L. 97–259, title I, §§109–111(a), 113(b), 96 Stat. 1092, 1093; Sept. 28, 1990, Pub. L. 101–396, §8(a), 104 Stat. 850; Oct. 15, 1990, Pub. L. 101–431, §3, 104 Stat. 960; Oct. 27, 1992, Pub. L. 102–538, title II, §210(a), 106 Stat. 3544; Feb. 8, 1996, Pub. L. 104–104, title II, §205(b), title IV, §403(g), title V, §551(b)(1), (c), 110 Stat. 114, 131, 140, 141.)
+
+#### Enactment of Subsection (w)
+
+<i>Pub. L. 104–104, title V, §551(b)(1), (e)(1), Feb. 8, 1996, 110 Stat. 140, 142, provided that, effective 1 year after Feb. 8, 1996, but only if the Commission determines that distributors have not voluntarily established and broadcast a ratings system for video programming, this section is amended by adding a new subsection (w) to read as follows:</i>
+
+(w) Prescribe—
+
+&emsp;(1) on the basis of recommendations from an advisory committee established by the Commission in accordance with section 551(b)(2) of the Telecommunications Act of 1996, guidelines and recommended procedures for the identification and rating of video programming that contains sexual, violent, or other indecent material about which parents should be informed before it is displayed to children: <i>Provided</i>, That nothing in this paragraph shall be construed to authorize any rating of video programming on the basis of its political or religious content; and
+
+&emsp;(2) with respect to any video programming that has been rated, and in consultation with the television industry, rules requiring distributors of such video programming to transmit such rating to permit parents to block the display of video programming that they have determined is inappropriate for their children.
+
+#### Enactment of Subsection (x)
+
+<i>Pub. L. 104–104, title V, §551(c), (e)(2), Feb. 8, 1996, 110 Stat. 141, 142, provided that, effective on a date specified by Federal Communications Commission, but not less than two years after Feb. 8, 1996, this section is amended by adding a new subsection (x) to read as follows:</i>
+
+(x) Require, in the case of an apparatus designed to receive television signals that are shipped in interstate commerce or manufactured in the United States and that have a picture screen 13 inches or greater in size (measured diagonally), that such apparatus be equipped with a feature designed to enable viewers to block display of all programs with a common rating, except as otherwise permitted by regulations pursuant to section 330(c)(4) of this title.
 
 #### Codification
 
 In subsec. (<i>l</i>)(3), “subchapter II of chapter 5, and chapter 7, of title 5” substituted for “the Administrative Procedure Act” on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
 
 #### Amendments
+
+1996—Subsec. (f). Pub. L. 104–104, §403(g), struck out “, after a public hearing,” after “unless”.
+
+Subsec. (v). Pub. L. 104–104, §205(b), added subsec. (v).
 
 1992—Subsec. (q). Pub. L. 102–538 inserted “, and the tower owner in any case in which the owner is not the permittee or licensee,” after “permittee or licensee”.
 
@@ -110,6 +132,22 @@ Subsec. (s). Pub. L. 87–529 added subsec. (s).
 
 Subsec. (r). Act May 20, 1937, §6(b), added subsec. (r).
 
+#### Effective Date of 1996 Amendment
+
+Section 551(e) of Pub. L. 104–104 provided that:
+
+“(1)
+
+Applicability of rating provision.—The amendment made by subsection (b) of this section \[amending this section\] shall take effect 1 year after the date of enactment of this Act \[Feb. 8, 1996\], but only if the Commission determines, in consultation with appropriate public interest groups and interested individuals from the private sector, that distributors of video programming have not, by such date—
+
+&emsp;“(A) established voluntary rules for rating video programming that contains sexual, violent, or other indecent material about which parents should be informed before it is displayed to children, and such rules are acceptable to the Commission; and
+
+&emsp;“(B) agreed voluntarily to broadcast signals that contain ratings of such programming.
+
+“(2)
+
+Effective date of manufacturing provision.—In prescribing regulations to implement the amendment made by subsection (c) \[amending this section\], the Federal Communications Commission shall, after consultation with the television manufacturing industry, specify the effective date for the applicability of the requirement to the apparatus covered by such amendment, which date shall not be less than two years after the date of enactment of this Act \[Feb. 8, 1996\].”
+
 #### Effective Date of 1992 Amendment
 
 Section 210(c) of Pub. L. 102–538 provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect 30 days after the date of enactment of this Act \[Oct. 27, 1992\].”
@@ -123,6 +161,52 @@ Section 5 of Pub. L. 101–431 provided that: “Sections 3 and 4 of this Act \[
 Section 6 of Pub. L. 101–431 provided that: “The Federal Communications Commission shall promulgate rules to implement this Act \[amending this section and section 330 of this title and enacting provisions set out as notes under this section and section 609 of this title\] within 180 days after the date of its enactment \[Oct. 15, 1990\].”
 
 Pub. L. 100–459, title VI, §608, Oct. 1, 1988, 102 Stat. 2228, directed Federal Communications Commission to promulgate, by Jan. 31, 1989, regulations in accordance with section 1464 of Title 18, Crimes and Criminal Procedure, to enforce the provisions of such section on a 24 hour per day basis, prior to repeal by Pub. L. 102–356, §16(b), Aug. 26, 1992, 106 Stat. 954.
+
+#### Restrictions on Over-the-Air Reception Devices
+
+Section 207 of Pub. L. 104–104 provided that: “Within 180 days after the date of enactment of this Act \[Feb. 8, 1996\], the Commission shall, pursuant to section 303 of the Communications Act of 1934 \[47 U.S.C. 303\], promulgate regulations to prohibit restrictions that impair a viewer's ability to receive video programming services through devices designed for over-the-air reception of television broadcast signals, multichannel multipoint distribution service, or direct broadcast satellite services.”
+
+#### Parental Choice in Television Programming
+
+Section 551(a) of Pub. L. 104–104 provided that: “The Congress makes the following findings:
+
+&emsp;“(1) Television influences children's perception of the values and behavior that are common and acceptable in society.
+
+&emsp;“(2) Television station operators, cable television system operators, and video programmers should follow practices in connection with video programming that take into consideration that television broadcast and cable programming has established a uniquely pervasive presence in the lives of American children.
+
+&emsp;“(3) The average American child is exposed to 25 hours of television each week and some children are exposed to as much as 11 hours of television a day.
+
+&emsp;“(4) Studies have shown that children exposed to violent video programming at a young age have a higher tendency for violent and aggressive behavior later in life than children not so exposed, and that children exposed to violent video programming are prone to assume that acts of violence are acceptable behavior.
+
+&emsp;“(5) Children in the United States are, on average, exposed to an estimated 8,000 murders and 100,000 acts of violence on television by the time the child completes elementary school.
+
+&emsp;“(6) Studies indicate that children are affected by the pervasiveness and casual treatment of sexual material on television, eroding the ability of parents to develop responsible attitudes and behavior in their children.
+
+&emsp;“(7) Parents express grave concern over violent and sexual video programming and strongly support technology that would give them greater control to block video programming in the home that they consider harmful to their children.
+
+&emsp;“(8) There is a compelling governmental interest in empowering parents to limit the negative influences of video programming that is harmful to children.
+
+&emsp;“(9) Providing parents with timely information about the nature of upcoming video programming and with the technological tools that allow them easily to block violent, sexual, or other programming that they believe harmful to their children is a nonintrusive and narrowly tailored means of achieving that compelling governmental interest.”
+
+#### Advisory Committee Requirements
+
+Section 551(b)(2) of Pub. L. 104–104 provided that: “In establishing an advisory committee for purposes of the amendment made by paragraph (1) of this subsection \[amending this section\], the Commission shall—
+
+&emsp;“(A) ensure that such committee is composed of parents, television broadcasters, television programming producers, cable operators, appropriate public interest groups, and other interested individuals from the private sector and is fairly balanced in terms of political affiliation, the points of view represented, and the functions to be performed by the committee;
+
+&emsp;“(B) provide to the committee such staff and resources as may be necessary to permit it to perform its functions efficiently and promptly; and
+
+&emsp;“(C) require the committee to submit a final report of its recommendations within one year after the date of the appointment of the initial members.”
+
+#### Technology Fund
+
+Section 552 of Pub. L. 104–104 provided that: “It is the policy of the United States to encourage broadcast television, cable, satellite, syndication, other video programming distributors, and relevant related industries (in consultation with appropriate public interest groups and interested individuals from the private sector) to—
+
+&emsp;“(1) establish a technology fund to encourage television and electronics equipment manufacturers to facilitate the development of technology which would empower parents to block programming they deem inappropriate for their children and to encourage the availability thereof to low income parents;
+
+&emsp;“(2) report to the viewing public on the status of the development of affordable, easy to use blocking technology; and
+
+&emsp;“(3) establish and promote effective procedures, standards, systems, advisories, or other mechanisms for ensuring that users have easy and complete access to the information necessary to effectively utilize blocking technology and to encourage the availability thereof to low income parents.”
 
 #### AM Radio Improvement Standard
 
@@ -140,7 +224,7 @@ Pub. L. 102–356, §16(a), Aug. 26, 1992, 106 Stat. 954, provided that: “The 
 
 &emsp;“(2) between 6 a.m. and 12 midnight on any day for any radio or television broadcasting station not described in paragraph (1).
 
-> The regulations required under this subsection shall be promulgated in accordance with section 553 of title 5,United States Code, and shall become final not later than 180 days after the date of enactment of this Act \[Aug. 26, 1992\].”
+> The regulations required under this subsection shall be promulgated in accordance with section 553 of title 5, United States Code, and shall become final not later than 180 days after the date of enactment of this Act \[Aug. 26, 1992\].”
 
 #### Congressional Findings Regarding Access by Hearing-Impaired People to Television Medium
 
@@ -178,5 +262,5 @@ Radiotelegraph operators licensed as ship's officers, see section 7101 et seq. o
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 301, 305, 309, 330, 503, 923 of this title.
+This section is referred to in sections 301, 305, 309, 330, 332, 503, 923 of this title.
 

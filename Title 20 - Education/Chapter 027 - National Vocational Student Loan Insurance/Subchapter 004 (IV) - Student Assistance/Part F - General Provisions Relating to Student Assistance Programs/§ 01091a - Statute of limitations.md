@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-(1) It is the purpose of this subsection to ensure that obligations to repay loans and grantoverpayments are enforced without regard to any Federal or State statutory, regulatory, or administrative limitation on the period within which debts may be enforced.
+(1) It is the purpose of this subsection to ensure that obligations to repay loans and grant overpayments are enforced without regard to any Federal or State statutory, regulatory, or administrative limitation on the period within which debts may be enforced.
 
 (2) Notwithstanding any other provision of statute, regulation, or administrative limitation, no limitation shall terminate the period within which suit may be filed, a judgment may be enforced, or an offset, garnishment, or other action initiated or taken by—
 

@@ -29,4 +29,6 @@ Part D—Offenses and Penalties
 - [&sect; 00860 - Distribution or manufacturing in or near schools and colleges](%C2%A7%2000860%20-%20Distribution%20or%20manufacturing%20in%20or%20near%20schools%20and%20colleges.md)
 - [&sect; 00861 - Employment or use of persons under 18 years of age in drug operations](%C2%A7%2000861%20-%20Employment%20or%20use%20of%20persons%20under%2018%20years%20of%20age%20in%20drug%20operations.md)
 - [&sect; 00862 - Denial of Federal benefits to drug traffickers and possessors](%C2%A7%2000862%20-%20Denial%20of%20Federal%20benefits%20to%20drug%20traffickers%20and%20possessors.md)
+- [&sect; 00862a - Denial of assistance and benefits for certain drug-related convictions](%C2%A7%2000862a%20-%20Denial%20of%20assistance%20and%20benefits%20for%20certain%20drug-related%20convictions.md)
+- [&sect; 00862b - Sanctioning for testing positive for controlled substances](%C2%A7%2000862b%20-%20Sanctioning%20for%20testing%20positive%20for%20controlled%20substances.md)
 - [&sect; 00863 - Drug paraphernalia](%C2%A7%2000863%20-%20Drug%20paraphernalia.md)

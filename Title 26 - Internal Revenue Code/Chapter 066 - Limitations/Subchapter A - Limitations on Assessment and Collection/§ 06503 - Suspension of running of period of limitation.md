@@ -4,7 +4,7 @@
 
 #### (1) General rule
 
-&emsp;The running of the period of limitations provided in section 6501 or 6502 (or section 6229, but only with respect to a deficiency described in section 6230(a)(2)(A)).<sup>1</sup> on the making of assessments or the collection by levy or a proceeding in court, in respect of any deficiency as defined in section 6211 (relating to income, estate, gift and certain excise taxes), shall (after the mailing of a notice under section 6212(a)) be suspended for the period during which the Secretary is prohibited from making the assessment or from collecting by levy or a proceeding in court (and in any event, if a proceeding in respect of the deficiency is placed on the docket of the Tax Court, until the decision of the Tax Court becomes final), and for 60 days thereafter.
+&emsp;The running of the period of limitations provided in section 6501 or 6502 (or section 6229, but only with respect to a deficiency described in section 6230(a)(2)(A)).<sup>1</sup> on the making of assessments or the collection by levy or a proceeding in court, in respect of any deficiencyas defined in section 6211 (relating to income, estate, gift and certain excise taxes), shall (after the mailing of a notice under section 6212(a)) be suspended for the period during which the Secretary is prohibited from making the assessment or from collecting by levy or a proceeding in court (and in any event, if a proceeding in respect of the deficiency is placed on the docket of the Tax Court, until the decision of the Tax Court becomes final), and for 60 days thereafter.
 
 #### (2) Corporation joining in consolidated income tax return
 
@@ -50,13 +50,15 @@ The running of any period of limitations for collection of any amount of undistr
 
 #### (1) In general
 
-&emsp;If any designated summons is issued by the Secretary with respect to any return of tax by a corporation, the running of any period of limitations provided in section 6501 on the assessment of such tax shall be suspended—
+&emsp;If any designated summons is issued by the Secretary to a corporation (or to any other person to whom the corporation has transferred records) with respect to any return of tax by such corporation for a taxable year (or other period) for which such corporation is being examined under the coordinated examination program (or any successor program) of the Internal Revenue Service, the running of any period of limitations provided in section 6501 on the assessment of such tax shall be suspended—
 
 &emsp;&emsp;(A) during any judicial enforcement period—
 
-&emsp;&emsp;&emsp;(i) with respect to such summons, or
+&emsp;&emsp;&emsp;(i) the issuance of such summons is preceded by a review of such issuance by the regional counsel of the Office of Chief Counsel for the region in which the examination of the corporation is being conducted,
 
-&emsp;&emsp;&emsp;(ii) with respect to any other summons which is issued during the 30-day period which begins on the date on which such designated summons is issued and which relates to the same return as such designated summons, and
+&emsp;&emsp;&emsp;(ii) with respect to such summons, or
+
+&emsp;&emsp;&emsp;(iii) with respect to any other summons which is issued during the 30-day period which begins on the date on which such designated summons is issued and which relates to the same return as such designated summons, and
 
 &emsp;&emsp;(B) if the court in any proceeding referred to in paragraph (3) requires any compliance with a summons referred to in subparagraph (A), during the 120-day period beginning with the 1st day after the close of the suspension under subparagraph (A).
 
@@ -86,9 +88,7 @@ The running of any period of limitations for collection of any amount of undistr
 
 &emsp;&emsp;(B) which ends on the day on which there is a final resolution as to the summoned person's response to such summons.
 
-#### \[(k) Redesignated (j)\]
-
-#### (<i>l</i>) Cross references
+#### (k) Cross references
 
 &emsp;&emsp;<b>For suspension in case of—</b>
 
@@ -102,7 +102,7 @@ The running of any period of limitations for collection of any amount of undistr
 
 &emsp;&emsp;&emsp;<b>(5) Deficiency dividends in the case of a regulated investment company or a real estate investment trust, see section 860(h).</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 806; Aug. 6, 1956, ch. 1020, §2, 70 Stat. 1075; Sept. 2, 1958, Pub. L. 85–866, title II, §206(d), 72 Stat. 1685; Apr. 8, 1966, Pub. L. 89–384, §1(e), 80 Stat. 104; Nov. 2, 1966, Pub. L. 89–719, title I, §106, 80 Stat. 1139; Dec. 30, 1969, Pub. L. 91–172, title I, §101(g)(4), (j)(46), 83 Stat. 525, 531; Sept. 2, 1974, Pub. L. 93–406, title II, §1016(a)(15), 88 Stat. 930; Oct. 2, 1976, Pub. L. 94–452, §3(b), 90 Stat. 1514; Oct. 4, 1976, Pub. L. 94–455, title XII, §1203(h)(1), title XVI, §1601(f)(2), title XIX, §§1902(b)(2)(A), 1906(b)(13)(A), title XX, §2004(c)(4), 90 Stat. 1694, 1746, 1806, 1834, 1868; Feb. 10, 1978, Pub. L. 95–227, §4(d)(6), 92 Stat. 23; Nov. 6, 1978, Pub. L. 95–600, title III, §362(d)(5), 92 Stat. 2852; Apr. 1, 1980, Pub. L. 96–222, title I, §108(b)(1)(A), 94 Stat. 226; Dec. 24, 1980, Pub. L. 96–589, §6(a), (i)(11), 94 Stat. 3407, 3411; Dec. 24, 1980, Pub. L. 96–596, §2(a)(4)(D), (E), 94 Stat. 3472; Aug. 13, 1981, Pub. L. 97–34, title IV, §422(e)(7), 95Stat. 316; July 18, 1984, Pub. L. 98–369, div. A, title III, §305(b)(4), 98 Stat. 784; Oct. 22, 1986, Pub. L. 99–514, title XII, §1235(d), title XVIII, §1875(d)(2)(B)(ii), 100 Stat. 2575, 2896; Dec. 22, 1987, Pub. L. 100–203, title X, §10712(c)(3), 101 Stat. 1330–467; Nov. 5, 1990, Pub. L. 101–508, title XI, §§11311(a), 11801(c)(20)(A), 104 Stat. 1388–453, 1388–528.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 806; Aug. 6, 1956, ch. 1020, §2, 70 Stat. 1075; Sept. 2, 1958, Pub. L. 85–866, title II, §206(d), 72 Stat. 1685; Apr. 8, 1966, Pub. L. 89–384, §1(e), 80 Stat. 104; Nov. 2, 1966, Pub. L. 89–719, title I, §106, 80 Stat. 1139; Dec. 30, 1969, Pub. L. 91–172, title I, §101(g)(4), (j)(46), 83 Stat. 525, 531; Sept. 2, 1974, Pub. L. 93–406, title II, §1016(a)(15), 88 Stat. 930; Oct. 2, 1976, Pub. L. 94–452, §3(b), 90 Stat. 1514; Oct. 4, 1976, Pub. L. 94–455, title XII, §1203(h)(1), title XVI, §1601(f)(2), title XIX, §§1902(b)(2)(A), 1906(b)(13)(A), title XX, §2004(c)(4), 90 Stat. 1694, 1746, 1806, 1834, 1868; Feb. 10, 1978, Pub. L. 95–227, §4(d)(6), 92 Stat. 23; Nov. 6, 1978, Pub. L. 95–600, title III, §362(d)(5), 92 Stat. 2852; Apr. 1, 1980, Pub. L. 96–222, title I, §108(b)(1)(A), 94 Stat. 226; Dec. 24, 1980, Pub. L. 96–589, §6(a), (i)(11), 94 Stat. 3407, 3411; Dec. 24, 1980, Pub. L. 96–596, §2(a)(4)(D), (E), 94 Stat. 3472; Aug. 13, 1981, Pub. L. 97–34, title IV, §422(e)(7), 95 Stat. 316; July 18, 1984, Pub. L. 98–369, div. A, title III, §305(b)(4), 98 Stat. 784; Oct. 22, 1986, Pub. L. 99–514, title XII, §1235(d), title XVIII, §1875(d)(2)(B)(ii), 100 Stat. 2575, 2896; Dec. 22, 1987, Pub. L. 100–203, title X, §10712(c)(3), 101 Stat. 1330–467; Nov. 5, 1990, Pub. L. 101–508, title XI, §§11311(a), 11801(c)(20)(A), 104 Stat. 1388–453, 1388–528; July 30, 1996, Pub. L. 104–168, title X, §1002(a)–(c), 110 Stat. 1468; Aug. 20, 1996, Pub. L. 104–188, title I, §1702(h)(17), 110 Stat. 1874.)
 
 #### Codification
 
@@ -118,13 +118,31 @@ Pub. L. 96–589 again redesignated subsec. (i), relating to cross references, a
 
 #### Amendments
 
+1996—Subsec. (j). Pub. L. 104–188, §1702(h)(17)(A), which directed that the subsection relating to extension in case of certain summonses be redesignated as (j), could not be executed, because that subsection (formerly subsec. (k)) was previously redesignated (j) by Pub. L. 101–508, §11801(c)(20)(A). See 1990 Amendment note below.
+
+Pub. L. 104–168, §1002(c), which directed that subsec. (k) be redesignated as (j), could not be executed, because that subsection was redesignated (j) by Pub. L. 101–508, §11801(c)(20)(A). See 1990 Amendment note below.
+
+Subsec. (j)(1). Pub. L. 104–168, §1002(b), which directed substitution of “to a corporation (or to any other person to whom the corporation has transferred records) with respect to any return of tax by such corporation for a taxable year (or other period) for which such corporation is being examined under the coordinated examination program (or any successor program) of the Internal Revenue Service” for “with respect to any return of tax by a corporation” in subsec. (k)(1), was executed by making the substitution in subsec. (j)(1) to reflect the probable intent of Congress and the amendment by Pub. L. 101–508, §11801(c)(20)(A), which redesignated subsec. (k) as (j). See 1990 Amendment note below.
+
+Subsec. (j)(2)(A). Pub. L. 104–168, §1002(a), which directed addition of cl. (i) and redesignation of former cls. (i) and (ii) as (ii) and (iii), respectively, in subsec. (k)(2)(A), was executed by making the amendment in subsec. (j)(2)(A) to reflect the probable intent of Congress and the amendment by Pub. L. 101–508, §11801(c)(20)(A), which redesignated subsec. (k) as (j). See 1990 Amendment note below.
+
+Subsec. (k). Pub. L. 104–188, §1702(h)(17)(B), redesignated the subsection relating to cross references (subsec. (<i>l</i>)) as (k).
+
+Pub. L. 104–188, §1702(h)(17)(A), which directed that the subsection relating to extension in case of certain summonses be redesignated as (j), could not be executed, because that subsection (formerly subsec. (k)) was previously redesignated (j) by Pub. L. 101–508, §11801(c)(20)(A). See 1990 Amendment note below.
+
+Pub. L. 104–168, §1002(c), which directed that subsec. (k) be redesignated as (j), could not be executed, because that subsection was redesignated (j) by Pub. L. 101–508, §11801(c)(20)(A). See 1990 Amendment note below.
+
+Subsec. (<i>l</i>). Pub. L. 104–188, §1702(h)(17)(B), redesignated the subsection relating to cross references (subsec. (<i>l</i>)) as (k).
+
+Pub. L. 104–168, §1002(c), which directed that subsec. (<i>l</i>) be redesignated as (k), could not be executed, because that subsection was redesignated (k) by Pub. L. 104–188, §1702(h)(17). See above and see Effective Date of 1996 Amendments note below.
+
 1990—Subsecs. (h) to (j). Pub. L. 101–508, §11801(c)(20)(A), redesignated subsecs. (i) and (j) as (h) and (i), respectively, and struck out former subsec. (h) “Extension of time for collecting tax attributable to divestitures pursuant to Bank Holding Company Act Amendments of 1970” which read as follows: “The running of the period of limitations for collection of the tax attributable to a sale with respect to which the taxpayer makes an election under section 6158(a) shall be suspended for the period during which there are any unpaid installments of such tax.”
 
 Subsec. (k). Pub. L. 101–508, §11801(c)(20)(A), redesignated subsec. (k) as (j).
 
 Pub. L. 101–508, §11311(a), added subsec. (k). Former subsec. (k) redesignated (<i>l</i>).
 
-Subsec. (<i>l</i>). Pub. L. 101–508, §11301(a), redesignated subsec. (k) as (<i>l).</i>
+Subsec. (<i>l</i>). Pub. L. 101–508, §11311(a), redesignated subsec. (k) as (<i>l</i>).
 
 1987—Subsec. (g). Pub. L. 100–203 struck out “4951, 4952,” before “4971”.
 
@@ -195,6 +213,12 @@ Subsec. (h). Pub. L. 89–719, §106(c), redesignated former subsec. (g) as (h).
 1958—Subsec. (d). Pub. L. 85–866 struck out “assessment or” after “period of limitations for” and inserted “or under the provisions of section 6166”.
 
 1956—Subsecs. (e), (f). Act Aug. 6, 1956, added subsec. (e) and redesignated former subsec. (e) as (f).
+
+#### Effective Date of 1996 Amendments
+
+Amendment by Pub. L. 104–188 effective, except as otherwise expressly provided, as if included in the provision of the Revenue Reconciliation Act of 1990, Pub. L. 101–508, title XI, to which such amendment relates,see section 1702(i) of Pub. L. 104–188, set out as a note under section 38 of this title.
+
+Section 1002(d) of Pub. L. 104–168 provided that: “The amendments made by this section \[amending this section\] shall apply to summonses issued after the date of the enactment of this Act \[July 30, 1996\].”
 
 #### Effective Date of 1990 Amendment
 
@@ -270,6 +294,10 @@ Amendment by act Aug. 6, 1956, applicable in the case of decedents dying after A
 
 For provisions that nothing in amendment by section 11801(c)(20)(A) of Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 29 of this title.
 
+#### Annual Report to Congress Concerning Designated Summonses
+
+Section 1003 of Pub. L. 104–168 provided that: “Not later than December 31 of each calendar year after 1995,the Secretary of the Treasury or his delegate shall report to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate on the number of designated summonses (as defined in section 6503(j) of the Internal Revenue Code of 1986) which were issued during the preceding 12 months.”
+
 #### Plan Amendments Not Required Until January 1, 1989
 
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
@@ -280,7 +308,7 @@ Section 2(a)(4)(F) of Pub. L. 96–596, as amended by Pub. L. 99–514, §2, Oct
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1505, 6166, 6167, 6873 of this title; title 18 section 3613.
+This section is referred to in sections 1505, 6166, 6167, 6873 of this title.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

@@ -14,7 +14,7 @@ The Secretary shall submit a report based on the evaluations prepared under subs
 
 #### (d) Authorization of appropriations
 
-To carry out this section, there are authorized to be appropriated $12,000,000 in fiscal year 1989, and $15,000,000 for each of the fiscal years 1990 through 1993.
+To carry out this section, there are authorized to be appropriated $12,000,000 in fiscal year 1989,and $15,000,000 for each of the fiscal years 1990 through 1993.
 
 (Pub. L. 100–690, title III, §3522, Nov. 18, 1988, 102 Stat. 4260; Pub. L. 101–93, §4(2), Aug. 16, 1989, 103 Stat. 611; Pub. L. 101–204, title X, §1001(c)(1), Dec. 7, 1989, 103 Stat. 1826.)
 

@@ -34,7 +34,7 @@ Notwithstanding any provision of this chapter except as provided under this sect
 
 #### (2) Issuance of securities
 
-&emsp;The issuance of securities by a registered holding company for purposes of financing theacquisition of a foreign utility company, the guarantee of securities of a foreign utility company by a registered holding company, the entering into service, sales, or construction contracts, and the creation or maintenance of any other relationship between a foreign utility company and a registered holding company, its affiliates and associate companies, shall remain subject to the jurisdiction of the Commission under this chapter (unless otherwise exempted under this chapter, in the case of a transaction with an affiliate or associate company located outside of the United States). Any State commission with jurisdiction over the retail rates of a public utility company which is part of a registered holding company system may make such recommendations to the Commission regarding the registered holding company's relationship to a foreign utility company, and the Commission shall reasonably and fully consider such State recommendation.
+&emsp;The issuance of securities by a registered holding company for purposes of financing the acquisition of a foreign utility company, the guarantee of securities of a foreign utility company by a registered holding company, the entering into service, sales, or construction contracts, and the creation or maintenance of any other relationship between a foreign utility company and a registered holding company, its affiliates and associate companies, shall remain subject to the jurisdiction of the Commission under this chapter (unless otherwise exempted under this chapter, in the case of a transaction with an affiliate or associate company located outside of the United States). Any State commission with jurisdiction over the retail rates of a public utility company which is part of a registered holding company system may make such recommendations to the Commission regarding the registered holding company's relationship to a foreign utility company, and the Commission shall reasonably and fully consider such State recommendation.
 
 #### (3) Construction
 
@@ -64,7 +64,7 @@ Nothing in this section shall—
 
 #### (2) Notice of acquisitions
 
-&emsp;Not later than 30 days after the consummation of the acquisition of an interest in a foreign utility company by an associate company of a public utility company that is subject to the jurisdiction of a State commission with respect to its retail electric or gas rates or by such public utility company, such associate company or such public utility company, shall provide notice of such acquisition to every State commission having jurisdiction over the retail electric or gas rates of such public utility company, in such form as may be prescribed by the State commission.
+&emsp;Not later than 30 days after the consummation of the acquisition of an interest in a foreign utility company by an associate companyof a public utility company that is subject to the jurisdiction of a State commission with respect to its retail electric or gas rates or by such public utility company, such associate company or such public utility company, shall provide notice of such acquisition to every State commission having jurisdiction over the retail electric or gas rates of such public utility company, in such form as may be prescribed by the State commission.
 
 #### (f) Prohibition on assumption of liabilities
 
@@ -90,11 +90,11 @@ No public utility company that is subject to the jurisdiction of a State commiss
 
 #### References in Text
 
-This chapter and the chapter, referred to in subsecs. (a)(1), (b), (c), and (d)(1), was in the original “this Act” and “the Act”, respectively, and was translated asreading “this title”, meaning title I of act Aug. 26, 1935, ch. 687, known as the Public Utility Holding Company Act of 1935, to reflect the probable intent of Congress.
+This chapter and the chapter, referred to in subsecs. (a)(1), (b), (c), and (d)(1), was in the original “this Act” and “the Act”, respectively, and was translated as reading “this title”, meaning title I of act Aug. 26, 1935, ch. 687, known as the Public Utility Holding Company Act of 1935, to reflect the probable intent of Congress.
 
 #### Prior Provisions
 
-A prior section 33 of act Aug. 26, 1935, ch. 687, was renumbered section 35 and is classified to section 79 of this title.
+A prior section 33 of act Aug. 26, 1935, ch. 687, was renumbered section 36 and is classified to section 79 of this title.
 
 #### State Authorities; Construction
 

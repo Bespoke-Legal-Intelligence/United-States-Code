@@ -36,7 +36,9 @@ Bylaws.—The board may adopt and amend bylaws governing the operation of Amtrak
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

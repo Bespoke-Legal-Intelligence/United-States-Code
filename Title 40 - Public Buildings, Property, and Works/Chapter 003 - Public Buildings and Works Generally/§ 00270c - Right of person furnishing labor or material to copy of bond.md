@@ -8,11 +8,11 @@ The department secretary or agency head of the contracting agency is authorized 
 
 1984—Pub. L. 98–269 substituted “department secretary or agency head of the contracting agency” for “Comptroller General” in two places.
 
-1959—Pub. L. 86–135 struck out “, and, in case final settlement of such contract, has been made, a certifiedstatement of the date of such settlement, which shall be conclusive as to such date upon the parties” and “and certified statements” after “original” and “certified copies”, respectively.
+1959—Pub. L. 86–135 struck out “, and, in case final settlement of such contract, has been made, a certified statement of the date of such settlement, which shall be conclusive as to such date upon the parties” and “and certified statements” after “original” and “certified copies”, respectively.
 
 #### Effective Date
 
-Section effective upon expiration of sixty days after Aug. 24, 1935, but not applicable to any contract awarded pursuant to any invitation for bids issued on or before the date it takes effect, or to any persons or bonds in respect of any such contract, sec section 5 of act Aug. 24, 1935, set out as a note under section 270a of this title.
+Section effective upon expiration of sixty days after Aug. 24, 1935, but not applicable to any contract awarded pursuant to any invitation for bids issued on or before the date it takes effect, or to any persons or bonds in respect of any such contract, see section 7 of act Aug. 24, 1935, set out as a note under section 270a of this title.
 
 #### Retroactive Effect
 

@@ -4,7 +4,7 @@
 
 For purposes of section 1396a(a)(25)(G) of this title and subject to subsection (d) of this section, each State plan—
 
-&emsp;(1) shall implement guidelines established by the Secretary, consistent with subsection (b) of this section, to identify those cases in which enrollment of an individual otherwise entitled to medical assistance under this subchapter in a group health plan (in which the individual is otherwise eligible to be enrolled) is cost-effective (as defined in subsection (e)(2) of this section);
+&emsp;(1) shall implement guidelines established by the Secretary, consistent with subsection (b) of this section, to identify those cases in which enrollment of an individual otherwiseentitled to medical assistance under this subchapter in a group health plan (in which the individual is otherwise eligible to be enrolled) is cost-effective (as defined in subsection (e)(2) of this section);
 
 &emsp;(2) shall require, in case of an individual so identified and as a condition of the individual being or remaining eligible for medical assistance under this subchapter and subject to subsection (b)(2) of this section, notwithstanding any other provision of this subchapter, that the individual (or in the case of a child, the child's parent) apply for enrollment in the group health plan; and
 
@@ -58,7 +58,7 @@ A prior section 1396e, act Aug. 14, 1935, ch. 531, title XIX, §1906, as added J
 
 #### Effective Date
 
-Section applicable, except as otherwise provided, to payments under this subchapter for calendar quarters beginning on or after Jan. 1, 1991, without regard to whether or not final regulations to carry out the amendments by section 4402 of Pub. L. 101–508 have been promulgated by such date, see section 4402(e) of Pub. L. 101–508, set out as an Effective Date of 1990 Amendment note under section 1396a of this title.
+Section applicable, except as otherwise provided, to payments under this subchapter for calendar quartersbeginning on or after Jan. 1, 1991, without regard to whether or not final regulations to carry out the amendments by section 4402 of Pub. L. 101–508 have been promulgated by such date, see section 4402(e) of Pub. L. 101–508, set out as an Effective Date of 1990 Amendment note under section 1396a of this title.
 
 #### Section Referred to in Other Sections
 

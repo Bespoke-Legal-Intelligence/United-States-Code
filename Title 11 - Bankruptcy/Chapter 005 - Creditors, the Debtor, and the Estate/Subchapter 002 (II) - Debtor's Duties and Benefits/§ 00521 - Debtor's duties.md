@@ -6,7 +6,7 @@ The debtor shall—
 
 &emsp;(2) if an individual debtor's schedule of assets and liabilities includes consumer debts which are secured by property of the estate—
 
-&emsp;&emsp;(A) within thirty days after the date of the filing of a petition under chapter 7 of this title or on or before the date of the meeting of creditors, whichever is earlier, or within such additional time as the court, for cause, within such period fixes, the debtor shall file with the clerk a statement of his intention with respect to the retention or surrender of such property and, if applicable, specifying that such property is claimed as exempt, that the debtor intends to redeem such property, or that the debtor intends to reaffirm debts secured by such property;
+&emsp;&emsp;(A) within thirty days after the date of the filing of a petition under chapter 7 of this title or on or before the date of the meeting of creditors, whichever is earlier, or within such additional time as the court, for cause,within such period fixes, the debtor shall file with the clerk a statement of his intention with respect to the retention or surrender of such property and, if applicable, specifying that such property is claimed as exempt, that the debtor intends to redeem such property, or that the debtor intends to reaffirm debts secured by such property;
 
 &emsp;&emsp;(B) within forty-five days after the filing of a notice of intent under this section, or within such additional time as the court, for cause, within such forty-five day period fixes, the debtor shall perform his intention with respect to such property, as specified by subparagraph (A) of this paragraph; and
 

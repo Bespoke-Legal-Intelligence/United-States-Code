@@ -72,7 +72,7 @@ Each local educational agency desiring a grant under this section shall submit a
 
 &emsp;(2) any study or other information-gathering project for which funds will be used;
 
-&emsp;(3) strategies and methods the applicant will use to enrich and extend learning time for all students and to maximize the percentage of common core learning time in the school day, such as block scheduling, team teaching, longer school days or years, and extending learning time through new distance-learning technologies;
+&emsp;(3) strategies and methods the applicant will use to enrich and extend learning time for all students and to maximize the percentage of common core learning time in the school day, such as block scheduling, team teaching, longer school days or years, and extendinglearning time through new distance-learning technologies;
 
 &emsp;(4) the strategies and methods the applicant will use, including changes in curriculum and instruction, to challenge and engage students and to maximize the productiveness of common core learning time, as well as the total time students spend in school and in school-related enrichment activities;
 

@@ -14,7 +14,7 @@ There shall be allowed as a deduction all interest paid or accrued within the ta
 
 &emsp;&emsp;(B) in which carrying charges are separately stated but the interest charge cannot be ascertained,
 
-> &emsp;then the payments made during the taxable year under the contract shall be treated for purposes of this section as if they included interest equal to 6 percent of the average unpaid balance under the contract during the taxable year. For purposes of the preceding sentence, the average unpaid balance is the sum of the unpaid balance outstanding on the first day of each month beginning during the taxable year,divided by 12. For purposes of this paragraph, the term “educational services” means any service (including lodging) which is purchased from an educational organization described in section 170(b)(1)(A)(ii) and which is provided for a student of such organization.
+> &emsp;then the payments made during the taxable year under the contract shall be treated for purposes of this section as if they included interest equal to 6 percent of the average unpaid balance under the contract during the taxable year. For purposes of the preceding sentence, the average unpaid balance is the sum of the unpaid balance outstanding on the first day of each month beginning during the taxable year, divided by 12. For purposes of this paragraph, the term “educational services” means any service (including lodging) which is purchased from an educational organization described in section 170(b)(1)(A)(ii) and which is provided for a student of such organization.
 
 #### (2) Limitation
 
@@ -144,13 +144,11 @@ For purposes of this subtitle, any annual or periodic rental under a redeemable 
 
 &nbsp;
 
-| &nbsp; | &nbsp; |
+| <b>  In the case of taxable    years beginning in:</b> | <b>The applicable percentage is:</b> |
 | :--- | ---: |
-| <b>  In the case of taxable</b> | <b>The applicable</b> |
-| <b>   years beginning in:</b> | <b>percentage is:</b> |
-| &nbsp;&nbsp;&nbsp;&nbsp;1987 | 35&nbsp; |
-| &nbsp;&nbsp;&nbsp;&nbsp;1988 | 60&nbsp; |
-| &nbsp;&nbsp;&nbsp;&nbsp;1989 | 80&nbsp; |
+| &nbsp;&nbsp;&nbsp;&nbsp;1987 | 35&nbsp;&nbsp; |
+| &nbsp;&nbsp;&nbsp;&nbsp;1988 | 60&nbsp;&nbsp; |
+| &nbsp;&nbsp;&nbsp;&nbsp;1989 | 80&nbsp;&nbsp; |
 | &nbsp;&nbsp;&nbsp;&nbsp;1990 | 90\. |
 
 #### (C) Ceiling amount
@@ -291,7 +289,7 @@ For purposes of this subtitle, any annual or periodic rental under a redeemable 
 
 &emsp;&emsp;An obligation is described in this subparagraph if—
 
-&emsp;&emsp;&emsp;(i) there are arrangements reasonably designed to ensure that such obligation will be sold (or resold in connection with the original issue) only to a person who is not a United States person, and
+&emsp;&emsp;&emsp;(i) there are arrangements reasonably designed to ensure that such obligation will be sold (or resold in connection withthe original issue) only to a person who is not a United States person, and
 
 &emsp;&emsp;&emsp;(ii) in the case of an obligation not in registered form—
 
@@ -317,7 +315,7 @@ For purposes of this subtitle, any annual or periodic rental under a redeemable 
 
 #### (g) Reduction of deduction where section 25 credit taken
 
-The amount of the deduction under this section for interest paid or accrued during any taxable year on indebtedness with respect to which a mortgage credit certificate has been issued under section 25 shall be reduced by the amountof the credit allowable with respect to such interest under section 25 (determined without regard to section 26).
+The amount of the deduction under this section for interest paid or accrued during any taxable year on indebtedness with respect to which a mortgage credit certificate has been issued under section 25 shall be reduced by the amount of the credit allowable with respect to such interest under section 25 (determined without regard to section 26).
 
 #### (h) Disallowance of deduction for personal interest
 
@@ -411,7 +409,7 @@ The amount of the deduction under this section for interest paid or accrued duri
 
 &emsp;&emsp;&emsp;&emsp;(I) the expiration of the term of the indebtedness described in clause (iii)(I), or
 
-&emsp;&emsp;&emsp;&emsp;(II) if the principal of the indebtedness described in clause (iii)(I) is not amortized over its term, the expiration of theterm of the 1st refinancing of such indebtedness (or if earlier, the date which is 30 years after the date of such 1st refinancing).
+&emsp;&emsp;&emsp;&emsp;(II) if the principal of the indebtedness described in clause (iii)(I) is not amortized over its term, the expiration of the term of the 1st refinancing of such indebtedness (or if earlier, the date which is 30 years after the date of such 1st refinancing).
 
 #### (4) Other definitions and special rules
 
@@ -471,7 +469,7 @@ The amount of the deduction under this section for interest paid or accrued duri
 
 &emsp;&emsp;(C) such instrument has significant original issue discount.
 
-> &emsp;For purposes of subparagraph (B)(i), the Secretary may by regulation permit a rate to be used with respect to any debt instrument which is higher than the applicable Federal rate if the taxpayer establishes to the satisfaction of the Secretary that such higher rate is based on the same principles as the applicable Federal rate and is appropriate for the term of the instrument.
+> &emsp;For purposes of subparagraph (B)(i), the Secretary may by regulation permit a rate to beused with respect to any debt instrument which is higher than the applicable Federal rate if the taxpayer establishes to the satisfaction of the Secretary that such higher rate is based on the same principles as the applicable Federal rate and is appropriate for the term of the instrument.
 
 #### (2) Significant original issue discount
 
@@ -517,7 +515,7 @@ The amount of the deduction under this section for interest paid or accrued duri
 
 #### (B) Disallowed amount carried to succeeding taxable year
 
-&emsp;&emsp;Any amount disallowed under subparagraph (A) for any taxable year shall be treated as disqualified interest paid or accrued in the succeeding taxable year.
+&emsp;&emsp;Any amount disallowed under subparagraph (A) for any taxable year shall be treated as disqualified interest paid or accrued in the succeeding taxable year (and clause (ii) of paragraph (2)(A) shall not apply for purposes of applying this subsection to the amount so treated).
 
 #### (2) Corporations to which subsection applies
 
@@ -579,7 +577,7 @@ The amount of the deduction under this section for interest paid or accrued duri
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), the term “related person” means any personwho is related (within the meaning of section 267(b) or 707(b)(1)) to the taxpayer.
+&emsp;&emsp;Except as provided in subparagraph (B), the term “related person” means any person who is related (within the meaning of section 267(b) or 707(b)(1)) to the taxpayer.
 
 #### (B) Special rule for certain partnerships
 
@@ -671,7 +669,11 @@ The amount of the deduction under this section for interest paid or accrued duri
 
 &emsp;&emsp;&emsp;The term “net basis tax” means any tax imposed by this subtitle which is not a gross basis tax.
 
-#### (7) Regulations
+#### (7) Coordination with passive loss rules, etc.
+
+&emsp;This subsection shall be applied before sections 465 and 469.
+
+#### (8) Regulations
 
 &emsp;The Secretary shall prescribe such regulations as may be appropriate to carry out the purposes of this subsection, including—
 
@@ -693,13 +695,19 @@ The amount of the deduction under this section for interest paid or accrued duri
 
 &emsp;&emsp;<b>(5) For treatment of redeemable ground rents and real property held subject to liabilities under redeemable ground rents, see section 1055.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 46; Apr. 10, 1963, Pub. L. 88–9, §1(a), (c), 77 Stat. 6, 7; Feb. 26, 1964, Pub. L. 88–272, title II, §224(c), 78 Stat. 79; Dec. 30, 1969, Pub. L. 91–172, title II, §221(a), 83 Stat. 574; Dec. 10, 1971, Pub. L. 92–178, title III, §304(a)(2), (b)(2), (d), 85 Stat. 523, 524; Oct. 4, 1976, Pub. L. 94–455, title II, §§205(c)(3), 209(a), title XIX, §§1901(b)(3)(K), (8)(C), 1906(b)(13)(A), 90 Stat. 1535, 1542, 1793, 1794, 1834; Sept. 3, 1982, Pub. L. 97–248, title II, §231(b), title III, §310(b)(2), 96 Stat. 498, 596; Oct. 19, 1982, Pub. L. 97–354, §5(a)(18), 96 Stat. 1693; July 18, 1984, Pub. L. 98–369, div. A, title I, §§42(a)(3), 56(b), 127(f), 128(c), title VI, §612(c), 98 Stat. 556, 574, 652, 654, 911; Oct. 22, 1986, Pub. L. 99–514, title V, §511(a), (b), title IX, §902(e)(1), title XIII, §1301(j)(3), title XVIII, §§1803(a)(4), 1810(e)(1), 100 Stat. 2244, 2246, 2382, 2657, 2793, 2825; Dec. 22, 1987, Pub. L. 100–203, title X, §§10102(a), (b), 10212(b), 101 Stat. 1330–384, 1330–386, 1330–406; Nov. 10, 1988, Pub. L. 100–647, title I, §§1005(c)(1)–(9), (12), 1006(u)(1), 1009(b)(6), title II, §2004(b)(1), 102 Stat. 3390–3392, 3427, 3449, 3598; Dec. 19, 1989, Pub. L. 101–239, title VII, §§7202(a), (b), 7210(a), 103 Stat. 2330, 2331, 2339; Nov. 5, 1990, Pub. L. 101–508, title XI, §11701(b), (c), 104 Stat. 1388–507; Aug. 10, 1993, Pub. L. 103–66, title XIII, §§13206(d)(1), 13228(a)–(c), 107 Stat. 467, 494, 495.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 46; Apr. 10, 1963, Pub. L. 88–9, §1(a), (c), 77 Stat. 6, 7; Feb. 26, 1964, Pub. L. 88–272, title II, §224(c), 78 Stat. 79; Dec. 30, 1969, Pub. L. 91–172, title II, §221(a), 83 Stat. 574; Dec. 10, 1971, Pub. L. 92–178, title III, §304(a)(2), (b)(2), (d), 85 Stat. 523, 524; Oct. 4, 1976, Pub. L. 94–455, title II, §§205(c)(3), 209(a), title XIX, §§1901(b)(3)(K), (8)(C), 1906(b)(13)(A), 90 Stat. 1535, 1542, 1793, 1794, 1834; Sept. 3, 1982, Pub. L. 97–248, title II, §231(b), title III, §310(b)(2), 96 Stat. 498, 596; Oct. 19, 1982, Pub. L. 97–354, §5(a)(18), 96 Stat. 1693; July 18, 1984, Pub. L. 98–369, div. A, title I, §§42(a)(3), 56(b), 127(f), 128(c), title VI, §612(c), 98 Stat. 556, 574, 652, 654, 911; Oct. 22, 1986, Pub. L. 99–514, title V, §511(a), (b), title IX, §902(e)(1), title XIII, §1301(j)(3), title XVIII, §§1803(a)(4), 1810(e)(1), 100 Stat. 2244, 2246, 2382, 2657, 2793, 2825; Dec. 22, 1987, Pub. L. 100–203, title X, §§10102(a), (b), 10212(b), 101 Stat. 1330–384, 1330–386, 1330–406; Nov. 10, 1988, Pub. L. 100–647, title I, §§1005(c)(1)–(9), (12), 1006(u)(1), 1009(b)(6), title II, §2004(b)(1), 102 Stat. 3390–3392, 3427, 3449, 3598; Dec. 19, 1989, Pub. L. 101–239, title VII, §§7202(a), (b), 7210(a), 103 Stat. 2330, 2331, 2339; Nov. 5, 1990, Pub. L. 101–508, title XI, §11701(b), (c), 104 Stat. 1388–507; Aug. 10, 1993, Pub. L. 103–66, title XIII, §§13206(d)(1), 13228(a)–(c), 107 Stat. 467, 494, 495; Aug. 20, 1996, Pub. L. 104–188, title I, §§1703(n)(4), 1704(f)(2)(A), (B), 110 Stat. 1877, 1879.)
 
 #### References in Text
 
 The Economic Recovery Tax Act of 1981, referred to in subsec. (e)(2)(E), is Pub. L. 97–34, Aug. 13, 1981, 95 Stat. 172, as amended. Section 6166A of this title was repealed by section 422(d) of Pub. L. 97–34. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
+
+1996—Subsec. (j)(1)(B). Pub. L. 104–188, §1704(f)(2)(A), inserted before period at end “(and clause (ii) of paragraph (2)(A) shall not apply for purposes of applying this subsection to the amount so treated)”.
+
+Subsec. (j)(6)(E)(ii). Pub. L. 104–188, §1703(n)(4), which directed that cl. (ii) be amended by substituting “which is” for “which is a”, could not be executed, because “which is a” does not appear.
+
+Subsec. (j)(7), (8). Pub. L. 104–188, §1704(f)(2)(B), added par. (7) and redesignated former par. (7) as (8).
 
 1993—Subsec. (d)(4)(B). Pub. L. 103–66, §13206(d)(1), amended heading and text of subpar. (B) generally. Prior to amendment, text read as follows: “The term ‘investment income’ means the sum of—
 
@@ -713,7 +721,7 @@ Subsec. (j)(3). Pub. L. 103–66, §13228(a), amended heading and text of par. (
 
 &emsp;“(A)
 
-In general.—Except as provided in subparagraph (B), the term ‘disqualified interest’ means any interest paid or accrued by the taxpayer (directly or indirectly) to a related person if no tax is imposed by this subtitle with respect to such interest.
+In general.—Except as provided in subparagraph (B), the term ‘disqualified interest’ means anyinterest paid or accrued by the taxpayer (directly or indirectly) to a related person if no tax is imposed by this subtitle with respect to such interest.
 
 &emsp;“(B)
 
@@ -916,6 +924,12 @@ Subsec. (d)(7). Pub. L. 92–178, §304(a)(2)(B), added par. (7).
 1964—Subsec. (b)(1). Pub. L. 88–272 included the purchase of educational services, and defined “educational services”.
 
 1963—Subsecs. (c), (d). Pub. L. 88–9, §1(a), (c), added subsec. (c), redesignated former subsec. (c) as (d) and added par. (5).
+
+#### Effective Date of 1996 Amendment
+
+Amendment by section 1703(n)(4) of Pub. L. 104–188 effective as if included in the provision of the Revenue Reconciliation Act of 1993, Pub. L. 103–66, §§13001–13444, to which such amendment relates, see section 1703(<i>o</i>) of Pub. L. 104–188, set out as a note under section 39 of this title.
+
+Section 1704(f)(2)(C) of Pub. L. 104–188 provided that: “The amendments made by this paragraph \[amending this section\] shall apply as if included in the amendments made by section 7210(a) of the Revenue Reconciliation Act of 1989 \[Pub. L. 101–239\].”
 
 #### Effective Date of 1993 Amendment
 
@@ -1137,7 +1151,7 @@ Taxable year deduction to be taken, see section 461 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1, 56, 67, 68, 149, 162, 165, 195, 216, 263A, 312, 465, 469, 483, 691, 805, 832, 871, 881, 911, 1275, 1287, 1288, 4701, 6109, 7872 of this title.
+This section is referred to in sections 1, 56, 67, 68, 149, 162, 165, 195, 216, 263A, 312, 465, 469, 483, 691, 805, 832, 860H, 860K, 860L, 871, 881, 911, 1275, 1287, 1288, 4701, 6109, 7872 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by “in”.</i>
 

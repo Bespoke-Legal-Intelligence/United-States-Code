@@ -40,7 +40,7 @@ There are authorized to be appropriated for the purposes of carrying out the stu
 
 Subsec. (d). Pub. L. 102–130, §3(b), substituted “1991, 1992, 1993, and 1994” for “1988, 1989, 1990, and 1991” and struck out at end “If the Secretary considers that the studies described in subsection (a) of this section should be continued after September 30, 1982, the Secretary shall inform the Congress in writing before February 15, 1981, of the reasons why and for how long such continuation is believed to be warranted.”
 
-1988—Subsec. (d). Pub. L. 100–589 substituted “each of the fiscal years 1988, 1989, 1990, and 1991” for “the fiscal year ending September 30, 1980, not to exceed $1,750,000for the fiscal year ending September 30, 1981, not to exceed $2,000,000 for the fiscal year ending September 30, 1982, and not to exceed $1,000,000 for each of the fiscal years ending September 30, 1983, September 30, 1984, September 30, 1985, September 30, 1986, September 30, 1987, and September 30, 1988”.
+1988—Subsec. (d). Pub. L. 100–589 substituted “each of the fiscal years 1988, 1989, 1990, and 1991” for “the fiscalyear ending September 30, 1980, not to exceed $1,750,000 for the fiscal year ending September 30, 1981, not to exceed $2,000,000 for the fiscal year ending September 30, 1982, and not to exceed $1,000,000 for each of the fiscal years ending September 30, 1983, September 30, 1984, September 30, 1985, September 30, 1986, September 30, 1987, and September 30, 1988”.
 
 1986—Subsec. (d). Pub. L. 99–432 substituted “September 30, 1986, September 30, 1987, and September 30, 1988” for “and September 30, 1986”.
 

@@ -10,5 +10,5 @@
 - [&sect; 01732 - Cooperative agreements](%C2%A7%2001732%20-%20Cooperative%20agreements.md)
 - [&sect; 01733 - Information](%C2%A7%2001733%20-%20Information.md)
 - [&sect; 01734 - State suits under Federal law](%C2%A7%2001734%20-%20State%20suits%20under%20Federal%20law.md)
-- [&sect; 01735 - Delegation to States](%C2%A7%2001735%20-%20Delegation%20to%20States.md)
+- [&sect; 01735 - Delegation of royalty collections and related activities](%C2%A7%2001735%20-%20Delegation%20of%20royalty%20collections%20and%20related%20activities.md)
 - [&sect; 01736 - Shared civil penalties](%C2%A7%2001736%20-%20Shared%20civil%20penalties.md)

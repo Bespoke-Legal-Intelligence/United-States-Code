@@ -12,7 +12,7 @@
 
 &emsp;&emsp;&emsp;(i) in the case of a loan insured prior to July 1, 1967, was made by an eligible lender and is insured under a program which meets the requirements of subparagraph (E) of subsection (b)(1) of this section and provides that repayment of such loan shall be in installments beginning not earlier than 60 days after the student ceases to pursue a course of study (as described in subparagraph (D) of subsection (b)(1) of this section) at an eligible institution, or
 
-&emsp;&emsp;&emsp;(ii) in the case of a loan insured after June 30, 1967, was made by an eligible lender and is insured under a program coveredby an agreement made pursuant to subsection (b) of this section,
+&emsp;&emsp;&emsp;(ii) in the case of a loan insured after June 30, 1967, was made by an eligible lender and is insured under a program covered by an agreement made pursuant to subsection (b) of this section,
 
 > &emsp;shall be entitled to have paid on his or her behalf and for his or her account to the holder of the loan a portion of the interest on such loan under circumstances described in paragraph (2).
 
@@ -54,7 +54,7 @@
 
 &emsp;&emsp;(II) which accrues during a period in which principal need not be paid (whether or not such principal is in fact paid) by reason of a provision described in subsection (b)(1)(M) of this section or in section 1077(a)(2)(C) of this title.
 
-&emsp;(ii) Such portion of the interest on a loan shall not exceed, for any period, the amount of the interest on that loan which is payable by the student after taking into consideration the amount of any interest on that loan which the student is entitled to have paid on his or her behalf for that period under any State or private loan insurance program.
+&emsp;(ii) Such portion of the interest on a loan shall not exceed, for any period, the amount ofthe interest on that loan which is payable by the student after taking into consideration the amount of any interest on that loan which the student is entitled to have paid on his or her behalf for that period under any State or private loan insurance program.
 
 &emsp;(iii) The holder of a loan with respect to which payments are required to be made under this section shall be deemed to have a contractual right, as against the United States, to receive from the Secretary the portion of interest which has been so determined without administrative delay after the receipt by the Secretary of an accurate and complete request for payment pursuant to paragraph (4).
 
@@ -104,7 +104,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) $2,625, if such student is enrolled in a program whose length is at least one academic year in length (as determined under section 1088 of this title);
 
-&emsp;&emsp;&emsp;&emsp;(II) $1,750, if such student is enrolled in a program whose length is less than one academic year, but at least 2/3 of such an academic year; and
+&emsp;&emsp;&emsp;&emsp;(II) $1,750, if such student is enrolled in a program whose length is less than oneacademic year, but at least 2/3 of such an academic year; and
 
 &emsp;&emsp;&emsp;&emsp;(III) $875, if such student is enrolled in a program whose length is less than 2/3, but at least 1/3, of such an academic year;
 
@@ -118,7 +118,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) $5,500; or
 
-&emsp;&emsp;&emsp;&emsp;(II) if such student is enrolled in a program of undergraduate education, the remainder of which is less than one academic year, the maximum annual loanamount that such student may receive may not exceed the amount that bears the same ratio to the amount specified in subclause (I) as such remainder measured in semester, trimester, quarter, or clock hours bears to one academic year;
+&emsp;&emsp;&emsp;&emsp;(II) if such student is enrolled in a program of undergraduate education, the remainder of which is less than one academic year, the maximum annual loan amount that such student may receive may not exceed the amount that bears the same ratio to the amount specified in subclause (I) as such remainder measured in semester, trimester, quarter, or clock hours bears to one academic year;
 
 &emsp;&emsp;&emsp;(iv) in the case of a student who has received an associate or baccalaureate degree and is enrolled in an eligible program for which the institution requires such degree for admission, the number of years that a student has completed in a program of undergraduate education shall, for the purposes of clauses (ii) and (iii), include any prior enrollment in the eligible program of undergraduate education for which the student was awarded such degree; and
 
@@ -236,7 +236,7 @@
 
 &emsp;&emsp;(F) provide that, if the sale, other transfer, or assignment of a loan made under this part to another holder will result in a change in the identity of the party to whom the borrower must send subsequent payments or direct any communications concerning the loans, then—
 
-&emsp;&emsp;&emsp;(i) the transferor and the transferee will be required, not later than 45 days from the date the transferee acquires a legally enforceable right to receive payment fromthe borrower on such loan, either jointly or separately to provide a notice to the borrower of—
+&emsp;&emsp;&emsp;(i) the transferor and the transferee will be required, not later than 45 days from the date the transferee acquires a legally enforceable right to receive payment from the borrower on such loan, either jointly or separately to provide a notice to the borrower of—
 
 &emsp;&emsp;&emsp;&emsp;(I) the sale or other transfer;
 
@@ -306,7 +306,7 @@
 
 #### (1) Authority to enter into agreements
 
-&emsp;(A) The Secretary may enter into a guaranty agreement with any guaranty agency, wherebythe Secretary shall undertake to reimburse it, under such terms and conditions as the Secretary may establish, with respect to losses (resulting from the default of the student borrower) on the unpaid balance of the principal and accrued interest of any insured loan. The guaranty agency shall be deemed to have a contractual right against the United States, during the life of such loan, to receive reimbursement according to the provisions of this subsection. Upon receipt of an accurate and complete request by a guaranty agency for reimbursement with respect to such losses, the Secretary shall pay promptly and without administrative delay. Except as provided in subparagraph (B) of this paragraph and in paragraph (7), the amount to be paid a guaranty agency as reimbursement under this subsection shall be equal to 98 percent of the amount expended by it in discharge of its insurance obligation incurred under its loan insurance program. A guaranty agency shall file a claim for reimbursement with respect to losses under this subsection within 45 days after the guaranty agency discharges its insurance obligation on the loan.
+&emsp;(A) The Secretary may enter into a guaranty agreement with any guaranty agency, whereby the Secretary shall undertake to reimburse it, under such terms and conditions as the Secretary may establish, with respect to losses (resulting from the default of the student borrower) on the unpaid balance of the principal and accrued interest of any insured loan. The guaranty agency shall be deemed to have a contractual right against the United States, during the life of such loan, to receive reimbursement according to the provisions of this subsection. Upon receipt of an accurate and complete request by a guaranty agency for reimbursement with respect to such losses, the Secretary shall pay promptly and without administrative delay. Except as provided in subparagraph (B) of this paragraph and in paragraph (7), the amount to be paid a guaranty agency as reimbursement under this subsection shall be equal to 98 percent of the amount expended by it in discharge of its insurance obligation incurred under its loan insurance program. A guaranty agency shall file a claim for reimbursement with respect to losses under this subsection within 45 days after the guaranty agency discharges its insurance obligation on the loan.
 
 &emsp;(B) Notwithstanding subparagraph (A)—
 
@@ -340,7 +340,7 @@
 
 &emsp;&emsp;(iii) subparagraph (B)(ii) by substituting “80 percent” for “78 percent”.
 
-&emsp;(G) Notwithstanding any other provision of this section, the Secretary shall exclude a loan made pursuant to a lender-of-last-resort program when making reimbursement payment calculations under subparagraphs (B) and (C).
+&emsp;(G) Notwithstanding any other provision of this section, the Secretary shall exclude a loan made pursuant to a lender-of-last-resortprogram when making reimbursement payment calculations under subparagraphs (B) and (C).
 
 #### (2) Contents of guaranty agreements
 
@@ -378,7 +378,7 @@
 
 &emsp;&emsp;&emsp;(i) upon written request, a lender shall grant a borrower forbearance, renewable at 12-month intervals, on terms agreed to in writing by the parties to the loan with the approval of the insurer, and otherwise consistent with the regulations of the Secretary, if the borrower—
 
-&emsp;&emsp;&emsp;&emsp;(I) is serving in a medical or dental internship or residency program, the successful completion of which is required to begin professional practice or service, or is serving in a medical or dental internship or residency program leading to a degree or certificate awarded by an institution of higher education, a hospital, or a health care facility that offers postgraduate training, provided that if the borrower qualifies for a deferment under section 1077(a)(2)(C)(vii) of this title or subsection (b)(1)(M)(vii) of this section as in effect prior to the enactment of the Higher Education Amendments of 1992, or section 1077(a)(2)(C) of this title or subsection (b)(1)(M) of this section as amended by such amendments, the borrower has exhausted his or her eligibility for such deferment;
+&emsp;&emsp;&emsp;&emsp;(I) is serving in a medical or dental internship or residency program, the successful completion of which is required to begin professional practice or service, or is serving in a medical or dental internship or residency program leading to a degree or certificate awarded by an institution of higher education, a hospital, or a health care facility that offers postgraduate training, provided that if the borrower qualifies for a deferment under section 1077(a)(2)(C)(vii) of this title orsubsection (b)(1)(M)(vii) of this section as in effect prior to the enactment of the Higher Education Amendments of 1992, or section 1077(a)(2)(C) of this title or subsection (b)(1)(M) of this section as amended by such amendments, the borrower has exhausted his or her eligibility for such deferment;
 
 &emsp;&emsp;&emsp;&emsp;(II) has a debt burden under this subchapter and part C of subchapter I of chapter 34 of title 42 that equals or exceeds 20 percent of income; or
 
@@ -392,7 +392,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(III) under clause (i)(III) shall not exceed the period for which the borrower is serving in a position described in such clause; and
 
-&emsp;&emsp;&emsp;(iii) no administrative or other fee may be charged in connection with the granting of a forbearance under clause (i), and no adverse information regarding a borrowermay be reported to a credit bureau organization solely because of the granting of such forbearance;
+&emsp;&emsp;&emsp;(iii) no administrative or other fee may be charged in connection with the granting of a forbearance under clause (i), and no adverse information regarding a borrower may be reported to a credit bureau organization solely because of the granting of such forbearance;
 
 &emsp;&emsp;(B) may, to the extent provided in regulations of the Secretary, contain provisions that permit such forbearance for the benefit of the student borrower as may be agreed upon by the parties to an insured loan and approved by the insurer; and
 
@@ -420,7 +420,7 @@
 
 &emsp;&emsp;(i) “administrative costs of collection of loans” means any administrative costs incurred by a guaranty agency which are directly related to the collection of the loan on which a default claim has been paid to the participating lender, including the attributable compensation of collection personnel (and in the case of personnel who perform several functions for such an agency only the portion of the compensation attributable to the collection activity), attorney's fees, fees paid to collection agencies, postage, equipment, supplies, telephone and similar charges, but does not include the overhead costs of such agency whether or not attributable;
 
-&emsp;&emsp;(ii) “administrative costs of preclaim assistance for default prevention” means any administrative costs incurred by a guaranty agency which are directly related to providing collection assistance to the lender on a delinquent loan, prior to the loan's being legally in a default status, including the attributable compensation of appropriate personnel (and in the case of personnel who perform several functions for such an agency only the portion of compensation attributable to the collection activity), fees paid to locate a missing borrower, postage, equipment, supplies, telephone and similar charges, but does not include the overhead costs of such agency whether or not attributable; and
+&emsp;&emsp;(ii) “administrative costs of preclaim assistance for default prevention” means any administrative costs incurred by a guaranty agency which are directly related to providing collection assistance to the lender on adelinquent loan, prior to the loan's being legally in a default status, including the attributable compensation of appropriate personnel (and in the case of personnel who perform several functions for such an agency only the portion of compensation attributable to the collection activity), fees paid to locate a missing borrower, postage, equipment, supplies, telephone and similar charges, but does not include the overhead costs of such agency whether or not attributable; and
 
 &emsp;&emsp;(iii) “administrative costs of monitoring the enrollment and repayment status of students” means any administrative costs by a guaranty agency which are directly related to ascertaining the student's enrollment status, prompt notification to the lender of such status, an audit of the note or written agreement to determine if the provisions of that note or agreement are consistent with the records of the guaranty agency as to the principal amount of the loan guaranteed, and an examination of the note or agreement to assure that the repayment provisions are consistent with the provisions of this part,
 
@@ -428,7 +428,7 @@
 
 &emsp;(C)(i) For the purpose of subsection (<i>l</i>) of this section, “administrative costs of supplemental preclaims assistance” means (subject to divisions (ii) through (iv)) any administrative costs—
 
-&emsp;&emsp;(I) incurred by a guaranty agency in connection with a loan on which the guarantor has exercised preclaims assistance generally comparable in intensiveness to the level ofpreclaims assistance performed, prior to the 120th day of delinquency, by the guaranty agency as of October 16, 1990, and which has been in delinquent status for at least 120 days; and
+&emsp;&emsp;(I) incurred by a guaranty agency in connection with a loan on which the guarantor has exercised preclaims assistance generally comparable in intensiveness to the level of preclaims assistance performed, prior to the 120th day of delinquency, by the guaranty agency as of October 16, 1990, and which has been in delinquent status for at least 120 days; and
 
 &emsp;&emsp;(II) which are directly related to providing collection assistance to the lender on a delinquent loan, prior to a claim being filed with the guaranty agency,
 
@@ -482,7 +482,7 @@
 
 &emsp;(B) The Secretary shall collect, on an annual basis, information from each guaranty agency having an agreement under this subsection to enable the Secretary to evaluate the financial solvency of each such agency. The information collected shall include the level of such agency's current reserves, cash disbursements and accounts receivable.
 
-&emsp;(C) If (i) any guaranty agency falls below the required minimum reserve level in any 2 consecutive years, (ii) any guaranty agency's Federal reimbursement payments are reduced to 80 percent pursuant to subsection (c)(1)(B)(ii)of this section, or (iii) the Secretary determines that the administrative or financial condition of a guaranty agency jeopardizes such agency's continued ability to perform its responsibilities under its guaranty agreement, then the Secretary shall require, as appropriate, the guaranty agency to submit and implement a management plan acceptable to the Secretary within 30 working days of any such event.
+&emsp;(C) If (i) any guaranty agency falls below the required minimum reserve level in any 2 consecutive years, (ii) any guaranty agency's Federal reimbursement payments are reduced to 80 percent pursuant to subsection (c)(1)(B)(ii) of this section, or (iii) the Secretary determines that the administrative or financial condition of a guaranty agency jeopardizes such agency's continued ability to perform its responsibilities under its guaranty agreement, then the Secretary shall require, as appropriate, the guaranty agency to submit and implement a management plan acceptable to the Secretary within 30 working days of any such event.
 
 &emsp;(D)(i) If the Secretary is not seeking to terminate the guaranty agency's agreement under subparagraph (E), or assuming the guaranty agency's functions under subparagraph (F), a management plan described in subparagraph (C) shall include the means by which the guaranty agency will improve its financial and administrative condition to the required level within 18 months.
 
@@ -522,7 +522,7 @@
 
 &emsp;&emsp;(vi) use all funds and assets of the guaranty agency to assist in the activities undertaken in accordance with this subparagraph and take appropriate action to require the return, to the guaranty agency or the Secretary, of any funds or assets provided by the guaranty agency, under contract or otherwise, to any person or organization; or
 
-&emsp;&emsp;(vii) take any other action the Secretary determines necessary to ensure the continued availability of loans made under this part to residents of the State or States in which the guaranty agency did business, the full honoring of all guarantees issued by the guaranty agency prior to the Secretary's assumption of the functions of such agency, and the proper servicing of loans guaranteed by the guaranty agency prior to the Secretary's assumption of the functions of such agency, to avoid disruption of the student loan program, and to ensure an orderly transition from the loan programs under this part to the direct student loan programs under part C of this subchapter.
+&emsp;&emsp;(vii) take any other action the Secretary determines necessary to ensure the continued availability of loans made under thispart to residents of the State or States in which the guaranty agency did business, the full honoring of all guarantees issued by the guaranty agency prior to the Secretary's assumption of the functions of such agency, and the proper servicing of loans guaranteed by the guaranty agency prior to the Secretary's assumption of the functions of such agency, to avoid disruption of the student loan program, and to ensure an orderly transition from the loan programs under this part to the direct student loan programs under part C of this subchapter.
 
 &emsp;(G) Notwithstanding any other provision of Federal or State law, if the Secretary has terminated or is seeking to terminate a guaranty agency's agreement under subparagraph (E), or has assumed a guaranty agency's functions under subparagraph (F)—
 
@@ -568,7 +568,7 @@ No provision of any law of the United States (other than this chapter) or of any
 
 #### (3) Amount of payment
 
-&emsp;From funds available for costs of transition under section 1087h of this title, the amount which the Secretary shall pay to any eligible guaranty agency under this paragraph shall be equal to one-half of 1 percent of the total principal amount of the loans (upon which insurance was issued under this part) to a student described in paragraph (2) who subsequently obtained such loans because of such agency's referral service.
+&emsp;From funds available for costs of transition under section 1087h of this title, the amount which the Secretary shall pay to any eligibleguaranty agency under this paragraph shall be equal to one-half of 1 percent of the total principal amount of the loans (upon which insurance was issued under this part) to a student described in paragraph (2) who subsequently obtained such loans because of such agency's referral service.
 
 #### (4) Incentive fees to lenders
 
@@ -590,7 +590,7 @@ No provision of any law of the United States (other than this chapter) or of any
 
 &emsp;&emsp;(v) other such costs related to the student loan insurance program subject to such agreement.
 
-&emsp;(B) The total amount of payments for any fiscal year prior to fiscal year 1994 made under this paragraph shall be equal to 1 percent of the total principal amount of the loans uponwhich insurance was issued under this part during such fiscal year by such guaranty agency. The guaranty agency shall be deemed to have a contractual right against the United States to receive payments according to the provisions of this subparagraph. Payments shall be made promptly and without administrative delay to any guaranty agency submitting an accurate and complete application therefor under this subparagraph.
+&emsp;(B) The total amount of payments for any fiscal year prior to fiscal year 1994 made under this paragraph shall be equal to 1 percent of the total principal amount of the loans upon which insurance was issued under this part during such fiscal year by such guaranty agency. The guaranty agency shall be deemed to have a contractual right against the United States to receive payments according to the provisions of this subparagraph. Payments shall be made promptly and without administrative delay to any guaranty agency submitting an accurate and complete application therefor under this subparagraph.
 
 &emsp;(C) No payment may be made under this paragraph for loans for which the disbursement checks have not been cashed or for which electronic funds transfers have not been completed.
 
@@ -698,7 +698,7 @@ If a nonprofit private institution or organization—
 
 #### (1) Assistance required
 
-&emsp;Upon receipt of a proper request from the lender, a guaranty agency having an agreement with the Secretary under subsection (c) of this section shall engage in preclaims assistance activities (as described in subsection (c)(6)(C)(i)(I) of this section) and supplemental preclaims assistance activities (as described insubsection (c)(6)(C) of this section) with respect to each loan covered by such agreement.
+&emsp;Upon receipt of a proper request from the lender, a guaranty agency having an agreement with the Secretary under subsection (c) of this section shall engage in preclaims assistance activities (as described in subsection (c)(6)(C)(i)(I) of this section) and supplemental preclaims assistance activities (as described in subsection (c)(6)(C) of this section) with respect to each loan covered by such agreement.
 
 #### (2) Payments for supplemental preclaims assistance
 
@@ -752,7 +752,7 @@ If a nonprofit private institution or organization—
 
 &emsp;A State may charge a fee to an institution of higher education that participates in the program under this part and is located in that State according to a fee structure, approved by the Secretary, that is based on the institution's cohort default rate and the State's risk of loss under this subsection. Such fee structure shall include a process by which an institution with a high cohort default rate is exempt from any fees under this paragraph if such institution demonstrates to the satisfaction of the State that exceptional mitigating circumstances, as determined by the State and approved by the Secretary, contributed to its cohort default rate.
 
-(Pub. L. 89–329, title IV, §428, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1367; amended Pub. L. 100–50, §10(a)–(c), (e)–(m), June 3, 1987, 101 Stat. 341–343; Pub. L. 100–203, title III, §§3001(b), 3002(b), 3003, Dec. 22, 1987, 101 Stat. 1330–38, 1330–39; Pub. L. 100–369, §§5(b)(2), 7(c), 11(a), July 18, 1988, 102 Stat. 836–838; Pub. L. 101–239, title II, §§2002(a)(2), (b)(1), 2004(b)(1), (3), 2006(b), Dec. 19, 1989, 103 Stat. 2111, 2116, 2118; Pub. L. 101–508, title III, §§3002, 3004(b), Nov. 5, 1990, 104 Stat. 1388–25, 1388–27; Pub. L. 102–26, §9, Apr. 9, 1991, 105 Stat. 128; Pub. L. 102–164, title VI, §§601(b), 602(b), 604, 605(b)(2), Nov. 15, 1991, 105 Stat. 1065, 1066, 1068; Pub. L. 102–325, title IV, §§411(b)(2), 416(a)–(e)(1), (f)–(p)(7), (q)–(t), July 23, 1992, 106 Stat. 510, 516–525, 527–529; Pub. L. 103–66, title IV, §§4041(a)(1), (2)(B), (b), 4043(a), 4044, 4045, 4102(c), 4107(a), (b), 4108(a), (b), 4110(a), 4112(a), 4201(a), Aug. 10, 1993, 107 Stat. 354, 355, 358, 359, 367–370; Pub. L. 103–82, title I, §102(c)(1), Sept. 21, 1993, 107 Stat. 823; Pub. L. 103–208, §2(c)(11)–(28), Dec. 20, 1993, 107 Stat. 2462–2465; Pub. L. 103–382, title III, §355(a), Oct. 20, 1994, 108 Stat. 3967.)
+(Pub. L. 89–329, title IV, §428, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat.1367; amended Pub. L. 100–50, §10(a)–(c), (e)–(m), June 3, 1987, 101 Stat. 341–343; Pub. L. 100–203, title III, §§3001(b), 3002(b), 3003, Dec. 22, 1987, 101 Stat. 1330–38, 1330–39; Pub. L. 100–369, §§5(b)(2), 7(c), 11(a), July 18, 1988, 102 Stat. 836–838; Pub. L. 101–239, title II, §§2002(a)(2), (b)(1), 2004(b)(1), (3), 2006(b), Dec. 19, 1989, 103 Stat. 2111, 2116, 2118; Pub. L. 101–508, title III, §§3002, 3004(b), Nov. 5, 1990, 104 Stat. 1388–25, 1388–27; Pub. L. 102–26, §9, Apr. 9, 1991, 105 Stat. 128; Pub. L. 102–164, title VI, §§601(b), 602(b), 604, 605(b)(2), Nov. 15, 1991, 105 Stat. 1065, 1066, 1068; Pub. L. 102–325, title IV, §§411(b)(2), 416(a)–(e)(1), (f)–(p)(7), (q)–(t), July 23, 1992, 106 Stat. 510, 516–525, 527–529; Pub. L. 103–66, title IV, §§4041(a)(1), (2)(B), (b), 4043(a), 4044, 4045, 4102(c), 4107(a), (b), 4108(a), (b), 4110(a), 4112(a), 4201(a), Aug. 10, 1993, 107 Stat. 354, 355, 358, 359, 367–370; Pub. L. 103–82, title I, §102(c)(1), Sept. 21, 1993, 107 Stat. 823; Pub. L. 103–208, §2(c)(11)–(28), Dec. 20, 1993, 107 Stat. 2462–2465; Pub. L. 103–382, title III, §355(a), Oct. 20, 1994, 108 Stat. 3967.)
 
 #### References in Text
 
@@ -762,7 +762,7 @@ This chapter, referred to in subsecs. (a)(6), (c)(9)(F)(iii), and (d), was in th
 
 The Higher Education Amendments of 1992, referred to in subsec. (c)(3)(A)(i)(I), is Pub. L. 102–325, July 23, 1992, 106 Stat. 448, as amended. For complete classification of this Act to the Code, see Short Title of 1992 Amendment note set out under section 1001 of this title and Tables.
 
-The National and Community Service Trust Act of 1993, referred to in subsec. (c)(3)(A)(i)(III), is Pub. L.103–82, Sept. 21, 1993, 107 Stat. 785. For complete classification of this Act to the Code, see Short Title of 1993 Amendment note set out under section 12501 of Title 42, The Public Health and Welfare, and Tables.
+The National and Community Service Trust Act of 1993, referred to in subsec. (c)(3)(A)(i)(III), is Pub. L. 103–82, Sept. 21, 1993, 107 Stat. 785. For complete classification of this Act to the Code, see Short Title of 1993 Amendment note set out under section 12501 of Title 42, The Public Health and Welfare, and Tables.
 
 Section 1232 of this title, referred to in subsec. (e)(1)(B)(ii), was in the original a reference to section 431 of the General Education Provisions Act. Sections 422 and 431 of that Act were renumbered as sections 431 and 437, respectively, by Pub. L. 103–382, title II, §212(b)(1), Oct. 20, 1994, 108 Stat. 3913, and are classified to sections 1231a and 1232, respectively, of this title.
 
@@ -812,7 +812,7 @@ Subsec. (b)(1)(G). Pub. L. 103–66, §4108(b), substituted “98 percent” for
 
 Subsec. (b)(1)(H). Pub. L. 103–66, §4102(c), substituted “1.0 percent” for “3 percent”.
 
-Subsec. (b)(1)(N). Pub. L. 103–208, §2(c)(15), amended subpar. (N) generally. Prior to amendment, subpar. (N) read as follows: “provides that funds borrowed by a student are disbursed to the institution by check or other means that is payable to and requires the endorsement or other certification by such student, except nothing in this subchapter and part C of subchapter I of chapter 34 of title 42 shall be interpreted to allow the Secretary to require checks to be made co-payable to the institution and the borrower or to prohibit the disbursement of loan proceeds by means other than by check and except in the case of students who are studying outside the United States in a program of study abroad that is approved for credit by the home institution at which the student is enrolled, the funds shall, at the request of the borrower, be delivered directly to the student and the checks may be endorsed, and fund transfers authorized, pursuant to an authorized power-of-attorney;”.
+Subsec. (b)(1)(N). Pub. L. 103–208, §2(c)(15), amended subpar. (N) generally. Prior to amendment, subpar. (N)read as follows: “provides that funds borrowed by a student are disbursed to the institution by check or other means that is payable to and requires the endorsement or other certification by such student, except nothing in this subchapter and part C of subchapter I of chapter 34 of title 42 shall be interpreted to allow the Secretary to require checks to be made co-payable to the institution and the borrower or to prohibit the disbursement of loan proceeds by means other than by check and except in the case of students who are studying outside the United States in a program of study abroad that is approved for credit by the home institution at which the student is enrolled, the funds shall, at the request of the borrower, be delivered directly to the student and the checks may be endorsed, and fund transfers authorized, pursuant to an authorized power-of-attorney;”.
 
 Subsec. (b)(1)(U). Pub. L. 103–208, §2(c)(16), inserted a comma after “emergency action” in two places and substituted “this clause” for “this clause;” at end.
 
@@ -952,7 +952,7 @@ Subsec. (b)(1)(B). Pub. L. 102–325, §416(b)(2), which directed the amendment 
 
 Subsec. (b)(1)(D), (E). Pub. L. 102–325, §416(c)(1), amended subpars. (D) and (E) generally. Prior to amendment, subpars. (D) and (E) read as follows:
 
-“(D) provides that (i) the student borrower shall be entitled to accelerate without penalty the whole or any part of an insured loan, (ii) except as provided in subparagraph (M) of this paragraph, the repayment period of any insured loan may not exceed 10 years, and (iii) the note or other written evidence of any loan, may contain such reasonable provisions relating to repayment in the event of default by the borrower as may be authorized by regulations of the Secretary in effect at the time such note or written evidence was executed;
+“(D) provides that (i) the student borrower shall be entitled to accelerate without penalty the whole or any part of an insured loan, (ii) except as provided in subparagraph (M) of this paragraph, the repayment period of any insured loan may not exceed 10 years, and (iii)the note or other written evidence of any loan, may contain such reasonable provisions relating to repayment in the event of default by the borrower as may be authorized by regulations of the Secretary in effect at the time such note or written evidence was executed;
 
 “(E) subject to subparagraphs (D) and (L) of this paragraph and except as provided by subparagraph (M) of this paragraph, provides that repayment of loans shall be in installments over a period of not less than 5 years (unless the student, during the 6 months preceding the start of the repayment period, specifically requests that repayment be made over a shorter period) nor more than 10 years beginning 6 months after the month in which the student ceases to carry at least one-half the normal full-time academic workload as determined by the institution;”.
 
@@ -1042,11 +1042,11 @@ Subsec. (c)(1)(A). Pub. L. 101–508, §3002(a)(1), struck out before period at 
 
 Subsec. (c)(6)(C). Pub. L. 101–508, §3002(a)(2)–(5), in introductory provisions of cl. (i), substituted “subsection (<i>l</i>) of this section” for “this paragraph”, in cl. (i)(I), substituted “generally comparable in intensiveness to the level of preclaims assistance performed, prior to the 120th day of delinquency, by the guaranty agency as of October 16, 1990” for “required or permitted under paragraph (2)(A) of this subsection and subsection (f) of this section”, in cl. (ii), substituted “payment under subsection (<i>l</i>) of this section” for “reimbursement” and “described in division (i)(I) of this subparagraph” for “which the guaranty agency is required or permitted to provide pursuant to paragraph (2)(A) of this subsection and subsection (f) of this section”, and in cl. (iv), struck out first sentence which read as follows: “The costs for each delinquent loan associated with carrying out this subparagraph may not exceed 2 percent of the outstanding principal balance of each such loan subject to the supplemental preclaims assistance authorized by this subparagraph or $100, whichever is less.”
 
-Subsec. (<i>l</i>). Pub. L. 101–508, §3002(b), added subsec. (<i>l).</i>
+Subsec. (<i>l</i>). Pub. L. 101–508, §3002(b), added subsec. (<i>l</i>).
 
 1989—Subsec. (a)(2)(A)(i)(III). Pub. L. 101–239, §2004(b)(1), added subcl. (III).
 
-Subsec. (b)(1)(M)(i). Pub. L. 101–239, §2002(a)(2), inserted before semicolon at end “, except that no borrower shall be eligible for a deferment under thisclause, or loan made under this part (other than a loan made under section 1078–2 or 1078–3 of this title), while serving in a medical internship or residency program”.
+Subsec. (b)(1)(M)(i). Pub. L. 101–239, §2002(a)(2), inserted before semicolon at end “, except that no borrower shall be eligible for a deferment under this clause, or loan made under this part (other than a loan made under section 1078–2 or 1078–3 of this title), while serving in a medical internship or residency program”.
 
 Subsec. (b)(1)(O). Pub. L. 101–239, §2004(b)(3), amended subpar. (O) generally, substituting requirement that student loans be disbursed in accordance with section 1078–7 of this title for provisions requiring that certain loans be disbursed directly by lender in 2 or more installments, none exceeding more than one-half of the loan, or in installments pursuant to escrow provisions in subsec. (i).
 
@@ -1120,7 +1120,7 @@ Subsec. (k)(1). Pub. L. 100–203, §3003, substituted “Notwithstanding any ot
 
 #### Change of Name
 
-Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Economic and Educational Opportunities of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Fifth Congress, Jan. 7, 1997.
 
 #### Effective Date of 1994 Amendment
 

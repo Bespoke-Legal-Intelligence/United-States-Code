@@ -1,24 +1,24 @@
 ### §8171. Compensation for work injuries; generally
 
-(a) The Longshore and Harbor Workers’ Compensation Act (33 U.S.C. 901 et seq.) applies with respect to disability or death resulting from injury, as defined by section 2(2) of such Act (33 U.S.C. 902(2)), occurring to an employee of a nonappropriated fund instrumentality described by section 2105(c) of this title, or to a volunteer providing such an instrumentality with services accepted under section 1588 of title 10, who is—
+(a) The Longshore and Harbor Workers’ Compensation Act (33 U.S.C. 901 et seq.) applies with respect to disability or death resulting from injury, as defined by section 2(2) of such Act (33 U.S.C. 902(2)), occurring to an employee of a nonappropriated fund instrumentality described by section 2105(c) of this title, or to a volunteerproviding such an instrumentality with services accepted under section 1588 of title 10, who is—
 
 &emsp;(1) a United States citizen or a permanent resident of the United States or a territory or possession of the United States employed outside the continental United States; or
 
 &emsp;(2) employed inside the continental United States.
 
-> However, that part of section 3(a) of such Act (33 U.S.C. 903(3)) <sup>1</sup> which follows the second comma does not apply to such an employee.
+> However, that part of section 3(a) of such Act (33 U.S.C. 903(a)) which follows the second comma does not apply to such an employee.
 
 (b) For the purpose of this subchapter, the term “employer” in section 2(4) of the Longshore and Harbor Workers’ Compensation Act (33 U.S.C. 902(4)) includes the nonappropriated fund instrumentalities described by section 2105(c) of this title.
 
 (c) The Secretary of Labor may—
 
-&emsp;(1) extend compensation districts established under 39(b) <sup>2</sup> of the Longshore and Harbor Workers’ Compensation Act (33 U.S.C. 939(b)), or establish new districts to include the areas outside the continental United States; and
+&emsp;(1) extend compensation districts established under section 39(b) of the Longshore and Harbor Workers’ Compensation Act (33 U.S.C. 939(b)), or establish new districts to include the areas outside the continental United States; and
 
 &emsp;(2) assign to each district one or more deputy commissioners as the Secretary considers advisable.
 
-(d) Judicial proceedings under sections 18 and 21 of the Longshore and Harbor Workers’ Compensation Act (33 U.S.C. 18 and 21, respectively) <sup>3</sup> with respect to an injury or death occurring outside the continental United States shall be instituted in the district court within the territorial jurisdiction of which is located the office of the deputy commissioner having jurisdiction with respect to the injury or death.
+(d) Judicial proceedings under sections 18 and 21 of the Longshore and Harbor Workers’ Compensation Act (33 U.S.C. 918 and 921) with respect to an injury or death occurring outside the continental United States shall be instituted in the district court within the territorial jurisdiction of which is located the office of the deputy commissioner having jurisdiction with respect to the injury or death.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 555; Pub. L. 103–337, div. A, title X, §§1061(c), 1070(d)(8)(A), Oct. 5, 1994, 108 Stat. 2847, 2858.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 555; Pub. L. 103–337, div. A, title X, §§1061(c), 1070(d)(8)(A), Oct. 5, 1994, 108 Stat. 2847, 2858; Pub. L. 104–106, div. A, title XV, §1505(b)(1), Feb. 10, 1996, 110 Stat. 514.)
 
 Historical and Revision Notes
 
@@ -26,7 +26,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 5 U.S.C. 150k–1(a).
 
@@ -46,7 +48,13 @@ The Longshore and Harbor Workers’ Compensation Act, referred to in subsec. (a)
 
 #### Amendments
 
-<b>1994</b>—Subsec. (a). Pub. L. 103–337, §1070(d)(8)(A)(i)(III), substituted “section 3(a) of such Act (33 U.S.C. 903(3)) which follows the second comma” for “section 903(a) of title 33 which follows the first comma” in second sentence.
+1996—Subsec. (a). Pub. L. 104–106, §1505(b)(1)(A), substituted “903(a))” for “903(3))” in concluding provisions.
+
+Subsec. (c)(1). Pub. L. 104–106, §1505(b)(1)(B), inserted “section” before “39(b)”.
+
+Subsec. (d). Pub. L. 104–106, §1505(b)(1)(C), substituted “(33 U.S.C. 918 and 921)” for “(33 U.S.C. 18 and 21, respectively)”.
+
+1994—Subsec. (a). Pub. L. 103–337, §1070(d)(8)(A)(i)(III), substituted “section 3(a) of such Act (33 U.S.C. 903(3)) which follows the second comma” for “section 903(a) of title 33 which follows the first comma” in second sentence.
 
 Pub. L. 103–337, §1070(d)(8)(A)(i)(I), (II), substituted “The Longshore and Harbor Workers’ Compensation Act (33 U.S.C. 901 et seq.)” for “Chapter 18 of title 33” and “section 2(2) of such Act (33 U.S.C. 902(2))” for “section 902(2) of title 33”, in introductory provisions.
 
@@ -61,10 +69,4 @@ Subsec. (d). Pub. L. 103–337, §1070(d)(8)(A)(iv), substituted “sections 18 
 #### Section Referred to in Other Sections
 
 This section is referred to in section 8173 of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should be “(33 U.S.C. 903(a))”.</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be preceded by “section”.</i>
-
-<i><sup>3</sup></i><i> So in original. Probably should be “(33 U.S.C. 918 and 921, respectively)”.</i>
 

@@ -8,7 +8,7 @@ Part B—Child and Family Services
 
 #### Part Referred to in Other Sections
 
-This part is referred to in sections 300z–5, 602, 671, 672, 674, 675, 676, 1302, 1320a–1a, 1320a–9, 5106a of this title; title 8 sections 1255a, 1522; title 25 section 1931; title 40 App. section 202.
+This part is referred to in sections 300z–5, 671, 672, 674, 675, 676, 1302, 1320a–2a, 1320a–9, 5106a of this title; title 8 sections 1255a, 1522, 1613; title 25 section 1931; title 40 App. section 202.
 
 
 ---

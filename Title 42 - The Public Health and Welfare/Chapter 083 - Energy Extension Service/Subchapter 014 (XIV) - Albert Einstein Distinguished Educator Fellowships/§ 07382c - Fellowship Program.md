@@ -48,7 +48,7 @@
 
 The Secretary shall—
 
-&emsp;(1) provide for the development and administration of an application and selection process for fellowships under the Program, including a process whereby final selections of fellowship recipients are made in accordance with subsection (c) of this section;
+&emsp;(1) provide for the development and administration of an application and selection process for fellowships under the Program, including aprocess whereby final selections of fellowship recipients are made in accordance with subsection (c) of this section;
 
 &emsp;(2) provide for the publication of information on the Program in appropriate professional publications, including an invitation for applications from teachers listed in the directories of national and State recognition programs;
 
@@ -68,7 +68,7 @@ The Secretary shall—
 
 &emsp;(A) Not later than May 1 of each year preceding each year in which fellowships are to be awarded, the Secretary shall select and announce the names of the fellowship recipients.
 
-&emsp;(B) The Secretary shall provide for the development and administration of a process toselect fellowship recipients from the pool of semifinalists as follows:
+&emsp;(B) The Secretary shall provide for the development and administration of a process to select fellowship recipients from the pool of semifinalists as follows:
 
 &emsp;&emsp;(i) The Secretary shall select three fellowship recipients who shall be assigned to the Department of Energy.
 

@@ -10,7 +10,7 @@ The provisions of this part (other than subsection (d) of this section and subse
 
 &emsp;&emsp;&emsp;(i) 95 percent (90 percent for taxable years beginning before January 1, 1980) of the real estate investment trust taxable income for the taxable year (determined without regard to the deduction for dividends paid (as defined in section 561) and by excluding any net capital gain); and
 
-&emsp;&emsp;&emsp;(ii) 95 percent (90 percent for taxable years beginning before January 1, 1980) of the excess of the net income from foreclosure property over the tax imposed on such income by subsection (b)(4)(A); minus
+&emsp;&emsp;&emsp;(ii) 95 percent (90 percent for taxable years beginning before January 1, 1980) ofthe excess of the net income from foreclosure property over the tax imposed on such income by subsection (b)(4)(A); minus
 
 &emsp;&emsp;(B) any excess noncash income (as determined under subsection (e)); and
 
@@ -198,7 +198,7 @@ For purposes of section 243 (relating to deductions for dividends received by co
 
 #### (2) Coordination with tax on undistributed income
 
-&emsp;A real estate investment trust shall be treated as having sufficient earnings and profits to treat as a dividend any distribution (other than in a redemption to which section 302(a) applies) which is treated as a dividend by such trust. The preceding sentence shall not apply to the extent that the amount distributed during any calendar year by the trust exceeds the required distribution for such calendar year (as determined under section 4981).
+&emsp;A real estate investment trust shall be treated as having sufficient earnings and profits to treat as a dividend any distribution (other than in a redemption to which section 302(a) applies) which is treated as a dividend by such trust. The preceding sentence shall not apply to the extent that the amount distributed during any calendar year by the trustexceeds the required distribution for such calendar year (as determined under section 4981).
 
 #### (e) Excess noncash income
 
@@ -268,7 +268,7 @@ Pub. L. 99–514, §665(a)(2), (b)(1), inserted “(or mailed to its shareholder
 
 Subsec. (b)(3)(D). Pub. L. 99–514, §665(a)(1), added subpar. (D).
 
-Subsec. (b)(6)(B)(ii). Pub. L. 99–514, §666(b)(1), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “the term ‘net loss derived from prohibited transactions’ means the excess of the deductions allowed by this chapter which are directly connected with prohibited transactions over the gain from prohibited transactions; and”.
+Subsec. (b)(6)(B)(ii). Pub. L. 99–514, §666(b)(1), amended cl. (ii) generally. Prior to amendment, cl. (ii) read asfollows: “the term ‘net loss derived from prohibited transactions’ means the excess of the deductions allowed by this chapter which are directly connected with prohibited transactions over the gain from prohibited transactions; and”.
 
 Subsec. (b)(6)(C)(ii). Pub. L. 99–514, §666(a)(2), substituted “30 percent” for “20 percent”.
 
@@ -308,7 +308,7 @@ Subsec. (b)(3)(C). Pub. L. 95–600, §362(d)(3), substituted “section 860(e)�
 
 Subsec. (b)(6)(C) to (E). Pub. L. 95–600, §363(b), added subpars. (C) to (E).
 
-1976—Subsec. (a). Pub. L. 94–455, §§1604(j), (k)(2)(B), 1906(b)(13)(A), substituted “(other than subsection (d) of this section and subsection (g) of section 856)” for “(other than subsection (d) of this section)” in provisions preceding par. (1), in par. (1) redesignated existing subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A), added subpar. (B), in both cls. (i) and (ii) of subpar. (A) as redesignated raised the percentage to 95 percent for taxable years beginning on and after Jan. 1,1980, and, in cl. (i) of subpar. (A) as redesignated, inserted provision for the exclusion of net capital gain, and struck out “or his delegate” after “Secretary” in par. (2).
+1976—Subsec. (a). Pub. L. 94–455, §§1604(j), (k)(2)(B), 1906(b)(13)(A), substituted “(other than subsection (d) of this section and subsection (g) of section 856)” for “(other than subsection (d) of this section)” in provisions preceding par. (1), in par. (1) redesignated existing subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A), added subpar. (B), in both cls. (i) and (ii) of subpar. (A) as redesignated raised the percentage to 95 percent for taxable years beginning on and after Jan. 1, 1980, and, in cl. (i) of subpar. (A) as redesignated, inserted provision for the exclusion of net capital gain, and struck out “or his delegate” after “Secretary” in par. (2).
 
 Subsec. (b)(1). Pub. L. 94–455, §1901(b)(1)(V), struck out provision that, for purposes of computing the normal tax under section 11, the taxable income and the dividends paid deduction of such real estate investment trust for the taxable year (computed without regard to capital gains dividends) would be reduced by the deduction provided by section 22 (relating to partially tax-exempt interest.
 
@@ -374,7 +374,7 @@ Amendment by section 1001(b)(13) of Pub. L. 98–369 applicable to property acqu
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96–222 effective, except as otherwise provided, as if it had been included in theprovisions of the Revenue Act of 1978, Pub. L. 95–600, to which such amendment relates, see section 201 of Pub. L. 96–222, set out as a note under section 32 of this title.
+Amendment by Pub. L. 96–222 effective, except as otherwise provided, as if it had been included in the provisions of the Revenue Act of 1978, Pub. L. 95–600, to which such amendment relates, see section 201 of Pub. L. 96–222, set out as a note under section 32 of this title.
 
 #### Effective and Termination Dates of 1980 Amendment
 
@@ -398,7 +398,7 @@ Section 1402(b)(2) of Pub. L. 94–455 provided that the amendment made by that 
 
 Section 1608(a) of Pub. L. 94–455, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by section 1601 \[enacting sections 859 and 6697 of this title and amending this section and sections 316, 381, 6422, 6503, and 6515 of this title\] shall apply with respect to determinations (as defined in section 859(c) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) occurring after the date of the enactment of this Act \[Oct. 4, 1976\]. If the amendments made by section 1601 apply to a taxable year ending on or before the date of enactment of this Act:
 
-&emsp;“(1) the reference to section 857(b)(3)(A)(ii) in sections 857(b)(3)(C) and 859(b)(1)(B) of such Code as amended, shall be considered to be a reference to section 857(b)(3)(A) of such Code, as in effect immediately before the enactment of this Act \[Oct. 4, 1976\], and
+&emsp;“(1) the reference to section 857(b)(3)(A)(ii) in sections 857(b)(3)(C) and 859(b)(1)(B) of such Code asamended, shall be considered to be a reference to section 857(b)(3)(A) of such Code, as in effect immediately before the enactment of this Act \[Oct. 4, 1976\], and
 
 &emsp;“(2) the reference to section 857(b)(2)(B) in section 859(a) of such Code, as amended, shall be considered to be a reference to section 857(b)(2)(C) of such Code, as in effect immediately before the enactment of this Act \[Oct. 4, 1976\].”
 

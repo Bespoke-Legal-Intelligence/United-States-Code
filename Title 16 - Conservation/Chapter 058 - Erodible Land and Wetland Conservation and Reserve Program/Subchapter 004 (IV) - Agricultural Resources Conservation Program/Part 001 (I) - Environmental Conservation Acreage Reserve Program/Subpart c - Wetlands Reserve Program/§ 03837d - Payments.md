@@ -16,7 +16,7 @@ If an owner who is entitled to a payment under this subpart dies, becomes incomp
 
 #### (1) In general
 
-&emsp;The total amount of easement payments made to a person under this subpart for anyyear may not exceed $50,000, except such limitation shall not apply with respect to payments for perpetual easements.
+&emsp;The total amount of easement payments made to a person under this subpart for any year may not exceed $50,000, except such limitation shall not apply with respect to payments for perpetual easements.
 
 #### (2) Regulations
 

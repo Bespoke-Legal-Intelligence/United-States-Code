@@ -30,7 +30,7 @@ Each local educational agency plan shall include—
 
 &emsp;&emsp;(A) Even Start, Head Start, and other preschool programs, including plans for the transition of participants in such programs to local elementary school programs, vocational education programs, and school-to-work transition programs; and
 
-&emsp;&emsp;(B) services for children with limited English proficiency or with disabilities, migratory children served under part C of this subchapter or who were formerly eligible for services under part C of this subchapter in the two-year period preceding October 20, 1994, neglected or delinquent youth and youth at risk of dropping out served under part D of this subchapter, homeless children,and immigrant children in order to increase program effectiveness, eliminate duplication, and reduce fragmentation of the instructional program;
+&emsp;&emsp;(B) services for children with limited English proficiency or with disabilities, migratory children served under part C of this subchapter or who were formerly eligible for services under part C of this subchapter in the two-year period preceding October 20, 1994, neglected or delinquent youth and youth at risk of dropping out served under part D of this subchapter, homeless children, and immigrant children in order to increase program effectiveness, eliminate duplication, and reduce fragmentation of the instructional program;
 
 &emsp;(5) a description of the poverty criteria that will be used to select school attendance areas under section 6313 of this title;
 

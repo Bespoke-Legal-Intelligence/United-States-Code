@@ -22,7 +22,7 @@ Elements of Program.—In establishing and carrying out a program under this sec
 
 &emsp;(5) Provide information and other assistance to such members in their efforts to obtain loans and grants from the Small Business Administration and other Federal, State, and local agencies.
 
-&emsp;(6) Provide information about the geographic areas in which such members will relocate after separation from the armed forces, including, to the degree possible, information about employment opportunities, the labor market, and the cost of living in those areas (including, to the extent practicable, the cost and availability of housing, child care, education, and medical and dental care).
+&emsp;(6) Provide information about the geographic areas in which such members will relocate after separation from the armed forces,including, to the degree possible, information about employment opportunities, the labor market, and the cost of living in those areas (including, to the extent practicable, the cost and availability of housing, child care, education, and medical and dental care).
 
 &emsp;(7) Work with military and veterans’ service organizations and other appropriate organizations in promoting and publicizing job fairs for such members.
 
@@ -90,7 +90,7 @@ Subsec. (b)(6). Pub. L. 102–190, §1061(a)(6)(C), substituted “those areas�
 
 Section 502(c) of Pub. L. 101–510 provided that:
 
-“(1) Not later than 90 days after the date of the enactment of this Act \[Nov. 5, 1990\], the Secretary of Laborshall submit to Congress a report setting forth the agreement entered into to carry out section 1144 of title 10, United States Code, as added by subsection (a). The report shall include a detailed description of the responsibilities of the Secretary of Labor, the Secretary of Defense, and the Secretary of Veterans Affairs in carrying out that section and of the steps that have been taken to carry out those responsibilities.
+“(1) Not later than 90 days after the date of the enactment of this Act \[Nov. 5, 1990\], the Secretary of Labor shall submit to Congress a report setting forth the agreement entered into to carry out section 1144 of title 10, United States Code, as added by subsection (a). The report shall include a detailed description of the responsibilities of the Secretary of Labor, the Secretary of Defense, and the Secretary of Veterans Affairs in carrying out that section and of the steps that have been taken to carry out those responsibilities.
 
 “(2) Not later than one year after the date of the enactment of this Act, the Secretary of Labor shall submit to Congress a report containing a detailed evaluation of the program carried out under that section to the date of the submission of the report.
 

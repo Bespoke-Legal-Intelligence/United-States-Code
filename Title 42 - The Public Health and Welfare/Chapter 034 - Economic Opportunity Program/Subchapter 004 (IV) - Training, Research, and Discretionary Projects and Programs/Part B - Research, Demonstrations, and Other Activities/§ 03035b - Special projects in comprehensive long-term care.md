@@ -166,7 +166,7 @@ Provisions similar to those comprising this section were contained in section 30
 
 1993—Subsecs. (b), (c), (e), (f), (h), (i). Pub. L. 103–171 substituted “Assistant Secretary” for “Commissioner” wherever appearing.
 
-1992—Pub. L. 102–375 amended section generally. Prior to amendment, subsec. (a) related to authority to make grants or enter into contracts, subsec. (b) related to preference given to certain applicants, subsec. (c) related to coordination and avoidance of duplication, and subsec. (d) related to equitable distribution between urban and rural areas.
+1992—Pub. L. 102–375 amended section generally. Prior to amendment, subsec. (a) related to authority to make grants or enter into contracts, subsec. (b) related to preference given to certain applicants, subsec. (c) related to coordination and avoidance of duplication, andsubsec. (d) related to equitable distribution between urban and rural areas.
 
 1987—Subsec. (a)(1). Pub. L. 100–175, §154, substituted “shall” for “may” after “Commissioner”.
 

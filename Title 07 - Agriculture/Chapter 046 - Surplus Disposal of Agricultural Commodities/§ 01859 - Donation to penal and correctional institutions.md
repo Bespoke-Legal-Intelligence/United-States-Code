@@ -8,7 +8,3 @@ Notwithstanding any other limitations as to the disposal of surplus commodities 
 
 Pub. L. 85–683, Aug. 19, 1958, 72 Stat. 635, as authorizing Commodity Credit Corporation to purchase and donate flour and cornmeal when it has wheat or corn available for donation pursuant to this section, see note set out under section 1431 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1737n of this title.
-

@@ -10,7 +10,7 @@ In addition to grants made pursuant to the Land and Water Conservation Fund Act 
 
 #### (c) Costs of maintenance
 
-The Secretary, pursuant to an agreement with the State of Wisconsin, may pay up to 50 per centum of the annual cost of management, protection, maintenance, and rehabilitation of the reserve.
+The Secretary, pursuant to an agreement with the State of Wisconsin, may pay up to 50 percentum of the annual cost of management, protection, maintenance, and rehabilitation of the reserve.
 
 #### (d) Termination of Federal contributions
 

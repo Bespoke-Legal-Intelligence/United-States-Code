@@ -31,28 +31,28 @@
 
 |  |  |
 | :--- | ---: |
-| [3421\.](Subchapter%20001%20%28I%29%20-%20Political%2C%20Economic%2C%20and%20Technological%20Support/%C2%A7%2003421%20-%20Congressional%20declaration%20of%20policy.md) | Congressional declaration of policy. |
-| [3422\.](Subchapter%20001%20%28I%29%20-%20Political%2C%20Economic%2C%20and%20Technological%20Support/%C2%A7%2003422%20-%20Participation%20of%20United%20States%20personnel%20in%20the%20Multinational%20Force%20and%20Observers.md) | Participation of United States personnel in the Multinational Force and Observers. |
+| [3421\.](Subchapter%20002%20%28II%29%20-%20Multinational%20Force%20and%20Observers%20Participation/%C2%A7%2003421%20-%20Congressional%20declaration%20of%20policy.md) | Congressional declaration of policy. |
+| [3422\.](Subchapter%20002%20%28II%29%20-%20Multinational%20Force%20and%20Observers%20Participation/%C2%A7%2003422%20-%20Participation%20of%20United%20States%20personnel%20in%20the%20Multinational%20Force%20and%20Observers.md) | Participation of United States personnel in the Multinational Force and Observers. |
 | (a) | Participation by United States Armed Forces; maximum limit on the number of members. |
 | (b) | Participation by civilian personnel. |
 | (c) | Status of United States personnel. |
-| [3423\.](Subchapter%20001%20%28I%29%20-%20Political%2C%20Economic%2C%20and%20Technological%20Support/%C2%A7%2003423%20-%20United%20States%20contributions%20to%20costs.md) | United States contributions to costs. |
+| [3423\.](Subchapter%20002%20%28II%29%20-%20Multinational%20Force%20and%20Observers%20Participation/%C2%A7%2003423%20-%20United%20States%20contributions%20to%20costs.md) | United States contributions to costs. |
 | (a) | United States share of the costs. |
 | (b) | Authorization of appropriations. |
 | (c) | Reimbursements to the United States. |
-| [3424\.](Subchapter%20001%20%28I%29%20-%20Political%2C%20Economic%2C%20and%20Technological%20Support/%C2%A7%2003424%20-%20Nonreimbursed%20costs.md) | Nonreimbursed costs. |
+| [3424\.](Subchapter%20002%20%28II%29%20-%20Multinational%20Force%20and%20Observers%20Participation/%C2%A7%2003424%20-%20Nonreimbursed%20costs.md) | Nonreimbursed costs. |
 | (a) | Administrative and technical support and services. |
 | (b) | Costs to be kept at minimum level. |
 | (c) | Military training of armed forces of other countries. |
-| [3425\.](Subchapter%20001%20%28I%29%20-%20Political%2C%20Economic%2C%20and%20Technological%20Support/%C2%A7%2003425%20-%20Reports%20to%20Congress.md) | Reports to Congress. |
+| [3425\.](Subchapter%20002%20%28II%29%20-%20Multinational%20Force%20and%20Observers%20Participation/%C2%A7%2003425%20-%20Reports%20to%20Congress.md) | Reports to Congress. |
 | (a) | Initial report. |
 | (b) | Annual report; content. |
 | (c) | Description, detail, and accuracy of reports. |
-| [3426\.](Subchapter%20001%20%28I%29%20-%20Political%2C%20Economic%2C%20and%20Technological%20Support/%C2%A7%2003426%20-%20Statements%20of%20Congressional%20intent.md) | Statements of Congressional intent. |
+| [3426\.](Subchapter%20002%20%28II%29%20-%20Multinational%20Force%20and%20Observers%20Participation/%C2%A7%2003426%20-%20Statements%20of%20Congressional%20intent.md) | Statements of Congressional intent. |
 | (a) | Disclaimer of Congressional approval of other agreements, understandings, or commitments. |
 | (b) | Limitations on United States participation. |
 | (c) | War Powers Resolution. |
-| [3427\.](Subchapter%20001%20%28I%29%20-%20Political%2C%20Economic%2C%20and%20Technological%20Support/%C2%A7%2003427%20-%20Definitions.md) | Definitions. |
+| [3427\.](Subchapter%20002%20%28II%29%20-%20Multinational%20Force%20and%20Observers%20Participation/%C2%A7%2003427%20-%20Definitions.md) | Definitions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -62,3 +62,4 @@
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
 - [Subchapter 001 (I) - Political, Economic, and Technological Support](Subchapter%20001%20%28I%29%20-%20Political%2C%20Economic%2C%20and%20Technological%20Support/README.md)
+- [Subchapter 002 (II) - Multinational Force and Observers Participation](Subchapter%20002%20%28II%29%20-%20Multinational%20Force%20and%20Observers%20Participation/README.md)

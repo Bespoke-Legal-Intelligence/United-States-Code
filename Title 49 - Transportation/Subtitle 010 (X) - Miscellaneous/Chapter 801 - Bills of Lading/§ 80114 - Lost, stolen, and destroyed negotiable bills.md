@@ -12,7 +12,9 @@ Liability to Holder.—Delivery of goods under a court order under subsection (a
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

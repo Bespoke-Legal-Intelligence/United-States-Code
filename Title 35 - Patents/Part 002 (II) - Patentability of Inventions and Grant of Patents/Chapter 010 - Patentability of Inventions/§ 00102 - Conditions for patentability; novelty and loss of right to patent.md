@@ -28,7 +28,7 @@ Paragraph (d) is based on Title 35, U.S.C., 1946 ed., §32, first paragraph (R.S
 
 The section has been changed so that the prior foreign patent is not a bar unless it was granted before the filing of the application in the United States.
 
-Paragraph (e) is new and enacts the rule of <i>Milburn</i> v. <i>Davis-Bournonville,</i> 270 U.S. 390, by reason of which a United States patent disclosing an invention dates from the date of filing the application for the purpose of anticipating a subsequent inventor.
+Paragraph (e) is new and enacts the rule of <i>Milburn</i> v. <i>Davis-Bournonville</i>, 270 U.S. 390, by reason of which a United States patent disclosing an invention dates from the date of filing the application for the purpose of anticipating a subsequent inventor.
 
 Paragraph (f) indicates the necessity for the inventor as the party applying for patent. Subsequent sections permit certain persons to apply in place of the inventor under special circumstances.
 

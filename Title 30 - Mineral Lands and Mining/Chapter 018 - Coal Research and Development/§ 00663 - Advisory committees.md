@@ -14,13 +14,13 @@ Members of any advisory committee appointed from private life under authority of
 
 #### (d) Exemption from conflict-of-interest statutes
 
-Service by an individual as a member of such an advisory committee shall not subject him to the provisions of section 1914 of title 18, or, except with respect to a particular matter which directly involves the Office of Coal Research or in which the Office of Coal Research is directlyinterested, to the provisions of sections 281, 283, or 284 of title 18 or of section 190 of the Revised Statutes (5 U.S.C. 99).
+Service by an individual as a member of such an advisory committee shall not subject him to the provisions of section 1914 of title 18, or, except with respect to a particular matter which directly involves the Office of Coal Research or in which the Office of Coal Research is directly interested, to the provisions of sections 281, 283, or 284 of title 18 or of section 190 of the Revised Statutes (5 U.S.C. 99).
 
 (Pub. L. 86–599, §3, July 7, 1960, 74 Stat. 336.)
 
 #### References in Text
 
-Sections 281, 283, 284, and 1914 of title 18, referred to in subsec. (d), were repealed by Pub. L. 87–849, §2, Oct. 23, 1962, 76 Stat. 1126, “except as they \[sections 281 and 283\] may apply to retired officers of the armed forces of the United States”, and were supplanted by sections 203, 205, 207, and 209, respectively, of Title 18, Crimes and Criminal Procedure. For further details, see Exemptions note set out under section 281 of Title 18.
+Sections 281, 283, 284, and 1914 of title 18, referred to in subsec. (d), were repealed by Pub. L. 87–849, §2, Oct. 23, 1962, 76 Stat. 1126, “except as they \[sections 281 and 283\] may apply to retired officers of the armed forces of the United States”, and were supplanted by sections 203, 205, 207, and 209, respectively, of Title 18, Crimes and Criminal Procedure. For further details, see Exemptions note set out under section 203 of Title 18.
 
 Section 190 of the Revised Statutes, referred to in subsec. (d), was repealed by Pub. L. 87–849, §3, Oct. 23, 1962, 76 Stat. 1126. See section 207 of Title 18.
 

@@ -18,7 +18,7 @@ A mortgagee may foreclose the mortgage on, or acquire by deed in lieu of foreclo
 
 For purposes of this section, the term “lower income families” has the meaning given such term in section 1437a(b)(2) of title 42.
 
-(June 27, 1934, ch. 847, title II, §250, as added Nov. 30, 1983, Pub. L. 98–181, title IV, §433, 97 Stat. 1221; amended Feb. 5, 1988, Pub. L. 100–242,title II, §261, 101 Stat. 1890; Dec. 15, 1989, Pub. L. 101–235, title II, §202(d)(1), 103 Stat. 2037; Nov. 28, 1990, Pub. L. 101–625, title VI, §602(b), (c), 104 Stat. 4277.)
+(June 27, 1934, ch. 847, title II, §250, as added Nov. 30, 1983, Pub. L. 98–181, title IV, §433, 97 Stat. 1221; amended Feb. 5, 1988, Pub. L. 100–242, title II, §261, 101 Stat. 1890; Dec. 15, 1989, Pub. L. 101–235, title II, §202(d)(1), 103 Stat. 2037; Nov. 28, 1990, Pub. L. 101–625, title VI, §602(b), (c), 104 Stat. 4277.)
 
 #### Amendments
 
@@ -34,7 +34,7 @@ Subsecs. (c), (d). Pub. L. 101–625, §602(c), redesignated subsec. (d) as (c) 
 
 &emsp;“(2) grant a priority to applicants to become tenants who have the lowest incomes; and
 
-&emsp;“(3) maintain the low-income character of the project for a period at least equal to the remaining term of the project mortgage to the extent that assistance is provided.”
+&emsp;“(3) maintain the low-income character of the project for a period at least equal to the remainingterm of the project mortgage to the extent that assistance is provided.”
 
 1989—Subsec. (a). Pub. L. 101–235 inserted “or permit a termination of an insurance contract pursuant to section 1715t of this title” after second reference to “project”.
 

@@ -2,39 +2,49 @@
 
 (a) Unless the context indicates otherwise, as used in this chapter—
 
-&emsp;(1) “MARPOL Protocol” means the Protocol of 1978 relating to the International Convention for the Prevention of Pollution from Ships, 1973, and includes the Convention;
+&emsp;(1) “Antarctica” means the area south of 60 degrees south latitude;
 
-&emsp;(2) “Convention” means the International Convention for the Prevention of Pollution from Ships, 1973, including Protocols I and II and Annexes I, II, and V thereto, including any modification or amendments to the Convention, Protocols, or Annexes which have entered into force for the United States;
+&emsp;(2) “Antarctic Protocol” means the Protocol on Environmental Protection to the Antarctic Treaty, signed October 4, 1991, in Madrid, and all annexes thereto, and includes any future amendments thereto which have entered into force;
 
-&emsp;(3) “discharge” and “garbage” and “harmful substance” and “incident” shall have the meanings provided in the Convention;
+&emsp;(3) “MARPOL Protocol” means the Protocol of 1978 relating to the International Convention for the Prevention of Pollution from Ships, 1973, and includes the Convention;
 
-&emsp;(4) “owner” means any person holding title to, or in the absence of title, any other indicia of ownership of, a ship or terminal, but does not include a person who, without participating in the management or operation of a ship or terminal, holds indicia of ownership primarily to protect a security interest in the ship or terminal;
+&emsp;(4) “Convention” means the International Convention for the Prevention of Pollution from Ships, 1973, including Protocols I and II and Annexes I, II, and V thereto, including any modification or amendments to the Convention, Protocols, or Annexes which have entered into force for the United States;
 
-&emsp;(5) “operator” means—
+&emsp;(5) “discharge” and “garbage” and “harmful substance” and “incident” shall have the meanings provided in the Convention;
+
+&emsp;(6) “owner” means any person holding title to, or in the absence of title, any other indicia of ownership of, a ship or terminal, but does not include a person who, without participating in the management or operation of a ship or terminal, holds indicia of ownership primarily to protect a security interest in the ship or terminal;
+
+&emsp;(7) “operator” means—
 
 &emsp;&emsp;(a) in the case of a ship, a charterer by demise or any other person, except the owner, who is responsible for the operation, manning, victualing, and supplying of the vessel, or
 
 &emsp;&emsp;(b) in the case of a terminal, any person, except the owner, responsible for the operation of the terminal by agreement with the owner;
 
-&emsp;(6) “person” means an individual, firm, public or private corporation, partnership, association, State, municipality, commission, political subdivision of a State, or any interstate body;
+&emsp;(8) “person” means an individual, firm, public or private corporation, partnership, association, State, municipality, commission, political subdivision of a State, or any interstate body;
 
-&emsp;(7) “Secretary” means the Secretary of the department in which the Coast Guard is operating;
+&emsp;(9) “Secretary” means the Secretary of the department in which the Coast Guard is operating;
 
-&emsp;(8) “ship” means a vessel of any type whatsoever, including hydrofoils, air-cushion vehicles, submersibles, floating craft whether self-propelled or not, and fixed or floating platforms;
+&emsp;(10) “ship” means a vessel of any type whatsoever, including hydrofoils, air-cushion vehicles, submersibles, floating craft whether self-propelled or not, and fixed or floating platforms;
 
-&emsp;(9) “submersible” means a submarine, or any other vessel designed to operate under water; and
+&emsp;(11) “submersible” means a submarine, or any other vessel designed to operate under water; and
 
-&emsp;(10) “terminal” means an onshore facility or an offshore structure located in the navigable waters of the United States or subject to the jurisdiction of the United States and used, or intended to be used, as a port or facility for the transfer or other handling of a harmful substance.
+&emsp;(12) “terminal” means an onshore facility or an offshore structure located in the navigable waters of the United States or subject to the jurisdiction of the United States and used, or intended to be used, as a port or facility for the transfer or other handling of a harmful substance.
 
 (b) For purposes of this chapter, the requirements of Annex V shall apply to the navigable waters of the United States, as well as to all other waters and vessels over which the United States has jurisdiction.
 
-(Pub. L. 96–478, §2, Oct. 21, 1980, 94 Stat. 2297; Pub. L. 100–220, title II, §2101, Dec. 29, 1987, 101 Stat. 1460; Pub. L. 103–160, div. A, title X, §1003(f), Nov. 30, 1993, 107 Stat. 1748.)
+(c) For the purposes of this chapter, the requirements of Annex IV to the Antarctic Protocol shall apply in Antarctica to all vessels over which the United States has jurisdiction.
+
+(Pub. L. 96–478, §2, Oct. 21, 1980, 94 Stat. 2297; Pub. L. 100–220, title II, §2101, Dec. 29, 1987, 101Stat. 1460; Pub. L. 103–160, div. A, title X, §1003(f), Nov. 30, 1993, 107 Stat. 1748; Pub. L. 104–227, title II, §201(a), Oct. 2, 1996, 110 Stat. 3042.)
 
 #### References in Text
 
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 96–478, Oct. 21, 1980, 94 Stat. 2297, known as the “Act to Prevent Pollution from Ships”. For complete classification of this Act to the Code, see Short Title note below and Tables.
 
 #### Amendments
+
+1996—Subsec. (a). Pub. L. 104–227, §201(a)(1), (2), added pars. (1) and (2) and redesignated former pars. (1) to (10) as (3) to (12), respectively.
+
+Subsec. (c). Pub. L. 104–227, §201(a)(3), added subsec. (c).
 
 1993—Subsec. (a)(9), (10). Pub. L. 103–160 added par. (9) and redesignated former par. (9) as (10).
 
@@ -54,11 +64,11 @@ Section 2002 of title II of Pub. L. 100–220 provided that:
 
 “(a)
 
-In General.—Except as provided in subsections (b) and (c), this title \[enacting section 1912 of this title, amending this section and sections 1902, 1903, 1905, and 1907 to 1909 of this title, and enacting provisions set out as notes under this section, sections 1902 and 2267 of this title, and section 6981 of Title 42, The Public Health and Welfare\] shall be effective on the date on which Annex V to the International Convention for the Prevention of Pollution from Ships, 1973, enters into force for the United States. \[Annex V entered into force for the United States Dec. 31, 1988.\]
+In General.—Except as provided in subsections (b) and (c), this title \[enacting sections 1912 to 1915 of this title, amending this section and sections 1902, 1903, 1905, and 1907 to 1909 of this title, and enacting provisions set out as notes under this section, section 2267 of this title, and section 6981 of Title 42, The Public Health and Welfare\] shall be effective on the date on which Annex V to the International Convention for the Prevention of Pollution from Ships, 1973, enters into force for the United States. \[Annex V entered into force for the United States Dec. 31, 1988.\]
 
 “(b)
 
-Exceptions.—Sections 2001, 2002, 2003, 2108, 2202, 2203, 2204, and subtitle C of this title \[enacting section 1912 of this title, and provisions set out as notes under this section, section 2267 of this title, and section 6981 of Title 42\] shall be effective on the date of the enactment of this title \[Dec. 29, 1987\].
+Exceptions.—Sections 2001, 2002, 2003, 2108, 2202, 2203, 2204, and subtitle C of this title \[enacting sections 1912, 1914, and 1915 of this title, and provisions set out as notes under this section, section 2267 of this title, and section 6981 of Title 42\] shall be effective on the date of the enactment of this title \[Dec. 29, 1987\].
 
 “(c)
 

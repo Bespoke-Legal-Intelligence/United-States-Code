@@ -16,11 +16,17 @@ Distribution of Amounts.—The Secretary may distribute amounts in the fund in e
 
 Authority To Receive Grant Not Dependent on Participation in Block Grant Pilot Program.—An airport in a State participating in the State block grant pilot program under section 47128 of this title may receive a grant under this section to the same extent the airport may receive a grant if the State were not participating in the program.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1271.)
+(d)
+
+Priority Consideration for Certain Projects.—In making grants to sponsors described in subsection (b)(2), the Secretary shall give priority consideration to multi-year projects for construction of new runways that the Secretary finds are cost beneficial and would increase capacity in a region of the United States.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1271; Pub. L. 104–264, title I, §146, Oct. 9, 1996, 110 Stat. 3223.)
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -45,6 +51,14 @@ In subsection (a), the words “The Secretary of Transportation has a small airp
 In subsection (b), before clause (1), the words “under this subsection” are omitted as surplus. In clauses (1) and (2), the words “used” and “making” are omitted as surplus.
 
 In subsection (c), the word “pilot” is added for consistency with section 47128 of the revised title.
+
+#### Amendments
+
+1996—Subsec. (d). Pub. L. 104–264 added subsec. (d).
+
+#### Effective Date of 1996 Amendment
+
+Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -42,7 +42,7 @@ Subsec. (a)(5). Pub. L. 102–190, §3313(a)(4), substituted “current fiscal y
 
 Subsec. (b)(1). Pub. L. 102–190, §3311(b)(1), designated first sentence of subsec. (b) relating to submission of report as par. (1).
 
-Subsec. (b)(2). Pub. L. 102–190, §3311(b), designated second sentence of subsec. (b) relating to contents of report as par. (2) and inserted at end “Each such reportshall also contain details regarding the materials development and research projects to be conducted under section 98h(b)(2)(G) of this title during the fiscal years covered by the report. With respect to each development and research project, the report shall specify the amount planned to be expended from the fund, the material intended to be developed, the potential military or defense industrial applications for that material, and the development and research methodologies to be used.”
+Subsec. (b)(2). Pub. L. 102–190, §3311(b), designated second sentence of subsec. (b) relating to contents of report as par. (2) and inserted at end “Each such report shall also contain details regarding the materials development and research projects to be conducted under section 98h(b)(2)(G) of this title during the fiscal years covered by the report. With respect to each development and research project, the report shall specify the amount planned to be expended from the fund, the material intended to be developed, the potential military or defense industrial applications for that material, and the development and research methodologies to be used.”
 
 Subsec. (b)(3). Pub. L. 102–190, §3311(b)(1), designated third sentence of subsec. (b) relating to resubmission of proposed expenditures and disposals not obligated or executed as par. (3).
 

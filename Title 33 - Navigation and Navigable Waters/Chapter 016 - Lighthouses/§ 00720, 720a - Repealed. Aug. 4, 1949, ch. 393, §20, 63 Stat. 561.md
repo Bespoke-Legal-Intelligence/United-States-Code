@@ -6,5 +6,5 @@ Section 720a, act Aug. 16, 1937, ch. 665, §3, 50 Stat. 667, related to establis
 
 #### Effective Date of Repeal
 
-Repeal effective first day of third month after approval by President \[Aug. 4, 1949\], see section 19 of actAug. 4, 1949, set out as an Effective Date note preceding chapter 1 of Title 14, Coast Guard.
+Repeal effective first day of third month after approval by President \[Aug. 4, 1949\], see section 19 of act Aug. 4, 1949, set out as an Effective Date note preceding chapter 1 of Title 14, Coast Guard.
 

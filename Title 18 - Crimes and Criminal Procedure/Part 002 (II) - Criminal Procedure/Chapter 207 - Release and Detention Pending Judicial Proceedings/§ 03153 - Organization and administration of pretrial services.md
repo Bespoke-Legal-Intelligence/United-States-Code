@@ -1,4 +1,4 @@
-### §3153 . Organization and administration of pretrial services
+### §3153. Organization and administration of pretrial services
 
 (a)(1) With the approval of the district court, the chief pretrial services officer in districts in which pretrial services are established under section 3152(b) of this title shall appoint such other personnel as may be required. The position requirements and rate of compensation of the chief pretrial services officer and such other personnel shall be established by the Director with the approval of the Judicial Conference of the United States, except that no such rate of compensation shall exceed the rate of basic pay in effect and then payable for grade GS–16 of the General Schedule under section 5332 of title 5, United States Code.
 

@@ -48,8 +48,9 @@
 | (i) | Application of a registered pesticide product. |
 | (j) | Obligations or liability pursuant to federally permitted release. |
 | (k) | Transfer to, and assumption by, Post-Closure Liability Fund of liability of owner or operator of hazardous waste disposal facility in receipt of permit under applicable solid waste disposal law; time, criteria applicable, procedures, etc.; monitoring costs; reports. |
-| (<i>l)</i> | Federal lien. |
+| (<i>l</i>) | Federal lien. |
 | (m) | Maritime lien. |
+| (n) | Liability of fiduciaries. |
 | [9608\.](Subchapter%20001%20%28I%29%20-%20Hazardous%20Substances%20Releases%2C%20Liability%2C%20Compensation/%C2%A7%2009608%20-%20Financial%20responsibility.md) | Financial responsibility. |
 | (a) | Establishment and maintenance by owner or operator of vessel; amount; failure to obtain certification of compliance. |
 | (b) | Establishment and maintenance by owner or operator of production, etc., facilities; amount; adjustment; consolidated form of responsibility; coverage of motor carriers. |
@@ -80,10 +81,10 @@
 | (i) | Restoration, etc., of natural resources. |
 | (j) | Use of Post-closure Liability Fund. |
 | (k) | Inspector General. |
-| (<i>l)</i> | Foreign claimants. |
+| (<i>l</i>) | Foreign claimants. |
 | (m) | Agency for Toxic Substances and Disease Registry. |
 | (n) | Limitations on research, development, and demonstration program. |
-| (<i>o)</i> | Notification procedures for limitations on certain payments. |
+| (<i>o</i>) | Notification procedures for limitations on certain payments. |
 | (p) | General revenue share of Superfund. |
 | [9612\.](Subchapter%20001%20%28I%29%20-%20Hazardous%20Substances%20Releases%2C%20Liability%2C%20Compensation/%C2%A7%2009612%20-%20Claims%20procedure.md) | Claims procedure. |
 | (a) | Claims against Fund for response costs. |
@@ -104,7 +105,7 @@
 | (i) | Intervention. |
 | (j) | Judicial review. |
 | (k) | Administrative record and participation procedures. |
-| (<i>l)</i> | Notice of actions. |
+| (<i>l</i>) | Notice of actions. |
 | [9614\.](Subchapter%20001%20%28I%29%20-%20Hazardous%20Substances%20Releases%2C%20Liability%2C%20Compensation/%C2%A7%2009614%20-%20Relationship%20to%20other%20law.md) | Relationship to other law. |
 | (a) | Additional State liability or requirements with respect to release of substances within State. |
 | (b) | Recovery under other State or Federal law of compensation for removal costs or damages, or payment of claims. |
@@ -162,7 +163,7 @@
 | (i) | Settlement procedures. |
 | (j) | Natural resources. |
 | (k) | Section not applicable to vessels. |
-| (<i>l)</i> | Civil penalties. |
+| (<i>l</i>) | Civil penalties. |
 | (m) | Applicability of general principles of law. |
 | [9623\.](Subchapter%20001%20%28I%29%20-%20Hazardous%20Substances%20Releases%2C%20Liability%2C%20Compensation/%C2%A7%2009623%20-%20Reimbursement%20to%20local%20governments.md) | Reimbursement to local governments. |
 | (a) | Application. |
@@ -285,7 +286,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 300h–6, 300h–7, 6972, 11004 of this title; title 10 sections 2701, 2810; title 16 sections 410yy–3, 426n; title 26 sections 9507, 9508; title 30 section 1240a; title 33 sections 1321, 2701; title 43 sections 869–2, 1474b–1.
+This chapter is referred to in sections 300h–6, 300h–7, 6972, 11004 of this title; title 10 sections 2701, 2703, 2810; title 16 sections 410yy–3, 426n, 545b; title 26 sections 9507, 9508; title 30 section 1240a; title 33 sections 1272, 1321, 2701; title 43 sections 869–2, 1474b–1.
 
 
 ---

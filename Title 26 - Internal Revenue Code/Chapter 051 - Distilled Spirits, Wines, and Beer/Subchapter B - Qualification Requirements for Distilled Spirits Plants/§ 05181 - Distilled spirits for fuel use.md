@@ -32,7 +32,7 @@ The Secretary may by regulation provide for the waiver of any provision of this 
 
 #### (A) In general
 
-&emsp;&emsp;An application for an operating permit for an eligible distilled spirits plant shall be insuch a form and manner, and contain such information, as the Secretary may by regulations prescribe; except that the Secretary shall, to the greatest extent possible, take steps to simplify the application so as to expedite the issuance of such permits.
+&emsp;&emsp;An application for an operating permit for an eligible distilled spirits plant shall be in such a form and manner, and contain such information, as the Secretary may by regulations prescribe; except that the Secretary shall, to the greatest extent possible, take steps to simplify the application so as to expedite the issuance of such permits.
 
 #### (B) Receipt of application
 
@@ -80,7 +80,7 @@ Distilled spirits produced under this section may be withdrawn free of tax from 
 
 #### (2) Rendering unfit for use
 
-&emsp;For protection of the revenue and under such regulations as the Secretary may prescribe, distilled spirits produced under this section shall, before withdrawal from the bonded premises of a distilled spirits plant, be rendered unfit for beverage use by the addition of substances which will not impair the quality of the spirits for fuel use.
+&emsp;For protection of the revenue and under such regulations as the Secretary may prescribe, distilled spirits produced under this section shall, before withdrawal from the bonded premises of a distilled spirits plant, berendered unfit for beverage use by the addition of substances which will not impair the quality of the spirits for fuel use.
 
 #### (f) Definition of distilled spirits
 

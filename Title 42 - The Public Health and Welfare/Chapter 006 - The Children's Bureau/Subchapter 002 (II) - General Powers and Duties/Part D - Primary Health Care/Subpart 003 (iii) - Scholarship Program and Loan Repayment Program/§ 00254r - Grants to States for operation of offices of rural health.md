@@ -8,7 +8,7 @@ The Secretary, acting through the Director of the Office of Rural Health Policy 
 
 #### (1) In general
 
-&emsp;The Secretary may not make a grant under subsection (a) of this section unless the State involved agrees, with respect to the costs to be incurred by the State in carrying out the purpose described in such subsection, to provide non-Federal contributions in cash toward such costs in an amount equal to—
+&emsp;The Secretary may not make a grant under subsection (a) of this section unless the State involved agrees, with respect to the costs to beincurred by the State in carrying out the purpose described in such subsection, to provide non-Federal contributions in cash toward such costs in an amount equal to—
 
 &emsp;&emsp;(A) for the first fiscal year of payments under the grant, not less than $1 for each $3 of Federal funds provided in the grant;
 
@@ -62,7 +62,7 @@ The Secretary may not make a grant under subsection (a) of this section unless t
 
 &emsp;&emsp;&emsp;(ii) to conduct activities for which Federal funds are expended—
 
-&emsp;&emsp;&emsp;&emsp;(I) within the State to provide technical and other nonfinancial assistance under subsection (f) of section 254c of this title;
+&emsp;&emsp;&emsp;&emsp;(I) within the State to provide technical and other nonfinancial assistance under subsection (f) of section 254c <sup>1</sup> of this title;
 
 &emsp;&emsp;&emsp;&emsp;(II) under a memorandum of agreement entered into with the State under subsection (h) of such section; or
 
@@ -94,7 +94,7 @@ The Secretary may not make a grant under subsection (a) of this section unless t
 
 #### (g) Requirement of application
 
-The Secretary may not make a grant under subsection (a) of this section unless an application for the grant is submitted to the Secretary and the application is in such form, is made in such manner, and contains such agreements, assurances, and information as the Secretary determines to be necessary to carry out such subsection.
+The Secretary may not make a grant under subsection (a) of this section unless an application for the grant is submitted to the Secretaryand the application is in such form, is made in such manner, and contains such agreements, assurances, and information as the Secretary determines to be necessary to carry out such subsection.
 
 #### (h) Noncompliance
 
@@ -120,6 +120,10 @@ No grant may be made under this section after the aggregate amounts appropriated
 
 (July 1, 1944, ch. 373, title III, §338J, as added Nov. 16, 1990, Pub. L. 101–597, title III, §302, 104 Stat. 3032.)
 
+#### References in Text
+
+Section 254c of this title, referred to in subsec. (e)(1)(B)(ii)(I), was in the original a reference to section 330, meaning section 330 of act July 1, 1944, which was omitted in the general amendment of subpart I (§254b et seq.) of this part by Pub. L. 104–299, §2, Oct. 11, 1996, 110 Stat. 3626. Sections 2 and 3(a) of Pub. L. 104–299 enacted new sections 330 and 330A of act July 1, 1944, which are classified, respectively, to sections 254b and 254c of this title.
+
 #### Prior Provisions
 
 A prior section 254r, act July 1, 1944, ch. 373, title III, §338I, formerly title VII, §757, as added Aug. 1, 1977, Pub. L. 95–83, title III, §307(n)(1), 91 Stat. 392; amended Dec. 17, 1980, Pub. L. 96–537, §3(d), 94 Stat. 3174; renumbered §338G, Aug. 13, 1981, Pub. L. 97–35, title XXVII, §2709(a), 95 Stat. 908; Oct. 30, 1984, Pub. L. 98–551, §3, 98 Stat. 2817; renumbered §338I, Dec. 1, 1987, Pub. L. 100–177, title II, §201(1), 101 Stat. 992; Nov. 4, 1988, Pub. L. 100–607, title VI, §629(a)(3), 102 Stat. 3146, which related to Indian Health Scholarships and was classified to section 294y–1 of this title prior to renumbering by Pub. L. 97–35, was repealed by Pub. L. 100–713, title I, §104(b)(1), Nov. 23, 1988, 102 Stat. 4787. For provisions continuing scholarships provided on or before Nov. 23, 1988, see section 104(b)(2) of Pub. L. 100–713.
@@ -135,4 +139,6 @@ Similar provisions were contained in Pub. L. 101–555, §3, Nov. 15, 1990, 104 
 #### Section Referred to in Other Sections
 
 This section is referred to in section 254q–1 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

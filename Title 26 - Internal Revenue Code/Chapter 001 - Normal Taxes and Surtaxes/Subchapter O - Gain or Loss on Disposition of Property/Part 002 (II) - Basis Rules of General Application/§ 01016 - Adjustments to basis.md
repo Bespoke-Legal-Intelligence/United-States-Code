@@ -56,7 +56,7 @@ Proper adjustment in respect of the property shall in all cases be made—
 
 &emsp;(15) for deductions to the extent disallowed under section 272 (relating to disposal of coal or domestic iron ore), notwithstanding the provisions of any other paragraph of this subsection;
 
-&emsp;(16) in the case of any evidence of indebtedness referred to in section 811(b) (relating to amortization of premium and accrual of discount in the case of life insurance companies), to the extent of the adjustments required under section 811(b) (or the corresponding provisions of prior income tax laws) for the taxable year and all prior taxable years;
+&emsp;(16) in the case of any evidence of indebtedness referred to in section 811(b) (relating to amortization of premium and accrual of discount in the case of life insurance companies), to the extent of the adjustments requiredunder section 811(b) (or the corresponding provisions of prior income tax laws) for the taxable year and all prior taxable years;
 
 &emsp;(17) to the extent provided in section 1367 in the case of stock of, and indebtedness owed to, shareholders of an S corporation;
 
@@ -72,9 +72,11 @@ Proper adjustment in respect of the property shall in all cases be made—
 
 &emsp;(23) in the case of property the acquisition of which resulted under section 1043 or 1044 in the nonrecognition of any part of the gain realized on the sale of other property, to the extent provided in section 1043(c) or 1044(d), as the case may be,<sup>2</sup>
 
-&emsp;(24) to the extent provided in section 179A(e)(6)(A),<sup>2</sup> and
+&emsp;(24) to the extent provided in section 179A(e)(6)(A),<sup>2</sup>
 
-&emsp;(25) to the extent provided in section 30(d)(1).
+&emsp;(25) to the extent provided in section 30(d)(1),<sup>2</sup> and
+
+&emsp;(26) to the extent provided in sections 23(g) and 137(e).
 
 #### (b) Substituted basis
 
@@ -128,7 +130,7 @@ If—
 
 &emsp;(1) the taxpayer acquires any automobile with respect to which a tax was imposed by section 4064, and
 
-&emsp;(2) the use of such automobile by the taxpayer begins not more than 1 year after the date of the first sale for ultimate use of such automobile,
+&emsp;(2) the use of such automobile by the taxpayer begins not more than 1 year after thedate of the first sale for ultimate use of such automobile,
 
 > the basis of such automobile shall be reduced by the amount of the tax imposed by section 4064 with respect to such automobile. In the case of importation, if the date of entry or withdrawal from warehouse for consumption is later than the date of the first sale for ultimate use, such later date shall be substituted for the date of such first sale in the preceding sentence.
 
@@ -136,7 +138,7 @@ If—
 
 &emsp;&emsp;<b>For treatment of separate mineral interests as one property, see section 614.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 299; June 29, 1956, ch. 464, §4(c), 70 Stat. 407; Sept. 2, 1958, Pub. L. 85–866, title I, §§2(b), 64(d)(2), 72 Stat. 1607, 1656; June 25, 1959, Pub. L. 86–69, §3(d), 73 Stat. 139; Oct. 16, 1962, Pub. L. 87–834, §§2(f), 8(g)(2), 12(b)(4), 76 Stat. 972, 998, 1031; Feb. 26, 1964, Pub. L. 88–272, title II, §§203(a)(3)(C), 225(j)(2), 227(b)(5), 78 Stat. 34, 93, 98; Dec. 30, 1969, Pub. L. 91–172, title II, §231(c)(3), title V, §§504(c)(4), 516(c)(2)(B), 83 Stat. 580, 633, 648; Oct. 4, 1976, Pub. L. 94–455, title XIX, §1901(a)(123), (b)(1)(F)(ii), (21)(G), (29)(A), (30)(A), title XX, §2005(a)(3), 90 Stat. 1784, 1790, 1798, 1799, 1876; Oct. 17, 1978, Pub. L. 95–472, §4(b), 92 Stat. 1335; Nov. 6, 1978, Pub. L. 95–600, title V, §515(2), title VI, §601(b)(3), title VII, §702(r)(3), 92 Stat. 2884, 2896, 2938; Nov. 9, 1978, Pub. L. 95–618, title I, §101(b)(3), title II, §201(b), 92 Stat. 3179, 3183; Apr. 1, 1980, Pub. L. 96–222, title I, §§106(a)(2), (3), 107(a)(2)(C), 94 Stat. 221, 222; Apr. 2, 1980, Pub. L. 96–223, title IV, §401(a), (c)(1), 94 Stat. 299, 300; Aug. 13, 1981, Pub. L. 97–34, title II, §212(d)(2)(G), title IV, §421(g), 95 Stat. 239, 310; Sept. 3, 1982, Pub. L. 97–248, title II, §§201(c)(2), 205(a)(5)(B), 96 Stat. 418, 429; Oct. 19, 1982, Pub. L. 97–354, §5(a)(33), 96 Stat. 1695; July 18, 1984, Pub. L. 98–369, div. A, title I, §§43(a)(2), 53(d)(3), title II, §211(b)(14), title IV, §474(r)(23), title V, §541(b)(2), 98 Stat. 558, 568, 756, 844, 890; Oct. 22, 1986, Pub. L. 99–514, title II, §241(b)(2), title VII, §701(e)(4)(D), title XIII, §1303(b)(3), title XVIII, §1899A(25), 100 Stat. 2181, 2343, 2658, 2959; Nov. 10, 1988, Pub. L. 100–647, title I, §§1006(j)(1)(B), 1018(u)(22), 102 Stat. 3411, 3591; Nov. 30, 1989, Pub. L. 101–194, title V, §502(b)(2), 103 Stat. 1755; Nov. 5, 1990, Pub. L. 101–508, title XI, §§11801(c)(1), 11812(b)(10), 11813(b)(19), 104 Stat. 1388–522, 1388–535, 1388–555; Oct. 24, 1992, Pub. L. 102–486, title XIX, §1913(a)(3)(A), (b)(2)(B), 106 Stat. 3019, 3020; Aug. 10, 1993, Pub. L. 103–66, title XIII, §§13114(b), 13213(a)(2)(F), 13261(f)(3), 107 Stat. 431, 474, 539.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 299; June 29, 1956, ch. 464, §4(c), 70 Stat. 407; Sept. 2, 1958, Pub. L. 85–866, title I, §§2(b), 64(d)(2), 72 Stat. 1607, 1656; June 25, 1959, Pub. L. 86–69, §3(d), 73 Stat. 139; Oct. 16, 1962, Pub. L. 87–834, §§2(f), 8(g)(2), 12(b)(4), 76 Stat. 972, 998, 1031; Feb. 26, 1964, Pub. L. 88–272, title II, §§203(a)(3)(C), 225(j)(2), 227(b)(5), 78 Stat. 34, 93, 98; Dec. 30, 1969, Pub. L. 91–172, title II, §231(c)(3), title V, §§504(c)(4), 516(c)(2)(B), 83 Stat. 580, 633, 648; Oct. 4, 1976, Pub. L. 94–455, title XIX, §1901(a)(123), (b)(1)(F)(ii), (21)(G), (29)(A), (30)(A), title XX, §2005(a)(3), 90 Stat. 1784, 1790, 1798, 1799, 1876; Oct. 17, 1978, Pub. L. 95–472, §4(b), 92 Stat. 1335; Nov. 6, 1978, Pub. L. 95–600, title V, §515(2), title VI, §601(b)(3), title VII, §702(r)(3), 92 Stat. 2884, 2896, 2938; Nov. 9, 1978, Pub. L. 95–618, title I, §101(b)(3), title II, §201(b), 92 Stat. 3179, 3183; Apr. 1, 1980, Pub. L. 96–222, title I, §§106(a)(2), (3), 107(a)(2)(C), 94 Stat. 221, 222; Apr. 2, 1980, Pub. L. 96–223, title IV, §401(a), (c)(1), 94 Stat. 299, 300; Aug. 13, 1981, Pub. L. 97–34, title II, §212(d)(2)(G), title IV, §421(g), 95 Stat. 239, 310; Sept. 3, 1982, Pub. L. 97–248, title II, §§201(c)(2), 205(a)(5)(B), 96 Stat. 418, 429; Oct. 19, 1982, Pub. L. 97–354, §5(a)(33), 96 Stat. 1695; July 18, 1984, Pub. L. 98–369, div. A, title I, §§43(a)(2), 53(d)(3), title II, §211(b)(14), title IV, §474(r)(23), title V, §541(b)(2), 98 Stat. 558, 568, 756, 844, 890; Oct. 22, 1986, Pub. L. 99–514, title II, §241(b)(2), title VII, §701(e)(4)(D), title XIII, §1303(b)(3), title XVIII, §1899A(25), 100 Stat. 2181, 2343, 2658, 2959; Nov. 10, 1988, Pub. L. 100–647, title I, §§1006(j)(1)(B), 1018(u)(22), 102 Stat. 3411, 3591; Nov. 30, 1989, Pub. L. 101–194, title V, §502(b)(2), 103 Stat. 1755; Nov. 5, 1990, Pub. L. 101–508, title XI, §§11801(c)(1), 11812(b)(10), 11813(b)(19), 104 Stat. 1388–522, 1388–535, 1388–555; Oct. 24, 1992, Pub. L. 102–486, title XIX, §1913(a)(3)(A), (b)(2)(B), 106 Stat. 3019, 3020; Aug. 10, 1993, Pub. L. 103–66, title XIII, §§13114(b), 13213(a)(2)(F), 13261(f)(3), 107 Stat. 431, 474, 539; Aug. 20, 1996, Pub. L. 104–188, title I, §§1704(t)(56), 1807(c)(5), 110 Stat. 1890, 1902.)
 
 #### References in Text
 
@@ -156,6 +158,10 @@ Section 28 of the Internal Revenue Code of 1939, referred to in subsec. (a)(12),
 
 #### Amendments
 
+1996—Subsec. (a)(20). Pub. L. 104–188, §1704(t)(56), provided that section 11813(b)(19) of Pub. L. 101–508 shall be applied as if “Paragraph (20) of section 1016(a), as redesignated by section 11801,” appeared instead of “paragraph (21) of section 1016(a)”. See 1990 Amendment note below.
+
+Subsec. (a)(26). Pub. L. 104–188, §1807(c)(5), added par. (26).
+
 1993—Subsec. (a)(19) to (23). Pub. L. 103–66, §13261(f)(3), redesignated pars. (20) to (24) as (19) to (23), respectively, and struck out former par. (19) which read as follows: “for amounts allowed as deductions for payments made on account of transfers of franchises, trademarks, or trade names under section 1253(d)(2);”.
 
 Subsec. (a)(24). Pub. L. 103–66, §13261(f)(3), redesignated par. (25) as (24). Former par. (24) redesignated (23).
@@ -174,7 +180,7 @@ Subsec. (e). Pub. L. 103–66, §13213(a)(2)(F), amended heading and text of sub
 
 1990—Subsec. (a)(2). Pub. L. 101–508, §11812(b)(10), substituted “under the straight line method” for “under section 167(b)(1)” in concluding provisions.
 
-Subsec. (a)(20). Pub. L. 101–508, §11813(b)(19), which directed the amendment of subsec. (a)(21) by striking “section 48(q)” and inserting “section 50(c)”, was executed to subsec. (a)(20) to reflect the probable intent of Congress and the intervening redesignation of par. (21) as (20) by Pub. L. 101–508, §11801(c)(1). See below.
+Subsec. (a)(20). Pub. L. 101–508, §11813(b)(19), which directed the amendment of subsec. (a)(21) by striking “section 48(q)” and inserting “section 50(c)”, was executed to subsec. (a)(20). See 1996 Amendment note above.
 
 Pub. L. 101–508, §11801(c)(1), redesignated par. (21) as (20) and struck out former par. (20) which read as follows: “to the extent provided in section 23(e), in the case of property with respect to which a credit has been allowed under section 23;”.
 
@@ -290,6 +296,10 @@ Subsec. (a)(18). Pub. L. 85–866, §64(d)(2), added par. (18).
 
 1956—Subsec. (a)(16). Act June 29, 1956, added par. (16).
 
+#### Effective Date of 1996 Amendment
+
+Amendment by section 1807(c)(5) of Pub. L. 104–188 applicable to taxable years beginning after Dec. 31, 1996, see section 1807(e) of Pub. L. 104–188, set out as an Effective Date note under section 23 of this title.
+
 #### Effective Date of 1993 Amendment
 
 Section 13114(d) of Pub. L. 103–66 provided that: “The amendments made by this section \[enacting section 1044 of this title and amending this section\] shall apply to sales on and after the date of the enactment of this Act \[Aug. 10, 1993\], in taxable years ending on and after such date.”
@@ -300,7 +310,7 @@ Amendment by section 13261(f)(3) of Pub. L. 103–66 applicable, except as other
 
 #### Effective Date of 1992 Amendment
 
-Amendment by Pub. L. 102–486 applicable to property placed in service after June 30, 1993, see section 1913(c)of Pub. L. 102–486, set out as an Effective Date note under section 30 of this title.
+Amendment by Pub. L. 102–486 applicable to property placed in service after June 30, 1993, see section 1913(c) of Pub. L. 102–486, set out as an Effective Date note under section 30 of this title.
 
 #### Effective Date of 1990 Amendment
 
@@ -356,7 +366,7 @@ Amendment by section 421(g) of Pub. L. 97–34 applicable with respect to the es
 
 Amendment by section 401(a) of Pub. L. 96–223 (repealing section 2005(a)(3) of Pub. L. 94–455 and section 702(r)(3) of Pub. L. 96–500 and the amendments made thereby, which had amended this section) applicable in respect of decedents dying after Dec. 31, 1976, and except for certain elections, this title to be applied as if those repealed provisions had not been enacted, see section 401(b), (e) of Pub. L. 96–223, set out as a note under section 1023 of this title.
 
-Amendment by Pub. L. 96–222 effective, except as otherwise provided, as if it had been included in the provisions of the Revenue Act of 1978, Pub. L. 95–600, to which such amendment relates, see section 201 of Pub. L. 96–222, set out as an Effective Date of 1980 Amendment note under section 32 of this title.
+Amendment by Pub. L. 96–222 effective, except as otherwise provided, as if it had been included in the provisions of the Revenue Act of 1978, Pub. L. 95–600, to which such amendment relates, see section 201 of Pub.L. 96–222, set out as an Effective Date of 1980 Amendment note under section 32 of this title.
 
 #### Effective Date of 1978 Amendments
 

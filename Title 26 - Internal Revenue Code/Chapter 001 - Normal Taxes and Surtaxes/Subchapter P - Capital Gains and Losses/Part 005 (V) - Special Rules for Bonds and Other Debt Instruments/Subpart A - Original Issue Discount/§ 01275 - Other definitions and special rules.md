@@ -32,7 +32,7 @@ For purposes of this subpart—
 
 #### (B) Issues not publicly offered and not issued for property
 
-&emsp;&emsp;In the case of any debt instrument to which section 1273(b)(2) applies, the term “date of original issue” means the date on which the debt instrument was sold by the issuer.
+&emsp;&emsp;In the case of any debt instrument to which section 1273(b)(2) applies, the term“date of original issue” means the date on which the debt instrument was sold by the issuer.
 
 #### (C) Other debt instruments
 
@@ -114,7 +114,7 @@ For purposes of this subpart—
 
 #### (d) Regulation authority
 
-The Secretary may prescribe regulations providing that where, by reason of varying rates ofinterest, put or call options, indefinite maturities, contingent payments, assumptions of debt instruments, or other circumstances, the tax treatment under this subpart (or section 163(e)) does not carry out the purposes of this subpart (or section 163(e)), such treatment shall be modified to the extent appropriate to carry out the purposes of this subpart (or section 163(e)).
+The Secretary may prescribe regulations providing that where, by reason of varying rates of interest, put or call options, indefinite maturities, contingent payments, assumptions of debt instruments, or other circumstances, the tax treatment under this subpart (or section 163(e)) does not carry out the purposes of this subpart (or section 163(e)), such treatment shall be modified to the extent appropriate to carry out the purposes of this subpart (or section 163(e)).
 
 (Added and amended Pub. L. 98–369, div. A, title I, §§41(a), 61(c)(2), July 18, 1984, 98 Stat. 540, 581; Pub. L. 99–514, title XVIII, §1804(f)(2)(A), Oct. 22, 1986, 100 Stat. 2805; Pub. L. 100–647, title I, §1006(u)(4), Nov. 10, 1988, 102 Stat. 3427; Pub. L. 101–508, title XI, §11325(a)(2), Nov. 5, 1990, 104 Stat. 1388–466.)
 
@@ -124,7 +124,7 @@ The Secretary may prescribe regulations providing that where, by reason of varyi
 
 1988—Subsec. (a)(4)(B)(ii)(I). Pub. L. 100–647 substituted “subsection (a)(7)” for “subsection (a)(6)”.
 
-1986—Subsec. (a)(4), (5). Pub. L. 99–514 redesignated par. (4), relating to treatment of obligations distributed to corporations, as (5), and substituted “by corporations” for “to corporations” in heading.
+1986—Subsec. (a)(4), (5). Pub. L. 99–514 redesignated par. (4), relating to treatment of obligations distributedto corporations, as (5), and substituted “by corporations” for “to corporations” in heading.
 
 1984—Subsec. (a)(4). Pub. L. 98–369, §61(c)(2), added par. (4) relating to treatment of obligations distributed to corporations.
 
@@ -154,5 +154,5 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 163, 453A, 483, 856, 1278, 1283, 1286, 1288, 6706 of this title.
+This section is referred to in sections 163, 453A, 483, 856, 860L, 1278, 1283, 1286, 1288, 6706 of this title.
 

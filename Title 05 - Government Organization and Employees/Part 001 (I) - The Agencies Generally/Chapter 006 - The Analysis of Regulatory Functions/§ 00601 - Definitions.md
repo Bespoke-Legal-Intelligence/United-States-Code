@@ -4,29 +4,197 @@ For purposes of this chapter—
 
 &emsp;(1) the term “agency” means an agency as defined in section 551(1) of this title;
 
-&emsp;(2) the term “rule” means any rule for which the agency publishes a general notice of proposed rulemaking pursuant to section 553(b) of this title, or any other law, including any rule of general applicability governing Federal grants to State and local governments for which the agency provides an opportunity for notice and public comment, except that the term “rule” does not include a rule of particular applicability relating to rates, wages, corporate or financial structures or reorganizations thereof, prices, facilities, appliances, services, or allowances therefor or to valuations, costs or accounting, or practices relating to such rates, wages, structures, prices, appliances, services, or allowances;
+&emsp;(2) the term “rule” means any rule for which the agency publishes a general notice of proposed rulemaking pursuant to section 553(b) of this title, or any other law, including any rule of general applicability governing Federal grants to State and local governments for which the agency provides an opportunity for notice and public comment, except that theterm “rule” does not include a rule of particular applicability relating to rates, wages, corporate or financial structures or reorganizations thereof, prices, facilities, appliances, services, or allowances therefor or to valuations, costs or accounting, or practices relating to such rates, wages, structures, prices, appliances, services, or allowances;
 
 &emsp;(3) the term “small business” has the same meaning as the term “small business concern” under section 3 of the Small Business Act, unless an agency, after consultation with the Office of Advocacy of the Small Business Administration and after opportunity for public comment, establishes one or more definitions of such term which are appropriate to the activities of the agency and publishes such definition(s) in the Federal Register;
 
 &emsp;(4) the term “small organization” means any not-for-profit enterprise which is independently owned and operated and is not dominant in its field, unless an agency establishes, after opportunity for public comment, one or more definitions of such term which are appropriate to the activities of the agency and publishes such definition(s) in the Federal Register;
 
-&emsp;(5) the term “small governmental jurisdiction” means governments of cities, counties, towns, townships, villages, school districts, or special districts, with a population of less than fifty thousand, unless an agency establishes, after opportunity for public comment, one or more definitions of such term which are appropriate to the activities of the agency and which are based on such factors as location in rural or sparsely populated areas or limited revenues due to the population of such jurisdiction, and publishes such definition(s) in the Federal Register; and
+&emsp;(5) the term “small governmental jurisdiction” means governments of cities, counties, towns, townships, villages, school districts, or special districts, with a population of less than fifty thousand, unless an agency establishes, after opportunity for public comment, one or more definitions of such term which are appropriate to the activities of the agency and which are based on such factors as location in rural or sparsely populated areas or limited revenues due to the population of such jurisdiction, and publishes such definition(s) in the Federal Register;
 
-&emsp;(6) the term “small entity” shall have the same meaning as the terms “small business”, “small organization” and “small governmental jurisdiction” defined in paragraphs (3), (4) and (5) of this section.
+&emsp;(6) the term “small entity” shall have the same meaning as the terms “small business”, “small organization” and “small governmental jurisdiction” defined in paragraphs (3), (4) and (5) of this section; and
 
-(Added Pub. L. 96–354, §3(a), Sept. 19, 1980, 94 Stat. 1165.)
+&emsp;(7) the term “collection of information”—
+
+&emsp;&emsp;(A) means the obtaining, causing to be obtained, soliciting, or requiring the disclosure to third parties or the public, of facts or opinions by or for an agency, regardless of form or format, calling for either—
+
+&emsp;&emsp;&emsp;(i) answers to identical questions posed to, or identical reporting or recordkeeping requirements imposed on, 10 or more persons, other than agencies, instrumentalities, or employees of the United States; or
+
+&emsp;&emsp;&emsp;(ii) answers to questions posed to agencies, instrumentalities, or employees of the United States which are to be used for general statistical purposes; and
+
+&emsp;&emsp;(B) shall not include a collection of information described under section 3518(c)(1) of title 44, United States Code.
+
+&emsp;(8)
+
+Recordkeeping requirement.—The term “recordkeeping requirement” means a requirement imposed by an agency on persons to maintain specified records.
+
+(Added Pub. L. 96–354, §3(a), Sept. 19, 1980, 94 Stat. 1165; amended Pub. L. 104–121, title II, §241(a)(2), Mar. 29, 1996, 110 Stat. 864.)
 
 #### References in Text
 
 Section 3 of the Small Business Act, referred to in par. (3), is classified to section 632 of Title 15, Commerce and Trade.
 
+#### Amendments
+
+1996—Pars. (7), (8). Pub. L. 104–121 added pars. (7) and (8).
+
+#### Effective Date of 1996 Amendment
+
+Section 245 of title II of Pub. L. 104–121 provided that: “This subtitle \[subtitle D (§§241–245) of title II of Pub. L. 104–121, amending this section and sections 603 to 605, 609, 611, and 612 of this title and enacting provisions set out as a note under section 609 of this title\] shall become effective on the expiration of 90 days after the date of enactment of this subtitle \[Mar. 29, 1996\], except that such amendments shall not apply to interpretative rules for which a notice of proposed rulemaking was published prior to the date of enactment.”
+
 #### Effective Date
 
 Section 4 of Pub. L. 96–354 provided that: “The provisions of this Act \[enacting this chapter\] shall take effect January 1, 1981, except that the requirements of sections 603 and 604 of title 5, United States Code (as added by section 3 of this Act) shall apply only to rules for which a notice of proposed rulemaking is issued on or after January 1, 1981.”
 
+#### Short Title of 1996 Amendment
+
+Section 1 of Pub. L. 104–121 provided that: “This Act \[enacting sections 801 to 808 of this title, section 657 of Title 15, Commerce and Trade, and sections 1320b–15 and 1383e of Title 42, The Public Health and Welfare, amending this section and sections 504, 603 to 605, 609, 611, and 612 of this title, sections 665e and 901 of Title 2, The Congress, section 648 of Title 15, section 2412 of Title 28, Judiciary and Judicial Procedure, section 3101 of Title 31, Money and Finance, and sections 401, 402, 403, 405, 422, 423, 425, 902, 903, 1382, 1382c, 1383, and 1383c of Title 42, enacting provisions set out as notes under this section and sections 504, 609, and 801 of this title and sections 401, 402, 403, 405, 902, 1305, 1320b–15, and 1382 of Title 42, amending provisions set out as a note under section 631 of Title 15, and repealing provisions set out as a note under section 425 of Title 42\] may be cited as the ‘Contract with America Advancement Act of 1996’.”
+
 #### Short Title
 
 Section 1 of Pub. L. 96–354 provided: “That this Act \[enacting this chapter\] may be cited as the ‘Regulatory Flexibility Act’.”
+
+#### Small Business Regulatory Fairness
+
+Sections 201 to 224 of title II of Pub. L. 104–121 provided that:
+
+#### “SEC. 201. SHORT TITLE.
+
+“This title \[enacting sections 801 to 808 of this title and section 657 of Title 15, Commerce and Trade, amending this section, sections 504, 603 to 605, 609, 611, and 612 of this title, section 648 of Title 15, and section 2412 of Title 28, Judiciary and Judicial Procedure, enacting provisions set out as notes under this section and sections 504, 609, and 801 of this title, and amending provisions set out as a note under section 631 of Title 15\] may be cited as the ‘Small Business Regulatory Enforcement Fairness Act of 1996’.
+
+#### “SEC. 202. FINDINGS.
+
+“Congress finds that—
+
+&emsp;“(1) a vibrant and growing small business sector is critical to creating jobs in a dynamic economy;
+
+&emsp;“(2) small businesses bear a disproportionate share of regulatory costs and burdens;
+
+&emsp;“(3) fundamental changes that are needed in the regulatory and enforcement culture of Federal agencies to make agencies more responsive to small business can be made without compromising the statutory missions of the agencies;
+
+&emsp;“(4) three of the top recommendations of the 1995 White House Conference on Small Business involve reforms to the way government regulations are developed and enforced, and reductions in government paperwork requirements;
+
+&emsp;“(5) the requirements of chapter 6 of title 5, United States Code, have too often been ignored by government agencies, resulting in greater regulatory burdens on small entities than necessitated by statute; and
+
+&emsp;“(6) small entities should be given the opportunity to seek judicial review of agency actions required by chapter 6 of title 5, United States Code.
+
+#### “SEC. 203. PURPOSES.
+
+“The purposes of this title are—
+
+&emsp;“(1) to implement certain recommendations of the 1995 White House Conference on Small Business regarding the development and enforcement of Federal regulations;
+
+&emsp;“(2) to provide for judicial review of chapter 6 of title 5, United States Code;
+
+&emsp;“(3) to encourage the effective participation of small businesses in the Federal regulatory process;
+
+&emsp;“(4) to simplify the language of Federal regulations affecting small businesses;
+
+&emsp;“(5) to develop more accessible sources of information on regulatory and reporting requirements for small businesses;
+
+&emsp;“(6) to create a more cooperative regulatory environment among agencies and small businesses that is less punitive and more solution-oriented; and
+
+&emsp;“(7) to make Federal regulators more accountable for their enforcement actions by providing small entities with a meaningful opportunity for redress of excessive enforcement activities.
+
+#### “subtitle a—regulatory compliance simplification
+
+#### “SEC. 211. DEFINITIONS.
+
+“For purposes of this subtitle—
+
+&emsp;“(1) the terms ‘rule’ and ‘small entity’ have the same meanings as in section 601 of title 5, United States Code;
+
+&emsp;“(2) the term ‘agency’ has the same meaning as in section 551 of title 5, United States Code; and
+
+&emsp;“(3) the term ‘small entity compliance guide’ means a document designated as such by an agency.
+
+#### “SEC. 212. COMPLIANCE GUIDES.
+
+“(a)
+
+Compliance Guide.—For each rule or group of related rules for which an agency is required to prepare a final regulatory flexibility analysis under section 604 of title 5, United States Code, the agency shall publish one or more guides to assist small entities in complying with the rule, and shall designate such publications as ‘small entity compliance guides’. The guides shall explain the actions a small entity is required to take to comply with a rule or group of rules. The agency shall, in its sole discretion, taking into account the subject matter of the rule and the language of relevant statutes, ensure that the guide is written using sufficiently plain language likely to be understood by affected small entities. Agencies may prepare separate guides covering groups or classes of similarly affected small entities, and may cooperate with associations of small entities to develop and distribute such guides.
+
+“(b)
+
+Comprehensive Source of Information.—Agencies shall cooperate to make available to small entities through comprehensive sources of information, the small entity compliance guides and all other available information on statutory and regulatory requirements affecting small entities.
+
+“(c)
+
+Limitation on Judicial Review.—An agency's small entity compliance guide shall not be subject to judicial review, except that in any civil or administrative action against a small entity for a violation occurring after the effective date of this section, the content of the small entity compliance guide may be considered as evidence of the reasonableness or appropriateness of any proposed fines, penalties or damages.
+
+#### “SEC. 213. INFORMAL SMALL ENTITY GUIDANCE.
+
+“(a)
+
+General.—Whenever appropriate in the interest of administering statutes and regulations within the jurisdiction of an agency which regulates small entities, it shall be the practice of the agency to answer inquiries by small entities concerning information on, and advice about, compliance with such statutes and regulations, interpreting and applying the law to specific sets of facts supplied by the small entity. In any civil or administrative action against a small entity, guidance given by an agency applying the law to facts provided by the small entity may be considered as evidence of the reasonableness or appropriateness of any proposed fines, penalties or damages sought against such small entity.
+
+“(b)
+
+Program.—Each agency regulating the activities of small entities shall establish a program for responding to such inquiries no later than 1 year after enactment of this section \[Mar. 29, 1996\], utilizing existing functions and personnel of the agency to the extent practicable.
+
+“(c)
+
+Reporting.—Each agency regulating the activities of small business shall report to the Committee on Small Business and Committee on Governmental Affairs of the Senate and the Committee on Small Business and Committee on the Judiciary of the House of Representatives no later than 2 years after the date of the enactment of this section on the scope of the agency's program, the number of small entities using the program, and the achievements of the program to assist small entity compliance with agency regulations.
+
+#### “SEC. 214. SERVICES OF SMALL BUSINESS DEVELOPMENT CENTERS.
+
+“(a) \[Amended section 648 of Title 15, Commerce and Trade.\]
+
+“(b) Nothing in this Act \[see Short Title of 1996 Amendment note, above\] in any way affects or limits the ability of other technical assistance or extension programs to perform or continue to perform services related to compliance assistance.
+
+#### “SEC. 215. COOPERATION ON GUIDANCE.
+
+“Agencies may, to the extent resources are available and where appropriate, in cooperation with the States, develop guides that fully integrate requirements of both Federal and State regulations where regulations within an agency's area of interest at the Federal and State levels impact small entities. Where regulations vary among the States, separate guides may be created for separate States in cooperation with State agencies.
+
+#### “SEC. 216. EFFECTIVE DATE.
+
+“This subtitle and the amendments made by this subtitle shall take effect on the expiration of 90 days after the date of enactment of this subtitle \[Mar. 29, 1996\].
+
+#### “subtitle b—regulatory enforcement reforms
+
+#### “SEC. 221. DEFINITIONS.
+
+“For purposes of this subtitle—
+
+&emsp;“(1) the terms ‘rule’ and ‘small entity’ have the same meanings as in section 601 of title 5, United States Code;
+
+&emsp;“(2) the term ‘agency’ has the same meaning as in section 551 of title 5, United States Code; and
+
+&emsp;“(3) the term ‘small entity compliance guide’ means a document designated as such by an agency.
+
+#### “SEC. 222. SMALL BUSINESS AND AGRICULTURE ENFORCEMENT OMBUDSMAN.
+
+“\[Enacted section 657 of Title 15, Commerce and Trade.\]
+
+#### “SEC. 223. RIGHTS OF SMALL ENTITIES IN ENFORCEMENT ACTIONS.
+
+“(a)
+
+In General.—Each agency regulating the activities of small entities shall establish a policy or program within 1 year of enactment of this section \[Mar. 29, 1996\] to provide for the reduction, and under appropriate circumstances for the waiver, of civil penalties for violations of a statutory or regulatory requirement by a small entity. Under appropriate circumstances, an agency may consider ability to pay in determining penalty assessments on small entities.
+
+“(b)
+
+Conditions and Exclusions.—Subject to the requirements or limitations of other statutes, policies or programs established under this section shall contain conditions or exclusions which may include, but shall not be limited to—
+
+&emsp;“(1) requiring the small entity to correct the violation within a reasonable correction period;
+
+&emsp;“(2) limiting the applicability to violations discovered through participation by the small entity in a compliance assistance or audit program operated or supported by the agency or a State;
+
+&emsp;“(3) excluding small entities that have been subject to multiple enforcement actions by the agency;
+
+&emsp;“(4) excluding violations involving willful or criminal conduct;
+
+&emsp;“(5) excluding violations that pose serious health, safety or environmental threats; and
+
+&emsp;“(6) requiring a good faith effort to comply with the law.
+
+“(c)
+
+Reporting.—Agencies shall report to the Committee on Small Business and Committee on Governmental Affairs of the Senate and the Committee on Small Business and Committee on Judiciary of the House of Representatives no later than 2 years after the date of enactment of this section \[Mar. 29, 1996\] on the scope of their program or policy, the number of enforcement actions against small entities that qualified or failed to qualify for the program or policy, and the total amount of penalty reductions and waivers.
+
+#### “SEC. 224. EFFECTIVE DATE.
+
+“This subtitle and the amendments made by this subtitle shall take effect on the expiration of 90 days after the date of enactment of this subtitle \[Mar. 29, 1996\].”
 
 #### Effects of Deregulation On Rural America
 
@@ -158,7 +326,7 @@ Sec. 3. <i>Federalism Policymaking Criteria</i>. In addition to the fundamental 
 
 (b) Federal action limiting the policymaking discretion of the States should be taken only where constitutional authority for the action is clear and certain and the national activity is necessitated by the presence of a problem of national scope. For the purposes of this Order:
 
-(1) It is important to recognize the distinction between problems of national scope (which may justifyFederal action) and problems that are merely common to the States (which will not justify Federal action because individual States, acting individually or together, can effectively deal with them).
+(1) It is important to recognize the distinction between problems of national scope (which may justify Federal action) and problems that are merely common to the States (which will not justify Federal action because individual States, acting individually or together, can effectively deal with them).
 
 (2) Constitutional authority for Federal action is clear and certain only when authority for the action may be found in a specific provision of the Constitution, there is no provision in the Constitution prohibiting Federal action, and the action does not encroach upon authority reserved to the States.
 
@@ -204,7 +372,7 @@ Sec. 6. <i>Agency Implementation</i>. (a) The head of each Executive department 
 
 (4) Identify the extent to which the policy would affect the States’ ability to discharge traditional State governmental functions, or other aspects of State sovereignty.
 
-Sec. 7. <i>Government-wide Federalism Coordination and Review</i>. (a) In implementing Executive Order Nos. 12291 \[formerly set out above\] and 12498 \[formerly set out above\] and OMB Circular No. A–19, the Office of Management and Budget, to the extent permitted by law and consistent with the provisions of those authorities, shall take action to ensure that the policies of the Executive departments and agencies are consistent with the principles, criteria, and requirements stated in sections 2 through 5 of this Order.
+Sec. 7. <i>Government-wide Federalism Coordination and Review</i>. (a) In implementing Executive Order Nos. 12291 \[formerly set out above\] and 12498 \[formerly set out above\] and OMB Circular No. A–19, the Office of Management and Budget, to the extent permitted by law and consistent with the provisions of those authorities,shall take action to ensure that the policies of the Executive departments and agencies are consistent with the principles, criteria, and requirements stated in sections 2 through 5 of this Order.
 
 (b) In submissions to the Office of Management and Budget pursuant to Executive Order No. 12291 \[formerly set out above\] and OMB Circular No. A–19, Executive departments and agencies shall identify proposed regulatory and statutory provisions that have significant federalism implications and shall address any substantial federalism concerns. Where the departments or agencies deem it appropriate, substantial federalism concerns should also be addressed in notices of proposed rule-making and messages transmitting legislative proposals to the Congress.
 
@@ -260,7 +428,7 @@ Sec. 2. <i>Definitions</i>. For the purpose of this Order: (a) “Policies that 
 
 Sec. 3. <i>General Principles</i>. In formulating or implementing policies that have takings implications, each Executive department and agency shall be guided by the following general principles:
 
-(a) Governmental officials should be sensitive to, anticipate, and account for, the obligations imposed by the Just Compensation Clause of the Fifth Amendment in planning and carrying out governmental actions so that they do not result in the imposition of unanticipated or undue additional burdens on the public fisc.
+(a) Governmental officials should be sensitive to, anticipate, and account for, the obligations imposed bythe Just Compensation Clause of the Fifth Amendment in planning and carrying out governmental actions so that they do not result in the imposition of unanticipated or undue additional burdens on the public fisc.
 
 (b) Actions undertaken by governmental officials that result in a physical invasion or occupancy of private property, and regulations imposed on private property that substantially affect its value or use, may constitute a taking of property. Further, governmental action may amount to a taking even though the action results in less than a complete deprivation of all use or value, or of all separate and distinct interests in the same private property and even if the action constituting a taking is temporary in nature.
 
@@ -268,7 +436,7 @@ Sec. 3. <i>General Principles</i>. In formulating or implementing policies that 
 
 (d) While normal governmental processes do not ordinarily effect takings, undue delays in decision-making during which private property use if interfered with carry a risk of being held to be takings. Additionally, a delay in processing may increase significantly the size of compensation due if a taking is later found to have occurred.
 
-(e) The Just Compensation Clause is self-actuating, requiring that compensation be paid whenever governmental action results in a taking of private property regardless of whether the underlying authority for theaction contemplated a taking or authorized the payment of compensation. Accordingly, governmental actions that may have a significant impact on the use or value of private property should be scrutinized to avoid undue or unplanned burdens on the public fisc.
+(e) The Just Compensation Clause is self-actuating, requiring that compensation be paid whenever governmental action results in a taking of private property regardless of whether the underlying authority for the action contemplated a taking or authorized the payment of compensation. Accordingly, governmental actions that may have a significant impact on the use or value of private property should be scrutinized to avoid undue or unplanned burdens on the public fisc.
 
 Sec. 4. <i>Department and Agency Action</i>. In addition to the fundamental principles set forth in Section 3, Executive departments and agencies shall adhere, to the extent permitted by law, to the following criteria when implementing policies that have takings implications:
 
@@ -314,7 +482,7 @@ Ronald Reagan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Ex. Ord. No. 12861, Sept. 11, 1993, 58 F.R. 48255, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 301 of title 3, United States Code, and section 1111 of title 31, United States Code, and to cut 50 percent of the executive branch's internal regulations in order to streamline and improve customer service to the American people, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 301 of title 3, United StatesCode, and section 1111 of title 31, United States Code, and to cut 50 percent of the executive branch's internal regulations in order to streamline and improve customer service to the American people, it is hereby ordered as follows:
 
 Section 1. <i>Regulatory Reductions</i>. Each executive department and agency shall undertake to eliminate not less than 50 percent of its civilian internal management regulations that are not required by law within 3 years of the effective date of this order. An agency internal management regulation, for the purposes of this order, means an agency directive or regulation that pertains to its organization, management, or personnel matters. Reductions in agency internal management regulations shall be concentrated in areas that will result in the greatest improvement in productivity, streamlining of operations, and improvement in customer service.
 
@@ -330,7 +498,7 @@ William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Ex. Ord. No. 12866, Sept. 30, 1993, 58 F.R. 51735, provided:
 
-The American people deserve a regulatory system that works for them, not against them: a regulatory system that protects and improves their health, safety, environment, and well-being and improves the performance of the economy without imposing unacceptable or unreasonable costs on society; regulatory policies thatrecognize that the private sector and private markets are the best engine for economic growth; regulatory approaches that respect the role of State, local, and tribal governments; and regulations that are effective, consistent, sensible, and understandable. We do not have such a regulatory system today.
+The American people deserve a regulatory system that works for them, not against them: a regulatory system that protects and improves their health, safety, environment, and well-being and improves the performance of the economy without imposing unacceptable or unreasonable costs on society; regulatory policies that recognize that the private sector and private markets are the best engine for economic growth; regulatory approaches that respect the role of State, local, and tribal governments; and regulations that are effective, consistent, sensible, and understandable. We do not have such a regulatory system today.
 
 With this Executive order, the Federal Government begins a program to reform and make more efficient the regulatory process. The objectives of this Executive order are to enhance planning and coordination with respect to both new and existing regulations; to reaffirm the primacy of Federal agencies in the regulatory decision-making process; to restore the integrity and legitimacy of regulatory review and oversight; and to make the process more accessible and open to the public. In pursuing these objectives, the regulatory process shall be conducted so as to meet applicable statutory requirements and with due regard to the discretion that has been entrusted to the Federal agencies.
 
@@ -364,7 +532,7 @@ Section 1. <i>Statement of Regulatory Philosophy and Principles.</i>
 
 (11) Each agency shall tailor its regulations to impose the least burden on society, including individuals, businesses of differing sizes, and other entities (including small communities and governmental entities), consistent with obtaining the regulatory objectives, taking into account, among other things, and to the extent practicable, the costs of cumulative regulations.
 
-(12) Each agency shall draft its regulations to be simple and easy to understand, with the goal of minimizing the potential for uncertainty and litigation arising from such uncertainty.
+(12) Each agency shall draft its regulations to be simple and easy to understand, with the goal of minimizingthe potential for uncertainty and litigation arising from such uncertainty.
 
 Sec. 2. <i>Organization</i>. An efficient regulatory planning and review process is vital to ensure that the Federal Government's regulatory system best serves the American people.
 
@@ -372,7 +540,7 @@ Sec. 2. <i>Organization</i>. An efficient regulatory planning and review process
 
 (b) <i>The Office of Management and Budget</i>. Coordinated review of agency rulemaking is necessary to ensure that regulations are consistent with applicable law, the President's priorities, and the principles set forth in this Executive order, and that decisions made by one agency do not conflict with the policies or actions taken or planned by another agency. The Office of Management and Budget (OMB) shall carry out that review function. Within OMB, the Office of Information and Regulatory Affairs (OIRA) is the repository of expertise concerning regulatory issues, including methodologies and procedures that affect more than one agency, this Executive order, and the President's regulatory policies. To the extent permitted by law, OMB shall provide guidance to agencies and assist the President, the Vice President, and other regulatory policy advisors to the President in regulatory planning and shall be the entity that reviews individual regulations, as provided by this Executive order.
 
-(c) <i>The Vice President</i>. The Vice President is the principal advisor to the President on, and shall coordinate the development and presentation of recommendations concerning, regulatory policy, planning, and review, as set forth in this Executive order. In fulfilling their responsibilities under this Executive order, the President and the Vice President shall be assisted by the regulatory policy advisors within the Executive Office ofthe President and by such agency officials and personnel as the President and the Vice President may, from time to time, consult.
+(c) <i>The Vice President</i>. The Vice President is the principal advisor to the President on, and shall coordinate the development and presentation of recommendations concerning, regulatory policy, planning, and review, as set forth in this Executive order. In fulfilling their responsibilities under this Executive order, the President and the Vice President shall be assisted by the regulatory policy advisors within the Executive Office of the President and by such agency officials and personnel as the President and the Vice President may, from time to time, consult.
 
 Sec. 3. <i>Definitions</i>. For purposes of this Executive order:
 
@@ -408,7 +576,7 @@ Sec. 4. <i>Planning Mechanism</i>. In order to have an effective regulatory prog
 
 (a) <i>Agencies’ Policy Meeting</i>. Early in each year's planning cycle, the Vice President shall convene a meeting of the Advisors and the heads of agencies to seek a common understanding of priorities and to coordinate regulatory efforts to be accomplished in the upcoming year.
 
-(b) <i>Unified Regulatory Agenda</i>. For purposes of this subsection, the term “agency” or “agencies” shall also include those considered to be independent regulatory agencies, as defined in 44 U.S.C. 3502(10). Each agency shall prepare an agenda of all regulations under development or review, at a time and in a manner specified by the Administrator of OIRA. The description of each regulatory action shall contain, at a minimum, a regulation identifier number, a brief summary of the action, the legal authority for the action, any legal deadline for the action, and the name and telephone number of a knowledgeable agency official. Agencies may incorporate the information required under 5 U.S.C. 602 and 41 U.S.C. 402 into these agendas.
+(b) <i>Unified Regulatory Agenda</i>. For purposes of this subsection, the term “agency” or “agencies” shall also include those considered to be independent regulatory agencies, as defined in 44 U.S.C. 3502(10). Each agency shall prepare an agenda of all regulations under development or review, at a time and in a manner specified by the Administrator of OIRA. The description of each regulatory action shall contain, at a minimum, a regulation identifier number, a brief summary of the action, the legal authority for the action, any legal deadline for the action, and the name and telephone number of a knowledgeable agency official. Agencies may incorporate the information required under 5 U.S.C. 602 and \[former\] 41 U.S.C. 402 into these agendas.
 
 (c) <i>The Regulatory Plan</i>. For purposes of this subsection, the term “agency” or “agencies” shall also include those considered to be independent regulatory agencies, as defined in 44 U.S.C. 3502(10). (1) As part of the Unified Regulatory Agenda, beginning in 1994, each agency shall prepare a Regulatory Plan (Plan) of the most important significant regulatory actions that the agency reasonably expects to issue in proposed or final form in that fiscal year or thereafter. The Plan shall be approved personally by the agency head and shall contain at a minimum:
 
@@ -434,7 +602,7 @@ Sec. 4. <i>Planning Mechanism</i>. In order to have an effective regulatory prog
 
 (6) The Vice President, with the Advisors’ assistance, may consult with the heads of agencies with respect to their Plans and, in appropriate instances, request further consideration or inter-agency coordination.
 
-(7) The Plans developed by the issuing agency shall be published annually in the October publication of the Unified Regulatory Agenda. This publication shall be made available to the Congress; State, local, and tribal governments; and the public. Any views on any aspectof any agency Plan, including whether any planned regulatory action might conflict with any other planned or existing regulation, impose any unintended consequences on the public, or confer any unclaimed benefits on the public, should be directed to the issuing agency, with a copy to OIRA.
+(7) The Plans developed by the issuing agency shall be published annually in the October publication of the Unified Regulatory Agenda. This publication shall be made available to the Congress; State, local, and tribal governments; and the public. Any views on any aspect of any agency Plan, including whether any planned regulatory action might conflict with any other planned or existing regulation, impose any unintended consequences on the public, or confer any unclaimed benefits on the public, should be directed to the issuing agency, with a copy to OIRA.
 
 (d) <i>Regulatory Working Group</i>. Within 30 days of the date of this Executive order, the Administrator of OIRA shall convene a Regulatory Working Group (“Working Group”), which shall consist of representatives of the heads of each agency that the Administrator determines to have significant domestic regulatory responsibility, the Advisors, and the Vice President. The Administrator of OIRA shall chair the Working Group and shall periodically advise the Vice President on the activities of the Working Group. The Working Group shall serve as a forum to assist agencies in identifying and analyzing important regulatory issues (including, among others (1) the development of innovative regulatory techniques, (2) the methods, efficacy, and utility of comparative risk assessment in regulatory decision-making, and (3) the development of short forms and other streamlined regulatory approaches for small businesses and other entities). The Working Group shall meet at least quarterly and may meet as a whole or in subgroups of agencies with an interest in particular issues or subject areas. To inform its discussions, the Working Group may commission analytical studies and reports by OIRA, the Administrative Conference of the United States, or any other agency.
 
@@ -520,7 +688,7 @@ Sec. 6. <i>Centralized Review of Regulations</i>. The guidelines set forth below
 
 Sec. 7. <i>Resolution of Conflicts</i>. To the extent permitted by law, disagreements or conflicts between or among agency heads or between OMB and any agency that cannot be resolved by the Administrator of OIRA shall be resolved by the President, or by the Vice President acting at the request of the President, with the relevant agency head (and, as appropriate, other interested government officials). Vice Presidential and Presidential consideration of such disagreements may be initiated only by the Director, by the head of the issuing agency, or by the head of an agency that has a significant interest in the regulatory action at issue. Such review will not be undertaken at the request of other persons, entities, or their agents.
 
-Resolution of such conflicts shall be informed by recommendations developed by the Vice President, afterconsultation with the Advisors (and other executive branch officials or personnel whose responsibilities to the President include the subject matter at issue). The development of these recommendations shall be concluded within 60 days after review has been requested.
+Resolution of such conflicts shall be informed by recommendations developed by the Vice President, after consultation with the Advisors (and other executive branch officials or personnel whose responsibilities to the President include the subject matter at issue). The development of these recommendations shall be concluded within 60 days after review has been requested.
 
 During the Vice Presidential and Presidential review period, communications with any person not employed by the Federal Government relating to the substance of the regulatory action under review and directed to the Advisors or their staffs or to the staff of the Vice President shall be in writing and shall be forwarded by the recipient to the affected agency(ies) for inclusion in the public docket(s). When the communication is not in writing, such Advisors or staff members shall inform the outside party that the matter is under review and that any comments should be submitted in writing.
 
@@ -568,7 +736,7 @@ Sec. 5. <i>Scope</i>. (a) Executive agency means any authority of the United Sta
 
 (b) Independent agencies are requested to comply with the provisions of this order.
 
-Sec. 6. <i>Judicial Review</i>. This order is intended only to improve the internal management of the executivebranch and is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or equity by a party against the United States, its agencies or instrumentalities, its officers or employees, or any other person.
+Sec. 6. <i>Judicial Review</i>. This order is intended only to improve the internal management of the executive branch and is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or equity by a party against the United States, its agencies or instrumentalities, its officers or employees, or any other person.
 
 Sec. 7. <i>Effective Date</i>. This order shall be effective 90 days after the date of this order.
 
@@ -658,5 +826,5 @@ William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 2 section 658; title 44 section 3506.
+This section is referred to in sections 504, 611 of this title; title 2 section 658; title 28 section 2412; title 44 section 3506.
 

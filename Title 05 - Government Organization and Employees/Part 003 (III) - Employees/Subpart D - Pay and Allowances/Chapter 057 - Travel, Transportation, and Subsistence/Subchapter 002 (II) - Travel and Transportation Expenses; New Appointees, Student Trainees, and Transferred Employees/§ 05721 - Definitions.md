@@ -40,7 +40,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-<b>1982</b>—Par. (5). Pub. L. 97–258 substituted “section 9104” for “section 849”.
+1982—Par. (5). Pub. L. 97–258 substituted “section 9104” for “section 849”.
 
 #### Cross References
 

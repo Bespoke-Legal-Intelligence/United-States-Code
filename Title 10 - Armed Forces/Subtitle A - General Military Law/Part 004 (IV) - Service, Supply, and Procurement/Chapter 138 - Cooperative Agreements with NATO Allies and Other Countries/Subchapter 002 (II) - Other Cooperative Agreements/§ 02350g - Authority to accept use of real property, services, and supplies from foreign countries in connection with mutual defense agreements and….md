@@ -34,5 +34,5 @@ Provisions similar to those in this section were contained in Pub. L. 101–165,
 
 #### Amendments
 
-1993—Subsec. (d). Pub. L. 103–160 substituted “Periodic Audits” for “Annual Audit” in heading and amended text generally. Prior to amendment, text read as follows: “The Comptroller General of the UnitedStates shall conduct an annual audit of property, services, and supplies accepted by the Secretary of Defense under this section and shall submit a copy of the results of each such audit to Congress.”
+1993—Subsec. (d). Pub. L. 103–160 substituted “Periodic Audits” for “Annual Audit” in heading and amended text generally. Prior to amendment, text read as follows: “The Comptroller General of the United States shall conduct an annual audit of property, services, and supplies accepted by the Secretary of Defense under this section and shall submit a copy of the results of each such audit to Congress.”
 

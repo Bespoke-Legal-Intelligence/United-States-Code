@@ -6,9 +6,9 @@ Upon request of the Secretary of the Interior—
 
 &emsp;(b) the Secretary of Agriculture may extend to American Samoa the benefits of the National School Lunch Act, as amended \[42 U.S.C. 1751 et seq.\]; and
 
-&emsp;(c) the Secretary of Health, Education, and Welfare may extend to American Samoa the benefits of the Vocational Education Act of 1946, the Library Services Act \[20 U.S.C. 351 et seq.\], the Hospital Survey and Construction Act \[42 U.S.C. 291 et seq.\], and section 246 of title 42, all as amended.
+&emsp;(c) the Secretary of Health, Education, and Welfare may extend to American Samoa the benefits of the Vocational Education Act of 1946, the Hospital Survey and Construction Act \[42 U.S.C. 291 et seq.\], and section 246 of title 42, all as amended.
 
-(Pub. L. 87–688, §1, Sept. 25, 1962, 76 Stat. 586.)
+(Pub. L. 87–688, §1, Sept. 25, 1962, 76 Stat. 586; Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §709(a)(7)\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–312.)
 
 #### References in Text
 
@@ -18,7 +18,9 @@ The Vocational Education Act of 1946, referred to in subsec. (c), is act June 8,
 
 The Hospital Survey and Construction Act, referred to in subsec. (c), is act Aug. 13, 1946, ch. 958, 60 Stat. 1041, as amended, which added a title VI to the Public Health Service Act, and was classified to subchapter IV (§291 et seq.) of chapter 6A of Title 42, The Public Health and Welfare. Such title VI was amended generally by Pub. L. 88–443, §3(a) Aug. 18, 1964, 78 Stat. 447. For complete classification of this Act to the Code, see Tables.
 
-The Library Services Act, referred to in subsec. (c), is act June 19, 1956, ch. 407, 70 Stat. 293, as amended, which was redesignated the Library Services and Construction Act, and which is classified generally to chapter 16 (§351 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 351 of Title 20 and Tables.
+#### Amendments
+
+1996—Subsec. (c). Pub. L. 104–208 struck out “the Library Services Act,” after “the Vocational Education Act of 1946,”.
 
 #### Transfer of Functions
 

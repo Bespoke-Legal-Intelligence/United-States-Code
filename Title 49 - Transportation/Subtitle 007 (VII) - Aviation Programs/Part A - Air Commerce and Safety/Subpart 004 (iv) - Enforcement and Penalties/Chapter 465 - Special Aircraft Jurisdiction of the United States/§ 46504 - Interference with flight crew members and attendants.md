@@ -6,7 +6,9 @@ An individual on an aircraft in the special aircraft jurisdiction of the United 
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

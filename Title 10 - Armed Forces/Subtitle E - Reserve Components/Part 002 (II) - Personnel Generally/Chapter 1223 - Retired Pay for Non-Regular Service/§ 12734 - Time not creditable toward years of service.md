@@ -4,7 +4,7 @@
 
 (b) Time spent after retirement (without pay) for failure to conform to standards and qualifications prescribed under section 12641 of this title may not be credited in a computation of years of service under this chapter.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 104, §1334; Sept. 7, 1962, Pub. L. 87–651, title I, §108, 76 Stat. 509;renumbered §12734 and amended Oct. 5, 1994, Pub. L. 103–337, div. A, title XVI, §1662(j)(1), 108 Stat. 2998, 3003.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 104, §1334; Sept. 7, 1962, Pub. L. 87–651, title I, §108, 76 Stat. 509; renumbered §12734 and amended Oct. 5, 1994, Pub. L. 103–337, div. A, title XVI, §1662(j)(1), 108 Stat. 2998, 3003.)
 
 Historical and Revision Notes<br>1956
 

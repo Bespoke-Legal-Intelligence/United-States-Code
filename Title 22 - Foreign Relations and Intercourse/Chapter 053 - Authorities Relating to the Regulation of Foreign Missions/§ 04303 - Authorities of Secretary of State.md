@@ -24,7 +24,7 @@ This chapter, referred to in pars. (3) and (4), was in the original “this Act�
 
 #### Amendments
 
-1994—Pub. L. 103–236 amended section generally. Prior to amendment, section required Secretary of State to establish Office of Foreign Missions in Department of State, provided for Director and Deputy Director of Office, and specified their powers and duties.
+1994—Pub. L. 103–236 amended section generally. Prior to amendment, section required Secretary of State toestablish Office of Foreign Missions in Department of State, provided for Director and Deputy Director of Office, and specified their powers and duties.
 
 1990—Subsec. (c)(3), (4). Pub. L. 101–246 added par. (3) and redesignated former par. (3) as (4).
 

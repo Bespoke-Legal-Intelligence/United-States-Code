@@ -9,8 +9,8 @@
 | [305\.](%C2%A7%2000305%20-%20Federal%20recognition%20of%20commissioned%20officers%20persons%20eligible.md) | Federal recognition of commissioned officers: persons eligible. |
 | [307\.](%C2%A7%2000307%20-%20Federal%20recognition%20of%20officers%20examination%3B%20certificate%20of%20eligibility.md) | Federal recognition of officers: examination; certificate of eligibility. |
 | [308\.](%C2%A7%2000308%20-%20Federal%20recognition%20of%20officers%20temporary%20recognition.md) | Federal recognition of officers: temporary recognition. |
-| [309\.](%C2%A7%2000309%20-%20Federal%20recognition%20of%20officers%20Army%20National%20Guard%3B%20officers%20promoted%20to%20fill%20vacancies.md) | Federal recognition of officers: Army National Guard; officers promoted to fill vacancies. |
-| [310\.](%C2%A7%2000310%20-%20Federal%20recognition%20of%20officers%20Army%20National%20Guard%3B%20automatic%20recognition.md) | Federal recognition of officers: Army National Guard; automatic recognition. |
+| [309\.](%C2%A7%2000309%20-%20Federal%20recognition%20of%20National%20Guard%20officers%20officers%20promoted%20to%20fill%20vacancies.md) | Federal recognition of National Guard officers: officers promoted to fill vacancies. |
+| [310\.](%C2%A7%2000310%20-%20Federal%20recognition%20of%20National%20Guard%20officers%20automatic%20recognition.md) | Federal recognition of National Guard officers: automatic recognition. |
 | [312\.](%C2%A7%2000312%20-%20Appointment%20oath.md) | Appointment oath. |
 | [313\.](%C2%A7%2000313%20-%20Appointments%20and%20enlistments%20age%20limitations.md) | Appointments and enlistments: age limitations. |
 | [314\.](%C2%A7%2000314%20-%20Adjutants%20general.md) | Adjutants general. |
@@ -30,13 +30,13 @@
 | [331\.](%C2%A7%2000331%20-%20Dismissal%20or%20dishonorable%20discharge.md) | Dismissal or dishonorable discharge. |
 | [332\.](%C2%A7%2000332%20-%20Compelling%20attendance%20of%20accused%20and%20witnesses.md) | Compelling attendance of accused and witnesses. |
 | [333\.](%C2%A7%2000333%20-%20Execution%20of%20process%20and%20sentence.md) | Execution of process and sentence. |
-| \[334, 335. Repealed.\] |  |
+| \[334, 335. | Repealed.\] |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
 
-1994—Pub. L. 103–337, div. A, title XVI, §1676(a)(4), Oct. 5, 1994, 108 Stat. 3019, substituted “National Guard officers:” for “officers: Army National Guard;” in items 309 and 310. Section 1691(b)(1) of Pub. L. 103–337 provided that the amendments to sections 309 and 310 are effective Oct. 1, 1996.
+1994—Pub. L. 103–337, div. A, title XVI, §1676(a)(4), Oct. 5, 1994, 108 Stat. 3019, substituted “National Guard officers:” for “officers: Army National Guard;” in items 309 and 310.
 
 1986—Pub. L. 99–661, div. A, title VI, §604(f)(2)(B), Nov. 14, 1986, 100 Stat. 3878, struck out item 318 “Compensation for disablement during training”, item 319 “Compensation for disablement during training when not covered by section 318 of this title”, item 320 “Hospitalization: when Secretary may require”, and item 321 “Death gratuity”.
 
@@ -78,8 +78,6 @@ Status when not in Federal service, see sections 10107 and 10113 of Title 10.
 
 Uniform, when wearing by persons not on active duty authorized, see section 772 of Title 10.
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
-
 
 ---
 
@@ -92,8 +90,8 @@ Uniform, when wearing by persons not on active duty authorized, see section 772 
 - [&sect; 00305 - Federal recognition of commissioned officers persons eligible](%C2%A7%2000305%20-%20Federal%20recognition%20of%20commissioned%20officers%20persons%20eligible.md)
 - [&sect; 00307 - Federal recognition of officers examination; certificate of eligibility](%C2%A7%2000307%20-%20Federal%20recognition%20of%20officers%20examination%3B%20certificate%20of%20eligibility.md)
 - [&sect; 00308 - Federal recognition of officers temporary recognition](%C2%A7%2000308%20-%20Federal%20recognition%20of%20officers%20temporary%20recognition.md)
-- [&sect; 00309 - Federal recognition of officers Army National Guard; officers promoted to fill vacancies](%C2%A7%2000309%20-%20Federal%20recognition%20of%20officers%20Army%20National%20Guard%3B%20officers%20promoted%20to%20fill%20vacancies.md)
-- [&sect; 00310 - Federal recognition of officers Army National Guard; automatic recognition](%C2%A7%2000310%20-%20Federal%20recognition%20of%20officers%20Army%20National%20Guard%3B%20automatic%20recognition.md)
+- [&sect; 00309 - Federal recognition of National Guard officers officers promoted to fill vacancies](%C2%A7%2000309%20-%20Federal%20recognition%20of%20National%20Guard%20officers%20officers%20promoted%20to%20fill%20vacancies.md)
+- [&sect; 00310 - Federal recognition of National Guard officers automatic recognition](%C2%A7%2000310%20-%20Federal%20recognition%20of%20National%20Guard%20officers%20automatic%20recognition.md)
 - [&sect; 00312 - Appointment oath](%C2%A7%2000312%20-%20Appointment%20oath.md)
 - [&sect; 00313 - Appointments and enlistments age limitations](%C2%A7%2000313%20-%20Appointments%20and%20enlistments%20age%20limitations.md)
 - [&sect; 00314 - Adjutants general](%C2%A7%2000314%20-%20Adjutants%20general.md)

@@ -96,7 +96,7 @@ For the purposes of this chapter—
 
 &emsp;&emsp;&emsp;(v) in accordance with the wishes of the older individual, advocacy on behalf of the older individual for needed services or resources.
 
-&emsp;(23) The term “dance-movement therapy” means the use of psychotherapeutic movementas a process facilitated by a dance-movement therapist, to further the emotional, cognitive, or physical health of an older individual.
+&emsp;(23) The term “dance-movement therapy” means the use of psychotherapeutic movement as a process facilitated by a dance-movement therapist, to further the emotional, cognitive, or physical health of an older individual.
 
 &emsp;(24) The term “elder abuse” means abuse of an older individual.
 

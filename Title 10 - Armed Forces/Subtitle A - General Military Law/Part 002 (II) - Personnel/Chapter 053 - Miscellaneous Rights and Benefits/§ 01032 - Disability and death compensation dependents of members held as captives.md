@@ -36,7 +36,7 @@ Subsec. (d)(1), (2). Pub. L. 100–26, §3(8), amended directory language of Pub
 
 #### Effective Date of 1987 Amendment
 
-Amendment by section 3(8) of Pub. L. 100–26 applicable as if included in Pub. L. 99–661 when enacted onNov. 14, 1986, see section 12(a) of Pub. L. 100–26, set out as a note under section 776 of this title.
+Amendment by section 3(8) of Pub. L. 100–26 applicable as if included in Pub. L. 99–661 when enacted on Nov. 14, 1986, see section 12(a) of Pub. L. 100–26, set out as a note under section 776 of this title.
 
 #### Effective Date
 

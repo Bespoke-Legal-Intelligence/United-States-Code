@@ -54,7 +54,7 @@ Cooperative plans agreed to under the authority of this section and section 670b
 
 #### Codification
 
-“Chapter 63 of title 31” substituted in subsec. (e) for “the Federal Grant and Cooperative Agreement Act of1977 (41 U.S.C. 501 et seq.)” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+“Chapter 63 of title 31” substituted in subsec. (e) for “the Federal Grant and Cooperative Agreement Act of 1977 (41 U.S.C. 501 et seq.)” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 #### Amendments
 
@@ -76,7 +76,7 @@ Pub. L. 86–797, Sept. 15, 1960, 74 Stat. 1052, as amended, which is classified
 
 #### Applicability of 1986 Amendments to Existing Contracts
 
-Section 3(a)(2) of Pub. L. 99–561 provided that: “Subsection (d)(1) of such section 101 (as added by paragraph (1) \[16 U.S.C. 670a(d)(1)\]) shall not affect any contract entered into before the date of the enactment of this Act \[October 27, 1986\] for the provision of services to implement or enforce a cooperative plan under this Act \[enacting section 670a–1 of this title and amending this section and sections 670f and 670<i>o</i> of this title and section 2665 of Title 10, Armed Forces\] on any military installation; but shall apply to the renewal, after such date of enactment, of any such contract.”
+Section 3(a)(2) of Pub. L. 99–561 provided that: “Subsection (d)(1) of such section 101 (as added by paragraph (1) \[16 U.S.C. 670a(d)(1)\]) shall not affect any contract entered into before the date of the enactment of this Act \[October 27, 1986\] for the provision of services to implement or enforce a cooperative plan under this Act \[enacting section 670a–1 of this title and amending thissection and sections 670f and 670<i>o</i> of this title and section 2665 of Title 10, Armed Forces\] on any military installation; but shall apply to the renewal, after such date of enactment, of any such contract.”
 
 #### Section Referred to in Other Sections
 

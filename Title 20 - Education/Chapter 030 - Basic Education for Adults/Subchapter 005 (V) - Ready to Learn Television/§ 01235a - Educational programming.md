@@ -24,7 +24,7 @@ Programming developed under this section shall reflect the recognition of divers
 
 #### References in Text
 
-The Star Schools Assistance Act, referred to in subsec. (a)(2), probably means the Star Schools Program Assistance Act, title IX of Pub. L. 98–377, as added by Pub. L. 100–297, title II, §2302, Apr. 28, 1988, 102 Stat. 320, which was classified generally to subchapter IX (§4081 et seq.) of chapter 52 of this title prior to repeal by Pub. L. 103–382, title III, §364, Oct. 20, 1994, 108 Stat. 3975. See section 6891 et seq. of this title.
+The Star Schools Assistance Act, referred to in subsec. (a)(2), probably means the Star Schools Program Assistance Act, title IX of Pub. L. 98–377, as added by Pub. L. 100–297, title II, §2302, Apr. 28, 1988, 102 Stat. 320, which was classified generally to subchapter IX (§4081 et seq.) of chapter 52 of this title prior to repeal by Pub.L. 103–382, title III, §364, Oct. 20, 1994, 108 Stat. 3975. See section 6891 et seq. of this title.
 
 #### Codification
 

@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) each vaccine-eligible child (as defined in subsection (b) of this section), in receiving an immunization with a qualified pediatric vaccine (as defined in subsection (h)(8) of this section) from a program-registered provider (as defined in subsection (c) of this section) on or after October 1, 1994, is entitled to receive the immunization without charge for the cost of such vaccine; and
 
-&emsp;&emsp;(B)(i) each program-registered provider who administers such a pediatric vaccine to a vaccine-eligible child on or after such date is entitled to receive such vaccine under the program without charge either for the vaccine or its delivery to the provider, and (ii)no vaccine is distributed under the program to a provider unless the provider is a program-registered provider.
+&emsp;&emsp;(B)(i) each program-registered provider who administers such a pediatric vaccine to a vaccine-eligible child on or after such date is entitled to receive such vaccine under the program without charge either for the vaccine or its delivery to the provider, and (ii) no vaccine is distributed under the program to a provider unless the provider is a program-registered provider.
 
 #### (2) Delivery of sufficient quantities of pediatric vaccines to immunize federally vaccine-eligible children
 
@@ -116,7 +116,7 @@ For purposes of this section:
 
 #### (1) In general
 
-&emsp;For the purpose of meeting obligations under this section, the Secretary shall negotiate and enter into contracts with manufacturers of pediatric vaccines consistent with the requirements of this subsection and, to the maximum extent practicable, consolidate such contracting with any other contracting activities conducted by the Secretary to purchase vaccines. The Secretary may enter into such contracts under which the Federal Government is obligated to make outlays, the budget authority for which is not provided for in advance in appropriations Acts, for the purchase and delivery of pediatric vaccines under subsection (a)(2)(A) of this section.
+&emsp;For the purpose of meeting obligations under this section, the Secretary shall negotiate and enter into contracts with manufacturers of pediatric vaccines consistent with the requirements of this subsection and, to the maximum extent practicable, consolidate such contracting with any other contracting activities conducted by the Secretary to purchase vaccines. The Secretary may enter into suchcontracts under which the Federal Government is obligated to make outlays, the budget authority for which is not provided for in advance in appropriations Acts, for the purchase and delivery of pediatric vaccines under subsection (a)(2)(A) of this section.
 
 #### (2) Authority to decline contracts
 
@@ -130,7 +130,7 @@ For purposes of this section:
 
 #### (B) Negotiation of discounted price for current vaccines
 
-&emsp;&emsp;With respect to contracts entered into under this subsection for a pediatric vaccine for which the Centers for Disease Control and Prevention has a contract in effect under section 247b(j)(1) of this title as of May 1, 1993, no price for the purchase of such vaccine for vaccine-eligible children shall be agreed to by the Secretary under this subsection if the price per dose of such vaccine (including delivery costs and any applicable excise tax established under section 4131 of the Internal Revenue Code of 1986) exceeds the price per dose for the vaccine in effect under such a contract as of such date increased by the percentage increase in the consumer price index for all urban consumers (all items; United States city average)from May 1993 to the month before the month in which such contract is entered into.
+&emsp;&emsp;With respect to contracts entered into under this subsection for a pediatric vaccine for which the Centers for Disease Control and Prevention has a contract in effect under section 247b(j)(1) of this title as of May 1, 1993, no price for the purchase of such vaccine for vaccine-eligible children shall be agreed to by the Secretary under this subsection if the price per dose of such vaccine (including delivery costs and any applicable excise tax established under section 4131 of the Internal Revenue Code of 1986) exceeds the price per dose for the vaccine in effect under such a contract as of such date increased by the percentage increase in the consumer price index for all urban consumers (all items; United States city average) from May 1993 to the month before the month in which such contract is entered into.
 
 #### (C) Negotiation of discounted price for new vaccines
 
@@ -160,7 +160,7 @@ For purposes of this section:
 
 #### (e) Use of pediatric vaccines list
 
-The Secretary shall use, for the purpose of the purchase, delivery, and administration of pediatric vaccines under this section, the list established (and periodically reviewed and as appropriate revised) by the Advisory Committee on Immunization Practices (an advisory committee established by the Secretary, acting through the Director of the Centers for Disease Control and Prevention).
+The Secretary shall use, for the purpose of the purchase, delivery, and administration of pediatric vaccines under this section, the list established (and periodically reviewed and as appropriate revised) by the Advisory Committee on Immunization Practices (an advisory committeeestablished by the Secretary, acting through the Director of the Centers for Disease Control and Prevention).
 
 #### (f) Requirement of State maintenance of immunization laws
 
@@ -180,7 +180,7 @@ For purposes of this section:
 
 &emsp;(3) The terms “Indian”, “Indian tribe” and “tribal organization” have the meanings given such terms in section 4 of the Indian Health Care Improvement Act \[25 U.S.C. 1603\].
 
-&emsp;(4) The term “manufacturer” means any corporation, organization, or institution, whether public or private (including Federal, State, and local departments, agencies, and instrumentalities), which manufactures, imports, processes, or distributes under its label anypediatric vaccine. The term “manufacture” means to manufacture, import, process, or distribute a vaccine.
+&emsp;(4) The term “manufacturer” means any corporation, organization, or institution, whether public or private (including Federal, State, and local departments, agencies, and instrumentalities), which manufactures, imports, processes, or distributes under its label any pediatric vaccine. The term “manufacture” means to manufacture, import, process, or distribute a vaccine.
 
 &emsp;(5) The term “parent” includes, with respect to a child, an individual who qualifies as a legal guardian under State law.
 
@@ -212,7 +212,7 @@ Section applicable to payments under State plans approved under this subchapter 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1396a, 1396b, 1396d of this title; title 29 section 1169.
+This section is referred to in sections 300gg, 1396a, 1396b, 1396d of this title; title 26 section 9801; title 29 sections 1169, 1181.
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

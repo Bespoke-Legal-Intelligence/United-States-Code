@@ -18,7 +18,7 @@ For purposes of subsection (a), the term “gross investment income” means the
 
 &emsp;&emsp;(D) gains from sales or exchanges of capital assets to the extent provided in subchapter P (sec. 1201 and following, relating to capital gains and losses).
 
-&emsp;(2) The gross income during the taxable year from any trade or business (other than an insurance business) carried on by the insurance company, or by a partnership of which the insurance company is a partner. In computing gross income under this paragraph, there shallbe excluded any item described in paragraph (1).
+&emsp;(2) The gross income during the taxable year from any trade or business (other than an insurance business) carried on by the insurance company, or by a partnership of which the insurance company is a partner. In computing gross income under this paragraph, there shall be excluded any item described in paragraph (1).
 
 #### (c) Deductions
 

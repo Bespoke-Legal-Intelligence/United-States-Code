@@ -118,7 +118,7 @@ The Interstate Commerce Act, referred to in text, is act Feb. 4, 1887, ch. 104, 
 
 Subsec. (k). Pub. L. 101–383, §9, added subsec. (k).
 
-Subsec. (<i>l</i>). Pub. L. 101–383, §11, added subsec. (<i>l).</i>
+Subsec. (<i>l</i>). Pub. L. 101–383, §11, added subsec. (<i>l</i>).
 
 1985—Subsec. (e). Pub. L. 99–58 amended subsec. (e) generally, substituting provisions directing that amendments transmitted pursuant to subsec. (d) of this section not become effective until 60 days after transmittal except in the case of enumerated presidential determinations for provisions which had formerly empowered Congress to disapprove of transmitted proposals and amendments in accordance with the procedures specified in section 6421 of this title.
 
@@ -134,5 +134,5 @@ Committee on Energy and Commerce of House of Representatives treated as referrin
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 6234, 6235, 6236, 6240, 6241, 6246 of this title; title 10 section 7430.
+This section is referred to in sections 6234, 6235, 6236, 6240, 6241 of this title; title 10 section 7430.
 

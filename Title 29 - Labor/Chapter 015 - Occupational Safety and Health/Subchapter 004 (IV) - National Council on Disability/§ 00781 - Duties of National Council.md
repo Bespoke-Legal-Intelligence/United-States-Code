@@ -24,7 +24,7 @@
 
 &emsp;(8) make recommendations to the President, the Congress, the Secretary, the Director of the National Institute on Disability and Rehabilitation Research, and other officials of Federal agencies, respecting ways to better promote the policies set forth in section 780(a)(2) of this title;
 
-&emsp;(9) provide to the Congress on a continuing basis advice, recommendations, legislative proposals, and any additional information which the Council or the Congress deems appropriate; and
+&emsp;(9) provide to the Congress on a continuing basis advice, recommendations, legislativeproposals, and any additional information which the Council or the Congress deems appropriate; and
 
 &emsp;(10) review and evaluate on a continuing basis new and emerging disability policy issues affecting individuals with disabilities at the Federal, State, and local levels, and in the private sector, including the need for and coordination of adult services, access to personal assistance services, school reform efforts and the impact of such efforts on individuals with disabilities, access to health care, and policies that operate as disincentives for the individuals to seek and retain employment.
 
@@ -48,7 +48,7 @@ A prior section 781, Pub. L. 93–112, title IV, §401, Sept. 26, 1973, 87 Stat.
 
 #### Amendments
 
-1995—Subsec. (a)(9) to (11). Pub. L. 104–66 redesignated pars. (10) and (11) as (9) and (10), respectively, andstruck out former par. (9) which read as follows: “not later than March 31 of each year, prepare and submit to the Congress and the President a report containing a summary of the activities and accomplishments of the Council with respect to the duties described in paragraphs (1) through (8);”.
+1995—Subsec. (a)(9) to (11). Pub. L. 104–66 redesignated pars. (10) and (11) as (9) and (10), respectively, and struck out former par. (9) which read as follows: “not later than March 31 of each year, prepare and submit to the Congress and the President a report containing a summary of the activities and accomplishments of the Council with respect to the duties described in paragraphs (1) through (8);”.
 
 1992—Subsec. (a)(1). Pub. L. 102–569, §402(a)(1), added par. (1) and struck out former par. (1) which read as follows: “establish general policies for, and review the operation of, the National Institute on Disability and Rehabilitation Research;”.
 
@@ -78,7 +78,7 @@ Subsec. (a)(11). Pub. L. 102–569, §402(a)(10), added par. (11).
 
 Subsec. (b). Pub. L. 102–569, §402(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows:
 
-“(1) Not later than January 30, 1988, and annually thereafter, the National Council shall issue a report to the President and the Congress on the progress that has been made in implementing the recommendations contained in the Council's January 30, 1986, report Toward Independence.
+“(1) Not later than January 30, 1988, and annually thereafter, the National Council shall issue a report tothe President and the Congress on the progress that has been made in implementing the recommendations contained in the Council's January 30, 1986, report Toward Independence.
 
 “(2) The reports issued pursuant to paragraph (1) shall present, as appropriate, available data on health, housing, employment, insurance, transportation, recreation, and education, and shall include appropriate information on the current status and trends in the status of individuals with disabilities.”
 

@@ -8,7 +8,7 @@
 
 (B) For each fiscal year beginning on or after October 1, 1978, each State shall be entitled to an allotment, from any amount authorized to be appropriated for such fiscal year under section 720(b)(1)(A) <sup>1</sup> of this title for allotment under this section in excess of the amount appropriated under section 720(b)(1)(A) <sup>1</sup> of this title for the fiscal year ending September 30, 1978, in an amount equal to the sum of—
 
-(i) an amount bearing the same ratio to 50 percent of such excess amount as the product of the population of the State and the square of its allotment percentage bears to the sum of the corresponding products for all the States; and
+(i) an amount bearing the same ratio to 50 percent of such excess amount as the product of thepopulation of the State and the square of its allotment percentage bears to the sum of the corresponding products for all the States; and
 
 (ii) an amount bearing the same ratio to 50 percent of such excess amount as the product of the population of the State and its allotment percentage bears to the sum of the corresponding products for all the States.
 
@@ -48,7 +48,7 @@
 
 #### References in Text
 
-Section 720(b)(1) of this title, referred to in subsec. (a)(2)(B), (3), (4), was amended generally by Pub. L. 102–569, title I, §121(b)(1), Oct. 29, 1992, 106 Stat. 4367, and, as so amended, no longer contains subpars. (A) and (B).
+Section 720(b)(1) of this title, referred to in subsec. (a)(2)(B), (3), (4), was amended generally by Pub. L.102–569, title I, §121(b)(1), Oct. 29, 1992, 106 Stat. 4367, and, as so amended, no longer contains subpars. (A) and (B).
 
 For Oct. 1, 1994, as the date the Compact of Free Association with Palau takes effect, referred to in subsec. (a)(5), see Proc. No. 6726, Sept. 27, 1994, 59 F.R. 49777, set out as a note under section 1931 of Title 48, Territories and Insular Possessions.
 

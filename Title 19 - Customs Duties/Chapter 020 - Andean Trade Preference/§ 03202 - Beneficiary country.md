@@ -64,7 +64,7 @@ The President shall not designate any country a beneficiary country under this c
 
 &emsp;(6) unless such country is a signatory to a treaty, convention, protocol, or other agreement regarding the extradition of United States citizens; and
 
-&emsp;(7) if such country has not or is not taking steps to afford internationally recognized worker rights (as defined in section 2462(a)(4) of this title) to workers in the country (including any designated zone in that country).
+&emsp;(7) if such country has not or is not taking steps to afford internationally recognized worker rights (as defined in section 2467(4) of this title) to workers in the country (including any designated zone in that country).
 
 > Paragraphs (1), (2), (3), (5), and (7) shall not prevent the designation of any country as a beneficiary country under this chapter if the President determines that such designation will be in the national economic or security interest of the United States and reports such determination to the Congress with his reasons therefor.
 
@@ -92,7 +92,7 @@ In determining whether to designate any country a beneficiary country under this
 
 &emsp;(10) the extent to which such country prohibits its nationals from engaging in the broadcast of copyrighted material, including films or television material, belonging to United States copyright owners without their express consent;
 
-&emsp;(11) whether such country has met the narcotics cooperation certification criteria setforth in section 2291(h)(2)(A) <sup>1</sup> of title 22 for eligibility for United States assistance; and
+&emsp;(11) whether such country has met the narcotics cooperation certification criteria set forth in section 2291(h)(2)(A) <sup>1</sup> of title 22 for eligibility for United States assistance; and
 
 &emsp;(12) the extent to which such country is prepared to cooperate with the United States in the administration of the provisions of this chapter.
 
@@ -124,7 +124,7 @@ In determining whether to designate any country a beneficiary country under this
 
 On or before the 3rd, 6th, and 9th anniversaries of December 4, 1991, the President shall submit to the Congress a complete report regarding the operation of this chapter, including the results of a general review of beneficiary countries based on the considerations described in subsections (c) and (d) of this section. In reporting on the considerations described in subsection (d)(11) of this section, the President shall report any evidence that the crop eradication and crop substitution efforts of the beneficiary are directly related to the effects of this chapter.
 
-(Pub. L. 102–182, title II, §203, Dec. 4, 1991, 105 Stat. 1236; Pub. L. 103–465, title VI, §621(a)(3), Dec. 8, 1994, 108 Stat. 4992.)
+(Pub. L. 102–182, title II, §203, Dec. 4, 1991, 105 Stat. 1236; Pub. L. 103–465, title VI, §621(a)(3), Dec. 8, 1994, 108 Stat. 4992; Pub. L. 104–188, title I, §1954(a)(2), Aug. 20, 1996, 110 Stat. 1927.)
 
 #### References in Text
 
@@ -136,7 +136,13 @@ This chapter, referred to in subsec. (d)(12), was in the original “this Act”
 
 #### Amendments
 
+1996—Subsec. (c)(7). Pub. L. 104–188 substituted “2467(4) of this title” for “2462(a)(4) of this title”.
+
 1994—Subsec. (d)(4). Pub. L. 103–465 substituted “WTO Agreement and the multilateral trade agreements (as such terms are defined in paragraphs (9) and (4), respectively, of section 3501 of this title)” for “General Agreement on Tariffs and Trade, as well as applicable trade agreements approved under section 2503(a) of this title”.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–188 applicable to articles entered on or after Oct. 1, 1996, with provisions relating to retroactive application, see section 1953 of Pub. L. 104–188, set out as an Effective Date note under section 2461 of this title.
 
 #### Effective Date of 1994 Amendment
 

@@ -8,7 +8,7 @@
 
 #### (2) Representation
 
-&emsp;In carrying out this part, the Goals Panel shall conduct hearings to receive reports, views, and analyses of a broad spectrum of experts and the public on the establishment of voluntary national content standards, voluntary national student performance standards, voluntary national opportunity-to-learn standards, and State assessments described in section 5843(f) of this title.
+&emsp;In carrying out this part, the Goals Panel shall conduct hearings to receive reports, views, and analyses of a broad spectrum of experts and the public on the establishment of voluntary national content standards, voluntary national student performance standards, and State assessments.
 
 #### (b) Information
 
@@ -36,9 +36,11 @@ The Goals Panel may, with consent of any agency or instrumentality of the United
 
 The Goals Panel may accept, administer, and utilize gifts or donations of services, money, or property, whether real or personal, tangible or intangible.
 
-(Pub. L. 103–227, title II, §204, Mar. 31, 1994, 108 Stat. 136; Pub. L. 103–382, title III, §361(b)(1), Oct. 20, 1994, 108 Stat. 3974.)
+(Pub. L. 103–227, title II, §204, Mar. 31, 1994, 108 Stat. 136; Pub. L. 103–382, title III, §361(b)(1), Oct. 20, 1994, 108 Stat. 3974; Pub. L. 104–134, title I, §101(d) \[title VII, §703(a)(7)\], Apr. 26, 1996, 110 Stat. 1321–211, 1321–252; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.)
 
 #### Amendments
+
+1996—Subsec. (a)(2). Pub. L. 104–134 struck out “voluntary national opportunity-to-learn standards,” before “and State assessments” and struck out “described in section 5843(f) of this title” after “and State assessments”.
 
 1994—Subsec. (f). Pub. L. 103–382 added subsec. (f).
 

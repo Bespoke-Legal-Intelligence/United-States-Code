@@ -74,7 +74,7 @@ The Comptroller General shall audit all payments, obligations, reimbursements, a
 
 #### (1) Removal costs
 
-&emsp;No claim may be presented under this subchapter for recovery of removal costs for an incident unless the claim is presented within 6 years after the date of completion of all removal actions for that incident.
+&emsp;No claim may be presented under this subchapter for recovery of removal costs for anincident unless the claim is presented within 6 years after the date of completion of all removal actions for that incident.
 
 #### (2) Damages
 
@@ -130,5 +130,5 @@ Memorandum of the President of the United States, Aug. 24, 1990, 55 F.R. 35291, 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2713, 2752 of this title; title 26 section 9509.
+This section is referred to in sections 2713, 2736, 2752 of this title; title 26 section 9509.
 

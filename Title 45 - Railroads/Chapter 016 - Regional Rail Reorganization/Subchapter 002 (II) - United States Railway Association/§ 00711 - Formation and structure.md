@@ -102,7 +102,7 @@ Subsec. (j)(4). Pub. L. 96–448, §508(c)(3), struck out provision that any ref
 
 Pub. L. 94–210, §603(b)(2), substituted “acting directly or at any time through” for “or”.
 
-Subsec. (h). Pub. L. 94–555, §211(c), struck out “The Secretary and the Chairman of the Commission mayact in such capacity directly or at any time through their duly authorized representatives” after “members of the Board”.
+Subsec. (h). Pub. L. 94–555, §211(c), struck out “The Secretary and the Chairman of the Commission may act in such capacity directly or at any time through their duly authorized representatives” after “members of the Board”.
 
 Pub. L. 94–210, §603(b)(1), inserted provision authorizing Secretary and Chairman to act directly or through their duly authorized representatives.
 

@@ -1,4 +1,4 @@
-### §871 . Threats against President and successors to the Presidency
+### §871. Threats against President and successors to the Presidency
 
 (a) Whoever knowingly and willfully deposits for conveyance in the mail or for a delivery from any post office or by any letter carrier any letter, paper, writing, print, missive, or document containing any threat to take the life of, to kidnap, or to inflict bodily harm upon the President of the United States, the President-elect, the Vice President or other officer next in the order of succession to the office of President of the United States, or the Vice President-elect, or knowingly and willfully otherwise makes any such threat against the President, President-elect, Vice President or other officer next in the order of succession to the office of President, or Vice President-elect, shall be fined under this title or imprisoned not more than five years, or both.
 
@@ -26,5 +26,5 @@ Minor changes were made in phraseology.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 879, 3056, 4247 of this title; title 8 section 1251.
+This section is referred to in sections 115, 879, 3056, 4247 of this title; title 8 section 1227.
 

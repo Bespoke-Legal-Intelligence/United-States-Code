@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-After reviewing and analyzing the reports submitted under section 1723a(n) of this title and section 1456(f) of this title, the Secretary shall submit a report, as part of the annual report under section 4548(a) of this title, on the extent to which each enterprise is achieving the annualhousing goals established under subpart 2 of this part and the purposes of the enterprise established by law.
+After reviewing and analyzing the reports submitted under section 1723a(n) of this title and section 1456(f) of this title, the Secretary shall submit a report, as part of the annual report under section 4548(a) of this title, on the extent to which each enterprise is achieving the annual housing goals established under subpart 2 of this part and the purposes of the enterprise established by law.
 
 #### (b) Contents
 

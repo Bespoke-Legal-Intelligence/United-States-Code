@@ -30,7 +30,7 @@ Nothing in this section shall be construed to imply any guarantee or obligation 
 
 #### (h) Filing duplicate reports with the Securities and Exchange Commission
 
-Any public utility whose security issues are approved by the Commission under this section may file with the Securities and Exchange Commission duplicate copies of reports filed with the Federal Power Commission in lieu of the reports, information, and documents required under sections 77g, 78<i>l</i>, and 78m of title 15.
+Any public utility whose security issues are approved by the Commission under this sectionmay file with the Securities and Exchange Commission duplicate copies of reports filed with the Federal Power Commission in lieu of the reports, information, and documents required under sections 77g, 78<i>l</i>, and 78m of title 15.
 
 (June 10, 1920, ch. 285, pt. II, §204, as added Aug. 26, 1935, ch. 687, title II, §213, 49 Stat. 850.)
 
@@ -40,5 +40,5 @@ Federal Power Commission terminated and its functions with regard to establishme
 
 Executive and administrative functions of Federal Power Commission, with certain reservations, transferred to Chairman of such Commission, with authority vested in him to authorize their performance by any officer, employee, or administrative unit under his jurisdiction, by Reorg. Plan No. 9 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out as a note under section 792 of this title.
 
-Executive and administrative functions of Securities and Exchange Commission, with certain exceptions,transferred to Chairman of such Commission, with authority vested in him to authorize their performance by any officer, employee, or administrative unit under his jurisdiction, by Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out in the Appendix to Title 5, Government Organization and Employees.
+Executive and administrative functions of Securities and Exchange Commission, with certain exceptions, transferred to Chairman of such Commission, with authority vested in him to authorize their performance by any officer, employee, or administrative unit under his jurisdiction, by Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out in the Appendix to Title 5, Government Organization and Employees.
 

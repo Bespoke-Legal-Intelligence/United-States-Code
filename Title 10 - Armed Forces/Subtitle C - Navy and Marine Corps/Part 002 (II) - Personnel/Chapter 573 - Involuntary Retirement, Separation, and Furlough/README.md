@@ -6,24 +6,17 @@
 | [6383\.](%C2%A7%2006383%20-%20Regular%20Navy%20and%20Regular%20Marine%20Corps%3B%20officers%20designated%20for%20limited%20duty%20retirement%20for%20length%20of%20service%20or%20failures%20of%20selection%20for%E2%80%A6.md) | Regular Navy and Regular Marine Corps; officers designated for limited duty: retirement for length of service or failures of selection for promotion; discharge for failures of selection for promotion; reversion to prior status; retired grade; retired pay. |
 | \[6384 to 6388. Repealed.\] |  |
 | [6389\.](%C2%A7%2006389%20-%20Naval%20Reserve%20and%20Marine%20Corps%20Reserve%3B%20officers%20elimination%20from%20active%20status%3B%20computation%20of%20total%20commissioned%20service.md) | Naval Reserve and Marine Corps Reserve; officers: elimination from active status; computation of total commissioned service. |
-| \[6390. | Repealed.\] |
-| [6391\.](%C2%A7%2006391%20-%20Naval%20Reserve%20and%20Marine%20Corps%20Reserve%3B%20officers%20retirement%20at%20age%2062.md) | Naval Reserve and Marine Corps Reserve; officers: retirement at age 62. |
-| [6392\.](%C2%A7%2006392%20-%20Retention%20in%20active%20status%20of%20certain%20officers.md) | Retention in active status of certain officers. |
-| \[6393 to 6396. Repealed.\] |  |
-| [6397\.](%C2%A7%2006397%20-%20Naval%20Reserve%3B%20officers%20in%20the%20Nurse%20Corps%20elimination%20from%20active%20status.md) | Naval Reserves; officers in the Nurse Corps: elimination from active status. |
-| \[6398 to 6402. Repealed.\] |  |
-| [6403\.](%C2%A7%2006403%20-%20Naval%20Reserve%20and%20Marine%20Corps%20Reserve%3B%20women%20officers%20elimination%20from%20active%20status.md) | Naval Reserve and Marine Corps Reserve; women officers: elimination from active status. |
+| \[6390 to 6403. Repealed.\] |  |
 | [6404\.](%C2%A7%2006404%20-%20Treatment%20of%20fractions%20of%20years%20of%20service%20in%20computing%20retired%20pay%20and%20separation%20pay.md) | Treatment of fractions of years of service in computing retired pay and separation pay. |
 | \[6405 to 6407. Repealed.\] |  |
 | [6408\.](%C2%A7%2006408%20-%20Navy%20and%20Marine%20Corps%3B%20warrant%20officers%2C%20W%E2%80%931%20limitation%20on%20dismissal.md) | Navy and Marine Corps; warrant officers, W–1: limitation on dismissal. |
-| \[6409. | Repealed.\] |
-| [6410\.](%C2%A7%2006410%20-%20Naval%20Reserve%20and%20Marine%20Corps%20Reserve%3B%20officers%20elimination%20from%20active%20status%20to%20provide%20a%20flow%20of%20promotion.md) | Naval Reserve and Marine Corps Reserve; officers: elimination from active status to provide a flow of promotion. |
+| \[6409, 6410. Repealed.\] |  |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
 
-1994—Pub. L. 103–337, div. A, title XVI, §1673(b)(4), Oct. 5, 1994, 108 Stat. 3016, struck out items 6391 “Naval Reserve and Marine Corps Reserve; officers: retirement at age 62”, 6392 “Retention in active status of certain officers”, 6397 “Naval Reserves; officers in the Nurse Corps: elimination from active status”, 6403 “Naval Reserve and Marine Corps Reserve; women officers: elimination from active status”, and 6410 “Naval Reserve and Marine Corps Reserve; officers: elimination from active status to provide a flow of promotion”. Section 1691(b)(1) of Pub. L. 103–337 provided that the repeal of sections 6391, 6392, 6397, 6403, and 6410 is effective Oct. 1, 1996.
+1994—Pub. L. 103–337, div. A, title XVI, §1673(b)(4), Oct. 5, 1994, 108 Stat. 3016, struck out items 6391 “Naval Reserve and Marine Corps Reserve; officers: retirement at age 62”, 6392 “Retention in active status of certain officers”, 6397 “Naval Reserves; officers in the Nurse Corps: elimination from active status”, 6403 “Naval Reserve and Marine Corps Reserve; women officers: elimination from active status”, and 6410 “Naval Reserve and Marine Corps Reserve; officers: elimination from active status to provide a flow of promotion”.
 
 1987—Pub. L. 100–180, div. A, title VII, §717(b)(2), Dec. 4, 1987, 101 Stat. 1114, added item 6392.
 
@@ -45,7 +38,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 113, 12645, 12646, 12647 of this title.
+This chapter is referred to in sections 12645, 12646, 12647 of this title.
 
 
 ---
@@ -59,19 +52,18 @@ This chapter is referred to in sections 113, 12645, 12646, 12647 of this title.
 - [&sect; 06384 to 6388 - Repealed. Pub. L. 96&#8211;513, title III, &sect;335, Dec. 12, 1980, 94 Stat. 2898](%C2%A7%2006384%20to%206388%20-%20Repealed.%20Pub.%20L.%2096%E2%80%93513%2C%20title%20III%2C%20%C2%A7335%2C%20Dec.%2012%2C%201980%2C%2094%20Stat.%202898.md)
 - [&sect; 06389 - Naval Reserve and Marine Corps Reserve; officers elimination from active status; computation of total commissioned service](%C2%A7%2006389%20-%20Naval%20Reserve%20and%20Marine%20Corps%20Reserve%3B%20officers%20elimination%20from%20active%20status%3B%20computation%20of%20total%20commissioned%20service.md)
 - [&sect; 06390 - Repealed. Pub. L. 96&#8211;513, title III, &sect;335, Dec. 12, 1980, 94 Stat. 2898](%C2%A7%2006390%20-%20Repealed.%20Pub.%20L.%2096%E2%80%93513%2C%20title%20III%2C%20%C2%A7335%2C%20Dec.%2012%2C%201980%2C%2094%20Stat.%202898.md)
-- [&sect; 06391 - Naval Reserve and Marine Corps Reserve; officers retirement at age 62](%C2%A7%2006391%20-%20Naval%20Reserve%20and%20Marine%20Corps%20Reserve%3B%20officers%20retirement%20at%20age%2062.md)
-- [&sect; 06392 - Retention in active status of certain officers](%C2%A7%2006392%20-%20Retention%20in%20active%20status%20of%20certain%20officers.md)
+- [&sect; 06391, 6392 - Repealed. Pub. L. 103&#8211;337, div. A, title XVI, &sect;1629(b)(3), Oct. 5, 1994, 108 Stat. 2963](%C2%A7%2006391%2C%206392%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93337%2C%20div.%20A%2C%20title%20XVI%2C%20%C2%A71629%28b%29%283%29%2C%20Oct.%205%2C%201994%2C%20108%20Stat.%202963.md)
 - [&sect; 06393 - Repealed. Pub. L. 96&#8211;513, title III, &sect;373(h), Dec. 12, 1980, 94 Stat. 2903](%C2%A7%2006393%20-%20Repealed.%20Pub.%20L.%2096%E2%80%93513%2C%20title%20III%2C%20%C2%A7373%28h%29%2C%20Dec.%2012%2C%201980%2C%2094%20Stat.%202903.md)
 - [&sect; 06394 to 6396 - Repealed. Pub. L. 96&#8211;513, title III, &sect;335, Dec. 12, 1980, 94 Stat. 2898](%C2%A7%2006394%20to%206396%20-%20Repealed.%20Pub.%20L.%2096%E2%80%93513%2C%20title%20III%2C%20%C2%A7335%2C%20Dec.%2012%2C%201980%2C%2094%20Stat.%202898.md)
-- [&sect; 06397 - Naval Reserve; officers in the Nurse Corps elimination from active status](%C2%A7%2006397%20-%20Naval%20Reserve%3B%20officers%20in%20the%20Nurse%20Corps%20elimination%20from%20active%20status.md)
+- [&sect; 06397 - Repealed. Pub. L. 103&#8211;337, div. A, title XVI, &sect;1629(b)(3), Oct. 5, 1994, 108 Stat. 2963](%C2%A7%2006397%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93337%2C%20div.%20A%2C%20title%20XVI%2C%20%C2%A71629%28b%29%283%29%2C%20Oct.%205%2C%201994%2C%20108%20Stat.%202963.md)
 - [&sect; 06398 - Repealed. Pub. L. 96&#8211;513, title III, &sect;335, Dec. 12, 1980, 94 Stat. 2898](%C2%A7%2006398%20-%20Repealed.%20Pub.%20L.%2096%E2%80%93513%2C%20title%20III%2C%20%C2%A7335%2C%20Dec.%2012%2C%201980%2C%2094%20Stat.%202898.md)
 - [&sect; 06399 - Repealed. Pub. L. 90&#8211;130, &sect;1(24)(G), Nov. 8, 1967, 81 Stat. 382](%C2%A7%2006399%20-%20Repealed.%20Pub.%20L.%2090%E2%80%93130%2C%20%C2%A71%2824%29%28G%29%2C%20Nov.%208%2C%201967%2C%2081%20Stat.%20382.md)
 - [&sect; 06400 to 6402 - Repealed. Pub. L. 96&#8211;513, title III, &sect;335, Dec. 12, 1980, 94 Stat. 2898](%C2%A7%2006400%20to%206402%20-%20Repealed.%20Pub.%20L.%2096%E2%80%93513%2C%20title%20III%2C%20%C2%A7335%2C%20Dec.%2012%2C%201980%2C%2094%20Stat.%202898.md)
-- [&sect; 06403 - Naval Reserve and Marine Corps Reserve; women officers elimination from active status](%C2%A7%2006403%20-%20Naval%20Reserve%20and%20Marine%20Corps%20Reserve%3B%20women%20officers%20elimination%20from%20active%20status.md)
+- [&sect; 06403 - Repealed. Pub. L. 103&#8211;337, div. A, title XVI, &sect;1629(b)(3), Oct. 5, 1994, 108 Stat. 2963](%C2%A7%2006403%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93337%2C%20div.%20A%2C%20title%20XVI%2C%20%C2%A71629%28b%29%283%29%2C%20Oct.%205%2C%201994%2C%20108%20Stat.%202963.md)
 - [&sect; 06404 - Treatment of fractions of years of service in computing retired pay and separation pay](%C2%A7%2006404%20-%20Treatment%20of%20fractions%20of%20years%20of%20service%20in%20computing%20retired%20pay%20and%20separation%20pay.md)
 - [&sect; 06405 - Repealed. Pub. L. 90&#8211;235, &sect;4(a)(12), Jan. 2, 1968, 81 Stat. 760](%C2%A7%2006405%20-%20Repealed.%20Pub.%20L.%2090%E2%80%93235%2C%20%C2%A74%28a%29%2812%29%2C%20Jan.%202%2C%201968%2C%2081%20Stat.%20760.md)
 - [&sect; 06406 - Repealed. Pub. L. 91&#8211;482, &sect;1(a), Oct. 21, 1970, 84 Stat. 1082](%C2%A7%2006406%20-%20Repealed.%20Pub.%20L.%2091%E2%80%93482%2C%20%C2%A71%28a%29%2C%20Oct.%2021%2C%201970%2C%2084%20Stat.%201082.md)
 - [&sect; 06407 - Repealed. Pub. L. 96&#8211;513, title III, &sect;335, Dec. 12, 1980, 94 Stat. 2898](%C2%A7%2006407%20-%20Repealed.%20Pub.%20L.%2096%E2%80%93513%2C%20title%20III%2C%20%C2%A7335%2C%20Dec.%2012%2C%201980%2C%2094%20Stat.%202898.md)
 - [&sect; 06408 - Navy and Marine Corps; warrant officers, W&#8211;1 limitation on dismissal](%C2%A7%2006408%20-%20Navy%20and%20Marine%20Corps%3B%20warrant%20officers%2C%20W%E2%80%931%20limitation%20on%20dismissal.md)
 - [&sect; 06409 - Repealed. Pub. L. 90&#8211;235, &sect;3(b)(1), Jan. 2, 1968, 81 Stat. 758](%C2%A7%2006409%20-%20Repealed.%20Pub.%20L.%2090%E2%80%93235%2C%20%C2%A73%28b%29%281%29%2C%20Jan.%202%2C%201968%2C%2081%20Stat.%20758.md)
-- [&sect; 06410 - Naval Reserve and Marine Corps Reserve; officers elimination from active status to provide a flow of promotion](%C2%A7%2006410%20-%20Naval%20Reserve%20and%20Marine%20Corps%20Reserve%3B%20officers%20elimination%20from%20active%20status%20to%20provide%20a%20flow%20of%20promotion.md)
+- [&sect; 06410 - Repealed. Pub. L. 103&#8211;337, div. A, title XVI, &sect;1629(b)(3), Oct. 5, 1994, 108 Stat. 2963](%C2%A7%2006410%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93337%2C%20div.%20A%2C%20title%20XVI%2C%20%C2%A71629%28b%29%283%29%2C%20Oct.%205%2C%201994%2C%20108%20Stat.%202963.md)

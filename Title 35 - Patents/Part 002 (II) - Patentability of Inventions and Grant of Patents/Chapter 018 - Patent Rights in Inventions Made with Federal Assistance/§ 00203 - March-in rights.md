@@ -30,7 +30,7 @@ Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 202, 206, 210 of this title.
+This section is referred to in sections 202, 206, 210 of this title; title 15 section 3710a.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “(1)”.</i>
 

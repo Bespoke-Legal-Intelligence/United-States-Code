@@ -10,7 +10,7 @@ It is the purpose of this section to improve the overall development of at-risk 
 
 #### (c) Program authority
 
-The Secretary may award grants on a competitive basis to eligible local entities to pay for the Federal share of assisting eligible communities to develop and carry out programs in accordance with this section. No local entity shall receive a grant of less than $250,000 in a fiscalyear. Amounts made available through such grants shall remain available until expended.
+The Secretary may award grants on a competitive basis to eligible local entities to pay for the Federal share of assisting eligible communities to develop and carry out programs in accordance with this section. No local entity shall receive a grant of less than $250,000 in a fiscal year. Amounts made available through such grants shall remain available until expended.
 
 #### (d) Program requirements
 
@@ -116,7 +116,7 @@ The Secretary may conduct such investigations and inspections as may be necessar
 
 #### (1) Payments
 
-&emsp;The Secretary shall, subject to the availability of appropriations, pay to each local entityhaving an application approved under subsection (g) of this section the Federal share of the costs of developing and carrying out programs referred to in subsection (d) of this section.
+&emsp;The Secretary shall, subject to the availability of appropriations, pay to each local entity having an application approved under subsection (g) of this section the Federal share of the costs of developing and carrying out programs referred to in subsection (d) of this section.
 
 #### (2) Federal share
 

@@ -30,7 +30,9 @@ Verification Program.—The regulations shall establish a verification program f
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

@@ -1,6 +1,6 @@
 ### §9346. Cadets: requirements for admission
 
-(a) To be eligible for admission to the Academy a candidate must be at least 17 years of age and must not have passed his twenty-second birthday on July 1 of the year in which he enters the Academy.
+(a) To be eligible for admission to the Academy a candidate must be at least 17 years of age and must not have passed his twenty-third birthday on July 1 of the year in which he enters the Academy.
 
 (b) To be admitted to the Academy, an appointee must show, by an examination held under regulations prescribed by the Secretary of the Air Force, that he is qualified in the subjects prescribed by the Secretary.
 
@@ -8,7 +8,7 @@
 
 (d) To be admitted to the Academy, an appointee must take and subscribe to an oath prescribed by the Secretary of the Air Force. If a candidate for admission refuses to take and subscribe to the prescribed oath, his appointment is terminated.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 565; Nov. 2, 1966, Pub. L. 89–718, §47, 80 Stat. 1121.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 565; Nov. 2, 1966, Pub. L. 89–718, §47, 80 Stat. 1121; Sept. 23, 1996, Pub. L. 104–201, div. A, title V, §555(d), 110 Stat. 2527.)
 
 Historical and Revision Notes
 
@@ -47,6 +47,8 @@ In subsection (b), the words “is qualified in” are substituted for the words
 In subsection (c), the word “shall” is substituted for the word “may”, since the nominee is required to appear for the examination. The word “appear” is substituted for the words “present himself”. The words “at a place” are substituted for the words “at West Point, New York, or other prescribed places”.
 
 #### Amendments
+
+1996—Subsec. (a). Pub. L. 104–201 substituted “twenty-third birthday” for “twenty-second birthday”.
 
 1966—Subsec. (d). Pub. L. 89–718 added subsec. (d).
 

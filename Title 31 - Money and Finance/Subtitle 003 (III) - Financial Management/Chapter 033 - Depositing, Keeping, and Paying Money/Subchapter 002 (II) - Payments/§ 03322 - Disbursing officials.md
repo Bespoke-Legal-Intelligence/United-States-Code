@@ -1,6 +1,6 @@
 ### §3322. Disbursing officials
 
-(a) The Secretary of the Treasury shall transfer public money to a disbursing official only by draft or warrant written on the Treasury. Except as provided in subsection (b) of this section, a disbursing official shall—
+(a) The Secretary of the Treasury shall transfer public money to a disbursing official only by draft or warrant written on the Treasury. Except as provided in section 3716 and section 3720A of this title and subsection (b) of this section, a disbursing official shall—
 
 &emsp;(1) deposit public money as required by section 3302 of this title; and
 
@@ -26,7 +26,7 @@
 
 &emsp;&emsp;(B) an equalization or other agreement.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 950; Pub. L. 98–216, §1(3), Feb. 14, 1984, 98 Stat. 3.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 950; Pub. L. 98–216, §1(3), Feb. 14, 1984, 98 Stat. 3; Pub. L. 104–134, title III, §31001(g)(1)(A), Apr. 26, 1996, 110 Stat. 1321–363.)
 
 Historical and Revision Notes<br>1982
 
@@ -66,9 +66,15 @@ In subsection (b), before clause (1), the word “however” is omitted as surpl
 
 #### Amendments
 
+1996—Subsec. (a). Pub. L. 104–134 inserted “section 3716 and section 3720A of this title and” after “Except as provided in” in introductory provisions.
+
 1984—Subsec. (a). Pub. L. 98–216 amended subsec. (a) generally, substituting “Except as provided in subsection (b) of this section, a” for “A” in second sentence.
 
 Subsecs. (b), (c). Pub. L. 98–216 added subsec. (b) and redesignated former subsec. (b) as (c).
+
+#### Effective Date of 1996 Amendment
+
+Section 31001(a)(2)(A) of Pub. L. 104–134 provided that: “The provisions of this section \[enacting sections 3720B to 3720E of this title, amending this section, sections 3325, 3331, 3332, 3343, 3701, 3711, 3712, 3716 to 3719, 3720A, and 7701 of this title, section 5514 of Title 5, Government Organization and Employees, sections 6050P, 6103, and 6402 of Title 26, Internal Revenue Code, and sections 404 and 664 of Title 42, The Public Health and Welfare, enacting provisions set out as notes under sections 3701, 3711, 3716, and 3719 of this title and section 2461 of Title 28, Judiciary and Judicial Procedure, amending provisions set out as notes under section 7701 of this title and section 2461 of Title 28, and repealing provisions set out as notes under section 3718 of this title\] and the amendments made by this section shall take effect on the date of the enactment of this Act \[Apr. 26, 1996\].”
 
 #### Effective Date of 1984 Amendment
 

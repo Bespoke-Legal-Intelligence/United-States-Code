@@ -1,0 +1,14 @@
+subpart 3—general provisions
+
+#### Codification
+
+Another subpart 3 of part B of title XXVII of act July 1, 1944, is classified to subpart 3 (§300gg–51) of part B of this subchapter.
+
+
+---
+
+**In this folder** (links to each part and section; generated, not part of GPO's text)
+
+- [&sect; 00300gg&#8211;61 - Enforcement](%C2%A7%2000300gg%E2%80%9361%20-%20Enforcement.md)
+- [&sect; 00300gg&#8211;62 - Preemption](%C2%A7%2000300gg%E2%80%9362%20-%20Preemption.md)
+- [&sect; 00300gg&#8211;63 - General exceptions](%C2%A7%2000300gg%E2%80%9363%20-%20General%20exceptions.md)

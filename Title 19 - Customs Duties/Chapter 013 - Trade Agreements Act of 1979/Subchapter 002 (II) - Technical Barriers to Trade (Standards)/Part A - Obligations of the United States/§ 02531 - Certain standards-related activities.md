@@ -10,7 +10,7 @@ Nothing in this subchapter may be construed—
 
 #### (b) Unnecessary Obstacles
 
-Nothing in this subchapter may be construed as prohibiting any private person, Federal agency, or State agency from engaging in standards-related activities that do not create unnecessary obstacles to the foreign commerce of the United States. No standards-related activity of any private person, Federal agency, or State agency shall be deemed to constitute an unnecessary obstacle to the foreign commerce of the United States if the demonstrable purpose of the standards-related activity is to achieve a legitimate domestic objective including, but not limited to, the protection of legitimate health or safety, essential security, environmental, or consumer interests and if such activity does not operate toexclude imported products which fully meet the objectives of such activity.
+Nothing in this subchapter may be construed as prohibiting any private person, Federal agency, or State agency from engaging in standards-related activities that do not create unnecessary obstacles to the foreign commerce of the United States. No standards-related activity of any private person, Federal agency, or State agency shall be deemed to constitute an unnecessary obstacle to the foreign commerce of the United States if the demonstrable purpose of the standards-related activity is to achieve a legitimate domestic objective including, but not limited to, the protection of legitimate health or safety, essential security, environmental, or consumer interests and if such activity does not operate to exclude imported products which fully meet the objectives of such activity.
 
 (Pub. L. 96–39, title IV, §401, July 26, 1979, 93 Stat. 242; Pub. L. 103–465, title III, §351(b), Dec. 8, 1994, 108 Stat. 4955.)
 
@@ -20,7 +20,7 @@ Nothing in this subchapter may be construed as prohibiting any private person, F
 
 #### Effective Date of 1994 Amendment
 
-Section 352 of title III of Pub. L. 103–465 provided that: “This subtitle \[subtitle F (§§351, 352) of title III of Pub. L. 103–465, amending this section and sections 2532, 2544, 2571, and 2573 of this title and repealing provisions set out below\] and the amendments made by this subtitle take effect on the date on which the WTO Agreement enters into force with respect to the United States \[Jan. 1, 1995\].”
+Section 352 of title III of Pub. L. 103–465 provided that: “This subtitle \[subtitle F (§§351, 352) of title III ofPub. L. 103–465, amending this section and sections 2532, 2544, 2571, and 2573 of this title and repealing provisions set out below\] and the amendments made by this subtitle take effect on the date on which the WTO Agreement enters into force with respect to the United States \[Jan. 1, 1995\].”
 
 #### Effective Date
 

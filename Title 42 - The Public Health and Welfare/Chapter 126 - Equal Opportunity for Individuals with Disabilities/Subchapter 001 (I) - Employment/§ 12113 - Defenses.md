@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-It may be a defense to a charge of discrimination under this chapter that an alleged application of qualification standards, tests, or selection criteria that screen out or tend to screen out or otherwise deny a job or benefit to an individual with a disability has been shown to be job-related and consistent with business necessity, and such performance cannot be accomplished by reasonable accommodation, as required under this subchapter.
+It may be a defense to a charge of discrimination under this chapter that an alleged application of qualification standards, tests, or selection criteria that screen out or tend to screen out or otherwise deny a job or benefit to an individual with a disability has been shown to bejob-related and consistent with business necessity, and such performance cannot be accomplished by reasonable accommodation, as required under this subchapter.
 
 #### (b) Qualification standards
 
@@ -46,7 +46,7 @@ The term “qualification standards” may include a requirement that an individ
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 12209 of this title; title 2 sections 1202, 1311.
+This section is referred to in section 12209 of this title; title 2 sections 1202, 1311; title 3 section 411.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “transmissibility”.</i>
 

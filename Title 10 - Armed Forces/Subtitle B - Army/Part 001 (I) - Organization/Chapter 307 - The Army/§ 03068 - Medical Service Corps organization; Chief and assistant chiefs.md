@@ -34,19 +34,19 @@ Historical and Revision Notes
 
 3068(a)
 
-3068(b)
-
-3068(c)
-
 10:81–1 (last sentence, less 5th through 14th words).
 
 10:156a (less 2d sentence).
 
+June 28, 1950, ch. 383, §307 (last sentence, less 5th through 14th words), 64 Stat. 270.
+
+3068(b)
+
+3068(c)
+
 10:156b.
 
 10:156d.
-
-June 28, 1950, ch. 383, §307 (last sentence, less 5th through 14th words), 64 Stat. 270.
 
 Aug. 4, 1947, ch. 459, §§101 (less 2d sentence), 102(a), (b), 61 Stat. 734, 735; Mar. 23, 1954, ch. 103, 68 Stat. 30.
 

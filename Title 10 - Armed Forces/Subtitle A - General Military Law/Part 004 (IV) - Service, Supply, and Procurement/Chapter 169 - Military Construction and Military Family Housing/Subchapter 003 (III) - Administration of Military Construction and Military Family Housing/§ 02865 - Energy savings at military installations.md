@@ -6,17 +6,17 @@ Energy Performance Goal and Plan.—(1) The Secretary of Defense shall designate
 
 (2) To achieve the goal designated under paragraph (1), the Secretary shall develop a comprehensive plan to identify and accomplish energy conservation measures to achieve maximum cost-effective energy savings.
 
-(3) For the purpose of implementing any energy performance plan, the Secretary shall provide that the selection of energy conservation measures, including energy efficient maintenance, under such plan shall be limited to those with a positive net present value over a period of 10 years or less.
+(3) For the purpose of implementing any energy performance plan, the Secretary shall provide that the selection of energy conservation measures, including energy efficient maintenance or water efficient maintenance, under such plan shall be limited to those with a positive net present value over a period of 10 years or less.
 
-(4) In paragraph (3), the term “energy efficient maintenance” includes—
+(4) In paragraph (3), the term “energy efficient maintenance or water efficient maintenance” includes—
 
-&emsp;(A) the repair by replacement of equipment or systems, such as lighting, heating, or cooling equipment or systems or industrial processes, with technology that—
+&emsp;(A) the repair by replacement of equipment or systems, such as lighting, heating, or cooling equipment or systems, industrial processes, or water efficiency applications, with technology that—
 
 &emsp;&emsp;(i) will achieve the most cost-effective energy savings over the life-cycle of the equipment or system being repaired; and
 
 &emsp;&emsp;(ii) will meet the same end needs as the equipment or system being repaired; and
 
-&emsp;(B) improvements in an operation or maintenance process, such as improved training or improved controls, that result in reduced costs through energy savings.
+&emsp;(B) improvements in an operation or maintenance process, such as improved training or improved controls, that result in reduced costs through energy savings or water cost savings.
 
 (b)
 
@@ -68,15 +68,25 @@ Energy Saving Activities.—(1) The Secretary of Defense shall permit and encour
 
 Energy Conservation Construction Projects.—(1) The Secretary of Defense may carry out a military construction project for energy conservation, not previously authorized, using funds appropriated or otherwise made available for that purpose.
 
-(2) When a decision is made to carry out a project under paragraph (1), the Secretary of Defense shall notify in writing the Committees on Armed Services and Appropriations of the Senate and House of Representatives of that decision. The project may then be carried out only after the end of the 21-day period beginning on the date the notification is received by such committees.
+(2) When a decision is made to carry out a project under paragraph (1), the Secretary of Defense shall notify in writing the appropriate committees of Congress of that decision. The project may then be carried out only after the end of the 21-day period beginning on the date the notification is received by such committees.
 
 (f)
 
 Annual Report.—Not later than December 31 of each year, the Secretary of Defense shall transmit an annual report to the Congress containing a description of the actions taken to carry out this section, and the savings realized from such actions, during the fiscal year ending in the year in which the report is made.
 
-(Added Pub. L. 101–510, div. B, title XXVIII, §2851(a), Nov. 5, 1990, 104 Stat. 1803; amended Pub. L. 102–484, div. B, title XXVIII, §2801, Oct. 23, 1992, 106 Stat. 2604; Pub. L. 103–160, div. B, title XXVIII, §2804, Nov. 30, 1993, 107 Stat. 1885; Pub. L. 103–337, div. A, title X, §1070(a)(14), Oct. 5, 1994, 108 Stat. 2856.)
+(Added Pub. L. 101–510, div. B, title XXVIII, §2851(a), Nov. 5, 1990, 104 Stat. 1803; amended Pub. L. 102–484, div. B, title XXVIII, §2801, Oct. 23, 1992, 106 Stat. 2604; Pub. L. 103–160, div. B, title XXVIII, §2804, Nov. 30, 1993, 107 Stat. 1885; Pub. L. 103–337, div. A, title X, §1070(a)(14), Oct. 5, 1994, 108 Stat. 2856; Pub. L. 104–106, div. A, title XV, §1502(a)(27), div. B, title XXVIII, §2819, Feb. 10, 1996, 110 Stat. 506, 555.)
 
 #### Amendments
+
+1996—Subsec. (a)(3). Pub. L. 104–106, §2819(a), substituted “energy efficient maintenance or water efficient maintenance” for “energy efficient maintenance”.
+
+Subsec. (a)(4). Pub. L. 104–106, §2819(b)(1), substituted “energy efficient maintenance or water efficient maintenance” for “energy efficient maintenance” in introductory provisions.
+
+Subsec. (a)(4)(A). Pub. L. 104–106, §2819(b)(2), substituted “systems, industrial processes, or water efficiency applications,” for “systems or industrial processes,” in introductory provisions.
+
+Subsec. (a)(4)(B). Pub. L. 104–106, §2819(b)(3), inserted before period at end “or water cost savings”.
+
+Subsec. (e)(2). Pub. L. 104–106, §1502(a)(27), substituted “appropriate committees of Congress” for “Committees on Armed Services and Appropriations of the Senate and House of Representatives”.
 
 1994—Subsec. (a)(4)(B). Pub. L. 103–337 inserted period at end.
 
@@ -109,10 +119,6 @@ Subsec. (c). Pub. L. 102–484, §2801(e)(3), inserted heading.
 Subsecs. (d), (e). Pub. L. 102–484, §2801(a)(3), (b), added subsecs. (d) and (e). Former subsec. (d) redesignated (f).
 
 Subsec. (f). Pub. L. 102–484, §2801(a)(2), (d), (e)(4), redesignated subsec. (d) as (f), inserted heading, and substituted “not later than December 31 of each year” for “Beginning with fiscal year 1991 and by no later than December 31, 1991, and of each year thereafter”.
-
-#### Change of Name
-
-Committee on Armed Services of House of Representatives treated as referring to Committee on National Security of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Retention of Savings and Rebates
 

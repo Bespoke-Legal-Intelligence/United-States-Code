@@ -14,13 +14,10 @@ In General.—A member of an armed force—
 
 &nbsp;
 
-| &nbsp; | &nbsp; |
+| Column 1Take | Column 2Multiply by |
 | :--- | ---: |
-| Column 1 | Column 2 |
-| Take | Multiply by |
-|  |  |
 | Retired pay base or retainer pay base under section 1407 which he would be entitled to use if— | The retired pay multiplier or retainer pay multiplier prescribed in section 1409 for the sum of— |
-| &nbsp;&nbsp;(1) he were retiring upon release from that active duty; or | &nbsp;&nbsp;(1) the years of service that may be credited to him in computing retired pay or retainer pay; and |
+| &nbsp;&nbsp;(1) he were retiring upon release from that active duty; or&nbsp; | &nbsp;&nbsp;(1) the years of service that may be credited to him in computing retired pay or retainer pay; and |
 | &nbsp;&nbsp;(2) he were transferring to the Fleet Reserve or Fleet Marine Corps Reserve upon that release from active duty. | &nbsp;&nbsp;(2) his years of active service after becoming entitled to retired pay or retainer pay. |
 
 (b)

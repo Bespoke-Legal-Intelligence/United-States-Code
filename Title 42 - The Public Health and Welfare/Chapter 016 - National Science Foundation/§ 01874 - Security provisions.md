@@ -54,7 +54,7 @@ Pub. L. 91–441, title II, §205, Oct. 7, 1970, 84 Stat. 908, provided that: �
 
 #### Continuation of Existing Offices, Procedures, and Organization of the National Science Foundation
 
-Amendment by Pub. L. 90–407 intended to continue in effect the existing offices, procedures, and organization of the Foundation, see section 16 of Pub. L. 90–407, set out as a note under section 1862 of this title.
+Amendment by Pub. L. 90–407 intended to continue in effect the existing offices, procedures, and organizationof the Foundation, see section 16 of Pub. L. 90–407, set out as a note under section 1862 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -54,5 +54,5 @@ Section 1 of Pub. L. 102–574 provided that: “This Act \[enacting sections 45
 
 #### Short Title
 
-Section 601 of title VI of Pub. L. 101–513 provided that: “This title \[enacting this chapter and amending sections 1641, 1643, 2101, and 2109 of this title\] may be cited as the ‘International Forestry Cooperation Act of 1990’.”
+Section 601 of title VI of Pub. L. 101–513 provided that: “This title \[enacting this chapter and amending sections 1641, 1643, 2101, and 2109 of this title\] may becited as the ‘International Forestry Cooperation Act of 1990’.”
 

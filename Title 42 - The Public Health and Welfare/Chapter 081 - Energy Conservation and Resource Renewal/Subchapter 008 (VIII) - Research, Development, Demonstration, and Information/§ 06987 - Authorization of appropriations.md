@@ -6,5 +6,5 @@ There are authorized to be appropriated not to exceed $35,000,000 for the fiscal
 
 #### Prior Provisions
 
-Provisions similar to those in this section were contained in section 3259 of this title, prior to the generalamendment of the Solid Waste Disposal Act by Pub. L. 94–580.
+Provisions similar to those in this section were contained in section 3259 of this title, prior to the general amendment of the Solid Waste Disposal Act by Pub. L. 94–580.
 

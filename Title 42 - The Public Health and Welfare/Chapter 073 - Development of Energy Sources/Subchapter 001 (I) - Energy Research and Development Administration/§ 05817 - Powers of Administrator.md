@@ -6,7 +6,7 @@ The Administrator is authorized to exercise his powers in such manner as to insu
 
 #### (b) Facilities and real property
 
-Except for public buildings as defined in the Public Buildings Act of 1959, as amended \[40 U.S.C. 601 et seq.\], and with respect to leased space subject to the provisions of Reorganization Plan Numbered 18 of 1950, the Administrator is authorized to acquire (by purchase, lease, condemnation, or otherwise), construct, improve, repair, operate, and maintain facilities and real property as the Administrator deems to be necessary in and outside of the District of Columbia. Such authority shall apply only to facilities required for the maintenance and operation of laboratories, research and testing sites and facilities, quarters, and related accommodations for employees and dependents of employees of the Administration, and such other special-purpose real property as the Administrator deems to be necessary in and outside the District of Columbia. Title to any property or interest therein, real, personal, or mixed, acquired pursuant to this section, shall be in the United States.
+Except for public buildings as defined in the Public Buildings Act of 1959, as amended \[40 U.S.C. 601 et seq.\], and with respect to leased space subject to the provisions of Reorganization Plan Numbered 18 of 1950, the Administrator is authorized to acquire (by purchase,lease, condemnation, or otherwise), construct, improve, repair, operate, and maintain facilities and real property as the Administrator deems to be necessary in and outside of the District of Columbia. Such authority shall apply only to facilities required for the maintenance and operation of laboratories, research and testing sites and facilities, quarters, and related accommodations for employees and dependents of employees of the Administration, and such other special-purpose real property as the Administrator deems to be necessary in and outside the District of Columbia. Title to any property or interest therein, real, personal, or mixed, acquired pursuant to this section, shall be in the United States.
 
 #### (c) Services for employees at remote locations
 
@@ -28,7 +28,7 @@ Except for public buildings as defined in the Public Buildings Act of 1959, as a
 
 (2) The furnishing of medical treatment under subparagraph (A) of paragraph (1) and the furnishing of services and supplies under paragraphs (B) and (C) of paragraph (1) shall be at prices reflecting reasonable value as determined by the Administrator.
 
-(3) Proceeds from reimbursements under this section shall be deposited in the Treasury and may be withdrawn by the Administrator to pay directly the cost of such work or services, to repay or make advances to appropriations orfunds which do or will bear all or a part of such cost, or to refund excess sums when necessary; except that such payments may be credited to a service or working capital fund otherwise established by law, and used under the law governing such funds, if the fund is available for use by the Administrator for performing the work or services for which payment is received.
+(3) Proceeds from reimbursements under this section shall be deposited in the Treasury and may be withdrawn by the Administrator to pay directly the cost of such work or services, to repay or make advances to appropriations or funds which do or will bear all or a part of such cost, or to refund excess sums when necessary; except that such payments may be credited to a service or working capital fund otherwise established by law, and used under the law governing such funds, if the fund is available for use by the Administrator for performing the work or services for which payment is received.
 
 #### (d) Acquisition of copyrights and patents
 
@@ -68,7 +68,7 @@ Energy Research and Development Administration terminated and functions vested b
 
 Pub. L. 94–187, title V, Dec. 31, 1975, 89 Stat. 1077, provided that:
 
-“Sec. 501. The Energy Research and Development Administration shall not ship plutonium in any form by aircraft whether exports, imports, or domestic shipment: <i>Provided,</i> That any exempt shipments of plutonium, as defined by section 502, are not subject to this restriction. This restriction shall be in force until the Energy Research and Development Administration has certified to the Joint Committee on Atomic Energy of the Congress that a safe container has been developed and tested which will not rupture under crash and blast testing equivalent to the crash and explosion of a high-flying aircraft.
+“Sec. 501. The Energy Research and Development Administration shall not ship plutonium in any form by aircraft whether exports, imports, or domestic shipment: <i>Provided</i>, That any exempt shipments of plutonium, as defined by section 502, are not subject to this restriction. This restriction shall be in force until theEnergy Research and Development Administration has certified to the Joint Committee on Atomic Energy of the Congress that a safe container has been developed and tested which will not rupture under crash and blast testing equivalent to the crash and explosion of a high-flying aircraft.
 
 “
 

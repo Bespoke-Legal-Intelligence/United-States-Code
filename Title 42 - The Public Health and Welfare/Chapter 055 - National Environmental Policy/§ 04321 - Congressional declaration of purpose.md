@@ -10,7 +10,7 @@ Section 1 Pub. L. 91–190 provided: “That this Act \[enacting this chapter\] 
 
 #### Transfer of Functions
 
-Enforcement functions of Secretary or other official in Department of Interior related to compliance with system activities requiring coordination and approval under this chapter, and enforcement functions of Secretary or other official in Department of Agriculture, insofar as they involve lands and programs under jurisdiction of that Department, related to compliance with this chapter with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas transferred to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, until first anniversary of date of initial operation of Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§102(e), (f), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out in the Appendix to Title 5, Government Organization and Employees. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under section 719e of Title 15, Commerce and Trade.
+Enforcement functions of Secretary or other official in Department of the Interior related to compliance with system activities requiring coordination and approval under this chapter, and enforcement functions of Secretary or other official in Department of Agriculture, insofar as they involve lands and programs under jurisdiction of that Department, related to compliance with this chapter with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas transferred to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, until first anniversary of date of initial operation of Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§102(e), (f), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out in the Appendix to Title 5, Government Organization and Employees. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under section 719e of Title 15, Commerce and Trade.
 
 #### Emergency Preparedness Functions
 
@@ -44,7 +44,7 @@ Pub. L. 101–593, title II, Nov. 16, 1990, 104 Stat. 2962, provided that:
 
 #### “SEC. 203. CIVIL INVESTIGATORS.
 
-“The Administrator, as soon as practicable following the date of the enactment of this Act \[Nov. 16, 1990\], but no later than September 30, 1991, shall increase by fifty the number of civil investigators assigned to assist the Office of Enforcement in developing and prosecuting civil and administrative actions and carrying out its other functions.
+“The Administrator, as soon as practicable following the date of the enactment of this Act \[Nov. 16, 1990\],but no later than September 30, 1991, shall increase by fifty the number of civil investigators assigned to assist the Office of Enforcement in developing and prosecuting civil and administrative actions and carrying out its other functions.
 
 #### “SEC. 204. NATIONAL TRAINING INSTITUTE.
 
@@ -108,7 +108,7 @@ Prepared by the President and transmitted to the Senate and the House of Represe
 
 (b) There are hereby transferred to the Agency:
 
-(1) From the Department of the Interior, (i) the Water Pollution Control Advisory Board (33 U.S.C. \[former\] 466f) \[see 33 U.S.C. 1363\], together with itsfunctions, and (ii) the hearing boards provided for in sections 10(c)(4) and 10(f) of the Federal Water Pollution Control Act, as amended (33 U.S.C. \[former\] 466g(c)(4); 466g(f)). The functions of the Secretary of the Interior with respect to being or designating the Chairman of the Water Pollution Control Advisory Board are hereby transferred to the Administrator.
+(1) From the Department of the Interior, (i) the Water Pollution Control Advisory Board (33 U.S.C. \[former\] 466f) \[see 33 U.S.C. 1363\], together with its functions, and (ii) the hearing boards provided for in sections 10(c)(4) and 10(f) of the Federal Water Pollution Control Act, as amended (33 U.S.C. \[former\] 466g(c)(4); 466g(f)). The functions of the Secretary of the Interior with respect to being or designating the Chairman of the Water Pollution Control Advisory Board are hereby transferred to the Administrator.
 
 (2) From the Department of Health, Education, and Welfare, the Air Quality Advisory Board (42 U.S.C. 1857e) \[42 U.S.C. 7417\], together with its functions. The functions of the Secretary of Health, Education, and Welfare with respect to being a member and the Chairman of that Board are hereby transferred to the Administrator.
 
@@ -172,7 +172,7 @@ The Government's environmentally-related activities have grown up piecemeal over
 
 #### ENVIRONMENTAL PROTECTION AGENCY (EPA)
 
-Our national government today is not structured to make a coordinated attack on the pollutants which debase the air we breathe, the water we drink, and the land that grows our food. Indeed, the present governmental structure for dealing with environmental pollution often defies effective and concerted action.
+Our national government today is not structured to make a coordinated attack on the pollutants whichdebase the air we breathe, the water we drink, and the land that grows our food. Indeed, the present governmental structure for dealing with environmental pollution often defies effective and concerted action.
 
 Despite its complexity, for pollution control purposes the environment must be perceived as a single, interrelated system. Present assignments of departmental responsibilities do not reflect this interrelatedness.
 
@@ -230,7 +230,7 @@ Pesticides research and standard-setting programs of the Food and Drug Administr
 
 General ecological research from the Council on Environmental Quality.—This authority to perform studies and research relating to ecological systems would be in addition to EPA's other specific research authorities, and it would help EPA to measure the impact of pollutants. The Council on Environmental Quality would retain its authority to conduct studies and research relating to environmental quality.
 
-Environmental radiation standards programs.—The Atomic Energy Commission is now responsible for establishing environmental radiation standards and emission limits for radioactivity. Those standards have been based largely on broad guidelines recommended by the Federal Radiation Council. The Atomic Energy Commission's authority to set standards for the protection of the general environment from radioactive material would be transferred to the Environmental Protection Agency. The functions of the Federal Radiation Council would also be transferred. AEC would retain responsibility for the implementation and enforcement of radiation standards through its licensing authority.
+Environmental radiation standards programs.—The Atomic Energy Commission is now responsible for establishing environmental radiation standards and emission limits for radioactivity. Those standards have been based largely on broad guidelines recommended by the Federal Radiation Council. The Atomic Energy Commission's authority to set standards for the protection of the general environment from radioactive material would be transferred to the Environmental Protection Agency. The functions of the Federal RadiationCouncil would also be transferred. AEC would retain responsibility for the implementation and enforcement of radiation standards through its licensing authority.
 
 Pesticides registration program of the Agricultural Research Service.—The Department of Agriculture is currently responsible for several distinct functions related to pesticides use. It conducts research on the efficacy of various pesticides as related to other pest control methods and on the effects of pesticides on non-target plants, livestock, and poultry. It registers pesticides, monitors their persistence and carries out an educational program on pesticide use through the extension service. It conducts extensive pest control programs which utilize pesticides.
 
@@ -278,7 +278,7 @@ We face immediate and compelling needs for better protection of life and propert
 
 We also face a compelling need for exploration and development leading to the intelligent use of our marine resources. The global oceans, which constitute nearly three-fourths of the surface of our planet, are today the least-understood, the least-developed, and the least-protected part of our earth. Food from the oceans will increasingly be a key element in the world's fight against hunger. The mineral resources of the ocean beds and of the oceans themselves, are being increasingly tapped to meet the growing world demand. We must understand the nature of these resources, and assure their development without either contaminating the marine environment or upsetting its balance.
 
-Establishment of the National Oceanic and Atmospheric Administration—NOAA—within the Department of Commerce would enable us to approach these tasks in a coordinated way. By employing a unified approach to the problems of the oceans and atmosphere, we can increase our knowledge and expand our opportunities not only in those areas, but in the third major component of our environment, the solid earth, as well.
+Establishment of the National Oceanic and Atmospheric Administration—NOAA—within the Departmentof Commerce would enable us to approach these tasks in a coordinated way. By employing a unified approach to the problems of the oceans and atmosphere, we can increase our knowledge and expand our opportunities not only in those areas, but in the third major component of our environment, the solid earth, as well.
 
 Scattered through various Federal departments and agencies, we already have the scientific, technological, and administrative resources to make an effective, unified approach possible. What we need is to bring them together. Establishment of NOAA would do so.
 
@@ -348,7 +348,7 @@ Drawing these activities together into a single agency would make possible a bal
 
 I expect that NOAA would exercise leadership in developing a national oceanic and atmospheric program of research and development. It would coordinate its own scientific and technical resources with the technical and operational capabilities of other government agencies and private institutions. As important, NOAA would continue to provide those services to other agencies of government, industry and private individuals which have become essential to the efficient operation of our transportation systems, our agriculture and our national security. I expect it to maintain continuing and close liaison with the new Environmental Protection Agency and the Council on Environmental Quality as part of an effort to ensure that environmental questions are dealt with in their totality and they benefit from the full range of the government's technical and human resources.
 
-Authorities who have studied this matter, including the Commission on Marine Science, Engineering and Resources, strongly recommended the creation of a National Advisory Committee for the Oceans. I agree. Consequently, I will request, upon approval of the plan, that the Secretary of Commerce establish a National Advisory Committee for the Oceans and the Atmosphere to advise him on the progress of governmental and private programs in achieving the nation's oceanic and atmospheric objectives.
+Authorities who have studied this matter, including the Commission on Marine Science, Engineering and Resources, strongly recommended the creation of a National Advisory Committee for the Oceans. I agree. Consequently, I will request, upon approval of the plan,that the Secretary of Commerce establish a National Advisory Committee for the Oceans and the Atmosphere to advise him on the progress of governmental and private programs in achieving the nation's oceanic and atmospheric objectives.
 
 #### AN ON-GOING PROCESS
 
@@ -374,7 +374,7 @@ By virtue of the authority vested in me as President of the United States, it is
 
 #### Part I—Cabinet Committee on the Environment
 
-Section 101. <i>Establishment of the Cabinet Committee.</i> (a) There is hereby established the Cabinet Committee on the Environment (hereinafter referred to as “the Cabinet Committee”).
+Section 101. <i>Establishment of the Cabinet Committee</i>. (a) There is hereby established the Cabinet Committee on the Environment (hereinafter referred to as “the Cabinet Committee”).
 
 (b) The President of the United States shall preside over meetings of the Cabinet Committee. The Vice President shall preside in the absence of the President.
 
@@ -404,7 +404,7 @@ Section 101. <i>Establishment of the Cabinet Committee.</i> (a) There is hereby 
 
 (g) The Chairman of the Council on Environmental Quality (established by Public Law 91–190) \[this chapter\] shall assist the President in directing the affairs of the Cabinet Committee.
 
-Sec. 102. <i>Functions of the Cabinet Committee.</i> (a) The Cabinet Committee shall advise and assist the President with respect to environmental quality matters and shall perform such other related duties as the President may from time to time prescribe. In addition thereto, the Cabinet Committee is directed to:
+Sec. 102. <i>Functions of the Cabinet Committee</i>. (a) The Cabinet Committee shall advise and assist the President with respect to environmental quality matters and shall perform such other related duties as the President may from time to time prescribe. In addition thereto, the Cabinet Committee is directed to:
 
 (1) Recommend measures to ensure that Federal policies and programs, including those for development and conservation of natural resources, take adequate account of environmental effects.
 
@@ -422,11 +422,11 @@ Sec. 102. <i>Functions of the Cabinet Committee.</i> (a) The Cabinet Committee s
 
 (8) Facilitate coordination among departments and agencies of the Federal Government in protecting and improving the environment.
 
-(b) The Cabinet Committee shall review plans and actions of Federal agencies affecting outdoor recreation and natural beauty. The Cabinet Committee may conduct studies and make recommendations to the President on matters of policy in the fields of outdoor recreation and natural beauty. In carrying out the foregoing provisions of this subsection, the Cabinet Committee shall, as far as may be practical, advise Federal agencies with respect to the effect of their respective plans and programs on recreation and natural beauty, and may suggest to such agencies ways to accomplish the purposes of this order. For the purposes of this order, plans and programs may include, but are not limited to, those for or affecting: (1) Development, restoration, and preservation of the beauty of the countryside, urban and suburban areas, water resources, wild rivers, scenic roads, parkways and highways, (2) the protection and appropriate management of scenic or primitive areas, natural wonders, historic sites, and recreation areas, (3) the management of Federal land and water resources, including fish and wildlife, to enhance natural beauty and recreational opportunities consistent with other essential uses, (4) cooperation with the States and their local subdivisions and private organizations and individuals in areas of mutual interest, (5) interstate arrangements, including Federal participation where authorized and necessary, and (6) leadership in a nationwide recreation and beautification effort.
+(b) The Cabinet Committee shall review plans and actions of Federal agencies affecting outdoor recreation and natural beauty. The Cabinet Committee may conduct studies and make recommendations to the President on matters of policy in the fields of outdoor recreation and natural beauty. In carrying out the foregoing provisions of this subsection, the Cabinet Committee shall, as far as may be practical, advise Federal agencies with respect to the effect of their respective plans and programs on recreation and natural beauty, and may suggest to such agencies ways to accomplish the purposes of this order. For the purposes of this order, plans and programs may include, but are not limited to, those for or affecting: (1) Development, restoration, and preservation of the beauty of the countryside, urban and suburban areas, water resources, wild rivers, scenic roads, parkways and highways, (2) the protection and appropriate management of scenic or primitive areas, natural wonders, historic sites, and recreation areas, (3) the management of Federal land and water resources, including fish and wildlife, to enhance natural beauty and recreational opportunities consistent with other essential uses, (4) cooperation with the States and their local subdivisions and private organizations and individuals in areas of mutual interest, (5)interstate arrangements, including Federal participation where authorized and necessary, and (6) leadership in a nationwide recreation and beautification effort.
 
-Sec. 103. <i>Coordination.</i> The Secretary of the Interior may make available to the Cabinet Committee for coordination of outdoor recreation the authorities and resources available to him under the Act of May 28, 1963, 77 Stat. 49 \[16 U.S.C. 460<i>l</i> et seq.\], to the extent permitted by law, he may make such authorities and resources available to the Cabinet Committee also for promoting such coordination of other matters assigned to the Cabinet Committee by this order.
+Sec. 103. <i>Coordination</i>. The Secretary of the Interior may make available to the Cabinet Committee for coordination of outdoor recreation the authorities and resources available to him under the Act of May 28, 1963, 77 Stat. 49 \[16 U.S.C. 460<i>l</i> et seq.\], to the extent permitted by law, he may make such authorities and resources available to the Cabinet Committee also for promoting such coordination of other matters assigned to the Cabinet Committee by this order.
 
-Sec. 104. <i>Assistance for the Cabinet Committee.</i> In compliance with provisions of applicable law, and as necessary to serve the purposes of this order, (1) the Council on Environmental Quality (established by Public Law 91–190) \[this chapter\] shall provide or arrange for necessary administrative and staff services, support, and facilities for the Cabinet Committee, and (2) each department and agency which has membership on the Cabinet Committee under Section 101(c) hereof shallfurnish the Cabinet Committee such information and other assistance as may be available.
+Sec. 104. <i>Assistance for the Cabinet Committee</i>. In compliance with provisions of applicable law, and as necessary to serve the purposes of this order, (1) the Council on Environmental Quality (established by Public Law 91–190) \[this chapter\] shall provide or arrange for necessary administrative and staff services, support, and facilities for the Cabinet Committee, and (2) each department and agency which has membership on the Cabinet Committee under Section 101(c) hereof shall furnish the Cabinet Committee such information and other assistance as may be available.
 
 #### Part II—Citizens’ Advisory Committee on Environmental Quality
 
@@ -434,9 +434,9 @@ Sec. 104. <i>Assistance for the Cabinet Committee.</i> In compliance with provis
 
 #### Part III—General Provisions
 
-Sec. 301. <i>Construction.</i> Nothing in this order shall be construed as subjecting any department, establishment, or other instrumentality of the executive branch of the Federal Government or the head thereof, or any function vested by law in or assigned pursuant to law to any such agency or head, to the authority of any other such agency or head or as abrogating, modifying, or restricting any such function in any manner.
+Sec. 301. <i>Construction</i>. Nothing in this order shall be construed as subjecting any department, establishment, or other instrumentality of the executive branch of the Federal Government or the head thereof, or any function vested by law in or assigned pursuant to law to any such agency or head, to the authority of any other such agency or head or as abrogating, modifying, or restricting any such function in any manner.
 
-Sec. 302. <i>Prior bodies and orders.</i> The President's Council on Recreation and Natural Beauty and the Citizens’ Advisory Committee on Recreation and Natural Beauty are hereby terminated and the following are revoked:
+Sec. 302. <i>Prior bodies and orders</i>. The President's Council on Recreation and Natural Beauty and the Citizens’ Advisory Committee on Recreation and Natural Beauty are hereby terminated and the following are revoked:
 
 (1) Executive Order No. 11278 of May 4, 1966.
 
@@ -460,9 +460,9 @@ Ex. Ord. No. 11514, Mar. 5, 1970, 35 F.R. 4247, as amended by Ex. Ord. No. 11991
 
 By virtue of the authority vested in me as President of the United States and in furtherance of the purpose and policy of the National Environmental Policy Act of 1969 (Public Law No. 91–190, approved January 1, 1970) \[this chapter\], it is ordered as follows:
 
-Section 1. <i>Policy.</i> The Federal Government shall provide leadership in protecting and enhancing the quality of the Nation's environment to sustain and enrich human life. Federal agencies shall initiate measures needed to direct their policies, plans and programs so as to meet national environmental goals. The Council on Environmental Quality, through the Chairman, shall advise and assist the President in leading this national effort.
+Section 1. <i>Policy</i>. The Federal Government shall provide leadership in protecting and enhancing the quality of the Nation's environment to sustain and enrich human life. Federal agencies shall initiate measures needed to direct their policies, plans and programs so as to meet national environmental goals. The Council on Environmental Quality, through the Chairman, shall advise and assist the President in leading this national effort.
 
-Sec. 2. <i>Responsibilities of Federal agencies.</i> Consonant with Title I of the National Environmental Policy Act of 1969 \[42 U.S.C. 4331 et seq.\], hereafter referred to as the “Act”, the heads of Federal agencies shall:
+Sec. 2. <i>Responsibilities of Federal agencies</i>. Consonant with Title I of the National Environmental Policy Act of 1969 \[42 U.S.C. 4331 et seq.\], hereafter referred to as the “Act”, the heads of Federal agencies shall:
 
 (a) Monitor, evaluate, and control on a continuing basis their agencies’ activities so as to protect and enhance the quality of the environment. Such activities shall include those directed to controlling pollution and enhancing the environment and those designed to accomplish other program objectives which may affect the quality of the environment. Agencies shall develop programs and measures to protect and enhance environmental quality and shall assess progress in meeting the specific objectives of such activities. Heads of agencies shall consult with appropriate Federal, State and local agencies in carrying out their activities as they affect the quality of the environment.
 
@@ -478,7 +478,7 @@ Sec. 2. <i>Responsibilities of Federal agencies.</i> Consonant with Title I of t
 
 (g) In carrying out their responsibilities under the Act and this Order, comply with the regulations issued by the Council except where such compliance would be inconsistent with statutory requirements.
 
-Sec. 3. <i>Responsibilities of Council on Environmental Quality.</i> The Council on Environmental Quality shall:
+Sec. 3. <i>Responsibilities of Council on Environmental Quality</i>. The Council on Environmental Quality shall:
 
 (a) Evaluate existing and proposed policies and activities of the Federal Government directed to the control of pollution and the enhancement of the environment and to the accomplishment of other objectives which affect the quality of the environment. This shall include continuing review of procedures employed in the development and enforcement of Federal standards affecting environmental quality. Based upon such evaluations the Council shall, where appropriate, recommend to the President policies and programs to achieve more effective protection and enhancement of environmental quality and shall, where appropriate, seek resolution of significant environmental issues.
 
@@ -502,7 +502,7 @@ Sec. 3. <i>Responsibilities of Council on Environmental Quality.</i> The Council
 
 (k) Foster investigations, studies, surveys, research, and analyses relating to (i) ecological systems and environmental quality, (ii) the impact of new and changing technologies thereon, and (iii) means of preventing or reducing adverse effects from such technologies.
 
-Sec. 4. <i>Amendments of E.O. 11472.</i> Executive Order No. 11472 of May 29, 1969, including the heading thereof, is hereby amended:
+Sec. 4. <i>Amendments of E.O. 11472</i>. Executive Order No. 11472 of May 29, 1969, including the heading thereof, is hereby amended:
 
 (1) By substituting for the term “the Environmental Quality Council”, wherever it occurs, the following: “the Cabinet Committee on the Environment”.
 
@@ -528,11 +528,11 @@ Ex. Ord. No. 11523, eff. Apr. 9, 1970, 35 F.R. 5993, provided:
 
 By virtue of the authority vested in me as President of the United States, and in furtherance of the purpose and policy of the National Environmental Policy Act of 1969 (Public Law 91–190, approved January 1, 1970) \[this chapter\], it is ordered as follows:
 
-Section 1. <i>Establishment of the Council.</i> (a) There is hereby established the National Industrial Pollution Control Council (hereinafter referred to as “the Industrial Council”) which shall be composed of a Chairman, a Vice-chairman, and other representatives of business and industry appointed by the Secretary of Commerce (hereinafter referred to as “the Secretary”).
+Section 1. <i>Establishment of the Council</i>. (a) There is hereby established the National Industrial Pollution Control Council (hereinafter referred to as “the Industrial Council”) which shall be composed of a Chairman, a Vice-chairman, and other representatives of business and industry appointed by the Secretary of Commerce (hereinafter referred to as “the Secretary”).
 
 (b) The Secretary, with the concurrence of the Chairman, shall appoint an Executive Director of the Industrial Council.
 
-Sec. 2. <i>Functions of the Industrial Council.</i> The Industrial Council shall advise the President and the Chairman of the Council on Environmental Quality, through the Secretary, on programs of industry relating to the quality of the environment. In particular, the Industrial Council may—
+Sec. 2. <i>Functions of the Industrial Council</i>. The Industrial Council shall advise the President and the Chairman of the Council on Environmental Quality, through the Secretary, on programs of industry relating to the quality of the environment. In particular, the Industrial Council may—
 
 (1) Survey and evaluate the plans and actions of industry in the field of environmental quality.
 
@@ -544,15 +544,15 @@ Sec. 2. <i>Functions of the Industrial Council.</i> The Industrial Council shall
 
 (5) Advise on plans and actions of Federal, State, and local agencies involving environmental quality policies affecting industry which are referred to it by the Secretary, or by the Chairman of the Council on Environmental Quality through the Secretary.
 
-Sec. 3. <i>Subordinate Committees.</i> The Industrial Council may establish, with the concurrence of the Secretary, such subordinate committees as it may deem appropriate to assist in the performance of its functions. Each subordinate committee shall be headed by a chairman appointed by the Chairman of the Industrial Council with the concurrence of the Secretary.
+Sec. 3. <i>Subordinate Committees</i>. The Industrial Council may establish, with the concurrence of the Secretary, such subordinate committees as it may deem appropriate to assist in the performance of its functions. Each subordinate committee shall be headed by a chairman appointed by the Chairman of the Industrial Council with the concurrence of the Secretary.
 
-Sec. 4. <i>Assistance for the Industrial Council.</i> In compliance with applicable law, and as necessary to serve the purposes of this order, the Secretary shall provide or arrange for administrative and staff services, support, and facilities for the Industrial Council and any of its subordinate committees.
+Sec. 4. <i>Assistance for the Industrial Council</i>. In compliance with applicable law, and as necessary to serve the purposes of this order, the Secretary shall provide or arrange for administrative and staff services, support, and facilities for the Industrial Council and any of its subordinate committees.
 
 Sec. 5. <i>Expenses</i>. Members of the Industrial Council or any of its subordinate committees shall receive no compensation from the United States by reason of their services hereunder, but may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by law (5 U.S.C. 5703) for persons in the Government service employed intermittently.
 
 Sec. 6. <i>Regulations</i>. The provisions of Executive Order No. 11007 of February 26, 1962 (3 CFR 573) \[see 5 U.S.C. 901 note\] prescribing regulations for the formation and use of advisory committees, are hereby made applicable to the Industrial Council and each of its subordinate committees. The Secretary may exercise the discretionary powers set forth in that order.
 
-Sec. 7. <i>Construction</i>. Nothing in this order shall be construed as subjecting any Federal agency, or any function vested by law in, or assigned pursuant to law to, any Federal agency to the authority of any other Federal agency or of the Industrial Council or of any of its subordinate committees, or as abrogating or restricting any such function in any manner.
+Sec. 7. <i>Construction</i>. Nothing in this order shall be construed as subjecting any Federal agency, or any function vested by law in, or assigned pursuant to lawto, any Federal agency to the authority of any other Federal agency or of the Industrial Council or of any of its subordinate committees, or as abrogating or restricting any such function in any manner.
 
 Richard Nixon.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -606,7 +606,7 @@ Sec. 8. <i>Monitoring of Effects and Review</i>. (a) The respective agency head 
 
 (b) The Council on Environmental Quality shall maintain a continuing review of the implementation of this order.
 
-Sec. 9. <i>Special Protection of the Public Lands</i>. (a) Notwithstanding the provisions of Section 3 of this Order, the respective agency head shall, whenever he determines that the use of off-road vehicles will cause or is causing considerable adverse effects on the soil, vegetation, wildlife, wildlife habitat or cultural or historic resources of particular areas or trails of the public lands, immediately close such areas or trails to the type of off-road vehicle causing such effects, until such time as he determines that such adverse effects have been eliminated and that measures have been implemented to prevent future recurrence.
+Sec. 9. <i>Special Protection of the Public Lands</i>. (a) Notwithstanding the provisions of Section 3 of this Order, the respective agency head shall, whenever he determines that the use of off-road vehicles will cause or iscausing considerable adverse effects on the soil, vegetation, wildlife, wildlife habitat or cultural or historic resources of particular areas or trails of the public lands, immediately close such areas or trails to the type of off-road vehicle causing such effects, until such time as he determines that such adverse effects have been eliminated and that measures have been implemented to prevent future recurrence.
 
 (b) Each respective agency head is authorized to adopt the policy that portions of the public lands within his jurisdiction shall be closed to use by off-road vehicles except those areas or trails which are suitable and specifically designated as open to such use pursuant to Section 3 of this Order.
 
@@ -614,7 +614,7 @@ Sec. 9. <i>Special Protection of the Public Lands</i>. (a) Notwithstanding the p
 
 Ex. Ord. No. 11987, May 24, 1977, 42 F.R. 26949, provided:
 
-By virtue of the authority vested in me by the Constitution and statutes of the United States of America, and as President of the United States of America, infurtherance of the purposes and policies of the Lacey Act (18 U.S.C. 42) and the National Environmental Policy Act of 1969, as amended (42 U.S.C. 4321 et seq.), it is hereby ordered as follows:
+By virtue of the authority vested in me by the Constitution and statutes of the United States of America, and as President of the United States of America, in furtherance of the purposes and policies of the Lacey Act (18 U.S.C. 42) and the National Environmental Policy Act of 1969, as amended (42 U.S.C. 4321 et seq.), it is hereby ordered as follows:
 
 Section 1. As used in this Order:
 
@@ -660,7 +660,7 @@ Sec. 2. In carrying out the activities described in Section 1 of this Order, eac
 
 (b) Any requests for new authorizations or appropriations transmitted to the Office of Management and Budget shall indicate, if an action to be proposed will be located in a floodplain, whether the proposed action is in accord with this Order.
 
-(c) Each agency shall take floodplain management into account when formulating or evaluating any water and land use plans and shall require land and water resources use appropriate to the degree of hazard involved. Agencies shall include adequate provision for the evaluation and consideration of flood hazards in the regulations and operating procedures for the licenses,permits, loan or grants-in-aid programs that they administer. Agencies shall also encourage and provide appropriate guidance to applicants to evaluate the effects of their proposals in floodplains prior to submitting applications for Federal licenses, permits, loans or grants.
+(c) Each agency shall take floodplain management into account when formulating or evaluating any water and land use plans and shall require land and water resources use appropriate to the degree of hazard involved. Agencies shall include adequate provision for the evaluation and consideration of flood hazards in the regulations and operating procedures for the licenses, permits, loan or grants-in-aid programs that they administer. Agencies shall also encourage and provide appropriate guidance to applicants to evaluate the effects of their proposals in floodplains prior to submitting applications for Federal licenses, permits, loans or grants.
 
 (d) As allowed by law, each agency shall issue or amend existing regulations and procedures within one year to comply with this Order. These procedures shall incorporate the Unified National Program for Floodplain Management of the Water Resources Council, and shall explain the means that the agency will employ to pursue the nonhazardous use of riverine, coastal and other floodplains in connection with the activities under its authority. To the extent possible, existing processes, such as those of the Council on Environmental Quality and the Water Resources Council, shall be utilized to fulfill the requirements of this Order. Agencies shall prepare their procedures in consultation with the Water Resources Council, the Director of the Federal Emergency Management Agency, and the Council on Environmental Quality, and shall update such procedures as necessary.
 
@@ -700,7 +700,7 @@ Ex. Ord. No. 11990, May 24, 1977, 42 F.R. 26961, as amended by Ex. Ord. No. 1260
 
 By virtue of the authority vested in me by the Constitution and statutes of the United States of America, and as President of the United States of America, in furtherance of the National Environmental Policy Act of 1969, as amended (42 U.S.C. 4321 <i>et seq</i>.), in order to avoid to the extent possible the long and short term adverse impacts associated with the destruction or modification of wetlands and to avoid direct or indirect support of new construction in wetlands wherever there is a practicable alternative, it is hereby ordered as follows:
 
-Section 1. (a) Each agency shall provide leadership and shall take action to minimize the destruction, loss or degradation of wetlands, and to preserve and enhance the natural and beneficial values of wetlands in carrying out the agency's responsibilities for (1) acquiring, managing, and disposing of Federal lands and facilities; and (2) providing Federally undertaken, financed, or assisted construction and improvements; and (3) conducting Federal activities and programs affecting land use, including but not limited to water and related land resources planning, regulating, and licensing activities.
+Section 1. (a) Each agency shall provide leadership and shall take action to minimize the destruction, loss or degradation of wetlands, and to preserve and enhance the natural and beneficial values of wetlands in carrying out the agency's responsibilities for (1) acquiring, managing, and disposing of Federal lands and facilities; and (2) providing Federally undertaken, financed, or assisted construction and improvements; and (3) conducting Federal activities and programs affecting land use, including but not limited to water andrelated land resources planning, regulating, and licensing activities.
 
 (b) This Order does not apply to the issuance by Federal agencies of permits, licenses, or allocations to private parties for activities involving wetlands on non-Federal property.
 
@@ -740,7 +740,7 @@ Sec. 10. To the extent the provisions of Sections 2 and 5 of this Order are appl
 
 Ex. Ord. No. 12088, Oct. 13, 1978, 43 F.R. 47707, as amended by Ex. Ord. No. 12580, Jan. 23, 1987, 52 F.R. 2928, provided:
 
-By the authority vested in me as President by the Constitution and statutes of the United States of America, including Section 22 of the Toxic Substances Control Act (15 U.S.C. 2621), Section 313 of the Federal Water Pollution Control Act, as amended (33 U.S.C. 1323), Section 1447 of the Public Health Service Act, as amended by the Safe Drinking Water Act (42 U.S.C. 300j–6), Section 118 of the Clean Air Act, as amended (42 U.S.C. 7418(b)), Section 4 of the Noise Control Act of 1972 (42 U.S.C. 4903), Section 6001 of the Solid Waste Disposal Act, as amended (42 U.S.C. 6961), and Section 301 of Title 3 of the United States Code, and to ensure Federal compliance with applicable pollution control standards, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and statutes of the United States of America, including Section 22 of the Toxic Substances Control Act (15 U.S.C. 2621), Section 313 of the Federal Water Pollution Control Act, as amended (33 U.S.C. 1323), Section 1447 of the Public Health Service Act, as amended by the Safe Drinking Water Act \[now Safe Drinking Water Act of 1974\] (42 U.S.C. 300j–6), Section 118 of the Clean Air Act, as amended (42 U.S.C. 7418(b)), Section 4 of the Noise Control Act of 1972 (42 U.S.C. 4903), Section 6001 of the Solid Waste Disposal Act, as amended (42 U.S.C. 6961), and Section 301 of Title 3 of the United States Code, and to ensure Federal compliance with applicable pollution control standards, it is hereby ordered as follows:
 
 #### 1–1. Applicability of Pollution Control Standards
 
@@ -752,7 +752,7 @@ By the authority vested in me as President by the Constitution and statutes of t
 
 (b) Federal Water Pollution Control Act, as amended (33 U.S.C. 1251 et seq.).
 
-(c) Public Health Service Act, as amended by the Safe Drinking Water Act (42 U.S.C. 300f et seq.).
+(c) Public Health Service Act, as amended by the Safe Drinking Water Act \[now Safe Drinking Water Act of 1974\] (42 U.S.C. 300f et seq.).
 
 (d) Clean Air Act, as amended (42 U.S.C. 7401 et seq.).
 
@@ -760,7 +760,7 @@ By the authority vested in me as President by the Constitution and statutes of t
 
 (f) Solid Waste Disposal Act, as amended (42 U.S.C. 6901 et seq.).
 
-(g) Radiation guidance pursuant to Section 274(h) of the Atomic Energy Act of 1954, as amended (42 U.S.C. 2021(h); see also, the Radiation Protection Guidance to Federal Agencies for Diagnostic X Rays approved by the President on January 26, 1978 and published at page 4377 of the Federal Register on February 1, 1978).
+(g) Radiation guidance pursuant to Section 274(h) of the Atomic Energy Act of 1954, as amended (42 U.S.C. 2021(h); see also, the Radiation Protection Guidance toFederal Agencies for Diagnostic X Rays approved by the President on January 26, 1978 and published at page 4377 of the Federal Register on February 1, 1978).
 
 (h) Marine Protection, Research, and Sanctuaries Act of 1972, as amended (33 U.S.C. 1401, 1402, 1411–1421, 1441–1444 and 16 U.S.C. 1431–1434) \[16 U.S.C. 1431 et seq., 1447 et seq.; 33 U.S.C. 1401 et seq., 2801 et seq.\].
 
@@ -832,7 +832,7 @@ By virtue of the authority vested in me by the Constitution and the laws of the 
 
 #### Section 1
 
-1–1. <i>Purpose and Scope</i>. The purpose of this Executive Order is to enable responsible officials of Federal agencies having ultimate responsibility for authorizing and approving actions encompassed by this Order to be informed of pertinent environmental considerations and to take such considerations into account, with other pertinent considerations of national policy, in making decisions regarding such actions. While based on independent authority, this Order furthers the purpose of the National Environmental Policy Act \[42 U.S.C. 4321 et seq.\] and the Marine Protection Research and Sanctuaries Act \[16 U.S.C. 1431 et seq. and 33 U.S.C. 1401 et seq.\] and the Deepwater Port Act \[33 U.S.C. 1501 et seq.\] consistent with the foreign policy and national security policy of the United States, and represents the United States government's exclusive and complete determination of the procedural and other actions to be taken by Federal agencies to further the purpose of the National Environmental Policy Act, with respect to the environment outside the United States, its territories and possessions.
+1–1. <i>Purpose and Scope</i>. The purpose of this Executive Order is to enable responsible officials of Federal agencies having ultimate responsibility for authorizing and approving actions encompassed by this Order to be informed of pertinent environmental considerations and to take such considerations into account, with other pertinent considerations of national policy, in making decisions regarding such actions. While based on independent authority, this Order furthers the purpose of the National Environmental Policy Act \[42 U.S.C. 4321 et seq.\] and the Marine Protection Research and Sanctuaries Act \[16 U.S.C. 1431 et seq. and 33 U.S.C. 1401 et seq.\] and the Deepwater Port Act \[33 U.S.C. 1501 et seq.\]consistent with the foreign policy and national security policy of the United States, and represents the United States government's exclusive and complete determination of the procedural and other actions to be taken by Federal agencies to further the purpose of the National Environmental Policy Act, with respect to the environment outside the United States, its territories and possessions.
 
 #### Section 2
 
@@ -924,7 +924,7 @@ In order to avoid duplication of resources, agencies in their procedures shall p
 
 #### Section 3
 
-3–1. <i>Rights of Action</i>. This Order is solely for the purpose of establishing internal procedures for Federalagencies to consider the significant effects of their actions on the environment outside the United States, its territories and possessions, and nothing in this Order shall be construed to create a cause of action.
+3–1. <i>Rights of Action</i>. This Order is solely for the purpose of establishing internal procedures for Federal agencies to consider the significant effects of their actions on the environment outside the United States, its territories and possessions, and nothing in this Order shall be construed to create a cause of action.
 
 3–2. <i>Foreign Relations</i>. The Department of State shall coordinate all communications by agencies with foreign governments concerning environmental agreements and other arrangements in implementation of this Order.
 
@@ -980,7 +980,7 @@ Ex. Ord. No. 12852, June 29, 1993, 58 F.R. 35841, as amended by Ex. Ord. No. 128
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 301 of title 3, United States Code, it is hereby ordered as follows:
 
-Section 1. <i>Establishment</i>. There is established the “President's Council on Sustainable Development” (“Council”). The Council shall consist of not more than 29 members to be appointed by the President from the public and private sectors and who represent industrial, environmental, governmental, and not-for-profit organizations with experience relating to matters of sustainable development. The President shall designate from among the Council members such official or officials to be chairperson, chairpersons, vice-chairperson, or vice-chairpersons of the Council as he shall deem appropriate. The Council shall coordinate with and report to such officials of the executive branch as the President or the Director of the White House Office on Environmental Policy shall from time to time determine.
+Section 1. <i>Establishment</i>. There is established the “President's Council on Sustainable Development” (“Council”). The Council shall consist of not more than 29 members to be appointed by the President from the public and private sectors and who represent industrial,environmental, governmental, and not-for-profit organizations with experience relating to matters of sustainable development. The President shall designate from among the Council members such official or officials to be chairperson, chairpersons, vice-chairperson, or vice-chairpersons of the Council as he shall deem appropriate. The Council shall coordinate with and report to such officials of the executive branch as the President or the Director of the White House Office on Environmental Policy shall from time to time determine.
 
 Sec. 2. <i>Functions</i>. (a) The Council shall advise the President on matters involving sustainable development. “Sustainable development” is broadly defined as economic growth that will benefit present and future generations without detrimentally affecting the resources or biological systems of the planet.
 
@@ -988,7 +988,7 @@ Sec. 2. <i>Functions</i>. (a) The Council shall advise the President on matters 
 
 (c) The chairperson or chairpersons may, from time to time, invite experts to submit information to the Council and may form subcommittees of the Council to review and report to the Council on the development of national and local sustainable development plans.
 
-Sec. 3. <i>Administration</i>. (a) The heads of executive agencies shall, to the extent permitted by law, provideto the Council such information with respect to sustainable development as the Council requires to carry out its functions.
+Sec. 3. <i>Administration</i>. (a) The heads of executive agencies shall, to the extent permitted by law, provide to the Council such information with respect to sustainable development as the Council requires to carry out its functions.
 
 (b) Members of the Council shall serve without compensation, but shall be allowed travel expenses, including per diem in lieu of subsistence, as authorized by law for persons serving intermittently in the Government service (5 U.S.C. 5701–5707).
 
@@ -1040,7 +1040,7 @@ Section 1–1. IMPLEMENTATION.
 
 (e) By March 24, 1995, each Federal agency shall finalize its environmental justice strategy and provide a copy and written description of its strategy to the Working Group. From the date of this order through March 24, 1995, each Federal agency, as part of its environmental justice strategy, shall identify several specific projects that can be promptly undertaken to address particular concerns identified during the development of the proposed environmental justice strategy, and a schedule for implementing those projects.
 
-(f) Within 24 months of the date of this order, each Federal agency shall report to the Working Group onits progress in implementing its agency-wide environmental justice strategy.
+(f) Within 24 months of the date of this order, each Federal agency shall report to the Working Group on its progress in implementing its agency-wide environmental justice strategy.
 
 (g) Federal agencies shall provide additional periodic reports to the Working Group as requested by the Working Group.
 
@@ -1082,7 +1082,7 @@ Sec. 6–6. GENERAL PROVISIONS.
 
 6–601. <i>Responsibility for Agency Implementation</i>. The head of each Federal agency shall be responsible for ensuring compliance with this order. Each Federal agency shall conduct internal reviews and take such other steps as may be necessary to monitor compliance with this order.
 
-6–602. <i>Executive Order No. 12250</i>. This Executive order is intended to supplement but not supersede Executive Order No. 12250 \[42 U.S.C. 2000d–1 note\], which requires consistent and effective implementation of various laws prohibiting discriminatory practices in programs receiving Federal financial assistance. Nothing herein shall limit the effect or mandate of Executive Order No. 12250.
+6–602. <i>Executive Order No. 12250</i>. This Executive order is intended to supplement but not supersede ExecutiveOrder No. 12250 \[42 U.S.C. 2000d–1 note\], which requires consistent and effective implementation of various laws prohibiting discriminatory practices in programs receiving Federal financial assistance. Nothing herein shall limit the effect or mandate of Executive Order No. 12250.
 
 6–603. <i>Executive Order No. 12875</i>. This Executive order is not intended to limit the effect or mandate of Executive Order No. 12875 \[5 U.S.C. 601 note\].
 
@@ -1090,7 +1090,7 @@ Sec. 6–6. GENERAL PROVISIONS.
 
 6–605. <i>Petitions for Exemptions</i>. The head of a Federal agency may petition the President for an exemption from the requirements of this order on the grounds that all or some of the petitioning agency's programs or activities should not be subject to the requirements of this order.
 
-6–606. <i>Native American Programs</i>. Each Federal agency responsibility set forth under this order shall apply equally to Native American programs. In addition, theDepartment of the Interior, in coordination with the Working Group, and, after consultation with tribal leaders, shall coordinate steps to be taken pursuant to this order that address Federally-recognized Indian Tribes.
+6–606. <i>Native American Programs</i>. Each Federal agency responsibility set forth under this order shall apply equally to Native American programs. In addition, the Department of the Interior, in coordination with the Working Group, and, after consultation with tribal leaders, shall coordinate steps to be taken pursuant to this order that address Federally-recognized Indian Tribes.
 
 6–607. <i>Costs</i>. Unless otherwise provided by law, Federal agencies shall assume the financial costs of complying with this order.
 

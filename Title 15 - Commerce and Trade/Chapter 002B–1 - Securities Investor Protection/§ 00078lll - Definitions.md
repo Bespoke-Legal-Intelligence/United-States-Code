@@ -16,7 +16,7 @@ For purposes of this chapter, including the application of the Bankruptcy Act to
 
 #### (3) Customer name securities
 
-&emsp;The term “customer name securities” means securities which were held for the account of a customer on the filing date by or on behalf of the debtor and which on the filing date were registered in the name of the customer, or were in the process of being so registered pursuant to instructions from the debtor, but does not include securities registered in thename of the customer which, by endorsement or otherwise, were in negotiable form.
+&emsp;The term “customer name securities” means securities which were held for the account of a customer on the filing date by or on behalf of the debtor and which on the filing date were registered in the name of the customer, or were in the process of being so registered pursuant to instructions from the debtor, but does not include securities registered in the name of the customer which, by endorsement or otherwise, were in negotiable form.
 
 #### (4) Customer property
 
@@ -56,7 +56,7 @@ For purposes of this chapter, including the application of the Bankruptcy Act to
 
 &emsp;The term “gross revenues from the securities business” means the sum of (but without duplication)—
 
-&emsp;&emsp;(A) commissions earned in connection with transactions in securities effected for customers as agent (net of commissions paid to other brokers and dealers in connection with such transactions) and markups with respect to purchases or sales of securities as principal;
+&emsp;&emsp;(A) commissions earned in connection with transactions in securities effected for customers as agent (net of commissions paid toother brokers and dealers in connection with such transactions) and markups with respect to purchases or sales of securities as principal;
 
 &emsp;&emsp;(B) charges for executing or clearing transactions in securities for other brokers and dealers;
 

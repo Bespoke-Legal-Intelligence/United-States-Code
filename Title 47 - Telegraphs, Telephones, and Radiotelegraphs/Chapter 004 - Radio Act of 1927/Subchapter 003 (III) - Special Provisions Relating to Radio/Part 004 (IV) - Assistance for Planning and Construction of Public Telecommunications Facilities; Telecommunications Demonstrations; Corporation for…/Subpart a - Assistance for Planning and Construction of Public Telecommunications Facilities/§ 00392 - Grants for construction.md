@@ -96,7 +96,7 @@ Amendment by Pub. L. 95–567 effective Nov. 2, 1978, see section 403 of Pub. L.
 
 #### Effective Date of 1967 Amendment
 
-Section 102 of Pub. L. 90–129 provided that the amendment made by that section is effective with respect togrants made from appropriations for any fiscal year beginning after June 30, 1967.
+Section 102 of Pub. L. 90–129 provided that the amendment made by that section is effective with respect to grants made from appropriations for any fiscal year beginning after June 30, 1967.
 
 #### Administration of Grants
 

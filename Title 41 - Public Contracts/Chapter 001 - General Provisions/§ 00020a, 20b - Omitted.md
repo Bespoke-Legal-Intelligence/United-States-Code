@@ -1,8 +1,0 @@
-### §§20a, 20b. Omitted
-
-#### Codification
-
-Section 20a, act June 15, 1940, ch. 367, 54 Stat. 398, provided exemption from section 20 of this title for contracts, etc., concerning national-forest lands.
-
-Section 20b, act Nov. 28, 1943, ch. 328, 57 Stat. 592, provided exemption from section 20 of this title for contracts, etc., concerning use of lands or water under jurisdiction of Department of the Interior.
-

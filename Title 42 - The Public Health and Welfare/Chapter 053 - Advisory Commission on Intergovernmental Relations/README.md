@@ -28,6 +28,16 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### Continuation and Termination of Commission To Perform Contracts for Research on Social and Economic Impacts of Gambling
+
+Pub. L. 104–328, §1, Oct. 19, 1996, 110 Stat. 4004, provided that:
+
+“(a) Notwithstanding the provision under the heading ‘
+
+advisory commission on intergovernmental relations’ under title IV of the Treasury, Postal Service, and General Government Appropriations Act, 1996 (Public Law 104–52; 109 Stat. 480) \[set out below\], the Advisory Commission on Intergovernmental Relations may continue in existence solely for the purpose of performing any contract entered into under section 7(a) of the National Gambling Impact Study Commission Act (Public Law 104–169; 110 Stat. 1487) \[set out in a note under section 1955 of Title 18, Crimes and Criminal Procedure\]. The Advisory Commission on Intergovernmental Relations shall terminate on the date of the completion of such contract.
+
+“(b) The Advisory Commission on Intergovernmental Relations and employees of the Commission who are considered to be Federal employees under section 6(e) of Public Law 96–380 (42 U.S.C. 4276(e)) shall make contributions to and participate in Federal health insurance, life insurance, and retirement programs to the same extent and in the same manner as before the date of enactment of this section \[Oct. 19, 1996\]. The Commission shall make any such contributions from funds received through contracts.”
+
 #### Appropriations; Unfunded Mandates; Termination of Advisory Commission on Intergovernmental Relations
 
 Pub. L. 104–52, title IV, Nov. 19, 1995, 109 Stat. 480, provided in part that: “For necessary expenses of the Advisory Commission on Intergovernmental Relations, $784,000, of which $334,000 is to carry out the provisions of Public Law 104–4 \[see Short Title note set out under section 1501 of Title 2, The Congress\], and of which $450,000 shall be available only for the purposes of the prompt and orderly termination of the Advisory Commission on Intergovernmental Relations.”

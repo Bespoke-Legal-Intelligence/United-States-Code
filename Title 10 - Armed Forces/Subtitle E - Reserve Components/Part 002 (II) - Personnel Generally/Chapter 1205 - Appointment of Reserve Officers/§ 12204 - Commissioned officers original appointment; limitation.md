@@ -8,7 +8,7 @@
 
 (b) This section does not apply to adjutants general and assistant adjutants general of the several States and Territories, Puerto Rico, and the District of Columbia.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 25, §594; Sept. 29, 1988, Pub. L. 100–456, div. A, title XII, §1234(a)(1), 102 Stat. 2059; renumbered §12204,Oct. 5, 1994, Pub. L. 103–337, div. A, title XVI, §1662(c)(2), 108 Stat. 2990.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 25, §594; Sept. 29, 1988, Pub. L. 100–456, div. A, title XII,§1234(a)(1), 102 Stat. 2059; renumbered §12204, Oct. 5, 1994, Pub. L. 103–337, div. A, title XVI, §1662(c)(2), 108 Stat. 2990.)
 
 Historical and Revision Notes
 

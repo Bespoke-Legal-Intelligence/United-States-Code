@@ -58,13 +58,15 @@ The Secretary of Defense shall include in the annual report of the Secretary to 
 
 &emsp;&emsp;(C) the number of times in which action was taken without exercise of the waiver authority compared with the number of times waiver authority was exercised (in the case of each waiver authority under this chapter or under any other provision of law which permits the waiver of any requirement relating to joint duty assignments).
 
-&emsp;(16) During the period of the applicability of the first sentence of subparagraph (B) of section 661(d)(2) of this title, information on critical positions not filled by officers with the joint specialty, including—
+&emsp;(16) The number of officers granted credit for service in joint duty assignments under section 664(i) of this title and—
 
-&emsp;&emsp;(A) a listing by organization of the joint duty assignment positions which were not filled by officers with the joint specialty;
+&emsp;&emsp;(A) of those officers—
 
-&emsp;&emsp;(B) an explanation of the reasons such positions were not filled by officers with the joint specialty, described by the categories of such reasons; and
+&emsp;&emsp;&emsp;(i) the number of officers credited with having completed a tour of duty in a joint duty assignment; and
 
-&emsp;&emsp;(C) the percentage of critical joint duty assignment positions held by officers who have the joint specialty.
+&emsp;&emsp;&emsp;(ii) the number of officers granted credit for purposes of determining cumulative service in joint duty assignments; and
+
+&emsp;&emsp;(B) the identity of each operation for which an officer has been granted credit pursuant to section 664(i) of this title and a brief description of the mission of the operation.
 
 &emsp;(17) With regard to each time the principal course of instruction at the Armed Forces Staff College is offered—
 
@@ -78,9 +80,17 @@ The Secretary of Defense shall include in the annual report of the Secretary to 
 
 &emsp;(18) Such other information and comparative data as the Secretary of Defense considers appropriate to demonstrate the performance of the Department of Defense and the performance of each military department in carrying out this chapter.
 
-(Added Pub. L. 99–433, title IV, §401(a), Oct. 1, 1986, 100 Stat. 1029; amended Pub. L. 100–180, div. A, title XIII, §1304(a), Dec. 4, 1987, 101 Stat. 1172; Pub. L. 100–456, div. A, title V, §512(b), Sept. 29, 1988, 102 Stat. 1968; Pub. L. 101–189, div. A, title XI, §1123(d), Nov. 29, 1989, 103 Stat. 1557.)
+(Added Pub. L. 99–433, title IV, §401(a), Oct. 1, 1986, 100 Stat. 1029; amended Pub. L. 100–180, div. A, title XIII, §1304(a), Dec. 4, 1987, 101 Stat. 1172; Pub. L. 100–456, div. A, title V, §512(b), Sept. 29, 1988, 102 Stat. 1968; Pub. L. 101–189, div. A, title XI, §1123(d), Nov. 29, 1989, 103 Stat. 1557; Pub. L. 104–106, div. A, title V, §501(c), Feb. 10, 1996, 110 Stat. 292.)
 
 #### Amendments
+
+1996—Par. (16). Pub. L. 104–106 added par. (16) and struck out former par. (16) which read as follows: “During the period of the applicability of the first sentence of subparagraph (B) of section 661(d)(2) of this title, information on critical positions not filled by officers with the joint specialty, including—
+
+&emsp;“(A) a listing by organization of the joint duty assignment positions which were not filled by officers with the joint specialty;
+
+&emsp;“(B) an explanation of the reasons such positions were not filled by officers with the joint specialty, described by the categories of such reasons; and
+
+&emsp;“(C) the percentage of critical joint duty assignment positions held by officers who have the joint specialty.”
 
 1989—Pars. (17), (18). Pub. L. 101–189 added par. (17) and redesignated former par. (17) as (18).
 
@@ -127,4 +137,8 @@ Pub. L. 103–160, div. A, title IX, §931(e), Nov. 30, 1993, 107 Stat. 1734, pr
 &emsp;“(1) The degree of progress made toward meeting the requirements of section 619a of title 10, United States Code.
 
 &emsp;“(2) The compliance achieved with each of the plans developed pursuant to subsection (d) \[set out as a note under section 619a of this title\].”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 664 of this title.
 

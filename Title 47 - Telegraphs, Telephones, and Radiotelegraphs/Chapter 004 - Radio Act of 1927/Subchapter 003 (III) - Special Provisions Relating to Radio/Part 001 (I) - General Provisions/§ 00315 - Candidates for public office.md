@@ -56,7 +56,7 @@ Subsecs. (c) to (g). Pub. L. 92–225, §104(c), added subsecs. (c) to (f) and r
 
 #### Repeals
 
-Repeal of title I of Pub. L. 92–225, cited as a credit to this section, by Pub. L. 93–443, title II, §205(b), Oct. 15, 1974, 88 Stat. 1278, has been construed as not repealing the amendments to this section made by sections 103(a)(1), (2)(B), and 104(c) of such title I.
+Repeal of title I of Pub. L. 92–225, cited as a credit to this section, by Pub. L. 93–443, title II, §205(b), Oct. 15,1974, 88 Stat. 1278, has been construed as not repealing the amendments to this section made by sections 103(a)(1), (2)(B), and 104(c) of such title I.
 
 #### Effective Date of 1974 Amendment
 
@@ -70,9 +70,7 @@ Section 2 of Pub. L. 86–274 provided that:
 
 “(b) To assist the Congress in making its reexaminations of such amendment, the Federal Communications Commission shall include in each annual report it makes to Congress a statement setting forth (1) the information and data used by it in determining questions arising from or connected with such amendment, and (2) such recommendations as it deems necessary in the public interest.”
 
-#### Suspension of Equal Time Provisions for 1960
-
-Campaign
+#### Suspension of Equal Time Provisions for 1960 Campaign
 
 Pub. L. 86–677, Aug. 24, 1960, 74 Stat. 554, suspended that part of subsec. (a) of this section, which requires any licensee of a broadcast station who permits any person who is a legally qualified candidate for any public office to use a broadcasting station to afford equal opportunities to all other such candidates for that office in the use of such broadcasting station, for the period of the 1960 presidential and vice presidential campaigns with respect to nominees for the offices of President and Vice President of the United States. The Federal Communications Commission was directed to make a report to the Congress, not later than March 1, 1961, with respect to the effect of the provisions of Pub. L. 86–677 and any recommendations the Commission might have for amendments to this chapter as a result of experience under the provisions of Pub. L. 86–677.
 

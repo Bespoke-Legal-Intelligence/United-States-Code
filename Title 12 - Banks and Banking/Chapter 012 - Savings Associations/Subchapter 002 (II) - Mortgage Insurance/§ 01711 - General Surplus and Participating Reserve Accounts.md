@@ -2,7 +2,7 @@
 
 #### (a) Establishment; abolishment of General Reinsurance Account
 
-The Secretary shall establish as of July 1, 1954, in the Mutual Mortgage Insurance Fund a General Surplus Account and a Participating Reserve Account. All of the assets of the General Reinsurance Account shall be transferred to the General Surplus Account whereupon the General Reinsurance Account shall be abolished. There shall be transferred from the various group accounts to the Participating Reserve Account as of July 1, 1954, an amount equal to the aggregate amount which would have been distributed under the provisions of this section in effect on June 30, 1954, if all outstanding mortgages in such group accounts had been paid in full on said date. All of the remaining balances of said group accounts shall as of said date be transferred to the General Surplus Account whereupon all of said group accounts shall be abolished.
+The Secretary shall establish as of July 1, 1954, in the Mutual Mortgage Insurance Fund a General Surplus Account and a Participating Reserve Account. All of the assets of the General Reinsurance Account shall be transferred to the General Surplus Account whereupon the General Reinsurance Account shall be abolished. Thereshall be transferred from the various group accounts to the Participating Reserve Account as of July 1, 1954, an amount equal to the aggregate amount which would have been distributed under the provisions of this section in effect on June 30, 1954, if all outstanding mortgages in such group accounts had been paid in full on said date. All of the remaining balances of said group accounts shall as of said date be transferred to the General Surplus Account whereupon all of said group accounts shall be abolished.
 
 #### (b) Credits and charges
 
@@ -56,7 +56,7 @@ The Secretary shall provide for an independent actuarial study of the Mutual Mor
 
 &emsp;(D) avoiding adverse selection.
 
-(June 27, 1934, ch. 847, title II, §205, 48 Stat. 1250; May 28, 1935, ch. 150, §29(b), 49 Stat. 300; Feb. 3, 1938, ch. 13, §3, 52 Stat. 15; June 3, 1939, ch. 175, §11, 53 Stat. 807; Apr. 20, 1950, ch. 94, title I, §122, 64 Stat. 59; June 30, 1953, ch. 170, §4, 67 Stat. 122; Aug. 2, 1954, ch. 649, title I, §114, 68 Stat. 594; May 25, 1967, Pub. L. 90–19, §1(a)(3), 81 Stat. 17; Nov. 5, 1990, Pub. L. 101–508, title II, §§2104, 2105, 104 Stat. 1388–19; Oct. 28, 1992, Pub. L. 102–550, title V, §508(a), 106 Stat. 3782.)
+(June 27, 1934, ch. 847, title II, §205, 48 Stat. 1250; May 28, 1935, ch. 150, §29(b), 49 Stat. 300; Feb. 3,1938, ch. 13, §3, 52 Stat. 15; June 3, 1939, ch. 175, §11, 53 Stat. 807; Apr. 20, 1950, ch. 94, title I, §122, 64 Stat. 59; June 30, 1953, ch. 170, §4, 67 Stat. 122; Aug. 2, 1954, ch. 649, title I, §114, 68 Stat. 594; May 25, 1967, Pub. L. 90–19, §1(a)(3), 81 Stat. 17; Nov. 5, 1990, Pub. L. 101–508, title II, §§2104, 2105, 104 Stat. 1388–19; Oct. 28, 1992, Pub. L. 102–550, title V, §508(a), 106 Stat. 3782.)
 
 #### References in Text
 

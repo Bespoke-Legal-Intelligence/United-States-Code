@@ -39,7 +39,7 @@ Civil rights, Federally assisted programs, see section 2000d et seq. of this tit
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 290cc–33, 300w–7, 300x–57, 708, 1437v, 1437w, 1437aaa–1, 1437aaa–2, 1760, 2000d–7, 3608, 5057, 5309, 6727, 8625, 9906, 10406, 11386, 11394, 12635, 12832, 12872, 12873, 12892, 12893, 12899b, 12899c of this title; title 20 sections 1221, 1231e, 8066; title 29 section 1577; title 31 section 6711.
+This chapter is referred to in sections 290cc–33, 300w–7, 300x–57, 608, 708, 1437v, 1437w, 1437aaa–1, 1437aaa–2, 1760, 2000d–7, 3608, 5057, 5309, 6727, 8625, 9906, 10406, 11386, 11394, 12635, 12832, 12872, 12873, 12892, 12893, 12899b, 12899c of this title; title 20 sections 1221, 1231e, 8066; title 29 section 1577; title 31 section 6711.
 
 
 ---

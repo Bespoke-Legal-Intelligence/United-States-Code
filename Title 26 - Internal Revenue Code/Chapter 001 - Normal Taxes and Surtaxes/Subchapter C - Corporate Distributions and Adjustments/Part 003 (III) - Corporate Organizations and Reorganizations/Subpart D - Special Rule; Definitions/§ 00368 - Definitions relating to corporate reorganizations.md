@@ -328,5 +328,5 @@ Transferred assets, other taxes, see section 6901 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 108, 171, 247, 249, 279, 306, 312, 351, 354, 355, 357, 367, 381, 382, 384, 402, 453, 512, 542, 995, 1042, 1202, 1244, 1278, 4912, 4920, 4978, 4978B, 6166, 6901 of this title; title 12 section 1717.
+This section is referred to in sections 108, 171, 247, 249, 279, 306, 312, 351, 354, 355, 357, 367, 381, 382, 384, 402, 453, 512, 542, 584, 995, 1042, 1202, 1244, 1278, 4912, 4920, 4978, 6166, 6901 of this title; title 12 section 1717.
 

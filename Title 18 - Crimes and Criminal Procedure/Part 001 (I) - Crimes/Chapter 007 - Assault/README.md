@@ -7,10 +7,13 @@
 | [113\.](%C2%A7%2000113%20-%20Assaults%20within%20maritime%20and%20territorial%20jurisdiction.md) | Assaults within maritime and territorial jurisdiction. |
 | [114\.](%C2%A7%2000114%20-%20Maiming%20within%20maritime%20and%20territorial%20jurisdiction.md) | Maiming within maritime and territorial jurisdiction. |
 | [115\.](%C2%A7%2000115%20-%20Influencing%2C%20impeding%2C%20or%20retaliating%20against%20a%20Federal%20official%20by%20threatening%20or%20injuring%20a%20family%20member.md) | Influencing, impeding, or retaliating against a Federal official by threatening or injuring a family member. |
+| [116\.](%C2%A7%2000116%20-%20Female%20genital%20mutilation.md) | Female genital mutilation. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1996—Pub. L. 104–208, div. C, title VI, §645(b)(2), Sept. 30, 1996, 110 Stat. 3009–709, added item 116.
 
 1984—Pub. L. 98–473, title II, §1008(b), Oct. 12, 1984, 98 Stat. 2140, added item 115.
 
@@ -30,3 +33,4 @@
 - [&sect; 00113 - Assaults within maritime and territorial jurisdiction](%C2%A7%2000113%20-%20Assaults%20within%20maritime%20and%20territorial%20jurisdiction.md)
 - [&sect; 00114 - Maiming within maritime and territorial jurisdiction](%C2%A7%2000114%20-%20Maiming%20within%20maritime%20and%20territorial%20jurisdiction.md)
 - [&sect; 00115 - Influencing, impeding, or retaliating against a Federal official by threatening or injuring a family member](%C2%A7%2000115%20-%20Influencing%2C%20impeding%2C%20or%20retaliating%20against%20a%20Federal%20official%20by%20threatening%20or%20injuring%20a%20family%20member.md)
+- [&sect; 00116 - Female genital mutilation](%C2%A7%2000116%20-%20Female%20genital%20mutilation.md)

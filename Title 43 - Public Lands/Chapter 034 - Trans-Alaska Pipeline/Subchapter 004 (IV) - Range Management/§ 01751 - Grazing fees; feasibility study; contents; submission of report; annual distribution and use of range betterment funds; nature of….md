@@ -20,7 +20,7 @@ Subsec. (b)(2) of this section is comprised of second and third sentences of sec
 
 #### Amendments
 
-1978—Subsec. (b)(1). Pub. L. 95–514 inserted “or $10,000,000 per annum, whichever is greater” after “50 per centum” and substituted “sixteen contiguous Western States” for “eleven contiguous Western States”.
+1978—Subsec. (b)(1). Pub. L. 95–514 inserted “or $10,000,000 per annum, whichever is greater” after “50per centum” and substituted “sixteen contiguous Western States” for “eleven contiguous Western States”.
 
 #### Moratorium on Increase of Grazing Fee for 1978 Grazing Year
 

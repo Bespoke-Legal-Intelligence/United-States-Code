@@ -2,7 +2,7 @@
 
 #### (a) Two radio officers required
 
-Each cargo ship which in accordance with this part is equipped with a radiotelegraph station and which is not equipped with a radiotelegraph auto alarm, and each passenger ship required by this part to be equipped with a radiotelegraph station, shall, for safety purposes, carry at least two radio officers.
+Each cargo ship which in accordance with this part is equipped with a radiotelegraph station and which is not equipped with a radiotelegraph auto alarm, and each passenger ship required bythis part to be equipped with a radiotelegraph station, shall, for safety purposes, carry at least two radio officers.
 
 #### (b) One radio officer required
 
@@ -14,7 +14,7 @@ Each ship of the United States which in accordance with this part is equipped wi
 
 #### (d) Hours of watch
 
-The Commission shall, when it finds it necessary for safety purposes, have authority toprescribe the particular hours of watch on a ship of the United States which in accordance with this part is equipped with a radiotelegraph station.
+The Commission shall, when it finds it necessary for safety purposes, have authority to prescribe the particular hours of watch on a ship of the United States which in accordance with this part is equipped with a radiotelegraph station.
 
 #### (e) Operational status of auto alarms in open sea
 

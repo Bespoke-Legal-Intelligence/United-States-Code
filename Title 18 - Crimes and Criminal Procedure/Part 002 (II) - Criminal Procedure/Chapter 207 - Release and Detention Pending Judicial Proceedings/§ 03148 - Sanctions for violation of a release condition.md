@@ -20,7 +20,7 @@ Revocation of Release.—The attorney for the Government may initiate a proceedi
 
 &emsp;&emsp;(B) the person is unlikely to abide by any condition or combination of conditions of release.
 
-> If there is probable cause to believe that, while on release, the person committed a Federal, State, or local felony, a rebuttable presumptionarises that no condition or combination of conditions will assure that the person will not pose a danger to the safety of any other person or the community. If the judicial officer finds that there are conditions of release that will assure that the person will not flee or pose a danger to the safety of any other person or the community, and that the person will abide by such conditions, the judicial officer shall treat the person in accordance with the provisions of section 3142 of this title and may amend the conditions of release accordingly.
+> If there is probable cause to believe that, while on release, the person committed a Federal, State, or local felony, a rebuttable presumption arises that no condition or combination of conditions will assure that the person will not pose a danger to the safety of any other person or the community. If the judicial officer finds that there are conditions of release that will assure that the person will not flee or pose a danger to the safety of any other person or the community, and that the person will abide by such conditions, the judicial officer shall treat the person in accordance with the provisions of section 3142 of this title and may amend the conditions of release accordingly.
 
 (c)
 
@@ -46,5 +46,5 @@ Amendment by Pub. L. 99–646 effective 30 days after Nov. 10, 1986, see section
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3149, 3156 of this title.
+This section is referred to in sections 3149, 3156 of this title; title 8 section 1535.
 

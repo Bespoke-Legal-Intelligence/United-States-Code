@@ -12,13 +12,21 @@ Limitations.—(1) A contract may not be entered into under subsection (a) in an
 
 (3) A contract entered into with an exchange store under subsection (a) may not provide for the procurement of services not regularly provided by that exchange store.
 
-(c) Paragraphs (1) and (2) of subsection (b) do not apply to contracts for the procurement of soft drinks that are manufactured in the United States. The Secretary of Defense shall prescribe in regulations the standards and procedures for determining whether a particular drink is a soft drink and whether the drink was manufactured in the United States.
+(c)
 
-(Added Pub. L. 101–189, div. A, title III, §324(a), Nov. 29, 1989, 103 Stat. 1414; amended Pub. L. 103–355, title III, §3066, Oct. 13, 1994, 108 Stat. 3337.)
+Exception.—Paragraphs (1) and (2) of subsection (b) do not apply to contracts for the procurement of soft drinks that are manufactured in the United States. The Secretary of Defense shall prescribe in regulations the standards and procedures for determining whether a particular beverage is a soft drink and whether the beverage was manufactured in the United States.
+
+(Added Pub. L. 101–189, div. A, title III, §324(a), Nov. 29, 1989, 103 Stat. 1414; amended Pub. L. 103–355, title III, §3066, Oct. 13, 1994, 108 Stat. 3337; Pub. L. 104–106, div. D, title XLIII, §4321(b)(17), Feb. 10, 1996, 110 Stat. 673.)
 
 #### Amendments
 
+1996—Subsec. (c). Pub. L. 104–106 inserted heading and substituted “particular beverage” for “particular drink” and “beverage was” for “drink was”.
+
 1994—Subsec. (c). Pub. L. 103–355 added subsec. (c).
+
+#### Effective Date of 1996 Amendment
+
+For effective date and applicability of amendment by Pub. L. 104–106, see section 4401 of Pub. L. 104–106, set out as a note under section 251 of Title 41, Public Contracts.
 
 #### Operation of Stars and Stripes Bookstores Overseas by Military Exchanges
 

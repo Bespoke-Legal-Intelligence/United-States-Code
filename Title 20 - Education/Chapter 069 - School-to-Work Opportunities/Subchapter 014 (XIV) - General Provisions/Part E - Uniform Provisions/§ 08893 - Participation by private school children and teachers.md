@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Except as otherwise provided in this chapter, to the extent consistent with the numberof eligible children in a State educational agency, local educational agency, or educational service agency or consortium of such agencies receiving financial assistance under a program specified in subsection (b) of this section, who are enrolled in private elementary and secondary schools in such agency or consortium, such agency or consortium shall, after timely and meaningful consultation with appropriate private school officials, provide such children and their teachers or other educational personnel, on an equitable basis, special educational services or other benefits under such program.
+&emsp;Except as otherwise provided in this chapter, to the extent consistent with the number of eligible children in a State educational agency, local educational agency, or educational service agency or consortium of such agencies receiving financial assistance under a program specified in subsection (b) of this section, who are enrolled in private elementary and secondary schools in such agency or consortium, such agency or consortium shall, after timely and meaningful consultation with appropriate private school officials, provide such children and their teachers or other educational personnel, on an equitable basis, special educational services or other benefits under such program.
 
 #### (2) Secular, neutral, and nonideological services or benefits
 
@@ -40,7 +40,7 @@
 
 #### (2) “Eligible children” defined
 
-&emsp;For the purposes of this section, the term “eligible children” means children eligible for services under a program described in paragraph (1).
+&emsp;For the purposes of this section, the term “eligible children” means children eligible forservices under a program described in paragraph (1).
 
 #### (c) Consultation
 

@@ -1,5 +1,9 @@
 Part IV—Miscellaneous Provisions
 
+#### Part Referred to in Other Sections
+
+This part is referred to in sections 571, 573 of this title.
+
 
 ---
 
@@ -15,3 +19,5 @@ Part IV—Miscellaneous Provisions
 - [&sect; 00557 - Existing franchises](%C2%A7%2000557%20-%20Existing%20franchises.md)
 - [&sect; 00558 - Criminal and civil liability](%C2%A7%2000558%20-%20Criminal%20and%20civil%20liability.md)
 - [&sect; 00559 - Obscene programming](%C2%A7%2000559%20-%20Obscene%20programming.md)
+- [&sect; 00560 - Scrambling of cable channels for nonsubscribers](%C2%A7%2000560%20-%20Scrambling%20of%20cable%20channels%20for%20nonsubscribers.md)
+- [&sect; 00561 - Scrambling of sexually explicit adult video service programming](%C2%A7%2000561%20-%20Scrambling%20of%20sexually%20explicit%20adult%20video%20service%20programming.md)

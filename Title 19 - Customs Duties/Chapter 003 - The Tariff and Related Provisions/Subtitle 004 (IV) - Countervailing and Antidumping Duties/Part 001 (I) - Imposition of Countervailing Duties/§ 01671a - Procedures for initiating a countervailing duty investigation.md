@@ -16,7 +16,7 @@ A countervailing duty investigation shall be initiated whenever the administerin
 
 #### (3) Petition based upon a derogation of an international undertaking on official export credits
 
-&emsp;If the sole basis of a petition filed under paragraph (1) is the derogation of an international undertaking on official export credits, the Administering Authority shall immediately notify the Secretary of the Treasury who shall, in consultation with the Administering Authority, within 5 days after thedate on which the administering authority initiates an investigation under subsection (c) of this section, determine the existence and estimated value of the derogation, if any, and shall publish such determination in the Federal Register.
+&emsp;If the sole basis of a petition filed under paragraph (1) is the derogation of an international undertaking on official export credits, the Administering Authority shall immediately notify the Secretary of the Treasury who shall, in consultation with the Administering Authority, within 5 days after the date on which the administering authority initiates an investigation under subsection (c) of this section, determine the existence and estimated value of the derogation, if any, and shall publish such determination in the Federal Register.
 
 #### (4) Action with respect to petitions
 
@@ -106,9 +106,9 @@ A countervailing duty investigation shall be initiated whenever the administerin
 
 &emsp;&emsp;Before the administering authority makes a determination with respect to initiating an investigation, any person who would qualify as an interested party under section 1677(9) of this title if an investigation were initiated, may submit comments or information on the issue of industry support. After the administering authority makes a determination with respect to initiating an investigation, the determination regarding industry support shall not be reconsidered.
 
-#### (5) “Domestic producers or workers”defined
+#### (5) “Domestic producers or workers” defined
 
-&emsp;For purposes of this subsection, the term “domestic producers or workers” means those interested parties who are eligible to file a petition under subsection (b)(1)(A) <sup>1</sup> of this section.
+&emsp;For purposes of this subsection, the term “domestic producers or workers” means those interested parties who are eligible to file a petition under subsection (b)(1) of this section.
 
 #### (d) Notification to Commission of determination
 
@@ -122,9 +122,11 @@ The administering authority shall—
 
 If, at any time after the initiation of an investigation under this part, the administering authority finds a reasonable basis to suspect that the alleged countervailable subsidy is inconsistent with the Subsidies Agreement, the administering authority may request the Commissioner of Customs to compile information on an expedited basis regarding entries of the subject merchandise. Upon receiving such request, the Commissioner of Customs shall collect information regarding the volume and value of entries of the subject merchandise and shall transmit such information to the administering authority at such times as the administering authority shall direct (at least once every 30 days), until a final determination is made under section 1671d(a) of this title, the investigation is terminated, or the administering authority withdraws the request.
 
-(June 17, 1930, ch. 497, title VII, §702, as added July 26, 1979, Pub. L. 96–39, title I, §101, 93 Stat. 151; amended Nov. 30, 1983, Pub. L. 98–181, title VI, §650(a), 97 Stat. 1266; Oct. 22, 1986, Pub. L. 99–514, title XVIII, §1886(a)(2), 100 Stat. 2921; Aug. 23, 1988, Pub. L. 100–418, title I, §§1324(a)(1), 1326(d)(1), 102 Stat. 1199, 1204; Dec. 8, 1994, Pub. L. 103–465, title II, §§211(a), 212(a)(1), (b)(1)(E), 233(a)(5)(B), (6)(A)(i), (ii), 270(a)(1)(A), (d), 108 Stat. 4842, 4843, 4848, 4899, 4901, 4917, 4918.)
+(June 17, 1930, ch. 497, title VII, §702, as added July 26, 1979, Pub. L. 96–39, title I, §101, 93 Stat. 151; amended Nov. 30, 1983, Pub. L. 98–181, title VI, §650(a), 97 Stat. 1266; Oct. 22, 1986, Pub. L. 99–514, title XVIII, §1886(a)(2), 100 Stat. 2921; Aug. 23, 1988, Pub. L. 100–418, title I, §§1324(a)(1), 1326(d)(1), 102 Stat. 1199, 1204; Dec. 8, 1994, Pub. L. 103–465, title II, §§211(a), 212(a)(1), (b)(1)(E), 233(a)(5)(B), (6)(A)(i), (ii), 270(a)(1)(A), (d), 108 Stat. 4842, 4843, 4848, 4899, 4901, 4917, 4918; Oct. 11, 1996, Pub. L. 104–295, §20(b)(3), 110 Stat. 3527.)
 
 #### Amendments
+
+1996—Subsec. (c)(5). Pub. L. 104–295 substituted “(b)(1)” for “(b)(1)(A)”.
 
 1994—Subsecs. (a), (b)(1). Pub. L. 103–465, §233(a)(6)(A)(i), (ii), substituted “initiated” for “commenced”.
 
@@ -167,6 +169,4 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 1516a, 1671b, 1671c, 1677, 1677f, 1677i, 3437 of this title.
-
-<i><sup>1</sup></i><i> So in original. Subsec. (b)(1) of this section does not contain subpars.</i>
 

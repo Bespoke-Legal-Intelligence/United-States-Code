@@ -12,7 +12,7 @@ The several district courts of the United States are vested with jurisdiction sp
 
 (3) Any person who fails to obey a cease and desist order after it has become final and unappealable, or after the appropriate court of appeals has entered final judgment in favor of the Secretary, shall be subject to a civil penalty assessed by the Secretary, after opportunity for a hearing and for judicial review pursuant to the procedures specified in paragraphs (1) and (2) of this subsection, of not more than $500 for each offense, and each day during which such failure continues shall be deemed a separate offense.
 
-(4) If any person fails to pay an assessment of a civil penalty after it has become a final and unappealable order, or after the appropriate court of appeals has entered final judgment infavor of the Secretary, the Secretary shall refer the matter to the Attorney General who shall recover the amount assessed in any appropriate district court of the United States. In such action, the validity and appropriateness of the final order imposing the civil penalty shall not be subject to review.
+(4) If any person fails to pay an assessment of a civil penalty after it has become a final and unappealable order, or after the appropriate court of appeals has entered final judgment in favor of the Secretary, the Secretary shall refer the matter to the Attorney General who shall recover the amount assessed in any appropriate district court of the United States. In such action, the validity and appropriateness of the final order imposing the civil penalty shall not be subject to review.
 
 (Pub. L. 93–428, §15, Oct. 1, 1974, 88 Stat. 1177; Pub. L. 96–276, §6, June 17, 1980, 94 Stat. 541.)
 
@@ -20,7 +20,7 @@ The several district courts of the United States are vested with jurisdiction sp
 
 1980—Subsec. (a). Pub. L. 96–276 substituted “civil action authorized to be brought under this subsection” for “civil action authorized to be brought under this chapter”, struck out “minor” before “violation of this chapter”, and inserted reference to administrative action pursuant to subsection (b).
 
-Subsec. (b). Pub. L. 96–276 substituted provisions authorizing Secretary to assess civil penalty of not less than $500 or more than $5,000 per violation, to issue cease and desist orders for violations of regulations or orders issued by Secretary, and, after review in court of appeals, to assess civil penalty of $500 per offense for failure to abide by duly issued cease and desist order, and authorized actions by Attorney General in appropriate district courts to collect assessed penalties, for provisions authorizing penalties of up to $1,000 per offense for willful violations of this chapter, recoverable in civil action brought by the United States.
+Subsec. (b). Pub. L. 96–276 substituted provisions authorizing Secretary to assess civil penalty of not less than $500 or more than $5,000 per violation, to issue cease and desist orders for violations of regulations ororders issued by Secretary, and, after review in court of appeals, to assess civil penalty of $500 per offense for failure to abide by duly issued cease and desist order, and authorized actions by Attorney General in appropriate district courts to collect assessed penalties, for provisions authorizing penalties of up to $1,000 per offense for willful violations of this chapter, recoverable in civil action brought by the United States.
 
 #### Section Referred to in Other Sections
 

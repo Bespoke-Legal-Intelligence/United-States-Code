@@ -1,6 +1,6 @@
 ### §1e. National Capital region arts and cultural affairs; grant program
 
-There is hereby established under the direction of the National Park Service a program tosupport and enhance artistic and cultural activities in the National Capital region. Eligibility for grants shall be limited to organizations of demonstrated national significance which meet at least two of the additional following criteria:
+There is hereby established under the direction of the National Park Service a program to support and enhance artistic and cultural activities in the National Capital region. Eligibility for grants shall be limited to organizations ofdemonstrated national significance which meet at least two of the additional following criteria:
 
 &emsp;(1) an annual operating budget in excess of $1,000,000;
 

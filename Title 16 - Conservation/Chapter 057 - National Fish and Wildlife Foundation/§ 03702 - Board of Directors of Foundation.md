@@ -8,7 +8,7 @@ The Foundation shall have a governing Board of Directors (hereinafter referred t
 
 &emsp;(2) 4 of whom must be educated and experienced in the principles of fish and wildlife management.
 
-> The membership of the Board, to the extent practicable, shall represent diverse points of view relating to fish and wildlife conservation. The Director of the United States Fish andWildlife Service shall be an ex officio nonvoting member of the Board. Appointment to the Board shall not constitute employment by, or the holding of an office of, the United States for the purposes of any Federal law.
+> The membership of the Board, to the extent practicable, shall represent diverse points of view relating to fish and wildlife conservation. The Director of the United States Fish and Wildlife Service shall be an ex officio nonvoting member of the Board. Appointment to the Board shall not constitute employment by, or the holding of an office of, the United States for the purposes of any Federal law.
 
 #### (b) Appointment and terms
 
@@ -62,7 +62,7 @@ Subsec. (b). Pub. L. 103–232, §103(a)(1), inserted at end “The Secretary of
 
 #### Effective Date of 1994 Amendment
 
-Section 103(a)(2) of Pub. L. 103–232 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to appointments of Directors of the Board of Directors of the National Fish and Wildlife Foundation made after the date of the enactment of this Act \[Apr. 11, 1994\].”
+Section 103(a)(2) of Pub. L. 103–232 provided that: “The amendment made by paragraph (1) \[amending thissection\] shall apply to appointments of Directors of the Board of Directors of the National Fish and Wildlife Foundation made after the date of the enactment of this Act \[Apr. 11, 1994\].”
 
 #### Initial Terms of Six New Directors
 

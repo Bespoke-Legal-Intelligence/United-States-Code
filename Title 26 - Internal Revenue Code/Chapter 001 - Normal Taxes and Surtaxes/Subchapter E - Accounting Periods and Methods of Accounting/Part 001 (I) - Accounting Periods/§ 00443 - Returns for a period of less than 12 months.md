@@ -24,7 +24,7 @@ A return for a period of less than 12 months (referred to in this section as “
 
 &emsp;&emsp;If the taxpayer applies for the benefits of this paragraph and establishes the amount of this taxable income for the 12-month period described in subparagraph (B), computed as if that period were a taxable year and under the law applicable to that year, then the tax for the short period, computed under paragraph (1), shall be reduced to the greater of the following:
 
-&emsp;&emsp;&emsp;(i) an amount which bears the same ratio to the tax computed on the taxable incomefor the 12-month period as the modified taxable income computed on the basis of the short period bears to the modified taxable income for the 12-month period; or
+&emsp;&emsp;&emsp;(i) an amount which bears the same ratio to the tax computed on the taxable income for the 12-month period as the modified taxable income computed on the basis of the short period bears to the modified taxable income for the 12-month period; or
 
 &emsp;&emsp;&emsp;(ii) the tax computed on the modified taxable income for the short period.
 
@@ -98,7 +98,7 @@ Subsec. (d). Pub. L. 99–514, §701(e)(3), substituted “and tax preferences�
 
 Subsec. (e). Pub. L. 96–589 inserted cross reference to section 1398(d)(3)(E) for returns for a period of less than 12 months in the case of a debtor's election to terminate a taxable year.
 
-1978—Subsec. (b)(1). Pub. L. 95–600, §703(<i>o</i>)(2), substituted “modified taxable income for such short period” for “gross income for such short period (minusthe deductions allowed by this chapter for the short period, but only the adjusted amount of the deductions for personal exemptions)”.
+1978—Subsec. (b)(1). Pub. L. 95–600, §703(<i>o</i>)(2), substituted “modified taxable income for such short period” for “gross income for such short period (minus the deductions allowed by this chapter for the short period, but only the adjusted amount of the deductions for personal exemptions)”.
 
 Subsec. (b)(2). Pub. L. 95–600, §703(<i>o</i>)(1), substituted in cl. (i) “modified taxable income” for “taxable income” in two places and in cl. (ii) “the sum of the modified taxable income” for “the taxable income” and “plus the zero bracket amount” for “without placing the taxable income on an annual basis”.
 

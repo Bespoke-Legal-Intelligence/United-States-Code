@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary, acting through the Administrator of the Health Resources and Services Administration, shall, with respect to trauma care—
+The Secretary shall, with respect to trauma care—
 
 &emsp;(1) conduct and support research, training, evaluations, and demonstration projects;
 
@@ -20,7 +20,7 @@ The Secretary may make grants, and enter into cooperative agreements and contrac
 
 The Administrator of the Health Resources and Services Administration shall ensure that this subchapter is administered by the Division of Trauma and Emergency Medical Systems within such Administration. Such Division shall be headed by a director appointed by the Secretary from among individuals who are knowledgeable by training or experience in the development and operation of trauma and emergency medical systems.
 
-(July 1, 1944, ch. 373, title XII, §1201, as added Nov. 16, 1990, Pub. L. 101–590, §3, 104 Stat. 2916; amended Dec. 14, 1993, Pub. L. 103–183, title VI, §601(a), 107 Stat. 2238.)
+(July 1, 1944, ch. 373, title XII, §1201, as added Nov. 16, 1990, Pub. L. 101–590, §3, 104 Stat. 2916; amended Dec. 14, 1993, Pub. L. 103–183, title VI, §601(a), 107 Stat. 2238; May 20, 1996, Pub. L. 104–146, §12(b), 110 Stat. 1373.)
 
 #### Prior Provisions
 
@@ -30,9 +30,15 @@ A prior section 1201 of act July 1, 1944, ch. 373, title XII, formerly §1205, a
 
 #### Amendments
 
+1996—Subsec. (a). Pub. L. 104–146, in introductory provisions, substituted “The Secretary shall,” for “The Secretary, acting through the Administrator of the Health Resources and Services Administration, shall,”.
+
 1993—Subsec. (a). Pub. L. 103–183, §601(a)(1), in introductory provisions inserted “, acting through the Administrator of the Health Resources and Services Administration,” after “Secretary”.
 
 Subsec. (c). Pub. L. 103–183, §601(a)(2), added subsec. (c).
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–146 effective Oct. 1, 1996, see section 13 of Pub. L. 104–146, set out as a note under section 300ff–11 of this title.
 
 #### Congressional Statement of Findings
 

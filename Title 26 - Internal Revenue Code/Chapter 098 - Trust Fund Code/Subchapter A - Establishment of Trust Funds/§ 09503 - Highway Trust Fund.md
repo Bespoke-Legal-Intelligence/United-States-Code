@@ -2,7 +2,7 @@
 
 #### (a) Creation of Trust Fund
 
-There is established in the Treasury of the United States a trust fund to be known as the “Highway Trust Fund”, consisting of such amounts as may be appropriated or credited to the Highway Trust Fund as provided in this section or section 9602(b).
+There is established in the Treasury of the United States a trust fund to be known as the “Highway Trust Fund”, consisting of suchamounts as may be appropriated or credited to the Highway Trust Fund as provided in this section or section 9602(b).
 
 #### (b) Transfer to Highway Trust Fund of amounts equivalent to certain taxes
 
@@ -82,7 +82,7 @@ There is established in the Treasury of the United States a trust fund to be kno
 
 &emsp;&emsp;&emsp;(ii) the credits allowed under section 34 (relating to credit for certain uses of gasoline, special fuels, and lubricating oil) with respect to gasoline, special fuels, and lubricating oil used before October 1, 1999 (or with respect to qualified diesel-powered highway vehicles purchased before January 1, 1999).
 
-> &emsp;&emsp;The amounts payable from the Highway Trust Fund under this subparagraph or paragraph (3) shall be determined by taking intoaccount only the Highway Trust Fund financing rate applicable to any fuel.
+> &emsp;&emsp;The amounts payable from the Highway Trust Fund under this subparagraph or paragraph (3) shall be determined by taking into account only the Highway Trust Fund financing rate applicable to any fuel.
 
 #### (B) Transfers based on estimates
 
@@ -290,7 +290,7 @@ There is established in the Treasury of the United States a trust fund to be kno
 
 #### (A) In general
 
-&emsp;&emsp;Transfers under paragraphs (2), (3), and (4) of subsection (c) shall be borne by the Highway Account and the Mass Transit Account in proportion to the respective revenues transferred under this section to the Highway Account (after the application of paragraph (2)) and the Mass Transit Account; except that any such transfers to the extent attributable to section 6427(g) shall be borne only by the Highway Account.
+&emsp;&emsp;Transfers under paragraphs (2), (3), and (4) of subsection (c) shall be borne by the Highway Account and the Mass Transit Account in proportion to the respective revenues transferred under this section to the Highway Account (after the application of paragraph (2)) and the Mass Transit Account; except that any such transfers to the extent attributable to section 6427(g) <sup>4</sup> shall be borne only by the Highway Account.
 
 #### (B) Highway Account
 
@@ -328,7 +328,7 @@ For purposes of this section—
 
 #### (E) Certain other nonhighway uses
 
-&emsp;&emsp;In the case of gasoline and special motor fuels used as described in paragraph (4)(D), (5)(B), or (6)(D) of subsection (c), the Highway Trust Fund financing rate is 11.5 cents per gallon; and, in the case of diesel fuel used as described in subsection (c)(6)(D), the Highway Trust Fund financing rate is 17.5 cents per gallon.
+&emsp;&emsp;In the case of gasoline and special motor fuels used as described in paragraph (4)(D),\(5)(B), or (6)(D) of subsection (c), the Highway Trust Fund financing rate is 11.5 cents per gallon; and, in the case of diesel fuel used as described in subsection (c)(6)(D), the Highway Trust Fund financing rate is 17.5 cents per gallon.
 
 #### (3) Alcohol fuels
 
@@ -379,6 +379,8 @@ Section 6424, referred to in subsec. (c)(2)(A)(i)(III), was repealed by Pub. L. 
 The Land and Water Conservation Fund Act of 1965, referred to in subsec. (c)(4)(B)(i), is Pub. L. 88–578, Sept. 3, 1964, 78 Stat. 897, as amended. Title I of that Act is classified generally to part B (§460<i>l</i>–4 et seq.) of subchapter LXIX of chapter 1 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 460<i>l</i>–4 of Title 16 and Tables.
 
 The date of the enactment of this paragraph, referred to in subsec. (c)(6)(B), (C)(i), is the date of enactment of Pub. L. 102–240, which was approved Dec. 18, 1991.
+
+Section 6427(g), referred to in subsec. (e)(5)(A), was repealed by Pub. L. 104–188, title I, §1606(a), Aug. 20, 1996, 110 Stat. 1839.
 
 #### Amendments
 
@@ -486,7 +488,7 @@ Committee on Public Works and Transportation of House of Representatives treated
 
 #### Effective Date of 1993 Amendment
 
-Amendment by section 13242(d)(34) to (41) of Pub. L. 103–66 effective Jan. 1, 1994, see section 13242(e) of Pub.L. 103–66, set out as a note under section 4041 of this title.
+Amendment by section 13242(d)(34) to (41) of Pub. L. 103–66 effective Jan. 1, 1994, see section 13242(e) of Pub. L. 103–66, set out as a note under section 4041 of this title.
 
 Section 13244(b) of Pub. L. 103–66 provided that: “The amendment made by this section \[amending this section\] shall apply to amounts attributable to taxes imposed on or after October 1, 1995.”
 
@@ -549,4 +551,6 @@ This section is referred to in sections 9504, 9511 of this title; title 16 secti
 <i><sup>2</sup></i><i> So in original. Probably should be “sections”.</i>
 
 <i><sup>3</sup></i><i> So in original. Probably should be “such section and such Act”.</i>
+
+<i><sup>4</sup></i><i> See References in Text note below.</i>
 

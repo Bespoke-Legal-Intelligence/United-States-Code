@@ -1,6 +1,6 @@
 ### §3707. Tanker minimum standards
 
-(a) A new tanker of at least 10,000 gross tons shall be equipped with—
+(a) A new tanker of at least 10,000 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title shall be equipped with—
 
 &emsp;(1) 2 remote steering gear control systems operable separately from the navigating bridge;
 
@@ -14,7 +14,7 @@
 
 &emsp;(6) means of automatic starting and stopping of power units with attendant alarms at all steering stations.
 
-(b) An existing tanker of at least 10,000 gross tons shall be equipped with—
+(b) An existing tanker of at least 10,000 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title shall be equipped with—
 
 &emsp;(1) 2 remote steering gear control systems operable separately from the navigating bridge;
 
@@ -22,7 +22,7 @@
 
 &emsp;(3) means of communications and rudder angle indicators on the navigating bridge, a remote steering gear control station, and the steering gear compartment.
 
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 524.)
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 524; Pub. L. 104–324, title VII, §716, Oct. 19, 1996, 110 Stat. 3937.)
 
 Historical and Revision Notes
 
@@ -43,6 +43,12 @@ Section 3707 requires compliance with certain minimum standards by a tanker, whi
 Section 3707(a) requires new tankers of 10,000 gross tons or above, to have two remote steering gear control systems, a main steering gear control in the steering gear compartment, a means of communications and rudder angle indicators at specified locations, two or more specified power units for the main steering gear, an alternative and adequate power supply of specified characteristics, and a means of automatic operation of power units, with attendant alarms at all steering stations.
 
 Section 3707(b) requires existing tankers of 10,000 gross tons or above, to have two remote steering gear control systems, a main steering gear control in the steering gear compartment, and a means of communication and rudder angle indicators at specified locations.
+
+#### Amendments
+
+1996—Subsec. (a). Pub. L. 104–324, §716(1), inserted “as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title” after “10,000 gross tons” in introductory provisions.
+
+Subsec. (b). Pub. L. 104–324, §716(2), inserted “as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title” after “10,000 gross tons”.
 
 #### Section Referred to in Other Sections
 

@@ -10,7 +10,9 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+#### Part Referred to in Other Sections
+
+This part is referred to in sections 860E, 860J of this title.
 
 
 ---

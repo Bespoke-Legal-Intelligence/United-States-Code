@@ -14,7 +14,7 @@ System Characteristics.—(1) The National Intermodal Transportation System shal
 
 (4) The National Intermodal Transportation System shall provide improved access to ports and airports, the Nation's link to commerce.
 
-(5) The National Intermodal Transportation System shall give special emphasis to the contributions of the transportation sectors to increased productivity growth. Social benefits must be considered with particular attention to the external benefits of reduced air pollution,reduced traffic congestion, and other aspects of the quality of life in the United States.
+(5) The National Intermodal Transportation System shall give special emphasis to the contributions of the transportation sectors to increased productivity growth. Social benefits must be considered with particular attention to the external benefits of reduced air pollution, reduced traffic congestion, and other aspects of the quality of life in the United States.
 
 (6) The National Intermodal Transportation System must be operated and maintained with insistent attention to the concepts of innovation, competition, energy efficiency, productivity, growth, and accountability. Practices that resulted in the lengthy and overly costly construction of the Dwight D. Eisenhower System of Interstate and Defense Highways must be confronted and stopped.
 
@@ -32,7 +32,9 @@ Distribution and Posting.—The Secretary of Transportation shall distribute cop
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

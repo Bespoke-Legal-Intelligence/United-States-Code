@@ -1,6 +1,6 @@
 ### §2533. Determinations of public interest under the Buy American Act
 
-(a) In determining under section 2 of title III of the Act of March 3, 1993 <sup>1</sup> (41 U.S.C. 10a), popularly known as the “Buy American Act”, whether application of title III of such Act is inconsistent with the public interest, the Secretary of Defense shall consider the following:
+(a) In determining under section 2 of the Buy American Act (41 U.S.C. 10a)) <sup>1</sup> whether application of such Act is inconsistent with the public interest, the Secretary of Defense shall consider the following:
 
 &emsp;(1) The bids or proposals of small business firms in the United States which have offered to furnish American goods.
 
@@ -32,7 +32,7 @@
 
 &emsp;(2) an end product that is manufactured in the United States but which includes components mined, produced, or manufactured outside the United States the aggregate cost of which exceeds the aggregate cost of the components of such end product that are mined, produced, or manufactured in the United States.
 
-(Added Pub. L. 100–370, §3(a)(1), July 19, 1988, 102 Stat. 855, §2501; renumbered §2506, Pub. L.100–456, div. A, title VIII, §821(b)(1)(A), Sept. 29, 1988, 102 Stat. 2014; renumbered §2533, Pub. L. 102–484, div. D, title XLII, §4202(a), Oct. 23, 1992, 106 Stat. 2659; Pub. L. 103–337, div. A, title VIII, §812(a), (b)(1), Oct. 5, 1994, 108 Stat. 2815, 2816.)
+(Added Pub. L. 100–370, §3(a)(1), July 19, 1988, 102 Stat. 855, §2501; renumbered §2506, Pub. L. 100–456, div. A, title VIII, §821(b)(1)(A), Sept. 29, 1988, 102 Stat. 2014; renumbered §2533, Pub. L. 102–484, div. D, title XLII, §4202(a), Oct. 23, 1992, 106 Stat. 2659; amended Pub. L. 103–337, div. A, title VIII, §812(a), (b)(1), Oct. 5, 1994, 108 Stat. 2815, 2816; Pub. L. 104–106, div. D, title XLIII, §4321(b)(20), Feb. 10, 1996, 110 Stat. 673.)
 
 #### Historical and Revision Notes
 
@@ -40,9 +40,11 @@ Section is based on Pub. L. 93–365, title VII, §707, Aug. 5, 1974, 88 Stat. 4
 
 #### References in Text
 
-Title III of the Act of March 3, 1993, referred to in subsec. (a), probably means title III of act Mar. 3, 1933, ch. 212, 47 Stat. 1520, as amended, known as the Buy American Act, which enacted sections 10a, 10b, 10b–1, and 10c of Title 41, Public Contracts, and enacted provisions set out as notes under section 10c of Title 41. Section 2 of the Act is classified to section 10a of Title 41. For complete classification of this Act to the Code, see Short Title note set out under section 10a of Title 41 and Tables.
+The Buy American Act, referred to in subsec. (a), is title III of act Mar. 3, 1933, ch. 212, 47 Stat. 1520, as amended, which enacted sections 10a, 10b, 10b–1, and 10c of Title 41, Public Contracts, and enacted provisions set out as notes under section 10c of Title 41. For complete classification of this Act to the Code, see Short Title note set out under section 10a of Title 41 and Tables.
 
 #### Amendments
+
+1996—Subsec. (a). Pub. L. 104–106 substituted “the Buy American Act (41 U.S.C. 10a)) whether application of such Act” for “title III of the Act of March 3, 1993 (41 U.S.C. 10a), popularly known as the ‘Buy American Act’, whether application of title III of such Act”.
 
 1994—Pub. L. 103–337, §812(b)(1), substituted “Determinations of public interest under the Buy American Act” for “Limitation on use of funds: procurement of goods which are other than American goods” as section catchline.
 
@@ -64,5 +66,9 @@ Subsecs. (b), (c). Pub. L. 103–337, §812(a), redesignated subsec. (c) as (b) 
 
 1992—Pub. L. 102–484 renumbered section 2506 of this title as this section.
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+#### Effective Date of 1996 Amendment
+
+For effective date and applicability of amendment by Pub. L. 104–106, see section 4401 of Pub. L. 104–106, set out as a note under section 251 of Title 41, Public Contracts.
+
+<i><sup>1</sup></i><i> So in original. The second closing parenthesis probably should not appear.</i>
 

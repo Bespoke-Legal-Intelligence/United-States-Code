@@ -1,5 +1,17 @@
 ### SUBCHAPTER I—GENERAL PROVISIONS
 
+<i><sup>1</sup></i><i> So in original. No subpar. (B) has been enacted.</i>
+
+<i><sup>2</sup></i><i> So in original. No subpar. (B) has been enacted.</i>
+
+<i><sup>3</sup></i><i> So in original. Probably should be capitalized.</i>
+
+<i><sup>4</sup></i><i> So in original. Probably should be “section”.</i>
+
+<i><sup>5</sup></i><i> So in original. The semicolon probably should be a period.</i>
+
+<i><sup>6</sup></i><i> So in original. Probably should be “if”.</i>
+
 
 ---
 

@@ -7,10 +7,12 @@ Panama Canal Commission
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 03611 - Panama Canal Commission; establishment](%C2%A7%2003611%20-%20Panama%20Canal%20Commission%3B%20establishment.md)
+- [&sect; 03611 - Establishment, purposes, offices, and residence of Commission](%C2%A7%2003611%20-%20Establishment%2C%20purposes%2C%20offices%2C%20and%20residence%20of%20Commission.md)
 - [&sect; 03612 - Supervisory Board](%C2%A7%2003612%20-%20Supervisory%20Board.md)
+- [&sect; 03612a - General powers of Commission](%C2%A7%2003612a%20-%20General%20powers%20of%20Commission.md)
+- [&sect; 03612b - Specific powers of Commission](%C2%A7%2003612b%20-%20Specific%20powers%20of%20Commission.md)
 - [&sect; 03613 - Administrator](%C2%A7%2003613%20-%20Administrator.md)
-- [&sect; 03614 - Deputy Administrator and Chief Engineer](%C2%A7%2003614%20-%20Deputy%20Administrator%20and%20Chief%20Engineer.md)
+- [&sect; 03614 - Deputy Administrator](%C2%A7%2003614%20-%20Deputy%20Administrator.md)
 - [&sect; 03615 - Consultative Committee](%C2%A7%2003615%20-%20Consultative%20Committee.md)
 - [&sect; 03616 - Joint Commission on the Environment](%C2%A7%2003616%20-%20Joint%20Commission%20on%20the%20Environment.md)
 - [&sect; 03617 - Travel expenses](%C2%A7%2003617%20-%20Travel%20expenses.md)

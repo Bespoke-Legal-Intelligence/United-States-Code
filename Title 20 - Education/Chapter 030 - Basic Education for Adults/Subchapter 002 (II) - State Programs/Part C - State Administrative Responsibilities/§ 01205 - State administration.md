@@ -8,7 +8,7 @@ Any State desiring to participate in the programs authorized by this chapter sha
 
 &emsp;(2) within 2 years of July 25, 1991, the development and implementation, in consultation with a widely representative group of appropriate experts, educators, and administrators, of indicators of program quality to be used to evaluate programs assisted under this chapter, as required by section 1207a of this title, to determine whether such programs are effective, including whether such programs are successfully recruiting, retaining, and improving the literacy skills of the individuals served in such programs;
 
-&emsp;(3) consultation with the State advisory council established pursuant to section 1205a of this title, and other appropriate agencies,groups, and individuals involved in the planning, administration, evaluation, and coordination of programs funded under this chapter; and
+&emsp;(3) consultation with the State advisory council established pursuant to section 1205a of this title, and other appropriate agencies, groups, and individuals involved in the planning, administration, evaluation, and coordination of programs funded under this chapter; and
 
 &emsp;(4) the assignment of such personnel as may be necessary for State administration of programs under this chapter.
 

@@ -58,7 +58,7 @@ No member of the Council shall cast a vote on any matter which would provide dir
 
 To the extent that a State has established a Council before September 1, 1986, that is comparable to the Council described in this section, such Council shall be considered to be in compliance with this section. Within 4 years after the date the State accepts funds under section 1473 of this title, such State shall establish a council that complies in full with this section.
 
-(Pub. L. 91–230, title VI, §682, as added Pub. L. 99–457, title I, §101(a), Oct. 8, 1986, 100 Stat. 1153; amended Pub. L. 100–630, title I, §108(k), Nov. 7, 1988, 102 Stat. 3302; Pub. L. 101–476, title IX, §901(b)(182), Oct. 30, 1990, 104 Stat. 1150; Pub. L.102–119, §§18, 25(a)(18), (b), Oct. 7, 1991, 105 Stat. 599, 606, 607.)
+(Pub. L. 91–230, title VI, §682, as added Pub. L. 99–457, title I, §101(a), Oct. 8, 1986, 100 Stat. 1153; amended Pub. L. 100–630, title I, §108(k), Nov. 7, 1988, 102 Stat. 3302; Pub. L. 101–476, title IX, §901(b)(182), Oct. 30, 1990, 104 Stat. 1150; Pub. L. 102–119, §§18, 25(a)(18), (b), Oct. 7, 1991, 105 Stat. 599, 606, 607.)
 
 #### Amendments
 

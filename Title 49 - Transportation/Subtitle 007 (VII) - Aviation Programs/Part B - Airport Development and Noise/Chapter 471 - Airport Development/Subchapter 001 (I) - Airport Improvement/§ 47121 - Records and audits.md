@@ -20,7 +20,7 @@ Audits and Examinations.—The Secretary and the Comptroller General may audit a
 
 (c)
 
-Authority of Comptroller General.—When an independent audit is made of the accounts of a sponsor under this subchapter related to the disposition of the proceeds of the grant or related to the plan or program for which the grant was given or used, the sponsor shall submit a certified copy of the audit to the Comptroller General not more than 6 months after the end of the fiscal year for which the audit was made. Not later than April 15 of each year, the Comptroller General shall report to Congress describing the results of each audit conducted or reviewed by the Comptroller General under this section during the prior fiscal year. The Comptroller General shall prescribe regulations necessary to carry out this subsection.
+Authority of Comptroller General.—When an independent audit is made of the accounts of a sponsor under this subchapter related to the disposition of the proceeds of the grant or related to the plan or program for which the grant was given or used, the sponsor shall submit a certified copy of the audit to the Secretary not more than 6 months after the end of the fiscal year for which the audit was made. The Comptroller General may report to Congress describing the results of each audit conducted or reviewed by the Comptroller General under this section during the prior fiscal year.
 
 (d)
 
@@ -28,17 +28,19 @@ Audit Requirement.—The Secretary may require a sponsor to conduct an appropria
 
 (e)
 
-Annual Review.—The Secretary shall review annually the recordkeeping and reportingrequirements under this subchapter to ensure that they are the minimum necessary to carry out this subchapter.
+Annual Review.—The Secretary shall review annually the recordkeeping and reporting requirements under this subchapter to ensure that they are the minimum necessary to carry out this subchapter.
 
 (f)
 
 Withholding Information From Congress.—This section does not authorize the Secretary or the Comptroller General to withhold information from a committee of Congress authorized to have the information.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1274.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1274; Pub. L. 104–316, title I, §127(f), Oct. 19, 1996, 110 Stat. 3840.)
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -79,6 +81,10 @@ In subsection (b), the words “or any of their duly authorized representatives�
 In subsection (e), the words “minimum necessary to carry out” are substituted for “that such requirements are kept to the minimum level necessary for the proper administration of” to eliminate unnecessary words.
 
 In subsection (f), the words “or any officer or employee under the control of either of them” are omitted as surplus because of 49:322(b) and 31:711.
+
+#### Amendments
+
+1996—Subsec. (c). Pub. L. 104–316, in first sentence, substituted “Secretary” for “Comptroller General”, in second sentence, substituted “The Comptroller General may” for “Not later than April 15 of each year, the Comptroller General shall”, and struck out at end “The Comptroller General shall prescribe regulations necessary to carry out this subsection.”
 
 #### Section Referred to in Other Sections
 

@@ -108,5 +108,5 @@ To promote the integration of staff supported with funds under this part and chi
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 6311, 6312, 6313, 6321, 6322, 6394 of this title.
+This section is referred to in sections 6311, 6312, 6313, 6321, 6394 of this title.
 

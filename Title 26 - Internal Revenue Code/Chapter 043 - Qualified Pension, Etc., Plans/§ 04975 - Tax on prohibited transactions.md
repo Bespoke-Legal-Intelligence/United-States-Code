@@ -2,7 +2,7 @@
 
 #### (a) Initial taxes on disqualified person
 
-There is hereby imposed a tax on each prohibited transaction. The rate of tax shall be equal to 5 percent of the amount involved with respect to the prohibited transaction for each year (or part thereof) in the taxable period. The tax imposed by this subsection shall be paid by any disqualified person who participates in the prohibited transaction (other than a fiduciary acting only as such).
+There is hereby imposed a tax on each prohibited transaction. The rate of tax shall be equal to 10 percent of the amount involved with respect to the prohibited transaction for each year (or part thereof) in the taxable period. The tax imposed by this subsection shall be paid by any disqualified person who participates in the prohibited transaction (other than a fiduciary acting only as such).
 
 #### (b) Additional taxes on disqualified person
 
@@ -40,7 +40,11 @@ In any case in which an initial tax is imposed by subsection (a) on a prohibited
 
 #### (3) Special rule for individual retirement accounts
 
-&emsp;An individual for whose benefit an individual retirement account is established and his beneficiaries shall be exempt for the tax imposed by this section with respect to any transaction concerning such account (which would otherwise be taxable under this section) if, with respect to such transaction, the account ceases to be an individual retirement account by reason of the application of section 408(e)(2)(A) or if section 408(e)(4) applies to such account.
+&emsp;An individual for whose benefit an individual retirement account is established and his beneficiaries shall be exempt for <sup>1</sup> the tax imposed by this section with respect to any transaction concerning such account (which would otherwise be taxable under this section) if, with respect to such transaction, the account ceases to be an individual retirement account by reason of the application of section 408(e)(2)(A) or if section 408(e)(4) applies to such account.
+
+#### (4) Special rule for medical savings accounts
+
+&emsp;An individual for whose benefit a medical savings account (within the meaning of section 220(d)) is established shall be exempt from the tax imposed by this section with respect to any transaction concerning such account (which would otherwise be taxable under this section) if, with respect to such transaction, the account ceases to be a medical savings account by reason of the application of section 220(e)(2) to such account.
 
 #### (d) Exemptions
 
@@ -58,9 +62,9 @@ The prohibitions provided in subsection (c) shall not apply to—
 
 &emsp;&emsp;(E) is adequately secured;
 
-&emsp;(2) any contract, or reasonable arrangement, made with a disqualified person for office space, or legal, accounting, or other servicesnecessary for the establishment or operation of the plan, if no more than reasonable compensation is paid therefor;
+&emsp;(2) any contract, or reasonable arrangement, made with a disqualified person for office space, or legal, accounting, or other services necessary for the establishment or operation of the plan, if no more than reasonable compensation is paid therefor;
 
-&emsp;(3) any loan to an <sup>1</sup> leveraged employee stock ownership plan (as defined in subsection (e)(7)), if—
+&emsp;(3) any loan to an <sup>2</sup> leveraged employee stock ownership plan (as defined in subsection (e)(7)), if—
 
 &emsp;&emsp;(A) such loan is primarily for the benefit of participants and beneficiaries of the plan, and
 
@@ -106,7 +110,7 @@ The prohibitions provided in subsection (c) shall not apply to—
 
 &emsp;(12) the making by a fiduciary of a distribution of the assets of the trust in accordance with the terms of the plan if such assets are distributed in the same manner as provided under section 4044 of title IV of the Employee Retirement Income Security Act of 1974 (relating to allocation of assets);
 
-&emsp;(13) any transaction which is exempt from section 406 of such Act by reason of section 408(e) of such Act (or which would be so exempt if such section 406 applied to such transaction) or which is exempt from section 406 of such Act by reason of section 408(b) of such Act;
+&emsp;(13) any transaction which is exempt from section 406 of such Act by reason of section 408(e) of such Act (or which would be so exempt if such section 406 applied to such transaction) or which is exempt from section 406 of such Act by reason of section 408(b)(12) of such Act;
 
 &emsp;(14) any transaction required or permitted under part 1 of subtitle E of title IV or section 4223 of the Employee Retirement Income Security Act of 1974, but this paragraph shall not apply with respect to the application of subsection (c)(1) (E) or (F); or
 
@@ -118,7 +122,17 @@ The prohibitions provided in subsection (c) shall not apply to—
 
 #### (1) Plan
 
-&emsp;For purposes of this section, the term “plan” means a trust described in section 401(a) which forms a part of a plan, or a plan described in section 403(a), which trust or plan is exempt from tax under section 501(a), an individual retirement account described in section 408(a) or an individual retirement annuity described in section 408(b) (or a trust, plan, account, or annuity which, at any time, has been determined by the Secretary to be such a trust, plan, or account).
+&emsp;For purposes of this section, the term “plan” means—
+
+&emsp;&emsp;(A) a trust described in section 401(a) which forms a part of a plan, or a plan described in section 403(a), which trust or plan is exempt from tax under section 501(a),
+
+&emsp;&emsp;(B) an individual retirement account described in section 408(a),
+
+&emsp;&emsp;(C) an individual retirement annuity described in section 408(b),
+
+&emsp;&emsp;(D) a medical savings account described in section 220(d), or
+
+&emsp;&emsp;(E) a trust, plan, account, or annuity which, at any time, has been determined bythe Secretary to be described in any preceding subparagraph of this paragraph.
 
 #### (2) Disqualified person
 
@@ -248,7 +262,7 @@ For purposes of this section—
 
 This section shall not apply—
 
-&emsp;(1) in the case of a plan to which a guaranteed benefit policy (as defined in section401(b)(2)(B) of the Employee Retirement Income Security Act of 1974) is issued, to any assets of the insurance company, insurance service, or insurance organization merely because of its issuance of such policy;
+&emsp;(1) in the case of a plan to which a guaranteed benefit policy (as defined in section 401(b)(2)(B) of the Employee Retirement Income Security Act of 1974) is issued, to any assets of the insurance company, insurance service, or insurance organization merely because of its issuance of such policy;
 
 &emsp;(2) to a governmental plan (within the meaning of section 414(d)); or
 
@@ -264,17 +278,25 @@ Before sending a notice of deficiency with respect to the tax imposed by subsect
 
 &emsp;&emsp;<b>For provisions concerning coordination procedures between Secretary of Labor and Secretary of Treasury with respect to application of tax imposed by this section and for authority to waive imposition of the tax imposed by subsection (b), see section 3003 of the Employee Retirement Income Security Act of 1974.</b>
 
-(Added Pub. L. 93–406, title II, §2003(a), Sept. 2, 1974, 88 Stat. 971; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–600, title I, §141(f)(5), (6), Nov. 6, 1978, 92 Stat. 2795; Pub. L. 96–222, title I, §101(a)(7)(C), (K), (L)(iv)(III), (v)(XI), Apr. 1, 1980, 94 Stat. 198–201; Pub. L. 96–364, title II, §§208(b), 209(b), Sept. 26, 1980, 94 Stat. 1289, 1290; Pub. L. 96–596, §2(a)(1)(K),(L), (2)(I), (3)(F), Dec. 24, 1980, 94 Stat. 3469, 3471; Pub. L. 97–448, title III, §305(d)(5), Jan. 12, 1983, 96 Stat. 2400; Pub. L. 98–369, div. A, title IV, §491(d)(45), (46), (e)(7), (8), July 18, 1984, 98 Stat. 851–853; Pub. L. 99–514, title XI, §1114(b)(15)(A), title XVIII, §§1854(f)(3)(A), 1899A(51), Oct. 22, 1986, 100 Stat. 2452, 2882, 2961; Pub. L. 101–508, title XI, §11701(m), Nov. 5, 1990, 104 Stat. 1388–513.)
+(Added Pub. L. 93–406, title II, §2003(a), Sept. 2, 1974, 88 Stat. 971; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–600, title I, §141(f)(5), (6), Nov. 6, 1978, 92 Stat. 2795; Pub. L. 96–222, title I, §101(a)(7)(C), (K), (L)(iv)(III), (v)(XI), Apr. 1, 1980, 94 Stat. 198–201; Pub. L. 96–364, title II, §§208(b), 209(b), Sept. 26, 1980, 94 Stat. 1289, 1290; Pub. L. 96–596, §2(a)(1)(K),(L), (2)(I), (3)(F), Dec. 24, 1980, 94 Stat. 3469, 3471; Pub. L. 97–448, title III, §305(d)(5), Jan. 12, 1983, 96 Stat. 2400; Pub. L. 98–369, div. A, title IV, §491(d)(45), (46), (e)(7), (8), July 18, 1984, 98 Stat. 851–853; Pub. L. 99–514, title XI, §1114(b)(15)(A), title XVIII, §§1854(f)(3)(A), 1899A(51), Oct. 22, 1986, 100 Stat. 2452, 2882, 2961; Pub. L. 101–508, title XI, §11701(m), Nov. 5, 1990, 104 Stat. 1388–513; Pub. L. 104–188, title I, §§1453(a), 1702(g)(3), Aug. 20, 1996, 110 Stat. 1817, 1873; Pub. L. 104–191, title III, §301(f), Aug. 21, 1996, 110 Stat. 2051.)
 
 #### References in Text
 
-The Employee Retirement Income Security Act of 1974, referred to in subsecs. (c)(2), (d)(12) to (15), (e)(3), (9)(B), (g)(1), and (i) is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 832, as amended. Part 1 of subtitle E of title IV of such Act is classified generally to part 1 (29 U.S.C. 1381 et seq.) of subtitle E of subchapter III of chapter 18 of Title 29, Labor. Sections 401, 405, 406, 408, 3003, 4044, 4223, and 4231 of such Act are classified to sections 1101, 1105, 1106, 1108, 1203, 1344, 1403, and 1411, respectively, of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
+The Employee Retirement Income Security Act of 1974, referred to in subsecs. (c)(2), (d)(12) to (15), (e)(3), (9)(B), (g)(1), and (i) is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 832, as amended. Part 1 of subtitle E of title IV ofsuch Act is classified generally to part 1 (29 U.S.C. 1381 et seq.) of subtitle E of subchapter III of chapter 18 of Title 29, Labor. Sections 401, 405, 406, 408, 3003, 4044, 4223, and 4231 of such Act are classified to sections 1101, 1105, 1106, 1108, 1203, 1344, 1403, and 1411, respectively, of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
 
 The date of the enactment of the Subchapter S Revision Act of 1982, referred to in subsec. (d), is the date of enactment of Pub. L. 97–354, which was approved Oct. 19, 1982.
 
 The Investment Company Act of 1940, referred to in subsecs. (e)(8) and (g), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, as amended, which is classified generally to subchapter I (§80a–1 et seq.) of chapter 2D of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 80a–51 of Title 15 and Tables.
 
 #### Amendments
+
+1996—Subsec. (a). Pub. L. 104–188, §1453(a), substituted “10 percent” for “5 percent”.
+
+Subsec. (c)(4). Pub. L. 104–191, §301(f)(1), added par. (4).
+
+Subsec. (d)(13). Pub. L. 104–188, §1702(g)(3), substituted “408(b)(12)” for “408(b)”.
+
+Subsec. (e)(1). Pub. L. 104–191, §301(f)(2), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “For purposes of this section, the term ‘plan’ means a trust described in section 401(a) which forms a part of a plan, or a plan described in section 403(a), which trust or plan is exempt from tax under section 501(a), an individual retirement account described in section 408(a) or an individual retirement annuity described in section 408(b) (or a trust, plan, account, or annuity which, at any time, has been determined by the Secretary to be such a trust, plan, or account).”
 
 1990—Subsec. (d)(13). Pub. L. 101–508 inserted before semicolon at end “or which is exempt from section 406 of such Act by reason of section 408(b) of such Act”.
 
@@ -290,7 +312,7 @@ Subsec. (e)(1). Pub. L. 98–369, §491(d)(46), struck out “or 405(a)” after
 
 Subsec. (e)(7). Pub. L. 98–369, §491(e)(7), substituted “section 409(h)” for “section 409A(h)”, “section 409(e)(4)” for “section 409A(e)(4)”, and “section 409(e)” for “section 409A(e)”.
 
-Subsec. (e)(8). Pub. L. 98–369, §491(e)(8), substituted “section 409(<i>l</i>)” for “section 409A(<i>l)”.</i>
+Subsec. (e)(8). Pub. L. 98–369, §491(e)(8), substituted “section 409(<i>l</i>)” for “section 409A(<i>l</i>)”.
 
 1983—Subsec. (d). Pub. L. 97–448 inserted “, as in effect on the day before the date of the enactment of the Subchapter S Revision Act of 1982” after “section 1379” in last sentence.
 
@@ -316,6 +338,14 @@ Subsec. (e)(7). Pub. L. 95–600, §141(f)(5), substituted in heading “Leverag
 
 1976—Subsecs. (c) to (f). Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 
+#### Effective Date of 1996 Amendments
+
+Amendment by Pub. L. 104–191 applicable to taxable years beginning after Dec. 31, 1996, see section 301(j) of Pub. L. 104–191, set out as a note under section 62 of this title.
+
+Section 1453(b) of Pub. L. 104–188 provided that: “The amendment made by this section \[amending this section\] shall apply to prohibited transactions occurring after the date of the enactment of this Act \[Aug. 20, 1996\].”
+
+Amendment by section 1702(g)(3) of Pub. L. 104–188 effective, except as otherwise expressly provided, as if included in the provision of the Revenue Reconciliation Act of 1990, Pub. L. 101–508, title XI, to which such amendment relates, see section 1702(i) of Pub. L. 104–188, set out as a note under section 38 of this title.
+
 #### Effective Date of 1990 Amendment
 
 Amendment by Pub. L. 101–508 effective, except as otherwise provided, as if included in the provision of the Revenue Reconciliation Act of 1989, Pub. L. 101–239, title VII, to which such amendment relates, see section 11701(n) of Pub. L. 101–508, set out as a note under section 42 of this title.
@@ -334,7 +364,7 @@ Amendment by section 491(e)(7), (8) of Pub. L. 98–369 effective Jan. 1, 1984, 
 
 #### Effective Date of 1983 Amendment
 
-Amendment by Pub. L. 97–448 effective on date of enactment of Subchapter S Revision Act of 1982 \[Oct. 19, 1982\], see section 311(c)(4) of Pub. L. 97–448, set out as a note under section 1368 of this title.
+Amendment by Pub. L. 97–448 effective on date of enactment of Subchapter S Revision Act of 1982 \[Oct. 19,1982\], see section 311(c)(4) of Pub. L. 97–448, set out as a note under section 1368 of this title.
 
 #### Effective Date of 1980 Amendments
 
@@ -378,7 +408,7 @@ Section 2003(c) of Pub. L. 93–406, as amended by Pub. L. 99–514, §2, Oct. 2
 
 &emsp;“(D) Until June 30, 1977, the provision of services to which subparagraphs (A), (B), and (C) do not apply between a plan and a disqualified person (i) under a binding contract in effect on July 1, 1974 (or pursuant to renewals of such contract), or (ii) if the disqualified person ordinarily and customarily furnished such services on June 30, 1974, if such provision of services remains at least as favorable to the plan as an arm's-length transaction with an unrelated party would be and if the provision of services was not, at the time of such provision, a prohibited transaction (within the meaning of section 503(b) of such Code) or the corresponding provisions of prior law; or
 
-&emsp;“(E) the sale, exchange, or other disposition of property which is owned by a plan on June 30, 1974, and all times thereafter, to a disqualified person, if such plan is required to dispose of such property in order to comply with the provisions of section 407(a)(2)(A) (relating to the prohibition against holding excess employer securities and employer realproperty) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1107(a)(2)\] and if the plan receives not less than adequate consideration.
+&emsp;“(E) the sale, exchange, or other disposition of property which is owned by a plan on June 30, 1974, and all times thereafter, to a disqualified person, if such plan is required to dispose of such property in order to comply with the provisions of section 407(a)(2)(A) (relating to the prohibition against holding excess employer securities and employer real property) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1107(a)(2)\] and if the plan receives not less than adequate consideration.
 
 > For the purposes of this paragraph, the term ‘disqualified person’ has the meaning provided by section 4975(e)(2) of the Internal Revenue Code of 1986.”
 
@@ -386,9 +416,13 @@ Section 2003(c) of Pub. L. 93–406, as amended by Pub. L. 99–514, §2, Oct. 2
 
 Secretary of the Treasury or his delegate to issue before Feb. 1, 1988, final regulations to carry out amendments made by section 1114 of Pub. L. 99–514, see section 1141 of Pub. L. 99–514, set out as a note under section 401 of this title.
 
+#### Plan Amendments Not Required Until January 1, 1998
+
+For provisions directing that if any amendments made by subtitle D \[§§1401–1465\] of title I of Pub. L. 104–188 require an amendment to any plan or annuity contract, such amendment shall not be required to be made before the first day of the first plan year beginning on or after Jan. 1, 1998, see section 1465 of Pub. L. 104–188, set out as a note under section 401 of this title.
+
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before thefirst plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
 #### Intent of Congress Concerning Employee Stock Ownership Plans
 
@@ -396,7 +430,9 @@ Section 803(h) of Pub. L. 94–455 provided that: “The Congress, in a series o
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 133, 401, 404, 408, 409, 411, 414, 415, 420, 503, 514, 856, 1042, 4943, 4963, 4978, 4980, 6213, 6501, 6503, 6511, 7422 of this title; title 5 section 8477; title 15 section 632; title 19 sections 2345, 2373; title 29 sections 1054, 1055, 1056, 1132, 1203, 1342, 1403; title 45 section 726.
+This section is referred to in sections 401, 404, 408, 409, 411, 414, 415, 420, 503, 514, 856, 1042, 4943, 4963, 4978, 4980, 6213, 6501, 6503, 6511, 7422 of this title; title 5 section 8477; title 15 section 632; title 19 sections 2345, 2373; title 29 sections 1054, 1055, 1056, 1101, 1132, 1203, 1342, 1403; title 45 section 726.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “a”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be “from”.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be “a”.</i>
 

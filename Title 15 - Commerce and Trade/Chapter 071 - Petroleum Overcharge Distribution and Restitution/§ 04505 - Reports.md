@@ -32,7 +32,7 @@ Section 155 of Public Law 97–377, referred to in subsecs. (a)(2), (b), is sect
 
 #### Change of Name
 
-Committee on Energy and Commerce of House of Representatives treated as referring to Committee onCommerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a)of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Section Referred to in Other Sections
 

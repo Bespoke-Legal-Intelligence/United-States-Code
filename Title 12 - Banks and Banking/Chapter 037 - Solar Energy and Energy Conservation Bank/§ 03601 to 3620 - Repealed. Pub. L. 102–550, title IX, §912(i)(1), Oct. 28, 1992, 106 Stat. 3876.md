@@ -42,7 +42,7 @@ Section 3620, Pub. L. 96–294, title V, §522, June 30, 1980, 94 Stat. 737; Pub
 
 #### Short Title
 
-Pub. L. 96–294, title V, §501, June 30, 1980, 94 Stat. 719, provided that title V of Pub. L. 96–294 was to be cited as the “Solar Energy and Energy Conservation Act of 1980”, prior to by Pub. L. 102–550, title IX, §912(i)(1), Oct. 28, 1992, 106 Stat. 3876.
+Pub. L. 96–294, title V, §501, June 30, 1980, 94 Stat. 719, provided that title V of Pub. L. 96–294 was to be cited as the “Solar Energy and Energy Conservation Act of1980”, prior to repeal by Pub. L. 102–550, title IX, §912(i)(1), Oct. 28, 1992, 106 Stat. 3876.
 
-Pub. L. 96–294, title V, §502, June 30, 1980, 94 Stat. 719, provided that subtitle A (§§502–534) of title V of Pub. L. 96–294 was to be cited as the “Solar Energy and Energy Conservation Bank Act”, prior to by Pub. L. 102–550, title IX, §912(i)(1), Oct. 28, 1992, 106 Stat. 3876.
+Pub. L. 96–294, title V, §502, June 30, 1980, 94 Stat. 719, provided that subtitle A (§§502–534) of title V of Pub. L. 96–294 was to be cited as the “Solar Energy and Energy Conservation Bank Act”, prior to repeal by Pub. L. 102–550, title IX, §912(i)(1), Oct. 28, 1992, 106 Stat. 3876.
 

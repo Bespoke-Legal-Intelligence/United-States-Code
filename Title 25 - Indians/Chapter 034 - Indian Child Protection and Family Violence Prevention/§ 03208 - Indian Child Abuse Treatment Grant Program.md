@@ -42,7 +42,7 @@ Each recipient of a grant awarded under subsection (a) of this section shall—
 
 #### (e) Authorization of appropriations
 
-there <sup>1</sup> is hereby authorized to be appropriated to carry out the provisions of this section$10,000,000 for each of the fiscal years 1992, 1993, 1994, 1995, 1996, and 1997.
+there <sup>1</sup> is hereby authorized to be appropriated to carry out the provisions of this section $10,000,000 for each of the fiscal years 1992, 1993, 1994, 1995, 1996, and 1997.
 
 (Pub. L. 101–630, title IV, §409, Nov. 28, 1990, 104 Stat. 4551; Pub. L. 104–16, §1, June 21, 1995, 109 Stat. 190.)
 

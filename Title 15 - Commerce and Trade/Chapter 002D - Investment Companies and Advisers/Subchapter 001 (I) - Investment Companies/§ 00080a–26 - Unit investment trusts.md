@@ -24,9 +24,39 @@ In the event that a trust indenture, agreement of custodianship, or other instru
 
 Whenever the Commission has reason to believe that a unit investment trust is inactive and that its liquidation is in the interest of the security holders of such trust, the Commission may file a complaint seeking the liquidation of such trust in the district court of the United States in any district wherein any trustee of such trust resides or has its principal place of business. A copy of such complaint shall be served on every trustee of such trust, and notice of the proceeding shall be given such other interested persons in such manner and at such times as the court may direct. If the court determines that such liquidation is in the interest of the security holders of such trust, the court shall order such liquidation and, after payment of necessary expenses, the distribution of the proceeds to the security holders of the trust in such manner and on such terms as may to the court appear equitable.
 
-(Aug. 22, 1940, ch. 686, title I, §26, 54 Stat. 827; Dec. 14, 1970, Pub. L. 91–547, §15, 84 Stat. 1424; Dec. 4, 1987, Pub. L. 100–181, title VI, §§618, 619, 101 Stat. 1262.)
+#### (e) Exemption
+
+#### (1) In general
+
+&emsp;Subsection (a) of this section does not apply to any registered separate account funding variable insurance contracts, or to the sponsoring insurance company and principal underwriter of such account.
+
+#### (2) Limitation on sales
+
+&emsp;It shall be unlawful for any registered separate account funding variable insurance contracts, or for the sponsoring insurance company of such account, to sell any such contract—
+
+&emsp;&emsp;(A) unless the fees and charges deducted under the contract, in the aggregate, are reasonable in relation to the services rendered, the expenses expected to be incurred, and the risks assumed by the insurance company, and, beginning on the earlier of August 1, 1997, or the earliest effective date of any registration statement or amendment thereto for such contract following October 11, 1996, the insurance company so represents in the registration statement for the contract; and
+
+&emsp;&emsp;(B) unless the insurance company—
+
+&emsp;&emsp;&emsp;(i) complies with all other applicable provisions of this section, as if it were a trustee or custodian of the registered separate account;
+
+&emsp;&emsp;&emsp;(ii) files with the insurance regulatory authority of the State which is the domiciliary State of the insurance company, an annual statement of its financial condition, which most recent statement indicates that the insurance company has a combined capital and surplus, if a stock company, or an unassigned surplus, if a mutual company, of not less than $1,000,000, or such other amount as the Commission may from time to time prescribe by rule, as necessary or appropriate in the public interest or for the protection of investors; and
+
+&emsp;&emsp;&emsp;(iii) together with its registered separate accounts, is supervised and examined periodically by the insurance authority of such State.
+
+#### (3) Fees and charges
+
+&emsp;For purposes of paragraph (2), the fees and charges deducted under the contract shall include all fees and charges imposed for any purpose and in any manner.
+
+#### (4) Regulatory authority
+
+&emsp;The Commission may issue such rules and regulations to carry out paragraph (2)(A) as it determines are necessary or appropriate in the public interest or for the protection of investors.
+
+(Aug. 22, 1940, ch. 686, title I, §26, 54 Stat. 827; Dec. 14, 1970, Pub. L. 91–547, §15, 84 Stat. 1424; Dec. 4, 1987, Pub. L. 100–181, title VI, §§618, 619, 101 Stat. 1262; Oct. 11, 1996, Pub. L. 104–290, title II, §205(a), 110 Stat. 3429.)
 
 #### Amendments
+
+1996—Subsec. (e). Pub. L. 104–290 added subsec. (e).
 
 1987—Subsec. (b). Pub. L. 100–181, §618, substituted “intended” for “intend”.
 

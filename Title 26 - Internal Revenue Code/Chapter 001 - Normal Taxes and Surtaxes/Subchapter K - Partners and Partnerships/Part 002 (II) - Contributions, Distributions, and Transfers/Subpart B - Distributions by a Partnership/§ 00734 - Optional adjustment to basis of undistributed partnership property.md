@@ -24,7 +24,7 @@ In the case of a distribution of property to a partner, a partnership, with resp
 
 #### (c) Allocation of basis
 
-The allocation of basis among partnership properties where subsection (b) is applicable shall be made in accordance with the rules provided in section 755.
+The allocation of basis among partnership properties where subsection (b) is applicableshall be made in accordance with the rules provided in section 755.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 247; July 18, 1984, Pub. L. 98–369, div. A, title I, §78(a), 98 Stat. 597.)
 

@@ -16,8 +16,6 @@ Subpart B—Distributions by a Partnership
 
 1992—Pub. L. 102–486, title XIX, §1937(b)(3), Oct. 24, 1992, 106 Stat. 3033, added item 737.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “Subparagraph”.</i>
-
 
 ---
 

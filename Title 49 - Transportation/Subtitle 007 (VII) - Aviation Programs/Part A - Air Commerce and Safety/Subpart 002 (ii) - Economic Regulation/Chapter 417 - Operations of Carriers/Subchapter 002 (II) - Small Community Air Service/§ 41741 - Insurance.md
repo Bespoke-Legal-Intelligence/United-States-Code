@@ -6,7 +6,9 @@ The Secretary of Transportation may pay an air carrier compensation under this s
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -22,5 +24,5 @@ The words “The Secretary of Transportation may pay . . . only when” are su
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 40109, 41110, 46301 of this title.
+This section is referred to in section 41110 of this title.
 

@@ -88,7 +88,7 @@ For purposes of this subchapter—
 
 &emsp;&emsp;(C) the unloading of cargo described in subparagraph (A) or (B) in Alaska, Hawaii, or any possession of the United States, or in the United States mainland, respectively, or
 
-&emsp;&emsp;(D) cargo loaded on a vessel in Alaska, Hawaii, or a possession of the United States and unloaded in the State or possession in which loaded.
+&emsp;&emsp;(D) cargo loaded on a vessel in Alaska, Hawaii, or a possession of the United States and unloaded in the State or possession in which loaded, or passengers transported on United States flag vessels operating solely within the State waters of Alaska or Hawaii and adjacent international waters.
 
 #### (2) Cargo does not include crude oil with respect to Alaska
 
@@ -174,7 +174,7 @@ The Secretary may prescribe such additional regulations as may be necessary to c
 
 &emsp;(4) providing for the remittance or mitigation of penalties and the settlement or compromise of claims.
 
-(Added Pub. L. 99–662, title XIV, §1402(a), Nov. 17, 1986, 100 Stat. 4266; amended Pub. L. 100–647, title II, §2002(b), title VI, §§6109(a), 6110(a), Nov. 10, 1988, 102 Stat. 3597, 3712.)
+(Added Pub. L. 99–662, title XIV, §1402(a), Nov. 17, 1986, 100 Stat. 4266; amended Pub. L. 100–647, title II, §2002(b), title VI, §§6109(a), 6110(a), Nov. 10, 1988, 102 Stat. 3597, 3712; Pub. L. 104–188, title I, §1704(i)(1), Aug. 20, 1996, 110 Stat. 1881.)
 
 #### References in Text
 
@@ -186,11 +186,17 @@ For prior section 4462, see Prior Provisions note set out preceding section 4471
 
 #### Amendments
 
-1988—Subsec. (b)(1)(B). Pub. L. 100–647, §2002(b), amended subpar. (B) generally. Prior to amendment,subpar. (B) read as follows: “cargo loaded on a vessel in Alaska, Hawaii, or any possession of the United States for transportation to the United States mainland for ultimate use or consumption in the United States mainland,”.
+1996—Subsec. (b)(1)(D). Pub. L. 104–188 inserted before period at end “, or passengers transported on United States flag vessels operating solely within the State waters of Alaska or Hawaii and adjacent international waters”.
+
+1988—Subsec. (b)(1)(B). Pub. L. 100–647, §2002(b), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “cargo loaded on a vessel in Alaska, Hawaii, or any possession of the United States for transportation to the United States mainland for ultimate use or consumption in the United States mainland,”.
 
 Subsec. (g)(3). Pub. L. 100–647, §6110(a), added par. (3).
 
 Subsecs. (h), (i). Pub. L. 100–647, §6109(a), added subsec. (h) and redesignated former subsec. (h) as (i).
+
+#### Effective Date of 1996 Amendment
+
+Section 1704(i)(2) of Pub. L. 104–188 provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effect as if included in the amendments made by section 1402(a) of the Harbor Maintenance Revenue Act of 1986 \[Pub. L. 99–662, title XIV\].”
 
 #### Effective Date of 1988 Amendment
 

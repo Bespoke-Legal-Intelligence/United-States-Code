@@ -23,7 +23,7 @@ Pub. L. 101–647, title XXXV, §3586(2), Nov. 29, 1990, 104 Stat. 4930, substit
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in sections 3551, 3563, 3613 of this title.
+This subchapter is referred to in sections 3551, 3613, 3663, 3664 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should not appear.</i>
 

@@ -6,9 +6,9 @@
 
 &emsp;Not later than 45 days after the receipt by the Administrator of a proposal submitted—
 
-&emsp;&emsp;(A) by a private voluntary organization or cooperative, with the concurrence of the appropriate United States field mission, for commodities; or
+&emsp;&emsp;(A) by an eligible organization, with the concurrence of the appropriate United States field mission, for commodities; or
 
-&emsp;&emsp;(B) by a United States field mission to make commodities available to a private voluntary organization or cooperative;
+&emsp;&emsp;(B) by a United States field mission to make commodities available to an eligible organization;
 
 > &emsp;under this subchapter, the Administrator shall make a decision concerning such proposal.
 
@@ -20,9 +20,9 @@
 
 Not later than 30 days prior to the issuance of a final guideline to carry out this subchapter, the Administrator shall—
 
-&emsp;(1) provide notice of the existence of a proposed guideline, and that such guideline is available for review and comment, to private voluntary organizations and cooperatives that participate in programs under this subchapter, and to other interested persons;
+&emsp;(1) provide notice of the existence of a proposed guideline, and that such guideline is available for review and comment, to eligible organizations that participate in programs under this subchapter, and to other interested persons;
 
-&emsp;(2) make the proposed guideline available, on request, to the organizations, cooperatives, and other persons referred to in paragraph (1); and
+&emsp;(2) make the proposed guideline available, on request, to the eligible organizations and other persons referred to in paragraph (1); and
 
 &emsp;(3) take any comments received into consideration prior to the issuance of the final guideline.
 
@@ -52,9 +52,15 @@ Not later than 30 days prior to the issuance of a final guideline to carry out t
 
 Not later than 15 days after receipt from a United States field mission of a call forward for agricultural commodities for programs that meet the requirements of this subchapter, the order for the purchase or the supply, from inventory, of such commodities or products shall be transmitted to the Commodity Credit Corporation.
 
-(July 10, 1954, ch. 469, title II, §207, as added Dec. 23, 1985, Pub. L. 99–198, title XI, §1104(a), 99 Stat. 1466; amended Dec. 22, 1987, Pub. L. 100–202, §14, 101 Stat. 1329–449; Nov. 28, 1990, Pub. L. 101–624, title XV, §1512, 104 Stat. 3640.)
+(July 10, 1954, ch. 469, title II, §207, as added Dec. 23, 1985, Pub. L. 99–198, title XI, §1104(a), 99 Stat. 1466; amended Dec. 22, 1987, Pub. L. 100–202, §14, 101 Stat. 1329–449; Nov. 28, 1990, Pub. L. 101–624, title XV, §1512, 104 Stat. 3640; Apr. 4, 1996, Pub. L. 104–127, title II, §207(b), 110 Stat. 954.)
 
 #### Amendments
+
+1996—Subsec. (a)(1)(A), (B). Pub. L. 104–127, §207(b)(1), substituted “an eligible organization” for “a private voluntary organization or cooperative”.
+
+Subsec. (b)(1). Pub. L. 104–127, §207(b)(2)(A), substituted “eligible organizations” for “private voluntary organizations and cooperatives”.
+
+Subsec. (b)(2). Pub. L. 104–127, §207(b)(2)(B), substituted “eligible organizations” for “organizations, cooperatives,”.
 
 1990—Pub. L. 101–624 amended section generally, substituting present provisions for provisions relating to requests by nonprofit voluntary agency or cooperative for nonemergency food assistance agreements, and uses of foreign currency proceeds.
 

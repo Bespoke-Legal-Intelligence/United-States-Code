@@ -2,11 +2,11 @@
 
 #### (a) Mine office; bulletin board
 
-At each coal or other mine there shall be maintained an office with a conspicuous sign designating it as the office of such mine. There shall be a bulletin board at such office or located at a conspicuous place near an entrance of such mine, in such manner that orders, citations, notices and decisions required by law or regulation to be posted, may be posted thereon, and be easily visible to all persons desiring to read them, and be protected against damage by weather and against unauthorized removal. A copy of any order, citation, notice or decision required by this chapter to be given to an operator shall be delivered to the office of the affected mine, and a copy shall be immediately posted on the bulletin board of such mine by the operator or his agent.
+At each coal or other mine there shall be maintained an office with a conspicuous sign designating it as the office of such mine. There shall be a bulletin board at such office or located at a conspicuous place near an entrance of such mine, in such manner that orders, citations, notices and decisions required by law or regulation to be posted, may be posted thereon,and be easily visible to all persons desiring to read them, and be protected against damage by weather and against unauthorized removal. A copy of any order, citation, notice or decision required by this chapter to be given to an operator shall be delivered to the office of the affected mine, and a copy shall be immediately posted on the bulletin board of such mine by the operator or his agent.
 
 #### (b) Distribution of orders, citations, notices, and decisions
 
-The Secretary shall (1) cause a copy of any order, citation, notice, or decision required by this chapter to be given to an operator to be mailed immediately to a representative of the miners in the affected coal or other mine, and (2) cause a copy thereof to be mailed to the public official or agency of the State charged with administering State laws, if any, relating to health or safety in such mine. Such notice,order, citation, or decision shall be available for public inspection.
+The Secretary shall (1) cause a copy of any order, citation, notice, or decision required by this chapter to be given to an operator to be mailed immediately to a representative of the miners in the affected coal or other mine, and (2) cause a copy thereof to be mailed to the public official or agency of the State charged with administering State laws, if any, relating to health or safety in such mine. Such notice, order, citation, or decision shall be available for public inspection.
 
 #### (c) Compliance
 

@@ -10,7 +10,7 @@ The national base acreage allotment for each crop of upland cotton shall be appo
 
 #### (c) Apportionment to counties
 
-The State base acreage allotment for each crop of upland cotton shall be apportioned to counties on the same basis as to years and conditions as is applicable to the State under subsection (b) of this section: <i>Provided,</i> That the State committee may reserve not to exceed 2 per centum of its State acreage allotment which shall be used to make adjustments in county allotments for trends in acreage, for counties adversely affected by abnormal conditions affecting plantings, or for small or new farms, or to correct inequities in farm allotments and to prevent hardships.
+The State base acreage allotment for each crop of upland cotton shall be apportioned to counties on the same basis as to years and conditions as is applicable to the State under subsection (b) of this section: <i>Provided</i>, That the State committee may reserve not to exceed 2 per centum of its State acreage allotment which shall be used to make adjustments in county allotments for trends in acreage, for counties adversely affected by abnormal conditions affecting plantings, or for small or new farms, or to correct inequities in farm allotments and to prevent hardships.
 
 #### (d) Adjustment of apportionment bases for counties
 
@@ -26,7 +26,7 @@ The Secretary shall adjust the apportionment base for each county as may be nece
 
 #### (f) Surrender of farm base acreage allotments
 
-Effective for the 1971 through 1977 crops, any part of any farm base acreage allotment on which upland cotton will not be planted and which is voluntarily surrendered to the county committee shall be deducted from the farm base acreage allotment for such farm and may be reapportioned by the county committee to other farms in the same county receiving farm base acreage allotments in amounts determined by the county committee to be fair and reasonable on the basis of past acreage of upland cotton, land, labor, equipment available for the production of upland cotton, crop rotation practices, and soil and other physical facilities affecting the production of upland cotton. If all of the acreage voluntarily surrendered is not needed in the county, the county committee may surrender the excess acreage to the State committee to be used to make adjustments in farm base acreage allotments for other farms in the State adversely affected by abnormal conditions affecting plantings or to correct inequities or to prevent hardship. Any farm base acreage allotment released under this provision shall be regarded for the purpose of establishing future farm base acreage allotments as having been planted on the farm and in the county where the release was made rather than on the farm and in the county to which the allotment was transferred: <i>Provided,</i> That, notwithstanding any other provision of law, any part of any farm base acreage allotment for any crop year may be permanently released in writing to the county committee by the owner and operator of the farm and reapportioned as provided herein. Acreage released under this subsection shall be credited to the State in determining future allotments.
+Effective for the 1971 through 1977 crops, any part of any farm base acreage allotment on which upland cotton will not be planted and which is voluntarily surrendered to the county committee shall be deducted from the farm base acreage allotment for such farm and may be reapportioned by the county committee to other farms in the same county receiving farm base acreage allotments in amounts determined by the county committee to be fair and reasonable on the basis of past acreage of upland cotton, land, labor, equipment available for the production of upland cotton, crop rotation practices, and soil and other physical facilities affecting the production of upland cotton. If all of the acreage voluntarily surrendered is not needed in the county, the county committee may surrender the excess acreage to the State committee to be used to make adjustments in farm base acreage allotments for other farms in the State adversely affected by abnormal conditions affecting plantings or to correct inequities or to prevent hardship. Any farm base acreage allotment released under this provision shall be regarded for the purpose of establishing future farm base acreage allotments as having been planted on the farm and in the county where the release was made rather than on the farm and in the county to which the allotment was transferred: <i>Provided</i>, That, notwithstanding any other provision of law, any part of any farm base acreage allotment for any crop year may be permanently released in writing to the county committee by the owner and operator of the farm and reapportioned as provided herein. Acreage released under this subsection shall be credited to the State in determining future allotments.
 
 #### (g) Compliance with set-aside requirements
 
@@ -73,6 +73,10 @@ Section 601 of Pub. L. 91–524 provided that the amendment made by that section
 #### Effective Date of 1965 Amendment
 
 Section 401(3) of Pub. L. 89–321 provided that the amendment made by that section is effective with 1966 crop.
+
+#### Inapplicability of Section
+
+Section inapplicable to 1996 through 2002 crops of loan commodities, peanuts, and sugar and inapplicable to milk during period beginning Apr. 4, 1996, and ending Dec. 31, 2002, see section 7301(a)(1)(A) of this title.
 
 #### Section Referred to in Other Sections
 

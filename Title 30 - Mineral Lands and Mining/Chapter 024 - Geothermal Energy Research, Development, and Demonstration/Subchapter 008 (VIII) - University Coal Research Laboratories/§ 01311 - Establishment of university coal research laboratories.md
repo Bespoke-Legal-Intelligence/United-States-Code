@@ -20,7 +20,7 @@ Not more than one coal laboratory established pursuant to this subchapter shall 
 
 #### (d) Period for submission of applications for designation; contents
 
-The Secretary of Energy shall establish a period, not in excess of ninety days after August 3, 1977, for the submission of applications for designation under this section. Any institution of higher education desiring to be designated under this subchapter shall submit an application to the Secretary of Energy in such form, at such time, and containing or accompanied by such information as the Secretary of Energy may reasonably require. Each application shall—
+The Secretary of Energy shall establish a period, not in excess of ninety days after August 3, 1977, for the submission of applications for designation under this section. Any institution of higher education desiring to be designated underthis subchapter shall submit an application to the Secretary of Energy in such form, at such time, and containing or accompanied by such information as the Secretary of Energy may reasonably require. Each application shall—
 
 &emsp;(1) describe the facilities to be established for coal energy resources and conversion research and research on related environmental problems including facilities for interdisciplinary academic research projects by the combined efforts of specialists such as mining engineers, mineral engineers, geochemists, mineralogists, mineral economists, fuel scientists, combustion engineers, mineral preparation engineers, coal petrographers, geologists, chemical engineers, civil engineers, mechanical engineers, and ecologists;
 
@@ -36,7 +36,7 @@ The Secretary of Energy shall designate the ten institutions of higher education
 
 #### Amendments
 
-1978—Subsec. (a). Pub. L. 95–617, §604(a), substituted “The Secretary of Energy” for “The Administrator,Energy Research and Development Administration (hereafter referred to as ‘Administrator’ in this subchapter)” and “shall designate thirteen institutions” for “is authorized and directed to designate ten institutions” and inserted provision that ten such designations be made as provided in subsection (e) of this section and the remaining three be made in fiscal year 1980.
+1978—Subsec. (a). Pub. L. 95–617, §604(a), substituted “The Secretary of Energy” for “The Administrator, Energy Research and Development Administration (hereafter referred to as ‘Administrator’ in this subchapter)” and “shall designate thirteen institutions” for “is authorized and directed to designate ten institutions” and inserted provision that ten such designations be made as provided in subsection (e) of this section and the remaining three be made in fiscal year 1980.
 
 Subsec. (b). Pub. L. 95–617, §604(a), (c), substituted in provisions preceding par. (1) “Secretary of Energy” for “Administrator” and in par. (1) “Those ten institutions of higher education designated as provided in subsection (e) of this section” for “The institution of higher education”.
 

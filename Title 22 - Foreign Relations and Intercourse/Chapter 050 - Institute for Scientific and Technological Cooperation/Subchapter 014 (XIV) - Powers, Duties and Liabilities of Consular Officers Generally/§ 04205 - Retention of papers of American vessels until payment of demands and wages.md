@@ -12,10 +12,6 @@ Section was not enacted as part of the Foreign Service Act of 1980 which compris
 
 Section was formerly classified to section 1185 of this title, and prior thereto to section 88 of this title.
 
-#### American Institute in Taiwan
-
-Employees of the American Institute in Taiwan authorized to assist and protect interests of United States persons by performing acts such as are authorized to be performed outside the United States for consular purposes by this section, see section 1–201 of Ex. Ord. No. 12143, June 22, 1979, 44 F.R. 37191, set out as a note under section 3301 of this title.
-
 #### Cross References
 
 Deposit of ships’ papers with consular officers by masters of vessels, see section 354 of Title 46, Appendix, Shipping.

@@ -28,12 +28,12 @@
 | [<b>535.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20535%20-%20Grade%20and%20Rank%20of%20Officers/README.md) | <b>Grade and Rank of Officers</b> | <b>5501</b> |
 | [<b>537.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20537%20-%20Enlistments/README.md) | <b>Enlistments</b> | <b>5531</b> |
 | [<b>539.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20539%20-%20Original%20Appointments/README.md) | <b>Original Appointments</b> | <b>5571</b> |
-| [<b>541.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20541%20-%20Running%20Mates%20for%20Reserve%20Officers/README.md) | <b>Running Mates for Reserve Officers</b> | <b>5651</b> |
+| <b>\[541.</b> | <b>Repealed.\]</b> |  |
 | <b>\[543.</b> | <b>Repealed.\]</b> |  |
 | [<b>544.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20544%20-%20Temporary%20Appointments/README.md) | <b>Temporary Appointments</b> | <b>5721</b> |
 | <b>\[545.</b> | <b>Repealed.\]</b> |  |
 | <b>\[547.</b> | <b>Repealed.\]</b> |  |
-| [<b>549.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20549%20-%20Reserve%20Promotions/README.md) | <b>Reserve Promotions</b> | <b>5891</b> |
+| <b>\[549.</b> | <b>Repealed.\]</b> |  |
 | [<b>551.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20551%20-%20Officers%20in%20Command/README.md) | <b>Officers in Command</b> | <b>5941</b> |
 | [<b>553.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20553%20-%20Special%20Assignments%20and%20Details/README.md) | <b>Special Assignments and Details</b> | <b>5981</b> |
 | [<b>555.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20555%20-%20Administration/README.md) | <b>Administration</b> | <b>6011</b> |
@@ -84,12 +84,15 @@
 | [<b>659.</b>](Part%20004%20%28IV%29%20-%20General%20Administration/Chapter%20659%20-%20Naval%20Militia/README.md) | <b>Naval Militia</b> | <b>7851</b> |
 | [<b>661.</b>](Part%20004%20%28IV%29%20-%20General%20Administration/Chapter%20661%20-%20Accountability%20and%20Responsibility/README.md) | <b>Accountability and Responsibility</b> | <b>7861</b> |
 | [<b>663.</b>](Part%20004%20%28IV%29%20-%20General%20Administration/Chapter%20663%20-%20Names%20and%20Insignia/README.md) | <b>Names and Insignia</b> | <b>7881</b> |
+| [<b>665.</b>](Part%20004%20%28IV%29%20-%20General%20Administration/Chapter%20665%20-%20National%20Oceanographic%20Partnership%20Program/README.md) | <b>National Oceanographic Partnership Program</b> | <b>7901</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
 
-1994—Pub. L. 103–337, div. A, title XVI, §1673(a)(1), Oct. 5, 1994, 108 Stat. 3015, struck out items for chapters 519 “Naval Reserve and Marine Corps Reserve”, 531 “Strength of Naval Reserve and Marine Corps Reserve”, 541 “Running Mates for Reserve Officers”, and 549 “Reserve Promotions”. Section 1691(b)(1) of Pub. L. 103–337 provided that the repeal of chapters 541 and 549 is effective Oct. 1, 1996.
+1996—Pub. L. 104–201, div. A, title II, §282(a)(2), Sept. 23, 1996, 110 Stat. 2473, added item for chapter 665.
+
+1994—Pub. L. 103–337, div. A, title XVI, §1673(a)(1), Oct. 5, 1994, 108 Stat. 3015, struck out items for chapters 519 “Naval Reserve and Marine Corps Reserve”, 531 “Strength of Naval Reserve and Marine Corps Reserve”, 541 “Running Mates for Reserve Officers”, and 549 “Reserve Promotions”.
 
 1993—Pub. L. 103–160, div. A, title VIII, §828(b)(3), Nov. 30, 1993, 107 Stat. 1714, struck out item for chapter 635 “Naval Aircraft”.
 

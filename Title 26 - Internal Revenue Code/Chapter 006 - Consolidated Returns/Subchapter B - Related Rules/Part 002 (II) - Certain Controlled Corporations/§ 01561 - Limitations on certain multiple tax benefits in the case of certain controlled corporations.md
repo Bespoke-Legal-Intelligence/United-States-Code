@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-The component members of a controlled group of corporations on a December 31 shall, for their taxable years which include such December 31, be limited for purposes of this subtitle to—
+The component members of a controlled group of corporations on a December 31 shall, for theirtaxable years which include such December 31, be limited for purposes of this subtitle to—
 
 &emsp;(1) amounts in each taxable income bracket in the tax table in section 11(b)(1) which do not aggregate more than the maximum amount in such bracket to which a corporation which is not a component member of a controlled group is entitled,
 
@@ -12,7 +12,7 @@ The component members of a controlled group of corporations on a December 31 sha
 
 &emsp;(4) one $2,000,000 amount for purposes of computing the tax imposed by section 59A.
 
-> The amounts specified in paragraph (1), the amount specified in paragraph (3), and the amount specified in paragraph (4) shall be divided equally among the component members of such group on such December 31 unless all ofsuch component members consent (at such time and in such manner as the Secretary shall by regulations prescribe) to an apportionment plan providing for an unequal allocation of such amounts. The amounts specified in paragraph (2) shall be divided equally among the component members of such group on such December 31 unless the Secretary prescribes regulations permitting an unequal allocation of such amounts. Notwithstanding paragraph (1), in applying the last sentence of section 11(b)(1) to such component members, the taxable income of all such component members shall be taken into account and any increase in tax under such last sentence shall be divided among such component members in the same manner as amounts under paragraph (1). In applying section 55(d)(3), the alternative minimum taxable income of all component members shall be taken into account and any decrease in the exemption amount shall be allocated to the component members in the same manner as under paragraph (3).
+> The amounts specified in paragraph (1), the amount specified in paragraph (3), and the amount specified in paragraph (4) shall be divided equally among the component members of such group on such December 31 unless all of such component members consent (at such time and in such manner as the Secretary shall by regulations prescribe) to an apportionment plan providing for an unequal allocation of such amounts. The amounts specified in paragraph (2) shall be divided equally among the component members of such group on such December 31 unless the Secretary prescribes regulations permitting an unequal allocation of such amounts. Notwithstanding paragraph (1), in applying the last 2 sentences of section 11(b)(1) to such component members, the taxable income of all such component members shall be taken into account and any increase in tax under such last 2 sentences shall be divided among such component members in the same manner as amounts under paragraph (1). In applying section 55(d)(3), the alternative minimum taxable income of all component members shall be taken into account and any decrease in the exemption amount shall be allocated to the component members in the same manner as under paragraph (3).
 
 #### (b) Certain short taxable years
 
@@ -24,9 +24,11 @@ If a corporation has a short taxable year which does not include a December 31 a
 
 > of such corporation for such taxable year shall be the amount specified in subsection (a)(1) or (2), as the case may be, divided by the number of corporations which are component members of such group on the last day of such taxable year. For purposes of the preceding sentence, section 1563(b) shall be applied as if such last day were substituted for December 31.
 
-(Added Pub. L. 88–272, title II, §235(a), Feb. 26, 1964, 78 Stat. 116; amended Pub. L. 91–172, title IV, §401(a)(1), Dec. 30, 1969, 83 Stat. 599; Pub. L. 94–12, title III, §§303(c)(1), 304(b), Mar. 29, 1975, 89 Stat. 44, 45; Pub. L. 94–164, §4(d)(1), Dec. 23, 1975, 89 Stat. 974; Pub. L. 94–455, title IX, §901(c)(1), title XIX, §§1901(b)(1)(J)(v), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1607, 1791, 1834; Pub. L. 95–600, title III, §301(b)(19), title VII, §703(j)(7), Nov. 6, 1978, 92 Stat. 2823, 2941; Pub. L. 97–34, title II, §232(b)(3), Aug. 13, 1981, 95 Stat. 250; Pub. L. 97–248, title II, §259(b), (c), Sept. 3, 1982, 96 Stat. 539; Pub. L. 98–369, div. A, title I, §66(b), title II, §211(b)(21), July 18, 1984, 98 Stat. 585, 756; Pub. L. 99–499, title V, §516(b)(3), Oct. 17, 1986, 100 Stat. 1771; Pub. L. 99–514, title VII, §701(e)(2), Oct. 22, 1986, 100 Stat. 2342; Pub. L. 100–647, title II, §2004(<i>l</i>), Nov. 10, 1988, 102 Stat. 3606.)
+(Added Pub. L. 88–272, title II, §235(a), Feb. 26, 1964, 78 Stat. 116; amended Pub. L. 91–172, title IV, §401(a)(1), Dec. 30, 1969, 83 Stat. 599; Pub. L. 94–12, title III, §§303(c)(1), 304(b), Mar. 29, 1975, 89 Stat. 44, 45; Pub. L. 94–164, §4(d)(1), Dec. 23, 1975, 89 Stat. 974; Pub. L. 94–455, title IX, §901(c)(1), title XIX, §§1901(b)(1)(J)(v), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1607, 1791, 1834; Pub. L. 95–600, title III, §301(b)(19), title VII, §703(j)(7), Nov. 6, 1978, 92 Stat. 2823, 2941; Pub. L. 97–34, title II, §232(b)(3), Aug. 13, 1981, 95 Stat. 250; Pub. L. 97–248, title II, §259(b), (c), Sept. 3, 1982, 96 Stat. 539; Pub. L. 98–369, div. A, title I, §66(b), title II, §211(b)(21), July 18, 1984, 98 Stat. 585, 756; Pub. L. 99–499, title V, §516(b)(3), Oct. 17, 1986, 100 Stat. 1771; Pub. L. 99–514, title VII, §701(e)(2), Oct. 22, 1986, 100 Stat. 2342; Pub. L. 100–647, title II, §2004(<i>l</i>), Nov. 10, 1988, 102 Stat. 3606; Pub. L. 104–188, title I, §1703(f), Aug. 20, 1996, 110 Stat. 1876.)
 
 #### Amendments
+
+1996—Subsec. (a). Pub. L. 104–188 in closing provisions substituted “last 2 sentences” for “last sentence” in two places.
 
 1988—Subsec. (a). Pub. L. 100–647 substituted “section 11(b)(1)” for “section 11(b)” in par. (1) and in penultimate sentence.
 
@@ -46,7 +48,7 @@ Subsec. (b). Pub. L. 97–248, §259(c), added par. (4) and inserted reference t
 
 1981—Subsec. (a)(2). Pub. L. 97–34 substituted “$250,000 ($150,000 if any component member is a corporation described in section 535(c)(2)(B))” for “$150,000”.
 
-1978—Subsec. (a). Pub. L. 95–600, §301(b)(19)(A), in par. (1) substituted “amounts in each taxable income bracket in the tax table in section 11(b) which do not aggregate more than the maximum amount in such bracket to which a corporation is not a component member of a controlled group is entitled” for “the surtax exemption under section 11(d)” and in provisions following par. (3) substituted “amounts” for “amount” in two places and struck out provision that in applying section 11(b)(2), the first $25,000 of taxable income and the second $25,000 of taxable income each be allocated among the component members of a controlled group of corporations in the same manner as the surtax exemption is allocated.
+1978—Subsec. (a). Pub. L. 95–600, §301(b)(19)(A), in par. (1) substituted “amounts in each taxable income bracket in the tax table in section 11(b) which do not aggregate more than the maximum amount in such bracketto which a corporation is not a component member of a controlled group is entitled” for “the surtax exemption under section 11(d)” and in provisions following par. (3) substituted “amounts” for “amount” in two places and struck out provision that in applying section 11(b)(2), the first $25,000 of taxable income and the second $25,000 of taxable income each be allocated among the component members of a controlled group of corporations in the same manner as the surtax exemption is allocated.
 
 Subsec. (b)(1). Pub. L. 95–600, §301(b)(19)(B), substituted “the amount in each taxable income bracket in the tax table in section 11(b)” for “the surtax exemption under section 11(d)”.
 
@@ -63,6 +65,10 @@ Pub. L. 94–12, §303(c)(1), substituted “$50,000” for “$25,000”.
 Subsec. (a)(2). Pub. L. 94–12, §304(b), substituted “$150,000” for “$100,000”.
 
 1969—Pub. L. 91–172 provided, with respect to taxable years beginning after Dec. 31, 1974, that a controlled group of corporations is limited to one $25,000 surtax exemption under section 11(d), one $100,000 amount for purposes of computing the accumulated earnings credit under section 535(c)(2) and (3), and one $25,000 amount for purposes of computing the limitation on the small business deduction of life insurance companies under sections 804(a)(4) and 809(d)(10).
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–188 effective as if included in the provision of the Revenue Reconciliation Act of 1993, Pub. L. 103–66, §§13001–13444, to which such amendment relates, see section 1703(<i>o</i>) of Pub. L. 104–188, set out as a note under section 39 of this title.
 
 #### Effective Date of 1988 Amendment
 
@@ -128,5 +134,5 @@ For applicability of amendment by section 701(e)(2) of Pub. L. 99–514 notwiths
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 535, 4980B, 6655 of this title.
+This section is referred to in sections 535, 4980B, 4980D, 6655 of this title.
 

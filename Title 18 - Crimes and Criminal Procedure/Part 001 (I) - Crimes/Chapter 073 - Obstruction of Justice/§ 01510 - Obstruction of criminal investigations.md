@@ -16,7 +16,7 @@
 
 &emsp;(A) the term “an officer of a financial institution” means an officer, director, partner, employee, agent, or attorney of or for a financial institution; and
 
-&emsp;(B) the term “subpoena for records” means a Federal grand jury subpoena for customer records that has been served relating to a violation of, or a conspiracy to violate—
+&emsp;(B) the term “subpoena for records” means a Federal grand jury subpoena or a Department of Justice subpoena (issued under section 3486 of title 18), for customer records that has been served relating to a violation of, or a conspiracy to violate—
 
 &emsp;&emsp;(i) section 215, 656, 657, 1005, 1006, 1007, 1014, 1344, 1956, 1957, or chapter 53 of title 31; or
 
@@ -32,11 +32,13 @@
 
 > with intent to obstruct a judicial proceeding, directly or indirectly notifies any other person about the existence or contents of a subpoena for records of that person engaged in such business or information that has been furnished to a Federal grand jury in response to that subpoena, shall be fined as provided by this title or imprisoned not more than 5 years, or both.
 
-(2) As used in paragraph (1), the term “subpoena for records” means a Federal grand jurysubpoena for records that has been served relating to a violation of, or a conspiracy to violate, section 1033 of this title.
+(2) As used in paragraph (1), the term “subpoena for records” means a Federal grand jury subpoena for records that has been served relating to a violation of, or a conspiracy to violate, section 1033 of this title.
 
-(Added Pub. L. 90–123, §1(a), Nov. 3, 1967, 81 Stat. 362; amended Pub. L. 97–291, §4(e), Oct. 12, 1982, 96 Stat. 1253; Pub. L. 101–73, title IX, §962(c), Aug. 9, 1989, 103 Stat. 502; Pub. L. 102–550, title XV, §1528, Oct. 28, 1992, 106 Stat. 4065; Pub. L. 103–322, title XXXII, §320604(c), title XXXIII, §330016(1)(K), Sept. 13, 1994, 108 Stat. 2119, 2147.)
+(Added Pub. L. 90–123, §1(a), Nov. 3, 1967, 81 Stat. 362; amended Pub. L. 97–291, §4(e), Oct. 12, 1982, 96 Stat. 1253; Pub. L. 101–73, title IX, §962(c), Aug. 9, 1989, 103 Stat. 502; Pub. L. 102–550, title XV, §1528, Oct. 28, 1992, 106 Stat. 4065; Pub. L. 103–322, title XXXII, §320604(c), title XXXIII, §330016(1)(K), Sept. 13, 1994, 108 Stat. 2119, 2147; Pub. L. 104–191, title II, §248(c), Aug. 21, 1996, 110 Stat. 2020.)
 
 #### Amendments
+
+1996—Subsec. (b)(3)(B). Pub. L. 104–191 which directed the insertion of “or a Department of Justice subpoena (issued under section 3486 of title 18),” after “subpoena”, was executed by making the insertion after “subpoena” the second place it appeared to reflect the probable intent of Congress.
 
 1994—Subsec. (a). Pub. L. 103–322, §330016(1)(K), substituted “fined under this title” for “fined not more than $5,000”.
 

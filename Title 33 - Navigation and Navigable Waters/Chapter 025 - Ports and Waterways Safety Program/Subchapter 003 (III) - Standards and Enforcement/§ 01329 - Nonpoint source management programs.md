@@ -16,7 +16,7 @@
 
 #### (2) Information used in preparation
 
-&emsp;In developing the report required by this section, the State (A) may rely upon information developed pursuant to sections 1288, 1313(e), 1314(f), 1315(b), and 1324 of this title, and other information as appropriate, and (B) may utilize appropriate elements of the waste treatment management plans developed pursuant to sections 1288(b) and 1313 of this title, to the extent such elements are consistent with and fulfill the requirements of this section.
+&emsp;In developing the report required by this section, the State (A) may rely upon information developed pursuant to sections 1288, 1313(e), 1314(f), 1315(b), and 1324 of this title, and other information as appropriate, and (B) may utilize appropriate elements of the waste treatment management plans developed pursuant to sections 1288(b) and 1313 of this title, tothe extent such elements are consistent with and fulfill the requirements of this section.
 
 #### (b) State management programs
 
@@ -62,7 +62,7 @@
 
 #### (1) Deadline
 
-&emsp;Subject to paragraph (2), not later than 180 days after the date of submission to the Administrator of any report or management program under this section (other than subsections (h), (i), and (k) of this section), the Administrator shall either approve or disapprove such report or management program, as the case may be. The Administrator may approve a portion of a management program under this subsection. If the Administrator does not disapprove a report, management program, or portion of a management program in such 180-day period, such report, management program, or portion shall be deemed approved for purposes of this section.
+&emsp;Subject to paragraph (2), not later than 180 days after the date of submission to the Administrator of any report or management program under this section (other than subsections (h), (i), and (k) of this section), the Administrator shall either approve or disapprove such report or management program, as the case may be. The Administrator may approve a portion of a management program under this subsection. If the Administratordoes not disapprove a report, management program, or portion of a management program in such 180-day period, such report, management program, or portion shall be deemed approved for purposes of this section.
 
 #### (2) Procedure for disapproval
 
@@ -136,7 +136,7 @@ Upon request of a State, the Administrator may provide technical assistance to s
 
 #### (7) Limitation on use of funds
 
-&emsp;States may use funds from grants made pursuant to this section for financial assistanceto persons only to the extent that such assistance is related to the costs of demonstration projects.
+&emsp;States may use funds from grants made pursuant to this section for financial assistance to persons only to the extent that such assistance is related to the costs of demonstration projects.
 
 #### (8) Satisfactory progress
 
@@ -230,5 +230,5 @@ Committee on Public Works and Transportation of House of Representatives treated
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1268, 1270, 1281, 1285, 1314, 1330, 1377, 1381, 1383, 1386, 1414b of this title; title 16 sections 1455b, 3838c.
+This section is referred to in sections 1268, 1270, 1281, 1285, 1314, 1330, 1377, 1381, 1383, 1386, 1414b of this title; title 16 section 1455b.
 

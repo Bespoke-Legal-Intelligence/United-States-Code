@@ -2,7 +2,7 @@
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in sections 1672, 1673 of this title; title 7 sections 390b, 450i, 3103, 3124a, 3311; title 40 section 483.
+This subchapter is referred to in sections 1672, 1673 of this title; title 7 sections 450i, 3103, 3124a, 3311; title 40 section 483.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -22,6 +22,10 @@ Amounts appropriated to carry out the purposes of this subchapter are authorized
 
 (Pub. L. 101–246, title II, §247, Feb. 16, 1990, 104 Stat. 62; Pub. L. 102–138, title II, §232, Oct. 28, 1991, 105 Stat. 703.)
 
+#### Repeal of Section
+
+<i>Section repealed upon transmittal of determination by President under section 6063(c)(3) of this title that democratically elected government in Cuba is in power, see section 6037(c) of this title.</i>
+
 #### References in Text
 
 Section 201, referred to in subsec. (a), means section 201 of Pub. L. 101–246, title II, Feb. 16, 1990, 104 Stat. 48, which was not classified to the Code.
@@ -40,7 +44,7 @@ Section was enacted as part of the Television Broadcasting to Cuba Act which com
 
 Determination of President of the United States, No. 90–35, Aug. 26, 1990, 55 F.R. 38659, provided:
 
-Pursuant to the authority vested in me by section 247 of the Foreign Relations Authorization Act, Fiscal Years 1990 and 1991 (Public Law 101–246) (the Act) \[this section\], I hereby determine that the test of televisionbroadcasting to Cuba (as authorized by title V of the Departments of Commerce, Justice, and State, the Judiciary and Related Agencies Appropriations Act, 1989 (Public Law 100–459) \[Pub. L. 100–459, title V, Oct. 1, 1988, 102 Stat. 2213\]), has demonstrated television broadcasting to Cuba is feasible and will not cause objectionable interference with the broadcasts of incumbent domestic licensees.
+Pursuant to the authority vested in me by section 247 of the Foreign Relations Authorization Act, Fiscal Years 1990 and 1991 (Public Law 101–246) (the Act) \[this section\], I hereby determine that the test of television broadcasting to Cuba (as authorized by title V of the Departments of Commerce, Justice, and State, the Judiciary and Related Agencies Appropriations Act, 1989 (Public Law 100–459) \[Pub. L. 100–459, title V, Oct. 1, 1988, 102 Stat. 2213\]), has demonstrated television broadcasting to Cuba is feasible and will not cause objectionable interference with the broadcasts of incumbent domestic licensees.
 
 You are authorized and directed to transmit this determination to the appropriate committees of Congress (as defined in section 248 of the Act \[22 U.S.C. 1465ff\]) and to arrange for its publication in the Federal Register.
 

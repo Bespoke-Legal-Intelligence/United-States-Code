@@ -34,11 +34,11 @@ There is hereby imposed a tax on—
 
 &emsp;&emsp;1993
 
-3\.35&nbsp;
+3\.35&nbsp;&nbsp;
 
 &emsp;&emsp;1994
 
-4\.35&nbsp;
+4\.35&nbsp;&nbsp;
 
 &emsp;&emsp;1995
 

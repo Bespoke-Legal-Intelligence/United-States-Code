@@ -12,7 +12,7 @@ Whoever is guilty of voluntary manslaughter, shall be fined under this title or 
 
 Whoever is guilty of involuntary manslaughter, shall be fined under this title or imprisoned not more than six years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 756; Sept. 13, 1994, Pub. L. 103–322, title XXXII, §320102, title XXXIII, §330016(1)(H), 108 Stat. 2109, 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 756; Sept. 13, 1994, Pub. L. 103–322, title XXXII, §320102, title XXXIII, §330016(1)(H), 108 Stat. 2109, 2147; Oct. 11, 1996, Pub. L. 104–294, title VI, §604(b)(13), 110 Stat. 3507.)
 
 #### Historical and Revision Notes
 
@@ -26,13 +26,21 @@ Minor changes were made in phraseology.
 
 #### Amendments
 
-1994—Subsec. (b). Pub. L. 103–322, §320102(3), substituted “six years” for “three years” in last par.
+1996—Subsec. (b). Pub. L. 104–294 repealed Pub. L. 103–322, §320102(2). See 1994 Amendment note below.
 
-Pub. L. 103–322, §§320102(2), 330016(1)(H), amended subsec. (b) identically, substituting “fined under this title” for “fined not more than $1,000” in last par.
+1994—Subsec. (b). Pub. L. 103–322, §330016(1)(H), substituted “fined under this title” for “fined not more than $1,000” in last par.
+
+Pub. L. 103–322, §320102(3), substituted “six years” for “three years” in last par.
+
+Pub. L. 103–322, §320102(2), which provided for amendment identical to Pub. L. 103–322, §330016(1)(H), above, was repealed by Pub. L. 104–294, §604(b)(13).
 
 Pub. L. 103–322, §320102(1)(B), which directed the amendment of subsec. (b) by inserting “, or both” after “years”, was executed by inserting the material after “years” in second par., which was the first place the word appeared in text, to reflect the probable intent of Congress.
 
 Pub. L. 103–322, §320102(1)(A), inserted “fined under this title or” after “shall be” in second par.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–294 effective Sept. 13, 1994, see section 604(d) of Pub. L. 104–294, set out as a note under section 13 of this title.
 
 #### Cross References
 

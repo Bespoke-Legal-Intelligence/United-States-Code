@@ -26,7 +26,7 @@ Application for certificates shall be made in writing to the Commission, be veri
 
 #### (e) Granting of certificate of public convenience and necessity
 
-Except in the cases governed by the provisos contained in subsection (c)(1) of this section, a certificate shall be issued to any qualified applicant therefor, authorizing the whole or any part of the operation, sale, service, construction, extension, or acquisition covered by the application, if it is found that the applicant is able and willing properly to do the acts and to perform the service proposed and to conform to the provisions of this chapter and the requirements, rules, and regulations of the Commission thereunder, and that the proposed service, sale, operation, construction, extension, or acquisition, to the extent authorized by the certificate, is or will be required by the present or future public convenience and necessity; otherwise such application shall be denied. The Commission shall have the power to attach to the issuance of the certificate and to the exercise of the rights granted thereunder such reasonable terms and conditions as the public convenience and necessity may require.
+Except in the cases governed by the provisos contained in subsection (c)(1) of this section, acertificate shall be issued to any qualified applicant therefor, authorizing the whole or any part of the operation, sale, service, construction, extension, or acquisition covered by the application, if it is found that the applicant is able and willing properly to do the acts and to perform the service proposed and to conform to the provisions of this chapter and the requirements, rules, and regulations of the Commission thereunder, and that the proposed service, sale, operation, construction, extension, or acquisition, to the extent authorized by the certificate, is or will be required by the present or future public convenience and necessity; otherwise such application shall be denied. The Commission shall have the power to attach to the issuance of the certificate and to the exercise of the rights granted thereunder such reasonable terms and conditions as the public convenience and necessity may require.
 
 #### (f) Determination of service area; jurisdiction of transportation to ultimate consumers
 
@@ -66,7 +66,7 @@ Enforcement functions of Secretary or other official in Department of Energy and
 
 Federal Power Commission terminated and functions with regard to issuance of certificates of public convenience and necessity, including abandonment of facilities or services, and establishment of physical connections transferred to Federal Energy Regulatory Commission by sections 7172(a)(1)(D) and 7293 of Title 42, The Public Health and Welfare.
 
-For transfer of functions of Federal Power Commission, with certain reservations, to Chairman of such Commission, see Reorg. Plan No. 9 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out in theAppendix to Title 5, Government Organization and Employees.
+For transfer of functions of Federal Power Commission, with certain reservations, to Chairman of such Commission, see Reorg. Plan No. 9 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Federal Rules of Civil Procedure
 

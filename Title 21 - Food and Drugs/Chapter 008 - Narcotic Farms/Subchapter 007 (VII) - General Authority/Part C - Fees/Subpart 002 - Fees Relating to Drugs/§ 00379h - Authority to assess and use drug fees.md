@@ -58,7 +58,7 @@ Beginning in fiscal year 1993, the Secretary shall assess and collect fees in ac
 
 &emsp;&emsp;&emsp;(ii) who, after September 1, 1992, had pending before the Secretary a human drug application or supplement,
 
-> &emsp;&emsp;shall pay for each such prescription drug product the annual fee established in subsection (b) of this section. Such fee shall bepayable at the time of the first such listing of such product in each calendar year. Such fee shall be paid only once each year for each listed prescription drug product irrespective of the number of times such product is listed under section 360 of this title.
+> &emsp;&emsp;shall pay for each such prescription drug product the annual fee established in subsection (b) of this section. Such fee shall be payable at the time of the first such listing of such product in each calendar year. Such fee shall be paid only once each year for each listed prescription drug product irrespective of the number of times such product is listed under section 360 of this title.
 
 #### (B) Exception
 
@@ -91,7 +91,7 @@ Beginning in fiscal year 1993, the Secretary shall assess and collect fees in ac
 
 #### (2) Small business exception
 
-&emsp;Any business which has fewer than 500 employees, including employees of affiliates, and which does not have a prescription drug product introduced or delivered for introduction into interstate commerce shall pay one-half the amount of the fee for human drug applications it submits and shall pay the entire amount of the fee for supplements it submits. Such a business shall not be required to pay any portion of any fee required under subsection (a)(1)(A) of this section until 1 year after the date of the submission of the application involved. For purposes of this paragraph, one business is an affiliate of another business when, directly or indirectly, one business controls, or has the power to control, the other business or a third party controls, or has the power to control, both businesses.
+&emsp;Any business which has fewer than 500 employees, including employees of affiliates, and which does not have a prescription drug product introduced or delivered for introduction into interstate commerce shall pay one-half the amount of the fee for human drug applications it submits and shall pay the entire amount of the fee for supplements it submits. Such a business shall not be required to pay any portion of any fee required under subsection (a)(1)(A) of this section until 1 yearafter the date of the submission of the application involved. For purposes of this paragraph, one business is an affiliate of another business when, directly or indirectly, one business controls, or has the power to control, the other business or a third party controls, or has the power to control, both businesses.
 
 #### (c) Increases and adjustments
 

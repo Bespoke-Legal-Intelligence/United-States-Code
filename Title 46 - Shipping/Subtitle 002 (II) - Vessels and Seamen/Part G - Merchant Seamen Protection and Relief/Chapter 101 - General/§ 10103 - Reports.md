@@ -14,7 +14,7 @@ Historical and Revision Notes
 
 10103
 
-46:643(<i>l)</i>
+46:643(<i>l</i>)
 
 Section 10103 requires that masters who engage or discharge seamen submit to the Coast Guard reports of the manning of the vessel, and reports of shipping agreements which are not supervised by a shipping commissioner. It also contains a number of exceptions for specified vessels.
 

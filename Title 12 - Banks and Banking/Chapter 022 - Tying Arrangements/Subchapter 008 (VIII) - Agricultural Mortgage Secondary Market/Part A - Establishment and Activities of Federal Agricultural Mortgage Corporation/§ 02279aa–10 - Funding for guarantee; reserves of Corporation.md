@@ -18,9 +18,9 @@ The Corporation shall provide guarantees for securities representing interests i
 
 &emsp;The Corporation shall establish such fees on the amount of risk incurred by the Corporation in providing the guarantees with respect to which such fee is assessed, as determined by the Corporation. Fees assessed under paragraphs (1) and (2) shall be established on an actuarially sound basis.
 
-#### (4) Annual review by GAO
+#### (4) Review by GAO
 
-&emsp;The Comptroller General of the United States shall annually review, and submit to the Congress a report regarding, the actuarial soundness and reasonableness of the fees established by the Corporation under this subsection.
+&emsp;The Comptroller General of the United States may review, and submit to the Congress a report regarding, the actuarial soundness and reasonableness of the fees established by the Corporation under this subsection.
 
 #### (c) Corporation reserve against guarantees losses required
 
@@ -36,7 +36,11 @@ The Corporation shall provide guarantees for securities representing interests i
 
 The Corporation may impose charges or fees in reasonable amounts in connection with the administration of its activities under this subchapter to recover its costs for performing such administration.
 
-(Pub. L. 92–181, title VIII, §8.10, as added Pub. L. 100–233, title VII, §702, Jan. 6, 1988, 101 Stat. 1701.)
+(Pub. L. 92–181, title VIII, §8.10, as added Pub. L. 100–233, title VII, §702, Jan. 6, 1988, 101 Stat. 1701; amended Pub. L. 104–316, title I, §106(f), Oct. 19, 1996, 110 Stat. 3831.)
+
+#### Amendments
+
+1996—Subsec. (b)(4). Pub. L. 104–316 substituted “Review” for “Annual review” in heading and “may review” for “shall annually review” in text.
 
 #### Section Referred to in Other Sections
 

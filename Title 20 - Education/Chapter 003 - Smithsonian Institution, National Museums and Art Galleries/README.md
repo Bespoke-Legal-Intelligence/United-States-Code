@@ -123,7 +123,7 @@
 | (d) | Audit of accounts. |
 | (e) | Inspector General. |
 | (f) | Property and personnel compensation. |
-| 76m, 76n. Repealed. |  |
+| 76m, 76n. | Repealed. |
 | 76<i>o.</i> | Borrowing authority to finance parking facilities. |
 | (a) | Revenue bonds. |
 | (b) | Interest. |
@@ -221,14 +221,14 @@
 
 |  |  |
 | :--- | ---: |
-| [80e.](Subchapter%20010%20%28X%29%20-%20National%20Armed%20Forces%20Museum%20Advisory%20Board/%C2%A7%2000080e%20-%20Congressional%20declaration%20of%20policy.md) | Congressional declaration of policy. |
-| [80f.](Subchapter%20010%20%28X%29%20-%20National%20Armed%20Forces%20Museum%20Advisory%20Board/%C2%A7%2000080f%20-%20Woodrow%20Wilson%20International%20Center%20for%20Scholars%3B%20Board%20of%20Trustees%20of%20the%20Center.md) | Woodrow Wilson International Center for Scholars; Board of Trustees of the Center. |
+| [80e.](Subchapter%20011%20%28XI%29%20-%20Woodrow%20Wilson%20International%20Center%20for%20Scholars/%C2%A7%2000080e%20-%20Congressional%20declaration%20of%20policy.md) | Congressional declaration of policy. |
+| [80f.](Subchapter%20011%20%28XI%29%20-%20Woodrow%20Wilson%20International%20Center%20for%20Scholars/%C2%A7%2000080f%20-%20Woodrow%20Wilson%20International%20Center%20for%20Scholars%3B%20Board%20of%20Trustees%20of%20the%20Center.md) | Woodrow Wilson International Center for Scholars; Board of Trustees of the Center. |
 | (a) | Establishment. |
 | (b) | Composition of Board. |
 | (c) | Appointment of alternate members by members of Board. |
 | (d) | Terms of office; vacancies; reappointment. |
 | (e) | Chairman and Vice Chairman of Board. |
-| [80g.](Subchapter%20010%20%28X%29%20-%20National%20Armed%20Forces%20Museum%20Advisory%20Board/%C2%A7%2000080g%20-%20Powers%20and%20duties%20of%20Board.md) | Powers and duties of Board. |
+| [80g.](Subchapter%20011%20%28XI%29%20-%20Woodrow%20Wilson%20International%20Center%20for%20Scholars/%C2%A7%2000080g%20-%20Powers%20and%20duties%20of%20Board.md) | Powers and duties of Board. |
 | (a) | Appointment of scholars; gifts, bequests, etc.; grants; location of Center; physical facilities; compensation of officers; plans and specifications for Center. |
 | (b) | Relocation assistance and programs. |
 | 80g–1. | Hubert H. Humphrey Fellowship in Social and Political Thought. |
@@ -238,9 +238,9 @@
 | (d) | Hubert H. Humphrey Fellowship Trust Fund; establishment, composition, investments, etc. |
 | (e) | Payments to Board from investments for implementation of Fellowship purposes. |
 | (f) | Authorization of appropriations. |
-| [80h.](Subchapter%20010%20%28X%29%20-%20National%20Armed%20Forces%20Museum%20Advisory%20Board/%C2%A7%2000080h%20-%20Administration%3B%20quorum.md) | Administration; quorum. |
-| [80i.](Subchapter%20010%20%28X%29%20-%20National%20Armed%20Forces%20Museum%20Advisory%20Board/%C2%A7%2000080i%20-%20Authorization%20of%20appropriations%3B%20limitations.md) | Authorization of appropriations; limitations. |
-| [80j.](Subchapter%20010%20%28X%29%20-%20National%20Armed%20Forces%20Museum%20Advisory%20Board/%C2%A7%2000080j%20-%20Audit%20of%20accounts.md) | Audit of accounts. |
+| [80h.](Subchapter%20011%20%28XI%29%20-%20Woodrow%20Wilson%20International%20Center%20for%20Scholars/%C2%A7%2000080h%20-%20Administration%3B%20quorum.md) | Administration; quorum. |
+| [80i.](Subchapter%20011%20%28XI%29%20-%20Woodrow%20Wilson%20International%20Center%20for%20Scholars/%C2%A7%2000080i%20-%20Authorization%20of%20appropriations%3B%20limitations.md) | Authorization of appropriations; limitations. |
+| [80j.](Subchapter%20011%20%28XI%29%20-%20Woodrow%20Wilson%20International%20Center%20for%20Scholars/%C2%A7%2000080j%20-%20Audit%20of%20accounts.md) | Audit of accounts. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -315,6 +315,13 @@
 | (d) | Return of Indian funerary objects not associated with Indian human remains. |
 | (e) | Interpretation. |
 | (f) | Authorization of appropriations. |
+| 80q–9a. | Summary and repatriation of unassociated funerary objects, sacred objects, and cultural patrimony. |
+| (a) | Summary. |
+| (b) | Repatriation. |
+| (c) | Standard of repatriation. |
+| (d) | Museum obligation. |
+| (e) | Statutory construction. |
+| (f) | “Native Hawaiian organization” defined. |
 | 80q–10. | Special committee to review inventory, identification, and return of Indian human remains and Indian funerary objects. |
 | (a) | Establishment; duties. |
 | (b) | Membership. |
@@ -357,5 +364,6 @@
 - [Subchapter 008 (VIII) - Paleontological Investigations](Subchapter%20008%20%28VIII%29%20-%20Paleontological%20Investigations/README.md)
 - [Subchapter 009 (IX) - Canal Zone Biological Area](Subchapter%20009%20%28IX%29%20-%20Canal%20Zone%20Biological%20Area/README.md)
 - [Subchapter 010 (X) - National Armed Forces Museum Advisory Board](Subchapter%20010%20%28X%29%20-%20National%20Armed%20Forces%20Museum%20Advisory%20Board/README.md)
+- [Subchapter 011 (XI) - Woodrow Wilson International Center for Scholars](Subchapter%20011%20%28XI%29%20-%20Woodrow%20Wilson%20International%20Center%20for%20Scholars/README.md)
 - [Subchapter 012 (XII) - Museum of African Art](Subchapter%20012%20%28XII%29%20-%20Museum%20of%20African%20Art/README.md)
 - [Subchapter 013 (XIII) - National Museum of the American Indian](Subchapter%20013%20%28XIII%29%20-%20National%20Museum%20of%20the%20American%20Indian/README.md)

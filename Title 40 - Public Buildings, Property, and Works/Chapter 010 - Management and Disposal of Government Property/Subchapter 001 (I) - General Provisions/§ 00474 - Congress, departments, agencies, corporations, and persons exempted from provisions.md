@@ -28,7 +28,7 @@
 
 &emsp;(11) the Department of Housing and Urban Development or the Resolution Trust Corporation or any officer thereof with respect to the disposal of residential property, or of other property (real or personal) held as part of or acquired for or in connection with residential property, or in connection with the insurance of mortgages, loans, or savings association accounts under the National Housing Act \[12 U.S.C. 1701 et seq.\] under <sup>2</sup> the Federal Deposit Insurance Act \[12 U.S.C. 1811 et seq.\] or any other law.; <sup>3</sup>
 
-&emsp;(12) the Tennessee Valley Authority with respect to nonpersonal services, with respect to the matters referred to in section 481(a)(4) of this title, and with respect to any property acquired or to be acquired for or in connection with any program of processing, manufacture, production, or force account construction: <i>Provided</i>, That the Tennessee Valley Authority shall to the maximum extent that it may deem practicable, consistent with the fulfillment of the purpose of its program and the effective and efficient conduct of its business, coordinate its operations with the requirements of this Act and the policies and regulations prescribed pursuant thereto;
+&emsp;(12) the Tennessee Valley Authority with respect to nonpersonal services, with respect tothe matters referred to in section 481(a)(4) of this title, and with respect to any property acquired or to be acquired for or in connection with any program of processing, manufacture, production, or force account construction: <i>Provided</i>, That the Tennessee Valley Authority shall to the maximum extent that it may deem practicable, consistent with the fulfillment of the purpose of its program and the effective and efficient conduct of its business, coordinate its operations with the requirements of this Act and the policies and regulations prescribed pursuant thereto;
 
 &emsp;(13) the Atomic Energy Commission;
 
@@ -36,7 +36,7 @@
 
 &emsp;(15) the United States Postal Service;
 
-&emsp;(16) the Maritime Administration with respect to the construction, reconstruction, and reconditioning (including outfitting and equipping incident to the foregoing), the acquisition, procurement, operation, maintenance, preservation, sale, lease, or charter of any merchant vessel or of any shipyard, ship site, terminal, pier, dock, warehouse, or other installation necessary or appropriate for the carrying out of any program of such Administration authorized by law, or nonadministrative activities incidental thereto: <i>Provided</i>, That the Maritime Administration shall tothe maximum extent that it may deem practicable, consistent with the fulfillment of the purposes of such programs and the effective and efficient conduct of such activities, coordinate its operations with the requirements of this Act, and the policies and regulations prescribed pursuant thereto;
+&emsp;(16) the Maritime Administration with respect to the construction, reconstruction, and reconditioning (including outfitting and equipping incident to the foregoing), the acquisition, procurement, operation, maintenance, preservation, sale, lease, or charter of any merchant vessel or of any shipyard, ship site, terminal, pier, dock, warehouse, or other installation necessary or appropriate for the carrying out of any program of such Administration authorized by law, or nonadministrative activities incidental thereto: <i>Provided</i>, That the Maritime Administration shall to the maximum extent that it may deem practicable, consistent with the fulfillment of the purposes of such programs and the effective and efficient conduct of such activities, coordinate its operations with the requirements of this Act, and the policies and regulations prescribed pursuant thereto;
 
 &emsp;(17) the Central Intelligence Agency;
 
@@ -116,7 +116,7 @@ Subsec. (d)(21). Pub. L. 96–60 added par. (21).
 
 1967—Subsec. (d)(11). Pub. L. 90–19 substituted “the Department of Housing and Urban Development or any officer thereof” for “the Housing and Home Finance Agency, or any officer or constituent agency therein,”.
 
-1965—Subsec. (d)(15), (20). Pub. L. 89–343 inserted “, and the leasing and acquisition of real property, as authorized by law” in par. (15), and added par. (20).
+1965—Subsec. (d)(15), (20). Pub. L. 89–343 inserted “, and the leasing and acquisition of real property, as authorized by law” in par. (15), and added par. (20).
 
 1962—Subsec. (d)(6). Pub. L. 87–456 struck out provisions which permitted imported materials which the authorized procuring agency certifies to the Commissioner of Customs to be strategic and critical materials procured under the Strategic and Critical Materials Stock Piling Act to be entered, or withdrawn from warehouse, free of duty.
 
@@ -136,7 +136,7 @@ Amendment by Pub. L. 96–60 effective Oct. 1, 1979, see section 209 of Pub. L. 
 
 #### Effective Date of 1970 Amendment
 
-Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on date established therefor by Board of Governors of United States Postal Service and published by it in Federal Register, see section 15(a) of Pub. L. 91–375, set out as an Effective Date note preceding section 101 of Title 39, Postal Service.
+Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on date established therefor byBoard of Governors of United States Postal Service and published by it in Federal Register, see section 15(a) of Pub. L. 91–375, set out as an Effective Date note preceding section 101 of Title 39, Postal Service.
 
 #### Effective Date of 1962 Amendment
 
@@ -164,7 +164,7 @@ The Legislative Branch Appropriation Acts, acts June 13, 1945, ch. 189, §1, 59 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 752, 759 of this title; title 10 section 7306; title 41 section 252.
+This section is referred to in section 752 of this title; title 10 section 7306; title 41 section 252.
 
 <i><sup>1</sup></i><i> So in original. Should be “July”.</i>
 

@@ -4,7 +4,7 @@ Section, Pub. L. 90–247, title IV, §405, as added Pub. L. 92–318, title III
 
 #### Savings Provision
 
-Section 914 of title IX of Pub. L. 103–227 provided that: “Notwithstanding any other provision of law, contracts for the regional educational laboratories, Educational Resources Information Center Clearinghouses and research and development centers and regional educational laboratories assisted under section 405 of the General Education Provisions Act \[20 U.S.C. 1221e\], as such section was in effect on the day before the date of the enactment of this title \[Mar. 31, 1994\], shall remain in effect until the termination date of such contracts.”
+Section 914 of title IX of Pub. L. 103–227 provided that: “Notwithstanding any other provision of law,contracts for the regional educational laboratories, Educational Resources Information Center Clearinghouses and research and development centers and regional educational laboratories assisted under section 405 of the General Education Provisions Act \[20 U.S.C. 1221e\], as such section was in effect on the day before the date of the enactment of this title \[Mar. 31, 1994\], shall remain in effect until the termination date of such contracts.”
 
 #### Existing Grants and Contracts
 

@@ -28,7 +28,7 @@ The Director shall administer the national sea grant college program subject to 
 
 &emsp;(5) encourage cooperation and coordination with other Federal programs concerned with ocean, coastal, and Great Lakes resources conservation and usage;
 
-&emsp;(6) advise the Secretary on the designation of sea grant colleges and sea grant regional consortia and, in appropriate cases, if any, on the termination or suspension of any such designation;
+&emsp;(6) advise the Secretary on the designation of sea grant colleges and sea grant regionalconsortia and, in appropriate cases, if any, on the termination or suspension of any such designation;
 
 &emsp;(7) encourage the formation and growth of sea grant programs; and
 

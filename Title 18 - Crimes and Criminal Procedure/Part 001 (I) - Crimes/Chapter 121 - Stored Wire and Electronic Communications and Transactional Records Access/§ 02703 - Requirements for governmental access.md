@@ -36,27 +36,43 @@ Records Concerning Electronic Communication Service or Remote Computing Service.
 
 &emsp;(iii) has the consent of the subscriber or customer to such disclosure.
 
-(C) A provider of electronic communication service or remote computing service shall disclose to a governmental entity the name, address, telephone toll billing records, telephone number or other subscriber number or identity, and length of service of a subscriber to or customer of such service and the types of services the subscriber or customer utilized, when the governmental entity uses an administrative subpoena authorized by a Federal or State statute or a Federal or State grand jury or trial subpoena or any means available under subparagraph (B).
+(C) A provider of electronic communication service or remote computing service shall disclose to a governmental entity the name, address, local and long distance telephone toll billing records, telephone number or other subscriber number or identity, and length of service of a subscriber to or customer of such service and the types of services the subscriber or customer utilized, when the governmental entity uses an administrative subpoena authorized by a Federal or State statute or a Federal or State grand jury or trial subpoena or any means available under subparagraph (B).
 
 (2) A governmental entity receiving records or information under this subsection is not required to provide notice to a subscriber or customer.
 
 (d)
 
-Requirements for Court Order.—A court order for disclosure under subsection (b) or (c) may be issued by any court that is a court of competent jurisdiction described in section 3126(2)(A) <sup>1</sup> and shall issue only if the governmental entity offers specific and articulable facts showing that there are reasonable grounds to believe that the contents of a wire or electronic communication, or the records or other information sought, are relevant and material to an ongoing criminal investigation. In the case of a State governmental authority, such a court order shall not issue if prohibited by the law of such State. A court issuing an order pursuant to this section, on a motion made promptly by the service provider, may quash or modify such order, if the information or records requested are unusually voluminous in nature or compliance with such order otherwise would cause an undue burden on such provider.
+Requirements for Court Order.—A court order for disclosure under subsection (b) or (c) may be issued by any court that is a court of competent jurisdiction described in section 3127(2)(A) and shall issue only if the governmental entity offers specific and articulable facts showing that there are reasonable grounds to believe that the contents of a wire or electronic communication, or the records or other information sought, are relevant and material to an ongoing criminal investigation. In the case of a State governmental authority, such a court order shall not issue if prohibited by the law of such State. A court issuing an order pursuant to this section, on a motion made promptly by the service provider, may quash or modify such order, if the information or records requested are unusually voluminous in nature or compliance with such order otherwise would cause an undue burden on such provider.
 
 (e)
 
 No Cause of Action Against a Provider Disclosing Information Under This Chapter.—No cause of action shall lie in any court against any provider of wire or electronic communication service, its officers, employees, agents, or other specified persons for providing information, facilities, or assistance in accordance with the terms of a court order, warrant, subpoena, or certification under this chapter.
 
-(Added Pub. L. 99–508, title II, §201\[(a)\], Oct. 21, 1986, 100 Stat. 1861; amended Pub. L. 100–690, title VII, §§7038, 7039, Nov. 18, 1988, 102 Stat. 4399; Pub. L. 103–322, title XXXIII, §330003(b), Sept. 13, 1994, 108 Stat. 2140; Pub. L. 103–414, title II, §207(a), Oct. 25, 1994, 108 Stat. 4292.)
+(f)
+
+Requirement To Preserve Evidence.—
+
+&emsp;(1)
+
+In general.—A provider of wire or electronic communication services or a remote computing service, upon the request of a governmental entity, shall take all necessary steps to preserve records and other evidence in its possession pending the issuance of a court order or other process.
+
+&emsp;(2)
+
+Period of retention.—Records referred to in paragraph (1) shall be retained for a period of 90 days, which shall be extended for an additional 90-day period upon a renewed request by the governmental entity.
+
+(Added Pub. L. 99–508, title II, §201\[(a)\], Oct. 21, 1986, 100 Stat. 1861; amended Pub. L. 100–690, title VII, §§7038, 7039, Nov. 18, 1988, 102 Stat. 4399; Pub. L. 103–322, title XXXIII, §330003(b), Sept. 13, 1994, 108 Stat. 2140; Pub. L. 103–414, title II, §207(a), Oct. 25, 1994, 108 Stat. 4292; Pub. L. 104–132, title VIII, §804, Apr. 24, 1996, 110 Stat. 1305; Pub. L. 104–293, title VI, §601(b), Oct. 11, 1996, 110 Stat. 3469; Pub. L. 104–294, title VI, §605(f), Oct. 11, 1996, 110 Stat. 3510.)
 
 #### References in Text
 
 The Federal Rules of Criminal Procedure, referred to in subsecs. (a), (b)(1)(A), and (c)(1)(B)(i), are set out in the Appendix to this title.
 
-Section 3126(2)(A), referred to in subsec. (d), was renumbered section 3127(2)(A) of this title by Pub. L. 100–690, title VII, §7092(a)(1), Nov. 18, 1988, 102 Stat. 4410.
-
 #### Amendments
+
+1996—Subsec. (c)(1)(C). Pub. L. 104–293 inserted “local and long distance” after “address,”.
+
+Subsec. (d). Pub. L. 104–294 substituted “in section 3127(2)(A)” for “in section 3126(2)(A)”.
+
+Subsec. (f). Pub. L. 104–132 added subsec. (f).
 
 1994—Subsec. (c)(1)(B). Pub. L. 103–414, §207(a)(1)(A), redesignated cls. (ii) to (iv) as (i) to (iii), respectively, and struck out former cl. (i) which read as follows: “uses an administrative subpoena authorized by a Federal or State statute, or a Federal or State grand jury or trial subpoena;”.
 
@@ -73,6 +89,4 @@ Subsec. (d). Pub. L. 100–690, §7039, inserted “may be issued by any court t
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 2701, 2702, 2704, 2705, 2706, 2707 of this title.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -26,5 +26,5 @@ The words “type of” are omitted as unnecessary. The word “decides” is su
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 15 section 3710a.
+This section is referred to in title 15 section 3710a; title 30 section 1901.
 

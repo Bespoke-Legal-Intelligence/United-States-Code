@@ -64,10 +64,10 @@
 | (i) | Specific authorization for funds; expenditure of monies in Fund. |
 | (j) | Omitted. |
 | (k) | Reduction of operations at military base or installation. |
-| (<i>l)</i> | Foreign property losses. |
+| (<i>l</i>) | Foreign property losses. |
 | (m) | Eligibility for benefits as to closure actions announced after April 1, 1973; criteria. |
 | (n) | Relocation assistance for Coast Guard personnel. |
-| (<i>o)</i> | Relocation assistance for nonappropriated fund instrumentality and other civilian employees. |
+| (<i>o</i>) | Relocation assistance for nonappropriated fund instrumentality and other civilian employees. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

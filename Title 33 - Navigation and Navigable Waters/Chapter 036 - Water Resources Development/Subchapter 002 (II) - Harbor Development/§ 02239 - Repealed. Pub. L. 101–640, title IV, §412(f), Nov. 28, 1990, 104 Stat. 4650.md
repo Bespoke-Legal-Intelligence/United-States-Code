@@ -4,7 +4,7 @@ Section, Pub. L. 99–662, title II, §211, Nov. 17, 1986, 100 Stat. 4106; Pub. 
 
 #### Sediments Decontamination Technology
 
-Pub. L. 102–580, title IV, §405, Oct. 31, 1992, 106 Stat. 4863, provided that:
+Pub. L. 102–580, title IV, §405, Oct. 31, 1992, 106 Stat. 4863, as amended by Pub. L. 104–303, title II, §226, Oct. 12, 1996, 110 Stat. 3697, provided that:
 
 “(a)
 
@@ -18,13 +18,21 @@ Selection of technologies.—Based upon a review of decontamination technologies
 
 Recommended program.—Upon selection of technologies, the Administrator and the Secretary shall jointly recommend a program of selected technologies to assess their effectiveness in rendering sediments acceptable for unrestricted ocean disposal or beneficial reuse, or both.
 
+&emsp;“(3)
+
+Project purpose.—The purpose of the project to be carried out under this section is to provide for the development of 1 or more sediment decontamination technologies on a pilot scale demonstrating a capacity of at least 500,000 cubic yards per year.
+
 “(b)
 
 Decontamination Defined.—For purposes of this section, ‘decontamination’ may include local or remote prototype or production and laboratory decontamination technologies, sediment pre-treatment and post-treatment processes, and siting, economic, or other measures necessary to develop a matrix for selection of interim prototype of long-term processes. Decontamination techniques need not be preproven in terms of likely success.
 
 “(c)
 
-Authorization of Appropriations.—There is authorized to be appropriated to carry out this section $5,000,000 for fiscal years beginning after September 30, 1992. Such sums shall remain available until expended.”
+Authorization of Appropriations.—There is authorized to be appropriated to carry out this section $10,000,000. Such sums shall remain available until expended.
+
+“(d)
+
+Reports.—Not later than September 30, 1998, and periodically thereafter, the Administrator and the Secretary shall transmit to Congress a report on the results of the project to be carried out under this section, including an assessment of the progress made in achieving the purpose of the project set forth in subsection (a)(3).”
 
 #### Alternatives to Mud Dump Site for Disposal of Dredged Material
 
@@ -56,7 +64,7 @@ Demonstration Project.—The Secretary, in consultation with the Administrator o
 
 “(d)
 
-Mud Dump Site Defined.—For purposes of this section, the term ‘Mud Dump Site’ means the area located approximately 53/4 miles east of Sandy Hook, New Jersey, with boundary coordinates of 40 degrees, 23 minutes, 48 seconds North, 73 degrees, 51 minutes, 28seconds West; 40 degrees, 21 minutes, 48 seconds North, 73 degrees, 50 minutes, 00 seconds West; 40 degrees, 21 minutes, 48 seconds North; 73 degrees, 51 minutes, 28 seconds West; and 40 degrees, 23 minutes, 48 seconds North; 73 degrees, 50 minutes, 00 seconds West.
+Mud Dump Site Defined.—For purposes of this section, the term ‘Mud Dump Site’ means the area located approximately 53/4 miles east of Sandy Hook, New Jersey, with boundary coordinates of 40 degrees, 23 minutes, 48 seconds North, 73 degrees, 51 minutes, 28 seconds West; 40 degrees, 21 minutes, 48 seconds North, 73 degrees, 50 minutes, 00 seconds West; 40 degrees, 21 minutes, 48 seconds North; 73 degrees, 51 minutes, 28 seconds West; and 40 degrees, 23 minutes, 48 seconds North; 73 degrees, 50 minutes, 00 seconds West.
 
 “(e)
 

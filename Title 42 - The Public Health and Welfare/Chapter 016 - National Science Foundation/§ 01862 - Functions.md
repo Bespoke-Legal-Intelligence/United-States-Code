@@ -20,11 +20,11 @@ The Foundation is authorized and directed—
 
 #### (b) Contracts, grants, loans, etc., for scientific and engineering activities; financing of programs
 
-The Foundation is authorized to initiate and support specific scientific and engineering activities in connection with matters relating to international cooperation, national security, and the effects of scientific and engineering applications upon society by making contracts or other arrangements (including grants, loans, and other forms of assistance) for the conduct of such activities. When initiated or supported pursuant to requests made by any other Federal department or agency, including the Office of Technology Assessment, such activities shall be financed whenever feasible from funds transferred to the Foundation by the requesting official as provided in section 1873(f) of this title, and any such activities shall be unclassified and shall be identified by the Foundation as beingundertaken at the request of the appropriate official.
+The Foundation is authorized to initiate and support specific scientific and engineering activities in connection with matters relating to international cooperation, national security, and the effects of scientific and engineering applications upon society by making contracts or other arrangements (including grants, loans, and other forms of assistance) for the conduct of such activities. When initiated or supported pursuant to requests made by any other Federal department or agency, including the Office of Technology Assessment, such activities shall be financed whenever feasible from funds transferred to the Foundation by the requesting official as provided in section 1873(f) of this title, and any such activities shall be unclassified and shall be identified by the Foundation as being undertaken at the request of the appropriate official.
 
 #### (c) Scientific and engineering research programs at academic and other nonprofit institutions; applied scientific and engineering research programs by Presidential directive; employment of consulting services; coordination of activities
 
-In addition to the authority contained in subsections (a) and (b) of this section, the Foundation is authorized to initiate and support scientific and engineering research, including applied research, at academic and other nonprofit institutions. When so directed by the President, the Foundation is further authorized to support, through other appropriate organizations, applied scientific research and engineering research relevant to national problems involving the public interest. In exercising the authority contained in this subsection, the Foundation may employ by grant or contract such consulting services as it deems necessary, and shall coordinate and correlate its activities with respect to any such problem with other agencies of the Federal Government undertaking similar programs in that field.
+In addition to the authority contained in subsections (a) and (b) of this section, the Foundation is authorized to initiate and support scientific and engineering research, including applied research, at academic and other nonprofit institutions. When so directed by the President, the Foundation is further authorized to support,through other appropriate organizations, applied scientific research and engineering research relevant to national problems involving the public interest. In exercising the authority contained in this subsection, the Foundation may employ by grant or contract such consulting services as it deems necessary, and shall coordinate and correlate its activities with respect to any such problem with other agencies of the Federal Government undertaking similar programs in that field.
 
 #### (d) Promotion of research and education in science and engineering
 
@@ -148,7 +148,7 @@ Section 5 of Pub. L. 95–99 provided that:
 
 &emsp;“(5) new and existing programs using radio or television to increase public understanding of public policy issues with significant scientific and technical components; and
 
-&emsp;“(6) bona fide public interest groups to acquire necessary scientific and technical expertise relating tothe scientific and technical aspects of public policy issues and to enable such groups to bring together in appropriate forums experts whose research has been directed to the resolution of such issues.”
+&emsp;“(6) bona fide public interest groups to acquire necessary scientific and technical expertise relating to the scientific and technical aspects of public policy issues and to enable such groups to bring together in appropriate forums experts whose research has been directed to the resolution of such issues.”
 
 #### Establishment of “Science for Citizens Program” Conducted in Conjunction With “Public Understanding of Science Program”
 
@@ -158,7 +158,7 @@ Section 5 of Pub. L. 94–471 provided that:
 
 &emsp;“(1) improve public understanding of science, engineering and technology and their impact on public policy issues;
 
-&emsp;“(2) facilitate the participation of experienced scientists and engineers as well as graduate and undergraduate students in helping the public understand science, engineering and technology and their impact on public policies; and
+&emsp;“(2) facilitate the participation of experienced scientists and engineers as well as graduate and undergraduate students in helping the public understandscience, engineering and technology and their impact on public policies; and
 
 &emsp;“(3) assist nationally recognized professional societies and groups serving important public purposes in conducting a limited number of forums, conferences, and workshops to increase public understanding of science and technology, and of their impact on public policy issues, after consideration of the following eligibility factors:
 
@@ -214,7 +214,7 @@ Section 16 of Pub. L. 90–407 provided that: “Except as otherwise specificall
 
 #### Investigation of Need for Geophysical Institute in Territory of Hawaii
 
-Act Aug. 1, 1956, ch. 865, 70 Stat. 922, directed the National Science Foundation to conduct an investigation into the need for and the feasibility and usefulness of a geophysical institute located in the Territory \[now State\] of Hawaii. The Foundation was required to report the results of its investigations, together with its recommendations based thereon, to the Congress not later than 9 months after Aug. 1, 1956.
+Act Aug. 1, 1956, ch. 865, 70 Stat. 922, directed the National Science Foundation to conduct an investigation into the need for and the feasibility and usefulness of a geophysical institute located in the Territory \[now State\] of Hawaii. The Foundation was required to report the results of its investigations, together with itsrecommendations based thereon, to the Congress not later than 9 months after Aug. 1, 1956.
 
 #### Ex. Ord. No. 10521. Administration of Scientific Research
 
@@ -252,7 +252,7 @@ Ex. Ord. No. 10807, Mar. 13, 1959, 24 F.R. 1897, as amended Ex. Ord. No. 11381, 
 
 #### Abolition of Federal Council for Science and Technology
 
-Pub. L. 94–282, title IV, §402, May 11, 1976, 90 Stat. 472, provided that: “The Federal Council for Science andTechnology, established pursuant to Executive Order No. 10807, Mar. 13, 1959, 24 F.R. 1897, as amended by Executive Order No. 11381, Nov. 8, 1967, 32 F.R. 15629, is hereby abolished.”
+Pub. L. 94–282, title IV, §402, May 11, 1976, 90 Stat. 472, provided that: “The Federal Council for Science and Technology, established pursuant to Executive Order No. 10807, Mar. 13, 1959, 24 F.R. 1897, as amended by Executive Order No. 11381, Nov. 8, 1967, 32 F.R. 15629, is hereby abolished.”
 
 #### Section Referred to in Other Sections
 

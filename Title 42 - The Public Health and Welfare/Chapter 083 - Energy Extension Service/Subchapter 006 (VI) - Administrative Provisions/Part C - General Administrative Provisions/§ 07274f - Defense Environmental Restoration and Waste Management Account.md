@@ -6,7 +6,7 @@ There is hereby established in the Treasury of the United States for the Departm
 
 #### (b) Amounts in Account
 
-All sums appropriated to the Department of Energy for environmental restoration and wastemanagement at defense nuclear facilities shall be credited to the Account. Such appropriations shall be authorized annually by law. To the extent provided in appropriations Acts, amounts in the Account shall remain available until expended.
+All sums appropriated to the Department of Energy for environmental restoration and waste management at defense nuclear facilities shall be credited to the Account. Such appropriations shall be authorized annually by law. To the extent provided in appropriations Acts, amounts in the Account shall remain available until expended.
 
 (Pub. L. 102–190, div. C, title XXXI, §3134, Dec. 5, 1991, 105 Stat. 1575.)
 

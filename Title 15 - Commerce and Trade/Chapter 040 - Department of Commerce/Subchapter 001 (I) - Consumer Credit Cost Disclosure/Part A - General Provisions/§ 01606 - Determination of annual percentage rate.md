@@ -26,7 +26,7 @@ The Board may authorize the use of rate tables or charts which may provide for t
 
 #### (e) Authorization of tolerances in determining annual percentage rates
 
-In the case of creditors determining the annual percentage rate in a manner other than as described in subsection (d) of this section, the Board may authorize other reasonable tolerances.
+In the case of creditors determining the annual percentage rate in a manner other than asdescribed in subsection (d) of this section, the Board may authorize other reasonable tolerances.
 
 (Pub. L. 90–321, title I, §107, May 29, 1968, 82 Stat. 149; Pub. L. 96–221, title VI, §607, Mar. 31, 1980, 94 Stat. 170.)
 

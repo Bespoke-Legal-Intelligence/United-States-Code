@@ -22,6 +22,9 @@
 | [413\.](Subchapter%20001%20%28I%29%20-%20In%20General/%C2%A7%2000413%20-%20Duty%20of%20United%20States%20attorneys%20and%20other%20Federal%20officers%20in%20enforcement%20of%20provisions%3B%20arrest%20of%20offenders.md) | Duty of United States attorneys and other Federal officers in enforcement of provisions; arrest of offenders. |
 | [414\.](Subchapter%20001%20%28I%29%20-%20In%20General/%C2%A7%2000414%20-%20Removal%20by%20Secretary%20of%20the%20Army%20of%20sunken%20water%20craft%20generally%3B%20liability%20of%20owner%2C%20lessee%2C%20or%20operator.md) | Removal by Secretary of the Army of sunken water craft generally; liability of owner, lessee, or operator. |
 | [415\.](Subchapter%20001%20%28I%29%20-%20In%20General/%C2%A7%2000415%20-%20Summary%20removal%20of%20water%20craft%20obstructing%20navigation%3B%20liability%20of%20owner%2C%20lessee%2C%20or%20operator.md) | Summary removal of water craft obstructing navigation; liability of owner, lessee, or operator. |
+| (a) | Removal authority. |
+| (b) | Removal requirement. |
+| (c) | Liability of owner, lessee, or operator. |
 | [416\.](Subchapter%20001%20%28I%29%20-%20In%20General/%C2%A7%2000416%20-%20Appropriations%20for%20removal%20of%20sunken%20water%20craft.md) | Appropriations for removal of sunken water craft. |
 | [417\.](Subchapter%20001%20%28I%29%20-%20In%20General/%C2%A7%2000417%20-%20Expenses%20of%20investigations%20by%20Department%20of%20the%20Army.md) | Expenses of investigations by Department of the Army. |
 | [418\.](Subchapter%20001%20%28I%29%20-%20In%20General/%C2%A7%2000418%20-%20Provisions%20for%20protection%20of%20New%20York%20Harbor%20unaffected.md) | Provisions for protection of New York Harbor unaffected. |
@@ -47,10 +50,19 @@
 | (b) | Federal contribution; maximum amount; exceptions. |
 | (c) | Periodic beach nourishment; “construction” defined. |
 | (d) | Shores other than public. |
-| (e) | Authorized plans. |
-| [426f.](Subchapter%20001%20%28I%29%20-%20In%20General/%C2%A7%2000426f%20-%20Payments%20to%20States%2C%20etc.md) | Payments to States, etc. |
+| (e) | Authorization of projects. |
+| [426f.](Subchapter%20001%20%28I%29%20-%20In%20General/%C2%A7%2000426f%20-%20Reimbursements.md) | Reimbursements. |
+| (a) | In general. |
+| (b) | Agreements. |
 | [426g.](Subchapter%20001%20%28I%29%20-%20In%20General/%C2%A7%2000426g%20-%20Authorization%20of%20small%20projects%20not%20specifically%20authorized%3B%20expenditures%3B%20local%20cooperation%3B%20work%20to%20be%20complete%3B%20exceptions.md) | Authorization of small projects not specifically authorized; expenditures; local cooperation; work to be complete; exceptions. |
-| [426h.](Subchapter%20001%20%28I%29%20-%20In%20General/%C2%A7%2000426h%20-%20%E2%80%9CShores%E2%80%9D%20defined.md) | “Shores” defined. |
+| 426g–1. | State and regional plans. |
+| [426h.](Subchapter%20001%20%28I%29%20-%20In%20General/%C2%A7%2000426h%20-%20National%20shoreline%20erosion%20control%20development%20and%20demonstration%20program.md) | National shoreline erosion control development and demonstration program. |
+| (a) | Establishment of erosion control program. |
+| (b) | Requirements. |
+| (c) | Consultation. |
+| (d) | Report. |
+| (e) | Funding. |
+| 426h–1. | Definitions. |
 | [426i.](Subchapter%20001%20%28I%29%20-%20In%20General/%C2%A7%2000426i%20-%20Shore%20damage%20prevention%20or%20mitigation.md) | Shore damage prevention or mitigation. |
 | 426i–1. | Construction of shoreline protection projects by non-Federal interests. |
 | (a) | Authority. |
@@ -151,23 +163,40 @@
 
 |  |  |
 | :--- | ---: |
-| [467\.](Subchapter%20007%20%28VII%29%20-%20Dam%20Inspection%20Program/%C2%A7%2000467%20-%20%E2%80%9CDam%E2%80%9D%20defined.md) | “Dam” defined. |
-| [467a.](Subchapter%20007%20%28VII%29%20-%20Dam%20Inspection%20Program/%C2%A7%2000467a%20-%20Inspection%20of%20dams%3B%20exceptions.md) | Inspection of dams; exceptions. |
-| [467b.](Subchapter%20007%20%28VII%29%20-%20Dam%20Inspection%20Program/%C2%A7%2000467b%20-%20Investigation%20reports%20to%20Governors%3B%20remedial%20measures.md) | Investigation reports to Governors; remedial measures. |
+| [467\.](Subchapter%20007%20%28VII%29%20-%20Dam%20Inspection%20Program/%C2%A7%2000467%20-%20Definitions.md) | Definitions. |
+| [467a.](Subchapter%20007%20%28VII%29%20-%20Dam%20Inspection%20Program/%C2%A7%2000467a%20-%20Inspection%20of%20dams.md) | Inspection of dams. |
+| (a) | In general. |
+| (b) | State participation. |
+| [467b.](Subchapter%20007%20%28VII%29%20-%20Dam%20Inspection%20Program/%C2%A7%2000467b%20-%20Investigation%20reports%20to%20Governors.md) | Investigation reports to Governors. |
 | [467c.](Subchapter%20007%20%28VII%29%20-%20Dam%20Inspection%20Program/%C2%A7%2000467c%20-%20Determination%20of%20danger%20to%20human%20life%20and%20property.md) | Determination of danger to human life and property. |
-| [467d.](Subchapter%20007%20%28VII%29%20-%20Dam%20Inspection%20Program/%C2%A7%2000467d%20-%20Omitted.md) | Omitted. |
-| [467e.](Subchapter%20007%20%28VII%29%20-%20Dam%20Inspection%20Program/%C2%A7%2000467e%20-%20Existing%20liabilities%20and%20obligations%20unaffected.md) | Existing liabilities and obligations unaffected. |
-| [467f.](Subchapter%20007%20%28VII%29%20-%20Dam%20Inspection%20Program/%C2%A7%2000467f%20-%20Authorization%20of%20appropriations%20for%20State%20dam%20safety%20programs%3B%20distribution%20among%20States%3B%20requirements%20for%20aggregate%20State%20expenditures%E2%80%A6.md) | Authorization of appropriations for State dam safety programs; distribution among States; requirements for aggregate State expenditures for dam safety. |
-| [467g.](Subchapter%20007%20%28VII%29%20-%20Dam%20Inspection%20Program/%C2%A7%2000467g%20-%20State%20dam%20safety%20programs.md) | State dam safety programs. |
-| (a) | Requisite features of State dam safety programs. |
-| (b) | Program approval. |
-| (c) | Periodic review; revocation of approval; reapproval. |
-| [467h.](Subchapter%20007%20%28VII%29%20-%20Dam%20Inspection%20Program/%C2%A7%2000467h%20-%20National%20Dam%20Safety%20Review%20Board.md) | National Dam Safety Review Board. |
-| [467i.](Subchapter%20007%20%28VII%29%20-%20Dam%20Inspection%20Program/%C2%A7%2000467i%20-%20Consultation%20with%20State%20officials.md) | Consultation with State officials. |
-| [467j.](Subchapter%20007%20%28VII%29%20-%20Dam%20Inspection%20Program/%C2%A7%2000467j%20-%20Training%20for%20State%20dam%20safety%20inspectors.md) | Training for State dam safety inspectors. |
-| [467k.](Subchapter%20007%20%28VII%29%20-%20Dam%20Inspection%20Program/%C2%A7%2000467k%20-%20Development%20of%20improved%20dam%20inspection%20techniques.md) | Development of improved dam inspection techniques. |
-| 467<i>l.</i> | Dam inventory updates. |
-| [467m.](Subchapter%20007%20%28VII%29%20-%20Dam%20Inspection%20Program/%C2%A7%2000467m%20-%20Inspection%20funds%20not%20to%20be%20used%20for%20repair%20or%20construction.md) | Inspection funds not to be used for repair or construction. |
+| [467d.](Subchapter%20007%20%28VII%29%20-%20Dam%20Inspection%20Program/%C2%A7%2000467d%20-%20National%20dam%20inventory.md) | National dam inventory. |
+| [467e.](Subchapter%20007%20%28VII%29%20-%20Dam%20Inspection%20Program/%C2%A7%2000467e%20-%20Interagency%20Committee%20on%20Dam%20Safety.md) | Interagency Committee on Dam Safety. |
+| (a) | Establishment. |
+| (b) | Duties. |
+| [467f.](Subchapter%20007%20%28VII%29%20-%20Dam%20Inspection%20Program/%C2%A7%2000467f%20-%20National%20dam%20safety%20program.md) | National dam safety program. |
+| (a) | In general. |
+| (b) | Duties. |
+| (c) | Objectives. |
+| (d) | Components. |
+| (e) | Implementation plan. |
+| (f) | Assistance for State dam safety programs. |
+| (g) | Dam safety training. |
+| (h) | Board. |
+| [467g.](Subchapter%20007%20%28VII%29%20-%20Dam%20Inspection%20Program/%C2%A7%2000467g%20-%20Research.md) | Research. |
+| (a) | In general. |
+| (b) | Consultation. |
+| [467h.](Subchapter%20007%20%28VII%29%20-%20Dam%20Inspection%20Program/%C2%A7%2000467h%20-%20Reports.md) | Reports. |
+| (a) | Report on dam insurance. |
+| (b) | Biennial reports. |
+| [467i.](Subchapter%20007%20%28VII%29%20-%20Dam%20Inspection%20Program/%C2%A7%2000467i%20-%20Statutory%20construction.md) | Statutory construction. |
+| [467j.](Subchapter%20007%20%28VII%29%20-%20Dam%20Inspection%20Program/%C2%A7%2000467j%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+| (a) | National dam safety program. |
+| (b) | National dam inventory. |
+| (c) | Dam safety training. |
+| (d) | Research. |
+| (e) | Staff. |
+| (f) | Limitation on use of amounts. |
+| 467k to 467m. Repealed. |  |
 | [467n.](Subchapter%20007%20%28VII%29%20-%20Dam%20Inspection%20Program/%C2%A7%2000467n%20-%20Recovery%20of%20dam%20modification%20costs%20required%20for%20safety%20purposes.md) | Recovery of dam modification costs required for safety purposes. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

@@ -6,7 +6,7 @@ Authority To Request Secretary's Determination.—
 
 &emsp;(1)
 
-In general.—The Secretary of Transportation shall issue a determination as to whether a fee imposed upon one or more air carriers (as defined in section 40102 of this subtitle) by the owner or operator of an airport is reasonable if—
+In general.—The Secretary of Transportation shall issue a determination as to whether a fee imposed upon one or more air carriers (as defined in section 40102 of this title) by the owner or operator of an airport is reasonable if—
 
 &emsp;&emsp;(A) a written request for such determination is filed with the Secretary by such owner or operator; or
 
@@ -20,9 +20,13 @@ Calculation of fee.—A fee subject to a determination of reasonableness under t
 
 Secretary not to set fee.—In determining whether a fee is reasonable under this section, the Secretary may only determine whether the fee is reasonable or unreasonable and shall not set the level of the fee.
 
+&emsp;(4)
+
+Fees imposed by privately-owned airports.—In evaluating the reasonableness of a fee imposed by an airport receiving an exemption under section 47134 of this title, the Secretary shall consider whether the airport has complied with section 47134(c)(4).
+
 (b)
 
-Procedural Regulations.—Not later than 90 days after the date of the enactment of this section, the Secretary shall publish in the Federal Register final regulations, policy statements, or guidelines establishing—
+Procedural Regulations.—Not later than 90 days after August 23, 1994, the Secretary shall publish in the Federal Register final regulations, policy statements, or guidelines establishing—
 
 &emsp;(1) the procedures for acting upon any written request or complaint filed under subsection (a)(1); and
 
@@ -70,7 +74,7 @@ Deadline.—The letter of credit, or surety bond, or other suitable credit facil
 
 &emsp;(2)
 
-Guarantee of air carrier access.—Contingent upon an air carrier's compliance with the requirements of paragraph (1) and pending the issuance of a final order by the Secretary determining the reasonableness of a fee that is the subject of a complaint filed under subsection (a)(1)(B), an owner or operator of an airport may not deny an air carrier currently providing air service at the airport reasonable access to airport facilities or service, or otherwise interfere with an air carrier's prices, routes, or services, as a means of enforcing the fee.
+Guarantee of air carrier access.—Contingent upon an air carrier's compliance with the requirements of paragraph (1) and pendingthe issuance of a final order by the Secretary determining the reasonableness of a fee that is the subject of a complaint filed under subsection (a)(1)(B), an owner or operator of an airport may not deny an air carrier currently providing air service at the airport reasonable access to airport facilities or service, or otherwise interfere with an air carrier's prices, routes, or services, as a means of enforcing the fee.
 
 (e)
 
@@ -78,9 +82,9 @@ Applicability.—This section does not apply to—
 
 &emsp;(1) a fee imposed pursuant to a written agreement with air carriers using the facilities of an airport;
 
-&emsp;(2) a fee imposed pursuant to a financing agreement or covenant entered into prior to the date of the enactment of this section; or
+&emsp;(2) a fee imposed pursuant to a financing agreement or covenant entered into prior to August 23, 1994; or
 
-&emsp;(3) any other existing fee not in dispute as of such date of enactment.
+&emsp;(3) any other existing fee not in dispute as of August 23, 1994.
 
 (f)
 
@@ -88,19 +92,41 @@ Effect On Existing Agreements.—Nothing in this section shall adversely affect�
 
 &emsp;(1) the rights of any party under any existing written agreement between an air carrier and the owner or operator of an airport; or
 
-&emsp;(2) the ability of an airport to meet its obligations under a financing agreement, or covenant, that is in force as of the date of the enactment of this section.
+&emsp;(2) the ability of an airport to meet its obligations under a financing agreement, or covenant, that is in force as of August 23, 1994.
 
 (g)
 
 Definition.—In this section, the term “fee” means any rate, rental charge, landing fee, or other service charge for the use of airport facilities.
 
-(Added Pub. L. 103–305, title I, §113(a)(2), Aug. 23, 1994, 108 Stat. 1577.)
+(Added Pub. L. 103–305, title I, §113(a)(2), Aug. 23, 1994, 108 Stat. 1577; amended Pub. L. 104–264, title I, §149(d), Oct. 9, 1996, 110 Stat. 3227; Pub. L. 104–287, §5(85), Oct. 11, 1996, 110 Stat. 3397.)
 
-#### References in Text
+#### Historical and Revision Notes
 
-The date of the enactment of this section, referred to in subsecs. (b), (e)(2), (3), and (f)(2), is the date of enactment of Pub. L. 103–305, which was approved Aug. 23, 1994.
+I74Pub. L. 104–287, §5(85)(A)
+
+This amends 49:47129(a)(1) to conform to the style of title 49.
+
+#### Pub. L. 104–287, §5(85)(B) and (C)
+
+These set out the date of enactment of 49:47129.
 
 #### Prior Provisions
 
 A prior section 47129 was renumbered section 47131 of this title.
+
+#### Amendments
+
+1996—Subsec. (a)(1). Pub. L. 104–287, §5(85)(A), substituted “of this title” for “of this subtitle” in introductory provisions.
+
+Subsec. (a)(4). Pub. L. 104–264 added par. (4).
+
+Subsecs. (b), (e)(2). Pub. L. 104–287, §5(85)(B), substituted “August 23, 1994” for “the date of the enactment of this section”.
+
+Subsec. (e)(3). Pub. L. 104–287, §5(85)(C), substituted “August 23, 1994” for “such date of enactment”.
+
+Subsec. (f)(2). Pub. L. 104–287, §5(85)(B), substituted “August 23, 1994” for “the date of the enactment of this section”.
+
+#### Effective Date of 1996 Amendment
+
+Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
 

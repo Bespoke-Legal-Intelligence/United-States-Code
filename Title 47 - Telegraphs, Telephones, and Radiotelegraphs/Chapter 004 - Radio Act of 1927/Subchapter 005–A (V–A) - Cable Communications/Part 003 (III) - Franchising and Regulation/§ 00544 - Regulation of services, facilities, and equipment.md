@@ -40,7 +40,7 @@ In the case of any franchise in effect on the effective date of this subchapter,
 
 #### (e) Technical standards
 
-Within one year after October 5, 1992, the Commission shall prescribe regulations which establish minimum technical standards relating to cable systems’ technical operation and signal quality. The Commission shall update such standards periodically to reflect improvements in technology. A franchising authority may require as part of a franchise (including a modification, renewal, or transfer thereof) provisions for the enforcement of the standards prescribed under this subsection. A franchising authority may apply to the Commission for a waiver to impose standards that are more stringent than the standards prescribed by the Commission under this subsection.
+Within one year after October 5, 1992, the Commission shall prescribe regulations which establish minimum technical standards relating to cable systems’ technical operation and signal quality. The Commission shall update such standards periodically to reflect improvements in technology. No State or franchising authority may prohibit, condition, or restrict a cable system's use of any type of subscriber equipment or any transmission technology.
 
 #### (f) Limitation on regulatory powers of Federal agencies, States, or franchising authorities; exceptions
 
@@ -54,7 +54,7 @@ Within one year after October 5, 1992, the Commission shall prescribe regulation
 
 #### (g) Access to emergency information
 
-Notwithstanding any such rule, regulation, or order, each cable operator shall comply with such standards as the Commission shall prescribe to ensure that viewers of video programming on cable systems are afforded the same emergency information as is afforded by the emergency broadcasting system pursuant to Commission regulations in subpart G of part 73, title 47, Code of Federal Regulations.
+Notwithstanding any such rule, regulation, or order, each cable operator shall comply withsuch standards as the Commission shall prescribe to ensure that viewers of video programming on cable systems are afforded the same emergency information as is afforded by the emergency broadcasting system pursuant to Commission regulations in subpart G of part 73, title 47, Code of Federal Regulations.
 
 #### (h) Notice of changes in and comments on services
 
@@ -68,13 +68,15 @@ A franchising authority may require a cable operator to do any one or more of th
 
 Within 120 days after October 5, 1992, the Commission shall prescribe rules concerning the disposition, after a subscriber to a cable system terminates service, of any cable installed by the cable operator within the premises of such subscriber.
 
-(June 19, 1934, ch. 652, title VI, §624, as added Oct. 30, 1984, Pub. L. 98–549, §2, 98 Stat. 2789; amended Oct. 5, 1992, Pub. L. 102–385, §§15, 16, 106 Stat. 1490; Oct. 25, 1994, Pub. L. 103–414, title III, §§303(a)(23), 304(a)(12), 108 Stat. 4295, 4297.)
+(June 19, 1934, ch. 652, title VI, §624, as added Oct. 30, 1984, Pub. L. 98–549, §2, 98 Stat. 2789; amended Oct. 5, 1992, Pub. L. 102–385, §§15, 16, 106 Stat. 1490; Oct. 25, 1994, Pub. L. 103–414, title III, §§303(a)(23), 304(a)(12), 108 Stat. 4295, 4297; Feb. 8, 1996, Pub. L. 104–104, title III, §301(e), 110 Stat. 116.)
 
 #### References in Text
 
 For “the effective date of this subchapter”, referred to in subsecs. (b) and (c), as 60 days after Oct. 30, 1984, except where otherwise expressly provided, see section 9(a) of Pub. L. 98–549, set out as an Effective Date note under section 521 of this title.
 
 #### Amendments
+
+1996—Subsec. (e). Pub. L. 104–104 substituted “No State or franchising authority may prohibit, condition, or restrict a cable system's use of any type of subscriber equipment or any transmission technology.” for “A franchising authority may require as part of a franchise (including a modification, renewal, or transfer thereof) provisions for the enforcement of the standards prescribed under this subsection. A franchising authority may apply to the Commission for a waiver to impose standards that are more stringent than the standards prescribed by the Commission under this subsection.”
 
 1994—Subsec. (d)(2). Pub. L. 103–414, §304(a)(12), struck out designation “(A)”, inserted “of” after “restrict the viewing”, and struck out subpar. (B) which read as follows: “Subparagraph (A) shall take effect 180 days after the effective date of this subchapter.”
 

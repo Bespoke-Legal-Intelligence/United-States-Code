@@ -1,6 +1,6 @@
 ### §8714. Employees’ Life Insurance Fund
 
-(a) The amounts withheld from employees under section 8707 of this title and the sums contributed from appropriations and funds under section 8708 of this title shall be deposited in the Treasury of the United States to the credit of the Employees’ Life Insurance Fund. The Fund is available without fiscal year limitation for—
+(a) The amounts withheld from employees under section 8707 of this title and the sums contributed from appropriations and funds under section 8708 of this title shall be deposited in the Treasury of the United States to the credit ofthe Employees’ Life Insurance Fund. The Fund is available without fiscal year limitation for—
 
 &emsp;(1) premium payments under an insurance policy purchased under this chapter; and
 
@@ -20,7 +20,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 5 U.S.C. 2094(c) (less applicability to 5 U.S.C. 2099), (d).
 
@@ -38,9 +40,9 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-<b>1980</b>—Subsec. (c). Pub. L. 96–499 added subsec. (c).
+1980—Subsec. (c). Pub. L. 96–499 added subsec. (c).
 
-<b>1978</b>—Subsec. (a)(2). Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission”.
+1978—Subsec. (a)(2). Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission”.
 
 #### Effective Date of 1980 Amendment
 

@@ -4,3 +4,16 @@ If a principal purpose of any transaction is to evade or avoid liability under t
 
 (Added Pub. L. 102–486, title XIX, §19143(a), Oct. 24, 1992, 106 Stat. 3056.)
 
+## Subtitle K—Group Health Plan Portability, Access, and Renewability Requirements
+
+| Chapter | Sec.<sup>1</sup> |
+| :--- | ---: |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+|  |  |  |
+| :--- | :---: | ---: |
+| <b>100.</b> | <b>Group health plan portability, access, and renewability requirements</b> | <b>9801</b> |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+

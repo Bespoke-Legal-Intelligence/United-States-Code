@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-The Secretary shall establish for each participating jurisdiction a HOME Investment Trust Fund, which shall be an account (or accounts as provided in section 12749(c) of this title) for use solely to invest in affordable housing within the participating jurisdiction's boundaries or within the boundaries of contiguous jurisdictions in joint projects which serve residents from both jurisdictions in accordance with the provisions of this part.
+The Secretary shall establish for each participating jurisdiction a HOME Investment TrustFund, which shall be an account (or accounts as provided in section 12749(c) of this title) for use solely to invest in affordable housing within the participating jurisdiction's boundaries or within the boundaries of contiguous jurisdictions in joint projects which serve residents from both jurisdictions in accordance with the provisions of this part.
 
 #### (b) Line of credit
 

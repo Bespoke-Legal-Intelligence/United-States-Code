@@ -12,7 +12,7 @@
 
 (b) The Commandant of the Marine Corps, while so serving, has the grade of general without vacating his permanent grade.
 
-(c) An officer who is retired while serving as Commandant of the Marine Corps, or who, after serving at least two and one-half years as Commandant, is retired after completion of that service while serving in a lower grade than general, may, in the discretion of the President and by and with the advice and consent of the Senate, be retired with the grade of general.
+\[(c) Repealed. Pub. L. 104–106, div. A, title V, §502(c), Feb. 10, 1996, 110 Stat. 293.\]
 
 (d) Except as otherwise prescribed by law and subject to section 5013(f) of this title, the Commandant performs his duties under the authority, direction, and control of the Secretary of the Navy and is directly responsible to the Secretary.
 
@@ -36,13 +36,15 @@
 
 (3) Subject to the authority, direction, and control of the Secretary of Defense, the Commandant shall keep the Secretary of the Navy fully informed of significant military operations affecting the duties and responsibilities of the Secretary.
 
-(Added Pub. L. 99–433, title V, §513(b), Oct. 1, 1986, 100 Stat. 1052; amended Pub. L. 100–456, div. A, title V, §519(a)(3), Sept. 29, 1988, 102 Stat. 1972; Pub. L. 102–190, div. A, title V, §505(b), Dec. 5, 1991, 105 Stat. 1358.)
+(Added Pub. L. 99–433, title V, §513(b), Oct. 1, 1986, 100 Stat. 1052; amended Pub. L. 100–456, div. A, title V, §519(a)(3), Sept. 29, 1988, 102 Stat. 1972; Pub. L. 102–190, div. A, title V, §505(b), Dec. 5, 1991, 105 Stat. 1358; Pub. L. 104–106, div. A, title V, §502(c), Feb. 10, 1996, 110 Stat. 293.)
 
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in section 5201 of this title prior to enactment of Pub. L. 99–433.
 
 #### Amendments
+
+1996—Subsec. (c). Pub. L. 104–106 struck out subsec. (c) which read as follows: “An officer who is retired while serving as Commandant of the Marine Corps, or who, after serving at least two and one-half years as Commandant, is retired after completion of that service while serving in a lower grade than general, may, in the discretion of the President and by and with the advice and consent of the Senate, be retired with the grade of general.”
 
 1991—Subsec. (c). Pub. L. 102–190 inserted “and by and with the advice and consent of the Senate” after “President”.
 

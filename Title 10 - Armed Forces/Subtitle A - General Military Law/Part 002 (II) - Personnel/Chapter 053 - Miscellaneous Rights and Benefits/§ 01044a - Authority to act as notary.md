@@ -12,19 +12,27 @@
 
 (b) Persons with the powers described in subsection (a) are the following:
 
-&emsp;(1) All judge advocates on active duty or performing inactive-duty training.
+&emsp;(1) All judge advocates, including reserve judge advocates when not in a duty status.
 
 &emsp;(2) All civilian attorneys serving as legal assistance officers.
 
-&emsp;(3) All adjutants, assistant adjutants, and personnel adjutants on active duty or performing inactive-duty training.
+&emsp;(3) All adjutants, assistant adjutants, and personnel adjutants, including reserve members when not in a duty status.
 
-&emsp;(4) All other persons on active duty or performing inactive-duty training who are designated by regulations of the armed forces or by statute to have those powers.
+&emsp;(4) All other members of the armed forces, including reserve members when not in a duty status, who are designated by regulations of the armed forces or by statute to have those powers.
 
 (c) No fee may be paid to or received by any person for the performance of a notarial act authorized in this section.
 
 (d) The signature of any such person acting as notary, together with the title of that person's offices, is prima facie evidence that the signature is genuine, that the person holds the designated title, and that the person is authorized to perform a notarial act.
 
-(Added Pub. L. 101–510, div. A, title V, §551(a)(1), Nov. 5, 1990, 104 Stat. 1566.)
+(Added Pub. L. 101–510, div. A, title V, §551(a)(1), Nov. 5, 1990, 104 Stat. 1566; amended Pub. L. 104–201, div. A, title V, §573, Sept. 23, 1996, 110 Stat. 2534.)
+
+#### Amendments
+
+1996—Subsec. (b)(1). Pub. L. 104–201, §573(1), substituted “, including reserve judge advocates when not in a duty status” for “on active duty or performing inactive-duty training”.
+
+Subsec. (b)(3). Pub. L. 104–201, §573(2), substituted “adjutants, including reserve members when not in a duty status” for “adjutants on active duty or performing inactive-duty training”.
+
+Subsec. (b)(4). Pub. L. 104–201, §573(3), substituted “members of the armed forces, including reserve members when not in a duty status,” for “persons on active duty or performing inactive-duty training”.
 
 #### Section Referred to in Other Sections
 

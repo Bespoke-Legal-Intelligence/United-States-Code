@@ -2,7 +2,7 @@
 
 #### (a) Laws governing
 
-The Secretary shall administer the park in accordance with the provisions of this subchapterand the provisions of law generally applicable to the administration of units of the National Park System, including sections 1, 2, 3, and 4 of this title, and sections 461 to 467 of this title.
+The Secretary shall administer the park in accordance with the provisions of this subchapter and the provisions of law generally applicable to the administration of units of the National Park System, including sections 1, 2, 3, and 4 of this title, and sections 461 to 467 of this title.
 
 #### (b) Protection, preservation, and maintenance of cultural resources
 

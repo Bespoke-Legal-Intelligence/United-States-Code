@@ -50,7 +50,7 @@ In subsections (c) and (d), the words “of the United States” are omitted as 
 
 In subsection (c), the words “and issue” are omitted as surplus. The words “to carry out subsection (a) of this section” are substituted for “The restorations and adjustments provided for by subsection (a) of this section shall be made in accordance with” to eliminate unnecessary words.
 
-In subsection (d), the word “settlement” is omitted as surplus. The words “the Secretary of the departmentconcerned or . . . or independent establishment concerned” are omitted as unnecessary because of the restatement. The word “occurring” is omitted as surplus. The word “accounts” is substituted for “amount” before “was payable” for clarity. The word “succeeding” is omitted as surplus.
+In subsection (d), the word “settlement” is omitted as surplus. The words “the Secretary of the department concerned or . . . or independent establishment concerned” are omitted as unnecessary because of the restatement. The word “occurring” is omitted as surplus. The word “accounts” is substituted for “amount” before “was payable” for clarity. The word “succeeding” is omitted as surplus.
 
 #### Section Referred to in Other Sections
 

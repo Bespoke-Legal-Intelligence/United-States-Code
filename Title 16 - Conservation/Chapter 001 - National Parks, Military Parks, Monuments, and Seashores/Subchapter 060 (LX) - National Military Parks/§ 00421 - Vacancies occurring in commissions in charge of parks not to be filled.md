@@ -1,6 +1,6 @@
 ### §421. Vacancies occurring in commissions in charge of parks not to be filled
 
-Vacancies occurring by death or resignation in the membership of the several commissions in charge of national military parks shall not be filled, and the duties of the offices thus vacated shall devolve upon the remaining commissioners or commissioner for each of said parks. As vacancies occur the Secretary of the Army shall become ex officio a member of the commission effected with full authority to act with the remaining commissioners or commissioner, and in case of the vacation of all the offices of commissioner in any one park hereunder the duties of such commission shall thereafter be performed under the direction of the Secretary of the Army.
+Vacancies occurring by death or resignation in the membership of the several commissions in charge of national military parks shall not be filled, and the duties of the offices thus vacated shall devolve upon the remaining commissioners or commissioner for each of said parks. As vacancies occur the Secretary of the Army shall become ex officio a member of the commission effected with full authority to act with the remaining commissioners or commissioner, and in case of the vacation of all the offices of commissioner in any one park hereunder the duties of such commission shall thereafter be performedunder the direction of the Secretary of the Army.
 
 (Aug. 24, 1912, ch. 355, §1, 37 Stat. 442; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501.)
 

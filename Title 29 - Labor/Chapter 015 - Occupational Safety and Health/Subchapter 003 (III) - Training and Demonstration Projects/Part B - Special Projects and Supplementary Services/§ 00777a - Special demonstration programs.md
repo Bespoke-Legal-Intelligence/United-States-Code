@@ -64,7 +64,7 @@ Subject to the provisions of section 776 of this title, the Commissioner may mak
 
 (1) The Commissioner may make grants to public or private institutions to pay for the cost of developing special projects and demonstration projects to address the general education, counseling, vocational training, work transition, supported employment, job placement, followup, and community outreach needs of individuals who are either low-functioning and deaf or low-functioning and hard-of-hearing. Such projects shall provide educational and vocational rehabilitation services that are not otherwise available in the region involved and shall maximize the potential of such individuals, including individuals who are deaf and have additional severe disabilities.
 
-(2) The Commissioner shall monitor the activities of the recipients of grants under this subsection to ensure that the recipients carry out the projects in accordance with paragraph (1),that the recipients coordinate the projects as described in paragraph (3), and that information about innovative methods of service delivery developed by such projects is disseminated.
+(2) The Commissioner shall monitor the activities of the recipients of grants under this subsection to ensure that the recipients carry out the projects in accordance with paragraph (1), that the recipients coordinate the projects as described in paragraph (3), and that information about innovative methods of service delivery developed by such projects is disseminated.
 
 (3) The Commissioner shall prepare and submit an annual report to Congress that includes an assessment of the manner in which the recipients carrying out the projects coordinate the projects with projects carried out by other public or nonprofit agencies serving individuals who are deaf, to expand or improve services for such individuals.
 
@@ -122,7 +122,7 @@ Pub. L. 102–569, §102(p)(21)(C), substituted “disabilities” for “handic
 
 Subsec. (e). Pub. L. 102–569, §308(e), added subsec. (e). Former subsec. (e) redesignated (d).
 
-Pub. L. 102–569, §102(p)(21)(D)(ii), substituted “youths who are individuals with severe disabilities and otheryouths with disabilities” for “youths with severe handicaps and youths with mild handicaps” in par. (4)(B).
+Pub. L. 102–569, §102(p)(21)(D)(ii), substituted “youths who are individuals with severe disabilities and other youths with disabilities” for “youths with severe handicaps and youths with mild handicaps” in par. (4)(B).
 
 Pub. L. 102–569, §102(p)(21)(D)(i), substituted “who are individuals with severe disabilities” for “with severe handicaps” in par. (1).
 

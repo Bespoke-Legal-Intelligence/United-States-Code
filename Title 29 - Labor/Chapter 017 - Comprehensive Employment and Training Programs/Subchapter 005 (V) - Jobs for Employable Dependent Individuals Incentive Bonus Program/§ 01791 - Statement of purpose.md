@@ -2,11 +2,11 @@
 
 It is the purpose of this subchapter to provide incentives to reduce welfare dependency, promote self-sufficiency, increase child support payments, and increase employment and earnings of individuals by providing to each participating State a bonus for providing job training to—
 
-&emsp;(1) absent parents of children receiving aid to families with dependent children under part A of title IV of the Social Security Act (42 U.S.C. 601 et seq.), who subsequent to such training pay child support for their children; and
+&emsp;(1) absent parents of children receiving assistance under the State program funded under part A of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\], who subsequent to such training pay child support for their children; and
 
 &emsp;(2) blind or disabled individuals receiving supplemental security income under title XVI of the Social Security Act (42 U.S.C. 1381 et seq.), who subsequent to such training are successfully placed in and retain employment.
 
-(Pub. L. 97–300, title V, §501, as added Pub. L. 100–628, title VII, §712(a)(3), Nov. 7, 1988, 102 Stat. 3248; amended Pub. L. 102–367, title V, §501, Sept. 7, 1992, 106 Stat. 1096.)
+(Pub. L. 97–300, title V, §501, as added Pub. L. 100–628, title VII, §712(a)(3), Nov. 7, 1988, 102 Stat. 3248; amended Pub. L. 102–367, title V, §501, Sept. 7, 1992, 106 Stat. 1096; Pub. L. 104–193, title I, §110(n)(14), Aug. 22, 1996, 110 Stat. 2174.)
 
 #### References in Text
 
@@ -18,7 +18,13 @@ A prior section 501 of Pub. L. 97–300, which enacted sections 49e, 49f, 49<i>l
 
 #### Amendments
 
+1996—Par. (1). Pub. L. 104–193 substituted “assistance under the State program funded under part A of title IV of the Social Security Act” for “aid to families with dependent children under part A of title IV of the Social Security Act (42 U.S.C. 601 et seq.)”.
+
 1992—Pub. L. 102–367 amended section generally. Prior to amendment, section read as follows: “It is the purpose of this subchapter to entitle each State to the payment of a bonus for the successful job placement of certain employable dependent individuals.”
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–193 effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, andproceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as an Effective Date note under section 601 of Title 42, The Public Health and Welfare.
 
 #### Effective Date of 1992 Amendment
 

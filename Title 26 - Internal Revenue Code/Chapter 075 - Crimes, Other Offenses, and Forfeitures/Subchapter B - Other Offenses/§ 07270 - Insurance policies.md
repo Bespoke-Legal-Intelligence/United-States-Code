@@ -1,6 +1,6 @@
 ### §7270. Insurance policies
 
-Any person who fails to comply with the requirements of section 4374 (relating to liabilityfor tax on policies issued by foreign insurers), with intent to evade the tax shall, in addition to other penalties provided therefor, pay a fine of double the amount of the tax.
+Any person who fails to comply with the requirements of section 4374 (relating to liability for tax on policies issued by foreign insurers), with intent to evade the tax shall, in addition to other penalties provided therefor, pay a fine of double the amount of the tax.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 865; Oct. 4, 1976, Pub. L. 94–455, title XIX, §1904(b)(5)(A), 90 Stat. 1815.)
 

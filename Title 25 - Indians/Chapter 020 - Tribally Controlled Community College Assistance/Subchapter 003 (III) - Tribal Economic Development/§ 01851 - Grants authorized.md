@@ -30,7 +30,7 @@ Institutions which receive funds under other subchapters of this chapter or the 
 
 The Navajo Community College Act, referred to in subsecs. (a) and (c), is Pub. L. 92–189, Dec. 15, 1971, 85 Stat. 646, as amended, which is classified to section 640a et seq. of this title. For complete classification of this Act to the Code, see Short Title note set out under section 640a of this title and Tables.
 
-This subchapter, referred to at the end of subsec. (c), was in the original “this part” and was translated as reading “this title” to reflect the probable intent of Congress because title IV of Pub. L. 95–471, which comprises this subchapter, does not contain parts.
+This subchapter, referred to at the end of subsec. (c), was in the original “this part” and was translated asreading “this title” to reflect the probable intent of Congress because title IV of Pub. L. 95–471, which comprises this subchapter, does not contain parts.
 
 #### Effective Date
 

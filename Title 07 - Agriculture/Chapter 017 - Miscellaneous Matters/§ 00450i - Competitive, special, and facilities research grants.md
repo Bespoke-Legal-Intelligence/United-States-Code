@@ -54,7 +54,7 @@ Director.—The Secretary shall appoint a director for the grant program authori
 
 (6)
 
-Participation in Grant Process.—In seeking proposals for grants under this subsection and in performing peer review evaluations of such proposals, the Secretary shall seek the widest participation of qualified scientists in the Federal Government, colleges and universities, State agricultural experiment stations, and the private sector.
+Participation in Grant Process.—In seeking proposals for grants under this subsection and in performing peer review evaluations of such proposals, the Secretary shall seek the widest participation of qualified scientists inthe Federal Government, colleges and universities, State agricultural experiment stations, and the private sector.
 
 (7)
 
@@ -76,17 +76,21 @@ Annual Report.—The Secretary shall transmit to Congress an annual report descr
 
 (10)
 
-Authorization of Appropriations.—There are authorized to be appropriated to carry out this subsection $150,000,000 for fiscal year 1991, $275,000,000 for fiscal year 1992, $350,000,000 for fiscal year 1993, $400,000,000 for fiscal year 1994, and $500,000,000 for fiscal year 1995, of which each fiscal year—
+Authorization of Appropriations.—There are authorized to be appropriated to carry out this subsection $150,000,000 for fiscal year 1991, $275,000,000 for fiscal year 1992, $350,000,000 for fiscal year 1993, $400,000,000 for fiscal year 1994, and $500,000,000 for each of fiscal years 1995 through 1997, of which each fiscal year—
 
 &emsp;(A) not less than 10 percent for fiscal year 1991, 20 percent for fiscal year 1992, and 30 percent for fiscal year 1993 and each fiscal year thereafter shall be available to make grants for research to be conducted by multidisciplinary teams;
 
-&emsp;(B) not less than 20 percent shall be available to make grants for research to be conducted by persons conducting mission-linked systems research;
+&emsp;(B) not less than 40 percent shall be available to make grants for research to be conducted by persons conducting mission-linked systems research;
 
 &emsp;(C) not less than 10 percent shall be available to make grants under subparagraphs (D) and (F) of paragraph (3) for awarding grants in research and education strengthening and research opportunity;
 
 &emsp;(D) not more than two percent may be used for equipment grants under subparagraph (3)(D); and
 
 &emsp;(E) not more than four percent may be retained by the Secretary to pay administrative costs incurred by the Secretary in carrying out this subsection.
+
+(11)
+
+Availability of Funds.—Funds made available under paragraph (10) shall be available for obligation for a 2-year period beginning on October 1 of the fiscal year for which the funds are made available.
 
 #### (c) Special grants
 
@@ -128,7 +132,7 @@ Set Asides.—Of amounts appropriated for a fiscal year to carry out this subsec
 
 The Secretary of Agriculture shall make annual grants to support the renovation and refurbishment (including energy retrofitting) of research spaces in buildings or spaces to be used for research, and the purchase and installation of fixed equipment in such spaces. Such grants may be used for new construction only for auxiliary facilities and fixed equipment used for research in such facilities, such as greenhouses, insectaries, and research farm structures and installations. Such grants shall be made to—
 
-&emsp;(1) each State agricultural experiment station in an amount of $100,000 or an amount which is equal to 10 per centum of the funds received by such station under the Act of March 2, 1887 (24 Stat. 440–442, as amended; 7 U.S.C. 361a–361i), and the Act of October 10, 1962 (76 Stat. 806–807, as amended; 16 U.S.C. 582a, 582a–1—582a–7), whichever is greater: <i>Provided</i>, That of any amount in excess of $50,000 made available under this paragraph during any year for allotment to a State agricultural experiment station, no payment thereof shall be made in excess of the amount which the station makes available during that year for the purposes for which grants under this paragraph are made available;
+&emsp;(1) each State agricultural experiment station in an amount of $100,000 or an amount which is equal to 10 per centum of the funds received by such station under the Act of March 2, 1887 (24 Stat. 440–442, as amended; 7 U.S.C. 361a–361i), and the Act of October 10, 1962 (76 Stat. 806–807, as amended; 16 U.S.C. 582a, 582a–1—582a–7), whichever is greater: <i>Provided</i>, That of any amount in excess of $50,000 made available under this paragraph duringany year for allotment to a State agricultural experiment station, no payment thereof shall be made in excess of the amount which the station makes available during that year for the purposes for which grants under this paragraph are made available;
 
 &emsp;(2) each accredited college of veterinary medicine and State agricultural experiment station which receives funds from the Federal Government for animal health research, in an amount which is equal to 10 per centum of the animal health research funds received by such college or experiment station from the Federal Government during the previous fiscal year;
 
@@ -162,7 +166,7 @@ The Secretary of Agriculture shall make annual grants to support the renovation 
 
 &emsp;(A) a listing of all registrations, reregistrations, and tolerances for which data has been collected in the preceding year;
 
-&emsp;(B) a listing of all registrations, reregistrations, and tolerances for which data collectionis scheduled to occur in the following year, with an explanation of the priority system used to develop this list; and
+&emsp;(B) a listing of all registrations, reregistrations, and tolerances for which data collection is scheduled to occur in the following year, with an explanation of the priority system used to develop this list; and
 
 &emsp;(C) a listing of all activities the IR–4 Program has carried out pursuant to paragraph (4).
 
@@ -204,7 +208,7 @@ The Secretary of Agriculture shall ensure that grants made under subsections (b)
 
 The Secretary of Agriculture may consult with the Agricultural Science and Technology Review Board regarding the policies, priorities, and operation of subsections (b) and (c) of this section.
 
-(Pub. L. 89–106, §2, Aug. 4, 1965, 79 Stat. 431; Pub. L. 95–113, title XIV, §1414, Sept. 29, 1977, 91 Stat. 991; Pub. L. 97–98, title XIV, §1415, Dec. 22, 1981, 95 Stat. 1303; Pub. L. 99–198, title XIV, §1409, Dec. 23, 1985, 99 Stat. 1546; Pub. L. 101–624, title XIV, §1497, title XVI, §§1615, 1616, Nov. 28, 1990, 104 Stat. 3630, 3729, 3732; Pub. L. 102–237, title IV, §401, Dec. 13, 1991, 105 Stat. 1862; Pub. L. 104–66, title I, §1011(v), Dec. 21, 1995, 109 Stat. 711.)
+(Pub. L. 89–106, §2, Aug. 4, 1965, 79 Stat. 431; Pub. L. 95–113, title XIV, §1414, Sept. 29, 1977, 91 Stat. 991; Pub. L. 97–98, title XIV, §1415, Dec. 22, 1981, 95 Stat. 1303; Pub. L. 99–198, title XIV, §1409, Dec. 23, 1985, 99 Stat. 1546; Pub. L. 101–624, title XIV, §1497, title XVI, §§1615, 1616, Nov. 28, 1990, 104 Stat. 3630, 3729, 3732; Pub. L. 102–237, title IV, §401, Dec. 13, 1991, 105 Stat. 1862; Pub. L. 104–66, title I, §1011(v), Dec. 21, 1995, 109 Stat. 711; Pub. L. 104–127, title VIII, §885, Apr. 4, 1996, 110 Stat. 1179.)
 
 #### References in Text
 
@@ -221,6 +225,12 @@ The Federal Advisory Committee Act, referred to in subsec. (j), is Pub. L. 92–
 The Food and Agriculture Act of 1977, referred to in subsec. (j), is Pub. L. 95–113, Sept. 29, 1977, 91 Stat. 913, as amended. Title XVIII of the Act is classified generally to chapter 55A (§2281 et seq.) of this title. For complete classification of this Act to the Code, see Short Title of 1977 Amendment note set out under section 1281 of this title and Tables.
 
 #### Amendments
+
+1996—Subsec. (b)(10). Pub. L. 104–127, §885(a)(1), substituted “each of fiscal years 1995 through 1997” for “fiscal year 1995” in introductory provisions.
+
+Subsec. (b)(10)(B). Pub. L. 104–127, §885(a)(2), substituted “40 percent” for “20 percent”.
+
+Subsec. (b)(11). Pub. L. 104–127, §885(b), added par. (11).
 
 1995—Subsecs. (<i>l</i>), (m). Pub. L. 104–66 redesignated subsec. (m) as (<i>l</i>) and struck out former subsec. (<i>l</i>) which directed Secretary of Agriculture to submit annual reports to Congress on competitive grant and special grant awards.
 
@@ -282,7 +292,7 @@ Subsec. (j). Pub. L. 101–624, §1615(b), added subsec. (j) relating to emphasi
 
 Pub. L. 101–624, §1497(1), redesignated subsec. (i), relating to application of other laws, as (j).
 
-Subsecs. (k) and (<i>l</i>). Pub. L. 101–624, §1615(b), added subsecs. (k) and (<i>l).</i>
+Subsecs. (k) and (<i>l</i>). Pub. L. 101–624, §1615(b), added subsecs. (k) and (<i>l</i>).
 
 1985—Subsec. (b). Pub. L. 99–198, §1409(a)(1), (2), substituted in third sentence par. “(2) research, with emphasis on biotechnology,” for “(2) research” and added pars. (7) and (8), and prohibited any grant under subsec. (b) for any purpose for which a grant may be made under subsec. (d) or for the planning, repair, rehabilitation, acquisition, or construction of a building or a facility.
 
@@ -318,5 +328,5 @@ Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2209b, 3222, 3311, 3315, 3319 of this title.
+This section is referred to in sections 136w–7, 2209b, 3222, 3311, 3315, 3319, 5925 of this title.
 

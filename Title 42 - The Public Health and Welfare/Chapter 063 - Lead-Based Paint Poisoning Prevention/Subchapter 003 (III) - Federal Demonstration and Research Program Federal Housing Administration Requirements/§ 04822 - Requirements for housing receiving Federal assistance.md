@@ -4,7 +4,7 @@
 
 #### (1) Elimination of hazards
 
-&emsp;The Secretary of Housing and Urban Development (hereafter in this section referred to as the “Secretary”) shall establish procedures to eliminate as far as practicable the hazardsof lead based paint poisoning with respect to any existing housing which may present such hazards and which is covered by an application for mortgage insurance or housing assistance payments under a program administered by the Secretary or otherwise receives more than $5,000 in project-based assistance under a Federal housing program. Beginning on January 1, 1995, such procedures shall apply to all such housing that constitutes target housing, as defined in section 4851b of this title, and shall provide for appropriate measures to conduct risk assessments, inspections, interim controls, and abatement of lead-based paint hazards. At a minimum, such procedures shall require—
+&emsp;The Secretary of Housing and Urban Development (hereafter in this section referred to as the “Secretary”) shall establish procedures to eliminate as far as practicable the hazards of lead based paint poisoning with respect to any existing housing which may present such hazards and which is covered by an application for mortgage insurance or housing assistance payments under a program administered by the Secretary or otherwise receives more than $5,000 in project-based assistance under a Federal housing program. Beginning on January 1, 1995, such procedures shall apply to all such housing that constitutes target housing, as defined in section 4851b of this title, and shall provide for appropriate measures to conduct risk assessments, inspections, interim controls, and abatement of lead-based paint hazards. At a minimum, such procedures shall require—
 
 &emsp;&emsp;(A) the provision of lead hazard information pamphlets, developed pursuant to section 2686 of title 15, to purchasers and tenants;
 
@@ -58,7 +58,7 @@ The procedures established by the Secretary under this section for the risk asse
 
 #### (c) Inspection requirements
 
-The Secretary shall require the inspection of all intact and nonintact interior and exterior painted surfaces of housing subject to this section for lead-based paint using an approved x-ray fluorescence analyzer, atomic absorption spectroscopy, or comparable approved sampling or testing technique. A certified inspector or laboratory shall certify in writing the preciseresults of the inspection. If the results equal or exceed a level of 1.0 milligrams per centimeter squared or 0.5 percent by weight, the results shall be provided to any potential purchaser or tenant of the housing. The Secretary shall periodically review and reduce the level below 1.0 milligram per centimeter squared or 0.5 percent by weight to the extent that reliable technology makes feasible the detection of a lower level and medical evidence supports the imposition of a lower level. The requirements of this subsection shall apply as provided in subsection (d) of this section.
+The Secretary shall require the inspection of all intact and nonintact interior and exterior painted surfaces of housing subject to this section for lead-based paint using an approved x-ray fluorescence analyzer, atomic absorption spectroscopy, or comparable approved sampling or testing technique. A certified inspector or laboratory shall certify in writing the precise results of the inspection. If the results equal or exceed a level of 1.0 milligrams per centimeter squared or 0.5 percent by weight, the results shall be provided to any potential purchaser or tenant of the housing. The Secretary shall periodically review and reduce the level below 1.0 milligram per centimeter squared or 0.5 percent by weight to the extent that reliable technology makes feasible the detection of a lower level and medical evidence supports the imposition of a lower level. The requirements of this subsection shall apply as provided in subsection (d) of this section.
 
 #### (d) Abatement required
 
@@ -229,10 +229,4 @@ Required consultations.—Before issuing proposed regulations and in preparing r
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 1437aaa–1, 1437aaa–2, 4851b, 12872, 12873, 12892, 12893 of this title; title 15 section 2681.
-
-### SUBCHAPTER IV—PROHIBITION
-
-### AGAINST FUTURE USE OF LEAD-BASED
-
-### PAINT
 

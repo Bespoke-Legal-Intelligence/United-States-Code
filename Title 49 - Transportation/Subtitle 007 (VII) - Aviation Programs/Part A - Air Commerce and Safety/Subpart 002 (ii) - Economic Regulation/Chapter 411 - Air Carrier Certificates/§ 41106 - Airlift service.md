@@ -2,7 +2,7 @@
 
 (a)
 
-General.—(1) Except as provided in subsection (b) of this section, the transportation of passengers or property by transport categoryaircraft in interstate air transportation obtained by the Secretary of Defense or the Secretary of a military department through a contract of at least 31 days for airlift service in the United States may be provided only by an air carrier that—
+General.—(1) Except as provided in subsection (b) of this section, the transportation of passengers or property by transport category aircraft in interstate air transportation obtained by the Secretary of Defense or the Secretary of a military department through a contract of at least 31 days for airlift service in the United States may be provided only by an air carrier that—
 
 &emsp;(A) has aircraft in the civil reserve air fleet or offers to place the aircraft in that fleet; and
 
@@ -18,7 +18,9 @@ Exception.—When the Secretary of Defense decides that no air carrier holding a
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -26,13 +28,13 @@ Historical and Revision Notes
 
 41106
 
-49 App.:1371(<i>o).</i>
+49 App.:1371(<i>o</i>).
 
 Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §401(<i>o</i>); added July 12, 1976, Pub. L. 94–353, §18(a), 90 Stat. 883.
 
 &nbsp;
 
-49 App.:1551(b) (1)(E).
+49 App.:1551(b)(1)(E).
 
 Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1601(b)(1)(E); added Oct. 4, 1984, Pub. L. 98–443, §3(e), 98 Stat. 1704.
 

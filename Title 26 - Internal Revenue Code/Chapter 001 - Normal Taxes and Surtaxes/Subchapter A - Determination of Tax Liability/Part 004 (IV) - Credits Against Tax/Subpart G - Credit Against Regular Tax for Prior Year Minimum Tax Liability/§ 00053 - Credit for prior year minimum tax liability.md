@@ -50,7 +50,7 @@ For purposes of this section—
 
 #### (iii) Special rule
 
-&emsp;&emsp;&emsp;The adjusted net minimum tax for the taxable year shall be increased by the amount of the credit not allowed under section 29 (relating to credit for producing fuel from a nonconventional source) solely by reason of the application of section 29(b)(6)(B), not allowed under section 28 solely by reason of the application of section 28(d)(2)(B), or not allowed under section 30 solely by reason of the application of section 30(b)(3)(B).
+&emsp;&emsp;&emsp;The adjusted net minimum tax for the taxable year shall be increased by the amount of the credit not allowed under section 29 (relating to credit for producing fuel from a nonconventional source) solely by reason of the application of section 29(b)(6)(B), or not allowed under section 30 solely by reason of the application of section 30(b)(3)(B).
 
 #### (iv) Credit allowable for exclusion preferences of corporations
 
@@ -58,17 +58,13 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(I) the preceding provisions of this subparagraph shall not apply, and
 
-&emsp;&emsp;&emsp;&emsp;(II) the adjusted net minimum tax for any taxable year is the amount of the net minimum tax for such year increased by the amount of any credit not allowed under section 29 solely by reason of the application of section 29(b)(5)(B) <sup>1</sup> or not allowed under section 28 solely by reason of the application of section 28(d)(2)(B).
+&emsp;&emsp;&emsp;&emsp;(II) the adjusted net minimum tax for any taxable year is the amount of the net minimum tax for such year increased in the manner provided in clause (iii).
 
 #### (2) Tentative minimum tax
 
 &emsp;The term “tentative minimum tax” has the meaning given to such term by section 55(b).
 
-(Added Pub. L. 99–514, title VII, §701(b), Oct. 22, 1986, 100 Stat. 2339; amended Pub. L. 100–647, title I, §1007(g)(4), title VI, §6304(a), Nov. 10, 1988, 102 Stat. 3435, 3756; Pub. L. 101–239, title VII, §§7612(a)(1), (2), (b)(1), 7811(d)(2), Dec. 19, 1989, 103 Stat. 2373, 2374, 2408; Pub. L. 102–486, title XIX, §1913(b)(2)(C), Oct. 24, 1992, 106 Stat. 3020; Pub. L. 103–66, title XIII, §§13113(b)(2), 13171(c), Aug. 10, 1993, 107 Stat. 429, 455.)
-
-#### References in Text
-
-Section 29(b)(5)(B), referred to in subsec. (d)(1)(B)(iv)(II), was redesignated section 29(b)(6)(B) and a new section 29(b)(5)(B) was added by Pub. L. 101–508, title XI, §11501(c)(1), Nov. 5, 1990, 104 Stat. 1388–479.
+(Added Pub. L. 99–514, title VII, §701(b), Oct. 22, 1986, 100 Stat. 2339; amended Pub. L. 100–647, title I, §1007(g)(4), title VI, §6304(a), Nov. 10, 1988, 102 Stat. 3435, 3756; Pub. L. 101–239, title VII, §§7612(a)(1), (2), (b)(1), 7811(d)(2), Dec. 19, 1989, 103 Stat. 2373, 2374, 2408; Pub. L. 102–486, title XIX, §1913(b)(2)(C), Oct. 24, 1992, 106 Stat. 3020; Pub. L. 103–66, title XIII, §§13113(b)(2), 13171(c), Aug. 10, 1993, 107 Stat. 429, 455; Pub. L. 104–188, title I, §§1205(d)(5), 1704(j)(1), Aug. 20, 1996, 110 Stat. 1776, 1881.)
 
 #### Prior Provisions
 
@@ -76,11 +72,19 @@ A prior section 53, added Pub. L. 95–30, title II, §202(b), May 23, 1977, 91 
 
 #### Amendments
 
+1996—Subsec. (d)(1)(B)(iii). Pub. L. 104–188, §1205(d)(5)(A), which directed that cl. (iii) be amended by striking out “or not allowed under section 28 solely by reason of the application of section 28(d)(2)(B),” was executed by striking out “not allowed under section 28 solely by reason of the application of section 28(d)(2)(B),” after “29(b)(6)(B),”, to reflect the probable intent of Congress.
+
+Subsec. (d)(1)(B)(iv)(II). Pub. L. 104–188, §1704(j)(1), amended subcl. (II) generally. Prior to amendment, subcl. (II) read as follows: “the adjusted net minimum tax for any taxable year is the amount of the net minimum tax for such year increased by the amount of any credit not allowed under section 29 solely by reason of the application of section 29(b)(5)(B) or not allowed under section 28 solely by reason of the application of section 28(d)(2)(B).”
+
+Pub. L. 104–188, §1205(d)(5)(B), which directed that subcl. (II) be amended by striking out “or not allowed under section 28 solely by reason of the application of section 28(d)(2)(B)”, could not be executed because the phrase sought to be struck out did not appear in text subsequent to the general amendment of subcl. (II) by Pub. L. 104–188, §1704(j)(1), see above, which, pursuant to section 1701 of Pub. L. 104–188, set out as a note under section 1 of this title, is treated as having been enacted before section 1205(d)(5)(B) of Pub. L. 104–188.
+
 1993—Subsec. (d)(1)(B)(ii)(II). Pub. L. 103–66, §13171(c), substituted “(5), and (7)” for “(5), (6), and (8)”.
 
 Pub. L. 103–66, §13113(b)(2), substituted “(6), and (8)” for “and (6)”.
 
-1992—Subsec. (d)(1)(B)(iii). Pub. L. 102–486 substituted “section 29(b)(6)(B),” for “section 29(b)(5)(B) or” and inserted before period at end “, or not allowed under section 30 solely by reason of the application of section 30(b)(3)(B)”.
+1992—Subsec. (d)(1)(B)(iii). Pub. L. 102–486, §1913(b)(2)(C)(i), substituted “section 29(b)(6)(B),” for “section 29(b)(5)(B) or”.
+
+Pub. L. 102–486, §1913(b)(2)(C)(ii), inserted before period at end “, or not allowed under section 30 solely by reason of the application of section 30(b)(3)(B)”.
 
 1989—Subsec. (d)(1)(B)(i)(II). Pub. L. 101–239, §7811(d)(2), inserted before period at end “and if section 59(a)(2) did not apply”.
 
@@ -96,6 +100,12 @@ Pub. L. 101–239, §7612(a)(1), added cl. (iv).
 
 Subsec. (d)(1)(B)(iii). Pub. L. 100–647, §6304(a), added cl. (iii).
 
+#### Effective Date of 1996 Amendment
+
+Amendment by section 1205(d)(5) of Pub. L. 104–188 applicable to amounts paid or incurred in taxable years ending after June 30, 1996, see section 1205(e) of Pub. L. 104–188, set out as a note under section 29 of this title.
+
+Section 1704(j)(1) of Pub. L. 104–188 provided that the amendment made by that section is effective with respect to taxable years beginning after Dec. 31, 1990.
+
 #### Effective Date of 1993 Amendment
 
 Section 13113(e) of Pub. L. 103–66 provided that: “The amendments made by this section \[enacting section 1202 of this title and amending this section and sections 57, 172, 642, 643, 691, 871, and 6652 of this title\] shall apply to stock issued after the date of the enactment of this Act \[Aug. 10, 1993\].”
@@ -104,7 +114,9 @@ Section 13171(d) of Pub. L. 103–66 provided that: “The amendments made by th
 
 #### Effective Date of 1992 Amendment
 
-Amendment by Pub. L. 102–486 applicable to property placed in service after June 30, 1993, see section 1913(c) of Pub. L. 102–486, set out as an Effective Date note under section 30 of this title.
+Section 1702(e)(5) of Pub. L. 104–188 provided that: “The amendment made by section 1913(b)(2)(C)(i) of the Energy Policy Act of 1992 \[Pub. L. 102–486\] shall apply to taxable years beginning after December 31, 1990.”
+
+Amendment by section 1913(b)(2)(C)(ii) of Pub. L. 102–486 applicable to property placed in service after June 30, 1993, see section 1913(c) of Pub. L. 102–486, set out as an Effective Date note under section 30 of this title.
 
 #### Effective Date of 1989 Amendment
 

@@ -2,7 +2,7 @@
 
 #### (a) Appointment; compensation; term of office
 
-The Director of the Foundation (referred to in this chapter as the “Director”) shall be appointed by the President, by and with the advice and consent of the Senate. Before any person is appointed as Director, the President shall afford the Board an opportunity to make recommendations to him with respect to such appointment. The Director shall receive basic pay at the rate provided for level II of the Executive Schedule under section 5313 of title 5, and shall serve for a term of six years unless sooner removed by the President.
+The Director of the Foundation (referred to in this chapter as the “Director”) shall be appointed by the President, by and with the advice and consent of the Senate. Before any person isappointed as Director, the President shall afford the Board an opportunity to make recommendations to him with respect to such appointment. The Director shall receive basic pay at the rate provided for level II of the Executive Schedule under section 5313 of title 5, and shall serve for a term of six years unless sooner removed by the President.
 
 #### (b) Exercise of authority of Foundation; actions as final and binding upon the Foundation
 
@@ -54,7 +54,7 @@ Amendment by Pub. L. 90–407, insofar as related to rates of basic pay, effecti
 
 Authority of Director of National Science Foundation, from time to time, to make appropriate provisions authorizing performance by any other officer, or by any agency or employee, of National Science Foundation of any of his functions (including functions delegated to him by National Science Board), see Reorg. Plan No. 5 of 1965, eff. July 27, 1965, 30 F.R. 9355, 79 Stat. 1323, set out in the Appendix to Title 5, Government Organization and Employees.
 
-Office of Director of National Science Foundation established under provisions of this section abolished and functions transferred to Director of National Science Foundation appointed pursuant to Reorg. Plan No. 2 of 1962, see section 22 (a), (b) of Reorg. Plan No. 2 of 1962, eff. June 8, 1962, 27 F.R. 5419, 76 Stat. 1253, set out as a note under section 1861 of this title.
+Office of Director of National Science Foundation established under provisions of this section abolished andfunctions transferred to Director of National Science Foundation appointed pursuant to Reorg. Plan No. 2 of 1962, see section 22 (a), (b) of Reorg. Plan No. 2 of 1962, eff. June 8, 1962, 27 F.R. 5419, 76 Stat. 1253, set out as a note under section 1861 of this title.
 
 #### Research Purposes of Grants; Brief Statement in Titles
 

@@ -1,0 +1,140 @@
+### §1829b. Retention of records by insured depository institutions
+
+#### (a) Congressional findings and declaration of purpose
+
+(1) The Congress finds that adequate records maintained by insured depository institutions have a high degree of usefulness in criminal, tax, and regulatory investigations and proceedings. The Congress further finds that microfilm or other reproductions and other records made by banks <sup>1</sup> of checks, as well as records kept by banks <sup>1</sup> of the identity of persons maintaining or authorized to act with respect to accounts therein, have been of particular value in this respect.
+
+(2) It is the purpose of this section to require the maintenance of appropriate types of records by insured depository institutions in the UnitedStates where such records have a high degree of usefulness in criminal, tax, or regulatory investigations or proceedings.
+
+#### (b) Recordkeeping regulations
+
+#### (1) In general
+
+&emsp;Where the Secretary of the Treasury (referred to in this section as the “Secretary”) determines that the maintenance of appropriate types of records and other evidence by insured depository institutions has a high degree of usefulness in criminal, tax, or regulatory investigations or proceedings, he shall prescribe regulations to carry out the purposes of this section.
+
+#### (2) Domestic funds transfers
+
+&emsp;Whenever the Secretary and the Board of Governors of the Federal Reserve System (hereafter in this section referred to as the “Board”) determine that the maintenance of records, by insured depository institutions, of payment orders which direct transfers of funds over wholesale funds transfer systems has a high degree of usefulness in criminal, tax, or regulatory investigations or proceedings, the Secretary and the Board shall jointly prescribe regulations to carry out the purposes of this section with respect to the maintenance of such records.
+
+#### (3) International funds transfers
+
+#### (A) In general
+
+&emsp;&emsp;The Secretary and the Board shall jointly prescribe, after consultation with State banking supervisors, final regulations requiring that insured depository institutions, businesses that provide check cashing services, money transmitting businesses, and businesses that issue or redeem money orders, travelers’ checks or other similar instruments maintain such records of payment orders which—
+
+&emsp;&emsp;&emsp;(i) involve international transactions; and
+
+&emsp;&emsp;&emsp;(ii) direct transfers of funds over wholesale funds transfer systems or on the books of any insured depository institution, or on the books of any business that provides check cashing services, any money transmitting business, and any business that issues or redeems money orders, travelers’ checks or similar instruments,
+
+> &emsp;&emsp;that will have a high degree of usefulness in criminal, tax, or regulatory investigations or proceedings.
+
+#### (B) Factors for consideration
+
+&emsp;&emsp;In prescribing the regulations required under subparagraph (A), the Secretary and the Board shall consider—
+
+&emsp;&emsp;&emsp;(i) the usefulness in criminal, tax, or regulatory investigations or proceedings of any record required to be maintained pursuant to the proposed regulations; and
+
+&emsp;&emsp;&emsp;(ii) the effect the recordkeeping required pursuant to such proposed regulations will have on the cost and efficiency of the payment system.
+
+#### (C) Availability of records
+
+&emsp;&emsp;Any records required to be maintained pursuant to the regulations prescribed under subparagraph (A) shall be submitted or made available to the Secretary or the Board upon request.
+
+#### (c) Identity of persons having accounts and persons authorized to act with respect to such accounts; exemptions
+
+Subject to the requirements of any regulations prescribed jointly by the Secretary and the Board under paragraph (2) or (3) of subsection (b) of this section, each insured depository institution shall maintain such records and other evidence, in such form as the Secretary shall require, of the identity of each person having an account in the United States with the insured depository institution and of each individual authorized to sign checks, make withdrawals, or otherwise act with respect to any such account. The Secretary may make such exemptions from any requirement otherwise imposed under this subsection as are consistent with the purposes of this section.
+
+#### (d) Reproduction of checks, drafts, and other instruments; record of transactions; identity of party
+
+Each insured depository institution shall make, to the extent that the regulations of the Secretary so require—
+
+&emsp;(1) a microfilm or other reproduction of each check, draft, or similar instrument drawn on it and presented to it for payment; and
+
+&emsp;(2) a record of each check, draft, or similar instrument received by it for deposit or collection, together with an identification of the party for whose account it is to be deposited or collected, unless the insured depository institution has already made a record of the party's identity pursuant to subsection (c) of this section.
+
+#### (e) Identity of persons making reportable currency and foreign transactions
+
+Subject to the requirements of any regulations prescribed jointly by the Secretary and the Board under paragraph (2) or (3) of subsection (b) of this section, whenever any individual engages (whether as principal, agent, or bailee) in any transaction with an insured depository institution which is required to be reported or recorded under subchapter II of chapter 53 of title 31, the insured depository institution shall require and retain such evidence of the identity of that individual as the Secretary may prescribe as appropriate under the circumstances.
+
+#### (f) Additions to or substitutes for required records
+
+Subject to the requirements of any regulations prescribed jointly by the Secretary and the Board under paragraph (2) or (3) of subsection (b) of this section and in addition to or in lieu of the records and evidence otherwise referred to in this section, each insured depository institution shall maintain such records and evidence as the Secretary may prescribe to carry out the purposes of this section.
+
+#### (g) Retention period
+
+Any type of record or evidence required under this section shall be retained for such period as the Secretary may prescribe for the type in question. Any period so prescribed shall not exceed six years unless the Secretary determines, having regard for the purposes of this section, that a longer period is necessary in the case of a particular type of record or evidence.
+
+#### (h) Report to Congress by Secretary of the Treasury
+
+The Secretary shall include in his annual report to the Congress information on his implementation of the authority conferred by this section and any similar authority with respect to recordkeeping or reporting requirements conferred by other provisions of law.
+
+#### (i) Application of provisions to foreign banks
+
+The provisions of this section shall not apply to any foreign bank except with respect to the transactions and records of any insured branch of such a bank.
+
+#### (j) Civil penalties
+
+#### (1) Penalty imposed
+
+&emsp;Any insured depository institution and any director, officer, or employee of an insured depository institution who willfully or through gross negligence violates, or any person who willfully causes such a violation, any regulation prescribed under subsection (b) of this section shall be liable to the United States for a civil penalty of not more than $10,000.
+
+#### (2) Treatment of continuing violation
+
+&emsp;A separate violation of any regulation prescribed under subsection (b) of this section occurs for each day the violation continues and at each office, branch, or place of business at which such violation occurs.
+
+#### (3) Assessment
+
+&emsp;Any penalty imposed under paragraph (1) shall be assessed, mitigated, and collected in the manner provided in subsections (b) and (c) of section 5321 of title 31.
+
+(Sept. 21, 1950, ch. 967, §2\[21\], as added Oct. 26, 1970, Pub. L. 91–508, title I, §101, 84 Stat. 1114; amended Sept. 17, 1978, Pub. L. 95–369, §6(c)(29), 92 Stat. 620; Nov. 18, 1988, Pub. L. 100–690, title VI, §6185(d)(1), 102 Stat. 4356; Aug. 9, 1989, Pub. L. 101–73, title II, §201(a), 103 Stat. 187; Oct. 28, 1992, Pub. L. 102–550, title XV, §§1515(a), (b), 1535(b), 106 Stat. 4058, 4059, 4066; Sept. 23, 1994, Pub. L. 103–325, title VI, §602(a)(52)–(54), 108 Stat. 2290.)
+
+#### Codification
+
+In subsec. (e), “subchapter II of chapter 53 of title 31” was substituted for “the Currency and Foreign Transactions Reporting Act \[31 U.S.C. 1051 et seq.\]” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+
+#### Amendments
+
+1994—Subsecs. (c), (d)(2), (e). Pub. L. 103–325 substituted “the insured depository institution” for “the bank”.
+
+1992—Subsec. (b). Pub. L. 102–550, §1515(a), inserted heading, designated existing provisions as par. (1) and inserted heading, and added pars. (2) and (3).
+
+Subsec. (c). Pub. L. 102–550, §1515(b)(1), substituted “Subject to the requirements of any regulations prescribed jointly by the Secretary and the Board under paragraph (2) or (3) of subsection (b) of this section, each insured” for “Each insured”.
+
+Subsec. (e). Pub. L. 102–550, §1515(b)(2), substituted “Subject to the requirements of any regulations prescribed jointly by the Secretary and the Board under paragraph (2) or (3) of subsection (b) of this section, whenever any” for “Whenever any”.
+
+Subsec. (f). Pub. L. 102–550, §1515(b)(3), substituted “Subject to the requirements of any regulations prescribed jointly by the Secretary and the Board under paragraph (2) or (3) of subsection (b) of this section and in addition to” for “In addition to”.
+
+Subsec. (j)(1). Pub. L. 102–550, §1535(b), inserted “, or any person who willfully causes such a violation,” after “gross negligence violates”.
+
+1989—Pub. L. 101–73 substituted references to insured depository institutions for references to insured banks wherever appearing in this section.
+
+1988—Subsec. (j). Pub. L. 100–690 added subsec. (j).
+
+1978—Subsec. (i). Pub. L. 95–369 added subsec. (i).
+
+#### Effective Date
+
+Section effective on first day of seventh calendar month which begins after Oct. 26, 1970, except that the Secretary of the Treasury may, by regulation, provide that this section be effective on any date not earlier than the publication of such regulations in the Federal Register and not later than first day of thirteenth calendar month which begins after Oct. 26, 1970, see section 401(a), (b) of Pub. L. 91–508, set out as a note under section 1951 of this title.
+
+#### Regulations
+
+Section 1515(c) of Pub. L. 102–550 provided that: “The initial final regulations prescribed pursuant to section 21(b)(3) of the Federal Deposit Insurance Act \[12 U.S.C. 1829b(b)(3)\] (as added by subsection (a)(2) of this section) shall take effect before January 1, 1994.”
+
+#### Additional Criminal Penalties
+
+Willful violation of regulations under this section punishable by fine of not more than $10,000 or imprisonment of not more than five years, or both, when such willful violation is committed in furtherance of the commission of any violation of federal law punishable by imprisonment of more than one year, see section 1957 of this title.
+
+#### Administrative Procedure
+
+Administrative procedure and judicial review provisions of subchapter II (§551 et seq.) of chapter 5 and chapter 7 (§701 et seq.) of Title 5, Government Organization and Employees, applicable to all proceedings under this section, see section 1959 of this title.
+
+#### Responsibility for Compliance
+
+Responsibility for the Secretary of the Treasury to assure compliance with requirements of this section, and Secretary's authority to delegate such responsibility to the appropriate bank supervisory agency, or other supervisory agency, see section 1958 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 1953, 1957, 1958, 1959 of this title; title 31 sections 5313, 5318.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “financial institutions”.</i>
+

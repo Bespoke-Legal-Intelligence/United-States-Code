@@ -12,7 +12,7 @@
 
 (2) This subsection does not apply to a corporation getting amounts to make loans (except paid in capital amounts) without legal liability of the United States Government.
 
-(b) An article to be used by an executive department in the District of Columbia that couldbe bought out of an appropriation made to a regular contingent fund of the department may not be bought out of another amount available for obligation.
+(b) An article to be used by an executive department in the District of Columbia that could be bought out of an appropriation made to a regular contingent fund of the department may not be bought out of another amount available for obligation.
 
 (Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 923; Pub. L. 101–508, title XIII, §13213(a), Nov. 5, 1990, 104 Stat. 1388–621.)
 
@@ -48,5 +48,5 @@ Section 252 of the Balanced Budget and Emergency Deficit Control Act of 1985, re
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1349, 1350, 1351 of this title; title 2 section 60a–2; title 5 section 5306; title 12 section 1749bbb–8; title 19 section 2081; title 20 section 1225; title 22 sections 277d–3, 1461b, 2295b, 3723, 5857; title 26 section 7608; title 33 section 891d; title 40 section 490e; title 42 sections 2204, 2204a, 2210, 2295, 2394, 9619; title 43 section 377b; title 49 sections 40110, 40111, 40112.
+This section is referred to in sections 1349, 1350, 1351 of this title; title 2 section 60a–2; title 5 section 5306; title 8 section 1363a; title 12 section 1749bbb–8; title 19 section 2081; title 20 section 1225; title 22 sections 277d–3, 1461b, 2295b, 5857; title 26 section 7608; title 33 section 891d; title 40 section 490e; title 42 sections 2204, 2204a, 2210, 2295, 2394, 9619; title 43 section 377b; title 49 sections 40110, 40111, 40112.
 

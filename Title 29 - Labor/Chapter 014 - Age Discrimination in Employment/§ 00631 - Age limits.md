@@ -20,7 +20,7 @@ In the case of any personnel action affecting employees or applicants for employ
 
 1989—Subsec. (a). Pub. L. 101–239 struck out “(except the provisions of section 623(g) of this title)” after “in this chapter”.
 
-1986—Subsec. (a). Pub. L. 99–592, §2(c)(1), which directed that “but less than seventy years of age” bestruck out was executed by striking out “but less than 70 years of age” after “40 years of age” as the probable intent of Congress.
+1986—Subsec. (a). Pub. L. 99–592, §2(c)(1), which directed that “but less than seventy years of age” be struck out was executed by striking out “but less than 70 years of age” after “40 years of age” as the probable intent of Congress.
 
 Pub. L. 99–272 inserted “(except the provisions of section 623(g) of this title)” after “this chapter”.
 

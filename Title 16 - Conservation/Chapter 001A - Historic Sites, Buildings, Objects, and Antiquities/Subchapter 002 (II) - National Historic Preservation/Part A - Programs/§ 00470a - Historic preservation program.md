@@ -4,7 +4,7 @@
 
 (1)(A) The Secretary of the Interior is authorized to expand and maintain a National Register of Historic Places composed of districts, sites, buildings, structures, and objects significant in American history, architecture, archeology, engineering, and culture.
 
-(B) Properties meeting the criteria for National Historic Landmarks established pursuant to paragraph (2) shall be designated as “National Historic Landmarks” and included on the National Register, subject to the requirements of paragraph (6). All historic properties included on the National Register on December 12, 1980, shall be deemed to be included on the National Register as of their initial listing for purposes of this subchapter. All historic properties listed in the Federal Register of February 6, 1979, as “National Historic Landmarks” or thereafter prior to the effective date of this Act are declared by Congress to be National Historic Landmarks of national historic significance as of their initial listing as such in the Federal Register for purposes of this subchapter and sections 461 to 467 of this title; except that in cases of National Historic Landmark districts for which no boundaries have been established, boundaries must first be published in the Federal Register and submitted to the Committee on Energy and Natural Resources of the United States Senate and to the Committee on Natural Resources of the United States House of Representatives.
+(B) Properties meeting the criteria for National Historic Landmarks established pursuant to paragraph (2) shall be designated as “National Historic Landmarks” and included on the National Register, subject to the requirements of paragraph (6). All historic properties included on the National Register on December 12, 1980, shall be deemed to be included on the National Register as of their initial listing for purposes of this subchapter. All historic properties listed in the Federal Register of February 6, 1979, as “National Historic Landmarks” or thereafter prior to the effective date of this Act are declared by Congress to be National Historic Landmarks of national historic significance as of their initiallisting as such in the Federal Register for purposes of this subchapter and sections 461 to 467 of this title; except that in cases of National Historic Landmark districts for which no boundaries have been established, boundaries must first be published in the Federal Register.
 
 (2) The Secretary in consultation with national historical and archaeological associations, shall establish or revise criteria for properties to be included on the National Register and criteria for National Historic Landmarks, and shall also promulgate or revise regulations as may be necessary for—
 
@@ -26,7 +26,7 @@
 
 (5) Any person or local government may appeal to the Secretary a nomination of any historic property for inclusion on the National Register and may appeal to the Secretary the failure or refusal of a nominating authority to nominate a property in accordance with this subsection.
 
-(6) The Secretary shall promulgate regulations requiring that before any property or district may be included on the National Register or designated as a National Historic Landmark, the owner or owners of such property, or a majority of the owners of the properties within the district in the case of an historic district, shall be given the opportunity (including a reasonable period of time) to concur in, or object to, the nomination of the property or district for such inclusion or designation. If the owner or owners of any privately owned property, or a majority of the owners of such properties within the district in the case of an historic district, object to such inclusion or designation, such property shall not be included on the National Register or designated as a National Historic Landmark until such objection is withdrawn. The Secretary shall review the nomination of the property or district where any such objection has been made and shall determine whether or not the property or district is eligible for such inclusion or designation, and if the Secretary determines that such property or district is eligible for such inclusion or designation, he shall inform the Advisory Council on Historic Preservation, the appropriate State Historic Preservation Officer, the appropriate chief elected local official and the owner or owners of such property, of his determination. The regulations under this paragraph shall include provisions tocarry out the purposes of this paragraph in the case of multiple ownership of a single property.
+(6) The Secretary shall promulgate regulations requiring that before any property or district may be included on the National Register or designated as a National Historic Landmark, the owner or owners of such property, or a majority of the owners of the properties within the district in the case of an historic district, shall be given the opportunity (including a reasonable period of time) to concur in, or object to, the nomination of the property or district for such inclusion or designation. If the owner or owners of any privately owned property, or a majority of the owners of such properties within the district in the case of an historic district, object to such inclusion or designation, such property shall not be included on the National Register or designated as a National Historic Landmark until such objection is withdrawn. The Secretary shall review the nomination of the property or district where any such objection has been made and shall determine whether or not the property or district is eligible for such inclusion or designation, and if the Secretary determines that such property or district is eligible for such inclusion or designation, he shall inform the Advisory Council on Historic Preservation, the appropriate State Historic Preservation Officer, the appropriate chief elected local official and the owner or owners of such property, of his determination. The regulations under this paragraph shall include provisions to carry out the purposes of this paragraph in the case of multiple ownership of a single property.
 
 (7) The Secretary shall promulgate, or revise, regulations—
 
@@ -208,7 +208,7 @@
 
 (B) In carrying out its responsibilities under section 470f of this title, a Federal agency shall consult with any Indian tribe or Native Hawaiian organization that attaches religious and cultural significance to properties described in subparagraph (A).
 
-(C) In carrying out his or her responsibilities under subsection (b)(3) of this section, the State Historic Preservation Officer for the State of Hawaii shall—
+(C) In carrying out his or her responsibilities under subsection (b)(3) of this section, the StateHistoric Preservation Officer for the State of Hawaii shall—
 
 &emsp;(i) consult with Native Hawaiian organizations in assessing the cultural significance of any property in determining whether to nominate such property to the National Register;
 
@@ -240,7 +240,7 @@
 
 (5) The Secretary shall administer a program of direct grants to Indian tribes and Native Hawaiian organizations for the purpose of carrying out this subchapter as it pertains to Indian tribes and Native Hawaiian organizations. Matching fund requirements may be modified. Federal funds available to a tribe or Native Hawaiian organization may be used as matching funds for the purposes of the tribe's or organization's conducting its responsibilities pursuant to this section.
 
-(6)(A) As part of the program of matching grant assistance from the Historic Preservation Fund to States, the Secretary shall administer aprogram of direct grants to the Federated States of Micronesia, the Republic of the Marshall Islands, the Trust Territory of the Pacific Islands, and upon termination of the Trusteeship Agreement for the Trust Territory of the Pacific Islands, the Republic of Palau (referred to as the Micronesian States) in furtherance of the Compact of Free Association between the United States and the Federated States of Micronesia and the Marshall Islands, approved by the Compact of Free Association Act of 1985 \[48 U.S.C. 1901 et seq., 2001 et seq.\], the Trusteeship Agreement for the Trust Territory of the Pacific Islands, and the Compact of Free Association between the United States and Palau, approved by the Joint Resolution entitled “Joint Resolution to approve the ‘Compact of Free Association’ between the United States and Government of Palau, and for other purposes” \[48 U.S.C. 1931 et seq.\]. The goal of the program shall be to establish historic and cultural preservation programs that meet the unique needs of each Micronesian State so that at the termination of the compacts the programs shall be firmly established. The Secretary may waive or modify the requirements of this section to conform to the cultural setting of those nations.
+(6)(A) As part of the program of matching grant assistance from the Historic Preservation Fund to States, the Secretary shall administer a program of direct grants to the Federated States of Micronesia, the Republic of the Marshall Islands, the Trust Territory of the Pacific Islands, and upon termination of the Trusteeship Agreement for the Trust Territory of the Pacific Islands, the Republic of Palau (referred to as the Micronesian States) in furtherance of the Compact of Free Association between the United States and the Federated States of Micronesia and the Marshall Islands, approved by the Compact of Free Association Act of 1985 \[48 U.S.C. 1901 et seq., 2001 et seq.\], the Trusteeship Agreement for the Trust Territory of the Pacific Islands, and the Compact of Free Association between the United States and Palau, approved by the Joint Resolution entitled “Joint Resolution to approve the ‘Compact of Free Association’ between the United States and Government of Palau, and for other purposes” \[48 U.S.C. 1931 et seq.\]. The goal of the program shall be to establish historic and cultural preservation programs that meet the unique needs of each Micronesian State so that at the termination of the compacts the programs shall be firmly established. The Secretary may waive or modify the requirements of this section to conform to the cultural setting of those nations.
 
 (B) The amounts to be made available to the Micronesian States shall be allocated by the Secretary on the basis of needs as determined by the Secretary. Matching funds may be waived or modified.
 
@@ -280,7 +280,7 @@ The Secretary shall develop and make available to Federal agencies, State and lo
 
 &emsp;&emsp;(iii) support for research, analysis, conservation, curation, interpretation, and display related to preservation.
 
-(Pub. L. 89–665, title I, §101, Oct. 15, 1966, 80 Stat. 915; Pub. L. 93–54, §1(d), July 1, 1973, 87 Stat. 139; Pub. L. 91–383, §11, as added Pub. L. 94–458, §2, Oct. 7, 1976, 90 Stat. 1942; amended Pub. L. 96–205, title VI, §608(a)(1), (2), Mar. 12, 1980, 94 Stat. 92; Pub. L. 96–515, title II, §201(a), Dec. 12, 1980, 94 Stat. 2988; Pub. L. 102–575, title XL, §§4003–4006(a), 4007, 4008, Oct. 30, 1992, 106 Stat. 4753–4755, 4758; Pub. L. 103–437, §6(d)(29), Nov. 2, 1994, 108 Stat. 4584.)
+(Pub. L. 89–665, title I, §101, Oct. 15, 1966, 80 Stat. 915; Pub. L. 93–54, §1(d), July 1, 1973, 87 Stat. 139; Pub. L. 91–383, §11, as added Pub. L. 94–458, §2, Oct. 7, 1976, 90 Stat. 1942; amended Pub. L. 96–205, title VI, §608(a)(1), (2), Mar. 12, 1980, 94 Stat. 92; Pub. L. 96–515, title II, §201(a), Dec. 12, 1980, 94 Stat. 2988; Pub. L. 102–575, title XL, §§4003–4006(a), 4007, 4008, Oct. 30, 1992, 106 Stat. 4753–4755, 4758; Pub. L. 103–437, §6(d)(29), Nov. 2, 1994, 108 Stat. 4584; Pub. L. 104–333, div. I, title VIII, §814(d)(2)(F), Nov. 12, 1996, 110 Stat. 4196.)
 
 #### References in Text
 
@@ -297,6 +297,8 @@ The Compact of Free Association Act of 1985, referred to in subsec. (e)(6)(A), i
 The Joint Resolution entitled “Joint Resolution to approve the ‘Compact of Free Association’ between the United States and Government of Palau, and for other purposes”, referred to in subsec. (e)(6)(A), is Pub. L. 99–658, Nov. 14, 1986, 100 Stat. 3672, as amended, which is classified generally to part A (§1931 et seq.) of subchapter II of chapter 18 of Title 48. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
+
+1996—Subsec. (a)(1)(B). Pub. L. 104–333 inserted period after “published in the Federal Register” and struck out at end “and submitted to the Committee on Energy and Natural Resources of the United States Senate and to the Committee on Natural Resources of the United States House of Representatives.”
 
 1994—Subsec. (a)(1)(B). Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs” after “Committee on”.
 
@@ -336,13 +338,51 @@ Subsecs. (c) to (h). Pub. L. 96–515 added subsecs. (c) to (h).
 
 1973—Subsec. (b)(1). Pub. L. 93–54 defined “State” to include the Trust Territory of the Pacific Islands.
 
-#### Change of Name
-
-Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
-
 #### Termination of Trust Territory of the Pacific Islands
 
 For termination of Trust Territory of the Pacific Islands and the Trusteeship Agreement, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
+
+#### Historically Black Colleges and Universities Historic Building Restoration and Preservation
+
+Section 507 of title V of div. I of Pub. L. 104–333 provided that:
+
+“(a)
+
+Authority To Make Grants.—From the amounts made available to carry out the National Historic Preservation Act \[16 U.S.C. 470 et seq.\], the Secretary of the Interior shall make grants in accordance with this section to eligible historically black colleges and universities for the preservation and restoration of historic buildings and structures on the campus of these institutions.
+
+“(b)
+
+Grant Conditions.—Grants made under subsection (a) shall be subject to the condition that the grantee covenants, for the period of time specified by the Secretary, that—
+
+&emsp;“(1) no alteration will be made in the property with respect to which the grant is made without the concurrence of the Secretary; and
+
+&emsp;“(2) reasonable public access to the property with respect to which the grant is made will be permitted by the grantee for interpretive and educational purposes.
+
+“(c)
+
+Matching Requirement for Buildings and Structures Listed on the National Register of Historic Places.—(1) Except as provided by paragraph (2), the Secretary may obligate funds made available under this section for a grant with respect to a building or structure listed on, or eligible for listing on, the National Register of Historic Places only if the grantee agrees to match, from funds derived from non-Federal sources, the amount of the grant with an amount that is equal or greater than the grant.
+
+“(2) The Secretary may waive paragraph (1) with respect to a grant if the Secretary determines from circumstances that an extreme emergency exists or that such a waiver is in the public interest to assure the preservation of historically significant resources.
+
+“(d)
+
+Funding Provision.—Pursuant to section 108 of the National Historic Preservation Act \[16 U.S.C. 470h\], $29,000,000 shall be made available to carry out the purposes of this section. Of amounts made available pursuant to this section, $5,000,000 shall be available for grants to Fisk University, $2,500,000 shall be available for grants to Knoxville College, $2,000,000 shall be available for grants to Miles College, Alabama, $1,500,000 shall be available for grants to Talladega College, Alabama, $1,550,000 shall be available for grants to Selma University, Alabama, $250,000 shall be available for grants to Stillman College, Alabama, $200,000 shall be available for grants to Concordia College, Alabama, $2,900,000 shall be available for grants to Allen University, South Carolina, $1,000,000 shall be available for grants to Claflin College, South Carolina, $2,000,000 shall be available for grants to Voorhees College, South Carolina, $1,000,000 shall be available for grants to Rust College, Mississippi, and $3,000,000 shall be available for grants to Tougaloo College, Mississippi.
+
+“(e)
+
+Regulations.—The Secretary shall develop such guidelines as may be necessary to carry out this section.
+
+“(f)
+
+Definitions.—For the purposes of this section:
+
+&emsp;“(1)
+
+Historically black colleges.—The term ‘historically black colleges and universities’ has the same meaning given the term ‘part B institution’ by section 322 of the Higher Education Act of 1965 (20 U.S.C. 1061).
+
+&emsp;“(2)
+
+Historic building and structures.—The term ‘historic building and structures’ means a building or structure listed on, or eligible for listing on, the National Register of Historic Places or designated a National Historic Landmark.”
 
 #### Recommendations of Historic Properties for Preservation
 
@@ -366,7 +406,7 @@ Section 507 of Pub. L. 96–515 directed Secretary, in cooperation with Secretar
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 398f, 410cc–22, 410cc–32, 430g–7, 470b, 470c, 470h–1, 470h–2, 470w, 5406 of this title; title 40 section 612a; title 43 section 2102.
+This section is referred to in sections 398f, 410cc–22, 410cc–32, 430g–7, 470b, 470c, 470h–1, 470h–2, 470w, 698u, 5406 of this title; title 10 section 2684; title 40 section 612a; title 43 section 2102.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -16,7 +16,7 @@
 
 (3) Subject to section 3695 of this title and subsection (d) of this section, an individual described in clause (B) or (C)(ii) of section 3018(b)(3) of this title (other than an individual described in paragraph (2) of this subsection) is entitled to the number of months of educational assistance under this chapter that is equal to the number of months the individual has served on continuous active duty after June 30, 1985.
 
-(d) Subject to section 3695 of this title, each individual entitled to educational benefits under section 3018A or 3018B of this title is entitled to the lesser of—
+(d) Subject to section 3695 of this title, each individual entitled to educational benefits under section 3018A, 3018B, or 3018C of this title is entitled to the lesser of—
 
 &emsp;(1) 36 months of educational assistance under this chapter (or the equivalent thereof in part-time educational assistance); or
 
@@ -30,7 +30,7 @@
 
 &emsp;(B) be counted toward the aggregate period for which section 3695 of this title limits an individual's receipt of assistance.
 
-(2) Subject to paragraph (3), the payment of the educational assistance allowance referred to in paragraph (1) is the payment of such an allowance to an individual for pursuit of a course or courses under this chapter if the Secretary finds that the individual—
+(2) Subject to paragraph (3), the payment of the educational assistance allowance referred toin paragraph (1) is the payment of such an allowance to an individual for pursuit of a course or courses under this chapter if the Secretary finds that the individual—
 
 &emsp;(A) in the case of a person not serving on active duty, had to discontinue such course pursuit as a result of being ordered, in connection with the Persian Gulf War, to serve on active duty under section 672(a), (d), or (g), 673, 673b,<sup>1</sup> or 688 of title 10; or
 
@@ -38,9 +38,9 @@
 
 &emsp;(C) failed to receive credit or lost training time toward completion of the individual's approved education, professional, or vocational objective as a result of having to discontinue, as described in subparagraph (A) or (B), his or her course pursuit.
 
-(3) The period for which, by reason of this subsection, an educational assistance allowance is not charged against entitlement or counted toward the applicable aggregate period under section 3695 of this title shall not exceed the portion of the period of enrollment in the course orcourses for which the individual failed to receive credit or with respect to which the individual lost training time, as determined under paragraph (2)(C) of this subsection.
+(3) The period for which, by reason of this subsection, an educational assistance allowance is not charged against entitlement or counted toward the applicable aggregate period under section 3695 of this title shall not exceed the portion of the period of enrollment in the course or courses for which the individual failed to receive credit or with respect to which the individual lost training time, as determined under paragraph (2)(C) of this subsection.
 
-(Added Pub. L. 98–525, title VII, §702(a)(1), Oct. 19, 1984, 98 Stat. 2557, §1413; amended Pub. L. 99–576, title III, §321(3), Oct. 28, 1986, 100 Stat. 3277; Pub. L. 100–689, title I, §§102(b)(2), 103(b)(2), 111(a)(4), Nov. 18, 1988, 102 Stat. 4163, 4165, 4171; Pub. L. 101–237, title IV, §423(a)(2), Dec. 18, 1989, 103 Stat. 2091; Pub. L. 101–510, div. A, title V, §561(b)(1), Nov. 5, 1990, 104 Stat. 1573; renumbered §3013 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–127, §2(a), Oct. 10, 1991, 105 Stat. 619; Pub. L. 102–484, div. D, title XLIV, §4404(b)(2), Oct. 23, 1992, 106 Stat. 2706.)
+(Added Pub. L. 98–525, title VII, §702(a)(1), Oct. 19, 1984, 98 Stat. 2557, §1413; amended Pub. L. 99–576, title III, §321(3), Oct. 28, 1986, 100 Stat. 3277; Pub. L. 100–689, title I, §§102(b)(2), 103(b)(2), 111(a)(4), Nov. 18, 1988, 102 Stat. 4163, 4165, 4171; Pub. L. 101–237, title IV, §423(a)(2), Dec. 18, 1989, 103 Stat. 2091; Pub. L. 101–510, div. A, title V, §561(b)(1), Nov. 5, 1990, 104 Stat. 1573; renumbered §3013 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–127, §2(a), Oct. 10, 1991, 105 Stat. 619; Pub. L. 102–484, div. D, title XLIV, §4404(b)(2), Oct. 23, 1992, 106 Stat. 2706; Pub. L. 104–275, title I, §106(b)(2), Oct. 9, 1996, 110 Stat. 3329.)
 
 #### References in Text
 
@@ -51,6 +51,8 @@ Sections 672, 673, and 673b of title 10, referred to in subsec. (f)(2)(A), were 
 Prior section 3013 was renumbered section 5113 of this title.
 
 #### Amendments
+
+1996—Subsec. (d). Pub. L. 104–275 substituted “, 3018B, or 3018C” for “or 3018B”.
 
 1992—Subsec. (d). Pub. L. 102–484 inserted “or 3018B” after “section 3018A” in introductory provisions.
 

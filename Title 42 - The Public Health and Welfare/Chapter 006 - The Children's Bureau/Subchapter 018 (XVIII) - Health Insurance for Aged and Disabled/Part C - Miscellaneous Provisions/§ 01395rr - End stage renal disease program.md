@@ -30,7 +30,7 @@ The benefits provided by parts A and B of this subchapter shall include benefits
 
 &emsp;(ii) the supplier agrees to receive payment for the cost of such supplies and equipment only on an assignment-related basis, and
 
-&emsp;(iii) the supplier certifies that it has entered into a written agreement with an approvedprovider of services or renal dialysis facility under which such provider or facility agrees to furnish to such patient all self-care home dialysis support services and all other necessary dialysis services and supplies, including institutional dialysis services and supplies and emergency services.
+&emsp;(iii) the supplier certifies that it has entered into a written agreement with an approved provider of services or renal dialysis facility under which such provider or facility agrees to furnish to such patient all self-care home dialysis support services and all other necessary dialysis services and supplies, including institutional dialysis services and supplies and emergency services.
 
 (5) An agreement under paragraph (4) shall require, in accordance with regulations prescribed by the Secretary, that the provider or facility will—
 
@@ -50,7 +50,7 @@ The benefits provided by parts A and B of this subchapter shall include benefits
 
 &emsp;(D) provide for full access for the Secretary to all such records, data, and information as he may require to perform his functions under this section.
 
-(6) The Secretary shall establish, for each calendar year, commencing with January 1, 1979, a target reimbursement rate for home dialysis which shall be adjusted for regional variations in the cost of providing home dialysis. In establishing such a rate, the Secretary shall include—
+(6) The Secretary shall establish, for each calendar year, commencing with January 1, 1979, a target reimbursement rate for home dialysiswhich shall be adjusted for regional variations in the cost of providing home dialysis. In establishing such a rate, the Secretary shall include—
 
 &emsp;(A) the Secretary's estimate of the cost of providing medically necessary home dialysis supplies and equipment;
 
@@ -82,7 +82,7 @@ The benefits provided by parts A and B of this subchapter shall include benefits
 
 &emsp;(D) such additional supportive services as the Secretary finds appropriate and desirable.
 
-(10) For purposes of this subchapter, the term “self-care dialysis unit” means a renal dialysis facility or a distinct part of such facility or of a provider of services, which has been approved by the Secretary to make self-dialysis services, as defined by the Secretary in regulations, available to individuals who have been trained for self-dialysis. A self-care dialysis unit must, at a minimum, furnish the services, equipment and supplies needed for self-care dialysis, have patient-staff ratios which are appropriate to self-dialysis (allowing for such appropriate lesser degree of ongoing medical supervision and assistance of ancillary personnel than is required for full care maintenance dialysis), and meet such other requirements as the Secretary may prescribe with respect to the quality and cost-effectiveness of services.
+(10) For purposes of this subchapter, the term “self-care dialysis unit” means a renal dialysis facility or a distinct part of such facility or of a provider of services, which has been approved by the Secretary to make self-dialysis services, as defined by the Secretary in regulations, available to individuals who have been trained for self-dialysis. A self-care dialysis unit must, at a minimum, furnish the services, equipment and supplies needed for self-care dialysis, havepatient-staff ratios which are appropriate to self-dialysis (allowing for such appropriate lesser degree of ongoing medical supervision and assistance of ancillary personnel than is required for full care maintenance dialysis), and meet such other requirements as the Secretary may prescribe with respect to the quality and cost-effectiveness of services.
 
 (11)(A) Hepatitis B vaccine and its administration, when provided to a patient determined to have end stage renal disease, shall not be included as dialysis services for purposes of payment under any prospective payment amount or comprehensive fee established under this section. Payment for such vaccine and its administration shall be made separately in accordance with section 1395<i>l</i> of this title.
 
@@ -140,7 +140,7 @@ The benefits provided by parts A and B of this subchapter shall include benefits
 
 (5) The Secretary, after consultation with appropriate professional and planning organizations, shall provide such guidelines with respect to the planning and delivery of renal disease services as are necessary to assist network organizations in their development of their respective networks’ goals to promote the optimum use of self-dialysis and transplantation by suitable candidates for such modalities.
 
-(6) It is the intent of the Congress that the maximum practical number of patients who are medically, socially, and psychologically suitable candidates for home dialysis or transplantation should be so treated and that the maximum practical number of patients who are suitable candidates for vocational rehabilitation services be given access to such services and encouragedto return to gainful employment. The Secretary shall consult with appropriate professional and network organizations and consider available evidence relating to developments in research, treatment methods, and technology for home dialysis and transplantation.
+(6) It is the intent of the Congress that the maximum practical number of patients who are medically, socially, and psychologically suitable candidates for home dialysis or transplantation should be so treated and that the maximum practical number of patients who are suitable candidates for vocational rehabilitation services be given access to such services and encouraged to return to gainful employment. The Secretary shall consult with appropriate professional and network organizations and consider available evidence relating to developments in research, treatment methods, and technology for home dialysis and transplantation.
 
 (7) The Secretary shall establish a national end stage renal disease registry the purpose of which shall be to assemble and analyze the data reported by network organizations, transplant centers, and other sources on all end stage renal disease patients in a manner that will permit—
 
@@ -156,7 +156,7 @@ The benefits provided by parts A and B of this subchapter shall include benefits
 
 > The Secretary shall provide for such coordination of data collection activities, and such consolidation of existing end stage renal disease data systems, as is necessary to achieve the purpose of such registry, shall determine the appropriate location of the registry, and shall provide for the appointment of a professional advisory group to assist the Secretary in the formulation of policies and procedures relevant to the management of such registry.
 
-(8) The provisions of sections 1320c–6 and 1320c–9 of this title shall apply with respect to network administrative organizations (including such organizations as medical review boards) with which the Secretary has entered into agreements under this subsection.
+(8) The provisions of sections 1320c–6 and 1320c–9 of this title shall apply with respect to network administrative organizations (includingsuch organizations as medical review boards) with which the Secretary has entered into agreements under this subsection.
 
 #### (d) Donors of kidney for transplant surgery
 
@@ -294,7 +294,7 @@ Subsec. (b)(11). Pub. L. 98–617 realigned margin of par. (11).
 
 Pub. L. 98–369, §2323(c), added par. (11).
 
-Subsec. (c)(3). Pub. L. 98–369, §2352(a), inserted provision that if the Secretary determines that the facility's or provider's failure to cooperate with network plans and goals does not jeopardize patient health or safety or justify termination of certification, he may instead, after reasonable notice to the provider or facility andto the public, impose such other sanctions as he determines to be appropriate, which sanctions may include denial of reimbursement with respect to some or all patients admitted to the facility after the date of notice to the facility or provider, and graduated reduction in reimbursement for all patients.
+Subsec. (c)(3). Pub. L. 98–369, §2352(a), inserted provision that if the Secretary determines that the facility's or provider's failure to cooperate with network plans and goals does not jeopardize patient health or safety or justify termination of certification, he may instead, after reasonable notice to the provider or facility and to the public, impose such other sanctions as he determines to be appropriate, which sanctions may include denial of reimbursement with respect to some or all patients admitted to the facility after the date of notice to the facility or provider, and graduated reduction in reimbursement for all patients.
 
 1983—Subsec. (b)(2)(A). Pub. L. 98–21 inserted “or section 1395ww of this title (if applicable)” after “section 1395x(v) of this title”.
 
@@ -310,7 +310,7 @@ Subsec. (b)(7) to (10). Pub. L. 97–35, §2145(a)(7), (8), added par. (7) and r
 
 1980—Subsec. (e)(1). Pub. L. 96–499, §957(a)(1)–(3), substituted “services, renal dialysis facilities, and nonprofit entities which the Secretary finds can furnish equipment economically and efficiently,” for “services and renal dialysis facilities” and “such providers, facilities, and nonprofit entities” for “such providers and facilities”.
 
-Subsec. (e)(2). Pub. L. 96–499, §957(a)(4), substituted “, facility, or other entity will” for “or facility will”.
+Subsec. (e)(2). Pub. L. 96–499, §957(a)(4), substituted “, facility, or other entity will” for “or facility will”.
 
 Subsec. (g). Pub. L. 96–499, §957(b), substituted “July” for “April” in two places.
 
@@ -364,7 +364,7 @@ Amendment by Pub. L. 98–21 applicable to items and services furnished by or un
 
 #### Effective Date of 1981 Amendment
 
-Section 2145(b) of Pub. L. 97–35 provided that: “The amendments made by subsection (a) \[amending thissection\] apply to services furnished on or after October 1, 1981, and the Secretary of Health and Human Services shall first promulgate regulations to carry out section 1881(b)(7) of the Social Security Act \[subsec. (b)(7) of this section\] not later than October 1, 1981.”
+Section 2145(b) of Pub. L. 97–35 provided that: “The amendments made by subsection (a) \[amending this section\] apply to services furnished on or after October 1, 1981, and the Secretary of Health and Human Services shall first promulgate regulations to carry out section 1881(b)(7) of the Social Security Act \[subsec. (b)(7) of this section\] not later than October 1, 1981.”
 
 #### Effective Date
 
@@ -498,7 +498,7 @@ In general.—An individual may receive services from a provider of services or 
 
 &emsp;“(2)
 
-Coverage of individuals currently receiving services.—Any individual who, on the date of the enactment of this Act \[Nov. 5, 1990\], is receiving staff assistance under the experimental authority provided under section 1881(f)(2) of the Social Security Act \[subsec. (f)(2) of this section\] shall be deemed to be an eligible individual for purposes of this subsection.
+Coverage of individuals currently receiving services.—Any individual who, on the date of the enactment of this Act \[Nov. 5, 1990\], is receiving staffassistance under the experimental authority provided under section 1881(f)(2) of the Social Security Act \[subsec. (f)(2) of this section\] shall be deemed to be an eligible individual for purposes of this subsection.
 
 &emsp;“(3)
 
@@ -562,7 +562,7 @@ Section 4036(d)(1)–(4) of Pub. L. 100–203 provided that:
 
 #### Rates for Dialysis Services
 
-Section 9335(a)(1) of Pub. L. 99–509, as amended by Pub. L. 101–239, title VI, §6203(a)(1), Dec. 19, 1989, 103 Stat. 2235; Pub. L. 101–508, title IV, §4201(a), Nov. 5, 1990, 104 Stat. 1388–102, provided that: “Effective with respect to dialysis services provided on or after October 1, 1986, and before December 31, 1990, the Secretary of Health and Human Services shall establish the base rate for routine dialysis treatment in a free-standing facility and in a hospital-based facility under section 1881(b)(7) of the Social Security Act \[subsec. (b)(7) of this section\] at a level equal to the respective rate in effect as of May 13, 1986, reduced by $2.00. With respect to services furnished on or after January 1, 1991, such base rate shall be equal to the respective rate in effect as of September 30, 1990 (determined without regard to any reductions imposed pursuant to section 6201 of the Omnibus Budget Reconciliation Act of 1989 \[Pub. L.101–239, set out as a note under section 902 of Title 2, The Congress\]), increased by $1.00. No change may be made in the base rate in effect as of September 30, 1990, unless the Secretary makes such change in accordance with notice and comment requirements set forth in section 1871(b)(1) of such Act \[subsec. (b)(1) of this section\].”
+Section 9335(a)(1) of Pub. L. 99–509, as amended by Pub. L. 101–239, title VI, §6203(a)(1), Dec. 19, 1989, 103 Stat. 2235; Pub. L. 101–508, title IV, §4201(a), Nov. 5, 1990, 104 Stat. 1388–102, provided that: “Effective with respect to dialysis services provided on or after October 1, 1986, and before December 31, 1990, the Secretary of Health and Human Services shall establish the base rate for routine dialysis treatment in a free-standing facility and in a hospital-based facility under section 1881(b)(7) of the Social Security Act \[subsec. (b)(7) of this section\] at a level equal to the respective rate in effect as of May 13, 1986, reduced by $2.00. With respect to services furnished on or after January 1, 1991, such base rate shall be equal to the respective rate in effect as of September 30, 1990 (determined without regard to any reductions imposed pursuant to section 6201 of the Omnibus Budget Reconciliation Act of 1989 \[Pub. L. 101–239, set out as a note under section 902 of Title 2, The Congress\]), increased by $1.00. No change may be made in the base rate in effect as of September 30, 1990, unless the Secretary makes such change in accordance with notice and comment requirements set forth in section 1871(b)(1) of such Act \[subsec. (b)(1) of this section\].”
 
 \[Section 6203(a)(2) of Pub. L. 101–239 provided that: “The amendment made by paragraph (1) \[amending section 9335(a)(1) of Pub. L. 99–509, set out above\] shall take effect as if included in the enactment of the Omnibus Budget Reconciliation Act of 1986 \[Pub. L. 99–509\].”\]
 
@@ -584,7 +584,7 @@ Transition.—If, under the amendment made by paragraph (1), the Secretary desig
 
 #### Report on Establishment of National End Stage Renal Disease Registry
 
-Section 9335(i)(2) of Pub. L. 99–509 provided that: “The Secretary of Health and Human Services shall submit to the Congress, no later than April 1, 1987, a full report on the progress made in establishing the national end stage renal disease registry under the amendment made by paragraph (1) \[amending this section\] and shall establish such registry by not later than January 1, 1988.”
+Section 9335(i)(2) of Pub. L. 99–509 provided that: “The Secretary of Health and Human Services shall submitto the Congress, no later than April 1, 1987, a full report on the progress made in establishing the national end stage renal disease registry under the amendment made by paragraph (1) \[amending this section\] and shall establish such registry by not later than January 1, 1988.”
 
 #### Deadline for Establishment of Protocols on Reuse of Dialyzer Filters
 
@@ -598,7 +598,7 @@ Pub. L. 99–272, title IX, §9214, Apr. 7, 1986, 100 Stat. 180, provided that: 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 426–1, 1395f, 1395<i>l</i>, 1395aa of this title.
+This section is referred to in sections 426–1, 1395f, 1395<i>l</i>, 1395aa, 1395bb of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

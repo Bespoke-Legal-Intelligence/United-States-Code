@@ -4,15 +4,15 @@
 
 (b) The Secretary is the principal assistant to the President in all matters relating to the Department of Defense. Subject to the direction of the President and to this title and section 2 of the National Security Act of 1947 (50 U.S.C. 401), he has authority, direction, and control over the Department of Defense.
 
-(c) The Secretary shall report annually in writing to the President and the Congress on the expenditures, work, and accomplishments of the Department of Defense during the period covered by the report, together with—
+(c)(1) The Secretary shall report annually in writing to the President and the Congress on the expenditures, work, and accomplishments of the Department of Defense during the period covered by the report, together with—
 
-&emsp;(1) a report from each military department on the expenditures, work, and accomplishments of that department;
+&emsp;(A) a report from each military department on the expenditures, work, and accomplishments of that department;
 
-&emsp;(2) itemized statements showing the savings of public funds, and the eliminations of unnecessary duplications, made under sections 125 and 191 of this title;
+&emsp;(B) itemized statements showing the savings of public funds, and the eliminations of unnecessary duplications, made under sections 125 and 191 of this title; and
 
-&emsp;(3) a report from the Reserve Forces Policy Board on the reserve programs of the Department of Defense, including a review of the effectiveness of chapters 51, 337, 361, 363, 549, 573, 837, 861 and 863 of this title, as far as they apply to reserve officers; and
+&emsp;(C) such recommendations as he considers appropriate.
 
-&emsp;(4) such recommendations as he considers appropriate.
+(2) At the same time that the Secretary submits the annual report under paragraph (1), the Secretary shall transmit to the President and Congress a separate report from the Reserve Forces Policy Board on the reserve programs of the Department of Defense and on any other matters that the Reserve Forces Policy Board considers appropriate to include in the report.
 
 (d) Unless specifically prohibited by law, the Secretary may, without being relieved of his responsibility, perform any of his functions or duties, or exercise any of his powers through, or with the aid of, such persons in, or organizations of, the Department of Defense as he may designate.
 
@@ -46,7 +46,7 @@
 
 &emsp;(A) include a comparison of the defense capabilities and programs of the armed forces of the United States and its allies with the armed forces of potential adversaries of the United States and allies of the United States;
 
-&emsp;(B) include an examination of the trends experienced in those capabilities and programs during the five years immediately preceding the year in which the report is transmitted and an examination of the expected trends in those capabilities and programs during the five years covered by the five-year defense program submitted to Congress during that year pursuant to section 114(g) <sup>1</sup> of this title;
+&emsp;(B) include an examination of the trends experienced in those capabilities and programs during the five years immediately preceding the year in which the report is transmitted and an examination of the expected trends in those capabilities and programs during the period covered by the future-years defense program submitted to Congress during that year pursuant to section 221 of this title;
 
 &emsp;(C) include a description of the means by which the Department of Defense will maintain the capability to reconstitute or expand the defense capabilities and programs of the armed forces of the United States on short notice to meet a resurgent or increased threat to the national security of the United States;
 
@@ -56,7 +56,7 @@
 
 (3) The Secretary shall transmit to Congress the report required for each year under paragraph (1) at the same time that the President submits the budget to Congress under section 1105 of title 31 in that year. Such report shall be transmitted in both classified and unclassified form.
 
-(j)(1) Not later than April 8 of each year, the Secretary of Defense shall submit to the Committees on Armed Services and Committees on Appropriations of the Senate and House of Representatives a report on the cost of stationing United States forces outside of the United States. Each such report shall include a detailed statement of the following:
+(j)(1) Not later than April 8 of each year, the Secretary of Defense shall submit to the Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on National Security and the Committee on Appropriations of the House of Representatives a report on the cost of stationing United States forces outside of the United States. Each such report shall include a detailed statement of the following:
 
 &emsp;(A) Costs incurred in the United States and costs incurred outside the United States in connection with the stationing of United States forces outside the United States.
 
@@ -70,11 +70,7 @@
 
 (k) The Secretary of Defense, with the advice and assistance of the Chairman of the Joint Chiefs of Staff, shall provide annually to the Secretaries of the military departments and to the commanders of the combatant commands written guidelines to direct the effective detection and monitoring of all potential aerial and maritime threats to the national security of the United States. Those guidelines shall include guidance on the specific force levels and specific supporting resources to be made available for the period of time for which the guidelines are to be in effect.
 
-(Added Pub. L. 87–651, title II, §202, Sept. 7, 1962, 76 Stat. 517, §133; amended Pub. L. 96–513, title V, §511(3), Dec. 12, 1980, 94 Stat. 2920; Pub. L. 97–252, title XI, §1105, Sept. 8, 1982, 96 Stat. 739; Pub. L. 97–295, §1(1), Oct. 12, 1982, 96 Stat. 1287; renumbered §113 and amended Pub. L. 99–433, title I, §§101(a)(2), 102, 110(b)(2), (d)(2), title III, §301(b)(2), title VI, §603(b), Oct. 1, 1986, 100 Stat. 994, 996, 1002, 1022, 1075; Pub. L. 100–26, §7(d)(1), Apr. 21, 1987, 101 Stat. 280; Pub. L. 100–180, div. A, title XII, §1214, Dec. 4, 1987, 101 Stat. 1157; Pub. L. 100–370, §1(<i>o</i>)(1), July 19, 1988, 102 Stat. 850; Pub. L. 100–456, div. A, title VII, §731, title XI, §1101, Sept. 29, 1988, 102 Stat. 2003, 2042; Pub. L. 101–189, div. A, title XVI, §1622(c)(1), Nov. 29, 1989, 103 Stat. 1604; Pub. L. 101–510, div. A, title XIII, §1322(a)(1), Nov. 5, 1990, 104 Stat. 1671; Pub. L. 102–190, div. A, title III, §341, Dec. 5, 1991, 105 Stat. 1343; Pub. L. 103–337, div. A, title X, §1070(a)(1), title XVI, §1671(c)(2), Oct. 5, 1994, 108 Stat. 2855, 3014.)
-
-#### Amendment of Subsection (c)(3)
-
-<i>Pub. L. 103–337, div. A, title XVI, §§1671(c)(2), 1691(b)(1), Oct. 5, 1994, 108 Stat. 3014, 3026, provided that, effective Oct. 1, 1996, subsection (c)(3) of this section is amended by substituting “chapters 1219 and 1401 through 1411 of this title” for “chapters 51, 337, 361, 363, 549, 573, 837, 861, and 863 of this title, as far as they apply to reserve officers”.</i>
+(Added Pub. L. 87–651, title II, §202, Sept. 7, 1962, 76 Stat. 517, §133; amended Pub. L. 96–513, title V, §511(3), Dec. 12, 1980, 94 Stat. 2920; Pub. L. 97–252, title XI, §1105, Sept. 8, 1982, 96 Stat. 739; Pub. L. 97–295, §1(1), Oct. 12, 1982, 96 Stat. 1287; renumbered §113 and amended Pub. L. 99–433, title I, §§101(a)(2), 102, 110(b)(2), (d)(2), title III, §301(b)(2), title VI, §603(b), Oct. 1, 1986, 100 Stat. 994, 996, 1002, 1022, 1075; Pub. L. 100–26, §7(d)(1), Apr. 21, 1987, 101 Stat. 280; Pub. L. 100–180, div. A, title XII, §1214, Dec. 4, 1987, 101 Stat. 1157; Pub. L. 100–370, §1(<i>o</i>)(1), July 19, 1988, 102 Stat. 850; Pub. L. 100–456, div. A, title VII, §731, title XI, §1101, Sept. 29, 1988, 102 Stat. 2003, 2042; Pub. L. 101–189, div. A, title XVI, §1622(c)(1), Nov. 29, 1989, 103 Stat. 1604; Pub. L. 101–510, div. A, title XIII, §1322(a)(1), Nov. 5, 1990, 104 Stat. 1671; Pub. L. 102–190, div. A, title III, §341, Dec. 5, 1991, 105 Stat. 1343; Pub. L. 103–337, div. A, title X, §1070(a)(1), title XVI, §1671(c)(2), Oct. 5, 1994, 108 Stat. 2855, 3014; Pub. L. 104–106, div. A, title XV, §§1501(a)(8)(B), 1502(a)(3), 1503(a)(1), Feb. 10, 1996, 110 Stat. 495, 502, 510; Pub. L. 104–201, div. A, title XII, §1255(c), Sept. 23, 1996, 110 Stat. 2698.)
 
 Historical and Revision Notes<br>1962
 
@@ -170,13 +166,21 @@ The committee notes that the source section does not specify the period of time 
 
 In codifying this provision, the committee also changed the term “United States troops” in the source law to “United States forces” for consistency in usage in title 10 and as being preferable usage. No change in meaning is intended. The committee also changed “overseas” to “outside the United States” and defined “United States” for this purpose to include the territories and possessions of the United States. The committee was concerned that the term “overseas” read literally could include Hawaii or Guam, an interpretation clearly not intended in enacting section 8042. The committee notes that the Senate report referred to above states “For the purposes of this report \[meaning the new DOD annual report\], U.S. forces stationed overseas are considered to be those outside of the United States and its territories.”. The committee extrapolates from this statement that provisions in the report requirement relating to expenditures “overseas” and costs incurred “overseas” are also to be construed as relating to matters outside the United States and its territories and has prepared the codified provision accordingly.
 
-#### References in Text
-
-Section 114(g) of this title, referred to in subsec. (i)(2)(B), was repealed by Pub. L. 101–189, div. A, title XVI, §1602(b), Nov. 29, 1989, 103 Stat. 1597.
-
 #### Amendments
 
-1994—Subsec. (e)(2). Pub. L. 103–337, §1070(a)(1), substituted “section 108” for “section 104”.
+1996—Subsec. (c). Pub. L. 104–201, §1255(c)(2)–(5), inserted “(1)” after “(c)”, redesignated former pars. (1), (2), and (4) as subpars. (A), (B), and (C), respectively, inserted “and” at end of subpar. (B), and added par. (2).
+
+Subsec. (c)(3). Pub. L. 104–201, §1255(c)(1), struck out par. (3) which read as follows: “a report from the Reserve Forces Policy Board on the reserve programs of the Department of Defense, including a review of the effectiveness of chapters 51, 337, 361, 363, 549, 573, 837, 861 and 863 of this title, as far as they apply to reserve officers; and”.
+
+Pub. L. 104–106, §1501(a)(8)(B), made technical correction to directory language of Pub. L. 103–337, §1671(c)(2). See 1994 Amendment note below.
+
+Subsec. (i)(2)(B). Pub. L. 104–106, §1503(a)(1), substituted “the period covered by the future-years defense program submitted to Congress during that year pursuant to section 221” for “the five years covered by the five-year defense program submitted to Congress during that year pursuant to section 114(g)”.
+
+Subsec. (j)(1). Pub. L. 104–106, §1502(a)(3), substituted “Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on National Security and the Committee on Appropriations of the” for “Committees on Armed Services and Committees on Appropriations of the Senate and”.
+
+1994—Subsec. (c)(3). Pub. L. 103–337, §1671(c)(2), as amended by Pub. L. 104–106, §1501(a)(8)(B), which directed the substitution of “1219 and 1401 through 1411 of this title” for “51, 337, 361, 363, 549, 573, 837, 861 and 863 of this title, as far as they apply to reserve officers”, effective Oct. 1, 1996, could not be executed because of the intervening amendment by Pub. L. 104–201, §1255(c)(1). See 1996 Amendment note above.
+
+Subsec. (e)(2). Pub. L. 103–337, §1070(a)(1), substituted “section 108” for “section 104”.
 
 1991—Subsec. (i)(2)(C) to (E). Pub. L. 102–190 added subpar. (C) and redesignated former subpars. (C) and (D) as (D) and (E), respectively.
 
@@ -188,7 +192,7 @@ Section 114(g) of this title, referred to in subsec. (i)(2)(B), was repealed by 
 
 Subsec. (k). Pub. L. 100–370 added subsec. (k).
 
-Subsec. (<i>l</i>). Pub. L. 100–456, §1101, added subsec. (<i>l).</i>
+Subsec. (<i>l</i>). Pub. L. 100–456, §1101, added subsec. (<i>l</i>).
 
 1987—Subsec. (e)(2). Pub. L. 100–26 inserted “(50 U.S.C. 404a)” after “National Security Act of 1947”.
 
@@ -218,13 +222,13 @@ Subsec. (i) \[formerly §138(h)\]. Pub. L. 97–252, §1105, added subsec. (h). 
 
 1980—Subsec. (b). Pub. L. 96–513 substituted “section 2 of the National Security Act of 1947 (50 U.S.C. 401)” for “section 401 of title 50”.
 
-#### Change of Name
+#### Effective Date of 1996 Amendment
 
-Committee on Armed Services of House of Representatives treated as referring to Committee on National Security of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Section 1501(f)(3) of Pub. L. 104–106 provided that: “The amendments made by this section \[see Tables for classification\] shall take effect as if included in the Reserve Officer Personnel Management Act \[Pub. L. 103–337, div. A, title XVI\] as enacted on October 5, 1994.”
 
 #### Effective Date of 1994 Amendment
 
-Amendment by section 1671(c)(2) of Pub. L. 103–337 effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L.103–337, set out as an Effective Date note under section 10001 of this title.
+Amendment by section 1671(c)(2) of Pub. L. 103–337 effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as an Effective Date note under section 10001 of this title.
 
 #### Effective Date of 1980 Amendment
 
@@ -240,7 +244,323 @@ For assignment of certain emergency preparedness functions to Secretary of Defen
 
 #### Order of Succession
 
-For order of succession in event of death, disability, or resignation of Secretary, see Ex. Ord. No. 12787, Dec. 31, 1991, 57 F.R. 517, set out as a note under section 3347 of Title 5, Government Organization and Employees.
+For order of succession in event of death, disability, or resignation of Secretary, see Ex. Ord. No. 13000, Apr. 24, 1996, 61 F.R. 18483, set out as a note under section 3347 of Title 5, Government Organization and Employees.
+
+#### Hate Crimes in the Military
+
+Section 571(a), (b) of Pub. L. 104–201 provided that:
+
+“(a)
+
+Human Relations Training.—(1) The Secretary of Defense shall ensure that the Secretary of each military department conducts ongoing programs for human relations training for all members of the Armed Forces under the jurisdiction of the Secretary. Matters to be covered by such training include race relations, equal opportunity, opposition to gender discrimination, and sensitivity to ‘hate group’ activity. Such training shall be provided during basic training (or other initial military training) and on a regular basis thereafter.
+
+“(2) The Secretary of Defense shall also ensure that unit commanders are aware of their responsibilities in ensuring that impermissible activity based upon discriminatory motives does not occur in units under their command.
+
+“(b)
+
+Information To Be Provided to Prospective Recruits.—The Secretary of Defense shall ensure that each individual preparing to enter an officer accession program or to execute an original enlistment agreement is provided information concerning the meaning of the oath of office or oath of enlistment for service in the Armed Forces in terms of the equal protection and civil liberties guarantees of the Constitution, and each such individual shall be informed that if supporting those guarantees is not possible personally for that individual, then that individual should decline to enter the Armed Forces.”
+
+#### Annual Report on Operation Provide Comfort and Operation Enhanced Southern Watch
+
+Section 1041 of Pub. L. 104–201 provided that:
+
+“(a)
+
+Annual Report.—Not later than March 1 of each year, the Secretary of Defense shall submit to Congress a report on Operation Provide Comfort and Operation Enhanced Southern Watch.
+
+“(b)
+
+Matters Relating to Operation Provide Comfort.—Each report under subsection (a) shall include, with respect to Operation Provide Comfort, the following:
+
+&emsp;“(1) A detailed presentation of the projected costs to be incurred by the Department of Defense for that operation during the fiscal year in which the report is submitted and projected for the following fiscal year, together with a discussion of missions and functions expected to be performed by the Department as part of that operation during each of those fiscal years.
+
+&emsp;“(2) A detailed presentation of the projected costs to be incurred by other departments and agencies of the Federal Government participating in or providing support to that operation during each of those fiscal years.
+
+&emsp;“(3) A discussion of options being pursued to reduce the involvement of the Department of Defense in those aspects of that operation that are not directly related to the military mission of the Department of Defense.
+
+&emsp;“(4) A discussion of the exit strategy for United States involvement in, and support for, that operation.
+
+&emsp;“(5) A description of alternative approaches to accomplishing the mission of that operation that are designed to limit the scope and cost to the Department of Defense of accomplishing that mission while maintaining mission success.
+
+&emsp;“(6) The contributions (both in-kind and actual) by other nations to the costs of conducting that operation.
+
+&emsp;“(7) A detailed presentation of significant Iraqi military activity (including specific violations of the no-fly zone) determined to jeopardize the security of the Kurdish population in northern Iraq.
+
+“(c)
+
+Matters Relating to Operation Enhanced Southern Watch.—Each report under subsection (a) shall include, with respect to Operation Enhanced Southern Watch, the following:
+
+&emsp;“(1) The expected duration and annual costs of the various elements of that operation.
+
+&emsp;“(2) The political and military objectives associated with that operation.
+
+&emsp;“(3) The contributions (both in-kind and actual) by other nations to the costs of conducting that operation.
+
+&emsp;“(4) A description of alternative approaches to accomplishing the mission of that operation that are designed to limit the scope and cost of accomplishing that mission while maintaining mission success.
+
+&emsp;“(5) A comprehensive discussion of the political and military objectives and initiatives that the Department of Defense has pursued, and intends to pursue, in order to reduce United States involvement in that operation.
+
+&emsp;“(6) A detailed presentation of significant Iraqi military activity (including specific violations of the no-fly zone) determined to jeopardize the security of the Shiite population by air attack in southern Iraq or to jeopardize the security of Kuwait.
+
+“(d)
+
+Termination of Report Requirement.—The requirement under subsection (a) shall cease to apply with respect to an operation named in that subsection upon the termination of United States involvement in that operation.
+
+“(e)
+
+Definitions.—For purposes of this section:
+
+&emsp;“(1)
+
+Operation enhanced southern watch.—The term ‘Operation Enhanced Southern Watch’ means the operation of the Department of Defense that as of October 30, 1995, is designated as Operation Enhanced Southern Watch.
+
+&emsp;“(2)
+
+Operation provide comfort.—The term ‘Operation Provide Comfort’ means the operation of the Department of Defense that as of October 30, 1995, is designated as Operation Provide Comfort.”
+
+#### Annual Report on Emerging Operational Concepts
+
+Section 1042 of Pub. L. 104–201 provided that:
+
+“(a)
+
+Report Required.—Not later than March 1 of each year through 2000, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives a report on emerging operational concepts. Each such report shall be prepared by the Secretary in consultation with the Chairman of the Joint Chiefs of Staff.
+
+“(b)
+
+Matters To Be Included.—Each such report shall contain a description, for the year preceding the year in which the report is submitted, of the following:
+
+&emsp;“(1) The process undertaken in the Department of Defense, and in each of the Army, Navy, Air Force, and Marine Corps, to define and develop doctrine, operational concepts, organizational concepts, and acquisition strategies to address—
+
+&emsp;&emsp;“(A) the potential of emerging technologies for significantly improving the operational effectiveness of the Armed Forces;
+
+&emsp;&emsp;“(B) changes in the international order that may necessitate changes in the operational capabilities of the Armed Forces;
+
+&emsp;&emsp;“(C) emerging capabilities of potential adversary states; and
+
+&emsp;&emsp;“(D) changes in defense budget projections.
+
+&emsp;“(2) The manner in which the processes described in paragraph (1) are harmonized to ensure that there is a sufficient consideration of the development of joint doctrine, operational concepts, and acquisition strategies.
+
+&emsp;“(3) The manner in which the processes described in paragraph (1) are coordinated through the Joint Requirements Oversight Council and reflected in the planning, programming, and budgeting process of the Department of Defense.”
+
+#### George C. Marshall European Center for Strategic Security Studies
+
+Section 1065 of Pub. L. 104–201 provided that:
+
+“(a)
+
+Authority To Accept Foreign Gifts and Donations.—(1) The Secretary of Defense may, on behalf of the George C. Marshall European Center for Strategic Security Studies (in this section referred to as the ‘Marshall Center’), accept foreign gifts or donations in order to defray the costs of, or enhance the operation of, the Marshall Center.
+
+“(2) Funds received by the Secretary under paragraph (1) shall be credited to appropriations available for the Department of Defense for the Marshall Center. Funds so credited shall be merged with the appropriations to which credited and shall be available for the Marshall Center for the same purposes and same period as the appropriations with which merged.
+
+“(3) The Secretary of Defense shall notify Congress if the total amount of money accepted under paragraph (1) exceeds $2,000,000 in any fiscal year. Any such notice shall list each of the contributors of such amounts and the amount of each contribution in such fiscal year.
+
+“(4) For purposes of this subsection, a foreign gift or donation is a gift or donation of funds, materials (including research materials), property, or services (including lecture services and faculty services) from a foreign government, a foundation or other charitable organization in a foreign country, or an individual in a foreign country.
+
+“(b)
+
+Marshall Center Participation By Foreign Nations.—(1) Notwithstanding any other provision of law, the Secretary of Defense may authorize participation by a European or Eurasian nation in Marshall Center programs if the Secretary determines, after consultation with the Secretary of State, that such participation is in the national interest of the United States.
+
+“(2) Not later than January 31 of each year, the Secretary of Defense shall submit to Congress a report setting forth the names of the foreign nations permitted to participate in programs of the Marshall Center during the preceding year under paragraph (1). Each such report shall be prepared by the Secretary with the assistance of the Director of the Marshall Center.
+
+“(c)
+
+Exemptions for Members of Marshall Center Board of Visitors From Certain Requirements.—(1) In the case of any person invited to serve without compensation on the Marshall Center Board of Visitors, the Secretary of Defense may waive any requirement for financial disclosure that would otherwise apply to that person solely by reason of service on such Board.
+
+“(2) Notwithstanding any other provision of law, a member of the Marshall Center Board of Visitors may not be required to register as an agent of a foreign government solely by reason of service as a member of the Board.
+
+“(3) Notwithstanding section 219 of title 18, United States Code, a non-United States citizen may serve on the Marshall Center Board of Visitors even though registered as a foreign agent.”
+
+#### Participation of Members, Dependents, and Other Persons in Crime Prevention Efforts at Installations
+
+Section 1070 of Pub. L. 104–201 provided that:
+
+“(a)
+
+Crime Prevention Plan.—The Secretary of Defense shall prepare and implement an incentive-based plan to encourage members of the Armed Forces, dependents of members, civilian employees of the Department of Defense, and employees of defense contractors performing work at military installations to report to an appropriate military law enforcement agency any crime or criminal activity that the person reasonably believes occurred on a military installation or involves a member of the Armed Forces.
+
+“(b)
+
+Incentives to Report Criminal Activity.—The Secretary of Defense shall include in the plan developed under subsection (a) incentives for members and other persons described in such subsection to provide information to appropriate military law enforcement agencies regarding any crime or criminal activity occurring on a military installation or involving a member of the Armed Forces.
+
+“(c)
+
+Report Regarding Implementation.—Not later than February 1, 1997, the Secretary shall submit to Congress a report describing the plan being developed under subsection (a).”
+
+#### Enforcement of Child Support Obligations of Members of the Armed Forces
+
+Pub. L. 104–193, title III, §363(a), Aug. 22, 1996, 110 Stat. 2247, provided that:
+
+“(1)
+
+Maintenance of address information.—The Secretary of Defense shall establish a centralized personnel locator service that includes the address of each member of the Armed Forces under the jurisdiction of the Secretary. Upon request of the Secretary of Transportation, addresses for members of the Coast Guard shall be included in the centralized personnel locator service.
+
+“(2)
+
+Type of address.—
+
+&emsp;“(A)
+
+Residential address.—Except as provided in subparagraph (B), the address for a member of the Armed Forces shown in the locator service shall be the residential address of that member.
+
+&emsp;“(B)
+
+Duty address.—The address for a member of the Armed Forces shown in the locator service shall be the duty address of that member in the case of a member—
+
+&emsp;&emsp;“(i) who is permanently assigned overseas, to a vessel, or to a routinely deployable unit; or
+
+&emsp;&emsp;“(ii) with respect to whom the Secretary concerned makes a determination that the member's residential address should not be disclosed due to national security or safety concerns.
+
+“(3)
+
+Updating of locator information.—Within 30 days after a member listed in the locator service establishes a new residential address (or a new duty address, in the case of a member covered by paragraph (2)(B)), the Secretary concerned shall update the locator service to indicate the new address of the member.
+
+“(4)
+
+Availability of information.—The Secretary of Defense shall make information regarding the address of a member of the Armed Forces listed in the locator service available, on request, to the Federal Parent Locator Service established under section 453 of the Social Security Act \[42 U.S.C. 653\].”
+
+#### Review of C<sup>4</sup>I by National Research Council
+
+Section 262 of Pub. L. 104–106 provided that:
+
+“(a)
+
+Review by National Research Council.—Not later than 90 days after the date of the enactment of this Act \[Feb. 10, 1996\], the Secretary of Defense shall request the National Research Council of the National Academy of Sciences to conduct a comprehensive review of current and planned service and defense-wide programs for command, control, communications, computers, and intelligence (C<sup>4</sup>I) with a special focus on cross-service and inter-service issues.
+
+“(b)
+
+Matters To Be Assessed in Review.—The review shall address the following:
+
+&emsp;“(1) The match between the capabilities provided by current service and defense-wide C<sup>4</sup>I programs and the actual needs of users of these programs.
+
+&emsp;“(2) The interoperability of service and defense-wide C<sup>4</sup>I systems that are planned to be operational in the future.
+
+&emsp;“(3) The need for an overall defense-wide architecture for C<sup>4</sup>I.
+
+&emsp;“(4) Proposed strategies for ensuring that future C<sup>4</sup>I acquisitions are compatible and interoperable with an overall architecture.
+
+&emsp;“(5) Technological and administrative aspects of the C<sup>4</sup>I modernization effort to determine the soundness of the underlying plan and the extent to which it is consistent with concepts for joint military operations in the future.
+
+“(c)
+
+Two-Year Period for Conducting Review.—The review shall be conducted over the two-year period beginning on the date on which the National Research Council and the Secretary of Defense enter into a contract or other agreement for the conduct of the review.
+
+“(d)
+
+Reports.—(1) In the contract or other agreement for the conduct of the review, the Secretary of Defense shall provide that the National Research Council shall submit to the Department of Defense and Congress interim reports and progress updates on a regular basis as the review proceeds. A final report on the review shall set forth the findings, conclusions, and recommendations of the Council for defense-wide and service C<sup>4</sup>I programs and shall be submitted to the Committee on Armed Services of the Senate, the Committee on National Security of the House of Representatives, and the Secretary of Defense.
+
+“(2) To the maximum degree possible, the final report shall be submitted in unclassified form with classified annexes as necessary.
+
+“(e)
+
+Interagency Cooperation With Study.—All military departments, defense agencies, and other components of the Department of Defense shall cooperate fully with the National Research Council in its activities in carrying out the review under this section.
+
+“(f)
+
+Expedited Processing of Security Clearances for Study.—For the purpose of facilitating the commencement of the study under this section, the Secretary of Defense shall expedite to the fullest degree possible the processing of security clearances that are necessary for the National Research Council to conduct the study.
+
+“(g)
+
+Funding.—Of the amount authorized to be appropriated in section 201 \[110 Stat. 216\] for defense-wide activities, $900,000 shall be available for the study under this section.”
+
+#### Strategy and Report on Automated Information Systems of Department of Defense
+
+Section 366 of Pub. L. 104–106 provided that:
+
+“(a)
+
+Development of Strategy.—The Secretary of Defense shall develop a strategy for the development or modernization of automated information systems for the Department of Defense.
+
+“(b)
+
+Matters to Consider.—In developing the strategy required under subsection (a), the Secretary shall consider the following:
+
+&emsp;“(1) The use of performance measures and management controls.
+
+&emsp;“(2) Findings of the Functional Management Review conducted by the Secretary.
+
+&emsp;“(3) Program management actions planned by the Secretary.
+
+&emsp;“(4) Actions and milestones necessary for completion of functional and economic analyses for—
+
+&emsp;&emsp;“(A) the Automated System for Transportation data;
+
+&emsp;&emsp;“(B) continuous acquisition and life cycle support;
+
+&emsp;&emsp;“(C) electronic data interchange;
+
+&emsp;&emsp;“(D) flexible computer integrated manufacturing;
+
+&emsp;&emsp;“(E) the Navy Tactical Command Support System; and
+
+&emsp;&emsp;“(F) the Defense Information System Network.
+
+&emsp;“(5) Progress made by the Secretary in resolving problems with respect to the Defense Information System Network and the Joint Computer-Aided Acquisition and Logistics Support System.
+
+&emsp;“(6) Tasks identified in the review conducted by the Secretary of the Standard Installation/Division Personnel System-3.
+
+&emsp;“(7) Such other matters as the Secretary considers appropriate.
+
+“(c)
+
+Report on Strategy.—(1) Not later than April 15, 1996, the Secretary shall submit to Congress a report on the development of the strategy required under subsection (a).
+
+“(2) In the case of the Air Force Wargaming Center, the Air Force Command Exercise System, the Cheyenne Mountain Upgrade, the Transportation Coordinator Automated Command and Control Information Systems, and the Wing Command and Control Systems, the report required by paragraph (1) shall provide functional economic analyses and address waivers exercised for compelling military importance under section 381(d) of the National Defense Authorization Act for Fiscal Year 1995 (Public Law 103–337; 108 Stat. 2739) \[set out below\].
+
+“(3) The report required by paragraph (1) shall also include the following:
+
+&emsp;“(A) A certification by the Secretary of the termination of the Personnel Electronic Record Management System or a justification for the continued need for such system.
+
+&emsp;“(B) Findings of the Functional Management Review conducted by the Secretary and program management actions planned by the Secretary for—
+
+&emsp;&emsp;“(i) the Base Level System Modernization and the Sustaining Base Information System; and
+
+&emsp;&emsp;“(ii) the Standard Installation/Division Personnel System-3.
+
+&emsp;“(C) An assessment of the implementation of migration systems and applications, including—
+
+&emsp;&emsp;“(i) identification of the systems and applications by functional or business area, specifying target dates for operation of the systems and applications;
+
+&emsp;&emsp;“(ii) identification of the legacy systems and applications that will be terminated;
+
+&emsp;&emsp;“(iii) the cost of and schedules for implementing the migration systems and applications; and
+
+&emsp;&emsp;“(iv) termination schedules.
+
+&emsp;“(D) A certification by the Secretary that each information system that is subject to review by the Major Automated Information System Review Committee of the Department is cost-effective and supports the corporate information management goals of the Department, including the results of the review conducted for each such system by the Committee.”
+
+#### Report Concerning Appropriate Forum for Judicial Review of Department of Defense Personnel Actions
+
+Section 551 of Pub. L. 104–106 provided that:
+
+“(a)
+
+Establishment.—The Secretary of Defense shall establish an advisory committee to consider issues relating to the appropriate forum for judicial review of Department of Defense administrative personnel actions.
+
+“(b)
+
+Membership.—(1) The committee shall be composed of five members, who shall be appointed by the Secretary of Defense after consultation with the Attorney General and the Chief Justice of the United States.
+
+“(2) All members of the committee shall be appointed not later than 30 days after the date of the enactment of this Act \[Feb. 10, 1996\].
+
+“(c)
+
+Duties.—The committee shall review, and provide findings and recommendations regarding, the following matters with respect to judicial review of administrative personnel actions of the Department of Defense:
+
+&emsp;“(1) Whether the existing forum for such review through the United States district courts provides appropriate and adequate review of such actions.
+
+&emsp;“(2) Whether jurisdiction to conduct judicial review of such actions should be established in a single court in order to provide a centralized review of such actions and, if so, in which court that jurisdiction should be vested.
+
+“(d)
+
+Report.—(1) Not later than December 15, 1996, the committee shall submit to the Secretary of Defense a report setting forth its findings and recommendations, including its recommendations pursuant to subsection (c).
+
+“(2) Not later than January 1, 1997, the Secretary of Defense, after consultation with the Attorney General, shall transmit the committee's report to Congress. The Secretary may include in the transmittal any comments on the report that the Secretary or the Attorney General consider appropriate.
+
+“(e)
+
+Termination of Committee.—The committee shall terminate 30 days after the date of the submission of its report to Congress under subsection (d)(2).”
 
 #### Requirements for Automated Information Systems of Department of Defense
 
@@ -337,6 +657,8 @@ Definitions.—In this section:
 &emsp;“(1) The term ‘automated information system’ means an automated information system of the Department of Defense described in the exhibits designated as ‘IT-43’ in the budget submitted to Congress by the President for fiscal year 1995 pursuant to section 1105 of title 31, United States Code.
 
 &emsp;“(2) The term ‘migration system’ has the meaning given such term in the document entitled ‘Department of Defense Strategy for Acceleration of Migration Systems and Data Standards’ attached to the memorandum of the Department of Defense dated October 13, 1993 (relating to accelerated implementation of migration systems, data standards, and process improvement).”
+
+Section 830 of Pub. L. 104–201, as amended by Pub. L. 104–208, div. A, title I, §101(f) \[title VIII, §808(c)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–394, provided that Secretary of Defense was to include in report submitted in 1997 under section 381(f) of Pub. L. 103–337 \[set out above\] a discussion of progress made in implementing div. E of Pub. L. 104–106 \[see Short Title note set out under section 1401 of Title 40, Public Buildings, Property, and Works\] and strategy for development or modernization of automated information systems for Department of Defense, as required by section 366 of Pub. L. 104–106 \[set out as a note above\] and plans of Department of Defense for establishing an integrated framework for management of information resources within the Department, and provided further specifications of the elements to be included in the discussion.
 
 #### Department of Defense Policies and Procedures on Discrimination and Sexual Harassment
 
@@ -508,7 +830,7 @@ Assistance in Obtaining Declassification.—The official designated under subsec
 
 “(d)
 
-Repository.—The official designated under subsection (a) shall provide all documents relating to unaccounted-for Korean conflict POW/MIAs and unaccounted-for Cold War POW/MIAs that are located as a result of the official's efforts to the National Archives and Records Administration, which shall locate them in a centralized repository.
+Repository.—The official designated under subsection (a) shall provide all documents relating to unaccounted-for Korean conflict POW/MIAs and unaccounted-for Cold War POW/MIAs that are located as aresult of the official's efforts to the National Archives and Records Administration, which shall locate them in a centralized repository.
 
 “(e)
 
@@ -522,17 +844,15 @@ Definitions.—For purposes of this section:
 
 #### Plan Requiring Disbursing Officials of Department of Defense To Match Disbursements to Particular Obligations
 
-Pub. L. 104–61, title VIII, §8102, Dec. 1, 1995, 109 Stat. 672, provided that:
+Pub. L. 104–208, div. A, title I, §101(b) \[title VIII, §8106\], Sept. 30, 1996, 110 Stat. 3009–71, 3009–111, provided that:
 
-“(a) Not later than October 1, 1995, the Secretary of Defense shall require that each disbursement by the Department of Defense in an amount in excess of $5,000,000 be matched to a particular obligation before the disbursement is made.
+“(a) The Secretary of Defense shall require not later than June 30, 1997, each disbursement by the Department of Defense in an amount in excess of $3,000,000 be matched to a particular obligation before the disbursement is made.
 
-“(b) The Secretary shall ensure that a disbursement in excess of the threshold amount applicable under subsection (a) is not divided into multiple disbursements of less than that amount for the purpose of avoiding the applicability of such subsection to that disbursement.
+“(b) The Secretary shall ensure that a disbursement in excess of the threshold amount applicable under section (a) is not divided into multiple disbursements of less than that amount for the purpose of avoiding the applicability of such section to that disbursement.”
 
-“(c) The Secretary of Defense may waive a requirement for advance matching of a disbursement of the Department of Defense with a particular obligation in the case of (1) a disbursement involving deployed forces, (2) a disbursement for an operation in a war declared by Congress or a national emergency declared by the President or Congress, or (3) a disbursement under any other circumstances for which the waiver is necessary in the national security interests of the United States, as determined by the Secretary and certified by the Secretary to the congressional defense committees.
+Similar provisions were contained in the following prior appropriation acts:
 
-“(d) This section shall not be construed to limit the authority of the Secretary of Defense to require that a disbursement not in excess of the amount applicable under subsection (a) be matched to a particular obligation before the disbursement is made.”
-
-Similar provisions were contained in the following prior appropriation act:
+Pub. L. 104–61, title VIII, §8102, Dec. 1, 1995, 109 Stat. 672.
 
 Pub. L. 103–335, title VIII, §8137, Sept. 30, 1994, 108 Stat. 2654.
 
@@ -766,7 +1086,7 @@ Definitions.—In this section:
 
 &emsp;“(1) The term ‘active duty’ has the meaning given such term in section 101(d)(1) of title 10, United States Code.
 
-&emsp;“(2) The term ‘family members’ has the meaning given such term in section 1072(c)(2) of the National Defense Authorization Act for Fiscal Year 1993 (Public Law 102–484; 106 Stat. 2510; 10 U.S.C. 133 note \[set out below\]).
+&emsp;“(2) The term ‘family members’ has the meaning given such term in section 1072(c)(2) of the NationalDefense Authorization Act for Fiscal Year 1993 (Public Law 102–484; 106 Stat. 2510; 10 U.S.C. 133 note \[set out below\]).
 
 “(d)
 
@@ -874,7 +1194,7 @@ Information to be provided after notification of death.—Within a reasonable pe
 
 &emsp;“(3)
 
-Assistance in obtaining reports.—(A) In any case in which an investigative report or other fatality reports are not available at the time family members of a service member are provided the information described in paragraph (2)(A) about the member's death, the Secretary concerned shall ensure that a copy of such investigative report and any other fatality reports are furnished to the family members, ifthey so desire, when the reports are completed and become available, to the extent such reports may be furnished consistent with sections 552 and 552a of title 5, United States Code.
+Assistance in obtaining reports.—(A) In any case in which an investigative report or other fatality reports are not available at the time family members of a service member are provided the information described in paragraph (2)(A) about the member's death, the Secretary concerned shall ensure that a copy of such investigative report and any other fatality reports are furnished to the family members, if they so desire, when the reports are completed and become available, to the extent such reports may be furnished consistent with sections 552 and 552a of title 5, United States Code.
 
 &emsp;“(B) In any case in which an investigative report or other fatality reports cannot be released at the time family members of a service member are provided the information described in paragraph (2)(A) about the member's death because of section 552 or 552a of title 5, United States Code, the Secretary concerned shall ensure that the family members—
 
@@ -966,7 +1286,7 @@ Department of Defense Exhibitions.—(1) A military department may not participa
 
 “(c)
 
-Definition.—In this section, the term ‘incremental transportation cost’ includes the cost of transporting equipment to an airshow or trade exhibition only to the extent that the provision of transportation by theDepartment of Defense described in subsection (a)(2) does not fulfill legitimate training requirements that would otherwise have to be met.”
+Definition.—In this section, the term ‘incremental transportation cost’ includes the cost of transporting equipment to an airshow or trade exhibition only to the extent that the provision of transportation by the Department of Defense described in subsection (a)(2) does not fulfill legitimate training requirements that would otherwise have to be met.”
 
 #### Overseas Military End Strength
 
@@ -974,11 +1294,11 @@ Pub. L. 102–484, div. A, title XIII, §1302, Oct. 23, 1992, 106 Stat. 2545, wh
 
 #### Reports on Overseas Basing
 
-Pub. L. 102–484, div. A, title XIII, §1304, Oct. 23, 1992, 106 Stat. 2546, as amended by Pub. L. 103–160, div. B, title XXIX, §2924(a), Nov. 30, 1993, 107 Stat. 1931, provided that:
+Pub. L. 102–484, div. A, title XIII, §1304, Oct. 23, 1992, 106 Stat. 2546, as amended by Pub. L. 103–160, div. B, title XXIX, §2924(a), Nov. 30, 1993, 107 Stat. 1931; Pub. L. 104–106, div. A, title XV, §1502(c)(2)(A), Feb. 10, 1996, 110 Stat. 506, provided that:
 
 “(a)
 
-Annual Report.—The Secretary of Defense shall, not later than March 31 of each year through 1997, submit to the Committees on Armed Services of the Senate and House of Representatives \[now Committee on Armed Services of the Senate and Committee on National Security of the House of Representatives\], either separately or as part of another relevant report, a report that specifies—
+Annual Report.—The Secretary of Defense shall, not later than March 31 of each year through 1997, submit to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives, either separately or as part of another relevant report, a report that specifies—
 
 &emsp;“(1) the stationing and basing plan by installation for United States military forces outside the United States;
 
@@ -1016,7 +1336,7 @@ European Procurement Practices.—The Secretary of Defense shall—
 
 &emsp;“(1) compute the total value of American-made military goods and services procured each year by European governments or companies;
 
-&emsp;“(2) review defense procurement practices of European governments to determine what factors are considered in the selection of contractors and to determine whether American firms are discriminated against in the selection of contractors for purchases by such governments of military goods and services; and
+&emsp;“(2) review defense procurement practices of European governments to determine what factors are considered in the selection of contractors and to determine whether American firms are discriminated against in the selection of contractors for purchasesby such governments of military goods and services; and
 
 &emsp;“(3) establish a procedure for discussion with European governments about defense contract awards made by them that American firms believe were awarded unfairly.
 
@@ -1214,7 +1534,7 @@ Permanent Ceiling on United States Armed Forces in Japan.—Funds appropriated p
 
 “(c)
 
-Sense of Congress on Allied Burden Sharing.—(1) Congress recognizes that Japan has made a substantial pledge of financial support to the effort to support the United Nations Security Council resolutions on Iraq.
+Sense of Congress on Allied Burden Sharing.—(1) Congress recognizes that Japan has made a substantial pledge of financial support to the effort tosupport the United Nations Security Council resolutions on Iraq.
 
 “(2) It is the sense of Congress that—
 
@@ -1282,19 +1602,7 @@ Classification of Reports.—The reports submitted to Congress under subsection 
 
 #### Annual Report on Balanced Technology Initiative
 
-Section 211(e) of Pub. L. 101–189 provided that: “Not later than March 15 of each year, the Secretary of Defense shall submit to the congressional defense committees a report on the Balanced Technology Initiative and related matters. Each such report shall include the following:
-
-&emsp;“(1) A current assessment of the extent to which advanced technologies can be used to exploit potential vulnerabilities of hostile threats to the national security of the United States.
-
-&emsp;“(2) Identification of each program, project, and activity being pursued under the Balanced Technology Initiative and, with respect to each such program, project, and activity, the amount made available pursuant to this section and the source of such amount.
-
-&emsp;“(3) For each program, project, and activity for which funds are made available pursuant to this section, a five-year funding plan that (A) provides for the allocation of sufficient resources to maintain adequate progress in research and development under such program, project, or activity, and (B) specifies the major programmatic and technical milestones and the schedule for achieving those milestones.
-
-&emsp;“(4) The status of each program, project, and activity being pursued under the Balanced Technology Initiative.
-
-&emsp;“(5) Identification of other on-going or potential research and development programs, projects, and activities not currently provided for under this section that should be considered for inclusion under the Balanced Technology Initiative in order to improve conventional defense capabilities.
-
-&emsp;“(6) Identification of the most critical technologies for the successful development of existing or potential Balanced Technology Initiative programs, projects, and activities and an assessment of the current status of those technologies.”
+Section 211(e) of Pub. L. 101–189, which required Secretary of Defense to submit annual report to congressional defense committees on Balanced Technology Initiative, was repealed by Pub. L. 104–106, div. A, title X, §1061(<i>l</i>), Feb. 10, 1996, 110 Stat. 443.
 
 #### Military Relocation Assistance Programs
 
@@ -1302,241 +1610,7 @@ Section 661 of Pub. L. 101–189, which related to establishment by Secretary of
 
 #### Military Child Care
 
-Title XV of div. A of Pub. L. 101–189 provided that:
-
-#### “SEC. 1501. SHORT TITLE; DEFINITIONS
-
-“(a)
-
-Short Title.—This title may be cited as the ‘Military Child Care Act of 1989’.
-
-“(b)
-
-Definitions.—For purposes of this title:
-
-&emsp;“(1) The term ‘military child development center’ means a facility on a military installation (or on property under the jurisdiction of the commander of a military installation) at which child care services are provided for members of the Armed Forces or any other facility at which such child care services are provided that is operated by the Secretary of a military department.
-
-&emsp;“(2) The term ‘family home day care’ means home-based child care services that are provided for members of the Armed Forces by an individual who (A) is certified by the Secretary of the military department concerned as qualified to provide those services, and (B) provides those services on a regular basis for compensation.
-
-&emsp;“(3) The term ‘child care employee’ means a civilian employee of the Department of Defense who is employed to work in a military child development center (regardless of whether the employee is paid from appropriated funds or nonappropriated funds).
-
-&emsp;“(4) The term ‘child care fee receipts’ means those nonappropriated funds that are derived from fees paid by members of the Armed Forces for child care services provided at military child development centers.
-
-#### “SEC. 1502. FUNDING FOR MILITARY CHILD CARE FOR FISCAL YEAR 1990
-
-“(a)
-
-Fiscal Year 1990
-
-Funding.—(1) It is the policy of Congress that the amount of appropriated funds available during fiscal year 1990 for operating expenses for military child development centers shall not be less than the amount of child care fee receipts that are estimated to be received by the Department of Defense during that fiscal year. Of the amount authorized to be appropriated for the Department of Defense for fiscal year 1990, $102,000,000 shall be available for operating expenses for military child development centers.
-
-“(2) In addition to the amount referred to in paragraph (1), $26,000,000 shall be available for child care and child-related services of the Department other than military child development centers.
-
-“(3) In using the funds referred to in paragraph (1), the Secretary shall give priority to—
-
-&emsp;“(A) increasing the number of child care employees who are directly involved in providing child care for members of the Armed Forces; and
-
-&emsp;“(B) expanding the availability of child care for members of the Armed Forces.
-
-“(b)
-
-Funds Derived From Parent Fees To Be Used for Employee Compensation and Other Child CareServices.—(1) Except as provided in paragraph (2), child care fee receipts may be used during fiscal year 1990 only for compensation of child care employees who are directly involved in providing child care.
-
-“(2) If the Secretary of Defense determines that compliance with the limitation in paragraph (1) would result in an uneconomical and inefficient use of such fee receipts, the Secretary may (to the extent that such compliance would be uneconomical and inefficient) use such receipts—
-
-&emsp;“(A) first, for the purchase of consumable or disposable items for military child development centers; and
-
-&emsp;“(B) if the requirements of such centers for consumable or disposable items for fiscal year 1990 have been met, for other expenses of those centers.
-
-“(c)
-
-Report.—(1) Not later than December 31, 1989, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives a report on how the Secretary intends to use the funds referred to in subsection (a), including how the Secretary intends to achieve the priorities specified in paragraph (3) of that subsection.
-
-“(2) If at the time such report is submitted the Secretary proposes to use the authority provided by subsection (b)(2), the Secretary shall include in the report under paragraph (1) a description of the use proposed to be made of that authority and a statement of the reasons why the Secretary determined that compliance with the limitation in subsection (b)(1) would result in an uneconomical and inefficient use of child care fee receipts, together with supporting cost information and other information justifying the determination.
-
-“(3) If the Secretary uses such authority after December 31, 1989, the Secretary shall promptly inform the committees of the use of the authority and of the reasons for its use.
-
-#### “SEC. 1503. CHILD CARE EMPLOYEES
-
-“(a)
-
-Required Training.—(1) The Secretary of Defense shall establish, and prescribe regulations to implement, a training program for child care employees. Those regulations shall apply uniformly among the military departments. Subject to paragraph (2), satisfactory completion of the training program shall be a condition of employment of any person as a child care employee.
-
-“(2) Under those regulations, the Secretary shall require that each child care employee complete the training program not later than six months after the date on which the employee is employed as a child care employee (except that, in the case of a child care employee hired before the date on which the training program is established, the Secretary shall require that the employee complete the program not later than six months after that date).
-
-“(3) The training program established under this subsection shall cover, at a minimum, training in the following:
-
-&emsp;“(A) Early childhood development.
-
-&emsp;“(B) Activities and disciplinary techniques appropriate to children of different ages.
-
-&emsp;“(C) Child abuse prevention and detection.
-
-&emsp;“(D) Cardiopulmonary resuscitation and other emergency medical procedures.
-
-“(b)
-
-Training and Curriculum Specialists.—(1) The Secretary of Defense shall require that at least one employee at each military child development center be a specialist in training and curriculum development. The Secretary shall ensure that such employees have appropriate credentials and experience.
-
-“(2) The duties of such employees shall include the following:
-
-&emsp;“(A) Special teaching activities at the center.
-
-&emsp;“(B) Daily oversight and instruction of other child care employees at the center.
-
-&emsp;“(C) Daily assistance in the preparation of lesson plans.
-
-&emsp;“(D) Assistance in the center's child abuse prevention and detection program.
-
-&emsp;“(E) Advising the director of the center on the performance of other child care employees.
-
-“(3) Each employee referred to in paragraph (1) shall be an employee in a competitive service position.
-
-“(c)
-
-Program To Test Competitive Rates of Pay.—(1) For the purpose of improving the capability of the Department of Defense to provide military child development centers with a qualified and stable civilian workforce, the Secretary of Defense shall conduct a program as provided in this subsection to increase the compensation of child care employees. The Secretary shall begin the program not later than six months after the date of the enactment of this Act \[Nov. 29, 1989\]. The program shall be in effect for a period of at least two years.
-
-“(2) The program shall apply to all child care employees who—
-
-&emsp;“(A) are directly involved in providing child care; and
-
-&emsp;“(B) are paid from nonappropriated funds.
-
-“(3) Under the program, child care employees at a military installation who are described in paragraph (2) shall be paid—
-
-&emsp;“(A) in the case of entry-level employees, at rates of pay competitive with the rates of pay paid to other entry-level employees at that installation who are drawn from the same labor pool; and
-
-&emsp;“(B) in the case of other employees, at rates of pay substantially equivalent to the rates of pay paid to other employees at that installation with similar training, seniority, and experience.
-
-“(d)
-
-Employment Preference Test Program for Military Spouses.—(1) The Secretary of Defense shall conduct a test program under which qualified spouses of members of the Armed Forces shall be given a preference in hiring for the position of child care employee in a position paid from nonappropriated funds if the spouse is among persons determined to be best qualified for the position. A spouse who is provided a preference under this subsection at a military child development center may not be precluded from obtaining another preference, in accordance with section 806 of the Military Family Act of 1985 \[Pub. L. 99–145\] (10 U.S.C. 113 note), in the same geographical area as the military child development center.
-
-“(2) The test program under this subsection shall run concurrently with the program under subsection (c).
-
-“(e)
-
-Report on Compensation and Spouse Employment Preference Programs.—Not later than March 1, 1991, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives a report on the programs under subsections (c) and (d). The report shall include the findings of the Secretary concerning the effect of each of the programs on the quality of child care provided in military child development centers and the effect of the spouse employment preference program on employee turnover at such centers.
-
-“(f)
-
-Additional Child Care Positions.—(1) The Secretary of Defense shall make available for child care programs of the Department of Defense, not later than September 30, 1990, at least 1,000 competitive service positions in addition to the number of competitive service positions in such programs as of September 30, 1989. During fiscal year 1991, the Secretary shall make available to child care programs of the Department additional competitive service positions so that the number of competitive service positions in such programs as of September 30, 1991, is at least 3,700 greater than the number of competitive service positions in such programs as of September 30, 1989.
-
-“(2) The Secretary may waive the increase otherwise required by the second sentence of paragraph (1) to the extent that the Secretary determines that such increase is not executable. If the Secretary issues such a waiver, the Secretary shall promptly submit to the Committees on Armed Services of the Senate and House of Representatives a report on the waiver. Any such report shall specify the number of such positions waived and the reasons for the waiver.
-
-“(3) The additional positions provided for in paragraph (1), and the workyears associated with those positions, that are used outside the United States shall not be counted for purpose of applying any limitation on the total number of positions or workyears, respectively, available to the Department of Defense outside the United States (or any limitation on the availability of appropriated funds for such positions or workyears for any fiscal year).
-
-“(g)
-
-Competitive Service Position Defined.—For purposes of this section, the term ‘competitive service position’ means a position in the competitive service, as defined in section 2102(a)(1) of title 5, United States Code.
-
-#### “SEC. 1504. PARENT FEES
-
-“The Secretary of Defense shall prescribe regulations establishing fees to be charged parents for the attendance of children at military child development centers. Those regulations shall be uniform for the military departments and shall require that, in the case of children who attend the centers on a regular basis, the fees shall be based on family income.
-
-#### “SEC. 1505. CHILD ABUSE PREVENTION AND SAFETY AT FACILITIES
-
-“(a)
-
-Child Abuse Task Force.—The Secretary of Defense shall establish and maintain a special task force to respond to allegations of widespread child abuse at a military installation. The task force shall be composed of personnel from appropriate disciplines, including, where appropriate, medicine, psychology, and childhood development. In the case of such allegations, the task force shall provide assistance to the commander of the installation, and to parents at the installation, in helping them to deal with such allegations.
-
-“(b)
-
-National Hotline.—(1) The Secretary of Defense shall establish and maintain a national telephone number for persons to use to report suspected child abuse or safety violations at a military child development center or family home day care site. The Secretary shall ensure that such reports may be made anonymously if so desired by the person making the report. The Secretary shall establish procedures for following up on complaints and information received over that number.
-
-“(2) The Secretary shall establish such national telephone number not later than 90 days after the date of the enactment of this Act \[Nov. 29, 1989\] and shall publicize the existence of the number.
-
-“(c)
-
-Assistance From Local Authorities.—The Secretary of Defense shall prescribe regulations requiring that, in a case of allegations of child abuse at a military child development center or family home day care site, the commander of the military installation or the head of the task force established under subsection (a) shall seek the assistance of local child protective authorities if such assistance is available.
-
-“(d)
-
-Safety Regulations.—The Secretary of Defense shall prescribe regulations on safety and operating procedures at military child development centers. Those regulations shall apply uniformly among the military departments.
-
-“(e)
-
-Inspections.—The Secretary of Defense shall require that each military child development center be inspected not less often than four times a year. Each such inspection shall be unannounced. At least one inspection a year shall be carried out by a representative of the installation served by the center, and one inspection a year shall be carried out by a representative of the major command under which that installation operates.
-
-“(f)
-
-Remedies for Violations.—(1) Except as provided in paragraph (2), any violation of a safety, health, or child welfare law or regulation (discovered at an inspection or otherwise) at a military child development center shall be remedied immediately.
-
-“(2) In the case of a violation that is not life threatening, the commander of the major command under which the installation concerned operates may waive the requirement that the violation be remedied immediately for a period of up to 90 days beginning on the date of the discovery of the violation. If the violation is not remedied as of the end of that 90-day period, the military child development center shall be closed until the violation is remedied. The Secretary of the military department concerned may waive the preceding sentence and authorize the center to remain open in a case in which the violation cannot reasonably be remedied within that 90-day period or in which major facility reconstruction is required.
-
-“(3) If a military child development center is closed under paragraph (2), the Secretary of the military department concerned shall promptly submit to the Committees on Armed Services of the Senate and House of Representatives \[now Committee on Armed Services of the Senate and Committee on National Security of the House of Representatives\] a report notifying those committees of the closing. The report shall include—
-
-&emsp;“(A) notice of the violation that resulted in the closing and the cost of remedying the violation; and
-
-&emsp;“(B) a statement of the reasons why the violation has not been remedied as of the time of the report.
-
-“(g)
-
-Report on Cooperation With Department of Justice.—(1) The Secretary of Defense, in consultation with the Attorney General, shall study matters relating to military child care that are of concern to the Department of Justice. The matters studied shall include the following:
-
-&emsp;“(A) Improving communication between the Department of Defense and the Department of Justice in investigations of child abuse in military programs and in the coordination of the conduct of such investigations.
-
-&emsp;“(B) Eliminating overlapping responsibilities between the two departments.
-
-&emsp;“(C) Making better use of government and non-government experts in child abuse investigations and prosecutions.
-
-&emsp;“(D) Improving communication with affected families by the Department of Defense, the Department of Justice, and appropriate State and local agencies.
-
-“(2) Not later than six months after the date of the enactment of this Act \[Nov. 29, 1989\], the Secretary of Defense shall submit to Congress a report on the study required by paragraph (1). The report shall include recommendations on methods for improving the matters studied.
-
-“(3) Not later than nine months after the date of the enactment of this Act, the Comptroller General of the United States shall submit to Congress a report evaluating the findings in the report submitted under paragraph (2).
-
-#### “SEC. 1506. PARENT PARTNERSHIPS WITH CHILD DEVELOPMENT CENTERS
-
-“(a)
-
-Parent Boards.—The Secretary of Defense shall require that there be established at each military child development center a board of parents, to be composed of parents of children attending the center. The board shall meet periodically with staff of the center and the commander of the installation served by the center for the purpose of discussing problems and concerns. The board, together with the staff of the center, shall be responsible for coordinating the parent participation program described in subsection (b).
-
-“(b)
-
-Parent Participation Programs.—The Secretary of Defense shall require the establishment of a parent participation program at each military child development center. As part of such program, the Secretary of Defense may establish fees for attendance of children at such a center, in the case of parents who participate in the parent participation program at that center, at rates lower than the rates that otherwise apply.
-
-#### “SEC. 1507. REPORT ON FIVE-YEAR DEMAND FOR CHILD CARE
-
-“(a)
-
-Report Required.—Not later than six months after the date of the enactment of this Act \[Nov. 29, 1989\], the Secretary of Defense shall submit to Congress a report on the expected demand for child care by military and civilian personnel of the Department of Defense during fiscal years 1991 through 1995.
-
-“(b)
-
-Plan for Meeting Demand.—The report shall include—
-
-&emsp;“(1) a plan for meeting the expected child care demand identified in the report; and
-
-&emsp;“(2) an estimate of the cost of implementing that plan.
-
-“(c)
-
-Monitoring of Family Day Care Providers.—The report shall also include a description of methods for monitoring family home day care programs of the military departments.
-
-#### “SEC. 1508. SUBSIDIES FOR FAMILY HOME DAY CARE
-
-“The Secretary of Defense may use appropriated funds available for military child care purposes to provide assistance to family home day care providers so that family home day care services can be provided to members of the Armed Forces at a cost comparable to the cost of services provided by military child development centers. The Secretary shall prescribe regulations for the provision of such assistance.
-
-#### “SEC. 1509. EARLY CHILDHOOD EDUCATION DEMONSTRATION PROGRAM
-
-“(a)
-
-Demonstration Program for Accredited Centers.—(1) The Secretary of Defense shall carry out a program to demonstrate the effect on the development of preschool children of requiring that military child development centers meet standards of operation necessary for accreditation by an appropriate national early childhood programs accrediting body. To carry out such demonstration program, the Secretary shall ensure that not later than June 1, 1991, at least 50 military child development centers are accredited by such an appropriate national early childhood accrediting body.
-
-“(2) Each military child development center so accredited shall be designated as an early childhood education demonstration project and shall serve as a program model for other military child development centers and family home day care providers at military installations.
-
-“(b)
-
-Plan for Implementation.—Not later than April 1, 1990, the Secretary shall submit to the Committees on Armed Services of the Senate and House of Representatives a plan for carrying out the requirements of subsection (a).
-
-“(c)
-
-Evaluation.—The Secretary shall obtain an independent evaluation of the demonstration program carried out under subsection (a) to determine the extent to which the imposition of a requirement that military child development centers meet accreditation standards effectively promotes the development of preschool children of members of the Armed Forces. The Secretary shall report the results of the evaluation to Congress, together with such comments and recommendations as the Secretary considers appropriate, not later than July 15, 1992.
-
-#### “SEC. 1510. DEADLINE FOR REGULATIONS
-
-“Regulations required to be prescribed by this title shall be prescribed not later than 90 days after the date of the enactment of this Act \[Nov. 29, 1989\].”
+Title XV of div. A of Pub. L. 101–189, which provided that such title could be cited as the “Military Child Care Act of 1989”, and which related to funding for military child care for fiscal year 1990, child care employees, parent fees, child abuse prevention and safety at facilities, parent partnerships with child development centers, report on 5-year demand for child care, subsidies for family home day care, early childhood education demonstration program, and deadline for regulations, was repealed and restated in subchapter II (§1791 et seq.) of chapter 88 of this title by Pub. L. 104–106, div. A, title V, §568(a)(1), (e)(2), Feb. 10, 1996, 110 Stat. 331, 336.
 
 #### Lead Agency for Detection of Transit of Illegal Drugs
 
@@ -1548,7 +1622,7 @@ Section 1309 of Pub. L. 100–456 directed Secretary of Defense to submit to Con
 
 #### Department of Defense Overseas Personnel; Actions Resulting in More Balanced Sharing of Defense and Foreign Assistance Spending Burdens by United States and Allies; Reports to Congress; Limitation on Active Duty Armed Forces Members in Japan and Republic of Korea
 
-Pub. L. 100–463, title VIII, §8125, Oct. 1, 1988, 102 Stat. 2270–41, as amended by Pub. L. 101–189, div. A, title XVI, §1623, Nov. 29, 1989, 103 Stat. 1606; Pub. L. 103–236, title I, §162(j), Apr. 30, 1994, 108 Stat. 408, provided that:
+Pub. L. 100–463, title VIII, §8125, Oct. 1, 1988, 102 Stat. 2270–41, as amended by Pub. L. 101–189, div. A, title XVI, §1623, Nov. 29, 1989, 103 Stat. 1606; Pub. L. 103–236, titleI, §162(j), Apr. 30, 1994, 108 Stat. 408; Pub. L. 104–106, div. A, title XV, §1502(f)(1), Feb. 10, 1996, 110 Stat. 509, provided that:
 
 “(a)(1) Not later than March 1, 1989, the Secretary of Defense shall submit to Congress a report on the assignment of military missions among the member countries of North Atlantic Treaty Organization (NATO) and on the prospects for the more effective assignment of such missions among such countries.
 
@@ -1574,7 +1648,7 @@ Pub. L. 100–463, title VIII, §8125, Oct. 1, 1988, 102 Stat. 2270–41, as ame
 
 “(g)(1) After fiscal year 1990, budget submissions to Congress under section 1105 of title 31, United States Code, shall identify funds requested for Department of Defense personnel and units in permanent duty stations ashore outside the United States that exceed the amount of such costs incurred in fiscal year 1989 and shall set forth a detailed description of (A) the types of expenditures increased, by appropriation account, activity and program; and (B) specific efforts to obtain allied host nations’ financing for these cost increases.
 
-“(2) The Secretary of Defense shall notify in advance the Committees on Appropriations and Armed Services of the Senate and House of Representatives \[Committee on Armed Services of the House of Representatives now Committee on National Security\], through existing notification procedures, when costs of maintaining Department of Defense personnel and units in permanent duty stations ashore outside the United States will exceed the amounts as defined in the Department of Defense budget as enacted for that fiscal year. Such notification shall describe: (A) the type of expenditures that increased; and (B) the source of funds (including prior year unobligated balances) by appropriation account, activity and program, proposed to finance these costs.
+“(2) The Secretary of Defense shall notify in advance the Committee on Appropriations and the Committee on Armed Services of the Senate and the Committee on Appropriations and the Committee on National Security of the House of Representatives, through existing notification procedures, when costs of maintaining Department of Defense personnel and units in permanent duty stations ashore outside the United States will exceed the amounts as defined in the Department of Defense budget as enacted for that fiscal year. Such notification shall describe: (A) the type of expenditures that increased; and (B) the source of funds (including prior year unobligated balances) by appropriation account, activity and program, proposed to finance these costs.
 
 “(3) In computing the costs incurred for maintaining Department of Defense personnel and forces in permanent duty stations ashore outside the United States compared with the amount of such costs incurred in fiscal year 1989, the Secretary shall—
 
@@ -1610,7 +1684,7 @@ Section 638 of Pub. L. 100–180, as amended by Pub. L. 101–189, div. A, title
 
 “(a)
 
-Test Program.—The Secretary of Defense shall carry out a test program under which a member of the Armed Forces under the jurisdiction of the Secretary may be reimbursed, as provided in this section, for qualifying adoption expenses incurred by the member. The Secretary of Transportation shall carry out a similar test program under which a member of the Coast Guard may be reimbursed, as provided in this section, for qualifying adoption expenses incurred by the member.
+Test Program.—The Secretary of Defense shall carry out a test program under which a member of theArmed Forces under the jurisdiction of the Secretary may be reimbursed, as provided in this section, for qualifying adoption expenses incurred by the member. The Secretary of Transportation shall carry out a similar test program under which a member of the Coast Guard may be reimbursed, as provided in this section, for qualifying adoption expenses incurred by the member.
 
 “(b)
 
@@ -1826,155 +1900,7 @@ Pub. L. 98–94, title X, §1033, Sept. 24, 1983, 97 Stat. 672, as amended by Pu
 
 #### Military Family Policy and Programs
 
-Pub. L. 99–145, title VIII, Nov. 8, 1985, 99 Stat. 678, as amended by Pub. L. 99–661, div. A, title VI, §653, Nov. 14, 1986, 100 Stat. 3890; Pub. L. 100–180, div. A, title VI, §635, Dec. 4, 1987, 101 Stat. 1106; Pub. L. 100–456, div. A, title V, §524, Sept. 29, 1988, 102 Stat. 1975, provided that:
-
-#### “SEC. 801. SHORT TITLE
-
-“This title may be cited as the ‘Military Family Act of 1985’.
-
-#### “SEC. 802. OFFICE OF FAMILY POLICY
-
-“(a)
-
-Establishment.—There is hereby established in the Office of the Secretary of Defense an Office of Family Policy (hereinafter in this section referred to as the ‘Office’). The Office shall be under the Assistant Secretary of Defense for Force Management and Personnel.
-
-“(b)
-
-Duties.—The Office—
-
-&emsp;“(1) shall coordinate programs and activities of the military departments to the extent that they relate to military families; and
-
-&emsp;“(2) shall make recommendations to the Secretaries of the military departments with respect to programs and policies regarding military families.
-
-“(c)
-
-Staff.—The Office shall have not less than five professional staff members.
-
-“(d)
-
-Report.—The Secretary of Defense shall submit a report to Congress concerning the Office no later than September 30, 1986. The report shall include—
-
-&emsp;“(1) a description of the activities of the Office and the composition of its staff; and
-
-&emsp;“(2) the recommendations of the Office for legislative and administrative action to enhance the well-being of military families.
-
-#### “SEC. 803. TRANSFER OF MILITARY FAMILY RESOURCE CENTER
-
-“The Military Family Resource Center of the Department of Defense is hereby transferred from the Office of the Assistant Secretary of Defense for Health Affairs to the Office of the Assistant Secretary for Force Management and Personnel.
-
-#### “SEC. 804. SURVEYS OF MILITARY FAMILIES
-
-“The Secretary of Defense may conduct surveys of members of the Armed Forces serving on active duty, members of the families of such members, and retired members of the Armed Forces to determine the effectiveness of existing Federal programs relating to military families and the need for new programs. Responses to surveys conducted under this section shall be voluntary. With respect to such surveys, family members of members of the Armed Forces and retired members of the Armed Forces shall be considered to be employees of the United States for purposes of section 3502(4)(A) of title 44, United States Code.
-
-#### “SEC. 805. FAMILY MEMBERS SERVING ON ADVISORY COMMITTEES
-
-“A committee within the Department of Defense which advises or assists the Department in the performance of any function which affects members of military families and which includes members of military families in its membership shall not be considered an advisory committee under section 3(2) of the Federal Advisory Committee Act (5 U.S.C. App.) solely because of such membership.
-
-#### “SEC. 806. EMPLOYMENT OPPORTUNITIES FOR MILITARY SPOUSES
-
-“(a)
-
-Authority.—The President shall order such measures as the President considers necessary to increase employment opportunities for spouses of members of the Armed Forces. Such measures may include—
-
-&emsp;“(1) excepting, pursuant to section 3302 of title 5, United States Code, from the competitive service positions in the Department of Defense located outside of the United States to provide employment opportunities for qualified spouses of members of the Armed Forces in the same geographical area as the permanent duty station of the members; and
-
-&emsp;“(2) providing preference in hiring for positions in nonappropriated fund activities to qualified spouses of members of the Armed Forces stationed in the same geographical area as the nonappropriated fund activity for positions in wage grade UA–8 and below and equivalent positions and for positions paid at hourly rates.
-
-“(b)
-
-Regulations.—The Secretary of Defense shall prescribe regulations—
-
-&emsp;“(1) to implement such measures as the President orders under subsection (a);
-
-&emsp;“(2) to provide preference to qualified spouses of members of the Armed Forces in hiring for any civilian position in the Department of Defense if the spouse is among persons determined to be best qualified for the position and if the position is located in the same geographical area as the permanent duty station of the member;
-
-&emsp;“(3) to ensure that notice of any vacant position in the Department of Defense is provided in a manner reasonably designed to reach spouses of members of the Armed Forces whose permanent duty stations are in the same geographic area as the area in which the position is located; and
-
-&emsp;“(4) to ensure that the spouse of a member of the Armed Forces who applies for a vacant position in the Department of Defense shall, to the extent practicable, be considered for any such position located in the same geographic area as the permanent duty station of the member.
-
-“(c)
-
-Status of Preference Eligibles.—Nothing in this section shall be construed to provide a spouse of a member of the Armed Forces with preference in hiring over an individual who is a preference eligible.
-
-#### “SEC. 807. YOUTH SPONSORSHIP PROGRAM
-
-“The Secretary of Defense shall direct that there be established at each military installation a youth sponsorship program to facilitate the integration of dependent children of members of the Armed Forces into new surroundings when moving to that military installation as a result of a parent's permanent change of station. Such a program shall, to the extent feasible, provide for involvement of dependent children of members presently stationed at the military installation.
-
-#### “SEC. 808. DEPENDENT STUDENT TRAVEL WITHIN THE UNITED STATES
-
-“Funds available to the Department of Defense for the travel and transportation of dependent students of members of the Armed Forces stationed overseas may be obligated for transportation allowances for travel within or between the contiguous States.
-
-#### “SEC. 809. RELOCATION AND HOUSING
-
-“(a)
-
-Relocation Assistance.—The Secretary of Defense shall submit to Congress a report on the desirability and feasibility of providing relocation assistance to members of the uniformed services and their families through contracts entered into by the Department of Defense with firms which provide such assistance to individuals. Such report shall be submitted not later than March 1, 1986.
-
-“(b)
-
-Amortization Period for Parking Facilities for House Trailers and Mobile Homes.—Section 403(k) of title 37, United States Code, is amended by striking out ‘15-year period’ and inserting in lieu thereof ‘25-year period’.
-
-“(c)
-
-Cost of Unaccompanied Personnel Housing for Members of Uniformed Service.—Section 5911 of title 5, United States Code, is amended by adding at the end thereof the following new subsection:
-
-“ ‘(h) A member of the uniformed service on a permanent change of duty station or temporary duty orders and occupying unaccompanied personnel housing—
-
-&emsp;“ ‘(1) is exempt from the requirement of subsection (c) to pay a rental rate or charge based on the reasonable value of the quarters and facilities provided; and
-
-&emsp;“ ‘(2) shall pay such lesser rate or charge as the Secretary of Defense establishes by regulation.’.
-
-#### “SEC. 810. FOOD PROGRAMS
-
-“(a)
-
-Food Costs for Certain Enlisted Members.—Section 1011 of title 37, United States Code, is amended by adding at the end thereof the following new subsection:
-
-“ ‘(c) Spouses and dependent children of enlisted members in pay grades E–1, E–2, E–3, and E–4 may not be charged for meals sold at messes in excess of a level sufficient to cover food costs.’.
-
-“(b)
-
-Report on Issuance of Food Stamps Coupons to Overseas Households of Members Stationed Outside the United States.—(1) The Secretary of Defense shall submit to Congress a report on the feasibility of having the Department issue food stamp coupons to overseas households of members stationed outside the United States.
-
-“(2) The report shall include—
-
-&emsp;“(A) an estimate of the cost of providing the coupons; and
-
-&emsp;“(B) legislative and administrative recommendations for providing for the issuance of the coupons.
-
-“(3) The report shall be submitted not later than December 31, 1985.
-
-#### “SEC. 811. REPORTING OF CHILD ABUSE
-
-“(a)
-
-In General.—The Secretary of Defense shall request each State to provide for the reporting to the Secretary of any report the State receives of known or suspected instances of child abuse and neglect in which the person having care of the child is a member of the Armed Forces (or the spouse of the member).
-
-“(b)
-
-Definition.—For purposes of this section the term ‘child abuse and neglect’ shall have the same meaning as provided in section 3(1) of the Child Abuse Prevention and Treatment Act (42 U.S.C. 5102).
-
-#### “SEC. 812. MISCELLANEOUS REPORTING REQUIREMENTS
-
-“(a)
-
-Housing Availability.—(1) The Secretary of Defense shall submit to Congress a report on the availability and affordability of off-base housing for members of the Armed Forces and their families.
-
-“(2) The report shall—
-
-&emsp;“(A) examine the availability of affordable housing for each pay grade and for all geographic areas within the United States and for appropriate overseas locations; and
-
-&emsp;“(B) examine the relocation assistance provided by the Department of Defense incident to a permanent change of station by a member of the Armed Forces in locating housing at the member's new duty station and in disposing of housing at the member's old duty station.
-
-“(3) The report shall be submitted within one year after the date of the enactment of this Act \[Nov. 8, 1985\].
-
-“(b)
-
-Need for Assistance to Dependents Entering New Secondary Schools.—The Secretary of Defense shall submit to Congress a report recommending administrative and legislative action to assist families of members of the Armed Forces making a permanent change of station so that a dependent child who transfers between secondary schools with different graduation requirements is not subjected to unnecessary disruptions in education or inequitable, unduly burdensome, or duplicative education requirements. Such report shall be submitted within one year after the date of the enactment of this Act \[Nov. 8, 1985\].
-
-#### “SEC. 813. EFFECTIVE DATE
-
-“This title shall take effect on October 1, 1985.”
+Pub. L. 99–145, title VIII, Nov. 8, 1985, 99 Stat. 678, as amended by Pub. L. 99–661, div. A, title VI, §653, Nov. 14, 1986, 100 Stat. 3890; Pub. L. 100–180, div. A, title VI, §635, Dec. 4, 1987, 101 Stat. 1106; Pub. L. 100–456, div. A, title V, §524, Sept. 29, 1988, 102 Stat. 1975, which provided that such title could be cited as the “Military Family Act of 1985”, and which related to Office of Family Policy, transfer of Military Family Resource Center, surveys of military families, family members serving on advisory committees, employment opportunities for military spouses, youth sponsorship program, dependent student travel within United States, relocation and housing, food programs, reporting of child abuse, miscellaneous reporting requirements, and effective date, was repealed and restated in subchapter I (§1781 et seq.) of chapter 88 of this title by Pub. L. 104–106, div. A, title V, §568(a)(1), (e)(1), Feb. 10, 1996, 110 Stat. 329, 336.
 
 #### Academic Institutions Eligible To Provide Educational Services; Prohibition of Certain Restrictions
 
@@ -2030,7 +1956,7 @@ Pub. L. 99–85, Aug. 8, 1985, 99 Stat. 286, as amended by Pub. L. 103–199, ti
 
 “
 
-Sec. 2. (a) The Secretary of Defense may use any funds available to the Department of Defense for the procurement of the equipment and providing the services referred to in the first section.
+Sec. 2. (a) The Secretary of Defense may use any funds available to the Department of Defense for theprocurement of the equipment and providing the services referred to in the first section.
 
 “(b) Funds received from Russia as payment for such equipment and services shall be credited to the appropriate account of Department of Defense.”
 
@@ -2038,7 +1964,7 @@ Sec. 2. (a) The Secretary of Defense may use any funds available to the Departme
 
 #### Consolidation of Functions of Military Transportation Commands Prohibited
 
-Pub. L. 97–252, title XI, §1110, Sept. 8, 1982, 96 Stat. 747, provided that none of funds appropriated pursuantto an authorization of appropriations could be used for purpose of consolidating any functions being performed on Sept. 8, 1982, by Military Traffic Management Command of Army, Military Sealift Command of Navy, or Military Airlift Command of Air Force with any function being performed on such date by either or both of the other commands, prior to repeal by Pub. L. 99–433, title II, §213(a), Oct. 1, 1986, 100 Stat. 1018.
+Pub. L. 97–252, title XI, §1110, Sept. 8, 1982, 96 Stat. 747, provided that none of funds appropriated pursuant to an authorization of appropriations could be used for purpose of consolidating any functions being performed on Sept. 8, 1982, by Military Traffic Management Command of Army, Military Sealift Command of Navy, or Military Airlift Command of Air Force with any function being performed on such date by either or both of the other commands, prior to repeal by Pub. L. 99–433, title II, §213(a), Oct. 1, 1986, 100 Stat. 1018.
 
 #### Reports to Congress on Recommendations With Respect to Elimination of Waste, Fraud, Abuse, and Mismanagement in Department of Defense
 
@@ -2059,14 +1985,6 @@ Pub. L. 94–106, title VIII, §813, Oct. 7, 1975, 89 Stat. 540, as amended by P
 #### Procurement of Aircraft, Missiles, Naval Vessels, Tracked Combat Vehicles, and Other Weapons; Authorization of Appropriations for Procurement, Research, Development, Test, and Evaluation Activities; Selected Reserve of Reserve Components: Annual Authorization of Personnel Strength
 
 Section 412 of Pub. L. 86–149, title IV, Aug. 10, 1959, 73 Stat. 322, as amended by Pub. L. 87–436, §2, Apr. 27, 1962, 76 Stat. 55; Pub. L. 88–174, title VI, §610, Nov. 7, 1963, 77 Stat. 329; Pub. L. 89–37, title III, §304, June 11, 1965, 79 Stat. 128; Pub. L. 90–168, §6, Dec. 1, 1967, 81 Stat. 526; Pub. L. 91–121, title IV, §405, Nov. 19, 1969, 83 Stat. 207; Pub. L. 91–441, title V, §§505, 509, Oct. 7, 1970, 84 Stat. 912, 913; Pub. L. 92–129, title VII, §701, Sept. 28, 1971, 85 Stat. 362; Pub. L. 92–436, title III, §302, title VI, §604, Sept. 26, 1972, 86 Stat. 736, 739, was repealed by Pub. L. 93–155, title VIII, §803(b)(1), Nov. 16, 1973, 87 Stat. 615. See sections 114 to 116 of this title.
-
-#### Ex. Ord. No. 12568. Employment Opportunities for Military Spouses at Nonappropriated Fund Activities
-
-Ex. Ord. No. 12568, Oct. 2, 1986, 51 F.R. 35497, provided:
-
-By the authority vested in me as President by the laws of the United States of America, including section 301 of Title 3 of the United States Code, it is ordered that the Secretary of Defense and, as designated by him for this purpose, any of the Secretaries, Under Secretaries, and Assistant Secretaries of the Military Departments, are hereby empowered to exercise the discretionary authority granted to the President by subsection 806(a)(2) of the Department of Defense Authorization Act of 1986, Public Law No. 99–145 \[set out above\], to give preference in hiring for positions in nonappropriated fund activities to qualified spouses of members of the Armed Forces stationed in the same geographical area as the nonappropriated fund activity for positions in wage grade UA–8 and below and equivalent positions and for positions paid at hourly rates.
-
-Ronald Reagan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Ex. Ord. No. 12765. Delegation of Certain Defense Related Authorities of President to Secretary of Defense
 
@@ -2112,7 +2030,5 @@ Reports to Congressional committees, policies and procedures on recall to active
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 667, 1762, 2220, 2501, 2506, 10504 of this title; title 22 section 2595a; title 50 sections 833, 1523; title 50 App. sections 2077, 2152.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+This section is referred to in sections 667, 1762, 2220, 2501, 3038, 5143, 5144, 8038, 10504 of this title; title 22 section 2595a; title 50 sections 833, 1523; title 50 App. sections 2077, 2152.
 

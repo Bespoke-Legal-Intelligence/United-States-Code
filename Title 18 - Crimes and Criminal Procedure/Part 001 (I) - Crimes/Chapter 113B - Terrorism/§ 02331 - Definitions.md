@@ -40,9 +40,9 @@ A prior section 2331 was renumbered 2332 of this title.
 
 #### Effective Date
 
-Section 1003(c) of Pub. L. 102–572 provided that: “This section \[enacting this section and sections 2333 to 2338 of this title, amending former section 2331 of this title,and renumbering former section 2331 of this title as 2332\] and the amendments made by this section shall apply to any pending case or any cause of action arising on or after 4 years before the date of enactment of this Act \[Oct. 29, 1992\].”
+Section 1003(c) of Pub. L. 102–572 provided that: “This section \[enacting this section and sections 2333 to 2338 of this title, amending former section 2331 of this title, and renumbering former section 2331 of this title as 2332\] and the amendments made by this section shall apply to any pending case or any cause of action arising on or after 4 years before the date of enactment of this Act \[Oct. 29, 1992\].”
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1547, 2339A of this title.
+This section is referred to in sections 1028, 1425, 1426, 1427, 1541, 1542, 1543, 1544, 1546, 1547 of this title; title 42 section 10602.
 

@@ -14,7 +14,7 @@ Commencing October 4, 1988, any and all right, title, interest, and estate of th
 
 #### (d) Location, incorporation, and management
 
-(1) All rights-of-way, or portions thereof, retained by the United States pursuant to subsection (c) of this section which are located within the boundaries of a conservation system unit or a National Forest shall be added to and incorporated within such unit or National Forest and managed in accordance with applicable provisions of law, including this chapter.
+(1) All rights-of-way, or portions thereof, retained by the United States pursuant to subsection (c) of this section which are locatedwithin the boundaries of a conservation system unit or a National Forest shall be added to and incorporated within such unit or National Forest and managed in accordance with applicable provisions of law, including this chapter.
 
 (2) All such retained rights-of-way, or portions thereof, which are located outside the boundaries of a conservation system unit or a National Forest but adjacent to or contiguous with any portion of the public lands shall be managed pursuant to the Federal Land Policy and Management Act of 1976 \[43 U.S.C. 1701 et seq.\] and other applicable law, including this section.
 

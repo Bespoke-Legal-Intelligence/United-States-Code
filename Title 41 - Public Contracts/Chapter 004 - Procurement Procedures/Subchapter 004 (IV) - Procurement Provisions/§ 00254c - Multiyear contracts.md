@@ -34,3 +34,7 @@ Nothing in this section is intended to modify or affect any other provision of l
 
 For effective date and applicability of section, see section 10001 of Pub. L. 103–355, set out as an Effective Date of 1994 Amendment note under section 251 of this title.
 
+#### Section Referred to in Other Sections
+
+This section is referred to in title 42 section 7274n.
+

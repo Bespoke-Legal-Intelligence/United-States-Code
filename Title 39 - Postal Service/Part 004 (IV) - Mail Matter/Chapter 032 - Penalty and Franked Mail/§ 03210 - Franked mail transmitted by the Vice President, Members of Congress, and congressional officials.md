@@ -12,7 +12,7 @@
 
 &emsp;(C) the usual and customary congressional questionnaire seeking public opinion on any law, pending or proposed legislation, public issue, or subject;
 
-&emsp;(D) mail matter dispatched by a Member of Congress between his Washington office andany congressional district offices, or between his district offices;
+&emsp;(D) mail matter dispatched by a Member of Congress between his Washington office and any congressional district offices, or between his district offices;
 
 &emsp;(E) mail matter directed by one Member of Congress to another Member of Congress or to representatives of the legislative bodies of State and local governments;
 
@@ -46,19 +46,19 @@
 
 (6)(A) It is the intent of Congress that a Member of, or Member-elect to, Congress may not mail any mass mailing as franked mail—
 
-&emsp;(i) if the mass mailing is postmarked fewer than 60 days immediately before the date of any primary election or general election (whether regular, special, or runoff) in which the Member is a candidate for reelection; or
+&emsp;(i) if the mass mailing is postmarked fewer than 60 days (or, in the case of a Member of the House, fewer than 90 days) immediately before the date of any primary election or general election (whether regular, special, or runoff) in which the Member is a candidate for reelection; or
 
 &emsp;(ii) in the case of a Member of, or Member-elect to, the House who is a candidate for any other public office, if the mass mailing—
 
 &emsp;&emsp;(I) is prepared for delivery within any portion of the jurisdiction of or the area covered by the public office which is outside the area constituting the congressional district from which the Member or Member-elect was elected; or
 
-&emsp;&emsp;(II) is postmarked fewer than 60 days immediately before the date of any primary election or general election (whether regular, special, or runoff) in which the Member or Member-elect is a candidate for any other public office.
+&emsp;&emsp;(II) is postmarked fewer than 90 days immediately before the date of any primary election or general election (whether regular, special, or runoff) in which the Member or Member-elect is a candidate for any other public office.
 
-(B) Any mass mailing which is mailed by the chairman of any organization referred to in the last sentence of section 3215 of this title which relates to the normal and regular business of the organization may be mailed without regard to the provisions of this paragraph.
+(B) Any mass mailing which is mailed by the chairman of any organization referred to in the last sentence of section 3215 of this title which relates to the normal and regular business of theorganization may be mailed without regard to the provisions of this paragraph.
 
 (C) No Member of the Senate may mail any mass mailing as franked mail if such mass mailing is postmarked fewer than 60 days immediately before the date of any primary election or general election (whether regular, special, or runoff) for any national, State or local office in which such Member is a candidate for election.
 
-(D) The Select Committee on Ethics of the Senate and the House Commission on Congressional Mailing Standards shall prescribe for their respective Houses rules and regulations, and shall take other action as the Committee orthe Commission considers necessary and proper for Members and Members-elect to comply with the provisions of this paragraph and applicable rules and regulations. The rules and regulations shall include provisions prescribing the time within which mailings shall be mailed at or delivered to any postal facility and the time when the mailings shall be deemed to have been mailed or delivered to comply with the provisions of this paragraph.
+(D) The Select Committee on Ethics of the Senate and the House Commission on Congressional Mailing Standards shall prescribe for their respective Houses rules and regulations, and shall take other action as the Committee or the Commission considers necessary and proper for Members and Members-elect to comply with the provisions of this paragraph and applicable rules and regulations. The rules and regulations shall include provisions prescribing the time within which mailings shall be mailed at or delivered to any postal facility and the time when the mailings shall be deemed to have been mailed or delivered to comply with the provisions of this paragraph.
 
 (E) As used in this section, the term “mass mailing” means, with respect to a session of Congress, any mailing of newsletters or other pieces of mail with substantially identical content (whether such mail is deposited singly or in bulk, or at the same time or different times), totaling more than 500 pieces in that session, except that such term does not include any mailing—
 
@@ -114,9 +114,13 @@
 
 (g) Notwithstanding any other provision of Federal, State, or local law, or any regulation thereunder, the equivalent amount of postage determined under section 3216 of this title on franked mail mailed under the frank of the Vice President or a Member of Congress, and the cost of preparing or printing such frankable matter for such mailing under the frank, shall not be considered as a contribution to, or an expenditure by, the Vice President or a Member of Congress for the purpose of determining any limitation on expenditures or contributions with respect to any such official, imposed by any Federal, State, or local law or regulation, in connection with any campaign of such official for election to any Federal office.
 
-(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 754; Pub. L. 92–51, §101, July 9, 1971, 85 Stat. 132; Pub. L. 93–191, §1(a), Dec. 18, 1973, 87 Stat. 737; Pub. L. 94–177, Dec. 23, 1975, 89 Stat. 1032; Pub. L. 95–521, title VII, §714(a), Oct. 26, 1978, 92 Stat. 1884; Pub. L. 97–69, §§1–3(a), 4, Oct. 26, 1981, 95 Stat. 1041–1043; Pub. L. 97–263, §1(1), (2), Sept. 24, 1982, 96 Stat. 1132; Pub. L. 101–163, title III, §318, Nov. 21, 1989, 103 Stat. 1067; Pub. L. 101–520, title III, §§311(h)(1), 316, Nov. 5, 1990, 104 Stat. 2280, 2283; Pub. L. 102–392, title III, §309(a), Oct. 6, 1992, 106 Stat. 1722.)
+(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 754; Pub. L. 92–51, §101, July 9, 1971, 85 Stat. 132; Pub. L. 93–191, §1(a), Dec. 18, 1973, 87 Stat. 737; Pub. L. 94–177, Dec. 23, 1975, 89 Stat. 1032; Pub. L. 95–521, title VII, §714(a), Oct. 26, 1978, 92 Stat. 1884; Pub. L. 97–69, §§1–3(a), 4, Oct. 26, 1981, 95 Stat. 1041–1043; Pub. L. 97–263, §1(1), (2), Sept. 24, 1982, 96 Stat. 1132; Pub. L. 101–163, title III, §318, Nov. 21, 1989, 103 Stat. 1067; Pub. L. 101–520, title III, §§311(h)(1), 316, Nov. 5, 1990, 104 Stat. 2280, 2283; Pub. L. 102–392, title III, §309(a), Oct. 6, 1992, 106 Stat. 1722; Pub. L. 104–197, title I, §102(a), Sept. 16, 1996, 110 Stat. 2401.)
 
 #### Amendments
+
+1996—Subsec. (a)(6)(A)(i). Pub. L. 104–197, §102(a)(1), inserted “(or, in the case of a Member of the House, fewer than 90 days)” after “60 days”.
+
+Subsec. (a)(6)(A)(ii)(II). Pub. L. 104–197, §102(a)(2), substituted “90 days” for “60 days”.
 
 1992—Subsec. (a)(7). Pub. L. 102–392, §309(a)(1), substituted “from which the Member was elected” for “of the Member, except that—
 
@@ -156,7 +160,7 @@ Subsecs. (f), (g). Pub. L. 97–69, §4(b), added subsec. (f) and redesignated f
 
 1978—Subsec. (b)(1), (2). Pub. L. 95–521 inserted reference to Senate Legal Counsel.
 
-1975—Subsec. (b)(1). Pub. L. 94–177, §1(a), struck out “and” before “each of the elected officers”, and “until the 1st day of April following the expiration of their respective terms of office” after “(other than a Member of the House)”.
+1975—Subsec. (b)(1). Pub. L. 94–177, §1(a), struck out “and” before “each of the elected officers”, and “untilthe 1st day of April following the expiration of their respective terms of office” after “(other than a Member of the House)”.
 
 Subsec. (b)(3). Pub. L. 94–177, §1(b), added par. (3).
 
@@ -169,6 +173,10 @@ Subsec. (b)(2). Pub. L. 93–191 incorporated former second sentence in provisio
 Subsecs. (c) to (f). Pub. L. 93–191 added subsecs. (c) to (f).
 
 1971—Pub. L. 92–51 inserted reference to Legislative Counsel of House of Representatives.
+
+#### Effective Date of 1996 Amendment
+
+Section 102(b) of Pub. L. 104–197 provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect on October 1, 1996, and shall apply with respect to any mailing postmarked on or after that date.”
 
 #### Effective Date of 1992 Amendment
 
@@ -242,5 +250,5 @@ Section 316(a), formerly section 316(a), (b), of Pub. L. 101–163, as renumbere
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3201, 3212, 3219 of this title; title 2 sections 31b–4, 59e, 59g, 282d, 501, 502; title 44 section 907.
+This section is referred to in sections 3201, 3212, 3219 of this title; title 2 sections 31b–4, 59e, 59g, 59h, 282d, 501, 502; title 44 section 907.
 

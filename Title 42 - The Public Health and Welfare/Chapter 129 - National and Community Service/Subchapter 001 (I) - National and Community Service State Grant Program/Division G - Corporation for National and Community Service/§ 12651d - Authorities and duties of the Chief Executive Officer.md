@@ -56,7 +56,7 @@ In addition to the duties conferred on the Chief Executive Officer under any oth
 
 &emsp;(10) provide for studies (including the evaluations described in subsection (f) of this section) and demonstrations that evaluate, and prepare and submit to the Board by June 30, 1995, a report containing recommendations regarding, issues related to—
 
-&emsp;&emsp;(A) the administration and organization of programs authorized under the national service laws or under Public Law 91–378 \[16 U.S.C. 1701 et seq.\] (referred to in this subparagraph as “service programs”), including—
+&emsp;&emsp;(A) the administration and organization of programs authorized under the nationalservice laws or under Public Law 91–378 \[16 U.S.C. 1701 et seq.\] (referred to in this subparagraph as “service programs”), including—
 
 &emsp;&emsp;&emsp;(i) whether the State and national priorities designed to meet the unmet human, education, environmental, or public safety needs described in section 12572(c)(1) of this title are being addressed by this chapter;
 

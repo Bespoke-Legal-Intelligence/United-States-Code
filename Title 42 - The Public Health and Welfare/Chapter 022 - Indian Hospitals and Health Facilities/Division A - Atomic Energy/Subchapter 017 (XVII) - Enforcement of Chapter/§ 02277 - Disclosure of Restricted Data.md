@@ -12,7 +12,7 @@ Atomic Energy Commission abolished and functions transferred by sections 5814 an
 
 Conspiracy to commit offense, see section 371 of Title 18, Crimes and Criminal Procedure.
 
-Wire or oral communications, authorization for interception, to provide evidence of offenses punishable by death or by imprisonment for more than one year under sections 2274 to 2277 of this title, see section 2516 of Title 18.
+Wire or oral communications, authorization for interception, to provide evidence of offenses punishableby death or by imprisonment for more than one year under sections 2274 to 2277 of this title, see section 2516 of Title 18.
 
 #### Section Referred to in Other Sections
 

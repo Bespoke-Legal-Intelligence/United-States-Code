@@ -44,5 +44,5 @@ For the purposes of this section, publication shall include, at a minimum, publi
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 9611, 9613, 9620 of this title; title 10 section 2705.
+This section is referred to in sections 9611, 9613, 9620 of this title.
 

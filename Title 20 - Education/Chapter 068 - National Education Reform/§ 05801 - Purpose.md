@@ -12,11 +12,9 @@ The purpose of this chapter is to provide a framework for meeting the National E
 
 &emsp;&emsp;(A) building a broad national consensus on American education reform;
 
-&emsp;&emsp;(B) assisting in the development and certification of high-quality, internationally competitive content and student performance standards;
+&emsp;&emsp;(B) assisting in the development and certification of high-quality, internationally competitive content and student performance standards; and
 
-&emsp;&emsp;(C) assisting in the development and certification of opportunity-to-learn standards; and
-
-&emsp;&emsp;(D) assisting in the development and certification of high-quality assessment measures that reflect the internationally competitive content and student performance standards;
+&emsp;&emsp;(C) assisting in the development and certification of high-quality assessment measures that reflect the internationally competitive content and student performance standards;
 
 &emsp;(5) supporting new initiatives at the Federal, State, local, and school levels to provide equal educational opportunity for all students to meet high academic and occupational skill standards and to succeed in the world of employment and civic participation;
 
@@ -26,23 +24,27 @@ The purpose of this chapter is to provide a framework for meeting the National E
 
 &emsp;&emsp;(B) providing for the establishment of high-quality, internationally competitive content and student performance standards and strategies that all students will be expected to achieve;
 
-&emsp;&emsp;(C) providing for the establishment of high-quality, internationally competitive opportunity-to-learn standards that all States, local educational agencies, and schools should achieve;
+&emsp;&emsp;(C) encouraging and enabling all State educational agencies and local educational agencies to develop comprehensive improvement plans that will provide a coherent framework for the implementation of reauthorized Federal education and related programs in an integrated fashion that effectively educates all children to prepare them to participate fully as workers, parents, and citizens;
 
-&emsp;&emsp;(D) encouraging and enabling all State educational agencies and local educational agencies to develop comprehensive improvement plans that will provide a coherent framework for the implementation of reauthorized Federal education and related programs in an integrated fashion that effectively educates all children to prepare them to participate fully as workers, parents, and citizens;
+&emsp;&emsp;(D) providing resources to help individual schools, including those serving students with high needs, develop and implement comprehensive improvement plans; and
 
-&emsp;&emsp;(E) providing resources to help individual schools, including those serving students with high needs, develop and implement comprehensive improvement plans; and
-
-&emsp;&emsp;(F) promoting the use of technology to enable all students to achieve the National Education Goals;
+&emsp;&emsp;(E) promoting the use of technology to enable all students to achieve the National Education Goals;
 
 &emsp;(7) stimulating the development and adoption of a voluntary national system of skill standards and certification to serve as a cornerstone of the national strategy to enhance workforce skills; and
 
 &emsp;(8) assisting every elementary and secondary school that receives funds under this chapter to actively involve parents and families in supporting the academic work of their children at home and in providing parents with skills to advocate for their children at school.
 
-(Pub. L. 103–227, §2, Mar. 31, 1994, 108 Stat. 128.)
+(Pub. L. 103–227, §2, Mar. 31, 1994, 108 Stat. 128; Pub. L. 104–134, title I, §101(d) \[title VII, §703(a)(2)\], Apr. 26, 1996, 110 Stat. 1321–211, 1321–252; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.)
 
 #### References in Text
 
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 103–227, Mar. 31, 1994, 108 Stat. 125, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note below and Tables.
+
+#### Amendments
+
+1996—Par. (4)(B) to (D). Pub. L. 104–134, §101(d) \[title VII, §703(a)(2)(A)\], inserted “and” at end of subpar. (B), redesignated subpar. (D) as (C), and struck out former subpar. (C) which read as follows: “assisting in the development and certification of opportunity-to-learn standards; and”.
+
+Par. (6)(C) to (F). Pub. L. 104–134, §101(d) \[title VII, §703(a)(2)(B)\], redesignated subpars. (D) to (F) as (C) to (E), respectively, and struck out former subpar. (C) which read as follows: “providing for the establishment of high-quality, internationally competitive opportunity-to-learn standards that all States, local educational agencies, and schools should achieve;”.
 
 #### Short Title
 

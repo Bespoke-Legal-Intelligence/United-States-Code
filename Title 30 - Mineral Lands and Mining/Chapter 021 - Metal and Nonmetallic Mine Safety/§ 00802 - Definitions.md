@@ -48,7 +48,7 @@ Par. (h). Pub. L. 95–164, §102(b)(3), added subpar. (1), designated existing 
 
 Par. (j). Pub. L. 95–164, §102(b)(4), inserted “or other” after “coal”.
 
-Pars. (n), (<i>o</i>). Pub. L. 95–164, §102(b)(5), added pars. (n) and (<i>o).</i>
+Pars. (n), (<i>o</i>). Pub. L. 95–164, §102(b)(5), added pars. (n) and (<i>o</i>).
 
 #### Effective Date of 1977 Amendment
 

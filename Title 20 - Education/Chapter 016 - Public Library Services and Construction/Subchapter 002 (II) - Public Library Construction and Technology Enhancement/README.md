@@ -1,21 +1,8 @@
 ### SUBCHAPTER II—PUBLIC LIBRARY CONSTRUCTION AND TECHNOLOGY ENHANCEMENT
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 351b, 351c, 351d, 351f, 361 of this title; title 42 section 3338.
-
 
 ---
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 00355a - Grants to States for public library construction and library and information technology enhancement](%C2%A7%2000355a%20-%20Grants%20to%20States%20for%20public%20library%20construction%20and%20library%20and%20information%20technology%20enhancement.md)
-- [&sect; 00355b - Federal share](%C2%A7%2000355b%20-%20Federal%20share.md)
-- [&sect; 00355c - Annual State program for construction and technology enhancement of public libraries; submission; contents](%C2%A7%2000355c%20-%20Annual%20State%20program%20for%20construction%20and%20technology%20enhancement%20of%20public%20libraries%3B%20submission%3B%20contents.md)
-- [&sect; 00355d - Omitted](%C2%A7%2000355d%20-%20Omitted.md)
-- [&sect; 00355e - Grants to States for interlibrary cooperation and resource sharing](%C2%A7%2000355e%20-%20Grants%20to%20States%20for%20interlibrary%20cooperation%20and%20resource%20sharing.md)
-- [&sect; 00355e&#8211;1 - Federal share](%C2%A7%2000355e%E2%80%931%20-%20Federal%20share.md)
-- [&sect; 00355e&#8211;2 - Annual State program for interlibrary cooperation; submission; contents](%C2%A7%2000355e%E2%80%932%20-%20Annual%20State%20program%20for%20interlibrary%20cooperation%3B%20submission%3B%20contents.md)
-- [&sect; 00355e&#8211;3 - Resource sharing](%C2%A7%2000355e%E2%80%933%20-%20Resource%20sharing.md)
-- [&sect; 00355e&#8211;4 - Preservation programs](%C2%A7%2000355e%E2%80%934%20-%20Preservation%20programs.md)
-- [&sect; 00355f to 358 - Omitted](%C2%A7%2000355f%20to%20358%20-%20Omitted.md)
+- [&sect; 00355a to 355c - Repealed. Pub. L. 104&#8211;208, div. A, title I, &sect;101(e) \[title VII, &sect;708(a)\], Sept. 30, 1996, 110 Stat. 3009&#8211;233, 3009&#8211;312](%C2%A7%2000355a%20to%20355c%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93208%2C%20div.%20A%2C%20title%20I%2C%20%C2%A7101%28e%29%20%5Btitle%20VII%2C%20%C2%A7708%28a%29%5D%2C%20Sept.%2030%2C%201996%2C%20110%20Stat.%203009%E2%80%93233%2C%203009%E2%80%93312.md)

@@ -20,7 +20,7 @@ This chapter, referred to in text, was in the original “this Act”, meaning a
 
 #### Amendments
 
-1986—Subsec. (a). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+1986—Subsec. (a). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
 1984—Pub. L. 98–454 amended section generally, designating existing provisions as subsec. (a), substituted provisions that District Court would have all jurisdiction of a district court of the United States, including diversity jurisdiction and bankruptcy jurisdiction as well as civil and criminal matters regarding the income tax laws applicable to the Virgin Islands for former provisions conferring general jurisdiction on the court and providing for the transfer of cases, repealed section 336 of Pub. L. 95–598, which had amended this section, and added subsecs. (b) and (c).
 

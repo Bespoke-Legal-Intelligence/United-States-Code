@@ -20,7 +20,7 @@
 | [111\.](%C2%A7%2000111%20-%20Same%3B%20taxation%20affecting%20Federal%20employees%3B%20income%20tax.md) | Same; taxation affecting Federal employees; income tax. |
 | [112\.](%C2%A7%2000112%20-%20Compacts%20between%20States%20for%20cooperation%20in%20prevention%20of%20crime%3B%20consent%20of%20Congress.md) | Compacts between States for cooperation in prevention of crime; consent of Congress. |
 | [113\.](%C2%A7%2000113%20-%20Residence%20of%20Members%20of%20Congress%20for%20State%20income%20tax%20laws.md) | Residence of Members of Congress for State income tax laws. |
-| [114\.](%C2%A7%2000114%20-%20Limitation%20on%20State%20income%20taxation%20of%20certain%20pension%20income.md) | Limitation on State income taxation of certain pension income <sup>1</sup> |
+| [114\.](%C2%A7%2000114%20-%20Limitation%20on%20State%20income%20taxation%20of%20certain%20pension%20income.md) | Limitation on State income taxation of certain pension income <sup>2</sup> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -42,7 +42,7 @@ Consent of United States to other States to assume jurisdiction with respect to 
 
 <i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
 
-<i><sup>1</sup></i><i> So in original. Probably should be followed by a period.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be followed by a period.</i>
 
 
 ---

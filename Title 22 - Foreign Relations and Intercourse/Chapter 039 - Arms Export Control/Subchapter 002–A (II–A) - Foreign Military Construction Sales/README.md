@@ -1,7 +1,5 @@
 ### SUBCHAPTER II–A—FOREIGN MILITARY CONSTRUCTION SALES
 
-<i><sup>1</sup></i><i> So in original.</i>
-
 
 ---
 

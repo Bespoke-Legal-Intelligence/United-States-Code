@@ -2,7 +2,7 @@
 
 #### (a) Hearings and Presidential recommendation
 
-(1) The Secretary shall hold public hearings in the vicinity of the Yucca Mountain site, for the purposes of informing the residents of the area of such consideration and receiving their comments regarding the possible recommendation ofsuch site. If, upon completion of such hearings and completion of site characterization activities at the Yucca Mountain site, under section 10133 of this title, the Secretary decides to recommend approval of such site to the President, the Secretary shall notify the Governor and legislature of the State of Nevada, of such decision. No sooner than the expiration of the 30-day period following such notification, the Secretary shall submit to the President a recommendation that the President approve such site for the development of a repository. Any such recommendation by the Secretary shall be based on the record of information developed by the Secretary under section 10133 of this title and this section, including the information described in subparagraph (A) through subparagraph (G). Together with any recommendation of a site under this paragraph, the Secretary shall make available to the public, and submit to the President, a comprehensive statement of the basis of such recommendation, including the following:
+(1) The Secretary shall hold public hearings in the vicinity of the Yucca Mountain site, for the purposes of informing the residents of the area of such consideration and receiving their comments regarding the possible recommendation of such site. If, upon completion of such hearings and completion of site characterization activities at the Yucca Mountain site, under section 10133 of this title, the Secretary decides to recommend approval of such site to the President, the Secretary shall notify the Governor and legislature of the State of Nevada, of such decision. No sooner than the expiration of the 30-day period following such notification, the Secretary shall submit to the President a recommendation that the President approve such site for the development of a repository. Any such recommendation by the Secretary shall be based on the record of information developed by the Secretary under section 10133 of this title and this section, including the information described in subparagraph (A) through subparagraph (G). Together with any recommendation of a site under this paragraph, the Secretary shall make available to the public, and submit to the President, a comprehensive statement of the basis of such recommendation, including the following:
 
 &emsp;(A) a description of the proposed repository, including preliminary engineering specifications for the facility;
 
@@ -70,7 +70,7 @@ The Commission shall consider an application for a construction authorization fo
 
 #### References in Text
 
-The National Environmental Policy Act of 1969, referred to in subsecs. (a)(1)(D) and (f), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of this title and Tables.
+The National Environmental Policy Act of 1969, referred to in subsecs. (a)(1)(D) and (f), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of this title. Forcomplete classification of this Act to the Code, see Short Title note set out under section 4321 of this title and Tables.
 
 The Atomic Energy Act of 1954, referred to in subsec. (f)(4), is act Aug. 30, 1954, ch. 1073, 68 Stat. 921, as amended, which is classified generally to chapter 23 (§2011 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of this title and Tables.
 
@@ -95,6 +95,18 @@ Subsec. (d). Pub. L. 100–202 and Pub. L. 100–203, §5011(j), amended subsec.
 Subsec. (e)(1). Pub. L. 100–202 and Pub. L. 100–203, §5011(k), amended par. (1) identically, substituting “operation of the repository” for “operation of the repository involved”.
 
 Subsec. (f). Pub. L. 100–202 and Pub. L. 100–203, §5011(<i>l</i>), generally amended subsec. (f) identically, substituting provisions consisting of pars. (1) to (6) for former provisions consisting of single unnumbered par.
+
+#### Viability Assessment of Yucca Mountain Site
+
+Pub. L. 104–206, title III, Sept. 30, 1996, 110 Stat. 2995, provided in part: “That no later than September 30, 1998, the Secretary shall provide to the President and to the Congress a viability assessment of the Yucca Mountain site. The viability assessment shall include:
+
+&emsp;“(1) the preliminary design concept for the critical elements for the repository and waste package;
+
+&emsp;“(2) a total system performance assessment, based upon the design concept and the scientific data and analysis available by September 30, 1998, describing the probable behavior of the repository in the Yucca Mountain geological setting relative to the overall system performance standards;
+
+&emsp;“(3) a plan and cost estimate for the remaining work required to complete a license application; and
+
+&emsp;“(4) an estimate of the costs to construct and operate the repository in accordance with the design concept.”
 
 #### Section Referred to in Other Sections
 

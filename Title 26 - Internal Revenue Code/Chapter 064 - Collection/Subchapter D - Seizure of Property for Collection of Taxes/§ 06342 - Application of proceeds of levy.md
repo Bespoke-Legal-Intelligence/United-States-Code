@@ -44,7 +44,7 @@ Deposit fund account containing surplus proceeds in sales under levy, see sectio
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 6207 of this title; title 18 section 3613.
+This section is referred to in section 6207 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

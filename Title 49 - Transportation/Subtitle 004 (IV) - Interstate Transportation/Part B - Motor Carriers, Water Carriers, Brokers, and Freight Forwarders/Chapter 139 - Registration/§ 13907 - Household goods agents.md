@@ -58,23 +58,35 @@ Definitions.—In this section, the following definitions apply:
 
 &emsp;(1)
 
-Household goods.—The term “household goods” has the meaning such term had under section 10102(11) of this title, as in effect on the day before the effective date of this section.
+Household goods.—The term “household goods” has the meaning such term had under section 10102(11) of this title, as in effect on December 31, 1995.
 
 &emsp;(2)
 
-Transportation.—The term “transportation” means transportation that would be subject to the jurisdiction of the Interstate Commerce Commission under subchapter II of chapter 105 of this title, as in effect on the day before such effective date, if such subchapter were still in effect.
+Transportation.—The term “transportation” means transportation that would be subject to the jurisdiction of the Interstate Commerce Commission under subchapter II of chapter 105 of this title, as in effect on December 31, 1995, if such subchapter were still in effect.
 
-(Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 887.)
+(Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 887; amended Pub. L. 104–287, §5(35), Oct. 11, 1996, 110 Stat. 3392.)
+
+#### Historical and Revision Notes
+
+I74Pub. L. 104–287
+
+This amends 49:13907(e)(1) and (2) for clarity and consistency.
 
 #### References in Text
 
-Section 10102(11) of this title, as in effect on the day before the effective date of this section, referred to in subsec. (e)(1), means section 10102(11) of this title as in effect on the day before Jan. 1, 1996. Section 10102 was omitted and a new section 10102 enacted in the general amendment of this subtitle by Pub. L. 104–88, title I, §102(a), Dec. 29, 1995, 109 Stat. 804, 806, effective Jan. 1, 1996.
+Section 10102(11) of this title, referred to in subsec. (e)(1), was omitted and a new section 10102 enacted in the general amendment of this subtitle by Pub. L. 104–88, title I, §102(a), Dec. 29, 1995, 109 Stat. 804, 806, effective Jan. 1, 1996.
 
-Subchapter II of chapter 105 of this title, as in effect on the day before the effective date of this section, referred to in subsec. (e)(2), means subchapter II (§10521 et seq.) of chapter 105 of this title as in effect on the day before Jan. 1, 1996. That subchapter was omitted in the general amendment of this subtitle by Pub. L. 104–88, title I, §102(a), Dec. 29, 1995, 109 Stat. 804, effective Jan. 1, 1996.
+Subchapter II of chapter 105 of this title, referred to in subsec. (e)(2), was omitted in the general amendment of this subtitle by Pub. L. 104–88, title I, §102(a), Dec. 29, 1995, 109 Stat. 804, effective Jan. 1, 1996.
 
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in section 10934 of this title prior to the general amendment of this subtitle by Pub. L. 104–88, §102(a).
+
+#### Amendments
+
+1996—Subsec. (e)(1). Pub. L. 104–287, §5(35)(A), substituted “December 31, 1995” for “the day before the effective date of this section”.
+
+Subsec. (e)(2). Pub. L. 104–287, §5(35)(B), substituted “December 31, 1995” for “the day before such effective date”.
 
 #### Abolition of Interstate Commerce Commission
 

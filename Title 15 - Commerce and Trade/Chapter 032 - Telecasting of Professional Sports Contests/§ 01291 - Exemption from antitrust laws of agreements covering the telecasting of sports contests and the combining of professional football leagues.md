@@ -16,7 +16,7 @@ The Federal Trade Commission Act, referred to in text, is act Sept. 26, 1914, ch
 
 #### Savings Provision
 
-Section 6 of Pub. L. 87–331 provided that: “Nothing in this Act \[this chapter\] shall affect any cause of actionexisting on the effective date hereof \[Sept. 30, 1961\] in respect to the organized professional team sports of baseball, football, basketball, or hockey.”
+Section 6 of Pub. L. 87–331 provided that: “Nothing in this Act \[this chapter\] shall affect any cause of action existing on the effective date hereof \[Sept. 30, 1961\] in respect to the organized professional team sports of baseball, football, basketball, or hockey.”
 
 #### Cross References
 

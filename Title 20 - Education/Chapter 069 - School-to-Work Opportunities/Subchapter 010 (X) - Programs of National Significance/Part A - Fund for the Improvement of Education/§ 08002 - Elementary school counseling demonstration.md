@@ -40,7 +40,7 @@
 
 &emsp;&emsp;(A) describe the elementary school population to be targeted by the program, the particular personal, social, emotional, educational, and career development needs of such population, and the current school counseling resources available for meeting such needs;
 
-&emsp;&emsp;(B) describe the activities, services, and training to be provided by the program and the specific approaches to be used to meet the needs described in subparagraph (A);
+&emsp;&emsp;(B) describe the activities, services, and training to be provided by the program andthe specific approaches to be used to meet the needs described in subparagraph (A);
 
 &emsp;&emsp;(C) describe the methods to be used to evaluate the outcomes and effectiveness of the program;
 

@@ -68,7 +68,7 @@ Another prior section 1134i, Pub. L. 89–329, title IX, §922, as added Pub. L.
 
 Subsec. (c). Pub. L. 103–208, §2(j)(35), substituted “graduate program” for “doctoral program”.
 
-1992—Pub. L. 102–325 amended section generally, in subsec. (a), inserting par. headings, in par. (1), substituting provisions relating to 9 members for provisions relating to not less than 9 and not more than 15 members prior to July 31, 1987, 13 members prior to Aug. 1, 1989, 11 members prior to Aug. 1, 1991, and 9 members after July 31, 1991, and in par. (7), substitutingprovisions relating to level IV of Executive Schedule for provisions relating to section 5332 of title 5 and in subsec. (b), substituting “Board” for “Fellowship Board” after “appointed by the” and after “year by the”.
+1992—Pub. L. 102–325 amended section generally, in subsec. (a), inserting par. headings, in par. (1), substituting provisions relating to 9 members for provisions relating to not less than 9 and not more than 15 members prior to July 31, 1987, 13 members prior to Aug. 1, 1989, 11 members prior to Aug. 1, 1991, and 9 members after July 31, 1991, and in par. (7), substituting provisions relating to level IV of Executive Schedule for provisions relating to section 5332 of title 5 and in subsec. (b), substituting “Board” for “Fellowship Board” after “appointed by the” and after “year by the”.
 
 1987—Subsec. (a)(1). Pub. L. 100–50, §20(2), substituted “Jacob K. Javits” for “National Graduate”.
 

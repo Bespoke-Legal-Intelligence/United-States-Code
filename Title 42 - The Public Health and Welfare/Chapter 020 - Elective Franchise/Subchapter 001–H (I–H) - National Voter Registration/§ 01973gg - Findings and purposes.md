@@ -44,3 +44,9 @@ Section 13 of Pub. L. 103–31 provided that: “This Act \[see Short Title note
 
 Section 1 of Pub. L. 103–31 provided that: “This Act \[enacting this subchapter and section 3629 of Title 39,Postal Service, and amending sections 2401 and 3627 of Title 39\] may be cited as the ‘National Voter Registration Act of 1993’.”
 
+#### Proof of Citizenship
+
+Pub. L. 104–132, title IX, §902, Apr. 24, 1996, 110 Stat. 1317, provided that: “Notwithstanding any other provision of law, a Federal, State, or local government agency may not use a voter registration card (or other related document) that evidences registration for an election for Federal office, as evidence to prove United States citizenship.”
+
+Similar provisions were contained in section 117 of H.R. 2076, One Hundred Fourth Congress, as passed by the House of Representatives on Dec. 6, 1995, and as enacted into law by Pub. L. 104–91, title I, §101(a), Jan. 6, 1996, 110 Stat. 11, as amended by Pub. L. 104–99, title II, §211, Jan. 26, 1996, 110 Stat. 37.
+

@@ -6,7 +6,9 @@ This subchapter is not effective after the last day the Secretary of Labor must 
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

@@ -26,5 +26,5 @@ For effective date and applicability of section, see section 10001 of Pub. L. 10
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 252a of this title; title 10 section 2302a.
+This section is referred to in section 252a of this title; title 10 sections 2302a, 2534.
 

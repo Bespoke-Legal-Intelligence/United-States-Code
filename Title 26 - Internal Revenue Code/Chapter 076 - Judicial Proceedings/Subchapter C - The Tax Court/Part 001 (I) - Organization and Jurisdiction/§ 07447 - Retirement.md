@@ -34,23 +34,23 @@ For purposes of this section—
 
 &emsp;&emsp;65
 
-15&nbsp;&nbsp;&nbsp;
+15&nbsp;&nbsp;&nbsp;&nbsp;
 
 &emsp;&emsp;66
 
-14&nbsp;&nbsp;&nbsp;
+14&nbsp;&nbsp;&nbsp;&nbsp;
 
 &emsp;&emsp;67
 
-13&nbsp;&nbsp;&nbsp;
+13&nbsp;&nbsp;&nbsp;&nbsp;
 
 &emsp;&emsp;68
 
-12&nbsp;&nbsp;&nbsp;
+12&nbsp;&nbsp;&nbsp;&nbsp;
 
 &emsp;&emsp;69
 
-11&nbsp;&nbsp;&nbsp;
+11&nbsp;&nbsp;&nbsp;&nbsp;
 
 &emsp;&emsp;70
 
@@ -188,7 +188,7 @@ In the case of an individual for whom an election to receive retired pay under s
 
 &emsp;&emsp;&emsp;(ii) section 7448(g) shall not apply, and the amount credited to such individual's account (together with interest at 4 percent per annum to December 31, 1947, and 3 percent per annum thereafter, compounded on December 31 of each year to the date on which the revocation is filed) shall be returned to such individual,
 
-&emsp;&emsp;(C) no credit shall be allowed for any service as a judge of the Tax Court unless with respect to such service either there has been deducted and withheld the amount requiredby the civil service retirement laws or there has been deposited in the Civil Service Retirement and Disability Fund an amount equal to the amount so required, with interest,
+&emsp;&emsp;(C) no credit shall be allowed for any service as a judge of the Tax Court unless with respect to such service either there has been deducted and withheld the amount required by the civil service retirement laws or there has been deposited in the Civil Service Retirement and Disability Fund an amount equal to the amount so required, with interest,
 
 &emsp;&emsp;(D) the Tax Court shall deposit in the Civil Service Retirement and Disability Fund an amount equal to the additional amount it would have contributed to such Fund but for the election under subsection (e), and
 
@@ -206,7 +206,7 @@ The Civil Service Retirement and Disability Fund, referred to in subsecs. (g)(2)
 
 1988—Subsec. (d). Pub. L. 100–647 inserted at end “In computing the rate of the retired pay under paragraph (1) of this subsection for any individual who is entitled thereto, any period during which such individual performs services under subsection (c) on a substantially full-time basis shall be treated as a period during which he has served as a judge.”
 
-1986—Subsec. (a)(2), (3), (5). Pub. L. 99–514, §1557(d)(1), redesignated pars. (3) and (5) as (2) and (3), respectively, and struck out former par. (2) which read as follows: “The term ‘Civil Service Commission’ means the United States Civil Service Commission.”
+1986—Subsec. (a)(2), (3), (5). Pub. L. 99–514, §1557(d)(1), redesignated pars. (3) and (5) as (2) and (3), respectively, and struck out former par. (2) which read as follows:“The term ‘Civil Service Commission’ means the United States Civil Service Commission.”
 
 Subsec. (b)(2). Pub. L. 99–514, §1557(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Any judge who has attained the age of 65 may retire any time after serving as judge for 15 years or more.”
 
@@ -252,7 +252,7 @@ Subsec. (h). Pub. L. 91–172, §954(d), added subsec. (h).
 
 #### Effective Date of 1988 Amendment
 
-Section 1015(k)(2) of Pub. L. 100–647 provided that: “The amendment made by paragraph (1) \[amending thissection\] shall apply for purposes of determining the amount of retired pay for months beginning after the date of the enactment of this Act \[Nov. 10, 1988\] regardless of when the services under section 7447(c) of the 1986 Code were performed.”
+Section 1015(k)(2) of Pub. L. 100–647 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply for purposes of determining the amount of retired pay for months beginning after the date of the enactment of this Act \[Nov. 10, 1988\] regardless of when the services under section 7447(c) of the 1986 Code were performed.”
 
 #### Effective Date of 1986 Amendment
 

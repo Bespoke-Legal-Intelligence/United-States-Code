@@ -34,7 +34,7 @@ The Secretary shall, after notice and opportunity for a hearing, cause to be red
 
 A debt which is a loan insured under the authority of this subpart may be released by a discharge in bankruptcy under any chapter of title 11, only if such discharge is granted—
 
-&emsp;(1) after the expiration of the seven-year period beginning on the first date when repayment of such loan is required, exclusive of any period after such date in which the obligation to pay installments on the loan is suspended;
+&emsp;(1) after the expiration of the seven-year period beginning on the first date when repayment of such loan is required, exclusive of anyperiod after such date in which the obligation to pay installments on the loan is suspended;
 
 &emsp;(2) upon a finding by the Bankruptcy Court that the nondischarge of such debt would be unconscionable; and
 
@@ -70,7 +70,7 @@ Notwithstanding any other provision of Federal or State law, there shall be no l
 
 #### (j) School collection assistance
 
-An institution or postgraduate training program attended by a borrower may assist in the collection of any loan of that borrower made under this subpart which becomes delinquent, including providing information concerning the borrower to the Secretary and to past andpresent lenders and holders of the borrower's loans, contacting the borrower in order to encourage repayment, and withholding services in accordance with regulations issued by the Secretary under section 292n(a)(7) of this title. The institution or postgraduate training program shall not be subject to section 1692g of title 15 for purposes of carrying out activities authorized by this section.
+An institution or postgraduate training program attended by a borrower may assist in the collection of any loan of that borrower made under this subpart which becomes delinquent, including providing information concerning the borrower to the Secretary and to past and present lenders and holders of the borrower's loans, contacting the borrower in order to encourage repayment, and withholding services in accordance with regulations issued by the Secretary under section 292n(a)(7) of this title. The institution or postgraduate training program shall not be subject to section 1692g of title 15 for purposes of carrying out activities authorized by this section.
 
 (July 1, 1944, ch. 373, title VII, §707, as added Oct. 13, 1992, Pub. L. 102–408, title I, §102, 106 Stat. 2002; amended June 10, 1993, Pub. L. 103–43, title XX, §2014(a)(2), 107 Stat. 215.)
 

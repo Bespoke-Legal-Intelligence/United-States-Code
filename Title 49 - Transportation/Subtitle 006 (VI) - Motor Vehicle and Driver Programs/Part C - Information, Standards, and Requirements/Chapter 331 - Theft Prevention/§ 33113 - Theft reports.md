@@ -10,7 +10,7 @@ Truck, Multipurpose Passenger Vehicle, and Motorcycle Report.—Not later than O
 
 &emsp;(3) a description of the market for the stolen parts;
 
-&emsp;(4) information on the premiums charged by insurers of comprehensive coverage of trucks,multipurpose passenger vehicles, or motorcycles, including any increase in the premiums charged because any of those motor vehicles is a likely candidate for theft;
+&emsp;(4) information on the premiums charged by insurers of comprehensive coverage of trucks, multipurpose passenger vehicles, or motorcycles, including any increase in the premiums charged because any of those motor vehicles is a likely candidate for theft;
 
 &emsp;(5) an assessment of whether the identification of parts of trucks, multipurpose passenger vehicles, and motorcycles is likely—
 
@@ -114,7 +114,9 @@ Bases of Reports.—(1) The reports under subsections (a) and (b) of this sectio
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

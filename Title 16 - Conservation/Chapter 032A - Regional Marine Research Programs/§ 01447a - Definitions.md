@@ -4,7 +4,7 @@ As used in this chapter, the term—
 
 &emsp;(1) “Board” means any Regional Marine Research board <sup>1</sup> established pursuant to section 1447b(a) of this title;
 
-&emsp;(2) “Federal agency” means any department, agency, or other instrumentality of the Federal Government, including any independentagency or establishment of the Federal Government and any government corporation;
+&emsp;(2) “Federal agency” means any department, agency, or other instrumentality of the Federal Government, including any independent agency or establishment of the Federal Government and any government corporation;
 
 &emsp;(3) “local government” means any city, town, borough, county, parish, district, or other public body which is a political subdivision of a State and which is created pursuant to State law;
 

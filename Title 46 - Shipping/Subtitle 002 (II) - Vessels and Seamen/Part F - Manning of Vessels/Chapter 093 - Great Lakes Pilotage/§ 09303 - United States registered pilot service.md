@@ -4,7 +4,7 @@
 
 &emsp;(1) have a license as master, mate, or pilot issued under section 7101 of this title;
 
-&emsp;(2) have acquired at least 24 months licensed service or equivalent experience on vessels or integrated towing vessels and tows of at least 4,000 gross tons, operating on the Great Lakes or oceans, with a minimum of 6 months of thatservice or experience having been on the Great Lakes; and
+&emsp;(2) have acquired at least 24 months licensed service or equivalent experience on vessels or integrated towing vessels and tows of at least 4,000 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title, operating on the Great Lakes or oceans, with a minimum of 6 months of that service or experience having been on the Great Lakes; and
 
 &emsp;(3) agree that, if appointed as a United States registered pilot, the applicant will be available for service when required.
 
@@ -18,7 +18,7 @@
 
 (f) The Secretary shall prescribe by regulation rates and charges for pilotage services, giving consideration to the public interest and the costs of providing the services.
 
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 558.)
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 558; Pub. L. 104–324, title VII, §735, Oct. 19, 1996, 110 Stat. 3941.)
 
 Historical and Revision Notes
 
@@ -57,6 +57,10 @@ Subsection (c) authorizes the Secretary to prescribe the duration of the validit
 Subsection (e) provides for the suspension or revocation of a certificate or registration by the Secretary.
 
 Subsection (f) provides for setting the rates and charges for pilotage services.
+
+#### Amendments
+
+1996—Subsec. (a)(2). Pub. L. 104–324 inserted “as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title” after “4,000 gross tons”.
 
 #### Section Referred to in Other Sections
 

@@ -40,7 +40,9 @@ Civil Penalty.—(1) After notice and an opportunity for a hearing on the record
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

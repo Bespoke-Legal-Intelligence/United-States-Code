@@ -1,5 +1,9 @@
 Part D—Emergency Community Services Homeless Grant Program
 
+<i><sup>1</sup></i><i> So in original. Probably should be “sections”.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
+
 
 ---
 

@@ -19,8 +19,6 @@
 
 1965—Pub. L. 89–288, §5(b), Oct. 22, 1965, 79 Stat. 1050, added item 8036.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “Under Secretary of Defense (Comptroller)”.</i>
-
 
 ---
 

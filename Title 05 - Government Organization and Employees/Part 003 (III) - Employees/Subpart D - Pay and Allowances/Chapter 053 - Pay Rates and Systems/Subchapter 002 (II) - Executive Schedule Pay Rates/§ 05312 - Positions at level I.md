@@ -50,7 +50,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 5 U.S.C. 2211(a).
 
@@ -64,35 +66,35 @@ Paragraph designation for the position added by Pub. L. 96–88 has been omitted
 
 #### Amendments
 
-<b>1994</b>—Pub. L. 103–296 inserted item relating to Commissioner of Social Security, Social Security Administration.
+1994—Pub. L. 103–296 inserted item relating to Commissioner of Social Security, Social Security Administration.
 
-<b>1988</b>—Pub. L. 100–690, §§1003(a)(4)(A), 1009, temporarily inserted item relating to Director of National Drug Control Policy. See Effective and Termination Dates of 1988 Amendments note below.
+1988—Pub. L. 100–690, §§1003(a)(4)(A), 1009, temporarily inserted item relating to Director of National Drug Control Policy. See Effective and Termination Dates of 1988 Amendments note below.
 
 Pub. L. 100–679 inserted item relating to Director of Office of Management and Budget.
 
 Pub. L. 100–527 inserted item relating to Secretary of Veterans Affairs.
 
-<b>1986</b>—Pub. L. 99–260 struck out item relating to Special Assistant for Agricultural Trade and Food Aid.
+1986—Pub. L. 99–260 struck out item relating to Special Assistant for Agricultural Trade and Food Aid.
 
-<b>1985</b>—Pub. L. 99–198 inserted item relating to Special Assistant for Agricultural Trade and Food Aid.
+1985—Pub. L. 99–198 inserted item relating to Special Assistant for Agricultural Trade and Food Aid.
 
-<b>1983</b>—Pub. L. 97–456, §3(d)(5), substituted “United States Trade Representative” for “Special Representative for Trade Negotiations”.
+1983—Pub. L. 97–456, §3(d)(5), substituted “United States Trade Representative” for “Special Representative for Trade Negotiations”.
 
-<b>1979</b>—Pub. L. 96–88, §508(g), substituted “Health and Human Services” for “Health, Education, and Welfare” in item relating to the Secretary of Health and Human Services.
+1979—Pub. L. 96–88, §508(g), substituted “Health and Human Services” for “Health, Education, and Welfare” in item relating to the Secretary of Health and Human Services.
 
 Pars. (1) to (14). Pub. L. 96–54 struck out paragraph designations for positions listed herein.
 
 Par. (15). Pub. L. 96–88, §508(c), added par. (15) relating to Secretary of Education. See Codification note set out above.
 
-<b>1977</b>—Par. (14). Pub. L. 95–91 added par. (14) relating to Secretary of Energy.
+1977—Par. (14). Pub. L. 95–91 added par. (14) relating to Secretary of Energy.
 
-<b>1975</b>—Pub. L. 94–82 substituted provisions applying level I of Executive Schedule to positions for which annual rate of basic pay shall be rate determined with respect to such level under chapter 11 of title 2, as adjusted by section 5318 of this title for provisions applying such level I to positions for which annual rate of basic pay is $35,000.
+1975—Pub. L. 94–82 substituted provisions applying level I of Executive Schedule to positions for which annual rate of basic pay shall be rate determined with respect to such level under chapter 11 of title 2, as adjusted by section 5318 of this title for provisions applying such level I to positions for which annual rate of basic pay is $35,000.
 
 Par. (13). Pub. L. 93–618 added par. (13) relating to Special Representative for Trade Negotiations.
 
-<b>1970</b>—Par. (5). Pub. L. 91–375 struck out par. (5) relating to Postmaster General.
+1970—Par. (5). Pub. L. 91–375 struck out par. (5) relating to Postmaster General.
 
-<b>1966</b>—Pub. L. 89–670 added par. (11) relating to Secretary of Housing and Urban Development, and par. (12) relating to Secretary of Transportation.
+1966—Pub. L. 89–670 added par. (11) relating to Secretary of Housing and Urban Development, and par. (12) relating to Secretary of Transportation.
 
 #### Effective and Termination Dates of 1988 Amendments
 
@@ -122,59 +124,61 @@ Section 201 of title II of Pub. L. 94–82 provided that: “This title \[enacti
 
 #### Salary Increases
 
-<b>1996</b>—Salaries of positions at level I continued at $148,400 per annum by Ex. Ord. No. 12984, Dec. 28, 1995, 61 F.R. 237, set out as a note under section 5332 of this title.
+1997—Salaries of positions at level I continued at $148,400 per annum by Ex. Ord. No. 13033, Dec. 27, 1996, 61 F.R. 68987, set out as a note under section 5332 of this title.
 
-<b>1995</b>—Salaries of positions at level I continued at $148,400 per annum by Ex. Ord. No. 12944, Dec. 28, 1994, 60 F.R. 309.
+1996—Salaries of positions at level I continued at $148,400 per annum by Ex. Ord. No. 12984, Dec. 28, 1995, 61 F.R. 237.
 
-<b>1993</b>—Salaries of positions at level I increased to $148,400 per annum, effective on the first day of the first pay period beginning on or after Jan. 1, 1993, as provided by Ex. Ord. No. 12826, Dec. 30, 1992, 57 F.R. 62909.
+1995—Salaries of positions at level I continued at $148,400 per annum by Ex. Ord. No. 12944, Dec. 28, 1994, 60 F.R. 309.
 
-<b>1992</b>—Salaries of positions at level I increased to $143,800 per annum, effective on the first day of the first pay period beginning on or after Jan. 1, 1992, as provided by Ex. Ord. No. 12786, Dec. 26, 1991, 56 F.R. 67453.
+1993—Salaries of positions at level I increased to $148,400 per annum, effective on the first day of the first pay period beginning on or after Jan. 1, 1993, as provided by Ex. Ord. No. 12826, Dec. 30, 1992, 57 F.R. 62909.
 
-<b>1991</b>—Salaries of positions at level I increased to $138,900 per annum, effective on the first day of the first pay period beginning on or after Jan. 1, 1991, as provided by Ex. Ord. No. 12736, Dec. 12, 1990, 55 F.R. 51385.
+1992—Salaries of positions at level I increased to $143,800 per annum, effective on the first day of the first pay period beginning on or after Jan. 1, 1992, as provided by Ex. Ord. No. 12786, Dec. 26, 1991, 56 F.R. 67453.
 
-<b>1990</b>—Salaries of positions at level I continued at $99,500 per annum, and increased to $107,300 per annum, effective on the first day of the first pay period beginning on or after Jan. 31, 1990, as provided by Ex. Ord. No. 12698, Dec. 23, 1989, 54 F.R. 53473.
+1991—Salaries of positions at level I increased to $138,900 per annum, effective on the first day of the first pay period beginning on or after Jan. 1, 1991, as provided by Ex. Ord. No. 12736, Dec. 12, 1990, 55 F.R. 51385.
 
-<b>1989</b>—Salaries of positions at level I continued at $99,500 per annum, see Ex. Ord. No. 12663, Jan. 6, 1989, 54 F.R. 791.
+1990—Salaries of positions at level I continued at $99,500 per annum, and increased to $107,300 per annum, effective on the first day of the first pay period beginning on or after Jan. 31, 1990, as provided by Ex. Ord. No. 12698, Dec. 23, 1989, 54 F.R. 53473.
 
-<b>1988</b>—Salaries of positions at level I continued at $99,500 per annum by Ex. Ord. No. 12622, Dec. 31, 1987, 53 F.R. 222.
+1989—Salaries of positions at level I continued at $99,500 per annum, see Ex. Ord. No. 12663, Jan. 6, 1989, 54 F.R. 791.
 
-<b>1987</b>—Salaries of positions at level I increased to $99,500 per annum, on recommendation of the President of the United States, see note set out under section 358 of Title 2, The Congress.
+1988—Salaries of positions at level I continued at $99,500 per annum by Ex. Ord. No. 12622, Dec. 31, 1987, 53 F.R. 222.
+
+1987—Salaries of positions at level I increased to $99,500 per annum, on recommendation of the Presidentof the United States, see note set out under section 358 of Title 2, The Congress.
 
 Salaries of positions at level I increased to $88,800 per annum, effective on the first day of the first pay period beginning on or after Jan. 1, 1987, as provided by Ex. Ord. No. 12578, Dec. 31, 1986, 52 F.R. 505.
 
-<b>1985</b>—Salaries of positions at level I increased to $86,200 per annum, effective on the first day of the first pay period beginning on or after Jan. 1, 1985, as provided by Ex. Ord. No. 12496, Dec. 28, 1984, 50 F.R. 211, as amended by Ex. Ord. No. 12540, Dec. 30, 1985, 51 F.R. 577.
+1985—Salaries of positions at level I increased to $86,200 per annum, effective on the first day of the first pay period beginning on or after Jan. 1, 1985, as provided by Ex. Ord. No. 12496, Dec. 28, 1984, 50 F.R. 211, as amended by Ex. Ord. No. 12540, Dec. 30, 1985, 51 F.R. 577.
 
-<b>1984</b>—Salaries of positions at level I increased to $83,300 per annum, effective on the first day of the first pay period beginning on or after Jan. 1, 1984, as provided by Ex. Ord. No. 12456, Dec. 30, 1983, 49 F.R. 347, asamended Ex. Ord. No. 12477, May 23, 1984, 49 F.R. 22041; Ex. Ord. No. 12487, Sept. 14, 1984, 49 F.R. 36493.
+1984—Salaries of positions at level I increased to $83,300 per annum, effective on the first day of the first pay period beginning on or after Jan. 1, 1984, as provided by Ex. Ord. No. 12456, Dec. 30, 1983, 49 F.R. 347, as amended Ex. Ord. No. 12477, May 23, 1984, 49 F.R. 22041; Ex. Ord. No. 12487, Sept. 14, 1984, 49 F.R. 36493.
 
-<b>1982</b>—Salaries of positions at level I increased to $88,600 per annum, effective on the first day of the first pay period beginning on or after Oct. 1, 1982, as provided by Ex. Ord. No. 12387, Oct. 8, 1982, 47 F.R. 44981. Ex. Ord. No. 12387 further provided that pursuant to section 101(e) of Pub. L. 97–276 funds are not available to pay a salary at a rate which exceeds the rate in effect on Sept. 30, 1982, which was $69,630.00.
+1982—Salaries of positions at level I increased to $88,600 per annum, effective on the first day of the first pay period beginning on or after Oct. 1, 1982, as provided by Ex. Ord. No. 12387, Oct. 8, 1982, 47 F.R. 44981. Ex. Ord. No. 12387 further provided that pursuant to section 101(e) of Pub. L. 97–276 funds are not available to pay a salary at a rate which exceeds the rate in effect on Sept. 30, 1982, which was $69,630.00.
 
 Maximum rate payable after Dec. 17, 1982, increased from $69,630.00 to $80,100.00, see Pub. L. 97–377, title I, §129(b)–(d), Dec. 21, 1982, 96 Stat. 1914, set out as a note under section 5318 of this title.
 
 Limitations on use of funds for fiscal year ending Sept. 30, 1983, appropriated by any Act to pay the salary or pay of any individual in legislative, executive, or judicial branch in position equal to or above level V of the Executive Schedule, see section 101(e) of Pub. L. 97–276, as amended, set out as a note under section 5318 of this title.
 
-<b>1981</b>—Salaries of positions at level I increased to $85,200 per annum, effective on the first day of the first pay period beginning on or after Oct. 1, 1981, as provided by Ex. Ord. No. 12330, Oct. 15, 1981, 46 F.R. 50921. Ex. Ord. No. 12330 further provided that pursuant to section 101(c) of Pub. L. 97–51 funds are not available to pay a salary at a rate which exceeds the rate in effect on Sept. 30, 1981, which was $69,630.00.
+1981—Salaries of positions at level I increased to $85,200 per annum, effective on the first day of the first pay period beginning on or after Oct. 1, 1981, as provided by Ex. Ord. No. 12330, Oct. 15, 1981, 46 F.R. 50921. Ex. Ord. No. 12330 further provided that pursuant to section 101(c) of Pub. L. 97–51 funds are not available to pay a salary at a rate which exceeds the rate in effect on Sept. 30, 1981, which was $69,630.00.
 
 Limitations on use of funds for fiscal year ending Sept. 30, 1982, appropriated by any Act to pay the salary or pay of any individual in legislative, executive, or judicial branch in position equal to or above level V of the Executive Schedule, see sections 101(g) and 141 of Pub. L. 97–92, set out as a note under section 5318 of this title.
 
-<b>1980</b>—Salaries of positions at level I increased to $81,300 per annum, effective on the first day of the first pay period beginning on or after Oct. 1, 1980, as provided by Ex. Ord. No. 12248, Oct. 16, 1980, 45 F.R. 69199. Ex. Ord. No. 12248, further provided that pursuant to section 101(c) of Pub. L. 96–369, funds are not available to pay a salary at a rate which exceeds the rate in effect on Sept. 30, 1980, which was $69,630.
+1980—Salaries of positions at level I increased to $81,300 per annum, effective on the first day of the first pay period beginning on or after Oct. 1, 1980, as provided by Ex. Ord. No. 12248, Oct. 16, 1980, 45 F.R. 69199. Ex. Ord. No. 12248, further provided that pursuant to section 101(c) of Pub. L. 96–369, funds are not available to pay a salary at a rate which exceeds the rate in effect on Sept. 30, 1980, which was $69,630.
 
 Limitations on use of funds for fiscal year ending Sept. 30, 1981, appropriated by any Act to pay the salary or pay of any individual in legislative, executive, or judicial branch in position equal to or above level V of the Executive Schedule, see section 101(c) of Pub. L. 96–536, as amended, set out as a note under section 5318 of this title.
 
-<b>1979</b>—Salaries of positions at level I increased to $74,500 per annum, effective on the first day of the first pay period beginning on or after Oct. 1, 1979, as provided by Ex. Ord. No. 12165, Oct. 9, 1979, 44 F.R. 58671, as amended by Ex. Ord. No. 12200, Mar. 12, 1980, 45 F.R. 16443. Ex. Ord. No. 12165 further provided that pursuant to section 101(c) of Pub. L. 96–86 funds appropriated for fiscal year 1980 may not be used to pay a salary at a rate which exceeds an increase of 5.5 percent over the rate in effect on Sept. 30, 1978, which is a maximum rate payable of $69,630.
+1979—Salaries of positions at level I increased to $74,500 per annum, effective on the first day of the first pay period beginning on or after Oct. 1, 1979, as provided by Ex. Ord. No. 12165, Oct. 9, 1979, 44 F.R. 58671, as amended by Ex. Ord. No. 12200, Mar. 12, 1980, 45 F.R. 16443. Ex. Ord. No. 12165 further provided that pursuant to section 101(c) of Pub. L. 96–86 funds appropriated for fiscal year 1980 may not be used to pay a salary at a rate which exceeds an increase of 5.5 percent over the rate in effect on Sept. 30, 1978, which is a maximum rate payable of $69,630.
 
 Applicability to funds appropriated by any Act for fiscal year ending Sept. 3, 1980, of limitation of section 304 of Pub. L. 95–391 on use of funds to pay the salary or pay of any individual in legislative, executive, or judicial branch in position equal to or above level V of the Executive Schedule, see section 101 of Pub. L. 96–86, set out as a note under section 5318 of this title.
 
-<b>1978</b>—Salaries of positions at level I increased to $69,600 per annum, effective in the first pay period beginning on or after Oct. 1, 1978, as provided by Ex. Ord. No. 12087, Oct. 7, 1978, 43 F.R. 46823. Ex. Ord. No. 12087, further provided that pursuant to the Legislative Branch Appropriation Act, 1979, funds are not available to pay a salary at a rate which exceeds the rate in effect on Sept. 30, 1978, which was $66,000.
+1978—Salaries of positions at level I increased to $69,600 per annum, effective in the first pay period beginning on or after Oct. 1, 1978, as provided by Ex. Ord. No. 12087, Oct. 7, 1978, 43 F.R. 46823. Ex. Ord. No. 12087, further provided that pursuant to the Legislative Branch Appropriation Act, 1979, funds are not available to pay a salary at a rate which exceeds the rate in effect on Sept. 30, 1978, which was $66,000.
 
 Limitations on use of funds for fiscal year ending Sept. 30, 1979, appropriated by any Act to pay the salary or pay of any individual in legislative, executive, or judicial branch in position equal or above level V of the Executive Schedule, see section 304 of Pub. L. 95–391 and section 613 of Pub. L. 95–429, set out as a note under section 5318 of this title.
 
-<b>1977</b>—Salaries of positions at level I increased to $66,000 per annum, on recommendation of the President of the United States, see note set out under section 358 of Title 2, The Congress.
+1977—Salaries of positions at level I increased to $66,000 per annum, on recommendation of the President of the United States, see note set out under section 358 of Title 2, The Congress.
 
-<b>1976</b>—Salaries of positions at level I increased to $66,000 per annum, effective on the first day of the first pay period beginning on or after Oct. 1, 1976, see Ex. Ord. No. 11941, Oct. 1, 1976, 41 F.R. 43889. Ex. Ord. No. 11941, further provided that pursuant to the Legislative Branch Appropriation Act, 1977, funds are not available to pay a salary at a rate which exceeds the rate in effect on Sept. 30, 1976, which was $63,000.
+1976—Salaries of positions at level I increased to $66,000 per annum, effective on the first day of the first pay period beginning on or after Oct. 1, 1976, see Ex. Ord. No. 11941, Oct. 1, 1976, 41 F.R. 43889. Ex. Ord. No. 11941, further provided that pursuant to the Legislative Branch Appropriation Act, 1977, funds are not available to pay a salary at a rate which exceeds the rate in effect on Sept. 30, 1976, which was $63,000.
 
-<b>1975</b>—Salaries of positions at level I increased to $63,000 per annum, effective on the first day of the first pay period beginning on or after Oct. 1, 1975, by Ex. Ord. No. 11883, Oct. 6, 1975, 40 F.R. 47091.
+1975—Salaries of positions at level I increased to $63,000 per annum, effective on the first day of the first pay period beginning on or after Oct. 1, 1975, by Ex. Ord. No. 11883, Oct. 6, 1975, 40 F.R. 47091.
 
-<b>1969</b>—Salaries of positions at level I increased from $35,000 to $60,000 per annum, commencing on the first day of the pay period which begins after February 14, 1969, on recommendation of the President of the United States, see note set out under section 358 of Title 2, The Congress.
+1969—Salaries of positions at level I increased from $35,000 to $60,000 per annum, commencing on the first day of the pay period which begins after February 14, 1969, on recommendation of the President of the United States, see note set out under section 358 of Title 2, The Congress.
 
 #### Compensation and Emoluments of Secretary of the Treasury at Level in Effect on January 1, 1989
 
@@ -190,5 +194,5 @@ Provisions of Pub. L. 93–178, §1, Dec. 10, 1973, 87 Stat. 697, which fixed th
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 5377, 5380, 8432 of this title; title 2 section 362; title 10 sections 973, 1603; title 12 section 1723a; title 18 section 207; title 22 section 4606; title 26 sections 162, 3121; title 28 section 591; title 31 section 1344; title 38 section 7432; title 39 section 1003; title 42 sections 410, 7211, 7291; title 47 section 396; title 49 section 24315; title 50 App. section 2074.
+This section is referred to in sections 5315, 5377, 5380, 8432 of this title; title 2 section 362; title 10 sections 973, 1603; title 12 section 1723a; title 18 section 207; title 22 section 4606; title 26 sections 162, 3121; title 28 section591; title 31 section 1344; title 38 section 7432; title 39 section 1003; title 42 sections 410, 7211, 7291; title 47 section 396; title 49 section 24315; title 50 App. section 2074.
 

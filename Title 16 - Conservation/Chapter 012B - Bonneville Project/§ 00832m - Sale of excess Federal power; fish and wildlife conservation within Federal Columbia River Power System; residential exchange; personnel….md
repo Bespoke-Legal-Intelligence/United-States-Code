@@ -54,3 +54,7 @@ Unless superseded by an Act of Congress, the authority provided by this section 
 
 Section was enacted as part of the Energy and Water Development Appropriations Act, 1996, and not as part of the Bonneville Project Act of 1937 which comprises this chapter.
 
+#### Voluntary Separation Incentives to Employees
+
+Pub. L. 104–206, title V, §511, Sept. 30, 1996, 110 Stat. 3004, provided that: “The Administrator may offer employees voluntary separation incentives as deemed necessary which shall not exceed $25,000. Recipients who accept employment with the United States within five years after separation shall repay the entire amount to the Bonneville Power Administration. This authority shall expire September 30, 2000.”
+

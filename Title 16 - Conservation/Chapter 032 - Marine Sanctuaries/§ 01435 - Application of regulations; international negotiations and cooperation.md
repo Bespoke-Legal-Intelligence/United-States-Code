@@ -2,7 +2,7 @@
 
 #### (a) Regulations
 
-This chapter and the regulations issued under section 1434 of this title shall be applied in accordance with generally recognized principles of international law, and in accordance with treaties, conventions, and other agreements to which the United States is a party. No regulation shall apply to or be enforced against a person who is not a citizen, national, or resident alien of the United States, unless in accordance with—
+This chapter and the regulations issued under section 1434 of this title shall be applied in accordance with generally recognized principles of international law, and in accordance with treaties, conventions, and other agreements towhich the United States is a party. No regulation shall apply to or be enforced against a person who is not a citizen, national, or resident alien of the United States, unless in accordance with—
 
 &emsp;(1) generally recognized principles of international law;
 

@@ -32,5 +32,25 @@ Section 1 of Pub. L. 94–205, Jan. 2, 1976, 89 Stat. 1157, provided: “That th
 
 #### Short Title
 
-Section 1 of Pub. L. 93–533 provided that: “This Act \[enacting this chapter and sections 1730f and 1831b of this title and provisions set out as notes under this section and section 1730f of this title\] may be cited as the ‘Real Estate Settlement Procedures Act of 1974’.”
+Section 1 of Pub. L. 93–533 provided that: “This Act \[enacting this chapter and sections 1730f and 1831b ofthis title and provisions set out as notes under this section and section 1730f of this title\] may be cited as the ‘Real Estate Settlement Procedures Act of 1974’.”
+
+#### Simplification and Unification of Disclosures Required Under RESPA and TILA for Mortgage Transactions
+
+Pub. L. 104–208, div. A, title II, §2101, Sept. 30, 1996, 110 Stat. 3009–398, provided that:
+
+“(a)
+
+In General.—With respect to credit transactions which are subject to the Real Estate Settlement Procedures Act of 1974 \[12 U.S.C. 2601 et seq.\] and the Truth in Lending Act \[15 U.S.C. 1601 et seq.\], the Board of Governors of the Federal Reserve System (hereafter in this section referred to as the ‘Board’) and the Secretary of Housing and Urban Development (hereafter in this section referred to as the ‘Secretary’) shall take such action as may be necessary before the end of the 6-month period beginning on the date of enactment of this Act \[Sept. 30, 1996\]—
+
+&emsp;“(1) to simplify and improve the disclosures applicable to such transactions under such Acts, including the timing of the disclosures; and
+
+&emsp;“(2) to provide a single format for such disclosures which will satisfy the requirements of each such Act with respect to such transactions.
+
+“(b)
+
+Regulations.—To the extent that it is necessary to prescribe any regulation in order to effect any changes required to be made under subsection (a), the proposed regulation shall be published in the Federal Register before the end of the 6-month period referred to in subsection (a).
+
+“(c)
+
+Recommendations for Legislation.—If the Board and the Secretary find that legislative action may be necessary or appropriate in order to simplify and unify the disclosure requirements under the Real Estate Settlement Procedures Act of 1974 \[12 U.S.C. 2601 et seq.\] and the Truth in Lending Act \[15 U.S.C. 1601 et seq.\], the Board and the Secretary shall submit a report containing recommendations to the Congress concerning such action.”
 

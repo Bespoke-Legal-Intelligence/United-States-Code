@@ -39,7 +39,7 @@
 
 |  |  |
 | :--- | ---: |
-| [8431\.](Subchapter%20003%20%28III%29%20-%20Thrift%20Savings%20Plan/%C2%A7%2008431%20-%20Definition.md) | Definition. |
+| \[8431. | Repealed.\] |
 | [8432\.](Subchapter%20003%20%28III%29%20-%20Thrift%20Savings%20Plan/%C2%A7%2008432%20-%20Contributions.md) | Contributions. |
 | [8432a.](Subchapter%20003%20%28III%29%20-%20Thrift%20Savings%20Plan/%C2%A7%2008432a%20-%20Payment%20of%20lost%20earnings.md) | Payment of lost earnings. |
 | [8432b.](Subchapter%20003%20%28III%29%20-%20Thrift%20Savings%20Plan/%C2%A7%2008432b%20-%20Contributions%20of%20persons%20who%20perform%20military%20service.md) | Contributions of persons who perform military service. |
@@ -120,33 +120,35 @@
 
 #### Amendments
 
-<b>1994</b>—Pub. L. 103–353, §4(a)(2), Oct. 13, 1994, 108 Stat. 3172, added item 8432b.
+1996—Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §659 \[title II, §206(b)(1)\]\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–372, 3009–378, struck out item 8431 “Definition”.
 
-<b>1992</b>—Pub. L. 102–572, title IX, §902(b)(2), Oct. 29, 1992, 106 Stat. 4516, substituted “Court of Federal Claims” for “Claims Court” in item 8440c.
+1994—Pub. L. 103–353, §4(a)(2), Oct. 13, 1994, 108 Stat. 3172, added item 8432b.
+
+1992—Pub. L. 102–572, title IX, §902(b)(2), Oct. 29, 1992, 106 Stat. 4516, substituted “Court of Federal Claims” for “Claims Court” in item 8440c.
 
 Pub. L. 102–378, §5(d)(2), Oct. 2, 1992, 106 Stat. 1358, amended directory language of Pub. L. 101–198, §7(c)(4)(B). See 1991 Amendment note below.
 
-<b>1991</b>—Pub. L. 102–198, §7(c)(2), Dec. 9, 1991, 105 Stat. 1625, redesignated item 8440b “Claims Court judges” as item 8440c.
+1991—Pub. L. 102–198, §7(c)(2), Dec. 9, 1991, 105 Stat. 1625, redesignated item 8440b “Claims Court judges” as item 8440c.
 
 Pub. L. 102–198, §7(c)(4)(B), Dec. 9, 1991, 105 Stat. 1625, as amended by Pub. L. 102–378, §5(d)(2), Oct. 2, 1992, 106 Stat. 1358, redesignated item 8440c “Judges of the United States Court of Veterans Appeals” as item 8440d.
 
 Pub. L. 102–82, §5(a)(2), Aug. 6, 1991, 105 Stat. 376, added item 8440c “Judges of the United States Court of Veterans Appeals”.
 
-<b>1990</b>—Pub. L. 101–650, title III, §306(d)(2), Dec. 1, 1990, 104 Stat. 5111, which directed the amendment of the table of sections for this chapter by adding at the end thereof item 8440b “Claims Court judges”, was executed by adding that item after the first item 8440b.
+1990—Pub. L. 101–650, title III, §306(d)(2), Dec. 1, 1990, 104 Stat. 5111, which directed the amendment of the table of sections for this chapter by adding at the end thereof item 8440b “Claims Court judges”, was executed by adding that item after the first item 8440b.
 
 Pub. L. 101–335, §§2(a)(2), 9(b), July 17, 1990, 104 Stat. 320, 326, added item 8432a and redesignated item 8440a “Bankruptcy judges and magistrates” as item 8440b.
 
-<b>1988</b>—Pub. L. 100–659, §7(b), Nov. 15, 1988, 102 Stat. 3920, added item 8440a “Bankruptcy judges and magistrates”.
+1988—Pub. L. 100–659, §7(b), Nov. 15, 1988, 102 Stat. 3920, added item 8440a “Bankruptcy judges and magistrates”.
 
 Pub. L. 100–654, title IV, §401(b), Nov. 14, 1988, 102 Stat. 3847, added item 8440a “Justices and judges”.
 
 Pub. L. 100–238, title I, §124(a)(2), (b)(2), Jan. 8, 1988, 101 Stat. 1756, added item 8464a, redesignated item 8457 as 8456, and struck out former item 8456 “Relationship to workers’ compensation”.
 
-<b>1986</b>—Pub. L. 99–556, title I, §110(b), Oct. 27, 1986, 100 Stat. 3132, added item 8478a.
+1986—Pub. L. 99–556, title I, §110(b), Oct. 27, 1986, 100 Stat. 3132, added item 8478a.
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 2105, 3329, 5304, 5362, 5541, 5597, 5724, 8116, 8342, 8344, 8347, 8348, 8350, 8351, 8440a, 8440d, 8901 of this title; title 10 section 942; title 20 section 4416; title 22 sections 3951, 4067, 4069, 4071, 4071c, 4071d, 4071h; title 25 section 450i; title 26 sections 3121, 6103; title 28 sections 155, 178, 375, 376, 377, 611, 627, 636, 797; title 31 section 772; title 38 sections 7297, 7438, 7453, 7458; title 39 section 1005; title 40 section 214d; title 42 sections 402, 410, 3035r, 10704; title 50 sections 2021, 2151, 2152, 2153, 2154, 2155, 2157.
+This chapter is referred to in sections 2105, 3329, 5304, 5362, 5541, 5597, 5724, 8116, 8342, 8344, 8347, 8348, 8350, 8351, 8440a, 8440d, 8901 of this title; title 2 section 92; title 10 section 942; title 20 section 4416; title 22 sections 3951, 4067, 4069, 4071, 4071c, 4071d, 4071h; title 25 section 450i; title 26 sections 3121, 6103; title 28 sections 155, 178, 375, 376, 377, 611, 627, 636, 797; title 31 section 772; title 38 sections 7297, 7438, 7453, 7458; title 39 section 1005; title 40 section 214d; title 42 sections 402, 410, 3035r, 10704; title 50 sections 2021, 2151, 2152, 2153, 2154, 2155, 2157.
 
 
 ---

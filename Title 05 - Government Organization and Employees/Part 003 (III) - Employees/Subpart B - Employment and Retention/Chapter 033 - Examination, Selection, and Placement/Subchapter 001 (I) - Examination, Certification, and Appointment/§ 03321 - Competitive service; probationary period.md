@@ -24,7 +24,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 5 U.S.C. 633(2)4.
 
@@ -36,9 +38,9 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-<b>1988</b>—Subsec. (c). Pub. L. 100–325 inserted reference to Federal Bureau of Investigation and Drug Enforcement Administration Senior Executive Service.
+1988—Subsec. (c). Pub. L. 100–325 inserted reference to Federal Bureau of Investigation and Drug Enforcement Administration Senior Executive Service.
 
-<b>1978</b>—Pub. L. 95–454 substituted “probationary period” for “probation; period of” in section catchline, designated existing provisions as subsec. (a), substituted provisions authorizing the President to take necessary action, for provisions authorizing the President to prescribe rules, and added subsecs. (b) and (c).
+1978—Pub. L. 95–454 substituted “probationary period” for “probation; period of” in section catchline, designated existing provisions as subsec. (a), substituted provisions authorizing the President to take necessary action, for provisions authorizing the President to prescribe rules, and added subsecs. (b) and (c).
 
 #### Effective Date of 1978 Amendment
 

@@ -8,7 +8,7 @@ The purposes of this chapter are—
 
 &emsp;(3) to provide assistance to the Great Lakes Fisheries Commission, States, Indian Tribes, and other interested entities to encourage cooperative conservation, restoration and management of the fish and wildlife resources and their habitat of the Great Lakes Basin.
 
-(Pub. L. 101–537, title I, §1003, Nov. 8, 1990, 104 Stat. 2371; Pub. L. 101–646, title II, §2003, Nov. 29, 1990, 104 Stat. 4774.)
+(Pub. L. 101–537, title I, §1003, Nov. 8, 1990, 104 Stat. 2371; Pub. L. 101–646, title II, §2003, Nov. 29, 1990, 104 Stat. 4774; Pub. L. 104–332, §2(h)(1), Oct. 26, 1996, 110 Stat. 4091.)
 
 #### References in Text
 
@@ -17,4 +17,8 @@ This chapter, referred to in text, was in the original “this Act”, which, to
 #### Codification
 
 Pub. L. 101–537 and Pub. L. 101–646 enacted identical sections.
+
+#### Amendments
+
+1996—Pub. L. 104–332 made technical amendment to Pub. L. 101–646, §2003, which enacted this section.
 

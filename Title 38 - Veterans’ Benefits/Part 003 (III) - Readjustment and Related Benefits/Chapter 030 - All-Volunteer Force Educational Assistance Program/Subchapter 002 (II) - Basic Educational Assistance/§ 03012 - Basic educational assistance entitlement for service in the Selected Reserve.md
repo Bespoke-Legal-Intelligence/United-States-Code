@@ -34,7 +34,7 @@
 
 &emsp;(ii) who, during the four years of service described in clauses (1)(A)(ii) and (1)(B)(ii) of subsection (a) of this section, is discharged or released from service in the Selected Reserve (I) for a service-connected disability, (II) for a medical condition which preexisted the individual's becoming a member of the Selected Reserve and which the Secretary determines is not service connected, (III) for hardship, (IV) in the case of an individual discharged or released after 30 months of such service, for the convenience of the Government, (V) involuntarily for the convenience of the Government as a result of a reduction in force, as determined by the Secretary of the military department concerned in accordance with regulations prescribed by the Secretary of Defense or by the Secretary of Transportation with respect to the Coast Guard when it is not operating as a service in the Navy, or (VI) for a physical or mental condition not characterized as a disability, as described in section 3011(a)(1)(A)(ii)(I) of this title; or
 
-&emsp;(iii) who, before completing the four years of service described in clauses (1)(A)(ii) and (1)(B)(ii) of subsection (a) of this section, ceases to be a member of the Selected Reserve during the period beginning on October 1, 1991, and ending on September 30, 1999, by reason of the inactivation of the person's unit of assignment or by reason of involuntarily ceasing to be designated as a member of the Selected Reserve pursuant to section 268(b) <sup>1</sup> of title 10.
+&emsp;(iii) who, before completing the four years of service described in clauses (1)(A)(ii) and (1)(B)(ii) of subsection (a) of this section, ceases to be a member of the Selected Reserve during the period beginning on October 1, 1991, and ending on September 30, 1999, by reason of the inactivation of the person's unit of assignment or by reason of involuntarily ceasing to be designated as a member of the Selected Reserve pursuant to section 10143(a) of title 10.
 
 (2) After an individual begins service in the Selected Reserve within one year after completion of the service described in clause (A)(i) or (B)(i) of subsection (a)(1) of this section, the continuity of service of such individual as a member of the Selected Reserve shall not be considered to be broken—
 
@@ -46,25 +46,33 @@
 
 (d)(1) An individual described in subsection (a)(1)(A) of this section may make an election not to receive educational assistance under this chapter. Any such election shall be made at the time the individual initially enters on active duty as a member of the Armed Forces. Any individual who makes such an election is not entitled to educational assistance under this chapter.
 
-(2) An individual who after December 31, 1976, receives a commission as an officer in the Armed Forces upon graduation from the United States Military Academy, the United States Naval Academy, the United States Air Force Academy, or the Coast Guard Academy or upon completion of a program of educational assistance under section 2107 of title 10 is not eligible for educational assistance under this section.
+(2) An individual who after December 31, 1976, receives a commission as an officer in the Armed Forces upon graduation from the United States Military Academy, the United States Naval Academy, the United States Air Force Academy, or the Coast Guard Academy is not eligible for educational assistance under this section.
+
+(3) An individual who after December 31, 1976, receives a commission as an officer in the Armed Forces upon completion of a program of educational assistance under section 2107 of title 10 is not eligible for educational assistance under this section if the individual enters on active duty—
+
+&emsp;(A) before October 1, 1996; or
+
+&emsp;(B) after September 30, 1996, and while participating in such program received more than $2,000 for each year of such participation.
 
 (e)(1) An individual described in subclause (I) or (III) of subsection (b)(1)(B)(ii) of this section may elect entitlement to basic educational assistance under section 3011 of this title, based on an initial obligated period of active duty of two years, in lieu of entitlement to assistance under this section.
 
-(2) An individual who makes the election described in paragraph (1) of this subsection shall, for all purposes of this chapter, be considered entitled to educational assistance under section 3011 of this title and not under this section. Such an election is irrevocable.
+(2) An individual who makes the election described in paragraph (1) of this subsection shall, for all purposes of this chapter, be consideredentitled to educational assistance under section 3011 of this title and not under this section. Such an election is irrevocable.
 
 (f) For the purposes of subsection (a)(2) of this section, an individual who was on active duty on August 2, 1990, and who completes the requirements of a secondary school diploma (or equivalency certificate) before October 28, 1994, shall be considered to have completed such requirements within the individual's initial obligated period of active duty.
 
-(Added Pub. L. 98–525, title VII, §702(a)(1), Oct. 19, 1984, 98 Stat. 2555, §1412; amended Pub. L. 99–145, title VI, §674(2), Nov. 8, 1985, 99 Stat. 665; Pub. L. 99–576, title III, §§303(a)(2), 307(a)(2), 321(2), Oct. 28, 1986, 100 Stat. 3269, 3277; Pub. L. 100–48, §3(b), June 1, 1987, 101 Stat. 331; Pub. L. 100–689, title I, §§102(b)(1), 103(b)(1), 104(b), 105, 111(a)(2)(B), Nov. 18, 1988, 102 Stat. 4162, 4165,4166, 4171; Pub. L. 101–237, title IV, §§409, 423(a)(1), (b)(1)(A), Dec. 18, 1989, 103 Stat. 2084, 2090, 2092; Pub. L. 101–510, div. A, title V, §562(a)(3), Nov. 5, 1990, 104 Stat. 1574; renumbered §3012 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–484, div. D, title XLIV, §4419(b), Oct. 23, 1992, 106 Stat. 2718; Pub. L. 102–568, title III, §§302(a)(2), 303(a)(2), Oct. 29, 1992, 106 Stat. 4326, 4327; Pub. L. 103–160, div. A, title V, §561(m), Nov. 30, 1993, 107 Stat. 1668; Pub. L. 103–446, title XII, §1201(f)(2), Nov. 2, 1994, 108 Stat. 4687.)
-
-#### References in Text
-
-Section 268(b) of title 10, referred to in subsec. (b)(1)(B)(iii), was repealed by Pub. L. 103–337, div. A, title XVI, §1661(a)(2)(A), Oct. 5, 1994, 108 Stat. 2979. See section 10143(a) of Title 10, Armed Forces.
+(Added Pub. L. 98–525, title VII, §702(a)(1), Oct. 19, 1984, 98 Stat. 2555, §1412; amended Pub. L. 99–145, title VI, §674(2), Nov. 8, 1985, 99 Stat. 665; Pub. L. 99–576, title III, §§303(a)(2), 307(a)(2), 321(2), Oct. 28, 1986, 100 Stat. 3269, 3277; Pub. L. 100–48, §3(b), June 1, 1987, 101 Stat. 331; Pub. L. 100–689, title I, §§102(b)(1), 103(b)(1), 104(b), 105, 111(a)(2)(B), Nov. 18, 1988, 102 Stat. 4162, 4165, 4166, 4171; Pub. L. 101–237, title IV, §§409, 423(a)(1), (b)(1)(A), Dec. 18, 1989, 103 Stat. 2084, 2090, 2092; Pub. L. 101–510, div. A, title V, §562(a)(3), Nov. 5, 1990, 104 Stat. 1574; renumbered §3012 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–484, div. D, title XLIV, §4419(b), Oct. 23, 1992, 106 Stat. 2718; Pub. L. 102–568, title III, §§302(a)(2), 303(a)(2), Oct. 29, 1992, 106 Stat. 4326, 4327; Pub. L. 103–160, div. A, title V, §561(m), Nov. 30, 1993, 107 Stat. 1668; Pub. L. 103–446, title XII, §1201(f)(2), Nov. 2, 1994, 108 Stat. 4687; Pub. L. 104–106, div. A, title XV, §1501(e)(2)(B), Feb. 10, 1996, 110 Stat. 501; Pub. L. 104–201, div. A, title V, §556(b), Sept. 23, 1996, 110 Stat. 2528.)
 
 #### Prior Provisions
 
 Prior section 3012 was renumbered section 5112 of this title.
 
 #### Amendments
+
+1996—Subsec. (b)(1)(B)(iii). Pub. L. 104–106 substituted “section 10143(a) of title 10” for “section 268(b) of title 10”.
+
+Subsec. (d)(2). Pub. L. 104–201, §556(b)(1), struck out “or upon completion of a program of educational assistance under section 2107 of title 10” after “Coast Guard Academy”.
+
+Subsec. (d)(3). Pub. L. 104–201, §556(b)(2), added par. (3).
 
 1994—Subsec. (f). Pub. L. 103–446 substituted “October 28, 1994,” for “the end of the 24-month period beginning on the date of the enactment of this subsection”.
 
@@ -124,6 +132,10 @@ Subsec. (c). Pub. L. 99–576, §303(a)(2), substituted “Any amount by which t
 
 1985—Subsec. (a)(1)(B). Pub. L. 99–145 struck out “and without a break in service on active duty since December 31, 1976,” after “chapter 34 of this title”.
 
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–106 effective as if included in the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as enacted on Oct. 5, 1994, see section 1501(f)(3) of Pub. L. 104–106, set out as a note under section 113 of Title 10, Armed Forces.
+
 #### Effective Date of 1992 Amendment
 
 Amendment by section 302(a)(2) of Pub. L. 102–568 effective as of Oct. 28, 1986, see section 302(b) of Pub. L. 102–568, set out as a note under section 3011 of this title.
@@ -146,7 +158,5 @@ For requirement of notification of individuals on active duty in Armed Forces on
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3013, 3016, 3017, 3018, 3018A, 3018B, 3021, 3031, 5303A of this title; title 10 section 2006.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+This section is referred to in sections 3013, 3016, 3017, 3018, 3018A, 3018B, 3018C, 3021, 3031, 5303A of this title; title 10 sections 2006, 16131.
 

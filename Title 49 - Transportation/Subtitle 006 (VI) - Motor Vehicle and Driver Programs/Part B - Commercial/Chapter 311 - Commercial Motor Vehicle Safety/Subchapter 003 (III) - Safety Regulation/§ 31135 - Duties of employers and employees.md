@@ -6,7 +6,9 @@ Each employer and employee shall comply with regulations on commercial motor veh
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

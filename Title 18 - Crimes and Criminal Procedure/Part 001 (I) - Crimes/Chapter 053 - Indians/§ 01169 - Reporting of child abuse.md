@@ -1,4 +1,4 @@
-### §1169 . Reporting of child abuse
+### §1169. Reporting of child abuse
 
 (a) Any person who—
 
@@ -62,19 +62,21 @@
 
 (d) Any person making a report described in subsection (a) which is based upon their reasonable belief and which is made in good faith shall be immune from civil or criminal liability for making that report.
 
-(Added Pub. L. 101–630, title IV, §404(a)(1), Nov. 28, 1990, 104 Stat. 4547; amended Pub. L. 103–322, title XXXIII, §§330011(d), 330016(1)(K), Sept. 13, 1994, 108 Stat. 2144, 2147.)
-
-#### Codification
-
-Pub. L. 101–630, §404(a)(1), as amended by Pub. L. 103–322, §330011(d), which directed amendment of thischapter by “inserting after section 1169” a new section 1169, was executed by adding section 1169 after section 1168 to reflect the probable intent of Congress.
+(Added Pub. L. 101–630, title IV, §404(a)(1), Nov. 28, 1990, 104 Stat. 4547; amended Pub. L. 103–322, title XXXIII, §§330011(d), 330016(1)(K), Sept. 13, 1994, 108 Stat. 2144, 2147; Pub. L. 104–294, title VI, §604(b)(25), Oct. 11, 1996, 110 Stat. 3508.)
 
 #### Amendments
 
-1994—Pub. L. 103–322, §330011(d), amended directory language of Pub. L. 101–630, §404(a)(1), which enacted this section. See Codification note above.
+1996—Pub. L. 104–294 amended directory language of Pub. L. 103–322, §330011(d). See 1994 Amendment note below.
+
+1994—Pub. L. 103–322, §330011(d), as amended by Pub. L. 104–294, amended directory language of Pub. L. 101–630, §404(a)(1), which enacted this section.
 
 Subsecs. (a), (b). Pub. L. 103–322, §330016(1)(K), substituted “fined under this title” for “fined not more than $5,000” in concluding provisions.
 
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–294 effective Sept. 13, 1994, see section 604(d) of Pub. L. 104–294, set out as a note under section 13 of this title.
+
 #### Effective Date of 1994 Amendment
 
-Section 330011(d) of Pub. L. 103–322 provided that the amendment made by that section is effective on the date section 404(a) of Pub. L. 101–630 took effect.
+Section 330011(d) of Pub. L. 103–322, as amended by Pub. L. 104–294, §604(b)(25), provided that the amendment made by that section is effective on the date section 404(a) of Pub. L. 101–630 took effect.
 

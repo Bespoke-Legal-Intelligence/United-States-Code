@@ -20,21 +20,33 @@
 
 (b) The fund shall be—
 
-&emsp;(1) reimbursed for the cost of all services and supplies furnished, including those furnished other appropriations of the Government Printing Office, at rates which include charges foroverhead and related expenses, depreciation of plant and building appurtenances, except building structures and land, and equipment, and accrued leave; and
+&emsp;(1) reimbursed for the cost of all services and supplies furnished, including those furnished other appropriations of the Government Printing Office, at rates which include charges for overhead and related expenses, depreciation of plant and building appurtenances, except building structures and land, and equipment, and accrued leave; and
 
 &emsp;(2) credited with all receipts including sales of Government publications, waste, condemned, and surplus property and with payments received for losses or damage to property.
 
 (c) An adequate system of accounts for the fund shall be maintained on the accrual method, and financial reports prepared on the basis of the accounts. The Public Printer shall prepare and submit an annual business-type budget program for the operations under this fund. This budget program shall be considered and enacted as prescribed by section 9104 of title 31.
 
-(d) The Comptroller General shall audit the activities of the Government Printing Office at least once every 3 years and shall furnish reports of such audits to the Congress and the Public Printer. For these purposes the Comptroller General shall have such access to the records, files, personnel, and facilities of the Government Printing Office as he considers necessary.
+(d) The Inspector General of the Government Printing Office shall audit the financial and operational activities of the Government Printing Office each year. The audits shall be conducted under the direction of the Joint Committee on Printing. For purposes of the audits, the Inspector General shall have such access to the records, files, personnel, and facilities of the Government Printing Office as the Inspector General considers appropriate. The Inspector General shall furnish reports of the audits to the Congress and the Public Printer.
 
-(Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1241; Pub. L. 93–604, title VII, §707, Jan. 2, 1975, 88 Stat. 1965; Pub. L. 97–258, §3(m)(2), Sept. 13, 1982, 96 Stat. 1066; Pub. L. 100–458, title III, §310, Oct. 1, 1988, 102 Stat. 2184; Pub. L. 101–163, title III, §309, Nov. 21, 1989, 103 Stat. 1065; Pub. L. 101–520, title II, §207, Nov. 5, 1990, 104 Stat. 2274; Pub. L. 103–69, title II, §207(a), Aug. 11, 1993, 107 Stat. 707.)
+(e) The Public Printer shall prepare an annual financial statement meeting the requirements of section 3515(b) of title 31, United States Code. Each financial statement shall be audited in accordance with applicable generally accepted Government auditing standards—
+
+&emsp;(1) by an independent external auditor selected by the Public Printer, or
+
+&emsp;(2) at the request of the Joint Committee on Printing, by the Inspector General of the Government Printing Office.
+
+(f) The Comptroller General of the United States may audit the financial statement prepared under subsection (e) at his or her discretion or at the request of the Joint Committee on Printing. An audit by the Comptroller General shall be in lieu of the audit otherwise required by that subsection.
+
+(Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1241; Pub. L. 93–604, title VII, §707, Jan. 2, 1975, 88 Stat. 1965; Pub. L. 97–258, §3(m)(2), Sept. 13, 1982, 96 Stat. 1066; Pub. L. 100–458, title III, §310, Oct. 1, 1988, 102 Stat. 2184; Pub. L. 101–163, title III, §309, Nov. 21, 1989, 103 Stat. 1065; Pub. L. 101–520, title II, §207, Nov. 5, 1990, 104 Stat. 2274; Pub. L. 103–69, title II, §207(a), Aug. 11, 1993, 107 Stat. 707; Pub. L. 104–316, title I, §123(a), Oct. 19, 1996, 110 Stat. 3839.)
 
 #### Historical and Revision Notes
 
 Based on 44 U.S. Code, 1964 ed., §63, 63a (Aug. 1, 1953, ch. 304, title I, §101, 67 Stat. 330; Aug. 5, 1955, ch. 568, §101, 69 Stat. 519; June 27, 1956, ch. 453, §101, 70 Stat. 369); §63a (July 28, 1967, Pub. L. 90–57, §101 (part), 81 Stat. 141).
 
 #### Amendments
+
+1996—Subsec. (d). Pub. L. 104–316, §123(a)(1), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “The Comptroller General shall audit the activities of the Government Printing Office at least once every 3 years and shall furnish reports of such audits to the Congress and the Public Printer. For these purposes the Comptroller General shall have such access to the records, files, personnel, and facilities of the Government Printing Office as he considers necessary.”
+
+Subsecs. (e), (f). Pub. L. 104–316, §123(a)(2), added subsecs. (e) and (f).
 
 1993—Subsec. (b). Pub. L. 103–69 substituted “shall be—” for “shall be:” in introductory provisions, inserted “and” at end of par. (1), substituted a period for “; and” at end of par. (2), and struck out par. (3) which read as follows: “charged with payment into miscellaneous receipts of the Treasury of that part of the receipts from the sales of Government publications required by law.”
 

@@ -20,7 +20,7 @@ Notwithstanding the provisions of sections 922(b)(5) and 923(g) of title 18, Uni
 
 #### Short Title of 1969 Amendment
 
-Section 1(a) of Pub. L. 91–128 provided that: “This Act \[amending this section and sections 4911, 4912, 4914, 4915, 4919, 4920, 6011, and 6680 of this title and enacting provisions set out as notes under section 6680 of this title\] may be cited as the ‘Interest Equalization Tax Extension Act of 1969’.”
+Section 1(a) of Pub. L. 91–128 provided that: “This Act \[amending this section and sections 4911, 4912, 4914, 4915,4919, 4920, 6011, and 6680 of this title and enacting provisions set out as notes under section 6680 of this title\] may be cited as the ‘Interest Equalization Tax Extension Act of 1969’.”
 
 #### Cross References
 

@@ -10,7 +10,7 @@
 
 (d) In the case of a plan the administrator of which elects under section 1017(d) of this Act to have the provisions of the Internal Revenue Code of 1954 relating to participation, vesting, funding, and form of benefit to apply to a plan year and to all subsequent plan years, this part shall apply to plan years beginning on the earlier of the first plan year to which such election applies or the first plan year determined under subsections (a), (b), and (c) of this section.
 
-(e) In the case of a plan maintained by a labor organization which is exempt from tax under section 501(c)(5) of title 26 exclusively for the benefit of its employees and their beneficiaries, this part shall be applied by substituting for the term “December 31, 1975” in subsection (b) of this section, the earlier of—
+(e) In the case of a plan maintained by a labor organization which is exempt from tax under section 501(c)(5) of title 26 exclusively for the benefit of its employees and their beneficiaries, this part shall be applied by substituting for theterm “December 31, 1975” in subsection (b) of this section, the earlier of—
 
 &emsp;(1) the date on which the second convention of such labor organization held after September 2, 1974, ends or
 

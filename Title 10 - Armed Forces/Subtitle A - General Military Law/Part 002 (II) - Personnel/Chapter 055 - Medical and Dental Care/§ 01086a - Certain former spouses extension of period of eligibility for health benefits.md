@@ -20,7 +20,7 @@ Effect of Purchase.—(1) Subject to paragraph (2), if a person who is a depende
 
 (c)
 
-Effect of Unavailability of Policies.—(1) If the Secretary of Defense is unable, withina reasonable time, to enter into a contract with a private insurer to offer conversion health policies under subsection (a) at a rate not to exceed the payment required under section 8905a(d)(1)(A) of title 5 for comparable coverage, the Secretary shall provide the coverage required under such a policy through the Civilian Health and Medical Program of the Uniformed Services. Subject to paragraph (2), a person receiving coverage under this subsection shall be required to pay into the Military Health Care Account or other appropriate account an amount equal to the sum of—
+Effect of Unavailability of Policies.—(1) If the Secretary of Defense is unable, within a reasonable time, to enter into a contract with a private insurer to offer conversion health policies under subsection (a) at a rate not to exceed the payment required under section 8905a(d)(1)(A) of title 5 for comparable coverage, the Secretary shall provide the coverage required under such a policy through the Civilian Health and Medical Program of the Uniformed Services. Subject to paragraph (2), a person receiving coverage under this subsection shall be required to pay into the Military Health Care Account or other appropriate account an amount equal to the sum of—
 
 &emsp;(A) the individual and Government contributions which would be required in the case of a person enrolled in a health benefits plan contracted for under section 1079 of this title; and
 

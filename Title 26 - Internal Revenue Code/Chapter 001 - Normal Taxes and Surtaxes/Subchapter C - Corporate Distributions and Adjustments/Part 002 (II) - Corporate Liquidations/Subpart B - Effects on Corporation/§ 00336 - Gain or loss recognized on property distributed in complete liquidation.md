@@ -56,7 +56,7 @@ If any property distributed in the liquidation is subject to a liability or the 
 
 #### (C) Recapture in lieu of disallowance
 
-&emsp;&emsp;The Secretary may prescribe regulations under which, in lieu of disallowing a loss under subparagraph (A) for a prior taxable year, the gross income of the liquidatingcorporation for the taxable year in which the plan of complete liquidation is adopted shall be increased by the amount of the disallowed loss.
+&emsp;&emsp;The Secretary may prescribe regulations under which, in lieu of disallowing a loss under subparagraph (A) for a prior taxable year, the gross income of the liquidating corporation for the taxable year in which the plan of complete liquidation is adopted shall be increased by the amount of the disallowed loss.
 
 #### (3) Special rule in case of liquidation to which section 332 applies
 
@@ -274,7 +274,7 @@ Application of section 1374.—Rules similar to the rules of this subsection sha
 
 &emsp;“(9)
 
-Application to nonliquidating distributions.—The provisions of this subsection shall also apply in the case of any distribution (not in complete liquidation) made by a qualified corporation before January 1, 1989, without regard to whether such corporation is completely liquidated.
+Application to nonliquidating distributions.—The provisions of this subsection shall also apply in the case of any distribution (not in completeliquidation) made by a qualified corporation before January 1, 1989, without regard to whether such corporation is completely liquidated.
 
 “(e)
 

@@ -6,13 +6,13 @@
 
 &emsp;(B) complying with the requirements of this chapter and related policies established by the Director.
 
-(2)(A) Except as provided under subparagraph (B), the head of each agency shall designate asenior official who shall report directly to such agency head to carry out the responsibilities of the agency under this chapter.
+(2)(A) Except as provided under subparagraph (B), the head of each agency shall designate a Chief Information Officer who shall report directly to such agency head to carry out the responsibilities of the agency under this chapter.
 
-(B) The Secretary of the Department of Defense and the Secretary of each military department may each designate senior officials who shall report directly to such Secretary to carry out the responsibilities of the department under this chapter. If more than one official is designated, the respective duties of the officials shall be clearly delineated.
+(B) The Secretary of the Department of Defense and the Secretary of each military department may each designate Chief Information Officers who shall report directly to such Secretary to carry out the responsibilities of the department under this chapter. If more than one Chief Information Officer is designated, the respective duties of the Chief Information Officers shall be clearly delineated.
 
-(3) The senior official designated under paragraph (2) shall head an office responsible for ensuring agency compliance with and prompt, efficient, and effective implementation of the information policies and information resources management responsibilities established under this chapter, including the reduction of information collection burdens on the public. The senior official and employees of such office shall be selected with special attention to the professional qualifications required to administer the functions described under this chapter.
+(3) The Chief Information Officer designated under paragraph (2) shall head an office responsible for ensuring agency compliance with and prompt, efficient, and effective implementation of the information policies and information resources management responsibilities established under this chapter, including the reduction of information collection burdens on the public. The Chief Information Officer and employees of such office shall be selected with special attention to the professional qualifications required to administer the functions described under this chapter.
 
-(4) Each agency program official shall be responsible and accountable for information resources assigned to and supporting the programs under such official. In consultation with the senior official designated under paragraph (2) and the agency Chief Financial Officer (or comparable official), each agency program official shall define program information needs and develop strategies, systems, and capabilities to meet those needs.
+(4) Each agency program official shall be responsible and accountable for information resources assigned to and supporting the programs under such official. In consultation with the Chief Information Officer designated under paragraph (2) and the agency Chief Financial Officer (or comparable official), each agency program official shall define program information needs and develop strategies, systems, and capabilities to meet those needs.
 
 (b) With respect to general information resources management, each agency shall—
 
@@ -40,7 +40,7 @@
 
 (c) With respect to the collection of information and the control of paperwork, each agency shall—
 
-&emsp;(1) establish a process within the office headed by the official designated under subsection (a), that is sufficiently independent of program responsibility to evaluate fairly whether proposed collections of information should be approved under this chapter, to—
+&emsp;(1) establish a process within the office headed by the Chief Information Officer designated under subsection (a), that is sufficiently independent of program responsibility to evaluate fairly whether proposed collections of information should be approved under this chapter, to—
 
 &emsp;&emsp;(A) review each collection of information before submission to the Director for review under this chapter, including—
 
@@ -76,7 +76,7 @@
 
 &emsp;&emsp;(C) assess the information collection burden of proposed legislation affecting the agency;
 
-&emsp;(2)(A) except as provided under subparagraph (B) or section 3507(j), provide 60-day notice inthe Federal Register, and otherwise consult with members of the public and affected agencies concerning each proposed collection of information, to solicit comment to—
+&emsp;(2)(A) except as provided under subparagraph (B) or section 3507(j), provide 60-day notice in the Federal Register, and otherwise consult with members of the public and affected agencies concerning each proposed collection of information, to solicit comment to—
 
 &emsp;&emsp;(i) evaluate whether the proposed collection of information is necessary for the proper performance of the functions of the agency, including whether the information shall have practical utility;
 
@@ -88,7 +88,7 @@
 
 &emsp;(B) for any proposed collection of information contained in a proposed rule (to be reviewed by the Director under section 3507(d)), provide notice and comment through the notice of proposed rulemaking for the proposed rule and such notice shall have the same purposes specified under subparagraph (A)(i) through (iv); and
 
-&emsp;(3) certify (and provide a record supporting such certification, including public comments received by the agency) that each collection of information submitted to the Director for review under section 3507—
+&emsp;(3) certify (and provide a record supporting such certification, including public comments received by the agency) that each collection ofinformation submitted to the Director for review under section 3507—
 
 &emsp;&emsp;(A) is necessary for the proper performance of the functions of the agency, including that the information has practical utility;
 
@@ -160,9 +160,9 @@
 
 &emsp;(1) implement and enforce applicable policies, procedures, standards, and guidelines on privacy, confidentiality, security, disclosure and sharing of information collected or maintained by or for the agency;
 
-&emsp;(2) assume responsibility and accountability for compliance with and coordinated management of sections 552 and 552a of title 5, the Computer Security Act of 1987 (40 U.S.C. 759 note), and related information management laws; and
+&emsp;(2) assume responsibility and accountability for compliance with and coordinated management of sections 552 and 552a of title 5, the Computer Security Act of 1987 (40 U.S.C. 759 note),<sup>1</sup> and related information management laws; and
 
-&emsp;(3) consistent with the Computer Security Act of 1987 (40 U.S.C. 759 note), identify and afford security protections commensurate with the risk and magnitude of the harm resulting from the loss, misuse, or unauthorized access to or modification of information collected or maintained by or on behalf of an agency.
+&emsp;(3) consistent with the Computer Security Act of 1987 (40 U.S.C. 759 note),<sup>1</sup> identify and afford security protections commensurate with the risk and magnitude of the harm resulting from the loss, misuse, or unauthorized access to or modification of information collected or maintained by or on behalf of an agency.
 
 (h) With respect to Federal information technology, each agency shall—
 
@@ -180,11 +180,11 @@
 
 &emsp;&emsp;(B) used to select, control, and evaluate the results of major information systems initiatives.
 
-(Added Pub. L. 104–13, §2, May 22, 1995, 109 Stat. 171.)
+(Added Pub. L. 104–13, §2, May 22, 1995, 109 Stat. 171; amended Pub. L. 104–106, div. E, title LI, §5125(a), Feb. 10, 1996, 110 Stat. 684.)
 
 #### References in Text
 
-The Computer Security Act of 1987, referred to in subsec. (g)(2), (3), is Pub. L. 100–235, Jan. 8, 1988, 101 Stat. 1724, which enacted sections 278g–3 and 278g–4 of Title 15, Commerce and Trade, amended section 272 of Title 15 and section 759 of Title 40, Public Buildings, Property, and Works, and enacted provisions set out as notes under section 271 of Title 15 and section 759 of Title 40. For complete classification of this Act to the Code, see Tables.
+The Computer Security Act of 1987, referred to in subsec. (g)(2), (3), is Pub. L. 100–235, Jan. 8, 1988, 101 Stat. 1724, which enacted sections 278g–3 and 278g–4 of Title 15, Commerce and Trade, amended section 272 of Title 15 and former section 759 of Title 40, Public Buildings, Property, and Works, and enacted provisions set out as notes under section 271 of Title 15 and section 1441 of Title 40. For complete classification of this Act to the Code, see Tables.
 
 #### Prior Provisions
 
@@ -192,7 +192,23 @@ A prior section 3506, added Pub. L. 96–511, §2(a), Dec. 11, 1980, 94 Stat. 28
 
 Another prior section 3506, Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1303, provided for determination of necessity for information and hearing thereon, prior to the general amendment of this chapter by Pub. L. 96–511. See section 3508 of this title.
 
+#### Amendments
+
+1996—Subsec. (a)(2)(A). Pub. L. 104–106, §5125(a)(1)(A), substituted “Chief Information Officer” for “senior official”.
+
+Subsec. (a)(2)(B). Pub. L. 104–106, §5125(a)(1)(B), substituted “designate Chief Information Officers” for “designate senior officials”, “Chief Information Officer” for “official”, and “the Chief Information Officers” for “the officials”.
+
+Subsec. (a)(3), (4). Pub. L. 104–106, §5125(a)(1)(C), substituted “Chief Information Officer” for “senior official” wherever appearing.
+
+Subsec. (c)(1). Pub. L. 104–106, §5125(a)(2), substituted “Chief Information Officer” for “official” in introductory provisions.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–106 effective 180 days after Feb. 10, 1996, see section 5701 of Pub. L. 104–106, set out as an Effective Date note under section 1401 of Title 40, Public Buildings, Property, and Works.
+
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3505, 3507 of this title; title 38 sections 308, 310; title 40 section 759.
+This section is referred to in sections 3505, 3507 of this title; title 38 sections 308, 310; title 40 sections 1422, 1423, 1427, 1441.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -24,7 +24,7 @@ For purposes of this section:
 
 &emsp;(2) The terms “mortgage”, “mortgagee”, “mortgagor”, and “State” have the meanings given such terms in section 1707 of this title.
 
-&emsp;(3) The term “home equity conversion mortgage” means a first mortgage which provides for future payments to the homeowner based on accumulated equity and which a housingcreditor (as defined in section 3802(2) of this title) is authorized to make (A) under any law of the United States (other than section 3803 of this title) or applicable agency regulations thereunder; (B) in accordance with section 3803 of this title, notwithstanding any State constitution, law, or regulation; or (C) under any State constitution, law, or regulation.
+&emsp;(3) The term “home equity conversion mortgage” means a first mortgage which provides for future payments to the homeowner based on accumulated equity and which a housing creditor (as defined in section 3802(2) of this title) is authorized to make (A) under any law of the United States (other than section 3803 of this title) or applicable agency regulations thereunder; (B) in accordance with section 3803 of this title, notwithstanding any State constitution, law, or regulation; or (C) under any State constitution, law, or regulation.
 
 #### (c) Insurance authority
 
@@ -50,7 +50,7 @@ To be eligible for insurance under this section, a mortgage shall—
 
 &emsp;&emsp;(C) meets any additional requirements prescribed by the Secretary;
 
-&emsp;(3) be secured by a dwelling that is designed principally for a 1-family residence and is occupied by the mortgagor;
+&emsp;(3) be secured by a dwelling that is designed principally for a 1- to 4-family residence in which the mortgagor occupies 1 of the units;
 
 &emsp;(4) provide that prepayment, in whole or in part, may be made without penalty at any time during the period of the mortgage;
 
@@ -114,7 +114,7 @@ The Secretary shall provide or cause to be provided by entities other than the l
 
 #### (g) Limitation on insurance authority
 
-No mortgage may be insured under this section after September 30, 1995, except pursuant to a commitment to insure issued on or before such date. The total number of mortgages insured under this section may not exceed 25,000. In no case may the benefits of insurance under this section exceed the maximum dollar amount established under section 1709(b)(2) of this title for 1-family residences in the area in which the dwelling subject to the mortgage under this section is located.
+No mortgage may be insured under this section after September 30, 2000, except pursuant to a commitment to insure issued on or before such date. The total number of mortgages insured under this section may not exceed 50,000. In no case may the benefits of insurance under this section exceed the maximum dollar amount established under section 1709(b)(2) of this title for 1-family residences in the area in which the dwelling subject to the mortgage under this section is located.
 
 #### (h) Administrative authority
 
@@ -180,9 +180,15 @@ The Secretary may not insure a home equity conversion mortgage under this sectio
 
 (4) Following submission of the preliminary evaluation, the Secretary shall, on a biennial basis, submit to the Congress an updated report and evaluation covering the period since the most recent report under this subsection and shall include analysis of the repayment of the home equity conversion mortgages under this demonstration during such period.
 
-(June 27, 1934, ch. 847, title II, §255, as added Feb. 5, 1988, Pub. L. 100–242, title IV, §417(a), 101 Stat. 1908; amended Nov. 7, 1988, Pub. L. 100–628, title X, §1066, 102 Stat. 3275; Nov. 5, 1990, Pub. L. 101–508, title II, §2106, 104 Stat. 1388–20; Nov. 28, 1990, Pub. L. 101–625, title III, §334(b)–(d), 104 Stat. 4141, 4142; Oct. 6, 1992, Pub. L. 102–389, title II, 106 Stat. 1592; Oct. 28, 1992, Pub. L. 102–550, title V, §§503(c)(2), 520, 106 Stat. 3779, 3793.)
+(June 27, 1934, ch. 847, title II, §255, as added Feb. 5, 1988, Pub. L. 100–242, title IV, §417(a), 101 Stat. 1908; amended Nov. 7, 1988, Pub. L. 100–628, title X, §1066, 102 Stat. 3275; Nov. 5, 1990, Pub. L. 101–508, title II, §2106, 104 Stat. 1388–20; Nov. 28, 1990, Pub. L. 101–625, title III, §334(b)–(d), 104 Stat. 4141, 4142; Oct. 6, 1992, Pub. L. 102–389, title II, 106 Stat. 1592; Oct. 28, 1992, Pub. L. 102–550, title V, §§503(c)(2), 520, 106 Stat. 3779, 3793; Jan. 26, 1996, Pub. L. 104–99, title IV, §406, 110 Stat. 45; Mar. 28, 1996, Pub. L. 104–120, §6, 110 Stat. 835.)
 
 #### Amendments
+
+1996—Subsec. (d)(3). Pub. L. 104–120, §6(c), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “be secured by a dwelling that is designed principally for a 1-family residence and is occupied by the mortgagor;”.
+
+Subsec. (g). Pub. L. 104–120, §6(a), (b), substituted “2000” for “1996” and “50,000” for “30,000”.
+
+Pub. L. 104–99 substituted “1996” for “1995” and “30,000” for “25,000”.
 
 1992—Subsec. (g). Pub. L. 102–389 and Pub. L. 102–550, §503(c)(2), amended subsec. (g) identically, substituting “for 1-family residences in the area in which the dwelling subject to the mortgage under this section is located” for “for a 1-family residence”.
 
@@ -201,6 +207,10 @@ Subsec. (g). Pub. L. 101–508, §2106, substituted “September 30, 1995” for
 1988—Subsec. (b)(3). Pub. L. 100–628, §1066(a), made technical amendment to reference to section 3802(2) of this title to correct reference to corresponding provision of original act.
 
 Subsec. (d)(3). Pub. L. 100–628, §1066(b), struck out “and that has a value not to exceed the maximum dollar amount established by the Secretary under section 1709(b)(2) of this title for a 1-family residence” after “by the mortgagor”.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–120 to be construed to have become effective Oct. 1, 1995, see section 13(a) of Pub. L. 104–120, set out as a note under section 1437d of Title 42, The Public Health and Welfare.
 
 #### Regulations
 

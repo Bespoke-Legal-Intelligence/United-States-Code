@@ -12,15 +12,17 @@ The purposes of the national centers for agricultural product quality research s
 
 &emsp;(4) provide a mechanism for dealing with the safety and wholesomeness of new food products and processes that use biotechnology (including transgenic plants and animals);
 
-&emsp;(5) provide factual public information about agricultural product quality and wholesomeness on a continuing basis; and
+&emsp;(5) enhance agricultural competitiveness through product quality research and technology implementation;
 
-&emsp;(6) where appropriate, build on existing institutional strengths and commitments to address issues relating to agricultural product quality and wholesomeness and on demonstrated capability to effectively link with operational units of the Department, other Federal agencies, and private industry.
+&emsp;(6) provide factual public information about agricultural product quality and wholesomeness on a continuing basis; and
+
+&emsp;(7) where appropriate, build on existing institutional strengths and commitments to address issues relating to agricultural product quality and wholesomeness and on demonstrated capability to effectively link with operational units of the Department, other Federal agencies, and private industry.
 
 #### (b) Characteristics of centers
 
 #### (1) Regional basis
 
-&emsp;The centers shall be regional based units that conduct a broad spectrum of research, development, and education programs to assure the safety and wholesomeness of food through the prevention, detection, and modification of processes and products involved in the food chain that potentially compromise agricultural product quality and wholesomeness.
+&emsp;The centers shall be regionally based units that conduct a broad spectrum of research, development, and education programs to enhance the competitiveness, quality, safety and wholesomeness of agricultural products.
 
 #### (2) Research approach
 
@@ -32,7 +34,7 @@ The purposes of the national centers for agricultural product quality research s
 
 #### (4) Research linkages
 
-&emsp;Appropriate linkages within the centers shall include related efforts in agriculture,medicine, veterinary medicine, public health, engineering and related life and physical sciences, and social sciences dealing with health related behavior.
+&emsp;Appropriate linkages within the centers shall include related efforts in agriculture, medicine, veterinary medicine, public health, engineering and related life and physical sciences, and social sciences dealing with health related behavior.
 
 #### (5) Research scope
 
@@ -60,11 +62,11 @@ The purposes of the national centers for agricultural product quality research s
 
 #### (1) Plan
 
-&emsp;A program plan shall be developed by the Department after obtaining the advice of representative users of the centers, including both action agencies and appropriate representatives from various segments of the food industry. The plan shall be submitted to the Congress for review at intervals of not less than once every three years.
+&emsp;A program plan shall be developed by the Department after obtaining the advice of representative users of the centers, including both action agencies and appropriate representatives from various segments of the food industry.
 
 #### (2) Review
 
-&emsp;Accomplishments and directions of the centers shall be reviewed by the Department on a periodic basis, but not less frequently than at the end of the second and fourth years after November 28, 1990. The persons conducting the review shall be appointed by, and report to, the Secretary.
+&emsp;Accomplishments and directions of the centers shall be reviewed by the Department on a periodic basis.
 
 #### (e) Limitation on use of funds
 
@@ -82,13 +84,23 @@ For purposes of this section:
 
 #### (g) Authorization of appropriations
 
-(1) There are authorized to be appropriated such funds as may be necessary to carry out this section for each of the fiscal years 1991 through 1995.
+(1) There are authorized to be appropriated such funds as may be necessary to carry out this section for each of the fiscal years 1991 through 1997.
 
 (2) The centers shall be funded through the Cooperative State Research Service in the Department.
 
-(Pub. L. 101–624, title XVI, §1675, Nov. 28, 1990, 104 Stat. 3777; Pub. L. 102–237, title IV, §407(14), Dec. 13, 1991, 105 Stat. 1865.)
+(Pub. L. 101–624, title XVI, §1675, Nov. 28, 1990, 104 Stat. 3777; Pub. L. 102–237, title IV, §407(14), Dec. 13, 1991, 105 Stat. 1865; Pub. L. 104–127, title VIII, §838, Apr. 4, 1996, 110 Stat. 1169.)
 
 #### Amendments
+
+1996—Subsec. (a)(5) to (7). Pub. L. 104–127, §838(a), added par. (5) and redesignated former pars. (5) and (6) as (6) and (7), respectively.
+
+Subsec. (b)(1). Pub. L. 104–127, §838(b), added par. (1) and struck out heading and text of former par. (1). Text read as follows: “The centers shall be regional based units that conduct a broad spectrum of research, development, and education programs to assure the safety and wholesomeness of food through the prevention, detection, and modification of processes and products involved in the food chain that potentially compromise agricultural product quality and wholesomeness.”
+
+Subsec. (d)(1). Pub. L. 104–127, §838(c)(1), struck out at end “The plan shall be submitted to the Congress for review at intervals of not less than once every three years.”
+
+Subsec. (d)(2). Pub. L. 104–127, §838(c)(2), struck out “, but not less frequently than at the end of the second and fourth years after November 28, 1990. The persons conducting the review shall be appointed by, and report to, the Secretary” after “periodic basis”.
+
+Subsec. (g)(1). Pub. L. 104–127, §838(d), substituted “1997” for “1995”.
 
 1991—Subsec. (c)(1). Pub. L. 102–237, §407(14)(A), added par. (1) and struck out former par. (1) “Grants” which read as follows: “The Secretary shall make grants to establish the centers. Such grants establishing centers shall be competitively awarded based on merit and relevance in reference to meeting the purposes specified in subsection (a) of this section.”
 

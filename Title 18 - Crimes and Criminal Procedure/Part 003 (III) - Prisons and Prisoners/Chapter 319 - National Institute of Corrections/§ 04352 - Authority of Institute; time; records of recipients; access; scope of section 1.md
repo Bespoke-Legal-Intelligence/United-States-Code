@@ -22,13 +22,13 @@
 
 &emsp;(10) to receive from any Federal department or agency such statistics, data, program reports, and other material as the Institute deems necessary to carry out its functions. Each such department or agency is author- ized to cooperate with the Institute and shall, to the maximum extent practicable, consult with and furnish information to the Institute;
 
-&emsp;(11) to arrange with and reimburse the heads of Federal departments and agencies for theuse of personnel, facilities, or equipment of such departments and agencies;
+&emsp;(11) to arrange with and reimburse the heads of Federal departments and agencies for the use of personnel, facilities, or equipment of such departments and agencies;
 
 &emsp;(12) to confer with and avail itself of the assistance, services, records, and facilities of State and local governments or other public or private agencies, organizations, or individuals;
 
 &emsp;(13) to enter into contracts with public or private agencies, organizations, or individuals, for the performance of any of the functions of the Institute; and
 
-&emsp;(14) to procure the services of experts and consultants in accordance with section 3109 of title 5 of the United States Code, at rates of compensation not to exceed the daily equivalent of the rate authorized for GS–18 by section 5332 of title 5 of the United States Code.
+&emsp;(14) to procure the services of experts and consultants in accordance with section 3109 of title 5 of the United States Code, at rates ofcompensation not to exceed the daily equivalent of the rate authorized for GS–18 by section 5332 of title 5 of the United States Code.
 
 \[(b) Repealed. Pub. L. 97–375, title I, §109(a), Dec. 21, 1982, 96 Stat. 1820.\]
 
@@ -45,6 +45,10 @@
 1990—Subsec. (c). Pub. L. 101–647 substituted “this chapter shall” for “this shall”.
 
 1982—Subsec. (b). Pub. L. 97–375 struck out subsec. (b) which directed the Institute to submit an annual report to the President and Congress, including a comprehensive and detailed report of the Institute's operations, activities, financial condition and accomplishments under this title, and which might include such recommendations related to corrections as the Institute deemed appropriate.
+
+#### Inclusion of National Institute of Corrections in Federal Prison System Salaries and Expenses Budget
+
+Pub. L. 104–208, div. A, title I, §101(a), \[title I\], Sept. 30, 1996, 110 Stat. 3009, 3009–11, provided in part: “That the National Institute of Corrections hereafter shall be included in the FPS Salaries and Expenses budget, in the Contract Confinement program and shall continue to perform its current functions under 18 U.S.C. 4351, et seq., with the exception of its grant program and shall collect reimbursement for services whenever possible”.
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 

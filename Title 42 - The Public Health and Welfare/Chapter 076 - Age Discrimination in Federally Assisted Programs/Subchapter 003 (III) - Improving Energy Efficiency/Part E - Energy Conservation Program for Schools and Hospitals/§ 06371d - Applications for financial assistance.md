@@ -16,7 +16,7 @@ Applications for financial assistance under this part for energy conservation pr
 
 &emsp;(A) related State programs for educational facilities in such State, and
 
-&emsp;(B)  State  health  plans  under  section 300m–3(c)(2) <sup>1</sup> and 300<i>o</i>–2 <sup>1</sup> of this title, and shall be coordinated through the review mechanisms required under section 300m–2 <sup>1</sup> of this title and section 1320a–1 of this title.
+&emsp;(B) State health plans under section 300m–3(c)(2) <sup>1</sup> and 300<i>o</i>–2 <sup>1</sup> of this title, and shall be coordinated through the review mechanisms required under section 300m–2 <sup>1</sup> of this title and section 1320a–1 of this title.
 
 #### (d) Compliance required for approval; reasons for disapproval; resubmittal; amendment
 

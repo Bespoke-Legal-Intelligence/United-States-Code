@@ -26,7 +26,7 @@ A prior section 3032, Pub. L. 89–73, title IV, §402, as added Pub. L. 93–29
 
 Another prior section 3032, Pub. L. 89–73, title IV, §402, July 14, 1965, 79 Stat. 224, related to payments of grants, providing in: subsec. (a) for contribution by recipients; subsec. (b) adjustments, advances or reimbursement, installments and conditions; and subsec. (c) consultation of Secretary with State agency prior to making grants or contracts, prior to repeal by Pub. L. 93–29, title IV, §401, May 3, 1973, 87 Stat. 45.
 
-A prior section 412 of Pub. L. 89–73, as added Pub. L. 93–29, title IV, §401, May 3, 1973, 87 Stat. 47, related to special study and demonstration projects on transportation problems of older Americans and was classified to section 3035a of this title, prior to repeal by Pub. L. 95–478, title I, §104(b)(3), Oct. 18, 1978, 92 Stat. 1539.
+A prior section 412 of Pub. L. 89–73, as added Pub. L. 93–29, title IV, §401, May 3, 1973, 87 Stat. 47, related tospecial study and demonstration projects on transportation problems of older Americans and was classified to section 3035a of this title, prior to repeal by Pub. L. 95–478, title I, §104(b)(3), Oct. 18, 1978, 92 Stat. 1539.
 
 Provisions similar to those comprising section 3032 were contained in former section 3036 of this title prior to the general amendment of this subchapter by Pub. L. 97–115.
 

@@ -4,7 +4,7 @@
 
 &emsp;(A) An officer holding the regular grade of lieutenant colonel or commander who has failed of selection for promotion to the grade of colonel or, in the case of an officer of the Navy, captain two or more times and whose name is not on a list of officers recommended for promotion.
 
-&emsp;(B) An officer holding the regular grade of colonel or, in the case of an officer of the Navy, captain who has served at least four years of active duty in that grade and whose name is not on a list of officers recommended for promotion.
+&emsp;(B) An officer holding the regular grade of colonel or, in the case of an officer of theNavy, captain who has served at least four years of active duty in that grade and whose name is not on a list of officers recommended for promotion.
 
 &emsp;(C) An officer holding the regular grade of brigadier general or rear admiral (lower half) who has served at least three and one-half years of active duty in that grade and whose name is not on a list of officers recommended for promotion.
 
@@ -22,6 +22,8 @@
 
 (2) An officer who holds the regular grade of brigadier general, major general, rear admiral (lower half), or rear admiral who is recommended for early retirement under this section and whose early retirement is approved by the Secretary concerned shall be retired, under any provision of law under which he is eligible to retire, on the date requested by him and approved by the Secretary concerned, which date shall be not later than the first day of the tenth calendar month beginning after the month in which the Secretary concerned approved the report of the board which recommended the officer for early retirement.
 
+(3) The Secretary concerned may defer for not more than 90 days the retirement of an officer otherwise approved for early retirement under this section or section 638a of this title in order to prevent a personal hardship to the officer or for other humanitarian reasons. Any such deferral shall be made on a case-by-case basis considering the circumstances of the case of the particular officer concerned. The authority of the Secretary to grant such a deferral may not be delegated.
+
 (c) So long as an officer in a grade below brigadier general or rear admiral (lower half) holds the same grade, he may not be considered for early retirement under this section more than once in any five-year period.
 
 (d) The retirement of an officer pursuant to this section shall be considered to be an involuntary retirement for purposes of any other provision of law.
@@ -34,9 +36,11 @@
 
 (C) An officer not considered by a selection board convened under section 611(b) of this title by reason of subparagraph (B) shall be retired on the date approved for the retirement of that officer as of the convening date of such selection board unless the Secretary concerned approves a modification of such date in order to prevent a personal hardship for the officer or for other humanitarian reasons.
 
-(Added Pub. L. 96–513, title I, §105, Dec. 12, 1980, 94 Stat. 2864; amended Pub. L. 97–22, §4(f), July 10, 1981, 95 Stat. 127; Pub. L. 97–86, title IV, §405(b)(1), Dec. 1, 1981, 95 Stat. 1105; Pub. L. 99–145, title V, §514(b)(1), Nov. 8, 1985, 99 Stat. 628; Pub. L. 100–456, div. A, title V, §504, Sept. 29, 1988, 102 Stat. 1967; Pub. L. 101–510, div. A, title V, §521(b)(2), Nov. 5, 1990, 104 Stat. 1561; Pub. L. 102–190, div. A, title V, §503(a), Dec. 5, 1991, 105 Stat. 1355; Pub. L. 103–160, div. A, title V, §506, Nov. 30, 1993, 107 Stat. 1646.)
+(Added Pub. L. 96–513, title I, §105, Dec. 12, 1980, 94 Stat. 2864; amended Pub. L. 97–22, §4(f), July 10, 1981, 95 Stat. 127; Pub. L. 97–86, title IV, §405(b)(1), Dec. 1, 1981, 95 Stat. 1105; Pub. L. 99–145, title V, §514(b)(1), Nov. 8, 1985, 99 Stat. 628; Pub. L. 100–456, div. A, title V, §504, Sept. 29, 1988, 102 Stat. 1967; Pub. L. 101–510, div. A, title V, §521(b)(2), Nov. 5, 1990, 104 Stat. 1561; Pub. L. 102–190, div. A, title V, §503(a), Dec. 5, 1991, 105 Stat. 1355; Pub. L. 103–160, div. A, title V, §506, Nov. 30, 1993, 107 Stat. 1646; Pub. L. 104–106, div. A, title V, §504(b), Feb. 10, 1996, 110 Stat. 295.)
 
 #### Amendments
+
+1996—Subsec. (b)(3). Pub. L. 104–106 added par. (3).
 
 1993—Subsec. (e)(2)(B). Pub. L. 103–160 inserted “(i)” after “grade and competitive category”, inserted “(ii)” after “of this title, or”, and struck out comma after “any provision of law”.
 
@@ -72,5 +76,5 @@ Amendment by Pub. L. 97–86 effective Sept. 15, 1981, see section 405(f) of Pub
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 611, 638a of this title.
+This section is referred to in sections 611, 638a, 688 of this title.
 

@@ -66,9 +66,9 @@
 
 &emsp;(B) the adversely affected worker has a right to obtain training or funds for training under such plan or program, and
 
-&emsp;(C) such plan or program requires the worker to reimburse the plan or program from funds provided under this part, or from wages paid under such training program, for any portion of the costs of such training program paid under the plan or program.
+&emsp;(C) such plan or program requires the worker to reimburse the plan or program from fundsprovided under this part, or from wages paid under such training program, for any portion of the costs of such training program paid under the plan or program.
 
-(8) The Secretary may approve training for any adversely affected worker who is a member of a group certified under subpart A of this partat any time after the date on which the group is certified under subpart A of this part, without regard to whether such worker has exhausted all rights to any unemployment insurance to which the worker is entitled.
+(8) The Secretary may approve training for any adversely affected worker who is a member of a group certified under subpart A of this part at any time after the date on which the group is certified under subpart A of this part, without regard to whether such worker has exhausted all rights to any unemployment insurance to which the worker is entitled.
 
 (9) The Secretary shall prescribe regulations which set forth the criteria under each of the subparagraphs of paragraph (1) that will be used as the basis for making determinations under paragraph (1).
 
@@ -120,7 +120,7 @@ For purposes of this section the term “suitable employment” means, with resp
 
 #### References in Text
 
-Section 195(2) of the Vocational Education Act of 1963, referred to in subsec. (a)(1)(D), is section 195(2) of Pub. L. 88–210, title I, as added by Pub. L. 94–482, title II, §202(a), Oct. 12, 1976, 90 Stat. 2211, and amended, which was classified to section 2461(2) of Title 20, Education, prior to the general revision and redesignation of Pub. L. 88–210 as the Carl D. Perkins Vocational Education Act by Pub. L. 98–524, §1, Oct. 19, 1984, 98 Stat. 2435. The definition of “area vocational education school” is now contained in section 521(4) of Pub. L. 88–210, which is classified to section 2471(4) of Title 20.
+Section 195(2) of the Vocational Education Act of 1963, referred to in subsec. (a)(1)(D), is section 195(2) ofPub. L. 88–210, title I, as added by Pub. L. 94–482, title II, §202(a), Oct. 12, 1976, 90 Stat. 2211, and amended, which was classified to section 2461(2) of Title 20, Education, prior to the general revision and redesignation of Pub. L. 88–210 as the Carl D. Perkins Vocational Education Act by Pub. L. 98–524, §1, Oct. 19, 1984, 98 Stat. 2435. The definition of “area vocational education school” is now contained in section 521(4) of Pub. L. 88–210, which is classified to section 2471(4) of Title 20.
 
 Section 1653 of title 29, referred to in subsec. (a)(5)(B), was amended generally by Pub. L. 100–418, title VI, §6302(a), Aug. 23, 1988, 102 Stat. 1527, and, as so amended, does not refer to training programs provided by a State.
 

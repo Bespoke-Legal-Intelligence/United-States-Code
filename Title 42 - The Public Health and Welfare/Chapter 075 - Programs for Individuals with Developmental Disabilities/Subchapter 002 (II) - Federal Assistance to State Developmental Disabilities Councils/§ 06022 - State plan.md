@@ -78,7 +78,7 @@ In order to be approved by the Secretary under this section, a State plan shall 
 
 &emsp;&emsp;&emsp;(vi) not less than 65 percent of the amount available to the State under section 6025 of this title shall be expended for activities in the Federal priority area of employment activities, and, at the discretion of the State, activities in any or all of the three other Federal priority areas and an optional State priority area; and
 
-&emsp;&emsp;&emsp;(vii) the remainder of the amount available to the State from allotments under section 6025 of this title (after making expenditures required by clause (vi)) shall be used for the planning, coordination, administration, and implementation of priority area activities, and other activities relating to systemic change, capacity building, and advocacy to implement the responsibilities of the State Developmental Disabilities Council pursuant to section 6024(c) of this title.
+&emsp;&emsp;&emsp;(vii) the remainder of the amount available to the State from allotments undersection 6025 of this title (after making expenditures required by clause (vi)) shall be used for the planning, coordination, administration, and implementation of priority area activities, and other activities relating to systemic change, capacity building, and advocacy to implement the responsibilities of the State Developmental Disabilities Council pursuant to section 6024(c) of this title.
 
 #### (B) State financial participation
 
@@ -160,7 +160,7 @@ A prior section 122 of Pub. L. 88–164, title I, as added Pub. L. 94–103, tit
 
 1994—Pub. L. 103–230 substituted “State plan” for “State plans” in section catchline and amended text generally, substituting, in subsec. (a), provisions relating to submission of plan to Secretary of Health and Human Services for similar provisions, in subsec. (b), provisions relating to planning cycle for provisions relating to plan requirements and contents, in subsec. (c), provisions relating to plan requirements for provisions relating to approval or final disapproval of plan and to notice and hearing requirements, in subsec. (d), provisions relating to public review, submission, and approval of plan for provisions relating to administration of plan and treatment of expenditures arising therefrom, and struck out former subsecs. (e) and (f), relating, respectively, to continued designation of previously designated State agency and to comprehensive review and analysis of services by State Planning Council and reports of such review.
 
-1991—Subsec. (b)(5)(C). Pub. L. 102–119 substituted reference to the Individuals with Disabilities EducationAct for reference to the Education of the Handicapped Act in the original, which for purposes of codification was translated as section 1418 of title 20, thus requiring no change in text.
+1991—Subsec. (b)(5)(C). Pub. L. 102–119 substituted reference to the Individuals with Disabilities Education Act for reference to the Education of the Handicapped Act in the original, which for purposes of codification was translated as section 1418 of title 20, thus requiring no change in text.
 
 1990—Subsec. (b)(1)(B). Pub. L. 101–496, §11(1), amended first sentence generally. Prior to amendment, first sentence read as follows: “The plan must designate the State agency which shall administer or supervise the administration of the State plan (hereafter in this subchapter referred to as the ‘designated State agency’).”
 
@@ -190,7 +190,7 @@ Subsec. (b)(1)(C). Pub. L. 100–146, §202(b)(1)(A)(iii), substituted “the”
 
 Subsec. (b)(2)(A). Pub. L. 100–146, §202(b)(2)(A), inserted “, activities,” after “programs”.
 
-Subsec. (b)(2)(C)(i). Pub. L. 100–146, §202(b)(2)(B), inserted cl. (i) and struck out former cl. (i) which read as follows: “the extent and scope of services being provided, or to be provided, to persons with developmental disabilities under such other State plans for federally assisted State programs as the State conducts relating to education for the handicapped, vocational rehabilitation, public assistance, medical assistance, social services, maternal and child health, crippled children's services, and comprehensive health and mental health, and under such other plans as the Secretary may specify, and”.
+Subsec. (b)(2)(C)(i). Pub. L. 100–146, §202(b)(2)(B), inserted cl. (i) and struck out former cl. (i) which read as follows: “the extent and scope of services being provided, or to be provided, to persons with developmentaldisabilities under such other State plans for federally assisted State programs as the State conducts relating to education for the handicapped, vocational rehabilitation, public assistance, medical assistance, social services, maternal and child health, crippled children's services, and comprehensive health and mental health, and under such other plans as the Secretary may specify, and”.
 
 Subsec. (b)(2)(D). Pub. L. 100–146, §202(b)(2)(C), substituted “Federal and State priority areas which are addressed or which will be addressed” for “priority services being or to be provided”.
 
@@ -220,7 +220,7 @@ Subsec. (e). Pub. L. 100–146, §202(b)(1)(B), added subsec. (e).
 
 Subsec. (f). Pub. L. 100–146, §202(b)(3)(C), added subsec. (f).
 
-1985—Subsec. (b)(4)(C). Pub. L. 99–91 amended subpar. (C) generally. Prior to amendment, subpar. (C) read asfollows: “Notwithstanding the requirements of subparagraph (B), upon the application of a State, the Secretary, pursuant to regulations which the Secretary shall prescribe, may permit the portion of the funds which must otherwise be expended under the State plan for service activities in a limited number of services to be expended for service activities in additional services if the Secretary determines that the expenditures of the State on service activities in the initially specified services has reasonably met the need for those services in the State in comparison to the extent to which the need for such additional services has been met in such State. Such additional areas shall, to the maximum extent feasible, be areas within the priority services.”
+1985—Subsec. (b)(4)(C). Pub. L. 99–91 amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “Notwithstanding the requirements of subparagraph (B), upon the application of a State, the Secretary, pursuant to regulations which the Secretary shall prescribe, may permit the portion of the funds which must otherwise be expended under the State plan for service activities in a limited number of services to be expended for service activities in additional services if the Secretary determines that the expenditures of the State on service activities in the initially specified services has reasonably met the need for those services in the State in comparison to the extent to which the need for such additional services has been met in such State. Such additional areas shall, to the maximum extent feasible, be areas within the priority services.”
 
 #### Effective Date of 1987 Amendment
 

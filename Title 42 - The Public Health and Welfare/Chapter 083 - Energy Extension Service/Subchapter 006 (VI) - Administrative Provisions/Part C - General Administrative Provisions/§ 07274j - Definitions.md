@@ -12,7 +12,7 @@ For purposes of sections 7274h to 7274j of this title:
 
 &emsp;&emsp;(D) an atomic weapons research facility that is under the control or jurisdiction of the Secretary (including the Lawrence Livermore, Los Alamos, and Sandia National Laboratories); or
 
-&emsp;&emsp;(E) any facility described in paragraphs (1) through (4) <sup>1</sup> that—
+&emsp;&emsp;(E) any facility described in subparagraphs (A) through (D) that—
 
 &emsp;&emsp;&emsp;(i) is no longer in operation;
 
@@ -22,7 +22,7 @@ For purposes of sections 7274h to 7274j of this title:
 
 &emsp;(2) The term “Department of Energy employee” means any employee of the Department of Energy employed at a Department of Energy defense nuclear facility, including any employee of a contractor or subcontractor of the Department of Energy employed at such a facility.
 
-(Pub. L. 102–484, div. C, title XXXI, §3163, Oct. 23, 1992, 106 Stat. 2647.)
+(Pub. L. 102–484, div. C, title XXXI, §3163, Oct. 23, 1992, 106 Stat. 2647; Pub. L. 104–106, div. A, title XV, §1504(c)(2), Feb. 10, 1996, 110 Stat. 514.)
 
 #### References in Text
 
@@ -32,9 +32,11 @@ Executive Order Number 12344, referred to in par. (1)(A), is set out as a note u
 
 Section was enacted as part of the National Defense Authorization Act for Fiscal Year 1993, and not as part of the Department of Energy Organization Act which comprises this chapter.
 
+#### Amendments
+
+1996—Par. (1)(E). Pub. L. 104–106 substituted “subparagraphs (A) through (D)” for “paragraphs (1) through (4)”.
+
 #### Section Referred to in Other Sections
 
 This section is referred to in section 7274h of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should be “subparagraphs (A) through (D)”.</i>
 

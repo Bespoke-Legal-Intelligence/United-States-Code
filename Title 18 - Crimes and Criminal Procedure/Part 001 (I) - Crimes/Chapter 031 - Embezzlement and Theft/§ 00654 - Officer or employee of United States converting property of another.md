@@ -1,8 +1,8 @@
 ### §654. Officer or employee of United States converting property of another
 
-Whoever, being an officer or employee of the United States or of any department or agency thereof, embezzles or wrongfully converts to his own use the money or property of another which comes into his possession or under his control in the execution of such office or employment, or under color or claim of authority as such officer or employee, shall be fined under this title or not more than the value of the money and property thus embezzled or converted, whichever is greater, or imprisoned not more than ten years, or both; but if the sum embezzled is $100 or less, he shall be fined under this title or imprisoned not more than one year, or both.
+Whoever, being an officer or employee of the United States or of any department or agency thereof, embezzles or wrongfully converts to his own use the money or property of another which comes into his possession or under his control in the execution of such office or employment, or under color or claim of authority as such officer or employee, shall be fined under this title or not more than the value of the money and property thus embezzled or converted, whichever is greater, or imprisoned not more than ten years, or both; but if the sum embezzled is $1,000 or less, he shall be fined under this title or imprisoned not more than one year, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 728; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(H), (2)(H), 108 Stat. 2147, 2148.)
+(June 25, 1948, ch. 645, 62 Stat. 728; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(H), (2)(H), 108 Stat. 2147, 2148; Oct. 11, 1996, Pub. L. 104–294, title VI, §606(a), 110 Stat. 3511.)
 
 #### Historical and Revision Notes
 
@@ -17,6 +17,8 @@ The smaller punishment for an offense involving $100 or less was added. (See rev
 Minor changes were made in phraseology.
 
 #### Amendments
+
+1996—Pub. L. 104–294 substituted “$1,000” for “$100”.
 
 1994—Pub. L. 103–322, §330016(2)(H), substituted “shall be fined under this title or not more than the value of the money and property thus embezzled or converted, whichever is greater, or imprisoned” for “shall be fined not more than the value of the money and property thus embezzled or converted, or imprisoned”.
 

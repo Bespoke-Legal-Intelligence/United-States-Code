@@ -8,7 +8,7 @@
 
 &emsp;(3) the leave recipient is separated from service.
 
-(b)(1) The employing agency of a leave recipient shall, consistent with guidelines prescribed by the Office of Personnel Management, establish procedures to ensure that a leave recipient is not permitted to use or receive any transferred leave under this subchapter after the medical emergency terminates.
+(b)(1) The employing agency of a leave recipient shall, consistent with guidelines prescribedby the Office of Personnel Management, establish procedures to ensure that a leave recipient is not permitted to use or receive any transferred leave under this subchapter after the medical emergency terminates.
 
 (2) Nothing in section 5551, 5552, or 6306 shall apply with respect to any annual leave transferred to a leave recipient under this subchapter.
 

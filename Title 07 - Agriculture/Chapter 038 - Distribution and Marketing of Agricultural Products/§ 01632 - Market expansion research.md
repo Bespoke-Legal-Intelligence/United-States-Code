@@ -1,6 +1,6 @@
 ### §1632. Market expansion research
 
-(a) The Secretary of Agriculture, using available funds, shall increase and intensify research programs conducted by or for the Department of Agriculture that are directed at developing technology to overcome barriers to expanded sales of United States agricultural commodities and the products thereof in domestic and foreign markets, including research programs for the development of procedures to meet plant quarantine requirements and improvement in the transportation and handling of perishable agricultural commodities.
+(a) The Secretary of Agriculture, using available funds, shall increase and intensify research programs conducted by or for the Department of Agriculture that are directed at developingtechnology to overcome barriers to expanded sales of United States agricultural commodities and the products thereof in domestic and foreign markets, including research programs for the development of procedures to meet plant quarantine requirements and improvement in the transportation and handling of perishable agricultural commodities.
 
 (b)(1) The Secretary of Agriculture shall conduct a research and development program to formulate new uses for farm and forest products. Such program shall include, but not be limited to, research and development of industrial, new, and value-added products.
 

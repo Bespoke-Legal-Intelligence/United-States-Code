@@ -22,9 +22,9 @@
 
 &emsp;(2) in the case of a felony—
 
-&emsp;&emsp;(A) the amount of $50 if the defendant is an individual; and
+&emsp;&emsp;(A) the amount of $100 if the defendant is an individual; and
 
-&emsp;&emsp;(B) the amount of $200 if the defendant is a person other than an individual.
+&emsp;&emsp;(B) the amount of $400 if the defendant is a person other than an individual.
 
 (b) Such amount so assessed shall be collected in the manner that fines are collected in criminal cases.
 
@@ -32,9 +32,13 @@
 
 (d) For the purposes of this section, an offense under section 13 of this title is an offense against the United States.
 
-(Added Pub. L. 98–473, title II, §1405(a), Oct. 12, 1984, 98 Stat. 2174; amended Pub. L. 100–185, §3, Dec. 11, 1987, 101 Stat. 1279; Pub. L. 100–690, title VII, §§7082(b), 7085, Nov. 18, 1988, 102 Stat. 4407, 4408; Pub. L. 101–647, title XXXV, §3569, Nov. 29, 1990, 104 Stat. 4928.)
+(Added Pub. L. 98–473, title II, §1405(a), Oct. 12, 1984, 98 Stat. 2174; amended Pub. L. 100–185, §3, Dec. 11, 1987, 101 Stat. 1279; Pub. L. 100–690, title VII, §§7082(b), 7085, Nov. 18, 1988, 102 Stat. 4407, 4408; Pub. L. 101–647, title XXXV, §3569, Nov. 29, 1990, 104 Stat. 4928; Pub. L. 104–132, title II, §210, Apr. 24, 1996, 110 Stat. 1240; Pub. L. 104–294, title VI, §601(r)(4), Oct. 11, 1996, 110 Stat. 3502.)
 
 #### Amendments
+
+1996—Subsec. (a)(2). Pub. L. 104–294 struck out “not less than” before “$100” in subpar. (A) and before “$400” in subpar. (B).
+
+Pub. L. 104–132 substituted “not less than $100” for “$50” in subpar. (A) and “not less than $400” for “$200” in subpar. (B).
 
 1990—Subsec. (a)(1)(B). Pub. L. 101–647 substituted “an infraction” for “a infraction” in cl. (i) and a semicolon for a period at end of cl. (iii).
 
@@ -48,11 +52,15 @@ Subsec. (c). Pub. L. 100–690, §7082(b), inserted at end “This subsection sh
 
 1987—Subsecs. (c), (d). Pub. L. 100–185 added subsecs. (c) and (d).
 
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–132 effective, to extent constitutionally permissible, for sentencing proceedings in cases in which defendant is convicted on or after Apr. 24, 1996, see section 211 of Pub. L. 104–132, set out as a note under section 2248 of this title.
+
 #### Effective Date
 
 Section effective 30 days after Oct. 12, 1984, see section 1409(a) of Pub. L. 98–473, set out as a note under section 10601 of Title 42, The Public Health and Welfare.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 42 section 10601.
+This section is referred to in sections 3563, 3612, 3663 of this title; title 42 section 10601.
 

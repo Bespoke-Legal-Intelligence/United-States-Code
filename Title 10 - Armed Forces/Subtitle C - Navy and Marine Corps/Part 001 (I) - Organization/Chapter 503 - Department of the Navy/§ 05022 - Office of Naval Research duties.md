@@ -1,6 +1,8 @@
 ### §5022. Office of Naval Research: duties
 
-(a) There is in the Office of the Secretary of the Navy an Office of Naval Research.
+(a)(1) There is in the Office of the Secretary of the Navy an Office of Naval Research.
+
+(2) Unless appointed to higher grade under another provision of law, an officer, while serving in the Office of Naval Research as Chief of Naval Research, has the rank of rear admiral (upper half).
 
 (b) The Office of Naval Research shall perform such duties as the Secretary of the Navy prescribes relating to—
 
@@ -14,7 +16,7 @@
 
 (d) The Office of Naval Research shall perform its duties under the authority of the Secretary, and its orders are considered as coming from the Secretary.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 291, §5151; renumbered §5022, Oct. 1, 1986, Pub. L. 99–433, title V, §511(d), 100 Stat. 1048; amended Nov. 5, 1990, Pub. L. 101–510, div. A, title IX, §910(b)(1), 104 Stat. 1625.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 291, §5151; renumbered §5022, Oct. 1, 1986, Pub. L. 99–433, title V, §511(d), 100 Stat. 1048; amended Nov. 5, 1990, Pub. L. 101–510, div. A, title IX, §910(b)(1), 104Stat. 1625; Sept. 23, 1996, Pub. L. 104–201, div. A, title V, §501(a), 110 Stat. 2510.)
 
 Historical and Revision Notes
 
@@ -46,7 +48,13 @@ In subsection (c) the words “shall have full force and effect as such” are o
 
 #### Amendments
 
+1996—Subsec. (a). Pub. L. 104–201 designated existing provisions as par. (1) and added par. (2).
+
 1990—Pub. L. 101–510 added subsec. (a) and redesignated former subsecs. (a) to (c) as (b) to (d), respectively.
+
+#### Effective Date of 1996 Amendment
+
+Section 501(b) of Pub. L. 104–201 provided that: “Paragraph (2) of section 5022(a) of title 10, United States Code, as added by subsection (a), shall take effect upon the occurrence of the first vacancy in the position of Chief of Naval Research after the date of the enactment of this Act \[Sept. 23, 1996\].”
 
 #### Section Referred to in Other Sections
 

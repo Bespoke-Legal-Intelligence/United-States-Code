@@ -32,7 +32,7 @@ The President is hereby authorized to accept membership for the United States in
 
 #### (4) Disposition of net income distributed by the facility
 
-&emsp;Any payment made to the United States by the Bank as a distribution of net income shallbe covered into the Treasury as a miscellaneous receipt.
+&emsp;Any payment made to the United States by the Bank as a distribution of net income shall be covered into the Treasury as a miscellaneous receipt.
 
 #### (c) Compensation of Board members
 
@@ -54,7 +54,7 @@ Unless authorized by law, neither the President nor any person or agency shall, 
 
 #### (f) Federal Reserve banks as depositories
 
-Any Federal Reserve bank that is requested to do so by the Bank shall act as its depository or as its fiscal agent, and the Board of Governors of the Federal Reserve System shall supervise and direct the carrying out of these functions by the Federal Reserve banks.
+Any Federal Reserve bank that is requested to do so by the Bank shall act as its depository oras its fiscal agent, and the Board of Governors of the Federal Reserve System shall supervise and direct the carrying out of these functions by the Federal Reserve banks.
 
 #### (g) Jurisdiction of United States courts and enforcement of arbitral awards
 

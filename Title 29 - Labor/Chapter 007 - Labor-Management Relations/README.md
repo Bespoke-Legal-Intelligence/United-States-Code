@@ -53,7 +53,7 @@
 | (i) | Repealed. |
 | (j) | Injunctions. |
 | (k) | Hearings on jurisdictional strikes. |
-| (<i>l)</i> | Boycotts and strikes to force recognition of uncertified labor organizations; injunctions; notice; service of process. |
+| (<i>l</i>) | Boycotts and strikes to force recognition of uncertified labor organizations; injunctions; notice; service of process. |
 | (m) | Priority of cases. |
 | [161\.](Subchapter%20002%20%28II%29%20-%20National%20Labor%20Relations/%C2%A7%2000161%20-%20Investigatory%20powers%20of%20Board.md) | Investigatory powers of Board. |
 | [162\.](Subchapter%20002%20%28II%29%20-%20National%20Labor%20Relations/%C2%A7%2000162%20-%20Offenses%20and%20penalties.md) | Offenses and penalties. |
@@ -161,3 +161,4 @@ This chapter is referred to in sections 401, 402, 1002, 1415, 1803 of this title
 - [Subchapter 002 (II) - National Labor Relations](Subchapter%20002%20%28II%29%20-%20National%20Labor%20Relations/README.md)
 - [Subchapter 003 (III) - Conciliation of Labor Disputes; National Emergencies](Subchapter%20003%20%28III%29%20-%20Conciliation%20of%20Labor%20Disputes%3B%20National%20Emergencies/README.md)
 - [Subchapter 004 (IV) - Liabilities of and Restrictions on Labor and Management](Subchapter%20004%20%28IV%29%20-%20Liabilities%20of%20and%20Restrictions%20on%20Labor%20and%20Management/README.md)
+- [Subchapter 005 (V) - Congressional Joint Committee on Labor-Management Relations](Subchapter%20005%20%28V%29%20-%20Congressional%20Joint%20Committee%20on%20Labor-Management%20Relations/README.md)

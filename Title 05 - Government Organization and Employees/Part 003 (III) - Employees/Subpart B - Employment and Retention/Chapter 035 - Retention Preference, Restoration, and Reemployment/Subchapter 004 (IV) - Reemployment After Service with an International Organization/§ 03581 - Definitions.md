@@ -32,7 +32,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 5 U.S.C. 2331.
 
@@ -50,9 +52,9 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-<b>1975</b>—Subsec. (5)(A). Pub. L. 94–183 substituted “3582(b)” for “3582(a)”.
+1975—Subsec. (5)(A). Pub. L. 94–183 substituted “3582(b)” for “3582(a)”.
 
-<b>1969</b>—Par. (5). Pub. L. 91–175 substituted “the first 5 consecutive years, or any extension thereof, after entering the employ of the international organization” for “the first 3 consecutive years after entering the employ of the international organization”.
+1969—Par. (5). Pub. L. 91–175 substituted “the first 5 consecutive years, or any extension thereof, after entering the employ of the international organization” for “the first 3 consecutive years after entering the employ of the international organization”.
 
 #### Delegation of Authority
 

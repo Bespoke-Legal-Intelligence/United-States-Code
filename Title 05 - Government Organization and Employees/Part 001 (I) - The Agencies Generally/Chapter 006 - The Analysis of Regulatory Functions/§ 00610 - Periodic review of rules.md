@@ -10,11 +10,11 @@
 
 &emsp;(3) the complexity of the rule;
 
-&emsp;(4) the extent to which the rule overlaps, duplicates or conflicts with other Federal rules,and, to the extent feasible, with State and local governmental rules; and
+&emsp;(4) the extent to which the rule overlaps, duplicates or conflicts with other Federal rules, and, to the extent feasible, with State and local governmental rules; and
 
 &emsp;(5) the length of time since the rule has been evaluated or the degree to which technology, economic conditions, or other factors have changed in the area affected by the rule.
 
-(c) Each year, each agency shall publish in the Federal Register a list of the rules which have a significant economic impact on a substantial number of small entities, which are to be reviewed pursuant to this section during the succeeding twelve months. The list shall include a brief description of each rule and the need for and legal basis of such rule and shall invite public comment upon the rule.
+(c) Each year, each agency shall publish in the Federal Register a list of the rules which have asignificant economic impact on a substantial number of small entities, which are to be reviewed pursuant to this section during the succeeding twelve months. The list shall include a brief description of each rule and the need for and legal basis of such rule and shall invite public comment upon the rule.
 
 (Added Pub. L. 96–354, §3(a), Sept. 19, 1980, 94 Stat. 1169.)
 
@@ -24,5 +24,5 @@ The effective date of this chapter, referred to in subsec. (a), is Jan. 1, 1981.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 605 of this title.
+This section is referred to in sections 605, 611 of this title.
 

@@ -12,7 +12,7 @@ The application submitted by the State under subsection (a) of this section shal
 
 &emsp;(1) Only families may be eligible to receive assistance and services through the Project.
 
-&emsp;(2) Participating families, families eligible for or participating in the program authorized under part A of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\] or the food stampprogram that are assigned to and found eligible for the Project, and families required to submit an application for the Project that are found eligible for the Project shall be ineligible to receive benefits under the food stamp program.
+&emsp;(2) Participating families, families eligible for or participating in the program authorized under part A of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\] or the food stamp program that are assigned to and found eligible for the Project, and families required to submit an application for the Project that are found eligible for the Project shall be ineligible to receive benefits under the food stamp program.
 
 &emsp;(3)(A) Subject to the provisions of this paragraph and any reduction imposed under subsection (c)(3) of this section, the value of assistance provided to participating families shall not be less than the aggregate value of the assistance such families could receive under the food stamp program and part A of title IV of the Social Security Act if such families did not participate in the Project.
 
@@ -20,7 +20,7 @@ The application submitted by the State under subsection (a) of this section shal
 
 &emsp;&emsp;(i) payments for child care expenses under the Project shall be considered part of the value of assistance provided to participating families with earnings;
 
-&emsp;&emsp;(ii) payments for child care expenses for families without earnings shall not be considered part of the value of assistance provided to participating families or the aggregate value of assistance that such families could have received under the food stamp program and part A of title IV of the Social Security Act; and
+&emsp;&emsp;(ii) payments for child care expenses for families without earnings shall not be considered part of the value of assistance provided to participating families or the aggregate value of assistance that such families could have received under the food stampprogram and part A of title IV of the Social Security Act; and
 
 &emsp;&emsp;(iii) any child support payments not assigned to the State under the provisions of part A of title IV of the Social Security Act, less $50 per month, shall be considered part of the aggregate value of assistance participating families would receive if such families did not participate in the Project;
 
@@ -58,7 +58,7 @@ The application submitted by the State under subsection (a) of this section shal
 
 &emsp;&emsp;(A) the State shall promptly determine eligibility for the Project, and issue assistance to eligible families, retroactive to the date of application, not later than thirty days following the family's filing of an application;
 
-&emsp;&emsp;(B) in the case of families determined ineligible for the Project upon application, the application for the Project shall be deemed an application for the food stamp program,and benefits under the food stamp program shall be issued to those found eligible following the standards established under the food stamp program;
+&emsp;&emsp;(B) in the case of families determined ineligible for the Project upon application, the application for the Project shall be deemed an application for the food stamp program, and benefits under the food stamp program shall be issued to those found eligible following the standards established under the food stamp program;
 
 &emsp;&emsp;(C) expedited benefits shall be provided under terms no more restrictive than under paragraph (9) of section 2020(e) of this title and the laws of Minnesota and shall include expedited issuance of designated food assistance provided through the Project or expedited benefits through the food stamp program;
 
@@ -200,7 +200,7 @@ For purposes of this section, the following definitions apply:
 
 &emsp;(4) The term “State” means the State of Minnesota.
 
-(Pub. L. 88–525, §22, as added Pub. L. 101–202, Dec. 6, 1989, 103 Stat. 1796; amended Pub. L.102–237, title IX, §941(11), Dec. 13, 1991, 105 Stat. 1893.)
+(Pub. L. 88–525, §22, as added Pub. L. 101–202, Dec. 6, 1989, 103 Stat. 1796; amended Pub. L. 102–237, title IX, §941(11), Dec. 13, 1991, 105 Stat. 1893.)
 
 #### References in Text
 
@@ -216,5 +216,5 @@ Subsec. (h). Pub. L. 102–237, §941(11)(C), substituted “subsection (b)(12)�
 
 #### Effective Date of 1991 Amendment
 
-Amendment by Pub. L. 102–237 effective and to be implemented no later than Feb. 1, 1992, see section 1101(d)(1) of Pub. L. 102–237, set out as a note under section 1421 of this title.
+Amendment by Pub. L. 102–237 effective and to be implemented no later than Feb. 1, 1992, see section1101(d)(1) of Pub. L. 102–237, set out as a note under section 1421 of this title.
 

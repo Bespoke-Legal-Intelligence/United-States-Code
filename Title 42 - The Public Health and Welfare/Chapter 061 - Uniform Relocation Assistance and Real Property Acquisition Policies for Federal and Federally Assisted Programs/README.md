@@ -75,7 +75,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 5181, 5304, 11503 of this title; title 16 sections 410uu–1, 460<i>o</i>–1, 429b–2; title 23 sections 108, 117, 133; title 25 section 640d–14; title 40 sections 616, 875, 877; title 43 sections 1578, 1598; title 49 section 70304.
+This chapter is referred to in sections 1437e, 5181, 5304, 11503 of this title; title 16 sections 410uu–1, 460<i>o</i>–1, 429b–2; title 23 sections 108, 117, 133; title 25 section 640d–14; title 40 sections 616, 875, 877; title 43 sections 1578, 1598; title 49 section 70304.
 
 
 ---

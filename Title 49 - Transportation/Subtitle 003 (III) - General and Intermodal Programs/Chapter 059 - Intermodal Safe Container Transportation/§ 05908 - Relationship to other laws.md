@@ -1,0 +1,10 @@
+### §5908. Relationship to other laws
+
+Nothing in this chapter affects—
+
+&emsp;(1) chapter 51 (relating to transportation of hazardous material) or the regulations promulgated under that chapter; or
+
+&emsp;(2) any State highway weight or size law or regulation applicable to tractor-trailer combinations.
+
+(Added Pub. L. 104–291, title II, §209(a), Oct. 11, 1996, 110 Stat. 3458.)
+

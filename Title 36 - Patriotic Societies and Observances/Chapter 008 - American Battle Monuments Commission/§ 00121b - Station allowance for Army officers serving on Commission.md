@@ -2,7 +2,7 @@
 
 Where station allowance has been authorized by the Department of the Army for officers of the Army serving the Army at certain foreign stations, the same allowance shall be authorized for officers of the Armed Forces assigned to the Commission while serving at the same foreign stations.
 
-(Sept. 28, 1994, Pub. L. 103–327, title III, 108 Stat. 2317.)
+(Sept. 26, 1996, Pub. L. 104–204, title III, 110 Stat. 2907.)
 
 #### Codification
 
@@ -11,6 +11,10 @@ Section is from the appropriation act cited as the credit to this section.
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in the following prior appropriation acts:
+
+Apr. 26, 1996, Pub. L. 104–134, title I, §101(e) \[title III\], 110 Stat. 1321–257, 1321–293; renumbered title I, May 2, 1996, Pub. L. 104–140, §1(a), 110 Stat. 1327.
+
+Sept. 28, 1994, Pub. L. 103–327, title III, 108 Stat. 2317.
 
 Oct. 28, 1993, Pub. L. 103–124, title III, 107 Stat. 1291.
 

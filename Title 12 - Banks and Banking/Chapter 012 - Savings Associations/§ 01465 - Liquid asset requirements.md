@@ -48,7 +48,7 @@ The amount of any savings association's liquidity requirement, and any deficienc
 
 #### (d) Deficiency assessments
 
-For any deficiency in compliance with the liquidity requirements, the Director may, in the Director's discretion, assess a penalty consisting of the payment by the institution of such sum as may be assessed by the Director but not in excess of a rate equal to the highest rate on Federal home loan bank advances of one year or less, plus 2 percent per year, on the amount of the deficiency for the period with respect to which the deficiency existed. Any penalty assessed under this subsection against a savings association shall be paid to the Director. The Director may authorize or require that, at any time before collection thereof, and whether before or after the bringing of any action or other legal proceeding, the obtaining of any judgment or other recovery, or the issuance or levy of any execution or other legal process therefor, and with or without consideration, any such penalty or recovery be compromised, remitted, or mitigated in whole or part. The penalties authorized under this subsection are in addition to all remedies and sanctions otherwise available.
+For any deficiency in compliance with the liquidity requirements, the Director may, in the Director's discretion, assess a penalty consisting of the payment by the institution of such sum as may be assessed by the Director but not in excess of a rate equal to the highest rate on Federal home loan bank advances of one year or less, plus 2 percent per year, on the amount of the deficiency for the period with respect towhich the deficiency existed. Any penalty assessed under this subsection against a savings association shall be paid to the Director. The Director may authorize or require that, at any time before collection thereof, and whether before or after the bringing of any action or other legal proceeding, the obtaining of any judgment or other recovery, or the issuance or levy of any execution or other legal process therefor, and with or without consideration, any such penalty or recovery be compromised, remitted, or mitigated in whole or part. The penalties authorized under this subsection are in addition to all remedies and sanctions otherwise available.
 
 #### (e) Reduction or suspension
 
@@ -62,7 +62,7 @@ The Director is authorized to issue such regulations, including definitions of t
 
 #### References in Text
 
-The Federal Reserve Act, referred to in subsec. (b)(1)(B), is act Dec. 23, 1913, ch. 6, 38 Stat. 251, as amended, which is classified principally to chapter 3 (§221 et seq.) of this title. For complete classification ofthis Act to the Code, see References in Text note set out under section 226 of this title and Tables.
+The Federal Reserve Act, referred to in subsec. (b)(1)(B), is act Dec. 23, 1913, ch. 6, 38 Stat. 251, as amended, which is classified principally to chapter 3 (§221 et seq.) of this title. For complete classification of this Act to the Code, see References in Text note set out under section 226 of this title and Tables.
 
 The Investment Company Act of 1940, referred to in subsec. (b)(1)(C)(iii), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, as amended, which is classified generally to subchapter I (§80a–1 et seq.) of chapter 2D of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 80a–51 of Title 15 and Tables.
 

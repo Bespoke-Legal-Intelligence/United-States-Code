@@ -10,7 +10,7 @@ In conducting the program assisted under this part, service delivery areas shall
 
 &emsp;(3) the Wagner-Peyser Act (29 U.S.C. 49 et seq.);
 
-&emsp;(4) part F of title IV of the Social Security Act (42 U.S.C. 681 et seq.);
+&emsp;(4) the portions of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\] relating to work activities;
 
 &emsp;(5) the employment program established under section 6(d)(4) of the Food Stamp Act of 1977 (7 U.S.C. 2015(d)(4));
 
@@ -36,7 +36,7 @@ In conducting the program assisted under this part, service delivery areas shall
 
 In addition to the linkages required under subsection (a) of this section, each service delivery area receiving financial assistance under this part shall establish other appropriate linkages to enhance the provision of services under this part. Such linkages may be established with local educational agencies, local service agencies, public housing agencies, community-based organizations, business and labor organizations, volunteer groups working with disadvantaged adults, and other training, education, employment, economic development, and social service programs.
 
-(Pub. L. 97–300, title II, §205, as added Pub. L. 102–367, title II, §203, Sept. 7, 1992, 106 Stat. 1060.)
+(Pub. L. 97–300, title II, §205, as added Pub. L. 102–367, title II, §203, Sept. 7, 1992, 106 Stat. 1060; amended Pub. L. 104–193, title I, §110(n)(7), Aug. 22, 1996, 110 Stat. 2174.)
 
 #### References in Text
 
@@ -46,9 +46,9 @@ The Carl D. Perkins Vocational and Applied Technology Education Act, referred to
 
 The Wagner-Peyser Act, referred to in subsec. (a)(3), is act June 6, 1933, ch. 49, 48 Stat. 113, as amended, which is classified generally to chapter 4B (§49 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 49 of this title and Tables.
 
-The Social Security Act, referred to in subsec. (a)(4), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part F of title IV of the Act is classified generally to part F (§681 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (a)(4), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title IV of the Act is classified generally to subchapter IV (§601 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
-The National Apprenticeship Act, referred to in subsec. (a)(6), is act Aug. 16, 1937, ch. 663, 50 Stat. 664, as amended, which is classified generally to chapter 4C (§50 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 50 of this title and Tables.
+The National Apprenticeship Act, referred to in subsec. (a)(6), is act Aug. 16, 1937, ch. 663, 50 Stat. 664, asamended, which is classified generally to chapter 4C (§50 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 50 of this title and Tables.
 
 The Rehabilitation Act of 1973, referred to in subsec. (a)(7), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 357, as amended, which is classified generally to chapter 16 (§701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 701 of this title and Tables.
 
@@ -67,6 +67,14 @@ The Head Start Act, referred to in subsec. (a)(13), is subchapter B (§§635 to 
 #### Prior Provisions
 
 A prior section 1605, Pub. L. 97–300, title II, §205, Oct. 13, 1982, 96 Stat. 1362, related to exemplary youth programs, prior to repeal by Pub. L. 102–367, title II, §201, title VII, §701(a), Sept. 7, 1992, 106 Stat. 1052, 1103, effective July 1, 1993.
+
+#### Amendments
+
+1996—Subsec. (a)(4). Pub. L. 104–193 added par. (4) and struck out former par. (4) which read as follows: “part F of title IV of the Social Security Act (42 U.S.C. 681 et seq.);”.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–193 effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as an Effective Date note under section 601 of Title 42, The Public Health and Welfare.
 
 #### Effective Date
 

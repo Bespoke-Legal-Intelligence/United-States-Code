@@ -1,0 +1,68 @@
+### §5603. Agricultural export promotion strategy
+
+#### (a) In general
+
+The Secretary shall develop a strategy for implementing Federal agricultural export promotion programs that takes into account the new market opportunities for agricultural products, including opportunities that result from—
+
+&emsp;(1) the North American Free Trade Agreement and the Uruguay Round Agreements;
+
+&emsp;(2) any accession to membership in the World Trade Organization;
+
+&emsp;(3) the continued economic growth in the Pacific Rim; and
+
+&emsp;(4) other developments.
+
+#### (b) Purpose of strategy
+
+The strategy developed under subsection (a) of this section shall encourage the maintenance, development, and expansion of export markets for United States agricultural commodities and related products, including high-value and value-added products.
+
+#### (c) Goals of strategy
+
+The strategy developed under subsection (a) of this section shall have the following goals:
+
+&emsp;(1) Increase the value of United States agricultural exports each year.
+
+&emsp;(2) Increase the value of United States agricultural exports each year at a faster rate than the rate of increase in the value of overall world export trade in agricultural products.
+
+&emsp;(3) Increase the value of United States high-value and value-added agricultural exports each year.
+
+&emsp;(4) Increase the value of United States high-value and value-added agricultural exports each year at a faster rate than the rate of increase in the value of overall world export trade in high-value and value-added agricultural products.
+
+&emsp;(5) Ensure that to the extent practicable—
+
+&emsp;&emsp;(A) all obligations undertaken in the Uruguay Round Agreement on Agriculture that significantly increase access for United States agricultural commodities are implemented to the extent required by the Uruguay Round Agreements; or
+
+&emsp;&emsp;(B) applicable United States laws are used to secure United States rights under the Uruguay Round Agreement on Agriculture.
+
+#### (d) Priority markets
+
+#### (1) Identification of markets
+
+&emsp;In developing the strategy required under subsection (a) of this section, the Secretary shall annually identify as priority markets—
+
+&emsp;&emsp;(A) those markets in which imports of agricultural products show the greatest potential for increase; and
+
+&emsp;&emsp;(B) those markets in which, with the assistance of Federal export promotion programs, exports of United States agricultural products show the greatest potential for increase.
+
+#### (2) Identification of supporting offices
+
+&emsp;The President shall identify annually in the budget of the United States Government submitted under section 1105 of title 31 each overseas office of the Foreign Agricultural Service that provides assistance to United States exporters in each of the priority markets identified under paragraph (1).
+
+(Pub. L. 95–501, title I, §103, as added Pub. L. 101–624, title XV, §1531, Nov. 28, 1990, 104 Stat. 3670; amended Pub. L. 102–237, title III, §308, Dec. 13, 1991, 105 Stat. 1856; Pub. L. 104–127, title II, §241(a), Apr. 4, 1996, 110 Stat. 963.)
+
+#### Amendments
+
+1996—Pub. L. 104–127 amended section generally, substituting present provisions for provisions requiring development of long-term agricultural trade strategy and providing for goals and contents of strategy, establishment of priority markets, review of strategy, confidentiality, withholding of information from Congress, and termination of section on Dec. 31, 1995.
+
+1991—Subsec. (d)(2). Pub. L. 102–237 inserted a closing parenthesis before period at end.
+
+#### Use of Department of Agriculture Programs for Promotion of Wood and Processed Wood Products
+
+Section 4404 of Pub. L. 100–418 provided that: “The Secretary of Agriculture shall actively use Department of Agriculture concessional programs and export credit guarantee programs to promote the export of wood and processed wood products.”
+
+#### Cross References
+
+North American Free Trade Agreement Implementation Act, see section 3301 et seq. of Title 19, Customs Duties.
+
+Uruguay Round Agreements Act, see section 3501 et seq. of Title 19.
+

@@ -2,11 +2,11 @@
 
 For the purposes of this chapter—
 
-&emsp;(1) “State” means any of the fifty States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, or the Trust Territory of the Pacific Islands.
+&emsp;(1) “State” means any of the fifty States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, or the Commonwealth of the Northern Mariana Islands.
 
 &emsp;(2) “State educational agency” means, as the State legislature may determine, (A) the chief State school officer (such as the State superintendent of public instruction, commissioner of education, or similar officer), or (B) a board of education controlling the State department of education.
 
-&emsp;(3) “School” means (A) any public or nonprofit private school of high school grade or under, including kindergarten and preschool programs operated by such school, (B) any public or licensed nonprofit private residential child care institution (including, but not limited to, orphanages and homes for the mentally retarded, but excluding Job Corps Centers funded by the Department of Labor), and (C) with respect to the Commonwealth of Puerto Rico, nonprofit child care centers certified as such by the Governor of Puerto Rico. For purposes of clauses (A) and (B) of this paragraph, the term “nonprofit”, when applied to any such private school or institution, means any such school or institution which is exempt from tax under section 501(c)(3) of title 26.
+&emsp;(3) “School” means (A) any public or nonprofit private school of high school grade or under, including kindergarten and preschool programs operated by such school, and (B) any public or licensed nonprofit private residential child care institution (including, but not limited to, orphanages and homes for the mentally retarded, but excluding Job Corps Centers funded by the Department of Labor). For purposes of clauses (A) and (B) of this paragraph, the term “nonprofit”, when applied to any such private school or institution, means any such school or institution which is exempt from tax under section 501(c)(3) of title 26.
 
 &emsp;(4) “Secretary” means the Secretary of Agriculture.
 
@@ -14,13 +14,17 @@ For the purposes of this chapter—
 
 &emsp;(6) Except as used in section 1786 of this title, the terms “child” and “children” as used in this chapter, shall be deemed to include persons regardless of age who are determined by the State educational agency, in accordance with regulations prescribed by the Secretary, to have 1 or more mental or physical handicaps and who are attending any nonresidential public or nonprofit private school of high school grade or under for the purpose of participating in a school program established for individuals with mental or physical handicaps.
 
-(Pub. L. 89–642, §15, Oct. 11, 1966, 80 Stat. 889; Pub. L. 94–105, §§15(c), 17(b), Oct. 7, 1975, 89 Stat. 522, 525; Pub. L. 95–166, §20(5), Nov. 10, 1977, 91 Stat. 1346; Pub. L. 95–627, §10(c), (d)(3), Nov. 10, 1978, 92 Stat. 3624; Pub. L. 96–499, title II, §212, Dec. 5, 1980, 94 Stat. 2603; Pub. L. 97–35, title VIII, §808(b), Aug. 13, 1981, 95 Stat. 527; Pub. L. 99–500, title III, §325(b), Oct. 18, 1986, 100 Stat. 1783–361, and Pub. L. 99–591, title III, §325(b), Oct. 30, 1986, 100 Stat. 3341–365; Pub. L. 99–661, div. D, title II, §4205(b), Nov. 14, 1986, 100 Stat. 4072; Pub. L. 100–71, title I, §101(b), July 11, 1987, 101 Stat. 430; Pub. L. 101–147, title III, §325, Nov. 10, 1989, 103 Stat. 917.)
+(Pub. L. 89–642, §15, Oct. 11, 1966, 80 Stat. 889; Pub. L. 94–105, §§15(c), 17(b), Oct. 7, 1975, 89 Stat. 522, 525; Pub. L. 95–166, §20(5), Nov. 10, 1977, 91 Stat. 1346; Pub. L. 95–627, §10(c), (d)(3), Nov. 10, 1978, 92 Stat. 3624; Pub. L. 96–499, title II, §212, Dec. 5, 1980, 94 Stat. 2603; Pub. L. 97–35, title VIII, §808(b), Aug. 13, 1981, 95 Stat. 527; Pub. L. 99–500, title III, §325(b), Oct. 18, 1986, 100 Stat. 1783–361, and Pub. L. 99–591, title III, §325(b), Oct. 30, 1986, 100 Stat. 3341–365; Pub. L. 99–661, div. D, title II, §4205(b), Nov. 14, 1986, 100 Stat. 4072; Pub. L. 100–71, title I, §101(b), July 11, 1987, 101 Stat. 430; Pub. L. 101–147, title III, §325, Nov. 10, 1989, 103 Stat. 917; Pub. L. 104–193, title VII, §727, Aug. 22, 1996, 110 Stat. 2302.)
 
 #### Codification
 
 Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
+
+1996—Par. (1). Pub. L. 104–193, §727(1), substituted “the Commonwealth of the Northern Mariana Islands” for “Trust Territory of the Pacific Islands”.
+
+Par. (3). Pub. L. 104–193, §727(2), inserted “and” before “(B)” and struck out “, and (C) with respect to the Commonwealth of Puerto Rico, nonprofit child care centers certified as such by the Governor of Puerto Rico” before “. For purposes of clauses (A) and (B)”.
 
 1989—Pub. L. 101–147 redesignated subsecs. (a) through (f) as pars. (1) through (6), respectively, in par. (2) redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, in par. (3) substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text, and in par. (6) substituted “to have 1 or more mental or physical handicaps” for “to be mentally or physically handicapped” and “for individuals with mental or physical handicaps” for “for mentally or physically handicapped”.
 
@@ -67,8 +71,4 @@ Amendment by Pub. L. 95–627 effective Oct. 1, 1978, see section 14 of Pub. L. 
 #### Effective Date of 1977 Amendment
 
 Section 20 of Pub. L. 95–166 provided that the amendment made by that section is effective July 1, 1977.
-
-#### Termination of Trust Territory of the Pacific Islands
-
-For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 

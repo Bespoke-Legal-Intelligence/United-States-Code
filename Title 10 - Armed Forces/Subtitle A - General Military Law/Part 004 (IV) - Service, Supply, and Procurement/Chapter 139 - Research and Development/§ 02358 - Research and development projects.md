@@ -30,9 +30,9 @@ Requirement of Potential Department of Defense Interest.—Funds appropriated to
 
 (d)
 
-Additional Provisions Applicable to Cooperative Agreements.—Additional authorities, conditions, and requirements relating to certain cooperative agreements authorized by this section are provided in section 2371 of this title.
+Additional Provisions Applicable to Cooperative Agreements.—Additional authorities, conditions, and requirements relating to certain cooperative agreements authorized by this section are provided in sections 2371 and 2371a of this title.
 
-(Added Pub. L. 87–651, title II, §208(a), Sept. 7, 1962, 76 Stat. 523; amended Pub. L. 97–86, title IX, §910, Dec. 1, 1981, 95 Stat. 1120; Pub. L. 100–370, §1(g)(3), July 19, 1988, 102 Stat. 846; Pub. L. 103–160, div. A, title VIII, §827(a), Nov. 30, 1993, 107 Stat. 1712; Pub. L. 103–355, title I, §1301(a), Oct. 13, 1994, 108 Stat. 3284.)
+(Added Pub. L. 87–651, title II, §208(a), Sept. 7, 1962, 76 Stat. 523; amended Pub. L. 97–86, title IX, §910, Dec. 1, 1981, 95 Stat. 1120; Pub. L. 100–370, §1(g)(3), July 19, 1988, 102 Stat. 846; Pub. L. 103–160, div. A, title VIII, §827(a), Nov. 30, 1993, 107 Stat. 1712; Pub. L. 103–355, title I, §1301(a), Oct. 13, 1994, 108 Stat. 3284; Pub. L. 104–201, div. A, title II, §267(c)(2), Sept. 23, 1996, 110 Stat. 2468.)
 
 Historical and Revision Notes<br>1962
 
@@ -59,6 +59,8 @@ In the existing text of 10 U.S.C. 2358, the bill would in two instances strike t
 Subsection (b) is based on Pub. L. 91–441, title II, §204, Oct. 7, 1970, 84 Stat. 908.
 
 #### Amendments
+
+1996—Subsec. (d). Pub. L. 104–201 substituted “sections 2371 and 2371a” for “section 2371”.
 
 1994—Pub. L. 103–355 amended section generally, inserting reference to development projects in section catchline, and in text specifying that relevant Secretary may perform research and development projects in accordance with chapter 63 of title 31, and adding subsec. (d) relating to additional provisions applicable to cooperative agreements.
 
@@ -88,7 +90,7 @@ For effective date and applicability of amendment by Pub. L. 103–355, see sect
 
 #### Defense Experimental Program To Stimulate Competitive Research
 
-Pub. L. 103–337, div. A, title II, §257, Oct. 5, 1994, 108 Stat. 2705, provided that:
+Pub. L. 103–337, div. A, title II, §257, Oct. 5, 1994, 108 Stat. 2705, as amended by Pub. L. 104–106, div. A, title II, §273, Feb. 10, 1996, 110 Stat. 239; Pub. L. 104–201, div. A, title II, §264, Sept. 23, 1996, 110 Stat. 2465, provided that:
 
 “(a)
 
@@ -112,15 +114,13 @@ Program Activities.—In order to achieve the program objectives, the following 
 
 “(d)
 
-Eligible States.—(1) The Director of the National Science Foundation shall designate which States are eligible States for the purposes of this section and shall notify the Director of Defense Research and Engineering of the States so designated.
+Eligible States.—(1) The Under Secretary of Defense for Acquisition and Technology shall designate which States are eligible States for the purposes of this section.
 
-“(2) The Director of the National Science Foundation shall designate a State as an eligible State if, as determined by the Director—
+“(2) The Under Secretary of Defense for Acquisition and Technology shall designate a State as an eligible State if, as determined by the Under Secretary—
 
-&emsp;“(A) the institutional average amount of Federal financial assistance for research and development received by the institutions of higher education in the State for the fiscal year preceding the fiscal year for which the designation is effective, or for the last fiscal year for which statistics are available, is less than the amount equal to 60 percent of the national institutional average amount of Federal financial assistance for research and development received by the institutions of higher education in the United States for such preceding or last fiscal year, as the case may be;
+&emsp;“(A) the average annual amount of all Department of Defense obligations for science and engineering research and development that were in effect with institutions of higher education in the State for the three fiscal years preceding the fiscal year for which the designation is effective or for the last three fiscal years for which statistics are available is less than the amount determined by multiplying 60 percent times the amount equal to 1/50 of the total average annual amount of all Department of Defense obligations for science and engineering research and development that were in effect with institutions of higher education in the United States for such three preceding or last fiscal years, as the case may be; and
 
-&emsp;“(B) the State has demonstrated a commitment to developing research bases in the State and to improving science and engineering research and education programs at institutions of higher education in the State; and
-
-&emsp;“(C) the State is an eligible State for purposes of the Experimental Program to Stimulate Competitive Research conducted by the National Science Foundation.
+&emsp;“(B) the State has demonstrated a commitment to developing research bases in the State and to improving science and engineering research and education programs at institutions of higher education in the State.
 
 “(e)
 
@@ -158,19 +158,19 @@ Requirement for Analysis of Research.—In the case of a project of clinical res
 
 #### University Research Initiative Support Program
 
-Section 802 of Pub. L. 103–160 provided that:
+Section 802 of Pub. L. 103–160, as amended by Pub. L. 104–106, div. A, title II, §275, Feb. 10, 1996, 110 Stat. 241; Pub. L. 104–201, div. A, title II, §263, Sept. 23, 1996, 110 Stat. 2465, provided that:
 
 “(a)
 
-Establishment.—The Secretary of Defense, through the Director of Defense Research and Engineering, shall establish a University Research Initiative Support Program.
+Establishment.—The Secretary of Defense, through the Director of Defense Research and Engineering, may establish a University Research Initiative Support Program.
 
 “(b)
 
-Purpose.—Under the program, the Director shall award grants and contracts to eligible institutions of higher education to support the conduct of research and development relevant to requirements of the Department of Defense.
+Purpose.—Under the program, the Director may award grants and contracts to eligible institutions of higher education to support the conduct of research and development relevant to requirements of the Department of Defense.
 
 “(c)
 
-Eligibility.—An institution of higher education is eligible for a grant or contract under the program if the institution has received less than a total of $2,000,000 in grants and contracts from the Department of Defense in the two fiscal years before the fiscal year in which the institution submits a proposal for such grant or contract.
+Eligibility.—An institution of higher education is eligible for a grant or contract under the program if the institution has received less than a total of $2,000,000 in grants and contracts from the Department of Defense in the two most recent fiscal years for which complete statistics are available when proposals are requested for such grant or contract.
 
 “(d)
 
@@ -178,7 +178,7 @@ Competition Required.—The Director shall use competitive procedures in awardin
 
 “(e)
 
-Selection Process.—In awarding grants and contracts under the program, the Director shall use a merit-based selection process that is consistent with the provisions of section 2361(a) of title 10, United States Code. Such selection process shall require that each person selected to participate in such a merit-based selection process be a member of the faculty or staff of an institution of higher education that is a member of the National Association of State Universities and Land Grant Colleges or the American Association of State Colleges and Universities.
+Selection Process.—In awarding grants and contracts under the program, the Director shall use a merit-based selection process that is consistent with the provisions of section 2361(a) of title 10, United States Code.
 
 “(f)
 
@@ -190,7 +190,7 @@ Funding.—Of the amounts authorized to be appropriated under section 201 \[107 
 
 #### Independent Research and Development; Bid and Proposal Costs; Negotiation of Advance Agreements With Contractors; Annual Report to Congress
 
-Pub. L. 91–441, title II, §203, Oct. 7, 1970, 84 Stat. 906, as amended by Pub. L. 96–342, title II, §208, Sept. 8, 1980, 94 Stat. 1081, provided that no funds authorized to be appropriated to Department of Defense by this or any other Act were to be used to finance independent research and development or bid and proposal costs unless such work had, in opinion of Secretary of Defense,potential relationship to military functions or operations, and advance agreements regarding payment for such work had been negotiated, prior to repeal by Pub. L. 101–510, div. A, title VIII, §824(b), Nov. 5, 1990, 104 Stat. 1604. See section 2372 of this title.
+Pub. L. 91–441, title II, §203, Oct. 7, 1970, 84 Stat. 906, as amended by Pub. L. 96–342, title II, §208, Sept. 8, 1980, 94 Stat. 1081, provided that no funds authorized to be appropriated to Department of Defense by this or any other Act were to be used to finance independent research and development or bid and proposal costs unless such work had, in opinion of Secretary of Defense, potential relationship to military functions or operations, and advance agreements regarding payment for such work had been negotiated, prior to repeal by Pub. L. 101–510, div. A, title VIII, §824(b), Nov. 5, 1990, 104 Stat. 1604. See section 2372 of this title.
 
 #### Relationship of Research Projects or Studies to Military Function or Operation
 

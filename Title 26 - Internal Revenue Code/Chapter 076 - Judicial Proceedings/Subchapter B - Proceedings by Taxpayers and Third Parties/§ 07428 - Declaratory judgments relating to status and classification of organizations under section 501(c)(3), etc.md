@@ -24,7 +24,7 @@ In a case of actual controversy involving—
 
 #### (2) Exhaustion of administrative remedies
 
-&emsp;A declaratory judgment or decree under this section shall not be issued in any proceedingunless the Tax Court, the Court of Federal Claims, or the district court of the United States for the District of Columbia determines that the organization involved has exhausted administrative remedies available to it within the Internal Revenue Service. An organization requesting the determination of an issue referred to in subsection (a)(1) shall be deemed to have exhausted its administrative remedies with respect to a failure by the Secretary to make a determination with respect to such issue at the expiration of 270 days after the date on which the request for such determination was made if the organization has taken, in a timely manner, all reasonable steps to secure such determination.
+&emsp;A declaratory judgment or decree under this section shall not be issued in any proceeding unless the Tax Court, the Court of Federal Claims, or the district court of the United States for the District of Columbia determines that the organization involved has exhausted administrative remedies available to it within the Internal Revenue Service. An organization requesting the determination of an issue referred to in subsection (a)(1) shall be deemed to have exhausted its administrative remedies with respect to a failure by the Secretary to make a determination with respect to such issue at the expiration of 270 days after the date on which the request for such determination was made if the organization has taken, in a timely manner, all reasonable steps to secure such determination.
 
 #### (3) Time for bringing action
 
@@ -72,7 +72,7 @@ In any action brought under this section in the district court of the United Sta
 
 #### Prior Provisions
 
-A prior section 7428 was renumbered 7434 of this title.
+A prior section 7428 was renumbered 7436 of this title.
 
 #### Amendments
 
@@ -104,7 +104,7 @@ Amendment by Pub. L. 95–600 effective as if included in this section at the ti
 
 #### Effective Date
 
-Section 1306(c) of Pub. L. 94–455 provided that: “The amendments made by this section \[enacting this section and amending sections 7451, 7459, 7470, and 7482 of this title, enacting section 1507 of Title 28, Judiciary and Judicial Procedure, and amending sections 1346 and2201 of Title 28\] shall apply with respect to pleadings filed with the United States Tax Court, the district court of the United States for the District of Columbia, or the United States Court of Claims more than 6 months after the date of the enactment of this Act \[Oct. 4, 1976\] but only with respect to determinations (or requests for determinations) made after January 1, 1976.”
+Section 1306(c) of Pub. L. 94–455 provided that: “The amendments made by this section \[enacting this section and amending sections 7451, 7459, 7470, and 7482 of this title, enacting section 1507 of Title 28, Judiciary and Judicial Procedure, and amending sections 1346 and 2201 of Title 28\] shall apply with respect to pleadings filed with the United States Tax Court, the district court of the United States for the District of Columbia, or the United States Court of Claims more than 6 months after the date of the enactment of this Act \[Oct. 4, 1976\] but only with respect to determinations (or requests for determinations) made after January 1, 1976.”
 
 #### Section Referred to in Other Sections
 

@@ -28,7 +28,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Whenever the Chief Justice notifies the Architect that the judicial branch of the United States requires additional space in the building and other improvements constructed under this chapter, the Architect shall accommodate those requirements (i) in the case of space made available to the Administrator of General Services, by a date agreed upon under subparagraph (B), or (ii) in the case of space made available to any person or governmental entity (other than the General Services Administration), within 90 days after the date of such notification.
+&emsp;&emsp;Whenever the Chief Justice notifies the Architect that the judicial branch of the United States requires additional space in the building and other improvements constructed under this chapter, the Architect shall accommodate those requirements (i) in the case of space made available to the Administrator of General Services, by a dateagreed upon under subparagraph (B), or (ii) in the case of space made available to any person or governmental entity (other than the General Services Administration), within 90 days after the date of such notification.
 
 #### (B) Space available to GSA
 
@@ -74,7 +74,7 @@
 
 #### (c) Deposit of rent and reimbursements
 
-All funds received under this subsection (including lease payments and reimbursements)shall be deposited into the account established by section 1207 of this title.
+All funds received under this subsection (including lease payments and reimbursements) shall be deposited into the account established by section 1207 of this title.
 
 (Pub. L. 100–480, §6, Oct. 7, 1988, 102 Stat. 2332; Pub. L. 102–392, title III, §318, Oct. 6, 1992, 106 Stat. 1724; Pub. L. 103–4, §2, Feb. 8, 1993, 107 Stat. 30.)
 

@@ -48,7 +48,7 @@ There are authorized to be appropriated to the Federal Hospital Insurance Trust 
 
 #### References in Text
 
-Sections 228e(<i>l</i>) and 228s–2 of title 45, referred to in subsec. (a)(2), (3), are references to sections 5(<i>l</i>) and 21 of the Railroad Retirement Act of 1937. That Act was amended in its entirety and completely revised by Pub. L. 93–445, Oct. 16, 1974, 88 Stat. 1305. That Act, as thus amended and revised, was redesignated the Railroad Retirement Act of 1974, and is classified generally to subchapter IV (§231 et seq.) of chapter 9 of Title 45, Railroads. Sections 228e and 228s–2 of title 45 are covered by sections 231e and 231f of Title 45, respectively.
+Sections 228e(<i>l</i>) and 228s–2 of title 45, referred to in subsec. (a)(2), (3), are references to sections 5(<i>l</i>) and 21 of the Railroad Retirement Act of 1937. That Act was amended in its entirety and completely revised by Pub. L. 93–445, Oct. 16, 1974, 88 Stat. 1305. That Act, as thus amended and revised, was redesignated the Railroad Retirement Act of 1974, and is classified generally to subchapter IV (§231 et seq.) of chapter 9 of Title 45,Railroads. Sections 228e and 228s–2 of title 45 are covered by sections 231e and 231f of Title 45, respectively.
 
 Part A of subchapter XVIII of this chapter, referred to in subsec. (c)(1), is classified to section 1395c et seq. of this title.
 

@@ -6,7 +6,7 @@ All power sales under this chapter shall be subject at all times to the preferen
 
 #### (b) Sales to public bodies, cooperatives, and Federal agency customers
 
-(1) Whenever requested, the Administrator shall offer to sell to each requesting public body and cooperative entitled to preference and priority under the Bonneville Project Act of 1937 \[16 U.S.C. 832 et seq.\] and to each requesting investor-owned utility electric power to meet the firm power load of such public body, cooperative or investor-owned utility in the Region to the extent that such firm power load exceeds—
+(1) Whenever requested, the Administrator shall offer to sell to each requesting public body and cooperative entitled to preference and priority under the Bonneville Project Act of 1937 \[16 U.S.C. 832 et seq.\] and to each requesting investor-owned utility electric power to meet thefirm power load of such public body, cooperative or investor-owned utility in the Region to the extent that such firm power load exceeds—
 
 &emsp;(A) the capability of such entity's firm peaking and energy resources used in the year prior to December 5, 1980, to serve its firm load in the region, and
 
@@ -46,7 +46,7 @@ All power sales under this chapter shall be subject at all times to the preferen
 
 (6) Exchange sales to a utility pursuant to this subsection shall not be restricted below the amounts of electric power acquired by the Administrator from, or on behalf of, such utility pursuant to this subsection.
 
-(7) The “average system cost” for electric power sold to the Administrator under this subsection shall be determined by the Administrator on the basis of a methodology developed for this purpose in consultation with the Council, the Administrator's customers, and appropriate State regulatory bodies in the region. Such methodology shall be subject to review and approval by the Federal Energy Regulatory Commission. Such average system cost shall not include—
+(7) The “average system cost” for electric power sold to the Administrator under this subsection shall be determined by the Administrator on the basis of a methodology developedfor this purpose in consultation with the Council, the Administrator's customers, and appropriate State regulatory bodies in the region. Such methodology shall be subject to review and approval by the Federal Energy Regulatory Commission. Such average system cost shall not include—
 
 &emsp;(A) the cost of additional resources in an amount sufficient to serve any new large single load of the utility;
 
@@ -96,7 +96,7 @@ All power sales under this chapter shall be subject at all times to the preferen
 
 &emsp;(D) investor owned utilities.
 
-(2) Any contractual entitlement to firm power which is based on electric power acquired from, or on behalf of, a customer pursuant to section 839d of this title shall be in addition to any other contractual entitlement to firm power not subject to restriction that such customer may have under this section. For the purposes of this subsection, references to amounts of power acquired by the Administrator pursuant to section 839d of this title shall be deemed to mean the amounts specified in the resource acquisition contracts exclusive of any amounts recognized in such contracts as replacement for Federal base system resources.
+(2) Any contractual entitlement to firm power which is based on electric power acquired from, or on behalf of, a customer pursuant to section 839d of this title shall be in addition to any other contractual entitlement to firm power not subject to restriction that such customer mayhave under this section. For the purposes of this subsection, references to amounts of power acquired by the Administrator pursuant to section 839d of this title shall be deemed to mean the amounts specified in the resource acquisition contracts exclusive of any amounts recognized in such contracts as replacement for Federal base system resources.
 
 (3) The Administrator shall, consistent with the provisions of this chapter, insure that any restrictions upon any particular customer class made pursuant to this subsection and subsection (b) of this section are distributed equitably throughout the region.
 
@@ -118,7 +118,7 @@ The Administrator is authorized to sell, or otherwise dispose of, electric power
 
 (2) Each customer offered a contract pursuant to this subsection shall have one year from the date of such offer to accept such contract. Such contract shall be effective as provided in this subsection.
 
-(3) An initial contract with a public body, cooperative or investor-owned electric utility customer or a Federal agency customer pursuant to subsection (b) of this section shall be effectiveon the date executed by such customer, unless another effective date is otherwise agreed to by the Administrator and the customer.
+(3) An initial contract with a public body, cooperative or investor-owned electric utility customer or a Federal agency customer pursuant to subsection (b) of this section shall be effective on the date executed by such customer, unless another effective date is otherwise agreed to by the Administrator and the customer.
 
 (4) An initial contract with an electric utility customer pursuant to subsection (c) of this section shall be effective on the date executed by such customer, but no earlier than the first day of the tenth month after December 5, 1980.
 

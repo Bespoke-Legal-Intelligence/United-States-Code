@@ -6,7 +6,7 @@ As used in this chapter, unless the context otherwise requires, the term—
 
 &emsp;(b) “enhancement” means manmade improvements to natural habitats, or the application of artificial fish culture technology, that will lead to the increase of salmon stocks;
 
-&emsp;(c) “Magnuson Act” means the Act entitled “the Magnuson Fishery Conservation and Management Act,” as approved April 13, 1976, and as later amended (16 U.S.C. section 1801 et seq.);
+&emsp;(c) “Magnuson Act” means the Act entitled “the Magnuson-Stevens Fishery Conservation and Management Act,” as approved April 13, 1976, and as later amended (16 U.S.C. section 1801 et seq.);
 
 &emsp;(d) “Panel” means any of the Panels established by the Treaty;
 
@@ -34,17 +34,25 @@ As used in this chapter, unless the context otherwise requires, the term—
 
 &emsp;(j) “United States Section” means the four United States Commissioners appointed by the President pursuant to this chapter.
 
-(Pub. L. 99–5, §2, Mar. 15, 1985, 99 Stat. 7; Pub. L. 102–251, title III, §306(a), Mar. 9, 1992, 106 Stat. 66.)
+(Pub. L. 99–5, §2, Mar. 15, 1985, 99 Stat. 7; Pub. L. 102–251, title III, §306(a), Mar. 9, 1992, 106 Stat. 66; Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41.)
 
 #### Amendment of Section
 
 <i>Pub. L. 102–251, title III, §§306(a), 308, Mar. 9, 1992, 106 Stat. 66, provided that, effective on the date on which the Agreement between the United States and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for the United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until the date on which the Agreement enters into force for the United States, this section is amended by redesignating subsections (h) to (j) as (i) to (k), respectively, and by inserting after subsection (g) the following new subsection:</i>
 
-(h) “Special areas” means the areas referred to as eastern special areas in Article 3(1) of the Agreement between the United States of America and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990; in particular, the term refers to those areas east of the maritime boundary, as defined in that Agreement, that lie within 200 nautical miles of the baselines from which the breadth of the territorial sea of Russia is measured but beyond 200 nautical miles of the baselines from which the breadth of the territorial sea of the United States is measured.
+(h) “Special areas” means the areas referred to as eastern special areas in Article 3(1) of the Agreement between the United States of America and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990; in particular, the term refers to those areas east of the maritimeboundary, as defined in that Agreement, that lie within 200 nautical miles of the baselines from which the breadth of the territorial sea of Russia is measured but beyond 200 nautical miles of the baselines from which the breadth of the territorial sea of the United States is measured.
 
 #### References in Text
 
-The Magnuson Fishery Conservation and Management Act, referred to in subsec. (c), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, which is classified principally to chapter 38 (§1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
+The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (c), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, which is classified principally to chapter 38 (§1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
+
+#### Amendments
+
+1996—Subsec. (c). Pub. L. 104–208 substituted “Magnuson-Stevens Fishery” for “Magnuson Fishery”.
+
+#### Effective Date of 1996 Amendment
+
+Section 101(a) \[title II, §211(b)\] of div. A of Pub. L. 104–208 provided that the amendment made by that section is effective 15 days after Oct. 11, 1996.
 
 #### Effective Date of 1992 Amendment
 
@@ -52,5 +60,5 @@ Amendment by Pub. L. 102–251 effective on date on which Agreement between Unit
 
 #### Short Title
 
-Section 1 of Pub. L. 99–5 provided: “That this Act \[enacting this chapter and repealing sections 776 to 776f ofthis title and provisions set out as notes under section 776 of this title\] may be cited as the ‘Pacific Salmon Treaty Act of 1985’.”
+Section 1 of Pub. L. 99–5 provided: “That this Act \[enacting this chapter and repealing sections 776 to 776f of this title and provisions set out as notes under section 776 of this title\] may be cited as the ‘Pacific Salmon Treaty Act of 1985’.”
 

@@ -148,7 +148,7 @@ Sec. 2. <i>Responsibilities of Executive Agencies.</i>
 
 2–204. Upon receipt of a complaint alleging facts that may constitute a violation of the Act or upon receipt of information from a consumer compliance examination or other information suggesting a violation of the Act, each executive agency shall forward such facts or information to the Secretary of Housing and Urban Development for processing under the Act. Where such facts or information indicate a possible pattern or practice of discrimination in violation of the Act, they also shall be forwarded to the Attorney General. The authority of the Federal depository institution regulatory agencies to take appropriate action under their statutory authority remains unaffected.
 
-Sec. 3. <i>President's Fair Housing Council</i>.
+Sec. 3. <i>President's Fair Housing Council.</i>
 
 3–301. There is hereby established an advisory council entitled the “President's Fair Housing Council” (“Council”). The Council shall be chaired by the Secretary of Housing and Urban Development and shall consist of the Secretary of Health and Human Services, the Secretary of Transportation, the Secretary of Education, the Secretary of Labor, the Secretary of Defense, the Secretary of Agriculture, the Secretary of Veterans Affairs, the Secretary of the Treasury, the Attorney General, the Secretary of the Interior, the Chair of the Federal Reserve, the Comptroller of the Currency, the Director of the Office of Thrift Supervision, the Chair of the Federal Deposit Insurance Corporation, and such other officials of executive departments and agencies as the President may, from time to time, designate.
 

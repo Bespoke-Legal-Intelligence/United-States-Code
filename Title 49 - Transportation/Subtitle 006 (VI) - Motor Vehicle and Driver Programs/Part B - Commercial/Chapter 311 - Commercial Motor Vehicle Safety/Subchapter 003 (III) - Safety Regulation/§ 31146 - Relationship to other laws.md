@@ -6,7 +6,9 @@ Except as provided in section 31136(b) of this title, this subchapter and the re
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

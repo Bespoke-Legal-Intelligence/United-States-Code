@@ -76,6 +76,10 @@ Provisions similar to those in this section were contained in section 3251 of th
 
 1978—Subsec. (a)(4). Pub. L. 95–609 substituted “solid waste” for “solid-waste”.
 
+#### Short Title of 1996 Amendment
+
+Pub. L. 104–119, §1, Mar. 26, 1996, 110 Stat. 830, provided that: “This Act \[amending sections 6921, 6924, 6925, 6947, and 6949a of this title and enacting provisions set out as a note under section 6949a of this title\] may be cited as the ‘Land Disposal Program Flexibility Act of 1996’.”
+
 #### Short Title of 1992 Amendment
 
 Pub. L. 102–386, title I, §101, Oct. 6, 1992, 106 Stat. 1505, provided that: “This title \[enacting sections 6908, 6939c to 6939e, and 6965 of this title, amending sections 6903, 6924, 6927, and 6961 of this title, and enacting provisions set out as notes under sections 6939c and 6961 of this title\] may be cited as the ‘Federal Facility Compliance Act of 1992’.”
@@ -100,7 +104,7 @@ Section 1 of Pub. L. 94–580 provided that: “This Act \[enacting this chapter
 
 #### Short Title
 
-Section 1001 of Pub. L. 89–272, as added Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2795, provided in part that titleII of Pub. L. 89–272 \[enacting this chapter\] may be cited as the “Solid Waste Disposal Act”.
+Section 1001 of Pub. L. 89–272, as added Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2795, provided in part that title II of Pub. L. 89–272 \[enacting this chapter\] may be cited as the “Solid Waste Disposal Act”.
 
 #### Federal Compliance With Pollution Control Standards
 

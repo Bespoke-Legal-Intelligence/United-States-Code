@@ -1,6 +1,6 @@
 ### §407m–5. Inclusion of additional lands and building; administration
 
-The lands hereinbefore described and the building to be erected thereon shall become a part of the Independence National Historical Park and shall be administered in accordance with the laws and regulations applicable thereto.
+The lands hereinbefore described and the building to be erected thereon shall become a part of the Independence National HistoricalPark and shall be administered in accordance with the laws and regulations applicable thereto.
 
 (Pub. L. 88–477, §3, Aug. 21, 1964, 78 Stat. 587.)
 

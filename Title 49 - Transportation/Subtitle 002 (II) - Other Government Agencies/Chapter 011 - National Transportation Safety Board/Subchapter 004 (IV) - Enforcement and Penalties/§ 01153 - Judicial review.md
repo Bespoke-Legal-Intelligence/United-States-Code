@@ -6,11 +6,11 @@ General.—The appropriate court of appeals of the United States or the United S
 
 (b)
 
-Persons Seeking Judicial Review of Aviation Matters.—(1) A person disclosing a substantial interest in an order related to an aviation matter issued by the Board under this chapter may apply for review of the order by filing a petition for review in the United States Court of Appeals for the District of Columbia Circuit or in the court of appeals of the United States for the circuit in which the person resides or has its principal place of business. The petition must be filed not later than 60 days after the order is issued. The court may allow the petition to be filed after the 60 days only if there was a reasonable ground for not filing within that 60-day period.
+Persons Seeking Judicial Review of Aviation Matters.—(1) A person disclosing a substantial interest in an order related to an aviation matter issued by the Board under this chapter may apply for review of the order by filing a petition for review in the United States Court of Appeals for the District of Columbia Circuit or in the court of appeals of the UnitedStates for the circuit in which the person resides or has its principal place of business. The petition must be filed not later than 60 days after the order is issued. The court may allow the petition to be filed after the 60 days only if there was a reasonable ground for not filing within that 60-day period.
 
 (2) When a petition is filed under paragraph (1) of this subsection, the clerk of the court immediately shall send a copy of the petition to the Board. The Board shall file with the court a record of the proceeding in which the order was issued.
 
-(3) When the petition is sent to the Board, the court has exclusive jurisdiction to affirm, amend, modify, or set aside any part of the order and may order the Board to conduct further proceedings. After reasonable notice to the Board, the court may grant interim relief bystaying the order or taking other appropriate action when cause for its action exists. Findings of fact by the Board, if supported by substantial evidence, are conclusive.
+(3) When the petition is sent to the Board, the court has exclusive jurisdiction to affirm, amend, modify, or set aside any part of the order and may order the Board to conduct further proceedings. After reasonable notice to the Board, the court may grant interim relief by staying the order or taking other appropriate action when cause for its action exists. Findings of fact by the Board, if supported by substantial evidence, are conclusive.
 
 (4) In reviewing an order under this subsection, the court may consider an objection to an order of the Board only if the objection was made in the proceeding conducted by the Board or if there was a reasonable ground for not making the objection in the proceeding.
 
@@ -24,7 +24,9 @@ Administrator Seeking Judicial Review of Aviation Matters.—When the Administra
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -98,7 +100,7 @@ Aug. 23, 1958, Pub. L. 85–726, §609(a) (8th–last sentences related to Admin
 
 49 App.:1471(a) (3)(D)(v) (related to Administrator under subch. VII).
 
-Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §901(a)(3)(D)(v) (related to Administrator under title VII); added Nov. 18, 1988, Pub. L. 100–690, §7208(b), 102 Stat. 4429; restated Aug. 26, 1992, Pub. L. 102–345, §2(a), 106 Stat. 923.
+Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §901(a) (3)(D)(v) (related to Administrator under title VII); added Nov. 18, 1988, Pub. L. 100–690, §7208(b), 102 Stat. 4429; restated Aug. 26, 1992, Pub. L. 102–345, §2(a), 106 Stat. 923.
 
 &nbsp;
 

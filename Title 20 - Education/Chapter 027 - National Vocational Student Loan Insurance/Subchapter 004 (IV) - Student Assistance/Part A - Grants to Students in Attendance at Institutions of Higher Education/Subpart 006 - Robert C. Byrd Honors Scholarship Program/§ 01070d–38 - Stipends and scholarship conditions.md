@@ -16,5 +16,5 @@ A prior section 1070d–38, Pub. L. 89–329, title IV, §419H, as added Pub. L.
 
 #### Amendments
 
-1992—Subsec. (a). Pub. L. 102–325 inserted before period at end “, except that in no case shall the totalamount of financial aid awarded to such student exceed such student's total cost-of-attendance”.
+1992—Subsec. (a). Pub. L. 102–325 inserted before period at end “, except that in no case shall the total amount of financial aid awarded to such student exceed such student's total cost-of-attendance”.
 

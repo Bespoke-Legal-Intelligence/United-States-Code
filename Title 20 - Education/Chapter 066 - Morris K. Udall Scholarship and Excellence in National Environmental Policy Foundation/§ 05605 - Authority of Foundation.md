@@ -8,7 +8,7 @@
 
 &emsp;(B) The Foundation may provide, directly or by contract, for the conduct of national competition for the purpose of selecting recipients of scholarships, fellowships, internships, and grants awarded under this chapter.
 
-&emsp;(C) The Foundation may award scholarships, fellowships, internships and grants to eligible individuals in accordance with the provisions of this chapter for study in fields related to the environment and Native American andAlaska Native health care and tribal public policy. Such scholarships, fellowships, internships and grants shall be awarded to eligible individuals who meet the minimum criteria established by the Foundation.
+&emsp;(C) The Foundation may award scholarships, fellowships, internships and grants to eligible individuals in accordance with the provisions of this chapter for study in fields related to the environment and Native American and Alaska Native health care and tribal public policy. Such scholarships, fellowships, internships and grants shall be awarded to eligible individuals who meet the minimum criteria established by the Foundation.
 
 #### (2) Scholarships
 

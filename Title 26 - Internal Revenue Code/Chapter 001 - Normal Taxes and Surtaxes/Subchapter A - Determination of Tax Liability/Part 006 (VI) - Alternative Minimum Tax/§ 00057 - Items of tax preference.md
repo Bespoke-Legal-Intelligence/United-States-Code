@@ -52,9 +52,7 @@ For purposes of this part, the items of tax preference determined under this sec
 
 #### \[(3) Repealed. Pub. L. 100–647, title I, §1007(b)(14)(B), Nov. 10, 1988, 102 Stat. 3430\]
 
-#### (4) Reserves for losses on bad debts of financial institutions
-
-&emsp;In the case of a financial institution to which section 593 applies, the amount by which the deduction allowable for the taxable year for a reasonable addition to a reserve for bad debts exceeds the amount that would have been allowable had the institution maintained its bad debt reserve for all taxable years on the basis of actual experience.
+#### \[(4) Repealed. Pub. L. 104–188, title I, §1616(b)(3), Aug. 20, 1996, 110 Stat. 1856\]
 
 #### (5) Tax-exempt interest
 
@@ -110,7 +108,7 @@ For purposes of paragraph (2) of subsection (a)—
 
 &emsp;If the taxpayer elects with respect to the intangible drilling and development costs for any well, the term “straight line recovery of intangibles” means any method which would be permitted for purposes of determining cost depletion with respect to such well and which is selected by the taxpayer for purposes of subsection (a)(2).
 
-(Added Pub. L. 99–514, title VII, §701(a), Oct. 22, 1986, 100 Stat. 2333; amended Pub. L. 100–647, title I, §1007(b)(14)(B), (c), Nov. 10, 1988, 102 Stat. 3430, 3432; Pub. L. 101–508, title XI, §§11344, 11801(c)(12)(A), 11815(b)(3), Nov. 5, 1990, 104 Stat. 1388–472, 1388–527, 1388–558; Pub. L. 102–227, title I, §112, Dec. 11, 1991, 105 Stat. 1689; Pub. L. 102–486, title XIX, §1915(a)(1), (b)(1), Oct. 24, 1992, 106 Stat. 3023, 3024; Pub. L. 103–66, title XIII, §§13113(b)(1), 13171(a), Aug. 10, 1993, 107 Stat. 429, 454.)
+(Added Pub. L. 99–514, title VII, §701(a), Oct. 22, 1986, 100 Stat. 2333; amended Pub. L. 100–647, title I, §1007(b)(14)(B), (c), Nov. 10, 1988, 102 Stat. 3430, 3432; Pub. L. 101–508, title XI, §§11344, 11801(c)(12)(A), 11815(b)(3), Nov. 5, 1990, 104 Stat. 1388–472, 1388–527, 1388–558; Pub. L. 102–227, title I, §112, Dec. 11, 1991, 105 Stat. 1689; Pub. L. 102–486, title XIX, §1915(a)(1), (b)(1), Oct. 24, 1992, 106 Stat. 3023, 3024; Pub. L. 103–66, title XIII, §§13113(b)(1), 13171(a), Aug. 10, 1993, 107 Stat. 429, 454; Pub. L. 104–188, title I, §1616(b)(3), Aug. 20, 1996, 110 Stat. 1856.)
 
 #### References in Text
 
@@ -122,7 +120,11 @@ A prior section 57, added Pub. L. 91–172, title III, §301(a), Dec. 30, 1969, 
 
 #### Amendments
 
-1993—Subsec. (a)(6), (7). Pub. L. 103–66, §13171(a), redesignated pars. (7) and (8) as (6) and (7), respectively, and struck out heading and text of former par. (6). Text read as follows:
+1996—Subsec. (a)(4). Pub. L. 104–188 struck out par. (4) which read as follows: “
+
+Reserves for losses on bad debts of financial institutions.—In the case of a financial institution to which section 593 applies, the amount by which the deduction allowable for the taxable year for a reasonable addition to a reserve for bad debts exceeds the amount that would have been allowable had the institution maintained its bad debt reserve for all taxable years on the basis of actual experience.”
+
+1993—Subsec. (a)(6), (7). Pub. L. 103–66, §13171(a), redesignated pars. (7) and (8) as (6) and (7), respectively,and struck out heading and text of former par. (6). Text read as follows:
 
 “(A)
 
@@ -130,7 +132,7 @@ In general.—The amount by which the deduction allowable under section 170 or 6
 
 “(B)
 
-Capital gain property.—For purposes of subparagraph (A), the term ‘capital gain property’ has the meaning given to such term by section 170(b)(1)(C)(iv). Such term shall not include any property to which an election under section 170(b)(1)(C)(iii) applies. In thecase of any taxable year beginning in 1991, such term shall not include any tangible personal property. In the case of a contribution made before July 1, 1992, in a taxable year beginning in 1992, such term shall not include any tangible personal property.”
+Capital gain property.—For purposes of subparagraph (A), the term ‘capital gain property’ has the meaning given to such term by section 170(b)(1)(C)(iv). Such term shall not include any property to which an election under section 170(b)(1)(C)(iii) applies. In the case of any taxable year beginning in 1991, such term shall not include any tangible personal property. In the case of a contribution made before July 1, 1992, in a taxable year beginning in 1992, such term shall not include any tangible personal property.”
 
 Subsec. (a)(8). Pub. L. 103–66, §13171(a), redesignated par. (8) as (7).
 
@@ -155,6 +157,10 @@ Subsec. (a)(5)(C)(i). Pub. L. 100–647, §1007(c)(2), amended cl. (i) generally
 Subsec. (a)(5)(C)(iii). Pub. L. 100–647, §1007(c)(1), inserted “(whether a current or advance refunding)” after “any refunding bond”.
 
 Subsec. (a)(6)(A). Pub. L. 100–647, §1007(c)(3), inserted “or 642(c)” after “section 170”.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–188 applicable to taxable years beginning after Dec. 31, 1995, see section 1616(c) of Pub. L. 104–188, set out as a note under section 593 of this title.
 
 #### Effective Date of 1993 Amendment
 

@@ -8,13 +8,13 @@ No agricultural commodity shall be made available under this chapter unless it i
 
 &emsp;(2) the distribution of the commodity in the recipient country will not result in a substantial disincentive to or interference with domestic production or marketing in that country.
 
-#### (b) Consultations
+#### (b) Impact on local farmers and economy
 
-The Secretary or the Administrator, as appropriate, shall consult with representatives from the International Monetary Fund, the International Bank for Reconstruction and Development, the World Bank, and other donor organizations to ensure that the importation of United States agricultural commodities and the use of local currencies for development purposes will not have a disruptive impact on the farmers or the local economy of the recipient country.
+The Secretary or the Administrator, as appropriate, shall ensure that the importation of United States agricultural commodities and the use of local currencies for development purposes will not have a disruptive impact on the farmers or the local economy of the recipient country.
 
 #### (c) Transshipment
 
-The Secretary or the Administrator, as appropriate, shall, under such terms and conditions as are determined to be appropriate, require commitments from countries designed to prevent or restrict the resale or transshipment to other countries, for use for other than domestic purposes, of agricultural commodities donated or purchased under this chapter.
+The Secretary or the Administrator, as appropriate, shall, under such terms and conditions as are determined to be appropriate, require commitments designed to prevent or restrict the resale or transshipment to other countries, or use for other than domestic purposes, of agricultural commodities donated or purchased under this chapter.
 
 #### (d) Private trade channels and small business
 
@@ -34,7 +34,7 @@ In carrying out this chapter, reasonable precautions shall be taken to assure th
 
 #### (f) Publicity
 
-Commitments shall be obtained from countries receiving commodities under this chapter that such countries will widely publicize, to the extent practicable, through the use of the public media and through other means, that such commodities are being provided through the friendship of the American people as food for peace.
+Commitments shall be obtained from countries or private entities, as appropriate, receiving commodities under this chapter that such countries or private entities will widely publicize, to the extent practicable, through the use of the public media and through other means, that such commodities are being provided through the friendship of the American people as food for peace.
 
 #### (g) Participation of private sector
 
@@ -66,10 +66,6 @@ In carrying out this chapter, reasonable precautions shall be taken to safeguard
 
 &emsp;&emsp;&emsp;(iii) the Secretary or the Administrator, as appropriate, determines that such action is necessary to meet the emergency health, safety, or nutritional requirements of the recipient population.
 
-#### (C) Report
-
-&emsp;&emsp;Not later than 30 days after an authorization is provided under subparagraph (B), the Secretary or the Administrator, as appropriate, shall prepare and submit to the appropriate committees of Congress a report concerning such authorization and include in any such report the reason for the authorization, including an explanation of why no alternatives to such handling or distribution were available.
-
 #### (3) Encouragement of safe passage
 
 &emsp;When entering into agreements under this chapter that involve areas within recipient countries that are experiencing protracted warfare or civil strife, the Secretary or the Administrator, as appropriate, shall, to the extent practicable, encourage all parties to the conflict to permit safe passage of the commodities and other relief supplies and to establish safe zones for medical and humanitarian treatment and evacuation of injured persons.
@@ -78,7 +74,7 @@ In carrying out this chapter, reasonable precautions shall be taken to safeguard
 
 #### (1) Ineligible countries
 
-&emsp;The Secretary or the Administrator, as appropriate, shall not enter into any agreement under this chapter to provide agricultural commodities, or to finance the sale of agricultural commodities, to the government of any country determined by the President to engage in a consistent pattern of gross violations of internationally recognized human rights, including—
+&emsp;The Secretary or the Administrator, as appropriate, shall not enter into any agreementunder this chapter to provide agricultural commodities, or to finance the sale of agricultural commodities, to the government of any country determined by the President to engage in a consistent pattern of gross violations of internationally recognized human rights, including—
 
 &emsp;&emsp;(A) the torture or cruel, inhuman, or degrading treatment or punishment of individuals;
 
@@ -96,9 +92,17 @@ In carrying out this chapter, reasonable precautions shall be taken to safeguard
 
 Local currencies that are made available for use under this chapter may not be used to pay for the performance of abortions as a method of family planning or to motivate or coerce any person to practice abortions.
 
-(July 10, 1954, ch. 469, title IV, §403, as added Sept. 21, 1959, Pub. L. 86–341, title I, §14, 73 Stat. 610; amended Sept. 27, 1962, Pub. L. 87–703, title II, §201(3), 76 Stat. 611; Oct. 8, 1964, Pub. L. 88–638, §1(17), 78 Stat. 1037; Nov. 11, 1966, Pub. L. 89–808, §2(E), 80 Stat. 1536; Sept. 29, 1977, Pub. L. 95–113, title XII, §1206, 91 Stat. 956; Dec. 16, 1980, Pub. L. 96–533, title IV, §407, 94 Stat. 3151; Dec. 22, 1981, Pub. L. 97–98, title XII, §1214, 95 Stat. 1282; Nov. 28, 1990, Pub. L. 101–624, title XV, §1512, 104 Stat. 3646; Dec. 13, 1991, Pub. L. 102–237, title III, §321, 105 Stat. 1857.)
+(July 10, 1954, ch. 469, title IV, §403, as added Sept. 21, 1959, Pub. L. 86–341, title I, §14, 73 Stat. 610; amended Sept. 27, 1962, Pub. L. 87–703, title II, §201(3), 76 Stat. 611; Oct. 8, 1964, Pub. L. 88–638, §1(17), 78 Stat. 1037; Nov. 11, 1966, Pub. L. 89–808, §2(E), 80 Stat. 1536; Sept. 29, 1977, Pub. L. 95–113, title XII, §1206, 91 Stat. 956; Dec. 16, 1980, Pub. L. 96–533, title IV, §407, 94 Stat. 3151; Dec. 22, 1981, Pub. L. 97–98, title XII, §1214, 95 Stat. 1282; Nov. 28, 1990, Pub. L. 101–624, title XV, §1512, 104 Stat. 3646; Dec. 13, 1991, Pub. L. 102–237, title III, §321, 105 Stat. 1857; Apr. 4, 1996, Pub. L. 104–127, title II, §213, 110 Stat. 956.)
 
 #### Amendments
+
+1996—Subsec. (b). Pub. L. 104–127, §213(1), inserted heading and struck out former heading “Consultations” and in text struck out “consult with representatives from the International Monetary Fund, the International Bank for Reconstruction and Development, the World Bank, and other donor organizations to” before “ensure that”.
+
+Subsec. (c). Pub. L. 104–127, §213(2), struck out “from countries” after “require commitments” and substituted “or use for other” for “for use for other”.
+
+Subsec. (f). Pub. L. 104–127, §213(3), inserted “or private entities, as appropriate,” after “from countries” and “or private entities” after “such countries”.
+
+Subsec. (i)(2)(C). Pub. L. 104–127, §213(4), struck out heading and text of subpar. (C). Text read as follows: “Not later than 30 days after an authorization is provided under subparagraph (B), the Secretary or the Administrator, as appropriate, shall prepare and submit to the appropriate committees of Congress a report concerning such authorization and include in any such report the reason for the authorization, including an explanation of why no alternatives to such handling or distribution were available.”
 
 1991—Subsec. (i)(2)(C). Pub. L. 102–237 substituted “committees” for “Committees”.
 

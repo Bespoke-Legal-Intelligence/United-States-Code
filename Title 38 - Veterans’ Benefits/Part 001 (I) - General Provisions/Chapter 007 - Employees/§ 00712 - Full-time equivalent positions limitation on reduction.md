@@ -6,11 +6,13 @@
 
 &emsp;(1) the number of such positions in the Department during that fiscal year, reduced by
 
-&emsp;(2) the sum of—
+&emsp;(2) the sum of the following:
 
-&emsp;&emsp;(A) the number of such positions in the Department during that fiscal year that are filled by employees whose salaries and benefits are paid primarily from funds other than appropriated funds; and
+&emsp;&emsp;(A) The number of such positions in the Department during that fiscal year that are filled by employees whose salaries and benefits are paid primarily from funds other than appropriated funds.
 
-&emsp;&emsp;(B) the number of such positions held during that fiscal year by persons involved in medical care cost recovery activities under section 1729 of this title.
+&emsp;&emsp;(B) The number of such positions held during that fiscal year by persons involved in medical care cost recovery activities under section 1729 of this title.
+
+&emsp;&emsp;(C) The number of such positions in the Department during that fiscal year held by persons involved in providing health-care resources under section 8111 or 8153 of this title or under section 201 of the Veterans Health Care Act of 1992 (Public Law 102–585; 106 Stat. 4949; 38 U.S.C. 8111 note).
 
 (c) The Secretary shall not be required to make a reduction in the number of full-time equivalent positions in the Department unless such reduction—
 
@@ -20,11 +22,19 @@
 
 (d) The Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives an annual report, through the year 2000, on the number and type of full-time equivalent positions in the Department that are reduced under this section. The report shall include a justification for the reductions and shall be submitted with the materials provided in support of the budget for the Department contained in the President's budget submitted to Congress for a fiscal year pursuant to section 1105 of title 31.
 
-(Added Pub. L. 103–446, title XI, §1102(a), Nov. 2, 1994, 108 Stat. 4680.)
+(Added Pub. L. 103–446, title XI, §1102(a), Nov. 2, 1994, 108 Stat. 4680; amended Pub. L. 104–262, title III, §303, Oct. 9, 1996, 110 Stat. 3194.)
 
 #### References in Text
 
 The date of the enactment of this section, referred to in subsecs. (a) and (c)(2), is the date of enactment of Pub. L. 103–446, which was approved Nov. 2, 1994.
+
+#### Amendments
+
+1996—Subsec. (b)(2). Pub. L. 104–262, §303(1), substituted “the sum of the following:” for “the sum of—” in introductory provisions.
+
+Subsec. (b)(2)(A), (B). Pub. L. 104–262, §303(2), (3), substituted “The number” for “the number” in subpars. (A) and (B) and substituted a period for “; and” at end of subpar. (A).
+
+Subsec. (b)(2)(C). Pub. L. 104–262, §303(4), added subpar. (C).
 
 #### Congressional Findings
 

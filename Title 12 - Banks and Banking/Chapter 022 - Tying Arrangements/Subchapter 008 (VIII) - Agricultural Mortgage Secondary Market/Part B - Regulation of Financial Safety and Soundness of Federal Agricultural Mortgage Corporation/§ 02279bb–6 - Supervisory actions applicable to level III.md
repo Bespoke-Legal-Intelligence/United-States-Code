@@ -66,5 +66,5 @@ This section shall take effect on January 1, 1992.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2279bb–4, 2279bb–5 of this title.
+This section is referred to in sections 2279bb–4, 2279bb–5, 2279cc of this title.
 

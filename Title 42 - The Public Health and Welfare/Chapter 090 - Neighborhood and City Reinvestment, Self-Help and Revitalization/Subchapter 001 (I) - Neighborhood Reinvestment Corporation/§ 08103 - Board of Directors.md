@@ -30,7 +30,7 @@ The directors of the corporation, as full-time officers of the United States, sh
 
 #### (e) Bylaws, policies and administrative provisions
 
-The directors of the corporation shall adopt such bylaws, policies, and administrative provisions as are necessary to the functioning of the corporation and consistent with the provisions of this subchapter.
+The directors of the corporation shall adopt such bylaws, policies, and administrative provisions as are necessary to the functioning of thecorporation and consistent with the provisions of this subchapter.
 
 #### (f) Director absences; designated representatives
 

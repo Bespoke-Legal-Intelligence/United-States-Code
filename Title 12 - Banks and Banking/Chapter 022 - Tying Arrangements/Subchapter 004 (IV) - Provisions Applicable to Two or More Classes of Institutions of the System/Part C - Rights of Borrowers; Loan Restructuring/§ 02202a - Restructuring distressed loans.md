@@ -30,7 +30,7 @@ As used in this part:
 
 #### (3) Distressed loan
 
-&emsp;The term “distressed loan” means a loan that the borrower does not have the financial capacity to pay according to its terms andthat exhibits one or more of the following characteristics:
+&emsp;The term “distressed loan” means a loan that the borrower does not have the financial capacity to pay according to its terms and that exhibits one or more of the following characteristics:
 
 &emsp;&emsp;(A) The borrower is demonstrating adverse financial and repayment trends.
 
@@ -48,7 +48,25 @@ As used in this part:
 
 #### (5) Loan
 
-&emsp;The term “loan” means a loan made to a farmer, rancher, or producer or harvester of aquatic products, for any agricultural or aquatic purpose and other credit needs of the borrower, including financing for basic processing and marketing directly related to the borrower's operations and those of other eligible farmers, ranchers, and producers or harvesters of aquatic products.
+#### (A) In general
+
+&emsp;&emsp;Subject to subparagraph (B), the term “loan” means a loan made to a farmer, rancher, or producer or harvester of aquatic products, for any agricultural or aquatic purpose and other credit needs of the borrower, including financing for basic processing and marketing directly related to the borrower's operations and those of other eligible farmers, ranchers, and producers or harvesters of aquatic products.
+
+#### (B) Exclusion for loans designated for sale into secondary market
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;Except as provided in clause (ii), the term “loan” does not include a loan made on or after February 10, 1996, that is designated, at the time the loan is made, for sale into a secondary market.
+
+#### (ii) Unsold loans
+
+#### (I) In general
+
+&emsp;&emsp;&emsp;&emsp;Except as provided in subclause (II), if a loan designated for sale under clause (i) is not sold into a secondary market during the 180-day period that begins on the date of the designation, the provisions of this section and sections 2202, 2202b, 2202c, 2202d, and 2219a of this title that would otherwise apply to the loan in the absence of the exclusion described in clause (i) shall become effective with respect to the loan.
+
+#### (II) Later sale
+
+&emsp;&emsp;&emsp;&emsp;If a loan described in subclause (I) is sold into a secondary market after the end of the 180-day period described in subclause (I), subclause (I) shall not apply with respect to the loan beginning on the date of the sale.
 
 #### (6) Qualified lender
 
@@ -112,7 +130,7 @@ On determination by a qualified lender that a loan made by the lender is or has 
 
 #### (1) In general
 
-&emsp;If a qualified lender determines that the potential cost to such qualified lender of restructuring the loan in accordance with a proposed restructuring plan is less than or equal to thepotential cost of foreclosure, the qualified lender shall restructure the loan in accordance with the plan.
+&emsp;If a qualified lender determines that the potential cost to such qualified lender of restructuring the loan in accordance with a proposed restructuring plan is less than or equal to the potential cost of foreclosure, the qualified lender shall restructure the loan in accordance with the plan.
 
 #### (2) Computation of cost of restructuring
 
@@ -172,9 +190,11 @@ The time limitation prescribed in subsection (b)(2) of this section, and the req
 
 Each Farm Credit Bank, on request of any production credit association, may assist the association in restructuring loans under this section.
 
-(Pub. L. 92–181, title IV, §4.14A, as added Pub. L. 100–233, title I, §102(a), Jan. 6, 1988, 101 Stat. 1574; amended Pub. L. 100–399, title I, §102(a)–(f), Aug. 17, 1988, 102 Stat. 990.)
+(Pub. L. 92–181, title IV, §4.14A, as added Pub. L. 100–233, title I, §102(a), Jan. 6, 1988, 101 Stat. 1574; amended Pub. L. 100–399, title I, §102(a)–(f), Aug. 17, 1988, 102 Stat. 990; Pub. L. 104–105, title II, §208(a), Feb. 10, 1996, 110 Stat. 173.)
 
 #### Amendments
+
+1996—Subsec. (a)(5). Pub. L. 104–105 designated existing provisions as subpar. (A), inserted subpar. heading, substituted “Subject to subparagraph (B), the term” for “The term”, and added subpar. (B).
 
 1988—Subsec. (a). Pub. L. 100–399, §102(a), struck out “(other than in sections 2205 and 2206 of this title)” after “in this part”.
 
@@ -194,7 +214,7 @@ Amendment by section 102(b), (f) of Pub. L. 100–399 effective immediately afte
 
 #### Sense of Congress
 
-Section 102(b) of Pub. L. 100–233 provided that: “It is the sense of Congress that the banks and associations (except banks for cooperatives) operating under the Farm Credit Act of 1971 (12 U.S.C. 2001 et seq.) should administer distressed loans to farmers with the objective of using the loan guarantee programs of the Farmers Home Administration and other loan restructuringmeasures, including participation in interest rate buy-down programs that are Federally or State funded, and other Federal and State sponsored financial assistance programs that offer relief to financially distressed farmers, as alternatives to foreclosure, considering the availability and appropriateness of such programs on a case-by-case basis.”
+Section 102(b) of Pub. L. 100–233 provided that: “It is the sense of Congress that the banks and associations (except banks for cooperatives) operating under the Farm Credit Act of 1971 (12 U.S.C. 2001 et seq.) should administer distressed loans to farmers with the objective of using the loan guarantee programs of the Farmers Home Administration and other loan restructuring measures, including participation in interest rate buy-down programs that are Federally or State funded, and other Federal and State sponsored financial assistance programs that offer relief to financially distressed farmers, as alternatives to foreclosure, considering the availability and appropriateness of such programs on a case-by-case basis.”
 
 #### Section Referred to in Other Sections
 

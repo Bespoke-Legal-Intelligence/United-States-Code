@@ -2,11 +2,11 @@
 
 (a)
 
-Assignment of Forces.—(1) Except as provided in paragraph (2), the Secretaries of the military departments shall assign all forces under their jurisdiction to unified and specified combatant commands or to the United States element of the North American Air Defense Command to perform missions assigned to those commands. Such assignments shall be made as directed by the Secretary of Defense, including direction as to the command to which forces are to be assigned. The Secretary of Defense shall ensure that such assignments are consistentwith the force structure prescribed by the President for each combatant command.
+Assignment of Forces.—(1) Except as provided in paragraph (2), the Secretaries of the military departments shall assign all forces under their jurisdiction to unified and specified combatant commands or to the United States element of the North American Aerospace Defense Command to perform missions assigned to those commands. Such assignments shall be made as directed by the Secretary of Defense, including direction as to the command to which forces are to be assigned. The Secretary of Defense shall ensure that such assignments are consistent with the force structure prescribed by the President for each combatant command.
 
-(2) Except as otherwise directed by the Secretary of Defense, forces to be assigned by the Secretaries of the military departments to the combatant commands or to the United States element of the North American Air Defense Command under paragraph (1) do not include forces assigned to carry out functions of the Secretary of a military department listed in sections 3013(b), 5013(b), and 8013(b) of this title or forces assigned to multinational peacekeeping organizations.
+(2) Except as otherwise directed by the Secretary of Defense, forces to be assigned by the Secretaries of the military departments to the combatant commands or to the United States element of the North American Aerospace Defense Command under paragraph (1) do not include forces assigned to carry out functions of the Secretary of a military department listed in sections 3013(b), 5013(b), and 8013(b) of this title or forces assigned to multinational peacekeeping organizations.
 
-(3) A force assigned to a combatant command or to the United States element of the North American Air Defense Command under this section may be transferred from the command to which it is assigned only—
+(3) A force assigned to a combatant command or to the United States element of the North American Aerospace Defense Command under this section may be transferred from the command to which it is assigned only—
 
 &emsp;(A) by authority of the Secretary of Defense; and
 
@@ -22,9 +22,11 @@ Chain of Command.—Unless otherwise directed by the President, the chain of com
 
 &emsp;(2) from the Secretary of Defense to the commander of the combatant command.
 
-(Added Pub. L. 99–433, title II, §211(a), Oct. 1, 1986, 100 Stat. 1012; amended Pub. L. 100–180, div. A, title XIII, §1313, Dec. 4, 1987, 101 Stat. 1175; Pub. L. 100–456, div. A, title VII, §711, Sept. 29, 1988, 102 Stat. 1997.)
+(Added Pub. L. 99–433, title II, §211(a), Oct. 1, 1986, 100 Stat. 1012; amended Pub. L. 100–180, div. A, title XIII, §1313, Dec. 4, 1987, 101 Stat. 1175; Pub. L. 100–456, div. A, title VII, §711, Sept. 29, 1988, 102 Stat. 1997; Pub. L. 104–201, div. A, title X, §1073(a), Sept. 23, 1996, 110 Stat. 2657.)
 
 #### Amendments
+
+1996—Subsec. (a)(1) to (3). Pub. L. 104–201 substituted “North American Aerospace Defense Command” for “North American Air Defense Command”.
 
 1988—Subsec. (a)(1) to (3). Pub. L. 100–456 inserted “or to the United States element of the North American Air Defense Command”.
 

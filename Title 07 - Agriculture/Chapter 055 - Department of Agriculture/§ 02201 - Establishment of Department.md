@@ -42,7 +42,7 @@ Pub. L. 86–509, June 11, 1960, 74 Stat. 205, which enacted provisions of Reorg
 
 “(c) The functions of the Secretary of the Interior under the Act of June 7, 1924 (43 Stat. 643), except section 2 thereof, with respect to exchanges of privately owned lands for national forest timber in New Mexico.
 
-“(d) The functions of the Secretary of the Interior under the Act of January 12, 1925 (43 Stat. 739), except section 2 thereof, with respect to exchanges of privately owned lands for national forest timber in New Mexico.
+“(d) The functions of the Secretary of the Interior under the Act of January 12, 1925 (43 Stat. 739), exceptsection 2 thereof, with respect to exchanges of privately owned lands for national forest timber in New Mexico.
 
 “(e) The functions of the Secretary of the Interior under the Act of April 21, 1926 (44 Stat. 303), except section 2 thereof, with respect to exchanges of privately owned lands for national forest lands or timber in New Mexico and Arizona.
 
@@ -68,7 +68,7 @@ Sec. 2(a). In no case covered by subsections (a), (b), (e), (g), and (h) of sect
 
 “(c) Nothing in subsection (1) of section 1 hereof shall be construed to authorize the Secretary of Agriculture to dispose of coal, phosphate, sodium, potassium, oil, oil shale, gas, or sulfur, or to dispose of any minerals which would be subject to disposal under the mining laws if said laws were applicable to the lands in which the minerals are situated.
 
-“(d) Upon approval by the Secretary of Agriculture pursuant to the provisions of this Act of any exchange or sale, respectively, of national forest lands under the provisions of law referred to in subsections (a), (b), (e),\(f), (g), and (j) of section 1, hereof, the Secretary of the Interior, upon the recommendation of the Secretary of Agriculture, shall issue the patent therefor.
+“(d) Upon approval by the Secretary of Agriculture pursuant to the provisions of this Act of any exchange or sale, respectively, of national forest lands under the provisions of law referred to in subsections (a), (b), (e), (f), (g), and (j) of section 1, hereof, the Secretary of the Interior, upon the recommendation of the Secretary of Agriculture, shall issue the patent therefor.
 
 “(e) All conveyances under the Act referred to in subsection (h) of section 1 hereof of national forest lands reserved from the public domain shall, upon recommendation of the Secretary of Agriculture, be made by the Secretary of the Interior.”
 

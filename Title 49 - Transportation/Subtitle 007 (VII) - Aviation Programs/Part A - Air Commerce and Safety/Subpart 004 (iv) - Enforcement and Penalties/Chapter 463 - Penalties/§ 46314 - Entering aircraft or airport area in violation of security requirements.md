@@ -14,7 +14,9 @@ Criminal Penalty.—(1) A person violating subsection (a) of this section shall 
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

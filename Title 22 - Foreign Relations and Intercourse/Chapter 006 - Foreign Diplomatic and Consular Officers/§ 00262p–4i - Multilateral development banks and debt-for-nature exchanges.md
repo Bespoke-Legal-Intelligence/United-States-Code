@@ -56,7 +56,7 @@ The United States Executive Directors of the multilateral development banks shal
 
 &emsp;(4) promote the maintenance and restoration of soils, vegetation, hydrological cycles, wildlife, critical ecosystems (tropical forests, wetlands, and coastal marine resources), biological diversity and other natural resources essential to economic growth and human well-being and shall, when using natural resources, be implemented to minimize the depletion of such natural resources; and
 
-&emsp;(5) take steps, wherever feasible, to prevent pollution that threatens human health and important biotic systems and to achieve patterns of energy consumption that meet human needs and rely on renewable resources.
+&emsp;(5) take steps, wherever feasible, to prevent pollution that threatens human health andimportant biotic systems and to achieve patterns of energy consumption that meet human needs and rely on renewable resources.
 
 #### (c) Inclusion of certain items in guidelines
 

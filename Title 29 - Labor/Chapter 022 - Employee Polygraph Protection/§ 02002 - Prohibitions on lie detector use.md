@@ -24,5 +24,5 @@ Except as provided in sections 2006 and 2007 of this title, it shall be unlawful
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 2 section 1314.
+This section is referred to in title 2 section 1314; title 3 section 414.
 

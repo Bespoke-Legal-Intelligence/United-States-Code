@@ -26,7 +26,7 @@ Any agreement with a State or local authority for the provision of protective se
 
 #### (f) Requirement for appropriations
 
-Contracts may be entered into in carrying out this section only to such extent or in such amounts as are provided in advance in appropriation Acts.
+Contracts may be entered into in carrying out this section only to such extent or in suchamounts as are provided in advance in appropriation Acts.
 
 #### (g) Working capital fund
 

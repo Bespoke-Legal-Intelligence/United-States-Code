@@ -6,5 +6,5 @@ The Commission is authorized to designate any officer or employee of any other d
 
 #### Amendments
 
-1937—Act May 20, 1937, struck out provisions which prohibited designation of officers and employees in thePhilippine Islands and Canal Zone and inserted provisions permitting designation of officers and employees within the United States.
+1937—Act May 20, 1937, struck out provisions which prohibited designation of officers and employees in the Philippine Islands and Canal Zone and inserted provisions permitting designation of officers and employees within the United States.
 

@@ -22,7 +22,7 @@ Producer-packers shall pay to the Honey Board the assessment on the honey they p
 
 #### (f) Inspection; books and records
 
-Handlers, importers, and producer-packers responsible for payment of assessments, and persons receiving an exemption from assessments under section 4606(e)(2) of this title, shall maintain and make available for inspection by the Secretary such books and records as are required by the order and file reports at the times, in the manner, and having the content prescribed by the order, so that information and data shall be made available to the Honey Board and to the Secretary which is appropriate or necessary to the effectuation, administration, or enforcement of the <sup>1</sup> chapter or of any order or regulation issued pursuant to this chapter.
+Handlers, importers, producers, and producer-packers responsible for payment of assessments, and persons receiving an exemption from assessments under section 4606(e)(2) of this title, shall maintain and make available for inspection by the Secretary such books and records as are required by the order and file reports at the times, in the manner, and having the content prescribed by the order, so that information and data shall be made available to the Honey Board and to the Secretary which is appropriate or necessary to the effectuation, administration, or enforcement of the <sup>1</sup> chapter or of any order or regulation issued pursuant to this chapter.
 
 #### (g) Confidentiality of information; disclosure
 
@@ -44,7 +44,7 @@ All information obtained pursuant to subsection (f) of this section shall be kep
 
 If a first handler or the Secretary fails to collect an assessment from a producer under this section, the producer shall be responsible for the payment of the assessment to the Honey Board.
 
-(Pub. L. 98–590, §9, Oct. 30, 1984, 98 Stat. 3120; Pub. L. 101–624, title XIX, §1984(b), Nov. 28, 1990, 104 Stat. 3906; Pub. L. 102–237, title VIII, §807(1), Dec. 13, 1991, 105 Stat. 1883.)
+(Pub. L. 98–590, §9, Oct. 30, 1984, 98 Stat. 3120; Pub. L. 101–624, title XIX, §1984(b), Nov. 28, 1990, 104 Stat. 3906; Pub. L. 102–237, title VIII, §807(1), Dec. 13, 1991, 105 Stat. 1883; Pub. L. 104–127, title V, §591, Apr. 4, 1996, 110 Stat. 1084.)
 
 #### References in Text
 
@@ -52,11 +52,13 @@ The Agricultural Act of 1949, referred to in subsecs. (d) and (h)(1)(B), is act 
 
 #### Amendments
 
+1996—Subsec. (f). Pub. L. 104–127 inserted “producers,” after “importers,”.
+
 1991—Subsec. (h)(1)(A). Pub. L. 102–237 inserted “to” before “an importer”.
 
 1990—Subsec. (a). Pub. L. 101–624, §1984(b)(1), inserted reference to subsec. (i) of this section.
 
-Subsec. (d). Pub. L. 101–624, §1984(b)(2), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “In any case in which a loan is made with respect to any honey under the Honey Loan Price Support Program, the Secretary shall provide that the assessment shall be deducted from the proceeds of the loan and that the amount of such assessment shall be forwarded to the Honey Board. When such loan is redeemed, the Secretary shall provide the producer with proof of payment of the assessment.”
+Subsec. (d). Pub. L. 101–624, §1984(b)(2), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “In any case in which a loan is made withrespect to any honey under the Honey Loan Price Support Program, the Secretary shall provide that the assessment shall be deducted from the proceeds of the loan and that the amount of such assessment shall be forwarded to the Honey Board. When such loan is redeemed, the Secretary shall provide the producer with proof of payment of the assessment.”
 
 Subsec. (f). Pub. L. 101–624, §1984(b)(3), inserted “, and persons receiving an exemption from assessments under section 4606(e)(2) of this title,” after “payment of assessments”.
 

@@ -96,7 +96,7 @@ Revised allocations.—
 
 #### References in Text
 
-This Act, referred to in subsec. (e)(2)(B), means Pub. L. 93–344, July 12, 1974, 88 Stat. 297, as amended, known as the Congressional Budget and Impoundment Control Act of 1974, which enacted chapters 17, 17A, and 17B, and section 190a–3 of this title and sections 11a, 11c, 11d, 1020a of former Title 31, Money and Finance, amended sections 11, 665, 701, 1020, 1151, 1152, 1153, and 1154 of former Title 31, section 105 of Title 1, General Provisions, sections 190b and 190d of this title, repealed sections 571 and 581c–1 of former Title 31, and sections 66 and 81 of this title, and enacted provisions set out as notes under sections 190a–1, 621, 632, and 682 of this title, section 105 of Title 1, and section 1020 of former Title 31. For complete classification of this Act to the Code, see Short Title note set out under section 621 of this title and Tables.
+This Act, referred to in subsec. (e)(2)(B), means Pub. L. 93–344, July 12, 1974, 88 Stat. 297, as amended, known as the Congressional Budget and Impoundment Control Act of 1974, which enacted chapters 17, 17A, and 17B, and section 190a–3 of this title and sections 11a, 11c, 11d, 1020a of former Title 31, Money and Finance, amended sections 11, 665, 701, 1020, 1151, 1152, 1153, and 1154 of former Title 31, section 105 of Title 1, General Provisions, sections 190b and 190d of this title, repealed sections 571 and 581c–1 of former Title 31, and sections 66 and 81 of this title, and enacted provisions set out as notes under sections 190a–1, 621, 632, and 682 of this title, section 105 of Title 1, and section 1020 of former Title 31. For complete classification of this Act to theCode, see Short Title note set out under section 621 of this title and Tables.
 
 #### Prior Provisions
 
@@ -116,7 +116,7 @@ Violent Crime Reduction Trust Fund, see section 14211 of Title 42, The Public He
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 665b, 901 of this title.
+This section is referred to in sections 665b, 665e, 901 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “section”.</i>
 

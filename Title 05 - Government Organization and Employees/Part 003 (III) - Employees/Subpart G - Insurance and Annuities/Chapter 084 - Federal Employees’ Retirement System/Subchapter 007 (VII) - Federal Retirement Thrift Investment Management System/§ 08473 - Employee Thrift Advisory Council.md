@@ -16,7 +16,7 @@
 
 &emsp;(6) 1 shall be appointed to represent employee organizations having as a purpose promoting the interests of women in Government service;
 
-&emsp;(7) 1 shall be appointed to represent the organization representing the largest number of individuals receiving annuities under this chapter or chapter 83 of this title;
+&emsp;(7) 1 shall be appointed to represent the organization representing the largest number ofindividuals receiving annuities under this chapter or chapter 83 of this title;
 
 &emsp;(8) 1 shall be appointed to represent the organization representing the largest number of supervisors and management officials (as defined by section 7103(a)); and
 
@@ -54,7 +54,7 @@ Section 14(a)(2) of the Federal Advisory Committee Act \[Pub. L. 92–463\], ref
 
 #### Amendments
 
-<b>1993</b>—Subsec. (b)(8). Pub. L. 103–89 substituted “supervisors and management officials (as defined by section 7103(a))” for “individuals subject to the Performance Management and Recognition System under chapter 54 of this title”.
+1993—Subsec. (b)(8). Pub. L. 103–89 substituted “supervisors and management officials (as defined by section 7103(a))” for “individuals subject to the Performance Management and Recognition System under chapter 54 of this title”.
 
 #### Effective Date of 1993 Amendment
 

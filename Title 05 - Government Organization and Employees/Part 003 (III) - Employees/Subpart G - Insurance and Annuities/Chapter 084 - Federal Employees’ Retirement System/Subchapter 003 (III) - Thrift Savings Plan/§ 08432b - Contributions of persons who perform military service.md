@@ -28,7 +28,7 @@
 
 &emsp;(B) the period of time over which the employee wishes to make contributions under this subsection.
 
-> The employing agency may place a maximum limit on the period of time referred to in subparagraph (B), which cannot be shorter than twotimes the period referred to in paragraph (2)(B) and not longer than four times such period.
+> The employing agency may place a maximum limit on the period of time referred to in subparagraph (B), which cannot be shorter than two times the period referred to in paragraph (2)(B) and not longer than four times such period.
 
 (c) If an employee makes contributions under subsection (b), the employing agency shall make contributions to the Thrift Savings Fund on such employee's behalf—
 
@@ -62,13 +62,17 @@
 
 &emsp;(B) such employee shall be credited with a period of civilian service equal to the period referred to in subsection (b)(2)(B).
 
-(2)(A) An employee to whom this section applies may elect, for purposes of section 8433(d), or paragraph (1) or (2) of section 8433(h), as the case may be, to have such employee's separation (described in subsection (a)(1)) treated as if it had never occurred.
+(2)(A) An employee to whom this section applies may elect, for purposes of section 8433(d), or paragraph (1) or (2) of section 8433(h),<sup>1</sup> as the case may be, to have such employee's separation (described in subsection (a)(1)) treated as if it had never occurred.
 
 (B) An election under this paragraph shall be made within such period of time after restoration or reemployment (as the case may be) and otherwise in such manner as the Executive Director prescribes.
 
 (i) The Executive Director shall prescribe regulations to carry out this section.
 
 (Added Pub. L. 103–353, §4(a)(1), Oct. 13, 1994, 108 Stat. 3170.)
+
+#### References in Text
+
+Section 8433(h), referred to in subsec. (h)(2)(A), was redesignated section 8433(f) by Pub. L. 103–226, §9(b)(2), Mar. 30, 1994, 108 Stat. 119.)
 
 #### Effective Date
 
@@ -105,4 +109,6 @@ Rules for Applying Amendments to Employees Restored or Reemployed Before Effecti
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 8351, 8432, 8433 of this title; title 38 section 4318.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

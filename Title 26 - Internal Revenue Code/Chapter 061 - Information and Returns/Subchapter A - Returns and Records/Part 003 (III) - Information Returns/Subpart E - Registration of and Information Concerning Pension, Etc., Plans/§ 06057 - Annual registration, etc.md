@@ -56,7 +56,7 @@ The Secretary shall transmit copies of any statements, notifications, reports, o
 
 #### (e) Individual statement to participant
 
-Each plan administrator required to file a registration statement under subsection (a) shall, before the expiration of the time prescribed for the filing of such registration statement, also furnish to each participant described in subsection (a)(2)(C) an individual statement setting forth the information with respect to such participant required to be contained in such registration statement. Such statement shall alsoinclude a notice to the participant of any benefits which are forfeitable if the participant dies before a certain date.
+Each plan administrator required to file a registration statement under subsection (a) shall, before the expiration of the time prescribed for the filing of such registration statement, also furnish to each participant described in subsection (a)(2)(C) an individual statement setting forth the information with respect to such participant required to be contained in such registration statement. Such statement shall also include a notice to the participant of any benefits which are forfeitable if the participant dies before a certain date.
 
 #### (f) Regulations
 
@@ -110,7 +110,7 @@ Amendment by Pub. L. 98–369 effective July 18, 1984, but not to be construed a
 
 #### Effective Date
 
-Section 1034 of Pub. L. 93–406, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “This part \[part 3 (§§1031–1034) of subtitle A of title II of Pub. L. 93–406, enacting this section, sections 6058, 6059, 6690, and 6692 of this title and section 1320b–1 of Title 42, The Public Health and Welfare, and amending sections 6033, 6047, and 6652 of this title\] shall take effect upon the date of the enactment of this Act \[Sept. 2, 1974\]; except that—
+Section 1034 of Pub. L. 93–406, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:“This part \[part 3 (§§1031–1034) of subtitle A of title II of Pub. L. 93–406, enacting this section, sections 6058, 6059, 6690, and 6692 of this title and section 1320b–1 of Title 42, The Public Health and Welfare, and amending sections 6033, 6047, and 6652 of this title\] shall take effect upon the date of the enactment of this Act \[Sept. 2, 1974\]; except that—
 
 &emsp;“(1) the requirements of section 6059 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] shall apply only with respect to plan years to which part I of this title applies. \[For description of plan years to which part I applies, see section 1017 of Pub. L. 93–406, set out as an Effective Date; Transitional Rules note under section 410 of this title\].
 

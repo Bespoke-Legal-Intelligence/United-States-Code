@@ -32,3 +32,7 @@ Subsec. (a)(1). Pub. L. 102–484, §4271(c), substituted “defense technology 
 
 &emsp;“(2) regularly solicit and consider information or recommendations from the Secretary of Commerce with respect to the effect on the United States industrial base of such memorandum of understanding.”
 
+#### Section Referred to in Other Sections
+
+This section is referred to in section 2534 of this title.
+

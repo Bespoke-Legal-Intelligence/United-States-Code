@@ -34,11 +34,11 @@ Protection Against Violence and Piracy.—The Administrator shall prescribe regu
 
 Security Programs.—(1) The Administrator shall prescribe regulations under subsection (b) of this section that require each operator of an airport regularly serving an air carrier holding a certificate issued by the Secretary of Transportation to establish an air transportation security program that provides a law enforcement presence and capability at each of those airports that is adequate to ensure the safety of passengers. The regulations shall authorize the operator to use the services of qualified State, local, and private law enforcement personnel. When the Administrator decides, after being notified by an operator in the form the Administrator prescribes, that not enough qualified State, local, and private law enforcement personnel are available to carry out subsection (b), the Administrator may authorize the operator to use, on a reimbursable basis, personnel employed by the Administrator, or by another department, agency, or instrumentality of the Government with the consent of the head of the department, agency, or instrumentality, to supplement State, local, and private law enforcement personnel. When deciding whether additional personnel are needed, the Administrator shall consider the number of passengers boarded at the airport, the extent of anticipated risk of criminal violence or aircraft piracy at the airport or to the air carrier aircraft operations at the airport, and the availability of qualified State or local law enforcement personnel at the airport.
 
-(2)(A) The Administrator may approve a security program of an airport operator, or an amendment in an existing program, that incorporates a security program of an airport tenant (except an air carrier separately complying with part 108 or 129 of title 14, Code of Federal Regulations) having access to a secured area of the airport, if the program or amendment incorporates—
+(2)(A) The Administrator may approve a security program of an airport operator, or an amendment in an existing program, that incorporates a security program of an airport tenant\(except an air carrier separately complying with part 108 or 129 of title 14, Code of Federal Regulations) having access to a secured area of the airport, if the program or amendment incorporates—
 
 &emsp;(i) the measures the tenant will use, within the tenant's leased areas or areas designated for the tenant's exclusive use under an agreement with the airport operator, to carry out the security requirements imposed by the Administrator on the airport operator under the access control system requirements of section 107.14 of title 14, Code of Federal Regulations, or under other requirements of part 107 of title 14; and
 
-&emsp;(ii) the methods the airport operator will use to monitor and audit the tenant's compliancewith the security requirements and provides that the tenant will be required to pay monetary penalties to the airport operator if the tenant fails to carry out a security requirement under a contractual provision or requirement imposed by the airport operator.
+&emsp;(ii) the methods the airport operator will use to monitor and audit the tenant's compliance with the security requirements and provides that the tenant will be required to pay monetary penalties to the airport operator if the tenant fails to carry out a security requirement under a contractual provision or requirement imposed by the airport operator.
 
 (B) If the Administrator approves a program or amendment described in subparagraph (A) of this paragraph, the airport operator may not be found to be in violation of a requirement of this subsection or subsection (b) of this section when the airport operator demonstrates that the tenant or an employee, permittee, or invitee of the tenant is responsible for the violation and that the airport operator has complied with all measures in its security program for securing compliance with its security program by the tenant.
 
@@ -58,7 +58,9 @@ Exclusive Responsibility Over Passenger Safety.—The Administrator has the excl
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

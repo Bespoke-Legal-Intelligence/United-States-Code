@@ -16,13 +16,17 @@ In this chapter—
 
 &emsp;(7) “title” means the certificate of title or other document issued by the State indicating ownership.
 
-&emsp;(8) “transfer” means to change ownership by sale, gift, or other means.
+&emsp;(8) “transfer” means to change ownership by sale, gift, or any other means.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1048.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1048; Pub. L. 104–287, §5(61), Oct. 11, 1996, 110 Stat. 3394.)
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+Pub. L. 103–272
+
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -71,4 +75,16 @@ In clause (1), the words “(whether through consignment or bailment or through 
 In clause (4), the words “a term of” are omitted as surplus.
 
 In clause (5), the words “the distance a motor vehicle is driven” are substituted for “the actual distance a motor vehicle travels while in operation” for clarity and to eliminate unnecessary words.
+
+#### Pub. L. 104–287
+
+This amends 49:32702(8) and 32705 to clarify the restatement of 15:1982(5) and 1988 by section 1 of the Act of July 5, 1994 (Public Law 103–272, 108 Stat. 1049).
+
+#### Amendments
+
+1996—Par. (8). Pub. L. 104–287 inserted “any” after “or”.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–287 effective July 5, 1994, see section 8(1) of Pub. L. 104–287, set out as a note under section 5303 of this title.
 

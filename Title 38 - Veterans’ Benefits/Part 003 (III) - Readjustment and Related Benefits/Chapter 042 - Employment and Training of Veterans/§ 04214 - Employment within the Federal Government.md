@@ -1,6 +1,6 @@
 ### §4214. Employment within the Federal Government
 
-(a)(1) The United States has an obligation to assist veterans of the Armed Forces in readjusting to civilian life since veterans, by virtue of their military service, have lost opportunities to pursue education and training oriented toward civilian careers. The Federal Government is also continuously concerned with building an effective work force, and veterans constitute a major recruiting source. It is, therefore, the policy of the United States and the purpose of this section to promote the maximum of employment and job advancement opportunities within the Federal Government for disabled veterans and certain veterans of the Vietnam era and of the post-Vietnam era who are qualified for such employment and advancement.
+(a)(1) The United States has an obligation to assist veterans of the Armed Forces in readjusting to civilian life since veterans, by virtue of their military service, have lost opportunities to pursue education and training oriented toward civilian careers. The Federal Government is also continuously concerned with building an effective work force, and veterans constitute a major recruiting source. It is, therefore, the policy ofthe United States and the purpose of this section to promote the maximum of employment and job advancement opportunities within the Federal Government for disabled veterans and certain veterans of the Vietnam era and of the post-Vietnam era who are qualified for such employment and advancement.
 
 (2) For the purposes of this section, the term “agency” means a department, agency, or instrumentality in the executive branch.
 
@@ -54,7 +54,7 @@
 
 &emsp;(B) The number of individuals receiving appointments under such subsection whose appointments were converted to career or career-conditional appointments, or whose employment under such an appointment has terminated, since the last such report, together with a complete listing of categories of causes of appointment terminations and the number of such individuals whose employment has terminated falling into each such category.
 
-&emsp;(C) The number of such terminations since the last such report that were initiated by the agency involved and the number of such terminations since the last such report that were initiated by the individual involved.
+&emsp;(C) The number of such terminations since the last such report that were initiated by theagency involved and the number of such terminations since the last such report that were initiated by the individual involved.
 
 &emsp;(D) A description of the education and training programs in which individuals appointed under such subsection are participating at the time of such report.
 
@@ -192,7 +192,7 @@ Subsec. (f). Pub. L. 95–520, §6(b)(3), substituted “as used in subsection (
 
 Section 9(d) of Pub. L. 102–16, as amended by Pub. L. 102–86, title V, §506(c), Aug. 14, 1991, 105 Stat. 426; Pub. L. 103–353, §6(a), Oct. 13, 1994, 108 Stat. 3174, provided that: “The amendments made by this section \[amending this section\] shall apply only to appointments made after the date of the enactment of this Act \[Mar. 22, 1991\].”
 
-\[Section 6(b) of Pub. L. 103–353 provided that: “The amendment made by subsection (a) \[amending section 9(d) of Pub. L. 102–16, set out above\] shall take effect as if included in Public Law 102–16 to which such amendment relates.”\]
+\[Section 6(b) of Pub. L. 103–353 provided that: “The amendment made by subsection (a) \[amending section9(d) of Pub. L. 102–16, set out above\] shall take effect as if included in Public Law 102–16 to which such amendment relates.”\]
 
 \[Section 506(c) of Pub. L. 102–86 provided that the amendment made by that section to section 9(d) of Pub. L. 102–16, set out above, is effective as of Mar. 22, 1991.\]
 

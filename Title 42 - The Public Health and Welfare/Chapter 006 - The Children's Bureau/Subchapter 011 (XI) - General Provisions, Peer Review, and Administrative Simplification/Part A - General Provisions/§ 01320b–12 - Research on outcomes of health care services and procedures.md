@@ -1,0 +1,166 @@
+### §1320b–12. Research on outcomes of health care services and procedures
+
+#### (a) Establishment of program
+
+#### (1) In general
+
+&emsp;The Secretary, acting through the Administrator for Health Care Policy and Research, shall—
+
+&emsp;&emsp;(A) conduct and support research with respect to the outcomes, effectiveness, and appropriateness of health care services and procedures in order to identify the manner in which diseases, disorders, and other health conditions can most effectively and appropriately be prevented, diagnosed, treated, and managed clinically; and
+
+&emsp;&emsp;(B) assure that the needs and priorities of the program under subchapter XVIII of this chapter are appropriately reflected in the development and periodic review and updating (through the process set forth in section 299b–2 of this title) of treatment-specific or condition-specific practice guidelines for clinical treatments and conditions in forms appropriate for use in clinical practice, for use in educational programs, and for use in reviewing quality and appropriateness of medical care.
+
+#### (2) Evaluations of alternative services and procedures
+
+&emsp;In carrying out paragraph (1), the Secretary shall conduct or support evaluations of the comparative effects, on health and functional capacity, of alternative services and procedures utilized in preventing, diagnosing, treating, and clinically managing diseases, disorders, and other health conditions.
+
+#### (3) Initial guidelines
+
+&emsp;(A) In carrying out paragraph (1)(B) of this subsection, and section 299b–1(d) of this title, the Secretary shall, by not later than January 1, 1991, assure the development of an initial set of the guidelines specified in paragraph (1)(B) that shall include not less than 3 clinical treatments or conditions that—
+
+&emsp;&emsp;(i)(I) account for a significant portion of expenditures under subchapter XVIII of this chapter; and
+
+&emsp;&emsp;(II) have a significant variation in the frequency or the type of treatment provided; or
+
+&emsp;&emsp;(ii) otherwise meet the needs and priorities of the program under subchapter XVIII of this chapter, as set forth under subsection (b)(3) of this section.
+
+&emsp;(B)(i) The Secretary shall provide for the use of guidelines developed under subparagrah <sup>1</sup> (A) to improve the quality, effectiveness, and appropriateness of care provided under subchapter XVIII of this chapter. The Secretary shall determine the impact of such use on the quality, appropriateness, effectiveness, and cost of medical care provided under such subchapter and shall report to the Congress on such determination by not later than January 1, 1993.
+
+&emsp;(ii) For the purpose of carrying out clause (i), the Secretary shall expend, from the amounts specified in clause (iii), $1,000,000 for fiscal year 1990 and $1,500,000 for each of the fiscal years 1991 and 1992.
+
+&emsp;(iii) For each fiscal year, for purposes of expenditures required in clause (ii)—
+
+&emsp;&emsp;(I) 60 percent of an amount equal to the expenditure involved is appropriated from the Federal Hospital Insurance Trust Fund (established under section 1395i of this title); and
+
+&emsp;&emsp;(II) 40 percent of an amount equal to the expenditure involved is appropriated from the Federal Supplementary Medical Insurance Trust Fund (established under section 1395t of this title).
+
+#### (b) Priorities
+
+#### (1) In general
+
+&emsp;The Secretary shall establish priorities with respect to the diseases, disorders, and other health conditions for which research and evaluations are to be conducted or supported under subsection (a) of this section. In establishing such priorities, the Secretary shall, with respect to a disease, disorder, or other health condition, consider the extent to which—
+
+&emsp;&emsp;(A) improved methods of prevention, diagnosis, treatment, and clinical management can benefit a significant number of individuals;
+
+&emsp;&emsp;(B) there is significant variation among physicians in the particular services and procedures utilized in making diagnoses and providing treatments or there is significant variation in the outcomes of health care services or procedures due to different patterns of diagnosis or treatment;
+
+&emsp;&emsp;(C) the services and procedures utilized for diagnosis and treatment result in relatively substantial expenditures; and
+
+&emsp;&emsp;(D) the data necessary for such evaluations are readily available or can readily be developed.
+
+#### (2) Preliminary assessments
+
+&emsp;For the purpose of establishing priorities under paragraph (1), the Secretary may, with respect to services and procedures utilized in preventing, diagnosing, treating, and clinically managing diseases, disorders, and other health conditions, conduct or support assessments of the extent to which—
+
+&emsp;&emsp;(A) rates of utilization vary among similar populations for particular diseases, disorders, and other health conditions;
+
+&emsp;&emsp;(B) uncertainties exist on the effect of utilizing a particular service or procedure; or
+
+&emsp;&emsp;(C) inappropriate services and procedures are provided.
+
+#### (3) Relationship with medicare program
+
+&emsp;In establishing priorities under paragraph (1) for research and evaluation, and under section 299b–3(a) of this title for the agenda under such section, the Secretary shall assure that such priorities appropriately reflect the needs and priorities of the program under subchapter XVIII of this chapter, as set forth by the Administrator of the Health Care Financing Administration.
+
+#### (c) Methodologies and criteria for evaluations
+
+For the purpose of facilitating research under subsection (a) of this section, the Secretary shall—
+
+&emsp;(1) conduct and support research with respect to the improvement of methodologies and criteria utilized in conducting research with respect to outcomes of health care services and procedures;
+
+&emsp;(2) conduct and support reviews and evaluations of existing research findings with respect to such treatment or conditions;
+
+&emsp;(3) conduct and support reviews and evaluations of the existing methodologies that use large data bases in conducting such research and shall develop new research methodologies, including data-based methods of advancing knowledge and methodologies that measure clinical and functional status of patients, with respect to such research;
+
+&emsp;(4) provide grants and contracts to research centers, and contracts to other entities, to conduct such research on such treatment or conditions, including research on the appropriate use of prescription drugs;
+
+&emsp;(5) conduct and support research and demonstrations on the use of claims data and data on clinical and functional status of patients in determining the outcomes, effectiveness, and appropriateness of such treatment; and
+
+&emsp;(6) conduct and support supplementation of existing data bases, including the collection of new information, to enhance data bases for research purposes, and the design and development of new data bases that would be used in outcomes and effectiveness research.
+
+#### (d) Standards for data bases
+
+In carrying out this section, the Secretary shall develop—
+
+&emsp;(1) uniform definitions of data to be collected and used in describing a patient's clinical and functional status;
+
+&emsp;(2) common reporting formats and linkages for such data; and
+
+&emsp;(3) standards to assure the security, confidentiality, accuracy, and appropriate maintenance of such data.
+
+#### (e) Dissemination of research findings and guidelines
+
+#### (1) In general
+
+&emsp;The Secretary shall provide for the dissemination of the findings of research and the guidelines described in subsection (a) of this section, and for the education of providers and others in the application of such research findings and guidelines.
+
+#### (2) Cooperative educational activities
+
+&emsp;In disseminating findings and guidelines under paragraph (1), and in providing for education under such paragraph, the Secretary shall work with professional associations, medical specialty and subspecialty organizations, and other relevant groups to identify and implement effective means to educate physicians, other providers, consumers, and others in using such findings and guidelines, including training for physician managers within provider organizations.
+
+#### (f) Evaluations
+
+The Secretary shall conduct and support evaluations of the activities carried out under this section to determine the extent to which such activities have had an effect on the practices of physicians in providing medical treatment, the delivery of health care, and the outcomes of health care services and procedures.
+
+#### (g) Research with respect to dissemination
+
+The Secretary may conduct or support research with respect to improving methods of disseminating information on the effectiveness and appropriateness of health care services and procedures.
+
+#### (h) Report to Congress
+
+Not later than February 1 of each of the years 1991 and 1992, and of each second year thereafter, the Secretary shall report to the Congress on the progress of the activities under this section during the preceding fiscal year (or preceding 2 fiscal years, as appropriate), including the impact of such activities on medical care (particularly medical care for individuals receiving benefits under subchapter XVIII of this chapter).
+
+#### (i) Authorization of appropriations
+
+#### (1) In general
+
+&emsp;There are authorized to be appropriated to carry out this section—
+
+&emsp;&emsp;(A) $50,000,000 for fiscal year 1990;
+
+&emsp;&emsp;(B) $75,000,000 for fiscal year 1991;
+
+&emsp;&emsp;(C) $110,000,000 for fiscal year 1992;
+
+&emsp;&emsp;(D) $148,000,000 for fiscal year 1993; and
+
+&emsp;&emsp;(E) $185,000,000 for fiscal year 1994.
+
+#### (2) Specifications
+
+&emsp;For the purpose of carrying out this section, for each of the fiscal years 1990 through 1992 an amount equal to two-thirds of the amounts authorized to be appropriated under paragraph (1), and for each of the fiscal years 1993 and 1994 an amount equal to 70 percent of such amounts, are to be appropriated in the following proportions from the following trust funds:
+
+&emsp;&emsp;(A) 60 percent from the Federal Hospital Insurance Trust Fund (established under section 1395i of this title).
+
+&emsp;&emsp;(B) 40 percent from the Federal Supplementary Medical Insurance Trust Fund (established under section 1395t of this title).
+
+#### (3) Allocations
+
+&emsp;(A) For each fiscal year, of the amounts transferred or otherwise appropriated to carry out this section, the Secretary shall reserve appropriate amounts for each of the purposes specified in clauses (i) through (iv) of subparagraph (B).
+
+&emsp;(B) The purposes referred to in subparagraph (A) are—
+
+&emsp;&emsp;(i) the development of guidelines, standards, performance measures, and review criteria;
+
+&emsp;&emsp;(ii) research and evaluation;
+
+&emsp;&emsp;(iii) data-base standards and development; and
+
+&emsp;&emsp;(iv) education and information dissemination.
+
+(Aug. 14, 1935, ch. 531, title XI, §1142, as added Dec. 19, 1989, Pub. L. 101–239, title VI, §6103(b)(1), 103 Stat. 2195.)
+
+#### Codification
+
+Another section 1142 of act Aug. 14, 1935, was renumbered section 1143 by Pub. L. 101–508, title V, §5111(a)(1), Nov. 5, 1990, 104 Stat. 1388–272, and is classified to section 1320b–13 of this title.
+
+#### Report on Linkage of Public and Private Research Related Data
+
+Section 6103(b)(2) of Pub. L. 101–239 provided that: “Not later than 1 year after the date of the enactment of this Act \[Dec. 19, 1989\], the Secretary of Health and Human Services shall report to the Congress on the feasibility of linking research-related data described in section 1142(d) of the Social Security Act \[subsec. (d) of this section\] (as added by paragraph (1) of this subsection) with similar data collected or maintained by non-Federal entities and by Federal agencies other than the Department of Health and Human Services (including the Departments of Defense and Veterans Affairs and the Office of Personnel Management).”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 299a, 299b–1, 299b–3, 299c, 1395y of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “subparagraph”.</i>
+

@@ -42,13 +42,19 @@ Amendment by Pub. L. 87–649 effective Nov. 1, 1962, see section 15 of Pub. L. 
 
 #### Temporary Early Retirement Authority
 
+Pub. L. 104–208, div. A, title I, §101(b) \[title VIII, §8053\], Sept. 30, 1996, 110 Stat. 3009–71, 3009–99, provided that: “During the current fiscal year and hereafter, appropriations available for the pay and allowances of active duty members of the Armed Forces shall be available to pay the retired pay which is payable pursuant to section 4403 of Public Law 102–484 (10 U.S.C. 1293 note) under the terms and conditions provided in section 4403.”
+
+Pub. L. 104–106, div. A, title V, §566(c), Feb. 10, 1996, 110 Stat. 328, provided that: “Section 4403 (other than subsection (f)) of the National Defense Authorization Act for Fiscal Year 1993 (Public Law 102–484; 106 Stat. 2702; 10 U.S.C. 1293 note) shall apply to the commissioned officer corps of the National Oceanic and Atmospheric Administration in the same manner and to the same extent as that section applies to the Department of Defense. The Secretary of Commerce shall implement the provisions of that section with respect to such commissioned officer corps and shall apply the provisions of that section to the provisions of the Coast and Geodetic Survey Commissioned Officers’ Act of 1948 \[act June 3, 1948, see Short Title note set out under section 853a of Title 33, Navigation and Navigable Waters\] relating to the retirement of members of such commissioned officer corps.”
+
+\[Section 566(c) of Pub. L. 104–106, set out above, applicable only to members of commissioned officer corps of National Oceanic and Atmospheric Administration separated after Sept. 30, 1995, see section 566(d) of Pub. L. 104–106, set out as an Effective Date of 1996 Amendment note under section 857a of Title 33, Navigation and Navigable Waters.\]
+
 Pub. L. 103–337, div. A, title V, §542(d), Oct. 5, 1994, 108 Stat. 2769, provided that: “Section 4403 of the National Defense Authorization Act for Fiscal Year 1993 (Public Law 102–484; 106 Stat. 2702; 10 U.S.C. 1293 note) shall apply to the Coast Guard in the same manner and to the same extent as that provision applies to the Department of Defense. The Secretary of Transportation shall implement the provisions of that section with respect to the Coast Guard and apply the applicable provisions of title 14, United States Code, relating to retirement of Coast Guard personnel.”
 
-Pub. L. 102–484, div. D, title XLIV, §4403, Oct. 23, 1992, 106 Stat. 2702, as amended by Pub. L. 103–160, div. A,title V, §561(a), Nov. 30, 1993, 107 Stat. 1667, provided that:
+Pub. L. 102–484, div. D, title XLIV, §4403, Oct. 23, 1992, 106 Stat. 2702, as amended by Pub. L. 103–160, div. A, title V, §561(a), Nov. 30, 1993, 107 Stat. 1667; Pub. L. 104–106, div. A, title XV, §1504(c)(3), Feb. 10, 1996, 110 Stat. 514, provided that:
 
 “(a)
 
-Purpose.—The purpose of this section is to provide the Secretary of Defense a temporary additional force management tool with which to effect the drawdown of military forces through 1995.
+Purpose.—The purpose of this section is to provide the Secretary of Defense a temporary additional force management tool with which to effect the drawdown of military forces through fiscal year 1999.
 
 “(b)
 

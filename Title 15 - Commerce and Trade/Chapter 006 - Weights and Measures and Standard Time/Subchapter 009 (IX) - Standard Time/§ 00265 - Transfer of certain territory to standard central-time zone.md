@@ -1,6 +1,6 @@
 ### §265. Transfer of certain territory to standard central-time zone
 
-The Panhandle and Plains sections of Texas and Oklahoma are transferred to and placedwithin the United States standard central-time zone.
+The Panhandle and Plains sections of Texas and Oklahoma are transferred to and placed within the United States standard central-time zone.
 
 The Secretary of Transportation is authorized and directed to issue an order placing the western boundary line of the United States standard central-time zone insofar as the same affect Texas and Oklahoma as follows:
 

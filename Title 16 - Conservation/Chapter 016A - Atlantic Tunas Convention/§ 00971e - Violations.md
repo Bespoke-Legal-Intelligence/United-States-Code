@@ -32,7 +32,7 @@ All fish taken or retained in violation of subsection (a) of this section, or th
 
 All provisions of law relating to the seizure, judicial forfeiture, and condemnation of a cargo for violation of the customs laws, the disposition of such cargo or the proceeds from the sale thereof, and the remission or mitigation of such forfeitures shall apply to seizures and forfeitures incurred, or alleged to have been incurred, under the provisions of this chapter, insofar as such provisions of law are applicable and not inconsistent with the provisions of this chapter.
 
-(Pub. L. 94–70, §7, Aug. 5, 1975, 89 Stat. 390; Pub. L. 104–43, title III, §306, Nov. 3, 1995, 109 Stat. 385.)
+(Pub. L. 94–70, §7, Aug. 5, 1975, 89 Stat. 390; Pub. L. 104–43, title III, §306, Nov. 3, 1995, 109 Stat. 385; Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41.)
 
 #### References in Text
 
@@ -40,7 +40,13 @@ Section 971d(d) of this title, referred to in subsec. (d), was amended generally
 
 #### Amendments
 
+1996—Subsec. (e). Pub. L. 104–208 made technical amendment to reference in original act which appears in text as reference to section 1858 of this title.
+
 1995—Subsec. (e). Pub. L. 104–43 amended subsec. (e) generally, substituting present provisions for provisions establishing civil penalties for violations of this section, providing for authority of Secretary to assess, remit, or mitigate any civil penalty, providing for notice and hearing prior to assessment, and providing for civil action upon failure to pay penalty.
+
+#### Effective Date of 1996 Amendment
+
+Section 101(a) \[title II, §211(b)\] of div. A of Pub. L. 104–208 provided that the amendment made by that section is effective 15 days after Oct. 11, 1996.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -28,7 +28,7 @@ The effective date of the Berne Convention Implementation Act of 1988, referred 
 
 #### Amendments
 
-1988—Subsec. (a). Pub. L. 100–568, §7(d)(1), substituted “to invoke the provisions of section 401(d) or 402(d), asapplicable” for “to satisfy the requirements of sections 401 through 403”.
+1988—Subsec. (a). Pub. L. 100–568, §7(d)(1), substituted “to invoke the provisions of section 401(d) or 402(d), as applicable” for “to satisfy the requirements of sections 401 through 403”.
 
 Subsec. (b). Pub. L. 100–568, §7(d)(2), substituted “With respect to copies and phonorecords publicly distributed by authority of the copyright owner before the effective date of the Berne Convention Implementation Act of 1988, where” for “Where”.
 

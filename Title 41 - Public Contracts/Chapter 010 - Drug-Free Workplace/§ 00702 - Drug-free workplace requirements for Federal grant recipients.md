@@ -44,7 +44,7 @@
 
 &emsp;&emsp;(A) the grantee has made a false certification under subsection (a) of this section;
 
-&emsp;&emsp;(B) the grantee violates such certification by failing to carry out the requirements of subparagraph (A), (B), (C), (D), (E), (F), or (G) of subsection (a)(1) of this section; or
+&emsp;&emsp;(B) the grantee violates such certification by failing to carry out the requirements ofsubparagraph (A), (B), (C), (D), (E), (F), or (G) of subsection (a)(1) of this section; or
 
 &emsp;&emsp;(C) such a number of employees of such grantee have been convicted of violations of criminal drug statutes for violations occurring in the workplace as to indicate that the grantee has failed to make a good faith effort to provide a drug-free workplace as required by subsection (a)(1) of this section.
 

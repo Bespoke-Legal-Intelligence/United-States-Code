@@ -8,7 +8,7 @@ For the purpose of this chapter—
 
 &emsp;(3) the term “average pay” means the largest annual rate resulting from averaging an employee's or Member's rates of basic pay in effect over any 3 consecutive years of service or, in the case of an annuity under this chapter based on service of less than 3 years, over the total service, with each rate weighted by the period it was in effect;
 
-&emsp;(4) except as provided in subchapter III of this chapter, the term “basic pay” has the meaning given such term by section 8331(3);
+&emsp;(4) the term “basic pay” has the meaning given such term by section 8331(3);
 
 &emsp;(5) the term “Board” means the Federal Retirement Thrift Investment Board established by section 8472(a) of this title;
 
@@ -86,7 +86,7 @@ For the purpose of this chapter—
 
 &emsp;&emsp;&emsp;(ii) are sufficiently rigorous that employment opportunities should be limited to young and physically vigorous individuals, as determined by the Director considering the recommendations of the employing agency;
 
-&emsp;&emsp;(B) an employee of the Department of the Interior or the Department of the Treasury (excluding any employee under subparagraph (A)) who occupies a position that, but for the enactment of the Federal Employees’ Retirement System Act of 1986, would be subject to the District of Columbia Police and Firefighters’ Retirement System, as determined by the Secretary of the Interior orthe Secretary of the Treasury, as appropriate;
+&emsp;&emsp;(B) an employee of the Department of the Interior or the Department of the Treasury (excluding any employee under subparagraph (A)) who occupies a position that, but for the enactment of the Federal Employees’ Retirement System Act of 1986, would be subject to the District of Columbia Police and Firefighters’ Retirement System, as determined by the Secretary of the Interior or the Secretary of the Treasury, as appropriate;
 
 &emsp;&emsp;(C) an employee who is transferred directly to a supervisory or administrative position after performing duties described in subparagraph (A) and (B) for at least 3 years; and
 
@@ -172,7 +172,7 @@ For the purpose of this chapter—
 
 &emsp;(32) the term “nonforfeitable account balance” means any amounts in an account, established and maintained under subchapter III, which are nonforfeitable (as determined under section 8432(g)).
 
-(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 517; amended Pub. L. 99–556, title I, §§107, 109, 119, Oct. 27, 1986, 100 Stat. 3132, 3134; Pub. L. 100–238, title I, §§103(a)(2), (c), (d)(2), 113(b)(1), Jan. 8, 1988, 101 Stat. 1744, 1745, 1750; Pub. L. 100–679, §13(a)(2), Nov. 17, 1988, 102 Stat. 4071; Pub. L. 101–335, §6(a)(1), July 17, 1990, 104 Stat. 322; Pub. L. 101–474, §5(<i>o</i>), Oct. 30, 1990, 104 Stat. 1100; Pub. L. 101–508, title VII, §7202(k)(1), Nov. 5, 1990, 104 Stat. 1388–338; Pub. L. 103–337, div. A, title XVI, §1677(a)(4), Oct. 5, 1994, 108 Stat. 3019; Pub. L. 103–353, §5(c), (e)(1), Oct. 13, 1994, 108 Stat. 3174.)
+(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 517; amended Pub. L. 99–556, title I, §§107, 109, 119, Oct. 27, 1986, 100 Stat. 3132, 3134; Pub. L. 100–238, title I, §§103(a)(2), (c), (d)(2), 113(b)(1), Jan. 8, 1988, 101 Stat. 1744, 1745, 1750; Pub. L. 100–679, §13(a)(2), Nov. 17, 1988, 102 Stat. 4071; Pub. L. 101–335, §6(a)(1), July 17, 1990, 104 Stat. 322; Pub. L. 101–474, §5(<i>o</i>), Oct. 30, 1990, 104 Stat. 1100; Pub. L. 101–508, title VII, §7202(k)(1), Nov. 5, 1990, 104 Stat. 1388–338; Pub. L. 103–337, div. A, title XVI, §1677(a)(4), Oct. 5, 1994, 108 Stat. 3019; Pub. L. 103–353, §5(c), (e)(1), Oct. 13, 1994, 108 Stat. 3174; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §659 \[title II, §206(a)(1)\]\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–372, 3009–378.)
 
 #### References in Text
 
@@ -188,13 +188,15 @@ The Federal Employees’ Retirement Contribution Temporary Adjustment Act of 198
 
 #### Amendments
 
-<b>1994</b>—Par. (11). Pub. L. 103–353, §5(e)(1), in flush provisions before cl. (i), substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
+1996—Par. (4). Pub. L. 104–208 struck out “except as provided in subchapter III of this chapter,” before “the term”.
+
+1994—Par. (11). Pub. L. 103–353, §5(e)(1), in flush provisions before cl. (i), substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
 Par. (30). Pub. L. 103–337 substituted “section 10101” for “section 261(a)” in introductory provisions.
 
 Par. (31). Pub. L. 103–353, §5(c), in closing provisions, inserted before semicolon “or full-time National Guard duty (as such term is defined in section 101(d) of title 10) if such service interrupts creditable civilian service under this subchapter and is followed by reemployment in accordance with chapter 43 of title 38 that occurs on or after August 1, 1990”.
 
-<b>1990</b>—Par. (11)(C). Pub. L. 101–508, §7202(k)(1)(A)(i)–(iii), added subpar. (C).
+1990—Par. (11)(C). Pub. L. 101–508, §7202(k)(1)(A)(i)–(iii), added subpar. (C).
 
 Par. (11)(i)(I). Pub. L. 101–474 struck out “(v),” after “(i),”.
 
@@ -204,7 +206,7 @@ Par. (15). Pub. L. 101–508, §7202(k)(1)(B), substituted “, Gallaudet Colle
 
 Par. (32). Pub. L. 101–335 added par. (32).
 
-<b>1988</b>—Par. (11)(A). Pub. L. 100–679 substituted “(J), or (K)” for “or (J)”.
+1988—Par. (11)(A). Pub. L. 100–679 substituted “(J), or (K)” for “or (J)”.
 
 Par. (11)(i)(II). Pub. L. 100–238, §103(d)(2), struck out “(other than an employee of the United States Park Police, or the United States Secret Service, whose civilian service after December 31, 1983, is such employment)”.
 
@@ -216,11 +218,15 @@ Par. (14)(B). Pub. L. 100–238, §103(c)(2), substituted “for at least 3 year
 
 Par. (17). Pub. L. 100–238, §103(a)(2), (c)(1), in subpar. (A)(ii), substituted “should be” for “are required to be”, added subpar. (B), redesignated former subpar. (B) as (C) and amended it generally, substituting “subparagraph (A) and (B) for at least 3 years” for “subparagraph (A) for at least 10 years”, redesignated former subpar. (C) as (D), and in concluding provisions, substituted “should be” for “are required to be”.
 
-<b>1986</b>—Par. (11). Pub. L. 99–556, §119, struck out “any of” before “whose civilian service” in two places.
+1986—Par. (11). Pub. L. 99–556, §119, struck out “any of” before “whose civilian service” in two places.
 
 Par. (18). Pub. L. 99–556, §109, amended par. (18) generally. Prior to amendment, par. (18) read as follows: “the term ‘loss’, when used with respect to the Thrift Savings Fund, means the amount of the loss resulting from the investment of sums in such Fund;”.
 
 Par. (19)(C), (D). Pub. L. 99–556, §107, added subpar. (C) and redesignated former subpar. (C) as (D).
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–208 effective Sept. 30, 1996, and withdrawals and elections as provided under such amendment to be made at earliest practicable date as determined by Executive Director in regulations, see section 101(f) \[title VI, §659 \[title II, §207\]\] of Pub. L. 104–208, set out as a note under section 5545a of this title.
 
 #### Effective Date of 1994 Amendments
 
@@ -236,7 +242,7 @@ Amendment by Pub. L. 101–335 effective as of second election period described 
 
 #### Effective Date of 1988 Amendment
 
-Amendment by section 103(a)(2), (c), and (d)(2) of Pub. L. 100–238, effective Jan. 1, 1987, see section 103(f) ofPub. L. 100–238, set out as a note under section 3307 of this title.
+Amendment by section 103(a)(2), (c), and (d)(2) of Pub. L. 100–238, effective Jan. 1, 1987, see section 103(f) of Pub. L. 100–238, set out as a note under section 3307 of this title.
 
 Section 113(b)(2) of Pub. L. 100–238 provided that: “The amendments made by paragraph (1) \[amending this section\] shall be effective as of January 1, 1987. Any refund which becomes payable as a result of the preceding sentence shall, to the extent that such refund involves an individual's contributions to the Thrift Savings Fund (established under section 8437 of title 5, United States Code), be adjusted to reflect any earnings attributable thereto.”
 
@@ -262,6 +268,12 @@ Exceptions.—(1) Subchapter VII of chapter 84 of title 5, United States Code, a
 
 Reference to a specific date in section 702(a) of Pub. L. 99–335, set out above, for certain purposes, deemed to be a reference to the first day of the first pay period beginning after such date, or to the day before such day, as appropriate, see section 505 of Pub. L. 99–556, set out as a Coordination With Pay Periods note under section 8331 of this title.
 
+#### Short Title of 1996 Amendment
+
+Section 101(f) \[title VI, §659 \[title I, §101\]\] of Pub. L. 104–208 provided that: “This title \[title I (§§101–104) of section 659 of section 101(f) of Pub. L. 104–208, amending sections 8438 and 8439 of this title and enacting provisions set out as a note under section 8438 of this title\] may be cited as the ‘Thrift Savings Investment Funds Act of 1996’.”
+
+Section 101(f) \[title VI, §659 \[title II, §201\]\] of Pub. L. 104–208 provided that: “This title \[title II (§§201–207) of section 659 of section 101(f) of Pub. L. 104–208, amending this section and sections 5545a, 8351, 8433, 8435, and 8440a to 8440c of this title, repealing section 8431 of this title, enacting provisions set out as notes under sections 5545a and 8433 of this title, and amending provisions set out as a note under section 5343 of this title\] may be cited as the ‘Thrift Savings Plan Act of 1996’.”
+
 #### Short Title of 1990 Amendment
 
 Section 1 of Pub. L. 101–335 provided that: “This Act \[enacting section 8432a of this title, amending this section and sections 3392, 8351, 8433 to 8435, 8438, 8440a, 8440b, and 8477 of this title, renumbering former section 8440a of this title as section 8440b, enacting provisions set out as notes under sections 3392, 8351, 8432a, 8433, 8434, and 8438 of this title, and amending provisions set out as a note under section 8477 of this title\] may be cited as the ‘Thrift Savings Plan Technical Amendments Act of 1990’.”
@@ -280,7 +292,9 @@ Section 100(a) of Pub. L. 99–335 provided that: “This Act \[enacting this ch
 
 #### Service as Law Enforcement Officer
 
-Pub. L. 104–52, title VI, §640, Nov. 19, 1995, 109 Stat. 513, provided that: “Service performed during the period January 1, 1984, through December 31, 1986, which would, if performed after that period, be considered service as a law enforcement officer, as defined in section 8401(17)(A)(i)(II) and (B) of title 5, United States Code, shall be deemed service as a law enforcement officer for the purposes of chapter 84 of such title.”
+Pub. L. 104–52, title VI, §640, Nov. 19, 1995, 109 Stat. 513, as amended by Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §629(a)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–362, provided that: “Hereafter, service performed during the period January 1, 1984, through December 31, 1986, which would, if performed after that period, be considered service as a law enforcement officer, as defined in section 8401(17)(A)(i)(II) and (B) of title 5, United States Code, shall be deemed service as a law enforcement officer for the purposes of chapter 84 of such title.”
+
+\[Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §629(b)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–362, provided that: “The amendment made by subsection (a) \[amending section 640 of Pub. L. 104–52, set out above\] shall take effect as if included in Public Law 104–52 on the date of its enactment \[Nov. 19, 1995\].”\]
 
 #### Congressional Declaration of Purpose
 
@@ -310,7 +324,7 @@ Section 702(c) of Pub. L. 99–335 provided that:
 
 “(1) For purposes of the first adjustment under subsection (b) of section 8462 of title 5, United States Code (as added by section 101 of this Act), the base quarter ending on September 30, 1986, shall be considered to have been the base quarter for a year in which an adjustment under such subsection was made.
 
-“(2) As used in paragraph (1), the term ‘base quarter’ has the meaning provided by section 8462(a)(1) of title 5, United States Code (as added by section 101 of this Act).”
+“(2) As used in paragraph (1), the term ‘base quarter’ has the meaning provided by section 8462(a)(1) of title5, United States Code (as added by section 101 of this Act).”
 
 #### Cross References
 
@@ -324,7 +338,7 @@ Uniform date for retirement of Federal personnel, see section 8301 of this title
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3307, 3323, 3329, 5541, 8331, 8351, 8411, 8414, 8431, 8477, 8704 of this title; title 10 section 2467; title 22 section 4046; title 38 sections 7296, 7426, 7438; title 50 sections 2152, 2154.
+This section is referred to in sections 3307, 3323, 3329, 5541, 6323, 8331, 8351, 8411, 8414, 8477, 8704 of this title; title 10 section 2467; title 22 section 4046; title 38 sections 7296, 7426, 7438; title 50 sections 2152, 2154.
 
 <i><sup>1</sup></i><i> So in original. The period probably should be a semicolon.</i>
 

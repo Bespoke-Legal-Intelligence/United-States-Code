@@ -60,7 +60,7 @@ In the case of any article or merchandise imported from a country which is not a
 
 #### (d) Treatment of international consortia
 
-For purposes of this part, if the members (or other participating entities) of an international consortium that is engaged in the production of subject merchandise receive countervailable subsidies from their respective home countries to assist, permit, or otherwise enable their participation in that consortium through production or manufacturing operations in their respective home countries, then the administering authority shall cumulate all such countervailable subsidies, as well as countervailable subsidies provided directly to the international consortium, in determining any countervailing duty upon such merchandise.
+For purposes of this part, if the members (or other participating entities) of an international consortium that is engaged in the production of subject merchandise receive countervailable subsidies from their respective home countries to assist, permit, or otherwise enable their participation in that consortium through production or manufacturing operations in their respective home countries, then the administering authority shall cumulate all such countervailable subsidies, as well as countervailable subsidies provided directly to the internationalconsortium, in determining any countervailing duty upon such merchandise.
 
 #### (e) Upstream subsidies
 
@@ -160,7 +160,7 @@ Investigations After Enactment.—The amendments made by sections 1324 and 1330 
 
 “(d)
 
-Prevention of Circumvention of Duties; Drawback.—The provisions of section 781 of the Tariff Act of 1930, as added by section 1321(a) \[19 U.S.C. 1677j\], and the amendments made by section 1334 \[amending section 1677h of this title\] shall apply with respect to articles entered, or withdrawn from warehouse for consumption, on or after the date of enactment of this Act \[Aug. 23, 1988\].
+Prevention of Circumvention of Duties; Drawback.—The provisions of section 781 of the Tariff Act of1930, as added by section 1321(a) \[19 U.S.C. 1677j\], and the amendments made by section 1334 \[amending section 1677h of this title\] shall apply with respect to articles entered, or withdrawn from warehouse for consumption, on or after the date of enactment of this Act \[Aug. 23, 1988\].
 
 “(e)
 
@@ -214,7 +214,7 @@ Functions of President under subsec. (b) of this section delegated to United Sta
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147and 1171–1177\] or title XVIII \[§§1801–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of Title 26, Internal Revenue Code.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1801–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of Title 26, Internal Revenue Code.
 
 #### Investigations Pending on January 1, 1980
 
@@ -230,7 +230,7 @@ Pending Investigations of Bounties or Grants.—If, on the effective date of the
 
 “(b)
 
-Pending Investigations of Less-Than-Fair-Value Sales.—If, on the effective date of title VII of the Tariff Act of 1930 \[see Effective Date note set out above\], there is an investigation in progress under the Antidumping Act, 1921 \[sections 160 to 171 of this title\], as to whether imports from a country are being, or are likely to be, sold in the United States or elsewhere at less than fair value, then:
+Pending Investigations of Less-Than-Fair-Value Sales.—If, on the effective date of title VII of the Tariff Act of 1930 \[see Effective Date note set outabove\], there is an investigation in progress under the Antidumping Act, 1921 \[sections 160 to 171 of this title\], as to whether imports from a country are being, or are likely to be, sold in the United States or elsewhere at less than fair value, then:
 
 &emsp;“(1) If the Secretary has not yet made a preliminary determination under the Antidumping Act, 1921 \[sections 160 to 171 of this title\], as to the question of less-than-fair-value sales, he shall terminate the investigation and the United States International Trade Commission shall terminate any investigation under section 201(c)(2) of the Antidumping Act, 1921 \[section 160(c)(2) of this title\], and the matter previously under investigation shall be subject to the provisions of title VII of the Tariff Act of 1930 \[this subtitle\] as if the affirmative determination called for in section 732 \[section 1673a of this title\] were made with respect to such matter on the effective date of title VII of the Tariff Act of 1930.
 
@@ -284,7 +284,7 @@ Determination by the commission.—Within 180 days after the date on which it re
 
 Effect of determination.—
 
-“(A) Affirmative determination.—Upon being notified by the Commission of an affirmative determination under paragraph (2), the administering authority shall terminate the waiver of imposition of countervailing duties for merchandise subject to the order, if any. The countervailing duty order under section 303 of the Tariff Act of 1930 \[section 1303 of this title\] which applies to that merchandise shall remain in effect until revoked, in whole or inpart, under section 751(d) of such Act \[section 1675(d) of this title\].
+“(A) Affirmative determination.—Upon being notified by the Commission of an affirmative determination under paragraph (2), the administering authority shall terminate the waiver of imposition of countervailing duties for merchandise subject to the order, if any. The countervailing duty order under section 303 of the Tariff Act of 1930 \[section 1303 of this title\] which applies to that merchandise shall remain in effect until revoked, in whole or in part, under section 751(d) of such Act \[section 1675(d) of this title\].
 
 “(B) Negative determination.—Upon being notified by the Commission of a negative determination under paragraph (2), the administering authority shall revoke the countervailing duty order, and publish notice in the Federal Register of the revocation.
 
@@ -350,7 +350,7 @@ Definitions.—Whenever any term which is defined in section 771 of the Tariff A
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1315, 1337, 1671a, 1671e, 1677 of this title.
+This section is referred to in sections 1315, 1337, 1671a, 1671e, 1675b, 1677 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be section “1677–1(a)”.</i>
 

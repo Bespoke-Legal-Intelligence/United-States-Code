@@ -26,7 +26,7 @@ For purposes of sections 46 to 48c of this title—
 
 (6) The term “fiscal year” means the twelve-month period beginning on October 1 of each year.
 
-(7) The terms “Government” and “entity of the Government” include any entity of the legislative branch or the judicial branch, any executive agency or military department (as such agency and department are respectively defined by sections 102 and 105 of title 5), the United States Postal Service, and any nonappropriated fund instrumentality under the jurisdiction of the Armed Forces.
+(7) The terms “Government” and “entity of the Government” include any entity of the legislative branch or the judicial branch, any executive agency or military department (as such agency and department are respectively defined by sections 102 and 105 of title 5), the UnitedStates Postal Service, and any nonappropriated fund instrumentality under the jurisdiction of the Armed Forces.
 
 (8) The term “State” includes the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, and the Trust Territory of the Pacific Islands.
 

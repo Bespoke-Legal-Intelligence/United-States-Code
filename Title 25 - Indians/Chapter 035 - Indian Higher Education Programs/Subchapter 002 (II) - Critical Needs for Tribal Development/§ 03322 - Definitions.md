@@ -2,7 +2,7 @@
 
 As used in this subchapter:
 
-&emsp;(1) The term “federally funded higher education assistance” means any grant assistance provided to an Indian student from funds madeavailable for such purpose by contract or grant to an Indian tribe from amounts appropriated under the authority of section 13 of this title.
+&emsp;(1) The term “federally funded higher education assistance” means any grant assistance provided to an Indian student from funds made available for such purpose by contract or grant to an Indian tribe from amounts appropriated under the authority of section 13 of this title.
 
 &emsp;(2) The term “eligible Indian tribe or tribal organization” means any Indian tribe or tribal organization that qualifies to administer federally funded higher education assistance under a contract pursuant to the Indian Self-Determination and Education Assistance Act \[25 U.S.C. 450 et seq.\] or under a grant pursuant to subchapter I of this chapter.
 
@@ -12,5 +12,5 @@ As used in this subchapter:
 
 #### References in Text
 
-The Indian Self-Determination and Education Assistance Act, referred to in par. (2), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, as amended, which is classified principally to subchapter II (§450 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
+The Indian Self-Determination and Education Assistance Act, referred to in par. (2), is Pub. L. 93–638, Jan.4, 1975, 88 Stat. 2203, as amended, which is classified principally to subchapter II (§450 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
 

@@ -24,7 +24,7 @@ Special Rules for Wyoming, Ohio, Alaska, and Iowa.—In addition to the vehicles
 
 &emsp;(2) Ohio may allow the operation of commercial motor vehicle combinations with 3 property-carrying units of 28.5 feet each (not including the truck tractor) not in actual operation on June 1, 1991, to be operated in Ohio on the 1-mile segment of Ohio State Route 7 that begins at and is south of exit 16 of the Ohio Turnpike;
 
-&emsp;(3) Alaska may allow the operation of commercial motor vehicle combinations that werenot in actual operation on June 1, 1991, but were in actual operation before July 6, 1991; and
+&emsp;(3) Alaska may allow the operation of commercial motor vehicle combinations that were not in actual operation on June 1, 1991, but were in actual operation before July 6, 1991; and
 
 &emsp;(4) Iowa may allow the operation on Interstate Route 29 between Sioux City, Iowa, and the border between Iowa and South Dakota or on Interstate Route 129 between Sioux City, Iowa, and the border between Iowa and Nebraska of commercial motor vehicle combinations with trailer length, semitrailer length, and property-carrying unit length allowed by law or regulation and in actual lawful operation on a regular or periodic basis (including continued seasonal operation) in South Dakota or Nebraska, respectively, before June 2, 1991.
 
@@ -35,6 +35,8 @@ Additional Limitations.—(1) A commercial motor vehicle combination whose opera
 (2) This section does not prevent a State from further restricting in any way or prohibiting the operation of any commercial motor vehicle combination subject to this section, except that a restriction or prohibition shall be consistent with this section and sections 31113(a) and (b) and 31114 of this title.
 
 (3) A State making a minor adjustment of a temporary and emergency nature as authorized by paragraph (1) of this subsection or further restricting or prohibiting the operation of a commercial motor vehicle combination as authorized by paragraph (2) of this subsection shall advise the Secretary not later than 30 days after the action. The Secretary shall publish a notice of the action in the Federal Register.
+
+(4) <sup>1</sup> Nebraska may continue to allow to be operated under paragraphs (b)(1) and (b)(2) of this section,<sup>2</sup> the State of Nebraska may allow longer combination vehicles that were not in actual operation on June 1, 1991 to be operated within its boundaries to transport sugar beets from the field where such sugar beets are harvested to storage, market, factory or stockpile or from stockpile to storage, market or factory. This provision shall expire on September 30, 1997.
 
 (e)
 
@@ -64,11 +66,13 @@ Regulations.—(1) In carrying out this section only, the Secretary shall define
 
 (2) Not later than June 15, 1992, the Secretary shall prescribe regulations establishing criteria for a State to follow in making minor adjustments under subsection (d) of this section.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 995; Pub. L. 104–59, title III, §312(a)(3), Nov. 28, 1995, 109 Stat. 584.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 995; Pub. L. 104–59, title III, §312(a)(3), Nov. 28, 1995, 109 Stat. 584; Pub. L. 104–205, title III, §352, Sept. 30, 1996, 110 Stat. 2980.)
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -120,9 +124,15 @@ In subsection (e)(4), the words “Except as revised under this paragraph or par
 
 #### Amendments
 
+1996—Subsec. (d)(4). Pub. L. 104–205, which directed amendment of this section by adding a new subsection designated par. (4) without specifying where, was executed by adding par. (4) to subsec. (d) to reflect the probable intent of Congress.
+
 1995—Subsec. (c). Pub. L. 104–59 substituted “Alaska, and Iowa” for “and Alaska” in heading and added par. (4).
 
 #### Section Referred to in Other Sections
 
 This section is referred to in title 23 sections 127, 141.
+
+<i><sup>1</sup></i><i> See 1996 Amendment note below.</i>
+
+<i><sup>2</sup></i><i> So in original.</i>
 

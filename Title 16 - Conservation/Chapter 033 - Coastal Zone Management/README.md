@@ -92,15 +92,18 @@
 | (j) | Authorization of appropriations. |
 | [1464\.](%C2%A7%2001464%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | (a) | Sums appropriated to Secretary. |
-| (b) | Sums appropriated to Fund. |
-| (c) | Limitations. |
-| (d) | Reversion to Secretary of unobligated State funds; availability of funds. |
+| (b) | Limitations. |
+| (c) | Reversion to Secretary of unobligated State funds; availability of funds. |
+| [1465\.](%C2%A7%2001465%20-%20Appeals%20to%20Secretary.md) | Appeals to Secretary. |
+| (a) | Notice. |
+| (b) | Deadline. |
+| (c) | Application. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 544<i>l</i>, 1455b, 3505, 3509 of this title; title 33 sections 1503, 1508, 2801; title 42 sections 9111, 9115; title 43 sections 1351, 1866; title 46 section 13101.
+This chapter is referred to in sections 544<i>l</i>, 1455b, 3505, 3509 of this title; title 33 sections 1503, 1508, 2801; title42 sections 9111, 9115; title 43 sections 1351, 1866; title 46 section 13101.
 
 
 ---
@@ -128,3 +131,4 @@ This chapter is referred to in sections 544<i>l</i>, 1455b, 3505, 3509 of this t
 - [&sect; 01463a - Omitted](%C2%A7%2001463a%20-%20Omitted.md)
 - [&sect; 01463b - National Coastal Resources Research and Development Institute](%C2%A7%2001463b%20-%20National%20Coastal%20Resources%20Research%20and%20Development%20Institute.md)
 - [&sect; 01464 - Authorization of appropriations](%C2%A7%2001464%20-%20Authorization%20of%20appropriations.md)
+- [&sect; 01465 - Appeals to Secretary](%C2%A7%2001465%20-%20Appeals%20to%20Secretary.md)

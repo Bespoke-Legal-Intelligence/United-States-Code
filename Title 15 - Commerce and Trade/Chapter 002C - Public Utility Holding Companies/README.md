@@ -134,7 +134,7 @@
 | (i) | Application of chapter to other eligible facilities. |
 | (j) | Ownership of exempt wholesale generators and qualifying facilities. |
 | (k) | Protection against abusive affiliate transactions. |
-| (<i>l)</i> | Reciprocal arrangements prohibited. |
+| (<i>l</i>) | Reciprocal arrangements prohibited. |
 | 79z–5b. | Treatment of foreign utilities. |
 | (a) | Exemptions for foreign utility companies. |
 | (b) | Ownership of foreign utility companies by exempt holding companies. |
@@ -143,6 +143,21 @@
 | (e) | Reporting requirements. |
 | (f) | Prohibition on assumption of liabilities. |
 | (g) | Prohibition on pledging or encumbering utility assets. |
+| 79z–5c. | Exempt telecommunications companies. |
+| (a) | Definitions. |
+| (b) | State consent for sale of existing rate-based facilities. |
+| (c) | Ownership of ETCS by exempt holding companies. |
+| (d) | Ownership of ETCS by registered holding companies. |
+| (e) | Financing and other relationships between ETCS and registered holding companies. |
+| (f) | Reporting obligations concerning investments and activities of registered public utility holding company systems. |
+| (g) | Assumption of liabilities. |
+| (h) | Pledging or mortgaging of assets. |
+| (i) | Protection against abusive affiliate transactions. |
+| (j) | Nonpreemption of rate authority. |
+| (k) | Reciprocal arrangements prohibited. |
+| (<i>l</i>) | Books and records. |
+| (m) | Independent audit authority for State commissions. |
+| (n) | Applicability of telecommunications regulation. |
 | 79z–6. | Separability clause. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -190,4 +205,5 @@ This chapter is referred to in sections 77ccc, 77hhh, 77jjj, 77kkk, 77www, 77zzz
 - [&sect; 00079z&#8211;5 - Hiring and leasing authority of Commission](%C2%A7%2000079z%E2%80%935%20-%20Hiring%20and%20leasing%20authority%20of%20Commission.md)
 - [&sect; 00079z&#8211;5a - Exempt wholesale generators](%C2%A7%2000079z%E2%80%935a%20-%20Exempt%20wholesale%20generators.md)
 - [&sect; 00079z&#8211;5b - Treatment of foreign utilities](%C2%A7%2000079z%E2%80%935b%20-%20Treatment%20of%20foreign%20utilities.md)
+- [&sect; 00079z&#8211;5c - Exempt telecommunications companies](%C2%A7%2000079z%E2%80%935c%20-%20Exempt%20telecommunications%20companies.md)
 - [&sect; 00079z&#8211;6 - Separability clause](%C2%A7%2000079z%E2%80%936%20-%20Separability%20clause.md)

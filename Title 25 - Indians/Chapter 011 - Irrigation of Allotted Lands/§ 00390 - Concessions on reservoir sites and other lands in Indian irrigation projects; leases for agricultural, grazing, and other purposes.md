@@ -14,7 +14,7 @@ The Secretary of the Interior be, and he is hereby, authorized, in his discretio
 
 #### Effective and Termination Dates of 1992 Amendment
 
-Section 3711 of title XXXVII of Pub. L. 102–575, as amended by Pub. L. 103–435, §13, Nov. 2, 1994, 108 Stat. 4572, provided that:
+Section 3711 of title XXXVII of Pub. L. 102–575, as amended by Pub. L. 103–435, §13, Nov. 2, 1994, 108 Stat. 4572; Pub. L. 104–91, title II, §202(a), Jan. 6, 1996, 110 Stat. 14; Pub. L. 104–261, §3, Oct. 9, 1996, 110 Stat. 3176, provided that:
 
 “(a)
 
@@ -36,7 +36,17 @@ Effective Date of Authorization.—The authorization contained in section 3708(b
 
 “(b)
 
-Conditions.—(1) If the actions described in paragraphs (1), (2), (3), (4), (5), (6), and (7) of subsection (a) of this section have not occurred by December 31, 1995, subsections (c) and (d) of section 3704 \[106 Stat. 4743\], subsections (a) and (b) of section 3705 \[106 Stat. 4744\], section 3706 \[106 Stat. 4745\], subsections (a)(2), (c), (d), and (f) of section 3707 \[106 Stat. 4747\], subsections (b) and (c) of section 3708 \[106 Stat. 4748\], and subsections (a), (b), (c), (d), (e), (g), (h), (j), and (<i>l</i>) of section 3710 of this title \[106 Stat. 4750, subsec. (e) amends this section\], together with any contracts entered into pursuant to any such section or subsection, shall not be effective on and after the date of enactment of this title \[Oct. 30, 1992\], and any funds appropriated pursuant to section 3707(c) \[106 Stat. 4748\], and remaining unobligated and unexpended on the date of the enactment of this title, shall immediately revert to the Treasury, as general revenues, and any funds appropriated by the State of Arizona pursuant to the Agreement, and remaining unobligated and unexpended on the date of the enactment of this title, shall immediately revert to the State of Arizona.
+Conditions.—(1) If the actions described in paragraphs (1), (2), (3), (4), (5), (6), and (7) of subsection (a) of this section have not occurred by June 30, 1997, subsections (c) and (d) of section 3704 \[106 Stat. 4743\], subsections (a) and (b) of section 3705 \[106 Stat. 4744\], section 3706 \[106 Stat. 4745\], subsections (a)(2), (c), (d), and (f) of section 3707 \[106 Stat. 4747\], subsections (b) and (c) of section 3708 \[106 Stat. 4748\], and subsections (a), (b), (c), (d), (e), (g), (h), (j), and (<i>l</i>) of section 3710 of this title \[106 Stat. 4750, subsec. (e) amends this section\], together with any contracts entered into pursuant to any such section or subsection, shall not be effective on and after the date of enactment of this title \[Oct. 30, 1992\], and any funds appropriated pursuant to section 3707(c) \[106 Stat. 4748\], and remaining unobligated and unexpended on the date of the enactment of this title, shall immediately revert to the Treasury, as general revenues, and any funds appropriated by the State of Arizona pursuant to the Agreement, and remaining unobligated and unexpended on the date of the enactment of this title, shall immediately revert to the State of Arizona.
 
 “(2) Notwithstanding the provisions of paragraph (1) of this subsection, if the provisions of subsections (a) and (b) of section 3705 of this title have been otherwise accomplished pursuant to provisions of the Act of October 20, 1988 \[Pub. L. 100–512, 102 Stat. 2549\], the provisions of paragraph (1) of this subsection shall not be construed as affecting such subsections.”
+
+\[Pub. L. 104–91, title II, §202(b), Jan. 6, 1996, 110 Stat. 14, provided that:
+
+\[“(1)
+
+In general.—The amendment made by subsection (a) \[amending section 3711 of Pub. L. 102–575, set out above\] shall take effect as of December 31, 1995.
+
+\[“(2)
+
+Lapsed provisions of law and contracts.—The provisions of subsections (c) and (d) of section 3704 \[106 Stat. 4743\], subsections (a) and (b) of section 3705 \[106 Stat. 4744\], section 3706 \[106 Stat. 4745\], subsections (a)(2), (c), (d), and (f) of section 3707 \[106 Stat. 4747\], subsections (b) and (c) of section 3708 \[106 Stat. 4748\], and subsections (a), (b), (c), (d), (e), (g), (h), (j), and (<i>l</i>) of section 3710 of such Act \[106 Stat. 4750, subsec. (e) amends this section\], together with each contract entered into pursuant to any such section or subsection (with the consent of the non-Federal parties thereto), shall be effective on and after the date of enactment of this Act \[Jan. 6, 1996\], subject to the December 31, 1996, deadline specified in such section 3711(b)(1), as amended by subsection (a) of this section \[section 3711(b)(1) of Pub. L. 102–575, set out above\].”\]
 

@@ -44,7 +44,7 @@
 
 #### (b) United States Coast Guard
 
-The Commissioner of Customs shall make available to the United States Coast Guard, from funds appropriated under subsection (f)(2) of this section in excess of $10,000,000 for a fiscal year, proceeds in the Fund derived from seizures by the Coast Guard. Funds made available under this subsection may be used for—
+The Commissioner of Customs shall make available to the United States Coast Guard,from funds appropriated under subsection (f)(2) of this section in excess of $10,000,000 for a fiscal year, proceeds in the Fund derived from seizures by the Coast Guard. Funds made available under this subsection may be used for—
 
 &emsp;(1) equipment for any vessel, vehicle, or aircraft available for official use by the United States Coast Guard to enable the vessel, vehicle, or aircraft to assist in law enforcement functions;
 
@@ -94,7 +94,7 @@ Amounts in the Fund which are not currently needed for the purposes of this sect
 
 &emsp;&emsp;&emsp;(II) by type of disposition (sales, remissions, cancellations, placed into official use, sharing with State and local agencies, and destructions).
 
-(2) The Fund shall be subject to annual financial audits conducted by the Comptroller General of the United States.
+(2) The Fund shall be subject to audits conducted by the Comptroller General of the United States, under such conditions as the Comptroller General determines appropriate.
 
 #### (f) Authorization of appropriations
 
@@ -110,13 +110,15 @@ Amounts in the Fund which are not currently needed for the purposes of this sect
 
 (3) At the end of each fiscal year, any unobligated amount in excess of $15,000,000 remaining in the Fund shall be deposited into the general fund of the Treasury of the United States.
 
-(June 17, 1930, ch. 497, title IV, §613A, as added Oct. 30, 1984, Pub. L. 98–573, title II, §213(a)(11), 98 Stat. 2986; amended Oct. 27, 1986, Pub. L. 99–570, title I, §1152(b)(2), title III, §3142(a), 100 Stat. 3207–12, 3207–93; July 11, 1987, Pub. L. 100–71, title I, §101, 101 Stat. 438; Dec. 22, 1987, Pub. L. 100–202, §101(m) \[title I, §106\], 101 Stat. 1329–390, 1329–397; Aug. 23, 1988, Pub. L. 100–418, title I, §1912, 102 Stat. 1320; Nov. 18, 1988, Pub. L. 100–690, title VII, §7364, 102 Stat. 4475; Aug. 20, 1990, Pub. L. 101–382, title I, §121, 104 Stat. 640; Nov. 5, 1990, Pub. L. 101–508, title X, §10012(a), 104 Stat. 1388–390.)
+(June 17, 1930, ch. 497, title IV, §613A, as added Oct. 30, 1984, Pub. L. 98–573, title II, §213(a)(11), 98 Stat. 2986; amended Oct. 27, 1986, Pub. L. 99–570, title I, §1152(b)(2), title III, §3142(a), 100 Stat. 3207–12, 3207–93; July 11, 1987, Pub. L. 100–71, title I, §101, 101 Stat. 438; Dec. 22, 1987, Pub. L. 100–202, §101(m) \[title I, §106\], 101 Stat. 1329–390, 1329–397; Aug. 23, 1988, Pub. L. 100–418, title I, §1912, 102 Stat. 1320; Nov. 18, 1988, Pub. L. 100–690, title VII, §7364, 102 Stat. 4475; Aug. 20, 1990, Pub. L. 101–382, title I, §121, 104 Stat. 640; Nov. 5, 1990, Pub. L. 101–508, title X, §10012(a), 104 Stat. 1388–390; Oct. 19, 1996, Pub. L. 104–316, title I, §110(a), 110 Stat. 3832.)
 
 #### Prior Provisions
 
 Prior similar provisions were contained in section 613a of act June 17, 1930, as added by Pub. L. 98–473, title II, §317, Oct. 12, 1984, 98 Stat. 2054, which was classified to section 1613a of this title and subsequently repealed.
 
 #### Amendments
+
+1996—Subsec. (e)(2). Pub. L. 104–316 struck out “annual financial” before “audits conducted” and inserted before period at end “, under such conditions as the Comptroller General determines appropriate”.
 
 1990—Subsec. (a)(1)(F). Pub. L. 101–382, §121(1), added subpar. (F).
 
@@ -154,7 +156,7 @@ Subsec. (a)(5)(v), (vi). Pub. L. 100–202 added cls. (v) and (vi).
 
 1986—Pub. L. 99–570, §1152(b)(2), which directed the repeal of this section, was itself repealed by Pub. L. 100–71. See Repeal and Revival of Section note below.
 
-Subsec. (a). Pub. L. 99–570, §3142(a)(1)(A), (F), substituted “1991” for “1987” in introductory provisions and amended generally concluding provisions which had read as follows: “In addition to the purposes described in paragraphs (1) through (6), the fund shall be available for purchases by the United States Customs Service of evidence of (A) smuggling of controlled substances, and (B) violations of the currency and foreign transaction reporting requirements of chapter 53 of title 31 if there is a substantial probability that theviolations of these requirements are related to the smuggling of controlled substances.”
+Subsec. (a). Pub. L. 99–570, §3142(a)(1)(A), (F), substituted “1991” for “1987” in introductory provisions and amended generally concluding provisions which had read as follows: “In addition to the purposes described in paragraphs (1) through (6), the fund shall be available for purchases by the United States Customs Service of evidence of (A) smuggling of controlled substances, and (B) violations of the currency and foreign transaction reporting requirements of chapter 53 of title 31 if there is a substantial probability that the violations of these requirements are related to the smuggling of controlled substances.”
 
 Subsec. (a)(1). Pub. L. 99–570, §3142(a)(1)(B), inserted “(including investigative costs leading to seizures)” after “of the seizure”.
 

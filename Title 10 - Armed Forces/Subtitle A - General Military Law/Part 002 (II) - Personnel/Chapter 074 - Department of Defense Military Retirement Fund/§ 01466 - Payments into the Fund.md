@@ -20,7 +20,7 @@
 
 (2) At the beginning of each fiscal year the Secretary of Defense shall determine the sum of the following:
 
-&emsp;(A) The amount of the payment for that year under the amortization schedule determined by the Board of Actuaries under section 1465(a)of this title for the amortization of the original unfunded liability of the Fund.
+&emsp;(A) The amount of the payment for that year under the amortization schedule determined by the Board of Actuaries under section 1465(a) of this title for the amortization of the original unfunded liability of the Fund.
 
 &emsp;(B) The amount (including any negative amount) for that year under the most recent amortization schedule determined by the Secretary of Defense under section 1465(c)(2) of this title for the amortization of any cumulative unfunded liability (or any gain) to the Fund resulting from changes in benefits.
 
@@ -52,7 +52,7 @@ Pub. L. 99–500 and Pub. L. 99–591, title I, §101(c) \[§9131\], amended sub
 
 > Amounts paid into the Fund under this subsection shall be paid from funds available for the pay of members of the armed forces under the jurisdiction of the Secretary of a military department.”
 
-Subsec. (a)(1)(B), (2)(B). Pub. L. 99–500 and Pub. L. 99–591, title I, §101(c) \[title IX, §9103(3)\], as amended by Pub. L. 100–26, §4(a)(1), substituted “accrued for that month by” for “paid that month to” in pars. (1)(B) and (2)(B) as amended by section 661(b) of Pub. L. 99–661, see above.
+Subsec. (a)(1)(B), (2)(B). Pub. L. 99–500 and Pub. L. 99–591, title I, §101(c) \[title IX, §9103(3)\], as amended by Pub. L. 100–26, §4(a)(1), substituted “accrued for thatmonth by” for “paid that month to” in pars. (1)(B) and (2)(B) as amended by section 661(b) of Pub. L. 99–661, see above.
 
 #### Effective Date of 1987 Amendment
 

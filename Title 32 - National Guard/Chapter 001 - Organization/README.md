@@ -39,7 +39,7 @@ Army National Guard of United States and Air National Guard of United States—
 
 &emsp;&emsp;Inactive status of reserves assigned to inactive Army National Guard or inactive Air National Guard, see section 10141 of Title 10.
 
-&emsp;&emsp;Officers, discharge, see sections 3820 and 8820 of Title 10.
+&emsp;&emsp;Officers, discharge, see section 14907 of Title 10.
 
 &emsp;&emsp;Ready Reserve as including units and members of, see section 10145 of Title 10.
 

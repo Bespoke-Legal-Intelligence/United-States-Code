@@ -32,7 +32,7 @@ To be eligible to obtain a grant under this section, an applicant shall—
 
 #### (1) In general
 
-&emsp;Grants made under this section may be used for waterline extensions from existing systems, laying of new waterlines, repairs, significant maintenance, digging of new wells, equipment replacement, hook and tap fees,and any other appropriate purpose associated with developing sources of, or treating, storing, or distributing water, and to assist communities in complying with the requirements of the Federal Water Pollution Control Act (33 U.S.C. 1251 et seq.) or the Safe Drinking Water Act (42 U.S.C. 300f et seq.).
+&emsp;Grants made under this section may be used for waterline extensions from existing systems, laying of new waterlines, repairs, significant maintenance, digging of new wells, equipment replacement, hook and tap fees, and any other appropriate purpose associated with developing sources of, or treating, storing, or distributing water, and to assist communities in complying with the requirements of the Federal Water Pollution Control Act (33 U.S.C. 1251 et seq.) or the Safe Drinking Water Act (42 U.S.C. 300f et seq.).
 
 #### (2) Joint proposals
 
@@ -44,13 +44,13 @@ To be eligible to obtain a grant under this section, an applicant shall—
 
 &emsp;No grant provided under this section shall be used to assist any rural area or community that—
 
-&emsp;&emsp;(A) includes any area in any city or town with a population in excess of 15,000 inhabitants according to the most recent decennial census of the United States; or
+&emsp;&emsp;(A) includes any area in any city or town with a population in excess of 10,000 inhabitants according to the most recent decennial census of the United States; or
 
 &emsp;&emsp;(B) has a median household income in excess of the State nonmetropolitan median household income according to the most recent decennial census of the United States.
 
 #### (2) Set-aside for smaller communities
 
-&emsp;Not less than 50 percent of the funds allocated under this section shall be allocated to rural communities with populations that do not exceed 5,000 inhabitants.
+&emsp;Not less than 50 percent of the funds allocated under this section shall be allocated to rural communities with populations that do not exceed 3,000 inhabitants.
 
 #### (f) Maximum grants
 
@@ -76,15 +76,23 @@ Subject to subsection (e) of this section, grants under this section shall be ma
 
 #### (i) Authorization of appropriations
 
-There are authorized to be appropriated to carry out this section, $35,000,000 for each of the fiscal years 1990 and 1991, such sums to remain authorized until fully appropriated.
+There are authorized to be appropriated to carry out this section $35,000,000 for each of fiscal years 1996 through 2002.
 
-(Pub. L. 87–128, title III, §306A, as added Pub. L. 101–82, title V, §501(a), Aug. 14, 1989, 103 Stat. 584.)
+(Pub. L. 87–128, title III, §306A, as added Pub. L. 101–82, title V, §501(a), Aug. 14, 1989, 103 Stat. 584; amended Pub. L. 104–127, title VII, §742, Apr. 4, 1996, 110 Stat. 1124.)
 
 #### References in Text
 
 The Federal Water Pollution Control Act, referred to in subsec. (d)(1), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of Title 33 and Tables.
 
 The Safe Drinking Water Act, referred to in subsec. (d)(1), is Pub. L. 93–523, Dec. 16, 1974, 88 Stat. 1660, as amended, which is classified principally to subchapter XII (§300f et seq.) of chapter 6A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title of 1974 Amendments note set out under section 201 of Title 42 and Tables.
+
+#### Amendments
+
+1996—Subsec. (e)(1)(A). Pub. L. 104–127, §742(1)(A), substituted “10,000” for “15,000”.
+
+Subsec. (e)(2). Pub. L. 104–127, §742(1)(B), substituted “3,000” for “5,000”.
+
+Subsec. (i). Pub. L. 104–127, §742(2), added subsec. (i) and struck out heading and text of former subsec. (i). Text read as follows: “There are authorized to be appropriated to carry out this section, $35,000,000 for each of the fiscal years 1990 and 1991, such sums to remain authorized until fully appropriated.”
 
 #### Implementation
 
@@ -112,5 +120,5 @@ Release.—The Secretary may release funds prior to the issuance of final regula
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1926–1, 6942 of this title.
+This section is referred to in sections 917, 2009d, 6942 of this title.
 

@@ -28,5 +28,5 @@ In 10:9656, the words “, and at least one of which is designated by the Civil
 
 #### Amendments
 
-1982—Pub. L. 97–295 struck out “, and at least one of which is designated by the Civil Aeronautics Authorityfor the training of Negro air pilots” after “competent orders”.
+1982—Pub. L. 97–295 struck out “, and at least one of which is designated by the Civil Aeronautics Authority for the training of Negro air pilots” after “competent orders”.
 

@@ -28,7 +28,7 @@ In determining the exposure of an institution to risk for purposes of subsection
 
 #### (2) Report
 
-&emsp;Each appropriate Federal banking agency shall include in each report required to be made under section 3912(d) of this title after 1989 a report on the actions taken pursuant to this section.
+&emsp;Each appropriate Federal banking agency shall include in each report required to be made under section 3912(d) <sup>1</sup> of this title after 1989 a report on the actions taken pursuant to this section.
 
 #### (3) Deadline
 
@@ -36,9 +36,13 @@ In determining the exposure of an institution to risk for purposes of subsection
 
 #### (d) “Highly indebted country” defined
 
-As used in this section, the term “highly indebted country” means any country designated as a “Highly Indebted Country” in the annual World Debt Tables most recently published bythe International Bank for Reconstruction and Development before December 19, 1989.
+As used in this section, the term “highly indebted country” means any country designated as a “Highly Indebted Country” in the annual World Debt Tables most recently published by the International Bank for Reconstruction and Development before December 19, 1989.
 
 (Pub. L. 98–181, title IX, §905A, as added Pub. L. 101–240, title IV, §402(b), Dec. 19, 1989, 103 Stat. 2501.)
+
+#### References in Text
+
+Section 3912(d) of this title, referred to in subsec. (c)(2), was repealed by Pub. L. 104–208, div. A, title II, §2224(c), Sept. 30, 1996, 110 Stat. 3009–415.
 
 #### Congressional Findings
 
@@ -51,4 +55,6 @@ Section 402(a) of Pub. L. 101–240 provided that: “The Congress finds that—
 &emsp;“(3) during the last 3 years and particularly in recent months, United States banking institutions have increased their reserves for possible losses from loans to highly indebted countries but such reserves remain, in some cases, significantly lower than reserves established by banking institutions in a number of foreign countries and may not be adequate to deal with potential risks; and
 
 &emsp;“(4) in order to fulfill the purposes of such Act, the Federal banking agencies should take a more active role in reviewing reserve levels established by United States banking institutions for potential losses from loans to highly indebted countries and in requiring appropriate levels of both special and general reserves to reflect the increased risk of such loans.”
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

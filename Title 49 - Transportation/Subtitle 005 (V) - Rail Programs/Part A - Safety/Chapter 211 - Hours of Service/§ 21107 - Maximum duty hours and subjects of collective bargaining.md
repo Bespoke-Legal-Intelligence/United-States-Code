@@ -6,7 +6,9 @@ The number of hours established by this chapter that an employee may be required
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

@@ -2,15 +2,21 @@
 
 (a) A preferred mortgage is a lien on the mortgaged vessel in the amount of the outstanding mortgage indebtedness secured by the vessel.
 
-(b) On default of any term of the preferred mortgage, the mortgage may—
+(b) On default of any term of the preferred mortgage, the mortgagee may—
 
-&emsp;(1) enforce the perferred <sup>1</sup> mortgage lien in a civil action in rem for a documented vessel, a vessel to be documented under chapter 121 of this title, or a foreign vessel; and
+&emsp;(1) enforce the preferred mortgage lien in a civil action in rem for a documented vessel, a vessel to be documented under chapter 121 of this title, or a foreign vessel;
 
 &emsp;(2) enforce a claim for the outstanding indebtedness secured by the mortgaged vessel in—
 
 &emsp;&emsp;(A) a civil action in personam in admiralty against the mortgagor, maker, comaker, or guarantor for the amount of the outstanding indebtedness or any deficiency in full payment of that indebtedness; and
 
-&emsp;&emsp;(B) a civil action against the mortgagor, maker, comaker, or guarantor for the amount of the outstanding indebtedness or any deficiency in full payment of that indebtedness; and <sup>2</sup>
+&emsp;&emsp;(B) a civil action against the mortgagor, maker, comaker, or guarantor for the amount of the outstanding indebtedness or any deficiency in full payment of that indebtedness; and
+
+&emsp;(3) enforce the preferred mortgage lien or a claim for the outstanding indebtedness secured by the mortgaged vessel, or both, by exercising any other remedy (including an extrajudicial remedy) against a documented vessel, a vessel for which an application for documentation is filed under chapter 121 of this title, a foreign vessel, or a mortgagor, maker, comaker, or guarantor for the amount of the outstanding indebtedness or any deficiency in full payment of that indebtedness, if—
+
+&emsp;&emsp;(A) the remedy is allowed under applicable law; and
+
+&emsp;&emsp;(B) the exercise of the remedy will not result in a violation of section 9 or 37 of the Shipping Act, 1916 (46 App. U.S.C. 808, 835).
 
 (c) The district courts have original jurisdiction of a civil action brought under subsection (b)(1) or (2) of this section. However, for a documented vessel, a vessel to be documented under chapter 121 of this title, or a foreign vessel, this jurisdiction is exclusive of the courts of the States for a civil action brought under subsection (b)(1) of this section.
 
@@ -32,7 +38,13 @@
 
 &emsp;(2) when directed by the court, a United States marshal may take possession of a mortgaged vessel even if the vessel is in the possession or under the control of a person claiming a possessory common law lien.
 
-(Pub. L. 100–710, title I, §102(c), Nov. 23, 1988, 102 Stat. 4745; Pub. L. 101–225, title III, §303(4), Dec. 12, 1989, 103 Stat. 1923.)
+(f)(1) Before title to the documented vessel or vessel for which an application for documentation is filed under chapter 121 is transferred by an extrajudicial remedy, the person exercising the remedy shall give notice of the proposedtransfer to the Secretary, to the mortgagee of any mortgage on the vessel filed in substantial compliance with section 31321 of this title before notice of the proposed transfer is given to the Secretary, and to any person that recorded a notice of a claim of an undischarged lien on the vessel under section 31343(a) or (d) of this title before notice of the proposed transfer is given to the Secretary.
+
+(2) Failure to give notice as required by this subsection shall not affect the transfer of title to a vessel. However, the rights of any holder of a maritime lien or a preferred mortgage on the vessel shall not be affected by a transfer of title by an extrajudicial remedy exercised under this section, regardless of whether notice is required by this subsection or given.
+
+(3) The Secretary shall prescribe regulations establishing the time and manner for providing notice under this subsection.
+
+(Pub. L. 100–710, title I, §102(c), Nov. 23, 1988, 102 Stat. 4745; Pub. L. 101–225, title III, §303(4), Dec. 12, 1989, 103 Stat. 1923; Pub. L. 104–324, title XI, §1124(a), (b), Oct. 19, 1996, 110 Stat. 3980.)
 
 Historical and Revision Notes
 
@@ -86,6 +98,14 @@ Subsection (c) of this section clarifies that the district courts have original 
 
 #### Amendments
 
+1996—Subsec. (b). Pub. L. 104–324, §1124(a)(1), substituted “mortgagee may” for “mortgage may” in introductory provisions.
+
+Subsec. (b)(1). Pub. L. 104–324, §1124(a)(2)(A), substituted “preferred” for “perferred”.
+
+Subsec. (b)(3). Pub. L. 104–324, §1124(a)(2)(B), (3), added par. (3).
+
+Subsec. (f). Pub. L. 104–324, §1124(b), added subsec. (f).
+
 1989—Subsecs. (b), (c). Pub. L. 101–225 amended subsecs. (b) and (c) generally. Prior to amendment, subsecs. (b) and (c) read as follows:
 
 “(b) On default of any term of the preferred mortgage, the mortgagee may enforce the preferred mortgage lien in—
@@ -98,11 +118,11 @@ Subsection (c) of this section clarifies that the district courts have original 
 
 “(c) The district courts have original jurisdiction of a civil action brought under subsection (b) of this section. However, for documented vessels or vessels to be documented under chapter 121 of this title, this jurisdiction is exclusive of the courts of the States for a civil action under subsection (b)(1) of this section.”
 
+#### Construction of 1996 Amendments
+
+Section 1124(c) of Pub. L. 104–324 provided that: “The amendments made by subsections (a) and (b) \[amending this section\] may not be construed to imply that remedies other than judicial remedies were not available before the date of enactment of this section \[Oct. 19, 1996\] to enforce claims for outstanding indebtedness secured by mortgaged vessels.”
+
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 31301, 31326 of this title; title 11 section 362.
-
-<i><sup>1</sup></i><i> So in original. Probably should be “preferred”.</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should end with a period instead of “; and”.</i>
 

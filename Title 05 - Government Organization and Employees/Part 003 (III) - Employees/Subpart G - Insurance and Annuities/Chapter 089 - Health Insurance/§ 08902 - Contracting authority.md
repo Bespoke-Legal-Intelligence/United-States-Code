@@ -16,7 +16,7 @@
 
 (f) A contract may not be made or a plan approved which excludes an individual because of race, sex, health status, or, at the time of the first opportunity to enroll, because of age.
 
-(g) A contract may not be made or a plan approved which does not offer to each employee,annuitant, family member, former spouse, or person having continued coverage under section 8905a of this title whose enrollment in the plan is ended, except by a cancellation of enrollment, a temporary extension of coverage during which he may exercise the option to convert, without evidence of good health, to a nongroup contract providing health benefits. An employee, annuitant, family member, former spouse, or person having continued coverage under section 8905a of this title who exercises this option shall pay the full periodic charges of the nongroup contract.
+(g) A contract may not be made or a plan approved which does not offer to each employee, annuitant, family member, former spouse, or person having continued coverage under section 8905a of this title whose enrollment in the plan is ended, except by a cancellation of enrollment, a temporary extension of coverage during which he may exercise the option to convert, without evidence of good health, to a nongroup contract providing health benefits. An employee, annuitant, family member, former spouse, or person having continued coverage under section 8905a of this title who exercises this option shall pay the full periodic charges of the nongroup contract.
 
 (h) The benefits and coverage made available under subsection (g) of this section are noncancelable by the carrier except for fraud, over-insurance, or nonpayment of periodic charges.
 
@@ -24,7 +24,7 @@
 
 (j) Each contract under this chapter shall require the carrier to agree to pay for or provide a health service or supply in an individual case if the Office finds that the employee, annuitant, family member, former spouse, or person having continued coverage under section 8905a of this title is entitled thereto under the terms of the contract.
 
-(k)(1) When a contract under this chapter requires payment or reimbursement for services which may be performed by a clinical psychologist, optometrist, nurse midwife, nursing school administered clinic, or nurse practitioner/clinical specialist, licensed or certified as such under Federal or State law, as applicable, or by a qualified clinical social worker as defined in section 8901(11), an employee, annuitant, family member, former spouse, or person having continued coverage under section 8905a of this title covered by the contract shall be free to select, and shall have direct access to, such a clinical psychologist, qualified clinical social worker, optometrist, nurse midwife, nursing school administered clinic, or nurse practitioner/nurse clinical specialist without supervision or referral by another health practitioner and shall be entitled under the contract to have payment or reimbursement made to him or on his behalf for the services performed.
+(k)(1) When a contract under this chapter requires payment or reimbursement for serviceswhich may be performed by a clinical psychologist, optometrist, nurse midwife, nursing school administered clinic, or nurse practitioner/clinical specialist, licensed or certified as such under Federal or State law, as applicable, or by a qualified clinical social worker as defined in section 8901(11), an employee, annuitant, family member, former spouse, or person having continued coverage under section 8905a of this title covered by the contract shall be free to select, and shall have direct access to, such a clinical psychologist, qualified clinical social worker, optometrist, nurse midwife, nursing school administered clinic, or nurse practitioner/nurse clinical specialist without supervision or referral by another health practitioner and shall be entitled under the contract to have payment or reimbursement made to him or on his behalf for the services performed.
 
 (2) The provisions of this subsection shall not apply to comprehensive medical plans as described in section 8903(4) of this title.
 
@@ -50,7 +50,7 @@
 
 &emsp;(2) to establish incentives to encourage compliance with measures under paragraph (1).
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 601; Pub. L. 93–246, §3, Jan. 31, 1974, 88 Stat. 4; Pub. L. 93–363, §1, July 30, 1974, 88 Stat. 398; Pub. L. 94–183, §2(43), Dec. 31, 1975, 89 Stat. 1059; Pub. L. 94–460, title I, §110(b), Oct. 8, 1976, 90 Stat. 1952; Pub. L. 95–368, §1, Sept. 17, 1978, 92 Stat. 606; Pub. L. 95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 96–179, §3, Jan. 2, 1980, 93 Stat. 1299; Pub. L. 98–615, §3(2), Nov. 8, 1984, 98 Stat. 3203; Pub. L. 99–53, §2(a), June 17, 1985, 99 Stat. 94; Pub. L. 99–251, title I, §§105(b), 106(a)(3), Feb. 27, 1986, 100 Stat. 15, 16; Pub. L. 100–202, §101(m) \[title VI, §626\], Dec. 22, 1987, 101 Stat. 1329–390, 1329–430; Pub. L. 100–654, title II, §§201(b), 202(a), Nov. 14, 1988, 102 Stat. 3845; Pub. L. 101–508, titleVII, §7002(a), Nov. 5, 1990, 104 Stat. 1388–329; Pub. L. 101–509, title IV, §1, Nov. 5, 1990, 104 Stat. 1421; Pub. L. 102–393, title V, §537(a), (b), Oct. 6, 1992, 106 Stat. 1765.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 601; Pub. L. 93–246, §3, Jan. 31, 1974, 88 Stat. 4; Pub. L. 93–363, §1, July 30, 1974, 88 Stat. 398; Pub. L. 94–183, §2(43), Dec. 31, 1975, 89 Stat. 1059; Pub. L. 94–460, title I, §110(b), Oct. 8, 1976, 90 Stat. 1952; Pub. L. 95–368, §1, Sept. 17, 1978, 92 Stat. 606; Pub. L. 95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 96–179, §3, Jan. 2, 1980, 93 Stat. 1299; Pub. L. 98–615, §3(2), Nov. 8, 1984, 98 Stat. 3203; Pub. L. 99–53, §2(a), June 17, 1985, 99 Stat. 94; Pub. L. 99–251, title I, §§105(b), 106(a)(3), Feb. 27, 1986, 100 Stat. 15, 16; Pub. L. 100–202, §101(m) \[title VI, §626\], Dec. 22, 1987, 101 Stat. 1329–390, 1329–430; Pub. L. 100–654, title II, §§201(b), 202(a), Nov. 14, 1988, 102 Stat. 3845; Pub. L. 101–508, title VII, §7002(a), Nov. 5, 1990, 104 Stat. 1388–329; Pub. L. 101–509, title IV, §1, Nov. 5, 1990, 104 Stat. 1421; Pub. L. 102–393, title V, §537(a), (b), Oct. 6, 1992, 106 Stat. 1765.)
 
 Historical and Revision Notes
 
@@ -58,7 +58,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 5 U.S.C. 3005.
 
@@ -80,19 +82,19 @@ Another section 1 of title IV of Pub. L. 101–509, 104 Stat. 1416, enacted sect
 
 #### Amendments
 
-<b>1992</b>—Pub. L. 102–393 amended subsec. (k) generally. Prior to amendment, subsec. (k) read as follows:
+1992—Pub. L. 102–393 amended subsec. (k) generally. Prior to amendment, subsec. (k) read as follows:
 
 “(1) When a contract under this chapter requires payment or reimbursement for services which may be performed by a clinical psychologist, optometrist, nurse midwife, or nurse practitioner/clinical specialist, licensed or certified as such under Federal or State law, as applicable, or by a qualified clinical social worker as defined in section 8901(11), an employee, annuitant, family member, former spouse, or person having continued coverage under section 8905a of this title covered by the contract shall be free to select, and shall have direct access to, such a clinical psychologist, qualified clinical social worker, optometrist, nurse midwife, or nurse practitioner/nurse clinical specialist without supervision or referral by another health practitioner and shall be entitled under the contract to have payment or reimbursement made to him or on his behalf for the services performed.
 
 “(2) The provisions of this subsection shall not apply to group practice prepayment plans.”
 
-<b>1990</b>—Subsec. (k)(1). Pub. L. 101–509 substituted “performed by a clinical psychologist, optometrist, nurse midwife, or nurse practitioner/clinical specialist” for “performed by a clinical psychologist or optometrist” and “qualified clinical social worker, optometrist, nurse midwife, or nurse practitioner/nurse clinical specialist” for “qualified clinical social worker or optometrist”.
+1990—Subsec. (k)(1). Pub. L. 101–509 substituted “performed by a clinical psychologist, optometrist, nurse midwife, or nurse practitioner/clinical specialist” for “performed by a clinical psychologist or optometrist” and “qualified clinical social worker, optometrist, nurse midwife, or nurse practitioner/nurse clinical specialist” for “qualified clinical social worker or optometrist”.
 
 Subsec. (n). Pub. L. 101–508 added subsec. (n).
 
-<b>1988</b>—Subsecs. (g), (j), (k)(1). Pub. L. 100–654 substituted “former spouse, or person having continued coverage under section 8905a of this title” for “or former spouse” wherever appearing.
+1988—Subsecs. (g), (j), (k)(1). Pub. L. 100–654 substituted “former spouse, or person having continued coverage under section 8905a of this title” for “or former spouse” wherever appearing.
 
-<b>1987</b>—Subsec. (k)(1). Pub. L. 100–202, §101(m) \[title VI, §626(1), (2)\], inserted “or by a qualified clinical social worker as defined in section 8901(11),” after “as applicable,”, and “, qualified clinical social worker” after “such a clinical psychologist”.
+1987—Subsec. (k)(1). Pub. L. 100–202, §101(m) \[title VI, §626(1), (2)\], inserted “or by a qualified clinical social worker as defined in section 8901(11),” after “as applicable,”, and “, qualified clinical social worker” after “such a clinical psychologist”.
 
 Subsec. (k)(2), (3). Pub. L. 100–202, §101(m) \[title VI, §626(3)\], redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “When a contract under this chapter requires payment or reimbursement for services which may be performed by a qualified clinical social worker, an employee, annuitant, family member, or former spouse covered by the contract shall be entitled under the contract to have payment or reimbursement made to him or on his behalf for the services performed. As a condition for the payment or reimbursement, the contract—
 
@@ -102,27 +104,27 @@ Subsec. (k)(2), (3). Pub. L. 100–202, §101(m) \[title VI, §626(3)\], redesig
 
 Subsec. (m)(2)(A). Pub. L. 100–202, §101(m) \[title VI, §626(4)\], struck out “This paragraph shall apply with respect to a qualified clinical social worker covered by subsection (k)(2) of this section without regard to whether such contract contains the requirement authorized by clause (i) of the second sentence of subparagraph (A) of such subsection (k)(2).”
 
-<b>1986</b>—Subsec. (k). Pub. L. 99–251, §105(b), designated existing provisions as par. (1), struck out last sentence providing that the provisions of this subsection shall not apply to group practice prepayment plans, and added pars. (2) and (3).
+1986—Subsec. (k). Pub. L. 99–251, §105(b), designated existing provisions as par. (1), struck out last sentence providing that the provisions of this subsection shall not apply to group practice prepayment plans, and added pars. (2) and (3).
 
 Subsec. (m)(2)(A). Pub. L. 99–251, §106(a)(3), inserted last sentence relating to applicability of this paragraph with respect to a qualified clinical social worker covered by subsection (k)(2) of this section.
 
-<b>1985</b>—Subsecs. (a), (e), (i). Pub. L. 99–53 inserted reference to section 8903a of this title.
+1985—Subsecs. (a), (e), (i). Pub. L. 99–53 inserted reference to section 8903a of this title.
 
-<b>1984</b>—Subsec. (g). Pub. L. 98–615, §3(2)(A), substituted “employee, annuitant, family member, or former spouse” for “employee or annuitant” in two places.
+1984—Subsec. (g). Pub. L. 98–615, §3(2)(A), substituted “employee, annuitant, family member, or former spouse” for “employee or annuitant” in two places.
 
 Subsecs. (j), (k). Pub. L. 98–615, §3(2)(B), substituted “family member, or former spouse” for “or family member”.
 
-<b>1980</b>—Subsec. (m)(2)(A). Pub. L. 96–179 substituted “in a State where 25 percent or more of the population is located in primary medical care manpower shortage areas designated pursuant to section 332 of the Public Health Service Act (42 U.S.C. 254e)” for “who is a member of a medically underserved population (within the meaning of section 1302(7) of the Public Health Service Act (42 U.S.C. 300e–17))”.
+1980—Subsec. (m)(2)(A). Pub. L. 96–179 substituted “in a State where 25 percent or more of the population is located in primary medical care manpower shortage areas designated pursuant to section 332 of the Public Health Service Act (42 U.S.C. 254e)” for “who is a member of a medically underserved population (within the meaning of section 1302(7) of the Public Health Service Act (42 U.S.C. 300e–17))”.
 
-<b>1978</b>—Subsecs. (a), (c) to (e), (i), (j), (<i>l</i>). Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission” and “Office” for “Commission” wherever appearing.
+1978—Subsecs. (a), (c) to (e), (i), (j), (<i>l</i>). Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission” and “Office” for “Commission” wherever appearing.
 
 Subsec. (m). Pub. L. 95–368 added subsec. (m).
 
-<b>1976</b>—Subsec. (<i>l</i>). Pub. L. 94–460 added subsec. (<i>l).</i>
+1976—Subsec. (<i>l</i>). Pub. L. 94–460 added subsec. (<i>l</i>).
 
-<b>1975</b>—Subsecs. (j), (k). Pub. L. 94–183 redesignated subsec. (j), added by Pub. L. 93–363 and relating to services performed by a clinical psychologist or optometrist, as (k).
+1975—Subsecs. (j), (k). Pub. L. 94–183 redesignated subsec. (j), added by Pub. L. 93–363 and relating to services performed by a clinical psychologist or optometrist, as (k).
 
-<b>1974</b>—Subsec. (j). Pub. L. 93–363 added subsec. (j) covering services performed by a clinical psychologist or optometrist.
+1974—Subsec. (j). Pub. L. 93–363 added subsec. (j) covering services performed by a clinical psychologist or optometrist.
 
 Pub. L. 93–246 added subsec. (j) requiring the carrier to pay for or provide a health service or supply in specified cases.
 
@@ -140,7 +142,7 @@ Section 203 of title II of Pub. L. 100–654 provided that:
 
 “(a)
 
-In General.—The amendments made by this title \[enacting section 8905a of this title and amendingthis section and sections 8903, 8905, and 8909 of this title\] shall apply with respect to—
+In General.—The amendments made by this title \[enacting section 8905a of this title and amending this section and sections 8903, 8905, and 8909 of this title\] shall apply with respect to—
 
 &emsp;“(1) any calendar year beginning, and contracts entered into or renewed for any calendar year beginning, after the end of the 9-month period beginning on the date of the enactment of this Act \[Nov. 14, 1988\]; and
 

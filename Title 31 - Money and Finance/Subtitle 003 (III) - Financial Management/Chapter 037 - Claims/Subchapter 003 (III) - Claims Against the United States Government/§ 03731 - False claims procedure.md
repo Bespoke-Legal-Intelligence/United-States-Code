@@ -6,7 +6,7 @@
 
 &emsp;(1) more than 6 years after the date on which the violation of section 3729 is committed, or
 
-&emsp;(2) more than 3 years after the date when facts material to the right of action are known or reasonably should have been known by the official of the United States charged with responsibility to act in the circumstances, but in no event more than 10 years after the date on which the violation is committed,
+&emsp;(2) more than 3 years after the date when facts material to the right of action areknown or reasonably should have been known by the official of the United States charged with responsibility to act in the circumstances, but in no event more than 10 years after the date on which the violation is committed,
 
 > whichever occurs last.
 

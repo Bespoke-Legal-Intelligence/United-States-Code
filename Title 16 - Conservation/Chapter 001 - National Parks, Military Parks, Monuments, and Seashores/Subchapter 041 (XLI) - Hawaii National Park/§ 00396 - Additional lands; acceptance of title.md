@@ -6,7 +6,7 @@ The Secretary of the Interior is authorized, in his discretion and upon submissi
 
 #### Hawaii Volcanoes National Park
 
-Designation of portion of Hawaii National Park situated on island of Hawaii as Hawaii Volcanoes NationalPark, effective Sept. 22, 1961, see section 391d of this title.
+Designation of portion of Hawaii National Park situated on island of Hawaii as Hawaii Volcanoes National Park, effective Sept. 22, 1961, see section 391d of this title.
 
 #### Cross References
 

@@ -6,7 +6,7 @@
 
 &emsp;(1) to advise the Secretary with respect to the physical research program transferred to the Department from the Energy Research and Development Administration;
 
-&emsp;(2) to monitor the Department's energy research and development programs in order toadvise the Secretary with respect to any undesirable duplication or gaps in such programs;
+&emsp;(2) to monitor the Department's energy research and development programs in order to advise the Secretary with respect to any undesirable duplication or gaps in such programs;
 
 &emsp;(3) to advise the Secretary with respect to the well-being and management of the multipurpose laboratories under the jurisdiction of the Department, excluding laboratories that constitute part of the nuclear weapons complex;
 

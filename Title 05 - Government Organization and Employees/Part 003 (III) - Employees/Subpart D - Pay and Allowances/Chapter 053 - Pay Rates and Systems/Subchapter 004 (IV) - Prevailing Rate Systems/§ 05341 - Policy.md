@@ -30,5 +30,5 @@ Section 13 of Pub. L. 92–392 provided that:
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 10 sections 1590, 1604; title 41 section 351.
+This section is referred to in title 10 section 1602; title 41 section 351.
 

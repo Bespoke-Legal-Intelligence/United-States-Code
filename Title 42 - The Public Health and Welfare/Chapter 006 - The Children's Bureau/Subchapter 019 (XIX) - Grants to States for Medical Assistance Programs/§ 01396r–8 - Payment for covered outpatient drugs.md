@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;In order for payment to be available under section 1396b(a) of this title for covered outpatient drugs of a manufacturer, the manufacturer must have entered into and have in effect a rebate agreement described in subsection (b) of this section with the Secretary, on behalf of States (except that, the Secretary may authorize a State to enter directly into agreements with a manufacturer), and must meet the requirements of paragraph (5) (with respect to drugs purchased by a covered entity on or after the first day of the first month that begins after November 4, 1992) and paragraph (6). Any agreement between a State anda manufacturer prior to April 1, 1991, shall be deemed to have been entered into on January 1, 1991, and payment to such manufacturer shall be retroactively calculated as if the agreement between the manufacturer and the State had been entered into on January 1, 1991. If a manufacturer has not entered into such an agreement before March 1, 1991, such an agreement, subsequently entered into, shall not be effective until the first day of the calendar quarter that begins more than 60 days after the date the agreement is entered into.
+&emsp;In order for payment to be available under section 1396b(a) of this title for covered outpatient drugs of a manufacturer, the manufacturer must have entered into and have in effect a rebate agreement described in subsection (b) of this section with the Secretary, on behalf of States (except that, the Secretary may authorize a State to enter directly into agreements with a manufacturer), and must meet the requirements of paragraph (5) (with respect to drugs purchased by a covered entity on or after the first day of the first month that begins after November 4, 1992) and paragraph (6). Any agreement between a State and a manufacturer prior to April 1, 1991, shall be deemed to have been entered into on January 1, 1991, and payment to such manufacturer shall be retroactively calculated as if the agreement between the manufacturer and the State had been entered into on January 1, 1991. If a manufacturer has not entered into such an agreement before March 1, 1991, such an agreement, subsequently entered into, shall not be effective until the first day of the calendar quarter that begins more than 60 days after the date the agreement is entered into.
 
 #### (2) Effective date
 
@@ -38,7 +38,7 @@
 
 #### (ii) State agency
 
-&emsp;&emsp;&emsp;Each such single State agency shall provide a means by which a covered entity shall indicate on any drug reimbursement claims form (or format, where electronic claims management is used) that a unit of the drug that is the subject of the form is subject to an agreement under section 256b of this title, and not submit to any manufacturer a claim for a rebate payment under subsection (b) of this section with respect to such a drug.
+&emsp;&emsp;&emsp;Each such single State agency shall provide a means by which a covered entityshall indicate on any drug reimbursement claims form (or format, where electronic claims management is used) that a unit of the drug that is the subject of the form is subject to an agreement under section 256b of this title, and not submit to any manufacturer a claim for a rebate payment under subsection (b) of this section with respect to such a drug.
 
 #### (D) Effect of subsequent amendments
 
@@ -96,7 +96,7 @@
 
 #### (B) Verification surveys of average manufacturer price
 
-&emsp;&emsp;The Secretary may survey wholesalers and manufacturers that directly distribute their covered outpatient drugs, when necessary, to verify manufacturer prices reported under subparagraph (A). The Secretary may impose a civil monetary penalty in an amount not to exceed $100,000 on a wholesaler, manufacturer, or direct seller, if the wholesaler, manufacturer, or direct seller of a covered outpatient drug refuses a request for information about charges or prices by the Secretary in connection with a survey under this subparagraph or knowingly provides false information. The provisions of section 1320a–7a of this title (other than subsections (a) (with respect to amounts of penalties or additional assessments) and (b)) shall apply to a civil money penalty under this subparagraph in the same manner as such provisions apply to a penalty or proceeding under section 1320a–7a(a) of this title.
+&emsp;&emsp;The Secretary may survey wholesalers and manufacturers that directly distribute theircovered outpatient drugs, when necessary, to verify manufacturer prices reported under subparagraph (A). The Secretary may impose a civil monetary penalty in an amount not to exceed $100,000 on a wholesaler, manufacturer, or direct seller, if the wholesaler, manufacturer, or direct seller of a covered outpatient drug refuses a request for information about charges or prices by the Secretary in connection with a survey under this subparagraph or knowingly provides false information. The provisions of section 1320a–7a of this title (other than subsections (a) (with respect to amounts of penalties or additional assessments) and (b)) shall apply to a civil money penalty under this subparagraph in the same manner as such provisions apply to a penalty or proceeding under section 1320a–7a(a) of this title.
 
 #### (C) Penalties
 
@@ -106,7 +106,7 @@
 
 #### (ii) False information
 
-&emsp;&emsp;&emsp;Any manufacturer with an agreement under this section that knowingly providesfalse information is subject to a civil money penalty in an amount not to exceed $100,000 for each item of false information. Such civil money penalties are in addition to other penalties as may be prescribed by law. The provisions of section 1320a–7a of this title (other than subsections (a) and (b)) shall apply to a civil money penalty under this subparagraph in the same manner as such provisions apply to a penalty or proceeding under section 1320a–7a(a) of this title.
+&emsp;&emsp;&emsp;Any manufacturer with an agreement under this section that knowingly provides false information is subject to a civil money penalty in an amount not to exceed $100,000 for each item of false information. Such civil money penalties are in addition to other penalties as may be prescribed by law. The provisions of section 1320a–7a of this title (other than subsections (a) and (b)) shall apply to a civil money penalty under this subparagraph in the same manner as such provisions apply to a penalty or proceeding under section 1320a–7a(a) of this title.
 
 #### (D) Confidentiality of information
 
@@ -318,7 +318,7 @@
 
 &emsp;A State plan under this subchapter may require, as a condition of coverage or payment for a covered outpatient drug for which Federal financial participation is available in accordance with this section, with respect to drugs dispensed on or after July 1, 1991, the approval of the drug before its dispensing for any medically accepted indication (as defined in subsection (k)(6) of this section) only if the system providing for such approval—
 
-&emsp;&emsp;(A) provides response by telephone or other telecommunication device within 24 hours of a request for prior authorization; and
+&emsp;&emsp;(A) provides response by telephone or other telecommunication device within 24hours of a request for prior authorization; and
 
 &emsp;&emsp;(B) except with respect to the drugs on the list referred to in paragraph (2), provides for the dispensing of at least 72-hour supply of a covered outpatient prescription drug in an emergency situation (as defined by the Secretary).
 
@@ -460,7 +460,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) written, oral, or electronic reminders containing patient-specific or drug-specific (or both) information and suggested changes in prescribing or dispensing practices, communicated in a manner designed to ensure the privacy of patient-related information;
 
-&emsp;&emsp;&emsp;&emsp;(III) use of face-to-face discussions between health care professionals who are experts in rational drug therapy and selected prescribers and pharmacists who have been targeted for educational intervention, including discussion of optimal prescribing, dispensing, or pharmacycare practices, and follow-up face-to-face discussions; and
+&emsp;&emsp;&emsp;&emsp;(III) use of face-to-face discussions between health care professionals who are experts in rational drug therapy and selected prescribers and pharmacists who have been targeted for educational intervention, including discussion of optimal prescribing, dispensing, or pharmacy care practices, and follow-up face-to-face discussions; and
 
 &emsp;&emsp;&emsp;&emsp;(IV) intensified review or monitoring of selected prescribers or dispensers.
 
@@ -568,7 +568,7 @@ In this section—
 
 #### (4) Nonprescription drugs
 
-&emsp;If a State plan for medical assistance under this subchapter includes coverage of prescribed drugs as described in section 1396d(a)(12) of this title and permits coverage of drugs which may be sold without a prescription (commonly referred to as “over-the-counter” drugs), if they are prescribed by a physician (or other person authorized to prescribe under State law), such a drug shall be regarded as a covered outpatient drug.
+&emsp;If a State plan for medical assistance under this subchapter includes coverage of prescribed drugs as described in section 1396d(a)(12) of this title and permits coverage of drugs which may be sold without a prescription (commonly referred to as “over-the-counter” drugs), if they are prescribed by aphysician (or other person authorized to prescribe under State law), such a drug shall be regarded as a covered outpatient drug.
 
 #### (5) Manufacturer
 
@@ -638,7 +638,7 @@ In this section—
 
 Section 107(c)(3) of the Drug Amendments of 1962, referred to in subsec. (k)(2)(A)(iii)(I), is section 107(c)(3) of Pub. L. 87–781 which is set out in an Effective Date of 1962 Amendment note under section 321 of Title 21, Food and Drugs.
 
-The Federal Food, Drug, and Cosmetic Act, referred to in subsecs. (d)(4)(C) and (k)(6), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended, which is classified generally to chapter 9 (§301 et seq.) of Title 21. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
+The Federal Food, Drug, and Cosmetic Act, referred to in subsecs. (d)(4)(C) and (k)(6), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended, which is classified generally to chapter 9 (§301 et seq.) of Title 21. Forcomplete classification of this Act to the Code, see section 301 of Title 21 and Tables.
 
 #### Prior Provisions
 
@@ -658,7 +658,7 @@ Subsec. (c). Pub. L. 103–66, §13602(a)(1), added subsec. (c) and struck out f
 
 Pub. L. 103–18 substituted “such drug, except that for the calendar quarter beginning after September 30, 1992, and before January 1, 1993, the amount of the rebate may not exceed 50 percent of such average manufacturer price;” for “such drug;” in par. (1)(B)(ii)(II).
 
-Subsecs. (d) to (f). Pub. L. 103–66, §13602(a)(1), added subsecs. (d) and (e), struck out former subsecs. (d) consisting of pars. (1) to (8) relating to limitations on coverage of drugs, (e) relating to denial of Federal financial participation in certain cases, and (f)(1) relating to reductions in pharmacy reimbursement limits, and struck out par. designation for former par. (2) of subsec. (f) without supplying a new designation. The textof former subsec. (f)(2) is now the last par. of subsec. (e).
+Subsecs. (d) to (f). Pub. L. 103–66, §13602(a)(1), added subsecs. (d) and (e), struck out former subsecs. (d) consisting of pars. (1) to (8) relating to limitations on coverage of drugs, (e) relating to denial of Federal financial participation in certain cases, and (f)(1) relating to reductions in pharmacy reimbursement limits, and struck out par. designation for former par. (2) of subsec. (f) without supplying a new designation. The text of former subsec. (f)(2) is now the last par. of subsec. (e).
 
 Subsec. (k)(1). Pub. L. 103–66, §13602(a)(2)(B)(i), substituted “rebate period” for “calendar quarter” and inserted before period at end “, after deducting customary prompt pay discounts”.
 
@@ -716,7 +716,7 @@ Section 601(e) of Pub. L. 102–585 provided that: “The amendments made by thi
 
 #### Reports on Best Price Changes and Payment of Rebates
 
-Section 601(d) of Pub. L. 102–585 provided that not later than 90 days after the expiration of each calendar quarter beginning on or after Oct. 1, 1992, and ending on or before Dec. 31, 1995, Secretary of Health and Human Services was to submit to Congress a report containing information as to percentage of single source drugs whose best price either increased, decreased, or stayed the same in comparison to best price during previous calendar quarter, median and mean percentage increase or decrease of such price, and, with respect to drugs for which manufacturers were required to pay rebates under subsec. (c) of this section, Secretary's best estimate, on State-by-State and national aggregate basis, of total amount of rebates paid under subsec. (c) of this section and percentages of such total amounts attributable to rebates paid under pars. (1) to (3) of subsec. (c) of this section, limited consideration to drugs whichare considered significant expenditures under medicaid program, and contained requirements for initial report.
+Section 601(d) of Pub. L. 102–585 provided that not later than 90 days after the expiration of each calendar quarter beginning on or after Oct. 1, 1992, and ending on or before Dec. 31, 1995, Secretary of Health and Human Services was to submit to Congress a report containing information as to percentage of single source drugs whose best price either increased, decreased, or stayed the same in comparison to best price during previous calendar quarter, median and mean percentage increase or decrease of such price, and, with respect to drugs for which manufacturers were required to pay rebates under subsec. (c) of this section, Secretary's best estimate, on State-by-State and national aggregate basis, of total amount of rebates paid under subsec. (c) of this section and percentages of such total amounts attributable to rebates paid under pars. (1) to (3) of subsec. (c) of this section, limited consideration to drugs which are considered significant expenditures under medicaid program, and contained requirements for initial report.
 
 #### Demonstration Projects To Evaluate Efficiency and Cost-Effectiveness of Prospective Drug Utilization Review
 
@@ -724,7 +724,7 @@ Section 4401(c) of title IV of Pub. L. 101–508 directed Secretary of Health an
 
 #### Study of Drug Purchasing and Billing Practices in Health Care Industry; Report
 
-Section 4401(d) of title IV of Pub. L. 101–508 provided that:
+Section 4401(d) of title IV of Pub. L. 101–508, as amended by Pub. L. 104–316, title I, §122(i), Oct. 19, 1996, 110 Stat. 3837, provided that:
 
 “(1)
 
@@ -744,7 +744,7 @@ Study of drug purchasing and billing activities of various health care systems.�
 
 “(2)
 
-Report on drug pricing.—By not later than May 1 of each year, the Comptroller General shall submit to the Secretary, the Committee on Finance of the Senate, the Committee on Energy and Commerce \[now Committee on Commerce\] of the House of Representatives, and the Committees on Aging of the Senate and House of Representatives \[see Change of Name note above\] an annual report on changes in prices charged by manufacturers for prescription drugs to the Department of Veterans Affairs, other Federal programs, retail and hospital pharmacies, and other purchasing groups and managed care plans.
+Report on drug pricing.—The Comptroller General shall submit to the Secretary, the Committee on Finance of the Senate, the Committee on Energy and Commerce \[now Committee on Commerce\] of the House of Representatives, and the Committees on Aging of the Senate and House of Representatives \[see Change of Name note above\] a report on changes in prices charged by manufacturers for prescription drugs to the Department of Veterans Affairs, other Federal programs, hospital pharmacies, and other purchasing groups and managed care plans.
 
 “(3)
 
@@ -768,11 +768,7 @@ Study on reimbursement rates to pharmacists.—
 
 “(5)
 
-Study of payments for vaccines.—The Secretary of Health and Human Services shall undertake a study of the relationship between State medical assistance plans and Federal and State acquisition and reimbursement policies for vaccines and the accessibility of vaccinations and immunization to children provided under this title. The Secretary shall report to the Congress on the Study not later than one year after the date of the enactment of this Act \[Nov. 5, 1990\].
-
-“(6)
-
-Study on application of discounting of drugs under medicare.—The Comptroller General shall conduct a study examining methods to encourage providers of items and services under title XVIII of the Social Security Act \[subchapter XVIII of this chapter\] to negotiate discounts with suppliers of prescription drugs to such providers. The Comptroller General shall submit to Congress a report on such study no later than 1 year after the date of enactment of this subsection \[Nov. 5, 1990\].”
+Study of payments for vaccines.—The Secretary of Health and Human Services shall undertake a study of the relationship between State medical assistance plans and Federal and State acquisition and reimbursement policies for vaccines and the accessibility ofvaccinations and immunization to children provided under this title. The Secretary shall report to the Congress on the Study not later than one year after the date of the enactment of this Act \[Nov. 5, 1990\].”
 
 #### Section Referred to in Other Sections
 

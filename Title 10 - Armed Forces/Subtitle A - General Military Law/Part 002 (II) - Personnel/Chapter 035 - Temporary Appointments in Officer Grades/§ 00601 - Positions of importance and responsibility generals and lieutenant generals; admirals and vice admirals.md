@@ -2,15 +2,15 @@
 
 (a) The President may designate positions of importance and responsibility to carry the grade of general or admiral or lieutenant general or vice admiral. The President may assign to any such position an officer of the Army, Navy, Air Force, or Marine Corps who is serving on active duty in any grade above colonel or, in the case of an officer of the Navy, any grade above captain. An officer assigned to any such position has the grade specified for that position if he is appointed to that grade by the President, by and with the advice and consent of the Senate. Except as provided in subsection (b), the appointment of an officer to a grade under this section for service in a position of importance and responsibility ends on the date of the termination of the assignment of the officer to that position.
 
-(b) An officer who is appointed to the grade of general, admiral, lieutenant general, or vice admiral for service in a position of importance and responsibility designated to carry that grade shall continue to hold that grade—
+(b) An officer who is appointed to the grade of general, admiral, lieutenant general, or vice admiral for service in a position designated under subsection (a) or by law to carry that grade shall continue to hold that grade—
 
-&emsp;(1) while serving in that position of importance and responsibility;
+&emsp;(1) while serving in that position;
 
-&emsp;(2) while under orders transferring him to another position designating to carry one of those grades, beginning on the day his assignment to the first position is terminated and ending on the day before the day on which he assumes the second position;
+&emsp;(2) while under orders transferring him to another position designated under subsection (a) or by law to carry one of those grades, beginning on the day his assignment to the first position is terminated and ending on the day before the day on which he assumes the second position;
 
 &emsp;(3) while hospitalized, beginning on the day of the hospitalization and ending on the day he is discharged from the hospital, but not for more than 180 days; and
 
-&emsp;(4) while awaiting retirement, beginning on the day he is relieved from the position designated to carry one of those grades and ending on the day before his retirement, but not for more than 60 days.
+&emsp;(4) while awaiting retirement, beginning on the day he is relieved from the position designated under subsection (a) or by law to carry one of those grades and ending on the day before his retirement, but not for more than 60 days.
 
 (c)(1) An appointment of an officer under subsection (a) does not vacate the permanent grade held by the officer.
 
@@ -20,9 +20,17 @@
 
 (2) Whenever a vacancy occurs in a position within the Department of Defense that the President has designated as a position of importance and responsibility to carry the grade of general or admiral or lieutenant general or vice admiral or in an office that is designated by law to carry such a grade, the Secretary of Defense shall inform the President of the qualifications needed by an officer serving in that position or office to carry out effectively the duties and responsibilities of that position or office.
 
-(Added Pub. L. 96–513, title I, §105, Dec. 12, 1980, 94 Stat. 2849; amended Pub. L. 97–86, title IV, §405(b)(1), Dec. 1, 1981, 95 Stat. 1105; Pub. L. 98–525, title V, §523, Oct. 19, 1984, 98 Stat. 2523; Pub. L. 99–145, title V, §514(b)(1), Nov. 8, 1985, 99 Stat. 628; Pub. L. 99–433, title IV, §403, Oct. 1, 1986, 100 Stat. 1031; Pub. L. 102–190, div. A, title V, §502(a), Dec. 5, 1991, 105 Stat. 1354.)
+(Added Pub. L. 96–513, title I, §105, Dec. 12, 1980, 94 Stat. 2849; amended Pub. L. 97–86, title IV, §405(b)(1), Dec. 1, 1981, 95 Stat. 1105; Pub. L. 98–525, title V, §523, Oct. 19, 1984, 98 Stat. 2523; Pub. L. 99–145, title V, §514(b)(1), Nov. 8, 1985, 99 Stat. 628; Pub. L. 99–433, title IV, §403, Oct. 1, 1986, 100 Stat. 1031; Pub. L. 102–190, div. A, title V, §502(a), Dec. 5, 1991, 105 Stat. 1354; Pub. L. 104–106, div. A, title IV, §403(c), Feb. 10, 1996, 110 Stat. 287.)
 
 #### Amendments
+
+1996—Subsec. (b). Pub. L. 104–106, §403(c)(1), in introductory provisions substituted “designated under subsection (a) or by law” for “of importance and responsibility designated”.
+
+Subsec. (b)(1). Pub. L. 104–106, §403(c)(2), struck out “of importance and responsibility” after “position”.
+
+Subsec. (b)(2). Pub. L. 104–106, §403(c)(3), substituted “designated under subsection (a) or by law” for “designating”.
+
+Subsec. (b)(4). Pub. L. 104–106, §403(c)(4), inserted “under subsection (a) or by law” after “designated”.
 
 1991—Subsec. (b)(4). Pub. L. 102–190 substituted “60 days” for “90 days”.
 
@@ -44,7 +52,7 @@ Amendment by Pub. L. 97–86 effective Sept. 15, 1981, see section 405(f) of Pub
 
 #### Effective Date
 
-Chapter effective Sept. 15, 1981, but the authority to prescribe regulations under this chapter effective on Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as an Effective Date of 1980 Amendment note under section 101 of this title.
+Chapter effective Sept. 15, 1981, but the authority to prescribe regulations under this chapter effective on Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out asan Effective Date of 1980 Amendment note under section 101 of this title.
 
 #### Transition Provisions Under Defense Officer Personnel Management Act
 
@@ -52,5 +60,5 @@ For provisions relating to temporary appointments of officers serving in grades 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 164, 720, 1370, 6325 of this title.
+This section is referred to in sections 164, 441, 525, 528, 720, 6325 of this title.
 

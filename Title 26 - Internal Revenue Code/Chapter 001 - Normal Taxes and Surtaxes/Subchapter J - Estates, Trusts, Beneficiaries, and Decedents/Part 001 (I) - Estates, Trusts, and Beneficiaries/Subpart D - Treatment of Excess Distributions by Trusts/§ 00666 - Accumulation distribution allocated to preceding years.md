@@ -2,7 +2,7 @@
 
 #### (a) Amount allocated
 
-In the case of a trust which is subject to subpart C, the amount of the accumulation distribution of such trust for a taxable year shall be deemed to be an amount within the meaningof paragraph (2) of section 661(a) distributed on the last day of each of the preceding taxable years, commencing with the earliest of such years, to the extent that such amount exceeds the total of any undistributed net income for all earlier preceding taxable years. The amount deemed to be distributed in any such preceding taxable year under the preceding sentence shall not exceed the undistributed net income for such preceding taxable year. For purposes of this subsection, undistributed net income for each of such preceding taxable years shall be computed without regard to such accumulation distribution and without regard to any accumulation distribution determined for any succeeding taxable year.
+In the case of a trust which is subject to subpart C, the amount of the accumulation distribution of such trust for a taxable year shall be deemed to be an amount within the meaning of paragraph (2) of section 661(a) distributed on the last day of each of the preceding taxable years, commencing with the earliest of such years, to the extent that such amount exceeds the total of any undistributed net income for all earlier preceding taxable years. The amount deemed to be distributed in any such preceding taxable year under the preceding sentence shall not exceed the undistributed net income for such preceding taxable year. For purposes of this subsection, undistributed net income for each of such preceding taxable years shall be computed without regard to such accumulation distribution and without regard to any accumulation distribution determined for any succeeding taxable year.
 
 #### (b) Total taxes deemed distributed
 
@@ -38,7 +38,7 @@ Subsec. (c). Pub. L. 91–172 inserted “attributable to the undistributed net 
 
 Subsec. (d). Pub. L. 91–172 added subsec. (d).
 
-1962—Subsec. (a). Pub. L. 87–834 inserted “(other than a foreign trust created by a United States person)” after “In the case of a trust”, and inserted sentence making this subsection applicable, in the case of a foreign trust created by a United States person, to the preceding taxable years of the trust without regard to any provision of the preceding sentences of this subsection which would (but for this sentence) limit its application to the 5 preceding taxable years.
+1962—Subsec. (a). Pub. L. 87–834 inserted “(other than a foreign trust created by a United States person)” after “In the case of a trust”, and inserted sentence making this subsection applicable, in the case of a foreign trust created by a United States person, to thepreceding taxable years of the trust without regard to any provision of the preceding sentences of this subsection which would (but for this sentence) limit its application to the 5 preceding taxable years.
 
 #### Effective Date of 1980 Amendment
 

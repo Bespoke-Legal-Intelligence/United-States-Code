@@ -3,12 +3,14 @@
 | Sec. |  |
 | :--- | ---: |
 | [7231\.](%C2%A7%2007231%20-%20Failure%20to%20obtain%20license%20for%20collection%20of%20foreign%20items.md) | Failure to obtain license for collection of foreign items. |
-| [7232\.](%C2%A7%2007232%20-%20Failure%20to%20register%2C%20or%20false%20statement%20by%20manufacturer%20or%20producer%20of%20gasoline%2C%20lubricating%20oil%2C%20diesel%20fuel%2C%20or%20aviation%20fuel.md) | Failure to register, or false statement by manufacturer or producer of gasoline, lubricating oil, diesel fuel, or aviation fuel. |
+| [7232\.](%C2%A7%2007232%20-%20Failure%20to%20register%2C%20or%20false%20statement%20by%20manufacturer%20or%20producer%20of%20gasoline%2C%20diesel%20fuel%2C%20or%20aviation%20fuel.md) | Failure to register, or false statement by manufacturer or producer of gasoline, diesel fuel, or aviation fuel. |
 | \[7233 to 7241. Repealed.\] |  |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1996—Pub. L. 104–188, title I, §1704(t)(20)(B), Aug. 20, 1996, 110 Stat. 1888, struck out “lubricating oil,” after “gasoline,” in item 7232.
 
 1990—Pub. L. 101–508, title XI, §11801(c)(22)(D)(ii), Nov. 5, 1990, 104 Stat. 1388–528, struck out item 7240 “Officials investing or speculating in sugar”.
 
@@ -34,7 +36,7 @@ Pub. L. 100–418, title I, §1941(b)(3)(F), Aug. 23, 1988, 102 Stat. 1324, stru
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
 - [&sect; 07231 - Failure to obtain license for collection of foreign items](%C2%A7%2007231%20-%20Failure%20to%20obtain%20license%20for%20collection%20of%20foreign%20items.md)
-- [&sect; 07232 - Failure to register, or false statement by manufacturer or producer of gasoline, lubricating oil, diesel fuel, or aviation fuel](%C2%A7%2007232%20-%20Failure%20to%20register%2C%20or%20false%20statement%20by%20manufacturer%20or%20producer%20of%20gasoline%2C%20lubricating%20oil%2C%20diesel%20fuel%2C%20or%20aviation%20fuel.md)
+- [&sect; 07232 - Failure to register, or false statement by manufacturer or producer of gasoline, diesel fuel, or aviation fuel](%C2%A7%2007232%20-%20Failure%20to%20register%2C%20or%20false%20statement%20by%20manufacturer%20or%20producer%20of%20gasoline%2C%20diesel%20fuel%2C%20or%20aviation%20fuel.md)
 - [&sect; 07233 - Repealed. Pub. L. 94&#8211;455, title XIX, &sect;1952(n)(2)(A), Oct. 4, 1976, 90 Stat. 1846](%C2%A7%2007233%20-%20Repealed.%20Pub.%20L.%2094%E2%80%93455%2C%20title%20XIX%2C%20%C2%A71952%28n%29%282%29%28A%29%2C%20Oct.%204%2C%201976%2C%2090%20Stat.%201846.md)
 - [&sect; 07234 - Repealed. Pub. L. 94&#8211;455, title XIX, &sect;1904(b)(7)(B)(i), Oct. 4, 1976, 90 Stat. 1815](%C2%A7%2007234%20-%20Repealed.%20Pub.%20L.%2094%E2%80%93455%2C%20title%20XIX%2C%20%C2%A71904%28b%29%287%29%28B%29%28i%29%2C%20Oct.%204%2C%201976%2C%2090%20Stat.%201815.md)
 - [&sect; 07235 - Repealed. Pub. L. 94&#8211;455, title XIX, &sect;1904(b)(9)(B)(i), Oct. 4, 1976, 90 Stat. 1816](%C2%A7%2007235%20-%20Repealed.%20Pub.%20L.%2094%E2%80%93455%2C%20title%20XIX%2C%20%C2%A71904%28b%29%289%29%28B%29%28i%29%2C%20Oct.%204%2C%201976%2C%2090%20Stat.%201816.md)

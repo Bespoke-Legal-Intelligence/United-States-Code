@@ -1,6 +1,6 @@
 ### §3904. Limitations on discount payments
 
-The head of an agency offered a discount by a business concern from an amount due under a contract for property or service in exchange for payment within a specified time may pay the discounted amount only if payment is made within the specified time. For the purpose of the preceding sentence, the specified time shall be determined from the date of the invoice. The head of the agency shall pay an interest penalty on an amount remaining unpaid in violation of this section. The penalty accrues as provided under sections 3902 and 3903 of this title, except that the required payment date for the unpaid amount is the last day specified in the contract that the discounted amount may be paid.
+The head of an agency offered a discount by a business concern from an amount due under a contract for property or service in exchange for payment within a specified time may pay thediscounted amount only if payment is made within the specified time. For the purpose of the preceding sentence, the specified time shall be determined from the date of the invoice. The head of the agency shall pay an interest penalty on an amount remaining unpaid in violation of this section. The penalty accrues as provided under sections 3902 and 3903 of this title, except that the required payment date for the unpaid amount is the last day specified in the contract that the discounted amount may be paid.
 
 (Added Pub. L. 97–452, §1(18)(A), Jan. 12, 1983, 96 Stat. 2476; amended Pub. L. 100–496, §8, Oct. 17, 1988, 102 Stat. 2460.)
 

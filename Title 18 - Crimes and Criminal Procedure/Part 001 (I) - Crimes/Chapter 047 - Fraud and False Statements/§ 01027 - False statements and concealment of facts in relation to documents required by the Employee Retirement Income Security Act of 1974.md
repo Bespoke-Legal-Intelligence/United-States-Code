@@ -24,5 +24,5 @@ Section effective 90 days after Mar. 20, 1962, see section 19 of Pub. L. 87–42
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 29 sections 1031, 1111.
+This section is referred to in section 24 of this title; title 29 sections 1031, 1111.
 

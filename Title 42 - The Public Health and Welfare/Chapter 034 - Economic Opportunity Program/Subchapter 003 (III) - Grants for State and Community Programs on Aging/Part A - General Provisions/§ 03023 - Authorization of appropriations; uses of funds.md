@@ -62,7 +62,7 @@ Subsec. (g). Pub. L. 102–375, §303(f), amended subsec. (g) generally. Prior t
 
 Subsec. (h). Pub. L. 102–375, §303(g), struck out subsec. (h) which read as follows: “No funds may be appropriated under subsection (a)(2), (a)(3), (e), (f), or (g) of this section for a fiscal year unless the aggregate amount appropriated for such fiscal year to carry out this subchapter (other than sections 3026(a)(6)(P), 3027(a)(12), and 3030a of this title, and parts E, F, and G of this subchapter), subchapter IV of this chapter (other than sections 3035f and 3035g of this title), subchapter IX of this chapter, and subchapter X of this chapter exceeds 105 percent of the aggregate amount appropriated for the preceding fiscal year to carry out such subchapters.”
 
-1987—Subsec. (a). Pub. L. 100–175, §§129(c)(1), 155(b), designated existing provisions as par. (1), inserted “for purposes other than outreach activities and application assistance under section 3027(a)(31) of this title”, and added pars. (2) and (3).
+1987—Subsec. (a). Pub. L. 100–175, §§129(c)(1), 155(b), designated existing provisions as par. (1), inserted “forpurposes other than outreach activities and application assistance under section 3027(a)(31) of this title”, and added pars. (2) and (3).
 
 Pub. L. 100–175, §122(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “There are authorized to be appropriated $350,300,000 for fiscal year 1984, $325,700,000 for fiscal year 1985, $343,600,000 for fiscal year 1986, and $361,500,000 for fiscal year 1987, for the purpose of making grants under part B of this subchapter (relating to supportive services and senior centers).”
 

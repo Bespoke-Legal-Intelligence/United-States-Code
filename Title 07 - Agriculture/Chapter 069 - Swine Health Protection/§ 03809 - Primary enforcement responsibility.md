@@ -16,13 +16,27 @@ For purposes of this chapter, a State shall have the primary enforcement respons
 
 Whenever the Secretary determines that a State having primary enforcement responsibility pursuant to this section does not have adequate laws or regulations or is not effectively enforcing such laws or regulations, the Secretary shall notify the State. Such notice shall specify those aspects of the administration or enforcement of the State program that are determined to be inadequate. The State shall have ninety days after receipt of the notice to correct any deficiencies. If after that time the Secretary determines that the State program remains inadequate, the Secretary may terminate, in whole or in part, the State's primary enforcement responsibility under this chapter.
 
-#### (c) Emergency conditions
+#### (c) Request of State official
 
-Nothing in this section shall limit the authority of the Secretary to enforce this chapter whenever the Secretary determines that emergency conditions exist that require immediate action on the part of the Secretary and theState authority is unwilling or unable adequately to respond to the emergency.
+#### (1) In general
 
-(Pub. L. 96–468, §10, Oct. 17, 1980, 94 Stat. 2233.)
+&emsp;On request of the Governor or other appropriate official of a State, the Secretary may terminate, effective as soon as the Secretary determines is practicable, the primary enforcement responsibility of a State under subsection (a) of this section. In terminating the primary enforcement responsibility under this subsection, the Secretary shall work with the appropriate State official to determine the level of support to be provided to the Secretary by the State under this chapter.
+
+#### (2) Reassumption
+
+&emsp;Nothing in this subsection shall prevent a State from reassuming primary enforcement responsibility if the Secretary determines that the State meets the requirements of subsection (a) of this section.
+
+#### (d) Emergency conditions
+
+Nothing in this section shall limit the authority of the Secretary to enforce this chapter whenever the Secretary determines that emergency conditions exist that require immediate action on the part of the Secretary and the State authority is unwilling or unable adequately to respond to the emergency.
+
+(Pub. L. 96–468, §10, Oct. 17, 1980, 94 Stat. 2233; Pub. L. 104–127, title IX, §914(a), Apr. 4, 1996, 110 Stat. 1186.)
+
+#### Amendments
+
+1996—Subsecs. (c), (d). Pub. L. 104–127 added subsec. (c) and redesignated former subsec. (c) as (d).
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3803, 3804, 3810 of this title.
+This section is referred to in sections 3803, 3804 of this title.
 

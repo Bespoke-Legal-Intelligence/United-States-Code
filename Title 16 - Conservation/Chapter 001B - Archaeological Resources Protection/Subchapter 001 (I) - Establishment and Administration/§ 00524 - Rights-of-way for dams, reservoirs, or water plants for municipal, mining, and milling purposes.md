@@ -14,7 +14,7 @@ Rights-of-way for the construction and maintenance of dams, reservoirs, water pl
 
 #### Savings Provision
 
-Repeal by Pub. L. 94–579, title VII, §706(a), Oct. 21, 1976, 90 Stat. 2793, insofar as applicable to the issuance of rights-of-way, not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see note set out under section 1701 of Title 43, Public Lands.
+Repeal by Pub. L. 94–579, title VII, §706(a), Oct. 21, 1976, 90 Stat. 2793, insofar as applicable to the issuanceof rights-of-way, not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see note set out under section 1701 of Title 43, Public Lands.
 
 #### Section Referred to in Other Sections
 

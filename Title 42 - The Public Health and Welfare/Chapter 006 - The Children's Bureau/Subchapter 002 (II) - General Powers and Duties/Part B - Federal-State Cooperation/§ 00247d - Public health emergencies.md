@@ -2,7 +2,7 @@
 
 #### (a) Determination of existence of emergency; authorization to act
 
-If the Secretary determines, after consultation with the Director of the National Institutes of Health, the Administrator of the SubstanceAbuse and Mental Health Services Administration, the Commissioner of the Food and Drug Administration, the Administrator of Health Resources and Services, or the Director of the Centers for Disease Control and Prevention, that—
+If the Secretary determines, after consultation with the Director of the National Institutes of Health, the Administrator of the Substance Abuse and Mental Health Services Administration, the Commissioner of the Food and Drug Administration, the Administrator of Health Resources and Services, or the Director of the Centers for Disease Control and Prevention, that—
 
 &emsp;(1) a disease or disorder presents a public health emergency, or
 
@@ -24,7 +24,7 @@ If the Secretary determines, after consultation with the Director of the Nationa
 
 #### Prior Provisions
 
-A prior section 247d, act July 1, 1944, ch. 373, title III, §319, formerly §310, as added Sept. 25, 1962, Pub. L. 87–692, 76 Stat. 592; amended Aug. 5, 1965, Pub. L. 89–109, §3, 79 Stat. 436; Oct. 15, 1968, Pub. L. 90–574, title II, §201, 82 Stat. 1006; Mar. 12, 1970, Pub. L. 91–209, 84 Stat. 52; June 18, 1973, Pub. L. 93–45, title I, §105, 87 Stat. 91; renumbered §319, July 23, 1974, Pub. L. 93–353, title I, §102(d), 88 Stat. 362; amended July 29, 1975, Pub. L. 94–63, title IV, §401(a), title VII, §701(c), 89 Stat. 334, 352; Apr. 22, 1976, Pub. L. 94–278, title VIII, §801(a), 90 Stat. 414, relating to migrant health centers, was renumbered section 329 of act July 1, 1944, by Pub. L. 95–626 and transferred to section 254b of this title.
+A prior section 247d, act July 1, 1944, ch. 373, title III, §319, formerly §310, as added Sept. 25, 1962, Pub. L. 87–692, 76 Stat. 592, and amended and renumbered, which related to migrant health centers, was renumbered section 329 of act July 1, 1944, by Pub. L. 95–626, title I, §102(a), Nov. 10, 1978, 92 Stat. 3551, and transferred to section 254b of this title, prior to being omitted in the general amendment of subpart I (§254b et seq.) of part D of this subchapter by Pub. L. 104–299, §2.
 
 #### Amendments
 

@@ -24,7 +24,7 @@ The Metropolitan police force of the District of Columbia are <sup>1</sup> auth
 
 #### (c) Termination of authority; reporting requirements; duties with respect to an official guest of Supreme Court
 
-The authority created under subsection (a)(2) of this section shall expire on December 29, 1996. The Marshal of the Supreme Court shall report annually to the Congress on March 1 regarding the administrative cost of carrying out his duties under such subsection. Duties under subsection (a)(2)(A) of this section with respect to an official guest of the Supreme Court in any part of the United States (other than the District of Columbia, Maryland, and Virginia) shall be authorized in writing by the Chief Justice of the United States or an Associate Justice of the Supreme Court, if such duties require the carrying of firearms under subsection (a)(5) of this section.
+The authority created under subsection (a)(2) of this section shall expire on December 29, 2000. The Marshal of the Supreme Court shall report annually to the Congress on March 1 regarding the administrative cost of carrying out his duties under such subsection. Duties under subsection (a)(2)(A) of this section with respect to an official guest of the Supreme Court in any part of the United States (other than the District of Columbia, Maryland, and Virginia) shall be authorized in writing by the Chief Justice of the United States or an Associate Justice of the Supreme Court, if such duties require the carrying of firearms under subsection (a)(5) of this section.
 
 #### (d) Definitions
 
@@ -36,9 +36,11 @@ As used in sections 13f to 13p of this title, the term—
 
 &emsp;(3) “United States”, when used in a geographical sense, means the several States, the District of Columbia, the Commonwealth of Puerto Rico, and any territory or possession of the United States.
 
-(Aug. 18, 1949, ch. 479, §9, 63 Stat. 617; Dec. 24, 1973, Pub. L. 93–198, title VII, §739(g)(8), 87 Stat. 829; Dec. 29, 1982, Pub. L. 97–390, §1(c), 96 Stat. 1957; Dec. 26, 1985, Pub. L. 99–218, 99 Stat. 1729; Oct. 16, 1986, Pub. L. 99–492, §1, 100 Stat. 1240; Oct. 25, 1990, Pub. L. 101–462, 104 Stat. 1079; Dec. 14, 1993, Pub. L. 103–193, 107 Stat. 2293.)
+(Aug. 18, 1949, ch. 479, §9, 63 Stat. 617; Dec. 24, 1973, Pub. L. 93–198, title VII, §739(g)(8), 87 Stat. 829; Dec. 29, 1982, Pub. L. 97–390, §1(c), 96 Stat. 1957; Dec. 26, 1985, Pub. L. 99–218, 99 Stat. 1729; Oct. 16, 1986, Pub. L. 99–492, §1, 100 Stat. 1240; Oct. 25, 1990, Pub. L. 101–462, 104 Stat. 1079; Dec. 14, 1993, Pub. L. 103–193, 107 Stat. 2293; Oct. 9, 1996, Pub. L. 104–280, §1, 110 Stat. 3359.)
 
 #### Amendments
+
+1996—Subsec. (c). Pub. L. 104–280 substituted “2000” for “1996”.
 
 1993—Subsec. (c). Pub. L. 103–193 substituted “1996” for “1993”.
 
@@ -54,7 +56,7 @@ Subsec. (b). Pub. L. 97–390, §1(c)(1), designated as subsec. (b) the provisio
 
 Subsecs. (c), (d). Pub. L. 97–390, §1(c)(2), added subsecs. (c) and (d).
 
-1973—Pub. L. 93–198 substituted “, any law of the District of Columbia, or of any State,” for “or of any State”.
+1973—Pub. L. 93–198 substituted “, any law of the District of Columbia, or of any State,” for “or of any State”.
 
 #### Effective Date of 1973 Amendment
 

@@ -18,7 +18,7 @@ Section is part of section 16 of Act May 22, 1917. Section 16 is also classified
 
 1991—Pub. L. 102–54 substituted “Secretary of Veterans Affairs” for “Veterans’ Administration”.
 
-1956—Act Aug. 1, 1956, substituted provision that active service of commissioned officers shall be deemed to be active military service for the purposes of all laws administered by the Veterans’ Administration (except the Servicemen's Indemnity Act of 1951) and section 417 of title 42, and for the purposes of section 410 of title 42 as in effect prior to the Social Security Act Amendments of 1950 for former provision granting the benefit of all provisions of law relating to disability incurred in line of duty or loss of life to members of theCoast and Geodetic Survey while actually employed in active service under orders of the War or Navy Department.
+1956—Act Aug. 1, 1956, substituted provision that active service of commissioned officers shall be deemed to be active military service for the purposes of all laws administered by the Veterans’ Administration (except the Servicemen's Indemnity Act of 1951) and section 417 of title 42, and for the purposes of section 410 of title 42 as in effect prior to the Social Security Act Amendments of 1950 for former provision granting the benefit of all provisions of law relating to disability incurred in line of duty or loss of life to members of the Coast and Geodetic Survey while actually employed in active service under orders of the War or Navy Department.
 
 #### Effective Date of 1956 Amendment; Applicability
 

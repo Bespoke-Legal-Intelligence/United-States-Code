@@ -18,7 +18,7 @@
 
 &emsp;&emsp;(A) has an application for any compensation, grant, contract, ruling, license, permit, or certificate pending before the employing office of such employee; or
 
-&emsp;&emsp;(B) is the subject of or a participant in an ongoing audit, investigation, or enforcementaction being carried out by the employing office of such employee.
+&emsp;&emsp;(B) is the subject of or a participant in an ongoing audit, investigation, or enforcement action being carried out by the employing office of such employee.
 
 (b)(1) An employee of the Federal Election Commission (except one appointed by the President, by and with the advice and consent of the Senate), may not request or receive from, or give to, an employee, a Member of Congress, or an officer of a uniformed service a political contribution.
 
@@ -52,7 +52,7 @@
 
 &emsp;&emsp;(XII) the Office of Law Enforcement of the Bureau of Alcohol, Tobacco, and Firearms; or
 
-&emsp;&emsp;(XIII) the Central Imagery Office; or
+&emsp;&emsp;(XIII) the National Imagery and Mapping Agency; or
 
 &emsp;(ii) a person employed in a position described under section 3132(a)(4), 5372, or 5372a of title 5, United States Code.
 
@@ -62,7 +62,7 @@
 
 (c) An employee retains the right to vote as he chooses and to express his opinion on political subjects and candidates.
 
-(Added Pub. L. 103–94, §2(a), Oct. 6, 1993, 107 Stat. 1002; amended Pub. L. 103–359, title V, §501(k), Oct. 14, 1994, 108 Stat. 3430.)
+(Added Pub. L. 103–94, §2(a), Oct. 6, 1993, 107 Stat. 1002; amended Pub. L. 103–359, title V, §501(k), Oct. 14, 1994, 108 Stat. 3430; Pub. L. 104–201, div. A, title XI, §1122(a)(1), Sept. 23, 1996, 110 Stat. 2687.)
 
 #### References in Text
 
@@ -74,7 +74,13 @@ A prior section 7323, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 525, prohibited 
 
 #### Amendments
 
-<b>1994</b>—Subsec. (b)(2)(B)(i)(XIII). Pub. L. 103–359 added subcl. (XIII).
+1996—Subsec. (b)(2)(B)(i)(XIII). Pub. L. 104–201 substituted “National Imagery and Mapping Agency” for “Central Imagery Office”.
+
+1994—Subsec. (b)(2)(B)(i)(XIII). Pub. L. 103–359 added subcl. (XIII).
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–201 effective Oct. 1, 1996, see section 1124 of Pub. L. 104–201, set out as a note under section 193 of Title 10, Armed Forces.
 
 #### Section Referred to in Other Sections
 

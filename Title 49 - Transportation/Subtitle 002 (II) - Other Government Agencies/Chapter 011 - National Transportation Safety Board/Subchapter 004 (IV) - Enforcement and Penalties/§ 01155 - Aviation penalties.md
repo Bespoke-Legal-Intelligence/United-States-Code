@@ -2,7 +2,7 @@
 
 (a)
 
-Civil Penalty.—(1) A person violating section 1132 or 1134(b) or (f)(1) (related to an aircraft accident) of this title or a regulation prescribed or order issued under either of those sections is liable to the United States Government for a civil penalty of not more than $1,000. A separate violation occurs for each day a violation continues.
+Civil Penalty.—(1) A person violating section 1132, section 1134(b), section 1134(f)(1), or section 1136(g) (related to an aircraft accident) of this title or a regulation prescribed or order issued under any of those sections is liable to the United States Government for a civil penalty of not more than $1,000. A separate violation occurs for each day a violation continues.
 
 (2) This subsection does not apply to a member of the armed forces of the United States or an employee of the Department of Defense subject to the Uniform Code of Military Justice when the member or employee is performing official duties. The appropriate military authorities are responsible for taking necessary disciplinary action and submitting to the National Transportation Safety Board a timely report on action taken.
 
@@ -16,11 +16,13 @@ Civil Penalty.—(1) A person violating section 1132 or 1134(b) or (f)(1) (relat
 
 Criminal Penalty.—A person that knowingly and without authority removes, conceals, or withholds a part of a civil aircraft involved in an accident, or property on the aircraft at the time of the accident, shall be fined under title 18, imprisoned for not more than 10 years, or both.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 758.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 758; Pub. L. 104–264, title VII, §702(b), Oct. 9, 1996, 110 Stat. 3267.)
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -40,7 +42,7 @@ Oct. 15, 1966, Pub. L. 89–670, §6(d) (1st sentence), 80 Stat. 938.
 
 &nbsp;
 
-49 App.:1903(a) (1)(A).
+49 App.:1903(a)(1)(A).
 
 Jan. 3, 1975, Pub. L. 93–633, §304(a)(1)(A), 88 Stat. 2168.
 
@@ -56,7 +58,7 @@ Aug. 23, 1958, Pub. L. 85–726, §901(a)(2) (related to title VII), 72 Stat. 78
 
 &nbsp;
 
-49 App.:1903(a) (1)(A).
+49 App.:1903(a)(1)(A).
 
 1155(a)(5)
 
@@ -76,7 +78,7 @@ Aug. 23, 1958, Pub. L. 85–726, §903(b)(4), 72 Stat. 787.
 
 &nbsp;
 
-49 App.:1903(a) (1)(A).
+49 App.:1903(a)(1)(A).
 
 1155(b)
 
@@ -99,6 +101,14 @@ The Uniform Code of Military Justice, referred to in subsec. (a)(2), is classifi
 #### Prior Provisions
 
 Prior chapter 31 (§§3101–3104) of subtitle II redesignated and restated as chapter 315 (§§31501–31504) of subtitle VI of this title by Pub. L. 103–272, §1(c), (e).
+
+#### Amendments
+
+1996—Subsec. (a)(1). Pub. L. 104–264 substituted “, section 1134(b), section 1134(f)(1), or section 1136(g)” for “or 1134(b) or (f)(1)” and “any of” for “either of”.
+
+#### Effective Date of 1996 Amendment
+
+Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -2,7 +2,7 @@
 
 #### (a) Domestic program requirements
 
-Except as may otherwise be provided in this joint resolution, all United States Federal programs and services extended to or operated in the Federated States of Micronesia or the Marshall Islands are and shall remain subject to all applicable criteria, standards, reporting requirements, auditing procedures, and other rules and regulations applicable to such programs when operating in the United States (including its territories and commonwealths).
+Except as may otherwise be provided in this joint resolution, all United States Federal programs and services extended to or operated inthe Federated States of Micronesia or the Marshall Islands are and shall remain subject to all applicable criteria, standards, reporting requirements, auditing procedures, and other rules and regulations applicable to such programs when operating in the United States (including its territories and commonwealths).
 
 #### (b) Relations with Federated States of Micronesia and Marshall Islands
 
@@ -96,7 +96,7 @@ In furtherance of the provisions of Title Four, Article V, sections 452 and 453 
 
 #### (2) Palau
 
-&emsp;Upon the effective date of the Compact, the laws of the United States generally applicable to the Trust Territory of the Pacific Islands shall continue to apply to the Republic of Palau and the Republic of Palau shall be eligible for such proportion of Federal assistance as it would otherwise have been eligible to receive under such laws prior to the effective date of the Compact, as provided in appropriation Acts or other Acts of Congress.
+&emsp;Upon the effective date of the Compact, the laws of the United States generally applicableto the Trust Territory of the Pacific Islands shall continue to apply to the Republic of Palau and the Republic of Palau shall be eligible for such proportion of Federal assistance as it would otherwise have been eligible to receive under such laws prior to the effective date of the Compact, as provided in appropriation Acts or other Acts of Congress.
 
 #### (3) Section 219 determination
 
@@ -162,7 +162,7 @@ There are authorized to be appropriated for grants to the Government of the Fede
 
 #### (p) Trust funds
 
-The responsibilities of the United States with regard to implementation of section 235 of theCompact shall be discharged by the Secretary of the Interior, who shall consult with the Government of the Marshall Islands and the designated beneficiaries of the funds held in trust by the High Commissioner of the Trust Territory of the Pacific Islands.
+The responsibilities of the United States with regard to implementation of section 235 of the Compact shall be discharged by the Secretary of the Interior, who shall consult with the Government of the Marshall Islands and the designated beneficiaries of the funds held in trust by the High Commissioner of the Trust Territory of the Pacific Islands.
 
 #### (q) Annual reports on determinations under Compact section 313
 
@@ -220,7 +220,7 @@ Section was formerly set out as a note under section 1681 of this title.
 
 1986—Subsec. (b)(2). Pub. L. 99–396 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Appropriations made pursuant to the Compact or any other provision of this joint resolution may be made only to the Secretary of the Interior, who shall coordinate and monitor any program or activity provided to the Federated States of Micronesia or the Republic of the Marshall Islands by departments and agencies of the Government of the United States and related economic development planning pursuant to the Compact or pursuant to any other authorization except for the provisions of sections 161(e), 313, and 351 of the Compact and the authorization of the President to agree to an effective date pursuant to this resolution. Funds appropriated to the Secretary of the Interior pursuant to this paragraph shall not be allocated to other Departments or agencies.”
 
-Subsec. (c)(2). Pub. L. 99–658 substituted “infrastructure, except that, for purposes of an orderly reduction of United States programs and services in the Federated States of Micronesia, the Marshall Islands, andPalau, United States programs or services not specifically authorized by the Compact of Free Association or by other provisions of law may continue but, unless reimbursed by the respective freely associated state, not in excess of the following amounts:” and subpars. (1) to (3) for “infrastructure.”
+Subsec. (c)(2). Pub. L. 99–658 substituted “infrastructure, except that, for purposes of an orderly reduction of United States programs and services in the Federated States of Micronesia, the Marshall Islands, and Palau, United States programs or services not specifically authorized by the Compact of Free Association or by other provisions of law may continue but, unless reimbursed by the respective freely associated state, not in excess of the following amounts:” and subpars. (1) to (3) for “infrastructure.”
 
 #### Federated States of Micronesia and Marshall Islands; Programs and Services Provided on Nonreimbursable Basis
 
@@ -232,7 +232,7 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1902, 1903, 1932, 1933, 1959, 1962 of this title.
+This section is referred to in sections 1804, 1902, 1903, 1932, 1933, 1959, 1962 of this title.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

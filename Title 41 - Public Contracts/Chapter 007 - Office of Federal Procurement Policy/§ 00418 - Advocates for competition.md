@@ -24,7 +24,7 @@ The advocate for competition of an executive agency shall—
 
 &emsp;&emsp;(A) opportunities and actions taken to achieve full and open competition in the procurement activities of the executive agency; and
 
-&emsp;&emsp;(B) any condition or action which has the effect of unnecessarily restricting competition in the procurement actions of the executive agency; and
+&emsp;&emsp;(B) any condition or action which has the effect of unnecessarily restricting competition in the procurement actions of the executive agency; and <sup>1</sup>
 
 &emsp;(4) prepare and transmit to such senior procurement executive an annual report describing—
 
@@ -61,4 +61,6 @@ Section applicable to any solicitation for bids or proposals issued after Mar. 3
 #### Section Referred to in Other Sections
 
 This section is referred to in title 10 section 2318.
+
+<i><sup>1</sup></i><i> So in original. The word “and” probably should not appear.</i>
 

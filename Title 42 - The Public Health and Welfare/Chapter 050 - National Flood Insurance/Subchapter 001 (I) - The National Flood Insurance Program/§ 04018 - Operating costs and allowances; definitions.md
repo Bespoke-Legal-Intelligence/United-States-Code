@@ -18,7 +18,7 @@
 
 &emsp;&emsp;(C) loss adjustment expenses; and
 
-&emsp;&emsp;(D) other direct, actual, and necessary expenses which the Director finds are incurred in connection with selling or servicing flood insurance coverage; and
+&emsp;&emsp;(D) other direct, actual, and necessary expenses which the Director finds are incurredin connection with selling or servicing flood insurance coverage; and
 
 &emsp;(2) the term “operating allowances” shall (without limiting such term) include amounts for profit and contingencies which the Director finds reasonable and necessary to carry out the purposes of this chapter.
 

@@ -20,7 +20,9 @@ Grant Amounts.—The Secretary shall reserve, from amounts deducted under sectio
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

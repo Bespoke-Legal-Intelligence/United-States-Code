@@ -6,7 +6,7 @@
 
 (B) An extension of the delimiting period applicable to an eligible veteran may be granted under subparagraph (A) of this paragraph by reason of the veteran's mental or physical disability only if the veteran submits an application for such extension to the Secretary within one year after (i) the last date of the delimiting period otherwise applicable to the veteran under paragraph (1) of this subsection, or (ii) the termination date of the period of the veteran's mental or physical disability, whichever is later.
 
-(3) When an extension of the applicable delimiting period is granted an eligible veteran under paragraph (2) of this subsection, the delimiting period with respect to such veteran shall again begin to run on the first day after such veteran's recovery from such disability on which it is reasonably feasible, as determined in accordance with regulations prescribed by the Secretary, for such veteran to initiate or resume pursuit of a program of education with educational assistance under this chapter.
+(3) When an extension of the applicable delimiting period is granted an eligible veteran underparagraph (2) of this subsection, the delimiting period with respect to such veteran shall again begin to run on the first day after such veteran's recovery from such disability on which it is reasonably feasible, as determined in accordance with regulations prescribed by the Secretary, for such veteran to initiate or resume pursuit of a program of education with educational assistance under this chapter.
 
 (4) For purposes of paragraph (1) of this subsection, a veteran's last discharge or release from active duty shall not include any discharge or release from a period of active duty of less than 90 days of continuous service unless the individual involved is discharged or released for a service-connected disability, for a medical condition which preexisted such service and which the Secretary determines is not service connected, for hardship, or as a result of a reduction in force as described in section 3011(a)(1)(A)(ii)(III) of this title.
 
@@ -14,11 +14,13 @@
 
 (2)(A) Any contributions which were made by a veteran disenrolled under paragraph (1) of this subsection and remain in the fund shall be refunded to the veteran after notice of disenrollment is transmitted to the veteran and the veteran applies for such refund.
 
-(B) If no application for refund of contributions under subparagraph (A) of this paragraph is received from a disenrolled veteran within one year after the date the notice referred to in such subparagraph is transmitted to the veteran, it shall be presumed, for the purposes of section 1322(a) of title 31, that the veteran's whereabouts is unknown and the funds shall be transferred as provided in such section.
+(B) If no application for refund of contributions under subparagraph (A) of this paragraph is received from a disenrolled veteran within one year after the date the notice referred to in such subparagraph is transmitted to the veteran, it shall be presumed that the veteran's whereabouts is unknown and the funds shall be transferred to the Secretary for payments for entitlement earned under subchapter II of chapter 30.
 
-(Added Pub. L. 94–502, title IV, §404, Oct. 15, 1976, 90 Stat. 2396, §1632; amended Pub. L. 97–258, §3(k)(2), Sept. 13, 1982, 96 Stat. 1065; Pub. L. 98–160, title VII, §702(8), Nov. 21, 1983, 97 Stat 1009; Pub. L. 99–576, title III, §311, Oct. 28, 1986, 100 Stat. 3272; Pub. L. 101–237, title IV, §§420(a)(2), 423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2087, 2092; Pub. L. 102–16, §4, Mar. 22, 1991, 105 Stat. 49; renumbered §3232 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406.)
+(Added Pub. L. 94–502, title IV, §404, Oct. 15, 1976, 90 Stat. 2396, §1632; amended Pub. L. 97–258, §3(k)(2), Sept. 13, 1982, 96 Stat. 1065; Pub. L. 98–160, title VII, §702(8), Nov. 21, 1983, 97 Stat 1009; Pub. L. 99–576, title III, §311, Oct. 28, 1986, 100 Stat. 3272; Pub. L. 101–237, title IV, §§420(a)(2), 423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2087, 2092; Pub. L. 102–16, §4, Mar. 22, 1991, 105 Stat. 49; renumbered §3232 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 104–275, title I, §106(c)(1), Oct. 9, 1996, 110 Stat. 3329.)
 
 #### Amendments
+
+1996—Subsec. (b)(2)(B). Pub. L. 104–275 struck out “, for the purposes of section 1322(a) of title 31,” after “it shall be presumed” and substituted “to the Secretary for payments for entitlement earned under subchapter II of chapter 30” for “as provided in such section”.
 
 1991—Pub. L. 102–83, §5(a), renumbered section 1632 of this title as this section.
 
@@ -37,4 +39,8 @@ Subsec. (a)(4). Pub. L. 101–237, §420(a)(2)(A), added par. (4).
 1983—Pub. L. 98–160 struck out the comma after “title 31” and substituted “such section” for “section 1322(a)”.
 
 1982—Pub. L. 97–258 substituted “section 1322(a) of title 31” and “section 1322(a)” for “subsection (a) of section 725s of title 31” and “the last proviso of that subsection”, respectively.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 3035 of this title.
 

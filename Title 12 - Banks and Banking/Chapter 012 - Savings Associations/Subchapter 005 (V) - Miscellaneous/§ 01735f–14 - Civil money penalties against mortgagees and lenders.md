@@ -110,11 +110,19 @@ The Secretary shall issue such regulations as the Secretary deems appropriate to
 
 Notwithstanding any other provision of law, all civil money penalties collected under this section shall be deposited in the appropriate insurance fund or funds established under this chapter, as determined by the Secretary.
 
-(June 27, 1934, ch. 847, title V, §536, as added Dec. 15, 1989, Pub. L. 101–235, title I, §107(a), 103 Stat. 2000.)
+(June 27, 1934, ch. 847, title V, §536, as added Dec. 15, 1989, Pub. L. 101–235, title I, §107(a), 103 Stat. 2000; amended Sept. 30, 1996, Pub. L. 104–208, div. A, title II, §2704(d)(13)(B), 110 Stat. 3009–490.)
+
+#### Amendment of Subsection (b)(1)(B)(ii)
+
+<i>Pub. L. 104–208, div. A, title II, §2704(c), (d)(13)(B), Sept. 30, 1996, 110 Stat. 3009–487, 3009–490, provided that, effective Jan. 1, 1999, if no insured depository institution is a savings association on that date, subsection (b)(1)(B)(ii) of this section is amended by striking “Bank Insurance Fund for banks and through the Savings Association Insurance Fund for savings associations” and inserting “Deposit Insurance Fund”.</i>
 
 #### References in Text
 
 Subchapter IX–A of this chapter, referred to in subsec. (b)(1)(H), was repealed by Pub. L. 101–235, title I, §133(a), Dec. 15, 1989, 103 Stat. 2027.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–208 effective Jan. 1, 1999, if no insured depository institution is a savings association on that date, see section 2704(c) of Pub. L. 104–208, set out as a note under section 1821 of this title.
 
 #### Effective Date
 

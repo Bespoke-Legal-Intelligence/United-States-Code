@@ -14,6 +14,10 @@ Neither section 136w–1 of this title nor this section shall limit the authorit
 
 (June 25, 1947, ch. 125, §27, as added Sept. 30, 1978, Pub. L. 95–396, §24(2), 92 Stat. 837; amended Oct. 25, 1988, Pub. L. 100–532, title VIII, §801(p), 102 Stat. 2683.)
 
+#### Prior Provisions
+
+A prior section 27 of act June 25, 1947, ch. 125, was renumbered section 34 and is classified to section 136y of this title.
+
 #### Amendments
 
 1988—Pub. L. 100–532 inserted headings for subsecs. (a) to (c).

@@ -26,7 +26,7 @@
 
 #### (b) Contents of solicitation
 
-In addition to the specifications described in subsection (a) of this section, each solicitation for sealed bids or competitive proposals (other than for a purchase for an amount not greater than the simplified acquisition threshold) shall at a minimum include—
+In addition to the specifications described in subsection (a) of this section, each solicitation for sealed bids or competitive proposals (other than for a procurement for commercial items using special simplified procedures or a purchase for an amount not greater than the simplified acquisition threshold) shall at a minimum include—
 
 &emsp;(1) a statement of—
 
@@ -76,9 +76,11 @@ Nothing in this section prohibits an executive agency from—
 
 An executive agency, in issuing a solicitation for a contract to be awarded using sealed bid procedures, may not include in such solicitation a clause providing for the evaluation of prices for options to purchase additional property or services under the contract unless the executive agency has determined that there is a reasonable likelihood that the options will be exercised.
 
-(June 30, 1949, ch. 288, title III, §303A, as added July 18, 1984, Pub. L. 98–369, div. B, title VII, §2711(a)(2), 98 Stat. 1178; amended Oct. 13, 1994, Pub. L. 103–355, title I, §§1061(a), (b), 1062, title IV, §4402(b), 108 Stat. 3266, 3267, 3348.)
+(June 30, 1949, ch. 288, title III, §303A, as added July 18, 1984, Pub. L. 98–369, div. B, title VII, §2711(a)(2), 98 Stat. 1178; amended Oct. 13, 1994, Pub. L. 103–355, title I, §§1061(a), (b), 1062, title IV, §4402(b), 108 Stat. 3266, 3267, 3348; Feb. 10, 1996, Pub. L. 104–106, div. D, title XLII, §4202(b)(2), 110 Stat. 653.)
 
 #### Amendments
+
+1996—Subsec. (b). Pub. L. 104–106 inserted “a procurement for commercial items using special simplified procedures or” after “(other than for” in introductory provisions.
 
 1994—Subsec. (b). Pub. L. 103–355, §4402(b), substituted “a purchase for an amount not greater than the simplified acquisition threshold)” for “small purchases)” in introductory provisions.
 
@@ -91,6 +93,10 @@ Subsec. (b)(2)(B)(i). Pub. L. 103–355, §1061(a)(2), amended cl. (i) generally
 Subsecs. (c), (d). Pub. L. 103–355, §1061(b), added subsecs. (c) and (d).
 
 Subsec. (e). Pub. L. 103–355, §1062, added subsec. (e).
+
+#### Effective Date of 1996 Amendment
+
+For effective date and applicability of amendment by Pub. L. 104–106, see section 4401 of Pub. L. 104–106, set out as a note under section 251 of this title.
 
 #### Effective Date of 1994 Amendment
 
@@ -110,5 +116,5 @@ The definitions in section 472 of Title 40, Public Buildings, Property, and Work
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 253b, 257 of this title.
+This section is referred to in sections 253b, 253m, 257 of this title.
 

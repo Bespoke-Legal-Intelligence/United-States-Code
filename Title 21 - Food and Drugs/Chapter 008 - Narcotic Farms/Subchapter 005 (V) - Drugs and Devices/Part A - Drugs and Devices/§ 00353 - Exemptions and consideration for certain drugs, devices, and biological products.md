@@ -28,7 +28,7 @@ The Secretary is directed to promulgate regulations exempting from any labeling 
 
 (1) No person may sell, purchase, or trade or offer to sell, purchase, or trade any drug sample. For purposes of this paragraph and subsection (d) of this section, the term “drug sample” means a unit of a drug, subject to subsection (b) of this section, which is not intended to be sold and is intended to promote the sale of the drug. Nothing in this paragraph shall subject an officer or executive of a drug manufacturer or distributor to criminal liability solely because of a sale, purchase, trade, or offer to sell, purchase, or trade in violation of this paragraph by other employees of the manufacturer or distributor.
 
-(2) No person may sell, purchase, or trade, offer to sell, purchase, or trade, or counterfeitany coupon. For purposes of this paragraph, the term “coupon” means a form which may be redeemed, at no cost or at a reduced cost, for a drug which is prescribed in accordance with subsection (b) of this section.
+(2) No person may sell, purchase, or trade, offer to sell, purchase, or trade, or counterfeit any coupon. For purposes of this paragraph, the term “coupon” means a form which may be redeemed, at no cost or at a reduced cost, for a drug which is prescribed in accordance with subsection (b) of this section.
 
 (3)(A) No person may sell, purchase, or trade, or offer to sell, purchase, or trade, any drug—
 
@@ -98,7 +98,7 @@ The Secretary is directed to promulgate regulations exempting from any labeling 
 
 &emsp;(E) Drug manufacturers or authorized distributors of record shall report to the Secretary any conviction of their representatives for violations of subsection (c)(1) of this section or a State law because of the sale, purchase, or trade of a drug sample or the offer to sell, purchase, or trade a drug sample.
 
-&emsp;(F) Drug manufacturers or authorized distributors of record shall provide to the Secretary the name and telephone number of the individual responsible for responding to a request for information respecting drug samples.
+&emsp;(F) Drug manufacturers or authorized distributors of record shall provide to the Secretary the name and telephone number of theindividual responsible for responding to a request for information respecting drug samples.
 
 #### (e) Wholesale distributors; guidelines for licensing; definitions
 
@@ -118,7 +118,7 @@ The Secretary is directed to promulgate regulations exempting from any labeling 
 
 #### (f) Veterinary prescription drugs
 
-(1)(A) A drug intended for use by animals other than man which—
+(1)(A) A drug intended for use by animals other than man, other than a veterinary feed directive drug intended for use in animal feed or an animal feed bearing or containing a veterinary feed directive drug, which—
 
 &emsp;(i) because of its toxicity or other potentiality for harmful effect, or the method of its use, or the collateral measures necessary for its use, is not safe for animal use except under the professional supervision of a licensed veterinarian, or
 
@@ -178,13 +178,15 @@ The Secretary is directed to promulgate regulations exempting from any labeling 
 
 &emsp;&emsp;(iii) approval of a product or establishment license under subsection (a) or (d) of section 262 of title 42.
 
-(June 25, 1938, ch. 675, §503, 52 Stat. 1051; Oct. 26, 1951, ch. 578, §1, 65 Stat. 648; Oct. 10, 1962, Pub. L. 87–781, title I, §104(e)(2), 76 Stat. 785; Dec. 30, 1970, Pub. L. 91–601, §6(e), formerly §7(e), 84 Stat. 1673, renumbered Aug. 13, 1981, Pub. L. 97–35, title XII, §1205(c), 95 Stat. 716; Apr. 22, 1988, Pub. L. 100–293, §§4–6, 102 Stat. 96–98; Nov. 16, 1988, Pub. L. 100–670, title I, §105, 102 Stat. 3983; Nov. 28, 1990, Pub. L. 101–629, §16(a), 104 Stat. 4526; Aug. 17, 1991, Pub. L. 102–108, §2(d), 105 Stat. 550; June 16, 1992, Pub. L. 102–300, §6(d), 106 Stat. 240; Aug. 26, 1992, Pub. L. 102–353, §§2(a)–(c), 4, 106 Stat. 941, 942.)
+(June 25, 1938, ch. 675, §503, 52 Stat. 1051; Oct. 26, 1951, ch. 578, §1, 65 Stat. 648; Oct. 10, 1962, Pub. L. 87–781, title I, §104(e)(2), 76 Stat. 785; Dec. 30, 1970, Pub. L. 91–601, §6(e), formerly §7(e), 84 Stat. 1673, renumbered Aug. 13, 1981, Pub. L. 97–35, title XII, §1205(c), 95 Stat. 716; Apr. 22, 1988, Pub. L. 100–293, §§4–6, 102 Stat. 96–98; Nov. 16, 1988, Pub. L. 100–670, title I, §105, 102 Stat. 3983; Nov. 28, 1990, Pub. L. 101–629, §16(a), 104 Stat. 4526; Aug. 17, 1991, Pub. L. 102–108, §2(d), 105 Stat. 550; June 16, 1992, Pub. L. 102–300, §6(d), 106 Stat. 240; Aug. 26, 1992, Pub. L. 102–353, §§2(a)–(c), 4, 106 Stat. 941, 942; Oct. 9, 1996, Pub. L. 104–250, §5(a), 110 Stat. 3155.)
 
 #### Codification
 
 In subsec. (b)(5), “sections 4721, 6001, and 6151 of title 26” and “section 4761 of title 26” substituted for “section 3220 of the Internal Revenue Code (26 U.S.C. 3220)” and “section 3238(b) of the Internal Revenue Code (26 U.S.C. 3238(b))”, respectively, on authority of section 7852(b) of Title 26, Internal Revenue Code.
 
 #### Amendments
+
+1996—Subsec. (f)(1)(A). Pub. L. 104–250 inserted “, other than a veterinary feed directive drug intended for use in animal feed or an animal feed bearing or containing a veterinary feed directive drug,” after “other than man” in introductory provisions.
 
 1992—Subsec. (d)(1). Pub. L. 102–353, §4(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Except as provided in paragraphs (2) and (3), no representative of a drug manufacturer or distributor may distribute any drug sample.”
 
@@ -246,7 +248,7 @@ Section 8 of Pub. L. 100–293 provided that:
 
 “(a)
 
-General Rule.—Except as provided in subsection (b), this Act and the amendments made by this Act \[amending this section and sections 331, 333, and 381 of this title and enacting provisions set out as notes under this section and section 301 of this title\] shall take effect upon the expiration of 90 days after the date of the enactment of this Act \[Apr. 22, 1988\].
+General Rule.—Except as provided in subsection (b), this Act and the amendments made by this Act \[amending this section and sections 331, 333, and 381of this title and enacting provisions set out as notes under this section and section 301 of this title\] shall take effect upon the expiration of 90 days after the date of the enactment of this Act \[Apr. 22, 1988\].
 
 “(b)
 
@@ -271,6 +273,42 @@ Amendment by act Oct. 26, 1951, effective six months after Oct. 26, 1951, see se
 #### Transfer of Functions
 
 For transfer of functions of Federal Security Administrator to Secretary of Health, Education, and Welfare \[now Health and Human Services\], and of Food and Drug Administration in the Department of Agriculture to Federal Security Agency, see note set out under section 41 of this title.
+
+#### Effective Medication Guides
+
+Pub. L. 104–180, title VI, §601, Aug. 6, 1996, 110 Stat. 1593, provided that:
+
+“(a)
+
+In General.—Not later than 30 days after the date of enactment of this Act \[Aug. 6, 1996\], the Secretary of the Department of Health and Human Services shall request that national organizations representing health care professionals, consumer organizations, voluntary health agencies, the pharmaceutical industry, drug wholesalers, patient drug information database companies, and other relevant parties collaborate to develop a long-range comprehensive action plan to achieve goals consistent with the goals of the proposed rule of the Food and Drug Administration on ‘Prescription Drug Product Labeling: Medication Guide Requirements’ (60 Fed. Reg. 44182; relating to the provision of oral and written prescription information to consumers).
+
+“(b)
+
+Goals.—Goals consistent with the proposed rule described in subsection (a) are the distribution of useful written information to 75 percent of individuals receiving new precriptions \[sic\] by the year 2000 and to 95 percent by the year 2006.
+
+“(c)
+
+Plan.—The plan described in subsection (a) shall—
+
+&emsp;“(1) identify the plan goals;
+
+&emsp;“(2) assess the effectiveness of the current private-sector approaches used to provide oral and written prescription information to consumers;
+
+&emsp;“(3) develop guidelines for providing effective oral and written prescription information consistent with the findings of any such assessment;
+
+&emsp;“(4) contain elements necessary to ensure the transmittal of useful information to the consuming public, including being scientifically accurate, non-promotional in tone and content, sufficiently specific and comprehensive as to adequately inform consumers about the use of the product, and in an understandable, legible format that is readily comprehensible and not confusing to consumers expected to use the product.\[;\]
+
+&emsp;“(5) develop a mechanism to assess periodically the quality of the oral and written prescription information and the frequency with which the information is provided to consumers; and
+
+&emsp;“(6) provide for compliance with relevant State board regulations.
+
+“(d)
+
+Limitation on the Authority of the Secretary.—The Secretary of the Department of Health and Human Services shall have no authority to implement the proposed rule described in subsection (a), or to develop any similar regulation, policy statement, or other guideline specifying a uniform content or format for written information voluntarily provided to consumers about prescription drugs if, (1) not later than 120 days after the date of enactment of this Act \[Aug. 6, 1996\], the national organizations described in subsection (a) develop and submit to the Secretary for Health and Human Services a comprehensive, long-range action plan (as described in subsection (a)) which shall be acceptable to the Secretary of Health and Human Services; (2) the aforementioned plan is submitted to the Secretary of Health and Human Services for review and acceptance: <i>Provided</i>, That the Secretary shall give due consideration to the submitted plan and that any such acceptance shall not be arbitrarily withheld; and (3) the implementation of (a) a plan accepted by the Secretary commences within 30 days of the Secretary's acceptance of such plan, or (b) the plan submitted to the Secretary commences within 60 days of the submission of such plan if the Secretary fails to take any action on the plan within 30 days of the submission of the plan. The Secretary shall accept, reject or suggest modifications to the plan submitted within 30 days of its submission. The Secretary may confer with and assist private parties in the development of the plan described in subsections (a) and (b).
+
+“(e)
+
+Secretary Review.—Not later than January 1, 2001, the Secretary of the Department of Health and Human Services shall review the status of private-sector initiatives designed to achieve the goals of the plan described in subsection (a), and if such goals are not achieved, the limitation in subsection (d) shall not apply, and the Secretary shall seek public comment on other initiatives that may be carried out to meet such goals.”
 
 #### Congressional Findings
 

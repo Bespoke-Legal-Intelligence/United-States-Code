@@ -16,7 +16,7 @@
 
 #### Prior Provisions
 
-A prior section 5142, acts Aug. 10, 1956, ch. 1041, 70A Stat. 288; Sept. 7, 1962, Pub. L. 87–649, §14c(18), 76 Stat. 501, provided for a Chief of Chaplains in Bureau of Naval Personnel, detailed by Chief of Naval Personnel from officers on active list of the Navy in Chaplains Corps not below grade of rear admiral, prior to repeal by Pub. L. 96–343, §11(a).
+A prior section 5142, acts Aug. 10, 1956, ch. 1041, 70A Stat. 288; Sept. 7, 1962, Pub. L. 87–649, §14c(18), 76 Stat.501, provided for a Chief of Chaplains in Bureau of Naval Personnel, detailed by Chief of Naval Personnel from officers on active list of the Navy in Chaplains Corps not below grade of rear admiral, prior to repeal by Pub. L. 96–343, §11(a).
 
 #### Cross References
 

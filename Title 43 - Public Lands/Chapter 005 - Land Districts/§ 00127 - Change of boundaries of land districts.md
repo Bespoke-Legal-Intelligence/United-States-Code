@@ -10,5 +10,5 @@ R.S. §2253 derived from act June 29, 1870, ch. 171, 16 Stat. 171.
 
 #### Delegation of Functions
 
-For delegation to Secretary of the Interior of authority vested in President by this section, see Ex. Ord. No.10250, June 5, 1951, 16 F.R. 5385, set out as a note under section 301 of Title 3, The President.
+For delegation to Secretary of the Interior of authority vested in President by this section, see Ex. Ord. No. 10250, June 5, 1951, 16 F.R. 5385, set out as a note under section 301 of Title 3, The President.
 

@@ -60,11 +60,11 @@ For the purposes of this section—
 
 &emsp;(4) The term “effective financing statement” means a statement that—
 
-&emsp;&emsp;(A) is an original or reproduced copy thereof;
+&emsp;&emsp;(A) is an original or reproduced copy of the statement, or, in the case of a State which (under the applicable State law provisions of the Uniform Commercial Code) allows the electronic filing of financing statements without the signature of the debtor, is an electronically reproduced copy of the statement;
 
-&emsp;&emsp;(B) is signed and filed with the Secretary of State of a State by the secured party;
+&emsp;&emsp;(B) other than in the case of an electronically reproduced copy of the statement, is signed and filed with the Secretary of State of a State by the secured party;
 
-&emsp;&emsp;(C) is signed by the debtor;
+&emsp;&emsp;(C) other than in the case of an electronically reproduced copy of the statement, is signed by the debtor;
 
 &emsp;&emsp;(D) contains,
 
@@ -208,11 +208,17 @@ The Secretary of Agriculture shall prescribe regulations not later than 90 days 
 
 This section shall become effective 12 months after December 23, 1985.
 
-(Pub. L. 99–198, title XIII, §1324, Dec. 23, 1985, 99 Stat. 1535.)
+(Pub. L. 99–198, title XIII, §1324, Dec. 23, 1985, 99 Stat. 1535; Pub. L. 104–127, title VI, §662, Apr. 4, 1996, 110 Stat. 1107.)
 
 #### Codification
 
 Section was enacted as part of the Food Security Act of 1985, and not as part of the Agricultural Marketing Act of 1946 which comprises this chapter.
+
+#### Amendments
+
+1996—Subsec. (c)(4)(A). Pub. L. 104–127, §662(1), substituted “of the statement, or, in the case of a State which (under the applicable State law provisions of the Uniform Commercial Code) allows the electronic filing of financing statements without the signature of the debtor, is an electronically reproduced copy of the statement” for “thereof”.
+
+Subsec. (c)(4)(B), (C). Pub. L. 104–127, §662(2), inserted “other than in the case of an electronically reproduced copy of the statement,” before “is”.
 
 #### Termination of Trust Territory of the Pacific Islands
 

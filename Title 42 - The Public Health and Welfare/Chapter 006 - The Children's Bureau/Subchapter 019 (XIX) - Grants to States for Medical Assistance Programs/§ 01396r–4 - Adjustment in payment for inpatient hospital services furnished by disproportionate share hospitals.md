@@ -26,7 +26,7 @@
 
 &emsp;(B) the hospital's low-income utilization rate (as defined in paragraph (3)) exceeds 25 percent.
 
-(2) For purposes of paragraph (1)(A), the term “medicaid inpatient utilization rate” means, for a hospital, a fraction (expressed as a percentage), the numerator of which is the hospital's number of inpatient days attributable to patients who (for such days) were eligible for medical assistance under a State plan approved under this subchapter in a period, and the denominator of which is the total number of the hospital's inpatient days in that period. In this paragraph, the term “inpatient day” includes each day in which an individual (including a newborn) is an inpatient in the hospital, whether or not the individual is in a specialized ward and whether or not the individual remains in the hospital for lack of suitable placement elsewhere.
+(2) For purposes of paragraph (1)(A), the term “medicaid inpatient utilization rate” means, fora hospital, a fraction (expressed as a percentage), the numerator of which is the hospital's number of inpatient days attributable to patients who (for such days) were eligible for medical assistance under a State plan approved under this subchapter in a period, and the denominator of which is the total number of the hospital's inpatient days in that period. In this paragraph, the term “inpatient day” includes each day in which an individual (including a newborn) is an inpatient in the hospital, whether or not the individual is in a specialized ward and whether or not the individual remains in the hospital for lack of suitable placement elsewhere.
 
 (3) For purposes of paragraph (1)(B), the term “low-income utilization rate” means, for a hospital, the sum of—
 
@@ -126,7 +126,7 @@ Subject to subsections (f) and (g) of this section, in order to be consistent wi
 
 #### (D) Conditional exception for certain States
 
-&emsp;&emsp;Subject to subparagraph (E), beginning with payments for quarters beginning on or after January 1, 1996, and at the option of a State, subparagraph (A) shall not apply in the case of a State which defines a hospital as a disproportionate share hospital under subsection (a)(1) of this section only if the hospital meets any of the following requirements:
+&emsp;&emsp;Subject to subparagraph (E), beginning with payments for quarters beginning on orafter January 1, 1996, and at the option of a State, subparagraph (A) shall not apply in the case of a State which defines a hospital as a disproportionate share hospital under subsection (a)(1) of this section only if the hospital meets any of the following requirements:
 
 &emsp;&emsp;&emsp;(i) The hospital's medicaid inpatient utilization rate (as defined in subsection (b)(2) of this section) is at or above the mean medicaid inpatient utilization rate for all hospitals in the State.
 
@@ -264,7 +264,7 @@ Subject to subsections (f) and (g) of this section, in order to be consistent wi
 
 #### References in Text
 
-The Public Health Service Act, referred to in subsec. (g)(2)(A), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended, which is classified generally to chapter 6A (§201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.
+The Public Health Service Act, referred to in subsec. (g)(2)(A), is act July 1, 1944, ch. 373, 58 Stat. 682, asamended, which is classified generally to chapter 6A (§201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.
 
 #### Codification
 

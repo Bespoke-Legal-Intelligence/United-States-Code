@@ -14,7 +14,7 @@ With respect to alterations of an existing facility or part thereof used in the 
 
 #### (A) Accessibility
 
-&emsp;&emsp;Except as otherwise provided in this paragraph, all key stations (as determined under criteria established by the Secretary by regulation) in rapid rail and light rail systems shall be made readily accessible to and usable by individuals with disabilities, including individuals who use wheelchairs, as soon as practicable but in no event later than the last day of the 3-year period beginning on July 26, 1990.
+&emsp;&emsp;Except as otherwise provided in this paragraph, all key stations (as determined under criteria established by the Secretary by regulation) in rapid rail and light rail systemsshall be made readily accessible to and usable by individuals with disabilities, including individuals who use wheelchairs, as soon as practicable but in no event later than the last day of the 3-year period beginning on July 26, 1990.
 
 #### (B) Extension for extraordinarily expensive structural changes
 

@@ -10,13 +10,15 @@ It shall be unlawful to manufacture, recondition, repair, sell, transport, posse
 
 &emsp;Except as provided in paragraph (2), this section does not prohibit—
 
-&emsp;&emsp;(A) the repair, transport, possession, or use of a gambling device on a vessel that is not within the boundaries of any State or possession of the United States; or
+&emsp;&emsp;(A) the repair, transport, possession, or use of a gambling device on a vessel that is not within the boundaries of any State or possession of the United States;
 
 &emsp;&emsp;(B) the transport or possession, on a voyage, of a gambling device on a vessel that is within the boundaries of any State or possession of the United States, if—
 
 &emsp;&emsp;&emsp;(i) use of the gambling device on a portion of that voyage is, by reason of subparagraph (A), not a violation of this section; and
 
-&emsp;&emsp;&emsp;(ii) the gambling device remains on board that vessel while the vessel is within the boundaries of that State or possession.
+&emsp;&emsp;&emsp;(ii) the gambling device remains on board that vessel while the vessel is within the boundaries of that State or possession; or
+
+&emsp;&emsp;(C) the repair, transport, possession, or use of a gambling device on a vessel on a voyage that begins in the State of Indiana and that does not leave the territorial jurisdiction of that State, including such a voyage on Lake Michigan.
 
 #### (2) Application to certain voyages
 
@@ -32,13 +34,49 @@ It shall be unlawful to manufacture, recondition, repair, sell, transport, posse
 
 &emsp;&emsp;&emsp;(ii) during which the vessel does not make an intervening stop within the boundaries of another State or possession of the United States or a foreign country.
 
-(Jan. 2, 1951, ch. 1194, §5, 64 Stat. 1135; Mar. 9, 1992, Pub. L. 102–251, title II, §202(b), 106 Stat. 61.)
+#### (C) Exclusion of certain voyages and segments
+
+&emsp;&emsp;Except for a voyage or segment of a voyage that occurs within the boundaries of the State of Hawaii, a voyage or segment of a voyage is not described in subparagraph (B) if it includes or consists of a segment—
+
+&emsp;&emsp;&emsp;(i) that begins and ends in the same State;
+
+&emsp;&emsp;&emsp;(ii) that is part of a voyage to another State or to a foreign country; and
+
+&emsp;&emsp;&emsp;(iii) in which the vessel reaches the other State or foreign country within 3 days after leaving the State in which it begins.
+
+#### (c) Exception for Alaska
+
+(1) With respect to a vessel operating in Alaska, this section does not prohibit, nor may the State of Alaska make it a violation of law for there to occur, the repair, transport, possession, or use of any gambling device on board a vessel which provides sleeping accommodations for all of its passengers and that is on a voyage or segment of a voyage described in paragraph (2), except that such State may, within its boundaries—
+
+&emsp;(A) prohibit the use of a gambling device on a vessel while it is docked or anchored or while it is operating within 3 nautical miles of a port at which it is scheduled to call; and
+
+&emsp;(B) require the gambling devices to remain on board the vessel.
+
+(2) A voyage referred to in paragraph (1) is a voyage that—
+
+&emsp;(A) includes a stop in Canada or in a State other than the State of Alaska;
+
+&emsp;(B) includes stops in at least 2 different ports situated in the State of Alaska; and
+
+&emsp;(C) is of at least 60 hours duration.
+
+(Jan. 2, 1951, ch. 1194, §5, 64 Stat. 1135; Mar. 9, 1992, Pub. L. 102–251, title II, §202(b), 106 Stat. 61; Oct. 9, 1996, Pub. L. 104–264, title XII, §1222, 110 Stat. 3286; Oct. 19, 1996, Pub. L. 104–324, title XI, §1106, 110 Stat. 3967.)
 
 #### Amendments
+
+1996—Subsec. (b)(1)(C). Pub. L. 104–324, §1106(b), added subpar. (C).
+
+(b)(2)(C). Pub. L. 104–264, §1222, and Pub. L. 104–324, §1106(a), made substantially identical amendments, adding subpar. (C). The text of subpar. (C) is based on amendment by Pub. L. 104–324.
+
+Subsec. (c). Pub. L. 104–324, §1106(c), added subsec. (c).
 
 1992—Subsec. (a). Pub. L. 102–251, §202(b)(1), (2), designated existing provisions as subsec. (a), inserted heading, and inserted before period at end “, including on a vessel documented under chapter 121 of title 46 or documented under the laws of a foreign country”.
 
 Subsec. (b). Pub. L. 102–251, §202(b)(3), added subsec. (b).
+
+#### Effective Date of 1996 Amendment
+
+Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of Title 49, Transportation.
 
 #### Cross References
 

@@ -10,23 +10,13 @@
 | [7425\.](%C2%A7%2007425%20-%20Acquisition%20by%20condemnation%20and%20purchase.md) | Acquisition by condemnation and purchase. |
 | [7426\.](%C2%A7%2007426%20-%20Cooperative%20or%20unit%20plans%20affecting%20Naval%20Petroleum%20Reserve%20Numbered%201.md) | Cooperative or unit plans affecting Naval Petroleum Reserve Numbered 1. |
 | [7427\.](%C2%A7%2007427%20-%20Cooperative%20or%20unit%20plans%20in%20the%20naval%20petroleum%20reserves.md) | Cooperative or unit plans in the naval petroleum reserves. |
-| [7428\.](%C2%A7%2007428%20-%20Agreements%20and%20leases%20provision%20for%20change.md) | Agreement and leases: provision for change.<sup>1</sup> |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |
-| :--- | ---: |
+| [7428\.](%C2%A7%2007428%20-%20Agreements%20and%20leases%20provision%20for%20change.md) | Agreements and leases: provision for change. |
 | [7429\.](%C2%A7%2007429%20-%20Re-lease%20of%20certain%20lands%20lessee%27s%20preferential%20right.md) | Re-lease of certain lands: lessee's preferential right. |
 | [7430\.](%C2%A7%2007430%20-%20Disposition%20of%20products.md) | Disposition of products. |
 | [7431\.](%C2%A7%2007431%20-%20Requirements%20as%20to%20consultation%20and%20approval.md) | Requirements as to consultation and approval. |
 | [7432\.](%C2%A7%2007432%20-%20Authorizations%20of%20appropriations.md) | Authorizations of appropriations. |
 | [7433\.](%C2%A7%2007433%20-%20Disposition%20of%20royalties.md) | Disposition of royalties. |
-| [7434\.](%C2%A7%2007434%20-%20Repealed.%20Pub.%20L.%20104%E2%80%9366%2C%20title%20I%2C%20%C2%A71051%28g%29%2C%20Dec.%2021%2C%201995%2C%20109%20Stat.%20716.md) | Annual report to Armed Services Committees.<sup>2</sup> |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |
-| :--- | ---: |
+| \[7434. | Repealed.\] |
 | [7435\.](%C2%A7%2007435%20-%20Foreign%20interest.md) | Foreign interest. |
 | [7436\.](%C2%A7%2007436%20-%20Regulations.md) | Regulations. |
 | [7437\.](%C2%A7%2007437%20-%20Violations%20by%20lessee.md) | Violations by lessee. |
@@ -35,6 +25,10 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1996—Pub. L. 104–201, div. A, title X, §1074(a)(19), Sept. 23, 1996, 110 Stat. 2660, struck out item 7434 “Annual report to congressional committees”.
+
+Pub. L. 104–106, div. A, title XV, §§1502(a)(28)(B), 1503(b)(4), Feb. 10, 1996, 110 Stat. 506, 513, substituted “Agreements” for “Agreement” in item 7428 and “congressional committees” for “Armed Services Committees” in item 7434.
 
 1990—Pub. L. 101–510, div. A, title XIII, §1331(9), Nov. 5, 1990, 104 Stat. 1673, amended item 7434 generally, substituting “Annual report” for “Quarterly reports”.
 
@@ -53,10 +47,6 @@ Property records, basis, reports, see section 2721 of this title.
 #### Chapter Referred to in Other Sections
 
 This chapter is referred to in title 30 section 353; title 42 sections 6214, 7156, 7235.
-
-<i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
-
-<i><sup>2</sup></i><i> Section repealed by Pub. L. 104–66 without corresponding amendment of chapter analysis.</i>
 
 
 ---

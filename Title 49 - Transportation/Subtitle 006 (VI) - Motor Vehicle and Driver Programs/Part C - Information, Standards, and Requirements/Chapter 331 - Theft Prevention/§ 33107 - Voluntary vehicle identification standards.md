@@ -20,7 +20,9 @@ Compliance With Other Standards.—Compliance with the standard under this secti
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

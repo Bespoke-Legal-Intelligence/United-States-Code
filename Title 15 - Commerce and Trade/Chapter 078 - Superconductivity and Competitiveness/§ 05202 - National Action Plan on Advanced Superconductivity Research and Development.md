@@ -24,7 +24,7 @@ The Office of Science and Technology Policy, in conjunction with the National Cr
 
 #### (d) Update reports
 
-The Office of Science and Technology Policy, with the assistance of the National Critical Materials Council as specified in the National Critical Materials Act of 1984 (30 U.S.C. 1801 et seq.), shall prepare an annual report setting forth and evaluating the progress of the Superconductivity Action Plan. This report shall include a description of the amount of funds expended in the previous year by all Federal departments and agencies involved with superconductivity. This report shall be submitted with the President's annual budget request to the Committee on Science, Space, and Technology of the House of Representatives, and to the Committees on Energy and Natural Resources, and Commerce, Science, and Transportation of the Senate.
+The Office of Science and Technology Policy, with the assistance of the National Critical Materials Council as specified in the National Critical Materials Act of 1984 (30 U.S.C. 1801 et seq.), shall prepare an annual report setting forth and evaluating the progress of the Superconductivity Action Plan. This report shall include a description of the amount of funds expended in the previous year by all Federal departmentsand agencies involved with superconductivity. This report shall be submitted with the President's annual budget request to the Committee on Science, Space, and Technology of the House of Representatives, and to the Committees on Energy and Natural Resources, and Commerce, Science, and Transportation of the Senate.
 
 (Pub. L. 100–697, §3, Nov. 19, 1988, 102 Stat. 4614.)
 

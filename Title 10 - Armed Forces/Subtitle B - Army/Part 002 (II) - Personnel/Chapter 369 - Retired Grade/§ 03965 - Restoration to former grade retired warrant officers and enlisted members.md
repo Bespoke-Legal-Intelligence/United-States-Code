@@ -1,6 +1,6 @@
 ### §3965. Restoration to former grade: retired warrant officers and enlisted members
 
-Each retired warrant officer or enlisted member of the Army who has been advanced on theretired list to a higher commissioned grade under section 3964 of this title, and who applies to the Secretary of the Army within three months after his advancement, shall, if the Secretary approves, be restored on the retired list to his former warrant officer or enlisted status, as the case may be.
+Each retired warrant officer or enlisted member of the Army who has been advanced on the retired list to a higher commissioned grade under section 3964 of this title, and who applies to the Secretary of the Army within three months after his advancement, shall, if the Secretary approves, be restored on the retired list to his former warrant officer or enlisted status, as the case may be.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 231; Dec. 4, 1987, Pub. L. 100–180, div. A, title V, §512(d)(1), 101 Stat. 1090; Sept. 29, 1988, Pub. L. 100–456, div. A, title XII, §1233(i)(1)(A), 102 Stat. 2058.)
 

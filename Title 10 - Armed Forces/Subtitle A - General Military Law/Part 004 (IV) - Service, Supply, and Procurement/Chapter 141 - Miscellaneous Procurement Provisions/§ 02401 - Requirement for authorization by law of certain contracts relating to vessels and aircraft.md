@@ -12,9 +12,9 @@
 
 &emsp;(A) the Secretary has been specifically authorized by law to make the contract;
 
-&emsp;(B) before a solicitation for proposals for the contract was issued the Secretary notified the Committees on Armed Services and on Appropriations of the Senate and House of Representatives of the Secretary's intention to issue such a solicitation; and
+&emsp;(B) before a solicitation for proposals for the contract was issued the Secretary notified the Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on National Security and the Committees on Appropriations of the House of Representatives of the Secretary's intention to issue such a solicitation; and
 
-&emsp;(C) the Secretary has notified the Committees on Armed Services and on Appropriations of the Senate and House of Representatives of the proposed contract and provided a detailed description of the terms of the proposed contract and a justification for entering into the proposed contract rather than providing for the lease, charter, or services involved through purchase of the vessel or aircraft to be used under the contract, and a period of 30 days of continuous session of Congress has expired following the date on which notice was received by such committees.
+&emsp;(C) the Secretary has notified those committees of the proposed contract and provided a detailed description of the terms of the proposed contract and a justification for entering into the proposed contract rather than providing for the lease, charter, or services involved through purchase of the vessel or aircraft to be used under the contract, and a period of 30 days of continuous session of Congress has expired following the date on which notice was received by such committees.
 
 (2) For purposes of paragraph (1)(C), the continuity of a session of Congress is broken only by an adjournment of the Congress sine die, and the days on which either House is not in session because of an adjournment of more than three days to a day certain are excluded in a computation of such 30-day period.
 
@@ -22,11 +22,11 @@
 
 &emsp;(A) the long-term lease or charter of any aircraft or naval vessel; or
 
-&emsp;(B) for the lease or charter of any aircraft or naval vessel the terms of which provide for asubstantial termination liability on the part of the United States,
+&emsp;(B) for the lease or charter of any aircraft or naval vessel the terms of which provide for a substantial termination liability on the part of the United States,
 
 > unless funds for that purpose have been specifically authorized by law.
 
-(2) Funds appropriated to the Department of Defense pursuant to an authorization contained in the Department of Defense Authorization Act, 1984 (Public Law 98–94), or in any other law enacted after September 24, 1983, may not be used to indemnify any person under the terms of a contract entered into under this section—
+(2) Funds appropriated to the Department of Defense may not be used to indemnify any person under the terms of a contract entered into under this section—
 
 &emsp;(A) for any amount paid or due by any person to the United States for any liability arising under the Internal Revenue Code of 1986; or
 
@@ -38,7 +38,7 @@
 
 &emsp;(ii) the initial term of which is for a period of less than five years but which contains an option to renew or extend the agreement for a period which, when added to the initial term (or any previous renewal or extension), is five years or longer.
 
-> Such term includes the extension or renewal of a lease or charter agreement if the term of the extension or renewal thereof is for a period of five years or longer or if the term of the lease or charter agreement being extended or renewed was for a period of five years or longer.
+> Such term includes the extension or renewal of a lease or charter agreement if the term of theextension or renewal thereof is for a period of five years or longer or if the term of the lease or charter agreement being extended or renewed was for a period of five years or longer.
 
 (B) In the case of an agreement under which the lessor first places the property in service under the agreement or the property has been in service for less than one year and there is allowable to the lessor or charterer an investment tax credit or depreciation for the property leased, chartered, or otherwise provided under the agreement under section 168 of the Internal Revenue Code of 1986 (unless the lessor or charterer has elected depreciation on a straightline method for such property), the term “long-term lease or charter” means a lease, charter, service contract, or conditional sale agreement—
 
@@ -72,15 +72,19 @@
 
 (f) The Director of the Office of Management and Budget and the Secretary of the Treasury shall jointly issue guidelines for determining under what circumstances the Department of Defense may use lease or charter arrangements for aircraft and naval vessels rather than directly procuring such aircraft and vessels.
 
-(Added Pub. L. 98–94, title XII, §1202(a)(1), Sept. 24, 1983, 97 Stat. 679; amended Pub. L. 98–525, title XII, §1232(a), Oct. 19, 1984, 98 Stat. 2600; Pub. L. 100–26, §7(h)(1), Apr. 21, 1987, 101 Stat. 282; Pub. L. 103–35, title II, §201(c)(6), May 31, 1993, 107 Stat. 98.)
+(Added Pub. L. 98–94, title XII, §1202(a)(1), Sept. 24, 1983, 97 Stat. 679; amended Pub. L. 98–525, title XII, §1232(a), Oct. 19, 1984, 98 Stat. 2600; Pub. L. 100–26, §7(h)(1), Apr. 21, 1987, 101 Stat. 282; Pub. L. 103–35, title II, §201(c)(6), May 31, 1993, 107 Stat. 98; Pub. L. 104–106, div. A, title XV, §§1502(a)(20), 1503(a)(21), Feb. 10, 1996, 110 Stat. 504, 512.)
 
 #### References in Text
-
-The Department of Defense Authorization Act, 1984, referred to in subsec. (c)(2), is Pub. L. 98–94, Sept. 24, 1983, 97 Stat. 614, as amended. For complete classification of this Act to the Code, see Tables.
 
 The Internal Revenue Code of 1986, referred to in subsecs. (c)(2)(A), (d)(1)(B), is classified generally to Title 26, Internal Revenue Code. Section 168 of the Internal Revenue Code of 1986 is classified to section 168 of Title 26.
 
 #### Amendments
+
+1996—Subsec. (b)(1)(B). Pub. L. 104–106, §1502(a)(20)(A), substituted “the Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on National Security and the Committees on Appropriations of the” for “the Committees on Armed Services and on Appropriations of the Senate and”.
+
+Subsec. (b)(1)(C). Pub. L. 104–106, §1502(a)(20)(B), substituted “those committees” for “the Committees on Armed Services and on Appropriations of the Senate and House of Representatives”.
+
+Subsec. (c)(2). Pub. L. 104–106, §1503(a)(21), struck out “pursuant to an authorization contained in the Department of Defense Authorization Act, 1984 (Public Law 98–94), or in any other law enacted after September 24, 1983,” before “may not be used”.
 
 1993—Subsec. (c)(2)(A). Pub. L. 103–35 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
@@ -88,11 +92,7 @@ The Internal Revenue Code of 1986, referred to in subsecs. (c)(2)(A), (d)(1)(B),
 
 1984—Subsec. (c). Pub. L. 98–525, §1232(a)(1), designated existing provisions as par. (1), redesignated as cls. (A) and (B) former cls. (1) and (2), respectively, and added par. (2).
 
-Subsec. (f). Pub. L. 98–525, §1232(a)(2), struck out at end “Such guidelines shall be issued not later than 90 days after the date of enactment of this section \[Sept. 24, 1983\].”
-
-#### Change of Name
-
-Committee on Armed Services of House of Representatives treated as referring to Committee on National Security of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Subsec. (f). Pub. L. 98–525, §1232(a)(2), struck out at end “Such guidelines shall be issued not later than 90days after the date of enactment of this section \[Sept. 24, 1983\].”
 
 #### Effective Date
 
@@ -100,7 +100,7 @@ Section 1202(a)(3) of Pub. L. 98–94 provided that: “Section 2401 of title 10
 
 #### Long-Term Lease or Charter Authority for Certain Double-Hull Tankers and Oceanographic Vessels
 
-Pub. L. 103–160, div. A, title I, §126, Nov. 30, 1993, 107 Stat. 1567, provided that:
+Pub. L. 103–160, div. A, title I, §126, Nov. 30, 1993, 107 Stat. 1567, as amended by Pub. L. 104–106, div. D, title XLIII, §4321(i)(1)(A), Feb. 10, 1996, 110 Stat. 676, provided that:
 
 “(a)
 
@@ -118,7 +118,7 @@ Conditions on Obligation of Funds.—Unless budget authority is specifically pro
 
 “(c)
 
-Inapplicability of Certain Laws.—A long-term lease or charter authorized by subsection (a) may be entered into without regard to the provisions of section 2401 of title 10, United States Code, or section 9081 of the Department of Defense Appropriations Act, 1990 \[Pub. L. 101–165\] (10 U.S.C. 2401 note).
+Inapplicability of Certain Laws.—A long-term lease or charter authorized by subsection (a) may be entered into without regard to the provisions of section 2401 or 2401a of title 10, United States Code.
 
 “(d)
 

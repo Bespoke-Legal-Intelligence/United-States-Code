@@ -1,6 +1,6 @@
 ### §§590r to 590x–4. Repealed. Pub. L. 87–128, title III, §341(a), Aug. 8, 1961, 75 Stat. 318
 
-Section 590r, acts Aug. 28, 1937, ch. 870, §1, 50 Stat. 869; Aug. 17, 1954, ch. 751, §1(1), (2), 68 Stat. 734; July 12,1960, Pub. L. 86–624, §9, 74 Stat. 412, related to Congressional declaration of policy.
+Section 590r, acts Aug. 28, 1937, ch. 870, §1, 50 Stat. 869; Aug. 17, 1954, ch. 751, §1(1), (2), 68 Stat. 734; July 12, 1960, Pub. L. 86–624, §9, 74 Stat. 412, related to Congressional declaration of policy.
 
 Section 590s, acts Aug. 28, 1937, ch. 870, §2, 50 Stat. 869; Aug. 17, 1954, ch. 751, §1(3), 68 Stat. 735, related to powers and duties of Secretary of Agriculture.
 

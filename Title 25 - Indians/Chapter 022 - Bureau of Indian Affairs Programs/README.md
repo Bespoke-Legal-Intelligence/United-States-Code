@@ -14,7 +14,7 @@
 | (i) | Authorization of appropriations. |
 | (j) | Alcohol and substance abuse prevention and treatment. |
 | (k) | “Tribal governing body” defined. |
-| (<i>l)</i> | Application for contracts or grants for non-Bureau funded schools or expansion of Bureau funded schools. |
+| (<i>l</i>) | Application for contracts or grants for non-Bureau funded schools or expansion of Bureau funded schools. |
 | [2002\.](%C2%A7%2002002%20-%20National%20criteria%20for%20dormitory%20situations.md) | National criteria for dormitory situations. |
 | (a) | Study of costs. |
 | (b) | Distribution and publication of criteria. |
@@ -92,10 +92,10 @@
 | (i) | Annual and sick leave. |
 | (j) | Liquidation of remaining leave upon termination. |
 | (k) | Transfer of remaining leave upon transfer, promotion, or reemployment. |
-| (<i>l)</i> | Ineligibility for employment of voluntarily terminated educators. |
+| (<i>l</i>) | Ineligibility for employment of voluntarily terminated educators. |
 | (m) | Dual compensation. |
 | (n) | Definitions. |
-| (<i>o)</i> | Covered individuals; election. |
+| (<i>o</i>) | Covered individuals; election. |
 | (p) | Furlough without consent. |
 | [2013\.](%C2%A7%2002013%20-%20Management%20information%20system.md) | Management information system. |
 | [2014\.](%C2%A7%2002014%20-%20Bureau%20education%20policies.md) | Bureau education policies. |

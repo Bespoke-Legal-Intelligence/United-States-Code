@@ -1,6 +1,6 @@
 ### §1116. Murder or manslaughter of foreign officials, official guests, or internationally protected persons
 
-(a) Whoever kills or attempts to kill a foreign official, official guest, or internationally protected person shall be punished as provided under sections 1111, 1112, and 1113 of this title, except that.<sup>1</sup>
+(a) Whoever kills or attempts to kill a foreign official, official guest, or internationally protected person shall be punished as provided under sections 1111, 1112, and 1113 of this title.
 
 (b) For the purposes of this section:
 
@@ -24,13 +24,21 @@
 
 &emsp;(6) “Official guest” means a citizen or national of a foreign country present in the United States as an official guest of the Government of the United States pursuant to designation as such by the Secretary of State.
 
-(c) If the victim of an offense under subsection (a) is an internationally protected person, the United States may exercise jurisdiction over the offense if the alleged offender is present within the United States, irrespective of the place where the offense was committed or the nationality of the victim or the alleged offender. As used in this subsection, the United States includes all areas under the jurisdiction of the United States including any of the places within the provisions of sections 5 and 7 of this title and section 46501(2) of title 49.
+&emsp;(7) “National of the United States” has the meaning prescribed in section 101(a)(22) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(22)).
+
+(c) If the victim of an offense under subsection (a) is an internationally protected person outside the United States, the United States may exercise jurisdiction over the offense if (1) the victim is a representative, officer, employee, or agent of the United States, (2) an offender is a national of the United States, or (3) an offender is afterwards found in the United States. As used in this subsection, the United States includes all areas under the jurisdiction of the United States including any of the places within the provisions of sections 5 and 7 of this title and section 46501(2) of title 49.
 
 (d) In the course of enforcement of this section and any other sections prohibiting a conspiracy or attempt to violate this section, the Attorney General may request assistance from any Federal, State, or local agency, including the Army, Navy, and Air Force, any statute, rule, or regulation to the contrary notwithstanding.
 
-(Added Pub. L. 92–539, title I, §101, Oct. 24, 1972, 86 Stat. 1071; amended Pub. L. 94–467, §2, Oct. 8, 1976, 90 Stat. 1997; Pub. L. 95–163, §17(b)(1), Nov. 9, 1977, 91 Stat. 1286; Pub. L. 95–504, §2(b), Oct. 24, 1978, 92 Stat. 1705; Pub. L. 97–351, §3, Oct. 18, 1982, 96 Stat. 1666; Pub. L. 103–272, §5(e)(2), July 5, 1994, 108 Stat. 1373; Pub. L. 103–322, title VI, §60003(a)(5), title XXXIII, §330006, Sept. 13, 1994, 108 Stat. 1969, 2142.)
+(Added Pub. L. 92–539, title I, §101, Oct. 24, 1972, 86 Stat. 1071; amended Pub. L. 94–467, §2, Oct. 8, 1976, 90 Stat. 1997; Pub. L. 95–163, §17(b)(1), Nov. 9, 1977, 91 Stat. 1286; Pub. L. 95–504, §2(b), Oct. 24, 1978, 92 Stat. 1705; Pub. L. 97–351, §3, Oct. 18, 1982, 96 Stat. 1666; Pub. L. 103–272, §5(e)(2), July 5, 1994, 108 Stat. 1373; Pub. L. 103–322, title VI, §60003(a)(5), title XXXIII, §330006, Sept. 13, 1994, 108 Stat. 1969, 2142; Pub. L. 104–132, title VII, §721(c), Apr. 24, 1996, 110 Stat. 1298; Pub. L. 104–294, title VI, §601(g)(2), Oct. 11, 1996, 110 Stat. 3500.)
 
 #### Amendments
+
+1996—Subsec. (a). Pub. L. 104–294 struck out “, except that” at end.
+
+Subsec. (b)(7). Pub. L. 104–132, §721(c)(1), added par. (7).
+
+Subsec. (c). Pub. L. 104–132, §721(c)(2), inserted first sentence and struck out former first sentence which read as follows: “If the victim of an offense under subsection (a) is an internationally protected person, the United States may exercise jurisdiction over the offense if the alleged offender is present within the United States, irrespective of the place where the offense was committed or the nationality of the victim or the alleged offender.”
 
 1994—Subsec. (a). Pub. L. 103–322, §330006, which directed the striking of “, and any such person who is found guilty of attempted murder shall be imprisoned for not more than twenty years” before period at end, was executed by striking text which did not include “, and”, to reflect the probable intent of Congress and the prior amendment by Pub. L. 103–322, §60003(a)(5). See below.
 
@@ -56,7 +64,5 @@ Subsec. (d). Pub. L. 94–467 added subsec. (d).
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 11, 112, 878, 970, 1117, 1201, 2333, 2339A, 3286, 3592 of this title; title 8 section 1182.
-
-<i><sup>1</sup></i><i> So in original. The phrase “, except that” preceding the period probably should not appear.</i>
+This section is referred to in sections 11, 112, 878, 970, 1117, 1201, 1956, 2332b, 2333, 2339A, 3286, 3592 of this title; title 8 section 1182.
 

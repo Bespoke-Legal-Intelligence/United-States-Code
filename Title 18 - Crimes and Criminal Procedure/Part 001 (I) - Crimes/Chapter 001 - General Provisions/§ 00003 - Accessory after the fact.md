@@ -4,7 +4,7 @@ Whoever, knowing that an offense against the United States has been committed, r
 
 Except as otherwise expressly provided by any Act of Congress, an accessory after the fact shall be imprisoned not more than one-half the maximum term of imprisonment or (notwithstanding section 3571) fined not more than one-half the maximum fine prescribed for the punishment of the principal, or both; or if the principal is punishable by life imprisonment or death, the accessory shall be imprisoned not more than 15 years.
 
-(June 25, 1948, ch. 645, 62 Stat. 684; Nov. 10, 1986, Pub. L. 99–646, §43, 100 Stat. 3601; Nov. 29, 1990, Pub. L. 101–647, title XXXV, §3502, 104 Stat. 4921; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §§330011(h), 330016(2)(A), 108 Stat. 2145, 2148.)
+(June 25, 1948, ch. 645, 62 Stat. 684; Nov. 10, 1986, Pub. L. 99–646, §43, 100 Stat. 3601; Nov. 29, 1990, Pub. L. 101–647, title XXXV, §3502, 104 Stat. 4921;Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §§330011(h), 330016(2)(A), 108 Stat. 2145, 2148.)
 
 #### Historical and Revision Notes
 
@@ -31,4 +31,8 @@ Pub. L. 103–322, §330011(h), amended directory language of Pub. L. 101–647,
 #### Effective Date of 1994 Amendment
 
 Section 330011(h) of Pub. L. 103–322 provided that the amendment made by that section is effective as of Nov. 29, 1990.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 2332b of this title.
 

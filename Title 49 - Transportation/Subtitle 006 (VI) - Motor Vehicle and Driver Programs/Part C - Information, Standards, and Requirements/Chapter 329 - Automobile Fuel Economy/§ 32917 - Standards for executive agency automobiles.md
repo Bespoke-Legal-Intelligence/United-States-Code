@@ -22,7 +22,9 @@ Fleet Average Fuel Economy.—(1) The President shall prescribe regulations that
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

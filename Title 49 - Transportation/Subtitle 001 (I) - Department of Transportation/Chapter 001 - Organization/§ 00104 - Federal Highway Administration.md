@@ -18,11 +18,15 @@
 
 (d) A duty or power specified by subsection (c)(2) of this section may be transferred to another part of the Department only when specifically provided by law or a reorganization plan submitted under chapter 9 of title 5. A decision of the Administrator in carrying out those duties or powers and involving notice and hearing required by law is administratively final.
 
-(Pub. L. 97–449, Jan. 12, 1983, 96 Stat. 2415; Pub. L. 103–272, §§4(j)(2), 5(m)(2), July 5, 1994, 108 Stat. 1365, 1375.)
+(e) Notwithstanding the provisions of sections 101(d) and 144 of title 23, highway bridges determined to be unreasonable obstructions to navigation under the Truman-Hobbs Act may be funded from amounts set aside from the discretionary bridge program. The Secretary shall transfer these allocations and the responsibility for administration of these funds to the United States Coast Guard.
+
+(Pub. L. 97–449, Jan. 12, 1983, 96 Stat. 2415; Pub. L. 103–272, §§4(j)(2), 5(m)(2), July 5, 1994, 108 Stat. 1365, 1375; Pub. L. 104–324, title I, §101(b)(1), Oct. 19, 1996, 110 Stat. 3905.)
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -80,7 +84,13 @@ In subsection (c), the source provisions are consolidated. The words “The Admi
 
 In subsection (d), the word “law” is substituted for “statute” in 49:1652(e)(4) for consistency. The words after “administratively final” in 49:1655(f)(3)(C) are omitted as unnecessary because of the restatement of the revised title and those laws giving the right to appeal.
 
+#### References in Text
+
+The Truman-Hobbs Act, referred to in subsec. (e), is act June 21, 1940, ch. 409, 54 Stat. 497, as amended, also known as the Hobbs Bridge Act, which is classified generally to subchapter II (§511 et seq.) of chapter 11 of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Tables.
+
 #### Amendments
+
+1996—Subsec. (e). Pub. L. 104–324 added subsec. (e).
 
 1994—Subsec. (b)(1). Pub. L. 103–272, §4(j)(2), substituted “Administrator” for “Admininstrator” before “who is”.
 

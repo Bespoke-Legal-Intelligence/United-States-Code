@@ -12,7 +12,7 @@ For purposes of this subchapter, the following definitions apply:
 
 #### (3) Institution of higher education
 
-&emsp;The term “institution of higher education” means an institution of higher education (as such term is defined in section 1088 of this title) which continues to meet the eligibilityand certification requirements under section 1099c of this title.
+&emsp;The term “institution of higher education” means an institution of higher education (as such term is defined in section 1088 of this title) which continues to meet the eligibility and certification requirements under section 1099c of this title.
 
 #### (4) Skill standard
 

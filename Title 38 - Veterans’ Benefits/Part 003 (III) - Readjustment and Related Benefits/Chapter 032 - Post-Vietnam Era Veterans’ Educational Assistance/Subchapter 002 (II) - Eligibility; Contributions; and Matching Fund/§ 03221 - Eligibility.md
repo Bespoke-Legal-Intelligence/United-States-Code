@@ -30,7 +30,7 @@ Subsec. (f). Pub. L. 101–237, §410, added subsec. (f).
 
 #### Enrollment in Program Before April 1, 1987
 
-For provisions for continued eligibility for enrollment in the program established by this chapter until Apr. 1, 1987, of individuals on active duty in the Armed Forces who were eligible therefor on June 30, 1985, and requiring notice of such continued eligibility to affected individuals, see section 309(c), (d) of Pub. L. 99–576, set out as a note under section 3201 of this title.
+For provisions for continued eligibility for enrollment in the program established by this chapter untilApr. 1, 1987, of individuals on active duty in the Armed Forces who were eligible therefor on June 30, 1985, and requiring notice of such continued eligibility to affected individuals, see section 309(c), (d) of Pub. L. 99–576, set out as a note under section 3201 of this title.
 
 #### Suspension of Right To Enroll in Post-Vietnam Era Program
 

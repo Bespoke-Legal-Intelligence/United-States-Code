@@ -30,7 +30,7 @@
 
 #### References in Text
 
-This Act, referred to in subsec. (a)(2), means Pub. L. 89–750, Nov. 3, 1966, 80 Stat. 1191, as amended, known as the Elementary and Secondary Education Amendments of 1966. Title III of the Act, known as the Adult Education Act, is classified to this chapter. For complete classification of this Act to the Code, see Short Title of 1966 Amendment note set out under section 6301 of this title and Tables.
+This Act, referred to in subsec. (a)(2), means Pub. L. 89–750, Nov. 3, 1966, 80 Stat. 1191, as amended, known asthe Elementary and Secondary Education Amendments of 1966. Title III of the Act, known as the Adult Education Act, is classified to this chapter. For complete classification of this Act to the Code, see Short Title of 1966 Amendment note set out under section 6301 of this title and Tables.
 
 The Job Training Partnership Act, referred to in subsec. (a)(4), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, as amended, which is classified generally to chapter 19 (§1501 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of Title 29 and Tables.
 
@@ -58,7 +58,7 @@ Subsec. (a)(3). Pub. L. 102–73, §301(b)(5), added par. (3). Former par. (3) r
 
 Subsec. (a)(4). Pub. L. 102–73, §301(b)(2), (4), redesignated par. (3) as (4), struck out at beginning “The State educational agency shall not approve any application unless evidence that any consultation required by paragraph (1) has taken place is provided.”, inserted “the projected goals of the applicant with respect to participant recruitment, retention, and educational achievement and how the applicant will measure and report progress in meeting its goals;” after “sources;”, substituted “the Carl D. Perkins Vocational and Applied Technology Education Act” for “the Carl D. Perkins Vocational Education Act”, and substituted “the Individuals with Disabilities Education Act” for “the Education of the Handicapped Act”. Former par. (4) redesignated (5).
 
-Subsec. (a)(5). Pub. L. 102–73, §301(b)(3), (4), redesignated par. (4) as (5), struck out “(A)” before “The State educational agency”, inserted “, particularly in areas with a high proportion of adults who do not have a certificate of graduation from a school providing secondary education or its equivalent” after “adults”, andstruck out subpar. (B) which read as follows: “The provisions of subparagraph (A) shall apply in any fiscal year in which the amount appropriated for basic State grants under this part exceeds the amounts available for such grants in fiscal year 1988.”
+Subsec. (a)(5). Pub. L. 102–73, §301(b)(3), (4), redesignated par. (4) as (5), struck out “(A)” before “The State educational agency”, inserted “, particularly in areas with a high proportion of adults who do not have a certificate of graduation from a school providing secondary education or its equivalent” after “adults”, and struck out subpar. (B) which read as follows: “The provisions of subparagraph (A) shall apply in any fiscal year in which the amount appropriated for basic State grants under this part exceeds the amounts available for such grants in fiscal year 1988.”
 
 #### Section Referred to in Other Sections
 

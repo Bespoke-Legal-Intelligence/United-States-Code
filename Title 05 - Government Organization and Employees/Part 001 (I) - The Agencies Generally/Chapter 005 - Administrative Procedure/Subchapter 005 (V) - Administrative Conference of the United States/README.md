@@ -2,7 +2,7 @@
 
 #### Amendments
 
-<b>1992</b>—Pub. L. 102–354, §2(1), Aug. 26, 1992, 106 Stat. 944, redesignated subchapter III of this chapter as this subchapter.
+1992—Pub. L. 102–354, §2(1), Aug. 26, 1992, 106 Stat. 944, redesignated subchapter III of this chapter as this subchapter.
 
 #### Termination of Administrative Conference of United States
 

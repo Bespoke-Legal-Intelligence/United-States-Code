@@ -18,11 +18,11 @@ For the purposes of this chapter—
 
 (6) The term “active duty” does not include any period during which an individual (A) was assigned full time by the Armed Forces to a civilian institution for a course of education which was substantially the same as established courses offered to civilians, (B) served as a cadet or midshipman at one of the service academies, or (C) served under the provisions of section 12103(d) of title 10 pursuant to an enlistment in the Army National Guard or the Air National Guard, or as a Reserve for service in the Army Reserve, Naval Reserve, Air Force Reserve, Marine Corps Reserve, or Coast Guard Reserve.
 
-(7) The term “active duty” includes full-time National Guard duty first performed after November 29, 1989, by a member of the Army National Guard of the United States or the Air National Guard of the United States in the member's status as a member of the National Guard of a State for the purpose of organizing, administering, recruiting, instructing, or training the National Guard.
+(7) The term “active duty” includes full-time National Guard duty first performed after June 30, 1985, by a member of the Army National Guard of the United States or the Air National Guard of the United States in the member's status as a member of the National Guard of a State for the purpose of organizing, administering, recruiting, instructing, or training the National Guard.
 
 (8) The term “educational institution” has the meaning given such term in section 3452(c) of this title.
 
-(Added Pub. L. 98–525, title VII, §702(a)(1), Oct. 19, 1984, 98 Stat. 2554, §1402; amended Pub. L. 99–576, title III, §301(a), Oct. 28, 1986, 100 Stat. 3267; Pub. L. 100–689, title I, §§108(a)(1), 111(a)(1), Nov. 18, 1988, 102 Stat. 4169, 4170; Pub. L. 101–237, title IV, §423(b)(3), Dec. 18, 1989, 103 Stat. 2092; Pub. L. 101–510, div. A, title V, §563(a), Nov. 5, 1990, 104 Stat. 1575; renumbered §3002 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–337, div. A, title XVI, §1677(d)(2), Oct. 5, 1994, 108 Stat. 3020; Pub. L. 103–446, title VI, §603(b), Nov. 2, 1994, 108 Stat. 4671.)
+(Added Pub. L. 98–525, title VII, §702(a)(1), Oct. 19, 1984, 98 Stat. 2554, §1402; amended Pub. L. 99–576, title III, §301(a), Oct. 28, 1986, 100 Stat. 3267; Pub. L. 100–689, title I, §§108(a)(1), 111(a)(1), Nov. 18, 1988, 102 Stat. 4169, 4170; Pub. L. 101–237, title IV, §423(b)(3), Dec. 18, 1989, 103 Stat. 2092; Pub. L. 101–510, div. A, title V, §563(a), Nov. 5, 1990, 104 Stat. 1575; renumbered §3002 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–337, div. A, title XVI, §1677(d)(2), Oct. 5, 1994, 108 Stat. 3020; Pub. L. 103–446, title VI, §603(b), Nov. 2, 1994, 108 Stat. 4671; Pub. L. 104–275, title I, §107(a), Oct. 9, 1996, 110 Stat. 3329.)
 
 #### Prior Provisions
 
@@ -33,6 +33,8 @@ Another prior section 3004, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1225, rela
 Prior sections 3005 to 3010 were renumbered sections 5105 to 5110 of this title, respectively.
 
 #### Amendments
+
+1996—Par. (7). Pub. L. 104–275 substituted “June 30, 1985” for “November 29, 1989”.
 
 1994—Par. (4). Pub. L. 103–337, §1677(d)(2)(A), substituted “section 10143(a) of title 10” for “section 268(b) of title 10”.
 
@@ -65,6 +67,24 @@ Section 563(b) of Pub. L. 101–510, as amended by Pub. L. 102–83, §5(c)(2), 
 #### Effective Date of 1988 Amendment
 
 Section 108(c) of Pub. L. 100–689 provided that: “The amendments made by this section \[amending this section and sections 1432, 1602, and 1631 \[now 3032, 3202, and 3231\] of this title\] shall take effect on January 1, 1989.”
+
+#### Election of Benefits Under 1996 Amendments
+
+Section 107(b) of Pub. L. 104–275 provided that:
+
+“(1) An individual may only become eligible for benefits under chapter 30 of title 38, United States Code, as a result of the amendment made by subsection (a) \[amending this section\] by making an election to become entitled to basic educational assistance under such chapter. The election may only be made during the nine-month period beginning on the date of the enactment of this Act \[Oct. 9, 1996\] and in the manner required by the Secretary of Defense.
+
+“(2) In the case of any individual making an election under paragraph (1)—
+
+&emsp;“(A) the basic pay of an individual who, while a member of the Armed Forces, makes an election under paragraph (1) shall be reduced (in a manner determined by the Secretary of Defense) until the total amount by which such basic pay is reduced is $1,200; or
+
+&emsp;“(B) to the extent that basic pay is not so reduced before the individual's discharge or release from active duty, the Secretary of Veterans Affairs shall collect from an individual who makes such an election an amount equal to the difference between $1,200 and the total amount of reductions under subparagraph (A), which amount shall be paid into the Treasury as miscellaneous receipts.
+
+“(3) In the case of any individual making an election under paragraph (1), the 10-year period referred to in section 3031 of such title shall begin on the later of—
+
+&emsp;“(A) the date determined under such section 3031; or
+
+&emsp;“(B) the date on which the election under paragraph (1) becomes effective.”
 
 #### Section Referred to in Other Sections
 

@@ -136,7 +136,7 @@ In general.—For purposes of applying paragraph (2) of section 806(d) of the In
 
 &emsp;“(B) during such taxable year, the controlled group does not include a member which is taxable under part I of subchapter L of chapter 1 of such Code and which became a member of such group after September 27, 1983, and
 
-&emsp;“(C) the sum of the contributions to capital received by members of the controlled group which aretaxable under such part I during such taxable year from the members of the controlled group which are not taxable under such part does not exceed the aggregate dividends paid during such taxable year by the members of such group which are taxable under such part I.
+&emsp;“(C) the sum of the contributions to capital received by members of the controlled group which are taxable under such part I during such taxable year from the members of the controlled group which are not taxable under such part does not exceed the aggregate dividends paid during such taxable year by the members of such group which are taxable under such part I.
 
 “(2)
 
@@ -212,15 +212,15 @@ Limitation on tax benefit.—The amount of any reduction in tax for any taxable 
 
 &nbsp;&nbsp;1984
 
-&nbsp;$4,500,000&nbsp;
+&nbsp;$4,500,000&nbsp;&nbsp;
 
 &nbsp;&nbsp;1985
 
-&nbsp;$4,500,000&nbsp;
+&nbsp;$4,500,000&nbsp;&nbsp;
 
 &nbsp;&nbsp;1986
 
-&nbsp;$3,000,000&nbsp;
+&nbsp;$3,000,000&nbsp;&nbsp;
 
 &nbsp;&nbsp;1987
 

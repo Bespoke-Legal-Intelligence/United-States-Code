@@ -4,13 +4,13 @@ Part 2
 
 #### Termination Date
 
-Section 285, formerly section 284, of Pub. L. 93–618, title II, Jan. 3, 1975, 88 Stat. 2041; renumbered §285, Pub. L. 96–417, title VI, §613(a), Oct. 10, 1980, 94 Stat. 1746; and amended Pub. L. 97–35, title XXV, §2512, Aug. 13, 1981, 95 Stat. 888; Pub. L. 98–120, §2(b), Oct. 12, 1983, 97 Stat. 809; Pub. L. 99–107, §3, Sept. 30, 1985, 99 Stat. 479; Pub. L. 99–155, §2(b), Nov. 14, 1985, 99 Stat. 814; Pub. L. 99–181, §2, Dec. 13, 1985, 99 Stat. 1172; Pub. L. 99–189, §2, Dec. 18, 1985, 99 Stat. 1184; Pub. L. 99–272, title XIII, §13007(a), Apr. 7, 1986, 100 Stat. 304; Pub. L. 100–418, title I, §1426(a), Aug. 23, 1988, 102 Stat. 1251; Pub. L. 103–66, title XIII, §13803(a)(1), Aug. 10, 1993, 107 Stat. 668; Pub. L. 103–182, title V, §505, Dec. 8, 1993, 107 Stat. 2152, provided that:
+Section 285, formerly section 284, of Pub. L. 93–618, title II, Jan. 3, 1975, 88 Stat. 2041; renumbered §285, Pub. L. 96–417, title VI, §613(a), Oct. 10, 1980, 94 Stat. 1746; and amended Pub. L. 97–35, title XXV, §2512, Aug. 13, 1981, 95 Stat. 888; Pub. L. 98–120, §2(b), Oct. 12, 1983, 97 Stat. 809; Pub. L. 99–107, §3, Sept. 30, 1985, 99 Stat. 479;Pub. L. 99–155, §2(b), Nov. 14, 1985, 99 Stat. 814; Pub. L. 99–181, §2, Dec. 13, 1985, 99 Stat. 1172; Pub. L. 99–189, §2, Dec. 18, 1985, 99 Stat. 1184; Pub. L. 99–272, title XIII, §13007(a), Apr. 7, 1986, 100 Stat. 304; Pub. L. 100–418, title I, §1426(a), Aug. 23, 1988, 102 Stat. 1251; Pub. L. 103–66, title XIII, §13803(a)(1), Aug. 10, 1993, 107 Stat. 668; Pub. L. 103–182, title V, §505, Dec. 8, 1993, 107 Stat. 2152, provided that:
 
 “(a) Chapter 4 \[enacting part 4 of this subchapter\] shall terminate on September 30, 1982.
 
 “(b) No duty shall be imposed under section 287 \[section 2397 of this title\], after September 30, 1993.
 
-“(c)(1) Except as provided in paragraph (2), no assistance, vouchers, allowances, or other payments may beprovided under chapter 2 \[enacting part 2 of this subchapter and amending section 3302 of Title 26, Internal Revenue Code\], and no technical assistance may be provided under chapter 3 \[enacting part 3 of this subchapter\], after September 30, 1998.
+“(c)(1) Except as provided in paragraph (2), no assistance, vouchers, allowances, or other payments may be provided under chapter 2 \[enacting part 2 of this subchapter and amending section 3302 of Title 26, Internal Revenue Code\], and no technical assistance may be provided under chapter 3 \[enacting part 3 of this subchapter\], after September 30, 1998.
 
 “(2)(A) Except as provided in subparagraph (B), no assistance, vouchers, allowances, or other payments may be provided under subchapter D of chapter 2 \[enacting subpart D of part 2 of this subchapter\] after the day that is the earlier of—
 

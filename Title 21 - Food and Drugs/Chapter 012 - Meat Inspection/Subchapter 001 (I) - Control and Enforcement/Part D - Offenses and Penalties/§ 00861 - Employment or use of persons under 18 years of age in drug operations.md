@@ -16,7 +16,7 @@ Any person who violates subsection (a) of this section is subject to twice the m
 
 #### (c) Penalty for subsequent offenses
 
-Any person who violates subsection (a) of this section after a prior conviction under subsection (a) of this section has become final, is subject to three times the maximum punishment otherwise authorized and at least three times any term of supervised release otherwise authorized for a first offense. Except to the extent a greater minimum sentence is otherwise provided, a term ofimprisonment under this subsection shall not be less than one year. Penalties for third and subsequent convictions shall be governed by section 841(b)(1)(A) of this title.
+Any person who violates subsection (a) of this section after a prior conviction under subsection (a) of this section has become final, is subject to three times the maximum punishment otherwise authorized and at least three times any term of supervised release otherwise authorized for a first offense. Except to the extent a greater minimum sentence is otherwise provided, a term of imprisonment under this subsection shall not be less than one year. Penalties for third and subsequent convictions shall be governed by section 841(b)(1)(A) of this title.
 
 #### (d) Penalty for providing or distributing controlled substance to underage person
 
@@ -62,7 +62,7 @@ Subsec. (e). Pub. L. 100–690, §6470(d), struck out “required by section 841
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 841 of this title; title 18 section 3592.
+This section is referred to in section 841 of this title; title 18 sections 3592, 3663.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a dash.</i>
 

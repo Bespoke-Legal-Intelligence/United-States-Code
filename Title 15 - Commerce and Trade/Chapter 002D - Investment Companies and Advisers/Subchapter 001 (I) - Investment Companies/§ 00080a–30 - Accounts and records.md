@@ -1,22 +1,76 @@
 ### §80a–30. Accounts and records
 
-#### (a) Records constituting basis for financial statements; records necessary to record person's transactions with company
+#### (a) Maintenance of records
 
-Every registered investment company, and every underwriter, broker, dealer, or investment adviser which is a majority-owned subsidiary of such a company, shall maintain and preserve for such period or periods as the Commission may prescribe by rules and regulations, such accounts, books, and other documents as constitute the record forming the basis for financial statements required to be filed pursuant to section 80a–29 of this title, and of the auditor's certificates relating thereto. Every investment adviser not a majority-owned subsidiary of, and every depositor of any registered investment company, and every principal underwriter for any registered investment company other than a closed-end company, shall maintain and preserve for such period or periods as the Commission shall prescribe by rules and regulations, such accounts, books, and other documents as are necessary or appropriate to record such person's transactions with such registered company.
+#### (1) In general
 
-#### (b) Examination of records by Commission
+&emsp;Each registered investment company, and each underwriter, broker, dealer, or investment adviser that is a majority-owned subsidiary of such a company, shall maintain and preserve such records (as defined in section 78c(a)(37) of this title) for such period or periods as the Commission, by rules and regulations, may prescribe as necessary or appropriate in the public interest or for the protection of investors. Each investment adviser that is not a majority-owned subsidiary of, and each depositor of any registered investment company, and each principal underwriter for any registered investment company other than a closed-end company, shall maintain and preserve for such period or periods as the Commission shall prescribe by rules and regulations, such records as are necessary or appropriate to record such person's transactions with such registered company.
 
-All accounts, books, and other records, required to be maintained and preserved by any person pursuant to subsection (a) of this section,shall be subject at any time and from time to time to such reasonable periodic, special, and other examinations by the Commission, or any member or representative thereof, as the Commission may prescribe. Any such person shall furnish to the Commission, within such reasonable time as the Commission may prescribe, copies of or extracts from such records which may be prepared without undue effort, expense, or delay, as the Commission may by order require.
+#### (2) Minimizing compliance burden
 
-#### (c) Uniformity in accounting policies
+&emsp;In exercising its authority under this subsection, the Commission shall take such steps as it deems necessary or appropriate, consistent with the public interest and for the protection of investors, to avoid unnecessary recordkeeping by, and minimize the compliance burden on, persons required to maintain records under this subsection (hereafter in this section referred to as “subject persons”). Such steps shall include considering, and requesting public comment on—
+
+&emsp;&emsp;(A) feasible alternatives that minimize the recordkeeping burdens on subject persons;
+
+&emsp;&emsp;(B) the necessity of such records in view of the public benefits derived from the independent scrutiny of such records through Commission examination;
+
+&emsp;&emsp;(C) the costs associated with maintaining the information that would be required to be reflected in such records; and
+
+&emsp;&emsp;(D) the effects that a proposed recordkeeping requirement would have on internal compliance policies and procedures.
+
+#### (b) Examinations of records
+
+#### (1) In general
+
+&emsp;All records required to be maintained and preserved in accordance with subsection (a) of this section shall be subject at any time and from time to time to such reasonable periodic, special, and other examinations by the Commission, or any member or representative thereof, as the Commission may prescribe.
+
+#### (2) Availability
+
+&emsp;For purposes of examinations referred to in paragraph (1), any subject person shall make available to the Commission or its representatives any copies or extracts from such records as may be prepared without undue effort, expense, or delay as the Commission or its representatives may reasonably request.
+
+#### (3) Commission action
+
+&emsp;The Commission shall exercise its authority under this subsection with due regard for the benefits of internal compliance policies and procedures and the effective implementation and operation thereof.
+
+#### (c) Limitations on disclosure by Commission
+
+Notwithstanding any other provision of law, the Commission shall not be compelled to disclose any internal compliance or audit records, or information contained therein, provided to the Commission under this section. Nothing in this subsection shall authorize the Commission to withhold information from the Congress or prevent the Commission from complying with a request for information from any other Federal department or agency requesting the information for purposes within the scope of the jurisdiction of that department or agency, or complying with an order of a court of the United States in an action brought by the United States or the Commission. For purposes of section 552 of title 5, this section shall be considered a statute described in subsection (b)(3)(B) of such section 552.
+
+#### (d) Definitions
+
+For purposes of this section—
+
+&emsp;(1) the term “internal compliance policies and procedures” means policies and procedures designed by subject persons to promote compliance with the Federal securities laws; and
+
+&emsp;(2) the term “internal compliance and audit record” means any record prepared by a subject person in accordance with internal compliance policies and procedures.
+
+#### (e) Regulatory authority
 
 The Commission may, in the public interest or for the protection of investors, issue rules and regulations providing for a reasonable degree of uniformity in the accounting policies and principles to be followed by registered investment companies in maintaining their accounting records and in preparing financial statements required pursuant to this subchapter.
 
-#### (d) Application for exemption from provisions of section
+#### (f) Exemption authority
 
-The Commission, upon application made by any registered investment company, may by order exempt a specific transaction or transactions from the provisions of any rule or regulation made pursuant to subsection (c) of this section, if the Commission finds that such rule or regulation should not reasonably be applied to such transaction.
+The Commission, upon application made by any registered investment company, may by order exempt a specific transaction or transactions from the provisions of any rule or regulation made pursuant to subsection (c) <sup>1</sup> of this section, if the Commission finds that such rule or regulation should not reasonably be applied to such transaction.
 
-(Aug. 22, 1940, ch. 686, title I, §31, 54 Stat. 838.)
+(Aug. 22, 1940, ch. 686, title I, §31, 54 Stat. 838; Oct. 11, 1996, Pub. L. 104–290, title II, §207, 110 Stat. 3430.)
+
+#### References in Text
+
+Subsection (c) of this section, referred to in subsec. (f), was redesignated subsec. (e) of this section by Pub. L. 104–290, title II, §207(2), Oct. 11, 1996, 110 Stat. 3431.
+
+#### Amendments
+
+1996—Subsecs. (a), (b). Pub. L. 104–290, §207(1), added subsecs. (a) and (b) and struck out former subsecs. (a) and (b) which read as follows:
+
+“(a) Every registered investment company, and every underwriter, broker, dealer, or investment adviser which is a majority-owned subsidiary of such a company, shall maintain and preserve for such period or periods as the Commission may prescribe by rules and regulations, such accounts, books, and other documents as constitute the record forming the basis for financial statements required to be filed pursuant to section 80a–29 of this title, and of the auditor's certificates relating thereto. Every investment adviser not a majority-owned subsidiary of, and every depositor of any registered investment company, and every principal underwriter for any registered investment company other than a closed-end company, shall maintain and preserve for such period or periods as the Commission shall prescribe by rules and regulations, such accounts, books, and other documents as are necessary or appropriate to record such person's transactions with such registered company.
+
+“(b) All accounts, books, and other records, required to be maintained and preserved by any person pursuant to subsection (a) of this section, shall be subject at any time and from time to time to such reasonable periodic, special, and other examinations by the Commission, or any member or representative thereof, as the Commission may prescribe. Any such person shall furnish to the Commission, within such reasonable time as the Commission may prescribe, copies of or extracts from such records which may be prepared without undue effort, expense, or delay, as the Commission may by order require.”
+
+Subsecs. (c), (d). Pub. L. 104–290, §207(3), added subsecs. (c) and (d). Former subsecs. (c) and (d) redesignated (e) and (f), respectively.
+
+Subsec. (e). Pub. L. 104–290, §207(2), (4), redesignated subsec. (c) as (e) and inserted heading.
+
+Subsec. (f). Pub. L. 104–290, §207(2), (5), redesignated subsec. (d) as (f) and inserted heading.
 
 #### Transfer of Functions
 
@@ -33,4 +87,6 @@ Falsification of reports and records, see section 80a–33 of this title.
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 80a–2, 80a–6, 80a–33, 80a–48, 80a–56, 80a–63 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

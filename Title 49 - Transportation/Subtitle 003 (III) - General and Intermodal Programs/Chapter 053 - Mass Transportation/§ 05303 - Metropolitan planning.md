@@ -20,7 +20,7 @@ Plan and Program Factors.—In developing plans and programs under this section 
 
 &emsp;(6) the effects of all transportation projects to be undertaken in the metropolitan area, without regard to whether the projects are publicly financed.
 
-&emsp;(7) international border crossings and access to ports, airports, intermodal transportation facilities, major freight distribution routes, national parks, recreation areas, monuments and historic sites, and military installations.
+&emsp;(7) international border crossings and access to ports, airports, intermodal transportationfacilities, major freight distribution routes, national parks, recreation areas, monuments and historic sites, and military installations.
 
 &emsp;(8) the need for connecting roads in the metropolitan area with roads outside the area.
 
@@ -110,7 +110,7 @@ Developing Long-Range Plans.—(1) Each metropolitan planning organization shall
 
 &emsp;(D) indicate appropriate proposed transportation enhancement activities.
 
-(2) When formulating a long-range plan, the metropolitan planning organization shall consider the factors described in subsection (e) of this section as they are related to a 20-year forecast period.
+(2) When formulating a long-range plan, the metropolitan planning organization shall consider the factors described in subsection (b) of this section as they are related to a 20-year forecast period.
 
 (3) In a metropolitan area that is in a nonattainment area for ozone or carbon monoxide under the Clean Air Act (42 U.S.C. 7401 et seq.), the metropolitan planning organization shall coordinate the development of the long-range plan with the development of the transportation control measures of the State Implementation Plan required by the Act.
 
@@ -124,7 +124,7 @@ Developing Long-Range Plans.—(1) Each metropolitan planning organization shall
 
 (g)
 
-Grants.—Under criteria the Secretary of Transportation establishes, the Secretary may make contracts for, and grants to, States, localgovernmental authorities, and authorities of the States and governmental authorities, or may make agreements with other departments, agencies, and instrumentalities of the Government, to plan, engineer, design, and evaluate a mass transportation project and for other technical studies, including—
+Grants.—Under criteria the Secretary of Transportation establishes, the Secretary may make contracts for, and grants to, States, local governmental authorities, and authorities of the States and governmental authorities, or may make agreements with other departments, agencies, and instrumentalities of the Government, to plan, engineer, design, and evaluate a mass transportation project and for other technical studies, including—
 
 &emsp;(1) studies related to management, operations, capital requirements, and economic feasibility;
 
@@ -152,7 +152,7 @@ Balanced and Comprehensive Planning.—(1) To the extent practicable, the Secret
 
 (B) Amounts under this paragraph shall be allocated under a formula that reflects the additional cost of carrying out planning, programming, and project selection responsibilities under this section and sections 5304–5306 of this title in those areas.
 
-(4) To the maximum extent practicable, the Secretary of Transportation shall ensure that no metropolitan planning organization is allocated less than the amount it received by administrative formula under this section in the fiscal year that ended September 30, 1991. To carry out this subsection, the Secretary may make a proportionate reduction in other amounts made available to carry out section 5338(g)(1) of this title.
+(4) To the maximum extent practicable, the Secretary of Transportation shall ensure that nometropolitan planning organization is allocated less than the amount it received by administrative formula under this section in the fiscal year that ended September 30, 1991. To carry out this subsection, the Secretary may make a proportionate reduction in other amounts made available to carry out section 5338(g) of this title.
 
 (5) Amounts available for an activity under this subsection are for 80 percent of the cost of the activity unless the Secretary of Transportation decides it is in the interests of the Government not to require a State or local match.
 
@@ -162,11 +162,15 @@ Balanced and Comprehensive Planning.—(1) To the extent practicable, the Secret
 
 &emsp;(B) that is unobligated at the end of the 3-year period shall be reapportioned among the States for the next fiscal year.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 788.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 788; Pub. L. 104–287, §5(10), Oct. 11, 1996, 110 Stat. 3389.)
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+Pub. L. 103–272
+
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -176,7 +180,7 @@ Historical and Revision Notes
 
 49 App.:1607(a) (2d–last sentences).
 
-July 9, 1964, Pub. L. 88–365, 78 Stat. 302, §8(a) (2d–last sentences)– (g), (n); added Nov. 6, 1978, Pub. L. 95–599, §305(b), 92 Stat. 2743; Apr. 2, 1987, Pub. L. 100–17, §310, 101 Stat. 227; restated Dec. 18, 1991, Pub. L. 102–240, §3012, 105 Stat. 2098, 2104.
+July 9, 1964, Pub. L. 88–365, 78 Stat. 302, §8(a) (2d–last sentences)–(g), (n); added Nov. 6, 1978, Pub. L. 95–599, §305(b), 92 Stat. 2743; Apr. 2, 1987, Pub. L. 100–17, §310, 101 Stat. 227; restated Dec. 18, 1991, Pub. L. 102–240, §3012, 105 Stat. 2098, 2104.
 
 5303(b)
 
@@ -250,9 +254,23 @@ In subsection (g), before clause (1), the words “local governmental authoritie
 
 In subsection (h)(6)(A), the words “for obligation”, “a period of”, and “the close of” are omitted as surplus.
 
+#### Pub. L. 104–287
+
+This amends 49:5303(f)(2) and (h)(4) to correct erroneous cross-references.
+
 #### References in Text
 
 The Clean Air Act, referred to in subsecs. (c)(5)(B), (d), (e)(3), and (f)(3), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
+
+#### Amendments
+
+1996—Subsec. (f)(2). Pub. L. 104–287, §5(10)(A), substituted “subsection (b)” for “subsection (e)”.
+
+Subsec. (h)(4). Pub. L. 104–287, §5(10)(B), substituted “section 5338(g)” for “5338(g)(1)”.
+
+#### Effective Date of 1996 Amendment
+
+Section 8(1) of Pub. L. 104–287 provided that: “The amendments made by sections 3 and 5(10)–(17), (19), (20), (52), (53), (55), (61), (62), (65), (70), (77), (78), and (91)–(93) of this Act \[amending this section, sections 5307, 5309, 5315, 5317, 5323, 5325, 5327, 5336, 5338, 20301, 21301, 22106, 32702, 32705, 40109, 41109, 46301, 46306, 60114, 70102, and 70112 of this title, and section 1445 of Title 28, Judiciary and Judicial Procedure\] shall take effect on July 5, 1994.”
 
 #### Section Referred to in Other Sections
 

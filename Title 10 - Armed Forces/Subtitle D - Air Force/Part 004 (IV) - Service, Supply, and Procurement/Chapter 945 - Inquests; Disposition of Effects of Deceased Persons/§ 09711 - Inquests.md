@@ -1,6 +1,6 @@
 ### §9711. Inquests
 
-(a) When a person is found dead under circumstances that require investigation, at a placegarrisoned by the Air Force and under the exclusive jurisdiction of the United States, the commanding officer shall direct a summary court-martial to investigate the circumstances of the death.
+(a) When a person is found dead under circumstances that require investigation, at a place garrisoned by the Air Force and under the exclusive jurisdiction of the United States, the commanding officer shall direct a summary court-martial to investigate the circumstances of the death.
 
 (b) In conducting an investigation under subsection (a), the summary court-martial may summon witnesses and examine them upon oath.
 
@@ -18,7 +18,15 @@ Historical and Revision Notes
 
 9711(a)
 
+&nbsp;
+
+&nbsp;
+
 9711(b)
+
+&nbsp;
+
+&nbsp;
 
 10:15a (words before semicolon of 1st sentence).
 

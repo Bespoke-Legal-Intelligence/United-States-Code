@@ -24,7 +24,21 @@
 
 (2) The Secretary shall apply the restrictions on controlling interest in section 2(b) of the Shipping Act, 1916 (46 App. U.S.C. 802(b)) when applying this subsection.
 
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 585; Pub. L. 99–509, title V, §5102(b)(6), Oct. 21, 1986, 100 Stat. 1927; Pub. L. 100–239, §7(a), Jan. 11, 1988, 101 Stat. 1782; Pub. L. 100–710, title I, §104(a)(4), (5), Nov. 23, 1988, 102 Stat. 4750; Pub. L. 101–225, title III, §301(a)(2), Dec. 12, 1989, 103 Stat. 1920.)
+(d)(1) For the issuance of a certificate of documentation with only a registry endorsement, subsection (a)(2)(A) of this section does not apply to a beneficiary of a trust that is qualified under paragraph (2) of this subsection if the vessel is subject to a charter to a citizen of the United States.
+
+(2)(A) Subject to subparagraph (B) of this paragraph, a trust is qualified under this paragraph with respect to a vessel only if—
+
+&emsp;(i) each of the trustees is a citizen of the United States; and
+
+&emsp;(ii) the application for documentation of the vessel includes the affidavit of each trustee stating that the trustee is not aware of any reason involving a beneficiary of the trust that is not a citizen of the United States, or involving any other person that is not a citizen of the United States, as a result of which the beneficiary or other person would hold more than 25 percent of the aggregate power to influence or limit the exercise of the authority of the trustee with respect to matters involving any ownership or operation of the vessel that may adversely affect the interests of the United States.
+
+(B) If any person that is not a citizen of the United States has authority to direct or participate in directing a trustee for a trust in matters involving any ownership or operation of the vessel that may adversely affect the interests of the United States or in removing a trustee for a trust without cause, either directly or indirectly through the control of another person, the trust is not qualified under this paragraph unless the trust instrument provides that persons who are not citizens of the United States may not hold more than 25 percent of the aggregate authority to so direct or remove a trustee.
+
+(3) Paragraph (2) of this subsection shall not be considered to prohibit a person who is not a citizen of the United States from holding more than 25 percent of the beneficial interest in a trust.
+
+(4) If a person chartering a vessel from a trust that is qualified under paragraph (2) of this subsection is a citizen of the United States under section 2 of the Shipping Act, 1916 (46 App. U.S.C. 802), then the vessel is deemed to be owned by a citizen of the United States for purposes of that section and related laws, except for subtitle B of title VI of the Merchant Marine Act, 1936.
+
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 585; Pub. L. 99–509, title V, §5102(b)(6), Oct. 21, 1986, 100 Stat. 1927; Pub. L. 100–239, §7(a), Jan. 11, 1988, 101 Stat. 1782; Pub. L. 100–710, title I, §104(a)(4), (5), Nov. 23, 1988, 102 Stat. 4750; Pub. L. 101–225, title III, §301(a)(2), Dec. 12, 1989, 103 Stat. 1920; Pub. L. 104–324, title XI, §1136(a), Oct. 19, 1996, 110 Stat. 3986.)
 
 Historical and Revision Notes
 
@@ -38,7 +52,13 @@ Historical and Revision Notes
 
 Section 12102 provides that vessels of at least five net tons, not registered under the laws of a foreign nation, are eligible for documentation if certain ownership requirements are met, and lists the ownership requirements.
 
+#### References in Text
+
+The Merchant Marine Act, 1936, referred to in subsec. (d)(4), is act June 29, 1936, ch. 858, 49 Stat. 1985, as amended. Subtitle B of title VI of the Act is classified generally to part B (§1187 et seq.) of subchapter VI of chapter 27 of Title 46, Appendix, Shipping. For complete classification of this Act to the Code, see section 1245 of Title 46, Appendix, and Tables.
+
 #### Amendments
+
+1996—Subsec. (d). Pub. L. 104–324 added subsec. (d).
 
 1989—Subsec. (a). Pub. L. 101–225, §301(a)(2)(A), inserted “that is” before “not” and “or is not titled in a State” after “foreign country”.
 
@@ -60,7 +80,7 @@ Amendment by Pub. L. 100–710 effective Jan. 1, 1989, with certain exceptions a
 
 #### Application of Section to Fishing Vessels in California
 
-Citizen of the United States to include an alien lawfully admitted for permanent residence, for purposes of applying this section to vessels operating in waters off the coast of California, subject to United States jurisdiction, see section 317 of Pub. L. 101–595, set out as a note under section 8103 of this title.
+Citizen of the United States to include an alien lawfully admitted for permanent residence, for purposes ofapplying this section to vessels operating in waters off the coast of California, subject to United States jurisdiction, see section 317 of Pub. L. 101–595, set out as a note under section 8103 of this title.
 
 #### Applicability of Subsection (b)
 

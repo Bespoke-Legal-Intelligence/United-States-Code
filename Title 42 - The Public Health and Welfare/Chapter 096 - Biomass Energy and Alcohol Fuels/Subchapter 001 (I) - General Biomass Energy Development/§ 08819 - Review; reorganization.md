@@ -2,7 +2,7 @@
 
 (a) The President shall review periodically the progress of the Secretary of Agriculture and the Secretary of Energy in carrying out the purposes of this subchapter.
 
-(b) If the President determines it necessary in order to achieve such purposes the Presidentmay, in accordance with the provisions of chapter 9 of title 5, provide for a reorganization, including any required realignment of the respective programs of the Secretaries under this subchapter.
+(b) If the President determines it necessary in order to achieve such purposes the President may, in accordance with the provisions of chapter 9 of title 5, provide for a reorganization, including any required realignment of the respective programs of the Secretaries under this subchapter.
 
 (Pub. L. 96–294, title II, §219, June 30, 1980, 94 Stat. 695.)
 

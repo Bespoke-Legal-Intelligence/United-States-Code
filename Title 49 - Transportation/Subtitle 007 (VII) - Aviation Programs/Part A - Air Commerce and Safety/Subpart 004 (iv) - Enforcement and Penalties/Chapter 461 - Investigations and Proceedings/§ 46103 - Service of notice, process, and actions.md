@@ -24,13 +24,15 @@ Service.—(1) Service may be made—
 
 (c)
 
-Serving Agents.—Service on an agent designated under this section shall be made at the office or usual place of residence of the agent. If an air carrier or foreign air carrier does nothave a designated agent, service may be made by posting the notice, process, or action in the office of the Secretary or Administrator.
+Serving Agents.—Service on an agent designated under this section shall be made at the office or usual place of residence of the agent. If an air carrier or foreign air carrier does not have a designated agent, service may be made by posting the notice, process, or action in the office of the Secretary or Administrator.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1227.)
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -44,7 +46,7 @@ Aug. 23, 1958, Pub. L. 85–726, §1005(b), 72 Stat. 794..
 
 &nbsp;
 
-49 App.:1551(b) (1)(E).
+49 App.:1551(b)(1)(E).
 
 Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1601(b)(1)(E); added Oct. 4, 1984, Pub. L. 98–443, §3(e), 98 Stat. 1704.
 
@@ -66,7 +68,7 @@ Aug. 23, 1958, Pub. L. 85–726, §1005(c), 72 Stat. 794; restated Aug. 25, 1959
 
 &nbsp;
 
-49 App.:1551(b) (1)(E).
+49 App.:1551(b)(1)(E).
 
 &nbsp;
 

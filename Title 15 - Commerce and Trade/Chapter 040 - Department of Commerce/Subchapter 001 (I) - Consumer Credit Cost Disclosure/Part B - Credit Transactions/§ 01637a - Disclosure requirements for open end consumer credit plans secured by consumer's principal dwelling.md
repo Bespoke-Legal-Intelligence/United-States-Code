@@ -84,7 +84,7 @@ In the case of any open end consumer credit plan which provides for any extensio
 
 &emsp;&emsp;A statement that—
 
-&emsp;&emsp;&emsp;(i) the consumer may elect not to enter into an agreement to open an account under the plan if any term changes (other than a change contemplated by a variable feature of the plan) before any such agreement is final; and
+&emsp;&emsp;&emsp;(i) the consumer may elect not to enter into an agreement to open an account under the plan if any term changes (otherthan a change contemplated by a variable feature of the plan) before any such agreement is final; and
 
 &emsp;&emsp;&emsp;(ii) if the consumer makes an election described in clause (i), the consumer is entitled to a refund of all fees paid in connection with the application.
 
@@ -96,7 +96,7 @@ In the case of any open end consumer credit plan which provides for any extensio
 
 &emsp;A statement that—
 
-&emsp;&emsp;(A) under certain conditions, the creditor may terminate any account under the plan and require immediate repayment of anyoutstanding balance, prohibit any additional extension of credit to the account, or reduce the credit limit applicable to the account; and
+&emsp;&emsp;(A) under certain conditions, the creditor may terminate any account under the plan and require immediate repayment of any outstanding balance, prohibit any additional extension of credit to the account, or reduce the credit limit applicable to the account; and
 
 &emsp;&emsp;(B) the consumer may receive, upon request, more specific information about the conditions under which the creditor may take any action described in subparagraph (A).
 
@@ -172,7 +172,7 @@ In the case of any open end consumer credit plan which provides for any extensio
 
 #### (B) Telephone, publications, and third party applications
 
-&emsp;&emsp;In the case of telephone applications, applications contained in magazines or other publications, or applications provided by a third party, the disclosures required under subsection (a) of this section and the pamphlet required under subsection (e) of this section shall be provided by the creditor before the end of the 3-day period beginning on the date the creditor receives a completed application from a consumer.
+&emsp;&emsp;In the case of telephone applications, applications contained in magazines or other publications, or applications provided by a third party, the disclosures required undersubsection (a) of this section and the pamphlet required under subsection (e) of this section shall be provided by the creditor before the end of the 3-day period beginning on the date the creditor receives a completed application from a consumer.
 
 #### (2) Form
 
@@ -254,7 +254,7 @@ Voluntary Compliance.—Notwithstanding subsection (b), any creditor may comply 
 
 Section 4 of Pub. L. 100–709 provided that: “The Board of Governors of the Federal Reserve System shall develop and prepare a pamphlet for distribution to consumers which contains—
 
-&emsp;“(1) a general description of open end consumer credit plans secured by the consumer's principal dwelling and the terms and conditions under which such loans are generally extended; and
+&emsp;“(1) a general description of open end consumer credit plans secured by the consumer's principaldwelling and the terms and conditions under which such loans are generally extended; and
 
 &emsp;“(2) a discussion of the potential advantages and disadvantages of such plans, including how to compare among home equity plans and between home equity and closed end credit plans.”
 

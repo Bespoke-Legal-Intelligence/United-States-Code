@@ -8,9 +8,31 @@ The following investment companies are exempt from the provisions of this subcha
 
 &emsp;(2) Any company which since the effective date of this subchapter or within five years prior to such date has been reorganized under the supervision of a court of competent jurisdiction, if (A) such company was not an investment company at the commencement of such reorganization proceedings, (B) at the conclusion of such proceedings all outstanding securities of such company were owned by creditors of such company or by persons to whom such securities were issued on account of creditors’ claims, and (C) more than 50 per centum of the voting securities of such company, and securities representing more than 50 per centum of the net asset value of such company, are currently owned beneficially by not more than twenty-five persons; but such exemption shall terminate if any security of which such company is the issuer is offered for sale or sold to the public after the conclusion of such proceedings by the issuer or by or through any underwriter. For the purposes of this paragraph, any new company organized as part of the reorganization shall be deemed the same company as its predecessor; and beneficial ownership shall be determined in the manner provided in section 80a–3(c)(1) of this title.
 
-&emsp;(3) Any issuer as to which there is outstanding a writing filed with the Commission by the Federal Savings and Loan Insurance Corporation stating that exemption of such issuer from the provisions of this subchapter is consistent with the public interest and the protection of investors and is necessary or appropriate by reason of the fact that such issuer holds or proposes to acquire any assets or any product of any assets which have been segregated (A) from assets of any company which at the filing of such writing is an insured institution within the meaning of section 1724(a) <sup>1</sup> of title 12, or (B) as a part of or in connection with any plan for or condition to theinsurance of accounts of any company by said corporation or the conversion of any company into a Federal savings and loan association. Any such writing shall expire when canceled by a writing similarly filed or at the expiration of two years after the date of its filing, whichever first occurs; but said corporation may, nevertheless, before, at, or after the expiration of any such writing file another writing or writings with respect to such issuer.
+&emsp;(3) Any issuer as to which there is outstanding a writing filed with the Commission by the Federal Savings and Loan Insurance Corporation stating that exemption of such issuer from the provisions of this subchapter is consistent with the public interest and the protection of investors and is necessary or appropriate by reason of the fact that such issuer holds or proposes to acquire any assets or any product of any assets which have been segregated (A) from assets of any company which at the filing of such writing is an insured institution within the meaning of section 1724(a) <sup>1</sup> of title 12, or (B) as a part of or in connection with any plan for or condition to the insurance of accounts of any company by said corporation or the conversion of any company into a Federal savings and loan association. Any such writing shall expire when canceled by a writing similarly filed or at the expiration of two years after the date of its filing, whichever first occurs; but said corporation may, nevertheless, before, at, or after the expiration of any such writing file another writing or writings with respect to such issuer.
 
 &emsp;(4) Any company which prior to March 15, 1940, was and now is a wholly-owned subsidiary of a registered face-amount certificate company and was prior to said date and now is organized and operating under the insurance laws of any State and subject to supervision and examination by the insurance commissioner thereof, and which prior to March 15, 1940, was and now is engaged, subject to such laws, in business substantially all of which consists of issuing and selling only to residents of such State and investing the proceeds from, securities providing for or representing participations or interests in intangible assets consisting of mortgages or other liens on real estate or notes or bonds secured thereby or in a fund or deposit of mortgages or other liens on real estate or notes or bonds secured thereby or having outstanding such securities so issued and sold.
+
+&emsp;(5)(A) Any company that is not engaged in the business of issuing redeemable securities, the operations of which are subject to regulation by the State in which the company is organized under a statute governing entities that provide financial or managerial assistance to enterprises doing business, or proposing to do business, in that State if—
+
+&emsp;&emsp;(i) the organizational documents of the company state that the activities of the company are limited to the promotion of economic, business, or industrial development in the State through the provision of financial or managerial assistance to enterprises doing business, or proposing to do business, in that State, and such other activities that are incidental or necessary to carry out that purpose;
+
+&emsp;&emsp;(ii) immediately following each sale of the securities of the company by the company or any underwriter for the company, not less than 80 percent of the securities of the company being offered in such sale, on a class-by-class basis, are held by persons who reside or who have a substantial business presence in that State;
+
+&emsp;&emsp;(iii) the securities of the company are sold, or proposed to be sold, by the company or by any underwriter for the company, solely to accredited investors, as that term is defined in section 77b(a)(15) of this title, or to such other persons that the Commission, as necessary or appropriate in the public interest and consistent with the protection of investors, may permit by rule, regulation, or order; and
+
+&emsp;&emsp;(iv) the company does not purchase any security issued by an investment company or by any company that would be an investment company except for the exclusions from the definition of the term “investment company” under paragraph (1) or (7) of section 80a–3(c) of this title, other than—
+
+&emsp;&emsp;&emsp;(I) any debt security that is rated investment grade by not less than 1 nationally recognized statistical rating organization; or
+
+&emsp;&emsp;&emsp;(II) any security issued by a registered open-end investment company that is required by its investment policies to invest not less than 65 percent of its total assets in securities described in subclause (I) or securities that are determined by such registered open-end investment company to be comparable in quality to securities described in subclause (I).
+
+&emsp;(B) Notwithstanding the exemption provided by this paragraph, section 80a–9 of this title (and, to the extent necessary to enforce section 80a–9 of this title, sections 80a–37 through 80a–50 of this title) shall apply to a company described in this paragraph as if the company were an investment company registered under this subchapter.
+
+&emsp;(C) Any company proposing to rely on the exemption provided by this paragraph shall file with the Commission a notification stating that the company intends to do so, in such form and manner as the Commission may prescribe by rule.
+
+&emsp;(D) Any company meeting the requirements of this paragraph may rely on the exemption provided by this paragraph upon filing with the Commission the notification required by subparagraph (C), until such time as the Commission determines by order that such reliance is not in the public interest or is not consistent with the protection of investors.
+
+&emsp;(E) The exemption provided by this paragraph may be subject to such additional terms and conditions as the Commission may by rule, regulation, or order determine are necessary or appropriate in the public interest or for the protection of investors.
 
 #### (b) Exemption of employees’ security company upon application; matters considered
 
@@ -24,7 +46,7 @@ The Commission, by rules and regulations upon its own motion, or by order upon a
 
 The Commission, by rules and regulations or order, shall exempt a closed-end investment company from any or all provisions of this subchapter, but subject to such terms and conditions as may be necessary or appropriate in the public interest or for the protection of investors, if—
 
-&emsp;(1) the aggregate sums received by such company from the sale of all its outstanding securities, plus the aggregate offering price of all securities of which such company is the issuer and which it proposes to offer for sale, do not exceed $100,000;
+&emsp;(1) the aggregate sums received by such company from the sale of all its outstanding securities, plus the aggregate offering price of all securities of which such company is the issuer and which it proposes to offer for sale, do not exceed $10,000,000, or such other amount as the Commission may set by rule, regulation, or order;
 
 &emsp;(2) no security of which such company is the issuer has been or is proposed to be sold by such company or any underwriter therefor, in connection with a public offering, to any person who is not a resident of the State under the laws of which such company is organized or otherwise created; and
 
@@ -44,7 +66,7 @@ Any closed-end company which—
 
 > shall be exempt from sections 80a–1 through 80a–52 of this title, except to the extent provided in sections 80a–58 through 80a–64 of this title.
 
-(Aug. 22, 1940, ch. 686, title I, §6, 54 Stat. 800; Proc. No. 2695, eff. July 4, 1946, 11 F.R. 7517, 60 Stat. 1352; June 25, 1959, Pub. L. 86–70, §12(e), 73 Stat. 143; July 12, 1960, Pub. L. 86–624, §7(c), 74 Stat. 412; Nov. 6, 1978, Pub. L. 95–598, title III, §310(b), 92 Stat. 2676; Oct. 21, 1980, Pub. L. 96–477, title I, §103, 94 Stat. 2277; Dec. 4, 1987, Pub. L. 100–181, title VI, §608, 101 Stat. 1261.)
+(Aug. 22, 1940, ch. 686, title I, §6, 54 Stat. 800; Proc. No. 2695, eff. July 4, 1946, 11 F.R. 7517, 60 Stat. 1352; June 25, 1959, Pub. L. 86–70, §12(e), 73 Stat. 143; July 12, 1960, Pub. L. 86–624, §7(c), 74 Stat. 412; Nov. 6, 1978, Pub. L. 95–598, title III, §310(b), 92 Stat. 2676; Oct. 21, 1980, Pub. L. 96–477, title I, §103, 94 Stat. 2277; Dec. 4, 1987, Pub. L. 100–181, title VI, §608, 101 Stat. 1261; Oct. 11, 1996, Pub. L. 104–290, title V, §§501, 502, 110 Stat. 3444, 3445.)
 
 #### References in Text
 
@@ -57,6 +79,10 @@ Section 1724 of title 12, referred to in subsec. (a)(3), was repealed by Pub. L.
 Words “Philippine Islands” deleted from subsec. (a)(1) after “Puerto Rico” under the authority of Proc. No. 2695, granting independence to the Philippine Islands, which was issued pursuant to section 1394 of Title 22, Foreign Relations and Intercourse, and is set out as a note under that section.
 
 #### Amendments
+
+1996—Subsec. (a)(5). Pub. L. 104–290, §501, added par. (5).
+
+Subsec. (d)(1). Pub. L. 104–290, §502, substituted “$10,000,000, or such other amount as the Commission may set by rule, regulation, or order” for “$100,000”.
 
 1987—Subsec. (a)(1). Pub. L. 100–181, §608(1), struck out reference to Canal Zone.
 

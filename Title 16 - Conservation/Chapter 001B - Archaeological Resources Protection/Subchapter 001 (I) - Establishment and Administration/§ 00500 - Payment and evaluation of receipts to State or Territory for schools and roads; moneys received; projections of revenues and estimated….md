@@ -12,7 +12,7 @@ Act of May 23, 1908, referred to in text, is act May 23, 1908, ch. 192, 35 Stat.
 
 #### Codification
 
-“National forest” substituted in text for “forest reserve” the first, third and fourth time appearing, and for “reserve” the second time appearing, and “forest” substituted for “reserve”, on authority of act Mar. 4, 1907, ch. 2907, 34 Stat. 1269, which provided that forest reserves shall hereafter be known as national forests.
+“National forest” substituted in text for “forest reserve” the first, third and fourth time appearing, and for “reserve” the second time appearing, and “forest” substituted for “reserve”, on authority of act Mar. 4,1907, ch. 2907, 34 Stat. 1269, which provided that forest reserves shall hereafter be known as national forests.
 
 Section is a combination of acts May 23, 1908, as amended, and Mar. 1, 1911, as amended.
 

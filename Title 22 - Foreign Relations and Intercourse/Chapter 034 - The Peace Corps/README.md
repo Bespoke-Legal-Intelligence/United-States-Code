@@ -33,7 +33,7 @@
 | (i) | Termination of service. |
 | (j) | Oath of office. |
 | (k) | Counseling programs for returned volunteers. |
-| (<i>l)</i> | Legal expenses of defendant in judicial or administrative proceedings. |
+| (<i>l</i>) | Legal expenses of defendant in judicial or administrative proceedings. |
 | (m) | Allowances and expenses of minor children. |
 | (n) | Moving expenses. |
 | [2505\.](%C2%A7%2002505%20-%20Peace%20Corps%20volunteer%20leaders%3B%20number%3B%20applicability%20of%20chapter%3B%20benefits.md) | Peace Corps volunteer leaders; number; applicability of chapter; benefits. |
@@ -44,7 +44,7 @@
 | [2507\.](%C2%A7%2002507%20-%20Training%20program.md) | Training program. |
 | (a) | Applicants for enrollment and enrolled volunteers. |
 | (b) | Citizen trainees for voluntary programs; foreign nationals as trainees; advances of funds or reimbursement basis; use of credits. |
-| [2508\.](%C2%A7%2002508%20-%20Foreign%20participants%3B%20admission%20into%20the%20United%20States%20as%20nonimmigrants%3B%20deportation.md) | Foreign participants; admission into the United States as nonimmigrants; deportation. |
+| [2508\.](%C2%A7%2002508%20-%20Foreign%20participants%3B%20admission%20into%20the%20United%20States%20as%20nonimmigrants%3B%20removal.md) | Foreign participants; admission into the United States as nonimmigrants; removal. |
 | [2509\.](%C2%A7%2002509%20-%20Presidential%20powers%20and%20authorities.md) | Presidential powers and authorities. |
 | (a) | Contract authority; assignment of volunteers; acceptance of voluntary services and gifts and transfers of property; personal service contracts. |
 | (b) | Claim settlements. |
@@ -121,7 +121,7 @@ This chapter is referred to in sections 2275, 2371, 2398, 4071c, 5424 of this ti
 - [&sect; 02505 - Peace Corps volunteer leaders; number; applicability of chapter; benefits](%C2%A7%2002505%20-%20Peace%20Corps%20volunteer%20leaders%3B%20number%3B%20applicability%20of%20chapter%3B%20benefits.md)
 - [&sect; 02506 - Peace Corps employees](%C2%A7%2002506%20-%20Peace%20Corps%20employees.md)
 - [&sect; 02507 - Training program](%C2%A7%2002507%20-%20Training%20program.md)
-- [&sect; 02508 - Foreign participants; admission into the United States as nonimmigrants; deportation](%C2%A7%2002508%20-%20Foreign%20participants%3B%20admission%20into%20the%20United%20States%20as%20nonimmigrants%3B%20deportation.md)
+- [&sect; 02508 - Foreign participants; admission into the United States as nonimmigrants; removal](%C2%A7%2002508%20-%20Foreign%20participants%3B%20admission%20into%20the%20United%20States%20as%20nonimmigrants%3B%20removal.md)
 - [&sect; 02509 - Presidential powers and authorities](%C2%A7%2002509%20-%20Presidential%20powers%20and%20authorities.md)
 - [&sect; 02510 - Reports to Congress](%C2%A7%2002510%20-%20Reports%20to%20Congress.md)
 - [&sect; 02511 - Peace Corps National Advisory Council](%C2%A7%2002511%20-%20Peace%20Corps%20National%20Advisory%20Council.md)

@@ -2,11 +2,11 @@
 
 #### (a) In general
 
-The Commodity Credit Corporation shall acquire and make available such agricultural commodities (that have been determined to be available under section 1731(a) of this title) as necessary to carry out agreements under this chapter.
+The Commodity Credit Corporation may acquire and make available such agricultural commodities (that have been determined to be available under section 1731(a) of this title) as necessary to carry out agreements under this chapter.
 
 #### (b) Included expenses
 
-With respect to commodities made available under this chapter, the Commodity Credit Corporation may pay—
+With respect to commodities made available under subchapters III and III–A of this chapter, the Commodity Credit Corporation may pay—
 
 &emsp;(1) the cost of acquiring such commodities;
 
@@ -14,7 +14,7 @@ With respect to commodities made available under this chapter, the Commodity Cre
 
 &emsp;(3) the processing, transportation, handling, and other incidental costs up to the time of the delivery of such commodities free on board vessels in United States ports;
 
-&emsp;(4) the ocean freight charges from United States ports to designated ports of entry abroad;
+&emsp;(4) the vessel freight charges from United States ports or designated Canadian transshipment ports, as determined by the Secretary, to designated ports of entry abroad;
 
 &emsp;(5) the costs associated with transporting such commodities from United States ports to designated points of entry abroad in the case—
 
@@ -38,9 +38,15 @@ The funds, facilities, and authorities of the Commodity Credit Corporation may b
 
 Funds shall be available under this chapter only to the extent provided in advance in appropriation Acts.
 
-(July 10, 1954, ch. 469, title IV, §406, as added Sept. 21, 1959, Pub. L. 86–341, title I, §14, 73 Stat. 610; amended Sept. 27, 1962, Pub. L. 87–703, title II, §201(5), 76 Stat. 611; Nov. 11, 1966, Pub. L. 89–808, §2(E), 80 Stat. 1536; Dec. 20, 1975, Pub. L. 94–161, title II, §214, 89 Stat. 855; Nov. 5, 1990, Pub. L. 101–508, title I, §1204(b)(2), 104 Stat. 1388–11; Nov. 28, 1990, Pub. L. 101–624, title XV, §1512, 104 Stat. 3650; Dec. 13, 1991, Pub. L. 102–237, title III, §323, 105 Stat. 1857.)
+(July 10, 1954, ch. 469, title IV, §406, as added Sept. 21, 1959, Pub. L. 86–341, title I, §14, 73 Stat. 610; amended Sept. 27, 1962, Pub. L. 87–703, title II, §201(5), 76 Stat. 611; Nov. 11, 1966, Pub. L. 89–808, §2(E), 80 Stat. 1536; Dec. 20, 1975, Pub. L. 94–161, title II, §214, 89 Stat. 855; Nov. 5, 1990, Pub. L. 101–508, title I, §1204(b)(2), 104 Stat. 1388–11; Nov. 28, 1990, Pub. L. 101–624, title XV, §1512, 104 Stat. 3650; Dec. 13, 1991, Pub. L. 102–237, title III, §323, 105 Stat. 1857; Apr. 4, 1996, Pub. L. 104–127, title II, §215, 110 Stat. 956.)
 
 #### Amendments
+
+1996—Subsec. (a). Pub. L. 104–127, §215(1), substituted “may” for “shall” after “Corporation”.
+
+Subsec. (b). Pub. L. 104–127, §215(2)(A), in introductory provisions, substituted “subchapters III and III–A of this chapter” for “this chapter”.
+
+Subsec. (b)(4). Pub. L. 104–127, §215(2)(B), added par. (4) and struck out former par. (4) which read as follows: “the ocean freight charges from United States ports to designated ports of entry abroad;”.
 
 1991—Subsec. (b)(5)(D). Pub. L. 102–237 substituted “time” for “items”.
 
@@ -78,5 +84,5 @@ Pub. L. 99–198, title XI, §1107, Dec. 23, 1985, 99 Stat. 1467, as amended by 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1431 of this title; title 22 section 5423.
+This section is referred to in sections 1431, 1736<i>o</i> of this title; title 22 section 5423.
 

@@ -26,7 +26,7 @@ Except as provided in subparagraph (A) or (B) of section 1551(d)(3) of this titl
 
 (5) Each service delivery area shall ensure that for all services provided to participants through contracts, grants, or other agreements with a service provider, such contract, grant, or agreement shall include appropriate amounts necessary for administration and supportive services.
 
-(6) For purposes of paragraph (4), the term “allocated” means allocated for a program year, asadjusted for reallocations and reallotments under section 1519 of this title and for transfers of funds under sections 1606, 1635, and 1646 of this title.
+(6) For purposes of paragraph (4), the term “allocated” means allocated for a program year, as adjusted for reallocations and reallotments under section 1519 of this title and for transfers of funds under sections 1606, 1635, and 1646 of this title.
 
 #### (c) Reference to limitations
 
@@ -44,7 +44,7 @@ This section shall not be construed to exempt programs under an approved plan fr
 
 #### Amendments
 
-1992—Subsec. (a). Pub. L. 102–367, §117(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Not more than 15 percent of the funds available to a service delivery area for any fiscal year for programs under part A of subchapter II of this chapter may be expended for the cost of administration. For purposes of this paragraph, costs of program support (such as counseling) which are directly related to the provision of education or training and such additional costs as may be attributable to the development of training described in section 1604(28) of this title shall not be counted as part of the cost of administration.”
+1992—Subsec. (a). Pub. L. 102–367, §117(a), amended subsec. (a) generally. Prior to amendment, subsec. (a)read as follows: “Not more than 15 percent of the funds available to a service delivery area for any fiscal year for programs under part A of subchapter II of this chapter may be expended for the cost of administration. For purposes of this paragraph, costs of program support (such as counseling) which are directly related to the provision of education or training and such additional costs as may be attributable to the development of training described in section 1604(28) of this title shall not be counted as part of the cost of administration.”
 
 Subsec. (b). Pub. L. 102–367, §117(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) consisted of pars. (1) to (3) relating to joint limitations on administrative and work experience expenditures.
 

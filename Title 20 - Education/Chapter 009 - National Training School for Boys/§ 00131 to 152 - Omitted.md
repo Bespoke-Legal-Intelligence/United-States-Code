@@ -30,7 +30,7 @@ Section 140, act May 3, 1876, ch. 90, §5, 19 Stat. 50, dealt with bonding of th
 
 Section 141, act May 3, 1876, ch. 90, §6, 19 Stat. 50, dealt with powers and duties of the superintendent and subordinate employees.
 
-Section 142, act May 3, 1876, ch. 90, §7, 19 Stat. 50, provided that superintendent be in charge of lands andother property of the school, books of accounts, register of boys, and examination of school and accounts.
+Section 142, act May 3, 1876, ch. 90, §7, 19 Stat. 50, provided that superintendent be in charge of lands and other property of the school, books of accounts, register of boys, and examination of school and accounts.
 
 Section 143, act Mar. 3, 1881, ch. 134, §1, 21 Stat. 459, dealt with a report of school officers to District commissioners.
 

@@ -52,3 +52,33 @@ Amendment by Pub. L. 100–690 effective 120 days after Nov. 18, 1988, see secti
 
 Amendment by Pub. L. 95–633 effective on date the Convention on Psychotropic Substances enters into force in the United States \[July 15, 1980\], see section 112 of Pub. L. 95–633, set out as an Effective Date note under section 801a of this title.
 
+#### Educational Program for Police Departments
+
+Pub. L. 104–305, §4, Oct. 13, 1996, 110 Stat. 3809, provided that: “The Attorney General may—
+
+&emsp;“(1) create educational materials regarding the use of controlled substances (as that term is defined in section 102 of the Controlled Substances Act \[21 U.S.C. 802\]) in the furtherance of rapes and sexual assaults; and
+
+&emsp;“(2) disseminate those materials to police departments throughout the United States.”
+
+#### Study and Report on Measures To Prevent Sales of Agents Used in Methamphetamine Production
+
+Pub. L. 104–237, title II, §202, Oct. 3, 1996, 110 Stat. 3101, provided that:
+
+“(a)
+
+Study.—The Attorney General of the United States shall conduct a study on possible measures to effectively prevent the diversion of red phosphorous, iodine, hydrochloric gas, and other agents for use in the production of methamphetamine. Nothing in this section shall preclude the Attorney General from taking any action the Attorney General already is authorized to take with regard to the regulation of listed chemicals under current law.
+
+“(b)
+
+Report.—Not later than January 1, 1998, the Attorney General shall submit a report to the Congress of its findings pursuant to the study conducted under subsection (a) on the need for and advisability of preventive measures.
+
+“(c)
+
+Considerations.—In developing recommendations under subsection (b), the Attorney General shall consider—
+
+&emsp;“(1) the use of red phosphorous, iodine, hydrochloric gas, and other agents in the illegal manufacture of methamphetamine;
+
+&emsp;“(2) the use of red phosphorous, iodine, hydrochloric gas, and other agents for legitimate, legal purposes, and the impact any regulations may have on these legitimate purposes; and
+
+&emsp;“(3) comments and recommendations from law enforcement, manufacturers of such chemicals, and the consumers of such chemicals for legitimate, legal purposes.”
+

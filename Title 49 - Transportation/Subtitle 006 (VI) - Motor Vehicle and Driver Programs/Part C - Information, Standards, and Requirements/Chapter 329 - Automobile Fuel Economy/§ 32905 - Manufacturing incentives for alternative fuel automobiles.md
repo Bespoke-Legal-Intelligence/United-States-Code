@@ -40,7 +40,7 @@ and (d).—Not later than December 31, 2001, the Secretary of Transportation sha
 
 (g)
 
-Study and Report.—Not later than September 30, 2000, the Secretary of Transportation, in consultation with the Secretary of Energy and the Administrator, shall complete a study of the success of the policy of subsections (b) and (d) of this title, and submit to the Committees on Commerce, Science, and Transportation and Governmental Affairs of the Senate and the Committee on Energy and Commerce of the House of Representatives a report on the results of the study, including preliminary conclusions on whether the application of subsections (b) and (d) should be extended for up to 4 more model years. The study and conclusions shall consider—
+Study and Report.—Not later than September 30, 2000, the Secretary of Transportation, in consultation with the Secretary of Energy and the Administrator, shall complete a study of the success of the policy of subsections (b) and (d) of this title, and submit to the Committees on Commerce, Science, and Transportation and Governmental Affairs of the Senate and the Committee on Commerce of the House of Representatives a report on the results of the study, including preliminary conclusions on whether the application of subsections (b) and (d) should be extended for up to 4 more model years. The study and conclusions shall consider—
 
 &emsp;(1) the availability to the public of alternative fueled automobiles and alternative fuel;
 
@@ -50,11 +50,13 @@ Study and Report.—Not later than September 30, 2000, the Secretary of Transpor
 
 &emsp;(4) other relevant factors.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1065.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1065; Pub. L. 104–287, §5(63), Oct. 11, 1996, 110 Stat. 3395.)
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -98,9 +100,9 @@ In subsection (c), the words “For purposes of this section” and “than natu
 
 In subsection (e), the words “subject to the provisions of this section” are omitted as unnecessary because of the restatement. The words “for each model described under subsections (a)–(d) of this section” are substituted for “for each model type of dedicated automobile or dual fueled automobile” to eliminate unnecessary words. The words “by using as the denominator” are substituted for “by including as the denominator of the term” for clarity.
 
-#### Change of Name
+#### Amendments
 
-Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+1996—Subsec. (g). Pub. L. 104–287 substituted “Committee on Commerce” for “Committee on Energy and Commerce”.
 
 #### Section Referred to in Other Sections
 

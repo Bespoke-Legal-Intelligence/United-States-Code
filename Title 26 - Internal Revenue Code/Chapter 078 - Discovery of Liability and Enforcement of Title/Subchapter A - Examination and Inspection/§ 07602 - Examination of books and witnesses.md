@@ -62,7 +62,7 @@ The purposes for which the Secretary may take any action described in paragraph 
 
 #### Effective Date of 1982 Amendment
 
-Section 333(b) of Pub. L. 97–248 provided that: “The amendments made by subsection (a) \[amending thissection\] shall take effect on the day after the date of the enactment of this Act \[Sept. 3, 1982\].”
+Section 333(b) of Pub. L. 97–248 provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect on the day after the date of the enactment of this Act \[Sept. 3, 1982\].”
 
 #### Cross References
 
@@ -78,5 +78,5 @@ Time and place for examination pursuant to this section, see section 7605 of thi
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 4424, 6038A, 6038C, 6230, 6420, 6421, 6427, 7210, 7603, 7604, 7605, 7609, 7610 of this title.
+This section is referred to in sections 4424, 6038A, 6038C, 6048, 6230, 6420, 6421, 6427, 7210, 7603, 7604, 7605, 7609, 7610 of this title.
 

@@ -1,4 +1,4 @@
-### §43 . Animal enterprise terrorism
+### §43. Animal enterprise terrorism
 
 (a)
 
@@ -24,7 +24,7 @@ Death.—Whoever in the course of a violation of subsection (a) causes the death
 
 (c)
 
-Restitution.—An order of restitution under section 3663 of this title with respect to a violation of this section may also include restitution—
+Restitution.—An order of restitution under section 3663 or 3663A of this title with respect to a violation of this section may also include restitution—
 
 &emsp;(1) for the reasonable cost of repeating any experimentation that was interrupted or invalidated as a result of the offense; and
 
@@ -52,11 +52,15 @@ Definitions.—As used in this section—
 
 Non-Preemption.—Nothing in this section preempts any State law.
 
-(Added Pub. L. 102–346, §2(a), Aug. 26, 1992, 106 Stat. 928.)
+(Added Pub. L. 102–346, §2(a), Aug. 26, 1992, 106 Stat. 928; amended Pub. L. 104–294, title VI, §601(r)(3), Oct. 11, 1996, 110 Stat. 3502.)
 
 #### Prior Provisions
 
 A prior section 43, acts June 25, 1948, ch. 645, 62 Stat. 687; Sept. 2, 1960, Pub. L. 86–702, §2, 74 Stat. 754; Dec. 5, 1969, Pub. L. 91–135, §7(a), 83 Stat. 279, related to transportation of wildlife taken in violation of State, national, or foreign law, the receipt of such wildlife, and the making of false records in relation thereto, prior to repeal by Pub. L. 97–79, §9(b)(2), Nov. 16, 1981, 95 Stat. 1079. See section 3372(a) of Title 16, Conservation.
+
+#### Amendments
+
+1996—Subsec. (c). Pub. L. 104–294 inserted “or 3663A” after “section 3663” in introductory provisions.
 
 #### Short Title
 

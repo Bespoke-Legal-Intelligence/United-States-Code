@@ -2,7 +2,7 @@ Part A—Emergency Relief for Areas With Substantial Need for Services
 
 #### Part Referred to in Other Sections
 
-This part is referred to in sections 300ff–28, 300ff–41, 300ff–51 of this title.
+This part is referred to in sections 300ff–28, 300ff–41, 300ff–51, 300ff–77, 300ff–101 of this title.
 
 
 ---
@@ -16,4 +16,4 @@ This part is referred to in sections 300ff–28, 300ff–41, 300ff–51 of this 
 - [&sect; 00300ff&#8211;15 - Application](%C2%A7%2000300ff%E2%80%9315%20-%20Application.md)
 - [&sect; 00300ff&#8211;16 - Technical assistance](%C2%A7%2000300ff%E2%80%9316%20-%20Technical%20assistance.md)
 - [&sect; 00300ff&#8211;17 - Definitions](%C2%A7%2000300ff%E2%80%9317%20-%20Definitions.md)
-- [&sect; 00300ff&#8211;18 - Authorization of appropriations](%C2%A7%2000300ff%E2%80%9318%20-%20Authorization%20of%20appropriations.md)
+- [&sect; 00300ff&#8211;18 - Repealed. Pub. L. 104&#8211;146, &sect;6(b), May 20, 1996, 110 Stat. 1367](%C2%A7%2000300ff%E2%80%9318%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93146%2C%20%C2%A76%28b%29%2C%20May%2020%2C%201996%2C%20110%20Stat.%201367.md)

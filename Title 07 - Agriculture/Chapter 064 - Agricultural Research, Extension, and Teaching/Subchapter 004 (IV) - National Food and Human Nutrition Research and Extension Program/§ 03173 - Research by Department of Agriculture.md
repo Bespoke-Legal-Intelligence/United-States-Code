@@ -12,7 +12,7 @@ The Secretary, in administering the food and human nutrition research program, s
 
 #### National Food and Human Nutrition Research Program; Congressional Findings; Comprehensive Plan; Annual Report; Joint Dietary Assessment, Studies and Reports; Submission of Plan and Reports to Congressional Committees
 
-Pub. L. 99–198, title XIV, subtitle B, §§1451–1453, Dec. 23, 1985, 99 Stat. 1561, 1562, provided that:
+Pub. L. 99–198, title XIV, subtitle B, §§1451–1453, Dec. 23, 1985, 99 Stat. 1561, 1562, as amended by Pub. L. 104–127, title VIII, §872, Apr. 4, 1996, 110 Stat. 1175, provided that:
 
 #### “findings
 
@@ -30,13 +30,9 @@ Sec. 1451. Congress finds that—
 
 &emsp;“(5) nutrition research continues to be of great importance to those involved in agricultural production.
 
-#### “human nutrition research
+“\[
 
-“
-
-Sec. 1452. (a) Not later than 1 year after the date of enactment of this Act \[Dec. 23, 1985\], the Secretary of Agriculture (hereafter in this subtitle referred to as the ‘Secretary’) shall submit to the appropriate committees of Congress a comprehensive plan for implementing a national food and human nutrition research program, including recommendations relating to research directions, educational activities, and funding levels necessary to carry out such plan.
-
-“(b) Not later than 1 year after the date of the submission of the plan required under subsection (a), and each year thereafter, the Secretary shall submit to such committees an annual report on the human nutrition research activities conducted by the Secretary.
+Sec. 1452. Repealed. Pub. L. 104–127, title VIII, §872, Apr. 4, 1996, 110 Stat. 1175.\]
 
 #### “dietary assessment and studies
 

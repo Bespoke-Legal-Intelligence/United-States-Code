@@ -18,7 +18,7 @@
 
 #### Amendments
 
-1983—Subsec. (a). Pub. L. 97–424 inserted provision that notwithstanding any other provision of law, uponagreement with the State of Alaska, the Secretary is authorized to expend on the highway any Federal-aid highway funds apportioned to the State of Alaska under this title at a Federal share of 100 per centum, and that any obligation limitation enacted for fiscal year 1983 or for any other fiscal year thereafter shall not apply to such projects.
+1983—Subsec. (a). Pub. L. 97–424 inserted provision that notwithstanding any other provision of law, upon agreement with the State of Alaska, the Secretary is authorized to expend on the highway any Federal-aid highway funds apportioned to the State of Alaska under this title at a Federal share of 100 per centum, and that any obligation limitation enacted for fiscal year 1983 or for any other fiscal year thereafter shall not apply to such projects.
 
 1975—Subsec. (a)(1). Pub. L. 94–147 struck out provision requiring that the right-of-way granted by the Canadian Government shall forever be held inviolate as part of such highways in public use.
 

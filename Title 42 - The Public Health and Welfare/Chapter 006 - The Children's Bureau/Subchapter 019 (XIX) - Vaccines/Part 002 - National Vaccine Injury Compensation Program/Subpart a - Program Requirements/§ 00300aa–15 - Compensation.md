@@ -24,7 +24,7 @@ Compensation awarded under the Program to a petitioner under section 300aa–11 
 
 &emsp;(2) In the event of a vaccine-related death, an award of $250,000 for the estate of the deceased.
 
-&emsp;(3)(A) In the case of any person who has sustained a vaccine-related injury after attaining the age of 18 and whose earning capacity is or has been impaired by reason of such person's vaccine-related injury for which compensation is to be awarded, compensation for actual and anticipated loss of earnings determined in accordance with generally recognized actuarial principles and projections.
+&emsp;(3)(A) In the case of any person who has sustained a vaccine-related injury after attainingthe age of 18 and whose earning capacity is or has been impaired by reason of such person's vaccine-related injury for which compensation is to be awarded, compensation for actual and anticipated loss of earnings determined in accordance with generally recognized actuarial principles and projections.
 
 &emsp;(B) In the case of any person who has sustained a vaccine-related injury before attaining the age of 18 and whose earning capacity is or has been impaired by reason of such person's vaccine-related injury for which compensation is to be awarded and whose vaccine-related injury is of sufficient severity to permit reasonable anticipation that such person is likely to suffer impaired earning capacity at age 18 and beyond, compensation after attaining the age of 18 for loss of earnings determined on the basis of the average gross weekly earnings of workers in the private, non-farm sector, less appropriate taxes and the average cost of a health insurance policy, as determined by the Secretary.
 
@@ -92,7 +92,7 @@ No policy of health insurance may make payment of benefits under the policy seco
 
 &emsp;(2) no entity which provides health services on a prepaid basis or provides health benefits,
 
-> may make the provision of health services or health benefits secondary to the payment ofcompensation under the Program, except that this subsection shall not apply to the provision of services or benefits under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\].
+> may make the provision of health services or health benefits secondary to the payment of compensation under the Program, except that this subsection shall not apply to the provision of services or benefits under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\].
 
 #### (i) Source of compensation
 
@@ -150,7 +150,7 @@ Subsec. (e)(1). Pub. L. 101–239, §6601(<i>l</i>)(2)(A), substituted “In awa
 
 Pub. L. 101–239, §6601(<i>l</i>)(2)(B), (C), substituted “the special master or court may award an amount of compensation to cover” for “the court may include in the judgment an amount to cover” and “the special master or court determines that the petition was brought in good faith and there was a reasonable basis for the claim for which the petition” for “the court determines that the civil action was brought in good faith and there was a reasonable basis for the claim for which the civil action”.
 
-Subsec. (e)(2). Pub. L. 101–239, §6601(<i>l</i>)(2)(D), which directed amendment of par. (2) by substituting “the special master or court may also award an amount of compensation” for “the judgment of the court on such petition may include an amount”, could not be executedbecause of the prior amendment by Pub. L. 101–239, §6601(c)(8)(B), see Amendment note below.
+Subsec. (e)(2). Pub. L. 101–239, §6601(<i>l</i>)(2)(D), which directed amendment of par. (2) by substituting “the special master or court may also award an amount of compensation” for “the judgment of the court on such petition may include an amount”, could not be executed because of the prior amendment by Pub. L. 101–239, §6601(c)(8)(B), see Amendment note below.
 
 Pub. L. 101–239, §6601(c)(8), substituted “and petitioned under section 300aa–11(a)(5) of this title to have such action dismissed” for “and elected under section 300aa–11(a)(4) of this title to withdraw such action” and “in awarding compensation on such petition the special master or court may include” for “the judgment of the court on such petition may include”.
 

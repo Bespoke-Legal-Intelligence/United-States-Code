@@ -30,7 +30,7 @@ A mortgage insured under this section may be assumed, subject to credit approval
 
 #### (f) Insurance of mortgage as obligation of General Insurance Fund
 
-Notwithstanding any other provision of this chapter, the insurance of a mortgage using the authority contained in this section shall be the obligation of the General Insurance Fund established in section 1735c of this title. The mortgagee shall be eligible to receive the benefits of insurance as provided in section 1710 of this title with respect to mortgages insured pursuant to this section, except that (1) all references in section 1710 of this title to the Mutual Mortgage Insurance Fund or the Fund shall be construed to refer to the General Insurance Fund; and (2) all references in section 1710 of this title to section1709 of this title shall be construed to refer to the section under which the mortgage is insured.
+Notwithstanding any other provision of this chapter, the insurance of a mortgage using the authority contained in this section shall be the obligation of the General Insurance Fund established in section 1735c of this title. The mortgagee shall be eligible to receive the benefits of insurance as provided in section 1710 of this title with respect to mortgages insured pursuant to this section, except that (1) all references in section 1710 of this title to the Mutual Mortgage Insurance Fund or the Fund shall be construed to refer to the General Insurance Fund; and (2) all references in section 1710 of this title to section 1709 of this title shall be construed to refer to the section under which the mortgage is insured.
 
 #### (g) Availability of status and payment history of loans; entitlement to benefit of insurance; reinstatement of loan upon cure of default; garnishment proceedings; foreclosure proceedings
 
@@ -76,7 +76,7 @@ Subsec. (d). Pub. L. 100–242, §429(i)(3), substituted “trust or otherwise r
 
 Subsec. (f). Pub. L. 100–242, §413(c)(3), added subsec. (f). Former subsec. (f) redesignated (g).
 
-Subsec. (g). Pub. L. 100–242, §413(c)(1), (2), redesignated former subsec. (f) as (g) and substituted “GeneralInsurance Fund” for “insurance fund” in pars. (3) and (5). Former subsec. (g) redesignated (h).
+Subsec. (g). Pub. L. 100–242, §413(c)(1), (2), redesignated former subsec. (f) as (g) and substituted “General Insurance Fund” for “insurance fund” in pars. (3) and (5). Former subsec. (g) redesignated (h).
 
 Subsecs. (h), (i). Pub. L. 100–242, §413(c)(2), redesignated former subsecs. (g) and (h) as (h) and (i), respectively.
 

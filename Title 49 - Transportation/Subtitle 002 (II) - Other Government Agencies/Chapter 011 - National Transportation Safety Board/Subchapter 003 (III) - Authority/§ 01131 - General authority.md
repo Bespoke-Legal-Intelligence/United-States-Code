@@ -54,7 +54,9 @@ Accident Reports.—The Board shall report on the facts and circumstances of eac
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -78,7 +80,7 @@ Jan. 3, 1975, Pub. L. 93–633, §304(a)(1) (less (A)–(F)), 88 Stat. 2168; Nov
 
 1131(b)
 
-49 App.:1903(a) (1)(E) (last sentence).
+49 App.:1903(a)(1)(E) (last sentence).
 
 1131(c)
 
@@ -100,7 +102,7 @@ Oct. 15, 1966, Pub. L. 89–670, §6(d) (1st sentence), 80 Stat. 938.
 
 &nbsp;
 
-49 App.:1903(a) (1)(A) (6th, last sentences).
+49 App.:1903(a)(1)(A) (6th, last sentences).
 
 1131(d)
 
@@ -112,7 +114,7 @@ Oct. 15, 1966, Pub. L. 89–670, §6(d) (1st sentence), 80 Stat. 938.
 
 &nbsp;
 
-49 App.:1903(a) (1)(A).
+49 App.:1903(a)(1)(A).
 
 &nbsp;
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Assessing Threats.—The Administrator of the Federal Aviation Administration and the Director of the Federal Bureau of Investigation jointly shall assess current and potential threats to the domestic air transportation system. The assessment shall include consideration of the extent to which there are individuals with the capability and intent to carry out terrorist or related unlawful acts against that system and the ways in which those individuals might carry out those acts. The Administrator and the Director jointly shall decide on and carry out the most effective method for continuous analysisand monitoring of security threats to that system.
+Assessing Threats.—The Administrator of the Federal Aviation Administration and the Director of the Federal Bureau of Investigation jointly shall assess current and potential threats to the domestic air transportation system. The assessment shall include consideration of the extent to which there are individuals with the capability and intent to carry out terrorist or related unlawful acts against that system and the ways in which those individuals might carry out those acts. The Administrator and the Director jointly shall decide on and carry out the most effective method for continuous analysis and monitoring of security threats to that system.
 
 (b)
 
@@ -26,7 +26,9 @@ Improving Security.—The Administrator shall take necessary actions to improve 
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -56,7 +58,11 @@ In subsection (b), before clause (1), the word “Director” is substituted for
 
 In subsection (c), the word “correcting” is substituted for “remedying” for clarity.
 
+#### Regular Joint Threat Assessments
+
+Pub. L. 104–264, title III, §310, Oct. 9, 1996, 110 Stat. 3253, provided that: “The Administrator of the Federal Aviation Administration and the Director of the Federal Bureau of Investigation shall carry out joint threat and vulnerability assessments on security every 3 years, or more frequently, as necessary, at each airport determined to be high risk.”
+
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 44914, 44938 of this title.
+This section is referred to in sections 44914, 44938, 46301, 46316 of this title.
 

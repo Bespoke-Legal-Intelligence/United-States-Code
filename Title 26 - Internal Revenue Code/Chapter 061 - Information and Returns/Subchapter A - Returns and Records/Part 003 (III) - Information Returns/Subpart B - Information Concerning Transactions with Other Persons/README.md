@@ -10,13 +10,13 @@ Subpart B—Information Concerning Transactions With Other Persons
 |  |  |
 | :--- | ---: |
 | [6042\.](%C2%A7%2006042%20-%20Returns%20regarding%20payments%20of%20dividends%20and%20corporate%20earnings%20and%20profits.md) | Returns regarding payments of dividends and corporate earnings and profits. |
-| [6043\.](%C2%A7%2006043%20-%20Liquidating%3B%20etc.%2C%20transactions.md) | Liquidating; etc., transactions. |
+| [6043\.](%C2%A7%2006043%20-%20Liquidating%2C%20etc.%2C%20transactions.md) | Liquidating, etc., transactions. |
 | [6044\.](%C2%A7%2006044%20-%20Returns%20regarding%20payments%20of%20patronage%20dividends.md) | Returns regarding payments of patronage dividends. |
 | [6045\.](%C2%A7%2006045%20-%20Returns%20of%20brokers.md) | Returns of brokers. |
 | [6046\.](%C2%A7%2006046%20-%20Returns%20as%20to%20organization%20or%20reorganization%20of%20foreign%20corporations%20and%20as%20to%20acquisitions%20of%20their%20stock.md) | Returns as to organization or reorganization of foreign corporations and as to acquisitions of their stock. |
 | [6046A.](%C2%A7%2006046A%20-%20Returns%20as%20to%20interests%20in%20foreign%20partnerships.md) | Returns as to interests in foreign partnerships. |
 | [6047\.](%C2%A7%2006047%20-%20Information%20relating%20to%20certain%20trusts%20and%20annuity%20plans.md) | Information relating to certain trusts and annuity plans. |
-| [6048\.](%C2%A7%2006048%20-%20Returns%20as%20to%20certain%20foreign%20trusts.md) | Returns as to certain foreign trusts. |
+| [6048\.](%C2%A7%2006048%20-%20Information%20with%20respect%20to%20certain%20foreign%20trusts.md) | Information with respect to certain foreign trusts. |
 | [6049\.](%C2%A7%2006049%20-%20Returns%20regarding%20payments%20of%20interest.md) | Returns regarding payments of interest. |
 | \[6050. | Repealed.\] |
 | [6050A.](%C2%A7%2006050A%20-%20Reporting%20requirements%20of%20certain%20fishing%20boat%20operators.md) | Reporting requirements of certain fishing boat operators. |
@@ -38,11 +38,19 @@ Subpart B—Information Concerning Transactions With Other Persons
 | [6050L.](%C2%A7%2006050L%20-%20Returns%20relating%20to%20certain%20dispositions%20of%20donated%20property.md) | Returns relating to certain dispositions of donated property. |
 | [6050M.](%C2%A7%2006050M%20-%20Returns%20relating%20to%20persons%20receiving%20contracts%20from%20Federal%20executive%20agencies.md) | Returns relating to persons receiving contracts from Federal executive agencies. |
 | [6050N.](%C2%A7%2006050N%20-%20Returns%20regarding%20payments%20of%20royalties.md) | Returns regarding payments of royalties. |
-| [6050P.](%C2%A7%2006050P%20-%20Returns%20relating%20to%20the%20cancellation%20of%20indebtedness%20by%20certain%20financial%20entities.md) | Returns relating to the cancellation of indebtedness by certain financial entities. |
+| [6050P.](%C2%A7%2006050P%20-%20Returns%20relating%20to%20the%20cancellation%20of%20indebtedness%20by%20certain%20entities.md) | Returns relating to the cancellation of indebtedness by certain entities. |
+| [6050Q.](%C2%A7%2006050Q%20-%20Certain%20long-term%20care%20benefits.md) | Certain long-term care benefits. |
+| [6050R.](%C2%A7%2006050R%20-%20Returns%20relating%20to%20certain%20purchases%20of%20fish.md) | Returns relating to certain purchases of fish. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1996—Pub. L. 104–191, title III, §323(c), Aug. 21, 1996, 110 Stat. 2063, added item 6050Q.
+
+Pub. L. 104–188, title I, §§1116(b)(2)(C), 1704(t)(18), 1901(c)(2), Aug. 20, 1996, 110 Stat. 1764, 1888, 1908, substituted “Liquidating,” for “Liquidating;” in item 6043 and “Information with respect” for “Returns as” in item 6048 and added item 6050R.
+
+Pub. L. 104–134, title III, §31001(m)(2)(D)(iii), Apr. 26, 1996, 110 Stat. 1321–369, struck out “financial” before “entities” in item 6050P.
 
 1994—Pub. L. 103–322, title II, §20415(b)(4), Sept. 13, 1994, 108 Stat. 1833, substituted “business, etc.” for “business” in item 6050I.
 
@@ -78,6 +86,10 @@ Pub. L. 87–792, §7(m)(2), Oct. 10, 1962, 76 Stat. 831, added item 6047.
 
 1960—Pub. L. 86–780, §7(b), Sept. 14, 1960, 74 Stat. 1016, substituted “Returns as to creation or organization, or reorganization, of foreign corporations” for “Returns as to formation or reorganization of foreign corporations,” in item 6046.
 
+#### Subpart Referred to in Other Sections
+
+This subpart is referred to in section 6201 of this title.
+
 <i><sup>1</sup></i><i> Editorially supplied. Section 6041A added by Pub. L. 97–248 without corresponding amendment of subpart analysis.</i>
 
 <i><sup>2</sup></i><i> So in original.</i>
@@ -90,13 +102,13 @@ Pub. L. 87–792, §7(m)(2), Oct. 10, 1962, 76 Stat. 831, added item 6047.
 - [&sect; 06041 - Information at source](%C2%A7%2006041%20-%20Information%20at%20source.md)
 - [&sect; 06041A - Returns regarding payments of remuneration for services and direct sales](%C2%A7%2006041A%20-%20Returns%20regarding%20payments%20of%20remuneration%20for%20services%20and%20direct%20sales.md)
 - [&sect; 06042 - Returns regarding payments of dividends and corporate earnings and profits](%C2%A7%2006042%20-%20Returns%20regarding%20payments%20of%20dividends%20and%20corporate%20earnings%20and%20profits.md)
-- [&sect; 06043 - Liquidating; etc., transactions](%C2%A7%2006043%20-%20Liquidating%3B%20etc.%2C%20transactions.md)
+- [&sect; 06043 - Liquidating, etc., transactions](%C2%A7%2006043%20-%20Liquidating%2C%20etc.%2C%20transactions.md)
 - [&sect; 06044 - Returns regarding payments of patronage dividends](%C2%A7%2006044%20-%20Returns%20regarding%20payments%20of%20patronage%20dividends.md)
 - [&sect; 06045 - Returns of brokers](%C2%A7%2006045%20-%20Returns%20of%20brokers.md)
 - [&sect; 06046 - Returns as to organization or reorganization of foreign corporations and as to acquisitions of their stock](%C2%A7%2006046%20-%20Returns%20as%20to%20organization%20or%20reorganization%20of%20foreign%20corporations%20and%20as%20to%20acquisitions%20of%20their%20stock.md)
 - [&sect; 06046A - Returns as to interests in foreign partnerships](%C2%A7%2006046A%20-%20Returns%20as%20to%20interests%20in%20foreign%20partnerships.md)
 - [&sect; 06047 - Information relating to certain trusts and annuity plans](%C2%A7%2006047%20-%20Information%20relating%20to%20certain%20trusts%20and%20annuity%20plans.md)
-- [&sect; 06048 - Returns as to certain foreign trusts](%C2%A7%2006048%20-%20Returns%20as%20to%20certain%20foreign%20trusts.md)
+- [&sect; 06048 - Information with respect to certain foreign trusts](%C2%A7%2006048%20-%20Information%20with%20respect%20to%20certain%20foreign%20trusts.md)
 - [&sect; 06049 - Returns regarding payments of interest](%C2%A7%2006049%20-%20Returns%20regarding%20payments%20of%20interest.md)
 - [&sect; 06050 - Repealed. Pub. L. 96&#8211;167, &sect;5(a), Dec. 29, 1979, 93 Stat. 1276](%C2%A7%2006050%20-%20Repealed.%20Pub.%20L.%2096%E2%80%93167%2C%20%C2%A75%28a%29%2C%20Dec.%2029%2C%201979%2C%2093%20Stat.%201276.md)
 - [&sect; 06050A - Reporting requirements of certain fishing boat operators](%C2%A7%2006050A%20-%20Reporting%20requirements%20of%20certain%20fishing%20boat%20operators.md)
@@ -113,4 +125,6 @@ Pub. L. 87–792, §7(m)(2), Oct. 10, 1962, 76 Stat. 831, added item 6047.
 - [&sect; 06050L - Returns relating to certain dispositions of donated property](%C2%A7%2006050L%20-%20Returns%20relating%20to%20certain%20dispositions%20of%20donated%20property.md)
 - [&sect; 06050M - Returns relating to persons receiving contracts from Federal executive agencies](%C2%A7%2006050M%20-%20Returns%20relating%20to%20persons%20receiving%20contracts%20from%20Federal%20executive%20agencies.md)
 - [&sect; 06050N - Returns regarding payments of royalties](%C2%A7%2006050N%20-%20Returns%20regarding%20payments%20of%20royalties.md)
-- [&sect; 06050P - Returns relating to the cancellation of indebtedness by certain financial entities](%C2%A7%2006050P%20-%20Returns%20relating%20to%20the%20cancellation%20of%20indebtedness%20by%20certain%20financial%20entities.md)
+- [&sect; 06050P - Returns relating to the cancellation of indebtedness by certain entities](%C2%A7%2006050P%20-%20Returns%20relating%20to%20the%20cancellation%20of%20indebtedness%20by%20certain%20entities.md)
+- [&sect; 06050Q - Certain long-term care benefits](%C2%A7%2006050Q%20-%20Certain%20long-term%20care%20benefits.md)
+- [&sect; 06050R - Returns relating to certain purchases of fish](%C2%A7%2006050R%20-%20Returns%20relating%20to%20certain%20purchases%20of%20fish.md)

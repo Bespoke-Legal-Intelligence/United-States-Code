@@ -56,5 +56,5 @@ Sale or exchange of residence as nontaxable, see section 1034 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 56, 170, 263A, 267, 341, 367, 543, 595, 707, 751, 818, 856, 857, 864, 865, 954, 995, 1092, 1223, 1231, 1234, 1248, 1362, 1397B, 4662, 7704 of this title.
+This section is referred to in sections 56, 170, 263A, 267, 341, 367, 543, 707, 751, 818, 856, 857, 864, 865, 954, 995, 1092, 1223, 1231, 1234, 1248, 1362, 1397B, 4662, 7704 of this title.
 

@@ -22,7 +22,7 @@
 
 #### (2) Revocation authority
 
-&emsp;The Secretary shall revoke the designation of a lender or servicer under subsection (a) of this section if any quarterly audit required under subsection (c)(5) of this section is not received by the Secretary by the date established by the Secretary or if the audit indicates the lender or servicer failed to maintain 97 percent or higher compliance with program regulations, as reflected in the performance of not less than 97 percent of all due diligence requirements applicable to each loan, on average, as established by the Secretary for the purpose of this section, for 2 consecutive months or 90 percent for 1 month.
+&emsp;The Secretary shall revoke the designation of a lender or servicer under subsection (a) of this section if any quarterly audit required under subsection (c)(5) of this section is notreceived by the Secretary by the date established by the Secretary or if the audit indicates the lender or servicer failed to maintain 97 percent or higher compliance with program regulations, as reflected in the performance of not less than 97 percent of all due diligence requirements applicable to each loan, on average, as established by the Secretary for the purpose of this section, for 2 consecutive months or 90 percent for 1 month.
 
 #### (3) Documentation
 
@@ -52,7 +52,7 @@
 
 #### (5) Compliance audit
 
-&emsp;In order to maintain its status as an exceptional eligible lender or servicer, the lender or servicer shall undergo a quarterly compliance audit at the end of each quarter (other than the quarter in which status as an exceptionallender or servicer is established through a financial and compliance audit, as described in subsection (c)(1) of this section), and submit the results of such audit to the Secretary and such appropriate guaranty agency. The compliance audit will review compliance with due diligence requirements for the period since the last audit.
+&emsp;In order to maintain its status as an exceptional eligible lender or servicer, the lender or servicer shall undergo a quarterly compliance audit at the end of each quarter (other than the quarter in which status as an exceptional lender or servicer is established through a financial and compliance audit, as described in subsection (c)(1) of this section), and submit the results of such audit to the Secretary and such appropriate guaranty agency. The compliance audit will review compliance with due diligence requirements for the period since the last audit.
 
 #### (6) Loss of designation
 
@@ -70,7 +70,7 @@
 
 #### (1) Audit of guaranty agencies
 
-&emsp;Each guaranty agency desiring a designation under subsection (a) of this section shall have a financial and compliance audit of the defaulted loan portfolio of such guaranty agency conducted annually by a qualified independent organization or person from a list of qualified organizations or persons promulgated by the Secretary in accordance with standards established by the Comptroller General and the Secretary. The standards shall include defined statistical sampling techniques designed to measure the performance rating of the guaranty agency for the purpose of this section. Each guaranty agency shall submit the audit required by this paragraph to the Secretary.
+&emsp;Each guaranty agency desiring a designation under subsection (a) of this section shall have a financial and compliance audit of the defaulted loan portfolio of such guaranty agencyconducted annually by a qualified independent organization or person from a list of qualified organizations or persons promulgated by the Secretary in accordance with standards established by the Comptroller General and the Secretary. The standards shall include defined statistical sampling techniques designed to measure the performance rating of the guaranty agency for the purpose of this section. Each guaranty agency shall submit the audit required by this paragraph to the Secretary.
 
 #### (2) Quarterly sample audits
 
@@ -146,7 +146,7 @@ For the purpose of this section—
 
 &emsp;&emsp;(E) does not have any owner, majority shareholder, director, or officer of the entity who has been convicted of a felony.
 
-(Pub. L. 89–329, title IV, §428I, as added Pub. L. 102–325, title IV, §422, July 23, 1992, 106 Stat. 536; amended Pub. L. 103–208, §2(c)(46), Dec. 20, 1993, 107 Stat. 2467.)
+(Pub. L. 89–329, title IV, §428I, as added Pub. L. 102–325, title IV, §422, July 23, 1992, 106 Stat. 536;amended Pub. L. 103–208, §2(c)(46), Dec. 20, 1993, 107 Stat. 2467.)
 
 #### Codification
 
@@ -158,7 +158,7 @@ July 23, 1992, referred to in subsec. (h), was in the original “the date of en
 
 #### Change of Name
 
-Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Economic and Educational Opportunities of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Fifth Congress, Jan. 7, 1997.
 
 #### Effective Date of 1993 Amendment
 

@@ -20,11 +20,11 @@ Period of Authority.—The period referred to in subsection (a)(1) is the period
 
 (c)
 
-Applicability Subject to Needs of the Service.—(1) The Secretary concerned may limit the applicability of subsection (a) to any category of personnel defined by the Secretary in order to meet a need of the armed force under the jurisdiction of the Secretary to reduce the number of members in certain grades, the number of members who have completed a certain number of years of service, or the number of members who possess certain military skills or are serving in designated competitive categories.
+Applicability Subject to Needs of the Service.—(1) The Secretary concerned may limit the applicability of subsection (a) to any category of personnel defined by the Secretaryin order to meet a need of the armed force under the jurisdiction of the Secretary to reduce the number of members in certain grades, the number of members who have completed a certain number of years of service, or the number of members who possess certain military skills or are serving in designated competitive categories.
 
 (2) A limitation under paragraph (1) shall be consistent with the purpose set forth in section 4414(a) of the National Defense Authorization Act for Fiscal Year 1993 (Public Law 102–484; 106 Stat. 2713).
 
-(3) Notwithstanding the provisions of section 4415(2) of the Defense Conversion <sup>1</sup> Reinvestment, and Transition Assistance Act of 1992 (division D of Public Law 102–484; 106 Stat. 2714), the Secretary concerned may, consistent with the other provisions of this section, provide the notification required by section 12731(d) of this title to a member who no longer meets the qualifications for membership in the Selected Reserve solely because the member is unfit because of physical disability. Such notification may not be made if the disability is the result of the member's intentional misconduct, willful neglect, or willful failure to comply with standards and qualifications for retention established by the Secretary concerned or was incurred during a period of unauthorized absence.
+(3) Notwithstanding the provisions of section 4415(2) of the Defense Conversion, Reinvestment, and Transition Assistance Act of 1992 (division D of Public Law 102–484; 106 Stat. 2714), the Secretary concerned may, consistent with the other provisions of this section, provide the notification required by section 12731(d) of this title to a member who no longer meets the qualifications for membership in the Selected Reserve solely because the member is unfit because of physical disability. Such notification may not be made if the disability is the result of the member's intentional misconduct, willful neglect, or willful failure to comply with standards and qualifications for retention established by the Secretary concerned or was incurred during a period of unauthorized absence.
 
 (d)
 
@@ -34,13 +34,15 @@ Exclusion.—This section does not apply to persons referred to in section 12731
 
 Regulations.—The authority provided in this section shall be subject to regulations prescribed by the Secretary of Defense and by the Secretary of Transportation with respect to the Coast Guard.
 
-(Added Pub. L. 102–484, div. D, title XLIV, §4417(a), Oct. 23, 1992, 106 Stat. 2716, §1331a; amended Pub. L. 103–35, title II, §201(f)(2), May 31, 1993, 107 Stat. 99; Pub. L. 103–160, div. A, title V, §§561(f)(4), 564(c), Nov. 30, 1993, 107 Stat. 1668, 1670; renumbered §12731a and amended Pub. L. 103–337, div. A, title V, §517, title XVI, §1662(j)(1), Oct. 5, 1994, 108 Stat. 2754, 2998, 3000.)
+(Added Pub. L. 102–484, div. D, title XLIV, §4417(a), Oct. 23, 1992, 106 Stat. 2716, §1331a; amended Pub. L. 103–35, title II, §201(f)(2), May 31, 1993, 107 Stat. 99; Pub. L. 103–160, div. A, title V, §§561(f)(4), 564(c), Nov. 30, 1993, 107 Stat. 1668, 1670; renumbered §12731a and amended Pub. L. 103–337, div. A, title V, §517, title XVI, §1662(j)(1), Oct. 5, 1994, 108 Stat. 2754, 2998, 3000; Pub. L. 104–106, div. A, title XV, §1501(b)(21), Feb. 10, 1996, 110 Stat. 497.)
 
 #### References in Text
 
-Section 4414(a) of the National Defense Authorization Act for Fiscal Year 1993 and section 4415(2) of the Defense Conversion\[,\] Reinvestment, and Transition Assistance Act of 1992, referred to in subsec. (c)(2), (3), are sections 4414(a) and 4415(2) of Pub. L. 102–484, which are set out in a note under section 12681 of this title.
+Section 4414(a) of the National Defense Authorization Act for Fiscal Year 1993 and section 4415(2) of the Defense Conversion, Reinvestment, and Transition Assistance Act of 1992, referred to in subsec. (c)(2), (3), are sections 4414(a) and 4415(2) of Pub. L. 102–484, which are set out in a note under section 12681 of this title.
 
 #### Amendments
+
+1996—Subsec. (c)(3). Pub. L. 104–106 inserted comma after “Defense Conversion”.
 
 1994—Pub. L. 103–337, §1662(j)(1), renumbered section 1331a of this title as this section and amended text generally, changing references to other sections.
 
@@ -60,6 +62,10 @@ Subsec. (c)(1). Pub. L. 103–160, §564(c)(2), struck out “of the military de
 
 Subsec. (e). Pub. L. 103–160, §564(c)(3), inserted before period at end “and by the Secretary of Transportation with respect to the Coast Guard”.
 
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–106 effective as if included in the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as enacted on Oct. 5, 1994, see section 1501(f)(3) of Pub. L. 104–106, set out as a note under section 113 of this title.
+
 #### Effective Date of 1994 Amendment
 
 Amendment by section 1662(j)(1) of Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as an Effective Date note under section 10001 of this title.
@@ -67,6 +73,4 @@ Amendment by section 1662(j)(1) of Pub. L. 103–337 effective Dec. 1, 1994, exc
 #### Section Referred to in Other Sections
 
 This section is referred to in title 38 sections 1965, 1968.
-
-<i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

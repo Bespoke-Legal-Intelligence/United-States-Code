@@ -2,8 +2,8 @@
 
 | Sec. |  |
 | :--- | ---: |
-| [971\.](%C2%A7%2000971%20-%20Service%20credit%20officers%20may%20not%20count%20enlisted%20service%20performed%20while%20serving%20as%20cadet%20or%20midshipman.md) | Service credit: officers may not count enlisted service performed while serving as cadet or midshipman. |
-| [972\.](%C2%A7%2000972%20-%20Enlisted%20members%20required%20to%20make%20up%20time%20lost.md) | Enlisted members: required to make up time lost. |
+| [971\.](%C2%A7%2000971%20-%20Service%20credit%20officers%20may%20not%20count%20service%20performed%20while%20serving%20as%20cadet%20or%20midshipman.md) | Service credit: officers may not count service performed while serving as cadet or midshipman. |
+| [972\.](%C2%A7%2000972%20-%20Members%20effect%20of%20time%20lost.md) | Members: effect of time lost. |
 | [973\.](%C2%A7%2000973%20-%20Duties%20officers%20on%20active%20duty%3B%20performance%20of%20civil%20functions%20restricted.md) | Duties: officers on active duty; performance of civil functions restricted. |
 | [974\.](%C2%A7%2000974%20-%20Civilian%20employment%20enlisted%20members.md) | Civilian employment: enlisted members. |
 | \[975. | Renumbered.\] |
@@ -14,10 +14,15 @@
 | [980\.](%C2%A7%2000980%20-%20Limitation%20on%20use%20of%20humans%20as%20experimental%20subjects.md) | Limitation on use of humans as experimental subjects. |
 | [981\.](%C2%A7%2000981%20-%20Limitation%20on%20number%20of%20enlisted%20aides.md) | Limitation on number of enlisted aides. |
 | [982\.](%C2%A7%2000982%20-%20Members%20service%20on%20State%20and%20local%20juries.md) | Members: service on State and local juries. |
+| [983\.](%C2%A7%2000983%20-%20Institutions%20of%20higher%20education%20that%20prohibit%20Senior%20ROTC%20units%20denial%20of%20Department%20of%20Defense%20grants%20and%20contracts.md) | Institutions of higher education that prohibit Senior ROTC units: denial of Department of Defense grants and contracts. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1996—Pub. L. 104–201, div. A, title V, §581(c)(3), Sept. 23, 1996, 110 Stat. 2538, struck out “enlisted” after “count” in item 971.
+
+Pub. L. 104–106, div. A, title V, §§541(b), 561(c)(2), Feb. 10, 1996, 110 Stat. 316, 322, substituted “Members: effect of time lost” for “Enlisted members: required to make up time lost” in item 972 and added item 983.
 
 1993—Pub. L. 103–160, div. A, title III, §351(b), Nov. 30, 1993, 107 Stat. 1627, added item 977.
 
@@ -54,8 +59,8 @@ Pub. L. 95–485, title VIII, §815(b), Oct. 20, 1978, 92 Stat. 1626, added item
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 00971 - Service credit officers may not count enlisted service performed while serving as cadet or midshipman](%C2%A7%2000971%20-%20Service%20credit%20officers%20may%20not%20count%20enlisted%20service%20performed%20while%20serving%20as%20cadet%20or%20midshipman.md)
-- [&sect; 00972 - Enlisted members required to make up time lost](%C2%A7%2000972%20-%20Enlisted%20members%20required%20to%20make%20up%20time%20lost.md)
+- [&sect; 00971 - Service credit officers may not count service performed while serving as cadet or midshipman](%C2%A7%2000971%20-%20Service%20credit%20officers%20may%20not%20count%20service%20performed%20while%20serving%20as%20cadet%20or%20midshipman.md)
+- [&sect; 00972 - Members effect of time lost](%C2%A7%2000972%20-%20Members%20effect%20of%20time%20lost.md)
 - [&sect; 00973 - Duties officers on active duty; performance of civil functions restricted](%C2%A7%2000973%20-%20Duties%20officers%20on%20active%20duty%3B%20performance%20of%20civil%20functions%20restricted.md)
 - [&sect; 00974 - Civilian employment enlisted members](%C2%A7%2000974%20-%20Civilian%20employment%20enlisted%20members.md)
 - [&sect; 00975 - Renumbered &sect;2390](%C2%A7%2000975%20-%20Renumbered%20%C2%A72390.md)
@@ -66,3 +71,4 @@ Pub. L. 95–485, title VIII, §815(b), Oct. 20, 1978, 92 Stat. 1626, added item
 - [&sect; 00980 - Limitation on use of humans as experimental subjects](%C2%A7%2000980%20-%20Limitation%20on%20use%20of%20humans%20as%20experimental%20subjects.md)
 - [&sect; 00981 - Limitation on number of enlisted aides](%C2%A7%2000981%20-%20Limitation%20on%20number%20of%20enlisted%20aides.md)
 - [&sect; 00982 - Members service on State and local juries](%C2%A7%2000982%20-%20Members%20service%20on%20State%20and%20local%20juries.md)
+- [&sect; 00983 - Institutions of higher education that prohibit Senior ROTC units denial of Department of Defense grants and contracts](%C2%A7%2000983%20-%20Institutions%20of%20higher%20education%20that%20prohibit%20Senior%20ROTC%20units%20denial%20of%20Department%20of%20Defense%20grants%20and%20contracts.md)

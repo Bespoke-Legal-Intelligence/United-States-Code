@@ -40,7 +40,7 @@ Each local educational agency desiring assistance from a State educational agenc
 
 #### (d) <sup>2</sup> Formation of consortia
 
-A local educational agency for any fiscal year may apply for financial assistance as part of a consortium with other local educational agencies, institutions of higher education, intermediate educational units, libraries, or other educational entities appropriate to provide local programs. The State educational agency may assist in the formation of consortia among local educational agencies, providers of educational services for adults and families, institutions of higher education, intermediate educational units, libraries, or other appropriate educational entities to provide services for the teachers and students in a local educational agency at the request of such local educational agency.
+A local educational agency for any fiscal year may apply for financial assistance as part of aconsortium with other local educational agencies, institutions of higher education, intermediate educational units, libraries, or other educational entities appropriate to provide local programs. The State educational agency may assist in the formation of consortia among local educational agencies, providers of educational services for adults and families, institutions of higher education, intermediate educational units, libraries, or other appropriate educational entities to provide services for the teachers and students in a local educational agency at the request of such local educational agency.
 
 #### (e) <sup>3</sup> Coordination of application requirements
 

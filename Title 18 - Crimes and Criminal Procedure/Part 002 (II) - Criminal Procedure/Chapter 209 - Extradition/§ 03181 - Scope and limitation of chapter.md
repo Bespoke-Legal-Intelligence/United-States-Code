@@ -1,14 +1,80 @@
 ### §3181. Scope and limitation of chapter
 
-The provisions of this chapter relating to the surrender of persons who have committed crimes in foreign countries shall continue in force only during the existence of any treaty of extradition with such foreign government.
+(a) The provisions of this chapter relating to the surrender of persons who have committed crimes in foreign countries shall continue in force only during the existence of any treaty of extradition with such foreign government.
 
-(June 25, 1948, ch. 645, 62 Stat. 822.)
+(b) The provisions of this chapter shall be construed to permit, in the exercise of comity, the surrender of persons, other than citizens, nationals, or permanent residents of the United States, who have committed crimes of violence against nationals of the United States in foreign countries without regard to the existence of any treaty of extradition with such foreign government if the Attorney General certifies, in writing, that—
+
+&emsp;(1) evidence has been presented by the foreign government that indicates that had the offenses been committed in the United States, they would constitute crimes of violence as defined under section 16 of this title; and
+
+&emsp;(2) the offenses charged are not of a political nature.
+
+(c) As used in this section, the term “national of the United States” has the meaning given such term in section 101(a)(22) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(22)).
+
+(June 25, 1948, ch. 645, 62 Stat. 822; Apr. 24, 1996, Pub. L. 104–132, title IV, §443(a), 110 Stat. 1280.)
 
 #### Historical and Revision Notes
 
 Based on title 18, U.S.C., 1940 ed., §658 (R.S. §5274).
 
 Minor changes were made in phraseology.
+
+#### Amendments
+
+1996—Pub. L. 104–132 designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
+
+#### Judicial Assistance to International Tribunal for Yugoslavia and International Tribunal for Rwanda
+
+Pub. L. 104–106, div. A, title XIII, §1342, Feb. 10, 1996, 110 Stat. 486, provided that:
+
+“(a)
+
+Surrender of Persons.—
+
+&emsp;“(1)
+
+Application of united states extradition laws.—Except as provided in paragraphs (2) and (3), the provisions of chapter 209 of title 18, United States Code, relating to the extradition of persons to a foreign country pursuant to a treaty or convention for extradition between the United States and a foreign government, shall apply in the same manner and extent to the surrender of persons, including United States citizens, to—
+
+&emsp;&emsp;“(A) the International Tribunal for Yugoslavia, pursuant to the Agreement Between the United States and the International Tribunal for Yugoslavia; and
+
+&emsp;&emsp;“(B) the International Tribunal for Rwanda, pursuant to the Agreement Between the United States and the International Tribunal for Rwanda.
+
+&emsp;“(2)
+
+Evidence on hearings.—For purposes of applying section 3190 of title 18, United States Code, in accordance with paragraph (1), the certification referred to in that section may be made by the principal diplomatic or consular officer of the United States resident in such foreign countries where the International Tribunal for Yugoslavia or the International Tribunal for Rwanda may be permanently or temporarily situated.
+
+&emsp;“(3)
+
+Payment of fees and costs.—(A) The provisions of the Agreement Between the United States and the International Tribunal for Yugoslavia and of the Agreement Between the United States and the International Tribunal for Rwanda shall apply in lieu of the provisions of section 3195 of title 18, United States Code, with respect to the payment of expenses arising from the surrender by the United States of a person to the International Tribunal for Yugoslavia or the International Tribunal for Rwanda, respectively, or from any proceedings in the United States relating to such surrender.
+
+&emsp;“(B) The authority of subparagraph (A) may be exercised only to the extent and in the amounts provided in advance in appropriations Acts.
+
+&emsp;“(4)
+
+Nonapplicability of the federal rules.—The Federal Rules of Evidence \[set out in the Appendix to Title 28, Judiciary and Judicial Procedure\] and the Federal Rules of Criminal Procedure \[set out in the Appendix to this title\] do not apply to proceedings for the surrender of persons to the International Tribunal for Yugoslavia or the International Tribunal for Rwanda.
+
+“(b)
+
+Assistance to Foreign and International Tribunals and to Litigants Before Such Tribunals.—\[Amended section 1782 of Title 28, Judiciary and Judicial Procedure.\]
+
+“(c)
+
+Definitions.—For purposes of this section:
+
+&emsp;“(1)
+
+International tribunal for yugoslavia.—The term ‘International Tribunal for Yugoslavia’ means the International Tribunal for the Prosecution of Persons Responsible for Serious Violations of International Humanitarian Law in the Territory of the Former Yugoslavia, as established by United Nations Security Council Resolution 827 of May 25, 1993.
+
+&emsp;“(2)
+
+International tribunal for rwanda.—The term ‘International Tribunal for Rwanda’ means the International Tribunal for the Prosecution of Persons Responsible for Genocide and Other Serious Violations of International Humanitarian Law Committed in the Territory of Rwanda and Rwandan Citizens Responsible for Genocide and Other Such Violations Committed in the Territory of Neighboring States, as established by United Nations Security Council Resolution 955 of November 8, 1994.
+
+&emsp;“(3)
+
+Agreement between the united states and the international tribunal for yugoslavia.—The term ‘Agreement Between the United States and the International Tribunal for Yugoslavia’ means the Agreement on Surrender of Persons Between the Government of the United States and the International Tribunal for the Prosecution of Persons Responsible for Serious Violations of International Law in the Territory of the Former Yugoslavia, signed at The Hague, October 5, 1994.
+
+&emsp;“(4)
+
+Agreement between the united states and the international tribunal for rwanda.—The term ‘Agreement between the United States and the International Tribunal for Rwanda’ means the Agreement on Surrender of Persons Between the Government of the United States and the International Tribunal for the Prosecution of Persons Responsible for Genocide and Other Serious Violations of International Humanitarian Law Committed in the Territory of Rwanda and Rwandan Citizens Responsible for Genocide and Other Such Violations Committed in the Territory of Neighboring States, signed at The Hague, January 24, 1995.”
 
 #### Extradition and Mutual Legal Assistance Treaties and Model Comprehensive Antidrug Laws
 
@@ -26,6 +92,8 @@ Pub. L. 99–93, title I, §133, Aug. 16, 1985, 99 Stat. 420, provided that: “
 
 The United States currently has bilateral extradition treaties with the following countries:
 
+&nbsp;
+
 | Country | Date signed | Entered into force | Citation |
 | :--- | :---: | :---: | ---: |
 | Albania | Mar. 1, 1933 | Nov. 14, 1935 | 49 Stat. 3313. |
@@ -33,14 +101,12 @@ The United States currently has bilateral extradition treaties with the followin
 | Argentina | Jan. 21, 1972 | Sept. 15, 1972 | 23 UST 3501. |
 | AustraliaDMay 14, 1974DMay 8, 1976D27 UST 957. |  |  |  |
 | &nbsp; | Sept. 4, 1990 | Dec. 21, 1992 | &nbsp; |
-| Austria | Jan. 31, 1930 | Sept. 11, 1930 | 46 Stat. 2779. |
+| AustriaDJan. 31, 1930DSept. 11, 1930D46 Stat. 2779. |  |  |  |
 | &nbsp; | May 19, 1934 | Sept. 5, 1934 | 49 Stat. 2710. |
 | Bahamas | Mar. 9, 1990 | Sept. 22, 1994 | TIAS. |
 | Barbados | Dec. 22, 1931 | June 24, 1935 | 47 Stat. 2122. |
-| BelgiumDOct. 26, 1901DJuly 14, 1902D32 Stat. 1894. |  |  |  |
-| &nbsp; | June 20, 1935 | Nov. 7, 1935 | 49 Stat. 3276. |
-| &nbsp; | Nov. 14, 1963 | Dec. 25, 1964 | 15 UST 2252. |
-| BelizeDJune 8, 1972DJan. 21, 1977D28 UST 227. |  |  |  |
+| Belgium | Apr. 27, 1987 | Sept. 1, 1997 | &nbsp; |
+| Belize | June 8, 1972 | Jan. 21, 1977 | 28 UST 227. |
 | Bolivia | Apr. 21, 1900 | Jan. 22, 1902 | 32 Stat. 1857. |
 | BrazilDJan. 13, 1961DDec. 17, 1964D15 UST 2093. |  |  |  |
 | &nbsp; | June 18, 1962 | Dec. 17, 1964 | 15 UST 2112. |
@@ -89,7 +155,7 @@ The United States currently has bilateral extradition treaties with the followin
 | Haiti | Aug. 9, 1904 | June 28, 1905 | 34 Stat. 2858. |
 | HondurasDJan. 15, 1909DJuly 10, 1912D37 Stat. 1616. |  |  |  |
 | &nbsp; | Feb. 21, 1927 | June 5, 1928 | 45 Stat. 2489. |
-| Hungary | July 3, 1856 | Dec. 13, 1856 | 11 Stat. 691. |
+| Hungary | Dec. 1, 1994 | Mar. 18, 1997 | &nbsp; |
 | IcelandDJan. 6, 1902DD32 Stat. 1096. |  |  |  |
 | &nbsp; | Nov. 6, 1905 | Feb. 19, 1906 | 34 Stat. 2887. |
 | India | Dec. 22, 1931 | Mar. 9, 1942 | 47 Stat. 2122. |
@@ -98,8 +164,9 @@ The United States currently has bilateral extradition treaties with the followin
 | IsraelDDec. 10, 1962DDec. 5, 1963D14 UST 1707. |  |  |  |
 | &nbsp; |  | Apr. 11, 1967 | 18 UST 382. |
 | Italy | Oct. 13, 1983 | Sept. 24, 1984 | TIAS 10837. |
-| Jamaica | Dec. 31, 1931 | June 24, 1935 | 47 Stat. 2122. |
+| Jamaica | June 14, 1983 | July 7, 1991 | &nbsp; |
 | Japan | Mar. 3, 1978 | Mar. 26, 1980 | 31 UST 892. |
+| Jordan | Mar. 28, 1995 | July 29, 1995 |  |
 | KenyaDDec. 22, 1931DJune 24, 1935D47 Stat. 2122. |  |  |  |
 | &nbsp; |  | Aug. 19, 1965 | 16 UST 1866. |
 | Kiribati | June 8, 1972 | Jan. 21, 1977 | 28 UST 227. |
@@ -114,7 +181,7 @@ The United States currently has bilateral extradition treaties with the followin
 | &nbsp; | Apr. 24, 1935 | Mar. 3, 1936 | 49 Stat. 3355. |
 | MalawiDDec. 22, 1931DJune 24, 1935D47 Stat. 2122. |  |  |  |
 | &nbsp; |  | Apr. 4, 1967 | 18 UST 1822. |
-| Malaysia | Dec. 22, 1931 | July 31, 1939 | 47 Stat. 2122. |
+| Malaysia | Aug. 3, 1995 | June 2, 1997 | &nbsp; |
 | Malta | Dec. 22, 1931 | June 24, 1935 | 47 Stat. 2122. |
 | Mauritius | Dec. 22, 1931 | June 24, 1935 | 47 Stat. 2122. |
 | Mexico | May 4, 1978 | Jan. 25, 1980 | 31 UST 5059. |
@@ -130,6 +197,7 @@ The United States currently has bilateral extradition treaties with the followin
 | Papua New Guinea | Dec. 22, 1931 | Aug. 30, 1935 | 47 Stat. 2122. |
 | Paraguay | May 24, 1973 | May 7, 1974 | 25 UST 967. |
 | Peru | Nov. 28, 1899 | Feb. 22, 1901 | 31 Stat. 1921. |
+| Philippines | Nov. 13, 1994 | Nov. 22, 1996 | &nbsp; |
 | PolandDNov. 22, 1927DJuly 6, 1929D46 Stat. 2282. |  |  |  |
 | &nbsp; | Apr. 5, 1935 | June 5, 1936 | 49 Stat. 3394. |
 | Portugal | May 7, 1908 | Nov. 14, 1908 | 35 Stat. 2071. |
@@ -157,9 +225,7 @@ The United States currently has bilateral extradition treaties with the followin
 | &nbsp; |  | July 28, 1970 | 21 UST 1930. |
 | SwedenDOct. 24, 1961DDec. 3, 1963D14 UST 1845. |  |  |  |
 | &nbsp; | Mar. 14, 1983 | Sept. 24, 1984 | TIAS 10812. |
-| SwitzerlandDMay 14, 1900DMar. 29, 1901D31 Stat. 1928. |  |  |  |
-| &nbsp; | Jan. 10, 1935 | May 16, 1935 | 49 Stat. 3192. |
-| &nbsp; | Jan. 31, 1940 | Apr. 8, 1941 | 55 Stat. 1140. |
+| Switzerland | Nov. 14, 1990 | Sept. 10, 1997 | &nbsp; |
 | TanzaniaDDec. 22, 1931DJune 24, 1935D47 Stat. 2122. |  |  |  |
 | &nbsp; |  | Dec. 6, 1965 | 16 UST 2066. |
 | Thailand | Dec. 30, 1922 | Mar. 24, 1924 | 43 Stat. 1749. |
@@ -182,4 +248,8 @@ The United States currently has bilateral extradition treaties with the followin
 The United States is a party to the Multilateral Convention on Extradition signed at Montevideo on Dec. 26, 1933, entered into force for the United States on Jan. 25, 1935. 49 Stat. 3111.
 
 Other states which have become parties: Argentina, Chile, Colombia, Dominican Republic, Ecuador, El Salvador, Guatemala, Honduras, Mexico, Nicaragua, Panama.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 3184 of this title.
 

@@ -2,7 +2,7 @@
 
 #### (a) Annual reporting requirements; form, etc.
 
-(1) Each State shall prepare and submit to the Secretary annual reports on its activities under this subchapter. Each such report shall be prepared by, or in consultation with, the State maternal and child health agency. In order properly to evaluate and to compare the performance of different States assisted under this subchapter and to assure the proper expenditure of funds under this subchapter, such reports shall be in such standardized form and contain such information (including information described in paragraph (2)) as the Secretary determines (after consultation with the States and the Comptroller General) to be necessary (A) to secure an accurate description of those activities, (B) to secure a complete record of the purposes for which funds were spent, of the recipients of such funds, (C) to describe the extent to which the State has met the goals and objectives it set forth under section 705(a)(2)(B)(i) of this title and the national health objectives referred to in section 701(a) of this title, and (D) to determine the extent to which funds were expended consistent with the State's application transmitted under section 705(a) of this title. Copies of the report shall be provided, upon request, to any interested public agency, and each such agency may provide its views on these reports to the Congress.
+(1) Each State shall prepare and submit to the Secretary annual reports on its activities under this subchapter. Each such report shall be prepared by, or in consultation with, the State maternal and child health agency. In order properly to evaluate and to compare the performance of different States assisted under this subchapter and to assure the proper expenditure of funds under this subchapter, such reports shall be in such standardized form and contain such information (including information described in paragraph (2)) as the Secretary determines (after consultation with the States) to be necessary (A) to secure an accurate description of those activities, (B) to secure a complete record of the purposes for which funds were spent, of the recipients of such funds, (C) to describe the extent to which the State has met the goals and objectives it set forth under section 705(a)(2)(B)(i) of this title and the national health objectives referred to in section 701(a) of this title, and (D) to determine the extent to which funds were expended consistent with the State's application transmitted under section 705(a) of this title. Copies of the report shall be provided, upon request, to any interested public agency, and each such agency may provide its views on these reports to the Congress.
 
 (2) Each annual report under paragraph (1) shall include the following information:
 
@@ -52,7 +52,7 @@
 
 &emsp;&emsp;(i) the number of infants under one year of age who were in the State in the year, and
 
-&emsp;&emsp;(ii) the number of such infants who were provided services under this subchapter or were entitled to benefits under the State plan under subchapter XIX of this chapter at any time during the year.
+&emsp;&emsp;(ii) the number of such infants who were provided services under this subchapter or were entitled to benefits under the Stateplan under subchapter XIX of this chapter at any time during the year.
 
 &emsp;(E) Information on the number of—
 
@@ -154,7 +154,7 @@
 
 (2) Each State shall repay to the United States amounts found by the Secretary, after notice and opportunity for a hearing to the State, not to have been expended in accordance with this subchapter and, if such repayment is not made, the Secretary may offset such amounts against the amount of any allotment to which the State is or may become entitled under this subchapter or may otherwise recover such amounts.
 
-(3) The Secretary may, after notice and opportunity for a hearing, withhold payment of funds to any State which is not using its allotment under this subchapter in accordance with this subchapter. The Secretary may withhold such funds until the Secretary finds that the reason for the withholding has been removed and there is reasonable assurance that it will not recur.
+(3) The Secretary may, after notice and opportunity for a hearing, withhold payment of funds to any State which is not using its allotmentunder this subchapter in accordance with this subchapter. The Secretary may withhold such funds until the Secretary finds that the reason for the withholding has been removed and there is reasonable assurance that it will not recur.
 
 #### (c) Public inspection of reports and audits
 
@@ -168,7 +168,7 @@ The State shall make copies of the reports and audits required by this section a
 
 (3) For other provisions relating to deposit, accounting, reports, and auditing with respect to Federal grants to States, see section 6503(b) <sup>1</sup> of title 31.
 
-(Aug. 14, 1935, ch. 531, title V, §506, as added Aug. 13, 1981, Pub. L. 97–35, title XXI, §2192(a), 95 Stat. 823; amended July 18, 1984, Pub. L. 98–369, div. B, title III, §2373(a)(2), 98 Stat. 1111; Dec. 19, 1989, Pub. L. 101–239, title VI, §§6503(c)(3), (4), 6504, 103 Stat. 2278.)
+(Aug. 14, 1935, ch. 531, title V, §506, as added Aug. 13, 1981, Pub. L. 97–35, title XXI, §2192(a), 95 Stat. 823; amended July 18, 1984, Pub. L. 98–369, div. B, title III, §2373(a)(2), 98 Stat. 1111; Dec. 19, 1989, Pub. L. 101–239, title VI, §§6503(c)(3), (4), 6504, 103 Stat. 2278; Oct. 19, 1996, Pub. L. 104–316, title I, §122(f), 110 Stat. 3837.)
 
 #### References in Text
 
@@ -181,6 +181,8 @@ A prior section 706, act Aug. 14, 1935, ch. 531, title V, §506, as added Jan. 2
 Provisions similar to those comprising former section 706 were contained in sections 504 and 514 of act Aug. 14, 1935, ch. 531, title V, 49 Stat. 630, 632, as amended (formerly classified to sections 704 and 714 of this title), prior to the general amendment and renumbering of title V of act Aug. 14, 1935, by Pub. L. 90–248, §301.
 
 #### Amendments
+
+1996—Subsec. (a)(1). Pub. L. 104–316 struck out “and the Comptroller General” after “with the States”.
 
 1989—Subsec. (a)(1). Pub. L. 101–239, §6504(a)(1), inserted after first sentence “Each such report shall be prepared by, or in consultation with, the State maternal and child health agency.”, substituted “be in such standardized form and contain such information (including information described in paragraph (2))” for “be in such form and contain such information”, and substituted “, (C) to describe the extent to which the State has met the goals and objectives it set forth under section 705(a)(2)(B)(i) of this title and the national health objectives referred to in section 701(a) of this title, and (D)” for “and of the progress made toward achieving the purposes of this subchapter, and (C)”.
 
@@ -224,7 +226,7 @@ Section 2192(b) of Pub. L. 97–35 provided that:
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 702, 705, 709 of this title.
+This section is referred to in sections 702, 705, 709, 710 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

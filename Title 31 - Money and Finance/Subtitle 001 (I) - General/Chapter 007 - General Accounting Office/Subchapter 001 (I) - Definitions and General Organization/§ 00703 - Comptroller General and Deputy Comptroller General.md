@@ -26,7 +26,7 @@
 
 (d) The Comptroller General shall designate an officer or employee of the General Accounting Office to act as Comptroller General when the Comptroller General and Deputy Comptroller General are absent or unable to serve or when the offices of Comptroller General and Deputy Comptroller General are vacant.
 
-(e)(1) A Comptroller General or Deputy Comptroller General may retire after becoming 70 years of age and completing 10 years of service as Comptroller General or Deputy Comptroller General (as the case may be). Either may be removed at any time by—
+(e)(1) A Comptroller General or Deputy Comptroller General may retire after becoming 70years of age and completing 10 years of service as Comptroller General or Deputy Comptroller General (as the case may be). Either may be removed at any time by—
 
 &emsp;(A) impeachment; or
 

@@ -58,7 +58,7 @@
 
 &emsp;If a taxpayer other than a corporation has a net capital loss for any taxable year—
 
-&emsp;&emsp;(A) the excess of the net short-term capital loss over the net long-term capital gainfor such year shall be a short-term capital loss in the succeeding taxable year, and
+&emsp;&emsp;(A) the excess of the net short-term capital loss over the net long-term capital gain for such year shall be a short-term capital loss in the succeeding taxable year, and
 
 &emsp;&emsp;(B) the excess of the net long-term capital loss over the net short-term capital gain for such year shall be a long-term capital loss in the succeeding taxable year.
 
@@ -218,7 +218,7 @@ Amendment by section 301(b)(11) of Pub. L. 99–514 applicable to taxable years 
 
 #### Effective Date of 1984 Amendment
 
-Amendment by section 102(e)(3) of Pub. L. 98–369 applicable to positions established after July 18, 1984, intaxable years after that date, except as otherwise provided, see section 102(f), (g) of Pub. L. 98–369, set out as a note under section 1256 of this title.
+Amendment by section 102(e)(3) of Pub. L. 98–369 applicable to positions established after July 18, 1984, in taxable years after that date, except as otherwise provided, see section 102(f), (g) of Pub. L. 98–369, set out as a note under section 1256 of this title.
 
 Section 1002(b) of Pub. L. 98–369 provided that: “The repeal made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1986.”
 

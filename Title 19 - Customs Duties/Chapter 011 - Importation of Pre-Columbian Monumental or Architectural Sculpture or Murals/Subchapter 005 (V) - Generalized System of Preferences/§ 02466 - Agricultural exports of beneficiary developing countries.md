@@ -2,9 +2,9 @@
 
 The appropriate agencies of the United States shall assist beneficiary developing countries to develop and implement measures designed to assure that the agricultural sectors of their economies are not directed to export markets to the detriment of the production of foodstuffs for their citizenry.
 
-(Pub. L. 93–618, title V, §506, as added Pub. L. 98–573, title V, §507(a), Oct. 30, 1984, 98 Stat. 3023.)
+(Pub. L. 93–618, title V, §506, as added Pub. L. 104–188, title I, §1952(a), Aug. 20, 1996, 110 Stat. 1925.)
 
-#### Effective Date
+#### Prior Provisions
 
-Section effective Jan. 4, 1985, see section 508 of Pub. L. 98–573, set out as an Effective Date of 1984 Amendment note under section 2461 of this title.
+A prior section 2466, Pub. L. 93–618, title V, §506, as added Pub. L. 98–573, title V, §507(a), Oct. 30, 1984, 98 Stat. 3023, related to agricultural exports of beneficiary developing countries, prior to the general amendment of this subchapter by Pub. L. 104–188.
 

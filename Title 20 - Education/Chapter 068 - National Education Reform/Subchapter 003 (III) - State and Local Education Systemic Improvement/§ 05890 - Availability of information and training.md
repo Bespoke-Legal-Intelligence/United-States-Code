@@ -16,7 +16,7 @@ If, by reason of any provision of law, a State or local educational agency is pr
 
 #### References in Text
 
-Section 6321 of this title, referred to in subsec. (b), was in the original a reference to section 1020 of the Elementary and Secondary Education Act of 1965, meaning section 1020 of Pub. L. 89–10, which was translated as reading section 1120 of that Act to reflect the probable intent of Congress, because Pub. L. 89–10 does not contain a section 1020, but it does contain a section 1120 relating to participation of children enrolled in private schools.
+Section 6321 of this title, referred to in subsec. (b), was in the original a reference to section 1020 of theElementary and Secondary Education Act of 1965, meaning section 1020 of Pub. L. 89–10, which was translated as reading section 1120 of that Act to reflect the probable intent of Congress, because Pub. L. 89–10 does not contain a section 1020, but it does contain a section 1120 relating to participation of children enrolled in private schools.
 
 #### Amendments
 

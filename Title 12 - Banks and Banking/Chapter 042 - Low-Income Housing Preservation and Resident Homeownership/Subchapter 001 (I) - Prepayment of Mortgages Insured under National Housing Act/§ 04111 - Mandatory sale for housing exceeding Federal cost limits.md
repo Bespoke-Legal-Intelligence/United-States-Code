@@ -8,7 +8,7 @@ With respect to any eligible low-income housing for which the aggregate preserva
 
 #### (1) Duration and required sale
 
-&emsp;For the 12-month period beginning upon the receipt by the Secretary of the second notice of intent under section 4106(d) of this title with respect to such housing, the owner of the housing may offer to sell and may sell the housing only to priority purchasers. If, during such period, a priority purchaser makes a bona fide offer to purchase the housing for a sale price not less than the preservation value of the housing determined under section 4103(b)(2) of this title, the Secretary shall require the owner to sell the housing pursuant to such offer.
+&emsp;For the 12-month period beginning upon the receipt by the Secretary of the second noticeof intent under section 4106(d) of this title with respect to such housing, the owner of the housing may offer to sell and may sell the housing only to priority purchasers. If, during such period, a priority purchaser makes a bona fide offer to purchase the housing for a sale price not less than the preservation value of the housing determined under section 4103(b)(2) of this title, the Secretary shall require the owner to sell the housing pursuant to such offer.
 
 #### (2) Expression of interest
 
@@ -44,5 +44,5 @@ If no bona fide offer to purchase any eligible low-income housing subject to thi
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1715z–6, 4103, 4104, 4105, 4106, 4107, 4114, 4119, 4124 of this title.
+This section is referred to in sections 4103, 4104, 4105, 4106, 4107, 4114, 4119, 4124 of this title.
 

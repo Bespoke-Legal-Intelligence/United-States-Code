@@ -6,7 +6,7 @@
 
 &emsp;(A) shall provide that the prohibition of dual trading thereunder shall take effect not less than thirty days after the issuance of the regulations;
 
-&emsp;(B) shall provide for exceptions, as the Commission determines necessary and appropriate, to ensure fairness and orderly trading in affected contract markets, including—
+&emsp;(B) shall provide for exceptions, as the Commission determines necessary and appropriate,to ensure fairness and orderly trading in affected contract markets, including—
 
 &emsp;&emsp;(i) transition measures and a reasonable phase-in period,
 
@@ -118,7 +118,7 @@ For the effective date of the Commodity Futures Trading Commission Act of 1974, 
 
 1992—Subsec. (a). Pub. L. 102–546, §101(a)(3), added subsec. (a).
 
-Subsec. (b). Pub. L. 102–546, §101(a)(1), (2), redesignated par. (1) as subsec. (b) and substituted “If, in addition to the regulations issued pursuant to subsection (a) of this section, the Commission has reason to believe that dual trading-related or facilitated abuses are not being or cannot be effectively addressed by subsection (a) of this section, the Commission shall” for “The Commission shall within nine months after theeffective date of the Commodity Futures Trading Commission Act of 1974, and subsequently when it determines that changes are required,”.
+Subsec. (b). Pub. L. 102–546, §101(a)(1), (2), redesignated par. (1) as subsec. (b) and substituted “If, in addition to the regulations issued pursuant to subsection (a) of this section, the Commission has reason to believe that dual trading-related or facilitated abuses are not being or cannot be effectively addressed by subsection (a) of this section, the Commission shall” for “The Commission shall within nine months after the effective date of the Commodity Futures Trading Commission Act of 1974, and subsequently when it determines that changes are required,”.
 
 Subsec. (c). Pub. L. 102–546, §101(a)(1), redesignated par. (2) as subsec. (c).
 

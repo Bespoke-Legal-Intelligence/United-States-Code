@@ -6,7 +6,9 @@ When an owner of a passenger motor vehicle sustains damages as a result of a mot
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

@@ -2,11 +2,11 @@
 
 #### (a) Establishment
 
-There is hereby established the Malcolm Baldrige National Quality Award, which shall beevidenced by a medal bearing the inscriptions “Malcolm Baldrige National Quality Award” and “The Quest for Excellence”. The medal shall be of such design and materials and bear such additional inscriptions as the Secretary may prescribe.
+There is hereby established the Malcolm Baldrige National Quality Award, which shall be evidenced by a medal bearing the inscriptions “Malcolm Baldrige National Quality Award” and “The Quest for Excellence”. The medal shall be of such design and materials and bear such additional inscriptions as the Secretary may prescribe.
 
 #### (b) Making and presentation of award
 
-(1) The President (on the basis of recommendations received from the Secretary), or the Secretary, shall periodically make the award to companies and other organizations which in the judgment of the President or the Secretary have substantially benefited the economic or social well-being of the United States through improvements in the quality of their goods or services resulting from the effective practice of quality management, and which as a consequence are deserving of special recognition.
+(1) The President (on the basis of recommendations received from the Secretary), or the Secretary, shall periodically make the award to companies and other organizations which in the judgment of the President or the Secretary havesubstantially benefited the economic or social well-being of the United States through improvements in the quality of their goods or services resulting from the effective practice of quality management, and which as a consequence are deserving of special recognition.
 
 (2) The presentation of the award shall be made by the President or the Secretary with such ceremonies as the President or the Secretary may deem proper.
 
@@ -52,7 +52,7 @@ The Secretary is authorized to seek and accept gifts from public and private sou
 
 #### (g) Report
 
-The Secretary shall prepare and submit to the President and the Congress, within 3 years after August 20, 1987, a report on the progress, findings, and conclusions of activities conductedpursuant to this section along with recommendations for possible modifications thereof.
+The Secretary shall prepare and submit to the President and the Congress, within 3 years after August 20, 1987, a report on the progress, findings, and conclusions of activities conducted pursuant to this section along with recommendations for possible modifications thereof.
 
 (Pub. L. 96–480, §17, formerly §16, as added Pub. L. 100–107, §3(a), Aug. 20, 1987, 101 Stat. 725; renumbered §17 and amended Pub. L. 100–418, title V, §§5115(b)(2)(A), 5122(a)(1), Aug. 23, 1988, 102 Stat. 1433, 1438; Pub. L. 102–245, title III, §305, Feb. 14, 1992, 106 Stat. 20.)
 

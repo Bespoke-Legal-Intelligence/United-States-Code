@@ -32,7 +32,7 @@ Section was enacted as part of the Energy Policy and Conservation Amendments Act
 
 #### Short Title
 
-Section 201 of title II of Pub. L. 99–58 provided that: “This title \[enacting this section and provisions set out as a note below\] may be cited as the ‘National Coal Imports Reporting Act of 1985’.”
+Section 201 of title II of Pub. L. 99–58 provided that: “This title \[enacting this section and provisions set outas a note below\] may be cited as the ‘National Coal Imports Reporting Act of 1985’.”
 
 #### Analysis of United States Coal Import Market; Report by Secretary of Energy to Congress
 
@@ -54,7 +54,7 @@ Contents.—The report required by this section shall—
 
 &emsp;“(4) identify contractual commitments of domestic utilities expiring between 1985 and 1995 and describe spot buying practices of domestic utilities, fuel cost patterns, plant modification costs required to burn foreign coals, proximity of navigable waters to utilities, demand for compliance coal, availability of less expensive purchased power from Canada, and State and local considerations;
 
-&emsp;“(5) evaluate increased coal consumption by domestic electric utilities resulting from increased power sales and analyze the potential coal import market represented by this increased coal consumption, including consumption by existing coal-fired plants,new coal-fired plants projected up to the year 1995, and plants planning to convert to coal by 1995;
+&emsp;“(5) evaluate increased coal consumption by domestic electric utilities resulting from increased power sales and analyze the potential coal import market represented by this increased coal consumption, including consumption by existing coal-fired plants, new coal-fired plants projected up to the year 1995, and plants planning to convert to coal by 1995;
 
 &emsp;“(6) identify existing authorities available to the Federal Government relating to coal imports, assess the potential impact of exercising each of these authorities, and describe executive branch plans and strategies to address coal imports;
 

@@ -1,6 +1,6 @@
 ### §3720A. Reduction of tax refund by amount of debt
 
-(a) Any Federal agency that is owed a past-due legally enforceable debt (other than any past-due support), including debt administered by a third party acting as an agent for the Federal Government, by a named person shall, in accordance with regulations issued pursuant to subsections (b) and (d), notify the Secretary of the Treasury at least once a year of the amount of all such debt.
+(a) Any Federal agency that is owed by a person a past-due, legally enforceable debt (including debt administered by a third party acting as an agent for the Federal Government) shall, and any agency subject to section 9 of the Act of May 18, 1933 (16 U.S.C. 831h), owed such a debt may, in accordance with regulations issued pursuant to subsections (b) and (d), notify the Secretary of the Treasury at least once each year of the amount of such debt.
 
 (b) No Federal agency may take action pursuant to subsection (a) with respect to any debt until such agency—
 
@@ -14,7 +14,7 @@
 
 &emsp;(5) certifies that reasonable efforts have been made by the agency (pursuant to regulations) to obtain payment of such debt.
 
-(c) Upon receiving notice from any Federal agency that a named person owes to such agency a past-due legally enforceable debt, the Secretary of the Treasury shall determine whether any amounts, as refunds of Federal taxes paid,are payable to such person. If the Secretary of the Treasury finds that any such amount is payable, he shall reduce such refunds by an amount equal to the amount of such debt, pay the amount of such reduction to such agency, and notify such agency of the individual's home address.
+(c) Upon receiving notice from any Federal agency that a named person owes to such agency a past-due legally enforceable debt, the Secretary of the Treasury shall determine whether any amounts, as refunds of Federal taxes paid, are payable to such person. If the Secretary of the Treasury finds that any such amount is payable, he shall reduce such refunds by an amount equal to the amount of such debt, pay the amount of such reduction to such agency, and notify such agency of the individual's home address.
 
 (d) The Secretary of the Treasury shall issue regulations prescribing the time or times at which agencies must submit notices of past-due legally enforceable debts, the manner in which such notices must be submitted, and the necessary information that must be contained in or accompany the notices. The regulations shall specify the minimum amount of debt to which the reduction procedure established by subsection (c) may be applied and the fee that an agency must pay to reimburse the Secretary of the Treasury for the full cost of applying such procedure. Any fee paid to the Secretary pursuant to the preceding sentence may be used to reimburse appropriations which bore all or part of the cost of applying such procedure.
 
@@ -28,25 +28,55 @@
 
 (g) In the case of refunds of business associations, this section shall apply only to refunds payable on or after January 1, 1995. In the case of refunds of individuals who owe debts to Federal agencies that have not participated in the Federal tax refund offset program prior to the date of enactment of this subsection, this section shall apply only to refunds payable on or after January 1, 1994.
 
-(h) For purposes of this section—
+(h)(1) <sup>1</sup> The disbursing official of the Department of the Treasury—
 
-&emsp;(1) the term “Federal agency” means a department, agency, or instrumentality of the United States (other than an agency subject to section 9 of the Act of May 18, 1933 (48 Stat. 63, chapter 32; 16 U.S.C. 831h)), and includes a Government corporation (as such term is defined in section 103 of title 5, United States Code);
+&emsp;(1) <sup>1</sup> shall notify a taxpayer in writing of—
 
-&emsp;(2) the term “past-due support” means any delinquency subject to section 464 of the Social Security Act;
+&emsp;&emsp;(A) the occurrence of an offset to satisfy a past-due legally enforceable nontax debt;
 
-&emsp;(3) the term “OASDI overpayment” means any overpayment of benefits made to an individual under title II of the Social Security Act; and
+&emsp;&emsp;(B) the identity of the creditor agency requesting the offset; and
 
-&emsp;(4) the term “person” means an individual; or a sole proprietorship, partnership, corporation, nonprofit organization, or any other form of business association.
+&emsp;&emsp;(C) a contact point within the creditor agency that will handle concerns regarding the offset;
 
-(Added Pub. L. 98–369, div. B, title VI, §2653(a)(1), July 18, 1984, 98 Stat. 1153; amended Pub. L. 101–508, title V, §5129(b), Nov. 5, 1990, 104 Stat. 1388–287; Pub. L. 102–589, §3, Nov. 10, 1992, 106 Stat. 5133; Pub. L. 103–296, title I, §108(j)(2), Aug. 15, 1994, 108 Stat. 1488.)
+&emsp;(2) <sup>1</sup> shall notify the Internal Revenue Service on a weekly basis of—
+
+&emsp;&emsp;(A) the occurrence of an offset to satisfy a past-due legally enforceable non-tax <sup>2</sup> debt;
+
+&emsp;&emsp;(B) the amount of such offset; and
+
+&emsp;&emsp;(C) any other information required by regulations; and
+
+&emsp;(3) shall match payment records with requests for offset by using a name control, taxpayer identifying number (as that term is used in section 6109 of the Internal Revenue Code of 1986), and any other necessary identifiers.
+
+(h)(2) <sup>1</sup> The term “disbursing official” of the Department of the Treasury means the Secretary or his designee.
+
+(i) An agency subject to section 9 of the Act of May 18, 1933 (16 U.S.C. 831h), may implement this section at its discretion.
+
+(Added Pub. L. 98–369, div. B, title VI, §2653(a)(1), July 18, 1984, 98 Stat. 1153; amended Pub. L. 101–508, title V, §5129(b), Nov. 5, 1990, 104 Stat. 1388–287; Pub. L. 102–589, §3, Nov. 10, 1992, 106 Stat. 5133; Pub. L. 103–296, title I, §108(j)(2), Aug. 15, 1994, 108 Stat. 1488; Pub. L. 104–134, title III, §31001(u)(1), (v)(1), (w), Apr. 26, 1996, 110 Stat. 1321–375.)
 
 #### References in Text
 
-The Social Security Act, referred to in subsecs. (f)(1) and (h)(3), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II of the Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. Sections 204 and 464 of the Act are classified to sections 404 and 664, respectively, of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (f)(1), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II of the Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. Section 204 of the Act is classified to section 404 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 The date of enactment of this subsection, referred to in subsec. (g), is the date of enactment of Pub. L. 102–589, which was approved Nov. 10, 1992.
 
+Section 6109 of the Internal Revenue Code of 1986, referred to in subsec. (h)(3), is classified to section 6109 of Title 26, Internal Revenue Code.
+
 #### Amendments
+
+1996—Subsec. (a). Pub. L. 104–134, §31001(v)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Any Federal agency that is owed a past-due legally enforceable debt (other than any past-due support), including debt administered by a third party acting as an agent for the Federal Government, by a named person shall, in accordance with regulations issued pursuant to subsections (b) and (d), notify the Secretary of the Treasury at least once a year of the amount of all such debt.”
+
+Subsec. (h). Pub. L. 104–134, §31001(w), amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows: “For purposes of this section—
+
+&emsp;“(1) the term ‘Federal agency’ means a department, agency, or instrumentality of the United States (other than an agency subject to section 9 of the Act of May 18, 1933 (48 Stat. 63, chapter 32; 16 U.S.C. 831h)), and includes a Government corporation (as such term is defined in section 103 of title 5, United States Code);
+
+&emsp;“(2) the term ‘past-due support’ means any delinquency subject to section 464 of the Social Security Act;
+
+&emsp;“(3) the term ‘OASDI overpayment’ means any overpayment of benefits made to an individual under title II of the Social Security Act; and
+
+&emsp;“(4) the term ‘person’ means an individual; or a sole proprietorship, partnership, corporation, nonprofit organization, or any other form of business association.”
+
+Subsec. (i). Pub. L. 104–134, §31001(u)(1), added subsec. (i).
 
 1994—Subsec. (f)(2). Pub. L. 103–296 substituted “Commissioner of Social Security” for “Secretary of Health and Human Services” wherever appearing.
 
@@ -84,5 +114,9 @@ For provisions that nothing in amendments by section 2653 of Pub. L. 98–369, e
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 26 section 6402; title 42 sections 404, 1320a–8, 1395ccc.
+This section is referred to in sections 3322, 3325 of this title; title 7 sections 2020, 2022; title 26 section 6402; title 42 sections 404, 1320a–8, 1395ccc.
+
+<i><sup>1</sup></i><i> So in original. Subsec. (h) contains two pars. designated (1) and (2).</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should not be hyphenated.</i>
 

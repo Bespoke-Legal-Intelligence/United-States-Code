@@ -48,8 +48,8 @@
 | [169f.](%C2%A7%2000169f%20-%20National%20Hispanic%20Heritage%20Month.md) | National Hispanic Heritage Month. |
 | [169g.](%C2%A7%2000169g%20-%20Memorial%20Day%20as%20day%20of%20prayer%20for%20permanent%20peace.md) | Memorial Day as day of prayer for permanent peace. |
 | [169h.](%C2%A7%2000169h%20-%20National%20Day%20of%20Prayer.md) | National Day of Prayer. |
-| [169i.](%C2%A7%2000169i%20-%20Federal%20Lands%20Cleanup%20Day%3B%20designation%2C%20observation%2C%20etc.md) | Federal Lands Cleanup Day; designation, observation, etc. |
-| 169i–1. | Federal participation in Federal Lands Cleanup Day. |
+| [169i.](%C2%A7%2000169i%20-%20Carl%20Garner%20Federal%20Lands%20Cleanup%20Day%3B%20designation%2C%20observation%2C%20etc.md) | Carl Garner Federal Lands Cleanup Day; designation, observation, etc. |
+| 169i–1. | Federal participation in Carl Garner Federal Lands Cleanup Day. |
 | (a) | Federal land management agencies; duties; definition. |
 | (b) | Objectives; cooperation with State, county, and local agencies. |
 | (c) | Report to Congress. |
@@ -206,8 +206,8 @@ Occasions for display of flag, see section 174 of this title.
 - [&sect; 00169f - National Hispanic Heritage Month](%C2%A7%2000169f%20-%20National%20Hispanic%20Heritage%20Month.md)
 - [&sect; 00169g - Memorial Day as day of prayer for permanent peace](%C2%A7%2000169g%20-%20Memorial%20Day%20as%20day%20of%20prayer%20for%20permanent%20peace.md)
 - [&sect; 00169h - National Day of Prayer](%C2%A7%2000169h%20-%20National%20Day%20of%20Prayer.md)
-- [&sect; 00169i - Federal Lands Cleanup Day; designation, observation, etc](%C2%A7%2000169i%20-%20Federal%20Lands%20Cleanup%20Day%3B%20designation%2C%20observation%2C%20etc.md)
-- [&sect; 00169i&#8211;1 - Federal participation in Federal Lands Cleanup Day](%C2%A7%2000169i%E2%80%931%20-%20Federal%20participation%20in%20Federal%20Lands%20Cleanup%20Day.md)
+- [&sect; 00169i - Carl Garner Federal Lands Cleanup Day; designation, observation, etc](%C2%A7%2000169i%20-%20Carl%20Garner%20Federal%20Lands%20Cleanup%20Day%3B%20designation%2C%20observation%2C%20etc.md)
+- [&sect; 00169i&#8211;1 - Federal participation in Carl Garner Federal Lands Cleanup Day](%C2%A7%2000169i%E2%80%931%20-%20Federal%20participation%20in%20Carl%20Garner%20Federal%20Lands%20Cleanup%20Day.md)
 - [&sect; 00169j - Martin Luther King, Jr., Federal legal holiday](%C2%A7%2000169j%20-%20Martin%20Luther%20King%2C%20Jr.%2C%20Federal%20legal%20holiday.md)
 - [&sect; 00169j&#8211;1 - Martin Luther King, Jr. Federal Holiday Commission](%C2%A7%2000169j%E2%80%931%20-%20Martin%20Luther%20King%2C%20Jr.%20Federal%20Holiday%20Commission.md)
 - [&sect; 00169j&#8211;2 - Purposes of Martin Luther King, Jr. Federal Holiday Commission](%C2%A7%2000169j%E2%80%932%20-%20Purposes%20of%20Martin%20Luther%20King%2C%20Jr.%20Federal%20Holiday%20Commission.md)

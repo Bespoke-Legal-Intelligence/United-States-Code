@@ -12,13 +12,13 @@
 
 &emsp;(A) a yacht;
 
-&emsp;(B) a fishing vessel fishing exclusively for highly migratory species (as that term is defined in section 3 of the Magnuson Fishery Conservation and Management Act (16 U.S.C. 1802)); and
+&emsp;(B) a fishing vessel fishing exclusively for highly migratory species (as that term is defined in section 3 of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1802)); and
 
 &emsp;(C) a fishing vessel fishing outside of the exclusive economic zone.
 
 (3) The Secretary may waive a citizenship requirement under this section, other than a requirement that applies to the master of a documented vessel, with respect to—
 
-&emsp;(A) an offshore supply vessel or other similarly engaged vessel of less than 1,600 gross tons that operates from a foreign port;
+&emsp;(A) an offshore supply vessel or other similarly engaged vessel of less than 1,600 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title that operates from a foreign port;
 
 &emsp;(B) a mobile offshore drilling unit or other vessel engaged in support of exploration, exploitation, or production of offshore mineral energy resources operating beyond the water above the outer Continental Shelf (as that term is defined in section 2(a) of the Outer Continental Shelf Lands Act (43 U.S.C. 1331(a)); and
 
@@ -30,7 +30,7 @@
 
 (2) An individual not required by this subsection to be a citizen of the United States may be engaged only if the individual has a declaration of intention to become a citizen of the United States or other evidence of admission to the United States for permanent residence. An alien may be employed only in the steward's department of the passenger vessel.
 
-(e) If a documented vessel is deprived for any reason of the services of an individual (except the master and the radio officer) when on a foreign voyage and a vacancy consequently occurs, until the vessel's return to a port at which in the most expeditious manner a replacement who is a citizen of the United States can be obtained, an individual not a citizen of the United States may serve in—
+(e) If a documented vessel is deprived for any reason of the services of an individual (except the master and the radio officer) when on a foreign voyage and a vacancy consequently occurs, until the vessel's return to a port at which in the most expeditious manner a replacement who is a citizen of the United States can be obtained,an individual not a citizen of the United States may serve in—
 
 &emsp;(1) the vacancy; or
 
@@ -50,15 +50,17 @@
 
 &emsp;(A) a citizen of the United States;
 
-&emsp;(B) an alien lawfully admitted to the United States for permanent residence; or
+&emsp;(B) an alien lawfully admitted to the United States for permanent residence;
 
-&emsp;(C) any other alien allowed to be employed under the Immigration and Nationality Act (8 U.S.C. 1101 et seq.).
+&emsp;(C) any other alien allowed to be employed under the Immigration and Nationality Act (8 U.S.C. 1101 et seq.); or
+
+&emsp;(D) an alien allowed to be employed under the immigration laws of the Commonwealth of the Northern Mariana Islands if the vessel is permanently stationed at a port within the Commonwealth and the vessel is engaged in the fisheries within the exclusive economic zone surrounding the Commonwealth or another United States territory or possession.
 
 (2) Not more than 25 percent of the unlicensed seamen on a vessel subject to paragraph (1) of this subsection may be aliens referred to in clause (C) of that paragraph.
 
-(3) This subsection does not apply to a fishing vessel fishing exclusively for highly migratory species (as that term is defined in section 3 of the Magnuson Fishery Conservation and Management Act (16 U.S.C. 1802)).
+(3) This subsection does not apply to a fishing vessel fishing exclusively for highly migratory species (as that term is defined in section 3 of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1802)).
 
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 548; Pub. L. 100–239, §§5(a)(1), (2), (b)–(d)(1), Jan. 11, 1988, 101 Stat. 1780; Pub. L. 100–255, Mar. 4, 1988, 102 Stat. 23; Pub. L. 101–595, title VI, §603(6), title VII, §711, Nov. 16, 1990, 104 Stat. 2993, 2997.)
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 548; Pub. L. 100–239, §§5(a)(1), (2), (b)–(d)(1), Jan. 11, 1988, 101 Stat. 1780; Pub. L. 100–255, Mar. 4, 1988, 102 Stat. 23; Pub. L. 101–595, title VI, §603(6), title VII, §711, Nov. 16, 1990, 104 Stat. 2993, 2997; Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41; Pub. L. 104–324, title VII, §727, title XI, §1123, Oct. 19, 1996, 110 Stat. 3939, 3980.)
 
 Historical and Revision Notes
 
@@ -94,13 +96,21 @@ Subsection (f) provides for the penalty for violation of this section.
 
 Subsection (g) requires a deck or engineer officer on a vessel that has been granted an operating differential subsidy or is under the control by the Department of Transportation to be, if eligible, a member of the Naval Reserve. This section does not apply to a vessel of the Coast Guard or the Saint Lawrance Seaway Development Corporation.
 
-Subsection (h) permits the President to suspend the requirements of this section during a proclaimed national emergency or the requirement of subsection (a)for United States vessels documented for foreign trade when the needs of commerce require.
+Subsection (h) permits the President to suspend the requirements of this section during a proclaimed national emergency or the requirement of subsection (a) for United States vessels documented for foreign trade when the needs of commerce require.
 
 #### References in Text
 
 The Immigration and Nationality Act, referred to in subsec. (i)(1)(C), is act June 27, 1952, ch. 477, 66 Stat. 163, as amended, and is classified principally to chapter 12 (§1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 8 and Tables.
 
 #### Amendments
+
+1996—Subsec. (b)(2)(B). Pub. L. 104–208 substituted “Magnuson-Stevens Fishery” for “Magnuson Fishery”.
+
+Subsec. (b)(3)(A). Pub. L. 104–324, §727, inserted “as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title” after “1,600 gross tons”.
+
+Subsec. (i)(1)(D). Pub. L. 104–324, §1123, added subpar. (D).
+
+Subsec. (i)(3). Pub. L. 104–208 substituted “Magnuson-Stevens Fishery” for “Magnuson Fishery”.
 
 1990—Subsec. (i)(3)(C). Pub. L. 101–595, §§603(6) and 711, amended subpar. (C) identically, substituting “Nationality” for “Naturalization”.
 
@@ -116,6 +126,10 @@ Subsec. (e). Pub. L. 100–239, §5(c), inserted “and the radio officer” aft
 
 Subsec. (i). Pub. L. 100–239, §5(d)(1), added subsec. (i).
 
+#### Effective Date of 1996 Amendment
+
+Section 101(a) \[title II, §211(b)\] of div. A of Pub. L. 104–208 provided that the amendment made by that section is effective 15 days after Oct. 11, 1996.
+
 #### Effective Date of 1988 Amendment
 
 Section 5(a)(3) of Pub. L. 100–239 provided that: “Paragraph (2) of this subsection \[amending this section\] is effective 30 days after the date of enactment of this Act \[Jan. 11, 1988\].”
@@ -124,11 +138,11 @@ Section 5(d)(2) of Pub. L. 100–239 provided that: “This subsection \[amendin
 
 #### Application of Section to Fishing Vessels in California
 
-Section 317 of Pub. L. 101–595 provided that:
+Section 317 of Pub. L. 101–595, as amended by Pub. L. 104–324, title III, §301(d)(2)(B), Oct. 19, 1996, 110 Stat. 3916, provided that:
 
 “(a)
 
-Definition.—For purposes of the application of sections 8103(a), 12102, 12110, and 12111 of title 46, United States Code, to a fishing vessel operating in waters subject to the jurisdiction of the United States off the coast of the State of California, the term ‘citizen of the United States’ includes an alien lawfully admitted to the United States for permanent residence.
+Definition.—For purposes of the application of sections 8103(a), 12102, 12110, 12111, and 12122(b) of title 46, United States Code, to a fishing vessel operating in waters subject to the jurisdiction of the United States off the coast of the State of California, the term ‘citizen of the United States’ includes an alien lawfully admitted to the United States for permanent residence.
 
 “(b)
 

@@ -10,7 +10,7 @@
 
 (1) The plan shall establish criteria for coordinating activities under this chapter (including subchapter III of this chapter) with programs and services provided by State and local education and training agencies (including vocational education agencies), public assistance agencies, the employment service, rehabilitation agencies, programs for the homeless, postsecondary institutions, economic development agencies, and such other agencies as the Governor determines to have a direct interest in employment and training and human resource utilization within the State. Such criteria shall not affect local discretion concerning the selection of eligible participants or service providers in accordance with the provisions of sections <sup>1</sup> 1517 <sup>2</sup> 1603, or 1643 of this title.
 
-(2) The plan shall describe the measures taken by the State to ensure coordination and avoid duplication between the State agencies administering the JOBS program and programs under subchapter II of this chapter in the planning and delivery of services. The plan shall describe the procedures developed by the State to ensure that the State JOBS plan is consistent with the coordination criteria specified in this plan and identify the procedures developed to provide for the review of the JOBS plan by the State Job Training Coordinating Council.
+(2) The plan shall describe the measures taken by the State to ensure coordination and avoid duplication between the State agencies administering the work activities required under title IV of the Social Security Act \[42 U.S.C. 601 et seq.\] and programs under subchapter II of this chapter in the planning and delivery of services.
 
 (3) The plan shall describe the projected use of resources, including oversight of program performance, program administration, and program financial management, capacity building, priorities and criteria for State incentive grants, and performance goals for State-supported programs. The description of capacity building shall include the Governor's plans for technical assistance to service delivery areas and service providers, interstate technical assistance and training arrangements, other coordinated technical assistance arrangements undertaken pursuant to the direction of the Secretary, and, where applicable, research and demonstration projects.
 
@@ -46,7 +46,7 @@ Governor's coordination and special services activities may include—
 
 &emsp;(4) providing financial assistance for special programs and services designed to meet the needs of rural areas outside major labor market areas;
 
-&emsp;(5) providing training opportunities in the conservation and efficient use of energy, and the development of solar energy sources as defined in section 3 of the Solar Energy Research, Development and Demonstration Act of 1974 \[42 U.S.C. 5552\];
+&emsp;(5) providing training opportunities in the conservation and efficient use of energy, andthe development of solar energy sources as defined in section 3 of the Solar Energy Research, Development and Demonstration Act of 1974 \[42 U.S.C. 5552\];
 
 &emsp;(6) industry-wide training;
 
@@ -66,15 +66,19 @@ Governor's coordination and special services activities may include—
 
 A Governor's coordination and special services plan shall be approved by the Secretary unless the Secretary determines that the plan does not comply with specific provisions of this chapter.
 
-(Pub. L. 97–300, title I, §121, Oct. 13, 1982, 96 Stat. 1337; Pub. L. 99–496, §15(d), Oct. 16, 1986, 100 Stat. 1266; Pub. L. 99–570, title XI, §11004(a), Oct. 27, 1986, 100 Stat. 3207–168; Pub. L. 100–628, title VII, §714(c), Nov. 7, 1988, 102 Stat. 3256; Pub. L. 102–54, §13(k)(2)(B), June 13, 1991, 105 Stat. 277; Pub. L. 102–235, §5, Dec. 12, 1991, 105 Stat. 1807; Pub. L. 102–367, title I, §121, title VII, §702(a)(4), Sept. 7, 1992, 106 Stat. 1037, 1112.)
+(Pub. L. 97–300, title I, §121, Oct. 13, 1982, 96 Stat. 1337; Pub. L. 99–496, §15(d), Oct. 16, 1986, 100 Stat. 1266; Pub. L. 99–570, title XI, §11004(a), Oct. 27, 1986, 100 Stat. 3207–168; Pub. L. 100–628, title VII, §714(c), Nov. 7, 1988, 102 Stat. 3256; Pub. L. 102–54, §13(k)(2)(B), June 13, 1991, 105 Stat. 277; Pub. L. 102–235, §5, Dec. 12, 1991, 105 Stat. 1807; Pub. L. 102–367, title I, §121, title VII, §702(a)(4), Sept. 7, 1992, 106 Stat. 1037, 1112; Pub. L. 104–193, title I, §110(n)(3), Aug. 22, 1996, 110 Stat. 2174.)
 
 #### References in Text
+
+The Social Security Act, referred to in subsec. (b)(2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title IV of the Act is classified generally to subchapter IV (§601 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 The Carl D. Perkins Vocational and Applied Technology Education Act, referred to in subsec. (b)(4)(A), (D), is Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended, which is classified generally to chapter 44 (§2301 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 2301 of Title 20 and Tables.
 
 The National and Community Service Act of 1990, referred to in subsec. (c)(12), is Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, which is classified principally to chapter 129 (§12501 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of Title 42 and Tables.
 
 #### Amendments
+
+1996—Subsec. (b)(2). Pub. L. 104–193 substituted “the work activities required under title IV of the Social Security Act” for “the JOBS program” and struck out at end “The plan shall describe the procedures developed by the State to ensure that the State JOBS plan is consistent with the coordination criteria specified in this plan and identify the procedures developed to provide for the review of the JOBS plan by the State Job Training Coordinating Council.”
 
 1992—Subsec. (b)(1). Pub. L. 102–367, §702(a)(4), substituted “1603, or 1643” for “and 1603”.
 
@@ -99,6 +103,10 @@ Pub. L. 102–54 substituted “programs of the Department of Veterans Affairs�
 Subsec. (c)(3). Pub. L. 99–570, §11004(a)(2), inserted “, homeless individuals”.
 
 Subsec. (c)(10). Pub. L. 99–496 inserted “, including Veterans’ Administration programs”.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–193 effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as an Effective Date note under section 601 of Title 42, The Public Health and Welfare.
 
 #### Effective Date of 1992 Amendment
 

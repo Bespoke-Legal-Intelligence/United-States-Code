@@ -14,7 +14,7 @@ A State that receives a grant under section 1491c of this title may use the fund
 
 &emsp;&emsp;(C) Develop or strengthen family-centered and family-directed approaches to services, including service coordination services, service planning services, and respite care services.
 
-&emsp;&emsp;(D) Assist families of children with disabilities in accessing natural <sup>1</sup> and community supports and in obtaining benefits and services.
+&emsp;&emsp;(D) Assist families of children with disabilities in accessing natural <sup>1</sup> and communitysupports and in obtaining benefits and services.
 
 #### (2) Interagency coordination
 

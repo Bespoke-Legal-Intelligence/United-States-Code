@@ -46,7 +46,7 @@ Basic responsibility.—The Secretary shall carry out (in accordance with the pr
 
 &emsp;(2)
 
-Other responsible parties.—Paragraph (1) shall not apply to a removal or remedialaction if the Administrator has provided for response action by a potentially responsible person in accordance with section 122 of CERCLA (relating to settlements).
+Other responsible parties.—Paragraph (1) shall not apply to a removal or remedial action if the Administrator has provided for response action by a potentially responsible person in accordance with section 122 of CERCLA (relating to settlements).
 
 &emsp;(3)
 
@@ -58,9 +58,13 @@ Services of Other Agencies.—
 
 &emsp;(1)
 
-In general.—The Secretary may enter into agreements on a reimbursable basis with any other Federal agency, and on a reimbursable or other basis with any State or local government agency or any Indian tribe, to obtain the services of that agency to assist the Secretary in carrying out any of the Secretary's responsibilities under this section. Services which may be obtained under this subsection include the identification, investigation, and cleanup of any off-site contamination possibly resulting from the release of a hazardous substance or waste at a facility under the Secretary's jurisdiction.
+In general.—Subject to paragraph (2), the Secretary may enter into agreements on a reimbursable or other basis with any other Federal agency, with any State or local government agency, or with any Indian tribe, to obtain the services of the agency to assist the Secretary in carrying out any of the Secretary's responsibilities under this section. Services which may be obtained under this subsection include the identification, investigation, and cleanup of any off-site contamination resulting from the release of a hazardous substance or waste at a facility under the Secretary's jurisdiction.
 
 &emsp;(2)
+
+Limitation on reimbursable agreements.—An agreement with an agency under paragraph (1) may not provide for reimbursement of the agency for regulatory enforcement activities.
+
+&emsp;(3)
 
 Definition.—In this subsection, the term “Indian tribe” has the meaning given such term in section 101(36) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9601(36)).
 
@@ -78,7 +82,7 @@ Removal of Unsafe Buildings and Debris Before Release From Federal Control.—In
 
 (h)
 
-Surety-Contractor Relationship.—Any surety which provides a bid, performance, or payment bond in connection with any direct Federal procurement for a response action contract under the Defense Environmental Restoration Program and begins activities to meet its obligations under such bond, shall, in connection with such activities or obligations, be entitled to any indemnification and the same standard of liability to which its principal was entitled under the contract or under any applicable law or regulation.
+Surety-Contractor Relationship.—Any surety which provides a bid, performance, or payment bond in connection with any direct Federal procurement for a response action contract under the Defense Environmental Restoration Program and begins activities to meet itsobligations under such bond, shall, in connection with such activities or obligations, be entitled to any indemnification and the same standard of liability to which its principal was entitled under the contract or under any applicable law or regulation.
 
 (i)
 
@@ -86,7 +90,7 @@ Surety Bonds.—
 
 &emsp;(1)
 
-Applicability of miller act.—If under the Act of August 24, 1935 (40 U.S.C. 270a–270d), commonly referred to as the “Miller Act”, surety bonds are required for any direct Federal procurement of any response action contract under the Defense Environmental Restoration Program and are not waived pursuant to the Act of April 29, 1941 (40 U.S.C. 270e–270f), the surety bonds shall be issued in accordance with such Act of August 24, 1935.
+Applicability of miller act.—If under the Miller Act (40 U.S.C. 270a et seq.) surety bonds are required for any direct Federal procurement of any response action contract under the Defense Environmental Restoration Program and are not waived pursuant to the Act of April 29, 1941 (40 U.S.C. 270e–270f), the surety bonds shall be issued in accordance with the Miller Act.
 
 &emsp;(2)
 
@@ -106,13 +110,13 @@ Applicability.—(1) Subsections (h) and (i) shall not apply to bonds executed b
 
 (2) Subsections (h) and (i) shall not apply to bonds to which section 119(g) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9619(g)) applies.
 
-(Added Pub. L. 99–499, title II, §211(a)(1)(B), Oct. 17, 1986, 100 Stat. 1719; amended Pub. L. 101–510, div. A, title XIV, §1481(i)(1), Nov. 5, 1990, 104 Stat. 1708; Pub. L. 102–190, div. A, title III, §336(a), Dec. 5, 1991, 105 Stat. 1342; Pub. L. 102–484, div. A, title III, §331(b), title X, §1052(35), Oct. 23, 1992, 106 Stat. 2373, 2501; Pub. L. 103–35, title II, §201(d)(6), May 31, 1993, 107 Stat. 99; Pub.L. 103–337, div. A, title III, §§322, 323, Oct. 5, 1994, 108 Stat. 2711.)
+(Added Pub. L. 99–499, title II, §211(a)(1)(B), Oct. 17, 1986, 100 Stat. 1719; amended Pub. L. 101–510, div. A, title XIV, §1481(i)(1), Nov. 5, 1990, 104 Stat. 1708; Pub. L. 102–190, div. A, title III, §336(a), Dec. 5, 1991, 105 Stat. 1342; Pub. L. 102–484, div. A, title III, §331(b), title X, §1052(35), Oct. 23, 1992, 106 Stat. 2373, 2501; Pub. L. 103–35, title II, §201(d)(6), May 31, 1993, 107 Stat. 99; Pub. L. 103–337, div. A, title III, §§322, 323, Oct. 5, 1994, 108 Stat. 2711; Pub. L. 104–106, div. A, title III, §321(a)(1), title XV, §1504(a)(1), div. D, title XLIII, §4321(b)(22), Feb. 10, 1996, 110 Stat. 251, 513, 673; Pub. L. 104–201, div. A, title III, §329, Sept. 23, 1996, 110 Stat. 2483.)
 
 #### References in Text
 
 The Comprehensive Environmental Response, Compensation, and Liability Act of 1980, referred to in subsecs. (a)(2), (c)(1), (2), and (e), is Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, as amended, which is classified principally to chapter 103 (§9601 et seq.) of Title 42, The Public Health and Welfare. Sections 119, 120, and 122 of that Act are classified to sections 9619, 9620, and 9622, respectively, of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 9601 of Title 42 and Tables.
 
-Act of August 24, 1935, referred to in subsec. (i)(1), is act Aug. 24, 1935, ch. 642, 49 Stat. 793, as amended, known as the Miller Act, which is classified generally to sections 270a to 270d–1 of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 270a of Title 40 and Tables.
+The Miller Act, referred to in subsec. (i)(1), is act Aug. 24, 1935, ch. 642, 49 Stat. 793, as amended, which is classified generally to sections 270a to 270d–1 of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 270a of Title 40 and Tables.
 
 Act of April 29, 1941, referred to in subsec. (i)(1), is act Apr. 29, 1941, ch. 81, 55 Stat. 147, as amended, which is classified generally to sections 270e and 270f of Title 40. For complete classification of this Act to the Code, see Tables.
 
@@ -124,7 +128,29 @@ A prior section 2701 was renumbered section 2721 of this title.
 
 #### Amendments
 
-1994—Subsec. (d). Pub. L. 103–337, §322, designated existing provisions as par. (1), inserted par. (1) heading, inserted “or any Indian tribe” after “any State or local government agency”, and added par. (2).
+1996—Subsec. (d). Pub. L. 104–201 substituted “, with any State or local government agency, or with any Indian tribe,” for “, or with any State or local government agency,” in par. (1) and added par. (3).
+
+Pub. L. 104–106, §1504(a)(1), made technical correction to directory language of Pub. L. 103–337, §322(1). See 1994 Amendment note below.
+
+Pub. L. 104–106, §321(a)(1), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “
+
+Services of Other Agencies.—
+
+&emsp;“(1)
+
+In general.—The Secretary may enter into agreements on a reimbursable basis with any other Federal agency, and on a reimbursable or other basis with any State or local government agency or any Indian tribe, to obtain the services of that agency to assist the Secretary in carrying out any of the Secretary's responsibilities under this section. Services which may be obtained under this subsection include the identification, investigation, and cleanup of any off-site contamination possibly resulting from the release of a hazardous substance or waste at a facility under the Secretary's jurisdiction.
+
+&emsp;“(2)
+
+Definition.—In this subsection, the term ‘Indian tribe’ has the meaning given such term in section 101(36) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9601(36)).”
+
+Subsec. (i)(1). Pub. L. 104–106, §4321(b)(22), substituted “Miller Act (40 U.S.C. 270a et seq.)” for “Act of August 24, 1935 (40 U.S.C. 270a–270d), commonly referred to as the ‘Miller Act’,” and “the Miller Act” for “such Act of August 24, 1935”.
+
+1994—Subsec. (d). Pub. L. 103–337, §322(1), as amended by Pub. L. 104–106, §1504(a)(1), designated existing provisions as par. (1) and inserted par. (1) heading.
+
+Subsec. (d)(1). Pub. L. 103–337, §322(2), inserted “or any Indian tribe” after “any State or local government agency”.
+
+Subsec. (d)(2). Pub. L. 103–337, §322(3), added par. (2).
 
 Subsec. (j)(1). Pub. L. 103–337, §323, substituted “December 31, 1999” for “December 31, 1995”.
 
@@ -137,6 +163,66 @@ Pub. L. 102–484, §331(b), substituted “December 31, 1995” for “December
 1991—Subsecs. (h) to (j). Pub. L. 102–190 added subsecs. (h) to (j).
 
 1990—Subsecs. (f), (g). Pub. L. 101–510 added subsecs. (f) and (g).
+
+#### Effective Date of 1996 Amendment
+
+Section 1504(a) of Pub. L. 104–106 provided that the amendment made by that section is effective as of Oct. 5, 1994, and as if included in Pub. L. 103–337 as enacted.
+
+For effective date and applicability of amendment by section 4321(b)(22) of Pub. L. 104–106, see section 4401 of Pub. L. 104–106, set out as a note under section 251 of Title 41, Public Contracts.
+
+#### Authority To Develop and Implement Land Use Plans for Defense Environmental Restoration Program
+
+Section 325 of Pub. L. 104–201 provided that:
+
+“(a)
+
+Authority.—The Secretary of Defense may, to the extent possible and practical, develop and implement, as part of the Defense Environmental Restoration Program provided for in chapter 160 of title 10, United States Code, a land use plan for any defense site selected by the Secretary under subsection (b).
+
+“(b)
+
+Selection of Sites.—The Secretary may select up to 10 defense sites, from among sites where the Secretary is planning or implementing environmental restoration activities, for which land use plans may be developed under this section.
+
+“(c)
+
+Requirement To Consult With Review Committee or Advisory Board.—In developing a land use plan under this section, the Secretary shall consult with a technical review committee established pursuant to section 2705(c) of title 10, United States Code, a restoration advisory board established pursuant to section 2705(d) of such title, a local land use redevelopment authority, or another appropriate State agency.
+
+“(d) 50-
+
+Year Planning Period.—A land use plan developed under this section shall cover a period of at least 50 years.
+
+“(e)
+
+Implementation.—For each defense site for which the Secretary develops a land use plan under this section, the Secretary shall take into account the land use plan in selecting and implementing, in accordance with applicable law, environmental restoration activities at the site.
+
+“(f)
+
+Deadlines.—For each defense site for which the Secretary intends to develop a land use plan under this section, the Secretary shall develop a draft land use plan by October 1, 1997, and a final land use plan by March 15, 1998.
+
+“(g)
+
+Definition of Defense Site.—For purposes of this section, the term ‘defense site’ means (A) any building, structure, installation, equipment, pipe or pipeline (including any pipe into a sewer or publicly owned treatment works), well, pit, pond, lagoon, impoundment, ditch, landfill, storage container, motor vehicle, rolling stock, or aircraft under the jurisdiction of the Department of Defense, or (B) any site or area under the jurisdiction of the Department of Defense where a hazardous substance has been deposited, stored, disposed of, or placed, or otherwise come to be located; but does not include any consumer product in consumer use or any vessel.
+
+“(h)
+
+Report.—In the annual report required under section 2706(a) of title 10, United States Code, the Secretary shall include information on the land use plans developed under this section and the effect such plans have had on environmental restoration activities at the defense sites where they have been implemented. The annual report submitted in 1999 shall include recommendations on whether such land use plans should be developed and implemented throughout the Department of Defense.
+
+“(i)
+
+Savings Provisions.—(1) Nothing in this section, or in a land use plan developed under this section with respect to a defense site, shall be construed as requiring any modification to a land use plan that was developed before the date of the enactment of this Act \[Sept. 23, 1996\].
+
+“(2) Nothing in this section may be construed to affect statutory requirements for an environmental restoration or waste management activity or project or to modify or otherwise affect applicable statutory or regulatory environmental restoration and waste management requirements, including substantive standards intended to protect public health and the environment, nor shall anything in this section be construed to preempt or impair any local land use planning or zoning authority or State authority.”
+
+#### Fiscal Year 1996 Restrictions on Reimbursements Under Agreements for Services of Other Agencies
+
+Section 321(a)(2) of Pub. L. 104–106 provided that:
+
+“(A) Except as provided in subparagraph (B), the total amount of funds available for reimbursements under agreements entered into under section 2710(d) \[2701(d)\] of title 10, United States Code, as amended by paragraph (1), in fiscal year 1996 may not exceed $10,000,000.
+
+“(B) The Secretary of Defense may pay in fiscal year 1996 an amount for reimbursements under agreements referred to in subparagraph (A) in excess of the amount specified in that subparagraph for that fiscal year if—
+
+&emsp;“(i) the Secretary certifies to Congress that the payment of the amount under this subparagraph is essential for the management of the Defense Environmental Restoration Program under chapter 160 of title 10, United States Code; and
+
+&emsp;“(ii) a period of 60 days has expired after the date on which the certification is received by Congress.”
 
 #### Environmental Education and Training Program for Defense Personnel
 
@@ -406,7 +492,7 @@ Report to Congress.—Not later than January 1, 1995, the Secretary of Defense, 
 
 “(j)
 
-Funding.—(1) To carry out the scholarship program authorized by subsection (a), the Secretary of Defense may use the unobligated balance of funds made available pursuant to section 4451(k) of the National Defense Authorization Act for Fiscal Year 1993 (PublicLaw 102–484; 10 U.S.C. 2701 note) for fiscal year 1993 for environmental scholarship and fellowship programs for the Department of Defense.
+Funding.—(1) To carry out the scholarship program authorized by subsection (a), the Secretary of Defense may use the unobligated balance of funds made available pursuant to section 4451(k) of the National Defense Authorization Act for Fiscal Year 1993 (Public Law 102–484; 10 U.S.C. 2701 note) for fiscal year 1993 for environmental scholarship and fellowship programs for the Department of Defense.
 
 “(2) The cost of carrying out the program authorized by subsection (a) may not exceed $8,000,000 in any fiscal year.
 
@@ -492,7 +578,7 @@ Selection of Installations and Facilities.—(1) For participation in the pilot 
 
 &emsp;“(A) a variety of the environmental restoration activities required for facilities under the Defense Environmental Restoration Program and for military installations scheduled for closure under the Defense Authorization Amendments and Base Closure and Realignment Act (10 U.S.C. 2687 note) \[see Short Title of 1988 Amendment note under 10 U.S.C. 2687\] and the Defense Base Closure and Realignment Act of 1990 (10 U.S.C. 2687 note); and
 
-&emsp;“(B) the different sizes of such environmental restoration activities to provide, to the maximum extent practicable, opportunities for the full range ofbusiness sizes to enter into environmental restoration contracts with the Department of Defense and with prime contractors to perform activities under the pilot program.
+&emsp;“(B) the different sizes of such environmental restoration activities to provide, to the maximum extent practicable, opportunities for the full range of business sizes to enter into environmental restoration contracts with the Department of Defense and with prime contractors to perform activities under the pilot program.
 
 “(c)
 
@@ -628,7 +714,7 @@ Funding for Fiscal Year 1993.—Of the amount authorized to be appropriated in s
 
 #### Grants to Institutions of Higher Education To Provide Training in Environmental Restoration and Hazardous Waste Management
 
-Section 4452 of Pub. L. 102–484, authorized the Secretary of Defense to establish a program to assist institutions of higher education, as defined in section 1141(a) of Title 20, Education, to provide education and training in environmental restoration and hazardous waste management and to award grants to such institutions, prior to repeal by Pub. L. 103–160, div. A, title XIII, §1333(j), Nov. 30, 1993, 107 Stat. 1800. See section 1333 of Pub. L. 103–160, set out above.
+Section 4452 of Pub. L. 102–484 authorized the Secretary of Defense to establish a program to assist institutions of higher education, as defined in section 1141(a) of Title 20, Education, to provide education and training in environmental restoration and hazardous waste management and to award grants to such institutions, prior to repeal by Pub. L. 103–160, div. A, title XIII, §1333(j), Nov. 30, 1993, 107 Stat. 1800. See section 1333 of Pub. L. 103–160, set out above.
 
 #### Policies and Report on Overseas Environmental Compliance
 
@@ -640,7 +726,7 @@ Section 342(b) of Pub. L. 101–510 provided that:
 
 “(3) The Secretary of Defense shall develop a policy and strategy to ensure adequate oversight of compliance with applicable environmental requirements and responsibilities of the Department of Defense determined under the policies developed under paragraphs (1) and (2). In developing the policy, the Secretary shall consider using the Inspector General of the Department of Defense to ensure active and forceful oversight.
 
-“(4) At the same time the President submits to Congress his budget for fiscal year 1993 pursuant to section 1105 of title 31, United States Code, the Secretary of Defense shall submit to Congress a report describing the policies developed under paragraphs (1), (2), and (3). The report also shall include a discussion of the role of the Inspector General of the Department of Defense in overseeing environmental compliance at military installations outside the United States.
+“(4) At the same time the President submits to Congress his budget for fiscal year 1993 pursuant to section1105 of title 31, United States Code, the Secretary of Defense shall submit to Congress a report describing the policies developed under paragraphs (1), (2), and (3). The report also shall include a discussion of the role of the Inspector General of the Department of Defense in overseeing environmental compliance at military installations outside the United States.
 
 “(5) For purposes of this subsection, the term ‘military installation’ means a base, camp, post, station, yard, center, or other activity under the jurisdiction of the Secretary of a military department which is located outside the United States and outside any territory, commonwealth, or possession of the United States.”
 
@@ -672,7 +758,7 @@ Evaluation of Use of Class I Substances.—The Director of the Defense Logistics
 
 &emsp;“(5) review the plans, if any, to reclaim, recycle, reuse, and maintain the stockpile referred to in paragraph (4); and
 
-&emsp;“(6) identify each specific site, facility, or vessel in connection with which the Secretary of Defense willseek an exemption pursuant to section 604(f) of the Clean Air Act (42 U.S.C. 7671c(f)) to permit the continued production or use of class I substances, and the type and quantity of each class I substance that will be produced or used in connection with the site, facility, or vessel.
+&emsp;“(6) identify each specific site, facility, or vessel in connection with which the Secretary of Defense will seek an exemption pursuant to section 604(f) of the Clean Air Act (42 U.S.C. 7671c(f)) to permit the continued production or use of class I substances, and the type and quantity of each class I substance that will be produced or used in connection with the site, facility, or vessel.
 
 “(b)
 
@@ -732,7 +818,7 @@ Pub. L. 101–189, div. A, title III, §352, Nov. 29, 1989, 103 Stat. 1423, prov
 
 “(a)
 
-Environmental Data Base.—The Secretary of Defense shall develop and maintain a comprehensive data base on environmental activities carried out by the Department of Defense pursuant to, and environmental compliance obligations to which the Department is subject under, chapter 160 of title 10, United States Code, and all other applicable Federal and State environmental laws. At a minimum, the information in the data base shall include all the fines and penalties assessed against the Department of Defense pursuant to environmental laws and paid by the Department, all notices of violations of environmental laws received by the Department, and all obligations of the Department for compliance with environmental laws. The Secretary may include any other information he considers appropriate.
+Environmental Data Base.—The Secretary of Defense shall develop and maintain a comprehensive data base on environmental activities carried out by the Department of Defense pursuant to, and environmental compliance obligations to which the Department is subject under, chapter 160 of title 10, United States Code, and all other applicable Federal and Stateenvironmental laws. At a minimum, the information in the data base shall include all the fines and penalties assessed against the Department of Defense pursuant to environmental laws and paid by the Department, all notices of violations of environmental laws received by the Department, and all obligations of the Department for compliance with environmental laws. The Secretary may include any other information he considers appropriate.
 
 “(b)
 
@@ -756,7 +842,7 @@ Notice of Excluded Activities.—Not later than 90 days after the date of the en
 
 “(d)
 
-Use of Funds.—Funds available for the waste minimization programs established pursuant to this section shall be used to carry out waste minimizationprojects at depot maintenance installations. The types of expenses for which such funds may be used include the following (if such expense is related to a waste minimization project):
+Use of Funds.—Funds available for the waste minimization programs established pursuant to this section shall be used to carry out waste minimization projects at depot maintenance installations. The types of expenses for which such funds may be used include the following (if such expense is related to a waste minimization project):
 
 &emsp;“(1) Operating expenses (including salaries).
 

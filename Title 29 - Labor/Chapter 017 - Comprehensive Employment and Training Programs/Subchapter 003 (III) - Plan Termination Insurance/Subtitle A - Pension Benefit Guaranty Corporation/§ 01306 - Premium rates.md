@@ -56,7 +56,7 @@
 
 (D)(i) Not later than 120 days before the date on which an increase under subparagraph (C)(ii) is to become effective, the corporation shall publish in the Federal Register a notice of the determination described in subparagraph (C)(ii), the basis for the determination, the amount of the increase in the premium, and the anticipated increase in premium income that would result from the increase in the premium rate. The notice shall invite public comment, and shall provide for a public hearing if one is requested. Any such hearing shall be commenced not later than 60 days before the date on which the increase is to become effective.
 
-(ii) The board of directors shall review the hearing record established under clause (i) and shall, not later than 30 days before the date on which the increase is to become effective, determine (after consideration of the comments received) whether the amount of the increase should be changed and shall publish its determination in the Federal Register.
+(ii) The board of directors shall review the hearing record established under clause (i) andshall, not later than 30 days before the date on which the increase is to become effective, determine (after consideration of the comments received) whether the amount of the increase should be changed and shall publish its determination in the Federal Register.
 
 (E)(i) The additional premium determined under this subparagraph with respect to any plan for any plan year shall be an amount equal to the amount determined under clause (ii) divided by the number of participants in such plan as of the close of the preceding plan year.
 
@@ -66,7 +66,7 @@
 
 &emsp;(I) Except as provided in subclause (II) or (III), the term “unfunded vested benefits” means the amount which would be the unfunded current liability (within the meaning of section 1082(d)(8)(A) of this title) if only vested benefits were taken into account.
 
-&emsp;(II) The interest rate used in valuing vested benefits for purposes of subclause (I) shall be equal to the applicable percentage of the annual yield on 30-year Treasury securities for the month preceding the month in which the plan year begins. For purposes of this subclause, the applicable percentage is 80 percent for plan years beginning before July 1, 1997, 85 percent for plan years beginning after June 30, 1997, and before the 1st plan year to which thefirst tables prescribed under section 1082(d)(7)(C)(ii)(II) of this title apply, and 100 percent for such 1st plan year and subsequent plan years.
+&emsp;(II) The interest rate used in valuing vested benefits for purposes of subclause (I) shall be equal to the applicable percentage of the annual yield on 30-year Treasury securities for the month preceding the month in which the plan year begins. For purposes of this subclause, the applicable percentage is 80 percent for plan years beginning before July 1, 1997, 85 percent for plan years beginning after June 30, 1997, and before the 1st plan year to which the first tables prescribed under section 1082(d)(7)(C)(ii)(II) of this title apply, and 100 percent for such 1st plan year and subsequent plan years.
 
 &emsp;(III) In the case of any plan year for which the applicable percentage under subclause (II) is 100 percent, the value of the plan's assets used in determining unfunded current liability under subclause (I) shall be their fair market value.
 
@@ -108,7 +108,7 @@
 
 #### (b) Revised schedule; Congressional procedures applicable
 
-(1) In order to place a revised schedule (other than a schedule described in subsection (a)(2)(C), (D), or (E) of this section) in effect, the corporation shall transmit the proposed schedule, its proposed effective date, and the reasons for its proposal to the Committee on Ways and Means and the Committee on Education and Labor of the House of Representatives, and to the Committee on Finance and the Committee on Labor and Human Resources of the Senate.
+(1) In order to place a revised schedule (other than a schedule described in subsection (a)(2)(C), (D), or (E) of this section) in effect, the corporation shall transmit the proposed schedule, its proposed effective date, and the reasons for its proposal to the Committee on Ways and Means and the Committee on Education and Labor ofthe House of Representatives, and to the Committee on Finance and the Committee on Labor and Human Resources of the Senate.
 
 (2) The succeeding paragraphs of this subsection are enacted by Congress as an exercise of the rulemaking power of the Senate and the House of Representatives, respectively, and as such they shall be deemed a part of the rules of each House, respectively, but applicable only with respect to the procedure to be followed in that House in the case of resolutions described in paragraph (3). They shall supersede other rules only to the extent that they are inconsistent therewith. They are enacted with full recognition of the constitutional right of either House to change the rules (so far as relating to the procedure of that House) at any time, in the same manner and to the same extent as in the case of any rule of that House.
 
@@ -148,7 +148,7 @@
 
 &emsp;&emsp;(ii) the denominator of which is 12.
 
-(Pub. L. 93–406, title IV, §4006, Sept. 2, 1974, 88 Stat. 1010; Pub. L. 96–364, title I, §105, Sept. 26, 1980, 94 Stat. 1264; Pub. L. 99–272, title XI, §11005(a)–(c)(3), Apr. 7, 1986, 100 Stat. 240–242; Pub. L. 100–203, title IX, §9331(a), (b), (e), Dec. 22, 1987, 101 Stat. 1330–367, 1330–368; Pub. L. 101–239, title VII, §7881(h), Dec. 19, 1989, 103 Stat. 2442; Pub. L. 101–508, title XII, §12021(a), (b), Nov. 5, 1990, 104 Stat. 1388–573; Pub. L. 103–465, title VII, §774(a)(1), (b)(1), (2), Dec. 8, 1994, 108 Stat. 5045, 5046.)
+(Pub. L. 93–406, title IV, §4006, Sept. 2, 1974, 88 Stat. 1010; Pub. L. 96–364, title I, §105, Sept. 26, 1980, 94 Stat. 1264; Pub. L. 99–272, title XI, §11005(a)–(c)(3), Apr. 7, 1986, 100 Stat. 240–242; Pub. L. 100–203, title IX, §9331(a), (b), (e), Dec. 22,1987, 101 Stat. 1330–367, 1330–368; Pub. L. 101–239, title VII, §7881(h), Dec. 19, 1989, 103 Stat. 2442; Pub. L. 101–508, title XII, §12021(a), (b), Nov. 5, 1990, 104 Stat. 1388–573; Pub. L. 103–465, title VII, §774(a)(1), (b)(1), (2), Dec. 8, 1994, 108 Stat. 5045, 5046.)
 
 #### References in Text
 
@@ -162,7 +162,7 @@ Subsec. (a)(3)(E)(iv), (v). Pub. L. 103–465, §774(a)(1), redesignated cl. (v)
 
 “(iv)(I) Except as provided in this clause, the aggregate increase in the premium payable with respect to any participant by reason of this subparagraph shall not exceed $53.
 
-“(II) If an employer made contributions to a plan during 1 or more of the 5 plan years preceding the 1st planyear to which this subparagraph applies in an amount not less than the maximum amount allowable as a deduction with respect to such contributions under section 404 of title 26, the dollar amount in effect under subclause (I) for the 1st 5 plan years to which this subparagraph applies shall be reduced by $3 for each plan year for which such contributions were made in such amount.”
+“(II) If an employer made contributions to a plan during 1 or more of the 5 plan years preceding the 1st plan year to which this subparagraph applies in an amount not less than the maximum amount allowable as a deduction with respect to such contributions under section 404 of title 26, the dollar amount in effect under subclause (I) for the 1st 5 plan years to which this subparagraph applies shall be reduced by $3 for each plan year for which such contributions were made in such amount.”
 
 1990—Subsec. (a)(3)(A)(i). Pub. L. 101–508, §12021(a)(1), substituted “for plan years beginning after December 31, 1990, an amount equal to the sum of $19” for “for plan years beginning after December 31, 1987, an amount equal to the sum of $16”.
 
@@ -204,7 +204,7 @@ Subsec. (c). Pub. L. 96–364, §105(c), added subsec. (c).
 
 #### Change of Name
 
-Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Economic and Educational Opportunities of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Fifth Congress, Jan. 7, 1997.
 
 #### Effective Date of 1994 Amendment
 
@@ -268,7 +268,7 @@ Amendment by Pub. L. 96–364 effective Sept. 26, 1980, except as specifically p
 
 #### Transitional Rule
 
-Section 774(c) of Pub. L. 103–465 provided that: “In the case of a regulated public utility described in section 7701(a)(33)(A)(i) of the Internal Revenue Code of 1986 \[26 U.S.C. 7701(a)(33)(A)(i)\], the amendments made by thissection \[amending this section\] shall not apply to plan years beginning before the earlier of—
+Section 774(c) of Pub. L. 103–465 provided that: “In the case of a regulated public utility described in section 7701(a)(33)(A)(i) of the Internal Revenue Code of 1986 \[26 U.S.C. 7701(a)(33)(A)(i)\], the amendments made by this section \[amending this section\] shall not apply to plan years beginning before the earlier of—
 
 &emsp;“(1) January 1, 1998, or
 

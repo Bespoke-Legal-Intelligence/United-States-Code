@@ -1,0 +1,86 @@
+### §698u–5. Advisory Committee
+
+#### (a) Establishment
+
+There is established an advisory committee to be known as the “Tallgrass Prairie National Preserve Advisory Committee”.
+
+#### (b) Duties
+
+The Advisory Committee shall advise the Secretary and the Director of the National Park Service concerning the development, management, and interpretation of the Preserve. In carrying out those duties, the Advisory Committee shall provide timely advice to the Secretary and the Director during the preparation of the general management plan under section 698u–3(g) of this title.
+
+#### (c) Membership
+
+The Advisory Committee shall consist of 13 members, who shall be appointed by the Secretary as follows:
+
+&emsp;(1) Three members shall be representatives of the Trust.
+
+&emsp;(2) Three members shall be representatives of local landowners, cattle ranchers, or other agricultural interests.
+
+&emsp;(3) Three members shall be representatives of conservation or historic preservation interests.
+
+&emsp;(4)(A) One member shall be selected from a list of persons recommended by the Chase County Commission in the State of Kansas.
+
+&emsp;(B) One member shall be selected from a list of persons recommended by appropriate officials of Strong City, Kansas, and Cottonwood Falls, Kansas.
+
+&emsp;(C) One member shall be selected from a list of persons recommended by the Governor of the State of Kansas.
+
+&emsp;(5) One member shall be a range management specialist representing institutions of higher education (as defined in section 1141(a) of title 20) in the State of Kansas.
+
+#### (d) Terms
+
+#### (1) In general
+
+&emsp;Each member of the Advisory Committee shall be appointed to serve for a term of 3 years, except that the initial members shall be appointed as follows:
+
+&emsp;&emsp;(A) Four members shall be appointed, one each from paragraphs (1), (2), (3), and (4) of subsection (c) of this section, to serve for a term of 3 years.
+
+&emsp;&emsp;(B) Four members shall be appointed, one each from paragraphs (1), (2), (3), and (4) of subsection (c) of this section, to serve for a term of 4 years.
+
+&emsp;&emsp;(C) Five members shall be appointed, one each from paragraphs (1) through (5) of subsection (c) of this section, to serve for a term of 5 years.
+
+#### (2) Reappointment
+
+&emsp;Each member may be reappointed to serve a subsequent term.
+
+#### (3) Expiration
+
+&emsp;Each member shall continue to serve after the expiration of the term of the member until a successor is appointed.
+
+#### (4) Vacancies
+
+&emsp;A vacancy on the Advisory Committee shall be filled in the same manner as an original appointment is made. The member appointed to fill the vacancy shall serve until the expiration of the term in which the vacancy occurred.
+
+#### (e) Chairperson
+
+The members of the Advisory Committee shall select 1 of the members to serve as Chairperson.
+
+#### (f) Meetings
+
+Meetings of the Advisory Committee shall be held at the call of the Chairperson or the majority of the Advisory Committee. Meetings shall be held at such locations and in such a manner as to ensure adequate opportunity for public involvement. In compliance with the requirements of the Federal Advisory Committee Act (5 U.S.C. App.), the Advisory Committee shall choose an appropriate means of providing interested members of the public advance notice of scheduled meetings.
+
+#### (g) Quorum
+
+A majority of the members of the Advisory Committee shall constitute a quorum.
+
+#### (h) Compensation
+
+Each member of the Advisory Committee shall serve without compensation, except that while engaged in official business of the Advisory Committee, the member shall be entitled to travel expenses, including per diem in lieu of subsistence in the same manner as persons employed intermittently in Government service under section 5703 of title 5.
+
+#### (i) Charter
+
+The rechartering provisions of section 14(b) of the Federal Advisory Committee Act (15 U.S.C. App.) shall not apply to the Advisory Committee.
+
+(Pub. L. 104–333, div. I, title X, §1007, Nov. 12, 1996, 110 Stat. 4208.)
+
+#### References in Text
+
+The Federal Advisory Committee Act, referred to in subsec. (f), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### Termination of Advisory Committees
+
+Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided for by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 698u, 698u–1, 698u–3, 698u–6, 698u–7 of this title.
+

@@ -28,7 +28,9 @@ Public Availability and Updating of Ratings.—The Secretary, in consultation wi
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

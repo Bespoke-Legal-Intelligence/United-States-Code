@@ -2,15 +2,13 @@
 
 Except as provided by the Government Employees Salary Reform Act of 1964 (78 Stat. 400) and notwithstanding the provisions of other statutes, the head of an Executive agency or military department who is authorized to fix by administrative action the annual rate of basic pay for a position or employee may not fix the rate at more than the rate for level IV of the Executive Schedule. This section does not impair the authorities provided by—
 
-&emsp;(1) section 1202 of the Panama Canal Act of 1979;
+&emsp;(1) sections 248, 482, 1766, and 1819 of title 12, section 206 of the Bank Conservation Act, sections 2B(b) and 21A(e)(4) of the Federal Home Loan Bank Act, section 2A(i) <sup>1</sup> of the Home Owners’ Loan Act, and sections 5.11 and 5.58 of the Farm Credit Act of 1971;
 
-&emsp;(2) sections 248, 482, 1766, and 1819 of title 12, section 206 of the Bank Conservation Act, sections 2B(b) and 21A(e)(4) of the Federal Home Loan Bank Act, section 2A(i) <sup>1</sup> of the Home Owners’ Loan Act, and sections 5.11 and 5.58 of the Farm Credit Act of 1971;
+&emsp;(2) section 831b of title 16; or
 
-&emsp;(3) section 831b of title 16; or
+&emsp;(3) sections 403a–403c, 403e–403h, and 403j of title 50.
 
-&emsp;(4) sections 403a–403c, 403e–403h, and 403j of title 50.
-
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 473, §5363; renumbered §5373, Pub. L. 95–454, title VIII, §801(a)(3)(A)(ii), Oct. 13, 1978, 92 Stat. 1221; Pub. L. 96–70, title III, §3302(e)(4), Sept. 27, 1979, 93 Stat. 498; Pub. L. 101–73, title VII, §742(b), title XII, §1209, Aug. 9, 1989, 103 Stat. 437, 523; Pub. L.101–509, title V, §529 \[title I, §101(b)(9)(H)\], Nov. 5, 1990, 104 Stat. 1427, 1441.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 473, §5363; renumbered §5373, Pub. L. 95–454, title VIII, §801(a)(3)(A)(ii), Oct. 13, 1978, 92 Stat. 1221; Pub. L. 96–70, title III, §3302(e)(4), Sept. 27, 1979, 93 Stat. 498; Pub. L. 101–73, title VII, §742(b), title XII, §1209, Aug. 9, 1989, 103 Stat. 437, 523; Pub. L. 101–509, title V, §529 \[title I, §101(b)(9)(H)\], Nov. 5, 1990, 104 Stat. 1427, 1441; Pub. L. 104–201, div. C, title XXXV, §3548(a)(4), Sept. 23, 1996, 110 Stat. 2868.)
 
 Historical and Revision Notes
 
@@ -18,7 +16,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 5 U.S.C. 2212.
 
@@ -36,27 +36,27 @@ The Government Employees Salary Reform Act of 1964 (78 Stat. 400), referred to i
 
 Level IV of the Executive Schedule, referred to in text, is set out in section 5315 of this title.
 
-Section 1202 of the Panama Canal Act of 1979, referred to in par. (1), is classified to section 3642 of Title 22, Foreign Relations and Intercourse.
+Section 206 of the Bank Conservation Act, referred to in par. (1), is classified to section 206 of Title 12, Banks and Banking.
 
-Section 206 of the Bank Conservation Act, referred to in par. (2), is classified to section 206 of Title 12, Banks and Banking.
+Sections 2B(b) and 21A(e)(4) of the Federal Home Loan Bank Act, referred to in par. (1), are classified to sections 1422b(b) and 1441a(e)(4), respectively, of Title 12.
 
-Sections 2B(b) and 21A(e)(4) of the Federal Home Loan Bank Act, referred to in par. (2), are classified to sections 1422b(b) and 1441a(e)(4), respectively, of Title 12.
+Section 2A(i) of the Home Owners’ Loan Act, referred to in par. (1), probably should be a reference to section 3(g) of the Home Owners’ Loan Act, act June 13, 1933, ch. 64, as amended by Pub. L. 101–73, title III, §301, Aug. 9, 1989, 103 Stat. 278, which is classified to section 1462a(g) of Title 12.
 
-Section 2A(i) of the Home Owners’ Loan Act, referred to in par. (2), probably should be a reference to section 3(g) of the Home Owners’ Loan Act, act June 13, 1933, ch. 64, as amended by Pub. L. 101–73, title III, §301, Aug. 9, 1989, 103 Stat. 278, which is classified to section 1462a(g) of Title 12.
+Sections 5.11 and 5.58 of the Farm Credit Act of 1971, referred to in par. (1), are classified to sections 2245 and 2277a–7, respectively, of Title 12.
 
-Sections 5.11 and 5.58 of the Farm Credit Act of 1971, referred to in par. (2), are classified to sections 2245 and 2277a–7, respectively, of Title 12.
-
-Sections 403a–403c, 403e–403h, and 403j of title 50, referred to in par. (4), was in the original (78 Stat. 432) a reference to “the Central Intelligence Agency Act of 1949, as amended (50 U.S.C. 403a and the following”. Subsequent to the enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, additional sections have been added to the 1949 Act and are classified to sections 403k to 403r and 403s of Title 50, War and National Defense.
+Sections 403a–403c, 403e–403h, and 403j of title 50, referred to in par. (3), was in the original (78 Stat. 432) a reference to “the Central Intelligence Agency Act of 1949, as amended (50 U.S.C. 403a and the following”. Subsequent to the enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, additional sections have been added to the 1949 Act and are classified to sections 403k to 403r, 403s, and 403t of Title 50, War and National Defense.
 
 #### Amendments
 
-<b>1990</b>—Pub. L. 101–509 substituted “rate for level IV of the Executive Schedule.” for “maximum rate for GS–18.”
+1996—Pub. L. 104–201 redesignated pars. (2) to (4) as (1) to (3), respectively, and struck out former par. (1) which read as follows: “section 1202 of the Panama Canal Act of 1979;”.
 
-<b>1989</b>—Par. (2). Pub. L. 101–73, §1209, amended par. (2) generally. Prior to amendment, par. (2) read as follows: “sections 248, 481, 1437, 1439, and 1819 of title 12;”.
+1990—Pub. L. 101–509 substituted “rate for level IV of the Executive Schedule.” for “maximum rate for GS–18.”
+
+1989—Par. (2). Pub. L. 101–73, §1209, amended par. (2) generally. Prior to amendment, par. (2) read as follows: “sections 248, 481, 1437, 1439, and 1819 of title 12;”.
 
 Pub. L. 101–73, §742(b), inserted references to sections 1437 and 1439 of title 12.
 
-<b>1979</b>—Par. (1). Pub. L. 96–70 substituted “section 1202 of the Panama Canal Act of 1979” for “section 121 of title 2, Canal Zone Code (76A Stat. 15)”.
+1979—Par. (1). Pub. L. 96–70 substituted “section 1202 of the Panama Canal Act of 1979” for “section 121 of title 2, Canal Zone Code (76A Stat. 15)”.
 
 #### Effective Date of 1990 Amendment
 
@@ -64,7 +64,7 @@ Amendment by Pub. L. 101–509 effective on such date as the President shall det
 
 #### Effective Date of 1979 Amendment
 
-Amendment by Pub. L. 96–70 effective Oct. 1, 1979, see section 3304 of Pub. L. 96–70, set out as an Effective Date note under section 3601 of Title 22, Foreign Relations and Intercourse.
+Amendment by Pub. L. 96–70 effective Oct. 1, 1979, see section 3304 of Pub. L. 96–70, set out as an EffectiveDate note under section 3601 of Title 22, Foreign Relations and Intercourse.
 
 #### Cross References
 

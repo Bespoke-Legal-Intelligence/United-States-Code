@@ -28,6 +28,12 @@ The word “money” is substituted for “money of account” to eliminate unne
 
 > Thus, the phrase “money of account” did not mean, by itself, that dollars or fractions of dollars must be equal to something having intrinsic or “substantive” value. This concept is supported by earlier writings of Thomas Jefferson in his “Notes on the Establishment of a Money Unit, and of a Coinage for the United States” (1784), and the 1782 report to the President of the Continental Congress on the coinage of the United States by the Superintendent of Finances, Robert Morris, which was apparently prepared by the Assistant Superintendent, Gouverneur Morris. See Paul L. Ford, <i>The Writings of Thomas Jefferson</i>, vol. III (G.P. Putnam's Sons, 1894) pp. 446–457; William G. Sumner, <i>The Financier and the Finances of the American Revolution</i>, vol. II (Burt Franklin, 1891, reprinted 1970) pp. 36–47; and George T. Curtis, <i>History of the Constitution</i>, vol. I (Harper and Brothers, 1859) p. 443, n2. The words “or units” and “and all accounts in the public offices and all proceedings in the courts shall be kept and had in conformity to this regulation” are omitted as surplus.
 
+#### Short Title of 1996 Amendment
+
+Pub. L. 104–329, §1(a), Oct. 20, 1996, 110 Stat. 4005, provided that: “This Act \[amending sections 5131 and 5135 of this title and enacting provisions set out as notes under this section, sections 5112 and 5135 of this title, and section 431 of Title 16, Conservation\] may be cited as the ‘United States Commemorative Coin Act of 1996’.”
+
+Pub. L. 104–329, title III, §301, Oct. 20, 1996, 110 Stat. 4012, provided that: “This title \[amending sections 5131 and 5135 of this title and enacting provisions set out as notes under sections 5112 and 5135 of this title\] may be cited as the ‘50 States Commemorative Coin Program Act’.”
+
 #### Short Title of 1992 Amendment
 
 Pub. L. 102–390, title II, §201, Oct. 6, 1992, 106 Stat. 1624, provided that: “This title \[enacting sections 5134 and 5135 of this title, amending sections 304, 5111, 5112, 5119, 5131, and 5132 of this title and section 709 of Title 18, Crimes and Criminal Procedure, enacting provisions set out as notes under sections 5132 and 5134 of this title, amending provisions set out as notes under section 5112 of this title, and repealing provisions set out as a note under section 5112 of this title\] may be cited as the ‘United States Mint Reauthorization and Reform Act of 1992’.”

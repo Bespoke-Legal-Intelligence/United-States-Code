@@ -30,7 +30,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 5 U.S.C. 2306.
 
@@ -44,7 +46,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-<b>1994</b>—Subsec. (a). Pub. L. 103–226, §2(a)(2)(A)(i), in introductory provisions, substituted “In order to assist in achieving an agency's mission and performance goals by improving employee and organizational performance, the head of each agency, in conformity with this chapter, shall establish, operate, maintain, and evaluate” for “In order to increase economy and efficiency in the operations of the agency and to raise the standards of performance by employees of their official duties to the maximum possible level of proficiency, the head of each agency, in conformity with this chapter, shall establish, operate, and maintain”.
+1994—Subsec. (a). Pub. L. 103–226, §2(a)(2)(A)(i), in introductory provisions, substituted “In order to assist in achieving an agency's mission and performance goals by improving employee and organizational performance, the head of each agency, in conformity with this chapter, shall establish, operate, maintain, and evaluate” for “In order to increase economy and efficiency in the operations of the agency and to raise the standards of performance by employees of their official duties to the maximum possible level of proficiency, the head of each agency, in conformity with this chapter, shall establish, operate, and maintain”.
 
 Subsec. (a)(3), (4). Pub. L. 103–226, §2(a)(2)(A)(ii)–(iv), added par. (3) and redesignated former par. (3) as (4).
 
@@ -54,11 +56,23 @@ Subsec. (b)(2). Pub. L. 103–226, §2(a)(2)(B)(ii), (iii), redesignated par. (3
 
 Subsec. (b)(3). Pub. L. 103–226, §2(a)(2)(B)(ii), redesignated par. (3) as (2).
 
-<b>1978</b>—Pub. L. 95–454 designated existing provisions as subsec. (a) and added subsec. (b).
+1978—Pub. L. 95–454 designated existing provisions as subsec. (a) and added subsec. (b).
 
 #### Effective Date of 1978 Amendment
 
 Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as a note under section 1101 of this title.
+
+#### Optional Participation of Federal Employees in AIDS Training Programs
+
+Pub. L. 104–146, §9, May 20, 1996, 110 Stat. 1373, provided that:
+
+“(a)
+
+In General.—Notwithstanding any other provision of law, a Federal employee may not be required to attend or participate in an AIDS or HIV training program if such employee refuses to consent to such attendance or participation, except for training necessary to protect the health and safety of the Federal employee and the individuals served by such employees. An employer may not retaliate in any manner against such an employee because of the refusal of such employee to consent to such attendance or participation.
+
+“(b)
+
+Definition.—As used in subsection (a), the term ‘Federal employee’ has the same meaning given the term ‘employee’ in section 2105 of title 5, United States Code, and such term shall include members of the armed forces.”
 
 #### Experimental Program Relating to Acceptance of Voluntary Services From Participants in Executive Exchange Program
 
@@ -156,7 +170,7 @@ Sec. 401. The following functions vested in the President are hereby delegated t
 
 (b) The authority under section 4111(a) of Title 5, United States Code, to fix by regulation the extent to which the contributions, awards, and payments referred to in that section may be made to and accepted by employees.
 
-Sec. 402. The authority vested in the President by section 4101(6)(B) of Title 5, United States Code, to designate a foreign government or international organization or instrumentality of either as eligible to provide training, is hereby delegated to the head of each agency for his employees except that each such designation shall be made only after the agency head concerned has obtained and given due consideration to the advice of the Department of State thereon prior to the first use of such training facility and thereafter periodically but not less often than once every three years.
+Sec. 402. The authority vested in the President by section 4101(6)(B) of Title 5, United States Code, to designate a foreign government or international organization or instrumentality of either as eligible to provide training, is hereby delegated to the head of each agency for his employees except that each such designation shall be made only after the agency head concerned has obtained and given due consideration to the advice ofthe Department of State thereon prior to the first use of such training facility and thereafter periodically but not less often than once every three years.
 
 #### Part V—Revocation of Prior Order
 

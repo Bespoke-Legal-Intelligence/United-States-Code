@@ -14,5 +14,5 @@ In this chapter:
 
 #### Effective Date
 
-Section 806(d)(3) of Pub. L. 99–399 provided that: “Chapter 110 of title 10, United States Code, as addedby paragraph (1), shall apply with respect to persons whose captive status begins after January 21, 1981.”
+Section 806(d)(3) of Pub. L. 99–399 provided that: “Chapter 110 of title 10, United States Code, as added by paragraph (1), shall apply with respect to persons whose captive status begins after January 21, 1981.”
 

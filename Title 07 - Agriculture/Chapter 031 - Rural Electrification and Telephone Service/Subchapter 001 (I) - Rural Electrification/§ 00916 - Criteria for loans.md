@@ -1,6 +1,6 @@
 ### §916. Criteria for loans
 
-In order to insure coordination of electric generation and transmission financing under this chapter with the national energy policy, the Secretary in making or guaranteeing loans for the construction, operation, or enlargement of generating plants or electric transmission lines or systems, shall consider such general criteria consistent with the provisions of this chapter as may be published by the Secretary of Energy.
+In order to insure coordination of electric generation and transmission financing under this chapter with the national energy policy, theSecretary in making or guaranteeing loans for the construction, operation, or enlargement of generating plants or electric transmission lines or systems, shall consider such general criteria consistent with the provisions of this chapter as may be published by the Secretary of Energy.
 
 (May 20, 1936, ch. 432, title I, §16, as added Aug. 4, 1977, Pub. L. 95–91, title VII, §709(f), 91 Stat. 608; amended Oct. 13, 1994, Pub. L. 103–354, title II, §235(a)(13), 108 Stat. 3221.)
 

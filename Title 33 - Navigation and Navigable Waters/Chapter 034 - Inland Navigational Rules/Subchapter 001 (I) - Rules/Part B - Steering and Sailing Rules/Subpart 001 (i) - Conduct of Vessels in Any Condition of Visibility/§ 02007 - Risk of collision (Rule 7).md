@@ -18,7 +18,7 @@ In determining if risk of collision exists the following considerations shall be
 
 &emsp;(i) such risk shall be deemed to exist if the compass bearing of an approaching vessel does not appreciably change; and
 
-&emsp;(ii) such risk may sometimes exist even when an appreciable bearing change is evident, particularly when approaching a very large vessel or a tow or when approaching a vessel at close range.
+&emsp;(ii) such risk may sometimes exist even when an appreciable bearing change is evident,particularly when approaching a very large vessel or a tow or when approaching a vessel at close range.
 
 (Pub. L. 96–591, §2, Dec. 24, 1980, 94 Stat. 3418.)
 

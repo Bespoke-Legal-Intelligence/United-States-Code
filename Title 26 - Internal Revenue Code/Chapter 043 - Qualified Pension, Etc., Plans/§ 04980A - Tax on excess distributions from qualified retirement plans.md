@@ -172,9 +172,25 @@ For purposes of this section—
 
 &emsp;An election under paragraph (1) shall be made on an individual's return of tax imposed by chapter 1 or 11 for a taxable year beginning before January 1, 1989.
 
-(Added Pub. L. 99–514, title XI, §1133(a), Oct. 22, 1986, 100 Stat. 2481, §4981A; renumbered §4980A and amended Pub. L. 100–647, title I, §1011A(g)(1)(A), (2)–(6), (9), Nov. 10, 1988, 102 Stat. 3479–3482; Pub. L. 102–318, title V, §521(b)(42), July 3, 1992, 106 Stat. 313.)
+#### (g) Limitation on application
+
+This section shall not apply to distributions during years beginning after December 31, 1996, and before January 1, 2000, and such distributions shall be treated as made first from amounts not described in subsection (f).
+
+(Added Pub. L. 99–514, title XI, §1133(a), Oct. 22, 1986, 100 Stat. 2481, §4981A; renumbered §4980A and amended Pub. L. 100–647, title I, §1011A(g)(1)(A), (2)–(6), (9), Nov. 10, 1988, 102 Stat. 3479–3482; Pub. L. 102–318, title V, §521(b)(42), July 3, 1992, 106 Stat. 313; Pub. L. 104–188, title I, §§1401(b)(12), 1452(b), Aug. 20, 1996, 110 Stat. 1789, 1816.)
+
+#### Amendment of Subsection (c)(4)
+
+<i>Pub. L. 104–188, title I, §1401(b)(12), (c), Aug. 20, 1996, 110 Stat. 1789, provided that, applicable to taxable years beginning after Dec. 31, 1999, with retention of certain transition rules, subsection (c)(4) of this section is amended as follows:</i>
+
+<i>(1) by striking the heading and inserting: “Special one-time election”,</i>
+
+<i>(2) by striking “to which an election under section 402(d)(4)(B) applies” and inserting “(as defined in section 402(e)(4)(D)) with respect to which the individual elects to have this paragraph apply”, and</i>
+
+<i>(3) by adding at the end the following new flush sentence: “An individual may elect to have this paragraph apply to only one lump-sum distribution.”.</i>
 
 #### Amendments
+
+1996—Subsec. (g). Pub. L. 104–188, §1452(b), added subsec. (g).
 
 1992—Subsec. (c)(4). Pub. L. 102–318 substituted “402(d)(4)(B)” for “402(e)(4)(B)”.
 
@@ -201,6 +217,12 @@ Subsec. (d)(3)(B). Pub. L. 100–647, §1011A(g)(6), amended subpar. (B) general
 Subsec. (d)(4), (5). Pub. L. 100–647, §1011A(g)(5)(B), added pars. (4) and (5).
 
 Subsec. (f). Pub. L. 100–647, §1011A(g)(4)(A), added subsec. (f).
+
+#### Effective Date of 1996 Amendment
+
+Amendment by section 1401(b)(12) of Pub. L. 104–188 applicable to taxable years beginning after Dec. 31, 1999, with retention of certain transition rules, see section 1401(c) of Pub. L. 104–188, set out as a note under section 402 of this title.
+
+Amendment by section 1452(b) of Pub. L. 104–188 applicable to years beginning after Dec. 31, 1996, see section 1452(d)(2) of Pub. L. 104–188, set out as a note under section 415 of this title.
 
 #### Effective Date of 1992 Amendment
 
@@ -230,13 +252,17 @@ Plan terminations before 1987.—The amendments made by this section shall not a
 
 Secretary of the Treasury or his delegate to issue before Feb. 1, 1988, final regulations to carry out this section, see section 1141 of Pub. L. 99–514, set out as a note under section 401 of this title.
 
+#### Plan Amendments Not Required Until January 1, 1998
+
+For provisions directing that if any amendments made by subtitle D \[§§1401–1465\] of title I of Pub. L. 104–188 require an amendment to any plan or annuity contract, such amendment shall not be required to be made before the first day of the first plan year beginning on or after Jan. 1, 1998, see section 1465 of Pub. L. 104–188, set out as a note under section 401 of this title.
+
 #### Plan Amendments Not Required Until January 1, 1994
 
 For provisions directing that if any amendments made by subtitle B \[§§521–523\] of title V of Pub. L. 102–318 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1994, see section 523 of Pub. L. 102–318, set out as a note under section 401 of this title.
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by section 1133(a) of Pub. L. 99–514 require anamendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by section 1133(a) of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, set out as a note under section 401 of this title.
 
 #### Section Referred to in Other Sections
 

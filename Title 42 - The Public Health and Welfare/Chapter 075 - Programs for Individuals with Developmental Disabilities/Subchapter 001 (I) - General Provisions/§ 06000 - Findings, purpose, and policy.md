@@ -94,6 +94,10 @@ Subsec. (b)(3) to (8). Pub. L. 101–496, §3(2), added pars. (3) to (7) and red
 
 Section 601 of Pub. L. 100–146 provided that: “This Act, and the amendments made by this Act \[see Short Title of 1987 Amendment note below\], shall become effective on October 1, 1987.”
 
+#### Short Title of 1996 Amendment
+
+Pub. L. 104–183, §1, Aug. 6, 1996, 110 Stat. 1694, provided that: “This Act \[amending sections 6030, 6043, 6066, and 6083 of this title\] may be cited as the ‘Developmental Disabilities Assistance and Bill of Rights Act Amendments of 1996’.”
+
 #### Short Title of 1994 Amendment
 
 Section 1(a) of Pub. L. 103–230 provided that: “This Act \[enacting sections 6025a, 6065, and 6066 of this title, amending this section and sections 6001, 6003, 6005 to 6009, 6021, 6022, 6024, 6025, 6026, 6027, 6029, 6030, 6041 to 6043, 6061 to 6064, and 6081 to 6083 of this title, repealing sections 6002, 6004, 6023, and 6028 of this title, enacting provisions set out as a note under section 6025 of this title, and amending provisions set out as a note under this section\] may be cited as the ‘Developmental Disabilities Assistance and Bill of Rights Act Amendments of 1994’.”

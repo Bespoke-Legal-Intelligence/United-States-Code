@@ -18,5 +18,5 @@ This subtitle, referred to in text, is subtitle A of title I of Pub. L. 100–69
 
 #### Appropriations
 
-Provisions appropriating funds for fiscal year 1994 for necessary expenses of Office of National Drug Control Policy and requiring the Office to hire and maintain not less than 40 full-time equivalent positions were contained in the Executive Office Appropriations Act, 1994, Pub. L. 103–123, title III, Oct. 28, 1993, 107 Stat. 1235, 1237.
+Provisions appropriating funds for fiscal year 1994 for necessary expenses of Office of National Drug Control Policy and requiring the Office to hire and maintain not less than 40 full-time equivalent positions were contained in the Executive Office Appropriations Act,1994, Pub. L. 103–123, title III, Oct. 28, 1993, 107 Stat. 1235, 1237.
 

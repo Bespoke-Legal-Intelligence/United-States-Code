@@ -34,7 +34,7 @@ Each State educational agency that wishes to receive an allotment under this par
 
 &emsp;&emsp;(J) describe how the State will prepare all teachers to teach children with diverse learning needs, including children with disabilities;
 
-&emsp;&emsp;(K) describe how the State will prepare teachers, and, where appropriate, paraprofessionals, pupil services personnel, and other staff in the collaborative skills needed to appropriately teach children with disabilities, in the core academic subjects;
+&emsp;&emsp;(K) describe how the State will prepare teachers, and, where appropriate, paraprofessionals, pupil services personnel, andother staff in the collaborative skills needed to appropriately teach children with disabilities, in the core academic subjects;
 
 &emsp;&emsp;(L) describe how the State will use technology, including the emerging national information infrastructure, to enhance the professional development of teachers, and, where appropriate, administrators and pupil services personnel;
 
@@ -64,7 +64,7 @@ Each State application shall include—
 
 &emsp;&emsp;(C) resources from business and industry, museums, libraries, educational television stations, and public and private nonprofit organizations of demonstrated experience; and
 
-&emsp;&emsp;(D) funds received from other Federal agencies, such as the National Science Foundation, the Departments of Commerce, Energy, and Health and Human Services, the National Endowment for the Arts, the Institute of Museum Services, and the National Endowment for the Humanities; and
+&emsp;&emsp;(D) funds received from other Federal agencies, such as the National Science Foundation, the Departments of Commerce, Energy, and Health and Human Services, the National Endowment for the Arts, the Institute of Museum and Library Services, and the National Endowment for the Humanities; and
 
 &emsp;(2) a description of the activities to be sponsored under the State-level activities under section 6647 of this title and the higher education activities under section 6651 of this title.
 
@@ -78,13 +78,17 @@ Each State application shall include—
 
 &emsp;In reviewing applications under this section, the Secretary shall obtain the advice of non-Federal experts on education in the core academic subjects and on teacher education, including teachers and administrators.
 
-(Pub. L. 89–10, title II, §2205, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3622.)
+(Pub. L. 89–10, title II, §2205, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3622; amended Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §709(b)(3)(A)\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–313.)
 
 #### References in Text
 
 The Goals 2000: Educate America Act, referred to in subsec. (b)(1), is Pub. L. 103–227, Mar. 31, 1994, 108 Stat. 125 (except titles V and IX), as amended, which is classified principally to chapter 68 (§5801 et seq.) of this title (except subchapters V (§5931 et seq.) and IX (§6001 et seq.)). For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
 
 The Individuals with Disabilities Education Act, referred to in subsec. (c)(1)(A), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended, which is classified generally to chapter 33 (§1400 et seq.) of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
+
+#### Amendments
+
+1996—Subsec. (c)(1)(D). Pub. L. 104–208 substituted “the Institute of Museum and Library Services” for “the Institute of Museum Services”.
 
 #### Section Referred to in Other Sections
 

@@ -20,7 +20,7 @@ In addition to the responsibilities of the Assistant Secretary for Educational R
 
 (1) The Institute is authorized, in order to improve and expand the system for delivery of literacy services, to—
 
-&emsp;(A) assist appropriate Federal agencies in setting specific objectives and strategies formeeting the goals of this chapter and in measuring the progress of such agencies in meeting such goals;
+&emsp;(A) assist appropriate Federal agencies in setting specific objectives and strategies for meeting the goals of this chapter and in measuring the progress of such agencies in meeting such goals;
 
 &emsp;(B) conduct basic and applied research and demonstrations on literacy, including—
 
@@ -60,7 +60,7 @@ In addition to the responsibilities of the Assistant Secretary for Educational R
 
 &emsp;&emsp;(ii) be coordinated with activities conducted by—
 
-&emsp;&emsp;&emsp;(I) regional educational laboratories supported under section 1221e(d)(4)(A)(i)�7E<sup>2</sup> of this title;
+&emsp;&emsp;&emsp;(I) regional educational laboratories supported under section 1221e(d)(4)(A)(i) <sup>2</sup> of this title;
 
 &emsp;&emsp;&emsp;(II) curriculum centers assisted under section 2341(a)(8) of this title; and
 
@@ -130,7 +130,7 @@ In addition to the responsibilities of the Assistant Secretary for Educational R
 
 (5)(A) Each member of the Board shall be appointed for a term of 3 years. Any such member may be appointed for not more than 2 consecutive terms.
 
-(B) Any member appointed to fill a vacancy occurring before the expiration of the term for which the member's predecessor was appointed shall be appointed only for the remainder of that term. A member may serve after the expiration of that members’ term until a successor has taken office. A vacancy in the Board shall be filled in the manner in which the original appointment was made. A vacancy in the Board shall not affect the powers of the Board.
+(B) Any member appointed to fill a vacancy occurring before the expiration of the term for which the member's predecessor was appointed shall be appointed only for the remainder of that term. A member may serve after the expiration of that members’ term until a successor has taken office. A vacancy in the Board shallbe filled in the manner in which the original appointment was made. A vacancy in the Board shall not affect the powers of the Board.
 
 (6) A majority of the members of the Board shall constitute a quorum but a lesser number may hold hearings. Any recommendation may be passed only by a majority of its members present.
 

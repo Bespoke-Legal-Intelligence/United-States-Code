@@ -64,7 +64,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) such section were applied without regard to paragraph (2)(C) thereof (relating to independent contractor requirements), and
 
-&emsp;&emsp;(B) stock owned, directly or indirectly, by or for a partner would not be considered as owned under section 318(a)(3)(A) by the partnership unless 5 percent or more (by value)of the interests in such partnership are owned, directly or indirectly, by or for such partner.
+&emsp;&emsp;(B) stock owned, directly or indirectly, by or for a partner would not be considered as owned under section 318(a)(3)(A) by the partnership unless 5 percent or more (by value) of the interests in such partnership are owned, directly or indirectly, by or for such partner.
 
 #### (4) Certain income qualifying under regulated investment company or real estate trust provisions
 
@@ -144,7 +144,7 @@ Special rule where substantial new line of business added after december 17, 198
 
 &emsp;“(C)
 
-Coordination with passive-type income requirements.—In the case of an existing partnership, paragraph (1) of section 7704(c) of the Internal Revenue Code of 1986 (as added by this section) shall be applied by substituting for ‘December 31, 1987’ the earlier of—
+Coordination with passive-type income requirements.—In the case of an existing partnership,paragraph (1) of section 7704(c) of the Internal Revenue Code of 1986 (as added by this section) shall be applied by substituting for ‘December 31, 1987’ the earlier of—
 
 &emsp;&emsp;“(i) December 31, 1997, or
 

@@ -18,7 +18,7 @@ The Commission shall be composed of the following Members of Congress:
 
 &emsp;(2) The Chairman and Vice-Chairman of the Joint Committee on the Library.
 
-&emsp;(3) The Chairman and the ranking minority party member of the Committee on Rules and Administration of the Senate, and the Chairman and the ranking minority party member of the Committee on House Administration of the House of Representatives.
+&emsp;(3) The Chairman and the ranking minority party member of the Committee on Rules and Administration of the Senate, and the Chairman and the ranking minority party member of the Committee on House Oversight of the House of Representatives.
 
 &emsp;(4) The majority leader and the minority leader of the Senate.
 
@@ -36,17 +36,17 @@ Each member of the Commission specified under subsection (b) of this section (ot
 
 #### (d) Architect of the Capitol
 
-In addition to the members under subsection (b) of this section, the Architect of the Capitol shall participate in the activities of the Commission, ex officio, and without the right to vote.
+In addition to the members under subsection (b) of this section, the Architect of the Capitolshall participate in the activities of the Commission, ex officio, and without the right to vote.
 
 #### (e) Staff support and assistance
 
 The Senate Commission on Art, the House of Representatives Fine Arts Board, and the Architect of the Capitol shall provide to the Commission such staff support and assistance as the Commission may request.
 
-(Pub. L. 100–696, title VIII, §801, Nov. 18, 1988, 102 Stat. 4608.)
+(Pub. L. 100–696, title VIII, §801, Nov. 18, 1988, 102 Stat. 4608; Pub. L. 104–186, title II, §221(7), Aug. 20, 1996, 110 Stat. 1749.)
 
-#### Change of Name
+#### Amendments
 
-Committee on House Administration of House of Representatives treated as referring to Committee on House Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+1996—Subsec. (b)(3). Pub. L. 104–186 substituted “House Oversight” for “House Administration”.
 
 #### Section Referred to in Other Sections
 

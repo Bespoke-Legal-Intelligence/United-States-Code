@@ -160,7 +160,7 @@ If any fund would be a welfare benefit fund (as modified by subsection (f)) but 
 
 &emsp;(1) this section shall apply as if there were such a relationship, and
 
-&emsp;(2) any reference in this section to the employer shall be treated as a reference to theperson for whom services are provided, and any reference in this section to an employee shall be treated as a reference to the person providing the services.
+&emsp;(2) any reference in this section to the employer shall be treated as a reference to the person for whom services are provided, and any reference in this section to an employee shall be treated as a reference to the person providing the services.
 
 (Added Pub. L. 98–369, div. A, title V, §511(a), July 18, 1984, 98 Stat. 854; amended Pub. L. 99–514, title XVIII, §1851(a)(1), (8)(A), (b)(2)(C)(iv), Oct. 22, 1986, 100 Stat. 2858, 2860, 2863; Pub. L. 100–203, title IX, §10201(b)(4), Dec. 22, 1987, 101 Stat. 1330–387; Pub. L. 100–647, title I, §1018(t)(2)(C), Nov. 10, 1988, 102 Stat. 3587.)
 

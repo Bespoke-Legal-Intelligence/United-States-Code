@@ -4,11 +4,11 @@
 
 If—
 
-&emsp;(1) a United States person sells or exchanges stock in a foreign corporation, or if a United States person receives a distribution from a foreign corporation which, under section 302 or 331, is treated as an exchange of stock, and
+&emsp;(1) a United States person sells or exchanges stock in a foreign corporation, and
 
 &emsp;(2) such person owns, within the meaning of section 958(a), or is considered as owning by applying the rules of ownership of section 958(b), 10 percent or more of the total combined voting power of all classes of stock entitled to vote of such foreign corporation at any time during the 5-year period ending on the date of the sale or exchange when such foreign corporation was a controlled foreign corporation (as defined in section 957),
 
-> then the gain recognized on the sale or exchange of such stock shall be included in the gross income of such person as a dividend, to the extent of the earnings and profits of the foreign corporation attributable (under regulations prescribed by the Secretary) to such stock which were accumulated in taxable years of such foreign corporation beginning after December 31, 1962, and during the period or periods the stock sold or exchanged was held by such person while such foreign corporation was a controlled foreign corporation.
+> then the gain recognized on the sale or exchange of such stock shall be included in the gross income of such person as a dividend, to the extent of the earnings and profits of the foreign corporation attributable (under regulations prescribed by the Secretary) to such stock which were accumulated in taxable years of such foreign corporation beginning after December 31, 1962, and during the period or periods the stock sold or exchanged was held by such person while such foreign corporation was a controlled foreign corporation. For purposes of this section, a United States person shall be treated as having sold or exchanged any stock if, under any provision of this subtitle, such person is treated as realizing gain from the sale or exchange of such stock.
 
 #### (b) Limitation on tax applicable to individuals
 
@@ -26,7 +26,7 @@ In the case of an individual, if the stock sold or exchanged is a capital asset 
 
 #### (1) In general
 
-&emsp;Except as provided in section 312(k)(4), for purposes of this section, the earnings and profits of any foreign corporation for any taxable year shall be determined according to rules substantially similar to those applicable to domestic corporations, under regulations prescribed by the Secretary.
+&emsp;Except as provided in section 312(k)(4), for purposes of this section, the earnings and profits of any foreign corporation for any taxableyear shall be determined according to rules substantially similar to those applicable to domestic corporations, under regulations prescribed by the Secretary.
 
 #### (2) Earnings and profits of subsidiaries of foreign corporations
 
@@ -38,7 +38,7 @@ In the case of an individual, if the stock sold or exchanged is a capital asset 
 
 > &emsp;then, for purposes of this section, the earnings and profits of the foreign corporation the stock of which is sold or exchanged which are attributable to the stock sold or exchanged shall be deemed to include the earnings and profits of such other foreign corporation which—
 
-&emsp;&emsp;(C) are attributable (under regulations prescribed by the Secretary) to the stock of such other foreign corporation which such person owned within the meaning of section 958(a)(2) (by reason of his ownership within the meaning of section 958(a)(1)(A) of the stock sold or exchanged) on the date of such sale or exchange (or on the date of any sale or exchange of the stock of such other foreign corporation occurring during the 5-year period ending on the date of the sale or exchange of the stock of such foreign corporation, to the extent not otherwise taken into account under this section but not in excess of the fair market value of the stock of such other foreign corporation sold or exchangedover the basis of such stock (for determining gain) in the hands of the transferor); and
+&emsp;&emsp;(C) are attributable (under regulations prescribed by the Secretary) to the stock of such other foreign corporation which such person owned within the meaning of section 958(a)(2) (by reason of his ownership within the meaning of section 958(a)(1)(A) of the stock sold or exchanged) on the date of such sale or exchange (or on the date of any sale or exchange of the stock of such other foreign corporation occurring during the 5-year period ending on the date of the sale or exchange of the stock of such foreign corporation, to the extent not otherwise taken into account under this section but not in excess of the fair market value of the stock of such other foreign corporation sold or exchanged over the basis of such stock (for determining gain) in the hands of the transferor); and
 
 &emsp;&emsp;(D) were accumulated in taxable years of such other corporation beginning after December 31, 1962, and during the period or periods—
 
@@ -92,7 +92,7 @@ For purposes of this section, the following amounts shall be excluded, with resp
 
 Except as provided in regulations prescribed by the Secretary, if—
 
-&emsp;(1) a United States person sells or exchanges stock of a domestic corporation, or receives a distribution from a domestic corporation which, under section 302 or 331, is treated as an exchange of stock, and
+&emsp;(1) a United States person sells or exchanges stock of a domestic corporation, and
 
 &emsp;(2) such domestic corporation was formed or availed of principally for the holding, directly or indirectly, of stock of one or more foreign corporations,
 
@@ -108,7 +108,7 @@ Except as provided in regulations prescribed by the Secretary—
 
 &emsp;&emsp;(A) a domestic corporation satisfies the stock ownership requirements of subsection (a)(2) with respect to a foreign corporation, and
 
-&emsp;&emsp;(B) such domestic corporation distributes stock of such foreign corporation in a distribution to which section 311(a), 337, or 361(c)(1) applies,
+&emsp;&emsp;(B) such domestic corporation distributes stock of such foreign corporation in a distribution to which section 311(a), 337, 355(c)(1), or 361(c)(1) applies,
 
 > &emsp;then, notwithstanding any other provision of this subtitle, an amount equal to the excess of the fair market value of such stock over its adjusted basis in the hands of the domestic corporation shall be included in the gross income of the domestic corporation as a dividend to the extent of the earnings and profits of the foreign corporation attributable (under regulations prescribed by the Secretary) to such stock which were accumulated in taxable years of such foreign corporation beginning after December 31, 1962, and during the period or periods the stock was held by such domestic corporation while such foreign corporation was a controlled foreign corporation. For purposes of subsections (c)(2), (d), and (h), a distribution of stock to which this subsection applies shall be treated as a sale of stock to which subsection (a) applies.
 
@@ -146,11 +146,13 @@ Unless the taxpayer establishes the amount of the earnings and profits of the fo
 
 #### (1) In general
 
-&emsp;If any shareholder of a 10-percent corporate shareholder of a foreign corporation exchanges stock of the 10-percent corporate shareholder for stock of the foreign corporation, for purposes of this section, the stock of the foreign corporation received in such exchange shall be treated as if it had been—
+&emsp;If any shareholder of a 10-percent corporate shareholder of a foreign corporation exchanges stock of the 10-percent corporate shareholder for stock of the foreign corporation, such 10-percent corporate shareholder shall recognize gain in the same manner as if the stock of the foreign corporation received in such exchange had been—
 
 &emsp;&emsp;(A) issued to the 10-percent corporate shareholder, and
 
 &emsp;&emsp;(B) then distributed by the 10-percent corporate shareholder to such shareholder in redemption or liquidation (whichever is appropriate).
+
+> &emsp;The amount of gain recognized by such 10-percent corporate shareholder under the preceding sentence shall not exceed the amount treated as a dividend under this section.
 
 #### (2) 10-percent corporate shareholder defined
 
@@ -160,13 +162,27 @@ Unless the taxpayer establishes the amount of the earnings and profits of the fo
 
 &emsp;&emsp;<b>For provision excluding amounts previously taxed under this section from gross income when subsequently distributed, see section 959(e).</b>
 
-(Added Pub. L. 87–834, §15(a), Oct. 16, 1962, 76 Stat. 1041; amended Pub. L. 89–809, title I, §104(k), Nov. 13, 1966, 80 Stat. 1562; Pub. L. 91–172, title IV, §442(b)(2), Dec. 30, 1969, 83 Stat. 628; Pub. L. 94–455, title X, §§1022(a), 1042(b), (c)(1), (3), title XIV, §1402(b)(1)(Y), (2), title XIX, §§1901(b)(3)(H), (32)(B)(iii), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1619, 1636, 1637, 1732, 1793, 1800, 1834; Pub. L. 97–448, title I, §102(c)(1), Jan. 12, 1983, 96 Stat. 2370; Pub. L. 98–369, div. A, title I, §133(a), (b)(2), (c), title VIII, §801(d)(6), title X, §1001(b)(22), (e), July 18, 1984, 98 Stat. 667, 668, 996, 1012; Pub. L. 99–514, title VI, §631(d)(2), title XVIII, §§1810(i)(1), 1875(g)(1), 1876(a)(2), Oct. 22, 1986, 100 Stat. 2272, 2829, 2897; Pub. L. 100–647, title I, §§1006(e)(14), 1012(p)(19), Nov. 10, 1988, 102 Stat. 3402, 3518.)
+(Added Pub. L. 87–834, §15(a), Oct. 16, 1962, 76 Stat. 1041; amended Pub. L. 89–809, title I, §104(k), Nov. 13, 1966, 80 Stat. 1562; Pub. L. 91–172, title IV, §442(b)(2), Dec. 30, 1969, 83 Stat. 628; Pub. L. 94–455, title X, §§1022(a), 1042(b), (c)(1), (3), title XIV, §1402(b)(1)(Y), (2), title XIX, §§1901(b)(3)(H), (32)(B)(iii), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1619, 1636, 1637, 1732, 1793, 1800, 1834; Pub. L. 97–448, title I, §102(c)(1), Jan. 12, 1983, 96 Stat. 2370; Pub. L. 98–369, div. A, title I, §133(a), (b)(2), (c), title VIII, §801(d)(6), title X, §1001(b)(22), (e), July 18, 1984, 98 Stat. 667, 668, 996, 1012; Pub. L. 99–514, title VI, §631(d)(2), title XVIII, §§1810(i)(1), 1875(g)(1), 1876(a)(2), Oct. 22,1986, 100 Stat. 2272, 2829, 2897; Pub. L. 100–647, title I, §§1006(e)(14), 1012(p)(19), Nov. 10, 1988, 102 Stat. 3402, 3518; Pub. L. 104–188, title I, §1702(g)(1), Aug. 20, 1996, 110 Stat. 1872.)
 
 #### References in Text
 
 The Tax Reduction Act of 1975, referred to in subsec. (d)(3), is Pub. L. 94–12, Mar. 29, 1975, 89 Stat. 26, as amended. For complete classification of this Act to the Code, see Short Title of 1975 Amendment note set out under section 1 of this title and Tables.
 
 #### Amendments
+
+1996—Subsec. (a). Pub. L. 104–188, §1702(g)(1)(A)(ii), in closing provisions inserted at end “For purposes of this section, a United States person shall be treated as having sold or exchanged any stock if, under any provision of this subtitle, such person is treated as realizing gain from the sale or exchange of such stock.”
+
+Subsec. (a)(1). Pub. L. 104–188, §1702(g)(1)(A)(i), struck out “, or if a United States person receives a distribution from a foreign corporation which, under section 302 or 331, is treated as an exchange of stock” after “in a foreign corporation”.
+
+Subsec. (e)(1). Pub. L. 104–188, §1702(g)(1)(B), struck out “, or receives a distribution from a domestic corporation which, under section 302 or 331, is treated as an exchange of stock” after “of a domestic corporation”.
+
+Subsec. (f)(1)(B). Pub. L. 104–188, §1702(g)(1)(C), substituted “355(c)(1), or 361(c)(1)” for “or 361(c)(1)”.
+
+Subsec. (i)(1). Pub. L. 104–188, §1702(g)(1)(D), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “If any shareholder of a 10-percent corporate shareholder of a foreign corporation exchanges stock of the 10-percent corporate shareholder for stock of the foreign corporation, for purposes of this section, the stock of the foreign corporation received in such exchange shall be treated as if it had been—
+
+&emsp;“(A) issued to the 10-percent corporate shareholder, and
+
+&emsp;“(B) then distributed by the 10-percent corporate shareholder to such shareholder in redemption or liquidation (whichever is appropriate).”
 
 1988—Subsec. (d)(2). Pub. L. 100–647, §1006(e)(14)(A), struck out par. (2) which related to gain realized from sale or exchange of property in pursuance of plan of complete liquidation.
 
@@ -218,7 +234,7 @@ Subsec. (c)(2)(C). Pub. L. 94–455, §1042(b), inserted “(or on the date of a
 
 Subsec. (d)(2). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
-Subsec. (d)(3). Pub. L. 94–455, §1022(a), substituted provisions of par. (3) relating to “Less developed country corporations under prior law” and reading “Earnings and profits of a foreign corporation which were accumulated during any taxable year beginning before January 1, 1976, while such corporation was a less developed country corporation under section 902(d) as in effect before the enactment of the Tax Reduction Act of 1975” for prior par. (3) relating to “Less developed country corporations” and reading “Earnings and profits accumulated by a foreign corporation while it was a less developed country corporation (as defined in section 902(d)), if the stock sold or exchanged was owned for a continuous period of at least 10 years, ending with the date of the sale or exchange, by the United States person who sold or exchanged such stock. In the case of stock sold or exchanged by a corporation, if United States persons who are individuals, estates, or trusts (each of whom owned within the meaning of section 958(a), or were considered as owning by applying the rules of ownership of section 958(b), 10 percent or more of the total combined voting power of all classes of stock entitled to vote of such corporation) owned, or were considered as owning, at any time during the 10-year period ending on the date of the sale or exchange more than 50 percent of the total combined voting power of all classes of stock entitled to vote such corporation, this paragraph shall apply only if such United States persons owned, or were considered as owning, at all times during the remainder of such 10-year period more than 50 percent of the total combined voting power of all classes of stock entitled to vote of such corporation. For purposes of this paragraph, stock owned by a United States person who is an individual, estate, or trust which was acquired by reason of the death of the predecessor in interest of such United States person shall be considered as owned by such United States person during the period such stock was owned by such predecessor in interest, and during the period such stock was owned by any other predecessor in interest if between such United States person and such other predecessor in interest there was no transfer other than by reason of the death of an individual.”
+Subsec. (d)(3). Pub. L. 94–455, §1022(a), substituted provisions of par. (3) relating to “Less developed country corporations under prior law” and reading “Earnings and profits of a foreign corporation which were accumulated during any taxable year beginning before January 1, 1976, while such corporation was a less developed country corporation under section 902(d) as in effect before the enactment of the Tax Reduction Act of 1975” for prior par. (3) relating to “Less developed country corporations” and reading “Earnings and profits accumulated by a foreign corporation while it was a less developed country corporation (as defined in section 902(d)), if the stock sold or exchanged was owned for a continuous period of at least 10 years, ending with the date of the sale or exchange, by the United States person who sold or exchanged such stock. In the case of stock sold or exchanged by a corporation, if United States persons who are individuals, estates, or trusts (each of whom owned within the meaning of section 958(a), or were considered as owning by applying the rules of ownership of section 958(b), 10 percent or more of the total combined voting power of all classes of stock entitled to vote of such corporation) owned, or were considered as owning, at any time during the 10-year period ending on the date of the sale or exchange more than 50 percent of the total combined voting power of all classes of stock entitled to vote such corporation, this paragraph shall apply only if such United States persons owned, or were considered as owning, at all times during the remainder of such 10-year periodmore than 50 percent of the total combined voting power of all classes of stock entitled to vote of such corporation. For purposes of this paragraph, stock owned by a United States person who is an individual, estate, or trust which was acquired by reason of the death of the predecessor in interest of such United States person shall be considered as owned by such United States person during the period such stock was owned by such predecessor in interest, and during the period such stock was owned by any other predecessor in interest if between such United States person and such other predecessor in interest there was no transfer other than by reason of the death of an individual.”
 
 Subsec. (e). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
@@ -235,6 +251,10 @@ Subsec. (h). Pub. L. 94–455, §1042(c)(1), (3)(C), redesignated former subsec.
 1969—Subsec. (c)(1). Pub. L. 91–172 inserted reference to the exception provided for in section 312(m)(3).
 
 1966—Subsec. (d)(4). Pub. L. 89–809 provided that for taxable years beginning after December 31, 1966, the earnings and profits of the foreign corporation, for purposes of this section, is not to include income effectively connected with the conduct of a trade or business within the United States, and inserted provision that the exclusion does not apply to income which is exempt from tax or subject to a reduced rate of tax pursuant to a treaty.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–188 effective, except as otherwise expressly provided, as if included in the provision of the Revenue Reconciliation Act of 1990, Pub. L. 101–508, title XI, to which such amendment relates, see section 1702(i) of Pub. L. 104–188, set out as a note under section 38 of this title.
 
 #### Effective Date of 1988 Amendment
 

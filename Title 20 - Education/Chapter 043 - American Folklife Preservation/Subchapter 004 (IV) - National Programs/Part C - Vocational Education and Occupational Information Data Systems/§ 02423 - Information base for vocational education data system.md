@@ -48,7 +48,7 @@
 
 &emsp;&emsp;(VII) the ages of such students.
 
-(C) In conducting the study required by this subsection, the General Accounting Office may consider and include information from other sources to address or augment the issues considered in the study.
+(C) In conducting the study required by this subsection, the General Accounting Office mayconsider and include information from other sources to address or augment the issues considered in the study.
 
 (4) The General Accounting Office shall submit to the appropriate committees of the Congress a report describing the results of the study conducted as required by this subsection not later than July 1, 1995.
 

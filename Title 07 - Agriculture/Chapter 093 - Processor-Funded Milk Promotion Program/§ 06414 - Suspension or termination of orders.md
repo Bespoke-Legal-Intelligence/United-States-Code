@@ -2,7 +2,7 @@
 
 #### (a) Termination of order
 
-Any order effective under this chapter shall be terminated December 31, 1996. The Secretary shall—
+Any order effective under this chapter shall be terminated December 31, 2002. The Secretary shall—
 
 &emsp;(1) terminate the collection of assessments under the order upon such date; and
 
@@ -16,7 +16,7 @@ The Secretary shall, whenever the Secretary finds that the order or any provisio
 
 #### (1) In general
 
-&emsp;The Secretary may conduct at any time a referendum of persons who, during a representative period as determined by the Secretary, have been fluid milk processors on whether to suspend or terminate the order, and shall hold such a referendum on request of the Board or any group of such processors that among them marketed during a representative period, as determined by the Secretary, 10 percent or more of the volume of fluid milk products marketed by all processors.
+&emsp;The Secretary may conduct at any time a referendum of persons who, during a representative period as determined by the Secretary, have been fluid milk processors on whether to suspend or terminate the order, and shall hold such a referendum on request of the Board or any group of such processors that among them marketed during a representative period, as determined by the Secretary, 10 percent or more of the volume of fluid milk products marketed by fluid milk processors voting in the preceding referendum.
 
 #### (2) Suspension or termination
 
@@ -24,7 +24,7 @@ The Secretary shall, whenever the Secretary finds that the order or any provisio
 
 &emsp;&emsp;(A) by at least 50 percent of fluid milk processors voting in the referendum; and
 
-&emsp;&emsp;(B) by fluid milk processors voting in the referendum that marketed during a representative period, as determined by the Secretary, 40 percent or more of the volume of fluid milk products marketed by all processors;
+&emsp;&emsp;(B) by fluid milk processors voting in the referendum that marketed during a representative period, as determined by the Secretary, 40 percent or more of the volume of fluid milk products marketed by fluid milk processors voting in the referendum;
 
 > &emsp;the Secretary shall, within 6 months after making the determination, suspend or terminate, as appropriate, collection of assessments under the order, and suspend or terminate, as appropriate, activities under the order in an orderly manner as soon as practicable.
 
@@ -32,5 +32,13 @@ The Secretary shall, whenever the Secretary finds that the order or any provisio
 
 &emsp;Subsections (c) and (d) of section 6413 of this title shall apply to a referendum conducted under this subsection.
 
-(Pub. L. 101–624, title XIX, §1999O, Nov. 28, 1990, 104 Stat. 3925.)
+(Pub. L. 101–624, title XIX, §1999O, Nov. 28, 1990, 104 Stat. 3925; (As amended Pub. L. 104–127, title I, §146(d)(2), (e), Apr. 4, 1996, 110 Stat. 919.)
+
+#### Amendments
+
+1996—Subsec. (a). Pub. L. 104–127, §146(e), substituted “2002” for “1996” in introductory provisions.
+
+Subsec. (c)(1). Pub. L. 104–127, §146(d)(2)(A), substituted “fluid milk processors voting in the preceding referendum” for “all processors”.
+
+Subsec. (c)(2)(B). Pub. L. 104–127, §146(d)(2)(B), substituted “fluid milk processors voting in the referendum;” for “all processors;”.
 

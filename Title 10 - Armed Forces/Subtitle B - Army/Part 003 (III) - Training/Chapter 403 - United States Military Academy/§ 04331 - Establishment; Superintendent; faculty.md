@@ -28,6 +28,20 @@ Historical and Revision Notes
 
 4331(a)
 
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 4331(b)
 
 10:1061.
@@ -132,7 +146,7 @@ Prohibition.—Except as provided in subsection (b), no charge or fee for tuitio
 
 “(b)
 
-Exception.—The prohibition specified in subsection (a) shall not apply with respect to any item or service provided to cadets or midshipmen at an academy named in subsection (c) for which a charge or fee is imposed as of the date of the enactment of this Act. The Secretary of Defense or the Secretary of Transportation, as the case shall be, shall notify Congress of any change made by an academy in the amount of a charge or fee authorized under this subsection.
+Exception.—The prohibition specified in subsection (a) shall not apply with respect to any item or service provided to cadets or midshipmen at an academy named in subsection (c) for which a charge or fee is imposed as of the date of the enactment of this Act.The Secretary of Defense or the Secretary of Transportation, as the case shall be, shall notify Congress of any change made by an academy in the amount of a charge or fee authorized under this subsection.
 
 “(c)
 
@@ -150,19 +164,7 @@ Covered Academies.—This section applies to the following:
 
 #### Test Program To Evaluate Use of Private Preparatory Schools for Service Academy Preparatory School Mission
 
-Section 536 of Pub. L. 103–160 provided that:
-
-“(a)
-
-Test Program.—The Secretary of Defense shall conduct a test program to determine the efficiency and cost effectiveness of using schools in the private sector as an alternative to the existing schools used for the mission of operating a military preparatory school program for one or more of the service academies. The Secretary shall carry out the test program through the Under Secretary of Defense for Personnel and Readiness.
-
-“(b)
-
-Priority.—The test program shall be carried out so as to give priority to the goal of enhancing opportunities for minorities, women, and prior enlisted personnel to attend service academies.
-
-“(c)
-
-Exclusion From Academy Strength Limitations.—Any individual who is admitted to one of the three service academies following completion of a program of instruction at a private sector preparatory school under the test program shall be excluded from the computation of the size of the corps of cadets or brigade of midshipmen, as the case may be, for purposes of strength ceilings imposed by law.”
+Section 536 of Pub. L. 103–160 required Secretary of Defense to conduct test program to determine efficiency and cost effectiveness of using schools in private sector as alternative to existing schools used for mission of operating military preparatory school program for one or more of the service academies, prior to repeal by Pub. L. 104–106, div. A, title V, §534, Feb. 10, 1996, 110 Stat. 315.
 
 #### Colonel Thomas Hawkins Johnson Visiting Scholar Program and Lecture Series
 

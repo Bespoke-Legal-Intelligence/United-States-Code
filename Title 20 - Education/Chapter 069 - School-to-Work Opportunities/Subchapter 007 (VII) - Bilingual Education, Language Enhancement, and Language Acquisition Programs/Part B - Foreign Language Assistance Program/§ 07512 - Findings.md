@@ -2,7 +2,7 @@
 
 The Congress finds as follows:
 
-&emsp;(1) Foreign language proficiency is crucial to our Nation's economic competitiveness and national security. Significant improvement in the quantity and quality of foreign languageinstruction offered in our Nation's elementary and secondary schools is necessary.
+&emsp;(1) Foreign language proficiency is crucial to our Nation's economic competitiveness and national security. Significant improvement in the quantity and quality of foreign language instruction offered in our Nation's elementary and secondary schools is necessary.
 
 &emsp;(2) All Americans need a global perspective. To understand the world around us, we must acquaint ourselves with the languages, cultures, and history of other nations.
 

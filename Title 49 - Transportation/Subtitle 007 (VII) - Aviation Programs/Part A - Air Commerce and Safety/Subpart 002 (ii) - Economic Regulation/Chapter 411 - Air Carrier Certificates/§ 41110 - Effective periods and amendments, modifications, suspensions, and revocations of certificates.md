@@ -6,7 +6,7 @@ General.—(1) Each certificate issued under section 41102 of this title is effe
 
 &emsp;(A) the Secretary of Transportation suspends or revokes the certificate under this section;
 
-&emsp;(B) the end of the period the Secretary specifies for an air carrier having a certificate of temporary authority issued under section 41102(a)(2) of this title; or
+&emsp;(B) the end of the period the Secretary specifies for an air carrier having a certificate oftemporary authority issued under section 41102(a)(2) of this title; or
 
 &emsp;(C) the Secretary certifies that transportation is no longer being provided under a certificate.
 
@@ -74,7 +74,9 @@ Historical and Revision Notes
 
 Pub. L. 103–272
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -88,7 +90,7 @@ Aug. 23, 1958, Pub. L. 85–726, §401(f), 72 Stat. 755; Oct. 24, 1978, Pub. L. 
 
 &nbsp;
 
-49 App.:1551(b) (1)(E).
+49 App.:1551(b)(1)(E).
 
 Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1601(b)(1)(E); added Oct. 4, 1984, Pub. L. 98–443, §3(e), 98 Stat. 1704.
 
@@ -100,7 +102,7 @@ Aug. 23, 1958, Pub. L. 85–726, §401(g), 72 Stat. 756; Oct. 24, 1978, Pub. L. 
 
 &nbsp;
 
-49 App.:1551(b) (1)(E).
+49 App.:1551(b)(1)(E).
 
 41110(b)
 
@@ -110,7 +112,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §418(b)(4); added Nov. 9, 1977, 
 
 &nbsp;
 
-49 App.:1551(b) (1)(E).
+49 App.:1551(b)(1)(E).
 
 41110(c)
 
@@ -118,7 +120,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §418(b)(4); added Nov. 9, 1977, 
 
 &nbsp;
 
-49 App.:1551(b) (1)(E).
+49 App.:1551(b)(1)(E).
 
 41110(d)
 
@@ -128,13 +130,13 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §401(d)(8) (last sentence); adde
 
 &nbsp;
 
-49 App.:1551(a) (1)(B).
+49 App.:1551(a)(1)(B).
 
 Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1601(a)(1)(B); added Oct. 24, 1978, Pub. L. 95–504, §40(a), 92 Stat. 1744.
 
 &nbsp;
 
-49 App.:1551(b) (1)(E).
+49 App.:1551(b)(1)(E).
 
 41110(e)
 
@@ -144,7 +146,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §401(r) (related to certificate)
 
 &nbsp;
 
-49 App.:1551(b) (1)(E).
+49 App.:1551(b)(1)(E).
 
 41110(f)
 
@@ -158,7 +160,7 @@ Aug. 15, 1985, Pub. L. 99–88, §100 (1st complete par. related to certificate 
 
 &nbsp;
 
-49 App.:1551(b) (1)(E).
+49 App.:1551(b)(1)(E).
 
 In subsection (a)(1)(C), the words “transportation is no longer being provided under a certificate” are substituted for “operation thereunder has ceased” and “operations thereunder have ceased” for clarity and consistency.
 

@@ -26,7 +26,9 @@ Reports to Congress.—The Secretary shall submit to Congress on January 1 of ea
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

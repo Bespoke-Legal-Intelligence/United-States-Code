@@ -2,7 +2,7 @@
 
 For the purposes of this chapter—
 
-(1) The term “employment handicap” means an impairment of a veteran's ability to prepare for, obtain, or retain employment consistent with such veteran's abilities, aptitudes, and interests.
+(1) The term “employment handicap” means an impairment, resulting in substantial part from a disability described in section 3102(1)(A) of this title, of a veteran's ability to prepare for, obtain, or retain employment consistent with such veteran's abilities, aptitudes, and interests.
 
 (2) The term “independence in daily living” means the ability of a veteran, without the services of others or with a reduced level of the services of others, to live and function within such veteran's family and community.
 
@@ -12,9 +12,9 @@ For the purposes of this chapter—
 
 (5) The term “rehabilitated to the point of employability” means rendered employable in an occupation for which a vocational rehabilitation program has been provided under this chapter.
 
-(6) The term “rehabilitation program” means (A) a vocational rehabilitation program, or (B) a program of independent living services and assistance for a veteran for whom a vocational goal has been determined not to be currently reasonably feasible.
+(6) The term “rehabilitation program” means (A) a vocational rehabilitation program, or (B) a program of independent living services and assistance authorized under section 3120 of this title for a veteran for whom a vocational goal has been determined not to be currently reasonably feasible.
 
-(7) The term “serious employment handicap” means a significant impairment of a veteran's ability to prepare for, obtain, or retain employment consistent with such veteran's abilities, aptitudes, and interests.
+(7) The term “serious employment handicap” means a significant impairment, resulting in substantial part from a service-connected disability rated at 10 percent or more, of a veteran's ability to prepare for, obtain, or retain employment consistent with such veteran's abilities, aptitudes, and interests.
 
 (8) The term “vocational goal” means a gainful employment status consistent with a veteran's abilities, aptitudes, and interests.
 
@@ -28,13 +28,19 @@ For the purposes of this chapter—
 
 &emsp;(B) the assistance authorized by this chapter for a veteran receiving any of the services described in clause (A) of this paragraph.
 
-(Added Pub. L. 96–466, title I, §101(a), Oct. 17, 1980, 94 Stat. 2172, §1501; amended Pub. L. 99–576, title III, §333(b)(1), Oct. 28, 1986, 100 Stat. 3279; Pub. L. 101–237, title IV, §423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; renumbered §3101 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406.)
+(Added Pub. L. 96–466, title I, §101(a), Oct. 17, 1980, 94 Stat. 2172, §1501; amended Pub. L. 99–576, title III, §333(b)(1), Oct. 28, 1986, 100 Stat. 3279; Pub. L. 101–237, title IV, §423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; renumbered §3101 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 104–275, title I, §101(a), Oct. 9, 1996, 110 Stat. 3323.)
 
 #### Prior Provisions
 
 Prior section 3101 was renumbered section 5301 of this title.
 
 #### Amendments
+
+1996—Par. (1). Pub. L. 104–275, §101(a)(1), inserted “, resulting in substantial part from a disability described in section 3102(1)(A) of this title,” after “impairment”.
+
+Par. (6). Pub. L. 104–275, §101(a)(2), inserted “authorized under section 3120 of this title” after “assistance”.
+
+Par. (7). Pub. L. 104–275, §101(a)(3), inserted “, resulting in substantial part from a service-connected disability rated at 10 percent or more,” after “impairment”.
 
 1991—Pub. L. 102–83, §5(a), renumbered section 1501 of this title as this section.
 
@@ -43,6 +49,14 @@ Par. (3). Pub. L. 102–83, §5(c)(1), substituted “3452(b)” for “1652(b)�
 1989—Pars. (4), (9)(A). Pub. L. 101–237 substituted “Secretary” for “Administrator”.
 
 1986—Pars. (6)(B), (9)(A)(i). Pub. L. 99–576 inserted “currently” after “be”.
+
+#### Effective Date of 1996 Amendment
+
+Section 101(j) of Pub. L. 104–275 provided that:
+
+“(1) Except as provided in paragraph (2), the amendments made by this section \[amending this section and sections 3102 to 3109, 3117, 3118, and 3120 of this title\] shall take effect on the date of the enactment of this Act \[Oct. 9, 1996\].
+
+“(2) The amendments made by subsection (a) (other than paragraph (2)) \[amending this section\], subsection (d) (other than subparagraphs (A) and (B) of paragraph (1)) \[amending section 3104 of this title\], and subsection\(i) \[amending section 3120 of this title\] shall only apply with respect to claims of eligibility or entitlement to services and assistance (including claims for extension of such services and assistance) under chapter 31 of title 38, United States Code, received by the Secretary of Veterans Affairs on or after the date of the enactment of this Act, including those claims based on original applications, and applications seeking to reopen, revise, reconsider, or otherwise adjudicate or readjudicate on any basis claims for services and assistance under such chapter.”
 
 #### Effective Date
 

@@ -24,9 +24,8 @@ The tax imposed by this section shall be the amount equal to the excess (if any)
 
 &nbsp;
 
-| &nbsp; | &nbsp; |
+| <b>If the amount with respect to which the tentative tax to be computed is:</b> | <b>The tentative tax is:</b> |
 | :--- | ---: |
-| <b>If the amount with respect to which the tentative tax to be computed is:</b> | <b>The tentative tax is:</b> |
 | Not over $10,000 | 18 percent of such amount. |
 | Over $10,000 but not over $20,000 | $1,800, plus 20 percent of the excess of such amount over $10,000. |
 | Over $20,000 but not over $40,000 | $3,800, plus 22 percent of the excess of such amount over $20,000. |
@@ -99,7 +98,7 @@ Subsec. (c). Pub. L. 97–34, §402(a), (b)(1), designated existing provision as
 
 #### Effective Date of 1993 Amendment
 
-Section 13208(c) of Pub. L. 103–66 provided that: “The amendments made by this section \[amending this section and section 2101 of this title\] shall apply in the case of decedents dying and gifts made after December 31, 1992.”
+Section 13208(c) of Pub. L. 103–66 provided that: “The amendments made by this section \[amending this section and section 2101 of this title\] shall apply in thecase of decedents dying and gifts made after December 31, 1992.”
 
 #### Effective Date of 1987 Amendment
 

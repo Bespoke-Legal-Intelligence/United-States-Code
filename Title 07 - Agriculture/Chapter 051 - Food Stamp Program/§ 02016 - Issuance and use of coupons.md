@@ -6,7 +6,7 @@ Coupons shall be printed under such arrangements and in such denominations as ma
 
 #### (b) Approved food stores; receipt of cash in change for coupons used to purchase food
 
-Coupons issued to eligible households shall be used by them only to purchase food in retail food stores which have been approved for participation in the food stamp program at prices prevailing in such stores: <i>Provided,</i> That nothing in this chapter shall be construed as authorizing the Secretary to specify the prices at which food may be sold by wholesale food concerns or retail food stores: <i>Provided further,</i> That eligible households using coupons to purchase food may receive cash in change therefor so long as the cash received does not equal or exceed the value of the lowest coupon denomination issued.
+Coupons issued to eligible households shall be used by them only to purchase food in retail food stores which have been approved for participation in the food stamp program at prices prevailing in such stores: <i>Provided</i>, That nothing in this chapter shall be construed as authorizing the Secretary to specify the prices at which food may be sold by wholesale food concerns or retail food stores: <i>Provided further</i>, That eligible households using coupons to purchase food may receive cash in change therefor so long as the cash received does not equal or exceed the value of the lowest coupon denomination issued.
 
 #### (c) Design of coupons
 
@@ -22,7 +22,7 @@ The Secretary shall prescribe appropriate procedures for the delivery of coupons
 
 #### (f) State issuance liability
 
-Notwithstanding any other provision of this chapter, the State agency shall be strictly liable to the Secretary for any financial losses involved in the acceptance, storage and issuance of coupons, including any losses involving failure of a coupon issuer to comply with the requirements specified in section 2020(e)(20) of this title, except that in the case of losses resulting from the issuance and replacement of authorizations for coupons and allotments which are sent through the mail, the State agency shall be liable to the Secretary to the extent prescribed in the regulations promulgated by the Secretary.
+Notwithstanding any other provision of this chapter, the State agency shall be strictly liable to the Secretary for any financial losses involved in the acceptance, storage and issuance of coupons, including any losses involving failure of a coupon issuer to comply with the requirements specified in section 2020(e)(20) <sup>1</sup> of this title, except that in the case of losses resulting from the issuance and replacement of authorizations for coupons and allotments which are sent through the mail, the State agency shall be liable to the Secretary to the extent prescribed in the regulations promulgated by the Secretary.
 
 #### (g) Alternative system or documents; costs
 
@@ -40,29 +40,55 @@ Notwithstanding any other provision of this chapter, the State agency shall be s
 
 (2) Any procedure established under paragraph (1) shall not reduce the allotment of any household and shall ensure that no household experiences an interval between issuances of more than 40 days. The procedure may include issuing a household's benefits in more than one issuance.
 
-#### (i) Electronic benefits issuance
+#### (i) Electronic benefit transfers
 
-(1)(A) Any State agency may, with the approval of the Secretary, implement an on-line electronic benefit transfer system in which household benefits determined under section 2017(a) of this title are issued from and stored in a central data bank and electronically accessed by household members at the point-of-sale.
+(1)
 
-(B) No State agency may implement or expand an electronic benefit transfer system without prior approval from the Secretary.
+In general.—
 
-(2) The Secretary shall issue final regulations effective no later than April 1, 1992, that establish standards for the approval of such a system. The standards shall include—
+&emsp;(A)
 
-&emsp;(A) determining the cost-effectiveness of the system to ensure that its operational cost, including the pro rata cost of capital expenditures and other reasonable startup costs, does not exceed, in any 1 year, the operational cost of issuance systems in use prior to the implementation of the on-line electronic benefit transfer system;
+Implementation.—Not later than October 1, 2002, each State agency shall implement an electronic benefit transfer system under which household benefits determined under section 2017(a) or 2035 of this title are issued from and stored in a central databank, unless the Secretary provides a waiver for a State agency that faces unusual barriers to implementing an electronic benefit transfer system.
+
+&emsp;(B)
+
+Timely implementation.—Each State agency is encouraged to implement an electronic benefit transfer system under subparagraph (A) as soon as practicable.
+
+&emsp;(C)
+
+State flexibility.—Subject to paragraph (2), a State agency may procure and implement an electronic benefit transfer system under the terms, conditions, and design that the State agency considers appropriate.
+
+&emsp;(D)
+
+Operation.—An electronic benefit transfer system should take into account generally accepted standard operating rules based on—
+
+&emsp;&emsp;(i) commercial electronic funds transfer technology;
+
+&emsp;&emsp;(ii) the need to permit interstate operation and law enforcement monitoring; and
+
+&emsp;&emsp;(iii) the need to permit monitoring and investigations by authorized law enforcement agencies.
+
+(2) The Secretary shall issue final regulations that establish standards for the approval of such a system. The standards shall include—
+
+&emsp;(A) determining the cost-effectiveness of the system to ensure that its operational cost, including the pro rata cost of capital expenditures and other reasonable startup costs, does not exceed the operational cost of issuance systems in use prior to the implementation of the electronic benefit transfer system;
 
 &emsp;(B) defining the required level of recipient protection regarding privacy, ease of use, and access to and service in retail food stores;
 
 &emsp;(C) the terms and conditions of participation by retail food stores, financial institutions, and other appropriate parties;
 
-&emsp;(D) system security;
+&emsp;(D)(i) measures to maximize the security of a system using the most recent technology available that the State agency considers appropriate and cost effective and which may include personal identification numbers, photographic identification on electronic benefit transfer cards, and other measures to protect against fraud and abuse; and
+
+&emsp;(ii) effective not later than 2 years after August 22, 1996, to the extent practicable, measures that permit a system to differentiate items of food that may be acquired with an allotment from items of food that may not be acquired with an allotment;
 
 &emsp;(E) system transaction interchange, reliability, and processing speeds;
 
 &emsp;(F) financial accountability;
 
-&emsp;(G) the required testing of system operations prior to implementation; and
+&emsp;(G) the required testing of system operations prior to implementation;
 
-&emsp;(H) the analysis of the results of system implementation in a limited project area prior to expansion.
+&emsp;(H) the analysis of the results of system implementation in a limited project area prior to expansion; and
+
+&emsp;(I) procurement standards.
 
 (3) In the case of a system described in paragraph (1) in which participation is not optional for households, the Secretary shall not approve such a system unless—
 
@@ -72,7 +98,7 @@ Notwithstanding any other provision of this chapter, the State agency shall be s
 
 &emsp;&emsp;(i) in the case of a participating retail food store in which coupons are used to purchase 15 percent or more of the total dollar amount of food sold by the store (as determined by the Secretary), at all registers in the store; and
 
-&emsp;&emsp;(ii) in the case of other participating stores, at a sufficient number of registers toprovide service that is comparable to service provided individuals who are not members of food stamp households, as determined by the Secretary.
+&emsp;&emsp;(ii) in the case of other participating stores, at a sufficient number of registers to provide service that is comparable to service provided individuals who are not members of food stamp households, as determined by the Secretary.
 
 (4) Administrative costs incurred in connection with activities under this subsection shall be eligible for reimbursement in accordance with section 2025 of this title, subject to the limitations in section 2025(g) of this title.
 
@@ -80,9 +106,97 @@ Notwithstanding any other provision of this chapter, the State agency shall be s
 
 (6) This subsection shall not diminish the authority of the Secretary to conduct projects to test automated or electronic benefit delivery systems under section 2026(f) of this title.
 
-(Pub. L. 88–525, §7, Aug. 31, 1964, 78 Stat. 705; Pub. L. 91–671, §5, Jan. 11, 1971, 84 Stat. 2050; Pub. L. 93–86, §3(m), Aug. 10, 1973, 87 Stat. 248; Pub. L. 93–125, §1(k), Oct. 18, 1973, 87 Stat. 450; Pub. L. 94–339, §2, July 5, 1976, 90 Stat. 799; Pub. L. 95–113, title XIII, §1301, Sept. 29, 1977, 91 Stat. 967; Pub. L. 97–98, title XIII, §1312, Dec. 22, 1981, 95 Stat. 1285; Pub. L. 97–253, title I, §§162, 190(c)(2), Sept. 8, 1982, 96 Stat. 778, 787; Pub. L. 99–198, title XV, §§1518, 1519, Dec. 23, 1985, 99 Stat. 1578; Pub. L. 100–435, title II, §203(b), Sept. 19, 1988, 102 Stat. 1657; Pub. L. 101–624, title XVII, §§1728, 1729(a), Nov. 28, 1990, 104 Stat. 3788, 3789; Pub. L. 103–225, title I, §102, Mar. 25, 1994, 108 Stat. 107.)
+(7)
+
+Replacement of benefits.—Regulations issued by the Secretary regarding the replacement of benefits and liability for replacement of benefits under an electronic benefit transfer system shall be similar to the regulations in effect for a paper-based food stamp issuance system.
+
+(8)
+
+Replacement card fee.—A State agency may collect a charge for replacement of an electronic benefit transfer card by reducing the monthly allotment of the household receiving the replacement card.
+
+(9)
+
+Optional photographic identification.—
+
+&emsp;(A)
+
+In general.—A State agency may require that an electronic benefit card contain a photograph of 1 or more members of a household.
+
+&emsp;(B)
+
+Other authorized users.—If a State agency requires a photograph on an electronic benefit card under subparagraph (A), the State agency shall establish procedures to ensure that any other appropriate member of the household or any authorized representative of the household may utilize the card.
+
+(10)
+
+Applicable law.—Disclosures, protections, responsibilities, and remedies established by the Federal Reserve Board under section 1693b of title 15 shall not apply to benefits under this chapter delivered through any electronic benefit transfer system.
+
+(11)
+
+Application of anti-tying restrictions to electronic benefit transfer systems.—
+
+&emsp;(A)
+
+Definitions.—In this paragraph:
+
+&emsp;&emsp;(i)
+
+Affiliate.—The term “affiliate” has the meaning provided the term in section 1841(k) of title 12.
+
+&emsp;&emsp;(ii)
+
+Company.—The term “company” has the meaning provided the term in section 1971 of title 12, but shall not include a bank, a bank holding company, or any subsidiary of a bank holding company.
+
+&emsp;&emsp;(iii)
+
+Electronic benefit transfer service.—The term “electronic benefit transferservice” means the processing of electronic transfers of household benefits, determined under section 2017(a) or 2035 of this title, if the benefits are—
+
+&emsp;&emsp;&emsp;(I) issued from and stored in a central databank;
+
+&emsp;&emsp;&emsp;(II) electronically accessed by household members at the point of sale; and
+
+&emsp;&emsp;&emsp;(III) provided by a Federal or State government.
+
+&emsp;&emsp;(iv)
+
+Point-of-sale service.—The term “point-of-sale service” means any product or service related to the electronic authorization and processing of payments for merchandise at a retail food store, including credit or debit card services, automated teller machines, point-of-sale terminals, or access to on-line systems.
+
+&emsp;(B)
+
+Restrictions.—A company may not sell or provide electronic benefit transfer services, or fix or vary the consideration for electronic benefit transfer services, on the condition or requirement that the customer—
+
+&emsp;&emsp;(i) obtain some additional point-of-sale service from the company or an affiliate of the company; or
+
+&emsp;&emsp;(ii) not obtain some additional point-of-sale service from a competitor of the company or competitor of any affiliate of the company.
+
+&emsp;(C)
+
+Consultation with the federal reserve board.—Before promulgating regulations or interpretations of regulations to carry out this paragraph, the Secretary shall consult with the Board of Governors of the Federal Reserve System.
+
+(Pub. L. 88–525, §7, Aug. 31, 1964, 78 Stat. 705; Pub. L. 91–671, §5, Jan. 11, 1971, 84 Stat. 2050; Pub. L. 93–86, §3(m), Aug. 10, 1973, 87 Stat. 248; Pub. L. 93–125, §1(k), Oct. 18, 1973, 87 Stat. 450; Pub. L. 94–339, §2, July 5, 1976, 90 Stat. 799; Pub. L. 95–113, title XIII, §1301, Sept. 29, 1977, 91 Stat. 967; Pub. L. 97–98, title XIII, §1312, Dec. 22, 1981, 95 Stat. 1285; Pub. L. 97–253, title I, §§162, 190(c)(2), Sept. 8, 1982, 96 Stat. 778, 787; Pub. L. 99–198, title XV, §§1518, 1519, Dec. 23, 1985, 99 Stat. 1578; Pub. L. 100–435, title II, §203(b), Sept. 19, 1988, 102 Stat. 1657; Pub. L. 101–624, title XVII, §§1728, 1729(a), Nov. 28, 1990, 104 Stat. 3788, 3789; Pub. L. 103–225, title I, §102, Mar. 25, 1994, 108 Stat. 107; Pub. L. 104–193, title VIII, §825(a), Aug. 22, 1996, 110 Stat. 2324.)
+
+#### References in Text
+
+Section 2020(e)(20) of this title, referred to in subsec. (f), was redesignated section 2020(e)(19) of this title by Pub. L. 104–193, title VIII, §835(1)(D)(i), Aug. 22, 1996, 110 Stat. 2330.
 
 #### Amendments
+
+1996—Subsec. (i). Pub. L. 104–193, §825(a)(1), inserted subsec. heading.
+
+Subsec. (i)(1). Pub. L. 104–193, §825(a)(1), added par. (1) and struck out former par. (1) which read as follows:
+
+“(1)(A) Any State agency may, with the approval of the Secretary, implement an on-line electronic benefit transfer system in which household benefits determined under section 2017(a) of this title are issued from and stored in a central data bank and electronically accessed by household members at the point-of-sale.
+
+“(B) No State agency may implement or expand an electronic benefit transfer system without prior approval from the Secretary.”
+
+Subsec. (i)(2). Pub. L. 104–193, §825(a)(2)(A), struck out “effective no later than April 1, 1992,” after “regulations” in introductory provisions.
+
+Subsec. (i)(2)(A). Pub. L. 104–193, §825(a)(2)(B), struck out “, in any 1 year,” after “does not exceed” and “on-line” before “electronic benefit”.
+
+Subsec. (i)(2)(D). Pub. L. 104–193, §825(a)(2)(C), added subpar. (D) and struck out former subpar. (D) which read as follows: “system security;”.
+
+Subsec. (i)(2)(I). Pub. L. 104–193, §825(a)(2)(D)–(F), added subpar. (I).
+
+Subsec. (i)(7) to (11). Pub. L. 104–193, §825(a)(3), added pars. (7) to (11).
 
 1994—Subsec. (h)(1). Pub. L. 103–225 inserted second sentence and struck out former second sentence which read as follows: “The State agency shall establish such a procedure for eligible households residing on reservations.”
 
@@ -112,7 +226,7 @@ Pub. L. 93–86 substituted provisions relating to determination of semiannual a
 
 1971—Subsec. (a). Pub. L. 91–671 substituted provision for issuance of coupon allotment in such amount as the Secretary determines to be the cost of a nutritionally adequate diet, adjusted annually to reflect changes in prices of food published by Bureau of Labor Statistics for prior provision for issuance in such amount as will provide households with an opportunity more nearly to obtain a low-cost nutritionally adequate diet and inserted “any” before “households”.
 
-Subsec. (b). Pub. L. 91–671 substituted provisions respecting charges to households for coupon allotments representing reasonable investment on part of the households, issuance of coupon allotments without charge where monthly income is less than $30 for a family of four, and election of coupon allotment with a lesser face value than the face value authorized to be issued for prior provision for a charge determined to be equivalent to normal expenditures for food.
+Subsec. (b). Pub. L. 91–671 substituted provisions respecting charges to households for coupon allotments representing reasonable investment on part of the households, issuance of coupon allotments withoutcharge where monthly income is less than $30 for a family of four, and election of coupon allotment with a lesser face value than the face value authorized to be issued for prior provision for a charge determined to be equivalent to normal expenditures for food.
 
 #### Effective Date of 1990 Amendment
 
@@ -138,7 +252,7 @@ Section 1301 of Pub. L. 95–113 provided that the amendment made by that sectio
 
 #### Suspension of Staggered Issuance of Food Stamp Coupons
 
-Pub. L. 102–237, title IX, §908(a)(1), Dec. 13, 1991, 105 Stat. 1886, as amended by Pub. L. 103–11, §1, Apr. 1, 1993, 107 Stat. 41; Pub. L. 103–205, §1, Dec. 17, 1993, 107 Stat.2418, provided that no State agency be required to implement 7 U.S.C. 2016(h)(1), regarding staggering of issuance of food stamp coupons, until Mar. 15, 1994, and directed Secretary of Agriculture to issue final regulations requiring staggered issuance of coupons no later than Dec. 1, 1992, prior to repeal by Pub. L. 103–225, title I, §104(a), Mar. 25, 1994, 108 Stat. 107.
+Pub. L. 102–237, title IX, §908(a)(1), Dec. 13, 1991, 105 Stat. 1886, as amended by Pub. L. 103–11, §1, Apr. 1, 1993, 107 Stat. 41; Pub. L. 103–205, §1, Dec. 17, 1993, 107 Stat. 2418, provided that no State agency be required to implement 7 U.S.C. 2016(h)(1), regarding staggering of issuance of food stamp coupons, until Mar. 15, 1994, and directed Secretary of Agriculture to issue final regulations requiring staggered issuance of coupons no later than Dec. 1, 1992, prior to repeal by Pub. L. 103–225, title I, §104(a), Mar. 25, 1994, 108 Stat. 107.
 
 #### Food Stamp Coupons, Cost Increase Suspension
 
@@ -146,5 +260,7 @@ Pub. L. 94–4, Feb. 20, 1975, 89 Stat. 6, provided that notwithstanding the pro
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2024, 2026, 2027 of this title.
+This section is referred to in sections 2024, 2026, 2027, 2035 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

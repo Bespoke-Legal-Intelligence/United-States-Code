@@ -6,7 +6,7 @@ During the intervals between the national convention the executive officers shal
 
 #### (b) Initial officers
 
-Upon the enactment of this chapter the membership of the initial executive officers of the corporation shall consist of the executive officers of the National Woman's Relief Corps, Auxiliary to the Grand Army of the Republic, the corporation described in section 1018 of this title, or such of them as may then be living and are qualified members of said executive officers, to wit: Mabel R. Ginder, Jessie Johnston, Irene Randolph, Bessie K. Coughlin, Ocie M. Tumey,Mary J. Love, Laura I. Smith, Ethel Ferris Hasenbuhler, and Marie Morgan.
+Upon the enactment of this chapter the membership of the initial executive officers of the corporation shall consist of the executive officers of the National Woman's Relief Corps, Auxiliary to the Grand Army of the Republic, the corporation described in section 1018 of this title, or such of them as may then be living and are qualified members of said executive officers, to wit: Mabel R. Ginder, Jessie Johnston, Irene Randolph, Bessie K. Coughlin, Ocie M. Tumey, Mary J. Love, Laura I. Smith, Ethel Ferris Hasenbuhler, and Marie Morgan.
 
 #### (c) Council of administration
 

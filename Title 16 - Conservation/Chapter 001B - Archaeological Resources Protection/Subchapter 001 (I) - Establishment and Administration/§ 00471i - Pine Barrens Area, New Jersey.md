@@ -12,7 +12,7 @@ The Congress finds that—
 
 &emsp;(4) in view of the longstanding Federal practice of assisting the States in creating, protecting, preserving, and enhancing areas of significant regional and urban importance, and in view of the national significance of this resource, the Federal Government has an interest in assisting the State of New Jersey and its local units of government in fulfilling their responsibilities and in avoiding adverse Federally approved or assisted impacts before these responsibilities can be undertaken;
 
-&emsp;(5) the State of New Jersey and its local units of government have authority to preventor minimize adverse uses of the land and water resources of the Pinelands area and can, to a great extent, protect the health, safety, and general welfare by the use of such authority; and
+&emsp;(5) the State of New Jersey and its local units of government have authority to prevent or minimize adverse uses of the land and water resources of the Pinelands area and can, to a great extent, protect the health, safety, and general welfare by the use of such authority; and
 
 &emsp;(6) there is a demonstrated need to protect, preserve and enhance the land and water resources of the Pinelands area through a new program which combines the capabilities and resources of the local, State and Federal governments and the private sector and provides an alternative to large-scale direct Federal acquisition and management in cases where such acquisition and management is inappropriate.
 
@@ -58,7 +58,7 @@ The comprehensive management plan for the Pinelands National Reserve shall inclu
 
 &emsp;(1) A resource assessment which:
 
-&emsp;&emsp;(A) determines the amount and type of human development and activity which the ecosystem can sustain while still maintaining the overall ecological values described in this section with special reference to (i) ground and surface water supply and quality; (ii) natural hazards, including fire; (iii) endangered, unique and unusual plants and animals and biotic communities; (iv) ecological factors relating to the protection and enhancement of blueberry and cranberryproduction and other agricultural activity; (v) air quality; and (vi) other appropriate considerations affecting the ecological integrity of the area; and
+&emsp;&emsp;(A) determines the amount and type of human development and activity which the ecosystem can sustain while still maintaining the overall ecological values described in this section with special reference to (i) ground and surface water supply and quality; (ii) natural hazards, including fire; (iii) endangered, unique and unusual plants and animals and biotic communities; (iv) ecological factors relating to the protection and enhancement of blueberry and cranberry production and other agricultural activity; (v) air quality; and (vi) other appropriate considerations affecting the ecological integrity of the area; and
 
 &emsp;&emsp;(B) includes an assessment of scenic, aesthetic, cultural, open space, and outdoor recreation resources of the area together with a determination of overall policies required to maintain and enhance these resources.
 
@@ -72,7 +72,7 @@ The comprehensive management plan for the Pinelands National Reserve shall inclu
 
 &emsp;(3) A land use capability map and a comprehensive statement of policies for land use management of the area which:
 
-&emsp;&emsp;(A) consider and detail the application of a variety of land and water protection and management techniques, including but not limited to, zoning and regulation derived from State and local police powers, development and use standards and permit systems, acquisition of conservation easements and other interests in land, public access agreements with private landowners, purchase of land for resale or lease-back, fee acquisition of public recreation sites and ecologically sensitive areas and any other method of land and water protection and management which will help meet the goals and carry out the policies of the management plan;
+&emsp;&emsp;(A) consider and detail the application of a variety of land and water protection and management techniques, including but not limited to, zoning and regulation derived from State and local police powers, development and use standards and permit systems, acquisition of conservation easements and other interests in land, public access agreements with private landowners, purchase of land for resale or lease-back, fee acquisition of public recreation sites and ecologically sensitive areas and any other method of land and water protection and managementwhich will help meet the goals and carry out the policies of the management plan;
 
 &emsp;&emsp;(B) include a policy for the use of State and local police power responsibilities to the greatest extent practicable to regulate the use of land and water resources in a manner consistent with the purposes of this section; and
 
@@ -184,7 +184,7 @@ Nothing in this section shall be construed to limit or prohibit any Federal acti
 
 #### (5) Contracts and agreements
 
-&emsp;The Secretary may enter into such contracts and agreements with the State of New Jersey and other public and private entities as may be necessary and appropriate to carry out the authorities and responsibilities of the Secretary under this subsection. For purposes of this subsection, there is authorized to be appropriated not more than $500,000 to prepare and complete the study pursuant to paragraph (1) and $3,000,000 to implement the recommendations of such study upon its approval by the Congress, the Federal share of which may not exceed 75 percent of the total cost.
+&emsp;The Secretary may enter into such contracts and agreements with the State of New Jersey and other public and private entities as may be necessary and appropriate to carry out the authorities and responsibilities of the Secretary under this subsection. For purposes of this subsection, there is authorized to be appropriated not more than $500,000 to prepare and complete the study pursuant to paragraph\(1) and $3,000,000 to implement the recommendations of such study upon its approval by the Congress, the Federal share of which may not exceed 75 percent of the total cost.
 
 (Pub. L. 95–625, title V, §502, Nov. 10, 1978, 92 Stat. 3492; Pub. L. 100–486, Oct. 13, 1988, 102 Stat. 2429.)
 
@@ -204,5 +204,5 @@ Enactment of this Act, referred to in subsec. (k)(2), probably means date of ena
 
 1988—Subsec. (k). Pub. L. 100–486, §2, designated existing provisions as par. (1) and added par. (2).
 
-Subsec. (<i>l</i>). Pub. L. 100–486, §1, added subsec. (<i>l).</i>
+Subsec. (<i>l</i>). Pub. L. 100–486, §1, added subsec. (<i>l</i>).
 

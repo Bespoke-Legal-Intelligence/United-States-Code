@@ -20,7 +20,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 5 U.S.C. 856.
 
@@ -38,5 +40,5 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3314, 3315, 3320 of this title; title 22 section 1438.
+This section is referred to in sections 3314, 3315, 3320 of this title; title 10 section 1599c; title 22 section 1438.
 

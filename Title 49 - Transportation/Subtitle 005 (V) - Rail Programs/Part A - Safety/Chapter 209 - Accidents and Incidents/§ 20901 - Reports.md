@@ -18,7 +18,9 @@ Monetary Threshold for Reporting.—(1) In establishing or changing a monetary t
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -44,7 +46,7 @@ June 22, 1988, Pub. L. 100–342, §24, 102 Stat. 639.
 
 &nbsp;
 
-49 App.:1655(e) (1)(K).
+49 App.:1655(e)(1)(K).
 
 Oct. 15, 1966, Pub. L. 89–670, §6(e)(1)(K), 80 Stat. 939.
 

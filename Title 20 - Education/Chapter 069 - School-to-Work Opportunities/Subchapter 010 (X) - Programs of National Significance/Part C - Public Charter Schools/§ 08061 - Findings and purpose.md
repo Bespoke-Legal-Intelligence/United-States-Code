@@ -14,7 +14,7 @@ The Congress finds that—
 
 &emsp;(5) charter schools, including charter schools that are schools-within-schools, can help reduce school size, which reduction can have a significant effect on student achievement;
 
-&emsp;(6) the Federal Government should test, evaluate, and disseminate information on a variety of charter school models in order to help demonstrate the benefits of this promising educational reform; and
+&emsp;(6) the Federal Government should test, evaluate, and disseminate information on avariety of charter school models in order to help demonstrate the benefits of this promising educational reform; and
 
 &emsp;(7) there is a strong documented need for cash-flow assistance to charter schools that are starting up, because State and local operating revenue streams are not immediately available.
 

@@ -18,9 +18,11 @@ Act
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
 
-42 U.S.C. 1371 (g)–(i).
+<i>Statutes at Large</i>
+
+42 U.S.C. 1371(g)–(i).
 
 Aug. 28, 1958, Pub. L. 85–848, §3 “Sec. 1511 (g)–(i)”, 72 Stat. 1089.
 

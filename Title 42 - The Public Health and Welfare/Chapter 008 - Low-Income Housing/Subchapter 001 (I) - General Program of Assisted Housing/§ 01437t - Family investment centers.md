@@ -16,7 +16,7 @@ The purpose of this section is to provide families living in public housing with
 
 #### (1) In general
 
-&emsp;The Secretary may make grants to public housing agencies to adapt public housing to help families living in the public housing gain better access to educational and job opportunities to achieve self-sufficiency and independence. Assistance under this section may be made available only to public housing agencies that demonstrate to the satisfaction of the Secretary that supportive services (assuch term is defined under subsection (j) of this section) will be made available. Facilities assisted under this section shall be in or near the premises of public housing.
+&emsp;The Secretary may make grants to public housing agencies to adapt public housing to help families living in the public housing gain better access to educational and job opportunities to achieve self-sufficiency and independence. Assistance under this section may be made available only to public housing agencies that demonstrate to the satisfaction of the Secretary that supportive services (as such term is defined under subsection (j) of this section) will be made available. Facilities assisted under this section shall be in or near the premises of public housing.
 
 #### (2) Supplemental grant set-aside
 
@@ -104,7 +104,7 @@ The Secretary shall establish selection criteria for grants under this section, 
 
 Each public housing agency shall, to the maximum extent practicable, employ public housing residents to provide the services assisted under this section or from other sources. Such persons shall be paid at a rate not less than the highest of—
 
-&emsp;(1) the minimum wage that would be applicable to the employee under the Fair Labor Standards Act of 1938 \[29 U.S.C. 201 et seq.\], if section 6(a)(1) of such Act \[29 U.S.C. 206(a)(1)\] applied to the resident and if the resident were not exempt under section 13 of such Act \[29 U.S.C. 213\];
+&emsp;(1) the minimum wage that would be applicable to the employee under the Fair Labor Standards Act of 1938 \[29 U.S.C. 201 et seq.\], ifsection 6(a)(1) of such Act \[29 U.S.C. 206(a)(1)\] applied to the resident and if the resident were not exempt under section 13 of such Act \[29 U.S.C. 213\];
 
 &emsp;(2) the State or local minimum wage for the most nearly comparable covered employment; or
 
@@ -194,7 +194,7 @@ Use of grants.—Any public housing agency receiving a grant under this section 
 
 &emsp;“(3)
 
-Reports to secretary.—Each public housing agency receiving a grant under this section for any fiscal year shall submit to the Secretary, not later than 3 months after the end of such fiscal year, a report describing the facilities provided by the public housing agency under this section and the one-stop perinatal services program carried out in such facilities. The report shall include data on the size of the facilities, the costs and extent of any renovations,the previous use of the facilities, the number of women assisted by the program, the trimester of the pregnancy of the women at the time of initial assistance, infant birthweight, infant mortality rate, and other relevant information.
+Reports to secretary.—Each public housing agency receiving a grant under this section for any fiscal year shall submit to the Secretary, not later than 3 months after the end of such fiscal year, a report describing the facilities provided by the public housing agency under this section and the one-stop perinatal services program carried out in such facilities. The report shall include data on the size of the facilities, the costs and extent of any renovations, the previous use of the facilities, the number of women assisted by the program, the trimester of the pregnancy of the women at the time of initial assistance, infant birthweight, infant mortality rate, and other relevant information.
 
 &emsp;“(4)
 

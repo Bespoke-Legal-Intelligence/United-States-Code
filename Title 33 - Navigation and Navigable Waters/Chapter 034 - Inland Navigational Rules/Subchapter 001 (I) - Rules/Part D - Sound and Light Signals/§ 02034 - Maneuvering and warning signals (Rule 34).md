@@ -32,7 +32,7 @@ When vessels in sight of one another are approaching each other and from any cau
 
 #### (e) Vessels in areas of obscured visibility due to intervening obstructions
 
-A vessel nearing a bend or an area of a channel or fairway where other vessels may be obscured by an intervening obstruction shall sound one prolonged blast. This signal shall be answered with a prolonged blast by any approaching vessel that may be within hearing around the bend or behind the intervening obstruction.
+A vessel nearing a bend or an area of a channel or fairway where other vessels may be obscuredby an intervening obstruction shall sound one prolonged blast. This signal shall be answered with a prolonged blast by any approaching vessel that may be within hearing around the bend or behind the intervening obstruction.
 
 #### (f) Use of one whistle only on a vessel
 
@@ -44,9 +44,9 @@ When a power-driven vessel is leaving a dock or berth, she shall sound one prolo
 
 #### (h) Agreement between vessels using radiotelephone
 
-A vessel that reaches agreement with another vessel in a meeting, crossing, or overtaking situation by using the radiotelephone as prescribed by the Bridge-to-Bridge Radiotelephone Act (85 Stat. 165; 33 U.S.C. 1207) \[33 U.S.C. 1201 et seq.\], is not obliged to sound the whistle signals prescribed by this Rule, but may do so. If agreement is not reached, then whistle signals shall be exchanged in a timely manner and shall prevail.
+A vessel that reaches agreement with another vessel in a head-on, crossing, or overtaking situation, as for example, by using the radiotelephone as prescribed by the Vessel Bridge-to-Bridge Radiotelephone Act (85 Stat. 164; 33 U.S.C. 1201 et seq.), is not obliged to sound the whistle signals prescribed by this rule,<sup>1</sup> but may do so. If agreement is not reached, then whistle signals shall be exchanged in a timely manner and shall prevail.
 
-(Pub. L. 96–591, §2, Dec. 24, 1980, 94 Stat. 3430.)
+(Pub. L. 96–591, §2, Dec. 24, 1980, 94 Stat. 3430; Pub. L. 104–324, title VII, §701(6), Oct. 19, 1996, 110 Stat. 3933.)
 
 #### References in Text
 
@@ -54,13 +54,19 @@ These Rules, referred to in par. (a), are the Inland Navigational Rules which ar
 
 Annex I to these Rules, referred to in par. (b)(iii), is to be established by the Secretary under section 2071 of this title.
 
-The Bridge-to-Bridge Radiotelephone Act (85 Stat. 165; 33 U.S.C. 1207), referred to in par. (h), probably means the Vessel Bridge-to-Bridge Radiotelephone Act, Pub. L. 92–63, Aug. 4, 1971, 85 Stat. 164, which is classified generally to chapter 24 (§1201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1201 of this title and Tables.
+The Vessel Bridge-to-Bridge Radiotelephone Act, referred to in par. (h), is Pub. L. 92–63, Aug. 4, 1971, 85 Stat. 164, as amended, which is classified generally to chapter 24 (§1201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1201 of this title and Tables.
 
 #### Codification
 
 Section was enacted as part of section 2 of Pub. L. 96–591 which enacted the Inland Navigational Rules which comprise this subchapter.
 
+#### Amendments
+
+1996—Par. (h). Pub. L. 104–324 amended par. (h) generally. Prior to amendment, par. (h) read as follows: “A vessel that reaches agreement with another vessel in a meeting, crossing, or overtaking situation by using the radiotelephone as prescribed by the Bridge-to-Bridge Radiotelephone Act (85 Stat. 165; 33 U.S.C. 1207), is not obliged to sound the whistle signals prescribed by this Rule, but may do so. If agreement is not reached, then whistle signals shall be exchanged in a timely manner and shall prevail.”
+
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 2009, 2014 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

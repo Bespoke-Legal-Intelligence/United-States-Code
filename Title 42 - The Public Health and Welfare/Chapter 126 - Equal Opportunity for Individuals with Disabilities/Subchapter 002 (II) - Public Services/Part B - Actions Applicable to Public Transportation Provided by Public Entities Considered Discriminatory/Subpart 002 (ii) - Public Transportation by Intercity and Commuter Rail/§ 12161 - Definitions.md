@@ -8,7 +8,7 @@ As used in this subpart:
 
 #### (2) Commuter rail transportation
 
-&emsp;The term “commuter rail transportation” has the meaning given the term “commuter service” in section 24102(5) of title 49.
+&emsp;The term “commuter rail transportation” has the meaning given the term “commuter rail passenger transportation” in section 24102(5) of title 49.
 
 #### (3) Intercity rail transportation
 
@@ -32,11 +32,15 @@ As used in this subpart:
 
 &emsp;The term “station” means the portion of a property located appurtenant to a right-of-way on which intercity or commuter rail transportation is operated, where such portion is used by the general public and is related to the provision of such transportation, including passenger platforms, designated waiting areas, ticketing areas, restrooms, and, where a public entity providing rail transportation owns the property, concession areas, to the extent that such public entity exercises control over the selection, design, construction, or alteration of the property, but such term does not include flag stops.
 
-(Pub. L. 101–336, title II, §241, July 26, 1990, 104 Stat. 346.)
+(Pub. L. 101–336, title II, §241, July 26, 1990, 104 Stat. 346; Pub. L. 104–287, §6(k), Oct. 11, 1996, 110 Stat. 3400.)
 
 #### Codification
 
-In pars. (1) and (2), “section 24102(4) of title 49” substituted for “section 103(8) of the Rail Passenger Service Act (45 U.S.C. 502(8))” and “section 24102(5) of title 49” substituted for “section 103(9) of the Rail Passenger Service Act (45 U.S.C. 502(9))” on authority of Pub. L. 103–272, §6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation. Section 24102(5) of title 49 defines term “commuter rail passenger transportation” rather than term “commuter service”.
+In pars. (1) and (2), “section 24102(4) of title 49” substituted for “section 103(8) of the Rail Passenger Service Act (45 U.S.C. 502(8))” and “section 24102(5) of title 49” substituted for “section 103(9) of the Rail Passenger Service Act (45 U.S.C. 502(9))” on authority of Pub. L. 103–272, §6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
+
+#### Amendments
+
+1996—Par. (2). Pub. L. 104–287 substituted “commuter rail passenger transportation” for “commuter service”.
 
 #### Effective Date
 

@@ -12,7 +12,7 @@ Minor changes were made in arrangement and phraseology.
 
 #### Amendments
 
-1974—Pub. L. 93–415 amended section generally, substituting “Detention prior to disposition”, for “Arrest, detention and bail” in section catchline, striking out provisions relating to discretionary power of arrestingofficer or marshal to confine juvenile in jail, provisions relating to bail and default of bail, and inserting provisions relating to mandatory separation of juvenile from adjudicated delinquents, and provisions relating to the physical conditions of confining facility.
+1974—Pub. L. 93–415 amended section generally, substituting “Detention prior to disposition”, for “Arrest, detention and bail” in section catchline, striking out provisions relating to discretionary power of arresting officer or marshal to confine juvenile in jail, provisions relating to bail and default of bail, and inserting provisions relating to mandatory separation of juvenile from adjudicated delinquents, and provisions relating to the physical conditions of confining facility.
 
 #### Cross References
 

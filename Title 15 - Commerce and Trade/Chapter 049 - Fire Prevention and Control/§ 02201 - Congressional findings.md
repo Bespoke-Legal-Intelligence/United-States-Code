@@ -14,7 +14,7 @@ The Congress finds that—
 
 &emsp;(6) The fire service and the civil defense program in each locality would both benefit from closer cooperation.
 
-&emsp;(7) The Nation's fire problem is exacerbated by (A) the indifference with which some Americans confront the subject; (B) the Nation's failure to undertake enough research and development into fire and fire-related problems; (C) the scarcity of reliable data and information; (D) the fact that designers and purchasers of buildings and products generally give insufficient attention to fire safety; (E) the fact that many communities lack adequate building and fire prevention codes; and (F) the fact that local fire departments spend about 95 cents of every dollar appropriated to the fire services on efforts to extinguish fires and only about 5 cents on fire prevention.
+&emsp;(7) The Nation's fire problem is exacerbated by (A) the indifference with which some Americans confront the subject; (B) the Nation's failure to undertake enough research and development into fire and fire-related problems; (C) the scarcity of reliable data and information; (D) the fact that designers and purchasers of buildings and products generallygive insufficient attention to fire safety; (E) the fact that many communities lack adequate building and fire prevention codes; and (F) the fact that local fire departments spend about 95 cents of every dollar appropriated to the fire services on efforts to extinguish fires and only about 5 cents on fire prevention.
 
 &emsp;(8) There is a need for improved professional training and education oriented toward improving the effectiveness of the fire services, including an increased emphasis on preventing fires and on reducing injuries to firefighters.
 
@@ -32,7 +32,7 @@ The National Commission on Fire Prevention and Control, established pursuant to 
 
 #### Short Title of 1994 Amendment
 
-Pub. L. 103–254, §1, May 19, 1994, 108 Stat. 679, provided that: “This Act \[enacting sections 2221 and 2228 of thistitle, amending sections 2216, 2220, and 2227 of this title, and enacting provisions set out as notes under this section and section 2216 of this title\] may be cited as the ‘Arson Prevention Act of 1994’.”
+Pub. L. 103–254, §1, May 19, 1994, 108 Stat. 679, provided that: “This Act \[enacting sections 2221 and 2228 of this title, amending sections 2216, 2220, and 2227 of this title, and enacting provisions set out as notes under this section and section 2216 of this title\] may be cited as the ‘Arson Prevention Act of 1994’.”
 
 #### Short Title of 1990 Amendment
 
@@ -41,6 +41,18 @@ Pub. L. 101–391, §1, Sept. 25, 1990, 104 Stat. 747, provided that: “This Ac
 #### Short Title
 
 Section 1 of Pub. L. 93–498 provided: “That this Act \[enacting this chapter and section 290a of Title 42, The Public Health and Welfare, amending sections 278f and 1511 of this title, and repealing section 278g of this title\] may be cited as the ‘Federal Fire Prevention and Control Act of 1974’.”
+
+#### Local Firefighter and Emergency Services Training
+
+Pub. L. 104–132, title VIII, §819, Apr. 24, 1996, 110 Stat. 1316, provided that:
+
+“(a)
+
+Grant Authorization.—The Attorney General, in consultation with the Director of the Federal Emergency Management Agency, may make grants to provide specialized training and equipment to enhance the capability of metropolitan fire and emergency service departments to respond to terrorist attacks.
+
+“(b)
+
+Authorization of Appropriations.—There are authorized to be appropriated for fiscal year 1997, $5,000,000 to carry out this section.”
 
 #### Arson Prevention and Control; Congressional Findings
 

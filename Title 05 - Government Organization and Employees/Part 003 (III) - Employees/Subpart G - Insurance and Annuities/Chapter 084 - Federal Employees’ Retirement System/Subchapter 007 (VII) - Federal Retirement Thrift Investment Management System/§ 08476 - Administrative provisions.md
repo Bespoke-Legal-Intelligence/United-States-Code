@@ -28,7 +28,7 @@ Level IV of the Executive Schedule, referred to in subsec. (d)(1), is set out in
 
 #### Amendments
 
-<b>1990</b>—Subsec. (d)(1). Pub. L. 101–509 substituted “level IV of the Executive Schedule” for “grade GS–18 of the General Schedule”.
+1990—Subsec. (d)(1). Pub. L. 101–509 substituted “level IV of the Executive Schedule” for “grade GS–18 of the General Schedule”.
 
 #### Effective Date of 1990 Amendment
 

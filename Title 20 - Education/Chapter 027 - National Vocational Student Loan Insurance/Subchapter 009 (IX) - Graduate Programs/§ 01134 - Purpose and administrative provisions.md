@@ -32,7 +32,7 @@ The provisions of title 5 governing appointments in the competitive service, ref
 
 #### Prior Provisions
 
-A prior section 1134, Pub. L. 89–329, title IX, §901, as added Pub. L. 92–318, title I, §181(a), June 23, 1972, 86Stat. 304; amended Pub. L. 94–482, title I, §171(a)(1), (2), Oct. 12, 1976, 90 Stat. 2159; Pub. L. 96–49, §9(a), Aug. 13, 1979, 93 Stat. 353; Pub. L. 96–374, title IX, §901(a), title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1482, 1503, set forth Congressional declaration of purpose and authorized appropriations for grants to institutions of higher education, prior to the general revision of this subchapter by Pub. L. 99–498.
+A prior section 1134, Pub. L. 89–329, title IX, §901, as added Pub. L. 92–318, title I, §181(a), June 23, 1972, 86 Stat. 304; amended Pub. L. 94–482, title I, §171(a)(1), (2), Oct. 12, 1976, 90 Stat. 2159; Pub. L. 96–49, §9(a), Aug. 13, 1979, 93 Stat. 353; Pub. L. 96–374, title IX, §901(a), title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1482, 1503, set forth Congressional declaration of purpose and authorized appropriations for grants to institutions of higher education, prior to the general revision of this subchapter by Pub. L. 99–498.
 
 Another prior section 1134, Pub. L. 89–329, title IX, §901, as added Pub. L. 90–575, title II, §261, Oct. 16, 1968, 82 Stat. 1043, set forth Congressional declaration of purpose respecting education for the public service, prior to repeal by Pub. L. 92–318.
 

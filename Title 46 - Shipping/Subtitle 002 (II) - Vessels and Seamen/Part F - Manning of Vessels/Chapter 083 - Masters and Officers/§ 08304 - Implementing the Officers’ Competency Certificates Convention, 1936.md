@@ -10,7 +10,7 @@
 
 &emsp;(3) a barge; and
 
-&emsp;(4) a vessel of less than 200 gross tons.
+&emsp;(4) a vessel of less than 200 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title.
 
 (c) A person may not engage or employ an individual to serve as, and an individual may not serve as, a master, mate, or engineer on a vessel to which this section applies, if the individual does not have a license issued under section 7101 of this title authorizing service in the capacity in which the individual is to be engaged or employed.
 
@@ -26,7 +26,7 @@
 
 (i) An officer or employee of the Customs Service may be designated to enforce this section.
 
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 552.)
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 552; Pub. L. 104–324, title VII, §730, Oct. 19, 1996, 110 Stat. 3940.)
 
 Historical and Revision Notes
 
@@ -61,6 +61,10 @@ Subsection (i) permits the designation of a Customs Service officer or employee 
 #### References in Text
 
 The Officers’ Competency Certificates Convention, 1936, referred to in subsec. (b), is set out in 54 Stat. Pt. 2, p. 1683.
+
+#### Amendments
+
+1996—Subsec. (b)(4). Pub. L. 104–324 inserted “as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title” after “200 gross tons”.
 
 #### Section Referred to in Other Sections
 

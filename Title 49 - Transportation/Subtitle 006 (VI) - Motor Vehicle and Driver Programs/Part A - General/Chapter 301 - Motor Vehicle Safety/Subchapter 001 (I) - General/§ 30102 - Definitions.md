@@ -50,7 +50,7 @@ Limited Definitions.—(1) In sections 30117(b), 30118–30121, and 30166(f) of 
 
 &emsp;(E) a brand name owner of a tire marketed under a brand name not owned by the manufacturer of the tire is deemed to be the manufacturer of the tire;
 
-&emsp;(F) a defect in original equipment, or noncompliance of original equipment with amotor vehicle safety standard prescribed under this chapter, is deemed to be a defect or noncompliance of the motor vehicle in or on which the equipment was installed at the time of delivery to the first purchaser;
+&emsp;(F) a defect in original equipment, or noncompliance of original equipment with a motor vehicle safety standard prescribed under this chapter, is deemed to be a defect or noncompliance of the motor vehicle in or on which the equipment was installed at the time of delivery to the first purchaser;
 
 &emsp;(G) a manufacturer of a motor vehicle in or on which original equipment was installed when delivered to the first purchaser is deemed to be the manufacturer of the equipment; and
 
@@ -62,7 +62,9 @@ Limited Definitions.—(1) In sections 30117(b), 30118–30121, and 30166(f) of 
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -82,7 +84,7 @@ Sept. 9, 1966, Pub. L. 89–563, §102(10), 80 Stat. 718; restated Oct. 27, 1974
 
 &nbsp;
 
-49 App.:1655(a) (6)(A).
+49 App.:1655(a)(6)(A).
 
 Oct. 15, 1966, Pub. L. 89–670, §6(a)(6)(A), 80 Stat. 938.
 

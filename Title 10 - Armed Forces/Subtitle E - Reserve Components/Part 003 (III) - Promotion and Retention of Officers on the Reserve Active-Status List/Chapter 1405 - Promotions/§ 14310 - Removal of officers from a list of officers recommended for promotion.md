@@ -14,17 +14,13 @@ Continued Eligibility for Promotion.—An officer whose name is removed from a l
 
 (Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2938.)
 
-#### Effective Date of Section
-
-<i>Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under section 10001 of this title.</i>
-
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in section 5905 of this title, prior to repeal by Pub. L. 103–337, §1629(b)(2).
 
 #### Removals From Promotion List
 
-Section 1684(b) of title XVI of div. A of Pub. L. 103–337 provided that: “An action that was initiated before the effective date of this title \[Oct. 1, 1996, see section 1691(b)(1), (2) of Pub. L. 103–337, set out as an Effective Date note under section 10001 of this title\] under the laws and regulations in effect before that date to remove the name of an officer from a promotion list or from a list of officers recommended or approved for promotion shall continue on and after such date as if such action had been initiated under section 14110(d) \[14111(c)\] or 14310, as appropriate, of title 10, United States Code, as added by this title.”
+Section 1684(b) of title XVI of div. A of Pub. L. 103–337, as amended by Pub. L. 104–106, div. A, title XV, §1501(a)(9), Feb. 10, 1996, 110 Stat. 495, provided that: “An action that was initiated before the effective date of this title \[Oct. 1, 1996, see section 1691(b)(1), (2) of Pub. L. 103–337, set out as an Effective Date note under section 10001 of this title\] under the laws and regulations in effect before that date to remove the name of an officer from a promotion list or from a list of officers recommended or approved for promotion shall continue on and after such date as if such action had been initiated under section 14111(c) or 14310, as appropriate, of title 10, United States Code, as added by this title.”
 
 #### Section Referred to in Other Sections
 

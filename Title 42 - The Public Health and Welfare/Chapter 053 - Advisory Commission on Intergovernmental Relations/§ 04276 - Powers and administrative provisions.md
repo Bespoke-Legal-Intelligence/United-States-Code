@@ -52,7 +52,7 @@ In subsecs. (c) and (d), “chapter 51 and subchapter III of chapter 53 of title
 
 In subsec. (d)(2), “section 3109 of title 5” substituted for “section 15 of the Administrative Expenses Act of 1946 (5 U.S.C. 55a)”.
 
-In subsec. (e), “subchapter III of chapter 83 of title 5”, “chapter 87 of title 5”, and “subchapter I of chapter 57 of title 5” substituted for “the Civil Service Retirement Act, as amended”, “the Federal Employees’ Group Life Insurance Act of 1954, as amended”, and “the Travel Expense Act of 1949, as amended”, respectively.
+In subsec. (e), “subchapter III of chapter 83 of title 5”, “chapter 87 of title 5”, and “subchapter I of chapter 57of title 5” substituted for “the Civil Service Retirement Act, as amended”, “the Federal Employees’ Group Life Insurance Act of 1954, as amended”, and “the Travel Expense Act of 1949, as amended”, respectively.
 
 In subsec. (f), “the Executive Schedule of subchapter II of chapter 53 of title 5” substituted for “the Federal Executive Salary Schedule of the Federal Executive Salary Act of 1964”.
 

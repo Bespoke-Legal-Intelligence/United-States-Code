@@ -14,7 +14,9 @@ Act
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 (a)
 
@@ -40,7 +42,7 @@ This section amends various sections \[§§3305, 3309, 3318\] of title 5, United
 
 #### Amendments
 
-<b>1979</b>—Subsec. (a). Pub. L. 96–54, §2(a)(14), substituted “Office of Personnel Management” for “Civil Service Commission”.
+1979—Subsec. (a). Pub. L. 96–54, §2(a)(14), substituted “Office of Personnel Management” for “Civil Service Commission”.
 
 Subsec. (b). Pub. L. 96–54, §2(a)(15), substituted “Office” for “Commission”.
 
@@ -50,5 +52,5 @@ Amendment by Pub. L. 96–54 effective July 12, 1979, see section 2(b) of Pub. L
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 22 section 1438; title 40 section 42.
+This section is referred to in title 10 section 1599c; title 22 section 1438; title 40 section 42.
 

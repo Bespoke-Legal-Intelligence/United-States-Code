@@ -16,7 +16,7 @@
 
 #### (2) Effect on Mexican GSP status
 
-&emsp;Notwithstanding section 502(a)(2) of the Trade Act of 1974 (19 U.S.C. 2462(a)(2)), the President shall terminate the designation of Mexico as a beneficiary developing country for purposes of title V of the Trade Act of 1974 \[19 U.S.C. 2461 et seq.\] on the date of entry into force of the Agreement between the United States and Mexico.
+&emsp;Notwithstanding section 502(f)(2) of the Trade Act of 1974 \[19 U.S.C. 2462(f)(2)\], the President shall terminate the designation of Mexico as a beneficiary developing country for purposes of title V of the Trade Act of 1974 \[19 U.S.C. 2461 et seq.\] on the date of entry into force of the Agreement between the United States and Mexico.
 
 #### (b) Other tariff modifications
 
@@ -42,11 +42,19 @@
 
 For purposes of subsections (a) and (b) of this section, with respect to an article covered by Annex 300–B of the Agreement imported from Mexico for which the base rate in the Schedule of the United States in Annex 300–B is a specific or compound rate of duty, the President may substitute for the base rate an ad valorem rate that the President determines to be equivalent to the base rate.
 
-(Pub. L. 103–182, title II, §201, Dec. 8, 1993, 107 Stat. 2068.)
+(Pub. L. 103–182, title II, §201, Dec. 8, 1993, 107 Stat. 2068; Pub. L. 104–188, title I, §1954(a)(5), Aug. 20, 1996, 110 Stat. 1927.)
 
 #### References in Text
 
 The Trade Act of 1974, referred to in subsec. (a)(2), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, as amended. Title V of the Act is classified generally to subchapter V (§2461 et seq.) of chapter 12 of this title. For complete classification of this Act to the Code, see section 2101 of this title and Tables.
+
+#### Amendments
+
+1996—Subsec. (a)(2). Pub. L. 104–188 substituted “502(f)(2) of the Trade Act of 1974” for “502(a)(2) of the Trade Act of 1974 (19 U.S.C. 2462(a)(2))”.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–188 applicable to articles entered on or after Oct. 1, 1996, with provisions relating to retroactive application, see section 1953 of Pub. L. 104–188, set out as an Effective Date note under section 2461 of this title.
 
 #### Effective Date
 

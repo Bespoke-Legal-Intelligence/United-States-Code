@@ -28,39 +28,7 @@ Section was enacted as part of the Housing and Urban Development Act of 1970, an
 
 #### Indian Public Housing Early Childhood Development Demonstration Program
 
-Pub. L. 101–625, title V, §518, Nov. 28, 1990, 104 Stat. 4201, as amended by Pub. L. 102–550, title I, §124, Oct. 28, 1992, 106 Stat. 3709, provided that:
-
-“(a)
-
-Funding.—To the extent provided in appropriation Acts, of any amounts appropriated under section 5(c) of the United States Housing Act of 1937 \[42 U.S.C. 1437c(c)\] for fiscal year 1993 for public housing grants for Indian housing, $5,200,000 may be used to carry out the demonstration program under this section. To the extent provided in appropriation Acts, of any amounts appropriated under section 5(c) of the United States Housing Act of 1937 for fiscal year 1994 for public housing grants for Indian housing, $5,418,400 may be used to carry out the demonstration program under this section. Under the demonstration, the Secretary shall make grants to nonprofit organizations, Indian housing authorities, and Indian tribes to assist such organizations, housing authorities, and tribes in providing early childhood development services in or near low-income housing developed or operated pursuant to a contract between the Secretary of Housing and Urban Development and an Indian housing authority for low-income families who reside in such Indian public housing.
-
-“(b)
-
-Operation of Demonstration.—Except as provided in this section, the Secretary of Housing and Urban Development shall carry out the demonstration program under this section in low-income housing developed or operated pursuant to a contract between the Secretary and an Indian housing authority in the same manner as the demonstration program under section 222 of the Housing and Urban-Rural Recovery Act of 1983 \[Pub. L. 98–181, set out below\] is carried out. For purposes of this section, any reference to ‘public housing’ or a ‘low income housing project’ in section 222 of such Act is deemed to refer to low-income housing developed or operated pursuant to a contract between the Secretary and an Indian housing authority.
-
-“(c)
-
-Limitations.—
-
-&emsp;“(1)
-
-Tribal diversity.—The Secretary of Housing and Urban Development shall provide that the demonstration program under this section is carried out in not more than 1 Indian public housing project for any single Indian tribe.
-
-&emsp;“(2)
-
-Geographic diversity.—The Secretary of Housing and Urban Development shall carry out the demonstration program under this section through various Indian housing authorities and provide for geographic distribution among such housing authorities.
-
-“(d)
-
-Report.—
-
-&emsp;“(1)
-
-In general.—Not later than the expiration of the 3-year period beginning on the date of the enactment of this Act \[Nov. 28, 1990\], the Secretary of Housing and Urban Development shall prepare and submit to the Congress a detailed report setting forth the findings and conclusions of the Secretary as a result of carrying out the demonstration program established in this section. Such report shall include any recommendations of the Secretary with respect to the establishment of a permanent program of assisting early childhood development services in or near low-income housing developed or operated pursuant to a contract between the Secretary and an Indian housing authority.
-
-&emsp;“(2)
-
-Conforming provision.—Notwithstanding subsection (b) of this section, section 222(e) of the Housing and Urban-Rural Recovery Act of 1983 \[Pub. L. 98–181, set out below\] (regarding submission of a report) shall not apply to this section and the demonstration program carried out under this section.”
+Pub. L. 101–625, title V, §518, Nov. 28, 1990, 104 Stat. 4201, as amended by Pub. L. 102–550, title I, §124, Oct. 28, 1992, 106 Stat. 3709, authorized Secretary of Housing and Urban Development to carry out demonstration program in low-income housing developed or operated pursuant to a contract between the Secretary and an Indian housing authority in the same manner as the demonstration program under section 222 of Pub. L. 98–181, set out below, is carried out, and further provided for funding for demonstration program, limitations, and report to Congress, prior to repeal, effective Oct. 1, 1997, by Pub. L. 104–330, title I, §107, title V, §501(d)(1), Oct. 26, 1996, 110 Stat. 4031, 4042, which directed the repeal of section 519 of Pub. L. 101–625 (12 U.S.C. 1701z–6 note), but was executed by repealing section 518 of Pub. L. 101–625, to reflect the probable intent of Congress.
 
 #### Demonstration Project for Assistance to Units of General Local Government To Encourage Upgrading of Lower Income Family Housing
 
@@ -80,7 +48,7 @@ Pub. L. 98–181, title II, §225, Nov. 30, 1983, 97 Stat. 1191, provided that:
 
 “(b) The purpose of this section, therefore, is to provide assistance to units of general local government and their designated agencies in order to develop a program that will—
 
-&emsp;“(1) encourage the upgrading of housing occupied primarily by lower income families, including families receiving assistance under the aid for families with dependent children program established under title IV of the Social Security Act \[42 U.S.C. 601 et seq.\]; and
+&emsp;“(1) encourage the upgrading of housing occupied primarily by lower income families, including families receiving assistance under the aid for families with dependent children program established undertitle IV of the Social Security Act \[42 U.S.C. 601 et seq.\]; and
 
 &emsp;“(2) provide for better coordination at the local level of the efforts to assist families receiving public assistance from the Department of Health and Human Services so that these families will be able to occupy affordable housing that is decent, safe, and sanitary and that, if necessary, is rehabilitated with funds provided by the Department of Housing and Urban Development.
 
@@ -190,7 +158,7 @@ Report to Congress.—Not later than the expiration of the 3-year period followi
 
 Definitions.—For purposes of this section:
 
-&emsp;“(1) The term ‘lower income families’ has the meaning given such term in section 3(b)(2) of theUnited States Housing Act of 1937 \[42 U.S.C. 1437a(b)(2)\].
+&emsp;“(1) The term ‘lower income families’ has the meaning given such term in section 3(b)(2) of the United States Housing Act of 1937 \[42 U.S.C. 1437a(b)(2)\].
 
 &emsp;“(2) The terms ‘lower income housing project’ and ‘public housing’ have the meanings given such terms in section 3(b)(1) of the United States Housing Act of 1937.
 
@@ -254,7 +222,7 @@ Pub. L. 95–557, title II, §207, Oct. 31, 1978, 92 Stat. 2093, as amended by P
 
 “(5) In order to assess the impact of crime and vandalism in public housing projects, the Secretary may, as part of the Annual Housing Survey conducted by the Department of Housing and Urban Development or by other means, collect data on crime and vandalism and integrate the data collection with the victimization surveys undertaken by the Department of Justice and the Department of Commerce.
 
-“(6) The Secretary shall, to the maximum extent practicable, utilize information derived from the program authorized by this section for assisting in establishing (A) guidelines to be used by public housing authorities in determining strategies to meet the security needs of tenants of public housing projects assisted under the United States Housing Act of 1937 \[42 U.S.C. 1437 et seq.\] other than under section 8 of such Act \[42U.S.C. 1437f\], and (B) guidelines for improvements relating to the security of projects (and the tenants living in such projects) assisted under section 14 of such Act \[42 U.S.C. 1437<i>l\].</i>
+“(6) The Secretary shall, to the maximum extent practicable, utilize information derived from the program authorized by this section for assisting in establishing (A) guidelines to be used by public housing authorities in determining strategies to meet the security needs of tenants of public housing projects assisted under the United States Housing Act of 1937 \[42 U.S.C. 1437 et seq.\] other than under section 8 of such Act \[42 U.S.C. 1437f\], and (B) guidelines for improvements relating to the security of projects (and the tenants living in such projects) assisted under section 14 of such Act \[42 U.S.C. 1437<i>l</i>\].
 
 “(d) The Secretary shall initiate and carry out a survey of crime and vandalism existing in the Nation's public housing projects. The survey shall include the nature, extent and impact of crime and vandalism and the nature and extent of resources currently available and employed to alleviate crime and vandalism in public housing.
 

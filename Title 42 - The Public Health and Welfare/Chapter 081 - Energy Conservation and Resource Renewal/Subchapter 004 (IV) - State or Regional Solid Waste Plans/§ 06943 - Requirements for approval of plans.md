@@ -20,7 +20,7 @@ In order to be approved under section 6947 of this title, each State plan must c
 
 Any State plan submitted under this subchapter may include, at the option of the State, provisions to carry out each of the following:
 
-&emsp;(1) Encouragement, to the maximum extent feasible and consistent with the protection of the public health and the environment, of the use of recycled oil in all appropriate areas of State and local government.
+&emsp;(1) Encouragement, to the maximum extent feasible and consistent with the protection ofthe public health and the environment, of the use of recycled oil in all appropriate areas of State and local government.
 
 &emsp;(2) Encouragement of persons contracting with the State to use recycled oil to the maximum extent feasible, consistent with protection of the public health and the environment.
 

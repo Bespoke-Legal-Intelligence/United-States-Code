@@ -4,7 +4,7 @@
 
 #### (1) Imposition of tax
 
-&emsp;There is hereby imposed for each taxable year on the unrelated business taxable income\(as defined in section 512) of every organization described in paragraph (2) a tax computed as provided in section 11. In making such computation for purposes of this section, the term “taxable income” as used in section 11 shall be read as “unrelated business taxable income”.
+&emsp;There is hereby imposed for each taxable year on the unrelated business taxable income (as defined in section 512) of every organization described in paragraph (2) a tax computed as provided in section 11. In making such computation for purposes of this section, the term “taxable income” as used in section 11 shall be read as “unrelated business taxable income”.
 
 #### (2) Organizations subject to tax
 
@@ -58,7 +58,7 @@ Organizations taxable as trusts.—If an organization is subject to tax on unrel
 
 Subsec. (a)(2). Pub. L. 95–600, §301(b)(5)(B), substituted “tax” for “taxes” wherever appearing.
 
-Subsec. (d). Pub. L. 95–600, §421(e)(3), substituted provisions relating to organizations taxable at corporate rates and organizations taxable as trusts, for provisions relating to imposition of the tax imposed by section 56 of this title to an organization subject to tax under this section for tax preferences computed in unrelated business taxable income.
+Subsec. (d). Pub. L. 95–600, §421(e)(3), substituted provisions relating to organizations taxable at corporaterates and organizations taxable as trusts, for provisions relating to imposition of the tax imposed by section 56 of this title to an organization subject to tax under this section for tax preferences computed in unrelated business taxable income.
 
 1977—Subsec. (b)(1). Pub. L. 95–30 substituted “section 1(e)” for “section 1(d)”.
 
@@ -124,5 +124,5 @@ Withholding of tax on foreign tax-exempt organizations, see section 1443 of this
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 11, 12, 50, 168, 337, 408, 448, 501, 509, 512, 513, 514, 515, 527, 856, 860E, 904, 995, 1201, 1245, 1250, 1443, 1563, 2651, 4940, 6654, 6655, 7611, 7871 of this title.
+This section is referred to in sections 11, 12, 50, 168, 220, 337, 408, 448, 501, 509, 512, 513, 514, 515, 527, 529, 856, 860E, 904, 995, 1201, 1245, 1250, 1443, 1563, 2651, 4940, 6654, 6655, 7611, 7871 of this title.
 

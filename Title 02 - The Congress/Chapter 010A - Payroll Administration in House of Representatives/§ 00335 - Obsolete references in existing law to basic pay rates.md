@@ -2,15 +2,21 @@
 
 In any case in which—
 
-&emsp;(1) the rate of pay of any employee or position, or class of employees or positions, the pay for whom or for which is disbursed by the Clerk of the House of Representatives, or any maximum or minimum rate with respect to any such employee, position, or class, is referred to in or provided by statute or House resolution; and
+&emsp;(1) the rate of pay of any employee or position, or class of employees or positions, the pay for whom or for which is disbursed by the Chief Administrative Officer of the House of Representatives, or any maximum or minimum rate with respect to any such employee, position, or class, is referred to in or provided by statute or House resolution; and
 
 &emsp;(2) the rate so referred to or provided is a basic rate with respect to which additional pay is provided by law;
 
-> such statutory provision or resolution shall be deemed to refer, in lieu of such basic rate, to the per annum gross rate which an employee receiving such basic rate immediately prior to the effective date of this section would receive, without regard to such statutory provision or resolution, under section 334 of this title on and after such date.
+> such statutory provision or resolution shall be deemed to refer, in lieu of such basic rate, to the per annum gross rate which an employee receiving such basic rate immediately prior to the effective date of this section would receive, without regard to such statutory provision or resolution, under section 334 <sup>1</sup> of this title on and after such date.
 
-(Pub. L. 91–510, title IV, §475, Oct. 26, 1970, 84 Stat. 1195.)
+(Pub. L. 91–510, title IV, §475, Oct. 26, 1970, 84 Stat. 1195; Pub. L. 104–186, title II, §210(4), Aug. 20, 1996, 110 Stat. 1743.)
 
-#### Transfer of Functions
+#### References in Text
 
-Certain functions of Clerk of House of Representatives transferred to Director of Non-legislative and Financial Services by section 7 of House Resolution No. 423, One Hundred Second Congress, Apr. 9, 1992. Director of Non-legislative and Financial Services replaced by Chief Administrative Officer of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+Section 334 of this title, referred to in text, was repealed by Pub. L. 104–186, title II, §210(3)(A), Aug. 20, 1996, 110 Stat. 1743.
+
+#### Amendments
+
+1996—Par. (1). Pub. L. 104–186 substituted “Chief Administrative Officer” for “Clerk”.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

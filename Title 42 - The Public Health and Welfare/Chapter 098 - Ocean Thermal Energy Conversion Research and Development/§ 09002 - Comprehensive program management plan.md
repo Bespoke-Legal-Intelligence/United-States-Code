@@ -8,7 +8,7 @@
 
 #### (b) Transmittal of plan to Congress
 
-The Secretary shall transmit the comprehensive program management plan to the Committee on Science and Technology of the House of Representatives and the Committee on Energy and Natural Resources of the Senate within nine months after July 17, 1980.
+The Secretary shall transmit the comprehensive program management plan to the Committee on Science and Technology of the House ofRepresentatives and the Committee on Energy and Natural Resources of the Senate within nine months after July 17, 1980.
 
 #### (c) Requisite provisions of plan
 

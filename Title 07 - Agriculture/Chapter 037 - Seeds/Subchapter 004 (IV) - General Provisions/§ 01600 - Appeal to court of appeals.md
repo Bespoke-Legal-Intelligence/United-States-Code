@@ -10,7 +10,7 @@ The evidence so taken or admitted and filed as aforesaid as a part of the record
 
 The court may affirm, modify, or set aside the order of the Secretary.
 
-If the court determines that the just and proper disposition of the case requires the taking ofadditional evidence, the court shall order the hearing to be reopened for the taking of such evidence, in such manner and upon such terms and conditions as the court may deem proper. The Secretary may modify his findings as to the facts, or make new findings, by reason of the additional evidence so taken, and he shall file such modified or new findings and his recommendations, if any, for the modification or setting aside of his order, with the return of such additional evidence.
+If the court determines that the just and proper disposition of the case requires the taking of additional evidence, the court shall order the hearing to be reopened for the taking of such evidence, in such manner and upon such terms and conditions as the court may deem proper. The Secretary may modify his findings as to the facts, or make new findings, by reason of the additional evidence so taken, and he shall file such modified or new findings and his recommendations, if any, for the modification or setting aside of his order, with the return of such additional evidence.
 
 If the court of appeals affirms or modifies the order of the Secretary, its decree shall operate as an injunction to restrain the person and his officers, directors, agents, and employees from violating the provisions of such order or such order as modified.
 
@@ -20,7 +20,7 @@ If the court of appeals affirms or modifies the order of the Secretary, its decr
 
 1984—Pub. L. 98–620 in fourth par., struck out provisions requiring proceedings in such cases in the court of appeals to be made a preferred cause and expedited in every way.
 
-1958—Pub. L. 85–791 substituted, in first sentence of second par., “thereupon file in the court the record in such proceedings as provided in section 2112 of title 28” for “forthwith prepare, certify, and file in the court a full and accurate transcript of the record in such proceedings, including the complaint, the evidence, and the report and order”, substituted, in second sentence of second par., “record” for “transcript”, substituted in third par., “petition” for “transcript”, and struck out, in fourth par., “, duly certified” after “admitted”.
+1958—Pub. L. 85–791 substituted, in first sentence of second par., “thereupon file in the court the record insuch proceedings as provided in section 2112 of title 28” for “forthwith prepare, certify, and file in the court a full and accurate transcript of the record in such proceedings, including the complaint, the evidence, and the report and order”, substituted, in second sentence of second par., “record” for “transcript”, substituted in third par., “petition” for “transcript”, and struck out, in fourth par., “, duly certified” after “admitted”.
 
 #### Change of Name
 

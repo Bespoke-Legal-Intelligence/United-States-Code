@@ -146,7 +146,7 @@ Amendment by Pub. L. 99–121 applicable to sales and exchanges after June 30, 1
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–369 applicable to taxable years ending after July 18, 1984, and applicable to salesor exchanges after Dec. 31, 1984, but not applicable to any sale or exchange pursuant to a written contract which was binding on Mar. 1, 1984, and at all times thereafter before the sale or exchange, see section 44 of Pub. L. 98–369, set out as an Effective Date note under section 1271 of this title.
+Amendment by Pub. L. 98–369 applicable to taxable years ending after July 18, 1984, and applicable to sales or exchanges after Dec. 31, 1984, but not applicable to any sale or exchange pursuant to a written contract which was binding on Mar. 1, 1984, and at all times thereafter before the sale or exchange, see section 44 of Pub. L. 98–369, set out as an Effective Date note under section 1271 of this title.
 
 #### Effective Date of 1983 Amendment
 
@@ -178,5 +178,5 @@ Provisions, respecting treatment of debt instruments received in exchange for pr
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 133, 1274, 1274A, 1275, 1288, 4942, 7872 of this title.
+This section is referred to in sections 1274, 1274A, 1275, 1288, 4942, 7872 of this title.
 

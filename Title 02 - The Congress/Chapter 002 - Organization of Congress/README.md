@@ -8,7 +8,7 @@
 | [24\.](%C2%A7%2000024%20-%20Secretary%20of%20Senate%20or%20assistant%20secretary%20may%20administer%20oaths.md) | Secretary of Senate or assistant secretary may administer oaths. |
 | [25\.](%C2%A7%2000025%20-%20Oath%20of%20Speaker%2C%20Members%2C%20and%20Delegates.md) | Oath of Speaker, Members, and Delegates. |
 | [25a.](%C2%A7%2000025a%20-%20Delegate%20to%20House%20of%20Representatives%20from%20District%20of%20Columbia.md) | Delegate to House of Representatives from District of Columbia. |
-| [25b.](%C2%A7%2000025b%20-%20Delegate%20from%20District%20of%20Columbia%3B%20applicability%20of%20certain%20Federal%20laws.md) | Delegate from District of Columbia; applicability of certain Federal laws. |
+| [25b.](%C2%A7%2000025b%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93186%2C%20title%20II%2C%20%C2%A7202%281%29%2C%20Aug.%2020%2C%201996.%20110%20Stat.%201724.md) | Repealed. |
 | [26\.](%C2%A7%2000026%20-%20Roll%20of%20Representatives-elect.md) | Roll of Representatives-elect. |
 | [27\.](%C2%A7%2000027%20-%20Change%20of%20place%20of%20meeting.md) | Change of place of meeting. |
 | [28\.](%C2%A7%2000028%20-%20Parliamentary%20precedents%20of%20House%20of%20Representatives.md) | Parliamentary precedents of House of Representatives. |
@@ -27,7 +27,7 @@
 | [29a.](%C2%A7%2000029a%20-%20Early%20organization%20of%20House%20of%20Representatives.md) | Early organization of House of Representatives. |
 | (a) | Caucus or conference for incumbent Members reelected to and Members-elect of ensuing Congress; time and procedure for calling. |
 | (b) | Payment and reimbursement for travel and per diem expenses for Members attending caucus or conference; exceptions; regulations governing payments and reimbursements; reimbursement vouchers. |
-| (c) | Availability of House contingent fund. |
+| (c) | Availability of applicable accounts of House. |
 | 29b, 29c. | Omitted. |
 | [29d.](%C2%A7%2000029d%20-%20Committee%20on%20Standards%20of%20Official%20Conduct%20of%20House%20of%20Representatives.md) | Committee on Standards of Official Conduct of House of Representatives. |
 | (a) | Omitted. |
@@ -56,7 +56,7 @@ References to Committees With New Names.—Except as provided in subsection (c),
 
 &emsp;“(2) the Committee on Banking, Finance and Urban Affairs of the House of Representatives shall be treated as referring to the Committee on Banking and Financial Services of the House of Representatives;
 
-&emsp;“(3) the Committee on Education and Labor of the House of Representatives shall be treated as referring to the Committee on Economic and Educational Opportunities of the House of Representatives;
+&emsp;“(3) the Committee on Education and Labor of the House of Representatives shall be treated as referring to the Committee on Economic and Educational Opportunities \[now Committee on Education and the Workforce\] of the House of Representatives;
 
 &emsp;“(4) the Committee on Energy and Commerce of the House of Representatives shall be treated as referring to the Committee on Commerce of the House of Representatives;
 
@@ -129,7 +129,7 @@ References to Committees With Jurisdiction Changes.—Any reference in any provi
 - [&sect; 00024 - Secretary of Senate or assistant secretary may administer oaths](%C2%A7%2000024%20-%20Secretary%20of%20Senate%20or%20assistant%20secretary%20may%20administer%20oaths.md)
 - [&sect; 00025 - Oath of Speaker, Members, and Delegates](%C2%A7%2000025%20-%20Oath%20of%20Speaker%2C%20Members%2C%20and%20Delegates.md)
 - [&sect; 00025a - Delegate to House of Representatives from District of Columbia](%C2%A7%2000025a%20-%20Delegate%20to%20House%20of%20Representatives%20from%20District%20of%20Columbia.md)
-- [&sect; 00025b - Delegate from District of Columbia; applicability of certain Federal laws](%C2%A7%2000025b%20-%20Delegate%20from%20District%20of%20Columbia%3B%20applicability%20of%20certain%20Federal%20laws.md)
+- [&sect; 00025b - Repealed. Pub. L. 104&#8211;186, title II, &sect;202(1), Aug. 20, 1996. 110 Stat. 1724](%C2%A7%2000025b%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93186%2C%20title%20II%2C%20%C2%A7202%281%29%2C%20Aug.%2020%2C%201996.%20110%20Stat.%201724.md)
 - [&sect; 00026 - Roll of Representatives-elect](%C2%A7%2000026%20-%20Roll%20of%20Representatives-elect.md)
 - [&sect; 00027 - Change of place of meeting](%C2%A7%2000027%20-%20Change%20of%20place%20of%20meeting.md)
 - [&sect; 00028 - Parliamentary precedents of House of Representatives](%C2%A7%2000028%20-%20Parliamentary%20precedents%20of%20House%20of%20Representatives.md)

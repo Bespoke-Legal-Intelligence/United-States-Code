@@ -2,7 +2,7 @@
 
 (a) The Secretary is authorized to provide financial assistance in the form of grants to nonprofit and for profit community development corporations and other affiliated and supportive agencies and organizations associated with qualifying community development corporations for the payment of all or part of the cost of programs which are designed to carry out the purposes of this part. Financial assistance shall be provided so that each community economic development program is of sufficient size, scope, and duration to have an appreciable impact on the area served. Such programs may include—
 
-&emsp;(1) community business and commercial development programs, including (A) programs which provide financial and other assistance (including equity capital) to start, expand, or locate businesses in or near the area served so as to provide employment and ownership opportunities for residents of such areas; and (B) programs for small businesses located in or owned by residents of such areas;
+&emsp;(1) community business and commercial development programs, including (A) programs which provide financial and other assistance (including equity capital) to start, expand, or locate businesses in or near the area served soas to provide employment and ownership opportunities for residents of such areas; and (B) programs for small businesses located in or owned by residents of such areas;
 
 &emsp;(2) community physical development programs, including industrial parks and housing activities, which contribute to an improved environment and which create new training, employment and ownership opportunities for residents of such area;
 

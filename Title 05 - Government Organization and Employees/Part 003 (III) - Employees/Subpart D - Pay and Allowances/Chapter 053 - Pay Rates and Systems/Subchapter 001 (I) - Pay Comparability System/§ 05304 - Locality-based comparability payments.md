@@ -56,7 +56,7 @@
 
 &emsp;&emsp;(A) compares the rates of pay under the General Schedule (disregarding any described in section 5302(8)(C)) <sup>1</sup> with the rates of pay generally paid to non-Federal workers for the same levels of work within each pay locality, as determined on the basis of appropriate surveys that shall be conducted by the Bureau of Labor Statistics;
 
-&emsp;&emsp;(B) based on data from such surveys, identifies each locality in which a pay disparity exists and specifies the size of each such paydisparity (before and after taking into consideration any comparability payments payable);
+&emsp;&emsp;(B) based on data from such surveys, identifies each locality in which a pay disparity exists and specifies the size of each such pay disparity (before and after taking into consideration any comparability payments payable);
 
 &emsp;&emsp;(C) makes recommendations for appropriate comparability payments, in conformance with applicable requirements of this section; and
 
@@ -166,7 +166,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 5 U.S.C. 1174.
 
@@ -186,7 +188,7 @@ Levels III and IV of the Executive Schedule, referred to in subsecs. (g) and (h)
 
 #### Amendments
 
-<b>1992</b>—Subsec. (a)(3). Pub. L. 102–378, §2(26)(A)(i), substituted “Subject to paragraph (4),” for “Subject to paragraphs (4) and (5),” and “a comparability payment” for “a comparative payment”.
+1992—Subsec. (a)(3). Pub. L. 102–378, §2(26)(A)(i), substituted “Subject to paragraph (4),” for “Subject to paragraphs (4) and (5),” and “a comparability payment” for “a comparative payment”.
 
 Subsec. (a)(3)(H). Pub. L. 102–378, §2(26)(A)(ii), inserted “and” after semicolon at end.
 
@@ -208,13 +210,13 @@ Subsec. (h)(2)(C). Pub. L. 102–378, §2(26)(E)(ii), added subpar. (C).
 
 Subsec. (h)(3)(B). Pub. L. 102–378, §2(26)(E)(iii), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “shall be payable, within the locality involved, for the entirety of each calendar year for which authority is granted by the President;”.
 
-<b>1990</b>—Pub. L. 101–509 amended section generally, substituting provisions relating to locality-based comparability payments for provisions making functions, duties, and regulations of agencies and Office of Personnel Management with respect to this subchapter subject to Presidential policies and regulations.
+1990—Pub. L. 101–509 amended section generally, substituting provisions relating to locality-based comparability payments for provisions making functions, duties, and regulations of agencies and Office of Personnel Management with respect to this subchapter subject to Presidential policies and regulations.
 
-<b>1980</b>—Pub. L. 96–465 substituted “the Foreign Service Act of 1980” for “chapter 14 of title 22” in provisions preceding par. (1).
+1980—Pub. L. 96–465 substituted “the Foreign Service Act of 1980” for “chapter 14 of title 22” in provisions preceding par. (1).
 
-<b>1978</b>—Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission”.
+1978—Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission”.
 
-<b>1970</b>—Pub. L. 91–375 struck out provisions making functions, duties and regulations of the agencies and the Civil Service Commission with respect to the provisions of part III of title 39 relating to employees in the postal field service subject to Presidential policies and regulations.
+1970—Pub. L. 91–375 struck out provisions making functions, duties and regulations of the agencies and the Civil Service Commission with respect to the provisions of part III of title 39 relating to employees in the postal field service subject to Presidential policies and regulations.
 
 #### Effective Date of 1990 Amendment
 
@@ -290,7 +292,7 @@ Administration.—(1) An adjustment under this section shall be administered, to
 
 Commencement and Termination Rules.—(1) The effective date of an adjustment under this section shall be as determined by the President, but not later than January 1, 1994.
 
-“(2)(A) The size of any payments under this section may be reduced or terminated after the amendmentsmade by section 101 of this Act \[section 529 \[title I, §101\] of Pub. L. 101–509, see Tables for classification\] take effect \[see Effective Date of 1990 Amendment note set out under section 5301 of this title\], except that the reduction or termination of a payment under this section may not have the effect of reducing, for the individual involved, the total rate at which additional forms of basic pay (as defined in subparagraph (B)) are payable to such individual.
+“(2)(A) The size of any payments under this section may be reduced or terminated after the amendments made by section 101 of this Act \[section 529 \[title I, §101\] of Pub. L. 101–509, see Tables for classification\] take effect \[see Effective Date of 1990 Amendment note set out under section 5301 of this title\], except that the reduction or termination of a payment under this section may not have the effect of reducing, for the individual involved, the total rate at which additional forms of basic pay (as defined in subparagraph (B)) are payable to such individual.
 
 “(B) The total rate to which subparagraph (A) applies is the sum of—
 
@@ -356,11 +358,11 @@ George Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Locality-Based Comparability Payments
 
-Ex. Ord No. 12984, Dec. 28, 1995, 61 F.R. 237, set out as a note under section 5332 of this title, provided in part for payment of locality-based comparability payments effective on the first day of the first applicable pay period beginning on or after Jan. 1, 1996. See Schedule set out as follows:
+Ex. Ord. No. 13033, Dec. 27, 1996, 61 F.R. 68987, set out as a note under section 5332 of this title, provided in part for payment of locality-based comparability payments effective on the first day of the first applicable pay period beginning on or after Jan. 1, 1997. See Schedule set out as follows:
 
 Schedule 9—
 
-Locality-Based Comparability Payments<br>(Effective on the first day of the first applicable pay period beginning on or after January 1, 1996)
+Locality-Based Comparability Payments<br>(Effective on the first day of the first applicable pay period beginning on or after January 1, 1997)
 
 Locality Pay Area <sup>1</sup>
 
@@ -368,113 +370,127 @@ Rate
 
 Atlanta, GA
 
-5\.14%
+5\.65%
 
 Boston-Worcester-Lawrence, MA–NH–ME–CT
 
-7\.68%
+7\.97%
 
 Chicago-Gary-Kenosha, IL–IN–WI
 
-7\.63%
+8\.13%
 
 Cincinnati-Hamilton, OH–KY–IN
 
-5\.87%
+6\.75%
 
 Cleveland-Akron, OH
 
-4\.67%
+5\.51%
 
 Columbus, OH
 
-5\.84%
+6\.62%
 
 Dallas-Fort Worth, TX
 
-6\.23%
+6\.40%
 
 Dayton-Springfield, OH
 
-5\.72%
+5\.66%
 
-Denver-Boulder-Greely, CO
+Denver-Boulder-Greeley, CO
 
-6\.34%
+7\.06%
 
 Detroit-Ann Arbor-Flint, MI
 
-7\.26%
+8\.14%
 
 Houston-Galveston-Brazoria, TX
 
-9\.40%
+11\.52%
 
 Huntsville, AL
 
-4\.84%
+5\.18%
 
 Indianapolis, IN
 
-5\.04%
+5\.49%
 
 Kansas City, MO–KS
 
-4\.38%
+5\.10%
 
 Los Angeles-Riverside-Orange County, CA
 
-8\.15%
+9\.46%
 
 Miami-Fort Lauderdale, FL
 
-5\.94%
+6\.74%
+
+Milwaukee-Racine, WI
+
+5\.58%
+
+Minneapolis-St. Paul, MN–WI
+
+6\.53%
 
 New York-Northern New Jersey-Long Island, NY–NJ–CT–PA
 
-8\.05%
+9\.15%
 
 Philadelphia-Wilmington-Atlantic City, PA–NJ–DE– MD
 
-6\.90%
+7\.28%
+
+Pittsburgh, PA
+
+5\.07%
 
 Portland-Salem, OR–WA
 
-5\.20%
+6\.13%
 
 Richmond-Petersburg, VA
 
-4\.41%
+5\.27%
 
 Sacramento-Yolo, CA
 
-5\.81%
+6\.56%
 
 St. Louis, MO–IL
 
-4\.72%
+5\.18%
 
 San Diego, CA
 
-6\.76%
+7\.07%
 
 San Francisco-Oakland-San Jose, CA
 
-8\.97%
+10\.66%
 
 Seattle-Tacoma-Bremerton, WA
 
-6\.44%
+6\.62%
 
 Washington-Baltimore, DC–MD–VA–WV
 
-6\.04%
+7\.11%
 
 Rest of U.S.
 
-4\.13%
+4\.81%
 
 <sup>1</sup> Locality Pay Areas are defined in 5 CFR 531.603.
+
+Ex. Ord. No. 12984, Dec. 28, 1995, 61 F.R. 237, which provided for payment of locality-based comparability payments effective Jan. 1, 1996, was superseded by Ex. Ord. No. 13033, Dec. 27, 1996, 61 F.R. 68987, set out as a note under section 5332 of this title.
 
 Approval of locality-based comparability payments recommended by the Director of the Office of Personnel Management was contained in the following:
 
@@ -484,7 +500,7 @@ Memorandum of President of the United States, Dec. 1, 1993, 58 F.R. 64097.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 4505a, 5302, 5304a, 5305, 5392, 5542, 5543, 5545, 5547, 5753, 5754, 5755, 8431 of this title; title 2 section 906; title 21 section 379h; title 28 section 594.
+This section is referred to in sections 4505a, 5302, 5304a, 5305, 5392, 5542, 5543, 5545, 5547, 5753, 5754, 5755 of this title; title 2 section 906; title 21 section 379h; title 28 section 594.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

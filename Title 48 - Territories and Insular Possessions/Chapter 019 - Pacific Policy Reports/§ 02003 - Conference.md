@@ -6,7 +6,7 @@ Prior to submitting the reports required under section 2002(b) of this title, th
 
 #### (b) Participants
 
-Representatives of each of the noncontiguous Pacific areas; and the heads of all executive departments and agencies, and other public and private organizations concerned with the noncontiguous Pacific areas as requested by theSecretary of the Interior shall be entitled to be participants in the conference.
+Representatives of each of the noncontiguous Pacific areas; and the heads of all executive departments and agencies, and other public and private organizations concerned with the noncontiguous Pacific areas as requested by the Secretary of the Interior shall be entitled to be participants in the conference.
 
 #### (c) Written comments
 

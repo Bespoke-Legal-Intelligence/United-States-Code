@@ -24,7 +24,7 @@ Determination and Disposition.—If, after the hearing, the court finds by clear
 
 (e)
 
-Discharge.—When the director of the facility in which a person is hospitalized pursuant tosubsection (d) determines that the person has recovered from his mental disease or defect to such an extent that his release would no longer create a substantial risk of bodily injury to another person or serious damage to property of another, he shall promptly file a certificate to that effect with the clerk of the court that ordered the commitment. The clerk shall send a copy of the certificate to the person's counsel and to the attorney for the Government. The court shall order the discharge of the person or, on the motion of the attorney for the Government or on its own motion, shall hold a hearing, conducted pursuant to the provisions of section 4247(d), to determine whether he should be released. If, after the hearing, the court finds by a preponderance of the evidence that the person has recovered from his mental disease or defect to such an extent that—
+Discharge.—When the director of the facility in which a person is hospitalized pursuant to subsection (d) determines that the person has recovered from his mental disease or defect to such an extent that his release would no longer create a substantial risk of bodily injury to another person or serious damage to property of another, he shall promptly file a certificate to that effect with the clerk of the court that ordered the commitment. The clerk shall send a copy of the certificate to the person's counsel and to the attorney for the Government. The court shall order the discharge of the person or, on the motion of the attorney for the Government or on its own motion, shall hold a hearing, conducted pursuant to the provisions of section 4247(d), to determine whether he should be released. If, after the hearing, the court finds by a preponderance of the evidence that the person has recovered from his mental disease or defect to such an extent that—
 
 &emsp;(1) his release would no longer create a substantial risk of bodily injury to another person or serious damage to property of another, the court shall order that he be immediately discharged; or
 
@@ -54,5 +54,5 @@ Release to State of Certain Other Persons.—If the director of a facility in wh
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3154, 3603, 4241, 4247 of this title.
+This section is referred to in sections 3154, 3603, 4241, 4247 of this title; title 10 section 876b.
 

@@ -72,17 +72,19 @@
 
 (C) Nothing in this paragraph shall be considered to limit an individual making an election under subsection (c)(2)(A) to coverage for self alone.
 
-(4)(A) If the basis for continued coverage under this section is an involuntary separation from a position in or under the Department of Defense due to a reduction in force—
+(4)(A) If the basis for continued coverage under this section is an involuntary separation from a position, or a voluntary separation from a surplus position, in or under the Department of Defense due to a reduction in force—
 
 &emsp;(i) the individual shall be liable for not more than the employee contributions referred to in paragraph (1)(A)(i); and
 
 &emsp;(ii) the agency which last employed the individual shall pay the remaining portion of the amount required under paragraph (1)(A).
 
-(B) This paragraph shall apply with respect to any individual whose continued coverage isbased on a separation occurring on or after the date of enactment of this paragraph and before—
+(B) This paragraph shall apply with respect to any individual whose continued coverage is based on a separation occurring on or after the date of enactment of this paragraph and before—
 
 &emsp;(i) October 1, 1999; or
 
 &emsp;(ii) February 1, 2000, if specific notice of such separation was given to such individual before October 1, 1999.
+
+(C) For the purpose of this paragraph, “surplus position” means a position which is identified in pre-reduction-in-force planning as no longer required, and which is expected to be eliminated under formal reduction-in-force procedures.
 
 (e)(1) Continued coverage under this section may not extend beyond—
 
@@ -98,7 +100,7 @@
 
 &emsp;(C) so ceases to meet the requirements referred to in subparagraph (A) before the end of the 18-month period beginning on the date of the former employee's separation from service,
 
-> extended coverage under this section may not extend beyond the date which is 36 months after the separation date referred to in subparagraph (C).
+> extended coverage under this section may not extend beyond the date which is 36 months afterthe separation date referred to in subparagraph (C).
 
 (f)(1) The Office shall prescribe regulations under which, in addition to any individual otherwise eligible for continued coverage under this section, and to the extent practicable, continued coverage may also, upon appropriate written application, be afforded under this section—
 
@@ -128,7 +130,7 @@
 
 > extended coverage under this section may not extend beyond the date which is 36 months after the date of the separation from service, as referred to in subparagraph (A).
 
-(Added Pub. L. 100–654, title II, §201(a)(1), Nov. 14, 1988, 102 Stat. 3841; amended Pub. L. 102–484, div. D, title XLIV, §4438(a), Oct. 23, 1992, 106 Stat. 2725; Pub. L. 103–337, div. A, title III, §341(d), Oct. 5, 1994, 108 Stat. 2720.)
+(Added Pub. L. 100–654, title II, §201(a)(1), Nov. 14, 1988, 102 Stat. 3841; amended Pub. L. 102–484, div. D, title XLIV, §4438(a), Oct. 23, 1992, 106 Stat. 2725; Pub. L. 103–337, div. A, title III, §341(d), Oct. 5, 1994, 108 Stat. 2720; Pub. L. 104–106, div. A, title X, §1036, Feb. 10, 1996, 110 Stat. 431.)
 
 #### References in Text
 
@@ -136,9 +138,13 @@ The date of enactment of this paragraph, referred to in subsec. (d)(4)(B), is th
 
 #### Amendments
 
-<b>1994</b>—Subsec. (d)(4)(B). Pub. L. 103–337 substituted “October 1, 1999” for “October 1, 1997” in cls. (i) and (ii) and “February 1, 2000” for “February 1, 1998” in cl. (ii).
+1996—Subsec. (d)(4)(A). Pub. L. 104–106, §1036(1), inserted “, or a voluntary separation from a surplus position,” after “an involuntary separation from a position” in introductory provisions.
 
-<b>1992</b>—Subsec. (d)(1)(A). Pub. L. 102–484, §4438(a)(1), substituted “Except as provided in paragraph (4), an individual” for “An individual”.
+Subsec. (d)(4)(C). Pub. L. 104–106, §1036(2), added subpar. (C).
+
+1994—Subsec. (d)(4)(B). Pub. L. 103–337 substituted “October 1, 1999” for “October 1, 1997” in cls. (i) and (ii) and “February 1, 2000” for “February 1, 1998” in cl. (ii).
+
+1992—Subsec. (d)(1)(A). Pub. L. 102–484, §4438(a)(1), substituted “Except as provided in paragraph (4), an individual” for “An individual”.
 
 Subsec. (d)(2). Pub. L. 102–484, §4438(a)(2), substituted “in accordance with paragraph (1) or (4), as the case may be)” for “in accordance with paragraph (1))”.
 

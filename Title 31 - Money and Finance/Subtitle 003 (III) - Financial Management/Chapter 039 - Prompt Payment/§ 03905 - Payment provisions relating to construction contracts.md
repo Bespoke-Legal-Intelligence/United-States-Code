@@ -4,7 +4,7 @@
 
 &emsp;(1) notify the agency of such performance deficiency; and
 
-&emsp;(2) be obligated to pay the Government an amount equal to interest on the unearned amount (computed in the manner provided in section 3903(c) of this title), from the date ofthe contractor's receipt of such unearned amount until—
+&emsp;(2) be obligated to pay the Government an amount equal to interest on the unearned amount (computed in the manner provided in section 3903(c) of this title), from the date of the contractor's receipt of such unearned amount until—
 
 &emsp;&emsp;(A) the date the contractor notifies the agency that the performance deficiency has been corrected; or
 
@@ -32,7 +32,7 @@
 
 &emsp;&emsp;(A) a notice conforming to the standards of subsection (g) of this section has been previously furnished to the subcontractor; and
 
-&emsp;&emsp;(B) a copy of any notice issued by a prime contractor pursuant to subparagraph (A) of this paragraph has been furnished to the Government.
+&emsp;&emsp;(B) a copy of any notice issued by a prime contractor pursuant to subparagraph (A) ofthis paragraph has been furnished to the Government.
 
 (e) If a prime contractor, after making application to an agency for payment under a contract but before making a payment to a subcontractor for the subcontractor's performance covered by such application, discovers that all or a portion of the payment otherwise due such subcontractor is subject to withholding from the subcontractor in accordance with the subcontract agreement, then the prime contractor shall—
 

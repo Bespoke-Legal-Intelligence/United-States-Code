@@ -12,7 +12,7 @@ Section is also set out in D.C. Code, §9–106.
 
 1980—Pub. L. 96–432 substituted “Constitution Avenue from Second Street Northeast to Third Street Northwest” and “C Street and Canal Street S.W., Pennsylvania Avenue Northwest from First Street Northwest to Third Street Northwest, Maryland Avenue Southwest from First Street Southwest to Third Street Southwest, Second Street Northeast from F Street Northeast to C Street Southeast; C Street Southeast from Second Street Southeast to First Street Southeast; that portion of Maryland Avenue Northeast from Second Street Northeast to First Street Northeast; that portion of New Jersey Avenue Northwest from D Street Northwest to Louisiana Avenue; that portion of Second Street Southwest from the north curb of D Street to the south curb of Virginia Avenue Southwest; that portion of Virginia Avenue Southwest from the east curb of Second Street Southwest to the west curb of Third Street Southwest; that portion of Third Street Southwest from the south curb of Virginia Avenue Southwest to the north curb of D Street Southwest; that portion of D Street Southwest from the west curb of Third Street Southwest to the east curb of Second Street Southwest; that portion of Canal Street Southwest, including sidewalks and traffic islands, from the south curb of Independence Avenue Southwest to the west curb of South Capitol Street: <i>Provided</i>” for “Constitution Avenue from First Street N.E. to Second Street N.W.” and “C Street and Canal Street S.W.: <i>Provided</i>”, respectively.
 
-1973—Pub. L. 93–198 substituted “, including those streets and roadways in said United States Capitol Grounds as shown on said map as being under the jurisdiction and control of the Commissioners of the District of Columbia, except that the Commissioner of the District of Columbia shall be responsible for the maintenance and improvement of those portions of the following streets which are situated between the curblines thereof: Constitution Avenue from First Street N.E. to Second Street N.W., First Street from D Street N.E. to D Street S.E., D Street from First Street S.E. to Canal Street S.W., and First Street from the north side of Louisiana Avenue to the intersection of C Street and Canal Street S.W.: <i>Provided,”</i> for “: <i>Provided</i>, That those streets and roadways as being under the jurisdiction and control of the Commissioner of the District of Columbia shall continue under such jurisdiction and control, and said Commissioner shall be responsible for the maintenance and improvement thereof: <i>Provided further,”.</i>
+1973—Pub. L. 93–198 substituted “, including those streets and roadways in said United States Capitol Grounds as shown on said map as being under the jurisdiction and control of the Commissioners of the District of Columbia, except that the Commissioner of the District of Columbia shall be responsible for the maintenance and improvement of those portions of the following streets which are situated between the curblines thereof: Constitution Avenue from First Street N.E. to Second Street N.W., First Street from D Street N.E. to D Street S.E., D Street from First Street S.E. to Canal Street S.W., and First Street from the north side of Louisiana Avenue to the intersection of C Street and Canal Street S.W.: <i>Provided</i>,” for “: <i>Provided</i>, That those streets and roadways as being under the jurisdiction and control of the Commissioner of the District of Columbia shall continue under such jurisdiction and control, and said Commissioner shall be responsible for the maintenance and improvement thereof: <i>Provided further</i>,”.
 
 1967—Pub. L. 90–108 inserted “including all additions added thereto by law subsequent to June 25, 1946,” after “book 127, page 8”, and struck out “as defined on the aforementioned map” after “the entire area of the United States Capitol Grounds”.
 
@@ -36,7 +36,99 @@ Except as otherwise provided in Reorg. Plan No. 3 of 1967, functions of Board of
 
 Pub. L. 102–392, title III, §324, Oct. 6, 1992, 106 Stat. 1726, established in the Congress the Commission on the Bicentennial of the United States Capitol to organize and publicize a celebration in 1993 to observe the 200th anniversary of the laying of the cornerstone of the United States Capitol, set forth its composition of certain Members of Congress and its staffing authority, authorized the Commission to use voluntary staff and services and information, services, facilities, and personnel of the Secretary of the Senate and the Clerk of the House of Representatives, and directed support and assistance from legislative agencies and funding of expenses from the contingency funds of the Senate and House of Representatives.
 
-#### Extension of United States Capitol Grounds
+#### Changes in United States Capitol Grounds
+
+Pub. L. 104–333, div. I, title V, §514, Nov. 12, 1996, 110 Stat. 4165, provided that:
+
+“(a)
+
+Purpose.—It is the purpose of this section—
+
+&emsp;“(1) to assist in the effort to timely establish within the District of Columbia a national memorial to Japanese American patriotism in World War II; and
+
+&emsp;“(2) to improve management of certain parcels of Federal real property located within the District of Columbia,
+
+> by the transferring jurisdiction over such parcels to the Architect of the Capitol, the Secretary of the Interior, and the Government of the District of Columbia.
+
+“(b)
+
+Transfers of Jurisdiction.—
+
+&emsp;“(1)
+
+In general.—Effective on the date of the enactment of this Act \[Nov. 12, 1996\] and notwithstanding any other provision of law, jurisdiction over the parcels of Federal real property described in paragraph (2) is transferred without additional consideration as provided by paragraph (2).
+
+&emsp;“(2)
+
+Specific transfers.—
+
+&emsp;&emsp;“(A)
+
+Transfers to secretary of the interior.—
+
+&emsp;&emsp;&emsp;“(i)
+
+In general.—Jurisdiction over the following parcels is transferred to the Secretary of the Interior:
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) That triangle of Federal land, including any contiguous sidewalks and tree space, that is part of the United States Capitol Grounds under the jurisdiction of the Architect of the Capitol bound by D Street, N.W., New Jersey Avenue, N.W., and Louisiana Avenue, N.W., in square W632 in the District of Columbia, as shown on the Map Showing Properties Under Jurisdiction of the Architect of the Capitol, dated November 8, 1994.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) That triangle of Federal land, including any contiguous sidewalks and tree space, that is part of the United States Capitol Grounds under the jurisdiction of the Architect of the Capitol bound by C Street, N.W., First Street, N.W., and Louisiana Avenue, N.W., in the District of Columbia, as shown on the Map Showing Properties Under Jurisdiction of the Architect of the Capitol, dated November 8, 1994.
+
+&emsp;&emsp;&emsp;“(ii)
+
+Limitation.—The parcels transferred by clause (i) shall not include those contiguous sidewalks abutting Louisiana Avenue, N.W., which shall remain part of the United States Capitol Grounds under the jurisdiction of the Architect of the Capitol.
+
+&emsp;&emsp;&emsp;“(iii)
+
+Consideration as memorial site.—The parcels transferred by subclause (I) of clause (i) may be considered as a site for a national memorial to Japanese American patriotism in World War II.
+
+&emsp;&emsp;“(B)
+
+Transfers to architect of the capitol.—Jurisdiction over the following parcels is transferred to the Architect of the Capitol:
+
+&emsp;&emsp;&emsp;“(i) That portion of the triangle of Federal land in Reservation No. 204 in the District of Columbia under the jurisdiction of the Secretary of the Interior, including any contiguous sidewalks, bound by Constitution Avenue, N.E., on the north, the branch of Maryland Avenue, N.E., running in a northeast direction on the west, the major portion of Maryland Avenue, N.E., on the south, and 2nd Street, N.E., on the east, including the contiguous sidewalks.
+
+&emsp;&emsp;&emsp;“(ii) That irregular area of Federal land in Reservation No. 204 in the District of Columbia under the jurisdiction of the Secretary of the Interior, including any contiguous sidewalks, northeast of the real property described in clause (i) bound by Constitution Avenue, N.E., on the north, the branch of Maryland Avenue, N.E., running to the northeast on the south, and the private property on the west known as lot 7, in square 726.
+
+&emsp;&emsp;&emsp;“(iii) The two irregularly shaped medians lying north and east of the property described in clause (i), located between the north and south curbs of Constitution Avenue, N.E., west of its intersection with Second Street, N.E., all as shown in Land Record No. 268, dated November 22, 1957, in the Office of the Surveyor, District of Columbia, in Book 138, Page 58.
+
+&emsp;&emsp;&emsp;“(iv) All sidewalks under the jurisdiction of the District of Columbia abutting on and contiguous to the land described in clauses (i), (ii), and (iii).
+
+&emsp;&emsp;“(C)
+
+Transfers to district of columbia.—Jurisdiction over the following parcels is transferred to the Government of the District of Columbia:
+
+&emsp;&emsp;&emsp;“(i) That portion of New Jersey Avenue, N.W., between the northernmost point of the intersection of New Jersey Avenue, N.W., and D Street, N.W., and the northernmost point of the intersection of New Jersey Avenue, N.W., and Louisiana Avenue, N.W., between squares 631 and W632, which remains Federal property.
+
+&emsp;&emsp;&emsp;“(ii) That portion of D Street, N.W., between its intersection with New Jersey Avenue, N.W., and its intersection with Louisiana Avenue, N.W., between squares 630 and W632, which remains Federal property.
+
+“(c)
+
+Miscellaneous.—
+
+&emsp;“(1)
+
+Compliance with other laws.—Compliance with this section shall be deemed to satisfy the requirements of all laws otherwise applicable to transfers of jurisdiction over parcels of Federal real property.
+
+&emsp;“(2)
+
+Law enforcement responsibility.—Law enforcement responsibility for the parcels of Federal real property for which jurisdiction is transferred by subsection (b) shall be assumed by the person acquiring such jurisdiction.
+
+&emsp;“(3)
+
+United states capitol grounds.—
+
+&emsp;&emsp;“(A)
+
+Definition.—The first section of the Act entitled ‘An Act to define the United States Capitol Grounds, to regulate the use thereof, and for other purposes’, approved July 31, 1946 (40 U.S.C. 193a), is amended to include within the definition of the United States Capitol Grounds the parcels of Federal real property described in subsection (b)(2)(B).
+
+&emsp;&emsp;“(B)
+
+Jurisdiction of capitol police.—The United States Capitol Police shall have jurisdiction over the parcels of Federal real property described in subsection (b)(2)(B) in accordance with section 9 of such Act of July 31, 1946 (40 U.S.C. 212a).
+
+&emsp;“(4)
+
+Effect of transfers.—A person relinquishing jurisdiction over a parcel of Federal real property transferred by subsection (b) shall not retain any interest in the parcel except as specifically provided by this section.”
 
 Pub. L. 97–379, Dec. 22, 1982, 96 Stat. 1935, provided: “That section 1 of the Act of July 31, 1946, as amended (40 U.S.C. 193a), is amended to include within the definition of the United States Capitol Grounds the following additional areas which are situated as follows:
 
@@ -98,7 +190,7 @@ Pub. L. 93–198, title VII, §739(g)(3), Dec. 24, 1973, 87 Stat. 828, effective
 
 #### Jurisdiction of the Capitol Police Board and the Architect of the Capitol
 
-Section 3 of Pub. L. 96–432 provided that: “On and after the effective date of this section \[see Effective Date of 1980 Amendment note set out above\], that portion of C Street Northeast from the west curb of Second Street Northeast to the east curb of First Street Northeast shall be under the exclusive jurisdiction and control of the Capitol Police Board and the Architect of the Capitol in the same manner and to the same extent as such Board or the Architect of the Capitol has over other streets comprising the United States Capitol Grounds, and the Architect of the Capitol shall be responsible for the maintenance and improvement thereof.”
+Section 3 of Pub. L. 96–432 provided that: “On and after the effective date of this section \[see Effective Date of 1980 Amendment note set out above\], that portion of C Street Northeast from the west curb of Second Street Northeast to the east curb of First Street Northeast shall be under the exclusive jurisdiction and control of the Capitol Police Board and the Architect ofthe Capitol in the same manner and to the same extent as such Board or the Architect of the Capitol has over other streets comprising the United States Capitol Grounds, and the Architect of the Capitol shall be responsible for the maintenance and improvement thereof.”
 
 #### United States Supreme Court and Library of Congress; Jurisdictional Boundaries
 
@@ -202,7 +294,7 @@ WHEREAS, Squares 732 north and south were acquired as an addition to the Capitol
 
 WHEREAS, the aforesaid Additional House Office Building Act provides, in pertinent part, with respect to these properties, as follows:
 
-&emsp;“\* \* \* At such time or times as may be fixed by order of the House Office Building Commission, (1) any real property acquired under, or made available for the purposes of, this chapter shall become part of the United States Capitol Grounds and subject to the Act entitled ‘An Act to define the area of the United States Capitol Grounds, to regulate the use thereof, and for other purposes’, approved July 31, 1946 (40 U.S.C., secs. 193a—193m, 212a, \[212a–2,\] and 212b), and (2) the building and all facilities constructed pursuant to section 1201 of this chapter shall become subject to such Act approved July 31, 1946, and to the provisions of law relating to the control, supervision, and care of the House Office Building contained in the Act approved Mar. 4, 1907, as amended (40 U.S.C., sec. 175).”
+&emsp;“\* \* \* At such time or times as may be fixed by order of the House Office Building Commission, (1) any real property acquired under, or made available for the purposes of, this chapter shall become part of the United States Capitol Grounds and subject to the Act entitled ‘An Act to define the area of the United States Capitol Grounds, to regulate the use thereof, and for other purposes’, approved July 31, 1946 (40 U.S.C., secs. 193a—193m, 212a, \[212a–2,\] and 212b), and (2) the building and all facilities constructed pursuant to section 1201 of this chapter shall become subject to such Act approved July 31, 1946, and to the provisions of law relating to the control, supervision, and care of the House Office Building contained inthe Act approved Mar. 4, 1907, as amended (40 U.S.C., sec. 175).”
 
 NOW, THEREFORE, in formal compliance with the aforecited provisions of the Additional House Office Building Act, the House Office Building Commission, in confirmation of actions heretofore taken by the Commission, hereby orders:
 

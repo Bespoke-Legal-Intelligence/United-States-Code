@@ -48,7 +48,7 @@ The total amount of any grant under subsection (c)(3) of this section to any gro
 
 (1) The Chairperson, with the advice of the National Council on the Humanities, is authorized, in accordance with the provisions of this subsection, to establish and carry out a program of grants-in-aid in each of the several States in order to support not more than 50 per centum of the cost of existing activities which meet the standards enumerated in subsection (c) of this section, and in order to develop a program in the humanities in such a manner as will furnish adequate programs in the humanities in each of the several States.
 
-(2)(A) Whenever a State desires to designate or to provide for the establishment of a State agency as the sole agency for the administration of the State plan, such State shall designate the humanities council in existence on the date the State agency is established as the State agency, and shall match from State funds a sum equal to 50 per centum of that portion of Federal financial assistance received by such State under this subsection which is described in the first sentence of paragraph (4) relating to the minimum State grant, or 25 per centum of the total amount of Federal financial assistance received by such State under this subsection, whichever is greater, for the fiscal year involved. In any State in which the State selects the option described in this subparagraph, the State shall submit, before the beginning of each fiscal year, an application for grants and accompany such application with a plan which the Chairperson finds—
+(2)(A) Whenever a State desires to designate or to provide for the establishment of a State agency as the sole agency for the administration of the State plan, such State shall designate the humanities council in existence on the date the State agency is established as the State agency, and shall match from State funds a sum equal to 50 per centum of that portion of Federal financial assistance received by such State under this subsection which is described in the first sentence of paragraph (4) relating to the minimum State grant, or 25 per centum of the total amount of Federal financial assistance received by such State under this subsection, whichever is greater, for the fiscal year involved. In anyState in which the State selects the option described in this subparagraph, the State shall submit, before the beginning of each fiscal year, an application for grants and accompany such application with a plan which the Chairperson finds—
 
 &emsp;(i) designates or provides for the establishment of a State agency (hereinafter in this section referred to as the “State agency”) as the sole agency for the administration of the State plan;
 
@@ -88,7 +88,7 @@ The total amount of any grant under subsection (c)(3) of this section to any gro
 
 &emsp;(A) provides assurances that the grant recipient will comply with the requirements of paragraph (2)(B);
 
-&emsp;(B) provides that funds paid to the grant recipient will be expended solely on programswhich carry out the objectives of subsection (c) of this section;
+&emsp;(B) provides that funds paid to the grant recipient will be expended solely on programs which carry out the objectives of subsection (c) of this section;
 
 &emsp;(C) establishes a membership policy which is designed to assure broad public representation with respect to programs administered by such grant recipient;
 
@@ -142,7 +142,7 @@ The total amount of any grant under subsection (c)(3) of this section to any gro
 
 (E) For purposes of paragraph (4)(B), the term “State” and the term “grant recipient” include, in addition to the several States of the Union, only those special jurisdictions specified in section 952(g) of this title which have a population of 200,000 or more, according to the latest decennial census.
 
-(6) All amounts allotted or made available under paragraph (4) for a fiscal year which arenot granted to any entity during such fiscal year shall be available to the National Endowment for the Humanities for the purpose of carrying out subsection (c) of this section.
+(6) All amounts allotted or made available under paragraph (4) for a fiscal year which are not granted to any entity during such fiscal year shall be available to the National Endowment for the Humanities for the purpose of carrying out subsection (c) of this section.
 
 (7) Whenever the Chairperson, after reasonable notice and opportunity for hearing, finds that—
 
@@ -154,11 +154,11 @@ The total amount of any grant under subsection (c)(3) of this section to any gro
 
 > the Chairperson shall immediately notify the Secretary of the Treasury and the group, State agency, or grant recipient with respect to which such finding was made that no further grants will be made under this subsection to such group, State agency, or grant recipient until there is no longer a default or failure to comply or the diversion has been corrected, or, if the compliance or correction is impossible, until such group, State agency, or grant recipient repays or arranges the repayment of the Federal funds which have been improperly diverted or expended.
 
-(8) Except as provided in the third sentence of paragraph (4), and paragraphs (5) and (6), the Chairperson may not make grants under this subsection to more than one entity in any State.
+(8) Except as provided in the third sentence of paragraph (4), and paragraphs (5) and (6), theChairperson may not make grants under this subsection to more than one entity in any State.
 
 #### (g) Payment of performers and supporting personnel; standards, regulations, and procedures
 
-It shall be a condition of the receipt of any grant under this section that the group, individual, or State agency or entity receiving such grant furnish adequate assurances to the Secretary of Labor that (1) all professional performers and related or supporting professional personnel employed on projects or productions which are financed in whole or in part under this section will be paid, without subsequent deduction or rebate on any account, not less than the minimum compensation as determined by the Secretary of Labor to be the prevailing minimum compensation for persons employed in  similar  activities;  and  (2)  no  part  of  any project or production which is financed in whole or in part under this section will be performed or engaged in under working conditions which are unsanitary or hazardous or dangerous to the health and safety of the employees engaged in such project or production. Compliance with the safety and sanitary laws of the State in which the performance or part thereof is to take place shall be prima facie evidence of compliance. The Secretary of Labor shall prescribe standards, regulations, and procedures necessary to carry out this subsection.
+It shall be a condition of the receipt of any grant under this section that the group, individual, or State agency or entity receiving such grant furnish adequate assurances to the Secretary of Labor that (1) all professional performers and related or supporting professional personnel employed on projects or productions which are financed in whole or in part under this section will be paid, without subsequent deduction or rebate on any account, not less than the minimum compensation as determined by the Secretary of Labor to be the prevailing minimum compensation for persons employed in similar activities; and (2) no part of any project or production which is financed in whole or in part under this section will be performed or engaged in under working conditions which are unsanitary or hazardous or dangerous to the health and safety of the employees engaged in such project or production. Compliance with the safety and sanitary laws of the State in which the performance or part thereof is to take place shall be prima facie evidence of compliance. The Secretary of Labor shall prescribe standards, regulations, and procedures necessary to carry out this subsection.
 
 #### (h) Program of contracts or grants-in-aid to public agencies and private nonprofit organizations; limitation on payments
 
@@ -264,7 +264,7 @@ Subsec. (g). Pub. L. 99–194, §107(4), substituted “The Secretary of Labor s
 
 Subsecs. (h)(1), (2)(B), (3), (i). Pub. L. 99–194, §107(5), substituted “Chairperson” for “Chairman” wherever appearing.
 
-Subsecs. (j) to (<i>l</i>). Pub. L. 99–194, §107(6), added subsecs. (j) to (<i>l).</i>
+Subsecs. (j) to (<i>l</i>). Pub. L. 99–194, §107(6), added subsecs. (j) to (<i>l</i>).
 
 1980—Subsec. (c). Pub. L. 96–496, §109(c), substituted “Committee on Labor and Human Resources” for “Committee on Labor and Public Welfare” in last sentence.
 
@@ -306,7 +306,7 @@ Subsec. (c)(5). Pub. L. 91–346, §8(c), announced intention to foster educatio
 
 #### Change of Name
 
-Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Economic and Educational Opportunities of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Fifth Congress, Jan. 7, 1997.
 
 #### Effective Date of 1990 Amendment
 

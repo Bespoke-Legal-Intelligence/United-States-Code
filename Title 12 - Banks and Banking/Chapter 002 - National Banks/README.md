@@ -26,7 +26,7 @@
 | (c) | Coordination with section 36 of this title. |
 | [31\.](Subchapter%20001%20%28I%29%20-%20Organization%20and%20General%20Provisions/%C2%A7%2000031%20-%20Rights%20and%20liabilities%20as%20affected%20by%20change%20of%20name.md) | Rights and liabilities as affected by change of name. |
 | [32\.](Subchapter%20001%20%28I%29%20-%20Organization%20and%20General%20Provisions/%C2%A7%2000032%20-%20Liabilities%20and%20suits%20as%20affected%20by%20change%20of%20name%20or%20location.md) | Liabilities and suits as affected by change of name or location. |
-| 33 to 34c. Transferred. |  |
+| 33 to 34c. | Transferred. |
 | [35\.](Subchapter%20001%20%28I%29%20-%20Organization%20and%20General%20Provisions/%C2%A7%2000035%20-%20Organization%20of%20State%20banks%20as%20national%20banking%20associations.md) | Organization of State banks as national banking associations. |
 | [36\.](Subchapter%20001%20%28I%29%20-%20Organization%20and%20General%20Provisions/%C2%A7%2000036%20-%20Branch%20banks.md) | Branch banks. |
 | (a) | Lawful and continuous operation. |
@@ -36,11 +36,11 @@
 | (e) | Exclusive authority for additional branches. |
 | (f) | Law applicable to interstate branching operations. |
 | (g) | State “opt-in” election to permit interstate branching through de novo branches. |
-| (h) | Aggregate minimum capital. |
+| (h) | Repealed. |
 | (i) | Prior approval of branch locations. |
 | (j) | “Branch” defined. |
 | (k) | Branches in foreign countries, dependencies, or insular possessions. |
-| (<i>l)</i> | “State bank” and “bank” defined. |
+| (<i>l</i>) | “State bank” and “bank” defined. |
 | [37\.](Subchapter%20001%20%28I%29%20-%20Organization%20and%20General%20Provisions/%C2%A7%2000037%20-%20Associations%20governed%20by%20chapter.md) | Associations governed by chapter. |
 | [38\.](Subchapter%20001%20%28I%29%20-%20Organization%20and%20General%20Provisions/%C2%A7%2000038%20-%20The%20National%20Bank%20Act.md) | The National Bank Act. |
 | [39\.](Subchapter%20001%20%28I%29%20-%20Organization%20and%20General%20Provisions/%C2%A7%2000039%20-%20Reservation%20of%20rights%20of%20associations%20organized%20under%20Act%20of%201863.md) | Reservation of rights of associations organized under Act of 1863. |
@@ -115,7 +115,7 @@
 | (d) | Authority of Comptroller of the Currency. |
 | [85\.](Subchapter%20004%20%28IV%29%20-%20Regulation%20of%20the%20Banking%20Business%3B%20Powers%20and%20Duties%20of%20National%20Banks/%C2%A7%2000085%20-%20Rate%20of%20interest%20on%20loans%2C%20discounts%20and%20purchases.md) | Rate of interest on loans, discounts and purchases. |
 | [86\.](Subchapter%20004%20%28IV%29%20-%20Regulation%20of%20the%20Banking%20Business%3B%20Powers%20and%20Duties%20of%20National%20Banks/%C2%A7%2000086%20-%20Usurious%20interest%3B%20penalty%20for%20taking%3B%20limitations.md) | Usurious interest; penalty for taking; limitations. |
-| 86a to 89. Omitted or Repealed. |  |
+| 86a to 89. | Omitted or Repealed. |
 | [90\.](Subchapter%20004%20%28IV%29%20-%20Regulation%20of%20the%20Banking%20Business%3B%20Powers%20and%20Duties%20of%20National%20Banks/%C2%A7%2000090%20-%20Depositaries%20of%20public%20moneys%20and%20financial%20agents%20of%20Government.md) | Depositaries of public moneys and financial agents of Government. |
 | [91\.](Subchapter%20004%20%28IV%29%20-%20Regulation%20of%20the%20Banking%20Business%3B%20Powers%20and%20Duties%20of%20National%20Banks/%C2%A7%2000091%20-%20Transfers%20by%20bank%20and%20other%20acts%20in%20contemplation%20of%20insolvency.md) | Transfers by bank and other acts in contemplation of insolvency. |
 | [92\.](Subchapter%20004%20%28IV%29%20-%20Regulation%20of%20the%20Banking%20Business%3B%20Powers%20and%20Duties%20of%20National%20Banks/%C2%A7%2000092%20-%20Acting%20as%20insurance%20agent%20or%20broker.md) | Acting as insurance agent or broker. |
@@ -142,7 +142,7 @@
 | [94a.](Subchapter%20004%20%28IV%29%20-%20Regulation%20of%20the%20Banking%20Business%3B%20Powers%20and%20Duties%20of%20National%20Banks/%C2%A7%2000094a%20-%20Repealed.%20June%2025%2C%201948%2C%20ch.%20646%2C%20%C2%A739%2C%2062%20Stat.%20992%2C%20eff.%20Sept.%201%2C%201948.md) | Repealed. |
 | [95\.](Subchapter%20004%20%28IV%29%20-%20Regulation%20of%20the%20Banking%20Business%3B%20Powers%20and%20Duties%20of%20National%20Banks/%C2%A7%2000095%20-%20Emergency%20limitations%20and%20restrictions%20on%20business%20of%20members%20of%20Federal%20reserve%20system%3B%20designation%20of%20legal%20holiday%20for%20national%20banking%E2%80%A6.md) | Emergency limitations and restrictions on business of members of Federal reserve system; designation of legal holiday for national banking associations; exceptions; “State” defined. |
 | [95a.](Subchapter%20004%20%28IV%29%20-%20Regulation%20of%20the%20Banking%20Business%3B%20Powers%20and%20Duties%20of%20National%20Banks/%C2%A7%2000095a%20-%20Regulation%20of%20transactions%20in%20foreign%20exchange%20of%20gold%20and%20silver%3B%20property%20transfers%3B%20vested%20interests%2C%20enforcement%20and%20penalties.md) | Regulation of transactions in foreign exchange of gold and silver; property transfers; vested interests, enforcement and penalties. |
-| [95b.](Subchapter%20004%20%28IV%29%20-%20Regulation%20of%20the%20Banking%20Business%3B%20Powers%20and%20Duties%20of%20National%20Banks/%C2%A7%2000095b%20-%20Ratification%20of%20acts%20of%20President%20and%20Secretary%20of%20Treasury%20under%20section%2095a.md) | Ratification of acts of President and Secretary of Treasury under section 95a. |
+| [95b.](Subchapter%20004%20%28IV%29%20-%20Regulation%20of%20the%20Banking%20Business%3B%20Powers%20and%20Duties%20of%20National%20Banks/%C2%A7%2000095b%20-%20Ratification%20of%20acts%20of%20President%20and%20Secretary%20of%20the%20Treasury%20under%20section%2095a.md) | Ratification of acts of President and Secretary of the Treasury under section 95a. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

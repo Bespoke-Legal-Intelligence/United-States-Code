@@ -14,4 +14,4 @@ This subchapter is referred to in section 5107 of this title.
 - [&sect; 05113 - Information and service functions by appropriate administrative arrangement](%C2%A7%2005113%20-%20Information%20and%20service%20functions%20by%20appropriate%20administrative%20arrangement.md)
 - [&sect; 05114 - Study and report of unlicensed or unregulated adoption placements](%C2%A7%2005114%20-%20Study%20and%20report%20of%20unlicensed%20or%20unregulated%20adoption%20placements.md)
 - [&sect; 05115 - Authorization of appropriations](%C2%A7%2005115%20-%20Authorization%20of%20appropriations.md)
-- [&sect; 05115a - Multiethnic placements](%C2%A7%2005115a%20-%20Multiethnic%20placements.md)
+- [&sect; 05115a - Repealed. Pub. L. 104&#8211;188, title I, &sect;1808(d), Aug. 20, 1996, 110 Stat. 1904](%C2%A7%2005115a%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93188%2C%20title%20I%2C%20%C2%A71808%28d%29%2C%20Aug.%2020%2C%201996%2C%20110%20Stat.%201904.md)

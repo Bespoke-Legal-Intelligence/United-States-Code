@@ -54,7 +54,9 @@ Authority To Condemn Rail Carrier Property Interests.—(1) If Amtrak and a rail
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

@@ -90,7 +90,7 @@ Pars. (13) to (15). Pub. L. 94–210, §601(g), redesignated former pars. (11) t
 
 Par. (16). Pub. L. 94–555 substituted “, in his absence, the Deputy Secretary of Transportation” for “the duly authorized representative of either of them” after “accordance with law, or”.
 
-Pub. L. 94–210, §§601(f), (g), 610(a)(1), redesignated former par. (14) as (16) and substituted provisions relating to the person at the time performing the duties ofthe Office in accordance with the law, or the duly authorized representative of such person or the Secretary, for provisions relating to the delegate of the Secretary, unless the context indicated otherwise.
+Pub. L. 94–210, §§601(f), (g), 610(a)(1), redesignated former par. (14) as (16) and substituted provisions relating to the person at the time performing the duties of the Office in accordance with the law, or the duly authorized representative of such person or the Secretary, for provisions relating to the delegate of the Secretary, unless the context indicated otherwise.
 
 Par. (17). Pub. L. 94–210, §§601(g), 610(a)(2), redesignated former par. (15) as (17) and substituted a semicolon for a period.
 
@@ -110,7 +110,7 @@ Amendment by Pub. L. 96–448 effective Oct. 1, 1980, see section 710(a) of Pub.
 
 #### Effective Date of 1976 Amendment
 
-Section 303 of Pub. L. 94–555 provided that: “The provisions of this Act and the amendments made by this Act \[amending this section, sections 543, 545, 546, 563, 601, 602, 641, 711, 716, 720, 721, 743, 744, 771, 774, 775, 779, 823, 824, 825, 826, 829, 831, and 854 of this title, section 960 of Title 20, Education, and sections 1a, 5, 5c, 13, 15, 17, 22, 26c, and 1653 of former Title 49, Transportation, and enacting provisions set out as notes under sections 501, 641, 701, and 714 of this title, section 80a–3 of Title 15, Commerce and Trade, and sections 1a and 1654 of former Title 49\] shall take effect on October 1, 1976.”
+Section 303 of Pub. L. 94–555 provided that: “The provisions of this Act and the amendments made by this Act \[amending this section, sections 543, 545, 546, 563, 601, 602, 641, 711, 716, 720, 721, 743, 744, 771, 774, 775, 779, 823, 824, 825, 826, 829, 831, and 854 of this title, section 960 of Title 20, Education, and sections 1a, 5, 5c, 13, 15, 17, 22, 26c, and 1653 of former Title 49, Transportation, and enacting provisions set out as notes under sections 501,641, 701, and 714 of this title, section 80a–3 of Title 15, Commerce and Trade, and sections 1a and 1654 of former Title 49\] shall take effect on October 1, 1976.”
 
 #### Abolition of Interstate Commerce Commission and Transfer of Functions
 

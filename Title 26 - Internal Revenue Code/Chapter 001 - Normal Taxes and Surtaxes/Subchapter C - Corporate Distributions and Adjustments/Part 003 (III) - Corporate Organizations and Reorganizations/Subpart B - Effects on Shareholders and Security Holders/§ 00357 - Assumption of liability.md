@@ -24,7 +24,7 @@ Except as provided in subsections (b) and (c), if—
 
 #### (2) Burden of proof
 
-&emsp;In any suit or proceeding where the burden is on the taxpayer to prove such assumption or acquisition is not to be treated as money received by the taxpayer, such burden shall not be considered as sustained unless the taxpayer sustains such burden by the clear preponderance of the evidence.
+&emsp;In any suit or proceeding where the burden is on the taxpayer to prove such assumption oracquisition is not to be treated as money received by the taxpayer, such burden shall not be considered as sustained unless the taxpayer sustains such burden by the clear preponderance of the evidence.
 
 #### (c) Liabilities in excess of basis
 

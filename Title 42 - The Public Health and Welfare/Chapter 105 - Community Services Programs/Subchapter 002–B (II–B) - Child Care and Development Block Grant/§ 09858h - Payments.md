@@ -12,15 +12,17 @@ Subject to the availability of appropriations, a State that has an application a
 
 #### (2) Limitation
 
-&emsp;The Secretary may not make such payments in a manner that prevents the State fromcomplying with the requirement specified in section 9858c(c)(3) of this title.
+&emsp;The Secretary may not make such payments in a manner that prevents the State from complying with the requirement specified in section 9858c(c)(3) of this title.
 
 #### (c) Spending of funds by State
 
-Payments to a State from the allotment under section 9858m of this title for any fiscal year may be expended by the State in that fiscal year or in the succeeding 3 fiscal years.
+Payments to a State from the allotment under section 9858m of this title for any fiscal year may be obligated by the State in that fiscal year or in the succeeding fiscal year.
 
-(Pub. L. 97–35, title VI, §658J, as added Pub. L. 101–508, title V, §5082(2), Nov. 5, 1990, 104 Stat. 1388–243; amended Pub. L. 102–27, title III, §310, Apr. 10, 1991, 105 Stat. 153; Pub. L. 102–401, §3(a), Oct. 7, 1992, 106 Stat. 1959; Pub. L. 102–586, §8(a), (c)(1), Nov. 4, 1992, 106 Stat. 5035, 5036; Pub. L. 103–171, §8, Dec. 2, 1993, 107 Stat. 1994.)
+(Pub. L. 97–35, title VI, §658J, as added Pub. L. 101–508, title V, §5082(2), Nov. 5, 1990, 104 Stat. 1388–243; amended Pub. L. 102–27, title III, §310, Apr. 10, 1991, 105 Stat. 153; Pub. L. 102–401, §3(a), Oct. 7, 1992, 106 Stat. 1959; Pub. L. 102–586, §8(a), (c)(1), Nov. 4, 1992, 106 Stat. 5035, 5036; Pub. L. 103–171, §8, Dec. 2, 1993, 107 Stat. 1994; Pub. L. 104–193, title VI, §610, Aug. 22, 1996, 110 Stat. 2284.)
 
 #### Amendments
+
+1996—Subsec. (c). Pub. L. 104–193 substituted “obligated” for “expended” and “succeeding fiscal year” for “succeeding 3 fiscal years”.
 
 1993—Subsec. (c). Pub. L. 103–171 made technical correction to directory language of Pub. L. 102–586, §8(a). See 1992 Amendment note below.
 
@@ -29,6 +31,10 @@ Payments to a State from the allotment under section 9858m of this title for any
 Subsec. (c). Pub. L. 102–586, §8(a), as amended by Pub. L. 103–171, substituted “expended” for “obligated” and “succeeding 3 fiscal years” for “succeeding fiscal year”.
 
 1991—Subsec. (c). Pub. L. 102–27 substituted “obligated” for “expended”.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–193 effective Oct. 1, 1996, see section 615 of Pub. L. 104–193, set out as a note under section 9858 of this title.
 
 #### Effective Date of 1992 Amendment
 

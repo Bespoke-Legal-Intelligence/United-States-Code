@@ -10,7 +10,7 @@ The Secretary of Agriculture (hereinafter called the “Secretary”) is authori
 
 &emsp;(4) To construct or operate, or to contract for the operation of, factories for the extraction of rubber from guayule, and from Chrysothamnus, commonly known as rabbit brush; to purchase guayule shrub; and to purchase, operate, and maintain equipment for the harvesting, storing, transporting, and complete processing of guayule, and Chrysothamnus, commonly known as rabbit brush, and to purchase land as sites for processing plants;
 
-&emsp;(5) To conduct studies, in which he may cooperate with any other public or private agency, designed to increase the yield of guayule by breeding to by selection, and to improve planting methods; to make surveys of areas suitable for cultivating guayule; to makeexperimental plantings; and to conduct agronomic tests;
+&emsp;(5) To conduct studies, in which he may cooperate with any other public or private agency, designed to increase the yield of guayule by breeding to by selection, and to improve planting methods; to make surveys of areas suitable for cultivating guayule; to make experimental plantings; and to conduct agronomic tests;
 
 &emsp;(6) To conduct tests, in which he may cooperate with any other public or private agency, to determine the qualities of rubber obtained from guayule and to determine the most favorable methods of compounding and using guayule in rubber manufacturing processes;
 

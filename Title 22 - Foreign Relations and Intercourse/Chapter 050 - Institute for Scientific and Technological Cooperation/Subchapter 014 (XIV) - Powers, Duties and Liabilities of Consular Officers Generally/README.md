@@ -13,7 +13,7 @@ Subchapter was not enacted as a part of the Foreign Service Act of 1980 which co
 - [&sect; 04192 - Repealed. Pub. L. 101&#8211;246, title I, &sect;123, Feb. 16, 1990, 104 Stat. 27](%C2%A7%2004192%20-%20Repealed.%20Pub.%20L.%20101%E2%80%93246%2C%20title%20I%2C%20%C2%A7123%2C%20Feb.%2016%2C%201990%2C%20104%20Stat.%2027.md)
 - [&sect; 04193 - Protests](%C2%A7%2004193%20-%20Protests.md)
 - [&sect; 04194 - Lists and returns of seamen and vessels, etc](%C2%A7%2004194%20-%20Lists%20and%20returns%20of%20seamen%20and%20vessels%2C%20etc.md)
-- [&sect; 04195 - Estates of decedents generally; General Accounting Office as conservator](%C2%A7%2004195%20-%20Estates%20of%20decedents%20generally%3B%20General%20Accounting%20Office%20as%20conservator.md)
+- [&sect; 04195 - Estates of decedents generally; Department of State as conservator](%C2%A7%2004195%20-%20Estates%20of%20decedents%20generally%3B%20Department%20of%20State%20as%20conservator.md)
 - [&sect; 04196 - Notification of death of decedent; transmission of inventory of effects](%C2%A7%2004196%20-%20Notification%20of%20death%20of%20decedent%3B%20transmission%20of%20inventory%20of%20effects.md)
 - [&sect; 04197 - Following testamentary directions; assistance to testamentary appointee](%C2%A7%2004197%20-%20Following%20testamentary%20directions%3B%20assistance%20to%20testamentary%20appointee.md)
 - [&sect; 04198 - Bond as administrator or guardian; action on bond](%C2%A7%2004198%20-%20Bond%20as%20administrator%20or%20guardian%3B%20action%20on%20bond.md)

@@ -36,7 +36,7 @@
 
 (3) The plans and designs for such buildings and facilities and for any such enlargement, remodeling, or reconstruction shall, to such extent as the chairperson of <sup>1</sup> the Director of the Office of Thrift Supervision may request, be subject to his approval.
 
-(4) Upon the making of arrangements mutually agreeable to the Director of the Office of Thrift Supervision and the Administrator, which arrangements may be modified from time to time by mutual agreement between them and may include but shall not be limited to the making of payments by the Director of the Office of Thrift Supervision and such agencies to the Administrator and by the Administrator to the Director of the Office of Thrift Supervision, the custody, management, and control of such buildings and facilities and of such real property shall be vested in the Administrator in accordance therewith. Until the making of such arrangements such custody, management, and control, including the assignment and allotment and the reassignment and reallotment of building and other space, shall be vested in the Director of the Office of Thrift Supervision.
+(4) Upon the making of arrangements mutually agreeable to the Director of the Office of Thrift Supervision and the Administrator, which arrangements may be modified from timeto time by mutual agreement between them and may include but shall not be limited to the making of payments by the Director of the Office of Thrift Supervision and such agencies to the Administrator and by the Administrator to the Director of the Office of Thrift Supervision, the custody, management, and control of such buildings and facilities and of such real property shall be vested in the Administrator in accordance therewith. Until the making of such arrangements such custody, management, and control, including the assignment and allotment and the reassignment and reallotment of building and other space, shall be vested in the Director of the Office of Thrift Supervision.
 
 (5) Any proceeds (including advances) received by the Director of the Office of Thrift Supervision in connection with this subsection, and any proceeds from the sale or other disposition of real or other property acquired by the Director of the Office of Thrift Supervision under this subsection, shall be considered as receipts of the Director of the Office of Thrift Supervision, and obligations and expenditures of the Director of the Office of Thrift Supervision and such agencies in connection with this subsection shall not be considered as administrative expenses. As used in this subsection, the term “property” shall include interests in property.
 
@@ -56,7 +56,7 @@ Act of June 20, 1938, referred to in subsec. (c)(6), is act June 20, 1938, ch. 5
 
 #### Codification
 
-In subsec. (c)(6), “chapter 91 of title 31” and “such chapter” substituted for “title I of the GovernmentCorporation Control Act \[31 U.S.C. 846 et seq.\]” and “such title”, respectively, on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In subsec. (c)(6), “chapter 91 of title 31” and “such chapter” substituted for “title I of the Government Corporation Control Act \[31 U.S.C. 846 et seq.\]” and “such title”, respectively, on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 #### Amendments
 

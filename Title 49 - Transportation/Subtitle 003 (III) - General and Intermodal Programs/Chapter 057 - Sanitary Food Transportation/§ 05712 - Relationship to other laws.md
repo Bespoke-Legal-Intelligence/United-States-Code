@@ -6,7 +6,9 @@ Section 5125 of this title applies to the relationship between this chapter and 
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

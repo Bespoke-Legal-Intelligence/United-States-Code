@@ -2,7 +2,7 @@
 
 #### (a) Attribution as unearned income
 
-For purposes of determining eligibility for and the amount of benefits under this subchapter for an individual who is an alien, the income and resources of any person who (as a sponsor of such individual's entry into the United States) executed an affidavit of support or similar agreement with respect to such individual, and the income and resources of the sponsor's spouse, shall be deemed to be the income and resources of such individual (in accordance with subsections (b) and (c) of this section) for a period of 5 years after the individual's entry into the United States. Any such income deemed to be income of such individual shall be treated as unearned income of such individual.
+For purposes of determining eligibility for and the amount of benefits under this subchapter for an individual who is an alien, the income and resources of any person who (as a sponsor of such individual's entry into the United States) executed an affidavit of support or similar agreement with respect to such individual, and the income and resources of the sponsor's spouse, shall be deemed to be the income and resources of such individual (in accordance with subsections (b) and (c) of this section) for a period of 3 years after the individual's entry into the United States. Any such income deemed to be income of such individual shall be treated as unearned income of such individual.
 
 #### (b) Determination of amount and resources
 
@@ -18,23 +18,23 @@ For purposes of determining eligibility for and the amount of benefits under thi
 
 &emsp;(A) The total amount of the resources (as determined under section 1382b of this title) of such sponsor and such sponsor's spouse (if such spouse is living with the sponsor) shall be determined.
 
-&emsp;(B) The amount determined under subparagraph (A) shall be reduced by an amount equal to (i) the applicable amount determined under section 1382(a)(3)(B) of this title in the case of a sponsor who has no spouse with whom he is living, or (ii) the applicable amount determined under section 1382(a)(3)(A) of this title in the case of a sponsor who has a spouse with whom he is living.
+&emsp;(B) The amount determined under subparagraph (A) shall be reduced by an amount equal to (i) the applicable amount determined under section 1382(a)(3)(B) of this title in the case of a sponsor who has no spouse with whom he isliving, or (ii) the applicable amount determined under section 1382(a)(3)(A) of this title in the case of a sponsor who has a spouse with whom he is living.
 
 &emsp;(C) The resources of such sponsor (and spouse) as determined under subparagraphs (A) and (B) shall be deemed to be resources of such alien in addition to any resources of such alien.
 
 #### (c) Support and maintenance
 
-In determining the amount of income of an alien during the period of 5 years after such alien's entry into the United States, the reduction in dollar amounts otherwise required under section 1382a(a)(2)(A)(i) of this title shall not be applicable if such alien is living in the household of a person who is a sponsor (or such sponsor's spouse) of such alien, and is receiving support and maintenance in kind from such sponsor (or spouse), nor shall support or maintenance furnished in cash or kind to an alien by such alien's sponsor (to the extent that it reflects income or resources which were taken into account in determining the amount of income and resources to be deemed to the alien under subsection (a) or (b) of this section) be considered to be income of such alien under section 1382a(a)(2)(A) of this title.
+In determining the amount of income of an alien during the period of 3 years after such alien's entry into the United States, the reduction in dollar amounts otherwise required under section 1382a(a)(2)(A)(i) of this title shall not be applicable if such alien is living in the household of a person who is a sponsor (or such sponsor's spouse) of such alien, and is receiving support and maintenance in kind from such sponsor (or spouse), nor shall support or maintenance furnished in cash or kind to an alien by such alien's sponsor (to the extent that it reflects income or resources which were taken into account in determining the amount of income and resources to be deemed to the alien under subsection (a) or (b) of this section) be considered to be income of such alien under section 1382a(a)(2)(A) of this title.
 
 #### (d) Information and documentation; agreements with Secretary of State and Attorney General
 
-(1) Any individual who is an alien shall, during the period of 5 years after entry into the United States, in order to be an eligible individual or eligible spouse for purposes of this subchapter, be required to provide to the Commissioner of Social Security such information and documentation with respect to his sponsor as may be necessary in order for the Commissioner of Social Security to make any determination required under this section, and to obtain any cooperation from such sponsor necessary for any such determination. Such alien shall also be required to provide to the Commissioner of Social Security such information and documentation as the Commissioner of Social Security may request and which such alien or his sponsor provided in support of such alien's immigration application.
+(1) Any individual who is an alien shall, during the period of 3 years after entry into the United States, in order to be an eligible individual or eligible spouse for purposes of this subchapter, be required to provide to the Commissioner of Social Security such information and documentation with respect to his sponsor as may be necessary in order for the Commissioner of Social Security to make any determination required under this section, and to obtain any cooperation from such sponsor necessary for any such determination. Such alien shall also be required to provide to the Commissioner of Social Security such information and documentation as the Commissioner of Social Security may request and which such alien or his sponsor provided in support of such alien's immigration application.
 
 (2) The Commissioner of Social Security shall enter into agreements with the Secretary of State and the Attorney General whereby any information available to such persons and required in order to make any determination under this section will be provided by such persons to the Commissioner of Social Security, and whereby such persons shall inform any sponsor of an alien, at the time such sponsor executes an affidavit of support or similar agreement, of the requirements imposed by this section.
 
 #### (e) Joint and several liability of alien and sponsor for overpayments
 
-Any sponsor of an alien, and such alien, shall be jointly and severally liable for an amount equal to any overpayment made to such alien during the period of 5 years after such alien's entry into the United States, on account of such sponsor's failure to provide correct information under the provisions of this section, except where such sponsor was without fault, or where good cause for such failure existed. Any such overpayment which is not repaid to the Commissioner of Social Security or recovered in accordance with section 1383(b) of this title shall be withheld from any subsequent payment to which such alien or such sponsor is entitled under any provision of this chapter.
+Any sponsor of an alien, and such alien, shall be jointly and severally liable for an amount equal to any overpayment made to such alien during the period of 3 years after such alien's entry into the United States, on account of such sponsor's failure to provide correct information under the provisions of this section, except where such sponsor was without fault, or where good cause for such failure existed. Any such overpayment which is not repaid to the Commissioner of Social Security or recovered in accordance with section 1383(b) of this title shall be withheld from any subsequent payment to which such alien or such sponsor is entitled under any provision of this chapter.
 
 #### (f) Exemptions
 
@@ -52,10 +52,6 @@ Any sponsor of an alien, and such alien, shall be jointly and severally liable f
 
 (Aug. 14, 1935, ch. 531, title XVI, §1621, as added June 9, 1980, Pub. L. 96–265, title V, §504(b), 94 Stat. 471; amended July 18, 1984, Pub. L. 98–369, div. B, title VI, §§2611(d), 2663(g)(10), 98 Stat. 1131, 1169; Nov. 24, 1993, Pub. L. 103–152, §7(a)(1), (b)(1), 107 Stat. 1519; Aug. 15, 1994, Pub. L. 103–296, title I, §107(a)(4), 108 Stat. 1478.)
 
-#### Amendment of Section
-
-<i>Pub. L. 103–152, §7(b), Nov. 24, 1993, 107 Stat. 1519, provided that, effective Oct. 1, 1996, this</i><i>section is amended by striking “5 years” each place such term appears and inserting “3 years”.</i>
-
 #### References in Text
 
 Section 1153(a)(7) of title 8, referred to in subsec. (f)(2)(A), to be deemed a reference to such section as in effect prior to Apr. 1, 1980, and to sections 1157 and 1158 of Title 8, Aliens and Nationality. See section 203(h) of Pub. L. 96–212, set out as a note under section 1153 of Title 8.
@@ -64,7 +60,9 @@ Section 1153(a)(7) of title 8, referred to in subsec. (f)(2)(A), to be deemed a 
 
 1994—Subsecs. (d), (e). Pub. L. 103–296 substituted “Commissioner of Social Security” for “Secretary” wherever appearing, except where appearing before “of State” in subsec. (d)(2).
 
-1993—Pub. L. 103–152, §7(a)(1), substituted “5 years” for “three years” in subsecs. (a), (c), (d)(1), and (e).
+1993—Pub. L. 103–152, §7(b)(1), substituted “3 years” for “5 years” in subsecs. (a), (c), (d)(1), and (e).
+
+Pub. L. 103–152, §7(a)(1), substituted “5 years” for “three years” in subsecs. (a), (c), (d)(1), and (e).
 
 1984—Subsec. (b)(2)(B). Pub. L. 98–369, §2611(d), substituted “the applicable amount determined under section 1382(a)(3)(B) of this title” for “$1,500” and “the applicable amount determined under section 1382(a)(3)(A) of this title” for “$2,250”.
 
@@ -82,7 +80,7 @@ Section 7(b)(2) of Pub. L. 103–152 provided that: “The amendments made by pa
 
 #### Effective Date of 1984 Amendment
 
-Amendment by section 2611(d) of Pub. L. 98–369 effective Oct. 1, 1984, except as otherwise specifically provided, see section 2646 of Pub. L. 98–369, set out as a note under section 602 of this title.
+Amendment by section 2611(d) of Pub. L. 98–369 effective Oct. 1, 1984, except as otherwise specifically provided, see section 2646 of Pub. L. 98–369, set out as a note under section 657 of this title.
 
 Amendment by section 2663(g)(10) of Pub. L. 98–369 effective July 18, 1984, but not to be construed as changing or affecting any right, liability, status, or interpretation which existed (under the provisions of law involved) before that date, see section 2664(b) of Pub. L. 98–369, set out as a note under section 401 of this title.
 

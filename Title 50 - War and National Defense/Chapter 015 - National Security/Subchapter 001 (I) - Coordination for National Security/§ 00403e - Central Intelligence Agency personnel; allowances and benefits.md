@@ -10,7 +10,7 @@ Under such regulations as the Director may prescribe, the Agency, with respect t
 
 &emsp;(C) pay the cost of transporting the furniture and household and personal effects of an officer or employee of the Agency to his successive posts of duty and, on the termination of his services, to his residence at time of appointment or to a point not more distant, or, upon retirement, to the place where he will reside;
 
-&emsp;(D) pay the cost of packing and unpacking, transporting to and from a place of storage, and storing the furniture and household and personal effects of an officer or employee of the Agency, when he is absent from his post of assignment under orders, or when he is assigned to a post to which he cannot take or at which he is unable to use such furniture and household and personal effects, or when it is in the public interest or more economical to authorize storage; but in no instance shall the weight or volume of the effects stored together with the weight or volume of the effects transported exceed the maximum limitations fixed by regulations, when not otherwise fixed by law;
+&emsp;(D) pay the cost of packing and unpacking, transporting to and from a place of storage, and storing the furniture and household and personal effects of an officer or employee of the Agency, when he is absent from his post of assignment under orders, or when he is assigned to a post to which he cannot take or at which he is unable to use such furniture andhousehold and personal effects, or when it is in the public interest or more economical to authorize storage; but in no instance shall the weight or volume of the effects stored together with the weight or volume of the effects transported exceed the maximum limitations fixed by regulations, when not otherwise fixed by law;
 
 &emsp;(E) pay the cost of packing and unpacking, transporting to and from a place of storage, and storing the furniture and household and personal effects of an officer or employee of the Agency in connection with assignment or transfer to a new post, from the date of his departure from his last post or from the date of his departure, from his place of residence in the case of a new officer or employee and for not to exceed three months after arrival at the new post, or until the establishment of residence quarters, whichever shall be shorter; and in connection with separation of an officer or employee of the Agency, the cost of packing and unpacking, transporting to and from a place of storage, and storing for a period not to exceed three months, his furniture and household and personal effects; but in no instance shall the weight or volume of the effects stored together with the weight or volume of the effects transported exceed the maximum limitations fixed by regulations, when not otherwise fixed by law.<sup>1</sup>
 
@@ -34,7 +34,7 @@ Under such regulations as the Director may prescribe, the Agency, with respect t
 
 &emsp;(D) Provide for the periodic physical examination of officers and employees of the Agency and for the cost of administering inoculation or vaccinations to such officers or employees.
 
-&emsp;(6) Pay the costs of preparing and transporting the remains of an officer or employee of the Agency or a member of his family whomay die while in travel status or abroad, to his home or official station, or to such other place as the Director may determine to be the appropriate place of interment, provided that in no case shall the expense payable be greater than the amount which would have been payable had the destination been the home or official station.
+&emsp;(6) Pay the costs of preparing and transporting the remains of an officer or employee of the Agency or a member of his family who may die while in travel status or abroad, to his home or official station, or to such other place as the Director may determine to be the appropriate place of interment, provided that in no case shall the expense payable be greater than the amount which would have been payable had the destination been the home or official station.
 
 &emsp;(7) Pay the costs of travel of new appointees and their dependents, and the transportation of their household goods and personal effects, from places of actual residence in foreign countries at time of appointment to places of employment and return to their actual residences at the time of appointment or a point not more distant: <i>Provided</i>, That such appointees agree in writing to remain with the United States Government for a period of not less than twelve months from the time of appointment.
 
@@ -72,7 +72,7 @@ Section was enacted as part of the Central Intelligence Agency Act of 1949, and 
 
 1994—Subsec. (a)(5)(A). Pub. L. 103–359, §401(1)(A)–(D), struck out “, not the result of vicious habits, intemperance, or misconduct on his part,” after “the Agency” and substituted “the Director deems” for “he shall deem”, “section 5731 of title 5” for “section 10 of the Act of March 3, 1933 (47 Stat. 1516; 5 U.S.C. 73b)”, and “the recovery of such officer or employee” for “his recovery”.
 
-Pub. L. 103–359, §401(1)(E), which directed the substitution of “the return to the post of duty of such officer or employee” for “his return to his post”, was executed by making the substitution for “his return to his post of duty” to reflect the probable intent of Congress.
+Pub. L. 103–359, §401(1)(E), which directed the substitution of “the return to the post of duty of such officeror employee” for “his return to his post”, was executed by making the substitution for “his return to his post of duty” to reflect the probable intent of Congress.
 
 Subsec. (a)(5)(B). Pub. L. 103–359, §401(2), substituted “the opinion of the Director” for “his opinion” in two places.
 
@@ -80,7 +80,7 @@ Subsec. (a)(5)(C). Pub. L. 103–359, §401(3), struck out “, not the result 
 
 1981—Pub. L. 97–89 designated existing provisions as subsec. (a) and added subsec. (b).
 
-1960—Pub. L. 86–707, §323(a), substituted “duty stations outside the several States of the United States of America, excluding Alaska and Hawaii, but includingthe District of Columbia” for “permanent-duty stations outside the continental United States, its territories, and possessions” in opening provisions, and struck out subsec. (a) designation.
+1960—Pub. L. 86–707, §323(a), substituted “duty stations outside the several States of the United States of America, excluding Alaska and Hawaii, but including the District of Columbia” for “permanent-duty stations outside the continental United States, its territories, and possessions” in opening provisions, and struck out subsec. (a) designation.
 
 Par. (1)(A). Pub. L. 86–707, §511(c)(2), substituted “pursuant to authorized home leave” for “pursuant to orders issued by the Director in accordance with the provisions of subsection (a)(3) of this section with regard to the granting of home leave”.
 
@@ -100,7 +100,7 @@ Pub. L. 86–707, §511(a)(3), repealed subsec. (b) which authorized Director to
 
 #### Effective Date of 1981 Amendment
 
-Amendment by Pub. L. 97–89 effective Oct. 1, 1981, see section 806 of Pub. L. 97–89, set out as an Effective Date note under section 1601 of Title 10, Armed Forces.
+Amendment by Pub. L. 97–89 effective Oct. 1, 1981, see section 806 of Pub. L. 97–89, set out as an Effective Date note under section 1621 of Title 10, Armed Forces.
 
 #### Clarification of Terms Applied to Furniture, Household Goods, and Personal Effects in 1960 Amendment
 

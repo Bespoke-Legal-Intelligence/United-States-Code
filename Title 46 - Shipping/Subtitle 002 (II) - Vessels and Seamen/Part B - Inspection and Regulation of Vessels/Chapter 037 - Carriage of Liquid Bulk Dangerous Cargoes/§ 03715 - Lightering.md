@@ -8,7 +8,7 @@
 
 &emsp;(3) the delivering and the receiving vessel had on board at the time of transfer, a certificate of financial responsibility as would have been required under section 1016 of the Oil Pollution Act of 1990, had the transfer taken place in a place subject to the jurisdiction of the United States;
 
-&emsp;(4) the delivering and the receiving vessel had on board at the time of transfer, evidencethat each vessel is operating in compliance with section 311(j) of the Federal Water Pollution Control Act (33 U.S.C. 1321(j)); and
+&emsp;(4) the delivering and the receiving vessel had on board at the time of transfer, evidence that each vessel is operating in compliance with section 311(j) of the Federal Water Pollution Control Act (33 U.S.C. 1321(j)); and
 
 &emsp;(5) the delivering and the receiving vessel are operating in compliance with section 3703a of this title.
 

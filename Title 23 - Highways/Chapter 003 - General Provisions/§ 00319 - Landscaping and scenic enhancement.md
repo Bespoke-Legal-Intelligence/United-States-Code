@@ -20,7 +20,7 @@ Waiver.—The requirements of this subsection may be waived by the Secretary if 
 
 Gifts.—Nothing in this subsection shall be construed to prohibit the acceptance of native wildflower seeds or seedlings donated by civic organizations or other organizations and individuals to be used in landscaping projects.
 
-(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 916; Pub. L. 89–285, title III, §301(a), Oct. 22, 1965, 79 Stat. 1032; Pub. L. 89–574, §8(b), Sept. 13, 1966, 80 Stat. 768; Pub. L. 90–495, §6(f), Aug. 23, 1968, 82 Stat. 818; Pub. L. 94–280, title I, §136(a), May 5, 1976, 90 Stat. 442; Pub. L. 100–17, title I, §130, Apr. 2, 1987, 101 Stat. 169.)
+(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 916; Pub. L. 89–285, title III, §301(a), Oct. 22, 1965, 79 Stat. 1032; Pub. L. 89–574, §8(b), Sept. 13, 1966, 80 Stat. 768; Pub. L. 90–495, §6(f), Aug. 23, 1968, 82 Stat.818; Pub. L. 94–280, title I, §136(a), May 5, 1976, 90 Stat. 442; Pub. L. 100–17, title I, §130, Apr. 2, 1987, 101 Stat. 169.)
 
 #### Amendments
 

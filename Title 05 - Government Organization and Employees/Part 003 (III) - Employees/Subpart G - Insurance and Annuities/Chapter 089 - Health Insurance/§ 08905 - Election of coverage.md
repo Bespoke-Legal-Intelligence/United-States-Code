@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(B) the full period or periods of service between the last day of the first period, as prescribed by regulations of the Office of Personnel Management, in which he is eligible to enroll in the plan and the date on which he becomes an annuitant; or
 
-&emsp;&emsp;(C) the full period or periods of service beginning with the enrollment which becameeffective before January 1, 1965, and ending with the date on which he becomes an annuitant;
+&emsp;&emsp;(C) the full period or periods of service beginning with the enrollment which became effective before January 1, 1965, and ending with the date on which he becomes an annuitant;
 
 > &emsp;whichever is shortest; or
 
@@ -24,7 +24,7 @@
 
 &emsp;(B) in the case of a former spouse of a former employee whose marriage was dissolved after the employee's retirement, within 60 days after the dissolution of the marriage or, if later, within 60 days after an election is made under section 8339(j)(3) or 8417(b) of this title for such former spouse by the retired employee,
 
-> enroll in an approved health benefits plan described by section 8903 or 8903a of this title as an individual or for self and family as provided in paragraph (2) of this subsection, subject to agreement to pay the full subscription charge of the enrollment, including the amounts determined by the Office to be necessary for administration and reserves pursuant to section 8909(b) of this title. The former spouse shall submit an enrollment application and make premium payments to the agency which, at the time of divorce or annulment, employed the employee to whom the former spouse was married or, in the case of a former spouse who is receiving annuity payments under section 8341(h), 8345(j), 8445, or 8467 of this title, to the Office of Personnel Management.
+> enroll in an approved health benefits plan described by section 8903 or 8903a of this title as an individual or for self and family as provided in paragraph (2) of this subsection, subject to agreement to pay the full subscription charge of the enrollment, including the amounts determined by the Office to be necessary for administration and reserves pursuant to section 8909(b) of this title. The former spouse shall submit an enrollment application and make premium payments to the agency which, at the time of divorce or annulment, employed the employee towhom the former spouse was married or, in the case of a former spouse who is receiving annuity payments under section 8341(h), 8345(j), 8445, or 8467 of this title, to the Office of Personnel Management.
 
 (2) Coverage for self and family under this subsection shall be limited to—
 
@@ -64,7 +64,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 5 U.S.C. 3002(a) (1st sentence, less words between 1st and 4th commas), (b)–(e).
 
@@ -82,27 +84,27 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-<b>1992</b>—Subsec. (b). Pub. L. 102–378, §2(77)(A), substituted “this chapter” for “this subchapter.” at end.
+1992—Subsec. (b). Pub. L. 102–378, §2(77)(A), substituted “this chapter” for “this subchapter.” at end.
 
 Subsec. (c)(1). Pub. L. 102–378, §2(77)(B), inserted comma after “8341(h)” in last sentence.
 
-<b>1988</b>—Subsec. (d). Pub. L. 100–654, §202(c), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “If an employee has a spouse who is an employee, either spouse, but not both, may enroll for self and family, or each spouse may enroll as an individual. However, an individual may not be enrolled both as an employee or annuitant and as a member of the family.”
+1988—Subsec. (d). Pub. L. 100–654, §202(c), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “If an employee has a spouse who is an employee, either spouse, but not both, may enroll for self and family, or each spouse may enroll as an individual. However, an individual may not be enrolled both as an employee or annuitant and as a member of the family.”
 
 Subsecs. (e), (f)(1), (2). Pub. L. 100–654, §201(c), (d)(1), substituted “former spouse, or person having continued coverage under section 8905a of this title” for “or former spouse”.
 
 Subsec. (f)(3). Pub. L. 100–654, §201(d)(2), added par. (3).
 
-<b>1986</b>—Subsec. (b). Pub. L. 99–251, §103, inserted last sentence relating to waiver of the requirements of this subsection if it would be against equity to prohibit enrollment.
+1986—Subsec. (b). Pub. L. 99–251, §103, inserted last sentence relating to waiver of the requirements of this subsection if it would be against equity to prohibit enrollment.
 
 Subsec. (c)(1). Pub. L. 99–335 inserted in subpar. (B) “or 8417(b)” and substituted in provision following subpar. (B) “8345(j), 8445, or 8467” for “or 8345(j)”.
 
 Subsec. (f). Pub. L. 99–251, §104(a), amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “An employee, annuitant, or former spouse enrolled in a health benefits plan under this chapter may change his coverage or that of himself and members of his family by an application filed within 60 days after a change in family status or at other times and under conditions prescribed by regulations of the Office.”
 
-<b>1985</b>—Subsecs. (a), (c)(1). Pub. L. 99–53, §2(a), inserted reference to section 8903a of this title.
+1985—Subsecs. (a), (c)(1). Pub. L. 99–53, §2(a), inserted reference to section 8903a of this title.
 
 Subsec. (f). Pub. L. 99–53, §2(a), (c), inserted reference to section 8903a of this title and substituted “such plan” for “plan described by that section”.
 
-<b>1984</b>—Subsec. (c). Pub. L. 98–615, §3(4)(A), added subsec. (c). Former subsec. (c) redesignated (d).
+1984—Subsec. (c). Pub. L. 98–615, §3(4)(A), added subsec. (c). Former subsec. (c) redesignated (d).
 
 Subsec. (d). Pub. L. 98–615, §3(4)(A), redesignated former subsec. (c) as (d). Former subsec. (d) redesignated (e).
 
@@ -110,7 +112,7 @@ Subsec. (e). Pub. L. 98–615, §3(4), redesignated former subsec. (d) as (e) an
 
 Subsec. (f). Pub. L. 98–615, §3(4), redesignated former subsec. (e) as (f) and substituted “An employee, annuitant, or former spouse” for “An employee or annuitant”.
 
-<b>1978</b>—Subsecs. (b), (d), (e). Pub. L. 95–454 substituted “Office of Personnel Management” and “Office” for “Civil Service Commission” and “Commission”, respectively, wherever appearing.
+1978—Subsecs. (b), (d), (e). Pub. L. 95–454 substituted “Office of Personnel Management” and “Office” for “Civil Service Commission” and “Commission”, respectively, wherever appearing.
 
 #### Effective Date of 1988 Amendment
 
@@ -141,6 +143,10 @@ Sec. 2. (a) Notwithstanding any other provision of law, an annuitant, as defined
 “(b) An annuitant who elects to be covered under the provisions of chapter 89 of title 5, United States Code \[this chapter\], in accordance with subsection (a) of this section, shall be entitled to the benefits under such chapter 89.
 
 “\[Sec. 4\] (b) Section 2 \[set out above\] shall take effect on the one hundred and eightieth day following the date of enactment \[Jan. 1, 1974\] or on such earlier date as the United States Civil Service Commission may prescribe.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 6302 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a period.</i>
 

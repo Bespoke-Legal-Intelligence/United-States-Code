@@ -2,7 +2,7 @@
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in sections 1382a, 11408a, 11501, 11504, 12709 of this title; title 7 sections 1932, 1933, 6943; title 12 sections 1441a, 1701r–1, 1701x, 1717, 1721, 1831q, 2803; title 26 sections 32, 1250; title 38 section 3711.
+This subchapter is referred to in sections 1382a, 11408a, 11501, 11504, 12709 of this title; title 7 sections 1932, 1933, 6943; title 8 section 1611; title 12 sections 1441a, 1701r–1, 1701x, 1717, 1721, 1831q, 2803; title 26 sections 32, 1250; title 38 section 3711.
 
 
 ---
@@ -41,11 +41,12 @@ This subchapter is referred to in sections 1382a, 11408a, 11501, 11504, 12709 of
 - [&sect; 01490i - Repealed. Pub. L. 98&#8211;181, title V, &sect;506(b), Nov. 30, 1983, 97 Stat. 1242](%C2%A7%2001490i%20-%20Repealed.%20Pub.%20L.%2098%E2%80%93181%2C%20title%20V%2C%20%C2%A7506%28b%29%2C%20Nov.%2030%2C%201983%2C%2097%20Stat.%201242.md)
 - [&sect; 01490j - Conditions on rent increases in projects receiving assistance under other provisions of law](%C2%A7%2001490j%20-%20Conditions%20on%20rent%20increases%20in%20projects%20receiving%20assistance%20under%20other%20provisions%20of%20law.md)
 - [&sect; 01490k - FHA insurance](%C2%A7%2001490k%20-%20FHA%20insurance.md)
-- [&sect; 01490l - Processing of applications; preliminary reservation of assistance at time of initial approval of project](%C2%A7%2001490l%20-%20Processing%20of%20applications%3B%20preliminary%20reservation%20of%20assistance%20at%20time%20of%20initial%20approval%20of%20project.md)
+- [&sect; 01490l - Processing of applications](%C2%A7%2001490l%20-%20Processing%20of%20applications.md)
 - [&sect; 01490m - Housing preservation grants](%C2%A7%2001490m%20-%20Housing%20preservation%20grants.md)
 - [&sect; 01490n - Review of rules and regulations](%C2%A7%2001490n%20-%20Review%20of%20rules%20and%20regulations.md)
 - [&sect; 01490o - Reciprocity in approval of housing subdivisions among Federal agencies](%C2%A7%2001490o%20-%20Reciprocity%20in%20approval%20of%20housing%20subdivisions%20among%20Federal%20agencies.md)
 - [&sect; 01490p - Accountability](%C2%A7%2001490p%20-%20Accountability.md)
 - [&sect; 01490p&#8211;1 - Office of Rural Housing Preservation](%C2%A7%2001490p%E2%80%931%20-%20Office%20of%20Rural%20Housing%20Preservation.md)
+- [&sect; 01490p&#8211;2 - Loan guarantees for multifamily rental housing in rural areas](%C2%A7%2001490p%E2%80%932%20-%20Loan%20guarantees%20for%20multifamily%20rental%20housing%20in%20rural%20areas.md)
 - [&sect; 01490q - Disaster assistance](%C2%A7%2001490q%20-%20Disaster%20assistance.md)
 - [&sect; 01490r - Rural housing voucher program](%C2%A7%2001490r%20-%20Rural%20housing%20voucher%20program.md)

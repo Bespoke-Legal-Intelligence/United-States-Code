@@ -22,7 +22,7 @@ In order for a State to receive an allotment under subchapter II of this chapter
 
 &emsp;&emsp;&emsp;(i) the objectives and priorities established by the system and the rationale for the establishment of such objectives; and
 
-&emsp;&emsp;&emsp;(ii) the activities of the system, including the coordination with the advocacyprograms under the Rehabilitation Act of 1973 \[29 U.S.C. 701 et seq.\], the Older Americans Act of 1965 \[42 U.S.C. 3001 et seq.\], and the Protection and Advocacy for Mentally Ill Individuals Act of 1986 \[42 U.S.C. 10801 et seq.\], and with other related programs, including the parent training and information centers, education ombudsman programs and assistive technology projects;
+&emsp;&emsp;&emsp;(ii) the activities of the system, including the coordination with the advocacy programs under the Rehabilitation Act of 1973 \[29 U.S.C. 701 et seq.\], the Older Americans Act of 1965 \[42 U.S.C. 3001 et seq.\], and the Protection and Advocacy for Mentally Ill Individuals Act of 1986 \[42 U.S.C. 10801 et seq.\], and with other related programs, including the parent training and information centers, education ombudsman programs and assistive technology projects;
 
 &emsp;&emsp;(E) establish a grievance procedure for clients or prospective clients of the system to assure that individuals with developmental disabilities have full access to services of the system;
 
@@ -108,7 +108,7 @@ Upon application to the Secretary, an American Indian consortium,<sup>3</sup> as
 
 #### (2) Increase in allotments
 
-&emsp;In any case in which the total amount appropriated under section 6043 of this title for a fiscal year exceeds the total amount appropriated under such section for the preceding fiscal year by a percentage greater than the most recent percentage change in the Consumer Price Index published by the Secretary of Labor under section 100(c)(1) of the Rehabilitation Act of 1973 \[29 U.S.C. 720(c)(1)\], the Secretary shall increase each of the minimum allotments under subparagraphs (A) and (B) of paragraph (1) by an amount which bears the same ratio to the amount of such minimum allotment (including any increases in such minimum allotment under this paragraph for prior fiscal years) as the amount which is equal to the difference between—
+&emsp;In any case in which the total amount appropriated under section 6043 of this title for a fiscal year exceeds the total amount appropriated under such section for the preceding fiscal year by a percentage greater than the most recent percentage change in the Consumer Price Index published by the Secretary of Labor under section 100(c)(1) of the Rehabilitation Act of 1973 \[29 U.S.C. 720(c)(1)\], theSecretary shall increase each of the minimum allotments under subparagraphs (A) and (B) of paragraph (1) by an amount which bears the same ratio to the amount of such minimum allotment (including any increases in such minimum allotment under this paragraph for prior fiscal years) as the amount which is equal to the difference between—
 
 &emsp;&emsp;(A) the total amount appropriated under section 6043 of this title for the fiscal year for which the increase in minimum allotment is being made, minus
 
@@ -140,7 +140,7 @@ Any amount paid to a State for a fiscal year and remaining unobligated at the en
 
 In States in which the system is organized as a private nonprofit entity with a multimember governing board, or a public system with a multimember governing board, such governing board shall be selected according to the policies and procedures of the system, except that—
 
-&emsp;(1) the governing board shall be composed of members who broadly represent or are knowledgeable about the needs of the individualsserved by the system and include individuals with developmental disabilities who are eligible for services, or have received or are receiving services, or parents, family members, guardians, advocates, or authorized representatives of such individuals;
+&emsp;(1) the governing board shall be composed of members who broadly represent or are knowledgeable about the needs of the individuals served by the system and include individuals with developmental disabilities who are eligible for services, or have received or are receiving services, or parents, family members, guardians, advocates, or authorized representatives of such individuals;
 
 &emsp;(2) not more than 1/3 of the membership of the governing board may be appointed by the chief executive officer of the State involved, in the case of any State in which such officer has the authority to appoint the membership of the board;
 
@@ -208,7 +208,7 @@ October 31, 1990, referred to in subsec. (g)(2), was in the original “the date
 
 #### Prior Provisions
 
-A prior section 6042, Pub. L. 88–164, title I, §126, as added Pub. L. 94–103, title I, §105, Oct. 4, 1975, 89 Stat.488, related to grants for projects and to application requirements, prior to the general amendment of subchapter II of this chapter by Pub. L. 95–602, title V, §509, Nov. 6, 1978, 92 Stat. 3008.
+A prior section 6042, Pub. L. 88–164, title I, §126, as added Pub. L. 94–103, title I, §105, Oct. 4, 1975, 89 Stat. 488, related to grants for projects and to application requirements, prior to the general amendment of subchapter II of this chapter by Pub. L. 95–602, title V, §509, Nov. 6, 1978, 92 Stat. 3008.
 
 #### Amendments
 

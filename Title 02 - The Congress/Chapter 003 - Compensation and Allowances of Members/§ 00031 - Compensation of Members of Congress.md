@@ -10,7 +10,7 @@
 
 > shall be the rate determined for such positions under chapter 11 of this title, as adjusted by paragraph (2) of this section.
 
-(2)(A) Subject to subparagraph (B), effective at the beginning of the first applicable pay period commencing on or after the first day of the month in which an adjustment takes effect under section 5303 of title 5 in the rates of pay under the General Schedule, each annual rate referred to in paragraph (1) shall be adjusted by an amount, rounded to the nearest multiple of $100 (or if midway between multiples of $100, to the next higher multiple of $100), equal to the percentage of such annual rate which corresponds to the most recent percentage change in the ECI (relative to the date described in the next sentence), as determined under section 704(a)(1) of the Ethics Reform Act of 1989. The appropriate date under this sentence is the first day of the fiscal year in which such adjustment in the rates of pay under the General Schedule takes effect.
+(2)(A) Subject to subparagraph (B), effective at the beginning of the first applicable pay period commencing on or after the first day of the month in which an adjustment takes effect under section 5303 of title 5 in the rates of pay under the General Schedule, each annual rate referred to in paragraph (1) shall be adjusted by an amount, rounded to the nearest multiple of $100 (or if midway between multiples of $100, to the next higher multiple of $100), equal to thepercentage of such annual rate which corresponds to the most recent percentage change in the ECI (relative to the date described in the next sentence), as determined under section 704(a)(1) of the Ethics Reform Act of 1989. The appropriate date under this sentence is the first day of the fiscal year in which such adjustment in the rates of pay under the General Schedule takes effect.
 
 (B) In no event shall the percentage adjustment taking effect under subparagraph (A) in any calendar year (before rounding), in any rate of pay, exceed the percentage adjustment taking effect in such calendar year under section 5303 of title 5 in the rates of pay under the General Schedule.
 
@@ -24,7 +24,7 @@ Section 704(a)(1) of the Ethics Reform Act of 1989, referred to in par. (2)(A), 
 
 #### Prior Provisions
 
-A prior section 31, acts Feb. 26, 1907, ch. 1635, §4, 34 Stat. 993; Mar. 4, 1925, ch. 549, §4, 43 Stat. 1301; May 17,1932, ch. 190, 47 Stat. 158, related to compensation of Members of Congress, prior to enactment of act Aug. 2, 1946.
+A prior section 31, acts Feb. 26, 1907, ch. 1635, §4, 34 Stat. 993; Mar. 4, 1925, ch. 549, §4, 43 Stat. 1301; May 17, 1932, ch. 190, 47 Stat. 158, related to compensation of Members of Congress, prior to enactment of act Aug. 2, 1946.
 
 #### Amendments
 
@@ -82,6 +82,10 @@ Amendment by act Jan. 19, 1949, effective at noon, Jan. 20, 1949, see section 3 
 
 Section 601(a) of act Aug. 2, 1946, provided that the salary rates provided by such section 601(a) are effective Jan. 3, 1947.
 
+#### Short Title of 1996 Amendment
+
+Pub. L. 104–186, §1(a), Aug. 20, 1996, 110 Stat. 1718, provided that: “This Act \[see Tables for classification\] may be cited as the ‘House of Representatives Administrative Reform Technical Corrections Act’.”
+
 #### Short Title of 1964 Amendment
 
 Section 201 of title II of Pub. L. 88–426 provided that: “This title \[enacting sections 61a, 61a–2, 61d, 61e, 60e–11, 84–2, 136a, 136b, and 273 of this title, sections 42a and 51a of former Title 31, Money and Finance, sections 162a, 166b, and 166b–1 of Title 40, Public Buildings, Property, and Works, and section 39a of former Title 44, Public Printing and Documents, amending this section and section 72a of this title, and enacting provisions set out as notes under this section and sections 60a–1 and 60f of this title\] may be cited as the ‘Federal Legislative Salary Act of 1964’.”
@@ -92,9 +96,11 @@ Pub. L. 97–51, §130(c), Oct. 1, 1981, 95 Stat. 966, provided that: “Effecti
 
 #### Salary Increases
 
-1996—Ex. Ord. No. 12984, Dec. 28, 1995, 61 F.R. 237, set out as a note under section 5332 of Title 5, Government Organization and Employees, provided for the adjustment of pay rates effective Jan. 1, 1996.
+1997—Ex. Ord. No. 13033, Dec. 27, 1996, 61 F.R. 68987, set out as a note under section 5332 of Title 5, Government Organization and Employees, provided for the adjustment of pay rates effective Jan. 1, 1997.
 
-1995—Ex. Ord. No. 12944, Dec. 28, 1994, 60 F.R. 309, which provided for the adjustment of pay rates effective Jan. 1, 1995, was superseded by Ex. Ord. No. 12984, Dec. 28, 1995, 61 F.R. 237, set out as a note under section 5332 of Title 5.
+1996—Ex. Ord. No. 12984, Dec. 28, 1995, 61 F.R. 237, which provided for the adjustment of pay rates effective Jan. 1, 1996, was superseded by Ex. Ord. No. 13033, Dec. 27, 1996, 61 F.R. 68987, set out as a note under section 5332 of Title 5.
+
+1995—Ex. Ord. No. 12944, Dec. 28, 1994, 60 F.R. 309, which provided for the adjustment of pay rates effective Jan. 1, 1995, was superseded by Ex. Ord. No. 12984, Dec. 28, 1995, 61 F.R. 237, formerly set out as a note under section 5332 of Title 5.
 
 1994—Pub. L. 103–6, §7, Mar. 4, 1993, 107 Stat. 35, provided that:
 
@@ -104,7 +110,7 @@ Cost of Living Adjustment.—Notwithstanding section 601(a)(2) of the Legislativ
 
 “(b)
 
-Severability.—If any provision of this Act \[enacting provisions set out as notes under sections 1 and3304 of Title 26, Internal Revenue Code, and section 352 of Title 45, Railroads, and amending provisions set out as notes under section 3304 of Title 26 and section 352 of Title 45\], or an amendment made by this Act, or the application of such provision to any person or circumstance, is held to be invalid, the remainder of this Act, or an amendment made by this Act, or the application of such provision to other persons or circumstances, shall not be affected.”
+Severability.—If any provision of this Act \[enacting provisions set out as notes under sections 1 and 3304 of Title 26, Internal Revenue Code, and section 352 of Title 45, Railroads, and amending provisions set out as notes under section 3304 of Title 26 and section 352 of Title 45\], or an amendment made by this Act, or the application of such provision to any person or circumstance, is held to be invalid, the remainder of this Act, or an amendment made by this Act, or the application of such provision to other persons or circumstances, shall not be affected.”
 
 1993—Ex. Ord. No. 12826, Dec. 30, 1992, 57 F.R. 62909, which provided for the adjustment of pay rates effective Jan. 1, 1993, was superseded by Ex. Ord. No. 12944, Dec. 28, 1994, 60 F.R. 309, formerly set out as a note under section 5332 of Title 5, Government Organization and Employees.
 
@@ -150,7 +156,7 @@ Applicability to funds appropriated by any Act for fiscal year ending Sept. 30, 
 
 1978—Ex. Ord. No. 12087, Oct. 7, 1978, 43 F.R. 46823, which provided for the adjustment of pay rates effective Oct. 1, 1978, was superseded by Ex. Ord. No. 12165, Oct. 9, 1979, 44 F.R. 58671, formerly set out as a note under section 5332 of Title 5.
 
-Limitations on use of funds for fiscal year ending Sept. 30, 1979, appropriated by any Act to pay the salary or pay of any individual in legislative, executive, or judicial branch in position equal or above Level V of the Executive Schedule, see section 304 of Pub. L. 95–391and section 613 of Pub. L. 95–429, set out as a note under section 5318 of Title 5.
+Limitations on use of funds for fiscal year ending Sept. 30, 1979, appropriated by any Act to pay the salary or pay of any individual in legislative, executive, or judicial branch in position equal or above Level V of the Executive Schedule, see section 304 of Pub. L. 95–391 and section 613 of Pub. L. 95–429, set out as a note under section 5318 of Title 5.
 
 1977—Salary of Speaker of House of Representatives increased to $75,000 per annum;  salaries of President pro tempore of Senate, majority leader and minority leader of Senate, and majority leader and minority leader of House of Representatives increased to $65,000 per annum;  and salaries of Senators, Members of House of Representatives, Delegate to House of Representatives and Resident Commissioner from Puerto Rico increased to $57,500 per annum, on recommendation of the President of the United States effective at the beginning of the first pay period beginning after the 30th day following Jan. 17, 1977, set out as a note under section 358 of this title.
 
@@ -173,8 +179,4 @@ Claims for overpayment of pay or allowances to Senators, see section 130c of thi
 Expense allowance of Speaker of House of Representatives, see section 31b of this title.
 
 Retirement pay, see section 8331 et seq., of Title 5, Government Organization and Employees.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 25b of this title.
 

@@ -34,7 +34,7 @@ In the case of an individual who pays qualified higher education expenses during
 
 &emsp;&emsp;&emsp;(i) such dollar amount, multiplied by
 
-&emsp;&emsp;&emsp;(ii) the cost-of-living adjustment under section 1(f)(3) for the calendar year in which the taxable year begins.
+&emsp;&emsp;&emsp;(ii) the cost-of-living adjustment under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting “calendar year 1989” for “calendar year 1992” in subparagraph (B) thereof.
 
 #### (C) Rounding
 
@@ -84,7 +84,7 @@ For purposes of this section—
 
 &emsp;The term “modified adjusted gross income” means the adjusted gross income of the taxpayer for the taxable year determined—
 
-&emsp;&emsp;(A) without regard to this section and sections 911, 931, and 933, and
+&emsp;&emsp;(A) without regard to this section and sections 137, 911, 931, and 933, and
 
 &emsp;&emsp;(B) after the application of sections 86, 469, and 219.
 
@@ -96,9 +96,11 @@ For purposes of this section—
 
 &emsp;&emsp;(A) a qualified scholarship which under section 117 is not includable in gross income,
 
-&emsp;&emsp;(B) an educational assistance allowance under chapter 30, 31, 32, 34, or 35 of title 38, United States Code, or
+&emsp;&emsp;(B) an educational assistance allowance under chapter 30, 31, 32, 34, or 35 of title 38, United States Code,
 
-&emsp;&emsp;(C) a payment (other than a gift, bequest, devise, or inheritance within the meaning of section 102(a)) for educational expenses, or attributable to attendance at an eligible educational institution, which is exempt from income taxation by any law of the United States.
+&emsp;&emsp;(C) a payment (other than a gift, bequest, devise, or inheritance within the meaning of section 102(a)) for educational expenses, or attributable to attendance at an eligible educational institution, which is exempt from income taxation by any law of the United States, or
+
+&emsp;&emsp;(D) a payment, waiver, or reimbursement of qualified higher education expenses under a qualified State tuition program (within the meaning of section 529(b)).
 
 #### (2) No exclusion for married individuals filing separate returns
 
@@ -108,11 +110,11 @@ For purposes of this section—
 
 &emsp;The Secretary may prescribe such regulations as may be necessary or appropriate to carry out this section, including regulations requiring record keeping and information reporting.
 
-(Added Pub. L. 100–647, title VI, §6009(a), Nov. 10, 1988, 102 Stat. 3688; amended Pub. L. 101–239, title VII, §7816(c)(2), Dec. 19, 1989, 103 Stat. 2420; Pub. L. 101–508, title XI, §§11101(d)(1)(E), 11702(h), Nov. 5, 1990, 104 Stat. 1388–405, 1388–516.)
+(Added Pub. L. 100–647, title VI, §6009(a), Nov. 10, 1988, 102 Stat. 3688; amended Pub. L. 101–239, title VII, §7816(c)(2), Dec. 19, 1989, 103 Stat. 2420; Pub. L. 101–508, title XI, §§11101(d)(1)(E), 11702(h), Nov. 5, 1990, 104 Stat. 1388–405, 1388–516; Pub. L. 104–188, title I, §§1703(d), 1806(b)(1), 1807(c)(2), Aug. 20, 1996, 110 Stat. 1875, 1898, 1902.)
 
-#### Adjustment of Limitation on Exclusion of Income Under This Section for Tax Years Beginning in 1996
+#### Adjustment of Limitation on Exclusion of Income Under This Section for Tax Years Beginning in 1997
 
-<i>For adjustment of limitation on exclusion for income from redemption of United States savings bonds for taxpayers who pay qualified higher education expenses under this section for tax years beginning in 1996, see section 3.07 of Revenue Procedure 95–53, set out as a note under section 1 of this title.</i>
+<i>For adjustment of limitation on exclusion for income from redemption of United States savings bonds for taxpayers who pay qualified higher education expenses under this section for tax years beginning in 1997, see section 3.08 of Revenue Procedure 96–59, set out as a note under section 1 of this title.</i>
 
 #### References in Text
 
@@ -124,9 +126,15 @@ Section 521 of the Carl D. Perkins Vocational Education Act, referred to in subs
 
 #### Prior Provisions
 
-A prior section 135 was renumbered section 137 of this title.
+A prior section 135 was renumbered section 138 of this title.
 
 #### Amendments
+
+1996—Subsec. (b)(2)(B)(ii). Pub. L. 104–188, §1703(d), inserted “, determined by substituting ‘calendar year 1989’ for ‘calendar year 1992’ in subparagraph (B) thereof” before period at end.
+
+Subsec. (c)(4)(A). Pub. L. 104–188, §1807(c)(2), inserted “137,” before “911”.
+
+Subsec. (d)(1)(D). Pub. L. 104–188, §1806(b)(1), added subpar. (D).
 
 1990—Subsec. (b)(2)(B). Pub. L. 101–508, §11702(h)(1), substituted “the $40,000 and $60,000 amounts” for “each dollar amount” in introductory provisions.
 
@@ -135,6 +143,14 @@ Subsec. (b)(2)(B)(ii). Pub. L. 101–508, §11101(d)(1)(E), struck out before pe
 Subsec. (b)(2)(C). Pub. L. 101–508, §11702(h)(2), struck out “(A) or” after “subparagraph”.
 
 1989—Subsec. (d)(1). Pub. L. 101–239 substituted “subsection (a) with respect to” for “subsection (a) respect to”.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by section 1703(d) of Pub. L. 104–188 effective as if included in the provision of the Revenue Reconciliation Act of 1993, Pub. L. 103–66, §§13001–13444, to which such amendment relates, see section 1703(<i>o</i>) of Pub. L. 104–188, set out as a note under section 39 of this title.
+
+Amendment by section 1806(b)(1) of Pub. L. 104–188 applicable to taxable years ending after Aug. 20, 1996, with transition rules applicable where States or agencies or instrumentalities thereof maintain on such date programs under which persons may purchase tuition credits or certificates on behalf of, or make contributions for education expenses of, designated beneficiaries, see section 1806(c) of Pub. L. 104–188, set out as an Effective Date note under section 529 of this title.
+
+Amendment by section 1807(c)(2) of Pub. L. 104–188 applicable to taxable years beginning after Dec. 31, 1996, see section 1807(e) of Pub. L. 104–188, set out as an Effective Date note under section 23 of this title.
 
 #### Effective Date of 1990 Amendment
 
@@ -152,7 +168,7 @@ Section applicable to taxable years beginning after Dec. 31, 1989, see section 6
 
 #### Promotion of Public Awareness of Program
 
-Section 6009(b) of Pub. L. 100–647 provided that: “The Secretary of the Treasury or his delegate shall take such actions as may be necessary to make the general public aware of the program established by this section \[enacting this section, amending sections 86, 219, and 469 of this title, renumbering former section 135 of this title as section 136 of this title, and enacting provisions set out as notes below and under section 86 of this title\].”
+Section 6009(b) of Pub. L. 100–647 provided that: “The Secretary of the Treasury or his delegate shall takesuch actions as may be necessary to make the general public aware of the program established by this section \[enacting this section, amending sections 86, 219, and 469 of this title, renumbering former section 135 of this title as section 136 of this title, and enacting provisions set out as notes below and under section 86 of this title\].”
 
 #### Parental Assistance With Tuition Stamp Study
 
@@ -160,5 +176,5 @@ Section 6009(e) of Pub. L. 100–647 directed Secretary of the Treasury or his d
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 86, 219, 469 of this title.
+This section is referred to in sections 23, 86, 137, 219, 469, 529 of this title.
 

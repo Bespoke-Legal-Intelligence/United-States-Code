@@ -60,7 +60,9 @@ Written Notice Requirement.—The Secretary shall impose a penalty under this se
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

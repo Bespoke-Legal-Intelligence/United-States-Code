@@ -12,6 +12,10 @@
 
 Section 1324 of this title, referred to in subsec. (b), was repealed by act Aug. 28, 1954, ch. 1041, title III, §304, 68 Stat. 902.
 
+#### Inapplicability of Section
+
+Section inapplicable to 1996 through 2002 crops of loan commodities, peanuts, and sugar and inapplicable to milk during period beginning Apr. 4, 1996, and ending Dec. 31, 2002, see section 7301(a)(1)(A) of this title.
+
 #### Repeals
 
 Act Aug. 28, 1954, ch. 1041, title III, §304, 68 Stat. 902, repealed this section insofar as it is applicable to corn. Section has been made applicable to wheat by sections 1330(6) and 1340(6) of this title.

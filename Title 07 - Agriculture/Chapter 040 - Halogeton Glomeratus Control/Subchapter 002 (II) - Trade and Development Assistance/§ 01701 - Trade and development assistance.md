@@ -2,15 +2,19 @@
 
 #### (a) In general
 
-The President shall establish a program under this subchapter to provide for the sale of agricultural commodities to developing countries for dollars on credit terms, or for local currencies (including for local currencies on credit terms) for use under this subchapter. Such program shall be implemented by the Secretary.
+The President shall establish a program under this subchapter to provide for the sale of agricultural commodities to developing countries and private entities for dollars on credit terms, or for local currencies (including for local currencies on credit terms) for use under this subchapter. Such program shall be implemented by the Secretary.
 
 #### (b) General authority
 
-To carry out the policies and accomplish the objectives described in section 1691 of this title, the Secretary may negotiate and execute agreements with developing countries to finance the sale and exportation of agricultural commodities to such countries.
+To carry out the policies and accomplish the objectives described in section 1691 of this title, the Secretary may negotiate and execute agreements with developing countries and private entities to finance the sale and exportation of agricultural commodities to such countries and entities.
 
-(July 10, 1954, ch. 469, title I, §101, 68 Stat. 455; Sept. 6, 1958, Pub. L. 85–931, §1, 72 Stat. 1790; Aug. 8, 1961, Pub. L. 87–128, title II, §201(1), 75 Stat. 306; Dec. 16, 1963, Pub. L. 88–205, pt. IV, §403(a), 77 Stat. 390; Oct. 8, 1964, Pub. L. 88–638, §1(1), (2), 78 Stat. 1035; Nov. 11, 1966, Pub. L. 89–808, §2(B), 80 Stat. 1526; Dec. 29, 1981, Pub. L. 97–113, title IV, §401(1), 95 Stat. 1537; Dec. 23, 1985, Pub. L. 99–198, title XI, §1111(c), 99 Stat. 1474; Dec. 22, 1987, Pub. L. 100–202, §8, 101 Stat. 1329–447; Nov. 28, 1990, Pub. L. 101–624, title XV, §1512, 104 Stat. 3633.)
+(July 10, 1954, ch. 469, title I, §101, 68 Stat. 455; Sept. 6, 1958, Pub. L. 85–931, §1, 72 Stat. 1790; Aug. 8, 1961, Pub. L. 87–128, title II, §201(1), 75 Stat. 306; Dec. 16, 1963, Pub. L. 88–205, pt. IV, §403(a), 77 Stat. 390; Oct. 8, 1964, Pub. L. 88–638, §1(1), (2), 78 Stat. 1035; Nov. 11, 1966, Pub. L. 89–808, §2(B), 80 Stat. 1526; Dec. 29, 1981, Pub. L. 97–113, title IV, §401(1), 95 Stat. 1537; Dec. 23, 1985, Pub. L. 99–198, title XI, §1111(c), 99 Stat. 1474; Dec. 22, 1987, Pub. L. 100–202, §8, 101 Stat. 1329–447; Nov. 28, 1990, Pub. L. 101–624, title XV, §1512, 104 Stat. 3633; Apr. 4, 1996, Pub. L. 104–127, title II, §202, 110 Stat. 951.)
 
 #### Amendments
+
+1996—Subsec. (a). Pub. L. 104–127, §202(1), inserted “and private entities” after “developing countries”.
+
+Subsec. (b). Pub. L. 104–127 inserted “and private entities” after “developing countries” and “and entities” after “such countries”.
 
 1990—Pub. L. 101–624 amended section generally, substituting present provisions for provisions authorizing President to negotiate agreements with friendly countries for sales of commodities for dollars on credit terms, or for foreign currencies, on credit or on terms permitting conversion to dollars, setting minimum level for sales in foreign currencies, limiting extent of sales for foreign currency to amounts that can be productively used in private sector of foreign country, and requiring that sales for foreign currency through financial intermediaries be on terms and conditions specified in agreements.
 
@@ -76,5 +80,5 @@ Program under this subchapter to provide for sale of agricultural commodities to
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 22 section 1922.
+This section is referred to in section 1702 of this title; title 22 section 1922.
 

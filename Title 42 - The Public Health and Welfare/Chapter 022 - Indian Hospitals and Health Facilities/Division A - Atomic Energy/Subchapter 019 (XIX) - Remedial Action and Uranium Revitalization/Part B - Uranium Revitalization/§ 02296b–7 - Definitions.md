@@ -2,7 +2,7 @@
 
 For purposes of this part:
 
-&emsp;(1) The term “Corporation” means the United States Enrichment Corporation established under section 2297b of this title.
+&emsp;(1) The term “Corporation” means the United States Enrichment Corporation established under section 2297b of this title or its successor.
 
 &emsp;(2) The term “country of origin” means—
 
@@ -22,9 +22,13 @@ For purposes of this part:
 
 &emsp;(7) The term “utility regulatory authority” means any State agency or Federal agency that has ratemaking authority with respect to the sale of electric energy by any electric utility or independent power producer. For purposes of this paragraph, the terms “electric utility”, “State agency”, “Federal agency”, and “ratemaking authority” have the respective meanings given such terms in section 2602 of title 16.
 
-(Pub. L. 102–486, title X, §1018, Oct. 24, 1992, 106 Stat. 2950.)
+(Pub. L. 102–486, title X, §1018, Oct. 24, 1992, 106 Stat. 2950; Pub. L. 104–134, title III, §3117(b), Apr. 26, 1996, 110 Stat. 1321–350.)
 
 #### Codification
 
 Section was enacted as part of the Energy Policy Act of 1992, and not as part of the Atomic Energy Act of 1954 which comprises this chapter.
+
+#### Amendments
+
+1996—Par. (1). Pub. L. 104–134 inserted “or its successor” before period at end.
 

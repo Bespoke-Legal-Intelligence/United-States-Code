@@ -8,7 +8,7 @@ There is authorized to be appropriated to carry out this subchapter (other than 
 
 &emsp;(3) $95,000,000 for fiscal year 1991, of which not more than $14,978,200 shall be available for research under this subchapter.
 
-(June 25, 1947, ch. 125, §31, formerly §27, as added Oct. 21, 1972, Pub. L. 92–516, §2, 86 Stat. 998; amended July 2, 1975, Pub. L. 94–51, 89 Stat. 257; Oct. 10, 1975, Pub. L. 94–109, 89 Stat. 571; Nov. 28, 1975, Pub. L. 94–140, §3, 89 Stat. 752; renumbered and amended Sept. 30, 1978, Pub. L. 95–396, §§24(1), 25, 92 Stat. 836, 838; Dec. 17, 1980, Pub. L. 96–539, §3, 94 Stat. 3195; Dec. 2, 1983, Pub. L. 98–201, §2, 97 Stat. 1380; Dec. 23, 1985, Pub. L. 99–198, title XVII, §1768, 99 Stat. 1656; Oct. 25, 1988, Pub. L. 100–532, title VII, §701, 102 Stat. 2679.)
+(June 25, 1947, ch. 125, §34, formerly §27, as added Oct. 21, 1972, Pub. L. 92–516, §2, 86 Stat. 998; amended July 2, 1975, Pub. L. 94–51, 89 Stat. 257; Oct. 10, 1975, Pub. L. 94–109, 89 Stat. 571; Nov. 28, 1975, Pub. L. 94–140, §3, 89 Stat. 752; renumbered §31 and amended Sept. 30, 1978, Pub. L. 95–396, §§24(1), 25, 92 Stat. 836, 838; Dec. 17, 1980, Pub. L. 96–539, §3, 94 Stat. 3195; Dec. 2, 1983, Pub. L. 98–201, §2, 97 Stat. 1380; Dec. 23, 1985, Pub. L. 99–198, title XVII, §1768, 99 Stat. 1656; Oct. 25, 1988, Pub. L. 100–532, title VII, §701, 102 Stat. 2679; renumbered §34, Aug. 3, 1996, Pub. L. 104–170, title I, §121(1), 110 Stat. 1492.)
 
 #### Codification
 

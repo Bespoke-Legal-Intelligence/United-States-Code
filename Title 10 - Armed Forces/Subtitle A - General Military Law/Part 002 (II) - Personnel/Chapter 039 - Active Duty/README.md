@@ -6,20 +6,19 @@
 | [671a.](%C2%A7%2000671a%20-%20Members%20service%20extension%20during%20war.md) | Members: service extension during war. |
 | [671b.](%C2%A7%2000671b%20-%20Members%20service%20extension%20when%20Congress%20is%20not%20in%20session.md) | Members: service extension when Congress is not in session. |
 | [672\.](%C2%A7%2000672%20-%20Reference%20to%20chapter%201209.md) | Reference to chapter 1209. |
-| \[673 to 686. Renumbered.\] |  |
-| 687\.<sup>1</sup> | Ready Reserve: muster duty. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |
-| :--- | ---: |
-| [688\.](%C2%A7%2000688%20-%20Retired%20members.md) | Retired members. |
-| \[689. | Renumbered.\] |
-| 690\.<sup>1</sup> | Limitation on duty with Reserve Officer Training Corps units. |
+| \[673 to 687. Renumbered.\] |  |
+| [688\.](%C2%A7%2000688%20-%20Retired%20members%20authority%20to%20order%20to%20active%20duty%3B%20duties.md) | Retired members: authority to order to active duty; duties. |
+| [689\.](%C2%A7%2000689%20-%20Retired%20members%20grade%20in%20which%20ordered%20to%20active%20duty%20and%20upon%20release%20from%20active%20duty.md) | Retired members: grade in which ordered to active duty and upon release from active duty. |
+| [690\.](%C2%A7%2000690%20-%20Retired%20members%20ordered%20to%20active%20duty%20limitation%20on%20number.md) | Retired members ordered to active duty: limitation on number. |
+| [691\.](%C2%A7%2000691%20-%20Permanent%20end%20strength%20levels%20to%20support%20two%20major%20regional%20contingencies.md) | Permanent end strength levels to support two major regional contingencies. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1996—Pub. L. 104–201, div. A, title V, §521(c), Sept. 23, 1996, 110 Stat. 2517, added items 688, 689, and 690 and struck out former item 688 “Retired members”.
+
+Pub. L. 104–106, div. A, title IV, §401(b)(2), title XV, §1501(c)(7), Feb. 10, 1996, 110 Stat. 286, 499, struck out items 687 “Ready Reserve: muster duty” and 690 “Limitation on duty with Reserve Officer Training Corps units” and added item 691.
 
 1994—Pub. L. 103–337, div. A, title XVI, §1671(b)(7), Oct. 5, 1994, 108 Stat. 3013, substituted “Reference to chapter 1209” for “Reserve components generally” in item 672 and struck out former items 673 to 686 and 689.
 
@@ -31,7 +30,7 @@ Pub. L. 102–25, title VII, §701(e)(3), Apr. 6, 1991, 105 Stat. 114, transferr
 
 1989—Pub. L. 101–189, div. A, title V, §502(a)(2), Nov. 29, 1989, 103 Stat. 1436, added item 687.
 
-1987—Pub. L. 100–180, div. A, title XII, §1231(4), Dec. 4, 1987, 101 Stat. 1160, amended analysis by transferringitem 686 from the end to a position immediately below item 685.
+1987—Pub. L. 100–180, div. A, title XII, §1231(4), Dec. 4, 1987, 101 Stat. 1160, amended analysis by transferring item 686 from the end to a position immediately below item 685.
 
 1986—Pub. L. 99–661, div. A, title IV, §412(b)(2), Nov. 14, 1986, 100 Stat. 3862, added item 686 at end of analysis.
 
@@ -54,8 +53,6 @@ Pub. L. 102–25, title VII, §701(e)(3), Apr. 6, 1991, 105 Stat. 114, transferr
 #### Chapter Referred to in Other Sections
 
 This chapter is referred to in section 513 of this title.
-
-<i><sup>1</sup></i><i> Sections 687 and 690 renumbered sections 12319 and 12321, respectively, by Pub. L. 103–337 without corresponding amendment of chapter analysis.</i>
 
 
 ---
@@ -84,6 +81,7 @@ This chapter is referred to in section 513 of this title.
 - [&sect; 00685 - Renumbered &sect;12317](%C2%A7%2000685%20-%20Renumbered%20%C2%A712317.md)
 - [&sect; 00686 - Renumbered &sect;12318](%C2%A7%2000686%20-%20Renumbered%20%C2%A712318.md)
 - [&sect; 00687 - Renumbered &sect;12319](%C2%A7%2000687%20-%20Renumbered%20%C2%A712319.md)
-- [&sect; 00688 - Retired members](%C2%A7%2000688%20-%20Retired%20members.md)
-- [&sect; 00689 - Renumbered &sect;12320](%C2%A7%2000689%20-%20Renumbered%20%C2%A712320.md)
-- [&sect; 00690 - Renumbered &sect;12321](%C2%A7%2000690%20-%20Renumbered%20%C2%A712321.md)
+- [&sect; 00688 - Retired members authority to order to active duty; duties](%C2%A7%2000688%20-%20Retired%20members%20authority%20to%20order%20to%20active%20duty%3B%20duties.md)
+- [&sect; 00689 - Retired members grade in which ordered to active duty and upon release from active duty](%C2%A7%2000689%20-%20Retired%20members%20grade%20in%20which%20ordered%20to%20active%20duty%20and%20upon%20release%20from%20active%20duty.md)
+- [&sect; 00690 - Retired members ordered to active duty limitation on number](%C2%A7%2000690%20-%20Retired%20members%20ordered%20to%20active%20duty%20limitation%20on%20number.md)
+- [&sect; 00691 - Permanent end strength levels to support two major regional contingencies](%C2%A7%2000691%20-%20Permanent%20end%20strength%20levels%20to%20support%20two%20major%20regional%20contingencies.md)

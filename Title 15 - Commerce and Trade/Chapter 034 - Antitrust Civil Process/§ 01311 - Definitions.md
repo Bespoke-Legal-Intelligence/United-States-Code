@@ -16,7 +16,7 @@ For the purposes of this chapter—
 
 &emsp;(e) The term “antitrust investigator” means any attorney or investigator employed by the Department of Justice who is charged with the duty of enforcing or carrying into effect any antitrust law;
 
-&emsp;(f) The term “person” means any natural person, partnership, corporation, association, or other legal entity, including any person acting under color or authority of State law;
+&emsp;(f) The term “person” means any natural person, partnership, corporation, association,or other legal entity, including any person acting under color or authority of State law;
 
 &emsp;(g) The term “documentary material” includes the original or any copy of any book, record, report, memorandum, paper, communication, tabulation, chart, or other document, and any product of discovery;
 

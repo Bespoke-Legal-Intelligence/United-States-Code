@@ -10,7 +10,7 @@ In general.—The Secretary is authorized to use funds appropriated to carry out
 
 &emsp;(2)
 
-Additional authority.—In addition, the Secretary may use the funds appropriated tocarry out this section, either independently or in cooperation with other Federal departments or agencies, for—
+Additional authority.—In addition, the Secretary may use the funds appropriated to carry out this section, either independently or in cooperation with other Federal departments or agencies, for—
 
 &emsp;&emsp;(A) training or education of highway safety personnel,
 
@@ -142,7 +142,7 @@ State Participation.—The Secretary shall solicit the participation of States f
 
 “(c)
 
-State Selection Process.—The Secretary shall ensure that the selection made pursuant to this section is representative of varying geographical and population characteristics of the Nation, and takes into consideration the historical geographical incidence of motor vehicle accidents involving loss of human life. In selecting the States for participation, the Secretaryshall attempt to solicit States which meet the following criteria:
+State Selection Process.—The Secretary shall ensure that the selection made pursuant to this section is representative of varying geographical and population characteristics of the Nation, and takes into consideration the historical geographical incidence of motor vehicle accidents involving loss of human life. In selecting the States for participation, the Secretary shall attempt to solicit States which meet the following criteria:
 
 &emsp;“(1) One of the States shall be a western State which is one of the 3 most populous States, with numerous large cities, with at least one city exceeding 7,000,000 people. The State should have a diverse demographic population with larger than average drug use according to reliable surveys.
 

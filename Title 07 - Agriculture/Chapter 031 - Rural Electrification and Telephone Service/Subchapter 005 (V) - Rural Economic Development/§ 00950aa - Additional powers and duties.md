@@ -10,15 +10,15 @@ The Secretary shall—
 
 &emsp;(4) act as an information clearinghouse and conduit to provide information to electric and telephone borrowers under this chapter concerning useful and effective rural development efforts that such borrowers may wish to apply in their areas of operation and concerning State, regional, or local plans for long-term rural economic development;
 
-&emsp;(5) provide information to electric and telephone borrowers under this chapter concerning the eligibility of such borrowers to apply for financial assistance, loans, or grants from other Federal agencies and non-Federal sources to enable such borrowers to expand their rural development efforts;
+&emsp;(5) provide information to electric and telephone borrowers under this chapter concerning the eligibility of such borrowers to apply for financial assistance, loans, or grants from other Federal agencies and non-Federal sources to enable such borrowers to expand their rural development efforts; and
 
-&emsp;(6) promote local partnerships and other coordination between borrowers under this chapter and community organizations, States, counties, or other entities, to improve rural development; and
+&emsp;(6) promote local partnerships and other coordination between borrowers under this chapter and community organizations, States, counties, or other entities, to improve rural development.
 
-&emsp;(7) administer a Rural Business Incubator Fund (as established under section 950aa–1 of this title) that shall provide technical assistance, advice, loans, or capital to business incubator programs or for the creation or operation of small business incubators in rural areas.
-
-(May 20, 1936, ch. 432, title V, §501, as added Nov. 28, 1990, Pub. L. 101–624, title XXIII, §2345, 104 Stat. 4029; amended Dec. 13, 1991, Pub. L. 102–237, title VII, §703(c), 105 Stat. 1881; Oct. 13, 1994, Pub. L. 103–354, title II, §235(a)(12), (13), 108 Stat. 3221.)
+(May 20, 1936, ch. 432, title V, §501, as added Nov. 28, 1990, Pub. L. 101–624, title XXIII, §2345, 104 Stat. 4029; amended Dec. 13, 1991, Pub. L. 102–237, title VII, §703(c), 105 Stat. 1881; Oct. 13, 1994, Pub. L. 103–354, title II, §235(a)(12), (13), 108 Stat. 3221; Apr. 4, 1996, Pub. L. 104–127, title VII, §781(b), 110 Stat. 1151.)
 
 #### Amendments
+
+1996—Par. (7). Pub. L. 104–127 struck out par. (7) which read as follows: “administer a Rural Business Incubator Fund (as established under section 950aa–1 of this title) that shall provide technical assistance, advice, loans, or capital to business incubator programs or for the creation or operation of small business incubators in rural areas.”
 
 1994—Pub. L. 103–354 struck out “of REA Administrator” at end of section catchline and substituted “Secretary” for “Administrator” in introductory provisions and par. (3).
 
@@ -26,5 +26,5 @@ The Secretary shall—
 
 #### Effective Date of 1991 Amendment
 
-Amendment by Pub. L. 102–237 effective as if included in the provision of the Food, Agriculture, Conservation,and Trade Act of 1990, Pub. L. 101–624, to which the amendment relates, see section 1101(b)(8) of Pub. L. 102–237, set out as a note under section 1421 of this title.
+Amendment by Pub. L. 102–237 effective as if included in the provision of the Food, Agriculture, Conservation, and Trade Act of 1990, Pub. L. 101–624, to which the amendment relates, see section 1101(b)(8) of Pub. L. 102–237, set out as a note under section 1421 of this title.
 

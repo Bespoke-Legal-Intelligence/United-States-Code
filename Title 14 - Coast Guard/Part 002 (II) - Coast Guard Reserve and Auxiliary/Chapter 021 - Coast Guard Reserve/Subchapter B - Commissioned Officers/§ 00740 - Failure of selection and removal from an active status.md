@@ -8,7 +8,7 @@
 
 (b) A Reserve officer who has twice failed of selection to the next higher grade and who is not removed from an active status under subsection (a)(1) of this section shall be retained for the period prescribed by the Secretary.
 
-(c) Subject to section 12646 of title 10, a Reserve officer who is removed from an active status under subsection (a) of this section shall be given an opportunity to transfer to the Retired Reserve, if qualified, but unless so transferred shall, in the discretion of the Secretary, be transferred to the inactive status list or discharged as follows:
+(c) Subject to section 12646 of title 10, a Reserve officer who is removed from an active status under subsection (a) of this section shall be given an opportunity to transfer to the Retired Reserve, if qualified, but unless so transferred shall, in the discretion of the Secretary,be transferred to the inactive status list or discharged as follows:
 
 &emsp;(1) if removed from an active status under subsection (a)(1) of this section, on June 30 next following the approval date of the board report by virtue of which the officer's second failure of selection occurs; or
 

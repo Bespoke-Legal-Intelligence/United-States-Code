@@ -30,6 +30,13 @@ Subpart A—Information Concerning Persons Subject to Special Provisions
 | :--- | ---: |
 | [6039D.](%C2%A7%2006039D%20-%20Returns%20and%20records%20with%20respect%20to%20certain%20fringe%20benefit%20plans.md) | Returns and records with respect to certain fringe benefit plans.<sup>2</sup> |
 | [6039E.](%C2%A7%2006039E%20-%20Information%20concerning%20resident%20status.md) | Information concerning resident status. |
+| 6039F.<sup>3</sup> | Information on individuals losing United States citizenship. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+|  |  |
+| :--- | ---: |
+| 6039F.<sup>3</sup> | Notice of large gifts received from foreign persons. |
 | [6040\.](%C2%A7%2006040%20-%20Cross%20references.md) | Cross references. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -39,6 +46,10 @@ Subpart A—Information Concerning Persons Subject to Special Provisions
 Pub. L. 96–603, §1(e)(1), Dec. 28, 1980, 94 Stat. 3505, which directed that item 6034 be amended by substituting “4947(a)(2)” for “4947(a)”, could not be executed because item 6034 does not contain “4947(a)”.
 
 #### Amendments
+
+1996—Pub. L. 104–191, title V, §512(b), Aug. 21, 1996, 110 Stat. 2102, added item 6039F “Information on individuals losing United States citizenship”.
+
+Pub. L. 104–188, title I, §1905(b), Aug. 20, 1996, 110 Stat. 1913, added item 6039F “Notice of large gifts received from foreign persons”.
 
 1990—Pub. L. 101–508, title XI, §11315(b)(2), Nov. 5, 1990, 104 Stat. 1388–457, added item 6038C.
 
@@ -72,6 +83,8 @@ Pub. L. 96–223, title IV, §401(a), Apr. 2, 1980, 94 Stat. 299, repealed Pub. 
 
 <i><sup>2</sup></i><i> So in original. Pub. L. 98–611 and Pub. L. 98–612 enacted identical items designated “6039D”. Pub. L. 99–514, §1879(d)(2), repealed the section 6039D enacted by Pub. L. 98–612 without corresponding amendment of subpart analysis.</i>
 
+<i><sup>3</sup></i><i> So in original. Two sections 6039F have been enacted.</i>
+
 
 ---
 
@@ -95,4 +108,6 @@ Pub. L. 96–223, title IV, §401(a), Apr. 2, 1980, 94 Stat. 299, repealed Pub. 
 - [&sect; 06039C - Returns with respect to foreign persons holding direct investments in United States real property interests](%C2%A7%2006039C%20-%20Returns%20with%20respect%20to%20foreign%20persons%20holding%20direct%20investments%20in%20United%20States%20real%20property%20interests.md)
 - [&sect; 06039D - Returns and records with respect to certain fringe benefit plans](%C2%A7%2006039D%20-%20Returns%20and%20records%20with%20respect%20to%20certain%20fringe%20benefit%20plans.md)
 - [&sect; 06039E - Information concerning resident status](%C2%A7%2006039E%20-%20Information%20concerning%20resident%20status.md)
+- [&sect; 06039F - 1 Information on individuals losing United States citizenship](%C2%A7%2006039F%20-%201%20Information%20on%20individuals%20losing%20United%20States%20citizenship.md)
+- [&sect; 06039F - 1 Notice of large gifts received from foreign persons](%C2%A7%2006039F%20-%201%20Notice%20of%20large%20gifts%20received%20from%20foreign%20persons.md)
 - [&sect; 06040 - Cross references](%C2%A7%2006040%20-%20Cross%20references.md)

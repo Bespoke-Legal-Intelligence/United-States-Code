@@ -19,19 +19,19 @@
 
 |  |  |
 | :--- | ---: |
-| [4721\.](Subchapter%20001%20%28I%29%20-%20Development%20of%20Policies%20and%20Standards/%C2%A7%2004721%20-%20Declaration%20of%20purpose.md) | Declaration of purpose. |
-| [4722\.](Subchapter%20001%20%28I%29%20-%20Development%20of%20Policies%20and%20Standards/%C2%A7%2004722%20-%20State%20government%20and%20statewide%20programs%20and%20grants.md) | State government and statewide programs and grants. |
+| [4721\.](Subchapter%20002%20%28II%29%20-%20Strengthening%20State%20and%20Local%20Personnel%20Administration/%C2%A7%2004721%20-%20Declaration%20of%20purpose.md) | Declaration of purpose. |
+| [4722\.](Subchapter%20002%20%28II%29%20-%20Strengthening%20State%20and%20Local%20Personnel%20Administration/%C2%A7%2004722%20-%20State%20government%20and%20statewide%20programs%20and%20grants.md) | State government and statewide programs and grants. |
 | (a) | Amount of grants; executive certification; systems of personnel administration: innovation and diversity in design, execution, and management. |
 | (b) | Application; time of making; information; terms and conditions; personnel administration improvement. |
-| [4723\.](Subchapter%20001%20%28I%29%20-%20Development%20of%20Policies%20and%20Standards/%C2%A7%2004723%20-%20Local%20government%20programs%20and%20grants.md) | Local government programs and grants. |
+| [4723\.](Subchapter%20002%20%28II%29%20-%20Strengthening%20State%20and%20Local%20Personnel%20Administration/%C2%A7%2004723%20-%20Local%20government%20programs%20and%20grants.md) | Local government programs and grants. |
 | (a) | Population served; amount of grants; executive certification; State grant, conditions. |
 | (b) | Application; time of making; information; terms and conditions; waiver; development costs; population served. |
 | (c) | Gubernatorial review of application; disapproval explanation. |
-| [4724\.](Subchapter%20001%20%28I%29%20-%20Development%20of%20Policies%20and%20Standards/%C2%A7%2004724%20-%20Intergovernmental%20cooperation%20in%20recruiting%20and%20examining%20activities%3B%20potential%20employees%2C%20certification%3B%20payments%20for%20costs%3B%20credits%20to%E2%80%A6.md) | Intergovernmental cooperation in recruiting and examining activities; potential employees, certification; payments for costs; credits to appropriation or fund for payment of expenses. |
-| [4725\.](Subchapter%20001%20%28I%29%20-%20Development%20of%20Policies%20and%20Standards/%C2%A7%2004725%20-%20Technical%20assistance%3B%20waiver%20of%20payments%20for%20costs%3B%20credits%20to%20appropriation%20or%20fund%20for%20payment%20of%20expenses.md) | Technical assistance; waiver of payments for costs; credits to appropriation or fund for payment of expenses. |
-| [4726\.](Subchapter%20001%20%28I%29%20-%20Development%20of%20Policies%20and%20Standards/%C2%A7%2004726%20-%20Coordination%20of%20Federal%20programs.md) | Coordination of Federal programs. |
-| [4727\.](Subchapter%20001%20%28I%29%20-%20Development%20of%20Policies%20and%20Standards/%C2%A7%2004727%20-%20Interstate%20compacts.md) | Interstate compacts. |
-| [4728\.](Subchapter%20001%20%28I%29%20-%20Development%20of%20Policies%20and%20Standards/%C2%A7%2004728%20-%20Transfer%20of%20functions.md) | Transfer of functions. |
+| [4724\.](Subchapter%20002%20%28II%29%20-%20Strengthening%20State%20and%20Local%20Personnel%20Administration/%C2%A7%2004724%20-%20Intergovernmental%20cooperation%20in%20recruiting%20and%20examining%20activities%3B%20potential%20employees%2C%20certification%3B%20payments%20for%20costs%3B%20credits%20to%E2%80%A6.md) | Intergovernmental cooperation in recruiting and examining activities; potential employees, certification; payments for costs; credits to appropriation or fund for payment of expenses. |
+| [4725\.](Subchapter%20002%20%28II%29%20-%20Strengthening%20State%20and%20Local%20Personnel%20Administration/%C2%A7%2004725%20-%20Technical%20assistance%3B%20waiver%20of%20payments%20for%20costs%3B%20credits%20to%20appropriation%20or%20fund%20for%20payment%20of%20expenses.md) | Technical assistance; waiver of payments for costs; credits to appropriation or fund for payment of expenses. |
+| [4726\.](Subchapter%20002%20%28II%29%20-%20Strengthening%20State%20and%20Local%20Personnel%20Administration/%C2%A7%2004726%20-%20Coordination%20of%20Federal%20programs.md) | Coordination of Federal programs. |
+| [4727\.](Subchapter%20002%20%28II%29%20-%20Strengthening%20State%20and%20Local%20Personnel%20Administration/%C2%A7%2004727%20-%20Interstate%20compacts.md) | Interstate compacts. |
+| [4728\.](Subchapter%20002%20%28II%29%20-%20Strengthening%20State%20and%20Local%20Personnel%20Administration/%C2%A7%2004728%20-%20Transfer%20of%20functions.md) | Transfer of functions. |
 | (a) | Prescription of personnel standards on a merit basis. |
 | (b) | Standards for systems of personnel administration. |
 | (c) | Powers and duties of Office. |
@@ -107,5 +107,6 @@ This chapter is referred to in title 25 section 3417.
 - [&sect; 04701 - Congressional findings and declaration of policy](%C2%A7%2004701%20-%20Congressional%20findings%20and%20declaration%20of%20policy.md)
 - [&sect; 04702 - Administration of authorities](%C2%A7%2004702%20-%20Administration%20of%20authorities.md)
 - [Subchapter 001 (I) - Development of Policies and Standards](Subchapter%20001%20%28I%29%20-%20Development%20of%20Policies%20and%20Standards/README.md)
+- [Subchapter 002 (II) - Strengthening State and Local Personnel Administration](Subchapter%20002%20%28II%29%20-%20Strengthening%20State%20and%20Local%20Personnel%20Administration/README.md)
 - [Subchapter 003 (III) - Training and Developing State and Local Employees](Subchapter%20003%20%28III%29%20-%20Training%20and%20Developing%20State%20and%20Local%20Employees/README.md)
 - [Subchapter 004 (IV) - General Provisions](Subchapter%20004%20%28IV%29%20-%20General%20Provisions/README.md)

@@ -48,5 +48,5 @@ In subsection (b), the words “A representative of a person or an estate” are
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 20 section 1087–2; title 22 section 1631g; title 26 sections 6327, 6901, 7421, 7434; title 28 section 3003; title 29 section 1368; title 30 section 934; title 41 section 108; title 48 section 1423a; title 50 App. section 34.
+This section is referred to in title 20 section 1087–2; title 22 section 1631g; title 26 sections 6327, 6901, 7421,7434; title 28 section 3003; title 29 section 1368; title 30 section 934; title 41 section 108; title 48 section 1423a; title 50 App. section 34.
 

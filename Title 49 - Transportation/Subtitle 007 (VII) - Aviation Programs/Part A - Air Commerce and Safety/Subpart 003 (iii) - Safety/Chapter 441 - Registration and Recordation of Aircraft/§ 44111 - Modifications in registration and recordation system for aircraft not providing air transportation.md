@@ -28,7 +28,7 @@ Nature of Modifications.—Modifications made under subsection (b) of this secti
 
 &emsp;&emsp;(B) the use of false or nonexistent addresses by persons registering aircraft.
 
-&emsp;&emsp;(C) the use by a person registering an aircraft of a post office box or “mail drop” asa return address to evade identification of the person's address.
+&emsp;&emsp;(C) the use by a person registering an aircraft of a post office box or “mail drop” as a return address to evade identification of the person's address.
 
 &emsp;&emsp;(D) the registration of aircraft to entities established to facilitate unlawful activities.
 
@@ -52,7 +52,7 @@ Regulations.—(1) The Administrator of the Federal Aviation Administration shal
 
 (2) Regulations prescribed under this subsection shall require that—
 
-&emsp;(A) each individual listed in an application for registration of an aircraft provide with the application the individual's driver's license number; and
+&emsp;(A) each individual listed in an application for registration of an aircraft provide with theapplication the individual's driver's license number; and
 
 &emsp;(B) each person (not an individual) listed in an application for registration of an aircraft provide with the application the person's taxpayer identifying number.
 
@@ -60,7 +60,9 @@ Regulations.—(1) The Administrator of the Federal Aviation Administration shal
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -136,7 +138,7 @@ Pub. L. 100–690, title VII, §7210, Nov. 18, 1988, 102 Stat. 4432, provided th
 
 #### Applicability of Paperwork Reduction Act
 
-Pub. L. 100–690, title VII, §7211(b), Nov. 18, 1988, 102 Stat. 4433, provided that: “No information collection requests necessary to carry out the objectives of this subtitle \[subtitle E (§§7201–7214) of title VI of Pub. L. 100–690, see Tables for classification\] (including theamendments made by this subtitle) shall be subject to or affect, directly or indirectly, the annual information collection budget goals established for the Federal Aviation Administration and the Department of Transportation under chapter 35 of title 44, United States Code.”
+Pub. L. 100–690, title VII, §7211(b), Nov. 18, 1988, 102 Stat. 4433, provided that: “No information collection requests necessary to carry out the objectives of this subtitle \[subtitle E (§§7201–7214) of title VI of Pub. L. 100–690, see Tables for classification\] (including the amendments made by this subtitle) shall be subject to or affect, directly or indirectly, the annual information collection budget goals established for the Federal Aviation Administration and the Department of Transportation under chapter 35 of title 44, United States Code.”
 
 #### Section Referred to in Other Sections
 

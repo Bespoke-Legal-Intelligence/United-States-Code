@@ -49,3 +49,4 @@ This part is referred to in sections 426, 1395i–4 of this title; title 45 sect
 - [&sect; 01395aaa - Transferred](%C2%A7%2001395aaa%20-%20Transferred.md)
 - [&sect; 01395bbb - Conditions of participation for home health agencies; home health quality](%C2%A7%2001395bbb%20-%20Conditions%20of%20participation%20for%20home%20health%20agencies%3B%20home%20health%20quality.md)
 - [&sect; 01395ccc - Offset of payments to individuals to collect past-due obligations arising from breach of scholarship and loan contract](%C2%A7%2001395ccc%20-%20Offset%20of%20payments%20to%20individuals%20to%20collect%20past-due%20obligations%20arising%20from%20breach%20of%20scholarship%20and%20loan%20contract.md)
+- [&sect; 01395ddd - Medicare Integrity Program](%C2%A7%2001395ddd%20-%20Medicare%20Integrity%20Program.md)

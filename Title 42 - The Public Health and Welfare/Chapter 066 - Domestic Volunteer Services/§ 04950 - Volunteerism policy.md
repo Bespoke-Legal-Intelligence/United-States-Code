@@ -36,7 +36,7 @@ Section 1 of Pub. L. 99–551 provided that: “This Act \[enacting this section
 
 #### Short Title of 1984 Amendment
 
-Section 1 of Pub. L. 98–288 provided: “That this Act \[enacting section 5024 of this title, amending sections 4951 to 4956, 4958, 4971, 4972, 4974, 4991 to 4993, 5001, 5011,5013, 5041 to 5044, 5047, 5052, 5056 to 5060, 5081, 5082, 5084, 9902, and 9912 of this title, repealing section 5045 of this title, and enacting provisions set out as notes under sections 5042 and 5045 of this title\] may be cited as the ‘Domestic Volunteer Service Act Amendments of 1984’.”
+Section 1 of Pub. L. 98–288 provided: “That this Act \[enacting section 5024 of this title, amending sections 4951 to 4956, 4958, 4971, 4972, 4974, 4991 to 4993, 5001, 5011, 5013, 5041 to 5044, 5047, 5052, 5056 to 5060, 5081, 5082, 5084, 9902, and 9912 of this title, repealing section 5045 of this title, and enacting provisions set out as notes under sections 5042 and 5045 of this title\] may be cited as the ‘Domestic Volunteer Service Act Amendments of 1984’.”
 
 #### Short Title of 1979 Amendment
 

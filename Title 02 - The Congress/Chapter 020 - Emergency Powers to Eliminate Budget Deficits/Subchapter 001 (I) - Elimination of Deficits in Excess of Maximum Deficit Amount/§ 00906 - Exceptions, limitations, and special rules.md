@@ -196,35 +196,13 @@ Notwithstanding any change in the display of budget accounts, any order issued b
 
 &emsp;Nothing in this joint resolution shall limit or reduce, in any way, any appropriation that provides the Commodity Credit Corporation with budget authority to cover the Corporation's net realized losses.
 
-#### (k) Special rules for JOBS portion of AFDC
-
-#### (1) Full amount of sequestration required
-
-&emsp;Any order issued by the President under section 904 of this title shall accomplish the full amount of any required sequestration of the job opportunities and basic skills training program under section 402(a)(19) \[42 U.S.C. 602(a)(19)\], and part F of title VI,<sup>4</sup> of the Social Security Act, in the manner specified in this subsection. Such an order may not reduce any Federal matching rate pursuant to section 403(<i>l</i>) of the Social Security Act \[42 U.S.C. 603(<i>l</i>)\].
-
-#### (2) New allotment formula
-
-#### (A) General rule
-
-&emsp;&emsp;Notwithstanding section 403(k) of the Social Security Act \[42 U.S.C. 603(k)\], each State's percentage share of the amount available after sequestration for direct spending pursuant to section 403(<i>l</i>) of such Act for the fiscal year to which the sequestration applies shall be equal to—
-
-&emsp;&emsp;&emsp;(i) <sup>5</sup> the lesser of—
-
-&emsp;&emsp;&emsp;&emsp;(I) that percentage of the total amount paid to the States pursuant to such section 403(<i>l</i>) for the prior fiscal year that is represented by the amount paid to such State pursuant to such section 403(<i>l</i>) for the prior fiscal year; or
-
-&emsp;&emsp;&emsp;&emsp;(II) the amount that would have been allotted to such State pursuant to such section 403(k) had the sequestration not been in effect.
-
-#### (B) Reallotment of amounts remaining unallotted after application of general rule
-
-&emsp;&emsp;Any amount made available after sequestration for direct spending pursuant to section 403(<i>l</i>) of the Social Security Act \[42 U.S.C. 603(<i>l</i>)\] for the fiscal year to which the sequestration applies that remains unallotted as a result of subparagraph (A) of this paragraph shall be allotted among the States in proportion to the absolute difference between the amount allotted, respectively, to each State as a result of such subparagraph and the amount that would have been allotted to such State pursuant to section 403(k) of such Act had the sequestration not been in effect, except that a State may not be allotted an amount under this subparagraph that results in a total allotment to the State under this paragraph of more than the amount that would have been allotted to such State pursuant to such section 403(k) had the sequestration not been in effect.
-
-#### (<i>l</i>) Effects of sequestration
+#### (k) Effects of sequestration
 
 The effects of sequestration shall be as follows:
 
 &emsp;(1) Budgetary resources sequestered from any account other than a trust or special fund account shall be permanently cancelled.
 
-&emsp;(2) Except as otherwise provided, the same percentage sequestration shall apply to all programs, projects, and activities within a budget account (with programs, projects, and activities as delineated in the appropriation Act or accompanying report for the relevant fiscal year covering that account, or for accounts not included in appropriation Acts, asdelineated in the most recently submitted President's budget).
+&emsp;(2) Except as otherwise provided, the same percentage sequestration shall apply to all programs, projects, and activities within a budget account (with programs, projects, and activities as delineated in the appropriation Act or accompanying report for the relevant fiscal year covering that account, or for accounts not included in appropriation Acts, as delineated in the most recently submitted President's budget).
 
 &emsp;(3) Administrative regulations or similar actions implementing a sequestration shall be made within 120 days of the sequestration order. To the extent that formula allocations differ at different levels of budgetary resources within an account, program, project, or activity, the sequestration shall be interpreted as producing a lower total appropriation, with the remaining amount of the appropriation being obligated in a manner consistent with program allocation formulas in substantive law.
 
@@ -234,7 +212,7 @@ The effects of sequestration shall be as follows:
 
 &emsp;(6) Except as otherwise provided, sequestration in trust and special fund accounts for which obligations are indefinite shall be taken in a manner to ensure that obligations in the fiscal year of a sequestration are reduced, from the level that would actually have occurred, by the applicable sequestration percentage.
 
-(Pub. L. 99–177, title II, §256, Dec. 12, 1985, 99 Stat. 1086; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–86, title V, §506(b), Aug. 10, 1987, 101 Stat. 634; Pub. L. 100–119, title I, §§102(b)(2), (3), (11), 104(a)(3), (4), Sept. 29, 1987, 101 Stat. 773, 775, 776; Pub. L. 101–73, title VII, §743(b), Aug. 9, 1989, 103 Stat. 437; Pub. L. 101–508, title XIII, §13101(d), Nov. 5, 1990, 104 Stat. 1388–589; Pub. L. 101–509, title V, §529 \[title I, §101(b)(2)(A), (4)(H)\], Nov. 5, 1990, 104 Stat. 1427, 1439, 1440.)
+(Pub. L. 99–177, title II, §256, Dec. 12, 1985, 99 Stat. 1086; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–86, title V, §506(b), Aug. 10, 1987, 101 Stat. 634; Pub. L. 100–119, title I, §§102(b)(2), (3), (11), 104(a)(3), (4), Sept. 29, 1987, 101 Stat. 773, 775, 776; Pub. L. 101–73, title VII,§743(b), Aug. 9, 1989, 103 Stat. 437; Pub. L. 101–508, title XIII, §13101(d), Nov. 5, 1990, 104 Stat. 1388–589; Pub. L. 101–509, title V, §529 \[title I, §101(b)(2)(A), (4)(H)\], Nov. 5, 1990, 104 Stat. 1427, 1439, 1440; Pub. L. 104–193, title I, §110(r)(2), Aug. 22, 1996, 110 Stat. 2175.)
 
 #### Termination of Section
 
@@ -244,7 +222,7 @@ The effects of sequestration shall be as follows:
 
 The Higher Education Act of 1965, referred to in subsec. (b)(1), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended. Part B of title IV of such Act is classified generally to part B (§1071 et seq.) of subchapter IV of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
-The Social Security Act, referred to in subsecs. (c), (d)(1), (2)(B), (3), (i)(1)(B), and (k)(1), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part E of title IV of the Social Security Act is classified generally to part E (§670 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. Part F of title VI of the Social Security Act probably means part F of title IV of the Social Security Act, which is classified generally to part F (§681 et seq.) of subchapter IV of chapter 7 of Title 42. Titles XII and XVIII of the Social Security Act are classified generally to subchapters XII (§1321 et seq.) and XVIII (§1395 et seq.), respectively, of chapter 7 of Title 42. Part B of title XVIII of the Social Security Act is classified generally to part B (§1395j et seq.) of subchapter XVIII of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsecs. (c), (d)(1), (2)(B), (3), and (i)(1)(B), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part E of title IV of the Social Security Act is classified generally to part E (§670 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. Titles XII and XVIII of the Social Security Act are classified generally to subchapters XII (§1321 et seq.) and XVIII (§1395 et seq.), respectively, of chapter 7 of Title 42. Part B of title XVIII of the Social Security Act is classified generally to part B (§1395j et seq.) of subchapter XVIII of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 Section 302 of the Federal Employees Pay Comparability Act of 1990, referred to in subsec. (g)(1), is section 529 \[title III, §302\] of Pub. L. 101–509, which is set out as a note under section 5304 of Title 5, Government Organization and Employees.
 
@@ -257,6 +235,8 @@ Subsec. (h)(1) of this section, referred to in subsec. (h)(3), was redesignated 
 The Federal-State Extended Unemployment Compensation Act of 1970, referred to in subsec. (i)(2)(A), is title II of Pub. L. 91–373, Aug. 10, 1970, 84 Stat. 708, as amended, which is classified generally as a note under section 3304 of Title 26, Internal Revenue Code. Section 204 of such Act is set out in the note under section 3304 of Title 26. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
+
+1996—Subsecs. (k), (<i>l</i>). Pub. L. 104–193 redesignated subsec. (<i>l</i>) as (k) and struck out former subsec. (k) which related to special rules for JOBS portion of AFDC, providing that any order under section 904 accomplish full amount of any required sequestration of job opportunities and basic skills training program, and setting forth new allotment formula.
 
 1990—Subsec. (a). Pub. L. 101–508, §13101(d)(1), amended subsec. (a) generally, substituting provisions relating to automatic spending increases for provisions relating to effect of reductions and sequestrations.
 
@@ -328,6 +308,10 @@ Subsec. (<i>l</i>). Pub. L. 100–119, §102(b)(3), amended subsec. (<i>l</i>) g
 
 1986—Subsec. (h)(2)(B). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–193 effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, set out as a note under section 601 of Title 42, The Public Health and Welfare.
+
 #### Effective Date of 1990 Amendment
 
 Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 \[title III, §305\] of Pub. L. 101–509, set out as a note under section 5301 of Title 5, Government Organization and Employees.
@@ -341,8 +325,4 @@ This section is referred to in sections 901, 902, 903, 905 of this title; title 
 <i><sup>2</sup></i><i> So in original. Subpars. (C) and (D) are identical.</i>
 
 <i><sup>3</sup></i><i> See References in Text note below.</i>
-
-<i><sup>4</sup></i><i> See References in Text note below.</i>
-
-<i><sup>5</sup></i><i> So in original. Subsec. (k)(2)(A) enacted without a cl. (ii).</i>
 

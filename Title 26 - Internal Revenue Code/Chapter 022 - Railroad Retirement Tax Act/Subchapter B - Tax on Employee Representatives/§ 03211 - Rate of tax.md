@@ -18,7 +18,7 @@
 
 &emsp;&emsp;1985
 
-13\.75&nbsp;
+13\.75&nbsp;&nbsp;
 
 &emsp;&emsp;1986 or thereafter
 
@@ -36,7 +36,7 @@
 
 #### Amendments
 
-1990—Subsec. (a). Pub. L. 101–508 substituted “applicable” for “following” before “percentage of the” and provision defining the term “applicable percentage” for provision specifying that in the case of compensation received during 1985 the rate of tax was 14.10 percent, for 1986 or 1987 the rate was 14.30 percent, for 1988 or 1989 the rate was 15.02 percent, and for 1990 or thereafter the rate was 15.30 percent.
+1990—Subsec. (a). Pub. L. 101–508 substituted “applicable” for “following” before “percentage of the” and provision defining the term “applicable percentage” for provision specifying that in the case of compensationreceived during 1985 the rate of tax was 14.10 percent, for 1986 or 1987 the rate was 14.30 percent, for 1988 or 1989 the rate was 15.02 percent, and for 1990 or thereafter the rate was 15.30 percent.
 
 1983—Subsec. (a). Pub. L. 98–76, §223, substituted provisions imposing a two tiered tax on each employee representative equal to the percentage of the compensation received during any calendar year by such employee representative for services rendered as is set out in accompanying tables, for provisions that had imposed on each employee representative a tax equal to 12.75 percent plus the sum of the rates of tax imposed with respect to wages by sections 3101(a), 3101(b), 3111(a), and 3111(b) of so much of the compensation paid in any calendar month to such employee representative for services rendered by him as was not in excess of an amount equal to one-twelfth of the current maximum annual taxable “wage” as defined in section 3121 for any month.
 

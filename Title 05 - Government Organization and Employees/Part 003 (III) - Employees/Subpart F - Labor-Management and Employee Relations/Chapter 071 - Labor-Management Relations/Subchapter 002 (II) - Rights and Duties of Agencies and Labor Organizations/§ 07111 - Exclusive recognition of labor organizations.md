@@ -6,7 +6,7 @@
 
 &emsp;(1) by any person alleging—
 
-&emsp;&emsp;(A) in the case of an appropriate unit for which there is no exclusive representative, that 30 percent of the employees in the appropriate unit wish to be represented for the purpose of collective bargaining by an exclusive representative, or
+&emsp;&emsp;(A) in the case of an appropriate unit for which there is no exclusive representative,that 30 percent of the employees in the appropriate unit wish to be represented for the purpose of collective bargaining by an exclusive representative, or
 
 &emsp;&emsp;(B) in the case of an appropriate unit for which there is an exclusive representative, that 30 percent of the employees in the unit allege that the exclusive representative is no longer the representative of the majority of the employees in the unit; or
 
@@ -54,5 +54,5 @@
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 7103, 7105 of this title; title 2 section 1351; title 7 section 7011; title 10 section 2467.
+This section is referred to in sections 7103, 7105 of this title; title 2 section 1351; title 7 section 7011; title 10 sections 461, 2467.
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Christa McAuliffe fellows in each State shall be selected (in accordance with section 1105d of this title) by a 7-member statewide panel appointed by the chief State school officer, or by an existing panel designated by the chief Stateschool officer. The statewide panel shall be representative of school administrators, teachers, parents, and institutions of higher education.
+Christa McAuliffe fellows in each State shall be selected (in accordance with section 1105d of this title) by a 7-member statewide panel appointed by the chief State school officer, or by an existing panel designated by the chief State school officer. The statewide panel shall be representative of school administrators, teachers, parents, and institutions of higher education.
 
 #### (b) Special rule
 

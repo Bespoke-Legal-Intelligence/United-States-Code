@@ -104,7 +104,7 @@ Subsec. (g). Pub. L. 101–549, §707(b), added subsec. (g).
 
 Pub. L. 95–95, §303(a), added subsec. (a)(3).
 
-Subsec. (e). Pub. L. 95–95, §303(c), inserted provisions which prohibited any construction of this section orany other law of the United States which would prohibit, exclude, or restrict any State, local, or interstate authority from bringing any enforcement action or obtaining any judicial remedy or sanction in any State or local court against the United States or bringing any administrative enforcement action or obtaining any administrative remedy or sanction against the United States in any State or local administrative agency, department, or instrumentality under State or local law.
+Subsec. (e). Pub. L. 95–95, §303(c), inserted provisions which prohibited any construction of this section or any other law of the United States which would prohibit, exclude, or restrict any State, local, or interstate authority from bringing any enforcement action or obtaining any judicial remedy or sanction in any State or local court against the United States or bringing any administrative enforcement action or obtaining any administrative remedy or sanction against the United States in any State or local administrative agency, department, or instrumentality under State or local law.
 
 Subsec. (f)(3). Pub. L. 95–190, §14(a)(78), inserted “, or” after “(relating to ozone protection)”, substituted “any condition or requirement under an” for “requirements under an”, and struck out “or” before “section 7491”.
 

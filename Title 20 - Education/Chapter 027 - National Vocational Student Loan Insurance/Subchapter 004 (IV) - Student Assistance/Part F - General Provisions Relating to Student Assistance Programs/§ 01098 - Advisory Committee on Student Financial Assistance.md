@@ -78,7 +78,7 @@ The Advisory Committee may submit its proposed recommendations to the Department
 
 (1) Members of the Advisory Committee who are officers or full-time employees of the United States shall serve without compensation in addition to that received for their services as officers or employees of the United States; but they may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5, for persons in the Government service employed intermittently.
 
-(2) Members of the Advisory Committee who are not officers or full-time employees of the United States may each receive reimbursement for travel expenses incident to attending Advisory Committee meetings, including per diem inlieu of subsistence, as authorized by section 5703 of title 5, for persons in the Government service employed intermittently.
+(2) Members of the Advisory Committee who are not officers or full-time employees of the United States may each receive reimbursement for travel expenses incident to attending Advisory Committee meetings, including per diem in lieu of subsistence, as authorized by section 5703 of title 5, for persons in the Government service employed intermittently.
 
 #### (h) Personnel and resources
 
@@ -98,7 +98,7 @@ The Advisory Committee may submit its proposed recommendations to the Department
 
 #### (i) Availability of funds
 
-In each fiscal year not less than $750,000, shall be available from the amount appropriated for each such fiscal year from salaries and expenses of the Department for the costs of carrying out the provisions of this section.
+In each fiscal year not less than $750,000, shall be available from the amount appropriated foreach such fiscal year from salaries and expenses of the Department for the costs of carrying out the provisions of this section.
 
 #### (j) Special analyses and activities
 
@@ -182,7 +182,7 @@ Subsec. (j). Pub. L. 100–50, §15(18), added subsec. (j).
 
 #### Change of Name
 
-Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Economic and Educational Opportunities of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Fifth Congress, Jan. 7, 1997.
 
 #### Effective Date of 1993 Amendment
 

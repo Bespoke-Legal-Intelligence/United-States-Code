@@ -14,6 +14,8 @@
 | [302d.](%C2%A7%2000302d%20-%20Special%20pay%20accession%20bonus%20for%20registered%20nurses.md) | Special pay: accession bonus for registered nurses. |
 | [302e.](%C2%A7%2000302e%20-%20Special%20pay%20nurse%20anesthetists.md) | Special pay: nurse anesthetists. |
 | [302f.](%C2%A7%2000302f%20-%20Special%20pay%20reserve%2C%20recalled%2C%20or%20retained%20health%20care%20officers.md) | Special pay: reserve, recalled, or retained health care officers. |
+| [302g.](%C2%A7%2000302g%20-%20Special%20pay%20Selected%20Reserve%20health%20care%20professionals%20in%20critically%20short%20wartime%20specialties.md) | Special pay: Selected Reserve health care professionals in critically short wartime specialties. |
+| [302h.](%C2%A7%2000302h%20-%20Special%20pay%20accession%20bonus%20for%20dental%20officers.md) | Special pay: accession bonus for dental officers. |
 | [303\.](%C2%A7%2000303%20-%20Special%20pay%20veterinarians.md) | Special pay: veterinarians. |
 | [303a.](%C2%A7%2000303a%20-%20Special%20pay%20health%20professionals%3B%20general%20provisions.md) | Special pay: health professionals; general provisions. |
 | [303b.](%C2%A7%2000303b%20-%20Waiver%20of%20board%20certification%20requirements.md) | Waiver of board certification requirements. |
@@ -50,6 +52,10 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1996—Pub. L. 104–201, div. A, title VI, §615(c)(2), Sept. 23, 1996, 110 Stat. 2546, added item 302h.
+
+Pub. L. 104–106, div. A, title VI, §614(a)(2), Feb. 10, 1996, 110 Stat. 361, added item 302g.
 
 1991—Pub. L. 102–190, div. A, title VI, §§634(b), 635(b), 636(b), Dec. 5, 1991, 105 Stat. 1381–1383, added items 302f, 303b, and 316a.
 
@@ -105,7 +111,7 @@ Pub. L. 93–274, §1(1), (2), (4), May 6, 1974, 88 Stat. 94, 95, substituted �
 
 Assimilation of pay and allowances, see section 1003 of this title.
 
-#### Chapter Referred to in Other Sections
+Chapter Referred to in Other Sections
 
 This chapter is referred to in sections 907, 1003 of this title; title 42 sections 210, 254d.
 
@@ -126,6 +132,8 @@ This chapter is referred to in sections 907, 1003 of this title; title 42 sectio
 - [&sect; 00302d - Special pay accession bonus for registered nurses](%C2%A7%2000302d%20-%20Special%20pay%20accession%20bonus%20for%20registered%20nurses.md)
 - [&sect; 00302e - Special pay nurse anesthetists](%C2%A7%2000302e%20-%20Special%20pay%20nurse%20anesthetists.md)
 - [&sect; 00302f - Special pay reserve, recalled, or retained health care officers](%C2%A7%2000302f%20-%20Special%20pay%20reserve%2C%20recalled%2C%20or%20retained%20health%20care%20officers.md)
+- [&sect; 00302g - Special pay Selected Reserve health care professionals in critically short wartime specialties](%C2%A7%2000302g%20-%20Special%20pay%20Selected%20Reserve%20health%20care%20professionals%20in%20critically%20short%20wartime%20specialties.md)
+- [&sect; 00302h - Special pay accession bonus for dental officers](%C2%A7%2000302h%20-%20Special%20pay%20accession%20bonus%20for%20dental%20officers.md)
 - [&sect; 00303 - Special pay veterinarians](%C2%A7%2000303%20-%20Special%20pay%20veterinarians.md)
 - [&sect; 00303a - Special pay health professionals; general provisions](%C2%A7%2000303a%20-%20Special%20pay%20health%20professionals%3B%20general%20provisions.md)
 - [&sect; 00303b - Waiver of board certification requirements](%C2%A7%2000303b%20-%20Waiver%20of%20board%20certification%20requirements.md)

@@ -122,7 +122,7 @@ Budget Support for Reserve Elements.—(1) Before the budget proposal for the sp
 
 (2) Before the budget proposal for a military department for any fiscal year is submitted to the Secretary of Defense, the Secretary of that military department shall consult with the commander of the special operations command concerning funding for special operations forces in the military personnel budget for a reserve component in that military department. If the commander of that command does not concur in the recommended level of funding with respect to reserve component special operations units, the Secretary shall include with the budget proposal submitted to the Secretary of Defense the views of the commander of that command.
 
-(Added Pub. L. 99–500, §101(c) \[title IX, §9115(b)(1)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–122, and Pub. L. 99–591, §101(c) \[title IX, §9115(b)(1)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–122; Pub. L. 99–661, div. A, title XIII, §1311(b)(1), Nov. 14, 1986, 100 Stat. 3983; amended Pub. L. 100–180, div. A, title XII, §1211(d), Dec. 4, 1987, 101 Stat. 1156; Pub. L. 100–456, div. A, title VII, §712, Sept. 29, 1988, 102 Stat. 1997; Pub. L. 102–88, title VI, §602(c)(3), Aug. 14, 1991, 105 Stat. 444; Pub. L. 103–337, div. A, title IX, §925, Oct. 5, 1994, 108 Stat. 2832.)
+(Added Pub. L. 99–500, §101(c) \[title IX, §9115(b)(1)\], Oct. 18, 1986, 100 Stat. 1783–82,1783–122, and Pub. L. 99–591, §101(c) \[title IX, §9115(b)(1)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–122; Pub. L. 99–661, div. A, title XIII, §1311(b)(1), Nov. 14, 1986, 100 Stat. 3983; amended Pub. L. 100–180, div. A, title XII, §1211(d), Dec. 4, 1987, 101 Stat. 1156; Pub. L. 100–456, div. A, title VII, §712, Sept. 29, 1988, 102 Stat. 1997; Pub. L. 102–88, title VI, §602(c)(3), Aug. 14, 1991, 105 Stat. 444; Pub. L. 103–337, div. A, title IX, §925, Oct. 5, 1994, 108 Stat. 2832.)
 
 #### References in Text
 
@@ -192,7 +192,7 @@ Report.—Not later than March 1, 1994, the Secretary of Defense shall submit to
 
 #### Resources for CINCSOF
 
-Section 1211(b) of Pub. L. 100–180 provided that: “The Secretary of Defense shall provide sufficient resources for the commander of the unified combatant command for special operations forces established pursuant to section 167 of title 10, United States Code, to carry out his duties and responsibilities, including particularly his duties and responsibilities relating to the following functions:
+Section 1211(b) of Pub. L. 100–180, as amended by Pub. L. 104–106, div. A, title IX, §903(f)(5), Feb. 10, 1996, 110 Stat. 402; Pub. L. 104–201, div. A, title IX, §901, Sept. 23, 1996, 110 Stat. 2617, provided that: “The Secretary of Defense shall provide sufficient resources for the commander of the unified combatant command for special operations forces established pursuant to section 167 of title 10, United States Code, to carry out his duties and responsibilities, including particularly his duties and responsibilities relating to the following functions:
 
 &emsp;“(1) Developing and acquiring special operations-peculiar equipment and acquiring special operations-peculiar material, supplies, and services.
 
@@ -236,5 +236,5 @@ Section 101(c) \[§9115(h)(2)\] of Pub. L. 99–500 and Pub. L. 99–591, and se
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 138, 2011, 2680 of this title.
+This section is referred to in sections 138, 2011, 2680, 10171, 10172, 10173, 10174 of this title.
 

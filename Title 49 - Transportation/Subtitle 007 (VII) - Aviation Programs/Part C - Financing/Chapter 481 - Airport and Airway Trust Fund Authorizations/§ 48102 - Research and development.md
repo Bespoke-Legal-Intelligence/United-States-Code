@@ -24,7 +24,7 @@ Authorization of Appropriations.—Not more than the following amounts may be ap
 
 &emsp;&emsp;(I) $8,124,000 for environment and energy projects and activities; and
 
-&emsp;&emsp;(J) $5,199,000 for innovative/cooperative research projects and activities; and
+&emsp;&emsp;(J) $5,199,000 for innovative/cooperative research projects and activities;
 
 &emsp;(2) for fiscal year 1996—
 
@@ -46,13 +46,37 @@ Authorization of Appropriations.—Not more than the following amounts may be ap
 
 &emsp;&emsp;(I) $8,532,000 for environment and energy projects and activities; and
 
-&emsp;&emsp;(J) $5,459,000 for innovative/cooperative research projects and activities.
+&emsp;&emsp;(J) $5,459,000 for innovative/cooperative research projects and activities; and
+
+&emsp;(3) for fiscal year 1997—
+
+&emsp;&emsp;(A) $13,660,000 for system development and infrastructure projects and activities;
+
+&emsp;&emsp;(B) $34,889,000 for capacity and air traffic management technology projects and activities;
+
+&emsp;&emsp;(C) $19,000,000 for communications, navigation, and surveillance projects and activities;
+
+&emsp;&emsp;(D) $13,000,000 for weather projects and activities;
+
+&emsp;&emsp;(E) $5,200,000 for airport technology projects and activities;
+
+&emsp;&emsp;(F) $36,504,000 for aircraft safety technology projects and activities;
+
+&emsp;&emsp;(G) $57,055,000 for system security technology projects and activities;
+
+&emsp;&emsp;(H) $23,504,000 for human factors and aviation medicine projects and activities;
+
+&emsp;&emsp;(I) $3,600,000 for environment and energy projects and activities; and
+
+&emsp;&emsp;(J) $2,000,000 for innovative/cooperative research projects and activities.
 
 (b)
 
-Availability for Research.—(1) At least 15 percent of the amount appropriated under subsection (a) of this section shall be for long-term research projects.
+Research Priorities.—(1) The Administrator shall consider the advice and recommendations of the research advisory committee established by section 44508 of this title in establishing priorities among major categories of research and development activities carried out by the Federal Aviation Administration.
 
-(2) At least 3 percent of the amount appropriated under subsection (a) of this section shall be available to the Administrator of the Federal Aviation Administration to make grants under section 44511 of this title.
+(2) At least 15 percent of the amount appropriated under subsection (a) of this section shall be for long-term research projects.
+
+(3) At least 3 percent of the amount appropriated under subsection (a) of this section shall be available to the Administrator of the Federal Aviation Administration to make grants under section 44511 of this title.
 
 (c)
 
@@ -60,7 +84,7 @@ Transfers Between Categories.—(1) Not more than 10 percent of the net amount a
 
 (2) The Secretary may transfer more than 10 percent of an authorized amount to or from a category only after—
 
-&emsp;(A) submitting a written explanation of the proposed transfer to the Committees on Science, Space, and Technology and Appropriations of the House of Representatives and the Committees on Commerce, Science, and Transportation and Appropriations of the Senate; and
+&emsp;(A) submitting a written explanation of the proposed transfer to the Committees on Science and Appropriations of the House of Representatives and the Committees on Commerce, Science, and Transportation and Appropriations of the Senate; and
 
 &emsp;(B) 30 days have passed after the explanation is submitted or each Committee notifies the Secretary in writing that it does not object to the proposed transfer.
 
@@ -68,7 +92,7 @@ Transfers Between Categories.—(1) Not more than 10 percent of the net amount a
 
 Airport Capacity Research and Development.—(1) Of the amounts made available under subsection (a) of this section, at least $25,000,000 may be appropriated each fiscal year for research and development under section 44505(a) and (c) of this title on preserving and enhancing airport capacity, including research and development on improvements to airport design standards, maintenance, safety, operations, and environmental concerns.
 
-(2) The Administrator shall submit to the Committees on Science, Space, and Technology and Public Works and Transportation of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report on expenditures made under paragraph (1) of this subsection for each fiscal year. The report shall be submitted not later than 60 days after the end of the fiscal year.
+(2) The Administrator shall submit to the Committees on Science and Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report on expenditures made under paragraph (1) of this subsection for each fiscal year. The report shall be submitted not later than 60 days after the end of the fiscal year.
 
 (e)
 
@@ -78,11 +102,13 @@ Air Traffic Controller Performance Research.—Necessary amounts may be appropri
 
 Availability of Amounts.—Amounts appropriated under subsection (a) of this section remain available until expended.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1294; Pub. L. 103–305, title III, §302, Aug. 23, 1994, 108 Stat. 1589.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1294; Pub. L. 103–305, title III, §302, Aug. 23, 1994, 108 Stat. 1589; Pub. L. 104–264, title XI, §§1102, 1103, Oct. 9, 1996, 110 Stat. 3278; Pub. L. 104–287, §5(9), (74), Oct. 11, 1996, 110 Stat. 3389, 3396.)
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -136,6 +162,20 @@ In subsection (d)(2), the reference to fiscal years 1988–1992 and the words �
 
 #### Amendments
 
+1996—Subsec. (a)(3). Pub. L. 104–264, §1102, added par. (3).
+
+Subsec. (b). Pub. L. 104–264, §1103, substituted “
+
+Research Priorities” for “
+
+Availability for Research” in heading, added par. (1), and redesignated former pars. (1) and (2) as (2) and (3), respectively.
+
+Subsec. (c)(2)(A). Pub. L. 104–287, §5(74), substituted “Committees on Science” for “Committees on Science, Space, and Technology”.
+
+Subsec. (d)(2). Pub. L. 104–287, §5(74), substituted “Committees on Science” for “Committees on Science, Space, and Technology”.
+
+Pub. L. 104–287, §5(9), substituted “Transportation and Infrastructure” for “Public Works and Transportation”.
+
 1994—Subsec. (a)(1), (2). Pub. L. 103–305 inserted pars. (1) and (2) and struck out former pars. (1) and (2) which read as follows:
 
 “(1) for the fiscal year ending September 30, 1993—
@@ -162,11 +202,11 @@ In subsection (d)(2), the reference to fiscal years 1988–1992 and the words �
 
 “(2) for the fiscal year ending September 30, 1994, $297,000,000.”
 
-#### Change of Name
+#### Effective Date of 1996 Amendment
 
-Committee on Science, Space, and Technology of House of Representatives treated as referring to Committee on Science of House of Representatives and Committee on Public Works and Transportation of House of Representatives treated as referring to Committee on Transportation and Infrastructure of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 47108, 48104, 48108, 48109, 49101, 49102, 49103, 49105 of this title.
+This section is referred to in sections 44508, 47108, 48104, 48108, 48109, 50101, 50102, 50103, 50105 of this title.
 

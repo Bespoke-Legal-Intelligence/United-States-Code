@@ -38,7 +38,7 @@
 
 (2) In the case of a cadet who is a minor and who has parents or a guardian, the cadet may sign the agreement required by subsection (b) only with the consent of the parent or guardian.
 
-(Aug. 4, 1949, ch. 393, 63 Stat. 508; Mar. 3, 1964, Pub. L. 88–276, §5(b), 78 Stat. 153; June 9, 1966, Pub. L. 89–444, §1(8), 80 Stat. 195; June 12, 1970,Pub. L. 91–278, §1(4), 84 Stat. 304; Oct. 21, 1976, Pub. L. 94–572, §1, 90 Stat. 2708; Oct. 12, 1982, Pub. L. 97–295, §2(8), 96 Stat. 1302; Sept. 28, 1988, Pub. L. 100–448, §12, 102 Stat. 1843.)
+(Aug. 4, 1949, ch. 393, 63 Stat. 508; Mar. 3, 1964, Pub. L. 88–276, §5(b), 78 Stat. 153; June 9, 1966, Pub. L. 89–444, §1(8), 80 Stat. 195; June 12, 1970, Pub. L. 91–278, §1(4), 84 Stat. 304; Oct. 21, 1976, Pub. L. 94–572, §1, 90 Stat. 2708; Oct. 12, 1982, Pub. L. 97–295, §2(8), 96 Stat. 1302; Sept. 28, 1988, Pub. L. 100–448, §12, 102 Stat. 1843.)
 
 #### Historical and Revision Notes
 

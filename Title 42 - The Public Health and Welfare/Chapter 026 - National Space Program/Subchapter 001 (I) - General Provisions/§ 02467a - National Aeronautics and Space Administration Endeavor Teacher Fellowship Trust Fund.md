@@ -10,7 +10,7 @@ The Administrator shall direct the Secretary of the Treasury to invest and reinv
 
 #### (c) Purpose
 
-Income accruing from the Trust Fund principal shall be used to create the National Aeronautics and Space Administration Endeavor Teacher Fellowship Program, to the extent provided in advance in appropriation Acts. The Administrator is authorized to use such funds to award fellowships to selected United States nationals who are undergraduate students pursuing a course of study leading to certified teaching degrees in elementary education or in secondary education in mathematics, science, or technology disciplines. Awards shall be made pursuant to standards established for the fellowship program by the Administrator.
+Income accruing from the Trust Fund principal shall be used to create the National Aeronautics and Space Administration Endeavor Teacher Fellowship Program, to the extent provided in advance in appropriation Acts. The Administrator is authorized to use such funds to award fellowships to selected United States nationals who are undergraduate students pursuing a course of study leading to certified teaching degrees in elementary education or in secondary education in mathematics, science, ortechnology disciplines. Awards shall be made pursuant to standards established for the fellowship program by the Administrator.
 
 (Pub. L. 102–195, §20, Dec. 9, 1991, 105 Stat. 1615.)
 

@@ -16,7 +16,7 @@ Contents.—A transportation improvement program for a metropolitan area shall i
 
 &emsp;&emsp;(B) indicates resources from public and private sources that reasonably are expected to be made available to carry out the plan; and
 
-&emsp;&emsp;(C) recommends innovative financing techniques, including value capture, tolls, and congestion pricing, to finance needed projects.
+&emsp;&emsp;(C) recommends innovative financing techniques, including value capture, tolls, andcongestion pricing, to finance needed projects.
 
 (c)
 
@@ -40,7 +40,9 @@ Regulatory Proceeding.—Not later than June 18, 1992, the Secretary of Transpor
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -80,5 +82,5 @@ The National Environmental Policy Act of 1969, referred to in subsec. (e), is Pu
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 5303, 5305, 5306, 5307, 5309, 5313, 5314, 5315, 5323, 5338 of this title; title 23 section 135.
+This section is referred to in sections 5303, 5305, 5306, 5307, 5309, 5313, 5314, 5323, 5338 of this title; title 23 section 135.
 

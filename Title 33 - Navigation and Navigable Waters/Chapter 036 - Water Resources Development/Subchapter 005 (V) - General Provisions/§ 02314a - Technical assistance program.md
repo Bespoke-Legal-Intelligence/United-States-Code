@@ -38,7 +38,7 @@ For purposes of this section—
 
 Section was formerly set out as a note under section 2314 of this title.
 
-Section was enacted as part of the Water Resources Development Act of 1988, and not as part of the WaterResources Development Act of 1986 which comprises this chapter.
+Section was enacted as part of the Water Resources Development Act of 1988, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
 
 #### Amendments
 

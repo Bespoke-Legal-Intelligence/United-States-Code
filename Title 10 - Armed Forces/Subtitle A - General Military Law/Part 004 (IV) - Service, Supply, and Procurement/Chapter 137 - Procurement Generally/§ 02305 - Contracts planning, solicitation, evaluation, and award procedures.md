@@ -22,7 +22,7 @@
 
 &emsp;(iii) design requirements.
 
-(2) In addition to the specifications described in paragraph (1), a solicitation for sealed bids or competitive proposals (other than for a purchase for an amount not greater than the simplified acquisition threshold) shall at a minimum include—
+(2) In addition to the specifications described in paragraph (1), a solicitation for sealed bids or competitive proposals (other than for a procurement for commercial items using special simplified procedures or a purchase for an amount not greater than the simplified acquisition threshold) shall at a minimum include—
 
 &emsp;(A) a statement of—
 
@@ -64,7 +64,7 @@
 
 &emsp;(B) stating in a solicitation that award will be made to the offeror that meets the solicitation's mandatory requirements at the lowest cost or price.
 
-(5) The head of an agency, in issuing a solicitation for a contract to be awarded using sealed bid procedures, may not include in such solicitation a clause providing for the evaluation ofprices for options to purchase additional property or services under the contract unless the head of the agency has determined that there is a reasonable likelihood that the options will be exercised.
+(5) The head of an agency, in issuing a solicitation for a contract to be awarded using sealed bid procedures, may not include in such solicitation a clause providing for the evaluation of prices for options to purchase additional property or services under the contract unless the head of the agency has determined that there is a reasonable likelihood that the options will be exercised.
 
 (b)(1) The head of an agency shall evaluate sealed bids and competitive proposals and make an award based solely on the factors specified in the solicitation.
 
@@ -78,9 +78,9 @@
 
 &emsp;(ii) based on the proposals received, without discussions with the offerors (other than discussions conducted for the purpose of minor clarification) provided that the solicitation included a statement that proposals are intended to be evaluated, and award made, without discussions, unless discussions are determined to be necessary.
 
-(B) Except as provided in paragraph (2), the head of the agency shall award a contract with reasonable promptness to the responsible source whose proposal is most advantageous to the United States, considering only cost or price and the other factors included in the solicitation. The head of the agency shall award the contract by transmitting, in writing or by electronic means, notice of the award to such source and, within three days after the date of contract award, shall notify, in writing or by electronic means, all other offerors of the rejection of their proposals.
+(B) If the contracting officer determines that the number of offerors that would otherwise be included in the competitive range under subparagraph (A)(i) exceeds the number at which an efficient competition can be conducted, the contracting officer may limit the number of proposals in the competitive range, in accordance with the criteria specified in the solicitation, to the greatest number that will permit an efficient competition among the offerors rated most highly in accordance with such criteria.
 
-(C) Subparagraph (B) does not apply with respect to the award of a contract for the acquisition of perishable subsistence items.
+(C) Except as provided in paragraph (2), the head of the agency shall award a contract with reasonable promptness to the responsible source whose proposal is most advantageous to the United States, considering only cost or price and the other factors included in the solicitation. The head of the agency shall award the contract by transmitting, in writing or by electronic means, notice of the award to such source and, within three days after the date of contract award, shall notify, in writing or by electronic means, all other offerors of the rejection of their proposals. This subparagraph does not apply with respect to the award of a contract for the acquisition of perishable subsistence items.
 
 (5)(A) When a contract is awarded by the head of an agency on the basis of competitive proposals, an unsuccessful offeror, upon written request received by the agency within 3 days after the date on which the unsuccessful offeror receives the notification of the contract award, shall be debriefed and furnished the basis for the selection decision and contract award. The head of the agency shall debrief the offeror within, to the maximum extent practicable, five days after receipt of the request by the agency.
 
@@ -108,9 +108,25 @@
 
 &emsp;(ii) the same information that would have been provided to the original offerors.
 
-(F) The contracting officer shall include a summary of the debriefing in the contract file.
+(6)(A) When the contracting officer excludes an offeror submitting a competitive proposal from the competitive range (or otherwise excludes such an offeror from further consideration prior to the final source selection decision), the excluded offeror may request in writing, within three days after the date on which the excluded offeror receives notice of its exclusion, a debriefing prior to award. The contracting officer shall make every effort to debrief the unsuccessful offeror as soon as practicable but may refuse the request for a debriefing if it is not in the best interests of the Government to conduct a debriefing at that time.
 
-(6) If the head of an agency considers that a bid or proposal evidences a violation of the antitrust laws, he shall refer the bid or proposal to the Attorney General for appropriate action.
+(B) The contracting officer is required to debrief an excluded offeror in accordance with paragraph (5) only if that offeror requested and was refused a preaward debriefing under subparagraph (A).
+
+(C) The debriefing conducted under subparagraph (A) shall include—
+
+&emsp;(i) the executive agency's evaluation of the significant elements in the offeror's offer;
+
+&emsp;(ii) a summary of the rationale for the offeror's exclusion; and
+
+&emsp;(iii) reasonable responses to relevant questions posed by the debriefed offeror as to whether source selection procedures set forth in the solicitation, applicable regulations, and other applicable authorities were followed by the executive agency.
+
+(D) The debriefing conducted under subparagraph (A) may not disclose the number or identity of other offerors and shall not disclose information about the content, ranking, or evaluation of other offerors’ proposals.
+
+(7) The contracting officer shall include a summary of any debriefing conducted under paragraph (5) or (6) in the contract file.
+
+(8) The Federal Acquisition Regulation shall include a provision encouraging the use of alternative dispute resolution techniques to provide informal, expeditious, and inexpensive procedures for an offeror to consider using before filing a protest, prior to the award of a contract, of the exclusion of the offeror from the competitive range (or otherwise from further consideration) for that contract.
+
+(9) If the head of an agency considers that a bid or proposal evidences a violation of the antitrust laws, he shall refer the bid or proposal to the Attorney General for appropriate action.
 
 (c) The Secretary of Defense shall ensure that before a contract for the delivery of supplies to the Department of Defense is entered into—
 
@@ -146,15 +162,13 @@
 
 &emsp;(ii) proposals by the original supplier of such item to meet the mobilization requirements are insufficient to meet the agency's mobilization needs.
 
-(B) In considering offers in response to a solicitation requiring proposals described in paragraph (1)(B) or (2)(B), the head of an agency shall base any evaluation of items developed exclusively at private expense on an analysis of the total value, in terms of innovative design, life-cycle costs, and other pertinent factors, of incorporating such items in the system.
+(B) In considering offers in response to a solicitation requiring proposals described in paragraph (1)(B) or (2)(B), the head of an agency shall base any evaluation of items developed exclusively at private expense on an analysis of the total value, in terms of innovative design,life-cycle costs, and other pertinent factors, of incorporating such items in the system.
 
 (e)
 
 Protest File.—(1) If, in the case of a solicitation for a contract issued by, or an award or proposed award of a contract by, the head of an agency, a protest is filed pursuant to the procedures in subchapter V of chapter 35 of title 31 and an actual or prospective offeror so requests, a file of the protest shall be established by the procuring activity and reasonable access shall be provided to actual or prospective offerors.
 
 (2) Information exempt from disclosure under section 552 of title 5 may be redacted in a file established pursuant to paragraph (1) unless an applicable protective order provides otherwise.
-
-(3) Regulations implementing this subsection shall be consistent with the regulations regarding the preparation and submission of an agency's protest file (the so-called “rule 4 file”) for protests to the General Services Board of Contract Appeals under section 111 of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 759).<sup>1</sup>
 
 (f)
 
@@ -164,7 +178,15 @@ Agency Actions on Protests.—If, in connection with a protest, the head of an a
 
 &emsp;(2) may pay costs described in paragraph (1) of section 3554(c) of title 31 within the limits referred to in paragraph (2) of such section.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 130; Sept. 2, 1958, Pub. L. 85–861, §1(44), 72 Stat. 1457; Mar. 16, 1968, Pub. L. 90–268, §3, 82 Stat. 49; July 18, 1984, Pub. L. 98–369, div. B, title VII, §2723(b), 98 Stat. 1191; Oct. 19, 1984, Pub. L. 98–525, title XII, §1213(a), 98 Stat. 2591; Nov. 8, 1985, Pub. L. 99–145, title XIII, §1303(a)(14), 99 Stat. 739; Oct. 18, 1986, Pub. L. 99–500, §101(c) \[title X, §924(a), (b)\], 100Stat. 1783–82, 1783–153, and Oct. 30, 1986, Pub. L. 99–591, §101(c) \[title X, §924(a), (b)\], 100 Stat. 3341–82, 3341–153; Nov. 14, 1986, Pub. L. 99–661, div. A, title III, §313(b), title IX, formerly title IV, §924(a), (b), 100 Stat. 3853, 3932, 3933, renumbered title IX, Apr. 21, 1987, Pub. L. 100–26, §3(5), 101 Stat. 273; Sept. 29, 1988, Pub. L. 100–456, div. A, title VIII, §806, 102 Stat. 2010; Nov. 29, 1989, Pub. L. 101–189, div. A, title VIII, §853(f), 103 Stat. 1519; Nov. 5, 1990, Pub. L. 101–510, div. A, title VIII, §802(a)–(d), 104 Stat. 1588, 1589; Nov. 30, 1993, Pub. L. 103–160, div. A, title XI, §1182(a)(5), 107 Stat. 1771; Oct. 13, 1994, Pub. L. 103–355, title I, §§1011–1016, title IV, §4401(b), 108 Stat. 3254–3257, 3347.)
+(g)
+
+Prohibition on Release of Contractor Proposals.—(1) Except as provided in paragraph (2), a proposal in the possession or control of the Department of Defense may not be made available to any person under section 552 of title 5.
+
+(2) Paragraph (1) does not apply to any proposal that is set forth or incorporated by reference in a contract entered into between the Department and the contractor that submitted the proposal.
+
+(3) In this subsection, the term “proposal” means any proposal, including a technical, management, or cost proposal, submitted by a contractor in response to the requirements of a solicitation for a competitive proposal.
+
+(Aug. 10, 1956, ch. 1041, 70A Stat. 130; Sept. 2, 1958, Pub. L. 85–861, §1(44), 72 Stat. 1457; Mar. 16, 1968, Pub. L. 90–268, §3, 82 Stat. 49; July 18, 1984, Pub. L. 98–369, div. B, title VII, §2723(b), 98 Stat. 1191; Oct. 19, 1984, Pub. L. 98–525, title XII, §1213(a), 98 Stat. 2591; Nov. 8, 1985, Pub. L. 99–145, title XIII, §1303(a)(14), 99 Stat. 739; Oct. 18, 1986, Pub. L. 99–500, §101(c) \[title X, §924(a), (b)\], 100 Stat. 1783–82, 1783–153, and Oct. 30, 1986, Pub. L. 99–591, §101(c) \[title X, §924(a), (b)\], 100 Stat. 3341–82, 3341–153; Nov. 14, 1986, Pub. L. 99–661, div. A, title III, §313(b), title IX, formerly title IV, §924(a), (b), 100 Stat. 3853, 3932, 3933, renumbered title IX, Apr. 21, 1987, Pub. L. 100–26, §3(5), 101 Stat. 273; Sept. 29, 1988, Pub. L. 100–456, div. A, title VIII, §806, 102 Stat. 2010; Nov. 29, 1989, Pub. L. 101–189, div. A, title VIII, §853(f), 103 Stat. 1519; Nov. 5, 1990, Pub. L. 101–510, div. A, title VIII, §802(a)–(d), 104 Stat. 1588, 1589; Nov. 30, 1993, Pub. L. 103–160, div. A, title XI, §1182(a)(5), 107 Stat. 1771; Oct. 13, 1994, Pub. L. 103–355, title I, §§1011–1016, title IV, §4401(b), 108 Stat. 3254–3257, 3347; Feb. 10, 1996, Pub. L. 104–106, div. D, title XLI, §§4103(a), 4104(a), title XLII, §4202(a)(2), div. E, title LVI, §5601(a), 110 Stat. 643, 644, 653, 699; Sept. 23, 1996, Pub. L. 104–201, div. A, title VIII, §821(a), title X, §1074(a)(11), (b)(4)(A), 110 Stat. 2609, 2659, 2660.)
 
 Historical and Revision Notes<br>1956
 
@@ -212,17 +234,41 @@ Aug. 9, 1955, ch. 628, §15, 69 Stat. 551.
 
 Reference to bids is omitted as surplusage (see opinion of the Judge Advocate General of the Army (JAGT 1956/9122, 21 Dec. 1956)). The word “attachments” is substituted for the words “material required”. The words “the specifications in” are inserted in the second sentence for clarity. The word “available” is omitted as covered by the word “accessible.” The words “no award may be made” are substituted for the words “and any award or awards made to any bidder in such case shall be invalidated and rejected”.
 
-#### References in Text
-
-Section 111 of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 759), referred to in subsec. (e)(3), is classified to section 759 of Title 40, Public Buildings, Property, and Works.
-
 #### Codification
 
 Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
 
-1994—Subsec. (a)(2). Pub. L. 103–355, §4401(b), substituted “a purchase for an amount not greater than the simplified acquisition threshold)” for “small purchases)” in introductory provisions.
+1996—Subsec. (a)(2). Pub. L. 104–106, §4202(a)(2), inserted “a procurement for commercial items using special simplified procedures or” after “(other than for”.
+
+Subsec. (b)(4)(B). Pub. L. 104–106, §4103(a)(3), added subpar. (B). Former subpar. (B) redesignated (C).
+
+Pub. L. 104–106, §4103(a)(1), transferred text of subpar. (C) to end of subpar. (B) and substituted “This subparagraph” for “Subparagraph (B)” at beginning of that text.
+
+Subsec. (b)(4)(C). Pub. L. 104–106, §4103(a)(2), redesignated subpar. (B) as (C).
+
+Pub. L. 104–106, §4103(a)(1), struck out “(C)” before “Subparagraph (B)” and transferred text of subpar. (C) to end of subpar. (B).
+
+Subsec. (b)(5)(F). Pub. L. 104–106, §4104(a)(1), struck out subpar. (F) which read as follows: “The contracting officer shall include a summary of the debriefing in the contract file.”
+
+Subsec. (b)(6). Pub. L. 104–106, §4104(a)(3), added par. (6). Former par. (6) redesignated (9).
+
+Subsec. (b)(6)(B). Pub. L. 104–201, §1074(a)(11)(A), struck out “of this section” after “paragraph (5)” and “of this paragraph” after “subparagraph (A)”.
+
+Subsec. (b)(6)(C). Pub. L. 104–201, §1074(a)(11)(B), substituted “subparagraph (A)” for “this subsection” in introductory provisions.
+
+Subsec. (b)(6)(D). Pub. L. 104–201, §1074(a)(11)(C), substituted “under subparagraph (A)” for “pursuant to this subsection”.
+
+Subsec. (b)(7), (8). Pub. L. 104–106, §4104(a)(3), added pars. (7) and (8).
+
+Subsec. (b)(9). Pub. L. 104–106, §4104(a)(2), redesignated par. (6) as (9).
+
+Subsec. (e)(3). Pub. L. 104–106, §5601(a), as amended by Pub. L. 104–201, §1074(b)(4)(A), struck out par. (3) which read as follows: “Regulations implementing this subsection shall be consistent with the regulations regarding the preparation and submission of an agency's protest file (the so-called ‘rule 4 file’) for protests to the General Services Board of Contract Appeals under section 111 of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 759).”
+
+Subsec. (g). Pub. L. 104–201, §821(a), added subsec. (g).
+
+1994—Subsec. (a)(2). Pub. L. 103–355, §4401(b), substituted “a purchase for an amount not greater thanthe simplified acquisition threshold)” for “small purchases)” in introductory provisions.
 
 Subsec. (a)(2)(A)(i). Pub. L. 103–355, §1011(a)(1), substituted “and significant subfactors” for “(and significant subfactors)” and “cost-related or price-related factors and subfactors, and noncost-related or nonprice-related factors and subfactors” for “cost- or price-related factors, and noncost- or nonprice-related factors”.
 
@@ -268,7 +314,7 @@ Subsec. (b)(4)(A). Pub. L. 101–510, §802(d)(3)(A), substituted “competitive
 
 Subsec. (b)(4)(B) to (E). Pub. L. 101–510, §802(d)(3)(B)–(D), redesignated subpars. (D) and (E) as (B) and (C), respectively, substituted “Subparagraph (B)” for “Subparagraph (D)” in subpar. (C), and struck out former subpars. (B) and (C) which read as follows:
 
-“(B) In the case of award of a contract under subparagraph (A)(i), the head of the agency shall conduct, before such award, written or oral discussions with all responsible sources who submit proposals within thecompetitive range, considering only cost or price and the other factors included in the solicitation.
+“(B) In the case of award of a contract under subparagraph (A)(i), the head of the agency shall conduct, before such award, written or oral discussions with all responsible sources who submit proposals within the competitive range, considering only cost or price and the other factors included in the solicitation.
 
 “(C) In the case of award of a contract under subparagraph (A)(ii), the head of the agency shall award the contract based on the proposals received (and as clarified, if necessary, in discussions conducted for the purpose of minor clarification).”
 
@@ -297,6 +343,12 @@ Catchline, subsecs. (a) to (d). Pub. L. 98–369 substituted “Contracts: plann
 1968—Subsec. (a). Pub. L. 90–268 inserted provision that, except in cases where the Secretary of Defense determines that military requirements necessitate such specification, no advertisement or invitation to bid for the carriage of Government property in other than Government-owned cargo containers shall specify carriage of such property in cargo containers of any stated length, height, or width.
 
 1958—Subsecs. (b) to (d). Pub. L. 85–861 added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively.
+
+#### Effective Date of 1996 Amendment
+
+For effective date and applicability of amendment by sections 4103(a), 4104(a), and 4202(a)(2) of Pub. L. 104–106, see section 4401 of Pub. L. 104–106, set out as a note under section 251 of Title 41, Public Contracts.
+
+Amendment by section 5601(a) of Pub. L. 104–106 effective 180 days after Feb. 10, 1996, see section 5701 of Pub. L. 104–106, set out as an Effective Date note under section 1401 of Title 40, Public Buildings, Property, and Works.
 
 #### Effective Date of 1994 Amendment
 
@@ -336,7 +388,5 @@ Research and development contracts, negotiation without advertising, see section
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 2320 of this title; title 40 section 759; title 42 section 1594; title 50 section 403c.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+This section is referred to in sections 2305a, 2320 of this title; title 41 section 431; title 42 section 1594; title 50 section 403c.
 

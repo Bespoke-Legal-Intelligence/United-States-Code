@@ -14,7 +14,7 @@ Each program assisted under this part shall—
 
 &emsp;&emsp;(C) transportation for the purpose of enabling parents and their children to participate in programs authorized by this part;
 
-&emsp;(4) include high-quality instructional programs that promote adult literacy and empower parents to support the educational growth of their children, developmentally appropriate early childhood educational services, and preparation of children for success in regular school programs;
+&emsp;(4) include high-quality, intensive instructional programs that promote adult literacy and empower parents to support the educational growth of their children, developmentally appropriate early childhood educational services, and preparation of children for success in regular school programs;
 
 &emsp;(5) include special training of staff, including child care staff, to develop the skills necessary to work with parents and young children in the full range of instructional services offered through this part;
 
@@ -34,7 +34,7 @@ Each program assisted under this part shall—
 
 &emsp;(10) provide for an independent evaluation of the program.
 
-(Pub. L. 89–10, title I, §1205, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3580.)
+(Pub. L. 89–10, title I, §1205, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3580; amended Pub. L. 104–134, title I, §101(b) \[title II, §2755(b)\], Apr. 26, 1996, 110 Stat. 1321–77, 1321–151; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.)
 
 #### References in Text
 
@@ -43,6 +43,10 @@ The Adult Education Act, referred to in par. (8)(B), is title III of Pub. L. 89�
 The Individuals with Disabilities Education Act, referred to in par. (8)(B), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended, which is classified generally to chapter 33 (§1400 et seq.) of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
 
 The Job Training Partnership Act, referred to in par. (8)(B), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, as amended, which is classified generally to chapter 19 (§1501 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of Title 29 and Tables.
+
+#### Amendments
+
+1996—Par. (4). Pub. L. 104–134 inserted “, intensive” after “high-quality”.
 
 #### Section Referred to in Other Sections
 

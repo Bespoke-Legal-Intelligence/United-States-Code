@@ -27,6 +27,7 @@
 | [3058\.](%C2%A7%2003058%20-%20Interned%20belligerent%20nationals.md) | Interned belligerent nationals. |
 | [3059\.](%C2%A7%2003059%20-%20Rewards%20and%20appropriations%20therefor.md) | Rewards and appropriations therefor. |
 | [3059A.](%C2%A7%2003059A%20-%20Special%20rewards%20for%20information%20relating%20to%20certain%20financial%20institution%20offenses.md) | Special rewards for information relating to certain financial institution offenses. |
+| [3059B.](%C2%A7%2003059B%20-%20General%20reward%20authority.md) | General reward authority. |
 | [3060\.](%C2%A7%2003060%20-%20Preliminary%20examination.md) | Preliminary examination. |
 | [3061\.](%C2%A7%2003061%20-%20Investigative%20powers%20of%20Postal%20Service%20personnel.md) | Investigative powers of Postal Service personnel. |
 | [3062\.](%C2%A7%2003062%20-%20General%20arrest%20authority%20for%20violation%20of%20release%20conditions.md) | General arrest authority for violation of release conditions. |
@@ -35,6 +36,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1996—Pub. L. 104–294, title VI, §605(n), Oct. 11, 1996, 110 Stat. 3510, added item 3059B.
 
 1994—Pub. L. 103–322, title XXXIII, §330010(18), Sept. 13, 1994, 108 Stat. 2144, inserted a period at end of item 3059A.
 
@@ -85,6 +88,7 @@ Pub. L. 90–560, §5(b), Oct. 12, 1968, 82 Stat. 998, added item 3061.
 - [&sect; 03058 - Interned belligerent nationals](%C2%A7%2003058%20-%20Interned%20belligerent%20nationals.md)
 - [&sect; 03059 - Rewards and appropriations therefor](%C2%A7%2003059%20-%20Rewards%20and%20appropriations%20therefor.md)
 - [&sect; 03059A - Special rewards for information relating to certain financial institution offenses](%C2%A7%2003059A%20-%20Special%20rewards%20for%20information%20relating%20to%20certain%20financial%20institution%20offenses.md)
+- [&sect; 03059B - General reward authority](%C2%A7%2003059B%20-%20General%20reward%20authority.md)
 - [&sect; 03060 - Preliminary examination](%C2%A7%2003060%20-%20Preliminary%20examination.md)
 - [&sect; 03061 - Investigative powers of Postal Service personnel](%C2%A7%2003061%20-%20Investigative%20powers%20of%20Postal%20Service%20personnel.md)
 - [&sect; 03062 - General arrest authority for violation of release conditions](%C2%A7%2003062%20-%20General%20arrest%20authority%20for%20violation%20of%20release%20conditions.md)

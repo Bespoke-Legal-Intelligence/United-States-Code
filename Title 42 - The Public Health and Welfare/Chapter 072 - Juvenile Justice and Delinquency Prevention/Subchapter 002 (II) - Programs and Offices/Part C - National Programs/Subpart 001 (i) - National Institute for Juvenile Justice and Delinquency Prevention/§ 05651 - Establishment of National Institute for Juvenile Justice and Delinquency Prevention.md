@@ -38,7 +38,7 @@ In addition to the other powers, express and implied, the Institute may—
 
 #### (f) National conference of member representatives from State advisory groups
 
-(1) The Administrator, acting through the Institute, shall provide technical and financial assistance to an eligible organization composed of member representatives of the State advisory groups appointed under section 5633(a)(3) of thistitle to assist such organization to carry out the functions specified in paragraph (2).
+(1) The Administrator, acting through the Institute, shall provide technical and financial assistance to an eligible organization composed of member representatives of the State advisory groups appointed under section 5633(a)(3) of this title to assist such organization to carry out the functions specified in paragraph (2).
 
 (2) To be eligible to receive such assistance, such organization shall agree to carry out activities that include—
 

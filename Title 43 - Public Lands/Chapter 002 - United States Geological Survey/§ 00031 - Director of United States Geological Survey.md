@@ -42,7 +42,7 @@ Pub. L. 100–441, Sept. 22, 1988, 102 Stat. 1760, provided: “That this Act ma
 
 &emsp;“(1) implement section 323 of the joint resolution entitled ‘Joint Resolution making continuing appropriations for the fiscal year 1985, and for other purposes’, approved October 12, 1984 (Public Law 98–473; 98 Stat. 1875) \[set out below\] which supports and encourages the development of a national Continental Scientific Drilling Program;
 
-&emsp;“(2) enhance fundamental understanding of the composition, structure, dynamics, and evolution of the continental crust, and how such processes affect natural phenomena such as earthquakes, volcanic eruptions, transfer of geothermal energy, distribution of mineral deposits, the occurrence of fossil fuels, and the nature and extent of aquifers;
+&emsp;“(2) enhance fundamental understanding of the composition, structure, dynamics, and evolution ofthe continental crust, and how such processes affect natural phenomena such as earthquakes, volcanic eruptions, transfer of geothermal energy, distribution of mineral deposits, the occurrence of fossil fuels, and the nature and extent of aquifers;
 
 &emsp;“(3) advance basic earth sciences research and technological development;
 

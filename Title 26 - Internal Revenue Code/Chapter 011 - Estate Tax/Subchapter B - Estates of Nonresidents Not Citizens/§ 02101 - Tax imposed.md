@@ -36,7 +36,7 @@ The tax imposed by this section shall be the amount equal to the excess (if any)
 
 1989—Subsec. (b). Pub. L. 101–239 inserted at end “For purposes of the preceding sentence, there shall be appropriate adjustments in the application of section 2001(c)(3) to reflect the difference between the amount of the credit provided under section 2102(c) and the amount of the credit provided under section 2010.”
 
-1988—Subsec. (b). Pub. L. 100–647, §5032(a), substituted “a tentative tax computed under section 2001(c)” for “atentative tax computed in accordance with the rate schedule set forth in subsection (d)” in pars. (1) and (2).
+1988—Subsec. (b). Pub. L. 100–647, §5032(a), substituted “a tentative tax computed under section 2001(c)” for “a tentative tax computed in accordance with the rate schedule set forth in subsection (d)” in pars. (1) and (2).
 
 Subsec. (d). Pub. L. 100–647, §5032(c), struck out subsec. (d) which provided a rate schedule.
 
@@ -70,5 +70,5 @@ Credits against tax, see sections 2011, 2013 to 2015 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 691, 2011, 2013, 2014, 2015, 2102, 2103, 2106, 2108 of this title.
+This section is referred to in sections 691, 2011, 2013, 2014, 2015, 2102, 2103, 2106, 2107, 2108 of this title.
 

@@ -4,11 +4,11 @@
 
 In case of failure—
 
-&emsp;(1) to file any return required under authority of subchapter A of chapter 61 (other than part III thereof), subchapter A of chapter 51 (relating to distilled spirits, wines, and beer), or of subchapter A of chapter 52 (relating to tobacco, cigars, cigarettes, and cigarette papers and tubes), or of subchapter A of chapter 53 (relating to machine guns and certain other firearms), on the date prescribed therefor (determined with regard to any extension of time for filing), unless it is shown that such failure is due to reasonable cause and not due to willful neglect, there shall be added to the amount required to be shown as tax on such return 5 percent of the amount of such tax if the failure is for not more than 1 month, with an additional 5 percent for each additional month or fraction thereof during which such failure continues, not exceeding 25 percent in the aggregate;
+&emsp;(1) to file any return required under authority of subchapter A of chapter 61 (other than part III thereof), subchapter A of chapter 51\(relating to distilled spirits, wines, and beer), or of subchapter A of chapter 52 (relating to tobacco, cigars, cigarettes, and cigarette papers and tubes), or of subchapter A of chapter 53 (relating to machine guns and certain other firearms), on the date prescribed therefor (determined with regard to any extension of time for filing), unless it is shown that such failure is due to reasonable cause and not due to willful neglect, there shall be added to the amount required to be shown as tax on such return 5 percent of the amount of such tax if the failure is for not more than 1 month, with an additional 5 percent for each additional month or fraction thereof during which such failure continues, not exceeding 25 percent in the aggregate;
 
 &emsp;(2) to pay the amount shown on tax on any return specified in paragraph (1) on or before the date prescribed for payment of such tax (determined with regard to any extension of time for payment), unless it is shown that such failure is due to reasonable cause and not due to willful neglect, there shall be added to the amount shown as tax on such return 0.5 percent of the amount of such tax if the failure is for not more than 1 month, with an additional 0.5 percent for each additional month or fraction thereof during which such failure continues, not exceeding 25 percent in the aggregate; or
 
-&emsp;(3) to pay any amount in respect of any tax required to be shown on a return specified in paragraph (1) which is not so shown (including an assessment made pursuant to section 6213(b)) within 10 days of the date of the notice and demand therefor, unless it is shown that such failure is due to reasonable cause and not due to willful neglect, there shall be added to the amount of tax stated in such notice and demand 0.5 percent of the amount of such tax if the failure is for not more than 1 month, with an additional 0.5 percent for each additional month or fraction thereof during which such failure continues, not exceeding 25 percent in the aggregate.
+&emsp;(3) to pay any amount in respect of any tax required to be shown on a return specified in paragraph (1) which is not so shown (including an assessment made pursuant to section 6213(b)) within 21 calendar days from the date of notice and demand therefor (10 business days if the amount for which such notice and demand is made equals or exceeds $100,000), unless it is shown that such failure is due to reasonable cause and not due to willful neglect, there shall be added to the amount of tax stated in such notice and demand 0.5 percent of the amount of such tax if the failure is for not more than 1 month, with an additional 0.5 percent for each additional month or fraction thereof during which such failure continues, not exceeding 25 percent in the aggregate.
 
 > In the case of a failure to file a return of tax imposed by chapter 1 within 60 days of the date prescribed for filing of such return (determined with regard to any extensions of time for filing), unless it is shown that such failure is due to reasonable cause and not due to willful neglect, the addition to tax under paragraph (1) shall not be less than the lesser of $100 or 100 percent of the amount required to be shown as tax on such return.
 
@@ -58,9 +58,21 @@ If any failure to file any return is fraudulent, paragraph (1) of subsection (a)
 
 &emsp;(2) by substituting “75 percent” for “25 percent”.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 821; June 28, 1968, Pub. L. 90–364, title I, §103(e)(4), 82 Stat. 264; Dec. 30, 1969, Pub. L. 91–172, title IX, §943(a), 83 Stat. 727; Apr. 1, 1971, Pub. L. 92–9, §3(j)(1), 85 Stat. 22; Oct. 4, 1976, Pub. L. 94–455, title XIX, §1904(b)(10)(A)(v), 90 Stat. 1817; Sept. 3, 1982, Pub. L. 97–248, title III, §318(a), (b), 96 Stat. 610; July 18, 1984, Pub. L. 98–369, div. A, title IV, §412(b)(8), 98 Stat. 792; Oct. 22, 1986, Pub. L. 99–514, title XV, §1502(a), (b), 100 Stat. 2741; Dec. 22, 1987, Pub. L. 100–203, title X, §10301(b)(6), 101 Stat. 1330–429; Dec. 19, 1989, Pub. L. 101–239, title VII, §7741(a), 103 Stat. 2404.)
+#### (g) Treatment of returns prepared by Secretary under section 6020(b)
+
+In the case of any return made by the Secretary under section 6020(b)—
+
+&emsp;(1) such return shall be disregarded for purposes of determining the amount of the addition under paragraph (1) of subsection (a), but
+
+&emsp;(2) such return shall be treated as the return filed by the taxpayer for purposes of determining the amount of the addition under paragraphs (2) and (3) of subsection (a).
+
+(Aug. 16, 1954, ch. 736, 68A Stat. 821; June 28, 1968, Pub. L. 90–364, title I, §103(e)(4), 82 Stat. 264; Dec. 30, 1969, Pub. L. 91–172, title IX, §943(a), 83 Stat. 727; Apr. 1, 1971, Pub. L. 92–9, §3(j)(1), 85 Stat. 22; Oct. 4, 1976, Pub. L. 94–455, title XIX, §1904(b)(10)(A)(v), 90 Stat. 1817; Sept. 3, 1982, Pub. L. 97–248, title III, §318(a), (b), 96 Stat. 610; July 18, 1984, Pub. L. 98–369, div. A, title IV, §412(b)(8), 98 Stat. 792; Oct. 22, 1986, Pub. L. 99–514, title XV, §1502(a), (b), 100 Stat. 2741; Dec. 22, 1987, Pub. L. 100–203, title X, §10301(b)(6), 101 Stat. 1330–429; Dec. 19, 1989, Pub. L. 101–239, title VII, §7741(a), 103 Stat. 2404; July 30, 1996, Pub. L. 104–168, title III, §303(b)(2), title XIII, §1301(a), 110 Stat. 1458, 1475.)
 
 #### Amendments
+
+1996—Subsec. (a)(3). Pub. L. 104–168, §303(b)(2), substituted “21 calendar days from the date of notice and demand therefor (10 business days if the amount for which such notice and demand is made equals or exceeds $100,000)” for “10 days of the date of the notice and demand therefor”.
+
+Subsec. (g). Pub. L. 104–168, §1301(a), added subsec. (g).
 
 1989—Subsec. (f). Pub. L. 101–239 added subsec. (f).
 
@@ -76,7 +88,7 @@ Subsecs. (d), (e). Pub. L. 99–514, §1502(a), added subsec. (d) and redesignat
 
 Subsec. (c)(1)(A). Pub. L. 97–248, §318(b)(1), inserted provision that in any case described in last sentence of subsec. (a), the amount of the addition under par. (1) of subsec. (a) shall not be reduced under first sentence of this subpar. below the amount provided in such last sentence.
 
-Subsec. (c)(1)(B). Pub. L. 97–248, §318(b)(2), inserted “(determined without regard to the last sentence ofsuch subsection)” after “paragraph (1) of subsection (a)”.
+Subsec. (c)(1)(B). Pub. L. 97–248, §318(b)(2), inserted “(determined without regard to the last sentence of such subsection)” after “paragraph (1) of subsection (a)”.
 
 1976—Subsec. (e). Pub. L. 94–455 struck out subsec. (e) which related to certain interest equalization tax returns.
 
@@ -89,6 +101,12 @@ Subsec. (b). Pub. L. 91–172 designated existing provisions as par. (1) and add
 Subsecs. (c), (d). Pub. L. 91–172 added subsec. (c), redesignated former subsec. (c) as (d) and struck out reference to section 6016 of this title and provided that this section would not be applicable for failure to pay any estimated tax required under section 6153 or 6154 of this title.
 
 1968—Subsec. (c). Pub. L. 90–364 struck out reference to section 6016.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by section 303(b)(2) of Pub. L. 104–168 applicable in case of any notice and demand given after Dec. 31, 1996, see section 303(c) of Pub. L. 104–168, set out as a note under section 6601 of this title.
+
+Section 1301(b) of Pub. L. 104–168 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply in the case of any return the due date for which (determined without regard to extensions) is after the date of the enactment of this Act \[July 30, 1996\].”
 
 #### Effective Date of 1989 Amendment
 
@@ -130,7 +148,7 @@ Section 318(c) of Pub. L. 97–248 provided that: “The amendments made by this
 
 #### Effective Date of 1971 Amendment
 
-Section 3(j)(3) of Pub. L. 92–9 provided that: “The amendments made by this subsection \[amending this section and section 6680 of this title\] shall apply with respect to returns required to be filed on or after the date of the enactment of this Act \[Apr. 1, 1971\].”
+Section 3(j)(3) of Pub. L. 92–9 provided that: “The amendments made by this subsection \[amending thissection and section 6680 of this title\] shall apply with respect to returns required to be filed on or after the date of the enactment of this Act \[Apr. 1, 1971\].”
 
 #### Effective Date of 1969 Amendment
 

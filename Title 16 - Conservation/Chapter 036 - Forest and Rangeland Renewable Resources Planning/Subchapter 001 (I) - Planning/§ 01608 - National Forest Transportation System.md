@@ -16,7 +16,7 @@ Roads constructed on National Forest System lands shall be designed to standards
 
 #### Amendments
 
-1981—Subsec. (a). Pub. L. 97–100 substituted “<i>Provided</i>, That limitations on the level of obligations for construction of forest roads by timber purchasers shall be established in annual appropriation Acts” for “, except that the financing of forest development roads as authorized by clause (2) of section 535 of this title, shall be deemed ‘budget authority’ and ‘budget outlays’ as those terms are defined in section 1302(a) of title 31, and shall be effective for any fiscal year only in the manner required for new spending authority as specified by section 1351(a) of title 31”.
+1981—Subsec. (a). Pub. L. 97–100 substituted “<i>Provided</i>, That limitations on the level of obligations for construction of forest roads by timber purchasers shall be established in annual appropriation Acts” for “, except that the financing of forest development roads as authorized by clause (2) of section 535 of this title, shall be deemed ‘budget authority’ and ‘budget outlays’ as those terms are defined in section 1302(a) of title 31, and shall be effective for any fiscal year only in the manner required for new spending authority as specified by section 1351(a) of title 31”.
 
 1976—Pub. L. 94–588, §8, designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
 

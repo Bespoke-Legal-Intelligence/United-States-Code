@@ -6,7 +6,9 @@ A person knowingly violating section 5104(b) of this title or willfully violatin
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -20,5 +22,5 @@ Jan. 3, 1975, Pub. L. 93–633, §110(b), 88 Stat. 2161; restated Nov. 16, 1990,
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 5102, 5711 of this title.
+This section is referred to in sections 5102, 5122, 5711 of this title.
 

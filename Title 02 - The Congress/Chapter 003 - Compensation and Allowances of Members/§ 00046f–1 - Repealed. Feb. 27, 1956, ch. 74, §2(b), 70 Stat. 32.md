@@ -4,5 +4,5 @@ Section, act July 2, 1954, ch. 455, title I, 68 Stat. 402, fixed maximum minute 
 
 #### Effective Date of Repeal
 
-Repeal effective as of noon, Jan. 3, 1956, see section 3 of act Feb. 27, 1956, set out as an Effective Date of 1956 Amendment note under section 46g of this title.
+Section 3 of act Feb. 27, 1956, provided that: “The amendments made by this Act \[amending sections 46f and 46g of this title and repealing this section\] shall take effect as of noon on January 3, 1956.”
 

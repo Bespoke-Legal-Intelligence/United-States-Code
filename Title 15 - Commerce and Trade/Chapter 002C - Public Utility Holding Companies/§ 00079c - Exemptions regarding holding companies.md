@@ -20,7 +20,7 @@ The Commission, by rules and regulations upon its own motion, or by order upon a
 
 #### (c) Filing for exemption
 
-Within a reasonable time after the receipt of an application for exemption under subsection\(a) or (b) of this section, the Commission shall enter an order granting, or, after notice and opportunity for hearing, denying or otherwise disposing of such application. The filing of an application in good faith under subsection (a) of this section by a person other than a registered holding company shall exempt the applicant from any obligation, duty, or liability imposed in this chapter upon the applicant as a holding company until the Commission has acted upon such application. The filing of an application in good faith under subsection (b) of this section shall exempt the applicant from any obligation, duty, or liability imposed in this chapter upon the applicant as a subsidiary company until the Commission has acted upon such application. Whenever the Commission, on its own motion, or upon application by the holding company or any subsidiary company thereof exempted by any order issued under subsection (a) of this section, or by the subsidiary company exempted by any order issued under subsection (b) of this section, finds that the circumstances which gave rise to the issuance of such order no longer exist, the Commission shall by order revoke such order.
+Within a reasonable time after the receipt of an application for exemption under subsection (a) or (b) of this section, the Commission shall enter an order granting, or, after notice and opportunity for hearing, denying or otherwise disposing of such application. The filing of an application in good faith under subsection (a) of this section by a person other than a registered holding company shall exempt the applicant from any obligation, duty, or liability imposed in this chapter upon the applicant as a holding company until the Commission has acted upon such application. The filing of an application in good faith under subsection (b) of this section shall exempt the applicant from any obligation, duty, or liability imposed in this chapter upon the applicant as a subsidiary company until the Commission has acted upon such application. Whenever the Commission, on its own motion, or upon application by the holding company or any subsidiary company thereof exempted by any order issued under subsection (a) of this section, or by the subsidiary company exempted by any order issued under subsection (b) of this section, finds that the circumstances which gave rise to the issuance of such order no longer exist, the Commission shall by order revoke such order.
 
 #### (d) Exemption of specified class or classes of persons
 
@@ -38,5 +38,5 @@ Rules and regulations, authority of Commission to make, issue, amend, and rescin
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 79z–5, 79z–5b of this title; title 26 section 1081.
+This section is referred to in sections 79z–5, 79z–5b, 79z–5c of this title; title 26 section 1081.
 

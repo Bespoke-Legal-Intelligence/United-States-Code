@@ -48,7 +48,7 @@ Pub. L. 93–100, §7, Aug. 16, 1973, 87 Stat. 347, eff. on the 30th day after A
 
 #### Study by Board of Governors of Federal Reserve System; Report by June 22, 1972
 
-Section 4(b) of Pub. L. 92–213 required the Board of Governors of the Federal Reserve System to make a study of the probable impact on the revenues of State and local governments of the extension until Jan. 1, 1973, under subsection (a), of the termination date of interim provisions regarding intangible personal property taxes of State and local governments on national banks and to report the results of its study to the Congress not later than six months after Dec. 22, 1971.
+Section 4(b) of Pub. L. 92–213 required the Board of Governors of the Federal Reserve System to make a study of the probable impact on the revenues of State and local governments of the extension until Jan. 1, 1973, under subsection (a), of the termination date of interim provisions regarding intangible personal property taxes of State and local governments on nationalbanks and to report the results of its study to the Congress not later than six months after Dec. 22, 1971.
 
 #### Study by Board of Governors of Federal Reserve System; Report by Dec. 31, 1970
 

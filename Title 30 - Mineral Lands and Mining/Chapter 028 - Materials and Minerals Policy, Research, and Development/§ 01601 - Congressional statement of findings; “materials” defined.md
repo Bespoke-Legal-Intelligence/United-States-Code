@@ -10,7 +10,7 @@
 
 &emsp;(4) the United States is strongly interdependent with other nations through international trade in materials and other products;
 
-&emsp;(5) technological innovation and research and development are important factors whichcontribute to the availability and use of materials;
+&emsp;(5) technological innovation and research and development are important factors which contribute to the availability and use of materials;
 
 &emsp;(6) the United States lacks a coherent national materials policy and a coordinated program to assure the availability of materials critical for national economic well-being, national defense, and industrial production, including interstate commerce and foreign trade; and
 

@@ -12,7 +12,7 @@
 
 (2) If the unit of general local government objects to the application on the grounds that it is inconsistent with its housing assistance plan, the Secretary may not approve the application unless he determines that the application is consistent with such housing assistance plan. If the Secretary determines, that such application is consistent with the housing assistance plan, he shall notify the chief executive officer of the unit of general local government of his determination and the reasons therefor in writing. If the Secretary concurs with the objection of the unit of local government, he shall notify the applicant stating the reasons therefor in writing.
 
-(3) If the Secretary does not receive an objection by the close of the period referred to inparagraph (1)(B), he may approve the application unless he finds it inconsistent with the housing assistance plan. If the Secretary determines that an application is inconsistent with a housing assistance plan, he shall notify the applicant stating the reasons therefor in writing.
+(3) If the Secretary does not receive an objection by the close of the period referred to in paragraph (1)(B), he may approve the application unless he finds it inconsistent with the housing assistance plan. If the Secretary determines that an application is inconsistent with a housing assistance plan, he shall notify the applicant stating the reasons therefor in writing.
 
 (4) The Secretary shall make the determinations referred to in paragraphs (2) and (3) within thirty days after he receives an objection pursuant to paragraph (1)(B) or within thirty days after the close of the period referred to in paragraph (1)(B), whichever is earlier.
 
@@ -42,7 +42,7 @@ For areas in which an approved local housing assistance plan is not applicable t
 
 &emsp;(i) assistance that is approved in appropriation Acts for use under sections <sup>3</sup> 9 or 14 \[42 U.S.C. 1437g, 1437<i>l</i>\], or the rental rehabilitation grant program under section 17,<sup>4</sup> of the United States Housing Act of 1937, except that the Secretary shall comply with section 102 of the Department of Housing and Urban Development Reform Act of 1989 \[42 U.S.C. 3545\] with respect to such assistance; or
 
-&emsp;(ii) other assistance referred to in subsection (a) of this section that is approved in appropriation Acts for uses that the Secretary determines are incapable of geographic allocation, including amendments of existing contracts, renewal of assistance contracts, assistance to families that would otherwise lose assistance due to the decision of the project owner to prepay the project mortgage or not to renew the assistance contract, assistance to prevent displacement or to provide replacement housing in connection with the demolition or disposition of public and Indian housing, and assistance in support of the property disposition and loan management functions of the Secretary.
+&emsp;(ii) other assistance referred to in subsection (a) of this section that is approved in appropriation Acts for uses that the Secretary determines are incapable of geographic allocation, including amendments of existing contracts, renewal of assistance contracts, assistance to families that would otherwise lose assistance due to the decision of the project owner to prepay the project mortgage or not to renew the assistance contract, assistance to prevent displacement or to provide replacement housing in connection with the demolition or disposition of public housing, and assistance in support of the property disposition and loan management functions of the Secretary.
 
 (C) Any allocation of assistance under subparagraph (A) shall, as determined by the Secretary, be made to the smallest practicable area, consistent with the delivery of assistance through a meaningful competitive process designed to serve areas with greater needs.
 
@@ -72,7 +72,7 @@ For areas in which an approved local housing assistance plan is not applicable t
 
 &emsp;(ii) to the extent authorized by law, a notice published in the Federal Register.
 
-(C) Subject to the times at which appropriations for assistance subject to paragraph (1)(A) may become available for reservation in any fiscal year, the Secretary shall take such steps as the Secretary deems appropriate to ensure that, to the maximum extent practicable, the process referred to in subparagraph (A) is carried out with similar frequency and at similar times for each fiscal year.
+(C) Subject to the times at which appropriations for assistance subject to paragraph (1)(A) may become available for reservation in any fiscal year, the Secretary shall take such steps as the Secretary deems appropriate to ensure that, to the maximum extent practicable, the processreferred to in subparagraph (A) is carried out with similar frequency and at similar times for each fiscal year.
 
 (D) This paragraph shall not apply to assistance referred to in paragraph (4).
 
@@ -80,7 +80,7 @@ For areas in which an approved local housing assistance plan is not applicable t
 
 From budget authority made available in appropriation Acts for fiscal year 1988, the Secretary shall enter into an annual contributions contract for a term of 180 months to obligate sufficient funds to provide assistance payments pursuant to section 8(b)(1) of the United States Housing Act of 1937 \[42 U.S.C. 1437f(b)(1)\] on behalf of 500 lower income families from budget authority made available for fiscal year 1988, so long as such families occupy properties in Jefferson County, Texas. If a lower income family receiving assistance payments pursuant to this subsection ceases to qualify for assistance payments pursuant to the provisions of section 8 of such Act \[42 U.S.C. 1437f\] or of this subsection during the 180-month term of the annual contributions contract, assistance payments shall be made on behalf of another lower income family who occupies a unit identified in the previous sentence.
 
-(Pub. L. 93–383, title II, §213, Aug. 22, 1974, 88 Stat. 674; Pub. L. 95–128, title II, §207, Oct. 12, 1977, 91 Stat. 1130; Pub. L. 96–153, title II, §204, Dec. 21, 1979, 93 Stat. 1108; Pub. L. 96–399, title II, §202(d), Oct. 8, 1980, 94 Stat. 1629; Pub. L. 97–35, title III, §321(e), Aug. 13, 1981, 95 Stat. 399; Pub. L. 98–181, title II, §201(a)(1), (2), Nov. 30, 1983, 97 Stat. 1175; Pub. L. 98–479, title I, §102(e), Oct. 17, 1984, 98 Stat. 2222; Pub. L. 100–242, title V, §522(a), Feb. 5, 1988, 101 Stat. 1938; Pub. L. 101–235, title I, §§101(a)–(c), (e), 104(a), Dec. 15, 1989, 103 Stat. 1988–1990, 1998; Pub. L. 101–494, §5, Oct. 31, 1990, 104 Stat. 1186; Pub. L. 101–625, title V, §§556, 576, title VIII, §§801(b), 804(e), Nov. 28, 1990, 104 Stat. 4233, 4238, 4303, 4323; Pub. L. 102–389, title II, Oct. 6, 1992, 106 Stat. 1591; Pub. L. 102–550, title I, §154, Oct. 28, 1992, 106 Stat. 3718.)
+(Pub. L. 93–383, title II, §213, Aug. 22, 1974, 88 Stat. 674; Pub. L. 95–128, title II, §207, Oct. 12, 1977, 91 Stat. 1130; Pub. L. 96–153, title II, §204, Dec. 21, 1979, 93 Stat. 1108; Pub. L. 96–399, title II, §202(d), Oct. 8, 1980, 94 Stat. 1629; Pub. L. 97–35, title III, §321(e), Aug. 13, 1981, 95 Stat. 399; Pub. L. 98–181, title II, §201(a)(1), (2), Nov. 30, 1983, 97 Stat. 1175; Pub. L. 98–479, title I, §102(e), Oct. 17, 1984, 98 Stat. 2222; Pub. L. 100–242, title V, §522(a), Feb. 5, 1988, 101 Stat. 1938; Pub. L. 101–235, title I, §§101(a)–(c), (e), 104(a), Dec. 15, 1989, 103 Stat. 1988–1990, 1998; Pub. L. 101–494, §5, Oct. 31, 1990, 104 Stat. 1186; Pub. L. 101–625, title V, §§556, 576, title VIII, §§801(b), 804(e), Nov. 28, 1990, 104 Stat. 4233, 4238, 4303, 4323; Pub. L. 102–389, title II, Oct. 6, 1992, 106 Stat. 1591; Pub. L. 102–550, title I, §154, Oct. 28, 1992, 106 Stat. 3718; Pub. L. 104–330, title V, §501(d)(3), Oct. 26, 1996, 110 Stat. 4043.)
 
 #### References in Text
 
@@ -104,6 +104,8 @@ Section was enacted as part of the Housing and Community Development Act of 1974
 
 #### Amendments
 
+1996—Subsec. (d)(1)(B)(ii). Pub. L. 104–330 substituted “public housing” for “public and Indian housing”.
+
 1992—Subsec. (e). Pub. L. 102–389 and Pub. L. 102–550 amended subsec. (e) identically, substituting “Jefferson County, Texas” for “the Park Central New Community Project or in adjacent areas that are recognized by the unit of general local government in which such Project is located as being included within the Park Central New Town In Town Project”.
 
 1990—Subsec. (a)(1). Pub. L. 101–625, §801(b), struck out “section 202 of the Housing Act of 1959” before “, if the unit”.
@@ -114,7 +116,7 @@ Subsec. (d)(1)(A). Pub. L. 101–625, §556, designated existing provisions as c
 
 Pub. L. 101–494 inserted after first sentence “The Secretary may allocate assistance under the preceding sentence in such a manner that each State shall receive not less than one-half of one percent of the amount of funds available for each program referred to in subsection (a)(1) of this section in each fiscal year.”
 
-Subsec. (d)(1)(A)(i). Pub. L. 101–625, §804(e), which directed amendment of subpar. (A) by inserting after the period at end “The preceding sentence shall not apply to projects acquired from the Resolution Trust Corporation under section 1441a(c) of title 12.”, was executed by making the insertion after the period at end of cl. (i), to reflect the probable intent of Congress and the intervening amendment by Pub. L. 101–625, §556. See above.
+Subsec. (d)(1)(A)(i). Pub. L. 101–625, §804(e), which directed amendment of subpar. (A) by inserting after the period at end “The preceding sentence shall not apply to projects acquired from the Resolution Trust Corporation under section 1441a(c) of title 12.”, was executed by making the insertion after the period at endof cl. (i), to reflect the probable intent of Congress and the intervening amendment by Pub. L. 101–625, §556. See above.
 
 1989—Subsec. (a)(1). Pub. L. 101–235, §101(e), struck out “section 235 or 236 of the National Housing Act,” before “section 101 of the Housing and Urban Development Act of 1965”.
 
@@ -155,6 +157,10 @@ Subsec. (d)(2). Pub. L. 98–181, §201(a)(2), amended par. (2) generally, inser
 1979—Subsec. (d)(1). Pub. L. 96–153 inserted provisions limiting allocation of assistance other than that approved in appropriation acts for use on and after Oct. 1, 1979 for modernization of low-income housing projects and inserted provision that any amounts allocated to a State or to areas or communities within a State which are not likely to be utilized within a fiscal year shall not be reallocated for use in another State unless the Secretary determines that other areas or communities within the same State cannot utilize the amounts in accordance with the appropriate housing assistance plans within that fiscal year.
 
 1977—Subsec. (d)(1). Pub. L. 95–128 inserted provision requiring the Secretary to assure that funds available for subsec. (a) housing assistance programs shall be allocated or reserved in accordance with goals described in local, State, or other housing assistance plans approved by the Secretary pursuant to section 5304 of this title and shall be utilized to meet needs reflected in data referred to in the preceding sentence.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–330 effective Oct. 1, 1997, except as otherwise expressly provided, see section 107 of Pub. L. 104–330, set out as an Effective Date note under section 4101 of Title 25, Indians.
 
 #### Effective Date of 1990 Amendment
 

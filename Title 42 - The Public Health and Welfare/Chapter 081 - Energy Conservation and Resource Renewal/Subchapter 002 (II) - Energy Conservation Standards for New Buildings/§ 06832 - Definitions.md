@@ -12,7 +12,7 @@ As used in this subchapter:
 
 &emsp;(5) The term “Federal agency” means any department, agency, corporation, or other entity or instrumentality of the executive branch of the Federal Government, including the United States Postal Service, the Federal National Mortgage Association, and the Federal Home Loan Mortgage Corporation.
 
-&emsp;(6) The term “Federal building” means any building to be constructed by, or for the useof, any Federal agency which is not legally subject to State or local building codes or similar requirements.
+&emsp;(6) The term “Federal building” means any building to be constructed by, or for the use of, any Federal agency which is not legally subject to State or local building codes or similar requirements.
 
 &emsp;(7) The term “Federal financial assistance” means (A) any form of loan, grant, guarantee, insurance, payment, rebate, subsidy, or any other form of direct or indirect Federal assistance (other than general or special revenue sharing or formula grants made to States) approved by any Federal officer or agency; or (B) any loan made or purchased by any bank, savings and loan association, or similar institution subject to regulation by the Board of Governors of the Federal Reserve System, the Federal Deposit Insurance Corporation, the Comptroller of the Currency, the Federal Home Loan Bank Board, the Federal Savings and Loan Insurance Corporation, or the National Credit Union Administration.
 
@@ -24,7 +24,7 @@ As used in this subchapter:
 
 &emsp;(11) The term “State” includes each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, and any territory and possession of the United States.
 
-&emsp;(12) The term “unit of general purpose local government” means any city, county, town, municipality, or other political subdivision of a State (or any combination thereof), which has a building code or similar authority over a particular geographic area.
+&emsp;(12) The term “unit of general purpose local government” means any city, county, town,municipality, or other political subdivision of a State (or any combination thereof), which has a building code or similar authority over a particular geographic area.
 
 &emsp;(13) The term “Federal building energy standards” means energy consumption objectives to be met without specification of the methods, materials, or equipment to be employed in achieving those objectives, but including statements of the requirements, criteria, and evaluation methods to be used, and any necessary commentary.
 
@@ -48,9 +48,7 @@ Par. (1) of this section which read “The term ‘Administrator’ means the Ad
 
 1981—Par. (9). Pub. L. 97–35 inserted “voluntary” before “performance standards”.
 
-#### Effective Date of 1981
-
-Amendment
+#### Effective Date of 1981 Amendment
 
 Amendment by Pub. L. 97–35 effective Aug. 13, 1981, see section 1038 of Pub. L. 97–35, set out as a note under section 6240 of this title.
 

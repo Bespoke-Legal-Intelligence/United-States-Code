@@ -34,7 +34,7 @@ New budget authority.—The term “new budget authority” means, with respect 
 
 > &emsp;&emsp;and includes a change in the estimated level of new budget authority provided in indefinite amounts by existing law.
 
-&emsp;(3) The term “tax expenditures” means those revenue losses attributable to provisions of the Federal tax laws which allow a special exclusion, exemption, or deduction from gross income or which provide a special credit, a preferential rate of tax, or a deferral of tax liability; and the term “tax expenditures budget” means an enumeration of such tax expenditures.
+&emsp;(3) The term “tax expenditures” means those revenue losses attributable to provisionsof the Federal tax laws which allow a special exclusion, exemption, or deduction from gross income or which provide a special credit, a preferential rate of tax, or a deferral of tax liability; and the term “tax expenditures budget” means an enumeration of such tax expenditures.
 
 &emsp;(4) The term “concurrent resolution on the budget” means—
 
@@ -90,7 +90,7 @@ Pub. L. 101–508, §13201(b)(1), inserted at end: “The term includes the cost
 
 Pars. (6) to (8). Pub. L. 101–508, §13112(a)(2), added pars. (6) to (8) and struck out former par. (6) which defined “deficit” and contained provisions relating to calculation of the deficit, former par. (7) which defined “maximum deficit amount”, and former par. (8) which defined “off-budget Federal entity”.
 
-1987—Par. (7)(C). Pub. L. 100–203, §8003(c)(1), (2), redesignated subpar. (D) as (C). Former subpar. (C), whichprovided for maximum deficit amount of $108,000,000,000 for fiscal year beginning Oct. 1, 1987, was struck out.
+1987—Par. (7)(C). Pub. L. 100–203, §8003(c)(1), (2), redesignated subpar. (D) as (C). Former subpar. (C), which provided for maximum deficit amount of $108,000,000,000 for fiscal year beginning Oct. 1, 1987, was struck out.
 
 Par. (7)(D) to (I). Pub. L. 100–203, §8003(c)(2)–(7), redesignated subpars. (E) to (I) as (D) to (H), respectively. Former subpar. (D) redesignated (C).
 
@@ -108,7 +108,7 @@ Pub. L. 100–119 inserted subpars. (D) to (I) and struck out former subpars. (D
 
 Par. (4). Pub. L. 99–177, §232(b), struck out subpar. (B) relating to concurrent resolutions as provided in section 641 of this title, and redesignated subpar. (C) as (B).
 
-Pars. (6) to (10). Pub. L. 99–177, §§201(a)(1), added pars. (6) to (10).
+Pars. (6) to (10). Pub. L. 99–177, §201(a)(1), added pars. (6) to (10).
 
 1977—Pub. L. 95–110 struck out designation “(a)” before “For the purpose of this chapter” and struck out subsec. (b) which provided that Members of the respective Houses of Congress who were members of the Joint Committee on Atomic Energy were to be treated as standing committees of their respective Houses of Congress.
 

@@ -2,7 +2,7 @@
 
 #### (a) Application of chapter
 
-Nothing in this chapter shall be construed to apply to (or to authorize any State, interstate, or local authority to regulate) any activity or substance which is subject to the Federal Water Pollution Control Act \[33 U.S.C. 1251 et seq.\], theSafe Drinking Water Act \[42 U.S.C. 300f et seq.\], the Marine Protection, Research and Sanctuaries Act of 1972 \[16 U.S.C. 1431 et seq., 1447 et seq., 33 U.S.C. 1401 et seq., 2801 et seq.\], or the Atomic Energy Act of 1954 \[42 U.S.C. 2011 et seq.\] except to the extent that such application (or regulation) is not inconsistent with the requirements of such Acts.
+Nothing in this chapter shall be construed to apply to (or to authorize any State, interstate, or local authority to regulate) any activity or substance which is subject to the Federal Water Pollution Control Act \[33 U.S.C. 1251 et seq.\], the Safe Drinking Water Act \[42 U.S.C. 300f et seq.\], the Marine Protection, Research and Sanctuaries Act of 1972 \[16 U.S.C. 1431 et seq., 1447 et seq., 33 U.S.C. 1401 et seq., 2801 et seq.\], or the Atomic Energy Act of 1954 \[42 U.S.C. 2011 et seq.\] except to the extent that such application (or regulation) is not inconsistent with the requirements of such Acts.
 
 #### (b) Integration with other Acts
 
@@ -36,7 +36,7 @@ The Atomic Energy Act of 1954, as amended, referred to in subsec. (a), is act Au
 
 The Marine Protection, Research and Sanctuaries Act of 1972, referred to in subsecs. (a) and (b), is Pub. L. 92–532, Oct. 23, 1972, 86 Stat. 1052, as amended, which enacted chapters 32 (§1431 et seq.) and 32A (§1447 et seq.) of Title 16, Conservation, and chapters 27 (§1401 et seq.) and 41 (§2801 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1401 of Title 33 and Tables.
 
-The Safe Drinking Water Act, referred to in subsecs. (a) and (b), is Pub. L. 93–523, Dec. 16, 1974, 88 Stat. 1660, as amended, which is classified principally to subchapter XII (§300f et seq.) of chapter 6A of this title. For complete classification of this Act to the Code, see Short Title of 1974 Amendment note set out under section 201 of this title and Tables.
+The Safe Drinking Water Act, referred to in subsecs. (a) and (b), is title XIV of act July 1, 1944, as added Dec. 16, 1974, Pub. L. 93–523, §2(a), 88 Stat. 1660, as amended, which is classified generally to subchapter XII (§300f et seq.) of chapter 6A of this title. For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.
 
 The Clean Air Act, referred to in subsec. (b)(1), (2)(B), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§7401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of this title and Tables.
 

@@ -60,7 +60,7 @@
 
 &emsp;&emsp;(C) research, development, and demonstration of new or improved systems of mechanical, chemical, biological, and other methods (including the use of dispersants, solvents, and bioremediation) for the recovery, removal, and disposal of oil, including evaluation of the environmental effects of the use of such systems;
 
-&emsp;&emsp;(D) research and training, in consultation with the National Response Team, to improve industry's and Government's ability to quickly and effectively remove an oil discharge, including the long-term use, as appropriate, of the National Spill Control School in Corpus Christi, Texas;
+&emsp;&emsp;(D) research and training, in consultation with the National Response Team, to improve industry's and Government's ability to quickly and effectively remove an oil discharge, including the long-term use, as appropriate, of the National Spill Control School in Corpus Christi, Texas, and the Center for Marine Training and Safety in Galveston, Texas;
 
 &emsp;&emsp;(E) research to improve information systems for decisionmaking, including the use of data from coastal mapping, baseline data, and other data related to the environmental effects of oil discharges, and cleanup technologies;
 
@@ -126,13 +126,13 @@
 
 #### (7) Simulated environmental testing
 
-&emsp;Agencies represented on the Interagency Committee shall ensure the long-term use and operation of the Oil and Hazardous Materials Simulated Environmental Test Tank (OHMSETT) Research Center in New Jerseyfor oil pollution technology testing and evaluations.
+&emsp;Agencies represented on the Interagency Committee shall ensure the long-term use and operation of the Oil and Hazardous Materials Simulated Environmental Test Tank (OHMSETT) Research Center in New Jersey for oil pollution technology testing and evaluations.
 
 #### (8) Regional research program
 
 &emsp;(A) Consistent with the research plan in subsection (b) of this section, the Interagency Committee shall coordinate a program of competitive grants to universities or other research institutions, or groups of universities or research institutions, for the purposes of conducting a coordinated research program related to the regional aspects of oil pollution, such as prevention, removal, mitigation, and the effects of discharged oil on regional environments. For the purposes of this paragraph, a region means a Coast Guard district as set out in part 3 of title 33, Code of Federal Regulations (1989).
 
-&emsp;(B) The Interagency Committee shall coordinate the publication by the agencies represented on the Interagency Committee of a solicitation for grants under this subsection. The application shall be in such form and contain such information as may be required in the published solicitation. The applications shall be reviewed by the Interagency Committee, which shall make recommendations to the appropriate granting agency represented on the Interagency Committee for awarding the grant. The granting agency shall award the grants recommended by the Interagency Committee unless the agency decides not to award the grant due to budgetary or other compelling considerations and publishes its reasons for such a determination in the Federal Register. No grants may be made by any agency from any funds authorized for this paragraph unless such grant award has first been recommended by the Interagency Committee.
+&emsp;(B) The Interagency Committee shall coordinate the publication by the agencies represented on the Interagency Committee of a solicitation for grants under this subsection. The application shall be in such form and contain such information as may be required in the published solicitation. The applications shall be reviewed by the Interagency Committee, which shall make recommendations to the appropriate granting agency represented onthe Interagency Committee for awarding the grant. The granting agency shall award the grants recommended by the Interagency Committee unless the agency decides not to award the grant due to budgetary or other compelling considerations and publishes its reasons for such a determination in the Federal Register. No grants may be made by any agency from any funds authorized for this paragraph unless such grant award has first been recommended by the Interagency Committee.
 
 &emsp;(C) Any university or other research institution, or group of universities or research institutions, may apply for a grant for the regional research program established by this paragraph. The applicant must be located in the region, or in a State a part of which is in the region, for which the project is proposed as part of the regional research program. With respect to a group application, the entity or entities which will carry out the substantial portion of the proposed research must be located in the region, or in a State a part of which is in the region, for which the project is proposed as part of the regional research program.
 
@@ -152,7 +152,7 @@
 
 #### (9) Funding
 
-&emsp;For each of the fiscal years 1991, 1992, 1993, 1994, and 1995, $6,000,000 of amounts in the Fund shall be available to carry out the regional research program in paragraph (8), such amounts to be available in equal amounts for the regional research program in each region; except that if the agencies represented on the Interagency Committee determine that regional research needs exist which cannot be addressed within such funding limits, such agencies may use their authority under paragraph (10) to make additional grants to meet such needs. For the purposes of this paragraph, the research program carried out by the Prince William Sound Oil Spill Recovery Institute established under section 2731 of this title, shall not be eligible to receive grants under this paragraph.
+&emsp;For each of the fiscal years 1991, 1992, 1993, 1994, and 1995, $6,000,000 of amounts in the Fund shall be available to carry out the regional research program in paragraph (8), such amounts to be available in equal amounts for the regional research program in each region; except that if the agencies represented on the Interagency Committee determine that regional research needs exist which cannot be addressed within such funding limits, such agencies may use their authority under paragraph (10) to make additional grants to meet such needs. For the purposes of this paragraph, the research program carried out by the Prince William Sound Oil Spill Recovery Institute established under section 2731 of this title, shall not be eligible to receive grants under this paragraph until the authorization for funding under section 2736(b) of this title expires.
 
 #### (10) Grants
 
@@ -180,7 +180,7 @@ Not to exceed $22,000,000 of amounts in the Fund shall be available annually to 
 
 > All activities authorized in this section, including subsection (c)(8) of this section, are subject to appropriations.
 
-(Pub. L. 101–380, title VII, §7001, Aug. 18, 1990, 104 Stat. 559; Pub. L. 101–537, title II, §2002, Nov. 8, 1990, 104 Stat. 2375; Pub. L. 101–646, title IV, §4002, Nov. 29, 1990, 104 Stat. 4788.)
+(Pub. L. 101–380, title VII, §7001, Aug. 18, 1990, 104 Stat. 559; Pub. L. 101–537, title II, §2002, Nov. 8, 1990, 104 Stat. 2375; Pub. L. 101–646, title IV, §4002, Nov. 29, 1990, 104 Stat. 4788; Pub. L. 104–324, title XI, §§1102(c)(2), 1108, Oct. 19, 1996, 110 Stat. 3966, 3968; Pub. L. 104–332, §2(h)(1), (2), Oct. 26, 1996, 110 Stat. 4091.)
 
 #### References in Text
 
@@ -188,11 +188,23 @@ This Act, referred to in subsec. (c)(8)(G), is Pub. L. 101–380, Aug. 18, 1990,
 
 #### Amendments
 
-1990—Subsec. (c)(6). Pub. L. 101–537, §2002(1), and Pub. L. 101–646, §4002(1), made substantially identical amendments, substituting “4” for “3” and inserting cl. (D).
+1996—Subsec. (c)(2)(D). Pub. L. 104–324, §1108, inserted “, and the Center for Marine Training and Safety in Galveston, Texas” before semicolon at end.
 
-Subsec. (f). Pub. L. 101–537, §2002(2), and Pub. L. 101–646, §4002(2), amended subsec. (f) identically, substituting “$22,000,000” for “$21,250,000” in introductory provisions and “$3,000,000” for “$2,250,000” in par. (2).
+Subsec. (c)(6). Pub. L. 104–332, §2(h)(1), made technical amendment to Pub. L. 104–646, §4002(1). See 1990 Amendment note below.
+
+Subsec. (c)(9). Pub. L. 104–324, §1102(c)(2), inserted “until the authorization for funding under section 2736(b) of this title expires” before period at end.
+
+Subsec. (f). Pub. L. 104–332 made technical amendment to Pub. L. 101–646, §4002(2). See 1990 Amendment note below.
+
+1990—Subsec. (c)(6). Pub. L. 101–537, §2002(1), and Pub. L. 101–646, §4002(1), as amended by Pub. L. 104–332, §2(h)(1), made substantially identical amendments, substituting “4” for “3” and inserting cl. (D).
+
+Subsec. (f). Pub. L. 101–537, §2002(2), and Pub. L. 101–646, §4002(2), as amended by Pub. L. 104–332, amended subsec. (f) identically, substituting “$22,000,000” for “$21,250,000” in introductory provisions and “$3,000,000” for “$2,250,000” in par. (2).
 
 #### Delegation of Functions
 
 Functions of President under subsec. (a)(3) of this section delegated to Secretary of Transportation by section 8(h) of Ex. Ord. No. 12777, Oct. 18, 1991, 56 F.R. 54769, set out as a note under section 1321 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 2731 of this title.
 

@@ -16,7 +16,9 @@ This chapter applies to a bill of lading when the bill is issued by a common car
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-In the case of any overpayment, the Secretary, within the applicable period of limitations, may credit the amount of such overpayment, including any interest allowed thereon, against any liability in respect of an internal revenue tax on the part of the person who made the overpayment and shall, subject to subsections (c) and (d), refund any balance to such person.
+In the case of any overpayment, the Secretary, within the applicable period of limitations, may credit the amount of such overpayment, including any interest allowed thereon, against any liability in respect of an internal revenue tax on the part of the person who made the overpayment and shall, subject to subsections (c), (d), and (e), refund any balance to such person.
 
 #### (b) Credits against estimated tax
 
@@ -38,7 +38,7 @@ The amount of any overpayment to be refunded to the person making the overpaymen
 
 #### (i) Notice
 
-&emsp;&emsp;&emsp;In the case of a debt consisting of an OASDI overpayment, if the Secretary determines upon receipt of the notice referred to in paragraph (1) that the refund from which the reduction described in paragraph (1)(A) would be made is based upon a joint return, the Secretary shall—
+&emsp;&emsp;&emsp;In the case of a debt consisting of an OASDI overpayment, if the Secretary determines upon receipt of the notice referred to in paragraph (1) that the refundfrom which the reduction described in paragraph (1)(A) would be made is based upon a joint return, the Secretary shall—
 
 &emsp;&emsp;&emsp;&emsp;(I) notify each taxpayer filing such joint return that the reduction is being made from a refund based upon such return, and
 
@@ -56,33 +56,49 @@ The amount of any overpayment to be refunded to the person making the overpaymen
 
 &emsp;&emsp;For purposes of this paragraph, the term “OASDI overpayment” means any overpayment of benefits made to an individual under title II of the Social Security Act.
 
-#### (e) Review of reductions
+#### (e) Collection of overpayments under title IV–A of the Social Security Act
+
+The amount of any overpayment to be refunded to the person making the overpayment shall be reduced (after reductions pursuant to subsections (c) and (d), but before a credit against future liability for an internal revenue tax) in accordance with section 405(e) <sup>1</sup> of the Social Security Act (concerning recovery of overpayments to individuals under State plans approved under part A of title IV of such Act).
+
+#### (f) Review of reductions
 
 No court of the United States shall have jurisdiction to hear any action, whether legal or equitable, brought to restrain or review a reduction authorized by subsection (c) or (d). No such reduction shall be subject to review by the Secretary in an administrative proceeding. No action brought against the United States to recover the amount of any such reduction shall be considered to be a suit for refund of tax. This subsection does not preclude any legal, equitable, or administrative action against the Federal agency to which the amount of such reduction was paid or any such action against the Commissioner of Social Security which is otherwise available with respect to recoveries of overpayments of benefits under section 204 of the Social Security Act.
 
-#### (f) Federal agency
+#### (g) Federal agency
 
-For purposes of this section, the term “Federal agency” means a department, agency, or instrumentality of the United States (other than an agency subject to section 9 of the Act of May 18, 1933 (48 Stat. 63, chapter 32; 16 U.S.C. 831h)), and includes a Government corporation (as such term is defined in section 103 of title 5, United States Code).
+For purposes of this section, the term “Federal agency” means a department, agency, or instrumentality of the United States, and includes a Government corporation (as such term is defined in section 103 of title 5, United States Code).
 
-#### (g) Treatment of payments to States
+#### (h) Treatment of payments to States
 
 The Secretary may provide that, for purposes of determining interest, the payment of any amount withheld under subsection (c) to a State shall be treated as a payment to the person or persons making the overpayment.
 
-#### (h) Cross reference
+#### (i) Cross reference
 
 For procedures relating to agency notification of the Secretary, see section 3721 of title 31, United States Code.
 
-#### (i) Refunds to certain fiduciaries of insolvent members of affiliated groups
+#### (j) Refunds to certain fiduciaries of insolvent members of affiliated groups
 
 Notwithstanding any other provision of law, in the case of an insolvent corporation which is a member of an affiliated group of corporations filing a consolidated return for any taxable year and which is subject to a statutory or court-appointed fiduciary, the Secretary may by regulation provide that any refund for such taxable year may be paid on behalf of such insolvent corporation to such fiduciary to the extent that the Secretary determines that the refund is attributable to losses or credits of such insolvent corporation.
 
-(Aug. 6, 1954, ch. 736, 68A Stat. 791; Oct. 4, 1976, Pub. L. 94–455, title XIX, §1906(b)(13) (A), (K), 90 Stat. 1834, 1835; Aug. 13, 1981, Pub. L. 97–35, title XXIII, §2331(c), 95 Stat. 861; July 18, 1984, Pub. L. 98–369, div. B, title VI, §2653(b)(1), (2), 98 Stat. 1154, 1155; Aug. 16, 1984, Pub. L. 98–378, §21(e), 98 Stat. 1325; Nov. 10, 1988, Pub. L. 100–647, title VI, §6276, 102 Stat. 3753; Nov. 5, 1990, Pub. L. 101–508, title V, §5129(c), 104 Stat. 1388–288; Aug. 15, 1994, Pub. L. 103–296, title I, §108(h)(7), 108 Stat. 1487.)
+(Aug. 6, 1954, ch. 736, 68A Stat. 791; Oct. 4, 1976, Pub. L. 94–455, title XIX, §1906(b)(13) (A), (K), 90 Stat. 1834, 1835; Aug. 13, 1981, Pub. L. 97–35, title XXIII, §2331(c), 95 Stat. 861; July 18, 1984, Pub. L. 98–369, div. B, title VI, §2653(b)(1), (2), 98 Stat. 1154, 1155; Aug. 16, 1984, Pub. L. 98–378, §21(e), 98 Stat. 1325; Nov. 10, 1988, Pub. L. 100–647, title VI, §6276, 102 Stat. 3753; Nov. 5, 1990, Pub. L. 101–508, title V, §5129(c), 104 Stat. 1388–288; Aug. 15, 1994, Pub. L. 103–296, title I, §108(h)(7), 108 Stat. 1487; Apr. 26, 1996, Pub. L. 104–134, title III, §31001(u)(2), 110 Stat. 1321–375; Aug. 22, 1996, Pub. L. 104–193, title I, §110(<i>l</i>)(7), 110 Stat. 2173.)
 
 #### References in Text
 
-The Social Security Act, referred to in subsecs. (c), (d)(2), (3)(D), and (e), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II of the Act is classified generally to subchapter II (§401 et seq.) of Title 42, The Public Health and Welfare. Sections 204, 402(a)(26), 464, and 471(a)(17) of the Act are classified to sections 404, 602(a)(26), 664, and 671(a)(17) of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsecs. (c), (d)(2), (3)(D), (e), and (f), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II of the Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. Part A of title IV of the Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of Title 42. Sections 204, 402(a)(26), 464, and 471(a)(17) of the Act are classified to sections 404, 602(a)(26), 664, and 671(a)(17) of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+
+Section 405 of the Social Security Act, referred to in subsec. (e), is classified to section 605 of Title 42. Section 405 of the Act does not contain a subsec. (e).
 
 #### Amendments
+
+1996—Subsec. (a). Pub. L. 104–193, §110(<i>l</i>)(7)(A), substituted “(c), (d), and (e)” for “(c) and (d)”.
+
+Subsec. (e). Pub. L. 104–193, §110(<i>l</i>)(7)(C), added subsec. (e). Former subsec. (e) redesignated (f).
+
+Subsec. (f). Pub. L. 104–193, §110(<i>l</i>)(7)(B), redesignated subsec. (e) as (f). Former subsec. (f) redesignated (g).
+
+Pub. L. 104–134 amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “For purposes of this section, the term ‘Federal agency’ means a department, agency, or instrumentality of the United States (other than an agency subject to section 9 of the Act of May 18, 1933 (48 Stat. 63, chapter 32; 16 U.S.C. 831h)), and includes a Government corporation (as such term is defined in section 103 of title 5, United States Code).”
+
+Subsecs. (g) to (j). Pub. L. 104–193, §110(<i>l</i>)(7)(B), redesignated subsecs. (f) to (i) as (g) to (j), respectively.
 
 1994—Subsecs. (d)(3)(C), (e). Pub. L. 103–296 substituted “Commissioner of Social Security” for “Secretary of Health and Human Services” wherever appearing.
 
@@ -112,6 +128,10 @@ Subsec. (c). Pub. L. 97–35, §2331(c)(2), added subsec. (c).
 
 1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–193 effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, set out as a note under section 601 of Title 42, The Public Health and Welfare.
+
 #### Effective Date of 1994 Amendment
 
 Amendment by Pub. L. 103–296 effective Mar. 31, 1995, see section 110(a) of Pub. L. 103–296, set out as a note under section 401 of Title 42, The Public Health and Welfare.
@@ -136,13 +156,37 @@ Section 2653(c) of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, Oct. 2
 
 Amendment by Pub. L. 97–35 effective, except as otherwise specifically provided, on Oct. 1, 1981, see section 2336 of Pub. L. 97–35, set out as a note under section 651 of Title 42, The Public Health and Welfare.
 
+#### Organ and Tissue Donation Information Included With Income Tax Refund Payments
+
+Pub. L. 104–191, title III, §371, Aug. 21, 1996, 110 Stat. 2072, provided that:
+
+“(a)
+
+In General.—The Secretary of the Treasury shall, to the extent practicable, include with the mailing of any payment of a refund of individual income tax made during the period beginning on February 1, 1997, and ending on June 30, 1997, a copy of the document described in subsection (b).
+
+“(b)
+
+Text of Document.—The Secretary of the Treasury shall, after consultation with the Secretary of Health and Human Services and organizations promoting organ and tissue (including eye) donation, prepare a document suitable for inclusion with individual income tax refund payments which—
+
+&emsp;“(1) encourages organ and tissue donation;
+
+&emsp;“(2) includes a detachable organ and tissue donor card; and
+
+&emsp;“(3) urges recipients to—
+
+&emsp;&emsp;“(A) sign the organ and tissue donor card;
+
+&emsp;&emsp;“(B) discuss organ and tissue donation with family members and tell family members about the recipient's desire to be an organ and tissue donor if the occasion arises; and
+
+&emsp;&emsp;“(C) encourage family members to request or authorize organ and tissue donation if the occasion arises.”
+
 #### Clarification of Congressional Intent as to Scope of Amendments by Section 2653 of Pub. L. 98–369
 
 Pub. L. 100–203, title IX, §9402(b), Dec. 22, 1987, 101 Stat. 1330–376, provided that:
 
 “(1) Nothing in the amendments made by section 2653 of the Deficit Reduction Act of 1984 \[enacting section 3720A of Title 31, Money and Finance, and amending this section and sections 6103 and 7213 of this title\] shall be construed as exempting debts of corporations or any other category of persons from the application of such amendments.
 
-“(2) It is the intent of the Congress that, to the extent practicable, the amendments made by section 2653 of the Deficit Reduction Act of 1984 shall extend to all Federal agencies (as defined in the amendments made by such section).
+“(2) It is the intent of the Congress that, to the extent practicable, the amendments made by section 2653of the Deficit Reduction Act of 1984 shall extend to all Federal agencies (as defined in the amendments made by such section).
 
 “(3) The Secretary of the Treasury shall issue regulations to carry out the purposes of this subsection.”
 
@@ -152,5 +196,7 @@ Pub. L. 100–203, title IX, §9402(c), Dec. 22, 1987, 101 Stat. 1330–376, pro
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 6103, 6403, 6513, 6861 of this title; title 42 section 664.
+This section is referred to in sections 6103, 6403, 6513, 6861, 9502 of this title; title 42 section 664.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

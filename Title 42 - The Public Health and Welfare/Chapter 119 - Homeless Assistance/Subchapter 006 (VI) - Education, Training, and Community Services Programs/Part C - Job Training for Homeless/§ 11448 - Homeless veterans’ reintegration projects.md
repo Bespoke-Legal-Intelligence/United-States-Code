@@ -2,7 +2,7 @@
 
 #### (a) General authority
 
-The Secretary, using funds appropriated and made available for the purpose of carrying out this section, shall conduct, directly or through grant or contract, such programs as the Secretary determines appropriate to expedite the reintegration of homeless veterans into the labor force. Notwithstanding any other provision of law, the amount so appropriated shall be available for distribution in such manner as the Assistant Secretary of Labor for Veterans’ Employment and Training considers appropriate and shall remain available until expended.
+The Secretary, using funds appropriated and made available for the purpose of carrying outthis section, shall conduct, directly or through grant or contract, such programs as the Secretary determines appropriate to expedite the reintegration of homeless veterans into the labor force. Notwithstanding any other provision of law, the amount so appropriated shall be available for distribution in such manner as the Assistant Secretary of Labor for Veterans’ Employment and Training considers appropriate and shall remain available until expended.
 
 #### (b) Authority to monitor expenditure of funds
 
@@ -26,11 +26,25 @@ As used in this section, the term “homeless veteran” means a homeless indivi
 
 &emsp;(C) $14,000,000 for fiscal year 1995.
 
+&emsp;(D) $10,000,000 for fiscal year 1996.
+
+&emsp;(E) $10,000,000 for fiscal year 1997.
+
+&emsp;(F) $10,000,000 for fiscal year 1998.
+
 (2) Funds obligated for any fiscal year to carry out this section may be expended in that fiscal year and the succeeding fiscal year.
 
-(Pub. L. 100–77, title VII, §738, July 22, 1987, 101 Stat. 530; Pub. L. 102–590, §11(a), Nov. 10, 1992, 106 Stat. 5141.)
+(Pub. L. 100–77, title VII, §738, July 22, 1987, 101 Stat. 530; Pub. L. 102–590, §11(a), Nov. 10, 1992, 106 Stat. 5141; Pub. L. 104–110, title I, §102(d)(1), Feb. 13, 1996, 110 Stat. 769; Pub. L. 104–275, title VI, §601(b), Oct. 9, 1996, 110 Stat. 3344.)
 
 #### Amendments
 
+1996—Subsec. (e)(1)(D). Pub. L. 104–110 added subpar. (D).
+
+Subsec. (e)(1)(E), (F). Pub. L. 104–275 added subpars. (E) and (F).
+
 1992—Subsec. (e). Pub. L. 102–590 added subsec. (e).
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 11450 of this title.
 

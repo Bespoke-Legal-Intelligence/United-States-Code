@@ -8,9 +8,13 @@ The Secretary shall conduct demonstrations of critical technologies, preferably 
 
 Concurrently with activities conducted pursuant to section 12403 of this title, the Secretary shall conduct small-scale demonstrations of hydrogen technology at self-contained sites.
 
-(Pub. L. 101–566, §105, Nov. 15, 1990, 104 Stat. 2799.)
+#### (c) Non-Federal funding
 
-#### Section Referred to in Other Sections
+The Secretary shall require a commitment from non-Federal sources of at least 50 percent of the cost of any demonstration conducted under this section.
 
-This section is referred to in section 12402 of this title.
+(Pub. L. 101–566, §105, Nov. 15, 1990, 104 Stat. 2799; Pub. L. 104–271, title I, §104, Oct. 9, 1996, 110 Stat. 3306.)
+
+#### Amendments
+
+1996—Subsec. (c). Pub. L. 104–271 added subsec. (c).
 

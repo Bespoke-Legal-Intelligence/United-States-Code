@@ -1,5 +1,5 @@
 
-36 U.S.C.<br>United States Code, 1995 Edition<br>Title 36 - PATRIOTIC SOCIETIES AND OBSERVANCES<br>From the U.S. Government Publishing Office, www.gpo.gov
+36 U.S.C.<br>United States Code, 1996 Edition<br>Title 36 - PATRIOTIC SOCIETIES AND OBSERVANCES<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 36—PATRIOTIC SOCIETIES AND OBSERVANCES
 
@@ -104,6 +104,9 @@
 | [<b>84.</b>](Chapter%20084%20-%20National%20Fallen%20Firefighters%20Foundation/README.md) | <b>National Fallen Firefighters Foundation</b> | <b>5201</b> |
 | [<b>85.</b>](Chapter%20085%20-%20National%20Education%20Association%20of%20the%20United%20States/README.md) | <b>National Education Association of the United States</b> | <b>5301</b> |
 | [<b>86.</b>](Chapter%20086%20-%20Society%20of%20American%20Florists%20and%20Ornamental%20Horticulturists/README.md) | <b>Society of American Florists and Ornamental Horticulturists</b> | <b>5401</b> |
+| [<b>87.</b>](Chapter%20087%20-%20Corporation%20for%20the%20Promotion%20of%20Rifle%20Practice%20and%20Firearms%20Safety/README.md) | <b>Corporation for the Promotion of Rifle Practice and Firearms Safety</b> | <b>5501</b> |
+| [<b>88.</b>](Chapter%20088%20-%20Fleet%20Reserve%20Association/README.md) | <b>Fleet Reserve Association</b> | <b>5601</b> |
+| [<b>89.</b>](Chapter%20089%20-%20National%20Film%20Preservation%20Foundation/README.md) | <b>National Film Preservation Foundation</b> | <b>5701</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -211,3 +214,6 @@
 - [Chapter 084 - National Fallen Firefighters Foundation](Chapter%20084%20-%20National%20Fallen%20Firefighters%20Foundation/README.md)
 - [Chapter 085 - National Education Association of the United States](Chapter%20085%20-%20National%20Education%20Association%20of%20the%20United%20States/README.md)
 - [Chapter 086 - Society of American Florists and Ornamental Horticulturists](Chapter%20086%20-%20Society%20of%20American%20Florists%20and%20Ornamental%20Horticulturists/README.md)
+- [Chapter 087 - Corporation for the Promotion of Rifle Practice and Firearms Safety](Chapter%20087%20-%20Corporation%20for%20the%20Promotion%20of%20Rifle%20Practice%20and%20Firearms%20Safety/README.md)
+- [Chapter 088 - Fleet Reserve Association](Chapter%20088%20-%20Fleet%20Reserve%20Association/README.md)
+- [Chapter 089 - National Film Preservation Foundation](Chapter%20089%20-%20National%20Film%20Preservation%20Foundation/README.md)

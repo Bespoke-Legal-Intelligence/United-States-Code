@@ -1,6 +1,6 @@
 ### §6602. Purposes
 
-The purposes of this subchapter are to provide assistance to State and local educational agencies and to institutions of higher education with teacher education programs so that such agencies and institutions can determine how best to improve the teaching and learning of all students by—
+The purposes of this subchapter are to provide assistance to State and local educational agencies and to institutions of higher education withteacher education programs so that such agencies and institutions can determine how best to improve the teaching and learning of all students by—
 
 &emsp;(1) helping to ensure that teachers, and, where appropriate, other staff and administrators, have access to sustained and intensive high-quality professional development that is aligned to challenging State content standards and challenging State student performance standards, and to support the development and implementation of sustained and intensive high-quality professional development activities in the core academic subjects; and
 

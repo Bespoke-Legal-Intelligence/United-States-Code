@@ -10,7 +10,7 @@ Each person described in subsection (b) of this section shall provide the corpor
 
 #### (b) Persons required to provide information
 
-The persons covered by subsection (a) of this section are each contributing sponsor, and eachmember of a contributing sponsor's controlled group, of a single-employer plan covered by this subchapter, if—
+The persons covered by subsection (a) of this section are each contributing sponsor, and each member of a contributing sponsor's controlled group, of a single-employer plan covered by this subchapter, if—
 
 &emsp;(1) the aggregate unfunded vested benefits at the end of the preceding plan year (as determined under section 1306(a)(3)(E)(iii) of this title) of plans maintained by the contributing sponsor and the members of its controlled group exceed $50,000,000 (disregarding plans with no unfunded vested benefits);
 

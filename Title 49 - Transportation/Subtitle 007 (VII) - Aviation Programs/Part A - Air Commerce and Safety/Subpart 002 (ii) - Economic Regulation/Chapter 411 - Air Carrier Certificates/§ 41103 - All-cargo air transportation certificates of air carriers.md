@@ -30,7 +30,9 @@ Historical and Revision Notes
 
 Pub. L. 103–272
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -44,19 +46,19 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §418(a)(4); added Nov. 9, 1977, 
 
 &nbsp;
 
-49 App.:1551(b) (1)(E).
+49 App.:1551(b)(1)(E).
 
 Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1601(b) (1)(E); added Oct. 4, 1984, Pub. L. 98–443, §3(e), 98 Stat. 1704.
 
 41103(b)
 
-49 App.:1388(b) (1)(B).
+49 App.:1388(b)(1)(B).
 
 Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §418(b)(1)(B); added Nov. 9, 1977, Pub. L. 95–163, §17(a), 91 Stat. 1285; Mar. 14, 1978, Pub. L. 95–245, §3, 92 Stat. 156.
 
 &nbsp;
 
-49 App.:1551(b) (1)(E).
+49 App.:1551(b)(1)(E).
 
 41103(c)
 
@@ -66,7 +68,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §418(b)(2), (c), (d); added Nov.
 
 &nbsp;
 
-49 App.:1551(b) (1)(E).
+49 App.:1551(b)(1)(E).
 
 41103(d)(1)
 
@@ -74,7 +76,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §418(b)(2), (c), (d); added Nov.
 
 &nbsp;
 
-49 App.:1551(b) (1)(E).
+49 App.:1551(b)(1)(E).
 
 41103(d)(2)
 

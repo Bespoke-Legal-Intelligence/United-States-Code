@@ -28,7 +28,7 @@ Except as otherwise provided in this subchapter, and except as otherwise provide
 
 #### (5) Virgin Islands
 
-&emsp;(A) For purposes of this section, the reference in section 28(a) of the Revised Organic Act of the Virgin Islands to “any tax specified in section 3811 of the Internal Revenue Code” shall be deemed to refer to any tax imposed by chapter 2 or by chapter 21.
+&emsp;(A) For purposes of this section, the reference in section 28(a) of the Revised OrganicAct of the Virgin Islands to “any tax specified in section 3811 of the Internal Revenue Code” shall be deemed to refer to any tax imposed by chapter 2 or by chapter 21.
 
 &emsp;(B) For purposes of this title, section 28(a) of the Revised Organic Act of the Virgin Islands shall be effective as if such section 28(a) had been enacted before the enactment of this title and such section 28(a) shall have no effect on the amount of income tax liability required to be paid by any person to the United States.
 

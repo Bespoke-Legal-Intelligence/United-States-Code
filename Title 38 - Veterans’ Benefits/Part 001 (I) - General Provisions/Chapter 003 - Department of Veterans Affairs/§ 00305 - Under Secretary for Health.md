@@ -6,7 +6,7 @@
 
 &emsp;(A) on the basis of demonstrated ability in the medical profession, in health-care administration and policy formulation, and in health-care fiscal management; and
 
-&emsp;(B) on the basis of substantial experience in connection with the programs of the Veterans Health Administration or programs of similar content and scope.
+&emsp;(B) on the basis of substantial experience in connection with the programs of the VeteransHealth Administration or programs of similar content and scope.
 
 (b) The Under Secretary for Health is the head of, and is directly responsible to the Secretary for the operation of, the Veterans Health Administration.
 

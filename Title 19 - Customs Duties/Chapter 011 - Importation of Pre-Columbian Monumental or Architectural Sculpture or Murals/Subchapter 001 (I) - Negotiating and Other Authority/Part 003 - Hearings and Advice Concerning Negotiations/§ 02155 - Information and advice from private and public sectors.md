@@ -194,7 +194,7 @@ Subsec. (j). Pub. L. 96–39, §1103(19), substituted “matters referred to in 
 
 Subsec. (k). Pub. L. 96–39, §1103(19), (20), substituted “matters referred to in subsection (a) of this section” for “trade agreement referred to in section 2111 or 2112 of this title” and provided for information to and consultations with committee members and appropriate parties and participation in international meetings without becoming spokesmen or negotiators for the United States.
 
-Subsec. (<i>l</i>). Pub. L. 96–39, §1103(21), added subsec. (<i>l).</i>
+Subsec. (<i>l</i>). Pub. L. 96–39, §1103(21), added subsec. (<i>l</i>).
 
 #### Effective Date of 1994 Amendment
 
@@ -250,5 +250,5 @@ Term of Trade and Environment Policy Committee extended until Sept. 30, 1997, by
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2114, 2154, 2213, 2241, 2242, 2412, 2413, 2414, 2512, 2514, 2547, 2902, 2903, 3108, 3313, 3437, 3524, 3533, 3537 of this title; title 7 sections 1748, 5603; title 8 section 1184; title 50 App. section 2405.
+This section is referred to in sections 2114, 2154, 2213, 2241, 2242, 2412, 2413, 2414, 2512, 2514, 2547, 2902, 2903, 3108, 3313, 3437, 3524, 3533, 3537 of this title; title 7 section 1748; title 8 section 1184; title 22 section 6062; title 50 App. section 2405.
 

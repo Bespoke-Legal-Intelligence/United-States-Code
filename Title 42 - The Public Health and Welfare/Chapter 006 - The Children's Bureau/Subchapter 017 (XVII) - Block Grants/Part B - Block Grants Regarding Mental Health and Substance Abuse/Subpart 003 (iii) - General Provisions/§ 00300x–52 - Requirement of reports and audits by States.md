@@ -2,7 +2,7 @@
 
 #### (a) Report
 
-A funding agreement for a grant under section 300x or 300x–21 of this title is that the State involved will submit to the Secretary a report in such form and containing such information as the Secretary determines (after consultation with the States and the Comptroller General) to be necessary for securing a record and a description of—
+A funding agreement for a grant under section 300x or 300x–21 of this title is that the State involved will submit to the Secretary a report in such form and containing such information as the Secretary determines (after consultation with the States) to be necessary for securing a record and a description of—
 
 &emsp;(1) the purposes for which the grant received by the State for the preceding fiscal year under the program involved were expended and a description of the activities of the State under the program; and
 
@@ -20,7 +20,11 @@ A funding agreement for a grant under section 300x or 300x–21 of this title is
 
 &emsp;(2) provide copies of the report under subsection (a) of this section, upon request, to any interested person (including any public agency).
 
-(July 1, 1944, ch. 373, title XIX, §1942, as added July 10, 1992, Pub. L. 102–321, title II, §203(a), 106 Stat. 403.)
+(July 1, 1944, ch. 373, title XIX, §1942, as added July 10, 1992, Pub. L. 102–321, title II, §203(a), 106 Stat. 403; amended Oct. 19, 1996, Pub. L. 104–316, title I, §122(e), 110 Stat. 3837.)
+
+#### Amendments
+
+1996—Subsec. (a). Pub. L. 104–316 struck out “and the Comptroller General” after “with the States” in introductory provisions.
 
 #### Section Referred to in Other Sections
 

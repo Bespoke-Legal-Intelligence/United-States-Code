@@ -7,13 +7,15 @@
 | [2303\.](%C2%A7%2002303%20-%20Death%20in%20Department%20facility%3B%20plot%20allowance.md) | Death in Department facility; plot allowance. |
 | [2304\.](%C2%A7%2002304%20-%20Claims%20for%20reimbursement.md) | Claims for reimbursement. |
 | [2305\.](%C2%A7%2002305%20-%20Persons%20eligible%20under%20prior%20law.md) | Persons eligible under prior law. |
-| [2306\.](%C2%A7%2002306%20-%20Headstones%2C%20markers%2C%20and%20grave%20liners.md) | Headstones, markers, and grave liners. |
+| [2306\.](%C2%A7%2002306%20-%20Headstones%2C%20markers%2C%20and%20burial%20receptacles.md) | Headstones, markers, and burial receptacles. |
 | [2307\.](%C2%A7%2002307%20-%20Death%20from%20service-connected%20disability.md) | Death from service-connected disability. |
 | [2308\.](%C2%A7%2002308%20-%20Transportation%20of%20deceased%20veteran%20to%20a%20national%20cemetery.md) | Transportation of deceased veteran to a national cemetery. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1996—Pub. L. 104–275, title II, §213(b)(2), Oct. 9, 1996, 110 Stat. 3332, substituted “burial receptacles” for “grave liners” in item 2306.
 
 1991—Pub. L. 102–83, §5(b)(1), Aug. 6, 1991, 105 Stat. 406, renumbered items 901 to 908 as 2301 to 2308, respectively.
 
@@ -39,6 +41,6 @@ This chapter is referred to in sections 107, 1315, 1503 of this title; title 10 
 - [&sect; 02303 - Death in Department facility; plot allowance](%C2%A7%2002303%20-%20Death%20in%20Department%20facility%3B%20plot%20allowance.md)
 - [&sect; 02304 - Claims for reimbursement](%C2%A7%2002304%20-%20Claims%20for%20reimbursement.md)
 - [&sect; 02305 - Persons eligible under prior law](%C2%A7%2002305%20-%20Persons%20eligible%20under%20prior%20law.md)
-- [&sect; 02306 - Headstones, markers, and grave liners](%C2%A7%2002306%20-%20Headstones%2C%20markers%2C%20and%20grave%20liners.md)
+- [&sect; 02306 - Headstones, markers, and burial receptacles](%C2%A7%2002306%20-%20Headstones%2C%20markers%2C%20and%20burial%20receptacles.md)
 - [&sect; 02307 - Death from service-connected disability](%C2%A7%2002307%20-%20Death%20from%20service-connected%20disability.md)
 - [&sect; 02308 - Transportation of deceased veteran to a national cemetery](%C2%A7%2002308%20-%20Transportation%20of%20deceased%20veteran%20to%20a%20national%20cemetery.md)

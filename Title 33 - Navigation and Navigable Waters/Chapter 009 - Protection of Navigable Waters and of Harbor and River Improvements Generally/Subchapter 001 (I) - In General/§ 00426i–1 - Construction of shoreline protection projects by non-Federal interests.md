@@ -22,7 +22,7 @@ The Secretary is authorized to complete and transmit to the appropriate non-Fede
 
 #### (1) In general
 
-&emsp;Any non-Federal interest which has received from the Secretary pursuant to subsection (b) or (c) of this section a favorable recommendation to carry out a shoreline protectionproject or separable element thereof, based on the results of completed studies and engineering for the project or element, may carry out the project or element if a final environmental impact statement has been filed for the project or element.
+&emsp;Any non-Federal interest which has received from the Secretary pursuant to subsection (b) or (c) of this section a favorable recommendation to carry out a shoreline protection project or separable element thereof, based on the results of completed studies and engineering for the project or element, may carry out the project or element if a final environmental impact statement has been filed for the project or element.
 
 #### (2) Permits
 
@@ -38,7 +38,7 @@ The Secretary is authorized to complete and transmit to the appropriate non-Fede
 
 &emsp;Subject to the enactment of appropriation Acts, the Secretary is authorized to reimburse any non-Federal interest an amount equal to the estimate of the Federal share, without interest, of the cost of any authorized shoreline protection project, or separable element thereof, constructed under this section—
 
-&emsp;&emsp;(A) if, after authorization and before initiation of construction of the project or separable element, the Secretary approves the plans for construction of such project by such non-Federal interest; and
+&emsp;&emsp;(A) if, after authorization and before initiation of construction of the project or separable element, the Secretary approves the plans for construction of such project by such non-Federal interest and enters into a written agreement with the non-Federal interest with respect to the project or separable element (including the terms of cooperation); and
 
 &emsp;&emsp;(B) if the Secretary finds, after a review of studies and engineering prepared pursuant to this section, that construction of the project or separable element is economically justified and environmentally acceptable.
 
@@ -54,7 +54,11 @@ The Secretary is authorized to complete and transmit to the appropriate non-Fede
 
 &emsp;No reimbursement shall be made under this section unless and until the Secretary has certified that the work for which reimbursement is requested has been performed in accordance with applicable permits or approved plans.
 
-(Pub. L. 102–580, title II, §206, Oct. 31, 1992, 106 Stat. 4828.)
+(Pub. L. 102–580, title II, §206, Oct. 31, 1992, 106 Stat. 4828; Pub. L. 104–303, title II, §227(c)(2), Oct. 12, 1996, 110 Stat. 3700.)
+
+#### Amendments
+
+1996—Subsec. (e)(1)(A). Pub. L. 104–303 inserted before semicolon “and enters into a written agreement with the non-Federal interest with respect to the project or separable element (including the terms of cooperation)”.
 
 #### “Secretary” Defined
 

@@ -48,9 +48,9 @@ In this subtitle—
 
 &emsp;(12) “foreign vessel” means a vessel of foreign registry or operated under the authority of a country except the United States.
 
-&emsp;(13) “freight vessel” means a motor vessel of more than 15 gross tons that carries freight for hire, except an oceanographic research vessel or an offshore supply vessel.
+&emsp;(13) “freight vessel” means a motor vessel of more than 15 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title that carries freight for hire, except an oceanographic research vessel or an offshore supply vessel.
 
-&emsp;(13a) “Great Lakes barge” means a non-self-propelled vessel of at least 3,500 gross tons operating on the Great Lakes.
+&emsp;(13a) “Great Lakes barge” means a non-self-propelled vessel of at least 3,500 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title operating on the Great Lakes.
 
 &emsp;(14) “hazardous material” means a liquid material or substance that is—
 
@@ -90,11 +90,13 @@ In this subtitle—
 
 &emsp;(18) “oceanographic research vessel” means a vessel that the Secretary finds is being employed only in instruction in oceanography or limnology, or both, or only in oceanographic or limnological research, including those studies about the sea such as seismic, gravity meter, and magnetic exploration and other marine geophysical or geological surveys, atmospheric research, and biological research.
 
-&emsp;(19) “offshore supply vessel” means a motor vessel of more than 15 gross tons but less than 500 gross tons that regularly carries goods, supplies, individuals in addition to the crew, or equipment in support of exploration, exploitation, or production of offshore mineral or energy resources.
+&emsp;(19) “offshore supply vessel” means a motor vessel of more than 15 gross tons but less than 500 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title that regularly carries goods, supplies, individuals in addition to the crew, or equipment in support of exploration, exploitation, or production of offshore mineral or energy resources.
 
 &emsp;(20) “oil” includes oil of any type or in any form, including petroleum, fuel oil, sludge, oil refuse, and oil mixed with wastes except dredged spoil.
 
-&emsp;(20a) “overall in length” means—
+&emsp;(20a) “oil spill response vessel” means a vessel that is designated in its certificate of inspection as such a vessel, or that is adapted to respond to a discharge of oil or a hazardous material.
+
+&emsp;(20b) “overall in length” means—
 
 &emsp;&emsp;(A) for a foreign vessel or a vessel engaged on a foreign voyage, the greater of—
 
@@ -148,7 +150,7 @@ In this subtitle—
 
 &emsp;(21a) “passenger for hire” means a passenger for whom consideration is contributed as a condition of carriage on the vessel, whether directly or indirectly flowing to the owner, charterer, operator, agent, or any other person having an interest in the vessel.
 
-&emsp;(22) “passenger vessel” means a vessel of at least 100 gross tons—
+&emsp;(22) “passenger vessel” means a vessel of at least 100 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title—
 
 &emsp;&emsp;(A) carrying more than 12 passengers, including at least one passenger for hire;
 
@@ -176,7 +178,7 @@ In this subtitle—
 
 &emsp;&emsp;(A) any subject related to that operation and to the sea, including seamanship, navigation, oceanography, other nautical and marine sciences, and maritime history and literature; and
 
-&emsp;&emsp;(B) only when in conjunction with a subject referred to in subclause (A) of thisclause, instruction in mathematics and language arts skills to sailing school students having learning disabilities.
+&emsp;&emsp;(B) only when in conjunction with a subject referred to in subclause (A) of this clause, instruction in mathematics and language arts skills to sailing school students having learning disabilities.
 
 &emsp;(28) “sailing school instructor” means an individual who is on board a sailing school vessel to provide sailing instruction, but does not include an operator or crewmember who is among those required to be on board the vessel to meet a requirement established under part F of this subtitle.
 
@@ -184,7 +186,7 @@ In this subtitle—
 
 &emsp;(30) “sailing school vessel” means a vessel—
 
-&emsp;&emsp;(A) that is less than 500 gross tons;
+&emsp;&emsp;(A) that is less than 500 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title;
 
 &emsp;&emsp;(B) carrying more than 6 individuals who are sailing school instructors or sailing school students;
 
@@ -194,13 +196,13 @@ In this subtitle—
 
 &emsp;(31) “scientific personnel” means individuals on board an oceanographic research vessel only to engage in scientific research, or to instruct or receive instruction in oceanography or limnology.
 
-&emsp;(32) “seagoing barge” means a non-self-propelled vessel of at least 100 gross tons making voyages beyond the Boundary Line.
+&emsp;(32) “seagoing barge” means a non-self-propelled vessel of at least 100 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title making voyages beyond the Boundary Line.
 
-&emsp;(33) “seagoing motor vessel” means a motor vessel of at least 300 gross tons making voyages beyond the Boundary Line.
+&emsp;(33) “seagoing motor vessel” means a motor vessel of at least 300 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title making voyages beyond the Boundary Line.
 
 &emsp;(34) “Secretary”, except in part H, means the head of the department in which the Coast Guard is operating.
 
-&emsp;(35) “small passenger vessel” means a vessel of less than 100 gross tons—
+&emsp;(35) “small passenger vessel” means a vessel of less than 100 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title—
 
 &emsp;&emsp;(A) carrying more than 6 passengers, including at least one passenger for hire;
 
@@ -232,13 +234,13 @@ In this subtitle—
 
 &emsp;(42) “uninspected passenger vessel” means an uninspected vessel—
 
-&emsp;&emsp;(A) of at least 100 gross tons—
+&emsp;&emsp;(A) of at least 100 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title—
 
 &emsp;&emsp;&emsp;(i) carrying not more than 12 passengers, including at least one passenger for hire; or
 
 &emsp;&emsp;&emsp;(ii) that is chartered with the crew provided or specified by the owner or the owner's representative and carrying not more than 12 passengers; and
 
-&emsp;&emsp;(B) of less than 100 gross tons—
+&emsp;&emsp;(B) of less than 100 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title—
 
 &emsp;&emsp;&emsp;(i) carrying not more than 6 passengers, including at least one passenger for hire; or
 
@@ -262,7 +264,7 @@ In this subtitle—
 
 &emsp;&emsp;(D) staffed by a crew under regular armed forces discipline.
 
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 501; Pub. L. 98–364, title IV, §402(1), July 17, 1984, 98 Stat. 445; Pub. L. 98–454, title III, §301(a), Oct. 5, 1984, 98Stat. 1734; Pub. L. 98–557, §34(a), Oct. 30, 1984, 98 Stat. 2876; Pub. L. 99–307, §1(1), (2), May 19, 1986, 100 Stat. 444; Pub. L. 99–509, title V, §5102(b)(1), Oct. 21, 1986, 100 Stat. 1926; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–640, §§10(b)(1), 11(a), 13(d), Nov. 10, 1986, 100 Stat. 3549–3551; Pub. L. 100–239, §6(a)(1), Jan. 11, 1988, 101 Stat. 1781; Pub. L. 100–424, §8(c)(1), Sept. 9, 1988, 102 Stat. 1593; Pub. L. 100–710, title I, §104(a)(1), (2), Nov. 23, 1988, 102 Stat. 4749; Pub. L. 101–225, title II, §209, Dec. 12, 1989, 103 Stat. 1913; Pub. L. 101–380, title IV, §4103(a)(2)(A), Aug. 18, 1990, 104 Stat. 511; Pub. L. 101–595, title VI, §603(1), Nov. 16, 1990, 104 Stat. 2993; Pub. L. 102–587, title V, §5208(a), Nov. 4, 1992, 106 Stat. 5075; Pub. L. 103–206, title V, §§502–510, Dec. 20, 1993, 107 Stat. 2439–2441; Pub. L. 103–272, §5(<i>l</i>), July 5, 1994, 108 Stat. 1375.)
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 501; Pub. L. 98–364, title IV, §402(1), July 17, 1984, 98 Stat. 445;Pub. L. 98–454, title III, §301(a), Oct. 5, 1984, 98 Stat. 1734; Pub. L. 98–557, §34(a), Oct. 30, 1984, 98 Stat. 2876; Pub. L. 99–307, §1(1), (2), May 19, 1986, 100 Stat. 444; Pub. L. 99–509, title V, §5102(b)(1), Oct. 21, 1986, 100 Stat. 1926; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–640, §§10(b)(1), 11(a), 13(d), Nov. 10, 1986, 100 Stat. 3549–3551; Pub. L. 100–239, §6(a)(1), Jan. 11, 1988, 101 Stat. 1781; Pub. L. 100–424, §8(c)(1), Sept. 9, 1988, 102 Stat. 1593; Pub. L. 100–710, title I, §104(a)(1), (2), Nov. 23, 1988, 102 Stat. 4749; Pub. L. 101–225, title II, §209, Dec. 12, 1989, 103 Stat. 1913; Pub. L. 101–380, title IV, §4103(a)(2)(A), Aug. 18, 1990, 104 Stat. 511; Pub. L. 101–595, title VI, §603(1), Nov. 16, 1990, 104 Stat. 2993; Pub. L. 102–587, title V, §5208(a), Nov. 4, 1992, 106 Stat. 5075; Pub. L. 103–206, title V, §§502–510, Dec. 20, 1993, 107 Stat. 2439–2441; Pub. L. 103–272, §5(<i>l</i>), July 5, 1994, 108 Stat. 1375; Pub. L. 104–324, title VII, §709, title XI, §1104(a), Oct. 19, 1996, 110 Stat. 3934, 3966.)
 
 #### Historical and Revision Notes
 
@@ -273,11 +275,11 @@ A number of definitions are provided because of the need to define jurisdictiona
 | <i>Revised section</i> | <i>Source section (U.S. Code)</i> |
 | :--- | ---: |
 | 2101(1) | 46:1452(8) |
-| 2101(2) |  |
-| 2101(3) |  |
+| 2101(2) | .............................................. |
+| 2101(3) | .............................................. |
 | 2101(4) | 14:1 |
 | 2101(5) | 46:391a(2)(H) |
-| 2101(6) |  |
+| 2101(6) | .............................................. |
 | 2101(7) | 46:391a(2)(S) |
 | 2101(8) | 46:391a(2)(N) |
 | 2101(9) | 46:391a(2)(A) |
@@ -307,7 +309,7 @@ A number of definitions are provided because of the need to define jurisdictiona
 | 2101(33) | 46:367 |
 | 2101(34) | 33:15146:216(b)46:239a(b)46:390(d)46:391a(2)(I)46:405(b)(1)(A)46:481(a)46:672(a)46:1452(9) |
 | 2101(35) | 46:390(b) |
-| 2101(36) |  |
+| 2101(36) | .............................................. |
 | 2101(37) | 46:361 |
 | 2101(38) | 46:391a(2)(M) |
 | 2101(39) | 46:391a(3) |
@@ -315,7 +317,7 @@ A number of definitions are provided because of the need to define jurisdictiona
 | 2101(41) | 46:1452(3) |
 | 2101(42) | 46:1452(1)(C) |
 | 2101(43) | 46:526 |
-| 2101(44) |  |
+| 2101(44) | .............................................. |
 | 2101(45) | 1:346:1452(2) |
 | 2101(46) | 46:391a(2)(L) |
 
@@ -347,7 +349,7 @@ Section 2101(13) defines a “freight vessel” as a motor vessel or any vessel 
 
 Section 2101(14) defines “hazardous materials” as a broad range of materials that are not only flammable or combustible but are also designated under related maritime safety and environmental laws.
 
-Section 2101(15) defines “marine environment” as an all-inclusive term that was developed to cover land and water areas that could be affected by pollution from all vessels and not only tank vessels.
+Section 2101(15) defines “marine environment” as an all-inclusive term that was developed to cover land andwater areas that could be affected by pollution from all vessels and not only tank vessels.
 
 Section 2101(16) defines “motor vessel” as a vessel propelled by machinery other than steam to make it clear that these vessels are not steam vessels.
 
@@ -415,6 +417,28 @@ Section 13 of the Coast Guard Authorization Act of 1986, referred to in par. (17
 
 #### Amendments
 
+1996—Par. (13). Pub. L. 104–324, §709(1), inserted “as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title” after “15 gross tons”.
+
+Par. (13a). Pub. L. 104–324, §709(2), inserted “as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title” after “3,500 gross tons”.
+
+Par. (19). Pub. L. 104–324, §709(3), inserted “as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title” after “500 gross tons”.
+
+Par. (20a). Pub. L. 104–324, §1104(a)(2), added par. (20a). Former par. (20a) redesignated (20b).
+
+Par. (20b). Pub. L. 104–324, §1104(a)(1), redesignated par. (20a) as (20b).
+
+Par. (22). Pub. L. 104–324, §709(4), inserted “as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title” after “100 gross tons”.
+
+Par. (30)(A). Pub. L. 104–324, §709(5), inserted “as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title” after “500 gross tons”.
+
+Par. (32). Pub. L. 104–324, §709(6), inserted “as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title” after “100 gross tons”.
+
+Par. (33). Pub. L. 104–324, §709(7), inserted “as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title” after “300 gross tons”.
+
+Par. (35). Pub. L. 104–324, §709(8), inserted “as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title” after “100 gross tons”.
+
+Par. (42). Pub. L. 104–324, §709(9), inserted “as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title” after “100 gross tons” in subpars. (A) and (B).
+
 1994—Par. (14)(C). Pub. L. 103–272 substituted “section 5103(a) of title 49” for “section 104 of the Hazardous Materials Transportation Act (49 App. U.S.C. 1803)”.
 
 1993—Par. (5a). Pub. L. 103–206, §507, added par. (5a).
@@ -429,7 +453,7 @@ Par. (22). Pub. L. 103–206, §503, amended par. (22) generally. Prior to amend
 
 Par. (30)(B). Pub. L. 103–206, §509, substituted “more than 6” for “at least 6”.
 
-Par. (35). Pub. L. 103–206, §504, amended par. (35) generally. Prior to amendment, par. (35) read as follows: “ ‘small passenger vessel’ means a vessel of less than100 gross tons carrying more than 6 passengers (as defined in clause (21)(B) and (C) of this section).”
+Par. (35). Pub. L. 103–206, §504, amended par. (35) generally. Prior to amendment, par. (35) read as follows: “ ‘small passenger vessel’ means a vessel of less than 100 gross tons carrying more than 6 passengers (as defined in clause (21)(B) and (C) of this section).”
 
 Par. (37a). Pub. L. 103–206, §510, added par. (37a).
 
@@ -508,6 +532,10 @@ Amendment by Pub. L. 101–380 applicable to incidents occurring after Aug. 18, 
 #### Effective Date of 1988 Amendment
 
 Amendment by Pub. L. 100–710 effective Jan. 1, 1989, with certain exceptions and qualifications, see section 107 of Pub. L. 100–710, set out as an Effective Date note under section 30101 of this title.
+
+#### Short Title of 1996 Amendment
+
+Section 601 of title VI of Pub. L. 104–324 provided that: “This title \[enacting sections 3103 and 3201 to 3205 of this title, amending sections 3306 to 3309, 3316, and 3710 of this title, and enacting provisions set out as notes under sections 3201 and 3306 of this title\] may be cited as the ‘Coast Guard Regulatory Reform Act of 1996’.”
 
 #### Short Title of 1993 Amendment
 
@@ -595,7 +623,7 @@ Section 5209 of Pub. L. 102–587 provided that:
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2102, 2113, 4105 of this title; sections 121, 446c, 808, 808a, 883, 1160, 1807 of Appendix to this title; title 8 section 1184; title 15 section 2052; title 16 section 1383a; title 22 section 1980b; title 33 sections 1225, 1321, 2602, 2732; title 42 section 7511b; title 49 section 5117.
+This section is referred to in sections 2102, 2113, 3202, 4105 of this title; sections 121, 446c, 808, 808a, 883, 1160,1807 of Appendix to this title; title 8 section 1184; title 15 section 2052; title 16 sections 1383a, 1802; title 22 section 1980b; title 33 sections 1225, 1321, 2602, 2732; title 42 section 7511b; title 49 section 5117.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

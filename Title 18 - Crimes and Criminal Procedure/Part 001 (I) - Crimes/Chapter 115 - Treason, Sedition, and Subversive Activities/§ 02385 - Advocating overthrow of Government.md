@@ -1,4 +1,4 @@
-### §2385 . Advocating overthrow of Government
+### §2385. Advocating overthrow of Government
 
 Whoever knowingly or willfully advocates, abets, advises, or teaches the duty, necessity, desirability, or propriety of overthrowing or destroying the government of the United States or the government of any State, Territory, District or Possession thereof, or the government of any political subdivision therein, by force or violence, or by the assassination of any officer of any such government; or
 

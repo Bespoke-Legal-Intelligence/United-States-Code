@@ -2,21 +2,23 @@
 
 #### (a) Authorization of appropriations
 
-There are authorized to be appropriated to carry out the purposes of sections 757a to 757g of this title not to exceed the following sums:
+(1) There are authorized to be appropriated to carry out the purposes of sections 757a to 757g of this title not to exceed the following sums:
 
-&emsp;(1) $8,152,500 for fiscal year 1989.
+&emsp;(A) $4,000,000 for fiscal year 1997; and
 
-&emsp;(2) $8,000,000 for each of the fiscal years 1990, 1991, 1992, 1993, 1994, and 1995.
+&emsp;(B) $4,250,000 for each of fiscal years 1998, 1999, and 2000.
 
-> Sums appropriated under this subsection are authorized to remain available until expended.
+(2) Sums appropriated under this subsection are authorized to remain available until expended.
 
 #### (b) Limitation on obligation of funds in any one State
 
-Not more than $1,250,000 of the funds appropriated under this section in any one fiscal year shall be obligated in any one State.
+Not more than $625,000 of the funds appropriated under this section in any one fiscal year shall be obligated in any one State.
 
-(Pub. L. 89–304, §4, Oct. 30, 1965, 79 Stat. 1126; Pub. L. 91–249, §2, May 14, 1970, 84 Stat. 214; Pub. L. 93–362, §§2, 3(b), July 30, 1974, 88 Stat. 398; Pub. L. 96–118, §3, Nov. 16, 1979, 93 Stat. 859; Pub. L. 97–453, §14(b)(2), Jan. 12, 1983, 96 Stat. 2492; Pub. L. 99–659, title IV, §402, Nov. 14, 1986, 100 Stat. 3737; Pub. L. 101–627, title IV, §401, Nov. 28, 1990, 104 Stat. 4462.)
+(Pub. L. 89–304, §4, Oct. 30, 1965, 79 Stat. 1126; Pub. L. 91–249, §2, May 14, 1970, 84 Stat. 214; Pub. L. 93–362, §§2, 3(b), July 30, 1974, 88 Stat. 398; Pub. L. 96–118, §3, Nov. 16, 1979, 93 Stat. 859; Pub. L. 97–453, §14(b)(2), Jan. 12, 1983, 96 Stat. 2492; Pub. L. 99–659, title IV, §402, Nov. 14, 1986, 100 Stat. 3737; Pub. L. 101–627, title IV, §401, Nov. 28, 1990, 104 Stat. 4462; Pub. L. 104–297, title IV, §403, Oct. 11, 1996, 110 Stat. 3619.)
 
 #### Amendments
+
+1996—Pub. L. 104–297 amended section generally. Prior to amendment, section authorized appropriations to carry out sections 757a to 757g of this title of not to exceed $8,152,500 for fiscal year 1989 and $8,000,000 for each of fiscal years 1990 to 1995, and limited the obligation of funds in any one State to not more than $1,250,000.
 
 1990—Subsec. (a)(1). Pub. L. 101–627, §401(1), (2), redesignated par. (7) as (1) and struck out former par. (1) which authorized appropriations of $11,000,000 for fiscal year 1980.
 

@@ -68,7 +68,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 5 U.S.C. 3102(a)–(e).
 
@@ -94,35 +96,35 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
 
-<b>1992</b>—Subsec. (g). Pub. L. 102–378 repealed Pub. L. 101–510, §1206(j)(1). See 1990 Amendment note below.
+1992—Subsec. (g). Pub. L. 102–378 repealed Pub. L. 101–510, §1206(j)(1). See 1990 Amendment note below.
 
-<b>1991</b>—Subsec. (d)(1)(B). Pub. L. 102–83 substituted reference to section 1101 of title 38 for reference to section 301 of title 38.
+1991—Subsec. (d)(1)(B). Pub. L. 102–83 substituted reference to section 1101 of title 38 for reference to section 301 of title 38.
 
 Subsecs. (h) to (j). Pub. L. 102–190 added subsecs. (h) to (j).
 
-<b>1990</b>—Subsec. (g). Pub. L. 101–510, §1206(j)(1), which added a subsec. (g) identical to that added by Pub. L. 101–509, see below, was repealed by Pub. L. 102–378, §8(a). See Elimination of Duplicative Amendments note below.
+1990—Subsec. (g). Pub. L. 101–510, §1206(j)(1), which added a subsec. (g) identical to that added by Pub. L. 101–509, see below, was repealed by Pub. L. 102–378, §8(a). See Elimination of Duplicative Amendments note below.
 
 Subsec. (g). Pub. L. 101–509 added subsec. (g).
 
-<b>1988</b>—Subsec. (f)(2). Pub. L. 100–457 substituted “1989” for “1988”.
+1988—Subsec. (f)(2). Pub. L. 100–457 substituted “1989” for “1988”.
 
-<b>1987</b>—Subsec. (f)(2). Pub. L. 100–202, §101(<i>l</i>) \[title I, §101\], substituted “1988” for “1987”.
+1987—Subsec. (f)(2). Pub. L. 100–202, §101(<i>l</i>) \[title I, §101\], substituted “1988” for “1987”.
 
 For amendment by section 106 of Pub. L. 100–202, see 1986 Amendment note below.
 
-<b>1986</b>—Subsec. (f)(2). Pub. L. 99–500 and Pub. L. 99–591, §101(<i>l</i>), as enacted by Pub. L. 100–202, §106, substituted “December 31, 1987” for “December 31, 1986”. See Codification note above.
+1986—Subsec. (f)(2). Pub. L. 99–500 and Pub. L. 99–591, §101(<i>l</i>), as enacted by Pub. L. 100–202, §106, substituted “December 31, 1987” for “December 31, 1986”. See Codification note above.
 
-<b>1985</b>—Subsec. (f)(2). Pub. L. 99–88 substituted “December 31, 1986” for “December 31, 1985”.
+1985—Subsec. (f)(2). Pub. L. 99–88 substituted “December 31, 1986” for “December 31, 1985”.
 
-<b>1984</b>—Subsec. (f)(1). Pub. L. 98–525, §1537(b)(1), inserted “or of the Secretary of Defense”.
+1984—Subsec. (f)(1). Pub. L. 98–525, §1537(b)(1), inserted “or of the Secretary of Defense”.
 
 Subsec. (f)(2). Pub. L. 98–525, §1537(b)(2), inserted “or the Secretary of Defense” and “or such Secretary, respectively”.
 
 Pub. L. 98–396 substituted “December 31, 1985” for “December 31, 1984”.
 
-<b>1982</b>—Subsec. (f). Pub. L. 97–276 added subsec. (f).
+1982—Subsec. (f). Pub. L. 97–276 added subsec. (f).
 
-<b>1978</b>—Pub. L. 95–454, §308(f)(1), substituted “members of the uniformed services; reduction in retired or retainer pay” for “officers of the uniformed services; reduction in retired or retirement pay; exceptions” in section catchline.
+1978—Pub. L. 95–454, §308(f)(1), substituted “members of the uniformed services; reduction in retired or retainer pay” for “officers of the uniformed services; reduction in retired or retirement pay; exceptions” in section catchline.
 
 Subsec. (b). Pub. L. 95–454, §308(e), substituted “or retainer” for “or retirement” wherever appearing.
 

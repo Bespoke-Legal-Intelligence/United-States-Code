@@ -30,7 +30,7 @@ Section 250001 of title XXV of Pub. L. 103–322 provided that: “This Act \[pr
 
 #### Information Network
 
-Section 250008 of title XXV of Pub. L. 103–322 provided that:
+Section 250008 of title XXV of Pub. L. 103–322, as amended by Pub. L. 104–294, title VI, §604(b)(29), Oct. 11, 1996, 110 Stat. 3508, provided that:
 
 “(a)
 
@@ -38,7 +38,7 @@ Hotline.—The Attorney General shall, subject to the availability of appropriat
 
 &emsp;“(1) providing general information on telemarketing fraud to interested persons; and
 
-&emsp;“(2) gathering information related to possible violations of this Act \[probably should be “title”, see Short Title note above\].
+&emsp;“(2) gathering information related to possible violations of provisions of law amended by this title \[see Short Title note above\].
 
 “(b)
 

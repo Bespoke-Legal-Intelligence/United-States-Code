@@ -2,7 +2,7 @@
 
 (a)
 
-General Rule.—It shall be an unreasonable practice for a motor carrier of property (other than a household goods carrier) providing transportation subject to jurisdiction under subchapter I of chapter 135 or, before the effective date of this section, to have provided transportation that was subject to jurisdiction under subchapter II of chapter 105, as in effect on the day before the effective date of this section, a freight forwarder (other than a household goods freight forwarder), or a party representing such a carrier or freight forwarder to attempt to charge or to charge for a transportation service the difference between (1) the applicable rate that was lawfully in effect pursuant to a tariff that was filed in accordance with this chapter or, with respect to transportation provided before the effective date of this section, in accordance with chapter 107, as in effect on the date the transportation was provided, by the carrier or freight forwarder applicable to such transportation service, and (2) the negotiated rate for such transportation service if the carrier or freight forwarder is no longer transporting property between places described in section 13501(1) or is transporting property between places described in section 13501(1) for the purpose of avoiding application of this section.
+General Rule.—It shall be an unreasonable practice for a motor carrier of property (other than a household goods carrier) providing transportation subject to jurisdiction under subchapter I of chapter 135 or, before January 1, 1996, to have provided transportation that was subject to jurisdiction under subchapter II of chapter 105, as in effect on December 31, 1995, a freight forwarder (other than a household goods freight forwarder), or a party representing such a carrier or freight forwarder to attempt to charge or to charge for a transportation service the difference between (1) the applicable rate that was lawfully in effect pursuant to a tariff that was filed in accordance with this chapter or, with respect to transportation provided before January 1, 1996, in accordance with chapter 107, as in effect on the date the transportation was provided, by the carrier or freight forwarder applicable to such transportation service, and (2) the negotiated rate for such transportation service if the carrier or freight forwarder is no longer transporting property between places described in section 13501(1) or is transporting property between places described in section 13501(1) for the purpose of avoiding application of this section.
 
 (b)
 
@@ -32,7 +32,7 @@ Stay of Additional Compensation.—When a person proceeds under this section to 
 
 (d)
 
-Treatment.—Subsection (a) is an exception to the requirements of section 13702 and, for transportation provided before the effective date of this section, to the requirements of sections 10761(a) and 10762, as in effect on the day before such effective date, as such sections relate to a filed tariff rate and other general tariff requirements.
+Treatment.—Subsection (a) is an exception to the requirements of section 13702 and, for transportation provided before January 1, 1996, to the requirements of sections 10761(a) and 10762, as in effect on December 31, 1995, as such sections relate to a filed tariff rate and other general tariff requirements.
 
 (e)
 
@@ -44,23 +44,35 @@ Definitions.—In this section, the term “negotiated rate” means a rate, cha
 
 (g)
 
-Applicability to Pending Cases.—This section shall apply to all cases and proceedings pending on the effective date of this section.
+Applicability to Pending Cases.—This section shall apply to all cases and proceedings pending on January 1, 1996.
 
-(Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 877.)
+(Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 877; amended Pub. L. 104–287, §5(31), Oct. 11, 1996, 110 Stat. 3391.)
+
+#### Historical and Revision Notes
+
+I74Pub. L. 104–287
+
+This amends 49:13711(a), (d), and (g) by setting out the effective date of 49:13711 and for clarity and consistency.
 
 #### References in Text
 
-For the effective date of this section, referred to in subsecs. (a), (d), and (g), as Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 701 of this title.
-
-Subchapter II of chapter 105, as in effect on the day before the effective date of this section, referred to in subsec. (a), means subchapter II (§10521 et seq.) of chapter 105 of this title as in effect on the day before Jan. 1, 1996. That subchapter was omitted in the general amendment of this subtitle by Pub. L. 104–88, title I, §102(a), Dec. 29, 1995, 109 Stat. 804, effective Jan. 1, 1996.
+Subchapter II of chapter 105, referred to in subsec. (a), was omitted in the general amendment of this subtitle by Pub. L. 104–88, title I, §102(a), Dec. 29, 1995, 109 Stat. 804, effective Jan. 1, 1996.
 
 Chapter 107, as in effect on the date transportation was provided, referred to in subsec. (a), means chapter 107 of this title, as in effect on the date transportation was provided with respect to transportation provided before Jan. 1, 1996. Chapter 107 (§10701 et seq.) was omitted and a new chapter 107 enacted in the general amendment of this subtitle by Pub. L. 104–88, title I, §102(a), Dec. 29, 1995, 109 Stat. 804, 809, effective Jan. 1, 1996.
 
-Sections 10761(a) and 10762, as in effect on the day before the effective date of this section, referred to in subsec. (d), means sections 10761(a) and 10762 of this title as in effect on the day before Jan. 1, 1996. Those sections were omitted in the general amendment of this subtitle by Pub. L. 104–88, title I, §102(a), Dec. 29, 1995, 109 Stat. 804, effective Jan. 1, 1996.
+Sections 10761(a) and 10762, referred to in subsec. (d), were omitted in the general amendment of this subtitle by Pub. L. 104–88, title I, §102(a), Dec. 29, 1995, 109 Stat. 804, effective Jan. 1, 1996.
 
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in section 2(e) of Pub. L. 103–180, set out as a note under former section 10701 of this title.
+
+#### Amendments
+
+1996—Subsec. (a). Pub. L. 104–287, §5(31)(A), substituted “or, before January 1, 1996” for “or, before the effective date of this section”, “December 31, 1995” for “the day before the effective date of this section”, and “provided before January 1, 1996” for “provided before the effective date of this section”.
+
+Subsec. (d). Pub. L. 104–287, §5(31)(B), substituted “January 1, 1996” for “the effective date of this section” and “December 31, 1995” for “the day before such effective date”.
+
+Subsec. (g). Pub. L. 104–287, §5(31)(C), substituted “January 1, 1996” for “the effective date of this section”.
 
 #### Abolition of Interstate Commerce Commission
 

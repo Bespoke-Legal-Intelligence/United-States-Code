@@ -1,12 +1,12 @@
 ### §207a. Unified payroll administration for Capitol Police
 
-Payroll administration for the Capitol Police and civilian support personnel of the Capitol Police shall be carried out on a unified basis by a single disbursing authority. The Capitol Police Board, with the approval of the Committee on House Administration of the House of Representatives and the Committee on Rules and Administration of the Senate, acting jointly, shall, by contract or otherwise, provide for such unified payroll administration.
+Payroll administration for the Capitol Police and civilian support personnel of the Capitol Police shall be carried out on a unified basis by a single disbursing authority. The Capitol Police Board, with the approval of the Committee on House Oversight of the House of Representatives and the Committee on Rules and Administration of the Senate, acting jointly, shall, by contract or otherwise, provide for such unified payroll administration.
 
-(July 31, 1946, ch. 707, §9C, as added Oct. 6, 1992, Pub. L. 102–397, title I, §102, 106 Stat. 1950.)
+(July 31, 1946, ch. 707, §9C, as added Oct. 6, 1992, Pub. L. 102–397, title I, §102, 106 Stat. 1950; amended Aug. 20, 1996, Pub. L. 104–186, title II, §221(12), 110 Stat. 1750.)
 
-#### Change of Name
+#### Amendments
 
-Committee on House Administration of House of Representatives treated as referring to Committee on House Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+1996—Pub. L. 104–186 substituted “House Oversight” for “House Administration”.
 
 #### Effective Date
 

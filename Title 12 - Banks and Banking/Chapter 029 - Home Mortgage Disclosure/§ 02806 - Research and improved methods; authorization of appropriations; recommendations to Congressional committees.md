@@ -14,7 +14,7 @@
 
 1989—Subsecs. (a)(1), (3), (b). Pub. L. 101–73 substituted “Director of the Office of Thrift Supervision” for “Federal Home Loan Bank Board” wherever appearing.
 
-1988—Subsec. (b). Pub. L. 100–628 substituted “Committee on Banking, Finance and Urban Affairs of theHouse of Representatives” for “Committee on Banking, Currency and Housing of the House of Representatives” and inserted a comma after Housing in the phrase “Committee on Banking, Housing, and Urban Affairs of the Senate”.
+1988—Subsec. (b). Pub. L. 100–628 substituted “Committee on Banking, Finance and Urban Affairs of the House of Representatives” for “Committee on Banking, Currency and Housing of the House of Representatives” and inserted a comma after Housing in the phrase “Committee on Banking, Housing, and Urban Affairs of the Senate”.
 
 #### Change of Name
 

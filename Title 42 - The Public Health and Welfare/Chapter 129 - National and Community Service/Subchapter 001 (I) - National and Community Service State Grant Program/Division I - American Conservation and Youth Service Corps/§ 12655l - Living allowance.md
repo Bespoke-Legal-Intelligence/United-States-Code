@@ -12,11 +12,11 @@
 
 #### (3) Maximum living allowance
 
-&emsp;The total amount of an annual living allowance that may be provided to a participant in a full-time youth corps program that receives assistance under this division shall not exceed 200 percent of the average annual subsistence allowance provided to VISTA volunteers under section 4955 of this title.
+&emsp;The total amount of an annual living allowance that may be provided to a participant ina full-time youth corps program that receives assistance under this division shall not exceed 200 percent of the average annual subsistence allowance provided to VISTA volunteers under section 4955 of this title.
 
 #### (4) Waiver or reduction of living allowance
 
-&emsp;The Corporation may waive or reduce the requirement of paragraph (1) with respect tosuch national service program if such program demonstrates that—
+&emsp;The Corporation may waive or reduce the requirement of paragraph (1) with respect to such national service program if such program demonstrates that—
 
 &emsp;&emsp;(A) such requirement is inconsistent with the objectives of the program; and
 

@@ -6,7 +6,7 @@
 
 &emsp;(2) Any Member of Congress, or any other person adversely affected by any action taken under this title,<sup>1</sup> may bring an action, in the United States District Court for the District of Columbia, for declaratory judgment and injunctive relief concerning the constitutionality of this title.<sup>1</sup>
 
-&emsp;(3) Any Member of Congress may bring an action, in the United States District Court for the District of Columbia, for declaratory and injunctive relief on the ground that the terms of an order issued under section 902 <sup>1</sup> of this title do not comply with the requirements of this title.<sup>1</sup>
+&emsp;(3) Any Member of Congress may bring an action, in the United States District Court for the District of Columbia, for declaratory andinjunctive relief on the ground that the terms of an order issued under section 902 <sup>1</sup> of this title do not comply with the requirements of this title.<sup>1</sup>
 
 &emsp;(4) A copy of any complaint in an action brought under paragraph (1), (2), or (3) shall be promptly delivered to the Secretary of the Senate and the Clerk of the House of Representatives, and each House of Congress shall have the right to intervene in such action.
 
@@ -56,7 +56,7 @@ No order of any court granting declaratory or injunctive relief from the order o
 
 (3) No later than 5 days after the receipt of a report of the Director of CBO in accordance with paragraph (1), the Joint Committee shall report to the House of Representatives and the Senate a joint resolution setting forth the contents of the report of the Director of CBO.
 
-(4) The provisions relating to the consideration of a joint resolution under section 904(a)(4) <sup>1</sup> of this title shall apply to the consideration of a joint resolution reported pursuant to this subsection in the House of Representatives and the Senate, except that debate in each House shall be limited to two hours.
+(4) The provisions relating to the consideration of a joint resolution under section904(a)(4) <sup>1</sup> of this title shall apply to the consideration of a joint resolution reported pursuant to this subsection in the House of Representatives and the Senate, except that debate in each House shall be limited to two hours.
 
 (5) Upon its enactment, the joint resolution shall be deemed to be the report received by the President under section 901(a)(2)(B) or (c)(2) <sup>1</sup> of this title (whichever is applicable).
 

@@ -42,7 +42,7 @@ In the case of any short-term obligation to which this section applies, for purp
 
 &emsp;&emsp;&emsp;(i) which begins with the first taxable year for which the ownership test of subparagraph (C) is met with respect to the pass-thru entity (or a predecessor), and
 
-&emsp;&emsp;&emsp;(ii) which ends with the first taxable year after the taxable year referred to in clause (i) for which the ownership test of subparagraph (C) is not met and with respect to which the Secretary consents to the termination of the required accrual period.
+&emsp;&emsp;&emsp;(ii) which ends with the first taxable year after the taxable year referred to inclause (i) for which the ownership test of subparagraph (C) is not met and with respect to which the Secretary consents to the termination of the required accrual period.
 
 #### (C) Ownership test
 

@@ -10,7 +10,7 @@ It shall be unlawful for any person to manufacture, enter into commerce, ship, t
 
 (2) The Secretary of Commerce may provide for an alternate marking or device for any toy, look-alike, or imitation firearm not capable of being marked as provided in paragraph (1) and may waive the requirement of any such marking or device for any toy, look-alike, or imitation firearm that will only be used in the theatrical, movie or television industry.
 
-(3) The Secretary is authorized to make adjustments and changes in the marking system provided for by this section, after consulting with interested persons.
+(3) The Secretary is authorized to make adjustments and changes in the marking systemprovided for by this section, after consulting with interested persons.
 
 #### (c) “Look-alike firearm” defined
 
@@ -18,7 +18,7 @@ For purposes of this section, the term “look-alike firearm” means any imitat
 
 #### (d) Study and report
 
-The Director of the Bureau of Justice Statistics is authorized and directed to conduct astudy of the criminal misuse of toy, look-alike and imitation firearms, including studying police reports of such incidences and shall report on such incidences relative to marked and unmarked firearms.
+The Director of the Bureau of Justice Statistics is authorized and directed to conduct a study of the criminal misuse of toy, look-alike and imitation firearms, including studying police reports of such incidences and shall report on such incidences relative to marked and unmarked firearms.
 
 #### (c) <sup>1</sup> Technical evaluation of marking systems
 

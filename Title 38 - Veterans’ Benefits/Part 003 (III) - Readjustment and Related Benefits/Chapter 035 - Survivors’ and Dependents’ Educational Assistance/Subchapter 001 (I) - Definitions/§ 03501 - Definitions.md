@@ -22,9 +22,9 @@
 
 &emsp;(2) The term “child” includes individuals who are married and individuals who are above the age of twenty-three years.
 
-&emsp;(3) The term “duty with the Armed Forces” as used in section 3512 of this title means (A) active duty, (B) active duty for training for a period of six or more consecutive months, or (C) active duty for training required by section 511(d) <sup>1</sup> of title 10.
+&emsp;(3) The term “duty with the Armed Forces” as used in section 3512 of this title means (A) active duty, (B) active duty for training for a period of six or more consecutive months, or (C) active duty for training required by section 12103(d) of title 10.
 
-&emsp;(4) The term “guardian” includes a fiduciary legally appointed by a court of competent jurisdiction, or any other person who has been appointed by the Secretary under section 5502 of this title to receive payment of benefits for the use and benefit of the eligible person.
+&emsp;(4) The term “guardian” includes a fiduciary legally appointed by a court of competent jurisdiction, or any other person who has beenappointed by the Secretary under section 5502 of this title to receive payment of benefits for the use and benefit of the eligible person.
 
 &emsp;(5) The term “program of education” means any curriculum or any combination of unit courses or subjects pursued at an educational institution which is generally accepted as necessary to fulfill the requirements for the attainment of a predetermined and identified educational, professional, or vocational objective.
 
@@ -34,7 +34,7 @@
 
 &emsp;(8) The term “total disability permanent in nature” means any disability rated total for the purposes of disability compensation which is based upon an impairment reasonably certain to continue throughout the life of the disabled person.
 
-&emsp;(9) The term “training establishment” means any establishment providing apprentice or other training on the job, including thoseunder the supervision of a college or university or any State department of education, or any State apprenticeship agency, or any State board of vocational education, or any joint apprenticeship committee, or the Bureau of Apprenticeship and Training established pursuant to the Act of August 16, 1937, popularly known as the “National Apprenticeship Act” (29 U.S.C. 50 et seq.), or any agency of the Federal Government authorized to supervise such training.
+&emsp;(9) The term “training establishment” means any establishment providing apprentice or other training on the job, including those under the supervision of a college or university or any State department of education, or any State apprenticeship agency, or any State board of vocational education, or any joint apprenticeship committee, or the Bureau of Apprenticeship and Training established pursuant to the Act of August 16, 1937, popularly known as the “National Apprenticeship Act” (29 U.S.C. 50 et seq.), or any agency of the Federal Government authorized to supervise such training.
 
 &emsp;(10) The term “institution of higher learning” means a college, university, or similar institution, including a technical or business school, offering postsecondary level academic instruction that leads to an associate or higher degree if the school is empowered by the appropriate State education authority under State law to grant an associate or higher degree. When there is no State law to authorize the granting of a degree, the school may be recognized as an institution of higher learning if it is accredited for degree programs by a recognized accrediting agency. Such term shall also include a hospital offering educational programs at the postsecondary level without regard to whether the hospital grants a postsecondary degree. Such term shall also include an educational institution which is not located in a State, which offers a course leading to a standard college degree, or the equivalent, and which is recognized by the secretary of education (or comparable official) of the country or other jurisdiction in which the institution is located.
 
@@ -46,11 +46,9 @@
 
 (d) No eligible person may be afforded educational assistance under this chapter unless such person was discharged or released after each period such person was on duty with the Armed Forces under conditions other than dishonorable, or while such person is on duty with the Armed Forces.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1193, §1701; Pub. L. 86–236, §1, Sept. 8, 1959, 73 Stat. 471; Pub. L. 86–785, §§1–3, Sept. 14, 1960, 74 Stat. 1023; Pub. L. 88–361, §1, July 7, 1964, 78 Stat. 297; Pub. L. 89–222, §3, Sept. 30, 1965, 79 Stat. 896; Pub. L. 89–349, §1, Nov. 8, 1965, 79 Stat. 1313; Pub. L. 89–358, §4(j), Mar. 3, 1966, 80 Stat. 24; Pub. L. 90–631, §2(b), (c), Oct. 23, 1968, 82 Stat. 1332; Pub. L. 91–24, §9(a), June 11, 1969, 83 Stat. 34; Pub. L. 91–584, §1, Dec. 24, 1970, 84 Stat. 1575; Pub. L. 92–540, title III, §309, Oct. 24, 1972, 86 Stat. 1083; Pub. L. 93–295, title III, §302, May 31, 1974, 88 Stat. 184; Pub. L. 94–502, title III, §§302, 310(2)–(5), Oct. 15, 1976, 90 Stat. 2389, 2391; Pub. L. 96–466, title III, §327(a), title VIII, §801(c), Oct. 17, 1980, 94 Stat. 2197, 2216; Pub. L. 98–160, title VII, §702(12), Nov. 21, 1983, 97 Stat. 1009; Pub. L. 101–237, title IV, §423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; Pub. L. 102–40, title IV, §402(d)(1), May 7, 1991, 105 Stat. 239; renumbered §3501 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1193, §1701; Pub. L. 86–236, §1, Sept. 8, 1959, 73 Stat. 471; Pub. L. 86–785, §§1–3, Sept. 14, 1960, 74 Stat. 1023; Pub. L. 88–361, §1, July 7, 1964, 78 Stat. 297; Pub. L. 89–222, §3, Sept. 30, 1965, 79 Stat. 896; Pub. L. 89–349, §1, Nov. 8, 1965, 79 Stat. 1313; Pub. L. 89–358, §4(j), Mar. 3, 1966, 80 Stat. 24; Pub. L. 90–631, §2(b), (c), Oct. 23, 1968, 82 Stat. 1332; Pub. L. 91–24, §9(a), June 11, 1969, 83 Stat. 34; Pub. L. 91–584, §1, Dec. 24, 1970, 84 Stat. 1575; Pub. L. 92–540, title III, §309, Oct. 24, 1972, 86 Stat. 1083; Pub. L. 93–295, title III, §302, May 31, 1974, 88 Stat. 184; Pub. L. 94–502, title III, §§302, 310(2)–(5), Oct. 15, 1976, 90 Stat. 2389, 2391; Pub. L. 96–466, title III, §327(a), title VIII, §801(c), Oct. 17, 1980, 94 Stat. 2197, 2216; Pub. L. 98–160, title VII, §702(12), Nov. 21, 1983, 97 Stat. 1009; Pub. L. 101–237, title IV, §423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; Pub. L. 102–40, title IV, §402(d)(1), May 7, 1991, 105 Stat. 239; renumbered §3501 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 104–106, div. A, title XV, §1501(e)(2)(C), Feb. 10, 1996, 110 Stat. 501.)
 
 #### References in Text
-
-Section 511 of title 10, referred to in subsec. (a)(3)(C), was renumbered section 12103 of Title 10, Armed Forces, by Pub. L. 103–337, div. A, title XVI, §1662(b)(2), Oct. 5, 1994, 108 Stat. 2989.
 
 The National Apprenticeship Act, referred to in subsec. (a)(9), is act Aug. 16, 1937, ch. 663, 50 Stat. 664, as amended which is classified generally to chapter 4C (§50 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 50 of Title 29 and Tables.
 
@@ -59,6 +57,8 @@ The National Apprenticeship Act, referred to in subsec. (a)(9), is act Aug. 16, 
 Prior sections 3501 to 3505 were renumbered sections 6101 to 6105 of this title, respectively.
 
 #### Amendments
+
+1996—Subsec. (a)(3)(C). Pub. L. 104–106 substituted “section 12103(d) of title 10” for “section 511(d) of title 10”.
 
 1991—Pub. L. 102–83, §5(a), renumbered section 1701 of this title as this section.
 
@@ -138,6 +138,10 @@ Subsec. (d). Pub. L. 86–785, §3, substituted “the Korean conflict, or the i
 
 1959—Subsecs. (a)(1), (d). Pub. L. 86–236 inserted reference to Spanish-American War.
 
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–106 effective as if included in the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as enacted on Oct. 5, 1994, seesection 1501(f)(3) of Pub. L. 104–106, set out as a note under section 113 of Title 10, Armed Forces.
+
 #### Effective Date of 1980 Amendment
 
 Amendment by Pub. L. 96–466 effective Oct. 1, 1980, see section 802(c), (h) of Pub. L. 96–466, set out as a note under section 3452 of this title.
@@ -164,7 +168,7 @@ Period of eligibility for educational assistance of children of Spanish-American
 
 #### Termination of Eligibility Period
 
-Termination of eligibility period for a wife or widow, or an eligible person eight years from Oct. 24, 1972, seesection 604 of Pub. L. 92–540, set out as a note under section 3512 of this title.
+Termination of eligibility period for a wife or widow, or an eligible person eight years from Oct. 24, 1972, see section 604 of Pub. L. 92–540, set out as a note under section 3512 of this title.
 
 The period referred to in section 1712 \[now 3512\] of this title as ending five years from Nov. 8, 1965, in the case of any individual who is an “eligible person” within the meaning of subsec. (a)(1) of this section solely by virtue of the amendment made by section 1 of Pub. L. 89–349 to this section, and who is above the age of seventeen years and below the age of twenty-three years on Nov. 8, 1965, see section 2 of Pub. L. 89–349, set out as a note under section 3512 of this title.
 

@@ -14,7 +14,7 @@ Section 9436, Pub. L. 96–398, title II, §206, Oct. 7, 1980, 94 Stat. 1582, se
 
 Section 9437, Pub. L. 96–398, title II, §207, Oct. 7, 1980, 94 Stat. 1583, set forth authority, etc., for grants and contracts for innovative projects.
 
-Section 9438, Pub. L. 96–398, title II, §208, Oct. 7, 1980, 94 Stat. 1584, set forth authority, etc., for grants for prevention of mental illness and promotion of mental health.
+Section 9438, Pub. L. 96–398, title II, §208, Oct. 7, 1980, 94 Stat. 1584, set forth authority, etc., for grants forprevention of mental illness and promotion of mental health.
 
 #### Effective Date of Repeal
 

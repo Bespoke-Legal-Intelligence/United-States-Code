@@ -2,17 +2,19 @@
 
 As used in this chapter—
 
-&emsp;(1) “agency of the United States” means any executive department as defined in section 101of title 5, United States Code, a military department as defined in section 102 of title 5, United States Code, the Nuclear Regulatory Commission, the Board of Governors of the Federal Reserve System, the China Trade Act registrar appointed under 53 Stat. 1432 (15 U.S.C. sec. 143), the Commodity Futures Trading Commission, the Federal Communications Commission, the Federal Deposit Insurance Corporation, the Federal Maritime Commission, the Federal Power Commission, the Federal Trade Commission, the Interstate Commerce Commission, the National Labor Relations Board, the National Transportation Safety Board, the Railroad Retirement Board, an arbitration board established under 48 Stat. 1193 (45 U.S.C. sec. 157), the Securities and Exchange Commission, or a board established under 49 Stat. 31 (15 U.S.C. sec. 715d);
+&emsp;(1) “agency of the United States” means any executive department as defined in section 101 of title 5, United States Code, a military department as defined in section 102 of title 5, United States Code, the Nuclear Regulatory Commission, the Board of Governors of the Federal Reserve System, the China Trade Act registrar appointed under 53 Stat. 1432 (15 U.S.C. sec. 143), the Commodity Futures Trading Commission, the Federal Communications Commission, the Federal Deposit Insurance Corporation, the Federal Maritime Commission, the Federal Power Commission, the Federal Trade Commission, the Surface Transportation Board, the National Labor Relations Board, the National Transportation Safety Board, the Railroad Retirement Board, an arbitration board established under 48 Stat. 1193 (45 U.S.C. sec. 157), the Securities and Exchange Commission, or a board established under 49 Stat. 31 (15 U.S.C. sec. 715d);
 
 &emsp;(2) “other information” includes any book, paper, document, record, recording, or other material;
 
-&emsp;(3) “proceeding before an agency of the United States” means any proceeding before such an agency with respect to which it is authorized to issue subpenas and to take testimony or receive other information from witnesses under oath; and
+&emsp;(3) “proceeding before an agency of the United States” means any proceeding beforesuch an agency with respect to which it is authorized to issue subpenas and to take testimony or receive other information from witnesses under oath; and
 
 &emsp;(4) “court of the United States” means any of the following courts: the Supreme Court of the United States, a United States court of appeals, a United States district court established under chapter 5, title 28, United States Code, a United States bankruptcy court established under chapter 6, title 28, United States Code, the District of Columbia Court of Appeals, the Superior Court of the District of Columbia, the District Court of Guam, the District Court of the Virgin Islands, the United States Court of Federal Claims, the Tax Court of the United States, the Court of International Trade, and the Court of Appeals for the Armed Forces.
 
-(Added Pub. L. 91–452, title II, §201(a), Oct. 15, 1970, 84 Stat. 926; amended Pub. L. 95–405, §25, Sept. 30, 1978, 92 Stat. 877; Pub. L. 95–598, title III, §314(<i>l</i>), Nov. 6, 1978, 92 Stat. 2678; Pub. L. 96–417, title VI, §601(1), Oct. 10, 1980, 94 Stat. 1744; Pub. L. 97–164, title I, §164(1), Apr. 2, 1982, 96 Stat. 50; Pub. L. 102–550, title XV, §1543, Oct. 28, 1992, 106 Stat. 4069; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 103–272, §4(d), July 5, 1994, 108 Stat. 1361; Pub. L. 103–322, title XXXIII, §330013(2), (3), Sept. 13, 1994, 108 Stat. 2146; Pub. L. 103–337, div. A, title IX, §924(d)(1)(B), Oct. 5, 1994, 108 Stat. 2832.)
+(Added Pub. L. 91–452, title II, §201(a), Oct. 15, 1970, 84 Stat. 926; amended Pub. L. 95–405, §25, Sept. 30, 1978, 92 Stat. 877; Pub. L. 95–598, title III, §314(<i>l</i>), Nov. 6, 1978, 92 Stat. 2678; Pub. L. 96–417, title VI, §601(1), Oct. 10, 1980, 94 Stat. 1744; Pub. L. 97–164, title I, §164(1), Apr. 2, 1982, 96 Stat. 50; Pub. L. 102–550, title XV, §1543, Oct. 28, 1992, 106 Stat. 4069; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 103–272, §4(d), July 5, 1994, 108 Stat. 1361; Pub. L. 103–322, title XXXIII, §330013(2), (3), Sept. 13, 1994, 108 Stat. 2146; Pub. L. 103–337, div. A, title IX, §924(d)(1)(B), Oct. 5, 1994, 108 Stat. 2832; Pub. L. 104–88, title III, §303(2), Dec. 29, 1995, 109 Stat. 943.)
 
 #### Amendments
+
+1995—Par. (1). Pub. L. 104–88 substituted “Surface Transportation Board” for “Interstate Commerce Commission”.
 
 1994—Pub. L. 103–322, §330013(3), substituted “chapter” for “part” in introductory provisions.
 
@@ -33,6 +35,10 @@ Par. (4). Pub. L. 102–572 substituted “United States Court of Federal Claims
 1978—Par. (1). Pub. L. 95–405 inserted “the Commodity Futures Trading Commission,” after “Civil Aeronautics Board,”.
 
 Par. (4). Pub. L. 95–598 inserted “a United States bankruptcy court established under chapter 6, title 28, United States Code,” after “title 28, United States Code,”.
+
+#### Effective Date of 1995 Amendment
+
+Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 701 of Title 49, Transportation.
 
 #### Effective Date of 1992 Amendment
 
@@ -58,7 +64,7 @@ Section 260 of Pub. L. 91–452 provided that: “The provisions of part V of ti
 
 #### Savings Provision
 
-Amendment by section 314 of Pub. L. 95–598 not to affect the application of chapter 9 (§151 et seq.), chapter96 (§1961 et seq.), or section 2516, 3057, or 3284 of this title to any act of any person (1) committed before Oct. 1, 1979, or (2) committed after Oct. 1, 1979, in connection with a case commenced before such date, see section 403(d) of Pub. L. 95–598, set out as a note preceding section 101 of Title 11, Bankruptcy.
+Amendment by section 314 of Pub. L. 95–598 not to affect the application of chapter 9 (§151 et seq.), chapter 96 (§1961 et seq.), or section 2516, 3057, or 3284 of this title to any act of any person (1) committed before Oct. 1, 1979, or (2) committed after Oct. 1, 1979, in connection with a case commenced before such date, see section 403(d) of Pub. L. 95–598, set out as a note preceding section 101 of Title 11, Bankruptcy.
 
 #### Amendment or Repeal of Inconsistent Provisions
 

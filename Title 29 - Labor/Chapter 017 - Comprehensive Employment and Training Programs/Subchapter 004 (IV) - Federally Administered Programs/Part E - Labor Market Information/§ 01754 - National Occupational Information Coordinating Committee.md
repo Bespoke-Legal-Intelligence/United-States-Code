@@ -28,7 +28,7 @@ In addition to its responsibilities under the Carl D. Perkins Vocational Educati
 
 #### (c) Funds available from other programs
 
-All funds available to the National Occupational Information Coordinating Committee under this chapter, under section 422 of the Carl D. Perkins Vocational Education Act \[20 U.S.C. 2422\], and under section 12 of the Career Education Act \[20 U.S.C. 2611\] <sup>3</sup> may be used by theCommittee to carry out any of its functions and responsibilities authorized by law.
+All funds available to the National Occupational Information Coordinating Committee under this chapter, under section 422 of the Carl D. Perkins Vocational Education Act \[20 U.S.C. 2422\], and under section 12 of the Career Education Act \[20 U.S.C. 2611\] <sup>3</sup> may be used by the Committee to carry out any of its functions and responsibilities authorized by law.
 
 (Pub. L. 97–300, title IV, §464, Oct. 13, 1982, 96 Stat. 1385; Pub. L. 97–404, §4(e), Dec. 31, 1982, 96 Stat. 2027; Pub. L. 98–524, §4(a)(6)(B), (C), (E), Oct. 19, 1984, 98 Stat. 2488; Pub. L. 102–367, title IV, §405(c), Sept. 7, 1992, 106 Stat. 1085.)
 

@@ -14,7 +14,7 @@ Stay of Judicial Proceedings.—Any civil action brought under section 1009 agai
 
 (d)
 
-Arbitration Proceeding.—The Arbitration Panel shall conduct an arbitration proceeding with respect to the matter concerned, in accordance with such procedures as it may adopt. The Panel shall act on the basis of a fully documented written record. Any party to the arbitration may submit relevant information and proposals to the Panel. The parties to the proceeding shall bear the entire cost thereof in such manner and proportion as the Panel shall direct.
+Arbitration Proceeding.—The Arbitration Panel shall conduct an arbitration proceedingwith respect to the matter concerned, in accordance with such procedures as it may adopt. The Panel shall act on the basis of a fully documented written record. Any party to the arbitration may submit relevant information and proposals to the Panel. The parties to the proceeding shall bear the entire cost thereof in such manner and proportion as the Panel shall direct.
 
 (e)
 

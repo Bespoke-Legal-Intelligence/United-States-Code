@@ -40,7 +40,7 @@ The new Council shall be composed of—
 
 &emsp;(1) a majority of members who are—
 
-&emsp;&emsp;(A) individuals who are family members of children with disabilities, are eligible for family support, and represent the diversity of families within the State, including those families from unserved and underserved populations; and
+&emsp;&emsp;(A) individuals who are family members of children with disabilities, are eligible forfamily support, and represent the diversity of families within the State, including those families from unserved and underserved populations; and
 
 &emsp;&emsp;(B) children with disabilities, from age 18 to 21, and are representative of the demographics of the State;
 

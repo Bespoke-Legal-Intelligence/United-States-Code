@@ -1,6 +1,6 @@
 ### §393. Sale of pathological and zoological specimens; disposition of moneys
 
-The Secretary of Agriculture is authorized to prepare and sell at cost such pathological and zoological specimens as he may deem of scientific or educational value to scientists or others engaged in the work of hygiene and sanitation: <i>Provided,</i> That all moneys received from the sale of such specimens shall be deposited in the Treasury as miscellaneous receipts.
+The Secretary of Agriculture is authorized to prepare and sell at cost such pathological and zoological specimens as he may deem of scientific or educational value to scientists or others engaged in the work of hygiene and sanitation: <i>Provided</i>, That all moneys received from the sale of such specimens shall be deposited in the Treasury as miscellaneous receipts.
 
 (Mar. 4, 1913, ch. 145, §1 \[part\], 37 Stat. 833.)
 

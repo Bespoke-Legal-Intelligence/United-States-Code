@@ -1,12 +1,8 @@
 ### §10d. Clarification of Congressional intent regarding sections 10a and 10b(a)
 
-In order to clarify the original intent of Congress, hereafter, section 10a of this title and that part of section 10b(a) of this title preceding the words <i>“Provided, however,”</i> shall be regarded as requiring the purchase, for public use within the United States, of articles, materials, or supplies manufactured in the United States in sufficient and reasonably available commercial quantities and of a satisfactory quality, unless the head of the Federal agency concerned shall determine their purchase to be inconsistent with the public interest or their cost to be unreasonable.
+In order to clarify the original intent of Congress, hereafter, section 10a of this title and that part of section 10b(a) of this title preceding the words <i>“Provided, however</i>,” shall be regarded as requiring the purchase, for public use within the United States, of articles, materials, or supplies manufactured in the United States in sufficient and reasonably available commercial quantities and of a satisfactory quality, unless the head of the department or independent establishment concerned shall determine their purchase to be inconsistent with the public interest or their cost to be unreasonable.
 
 (Oct. 29, 1949, ch. 787, title VI, §633, 63 Stat. 1024; Aug. 23, 1988, Pub. L. 100–418, title VII, §7005(d), 102 Stat. 1553.)
-
-#### Amendment of Section
-
-<i>For termination of amendment by section 7004 of Pub. L. 100–418, see Termination Date of 1988 Amendment note below.</i>
 
 #### Amendments
 
@@ -14,7 +10,7 @@ In order to clarify the original intent of Congress, hereafter, section 10a of t
 
 #### Termination Date of 1988 Amendment
 
-Amendment by Pub. L. 100–418 to cease to be effective on Apr. 30, 1996, unless Congress, after reviewing report required by section 2515(k) of Title 19, Customs Duties, extends such date, see section 7004 of Pub. L. 100–418, set out as an Effective and Termination Dates of 1988 Amendment note under section 10a of this title.
+Amendment by Pub. L. 100–418 to cease to be effective on Apr. 30, 1996, unless Congress, after reviewing report required by former section 2515(k) of Title 19, Customs Duties, extends such date, see section 7004 of Pub. L. 100–418, set out as an Effective and Termination Dates of 1988 Amendment note under section 10a of this title.
 
 #### Ex. Ord. No. 10582. Uniform Procedures for Determinations
 
@@ -24,7 +20,7 @@ Section 1. As used in this order, (a) the term “materials” includes articles
 
 Sec. 2. (a) For the purposes of this order materials shall be considered to be of foreign origin if the cost of the foreign products used in such materials constitutes fifty per centum or more of the cost of all the products used in such materials.
 
-(b) For the purposes of the said act of March 3, 1933 \[41 U.S.C. 10a to 10c\], and the other laws referred to in the first paragraph of the preamble of this order, the bid or offered price of materials of domestic origin shall be deemed to be unreasonable, or the purchase of such materials shall be deemed to be inconsistent with the public interest, if the bid or offered price thereof exceeds the sum of the bid or offered price of like materials of foreign origin and a differential computed as provided in subsection (c) of this section.
+(b) For the purposes of the said act of March 3, 1933 \[see Tables for classification\], and the other laws referred to in the first paragraph of the preamble of this order, the bid or offered price of materials of domestic origin shall be deemed to be unreasonable, or the purchase of such materials shall be deemed to be inconsistent with the public interest, if the bid or offered price thereof exceeds the sum of the bid or offered price of like materials of foreign origin and a differential computed as provided in subsection (c) of this section.
 
 (c) The executive agency concerned shall in each instance determine the amount of the differential referred to in subsection (b) of this section on the basis of one of the following-described formulas, subject to the terms thereof:
 

@@ -28,7 +28,7 @@ Section 701(b), (c) of title VII of Pub. L. 98–623 provided:
 
 “(b) Section 3102 of title 46, United States Code (as added by subsection (a) of this section), does not limit the authority of the Secretary of the department in which the Coast Guard is operating to prescribe regulations requiring exposure suits on vessels not required by section 3102 to have exposure suits.
 
-“(c) The regulations prescribed under section 3102 of title 46, United States Code (as added by subsection (a)of this section), shall be effective not later than 60 days after the date of enactment of this title \[Nov. 8, 1984\].” \[Regulations effective Dec. 30, 1984, see 49 F.R. 50722, Dec. 31, 1984.\]
+“(c) The regulations prescribed under section 3102 of title 46, United States Code (as added by subsection (a) of this section), shall be effective not later than 60 days after the date of enactment of this title \[Nov. 8, 1984\].” \[Regulations effective Dec. 30, 1984, see 49 F.R. 50722, Dec. 31, 1984.\]
 
 Similar provisions were contained in section 22(b), (c) of Pub. L. 98–557, which was repealed by section 2 of Pub. L. 99–36, set out above as a Repeal of Duplicate Section note.
 

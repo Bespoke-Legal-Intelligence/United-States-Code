@@ -10,7 +10,7 @@ If—
 
 &emsp;&emsp;(B) fail to consider and take into account traditional fishing practices of vessels of the United States,
 
-&emsp;&emsp;(C) are greater or more onerous than the conditions and restrictions which the United States applies to foreign fishing vessels subject to the exclusive fishery management authority of the United States (as established in title I of the Magnuson Fishery Conservation and Management Act \[16 U.S.C. 1811 et seq.\]), or
+&emsp;&emsp;(C) are greater or more onerous than the conditions and restrictions which the United States applies to foreign fishing vessels subject to the exclusive fishery management authority of the United States (as established in title I of the Magnuson-Stevens Fishery Conservation and Management Act \[16 U.S.C. 1811 et seq.\]), or
 
 &emsp;&emsp;(D) fail to allow fishing vessels of the United States equitable access to fish subject to such country's exclusive fishery management authority;
 
@@ -22,13 +22,15 @@ If—
 
 &emsp;(iii) to determine the amount of any fine, license, fee, registration fee, or other direct charge reimbursable under section 1973(a) of this title.
 
-(Aug. 27, 1954, ch. 1018, §2, 68 Stat. 883; Oct. 26, 1972, Pub. L. 92–569, §1, 86 Stat. 1182; Apr. 13, 1976, Pub. L. 94–265, title IV, §403(a)(1), 90 Stat. 360; Dec. 22, 1980, Pub. L. 96–561, title II, §238(b), 94 Stat. 3300; July 17, 1984, Pub. L. 98–364, title III, §303(a), 98 Stat. 444.)
+(Aug. 27, 1954, ch. 1018, §2, 68 Stat. 883; Oct. 26, 1972, Pub. L. 92–569, §1, 86 Stat. 1182; Apr. 13, 1976, Pub. L. 94–265, title IV, §403(a)(1), 90 Stat. 360; Dec. 22, 1980, Pub. L. 96–561, title II, §238(b), 94 Stat. 3300; July 17, 1984, Pub. L. 98–364, title III, §303(a), 98 Stat. 444; Sept. 30, 1996, Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], 110 Stat. 3009, 3009–41.)
 
 #### References in Text
 
-The Magnuson Fishery Conservation and Management Act, referred to in par. (2)(C), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended. Title I of the Act is classified generally to subchapter II (§1811 et seq.) of chapter 38 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 16 and Tables.
+The Magnuson-Stevens Fishery Conservation and Management Act, referred to in par. (2)(C), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended. Title I of the Act is classified generally to subchapter II (§1811 et seq.) of chapter 38 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 16 and Tables.
 
 #### Amendments
+
+1996—Par. (2)(C). Pub. L. 104–208 substituted “Magnuson-Stevens Fishery” for “Magnuson Fishery”.
 
 1984—Pub. L. 98–364, in par. (1), substituted “any vessel of the United States is seized by a foreign country on the basis of claims to jurisdiction that are not recognized by the United States, or on the basis of claims to jurisdiction recognized by the United States but exercised in a manner inconsistent with international law as recognized by the United States;” for “any vessel of the United States is seized by a foreign country on the basis of claims in territorial waters or the high seas which are not recognized by the United States; or”, and in provisions following par. (2)(D), substituted “the Secretary of State, unless there is clear and convincing credible evidence that the seizure did not meet the requirements under paragraph (1) or (2), as the case may be, shall immediately take such steps as are necessary” for “and there is no dispute as to the material facts with respect to the location or activity of such vessel at the time of such seizure, the Secretary of State shall immediately take such steps as are necessary”.
 
@@ -38,17 +40,21 @@ The Magnuson Fishery Conservation and Management Act, referred to in par. (2)(C)
 
 1972—Subsec. (b). Pub. L. 92–569 required the Secretary of State to take appropriate action to immediately ascertain the fees, fines, and other direct charges paid by a United States vessel owner to the seizing foreign country for the release of the vessel and its crew.
 
+#### Effective Date of 1996 Amendment
+
+Section 101(a) \[title II, §211(b)\] of div. A of Pub. L. 104–208 provided that the amendment made by that section is effective 15 days after Oct. 11, 1996.
+
 #### Effective Date of 1984 Amendment
 
 Section 303(c) of Pub. L. 98–364 provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 1974 of this title\] apply with respect to seizures made after April 1, 1983, by foreign countries of vessels of the United States.”
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96–561 effective 15 days after Dec. 22, 1980, see section 238 of Pub. L. 96–561, set out as a Short Title note under section 1801 of Title 16, Conservation.
+Section 238(b) of Pub. L. 96–561 provided that the amendment made by that section is effective 15 days after Dec. 22, 1980.
 
 #### Effective Date of 1976 Amendment
 
-Section 403(b) of Pub. L. 94–265 provided in part that: “The amendment made by subsection (a)(1) \[amending this section\] shall take effect March 1, 1977.”
+Section 403(b) of Pub. L. 94–265 provided in part that the amendment made by section 403(a)(1) of Pub. L. 94–265 to this section was to take effect Mar. 1, 1977, prior to the general amendment of title IV of Pub. L. 94–265 by Pub. L. 104–297.
 
 #### Effective Date of 1972 Amendment
 

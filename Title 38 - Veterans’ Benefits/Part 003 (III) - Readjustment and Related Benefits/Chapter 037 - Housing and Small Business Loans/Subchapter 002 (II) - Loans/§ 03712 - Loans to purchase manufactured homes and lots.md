@@ -162,7 +162,7 @@
 
 #### Amendments
 
-1995—Subsecs. (<i>l</i>), (m). Pub. L. 104–66 redesignated subsec. (m) as (<i>l</i>) and struck out former subsec. (<i>l</i>) which read as follows: “The Secretary's annual report to Congress shall include a report on operations under this section, including experience with compliance with the warranty required by subsection (i) and the experience regarding defaults and foreclosures.”
+1995—Subsecs. (<i>l</i>), (m). Pub. L. 104–66 redesignated subsec. (m) as (<i>l</i>) and struck out former subsec. (<i>l</i>) which read as follows: “The Secretary's annual reportto Congress shall include a report on operations under this section, including experience with compliance with the warranty required by subsection (i) and the experience regarding defaults and foreclosures.”
 
 1994—Subsec. (c)(3)(D). Pub. L. 103–446, §1201(e)(14)(A)(i), inserted “of” after “subparagraph (B)” in introductory provisions.
 
@@ -240,7 +240,7 @@ Subsec. (a)(5)(A)(i). Pub. L. 100–198, §8(b)(1), inserted “(except as provi
 
 Subsec. (c)(3). Pub. L. 100–198, §3(b)(1), amended first sentence generally. Prior to amendment, first sentence read as follows: “The Administrator's guaranty may not exceed the lesser of 50 per centum of the loan amount or the maximum loan guaranty entitlement available, not to exceed $20,000.”
 
-Subsec. (c)(4). Pub. L. 100–198, §3(b)(2), amended first sentence generally. Prior to amendment, first sentence read as follows: “The amount of guaranty entitlement available to a veteran under this section shall not be more than $20,000, less the amount of any such entitlement as may have been used under this section.”
+Subsec. (c)(4). Pub. L. 100–198, §3(b)(2), amended first sentence generally. Prior to amendment, first sentenceread as follows: “The amount of guaranty entitlement available to a veteran under this section shall not be more than $20,000, less the amount of any such entitlement as may have been used under this section.”
 
 Subsec. (e)(5). Pub. L. 100–198, §8(b)(2), inserted before semicolon at end “; except that the requirement of this clause shall not apply (A) in the case of a guaranteed loan that is for the purpose described in paragraph (1)(F) of subsection (a), or (B) in the case described in section 1804(c)(2)”.
 
@@ -272,7 +272,7 @@ Subsec. (m). Pub. L. 97–306, §406(c)(2)(A), substituted “manufactured” fo
 
 Subsec. (b)(2). Pub. L. 97–72, §303(i), substituted “housing loan benefits” for “loan guaranty benefits”.
 
-Subsec. (d)(1). Pub. L. 97–66 increased from 15 years, 32 days to 20 years, 32 days the allowable maturity ofa loan for purchase of a single-wide mobile home or a single-wide mobile home and a lot, from 20 years, 32 days to 23 years, 32 days the allowable maturity of a loan for purchase of a double-wide mobile home, and from 20 years, 32 days to 25 years, 32 days the allowable maturity of a loan for purchase of a double-wide mobile home and a lot.
+Subsec. (d)(1). Pub. L. 97–66 increased from 15 years, 32 days to 20 years, 32 days the allowable maturity of a loan for purchase of a single-wide mobile home or a single-wide mobile home and a lot, from 20 years, 32 days to 23 years, 32 days the allowable maturity of a loan for purchase of a double-wide mobile home, and from 20 years, 32 days to 25 years, 32 days the allowable maturity of a loan for purchase of a double-wide mobile home and a lot.
 
 1980—Subsec. (a)(1)(F). Pub. L. 96–385, §401(b)(1), added cl. (F).
 
@@ -310,7 +310,7 @@ Subsec. (k). Pub. L. 95–476, §107(e), redesignated subsec. (<i>l</i>) as (k).
 
 Subsec. (<i>l</i>). Pub. L. 95–476, §107(e), (g), redesignated subsec. (m) as (<i>l</i>) and substituted “subsection (h)” and “subsection (i)” for “subsection (i)” and “subsection (j)”, respectively. Former subsec. (<i>l</i>) redesignated (k).
 
-Subsecs. (m), (n). Pub. L. 95–476, §107(e), redesignated subsec. (n) as (m). Former subsec. (m) redesignated (<i>l).</i>
+Subsecs. (m), (n). Pub. L. 95–476, §107(e), redesignated subsec. (n) as (m). Former subsec. (m) redesignated (<i>l</i>).
 
 1976—Subsec. (c)(1). Pub. L. 94–324, §7(20), substituted “the Administrator determines” for “he determines”.
 

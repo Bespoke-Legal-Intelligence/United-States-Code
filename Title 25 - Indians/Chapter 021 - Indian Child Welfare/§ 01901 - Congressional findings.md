@@ -10,7 +10,7 @@ Recognizing the special relationship between the United States and the Indian tr
 
 &emsp;(4) that an alarmingly high percentage of Indian families are broken up by the removal, often unwarranted, of their children from them by nontribal public and private agencies and that an alarmingly high percentage of such children are placed in non-Indian foster and adoptive homes and institutions; and
 
-&emsp;(5) that the States, exercising their recognized jurisdiction over Indian child custody proceedings through administrative and judicial bodies, have often failed to recognize theessential tribal relations of Indian people and the cultural and social standards prevailing in Indian communities and families.
+&emsp;(5) that the States, exercising their recognized jurisdiction over Indian child custody proceedings through administrative and judicial bodies, have often failed to recognize the essential tribal relations of Indian people and the cultural and social standards prevailing in Indian communities and families.
 
 (Pub. L. 95–608, §2, Nov. 8, 1978, 92 Stat. 3069.)
 

@@ -26,5 +26,5 @@ The Trading With the Enemy Act, referred to in subsecs. (a) and (d), is act Oct.
 
 #### Codification
 
-Section is comprised of section 1710 of Pub. L. 102–484. Subsec. (c) of section 1710 of Pub. L. 102–484 amendedsection 16 of the Appendix to Title 50, War and National Defense.
+Section is comprised of section 1710 of Pub. L. 102–484. Subsec. (c) of section 1710 of Pub. L. 102–484 amended section 16 of the Appendix to Title 50, War and National Defense.
 

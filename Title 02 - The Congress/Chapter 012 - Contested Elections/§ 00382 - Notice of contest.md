@@ -2,7 +2,7 @@
 
 #### (a) Filing of notice
 
-Whoever, having been a candidate for election to the House of Representatives in the last preceding election and claiming a right to such office, intends to contest the election of a Member of the House of Representatives, shall, within thirty days after the result of such election shall have been declared by the officer of Board of Canvassers authorized by law to declare such result, file with the Clerk and serve upon the contestee written notice of his intention to contest such election.
+Whoever, having been a candidate for election in the last preceding election and claiming a right to such office, intends to contest the election of a Member of the House of Representatives, shall, within thirty days after the result of such election shall have been declared by the officer of Board of Canvassers authorized by law to declare such result, file with the Clerk and serve upon the contestee written notice of his intention to contest such election.
 
 #### (b) Contents and form of notice
 
@@ -18,17 +18,21 @@ Service of the notice of contest upon contestee shall be made as follows:
 
 &emsp;(3) by leaving a copy at his principal office or place of business with some person then in charge thereof;
 
-&emsp;(4) by delivering a copy to an agent authorized by appointment to receive service of such notice; or <sup>1</sup>
+&emsp;(4) by delivering a copy to an agent authorized by appointment to receive service of such notice;
 
-&emsp;(5) by mailing a copy by registered or certified mail addressed to contestee at his residence or principal office or place of business. Service by mail is complete upon mailing; <sup>1</sup>
+&emsp;(5) by mailing a copy by registered or certified mail addressed to contestee at his residence or principal office or place of business. Service by mail is complete upon mailing; or
 
 &emsp;(6) the verified return by the person so serving such notice, setting forth the time and manner of such service shall be proof of same, and the return post office receipt shall be proof of the service of said notice mailed by registered or certified mail as aforesaid. Proof of service shall be made to the Clerk promptly and in any event within the time during which the contestee must answer the notice of contest. Failure to make proof of service does not affect the validity of the service.
 
-(Pub. L. 91–138, §3, Dec. 5, 1969, 83 Stat. 284.)
+(Pub. L. 91–138, §3, Dec. 5, 1969, 83 Stat. 284; Pub. L. 104–186, title II, §211(3), Aug. 20, 1996, 110 Stat. 1744.)
+
+#### Amendments
+
+1996—Subsec. (a). Pub. L. 104–186, §211(3)(A), struck out “to the House of Representatives” after “for election”.
+
+Subsec. (c)(4), (5). Pub. L. 104–186, §211(3)(B), struck out “or” at end of par. (4) and inserted “or” at end of par. (5).
 
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 383, 394 of this title.
-
-<i><sup>1</sup></i><i> So in original. The “or” at the end of cl. (4) probably should appear at the end of cl. (5).</i>
 

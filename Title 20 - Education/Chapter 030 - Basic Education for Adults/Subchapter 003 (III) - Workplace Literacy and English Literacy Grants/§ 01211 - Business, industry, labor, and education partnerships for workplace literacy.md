@@ -84,7 +84,7 @@
 
 (7)(A) The Federal share of expenditures for programs in a State funded under this subsection shall be paid from a State's allotment under this paragraph.
 
-(B) From the sum appropriated for each fiscal year under subsection (c) of this section for anyfiscal year in which appropriations equal or exceed $50,000,000, the Secretary shall allot to each State (as defined in section 1201a(7) of this title) an amount proportionate to the amount such State receives under section 1201b of this title.
+(B) From the sum appropriated for each fiscal year under subsection (c) of this section for any fiscal year in which appropriations equal or exceed $50,000,000, the Secretary shall allot to each State (as defined in section 1201a(7) of this title) an amount proportionate to the amount such State receives under section 1201b of this title.
 
 (C) At the end of each fiscal year, the portion of any State's allotment for that fiscal year which—
 
@@ -164,7 +164,7 @@ The Secretary shall reserve not more than 2 percent of any amount appropriated p
 
 #### References in Text
 
-Section 306(a), referred to in subsec. (b)(3)(B), probably means section 306(a) of Pub. L. 89–750, title III,Nov. 3, 1966, 80 Stat. 1218, as amended, which was classified to section 1205 of this title prior to the general revision of this chapter by Pub. L. 100–297. See sections 1206 to 1206b of this title.
+Section 306(a), referred to in subsec. (b)(3)(B), probably means section 306(a) of Pub. L. 89–750, title III, Nov. 3, 1966, 80 Stat. 1218, as amended, which was classified to section 1205 of this title prior to the general revision of this chapter by Pub. L. 100–297. See sections 1206 to 1206b of this title.
 
 This Act, referred to in subsecs. (c)(1) and (e)(2), means Pub. L. 89–750, Nov. 3, 1966, 80 Stat. 1191, as amended, known as the Elementary and Secondary Education Amendments of 1966. Title III of the Act, known as the Adult Education Act, is classified to this chapter. For complete classification of this Act to the Code, see Short Title of 1966 Amendment note set out under section 6301 of this title and Tables.
 

@@ -10,7 +10,7 @@ As used in this chapter—
 
 &emsp;(4) “intercept” means the aural or other acquisition of the contents of any wire, electronic, or oral communication through the use of any electronic, mechanical, or other device.
 
-&emsp;(5) “electronic, mechanical, or other device” means any device or apparatus which can beused to intercept a wire, oral, or electronic communication other than—
+&emsp;(5) “electronic, mechanical, or other device” means any device or apparatus which can be used to intercept a wire, oral, or electronic communication other than—
 
 &emsp;&emsp;(a) any telephone or telegraph instrument, equipment or facility, or any component thereof, (i) furnished to the subscriber or user by a provider of wire or electronic communication service in the ordinary course of its business and being used by the subscriber or user in the ordinary course of its business or furnished by such subscriber or user for connection to the facilities of such service and used in the ordinary course of its business; or (ii) being used by a provider of wire or electronic communication service in the ordinary course of its business, or by an investigative or law enforcement officer in the ordinary course of his duties;
 
@@ -28,7 +28,7 @@ As used in this chapter—
 
 &emsp;&emsp;(b) a judge of any court of general criminal jurisdiction of a State who is authorized by a statute of that State to enter orders authorizing interceptions of wire, oral, or electronic communications;
 
-&emsp;(10) “communication common carrier” shall have the same meaning which is given the term “common carrier” by section 153(h) of title 47 of the United States Code;
+&emsp;(10) “communication common carrier” shall have the same meaning which is given the term “common carrier” by section 153(h) <sup>1</sup> of title 47 of the United States Code;
 
 &emsp;(11) “aggrieved person” means a person who was a party to any intercepted wire, oral, or electronic communication or a person against whom the interception was directed;
 
@@ -36,9 +36,11 @@ As used in this chapter—
 
 &emsp;&emsp;(A) any wire or oral communication;
 
-&emsp;&emsp;(B) any communication made through a tone-only paging device; or
+&emsp;&emsp;(B) any communication made through a tone-only paging device;
 
-&emsp;&emsp;(C) any communication from a tracking device (as defined in section 3117 of this title);
+&emsp;&emsp;(C) any communication from a tracking device (as defined in section 3117 of this title); or
+
+&emsp;&emsp;(D) electronic funds transfer information stored by a financial institution in a communications system used for the electronic storage and transfer of funds;
 
 &emsp;(13) “user” means any person or entity who—
 
@@ -54,15 +56,13 @@ As used in this chapter—
 
 &emsp;&emsp;(A) scrambled or encrypted;
 
-&emsp;&emsp;(B) transmitted using modulation techniques whose essential parameters have been withheld from the public with the intention of preserving the privacy of such communication;
+&emsp;&emsp;(B) transmitted using modulation techniques whose essential parameters have beenwithheld from the public with the intention of preserving the privacy of such communication;
 
 &emsp;&emsp;(C) carried on a subcarrier or other signal subsidiary to a radio transmission;
 
-&emsp;&emsp;(D) transmitted over a communication system provided by a common carrier, unless the communication is a tone only paging system communication;
+&emsp;&emsp;(D) transmitted over a communication system provided by a common carrier, unless the communication is a tone only paging system communication; or
 
-&emsp;&emsp;(E) transmitted on frequencies allocated under part 25, subpart D, E, or F of part 74, or part 94 of the Rules of the Federal Communications Commission, unless, in the case of a communication transmitted on a frequency allocated under part 74 that is not exclusively allocated to broadcast auxiliary services, the communication is a two-way voice communication by radio; or
-
-&emsp;&emsp;(F) an electronic communication;
+&emsp;&emsp;(E) transmitted on frequencies allocated under part 25, subpart D, E, or F of part 74, or part 94 of the Rules of the Federal Communications Commission, unless, in the case of a communication transmitted on a frequency allocated under part 74 that is not exclusively allocated to broadcast auxiliary services, the communication is a two-way voice communication by radio;
 
 &emsp;(17) “electronic storage” means—
 
@@ -72,9 +72,17 @@ As used in this chapter—
 
 &emsp;(18) “aural transfer” means a transfer containing the human voice at any point between and including the point of origin and the point of reception.
 
-(Added Pub. L. 90–351, title III, §802, June 19, 1968, 82 Stat. 212; amended Pub. L. 99–508, title I, §101(a), (c)(1)(A), (4), Oct. 21, 1986, 100 Stat. 1848, 1851; Pub. L. 103–414, title II, §§202(a), 203, Oct. 25, 1994, 108 Stat. 4290, 4291.)
+(Added Pub. L. 90–351, title III, §802, June 19, 1968, 82 Stat. 212; amended Pub. L. 99–508, title I, §101(a), (c)(1)(A), (4), Oct. 21, 1986, 100 Stat. 1848, 1851; Pub. L. 103–414, title II, §§202(a), 203, Oct. 25, 1994, 108 Stat. 4290, 4291; Pub. L. 104–132, title VII, §731, Apr. 24, 1996, 110 Stat. 1303.)
+
+#### References in Text
+
+Section 153 of title 47, referred to in par. (10), was subsequently amended, and section 153(h) no longer defines “common carrier”. However, such term is defined elsewhere in that section.
 
 #### Amendments
+
+1996—Par. (12)(D). Pub. L. 104–132, §731(1), added subpar. (D).
+
+Par. (16)(F). Pub. L. 104–132, §731(2), struck out subpar. (F) which read as follows: “an electronic communication;”.
 
 1994—Par. (1). Pub. L. 103–414, §202(a)(1), struck out before semicolon at end “, but such term does not include the radio portion of a cordless telephone communication that is transmitted between the cordless telephone handset and the base unit”.
 
@@ -132,7 +140,7 @@ In General.—Nothing in this Act or the amendments made by this Act \[see Short
 
 Certain Activities Under Procedures Approved by the Attorney General.—Nothing in chapter 119 or chapter 121 of title 18, United States Code, shall affect the conduct, by officers or employees of the United States Government in accordance with other applicable Federal law, under procedures approved by the Attorney General of activities intended to—
 
-&emsp;“(1) intercept encrypted or other official communications of United States executive branch entities or United States Government contractors for communications security purposes;
+&emsp;“(1) intercept encrypted or other official communications of United States executive branch entitiesor United States Government contractors for communications security purposes;
 
 &emsp;“(2) intercept radio communications transmitted between or among foreign powers or agents of a foreign power as defined by the Foreign Intelligence Surveillance Act of 1978 \[50 U.S.C. 1801 et seq.\]; or
 
@@ -152,9 +160,11 @@ Section 801 of Pub. L. 90–351 provided that: “On the basis of its own invest
 
 #### National Commission for the Review of Federal and State Laws Relating to Wiretapping and Electronic Surveillance
 
-Section 804 of Pub. L. 90–351, as amended by Pub. L. 91–452, title XII, §1212, Oct. 15, 1970, 84 Stat. 961; Pub. L. 91–644, title VI, §20, Jan. 2, 1971, 84 Stat. 1892; Pub. L.93–609, §§1–4, Jan. 2, 1975, 88 Stat. 1972, 1973; Pub. L. 94–176, Dec. 23, 1975, 89 Stat. 1031, established a National Commission for the Review of Federal and State Laws Relating to Wiretapping and Electronic Surveillance, provided for its membership, Chairman, powers and functions, compensation and allowances, required the Commission to study and review the operation of the provisions of this chapter to determine their effectiveness and to submit interim reports and a final report to the President and to the Congress of its findings and recommendations on or before Apr. 30, 1976, and also provided for its termination sixty days after submission of the final report.
+Section 804 of Pub. L. 90–351, as amended by Pub. L. 91–452, title XII, §1212, Oct. 15, 1970, 84 Stat. 961; Pub. L. 91–644, title VI, §20, Jan. 2, 1971, 84 Stat. 1892; Pub. L. 93–609, §§1–4, Jan. 2, 1975, 88 Stat. 1972, 1973; Pub. L. 94–176, Dec. 23, 1975, 89 Stat. 1031, established a National Commission for the Review of Federal and State Laws Relating to Wiretapping and Electronic Surveillance, provided for its membership, Chairman, powers and functions, compensation and allowances, required the Commission to study and review the operation of the provisions of this chapter to determine their effectiveness and to submit interim reports and a final report to the President and to the Congress of its findings and recommendations on or before Apr. 30, 1976, and also provided for its termination sixty days after submission of the final report.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2711, 3127, 3504 of this title; title 15 section 1114.
+This section is referred to in sections 2711, 3127, 3504 of this title; title 15 section 1114; title 47 section 1001.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

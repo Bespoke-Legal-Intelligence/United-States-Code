@@ -16,7 +16,9 @@ Relationship to Other Limitations.—Sections 5303–5305 of this title do not a
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -24,7 +26,7 @@ Historical and Revision Notes
 
 5306(a)
 
-49 App.:1607(<i>o).</i>
+49 App.:1607(<i>o</i>).
 
 July 9, 1964, Pub. L. 88–365, 78 Stat. 302, §8(<i>o</i>); added Nov. 6, 1978, Pub. L. 95–599, §305(b), 92 Stat. 2743; Apr. 2, 1987, Pub. L. 100–17, §310, 101 Stat. 227; restated Dec. 18, 1991, Pub. L. 102–240, §3012, 105 Stat. 2105.
 
@@ -38,5 +40,5 @@ In subsection (a), the words “(through modernization, extension, addition, or 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 5303, 5304, 5305, 5307, 5309, 5313, 5314, 5315, 5323, 5338 of this title; title 23 section 134.
+This section is referred to in sections 5303, 5304, 5305, 5307, 5309, 5313, 5314, 5323, 5338 of this title; title 23 section 134.
 

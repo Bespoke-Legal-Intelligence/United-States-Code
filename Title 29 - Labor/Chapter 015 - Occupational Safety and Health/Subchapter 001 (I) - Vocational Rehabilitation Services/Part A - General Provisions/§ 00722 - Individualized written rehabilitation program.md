@@ -10,7 +10,7 @@
 
 (2) An individual who has a disability or is blind as determined pursuant to title II or title XVI of the Social Security Act (42 U.S.C. 401 et seq. and 1381 et seq.) shall be considered to have—
 
-&emsp;(A) a physical or mental impairment which for such individual constitutes or results in a substantial impediment to employment under section 706(8)(A)(i) of this title; and
+&emsp;(A) a physical or mental impairment which for such individual constitutes or results in asubstantial impediment to employment under section 706(8)(A)(i) of this title; and
 
 &emsp;(B) a severe physical or mental impairment which seriously limits one or more functional capacities in terms of an employment outcome under section 706(15)(A)(i) of this title.
 
@@ -68,7 +68,7 @@
 
 &emsp;&emsp;(I) a reassessment of the need for postemployment services and, if appropriate, extended services prior to the point of successful rehabilitation, in accordance with this subsection; and
 
-&emsp;&emsp;(II) if appropriate, the development of a statement detailing how such services shall be provided or arranged through cooperative agreements with other service providers;
+&emsp;&emsp;(II) if appropriate, the development of a statement detailing how such services shallbe provided or arranged through cooperative agreements with other service providers;
 
 &emsp;(vii) include objective criteria and an evaluation procedure and schedule for determining whether such goals and objectives are being achieved;
 
@@ -94,7 +94,7 @@
 
 (C) The designated State unit shall furnish a copy of the individualized written rehabilitation program and amendments to the program to the individual with a disability or, in an appropriate case, a parent, a family member, a guardian, an advocate, or an authorized representative, of the individual.
 
-(2) Each individualized written rehabilitation program shall be reviewed annually, at which time such individual (or, in appropriate cases, the parents or guardian of the individual) will be afforded an opportunity to review such program and jointly redevelop and agree to its terms. Any revisions or amendments to the program resulting from such review shall be incorporated into or affixed to such program. Such revisions or amendments shall not take effect until agreed to and signed by the individual with a disability, or, if appropriate, by a parent, a family member, a guardian, an advocate, or an authorized representative, of such individual. Eachindividualized written rehabilitation program shall be revised as needed.
+(2) Each individualized written rehabilitation program shall be reviewed annually, at which time such individual (or, in appropriate cases, the parents or guardian of the individual) will be afforded an opportunity to review such program and jointly redevelop and agree to its terms. Any revisions or amendments to the program resulting from such review shall be incorporated into or affixed to such program. Such revisions or amendments shall not take effect until agreed to and signed by the individual with a disability, or, if appropriate, by a parent, a family member, a guardian, an advocate, or an authorized representative, of such individual. Each individualized written rehabilitation program shall be revised as needed.
 
 #### (c) Determination and achievement of vocational goal; decision respecting potential and capability of achievement; annual review of decision
 
@@ -144,7 +144,7 @@ The Director of the designated State unit shall also ensure that (1) in making a
 
 (5) Unless the individual with a disability so requests, or, in an appropriate case, a parent, a family member, a guardian, an advocate, or an authorized representative, of such individual so requests, pending a final determination of such hearing or other final resolution under this subsection, the designated State unit shall not institute a suspension, reduction, or termination of services being provided under the individualized written rehabilitation program, unless such services have been obtained through misrepresentation, fraud, collusion, or criminal conduct on the part of the individual with a disability.
 
-(6)(A) The Director shall collect data described in subparagraph (B) and prepare and submit to the Commissioner a report containing such data. For the report submitted on or before February 1, 1988, the Commissioner shall prepare asummary of the information furnished under this paragraph and include the summary in the annual report submitted under section 712 of this title.
+(6)(A) The Director shall collect data described in subparagraph (B) and prepare and submit to the Commissioner a report containing such data. For the report submitted on or before February 1, 1988, the Commissioner shall prepare a summary of the information furnished under this paragraph and include the summary in the annual report submitted under section 712 of this title.
 
 (B) The data required to be collected under this paragraph shall include—
 
@@ -210,7 +210,7 @@ Subsec. (c). Pub. L. 99–506, §§103(d)(2)(B), 1001(b)(5)(A), substituted “i
 
 Subsec. (d)(1). Pub. L. 99–506, §1001(b)(5)(C), which directed that par. (1) be amended by substituting “delegate the responsibility” for “delegate his responsibility”, could not be executed because of prior amendment by section 203(b) of Pub. L. 99–506, see below.
 
-Pub. L. 99–506, §203(b), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The Director of any designated State unit shall establish procedures for the review of determinations made by the rehabilitation counselor or coordinator under this section, upon the request of an individual with handicaps\(or, in appropriate cases, his parents or guardians). Such procedures shall include a requirement that the final decision concerning the review of any such determination be made in writing by the Director. The Director may not delegate his responsibility to make any such final decision to any other officer or employee of the designated State unit.”
+Pub. L. 99–506, §203(b), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The Director of any designated State unit shall establish procedures for the review of determinations made by the rehabilitation counselor or coordinator under this section, upon the request of an individual with handicaps (or, in appropriate cases, his parents or guardians). Such procedures shall include a requirement that the final decision concerning the review of any such determination be made in writing by the Director. The Director may not delegate his responsibility to make any such final decision to any other officer or employee of the designated State unit.”
 
 Pub. L. 99–506, §103(d)(2)(A), substituted “an individual with handicaps” for “a handicapped individual”.
 
@@ -244,7 +244,7 @@ Subsec. (c)(1). Pub. L. 93–516, §111(e)(2), substituted “in making any dete
 
 Pub. L. 93–651, §111(e)(2), amended subsec. (c)(1) in exactly the same manner as it was amended by Pub. L. 93–516.
 
-Subsec. (c)(2). Pub. L. 93–516, §111(e)(3), substituted “program, or as a part of the specification of reasons for an ineligibility determination, as appropriate, that the preliminary diagnosis or evaluation of rehabilitation potential, as appropriate,” for “program, that the evaluation of rehabilitation potential”.
+Subsec. (c)(2). Pub. L. 93–516, §111(e)(3), substituted “program, or as a part of the specification of reasonsfor an ineligibility determination, as appropriate, that the preliminary diagnosis or evaluation of rehabilitation potential, as appropriate,” for “program, that the evaluation of rehabilitation potential”.
 
 Pub. L. 93–651, §111(e)(3), amended subsec. (c)(2) in exactly the same manner as it was amended by Pub. L. 93–516.
 

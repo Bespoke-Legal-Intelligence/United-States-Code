@@ -34,31 +34,27 @@ The Secretary shall carry out this section through agreements entered into with 
 
 &emsp;The Secretary shall select research and extension projects to be conducted under this section on the basis of—
 
-&emsp;&emsp;(A) the recommendations of the Advisory Council;
+&emsp;&emsp;(A) the relevance of the project to the purposes of this part;
 
-&emsp;&emsp;(B) the relevance of the project to the purposes of this part;
+&emsp;&emsp;(B) the appropriateness of the design of the project;
 
-&emsp;&emsp;(C) the appropriateness of the design of the project;
+&emsp;&emsp;(C) the likelihood of obtaining the objectives of the project; and
 
-&emsp;&emsp;(D) the likelihood of obtaining the objectives of the project; and
-
-&emsp;&emsp;(E) the national or regional applicability of the findings and outcomes of the proposed project.
+&emsp;&emsp;(D) the national or regional applicability of the findings and outcomes of the proposed project.
 
 #### (2) Priority
 
 &emsp;In conducting projects under this section, the Secretary shall give priority to projects that—
 
-&emsp;&emsp;(A) are recommended by the Advisory Council;
+&emsp;&emsp;(A) closely coordinate research and extension activities;
 
-&emsp;&emsp;(B) closely coordinate research and extension activities;
+&emsp;&emsp;(B) indicate the manner in which the findings of the project will be made readily usable by farmers;
 
-&emsp;&emsp;(C) indicate the manner in which the findings of the project will be made readily usable by farmers;
+&emsp;&emsp;(C) maximize the involvement and cooperation of farmers, including projects involving on-farm research and demonstration;
 
-&emsp;&emsp;(D) maximize the involvement and cooperation of farmers, including projects involving on-farm research and demonstration;
+&emsp;&emsp;(D) involve a multidisciplinary systems approach; and
 
-&emsp;&emsp;(E) involve a multidisciplinary systems approach; and
-
-&emsp;&emsp;(F) involve cooperation between farms, non-profit organizations, colleges and universities, and government agencies.
+&emsp;&emsp;(E) involve cooperation between farms, non-profit organizations, colleges and universities, and government agencies.
 
 #### (d) Diversification of research
 
@@ -96,7 +92,13 @@ The Secretary shall ensure that research projects conducted under this section a
 
 &emsp;An indemnity payment under paragraph (1) shall be subject to any agreement between a project grantee and operator entered into prior to the initiation of such project.
 
-(Pub. L. 101–624, title XVI, §1621, Nov. 28, 1990, 104 Stat. 3734.)
+(Pub. L. 101–624, title XVI, §1621, Nov. 28, 1990, 104 Stat. 3734; Pub. L. 104–127, title VIII, §860(c)(2), Apr. 4, 1996, 110 Stat. 1173.)
+
+#### Amendments
+
+1996—Subsec. (c)(1). Pub. L. 104–127, §860(c)(2)(A), redesignated subpars. (B) to (E) as (A) to (D), respectively, and struck out former subpar. (A) which read as follows: “the recommendations of the Advisory Council;”.
+
+Subsec. (c)(2). Pub. L. 104–127, §860(c)(2)(B), redesignated subpars. (B) to (F) as (A) to (E), respectively, and struck out former subpar. (A) which read as follows: “are recommended by the Advisory Council;”.
 
 #### Section Referred to in Other Sections
 

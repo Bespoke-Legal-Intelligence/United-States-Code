@@ -22,11 +22,13 @@ A prior section 58a, Pub. L. 95–94, title I, §112(g), Aug. 5, 1977, 91 Stat. 
 
 Amendment by Pub. L. 99–65 effective on first day of first calendar month beginning more than 60 days after July 12, 1985, see section 2 of Pub. L. 99–65, set out as a note under section 58 of this title.
 
-#### Payment for Telecommunications Service Provided by Sergeant at Arms and Doorkeeper of Senate
+#### Payment for Telecommunications Service
 
-Pub. L. 104–53, title I, §5, Nov. 19, 1995, 109 Stat. 517, provided that:
+Pub. L. 104–53, title I, §5, Nov. 19, 1995, 109 Stat. 517, as amended by Pub. L. 104–197, title I, §4(a), Sept. 16, 1996, 110 Stat. 2397, provided that:
 
-“(a) Any payment for local and long distance telecommunications service provided to any user by the Sergeant at Arms and Doorkeeper of the Senate shall cover the total invoiced amount, including any amount relating to separately identified toll calls, and shall be charged to the appropriation for the fiscal year in which the underlying base service period covered by the invoice ends.
+“(a) Any payment for local and long distance telecommunications service provided to any user shall cover the total invoiced amount, including any amount relating to separately identified toll calls, and shall be charged to the appropriation for the fiscal year in which the underlying base service period covered by the invoice ends.
 
-“(b) As used in subsection (a), the term ‘user’ means any Senator, Officer of the Senate, Committee, office, or entity provided telephone equipment and services by the Sergeant at Arms and Doorkeeper of the Senate.”
+“(b) As used in subsection (a), the term ‘user’ means a Senator, an Officer of the Senate, and any office, committee, or other entity the funds of which are disbursed by the Secretary of the Senate.”
+
+\[Pub. L. 104–197, title I, §4(b), Sept. 16, 1996, 110 Stat. 2397, provided that: “The amendments made by subsection (a) \[amending section 5 of Pub. L. 104–53, set out above\] shall take effect on October 1, 1996, and shall apply to all payments made on or after such date for local and long distance telecommunications service.”\]
 

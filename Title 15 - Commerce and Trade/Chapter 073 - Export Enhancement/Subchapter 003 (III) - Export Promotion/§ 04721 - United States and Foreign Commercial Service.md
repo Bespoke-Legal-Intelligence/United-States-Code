@@ -38,7 +38,7 @@ The Commercial Service shall place primary emphasis on the promotion of exports 
 
 &emsp;(8) utilizing district and foreign offices as one-stop shops for United States exporters by providing exporters with information on all export promotion and export finance activities of the Federal Government, assisting exporters in identifying which Federal programs may be of greatest assistance, and assisting exporters in making contact with the Federal programs identified; and
 
-&emsp;(9) providing United States exporters and export finance institutions with information on all financing and insurance programs of the Export-Import Bank of the United States, the Overseas Private Investment Corporation, the Trade and Development Program, and the Small Business Administration, including providing assistance in completing applications for such programs and working with exporters and export finance institutions to address any deficiencies in such applications that have been submitted.
+&emsp;(9) providing United States exporters and export finance institutions with information onall financing and insurance programs of the Export-Import Bank of the United States, the Overseas Private Investment Corporation, the Trade and Development Program, and the Small Business Administration, including providing assistance in completing applications for such programs and working with exporters and export finance institutions to address any deficiencies in such applications that have been submitted.
 
 #### (c) Offices
 
@@ -92,11 +92,11 @@ To assist the Commercial Service in carrying out subsection (b)(9) of this secti
 
 #### (g) Audits
 
-The Inspector General of the Department of Commerce shall perform periodic audits of the operations of the Commercial Service, but at least once every 3 years. The Inspector General shall report to the Congress the results of each such audit. In addition to an overview of the activities and effectiveness of Commercial Service operations, the audit shall include—
+The Inspector General of the Department of Commerce shall perform periodic audits of theoperations of the Commercial Service, but at least once every 3 years. The Inspector General shall report to the Congress the results of each such audit. In addition to an overview of the activities and effectiveness of Commercial Service operations, the audit shall include—
 
 &emsp;(1) an evaluation of the current placement of domestic personnel and recommendations for transferring personnel among district offices;
 
-&emsp;(2) an evaluation of the current placement of foreign-based personnel and recommendationsfor transferring such personnel in response to newly emerging business opportunities for United States exporters; and
+&emsp;(2) an evaluation of the current placement of foreign-based personnel and recommendations for transferring such personnel in response to newly emerging business opportunities for United States exporters; and
 
 &emsp;(3) an evaluation of the personnel system and its management, including the recruitment, assignment, promotion, and performance appraisal of personnel, the use of limited appointees, and the “time-in-class” system.
 

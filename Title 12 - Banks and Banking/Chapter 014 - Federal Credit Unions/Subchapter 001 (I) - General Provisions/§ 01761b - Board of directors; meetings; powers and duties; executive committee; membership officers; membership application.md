@@ -68,7 +68,7 @@ Par. (15). Pub. L. 97–457, §28(4), substituted “meeting” for “meetings�
 
 1978—Pub. L. 95–630 substituted “Board” for “Administrator” in two places.
 
-1977—Pub. L. 95–22 substituted “and share certificates and the classes of shares and share certificates thatmay be held” for “that may be held by an individual” and “, the security, and the maximum amount which may be loaned or provided in lines of credit” for “and the maximum amount which may be loaned with or without security to any member”.
+1977—Pub. L. 95–22 substituted “and share certificates and the classes of shares and share certificates that may be held” for “that may be held by an individual” and “, the security, and the maximum amount which may be loaned or provided in lines of credit” for “and the maximum amount which may be loaned with or without security to any member”.
 
 1974—Pub. L. 93–383 inserted provisions authorizing designation of a committee of not less than two to act as an investment committee and provisions relating to denial of a membership application, substituted “one or more membership officers” for “a membership officer”, and substituted provisions relating to exercise of authority by the executive committee for provisions setting forth specified functions of the executive committee.
 

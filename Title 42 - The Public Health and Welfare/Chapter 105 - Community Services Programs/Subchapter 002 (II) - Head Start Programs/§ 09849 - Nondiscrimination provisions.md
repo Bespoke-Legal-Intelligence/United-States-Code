@@ -10,7 +10,7 @@ No person in the United States shall on the ground of sex be excluded from parti
 
 #### (c) Discrimination based on handicapping condition as basis for denial of financial assistance
 
-The Secretary shall not provide financial assistance for any program, project, or activity under this subchapter unless the grant or contract relating to the financial assistance specifically provides that no person with responsibilities in the operation of the program, project, or activity will discriminate against any individual because of a handicapping condition in violation of section 794 of title 29.
+The Secretary shall not provide financial assistance for any program, project, or activityunder this subchapter unless the grant or contract relating to the financial assistance specifically provides that no person with responsibilities in the operation of the program, project, or activity will discriminate against any individual because of a handicapping condition in violation of section 794 of title 29.
 
 (Pub. L. 97–35, title VI, §654, Aug. 13, 1981, 95 Stat. 507.)
 

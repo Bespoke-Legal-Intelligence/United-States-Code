@@ -68,7 +68,7 @@ The Council shall be composed of—
 
 #### (c) Meetings
 
-The Council shall meet at least quarterly and in such places as the Council deems necessary. The meetings shall be publicly announced, and, to the extent appropriate, open and accessible to the general public.
+The Council shall meet at least quarterly and in such places as the Council deems necessary.The meetings shall be publicly announced, and, to the extent appropriate, open and accessible to the general public.
 
 #### (d) Functions of Council
 

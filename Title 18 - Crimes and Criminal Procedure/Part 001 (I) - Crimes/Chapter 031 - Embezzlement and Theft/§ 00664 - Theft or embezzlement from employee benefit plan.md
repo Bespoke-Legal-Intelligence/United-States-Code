@@ -1,4 +1,4 @@
-### §664 . Theft or embezzlement from employee benefit plan
+### §664. Theft or embezzlement from employee benefit plan
 
 Any person who embezzles, steals, or unlawfully and willfully abstracts or converts to his own use or to the use of another, any of the moneys, funds, securities, premiums, credits, property, or other assets of any employee welfare benefit plan or employee pension benefit plan, or of any fund connected therewith, shall be fined under this title, or imprisoned not more than five years, or both.
 
@@ -34,5 +34,5 @@ Wire or oral communications, authorization for interception to provide evidence 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1961, 2516 of this title; title 29 section 1031.
+This section is referred to in sections 24, 1961, 2516 of this title; title 29 section 1031.
 

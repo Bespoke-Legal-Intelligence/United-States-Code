@@ -10,7 +10,7 @@ No amateur sports organization is eligible to be recognized or is eligible to co
 
 &emsp;(1) is incorporated under the laws of any of the several States of the United States or the District of Columbia as a not-for-profit corporation having as its purpose the advancement of amateur athletic competition, and has the managerial and financial capability to plan and execute its obligations;
 
-&emsp;(2) submits an application for recognition, in such form as the Corporation shall require, as a national governing body and, upon application, submits a copy of its corporate charter and bylaws and any additional information as is considered necessary or appropriate by the Corporation;
+&emsp;(2) submits an application for recognition, in such form as the Corporation shall require, asa national governing body and, upon application, submits a copy of its corporate charter and bylaws and any additional information as is considered necessary or appropriate by the Corporation;
 
 &emsp;(3) agrees to submit, upon demand of the Corporation, to binding arbitration conducted in accordance with the commercial rules of the American Arbitration Association in any controversy involving its recognition as a national governing body, as provided for in section 395 of this title, or involving the opportunity of any amateur athlete, coach, trainer, manager, administrator or official to participate in amateur athletic competition, as provided for in the Corporation's constitution and bylaws;
 
@@ -46,7 +46,7 @@ No amateur sports organization is eligible to be recognized or is eligible to co
 
 > If, at the end of the extension period referred to in subparagraph (C) of this paragraph, the national governing body has not complied with such requirements, the Corporation shall revoke the recognition of such national governing body. Any such national governing body aggrieved by the Corporation's determination under this subsection may submit a demand for arbitration in accordance with section 395(c) of this title.
 
-(2) Notwithstanding the provisions of paragraph (1), the Corporation may suspend or revoke the recognition of a national governing body during the 2-year period if such suspension or revocation is for the same reason as the Corporation could have revoked or suspended such national governing body prior to November 8, 1978.
+(2) Notwithstanding the provisions of paragraph (1), the Corporation may suspend or revoke the recognition of a national governingbody during the 2-year period if such suspension or revocation is for the same reason as the Corporation could have revoked or suspended such national governing body prior to November 8, 1978.
 
 #### (d) Recommendation of national governing body as United States representative to appropriate international sports federation
 

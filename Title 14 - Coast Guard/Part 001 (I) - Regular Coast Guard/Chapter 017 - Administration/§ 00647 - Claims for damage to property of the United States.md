@@ -20,3 +20,7 @@ This section closely parallels title 34, U.S.C., 1946 ed., §§600a, 600b, which
 
 Section 17(b)(3)(B) of Pub. L. 98–557 provided that: “The amendment made by subparagraph (A) of this paragraph \[amending this section\] shall apply to all claims considered, ascertained, adjusted, determined, compromised or settled on or after the date of enactment of this Act \[Oct. 30, 1984\].”
 
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 827, 828 of this title.
+

@@ -58,7 +58,7 @@ Before making any written determination or background file document open or avai
 
 #### (3) Disclosure of identity
 
-&emsp;In the case of any written determination to which paragraph (1) applies, any person may file a petition in the United States Tax Court or file a complaint in the United States District Court for the District of Columbia for an order requiring that the identity of any person to whom the written determination pertains be disclosed. The court shall order disclosure of such identity if there is evidence in the record from which one could reasonably conclude that an impropriety occurred or undue influence was exercised with respect to such written determination by or on behalf of such person. The court may also direct the Secretary to disclose any portion of any other deletions made in accordance with subsection (c) where such disclosure is in the public interest. If a proceeding is commenced under this paragraph, the person whose identity is subject to being disclosed and the person about whom a notation is made under paragraph (1) shall be notified of the proceeding in accordance with the procedures described in subsection (f)(4)(B) and shall have the right to intervene in the proceeding (anonymously, if appropriate).
+&emsp;In the case of any written determination to which paragraph (1) applies, any person mayfile a petition in the United States Tax Court or file a complaint in the United States District Court for the District of Columbia for an order requiring that the identity of any person to whom the written determination pertains be disclosed. The court shall order disclosure of such identity if there is evidence in the record from which one could reasonably conclude that an impropriety occurred or undue influence was exercised with respect to such written determination by or on behalf of such person. The court may also direct the Secretary to disclose any portion of any other deletions made in accordance with subsection (c) where such disclosure is in the public interest. If a proceeding is commenced under this paragraph, the person whose identity is subject to being disclosed and the person about whom a notation is made under paragraph (1) shall be notified of the proceeding in accordance with the procedures described in subsection (f)(4)(B) and shall have the right to intervene in the proceeding (anonymously, if appropriate).
 
 #### (4) Period in which to bring action
 
@@ -66,7 +66,7 @@ Before making any written determination or background file document open or avai
 
 #### (e) Background file documents
 
-Whenever the Secretary makes a written determination open to public inspection under this section, he shall also make available to any person, but only upon the written request of thatperson, any background file document relating to the written determination.
+Whenever the Secretary makes a written determination open to public inspection under this section, he shall also make available to any person, but only upon the written request of that person, any background file document relating to the written determination.
 
 #### (f) Resolution of disputes relating to disclosure
 
@@ -116,7 +116,7 @@ Whenever the Secretary makes a written determination open to public inspection u
 
 #### (6) Publicity of Tax Court proceedings
 
-&emsp;Notwithstanding sections 7458 and 7461, the Tax Court may, in order to preserve the anonymity, privacy, or confidentiality of any person under this section, provide by rules adopted under section 7453 that portions of hearings, testimony, evidence, and reports in connection with proceedings under this section may beclosed to the public or to inspection by the public.
+&emsp;Notwithstanding sections 7458 and 7461, the Tax Court may, in order to preserve the anonymity, privacy, or confidentiality of any person under this section, provide by rules adopted under section 7453 that portions of hearings, testimony, evidence, and reports in connection with proceedings under this section may be closed to the public or to inspection by the public.
 
 #### (g) Time for disclosure
 
@@ -180,7 +180,7 @@ Whenever the Secretary makes a written determination open to public inspection u
 
 #### (3) Order of release
 
-&emsp;Any written determination or background file document described in paragraph (1) shall be open or available to public inspection in the following order starting with the most recent written determination in each category:
+&emsp;Any written determination or background file document described in paragraph (1) shallbe open or available to public inspection in the following order starting with the most recent written determination in each category:
 
 &emsp;&emsp;(A) reference written determinations issued under this title;
 
@@ -192,7 +192,7 @@ Whenever the Secretary makes a written determination open to public inspection u
 
 #### (4) Notice that prior written determinations are open to public inspection
 
-&emsp;Notwithstanding the provisions of subsections (f)(1) and (f)(3)(A), not less than 90 days before making any portion of a written determination described in this subsection open to public inspection, the Secretary shall issue public notice in the Federal Register that such written determination is to be made open to public inspection. The person who received a written determination may, within 75 days after the date of publication of notice under this paragraph, file a petition in the United States Tax Court (anonymously, if appropriate) for a determination with respect to that portion of such written determinationwhich is to be made open to public inspection. The provisions of subsections (f)(3)(B), (5), and (6) shall apply if such a petition is filed. If no petition is filed, the text of any written determination shall be open to public inspection no earlier than 90 days, and no later than 120 days, after notice is published in the Federal Register.
+&emsp;Notwithstanding the provisions of subsections (f)(1) and (f)(3)(A), not less than 90 days before making any portion of a written determination described in this subsection open to public inspection, the Secretary shall issue public notice in the Federal Register that such written determination is to be made open to public inspection. The person who received a written determination may, within 75 days after the date of publication of notice under this paragraph, file a petition in the United States Tax Court (anonymously, if appropriate) for a determination with respect to that portion of such written determination which is to be made open to public inspection. The provisions of subsections (f)(3)(B), (5), and (6) shall apply if such a petition is filed. If no petition is filed, the text of any written determination shall be open to public inspection no earlier than 90 days, and no later than 120 days, after notice is published in the Federal Register.
 
 #### (5) Exclusion
 
@@ -246,7 +246,7 @@ This section shall not apply to—
 
 &emsp;(2) any—
 
-&emsp;&emsp;(A) written determination issued pursuant to a request made before November 1, 1976, with respect to the exempt status under section 501(a) of an organization described in section 501(c) or (d), the status of an organization as a private foundation under section 509(a), or the status of an organization as an operating foundation under section 4942(j)(3),
+&emsp;&emsp;(A) written determination issued pursuant to a request made before November 1, 1976,with respect to the exempt status under section 501(a) of an organization described in section 501(c) or (d), the status of an organization as a private foundation under section 509(a), or the status of an organization as an operating foundation under section 4942(j)(3),
 
 &emsp;&emsp;(B) written determination described in subsection (g)(5)(B) issued pursuant to a request made before November 1, 1976,
 

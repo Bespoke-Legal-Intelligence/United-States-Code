@@ -1,0 +1,102 @@
+### §7301. Suspension and repeal of permanent price support authority
+
+#### (a) Agricultural Adjustment Act of 1938
+
+#### (1) Suspensions
+
+&emsp;The following provisions of the Agricultural Adjustment Act of 1938 \[7 U.S.C. 1281 et seq.\] shall not be applicable to the 1996 through 2002 crops of loan commodities, peanuts, and sugar and shall not be applicable to milk during the period beginning on April 4, 1996, and ending on December 31, 2002:
+
+&emsp;&emsp;(A) Parts II through V of subtitle B of title III (7 U.S.C. 1326–1351) \[7 U.S.C. 1321 et seq., 1331 et seq., 1341 et seq., 1351\].
+
+&emsp;&emsp;(B) Subsections (a) through (j) of section 358 (7 U.S.C. 1358).
+
+&emsp;&emsp;(C) Subsections (a) through (h) of section 358a (7 U.S.C. 1358a).
+
+&emsp;&emsp;(D) Subsections (a), (b), (d), and (e) of section 358d (7 U.S.C. 1359).
+
+&emsp;&emsp;(E) Part VII of subtitle B of title III (7 U.S.C. 1359aa–1359jj).
+
+&emsp;&emsp;(F) In the case of peanuts, part I of subtitle C of title III (7 U.S.C. 1361–1368).
+
+&emsp;&emsp;(G) In the case of upland cotton, section 377 (7 U.S.C. 1377).
+
+&emsp;&emsp;(H) Subtitle D of title III (7 U.S.C. 1379a–1379j).
+
+&emsp;&emsp;(I) Title IV (7 U.S.C. 1401–1407).
+
+#### (2) Omitted
+
+#### (b) Agricultural Act of 1949
+
+#### (1) Suspensions
+
+&emsp;The following provisions of the Agricultural Act of 1949 \[7 U.S.C. 1421 et seq.\] shall not be applicable to the 1996 through 2002 crops of loan commodities, peanuts, and sugar and shall not be applicable to milk during the period beginning on April 4, 1996, and ending on December 31, 2002:
+
+&emsp;&emsp;(A) Section 101 (7 U.S.C. 1441).
+
+&emsp;&emsp;(B) Section 103(a) (7 U.S.C. 1444(a)).
+
+&emsp;&emsp;(C) Section 105 (7 U.S.C. 1444b).
+
+&emsp;&emsp;(D) Section 107 (7 U.S.C. 1445a).
+
+&emsp;&emsp;(E) Section 110 (7 U.S.C. 1445e).
+
+&emsp;&emsp;(F) Section 112 (7 U.S.C. 1445g).
+
+&emsp;&emsp;(G) Section 115 (7 U.S.C. 1445k).
+
+&emsp;&emsp;(H) Section 201 (7 U.S.C. 1446).
+
+&emsp;&emsp;(I) Title III (7 U.S.C. 1447–1449).
+
+&emsp;&emsp;(J) Title IV (7 U.S.C. 1421–1433d), other than sections 404, 412, and 416 (7 U.S.C. 1424, 1429, and 1431).
+
+&emsp;&emsp;(K) Title V (7 U.S.C. 1461–1469).
+
+&emsp;&emsp;(L) Title VI (7 U.S.C. 1471–1471j).
+
+#### (2) Repeals
+
+&emsp;The following provisions of the Agricultural Act of 1949 \[7 U.S.C. 1421 et seq.\] are repealed:
+
+&emsp;&emsp;(A) Section 101B (7 U.S.C. 1441–2).
+
+&emsp;&emsp;(B) Section 103B (7 U.S.C. 1444–2).
+
+&emsp;&emsp;(C) Section 105B (7 U.S.C. 1444f).
+
+&emsp;&emsp;(D) Section 107B \[7 U.S.C. 1445b–3a\].
+
+&emsp;&emsp;(E) Section 108B (7 U.S.C. 1445c–3).
+
+&emsp;&emsp;(F) Section 113 (7 U.S.C. 1445h).
+
+&emsp;&emsp;(G) Subsections (b) and (c) of section 114 (7 U.S.C. 1445j).
+
+&emsp;&emsp;(H) Sections 205, 206, and 207 (7 U.S.C. 1446f, 1446g, and 1446h).
+
+&emsp;&emsp;(I) Sections 406 and 427 (7 U.S.C. 1426 and 1433f).
+
+#### (3) Omitted
+
+#### (c) Suspension of certain quota provisions
+
+Section 1340 of this title shall not be applicable to the crops of wheat planted for harvest in the calendar years 1996 through 2002.
+
+(Pub. L. 104–127, title I, §171, Apr. 4, 1996, 110 Stat. 937.)
+
+#### References in Text
+
+The Agricultural Adjustment Act of 1938, referred to in subsec. (a)(1), is act Feb. 16, 1938, ch. 30, 52 Stat. 31, as amended, which is classified principally to chapter 35 (§1281 et seq.) of this title. Parts II through V and VII of subtitle B of title III of the Act are classified generally to subparts II (§1321 et seq.), III (§1331 et seq.), IV (§1341 et seq.), V (§1351, which was omittedfrom the Code), and VII (§1359aa et seq.), respectively, of part B of subchapter II of chapter 35 of this title. Part I of subtitle C of title III of the Act is classified generally to subpart I (§1361 et seq.) of part C of subchapter II of chapter 35 of this title. Subtitle D of title III of the Act is classified generally to part D (§1379a et seq.) of subchapter II of chapter 35 of this title. Title IV of the Act was classified generally to subchapter III (§1401 et seq.) of chapter 35 of this title, and was omitted from the Code. For complete classification of this Act to the Code, see section 1281 of this title and Tables.
+
+The Agricultural Act of 1949, referred to in subsec. (b)(1), (2), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, as amended, which is classified principally to chapter 35A (§1421 et seq.) of this title. Title III of the Act is classified generally to sections 1447 to 1449 of this title. Title IV of the Act is classified principally to subchapter I (§1421 et seq.) of chapter 35A of this title. Title V of the Act is classified generally to subchapter IV (§1461 et seq.) of chapter 35A of this title. Title VI of the Act is classified generally to subchapter V (§1471 et seq.) of chapter 35A of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
+
+#### Codification
+
+Section is comprised of section 171 of Pub. L. 104–127. Subsec. (a)(2) of section 171 of Pub. L. 104–127 amended section 1373 of this title and enacted provisions set out as a note under section 1373 of this title. Subsec. (b)(3) of section 171 of Pub. L. 104–127 amended section 1441 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 7202 of this title.
+

@@ -16,10 +16,6 @@ Section was formerly classified to section 1195 of this title, and prior thereto
 
 Pub. L. 103–236 inserted at end “Pursuant to such regulations as the Secretary of State may prescribe, the Secretary may designate any other employee of the Department of State who is a citizen of the United States to perform any notarial function authorized to be performed by a consular officer of the United States under this Act.”
 
-#### American Institute in Taiwan
-
-Employees of the American Institute in Taiwan authorized to assist and protect interests of United States persons by performing acts such as are authorized to be performed outside the United States for consular purposes by these sections, see section 1–201 of Ex. Ord. No. 12143, June 22, 1979, 44 F.R. 37191, set out as a note under section 3301 of this title.
-
 #### Cross References
 
 Oaths, affirmations, affidavits, or depositions, see section 4221 of this title.

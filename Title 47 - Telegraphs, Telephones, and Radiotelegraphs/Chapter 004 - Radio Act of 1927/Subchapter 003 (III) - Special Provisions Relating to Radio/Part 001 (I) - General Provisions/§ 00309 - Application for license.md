@@ -12,19 +12,17 @@ Except as provided in subsection (c) of this section, no such application—
 
 &emsp;(2) for an instrument of authorization in the case of a station in any of the following categories:
 
-&emsp;&emsp;(A) fixed point-to-point microwave stations (exclusive of control and relay stations used as integral parts of mobile radio systems),
+&emsp;&emsp;(A) industrial radio positioning stations for which frequencies are assigned on an exclusive basis,
 
-&emsp;&emsp;(B) industrial radio positioning stations for which frequencies are assigned on an exclusive basis,
+&emsp;&emsp;(B) aeronautical en route stations,
 
-&emsp;&emsp;(C) aeronautical en route stations,
+&emsp;&emsp;(C) aeronautical advisory stations,
 
-&emsp;&emsp;(D) aeronautical advisory stations,
+&emsp;&emsp;(D) airdrome control stations,
 
-&emsp;&emsp;(E) airdrome control stations,
+&emsp;&emsp;(E) aeronautical fixed stations, and
 
-&emsp;&emsp;(F) aeronautical fixed stations, and
-
-&emsp;&emsp;(G) such other stations or classes of stations, not in the broadcasting or common carrier services, as the Commission shall by rule prescribe,
+&emsp;&emsp;(F) such other stations or classes of stations, not in the broadcasting or common carrier services, as the Commission shall by rule prescribe,
 
 > shall be granted by the Commission earlier than thirty days following issuance of public notice by the Commission of the acceptance for filing of such application or of any substantial amendment thereof.
 
@@ -54,9 +52,9 @@ Subsection (b) of this section shall not apply—
 
 #### (d) Petition to deny application; time; contents; reply; findings
 
-(1) Any party in interest may file with the Commission a petition to deny any application (whether as originally filed or as amended) to which subsection (b) of this section applies at any time prior to the day of Commission grant thereof without hearing or the day of formal designation thereof for hearing; except that with respect to any classification of applications, the Commission from time to time by rule may specify a shorter period (no less than thirty days following the issuance of public notice by the Commission of the acceptance for filing of such application or of any substantial amendment thereof), which shorter period shall be reasonably related to the time when the applications would normally be reached for processing. The petitioner shall serve a copy of such petition on the applicant. The petition shall contain specific allegations of fact sufficient to show that the petitioner is a party in interest and that a grant of the application would be prima facie inconsistent with subsection (a) of this section. Such allegations of fact shall, except for those of which official notice may be taken, be supported by affidavit of a person or persons with personal knowledge thereof. The applicant shall be given the opportunity to file a reply in which allegations of fact or denials thereof shall similarly be supported by affidavit.
+(1) Any party in interest may file with the Commission a petition to deny any application (whether as originally filed or as amended) to which subsection (b) of this section applies at any time prior to the day of Commission grant thereof without hearing or the day of formal designation thereof for hearing; except that with respect to any classification of applications, the Commission from time to time by rule may specify a shorter period (no less than thirty days following the issuance of public notice by the Commission of the acceptance for filing of such application or of any substantial amendment thereof), which shorter period shall be reasonably related to the time when the applications would normally be reached for processing. The petitioner shall serve a copy of such petition on the applicant. The petition shall contain specific allegations of fact sufficient to show that the petitioner is a party in interest and that a grant of the application would be prima facie inconsistent with subsection (a) of this section (or subsection (k) of this section in the case of renewal of any broadcast station license). Such allegations of fact shall, except for those of which official notice may be taken, be supported by affidavit of a person or persons with personal knowledge thereof. The applicant shall be given the opportunity to file a reply in which allegations of fact or denials thereof shall similarly be supported by affidavit.
 
-(2) If the Commission finds on the basis of the application, the pleadings filed, or other matters which it may officially notice that there are no substantial and material questions of fact and that a grant of the application would be consistent with subsection (a) of this section, it shall make the grant, deny the petition, and issue a concise statement of the reasons for denying the petition, which statement shall dispose of all substantial issues raised by the petition. If asubstantial and material question of fact is presented or if the Commission for any reason is unable to find that grant of the application would be consistent with subsection (a) of this section, it shall proceed as provided in subsection (e) of this section.
+(2) If the Commission finds on the basis of the application, the pleadings filed, or other matters which it may officially notice that there are no substantial and material questions of fact and that a grant of the application would be consistent with subsection (a) of this section (or subsection (k) of this section in the case of renewal of any broadcast station license), it shall make the grant, deny the petition, and issue a concise statement of the reasons for denying the petition, which statement shall dispose of all substantial issues raised by the petition. If a substantial and material question of fact is presented or if the Commission for any reason is unable to find that grant of the application would be consistent with subsection (a) of this section (or subsection (k) of this section in the case of renewal of any broadcast station license), it shall proceed as provided in subsection (e) of this section.
 
 #### (e) Hearings; intervention; evidence; burden of proof
 
@@ -64,7 +62,7 @@ If, in the case of any application to which subsection (a) of this section appli
 
 #### (f) Temporary authorization of temporary operations under subsection (b)
 
-When an application subject to subsection (b) of this section has been filed, the Commission, notwithstanding the requirements of such subsection, may, if the grant of such application is otherwise authorized by law and if it finds that there are extraordinary circumstances requiring temporary operations in the public interest and that delay in the institution of such temporary operations would seriously prejudice the public interest, grant a temporary authorization, accompanied by a statement of its reasons therefor, to permit such temporary operations for a period not exceeding 180 days, and upon making like findings may extend such temporary authorization for additional periods not to exceed 180 days. When any such grant of a temporary authorization is made, the Commission shall give expeditious treatment to any timely filed petition to deny such application and to any petition for rehearing of such grant filed under section 405 of this title.
+When an application subject to subsection (b) of this section has been filed, the Commission, notwithstanding the requirements of such subsection, may, if the grant of such application is otherwise authorized by law and if it finds that there are extraordinary circumstances requiring temporary operations in the public interest and that delay in the institution of such temporary operations would seriously prejudice the public interest, grant a temporary authorization, accompanied by a statement of its reasons therefor, to permit such temporary operations for a period not exceeding 180 days, and upon making like findings may extend such temporary authorization for additional periods not to exceed 180 days. When any such grant of a temporary authorization is made, the Commission shallgive expeditious treatment to any timely filed petition to deny such application and to any petition for rehearing of such grant filed under section 405 of this title.
 
 #### (g) Classification of applications
 
@@ -96,7 +94,7 @@ Such station licenses as the Commission may grant shall be in such general form 
 
 (3)(A) The Commission shall establish rules and procedures to ensure that, in the administration of any system of random selection under this subsection used for granting licenses or construction permits for any media of mass communications, significant preferences will be granted to applicants or groups of applicants, the grant to which of the license or permit would increase the diversification of ownership of the media of mass communications. To further diversify the ownership of the media of mass communications, an additional significant preference shall be granted to any applicant controlled by a member or members of a minority group.
 
-(B) The Commission shall have authority to require each qualified applicant seeking a significant preference under subparagraph (A) to submit to the Commission such information asmay be necessary to enable the Commission to make a determination regarding whether such applicant shall be granted such preference. Such information shall be submitted in such form, at such times, and in accordance with such procedures, as the Commission may require.
+(B) The Commission shall have authority to require each qualified applicant seeking a significant preference under subparagraph (A) to submit to the Commission such information as may be necessary to enable the Commission to make a determination regarding whether such applicant shall be granted such preference. Such information shall be submitted in such form, at such times, and in accordance with such procedures, as the Commission may require.
 
 (C) For purposes of this paragraph:
 
@@ -120,7 +118,7 @@ Such station licenses as the Commission may grant shall be in such general form 
 
 &emsp;A use of the electromagnetic spectrum is described in this paragraph if the Commission determines that—
 
-&emsp;&emsp;(A) the principal use of such spectrum will involve, or is reasonably likely to involve, the licensee receiving compensation from subscribers in return for which the licensee—
+&emsp;&emsp;(A) the principal use of such spectrum will involve, or is reasonably likely to involve,the licensee receiving compensation from subscribers in return for which the licensee—
 
 &emsp;&emsp;&emsp;(i) enables those subscribers to receive communications signals that are transmitted utilizing frequencies on which the licensee is licensed to operate; or
 
@@ -148,7 +146,7 @@ Such station licenses as the Commission may grant shall be in such general form 
 
 &emsp;&emsp;(B) include performance requirements, such as appropriate deadlines and penalties for performance failures, to ensure prompt delivery of service to rural areas, to prevent stockpiling or warehousing of spectrum by licensees or permittees, and to promote investment in and rapid deployment of new technologies and services;
 
-&emsp;&emsp;(C) consistent with the public interest, convenience, and necessity, the purposes of this chapter, and the characteristics of the proposed service, prescribe area designations and bandwidth assignments that promote (i) an equitable distribution of licenses and services among geographic areas, (ii) economic opportunity for a wide variety of applicants, including small businesses, rural telephone companies, and businesses owned by members of minority groups and women,and (iii) investment in and rapid deployment of new technologies and services;
+&emsp;&emsp;(C) consistent with the public interest, convenience, and necessity, the purposes of this chapter, and the characteristics of the proposed service, prescribe area designations and bandwidth assignments that promote (i) an equitable distribution of licenses and services among geographic areas, (ii) economic opportunity for a wide variety of applicants, including small businesses, rural telephone companies, and businesses owned by members of minority groups and women, and (iii) investment in and rapid deployment of new technologies and services;
 
 &emsp;&emsp;(D) ensure that small businesses, rural telephone companies, and businesses owned by members of minority groups and women are given the opportunity to participate in the provision of spectrum-based services, and, for such purposes, consider the use of tax certificates, bidding preferences, and other procedures; and
 
@@ -200,7 +198,17 @@ Such station licenses as the Commission may grant shall be in such general form 
 
 #### (B) Retention of revenues
 
-&emsp;&emsp;Notwithstanding subparagraph (A), the salaries and expenses account of the Commission shall retain as an offsetting collection such sums as may be necessary from such proceeds for the costs of developing and implementing the program required by this subsection. Such offsetting collections shall be available for obligation subject to the terms and conditions of the receiving appropriations account, and shall be deposited in such accounts on a quarterly basis. Any funds appropriated to the Commission for fiscal years 1994 through 1998 for the purpose of assigning licenses using random selection under subsection (i) of this section shall be used by the Commission to implement this subsection.
+&emsp;&emsp;Notwithstanding subparagraph (A), the salaries and expenses account of the Commission shall retain as an offsetting collection such sums as may be necessary from such proceeds for the costs of developing and implementing the program required by this subsection. Such offsetting collections shall be available for obligation subject to the terms and conditions of the receiving appropriations account, and shall be deposited in such accounts on a quarterly basis. Any funds appropriated to the Commission for fiscal years 1994 through 1998 for the purpose of assigning licenses using random selection under subsection (i) of this section shall be used by the Commission to implement this subsection. Such offsetting collections are authorized to remain available until expended.
+
+#### (C) Deposit and use of auction escrow accounts
+
+&emsp;&emsp;Any deposits the Commission may require for the qualification of any person to bid in a system of competitive bidding pursuant to this subsection shall be deposited in an interest bearing account at a financial institution designated for purposes of this subsection by the Commission (after consultation with the Secretary of the Treasury). Within 45 days following the conclusion of the competitive bidding—
+
+&emsp;&emsp;&emsp;(i) the deposits of successful bidders shall be paid to the Treasury;
+
+&emsp;&emsp;&emsp;(ii) the deposits of unsuccessful bidders shall be returned to such bidders; and
+
+&emsp;&emsp;&emsp;(iii) the interest accrued to the account shall be transferred to the Telecommunications Development Fund established pursuant to section 614 of this title.
 
 #### (9) Use of former Government spectrum
 
@@ -228,7 +236,7 @@ Such station licenses as the Commission may grant shall be in such general form 
 
 &emsp;&emsp;The Commission's authority to issue licenses or permits under this subsection on and after 2 years after August 10, 1993, shall cease to be effective if—
 
-&emsp;&emsp;&emsp;(i) the Secretary of Commerce has failed to submit the report required by section 113(a) of the National Telecommunications and Information Administration Organization Act \[47 U.S.C. 923(a)\];
+&emsp;&emsp;&emsp;(i) the Secretary of Commerce has failed to submit the report required by section113(a) of the National Telecommunications and Information Administration Organization Act \[47 U.S.C. 923(a)\];
 
 &emsp;&emsp;&emsp;(ii) the President has failed to withdraw and limit assignments of frequencies as required by paragraphs (1) and (2) of section 114(a) of such Act \[47 U.S.C. 924(a)\];
 
@@ -294,7 +302,7 @@ Such station licenses as the Commission may grant shall be in such general form 
 
 &emsp;&emsp;Except with respect to pending applications described in clause (iv) of this subparagraph, the Commission shall prescribe regulations specifying the procedures and criteria by which the Commission will evaluate applications for preferential treatment in its licensing processes (by precluding the filing of mutually exclusive applications) for persons who make significant contributions to the development of a new service or to the development of new technologies that substantially enhance an existing service. Such regulations shall—
 
-&emsp;&emsp;&emsp;(i) specify the procedures and criteria by which the significance of such contributions will be determined, after an opportunity for review and verification by experts in the radio sciences drawn from among persons who are not employees of the Commission or by any applicant for such preferential treatment;
+&emsp;&emsp;&emsp;(i) specify the procedures and criteria by which the significance of such contributions will be determined, after an opportunity for review and verification by experts in the radio sciences drawn from among persons who are not employees ofthe Commission or by any applicant for such preferential treatment;
 
 &emsp;&emsp;&emsp;(ii) include such other procedures as may be necessary to prevent unjust enrichment by ensuring that the value of any such contribution justifies any reduction in the amounts paid for comparable licenses under this subsection;
 
@@ -332,13 +340,51 @@ Such station licenses as the Commission may grant shall be in such general form 
 
 &emsp;&emsp;This paragraph shall be effective on December 8, 1994, and apply to any licenses issued on or after August 1, 1994, by the Federal Communications Commission pursuant to any licensing procedure that provides preferential treatment (by precluding the filing of mutually exclusive applications) to persons who make significant contributions to the development of a new service or to the development of new technologies that substantially enhance an existing service.
 
-(June 19, 1934, ch. 652, title III, §309, 48 Stat. 1085; July 16, 1952, ch. 879, §7, 66 Stat. 715; Mar. 26, 1954, ch. 110, 68 Stat. 35; Jan. 20, 1956, ch. 1, 70 Stat. 3; Sept. 13, 1960, Pub. L. 86–752, §4(a), 74 Stat. 889; May 14, 1964, Pub. L. 88–306, 78 Stat. 193; May 14, 1964, Pub. L. 88–307, 78 Stat. 194; Aug. 13, 1981, Pub. L. 97–35, title XII, §1242(a), 95 Stat. 736; Sept. 13, 1982, Pub. L. 97–259, title I, §§114, 115, 96 Stat. 1094; Oct. 30, 1984, Pub. L.98–549, §6(b)(1), 98 Stat. 2804; Aug. 10, 1993, Pub. L. 103–66, title VI, §6002(a), (b)(1), 107 Stat. 387, 392; Oct. 25, 1994, Pub. L. 103–414, title III, §§303(a)(16), (17), 304(a)(9), 108 Stat. 4295, 4297; Dec. 8, 1994, Pub. L. 103–465, title VIII, §801, 108 Stat. 5050.)
+#### (k) Broadcast station renewal procedures
+
+#### (1) Standards for renewal
+
+&emsp;If the licensee of a broadcast station submits an application to the Commission for renewal of such license, the Commission shall grant the application if it finds, with respect to that station, during the preceding term of its license—
+
+&emsp;&emsp;(A) the station has served the public interest, convenience, and necessity;
+
+&emsp;&emsp;(B) there have been no serious violations by the licensee of this chapter or the rules and regulations of the Commission; and
+
+&emsp;&emsp;(C) there have been no other violations by the licensee of this chapter or the rules and regulations of the Commission which, taken together, would constitute a pattern of abuse.
+
+#### (2) Consequence of failure to meet standard
+
+&emsp;If any licensee of a broadcast station fails to meet the requirements of this subsection, the Commission may deny the application for renewal in accordance with paragraph (3), or grant such application on terms and conditions as are appropriate, including renewal for a term less than the maximum otherwise permitted.
+
+#### (3) Standards for denial
+
+&emsp;If the Commission determines, after notice and opportunity for a hearing as provided in subsection (e) of this section, that a licensee has failed to meet the requirements specified in paragraph (1) and that no mitigating factors justify the imposition of lesser sanctions, the Commission shall—
+
+&emsp;&emsp;(A) issue an order denying the renewal application filed by such licensee under section 308 of this title; and
+
+&emsp;&emsp;(B) only thereafter accept and consider such applications for a construction permit as may be filed under section 308 of this title specifying the channel or broadcasting facilities of the former licensee.
+
+#### (4) Competitor consideration prohibited
+
+&emsp;In making the determinations specified in paragraph (1) or (2), the Commission shall not consider whether the public interest, convenience, and necessity might be served by the grant of a license to a person other than the renewal applicant.
+
+(June 19, 1934, ch. 652, title III, §309, 48 Stat. 1085; July 16, 1952, ch. 879, §7, 66 Stat. 715; Mar. 26, 1954, ch. 110, 68 Stat. 35; Jan. 20, 1956, ch. 1, 70 Stat. 3; Sept. 13, 1960, Pub. L. 86–752, §4(a), 74 Stat. 889; May 14, 1964, Pub. L. 88–306, 78 Stat. 193; May 14, 1964, Pub. L. 88–307, 78 Stat. 194; Aug. 13, 1981, Pub. L. 97–35, title XII, §1242(a), 95 Stat. 736; Sept. 13, 1982, Pub. L. 97–259, title I, §§114, 115, 96 Stat. 1094; Oct. 30, 1984, Pub. L. 98–549, §6(b)(1), 98 Stat. 2804; Aug. 10, 1993, Pub. L. 103–66, title VI, §6002(a), (b)(1), 107 Stat. 387, 392; Oct. 25, 1994, Pub. L. 103–414, title III, §§303(a)(16), (17), 304(a)(9), 108 Stat. 4295, 4297; Dec. 8, 1994, Pub. L. 103–465, title VIII, §801, 108 Stat. 5050; Feb. 8, 1996, Pub. L. 104–104, title II, §204(a), title IV, §403(j), title VII, §§707(a), 710(c), 110 Stat. 112, 131, 154, 161.)
 
 #### References in Text
 
 The National Telecommunications and Information Administration Organization Act, referred to in subsec. (j)(9)(B), is title I of Pub. L. 102–538, Oct. 27, 1992, 106 Stat. 3533, as amended. Part B of the Act is classified generally to subchapter II (§921 et seq.) of chapter 8 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 901 of this title and Tables.
 
 #### Amendments
+
+1996—Subsec. (b)(2)(A) to (G). Pub. L. 104–104, §403(j), redesignated subpars. (B) to (G) as (A) to (F), respectively, and struck out former subpar. (A) which read as follows: “fixed point-to-point microwave stations (exclusive of control and relay stations used as integral parts of mobile radio systems),”.
+
+Subsec. (d). Pub. L. 104–104, §204(a)(2), inserted “(or subsection (k) of this section in the case of renewal of any broadcast station license)” after “with subsection (a) of this section” wherever appearing.
+
+Subsec. (j)(8)(B). Pub. L. 104–104, §710(c), inserted at end “Such offsetting collections are authorized to remain available until expended.”
+
+Subsec. (j)(8)(C). Pub. L. 104–104, §707(a), added subpar. (C).
+
+Subsec. (k). Pub. L. 104–104, §204(a)(1), added subsec. (k).
 
 1994—Subsec. (c)(2)(F). Pub. L. 103–414, §303(a)(16), substituted “section 325(c)” for “section 325(b)”.
 
@@ -379,6 +425,10 @@ Subsec. (e). Pub. L. 88–306 substituted “not more than thirty days after pub
 1954—Subsec. (c). Act Mar. 26, 1954, substituted “thirty days” for “fifteen days” in fourth sentence.
 
 1952—Act July 16, 1952, amended section generally to set forth procedure to be followed in cases of denial of applications.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by section 204(a) of Pub. L. 104–104 applicable to applications filed after May 1, 1995, see section 204(c) of Pub. L. 104–104, set out as a note under section 308 of this title.
 
 #### Effective Date of 1984 Amendment
 
@@ -428,5 +478,5 @@ Section 1242(b) of Pub. L. 97–35 provided that: “The Commission shall have a
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 311, 316, 319, 325, 532, 533, 554, 922 of this title.
+This section is referred to in sections 311, 316, 319, 325, 336, 532, 533, 554, 614, 922 of this title.
 

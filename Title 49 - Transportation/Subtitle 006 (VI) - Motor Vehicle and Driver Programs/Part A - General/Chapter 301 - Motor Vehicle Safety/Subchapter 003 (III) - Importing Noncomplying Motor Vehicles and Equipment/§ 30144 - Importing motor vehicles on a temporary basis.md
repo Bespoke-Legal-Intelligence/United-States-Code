@@ -4,7 +4,7 @@
 
 General.—Section 30112(a) of this title does not apply to a motor vehicle imported on a temporary basis for personal use by an individual who is a member of—
 
-&emsp;(1)(A) the personnel of the government of a foreign country on assignment in the United States or a member of the Secretariat of a public international organization designated under the International Organization <sup>1</sup> Immunities Act (22 U.S.C. 288 et seq.); and
+&emsp;(1)(A) the personnel of the government of a foreign country on assignment in the United States or a member of the Secretariat of a public international organization designated under the International Organizations Immunities Act (22 U.S.C. 288 et seq.); and
 
 &emsp;(B) the class of individuals for whom the Secretary of State has authorized free importation of motor vehicles; or
 
@@ -22,11 +22,15 @@ Verification.—The Secretary of Transportation or the Secretary of the Treasury
 
 Sale in the United States.—A motor vehicle imported under this section may not be sold when in the United States.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 964.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 964; Pub. L. 104–287, §5(57), Oct. 11, 1996, 110 Stat. 3394.)
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+Pub. L. 103–272
+
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -50,13 +54,19 @@ In subsection (a)(1)(B), the word “importation” is substituted for “entry�
 
 In subsection (b), before clause (1), the words “that an individual is a member described under subsection (a) of this section” are substituted for “such status” for clarity. The word “imported” is substituted for “entered” for clarity and consistency in this chapter. In clause (2), the words “a member described under subsection (a) of this section” are substituted for “hold such status” for clarity.
 
+#### Pub. L. 104–287
+
+This amends 49:30144(a)(1)(A) to correct an erroneous cross-reference.
+
 #### References in Text
 
 The International Organizations Immunities Act, referred to in subsec. (a)(1)(A), is title I of act Dec. 29, 1945, ch. 652, 59 Stat. 669, as amended, which is classified principally to subchapter XVIII (§288 et seq.) of chapter 7 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 288 of Title 22 and Tables.
 
+#### Amendments
+
+1996—Subsec. (a)(1)(A). Pub. L. 104–287 substituted “International Organizations” for “International Organization”.
+
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 30112, 30142, 30165 of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should be “Organizations”.</i>
 

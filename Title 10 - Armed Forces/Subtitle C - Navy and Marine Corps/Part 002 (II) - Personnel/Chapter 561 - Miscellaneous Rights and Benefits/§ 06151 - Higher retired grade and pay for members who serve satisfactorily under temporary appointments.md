@@ -1,34 +1,28 @@
 ### §6151. Higher retired grade and pay for members who serve satisfactorily under temporary appointments
 
-(a) Unless otherwise entitled to a higher retired grade and subject to sections 688 and 1370 of this title, each member, other than a retired member, of the Navy or the Marine Corps shall, when retired, be advanced on the retired list to the highest officer grade in which he served satisfactorily under a temporary appointment as determined by the Secretary of the Navy.
+(a) Unless otherwise entitled to a higher retired grade and subject to sections 689 and 1370 of this title, each member, other than a retired member, of the Navy or the Marine Corps shall, when retired, be advanced on the retired list to the highest officer grade in which he served satisfactorily under a temporary appointment as determined by the Secretary of the Navy.
 
 (b) Each member (other than a former member of the Fleet Reserve or the Fleet Marine Corps Reserve) who is advanced on the retired list under this section is (unless otherwise entitled to higher retired pay) entitled to retired pay determined in accordance with the following table. References in the table are to sections of this title.
 
 &nbsp;
 
-| &nbsp; | &nbsp; |
-| :--- | ---: |
-| Column 1 | Column 2 |
-| Take | Multiply by |
-|  |  |
+| Column 1Take | Column 2Multiply by |
+| --- | --- |
 | Retired pay base computed under section 1406(d) or 1407 | Retired pay multiplier prescribed under section 1409 for the years of service that may be credited to him under section 1405. |
 
 (c) Each former member of the Fleet Reserve or the Fleet Marine Corps Reserve who is advanced on the retired list under this section is entitled to retired pay determined in accordance with the following table. References in the table are to sections of this title.
 
 &nbsp;
 
-| &nbsp; | &nbsp; |
-| :--- | ---: |
-| Column 1 | Column 2 |
-| Take | Multiply by |
-|  |  |
+| Column 1Take | Column 2Multiply by |
+| --- | --- |
 | Retired pay base computed under section 1406(d) or 1407 | Retired pay multiplier prescribed under section 1409 for the number of years of service creditable for his retainer pay at the time of retirement. |
 
 (d) A member who is advanced on the retired list under this section from the grade of warrant officer, W–1, or from an enlisted grade to a commissioned grade, and who applies to the Secretary within three months after his advancement, shall, if the Secretary approves, be restored on the retired list to his former warrant officer or enlisted grade, as the case may be. A member who is restored to his former grade under this subsection is thereafter considered for all purposes as a warrant officer, W–1, or an enlisted member, as the case may be.
 
 (e) Retired pay computed under subsection (b) or (c), if not a multiple of $1, shall be rounded to the next lower multiple of $1.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 385; May 20, 1958, Pub. L. 85–422, §11(a)(6)(A), 72 Stat. 131; Sept. 2, 1958, Pub. L. 85–861, §1(138), (139)(A), 72 Stat. 1507, 1508; Oct. 2, 1963, Pub. L. 88–132, §5(h)(4), 77 Stat. 214; Sept. 8, 1980, Pub. L. 96–342, title VIII, §813(d)(13), 94 Stat. 1108; Dec. 12, 1980, Pub. L. 96–512, title V, §§503(45), 513(17), 94 Stat. 2914, 2932; Sept. 24, 1983, Pub. L. 98–94, title IX, §§922(a)(9), 923(c)(1), 97 Stat. 641, 643; July 1, 1986, Pub. L. 99–348, title II, §203(c), 100 Stat. 696.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 385; May 20, 1958, Pub. L. 85–422, §11(a)(6)(A), 72 Stat. 131; Sept. 2, 1958, Pub. L. 85–861, §1(138), (139)(A), 72 Stat. 1507, 1508; Oct. 2, 1963, Pub. L. 88–132, §5(h)(4), 77 Stat. 214; Sept. 8, 1980, Pub. L. 96–342, title VIII, §813(d)(13), 94 Stat. 1108; Dec. 12, 1980, Pub. L. 96–512, title V, §§503(45), 513(17), 94 Stat. 2914, 2932; Sept. 24, 1983, Pub. L. 98–94, title IX, §§922(a)(9), 923(c)(1), 97 Stat. 641, 643; July 1, 1986, Pub. L. 99–348, title II, §203(c), 100 Stat. 696; Sept. 23, 1996, Pub. L. 104–201, div. A, title V, §521(d), 110 Stat. 2517.)
 
 Historical and Revision Notes<br>1956
 
@@ -106,6 +100,8 @@ Reference to the provisions of law under which temporary appointments in officer
 
 #### Amendments
 
+1996—Subsec. (a). Pub. L. 104–201 substituted “sections 689” for “sections 688”.
+
 1986—Subsec. (b). Pub. L. 99–348 amended subsec. (b) generally, substituting provision that retired pay be determined in accordance with the table for provision that retired pay, in the case of a member who first became a member of a uniformed service, as defined in section 1407(a)(2), before Sept. 8, 1980, be at the rate of 21/2 percent of the basic pay of the grade to which advanced or, in the case of a member who first became a member of a uniformed service, as defined in section 1407(a)(2), on or after Sept. 8, 1980, be at a rate of 21/2 percent of the monthly retired pay base computed under section 1407(d), which rates were to be multiplied by the number of years of service credited under section 1405, but such retired pay was not to be more than 75 percent of the basic pay or monthly retired pay base upon which the computation of retired pay was based and, in determining the number of years to be used as a multiplier, each additional full month of service was to be counted as one-twelfth of a year and any remaining fractional part of a month was to be disregarded.
 
 Subsec. (c). Pub. L. 99–348 amended subsec. (c) generally, substituting provision that retired pay of a former member be determined in accordance with the table for provision that retired pay, in the case of a former member who first became a member of a uniformed service, as defined in section 1407(a)(2), before Sept. 8, 1980, be at a rate of 21/2 percent of the basic pay of the grade to which advanced, determined by the same period of service used to determine the basic pay of the grade upon which his retainer pay was based, multiplied by the number of years of creditable service for his retainer pay at the time of retirement, but such retired pay was not to be more than 75 percent of the basic pay upon the computation of retired pay was based, or in the case of a former member who first became a member of a uniformed service, as defined in section 1407(a)(2), on or after Sept. 8, 1980, that retired pay be at a rate of 21/2 percent of the monthly retired pay base computed under section 1407(d), multiplied by the number of years of creditable service for his retainer pay at the time of retirement, but such retired pay was not to be more than 75 percent of the monthly retired pay base upon which the computation of retired pay was based.
@@ -131,6 +127,10 @@ Pub. L. 96–342 designated existing provisions as par. (1), inserted provision 
 Subsec. (a). Pub. L. 85–861, §1(138), struck out provisions which restricted application of section to members of the Navy or the Marine Corps who were appointed or promoted under the act of July 24, 1941, ch. 320, 55 Stat. 603.
 
 Subsec. (b). Pub. L. 85–422 substituted “that may be credited to him under section 1405 of this title” for “creditable for basic pay”.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–201 effective Sept. 30, 1997, see section 521(b) of this title, set out as an Effective Date note under section 688 of this title.
 
 #### Effective Date of 1983 Amendment
 

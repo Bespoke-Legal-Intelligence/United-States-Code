@@ -1,6 +1,6 @@
 ### §5304. Prohibition against duplication of benefits
 
-(a)(1) Except to the extent that retirement pay is waived under other provisions of law, not more than one award of pension, compensation, emergency officers’, regular, or reserve retirement pay, or initial award of naval pension granted after July 13, 1943, shall be made concurrently to any person based on such person's own service or concurrently to any person based on the service of any other person.
+(a)(1) Except to the extent that retirement pay is waived under other provisions of law, not more than one award of pension, compensation, emergency officers’, regular, or reserve retirement pay, or initial award of naval pension granted after July 13, 1943, shall be made concurrently to any person based on such person's ownservice or concurrently to any person based on the service of any other person.
 
 (2) Notwithstanding the provisions of paragraph (1) of this subsection and of section 5305 of this title, pension under section 1521 or 1541 of this title may be paid to a person entitled to receive retired or retirement pay described in section 5305 of this title concurrently with such person's receipt of such retired or retirement pay if the annual amount of such retired or retirement pay is counted as annual income for the purposes of chapter 15 of this title.
 

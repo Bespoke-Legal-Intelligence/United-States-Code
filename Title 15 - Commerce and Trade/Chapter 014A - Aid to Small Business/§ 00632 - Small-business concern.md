@@ -50,7 +50,7 @@ For purposes of this chapter, any reference to an agency or department of the Un
 
 &emsp;&emsp;(i) which is maintained by such concern, and
 
-&emsp;&emsp;(ii) which provides that each participant in the plan is entitled to direct the plan as to the manner in which voting rights under qualifying employer securities (as defined in section 4975(e)(8) of title 26) which are allocated to the account of such participant are to be exercised with respect to a corporatematter which (by law or charter) must be decided by a majority vote of outstanding common shares voted; and
+&emsp;&emsp;(ii) which provides that each participant in the plan is entitled to direct the plan as to the manner in which voting rights under qualifying employer securities (as defined in section 4975(e)(8) of title 26) which are allocated to the account of such participant are to be exercised with respect to a corporate matter which (by law or charter) must be decided by a majority vote of outstanding common shares voted; and
 
 &emsp;(B) in the case of any loan guarantee under section 636(a) of this title, the trustee of which enters into an agreement with the Administrator which is binding on the trust and on such small business concern and which provides that—
 
@@ -118,7 +118,7 @@ For purposes of section 636 of this title, the term “energy measures” includ
 
 #### (h) “Credit elsewhere” defined
 
-For purposes of this chapter the term “credit elsewhere” means the availability of credit fromnon-Federal sources on reasonable terms and conditions taking into consideration the prevailing rates and terms in the community in or near where the concern transacts business, or the homeowner resides, for similar purposes and periods of time.
+For purposes of this chapter the term “credit elsewhere” means the availability of credit from non-Federal sources on reasonable terms and conditions taking into consideration the prevailing rates and terms in the community in or near where the concern transacts business, or the homeowner resides, for similar purposes and periods of time.
 
 #### (i) “Homeowners” defined
 
@@ -126,11 +126,11 @@ For purposes of section 636 of this title, the term “homeowners” includes ow
 
 #### (j) “Small agricultural cooperative” defined
 
-For the purposes of section 636(b)(2) of this title, the term “small agricultural cooperative” means an association (corporate or otherwise) acting pursuant to the provisions of the Agricultural Marketing Act (12 U.S.C. 1141j), whose size does not exceed the size standard established by the Administration for other similar agricultural small business concerns. In determining such size, the Administration shall regard the association as a business concern and shall not include the income or employees of any member shareholder of such cooperative.
+For the purposes of section 636(b)(2) of this title, the term “small agricultural cooperative” means an association (corporate or otherwise) acting pursuant to the provisions of the Agricultural Marketing Act (12 U.S.C. 1141j), whose sizedoes not exceed the size standard established by the Administration for other similar agricultural small business concerns. In determining such size, the Administration shall regard the association as a business concern and shall not include the income or employees of any member shareholder of such cooperative.
 
 #### (k) “Disaster” defined
 
-For the purposes of this chapter, the term “disaster” means a sudden event which causes severe damage including, but not limited to, floods, hurricanes, tornadoes, earthquakes, fires, explosions, volcanoes, windstorms, landslides or mudslides, tidal waves, ocean conditions resulting in the closure of customary fishing waters, riots, civil disorders or other catastrophes, except it does not include economic dislocations.
+For the purposes of this chapter, the term “disaster” means a sudden event which causes severe damage including, but not limited to, floods, hurricanes, tornadoes, earthquakes, fires, explosions, volcanoes, windstorms, landslides or mudslides, tidal waves, commercial fishery failures or fishery resource disasters (as determined by the Secretary of Commerce under section 4107(b) of title 16), ocean conditions resulting in the closure of customary fishing waters, riots, civil disorders or other catastrophes, except it does not include economic dislocations.
 
 #### (<i>l</i>) “Computer crime” defined
 
@@ -154,7 +154,7 @@ For the purposes of this chapter, a small business concern is a small business c
 
 &emsp;(2) the management and daily business operations of the business are controlled by one or more women.
 
-(Pub. L. 85–536, §2\[3\], July 18, 1958, 72 Stat. 384; Pub. L. 94–305, title I, §112(b), June 4, 1976, 90 Stat. 667; Pub. L. 95–507, title II, §224(b), Oct. 24, 1978, 92 Stat. 1772; Pub. L. 96–302, title V, §504, July 2, 1980, 94 Stat. 851; Pub. L. 96–481, title I, §108, Oct. 21, 1980, 94 Stat. 2323; Pub. L. 97–35, title XIX, §1903, Aug. 13, 1981, 95 Stat. 771; Pub. L. 98–270, title III, §310, Apr. 18, 1984, 98 Stat. 161; Pub. L. 98–362, §6, July 16, 1984, 98 Stat. 434; Pub. L. 98–473, title I, §111A(b), Oct. 12, 1984, 98 Stat. 1966; Pub. L. 99–272, title XVIII, §18016, Apr. 7, 1986, 100 Stat. 371; Pub. L. 99–500, §101(c) \[title X, §921(f)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–149, and Pub. L. 99–591, §101(c) \[title X, §921(f)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–149; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–661, div. A, title IX, formerly title IV, §921(f), Nov. 14, 1986, 100 Stat. 3929, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–26, §10(b)(2), Apr. 21, 1987, 101 Stat. 288; Pub. L. 100–456, div. A, title VIII, §845, Sept. 29, 1988, 102 Stat. 2027; Pub. L. 100–590, title I, §119(b), Nov. 3, 1988, 102 Stat. 2999; Pub. L. 100–656, title VII, §732, Nov. 15, 1988, 102 Stat. 3897; Pub. L. 101–510, div. A, title VIII, §806(e)(1), Nov. 5, 1990, 104 Stat. 1592; Pub. L. 102–366, title II, §222(a), Sept. 4, 1992, 106 Stat. 999; Pub. L. 103–355, title IV, §4404(a), title VII, §7106(d), Oct. 13, 1994, 108 Stat. 3349, 3376; Pub. L. 103–403, title III, §301, Oct. 22, 1994, 108 Stat. 4187.)
+(Pub. L. 85–536, §2\[3\], July 18, 1958, 72 Stat. 384; Pub. L. 94–305, title I, §112(b), June 4, 1976, 90 Stat. 667; Pub. L. 95–507, title II, §224(b), Oct. 24, 1978, 92 Stat. 1772; Pub. L. 96–302, title V, §504, July 2, 1980, 94 Stat. 851; Pub. L. 96–481, title I, §108, Oct. 21, 1980, 94 Stat. 2323; Pub. L. 97–35, title XIX, §1903, Aug. 13, 1981, 95 Stat. 771; Pub. L. 98–270, title III, §310, Apr. 18, 1984, 98 Stat. 161; Pub. L. 98–362, §6, July 16, 1984, 98 Stat. 434; Pub. L. 98–473, title I, §111A(b), Oct. 12, 1984, 98 Stat. 1966; Pub. L. 99–272, title XVIII, §18016, Apr. 7, 1986, 100 Stat. 371; Pub. L. 99–500, §101(c) \[title X, §921(f)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–149, and Pub. L. 99–591, §101(c) \[title X, §921(f)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–149; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–661, div. A, title IX, formerly title IV, §921(f), Nov. 14, 1986, 100 Stat. 3929, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–26, §10(b)(2), Apr. 21, 1987, 101 Stat. 288; Pub. L. 100–456, div. A, title VIII, §845, Sept. 29, 1988, 102 Stat. 2027; Pub. L. 100–590, title I, §119(b), Nov. 3, 1988, 102 Stat. 2999; Pub. L. 100–656, title VII, §732, Nov. 15, 1988, 102 Stat. 3897; Pub. L. 101–510, div. A, title VIII, §806(e)(1), Nov. 5, 1990, 104 Stat. 1592; Pub. L. 102–366, title II, §222(a), Sept. 4, 1992, 106 Stat. 999; Pub. L. 103–355, title IV, §4404(a), title VII, §7106(d), Oct. 13, 1994, 108 Stat. 3349, 3376; Pub. L. 103–403, title III, §301, Oct. 22, 1994, 108 Stat. 4187; Pub. L. 104–208, div. D, title I, §104(b)(1), Sept. 30, 1996, 110 Stat. 3009–730.)
 
 #### References in Text
 
@@ -172,6 +172,8 @@ Prior similar provisions were contained in section 203 of act July 30, 1953, ch.
 
 #### Amendments
 
+1996—Subsec. (k). Pub. L. 104–208 inserted “commercial fishery failures or fishery resource disasters (as determined by the Secretary of Commerce under section 4107(b) of title 16),” after “tidal waves,”.
+
 1994—Subsec. (a)(2). Pub. L. 103–403 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “In addition to the criteria specified in paragraph (1), the Administrator may specify detailed definitions or standards (by number of employees or dollar volume of business) by which a business concern is to be recognized as a small business concern for the purposes of this chapter or any other Act. Unless specifically authorized by statute, the Secretary of a department or the head of a Federal agency may not prescribe for the use of such department or agency a size standard for categorizing a business concern as a small business concern, unless such proposed size standard—
 
 &emsp;“(A) is being proposed after an opportunity for public notice and comment;
@@ -188,7 +190,7 @@ Subsec. (m). Pub. L. 103–355, §4404(a), substituted “ ‘simplified acquis
 
 Subsec. (n). Pub. L. 103–355, §7106(d), added subsec. (n).
 
-1992—Subsec. (a). Pub. L. 102–366 added pars. (2) and (3) and struck out at end of par. (1) “In addition to the foregoing criteria the Administrator, in making a detailed definition, may use these criteria, among others: Number of employees and dollar volume of business: <i>Provided</i>, That the Administration shall not promulgate, amend, or rescind any rule \[or\] regulation with respect to size standards prior to March 31, 1981. Where the number of employees is used as one of the criteria in making such definition for any of the purposes of this chapter, the maximum number of employees which a small-business concern may have under the definition shall vary from industry to industry to the extent necessary to reflect differing characteristics of such industries and to take proper account of other relevant factors.”
+1992—Subsec. (a). Pub. L. 102–366 added pars. (2) and (3) and struck out at end of par. (1) “In addition to the foregoing criteria the Administrator, in making a detailed definition, may use these criteria, among others: Number of employees and dollar volume of business:<i>Provided</i>, That the Administration shall not promulgate, amend, or rescind any rule \[or\] regulation with respect to size standards prior to March 31, 1981. Where the number of employees is used as one of the criteria in making such definition for any of the purposes of this chapter, the maximum number of employees which a small-business concern may have under the definition shall vary from industry to industry to the extent necessary to reflect differing characteristics of such industries and to take proper account of other relevant factors.”
 
 1990—Subsec. (m). Pub. L. 101–510 added subsec. (m).
 
@@ -196,7 +198,7 @@ Subsec. (n). Pub. L. 103–355, §7106(d), added subsec. (n).
 
 Pub. L. 100–456 inserted provisions in par. (4)(C) respecting applicability of regulations to contracts entered into on or after Oct. 1, 1988.
 
-Subsecs. (j) to (<i>l</i>). Pub. L. 100–590 added subsec. (k) and redesignated subsec. (j), defining “computer crime”, as (<i>l).</i>
+Subsecs. (j) to (<i>l</i>). Pub. L. 100–590 added subsec. (k) and redesignated subsec. (j), defining “computer crime”, as (<i>l</i>).
 
 1987—Subsec. (a)(3). Pub. L. 100–26, §10(b)(2)(A), substituted “dollar value of the contracts to be awarded in that industry category” for “value of contracts to be awarded under such sections”.
 
@@ -226,6 +228,10 @@ Subsec. (c). Pub. L. 96–302 added subsec. (c).
 
 1976—Pub. L. 94–305 inserted reference to enterprises that are engaged in business of production of food and fiber, ranching and raising of livestock, aquaculture, and all other farming and agricultural related industries.
 
+#### Effective Date of 1996 Amendment
+
+Section 104(b)(2) of div. D of Pub. L. 104–208 provided that: “The amendment made by paragraph (1) \[amending this section\] shall be effective with respect to any disaster occurring on or after March 1, 1994.”
+
 #### Effective Date of 1994 Amendment
 
 For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under section 251 of Title 41, Public Contracts.
@@ -252,7 +258,7 @@ Initial Review of Size Standards.—(1) Paragraph (2) of section 3(a) of the Sma
 
 #### Effective Date of 1984 Amendments
 
-Section 312 of title III of Pub. L. 98–270 provided that: “The amendments made by sections 310 and 311 of this title \[amending this section and section 636 of this title\] shall apply to loans granted on the basis of any disaster with respect to which a declaration has been issued after September 1, 1982, under section 7(b)(2) (A), (B), or (C) of the Small Business Act \[15 U.S.C. 636(b)(2)(A), (B), (C)\] or with respect to which a certification has been made after such date under section 7(b)(2)(D) of such Act.”
+Section 312 of title III of Pub. L. 98–270 provided that: “The amendments made by sections 310 and 311 of this title \[amending this section and section 636 of thistitle\] shall apply to loans granted on the basis of any disaster with respect to which a declaration has been issued after September 1, 1982, under section 7(b)(2) (A), (B), or (C) of the Small Business Act \[15 U.S.C. 636(b)(2)(A), (B), (C)\] or with respect to which a certification has been made after such date under section 7(b)(2)(D) of such Act.”
 
 Section 313 of title III of Pub. L. 98–270 provided that: “This title \[amending this section and sections 633, 636, and 647 of this title, enacting provisions set out as notes under sections 632 and 636 of this title, and amending provisions set out as a note under section 631 of this title\] shall take effect October 1, 1983.”
 
@@ -288,7 +294,7 @@ Section 101(c) \[title X, §921(i)\] of Pub. L. 99–500 and Pub. L. 99–591, a
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 78c, 637, 638, 644, 3703, 4721, 4724 of this title; title 5 section 601; title 10 section 2319; title 12 sections 635, 1835, 3013; title 13 section 91; title 31 sections 3554, 6701; title 35 sections 41, 201; title 40 section 759; title 41 section 253c; title 42 sections 300u, 5302, 6322, 7261b, 12002, 13556; title 49 section 47113; title 50 App. section 2152.
+This section is referred to in sections 78c, 637, 638, 644, 662, 3703, 4721, 4724 of this title; title 5 section 601; title 7 section 5623; title 10 section 2319; title 12 sections 635, 1835, 3013; title 13 section 91; title 31 sections 3554, 6701; title 35 sections 41, 201; title 41 section 253c; title 42 sections 300u, 5302, 6322, 7261b, 12002, 13556; title 49 section 47113; title 50 App. section 2152.
 
 <i><sup>1</sup></i><i> So in original. No par. (2) has been enacted.</i>
 

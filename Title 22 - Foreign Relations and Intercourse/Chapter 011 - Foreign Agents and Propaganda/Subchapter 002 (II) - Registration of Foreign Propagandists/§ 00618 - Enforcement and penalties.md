@@ -12,9 +12,9 @@ Any person who—
 
 In any proceeding under this subchapter in which it is charged that a person is an agent of a foreign principal with respect to a foreign principal outside of the United States, proof of the specific identity of the foreign principal shall be permissible but not necessary.
 
-#### (c) Deportation
+#### (c) Removal
 
-Any alien who shall be convicted of a violation of, or a conspiracy to violate, any provision of this subchapter or any regulation thereunder shall be subject to deportation in the manner provided by sections 1251 to 1253 of title 8.
+Any alien who shall be convicted of a violation of, or a conspiracy to violate, any provision of this subchapter or any regulation thereunder shall be subject to removal pursuant to chapter 4 of title II of the Immigration and Nationality Act \[8 U.S.C. 1221 et seq.\].
 
 #### (d) Repealed. Pub. L. 104–65, §9(8)(B), Dec. 19, 1995, 109 Stat. 700
 
@@ -34,13 +34,19 @@ If the Attorney General determines that a registration statement does not comply
 
 It shall be unlawful for any agent of a foreign principal required to register under this subchapter to be a party to any contract, agreement, or understanding, either express or implied, with such foreign principal pursuant to which the amount or payment of the compensation, fee, or other remuneration of such agent is contingent in whole or in part upon the success of any political activities carried on by such agent.
 
-(June 8, 1938, ch. 327, §8, as added Apr. 29, 1942, ch. 263, §1, 56 Stat. 257; amended Sept. 23, 1950, ch. 1024, title I, §20(b), 64 Stat. 1005; June 27, 1952, ch. 477, title IV, §402(d), 66 Stat. 276; Aug. 1, 1956, ch. 849, §1, 70 Stat. 899; July 4, 1966, Pub. L. 89–486, §7, 80 Stat. 248; Nov. 8, 1984, Pub. L. 98–620, title IV, §402(26), 98 Stat. 3359; Dec. 19, 1995, Pub. L. 104–65, §9(8), 109 Stat. 700.)
+(June 8, 1938, ch. 327, §8, as added Apr. 29, 1942, ch. 263, §1, 56 Stat. 257; amended Sept. 23, 1950, ch. 1024, title I, §20(b), 64 Stat. 1005; June 27, 1952, ch. 477, title IV, §402(d), 66 Stat. 276; Aug.1, 1956, ch. 849, §1, 70 Stat. 899; July 4, 1966, Pub. L. 89–486, §7, 80 Stat. 248; Nov. 8, 1984, Pub. L. 98–620, title IV, §402(26), 98 Stat. 3359; Dec. 19, 1995, Pub. L. 104–65, §9(8), 109 Stat. 700; Sept. 30, 1996, Pub. L. 104–208, div. C, title III, §308(e)(19), 110 Stat. 3009–621.)
+
+#### References in Text
+
+The Immigration and Nationality Act, referred to in subsec. (c), is act June 27, 1952, ch. 477, 66 Stat. 163, as amended. Chapter 4 of title II of the Act is classified generally to part IV (§1221 et seq.) of subchapter II of chapter 12 of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 8 and Tables.
 
 #### Prior Provisions
 
 Provisions on this subject were contained in section 615 of this title prior to general amendment of act June 8, 1938, by act Apr. 29, 1942.
 
 #### Amendments
+
+1996—Subsec. (c). Pub. L. 104–208 substituted “removal pursuant to chapter 4 of title II of the Immigration and Nationality Act” for “deportation in the manner provided by sections 1251 to 1253 of title 8”.
 
 1995—Subsec. (a)(2). Pub. L. 104–65, §9(8)(A), struck out “or in any statement under section 614(a) of this title concerning the distribution of political propaganda” after “or supplement thereto”.
 
@@ -57,6 +63,10 @@ Subsecs. (f) to (h). Pub. L. 89–486, §7(2), added subsecs. (f) to (h).
 1952—Subsec. (c). Act June 27, 1952, substituted “sections 1251 to 1253 of title 8” for “sections 155 and 156 of title 8”.
 
 1950—Subsec. (e). Act Sept. 23, 1950, added subsec. (e).
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–208 effective, with certain transitional provisions, on the first day of the first month beginning more than 180 days after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as a note under section 1101 of Title 8, Aliens and Nationality.
 
 #### Effective Date of 1995 Amendment
 

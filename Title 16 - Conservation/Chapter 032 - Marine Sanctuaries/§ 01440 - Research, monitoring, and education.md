@@ -16,7 +16,7 @@ A prior section 309 of Pub. L. 92–532 was renumbered section 308 and is classi
 
 #### Amendments
 
-1992—Pub. L. 102–587 amended section generally. Prior to amendment, section read as follows: “The Secretary shall take such action as is necessary to promote and coordinate the use of national marine sanctuaries for research purposes, including—
+1992—Pub. L. 102–587 amended section generally. Prior to amendment, section read as follows: “The Secretaryshall take such action as is necessary to promote and coordinate the use of national marine sanctuaries for research purposes, including—
 
 &emsp;“(1) requiring that the National Oceanic and Atmospheric Administration, in conducting or supporting marine research, give priority to research involving national marine sanctuaries; and
 

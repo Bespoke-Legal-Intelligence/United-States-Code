@@ -34,7 +34,9 @@ Limitation.—A Civil Aviation Security Field Officer may not be assigned securi
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -42,17 +44,17 @@ Historical and Revision Notes
 
 44933(a)
 
-49 App.:1358b(a) (1), (2), (4).
+49 App.:1358b(a)(1), (2), (4).
 
 Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §319(a); added Nov. 16, 1990, Pub. L. 101–604, §104, 104 Stat. 3070.
 
 44933(b)
 
-49 App.:1358b(a) (3).
+49 App.:1358b(a)(3).
 
 44933(c)
 
-49 App.:1358b(a) (5).
+49 App.:1358b(a)(5).
 
 In subsection (a), the words “Not later than 90 days after November 16, 1990” are omitted as obsolete. The words “The Administrator shall designate individuals as Managers for, and station those Managers at, those airports” are substituted for “and shall begin designating persons as such Managers and stationing such Managers at such airports” for clarity and because of the restatement. The words “and designate a current field employee of the Administration as a Manager” are substituted for “assign the functions and responsibilities described in this section to existing Federal Aviation Administration field personnel and designate such personnel accordingly” to eliminate unnecessary words. The words “to the office of” are omitted as unnecessary. The words “Not later than 1 year after November 16, 1990” are omitted as obsolete. The words “Secretary of Transportation” are substituted for “Department of Transportation” because of 49:102.
 
@@ -62,5 +64,5 @@ In subsection (c), the words “duties and powers” are substituted for “resp
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 44932, 44934, 46301, 46316 of this title.
+This section is referred to in sections 44932, 44934 of this title.
 

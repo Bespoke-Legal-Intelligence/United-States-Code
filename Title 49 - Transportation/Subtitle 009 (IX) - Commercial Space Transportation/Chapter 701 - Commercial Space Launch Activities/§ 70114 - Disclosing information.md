@@ -6,7 +6,9 @@ The Secretary of Transportation, an officer or employee of the United States Gov
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

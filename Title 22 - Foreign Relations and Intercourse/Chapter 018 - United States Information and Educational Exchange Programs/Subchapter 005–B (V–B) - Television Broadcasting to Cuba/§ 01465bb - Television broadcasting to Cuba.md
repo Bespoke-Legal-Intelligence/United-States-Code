@@ -10,7 +10,7 @@ Television broadcasting to Cuba under this subchapter shall be in accordance wit
 
 #### (c) USIA Television Marti
 
-Any program of United States Government television broadcasts to Cuba authorized by this section shall be designated “USIA Television Marti Program”.
+Any program of United States Government television broadcasts to Cuba authorized by thissection shall be designated “USIA Television Marti Program”.
 
 #### (d) Frequency assignment
 
@@ -41,6 +41,10 @@ The Federal Communications Commission shall continually monitor and periodically
 It is the sense of the Congress that the President should establish a task force to analyze the level of interference from the operation of Cuban television and radio stations experienced by broadcasters in the United States and to seek a practical political and technical solution to this problem.
 
 (Pub. L. 101–246, title II, §243, Feb. 16, 1990, 104 Stat. 59.)
+
+#### Repeal of Section
+
+<i>Section repealed upon transmittal of determination by President under section 6063(c)(3) of this title that democratically elected government in Cuba is in power, see section 6037(c) of this title.</i>
 
 #### References in Text
 

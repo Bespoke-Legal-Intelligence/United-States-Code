@@ -26,5 +26,5 @@ A prior section 421, Pub. L. 87â€“649, Sept. 7, 1962, 76 Stat. 479; Pub. L. 88â€
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 406b of this title.
+This section is referred to in sections 403, 406b, 427 of this title.
 

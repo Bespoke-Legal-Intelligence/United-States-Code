@@ -24,7 +24,7 @@
 
 #### (3) Adjustment for inflation
 
-&emsp;For any fiscal year, beginning in fiscal year 1994, in which the total amount appropriatedto carry out this part exceeds the total amount appropriated to carry out this part for the preceding fiscal year by a percentage greater than the most recent percentage change in the Consumer Price Index For All Urban Consumers published by the Secretary of Labor under section 720(c)(1) of this title, the Commissioner shall increase the minimum allotment under paragraph (1)(B) by such percentage change in the Consumer Price Index For All Urban Consumers.
+&emsp;For any fiscal year, beginning in fiscal year 1994, in which the total amount appropriated to carry out this part exceeds the total amount appropriated to carry out this part for the preceding fiscal year by a percentage greater than the most recent percentage change in the Consumer Price Index For All Urban Consumers published by the Secretary of Labor under section 720(c)(1) of this title, the Commissioner shall increase the minimum allotment under paragraph (1)(B) by such percentage change in the Consumer Price Index For All Urban Consumers.
 
 #### (b) Proportional reduction
 

@@ -26,7 +26,9 @@ Accidents Involving Only Military Aircraft.—If an accident involves only milit
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -50,7 +52,7 @@ Oct. 15, 1966, Pub. L. 89–670, §6(d) (1st sentence), 80 Stat. 938.
 
 &nbsp;
 
-49 App.:1903(a) (1)(A).
+49 App.:1903(a)(1)(A).
 
 Jan. 3, 1975, Pub. L. 93–633, §304(a)(1)(A), 88 Stat. 2168.
 
@@ -64,7 +66,7 @@ Jan. 3, 1975, Pub. L. 93–633, §304(a)(1)(A), 88 Stat. 2168.
 
 &nbsp;
 
-49 App.:1903(a) (1)(A).
+49 App.:1903(a)(1)(A).
 
 1132(b)
 
@@ -76,7 +78,7 @@ Jan. 3, 1975, Pub. L. 93–633, §304(a)(1)(A), 88 Stat. 2168.
 
 &nbsp;
 
-49 App.:1903(a) (1)(A).
+49 App.:1903(a)(1)(A).
 
 1132(c)
 
@@ -94,7 +96,7 @@ Oct. 15, 1966, Pub. L. 89–670, §6(c)(1), 80 Stat. 938; Jan. 12, 1983, Pub. L.
 
 &nbsp;
 
-49 App.:1903(a) (1)(A).
+49 App.:1903(a)(1)(A).
 
 1132(d)
 
@@ -106,7 +108,7 @@ Oct. 15, 1966, Pub. L. 89–670, §6(c)(1), 80 Stat. 938; Jan. 12, 1983, Pub. L.
 
 &nbsp;
 
-49 App.:1903(a) (1)(A).
+49 App.:1903(a)(1)(A).
 
 In subsection (a)(1)(A), the words “and report the facts, conditions, and circumstances related to each accident and the probable cause thereof” in 49 App.:1441(a)(2) are omitted as unnecessary because of section 1131(d) of the revised title.
 
@@ -114,7 +116,7 @@ In subsection (a)(1)(B), the words “provide for” in 49 App.:1442(a) are omit
 
 In subsection (a)(2), the words “any member of the National Transportation Safety Board or any officer or employee of the National Transportation Safety Board” in 49 App.:1441(c) are omitted as unnecessary because of sections 1113 and 1134 of the revised title.
 
-In subsections (c) and (d), the words “Secretary of Transportation” and “Secretary” are substituted for “Administrator” in sections 701(g) and 702(b) and (c) of the Federal Aviation Act of 1958 (Public Law 85–726, 72 Stat. 782) for consistency. Section 6(c)(1) of the Department of Transportation Act (Public Law 89–670, 80 Stat. 938) transferred all duties and powers of the Federal Aviation Agency and the Administrator to the Secretary of Transportation. However, the Secretary wasto carry out certain provisions through the Administrator. In addition, various laws enacted since then have vested duties and powers in the Administrator. All provisions of law the Secretary is required to carry out through the Administrator are included in 49:106(g).
+In subsections (c) and (d), the words “Secretary of Transportation” and “Secretary” are substituted for “Administrator” in sections 701(g) and 702(b) and (c) of the Federal Aviation Act of 1958 (Public Law 85–726, 72 Stat. 782) for consistency. Section 6(c)(1) of the Department of Transportation Act (Public Law 89–670, 80 Stat. 938) transferred all duties and powers of the Federal Aviation Agency and the Administrator to the Secretary of Transportation. However, the Secretary was to carry out certain provisions through the Administrator. In addition, various laws enacted since then have vested duties and powers in the Administrator. All provisions of law the Secretary is required to carry out through the Administrator are included in 49:106(g).
 
 In subsection (c), the words “and his representatives” in 49 App.:1441(g) are omitted because of 49:322(b). The words “when participation is necessary to carry out the duties and powers” are substituted for “In order to assure the proper discharge . . . of his duties and responsibilities” to eliminate unnecessary words. The words “or his representatives” are omitted because of 49:322(b).
 

@@ -14,7 +14,7 @@ In the case of income derived from the sale of inventory property—
 
 &emsp;(1) this section shall not apply, and
 
-&emsp;(2) such income shall be sourced under the rules of sections 861(a)(6), 862(a)(6), and 863(b).
+&emsp;(2) such income shall be sourced under the rules of sections 861(a)(6), 862(a)(6), and 863.
 
 > Notwithstanding the preceding sentence, any income from the sale of any unprocessed timber which is a softwood and was cut from an area in the United States shall be sourced in the United States and the rules of sections 862(a)(6) and 863(b) shall not apply to any such income. For purposes of the preceding sentence, the term “unprocessed timber” means any log, cant, or similar form of timber.
 
@@ -38,7 +38,7 @@ In the case of income derived from the sale of inventory property—
 
 #### (A) In general
 
-&emsp;&emsp;The term “United States depreciation adjustments” means the portion of the depreciation adjustments to the adjusted basis of the property which are attributable to the depreciation deductions allowable in computing taxable income from sources in the United States.
+&emsp;&emsp;The term “United States depreciation adjustments” means the portion of the depreciation adjustments to the adjusted basis of the property which are attributable to thedepreciation deductions allowable in computing taxable income from sources in the United States.
 
 #### (B) Special rule for certain property
 
@@ -242,9 +242,11 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 &emsp;&emsp;<b>(2) For sourcing of income from certain foreign currency transactions, see section 988.</b>
 
-(Added Pub. L. 99–514, title XII, §1211(a), Oct. 22, 1986, 100 Stat. 2533; amended Pub. L. 100–647, title I, §1012(d)(1)–(6), (8), (9), (11), (12), Nov. 10, 1988, 102 Stat. 3497–3499; Pub. L. 101–508, title XI, §11813(b)(18), Nov. 5, 1990, 104 Stat. 1388–555; Pub. L. 103–66, title XIII, §13239(c), Aug. 10, 1993, 107 Stat. 509.)
+(Added Pub. L. 99–514, title XII, §1211(a), Oct. 22, 1986, 100 Stat. 2533; amended Pub. L. 100–647, title I, §1012(d)(1)–(6), (8), (9), (11), (12), Nov. 10, 1988, 102 Stat. 3497–3499; Pub. L. 101–508, title XI, §11813(b)(18), Nov. 5, 1990, 104 Stat. 1388–555; Pub. L. 103–66, title XIII, §13239(c), Aug. 10, 1993, 107 Stat. 509; Pub. L. 104–188, title I, §1704(f)(4)(A), Aug. 20, 1996, 110 Stat. 1880.)
 
 #### Amendments
+
+1996—Subsec. (b)(2). Pub. L. 104–188 substituted “863” for “863(b)”.
 
 1993—Subsec. (b). Pub. L. 103–66 inserted at end “Notwithstanding the preceding sentence, any income from the sale of any unprocessed timber which is a softwood and was cut from an area in the United States shall be sourced in the United States and the rules of sections 862(a)(6) and 863(b) shall not apply to any such income. For purposes of the preceding sentence, the term ‘unprocessed timber’ means any log, cant, or similar form of timber.”
 
@@ -294,6 +296,10 @@ Subsec. (j)(3). Pub. L. 100–647, §1012(d)(6)(B), added par. (3) to subsec. (i
 
 Subsec. (k). Pub. L. 100–647, §1012(d)(8), redesignated former subsec. (j) as (k).
 
+#### Effective Date of 1996 Amendment
+
+Section 1704(f)(4)(B) of Pub. L. 104–188 provided that: “The amendment made by subparagraph (A) \[amending this section\] shall take effect as if included in the amendments made by section 1211 of the Tax Reform Act of 1986 \[Pub. L. 99–514\].”
+
 #### Effective Date of 1993 Amendment
 
 Section 13239(e) of Pub. L. 103–66 provided that: “The amendments made by this section \[amending this section and sections 927, 954, and 993 of this title\] shall apply to sales, exchanges, or other dispositions after the date of the enactment of this Act \[Aug. 10, 1993\].”
@@ -322,7 +328,7 @@ Special rule for foreign persons.—In the case of any foreign person other than
 
 #### Savings Provision
 
-For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into accountprior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 29 of this title.
+For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 29 of this title.
 
 #### Applicability of Certain Amendments by Pub. L. 99–514 in Relation to Treaty Obligations of United States
 

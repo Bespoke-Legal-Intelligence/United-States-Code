@@ -2,7 +2,7 @@
 
 #### (a) Federal Energy Administration Regions in which Reserve may be established and maintained
 
-(1) The Strategic Petroleum Reserve Plan shall provide for the establishment and maintenance of a Regional Petroleum Reserve in, or readily accessible to, each Federal Energy Administration Region, as defined in title 10, Code of Federal Regulations in effect on November 1, 1975, in which imports of residual fuel oil or any refined petroleum product, during the 24-monthperiod preceding the date of computation, equal more than 20 percent of demand for such oil or product in such regions during such period, as determined by the Secretary. Such volume shall be computed annually.
+(1) The Strategic Petroleum Reserve Plan shall provide for the establishment and maintenance of a Regional Petroleum Reserve in, or readily accessible to, each Federal Energy Administration Region, as defined in title 10, Code of Federal Regulations in effect on November 1, 1975, in which imports of residual fuel oil or any refined petroleum product, during the 24-month period preceding the date of computation, equal more than 20 percent of demand for such oil or product in such regions during such period, as determined by the Secretary. Such volume shall be computed annually.
 
 (2) For the purpose of carrying out this section—
 
@@ -20,7 +20,7 @@ To implement the Strategic Petroleum Reserve Plan, the Secretary shall accumulat
 
 The Secretary may place in storage crude oil, residual fuel oil, or any refined petroleum product in substitution for all or part of the volume of residual fuel oil or any refined petroleum product stored in any Regional Petroleum Reserve pursuant to the provisions of this section if he finds that such substitution (1) is necessary or desirable for purposes of economy, efficiency, or for other reasons, and (2) may be made without delaying or otherwise adversely affecting the fulfillment of the purpose of the Regional Petroleum Reserve.
 
-(Pub. L. 94–163, title I, §157, Dec. 22, 1975, 89 Stat. 885; Pub. L. 95–619, title VI, §691(b)(2), Nov. 9, 1978, 92 Stat. 3288; Pub. L. 102–486, title XIV, §1405, Oct. 24, 1992, 106 Stat. 2995.)
+(Pub. L. 94–163, title I, §157, Dec. 22, 1975, 89 Stat. 885; Pub. L. 95–619, title VI, §691(b)(2), Nov. 9,1978, 92 Stat. 3288; Pub. L. 102–486, title XIV, §1405, Oct. 24, 1992, 106 Stat. 2995.)
 
 #### Amendments
 

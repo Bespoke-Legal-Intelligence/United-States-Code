@@ -1,7 +1,5 @@
 Wars Before World War I
 
-<i><sup>1</sup></i><i> So in original. Probably should be “remuneration”.</i>
-
 
 ---
 

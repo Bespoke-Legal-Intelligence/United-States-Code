@@ -10,7 +10,7 @@ Section 54, act Aug. 13, 1912, ch. 287, §4, 37 Stat. 304, subjected private and
 
 Section 55, act Aug. 13, 1912, ch. 287, §5, 37 Stat. 308, required license to prescribe that operator shall not willfully or maliciously interfere with any other radio communications and provided penalty for such violations. See sections 308 and 501 of this title.
 
-Section 56, act Aug. 13, 1912, ch. 287, §6, 37 Stat. 308, defined radio communication. See section 153(b) of this title.
+Section 56, act Aug. 13, 1912, ch. 287, §6, 37 Stat. 308, defined radio communication. See section 153(33) of this title.
 
 Section 57, act of Aug. 13, 1912, ch. 287, §7, 37 Stat. 308, prohibited uttering or transmitting false or fraudulent signals and prescribed penalty therefor. See sections 325 and 501 of this title.
 

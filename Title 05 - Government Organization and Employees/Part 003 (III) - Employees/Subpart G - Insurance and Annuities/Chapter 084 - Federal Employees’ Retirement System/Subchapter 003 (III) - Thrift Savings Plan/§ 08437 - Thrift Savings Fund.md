@@ -34,11 +34,11 @@
 
 #### Amendments
 
-<b>1994</b>—Subsec. (c)(5). Pub. L. 103–226 substituted “section 8433(g)” for “section 8433(i)”.
+1994—Subsec. (c)(5). Pub. L. 103–226 substituted “section 8433(g)” for “section 8433(i)”.
 
 Subsec. (e)(3). Pub. L. 103–358 substituted “or relating to the enforcement of a judgment for physically, sexually, or emotionally abusing a child as provided under section 8467(a).” for period at end of first sentence.
 
-<b>1988</b>—Subsec. (d). Pub. L. 100–238, §117(a)(1), struck out “attributable to sums contributed to such Fund under section 8432(c) of this title” after “such Fund”.
+1988—Subsec. (d). Pub. L. 100–238, §117(a)(1), struck out “attributable to sums contributed to such Fund under section 8432(c) of this title” after “such Fund”.
 
 Subsec. (e)(1). Pub. L. 100–238, §117(a)(2), inserted “subsection (d) and” after “Subject to”.
 

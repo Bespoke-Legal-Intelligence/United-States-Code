@@ -16,7 +16,7 @@
 
 &emsp;&emsp;(ii) the National Endowment for the Arts; and
 
-&emsp;&emsp;(iii) the Institute of Museum Services.
+&emsp;&emsp;(iii) the Institute of Museum and Library Services.
 
 #### (b) Cost share
 
@@ -44,5 +44,9 @@
 
 &emsp;(B) Each eligible recipient may reserve not more than 5 percent of any grant funds received under this subpart in each fiscal year for the costs of administration.
 
-(Pub. L. 89–10, title X, §10414, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3836.)
+(Pub. L. 89–10, title X, §10414, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3836; amended Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §709(b)(3)(C)\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–313.)
+
+#### Amendments
+
+1996—Subsec. (a)(2)(B)(iii). Pub. L. 104–208 added cl. (iii) and struck out former cl. (iii) which read as follows: “the Institute of Museum Services.”
 

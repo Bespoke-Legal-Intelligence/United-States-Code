@@ -22,7 +22,7 @@
 | [2106\.](%C2%A7%2002106%20-%20Administration.md) | Administration. |
 | (a) | Regulations; receipt of money and other property; compensation of personnel; services of experts and consultants; contracts; payments. |
 | (b) | Annual report to Congress. |
-| [2107\.](%C2%A7%2002107%20-%20Authorization%20of%20appropriations%3B%20limitation%20on%20use%20for%20new%20positions.md) | Authorization of appropriations; limitation on use for new positions. |
+| [2107\.](%C2%A7%2002107%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -37,13 +37,12 @@
 - [&sect; 02104 - Functions of Center](%C2%A7%2002104%20-%20Functions%20of%20Center.md)
 - [&sect; 02105 - Limitations on contracts](%C2%A7%2002105%20-%20Limitations%20on%20contracts.md)
 - [&sect; 02106 - Administration](%C2%A7%2002106%20-%20Administration.md)
-- [&sect; 02107 - Authorization of appropriations; limitation on use for new positions](%C2%A7%2002107%20-%20Authorization%20of%20appropriations%3B%20limitation%20on%20use%20for%20new%20positions.md)
+- [&sect; 02107 - Authorization of appropriations](%C2%A7%2002107%20-%20Authorization%20of%20appropriations.md)
 - [10](10.md)
 - [&sect; 02301 - Statement of purpose](%C2%A7%2002301%20-%20Statement%20of%20purpose.md)
 - [&sect; 02302 - Authorization of appropriations](%C2%A7%2002302%20-%20Authorization%20of%20appropriations.md)
 - [&sect; 02303 - Interdepartmental Task Force on Vocational Education and Related Programs](%C2%A7%2002303%20-%20Interdepartmental%20Task%20Force%20on%20Vocational%20Education%20and%20Related%20Programs.md)
-- [Part A - Allotment and Allocation](Part%20A%20-%20Allotment%20and%20Allocation/README.md)
-- [Part B - State Organizational and Planning Responsibilities](Part%20B%20-%20State%20Organizational%20and%20Planning%20Responsibilities/README.md)
+- [Subchapter 001 (I) - Vocational Education Assistance to the States](Subchapter%20001%20%28I%29%20-%20Vocational%20Education%20Assistance%20to%20the%20States/README.md)
 - [Subchapter 002 (II) - Basic State Grants for Vocational Education](Subchapter%20002%20%28II%29%20-%20Basic%20State%20Grants%20for%20Vocational%20Education/README.md)
 - [Subchapter 003 (III) - Special Programs](Subchapter%20003%20%28III%29%20-%20Special%20Programs/README.md)
 - [Subchapter 004 (IV) - National Programs](Subchapter%20004%20%28IV%29%20-%20National%20Programs/README.md)

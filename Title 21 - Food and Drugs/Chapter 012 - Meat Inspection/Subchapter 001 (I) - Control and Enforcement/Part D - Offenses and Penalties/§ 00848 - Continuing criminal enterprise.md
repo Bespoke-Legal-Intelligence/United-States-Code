@@ -22,7 +22,7 @@ For purposes of subsection (a) of this section, a person is engaged in a continu
 
 &emsp;(2) such violation is a part of a continuing series of violations of this subchapter or subchapter II of this chapter—
 
-&emsp;&emsp;(A) which are undertaken by such person in concert with five or more other personswith respect to whom such person occupies a position of organizer, a supervisory position, or any other position of management, and
+&emsp;&emsp;(A) which are undertaken by such person in concert with five or more other persons with respect to whom such person occupies a position of organizer, a supervisory position, or any other position of management, and
 
 &emsp;&emsp;(B) from which such person obtains substantial income or resources.
 
@@ -116,7 +116,7 @@ In determining whether a sentence of death is to be imposed on a defendant, the 
 
 #### (n) Aggravating factors for homicide
 
-If the defendant is found guilty of or pleads guilty to an offense under subsection (e) of thissection, the following aggravating factors are the only aggravating factors that shall be considered, unless notice of additional aggravating factors is provided under subsection (h)(1)(B) of this section:
+If the defendant is found guilty of or pleads guilty to an offense under subsection (e) of this section, the following aggravating factors are the only aggravating factors that shall be considered, unless notice of additional aggravating factors is provided under subsection (h)(1)(B) of this section:
 
 &emsp;(1) The defendant—
 
@@ -172,7 +172,7 @@ If a person is convicted for an offense under subsection (e) of this section and
 
 #### (q) Appeal in capital cases; counsel for financially unable defendants
 
-(1) In any case in which the sentence of death is imposed under this section, the sentence of death shall be subject to review by the court of appeals upon appeal by the defendant. Notice ofappeal must be filed within the time prescribed for appeal of judgment in section 2107 of title 28. An appeal under this section may be consolidated with an appeal of the judgment of conviction. Such review shall have priority over all other cases.
+(1) In any case in which the sentence of death is imposed under this section, the sentence of death shall be subject to review by the court of appeals upon appeal by the defendant. Notice of appeal must be filed within the time prescribed for appeal of judgment in section 2107 of title 28. An appeal under this section may be consolidated with an appeal of the judgment of conviction. Such review shall have priority over all other cases.
 
 (2) On review of the sentence, the court of appeals shall consider the record, the evidence submitted during the trial, the information submitted during the sentencing hearing, the procedures employed in the sentencing hearing, and the special findings returned under this section.
 
@@ -202,15 +202,19 @@ If a person is convicted for an offense under subsection (e) of this section and
 
 (8) Unless replaced by similarly qualified counsel upon the attorney's own motion or upon motion of the defendant, each attorney so appointed shall represent the defendant throughout every subsequent stage of available judicial proceedings, including pretrial proceedings, trial, sentencing, motions for new trial, appeals, applications for writ of certiorari to the Supreme Court of the United States, and all available post-conviction process, together with applications for stays of execution and other appropriate motions and procedures, and shall also represent the defendant in such competency proceedings and proceedings for executive or other clemency as may be available to the defendant.
 
-(9) Upon a finding in ex parte proceedings that investigative, expert or other services are reasonably necessary for the representation of the defendant, whether in connection with issues relating to guilt or sentence, the court shall authorize the defendant's attorneys to obtain such services on behalf of the defendant and shall order the payment of fees and expenses therefore, under paragraph (10). Upon a finding that timely procurement of such services could not practicably await prior authorization, the court may authorize the provision of and payment for such services nunc pro tunc.
+(9) Upon a finding that investigative, expert, or other services are reasonably necessary for the representation of the defendant, whether in connection with issues relating to guilt or the sentence, the court may authorize the defendant's attorneys to obtain such services on behalf of the defendant and, if so authorized, shall order the payment of fees and expenses therefor under paragraph (10). No ex parte proceeding, communication, or request may be considered pursuant to this section unless a proper showing is made concerning the need for confidentiality. Any such proceeding, communication, or request shall be transcribed and made a part of the record available for appellate review.
 
-(10) Notwithstanding the rates and maximum limits generally applicable to criminal cases and any other provision of law to the contrary, the court shall fix the compensation to be paid to attorneys appointed under this subsection and the fees and expenses to be paid for investigative, expert, and other reasonably necessary services authorized under paragraph (9), at such rates or amounts as the court determines to be reasonably necessary to carry out the requirements of paragraphs (4) through (9).
+(10)(A) Compensation shall be paid to attorneys appointed under this subsection at a rate of not more than $125 per hour for in-court and out-of-court time. Not less than 3 years after April 24, 1996, the Judicial Conference is authorized to raise the maximum for hourly payment specified in the paragraph up to the aggregate of the overall average percentages of the adjustments in the rates of pay for the General Schedule made pursuant to section 5305 of title 5 on or after April 24, 1996. After the rates are raised under the preceding sentence, such hourly range may be raised at intervals of not less than one year, up to the aggregate of the overall average percentages of such adjustments made since the last raise under this paragraph.
+
+(B) Fees and expenses paid for investigative, expert, and other reasonably necessary services authorized under paragraph (9) shall not exceed $7,500 in any case, unless payment in excess of that limit is certified by the court, or by the United States magistrate judge, if the services were rendered in connection with the case disposed of entirely before such magistrate judge, as necessary to provide fair compensation for services of an unusual character or duration, and the amount of the excess payment is approved by the chief judge of the circuit. The chief judge of the circuit may delegate such approval authority to an active circuit judge.
+
+(C) The amounts paid under this paragraph for services in any case shall be disclosed to the public, after the disposition of the petition.
 
 #### (r) Refusal to participate by State and Federal correctional employees
 
 No employee of any State department of corrections or the Federal Bureau of Prisons and no employee providing services to that department or bureau under contract shall be required, as a condition of that employment, or contractual obligation to be in attendance at or to participate in any execution carried out under this section if such participation is contrary to the moral or religious convictions of the employee. For purposes of this subsection, the term “participation in executions” includes personal preparation of the condemned individual and the apparatus used for execution and supervision of the activities of other personnel in carrying out such activities.
 
-(Pub. L. 91–513, title II, §408, Oct. 27, 1970, 84 Stat. 1265; Pub. L. 98–473, title II, §§224(b), formerly §224(c), 305, Oct. 12, 1984, 98 Stat. 2030, 2050; Pub. L. 99–570, title I, §§1005(b)(2), 1252, 1253, Oct. 27, 1986, 100 Stat. 3207–6, 3207–14; Pub. L. 100–690, title VI, §6481, title VII, §7001, Nov. 18, 1988, 102 Stat. 4382, 4387; Pub. L. 103–322, title XXXIII, §§330003(e), 330009(d), 330014, Sept. 13, 1994, 108 Stat. 2141, 2143, 2146.)
+(Pub. L. 91–513, title II, §408, Oct. 27, 1970, 84 Stat. 1265; Pub. L. 98–473, title II, §§224(b), formerly §224(c), 305, Oct. 12, 1984, 98 Stat. 2030, 2050; Pub. L. 99–570, title I, §§1005(b)(2), 1252, 1253, Oct. 27, 1986, 100 Stat. 3207–6, 3207–14; Pub. L. 100–690, title VI, §6481, title VII, §7001, Nov. 18, 1988, 102 Stat. 4382, 4387; Pub. L. 103–322, title XXXIII, §§330003(e), 330009(d), 330014, Sept. 13, 1994, 108 Stat. 2141, 2143, 2146; Pub. L. 104–132, title I, §108, title IX, §903(b), Apr. 24, 1996, 110 Stat. 1226, 1318.)
 
 #### References in Text
 
@@ -221,6 +225,10 @@ The Federal Rules of Criminal Procedure, referred to in subsec. (j), are set out
 The Civil Rights Act of 1964, referred to in subsec. (<i>o</i>)(2)(A), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended. Title VII of the Civil Rights Act of 1964 is classified generally to subchapter VI (§2000e et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
 
 #### Amendments
+
+1996—Subsec. (q)(9). Pub. L. 104–132, §108, amended par. (9) generally. Prior to amendment, par. (9) read as follows: “Upon a finding in ex parte proceedings that investigative, expert or other services are reasonably necessary for the representation of the defendant, whether in connection with issues relating to guilt or sentence, the court shall authorize the defendant's attorneys to obtain such services on behalf of the defendant and shall order the payment of fees and expenses therefore, under paragraph (10). Upon a finding that timely procurement of such services could not practicably await prior authorization, the court may authorize the provision of and payment for such services nunc pro tunc.”
+
+Subsec. (q)(10). Pub. L. 104–132, §903(b), amended par. (10) generally. Prior to amendment, par. (10) read as follows: “Notwithstanding the rates and maximum limits generally applicable to criminal cases and any other provision of law to the contrary, the court shall fix the compensation to be paid to attorneys appointed under this subsection and the fees and expenses to be paid for investigative, expert, and other reasonably necessary services authorized under paragraph (9), at such rates or amounts as the court determines to be reasonably necessary to carry out the requirements of paragraphs (4) through (9).”
 
 1994—Subsec. (b)(2)(A). Pub. L. 103–322, §330003(e), substituted “subsection (c)(1) of this section” for “subsection (d)(1) of this section”.
 
@@ -248,6 +256,10 @@ Subsec. (d). Pub. L. 98–473, §305(b), struck out subsec. (d) relating to juri
 
 Subsec. (e). Pub. L. 98–473, §224(b), as renumbered by Pub. L. 99–570, §1005(b)(2), which directed the amendment of subsec. (c) of this section by striking out “and section 4202 of title 18 of the United States Code”, was executed by striking out that language in subsec. (e) to reflect the probable intent of Congress and the intervening amendment by Pub. L. 99–570, §1253, which redesignated subsec. (c) as (e). See 1986 Amendment note above.
 
+#### Effective Date of 1996 Amendment
+
+Amendment by section 903(b) of Pub. L. 104–132 effective as to cases commenced or appeals perfected on or after Apr. 24, 1996, see section 903(c) of Pub. L. 104–132, set out as a note under section 3006A of Title 18, Crimes and Criminal Procedure.
+
 #### Effective Date of 1984 Amendment
 
 Amendment by section 224(b) of Pub. L. 98–473 effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of such amendment, see section 235(a)(1) of Pub. L. 98–473, set out as an Effective Date note under section 3551 of Title 18, Crimes and Criminal Procedure.
@@ -258,7 +270,7 @@ Section 7002 of title VII of Pub. L. 100–690, directed Comptroller General to 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 853 of this title; title 18 sections 36, 1956, 3553, 3559, 3591, 3592.
+This section is referred to in section 853 of this title; title 18 sections 36, 1956, 3553, 3559, 3591, 3592, 3663; title 28 sections 2254, 2255.
 
 <i><sup>1</sup></i><i> So in original. Probably should be paragraph “(1)(B),”.</i>
 

@@ -56,11 +56,11 @@ For purposes of this part—
 
 #### (1) In general
 
-&emsp;For purposes of this section, the term “regular tax” means the regular tax liability for the taxable year (as defined in section 26(b)) reduced by the foreign tax credit allowable under section 27(a) and the section 936 credit allowable under section 27(b). Such term shall not include any tax imposed by section 402(d) and shall not include any increase in tax under section 49(b) or 50(a) or subsection (j) or (k) of section 42.
+&emsp;For purposes of this section, the term “regular tax” means the regular tax liability for the taxable year (as defined in section 26(b)) reduced by the foreign tax credit allowable under section 27(a), the section 936 credit allowable under section 27(b), and the Puerto Rican economic activity credit under section 30A. Such term shall not include any tax imposed by section 402(d) and shall not include any increase in tax under section 49(b) or 50(a) or subsection (j) or (k) of section 42.
 
 #### (2) Cross references
 
-&emsp;&emsp;<b>For provisions providing that certain credits are not allowable against the tax imposed by this section, see sections 26(a), 28(d)(2), 29(b)(6), 30(b)(3), and 38(c).</b>
+&emsp;&emsp;<b>For provisions providing that certain credits are not allowable against the tax imposed by this section, see sections 26(a), 29(b)(6), 30(b)(3), and 38(c).</b>
 
 #### (d) Exemption amount
 
@@ -106,13 +106,21 @@ For purposes of this section—
 
 > &emsp;In the case of a taxpayer described in paragraph (1)(C)(i), alternative minimum taxable income shall be increased by the lesser of (i) 25 percent of the excess of alternative minimum taxable income (determined without regard to this sentence) over $165,000 or (ii) $22,500.
 
-(Added and amended Pub. L. 99–514, title II, §252(c), title VII, §701(a), Oct. 22, 1986, 100 Stat. 2205, 2321; Pub. L. 100–647, title I, §§1002(<i>l</i>)(27), 1007(a), Nov. 10, 1988, 102 Stat. 3381, 3428; Pub. L. 101–508, title XI, §§11102(a), 11813(b)(5), Nov. 5, 1990, 104 Stat. 1388–406, 1388–551; Pub. L. 102–318, title V, §521(b)(1), July 3, 1992, 106 Stat. 310; Pub. L. 102–486, title XIX, §1913(b)(2)(D), Oct. 24, 1992, 106 Stat. 3020; Pub. L. 103–66, title XIII, §13203(a)–(c)(1), Aug. 10, 1993, 107 Stat. 461, 462.)
+(Added and amended Pub. L. 99–514, title II, §252(c), title VII, §701(a), Oct. 22, 1986, 100 Stat. 2205, 2321; Pub. L. 100–647, title I, §§1002(<i>l</i>)(27), 1007(a), Nov. 10, 1988, 102 Stat. 3381, 3428; Pub. L. 101–508, title XI, §§11102(a), 11813(b)(5), Nov. 5, 1990, 104 Stat. 1388–406, 1388–551; Pub. L. 102–318, title V, §521(b)(1), July 3, 1992, 106 Stat. 310; Pub. L. 102–486, title XIX, §1913(b)(2)(D), Oct. 24, 1992, 106 Stat. 3020; Pub. L. 103–66, title XIII, §13203(a)–(c)(1), Aug. 10, 1993, 107 Stat. 461, 462; Pub. L. 104–188, title I, §§1205(d)(6), 1401(b)(3), 1601(b)(2)(A), Aug. 20, 1996, 110 Stat. 1776, 1788, 1832.)
+
+#### Amendment of Subsection (c)
+
+<i>Pub. L. 104–188, title I, §1401(b)(3), (c), Aug. 20, 1996, 110 Stat. 1788, 1789, provided that, applicable to taxable years beginning after Dec. 31, 1999, with retention of certain transition rules, subsection (c)(1) of this section is amended by striking “shall not include any tax imposed by section 402(d) and”.</i>
 
 #### Prior Provisions
 
 A prior section 55, Pub. L. 95–600, title IV, §421(a), Nov. 6, 1978, 92 Stat. 2871; amended Pub. L. 96–222, title I, §104(a)(4)(A)–(D), (G), (H)(i), (ii), (viii), Apr. 1, 1980, 94 Stat. 215–218; Pub. L. 96–223, title II, §232(b)(2)(A), (c)(2), Apr. 2, 1980, 94 Stat. 276, 277; Pub. L. 96–603, §4(a), (b), Dec. 28, 1980, 94 Stat. 3513, 3514; Pub. L. 97–34, title I, §101(d)(1), title II, §221(b)(1)(A), title III, §331(d)(1)(A), Aug. 13, 1981, 95 Stat. 183, 246, 294; Pub. L. 97–248, title II, §201(a), Sept. 3, 1982, 96 Stat. 411; Pub. L. 97–354, §5(a)(13), Oct. 19, 1982, 96 Stat. 1693; Pub. L. 97–448, title I, §103(g)(2)(E), title III, §§305(c), 306(a)(1)(B), (C), Jan. 12, 1983, 96 Stat. 2379, 2399, 2400; Pub. L. 98–369, div. A, title IV, §§474(q), 491(d)(1), title VI, §612(e)(3), title VII, §711(a)(1), (4), (5), July 18, 1984, 98 Stat. 838, 849, 912, 942, 943; Pub. L. 99–514, title XVIII, §1847(a), Oct. 22, 1986, 100 Stat. 2856, related to alternative minimum tax for taxpayers other than corporations, prior to the general revision of this part by Pub. L. 99–514, §701(a).
 
 #### Amendments
+
+1996—Subsec. (c)(1). Pub. L. 104–188, §1601(b)(2)(A), substituted “, the section 936 credit allowable under section 27(b), and the Puerto Rican economic activity credit under section 30A” for “and the section 936 credit allowable under section 27(b)”.
+
+Subsec. (c)(2). Pub. L. 104–188, §1205(d)(6), struck out “28(d)(2),” after “26(a),”.
 
 1993—Subsec. (b)(1). Pub. L. 103–66, §13203(a), amended heading and text of par. (1) generally. Prior to amendment, text read as follows: “The tentative minimum tax for the taxable year is—
 
@@ -141,6 +149,14 @@ Pub. L. 100–647, §1002(<i>l</i>)(27), substituted “subsection (j) or (k) of
 Subsec. (d)(3). Pub. L. 100–647, §1007(a)(3), inserted at end “In the case of a taxpayer described in paragraph (1)(C)(i), alternative minimum taxable income shall be increased by the lesser of (i) 25 percent of the excess of alternative minimum taxable income (determined without regard to this sentence) over $155,000, or (ii) $20,000.”
 
 1986—Subsec. (c)(1). Pub. L. 99–514, §252(c), inserted “or section 42(j)”.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by section 1205(d)(6) of Pub. L. 104–188 applicable to amounts paid or incurred in taxable years ending after June 30, 1996, see section 1205(e) of Pub. L. 104–188, set out as a note under section 29 of this title.
+
+Amendment by section 1401(b)(3) of Pub. L. 104–188 applicable to taxable years beginning after Dec. 31, 1999, with retention of certain transition rules, see section 1401(c) of Pub. L. 104–188, set out as a note under section 402 of this title.
+
+Amendment by section 1601(b)(2)(A) of Pub. L. 104–188 applicable to taxable years beginning after Dec. 31, 1995, except as otherwise provided, see section 1601(c) of Pub. L. 104–188, set out as an Effective Date note under section 30A of this title.
 
 #### Effective Date of 1993 Amendment
 
@@ -202,7 +218,7 @@ Book income.—
 
 &emsp;“(A)
 
-In general.—In the case of a corporation to which this paragraph applies, the amount of any increase for any taxable year under section 56(c)(1)(A) of the Internal Revenue Code of 1986 (as added by this section) shall be reduced (but not below zero) by the excess (if any) of—
+In general.—In the case of a corporation to which this paragraph applies, the amount of any increase for any taxable year under section 56(c)(1)(A) of the Internal Revenue Code of 1986 (as added by thissection) shall be reduced (but not below zero) by the excess (if any) of—
 
 &emsp;&emsp;“(i) 50 percent of the excess of taxable income for the 5-taxable year period ending with the taxable year preceding the 1st taxable year to which such section applies over the adjusted net book income for such period, over
 
@@ -242,7 +258,11 @@ For provisions that nothing in amendment by section 11813(b)(5) of Pub. L. 101�
 
 #### Transitional Provisions
 
-Section 1007(f)(1) of Pub. L. 100–647 provided that: “In the case of the taxable year of an estate or trust which begins before January 1, 1987, and ends on or after such date, the items of tax preference apportioned to any beneficiary of such estate or trust under section 58(c) of the Internal Revenue Code of 1954 (as in effect on the day before the date of the enactment of the Tax Reform Act of 1986 \[Oct. 22, 1986\]) shall be taken into account for purposes of determining the amount of the tax imposed by section 55 of the Internal Revenue Code of 1986 (as amended by the Tax Reform Act of 1986 \[Pub. L.99–514\]) on such beneficiary for such beneficiary's taxable year in which such taxable year of the estate or trust ends.”
+Section 1007(f)(1) of Pub. L. 100–647 provided that: “In the case of the taxable year of an estate or trust which begins before January 1, 1987, and ends on or after such date, the items of tax preference apportioned to any beneficiary of such estate or trust under section 58(c) of the Internal Revenue Code of 1954 (as in effect on the day before the date of the enactment of the Tax Reform Act of 1986 \[Oct. 22, 1986\]) shall be taken into account for purposes of determining the amount of the tax imposed by section 55 of the Internal Revenue Code of 1986 (as amended by the Tax Reform Act of 1986 \[Pub. L. 99–514\]) on such beneficiary for such beneficiary's taxable year in which such taxable year of the estate or trust ends.”
+
+#### Plan Amendments Not Required Until January 1, 1998
+
+For provisions directing that if any amendments made by subtitle D \[§§1401–1465\] of title I of Pub. L. 104–188 require an amendment to any plan or annuity contract, such amendment shall not be required to be made before the first day of the first plan year beginning on or after Jan. 1, 1998, see section 1465 of Pub. L. 104–188, set out as a note under section 401 of this title.
 
 #### Plan Amendments Not Required Until January 1, 1994
 
@@ -260,5 +280,5 @@ Section 2123 of Pub. L. 94–455, as amended by Pub. L. 98–369, div. A, title 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2, 5, 11, 12, 26, 32, 38, 45A, 53, 59, 59A, 168, 443, 666, 815, 847, 871, 877, 882, 897, 962, 1561, 6425, 6655, 6662 of this title.
+This section is referred to in sections 2, 5, 11, 12, 26, 32, 38, 45A, 53, 59, 59A, 168, 443, 641, 666, 815, 847, 860E,860J, 871, 877, 882, 897, 962, 1561, 6425, 6655, 6662 of this title.
 

@@ -8,7 +8,7 @@
 
 (b)(1) A retention allowance, which shall be stated as a percentage of the rate of basic pay (excluding any comparability payments under section 5304) of the employee, may not exceed 25 percent of such rate of basic pay.
 
-(2) A retention allowance may not be considered to be part of the basic pay of an employee, and the reduction or elimination of a retentionallowance may not be appealed. The preceding sentence shall not be construed to extinguish or lessen any right or remedy under subchapter II of chapter 12 or under any of the laws referred to in section 2302(d).
+(2) A retention allowance may not be considered to be part of the basic pay of an employee, and the reduction or elimination of a retention allowance may not be appealed. The preceding sentence shall not be construed to extinguish or lessen any right or remedy under subchapter II of chapter 12 or under any of the laws referred to in section 2302(d).
 
 (3) A retention allowance shall be paid at the same time and in the same manner as the employee's basic pay is paid.
 

@@ -38,7 +38,7 @@ Effective period.—The freight forwarder's registration remains in effect only 
 
 (d)
 
-Type of Insurance.—The Secretary may determine the type and amount of security filed under this section. A motor carrier may submit proof of qualifications as a self-insurer to satisfy the security requirements of this section. The Secretary shall adopt regulations governing the standards for approval as a self-insurer. Motor carriers which have been granted authority to self-insure as of the effective date of this section shall retain that authority unless, for good cause shown and after notice and an opportunity for a hearing, the Secretary finds that the authority must be revoked.
+Type of Insurance.—The Secretary may determine the type and amount of security filed under this section. A motor carrier may submit proof of qualifications as a self-insurer to satisfy the security requirements of this section. The Secretary shall adopt regulations governing the standards for approval as a self-insurer. Motor carriers which have been granted authority to self-insure as of January 1, 1996, shall retain that authority unless, for good cause shown and after notice and an opportunity for a hearing, the Secretary finds that the authority must be revoked.
 
 (e)
 
@@ -48,15 +48,15 @@ Notice of Cancellation of Insurance.—The Secretary shall issue regulations req
 
 Form of Endorsement.—The Secretary shall also prescribe the appropriate form of endorsement to be appended to policies of insurance and surety bonds which will subject the insurance policy or surety bond to the full security limits of the coverage required under this section.
 
-(Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 885.)
-
-#### References in Text
-
-For the effective date of this section, referred to in subsec. (d), as Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 701 of this title.
+(Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 885; amended Pub. L. 104–287, §5(34), Oct. 11, 1996, 110 Stat. 3392.)
 
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in section 10927 of this title prior to the general amendment of this subtitle by Pub. L. 104–88, §102(a).
+
+#### Amendments
+
+1996—Subsec. (d). Pub. L. 104–287 substituted “January 1, 1996,” for “the effective date of this section”.
 
 #### Self-Insurance Rules
 

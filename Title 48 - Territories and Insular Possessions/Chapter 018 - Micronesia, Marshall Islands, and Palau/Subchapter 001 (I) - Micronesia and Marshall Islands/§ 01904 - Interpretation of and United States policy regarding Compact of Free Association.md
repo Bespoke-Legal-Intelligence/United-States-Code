@@ -50,13 +50,13 @@ In clarification of Title One, Article II, section 121(b)(1) of the Compact:
 
 &emsp;(2) It is the understanding of Congress that none of the monies made available pursuant to the Compact or this joint resolution will be used by either the Federated States of Micronesia or the Marshall Islands for enforcement actions against any vessel of the United States on the basis of fishing by any such vessel for highly migratory species of fish outside the territorial sea of the Federated States of Micronesia or the Marshall Islands, respectively, in the absence of a licensing agreement.
 
-&emsp;(3) Appropriate United States officials shall apply the policies and provisions of the Magnuson Fishery Conservation and Management Act (16 U.S.C. 1801 et seq.) and the Fishermen's Protective Act of 1967 (22 U.S.C. 1971 et seq.) with regard to any action taken by the Federated States of Micronesia or the Marshall Islands affecting any vessel of the United States engaged in fishing for highly migratory species of fish in waters outside the territorial seas of the Federated States of Micronesia or the Marshall Islands, respectively. For the purpose of applying the provisions of section 5 of the Fishermen's Protective Act of 1967 (22 U.S.C. 1975), monies made available to either the Federated States of Micronesia or the Marshall Islands pursuant to the provisions of the Compact or this joint resolution shall be treated as “assistance to the government of such country under the Foreign Assistance Act of 1961” \[22 U.S.C. 2151 et seq.\]. For purposes of this Act only, certification by the President in accordance with such section 5 shall be accompanied by a report to Congress on the basis for such certification, and such certification shall have no effect if by law Congress so directs prior to the expiration of 60 days during which Congress is in continuous session following the date of such certification.
+&emsp;(3) Appropriate United States officials shall apply the policies and provisions of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1801 et seq.) and the Fishermen's Protective Act of 1967 (22 U.S.C. 1971 et seq.) with regard to any action taken by the Federated States of Micronesia or the Marshall Islands affecting any vessel of the United States engaged in fishing for highly migratory species of fish in waters outside theterritorial seas of the Federated States of Micronesia or the Marshall Islands, respectively. For the purpose of applying the provisions of section 5 of the Fishermen's Protective Act of 1967 (22 U.S.C. 1975), monies made available to either the Federated States of Micronesia or the Marshall Islands pursuant to the provisions of the Compact or this joint resolution shall be treated as “assistance to the government of such country under the Foreign Assistance Act of 1961” \[22 U.S.C. 2151 et seq.\]. For purposes of this Act only, certification by the President in accordance with such section 5 shall be accompanied by a report to Congress on the basis for such certification, and such certification shall have no effect if by law Congress so directs prior to the expiration of 60 days during which Congress is in continuous session following the date of such certification.
 
 &emsp;(4) For the purpose of paragraphs (1) and (3) of this subsection—
 
 &emsp;&emsp;(A) The term “vessel of the United States” has the same meaning as provided in the first section of the Fishermen's Protective Act of 1967 (22 U.S.C. 1971).
 
-&emsp;&emsp;(B) The terms “fishing” and “highly migratory species” have the same meanings as provided in paragraphs (10) and (14), respectively, of section 3 of the Magnuson Fishery Conservation and Management Act (16 U.S.C. 1802(10) and (14)).
+&emsp;&emsp;(B) The terms “fishing” and “highly migratory species” have the same meanings as provided in paragraphs (10) and (14),<sup>1</sup> respectively, of section 3 of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1802(10) and (14)).
 
 &emsp;(5)(A) It is the policy of the United States of America—
 
@@ -82,7 +82,7 @@ In clarification of Title One, Article II, section 121(b)(1) of the Compact:
 
 The Congress hereby reaffirms the United States position that the United States Government is not responsible for foreign loans or debt obtained by the Governments of the Federated States of Micronesia and the Marshall Islands.
 
-(Pub. L. 99–239, title I, §104, Jan. 14, 1986, 99 Stat. 1788.)
+(Pub. L. 99–239, title I, §104, Jan. 14, 1986, 99 Stat. 1788; (As amended Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41.)
 
 #### References in Text
 
@@ -90,17 +90,29 @@ The Compact, referred to in text, is the Compact of Free Association between the
 
 This joint resolution and this Act, referred to in subsec. (f)(1) to (3), is Pub. L. 99–239, Jan. 14, 1986, 99 Stat. 1770, as amended, known as the Compact of Free Association Act of 1985, which is classified principally to this subchapter and chapter 19 (§2001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1901 of this title and Tables.
 
-The Magnuson Fishery Conservation and Management Act, referred to in subsec. (f)(3), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, which is classified principally to chapter 38 (§1801 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 16 and Tables.
+The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (f)(3), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, which is classified principally to chapter 38 (§1801 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 16 and Tables.
 
 The Fishermen's Protective Act of 1967, referred to in subsec. (f)(3), is act Aug. 27, 1954, ch. 1018, 68 Stat. 883, as amended, which is classified generally to chapter 25 (§1971 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 1971 of Title 22 and Tables.
 
 The Foreign Assistance Act of 1961, referred to in subsec. (f)(3), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, which is classified principally to chapter 32 (§2151 et seq.) of Title 22. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of Title 22 and Tables.
 
+Section 3 of the Magnuson-Stevens Fishery Conservation and Management Act \[16 U.S.C. 1802\], referred to in subsec. (f)(4)(B), was subsequently amended, and section 3(10) and (14) no longer define the terms “fishing” and “highly migratory species”. However, such terms are defined elsewhere in that section.
+
 #### Codification
 
 Section was formerly set out as a note under section 1681 of this title.
 
+#### Amendments
+
+1996—Subsec. (f)(3), (4)(B). Pub. L. 104–208 substituted “Magnuson-Stevens Fishery” for “Magnuson Fishery”.
+
+#### Effective Date of 1996 Amendment
+
+Section 101(a) \[title II, §211(b)\] of div. A of Pub. L. 104–208 provided that the amendment made by that section is effective 15 days after Oct. 11, 1996.
+
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1932 of this title.
+This section is referred to in sections 1804, 1932 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

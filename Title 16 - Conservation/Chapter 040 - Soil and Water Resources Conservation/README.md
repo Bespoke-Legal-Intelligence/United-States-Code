@@ -16,9 +16,14 @@
 | [2005\.](%C2%A7%2002005%20-%20Soil%20and%20water%20conservation%20program.md) | Soil and water conservation program. |
 | (a) | Program development. |
 | (b) | Completion dates. |
-| [2005a.](%C2%A7%2002005a%20-%20Technical%20assistance%20for%20water%20resources.md) | Technical assistance for water resources. |
-| (a) | Authority of Secretary of Agriculture. |
-| (b) | Report to Congress. |
+| [2005a.](%C2%A7%2002005a%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93127%2C%20title%20III%2C%20%C2%A7336%28e%29%2C%20Apr.%204%2C%201996%2C%20110%20Stat.%201007.md) | Repealed. |
+| [2005b.](%C2%A7%2002005b%20-%20Conservation%20of%20private%20grazing%20land.md) | Conservation of private grazing land. |
+| (a) | Findings. |
+| (b) | Purpose. |
+| (c) | Definitions. |
+| (d) | Private grazing land conservation assistance. |
+| (e) | Grazing technical assistance self-help. |
+| (f) | Authorization of appropriations. |
 | [2006\.](%C2%A7%2002006%20-%20Reports%20to%20Congress.md) | Reports to Congress. |
 | (a) | Appraisal, program, and detailed statement of policy when Congress convenes. |
 | (b) | Annual report accompanying budget covering program effectiveness. |
@@ -30,7 +35,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 582a, 3432 of this title.
+This chapter is referred to in section 582a of this title.
 
 
 ---
@@ -42,7 +47,8 @@ This chapter is referred to in sections 582a, 3432 of this title.
 - [&sect; 02003 - Congressional policy and declaration of purpose](%C2%A7%2002003%20-%20Congressional%20policy%20and%20declaration%20of%20purpose.md)
 - [&sect; 02004 - Continuing appraisal of soil, water, and related resources](%C2%A7%2002004%20-%20Continuing%20appraisal%20of%20soil%2C%20water%2C%20and%20related%20resources.md)
 - [&sect; 02005 - Soil and water conservation program](%C2%A7%2002005%20-%20Soil%20and%20water%20conservation%20program.md)
-- [&sect; 02005a - Technical assistance for water resources](%C2%A7%2002005a%20-%20Technical%20assistance%20for%20water%20resources.md)
+- [&sect; 02005a - Repealed. Pub. L. 104&#8211;127, title III, &sect;336(e), Apr. 4, 1996, 110 Stat. 1007](%C2%A7%2002005a%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93127%2C%20title%20III%2C%20%C2%A7336%28e%29%2C%20Apr.%204%2C%201996%2C%20110%20Stat.%201007.md)
+- [&sect; 02005b - Conservation of private grazing land](%C2%A7%2002005b%20-%20Conservation%20of%20private%20grazing%20land.md)
 - [&sect; 02006 - Reports to Congress](%C2%A7%2002006%20-%20Reports%20to%20Congress.md)
 - [&sect; 02007 - Authorization of appropriations](%C2%A7%2002007%20-%20Authorization%20of%20appropriations.md)
 - [&sect; 02008 - Utilization of available information and data](%C2%A7%2002008%20-%20Utilization%20of%20available%20information%20and%20data.md)

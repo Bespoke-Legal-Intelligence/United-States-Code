@@ -24,7 +24,7 @@
 
 &emsp;(A) waive the application of the preceding provisions of this section on a case-by-case basis for employees in positions for which there is exceptional difficulty in recruiting or retaining a qualified employee; or
 
-&emsp;(B) grant authority to the head of such agency to waive the application of the preceding provisions of this section, on a case-by-case basis, for an employee serving on a temporarybasis, but only if, and for so long as, the authority is necessary due to an emergency involving a direct threat to life or property or other unusual circumstances.
+&emsp;(B) grant authority to the head of such agency to waive the application of the preceding provisions of this section, on a case-by-case basis, for an employee serving on a temporary basis, but only if, and for so long as, the authority is necessary due to an emergency involving a direct threat to life or property or other unusual circumstances.
 
 (2) The Office shall prescribe regulations for the exercise of any authority under this subsection, including criteria for any exercise of authority and procedures for terminating a delegation of authority under paragraph (1)(B).
 
@@ -54,17 +54,17 @@
 
 #### Amendments
 
-<b>1992</b>—Subsec. (f). Pub. L. 102–378 repealed Pub. L. 101–510, §1206(j)(3). See 1990 Amendment note below.
+1992—Subsec. (f). Pub. L. 102–378 repealed Pub. L. 101–510, §1206(j)(3). See 1990 Amendment note below.
 
-<b>1991</b>—Subsec. (f)(3). Pub. L. 102–190, §655(c)(2), struck out par. (3) which read as follows: “An employee to whom a waiver under subparagraph (A) or (B) of paragraph (1) applies shall not be deemed an employee for the purposes of chapter 83 or this chapter while such waiver is in effect.”
+1991—Subsec. (f)(3). Pub. L. 102–190, §655(c)(2), struck out par. (3) which read as follows: “An employee to whom a waiver under subparagraph (A) or (B) of paragraph (1) applies shall not be deemed an employee for the purposes of chapter 83 or this chapter while such waiver is in effect.”
 
 Subsecs. (g) to (i). Pub. L. 102–190, §655(c)(1), added subsecs. (g) to (i).
 
-<b>1990</b>—Subsec. (f). Pub. L. 101–510, §1206(j)(3), added a subsec. (f) identical to that added by Pub. L. 101–509, see below. Pub. L. 102–378, §8(a), repealed Pub. L. 101–510, §1206(j)(3), and provided that this title shall read as if section 1206(j)(3) had not been enacted.
+1990—Subsec. (f). Pub. L. 101–510, §1206(j)(3), added a subsec. (f) identical to that added by Pub. L. 101–509, see below. Pub. L. 102–378, §8(a), repealed Pub. L. 101–510, §1206(j)(3), and provided that this title shall read as if section 1206(j)(3) had not been enacted.
 
 Pub. L. 101–509 added subsec. (f).
 
-<b>1988</b>—Pub. L. 100–238 amended section generally, substituting subsecs. (a) to (e) for former subsecs. (a) to (c).
+1988—Pub. L. 100–238 amended section generally, substituting subsecs. (a) to (e) for former subsecs. (a) to (c).
 
 #### Effective Date of 1992 Amendment
 

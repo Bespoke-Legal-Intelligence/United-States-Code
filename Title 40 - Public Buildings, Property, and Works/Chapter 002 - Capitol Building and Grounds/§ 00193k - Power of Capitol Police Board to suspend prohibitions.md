@@ -1,6 +1,6 @@
 ### §193k. Power of Capitol Police Board to suspend prohibitions
 
-In the absence from Washington of either of the officers, designated in section 193j of this title, the authority therein given to suspend certain prohibitions of sections 193a to 193m, 212a, 212a–2, and 212b of this title shall devolve upon the other, and in the absence from Washington of both it shall devolve upon the Capitol Police Board: <i>Provided</i>, That notwithstanding the provisions of sections 193g and 193j of this title, the Capitol Police Board is authorized to grant the Mayor of the District of Columbia authority to permit the use of Louisiana Avenue for any of the purposes prohibited by section 193g of this title.
+In the absence from Washington of either of the officers, designated in section 193j of thistitle, the authority therein given to suspend certain prohibitions of sections 193a to 193m, 212a, 212a–2, and 212b of this title shall devolve upon the other, and in the absence from Washington of both it shall devolve upon the Capitol Police Board: <i>Provided</i>, That notwithstanding the provisions of sections 193g and 193j of this title, the Capitol Police Board is authorized to grant the Mayor of the District of Columbia authority to permit the use of Louisiana Avenue for any of the purposes prohibited by section 193g of this title.
 
 (July 31, 1946, ch. 707, §12, 60 Stat. 719; 1967 Reorg. Plan No. 3, §401, eff. Nov. 3, 1967, 32 F.R. 11669, 81 Stat. 951; Dec. 24, 1973, Pub. L. 93–198, title IV, §421, 87 Stat. 789.)
 

@@ -14,7 +14,7 @@ The Secretary, in consultation with the Board, shall provide preservation techno
 
 #### (c) Eligible applicants
 
-Eligible applicants may include Federal and non-Federal laboratories, accredited museums, universities, nonprofit organizations; offices, units, and Cooperative Park Study Units of the National Park System, State Historic Preservation Offices, tribal preservation offices, and Native Hawaiian organizations.
+Eligible applicants may include Federal and non-Federal laboratories, accredited museums,universities, nonprofit organizations; offices, units, and Cooperative Park Study Units of the National Park System, State Historic Preservation Offices, tribal preservation offices, and Native Hawaiian organizations.
 
 #### (d) Standards
 

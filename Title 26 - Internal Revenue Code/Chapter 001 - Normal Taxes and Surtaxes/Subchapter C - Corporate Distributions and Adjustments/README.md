@@ -26,7 +26,7 @@
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in sections 26, 56, 447, 485, 535, 997, 1011, 1012, 1081, 1362, 1371, 1375 of this title.
+This subchapter is referred to in sections 26, 56, 447, 485, 535, 997, 1011, 1012, 1081, 1371, 1375 of this title.
 
 
 ---

@@ -88,5 +88,5 @@ Amendment by Pub. L. 89–44 applicable with respect to articles sold on or afte
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 4081, 4093, 4222, 6427, 6724, 7012, 7232, 7272 of this title.
+This section is referred to in sections 4081, 4093, 4222, 6427, 6724, 7232, 7272 of this title.
 

@@ -46,7 +46,7 @@
 
 #### Amendments
 
-<b>1990</b>—Subsec. (a). Pub. L. 101–474 redesignated par. (3) as (2) and struck out former par. (2) which provided that this section is applicable to Administrative Office of United States Courts.
+1990—Subsec. (a). Pub. L. 101–474 redesignated par. (3) as (2) and struck out former par. (2) which provided that this section is applicable to Administrative Office of United States Courts.
 
 #### Effective Date
 
@@ -54,5 +54,5 @@ Chapter effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–4
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2302, 4107, 4313, 5379 of this title; title 10 section 1722; title 22 section 3902; title 31 section 732; title 42 section 2297b–4.
+This section is referred to in sections 2302, 4107, 4313, 5379 of this title; title 10 sections 1612, 1722; title 22 section 3902; title 31 section 732; title 41 section 433; title 42 section 2297b–4.
 

@@ -14,7 +14,7 @@ Except as provided in regulations prescribed by the Secretary, if there is an ex
 
 Every partnership required to make a return under subsection (a) shall furnish to each person whose name is required to be set forth in such return a written statement showing—
 
-&emsp;(1) the name and address of the partnership required to make such return, and
+&emsp;(1) the name, address, and phone number of the information contact of the partnership required to make such return, and
 
 &emsp;(2) the information required to be shown on the return with respect to such person.
 
@@ -30,13 +30,19 @@ Every partnership required to make a return under subsection (a) shall furnish t
 
 &emsp;A partnership shall not be required to make a return under this section with respect to any exchange until the partnership is notified of such exchange.
 
-(Added Pub. L. 98–369, div. A, title I, §149(a), July 18, 1984, 98 Stat. 689; amended Pub. L. 99–514, title XV, §1501(c)(13), title XVIII, §1811(b)(2), Oct. 22, 1986, 100 Stat. 2739, 2833.)
+(Added Pub. L. 98–369, div. A, title I, §149(a), July 18, 1984, 98 Stat. 689; amended Pub. L. 99–514, title XV, §1501(c)(13), title XVIII, §1811(b)(2), Oct. 22, 1986, 100 Stat. 2739, 2833; Pub. L. 104–168, title XII, §1201(a)(11), July 30, 1996, 110 Stat. 1470.)
 
 #### Amendments
+
+1996—Subsec. (b)(1). Pub. L. 104–168 substituted “name, address, and phone number of the information contact” for “name and address”.
 
 1986—Subsec. (b). Pub. L. 99–514, §1501(c)(13), in amending subsec. (b) generally, substituted references to partnerships required to make a return for former references to partnerships making a return and references to persons whose name is required to be set forth for former references to persons whose name is set forth.
 
 Subsec. (c)(2). Pub. L. 99–514, §1811(b)(2), substituted “this section” for “this subsection”.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–168 applicable to statements required to be furnished after Dec. 31, 1996 (determined without regard to any extension), see section 1201(b) of Pub. L. 104–168, set out as a note under section 6041 of this title.
 
 #### Effective Date of 1986 Amendment
 

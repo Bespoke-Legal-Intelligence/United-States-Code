@@ -24,7 +24,7 @@ Except as provided in subsection (k), if tax has been imposed under paragraph (2
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraphs (B) and (C), the rate of tax taken into account under paragraph (1) shall be 7.4 cents per gallon less than the aggregate rate at which tax was imposed on such fuel by section 4041(a) or 4081, as the case may be.
+&emsp;&emsp;Except as provided in subparagraphs (B) and (C), the rate of tax taken into account under paragraph (1) shall be 7.4 cents per gallon less than the aggregate rate at which taxwas imposed on such fuel by section 4041(a) or 4081, as the case may be.
 
 #### (B) Exception for school bus transportation
 
@@ -100,105 +100,9 @@ Except as provided in subsection (k), if—
 
 #### (4) Termination
 
-&emsp;This subsection shall not apply with respect to any mixture sold or used after September 30, 1995.
+&emsp;This subsection shall not apply with respect to any mixture sold or used after September 30, 1999.
 
-#### (g) Advance repayment of increased diesel fuel tax to original purchasers of diesel-powered automobiles and light trucks
-
-#### (1) In general
-
-&emsp;Except as provided in subsection (k), the Secretary shall pay (without interest) to the original purchaser of any qualified diesel-powered highway vehicle an amount equal to the diesel fuel differential amount.
-
-#### (2) Qualified diesel-powered highway vehicle
-
-&emsp;For purposes of this subsection, the term “qualified diesel-powered highway vehicle” means any diesel-powered highway vehicle which—
-
-&emsp;&emsp;(A) has at least 4 wheels,
-
-&emsp;&emsp;(B) has a gross vehicle weight rating of 10,000 pounds or less, and
-
-&emsp;&emsp;(C) is registered for highway use in the United States under the laws of any State.
-
-#### (3) Diesel fuel differential amount
-
-&emsp;For purposes of this subsection, the term “diesel fuel differential amount” means—
-
-&emsp;&emsp;(A) except as provided in subparagraph (B), $102, or
-
-&emsp;&emsp;(B) in the case of a truck or van, $198.
-
-#### (4) Original purchaser
-
-&emsp;For purposes of this subsection—
-
-#### (A) In general
-
-&emsp;&emsp;Except as provided in subparagraph (B), the term “original purchaser” means the first person to purchase the qualified diesel-powered vehicle for use other than resale.
-
-#### (B) Exception for certain persons not subject to fuels tax
-
-&emsp;&emsp;The term “original purchaser” shall not include any State or local government (as defined in section 4221(d)(4)) or any nonprofit educational organization (as defined in section 4221(d)(5)).
-
-#### (C) Treatment of demonstration use by dealer
-
-&emsp;&emsp;For purposes of subparagraph (A), use as a demonstrator by a dealer shall not be taken into account.
-
-#### (5) Vehicles to which subsection applies
-
-&emsp;Except as provided in paragraph (6), this subsection shall only apply to qualified diesel-powered highway vehicles originally purchased after January 1, 1985, and before January 1, 1999.
-
-#### (6) Special rule for certain vehicles held on January 1, 1985
-
-#### (A) In general
-
-&emsp;&emsp;In the case of any person holding a qualified diesel-powered highway vehicle on January 1, 1985—
-
-&emsp;&emsp;&emsp;(i) such person shall be treated as if he originally purchased such vehicle on December 31, 1984, but
-
-&emsp;&emsp;&emsp;(ii) the amount payable under paragraph (1) to such person for such vehicle shall be the applicable fraction of the diesel fuel differential amount.
-
-#### (B) Applicable fraction
-
-&emsp;&emsp;For purposes of subparagraph (A), the applicable fraction is the fraction determined in accordance with the following table:
-
-<b> </b>
-
-<b>The applicable</b>
-
-<b>  If the model year of the vehicle is:</b>
-
-<b>fraction is:</b>
-
-&emsp;&emsp;1984 or 1985
-
-1&nbsp;
-
-&emsp;&emsp;1983
-
-5/6
-
-&emsp;&emsp;1982
-
-4/6
-
-&emsp;&emsp;1981
-
-3/6
-
-&emsp;&emsp;1980
-
-2/6
-
-&emsp;&emsp;1979
-
-1/6
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-> &emsp;&emsp;In the case of a 1978 or earlier model year vehicle, the applicable fraction shall be zero.
-
-#### (7) Basis reduction
-
-&emsp;For the purposes of subtitle A, the basis of any qualified diesel-powered highway vehicle shall be reduced by the amount payable under this subsection with respect to such vehicle.
+#### \[(g) Repealed. Pub. L. 104–188, title I, §1606(a), Aug. 20, 1996, 110 Stat. 1839\]
 
 #### (h) Gasoline blend stocks or additives not used for producing gasoline
 
@@ -208,13 +112,13 @@ Except as provided in subsection (k), if any gasoline blend stock or additive (w
 
 #### (1) General rule
 
-&emsp;Except as otherwise provided in this subsection, not more than one claim may be filed under subsection (a), (b), (c), (d), (g), (h), (<i>l</i>), or (q) by any person with respect to fuel used (or a qualified diesel powered highway vehiclepurchased) during his taxable year; and no claim shall be allowed under this paragraph with respect to fuel used (or a qualified diesel powered highway vehicle purchased) during any taxable year unless filed by the purchaser not later than the time prescribed by law for filing a claim for credit or refund of overpayment of income tax for such taxable year. For purposes of this paragraph, a person's taxable year shall be his taxable year for purposes of subtitle A.
+&emsp;Except as otherwise provided in this subsection, not more than one claim may be filed under subsection (a), (b), (c), (d), (h), (<i>l</i>), or (q) by any person with respect to fuel used during his taxable year; and no claim shall be allowed under this paragraph with respect to fuel used during any taxable year unless filed by the purchaser not later than the time prescribed by law for filing a claim for credit or refund of overpayment of income tax for such taxable year. For purposes of this paragraph, a person's taxable year shall be his taxable year for purposes of subtitle A.
 
 #### (2) Exceptions
 
 #### (A) In general
 
-&emsp;&emsp;If $1,000 or more is payable under subsections (a), (b), (d), (g), (h), and (q) to any person with respect to fuel used (or a qualified diesel powered highway vehicle purchased) during any of the first 3 quarters of his taxable year, a claim may be filed under this section with respect to fuel used (or a qualified diesel powered highway vehicle purchased), during such quarter.
+&emsp;&emsp;If $1,000 or more is payable under subsections (a), (b), (d), (h), and (q) to any person with respect to fuel used during any of the first 3 quarters of his taxable year, a claim may be filed under this section with respect to fuel used, during such quarter.
 
 #### (B) Time for filing claim
 
@@ -384,9 +288,17 @@ Except as provided in subsection (k), if—
 
 &emsp;&emsp;<b>(3) For treatment of an Indian tribal government as a State (and a subdivision of an Indian tribal government as a political subdivision of a State), see section 7871.</b>
 
-(Added Pub. L. 91–258, title II, §207(a), May 21, 1970, 84 Stat. 246; amended Pub. L. 94–455, title XIX, §1906(a)(31)(A), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1829, 1834; Pub. L. 94–530, §1(b), (c)(2)–(5), Oct. 17, 1976, 90 Stat. 2487, 2488; Pub. L. 95–458, §3(b), Oct. 14, 1978, 92 Stat. 1257; Pub. L. 95–599, title V, §505(a), (b), (c)(2)–(4), Nov. 6, 1978, 92 Stat. 2758–2760; Pub. L. 95–600, title VII, §703(<i>l</i>)(3), Nov. 6, 1978, 92 Stat. 2942; Pub. L. 95–618, title II, §233(a)(2), Nov. 9, 1978, 92 Stat. 3190; Pub. L. 96–223, title II, §232(d)(1), (2), (4)(B)–(D), Apr. 2, 1980, 94 Stat. 277, 278; Pub. L. 96–541, §4, Dec. 17, 1980, 94 Stat. 3205; Pub. L. 97–248, title II, §279(b)(2), Sept. 3, 1982, 96 Stat. 563; Pub. L. 97–424, title V, §§511(d)(4), (e)(1)–(3), (g)(2)(B)–(D), 516(b)(5), Jan. 6, 1983, 96 Stat. 2171, 2172, 2173, 2183; Pub. L. 97–473, title II, §202(b)(13), Jan. 14, 1983, 96 Stat. 2610; Pub. L. 98–369, div. A, title IV, §474(r)(38), title VII, §§732(a)(3), 734(c)(2), title IX, §§911(b), (d)(2)(B)–(F), 912(d), 914, 915(a), July 18, 1984, 98 Stat. 846, 977, 979, 1005–1008; Pub. L. 99–499, title V, §521(c)(3)(A), (B)(i), (C), Oct. 17, 1986, 100 Stat. 1779; Pub. L.99–514, title IV, §422(b), title XVII, §1703(d), (e)(1), (2)(A)–(E), title XVIII, §§1877(b), 1899A(55), (56), Oct. 22, 1986, 100 Stat. 2230, 2777, 2778, 2902, 2961, as amended by Pub. L. 99–499, title V, §521(c)(3)(B)(ii), Oct. 17, 1986, 100 Stat. 1779; Pub. L. 100–17, title V, §502(b)(8), (9), Apr. 2, 1987, 101 Stat. 257; Pub. L. 100–203, title X, §10502(c), Dec. 22, 1987, 101 Stat. 1330–442; Pub. L. 100–223, title IV, §405(b)(1), (2), Dec. 30, 1987, 101 Stat. 1534, 1535; Pub. L. 100–647, title I, §1017(c)(3), (10), title II, §§2001(d)(7)(B)–(D), 2004(s)(2), (3), title III, §3002(a)–(c), Nov. 10, 1988, 102 Stat. 3576, 3596, 3609, 3615, 3616; Pub. L. 101–239, title VII, §§7501(b)(3), 7812(a), 7822(b)(1)–(4), 7841(d)(20), Dec. 19, 1989, 103 Stat. 2361, 2412, 2424, 2425, 2429; Pub. L. 101–508, title XI, §§11211(b)(4)(B), (5), (6)(E)(ii), (d)(7), (8), 11213(b)(3), 11801(a)(46), (c)(23), Nov. 5, 1990, 104 Stat. 1388–425 to 1388–427, 1388–433, 1388–522, 1388–528; Pub. L. 102–240, title VIII, §8002(b)(7), (8), Dec. 18, 1991, 105 Stat. 2203; Pub. L. 103–66, title XIII, §§13241(f)(8)–(10), 13242(c), (d)(21), (25)–(31), Aug. 10, 1993, 107 Stat. 512, 521, 524, 525.)
+(Added Pub. L. 91–258, title II, §207(a), May 21, 1970, 84 Stat. 246; amended Pub. L. 94–455, title XIX, §1906(a)(31)(A), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1829, 1834; Pub. L. 94–530, §1(b), (c)(2)–(5), Oct. 17, 1976, 90 Stat. 2487, 2488; Pub. L. 95–458, §3(b), Oct. 14, 1978, 92 Stat. 1257; Pub. L. 95–599, title V, §505(a), (b), (c)(2)–(4), Nov. 6, 1978, 92 Stat. 2758–2760; Pub. L. 95–600, title VII, §703(<i>l</i>)(3), Nov. 6, 1978, 92 Stat. 2942; Pub. L. 95–618, title II, §233(a)(2), Nov. 9, 1978, 92 Stat. 3190; Pub. L. 96–223, title II, §232(d)(1), (2), (4)(B)–(D), Apr. 2, 1980, 94 Stat. 277, 278; Pub. L. 96–541, §4, Dec. 17, 1980, 94 Stat. 3205; Pub. L. 97–248, title II, §279(b)(2), Sept. 3, 1982, 96 Stat. 563; Pub. L. 97–424, title V, §§511(d)(4), (e)(1)–(3), (g)(2)(B)–(D), 516(b)(5), Jan. 6, 1983, 96 Stat. 2171,2172, 2173, 2183; Pub. L. 97–473, title II, §202(b)(13), Jan. 14, 1983, 96 Stat. 2610; Pub. L. 98–369, div. A, title IV, §474(r)(38), title VII, §§732(a)(3), 734(c)(2), title IX, §§911(b), (d)(2)(B)–(F), 912(d), 914, 915(a), July 18, 1984, 98 Stat. 846, 977, 979, 1005–1008; Pub. L. 99–499, title V, §521(c)(3)(A), (B)(i), (C), Oct. 17, 1986, 100 Stat. 1779; Pub. L. 99–514, title IV, §422(b), title XVII, §1703(d), (e)(1), (2)(A)–(E), title XVIII, §§1877(b), 1899A(55), (56), Oct. 22, 1986, 100 Stat. 2230, 2777, 2778, 2902, 2961, as amended by Pub. L. 99–499, title V, §521(c)(3)(B)(ii), Oct. 17, 1986, 100 Stat. 1779; Pub. L. 100–17, title V, §502(b)(8), (9), Apr. 2, 1987, 101 Stat. 257; Pub. L. 100–203, title X, §10502(c), Dec. 22, 1987, 101 Stat. 1330–442; Pub. L. 100–223, title IV, §405(b)(1), (2), Dec. 30, 1987, 101 Stat. 1534, 1535; Pub. L. 100–647, title I, §1017(c)(3), (10), title II, §§2001(d)(7)(B)–(D), 2004(s)(2), (3), title III, §3002(a)–(c), Nov. 10, 1988, 102 Stat. 3576, 3596, 3609, 3615, 3616; Pub. L. 101–239, title VII, §§7501(b)(3), 7812(a), 7822(b)(1)–(4), 7841(d)(20), Dec. 19, 1989, 103 Stat. 2361, 2412, 2424, 2425, 2429; Pub. L. 101–508, title XI, §§11211(b)(4)(B), (5), (6)(E)(ii), (d)(7), (8), 11213(b)(3), 11801(a)(46), (c)(23), Nov. 5, 1990, 104 Stat. 1388–425 to 1388–427, 1388–433, 1388–522, 1388–528; Pub. L. 102–240, title VIII, §8002(b)(7), (8), Dec. 18, 1991, 105 Stat. 2203; Pub. L. 103–66, title XIII, §§13241(f)(8)–(10), 13242(c), (d)(21), (25)–(31), Aug. 10, 1993, 107 Stat. 512, 521, 524, 525; Pub. L. 104–188, title I, §§1606(a), (b)(2), 1702(b)(2)(B), 1703(k), Aug. 20, 1996, 110 Stat. 1839, 1868, 1877.)
 
 #### Amendments
+
+1996—Subsec. (f)(4). Pub. L. 104–188, §1703(k), substituted “1999” for “1995”.
+
+Subsec. (g). Pub. L. 104–188, §1606(a), struck out subsec. (g) which related to advance repayment of increased diesel fuel tax to original purchasers of diesel-powered automobiles and light trucks.
+
+Subsec. (i)(1), (2)(A). Pub. L. 104–188, §1606(b)(2), struck out “(g),” after “(d),” and “(or a qualified diesel powered highway vehicle purchased)” after “with respect to fuel used” wherever appearing.
+
+Subsec. (<i>l</i>)(4). Pub. L. 104–188, §1702(b)(2)(B), amended par. (4), as in effect before the amendments made by the Revenue Reconciliation Act of 1993 \[ch. I, §§13001–13444, of title XIII of Pub. L. 103–66\], by inserting before the period “unless such fuel was used by a State or any political subdivision thereof”. See 1993 Amendment note below for subsec. (<i>l</i>).
 
 1993—Subsec. (a). Pub. L. 103–66, §13242(d)(21), substituted “paragraph (2) or (3) of section 4041(a) or section 4041(c)” for “section 4041(a) or (c)” in introductory provisions.
 
@@ -472,7 +384,7 @@ No refund of leaking underground storage tank trust fund financing tax.—Paragr
 
 “(4)
 
-No refund of deficit reduction tax on fuel used in trains.—In the case of fuel used in a diesel-powered train, paragraph (1) also shall not apply to so much of the tax imposed by section 4091 as is attributable to the diesel fuel deficit reduction rate imposed by such section.”
+No refund of deficit reduction tax on fuel used in trains.—In the case of fuel used in a diesel-powered train, paragraph (1) also shall not apply to so much of the tax imposed by section 4091 as is attributable to the diesel fuel deficit reduction rate imposed by such section.” See 1996 Amendment note for subsec. (<i>l</i>)(4) above.
 
 Subsec. (<i>l</i>)(5). Pub. L. 103–66, §13242(c)(1), added par. (5).
 
@@ -640,7 +552,7 @@ Subsec. (i)(3). Pub. L. 99–514, §1703(d)(1), added par. (3).
 
 Subsec. (j). Pub. L. 99–514, §1703(e)(1)(A), redesignated subsec. (i) as (j). Former subsec. (j) redesignated (k).
 
-Subsec. (k). Pub. L. 99–514, §1703(e)(1)(A), redesignated subsec. (j) as (k). Former subsec. (k) redesignated (<i>l).</i>
+Subsec. (k). Pub. L. 99–514, §1703(e)(1)(A), redesignated subsec. (j) as (k). Former subsec. (k) redesignated (<i>l</i>).
 
 Subsec. (k)(2). Pub. L. 99–514, §1703(e)(2)(E), which directed the substitution of “(i)(2)” for “subsection (h)(2)” in subsec. (i)(2) (as so redesignated), was executed to subsec. (k)(2), the only place in the section where “subsection (h)(2)” appeared, to reflect the probable intent of Congress. See 1988 Amendment note above.
 
@@ -652,13 +564,13 @@ Subsec. (m). Pub. L. 99–514, §1703(e)(1)(A), redesignated subsec. (<i>l</i>) 
 
 Pub. L. 99–499, §521(c)(3)(A), substituted “Except with respect to taxes imposed by section 4041(d) and section 4081 at the Leaking Underground Storage Tank Trust Fund financing rate, subsections” for “Subsection”.
 
-Subsec. (n). Pub. L. 99–514, §1703(e)(1)(A), (2)(C), (D), redesignated subsec. (m) as (n) and substituted “(g), and (h)” for “and (g)” in heading and text. Former subsec. (n) redesignated (<i>o).</i>
+Subsec. (n). Pub. L. 99–514, §1703(e)(1)(A), (2)(C), (D), redesignated subsec. (m) as (n) and substituted “(g), and (h)” for “and (g)” in heading and text. Former subsec. (n) redesignated (<i>o</i>).
 
-Pub. L. 99–499, §521(c)(3)(B)(i), added subsec. (n). Former subsec. (n) redesignated (<i>o).</i>
+Pub. L. 99–499, §521(c)(3)(B)(i), added subsec. (n). Former subsec. (n) redesignated (<i>o</i>).
 
 Subsec. (<i>o</i>). Pub. L. 99–514, §1703(e)(1)(A), as amended by Pub. L. 99–499, §521(c)(3)(B)(ii), redesignated subsec. (n), as added by Pub. L. 99–499, §521(c)(3)(B)(i), as (<i>o</i>). Former subsec. (<i>o</i>) redesignated (p).
 
-Pub. L. 99–499, §521(c)(3)(B)(i), redesignated subsec. (n) as (<i>o).</i>
+Pub. L. 99–499, §521(c)(3)(B)(i), redesignated subsec. (n) as (<i>o</i>).
 
 Subsec. (p). Pub. L. 99–514, §1703(e)(1)(A), as amended by Pub. L. 99–499, §521(c)(3)(B)(ii), redesignated subsec. (<i>o</i>) as (p).
 
@@ -694,9 +606,9 @@ Pub. L. 98–369, §734(c)(2), added subsec. (j) relating to special rules with 
 
 Subsec. (j)(2). Pub. L. 98–369, §911(d)(2)(E), which directed the amendment of subsec. (k)(2) by substituting “(h)(2)” for ‘(g)(2)” was executed to subsec. (j)(2) to reflect the probable intent of Congress.
 
-Subsec. (k). Pub. L. 98–369, §911(b), redesignated former subsec. (j), relating to special rules with respect to noncommercial aviation, as (k). Former subsec. (k), relating to regulations, redesignated (<i>l).</i>
+Subsec. (k). Pub. L. 98–369, §911(b), redesignated former subsec. (j), relating to special rules with respect to noncommercial aviation, as (k). Former subsec. (k), relating to regulations, redesignated (<i>l</i>).
 
-Pub. L. 98–369, §734(c)(2), redesignated former subsec. (j), relating to regulations, as (k). Former subsec. (k), relating to termination of subsections, redesignated (<i>l).</i>
+Pub. L. 98–369, §734(c)(2), redesignated former subsec. (j), relating to regulations, as (k). Former subsec. (k), relating to termination of subsections, redesignated (<i>l</i>).
 
 Subsec. (<i>l</i>). Pub. L. 98–369, §911(b), redesignated former subsec. (k), relating to regulations, as (<i>l</i>). Former subsec. (<i>l</i>), relating to termination of subsections, redesignated (m).
 
@@ -724,11 +636,11 @@ Subsec. (f)(1). Pub. L. 97–424, §511(d)(4), substituted “on which a tax” 
 
 Subsec. (f)(2). Pub. L. 97–424, §511(d)(4), substituted provision that no amount shall be payable under paragraph (1) with respect to any gasoline with respect to which an amount is payable under subsection (d) or (e) of this section or under section 6420 or 6421, for provision that no amount would be payable under subsection (d) or (e) of this section or under section 6420 or 6421 with respect to any gasoline with respect to which an amount was payable under paragraph (1).
 
-Subsec. (k). Pub. L. 97–424, §516(b)(5), added subsec. (k). Former subsec. (k) redesignated (<i>l).</i>
+Subsec. (k). Pub. L. 97–424, §516(b)(5), added subsec. (k). Former subsec. (k) redesignated (<i>l</i>).
 
 Subsec. (k)(3). Pub. L. 97–473 purported to add par. (3). See par. below for subsec. (<i>l</i>)(3).
 
-Subsec. (<i>l</i>). Pub. L. 97–424, §516(b)(5), redesignated former subsec. (k) as (<i>l).</i>
+Subsec. (<i>l</i>). Pub. L. 97–424, §516(b)(5), redesignated former subsec. (k) as (<i>l</i>).
 
 Subsec. (<i>l</i>)(3). Pub. L. 97–473 added par. (3). Notwithstanding the directory language that par. (3) be added to subsec. (k), it was added to subsec. (<i>l</i>) to reflect the probable intent of Congress and the intervening redesignation of subsec. (k) as (<i>l</i>) by Pub. L. 97–424.
 
@@ -798,6 +710,14 @@ Subsecs. (h), (i). Pub. L. 94–530, §1(b), redesignated former subsecs. (g) an
 
 Subsec. (h). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
+#### Effective Date of 1996 Amendment
+
+Amendment by section 1606(a), (b)(2) of Pub. L. 104–188 applicable to vehicles purchased after Aug. 20, 1996, see section 1606(c) of Pub. L. 104–188, set out as a note under section 34 of this title.
+
+Amendment by section 1702(b)(2)(B) of Pub. L. 104–188 effective, except as otherwise expressly provided, as if included in the provision of the Revenue Reconciliation Act of 1990, Pub. L. 101–508, title XI, to which such amendment relates, see section 1702(i) of Pub. L. 104–188, set out as a note under section 38 of this title.
+
+Amendment by section 1703(k) of Pub. L. 104–188 effective as if included in the provision of the Revenue Reconciliation Act of 1993, Pub. L. 103–66, §§13001–13444, to which such amendment relates, see section 1703(<i>o</i>) of Pub. L. 104–188, set out as a note under section 39 of this title.
+
 #### Effective Date of 1993 Amendment
 
 Amendment by section 13241(f)(8)–(10) of Pub. L. 103–66 effective Oct. 1, 1993, see section 13241(g) of Pub. L. 103–66, set out as a note under section 4041 of this title.
@@ -832,7 +752,7 @@ Amendment by Pub. L. 100–203 applicable to sales after Mar. 31, 1988, see sect
 
 #### Effective Date of 1986 Amendments
 
-Amendment by section 1703(d), (e)(1), (2)(A)–(E) of Pub. L. 99–514 applicable to gasoline removed (as defined in section 4082 of this title as amended by section 1703 of Pub. L. 99–514) after Dec. 31, 1987, see section 1703(h) of Pub. L. 99–514, set out as a note under section 4081 of this title.
+Amendment by section 1703(d), (e)(1), (2)(A)–(E) of Pub. L. 99–514 applicable to gasoline removed (as defined in section 4082 of this title as amended by section1703 of Pub. L. 99–514) after Dec. 31, 1987, see section 1703(h) of Pub. L. 99–514, set out as a note under section 4081 of this title.
 
 Amendment by section 1877(b) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 

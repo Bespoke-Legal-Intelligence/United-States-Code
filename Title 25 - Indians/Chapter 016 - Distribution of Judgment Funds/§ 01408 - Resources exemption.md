@@ -2,7 +2,7 @@
 
 Interests of individual Indians in trust or restricted lands shall not be considered a resource, and up to $2,000 per year of income received by individual Indians that is derived from such interests shall not be considered income, in determining eligibility for assistance under the Social Security Act \[42 U.S.C. 301 et seq.\] or any other Federal or federally assisted program.
 
-(Pub. L. 93–134, §8, as added Pub. L. 97–458, §4, Jan. 12, 1983, 96 Stat. 2514; amended Pub. L.103–66, title XIII, §13736(a), Aug. 10, 1993, 107 Stat. 663.)
+(Pub. L. 93–134, §8, as added Pub. L. 97–458, §4, Jan. 12, 1983, 96 Stat. 2514; amended Pub. L. 103–66, title XIII, §13736(a), Aug. 10, 1993, 107 Stat. 663.)
 
 #### References in Text
 

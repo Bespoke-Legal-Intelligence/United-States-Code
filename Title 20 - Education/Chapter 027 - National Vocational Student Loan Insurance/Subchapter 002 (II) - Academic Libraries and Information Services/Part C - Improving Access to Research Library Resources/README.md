@@ -1,13 +1,8 @@
 Part C—Improving Access to Research Library Resources
 
-#### Part Referred to in Other Sections
-
-This part is referred to in sections 1021, 1047 of this title.
-
 
 ---
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 01041 - Research library resources](%C2%A7%2001041%20-%20Research%20library%20resources.md)
-- [&sect; 01042 - Geographical distribution of grants](%C2%A7%2001042%20-%20Geographical%20distribution%20of%20grants.md)
+- [&sect; 01041, 1042 - Repealed. Pub. L. 104&#8211;208, div. A, title I, &sect;101(e) \[title VII, &sect;708(b)\], Sept. 30, 1996, 110 Stat. 3009&#8211;233, 3009&#8211;312](%C2%A7%2001041%2C%201042%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93208%2C%20div.%20A%2C%20title%20I%2C%20%C2%A7101%28e%29%20%5Btitle%20VII%2C%20%C2%A7708%28b%29%5D%2C%20Sept.%2030%2C%201996%2C%20110%20Stat.%203009%E2%80%93233%2C%203009%E2%80%93312.md)

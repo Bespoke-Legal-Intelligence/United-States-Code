@@ -36,7 +36,7 @@ schedule a
 
 (17) all commissions or discounts paid or to be paid, directly or indirectly, by the issuer to the underwriters in respect of the sale of the security to be offered. Commissions shall include all cash, securities, contracts, or anything else of value, paid, to be set aside, disposed of, or understandings with or for the benefit of any other persons in which any underwriter is interested, made, in connection with the sale of such security. A commission paid or to be paid in connection with the sale of such security by a person in which the issuer has an interest or which is controlled or directed by, or under common control with, the issuer shall be deemed to have been paid by the issuer. Where any such commission is paid the amount of such commission paid to each underwriter shall be stated;
 
-(18) the amount or estimated amounts, itemized in reasonable detail, of expenses, other thancommissions specified in paragraph (17) of this schedule, incurred or borne by or for the account of the issuer in connection with the sale of the security to be offered or properly chargeable thereto, including legal, engineering, certification, authentication, and other charges;
+(18) the amount or estimated amounts, itemized in reasonable detail, of expenses, other than commissions specified in paragraph (17) of this schedule, incurred or borne by or for the account of the issuer in connection with the sale of the security to be offered or properly chargeable thereto, including legal, engineering, certification, authentication, and other charges;
 
 (19) the net proceeds derived from any security sold by the issuer during the two years preceding the filing of the registration statement, the price at which such security was offered to the public, and the names of the principal underwriters of such security;
 
@@ -60,7 +60,7 @@ schedule a
 
 (29) a copy of the opinion or opinions of counsel in respect to the legality of the issue, with a translation of such opinion, when necessary, into the English language;
 
-(30) a copy of all material contracts referred to in paragraph (24) of this schedule, but no disclosure shall be required of any portion of any suchcontract if the Commission determines that disclosure of such portion would impair the value of the contract and would not be necessary for the protection of the investors;
+(30) a copy of all material contracts referred to in paragraph (24) of this schedule, but no disclosure shall be required of any portion of any such contract if the Commission determines that disclosure of such portion would impair the value of the contract and would not be necessary for the protection of the investors;
 
 (31) unless previously filed and registered under the provisions of this subchapter, and brought up to date, (a) a copy of its articles of incorporation, with all amendments thereof and of its existing bylaws or instruments corresponding thereto, whatever the name, if the issuer be a corporation; (b) copy of all instruments by which the trust is created or declared, if the issuer is a trust; (c) a copy of its articles of partnership or association and all other papers pertaining to its organization, if the issuer is a partnership, unincorporated association, joint-stock company, or any other form of organization; and
 

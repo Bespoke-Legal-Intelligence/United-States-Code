@@ -40,7 +40,7 @@ For purposes of this part, the term “incentive stock option” means an option
 
 &emsp;&emsp;(B) such disposition is a sale or exchange with respect to which a loss (if sustained) would be recognized to such individual,
 
-> &emsp;then the amount which is includible in the gross income of such individual, and the amount which is deductible from the income of his employer corporation, as compensation attributable to the exercise of such option shall not exceed the excess (if any) of the amount realized on such sale or exchange over the adjusted basis of such share.
+> &emsp;then the amount which is includible in the gross income of such individual, and the amount which is deductible from the income of his employer corporation, as compensation attributable to the exercise of such option shall not exceed the excess (if any) of theamount realized on such sale or exchange over the adjusted basis of such share.
 
 #### (3) Certain transfers by insolvent individuals
 

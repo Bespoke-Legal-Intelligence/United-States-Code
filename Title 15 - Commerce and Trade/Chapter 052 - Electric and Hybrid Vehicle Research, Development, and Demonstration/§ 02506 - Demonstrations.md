@@ -12,13 +12,13 @@ Within 12 months after September 17, 1976, the Secretary of Energy shall develop
 
 (3) Such performance standards shall be revised, by rule, periodically as the state-of-the-art improves.
 
-(4) The Secretary of Energy shall transmit to the Speaker of the House of Representatives and the President of the Senate, and to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Energy and Natural Resources of the Senate, the performance standards developed under paragraph (1) and all revised performance standards established in connection with the demonstrations specified in subsection (c)(2) of this section.
+(4) The Secretary of Energy shall transmit to the Speaker of the House of Representatives andthe President of the Senate, and to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Energy and Natural Resources of the Senate, the performance standards developed under paragraph (1) and all revised performance standards established in connection with the demonstrations specified in subsection (c)(2) of this section.
 
 #### (c) Contracts for vehicle purchase or lease; delivery requirements; demonstration criteria and duration; availability of information for leasing and procurements
 
 (1) The Secretary of Energy shall, within 6 months after the date of promulgation of performance standards pursuant to subsection (b)(1) of this section, institute the first contracts for the purchase or lease of electric or hybrid vehicles which satisfy the performance standards set forth under subsection (b)(1) of this section. The delivery of such vehicles shall be completed according to the expedited best effort of the administering agency and the selected manufacturer. To the extent practicable, vehicles purchased or leased under such contracts shall represent a cross-section of the available technologies and of actual or potential vehicle use.
 
-(2) Thereafter, according to a planned schedule, the Secretary of Energy shall contract forthe purchase or lease of additional electric or hybrid vehicles which satisfy amended performance standards and represent continuing improvements in state-of-the-art. In conducting demonstrations, the Secretary of Energy shall consider—
+(2) Thereafter, according to a planned schedule, the Secretary of Energy shall contract for the purchase or lease of additional electric or hybrid vehicles which satisfy amended performance standards and represent continuing improvements in state-of-the-art. In conducting demonstrations, the Secretary of Energy shall consider—
 
 &emsp;(A) the need and intent of the Congress to stimulate and encourage private sector production as well as public knowledge, acceptance, and use of electric and hybrid vehicles; and
 
@@ -44,7 +44,7 @@ The Secretary of Energy, in supervising the demonstration of vehicles acquired u
 
 (2) The Secretary of Energy shall reduce the number of vehicles for which he shall contract for the purchase or lease under subsection (c)(1) or (c)(2) of this section by the number determined under subsection (e)(1)(A) of this section as modified by subsection (e)(1)(B) of this section, except in no event shall he contract for the purchase or lease pursuant to subsection (c)(1) of this section of less than 1,000 electric or hybrid vehicles, and in no event shall he contract for the purchase or lease pursuant to subsection (c)(2) of this section of less than 2,500 advanced electric or hybrid vehicles unless he determines on the basis of responses to the solicitations for proposals for such contracts, under the provisions of subsections (c)(1) and (c)(2) of this section that lesser numbers of such vehicles which satisfy the applicable performance standards will be available within the delivery periods. All other provisions of subsection (c) of this section shall apply.
 
-(Pub. L. 94–413, §7, Sept. 17, 1976, 90 Stat. 1263; Pub. L. 95–91, title III, §301(a), Aug. 4, 1977, 91 Stat. 577; Pub. L. 95–238, title VI, §601, Feb. 25, 1978, 92 Stat. 91; Pub. L. 96–470, title I, §105, Oct. 19, 1980, 94 Stat. 2238; Pub. L. 97–375, title I, §106(b), Dec. 21, 1982, 96 Stat. 1820; Pub. L. 103–437, §5(d)(1), Nov. 2, 1994, 108 Stat. 4582.)
+(Pub. L. 94–413, §7, Sept. 17, 1976, 90 Stat. 1263; Pub. L. 95–91, title III, §301(a), Aug. 4, 1977, 91Stat. 577; Pub. L. 95–238, title VI, §601, Feb. 25, 1978, 92 Stat. 91; Pub. L. 96–470, title I, §105, Oct. 19, 1980, 94 Stat. 2238; Pub. L. 97–375, title I, §106(b), Dec. 21, 1982, 96 Stat. 1820; Pub. L. 103–437, §5(d)(1), Nov. 2, 1994, 108 Stat. 4582.)
 
 #### Amendments
 

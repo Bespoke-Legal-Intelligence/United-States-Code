@@ -16,7 +16,7 @@ There are authorized to be appropriated to the Secretary of the Interior not to 
 
 The Secretary of Defense and the Secretary of the Interior may each use any authority available to him under other laws relating to fish, wildlife, or plant conservation or rehabilitation for purposes of carrying out the provisions of this subchapter.
 
-(Pub. L. 86–797, title I, §106, formerly §6, as added Pub. L. 90–465, §2, Aug. 8, 1968, 82 Stat. 661; renumbered title I, §106, and amended Pub. L. 93–452, §§1(2), 3(1), (4), (5), Oct. 18, 1974, 88 Stat. 1369, 1375; Pub. L. 95–420, §2, Oct. 5, 1978, 92 Stat. 921; Pub. L. 97–396, §2, Dec. 31, 1982, 96 Stat. 2005; Pub. L. 99–561, §§1(a), 3(b), Oct. 27, 1986, 100 Stat. 3149, 3151; Pub. L. 100–653, title II, §202(a), Nov. 14, 1988, 102 Stat. 3827; Pub. L. 101–189, div. B, title XXVIII, §2845(b), Nov. 29, 1989, 103 Stat. 1664.)
+(Pub. L. 86–797, title I, §106, formerly §6, as added Pub. L. 90–465, §2, Aug. 8, 1968, 82 Stat. 661; renumbered title I, §106, and amended Pub. L. 93–452, §§1(2), 3(1), (4), (5), Oct. 18, 1974, 88 Stat. 1369, 1375; Pub. L. 95–420, §2, Oct. 5, 1978, 92 Stat. 921; Pub. L. 97–396, §2, Dec. 31, 1982, 96 Stat. 2005; Pub. L. 99–561, §§1(a), 3(b), Oct. 27, 1986, 100 Stat. 3149, 3151; Pub. L. 100–653, title II, §202(a), Nov. 14, 1988, 102 Stat. 3827; Pub. L. 101–189, div. B,title XXVIII, §2845(b), Nov. 29, 1989, 103 Stat. 1664.)
 
 #### Amendments
 

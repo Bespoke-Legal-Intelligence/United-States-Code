@@ -34,7 +34,7 @@ The Commodity Credit Corporation shall not finance an export sale under subsecti
 
 &emsp;&emsp;&emsp;(i) developing countries; and
 
-&emsp;&emsp;&emsp;(ii) countries that are emerging democracies that have committed to carry out, or are carrying out, policies that promoteeconomic freedom, private domestic production of food commodities for domestic consumption, and the creation and expansion of efficient domestic markets for the purchase and sale of agricultural commodities; and
+&emsp;&emsp;&emsp;(ii) countries that are emerging markets that have committed to carry out, or are carrying out, policies that promote economic freedom, private domestic production of food commodities for domestic consumption, and the creation and expansion of efficient domestic markets for the purchase and sale of agricultural commodities; and
 
 &emsp;&emsp;(D) for such other purposes as the Secretary determines appropriate consistent with the provisions of subsection (c) of this section.
 
@@ -48,13 +48,13 @@ Any contract for the financing of exports by the Commodity Credit Corporation un
 
 &emsp;(1) a requirement that repayment shall be made in dollars with interest accruing thereon as determined appropriate by the Secretary; and
 
-&emsp;(2) a requirement, if the Secretary determines such requirement appropriate to protect the interests of the United States, that an initial payment be made by the purchaser at the time of sale or shipment of the agricultural commodity that is subject to the contract.
+&emsp;(2) a requirement, if the Secretary determines such requirement appropriate to protect the interests of the United States, that an initial payment be made by the purchaser at thetime of sale or shipment of the agricultural commodity that is subject to the contract.
 
 #### (f) Restrictions
 
 The Commodity Credit Corporation may not make export sales financing authorized under this section available in connection with sales of an agricultural commodity to any country that the Secretary determines cannot adequately service the debt associated with such sale.
 
-(Pub. L. 95–501, title II, §201, as added Pub. L. 101–624, title XV, §1531, Nov. 28, 1990, 104 Stat. 3672; amended Pub. L. 102–511, title VII, §707(a)–(c), Oct. 24, 1992, 106 Stat. 3350, 3351.)
+(Pub. L. 95–501, title II, §201, as added Pub. L. 101–624, title XV, §1531, Nov. 28, 1990, 104 Stat. 3672; amended Pub. L. 102–511, title VII, §707(a)–(c), Oct. 24, 1992, 106 Stat. 3350, 3351; Pub. L. 104–127, title II, §277(c)(2), Apr. 4, 1996, 110 Stat. 979.)
 
 #### References in Text
 
@@ -66,6 +66,8 @@ A prior section 201 of Pub. L. 95–501 enacted section 1707b of this title prio
 
 #### Amendments
 
+1996—Subsec. (d)(1)(C)(ii). Pub. L. 104–127 substituted “emerging markets” for “emerging democracies”.
+
 1992—Subsec. (c). Pub. L. 102–511, §707(a), inserted sentence at end.
 
 Subsec. (d)(1)(C). Pub. L. 102–511, §707(b), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “to assist countries, particularly developing countries, in meeting their food and fiber needs; and”.
@@ -74,7 +76,7 @@ Subsec. (f). Pub. L. 102–511, §707(c), added subsec. (f).
 
 #### Regulations
 
-Section 707(d) of Pub. L. 102–511 provided that: “The Secretary of Agriculture shall issue final regulations to implement section 201 of the Agricultural Trade Act of 1978 (7 U.S.C. 5621), as amended by this section, not later than 30 days after the date of enactment of this Act \[Oct. 24, 1992\].”
+Section 707(d) of Pub. L. 102–511 required Secretary of Agriculture to issue final regulations to implement this section not later than 30 days after Oct. 24, 1992, prior to repeal by Pub. L. 104–127, title II, §276, Apr. 4, 1996, 110 Stat. 977.
 
 #### Section Referred to in Other Sections
 

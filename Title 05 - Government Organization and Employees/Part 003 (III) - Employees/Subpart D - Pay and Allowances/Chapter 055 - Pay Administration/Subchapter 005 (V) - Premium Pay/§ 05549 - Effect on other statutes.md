@@ -22,7 +22,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 5 U.S.C. 941.
 
@@ -42,7 +44,7 @@ Section 1451a of title 19, referred to in par. (3), was repealed by Pub. L. 103�
 
 #### Amendments
 
-<b>1983</b>—Par. (4). Pub. L. 98–89 substituted “sections 2111 and 2112 of title 46” for “section 382b of title 46”.
+1983—Par. (4). Pub. L. 98–89 substituted “sections 2111 and 2112 of title 46” for “section 382b of title 46”.
 
 #### Section Referred to in Other Sections
 

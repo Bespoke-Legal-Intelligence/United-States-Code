@@ -1,10 +1,38 @@
 ### §390h–13. Authorization of appropriations
 
-There are authorized to be appropriated such sums as may be necessary to carry out the purposes and provisions of sections 390h through 390h–12 of this title.
+#### (a) In general
 
-(Pub. L. 102–575, title XVI, §1615, Oct. 30, 1992, 106 Stat. 4668.)
+There are authorized to be appropriated such sums as may be necessary to carry out the purposes and provisions of sections 390h through 390h–12p of this title.
+
+#### (b) Prerequisite cost-sharing agreement
+
+(1) Funds may not be appropriated for the construction of any project authorized by sections 390h to 390h–15 of this title until after—
+
+&emsp;(A) an appraisal investigation and a feasibility study that complies with the provisions of sections 390h–1(b) or 390h–2(c) of this title, as the case may be, have been completed by the Secretary or the non-Federal project sponsor;
+
+&emsp;(B) the Secretary has determined that the non-Federal project sponsor is financially capable of funding the non-Federal share of the project's costs; and
+
+&emsp;(C) the Secretary has approved a cost-sharing agreement with the non-Federal project sponsor which commits the non-Federal project sponsor to funding its proportionate share of the project's construction costs on an annual basis.
+
+(2) The requirements of paragraph (1) shall not apply to those projects authorized by sections 390h to 390h–15 of this title for which funds were appropriated prior to January 1, 1996.
+
+#### (c) Congressional notification
+
+The Secretary shall notify the Committees on Resources and Appropriations of the House of Representatives and the Committees on Energy and Natural Resources and Appropriations of the Senate within 30 days after the signing of a cost-sharing agreement pursuant to subsection (b) of this section that such an agreement has been signed and that the Secretary has determined that the non-Federal project sponsor is financially capable of funding the project's non-Federal share of the project's costs.
+
+#### (d) Ceiling on Federal share
+
+(1) Notwithstanding any other provision of sections 390h to 390h–15 of this title and except as provided by paragraph (2), the Federal share of the costs of each of the individual projects authorized by sections 390h to 390h–15 of this title shall not exceed $20,000,000 (October 1996 prices).
+
+(2) In the case of any project authorized by sections 390h to 390h–15 of this title for which construction funds were appropriated before January 1, 1996, the Federal share of the cost of such project may not exceed the amount specified as the “total Federal obligation” for that project in the budget justification made by the Bureau of Reclamation for fiscal year 1997, as contained in part 3 of the report of the hearing held on March 27, 1996, before the Subcommittee on Energy and Water Development of the Committee on Appropriations of the House of Representatives.
+
+(Pub. L. 102–575, title XVI, §1631, formerly §1615, Oct. 30, 1992, 106 Stat. 4668; renumbered §1631 and amended Pub. L. 104–266, §§2(a)(1), (b)(1), 7, Oct. 9, 1996, 110 Stat. 3290, 3294, 3296.)
 
 #### References in Text
 
-Sections 390h through 390h–12 of this title, referred to in text, was in the original “sections 1601 through 1614 of this title” meaning sections 1601 through 1614 of title XVI of Pub. L. 102–575, which are classified to sections 390h to 390h–12 of this title and provisions set out as a note under section 390h of this title.
+Sections 390h through 390h–12p of this title, referred to in subsec. (a), was in the original “sections 1601 through 1630 of this title” meaning sections 1601 through 1630 of title XVI of Pub. L. 102–575, which are classified to sections 390h to 390h–12p of this title and provisions set out as a note under section 390h of this title.
+
+#### Amendments
+
+1996—Pub. L. 104–266 designated existing provisions as subsec. (a), substituted “300h–12p” for “300h–12”, and added subsecs. (b) to (d).
 

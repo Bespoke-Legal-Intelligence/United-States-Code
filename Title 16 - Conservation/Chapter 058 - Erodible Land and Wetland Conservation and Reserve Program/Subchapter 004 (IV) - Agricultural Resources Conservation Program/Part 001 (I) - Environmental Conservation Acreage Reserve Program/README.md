@@ -2,7 +2,7 @@ Part I—Environmental Conservation Acreage Reserve Program
 
 #### Part Referred to in Other Sections
 
-This part is referred to in sections 3843, 3845 of this title.
+This part is referred to in sections 3839aa–2, 3843 of this title.
 
 
 ---

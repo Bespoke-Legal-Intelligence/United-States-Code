@@ -34,6 +34,10 @@ There are authorized to be appropriated $130,000 to carry out the provisions of 
 
 (Pub. L. 98–111, §5, Oct. 4, 1983, 97 Stat. 750; Pub. L. 101–246, title II, §245(a), Feb. 16, 1990, 104 Stat. 61; Pub. L. 103–236, title III, §305(d)(2), Apr. 30, 1994, 108 Stat. 436.)
 
+#### Repeal of Section
+
+<i>Section repealed upon transmittal of determination by President under section 6063(c)(3) of this title that democratically elected government in Cuba is in power, see section 6037(c) of this title.</i>
+
 #### References in Text
 
 The Television Broadcasting to Cuba Act, referred to in subsec. (b), is part D of title II of Pub. L. 101–246, Feb. 16, 1990, 104 Stat. 58, as amended, which is classified principally to subchapter V–B (§1465aa et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1465aa of this title and Tables.
@@ -62,7 +66,7 @@ Section 245(b) of Pub. L. 101–246 provided that: “A reference in any provisi
 
 #### Continued Service of Board Members
 
-Section 245(c) of Pub. L. 101–246 provided that: “Each member of the Advisory Board for Radio Broadcasting to Cuba as in existence on the day before the effective date of the amendment made by subsection (a) \[Feb. 16, 1990\] shall continue to serve for the remainder of the term to which such member was appointed as a member of the Advisory Board for Cuba Broadcasting.”
+Section 245(c) of Pub. L. 101–246 provided that: “Each member of the Advisory Board for Radio Broadcasting to Cuba as in existence on the day before the effective date of the amendment made by subsection (a) \[Feb. 16,1990\] shall continue to serve for the remainder of the term to which such member was appointed as a member of the Advisory Board for Cuba Broadcasting.”
 
 #### Staff Director
 

@@ -12,7 +12,7 @@
 
 &emsp;(2) there are grounds upon which an order could be entered under this chapter to authorize such installation and use;
 
-> may have installed and use a pen register or trap and trace device if, within forty-eight hours after the installation has occurred, or begins to occur, an order approving the installation or use is issued in accordance with section 3123 of this title.” <sup>1</sup>
+> may have installed and use a pen register or trap and trace device if, within forty-eight hours after the installation has occurred, or begins to occur, an order approving the installation or use is issued in accordance with section 3123 of this title.
 
 (b) In the absence of an authorizing order, such use shall immediately terminate when the information sought is obtained, when the application for the order is denied or when forty-eight hours have lapsed since the installation of the pen register or trap and trace device, whichever is earlier.
 
@@ -20,7 +20,7 @@
 
 (d) A provider of a wire or electronic service, landlord, custodian, or other person who furnished facilities or technical assistance pursuant to this section shall be reasonably compensated for such reasonable expenses incurred in providing such facilities and assistance.
 
-(Added Pub. L. 100–690, title VII, §7092(a)(2), Nov. 18, 1988, 102 Stat. 4410; amended Pub. L. 103–322, title XXXIII, §330008(3), Sept. 13, 1994, 108 Stat. 2142.)
+(Added Pub. L. 100–690, title VII, §7092(a)(2), Nov. 18, 1988, 102 Stat. 4410; amended Pub. L. 103–322, title XXXIII, §330008(3), Sept. 13, 1994, 108 Stat. 2142; Pub. L. 104–294, title VI, §601(f)(5), Oct. 11, 1996, 110 Stat. 3499.)
 
 #### Prior Provisions
 
@@ -28,13 +28,13 @@ A prior section 3125 was renumbered section 3126 of this title.
 
 #### Amendments
 
+1996—Subsec. (a). Pub. L. 104–294 struck out closing quotation mark at end.
+
 1994—Subsec. (a). Pub. L. 103–322, §330008(3)(A), (B), substituted “use;” for “use’ ” in par. (2) and directed that matter beginning with “may have installed” and ending with “section 3123 of this title” be realigned so that it is flush to the left margin, which was executed to text containing a period after “section 3123 of this title”, to reflect the probable intent of Congress.
 
 Subsec. (d). Pub. L. 103–322, §330008(3)(C), substituted “provider of” for “provider for”.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 3124 of this title.
-
-<i><sup>1</sup></i><i> So in original. The quotation mark probably should not appear.</i>
+This section is referred to in section 3124 of this title; title 47 section 1002.
 

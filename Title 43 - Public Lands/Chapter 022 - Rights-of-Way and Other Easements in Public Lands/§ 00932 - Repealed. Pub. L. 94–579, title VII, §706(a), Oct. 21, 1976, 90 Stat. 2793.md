@@ -8,5 +8,9 @@ Section 706(a) of Pub. L. 94–579 provided that the repeal made by that section
 
 #### Savings Provision
 
-Repeal by Pub. L. 94–579 not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under section 1701 of this title.
+Repeal by Pub. L. 94–579 not to be construed as terminating any valid lease, permit, patent, etc., existing onOct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under section 1701 of this title.
+
+#### Regulations Affecting Rights-of-Way
+
+Pub. L. 104–208, div. A, title I, §101(d) \[title I, §108\], Sept. 30, 1996, 110 Stat. 3009–181, 3009–200, provided that: “No final rule or regulation of any agency of the Federal Government pertaining to the recognition, management, or validity of a right-of-way pursuant to Revised Statute 2477 (\[former\] 43 U.S.C. 932) shall take effect unless expressly authorized by an Act of Congress subsequent to the date of enactment of this Act \[Sept. 30, 1996\].”
 

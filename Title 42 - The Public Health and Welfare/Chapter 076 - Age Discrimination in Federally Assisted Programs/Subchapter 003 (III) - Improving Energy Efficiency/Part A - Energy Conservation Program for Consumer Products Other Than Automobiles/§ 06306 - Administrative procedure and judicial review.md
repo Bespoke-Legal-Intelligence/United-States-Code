@@ -20,7 +20,7 @@
 
 (2) Upon the filing of the petition referred to in paragraph (1), the court shall have jurisdiction to review the rule in accordance with chapter 7 of title 5 and to grant appropriate relief as provided in such chapter. No rule under section 6293, 6294, or 6295 of this title may be affirmed unless supported by substantial evidence.
 
-(3) The judgment of the court affirming or setting aside, in whole or in part, any such rule shall be final, subject to review by the Supreme Court of the United States upon certiorari or certification as provided in section 1254 of title 28.
+(3) The judgment of the court affirming or setting aside, in whole or in part, any such ruleshall be final, subject to review by the Supreme Court of the United States upon certiorari or certification as provided in section 1254 of title 28.
 
 (4) The remedies provided for in this subsection shall be in addition to, and not in substitution for, any other remedies provided by law.
 

@@ -30,6 +30,10 @@ The Congress finds and declares that:
 
 1986—Par. (10). Pub. L. 99–502 inserted “, which include inventions, computer software, and training technologies,”.
 
+#### Short Title of 1996 Amendment
+
+Pub. L. 104–113, §1, Mar. 7, 1996, 110 Stat. 775, provided that: “This Act \[amending sections 272, 278, 278e, 278g–2, 3710, 3710a, 3710c, 3710d, 5401, 5402, 5404 to 5406, 5408, 5409, and 5412 of this title and section 210 of Title 35, Patents, repealing sections 5403 and 5413 of this title, and enacting provisions set out as notes under this section and sections 272 and 275 of this title\] may be cited as the ‘National Technology Transfer and Advancement Act of 1995’.”
+
 #### Short Title of 1992 Amendment
 
 Pub. L. 102–245, §1, Feb. 14, 1992, 106 Stat. 7, provided that: “This Act \[enacting sections 1536, 3704b–1, 3704b–2, 3716, and 3717 of this title and section 6618 of Title 42, The Public Health and Welfare, amending sections 272, 278d, 278g, 278g–1, 278k, 278n, 1453, 1454, 3703, 3704, 3704b, 3710, 3710a, 3711a, 4603, 4603a, and 4632 of this title and section 6683 of Title 42, enacting provisions set out as notes under this section, sections 271, 278f, 278n, and 1453 of this title, and section 6611 of Title 42, and amending provisions set out as a note under section 278<i>l</i> of this title\] may be cited as the ‘American Technology Preeminence Act of 1991’.”
@@ -57,6 +61,16 @@ Pub. L. 99–382, §1, Aug. 14, 1986, 100 Stat. 811, provided: “That this Act 
 #### Short Title
 
 Section 1 of Pub. L. 96–480 provided: “That this Act \[enacting this chapter\] may be cited as the ‘Stevenson-Wydler Technology Innovation Act of 1980’.”
+
+#### Congressional Findings; 1996 Amendment
+
+Pub. L. 104–113, §2, Mar. 7, 1996, 110 Stat. 775, provided that: “The Congress finds the following:
+
+&emsp;“(1) Bringing technology and industrial innovation to the marketplace is central to the economic, environmental, and social well-being of the people of the United States.
+
+&emsp;“(2) The Federal Government can help United States business to speed the development of new products and processes by entering into cooperative research and development agreements which make available the assistance of Federal laboratories to the private sector, but the commercialization of technology and industrial innovation in the United States depends upon actions by business.
+
+&emsp;“(3) The commercialization of technology and industrial innovation in the United States will be enhanced if companies, in return for reasonable compensation to the Federal Government, can more easily obtain exclusive licenses to inventions which develop as a result of cooperative research with scientists employed by Federal laboratories.”
 
 #### Definitions of Terms; 1992 Amendment
 
@@ -166,7 +180,7 @@ Issues.—The Commission shall address the following issues:
 
 &emsp;“(5) Should Federal Government procurement practices include cooperative efforts between the supplier and the Federal entity to develop products so as to be more easily marketed on a commercial basis? Should a program for the exchange of technical personnel to foster innovation in product development be part of such practices?
 
-&emsp;“(6) To what extent, if any, should Federal Government documents specify standards that are beneficialto domestic suppliers, aid the compatibility of advanced technologies, and speed the commercial acceptance of those technologies, and what would be the role of the Institute in such an effort?
+&emsp;“(6) To what extent, if any, should Federal Government documents specify standards that are beneficial to domestic suppliers, aid the compatibility of advanced technologies, and speed the commercial acceptance of those technologies, and what would be the role of the Institute in such an effort?
 
 &emsp;“(7) Should Federal Government procurement be linked to the Advanced Technology Program and to technology transfer activities so that specification development can incorporate the latest technical advances available?
 

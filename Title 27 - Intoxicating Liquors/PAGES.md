@@ -1,6 +1,6 @@
 # Printed pages - Title 27 - Intoxicating Liquors
 
-GPO's 1995 edition (laws in effect as of 1996-01-16), from its printed page marks. The exact position of
+GPO's 1996 edition (laws in effect as of 1997-01-06), from its printed page marks. The exact position of
 every mark is in `_page-maps/USCODE-title27.json`. Page numbers belong to the printed edition and change
 from edition to edition; the section files hold the text only.
 

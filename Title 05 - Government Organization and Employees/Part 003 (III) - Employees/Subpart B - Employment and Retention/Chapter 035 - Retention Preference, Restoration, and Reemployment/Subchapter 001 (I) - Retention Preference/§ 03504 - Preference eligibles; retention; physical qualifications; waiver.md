@@ -16,7 +16,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 5 U.S.C. 854 (1st 2 sentences, so much as relates to retention).
 
@@ -28,7 +30,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-<b>1978</b>—Pub. L. 95–454 designated existing provisions as subsec. (a), substituted “Office of Personnel Management” for “Civil Service Commission” and “Office” for “Commission”, and added subsec. (b).
+1978—Pub. L. 95–454 designated existing provisions as subsec. (a), substituted “Office of Personnel Management” for “Civil Service Commission” and “Office” for “Commission”, and added subsec. (b).
 
 #### Effective Date of 1978 Amendment
 
@@ -36,5 +38,5 @@ Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 3501 of this title; title 22 section 1438.
+This section is referred to in section 3501 of this title; title 10 section 1599c; title 22 section 1438.
 

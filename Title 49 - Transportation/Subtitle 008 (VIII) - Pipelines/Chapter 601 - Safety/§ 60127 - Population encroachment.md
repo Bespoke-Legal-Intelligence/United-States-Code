@@ -1,0 +1,20 @@
+### §60127. Population encroachment
+
+(a)
+
+Land Use Recommendations.—The Secretary of Transportation shall make available to an appropriate official of each State, as determined by the Secretary, the land use recommendations of the special report numbered 219 of the Transportation Research Board, entitled “Pipelines and Public Safety”.
+
+(b)
+
+Evaluation.—The Secretary shall—
+
+&emsp;(1) evaluate the recommendations in the report referred to in subsection (a);
+
+&emsp;(2) determine to what extent the recommendations are being implemented;
+
+&emsp;(3) consider ways to improve the implementation of the recommendations; and
+
+&emsp;(4) consider other initiatives to further improve awareness of local planning and zoning entities regarding issues involved with population encroachment in proximity to the rights-of-way of any interstate gas pipeline facility or interstate hazardous liquid pipeline facility.
+
+(Added Pub. L. 104–304, §16(a), Oct. 12, 1996, 110 Stat. 3803.)
+

@@ -1,6 +1,6 @@
 ### §1053. Reimbursement for financial institution charges incurred because of Government error in direct deposit of pay
 
-(a)(1) A member of the armed forces (or a former member of the armed forces entitled to retired pay under chapter 67 <sup>1</sup> of this title) who, in accordance with law or regulation, participates in a program for the automatic deposit of pay to a financial institution may be reimbursed by the Secretary concerned for a covered late-deposit charge.
+(a)(1) A member of the armed forces (or a former member of the armed forces entitled to retired pay under chapter 1223 of this title) who, in accordance with law or regulation, participates in a program for the automatic deposit of pay to a financial institution may be reimbursed by the Secretary concerned for a covered late-deposit charge.
 
 (2) A covered late-deposit charge for purposes of paragraph (1) is a charge (including an overdraft charge or a minimum balance or average balance charge) that is levied by a financial institution and that results from an administrative or mechanical error on the part of the Government that causes the pay of the person concerned to be deposited late or in an incorrect manner or amount.
 
@@ -14,23 +14,27 @@
 
 &emsp;(2) The term “pay” includes (A) retired pay, and (B) allowances.
 
-(Added Pub. L. 99–661, div. A, title VI, §662(a)(1), Nov. 14, 1986, 100 Stat. 3893; amended Pub. L. 101–189, div. A, title VI, §664(a)(1)–(3)(A), Nov. 29, 1989, 103 Stat. 1466; Pub. L. 102–25, title VII, §701(e)(8)(A), Apr. 6, 1991, 105 Stat. 115.)
+(Added Pub. L. 99–661, div. A, title VI, §662(a)(1), Nov. 14, 1986, 100 Stat. 3893; amended Pub. L. 101–189, div. A, title VI, §664(a)(1)–(3)(A), Nov. 29, 1989, 103 Stat. 1466; Pub. L. 102–25, title VII, §701(e)(8)(A), Apr. 6, 1991, 105 Stat. 115; Pub. L. 104–106, div. A, title XV, §1501(c)(8), Feb. 10, 1996, 110 Stat. 499.)
 
 #### References in Text
 
-Chapter 67 of this title, referred to in subsec. (a)(1), was transferred to part II of subtitle E of this title, renumbered as chapter 1223, and amended generally by Pub. L. 103–337, div. A, title XVI, §1662(j)(1), Oct. 5, 1994, 108 Stat. 2998. A new chapter 67 (§1331) of this title was added by section 1662(j)(7) of Pub. L. 103–337.
-
-Section 3332 of title 31, referred to in subsec. (d)(1), was amended generally by Pub. L. 103–356, title IV, §402(a), Oct. 13, 1994, 108 Stat. 3412, and, as so amended,does not contain a definition of “financial organization”.
+Section 3332 of title 31, referred to in subsec. (d)(1), was amended generally by Pub. L. 103–356, title IV, §402(a), Oct. 13, 1994, 108 Stat. 3412, and, as so amended, does not contain a definition of “financial organization”.
 
 #### Amendments
 
+1996—Subsec. (a)(1). Pub. L. 104–106 substituted “chapter 1223” for “chapter 67”.
+
 1991—Pub. L. 102–25 struck out “mandatory” after “error in” in section catchline.
 
-1989—Pub. L. 101–189, §664(a)(3)(A), amended section catchline generally, substituting “Reimbursement for financial institution charges incurred because of Government” for “Relief for expenses because of”.
+1989—Pub. L. 101–189, §664(a)(3)(A), amended section catchline generally, substituting “Reimbursement forfinancial institution charges incurred because of Government” for “Relief for expenses because of”.
 
 Subsec. (a). Pub. L. 101–189, §664(a)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “A member of the armed forces who, by law or regulation, is required to participate in a program for the automatic deposit of pay to a financial institution may be reimbursed for overdraft charges levied by the financial institution when such charges result from an administrative or mechanical error on the part of the Government that causes such member's pay to be deposited late or in an incorrect amount or manner.”
 
 Subsec. (d). Pub. L. 101–189, §664(a)(2), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “In this section, the term ‘financial institution’ has the meaning given that term in section 3332 of title 31.”
+
+#### Effective Date of 1996 Amendment
+
+Section 1501(c) of Pub. L. 104–106 provided that the amendment made by that section is effective as of Dec. 1, 1994, and as if included as an amendment made by the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as originally enacted.
 
 #### Effective Date of 1989 Amendment
 

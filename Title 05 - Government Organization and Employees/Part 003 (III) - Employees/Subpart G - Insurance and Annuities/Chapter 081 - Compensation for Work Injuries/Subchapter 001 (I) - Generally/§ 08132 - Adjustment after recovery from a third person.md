@@ -12,7 +12,9 @@ Act
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 5 U.S.C. 777.
 
@@ -40,7 +42,7 @@ The words “However, \* \* \* is entitled to retain \* \* \* plus” are su
 
 #### Amendments
 
-<b>1974</b>—Pub. L. 93–416 made minor changes in phraseology and inserted provision prohibiting a court, etc., from distributing proceeds of suit or settlement without satisfying or assuring satisfaction of the interests of the United States.
+1974—Pub. L. 93–416 made minor changes in phraseology and inserted provision prohibiting a court, etc., from distributing proceeds of suit or settlement without satisfying or assuring satisfaction of the interests of the United States.
 
 #### Effective Date of 1974 Amendment
 

@@ -22,10 +22,10 @@
 | (i) | Application for financial assistance; requirements. |
 | (j) | Regulations for distribution of financial assistance in installments; implementation. |
 | (k) | Reviews to ensure compliance with regulations. |
-| (<i>l)</i> | Use of financial assistance for obscene project, production, etc.; repayment of assistance; exceptions. |
+| (<i>l</i>) | Use of financial assistance for obscene project, production, etc.; repayment of assistance; exceptions. |
 | (m) | Labor standards of professional performers and personnel; healthy and safe working conditions. |
 | (n) | Labor standards of laborers and mechanics. |
-| (<i>o)</i> | Correlation and development of endowment programs with other Federal and non-Federal programs; expenditure of appropriations. |
+| (<i>o</i>) | Correlation and development of endowment programs with other Federal and non-Federal programs; expenditure of appropriations. |
 | (p) | Program of contracts or grants-in-aid to public agencies and private nonprofit organizations; limitation on payments; authority of Chairperson. |
 | (q) | National information and data collection system on the arts, artists and art groups, and audiences; development and implementation plan; state of the arts reports. |
 | [954a.](Subchapter%20001%20%28I%29%20-%20National%20Foundation%20on%20the%20Arts%20and%20the%20Humanities/%C2%A7%2000954a%20-%20Access%20to%20the%20arts%20through%20support%20of%20education.md) | Access to the arts through support of education. |
@@ -56,7 +56,7 @@
 | (i) | Interagency agreements. |
 | (j) | Payment of wages at prevailing rates; authority of Secretary of Labor. |
 | (k) | National information and data collection system on humanities, scholars, educational and cultural groups, and audiences; development and implementation plan; state of the humanities reports. |
-| (<i>l)</i> | Eligibility of group for financial assistance. |
+| (<i>l</i>) | Eligibility of group for financial assistance. |
 | (m) | Annual awards. |
 | [956a.](Subchapter%20001%20%28I%29%20-%20National%20Foundation%20on%20the%20Arts%20and%20the%20Humanities/%C2%A7%2000956a%20-%20National%20Capital%20arts%20and%20cultural%20affairs%3B%20grant%20programs.md) | National Capital arts and cultural affairs; grant programs. |
 | [957\.](Subchapter%20001%20%28I%29%20-%20National%20Foundation%20on%20the%20Arts%20and%20the%20Humanities/%C2%A7%2000957%20-%20National%20Council%20on%20the%20Humanities.md) | National Council on the Humanities. |
@@ -90,32 +90,9 @@
 
 #### SUBCHAPTER II—MUSEUM SERVICES
 
-|  |  |
-| :--- | ---: |
-| [961\.](Subchapter%20002%20%28II%29%20-%20Museum%20Services/%C2%A7%2000961%20-%20Declaration%20of%20purpose.md) | Declaration of purpose. |
-| [962\.](Subchapter%20002%20%28II%29%20-%20Museum%20Services/%C2%A7%2000962%20-%20Institute%20of%20Museum%20Services%3B%20establishment.md) | Institute of Museum Services; establishment. |
-| [963\.](Subchapter%20002%20%28II%29%20-%20Museum%20Services/%C2%A7%2000963%20-%20National%20Museum%20Service%20Board.md) | National Museum Service Board. |
-| (a) | Appointment of voting and nonvoting members. |
-| (b) | Term of office; vacancies; reappointment. |
-| (c) | Designation of Chairperson; quorum. |
-| (d) | Meetings of Board. |
-| (e) | Compensation and travel expenses of members. |
-| (f) | General policies. |
-| (g) | Coordination with activities of Federal Government. |
-| [963a.](Subchapter%20002%20%28II%29%20-%20Museum%20Services/%C2%A7%2000963a%20-%20Omitted.md) | Omitted. |
-| [964\.](Subchapter%20002%20%28II%29%20-%20Museum%20Services/%C2%A7%2000964%20-%20Director%20of%20Institute.md) | Director of Institute. |
-| (a) | Appointment and compensation; delegation of functions. |
-| (b) | Coordination with Federal agencies and organizations. |
-| (c) | Appointment and compensation of technical and professional employees. |
-| [965\.](Subchapter%20002%20%28II%29%20-%20Museum%20Services/%C2%A7%2000965%20-%20Grants%20to%20museums%20to%20increase%20and%20improve%20services.md) | Grants to museums to increase and improve services. |
-| (a) | Authorized activities. |
-| (b) | Contracts and cooperative agreements. |
-| (c) | Cost limitation. |
-| (d) | Review and evaluation procedures. |
-| [966\.](Subchapter%20002%20%28II%29%20-%20Museum%20Services/%C2%A7%2000966%20-%20Contributions.md) | Contributions. |
-| [967\.](Subchapter%20002%20%28II%29%20-%20Museum%20Services/%C2%A7%2000967%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
-| [968\.](Subchapter%20002%20%28II%29%20-%20Museum%20Services/%C2%A7%2000968%20-%20Definitions.md) | Definitions. |
-| [969\.](Subchapter%20002%20%28II%29%20-%20Museum%20Services/%C2%A7%2000969%20-%20Assessment%20of%20certain%20museums.md) | Assessment of certain museums. |
+|  |
+| :--- |
+| 961 to 969. Omitted. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

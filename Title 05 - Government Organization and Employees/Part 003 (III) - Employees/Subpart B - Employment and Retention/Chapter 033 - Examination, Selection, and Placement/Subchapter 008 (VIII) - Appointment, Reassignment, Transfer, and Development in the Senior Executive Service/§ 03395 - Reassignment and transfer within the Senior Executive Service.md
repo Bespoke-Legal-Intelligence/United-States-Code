@@ -10,7 +10,7 @@
 
 (B)(i) A career appointee may not be reassigned to a Senior Executive Service position outside the career appointee's commuting area unless—
 
-&emsp;(I) before providing notice under subclause (II) of this clause (or seeking or obtaining the consent of the career appointee under clause (ii) of this subparagraph to waive such notice), the agency consults with the career appointee on the reasons for, and the appointee's preferences with respect to, the proposed reassignment; and
+&emsp;(I) before providing notice under subclause (II) of this clause (or seeking or obtaining theconsent of the career appointee under clause (ii) of this subparagraph to waive such notice), the agency consults with the career appointee on the reasons for, and the appointee's preferences with respect to, the proposed reassignment; and
 
 &emsp;(II) the career appointee receives written notice of the reassignment, including a statement of the reasons for the reassignment, at least 60 days before the effective date of the reassignment.
 
@@ -54,11 +54,11 @@ A prior section 3395, added Pub. L. 95–437, §3(a), Oct. 10, 1978, 92 Stat. 10
 
 #### Amendments
 
-<b>1991</b>—Subsec. (e)(1)(B)(ii). Pub. L. 102–175, §3(1), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “has the authority to reassign the career appointee.”
+1991—Subsec. (e)(1)(B)(ii). Pub. L. 102–175, §3(1), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “has the authority to reassign the career appointee.”
 
 Subsec. (e)(3). Pub. L. 102–175, §3(2), added par. (3).
 
-<b>1984</b>—Subsec. (a)(2). Pub. L. 98–615 designated existing provisions as subpar. (A), inserted exception relating to subpar. (B), and added subpar. (B).
+1984—Subsec. (a)(2). Pub. L. 98–615 designated existing provisions as subpar. (A), inserted exception relating to subpar. (B), and added subpar. (B).
 
 #### Effective Date of 1984 Amendment
 

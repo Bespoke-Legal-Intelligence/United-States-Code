@@ -2,7 +2,7 @@
 
 #### (a) By Treasury to Joint Committee
 
-No refund or credit of any income, war profits, excess profits, estate, or gift tax, or any tax imposed with respect to public charities, private foundations, operators’ trust funds, pension plans, or real estate investment trusts under chapter 41, 42, 43, or 44, in excess of $1,000,000 shall be made until after the expiration of 30 days from the date upon which a report giving the name of the person to whom the refund or credit is to be made, the amount of such refund or credit, and a summary of the facts and the decision of the Secretary, is submitted to the Joint Committee on Taxation.
+No refund or credit of any income, war profits, excess profits, estate, or gift tax, or any tax imposed with respect to public charities, private foundations, operators’ trust funds, pension plans, or real estate investment trusts under chapter 41, 42, 43, or 44, in excess of $1,000,000 shall be made until after the expiration of 30 days from the date upon which a report givingthe name of the person to whom the refund or credit is to be made, the amount of such refund or credit, and a summary of the facts and the decision of the Secretary, is submitted to the Joint Committee on Taxation.
 
 #### (b) Tentative adjustments
 
@@ -66,7 +66,7 @@ For provisions that nothing in amendment by section 11801(c)(21)(A) of Pub. L. 1
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L.99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
 #### Cross References
 

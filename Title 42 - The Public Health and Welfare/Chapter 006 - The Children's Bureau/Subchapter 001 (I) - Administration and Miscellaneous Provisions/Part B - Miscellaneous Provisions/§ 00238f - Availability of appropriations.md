@@ -26,7 +26,7 @@ Section 2004 of Pub. L. 103–43 provided that:
 
 “(a)
 
-Compliance With Buy American Act.—No funds appropriated pursuant to this Act \[see Short Title of 1993 Amendment note set out under section 201 of this title\] for any of the fiscal years 1994 through 1996 may be expended by an entity unless the entity agrees that in expending the assistance the entity will comply with sections 2 through 4 of the Act of March 3, 1933 (41 U.S.C. 10a–10c, popularly known as the ‘Buy American Act’).
+Compliance With Buy American Act.—No funds appropriated pursuant to this Act \[see Short Title of1993 Amendment note set out under section 201 of this title\] for any of the fiscal years 1994 through 1996 may be expended by an entity unless the entity agrees that in expending the assistance the entity will comply with sections 2 through 4 of the Act of March 3, 1933 (41 U.S.C. 10a–10c, popularly known as the ‘Buy American Act’).
 
 “(b)
 

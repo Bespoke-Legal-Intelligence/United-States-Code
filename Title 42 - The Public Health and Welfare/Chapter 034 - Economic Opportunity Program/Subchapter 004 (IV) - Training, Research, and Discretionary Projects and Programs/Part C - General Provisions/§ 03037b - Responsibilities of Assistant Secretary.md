@@ -6,7 +6,7 @@ The Assistant Secretary shall be responsible for the administration, implementat
 
 #### (b) Annual report to Congress
 
-(1) Not later than January 1 following each fiscal year, the Assistant Secretary shall submit,to the Speaker of the House of Representatives and the President pro tempore of the Senate, a report for such fiscal year that describes each project and each program—
+(1) Not later than January 1 following each fiscal year, the Assistant Secretary shall submit, to the Speaker of the House of Representatives and the President pro tempore of the Senate, a report for such fiscal year that describes each project and each program—
 
 &emsp;(A) for which funds were provided under this subchapter; and
 

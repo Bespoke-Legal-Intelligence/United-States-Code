@@ -10,37 +10,37 @@ Unless the Secretary of the Army finds, after consultation with local and region
 
 &emsp;&emsp;Beginning at an iron pin monument at the intersection of the centerline of East 9th Street (99 feet wide) with the centerline of relocated Erieside Avenue, N.E., (70 feet wide) at Cleveland Regional Geodetic Survey Grid System, (CRGS) coordinates N92,679.734, E86,085.955;
 
-&emsp;&emsp;Thence south 56°–06G6<b>�</b>–52G6<b>"</b> west on the centerline of relocated Erieside Avenue, N.E., a distance of 89.50 feet to a drill hole set.
+&emsp;&emsp;Thence south 56°–06–52 west on the centerline of relocated Erieside Avenue, N.E., a distance of 89.50 feet to a drill hole set.
 
-&emsp;&emsp;Thence north 33°–53G6<b>�</b>–08G6<b>"</b> west a distance of 35.00 feet to a drill hole set on the north-westerly right-of-way line of relocated Erieside Avenue, N.E., said point being the true place of beginning of the parcel herein described.
+&emsp;&emsp;Thence north 33°–53–08 west a distance of 35.00 feet to a drill hole set on the north-westerly right-of-way line of relocated Erieside Avenue, N.E., said point being the true place of beginning of the parcel herein described.
 
-&emsp;&emsp;Thence south 56°–06G6<b>�</b>–52G6<b>"</b> west on the northwesterly right-of-way line of relocated Erieside Avenue, N.E., a distance of 23.39 feet to a 5/8 inch re-bar set;
+&emsp;&emsp;Thence south 56°–06–52 west on the northwesterly right-of-way line of relocated Erieside Avenue, N.E., a distance of 23.39 feet to a 5/8 inch re-bar set;
 
-&emsp;&emsp;Thence southwesterly on the northwesterly right-of-way line of relocated Erieside Avenue, N.E., along the arc of a curve to the left with a radius of 335.00 feet, and whose chord bears south 42°–36G6<b>�</b>–52G6<b>"</b> west 156.41 feet, an arc distance of 157.87 feet to a 5/8 inch re-bar set;
+&emsp;&emsp;Thence southwesterly on the northwesterly right-of-way line of relocated Erieside Avenue, N.E., along the arc of a curve to the left with a radius of 335.00 feet, and whose chord bears south 42°–36–52 west 156.41 feet, an arc distance of 157.87 feet to a 5/8 inch re-bar set;
 
-&emsp;&emsp;Thence south 29°–06G6<b>�</b>–52G6<b>"</b> west on the northwesterly right-of-way line of relocated Erieside Avenue, N.E., a distance of 119.39 feet to a 5/8 inch re-bar set;
+&emsp;&emsp;Thence south 29°–06–52 west on the northwesterly right-of-way line of relocated Erieside Avenue, N.E., a distance of 119.39 feet to a 5/8 inch re-bar set;
 
-&emsp;&emsp;Thence southwesterly on the northwesterly right-of-way of relocated Erieside Avenue, N.E., along the arc of a curve to the right with a radius of 665.00 feet, and whose chord bears south 32°–22G6<b>�</b>–08G6<b>"</b> west 75.50 feet, an arc distance of 75.54 feet to a 5/8 inch re-bar set;
+&emsp;&emsp;Thence southwesterly on the northwesterly right-of-way of relocated Erieside Avenue, N.E., along the arc of a curve to the right with a radius of 665.00 feet, and whose chord bears south 32°–22–08 west 75.50 feet, an arc distance of 75.54 feet to a 5/8 inch re-bar set;
 
-&emsp;&emsp;Thence north 33°–53G6<b>�</b>–08G6<b>"</b> west a distance of 279.31 feet to a drill hole set;
+&emsp;&emsp;Thence north 33°–53–08 west a distance of 279.31 feet to a drill hole set;
 
-&emsp;&emsp;Thence south 56°–06G6<b>�</b>–52G6<b>"</b> west a distance of 37.89 feet to a drill hole set;
+&emsp;&emsp;Thence south 56°–06–52 west a distance of 37.89 feet to a drill hole set;
 
-&emsp;&emsp;Thence north 33°–53G6<b>�</b>–08G6<b>"</b> west a distance of 127.28 feet to a point;
+&emsp;&emsp;Thence north 33°–53–08 west a distance of 127.28 feet to a point;
 
-&emsp;&emsp;Thence north 11°–06G6<b>�</b>–52G6<b>"</b> east a distance of 225.00 feet to a point;
+&emsp;&emsp;Thence north 11°–06–52 east a distance of 225.00 feet to a point;
 
-&emsp;&emsp;Thence south 78°–53G6<b>�</b>–08G6<b>"</b> east a distance of 150.00 feet to a drill hole set;
+&emsp;&emsp;Thence south 78°–53–08 east a distance of 150.00 feet to a drill hole set;
 
-&emsp;&emsp;Thence north 11°–06G6<b>�</b>–52G6<b>"</b> east a distance of 32.99 feet to a drill hole set;
+&emsp;&emsp;Thence north 11°–06–52 east a distance of 32.99 feet to a drill hole set;
 
-&emsp;&emsp;Thence north 33°–53G6<b>�</b>–08G6<b>"</b> east a distance of 46.96 feet to a drill hole set;
+&emsp;&emsp;Thence north 33°–53–08 east a distance of 46.96 feet to a drill hole set;
 
-&emsp;&emsp;Thence north 56°–06G6<b>�</b>–52G6<b>"</b> east a distance of 140.36 feet to a drill hole set on the southwesterly right-of-way line of East 9th Street;
+&emsp;&emsp;Thence north 56°–06–52 east a distance of 140.36 feet to a drill hole set on the southwesterly right-of-way line of East 9th Street;
 
-&emsp;&emsp;Thence south 33°–53G6<b>�</b>–08G6<b>"</b> east on the southwesterly right-of-way line of East 9th Street a distance of 368.79 feet to a drill hole set;
+&emsp;&emsp;Thence south 33°–53–08 east on the southwesterly right-of-way line of East 9th Street a distance of 368.79 feet to a drill hole set;
 
-&emsp;&emsp;Thence southwesterly along the arc of a curve to the right with a radius of 40.00 feet, and whose chord bears south 11°–06G6<b>�</b>–52G6<b>"</b> west 56.57 feet, an arc distance of 62.83 feet to the true place of beginning containing 174,764 square feet (4.012 acres) more or less.
+&emsp;&emsp;Thence southwesterly along the arc of a curve to the right with a radius of 40.00 feet, and whose chord bears south 11°–06–52 west 56.57 feet, an arc distance of 62.83 feet to the true place of beginning containing 174,764 square feet (4.012 acres) more or less.
 
 #### (e) Limits on applicability; regulatory requirements
 
@@ -58,5 +58,5 @@ The National Environmental Policy Act of 1969, referred to in subsec. (e), is Pu
 
 #### Codification
 
-Section is comprised of section 1079 of Pub. L. 102–240. Subsections (a), (b), and (c) of section 1079 of Pub. L. 102–240 provided for deauthorization of a portion of aproject for harbor modification of Cleveland Harbor which was authorized by section 202(a) of the Water Resources Development Act of 1986, Pub. L. 99–662, title II, Nov. 17, 1986, 100 Stat. 4095, which is not classified to the Code.
+Section is comprised of section 1079 of Pub. L. 102–240. Subsections (a), (b), and (c) of section 1079 of Pub. L. 102–240 provided for deauthorization of a portion of a project for harbor modification of Cleveland Harbor which was authorized by section 202(a) of the Water Resources Development Act of 1986, Pub. L. 99–662, title II, Nov. 17, 1986, 100 Stat. 4095, which is not classified to the Code.
 

@@ -23,3 +23,4 @@ This part is referred to in sections 153, 154, 158, 382, 503, 504 of this title.
 - [&sect; 00360 - Station licenses; inspection of equipment by Commission](%C2%A7%2000360%20-%20Station%20licenses%3B%20inspection%20of%20equipment%20by%20Commission.md)
 - [&sect; 00361 - Control by Commission; review of decisions](%C2%A7%2000361%20-%20Control%20by%20Commission%3B%20review%20of%20decisions.md)
 - [&sect; 00362 - Forfeitures; recovery](%C2%A7%2000362%20-%20Forfeitures%3B%20recovery.md)
+- [&sect; 00363 - Automated ship distress and safety systems](%C2%A7%2000363%20-%20Automated%20ship%20distress%20and%20safety%20systems.md)

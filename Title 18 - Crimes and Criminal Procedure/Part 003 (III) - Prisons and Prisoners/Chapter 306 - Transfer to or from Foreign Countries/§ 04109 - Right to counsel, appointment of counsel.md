@@ -1,6 +1,6 @@
 ### §4109. Right to counsel, appointment of counsel
 
-(a) In proceedings to verify consent of an offender for transfer, the offender shall have theright to advice of counsel. If the offender is financially unable to obtain counsel—
+(a) In proceedings to verify consent of an offender for transfer, the offender shall have the right to advice of counsel. If the offender is financially unable to obtain counsel—
 
 &emsp;(1) counsel for proceedings conducted under section 4107 shall be appointed in accordance with section 3006A of this title. Such appointment shall be considered an appointment in a misdemeanor case for purposes of compensation under the Act; <sup>1</sup>
 

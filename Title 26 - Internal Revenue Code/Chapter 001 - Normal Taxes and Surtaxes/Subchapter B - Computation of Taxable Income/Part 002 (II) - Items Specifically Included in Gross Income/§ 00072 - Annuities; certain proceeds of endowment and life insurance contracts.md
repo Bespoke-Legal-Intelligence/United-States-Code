@@ -38,7 +38,7 @@ Except as otherwise provided in this chapter, gross income includes any amount r
 
 &emsp;For purposes of this subsection, the unrecovered investment in the contract as of any date is—
 
-&emsp;&emsp;(A) the investment in the contract as of the annuity starting date, reduced by
+&emsp;&emsp;(A) the investment in the contract (determined without regard to subsection (c)(2)) as of the annuity starting date, reduced by
 
 &emsp;&emsp;(B) the aggregate amount received under the contract on or after such annuity starting date and before the date as of which the determination is being made, to the extent such amount was excludable from gross income under this subtitle.
 
@@ -80,9 +80,97 @@ Except as otherwise provided in this chapter, gross income includes any amount r
 
 &emsp;For purposes of this section, the annuity starting date in the case of any contract is the first day of the first period for which an amount is received as an annuity under the contract; except that if such date was before January 1, 1954, then the annuity starting date is January 1, 1954.
 
-#### (d) Treatment of employee contributions under defined contribution plans as separate contracts
+#### (d) Special rules for qualified employer retirement plans
 
-For purposes of this section, employee contributions (and any income allocable thereto) under a defined contribution plan may be treated as a separate contract.
+#### (1) Simplified method of taxing annuity payments
+
+#### (A) In general
+
+&emsp;&emsp;In the case of any amount received as an annuity under a qualified employer retirement plan—
+
+&emsp;&emsp;&emsp;(i) subsection (b) shall not apply, and
+
+&emsp;&emsp;&emsp;(ii) the investment in the contract shall be recovered as provided in this paragraph.
+
+#### (B) Method of recovering investment in contract
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;Gross income shall not include so much of any monthly annuity payment under a qualified employer retirement plan as does not exceed the amount obtained by dividing—
+
+&emsp;&emsp;&emsp;&emsp;(I) the investment in the contract (as of the annuity starting date), by
+
+&emsp;&emsp;&emsp;&emsp;(II) the number of anticipated payments determined under the table contained in clause (iii) (or, in the case of a contract to which subsection (c)(3)(B) applies, the number of monthly annuity payments under such contract).
+
+#### (ii) Certain rules made applicable
+
+&emsp;&emsp;&emsp;Rules similar to the rules of paragraphs (2) and (3) of subsection (b) shall apply for purposes of this paragraph.
+
+#### (iii) Number of anticipated payments
+
+<b>  If the age of the</b>
+
+<b>   primary annuitant on</b>
+
+<b>The number</b>
+
+<b>   the annuity starting</b>
+
+<b>of anticipated</b>
+
+<b>   date is:</b>
+
+<b>payments is:</b>
+
+&emsp;&emsp;Not more than 55
+
+360&nbsp;&nbsp;
+
+&emsp;&emsp;More than 55 but not more than 60
+
+310&nbsp;&nbsp;
+
+&emsp;&emsp;More than 60 but not more than 65
+
+260&nbsp;&nbsp;
+
+&emsp;&emsp;More than 65 but not more than 70
+
+210&nbsp;&nbsp;
+
+&emsp;&emsp;More than 70
+
+160\.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### (C) Adjustment for refund feature not applicable
+
+&emsp;&emsp;For purposes of this paragraph, investment in the contract shall be determined under subsection (c)(1) without regard to subsection (c)(2).
+
+#### (D) Special rule where lump sum paid in connection with commencement of annuity payments
+
+&emsp;&emsp;If, in connection with the commencement of annuity payments under any qualified employer retirement plan, the taxpayer receives a lump-sum payment—
+
+&emsp;&emsp;&emsp;(i) such payment shall be taxable under subsection (e) as if received before the annuity starting date, and
+
+&emsp;&emsp;&emsp;(ii) the investment in the contract for purposes of this paragraph shall be determined as if such payment had been so received.
+
+#### (E) Exception
+
+&emsp;&emsp;This paragraph shall not apply in any case where the primary annuitant has attained age 75 on the annuity starting date unless there are fewer than 5 years of guaranteed payments under the annuity.
+
+#### (F) Adjustment where annuity payments not on monthly basis
+
+&emsp;&emsp;In any case where the annuity payments are not made on a monthly basis, appropriate adjustments in the application of this paragraph shall be made to take into account the period on the basis of which such payments are made.
+
+#### (G) Qualified employer retirement plan
+
+&emsp;&emsp;For purposes of this paragraph, the term “qualified employer retirement plan” means any plan or contract described in paragraph (1), (2), or (3) of section 4974(c).
+
+#### (2) Treatment of employee contributions under defined contribution plans
+
+&emsp;For purposes of this section, employee contributions (and any income allocable thereto) under a defined contribution plan may be treated as a separate contract.
 
 #### (e) Amounts not received as annuities
 
@@ -166,7 +254,7 @@ For purposes of this section, employee contributions (and any income allocable t
 
 #### (iii) Adjustment to investment in contract of transferee
 
-&emsp;&emsp;&emsp;If under clause (i) an amount is included in the gross income of the transferor of an annuity contract, the investment in the contract of the transferee in such contract shall be increased by the amount so included.
+&emsp;&emsp;&emsp;If under clause (i) an amount is included in the gross income of the transferor of an annuity contract, the investment in thecontract of the transferee in such contract shall be increased by the amount so included.
 
 #### (5) Retention of existing rules in certain cases
 
@@ -186,7 +274,7 @@ For purposes of this section, employee contributions (and any income allocable t
 
 #### (C) Certain life insurance and endowment contracts
 
-&emsp;&emsp;Except as provided in paragraph (10) and except to the extent prescribed by the Secretary by regulations, this paragraph shallapply to any amount not received as an annuity which is received under a life insurance or endowment contract.
+&emsp;&emsp;Except as provided in paragraph (10) and except to the extent prescribed by the Secretary by regulations, this paragraph shall apply to any amount not received as an annuity which is received under a life insurance or endowment contract.
 
 #### (D) Contracts under qualified plans
 
@@ -286,7 +374,7 @@ In computing, for purposes of subsection (c)(1)(A), the aggregate amount of prem
 
 &emsp;(2) if such amounts had been paid directly to the employee at the time they were contributed, they would not have been includible in the gross income of the employee under the law applicable at the time of such contribution.
 
-> Paragraph (2) shall not apply to amounts which were contributed by the employer after December 31, 1962, and which would not have been includible in the gross income of the employee by reason of the application of section 911 if such amounts had been paid directly to the employee at the time of contribution. The preceding sentence shall not apply to amounts which were contributed by the employer, as determined under regulations prescribed by the Secretary, to provide pension or annuity credits, to the extent such credits are attributable to services performed before January 1, 1963, and are provided pursuant to pension or annuity plan provisions in existence on March 12, 1962, and on that date applicable to such services.
+> Paragraph (2) shall not apply to amounts which were contributed by the employer after December 31, 1962, and which would not have been includible in the gross income of the employee by reason of the application of section 911 if such amounts had been paid directly to the employee at the time of contribution. The preceding sentence shall not apply to amounts which were contributed by the employer, as determined under regulations prescribed by the Secretary, to provide pension or annuity credits, to the extent such credits are attributable to services performed before January 1, 1963, and are provided pursuant to pension or annuity plan provisions in existence on March 12, 1962, and on that date applicable to such services, or to the extent such credits are attributable to services performed as a foreign missionary (within the meaning of section 403(b)(2)(D)(iii)).
 
 #### (g) Rules for transferee where transfer was for value
 
@@ -332,13 +420,11 @@ For purposes of this section, the term “endowment contract” includes a face-
 
 &emsp;In computing—
 
-&emsp;&emsp;(A) the aggregate amount of premiums or other consideration paid for the contract for purposes of subsection (c)(1)(A) (relating to the investment in the contract),
+&emsp;&emsp;(A) the aggregate amount of premiums or other consideration paid for the contract for purposes of subsection (c)(1)(A) (relating to the investment in the contract), and
 
-&emsp;&emsp;(B) the consideration for the contract contributed by the employee for purposes of subsection (d)(1) (relating to employee's contributions recoverable in 3 years) and subsection (e)(7) (relating to plans where substantially all contributions are employee contributions), and
+&emsp;&emsp;(B) the aggregate premiums or other consideration paid for purposes of subsection (e)(6) (relating to certain amounts not received as an annuity),
 
-&emsp;&emsp;(C) the aggregate premiums or other consideration paid for purposes of subsection (e)(6) (relating to certain amounts not received as an annuity),
-
-> &emsp;any amount allowed as a deduction with respect to the contract under section 404 which was paid while the employee was an employee within the meaning of section 401(c)(1) shall be treated as consideration contributed by the employer, and there shall not be taken into account any portion of the premiums or other consideration for the contract paid while the employee was an owner-employee which isproperly allocable (as determined under regulations prescribed by the Secretary) to the cost of life, accident, health, or other insurance.
+> &emsp;any amount allowed as a deduction with respect to the contract under section 404 which was paid while the employee was an employee within the meaning of section 401(c)(1) shall be treated as consideration contributed by the employer, and there shall not be taken into account any portion of the premiums or other consideration for the contract paid while the employee was an owner-employee which is properly allocable (as determined under regulations prescribed by the Secretary) to the cost of life, accident, health, or other insurance.
 
 #### (3) Life insurance contracts
 
@@ -380,7 +466,7 @@ For purposes of this section, the term “endowment contract” includes a face-
 
 #### (n) Annuities under retired serviceman's family protection plan or survivor benefit plan
 
-Subsection (b) shall not apply in the case of amounts received after December 31, 1965, as an annuity under chapter 73 of title 10 of the United States Code, but all such amounts shall be excluded from gross income until there has been so excluded (under section 122(b)(1) or this section, including amounts excluded before January 1, 1966) an amount equal to the consideration for the contract (as defined by section 122(b)(2)), plus any amount treated pursuant to section 101(b)(2)(D) as additional consideration paid by the employee. Thereafter all amounts so received shall be included in gross income.
+Subsection (b) shall not apply in the case of amounts received after December 31, 1965, as anannuity under chapter 73 of title 10 of the United States Code, but all such amounts shall be excluded from gross income until there has been so excluded (under section 122(b)(1) or this section, including amounts excluded before January 1, 1966) an amount equal to the consideration for the contract (as defined by section 122(b)(2)), plus any amount treated pursuant to section 101(b)(2)(D) <sup>2</sup> as additional consideration paid by the employee. Thereafter all amounts so received shall be included in gross income.
 
 #### (<i>o</i>) Special rules for distributions from qualified plans to which employee made deductible contributions
 
@@ -460,7 +546,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) the greater of (I) one-half of the present value of the nonforfeitable accrued benefit of the employee under the plan, or (II) $10,000.
 
-> &emsp;&emsp;For purposes of clause (ii), the present value of the nonforfeitable accrued benefit shall be determined without regard to any accumulated deductible employee contributions (as defined in subsection (<i>o</i>)(5)(B)).
+> &emsp;&emsp;For purposes of clause (ii), the present value of the nonforfeitable accrued benefit shall bedetermined without regard to any accumulated deductible employee contributions (as defined in subsection (<i>o</i>)(5)(B)).
 
 #### (B) Requirement that loan be repayable within 5 years
 
@@ -474,7 +560,7 @@ For purposes of this section—
 
 #### (C) Requirement of level amortization
 
-&emsp;&emsp;Except as provided in regulations, this paragraph shall not apply to any loan unless substantially level amortization of such loan\(with payments not less frequently than quarterly) is required over the term of the loan.
+&emsp;&emsp;Except as provided in regulations, this paragraph shall not apply to any loan unless substantially level amortization of such loan (with payments not less frequently than quarterly) is required over the term of the loan.
 
 #### (D) Related employers and related plans
 
@@ -514,13 +600,9 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(III) a plan under which amounts are contributed by an individual's employer for an annuity contract described in section 403(b).
 
-#### (ii) Special rules
+#### (ii) Special rule
 
-&emsp;&emsp;&emsp;The term “qualified employer plan”—
-
-&emsp;&emsp;&emsp;&emsp;(I) shall include any plan which was (or was determined to be) a qualified employer plan or a government plan, but
-
-&emsp;&emsp;&emsp;&emsp;(II) shall not include a plan described in subsection (e)(7).
+&emsp;&emsp;&emsp;The term “qualified employer plan” shall include any plan which was (or was determined to be) a qualified employer plan or a government plan.
 
 #### (B) Government plan
 
@@ -550,7 +632,7 @@ For purposes of this section—
 
 &emsp;&emsp;(E) from a plan, contract, account, trust, or annuity described in subsection (e)(5)(D),
 
-&emsp;&emsp;(F) allocable to investment in the contract before August 14, 1982, or <sup>2</sup>
+&emsp;&emsp;(F) allocable to investment in the contract before August 14, 1982, or <sup>3</sup>
 
 &emsp;&emsp;(G) under a qualified funding asset (within the meaning of section 130(d), but without regard to whether there is a qualified assignment),
 
@@ -718,17 +800,37 @@ For purposes of this section—
 
 #### (B) Medical expenses
 
-&emsp;&emsp;Distributions made to the employee (other than distributions described in subparagraph (A) or (C)) to the extent such distributions do not exceed the amount allowable as a deduction under section 213 to the employee for amounts paid during the taxable year for medical care (determined without regard to whether the employee itemizes deductions for such taxable year).
+&emsp;&emsp;Distributions made to the employee (other than distributions described in subparagraph (A), (C), or (D)) to the extent such distributions do not exceed the amount allowable as a deduction under section 213 to the employee for amounts paid during the taxable year for medical care (determined without regard to whether the employee itemizes deductions for such taxable year).
 
 #### (C) Payments to alternate payees pursuant to qualified domestic relations orders
 
 &emsp;&emsp;Any distribution to an alternate payee pursuant to a qualified domestic relations order (within the meaning of section 414(p)(1)).
 
+#### (D) Distributions to unemployed individuals for health insurance premiums
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;Distributions from an individual retirement plan to an individual after separation from employment—
+
+&emsp;&emsp;&emsp;&emsp;(I) if such individual has received unemployment compensation for 12 consecutive weeks under any Federal or State unemployment compensation law by reason of such separation,
+
+&emsp;&emsp;&emsp;&emsp;(II) if such distributions are made during any taxable year during which such unemployment compensation is paid or the succeeding taxable year, and
+
+&emsp;&emsp;&emsp;&emsp;(III) to the extent such distributions do not exceed the amount paid during the taxable year for insurance described in section 213(d)(1)(D) with respect to the individual and the individual's spouse and dependents (as defined in section 152).
+
+#### (ii) Distributions after reemployment
+
+&emsp;&emsp;&emsp;Clause (i) shall not apply to any distribution made after the individual has been employed for at least 60 days after the separation from employment to which clause (i) applies.
+
+#### (iii) Self-employed individuals
+
+&emsp;&emsp;&emsp;To the extent provided in regulations, a self-employed individual shall be treatedas meeting the requirements of clause (i)(I) if, under Federal or State law, the individual would have received unemployment compensation but for the fact the individual was self-employed.
+
 #### (3) Limitations
 
 #### (A) Certain exceptions not to apply to individual retirement plans
 
-&emsp;&emsp;Subparagraphs (A)(v), (B), and (C) of paragraph (2) shall not apply to distributions from an individual retirement plan.
+&emsp;&emsp;Subparagraphs (A)(v),<sup>4</sup> and (C) of paragraph (2) shall not apply to distributions from an individual retirement plan.
 
 #### (B) Periodic payments under qualified plans must begin after separation
 
@@ -757,6 +859,10 @@ For purposes of this section—
 #### (5) Employee
 
 &emsp;For purposes of this subsection, the term “employee” includes any participant, and in the case of an individual retirement plan, the individual for whose benefit such plan was established.
+
+#### (6) Special rules for simple retirement accounts
+
+&emsp;In the case of any amount received from a simple retirement account (within the meaning of section 408(p)) during the 2-year period beginning on the date such individual first participated in any qualified salary reduction arrangement maintained by the individual's employer under section 408(p)(2), paragraph (1) shall be applied by substituting “25 percent” for “10 percent”.
 
 #### (u) Treatment of annuity contracts not held by natural persons
 
@@ -830,13 +936,41 @@ For purposes of this section—
 
 &emsp;&emsp;<b>For limitation on adjustments to basis of annuity contracts sold, see section 1021.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 20; Oct. 10, 1962, Pub. L. 87–792, §4(a), (b), 76 Stat. 821; Oct. 16, 1962, Pub. L. 87–834, §11(b), 76 Stat. 1005; Feb. 26, 1964, Pub. L. 88–272, title II, §232(b), 78 Stat. 110; June 21, 1965, Pub. L. 89–44, title VIII, §809(d)(2), 79 Stat. 167; July 30, 1965, Pub. L. 89–97, title I, §106(d)(2), 79 Stat. 337; Mar. 8, 1966, Pub. L. 89–365, §1(b), 80 Stat. 32; Dec. 30, 1969, Pub. L. 91–172, title V, §515(b), 83 Stat. 644; Sept. 2, 1974, Pub. L. 93–406, title II, §§2001(e)(5), (g)(1), (2)(A), (h)(2), (3), 2002(g)(10), 2005(c)(3), 2007(b)(2), 88 Stat. 955, 957, 970, 991, 994; Oct. 4, 1976, Pub. L. 94–455, title XIX, §§1901(a)(12), (13), 1906(b)(13)(A), 1951(b)(1)(A), 90 Stat. 1765, 1834, 1836; Aug. 13, 1981, Pub. L. 97–34, title III, §§311(b)(1), 312(d), (e)(1), 95 Stat. 278, 284; Sept. 3, 1982, Pub. L. 97–248, title II, §§236(a), (b), 237(d), 265(a), (b)(1), 96 Stat. 509–511, 544–546; Jan. 12, 1983, Pub. L. 97–448, title I, §103(c)(3)(B)(i), (6), 96 Stat. 2376; Aug. 12, 1983, Pub. L. 98–76, title II, §224(a), 97 Stat. 421; July 18, 1984, Pub. L. 98–369, div. A, title II, §§211(b)(1), 222(a), (b), title IV, §§421(b)(1), 491(d)(3), (4), title V, §§521(d), 523(a),\(b), title VII, §713(b)(1)–(c)(1)(B), (d)(1), 98 Stat. 754, 774, 794, 849, 868, 871, 872, 956, 957; Aug. 23, 1984, Pub. L. 98–397, title II, §204(c)(2), 98 Stat. 1448; Oct. 22, 1986, Pub. L. 99–514, title XI, §§1101(b)(2)(B), (C), 1122(c), 1123(a), (b), (d)(1), 1134(a)–(d), 1135(a), title XVIII, §§1826(a), (b)(1)–(3), (c), (d), 1852(a)(2), (c)(1)–(4), 1854(b)(1), 1898(c)(1)(B), 100 Stat. 2413, 2414, 2467, 2472, 2474, 2475, 2483, 2484, 2848–2850, 2864, 2867, 2878, 2951; Nov. 10, 1988, Pub. L. 100–647, title I, §§1011A(b)(1)(A), (B), (2), (9), (c)(1)–(8), (h), (i), 1018(k), (t)(1)(A), (B), (u)(8), title V, §5012(a), (b)(1), (d), 102 Stat. 3472, 3474–3476, 3482, 3583, 3587, 3590, 3661, 3662, 3664; Dec. 19, 1989, Pub. L. 101–239, title VII, §§7811(m)(4), 7815(a)(3), (5), 103 Stat. 2412, 2414; Nov. 5, 1990, Pub. L. 101–508, title XI, §11802(a), 104 Stat. 1388–529; July 3, 1992, Pub. L. 102–318, title V, §521(b)(3), 106 Stat. 310.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 20; Oct. 10, 1962, Pub. L. 87–792, §4(a), (b), 76 Stat. 821; Oct. 16, 1962, Pub. L. 87–834, §11(b), 76 Stat. 1005; Feb. 26, 1964, Pub. L. 88–272, title II, §232(b), 78 Stat. 110; June 21, 1965, Pub. L. 89–44, title VIII, §809(d)(2), 79 Stat. 167; July 30, 1965, Pub. L. 89–97, title I, §106(d)(2), 79 Stat. 337; Mar. 8, 1966, Pub. L. 89–365, §1(b), 80 Stat. 32; Dec. 30, 1969, Pub. L. 91–172, title V, §515(b), 83 Stat. 644; Sept. 2, 1974, Pub. L. 93–406, title II, §§2001(e)(5), (g)(1), (2)(A), (h)(2), (3), 2002(g)(10), 2005(c)(3), 2007(b)(2), 88 Stat. 955, 957, 970, 991, 994; Oct. 4, 1976, Pub. L. 94–455, title XIX, §§1901(a)(12), (13), 1906(b)(13)(A), 1951(b)(1)(A), 90 Stat. 1765, 1834, 1836; Aug. 13, 1981, Pub. L. 97–34, title III, §§311(b)(1), 312(d), (e)(1), 95 Stat. 278, 284; Sept. 3, 1982, Pub. L. 97–248, title II, §§236(a), (b), 237(d), 265(a), (b)(1), 96 Stat. 509–511, 544–546; Jan. 12, 1983, Pub. L. 97–448, title I, §103(c)(3)(B)(i), (6), 96 Stat. 2376; Aug. 12, 1983, Pub. L. 98–76, title II, §224(a), 97 Stat. 421; July 18, 1984, Pub. L. 98–369, div. A, title II, §§211(b)(1), 222(a), (b), title IV, §§421(b)(1), 491(d)(3), (4), title V, §§521(d), 523(a), (b), title VII, §713(b)(1)–(c)(1)(B), (d)(1), 98 Stat. 754, 774, 794, 849, 868, 871, 872, 956, 957; Aug. 23, 1984, Pub. L. 98–397, title II, §204(c)(2), 98 Stat. 1448; Oct. 22, 1986, Pub. L. 99–514, title XI, §§1101(b)(2)(B), (C), 1122(c), 1123(a), (b), (d)(1), 1134(a)–(d), 1135(a), title XVIII, §§1826(a), (b)(1)–(3), (c), (d), 1852(a)(2), (c)(1)–(4), 1854(b)(1), 1898(c)(1)(B), 100 Stat. 2413, 2414, 2467, 2472, 2474, 2475, 2483, 2484, 2848–2850, 2864, 2867, 2878, 2951; Nov. 10, 1988, Pub. L. 100–647, title I, §§1011A(b)(1)(A), (B), (2), (9), (c)(1)–(8), (h), (i), 1018(k), (t)(1)(A), (B), (u)(8), title V, §5012(a), (b)(1), (d), 102 Stat. 3472, 3474–3476, 3482, 3583, 3587, 3590, 3661, 3662, 3664; Dec. 19, 1989, Pub. L. 101–239, title VII, §§7811(m)(4), 7815(a)(3), (5), 103 Stat. 2412, 2414; Nov. 5, 1990, Pub. L. 101–508, title XI, §11802(a), 104 Stat. 1388–529; July 3, 1992, Pub. L. 102–318, title V, §521(b)(3), 106 Stat. 310; Aug. 20, 1996, Pub. L. 104–188, title I, §§1403(a), 1421(b)(4)(A), 1463(a), 1704(<i>l</i>)(1), (t)(2), (77), 110 Stat. 1790, 1796, 1824, 1882, 1887, 1891; Aug. 21, 1996, Pub. L. 104–191, title III, §361(a)–(c), 110 Stat. 2071, 2072.)
 
 #### References in Text
+
+Section 101(b)(2)(D) of this title, referred to in subsec. (n), was repealed by Pub. L. 104–188, title I, §1402(a), Aug. 20, 1996, 110 Stat. 1789.
 
 The Railroad Retirement Act of 1974, referred to in subsec. (r)(1), (2)(C)(i), (ii), is act Aug. 29, 1935, ch. 812, as amended generally by Pub. L. 93–445, title I, §101, Oct. 16, 1974, 88 Stat. 1305, which is classified generally to subchapter IV (§231 et seq.) of chapter 9 of Title 45, Railroads. Sections 2(b), 3(h), and 4(e) and (h) of the Act are classified to sections 231a(b), 231b(h), and 231c(e) and (h), respectively, of Title 45. For further details and complete classification of this Act to the Code, see Codification note set out preceding section 231 of Title 45, section 231t of Title 45, and Tables.
 
 #### Amendments
+
+1996—Subsec. (b)(4)(A). Pub. L. 104–188, §1704(<i>l</i>)(1), inserted “(determined without regard to subsection (c)(2))” after “contract”.
+
+Subsec. (d). Pub. L. 104–188, §1403(a), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “
+
+Treatment of Employee Contributions Under Defined Contribution Plans as Separate Contracts.—For purposes of this section, employee contributions (and any income allocable thereto) under a defined contribution plan may be treated as a separate contract.”
+
+Subsec. (f). Pub. L. 104–188, §1463(a), in closing provisions, inserted before period at end “, or to the extent such credits are attributable to services performed as a foreign missionary (within the meaning of section 403(b)(2)(D)(iii))”.
+
+Subsec. (m)(2)(A) to (C). Pub. L. 104–188, §1704(t)(2), inserted “and” at end of subpar. (A), redesignated subpar. (C) as (B), and struck out former subpar. (B) which read as follows: “the consideration for the contract contributed by the employee for purposes of subsection (d)(1) (relating to employee's contributions recoverable in 3 years) and subsection (e)(7) (relating to plans where substantially all contributions are employee contributions), and”.
+
+Subsec. (p)(4)(A)(ii). Pub. L. 104–188, §1704(t)(77), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “
+
+Special rules.—The term ‘qualified employer plan’—
+
+&emsp;“(I) shall include any plan which was (or was determined to be) a qualified employer plan or a government plan, but
+
+&emsp;“(II) shall not include a plan described in subsection (e)(7).”
+
+Subsec. (t)(2)(B). Pub. L. 104–191, §361(c), substituted “, (C), or (D)” for “or (C)”.
+
+Subsec. (t)(2)(D). Pub. L. 104–191, §361(b), added subpar. (D).
+
+Subsec. (t)(3)(A). Pub. L. 104–191, §361(a), struck out “(B),” after “Subparagraphs (A)(v),”.
+
+Subsec. (t)(6). Pub. L. 104–188, §1421(b)(4)(A), added par. (6).
 
 1992—Subsec. (<i>o</i>)(4). Pub. L. 102–318 substituted “402(c)” for “402(a)(5), 402(a)(7)”.
 
@@ -936,7 +1070,7 @@ Subsec. (u)(4)(C). Pub. L. 100–647, §1011A(i)(4), added subpar. (C).
 
 Subsecs. (v), (w). Pub. L. 100–647, §5012(b)(1), added subsec. (v) and redesignated former subsec. (v) as (w).
 
-1986—Subsec. (b). Pub. L. 99–514, §1122(c)(2), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Gross income does not include that part of any amount received as an annuity under an annuity, endowment, or life insurance contract which bears the same ratio to such amount as the investment in the contract (as of the annuity starting date) bears to the expected return under the contract (as of such date). This subsection shall not apply to any amount to which subsection (d)(1) (relating to certain employee annuities) applies.”
+1986—Subsec. (b). Pub. L. 99–514, §1122(c)(2), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Gross income does not include that part of any amount received as an annuity under an annuity, endowment, or life insurance contract which bears the same ratio to such amount as the investment in the contract (as of the annuity starting date) bears to the expected return under the contract (as of such date). This subsection shall not apply to any amount towhich subsection (d)(1) (relating to certain employee annuities) applies.”
 
 Subsec. (d). Pub. L. 99–514, §1122(c)(1), struck out subsec. (d) which related to employee's annuities where the employee's contributions were recoverable in 3 years.
 
@@ -990,7 +1124,7 @@ Subsec. (p)(2)(C), (D). Pub. L. 99–514, §1134(b), added subpar. (C) and redes
 
 Subsec. (p)(3). Pub. L. 99–514, §1134(c), added par. (3) and redesignated former par. (3) as (4).
 
-Pub. L. 99–514, §1101(b)(2)(B), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “Forpurposes of this subsection, the term ‘qualified employer plan’ means any plan which was (or was determined to be) a qualified employer plan (as defined in section 219(e)(3) other than a plan described in subsection (e)(7)). For purposes of this subsection, such term includes any government plan (as defined in section 219(e)(4)).”
+Pub. L. 99–514, §1101(b)(2)(B), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “For purposes of this subsection, the term ‘qualified employer plan’ means any plan which was (or was determined to be) a qualified employer plan (as defined in section 219(e)(3) other than a plan described in subsection (e)(7)). For purposes of this subsection, such term includes any government plan (as defined in section 219(e)(4)).”
 
 Subsec. (p)(4), (5). Pub. L. 99–514, §1134(c), redesignated former pars. (3) and (4) as (4) and 5, respectively.
 
@@ -1008,7 +1142,7 @@ Subsec. (q)(2)(E). Pub. L. 99–514, §1852(c)(2), inserted “(determined witho
 
 Subsec. (q)(2)(G). Pub. L. 99–514, §1826(d), added subpar. (G).
 
-Subsec. (q)(2)(I), (J). Pub. L. 99–514, §1123(b)(4), which added subpars. (I) and (J) directed the amendment of subpar. (G) by striking out “or” at the end thereof, and of subpar. (H) by striking out the period at the end thereof, could not be executed to subpars. (G) and (H) because subpar. (G) does not contain “or”, and no subpar. (H) was enacted.
+Subsec. (q)(2)(I), (J). Pub. L. 99–514, §1123(b)(4), which added subpars. (I) and (J) directed the amendment ofsubpar. (G) by striking out “or” at the end thereof, and of subpar. (H) by striking out the period at the end thereof, could not be executed to subpars. (G) and (H) because subpar. (G) does not contain “or”, and no subpar. (H) was enacted.
 
 Subsec. (q)(3). Pub. L. 99–514, §1123(b)(3), added par. (3).
 
@@ -1122,7 +1256,7 @@ Subsec. (n). Pub. L. 93–406, §§2005(c)(3), 2007(b)(2), redesignated former s
 
 Subsec. (<i>o</i>). Pub. L. 93–406, §2005(c)(3), redesignated former subsec. (p) as (<i>o</i>). Former subsec. (<i>o</i>) redesignated (n) and amended.
 
-Subsec. (p). Pub. L. 93–406, §2005(c)(3), redesignated subsec. (p) as (<i>o).</i>
+Subsec. (p). Pub. L. 93–406, §2005(c)(3), redesignated subsec. (p) as (<i>o</i>).
 
 1969—Subsec. (n)(1). Pub. L. 91–172, §515(b)(1), altered section to accommodate the insertion into sections 402 and 403 of provisions under which employer contributions to qualified pension, profit sharing, stock bonus, and annuity plans for plan years beginning after 1969 are to be treated as ordinary income when received in a lump sum distribution, but with such amounts to be eligible for a special averaging procedure.
 
@@ -1144,7 +1278,19 @@ Subsec. (n)(3). Pub. L. 89–44 substituted “sections 31 and 39” for “sect
 
 Subsec. (f). Pub. L. 87–834 inserted sentence providing that par. (2) shall not apply to amounts which were contributed by the employer after Dec. 31, 1962, and which would not have been includible in the gross income of the employee by reason of the application of Section 911 if such amounts had been paid directly to the employee at the time of contribution, and making such sentence inapplicable to amounts which were contributed by the employer, as determined under regulations, to provide pension or annuity credits, to the extent such credits are attributable to services performed before Jan. 1, 1963, and are provided pursuant to pension or annuity plan provisions in existence on Mar. 12, 1962, and on that date applicable to such services.
 
-Subsecs. (m) to (<i>o</i>). Pub. L. 87–792, §4(b), added subsecs. (m) and (n) and redesignated former subsec. (m) as (<i>o).</i>
+Subsecs. (m) to (<i>o</i>). Pub. L. 87–792, §4(b), added subsecs. (m) and (n) and redesignated former subsec. (m) as (<i>o</i>).
+
+#### Effective Date of 1996 Amendments
+
+Section 361(d) of Pub. L. 104–191 provided that: “The amendments made by this section \[amending this section\] shall apply to distributions after December 31, 1996.”
+
+Section 1403(b) of Pub. L. 104–188 provided that: “The amendment made by this section \[amending this section\] shall apply in cases where the annuity starting date is after the 90th day after the date of the enactment of this Act \[Aug. 20, 1996\].”
+
+Section 1421(e) of Pub. L. 104–188 provided that: “The amendments made by this section \[amending this section, sections 219, 280G, 402, 404, 408, 414, 416, 457, 3121, 3306, 3401, 4972, and 6693 of this title, sections 1021 and 1104 of Title 29, Labor, and section 409 of Title 42, The Public Health and Welfare\] shall apply to taxable years beginning after December 31, 1996.”
+
+Section 1463(b) of Pub. L. 104–188 provided that: “The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1996.”
+
+Section 1704(<i>l</i>)(2) of Pub. L. 104–188 provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effect as if included in the amendments made by section 1122(c) of the Tax Reform Act of 1986 \[Pub. L. 99–514\].”
 
 #### Effective Date of 1992 Amendment
 
@@ -1238,7 +1384,7 @@ Section 523(c) of Pub. L. 98–369 provided that: “The amendments made by this
 
 Amendment by section 713(b)(1), (4), (c)(1)(A), (B) of Pub. L. 98–369 effective as if included in the provision of the Tax Equity and Fiscal Responsibility Act of 1982, Pub. L. 97–248, to which such amendment relates, see section 715 of Pub. L. 98–369, set out as a note under section 31 of this title.
 
-Section 713(d)(1) of Pub. L. 98–369, as amended by Pub. L. 99–514, title XVIII, §1875(c)(5), Oct. 22, 1986, 100 Stat. 2895, provided that the amendment made by section713(d)(1) of Pub. L. 98–369 is effective with respect to contributions made in taxable years beginning after Dec. 31, 1983.
+Section 713(d)(1) of Pub. L. 98–369, as amended by Pub. L. 99–514, title XVIII, §1875(c)(5), Oct. 22, 1986, 100 Stat. 2895, provided that the amendment made by section 713(d)(1) of Pub. L. 98–369 is effective with respect to contributions made in taxable years beginning after Dec. 31, 1983.
 
 #### Effective Date of 1983 Amendments
 
@@ -1342,13 +1488,13 @@ Section 2001(i)(5), (6) of Pub. L. 93–406 provided that:
 
 Amendment by section 2002(g)(10) of Pub. L. 93–406 effective on Jan. 1, 1975, see section 2002(i)(2) of Pub. L. 93–406, set out as an Effective Date note under section 4973 of this title.
 
-Amendment by section 2005(c)(3) of Pub. L. 93–406, applicable only with respect to distributions or payments made after Dec. 31, 1973, in taxable years beginningafter Dec. 31, 1973, see section 2005(d) of Pub. L. 93–406, set out as a note under section 402 of this title.
+Amendment by section 2005(c)(3) of Pub. L. 93–406, applicable only with respect to distributions or payments made after Dec. 31, 1973, in taxable years beginning after Dec. 31, 1973, see section 2005(d) of Pub. L. 93–406, set out as a note under section 402 of this title.
 
 Amendment by section 2007(b)(2) of Pub. L. 93–406 applicable to taxable years ending on or after Sept. 21, 1972, see section 2007(c) of Pub. L. 93–406, set out as a note under section 122 of this title.
 
 #### Effective Date of 1969 Amendment
 
-Amendment by Pub. L. 91–172 applicable to taxable years ending after Dec. 31, 1969, see section 515(d) of Pub. L. 91–172, set out as a note under section 402 of this title.
+Amendment by Pub. L. 91–172 applicable to taxable years ending after Dec. 31, 1969, see section 515(d) ofPub. L. 91–172, set out as a note under section 402 of this title.
 
 #### Effective Date of 1966 Amendment
 
@@ -1380,6 +1526,10 @@ Section 1951(b)(1)(B) of Pub. L. 94–455 provided that: “Notwithstanding subp
 
 Section 1011A(c)(13) of Pub. L. 100–647 provided that: “Section 72(t) of the 1986 Code shall apply to any distribution without regard to whether such distribution is made without the consent of the participant pursuant to section 411(a)(11) or section 417(e) of the 1986 Code.”
 
+#### Plan Amendments Not Required Until January 1, 1998
+
+For provisions directing that if any amendments made by subtitle D \[§§1401–1465\] of title I of Pub. L. 104–188 require an amendment to any plan or annuity contract, such amendment shall not be required to be made before the first day of the first plan year beginning on or after Jan. 1, 1998, see section 1465 of Pub. L. 104–188, set out as a note under section 401 of this title.
+
 #### Plan Amendments Not Required Until January 1, 1994
 
 For provisions directing that if any amendments made by subtitle B \[§§521–523\] of title V of Pub. L. 102–318 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1994, see section 523 of Pub. L. 102–318, set out as a note under section 401 of this title.
@@ -1402,9 +1552,13 @@ Employees’ death benefits, see section 101 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 22, 26, 67, 79, 101, 122, 401, 402, 403, 406, 407, 408, 414, 457, 691, 817, 1014, 1275, 4973, 4978, 4980A, 6050G, 7702, 7702A of this title; title 5 section 8433; title 29 sections 1002, 1345; title 45 section 726.
+This section is referred to in sections 22, 26, 67, 79, 101, 122, 220, 401, 402, 403, 406, 407, 408, 414, 457, 529, 691, 817, 817A, 1014, 1275, 4973, 4978, 4980A, 6050G, 7702, 7702A, 7702B of this title; title 5 section 8433; title 12 section 1813; title 29 sections 1002, 1345; title 45 section 726.
 
 <i><sup>1</sup></i><i> So in original. Probably should be paragraph “(2)(B)”.</i>
 
-<i><sup>2</sup></i><i> So in original. The word “or” probably should not appear.</i>
+<i><sup>2</sup></i><i> See References in Text note below.</i>
+
+<i><sup>3</sup></i><i> So in original. The word “or” probably should not appear.</i>
+
+<i><sup>4</sup></i><i> So in original. The comma probably should not appear.</i>
 

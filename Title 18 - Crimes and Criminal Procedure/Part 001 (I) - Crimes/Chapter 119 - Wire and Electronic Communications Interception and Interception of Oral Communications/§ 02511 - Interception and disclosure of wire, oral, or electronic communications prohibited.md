@@ -20,7 +20,7 @@
 
 &emsp;(d) intentionally uses, or endeavors to use, the contents of any wire, oral, or electronic communication, knowing or having reason to know that the information was obtained through the interception of a wire, oral, or electronic communication in violation of this subsection; or
 
-&emsp;(e)(i) intentionally discloses, or endeavors to disclose, to any other person the contents of any wire, oral, or electronic communication, intercepted by means authorized by sections 2511(2)(A)(ii), 2511(b)–(c), 2511(e),<sup>1</sup> 2516, and 2518 of this subchapter,<sup>2</sup> (ii) knowing or having reason to know that the information was obtained through the interception of such a communication in connection with a criminal investigation, (iii) having obtained or received the information in connection with a criminal investigation, and (iv) with intent to improperly obstruct, impede, or interfere with a duly authorized criminal investigation,
+&emsp;(e)(i) intentionally discloses, or endeavors to disclose, to any other person the contents of any wire, oral, or electronic communication, intercepted by means authorized by sections 2511(2)(a)(ii), 2511(2)(b)–(c), 2511(2)(e), 2516, and 2518 of this chapter, (ii) knowing or having reason to know that the information was obtained through the interception of such a communication in connection with a criminal investigation, (iii) having obtained or received the information in connection with a criminal investigation, and (iv) with intent to improperly obstruct, impede, or interfere with a duly authorized criminal investigation,
 
 > shall be punished as provided in subsection (4) or shall be subject to suit as provided in subsection (5).
 
@@ -32,7 +32,7 @@
 
 &emsp;(B) a certification in writing by a person specified in section 2518(7) of this title or the Attorney General of the United States that no warrant or court order is required by law, that all statutory requirements have been met, and that the specified assistance is required,
 
-> setting forth the period of time during which the provision of the information, facilities, or technical assistance is authorized and specifying the information, facilities, or technical assistance required. No provider of wire or electronic communication service, officer, employee, or agent thereof, or landlord, custodian, or other specified person shall disclose the existence of any interception or surveillance or the device used to accomplish the interception or surveillance with respect to which the person has been furnished a court order or certification under this chapter, except as may otherwise be required by legal process and then only after prior notification to the Attorney General or to theprincipal prosecuting attorney of a State or any political subdivision of a State, as may be appropriate. Any such disclosure, shall render such person liable for the civil damages provided for in section 2520. No cause of action shall lie in any court against any provider of wire or electronic communication service, its officers, employees, or agents, landlord, custodian, or other specified person for providing information, facilities, or assistance in accordance with the terms of a court order or certification under this chapter.
+> setting forth the period of time during which the provision of the information, facilities, or technical assistance is authorized and specifying the information, facilities, or technical assistance required. No provider of wire or electronic communication service, officer, employee, or agent thereof, or landlord, custodian, or other specified person shall disclose the existence of any interception or surveillance or the device used to accomplish the interception or surveillance with respect to which the person has been furnished a court order or certification under this chapter, except as may otherwise be required by legal process and then only after prior notification to the Attorney General or to the principal prosecuting attorney of a State or any political subdivision of a State, as may be appropriate. Any such disclosure, shall render such person liable for the civil damages provided for in section 2520. No cause of action shall lie in any court against any provider of wire or electronic communication service, its officers, employees, or agents, landlord, custodian, or other specified person for providing information, facilities, or assistance in accordance with the terms of a court order or certification under this chapter.
 
 (b) It shall not be unlawful under this chapter for an officer, employee, or agent of the Federal Communications Commission, in the normal course of his employment and in discharge of the monitoring responsibilities exercised by the Commission in the enforcement of chapter 5 of title 47 of the United States Code, to intercept a wire or electronic communication, or oral communication transmitted by radio, or to disclose or use the information thereby obtained.
 
@@ -118,7 +118,7 @@
 
 (b) The court may use any means within its authority to enforce an injunction issued under paragraph (ii)(A), and shall impose a civil fine of not less than $500 for each violation of such an injunction.
 
-(Added Pub. L. 90–351, title III, §802, June 19, 1968, 82 Stat. 213; amended Pub. L. 91–358, title II, §211(a), July 29, 1970, 84 Stat. 654; Pub. L. 95–511, title II, §201(a)–(c), Oct. 25, 1978, 92 Stat. 1796, 1797; Pub. L. 98–549, §6(b)(2), Oct. 30, 1984, 98 Stat. 2804; Pub. L. 99–508, title I, §§101(b), (c)(1), (5), (6), (d), (f)\[(1)\], 102, Oct. 21, 1986, 100 Stat. 1849, 1851–1853; Pub. L. 103–322, title XXXII, §320901, title XXXIII, §330016(1)(G), Sept. 13, 1994, 108 Stat. 2123, 2147; Pub. L. 103–414, title II, §§202(b), 204, 205, Oct. 25, 1994, 108 Stat. 4290, 4291.)
+(Added Pub. L. 90–351, title III, §802, June 19, 1968, 82 Stat. 213; amended Pub. L. 91–358, title II, §211(a), July 29, 1970, 84 Stat. 654; Pub. L. 95–511, title II, §201(a)–(c), Oct. 25, 1978, 92 Stat. 1796, 1797; Pub. L. 98–549, §6(b)(2), Oct. 30, 1984, 98 Stat. 2804; Pub. L. 99–508, title I, §§101(b), (c)(1), (5), (6), (d), (f)\[(1)\], 102, Oct. 21, 1986, 100 Stat. 1849, 1851–1853; Pub. L. 103–322, title XXXII, §320901, title XXXIII, §330016(1)(G), Sept. 13, 1994, 108 Stat. 2123, 2147; Pub. L. 103–414, title II, §§202(b), 204, 205, Oct. 25, 1994, 108 Stat. 4290, 4291; Pub. L. 104–294, title VI, §604(b)(42), Oct. 11, 1996, 110 Stat. 3509.)
 
 #### References in Text
 
@@ -127,6 +127,8 @@ The Foreign Intelligence Surveillance Act of 1978, referred to in par. (2)(e), (
 Sections 633, 705, and 706 of the Communications Act of 1934, referred to in par. (2)(e), (f), (g)(iii), are classified to sections 553, 605, and 606 of Title 47, Telegraphs, Telephones, and Radiotelegraphs, respectively.
 
 #### Amendments
+
+1996—Par. (1)(e)(i). Pub. L. 104–294 substituted “sections 2511(2)(a)(ii), 2511(2)(b)–(c), 2511(2)(e), 2516, and 2518 of this chapter” for “sections 2511(2)(A)(ii), 2511(b)–(c), 2511(e), 2516, and 2518 of this subchapter”.
 
 1994—Par. (1)(e). Pub. L. 103–322, §320901, added par. (1)(e).
 
@@ -142,7 +144,7 @@ Pub. L. 103–322, §330016(1)(G), substituted “fined under this title” for 
 
 1986—Pub. L. 99–508, §101(c)(1)(A), substituted “wire, oral, or electronic” for “wire or oral” in section catchline.
 
-Par. (1). Pub. L. 99–508, §101(c)(1)(A), (d)(1), (f)\[(1)\], substituted “intentionally” for “willfully” in subpars.\(a) to (d) and “wire, oral, or electronic’ for “wire or oral” wherever appearing in subpars. (a), (c), and (d), and in concluding provisions substituted “shall be punished as provided in subsection (4) or shall be subject to suit as provided in subsection (5)” for “shall be fined not more than $10,000 or imprisoned not more than five years, or both”.
+Par. (1). Pub. L. 99–508, §101(c)(1)(A), (d)(1), (f)\[(1)\], substituted “intentionally” for “willfully” in subpars. (a) to (d) and “wire, oral, or electronic’ for “wire or oral” wherever appearing in subpars. (a), (c), and (d), and in concluding provisions substituted “shall be punished as provided in subsection (4) or shall be subject to suit as provided in subsection (5)” for “shall be fined not more than $10,000 or imprisoned not more than five years, or both”.
 
 Par. (2)(a)(i). Pub. L. 99–508, §101(c)(5), substituted “a provider of wire or electronic communication service” for “any communication common carrier” and “of the provider of that service, except that a provider of wire communication service to the public” for “of the carrier of such communication: <i>Provided</i>, That said communication common carriers”.
 
@@ -174,6 +176,10 @@ Par. (3). Pub. L. 95–511, §201(c), struck out par. (3) which provided that no
 
 1970—Par. (2)(a). Pub. L. 91–358 designated existing provisions as cl. (i) and added cl. (ii).
 
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–294 effective Sept. 13, 1994, see section 604(d) of Pub. L. 104–294, set out as a note under section 13 of this title.
+
 #### Effective Date of 1986 Amendment
 
 Amendment by Pub. L. 99–508 effective 90 days after Oct. 21, 1986, and, in case of conduct pursuant to court order or extension, applicable only with respect to court orders and extensions made after such date, with special rule for State authorizations of interceptions, see section 111 of Pub. L. 99–508, set out as a note under section 2510 of this title.
@@ -184,7 +190,7 @@ Amendment by Pub. L. 98–549 effective 60 days after Oct. 30, 1984, see section
 
 #### Effective Date of 1978 Amendment
 
-Amendment by Pub. L. 95–511 effective Oct. 25, 1978, except as specifically provided, see section 401 of Pub. L. 95–511, set out as an Effective Date note under section 1801 of Title 50, War and National Defense.
+Amendment by Pub. L. 95–511 effective Oct. 25, 1978, except as specifically provided, see section 401 of Pub.L. 95–511, set out as an Effective Date note under section 1801 of Title 50, War and National Defense.
 
 #### Effective Date of 1970 Amendment
 
@@ -193,8 +199,4 @@ Amendment by Pub. L. 91–358 effective on first day of seventh calendar month w
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 2513, 2516, 2520, 2702, 2707 of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should be sections “2511(2)(a)(ii), 2511(2)(b)–(c), 2511(2)(e)”.</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be “chapter,”.</i>
 

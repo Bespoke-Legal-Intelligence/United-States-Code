@@ -2,7 +2,7 @@
 
 For purposes of this subchapter—
 
-&emsp;(1) continuity of a session of Congress is broken only by an adjournment of the Congress sine die, and the days on which either House is not in session because of an adjournment of more than three days to a day certain are excluded in the computation of the period indicated;
+&emsp;(1) continuity of a session of Congress is broken only by an adjournment of the Congress sine die, and the days on which either House is not in session because of an adjournment ofmore than three days to a day certain are excluded in the computation of the period indicated;
 
 &emsp;(2) the term “major drug producing country” means a country that illicitly produces during a fiscal year 5 metric tons or more of opium or opium derivative, 500 metric tons or more of coca, or 500 metric tons or more of marijuana; and
 

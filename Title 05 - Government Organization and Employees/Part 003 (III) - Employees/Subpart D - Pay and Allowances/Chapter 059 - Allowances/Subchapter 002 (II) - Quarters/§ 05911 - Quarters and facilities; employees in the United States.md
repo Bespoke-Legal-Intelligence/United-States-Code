@@ -40,7 +40,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 (a)
 
@@ -94,11 +96,11 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-<b>1985</b>—Subsec. (h). Pub. L. 99–145 added subsec. (h).
+1985—Subsec. (h). Pub. L. 99–145 added subsec. (h).
 
 #### Effective Date of 1985 Amendment
 
-Amendment by Pub. L. 99–145 effective Oct. 1, 1985, see section 813 of Pub. L. 99–145, set out in a Military Family Policy and Programs note under section 113 of Title 10, Armed Forces.
+Amendment by Pub. L. 99–145 effective Oct. 1, 1985, see section 813 of Pub. L. 99–145, formerly set out in a Military Family Policy and Programs note under section 113 of Title 10, Armed Forces.
 
 #### Delegation of Functions
 
@@ -106,7 +108,7 @@ Authority of President under subsec. (f) of this section to issue regulations pr
 
 #### Deposit in Special Fund of Rents and Charges Collected for Use or Occupancy of Quarters
 
-Pub. L. 98–473, title I, §101(c) \[title III, §320\], Oct. 12, 1984, 98 Stat. 1837, 1874, as amended by Pub. L. 100–446, title III, §316, Sept. 27, 1988, 102 Stat. 1826; Pub. L. 101–121, title III, §317, Oct. 23, 1989, 103 Stat. 745, provided that: “Notwithstanding title 5 of the United States Code or any other provision of law, after September 30, 1984, rents and charges collected by payroll deduction or otherwise for the use or occupancy of quarters of agencies funded by this Act \[probably means Department of the Interior and Related Agencies Appropriation Act, 1985, as set forth in section 101(c) of Pub. L. 98–473\] shall thereafter be deposited in a special fund in each agency, to remain available until expended, for the maintenance and operation of the quarters of that agency: <i>Provided</i>, That nothing contained herein shall prohibit an agreement between an Indian tribe or tribal organization and the Secretary of the Interior or the Secretary of Health and Human Services, pursuant to the Indian Self-Determination Act, as amended (25 U.S.C. 450 et seq.) \[25 U.S.C. 450f etseq.\], under which such tribe or tribal organization may retain rents and charges for the operation, maintenance, and repair of such quarters.”
+Pub. L. 98–473, title I, §101(c) \[title III, §320\], Oct. 12, 1984, 98 Stat. 1837, 1874, as amended by Pub. L. 100–446, title III, §316, Sept. 27, 1988, 102 Stat. 1826; Pub. L. 101–121, title III, §317, Oct. 23, 1989, 103 Stat. 745, provided that: “Notwithstanding title 5 of the United States Code or any other provision of law, after September 30, 1984, rents and charges collected by payroll deduction or otherwise for the use or occupancy of quarters of agencies funded by this Act \[probably means Department of the Interior and Related Agencies Appropriation Act, 1985, as set forth in section 101(c) of Pub. L. 98–473\] shall thereafter be deposited in a special fund in each agency, to remain available until expended, for the maintenance and operation of the quarters of that agency: <i>Provided</i>, That nothing contained herein shall prohibit an agreement between an Indian tribe or tribal organization and the Secretary of the Interior or the Secretary of Health and Human Services, pursuant to the Indian Self-Determination Act, as amended (25 U.S.C. 450 et seq.) \[25 U.S.C. 450f et seq.\], under which such tribe or tribal organization may retain rents and charges for the operation, maintenance, and repair of such quarters.”
 
 #### Cross References
 

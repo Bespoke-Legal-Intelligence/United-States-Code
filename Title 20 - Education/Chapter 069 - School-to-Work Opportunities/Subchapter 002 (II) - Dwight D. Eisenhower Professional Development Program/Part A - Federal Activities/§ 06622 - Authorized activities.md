@@ -6,7 +6,7 @@ The Secretary shall use funds available to carry out this part for—
 
 &emsp;(1) providing seed money to the entities described in section 6621(a) of this title to develop the capacity of such entities to offer sustained and intensive high-quality professional development;
 
-&emsp;(2) awarding a grant or contract, in consultation with the Director of the National Science Foundation, to establish an Eisenhower National Clearinghouse for Mathematics and Science Education (hereafter in this section referred to as the “Clearinghouse”); and
+&emsp;(2) awarding a grant or contract, in consultation with the Director of the National Science Foundation, to establish an Eisenhower National Clearinghouse for Mathematics and Science Education (hereafter inthis section referred to as the “Clearinghouse”); and
 
 &emsp;(3) evaluating programs assisted under this part and parts B and C of this subchapter, in accordance with section 8941 of this title.
 
@@ -74,7 +74,7 @@ The Secretary may use funds available to carry out this part for—
 
 &emsp;(7) the dissemination of information about voluntary national content standards, State content standards, voluntary national student performance standards and State student performance standards, and related models of high-quality professional development;
 
-&emsp;(8) efforts to train teachers in innovative instructional methodologies designed to meet the diverse learning needs of individual students, including methodologies which integrate academic and vocational learning andapplied learning, interactive, interdisciplinary team teaching, and other alternative teaching strategies, such as service learning, experiential learning, career-related education, and environmental education, that integrate real world applications into the core academic subjects;
+&emsp;(8) efforts to train teachers in innovative instructional methodologies designed to meet the diverse learning needs of individual students, including methodologies which integrate academic and vocational learning and applied learning, interactive, interdisciplinary team teaching, and other alternative teaching strategies, such as service learning, experiential learning, career-related education, and environmental education, that integrate real world applications into the core academic subjects;
 
 &emsp;(9) disseminating models of high-quality professional development activities that train educators in strategies, techniques, methods, and practices for meeting the educational needs of historically underserved populations, including females, minorities, individuals with disabilities, limited-English-proficient individuals, and economically disadvantaged individuals, in order to ensure that all students have the opportunity to achieve challenging State student performance standards;
 

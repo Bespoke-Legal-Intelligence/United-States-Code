@@ -46,11 +46,11 @@
 
 (6) The Secretary may allow, on a case-by-case basis, a student to receive 2 Pell grants during a single award year, if—
 
-&emsp;(A) the student is enrolled full-time in an associate or baccalaureate degree program of study that is 2 years or longer at an eligible institution that is computed in credit hours; and
+&emsp;(A) the student is enrolled full-time in an associate or baccalaureate degree program ofstudy that is 2 years or longer at an eligible institution that is computed in credit hours; and
 
 &emsp;(B) the student completes course work toward completion of an associate or baccalaureate degree that exceeds the requirements for a full academic year as defined by the institution.
 
-(7) Notwithstanding any other provision of this subpart, the Secretary shall allow theamount of the basic grant to be exceeded for students participating in a program of study abroad approved for credit by the institution at which the student is enrolled when the reasonable costs of such program are greater than the cost of attendance at the student's home institution, except that the amount of such basic grant in any fiscal year shall not exceed the grant level specified in the appropriate Appropriation Act for this subpart for such year. If the preceding sentence applies, the financial aid administrator at the home institution may use the cost of the study abroad program, rather than the home institution's cost, to determine the cost of attendance of the student.
+(7) Notwithstanding any other provision of this subpart, the Secretary shall allow the amount of the basic grant to be exceeded for students participating in a program of study abroad approved for credit by the institution at which the student is enrolled when the reasonable costs of such program are greater than the cost of attendance at the student's home institution, except that the amount of such basic grant in any fiscal year shall not exceed the grant level specified in the appropriate Appropriation Act for this subpart for such year. If the preceding sentence applies, the financial aid administrator at the home institution may use the cost of the study abroad program, rather than the home institution's cost, to determine the cost of attendance of the student.
 
 (8) No basic grant shall be awarded under this subpart to any individual who is incarcerated in any Federal or State penal institution.
 
@@ -90,11 +90,11 @@ Payments under this section shall be made in accordance with regulations promulg
 
 #### (g) Insufficient appropriations
 
-If, for any fiscal year, the funds appropriated for payments under this subpart are insufficient to satisfy fully all entitlements, as calculated under subsection (b) of this section (but at the maximum grant level specified in such appropriation), the Secretary shall promptly transmit a notice of such insufficiency to each House of the Congress, and identify in such notice the additional amount that would be required to be appropriated to satisfy fully all entitlements (as so calculated at such maximum grant level).
+If, for any fiscal year, the funds appropriated for payments under this subpart are insufficient to satisfy fully all entitlements, as calculated under subsection (b) of this section (but at the maximum grant level specified in such appropriation), the Secretary shall promptly transmit a notice of such insufficiency to each House ofthe Congress, and identify in such notice the additional amount that would be required to be appropriated to satisfy fully all entitlements (as so calculated at such maximum grant level).
 
 #### (h) Use of excess funds
 
-(1) If, at the end of a fiscal year, the funds available for making payments under this subpart exceed the amount necessary to make the payments required under this subpart to eligiblestudents by 15 percent or less, then all of the excess funds shall remain available for making payments under this subpart during the next succeeding fiscal year.
+(1) If, at the end of a fiscal year, the funds available for making payments under this subpart exceed the amount necessary to make the payments required under this subpart to eligible students by 15 percent or less, then all of the excess funds shall remain available for making payments under this subpart during the next succeeding fiscal year.
 
 (2) If, at the end of a fiscal year, the funds available for making payments under this subpart exceed the amount necessary to make the payments required under this subpart to eligible students by more than 15 percent, then all of such funds shall remain available for making such payments but payments may be made under this paragraph only with respect to entitlements for that fiscal year.
 
@@ -204,7 +204,7 @@ Subsec. (i). Pub. L. 102–325, §401(h), substituted “Treatment of institutio
 
 #### Change of Name
 
-Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Economic and Educational Opportunities of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Fifth Congress, Jan. 7, 1997.
 
 #### Effective Date of 1994 Amendment
 
@@ -245,6 +245,12 @@ Section 1306 of Pub. L. 99–498 directed Secretary to conduct a study and repor
 #### Maximum Pell Grants
 
 Provisions limiting the maximum Pell grant that a student may receive were contained in the following appropriation acts:
+
+Pub. L. 104–208, div. A, title I, §101(e) \[title III\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–257.
+
+Pub. L. 104–134, title I, §101(d) \[title III\], Apr. 26, 1996, 110 Stat. 1321–211, 1321–232; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.
+
+Pub. L. 104–99, title I, §119, Jan. 26, 1996, 110 Stat. 30, prior to repeal by Pub. L. 104–134, title I, §101(d) \[title V, §518\], Apr. 26, 1996, 110 Stat. 1321–211, 1321–248; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.
 
 Pub. L. 103–333, title III, Sept. 30, 1994, 108 Stat. 2564.
 

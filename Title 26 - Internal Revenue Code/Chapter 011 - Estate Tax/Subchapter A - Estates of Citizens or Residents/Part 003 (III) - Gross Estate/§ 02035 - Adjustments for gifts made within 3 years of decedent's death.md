@@ -40,7 +40,7 @@ The amount of the gross estate (determined without regard to this subsection) sh
 
 #### (4) Coordination of 3-year rule with section 6166(a)(1)
 
-&emsp;An estate shall be treated as meeting the 35-percent of adjusted gross estate requirement of section 6166(a)(1) only if the estate meets such requirement both with and without the application of paragraph (1).
+&emsp;An estate shall be treated as meeting the 35-percent of adjusted gross estate requirement of section 6166(a)(1) only if the estate meetssuch requirement both with and without the application of paragraph (1).
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 381; Oct. 16, 1962, Pub. L. 87–834, §18(a)(2)(C), 76 Stat. 1052; Oct. 4, 1976, Pub. L. 94–455, title XX, §2001(a)(5), 90 Stat. 1848; Nov. 6, 1978, Pub. L. 95–600, title VII, §702(f)(1), 92 Stat. 2930; Aug. 13, 1981, Pub. L. 97–34, title IV, §§403(b)(3)(B), 424(a), 95 Stat. 301, 317; Jan. 12, 1983, Pub. L. 97–448, title I, §104(a)(9), (d)(1)(A), (C), (2), 96 Stat. 2381, 2383.)
 

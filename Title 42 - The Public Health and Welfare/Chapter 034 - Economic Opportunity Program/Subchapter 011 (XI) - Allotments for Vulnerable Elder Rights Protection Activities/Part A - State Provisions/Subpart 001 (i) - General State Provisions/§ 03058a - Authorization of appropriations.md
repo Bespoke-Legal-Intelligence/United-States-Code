@@ -10,7 +10,7 @@ There are authorized to be appropriated to carry out subpart III of this part, $
 
 #### (c) State elder rights and legal assistance development program
 
-There are authorized to be appropriated to carry out subpart IV of this part, $10,000,000 for fiscal year 1992 and such sums as may be necessary for fiscal years 1993, 1994, and 1995.
+There are authorized to be appropriated to carry out subpart IV of this part, $10,000,000 forfiscal year 1992 and such sums as may be necessary for fiscal years 1993, 1994, and 1995.
 
 #### (d) Outreach, counseling, and assistance program
 

@@ -1,6 +1,6 @@
 ### §752. Instigating or assisting escape
 
-(a) Whoever rescues or attempts to rescue or instigates, aids or assists the escape, or attemptto escape, of any person arrested upon a warrant or other process issued under any law of the United States, or committed to the custody of the Attorney General or to any institution or facility by his direction, shall, if the custody or confinement is by virtue of an arrest on a charge of felony, or conviction of any offense, be fined not more than $5,000 or imprisoned not more than five years, or both; or, if the custody or confinement is for extradition, or for exclusion or expulsion proceedings under the immigration laws, or by virtue of an arrest or charge of or for a misdemeanor, and prior to conviction, be fined under this title or imprisoned not more than one year, or both.
+(a) Whoever rescues or attempts to rescue or instigates, aids or assists the escape, or attempt to escape, of any person arrested upon a warrant or other process issued under any law of the United States, or committed to the custody of the Attorney General or to any institution or facility by his direction, shall, if the custody or confinement is by virtue of an arrest on a charge of felony, or conviction of any offense, be fined not more than $5,000 or imprisoned not more than five years, or both; or, if the custody or confinement is for extradition, or for exclusion or expulsion proceedings under the immigration laws, or by virtue of an arrest or charge of or for a misdemeanor, and prior to conviction, be fined under this title or imprisoned not more than one year, or both.
 
 (b) Whoever rescues or attempts to rescue or instigates, aids, or assists the escape or attempted escape of any person in the custody of the Attorney General or his authorized representative, or of any person arrested upon a warrant or other process issued under any law of the United States or from any institution or facility in which he is confined by direction of the Attorney General, shall, if the custody or confinement is by virtue of a lawful arrest for a violation of any law of the United States not punishable by death or life imprisonment and committed before such person's eighteenth birthday, and as to whom the Attorney General has not specifically directed the institution of criminal proceedings, or by virtue of a commitment as a juvenile delinquent under section 5034 of this title, be fined under this title or imprisoned not more than one year, or both.
 
@@ -54,5 +54,5 @@ Rescue of goods, see section 2233 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 14, 3050 of this title; title 28 section 2902; title 42 section 3425.
+This section is referred to in sections 14, 3050 of this title; title 8 section 1537; title 28 section 2902; title 42 section 3425.
 

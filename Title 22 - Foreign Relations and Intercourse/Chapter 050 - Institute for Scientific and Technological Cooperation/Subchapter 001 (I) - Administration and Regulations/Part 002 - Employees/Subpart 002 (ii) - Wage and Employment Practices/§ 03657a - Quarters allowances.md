@@ -50,7 +50,7 @@ Section 2 of Pub. L. 98–600 provided that: “The amendments made by this Act 
 
 Ex. Ord. No. 12520, June 19, 1985, 50 F.R. 25683, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States ofAmerica, including section 1217a of the Panama Canal Act of 1979 (22 U.S.C. 3657a), it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 1217a of the Panama Canal Act of 1979 (22 U.S.C. 3657a), it is hereby ordered as follows:
 
 Section 1. The Secretary of Defense is authorized to prescribe the regulations referred to in section 1217a of the Panama Canal Act of 1979 \[22 U.S.C. 3657a\], relating to quarters allowances.
 

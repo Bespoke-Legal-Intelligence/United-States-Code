@@ -24,7 +24,7 @@ There are authorized to be appropriated to the Association for purposes of carry
 
 1978—Subsec. (c). Pub. L. 95–611 substituted provision authorizing appropriations of $27,200,000 for fiscal year ending Sept. 30, 1979, to remain available until expended, for provision authorizing appropriations of $23,000,000 for fiscal year ending Sept. 30, 1978, to remain available until Sept. 30, 1979.
 
-1977—Subsec. (c). Pub. L. 95–199 substituted provisions authorizing appropriations for fiscal year ending Sept. 30, 1978, of not to exceed $23,000,000 and authorizing availability of sums to Sept. 30, 1979, for provisions authorizing appropriations for the period beginning May1, 1976, and ending Sept. 30, 1977, of not to exceed $20,000,000 and authorizing availability of sums to Sept. 30, 1978.
+1977—Subsec. (c). Pub. L. 95–199 substituted provisions authorizing appropriations for fiscal year ending Sept. 30, 1978, of not to exceed $23,000,000 and authorizing availability of sums to Sept. 30, 1979, for provisions authorizing appropriations for the period beginning May 1, 1976, and ending Sept. 30, 1977, of not to exceed $20,000,000 and authorizing availability of sums to Sept. 30, 1978.
 
 1976—Subsec. (a). Pub. L. 94–210, §607(n), inserted provision authorizing appropriation of sums to discharge the obligation of the United States under section 743(c)(5) of this title.
 

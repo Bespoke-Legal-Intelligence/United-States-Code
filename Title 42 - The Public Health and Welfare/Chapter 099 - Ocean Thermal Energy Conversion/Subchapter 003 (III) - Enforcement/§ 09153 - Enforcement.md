@@ -14,7 +14,7 @@ To enforce the provisions of this chapter in or on board any ocean thermal energ
 
 &emsp;(3) arrest any person subject to section 9151 of this title if the officer has reasonable cause to believe that the person has committed a criminal act prohibited by sections 9151 and 9152(d) of this title;
 
-&emsp;(4) seize the vessel together with its gear, furniture, appurtenances, stores, and cargo,used or employed in, or with respect to which it reasonably appears that such vessel was used or employed in, the violation of any provision of this chapter if such seizure is necessary to prevent evasion of the enforcement of this chapter;
+&emsp;(4) seize the vessel together with its gear, furniture, appurtenances, stores, and cargo, used or employed in, or with respect to which it reasonably appears that such vessel was used or employed in, the violation of any provision of this chapter if such seizure is necessary to prevent evasion of the enforcement of this chapter;
 
 &emsp;(5) seize any evidence related to any violation of any provision of this chapter;
 

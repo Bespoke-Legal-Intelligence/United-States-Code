@@ -14,7 +14,7 @@ In computing the taxpayer's taxable income for any taxable year (referred to in 
 
 &emsp;If—
 
-&emsp;&emsp;(A) the method of accounting from which the change is made was used by the taxpayerin computing his taxable income for the 2 taxable years preceding the year of the change, and
+&emsp;&emsp;(A) the method of accounting from which the change is made was used by the taxpayer in computing his taxable income for the 2 taxable years preceding the year of the change, and
 
 &emsp;&emsp;(B) the increase in taxable income for the year of the change which results solely by reason of the adjustments required by subsection (a)(2) exceeds $3,000,
 
@@ -94,7 +94,7 @@ In general.—The amendments made by this section \[amending this section and se
 
 “(2)
 
-Exception for certain agreements.—The amendments made by subsections (a), (b)(I), and (c) \[amending this section and section 381 of this title\] shall not apply if before the date of the enactment of this Act \[Sept. 2, 1958\]—
+Exception for certain agreements.—The amendments made by subsections (a), (b)(I), and (c) \[amending this section and section 381 of this title\]shall not apply if before the date of the enactment of this Act \[Sept. 2, 1958\]—
 
 &emsp;“(A) the taxpayer applied for a change in the method of accounting in the manner provided by regulations prescribed by the Secretary of the Treasury or his delegate, and
 
@@ -114,5 +114,5 @@ Section 29(e) of Pub. L. 85–866 authorized an election by certain taxpayers, w
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 404A, 447, 448, 458, 585, 985 of this title; title 42 section 401.
+This section is referred to in sections 404A, 447, 448, 458, 585, 593, 985 of this title; title 42 section 401.
 

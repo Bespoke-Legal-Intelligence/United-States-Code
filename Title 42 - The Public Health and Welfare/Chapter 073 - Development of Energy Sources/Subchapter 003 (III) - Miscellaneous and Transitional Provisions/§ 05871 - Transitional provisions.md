@@ -52,7 +52,7 @@ Any reference in this chapter to any provision of law shall be deemed to include
 
 #### (k) Functions conferred by chapter deemed in addition to and not substitution for functions existing before effective date
 
-Except as may be otherwise expressly provided in this chapter, all functions expressly conferredby this chapter shall be in addition to and not in substitution for functions existing immediately before the effective date of this chapter and transferred by this chapter.
+Except as may be otherwise expressly provided in this chapter, all functions expressly conferred by this chapter shall be in addition to and not in substitution for functions existing immediately before the effective date of this chapter and transferred by this chapter.
 
 (Pub. L. 93–438, title III, §301, Oct. 11, 1974, 88 Stat. 1248.)
 

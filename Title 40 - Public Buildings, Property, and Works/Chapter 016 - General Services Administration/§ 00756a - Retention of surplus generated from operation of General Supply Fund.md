@@ -6,5 +6,5 @@ The Administrator of the General Services Administration is authorized on and af
 
 #### Codification
 
-Section was enacted as part of the Supplemental Appropriations and Rescission Act, 1981, and not as part of the Federal Property and Administrative Services Act of 1949 part of which comprises this chapter.
+Section was enacted as part of the Supplemental Appropriations and Rescission Act, 1981, and not as part of the Federal Property and Administrative Services Act of 1949, part of which comprises this chapter.
 

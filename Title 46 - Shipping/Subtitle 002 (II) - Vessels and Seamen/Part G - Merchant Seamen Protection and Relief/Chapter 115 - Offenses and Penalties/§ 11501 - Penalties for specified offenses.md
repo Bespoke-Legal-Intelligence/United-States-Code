@@ -10,7 +10,7 @@ When a seaman lawfully engaged commits any of the following offenses, the seaman
 
 &emsp;(4) For willful disobedience to a lawful command at sea, the seaman, at the discretion of the master, may be confined until the disobedience ends, and on arrival in port forfeits from the seaman's wages not more than 4 days’ pay or, at the discretion of the court, may be imprisoned for not more than one month.
 
-&emsp;(5) For continued willful disobedience to lawful command or continued willful neglect of duty at sea, the seaman, at the discretion of the master, may be confined, on water and 1,000 calories, with full rations every 5th day, until the disobedience ends, and on arrival in port forfeits, for each 24 hours’ continuance of the disobedience or neglect, not more than 12 days’ pay or, at the discretion of the court, may be imprisoned for not more than 3 months.
+&emsp;(5) For continued willful disobedience to lawful command or continued willful neglect of duty at sea, the seaman, at the discretion of the master, may be confined, on water and 1,000 calories, with full rations every 5th day, until the disobedience ends, and on arrival in port forfeits, for each 24 hours’ continuance ofthe disobedience or neglect, not more than 12 days’ pay or, at the discretion of the court, may be imprisoned for not more than 3 months.
 
 &emsp;(6) For assaulting a master, mate, pilot, engineer, or staff officer, the seaman shall be imprisoned for not more than 2 years.
 

@@ -224,7 +224,7 @@ For purposes of this subtitle—
 
 #### (II) Total eligible costs
 
-&emsp;&emsp;&emsp;&emsp;The allowable level of a noncountervailable subsidy described in clause (i) shall be based on the total eligible costsincurred over the duration of a particular project.
+&emsp;&emsp;&emsp;&emsp;The allowable level of a noncountervailable subsidy described in clause (i) shall be based on the total eligible costs incurred over the duration of a particular project.
 
 #### (C) Subsidy to disadvantaged regions
 
@@ -372,7 +372,7 @@ For purposes of this subtitle—
 
 #### (iv) Captive production
 
-&emsp;&emsp;&emsp;If domestic producers internally transfer significant production of the domestic likeproduct for the production of a downstream article and sell significant production of the domestic like product in the merchant market, and the Commission finds that—
+&emsp;&emsp;&emsp;If domestic producers internally transfer significant production of the domestic like product for the production of a downstream article and sell significant production of the domestic like product in the merchant market, and the Commission finds that—
 
 &emsp;&emsp;&emsp;&emsp;(I) the domestic like product produced that is internally transferred for processing into that downstream article does not enter the merchant market for the domestic like product,
 
@@ -432,7 +432,7 @@ For purposes of this subtitle—
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;In investigations under part II of this subtitle, the Commission shall consider whether dumping in the markets of foreign countries (as evidenced by dumping findings or antidumping remedies in other WTO member markets against the same class or kind of merchandise manufactured or exported by the same party as under investigation) suggests a threat of material injury to the domestic industry. In the course of its investigation, the Commission shall request information from the foreign manufacturer, exporter, or United States importer concerning this issue.
+&emsp;&emsp;&emsp;&emsp;In investigations under part II of this subtitle, the Commission shall consider whether dumping in the markets of foreign countries (as evidenced by dumping findings or antidumping remedies in other WTO member markets against the same class or kind of merchandise manufactured or exported by the same party as under investigation) suggests a threat of material injury to the domestic industry. In the course of its investigation,the Commission shall request information from the foreign manufacturer, exporter, or United States importer concerning this issue.
 
 #### (II) WTO member market
 
@@ -562,7 +562,7 @@ For purposes of this subtitle—
 
 #### (15) Ordinary course of trade
 
-&emsp;The term “ordinary course of trade” means the conditions and practices which, for a reasonable time prior to the exportation of thesubject merchandise, have been normal in the trade under consideration with respect to merchandise of the same class or kind. The administering authority shall consider the following sales and transactions, among others, to be outside the ordinary course of trade:
+&emsp;The term “ordinary course of trade” means the conditions and practices which, for a reasonable time prior to the exportation of the subject merchandise, have been normal in the trade under consideration with respect to merchandise of the same class or kind. The administering authority shall consider the following sales and transactions, among others, to be outside the ordinary course of trade:
 
 &emsp;&emsp;(A) Sales disregarded under section 1677b(b)(1) of this title.
 
@@ -584,7 +584,7 @@ For purposes of this subtitle—
 
 &emsp;&emsp;(C) Merchandise—
 
-&emsp;&emsp;&emsp;(i) produced in the same country and by the same person and of the same general class or kind as the merchandise which is the subject of the investigation,
+&emsp;&emsp;&emsp;(i) produced in the same country and by the same person and of the same general class or kind as the subject merchandise,
 
 &emsp;&emsp;&emsp;(ii) like that merchandise in the purposes for which used, and
 
@@ -650,7 +650,7 @@ For purposes of this subtitle—
 
 #### (A) In general
 
-&emsp;&emsp;Except as otherwise provided by this paragraph, merchandise imported by, or for theuse of, a department or agency of the United States Government (including merchandise provided for under chapter 98 of the Harmonized Tariff Schedule of the United States) is subject to the imposition of countervailing duties or antidumping duties under this subtitle or section 1303 of this title.
+&emsp;&emsp;Except as otherwise provided by this paragraph, merchandise imported by, or for the use of, a department or agency of the United States Government (including merchandise provided for under chapter 98 of the Harmonized Tariff Schedule of the United States) is subject to the imposition of countervailing duties or antidumping duties under this subtitle or section 1303 of this title.
 
 #### (B) Exceptions
 
@@ -726,7 +726,7 @@ For purposes of this subtitle—
 
 #### (28) Exporter or producer
 
-&emsp;The term “exporter or producer” means the exporter of the subject merchandise, the producer of the subject merchandise, or both where appropriate. For purposes of section 1677b of this title, the term “exporter or producer” includes both the exporter of the subject merchandise and the producer of the same subject merchandise to the extent necessary to accurately calculate the total amount incurred and realized for costs, expenses, and profits in connection with production and sale of that merchandise.
+&emsp;The term “exporter or producer” means the exporter of the subject merchandise, the producer of the subject merchandise, or both where appropriate. For purposes of section 1677b of this title, the term “exporter or producer” includes both the exporter of the subject merchandise and the producer of the same subject merchandise to the extent necessaryto accurately calculate the total amount incurred and realized for costs, expenses, and profits in connection with production and sale of that merchandise.
 
 #### (29) WTO Agreement
 
@@ -734,7 +734,7 @@ For purposes of this subtitle—
 
 #### (30) WTO member and WTO member country
 
-&emsp;The terms “WTO member” and “WTO member country” mean a state, or separate customs territory (within the meaning of Article XII of the WTO Agreement), with respect to which the United States applies the WTO agreement.<sup>2</sup>
+&emsp;The terms “WTO member” and “WTO member country” mean a state, or separate customs territory (within the meaning of Article XII of the WTO Agreement), with respect to which the United States applies the WTO Agreement.
 
 #### (31) GATT 1994
 
@@ -802,7 +802,7 @@ For purposes of this subtitle—
 
 &emsp;&emsp;&emsp;(i) a country referred to as a least developed country within the meaning of paragraph (a) of Annex VII to the Subsidies Agreement, or
 
-&emsp;&emsp;&emsp;(ii) any other country listed in Annex VII to the Subsidies Agreement, but only if the country has a per capita gross national product of less than $1,000 perannum as measured by the most recent data available from the World Bank.
+&emsp;&emsp;&emsp;(ii) any other country listed in Annex VII to the Subsidies Agreement, but only if the country has a per capita gross national product of less than $1,000 per annum as measured by the most recent data available from the World Bank.
 
 #### (C) Publication of list
 
@@ -820,7 +820,7 @@ For purposes of this subtitle—
 
 &emsp;&emsp;A determination that a country is a developing or least developed country pursuant to this paragraph shall be for purposes of this subtitle only and shall not affect the determination of a country's status as a developing or least developed country with respect to any other law.
 
-(June 17, 1930, ch. 497, title VII, §771, as added July 26, 1979, Pub. L. 96–39, title I, §101, 93 Stat. 176; amended Oct. 30, 1984, Pub. L. 98–573, title VI, §612(a), 98 Stat. 3033; Oct. 22, 1986, Pub. L. 99–514, title XVIII, §1886(a)(9), 100 Stat. 2922; Aug. 23, 1988, Pub. L. 100–418, title I, §§1312, 1316(b), 1326(a)–(c), 1327–1330, 1335, 102 Stat. 1184, 1187, 1203–1206, 1210; Sept. 28, 1988, Pub. L. 100–449, title IV, §403(d), 102 Stat. 1887; Nov. 10, 1988, Pub. L. 100–647, title IX, §9001(a)(5), 102 Stat. 3807; Aug. 20, 1990, Pub. L. 101–382, title I, §139(a)(3), title II, §224(a), (b), 104 Stat. 653, 659, 660; Dec. 8, 1993, Pub. L. 103–182, title IV, §412(b), title VI, §637(b), 107 Stat. 2146, 2203; Dec. 8, 1994, Pub. L. 103–465, title II, §§221(b), 222, 229(b), 233(a)(3), (4), (5)(BB)–(FF), (b), 251, 266, 267, 270(c)(2), (e), 108 Stat. 4869, 4890, 4898–4902, 4915, 4917, 4918.)
+(June 17, 1930, ch. 497, title VII, §771, as added July 26, 1979, Pub. L. 96–39, title I, §101, 93 Stat. 176; amended Oct. 30, 1984, Pub. L. 98–573, title VI, §612(a), 98 Stat. 3033; Oct. 22, 1986, Pub. L. 99–514, title XVIII, §1886(a)(9), 100 Stat. 2922; Aug. 23, 1988, Pub. L. 100–418, title I, §§1312, 1316(b), 1326(a)–(c), 1327–1330, 1335, 102 Stat. 1184, 1187, 1203–1206, 1210; Sept. 28, 1988, Pub. L. 100–449, title IV, §403(d), 102 Stat. 1887; Nov. 10, 1988, Pub. L. 100–647, title IX, §9001(a)(5), 102 Stat. 3807; Aug. 20, 1990, Pub. L. 101–382, title I, §139(a)(3), title II, §224(a), (b), 104 Stat. 653, 659, 660; Dec. 8, 1993, Pub. L. 103–182, title IV, §412(b), title VI, §637(b), 107 Stat. 2146, 2203; Dec. 8, 1994, Pub. L. 103–465, title II, §§221(b), 222, 229(b), 233(a)(3), (4), (5)(BB)–(FF), (b), 251, 266, 267, 270(c)(2), (e), 108 Stat. 4869, 4890, 4898–4902, 4915, 4917, 4918; Oct. 11, 1996, Pub. L. 104–295, §20(b)(7), (14), 110 Stat. 3527.)
 
 #### References in Text
 
@@ -835,6 +835,10 @@ The Antidumping Act, 1921, referred to in par. (25), is act May 27, 1921, ch. 14
 For the effective date of title II of the Uruguay Round Agreements Act, referred to in par. (26), as Jan. 1, 1995, see Effective Date of 1994 Amendment note set out under section 1671 of this title.
 
 #### Amendments
+
+1996—Par. (16)(C)(i). Pub. L. 104–295, §20(b)(7), which directed substitution of “subject merchandise” for “merchandise which is the subject of the investigation” in subpar. (B)(i), was executed by making the substitution in subpar. (C)(i) to reflect the probable intent of Congress.
+
+Par. (30). Pub. L. 104–295, §20(b)(14), substituted “Agreement” for “agreement” after “applies the WTO”.
 
 1994—Par. (1). Pub. L. 103–465, §233(b)(2), substituted “Secretary of Commerce” for “Secretary of the Treasury”.
 
@@ -870,7 +874,7 @@ Par. (7)(C)(v). Pub. L. 103–465, §222(d)(1), struck out heading and text of c
 
 &emsp;“(II) sales transactions involving the imports are isolated and sporadic, and
 
-&emsp;“(III) the domestic market for the like product is price sensitive by reason of the nature of the product, so that a small quantity of imports can result in price suppression or depression.
+&emsp;“(III) the domestic market for the like product is price sensitive by reason of the nature of the product,so that a small quantity of imports can result in price suppression or depression.
 
 > For purposes of this clause, the Commission may treat as negligible and having no discernable adverse impact on the domestic industry imports that are the product of any country that is a party to a free trade area agreement with the United States which entered into force and effect before January 1, 1987, if the Commission determines that the domestic industry is not being materially injured by reason of such imports.”
 
@@ -940,7 +944,7 @@ Par. (22). Pub. L. 103–182, §412(b)(2), added (22).
 
 Par. (23). Pub. L. 103–182, §637(b), added par. (23).
 
-1990—Par. (7)(C)(iv). Pub. L. 101–382, §224(a), amended cl. (iv) generally. Prior to amendment, cl. (iv) read as follows: “For purposes of clauses (i) and (ii), the Commission shall cumulatively assess the volume and effect of imports from two or more countries of like products subject to investigation if such imports competewith each other and with like products of the domestic industry in the United States market.”
+1990—Par. (7)(C)(iv). Pub. L. 101–382, §224(a), amended cl. (iv) generally. Prior to amendment, cl. (iv) read as follows: “For purposes of clauses (i) and (ii), the Commission shall cumulatively assess the volume and effect of imports from two or more countries of like products subject to investigation if such imports compete with each other and with like products of the domestic industry in the United States market.”
 
 Par. (7)(F)(iv). Pub. L. 101–382, §224(b), substituted “(C)(iv)(II) and (v)” for “(C)(v)”.
 
@@ -1069,6 +1073,4 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 This section is referred to in sections 1337, 1516, 1516a, 1671a, 1671b, 1671c, 1671e, 1673a, 1673b, 1673c, 1673e, 1675, 1675a, 1675b, 1677–1, 1677a, 1677b, 1677d, 1677m, 3435, 3531, 3538, 3571, 3572 of this title; title 28 section 2631.
 
 <i><sup>1</sup></i><i> So in original. The semicolon probably should be a comma.</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be capitalized.</i>
 

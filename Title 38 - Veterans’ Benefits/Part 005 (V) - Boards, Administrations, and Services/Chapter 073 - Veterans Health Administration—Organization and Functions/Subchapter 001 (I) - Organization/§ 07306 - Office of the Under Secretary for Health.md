@@ -38,13 +38,25 @@
 
 &emsp;(3) any person so appointed or reappointed or whose appointment or reappointment is extended shall be subject to removal by the Secretary for cause.
 
-(e)(1) The Secretary may designate a member of the Chaplain Service of the Department as Director, Chaplain Service, for a period of two years, subject to removal by the Secretary forcause. Redesignation under this subsection may be made for successive like periods or for any period not exceeding two years.
+(e)(1) The Secretary may designate a member of the Chaplain Service of the Department as Director, Chaplain Service, for a period of two years, subject to removal by the Secretary for cause. Redesignation under this subsection may be made for successive like periods or for any period not exceeding two years.
 
 (2) A person designated as Director, Chaplain Service, shall at the end of such person's period of service as Director revert to the position, grade, and status which such person held immediately before being designated Director, Chaplain Service, and all service as Director, Chaplain Service, shall be creditable as service in the former position.
 
-(Added Pub. L. 102–40, title IV, §401(a)(3), May 7, 1991, 105 Stat. 212; amended Pub. L. 102–405, title II, §205, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1983, 1984; Pub. L. 102–585, title V, §511(b), Nov. 4, 1992, 106 Stat. 4956; Pub. L. 103–446, title XII, §1201(c)(3), Nov. 2, 1994, 108 Stat. 4683.)
+(f) In organizing the Office and appointing persons to positions in the Office, the Under Secretary shall ensure that—
+
+&emsp;(1) the Office is staffed so as to provide the Under Secretary, through a designated clinician in the appropriate discipline in each instance, with expertise and direct policy guidance on—
+
+&emsp;&emsp;(A) unique programs operated by the Administration to provide for the specialized treatment and rehabilitation of disabled veterans (including blind rehabilitation, care of spinal cord dysfunction, mental illness, and long-term care); and
+
+&emsp;&emsp;(B) the programs established under section 1712A of this title; and
+
+&emsp;(2) with respect to the programs established under section 1712A of this title, a clinician with appropriate expertise in those programs is responsible to the Under Secretary for the management of those programs.
+
+(Added Pub. L. 102–40, title IV, §401(a)(3), May 7, 1991, 105 Stat. 212; amended Pub. L. 102–405, title II, §205, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1983, 1984; Pub. L. 102–585, title V, §511(b), Nov. 4, 1992, 106 Stat. 4956; Pub. L. 103–446, title XII, §1201(c)(3), Nov. 2, 1994, 108 Stat. 4683; Pub. L. 104–262, title III, §344, Oct. 9, 1996, 110 Stat. 3207.)
 
 #### Amendments
+
+1996—Subsec. (f). Pub. L. 104–262 added subsec. (f).
 
 1994—Subsec. (a)(3). Pub. L. 103–446, §1201(c)(3)(A)(i), substituted “Assistant Under Secretaries for Health” for “Assistant Chief Medical Directors”.
 

@@ -36,13 +36,19 @@ The Secretary is authorized and required to make the inquiries, determinations, 
 
 Any income tax under chapter 1 assessed against a child, to the extent attributable to amounts includible in the gross income of the child, and not of the parent, solely by reason of section 73(a), shall, if not paid by the child, for all purposes be considered as having also been properly assessed against the parent.
 
-#### (d) Deficiency proceedings
+#### (d) Required reasonable verification of information returns
+
+In any court proceeding, if a taxpayer asserts a reasonable dispute with respect to any item of income reported on an information return filed with the Secretary under subpart B or C of part III of subchapter A of chapter 61 by a third party and the taxpayer has fully cooperated with the Secretary (including providing, within a reasonable period of time, access to and inspection of all witnesses, information, and documents within the control of the taxpayer as reasonably requested by the Secretary), the Secretary shall have the burden of producing reasonable and probative information concerning such deficiency in addition to such information return.
+
+#### (e) Deficiency proceedings
 
 &emsp;&emsp;<b>For special rules applicable to deficiencies of income, estate, gift, and certain excise taxes, see subchapter B.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 767; June 21, 1965, Pub. L. 89–44, title VIII, §809(d)(4)(A), 79 Stat. 168; Aug. 7, 1969, Pub. L. 91–53, §2(b), 83 Stat. 92; Dec. 30, 1969, Pub. L. 91–172, title I, §101(j)(38), 83 Stat. 530; May 21, 1970, Pub. L. 91–258, title II, §207(d)(1), (2), 84 Stat. 248; Sept. 2, 1974, Pub. L. 93–406, title II, §1016(a)(8), 88 Stat. 929; Mar. 29, 1975, Pub. L. 94–12, title II, §204(b)(2), 89 Stat. 31; Oct. 4, 1976, Pub. L. 94–455, title XII, §1206(c)(2), title XIII, §1307(d)(2)(D), title XIX, §1906(b)(13)(A), 90 Stat. 1704, 1727, 1834; Jan. 6, 1983, Pub. L. 97–424, title V, §515(b)(6)(E), 96 Stat. 2182; Aug. 12, 1983, Pub. L. 98–76, title II, §231(b)(2)(A), 97 Stat. 429; July 18, 1984, Pub. L. 98–369, div. A, title IV, §§412(b)(5), 474(r)(32), 98 Stat. 792, 845; Dec. 22, 1987, Pub. L. 100–203, title X, §10301(b)(3), 101 Stat. 1330–429; Nov. 10, 1988, Pub. L. 100–647, title I, §1015(r)(1), title VII, §7106(c)(2), 102 Stat. 3572, 3773.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 767; June 21, 1965, Pub. L. 89–44, title VIII, §809(d)(4)(A), 79 Stat. 168; Aug. 7, 1969, Pub. L. 91–53, §2(b), 83 Stat. 92; Dec. 30, 1969, Pub. L. 91–172, title I, §101(j)(38), 83 Stat. 530; May 21, 1970, Pub. L. 91–258, title II, §207(d)(1), (2), 84 Stat. 248; Sept. 2, 1974, Pub. L. 93–406, title II, §1016(a)(8), 88 Stat. 929; Mar. 29, 1975, Pub. L. 94–12, title II, §204(b)(2), 89 Stat. 31; Oct. 4, 1976, Pub. L. 94–455, title XII, §1206(c)(2), title XIII, §1307(d)(2)(D), title XIX, §1906(b)(13)(A), 90 Stat. 1704, 1727, 1834; Jan. 6, 1983, Pub. L. 97–424, title V, §515(b)(6)(E), 96 Stat. 2182; Aug. 12, 1983, Pub. L. 98–76, title II, §231(b)(2)(A), 97 Stat. 429; July 18, 1984, Pub. L. 98–369, div. A, title IV, §§412(b)(5), 474(r)(32), 98 Stat. 792, 845; Dec. 22, 1987, Pub. L. 100–203, title X, §10301(b)(3), 101 Stat. 1330–429; Nov. 10, 1988, Pub. L. 100–647, title I, §1015(r)(1), title VII, §7106(c)(2), 102 Stat. 3572, 3773; July 30, 1996, Pub. L. 104–168, title VI, §602(a), 110 Stat. 1463.)
 
 #### Amendments
+
+1996—Subsecs. (d), (e). Pub. L. 104–168 added subsec. (d) and redesignated former subsec. (d) as (e).
 
 1988—Subsec. (a)(4). Pub. L. 100–647, §1015(r)(1), struck out par. (4) which read as follows: “If on any return or claim for refund of income taxes under subtitle A there is an overstatement of the credit allowable by section 34 (relating to certain uses of gasoline and special fuels) or section 32 (relating to earned income), the amount so overstated which is allowed against the tax shown on the return or which is allowed as a credit or refund may be assessed by the Secretary in the same manner as in the case of a mathematical or clerical error appearing upon the return, except that the provisions of section 6213(b)(2) (relating to abatement of mathematical or clerical error assessments) shall not apply with regard to any assessment under this paragraph.”
 
@@ -75,6 +81,10 @@ Subsec. (d). Pub. L. 94–455, §1307(d)(2)(D), substituted “and certain excis
 Subsec. (d). Pub. L. 91–172 inserted reference to chapter 42 taxes.
 
 1965—Subsec. (a)(4). Pub. L. 89–44 added par. (4).
+
+#### Effective Date of 1996 Amendment
+
+Section 602(b) of Pub. L. 104–168 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[July 30, 1996\].”
 
 #### Effective Date of 1988 Amendment
 

@@ -10,7 +10,7 @@ Such program shall be limited to the States and areas referred to in section 1 o
 
 #### (c) Agreements and regulations
 
-The Secretary is authorized to enter into such agreements and promulgate such regulations as may be necessary to carry out the purposes and provisions of sections 390h to 390h–15 of this title.
+The Secretary is authorized to enter into such agreements and promulgate such regulations asmay be necessary to carry out the purposes and provisions of sections 390h to 390h–15 of this title.
 
 #### (d) San Luis Unit of Central Valley Project, California
 
@@ -23,6 +23,10 @@ The Secretary shall not investigate, promote or implement, pursuant to sections 
 The Reclamation Act of 1902 (Act of June 17, 1902, 32 Stat. 388), referred to in subsec. (a), is act June 17, 1902, ch. 1093, 32 Stat. 388, as amended which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 371 of this title and Tables.
 
 Hereafter, referred to in subsec. (a), means hereafter in title XVI of Pub. L. 102–575, Oct. 30, 1992, 106 Stat. 4663, which enacted sections 390h to 390h–15 of this title.
+
+#### Short Title of 1996 Amendment
+
+Pub. L. 104–266, §1, Oct. 9, 1996, 110 Stat. 3290, provided that: “This Act \[enacting sections 390h–12a to 390h–12p of this title and amending sections 390h–1 to 390h–3, 390h–9, and 390h–13 to 390h–15 of this title\] may be cited as the ‘Reclamation Recycling and Water Conservation Act of 1996’.”
 
 #### Short Title
 

@@ -76,7 +76,7 @@ There is hereby established in the Unemployment Trust Fund an employment securit
 
 (1) There is hereby established in the Treasury a revolving fund which shall be available to make the advances authorized by this subsection. There are hereby authorized to be appropriated, without fiscal year limitation, to such revolving fund such amounts as may be necessary for the purposes of this section.
 
-(2) The Secretary of the Treasury is directed to advance from time to time from the revolving fund to the employment security administration account such amounts as may be necessary for the purposes of this section. If the net balance in the employment security administration account as of the beginning of any fiscal year equals 40 percent of the amount of the total appropriation by the Congress out of the employment security administration account for the preceding fiscal year, no advance may be made under this subsection during such fiscal year.
+(2) The Secretary of the Treasury is directed to advance from time to time from the revolving fund to the employment security administration account such amounts as may be necessary for the purposes of this section. If the net balance in the employment security administration account as of the beginning of any fiscal yearequals 40 percent of the amount of the total appropriation by the Congress out of the employment security administration account for the preceding fiscal year, no advance may be made under this subsection during such fiscal year.
 
 (3) Advances to the employment security administration account made under this subsection shall bear interest until repaid at a rate equal to the average rate of interest (computed as of the end of the calendar month next preceding the date of such advance) borne by all interest-bearing obligations of the United States then forming a part of the public debt; except that where such average rate is not a multiple of one-eighth of 1 per centum, the rate of interest shall be the multiple of one-eighth of 1 per centum next lower than such average rate.
 
@@ -106,9 +106,9 @@ There is hereby established in the Unemployment Trust Fund an employment securit
 
 #### References in Text
 
-The Federal Unemployment Tax Act, referred to in subsecs. (b)(1), (3), (c)(1)(B)(ii), (2)(B), (3)(A), and\(d)(1)(A)(i), is act Aug. 16, 1954, ch. 736, §§3301 to 3311, 68A Stat. 439, as amended, which is classified generally to chapter 23 (§3301 et seq.) of Title 26, Internal Revenue Code. For complete classification of this Act to the Code, see section 3311 of Title 26 and Tables.
+The Federal Unemployment Tax Act, referred to in subsecs. (b)(1), (3), (c)(1)(B)(ii), (2)(B), (3)(A), and (d)(1)(A)(i), is act Aug. 16, 1954, ch. 736, §§3301 to 3311, 68A Stat. 439, as amended, which is classified generally to chapter 23 (§3301 et seq.) of Title 26, Internal Revenue Code. For complete classification of this Act to the Code, see section 3311 of Title 26 and Tables.
 
-Act of June 6, 1933, as amended (29 U.S.C. 49–49n), referred to in subsec. (c)(1)(A)(ii), (B)(iii), and (4), probably means act June 6, 1933, ch. 49, 48 Stat. 113, as amended, known as the Wagner-Peyser Act, which is classified generally to chapter 4B (§49 et seq.) of Title 29, Labor. Sections 49m and 49n were not part of act June 6, 1933. For complete classification of this Act to the Code, see Short Title note set out under section 49 of Title 29 and Tables.
+Act of June 6, 1933, as amended (29 U.S.C. 49–49n), referred to in subsec. (c)(1)(A)(ii), (B)(iii), and (4), probably means act June 6, 1933, ch. 49, 48 Stat. 113, as amended, known as the Wagner-Peyser Act, which is classified generally to chapter 4B (§49 et seq.) of Title 29, Labor. Sections 49m and 49n were not part of act June 6, 1933. For complete classification of this Act tothe Code, see Short Title note set out under section 49 of Title 29 and Tables.
 
 #### Prior Provisions
 

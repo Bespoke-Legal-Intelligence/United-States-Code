@@ -1,6 +1,6 @@
 ### §1115. Performance plans
 
-(a) In carrying out the provisions of section 1105(a)(29), the Director of the Office of Management and Budget shall require each agency to prepare an annual performance plan covering each program activity set forth in the budget of such agency. Such plan shall—
+(a) In carrying out the provisions of section 1105(a)(29),<sup>1</sup> the Director of the Office of Management and Budget shall require each agency to prepare an annual performance plan covering each program activity set forth in the budget of such agency. Such plan shall—
 
 &emsp;(1) establish performance goals to define the level of performance to be achieved by a program activity;
 
@@ -14,7 +14,7 @@
 
 &emsp;(6) describe the means to be used to verify and validate measured values.
 
-(b) If an agency, in consultation with the Director of the Office of Management and Budget, determines that it is not feasible to express the performance goals for a particular program activity in an objective, quantifiable, and measurable form, the Director of the Office of Management and Budget may authorize an alternative form. Such alternative form shall—
+(b) If an agency, in consultation with the Director of the Office of Management and Budget,determines that it is not feasible to express the performance goals for a particular program activity in an objective, quantifiable, and measurable form, the Director of the Office of Management and Budget may authorize an alternative form. Such alternative form shall—
 
 &emsp;(1) include separate descriptive statements of—
 
@@ -38,7 +38,7 @@
 
 (e) The functions and activities of this section shall be considered to be inherently Governmental functions. The drafting of performance plans under this section shall be performed only by Federal employees.
 
-(f) For purposes of this section and sections 1116 through 1119, and sections 9703 <sup>1</sup> and 9704 the term—
+(f) For purposes of this section and sections 1116 through 1119, and sections 9703 <sup>2</sup> and 9704 the term—
 
 &emsp;(1) “agency” has the same meaning as such term is defined under section 306(f) of title 5;
 
@@ -57,6 +57,8 @@
 (Added Pub. L. 103–62, §4(b), Aug. 3, 1993, 107 Stat. 287.)
 
 #### References in Text
+
+Section 1105(a)(29), referred to in subsec. (a), was redesignated section 1105(a)(28) of this title by Pub. L. 104–287, §4(1), Oct. 11, 1996, 110 Stat. 3388.
 
 Section 9703, referred to in subsec. (f), probably means the section 9703 added by section 5(a) of Pub. L. 103–62, Aug. 3, 1993, 107 Stat. 289.
 
@@ -100,7 +102,7 @@ Purposes.—The purposes of this Act \[see Short Title of 1993 Amendment note se
 
 #### Congressional Oversight
 
-Section 8(a) of Pub. L. 103–62 provided that: “Nothing in this Act \[see Short Title of 1993 Amendment note set out under section 1101 of this title\] shall be construed as limiting the ability of Congress to establish, amend, suspend, or annul a performance goal. Any such action shall have the effect of superseding that goal in the plan submitted under section 1105(a)(29) of title 31, United States Code.”
+Section 8(a) of Pub. L. 103–62 provided that: “Nothing in this Act \[see Short Title of 1993 Amendment note set out under section 1101 of this title\] shall be construed as limiting the ability of Congress to establish, amend,suspend, or annul a performance goal. Any such action shall have the effect of superseding that goal in the plan submitted under section 1105(a)(29) \[now 1105(a)(28)\] of title 31, United States Code.”
 
 #### General Accounting Office Report
 
@@ -114,7 +116,9 @@ Section 9 of Pub. L. 103–62 provided that: “The Office of Personnel Manageme
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1105, 1116, 1117, 1118, 1119, 9703, 9704 of this title; title 5 section 306.
+This section is referred to in sections 1105, 1116, 1117, 1118, 1119, 9703, 9704 of this title; title 5 section 306; title 40 section 1425.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-If for any taxable year a corporation has a net capital gain and any rate of tax imposed by section 11, 511, or 831(a) or (b) (whichever is applicable) exceeds 35 percent (determined without regard to the last sentence of section 11(b)(1)), then, in lieu of any such tax, there is hereby imposed a tax (if such tax is less than the tax imposed by such sections) which shall consist of the sum of—
+If for any taxable year a corporation has a net capital gain and any rate of tax imposed by section 11, 511, or 831(a) or (b) (whichever is applicable) exceeds 35 percent (determined without regard to the last 2 sentences of section 11(b)(1)), then, in lieu of any such tax, there is hereby imposed a tax (if such tax is less than the tax imposed by such sections) which shall consist of the sum of—
 
 &emsp;(1) a tax computed on the taxable income reduced by the amount of the net capital gain, at the rates and in the manner as if this subsection had not been enacted, plus
 
@@ -18,9 +18,11 @@ If for any taxable year a corporation has a net capital gain and any rate of tax
 
 &emsp;&emsp;&emsp;<b>(3) in the case of real estate investment trusts, see section 857(b)(3)(A).</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 320; Mar. 13, 1956, ch. 83, §5(7), 70 Stat. 49; June 25, 1959, Pub. L. 86–69, §3(f)(2), 73 Stat. 140; Oct. 16, 1962, Pub. L. 87–834, §8(g)(3), 76 Stat. 999; Dec. 30, 1969, Pub. L. 91–172, title V, §511(b), 83 Stat. 635; Oct. 4, 1976, Pub. L. 94–455, title XIX, §1901(a)(135), (b)(33)(L), 90 Stat. 1786, 1801; Nov. 6, 1978, Pub. L. 95–600, title IV, §§401(a), 403(a), (b), 92 Stat. 2866, 2868; Apr. 1, 1980, Pub. L. 96–222, title I, §104(a)(2)(B), (3)(A), 94 Stat. 214, 215; July 18, 1984, Pub. L. 98–369, div. A, title II, §211(b)(16), 98 Stat. 756; Oct. 22, 1986, Pub. L. 99–514, title III, §311(a), title X, §1024(c)(14), 100 Stat. 2219, 2408; Nov. 10, 1988, Pub. L. 100–647, title I, §1003(c)(1), title II, §2004(<i>l</i>), 102 Stat. 3384, 3606; Aug. 10, 1993, Pub. L. 103–66, title XIII, §13221(c)(2), 107 Stat. 477.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 320; Mar. 13, 1956, ch. 83, §5(7), 70 Stat. 49; June 25, 1959, Pub. L. 86–69, §3(f)(2), 73 Stat. 140; Oct. 16, 1962, Pub. L. 87–834, §8(g)(3), 76 Stat. 999; Dec. 30, 1969, Pub. L. 91–172, title V, §511(b), 83 Stat. 635; Oct. 4, 1976, Pub. L. 94–455, title XIX, §1901(a)(135), (b)(33)(L), 90 Stat. 1786, 1801; Nov. 6, 1978, Pub. L. 95–600, title IV, §§401(a), 403(a), (b), 92 Stat. 2866, 2868; Apr. 1, 1980, Pub. L. 96–222, title I, §104(a)(2)(B), (3)(A), 94 Stat. 214, 215; July 18, 1984, Pub. L. 98–369, div. A, title II, §211(b)(16), 98 Stat. 756; Oct. 22, 1986, Pub. L. 99–514, title III, §311(a), title X, §1024(c)(14), 100 Stat. 2219, 2408; Nov. 10, 1988, Pub. L. 100–647, title I, §1003(c)(1), title II, §2004(<i>l</i>), 102 Stat. 3384, 3606; Aug. 10, 1993, Pub. L. 103–66, title XIII, §13221(c)(2), 107 Stat. 477; Aug. 20, 1996, Pub. L. 104–188, title I, §1703(f), 110 Stat. 1876.)
 
 #### Amendments
+
+1996—Subsec. (a). Pub. L. 104–188 substituted “last 2 sentences” for “last sentence”.
 
 1993—Subsec. (a). Pub. L. 103–66 substituted “35 percent” for “34 percent” in introductory provisions and in par. (2).
 
@@ -38,7 +40,7 @@ Pub. L. 99–514, §311(a), amended subsec. (a) generally. Prior to amendment, s
 
 Subsec. (b). Pub. L. 99–514, §311(a), amended subsec. (b) generally, substituting a comma for the semicolon at end of par. (1) and after “852(b)(3)(A) and (D)” in par. (2).
 
-Subsec. (c). Pub. L. 99–514, §311(a), in amending section generally, struck out subsec. (c), transitional rule, which read as follows: “If for any taxable year ending after December 31, 1978, and beginning before January 1, 1980, a corporation has a net capital gain, then subsection (a) shall be applied by substituting for the language of paragraph (2) the following:
+Subsec. (c). Pub. L. 99–514, §311(a), in amending section generally, struck out subsec. (c), transitional rule, which read as follows: “If for any taxable year endingafter December 31, 1978, and beginning before January 1, 1980, a corporation has a net capital gain, then subsection (a) shall be applied by substituting for the language of paragraph (2) the following:
 
 &emsp;“(2)(A) a tax of 28 percent of the lesser of—
 
@@ -56,7 +58,7 @@ Subsec. (c). Pub. L. 99–514, §311(a), in amending section generally, struck o
 
 1980—Subsec. (b). Pub. L. 96–222, §104(a)(2)(B)(i), substituted in subsec. (b), as subsec. (b) was in effect for taxable years beginning before Jan. 1, 1979, and prior to its repeal by Pub. L. 95–600 (see 1978 Amendment note below), “the excess of the net capital gain over the deduction under section 1202” for “50 percent of the net capital gain”.
 
-Subsec. (c). Pub. L. 96–222, §104(a)(3)(A), substituted in heading “Transitional rule” for “Taxable years which include January 1, 1979”, in provisions preceding par. (2) “If for any taxable year ending after December 31, 1978, and beginning before January 1, 1980” for “If for any taxable year beginning before January 1, 1979, and ending after December 31, 1978”, and in par.\(2)(A)(ii) “gain or loss properly taken into account for the portion of the taxable year” for “sales and exchanges”.
+Subsec. (c). Pub. L. 96–222, §104(a)(3)(A), substituted in heading “Transitional rule” for “Taxable years which include January 1, 1979”, in provisions preceding par. (2) “If for any taxable year ending after December 31, 1978, and beginning before January 1, 1980” for “If for any taxable year beginning before January 1, 1979, and ending after December 31, 1978”, and in par. (2)(A)(ii) “gain or loss properly taken into account for the portion of the taxable year” for “sales and exchanges”.
 
 Pub. L. 96–222, §104(a)(2)(B)(ii), substituted in subsec. (c), as subsec. (c) was in effect for taxable years beginning before Jan. 1, 1979, and prior to its repeal by Pub. L. 95–600 (see 1978 Amendment note below), “the excess of the net capital gain over the deduction under section 1202” for “50 percent of the net capital gain”, redesignated cls. (A) and (B) as pars. (1) and (2), respectively, and in par. (2) as so redesignated, substituted “determined by multiplying the sum referred to in subsection (b)(2)(A) by a fraction” for “equal to 50 percent of the sum referred to in subsection (b)(2)(A)” and added subpars. (A) and (B).
 
@@ -114,6 +116,10 @@ Subsec. (c). Pub. L. 86–69 added subsec. (c).
 
 1956—Subsec. (a). Act Mar. 13, 1956, inserted reference to section 802(a).
 
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–188 effective as if included in the provision of the Revenue Reconciliation Act of1993, Pub. L. 103–66, §§13001–13444, to which such amendment relates, see section 1703(<i>o</i>) of Pub. L. 104–188, set out as a note under section 39 of this title.
+
 #### Effective Date of 1993 Amendment
 
 Amendment by Pub. L. 103–66 applicable to taxable years beginning on or after Jan. 1, 1993, see section 13221(d) of Pub. L. 103–66, set out as a note under section 11 of this title.
@@ -128,7 +134,7 @@ Amendment by section 2004(<i>l</i>) of Pub. L. 100–647 effective, except as ot
 
 Section 311(c) of Pub. L. 99–514, as amended by Pub. L. 100–647, title I, §1003(c)(2), Nov. 10, 1988, 102 Stat. 3384, provided that: “The amendments made by subsections (a) and (b) \[amending this section and sections 593, 631, 852, and 1445 of this title\] shall apply to taxable years beginning after December 31, 1986; except that the amendment made by subsection (b)(4) \[amending section 1445 of this title\] shall apply to payments made after December 31, 1986.”
 
-Amendment by section 1024 of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, seesection 1024(e) of Pub. L. 99–514, set out as a note under section 831 of this title.
+Amendment by section 1024 of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 1024(e) of Pub. L. 99–514, set out as a note under section 831 of this title.
 
 #### Effective Date of 1984 Amendment
 

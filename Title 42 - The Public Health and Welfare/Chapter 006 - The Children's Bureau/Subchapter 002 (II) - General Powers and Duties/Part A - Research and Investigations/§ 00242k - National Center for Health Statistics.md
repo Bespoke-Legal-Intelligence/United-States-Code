@@ -66,7 +66,7 @@ To secure uniformity in the registration and collection of mortality, morbidity,
 
 #### (h) Registration area records
 
-(1) There shall be an annual collection of data from the records of births, deaths, marriages, and divorces in registration areas. The data shall be obtained only from and restricted to such records of the States and municipalities which the Secretary, in his discretion, determines possess records affording satisfactory data in necessary detail and form. The Secretary shall encourage States and registration areas to obtain detailed data on ethnic and racial populations, including subpopulations of Hispanics, Asian Americans, and Pacific Islanders with significant representation in the State or registration area. Each State or registration area shall be paid by the Secretary the Federal share of its reasonable costs (as determined by the Secretary) for collecting and transcribing (at the request of the Secretary and by whatever method authorized by him) its records for such data.
+(1) There shall be an annual collection of data from the records of births, deaths, marriages, and divorces in registration areas. The data shall be obtained only from and restricted to such records of the States and municipalities which the Secretary, in his discretion, determines possess records affording satisfactory data in necessary detail and form. The Secretary shall encourage States and registrationareas to obtain detailed data on ethnic and racial populations, including subpopulations of Hispanics, Asian Americans, and Pacific Islanders with significant representation in the State or registration area. Each State or registration area shall be paid by the Secretary the Federal share of its reasonable costs (as determined by the Secretary) for collecting and transcribing (at the request of the Secretary and by whatever method authorized by him) its records for such data.
 
 (2) There shall be an annual collection of data from a statistically valid sample concerning the general health, illness, and disability status of the civilian noninstitutionalized population. Specific topics to be addressed under this paragraph, on an annual or periodic basis, shall include the incidence of illness and accidental injuries, prevalence of chronic diseases and impairments, disability, physician visits, hospitalizations, and the relationship between demographic and socioeconomic characteristics and health characteristics.
 
@@ -76,7 +76,7 @@ The Center may provide to public and nonprofit private entities technical assist
 
 #### (j) Coordination of health statistical and epidemiological activities
 
-In carrying out the requirements of section 242b(c) of this title and paragraph (1) of subsection (e) of this section, the Secretary shallcoordinate health statistical and epidemiological activities of the Department of Health and Human Services by—
+In carrying out the requirements of section 242b(c) of this title and paragraph (1) of subsection (e) of this section, the Secretary shall coordinate health statistical and epidemiological activities of the Department of Health and Human Services by—
 
 &emsp;(1) establishing standardized means for the collection of health information and statistics under laws administered by the Secretary;
 
@@ -90,29 +90,59 @@ In carrying out the requirements of section 242b(c) of this title and paragraph 
 
 #### (k) National Committee on Vital and Health Statistics; establishment; membership; term of office; compensation; functions; consultations of Secretary with Committee and professional advisory groups
 
-(1) There is established in the Office of the Secretary a committee to be known as the National Committee on Vital and Health Statistics (hereinafter in this subsection referred to as the “Committee”) which shall consist of 16 members.
+(1) There is established in the Office of the Secretary a committee to be known as the National Committee on Vital and Health Statistics (hereinafter in this subsection referred to as the “Committee”) which shall consist of 18 members.
 
-(2) The members of the Committee shall be appointed by the Secretary from among persons who have distinguished themselves in the fields of health statistics, health planning, epidemiology, and the provision of health services. Members of the Committee shall be appointed for terms of 4 years.
+(2) The members of the Committee shall be appointed from among persons who have distinguished themselves in the fields of health statistics, electronic interchange of health care information, privacy and security of electronic information, population-based public health, purchasing or financing health care services, integrated computerized health information systems, health services research, consumer interests in health information, health data standards, epidemiology, and the provision of health services. Members of the Committee shall be appointed for terms of 4 years.
 
-(3) Members of the Committee shall be compensated in accordance with section 210(c) of this title.
+(3) Of the members of the Committee—
 
-(4) It shall be the function of the Committee to assist and advise the Secretary—
+&emsp;(A) 1 shall be appointed, not later than 60 days after August 21, 1996, by the Speaker of the House of Representatives after consultation with the Minority Leader of the House of Representatives;
 
-&emsp;(A) to delineate statistical problems bearing on health and health services which are of national or international interest;
+&emsp;(B) 1 shall be appointed, not later than 60 days after August 21, 1996, by the President pro tempore of the Senate after consultation with the Minority Leader of the Senate; and
 
-&emsp;(B) to stimulate studies of such problems by other organizations and agencies whenever possible or to make investigations of such problems through subcommittees;
+&emsp;(C) 16 shall be appointed by the Secretary.
 
-&emsp;(C) to determine, approve, and revise the terms, definitions, classifications, and guidelines for assessing health status and health services, their distribution and costs, for use (i) within the Department of Health and Human Services, (ii) by all programs administered or funded by the Secretary, including the Federal-State-local cooperative health statistics system referred to in subsection (e) of this section, and (iii) to the extent possible as determined by the head of the agency involved, by the Department of Veterans Affairs, the Department of Defense, and other Federal agencies concerned with health and health services;
+(4) Members of the Committee shall be compensated in accordance with section 210(c) of this title.
 
-&emsp;(D) with respect to the design of and approval of health statistical and health information systems concerned with the collection, processing, and tabulation of health statistics within the Department of Health and Human Services, with respect to the Cooperative Health Statistics System established under subsection (e) of this section, and with respect to the standardized means for the collection of health information and statistics to be established by the Secretary under subsection (j)(1) of this section;
+(5) The Committee—
 
-&emsp;(E) to review and comment on findings and proposals developed by other organizations and agencies and to make recommendations for their adoption or implementation by local, State, national, or international agencies;
+&emsp;(A) shall assist and advise the Secretary—
 
-&emsp;(F) to cooperate with national committees of other countries and with the World Health Organization and other national agencies in the studies of problems of mutual interest; and
+&emsp;&emsp;(i) to delineate statistical problems bearing on health and health services which are of national or international interest;
 
-&emsp;(G) to issue an annual report on the state of the Nation's health, its health services, their costs and distributions, and to make proposals for improvement of the Nation's health statistics and health information systems.
+&emsp;&emsp;(ii) to stimulate studies of such problems by other organizations and agencies whenever possible or to make investigations of such problems through subcommittees;
 
-(5) In carrying out health statistical activities under this part, the Secretary shall consult with, and seek the advice of, the Committee and other appropriate professional advisory groups.
+&emsp;&emsp;(iii) to determine, approve, and revise the terms, definitions, classifications, and guidelines for assessing health status and health services, their distribution and costs, for use (I) within the Department of Health and Human Services, (II) by all programs administered or funded by the Secretary, including the Federal-State-local cooperative health statistics system referred to in subsection (e) of this section, and (III) to the extent possible as determined by the head of the agency involved, by the Department of Veterans Affairs, the Department of Defense, and other Federal agencies concerned with health and health services;
+
+&emsp;&emsp;(iv) with respect to the design of and approval of health statistical and health information systems concerned with the collection, processing, and tabulation of health statistics within the Department of Health and Human Services, with respect to the Cooperative Health Statistics System established under subsection (e) of this section, and with respect to the standardized means for the collection of health information and statistics to be established by the Secretary under subsection (j)(1) of this section;
+
+&emsp;&emsp;(v) to review and comment on findings and proposals developed by other organizations and agencies and to make recommendations for their adoption or implementation by local, State, national, or international agencies;
+
+&emsp;&emsp;(vi) to cooperate with national committees of other countries and with the World Health Organization and other national agencies in the studies of problems of mutual interest;
+
+&emsp;&emsp;(vii) to issue an annual report on the state of the Nation's health, its health services, their costs and distributions, and to make proposals for improvement of the Nation's health statistics and health information systems; and
+
+&emsp;&emsp;(viii) in complying with the requirements imposed on the Secretary under part C of title XI of the Social Security Act \[42 U.S.C. 1320d et seq.\];
+
+&emsp;(B) shall study the issues related to the adoption of uniform data standards for patient medical record information and the electronic exchange of such information;
+
+&emsp;(C) shall report to the Secretary not later than 4 years after August 21, 1996, recommendations and legislative proposals for such standards and electronic exchange; and
+
+&emsp;(D) shall be responsible generally for advising the Secretary and the Congress on the status of the implementation of part C of title XI of the Social Security Act \[42 U.S.C. 1320d et seq.\].
+
+(6) In carrying out health statistical activities under this part, the Secretary shall consult with, and seek the advice of, the Committee and other appropriate professional advisory groups.
+
+(7) Not later than 1 year after August 21, 1996, and annually thereafter, the Committee shall submit to the Congress, and make public, a report regarding the implementation of part C of title XI of the Social Security Act \[42 U.S.C. 1320d et seq.\]. Such report shall address the following subjects, to the extent that the Committee determines appropriate:
+
+&emsp;(A) The extent to which persons required to comply with part C of title XI of the Social Security Act are cooperating in implementing the standards adopted under such part.
+
+&emsp;(B) The extent to which such entities are meeting the security standards adopted under such part and the types of penalties assessed for noncompliance with such standards.
+
+&emsp;(C) Whether the Federal and State Governments are receiving information of sufficient quality to meet their responsibilities under such part.
+
+&emsp;(D) Any problems that exist with respect to implementation of such part.
+
+&emsp;(E) The extent to which timetables under such part are being met.
 
 #### (<i>l</i>) Data specific to particular ethnic and racial populations
 
@@ -138,11 +168,13 @@ In carrying out this section, the Secretary, acting through the Center, shall co
 
 (2) For activities authorized in subsection (m) of this section, there are authorized to be appropriated $5,000,000 for fiscal year 1991, $7,500,000 for fiscal year 1992, $10,000,000 for fiscal year 1993, and $10,000,000 for each of the fiscal years 1994 through 1998. Of such amounts, the Secretary shall use not more than 10 percent for administration and for activities described in subsection (m)(2) of this section.
 
-(July 1, 1944, ch. 373, title III, §306, as added July 23, 1974, Pub. L. 93–353, title I, §105, 88 Stat. 365; amended Nov. 9, 1978, Pub. L. 95–623, §§5, 8(a), 92 Stat. 3445, 3453; Aug. 13, 1981, Pub. L. 97–35, title IX, §920, 95 Stat. 566; Jan. 4, 1983, Pub. L. 97–414, §8(b), 96 Stat. 2060; Dec. 1, 1987, Pub. L. 100–177, title I, §§104, 105(a), 101 Stat. 988; Dec. 19, 1989, Pub. L. 101–239, title VI, §6103(e)(2), 103 Stat. 2206; Nov. 6, 1990, Pub. L. 101–527, §7(a), (b)(1), (c), 104 Stat. 2327, 2328; June 13, 1991, Pub. L. 102–54, §13(q)(1)(A)(i), 105 Stat. 278; Dec. 14, 1993, Pub. L. 103–183, title V, §501(a), (d), 107 Stat. 2237, 2238.)
+(July 1, 1944, ch. 373, title III, §306, as added July 23, 1974, Pub. L. 93–353, title I, §105, 88 Stat. 365; amended Nov. 9, 1978, Pub. L. 95–623, §§5, 8(a), 92 Stat. 3445, 3453; Aug. 13, 1981, Pub. L. 97–35, title IX, §920, 95 Stat. 566; Jan. 4, 1983, Pub. L. 97–414, §8(b), 96 Stat. 2060; Dec. 1, 1987, Pub. L. 100–177, title I, §§104, 105(a), 101 Stat. 988; Dec. 19, 1989, Pub. L. 101–239, title VI, §6103(e)(2), 103 Stat. 2206; Nov. 6, 1990, Pub. L. 101–527, §7(a), (b)(1), (c), 104 Stat. 2327, 2328; June 13, 1991, Pub. L. 102–54, §13(q)(1)(A)(i), 105 Stat. 278; Dec. 14, 1993, Pub. L. 103–183, title V, §501(a), (d), 107 Stat. 2237, 2238; Aug. 21, 1996, Pub. L. 104–191, title II, §263, 110 Stat. 2031.)
 
 #### References in Text
 
 Section 3509 of title 44, referred to in subsec. (j)(4), (5), which required submission of certain plans and forms for collection of information to the Director of the Office of Management and Budget for approval, was omitted in the general amendment of chapter 35 of Title 44, Public Printing and Documents, by Pub. L. 96–511, §2(a), Dec. 11, 1980, 94 Stat. 2812. Pub. L. 104–13 subsequently enacted a new section 3509 of Title 44 relating to designation of a central collection agency. Provisions appearing in former section 3509 are contained in section 3507 of Title 44.
+
+The Social Security Act, referred to in subsec. (k)(5)(A)(viii), (D), (7), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part C of title XI of the Act is classified generally to part C (§1320d et seq.) of subchapter XI of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
 #### Prior Provisions
 
@@ -151,6 +183,20 @@ Provisions similar to those comprising subsec. (g) of this section were containe
 Provisions similar to those comprising subsec. (h) of this section were contained in section 312a of act July 1, 1944, ch. 373, title III, as added Aug. 31, 1954, ch. 1158, §2, 68 Stat. 1025 (formerly classified to section 244a of this title), prior to repeal by Pub. L. 93–353, §102(a).
 
 #### Amendments
+
+1996—Subsec. (k)(1). Pub. L. 104–191, §263(1), substituted “18” for “16”.
+
+Subsec. (k)(2). Pub. L. 104–191, §263(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The members of the Committee shall be appointed by the Secretary from among persons who have distinguished themselves in the fields of health statistics, health planning, epidemiology, and the provision of health services. Members of the Committee shall be appointed for terms of 4 years.”
+
+Subsec. (k)(3), (4). Pub. L. 104–191, §263(3), added par. (3) and redesignated former par. (3) as (4). Former par. (4) redesignated (5).
+
+Subsec. (k)(5). Pub. L. 104–191, §263(4), amended par. (5) generally. Prior to amendment, par. (5) consisted of subpars. (A) to (G) relating to Committee functions in assisting and advising the Secretary.
+
+Pub. L. 104–191, §263(3), redesignated par. (4) as (5). Former par. (5) redesignated (6).
+
+Subsec. (k)(6). Pub. L. 104–191, §263(3), redesignated par. (5) as (6).
+
+Subsec. (k)(7). Pub. L. 104–191, §263(5), added par. (7).
 
 1993—Subsec. (c). Pub. L. 103–183, §501(a)(1), substituted “Committee on Labor and Human Resources” for “Committee on Human Resources”.
 
@@ -162,7 +208,7 @@ Subsec. (k)(2). Pub. L. 103–183, §501(a)(4), struck out subpar. (A) designati
 
 Subsec. (<i>l</i>). Pub. L. 103–183, §501(a)(5)(A)–(C), redesignated subsec. (m) as (<i>l</i>), substituted “subsection (m)” for “subsection (n)”, and struck out former subsec. (<i>l</i>) which related to development of plan for collection and coordination of statistical and epidemiological data on effects of environment on health and establishment of guidelines for compilation, analysis, and distribution of statistics and information necessary for coordinated determination of effects of conditions of employment and indoor and outdoor environmental conditions on public health.
 
-Subsec. (m). Pub. L. 103–183, §501(a)(5)(B), redesignated subsec. (n) as (m). Former subsec. (m) redesignated (<i>l).</i>
+Subsec. (m). Pub. L. 103–183, §501(a)(5)(B), redesignated subsec. (n) as (m). Former subsec. (m) redesignated (<i>l</i>).
 
 Subsecs. (n), (<i>o</i>). Pub. L. 103–183, §501(a)(5)(B), (D), (d), redesignated subsec. (<i>o</i>) as (n), in par. (1) substituted “(<i>l</i>)” for “(m)” and “1998” for “1993”, and in par. (2) substituted “(m)” for “(n)”, struck out “and” after “1992,”, inserted “, and $10,000,000 for each of the fiscal years 1994 through 1998”, and substituted “(m)(2)” for “(n)(2)”. Former subsec. (n) redesignated (m).
 
@@ -220,7 +266,7 @@ Subsecs. (i), (j). Pub. L. 95–623, §5(f), added subsecs. (i) and (j). Former 
 
 Subsec. (k). Pub. L. 95–623, §5(c)(2), (e), (f), struck from par. (1) “United States” before “National Committee on Vital and Health Statistics”; authorized in par. (2)(A) the appointment of Committee members from distinguished persons in field of health planning; required the Committee to assist and advise the Secretary with respect to the Cooperative Health Statistics System and the standardized means for the collection of health information and statistics to be established by the Secretary; and redesignated such amended subsec. (i) as (k).
 
-Subsec. (<i>l</i>). Pub. L. 95–623, §8(a), added subsec. (<i>l).</i>
+Subsec. (<i>l</i>). Pub. L. 95–623, §8(a), added subsec. (<i>l</i>).
 
 #### Change of Name
 
@@ -240,7 +286,7 @@ Pub. L. 103–333, title II, Sept. 30, 1994, 108 Stat. 2550, provided in part: �
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 242b, 242<i>l</i>, 242m, 242p, 295<i>l</i>, 1320a of this title.
+This section is referred to in sections 242b, 242<i>l</i>, 242m, 242p, 295<i>l</i>, 1320a, 1320d–1 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

@@ -18,7 +18,7 @@ Enforcement mechanisms referred to in subsection (b) of this section may include
 
 #### (d) Procedures and regulations
 
-The Secretary shall issue any regulations necessary to carry out this section and shall establish standards and procedures governing the imposition of enforcement mechanisms under subsection (b) of this section. The standards and procedures shall include a procedure for potentially aggrieved parties to file formal protests with the Secretary alleging instances where such unenhanced data has been, or is being, usedfor commercial purposes in violation of the terms of receipt of such data. The Secretary shall promptly act to investigate any such protest, and shall report annually to the Congress on instances of such violations.
+The Secretary shall issue any regulations necessary to carry out this section and shall establish standards and procedures governing the imposition of enforcement mechanisms under subsection (b) of this section. The standards and procedures shall include a procedure for potentially aggrieved parties to file formal protests with the Secretary alleging instances where such unenhanced data has been, or is being, used for commercial purposes in violation of the terms of receipt of such data. The Secretary shall promptly act to investigate any such protest, and shall report annually to the Congress on instances of such violations.
 
 (Pub. L. 102–555, title V, §508, Oct. 28, 1992, 106 Stat. 4179.)
 

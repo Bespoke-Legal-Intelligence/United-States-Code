@@ -52,7 +52,9 @@ Application of Other Laws.—All laws related to commuter rail passenger transpo
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

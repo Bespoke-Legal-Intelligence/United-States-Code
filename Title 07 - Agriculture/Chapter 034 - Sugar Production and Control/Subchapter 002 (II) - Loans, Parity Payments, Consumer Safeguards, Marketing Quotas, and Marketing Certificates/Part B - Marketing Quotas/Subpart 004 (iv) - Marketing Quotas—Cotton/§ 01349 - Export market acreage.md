@@ -18,6 +18,10 @@ Section 1853 of this title, referred to in subsec. (b), was repealed by Pub. L. 
 
 A prior section 1349, act Feb. 16, 1938, ch. 30, title III, §349, 52 Stat. 59, was omitted by act Aug. 29, 1949, ch. 518, §1, 63 Stat. 670 which amended sections 342 to 350 of act Feb. 16, 1938, ch. 30, title III, 52 Stat. 56 to 60 (sections 1342 to 1344, 1345 to 1347, and prior sections 1348 to 1350 of this title) to be sections 342 to 348 of act Feb. 16, 1938 (sections 1342 to 1344, 1345 to 1347, and a prior section 1348 of this title).
 
+#### Inapplicability of Section
+
+Section inapplicable to 1996 through 2002 crops of loan commodities, peanuts, and sugar and inapplicable to milk during period beginning Apr. 4, 1996, and ending Dec. 31, 2002, see section 7301(a)(1)(A) of this title.
+
 #### Section Referred to in Other Sections
 
 This section is referred to in section 1376 of this title.

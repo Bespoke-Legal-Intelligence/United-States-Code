@@ -1,0 +1,24 @@
+### §179u. Definitions
+
+As used in sections 179<i>l</i> to 179w of this title—
+
+&emsp;(1) the term “Librarian” means the Librarian of Congress;
+
+&emsp;(2) the term “Board” means the National Film Preservation Board;
+
+&emsp;(3) the term “film” means a “motion picture” as defined in section 101 of title 17, except that such term does not include any work not originally fixed on film stock, such as a work fixed on videotape or laser disk;
+
+&emsp;(4) the term “publication” means “publication” as defined in section 101 of title 17; and
+
+&emsp;(5) the term “Registry version” means, with respect to a film, the version of a film first published, or as complete a version as bona fide preservation and restoration activities by the Librarian, an archivist other than the Librarian, or the copyright owner can compile in those cases where the original material has been irretrievably lost.
+
+(Pub. L. 104–285, title I, §111, Oct. 11, 1996, 110 Stat. 3382.)
+
+#### Termination of Section
+
+<i>For termination of section, see section 179w of this title.</i>
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 179<i>l</i>, 179s, 179t, 179v, 179w of this title.
+

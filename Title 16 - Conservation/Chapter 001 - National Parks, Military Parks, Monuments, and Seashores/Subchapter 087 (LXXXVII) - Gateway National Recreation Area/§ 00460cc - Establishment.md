@@ -30,7 +30,7 @@ The map referred to in this section shall be on file and available for public in
 
 #### Change of Name
 
-Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) ofPub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### DeKorte State Park; Protection and Use of; Study for Establishment as a Unit of the National Park System and Administration as Unit of Gateway National Recreation Area; Report to Congressional Committees; Authorization of Appropriations
 

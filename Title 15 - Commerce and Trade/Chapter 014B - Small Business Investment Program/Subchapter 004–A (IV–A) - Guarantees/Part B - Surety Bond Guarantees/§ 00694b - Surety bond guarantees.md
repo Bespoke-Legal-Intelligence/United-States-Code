@@ -4,7 +4,7 @@
 
 (1) The Administration may, upon such terms and conditions as it may prescribe, guarantee and enter into commitments to guarantee any surety against loss resulting from a breach of the terms of a bid bond, payment bond, performance bond, or bonds ancillary thereto, by a principal on any contract up to $1,250,000.
 
-(2) The terms and conditions of said guarantees and commitments may vary from surety to surety on the basis of the Administration's experience with the particular surety.
+(2) The terms and conditions of said guarantees and commitments may vary from surety tosurety on the basis of the Administration's experience with the particular surety.
 
 (3) The Administration may authorize any surety, without further administration approval, to issue, monitor, and service such bonds subject to the Administration's guarantee.
 
@@ -17,6 +17,10 @@
 &emsp;(C) such person is not able to obtain such bond on reasonable terms and conditions without a guarantee under this section; and
 
 &emsp;(D) there is a reasonable expectation that such principal will perform the covenants and conditions of the contract with respect to which such bond is required, and the terms and conditions of such bond are reasonable in the light of the risks involved and the extent of the surety's participation.
+
+(5)(A) The Administration shall promptly act upon an application from a surety to participate in the Preferred Surety Bond Guarantee Program, authorized by paragraph (3), in accordance with criteria and procedures established in regulations pursuant to subsection (d) of this section.
+
+(B) The Administration is authorized to reduce the allotment of bond guarantee authority or terminate the participation of a surety in the Preferred Surety Bond Guarantee Program based on the rate of participation of such surety during the 4 most recent fiscal year quarters compared to the median rate of participation by the other sureties in the program.
 
 #### (b) Indemnification of surety against loss from avoiding breach
 
@@ -82,13 +86,15 @@ The Administration shall administer this part on a prudent and economically just
 
 The provisions of section 693 of this title shall apply in the administration of this section.
 
-(Pub. L. 85–699, title IV, §411, as added Pub. L. 91–609, title IX, §911(a)(4), Dec. 31, 1970, 84 Stat. 1813; amended Pub. L. 93–386, §§6(a)(3), 11, Aug. 23, 1974, 88 Stat. 747, 749; Pub. L. 95–507, title I, §111, Oct. 24, 1978, 92 Stat. 1758; Pub. L. 96–302, title I, §115, July 2, 1980, 94 Stat. 839; Pub. L. 99–272, title XVIII, §18014, Apr. 7, 1986, 100 Stat. 370; Pub. L. 100–590, title II, §§202–204, Nov. 3, 1988, 102 Stat. 3007–3009.)
+(Pub. L. 85–699, title IV, §411, as added Pub. L. 91–609, title IX, §911(a)(4), Dec. 31, 1970, 84 Stat. 1813; amended Pub. L. 93–386, §§6(a)(3), 11, Aug. 23, 1974, 88 Stat. 747, 749; Pub. L. 95–507, title I, §111, Oct. 24, 1978, 92 Stat. 1758; Pub. L. 96–302, title I, §115, July 2, 1980, 94 Stat. 839; Pub. L. 99–272, title XVIII, §18014, Apr. 7, 1986, 100 Stat. 370; Pub. L. 100–590, title II, §§202–204, Nov. 3, 1988, 102 Stat. 3007–3009; Pub. L. 104–208, div. D, title II, §206(a), Sept. 30, 1996, 110 Stat. 3009–738.)
 
 #### Termination of Subsection (a)(3)
 
 <i>For termination of subsection (a)(3) of this section, see Effective and Termination Dates of 1988 Amendment note below.</i>
 
 #### Amendments
+
+1996—Subsec. (a)(5). Pub. L. 104–208 added par. (5).
 
 1988—Subsec. (a). Pub. L. 100–590, §§202, 207, amended subsec. (a) generally, substituting pars. (1) to (4) for former pars. (1) to (6), and provided for the termination of par. (3). See Effective and Termination Dates of 1988 Amendment note below.
 
@@ -116,7 +122,11 @@ Subsecs. (e) to (i). Pub. L. 95–507 added subsecs. (e) to (i).
 
 1974—Subsec. (a). Pub. L. 93–386, §6(a)(3), substituted “$1,000,000” for “$500,000”.
 
-Subsec. (c). Pub. L. 93–386, §11, inserted provisions relating to the administration of the program on a prudent and economically justifiable basis and provisions requiring the Administration to publish the cost of the program to the Administration, to conduct a study of the program in order to determine what must be doneto make the program economically sound, and to transmit a report to Congress of the findings, conclusions, and recommendations of the study.
+Subsec. (c). Pub. L. 93–386, §11, inserted provisions relating to the administration of the program on a prudent and economically justifiable basis and provisions requiring the Administration to publish the cost of the program to the Administration, to conduct a study of the program in order to determine what must be done to make the program economically sound, and to transmit a report to Congress of the findings, conclusions, and recommendations of the study.
+
+#### Effective Date of 1996 Amendment
+
+Section 206(b) of div. D of Pub. L. 104–208 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to applications received (or pending substantive evaluation) on or after October 1, 1995.”
 
 #### Effective and Termination Dates of 1988 Amendment
 

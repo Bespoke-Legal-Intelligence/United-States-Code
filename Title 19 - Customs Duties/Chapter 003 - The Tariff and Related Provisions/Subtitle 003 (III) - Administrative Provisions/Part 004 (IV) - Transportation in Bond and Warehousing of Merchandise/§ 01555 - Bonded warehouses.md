@@ -54,7 +54,9 @@ Subject to subsection (b) of this section, buildings or parts of buildings and o
 
 (5) This subsection does not prohibit a duty-free sales enterprise from offering for sale and delivering to, or on behalf of, individuals departing from the customs territory merchandise other than duty-free merchandise, except that such other merchandise may not be stored in a bonded warehouse facility other than a bonded facility used for retail sales.
 
-(6) Merchandise that is purchased in a duty-free sales enterprise is not eligible for exemption from duty under subchapter IV of chapter 98 of the Harmonized Tariff Schedule of the United States if such merchandise is brought back to the customs territory.
+(6)(A) Except as provided in subparagraph (B), merchandise that is purchased in a duty-free sales enterprise is not eligible for exemption from duty under subchapter IV of chapter 98 of the Harmonized Tariff Schedule of the United States if such merchandise is brought back to the customs territory.
+
+(B) Except in the case of travel involving transit to, from, or through an insular possession of the United States, merchandise described in subparagraph (A) that is purchased by a United States resident shall be eligible for exemption from duty under subheadings 9804.00.65, 9804.00.70, and 9804.00.72 of the Harmonized Tariff Schedule of the United States upon the United States resident's return to the customs territory of the United States, if the resident meets the eligibility requirements for the exemption claimed. Notwithstanding any other provision of law, such merchandise shall be considered to be an article acquired abroad as an incident of the journey from which the resident is returning, for purposes of determining eligibility for any such exemption.
 
 (7) The Secretary shall by regulation establish a separate class of bonded warehouses for duty-free sales enterprises. Regulations issued to carry out this paragraph shall take into account the unique characteristics of the different types of duty-free sales enterprises.
 
@@ -74,7 +76,7 @@ Subject to subsection (b) of this section, buildings or parts of buildings and o
 
 &emsp;(G) The term “personal use quantities” means quantities that are only suitable for uses other than resale, and includes reasonable quantities for household or family consumption as well as for gifts to others.
 
-(June 17, 1930, ch. 497, title IV, §555, 46 Stat. 743; June 2, 1970, Pub. L. 91–271, title III, §301(b), 84 Stat. 287; Oct. 30, 1984, Pub. L. 98–573, title II, §211, 98 Stat. 2977; Aug. 23, 1988, Pub. L. 100–418, title I, §1908(b), 102 Stat. 1315; Aug. 20, 1990, Pub. L. 101–382, title I, §139(a)(1), 104 Stat. 653.)
+(June 17, 1930, ch. 497, title IV, §555, 46 Stat. 743; June 2, 1970, Pub. L. 91–271, title III, §301(b), 84 Stat. 287; Oct. 30, 1984, Pub. L. 98–573, title II, §211, 98 Stat. 2977; Aug. 23, 1988, Pub. L. 100–418, title I, §1908(b), 102 Stat. 1315; Aug. 20, 1990, Pub. L. 101–382, title I, §139(a)(1), 104 Stat. 653; Oct. 11, 1996, Pub. L. 104–295, §29, 110 Stat. 3535.)
 
 #### References in Text
 
@@ -88,9 +90,11 @@ The Harmonized Tariff Schedule of the United States, referred to in subsec. (b)(
 
 Provisions similar to those in this section were contained in act Sept. 21, 1922, ch. 356, title IV, §555, 42 Stat. 976. That section was superseded by section 555 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
-Prior provisions dealing with the subject matter of this section were contained in R.S. §2958, authorizingcellars and vaults of stores for storage of wines and distilled spirits, and yards for storage of coal, etc., to be constituted bonded warehouses; section 2959, authorizing parts of buildings to be bonded for the storage of grain; section 2960, requiring private warehouses to be used solely for the storage of warehoused merchandise, and be approved by the Secretary of the Treasury, and be in charge of a proper officer of the customs, etc.; section 2961 requiring bonds to hold the United States harmless, and providing that imports deposited in warehouses should be at the risk and expense of the owner or importer; section 2968, authorizing the extension of warehouse privileges to the port of Albany; and section 2988, as amended by act Feb. 27, 1877, ch. 69, §1, 19 Stat. 247, requiring collectors to make reports of merchandise in warehouses. All of these sections were repealed by act Sept. 21, 1922, ch. 356, title IV, §642, 42 Stat. 989.
+Prior provisions dealing with the subject matter of this section were contained in R.S. §2958, authorizing cellars and vaults of stores for storage of wines and distilled spirits, and yards for storage of coal, etc., to be constituted bonded warehouses; section 2959, authorizing parts of buildings to be bonded for the storage of grain; section 2960, requiring private warehouses to be used solely for the storage of warehoused merchandise, and be approved by the Secretary of the Treasury, and be in charge of a proper officer of the customs, etc.; section 2961 requiring bonds to hold the United States harmless, and providing that imports deposited in warehouses should be at the risk and expense of the owner or importer; section 2968, authorizing the extension of warehouse privileges to the port of Albany; and section 2988, as amended by act Feb. 27, 1877, ch. 69, §1, 19 Stat. 247, requiring collectors to make reports of merchandise in warehouses. All of these sections were repealed by act Sept. 21, 1922, ch. 356, title IV, §642, 42 Stat. 989.
 
 #### Amendments
+
+1996—Subsec. (b)(6). Pub. L. 104–295 designated existing provisions as subpar. (A), substituted “Except asprovided in subparagraph (B), merchandise” for “Merchandise”, and added subpar. (B).
 
 1990—Subsec. (b)(6). Pub. L. 101–382, which directed substitution of “subchapter IV of chapter 98 of the Harmonized Tariff Schedule of the United States” for “subpart A of part 2 of schedule 8 of the Tariff schedules of the United States”, was executed by making the substitution for “subpart A of part 2 of schedule 8 of the Tariff Schedules of the United States” to reflect the probable intent of Congress.
 

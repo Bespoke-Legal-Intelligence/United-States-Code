@@ -25,7 +25,7 @@
 
 #### Amendments
 
-1984—Pub. L. 98–497, title I, §102(c)(1), Oct. 19, 1984, 98 Stat. 2282, amended analysis generally, substituting “National Archives and Records” in chapter heading, adding items 2102 to 2106 and redesignating former items 2103 to 2114 as 2107 to 2118, respectively.
+1984—Pub. L. 98–497, title I, §102(c)(1), Oct. 19, 1984, 98 Stat. 2282, amended analysis generally, substituting“National Archives and Records” in chapter heading, adding items 2102 to 2106 and redesignating former items 2103 to 2114 as 2107 to 2118, respectively.
 
 #### Cross References
 

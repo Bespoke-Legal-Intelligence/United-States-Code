@@ -28,7 +28,7 @@ An entity that receives assistance under subsection (a) of this section may—
 
 &emsp;(B) coordinate the activities of the clearinghouse with appropriate entities to avoid duplication of effort;
 
-&emsp;(7) make recommendations to State and local entities on quality controls to improvethe delivery of community service programs and on changes in the programs under this subchapter; and
+&emsp;(7) make recommendations to State and local entities on quality controls to improve the delivery of community service programs and on changes in the programs under this subchapter; and
 
 &emsp;(8) carry out such other activities as the Chief Executive Officer determines to be appropriate.
 

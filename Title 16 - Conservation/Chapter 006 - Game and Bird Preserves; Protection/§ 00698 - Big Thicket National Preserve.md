@@ -40,19 +40,21 @@ The Big Thicket National Preserve (hereafter referred to as the “preserve”) 
 
 #### (c) Methods of acquisition of land
 
-The Secretary is authorized to acquire by donation, purchase with donated or appropriated funds, transfer from any other Federal agency, or exchange, any lands, waters, or interests therein which are located within the boundaries of the preserve: <i>Provided</i>, That privately owned lands located within the Village Creek Corridor, Big Sandy Corridor, and Canyonlands units may be acquired only with the consent of the owner: <i>Provided further</i>, That the Secretary may acquire lands owned by commercial timber companies only by donation or exchange: <i>Provided further</i>, That any lands owned by the State of Texas, or any political subdivisions thereof may be acquired by donation only. The Secretary may also acquire, by any of the above methods, approximately 15 acres of land outside of the boundaries of the preserve in the vicinity of the intersection of United States Highway 69 and State Farm-Market Road 420, in Hardin County, Texas, for purposes of a visitor contact and administrative site. After notifying the Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives, in writing, of his intention to do so and of the reasons therefor, the Secretary may, if he finds that such lands would make a significant contribution to the purposes for which the preserve was created, accept title to any lands, or interests in lands, located outside of the boundaries of the preserve which the State of Texas or its political subdivisions may acquire and offer to donate to the United States or which any private person, organization, or public or private corporation may offer to donate to the United States and he may administer such lands as a part of the preserve after publishing notice to that effect in the Federal Register. Notwithstanding any other provision of law, any federally owned lands within the preserve shall, with the concurrence of the head of the administering agency, be transferred to the administrative jurisdiction of the Secretary for the purposes of sections 698 to 698e of this title, without transfer of funds.
+The Secretary is authorized to acquire by donation, purchase with donated or appropriated funds, transfer from any other Federal agency, or exchange, any lands, waters, or interests therein which are located within the boundaries of the preserve: <i>Provided</i>, That privately owned lands located within the Village Creek Corridor, Big Sandy Corridor, and Canyonlands units may be acquired only with the consent of the owner: <i>Provided further</i>, That the Secretary may acquire lands owned by commercial timber companies only by donation or exchange: <i>Provided further</i>, That any lands owned by the State of Texas, or any political subdivisions thereof may be acquired by donation only. The Secretary may also acquire, by any of the above methods,approximately 15 acres of land outside of the boundaries of the preserve in the vicinity of the intersection of United States Highway 69 and State Farm-Market Road 420, in Hardin County, Texas, for purposes of a visitor contact and administrative site. After notifying the Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives, in writing, of his intention to do so and of the reasons therefor, the Secretary may, if he finds that such lands would make a significant contribution to the purposes for which the preserve was created, accept title to any lands, or interests in lands, located outside of the boundaries of the preserve which the State of Texas or its political subdivisions may acquire and offer to donate to the United States or which any private person, organization, or public or private corporation may offer to donate to the United States and he may administer such lands as a part of the preserve after publishing notice to that effect in the Federal Register. Notwithstanding any other provision of law, any federally owned lands within the preserve shall, with the concurrence of the head of the administering agency, be transferred to the administrative jurisdiction of the Secretary for the purposes of sections 698 to 698e of this title, without transfer of funds.
 
 #### (d) Exchanges of land
 
-Within sixty days after July 1, 1993, the Secretary and the Secretary of Agriculture shall identify lands within their jurisdiction located within the vicinity of the preserve which may be suitable for exchange for commercial timber lands within the preserve. In so doing, the Secretary of Agriculture shall seek to identify for exchange National Forest lands that are near or adjacent to private lands that are already owned by the commercial timber companies. Such National Forest lands shall be located in the Sabine National Forest in Sabine County, Texas, in the Davy Crockett National Forest south of Texas State Highway 7, or in other sites deemed mutually agreeable, and within reasonable distance of the timber companies’ existing mills. In exercising this exchange authority, the Secretary and the Secretary of Agriculture may utilize any authorities or procedures otherwise available to them in connection with land exchanges, and which are not inconsistent with the purposes of sections 698 to 698e of this title. Land exchanges authorized pursuant to this subsection shall be of equal value and shall be completed as soon as possible, but no later than two years after July 1, 1993.
+Within sixty days after July 1, 1993, the Secretary and the Secretary of Agriculture shall identify lands within their jurisdiction located within the vicinity of the preserve which may be suitable for exchange for commercial timber lands within the preserve. In so doing, the Secretary of Agriculture shall seek to identify for exchange National Forest lands that are near or adjacent to private lands that are already owned by the commercial timber companies. Such National Forest lands shall be located in the Sabine National Forest in Sabine County, Texas, in the Davy Crockett National Forest south of Texas State Highway 7, or in other sites deemed mutually agreeable, and within reasonable distance of the timber companies’ existing mills. In exercising this exchange authority, the Secretary and the Secretary of Agriculture may utilize any authorities or procedures otherwise available to them in connection with land exchanges, and which are not inconsistent with the purposes of sections 698 to 698e of this title. Land exchanges authorized pursuant to this subsection shall be of equal value and shall be completed as soon as possible, but no later than five years after July 1, 1993. The Secretary, in considering the values of the private lands to be exchanged under this subsection, shall consider independent appraisals submitted by the owners of the private lands. The authority to exchange lands under this subsection shall expire on July 1, 1998.
 
 #### (e) Indian Springs Youth Camp
 
 With respect to the thirty-seven-acre area owned by the Louisiana-Pacific Corporation or its subsidiary, Kirby Forest Industries, Inc., on Big Sandy Creek in Hardin County, Texas, and now utilized as part of the Indian Springs Youth Camp (H.G. King Abstract 822), the Secretary shall not acquire such area without the consent of the owner so long as the area is used exclusively as a youth camp.
 
-(Pub. L. 93–439, §1, Oct. 11, 1974, 88 Stat. 1254; Pub. L. 98–489, §1(a), Oct. 17, 1984, 98 Stat. 2267; Pub. L. 103–46, §2(a), (b), July 1, 1993, 107 Stat. 229, 230; Pub. L. 103–437, §6(a)(6), Nov. 2, 1994, 108 Stat. 4583.)
+(Pub. L. 93–439, §1, Oct. 11, 1974, 88 Stat. 1254; Pub. L. 98–489, §1(a), Oct. 17, 1984, 98 Stat. 2267; Pub. L. 103–46, §2(a), (b), July 1, 1993, 107 Stat. 229, 230; Pub. L. 103–437, §6(a)(6), Nov. 2, 1994, 108 Stat. 4583; Pub. L. 104–333, div. I, title III, §306(a)–(c), Nov. 12, 1996, 110 Stat. 4132.)
 
 #### Amendments
+
+1996—Subsec. (d). Pub. L. 104–333 substituted “five years after July 1, 1993” for “two years after July 1, 1993” and inserted at end “The Secretary, in considering the values of the private lands to be exchanged under this subsection, shall consider independent appraisals submitted by the owners of the private lands. The authority to exchange lands under this subsection shall expire on July 1, 1998.”
 
 1994—Subsec. (c). Pub. L. 103–437 substituted “Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives” for “Committees on Interior and Insular Affairs of the United States Congress”.
 
@@ -71,6 +73,40 @@ Committee on Natural Resources of House of Representatives treated as referring 
 #### Short Title of 1993 Amendment
 
 Section 1 of Pub. L. 103–46 provided that: “This Act \[amending this section and section 698e of this title and enacting provisions set out as a note below\] may be referred to as the ‘Big Thicket National Preserve Addition Act of 1993’.”
+
+#### Reporting Requirement
+
+Section 306(d) of title III of div. I of Pub. L. 104–333 provided that: “Not later than 6 months after the date of the enactment of this Act \[Nov. 12, 1996\] and every 6 months thereafter until the earlier of the consummation of the exchange of July 1, 1998, the Secretary of the Interior and the Secretary of Agriculture shall each submit a report to the Committee on Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate concerning the progress in consummating the land exchange authorized by the amendments made by the Big Thicket National Preserve Addition Act of 1993 (Public Law 103–46) \[see Short Title of 1993 Amendment note above\].”
+
+#### Land Exchange
+
+Section 306(e)–(g) of title III of div. I of Pub. L. 104–333 provided that:
+
+“(e)
+
+Land Exchange in Liberty County, Texas.—If, within one year after the date of the enactment of this Act \[Nov. 12, 1996\]—
+
+&emsp;“(1) the owners of the private lands described in subsection (f)(1) offer to transfer all their right, title, and interest in and to such lands to the Secretary of the Interior, and
+
+&emsp;“(2) Liberty County, Texas, agrees to accept the transfer of the Federal lands described in subsection (f)(2),
+
+> the Secretary shall accept such offer of private lands and, in exchange and without additional consideration, transfer to Liberty County, Texas, all right, title, and interest of the United States in and to the Federal lands described in subsection (f)(2).
+
+“(f)
+
+Lands Described.—
+
+&emsp;“(1)
+
+Private lands.—The private lands described in this paragraph are approximately 3.76 acres of lands located in Liberty County, Texas, as generally depicted on the map entitled ‘Big Thicket Lake Estates Access—Proposed’.
+
+&emsp;“(2)
+
+Federal lands.—The Federal lands described in this paragraph are approximately 2.38 acres of lands located in Menard Creek Corridor Unit of the Big Thicket National Preserve, as generally depicted on the map referred to in paragraph (1).
+
+“(g)
+
+Administration of Lands Acquired by the United States.—The lands acquired by the Secretary under subsection (e) shall be added to and administered as part of the Menard Creek Corridor Unit of the Big Thicket National Preserve.”
 
 #### Publication of Boundary Description
 

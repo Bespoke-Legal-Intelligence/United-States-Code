@@ -10,7 +10,7 @@ Grants under this subchapter shall be payable in such installments and subject t
 
 #### (c) Prerequisites; “low-income family” defined
 
-A grant may be made or contract entered into under section 300 or 300a of this title for a family planning service project or program only upon assurances satisfactory to the Secretary that—
+A grant may be made or contract entered into under section 300 or 300a of this title for a familyplanning service project or program only upon assurances satisfactory to the Secretary that—
 
 &emsp;(1) priority will be given in such project or program to the furnishing of such services to persons from low-income families; and
 

@@ -43,6 +43,14 @@ Verification system; liability of State or local government agencies or official
 
 Reimbursement for costs of implementation.
 
+(h)
+
+“Applicable Secretary” defined.
+
+(h)
+
+Verification of eligibility.
+
 |  |  |
 | :--- | ---: |
 | [1436b.](%C2%A7%2001436b%20-%20Financial%20assistance%20in%20impacted%20areas.md) | Financial assistance in impacted areas. |
@@ -161,10 +169,6 @@ Limitation on public housing development; assurance of public housing quality st
 
 Limitation on recapture of funding reservations.
 
-(<i>l)</i>
-
-Indian public housing.
-
 |  |  |
 | :--- | ---: |
 | [1437d.](Subchapter%20001%20%28I%29%20-%20General%20Program%20of%20Assisted%20Housing/%C2%A7%2001437d%20-%20Contract%20provisions%20and%20requirements%3B%20loans%20and%20annual%20contributions.md) | Contract provisions and requirements; loans and annual contributions. |
@@ -177,7 +181,7 @@ Conditions; playgrounds and elevators.
 
 (b)
 
-Public housing for Indians and Alaska Natives.
+Limitation on development costs.
 
 (c)
 
@@ -215,7 +219,7 @@ Performance indicators for public housing agencies.
 
 Administrative grievance procedure regulations: grounds of adverse action, hearing, examination of documents, representation, evidence, decision; judicial hearing; eviction and termination procedures.
 
-(<i>l)</i>
+(<i>l</i>)
 
 Leases; terms and conditions; maintenance; termination.
 
@@ -227,7 +231,7 @@ Reporting requirements; limitation.
 
 Notice to post office regarding eviction for criminal activity.
 
-(<i>o)</i>
+(<i>o</i>)
 
 Public housing assistance for foster care children.
 
@@ -235,9 +239,17 @@ Public housing assistance for foster care children.
 
 Preference for areas with inadequate supply of very low-income housing.
 
+(q)
+
+Availability of records.
+
+(r)
+
+Ineligibility because of eviction for drug-related activity.
+
 |  |  |
 | :--- | ---: |
-| [1437e.](Subchapter%20001%20%28I%29%20-%20General%20Program%20of%20Assisted%20Housing/%C2%A7%2001437e%20-%20Designated%20housing.md) | Designated housing. |
+| [1437e.](Subchapter%20001%20%28I%29%20-%20General%20Program%20of%20Assisted%20Housing/%C2%A7%2001437e%20-%20Designated%20housing%20for%20elderly%20and%20disabled%20families.md) | Designated housing for elderly and disabled families. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -247,27 +259,31 @@ Authority to provide designated housing.
 
 (b)
 
-Availability of housing.
+Standards regarding evictions.
 
 (c)
 
-Prohibition of evictions.
+Relocation assistance.
 
 (d)
 
-Accommodation of housing and service needs.
+Required plan.
 
 (e)
 
-Application for designated housing for disabled families.
+Review of plans.
 
 (f)
 
-Allocation plans.
+Effectiveness.
 
 (g)
 
-Prohibition of coercion.
+Inapplicability of Uniform Relocation Assistance and Real Property Acquisitions Policy Act of 1970.
+
+(h)
+
+Inapplicability to Indian housing.
 
 |  |  |
 | :--- | ---: |
@@ -327,7 +343,7 @@ Verification of income.
 
 Assistance for dwellings without bathrooms and kitchens; conditions; waiver of limitations.
 
-(<i>o)</i>
+(<i>o</i>)
 
 Rental vouchers.
 
@@ -357,7 +373,7 @@ Assistance for residents of rental rehabilitation projects.
 
 (v)
 
-Terms of contracts; extensions.
+Extension of expiring contracts.
 
 (w)
 
@@ -377,7 +393,11 @@ Termination of section 1437f contracts and reuse of recaptured budget authority.
 
 (aa)
 
-Refinancing incentive.
+Omitted.
+
+(bb)
+
+Transfer of budget authority.
 
 |  |  |
 | :--- | ---: |
@@ -413,7 +433,7 @@ Time of payment.
 
 (a)
 
-Preparation and submission of annual budget program; maintenance of accounts; annual audit by General Accounting Office.
+Preparation and submission of annual budget program; maintenance of accounts; audit by General Accounting Office.
 
 (b)
 
@@ -429,7 +449,7 @@ Federal Reserve banks to act as depositories, custodians and fiscal agents; reim
 | [1437j.](Subchapter%20001%20%28I%29%20-%20General%20Program%20of%20Assisted%20Housing/%C2%A7%2001437j%20-%20Labor%20protection%3B%20payment%20of%20wages%20prevailing%20in%20locality%3B%20certification%20of%20compliance%3B%20exceptions.md) | Labor protection; payment of wages prevailing in locality; certification of compliance; exceptions. |
 | 1437j–1. | Payment for development managers. |
 | [1437k.](Subchapter%20001%20%28I%29%20-%20General%20Program%20of%20Assisted%20Housing/%C2%A7%2001437k%20-%20Energy%20conservation.md) | Energy conservation. |
-| 1437<i>l.</i> | Public and Indian housing modernization. |
+| 1437<i>l.</i> | Public housing modernization. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -477,7 +497,7 @@ Rules and regulations.
 
 Formula allocation of modernization funding.
 
-(<i>l)</i>
+(<i>l</i>)
 
 Annual report.
 
@@ -489,7 +509,7 @@ Regulations.
 
 Limitation.
 
-(<i>o)</i>
+(<i>o</i>)
 
 Uses of obligated amounts by public housing agencies.
 
@@ -499,12 +519,12 @@ Reduction of vacancies in public housing units.
 
 (q)
 
-Improvement or replacement of public housing.
+Other uses of modernization and development assistance.
 
 |  |  |
 | :--- | ---: |
 | [1437m.](Subchapter%20001%20%28I%29%20-%20General%20Program%20of%20Assisted%20Housing/%C2%A7%2001437m%20-%20Payment%20of%20non-Federal%20share.md) | Payment of non-Federal share. |
-| [1437n.](Subchapter%20001%20%28I%29%20-%20General%20Program%20of%20Assisted%20Housing/%C2%A7%2001437n%20-%20Income%20eligibility%20for%20assisted%20housing.md) | Income eligibility for assisted housing. |
+| [1437n.](Subchapter%20001%20%28I%29%20-%20General%20Program%20of%20Assisted%20Housing/%C2%A7%2001437n%20-%20Eligibility%20for%20assisted%20housing.md) | Eligibility for assisted housing. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -523,6 +543,10 @@ Admission procedures.
 (d)
 
 Applicability of admission procedures limitations.
+
+(e)
+
+Ineligibility of illegal drug users and alcohol abusers.
 
 |  |  |
 | :--- | ---: |
@@ -732,7 +756,7 @@ On-site facilities.
 
 Flexibility.
 
-(<i>l)</i>
+(<i>l</i>)
 
 Reports.
 
@@ -744,7 +768,7 @@ GAO report.
 
 Definitions.
 
-(<i>o)</i>
+(<i>o</i>)
 
 Effective date and regulations.
 
@@ -772,7 +796,7 @@ Implementation grants.
 
 (e)
 
-Exceptions to general program requirements.
+Exception to general program requirements.
 
 (f)
 
@@ -840,7 +864,7 @@ Performance review and compliance.
 
 Nondiscrimination.
 
-(<i>l)</i>
+(<i>l</i>)
 
 Relationship to other programs.
 
@@ -870,95 +894,18 @@ Certification.
 
 Approval by States.
 
+|  |  |
+| :--- | ---: |
+| [1437y.](Subchapter%20001%20%28I%29%20-%20General%20Program%20of%20Assisted%20Housing/%C2%A7%2001437y%20-%20Provision%20of%20information%20to%20law%20enforcement%20and%20other%20agencies.md) | Provision of information to law enforcement and other agencies. |
+| [1437z.](Subchapter%20001%20%28I%29%20-%20General%20Program%20of%20Assisted%20Housing/%C2%A7%2001437z%20-%20Exchange%20of%20information%20with%20law%20enforcement%20agencies.md) | Exchange of information with law enforcement agencies. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 #### SUBCHAPTER II—ASSISTED HOUSING FOR INDIANS AND ALASKA NATIVES
 
 |  |  |
 | :--- | ---: |
-| [1437aa.](Subchapter%20002%20%28II%29%20-%20Assisted%20Housing%20for%20Indians%20and%20Alaska%20Natives/%C2%A7%2001437aa%20-%20Establishment%20of%20separate%20program%20of%20assisted%20housing%20for%20Indians%20and%20Alaska%20Natives.md) | Establishment of separate program of assisted housing for Indians and Alaska Natives. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-(a)
-
-General authority.
-
-(b)
-
-Applicability of subchapter I.
-
-(c)
-
-Inapplicability of certain requirements.
-
-|  |  |
-| :--- | ---: |
-| [1437bb.](Subchapter%20002%20%28II%29%20-%20Assisted%20Housing%20for%20Indians%20and%20Alaska%20Natives/%C2%A7%2001437bb%20-%20Mutual%20help%20homeownership%20opportunity%20program.md) | Mutual help homeownership opportunity program. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-(a)
-
-Establishment.
-
-(b)
-
-Financial assistance.
-
-(c)
-
-Eligible projects.
-
-(d)
-
-Eligible families.
-
-(e)
-
-Mutual help and occupancy agreement.
-
-(f)
-
-Self-help housing program.
-
-|  |  |
-| :--- | ---: |
-| [1437cc.](Subchapter%20002%20%28II%29%20-%20Assisted%20Housing%20for%20Indians%20and%20Alaska%20Natives/%C2%A7%2001437cc%20-%20Additional%20provisions.md) | Additional provisions. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-(a)
-
-Public housing maximum contributions.
-
-(b)
-
-Related facilities and services.
-
-(c)
-
-Accessibility to physically handicapped persons.
-
-|  |  |
-| :--- | ---: |
-| [1437dd.](Subchapter%20002%20%28II%29%20-%20Assisted%20Housing%20for%20Indians%20and%20Alaska%20Natives/%C2%A7%2001437dd%20-%20Annual%20report.md) | Annual report. |
-| [1437ee.](Subchapter%20002%20%28II%29%20-%20Assisted%20Housing%20for%20Indians%20and%20Alaska%20Natives/%C2%A7%2001437ee%20-%20Regulations.md) | Regulations. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-(a)
-
-Issuance.
-
-(b)
-
-Consultation with Indian housing authorities.
-
-(c)
-
-Effective date.
-
-|  |  |
-| :--- | ---: |
+| 1437aa to 1437ee. Repealed. |  |
 | [1437ff.](Subchapter%20002%20%28II%29%20-%20Assisted%20Housing%20for%20Indians%20and%20Alaska%20Natives/%C2%A7%2001437ff%20-%20Waiver%20of%20matching%20funds%20requirements%20in%20Indian%20housing%20programs.md) | Waiver of matching funds requirements in Indian housing programs. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -975,11 +922,11 @@ Extent of waiver.
 
 “Housing program” defined.
 
-#### SUBCHAPTER II–A—HOPE FOR PUBLIC AND INDIAN HOUSING HOMEOWNERSHIP
+#### SUBCHAPTER II–A—HOPE FOR PUBLIC HOUSING HOMEOWNERSHIP
 
 |  |  |
 | :--- | ---: |
-| [1437aaa.](Subchapter%20002%E2%80%93A%20%28II%E2%80%93A%29%20-%20HOPE%20for%20Public%20and%20Indian%20Housing%20Homeownership/%C2%A7%2001437aaa%20-%20Program%20authority.md) | Program authority. |
+| [1437aaa.](Subchapter%20002%E2%80%93A%20%28II%E2%80%93A%29%20-%20HOPE%20for%20Public%20Housing%20Homeownership/%C2%A7%2001437aaa%20-%20Program%20authority.md) | Program authority. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1135,7 +1082,7 @@ Timely homeownership.
 
 Capability of resident management corporations and resident councils.
 
-(<i>l)</i>
+(<i>l</i>)
 
 Records and audit of recipients of assistance.
 
@@ -1217,7 +1164,7 @@ Protection of guarantees issued by United States; inclusion by purchaser in gros
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 1382a, 1404a, 1434, 1436a, 1436b, 1437a–1, 1437j–1, 1439, 1471, 1485, 1490a, 1502, 1503, 1504, 1586, 1590, 1594c, 1766, 3013, 5153, 5515, 8003, 11488, 11903, 12705, 12896, 12910 of this title; title 12 sections 24, 1441a, 1701r–1, 1715z–1a, 1701z–3, 1701z–11, 1715<i>l</i>, 1831q; title 20 section 7713; title 25 section 640d–14; title 26 section 32; title 29 section 1605.
+This chapter is referred to in sections 1382a, 1404a, 1434, 1436a, 1436b, 1437a–1, 1437j–1, 1439, 1471, 1485, 1490a, 1502, 1503, 1504, 1586, 1590, 1594c, 1766, 3013, 5153, 5515, 8003, 11903, 12705, 12896, 12910 of this title; title 12 sections 24, 1441a, 1701r–1, 1715z–1a, 1701z–3, 1701z–11, 1715<i>l</i>, 1831q; title 20 section 7713; title 25 sections 640d–14, 4103, 4112, 4116, 4133, 4140, 4152, 4181, 4182, 4183, 4191; title 26 section 32; title 29 section 1605.
 
 
 ---
@@ -1248,7 +1195,7 @@ This chapter is referred to in sections 1382a, 1404a, 1434, 1436a, 1436b, 1437a�
 - [&sect; 01436c - Insurance for public housing agencies and Indian housing authorities](%C2%A7%2001436c%20-%20Insurance%20for%20public%20housing%20agencies%20and%20Indian%20housing%20authorities.md)
 - [Subchapter 001 (I) - General Program of Assisted Housing](Subchapter%20001%20%28I%29%20-%20General%20Program%20of%20Assisted%20Housing/README.md)
 - [Subchapter 002 (II) - Assisted Housing for Indians and Alaska Natives](Subchapter%20002%20%28II%29%20-%20Assisted%20Housing%20for%20Indians%20and%20Alaska%20Natives/README.md)
-- [Subchapter 002&#8211;A (II&#8211;A) - HOPE for Public and Indian Housing Homeownership](Subchapter%20002%E2%80%93A%20%28II%E2%80%93A%29%20-%20HOPE%20for%20Public%20and%20Indian%20Housing%20Homeownership/README.md)
+- [Subchapter 002&#8211;A (II&#8211;A) - HOPE for Public Housing Homeownership](Subchapter%20002%E2%80%93A%20%28II%E2%80%93A%29%20-%20HOPE%20for%20Public%20Housing%20Homeownership/README.md)
 - [Subchapter 003 (III) - Miscellaneous Provisions](Subchapter%20003%20%28III%29%20-%20Miscellaneous%20Provisions/README.md)
 - [Subchapter 001 (I) - General Provisions](Subchapter%20001%20%28I%29%20-%20General%20Provisions/README.md)
 - [Subchapter 002 (II) - Slum Clearance and Urban Renewal](Subchapter%20002%20%28II%29%20-%20Slum%20Clearance%20and%20Urban%20Renewal/README.md)

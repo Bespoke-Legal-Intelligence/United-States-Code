@@ -1,6 +1,6 @@
 ### §5116. Penalties
 
-(a) Except as otherwise provided in this section, the owner, charterer, managing operator,agent, master, and individual in charge of a vessel violating this chapter or a regulation prescribed under this chapter are each liable to the United States Government for a civil penalty of not more than $5,000. Each day of a continuing violation is a separate violation. The vessel also is liable in rem for the penalty.
+(a) Except as otherwise provided in this section, the owner, charterer, managing operator, agent, master, and individual in charge of a vessel violating this chapter or a regulation prescribed under this chapter are each liable to the United States Government for a civil penalty of not more than $5,000. Each day of a continuing violation is a separate violation. The vessel also is liable in rem for the penalty.
 
 (b) The owner, charterer, managing operator, agent, master, and individual in charge of a vessel allowing, causing, attempting to cause, or failing to take reasonable care to prevent a violation of section 5112(a) of this title are each liable to the Government for a civil penalty of not more than $10,000 plus an additional amount equal to twice the economic benefit of the overloading. The vessel also is liable in rem for the penalty.
 
@@ -34,7 +34,7 @@ Section 5116(e) raises from $2,000 to $10,000 the maximum penalty for the altera
 
 #### Amendments
 
-1990—Subsec. (d). Pub. L. 101–380, §4302(d)(1), substituted “commits a class A misdemeanor” for “shall be fined not more than $10,000, imprisoned for not more than one year, or both”.
+1990—Subsec. (d). Pub. L. 101–380, §4302(d)(1), substituted “commits a class A misdemeanor” for “shallbe fined not more than $10,000, imprisoned for not more than one year, or both”.
 
 Subsec. (e). Pub. L. 101–380, §4302(d)(2), substituted “commits a class A misdemeanor” for “shall be fined not more than $10,000, imprisoned for not more than 2 years, or both”.
 

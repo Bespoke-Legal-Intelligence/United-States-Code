@@ -26,5 +26,5 @@ Self-employment income, resident of Puerto Rico to compute his net earnings with
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 86, 135, 168, 865, 876, 957, 1402, 6091, 7655 of this title; title 42 section 411.
+This section is referred to in sections 23, 86, 135, 137, 168, 865, 876, 957, 1402, 6091, 7655 of this title; title 42 section 411.
 

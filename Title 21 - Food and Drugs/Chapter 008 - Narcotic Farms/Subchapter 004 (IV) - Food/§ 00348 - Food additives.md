@@ -126,7 +126,7 @@ Functions vested in Secretary of Health, Education, and Welfare \[now Health and
 
 #### Moratorium on Authority of Secretary With Respect to Saccharin
 
-Pub. L. 95–203, §3, Nov. 23, 1977, 91 Stat. 1452, as amended by Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 96–273, June 17, 1980, 94 Stat. 536; Pub. L. 97–42, §2, Aug. 14, 1981, 95 Stat. 946; Pub. L. 98–22, §2, Apr. 22, 1983, 97 Stat. 173; Pub. L. 99–46, May 24, 1985, 99 Stat. 81; Pub. L. 100–71, title I, §101, July 11, 1987, 101 Stat. 431; Pub. L. 102–142, title VI, Oct. 28, 1991, 105 Stat. 910, provided that: “During the period ending May 1, 1997, the Secretary—
+Pub. L. 95–203, §3, Nov. 23, 1977, 91 Stat. 1452, as amended by Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 96–273, June 17, 1980, 94 Stat. 536; Pub. L. 97–42, §2, Aug. 14, 1981, 95 Stat. 946; Pub. L. 98–22, §2, Apr. 22, 1983, 97 Stat. 173; Pub. L. 99–46, May 24, 1985, 99 Stat. 81; Pub. L. 100–71, title I, §101, July 11, 1987, 101 Stat. 431; Pub. L. 102–142, title VI, Oct. 28, 1991, 105 Stat. 910; Pub. L. 104–180, title VI, §602, Aug. 6, 1996, 110 Stat. 1594, provided that: “During the period ending May 1, 2002, the Secretary—
 
 &emsp;“(1) may not amend or revoke the interim food additive regulation of the Food and Drug Administration of the Department of Health and Human Services applicable to saccharin and published on March 15, 1977 (section 180.37 of part 180, subchapter B, chapter 1, title 21, Code of Federal Regulations (42 Fed. Reg. 14638)), or
 
@@ -138,5 +138,5 @@ For definition of “saccharin” as used in this note, see section 2(d) of Pub.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 321, 331, 342, 379e, 453, 601, 1033 of this title; title 7 section 450i; title 15 section 1262; title 35 section 155.
+This section is referred to in sections 321, 331, 342, 346a, 379e, 453, 601, 1033 of this title; title 7 sections 136, 450i; title 15 section 1262; title 35 section 155.
 

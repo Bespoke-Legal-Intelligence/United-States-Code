@@ -26,23 +26,19 @@ Officers With Running Mates.—An officer to whom a running mate system applies 
 
 Army Reserve and Air Force Reserve Promotions To Fill Vacancies.—Subject to this section and to section 14311(e) of this title, and under regulations prescribed by the Secretary of the military department concerned—
 
-&emsp;(1) an officer in the Army Reserve or the Air Force Reserve who is on a promotion list as a result of selection for promotion by a mandatory promotion board convened under section 14101(a) of this title or a board convened under section 14502 or chapter 36 of this title may be promoted at any time to fill a vacancy in a position to which the officer is assigned; and
+&emsp;(1) an officer in the Army Reserve or the Air Force Reserve who is on a promotion list as a result of selection for promotion by a mandatory promotion board convened under section 14101(a) of this title or a board convened undersection 14502 or chapter 36 of this title may be promoted at any time to fill a vacancy in a position to which the officer is assigned; and
 
 &emsp;(2) an officer in the Army Reserve or the Air Force Reserve who is on a promotion list as a result of selection for promotion by a vacancy promotion board convened under section 14101(a) of this title may be promoted at any time to fill the vacancy for which the officer was selected.
 
 (f)
 
-Effective Date of Promotion After Federal Recognition.—The effective date of a promotion of a reserve commissioned officer of the Army or the Air Force who is extended Federalrecognition in the next higher grade in the Army National Guard or the Air National Guard under section 307 or 310 of title 32 shall be the date on which such Federal recognition in that grade is so extended.
+Effective Date of Promotion After Federal Recognition.—The effective date of a promotion of a reserve commissioned officer of the Army or the Air Force who is extended Federal recognition in the next higher grade in the Army National Guard or the Air National Guard under section 307 or 310 of title 32 shall be the date on which such Federal recognition in that grade is so extended.
 
 (g)
 
 Army and Air Force General Officer Promotions.—A reserve officer of the Army who is on a promotion list for promotion to the grade of brigadier general or major general as a result of selection by a vacancy promotion board may be promoted to that grade only to fill a vacancy in that grade in a unit of the Army Reserve that is organized to serve as a unit and that has attained the strength prescribed by the Secretary of the Army. A reserve officer of the Air Force who is on a promotion list for promotion to the grade of brigadier general or major general as a result of selection by a vacancy promotion board may be promoted to that grade only to fill a vacancy in the Air Force Reserve in that grade.
 
 (Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2937.)
-
-#### Effective Date of Section
-
-<i>Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under section 10001 of this title.</i>
 
 #### Prior Provisions
 

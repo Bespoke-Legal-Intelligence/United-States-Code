@@ -10,9 +10,15 @@ As used in section 1709 of this title—
 
 (d) The term “State” includes the several States, and Puerto Rico, the District of Columbia, Guam, the Trust Territory of the Pacific Islands, American Samoa, and the Virgin Islands.
 
-(June 27, 1934, ch. 847, title II, §201, 48 Stat. 1247; Feb. 3, 1938, ch. 13, §3, 52 Stat. 9; Mar. 28, 1941, ch. 31, §4(a), 55 Stat. 61; Apr. 20, 1950, ch. 94, title I, §122, 64 Stat. 59; July 14, 1952, ch. 723, §10(a)(2), 66 Stat. 603; June 25, 1959, Pub. L. 86–70, §10(a), 73 Stat. 142; July 12, 1960, Pub. L. 86–624, §6, 74 Stat. 411; May 25, 1967, Pub. L. 90–19, §1(a)(3), 81 Stat. 17; Dec. 24, 1969, Pub. L. 91–152, title IV, §403(c)(1), 83 Stat. 395; Oct. 8, 1980, Pub. L. 96–399, title III, §306, 94 Stat. 1640; Nov. 30, 1983, Pub. L. 98–181, title IV, §407(b), 97 Stat. 1211.)
+(e) The term “family member” means, with respect to a mortgagor under such section, a child, parent, or grandparent of the mortgagor (or the mortgagor's spouse). In determining whether any of the relationships referred to in the preceding sentence exist, a legally adopted son or daughter of an individual (and a child who is a member of an individual's household, if placed with such individual by an authorized placement agency for legal adoption by such individual), and a foster child of an individual, shall be treated as a child of such individual by blood.
+
+(f) The term “child” means, with respect to a mortgagor under such section, a son, stepson, daughter, or stepdaughter of such mortgagor.
+
+(June 27, 1934, ch. 847, title II, §201, 48 Stat. 1247; Feb. 3, 1938, ch. 13, §3, 52 Stat. 9; Mar. 28, 1941, ch. 31, §4(a), 55 Stat. 61; Apr. 20, 1950, ch. 94, title I, §122, 64 Stat. 59; July 14, 1952, ch. 723, §10(a)(2), 66 Stat. 603; June 25, 1959, Pub. L. 86–70, §10(a), 73 Stat. 142; July 12, 1960, Pub. L. 86–624, §6, 74 Stat. 411; May 25, 1967, Pub. L. 90–19, §1(a)(3), 81 Stat. 17; Dec. 24, 1969, Pub. L. 91–152, title IV, §403(c)(1), 83 Stat. 395; Oct. 8, 1980, Pub. L. 96–399, title III, §306, 94 Stat. 1640; Nov. 30, 1983, Pub. L. 98–181, title IV, §407(b), 97 Stat. 1211; Sept. 26, 1996, Pub. L. 104–204, title IV, §425(b), 110 Stat. 2928.)
 
 #### Amendments
+
+1996—Subsecs. (e), (f). Pub. L. 104–204 added subsecs. (e) and (f).
 
 1983—Subsec. (d). Pub. L. 98–181 inserted “American Samoa,” after “Pacific Islands,”.
 
@@ -44,7 +50,7 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 #### Improvement of Financing for Multifamily Housing
 
-Pub. L. 102–550, title V, subtitle C, Oct. 28, 1992, 106 Stat. 3794, as amended by Pub. L. 103–233, title III, §307, Apr. 11, 1994, 108 Stat. 373, provided that:
+Pub. L. 102–550, title V, subtitle C, Oct. 28, 1992, 106 Stat. 3794, as amended by Pub. L. 103–233, title III, §307, Apr. 11, 1994, 108 Stat. 373; Pub. L. 104–120, §8, Mar. 28, 1996, 110 Stat. 836; Pub. L. 104–134, title I, §101(e) \[title II, §205\], Apr. 26, 1996, 110 Stat. 1321–257, 1321–284; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327, provided that:
 
 #### “SEC. 541. SHORT TITLE.
 
@@ -110,7 +116,7 @@ Development of alternatives.—The Secretary shall develop and assess a variety 
 
 &emsp;&emsp;“(A) to ensure that other parties bear a share of the risk, in percentage amount and in position of exposure, that is sufficient to create strong, market-oriented incentives for other participating parties to maintain sound underwriting and loan management practices;
 
-&emsp;&emsp;“(B) to develop credit mechanisms, including sound underwriting criteria, processing methods, and credit enhancements, through which resources of the Federal Housing Administration can assist in increasing multifamily housing lending as needed to meet the expected need in the United States;
+&emsp;&emsp;“(B) to develop credit mechanisms, including sound underwriting criteria, processing methods, and credit enhancements, through which resourcesof the Federal Housing Administration can assist in increasing multifamily housing lending as needed to meet the expected need in the United States;
 
 &emsp;&emsp;“(C) to provide a more adequate supply of mortgage credit for sound multifamily rental housing projects in underserved urban and rural markets;
 
@@ -126,7 +132,7 @@ Eligibility standards.—The Secretary shall establish and enforce standards for
 
 &emsp;“(5)
 
-Funding.—Using any authority provided in appropriation Acts to insure loans under the National Housing Act \[12 U.S.C. 1701 et seq.\], the Secretary may enter into commitments under this subsection for risk sharing with respect to mortgages on not more than 15,000 units over fiscal years 1993 and 1994. The demonstration authorized under this subsection shall not be expanded until the reports required under subsection (d) are submitted to Congress.
+Funding.—Using any authority provided in appropriation Acts to insure loans under the National Housing Act \[12 U.S.C. 1701 et seq.\], the Secretary may enter into commitments under this subsection for risk sharing with respect to mortgages on not more than 7,500 units during fiscal year 1996. The demonstration authorized under this subsection shall not be expanded until the reports required under subsection (d) are submitted to Congress.
 
 &emsp;“(6)
 
@@ -202,7 +208,7 @@ Mortgage insurance premiums.—The Secretary shall establish a schedule of insur
 
 &emsp;“(4)
 
-Limitation on insurance authority.—Using any authority provided by appropriations Acts to insure mortgages under the National Housing Act \[12 U.S.C. 1701 et seq.\], the Secretary may enter into commitments under this subsection with respect to mortgages on not to exceed 30,000 units over fiscal years 1993, 1994, and 1995. The demonstration authorized under this subsection shall not be expanded until the reports required under subsection (d) are submitted to the Congress.
+Limitation on insurance authority.—Using any authority provided by appropriations Acts to insure mortgages under the National Housing Act \[12 U.S.C. 1701 et seq.\], the Secretary may enter into commitments under this subsection with respect to mortgages on not more than 12,000 units during fiscal year 1996. The demonstration authorized under this subsection shall not be expanded until the reports required under subsection (d) are submitted to the Congress.
 
 &emsp;“(5)
 
@@ -244,7 +250,7 @@ In general.—(I) In order to assure that the policies of the National Environme
 
 &emsp;&emsp;&emsp;“(ii)
 
-Procedure.—The Secretary shall approve a mortgage for the provision of mortgage insurance subject to the procedures authorized by this paragraph only if, not less than 15 days prior to such approval, prior to any approval, commitment, or endorsement of mortgage insurance on the property on behalf of the Secretary, and prior to any commitment by the qualified housing finance agency to provide financing under the risk-sharing agreement with respect to the property, the qualified housing finance agency submits to the Secretary a request for such approval, accompanied by a certification of the State or unit of general local government that meets the requirements of clause (iii). The Secretary's approval of any such certification shall be deemed to satisfy the Secretary's responsibilities under the National Environmental Policy Act of 1969 \[42 U.S.C. 4321 et seq.\] and such other provisions of law asthe regulations of the Secretary specify insofar as those responsibilities relate to the provision of mortgage insurance on the property that is covered by such certification.
+Procedure.—The Secretary shall approve a mortgage for the provision of mortgage insurance subject to the procedures authorized by this paragraph only if, not less than 15 days prior to such approval, prior to any approval, commitment, or endorsement of mortgage insurance on the property on behalf of the Secretary, and prior to any commitment by the qualified housing finance agency to provide financing under the risk-sharing agreement with respect to the property, the qualified housing finance agency submits to the Secretary a request for such approval, accompanied by a certification of the State or unit of general local government that meets the requirements of clause (iii). The Secretary's approval of any such certification shall be deemed to satisfy the Secretary's responsibilities under the National Environmental Policy Act of 1969 \[42 U.S.C. 4321 et seq.\] and such other provisions of law as the regulations of the Secretary specify insofar as those responsibilities relate to the provision of mortgage insurance on the property that is covered by such certification.
 
 &emsp;&emsp;&emsp;“(iii)
 
@@ -288,7 +294,7 @@ Mortgage.—The term ‘mortgage’ means a first mortgage on real estate that i
 
 &emsp;&emsp;“(B)
 
-First mortgage.—The term ‘first mortgage’ means a single first lien given to secure advances on, or the unpaid purchase price of, real estate, under the laws of the State in which the real estate is located, together with the credit instrument, if any, secured thereby. Any other financing permitted on property insured under this section must be expressly subordinate to the insured mortgage.
+First mortgage.—The term ‘first mortgage’ means a single first lien given to secure advances on, or the unpaid purchase price of, real estate,under the laws of the State in which the real estate is located, together with the credit instrument, if any, secured thereby. Any other financing permitted on property insured under this section must be expressly subordinate to the insured mortgage.
 
 &emsp;&emsp;“(C)
 
@@ -456,7 +462,7 @@ Sample data.—In order to ensure a representative sample of multifamily housing
 
 &emsp;&emsp;“(A) all information obtained shall be used only for the purposes authorized in this section;
 
-&emsp;&emsp;“(B) the Task Force shall maintain the confidentiality of all such information obtained in the manner established for the material by the submittingentity, and such data shall not be subject to release under section 552 of title 5, United States Code;
+&emsp;&emsp;“(B) the Task Force shall maintain the confidentiality of all such information obtained in the manner established for the material by the submitting entity, and such data shall not be subject to release under section 552 of title 5, United States Code;
 
 &emsp;&emsp;“(C) only aggregate data shall be publicly released by the Task Force unless it receives the explicit permission of the mortgage originator or government-sponsored enterprise from which the information is obtained; and
 
@@ -518,7 +524,9 @@ Authorization of Appropriations.—There are authorized to be appropriated to ca
 
 &emsp;&emsp;“(D) the Federal Housing Finance Board.”
 
+\[Amendment by Pub. L. 104–120 to subtitle C of title V of Pub. L. 102–550, set out above, to be construed to have become effective Oct. 1, 1995, see section 13(a) of Pub. L. 104–120, set out as an Effective Date of 1996 Amendment note under section 1437d of Title 42, The Public Health and Welfare.\]
+
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1706c, 1715k, 1715<i>l</i>, 1715y, 1715z–1, 1715z–20, 1750 of this title.
+This section is referred to in sections 1706c, 1709, 1715k, 1715<i>l</i>, 1715y, 1715z–1, 1715z–20, 1750 of this title.
 

@@ -14,9 +14,59 @@
 
 (d) This section shall apply only to recipients of Federal wage or salary payments who begin to receive such payments on or after January 1, 1995, and recipients of Federal retirement payments who begin to receive such payments on or after January 1, 1995.
 
-(e) The crediting of the amount of a payment to the appropriate account on the books of a financial institution or other authorized payment agent designated by a payment recipient under this section shall constitute a full acquittance to the United States for the amount of the payment.
+(e)(1) Notwithstanding subsections (a) through (d) of this section, sections 5120(a) and (d) of title 38, and any other provision of law, all Federal payments to a recipient who becomes eligible for that type of payment after 90 days after the date of the enactment of the Debt Collection Improvement Act of 1996 shall be made by electronic funds transfer.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 955; Pub. L. 98–369, div. B, title VIII, §2814, July 18, 1984, 98 Stat. 1207; Pub. L. 103–356, title IV, §402(a), Oct. 13, 1994, 108 Stat. 3412.)
+(2) The head of a Federal agency shall, with respect to Federal payments made or authorizedby the agency, waive the application of paragraph (1) to a recipient of those payments upon receipt of written certification from the recipient that the recipient does not have an account with a financial institution or an authorized payment agent.
+
+(f)(1) Notwithstanding any other provision of law (including subsections (a) through (e) of this section and sections 5120(a) and (d) of title 38), except as provided in paragraph (2) all Federal payments made after January 1, 1999, shall be made by electronic funds transfer.
+
+(2)(A) The Secretary of the Treasury may waive application of this subsection to payments—
+
+&emsp;(i) for individuals or classes of individuals for whom compliance imposes a hardship;
+
+&emsp;(ii) for classifications or types of checks; or
+
+&emsp;(iii) in other circumstances as may be necessary.
+
+(B) The Secretary of the Treasury shall make determinations under subparagraph (A) based on standards developed by the Secretary.
+
+(g) Each recipient of Federal payments required to be made by electronic funds transfer shall—
+
+&emsp;(1) designate 1 or more financial institutions or other authorized agents to which such payments shall be made; and
+
+&emsp;(2) provide to the Federal agency that makes or authorizes the payments information necessary for the recipient to receive electronic funds transfer payments through each institution or agent designated under paragraph (1).
+
+(h) The crediting of the amount of a payment to the appropriate account on the books of a financial institution or other authorized payment agent designated by a payment recipient under this section shall constitute a full acquittance to the United States for the amount of the payment.
+
+(i)(1) The Secretary of the Treasury may prescribe regulations that the Secretary considers necessary to carry out this section.
+
+(2) Regulations under this subsection shall ensure that individuals required under subsection (g) to have an account at a financial institution because of the application of subsection (f)(1)—
+
+&emsp;(A) will have access to such an account at a reasonable cost; and
+
+&emsp;(B) are given the same consumer protections with respect to the account as other account holders at the same financial institution.
+
+(j) For purposes of this section—
+
+&emsp;(1) The term “electronic funds transfer” means any transfer of funds, other than a transaction originated by cash, check, or similar paper instrument, that is initiated through an electronic terminal, telephone, computer, or magnetic tape, for the purpose of ordering, instructing, or authorizing a financial institution to debit or credit an account. The term includes Automated Clearing House transfers, Fed Wire transfers, transfers made at automatic teller machines, and point-of-sale terminals.
+
+&emsp;(2) The term “Federal agency” means—
+
+&emsp;&emsp;(A) an agency (as defined in section 101 of this title); and
+
+&emsp;&emsp;(B) a Government corporation (as defined in section 103 of title 5).
+
+&emsp;(3) The term “Federal payments” includes—
+
+&emsp;&emsp;(A) Federal wage, salary, and retirement payments;
+
+&emsp;&emsp;(B) vendor and expense reimbursement payments; and
+
+&emsp;&emsp;(C) benefit payments.
+
+> &emsp;Such term shall not include any payment under the Internal Revenue Code of 1986.
+
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 955; Pub. L. 98–369, div. B, title VIII, §2814, July 18, 1984, 98 Stat. 1207; Pub. L. 103–356, title IV, §402(a), Oct. 13, 1994, 108 Stat. 3412; Pub. L. 104–134, title III, §31001(x)(1), Apr. 26, 1996, 110 Stat. 1321–376.)
 
 Historical and Revision Notes
 
@@ -80,7 +130,7 @@ In subsections (b)–(f), the words “officer or employee” are substituted fo
 
 In subsections (b) and (d), the word “official” is substituted for “officer” for consistency in the revised title and with other titles of the Code. The words “issue a check payable to” are substituted for “make the payment . . . by sending to . . . a check that is drawn in favor of the organization” for clarity and consistency and to eliminate unnecessary words.
 
-In subsection (b), before clause (1), the words “Notwithstanding subsection (a) of this section or any other provision of law” are omitted as unnecessary. The words “may designate in writing not more than 3 financial organizations to which a payment of pay of the officer or employee shall be sent and the amount to be sent to each organization” are substituted for “upon the written request of an employee of the agency to whom a payment for wages or salary is to be made . . . in the form of one, two, or three checks (the number of checks . . . if more than one . . . designated by such employee” for clarity, consistency in the revised title and with other titles of the Code, and to eliminate unnecessary words.
+In subsection (b), before clause (1), the words “Notwithstanding subsection (a) of this section or any other provision of law” are omitted as unnecessary. The words “may designate in writing not more than 3 financial organizations to which a payment of pay of the officer or employee shall be sent and the amount to be sent to each organization” are substituted for “upon the written request of an employee of the agency to whom a payment for wages or salary is to be made . . . in the form of one, two, or three checks (the number ofchecks . . . if more than one . . . designated by such employee” for clarity, consistency in the revised title and with other titles of the Code, and to eliminate unnecessary words.
 
 In subsection (c), the words “(except for a financial organization designated by an officer or employee of either House of Congress)” are substituted for section 1(b)(last sentence) and (c)(last sentence) of the Act of July 19, 1975 (Pub. L. 94–57, 89 Stat. 265), because of the restatement. The words “to which such check is sent” are omitted because of the restatement.
 
@@ -92,7 +142,15 @@ Subsection (f) is substituted for 31:492(d)(1st–50th words) to eliminate unnec
 
 In subsection (g), the words “rules and” in section 1(b) and (c) of the Act of July 19, 1975 (Pub. L. 94–57, 89 Stat. 265), are omitted as surplus.
 
+#### References in Text
+
+The date of the enactment of the Debt Collection Improvement Act of 1996, referred to in subsec. (e)(1), is the date of enactment of section 31001 of Pub. L. 104–134, which was approved Apr. 26, 1996.
+
+The Internal Revenue Code of 1986, referred to in subsec. (j)(3), is classified generally to Title 26, Internal Revenue Code.
+
 #### Amendments
+
+1996—Subsecs. (e) to (j). Pub. L. 104–134 added subsecs. (e) to (g), redesignated former subsec. (e) as (h), and added subsecs. (i) and (j).
 
 1994—Pub. L. 103–356 substituted “Required direct deposit” for “Checks payable to financial organizations designated by Government officers and employees” as section catchline and amended text generally. Prior to amendment, section authorized agency officers and employees to designate not more than 3 financial organizations to which a payment of pay or other recurring payments was to be sent without charge and required the agency head to authorize issuance of checks payable to those financial organizations in the designated amounts.
 

@@ -26,7 +26,7 @@ Any applicant other than a State educational agency that submits a plan or appli
 
 &emsp;&emsp;(B) maintain such records, provide such information, and afford access to the records as the State educational agency or the Secretary may find necessary to carry out the State educational agency's or the Secretary's duties; and
 
-&emsp;(7) before the application was submitted, the applicant afforded a reasonable opportunityfor public comment on the application and has considered such comment.
+&emsp;(7) before the application was submitted, the applicant afforded a reasonable opportunity for public comment on the application and has considered such comment.
 
 #### (b) GEPA provision
 

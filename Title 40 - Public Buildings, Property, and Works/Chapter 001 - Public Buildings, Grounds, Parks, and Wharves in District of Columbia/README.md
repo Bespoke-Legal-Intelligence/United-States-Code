@@ -25,15 +25,15 @@
 | (d) | Definitions. |
 | 13<i>o.</i> | Suspension of prohibitions against use of Supreme Court grounds. |
 | [13p.](%C2%A7%2000013p%20-%20Area%20of%20Supreme%20Court%20grounds.md) | Area of Supreme Court grounds. |
-| 14 to 18a. Repealed. |  |
+| 14 to 18a. | Repealed. |
 | [19\.](%C2%A7%2000019%20-%20Supervision%20of%20public%20buildings%20and%20grounds%20in%20District%20of%20Columbia%20not%20otherwise%20provided%20for%20by%20law%3B%20eviction%20of%20trespassers.md) | Supervision of public buildings and grounds in District of Columbia not otherwise provided for by law; eviction of trespassers. |
 | 20 to 22. | Repealed or Omitted. |
 | [22a.](%C2%A7%2000022a%20-%20Heat%20for%20Corcoran%20Gallery%20of%20Art.md) | Heat for Corcoran Gallery of Art. |
 | [22b.](%C2%A7%2000022b%20-%20Heat%20for%20Board%20of%20Governors%20of%20the%20Federal%20Reserve%20System.md) | Heat for Board of Governors of the Federal Reserve System. |
 | [22c.](%C2%A7%2000022c%20-%20Rates%20for%20heat%20for%20non-Federal%20public%20buildings.md) | Rates for heat for non-Federal public buildings. |
-| 23 to 30a. Repealed or Omitted. |  |
+| 23 to 30a. | Repealed or Omitted. |
 | [31\.](%C2%A7%2000031%20-%20Use%20of%20public%20buildings%20for%20public%20ceremonies.md) | Use of public buildings for public ceremonies. |
-| 32 to 33a. Repealed or Omitted. |  |
+| 32 to 33a. | Repealed or Omitted. |
 | [34\.](%C2%A7%2000034%20-%20Rent%20of%20buildings%20in%20District%20of%20Columbia%3B%20contracts%20not%20to%20be%20made%20until%20appropriation.md) | Rent of buildings in District of Columbia; contracts not to be made until appropriation. |
 | [35\.](%C2%A7%2000035%20-%20Rent%20of%20other%20buildings.md) | Rent of other buildings. |
 | 36 to 41. | Repealed, Omitted, or Transferred. |
@@ -153,6 +153,7 @@
 | (h) | Creation of National Capital Service Area not to affect existing provisions covering buildings and grounds within Area; availability of services and facilities. |
 | (i) | Continued application of laws, rules, and regulations covering areas within National Capital Service Area. |
 | (j) | Residency within National Capital Service Area. |
+| [137\.](%C2%A7%2000137%20-%20Protection%20of%20Federal%20Government%20buildings%20in%20District%20of%20Columbia.md) | Protection of Federal Government buildings in District of Columbia. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -311,3 +312,4 @@ Right of action for death or personal injury within national park or other place
 - [&sect; 00134 - Study of final report of Joint Committee on Washington Metropolitan Problems; recommendations](%C2%A7%2000134%20-%20Study%20of%20final%20report%20of%20Joint%20Committee%20on%20Washington%20Metropolitan%20Problems%3B%20recommendations.md)
 - [&sect; 00135 - &#8220;Washington metropolitan region&#8221; defined](%C2%A7%2000135%20-%20%E2%80%9CWashington%20metropolitan%20region%E2%80%9D%20defined.md)
 - [&sect; 00136 - National Capital Service Area](%C2%A7%2000136%20-%20National%20Capital%20Service%20Area.md)
+- [&sect; 00137 - Protection of Federal Government buildings in District of Columbia](%C2%A7%2000137%20-%20Protection%20of%20Federal%20Government%20buildings%20in%20District%20of%20Columbia.md)

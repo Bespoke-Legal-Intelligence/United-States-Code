@@ -1,6 +1,6 @@
 ### §316. Detail of employees of Government Printing Office to other Government establishments
 
-An employee of the Government Printing Office may not be detailed to duties not pertainingto the work of public printing and binding in an executive department or other Government establishment unless expressly authorized by law.
+An employee of the Government Printing Office may not be detailed to duties not pertaining to the work of public printing and binding in an executive department or other Government establishment unless expressly authorized by law.
 
 (Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1242.)
 

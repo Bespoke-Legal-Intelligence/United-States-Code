@@ -118,7 +118,7 @@ Sec. 2. The Congress makes the following findings:
 
 &emsp;“(7) The initial results of one project—an epidemiological study, conducted by the United States Air Force School of Aerospace Medicine, of the health status of the ‘Ranch Hand’ veterans who carried out the loading and aerial spraying of herbicides containing dioxin in Vietnam and in the process came into direct skin contact with such herbicides in their most concentrated liquid form—were released on February 24, 1984, and contained the conclusion ‘that there is insufficient evidence to support a cause and effect relationship between herbicide exposure and adverse health in the Ranch Hand group at this time’.
 
-&emsp;“(8) The ‘film badges’ which were originally issued to members of the Armed Forces in connection withthe atmospheric nuclear test program have previously constituted a primary source of dose information for veterans (and survivors of veterans) filing claims for Veterans’ Administration \[now Department of Veterans Affairs\] disability compensation or dependency and indemnity compensation in connection with exposure to radiation.
+&emsp;“(8) The ‘film badges’ which were originally issued to members of the Armed Forces in connection with the atmospheric nuclear test program have previously constituted a primary source of dose information for veterans (and survivors of veterans) filing claims for Veterans’ Administration \[now Department of Veterans Affairs\] disability compensation or dependency and indemnity compensation in connection with exposure to radiation.
 
 &emsp;“(9) These film badges often provide an incomplete measure of radiation exposure, since they were not capable of recording inhaled, ingested, or neutron doses (although the Defense Nuclear Agency currently has the capability to reconstruct individual estimates of such doses), were not issued to most of the participants in nuclear tests, often provided questionable readings because they were shielded during the detonation, and were worn for only limited periods during and after each nuclear detonation.
 
@@ -146,7 +146,7 @@ Sections 5–7 of Pub. L. 98–542, as amended by Pub. L. 100–321, §2(c), May
 
 “
 
-Sec. 5. (a) In carrying out the responsibilities of the Administrator of Veterans’ Affairs \[now Secretary of Veterans Affairs\] under section 1154(a)(2) \[formerly 354(a)(2)\] of title 38, United States Code, and in order to promote consistency in claims processing and decisions, the Administrator shall prescribe regulations to—
+Sec. 5. (a) In carrying out the responsibilities of the Administrator of Veterans’ Affairs \[now Secretary of Veterans Affairs\] under section 1154(a)(2) \[formerly354(a)(2)\] of title 38, United States Code, and in order to promote consistency in claims processing and decisions, the Administrator shall prescribe regulations to—
 
 &emsp;“(1) establish guidelines and (where appropriate) standards and criteria for the resolution of claims for benefits under laws administered by the Veterans’ Administration \[now Department of Veterans Affairs\] where the criteria for eligibility for a benefit include a requirement that a death or disability be service connected and the claim of service connection is based on a veteran's exposure during service in connection with such veteran's participation in atmospheric nuclear tests or with the American occupation of Hiroshima or Nagasaki, Japan, prior to July 1, 1946, to ionizing radiation from the detonation of a nuclear device; and
 
@@ -184,7 +184,7 @@ Sec. 5. (a) In carrying out the responsibilities of the Administrator of Veteran
 
 Sec. 6. (a) The advisory committee referred to in subsections (b) and (c) of section 5, to be known as the Veterans’ Advisory Committee on Environmental Hazards (hereinafter in this section referred to as the ‘Committee’) shall consist of nine members appointed by the Administrator of Veterans’ Affairs \[now Secretary of Veterans Affairs\] after requesting and considering recommendations from veteran organizations, including—
 
-&emsp;“(1) six individuals (of whom none may be members of the Armed Forces on active duty or employees of the Veterans’ Administration \[now Department of Veterans Affairs\] or the Department of Defense and not more than three may be employees of other Federal departments or agencies), appointed, after requesting and considering the recommendations of the heads of Federal entities with particular expertise in biomedical and environmental science, including—
+&emsp;“(1) six individuals (of whom none may be members of the Armed Forces on active duty or employees of the Veterans’ Administration \[now Department of Veterans Affairs\] or the Department of Defense and not more than three may be employees of other Federal departments or agencies), appointed, after requesting and considering the recommendations of theheads of Federal entities with particular expertise in biomedical and environmental science, including—
 
 &emsp;&emsp;“(A) three individuals who are recognized medical or scientific authorities in fields pertinent to understanding the health effects of exposure to ionizing radiation; and
 

@@ -28,7 +28,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 42 U.S.C. 1366.
 
@@ -42,7 +44,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-<b>1976</b>—Subsec. (a). Pub. L. 94–566 substituted provisions that each State is entitled to be paid by the United States with respect to each individual whose base period wages included Federal wages an amount which shall bear the same ratio to the total amount of compensation paid to such individual as the amount of his Federal wages in his base period bears to the total amount of his base period wages for provisions that each State is entitled to be paid by the United States an amount equal to the additional cost to the State of payments of compensation in accordance with an agreement under this subchapter which would not have been made by the State but for the agreement.
+1976—Subsec. (a). Pub. L. 94–566 substituted provisions that each State is entitled to be paid by the United States with respect to each individual whose base period wages included Federal wages an amount which shall bear the same ratio to the total amount of compensation paid to such individual as the amount of his Federal wages in his base period bears to the total amount of his base period wages for provisions that each State is entitled to be paid by the United Statesan amount equal to the additional cost to the State of payments of compensation in accordance with an agreement under this subchapter which would not have been made by the State but for the agreement.
 
 #### Effective Date of 1976 Amendment
 

@@ -6,9 +6,9 @@
 
 (June 19, 1934, ch. 652, title V, §506, formerly §507, as added Aug. 13, 1954, ch. 735, §3, 68 Stat. 729; renumbered §506, Dec. 8, 1980, Pub. L. 96–507, §1, 94 Stat. 2747.)
 
-#### References in Text
+#### Prior Provisions
 
-For definition of Great Lakes Agreement, referred to in text, see section 153(ff) of this title and Great Lakes Agreement note set out under that section.
+A prior section 506 of act June 19, 1934, ch. 652, was classified to section 506 of this title prior to repeal by Pub. L. 96–507.
 
 #### Effective Date
 
@@ -16,7 +16,7 @@ Section 6 of act Aug. 13, 1954, provided that: “This Act \[enacting this secti
 
 #### Federal Rules of Civil Procedure
 
-Admiralty and maritime rules of practice (which included libel procedures) were superseded, and civil and admiralty procedures in United States district courts were unified, effective July 1, 1966, see rule 1 and Supplemental Rules for Certain Admiralty and Maritime Claims, Title 28, Appendix, Judiciary and Judicial Procedure.
+Admiralty and maritime rules of practice (which included libel procedures) were superseded, and civil andadmiralty procedures in United States district courts were unified, effective July 1, 1966, see rule 1 and Supplemental Rules for Certain Admiralty and Maritime Claims, Title 28, Appendix, Judiciary and Judicial Procedure.
 
 #### Section Referred to in Other Sections
 

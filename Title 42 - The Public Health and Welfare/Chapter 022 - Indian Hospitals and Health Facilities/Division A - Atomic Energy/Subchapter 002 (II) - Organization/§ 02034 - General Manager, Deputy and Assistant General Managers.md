@@ -4,7 +4,7 @@ There is established within the Commission—
 
 #### (a) General Manager; chief executive officer; duties; appointment; removal
 
-&emsp;a General manager, who shall be the chief executive officer of the Commission, and whoshall discharge such of the administrative and executive functions of the Commission as the Commission may direct. The General Manager shall be appointed by the Commission, shall serve at the pleasure of the Commission and shall be removable by the Commission.
+&emsp;a General manager, who shall be the chief executive officer of the Commission, and who shall discharge such of the administrative and executive functions of the Commission as the Commission may direct. The General Manager shall be appointed by the Commission, shall serve at the pleasure of the Commission and shall be removable by the Commission.
 
 #### (b) Deputy General Manager; duties; appointment; removal
 

@@ -48,7 +48,9 @@
 | (a) | Civil penalty; appellate review; action to recover civil penalty; sovereign immunity; equitable remedies. |
 | (b) | Atomic energy licensing requirements. |
 | [7921\.](Subchapter%20001%20%28I%29%20-%20Remedial%20Action%20Program/%C2%A7%2007921%20-%20Public%20participation%3B%20public%20hearings.md) | Public participation; public hearings. |
-| [7922\.](Subchapter%20001%20%28I%29%20-%20Remedial%20Action%20Program/%C2%A7%2007922%20-%20Termination%20of%20authority%20of%20Secretary%3B%20groundwater%20restoration%20activities%3B%20annual%20Department%20of%20Energy%20authorizations%3B%20appropriations%E2%80%A6.md) | Termination of authority of Secretary; groundwater restoration activities; annual Department of Energy authorizations; appropriations available for expenditure. |
+| [7922\.](Subchapter%20001%20%28I%29%20-%20Remedial%20Action%20Program/%C2%A7%2007922%20-%20Termination%20of%20authority%20of%20Secretary.md) | Termination of authority of Secretary. |
+| (a) | Exceptions; “byproduct material” defined. |
+| (b) | Authorization of appropriations. |
 | [7923\.](Subchapter%20001%20%28I%29%20-%20Remedial%20Action%20Program/%C2%A7%2007923%20-%20Limitation%20of%20contractual%20authority.md) | Limitation of contractual authority. |
 | [7924\.](Subchapter%20001%20%28I%29%20-%20Remedial%20Action%20Program/%C2%A7%2007924%20-%20Reports%20to%20Congress.md) | Reports to Congress. |
 | (a) | Information; consultations; separate official views; partial report concerning uranium mill tailings provisions. |

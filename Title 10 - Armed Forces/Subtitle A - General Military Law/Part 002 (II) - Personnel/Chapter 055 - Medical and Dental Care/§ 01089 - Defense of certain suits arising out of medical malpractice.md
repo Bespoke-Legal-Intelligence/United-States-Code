@@ -22,7 +22,7 @@
 
 &emsp;(4) the Secretary of Defense, in all other cases.
 
-(Added Pub. L. 94–464, §1(a), Oct. 8, 1976, 90 Stat. 1985; amended Pub. L. 97–124, §2, Dec. 29, 1981, 95 Stat. 1666; Pub. L. 98–94, title IX, §934(a)–(c), Sept. 24, 1983, 97 Stat. 651, 652; Pub. L. 100–180, div. A, title XII, §1231(18)(A), Dec. 4, 1987, 101 Stat. 1161; Pub. L. 101–510, div. A, title XV, §1533(a)(1), Nov. 5, 1990, 104 Stat. 1733.)
+(Added Pub. L. 94–464, §1(a), Oct. 8, 1976, 90 Stat. 1985; amended Pub. L. 97–124, §2, Dec. 29, 1981, 95 Stat. 1666; Pub. L. 98–94, title IX, §934(a)–(c), Sept. 24, 1983, 97 Stat. 651, 652; Pub. L. 100–180,div. A, title XII, §1231(18)(A), Dec. 4, 1987, 101 Stat. 1161; Pub. L. 101–510, div. A, title XV, §1533(a)(1), Nov. 5, 1990, 104 Stat. 1733.)
 
 #### Amendments
 

@@ -86,7 +86,7 @@ In the case of an eligible woman, the services referred to in subsection (a)(3) 
 
 &emsp;&emsp;(i) the applicant for the award will provide the service directly, and the applicant has entered into a participation agreement under the State plan and is qualified to receive payments under such plan; or
 
-&emsp;&emsp;(ii) the applicant will enter into an agreement with a public or nonprofit private entity under which the entity will provide the service, and the entity has entered into sucha participation agreement plan and is qualified to receive such payments.
+&emsp;&emsp;(ii) the applicant will enter into an agreement with a public or nonprofit private entity under which the entity will provide the service, and the entity has entered into such a participation agreement plan and is qualified to receive such payments.
 
 &emsp;(B)(i) In the case of an entity making an agreement pursuant to subparagraph (A)(ii) regarding the provision of services, the requirement established in such subparagraph regarding a participation agreement shall be waived by the Director if the entity does not, in providing health care services, impose a charge or accept reimbursement available from any third-party payor, including reimbursement under any insurance policy or under any Federal or State health benefits plan.
 
@@ -124,7 +124,7 @@ A funding agreement for an award under subsection (a) of this section for an app
 
 #### (i) Continuing education
 
-A funding agreement for an award under subsection (a) of this section is that the applicant involved will provide for continuing education in treatment services for the individuals who will provide treatment in the program to be operated by the applicant pursuant to such subsection.
+A funding agreement for an award under subsection (a) of this section is that the applicant involved will provide for continuing education in treatment services for the individuals whowill provide treatment in the program to be operated by the applicant pursuant to such subsection.
 
 #### (j) Imposition of charges
 
@@ -198,7 +198,7 @@ For purposes of this section:
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (e)(2)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XIX of the Act is classified generally to subchapter XIX (§1396 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+The Social Security Act, referred to in subsec. (e)(2)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XIX of the Act is classified generally to subchapter XIX (§1396 et seq.) of chapter 7 of this title.For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
 #### Prior Provisions
 

@@ -18,5 +18,5 @@ Historical and Revision Notes
 
 Oct. 20, 1976, Pub. L. 94–565, §7, 90 Stat. 2665.
 
-The words “to the Secretary of the Interior” are added for clarity. The words “<i>Provided,</i> That, notwithstanding any other provision of this chapter” and “in advance” are omitted as unnecessary.
+The words “to the Secretary of the Interior” are added for clarity. The words “<i>Provided</i>, That, notwithstanding any other provision of this chapter” and “in advance” are omitted as unnecessary.
 

@@ -14,7 +14,7 @@ Civil Penalty.—(1) A person that violates section 32506(a) of this title is li
 
 (b)
 
-Criminal Penalty.—A person knowingly and willfully violating section 32506(a)(1) of this title after receiving a notice of noncompliance from the Secretary shall be fined under title 18, imprisoned for not more than one year, or both. If the person is a corporation, the penalties of this subsection also apply to a director, officer,or individual agent of the corporation who, with knowledge of the Secretary's notice, knowingly and willfully authorizes, orders, or performs an act that is any part of the violation.
+Criminal Penalty.—A person knowingly and willfully violating section 32506(a)(1) of this title after receiving a notice of noncompliance from the Secretary shall be fined under title 18, imprisoned for not more than one year, or both. If the person is a corporation, the penalties of this subsection also apply to a director, officer, or individual agent of the corporation who, with knowledge of the Secretary's notice, knowingly and willfully authorizes, orders, or performs an act that is any part of the violation.
 
 (c)
 
@@ -42,7 +42,9 @@ Venue.—A civil action under subsection (a) or (c) of this section may be broug
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -79,4 +81,6 @@ In subsection (c)(1), the words “may bring a civil action” are substituted f
 In subsection (d), the words “the defendant may demand a jury trial” are substituted for “trial shall be by the court, or, upon demand of the accused, by a jury” to eliminate unnecessary words and for consistency in the revised title.
 
 In subsection (e), the words “any act or transaction constituting” are omitted as surplus. The word “resides” is substituted for “is an inhabitant” for consistency and to eliminate unnecessary words.
+
+start
 

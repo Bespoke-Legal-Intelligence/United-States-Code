@@ -52,10 +52,10 @@
 | (i) | Use of United States private venture capital. |
 | (j) | Financial instruments for individual investment in Poland. |
 | (k) | Nonapplicability of other laws. |
-| (<i>l)</i> | Limitation on payments to Enterprise Fund personnel. |
+| (<i>l</i>) | Limitation on payments to Enterprise Fund personnel. |
 | (m) | Independent private audits. |
 | (n) | GAO audits. |
-| (<i>o)</i> | Recordkeeping requirements. |
+| (<i>o</i>) | Recordkeeping requirements. |
 | (p) | Annual reports. |
 | [5422\.](Subchapter%20002%20%28II%29%20-%20Private%20Sector%20Development/%C2%A7%2005422%20-%20Labor%20market%20transition%20in%20Poland%20and%20Hungary.md) | Labor market transition in Poland and Hungary. |
 | (a) | Technical assistance. |

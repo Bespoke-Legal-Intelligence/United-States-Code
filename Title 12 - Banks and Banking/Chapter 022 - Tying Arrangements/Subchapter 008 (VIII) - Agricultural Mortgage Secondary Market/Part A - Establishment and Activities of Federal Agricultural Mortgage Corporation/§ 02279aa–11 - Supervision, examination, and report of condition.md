@@ -60,7 +60,7 @@ The Farm Credit Administration shall assess the Corporation for the cost to the 
 
 #### (e) “Affiliate” defined
 
-As used in this subchapter, the term “affiliate” shall mean an entity effectively controlled or owned by the Corporation, except that such term shall not include a certified facility or an originator (as defined in paragraphs (3) and (7), respectively, of section 2279aa of this title).
+As used in this subchapter, the term “affiliate” shall mean an entity effectively controlled or owned by the Corporation, except that such term shall not include an originator (as defined in section 2279aa(7) of this title).
 
 #### (f) Employees and personnel
 
@@ -70,9 +70,11 @@ The Farm Credit Administration Board shall ensure that—
 
 &emsp;(2) the supervision of the powers, functions, and duties of the Corporation is performed, to the extent practicable, by personnel who are not responsible for the supervision of the banks and associations of the Farm Credit System.
 
-(Pub. L. 92–181, title VIII, §8.11, as added Pub. L. 100–233, title VII, §702, Jan. 6, 1988, 101 Stat. 1702; amended Pub. L. 101–624, title XVIII, §1840, Nov. 28, 1990, 104 Stat. 3835; Pub. L. 102–237, title V, §503(a), Dec. 13, 1991, 105 Stat. 1870; Pub. L. 102–552, title III, §308(b)(2), Oct. 28, 1992, 106 Stat. 4116.)
+(Pub. L. 92–181, title VIII, §8.11, as added Pub. L. 100–233, title VII, §702, Jan. 6, 1988, 101 Stat. 1702; amended Pub. L. 101–624, title XVIII, §1840, Nov. 28, 1990, 104 Stat. 3835; Pub. L. 102–237, title V, §503(a), Dec. 13, 1991, 105 Stat. 1870; Pub. L. 102–552, title III, §308(b)(2), Oct. 28, 1992, 106 Stat. 4116; Pub. L. 104–105, title I, §111, Feb. 10, 1996, 110 Stat. 165.)
 
 #### Amendments
+
+1996—Subsec. (e). Pub. L. 104–105 substituted “section 2279aa(7) of this title” for “paragraphs (3) and (7), respectively, of section 2279aa of this title” and struck out “a certified facility or” before “an originator”.
 
 1992—Subsec. (a)(1)(B)(ii). Pub. L. 102–552 substituted “December 13, 1991” for “the date of enactment of this section”.
 
@@ -96,5 +98,5 @@ Subsec. (e). Pub. L. 101–624, §1840(2), added subsec. (e).
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2279aa–3, 2279bb of this title.
+This section is referred to in sections 2279aa–3, 2279bb, 2279cc of this title.
 

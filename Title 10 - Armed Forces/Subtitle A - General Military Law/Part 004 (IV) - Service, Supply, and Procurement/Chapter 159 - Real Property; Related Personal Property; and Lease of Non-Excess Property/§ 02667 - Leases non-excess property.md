@@ -26,7 +26,7 @@
 
 &emsp;(i) amounts paid for utilities and services furnished lessees by the Secretary; and
 
-&emsp;(ii) money rentals referred to in paragraph (4).
+&emsp;(ii) money rentals referred to in paragraph (4) or (5).
 
 (B) Sums deposited in a military department's special account pursuant to subparagraph (A) shall be available to such military department, as provided in appropriation Acts, as follows:
 
@@ -36,13 +36,15 @@
 
 (2) Payments for utilities and services furnished lessees pursuant to leases entered into under this section shall be credited to the appropriation account from which the cost of furnishing the utilities and services was paid.
 
-(3) As part of the request for authorizations of appropriations submitted to the Committees on Armed Services of the Senate and House of Representatives for each fiscal year, the Secretary of Defense shall include—
+(3) As part of the request for authorizations of appropriations submitted to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives for each fiscal year, the Secretary of Defense shall include—
 
 &emsp;(A) an accounting of the receipt and use of all money rentals that were deposited and expended under this subsection during the fiscal year preceding the fiscal year in which the request is made; and
 
 &emsp;(B) a detailed explanation of each lease entered into, and of each amendment made to existing leases, during such preceding fiscal year.
 
 (4) Money rentals received by the United States directly from a lease under this section for agricultural or grazing purposes of lands under the control of the Secretary of a military department (other than lands acquired by the United States for flood control or navigation purposes or any related purpose, including the development of hydroelectric power) may be retained and spent by the Secretary concerned in such amounts as the Secretary considers necessary to cover the administrative expenses of leasing for such purposes and to cover the financing of multiple-land use management programs at any installation under the jurisdiction of the Secretary.
+
+(5) Money rentals received by the United States from a lease under subsection (f) shall be deposited into the account established under section 2906(a) of the Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of Public Law 101–510; 10 U.S.C. 2687 note).
 
 (e) The interest of a lessee of property leased under this section may be taxed by State or local governments. A lease under this section shall provide that, if and to the extent that the leased property is later made taxable by State or local governments under an Act of Congress, the lease shall be renegotiated.
 
@@ -54,7 +56,19 @@
 
 &emsp;(B) the fair market value of the lease is (i) unobtainable, or (ii) not compatible with such public benefit.
 
-(3) Before entering into any lease under this subsection, the Secretary shall consult with the Administrator of the Environmental Protection Agency in order to determine whether the environmental condition of the property proposedfor leasing is such that the lease of the property is advisable. The Secretary and the Administrator shall enter into a memorandum of understanding setting forth procedures for carrying out the determinations under this paragraph.
+(3) Before entering into any lease under this subsection, the Secretary shall consult with the Administrator of the Environmental Protection Agency in order to determine whether the environmental condition of the property proposed for leasing is such that the lease of the property is advisable. The Secretary and the Administrator shall enter into a memorandum of understanding setting forth procedures for carrying out the determinations under this paragraph.
+
+(4) The Secretary concerned may accept under subsection (b)(5) services of a lessee for an entire installation to be closed or realigned under a base closure law, or for any part of such installation, without regard to the requirement in subsection (b)(5) that a substantial part of the installation be leased.
+
+(5)(A) Notwithstanding the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.), the scope of any environmental impact analysis necessary to support an interim lease of property under this subsection shall be limited to the environmental consequences of activities authorized under the proposed lease and the cumulative impacts of other past, present, and reasonably foreseeable future actions during the period of the proposed lease.
+
+(B) Interim leases entered into under this subsection shall be deemed not to prejudice the final disposal decision with respect to the property, even if final disposal of the property is delayed until completion of the term of the interim lease. An interim lease under this subsection shall not be entered into without prior consultation with the redevelopment authority concerned.
+
+(C) Subparagraphs (A) and (B) shall not apply to an interim lease under this subsection if authorized activities under the lease would—
+
+&emsp;(i) significantly affect the quality of the human environment; or
+
+&emsp;(ii) irreversibly alter the environment in a way that would preclude any reasonable disposal alternative of the property concerned.
 
 (g) In this section, the term “base closure law” means each of the following:
 
@@ -64,7 +78,7 @@
 
 &emsp;(3) Section 2687 of this title.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 150; Oct. 7, 1975, Pub. L. 94–107, title VI, §607(7), 89 Stat. 566; Sept. 14, 1976, Pub. L. 94–412, title V, §501(b), 90 Stat. 1258; Dec. 12, 1980, Pub. L. 96–513, title V, §511(92), 94 Stat. 2928; Oct. 12, 1982, Pub. L. 97–295, §1(34), 96 Stat. 1296; Oct. 15, 1982, Pub. L. 97–321, title VIII, §803, 96 Stat. 1572; Nov. 5, 1990, Pub. L. 101–510, div. B, title XXVIII, §2806, 104 Stat. 1787; Dec. 5, 1991, Pub. L. 102–190, div. B, title XXVIII, §2862, 105 Stat. 1559; Oct. 23, 1992, Pub. L. 102–484, div. B, title XXVIII, §2851, 106 Stat. 2625; Nov. 30, 1993, Pub. L. 103–160, div. B, title XXIX, §2906, 107 Stat. 1920.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 150; Oct. 7, 1975, Pub. L. 94–107, title VI, §607(7), 89 Stat. 566; Sept. 14, 1976, Pub. L. 94–412, title V, §501(b), 90 Stat. 1258; Dec. 12, 1980, Pub. L. 96–513, title V, §511(92), 94 Stat. 2928; Oct. 12, 1982, Pub. L. 97–295, §1(34), 96 Stat. 1296; Oct. 15, 1982, Pub. L. 97–321, title VIII, §803, 96 Stat. 1572; Nov. 5, 1990, Pub. L. 101–510, div. B, title XXVIII, §2806, 104 Stat. 1787; Dec. 5, 1991, Pub. L. 102–190, div. B, title XXVIII, §2862, 105 Stat. 1559; Oct. 23, 1992, Pub. L. 102–484, div. B, title XXVIII, §2851, 106 Stat. 2625; Nov. 30, 1993, Pub. L. 103–160, div. B, title XXIX, §2906, 107 Stat. 1920; Feb. 10, 1996, Pub. L. 104–106, div. A, title XV, §1502(a)(1), div. B, title XXVIII, §§2831(a), 2832, 2833, 110 Stat. 502, 558, 559.)
 
 Historical and Revision Notes
 
@@ -75,6 +89,10 @@ Historical and Revision Notes
 <i>Source (Statutes at Large)</i>
 
 2667(a)
+
+&nbsp;
+
+&nbsp;
 
 2667(b)
 
@@ -140,7 +158,21 @@ In subsection (c), the words “This section does” are substituted for the wor
 
 In subsection (e), the words “of property” are inserted for clarity. The words “leased under” are substituted for the words “made or created pursuant to”. The words “may be taxed by State or local governments” are substituted for the words “shall be made subject to State or local taxation”. The last sentence is substituted for the last sentence of 5:626s–6, 10:1270d, and 34:522e.
 
+#### References in Text
+
+The National Environmental Policy Act of 1969, referred to in subsec. (f)(5)(A), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+
 #### Amendments
+
+1996—Subsec. (d)(1)(A)(ii). Pub. L. 104–106, §2831(a)(1), inserted “or (5)” after “paragraph (4)”.
+
+Subsec. (d)(3). Pub. L. 104–106, §1502(a)(1), substituted “Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives” for “Committees on Armed Services of the Senate and House of Representatives”.
+
+Subsec. (d)(5). Pub. L. 104–106, §2831(a)(2), added par. (5).
+
+Subsec. (f)(4). Pub. L. 104–106, §2832, added par. (4).
+
+Subsec. (f)(5). Pub. L. 104–106, §2833, added par. (5).
 
 1993—Subsec. (f). Pub. L. 103–160, §2906(a), amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “Notwithstanding clause (3) of subsection (a), real property and associated personal property, which have been determined excess as the result of a defense installation realignment or closure, may be leased to State or local governments pending final disposition of such property if—
 
@@ -178,10 +210,6 @@ Subsec. (f). Pub. L. 96–513, §511(92)(D), substituted “the Secretary” for
 
 1975—Subsec. (f). Pub. L. 94–107 added subsec. (f).
 
-#### Change of Name
-
-Committee on Armed Services of House of Representatives treated as referring to Committee on National Security of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
-
 #### Effective Date of 1980 Amendment
 
 Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under section 101 of this title.
@@ -196,5 +224,5 @@ Pub. L. 96–533, title I, §109(a)–(e), Dec. 16, 1980, 94 Stat. 3137, provide
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 16 section 670a; title 22 section 2796.
+This section is referred to in sections 2490a, 2878 of this title; title 16 section 670a; title 22 section 2796.
 

@@ -8,6 +8,8 @@
 | [1702\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2001702%20-%20Presumption%20relating%20to%20psychosis.md) | Presumption relating to psychosis. |
 | [1703\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2001703%20-%20Contracts%20for%20hospital%20care%20and%20medical%20services%20in%20non-Department%20facilities.md) | Contracts for hospital care and medical services in non-Department facilities. |
 | [1704\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2001704%20-%20Preventive%20health%20services%20annual%20report.md) | Preventive health services: annual report. |
+| [1705\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2001705%20-%20Management%20of%20health%20care%20patient%20enrollment%20system.md) | Management of health care: patient enrollment system. |
+| [1706\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2001706%20-%20Management%20of%20health%20care%20other%20requirements.md) | Management of health care: other requirements. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -17,7 +19,7 @@
 | :--- | ---: |
 | [1710\.](Subchapter%20002%20%28II%29%20-%20Hospital%2C%20Nursing%20Home%2C%20or%20Domiciliary%20Care%20and%20Medical%20Treatment/%C2%A7%2001710%20-%20Eligibility%20for%20hospital%2C%20nursing%20home%2C%20and%20domiciliary%20care.md) | Eligibility for hospital, nursing home, and domiciliary care. |
 | [1711\.](Subchapter%20002%20%28II%29%20-%20Hospital%2C%20Nursing%20Home%2C%20or%20Domiciliary%20Care%20and%20Medical%20Treatment/%C2%A7%2001711%20-%20Care%20during%20examinations%20and%20in%20emergencies.md) | Care during examinations and in emergencies. |
-| [1712\.](Subchapter%20002%20%28II%29%20-%20Hospital%2C%20Nursing%20Home%2C%20or%20Domiciliary%20Care%20and%20Medical%20Treatment/%C2%A7%2001712%20-%20Eligibility%20for%20outpatient%20services.md) | Eligibility for outpatient services. |
+| [1712\.](Subchapter%20002%20%28II%29%20-%20Hospital%2C%20Nursing%20Home%2C%20or%20Domiciliary%20Care%20and%20Medical%20Treatment/%C2%A7%2001712%20-%20Dental%20care%3B%20drugs%20and%20medicines%20for%20certain%20disabled%20veterans%3B%20vaccines.md) | Dental care; drugs and medicines for certain disabled veterans; vaccines. |
 | [1712A.](Subchapter%20002%20%28II%29%20-%20Hospital%2C%20Nursing%20Home%2C%20or%20Domiciliary%20Care%20and%20Medical%20Treatment/%C2%A7%2001712A%20-%20Eligibility%20for%20readjustment%20counseling%20and%20related%20mental%20health%20services.md) | Eligibility for readjustment counseling and related mental health services. |
 | [1712B.](Subchapter%20002%20%28II%29%20-%20Hospital%2C%20Nursing%20Home%2C%20or%20Domiciliary%20Care%20and%20Medical%20Treatment/%C2%A7%2001712B%20-%20Counseling%20for%20former%20prisoners%20of%20war.md) | Counseling for former prisoners of war. |
 | [1713\.](Subchapter%20002%20%28II%29%20-%20Hospital%2C%20Nursing%20Home%2C%20or%20Domiciliary%20Care%20and%20Medical%20Treatment/%C2%A7%2001713%20-%20Medical%20care%20for%20survivors%20and%20dependents%20of%20certain%20veterans.md) | Medical care for survivors and dependents of certain veterans. |
@@ -95,6 +97,8 @@
 
 #### Amendments
 
+1996—Pub. L. 104–262, title I, §§101(c)(2)(B), 104(a)(2), Oct. 9, 1996, 110 Stat. 3179, 3184, added items 1705 and 1706 and substituted “Dental care; drugs and medicines for certain disabled veterans; vaccines” for “Eligibility for outpatient services” in item 1712.
+
 1994—Pub. L. 103–452, title I, §101(f)(2)(B), Nov. 2, 1994, 108 Stat. 4784, substituted “and treatment” for “to women veterans” in item 1720D.
 
 1992—Pub. L. 102–585, title I, §102(a)(2), title V, §§512(b), 514(b), Nov. 4, 1992, 106 Stat. 4946, 4958, added items 1704 and 1720D and struck out subchapter VII heading “PREVENTIVE HEALTH-CARE SERVICES PILOT PROGRAM” and items 1761 “Purpose”, 1762 “Definition”, 1763 “Preventive health-care services”, and 1764 “Reports”.
@@ -121,7 +125,7 @@ Pub. L. 99–272, title XIX, §§19011(c)(2), 19012(b)(2), Apr. 7, 1986, 100 Sta
 
 1982—Pub. L. 97–295, §4(15), Oct. 12, 1982, 96 Stat. 1306, substituted “Hospital care, medical services, and nursing home care abroad” for “Hospital care and medical services abroad” in item 624.
 
-1981—Pub. L. 97–72, title I, §§106(a)(2), 107(c)(2), (d)(2), Nov. 3, 1981, 95 Stat. 1051, 1052, 1053, added item 629, substituted “HOSPITAL CARE AND MEDICAL TREATMENT FOR VETERANS IN THE REPUBLIC OF THE PHILIPPINES” for “HOSPITAL AND MEDICAL CARE FOR COMMONWEALTH OF THE PHILIPPINES ARMY VETERANS” in item relating to subchapter IV, and substituted “Contracts and grants to provide for the care and treatment of United States veterans by theVeterans Memorial Medical Center” for “Contracts and grants to provide hospital care, medical services and nursing home care” in item 632.
+1981—Pub. L. 97–72, title I, §§106(a)(2), 107(c)(2), (d)(2), Nov. 3, 1981, 95 Stat. 1051, 1052, 1053, added item 629, substituted “HOSPITAL CARE AND MEDICAL TREATMENT FOR VETERANS IN THE REPUBLIC OF THE PHILIPPINES” for “HOSPITAL AND MEDICAL CARE FOR COMMONWEALTH OF THE PHILIPPINES ARMY VETERANS” in item relating to subchapter IV, and substituted “Contracts and grants to provide for the care and treatment of United States veterans by the Veterans Memorial Medical Center” for “Contracts and grants to provide hospital care, medical services and nursing home care” in item 632.
 
 1980—Pub. L. 96–330, title IV, §401(b), Aug. 26, 1980, 94 Stat. 1051, substituted “Evidence of inability to defray necessary expenses” for “Statement under oath” in item 622.
 
@@ -129,7 +133,7 @@ Pub. L. 99–272, title XIX, §§19011(c)(2), 19012(b)(2), Apr. 7, 1986, 100 Sta
 
 1977—Pub. L. 95–62, §4(b), July 5, 1977, 91 Stat. 263, struck out item 644 “Authorization of appropriations”.
 
-1976—Pub. L. 94–581, title II, §§202(a), 203(b), Oct. 21, 1976, 90 Stat. 2855, 2856, inserted “NURSING HOME,” in chapter heading, and, in analysis of subchapter headings and section catchlines, inserted “, NURSING HOME” in item for subchapter II, inserted “, nursing home” in item 610, substituted “Care” for “Hospitalization” in item 611, and inserted “AND NURSING HOME” in item for subchapter III.
+1976—Pub. L. 94–581, title II, §§202(a), 203(b), Oct. 21, 1976, 90 Stat. 2855, 2856, inserted “NURSING HOME,” in chapter heading, and, in analysis of subchapter headings and section catchlines, inserted “, NURSING HOME” in item for subchapter II, inserted “, nursing home” in item 610, substituted “Care” for “Hospitalization” in item 611, and inserted “AND NURSING HOME” in item for subchapter III.
 
 1973—Pub. L. 93–82, title I, §§103(c), 106(b), 107(b), 109(b), Aug. 2, 1973, 87 Stat. 182, 184, 186, 187, substituted “Medical care for survivors and dependents of certain veterans” and “Fitting and training in use of prosthetic appliances; seeing-eye dogs” for “Fitting and training in use of prosthetic appliances” and “Seeing-eye dogs” in items 613 and 614 respectively, substituted “natural disaster” for “fire” in item 626, added item 628, substituted “Assistance to the Republic of the Philippines” and “Contracts and grants to provide hospital care, medical services and nursing home care” for “Grants to the Republic of the Philippines” and “Modification of agreement with the Republic of the Philippines effectuating the Act of July 1, 1948” in items 631 and 632, respectively, and added “SUBCHAPTER VI—SICKLE CELL ANEMIA” comprising items 651 to 654.
 
@@ -153,7 +157,7 @@ Third party tort liability to United States for hospital and medical care, excep
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 106, 111, 521, 3104, 3115, 3485, 3903, 5315, 5503, 7333, 8110, 8153 of this title; title 31 section 3803; title 42 section 2651.
+This chapter is referred to in sections 106, 111, 521, 3104, 3115, 3485, 3903, 5315, 5503, 7333, 8107, 8153 of this title; title 31 section 3803; title 42 section 2651.
 
 
 ---

@@ -10,7 +10,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 5 U.S.C. 1045(e).
 
@@ -26,5 +28,5 @@ A prior section 591 was renumbered section 581 of this title.
 
 #### Amendments
 
-<b>1992</b>—Pub. L. 102–354 renumbered section 571 of this title as this section.
+1992—Pub. L. 102–354 renumbered section 571 of this title as this section.
 

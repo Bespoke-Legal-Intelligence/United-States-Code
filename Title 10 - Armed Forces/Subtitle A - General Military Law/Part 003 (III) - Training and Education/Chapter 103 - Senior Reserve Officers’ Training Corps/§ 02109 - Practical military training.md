@@ -12,9 +12,19 @@
 
 &emsp;(4) use any member of, and designated applicants for membership in, an armed force, or any employee of the department, under his jurisdiction, and such property of the United States as he considers necessary, for the training and administration of members of, and designated applicants for membership in, the program at the places designated for training or practice cruises.
 
-(Added Pub. L. 88–647, title II, §201(1), Oct. 13, 1964, 78 Stat. 1068; amended Pub. L. 89–51, §2, June 28, 1965, 79 Stat. 173; Pub. L. 89–718, §17, Nov. 2, 1966, 80 Stat. 1118; Pub. L. 100–456, div. A, title VI, §633(a)(1)–(3)(A), Sept. 29, 1988, 102 Stat. 1986.)
+(c)(1) A person who is not qualified for, and (as determined by the Secretary concerned) will not be able to become qualified for, advanced training by reason of one or more of the requirements prescribed in paragraphs (1) through (3) of section 2104(b) of this title shall not be permitted to participate in—
+
+&emsp;(A) field training or a practice cruise under section 2106(b)(6) <sup>1</sup> of this title; or
+
+&emsp;(B) practical military training under subsection (a).
+
+(2) The Secretary of the military department concerned may waive the limitation in paragraph (1) under procedures prescribed by the Secretary. Such procedures shall ensure uniform application of limitations and restrictions without regard to the reason for disqualification for advanced training.
+
+(Added Pub. L. 88–647, title II, §201(1), Oct. 13, 1964, 78 Stat. 1068; amended Pub. L. 89–51, §2, June 28, 1965, 79 Stat. 173; Pub. L. 89–718, §17, Nov. 2, 1966, 80 Stat. 1118; Pub. L. 100–456, div. A, title VI, §633(a)(1)–(3)(A), Sept. 29, 1988, 102 Stat. 1986; Pub. L. 104–201, div. A, title V, §551(a)(2), Sept. 23, 1996, 110 Stat. 2525.)
 
 #### Amendments
+
+1996—Subsec. (c). Pub. L. 104–201 added subsec. (c).
 
 1988—Pub. L. 100–456, §633(a)(3)(A), substituted “Practical military training” for “Field training; practice cruises” in section catchline.
 
@@ -37,4 +47,6 @@ Section 4 of Pub. L. 89–51 provided that: “The effective date of this Act \[
 #### Section Referred to in Other Sections
 
 This section is referred to in title 37 sections 209, 1006.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “2104(b)(6)”.</i>
 

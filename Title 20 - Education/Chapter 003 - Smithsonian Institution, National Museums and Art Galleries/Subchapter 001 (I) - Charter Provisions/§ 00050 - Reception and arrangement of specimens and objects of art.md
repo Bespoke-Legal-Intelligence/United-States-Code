@@ -52,7 +52,7 @@ Authorization of Appropriations.—Effective October 1, 1986, there is authorize
 
 “(d)
 
-Transfer of Funds.—Any portion of the sums appropriated to carry out the purposes of this sectionmay be transferred to the General Services Administration which, in consultation with the Smithsonian Institution, is authorized to enter into contracts and take such other action, to the extent of the sums so transferred to it, as may be necessary to carry out such purposes.”
+Transfer of Funds.—Any portion of the sums appropriated to carry out the purposes of this section may be transferred to the General Services Administration which, in consultation with the Smithsonian Institution, is authorized to enter into contracts and take such other action, to the extent of the sums so transferred to it, as may be necessary to carry out such purposes.”
 
 #### Smithsonian Astrophysical Observatory and Smithsonian Tropical Research Institute; Authorization of Construction and Appropriations
 
@@ -112,7 +112,7 @@ The National Museum was not created by any express statutory provision for that 
 
 #### National Museum Exhibit
 
-Res. Feb. 28, 1922, ch. 86, 42 Stat. 399, authorized Secretary of State to transfer to custody of Secretary of Institution for safekeeping and exhibition in National Museum the sword of George Washington and the staff of Benjamin Franklin, presented by Samuel T. Washington, and the sword of Andrew Jackson, presented by family of General Robert Armstrong.
+Res. Feb. 28, 1922, ch. 86, 42 Stat. 399, authorized Secretary of State to transfer to custody of Secretary of Institution for safekeeping and exhibition in NationalMuseum the sword of George Washington and the staff of Benjamin Franklin, presented by Samuel T. Washington, and the sword of Andrew Jackson, presented by family of General Robert Armstrong.
 
 #### Transportation of Property
 

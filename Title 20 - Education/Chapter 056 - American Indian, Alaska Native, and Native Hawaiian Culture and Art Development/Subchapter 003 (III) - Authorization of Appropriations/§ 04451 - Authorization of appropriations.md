@@ -24,7 +24,7 @@ There are authorized to be appropriated for the purpose of carrying out the prov
 
 &emsp;(2) for each succeeding fiscal year, such sums as may be necessary to carry out such provisions.
 
-(Pub. L. 99–498, title XV, §1531, Oct. 17, 1986, 100 Stat. 1612; Pub. L. 100–297, title V, §5406(c), Apr. 28, 1988, 102 Stat. 418; Pub. L. 101–644, title V, §506, Nov. 29, 1990, 104 Stat. 4672.)
+(Pub. L. 99–498, title XV, §1531, Oct. 17, 1986, 100 Stat. 1612; Pub. L. 100–297, title V, §5406(c), Apr.28, 1988, 102 Stat. 418; Pub. L. 101–644, title V, §506, Nov. 29, 1990, 104 Stat. 4672.)
 
 #### References in Text
 

@@ -18,5 +18,13 @@ The Deputy Chief shall—
 
 &emsp;(3) serve as Forest Service liaison to the director for the program established pursuant to section 6701 of this title.
 
-(Pub. L. 101–624, title XXIV, §2405, Nov. 28, 1990, 104 Stat. 4060.)
+#### (d) Authorization of appropriations
+
+There are authorized to be appropriated for each of fiscal years 1996 through 2002 such sums as are necessary to carry out this section.
+
+(Pub. L. 101–624, title XXIV, §2405, Nov. 28, 1990, 104 Stat. 4060; Pub. L. 104–127, title III, §371, Apr. 4, 1996, 110 Stat. 1015.)
+
+#### Amendments
+
+1996—Subsec. (d). Pub. L. 104–127 added subsec. (d).
 

@@ -18,6 +18,10 @@ A prior section 2 of act Mar. 3, 1925, authorized Bureau of Mines to produce hel
 
 Section 3 of Pub. L. 86–777 provided that: “The amendment made by this Act \[enacting this section and sections 167a to 167n of this title\] shall become effective on March 1, 1961.”
 
+#### Short Title of 1996 Amendment
+
+Pub. L. 104–273, §1, Oct. 9, 1996, 110 Stat. 3315, provided that: “This Act \[amending sections 167a to 167d, 167f, 167j, and 167m of this title\] may be cited as the ‘Helium Privatization Act of 1996’.”
+
 #### Short Title of 1960 Amendment
 
 Section 1 of Pub. L. 86–777 provided that: “This Act \[enacting this section, sections 167a to 167n of this title, and provisions set out as notes below\] may be cited as the ‘Helium Act Amendments of 1960’.”

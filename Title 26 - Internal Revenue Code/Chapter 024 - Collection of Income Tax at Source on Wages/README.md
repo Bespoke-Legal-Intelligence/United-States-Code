@@ -19,7 +19,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 31, 274, 280F, 3121, 3231, 3306, 3502, 3507, 3509, 6011, 6013, 6051, 6103, 6302, 6414, 6501, 6513, 6682, 7654, 7872 of this title; title 5 section 5901; title 42 section 409; title 48 section 1421i.
+This chapter is referred to in sections 31, 274, 280F, 3121, 3231, 3306, 3502, 3507, 3509, 6011, 6013, 6051, 6103, 6302, 6414, 6501, 6513, 6682, 7654, 7872 of this title; title 5 section 5901; title 10 section 1174; title 42 section 409; title 48 section 1421i.
 
 <i><sup>1</sup></i><i> Editorially supplied. Section 3405 added by Pub. L. 97–248 without corresponding amendment of analysis.</i>
 

@@ -1,0 +1,132 @@
+### §7802. Commissioner of Internal Revenue; Assistant Commissioners; Taxpayer Advocate
+
+#### (a) Commissioner of Internal Revenue
+
+There shall be in the Department of the Treasury a Commissioner of Internal Revenue, who shall be appointed by the President, by and with the advice and consent of the Senate. The Commissioner of Internal Revenue shall have such duties and powers as may be prescribed by the Secretary of the Treasury.
+
+#### (b) Assistant Commissioner for Employee Plans and Exempt Organizations
+
+#### (1) Establishment of Office
+
+&emsp;There is established within the Internal Revenue Service an office to be known as the “Office of Employee Plans and Exempt Organizations” to be under the supervision and direction of an Assistant Commissioner of Internal Revenue. As head of the Office, the Assistant Commissioner shall be responsible for carrying out such functions as the Secretary may prescribe with respect to organizations exempt from tax under section 501(a) and with respect to plans to which part I of subchapter D of chapter 1 applies (and with respect to organizations designed to be exempt under such section and plans designed to be plans to which such part applies).
+
+#### (2) Authorization of appropriations
+
+&emsp;There is authorized to be appropriated to the Department of the Treasury to carry out thefunctions of the Office an amount equal to the sum of—
+
+&emsp;&emsp;(A) so much of the collections from taxes imposed under section 4940 (relating to excise tax based on investment income) as would have been collected if the rate of tax under such section was 2 percent during the second preceding fiscal year; and
+
+&emsp;&emsp;(B) the greater of—
+
+&emsp;&emsp;&emsp;(i) an amount equal to the amount described in paragraph (A); or
+
+&emsp;&emsp;&emsp;(ii) $30,000,000.
+
+#### (c) Assistant Commissioner (Taxpayer Services)
+
+There is established within the Internal Revenue Service an office to be known as the “Office for Taxpayer Services” to be under the supervision and direction of an Assistant Commissioner of the Internal Revenue. The Assistant Commissioner shall be responsible for taxpayer services such as telephone, walk-in, and taxpayer educational services, and the design and production of tax and informational forms.
+
+#### (d) Office of Taxpayer Advocate
+
+#### (1) In general
+
+&emsp;There is established in the Internal Revenue Service an office to be known as the “Office of the Taxpayer Advocate”. Such office shall be under the supervision and direction of an official to be known as the “Taxpayer Advocate” who shall be appointed by and report directly to the Commissioner of Internal Revenue. The Taxpayer Advocate shall be entitled to compensation at the same rate as the highest level official reporting directly to the Deputy Commissioner of the Internal Revenue Service.
+
+#### (2) Functions of office
+
+#### (A) In general
+
+&emsp;&emsp;It shall be the function of the Office of Taxpayer Advocate to—
+
+&emsp;&emsp;&emsp;(i) assist taxpayers in resolving problems with the Internal Revenue Service,
+
+&emsp;&emsp;&emsp;(ii) identify areas in which taxpayers have problems in dealings with the Internal Revenue Service,
+
+&emsp;&emsp;&emsp;(iii) to the extent possible, propose changes in the administrative practices of the Internal Revenue Service to mitigate problems identified under clause (ii), and
+
+&emsp;&emsp;&emsp;(iv) identify potential legislative changes which may be appropriate to mitigate such problems.
+
+#### (B) Annual reports
+
+#### (i) Objectives
+
+&emsp;&emsp;&emsp;Not later than June 30 of each calendar year after 1995, the Taxpayer Advocate shall report to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate on the objectives of the Taxpayer Advocate for the fiscal year beginning in such calendar year. Any such report shall contain full and substantive analysis, in addition to statistical information.
+
+#### (ii) Activities
+
+&emsp;&emsp;&emsp;Not later than December 31 of each calendar year after 1995, the Taxpayer Advocate shall report to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate on the activities of the Taxpayer Advocate during the fiscal year ending during such calendar year. Any such report shall contain full and substantive analysis, in addition to statistical information, and shall—
+
+&emsp;&emsp;&emsp;&emsp;(I) identify the initiatives the Taxpayer Advocate has taken on improving taxpayer services and Internal Revenue Service responsiveness,
+
+&emsp;&emsp;&emsp;&emsp;(II) contain recommendations received from individuals with the authority to issue Taxpayer Assistance Orders under section 7811,
+
+&emsp;&emsp;&emsp;&emsp;(III) contain a summary of at least 20 of the most serious problems encountered by taxpayers, including a description of the nature of such problems,
+
+&emsp;&emsp;&emsp;&emsp;(IV) contain an inventory of the items described in subclauses (I), (II), and (III) for which action has been taken and the result of such action,
+
+&emsp;&emsp;&emsp;&emsp;(V) contain an inventory of the items described in subclauses (I), (II), and (III) for which action remains to be completed and the period during which each item has remained on such inventory,
+
+&emsp;&emsp;&emsp;&emsp;(VI) contain an inventory of the items described in subclauses (II) and (III) for which no action has been taken, the period during which each item has remained on such inventory, the reasons for the inaction, and identify any Internal Revenue Service official who is responsible for such inaction,
+
+&emsp;&emsp;&emsp;&emsp;(VII) identify any Taxpayer Assistance Order which was not honored by the Internal Revenue Service in a timely manner, as specified under section 7811(b),
+
+&emsp;&emsp;&emsp;&emsp;(VIII) contain recommendations for such administrative and legislative action as may be appropriate to resolve problems encountered by taxpayers,
+
+&emsp;&emsp;&emsp;&emsp;(IX) describe the extent to which regional problem resolution officers participate in the selection and evaluation of local problem resolution officers, and
+
+&emsp;&emsp;&emsp;&emsp;(X) include such other information as the Taxpayer Advocate may deem advisable.
+
+#### (iii) Report to be submitted directly
+
+&emsp;&emsp;&emsp;Each report required under this subparagraph shall be provided directly to the Committees <sup>1</sup> referred to in clauses (i) and (ii) without any prior review or comment from the Commissioner, the Secretary of the Treasury, any other officer or employee of the Department of the Treasury, or the Office of Management and Budget.
+
+#### (3) Responsibilities of Commissioner
+
+&emsp;The Commissioner of Internal Revenue shall establish procedures requiring a formal response to all recommendations submitted to the Commissioner by the Taxpayer Advocate within 3 months after submission to the Commissioner.
+
+(Aug. 16, 1954, ch. 736, 68A Stat. 915; Sept. 2, 1974, Pub. L. 93–406, title II, §1051(a), 88 Stat. 951; Oct. 4, 1976, Pub. L. 94–455, title XIX, §1906(b)(13)(A), (B), 90 Stat. 1834; Sept. 13, 1982, Pub. L. 97–258, §2(f)(2), 96 Stat. 1059; Nov. 10, 1988, Pub. L. 100–647, title VI, §6235(a), 102 Stat. 3737; July 30, 1996, Pub. L. 104–168, title I, §101(a), (b)(2), 110 Stat. 1453, 1455.)
+
+#### Amendments
+
+1996—Pub. L. 104–168, §101(b)(2), substituted “Commissioners; Taxpayer Advocate.” for “Commissioner (Employee Plans and Exempt Organizations)” in section catchline.
+
+Subsec. (d). Pub. L. 104–168, §101(a), added subsec. (d).
+
+1988—Subsec. (c). Pub. L. 100–647 added subsec. (c).
+
+1982—Subsec. (b). Pub. L. 97–258 redesignated existing provisions as par. (1), added par. (1) heading, and added par. (2). Par. (2) is based on provisions that appeared in section 1037 of former Title 31, Money and Finance, prior to enactment of Title 31 by Pub. L. 97–258.
+
+1976—Subsec. (a). Pub. L. 94–455, §1906(b)(13)(B), substituted “Secretary of the Treasury” for “Secretary” after “prescribed by the”.
+
+Subsec. (b). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+
+1974—Pub. L. 93–406 designated existing provisions as subsec. (a) and added subsec. (b).
+
+#### Effective Date of 1996 Amendment
+
+Section 101(c) of Pub. L. 104–168 provided that: “The amendments made by this section \[amending this section and section 7811 of this title\] shall take effect on the date of the enactment of this Act \[July 30, 1996\].”
+
+#### Effective Date of 1988 Amendment
+
+Section 6235(c) of Pub. L. 100–647 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the date 180 days after the date of the enactment of this Act \[Nov. 10, 1988\].”
+
+#### Effective Date of 1974 Amendment
+
+Section 1051(d) of Pub. L. 93–406 provided that: “The amendments made by this section \[amending this section and sections 5108 and 5109 of Title 5, Government Organization and Employees\] shall take effect on the 90th day after the date of the enactment of this Act \[Sept. 2, 1974\].”
+
+#### Annual Reports to Congress
+
+Section 6235(b) of Pub. L. 100–647 provided that: “The Assistant Commissioner (Taxpayer Services) and the Taxpayer Ombudsman for the Internal Revenue Service shall jointly make an annual report regarding the quality of taxpayer services provided. Such report shall be made to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives.”
+
+#### Cross References
+
+Compensation of Commissioner, see section 5314 of Title 5, Government Organization and Employees.
+
+Definition of Commissioner, see section 7701 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in title 5 section 5109.
+
+<i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
+

@@ -4,7 +4,11 @@ Notwithstanding any other provision of law, acreage allotments and a commercial 
 
 (Feb. 16, 1938, ch. 30, title III, §330, as added Oct. 31, 1949, ch. 792, title I, §104(b)(1), as added Aug. 28, 1958, Pub. L. 85–835, title II, §201, 72 Stat. 994.)
 
+#### Inapplicability of Section
+
+Section inapplicable to 1996 through 2002 crops of loan commodities, peanuts, and sugar and inapplicable to milk during period beginning Apr. 4, 1996, and ending Dec. 31, 2002, see section 7301(a)(1)(A) of this title.
+
 #### 1958 Referendum for Selection of Alternative Corn Program; Operative Status of Certain Provisions
 
-Corn producers voted for adoption of price support program as provided in section 1444a(b) of this title (254,262) rather than alternative corn acreage allotment and price support program (102,907), the ballot making operative sections 1329a and 1444b and repeal of section 1441(d)(4) of this title.
+Corn producers voted for adoption of price support program as provided in section 1444a(b) of this title\(254,262) rather than alternative corn acreage allotment and price support program (102,907), the ballot making operative sections 1329a and 1444b and repeal of section 1441(d)(4) of this title.
 

@@ -30,7 +30,7 @@ Except as otherwise provided, for the purposes of this part:
 
 &emsp;&emsp;(A) serves the largest central city in a State;
 
-&emsp;&emsp;(B) enrolls more than 30,000 students and serves a central city with a population of at least 200,000 in a metropolitan statistical area; or
+&emsp;&emsp;(B) enrolls more than 30,000 students and serves a central city with a population of atleast 200,000 in a metropolitan statistical area; or
 
 &emsp;&emsp;(C) enrolls between 25,000 and 30,000 students and serves a central city with a population of at least 140,000 in a metropolitan statistical area.
 

@@ -32,11 +32,11 @@
 
 #### (3) Section 1245 property
 
-&emsp;For purposes of this section, the term “section 1245 property” means any property which is or has been property of a character subject to the allowance for depreciation provided in section 167 (or subject to the allowance of amortization provided in)) <sup>1</sup> and is either—
+&emsp;For purposes of this section, the term “section 1245 property” means any property which is or has been property of a character subject to the allowance for depreciation provided in section 167 and is either—
 
 &emsp;&emsp;(A) personal property,
 
-&emsp;&emsp;(B) other property (not including a building or its structural components) but only if such other property is tangible and has anadjusted basis in which there are reflected adjustments described in paragraph (2) for a period in which such property (or other property)—
+&emsp;&emsp;(B) other property (not including a building or its structural components) but only if such other property is tangible and has an adjusted basis in which there are reflected adjustments described in paragraph (2) for a period in which such property (or other property)—
 
 &emsp;&emsp;&emsp;(i) was used as an integral part of manufacturing, production, or extraction or of furnishing transportation, communications, electrical energy, gas, water, or sewage disposal services,
 
@@ -44,7 +44,7 @@
 
 &emsp;&emsp;&emsp;(iii) constituted a facility used in connection with any of the activities referred to in clause (i) for the bulk storage of fungible commodities (including commodities in a liquid or gaseous state),
 
-&emsp;&emsp;(C) so much of any real property (other than any property described in subparagraph (B)) which has an adjusted basis in which there are reflected adjustments for amortization under section 169, 179, 185,<sup>2</sup> 188 (as in effect before its repeal by the Revenue Reconciliation Act of 1990), 190, 193, or 194,<sup>3</sup>
+&emsp;&emsp;(C) so much of any real property (other than any property described in subparagraph (B)) which has an adjusted basis in which there are reflected adjustments for amortization under section 169, 179, 185,<sup>1</sup> 188 (as in effect before its repeal by the Revenue Reconciliation Act of 1990), 190, 193, or 194,<sup>2</sup>
 
 &emsp;&emsp;(D) a single purpose agricultural or horticultural structure (as defined in section 168(i)(13)),
 
@@ -90,7 +90,7 @@
 
 #### (3) Certain tax-free transactions
 
-&emsp;If the basis of property in the hands of a transferee is determined by reference to its basis in the hands of the transferor by reason of the application of section 332, 351, 361, 721, or 731, then the amount of gain taken into account by the transferor under subsection (a)(1) shall not exceed the amount of gain recognized to the transferor on the transfer of such property (determined without regard to this section). Except as provided in paragraph (7), this paragraph shall not apply to a disposition to an organization (other than a cooperative described in section 521) which is exempt from the tax imposed by this chapter.
+&emsp;If the basis of property in the hands of a transferee is determined by reference to itsbasis in the hands of the transferor by reason of the application of section 332, 351, 361, 721, or 731, then the amount of gain taken into account by the transferor under subsection (a)(1) shall not exceed the amount of gain recognized to the transferor on the transfer of such property (determined without regard to this section). Except as provided in paragraph (7), this paragraph shall not apply to a disposition to an organization (other than a cooperative described in section 521) which is exempt from the tax imposed by this chapter.
 
 #### (4) Like kind exchanges; involuntary conversions, etc.
 
@@ -140,7 +140,7 @@ The Secretary shall prescribe such regulations as he may deem necessary to provi
 
 This section shall apply notwithstanding any other provision of this subtitle.
 
-(Added Pub. L. 87–834, §13(a)(1), Oct. 16, 1962, 76 Stat. 1032; amended Pub. L. 88–272, title II, §203(d), Feb. 26, 1964, 78 Stat. 35; Pub. L. 91–172, title II, §212(a)(1), (2), title VII, §704(b)(4), Dec. 30, 1969, 83 Stat. 571, 670; Pub. L. 92–178, title I, §104(a)(2), title III, §303(c)(1), (2), Dec. 10, 1971, 85 Stat. 501, 522; Pub. L. 94–81, §2(a), Aug. 9, 1975, 89 Stat. 417; Pub. L. 94–455, title II, §212(b)(1), title XIX, §§1901(a)(140), (b)(3)(K), (11)(D), 1906(b) (13)(A), 1951(c)(2)(C), title XXI, §§2122(b)(3), 2124(a)(2), Oct. 4, 1976, 90 Stat. 1546, 1787, 1793, 1795, 1834, 1840, 1915, 1917; Pub. L. 95–600, title VII, §701(f)(3)(A), (B), (w)(1), (2), Nov. 6, 1978, 92 Stat. 2901, 2920; Pub. L. 96–223, title II, §251(a)(2)(C), Apr. 2, 1980, 94 Stat. 287; Pub. L. 96–451, title III, §301(c)(1), Oct. 14, 1980, 94 Stat. 1990; Pub. L. 97–34, title II, §§201(b), 202(b), 204(a)–(d), 212(d)(2)(F), Aug. 13, 1981, 95 Stat. 218, 220, 222, 223, 239; Pub. L. 97–448, title I, §102(e)(2)(B), Jan. 12, 1983, 96 Stat. 2371; Pub. L. 98–369, div. A, title I, §111(e)(5), (10), July 18, 1984, 98 Stat. 633; Pub. L. 99–121, title I, §103(b)(1)(D), Oct. 11, 1985, 99 Stat. 509; Pub. L. 99–514, title II, §201(d)(11), Oct. 22, 1986, 100 Stat. 2141; Pub. L. 100–647, title I, §1002(i)(2)(I), Nov. 10, 1988, 102 Stat. 3371; Pub. L. 101–239, title VII, §7622(b)(2)\[(d)(2)\], Dec. 19, 1989, 103 Stat. 2378; Pub. L. 101–508, title XI, §§11704(a)(13), 11801(c)(6)(E), (8)(H), 11813(b)(21), Nov. 5, 1990, 104 Stat. 1388–518, 1388–524, 1388–555; Pub. L. 103–66, title XIII, §13261(f)(4), (5), Aug. 10, 1993, 107 Stat. 539; Pub. L. 104–7, §2(b), Apr. 11, 1995, 109 Stat. 93.)
+(Added Pub. L. 87–834, §13(a)(1), Oct. 16, 1962, 76 Stat. 1032; amended Pub. L. 88–272, title II, §203(d), Feb. 26, 1964, 78 Stat. 35; Pub. L. 91–172, title II, §212(a)(1), (2), title VII, §704(b)(4), Dec. 30, 1969, 83 Stat. 571, 670; Pub. L. 92–178, title I, §104(a)(2), title III, §303(c)(1), (2), Dec. 10, 1971, 85 Stat. 501, 522; Pub. L. 94–81, §2(a), Aug. 9, 1975, 89 Stat. 417; Pub. L. 94–455, title II, §212(b)(1), title XIX, §§1901(a)(140), (b)(3)(K), (11)(D), 1906(b) (13)(A), 1951(c)(2)(C), title XXI, §§2122(b)(3), 2124(a)(2), Oct. 4, 1976, 90 Stat. 1546, 1787, 1793, 1795, 1834, 1840, 1915, 1917; Pub. L. 95–600, title VII, §701(f)(3)(A), (B), (w)(1), (2), Nov. 6, 1978, 92 Stat. 2901, 2920; Pub. L. 96–223, title II, §251(a)(2)(C), Apr. 2, 1980, 94 Stat. 287; Pub. L. 96–451, title III, §301(c)(1), Oct. 14, 1980, 94 Stat. 1990; Pub. L. 97–34, title II, §§201(b), 202(b), 204(a)–(d), 212(d)(2)(F), Aug. 13, 1981, 95 Stat. 218, 220, 222, 223, 239; Pub. L. 97–448, title I, §102(e)(2)(B), Jan. 12, 1983, 96 Stat. 2371; Pub. L. 98–369, div. A, title I, §111(e)(5), (10), July 18, 1984, 98 Stat. 633; Pub. L. 99–121, title I, §103(b)(1)(D), Oct. 11, 1985, 99 Stat. 509; Pub. L. 99–514, title II, §201(d)(11), Oct. 22, 1986, 100 Stat. 2141; Pub. L. 100–647, title I, §1002(i)(2)(I), Nov. 10, 1988, 102 Stat. 3371; Pub. L. 101–239, title VII, §7622(b)(2)\[(d)(2)\], Dec. 19, 1989, 103 Stat. 2378; Pub. L. 101–508, title XI, §§11704(a)(13), 11801(c)(6)(E), (8)(H), 11813(b)(21), Nov. 5, 1990, 104 Stat. 1388–518, 1388–524, 1388–555; Pub. L. 103–66, title XIII, §13261(f)(4), (5), Aug. 10, 1993, 107 Stat. 539; Pub. L. 104–7, §2(b), Apr. 11, 1995, 109 Stat. 93; Pub. L. 104–188, title I, §1703(n)(6), Aug. 20, 1996, 110 Stat. 1877.)
 
 #### References in Text
 
@@ -149,6 +149,8 @@ Section 185 of this title, referred to in subsec. (a)(3)(C), was repealed by Pub
 The Revenue Reconciliation Act of 1990, referred to in subsec. (a)(3)(C), is title XI of Pub. L. 101–508, Nov. 5, 1990, 104 Stat. 1388–400. Section 11801(a)(13) of the Act repealed section 188 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1 of this title and Tables.
 
 #### Amendments
+
+1996—Subsec. (a)(3). Pub. L. 104–188 reenacted heading without change and amended introductory provisions generally. Prior to amendment, introductory provisions read as follows: “For purposes of this section, the term ‘section 1245 property’ means any property which is or has been property of a character subject to the allowance for depreciation provided in section 167 (or subject to the allowance of amortization provided in)) and is either—”.
 
 1995—Subsec. (b)(5). Pub. L. 104–7 struck out “1071 and” before “1081 transactions” in heading and “section 1071 (relating to gain from sale or exchange to effectuate policies of FCC) or” before “section 1081” in text.
 
@@ -246,6 +248,10 @@ Subsec. (a)(3). Pub. L. 91–172, §§212(a)(2), 704(b)(4)(C)–(F), struck out 
 
 1964—Subsec. (a)(2), (3)(C). Pub. L. 88–272 redefined “recomputed basis” with respect to elevators or escalators in par. (2), and inserted subpar. (C) in par. (3).
 
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–188 effective as if included in the provision of the Revenue Reconciliation Act of 1993, Pub. L. 103–66, §§13001–13444, to which such amendment relates, see section 1703(<i>o</i>) of Pub. L. 104–188, set out as a note under section 39 of this title.
+
 #### Effective Date of 1995 Amendment
 
 Amendment by Pub. L. 104–7 applicable to sales and exchanges on or after January 17, 1995, and to sales and exchanges before such date if FCC tax certificate with respect to such sale or exchange was issued on or after such date, but not applicable with respect to certain binding contracts, see section 2(d) of Pub. L. 104–7, set out as an Effective Date of Repeal note under section 1071 of this title.
@@ -320,7 +326,7 @@ Amendment by Pub. L. 94–81 applicable to dispositions after Dec. 31, 1969, in 
 
 #### Effective Date of 1971 Amendment
 
-Amendment by section 104(a)(2) of Pub. L. 92–178 applicable to property described in section 50 of this title relating to restoration of credit, see section 104(h) of Pub. L. 92–178, set out as a note under section 48 of this title.
+Amendment by section 104(a)(2) of Pub. L. 92–178 applicable to property described in section 50 of this titlerelating to restoration of credit, see section 104(h) of Pub. L. 92–178, set out as a note under section 48 of this title.
 
 Amendment by section 303(c)(1), (2) of Pub. L. 92–178 applicable to taxable years ending after Dec. 31, 1971, see section 303(d) of Pub. L. 92–178, set out as a note under section 642 of this title.
 
@@ -346,9 +352,7 @@ For provisions that nothing in amendment by sections 11801 and 11813 of Pub. L. 
 
 This section is referred to in sections 50, 108, 168, 169, 170, 179, 179A, 263A, 291, 341, 453, 465, 467, 512, 613, 617, 644, 751, 861, 1017, 1250, 1252, 1255, 1257, 1276 of this title.
 
-<i><sup>1</sup></i><i> So in original. See 1993 Amendment note below.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 
-<i><sup>2</sup></i><i> See References in Text note below.</i>
-
-<i><sup>3</sup></i><i> Comma added editorially.</i>
+<i><sup>2</sup></i><i> Comma added editorially.</i>
 

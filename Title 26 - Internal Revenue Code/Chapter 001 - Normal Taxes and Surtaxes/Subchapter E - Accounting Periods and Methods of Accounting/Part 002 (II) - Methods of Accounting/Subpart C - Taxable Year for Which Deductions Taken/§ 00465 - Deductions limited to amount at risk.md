@@ -14,7 +14,7 @@
 
 #### (2) Deduction in succeeding year
 
-&emsp;Any loss from an activity to which this section applies not allowed under this section forthe taxable year shall be treated as a deduction allocable to such activity in the first succeeding taxable year.
+&emsp;Any loss from an activity to which this section applies not allowed under this section for the taxable year shall be treated as a deduction allocable to such activity in the first succeeding taxable year.
 
 #### (3) Special rules for applying paragraph (1)(B)
 
@@ -72,7 +72,7 @@
 
 #### (4) Exception
 
-&emsp;Notwithstanding any other provision of this section, a taxpayer shall not be considered at risk with respect to amounts protected against loss through nonrecourse financing, guarantees, stop loss agreements, or other similar arrangements.
+&emsp;Notwithstanding any other provision of this section, a taxpayer shall not be considered at risk with respect to amounts protectedagainst loss through nonrecourse financing, guarantees, stop loss agreements, or other similar arrangements.
 
 #### (5) Amounts at risk in subsequent years
 
@@ -358,7 +358,7 @@
 
 #### (III) Qualified life insurance company
 
-&emsp;&emsp;&emsp;&emsp;For purposes of subclause (I), the term “qualified life insurance company” means any company which would be a life insurance company as defined in section 816 if unearned premiums were not taken into account under subsections (a)(2) and (c)(2) of section 816.
+&emsp;&emsp;&emsp;&emsp;For purposes of subclause (I), the term “qualified life insurance company” means any company which would be a life insurance company as defined in section 816 if unearned premiums were nottaken into account under subsections (a)(2) and (c)(2) of section 816.
 
 #### (E) Definitions
 
@@ -512,7 +512,7 @@ Special rule for losses of s corporation, partnership, or pass-thru entity.—In
 
 Special rule for athletic stadium.—The amendments made by this section shall not apply to any losses incurred by a taxpayer with respect to the holding of a multi-use athletic stadium in Pittsburgh, Pennsylvania, which the taxpayer acquired in a sale for which a letter of understanding was entered into before April 16, 1986.”
 
-Amendment by section 1011(b)(1) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 1011(c)(1) of Pub. L. 99–514, set out as a note under section 453B of this title.
+Amendment by section 1011(b)(1) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986,see section 1011(c)(1) of Pub. L. 99–514, set out as a note under section 453B of this title.
 
 #### Effective Date of 1984 Amendment
 
@@ -552,7 +552,7 @@ Special transitional rules for movies and video tapes.—
 
 In general.—In the case of any activity described in section 465(c)(1)(A) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], the amendments made by this section shall not apply to—
 
-&emsp;&emsp;&emsp;“(i) deductions for depreciation or amortization with respect to property the principal production of which began before September 11, 1975, and forthe purchase of which there was on September 11, 1975, and at all times thereafter a binding contract, and
+&emsp;&emsp;&emsp;“(i) deductions for depreciation or amortization with respect to property the principal production of which began before September 11, 1975, and for the purchase of which there was on September 11, 1975, and at all times thereafter a binding contract, and
 
 &emsp;&emsp;&emsp;“(ii) deductions attributable to producing or distributing property the principal production of which began before September 11, 1975.
 
@@ -620,5 +620,5 @@ Holding of interests for purposes of subparagraph (a).—Subparagraph (A) shall 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 49, 59, 168, 461, 467, 469, 1256, 4162, 6111 of this title.
+This section is referred to in sections 49, 59, 162, 163, 168, 461, 467, 469, 1256, 1366, 4162, 6111 of this title.
 

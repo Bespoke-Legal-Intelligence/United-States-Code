@@ -8,11 +8,11 @@ TABLE 1
 
 | Area class | Design value\* | Primary standard attainment date\*\* |
 | :--- | :---: | ---: |
-| Marginal | 0\.121 up to 0.138 | 3 years after Novem- ber 15, 1990 |
-| Moderate | 0\.138 up to 0.160 | 6 years after Novem- ber 15, 1990 |
-| Serious | 0\.160 up to 0.180 | 9 years after Novem- ber 15, 1990 |
-| Severe | 0\.180 up to 0.280 | 15 years after Novem- ber 15, 1990 |
-| Extreme | 0\.280 and above | 20 years after Novem- ber 15, 1990 |
+| Marginal | 0\.121 up to 0.138 | 3 years after November 15, 1990 |
+| Moderate | 0\.138 up to 0.160 | 6 years after November 15, 1990 |
+| Serious | 0\.160 up to 0.180 | 9 years after November 15, 1990 |
+| Severe | 0\.180 up to 0.280 | 15 years after November 15, 1990 |
+| Extreme | 0\.280 and above | 20 years after November 15, 1990 |
 
 \*The design value is measured in parts per million (ppm).
 
@@ -56,7 +56,7 @@ TABLE 1
 
 #### (4) Failure of Severe Areas to attain standard
 
-&emsp;(A) If any Severe Area fails to achieve the national primary ambient air quality standard for ozone by the applicable attainment date (including any extension thereof), the fee provisions under section 7511d of this title shall apply within the area, the percent reduction requirements of section 7511a(c)(2)(B) and (C) of this title (relating to reasonable further progress demonstration and NO<sub>x</sub> control) shall continue to apply to the area, and the State shall demonstrate that such percent reduction has been achieved in each 3-year interval after such failure until the standard is attained.Any failure to make such a demonstration shall be subject to the sanctions provided under this part.
+&emsp;(A) If any Severe Area fails to achieve the national primary ambient air quality standard for ozone by the applicable attainment date (including any extension thereof), the fee provisions under section 7511d of this title shall apply within the area, the percent reduction requirements of section 7511a(c)(2)(B) and (C) of this title (relating to reasonable further progress demonstration and NO<sub>x</sub> control) shall continue to apply to the area, and the State shall demonstrate that such percent reduction has been achieved in each 3-year interval after such failure until the standard is attained. Any failure to make such a demonstration shall be subject to the sanctions provided under this part.
 
 &emsp;(B) In addition to the requirements of subparagraph (A), if the ozone design value for a Severe Area referred to in subparagraph (A) is above 0.140 ppm for the year of the applicable attainment date, or if the area has failed to achieve its most recent milestone under section 7511a(g) of this title, the new source review requirements applicable under this subpart in Extreme Areas shall apply in the area and the term <sup>1</sup> “major source” and “major stationary source” shall have the same meaning as in Extreme Areas.
 

@@ -14,7 +14,7 @@ Sections 1 and 2 of act Mar. 1, 1917, are classified to sections 702 and 703 of 
 
 #### Amendments
 
-1994—Pub. L. 103–437 struck out par. at end which read as follows: “All examinations and reports which may now be made by the Board of Engineers for Rivers and Harbors upon request of the Committee on Rivers and Harbors relating to works or projects of navigation shall in like manner be made upon request of the Committee on Flood Control on all works and projects relating to flood control.”
+1994—Pub. L. 103–437 struck out par. at end which read as follows: “All examinations and reports which may now be made by the Board of Engineers for Rivers and Harbors upon request of the Committee on Riversand Harbors relating to works or projects of navigation shall in like manner be made upon request of the Committee on Flood Control on all works and projects relating to flood control.”
 
 #### Change of Name
 

@@ -12,7 +12,7 @@ The Secretary is authorized to carry out a program of providing assistance to el
 
 #### Prior Provisions
 
-A prior section 1136a, Pub. L. 89–329, title XI, §1102, as added Pub. L. 99–498, title XI, §1101, Oct. 17, 1986, 100 Stat. 1568, related to use of economic developmentfunds, prior to the general revision of this subchapter by Pub. L. 102–325.
+A prior section 1136a, Pub. L. 89–329, title XI, §1102, as added Pub. L. 99–498, title XI, §1101, Oct. 17, 1986, 100 Stat. 1568, related to use of economic development funds, prior to the general revision of this subchapter by Pub. L. 102–325.
 
 Another prior section 1136a, Pub. L. 89–329, title XI, §1102, as added Pub. L. 96–374, title XI, §1101, Oct. 3, 1980, 94 Stat. 1491, authorized appropriations for fiscal years 1981 to 1985 for urban grant university program, prior to the general revision of this subchapter by Pub. L. 99–498.
 

@@ -10,4 +10,5 @@
 - [&sect; 03801 - Omitted](%C2%A7%2003801%20-%20Omitted.md)
 - [Subchapter 001 (I) - Preventive Services and Demonstration Programs](Subchapter%20001%20%28I%29%20-%20Preventive%20Services%20and%20Demonstration%20Programs/README.md)
 - [Subchapter 002 (II) - Training](Subchapter%20002%20%28II%29%20-%20Training/README.md)
+- [Subchapter 003 (III) - Technical Assistance and Information Services](Subchapter%20003%20%28III%29%20-%20Technical%20Assistance%20and%20Information%20Services/README.md)
 - [Subchapter 004 (IV) - Administration](Subchapter%20004%20%28IV%29%20-%20Administration/README.md)

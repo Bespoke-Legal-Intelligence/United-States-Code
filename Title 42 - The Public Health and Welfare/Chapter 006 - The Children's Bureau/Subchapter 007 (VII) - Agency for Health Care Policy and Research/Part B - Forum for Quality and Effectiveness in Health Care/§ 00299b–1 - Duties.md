@@ -56,7 +56,7 @@ Subsec. (f). Pub. L. 102–410, §6(b), added subsec. (f).
 
 #### Study and Report on Methods for Collecting and Analyzing Data
 
-Section 5(a)(2) of Pub. L. 102–410 directed Administrator for Health Care Policy and Research to conductor support a study to develop methods for collecting and analyzing primary and secondary data to be used in generating cost estimates of alternative strategies for the prevention, diagnosis, treatment, and management of a given disease, disorder, or the health condition to be included in guideline documents and to submit to Congress, not later than June 1, 1994, a report concerning such study.
+Section 5(a)(2) of Pub. L. 102–410 directed Administrator for Health Care Policy and Research to conduct or support a study to develop methods for collecting and analyzing primary and secondary data to be used in generating cost estimates of alternative strategies for the prevention, diagnosis, treatment, and management of a given disease, disorder, or the health condition to be included in guideline documents and to submit to Congress, not later than June 1, 1994, a report concerning such study.
 
 #### Section Referred to in Other Sections
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-In order to preserve and interpret the history and achievements of seafaring Americans and of the Nation's maritime heritage, especially on the Pacific coast, there is hereby established the San Francisco Maritime National HistoricalPark (hereinafter in this subchapter referred to as the “park”).
+In order to preserve and interpret the history and achievements of seafaring Americans and of the Nation's maritime heritage, especially on the Pacific coast, there is hereby established the San Francisco Maritime National Historical Park (hereinafter in this subchapter referred to as the “park”).
 
 #### (b) Area included
 
@@ -20,7 +20,7 @@ The building housing and displaying the marine collections, libraries, historic 
 
 #### References in Text
 
-This subchapter, referred to in subsecs. (a) and (b), was in the original “this Act”, meaning Pub. L. 100–348, June 27, 1988, 102 Stat. 654, known as the San Francisco Maritime National Historical Park Act of 1988, which enacted this subchapter and amended section 460bb–3 of this title. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+This subchapter, referred to in subsecs. (a) and (b), was in the original “this Act”, meaning Pub. L. 100–348,June 27, 1988, 102 Stat. 654, known as the San Francisco Maritime National Historical Park Act of 1988, which enacted this subchapter and amended section 460bb–3 of this title. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
 #### Amendments
 

@@ -28,7 +28,7 @@ Disbursements under subsection (a) of this section—
 
 &emsp;(2) may be made directly by the lender or, in the case of a loan under sections 1078 and 1078–1 <sup>1</sup> of this title, may be disbursed pursuant to the escrow provisions of section 1078(i) of this title; and
 
-&emsp;(3) notwithstanding subsection (a)(2) of this section, may, with the permission of the borrower, be disbursed by the lender on a weekly or monthly basis, provided that the proceeds of the loan are disbursed in substantially equal weekly or monthly installments, as the case may be, over the period of enrollment for which the loan is made.
+&emsp;(3) notwithstanding subsection (a)(2) of this section, may, with the permission of the borrower, be disbursed by the lender on a weekly or monthly basis, provided that the proceeds of the loan are disbursed in substantiallyequal weekly or monthly installments, as the case may be, over the period of enrollment for which the loan is made.
 
 #### (d) Withholding of second disbursement
 
@@ -60,7 +60,7 @@ An eligible lender shall not sell or transfer a promissory note for any loan mad
 
 #### References in Text
 
-Section 1078–1 of this title, referred to in subsec. (c)(2), was repealed by Pub. L. 103–66, title IV,§4047(b)–(d), Aug. 10, 1993, 107 Stat. 364, eff. July 1, 1994, except with respect to loans provided under that section as it existed prior to Aug. 10, 1993.
+Section 1078–1 of this title, referred to in subsec. (c)(2), was repealed by Pub. L. 103–66, title IV, §4047(b)–(d), Aug. 10, 1993, 107 Stat. 364, eff. July 1, 1994, except with respect to loans provided under that section as it existed prior to Aug. 10, 1993.
 
 #### Amendments
 

@@ -192,7 +192,7 @@
 | (i) | Staff. |
 | (j) | Applicability of certain civil service laws. |
 | (k) | Experts and consultants. |
-| (<i>l)</i> | Report. |
+| (<i>l</i>) | Report. |
 | (m) | Nonduplication. |
 | (n) | Authorization of appropriations. |
 | [1213d.](Subchapter%20004%20%28IV%29%20-%20National%20Programs/%C2%A7%2001213d%20-%20Limitation.md) | Limitation. |

@@ -12,7 +12,7 @@ Congress finds that—
 
 &emsp;(4) one out of every four children under the age of 6 in the United States currently lives below the Federal poverty level;
 
-&emsp;(5) over the past 10 years, parents have increasingly come together with other parents to organize family resource and support programs that promote healthy child development and increase parental competency, particularly families at risk; and
+&emsp;(5) over the past 10 years, parents have increasingly come together with other parentsto organize family resource and support programs that promote healthy child development and increase parental competency, particularly families at risk; and
 
 &emsp;(6) Federal investment in promoting the development of family resource and support programs will reap long-term benefits for individual families and the nation as a whole.
 

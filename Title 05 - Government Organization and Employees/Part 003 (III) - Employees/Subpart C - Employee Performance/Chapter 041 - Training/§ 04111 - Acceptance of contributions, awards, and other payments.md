@@ -12,7 +12,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 (a)
 
@@ -32,7 +34,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-<b>1979</b>—Subsec. (b). Pub. L. 96–54 substituted “President” for “Director of the Bureau of the Budget”.
+1979—Subsec. (b). Pub. L. 96–54 substituted “President” for “Director of the Bureau of the Budget”.
 
 #### Effective Date of 1979 Amendment
 

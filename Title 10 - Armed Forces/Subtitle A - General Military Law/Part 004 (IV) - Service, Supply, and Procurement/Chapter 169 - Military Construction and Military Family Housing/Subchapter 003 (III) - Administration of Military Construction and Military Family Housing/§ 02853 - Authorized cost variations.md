@@ -12,11 +12,13 @@
 
 &emsp;(3) a period of 21 days has elapsed after the date on which the notification is received by the committees.
 
-(d) The limitation on cost increases in subsection (a) does not apply to a within-scope modification to a contract or to the settlement of a contractor claim under a contract if the increase in cost is approved by the Secretary concerned, and the Secretary concerned promptly submits written notification of the facts relating to the proposed increase in cost to the appropriate committees of Congress.
+(d) The limitation on cost increases in subsection (a) does not apply to the settlement of a contractor claim under a contract.
 
-(Added Pub. L. 97–214, §2(a), July 12, 1982, 96 Stat. 164; amended Pub. L. 98–407, title VIII, §807, Aug. 28, 1984, 98 Stat. 1521; Pub. L. 100–26, §7(f)(2), Apr. 21, 1987, 101 Stat. 281; Pub. L. 100–180, div. B, subdiv. 3, title I, §§2312, 2313, Dec. 4, 1987, 101 Stat. 1217, 1218; Pub. L. 101–189, div. B, title XXVIII, §2808, Nov. 29, 1989, 103 Stat. 1648.)
+(Added Pub. L. 97–214, §2(a), July 12, 1982, 96 Stat. 164; amended Pub. L. 98–407, title VIII, §807, Aug. 28, 1984, 98 Stat. 1521; Pub. L. 100–26, §7(f)(2), Apr. 21, 1987, 101 Stat. 281; Pub. L. 100–180, div. B, subdiv. 3, title I, §§2312, 2313, Dec. 4, 1987, 101 Stat. 1217, 1218; Pub. L. 101–189, div. B, title XXVIII, §2808, Nov. 29, 1989, 103 Stat. 1648; Pub. L. 104–106, div. B, title XXVIII, §2817, Feb. 10, 1996, 110 Stat. 553.)
 
 #### Amendments
+
+1996—Subsec. (d). Pub. L. 104–106 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “The limitation on cost increases in subsection (a) does not apply to a within-scope modification to a contract or to the settlement of a contractor claim under a contract if the increase in cost is approved by the Secretary concerned, and the Secretary concerned promptly submits written notification of the facts relating to the proposed increase in cost to the appropriate committees of Congress.”
 
 1989—Pub. L. 101–189 amended section generally, substituting subsecs. (a) to (d) for former subsecs. (a) to (f).
 

@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;In determining the tax under this chapter of a shareholder for the shareholder's taxable year in which the taxable year of the S corporation ends (or for the final taxable year of a shareholder who dies before the end of the corporation's taxable year), there shall be taken into account the shareholder's pro rata share of the corporation's—
+&emsp;In determining the tax under this chapter of a shareholder for the shareholder's taxable year in which the taxable year of the S corporation ends (or for the final taxable year of a shareholder who dies, or of a trust or estate which terminates, before the end of the corporation's taxable year), there shall be taken into account the shareholder's pro rata share of the corporation's—
 
 &emsp;&emsp;(A) items of income (including tax-exempt income), loss, deduction, or credit the separate treatment of which could affect the liability for tax of any shareholder, and
 
@@ -30,7 +30,7 @@ In any case where it is necessary to determine the gross income of a shareholder
 
 &emsp;The aggregate amount of losses and deductions taken into account by a shareholder under subsection (a) for any taxable year shall not exceed the sum of—
 
-&emsp;&emsp;(A) the adjusted basis of the shareholder's stock in the S corporation (determined with regard to paragraph (1) of section 1367(a) for the taxable year), and
+&emsp;&emsp;(A) the adjusted basis of the shareholder's stock in the S corporation (determined with regard to paragraphs (1) and (2)(A) of section 1367(a) for the taxable year), and
 
 &emsp;&emsp;(B) the shareholder's adjusted basis of any indebtedness of the S corporation to the shareholder (determined without regard to any adjustment under paragraph (2) of section 1367(b) for the taxable year).
 
@@ -46,11 +46,15 @@ In any case where it is necessary to determine the gross income of a shareholder
 
 #### (B) Cannot exceed shareholder's basis in stock
 
-&emsp;&emsp;The aggregate amount of losses and deductions taken into account by a shareholder under subparagraph (A) shall not exceed the adjusted basis of the shareholder's stock in the corporation (determined at the close of the last day of the post-termination transition period and without regard to this paragraph).
+&emsp;&emsp;The aggregate amount of losses and deductions taken into account by a shareholder under subparagraph (A) shall not exceed theadjusted basis of the shareholder's stock in the corporation (determined at the close of the last day of the post-termination transition period and without regard to this paragraph).
 
 #### (C) Adjustment in basis of stock
 
 &emsp;&emsp;The shareholder's basis in the stock of the corporation shall be reduced by the amount allowed as a deduction by reason of this paragraph.
+
+#### (D) At-risk limitations
+
+&emsp;&emsp;To the extent that any increase in adjusted basis described in subparagraph (B) would have increased the shareholder's amount at risk under section 465 if such increase had occurred on the day preceding the commencement of the post-termination transition period, rules similar to the rules described in subparagraphs (A) through (C) shall apply to any losses disallowed by reason of section 465(a).
 
 #### (e) Treatment of family group
 
@@ -74,13 +78,17 @@ If an individual who is a member of the family (within the meaning of section 70
 
 &emsp;&emsp;(B) the total passive investment income for the taxable year.
 
-#### (g) Cross reference
-
-&emsp;&emsp;<b>For rules relating to procedures for determining the tax treatment of subchapter S items, see subchapter D of chapter 63.</b>
-
-(Added Pub. L. 97–354, §2, Oct. 19, 1982, 96 Stat. 1677; amended Pub. L. 98–369, div. A, title IV, §474(r)(26), title VII, §735(c)(16), July 18, 1984, 98 Stat. 844, 985; Pub. L. 99–514, title VI, §632(c)(2), title VII, §701(e)(4)(K), Oct. 22, 1986, 100 Stat. 2277, 2343; Pub. L. 100–647, title I, §1006(f)(5)(E), Nov. 10, 1988, 102 Stat. 3406; Pub. L. 101–239, title VII, §7811(c)(7), Dec. 19, 1989, 103 Stat. 2407.)
+(Added Pub. L. 97–354, §2, Oct. 19, 1982, 96 Stat. 1677; amended Pub. L. 98–369, div. A, title IV, §474(r)(26), title VII, §735(c)(16), July 18, 1984, 98 Stat. 844, 985; Pub. L. 99–514, title VI, §632(c)(2), title VII, §701(e)(4)(K), Oct. 22, 1986, 100 Stat. 2277, 2343; Pub. L. 100–647, title I, §1006(f)(5)(E), Nov. 10, 1988, 102 Stat. 3406; Pub. L. 101–239, title VII, §7811(c)(7), Dec. 19, 1989, 103 Stat. 2407; Pub. L. 104–188, title I, §§1302(e), 1307(c)(3)(A), 1309(a)(1), 1312, Aug. 20, 1996, 110 Stat. 1779, 1782, 1783, 1784.)
 
 #### Amendments
+
+1996—Subsec. (a)(1). Pub. L. 104–188, §1302(e), inserted “, or of a trust or estate which terminates,” after “who dies” in introductory provisions.
+
+Subsec. (d)(1)(A). Pub. L. 104–188, §1309(a)(1), substituted “paragraphs (1) and (2)(A)” for “paragraph (1)”.
+
+Subsec. (d)(3)(D). Pub. L. 104–188, §1312, added subpar. (D).
+
+Subsec. (g). Pub. L. 104–188, §1307(c)(3)(A), struck out subsec. (g) which provided a cross reference to subchapter D of chapter 63 of this title.
 
 1989—Subsec. (f)(2). Pub. L. 101–239 substituted “Treatment of tax imposed on built-in gains” for “Reduction in pass-thru for tax imposed on built-in gains” in heading and amended text generally. Prior to amendment, text read as follows: “If any tax is imposed under section 1374 for any taxable year on an S corporation, for purposes of subsection (a), the amount of each recognized built-in gain (within the meaning of section 1374) for such taxable year shall be reduced by its proportionate share of such tax.”
 
@@ -100,6 +108,10 @@ Pub. L. 99–514, §701(e)(4)(K), struck out “56 or” before “1374”.
 
 Subsec. (f)(1). Pub. L. 98–369, §735(c)(16), substituted “and special fuels” for “, special fuels, and lubricating oil”.
 
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–188 applicable to taxable years beginning after Dec. 31, 1996, see section 1317(a) of Pub. L. 104–188, set out as a note under section 641 of this title.
+
 #### Effective Date of 1989 Amendment
 
 Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 7817 of Pub. L. 101–239, set out as a note under section 1 of this title.
@@ -110,7 +122,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1986 Amendment
 
-Amendment by section 632(c)(2) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, but only in cases where the return for the taxable year is filed pursuant to an S election made after Dec. 31, 1986, with exceptions and special and transitional rules, see section 633 of Pub. L. 99–514, as amended, set out as an Effective Date note under section 336 of this title.
+Amendment by section 632(c)(2) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986,but only in cases where the return for the taxable year is filed pursuant to an S election made after Dec. 31, 1986, with exceptions and special and transitional rules, see section 633 of Pub. L. 99–514, as amended, set out as an Effective Date note under section 336 of this title.
 
 Amendment by section 701(e)(4)(K) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, with certain exceptions and qualifications, see section 701(f) of Pub. L. 99–514, set out as an Effective Date note under section 55 of this title.
 
@@ -130,5 +142,5 @@ For applicability of amendment by section 701(e)(4)(K) of Pub. L. 99–514 notwi
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 59, 108, 453B, 1362, 1363, 1367, 7519 of this title.
+This section is referred to in sections 59, 108, 453B, 512, 641, 1362, 1363, 1367, 7519 of this title.
 

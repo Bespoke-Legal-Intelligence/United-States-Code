@@ -6,7 +6,7 @@ In any fiscal year in which the amount made available under section 2302(d)(1)(E
 
 &emsp;(1) local educational agencies, intermediate educational agencies or area vocational education schools serving secondary school students, or secondary schools funded by the Bureau of Indian Affairs; and
 
-&emsp;(2)(A) nonprofit institutions of higher education which offer a 2-year associate degree program, a 2-year certificate program, and which are qualified as institutions of higher education pursuant to section 1088(a) of this title, including institutions receiving assistance under the Tribally Controlled Community College Assistance Act of 1978 \[25 U.S.C. 1801 et seq.\], or a 2-year apprenticeship program that follows secondary instruction, ifsuch nonprofit institutions of higher education are not prohibited from receiving assistance under part B of the Higher Education Act of 1965 \[20 U.S.C. 1071 et seq.\] pursuant to the provisions of section 435(a)(3) of such Act \[20 U.S.C. 1085(a)(3)\]; or
+&emsp;(2)(A) nonprofit institutions of higher education which offer a 2-year associate degree program, a 2-year certificate program, and which are qualified as institutions of higher education pursuant to section 1088(a) of this title, including institutions receiving assistance under the Tribally Controlled Community College Assistance Act of 1978 \[25 U.S.C. 1801 et seq.\], or a 2-year apprenticeship program that follows secondary instruction, if such nonprofit institutions of higher education are not prohibited from receiving assistance under part B of the Higher Education Act of 1965 \[20 U.S.C. 1071 et seq.\] pursuant to the provisions of section 435(a)(3) of such Act \[20 U.S.C. 1085(a)(3)\]; or
 
 &emsp;(B) proprietary institutions of higher education which offer a 2-year associate degree program and which are qualified as institutions of higher education pursuant to section 1088(a) of this title if such proprietary institutions of higher education are not subject to a default management plan required by the Secretary.
 
@@ -30,5 +30,5 @@ A prior section 343 of Pub. L. 88–210 was renumbered section 333 and is classi
 
 #### Amendments
 
-1991—Subsec. (a)(2)(A). Pub. L. 102–103 substituted “prohibited from receiving assistance under part B of the Higher Education Act of 1965 pursuant to the provisions of section 435(a)(3) of such Act” for “subject to a default management plan required by the Secretary”.
+1991—Subsec. (a)(2)(A). Pub. L. 102–103 substituted “prohibited from receiving assistance under part B ofthe Higher Education Act of 1965 pursuant to the provisions of section 435(a)(3) of such Act” for “subject to a default management plan required by the Secretary”.
 

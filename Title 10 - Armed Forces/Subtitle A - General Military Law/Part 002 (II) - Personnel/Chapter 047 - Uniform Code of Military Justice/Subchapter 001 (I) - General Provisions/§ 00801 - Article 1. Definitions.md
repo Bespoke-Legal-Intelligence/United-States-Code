@@ -18,7 +18,7 @@ In this chapter:
 
 &emsp;(8) The term “military” refers to any or all of the armed forces.
 
-&emsp;(9) The term “accuser” means a person who signs and swears to charges, any person who directs that charges nominally be signed and sworn to by another, and any other person who has an interest other than an official interest in the prosecution of the accused.
+&emsp;(9) The term “accuser” means a person who signs and swears to charges, any person who directs that charges nominally be signed and sworn to by another, and any other person whohas an interest other than an official interest in the prosecution of the accused.
 
 &emsp;(10) The term “military judge” means an official of a general or special court-martial detailed in accordance with section 826 of this title (article 26).
 
@@ -40,7 +40,11 @@ In this chapter:
 
 &emsp;&emsp;(B) an official audiotape, videotape, or similar material from which sound, or sound and visual images, depicting the proceedings may be reproduced.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 36; Oct. 15, 1966, Pub. L. 89–670, §10(g), 80 Stat. 948; Dec. 8, 1967, Pub. L. 90–179, §1(1), (2), 81 Stat. 545; Oct. 24, 1968, Pub. L. 90–632, §2(1), 82 Stat. 1335; Dec. 6, 1983, Pub. L. 98–209, §§2(a), 6(a), 97 Stat. 1393, 1400; Dec. 4, 1987, Pub. L. 100–180, div. A, title XII, §1231(17), 101 Stat. 1161; Sept. 29, 1988, Pub. L. 100–456, div. A, title XII, §1233(f)(1), 102 Stat. 2057.)
+&emsp;(15) The term “classified information” means (A) any information or material that has been determined by an official of the United States pursuant to law, an Executive order, or regulation to require protection against unauthorized disclosure for reasons of national security, and (B) any restricted data, as defined in section 11(y) of the Atomic Energy Act of 1954 (42 U.S.C. 2014(y)).
+
+&emsp;(16) The term “national security” means the national defense and foreign relations of the United States.
+
+(Aug. 10, 1956, ch. 1041, 70A Stat. 36; Oct. 15, 1966, Pub. L. 89–670, §10(g), 80 Stat. 948; Dec. 8, 1967, Pub. L. 90–179, §1(1), (2), 81 Stat. 545; Oct. 24, 1968, Pub. L. 90–632, §2(1), 82 Stat. 1335; Dec. 6, 1983, Pub. L. 98–209, §§2(a), 6(a), 97 Stat. 1393, 1400; Dec. 4, 1987, Pub. L. 100–180, div. A, title XII, §1231(17), 101 Stat. 1161; Sept. 29, 1988, Pub. L. 100–456, div. A, title XII, §1233(f)(1), 102 Stat. 2057; Feb. 10, 1996, Pub. L. 104–106, div. A, title XI, §1141(b), 110 Stat. 467.)
 
 Historical and Revision Notes
 
@@ -75,6 +79,8 @@ In clause (8), the word “refers” is substituted for the words “shall be co
 In clause (12), the words “Marine Corps” are inserted to make explicit that the clause applies to the Marine Corps. The word “commissioned” is inserted for clarity.
 
 #### Amendments
+
+1996—Cls. (15), (16). Pub. L. 104–106 added cls. (15) and (16).
 
 1988—Cl. (1). Pub. L. 100–456 substituted “term ‘Judge” for “term ‘judge”.
 
@@ -123,6 +129,10 @@ Amendment by Pub. L. 89–670 effective Apr. 1, 1967, as prescribed by the Presi
 #### Effective Date
 
 Section 51 of act Aug. 10, 1956, provided that: “Chapter 47 of title 10, United States Code, enacted by section 1 of this Act, takes effect January 1, 1957.”
+
+#### Short Title of 1996 Amendment
+
+Section 1101 of title XI of div. A of Pub. L. 104–106 provided that: “This title \[enacting sections 857a, 858b, and 876b of this title, amending this section and sections 802, 832, 847, 857, 860, 862, 866, 895, 920, and 937 of this title, repealing section 804 of Title 37, Pay and Allowances of the Uniformed Services, enacting provisions set out as notes under sections 802, 857, 858b, and 876b of this title, and amending provisions set out as a note under section 942 of this title\] may be cited as the ‘Military Justice Amendments of 1995’.”
 
 #### Short Title of 1986 Amendment
 

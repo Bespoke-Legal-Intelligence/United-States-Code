@@ -8,9 +8,19 @@ The Commission, if public convenience, interest, or necessity will be served the
 
 In considering applications for licenses, and modifications and renewals thereof, when and insofar as there is demand for the same, the Commission shall make such distribution of licenses, frequencies, hours of operation, and of power among the several States and communities as to provide a fair, efficient, and equitable distribution of radio service to each of the same.
 
-#### (c) Terms
+#### (c) Terms of licenses
 
-No license granted for the operation of a television broadcasting station shall be for a longer term than five years and no license so granted for any other class of station (other than a radio broadcasting station) shall be for a longer term than ten years, and any license granted may be revoked as hereinafter provided. Each license granted for the operation of a radio broadcasting station shall be for a term of not to exceed seven years. The term of any license for the operation of any auxiliary broadcast station or equipment which can be used only in conjunction with a primary radio, television, or translator station shall be concurrent with the term of the license for such primary radio, television, or translator station. Upon the expiration of any license, upon application therefor, a renewal of such license may be granted from time to time for a term of not to exceed five years in the case of television broadcasting licenses, for a term of not to exceed seven years in the case of radio broadcasting station licenses, and for a term of not to exceed ten years in the case of other licenses, if the Commission finds that public interest, convenience, and necessity would be served thereby. In order to expedite action on applications for renewal of broadcasting station licenses and in order to avoid needless expense to applicants for such renewals, the Commission shall not require any such applicant to file any information which previously has been furnished to the Commission or which is not directly material to the considerations that affect the granting or denial of such application, but the Commission may require any new or additional facts it deems necessary to make its findings. Pending any hearing and final decision on such an application and the disposition of any petition for rehearing pursuant to section 405 of this title, the Commission shall continue such license in effect. Consistently with the foregoing provisions of this subsection, the Commission may by rule prescribe the period or periods for which licenses shall be granted and renewed for particular classes of stations, but the Commission may not adopt or follow any rule which would preclude it, in any case involving a station of a particular class, from granting or renewing a license for a shorter period than that prescribed for stations of such class if, in its judgment, public interest, convenience, or necessity would be served by such action.
+#### (1) Initial and renewal licenses
+
+&emsp;Each license granted for the operation of a broadcasting station shall be for a term of not to exceed 8 years. Upon application therefor, a renewal of such license may be granted from time to time for a term of not to exceed 8 years from the date of expiration of the preceding license, if the Commission finds that public interest, convenience, and necessity would be served thereby. Consistent with the foregoing provisions of this subsection, the Commission may by rule prescribe the period or periods for which licenses shall be granted and renewed for particular classes of stations, but the Commission may not adopt or follow any rule which would preclude it, in any case involving a station of a particular class, from granting or renewing a license for a shorter period than that prescribed for stations of such class if, in its judgment, the public interest, convenience, or necessity would be served by such action.
+
+#### (2) Materials in application
+
+&emsp;In order to expedite action on applications for renewal of broadcasting station licenses and in order to avoid needless expense to applicants for such renewals, the Commission shall not require any such applicant to file any information which previously has been furnished to the Commission or which is not directly material to the considerations that affect the granting or denial of such application, but the Commission may require any new or additional facts it deems necessary to make its findings.
+
+#### (3) Continuation pending decision
+
+&emsp;Pending any hearing and final decision on such an application and the disposition of any petition for rehearing pursuant to section 405 of this title, the Commission shall continue such license in effect.
 
 #### (d) Renewals
 
@@ -18,15 +28,25 @@ No renewal of an existing station license in the broadcast or the common carrier
 
 #### (e) Operation of certain radio stations without individual licenses
 
-(1) Notwithstanding any licensing requirement established in this chapter, the Commission may by rule authorize the operation of radio stations without individual licenses in the radio control service and the citizens band radio service if the Commission determines that such authorization serves the public interest, convenience, and necessity.
+(1) Notwithstanding any license requirement established in this chapter, if the Commission determines that such authorization serves the public interest, convenience, and necessity, the Commission may by rule authorize the operation of radio stations without individual licenses in the following radio services: (A) the citizens band radio service; (B) the radio control service; (C) the aviation radio service for aircraft stations operated on domestic flights when such aircraft are not otherwise required to carry a radio station; and (D) the maritime radio service for ship stations navigated on domestic voyages when such ships are not otherwise required to carry a radio station.
 
-(2) Any radio station operator who is authorized by the Commission under paragraph (1) to operate without an individual license shall comply with all other provisions of this chapter and with rules prescribed by the Commission under this chapter.
+(2) Any radio station operator who is authorized by the Commission to operate without an individual license shall comply with all other provisions of this chapter and with rules prescribed by the Commission under this chapter.
 
-(3) For purposes of this subsection, the terms “radio control service” and “citizens band radio service” shall have the meanings given them by the Commission by rule.
+(3) For purposes of this subsection, the terms “citizens band radio service”, “radio control service”, “aircraft station” and “ship station” shall have the meanings given them by the Commission by rule.
 
-(June 19, 1934, ch. 652, title III, §307, 48 Stat. 1083; June 5, 1936, ch. 511, §2, 49 Stat. 1475; July 16, 1952, ch. 879, §5, 66 Stat. 714; Sept. 13, 1960, Pub. L. 86–752, §3, 74 Stat. 889; Apr. 27, 1962, Pub. L.87–439, 76 Stat. 58; Aug. 13, 1981, Pub. L. 97–35, title XII, §1241(a), 95 Stat. 736; Sept. 13, 1982, Pub. L. 97–259, title I, §§112, 113(a), 96 Stat. 1093.)
+(June 19, 1934, ch. 652, title III, §307, 48 Stat. 1083; June 5, 1936, ch. 511, §2, 49 Stat. 1475; July 16, 1952, ch. 879, §5, 66 Stat. 714; Sept. 13, 1960, Pub. L. 86–752, §3, 74 Stat. 889; Apr. 27, 1962, Pub. L. 87–439, 76 Stat. 58; Aug. 13, 1981, Pub. L. 97–35, title XII, §1241(a), 95 Stat. 736; Sept. 13, 1982, Pub. L. 97–259, title I, §§112, 113(a), 96 Stat. 1093; Feb. 8, 1996, Pub. L. 104–104, title II, §203, title IV, §403(i), 110 Stat. 112, 131.)
 
 #### Amendments
+
+1996—Subsec. (c). Pub. L. 104–104, §203, inserted heading and amended text generally, restructuring existing provisions into pars. (1) to (3) and substituting provisions providing 8 year term for licenses of broadcasting stations for provisions providing 5 year term for licenses of television broadcasting stations, 7 year term for licenses of radio broadcasting stations, and 10 year term for other broadcasting stations.
+
+Subsec. (e). Pub. L. 104–104, §403(i), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows:
+
+“(1) Notwithstanding any licensing requirement established in this chapter, the Commission may by rule authorize the operation of radio stations without individual licenses in the radio control service and the citizens band radio service if the Commission determines that such authorization serves the public interest, convenience, and necessity.
+
+“(2) Any radio station operator who is authorized by the Commission under paragraph (1) to operate without an individual license shall comply with all other provisions of this chapter and with rules prescribed by the Commission under this chapter.
+
+“(3) For purposes of this subsection, the terms ‘radio control service’ and ‘citizens band radio service’ shall have the meanings given them by the Commission by rule.”
 
 1982—Subsec. (c). Pub. L. 97–259, §112, redesignated subsec. (d) as (c), substituted “ten years” for “five years” after “station) shall be for a longer term than” and “term of not to exceed”, and inserted provision that the term of any license for the operation of any auxiliary broadcast station or equipment which can be used only in conjunction with a primary radio, television, or translator station shall be concurrent with the term of the license for such primary radio, television, or translator station. Former subsec. (c), which required the Commission to study proposal that Congress allocate fixed percentages of radio broadcasting facilities to nonprofit activities and report recommendations, with reasons, to Congress not later than Feb. 1, 1935, was struck out.
 

@@ -2,7 +2,7 @@
 
 #### (a) Development of program
 
-The head of each agency utilizing the Foreign Service personnel system shall develop, consistent with section 7201 of title 5, a plan designed to increase significantly the number of members of minority groups and women in the Foreign Service in that agency.
+The head of each agency utilizing the Foreign Service personnel system shall develop, consistent with section 7201 of title 5, a plan designedto increase significantly the number of members of minority groups and women in the Foreign Service in that agency.
 
 #### (b) Emphasis on mid-levels
 

@@ -26,7 +26,7 @@
 
 #### (3) Waiver
 
-&emsp;The Secretary may waive the consortium requirements described in paragraph (2) for any applicant who can demonstrate to the satisfaction of the Secretary that the applicant has devised an integrated and coordinated plan which meets the purpose of this part.
+&emsp;The Secretary may waive the consortium requirements described in paragraph (2) for anyapplicant who can demonstrate to the satisfaction of the Secretary that the applicant has devised an integrated and coordinated plan which meets the purpose of this part.
 
 #### (b) Priority in selection of applications
 

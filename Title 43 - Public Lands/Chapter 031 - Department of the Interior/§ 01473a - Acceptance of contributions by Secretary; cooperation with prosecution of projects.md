@@ -12,6 +12,8 @@ In text, “before, on, and after November 13, 1991,” substituted for “heret
 
 Provisions similar to those in this section were contained in the following appropriation acts:
 
+Pub. L. 104–134, title I, §101(c) \[title I\], Apr. 26, 1996, 110 Stat. 1321–156, 1321–168; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.
+
 Pub. L. 103–332, title I, Sept. 30, 1994, 108 Stat. 2509.
 
 Pub. L. 103–138, title I, Nov. 11, 1993, 107 Stat. 1389.

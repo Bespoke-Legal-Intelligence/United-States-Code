@@ -38,7 +38,7 @@ If any periodic benefit for a total or partial disability under a law or plan de
 
 #### (c) Reductions and deductions under other provisions
 
-Reduction of benefits under this section shall be made after any reduction under subsection\(a) of section 403 of this title, but before deductions under such section and under section 422(b) of this title.
+Reduction of benefits under this section shall be made after any reduction under subsection (a) of section 403 of this title, but before deductions under such section and under section 422(b) of this title.
 
 #### (d) Exception
 
@@ -108,7 +108,7 @@ Subsec. (a)(2)(B). Pub. L. 99–509 substituted “section 418(g)” for “sect
 
 Pub. L. 99–272, §12109(a)(2), substituted “all or substantially all of which” for “all or part of which” in cl. (iv).
 
-1981—Subsec. (a). Pub. L. 97–35, §2208(a)(2)–(4), in provision preceding par. (1) substituted “age of 65” for “age of 62”, in par. (2) inserted provisions including periodic benefits under any other law or plan of the United States, a State, a political subdivision, or an instrumentality of two or more States and excluding specified benefits and struck out provision requiring that the Secretary receive notice, in a prior month, of the entitlement for such month, and in par. (4) substituted “such laws or plans” for “the workmen's compensation law or plan”.
+1981—Subsec. (a). Pub. L. 97–35, §2208(a)(2)–(4), in provision preceding par. (1) substituted “age of 65” for “age of 62”, in par. (2) inserted provisions including periodic benefits under any other law or plan of theUnited States, a State, a political subdivision, or an instrumentality of two or more States and excluding specified benefits and struck out provision requiring that the Secretary receive notice, in a prior month, of the entitlement for such month, and in par. (4) substituted “such laws or plans” for “the workmen's compensation law or plan”.
 
 Subsec. (b). Pub. L. 97–35, §2208(a)(5), substituted “for a total or partial disability under a law or plan described in subsection (a)(2) of this section” for “under a workmen's compensation law or plan”.
 

@@ -32,13 +32,13 @@ Factors To Be Considered in Imposing a Sentence.—The court shall impose a sent
 
 (b)
 
-Application of Guidelines in Imposing a Sentence.—The court shall impose a sentence of the kind, and within the range, referred to in subsection (a)(4) unless the court finds that there exists an aggravating or mitigating circumstance of a kind, or to a degree, not adequately taken into consideration by the Sentencing Commission in formulating the guidelines that should result in a sentence different from that described. In determining whether a circumstance was adequately taken into consideration, the court shall consider only the sentencing guidelines, policy statements, and official commentary of the Sentencing Commission. In the absence of an applicable sentencing guideline, the court shall impose an appropriate sentence, having due regard for the purposes set forth in subsection (a)(2). In the absence of an applicable sentencing guideline in the case of an offense other than a petty offense, the court shall also have due regard for the relationship of the sentence imposed to sentences prescribed by guidelines applicable to similar offenses and offenders, and to the applicable policy statements of the Sentencing Commission.
+Application of Guidelines in Imposing a Sentence.—The court shall impose a sentence of the kind, and within the range, referred to insubsection (a)(4) unless the court finds that there exists an aggravating or mitigating circumstance of a kind, or to a degree, not adequately taken into consideration by the Sentencing Commission in formulating the guidelines that should result in a sentence different from that described. In determining whether a circumstance was adequately taken into consideration, the court shall consider only the sentencing guidelines, policy statements, and official commentary of the Sentencing Commission. In the absence of an applicable sentencing guideline, the court shall impose an appropriate sentence, having due regard for the purposes set forth in subsection (a)(2). In the absence of an applicable sentencing guideline in the case of an offense other than a petty offense, the court shall also have due regard for the relationship of the sentence imposed to sentences prescribed by guidelines applicable to similar offenses and offenders, and to the applicable policy statements of the Sentencing Commission.
 
 (c)
 
 Statement of Reasons for Imposing a Sentence.—The court, at the time of sentencing, shall state in open court the reasons for its imposition of the particular sentence, and, if the sentence—
 
-&emsp;(1) is of the kind, and within the range, described in subsection (a)(4), and that range exceeds 24 months, the reason for imposing asentence at a particular point within the range; or
+&emsp;(1) is of the kind, and within the range, described in subsection (a)(4), and that range exceeds 24 months, the reason for imposing a sentence at a particular point within the range; or
 
 &emsp;(2) is not of the kind, or is outside the range, described in subsection (a)(4), the specific reason for the imposition of a sentence different from that described.
 
@@ -62,7 +62,7 @@ Limited Authority To Impose a Sentence Below a Statutory Minimum.—Upon motion 
 
 (f)
 
-Limitation on Applicability of Statutory Minimums in Certain Cases.—Notwithstanding any other provision of law, in the case of an offense under section 401, 404, or 406 of the Controlled Substances Act (21 U.S.C. 841, 844, 846) or section 1010 or 1013 of the Controlled Substances Import and Export Act (21 U.S.C. 961,<sup>1</sup> 963), the court shall impose a sentence pursuant to guidelines promulgated by the United States Sentencing Commission under section 994 of title 28 without regard to any statutory minimum sentence, if the court finds at sentencing, after the Government has been afforded the opportunity to make a recommendation, that—
+Limitation on Applicability of Statutory Minimums in Certain Cases.—Notwithstanding any other provision of law, in the case of an offense under section 401, 404, or 406 of the Controlled Substances Act (21 U.S.C. 841, 844, 846) or section 1010 or 1013 of the Controlled Substances Import and Export Act (21 U.S.C. 960, 963), the court shall impose a sentence pursuant to guidelines promulgated by the United States Sentencing Commission under section 994 of title 28 without regard to any statutory minimum sentence, if the court finds at sentencing, after the Government has been afforded the opportunity to make a recommendation, that—
 
 &emsp;(1) the defendant does not have more than 1 criminal history point, as determined under the sentencing guidelines;
 
@@ -70,17 +70,27 @@ Limitation on Applicability of Statutory Minimums in Certain Cases.—Notwithsta
 
 &emsp;(3) the offense did not result in death or serious bodily injury to any person;
 
-&emsp;(4) the defendant was not an organizer, leader, manager, or supervisor of others in the offense, as determined under the sentencing guidelines and was not engaged in a continuing criminal enterprise, as defined in 21 U.S.C. 848; and
+&emsp;(4) the defendant was not an organizer, leader, manager, or supervisor of others in the offense, as determined under the sentencing guidelines and was not engaged in a continuing criminal enterprise, as defined in section 408 of the Controlled Substances Act; and
 
 &emsp;(5) not later than the time of the sentencing hearing, the defendant has truthfully provided to the Government all information and evidence the defendant has concerning the offense or offenses that were part of the same course of conduct or of a common scheme or plan, but the fact that the defendant has no relevant or useful other information to provide or that the Government is already aware of the information shall not preclude a determination by the court that the defendant has complied with this requirement.
 
-(Added Pub. L. 98–473, title II, §212(a)(2), Oct. 12, 1984, 98 Stat. 1989; amended Pub. L. 99–570, title I, §1007(a), Oct. 27, 1986, 100 Stat. 3207–7; Pub. L. 99–646, §§8(a), 9(a), 80(a), 81(a), Nov. 10, 1986, 100 Stat. 3593, 3619; Pub. L. 100–182, §§3, 16(a), 17, Dec. 7, 1987, 101 Stat. 1266, 1269, 1270; Pub. L. 100–690, title VII, §7102, Nov. 18, 1988, 102 Stat. 4416; Pub. L. 103–322, title VIII, §80001(a), title XXVIII, §280001, Sept. 13, 1994, 108 Stat. 1985, 2095.)
+(Added Pub. L. 98–473, title II, §212(a)(2), Oct. 12, 1984, 98 Stat. 1989; amended Pub. L. 99–570, title I, §1007(a), Oct. 27, 1986, 100 Stat. 3207–7; Pub. L. 99–646, §§8(a), 9(a), 80(a), 81(a), Nov. 10, 1986, 100 Stat. 3593, 3619; Pub. L. 100–182, §§3, 16(a), 17, Dec. 7, 1987, 101 Stat. 1266, 1269, 1270; Pub. L. 100–690, title VII, §7102, Nov. 18, 1988, 102 Stat. 4416; Pub. L. 103–322, title VIII, §80001(a), title XXVIII, §280001, Sept. 13, 1994, 108 Stat. 1985, 2095; Pub. L. 104–294, title VI, §§601(b)(5), (6), (h), Oct. 11, 1996, 110 Stat. 3499, 3500.)
+
+#### References in Text
+
+Section 408 of the Controlled Substances Act, referred to in subsec. (f)(4), is classified to section 848 of Title 21, Food and Drugs.
 
 #### Amendments
 
+1996—Subsec. (f). Pub. L. 104–294, §601(h), amended directory language of Pub. L. 103–322, §80001(a). See 1994 Amendment note below.
+
+Pub. L. 104–294, §601(b)(5), in introductory provisions, substituted “section 1010 or 1013 of the Controlled Substances Import and Export Act (21 U.S.C. 960, 963)” for “section 1010 or 1013 of the Controlled Substances Import and Export Act (21 U.S.C. 961, 963)”.
+
+Subsec. (f)(4). Pub. L. 104–294, §601(b)(6), substituted “section 408 of the Controlled Substances Act” for “21 U.S.C. 848”.
+
 1994—Subsec. (a)(4). Pub. L. 103–322, §280001, amended par. (4) generally. Prior to amendment, par. (4) read as follows: “the kinds of sentence and the sentencing range established for the applicable category of offense committed by the applicable category of defendant as set forth in the guidelines that are issued by the Sentencing Commission pursuant to 28 U.S.C. 994(a)(1) and that are in effect on the date the defendant is sentenced;”.
 
-Subsec. (f). Pub. L. 103–322, §80001(a), added subsec. (f).
+Subsec. (f). Pub. L. 103–322, §80001(a), as amended by Pub. L. 104–294, §601(h), added subsec. (f).
 
 1988—Subsec. (c). Pub. L. 100–690 inserted “or other appropriate public record” after “transcription” in second sentence and struck out “clerk of the” before “court” in last sentence.
 
@@ -88,7 +98,7 @@ Subsec. (f). Pub. L. 103–322, §80001(a), added subsec. (f).
 
 Pub. L. 100–182, §3(3), inserted after first sentence “In determining whether a circumstance was adequately taken into consideration, the court shall consider only the sentencing guidelines, policy statements, and official commentary of the Sentencing Commission.”
 
-Pub. L. 100–182, §16(a), substituted “In the absence of an applicable sentencing guideline, the court shall impose an appropriate sentence, having due regard for the purposes set forth in subsection (a)(2). In the absence of an applicable sentencing guideline in the case of an offense other than a petty offense, the court shall also have due regard for the relationship of the sentence imposed to sentences prescribed by guidelines applicable to similar offenses and offenders, and to the applicable policy statements of the Sentencing Commission.” for“In the absence of an applicable sentencing guideline, the court shall impose an appropriate sentence, having due regard for the relationship of the sentence imposed to sentences prescribed by guidelines applicable to similar offenses and offenders, the applicable policy statements of the Sentencing Commission, and the purposes of sentencing set forth in subsection (a)(2).”
+Pub. L. 100–182, §16(a), substituted “In the absence of an applicable sentencing guideline, the court shall impose an appropriate sentence, having due regard for the purposes set forth in subsection (a)(2). In the absence of an applicable sentencing guideline in the case of an offense other than a petty offense, the court shall also have due regard for the relationship of the sentence imposed to sentences prescribed by guidelines applicable to similar offenses and offenders, and to the applicable policy statements of the Sentencing Commission.” for “In the absence of an applicable sentencing guideline, the court shall impose an appropriate sentence, having due regard for the relationship of the sentence imposed to sentences prescribed by guidelines applicable to similar offenses and offenders, the applicable policy statements of the Sentencing Commission, and the purposes of sentencing set forth in subsection (a)(2).”
 
 Subsec. (c)(1). Pub. L. 100–182, §17, inserted “and that range exceeds 24 months,”.
 
@@ -141,6 +151,4 @@ Section 24 of Pub. L. 100–182 provided that: “Notwithstanding section 235 of
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 1031, 3551, 3552, 3555, 3562, 3563, 3564, 3565, 3572, 3582, 3583, 3584, 3742 of this title; title 28 sections 991, 994, 995.
-
-<i><sup>1</sup></i><i> So in original. Probably should be “960,”.</i>
 

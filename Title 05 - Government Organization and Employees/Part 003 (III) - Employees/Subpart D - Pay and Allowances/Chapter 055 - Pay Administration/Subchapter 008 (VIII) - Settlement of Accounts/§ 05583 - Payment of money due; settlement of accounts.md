@@ -1,14 +1,14 @@
 ### §5583. Payment of money due; settlement of accounts
 
-(a) Under such regulations as the Comptroller General of the United States may prescribe, the employing agency shall pay money due a deceased employee to the beneficiary designated by the employee under section 5582(b) of this title, or, if none, to the widow or widower of the employee.
+(a) Under such regulations as the Director of the Office of Personnel Management may prescribe, the employing agency shall pay money due a deceased employee to the beneficiary designated by the employee under section 5582(b) of this title, or, if none, to the widow or widower of the employee.
 
-(b) Except as the Comptroller General may by regulation otherwise authorize or direct, accounts not payable under subsection (a) of this section are payable on settlement of the General Accounting Office. However—
+(b) The Director may by regulation prescribe the method for settlement of accounts payable under subsection (a) of this section. However—
 
 &emsp;(1) accounts of employees of the government of the District of Columbia shall be paid by the District of Columbia; and
 
 &emsp;(2) accounts of employees of Government corporations or mixed ownership Government corporations may be paid by the corporations.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 496; Pub. L. 96–70, title III, §3302(e)(7), Sept. 27, 1979, 93 Stat. 498.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 496; Pub. L. 96–70, title III, §3302(e)(7), Sept. 27, 1979, 93 Stat. 498; Pub. L. 104–316, title II, §202(b), Oct. 19, 1996, 110 Stat. 3842.)
 
 Historical and Revision Notes
 
@@ -16,7 +16,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 5 U.S.C. 61h.
 
@@ -30,15 +32,15 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-<b>1979</b>—Subsec. (b). Pub. L. 96–70 struck out par. (2) providing that accounts of the employees of the Canal Zone Government be paid by the Canal Zone Government, and redesignated par. (3) as (2).
+1996—Subsec. (a). Pub. L. 104–316, §202(b)(1), substituted “Director of the Office of Personnel Management” for “Comptroller General of the United States”.
+
+Subsec. (b). Pub. L. 104–316, §202(b)(2), substituted “The Director may by regulation prescribe the method for settlement of accounts payable under subsection (a) of this section.” for “Except as the Comptroller General may by regulation otherwise authorize or direct, accounts not payable under subsection (a) of this section are payable on settlement of the General Accounting Office.”
+
+1979—Subsec. (b). Pub. L. 96–70 struck out par. (2) providing that accounts of the employees of the Canal Zone Government be paid by the Canal Zone Government, and redesignated par. (3) as (2).
 
 #### Effective Date of 1979 Amendment
 
 Amendment by Pub. L. 96–70 effective Oct. 1, 1979, see section 3304 of Pub. L. 96–70, set out as an Effective Date note under section 3601 of Title 22, Foreign Relations and Intercourse.
-
-#### Transfer of Functions
-
-Functions of Comptroller General under this section transferred, effective June 30, 1996, to Director of Office of Management and Budget, see section 211 of Pub. L. 104–53, set out as a note under section 501 of Title 31, Money and Finance.
 
 #### Cross References
 

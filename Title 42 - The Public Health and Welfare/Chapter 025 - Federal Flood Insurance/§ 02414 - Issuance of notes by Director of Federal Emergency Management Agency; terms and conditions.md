@@ -30,7 +30,7 @@ Amendment by Pub. L. 90–448 effective 120 days following Aug. 1, 1968, or such
 
 #### Transfer of Functions
 
-Functions of Public Housing Administration and of Housing and Home Finance Agency (of which Public Housing Administration is a constituent agency) and of heads thereof transferred to Secretary of Housing and Urban Development by Pub. L. 89–174, §5(a), Sept. 9, 1965, 79 Stat. 669, which is classified to section 3534(a) of this title. Section 9(c) of such act, set out as a note under section 3531 of this title, provides that references to Housing and Home Finance Agency or to any agency or officer therein are to be deemed to mean Secretary of Housing and Urban Development and that Housing and Home Finance Agency and Public Housing Administration have lapsed.
+Functions of Public Housing Administration and of Housing and Home Finance Agency (of which Public Housing Administration is a constituent agency) and ofheads thereof transferred to Secretary of Housing and Urban Development by Pub. L. 89–174, §5(a), Sept. 9, 1965, 79 Stat. 669, which is classified to section 3534(a) of this title. Section 9(c) of such act, set out as a note under section 3531 of this title, provides that references to Housing and Home Finance Agency or to any agency or officer therein are to be deemed to mean Secretary of Housing and Urban Development and that Housing and Home Finance Agency and Public Housing Administration have lapsed.
 
 #### Section Referred to in Other Sections
 

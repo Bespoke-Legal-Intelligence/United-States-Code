@@ -18,21 +18,23 @@
 
 &emsp;(ii) fourteen days.
 
-(2) Payments and reimbursements to Members-elect under paragraph (1) shall be made as provided (with respect to Members) in the regulations prescribed by the Committee on House Administration with respect to travel and other expenses of committees and Members. Reimbursements shall be paid on special voucher forms prescribed by the Committee on House Administration.
+(2) Payments and reimbursements to Members-elect under paragraph (1) shall be made as provided (with respect to Members) in the regulations prescribed by the Committee on House Oversight with respect to travel and other expenses of committees and Members. Reimbursements shall be paid on special voucher forms prescribed by the Committee on House Oversight.
 
-#### (c) Availability of House contingent fund
+#### (c) Availability of applicable accounts of House
 
-The contingent fund of the House is made available to carry out the purposes of this section.
+The applicable accounts of the House of Representatives are made available to carry out the purposes of this section.
 
-(Pub. L. 93–554, title I, ch. III, Dec. 27, 1974, 88 Stat. 1777.)
+(Pub. L. 93–554, title I, ch. III, Dec. 27, 1974, 88 Stat. 1777; Pub. L. 104–186, title II, §202(4), Aug. 20, 1996, 110 Stat. 1725.)
 
 #### Codification
 
 Section is based on section 202 of House Resolution No. 988, Ninety-third Congress, Oct. 8, 1974, which was enacted into permanent law by Pub. L. 93–554.
 
-#### Change of Name
+#### Amendments
 
-Committee on House Administration of House of Representatives treated as referring to Committee on House Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of this title.
+1996—Subsec. (b)(2). Pub. L. 104–186, §202(4)(A), substituted “House Oversight” for “House Administration” in two places.
+
+Subsec. (c). Pub. L. 104–186, §202(4)(B), substituted “applicable accounts of the House of Representatives are” for “contingent fund of the House is”.
 
 #### Effective Date
 

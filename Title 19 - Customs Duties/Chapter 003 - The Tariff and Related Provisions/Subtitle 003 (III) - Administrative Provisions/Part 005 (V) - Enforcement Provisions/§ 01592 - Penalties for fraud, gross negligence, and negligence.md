@@ -4,7 +4,7 @@
 
 #### (1) General rule
 
-&emsp;Without regard to whether the United States is or may be deprived of all or a portion of any lawful duty thereby, no person, by fraud, gross negligence, or negligence—
+&emsp;Without regard to whether the United States is or may be deprived of all or a portion of any lawful duty, tax, or fee thereby, no person, by fraud, gross negligence, or negligence—
 
 &emsp;&emsp;(A) may enter, introduce, or attempt to enter or introduce any merchandise into the commerce of the United States by means of—
 
@@ -36,7 +36,7 @@
 
 &emsp;&emsp;&emsp;(v) state whether the alleged violation occurred as a result of fraud, gross negligence, or negligence;
 
-&emsp;&emsp;&emsp;(vi) state the estimated loss of lawful duties, if any, and, taking into account all circumstances, the amount of the proposed monetary penalty; and
+&emsp;&emsp;&emsp;(vi) state the estimated loss of lawful duties, taxes, and fees, if any, and, taking into account all circumstances, the amount of the proposed monetary penalty; and
 
 &emsp;&emsp;&emsp;(vii) inform such person that he shall have a reasonable opportunity to make representations, both oral and written, as to why a claim for a monetary penalty should not be issued in the amount stated.
 
@@ -50,7 +50,7 @@
 
 #### (2) Penalty claim
 
-&emsp;After considering representations, if any, made by the person concerned pursuant to the notice issued under paragraph (1), the Customs Service shall determine whether any violation of subsection (a) of this section, as alleged inthe notice, has occurred. If the Customs Service determines that there was no violation, it shall promptly issue a written statement of the determination to the person to whom the notice was sent. If the Customs Service determines that there was a violation, it shall issue a written penalty claim to such person. The written penalty claim shall specify all changes in the information provided under clauses (i) through (vi) of paragraph (1)(A). Such person shall have a reasonable opportunity under section 1618 of this title to make representations, both oral and written, seeking remission or mitigation of the monetary penalty. At the conclusion of any proceeding under such section 1618, the Customs Service shall provide to the person concerned a written statement which sets forth the final determination and the findings of fact and conclusions of law on which such determination is based.
+&emsp;After considering representations, if any, made by the person concerned pursuant to the notice issued under paragraph (1), the Customs Service shall determine whether any violation of subsection (a) of this section, as alleged in the notice, has occurred. If the Customs Service determines that there was no violation, it shall promptly issue a written statement of the determination to the person to whom the notice was sent. If the Customs Service determines that there was a violation, it shall issue a written penalty claim to such person. Thewritten penalty claim shall specify all changes in the information provided under clauses (i) through (vi) of paragraph (1)(A). Such person shall have a reasonable opportunity under section 1618 of this title to make representations, both oral and written, seeking remission or mitigation of the monetary penalty. At the conclusion of any proceeding under such section 1618, the Customs Service shall provide to the person concerned a written statement which sets forth the final determination and the findings of fact and conclusions of law on which such determination is based.
 
 #### (c) Maximum penalties
 
@@ -66,7 +66,7 @@
 
 &emsp;&emsp;&emsp;(i) the domestic value of the merchandise, or
 
-&emsp;&emsp;&emsp;(ii) four times the lawful duties of which the United States is or may be deprived, or
+&emsp;&emsp;&emsp;(ii) four times the lawful duties, taxes, and fees of which the United States is or may be deprived, or
 
 &emsp;&emsp;(B) if the violation did not affect the assessment of duties, 40 percent of the dutiable value of the merchandise.
 
@@ -78,7 +78,7 @@
 
 &emsp;&emsp;&emsp;(i) the domestic value of the merchandise, or
 
-&emsp;&emsp;&emsp;(ii) two times the lawful duties of which the United States is or may be deprived, or
+&emsp;&emsp;&emsp;(ii) two times the lawful duties, taxes, and fees of which the United States is or may be deprived, or
 
 &emsp;&emsp;(B) if the violation did not affect the assessment of duties, 20 percent of the dutiable value of the merchandise.
 
@@ -88,11 +88,11 @@
 
 &emsp;&emsp;(A) if the violation resulted from fraud—
 
-&emsp;&emsp;&emsp;(i) an amount equal to 100 percent of the lawful duties of which the United States is or may be deprived, so long as such person tenders the unpaid amount of the lawful duties at the time of disclosure, or within 30 days (or such longer period as the Customs Service may provide) after notice by the Customs Service of its calculation of such unpaid amount, or
+&emsp;&emsp;&emsp;(i) an amount equal to 100 percent of the lawful duties, taxes, and fees of which the United States is or may be deprived, so long as such person tenders the unpaid amount of the lawful duties, taxes, and fees at the time of disclosure, or within 30 days (or such longer period as the Customs Service may provide) after notice by the Customs Service of its calculation of such unpaid amount, or
 
 &emsp;&emsp;&emsp;(ii) if such violation did not affect the assessment of duties, 10 percent of the dutiable value; or
 
-&emsp;&emsp;(B) if such violation resulted from negligence or gross negligence, the interest (computed from the date of liquidation at the prevailing rate of interest applied under section 6621 of title 26) on the amount of lawful duties of which the United States is or may be deprived so long as such person tenders the unpaid amount of the lawful duties at the time of disclosure, or within 30 days (or such longer period as the Customs Service may provide) after notice by the Customs Service of its calculation of such unpaid amount.
+&emsp;&emsp;(B) if such violation resulted from negligence or gross negligence, the interest (computed from the date of liquidation at the prevailing rate of interest applied under section 6621 of title 26) on the amount of lawful duties, taxes, and fees of which the United States is or may be deprived so long as such person tenders the unpaid amount of the lawful duties, taxes, and fees at the time of disclosure, or within 30 days (or such longer period as the Customs Service may provide) after notice by the Customs Service of its calculation of such unpaid amount.
 
 > &emsp;The person asserting lack of knowledge of the commencement of a formal investigation has the burden of proof in establishing such lack of knowledge. For purposes of this section, a formal investigation of a violation is considered to be commenced with regard to the disclosing party and the disclosed information on the date recorded in writing by the Customs Service as the date on which facts and circumstances were discovered or information was received which caused the Customs Service to believe that a possibility of a violation of subsection (a) of this section existed.
 
@@ -110,7 +110,7 @@
 
 #### (d) Deprivation of lawful duties, taxes, or fees
 
-Notwithstanding section 1514 of this title, if the United States has been deprived of lawful duties, taxes, or fees as a result of a violation of subsection (a) of this section, the Customs Service shall require that such lawful duties, taxes, or fees be restored, whether or not a monetary penalty is assessed.
+Notwithstanding section 1514 of this title, if the United States has been deprived of lawfulduties, taxes, or fees as a result of a violation of subsection (a) of this section, the Customs Service shall require that such lawful duties, taxes, and fees be restored, whether or not a monetary penalty is assessed.
 
 #### (e) Court of International Trade proceedings
 
@@ -146,7 +146,7 @@ Notwithstanding any other provision of law, in any proceeding commenced by the U
 
 &emsp;&emsp;(B) the person voluntarily and promptly provides written notice of the change to all persons to whom the person provided the Certificate of Origin.
 
-(June 17, 1930, ch. 497, title IV, §592, 46 Stat. 750; Aug. 5, 1935, ch. 438, title III, §304(b), 49 Stat. 527; Oct. 3, 1978, Pub. L. 95–410, title I, §110(a), 92 Stat. 893; Oct. 10, 1980, Pub. L. 96–417, title VI, §609, 94 Stat. 1746; Oct. 22, 1986, Pub. L. 99–514, §2, 100 Stat. 2095; Dec. 8, 1993, Pub. L. 103–182, title II, §205(c), title VI, §621, 107 Stat. 2095, 2180.)
+(June 17, 1930, ch. 497, title IV, §592, 46 Stat. 750; Aug. 5, 1935, ch. 438, title III, §304(b), 49 Stat. 527; Oct. 3, 1978, Pub. L. 95–410, title I, §110(a), 92 Stat. 893; Oct. 10, 1980, Pub. L. 96–417, title VI, §609, 94 Stat. 1746; Oct. 22, 1986, Pub. L. 99–514, §2, 100 Stat. 2095; Dec. 8, 1993, Pub. L. 103–182, title II, §205(c), title VI, §621, 107 Stat. 2095, 2180; Oct. 11, 1996, Pub. L. 104–295, §§3(a)(4), (5), 21(e)(12), (13), 110 Stat. 3515, 3531.)
 
 #### Prior Provisions
 
@@ -162,6 +162,18 @@ Act June 22, 1874, ch. 391, §16, 18 Stat. 189, required special findings as to 
 
 #### Amendments
 
+1996—Subsec. (a)(1). Pub. L. 104–295, §3(a)(4)(A), substituted “lawful duty, tax, or fee” for “lawful duty”.
+
+Subsecs. (b)(1)(A)(vi), (c)(2)(A)(ii), (3)(A)(ii). Pub. L. 104–295, §3(a)(4)(B), substituted “lawful duties, taxes, and fees” for “lawful duties”.
+
+Subsec. (c)(4)(A)(i), (B). Pub. L. 104–295, §21(e)(12), amended Pub. L. 103–182, §621(4)(A). See 1993 Amendment notes below.
+
+Pub. L. 104–295, §3(a)(4)(B), substituted “lawful duties, taxes, and fees” for “lawful duties” in two places.
+
+Subsec. (d). Pub. L. 104–295, §21(e)(13), inserted comma after “taxes” in heading.
+
+Pub. L. 104–295, §3(a)(5), substituted “and fees be restored” for “or fees be restored”.
+
 1993—Subsec. (a)(1)(A)(i). Pub. L. 103–182, §621(1), inserted “or electronically transmitted data or information” after “document”.
 
 Subsec. (a)(2). Pub. L. 103–182, §621(2), inserted at end “The mere nonintentional repetition by an electronic system of an initial clerical error does not constitute a pattern of negligent conduct.”
@@ -170,11 +182,11 @@ Subsec. (b)(1)(A). Pub. L. 103–182, §621(3)(A), substituted “the Customs Se
 
 Subsec. (b)(2). Pub. L. 103–182, §621(3)(B), substituted “the Customs Service shall determine” for “the appropriate customs officer shall determine”, “the Customs Service determines” for “such officer determines” in two places, “it shall” for “he shall” in two places, and “the Customs Service shall provide” for “the appropriate customs officer shall provide”.
 
-Subsec. (c)(4). Pub. L. 103–182, §621(4)(B), inserted at end “For purposes of this section, a formal investigation of a violation is considered to be commenced with regard to the disclosing party and the disclosed information on the date recorded in writing by the Customs Service as the date on which facts and circumstances were discovered or information was received which caused the Customs Service to believe that a possibility of a violation of subsection (a) of this section existed.”
+Subsec. (c)(4). Pub. L. 103–182, §621(4)(B), inserted at end “For purposes of this section, a formal investigation of a violation is considered to be commenced with regard to the disclosing party and the disclosed information on the date recorded in writing by the Customs Service as the date on which facts and circumstances were discovered or information was received whichcaused the Customs Service to believe that a possibility of a violation of subsection (a) of this section existed.”
 
-Subsec. (c)(4)(A)(i). Pub. L. 103–182, §621(4)(A), substituted “time of disclosure, or within 30 days (or such longer period as the Customs Service may provide) after notice by the Customs Service of its” for “time of disclosure or within thirty days, or such longer periodas the appropriate customs officer may provide, after notice by the appropriate customs officer of his”.
+Subsec. (c)(4)(A)(i). Pub. L. 103–182, §621(4)(A), as amended by Pub. L. 104–295, §21(e)(12), substituted “time of disclosure, or within 30 days (or such longer period as the Customs Service may provide) after notice by the Customs Service of its” for “time of disclosure or within thirty days, or such longer period as the appropriate customs officer may provide, after notice by the appropriate customs officer of his”.
 
-Subsec. (c)(4)(B). Pub. L. 103–182, §621(4)(A), which directed the substitution of “time of disclosure, or within 30 days (or such longer period as the Customs Service may provide) after notice by the Customs Service of its” for “time of disclosure in 30 days, or such longer period as the appropriate customs officer may provide, after notice by the appropriate customs officer of his”, was executed by making the substitution for text which began “time of disclosure, or within 30 days”, to reflect the probable intent of Congress.
+Subsec. (c)(4)(B). Pub. L. 103–182, §621(4)(A), as amended by Pub. L. 104–295, §21(e)(12), which directed the substitution of “time of disclosure, or within 30 days (or such longer period as the Customs Service may provide) after notice by the Customs Service of its” for “time of disclosure within 30 days, or such longer period as the appropriate customs officer may provide, after notice by the appropriate customs officer of his”, was executed by making the substitution for text which began “time of disclosure or within 30 days”, to reflect the probable intent of Congress.
 
 Subsec. (c)(5), (6). Pub. L. 103–182, §205(c)(1), added par. (5) and redesignated former par. (5) as (6).
 
@@ -189,6 +201,10 @@ Subsec. (f). Pub. L. 103–182, §205(c)(2), added subsec. (f).
 1978—Pub. L. 95–410 substituted subsecs. (a) to (e) relating to penalties for fraud, gross negligence, and negligence for prior provisions which: provided for forfeiture of merchandise, or recovery of value thereof, where entry or attempted entry of the merchandise was made using fraudulent or false invoice, declaration, affidavit, letter, paper, or false statement, written or verbal, false or fraudulent practice or appliance, or false statement in a declaration on entry without reasonable cause to believe the truth of the statement or aided or procured the making any such false statement as to any material matter without reasonable cause to believe the truth of the statement, regardless of deprivation of lawful duties, or guilty of any willful act or omission when there was a deprivation of such duties; made the forfeiture applicable to the whole of the merchandise or the value thereof where package contained the particular articles to which the fraud or false paper or statement related; and defined attempt to enter the merchandise without an actual entry having been made or offered.
 
 1935—Act Aug. 5, 1935, inserted “whether or not the United States shall or may be deprived of the lawful duties, or any portion thereof, accruing upon the merchandise, or any portion thereof, embraced or referred to in such invoice, declaration, affidavit, letter, paper, or statement;”.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by section 3(a)(4), (5) of Pub. L. 104–295 applicable as of Dec. 8, 1993, see section 3(b) of Pub. L. 104–295, set out as a note under section 1321 of this title.
 
 #### Effective Date of 1993 Amendment
 

@@ -6,7 +6,9 @@ Appropriations for enforcing customs, narcotics, counterfeiting, or internal rev
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

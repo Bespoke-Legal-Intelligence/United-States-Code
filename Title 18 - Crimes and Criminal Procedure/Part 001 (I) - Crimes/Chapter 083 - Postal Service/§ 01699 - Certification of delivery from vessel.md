@@ -1,4 +1,4 @@
-### §1699 . Certification of delivery from vessel
+### §1699. Certification of delivery from vessel
 
 No vessel arriving within a port or collection district of the United States shall be allowed to make entry or break bulk until all letters on board are delivered to the nearest post office, except where waybilled for discharge at other ports in the United States at which the vessel is scheduled to call and the Postal Service does not determine that unreasonable delay in the mails will occur, and the master or other person having charge or control thereof has signed and sworn to the following declaration before the collector or other proper customs officer:
 

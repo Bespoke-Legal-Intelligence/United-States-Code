@@ -10,7 +10,7 @@
 
 1970—Pub. L. 91–547 substituted reference to “section 1254” for “sections 346 and 347” of title 28.
 
-1958—Subsec. (a). Pub. L. 85–791, in second sentence, substituted “transmitted by the clerk of the court to any member of the Commission or” for “served upon any member of the Commission or upon”, substituted “file in the court” for “certify and file in the court a transcript of”, and inserted “as provided in section 2112 of title 28” and, in third sentence, substituted “petition” for “transcript”, and “jurisdiction, which upon the filing of the record shall be exclusive” for “exclusive jurisdiction”.
+1958—Subsec. (a). Pub. L. 85–791, in second sentence, substituted “transmitted by the clerk of the court toany member of the Commission or” for “served upon any member of the Commission or upon”, substituted “file in the court” for “certify and file in the court a transcript of”, and inserted “as provided in section 2112 of title 28” and, in third sentence, substituted “petition” for “transcript”, and “jurisdiction, which upon the filing of the record shall be exclusive” for “exclusive jurisdiction”.
 
 #### Change of Name
 

@@ -6,7 +6,7 @@
 
 &emsp;(A) To enter into foreign trade agreements with foreign governments or instrumentalities thereof: <i>Provided</i>, That the enactment of the Trade Agreements Extension Act of 1955 shall not be construed to determine or indicate the approval or disapproval by the Congress of the executive agreement known as the General Agreement on Tariffs and Trade.
 
-&emsp;(B) To proclaim such modifications of existing duties and other import restrictions, or such additional import restrictions, or such continuance, and for such minimum periods,of existing customs or excise treatment of any article covered by foreign trade agreements, as are required or appropriate to carry out any foreign trade agreement that the President has entered into hereunder.
+&emsp;(B) To proclaim such modifications of existing duties and other import restrictions, or such additional import restrictions, or such continuance, and for such minimum periods, of existing customs or excise treatment of any article covered by foreign trade agreements, as are required or appropriate to carry out any foreign trade agreement that the President has entered into hereunder.
 
 (2) No proclamation pursuant to paragraph (1)(B) of this subsection shall be made—
 
@@ -20,7 +20,7 @@
 
 &emsp;&emsp;(i) The rate 15 per centum below the rate existing on January 1, 1955.
 
-&emsp;&emsp;(ii) In the case of any article subject to an ad valorem rate of duty above 50 per centum (or a combination of ad valorem rates aggregating more than 50 per centum), the rate 50 per centum ad valorem (or a combination of ad valorem rates aggregating 50 per centum). In the case of any article subject to a specific rate of duty (or a combination of rates including a specific rate) the ad valorem equivalent of which has been determined by the President to have been above 50 per centum during a period determined by the President to be a representative period, the rate 50 per centum ad valorem or the rate (or a combination of rates), however stated, the ad valorem equivalent of which the President determines would have been 50 per centum during such period. The standards of valuation contained in section 1401a of this title (as in effect, with respect to the article concerned, during the representative period) shall be utilized by the President, to the maximum extent he finds such utilization practicable, in making the determinations under the preceding sentence.
+&emsp;&emsp;(ii) In the case of any article subject to an ad valorem rate of duty above 50 per centum (or a combination of ad valorem rates aggregating more than 50 per centum), the rate 50 per centum ad valorem (or a combination of ad valorem rates aggregating 50 per centum). In the case of any article subject to a specific rate of duty (or a combination of rates including a specific rate) the ad valorem equivalent of which has been determined by the President to have been above 50 per centum during a period determined by the President to be a representative period, the rate 50 per centum ad valorem or the rate (or a combination of rates), however stated, the ad valorem equivalent of which the President determines would have been 50 per centum during such period. The standards of valuation contained in section 1401a of this title (as in effect, with respect to the article concerned, during the representativeperiod) shall be utilized by the President, to the maximum extent he finds such utilization practicable, in making the determinations under the preceding sentence.
 
 &emsp;(E) In order to carry out a foreign trade agreement entered into by the President on or after July 1, 1958, decreasing any rate of duty below the lowest of the rates provided for in paragraph (4)(A) of this subsection.
 
@@ -60,7 +60,7 @@
 
 (iii) In the case of any decrease in duty to which clause (iii) of subparagraph (A) of this paragraph applies, such decrease shall become initially effective in not more than four annual stages, and no amount of decrease becoming initially effective at one time shall exceed one-third of the total amount of the decrease under the foreign trade agreement.
 
-(C) In the case of any decrease in duty to which subparagraph (A) of this paragraph applies (i) no part of a decrease after the first part shall become initially effective until the immediately previous part shall have been in effect for a period or periods aggregating not less than one year, nor after the first part shall have been in effect for a period or periods aggregating more than three years, and (ii) no part of a decrease shall become initially effective after the expiration of the four-year period which begins on July 1, 1962. If any part of a decrease has become effective, then for the purposes of clauses (i) and (ii) of the preceding sentence any time thereafter during which such part of the decrease is not in effect by reason of legislation of the United States or action thereunder shall be excluded in determining when the three-year period or the four-year period, as the case may be, expires.
+(C) In the case of any decrease in duty to which subparagraph (A) of this paragraph applies (i) no part of a decrease after the first part shall become initially effective until the immediately previous part shall have been in effect for a period or periods aggregating not less thanone year, nor after the first part shall have been in effect for a period or periods aggregating more than three years, and (ii) no part of a decrease shall become initially effective after the expiration of the four-year period which begins on July 1, 1962. If any part of a decrease has become effective, then for the purposes of clauses (i) and (ii) of the preceding sentence any time thereafter during which such part of the decrease is not in effect by reason of legislation of the United States or action thereunder shall be excluded in determining when the three-year period or the four-year period, as the case may be, expires.
 
 (5) Repealed. Pub. L. 87–794, title II, §257(b), Oct. 11, 1962, 76 Stat. 882.
 
@@ -82,7 +82,7 @@ Nothing in this section or the Trade Expansion Act of 1962 \[19 U.S.C. 1801 et s
 
 (2) For purposes of this section—
 
-&emsp;(A) Except as provided in subsection (d) of this section, the terms “existing on July 1,1934”, “existing on January 1, 1945”, “existing on January 1, 1955”, and “existing on July 1, 1958” refer to rates of duty (however established, and even though temporarily suspended by Act of Congress or otherwise) existing on the date specified, except rates in effect by reason of action taken pursuant to section 1362 of this title.
+&emsp;(A) Except as provided in subsection (d) of this section, the terms “existing on July 1, 1934”, “existing on January 1, 1945”, “existing on January 1, 1955”, and “existing on July 1, 1958” refer to rates of duty (however established, and even though temporarily suspended by Act of Congress or otherwise) existing on the date specified, except rates in effect by reason of action taken pursuant to section 1362 of this title.
 
 &emsp;(B) The term “existing” without the specification of any date, when used with respect to any matter relating to the conclusion of, or proclamation to carry out, a foreign trade agreement, means existing on the day on which that trade agreement is entered into.
 
@@ -100,7 +100,7 @@ Nothing in this section or the Trade Expansion Act of 1962 \[19 U.S.C. 1801 et s
 
 It is declared to be the sense of the Congress that the President, during the course of negotiating any foreign trade agreement under this section, should seek information and advice with respect to such agreement from representatives of industry, agriculture, and labor.
 
-(June 17, 1930, ch. 497, title III, §350, as added June 12, 1934, ch. 474, §1, 48 Stat. 943; amended June 7, 1943, ch. 118, §2, 57 Stat. 125; July 5, 1945, ch. 269, §§2, 3, 59 Stat. 410; Sept. 26, 1949, ch. 585, §§4, 6, 63 Stat. 698; June 21, 1955, ch. 169, §3, 69 Stat. 162; Aug. 20, 1958, Pub. L. 85–686, §3, 72 Stat. 673; Oct. 11, 1962, Pub. L. 87–794, title II, §257(a), (b), 76 Stat. 881, 882; July 26, 1979, Pub. L. 96–39, title II, §202(a)(3), 93 Stat. 202.)
+(June 17, 1930, ch. 497, title III, §350, as added June 12, 1934, ch. 474, §1, 48 Stat. 943; amended June 7, 1943, ch. 118, §2, 57 Stat. 125; July 5, 1945, ch. 269, §§2, 3, 59 Stat. 410; Sept. 26, 1949, ch. 585, §§4, 6, 63 Stat. 698; June 21, 1955, ch. 169, §3, 69Stat. 162; Aug. 20, 1958, Pub. L. 85–686, §3, 72 Stat. 673; Oct. 11, 1962, Pub. L. 87–794, title II, §257(a), (b), 76 Stat. 881, 882; July 26, 1979, Pub. L. 96–39, title II, §202(a)(3), 93 Stat. 202.)
 
 #### References in Text
 
@@ -144,7 +144,7 @@ Subsec. (e)(1). Pub. L. 85–686, §3(d), provided for the inclusion in the repo
 
 Subsec. (f). Pub. L. 85–686, §3(e), added subsec. (f).
 
-1955—Subsec. (a). Act June 21, 1955, §3(a), among other changes, authorized the President to reduce tariffrates existing on January 1, 1955 by a total of 15 percent in stages of not more than 5 percent of such rates, or to reduce those rates which are higher than 50 percent of the value of an import to a rate not less than 50 percent, in stages of not more than one-third of the reduction in any one year.
+1955—Subsec. (a). Act June 21, 1955, §3(a), among other changes, authorized the President to reduce tariff rates existing on January 1, 1955 by a total of 15 percent in stages of not more than 5 percent of such rates, or to reduce those rates which are higher than 50 percent of the value of an import to a rate not less than 50 percent, in stages of not more than one-third of the reduction in any one year.
 
 Subsec. (b). Act June 21, 1955, §3(b), made applicable to Cuban products the new limits of authority to reduce tariffs.
 
@@ -226,7 +226,7 @@ Ex. Ord. No. 10082, Oct. 5, 1949, 14 F.R. 6105, as amended by Ex. Ord. No. 10170
 
 #### Executive Order No. 10741
 
-Ex. Ord. No. 10741, Nov. 26, 1957, 22 F.R. 9451, which established the Trade Policy Committee, was revoked byEx. Ord. No. 11075, Jan. 15, 1963, 28 F.R. 473, set out as a note under section 1801 of this title.
+Ex. Ord. No. 10741, Nov. 26, 1957, 22 F.R. 9451, which established the Trade Policy Committee, was revoked by Ex. Ord. No. 11075, Jan. 15, 1963, 28 F.R. 473, set out as a note under section 1801 of this title.
 
 #### Cross References
 

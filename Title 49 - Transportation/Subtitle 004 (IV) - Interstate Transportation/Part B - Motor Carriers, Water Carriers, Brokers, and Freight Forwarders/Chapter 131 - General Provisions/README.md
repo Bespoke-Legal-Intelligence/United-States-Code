@@ -8,6 +8,10 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### Amendments
+
+1996—Pub. L. 104–287, §5(26)(B), Oct. 11, 1996, 110 Stat. 3390, made technical amendment to heading.
+
 
 ---
 

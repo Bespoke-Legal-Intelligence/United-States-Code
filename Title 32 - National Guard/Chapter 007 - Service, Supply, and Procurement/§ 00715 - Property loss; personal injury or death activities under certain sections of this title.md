@@ -24,7 +24,7 @@
 
 (c) Payment may not be made under this section for reimbursement for medical, hospital, or burial services furnished at the expense of the United States or of any State or the District of Columbia or Puerto Rico.
 
-(d) If the Secretary concerned considers that a claim in excess of $100,000 is meritorious, and the claim otherwise is payable under this section, the Secretary may pay the claimant $100,000 and report any meritorious amount in excess of $100,000 to the Comptroller General for payment under section 1304 of title 31.
+(d) If the Secretary concerned considers that a claim in excess of $100,000 is meritorious, and the claim otherwise is payable under this section, the Secretary may pay the claimant $100,000 and report any meritorious amount in excess of $100,000 to the Secretary of the Treasury for payment under section 1304 of title 31.
 
 (e) Except as provided in subsection (d), no claim may be paid under this section unless the amount tendered is accepted by the claimant in full satisfaction.
 
@@ -34,9 +34,11 @@
 
 (h) In this section, “settle” means consider, ascertain, adjust, determine, and dispose of a claim, whether by full or partial allowance or disallowance.
 
-(Added Pub. L. 86–740, §1(1), Sept. 13, 1960, 74 Stat. 878; amended Pub. L. 87–649, §8(b), Sept. 7, 1962, 76 Stat. 495; Pub. L. 90–486, §2(3), Aug. 13, 1968, 82 Stat. 756; Pub. L. 90–525, §6, Sept. 26, 1968, 82 Stat. 878; Pub. L. 91–312, §3, July 8, 1970, 84 Stat. 412; Pub. L. 92–445, Sept. 29, 1972, 86 Stat. 745; Pub. L. 93–336, §3, July 8, 1974, 88 Stat. 292; Pub. L. 98–564, §4, Oct. 30, 1984, 98 Stat. 2919.)
+(Added Pub. L. 86–740, §1(1), Sept. 13, 1960, 74 Stat. 878; amended Pub. L. 87–649, §8(b), Sept. 7, 1962, 76 Stat. 495; Pub. L. 90–486, §2(3), Aug. 13, 1968, 82 Stat. 756; Pub. L. 90–525, §6, Sept. 26, 1968, 82 Stat. 878; Pub. L. 91–312, §3, July 8, 1970, 84 Stat. 412; Pub. L. 92–445, Sept. 29, 1972, 86 Stat. 745; Pub. L. 93–336, §3, July 8, 1974, 88 Stat. 292; Pub. L. 98–564, §4, Oct. 30, 1984, 98 Stat. 2919; Pub. L. 104–316, title II, §202(r), Oct. 19, 1996, 110 Stat. 3844.)
 
 #### Amendments
+
+1996—Subsec. (d). Pub. L. 104–316 substituted “Secretary of the Treasury” for “Comptroller General”.
 
 1984—Subsec. (a). Pub. L. 98–564, §4(1), substituted “$100,000” for “$25,000”.
 
@@ -69,10 +71,6 @@ Amendment by Pub. L. 87–649 effective Nov. 1, 1962, see section 15 of Pub. L. 
 #### Savings Provision for Claims Arising Before January 1, 1969
 
 Settlement and payment of claims arising under this section before January 1, 1969, see section 3(a) of Pub. L. 90–486, set out as a note under section 709 of this title.
-
-#### Transfer of Functions
-
-Functions of Comptroller General under this section transferred, effective June 30, 1996, to Director of Office of Management and Budget, see section 211 of Pub. L. 104–53, set out as a note under section 501 of Title 31, Money and Finance.
 
 #### Section Referred to in Other Sections
 

@@ -389,7 +389,9 @@ I74subpart i—gang-free schools and communities
 | (d) | Purpose. |
 | (e) | Cross-designation of Task Force members. |
 | [5777\.](Subchapter%20004%20%28IV%29%20-%20Missing%20Children/%C2%A7%2005777%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
-| [5778\.](Subchapter%20004%20%28IV%29%20-%20Missing%20Children/%C2%A7%2005778%20-%20Special%20study%20and%20report.md) | Special study and report. |
+| (a) | In general. |
+| (b) | Evaluation. |
+| [5778\.](Subchapter%20004%20%28IV%29%20-%20Missing%20Children/%C2%A7%2005778%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93235%2C%20title%20II%2C%20%C2%A7231%28b%29%2C%20Oct.%203%2C%201996%2C%20110%20Stat.%203092.md) | Repealed. |
 | [5779\.](Subchapter%20004%20%28IV%29%20-%20Missing%20Children/%C2%A7%2005779%20-%20Reporting%20requirement.md) | Reporting requirement. |
 | (a) | In general. |
 | (b) | Guidelines. |
@@ -415,7 +417,7 @@ I74subpart i—gang-free schools and communities
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 3797, 5116, 11804 of this title; title 20 sections 5964, 6434, 6453, 6455; title 25 sections 2433, 2453, 2454.
+This chapter is referred to in sections 3797, 11804 of this title; title 20 sections 5964, 6434, 6453, 6455; title 25 sections 2433, 2453, 2454.
 
 
 ---

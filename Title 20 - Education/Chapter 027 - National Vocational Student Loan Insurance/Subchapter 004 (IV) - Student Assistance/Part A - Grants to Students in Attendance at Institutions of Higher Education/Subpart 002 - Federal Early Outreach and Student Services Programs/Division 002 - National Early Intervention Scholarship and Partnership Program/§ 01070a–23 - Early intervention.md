@@ -26,13 +26,13 @@ In order to receive payments under section 1070a–22(d) of this title, a State 
 
 &emsp;&emsp;(B) Requiring each student to enter into an agreement under which the student agrees to achieve certain academic milestones, such as completing a prescribed set of courses and maintaining satisfactory academic progress as described in section 1091(c) of this title, in exchange for receiving tuition assistance for a period of time to be established by each State.
 
-&emsp;&emsp;(C) Activities designed to ensure high school completion and college enrollment of at-risk children, including identification of at-risk children, after school and summer tutoring, assistance in obtaining summer jobs, academic counseling, volunteer and parent involvement and former or current scholarship recipients as mentor or peer counselors, skills assessment, personal counseling, family counseling and home visits, and staff development, and programs and activities as described in this subparagraph which are specially designed for students of limited English proficiency.
+&emsp;&emsp;(C) Activities designed to ensure high school completion and college enrollment ofat-risk children, including identification of at-risk children, after school and summer tutoring, assistance in obtaining summer jobs, academic counseling, volunteer and parent involvement and former or current scholarship recipients as mentor or peer counselors, skills assessment, personal counseling, family counseling and home visits, and staff development, and programs and activities as described in this subparagraph which are specially designed for students of limited English proficiency.
 
 &emsp;&emsp;(D) Prefreshman summer programs that—
 
 &emsp;&emsp;&emsp;(i) are at institutions of higher education that also have programs of academic year supportive services for disadvantaged students through projects authorized under section 1070a–14 of this title or through comparable projects funded by the State or other sources;
 
-&emsp;&emsp;&emsp;(ii) assure the participation of students who qualify as disadvantaged under the provisions of section 1070a–14 of this titleor who are eligible for comparable programs funded by the State;
+&emsp;&emsp;&emsp;(ii) assure the participation of students who qualify as disadvantaged under the provisions of section 1070a–14 of this title or who are eligible for comparable programs funded by the State;
 
 &emsp;&emsp;&emsp;(iii)(I) provide summer instruction in remedial, developmental or supportive courses; (II) provide such summer services as counseling, tutoring, or orientation; and (III) provide grant aid to students to cover prefreshman summer costs for books, supplies, living costs and personal expenses; and
 
@@ -48,9 +48,9 @@ In administering the early intervention component, the State shall treat as prio
 
 &emsp;(2) for free or reduced price meals pursuant to the National School Lunch Act \[42 U.S.C. 1751 et seq.\]; or
 
-&emsp;(3) for assistance pursuant to part A of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\] (Aid to Families with Dependent Children).
+&emsp;(3) for assistance pursuant to part A of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\].
 
-(Pub. L. 89–329, title IV, §404C, as added Pub. L. 102–325, title IV, §402(a)(4), July 23, 1992, 106 Stat. 493; amended Pub. L. 103–208, §2(b)(15)–(17), Dec. 20, 1993, 107 Stat. 2459.)
+(Pub. L. 89–329, title IV, §404C, as added Pub. L. 102–325, title IV, §402(a)(4), July 23, 1992, 106 Stat. 493; amended Pub. L. 103–208, §2(b)(15)–(17), Dec. 20, 1993, 107 Stat. 2459; Pub. L. 104–193, title I, §110(h)(1), Aug. 22, 1996, 110 Stat. 2172.)
 
 #### References in Text
 
@@ -62,9 +62,15 @@ The Social Security Act, referred to in subsec. (c)(3), is act Aug. 14, 1935, ch
 
 #### Amendments
 
+1996—Subsec. (c)(3). Pub. L. 104–193 struck out “(Aid to Families with Dependent Children)” after “title IV of the Social Security Act”.
+
 1993—Subsec. (b)(3)(A). Pub. L. 103–208, §2(b)(15), substituted “grade 12” for “grades 12”.
 
 Subsec. (b)(3)(D)(i), (ii). Pub. L. 103–208, §2(b)(16), (17), made technical amendments to references to section 1070a–14 of this title to correct references to corresponding section of original act.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–193 effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, set out as a note under section 601 of Title 42, The Public Health and Welfare.
 
 #### Effective Date of 1993 Amendment
 

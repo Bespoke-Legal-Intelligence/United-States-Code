@@ -32,7 +32,7 @@ The Secretary may not make a grant under this subpart to a local educational age
 
 The Secretary may reallocate, in a manner that the Secretary determines will best carry out the purpose of this subpart, any amounts that—
 
-&emsp;(1) based on estimates made by local educational agencies or other information, the Secretary determines will not be needed by such agencies to carry out approved programs under this subpart; or
+&emsp;(1) based on estimates made by local educational agencies or other information, the Secretary determines will not be needed bysuch agencies to carry out approved programs under this subpart; or
 
 &emsp;(2) otherwise become available for reallocation under this subpart.
 

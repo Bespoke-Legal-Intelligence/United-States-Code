@@ -24,10 +24,13 @@
 | [<b>659.</b>](Chapter%20659%20-%20Naval%20Militia/README.md) | <b>Naval Militia</b> | <b>7851</b> |
 | [<b>661.</b>](Chapter%20661%20-%20Accountability%20and%20Responsibility/README.md) | <b>Accountability and Responsibility</b> | <b>7861</b> |
 | [<b>663.</b>](Chapter%20663%20-%20Names%20and%20Insignia/README.md) | <b>Names and Insignia</b> | <b>7881</b> |
+| [<b>665.</b>](Chapter%20665%20-%20National%20Oceanographic%20Partnership%20Program/README.md) | <b>National Oceanographic Partnership Program</b> | <b>7901</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1996—Pub. L. 104–201, div. A, title II, §282(a)(2), Sept. 23, 1996, 110 Stat. 2473, added item for chapter 665.
 
 1993—Pub. L. 103–160, div. A, title VIII, §828(b)(3), Nov. 30, 1993, 107 Stat. 1714, struck out item for chapter 635 “Naval Aircraft”.
 
@@ -63,3 +66,4 @@ Pub. L. 97–295, §1(51)(B), Oct. 12, 1982, 96 Stat. 1300, added item for chapt
 - [Chapter 659 - Naval Militia](Chapter%20659%20-%20Naval%20Militia/README.md)
 - [Chapter 661 - Accountability and Responsibility](Chapter%20661%20-%20Accountability%20and%20Responsibility/README.md)
 - [Chapter 663 - Names and Insignia](Chapter%20663%20-%20Names%20and%20Insignia/README.md)
+- [Chapter 665 - National Oceanographic Partnership Program](Chapter%20665%20-%20National%20Oceanographic%20Partnership%20Program/README.md)

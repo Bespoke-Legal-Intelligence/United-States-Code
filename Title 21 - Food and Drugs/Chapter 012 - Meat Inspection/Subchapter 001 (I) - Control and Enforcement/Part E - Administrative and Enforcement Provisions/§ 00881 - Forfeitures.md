@@ -6,7 +6,7 @@ The following shall be subject to forfeiture to the United States and no propert
 
 &emsp;(1) All controlled substances which have been manufactured, distributed, dispensed, or acquired in violation of this subchapter.
 
-&emsp;(2) All raw materials, products, and equipment of any kind which are used, or intended for use, in manufacturing, compounding, processing, delivering, importing, or exporting any controlled substance in violation of this subchapter.
+&emsp;(2) All raw materials, products, and equipment of any kind which are used, or intended for use, in manufacturing, compounding, processing, delivering, importing, or exporting any controlled substance or listed chemical in violation of this subchapter.
 
 &emsp;(3) All property which is used, or intended for use, as a container for property described in paragraph (1), (2), or (9).
 
@@ -20,13 +20,13 @@ The following shall be subject to forfeiture to the United States and no propert
 
 &emsp;(5) All books, records, and research, including formulas, microfilm, tapes, and data which are used, or intended for use, in violation of this subchapter.
 
-&emsp;(6) All moneys, negotiable instruments, securities, or other things of value furnished or intended to be furnished by any person in exchange for a controlled substance in violation of this subchapter, all proceeds traceable to such an exchange, and all moneys, negotiable instruments, and securities used or intended to be used to facilitate any violation of this subchapter, except that no property shall be forfeited under this paragraph, to the extent of the interest of an owner, by reason of any act or omission established by that owner to have been committed or omitted without the knowledge or consent of that owner.
+&emsp;(6) All moneys, negotiable instruments, securities, or other things of value furnished or intended to be furnished by any person in exchange for a controlled substance or listed chemical in violation of this subchapter, all proceeds traceable to such an exchange, and all moneys, negotiable instruments, and securities used or intended to be used to facilitate any violation of this subchapter, except that no property shall be forfeited under this paragraph, to the extent of the interest of an owner, by reason of any act or omission established by that owner to have been committed or omitted without the knowledge or consent of that owner.
 
 &emsp;(7) All real property, including any right, title, and interest (including any leasehold interest) in the whole of any lot or tract of land and any appurtenances or improvements, which is used, or intended to be used, in any manner or part, to commit, or to facilitate the commission of, a violation of this subchapter punishable by more than one year's imprisonment, except that no property shall be forfeited under this paragraph, to the extent of an interest of an owner, by reason of any act or omission established by that owner to have been committed or omitted without the knowledge or consent of that owner.
 
 &emsp;(8) All controlled substances which have been possessed in violation of this subchapter.
 
-&emsp;(9) All listed chemicals, all drug manufacturing equipment, all tableting machines, all encapsulating machines, and all gelatin capsules, which have been imported, exported, manufactured, possessed, distributed, or intended to be distributed, imported, or exported, in violation of a felony provision of this subchapter or subchapter II of this chapter.
+&emsp;(9) All listed chemicals, all drug manufacturing equipment, all tableting machines, all encapsulating machines, and all gelatin capsules, which have been imported, exported, manufactured, possessed, distributed, dispensed, acquired, or intended to be distributed, dispensed, acquired, imported, or exported, in violation of this subchapter or subchapter II of this chapter.
 
 &emsp;(10) Any drug paraphernalia (as defined in section 1822 of the Mail Order Drug Paraphernalia Control Act).<sup>1</sup>
 
@@ -34,7 +34,7 @@ The following shall be subject to forfeiture to the United States and no propert
 
 #### (b) Seizure pursuant to Supplemental Rules for Certain Admiralty and Maritime Claims; issuance of warrant authorizing seizure
 
-Any property subject to civil forfeiture to the United States under this subchapter may be seized by the Attorney General upon process issued pursuant to the Supplemental Rules for Certain Admiralty and Maritime Claims by any district court of the United States having jurisdiction over the property, except that seizure without such process may be made when—
+Any property subject to civil forfeiture to the United States under this subchapter may be seized by the Attorney General upon process issued pursuant to the Supplemental Rules forCertain Admiralty and Maritime Claims by any district court of the United States having jurisdiction over the property, except that seizure without such process may be made when—
 
 &emsp;(1) the seizure is incident to an arrest or a search under a search warrant or an inspection under an administrative inspection warrant;
 
@@ -100,7 +100,7 @@ The provisions of law relating to the seizure, summary and judicial forfeiture, 
 
 (4)(A) With respect to real property described in subparagraph (B), if the chief executive officer of the State involved submits to the Attorney General a request for purposes of such subparagraph, the authority established in such subparagraph is in lieu of the authority established in paragraph (1)(B).
 
-(B) In the case of property described in paragraph (1)(B) that is civilly or criminally forfeited under this subchapter, if the property is real property that is appropriate for use as a public area reserved for recreational or historicpurposes or for the preservation of natural conditions, the Attorney General, upon the request of the chief executive officer of the State in which the property is located, may transfer title to the property to the State, either without charge or for a nominal charge, through a legal instrument providing that—
+(B) In the case of property described in paragraph (1)(B) that is civilly or criminally forfeited under this subchapter, if the property is real property that is appropriate for use as a public area reserved for recreational or historic purposes or for the preservation of natural conditions, the Attorney General, upon the request of the chief executive officer of the State in which the property is located, may transfer title to the property to the State, either without charge or for a nominal charge, through a legal instrument providing that—
 
 &emsp;(i) such use will be the principal use of the property; and
 
@@ -136,11 +136,11 @@ In addition to the venue provided for in section 1395 of title 28 or any other p
 
 The functions of the Attorney General under this section shall be carried out by the Postal Service pursuant to such agreement as may be entered into between the Attorney General and the Postal Service.
 
-(Pub. L. 91–513, title II, §511, Oct. 27, 1970, 84 Stat. 1276; Pub. L. 95–633, title III, §301(a), Nov. 10, 1978, 92 Stat. 3777; Pub. L. 96–132, §14, Nov. 30, 1979, 93 Stat. 1048; Pub. L. 98–473, title II, §§306, 309, 518, Oct. 12, 1984, 98 Stat. 2050, 2051, 2075; Pub. L. 99–570, title I, §§1006(c), 1865, 1992, Oct. 27, 1986, 100 Stat. 3207–7, 3207–54, 3207–59; Pub. L. 99–646, §74, Nov. 10, 1986, 100 Stat. 3618; Pub. L. 100–690, title V, §5105, title VI, §§6059, 6074, 6075, 6077(a), (b), 6253, Nov. 18, 1988, 102 Stat. 4301, 4319, 4323–4325, 4363; Pub. L. 101–189, div. A, title XII, §1215(a), Nov. 29, 1989, 103 Stat. 1569; Pub. L. 101–647, title XX, §§2003, 2004, 2007, 2008, Nov. 29, 1990, 104 Stat. 4855, 4856; Pub. L. 102–239, §2, Dec. 17, 1991, 105 Stat. 1912; Pub. L. 103–447, title I, §102(d), Nov. 2, 1994, 108 Stat. 4693.)
+(Pub. L. 91–513, title II, §511, Oct. 27, 1970, 84 Stat. 1276; Pub. L. 95–633, title III, §301(a), Nov. 10, 1978, 92 Stat. 3777; Pub. L. 96–132, §14, Nov. 30, 1979, 93 Stat. 1048; Pub. L. 98–473, title II, §§306, 309, 518, Oct. 12, 1984, 98 Stat. 2050, 2051, 2075; Pub. L. 99–570, title I, §§1006(c), 1865, 1992, Oct. 27, 1986, 100 Stat. 3207–7, 3207–54, 3207–59; Pub. L. 99–646, §74, Nov. 10, 1986, 100 Stat. 3618; Pub. L. 100–690, title V, §5105, title VI, §§6059, 6074, 6075, 6077(a), (b), 6253, Nov. 18, 1988, 102 Stat. 4301, 4319, 4323–4325, 4363; Pub. L. 101–189, div. A, title XII, §1215(a), Nov. 29, 1989, 103 Stat. 1569; Pub. L. 101–647, title XX, §§2003, 2004, 2007, 2008, Nov. 29, 1990, 104 Stat. 4855, 4856; Pub. L. 102–239, §2, Dec. 17, 1991, 105 Stat. 1912; Pub. L. 103–447, title I, §102(d), Nov. 2, 1994, 108 Stat. 4693; Pub. L. 104–237, title II, §201(b), Oct. 3, 1996, 110 Stat. 3101.)
 
 #### References in Text
 
-Subchapter II of this chapter, referred to in subsecs. (a)(4)(A), (9), and (i), was in the original “title III”, meaning title III of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1285. Part A of title III comprises subchapter II of this chapter. For classification of Part B, consisting of sections 1101 to 1105 of title III, see Tables.
+Subchapter II of this chapter, referred to in subsecs. (a)(4)(A), (9), and (i), was in the original “title III”, meaning title III of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1285. Part A of title III comprises subchapter II of thischapter. For classification of Part B, consisting of sections 1101 to 1105 of title III, see Tables.
 
 Section 1822 of the Mail Order Drug Paraphernalia Control Act, referred to in subsec. (a)(10), is section 1822 of Pub. L. 99–570, title I, Oct. 27, 1986, 100 Stat. 3207–51, which was repealed by Pub. L. 101–647, title XXIV, §2401(d), Nov. 29, 1990, 104 Stat. 4859. Prior to repeal, subsec. (d) of section 1822 of Pub. L. 99–570, which defined “drug paraphernalia”, was transferred to subsec. (d) of section 422 of title II of Pub. L. 91–513, the Controlled Substances Act. Section 422 of Pub. L. 91–513 is classified to section 863 of this title.
 
@@ -151,6 +151,10 @@ The customs laws, referred to in subsec. (d), are classified generally to Title 
 Schedules I and II, referred to in subsecs. (f) and (g), are set out in section 812(c) of this title.
 
 #### Amendments
+
+1996—Subsec. (a)(2), (6). Pub. L. 104–237, §201(b)(1), inserted “or listed chemical” after “controlled substance”.
+
+Subsec. (a)(9). Pub. L. 104–237, §201(b)(2), substituted “possessed, distributed, dispensed, acquired, or intended to be distributed, dispensed, acquired,” for “possessed, distributed, or intended to be distributed,” and struck out “a felony provision of” after “in violation of”.
 
 1994—Subsec. (e)(1)(E)(iii). Pub. L. 103–447 substituted “section 2291j(b) of title 22” for “section 2291(h) of title 22”.
 
@@ -184,7 +188,7 @@ Subsec. (e)(2)(B). Pub. L. 100–690, §6253(b), provided for deposit of moneys 
 
 Subsec. (e)(3). Pub. L. 100–690, §6077(a), added par. (3).
 
-Subsec. (<i>l</i>). Pub. L. 100–690, §6253(a), added subsec. (<i>l).</i>
+Subsec. (<i>l</i>). Pub. L. 100–690, §6253(a), added subsec. (<i>l</i>).
 
 1986—Subsec. (b). Pub. L. 99–570, §1865(1)–(3), and Pub. L. 99–646, §74(1)–(3), in making identical amendments in introductory provision and par. (4), struck out “or criminal” after “subject to civil” and inserted paragraph permitting the Government to request issuance of a warrant authorizing seizure of property subject to forfeiture under this section in the same manner as provided for a search warrant under the Federal Rules of Criminal Procedure.
 
@@ -230,7 +234,7 @@ Section 6077(c) of Pub. L. 100–690, as amended by Pub. L. 101–162, title II,
 
 #### Transfer of Functions
 
-Bureau of Narcotics and Dangerous Drugs, including office of Director thereof, in Department of Justice abolished by Reorg. Plan No. 2 of 1973, eff. July 1, 1973, 38 F.R. 15932, 87 Stat. 1091, set out in the Appendix to Title 5, Government Organization and Employees. Reorg. Plan No. 2 of 1973 also created in Department of Justice a single, comprehensive agency for enforcement of drug laws to be known as Drug Enforcement Administration, empowered Attorney General to authorizeperformance by officers, employees, and agencies of Department of functions transferred to him, and directed Attorney General to coordinate all drug law enforcement functions to assure maximum cooperation between Drug Enforcement Administration, Federal Bureau of Investigation, and other units of Department of Justice involved in drug law enforcement.
+Bureau of Narcotics and Dangerous Drugs, including office of Director thereof, in Department of Justice abolished by Reorg. Plan No. 2 of 1973, eff. July 1, 1973, 38 F.R. 15932, 87 Stat. 1091, set out in the Appendix to Title 5, Government Organization and Employees. Reorg. Plan No. 2 of 1973 also created in Department of Justice a single, comprehensive agency for enforcement of drug laws to be known as Drug Enforcement Administration, empowered Attorney General to authorize performance by officers, employees, and agencies of Department of functions transferred to him, and directed Attorney General to coordinate all drug law enforcement functions to assure maximum cooperation between Drug Enforcement Administration, Federal Bureau of Investigation, and other units of Department of Justice involved in drug law enforcement.
 
 #### Constructive Seizure Procedures
 

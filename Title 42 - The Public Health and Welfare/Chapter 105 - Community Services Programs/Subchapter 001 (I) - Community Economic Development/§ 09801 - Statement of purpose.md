@@ -4,6 +4,10 @@ The purpose of this subchapter is to encourage the development of special progra
 
 (Pub. L. 97–35, title VI, §612, Aug. 13, 1981, 95 Stat. 489.)
 
+#### Short Title of 1996 Amendment
+
+Pub. L. 104–193, title VI, §601(a), Aug. 22, 1996, 110 Stat. 2278, provided that: “This title \[enacting section 618 of this title, amending sections 9858, 9858b to 9858e, 9858g to 9858j, 9858m, and 9858n of this title, repealing section 9858f of this title, enacting provisions set out as notes under section 9858 of this title, and amending provisions set out as a note below\] may be cited as the ‘Child Care and Development Block Grant Amendments of 1996’.”
+
 #### Short Title of 1994 Amendment
 
 Pub. L. 103–252, §1, May 18, 1994, 108 Stat. 623, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Human Services Amendments of 1994’.”
@@ -44,11 +48,11 @@ Section 611 of subchapter A (§§611–633) of chapter 8 of subtitle A of title 
 
 Section 635 of subchapter B (§§635–657) of chapter 8 of subtitle A of title VI of Pub. L. 97–35 provided that: “This subchapter \[enacting subchapter II of this chapter\] may be cited as the ‘Head Start Act’.”
 
-Section 658A of subchapter C (§§658A–658R) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, as added by Pub. L. 101–508, title V, §5082(2), Nov. 5, 1990, 104 Stat. 1388–236, and amended by Pub. L. 102–401, §3(a), Oct. 7, 1992, 106 Stat. 1959; Pub. L. 102–586, §8(c)(1), Nov. 4, 1992, 106 Stat. 5036, provided that: “This subchapter \[enacting subchapter II–B of this chapter\] may be cited as the ‘Child Care and Development Block Grant Act of 1990’.”
+Section 658A(a) of subchapter C (§658A et seq.) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, as added by Pub. L. 101–508, title V, §5082(2), Nov. 5, 1990, 104 Stat. 1388–236, and amended by Pub. L. 102–401, §3(a), Oct. 7, 1992, 106 Stat. 1959; Pub. L. 102–586, §8(c)(1), Nov. 4, 1992, 106 Stat. 5036; Pub. L. 104–193, title VI, §602(2), Aug. 22, 1996, 110 Stat. 2279, provided that: “This subchapter \[enacting subchapter II–B of this chapter\] may be cited as the ‘Child Care and Development Block Grant Act of 1990’.”
 
 Section 661 of subchapter D \[formerly C\] (§§661–670) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, as renumbered by Pub. L. 101–508, title V, §5082(1), Nov. 5, 1990, 104 Stat. 1388–236, and amended by Pub. L. 102–401, §3(a), Oct. 7, 1992, 106 Stat. 1959; Pub. L. 102–586, §8(c)(1), Nov. 4, 1992, 106 Stat. 5036, provided that former subchapter III of this chapter could be cited as the “Follow Through Act”, prior to repeal by Pub. L. 103–382, title III, §391(w), Oct. 20, 1994, 108 Stat. 4025.
 
-Section 670H of subchapter E \[formerly D\] (§§670A–670H) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, as added by Pub. L. 99–425, title III, §304, Sept. 30, 1986, 100 Stat. 968, renumbered by Pub. L. 101–508, title V, §5082(1), Nov. 5, 1990, 104 Stat. 1388–236, and amended by Pub. L. 102–401, §3(a), Oct. 7, 1992, 106Stat. 1959; Pub. L. 102–586, §8(c)(1), Nov. 4, 1992, 106 Stat. 5036, provided that: “This subchapter \[enacting subchapter IV of this chapter\] may be cited as the ‘State Dependent Care Development Grants Act’.”
+Section 670H of subchapter E \[formerly D\] (§§670A–670H) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, as added by Pub. L. 99–425, title III, §304, Sept. 30, 1986, 100 Stat. 968, renumbered by Pub. L. 101–508, title V, §5082(1), Nov. 5, 1990, 104 Stat. 1388–236, and amended by Pub. L. 102–401, §3(a), Oct. 7, 1992, 106 Stat. 1959; Pub. L. 102–586, §8(c)(1), Nov. 4, 1992, 106 Stat. 5036, provided that: “This subchapter \[enacting subchapter IV of this chapter\] may be cited as the ‘State Dependent Care Development Grants Act’.”
 
 Section 670M of subchapter F \[formerly E\] (§§670M–670T) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, as added by Pub. L. 100–297, title II, §2503, Apr. 28, 1988, 102 Stat. 325, renumbered by Pub. L. 101–508, title V, §5082(1), Nov. 5, 1990, 104 Stat. 1388–236, and amended by Pub. L. 102–401, §3(a), Oct. 7, 1992, 106 Stat. 1959; Pub. L. 102–586, §8(c)(1), Nov. 4, 1992, 106 Stat. 5036, provided that former subchapter V of this chapter could be cited as the “Comprehensive Child Development Act”, prior to repeal by Pub. L. 103–252, title I, §112(b)(1), (2)(B), May 18, 1994, 108 Stat. 640, 641.
 

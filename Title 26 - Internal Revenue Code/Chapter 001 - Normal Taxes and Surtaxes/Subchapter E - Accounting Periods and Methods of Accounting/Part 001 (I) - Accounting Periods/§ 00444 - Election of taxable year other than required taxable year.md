@@ -12,7 +12,7 @@ Except as otherwise provided in this section, a partnership, S corporation, or p
 
 #### (2) Changes in taxable year
 
-&emsp;Except as provided in paragraph (3), in the case of an entity changing a taxable year, anelection may be made under subsection (a) only if the deferral period of the taxable year elected is not longer than the shorter of—
+&emsp;Except as provided in paragraph (3), in the case of an entity changing a taxable year, an election may be made under subsection (a) only if the deferral period of the taxable year elected is not longer than the shorter of—
 
 &emsp;&emsp;(A) 3 months, or
 
@@ -20,7 +20,7 @@ Except as otherwise provided in this section, a partnership, S corporation, or p
 
 #### (3) Special rule for entities retaining 1986 taxable years
 
-&emsp;In the case of an entity's 1st taxable year beginning after December 31, 1986, an entity may elect a taxable year under subsection (a) which is the same as the entity's last taxable year beginning in 1986.
+&emsp;In the case of an entity's 1st taxable year beginning after December 31, 1986, an entity may elect a taxable year under subsection (a)which is the same as the entity's last taxable year beginning in 1986.
 
 #### (4) Deferral period
 
@@ -80,7 +80,7 @@ For purposes of this section, the term “personal service corporation” has th
 
 The Secretary shall prescribe such regulations as may be necessary to carry out the provisions of this section, including regulations to prevent the avoidance of subsection (b)(2)(B) or (d)(2)(B) through the change in form of an entity.
 
-(Added Pub. L. 100–203, title X, §10206(a)(1), Dec. 22, 1987, 101 Stat. 1330–397, and amended Pub. L. 100–647, title II, §2004(e)(1), (2)(A), (12), (13), Nov. 10, 1988, 102 Stat. 3600, 3602.)
+(Added Pub. L. 100–203, title X, §10206(a)(1), Dec. 22, 1987, 101 Stat. 1330–397; amended Pub. L. 100–647, title II, §2004(e)(1), (2)(A), (12), (13), Nov. 10, 1988, 102 Stat. 3600, 3602.)
 
 #### Amendments
 
@@ -124,7 +124,7 @@ Special rule for existing entities electing s corporation status.—If a C corpo
 
 &emsp;“(B) elected to have the calendar year as the taxable year of the S corporation,
 
-> then section 444(b)(2)(B) of such Code shall be applied by taking into account the deferral period of the last taxable year of the C corporation rather than the deferral period of the taxable year being changed. The preceding sentence shall apply only in the case of an election under section 444 of such Code made for a taxable year beginning before 1989.”
+> then section 444(b)(2)(B) of such Code shall be applied by taking into account the deferral period of the lasttaxable year of the C corporation rather than the deferral period of the taxable year being changed. The preceding sentence shall apply only in the case of an election under section 444 of such Code made for a taxable year beginning before 1989.”
 
 #### Section Referred to in Other Sections
 

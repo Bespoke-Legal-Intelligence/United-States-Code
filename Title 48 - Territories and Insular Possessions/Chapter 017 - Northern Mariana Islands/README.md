@@ -7,7 +7,11 @@
 | [1801\.](Subchapter%20001%20%28I%29%20-%20Approval%20of%20Covenant%20and%20Supplemental%20Provisions/%C2%A7%2001801%20-%20Approval%20of%20Covenant%20to%20Establish%20a%20Commonwealth%20of%20the%20Northern%20Mariana%20Islands.md) | Approval of Covenant to Establish a Commonwealth of the Northern Mariana Islands. |
 | [1802\.](Subchapter%20001%20%28I%29%20-%20Approval%20of%20Covenant%20and%20Supplemental%20Provisions/%C2%A7%2001802%20-%20Consideration%20of%20issues%20affecting%20relations%20with%20United%20States.md) | Consideration of issues affecting relations with United States. |
 | [1803\.](Subchapter%20001%20%28I%29%20-%20Approval%20of%20Covenant%20and%20Supplemental%20Provisions/%C2%A7%2001803%20-%20Financial%20assistance%20to%20Government%20of%20Northern%20Mariana%20Islands.md) | Financial assistance to Government of Northern Mariana Islands. |
-| [1804\.](Subchapter%20001%20%28I%29%20-%20Approval%20of%20Covenant%20and%20Supplemental%20Provisions/%C2%A7%2001804%20-%20Continuing%20financial%20assistance.md) | Continuing financial assistance. |
+| [1804\.](Subchapter%20001%20%28I%29%20-%20Approval%20of%20Covenant%20and%20Supplemental%20Provisions/%C2%A7%2001804%20-%20Direct%20grant%20assistance.md) | Direct grant assistance. |
+| (a) | Composite price index adjustments not applicable. |
+| (b) | Additional years of assistance. |
+| (c) | Specific allocations for capital infrastructure projects. |
+| (d) | Resettlement of Rongelap Atoll. |
 | [1805\.](Subchapter%20001%20%28I%29%20-%20Approval%20of%20Covenant%20and%20Supplemental%20Provisions/%C2%A7%2001805%20-%20Failure%20to%20meet%20performance%20standards%3B%20resolution%20of%20issues%3B%20withholding%20of%20funds.md) | Failure to meet performance standards; resolution of issues; withholding of funds. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

@@ -24,13 +24,19 @@ For purposes of this part:
 
 &emsp;(9) The term “urban county” has the meaning given such term in section 5302 of this title.
 
-&emsp;(10) The term “Indian tribe” has the meaning given such term in section 5302(a)(17) of this title.
-
-(Pub. L. 100–77, title IV, §411, July 22, 1987, 101 Stat. 495; Pub. L. 101–625, title VIII, §832(f)(1), Nov. 28, 1990, 104 Stat. 4361.)
+(Pub. L. 100–77, title IV, §411, July 22, 1987, 101 Stat. 495; Pub. L. 101–625, title VIII, §832(f)(1), Nov. 28, 1990, 104 Stat. 4361; Pub. L. 104–330, title V, §506(a)(1), Oct. 26, 1996, 110 Stat. 4044.)
 
 #### Amendments
 
+1996—Par. (10). Pub. L. 104–330 struck out par. (10) which read as follows: “The term ‘Indian tribe’ has the meaning given such term in section 5302(a)(17) of this title.”
+
 1990—Par. (10). Pub. L. 101–625 added par. (10).
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–330 effective Oct. 1, 1997, except as otherwise expressly provided, see section 107 of Pub. L. 104–330, set out as an Effective Date note under section 4101 of Title 25, Indians.
+
+Section 506(c) of Pub. L. 104–330 provided that: “The amendments under subsections (a) \[amending this section and sections 11372 to 11376, 11382, 11401, 11403g, and 11408 of this title\] and (b) \[amending provisions formerly set out as a note under section 11301 of this title\] shall apply with respect to amounts made available for assistance under title IV of the Stewart B. McKinney Homeless Assistance Act \[42 U.S.C. 11361 et seq.\] and section 2 of the HUD Demonstration Act of 1993 \[Pub. L. 103–120, former 42 U.S.C. 11301 note\], respectively, for fiscal year 1998 and fiscal years thereafter.”
 
 #### Termination of Trust Territory of the Pacific Islands
 

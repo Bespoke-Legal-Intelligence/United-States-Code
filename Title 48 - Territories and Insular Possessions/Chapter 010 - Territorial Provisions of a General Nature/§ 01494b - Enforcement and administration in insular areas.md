@@ -104,7 +104,7 @@ Subsec. (b)(2). Pub. L. 100–690, §9303(2), substituted “$500,000 for fiscal
 
 Subsec. (b)(3). Pub. L. 100–690, §9303(3), added par. (3).
 
-Subsec. (c)(2). Pub. L. 100–690, §9304(1), substituted “The Attorney General and the Secretaries of Education and Health and Human Services of the United States, as appropriate, are authorized to and, upon request of the Government of the Northern Mariana Islands, shall” for “The Attorney General of the United States and the Secretary of Health and Human Services, as appropriate, are authorized to” in introductory provisions, inserted “and other personnel” after “officers” in subpar. (A), and inserted “or other substance” after “drug” in subpar. (B).
+Subsec. (c)(2). Pub. L. 100–690, §9304(1), substituted “The Attorney General and the Secretaries of Education and Health and Human Services of the United States, as appropriate, are authorized to and, upon request of the Government of the Northern Mariana Islands, shall” for “The Attorney General of the UnitedStates and the Secretary of Health and Human Services, as appropriate, are authorized to” in introductory provisions, inserted “and other personnel” after “officers” in subpar. (A), and inserted “or other substance” after “drug” in subpar. (B).
 
 Subsec. (c)(3). Pub. L. 100–690, §9304(2), substituted “$125,000 for fiscal year 1989 and annually thereafter for grants to the Government of the Northern Mariana Islands to be expended in accordance with a plan approved by the Secretary of the Interior in consultation with the Attorney General and the Secretaries of Education and Health and Human Services” for “$250,000” and “sections 1494 to 1494c of this title” for “this subsection”.
 

@@ -2,7 +2,7 @@
 
 When used in this chapter and for the purposes of this chapter—
 
-First. The term “carrier” includes any railroad subject to the jurisdiction of the Surface Transportation Board, and any company which is directly or indirectly owned or controlled by or under common control with any carrier by railroad and which operates any equipment or facilities or performs any service (other than trucking service) in connection with the transportation, receipt, delivery, elevation, transfer in transit, refrigeration or icing, storage, and handling of property transported by railroad, and any receiver, trustee, or other individual or body, judicial or otherwise, when in the possession of the business of any such “carrier”: <i>Provided, however</i>, That the term “carrier” shall not include any street, interurban, or suburban electric railway, unless such railway is operating as a part of a general steam-railroad system of transportation, but shall not exclude any part of the general steam-railroad system of transportation now or hereafter operated by any other motive power. The Surface Transportation Board is authorized and directed upon request of the Mediation Board or upon complaint of any party interested to determine after hearing whether any line operated by electric power falls within the terms of this proviso. The term “carrier” shall not include any company by reason of its being engaged in the mining of coal, the supplying of coal to a carrier where delivery is not beyond the mine tipple, and the operation of equipment or facilities therefor, or in any of such activities.
+First. The term “carrier” includes any railroad subject to the jurisdiction of the Surface Transportation Board, any express company that would have been subject to subtitle IV of title 49, as of December 31, 1995,,<sup>1</sup> and any company which is directly or indirectly owned or controlled by or under common control with any carrier by railroad and which operates any equipment or facilities or performs any service (other than trucking service) in connection with the transportation, receipt, delivery, elevation, transfer in transit, refrigeration or icing, storage, and handling of property transported by railroad, and any receiver, trustee, or other individual or body, judicial or otherwise, when in the possession of the business of any such “carrier”: <i>Provided, however</i>, That the term “carrier” shall not include any street, interurban, or suburban electric railway, unless such railway is operating as a part of a general steam-railroad system of transportation, but shall not exclude any part of the general steam-railroad system of transportation now or hereafter operated by any other motive power. The Surface Transportation Board is authorized and directed upon request of the Mediation Board or upon complaint of any party interested to determine after hearing whether any line operated by electric power falls within the terms of this proviso. The term “carrier” shall not include any company by reason of its being engaged in the mining of coal, the supplying of coal to a carrier where delivery is not beyond the mine tipple, and the operation of equipment or facilities therefor, or in any of such activities.
 
 Second. The term “Adjustment Board” means the National Railroad Adjustment Board created by this chapter.
 
@@ -14,13 +14,13 @@ Fifth. The term “employee” as used herein includes every person in the servi
 
 The term “employee” shall not include any individual while such individual is engaged in the physical operations consisting of the mining of coal, the preparation of coal, the handling (other than movement by rail with standard railroad locomotives) of coal not beyond the mine tipple, or the loading of coal at the tipple.
 
-Sixth. The term “representative” means any person or persons, labor union, organization, or corporation designated either by a carrier orgroup of carriers or by its or their employees, to act for it or them.
+Sixth. The term “representative” means any person or persons, labor union, organization, or corporation designated either by a carrier or group of carriers or by its or their employees, to act for it or them.
 
 Seventh. The term “district court” includes the United States District Court for the District of Columbia; and the term “court of appeals” includes the United States Court of Appeals for the District of Columbia.
 
 This chapter may be cited as the “Railway Labor Act.”
 
-(May 20, 1926, ch. 347, §1, 44 Stat. 577; June 7, 1934, ch. 426, 48 Stat. 926; June 21, 1934, ch. 691, §1, 48 Stat. 1185; June 25, 1936, ch. 804, 49 Stat. 1921; Aug. 13, 1940, ch. 664, §§2, 3, 54 Stat. 785, 786; June 25, 1948, ch. 646, §32(a), (b), 62 Stat. 991; May 24, 1949, ch. 139, §127, 63 Stat. 107; Dec. 29, 1995, Pub. L. 104–88, title III, §322, 109 Stat. 950.)
+(May 20, 1926, ch. 347, §1, 44 Stat. 577; June 7, 1934, ch. 426, 48 Stat. 926; June 21, 1934, ch. 691, §1, 48 Stat. 1185; June 25, 1936, ch. 804, 49 Stat. 1921; Aug. 13, 1940, ch. 664, §§2, 3, 54 Stat. 785, 786; June 25, 1948, ch. 646, §32(a), (b), 62 Stat. 991; May 24, 1949, ch. 139, §127, 63 Stat. 107; Dec. 29, 1995, Pub. L. 104–88, title III, §322, 109 Stat. 950; Oct. 9, 1996, Pub. L. 104–264, title XII, §1223, 110 Stat. 3287.)
 
 #### References in Text
 
@@ -38,6 +38,8 @@ As originally enacted, par. Seventh contained references to the “Court of Appe
 
 #### Amendments
 
+1996—Par. First. Pub. L. 104–264 inserted “, any express company that would have been subject to subtitle IV of title 49, as of December 31, 1995,” after “Board” the first place it appeared.
+
 1995—Par. First. Pub. L. 104–88, §322(1), (2), substituted “railroad subject to the jurisdiction of the Surface Transportation Board” for “express company, sleeping-car company, carrier by railroad, subject to the Interstate Commerce Act” and “Surface Transportation Board” for “Interstate Commerce Commission”.
 
 Par. Fifth. Pub. L. 104–88, §322(2), (3), substituted “Surface Transportation Board” for “Interstate Commerce Commission” in two places and “Board” for “Commission” in two places.
@@ -45,6 +47,10 @@ Par. Fifth. Pub. L. 104–88, §322(2), (3), substituted “Surface Transportati
 1940—Act Aug. 13, 1940, inserted last sentence of par. First, and second par. of par. Fifth.
 
 1934—Act June 21, 1934, added par. Sixth and redesignated provisions formerly set out as par. Sixth as Seventh.
+
+#### Effective Date of 1996 Amendment
+
+Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of Title 49, Transportation.
 
 #### Effective Date of 1995 Amendment
 
@@ -80,9 +86,11 @@ Sec. 6. Nothing contained in this Act, nor the action of Congress in adopting it
 
 Sec. 7. (a) Notwithstanding the provisions of section 1605(b) of the Internal Revenue Code \[section 1605(b) of former Title 26, Internal Revenue Code of 1939\], no interest shall, during the period February 1, 1940, to the eighty-ninth day after the date of enactment of this Act \[Aug. 13, 1940\], inclusive, accrue by reason of delinquency in the payment of the tax imposed by section 1600 with respect to services affected by this Act performed during the period July 1, 1939, to December 31, 1939, inclusive, with respect to which services amounts have been paid as contributions under the Railroad Unemployment Insurance Act \[section 351 et seq. of this title\] prior to the date of enactment of this Act.
 
-“(b) Notwithstanding the provisions of section 1601(a)(3) of the Internal Revenue Code \[section 1601(a)(3) of former Title 26, Internal Revenue Code of 1939\], the credit allowable under section 1601(a) against the tax imposed by section 1600 for the calendar year 1939 shall not be disallowed or reduced by reason of the payment into a State unemployment fund after January 31, 1940, of contributions with respect to services affected by this Act performed during the period July 1, 1939, to December 31, 1939, inclusive, with respect to which services amounts have been paid as contributions under the Railroad Unemployment Insurance Act \[section 351 et seq. of this title\] prior to the date of enactment of this Act \[Aug. 13, 1940\]: <i>Provided</i>, That this subsection shall be applicable only if the contributions with respect to such services are paid into the State unemployment fund before the ninetieth day after the date of enactment of this Act.”
+“(b) Notwithstanding the provisions of section 1601(a)(3) of the Internal Revenue Code \[section 1601(a)(3) of former Title 26, Internal Revenue Code of 1939\], the credit allowable under section 1601(a) against the tax imposed by section 1600 for the calendar year 1939 shall not be disallowed or reduced by reason of thepayment into a State unemployment fund after January 31, 1940, of contributions with respect to services affected by this Act performed during the period July 1, 1939, to December 31, 1939, inclusive, with respect to which services amounts have been paid as contributions under the Railroad Unemployment Insurance Act \[section 351 et seq. of this title\] prior to the date of enactment of this Act \[Aug. 13, 1940\]: <i>Provided</i>, That this subsection shall be applicable only if the contributions with respect to such services are paid into the State unemployment fund before the ninetieth day after the date of enactment of this Act.”
 
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 157, 182 of this title.
+
+<i><sup>1</sup></i><i> So in original.</i>
 

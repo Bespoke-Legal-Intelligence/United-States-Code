@@ -16,7 +16,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 5 U.S.C. 84d.
 
@@ -40,7 +42,7 @@ Section 1. As used in this order, the term:
 
 (b) “State” means one of the United States, the Commonwealth of Puerto Rico, and any territory of the United States.
 
-Sec. 2. Each agreement between the Secretary of Defense and the Governor or other proper official of a State, pursuant to the provisions of the act of June 15, 1956, as amended, with respect to withholding of compensation of certain civilian employees of the ArmyNational Guard and the Air National Guard for purposes of State or State-sponsored employee retirement, disability, or death benefits systems, shall be entered into by the Secretary of Defense within one hundred and twenty days of the receipt of a request therefor by the Secretary from the Governor or any other proper official of any State; <i>Provided,</i> that—
+Sec. 2. Each agreement between the Secretary of Defense and the Governor or other proper official of a State, pursuant to the provisions of the act of June 15, 1956, as amended, with respect to withholding of compensation of certain civilian employees of the Army National Guard and the Air National Guard for purposes of State or State-sponsored employee retirement, disability, or death benefits systems, shall be entered into by the Secretary of Defense within one hundred and twenty days of the receipt of a request therefor by the Secretary from the Governor or any other proper official of any State; <i>Provided,</i> that—
 
 (a) the law of such State provides for the payment of employee contributions to such State or State-sponsored employee retirement, disability, or death benefits systems by withholding sums from the compensation of such State employees and making returns of such sums to officials of such State or organization designated by such officials to receive sums withheld for such programs;
 

@@ -1,8 +1,20 @@
 ### §13615. Preference within groups
 
-Among disabled families qualifying for occupancy in units reserved under section 13612 ofthis title, and among elderly families and near-elderly families qualifying for preference for occupancy pursuant to section 13611 or 13613 of this title, preference for occupancy in units that are assisted under section 1437f of this title shall be given to disabled families according to the preferences for occupancy referred to in section 1437f(d)(1)(A)(i) of this title and the first sentence of section 1437f(<i>o</i>)(3)(B) of this title, to elderly families according to such preferences, and to near-elderly families according to such preferences, respectively.
+Among disabled families qualifying for occupancy in units reserved under section 13612 of this title, and among elderly families and near-elderly families qualifying for preference for occupancy pursuant to section 13611 or 13613 of this title, preference for occupancy in units that are assisted under section 1437f of this title shall be given to disabled families according to any preferences.
 
-(Pub. L. 102–550, title VI, §655, Oct. 28, 1992, 106 Stat. 3824.)
+(Pub. L. 102–550, title VI, §655, Oct. 28, 1992, 106 Stat. 3824; Pub. L. 104–99, title IV, §402(d)(6)(C), Jan. 26, 1996, 110 Stat. 43.)
+
+#### Amendment of Section
+
+<i>For termination of amendment by section 402(f) of Pub. L. 104–99, see Effective and Termination Dates of 1996 Amendment note below.</i>
+
+#### Amendments
+
+1996—Pub. L. 104–99, §402(d)(6)(C), (f), temporarily substituted “any preferences” for “the preferences for occupancy referred to in section 1437f(d)(1)(A)(i) of this title and the first sentence of section 1437f(<i>o</i>)(3)(B) of this title, to elderly families according to such preferences, and to near-elderly families according to such preferences, respectively”. See Effective and Termination Dates of 1996 Amendment note below.
+
+#### Effective and Termination Dates of 1996 Amendment
+
+Amendment by Pub. L. 104–99 effective Jan. 26, 1996, and only for fiscal years 1996 and 1997, see section 402(f) of Pub. L. 104–99, as amended, set out as a note under section 1437a of this title.
 
 #### Section Referred to in Other Sections
 

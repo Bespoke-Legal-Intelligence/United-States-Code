@@ -16,7 +16,7 @@
 
 #### (4) Date of applicability
 
-&emsp;The provisions of this chapter shall not apply with respect to any depository institution before the effective date of regulations prescribed by the Board under this subsection\(or by the National Credit Union Administration Board under section 4311(b) <sup>1</sup> of this title, in the case of any depository institution described in clause (iv) of section 461(b)(1)(A) of this title).
+&emsp;The provisions of this chapter shall not apply with respect to any depository institution before the effective date of regulations prescribed by the Board under this subsection (or by the National Credit Union Administration Board under section 4311(b) <sup>1</sup> of this title, in the case of any depository institution described in clause (iv) of section 461(b)(1)(A) of this title).
 
 #### (b) Model forms and clauses
 

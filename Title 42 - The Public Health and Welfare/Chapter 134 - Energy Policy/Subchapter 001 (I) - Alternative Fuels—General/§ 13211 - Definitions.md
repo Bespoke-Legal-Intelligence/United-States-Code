@@ -68,7 +68,7 @@ For purposes of this subchapter, subchapter II of this chapter, and subchapter I
 
 &emsp;(13) the term “motor vehicle” has the meaning given such term under section 7550(2) of this title; and
 
-&emsp;(14) the term “replacement fuel” means the portion of any motor fuel that is methanol, ethanol, or other alcohols, natural gas, liquefied petroleum gas, hydrogen, coal derived liquid fuels, fuels (other than alcohol) derived from biological materials, electricity (including electricity from solar energy), ethers, or any other fuel the Secretary determines, by rule, is substantially not petroleum and would yield substantial energy security benefits and substantial environmental benefits.
+&emsp;(14) the term “replacement fuel” means the portion of any motor fuel that is methanol, ethanol, or other alcohols, natural gas, liquefied petroleum gas, hydrogen, coal derived liquid fuels, fuels (other than alcohol) derived from biological materials, electricity (including electricity from solar energy), ethers, orany other fuel the Secretary determines, by rule, is substantially not petroleum and would yield substantial energy security benefits and substantial environmental benefits.
 
 (Pub. L. 102–486, title III, §301, Oct. 24, 1992, 106 Stat. 2866.)
 

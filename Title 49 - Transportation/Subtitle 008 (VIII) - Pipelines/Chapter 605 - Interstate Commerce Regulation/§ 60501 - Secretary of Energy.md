@@ -6,7 +6,9 @@ Except as provided in section 60502 of this title, the Secretary of Energy has t
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

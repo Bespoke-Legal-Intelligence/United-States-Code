@@ -2,7 +2,7 @@
 
 #### (a) Program assistance manual
 
-The Secretary shall, not later than six months after the publication of final regulations under this subchapter, prepare and distribute to State educational agencies, State agencies operating programs under parts C and D of this subchapter, and local educational agencies, and shall make available to parents and other interested individuals, organizations, and agencies, a manual for this subchapter to—
+The Secretary shall, not later than six months after the publication of final regulations underthis subchapter, prepare and distribute to State educational agencies, State agencies operating programs under parts C and D of this subchapter, and local educational agencies, and shall make available to parents and other interested individuals, organizations, and agencies, a manual for this subchapter to—
 
 &emsp;(1) assist such agencies in—
 

@@ -22,7 +22,7 @@
 
 (3) In order to avoid duplication of effort, the Commission may, in lieu of, or as part of, any study or investigation required or otherwise conducted under this subsection, use a study or investigation conducted by another entity if the Commission sets forth its reasons for such use.
 
-(4) Upon the completion of each investigation or study undertaken by the Commission under this subsection (including a study or investigation which merely uses another study or investigation), it shall report its findings (including any recommendations for legislation or administrative action) to the President and the Congress and to each Federal agency to which a recommendation in the report applies.
+(4) Upon the completion of each investigation or study undertaken by the Commission underthis subsection (including a study or investigation which merely uses another study or investigation), it shall report its findings (including any recommendations for legislation or administrative action) to the President and the Congress and to each Federal agency to which a recommendation in the report applies.
 
 #### (b) Recommendations to agencies; subsequent administrative requirements
 

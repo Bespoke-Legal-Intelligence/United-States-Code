@@ -2,11 +2,11 @@
 
 #### (a) Appointment; compensation; application of civil service provisions; technical and professional personnel; members of special commissions; temporary appointments; travel expenses
 
-(1) The Director shall, in accordance with such policies as the Board shall from time to time prescribe, appoint and fix the compensation of such personnel as may be necessary to carry out the provisions of this chapter. Except as provided in section 1863(h) <sup>1</sup> of this title, such appointments shall be made and such compensation shall be fixed in accordance with the provisions of title 5 governing appointments in the competitive service, and the provisions of chapter 51 and subchapter III of chapter 53 of title 5 relating to classification and General Schedule pay rates: <i>Provided,</i> That the Director may, in accordance with such policies as the Board shall from time to time prescribe, employ such technical and professional personnel and fix their compensation, without regard to such provisions, as he may deem necessary for the discharge of the responsibilities of the Foundation under this chapter. The members of the special commissions shall be appointed without regard to the provisions of title 5 governing appointments in the competitive service.
+(1) The Director shall, in accordance with such policies as the Board shall from time to time prescribe, appoint and fix the compensation of such personnel as may be necessary to carry out the provisions of this chapter. Except as provided in section 1863(h) <sup>1</sup> of this title, such appointments shall be made and such compensation shall be fixed in accordance with the provisions of title 5 governing appointments in the competitive service, and the provisions of chapter 51 and subchapter III of chapter 53 of title 5 relating to classification and General Schedule pay rates: <i>Provided</i>, That the Director may, in accordance with such policies as the Board shall from time to time prescribe, employ such technical and professional personnel and fix their compensation, without regard to such provisions, as he may deem necessary for the discharge of the responsibilities of the Foundation under this chapter. The members of the special commissions shall be appointed without regard to the provisions of title 5 governing appointments in the competitive service.
 
 (2) The Director may, under the authority provided by paragraph (1) of this subsection and in accordance with such policies as the Board chooses to prescribe, appoint for a limited term, or on a temporary basis, scientists, engineers, and other technical and professional personnel on leave of absence from academic, industrial, or research institutions to work for the Foundation.
 
-(3) The Foundation may pay, to the extent authorized for certain other Federal employees by section 5723 of title 5, travel expenses for any individual appointed for a limited term or on atemporary basis and transportation expenses of his or her immediate family and his or her household goods and personal effects from that individual's residence at the time of selection or assignment to his or her duty station. The Foundation may pay such travel expenses and transportation expenses to the same extent for such an individual's return to the former place of residence from his or her duty station, upon separation from the Federal service following an agreed period of service. The Foundation may also pay a per diem allowance at a rate not to exceed the daily amounts prescribed under section 5702 of title 5 to such an individual, in lieu of transportation expenses of the immediate family and household goods and personal effects, for the period of his or her employment with the Foundation. Notwithstanding any other provision of law, the employer's contribution to any retirement, life insurance, or health benefit plan for an individual appointed for a term of one year or less, which could be extended for no more than one additional year, may be made or reimbursed from appropriations available to the Foundation.
+(3) The Foundation may pay, to the extent authorized for certain other Federal employees by section 5723 of title 5, travel expenses for any individual appointed for a limited term or on a temporary basis and transportation expenses of his or her immediate family and his or her household goods and personal effects from that individual's residence at the time of selection or assignment to his or her duty station. The Foundation may pay such travel expenses and transportation expenses to the same extent for such an individual's return to the former place of residence from his or her duty station, upon separation from the Federal service following an agreed period of service. The Foundation may also pay a per diem allowance at a rate not to exceed the daily amounts prescribed under section 5702 of title 5 to such an individual, in lieu of transportation expenses of the immediate family and household goods and personal effects, for the period of his or her employment with the Foundation. Notwithstanding any other provision of law, the employer's contribution to any retirement, life insurance, or health benefit plan for an individual appointed for a term of one year or less, which could be extended for no more than one additional year, may be made or reimbursed from appropriations available to the Foundation.
 
 #### (b) Operation of laboratories and pilot plants
 
@@ -14,7 +14,7 @@ The Foundation shall not, itself, operate any laboratories or pilot plants.
 
 #### (c) Compensation of members of Board and special commissions
 
-The members of the Board and the members of each special commission shall receive compensation for each day engaged in the business of the Foundation at a rate fixed by the Chairman but not exceeding the rate specified for the daily rate for GS–18 of the General Schedule under section 5332 of title 5 and shall be allowed travel expenses as authorized by section 5703 of title 5.
+The members of the Board and the members of each special commission shall receive compensation for each day engaged in the business of the Foundation at a rate fixed by the Chairman but not exceeding the rate specified for the daily rate for GS–18 of the General Schedule undersection 5332 of title 5 and shall be allowed travel expenses as authorized by section 5703 of title 5.
 
 #### (d) Federal officers as members of special commissions; compensation
 
@@ -52,7 +52,7 @@ The General Schedule, referred to in subsec. (a), is set out under section 5332 
 
 #### Amendments
 
-1995—Subsec. (j). Pub. L. 104–66 struck out subsec. (j) which read as follows: “Starting with fiscal year 1990,the Foundation shall submit to the Congress in each fiscal year, at the time of the release of the President's budget, a three-year budget estimate for the Foundation. The three-year budget shall include funding estimates for each major activity, including each scientific directorate, the United States Antarctic Program, the Science and Engineering Education Directorate, and the Program Development and Management activity.”
+1995—Subsec. (j). Pub. L. 104–66 struck out subsec. (j) which read as follows: “Starting with fiscal year 1990, the Foundation shall submit to the Congress in each fiscal year, at the time of the release of the President's budget, a three-year budget estimate for the Foundation. The three-year budget shall include funding estimates for each major activity, including each scientific directorate, the United States Antarctic Program, the Science and Engineering Education Directorate, and the Program Development and Management activity.”
 
 1991—Subsec. (a)(3). Pub. L. 102–139 struck out “and when less than” after “in lieu of”.
 
@@ -114,7 +114,7 @@ Pub. L. 94–471, §7, Oct. 11, 1976, 90 Stat. 2056, provided that:
 
 “(c)(1) In order to promote increased participation by minorities in careers in science and engineering, the National Science Foundation is authorized and directed to make available planning and study grants for programs including, but not limited to, Minority Centers for Graduate Education in Science and Engineering in accordance with this subsection.
 
-“(2) The grants for Minority Centers for Graduate Education shall be used to determine the need for andfeasibility of developing Centers to be established at geographically dispersed educational institutions which—
+“(2) The grants for Minority Centers for Graduate Education shall be used to determine the need for and feasibility of developing Centers to be established at geographically dispersed educational institutions which—
 
 &emsp;“(A) have substantial minority student enrollment;
 
@@ -134,7 +134,7 @@ Pub. L. 94–471, §7, Oct. 11, 1976, 90 Stat. 2056, provided that:
 
 #### Continuation of Existing Offices, Procedures, and Organization of the National Science Foundation
 
-Amendment by Pub. L. 90–407 intended to continue in effect the existing offices, procedures, and organization of the Foundation, see section 16 of Pub. L. 90–407, set out as a note under section 1862 of this title.
+Amendment by Pub. L. 90–407 intended to continue in effect the existing offices, procedures, and organizationof the Foundation, see section 16 of Pub. L. 90–407, set out as a note under section 1862 of this title.
 
 #### Section Referred to in Other Sections
 

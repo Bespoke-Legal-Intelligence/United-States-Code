@@ -27,7 +27,7 @@
 | [31325\.](Subchapter%20002%20%28II%29%20-%20Commercial%20Instruments/%C2%A7%2031325%20-%20Preferred%20mortgage%20liens%20and%20enforcement.md) | Preferred mortgage liens and enforcement. |
 | [31326\.](Subchapter%20002%20%28II%29%20-%20Commercial%20Instruments/%C2%A7%2031326%20-%20Court%20sales%20to%20enforce%20preferred%20mortgage%20liens%20and%20maritime%20liens%20and%20priority%20of%20claims.md) | Court sales to enforce preferred mortgage liens and maritime liens and priority of claims. |
 | [31327\.](Subchapter%20002%20%28II%29%20-%20Commercial%20Instruments/%C2%A7%2031327%20-%20Forfeiture%20of%20mortgagee%20interest.md) | Forfeiture of mortgagee interest. |
-| [31328\.](Subchapter%20002%20%28II%29%20-%20Commercial%20Instruments/%C2%A7%2031328%20-%20Limitations%20on%20parties%20serving%20as%20trustees%20of%20mortgaged%20vessel%20interests.md) | Limitations on parties serving as trustees of mortgaged vessel interests. |
+| \[31328. | Repealed.\] |
 | [31329\.](Subchapter%20002%20%28II%29%20-%20Commercial%20Instruments/%C2%A7%2031329%20-%20Court%20sales%20of%20documented%20vessels.md) | Court sales of documented vessels. |
 | [31330\.](Subchapter%20002%20%28II%29%20-%20Commercial%20Instruments/%C2%A7%2031330%20-%20Penalties.md) | Penalties. |
 
@@ -42,6 +42,10 @@
 | [31343\.](Subchapter%20003%20%28III%29%20-%20Maritime%20Liens/%C2%A7%2031343%20-%20Recording%20and%20discharging%20liens%20on%20preferred%20mortgage%20vessels.md) | Recording and discharging liens on preferred mortgage vessels. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Amendments
+
+1996—Pub. L. 104–324, title XI, §1113(b)(3), Oct. 19, 1996, 110 Stat. 3970, struck out item 31328 “Limitations onparties serving as trustees of mortgaged vessel interests”.
 
 #### Chapter Referred to in Other Sections
 

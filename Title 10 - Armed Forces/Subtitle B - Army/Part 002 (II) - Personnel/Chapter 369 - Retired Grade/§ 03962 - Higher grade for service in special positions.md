@@ -1,10 +1,8 @@
 ### §3962. Higher grade for service in special positions
 
-(a) Upon retirement, a commissioned officer of the Army who has served (1) as Chief of Staff to the President, (2) as Chief of Staff of the Army, (3) as a senior member of the Military Staff Committee of the United Nations, or (4) as Surgeon General of the Army in the grade of lieutenant general may, in the discretion of the President, be retired, by and with the advice and consent of the Senate, in the highest grade in which he served on active duty.
+Upon retirement, any permanent professor of the United States Military Academy whose grade is below brigadier general, and whose service as such a professor has been long and distinguished, may, in the discretion of the President, be retired in the grade of brigadier general.
 
-(b) Upon retirement, any permanent professor of the United States Military Academy whose grade is below brigadier general, and whose service as such a professor has been long and distinguished, may, in the discretion of the President, be retired in the grade of brigadier general.
-
-(Aug. 10, 1956, ch. 1041, 70A Stat. 230; Sept. 2, 1958, Pub. L. 85–861, §1(99), 72 Stat. 1489; Oct. 22, 1965, Pub. L. 89–288, §2, 79 Stat. 1050; Sept. 8, 1980, Pub. L. 96–343, §13(a)(1)–(3), 94 Stat. 1131; Dec. 12, 1980, Pub. L. 96–513, title V, §502(19), 94 Stat. 2910; July 10, 1981, Pub. L. 97–22, §10(a)(2)(B), 95 Stat. 136.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 230; Sept. 2, 1958, Pub. L. 85–861, §1(99), 72 Stat. 1489; Oct. 22, 1965, Pub. L. 89–288, §2, 79 Stat. 1050; Sept. 8, 1980, Pub. L. 96–343, §13(a)(1)–(3), 94 Stat. 1131; Dec. 12, 1980, Pub. L. 96–513, title V, §502(19), 94 Stat. 2910; July 10, 1981, Pub. L. 97–22, §10(a)(2)(B), 95 Stat. 136; Feb. 10, 1996, Pub. L. 104–106, div. A, title V, §502(c), (d)(1), 110 Stat. 293.)
 
 Historical and Revision Notes<br>1956
 
@@ -18,9 +16,27 @@ Act
 
 3962(a)
 
+&nbsp;
+
 3962(b)
 
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 3962(c)
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 3962(d)
 
@@ -80,6 +96,8 @@ The amendment reflects section 1 of the Act of May 31, 1956, ch. 348 (70 Stat. 2
 
 #### Amendments
 
+1996—Pub. L. 104–106 designated subsec. (b) as entire section and struck out subsec. (a) which read as follows: “Upon retirement, a commissioned officer of the Army who has served (1) as Chief of Staff to the President, (2) as Chief of Staff of the Army, (3) as a senior member of the Military Staff Committee of the United Nations, or (4) as Surgeon General of the Army in the grade of lieutenant general may, in the discretion of the President, be retired, by and with the advice and consent of the Senate, in the highest grade in which he served on active duty.”
+
 1980—Pub. L. 96–343, §13(a)(3), substituted “positions” for “positions: regular commissioned officers” in section catchline.
 
 Subsec. (a). Pub. L. 96–513, §502(19)(A), as amended by Pub. L. 97–22, struck out cl. (4) which had referred to service in a position of importance and responsibility designated by the President to carry out the grade of general or lieutenant general under section 3066 of this title, and redesignated cl. (5) as (4).
@@ -110,19 +128,11 @@ Section 13(c) of Pub. L. 96–343 provided that:
 
 #### Retired Grade for Certain General Officers
 
-Section 38 of act Aug. 10, 1956, provided that: “The President, by and with the advice and consent of the Senate, may in his discretion extend the privilegegranted by sections 3962(a) and 8962(a) of title 10, United States Code, to officers, heretofore or hereafter retired, who served in the grade of general or lieutenant general after December 7, 1941, and before July 1, 1946.”
+Section 38 of act Aug. 10, 1956, provided that the President, by and with the advice and consent of the Senate, could extend privilege granted by former sections 3962(a) and 8962(a) of this title to retired officers who served in grade of general or lieutenant general after Dec. 7, 1941, and before July 1, 1946.
 
 #### Cross References
 
-Chief and assistant chiefs of Army Medical Specialist Corps, see section 3070 of this title.
-
-Chief of Army Nurse Corps, see section 3069 of this title.
-
-Chief of Staff, see section 3033 of this title.
-
 Permanent professors of Military Academy, see section 4336 of this title.
-
-Senior members of Military Staff Committee of United Nations, see section 711 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -10,7 +10,7 @@ The following acts and the causing thereof are prohibited:
 
 (d) The introduction or delivery for introduction into interstate commerce of any article in violation of section 344 or 355 of this title.
 
-(e) The refusal to permit access to or copying of any record as required by section 350a or 373 of this title; or the failure to establish or maintain any record, or make any report, required under section 350a, 355(i) or (k), 357(d) or (g), 360b(a)(4)(C), 360b(j), (<i>l</i>), or (m), 360e(f), or 360i of this title, or the refusal to permit access to or verification or copying of any such required record.
+(e) The refusal to permit access to or copying of any record as required by section 350a, 354, or 373 of this title; or the failure to establish or maintain any record, or make any report, required under section 350a, 354, 355(i) or (k), 357(d) or (g), 360b(a)(4)(C), 360b(j), (<i>l</i>), or (m), 360e(f), or 360i of this title, or the refusal to permit access to or verification or copying of any such required record.
 
 (f) The refusal to permit entry or inspection as authorized by section 374 of this title.
 
@@ -24,7 +24,7 @@ The following acts and the causing thereof are prohibited:
 
 (3) The doing of any act which causes a drug to be a counterfeit drug, or the sale or dispensing, or the holding for sale or dispensing, of a counterfeit drug.
 
-(j) The using by any person to his own advantage, or revealing, other than to the Secretary or officers or employees of the Department, or to the courts when relevant in any judicial proceeding under this chapter, any information acquired under authority of section 344, 348, 350a, 355, 356, 357, 360, 360b, 360c, 360d, 360e, 360f, 360h, 360i, 360j, 374, 379, or 379e of this title concerning any method or process which as a trade secret is entitled to protection. This paragraph does not authorize the withholding of information from either House of Congress or from, to the extent of matter within its jurisdiction, any committee or subcommittee of such committee or any joint committee of Congress or any subcommittee of such joint committee.
+(j) The using by any person to his own advantage, or revealing, other than to the Secretary or officers or employees of the Department, or to the courts when relevant in any judicial proceeding under this chapter, any information acquired under authority of section 344, 348, 350a, 355, 356, 357, 360, 360b, 360c, 360d, 360e, 360f, 360h, 360i, 360j, 374, 379, or 379e of this title concerning any method or process which as a trade secret is entitled to protection; or the violating of section 346a(i)(2) of this title or any regulation issued under that section..<sup>1</sup> This paragraph does not authorize the withholding of information from either House of Congress or from, to the extent of matter within its jurisdiction, any committee or subcommittee of such committee or any joint committee of Congress or any subcommittee of such joint committee.
 
 (k) The alteration, mutilation, destruction, obliteration, or removal of the whole or any part of the labeling of, or the doing of any other act with respect to, a food, drug, device, or cosmetic, if such act is done while such article is held for sale (whether or not the first sale) after shipment in interstate commerce and results in such article being adulterated or misbranded.
 
@@ -50,11 +50,19 @@ The following acts and the causing thereof are prohibited:
 
 (u) The failure to comply with any requirements of the provisions of, or any regulations or orders of the Secretary, under section 360b(a)(4)(A), 360b(a)(4)(D), or 360b(a)(5) of this title.
 
-(u) <sup>1</sup> The introduction or delivery for introduction into interstate commerce of a dietary supplement that is unsafe under section 350b of this title.
+(v) The introduction or delivery for introduction into interstate commerce of a dietary supplement that is unsafe under section 350b of this title.
 
-(June 25, 1938, ch. 675, §301, 52 Stat. 1042; Dec. 22, 1941, ch. 613, §1, 55 Stat. 851; July 6, 1945, ch. 281, §1, 59 Stat. 463; Mar. 10, 1947, ch. 16, §1, 61 Stat. 11; June 24, 1948, ch. 613, §1, 62 Stat. 582; Mar. 16, 1950, ch. 61, §3(b), 64 Stat. 20; Aug. 7, 1953, ch. 350, §2, 67 Stat. 477; Sept. 6, 1958, Pub. L. 85–929, §5, 72 Stat. 1788; July 12, 1960, Pub. L. 86–618, title I, §§104, 105(a), 74 Stat. 403; Oct. 10, 1962, Pub. L. 87–781, title I, §§103(c), 104(e)(1), 106(c), 114(a), title III, §304, 76 Stat. 784, 785, 788, 791, 795; July 15, 1965, Pub. L. 89–74, §§5, 9(c), 79 Stat. 232, 235; July 13, 1968, Pub. L. 90–399, §103, 82 Stat. 352; Oct. 24, 1968, Pub. L. 90–639, §2(b), 82 Stat. 1361; Oct. 27, 1970, Pub. L. 91–513, title II, §701(a), 84 Stat. 1281; Aug. 16, 1972, Pub. L. 92–387, §4(e), 86 Stat. 562; May 28, 1976, Pub. L. 94–295, §§3(b), 4(b)(1), 7(b), 90 Stat. 576, 580, 582; Sept. 26, 1980, Pub. L. 96–359, §5, 94 Stat. 1193; Oct. 27, 1986, Pub. L. 99–570, title IV, §4014(b)(2), 100 Stat. 3207–120; Apr. 22, 1988, Pub. L. 100–293, §7(a), 102 Stat. 99; Nov. 3, 1990, Pub. L. 101–502, §5(j), 104 Stat. 1289; Nov. 5, 1990, Pub. L. 101–508, title IV, §4755(c)(2), 104 Stat. 1388–210; June 16, 1992, Pub. L. 102–300, §3(a)(1), 106 Stat. 238; Oct. 29, 1992, Pub. L. 102–571, title I, §107(2), (3), 106 Stat. 4499; Aug. 13, 1993, Pub. L. 103–80, §3(c), 107 Stat. 775; Oct. 22, 1994, Pub. L. 103–396, §2(b)(1), 108 Stat. 4154; Oct. 25, 1994, Pub. L. 103–417, §10(b), 108 Stat. 4332.)
+(w) The making of a knowingly false statement in any record or report required or requested under subparagraph (A) or (B) of section 381(d)(3) of this title, the failure to submit or maintain records as required by sections 381(d)(3)(A) and 381(d)(3)(B) of this title, the release into interstate commerce of any article imported into the United States under section 381(d)(3) of this title or any finished product made from such article (except for export in accordance with section 381(e) or 382 of this title or section 262(h) of title 42), or the failure to export or destroy any component, part or accessory not incorporated into a drug, biological product or device that will be exported in accordance with section 381(e) or 382 of this title or section 262(h) of title 42.
+
+(June 25, 1938, ch. 675, §301, 52 Stat. 1042; Dec. 22, 1941, ch. 613, §1, 55 Stat. 851; July 6, 1945, ch. 281, §1, 59 Stat. 463; Mar. 10, 1947, ch. 16, §1, 61 Stat. 11; June 24, 1948, ch. 613, §1, 62 Stat. 582; Mar. 16, 1950, ch. 61, §3(b), 64 Stat. 20; Aug. 7, 1953, ch. 350, §2, 67 Stat. 477; Sept. 6, 1958, Pub. L. 85–929, §5, 72 Stat. 1788; July 12, 1960, Pub. L. 86–618, title I, §§104, 105(a), 74 Stat. 403; Oct. 10, 1962, Pub. L. 87–781, title I, §§103(c), 104(e)(1), 106(c), 114(a), title III, §304, 76 Stat. 784, 785, 788, 791, 795; July 15, 1965, Pub. L. 89–74, §§5, 9(c), 79 Stat. 232, 235; July 13, 1968, Pub. L. 90–399, §103, 82 Stat. 352; Oct. 24, 1968, Pub. L. 90–639, §2(b), 82 Stat. 1361; Oct. 27, 1970, Pub. L. 91–513, title II, §701(a), 84 Stat. 1281; Aug. 16, 1972, Pub. L. 92–387, §4(e), 86 Stat. 562; May 28, 1976, Pub. L. 94–295, §§3(b), 4(b)(1), 7(b), 90 Stat. 576, 580, 582; Sept. 26, 1980, Pub. L. 96–359, §5, 94 Stat. 1193; Oct. 27, 1986, Pub. L. 99–570, title IV, §4014(b)(2), 100 Stat. 3207–120; Apr. 22, 1988, Pub. L. 100–293, §7(a), 102 Stat. 99; Nov. 3, 1990, Pub. L. 101–502, §5(j), 104 Stat. 1289; Nov. 5, 1990, Pub. L. 101–508, title IV, §4755(c)(2), 104 Stat. 1388–210; June 16, 1992, Pub. L. 102–300, §3(a)(1), 106 Stat. 238; Oct. 29, 1992, Pub. L. 102–571, title I, §107(2), (3), 106 Stat. 4499; Aug. 13, 1993, Pub. L. 103–80, §3(c), 107 Stat. 775; Oct. 22, 1994, Pub. L. 103–396, §2(b)(1), 108 Stat. 4154; Oct. 25, 1994, Pub. L. 103–417, §10(b), 108 Stat. 4332; Apr. 26, 1996, Pub. L. 104–134, title II, §2103, 110 Stat. 1321–319; Aug. 3, 1996, Pub. L. 104–170, title IV, §403, 110 Stat. 1514; Oct. 9, 1996, Pub. L. 104–250, §5(d), 110 Stat. 3156.)
 
 #### Amendments
+
+1996—Par. (e). Pub. L. 104–250 inserted “, 354,” before “or 373 of this title” and “354,” before “355(i) or (k)”.
+
+Par. (j). Pub. L. 104–170 inserted before period at end of first sentence “; or the violating of section 346a(i)(2) of this title or any regulation issued under that section.”
+
+Pars. (u) to (w). Pub. L. 104–134 redesignated par. (u) relating to introduction into interstate commerce of unsafe dietary supplement as (v) and added par. (w).
 
 1994—Par. (e). Pub. L. 103–396, §2(b)(1)(A), substituted “357(d) or (g), 360b(a)(4)(C),” for “357(d) or (g),”.
 
@@ -114,7 +122,7 @@ Par. (q). Pub. L. 89–74, §5, added par. (q).
 
 Par. (<i>l</i>). Pub. L. 87–781, §104(e)(1), inserted “approval of” before “an application”, and substituted “in effect” for “effective”.
 
-Par. (<i>o</i>). Pub. L. 87–781, §114(a), added par. (<i>o).</i>
+Par. (<i>o</i>). Pub. L. 87–781, §114(a), added par. (<i>o</i>).
 
 Par. (p). Pub. L. 87–781, §304, added par. (p).
 
@@ -138,7 +146,7 @@ Par. (j). Pub. L. 86–618, §104, inserted reference to section 376 of this tit
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–396 effective upon adoption of final regulations under section 2(c) of Pub. L. 103–396, set out as a Regulations note under section 360b of this title, see section 2(d) of Pub. L. 103–396, set out as a note under section 360b of this title.
+Amendment by Pub. L. 103–396 effective upon adoption of final regulations under section 2(c) of Pub. L.103–396, set out as a Regulations note under section 360b of this title, see section 2(d) of Pub. L. 103–396, set out as a note under section 360b of this title.
 
 #### Effective Date of 1990 Amendment
 
@@ -196,5 +204,5 @@ For transfer of functions of Federal Security Administrator to Secretary of Heal
 
 This section is referred to in sections 321, 332, 333, 347b, 360i, 360j of this title; title 42 section 1396r–8.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “(v)”.</i>
+<i><sup>1</sup></i><i> So in original.</i>
 

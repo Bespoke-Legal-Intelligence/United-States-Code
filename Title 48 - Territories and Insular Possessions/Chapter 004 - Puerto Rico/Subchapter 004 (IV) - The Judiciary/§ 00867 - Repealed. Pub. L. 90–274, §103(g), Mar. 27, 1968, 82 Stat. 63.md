@@ -4,5 +4,5 @@ Section, acts Mar. 2, 1917, ch. 145, §44, 39 Stat. 966; May 17, 1932, ch. 190, 
 
 #### Effective Date of Repeal
 
-Repeal effective 270 days after Mar. 27, 1968, except as to cases in which an indictment is returned or petit jury is empaneled prior to such effective date, see section 104 of Pub. L. 90–274, set out as an Effective Date of 1968 Amendment note under section 1861 of Title 28, Judiciary and Judicial Procedure.
+Repeal effective 270 days after Mar. 27, 1968, except as to cases in which an indictment is returned or petit jury is empaneled prior to such effective date, see section 104 of Pub. L. 90–274, set out as an Effective Dateof 1968 Amendment note under section 1861 of Title 28, Judiciary and Judicial Procedure.
 

@@ -4,7 +4,3 @@ The Speaker is authorized to designate from time to time some one from among tho
 
 (Nov. 12, 1903, P. Res. No. 1, 33 Stat. 1.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 25b of this title.
-

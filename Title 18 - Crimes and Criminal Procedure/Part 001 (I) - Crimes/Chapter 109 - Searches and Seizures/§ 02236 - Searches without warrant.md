@@ -1,6 +1,6 @@
 ### §2236. Searches without warrant
 
-Whoever, being an officer, agent, or employee of the United States or any department or agency thereof, engaged in the enforcement of any law of the United States, searches any private dwelling used and occupied as such dwelling without a warrant directing such search, or maliciously and without reasonable cause searches any other building or property without a search warrant, shall be fined for a first offense not more than $1,000; and, for a subsequent offense, shall be fined not more than $1,000 or imprisoned not more than one year, or both.
+Whoever, being an officer, agent, or employee of the United States or any department or agency thereof, engaged in the enforcement of any law of the United States, searches any private dwelling used and occupied as such dwelling without a warrant directing such search, or maliciously and without reasonable cause searches any other building or property without a search warrant, shall be fined for a first offense not more than $1,000; and, for a subsequent offense, shall be fined under this title or imprisoned not more than one year, or both.
 
 &emsp;This section shall not apply to any person—
 
@@ -10,7 +10,7 @@ Whoever, being an officer, agent, or employee of the United States or any depart
 
 &emsp;&emsp;(c) making a search at the request or invitation or with the consent of the occupant of the premises.
 
-(June 25, 1948, ch. 645, 62 Stat. 803.)
+(June 25, 1948, ch. 645, 62 Stat. 803; Oct. 11, 1996, Pub. L. 104–294, title VI, §601(a)(8), 110 Stat. 3498.)
 
 #### Historical and Revision Notes
 
@@ -25,6 +25,10 @@ Reference to misdemeanor was omitted in view of definitive section 1 of this tit
 Words “upon conviction thereof shall be” were omitted as surplusage, since punishment cannot be imposed until conviction is secured.
 
 Minor changes were made in phraseology.
+
+#### Amendments
+
+1996—Pub. L. 104–294 substituted “fined under this title” for “fined not more than $1,000”.
 
 #### Cross References
 

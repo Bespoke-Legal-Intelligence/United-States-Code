@@ -6,7 +6,7 @@
 | :--- | ---: |
 | 701 to 712. | Omitted or Repealed. |
 | [712a.](Subchapter%20001%20%28I%29%20-%20Generally/%C2%A7%2000712a%20-%20Limitation%20of%20obligations%20for%20administrative%20expenses%20of%20certain%20agencies%3B%20limitation%20on%20life%20of%20certain%20agencies.md) | Limitation of obligations for administrative expenses of certain agencies; limitation on life of certain agencies. |
-| 713 to 713a–3. Omitted or Repealed. |  |
+| 713 to 713a–3. | Omitted or Repealed. |
 | 713a–4. | Obligations of Commodity Credit Corporation; issuance; sale; purchase; redemption; etc. |
 | 713a–5. | Exemption of Commodity Credit Corporation and its obligations from taxation. |
 | 713a–6. | Sale of surplus agricultural commodities to foreign governments. |
@@ -41,6 +41,10 @@ Payments under program to be made in cash or commodities.
 (e)
 
 Payment rates; publication in Federal Register or other public announcement.
+
+(f)
+
+Required funding.
 
 |  |  |
 | :--- | ---: |

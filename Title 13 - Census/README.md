@@ -1,5 +1,5 @@
 
-13 U.S.C.<br>United States Code, 1995 Edition<br>Title 13 - CENSUS<br>From the U.S. Government Publishing Office, www.gpo.gov
+13 U.S.C.<br>United States Code, 1996 Edition<br>Title 13 - CENSUS<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 13—CENSUS
 
@@ -18,9 +18,13 @@
 
 Table Showing Disposition of All Sections of Former Title 13
 
-<i>Title 13      Former Sections     </i>
+<i>Title 13</i>
 
-<i>Title 13         New Sections        </i>
+<i>Former Sections</i>
+
+<i>Title 13</i>
+
+<i>New Sections</i>
 
 1
 

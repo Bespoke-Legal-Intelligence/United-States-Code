@@ -16,7 +16,7 @@ Except as provided in subsection (c) of this section, no institution shall accep
 
 #### (c) Authorization for special ratio limit; foreign banks
 
-The Board, under such conditions as it may prescribe, may authorize, by regulation or order, any institution to accept such bills, or be obligated for a participation share in such bills, in an amount not exceeding at any time in the aggregate 200 per centum of its paid up and unimpaired capital stock and surplus or, in the case of a United States branch or agency of a foreign bank, its dollar equivalent as determined by the Board under subsection (h) of this section.
+The Board, under such conditions as it may prescribe, may authorize, by regulation or order, any institution to accept such bills, or be obligated for a participation share in such bills, in an amount not exceeding at any time in the aggregate 200 per centum of its paid up and unimpaired capital stock and surplus or, in the caseof a United States branch or agency of a foreign bank, its dollar equivalent as determined by the Board under subsection (h) of this section.
 
 #### (d) Ratio limit for domestic transactions
 
@@ -36,7 +36,7 @@ In order to carry out the purposes of this section, the Board may define any of 
 
 #### (h) Dollar equivalent of foreign bank paid-up capital stock and surplus
 
-Any limitation or restriction in this section based on paid-up and unimpaired capital stock and surplus of an institution shall be deemed to refer, with respect to a United States branch or agency of a foreign bank, to the dollar equivalent of the paid-up capital stock and surplus of the foreign bank, as determined by the Board, and if the foreign bank has more than oneUnited States branch or agency, the business transacted by all such branches and agencies shall be aggregated in determining compliance with the limitation or restriction.
+Any limitation or restriction in this section based on paid-up and unimpaired capital stock and surplus of an institution shall be deemed to refer, with respect to a United States branch or agency of a foreign bank, to the dollar equivalent of the paid-up capital stock and surplus of the foreign bank, as determined by the Board, and if the foreign bank has more than one United States branch or agency, the business transacted by all such branches and agencies shall be aggregated in determining compliance with the limitation or restriction.
 
 (Dec. 23, 1913, ch. 6, §13 (par.), 38 Stat. 264; Mar. 3, 1915, ch. 93, 38 Stat. 958; Sept. 7, 1916, ch. 461, 39 Stat. 752; June 21, 1917, ch. 32, §5, 40 Stat. 235; Aug. 23, 1935, ch. 614, title II, §203(a), 49 Stat. 704; Oct. 8, 1982, Pub. L. 97–290, title II, §207, 96 Stat. 1239.)
 

@@ -28,7 +28,7 @@
 
 &emsp;(A) The Secretary's agreement to provide the participant with a scholarship under this subchapter for a specified number (from one to four) of school years during which the participant is pursuing a course of education or training described in section 7602 of this title.
 
-&emsp;(B) The participant's agreement to serve as a full-time employee in the Veterans HealthAdministration for a period of time (hereinafter in this subchapter referred to as the “period of obligated service”) of one calendar year for each school year or part thereof for which the participant was provided a scholarship under the Scholarship Program, but for not less than two years.
+&emsp;(B) The participant's agreement to serve as a full-time employee in the Veterans Health Administration for a period of time (hereinafter in this subchapter referred to as the “period of obligated service”) of one calendar year for each school year or part thereof for which the participant was provided a scholarship under the Scholarship Program, but for not less than two years.
 
 (2) In a case in which an extension is granted under section 7614(3) of this title, the number of years for which a scholarship may be provided under this subchapter shall be the number of school years provided for as a result of the extension.
 

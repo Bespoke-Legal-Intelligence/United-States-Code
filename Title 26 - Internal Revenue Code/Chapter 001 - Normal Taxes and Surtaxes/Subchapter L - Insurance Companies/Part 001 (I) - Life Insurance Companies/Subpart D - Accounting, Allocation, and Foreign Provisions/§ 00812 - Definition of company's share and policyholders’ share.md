@@ -124,11 +124,7 @@ For purposes of this section, the term “gross investment income” means the s
 
 Under regulations, proper adjustments shall be made in the application of this section to prevent an item from being counted more than once.
 
-#### (g) Treatment of interest partially tax-exempt under section 133
-
-For purposes of this section and subsections (a) and (b) of section 807, the terms “gross investment income” and “tax-exempt interest” shall not include any interest received with respect to a securities acquisition loan (as defined in section 133(b)). Such interest shall not be included in life insurance gross income for purposes of subsection (b)(3).
-
-(Added Pub. L. 98–369, div. A, title II, §211(a), July 18, 1984, 98 Stat. 741; amended Pub. L. 99–514, title XVIII, §1821(i), Oct. 22, 1986, 100 Stat. 2840; Pub. L. 100–203, title X, §10241(b)(2)(B), Dec. 22, 1987, 101 Stat. 1330–420; Pub. L. 100–647, title I, §1018(h)(1), title II, §2004(p)(2), Nov. 10, 1988, 102 Stat. 3583, 3608.)
+(Added Pub. L. 98–369, div. A, title II, §211(a), July 18, 1984, 98 Stat. 741; amended Pub. L. 99–514, title XVIII, §1821(i), Oct. 22, 1986, 100 Stat. 2840; Pub. L. 100–203, title X, §10241(b)(2)(B), Dec. 22, 1987, 101 Stat. 1330–420; Pub. L. 100–647, title I, §1018(h)(1), title II, §2004(p)(2), Nov. 10, 1988, 102 Stat. 3583, 3608; Pub. L. 104–188, title I, §1602(b)(2), Aug. 20, 1996, 110 Stat. 1833.)
 
 #### Prior Provisions
 
@@ -138,11 +134,15 @@ Another prior section 812, act Aug. 16, 1954, ch. 736, §812, as added Mar. 13, 
 
 #### Amendments
 
+1996—Subsec. (g). Pub. L. 104–188 struck out subsec. (g) which read as follows: “
+
+Treatment of Interest Partially Tax-Exempt Under Section 133.—For purposes of this section and subsections (a) and (b) of section 807, the terms ‘gross investment income’ and ‘tax-exempt interest’ shall not include any interest received with respect to a securities acquisition loan (as defined in section 133(b)). Such interest shall not be included in life insurance gross income for purposes of subsection (b)(3).”
+
 1988—Subsec. (b)(2). Pub. L. 100–647, §2004(p)(2), substituted “In any case where neither the prevailing State assumed interest rate nor the applicable Federal interest rate is used, another appropriate rate shall be used for purposes of subparagraph (A).” for “In any case where the prevailing State assumed rate is not used, another appropriate rate shall be treated as the prevailing State assumed rate for purposes of subparagraph (A).”
 
 Subsec. (e). Pub. L. 100–647, §1018(h)(1), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “For purposes of this section, the term ‘gross investment income’ shall not include any dividend received by the life insurance company which is a 100-percent dividend (as defined in section 805(a)(4)(C)). Such term also shall not include any dividend described in section 805(a)(4)(D) (relating to certain dividends in the case of foreign corporations).”
 
-1987—Subsec. (b)(2). Pub. L. 100–203 substituted “at the greater of the prevailing State assumed rate or the applicable Federal interest rate” for “at the prevailing State assumed rate or, where such rate is not used, another appropriate rate” in subpar. (A), and inserted provision at end that in any case where the prevailing State assumed rate is not used, another appropriate rate be treated as the prevailing State assumed rate for purposes of subpar. (A).
+1987—Subsec. (b)(2). Pub. L. 100–203 substituted “at the greater of the prevailing State assumed rate or theapplicable Federal interest rate” for “at the prevailing State assumed rate or, where such rate is not used, another appropriate rate” in subpar. (A), and inserted provision at end that in any case where the prevailing State assumed rate is not used, another appropriate rate be treated as the prevailing State assumed rate for purposes of subpar. (A).
 
 1986—Subsec. (b)(2). Pub. L. 99–514, §1821(i)(1), inserted “or, where such rate is not used, another appropriate rate” after “assumed rate”, in subpar. (A) and added subpar. (D).
 
@@ -151,6 +151,10 @@ Subsec. (b)(3)(B). Pub. L. 99–514, §1821(i)(2), struck out “(including tax-
 Subsec. (c). Pub. L. 99–514, §1821(i)(3), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “For purposes of this section, the term ‘net investment income’ means 90 percent of gross investment income.”
 
 Subsec. (g). Pub. L. 99–514, §1821(i)(4), added subsec. (g).
+
+#### Effective Date of 1996 Amendment
+
+Amendment by section 1602(b)(1) of Pub. L. 104–188 applicable to loans made after Aug. 20, 1996, with exception, and provisions relating to certain refinancings, see section 1602(c) of Pub. L. 104–188, set out as an Effective Date of Repeal note under former section 133 of this title.
 
 #### Effective Date of 1988 Amendment
 
@@ -172,9 +176,9 @@ Section applicable to taxable years beginning after Dec. 31, 1983, see section 2
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 805, 810 of this title.
+This section is referred to in sections 805, 810, 817A of this title.
 

@@ -40,7 +40,7 @@ As part of the annual application required by subsection (a) of this section, th
 
 &emsp;&emsp;(E) to encourage the use of entities in the private sector of the community in efforts to ameliorate poverty in the community;
 
-&emsp;(2)(A) use, for fiscal year 1985 and for each subsequent fiscal year, not less than 90 percent of the funds allotted to the State under section 9903 of this title to make grants to use for the purposes described in clause (1) to eligible entities (as defined in section 9902(1) of this title) or to organizations serving seasonal or migrant farmworkers, except that no more than 7 percent of the funds available for this subclause shall be granted to organizations which were not eligible entities during the previous fiscal year; and
+&emsp;(2)(A) use, for fiscal year 1985 and for each subsequent fiscal year, not less than 90 percent of the funds allotted to the State under section 9903 of this title to make grants to use for the purposes described in clause (1) to eligible entities (as defined in section 9902(1) of this title) or to organizations serving seasonal or migrant farmworkers, except that no more than 7 percent of the funds available for this subclause shall be granted to organizationswhich were not eligible entities during the previous fiscal year; and
 
 &emsp;(B) if less than 100 percent of the allotment is expended under subparagraph (A), provide assurances that with respect to the remainder of the allotment a reasonable amount shall be used for—
 
@@ -62,7 +62,7 @@ As part of the annual application required by subsection (a) of this section, th
 
 &emsp;(4) give special consideration in the designation of local community action agencies under this chapter to any community action agency which is receiving funds under any Federal antipoverty program on August 13, 1981, except that (A) the State shall, before giving such special consideration, determine that the agency involved meets program and fiscal requirements established by the State; and (B) if there is no such agency because of any change in the assistance furnished to programs for economically disadvantaged persons, the State shall give special consideration in the designation of community action agencies to any successor agency which is operated in substantially the same manner as the predecessor agency which did receive funds in the fiscal year preceding the fiscal year for which the determination is made;
 
-&emsp;(5) provide assurances that the State may transfer funds, but not to exceed 5 percent of its allotment under section 9903 of this title, for the provisions set forth in this chapter to services under the Older Americans Act of 1965 \[42 U.S.C. 3001 et seq.\], the Head Start program under subchapter II of chapter 105 of this title, the energy crisis intervention program under subchapter II of chapter 94 of this title (relating to low-income home energy assistance), or the Emergency Food Assistance Act of 1983;
+&emsp;(5) provide assurances that the State may transfer funds, but not to exceed 5 percent of its allotment under section 9903 of this title, for the provisions set forth in this chapter to services under the Older Americans Act of 1965 \[42 U.S.C. 3001 et seq.\], the Head Start program under subchapter II of chapter 105 of this title, the energy crisis intervention program under subchapter II of chapter 94 of this title (relating to low-income home energy assistance), or the Emergency Food Assistance Act of 1983 \[7 U.S.C. 7501 et seq.\];
 
 &emsp;(6) prohibit any political activities in accordance with subsection (e) of this section;
 
@@ -70,7 +70,7 @@ As part of the annual application required by subsection (a) of this section, th
 
 &emsp;(8) provide for coordination between antipoverty programs in each community, where appropriate, with emergency energy crisis intervention programs under subchapter II of chapter 94 of this title (relating to low-income home energy assistance) conducted in such community;
 
-&emsp;(9) provide that fiscal control and fund accounting procedures will be established asmay be necessary to assure the proper disbursal of and accounting for Federal funds paid to the State under this chapter, including procedures for monitoring the assistance provided under this chapter, and provide that at least every year each State shall prepare, in accordance with subsection (f) of this section, an audit of its expenditures of amounts received under this chapter and amounts transferred to carry out the purposes of this chapter;
+&emsp;(9) provide that fiscal control and fund accounting procedures will be established as may be necessary to assure the proper disbursal of and accounting for Federal funds paid to the State under this chapter, including procedures for monitoring the assistance provided under this chapter, and provide that at least every year each State shall prepare, in accordance with subsection (f) of this section, an audit of its expenditures of amounts received under this chapter and amounts transferred to carry out the purposes of this chapter;
 
 &emsp;(10) permit and cooperate with Federal investigations undertaken in accordance with section 9908 of this title;
 
@@ -134,11 +134,11 @@ The Comptroller General of the United States shall, from time to time, evaluate 
 
 The Older Americans Act of 1965, referred to in subsec. (c)(5), is Pub. L. 89–73, July 14, 1965, 79 Stat. 218, as amended, which is classified generally to chapter 35 (§3001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of this title and Tables.
 
-Subchapter II of chapter 105 of this title, referred to in subsec. (c)(5), was in the original “subchapter B of chapter 8 of subtitle A of this title”, meaning subchapter B (§§635 to 657) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 499, known as the Head Start Act, which is classified generally to subchapter II (§9831 et seq.) of chapter 105 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9801 of this title and Tables.
+Subchapter II of chapter 105 of this title, referred to in subsec. (c)(5), was in the original “subchapter B of chapter 8 of subtitle A of this title”, meaning subchapter B (§§635 to 657) of chapter 8 of subtitle A oftitle VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 499, known as the Head Start Act, which is classified generally to subchapter II (§9831 et seq.) of chapter 105 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9801 of this title and Tables.
 
 Subchapter II of chapter 94 of this title, referred to in subsec. (c)(5), (8), was in the original “title XXVI of this Act”, meaning title XXVI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 893, known as the Low-Income Home Energy Assistance Act of 1981, which is classified generally to subchapter II (§8621 et seq.) of chapter 94 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 8621 of this title and Tables.
 
-The Emergency Food Assistance Act of 1983, referred to in subsec. (c)(5), is title II of Pub. L. 98–8, Mar. 24, 1983, 97 Stat. 35, as amended, which is set out as a note under section 612c of Title 7, Agriculture. For complete classification of this Act to the Code, see Tables.
+The Emergency Food Assistance Act of 1983, referred to in subsec. (c)(5), is title II of Pub. L. 98–8, Mar. 24, 1983, 97 Stat. 35, as amended, which is classified generally to chapter 102 (§7501 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 7501 of Title 7 and Tables.
 
 This Act, referred to in subsec. (c)(11), (13), is Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 357, as amended, known as the Omnibus Budget Reconciliation Act of 1981. For complete classification of this Act to the Code, see Tables.
 

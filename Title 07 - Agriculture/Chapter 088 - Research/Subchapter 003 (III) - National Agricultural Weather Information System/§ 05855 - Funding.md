@@ -24,7 +24,11 @@ Funds provided under the authority of this subchapter shall not be used for the 
 
 #### (c) Authorization of appropriations
 
-There are authorized to be appropriated $5,000,000 to carry out this subchapter for each of the fiscal years 1991 through 1995.
+There are authorized to be appropriated $5,000,000 to carry out this subchapter for each of the fiscal years 1991 through 1997.
 
-(Pub. L. 101–624, title XVI, §1641, Nov. 28, 1990, 104 Stat. 3750.)
+(Pub. L. 101–624, title XVI, §1641, Nov. 28, 1990, 104 Stat. 3750; Pub. L. 104–127, title VIII, §833, Apr. 4, 1996, 110 Stat. 1168.)
+
+#### Amendments
+
+1996—Subsec. (c). Pub. L. 104–127 substituted “1997” for “1995”.
 

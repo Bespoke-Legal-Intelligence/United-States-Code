@@ -2,7 +2,7 @@
 
 #### (a) Report requirements
 
-The President shall submit to the Committees on Armed Services and on Foreign Affairs of the House of Representatives and the Committees on Armed Services and Foreign Relations of the Senate each year a report (in both classified and unclassified form) on United States security arrangements with, and commitments to, other nations.
+The President shall submit to the congressional committees specified in subsection (d) of this section each year a report (in both classified and unclassified form) on United States security arrangements with, and commitments to, other nations.
 
 #### (b) Matters to be included
 
@@ -22,17 +22,27 @@ The President shall include in each such report the following:
 
 #### (c) Deadline for report
 
-(1) Except as provided in paragraph (2), the President shall submit the report required by subsection (a) of this section not later than February 1 of each year.
+The President shall submit the report required by subsection (a) of this section not later than February 1 of each year.
 
-(2) In the case of the report required to be submitted in 1991, the evaluation, plan, and assessment referred to in paragraphs (2), (3), and (4) of subsection (b) of this section may be submitted not later than May 1, 1991.
+#### (d) Specified congressional committees
 
-(Pub. L. 101–510, div. A, title XIV, §1457, Nov. 5, 1990, 104 Stat. 1696.)
+The congressional committees referred to in subsection (a) of this section are the following:
+
+&emsp;(1) The Committee on Armed Services and the Committee on Foreign Relations of the Senate.
+
+&emsp;(2) The Committee on National Security and the Committee on International Relations of the House of Representatives.
+
+(Pub. L. 101–510, div. A, title XIV, §1457, Nov. 5, 1990, 104 Stat. 1696; Pub. L. 104–106, div. A, title XV, §1502(c)(4)(C), Feb. 10, 1996, 110 Stat. 507.)
 
 #### Codification
 
-Section was enacted as part of the National Defense Authorization Act for Fiscal Year 1991, and not as partof the National Security Act of 1947 which comprises this chapter.
+Section was enacted as part of the National Defense Authorization Act for Fiscal Year 1991, and not as part of the National Security Act of 1947 which comprises this chapter.
 
-#### Change of Name
+#### Amendments
 
-Committee on Armed Services of House of Representatives treated as referring to Committee on National Security of House of Representatives and Committee on Foreign Affairs of House of Representatives treated as referring to Committee on International Relations of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+1996—Subsec. (a). Pub. L. 104–106, §1502(c)(4)(C)(i), substituted “shall submit to the congressional committees specified in subsection (d) of this section each year” for “shall submit to the Committees on Armed Services and on Foreign Affairs of the House of Representatives and the Committees on Armed Services and Foreign Relations of the Senate each year”.
+
+Subsec. (c). Pub. L. 104–106, §1502(c)(4)(C)(ii), substituted “The President” for “(1) Except as provided in paragraph (2), the President” and struck out par. (2) which read as follows: “In the case of the report required to be submitted in 1991, the evaluation, plan, and assessment referred to in paragraphs (2), (3), and (4) of subsection (b) of this section may be submitted not later than May 1, 1991.”
+
+Subsec. (d). Pub. L. 104–106, §1502(c)(4)(C)(iii), added subsec. (d).
 

@@ -22,17 +22,13 @@ Administrative Support.—The agency shall provide appropriate administrative su
 
 (Added Pub. L. 101–648, §3(a), Nov. 29, 1990, 104 Stat. 4972, §585; renumbered §565 and amended Pub. L. 102–354, §3(a)(2), (3), Aug. 26, 1992, 106 Stat. 944.)
 
-#### Repeal of Section
-
-<i>Section repealed effective six years after Nov. 29, 1990, see section 5 of Pub. L. 101–648, as amended, set out as an Effective Date of Repeal; Savings Provision note under section 561 of this title.</i>
-
 #### References in Text
 
 The Federal Advisory Committee Act, referred to in subsec. (a)(1), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to this title.
 
 #### Amendments
 
-<b>1992</b>—Pub. L. 102–354, §3(a)(2), renumbered section 585 of this title as this section.
+1992—Pub. L. 102–354, §3(a)(2), renumbered section 585 of this title as this section.
 
 Subsec. (a)(1). Pub. L. 102–354, §3(a)(3), substituted “section 564” for “section 584”.
 

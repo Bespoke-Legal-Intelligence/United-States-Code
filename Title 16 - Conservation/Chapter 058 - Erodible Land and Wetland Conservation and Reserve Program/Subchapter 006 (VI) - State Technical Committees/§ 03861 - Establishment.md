@@ -34,13 +34,25 @@ Each State technical committee established under subsection (a) of this section 
 
 &emsp;&emsp;(D) the State department of agriculture; and
 
-&emsp;&emsp;(E) the State association of soil and water conservation districts; and
+&emsp;&emsp;(E) the State association of soil and water conservation districts;
 
-&emsp;(8) other agency personnel with expertise in soil, water, wetland, and wildlife management as the Secretary determines appropriate.
+&emsp;(8) other agency personnel with expertise in soil, water, wetland, and wildlife management as the Secretary determines appropriate;
 
-(Pub. L. 99–198, title XII, §1261, as added Pub. L. 101–624, title XIV, §1446, Nov. 28, 1990, 104 Stat. 3604.)
+&emsp;(9) agricultural producers with demonstrable conservation expertise;
+
+&emsp;(10) nonprofit organizations with demonstrable conservation expertise;
+
+&emsp;(11) persons knowledgeable about conservation techniques; and
+
+&emsp;(12) agribusiness.
+
+(Pub. L. 99–198, title XII, §1261, as added Pub. L. 101–624, title XIV, §1446, Nov. 28, 1990, 104 Stat. 3604; amended Pub. L. 104–127, title III, §342(a), Apr. 4, 1996, 110 Stat. 1009.)
+
+#### Amendments
+
+1996—Subsec. (c)(9) to (12). Pub. L. 104–127 added pars. (9) to (12).
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 3862 of this title; title 7 sections 1441–2, 1444–2, 1444f, 1445b–3a.
+This section is referred to in sections 3836a, 3862 of this title.
 

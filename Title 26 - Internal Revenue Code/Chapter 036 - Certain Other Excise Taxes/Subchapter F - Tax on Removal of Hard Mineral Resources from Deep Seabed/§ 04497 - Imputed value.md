@@ -26,7 +26,7 @@ For purposes of this subchapter, the term “imputed value” means, with respec
 
 #### (2) Later computation of tax
 
-&emsp;If the permittee processes any metal or mineral affected by the election under paragraph (1), or if he sells any portion of the resource containing such a metal or mineral, then the amount of the tax under section 4495 shall be redetermined as if there had been no suspension under paragraph (1) with respect to such metal or mineral. In any such case there shall be added to the increase in tax determined under the preceding sentence an amount equal to the interest (at the underpayment rate established under section 6621) on such increase for the period from the date prescribed for paying the tax on the resources (determined under section 4495(d)) to the date of the processing or sale.
+&emsp;If the permittee processes any metal or mineral affected by the election under paragraph (1), or if he sells any portion of the resource containing such a metal or mineral, then the amount of the tax under section 4495 shall be redetermined as if there had been no suspension under paragraph (1) with respect to such metal or mineral. In any such case there shall be added to the increase in tax determined under the preceding sentence an amount equalto the interest (at the underpayment rate established under section 6621) on such increase for the period from the date prescribed for paying the tax on the resources (determined under section 4495(d)) to the date of the processing or sale.
 
 #### (d) Determinations of value
 

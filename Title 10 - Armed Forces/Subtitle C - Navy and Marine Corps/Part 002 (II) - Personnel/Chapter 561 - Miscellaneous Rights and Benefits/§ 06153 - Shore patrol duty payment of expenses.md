@@ -1,6 +1,6 @@
 ### §6153. Shore patrol duty: payment of expenses
 
-An officer, midshipman, or cadet of the naval service who is assigned to shore patrol dutyaway from his vessel or other duty station may be paid his actual services.
+An officer, midshipman, or cadet of the naval service who is assigned to shore patrol duty away from his vessel or other duty station may be paid his actual services.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 386.)
 

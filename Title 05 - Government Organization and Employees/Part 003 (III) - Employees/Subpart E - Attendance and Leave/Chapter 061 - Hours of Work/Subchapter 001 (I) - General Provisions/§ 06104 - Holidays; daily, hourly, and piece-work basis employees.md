@@ -18,7 +18,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 5 U.S.C. 86a.
 
@@ -38,9 +40,9 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-<b>1979</b>—Pub. L. 96–54 substituted “Mayor” for “Commissioner” in pars. (1) and (3), and “Council of the District of Columbia” for “District of Columbia Council” in par. (2).
+1979—Pub. L. 96–54 substituted “Mayor” for “Commissioner” in pars. (1) and (3), and “Council of the District of Columbia” for “District of Columbia Council” in par. (2).
 
-<b>1968</b>—Pub. L. 90–623 substituted “Commissioner” for “Board of Commissioners” in pars. (1) and (3), and “District of Columbia Council” for “Board of Commissioners” in par. (2).
+1968—Pub. L. 90–623 substituted “Commissioner” for “Board of Commissioners” in pars. (1) and (3), and “District of Columbia Council” for “Board of Commissioners” in par. (2).
 
 #### Effective Date of 1979 Amendment
 
@@ -54,7 +56,7 @@ Amendment by Pub. L. 90–623 intended to restate without substantive change the
 
 Ex. Ord. No. 10552, Aug. 10, 1954, 19 F.R. 5079, as amended by Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, provided:
 
-By virtue of the authority vested in me by section 301 of title 3 of the United States Code, 65 Stat. 713, it is declared that the Office of Personnel Management be, and it is hereby, designated and empowered to exercise, without the approval, ratification, or other action of the President, the authority vested in the President by the joint resolution of June 29, 1938, 52 Stat. 1246, as amended by the act of June 11, 1954, 68 Stat. 249 \[this section\], to promulgate regulations under which certain employees of the Government may be prevented or relieved from working by administrative order.
+By virtue of the authority vested in me by section 301 of title 3 of the United States Code, 65 Stat. 713, it isdeclared that the Office of Personnel Management be, and it is hereby, designated and empowered to exercise, without the approval, ratification, or other action of the President, the authority vested in the President by the joint resolution of June 29, 1938, 52 Stat. 1246, as amended by the act of June 11, 1954, 68 Stat. 249 \[this section\], to promulgate regulations under which certain employees of the Government may be prevented or relieved from working by administrative order.
 
 #### Section Referred to in Other Sections
 

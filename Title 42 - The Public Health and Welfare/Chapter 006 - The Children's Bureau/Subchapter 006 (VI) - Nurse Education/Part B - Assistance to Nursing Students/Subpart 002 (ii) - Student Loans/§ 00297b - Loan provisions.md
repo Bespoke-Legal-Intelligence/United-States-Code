@@ -50,7 +50,7 @@ Notwithstanding the amendment made by section 6(b) of the Nurse Training Act of 
 
 &emsp;(B) in the case of any person who obtained one or more loans from a loan fund established under this subpart and who on such date was engaged in a service for which cancellation of all or part of such loans (including accrued interest) was authorized under this section (as so in effect), this section (as so in effect) shall continue to apply to such person for purposes of providing such loan cancellation until he terminates such service.
 
-> Nothing in this subsection shall be construed to prevent any person from entering into an agreement for loan cancellation under subsection (h) <sup>2</sup> of this section (as amended by section 6(b)(2) of the Nurse Training Act of 1971).
+> Nothing in this subsection shall be construed to prevent any person from entering into an agreement for loan cancellation under subsection (h) <sup>2</sup>of this section (as amended by section 6(b)(2) of the Nurse Training Act of 1971).
 
 #### (i) Loan repayment
 

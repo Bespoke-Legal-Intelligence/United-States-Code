@@ -4,7 +4,7 @@ The Congress finds that—
 
 &emsp;(1) the space program can make significant contributions to selected areas of health-related research and should be an integral part of the Nation's health research and development program;
 
-&emsp;(2) the continuing development of trained scientists and engineers is essential to carrying out an effective and sustained program of biomedical research in space and on the ground;
+&emsp;(2) the continuing development of trained scientists and engineers is essential to carrying out an effective and sustained program ofbiomedical research in space and on the ground;
 
 &emsp;(3) the establishment and maintenance of an electronically accessible archive of data on space-related biomedical research is essential to advancement of the field;
 

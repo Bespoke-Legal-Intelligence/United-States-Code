@@ -62,7 +62,7 @@
 
 #### (5) Exceptions
 
-&emsp;Notwithstanding subparagraphs (A) and (D) of paragraph (1), the term “prohibited transaction” shall not include any disposition—
+&emsp;Notwithstanding subparagraphs (A) and (D) of paragraph (2), the term “prohibited transaction” shall not include any disposition—
 
 &emsp;&emsp;(A) required to prevent default on a regular interest where the threatened default resulted from a default on 1 or more qualified mortgages, or
 
@@ -98,7 +98,7 @@
 
 #### (2) Basis to REMIC
 
-&emsp;The basis of any property received by a REMIC in a transfer described in paragraph\(1)(A) shall be its fair market value immediately after such transfer.
+&emsp;The basis of any property received by a REMIC in a transfer described in paragraph (1)(A) shall be its fair market value immediately after such transfer.
 
 #### (c) Distributions of property
 
@@ -114,7 +114,7 @@ For purposes of section 1091—
 
 &emsp;(1) any residual interest in a REMIC shall be treated as a security, and
 
-&emsp;(2) in applying such section to any loss claimed to have been sustained on the sale or other disposition of a residual interest in a REMIC—
+&emsp;(2) in applying such section to any loss claimed to have been sustained on the sale orother disposition of a residual interest in a REMIC—
 
 &emsp;&emsp;(A) except as provided in regulations, any residual interest in any REMIC and any interest in a taxable mortgage pool (as defined in section 7701(i)) comparable to a residual interest in a REMIC shall be treated as substantially identical stock or securities, and
 
@@ -124,9 +124,11 @@ For purposes of section 1091—
 
 For purposes of subtitle F, a REMIC shall be treated as a partnership (and holders of residual interests in such REMIC shall be treated as partners). Any return required by reason of the preceding sentence shall include the amount of the daily accruals determined under section 860E(c). Such return shall be filed by the REMIC. The determination of who may sign such return shall be made without regard to the first sentence of this subsection.
 
-(Added Pub. L. 99–514, title VI, §671(a), Oct. 22, 1986, 100 Stat. 2313; amended Pub. L. 100–647, title I, §1006(t)(3), (4), (14), (18)(A), (22)(B)–(E), Nov. 10, 1988, 102 Stat. 3419, 3420, 3423, 3426.)
+(Added Pub. L. 99–514, title VI, §671(a), Oct. 22, 1986, 100 Stat. 2313; amended Pub. L. 100–647, title I, §1006(t)(3), (4), (14), (18)(A), (22)(B)–(E), Nov. 10, 1988, 102 Stat. 3419, 3420, 3423, 3426; Pub. L. 104–188, title I, §1704(t)(74), Aug. 20, 1996, 110 Stat. 1891.)
 
 #### Amendments
+
+1996—Subsec. (a)(5). Pub. L. 104–188 substituted “paragraph (2)” for “paragraph (1)” in introductory provisions.
 
 1988—Subsec. (a)(2)(A). Pub. L. 100–647, §1006(t)(3)(B)(i), struck out at end “Notwithstanding the preceding sentence, the term ‘prohibited transaction’ shall not include any disposition required to prevent default on a regular interest where the threatened default resulted from a default on 1 or more qualified mortgages.”
 
@@ -154,5 +156,5 @@ Amendment by section 1006(t)(3), (4), (14), (22)(B)–(E) of Pub. L. 100–647 e
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 860D of this title.
+This section is referred to in sections 860D, 860L of this title.
 

@@ -18,35 +18,45 @@
 
 (1)(A) There is established within the Office of the Director of Central Intelligence the National Intelligence Council (hereafter in this section referred to as the “Council”). The Council shall be composed of senior analysts within the intelligence community and substantive experts from the public and private sector, who shall be appointed by, report to, and serve at the pleasure of, the Director of Central Intelligence.
 
-(B) The Director shall prescribe appropriate security requirements for personnel appointed from the private sector as a condition of service on the Council to ensure the protection of intelligence sources and methods while avoiding, wherever possible, unduly intrusive requirements which the Director considers to be unnecessary for this purpose.
+(B) The Director shall prescribe appropriate security requirements for personnel appointed from the private sector as a condition of service on the Council, or as contractors of the Council or employees of such contractors, to ensure the protection of intelligence sources and methods while avoiding, wherever possible, unduly intrusive requirements which the Director considers to be unnecessary for this purpose.
 
 (2) The Council shall—
 
-&emsp;(A) produce national intelligence estimates for the Government, including, whenever the Council considers appropriate, alternative views held by elements of the intelligence community; and
+&emsp;(A) produce national intelligence estimates for the Government, including, whenever the Council considers appropriate, alternative views held by elements of the intelligence community;
 
-&emsp;(B) otherwise assist the Director in carrying out the responsibilities described in subsection (a) of this section.
+&emsp;(B) evaluate community-wide collection and production of intelligence by the intelligence community and the requirements and resources of such collection and production; and
+
+&emsp;(C) otherwise assist the Director in carrying out the responsibilities described in subsection (a) of this section.
 
 (3) Within their respective areas of expertise and under the direction of the Director, the members of the Council shall constitute the senior intelligence advisers of the intelligence community for purposes of representing the views of the intelligence community within the Government.
 
-(4) The Director shall make available to the Council such staff as may be necessary to permit the Council to carry out its responsibilities under this subsection and shall take appropriate measures to ensure that the Council and its staff satisfy the needs of policymaking officials and other consumers of intelligence.
+(4) Subject to the direction and control of the Director of Central Intelligence, the Council may carry out its responsibilities under this subsection by contract, including contracts for substantive experts necessary to assist the Council with particular assessments under this subsection.
 
-(5) The heads of elements within the intelligence community shall, as appropriate, furnish such support to the Council, including the preparation of intelligence analyses, as may be required by the Director.
+(5) The Director shall make available to the Council such staff as may be necessary to permit the Council to carry out its responsibilities under this subsection and shall take appropriate measures to ensure that the Council and its staff satisfy the needs of policymaking officials and other consumers of intelligence. The Council shall also be readily accessible to policymaking officials and other appropriate individuals not otherwise associated with the intelligence community.
+
+(6) The heads of elements within the intelligence community shall, as appropriate, furnish such support to the Council, including the preparation of intelligence analyses, as may be required by the Director.
 
 #### (c) Head of intelligence community
 
 In the Director's capacity as head of the intelligence community, the Director shall—
 
-&emsp;(1) develop and present to the President an annual budget for the National Foreign Intelligence Program of the United States;
+&emsp;(1) facilitate the development of an annual budget for intelligence and intelligence-related activities of the United States by—
+
+&emsp;&emsp;(A) developing and presenting to the President an annual budget for the National Foreign Intelligence Program; and
+
+&emsp;&emsp;(B) participating in the development by the Secretary of Defense of the annual budgets for the Joint Military Intelligence Program and the Tactical Intelligence and Related Activities Program;
 
 &emsp;(2) establish the requirements and priorities to govern the collection of national intelligence by elements of the intelligence community;
 
-&emsp;(3) promote and evaluate the utility of national intelligence to consumers within the Government;
+&emsp;(3) approve collection requirements, determine collection priorities, and resolve conflicts in collection priorities levied on national collection assets, except as otherwise agreed with the Secretary of Defense pursuant to the direction of the President;
 
-&emsp;(4) eliminate waste and unnecessary duplication within the intelligence community;
+&emsp;(4) promote and evaluate the utility of national intelligence to consumers within the Government;
 
-&emsp;(5) protect intelligence sources and methods from unauthorized disclosure; and
+&emsp;(5) eliminate waste and unnecessary duplication within the intelligence community;
 
-&emsp;(6) perform such other functions as the President or the National Security Council may direct.
+&emsp;(6) protect intelligence sources and methods from unauthorized disclosure; and
+
+&emsp;(7) perform such other functions as the President or the National Security Council may direct.
 
 #### (d) Head of Central Intelligence Agency
 
@@ -60,9 +70,9 @@ In the Director's capacity as head of the Central Intelligence Agency, the Direc
 
 &emsp;(4) perform such additional services as are of common concern to the elements of the intelligence community, which services the Director of Central Intelligence determines can be more efficiently accomplished centrally; and
 
-&emsp;(5) perform such other functions and duties related to intelligence affecting the nationalsecurity as the President or the National Security Council may direct.
+&emsp;(5) perform such other functions and duties related to intelligence affecting the national security as the President or the National Security Council may direct.
 
-(July 26, 1947, ch. 343, title I, §103, as added Oct. 24, 1992, Pub. L. 102–496, title VII, §705(a)(3), 106 Stat. 3190; amended Dec. 3, 1993, Pub. L. 103–178, title V, §502, 107 Stat. 2038.)
+(July 26, 1947, ch. 343, title I, §103, as added Oct. 24, 1992, Pub. L. 102–496, title VII, §705(a)(3), 106 Stat. 3190; amended Dec. 3, 1993, Pub. L. 103–178, title V, §502, 107 Stat. 2038; Oct. 11, 1996, Pub. L. 104–293, title VIII, §§806, 807(a), 110 Stat. 3479, 3480.)
 
 #### Prior Provisions
 
@@ -70,7 +80,29 @@ A prior section 103 of act July 26, 1947, was renumbered section 107 and is clas
 
 #### Amendments
 
+1996—Subsec. (b)(1)(B). Pub. L. 104–293, §806(1), inserted “, or as contractors of the Council or employees of such contractors,” after “on the Council”.
+
+Subsec. (b)(2). Pub. L. 104–293, §806(2), added subpar. (B) and redesignated former subpar. (B) as (C).
+
+Subsec. (b)(4). Pub. L. 104–293, §806(3), added par. (4). Former par. (4) redesignated (5).
+
+Subsec. (b)(5). Pub. L. 104–293, §806(3), (5), redesignated par. (4) as (5) and inserted at end “The Council shall also be readily accessible to policymaking officials and other appropriate individuals not otherwise associated with the intelligence community.” Former par. (5) redesignated (6).
+
+Subsec. (b)(6). Pub. L. 104–293, §806(3), redesignated par. (5) as (6).
+
+Subsec. (c)(1). Pub. L. 104–293, §807(a)(1), added par. (1) and struck out former par. (1) which read as follows: “develop and present to the President an annual budget for the National Foreign Intelligence Program of the United States;”.
+
+Subsec. (c)(3) to (7). Pub. L. 104–293, §807(a)(2), (3), added par. (3) and redesignated former pars. (3) to (6) as (4) to (7), respectively.
+
 1993—Subsec. (d)(3). Pub. L. 103–178 substituted “provide” for “providing”.
+
+#### Periodic Reports on Expenditures
+
+Section 807(c) of Pub. L. 104–293 provided that: “Not later than January 1, 1997, the Director of Central Intelligence and the Secretary of Defense shall prescribe guidelines to ensure prompt reporting to the Director and the Secretary on a periodic basis of budget execution data for all national, defense-wide, and tactical intelligence activities.”
+
+#### Database Program Tracking
+
+Section 807(d) of Pub. L. 104–293 provided that: “Not later than January 1, 1999, the Director of Central Intelligence and the Secretary of Defense shall develop and implement a database to provide timely and accurate information on the amounts, purposes, and status of the resources, including periodic budget execution updates, for all national, defense-wide, and tactical intelligence activities.”
 
 #### Identification of Constituent Components of Base Intelligence Budget
 
@@ -78,5 +110,5 @@ Pub. L. 103–359, title VI, §603, Oct. 14, 1994, 108 Stat. 3433, provided that
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 401a, 403–5, 403f, 403g, 411, 2011 of this title.
+This section is referred to in sections 401a, 403–1, 403–5, 403f, 403g, 404d–1, 411, 2011 of this title.
 

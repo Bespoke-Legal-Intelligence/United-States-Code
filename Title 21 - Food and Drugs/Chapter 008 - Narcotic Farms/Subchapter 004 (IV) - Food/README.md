@@ -14,7 +14,7 @@
 - [&sect; 00344 - Emergency permit control](%C2%A7%2000344%20-%20Emergency%20permit%20control.md)
 - [&sect; 00345 - Regulations making exemptions](%C2%A7%2000345%20-%20Regulations%20making%20exemptions.md)
 - [&sect; 00346 - Tolerances for poisonous or deleterious substances in food; regulations](%C2%A7%2000346%20-%20Tolerances%20for%20poisonous%20or%20deleterious%20substances%20in%20food%3B%20regulations.md)
-- [&sect; 00346a - Tolerances for pesticide chemicals in or on raw agricultural commodities](%C2%A7%2000346a%20-%20Tolerances%20for%20pesticide%20chemicals%20in%20or%20on%20raw%20agricultural%20commodities.md)
+- [&sect; 00346a - Tolerances and exemptions for pesticide chemical residues](%C2%A7%2000346a%20-%20Tolerances%20and%20exemptions%20for%20pesticide%20chemical%20residues.md)
 - [&sect; 00346b - Authorization of appropriations](%C2%A7%2000346b%20-%20Authorization%20of%20appropriations.md)
 - [&sect; 00347 - Intrastate sales of colored oleomargarine](%C2%A7%2000347%20-%20Intrastate%20sales%20of%20colored%20oleomargarine.md)
 - [&sect; 00347a - Congressional declaration of policy regarding oleomargarine sales](%C2%A7%2000347a%20-%20Congressional%20declaration%20of%20policy%20regarding%20oleomargarine%20sales.md)

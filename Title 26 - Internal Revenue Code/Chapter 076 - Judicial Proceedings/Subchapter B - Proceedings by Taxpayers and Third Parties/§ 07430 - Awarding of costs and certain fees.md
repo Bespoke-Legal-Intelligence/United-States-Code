@@ -12,23 +12,13 @@ In any administrative or court proceeding which is brought by or against the Uni
 
 #### (1) Requirement that administrative remedies be exhausted
 
-&emsp;A judgment for reasonable litigation costs shall not be awarded under subsection (a) in any court proceeding unless the court determines that the prevailing party has exhausted the administrative remedies available to such party within the Internal Revenue Service.
+&emsp;A judgment for reasonable litigation costs shall not be awarded under subsection (a) in any court proceeding unless the court determines that the prevailing party has exhausted the administrative remedies available to such party within the Internal Revenue Service. Any failure to agree to an extension of the time for the assessment of any tax shall not be taken into account for purposes of determining whether the prevailing party meets the requirements of the preceding sentence.
 
 #### (2) Only costs allocable to the United States
 
 &emsp;An award under subsection (a) shall be made only for reasonable litigation and administrative costs which are allocable to the United States and not to any other party.
 
-#### (3) Exclusion of declaratory judgment proceedings
-
-#### (A) In general
-
-&emsp;&emsp;No award for reasonable litigation costs may be made under subsection (a) with respect to any declaratory judgment proceeding.
-
-#### (B) Exception for section 501(c)(3) determination revocation proceedings
-
-&emsp;&emsp;Subparagraph (A) shall not apply to any proceeding which involves the revocation of a determination that the organization is described in section 501(c)(3).
-
-#### (4) Costs denied where party prevailing protracts proceedings
+#### (3) Costs denied where party prevailing protracts proceedings
 
 &emsp;No award for reasonable litigation and administrative costs may be made under subsection (a) with respect to any portion of the administrative or court proceeding during which the prevailing party has unreasonably protracted such proceeding.
 
@@ -48,7 +38,9 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) the reasonable cost of any study, analysis, engineering report, test, or project which is found by the court to be necessary for the preparation of the party's case, and
 
-&emsp;&emsp;&emsp;(iii) reasonable fees paid or incurred for the services of attorneys in connection with the court proceeding, except that such fees shall not be in excess of $75 per hour unless the court determines that an increase in the cost of living or a special factor, such as the limited availability of qualified attorneys for such proceeding, justifies a higher rate.
+&emsp;&emsp;&emsp;(iii) reasonable fees paid or incurred for the services of attorneys in connection with the court proceeding, except that such fees shall not be in excess of $110 per hour unless the court determines that a special factor, such as the limited availability of qualified attorneys for such proceeding, justifies a higher rate.
+
+> &emsp;In the case of any calendar year beginning after 1996, the dollar amount referred to in clause (iii) shall be increased by an amount equal to such dollar amount multiplied by the cost-of-living adjustment determined under section 1(f)(3) for such calendar year, by substituting “calendar year 1995” for “calendar year 1992” in subparagraph (B) thereof. If any dollar amount after being increased under the preceding sentence is not a multiple of $10, such dollar amount shall be rounded to the nearest multiple of $10.
 
 #### (2) Reasonable administrative costs
 
@@ -56,7 +48,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) any administrative fees or similar charges imposed by the Internal Revenue Service, and
 
-&emsp;&emsp;(B) expenses, costs, and fees described in paragraph (1)(B), except that any determination made by the court under clause (ii) or (iii) thereof shall be made by the Internal Revenue Service in cases where the determination under paragraph (4)(B) of the awarding of reasonable administrative costs is made by the Internal Revenue Service.
+&emsp;&emsp;(B) expenses, costs, and fees described in paragraph (1)(B), except that any determination made by the court under clause (ii) or (iii) thereof shall be made by the Internal Revenue Service in cases where the determination under paragraph (4)(C) of the awarding of reasonable administrative costs is made by the Internal Revenue Service.
 
 > &emsp;Such term shall only include costs incurred on or after the earlier of (i) the date of the receipt by the taxpayer of the notice of the decision of the Internal Revenue Service Office of Appeals, or (ii) the date of the notice of deficiency.
 
@@ -70,19 +62,35 @@ For purposes of this section—
 
 &emsp;&emsp;The term “prevailing party” means any party in any proceeding to which subsection (a) applies (other than the United States or any creditor of the taxpayer involved)—
 
-&emsp;&emsp;&emsp;(i) which establishes that the position of the United States in the proceeding was not substantially justified,
-
-&emsp;&emsp;&emsp;(ii) which—
+&emsp;&emsp;&emsp;(i) which—
 
 &emsp;&emsp;&emsp;&emsp;(I) has substantially prevailed with respect to the amount in controversy, or
 
 &emsp;&emsp;&emsp;&emsp;(II) has substantially prevailed with respect to the most significant issue or set of issues presented, and
 
-&emsp;&emsp;&emsp;(iii) which meets the requirements of the 1st sentence of section 2412(d)(1)(B) of title 28, United States Code (as in effect on October 22, 1986) except to the extent differing procedures are established by rule of court and meets the requirements of section 2412(d)(2)(B) of such title 28 (as so in effect).
+&emsp;&emsp;&emsp;(ii) which meets the requirements of the 1st sentence of section 2412(d)(1)(B) of title 28, United States Code (as in effect on October 22, 1986) except to the extent differing procedures are established by rule of court and meets the requirements of section 2412(d)(2)(B) of such title 28 (as so in effect).
 
-#### (B) Determination as to prevailing party
+#### (B) Exception if United States establishes that its position was substantially justified
 
-&emsp;&emsp;Any determination under subparagraph (A) as to whether a party is a prevailing party shall be made by agreement of the parties or—
+#### (i) General rule
+
+&emsp;&emsp;&emsp;A party shall not be treated as the prevailing party in a proceeding to which subsection (a) applies if the United States establishes that the position of the United States in the proceeding was substantially justified.
+
+#### (ii) Presumption of no justification if Internal Revenue Service did not follow certain published guidance
+
+&emsp;&emsp;&emsp;For purposes of clause (i), the position of the United States shall be presumed not to be substantially justified if the Internal Revenue Service did not follow its applicable published guidance in the administrative proceeding. Such presumption may be rebutted.
+
+#### (iii) Applicable published guidance
+
+&emsp;&emsp;&emsp;For purposes of clause (ii), the term “applicable published guidance” means—
+
+&emsp;&emsp;&emsp;&emsp;(I) regulations, revenue rulings, revenue procedures, information releases, notices, and announcements, and
+
+&emsp;&emsp;&emsp;&emsp;(II) any of the following which are issued to the taxpayer: private letter rulings, technical advice memoranda, and determination letters.
+
+#### (C) Determination as to prevailing party
+
+&emsp;&emsp;Any determination under this paragraph as to whether a party is a prevailing party shall be made by agreement of the parties or—
 
 &emsp;&emsp;&emsp;(i) in the case where the final determination with respect to the tax, interest, or penalty is made at the administrative level, by the Internal Revenue Service, or
 
@@ -138,13 +146,49 @@ For purposes of this section, in the case of—
 
 &emsp;A decision granting or denying (in whole or in part) an award for reasonable administrative costs under subsection (a) by the Internal Revenue Service shall be subject to appeal to the Tax Court under rules similar to the rules under section 7463 (without regard to the amount in dispute).
 
-(Added Pub. L. 97–248, title II, §292(a), Sept. 3, 1982, 96 Stat. 572; amended Pub. L. 98–369, div. A, title VII, §714(c), July 18, 1984, 98 Stat. 961; Pub. L. 99–514, title XV, §1551(a)–(g), Oct. 22, 1986, 100 Stat. 2752, 2753; Pub. L. 100–647, title I, §1015(i), title VI, §6239(a), Nov. 10, 1988, 102 Stat. 3571, 3743; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516.)
+(Added Pub. L. 97–248, title II, §292(a), Sept. 3, 1982, 96 Stat. 572; amended Pub. L. 98–369, div. A, title VII, §714(c), July 18, 1984, 98 Stat. 961; Pub. L. 99–514, title XV, §1551(a)–(g), Oct. 22, 1986, 100 Stat. 2752, 2753; Pub. L. 100–647, title I, §1015(i), title VI, §6239(a), Nov. 10, 1988, 102 Stat. 3571, 3743; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 104–168, title VII, §§701(a)–(c)(2), 702(a), 703(a), 704(a), July 30, 1996, 110 Stat. 1463, 1464.)
+
+#### Adjustment of Hourly Limit on Attorney Fees Awarded for Tax Years Beginning in 1997
+
+<i>For adjustment of the hourly limit on attorney fees awarded under this section for tax years beginning in 1997, see section 3.16 of Revenue Procedure 96–59, set out as a note under section 1 of this title.</i>
 
 #### Prior Provisions
 
-A prior section 7430 was renumbered section 7434 of this title.
+A prior section 7430 was renumbered section 7436 of this title.
 
 #### Amendments
+
+1996—Subsec. (b)(1). Pub. L. 104–168, §703(a), inserted at end “Any failure to agree to an extension of the time for the assessment of any tax shall not be taken into account for purposes of determining whether the prevailing party meets the requirements of the preceding sentence.”
+
+Subsec. (b)(3), (4). Pub. L. 104–168, §704(a), redesignated par. (4) as (3) and struck out former par. (3) which read as follows:
+
+“(3)
+
+Exclusion of declaratory judgment proceedings.—
+
+&emsp;“(A)
+
+In general.—No award for reasonable litigation costs may be made under subsection (a) with respect to any declaratory judgment proceeding.
+
+&emsp;“(B)
+
+Exception for section 501(c
+
+)(3) determination revocation proceedings.—Subparagraph (A) shall not apply to any proceeding which involves the revocation of a determination that the organization is described in section 501(c)(3).”
+
+Subsec. (c)(1). Pub. L. 104–168, §702(a)(3), inserted closing provisions “In the case of any calendar year beginning after 1996, the dollar amount referred to in clause (iii) shall be increased by an amount equal to such dollar amount multiplied by the cost-of-living adjustment determined under section 1(f)(3) for such calendar year, by substituting ‘calendar year 1995’ for ‘calendar year 1992’ in subparagraph (B) thereof. If any dollar amount after being increased under the preceding sentence is not a multiple of $10, such dollar amount shall be rounded to the nearest multiple of $10.”
+
+Subsec. (c)(1)(B)(iii). Pub. L. 104–168, §702(a)(1), (2), substituted “$110” for “$75” and struck out “an increase in the cost of living or” before “a special factor,”.
+
+Subsec. (c)(2)(B). Pub. L. 104–168, §701(c)(1), substituted “paragraph (4)(C)” for “paragraph (4)(B)”.
+
+Subsec. (c)(4)(A). Pub. L. 104–168, §701(a), redesignated cls. (ii) and (iii) as (i) and (ii), respectively, and struck out former cl. (i) which read as follows: “which establishes that the position of the United States in the proceeding was not substantially justified,”.
+
+Subsec. (c)(4)(B). Pub. L. 104–168, §701(b), added subpar. (B). Former subpar. (B) redesignated (C).
+
+Subsec. (c)(4)(C). Pub. L. 104–168, §701(c)(2), substituted “Any determination under this paragraph” for “Any determination under subparagraph (A)”.
+
+Pub. L. 104–168, §701(b), redesignated subpar. (B) as (C).
 
 1992—Subsec. (c)(6). Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
 
@@ -162,7 +206,7 @@ Subsec. (c)(1)(A). Pub. L. 99–514, §1551(c), amended subpar. (A) generally. P
 
 &emsp;“(ii) the reasonable expenses of expert witnesses in connection with the civil proceeding,
 
-&emsp;“(iii) the reasonable cost of any study, analysis, engineering report, test, or project which is found by the court to be necessary for the preparation of the party's case, and
+&emsp;“(iii) the reasonable cost of any study, analysis, engineering report, test, or project which is found bythe court to be necessary for the preparation of the party's case, and
 
 &emsp;“(iv) reasonable fees paid or incurred for the services of attorneys in connection with the civil proceeding.”
 
@@ -173,6 +217,16 @@ Subsec. (c)(4). Pub. L. 99–514, §1551(e), added par. (4).
 Subsec. (f). Pub. L. 99–514, §1551(g), struck out subsec. (f), termination, which read as follows: “This section shall not apply to any proceeding commenced after December 31, 1985.”
 
 1984—Subsec. (a)(2). Pub. L. 98–369 inserted reference to United States Claims Court.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by section 701(a)–(c)(2) of Pub. L. 104–168 applicable in case of proceedings commenced after July 30, 1996, see section 701(d) of Pub. L. 104–168, set out as a note under section 6404 of this title.
+
+Section 702(b) of Pub. L. 104–168 provided that: “The amendment made by this section \[amending this section\] shall apply in the case of proceedings commenced after the date of the enactment of this Act \[July 30, 1996\].”
+
+Section 703(b) of Pub. L. 104–168 provided that: “The amendment made by this section \[amending this section\] shall apply in the case of proceedings commenced after the date of the enactment of this Act \[July 30, 1996\].”
+
+Section 704(b) of Pub. L. 104–168 provided that: “The amendment made by this section \[amending this section\] shall apply in the case of proceedings commenced after the date of the enactment of this Act \[July 30, 1996\].”
 
 #### Effective Date of 1992 Amendment
 
@@ -194,7 +248,7 @@ General rule.—Except as provided in paragraph (2), the amendments made by this
 
 “(2)
 
-Subsection (f).—The amendment made by subsection (f) \[amending this section\] shall take effect as if included in the amendments made by section 292 ofthe Tax Equity and Fiscal Responsibility Act of 1982 \[see Effective Date note below\].
+Subsection (f).—The amendment made by subsection (f) \[amending this section\] shall take effect as if included in the amendments made by section 292 of the Tax Equity and Fiscal Responsibility Act of 1982 \[see Effective Date note below\].
 
 “(3)
 
@@ -222,5 +276,5 @@ Penalty.—The amendments made by subsections (b) and (d)(2) \[amending section 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 6512, 7611 of this title; title 5 section 504; title 28 section 2412.
+This section is referred to in sections 6404, 6512, 6656, 7611 of this title; title 5 section 504; title 28 section 2412.
 

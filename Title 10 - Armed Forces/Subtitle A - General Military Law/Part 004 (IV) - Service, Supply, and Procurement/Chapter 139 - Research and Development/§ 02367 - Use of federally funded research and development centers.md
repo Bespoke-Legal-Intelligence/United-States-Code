@@ -22,9 +22,9 @@ Limitation on Creation of New Centers.—(1) The head of an agency may not oblig
 
 Identification to Congress of FFRDC Workload Effort.—(1) In the documents provided to Congress by the Secretary of Defense in support of the budget submitted by the President under section 1105 of title 31 for any fiscal year, the Secretary shall set forth the proposed amount of the man-years of effort to be funded by the Department of Defense for each federally funded research and development center for the fiscal year covered by that budget.
 
-(2) After the close of a fiscal year, and not later than January 1 of the next year, the Secretary shall submit to the Committees on Armed Services and the Committees on Appropriations of the Senate and House of Representatives a report setting forth the actual obligations and the actual man-years of effort expended at each federally funded research and development center during that fiscal year.
+(2) After the close of a fiscal year, and not later than January 1 of the next year, the Secretary shall submit to the Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on National Security and the Committee on Appropriations of the House of Representatives a report setting forth the actual obligations and the actual man-years of effort expended at each federally funded research and development center during that fiscal year.
 
-(Added Pub. L. 99–500, §101(c) \[title X, §912(a)(1)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–146, and Pub. L. 99–591, §101(c) \[title X, §912(a)(1)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–146; Pub. L. 99–661, div. A, title IX, formerly title IV, §912(a)(1), Nov. 14, 1986, 100 Stat. 3925, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; amended Pub. L. 102–190, div. A, title II, §256(a)(1), Dec. 5, 1991, 105 Stat. 1330.)
+(Added Pub. L. 99–500, §101(c) \[title X, §912(a)(1)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–146, and Pub. L. 99–591, §101(c) \[title X, §912(a)(1)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–146; Pub. L. 99–661, div. A, title IX, formerly title IV, §912(a)(1), Nov. 14, 1986, 100 Stat. 3925, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; amended Pub. L. 102–190, div. A, title II, §256(a)(1), Dec. 5, 1991, 105 Stat. 1330; Pub. L. 104–106, div. A, title XV, §1502(a)(9), Feb. 10, 1996, 110 Stat. 503.)
 
 #### Codification
 
@@ -34,11 +34,9 @@ Pub. L. 99–500, Pub. L. 99–591, and Pub. L. 99–661 added identical section
 
 #### Amendments
 
+1996—Subsec. (d)(2). Pub. L. 104–106 substituted “the Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on National Security and the Committee on Appropriations of the” for “the Committees on Armed Services and the Committees on Appropriations of the Senate and”.
+
 1991—Subsec. (d). Pub. L. 102–190 added subsec. (d).
-
-#### Change of Name
-
-Committee on Armed Services of House of Representatives treated as referring to Committee on National Security of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Effective Date of 1991 Amendment
 

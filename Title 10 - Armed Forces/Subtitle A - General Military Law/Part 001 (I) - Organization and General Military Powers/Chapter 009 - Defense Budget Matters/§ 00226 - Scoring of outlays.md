@@ -6,7 +6,7 @@ Annual OMB/CBO Report.—Not later than December 15 of each year, the Director o
 
 &emsp;(1) the technical assumptions to be used by the Office of Management and Budget in preparing estimates with respect to all accounts in major functional category 050 (National Defense) for the budget to be submitted to Congress in the following year pursuant to section 1105 of title 31; and
 
-&emsp;(2) the technical assumptions to be used by the Congressional Budget Office in preparingestimates with respect to those accounts for that budget.
+&emsp;(2) the technical assumptions to be used by the Congressional Budget Office in preparing estimates with respect to those accounts for that budget.
 
 (b)
 

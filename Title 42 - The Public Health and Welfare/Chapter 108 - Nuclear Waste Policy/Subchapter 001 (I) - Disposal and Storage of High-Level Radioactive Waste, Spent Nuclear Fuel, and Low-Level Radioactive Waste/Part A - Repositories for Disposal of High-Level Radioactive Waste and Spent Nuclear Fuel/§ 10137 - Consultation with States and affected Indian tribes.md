@@ -20,7 +20,7 @@ Not later than 60 days after (1) the approval of a site for site characterizatio
 
 &emsp;(3) by which the Secretary and such State or governing body of an affected Indian tribe may review or modify the agreement periodically;
 
-&emsp;(4) by which such State or governing body of an affected Indian tribe is to submit an impact report and request for impact assistance under section 10136(c) of this title or section 10138(b) of this title, as the case may be;
+&emsp;(4) by which such State or governing body of an affected Indian tribe is to submit an impactreport and request for impact assistance under section 10136(c) of this title or section 10138(b) of this title, as the case may be;
 
 &emsp;(5) by which the Secretary shall assist such State, and the units of general local government in the vicinity of the repository site, in resolving the offsite concerns of such State and units of general local government, including, but not limited to, questions of State liability arising from accidents, necessary road upgrading and access to the site, ongoing emergency preparedness and emergency response, monitoring of transportation of high-level radioactive waste and spent nuclear fuel through such State, conduct of baseline health studies of inhabitants in neighboring communities near the repository site and reasonable periodic monitoring thereafter, and monitoring of the repository site upon any decommissioning and decontamination;
 
@@ -30,7 +30,7 @@ Not later than 60 days after (1) the approval of a site for site characterizatio
 
 &emsp;(8) by which such State may conduct reasonable independent monitoring and testing of activities on the repository site, except that such monitoring and testing shall not unreasonably interfere with or delay onsite activities;
 
-&emsp;(9) for sharing, in accordance with applicable law, of all technical and licensing information,the utilization of available expertise, the facilitating of permit procedures, joint project review, and the formulation of joint surveillance and monitoring arrangements to carry out applicable Federal and State laws;
+&emsp;(9) for sharing, in accordance with applicable law, of all technical and licensing information, the utilization of available expertise, the facilitating of permit procedures, joint project review, and the formulation of joint surveillance and monitoring arrangements to carry out applicable Federal and State laws;
 
 &emsp;(10) for public notification of the procedures specified under the preceding paragraphs; and
 

@@ -8,7 +8,7 @@ The Secretary shall establish a program to encourage fishermen and other vessel 
 
 (1) Upon notification by the operator of a pipeline of a hazard to navigation with respect to that pipeline, the Secretary shall immediately notify Coast Guard headquarters, the Office of Pipeline Safety, other affected Federal and State agencies, and vessel owners and operators in the pipeline's vicinity.
 
-(2) Upon notification by any other person of a hazard or potential hazard to navigation with respect to a pipeline, the Secretary shall promptly determine whether a hazard exists, and if so shall immediately notify Coast Guard headquarters, the Office of Pipeline Safety, other affected Federal and State agencies, vesselowners and operators in the pipeline's vicinity, and the owner and operator of the pipeline.
+(2) Upon notification by any other person of a hazard or potential hazard to navigation with respect to a pipeline, the Secretary shall promptly determine whether a hazard exists, and if so shall immediately notify Coast Guard headquarters, the Office of Pipeline Safety, other affected Federal and State agencies, vessel owners and operators in the pipeline's vicinity, and the owner and operator of the pipeline.
 
 #### (c) Establishment of standards
 

@@ -18,7 +18,7 @@ For the purpose of this subchapter the term—
 
 #### Amendments
 
-<b>1993</b>—Par. (6). Pub. L. 103–103 inserted before period at end “(disregarding any advanced leave)”.
+1993—Par. (6). Pub. L. 103–103 inserted before period at end “(disregarding any advanced leave)”.
 
 #### Effective Date of 1993 Amendment
 

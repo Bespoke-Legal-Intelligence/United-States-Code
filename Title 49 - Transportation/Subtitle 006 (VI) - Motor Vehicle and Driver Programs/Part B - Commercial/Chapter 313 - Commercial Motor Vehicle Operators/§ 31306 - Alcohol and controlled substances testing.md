@@ -6,7 +6,7 @@ Definition.—In this section, “controlled substance” means any substance un
 
 (b)
 
-Testing Program for Operators of Commercial Motor Vehicles.—(1)(A) In the interest of commercial motor vehicle safety, the Secretary of Transportation shall prescribe regulations that establish a program requiring motor carriers to conduct preemployment, reasonable suspicion, random, and post-accident testing ofoperators of commercial motor vehicles for the use of a controlled substance in violation of law or a United States Government regulation and to conduct reasonable suspicion, random, and post-accident testing of such operators for the use of alcohol in violation of law or a United States Government regulation. The regulations shall permit such motor carriers to conduct preemployment testing of such employees for the use of alcohol.
+Testing Program for Operators of Commercial Motor Vehicles.—(1)(A) In the interest of commercial motor vehicle safety, the Secretary of Transportation shall prescribe regulations that establish a program requiring motor carriers to conduct preemployment, reasonable suspicion, random, and post-accident testing of operators of commercial motor vehicles for the use of a controlled substance in violation of law or a United States Government regulation and to conduct reasonable suspicion, random, and post-accident testing of such operators for the use of alcohol in violation of law or a United States Government regulation. The regulations shall permit such motor carriers to conduct preemployment testing of such employees for the use of alcohol.
 
 (B) When the Secretary of Transportation considers it appropriate in the interest of safety, the Secretary may prescribe regulations for conducting periodic recurring testing of operators of commercial motor vehicles for the use of alcohol or a controlled substance in violation of law or a Government regulation.
 
@@ -32,7 +32,7 @@ Testing and Laboratory Requirements.—In carrying out subsection (b) of this se
 
 &emsp;(3) require that a laboratory involved in testing under this section have the capability and facility, at the laboratory, of performing screening and confirmation tests;
 
-&emsp;(4) provide that any test indicating the use of alcohol or a controlled substance in violation of law or a Government regulation be confirmed by a scientifically recognized method of testing capable of providing quantitative information about alcohol or a controlled substance;
+&emsp;(4) provide that any test indicating the use of alcohol or a controlled substance in violation of law or a Government regulation be confirmed by a scientifically recognized method of testing capable of providing quantitativeinformation about alcohol or a controlled substance;
 
 &emsp;(5) provide that each specimen be subdivided, secured, and labeled in the presence of the tested individual and that a part of the specimen be retained in a secure manner to prevent the possibility of tampering, so that if the individual's confirmation test results are positive the individual has an opportunity to have the retained part tested by a 2d confirmation test done independently at another certified laboratory if the individual requests the 2d confirmation test not later than 3 days after being advised of the results of the first confirmation test;
 
@@ -56,7 +56,7 @@ Sanctions.—The Secretary of Transportation shall decide on appropriate sanctio
 
 (g)
 
-Effect on State and Local Government Regulations.—A State or local government may not prescribe or continue in effect a law, regulation, standard, or order that is inconsistent with regulations prescribed under this section. However, a regulation prescribed under this section may not be construed to preempt a State criminal law that imposes sanctions forreckless conduct leading to loss of life, injury, or damage to property.
+Effect on State and Local Government Regulations.—A State or local government may not prescribe or continue in effect a law, regulation, standard, or order that is inconsistent with regulations prescribed under this section. However, a regulation prescribed under this section may not be construed to preempt a State criminal law that imposes sanctions for reckless conduct leading to loss of life, injury, or damage to property.
 
 (h)
 
@@ -78,7 +78,9 @@ Application of Penalties.—This section does not supersede a penalty applicable
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

@@ -14,7 +14,7 @@ If the Administrator proposes to release for inspection information which the ap
 
 #### (d) Limitations
 
-(1) All information concerning the objectives, methodology, results, or significance of any test or experiment performed on or with a registered or previously registered pesticide or its separate ingredients, impurities, or degradation products, and any information concerning the effects of such pesticide on any organism or the behavior of such pesticide in the environment, including, but not limited to, data on safety to fish and wildlife, humans and other mammals, plants, animals, and soil, and studies on persistence, translocation and fate in the environment, and metabolism, shall be available for disclosure to the public. The use of such data for any registration purpose shall be governed by section 136a of this title. This paragraph does not authorize the disclosure of any information that—
+(1) All information concerning the objectives, methodology, results, or significance of any test or experiment performed on or with a registered or previously registered pesticide or its separate ingredients, impurities, or degradation products, and any information concerning the effects of such pesticide on any organism or the behavior of such pesticide in the environment, including, but not limited to, data on safety to fish andwildlife, humans and other mammals, plants, animals, and soil, and studies on persistence, translocation and fate in the environment, and metabolism, shall be available for disclosure to the public. The use of such data for any registration purpose shall be governed by section 136a of this title. This paragraph does not authorize the disclosure of any information that—
 
 &emsp;(A) discloses manufacturing or quality control processes,
 
@@ -86,5 +86,5 @@ For effective date of section, see section 4 of Pub. L. 92–516, set out as a n
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 136a, 136e of this title.
+This section is referred to in sections 136a, 136e of this title; title 21 section 346a.
 

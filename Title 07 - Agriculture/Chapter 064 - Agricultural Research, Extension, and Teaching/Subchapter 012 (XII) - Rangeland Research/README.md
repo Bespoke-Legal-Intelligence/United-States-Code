@@ -12,6 +12,5 @@ This subchapter is referred to in section 3103 of this title.
 - [&sect; 03331 - Congressional statement of purpose](%C2%A7%2003331%20-%20Congressional%20statement%20of%20purpose.md)
 - [&sect; 03332 - Program; development, purposes, scope, etc](%C2%A7%2003332%20-%20Program%3B%20development%2C%20purposes%2C%20scope%2C%20etc.md)
 - [&sect; 03333 - Grants; eligible institutions; amounts](%C2%A7%2003333%20-%20Grants%3B%20eligible%20institutions%3B%20amounts.md)
-- [&sect; 03334 - Reporting requirements](%C2%A7%2003334%20-%20Reporting%20requirements.md)
-- [&sect; 03335 - Rangeland Research Advisory Board; establishment, duration, etc](%C2%A7%2003335%20-%20Rangeland%20Research%20Advisory%20Board%3B%20establishment%2C%20duration%2C%20etc.md)
+- [&sect; 03334, 3335 - Repealed. Pub. L. 104&#8211;127, title VIII, &sect;857, Apr. 4, 1996, 110 Stat. 1173](%C2%A7%2003334%2C%203335%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93127%2C%20title%20VIII%2C%20%C2%A7857%2C%20Apr.%204%2C%201996%2C%20110%20Stat.%201173.md)
 - [&sect; 03336 - Authorization of appropriations; allocation of funds](%C2%A7%2003336%20-%20Authorization%20of%20appropriations%3B%20allocation%20of%20funds.md)

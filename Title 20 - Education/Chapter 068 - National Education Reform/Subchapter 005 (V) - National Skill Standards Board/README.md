@@ -2,7 +2,7 @@
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in sections 5802, 5842, 5843, 6102, 6103, 6125, 6143 of this title.
+This subchapter is referred to in sections 5802, 6102, 6103, 6125, 6143 of this title.
 
 
 ---

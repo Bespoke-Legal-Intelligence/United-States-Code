@@ -28,7 +28,7 @@ Grants under this part shall be used to carry out activities and services descri
 
 &emsp;&emsp;(D) improve student-staff interactions;
 
-&emsp;(10) the study of the relationship between drugs and school dropouts and between youth gangs and school dropouts, and the coordination of dropout prevention and reentry programs with appropriate drug prevention and community organizations for the prevention of youth gangs;
+&emsp;(10) the study of the relationship between drugs and school dropouts and between youth gangs and school dropouts, and the coordination of dropout prevention and reentry programs with appropriate drug prevention andcommunity organizations for the prevention of youth gangs;
 
 &emsp;(11) the study of the relationship between disabling conditions and student dropouts;
 

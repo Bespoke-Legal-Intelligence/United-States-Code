@@ -10,13 +10,13 @@ For the purpose of sections 5532 and 5533 of this title—
 
 &emsp;(4) “agency in the legislative branch” means the General Accounting Office, the Government Printing Office, the Library of Congress, the Office of Technology Assessment, the Office of the Architect of the Capitol, the United States Botanic Garden, and the Congressional Budget Office;
 
-&emsp;(5) “employee of the House of Representatives” means a congressional employee whosepay is disbursed by the Clerk of the House of Representatives;
+&emsp;(5) “employee of the House of Representatives” means a congressional employee whose pay is disbursed by the Chief Administrative Officer of the House of Representatives;
 
 &emsp;(6) “employee of the Senate” means a congressional employee whose pay is disbursed by the Secretary of the Senate; and
 
 &emsp;(7) “congressional employee” has the meaning given that term by section 2107 of this title, excluding an employee of an agency in the legislative branch.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 482; Pub. L. 95–454, title III, §308(b), Oct. 13, 1978, 92 Stat. 1150; Pub. L. 102–190, div. A, title VI, §655(a)(2), Dec. 5, 1991, 105 Stat. 1391.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 482; Pub. L. 95–454, title III, §308(b), Oct. 13, 1978, 92 Stat. 1150; Pub. L. 102–190, div. A, title VI, §655(a)(2), Dec. 5, 1991, 105 Stat. 1391; Pub. L. 104–186, title II, §215(6), Aug. 20, 1996, 110 Stat. 1745.)
 
 Historical and Revision Notes
 
@@ -24,11 +24,13 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 5 U.S.C. 3101 (as applicable to 5 U.S.C. 3102(a)–(e) and 3105 (less (e))).
 
-Aug. 19, 1964, Pub. L. 88–448, §101 (as applicable to §§201 (a)–(e) and 301 (less (e))), 78 Stat. 484.
+Aug. 19, 1964, Pub. L. 88–448, §101 (as applicable to §§201(a)–(e) and 301 (less (e))), 78 Stat. 484.
 
 In paragraph (2), the defined word “position” is substituted for “civilian office.” The words “Government corporation” are substituted for “corporation owned or controlled by such Government” in view of the definition in section 103.
 
@@ -38,17 +40,15 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-<b>1991</b>—Pars. (4) to (7). Pub. L. 102–190 added pars. (4) to (7).
+1996—Par. (5). Pub. L. 104–186 substituted “Chief Administrative Officer” for “Clerk”.
 
-<b>1978</b>—Pub. L. 95–454 substituted “ ‘member’ ” for “ ‘officer’ ” in par. (1) and added par. (3).
+1991—Pars. (4) to (7). Pub. L. 102–190 added pars. (4) to (7).
+
+1978—Pub. L. 95–454 substituted “ ‘member’ ” for “ ‘officer’ ” in par. (1) and added par. (3).
 
 #### Effective Date of 1978 Amendment
 
 Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as a note under section 1101 of this title.
-
-#### Transfer of Functions
-
-Certain functions of Clerk of House of Representatives transferred to Director of Non-legislative and Financial Services by section 7 of House Resolution No. 423, One Hundred Second Congress, Apr. 9, 1992. Director of Non-legislative and Financial Services replaced by Chief Administrative Officer of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
 
 #### Cross References
 

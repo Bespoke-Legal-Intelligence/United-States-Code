@@ -1,0 +1,166 @@
+### §14072. FBI database
+
+#### (a) Definitions
+
+For purposes of this section—
+
+&emsp;(1) the term “FBI” means the Federal Bureau of Investigation;
+
+&emsp;(2) the terms “criminal offense against a victim who is a minor”, “sexually violent offense”, “sexually violent predator”, “mental abnormality”, and “predatory” have the same meanings as in section 14071(a)(3) of this title; and
+
+&emsp;(3) the term “minimally sufficient sexual offender registration program” means any State sexual offender registration program that—
+
+&emsp;&emsp;(A) requires the registration of each offender who is convicted of an offense described in subparagraph (A) or (B) of section 14071(a)(1) of this title;
+
+&emsp;&emsp;(B) requires that all information gathered under such program be transmitted to the FBI in accordance with subsection (g) of this section;
+
+&emsp;&emsp;(C) meets the requirements for verification under section 14071(b)(3) of this title; and
+
+&emsp;&emsp;(D) requires that each person who is required to register under subparagraph (A) shall do so for a period of not less than 10 years beginning on the date that such person was released from prison or placed on parole, supervised release, or probation.
+
+#### (b) Establishment
+
+The Attorney General shall establish a national database at the Federal Bureau of Investigation to track the whereabouts and movement of—
+
+&emsp;(1) each person who has been convicted of a criminal offense against a victim who is a minor;
+
+&emsp;(2) each person who has been convicted of a sexually violent offense; and
+
+&emsp;(3) each person who is a sexually violent predator.
+
+#### (c) Registration requirement
+
+Each person described in subsection (b) of this section who resides in a State that has not established a minimally sufficient sexual offender registration program shall register a current address, fingerprints of that person, and a current photograph of that person with the FBI for inclusion in the database established under subsection (b) of this section for the time period specified under subsection (d) of this section.
+
+#### (d) Length of registration
+
+A person described in subsection (b) of this section who is required to register under subsection (c) of this section shall, except during ensuing periods of incarceration, continue to comply with this section—
+
+&emsp;(1) until 10 years after the date on which the person was released from prison or placed on parole, supervised release, or probation; or
+
+&emsp;(2) for the life of the person, if that person—
+
+&emsp;&emsp;(A) has 2 or more convictions for an offense described in subsection (b) of this section;
+
+&emsp;&emsp;(B) has been convicted of aggravated sexual abuse, as defined in section 2241 of title 18 or in a comparable provision of State law; or
+
+&emsp;&emsp;(C) has been determined to be a sexually violent predator.
+
+#### (e) Verification
+
+#### (1) Persons convicted of an offense against a minor or a sexually violent offense
+
+&emsp;In the case of a person required to register under subsection (c) of this section, the FBI shall, during the period in which the person is required to register under subsection (d) of this section, verify the person's address in accordance with guidelines that shall be promulgated by the Attorney General. Such guidelines shall ensure that address verification is accomplished with respect to these individuals and shall require the submission of fingerprints and photographs of the individual.
+
+#### (2) Sexually violent predators
+
+&emsp;Paragraph (1) shall apply to a person described in subsection (b)(3) of this section, except that such person must verify the registration once every 90 days after the date of the initial release or commencement of parole of that person.
+
+#### (f) Community notification
+
+#### (1) In general
+
+&emsp;Subject to paragraph (2), the FBI may release relevant information concerning a person required to register under subsection (c) of this section that is necessary to protect the public.
+
+#### (2) Identity of victim
+
+&emsp;In no case shall the FBI release the identity of any victim of an offense that requires registration by the offender with the FBI.
+
+#### (g) Notification of FBI of changes in residence
+
+#### (1) Establishment of new residence
+
+&emsp;For purposes of this section, a person shall be deemed to have established a new residence during any period in which that person resides for not less than 10 days.
+
+#### (2) Persons required to register with the FBI
+
+&emsp;Each establishment of a new residence, including the initial establishment of a residence immediately following release from prison, or placement on parole, supervised release, or probation, by a person required to register under subsection (c) of this section shall be reported to the FBI not later than 10 days after that person establishes a new residence.
+
+#### (3) Individual registration requirement
+
+&emsp;A person required to register under subsection (c) of this section or under a minimally sufficient offender registration program, including a program established under section 14071 of this title, who changes address to a State other than the State in which the person resided at the time of the immediately preceding registration shall, not later than 10 days after that person establishes a new residence, register a current address, fingerprints, and photograph of that person, for inclusion in the appropriate database, with—
+
+&emsp;&emsp;(A) the FBI; and
+
+&emsp;&emsp;(B) the State in which the new residence is established.
+
+#### (4) State registration requirement
+
+&emsp;Any time any State agency in a State with a minimally sufficient sexual offender registration program, including a program established under section 14071 of this title, is notified of a change of address by a person required to register under such program within or outside of such State, the State shall notify—
+
+&emsp;&emsp;(A) the law enforcement officials of the jurisdiction to which, and the jurisdiction from which, the person has relocated; and
+
+&emsp;&emsp;(B) the FBI.
+
+#### (5) Verification
+
+#### (A) Notification of local law enforcement officials
+
+&emsp;&emsp;The FBI shall ensure that State and local law enforcement officials of the jurisdiction from which, and the State and local law enforcement officials of the jurisdiction to which, a person required to register under subsection (c) of this section relocates are notified of the new residence of such person.
+
+#### (B) Notification of FBI
+
+&emsp;&emsp;A State agency receiving notification under this subsection shall notify the FBI of the new residence of the offender.
+
+#### (C) Verification
+
+#### (i) State agencies
+
+&emsp;&emsp;&emsp;If a State agency cannot verify the address of or locate a person required to register with a minimally sufficient sexual offender registration program, including a program established under section 14071 of this title, the State shall immediately notify the FBI.
+
+#### (ii) FBI
+
+&emsp;&emsp;&emsp;If the FBI cannot verify the address of or locate a person required to register under subsection (c) of this section or if the FBI receives notification from a State under clause (i), the FBI shall—
+
+&emsp;&emsp;&emsp;&emsp;(I) classify the person as being in violation of the registration requirements of the national database; and
+
+&emsp;&emsp;&emsp;&emsp;(II) add the name of the person to the National Crime Information Center Wanted person file and create a wanted persons record: <i>Provided</i>, That an arrest warrant which meets the requirements for entry into the file is issued in connection with the violation.
+
+#### (h) Fingerprints
+
+#### (1) FBI registration
+
+&emsp;For each person required to register under subsection (c) of this section, fingerprints shall be obtained and verified by the FBI or a local law enforcement official pursuant to regulations issued by the Attorney General.
+
+#### (2) State registration systems
+
+&emsp;In a State that has a minimally sufficient sexual offender registration program, including a program established under section 14071 of this title, fingerprints required to be registered with the FBI under this section shall be obtained and verified in accordance with State requirements. The State agency responsible for registration shall ensure that the fingerprints and all other information required to be registered is registered with the FBI.
+
+#### (i) Penalty
+
+A person required to register under paragraph (1), (2), or (3) of subsection (g) of this section who knowingly fails to comply with this section shall—
+
+&emsp;(1) in the case of a first offense—
+
+&emsp;&emsp;(A) if the person has been convicted of 1 offense described in subsection (b) of this section, be fined not more than $100,000; or
+
+&emsp;&emsp;(B) if the person has been convicted of more than 1 offense described in subsection (b) of this section, be imprisoned for up to 1 year and fined not more than $100,000; or
+
+&emsp;(2) in the case of a second or subsequent offense, be imprisoned for up to 10 years and fined not more than $100,000.
+
+#### (j) Release of information
+
+The information collected by the FBI under this section shall be disclosed by the FBI—
+
+&emsp;(1) to Federal, State, and local criminal justice agencies for—
+
+&emsp;&emsp;(A) law enforcement purposes; and
+
+&emsp;&emsp;(B) community notification in accordance with section 14071(d)(3) of this title; and
+
+&emsp;(2) to Federal, State, and local governmental agencies responsible for conducting employment-related background checks under section 5119a of this title.
+
+#### (k) Notification upon release
+
+Any State not having established a program described in subsection (a)(3) of this section must—
+
+&emsp;(1) upon release from prison, or placement on parole, supervised release, or probation, notify each offender who is convicted of an offense described in subparagraph (A) or (B) of section 14071(a)(1) of this title of their duty to register with the FBI; and
+
+&emsp;(2) notify the FBI of the release of each offender who is convicted of an offense described in subparagraph (A) or (B) of section 14071(a)(1) of this title.
+
+(Pub. L. 103–322, title XVII, §170102, as added Pub. L. 104–236, §2(a), Oct. 3, 1996, 110 Stat. 3093.)
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 14071 of this title.
+

@@ -2,7 +2,7 @@
 
 #### (a) Certification to President
 
-(1) When the Secretary of Commerce determines that nationals of a foreign country, directly or indirectly, are conducting fishing operations in a manner or under circumstanceswhich diminish the effectiveness of an international fishery conservation program, the Secretary of Commerce shall certify such fact to the President.
+(1) When the Secretary of Commerce determines that nationals of a foreign country, directly or indirectly, are conducting fishing operations in a manner or under circumstances which diminish the effectiveness of an international fishery conservation program, the Secretary of Commerce shall certify such fact to the President.
 
 (2) When the Secretary of Commerce or the Secretary of the Interior finds that nationals of a foreign country, directly or indirectly, are engaging in trade or taking which diminishes the effectiveness of any international program for endangered or threatened species, the Secretary making such finding shall certify such fact to the President.
 
@@ -18,7 +18,7 @@
 
 #### (b) Notification to Congress
 
-Within sixty days following certification by the Secretary of Commerce or the Secretary of the Interior, the President shall notify the Congress of any action taken by him pursuant to such certification. In the event the President fails to direct the Secretary of the Treasury to prohibit the importation of fish products or wildlife products of the offending country, or if such prohibition does not cover all fish products or wildlife products of the offending country, the President shall inform the Congress of the reasons therefor.
+Within sixty days following certification by the Secretary of Commerce or the Secretary of the Interior, the President shall notify the Congress of any action taken by him pursuant to such certification. In the event the President fails to direct the Secretary of the Treasury to prohibit the importation of fish products orwildlife products of the offending country, or if such prohibition does not cover all fish products or wildlife products of the offending country, the President shall inform the Congress of the reasons therefor.
 
 #### (c) Importation of fish products from offending country prohibited
 
@@ -74,7 +74,7 @@ As used in this section—
 
 &emsp;&emsp;(B) attempt to harass, harm, pursue, hunt, shoot, wound, kill, trap, capture, or collect.
 
-(Aug. 27, 1954, ch. 1018, §8, as added Dec. 23, 1971, Pub. L. 92–219, 85 Stat. 786; amended Pub. L. 90–578, title IV, §402(b)(2), Oct. 17, 1968, 82 Stat. 1118; Sept. 18, 1978, Pub. L. 95–376, §2, 92 Stat. 714; Aug. 15, 1979, Pub. L. 96–61, §3(b), 93 Stat. 408; Oct. 17, 1979, Pub. L. 96–88, title V, §509(b), 93 Stat. 695; Nov. 23, 1988, Pub. L. 100–711, §8, 102 Stat. 4772; Dec. 1, 1990, Pub. L. 101–650, title III, §321, 104 Stat. 5117; Nov. 2, 1992, Pub. L. 102–582, title II, §201, 106 Stat. 4904.)
+(Aug. 27, 1954, ch. 1018, §8, as added Dec. 23, 1971, Pub. L. 92–219, 85 Stat. 786; amended Pub. L. 90–578, title IV, §402(b)(2), Oct. 17, 1968, 82 Stat. 1118; Sept. 18, 1978, Pub. L. 95–376, §2, 92 Stat. 714; Aug. 15, 1979, Pub. L. 96–61, §3(b), 93 Stat. 408; Oct. 17, 1979, Pub. L. 96–88, title V, §509(b), 93 Stat. 695; Nov. 23, 1988, Pub. L. 100–711, §8, 102Stat. 4772; Dec. 1, 1990, Pub. L. 101–650, title III, §321, 104 Stat. 5117; Nov. 2, 1992, Pub. L. 102–582, title II, §201, 106 Stat. 4904.)
 
 #### References in Text
 

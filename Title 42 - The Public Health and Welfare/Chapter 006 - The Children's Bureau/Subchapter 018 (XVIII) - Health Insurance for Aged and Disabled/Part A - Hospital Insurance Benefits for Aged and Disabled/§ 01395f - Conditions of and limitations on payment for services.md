@@ -4,7 +4,7 @@
 
 Except as provided in subsections (d) and (g) of this section and in section 1395mm of this title, payment for services furnished an individual may be made only to providers of services which are eligible therefor under section 1395cc of this title and only if—
 
-&emsp;(1) written request, signed by such individual, except in cases in which the Secretary finds it impracticable for the individual to do so, is filed for such payment in such form, in such manner, and by such person or persons as the Secretary may by regulation prescribe, no later than the close of the period of 3 calendar years following the year in which such services are furnished (deeming any services furnished in the last 3 calendar months of any calendar year to have been furnished in the succeeding calendar year) except that where the Secretary deems that efficient administration so requires, such period may be reduced to not less than 1 calendar year;
+&emsp;(1) written request, signed by such individual, except in cases in which the Secretary finds it impracticable for the individual to do so, is filed for such payment in such form, in such manner, and by such person or persons as the Secretary may by regulation prescribe, no later than the close of the period of 3 calendar years following the year in which such services are furnished (deeming any services furnished in the last 3 calendar months of anycalendar year to have been furnished in the succeeding calendar year) except that where the Secretary deems that efficient administration so requires, such period may be reduced to not less than 1 calendar year;
 
 &emsp;(2) a physician, or, in the case of services described in subparagraph (B), a physician, or a nurse practitioner or clinical nurse specialist who does not have a direct or indirect employment relationship with the facility but is working in collaboration with a physician, certifies (and recertifies, where such services are furnished over a period of time, in such cases, with such frequency, and accompanied by such supporting material, appropriate to the case involved, as may be provided by regulations, except that the first of such recertifications shall be required in each case of inpatient hospital services not later than the 20th day of such period) that—
 
@@ -18,7 +18,7 @@ Except as provided in subsections (d) and (g) of this section and in section 139
 
 &emsp;(3) with respect to inpatient hospital services (other than inpatient psychiatric hospital services) which are furnished over a period of time, a physician certifies that such services are required to be given on an inpatient basis for such individual's medical treatment, or that inpatient diagnostic study is medically required and such services are necessary for such purpose, except that (A) such certification shall be furnished only in such cases, with such frequency, and accompanied by such supporting material, appropriate to the cases involved, as may be provided by regulations, and (B) the first such certification required in accordance with clause (A) shall be furnished no later than the 20th day of such period;
 
-&emsp;(4) in the case of inpatient psychiatric hospital services, the services are those which the records of the hospital indicate were furnished to the individual during periods when he was receiving (A) intensive treatment services, (B)admission and related services necessary for a diagnostic study, or (C) equivalent services;
+&emsp;(4) in the case of inpatient psychiatric hospital services, the services are those which the records of the hospital indicate were furnished to the individual during periods when he was receiving (A) intensive treatment services, (B) admission and related services necessary for a diagnostic study, or (C) equivalent services;
 
 &emsp;(5) with respect to inpatient hospital services furnished such individual after the 20th day of a continuous period of such services, there was not in effect, at the time of admission of such individual to the hospital, a decision under section 1395cc(d) of this title (based on a finding that utilization review of long-stay cases is not being made in such hospital);
 
@@ -32,7 +32,7 @@ Except as provided in subsections (d) and (g) of this section and in section 139
 
 &emsp;&emsp;&emsp;(II) the medical director (or physician member of the interdisciplinary group described in section 1395x(dd)(2)(B) of this title) of the hospice program providing (or arranging for) the care,
 
-> &emsp;&emsp;each certify in writing, not later than 2 days after hospice care is initiated (or, if each certify verbally not later than 2 days after hospice care is initiated, not later than 8 days after such care is initiated), that the individual is terminally ill (as defined in section 1395x(dd)(3)(A) of this title),
+> &emsp;&emsp;each certify in writing, not later than 2 days after hospice care is initiated (or, if eachcertify verbally not later than 2 days after hospice care is initiated, not later than 8 days after such care is initiated), that the individual is terminally ill (as defined in section 1395x(dd)(3)(A) of this title),
 
 &emsp;&emsp;(ii) in a subsequent 90- or 30-day period, the medical director or physician described in clause (i)(II) recertifies at the beginning of the period that the individual is terminally ill, and
 
@@ -50,7 +50,7 @@ Except as provided in subsections (d) and (g) of this section and in section 139
 
 The amount paid to any provider of services (other than a hospice program providing hospice care, other than a rural primary care hospital providing inpatient rural primary care hospital services, and other than a home health agency with respect to durable medical equipment) with respect to services for which payment may be made under this part shall, subject to the provisions of sections 1395e and 1395ww of this title, be—
 
-&emsp;(1) except as provided in paragraph (3), the lesser of (A) the reasonable cost of such services, as determined under section 1395x(v) ofthis title and as further limited by section 1395rr(b)(2)(B) of this title, or (B) the customary charges with respect to such services;
+&emsp;(1) except as provided in paragraph (3), the lesser of (A) the reasonable cost of such services, as determined under section 1395x(v) of this title and as further limited by section 1395rr(b)(2)(B) of this title, or (B) the customary charges with respect to such services;
 
 &emsp;(2) if such services are furnished by a public provider of services, or by another provider which demonstrates to the satisfaction of the Secretary that a significant portion of its patients are low-income (and requests that payment be made under this paragraph), free of charge or at nominal charges to the public, the amount determined on the basis of those items (specified in regulations prescribed by the Secretary) included in the determination of such reasonable cost which the Secretary finds will provide fair compensation to such provider for such services; or
 
@@ -76,7 +76,7 @@ Subject to section 1395qq of this title, no payment may be made under this part 
 
 #### (e) Payment for inpatient hospital services prior to notification of noneligibility
 
-Notwithstanding that an individual is not entitled to have payment made under this part for inpatient hospital services furnished by any hospital, payment shall be made to such hospital (unless it elects not to receive such payment or, if payment has already been made by or on behalf of such individual, fails to refund such payment within the time specified by the Secretary) for such services which are furnished to the individual prior to notification to such hospital from the Secretary of his lack of entitlement, if such payments are precluded only by reason of section 1395d of this title and if such hospital complies with the requirements of and regulations under this subchapter with respect to such payments, has acted in good faith and without knowledge of such lack of entitlement, and has acted reasonably in assuming entitlement existed. Payment under the preceding sentence may not be made for services furnished an individual pursuant to any admission after the 6th elapsed day (not including as an elapsed day Saturday, Sunday, or a legal holiday) after the day on which such admission occurred.
+Notwithstanding that an individual is not entitled to have payment made under this part for inpatient hospital services furnished by any hospital, payment shall be made to such hospital (unless it elects not to receive such payment or, if payment has already been made by or on behalf of such individual, fails to refund such payment within the time specified by the Secretary) for such services which are furnished tothe individual prior to notification to such hospital from the Secretary of his lack of entitlement, if such payments are precluded only by reason of section 1395d of this title and if such hospital complies with the requirements of and regulations under this subchapter with respect to such payments, has acted in good faith and without knowledge of such lack of entitlement, and has acted reasonably in assuming entitlement existed. Payment under the preceding sentence may not be made for services furnished an individual pursuant to any admission after the 6th elapsed day (not including as an elapsed day Saturday, Sunday, or a legal holiday) after the day on which such admission occurred.
 
 #### (f) Payment for certain inpatient hospital services furnished outside United States
 
@@ -188,7 +188,7 @@ Section 4005(e) of the Omnibus Budget Reconciliation Act of 1987, referred to in
 
 1994—Subsec. (a)(5). Pub. L. 103–432, §106(b)(1)(A), struck out “and with respect to post-hospital extended care services furnished after such day of a continuous period of such services as may be prescribed in or pursuant to regulations” after “continuous period of such services”, “or skilled nursing facility, as the case may be” after “such individual to the hospital”, and “or facility” after “made in such hospital”.
 
-Subsec. (a)(8). Pub. L. 103–432, §102(a)(3), substituted “the individual may reasonably be expected to be discharged or transferred to a hospital within 72 hours after admission to the rural primary care hospital.” for“such services were required to be immediately furnished on a temporary, inpatient basis.”
+Subsec. (a)(8). Pub. L. 103–432, §102(a)(3), substituted “the individual may reasonably be expected to be discharged or transferred to a hospital within 72 hours after admission to the rural primary care hospital.” for “such services were required to be immediately furnished on a temporary, inpatient basis.”
 
 Subsec. (i)(1)(C)(i). Pub. L. 103–432, §110(d)(1), substituted “September 30, 1990,” for “September 30, 1990,,”.
 
@@ -210,7 +210,7 @@ Subsec. (a)(2). Pub. L. 101–239, §6028(1), substituted “a physician, or, in
 
 Subsec. (a)(2)(B), (6). Pub. L. 101–234 repealed Pub. L. 100–360, §104(d)(2)(A), (B), and provided that the provisions of law amended or repealed by such section are restored or revived as if such section had not been enacted, see 1988 Amendment notes below.
 
-Subsec. (a)(7)(A)(i). Pub. L. 101–239, §6005(b), substituted “certify in writing, not later than 2 days after hospice care is initiated (or, if each certify verbally not later than 2 days after hospice care is initiated, not later than 8 days after such care is initiated),” for “certify, not later than two days after hospice care is initiated,” in concluding provisions.
+Subsec. (a)(7)(A)(i). Pub. L. 101–239, §6005(b), substituted “certify in writing, not later than 2 days after hospice care is initiated (or, if each certify verbally notlater than 2 days after hospice care is initiated, not later than 8 days after such care is initiated),” for “certify, not later than two days after hospice care is initiated,” in concluding provisions.
 
 Subsec. (a)(7)(A)(iii). Pub. L. 101–234 repealed Pub. L. 100–360, §104(d)(2)(C), and provided that the provisions of law amended or repealed by such section are restored or revived as if such section had not been enacted, see 1988 Amendment note below.
 
@@ -224,7 +224,7 @@ Subsec. (i)(1)(A). Pub. L. 101–239, §6005(a)(1), inserted “and except as ot
 
 Subsec. (i)(1)(C). Pub. L. 101–239, §6005(a)(2), added subpar. (C) and struck out former subpar. (C) which read as follows: “With respect to care and services furnished on or after October 1, 1986, the Secretary shall, not less often than annually, review and make appropriate adjustments to the payment rate for routine home care and the payment rates for other services included in hospice care based on the costs that are reasonable and related to the costs of furnishing such care and services. The Secretary shall report to Congress on October 1 each year on such review and such adjustments and on the adequacy of the rates under this paragraph to ensure participation by an adequate number of hospice programs under this subchapter.”
 
-Subsec. (<i>l</i>). Pub. L. 101–239, §6003(g)(3)(B)(iii)(II), added subsec. (<i>l).</i>
+Subsec. (<i>l</i>). Pub. L. 101–239, §6003(g)(3)(B)(iii)(II), added subsec. (<i>l</i>).
 
 1988—Subsec. (a)(2)(B). Pub. L. 100–360, §104(d)(2)(A), (B), struck out “post-hospital” after “in the case of” and “, for any of the conditions with respect to which he was receiving inpatient hospital services (or services which would constitute inpatient hospital services if the institution met the requirements of paragraphs (6) and (9) of section 1395x(e) of this title) prior to transfer to the skilled nursing facility or for a condition requiring such extended care services which arose after such transfer and while he was still in the facility for treatment of the condition or conditions for which he was receiving such inpatient hospital services” before semicolon at end.
 
@@ -408,7 +408,7 @@ Section 1(b) of Pub. L. 98–617 provided that: “The amendments made by this A
 
 Section 3(c) of Pub. L. 98–617 provided that: “The amendments made by this section \[amending this section and sections 1395<i>l</i>, 1395n, 1395r, 1395u, 1395x, 1395rr, 1395ww, 1396a, and 1396b of this title and amending provisions set out as notes under sections 1395h and 1395mm of this title\] shall be effective as if they had been originally included in the Deficit Reduction Act of 1984 \[Pub. L. 98–369\].”
 
-Section 2321(g) of Pub. L. 98–369 provided that: “The amendments made by this section \[enacting section1395zz of this title and amending this section and sections 1395<i>l</i>, 1395x, and 1395cc of this title\] shall apply to items and services furnished on or after the date of the enactment of this Act \[July 18, 1984\].”
+Section 2321(g) of Pub. L. 98–369 provided that: “The amendments made by this section \[enacting section 1395zz of this title and amending this section and sections 1395<i>l</i>, 1395x, and 1395cc of this title\] shall apply to items and services furnished on or after the date of the enactment of this Act \[July 18, 1984\].”
 
 Section 2335(g) of Pub. L. 98–369 provided that: “The amendments made by this section \[amending this section and sections 1395x, 1395z, 1395cc, 1396a, and 1396d of this title\] shall become effective on the date of the enactment of this Act \[July 18, 1984\].”
 
@@ -426,7 +426,7 @@ Amendment by Pub. L. 97–448 effective as if originally included as a part of t
 
 #### Effective Date of 1982 Amendment
 
-Amendment by section 122(c)(1), (2) of Pub. L. 97–248 applicable to hospice care provided on or after Nov. 1, 1983, see section 122(h)(1) of Pub. L. 97–248, as amended, set out as a note under section 1395c of this title.
+Amendment by section 122(c)(1), (2) of Pub. L. 97–248 applicable to hospice care provided on or after Nov. 1,1983, see section 122(h)(1) of Pub. L. 97–248, as amended, set out as a note under section 1395c of this title.
 
 #### Effective Date of 1981 Amendment
 
@@ -516,7 +516,7 @@ Section 122(h)(2) of Pub. L. 97–248 provided that: “In order to provide for 
 
 &emsp;“(A) a description of the care included in ‘hospice care’ and the standards for qualification of a ‘hospice program’, under section 1861(dd) of the Social Security Act \[section 1395x(dd) of this title\], and
 
-&emsp;“(B) the standards for payment for hospice care under part A of title XVIII of such Act \[this part\],pursuant to section 1814(i) of such Act \[subsec. (i) of this section\].”
+&emsp;“(B) the standards for payment for hospice care under part A of title XVIII of such Act \[this part\], pursuant to section 1814(i) of such Act \[subsec. (i) of this section\].”
 
 #### Study and Report Relating to the Reimbursement Method and Benefit Structure for Hospice Care; Supervision of Report by Comptroller General
 
@@ -536,5 +536,5 @@ Section 16 of Pub. L. 93–233 provided that: “In the administration of titles
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 426, 1395d, 1395e, 1395g, 1395<i>l</i>, 1395n, 1395x, 1395y, 1395cc, 1395gg, 1395mm, 1395pp, 1395qq, 1395uu, 1395ww of this title; title 5 section 8904.
+This section is referred to in sections 426, 1320a–7a, 1395d, 1395e, 1395g, 1395<i>l</i>, 1395n, 1395x, 1395y, 1395cc, 1395gg, 1395mm, 1395pp, 1395qq, 1395uu, 1395ww of this title; title 5 section 8904.
 

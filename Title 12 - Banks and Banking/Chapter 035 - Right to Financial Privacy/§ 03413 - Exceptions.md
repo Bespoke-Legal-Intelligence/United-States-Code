@@ -26,7 +26,7 @@ Nothing in this chapter shall apply when financial records are sought by a Gover
 
 #### (g) Disclosure pursuant to legitimate law enforcement inquiry respecting name, address, account number, and type of account of particular customers
 
-The notice requirements of this chapter and sections 3410 and 3412 of this title shall not apply when a Government authority by a means described in section 3402 of this title and for a legitimate law enforcement inquiry is seeking only the name, address, account number, andtype of account of any customer or ascertainable group of customers associated (1) with a financial transaction or class of financial transactions, or (2) with a foreign country or subdivision thereof in the case of a Government authority exercising financial controls over foreign accounts in the United States under section 5(b) of the Trading with the Enemy Act \[12 U.S.C. 95a, 50 App. U.S.C. 5(b)\]; the International Emergency Economic Powers Act (title II, Public Law 95–223) \[50 U.S.C. 1701 et seq.\]; or section 287c of title 22.
+The notice requirements of this chapter and sections 3410 and 3412 of this title shall not apply when a Government authority by a means described in section 3402 of this title and for a legitimate law enforcement inquiry is seeking only the name, address, account number, and type of account of any customer or ascertainable group of customers associated (1) with a financial transaction or class of financial transactions, or (2) with a foreign country or subdivision thereof in the case of a Government authority exercising financial controls over foreign accounts in the United States under section 5(b) of the Trading with the Enemy Act \[12 U.S.C. 95a, 50 App. U.S.C. 5(b)\]; the International Emergency Economic Powers Act (title II, Public Law 95–223) \[50 U.S.C. 1701 et seq.\]; or section 287c of title 22.
 
 #### (h) Disclosure pursuant to lawful proceeding, investigation, etc., directed at financial institution or legal entity or consideration or administration respecting Government loans, loan guarantees, etc.
 
@@ -62,7 +62,7 @@ This chapter shall not apply when financial records are sought by the General Ac
 
 (1) Nothing in this chapter shall apply to the disclosure by the financial institution of the name and address of any customer to the Department of the Treasury, the Social Security Administration, or the Railroad Retirement Board, where the disclosure of such information is necessary to, and such information is used solely for the purpose of, the proper administration of section 1441 of title 26, title II of the Social Security Act \[42 U.S.C. 401 et seq.\], or the Railroad Retirement Act of 1974 \[45 U.S.C. 231 et seq.\].
 
-(2) Notwithstanding any other provision of law, any request authorized by paragraph (1) (and the information contained therein) may be used by the financial institution or its agents solely for the purpose of providing the customer's name and address to the Department of the Treasury, the Social Security Administration, or the Railroad Retirement Board andshall be barred from redisclosure by the financial institution or its agents.
+(2) Notwithstanding any other provision of law, any request authorized by paragraph (1) (and the information contained therein) may be used by the financial institution or its agents solely for the purpose of providing the customer's name and address to the Department of the Treasury, the Social Security Administration, or the Railroad Retirement Board and shall be barred from redisclosure by the financial institution or its agents.
 
 #### (<i>l</i>) Crimes against financial institutions by insiders
 
@@ -120,9 +120,9 @@ Subsec. (<i>l</i>). Pub. L. 102–242, §411(4), inserted at end “No superviso
 
 1989—Subsec. (b). Pub. L. 101–73, §942(1), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Nothing in this chapter prohibits examination by or disclosure to any supervisory agency of financial records or information in the exercise of its supervisory, regulatory, or monetary functions with respect to a financial institution.”
 
-Subsecs. (m) to (<i>o</i>). Pub. L. 101–73, §942(2), added subsecs. (m) to (<i>o).</i>
+Subsecs. (m) to (<i>o</i>). Pub. L. 101–73, §942(2), added subsecs. (m) to (<i>o</i>).
 
-1988—Subsec. (<i>l</i>). Pub. L. 100–690 added subsec. (<i>l).</i>
+1988—Subsec. (<i>l</i>). Pub. L. 100–690 added subsec. (<i>l</i>).
 
 1986—Subsec. (c). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 

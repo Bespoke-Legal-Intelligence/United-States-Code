@@ -1,6 +1,6 @@
 ### §1514. Crimes and offenses
 
-#### (a) to (e). Repealed. June 25, 1948, ch. 645, §21, 62 Stat. 862, eff. Sept. 1, 1948
+#### (a) to (e) Repealed. June 25, 1948, ch. 645, §21, 62 Stat. 862, eff. Sept. 1, 1948
 
 #### (f) Application of laws on interest of Members of Congress in contracts
 

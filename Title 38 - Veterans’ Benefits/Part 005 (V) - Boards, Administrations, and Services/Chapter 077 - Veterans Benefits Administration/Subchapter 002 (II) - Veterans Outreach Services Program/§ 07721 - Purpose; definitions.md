@@ -36,13 +36,13 @@ Bi-Annual Requirement.—The Secretary shall include in the report submitted und
 
 #### Homeless Veterans Comprehensive Service Programs
 
-Pub. L. 102–590, §§2–4, Nov. 10, 1992, 106 Stat. 5136–5139, as amended by Pub. L. 103–446, title X, §1003, Nov. 2, 1994, 108 Stat. 4679, provided that:
+Pub. L. 102–590, §§2–4, Nov. 10, 1992, 106 Stat. 5136–5139, as amended by Pub. L. 103–446, title X, §1003, Nov. 2, 1994, 108 Stat. 4679; Pub. L. 104–110, title I, §102(c)(1), (2), Feb. 13, 1996, 110 Stat. 769, provided that:
 
 #### “SEC. 2. PILOT PROGRAM.
 
 “(a)
 
-In General.—Subject to the availability of appropriations provided for under section 12 \[set out below\], the Secretary of Veterans Affairs shall establish and operate, through September 30, 1995, a pilot program under this Act \[see Short Title of 1992 Amendment note set out under section 101 of this title\] to expand and improve the provision of benefits and services by the Department of Veterans Affairs to homeless veterans.
+In General.—Subject to the availability of appropriations provided for under section 12 \[set out below\], the Secretary of Veterans Affairs shall establish and operate, through September 30, 1997, a pilot program under this Act \[see Short Title of 1992 Amendment note set out under section 101 of this title\] to expand and improve the provision of benefits and services by the Department of Veterans Affairs to homeless veterans.
 
 “(b)
 
@@ -52,7 +52,7 @@ Comprehensive Centers.—The pilot program shall include the establishment of no
 
 Placement of VBA Employees.—The pilot program shall also include the services of such employees of the Veterans Benefits Administration as the Secretary determines appropriate at—
 
-&emsp;“(1) no more than 45 sites at which the Secretary provides services to homeless chronically mentally ill veterans pursuant to section 115 of Public Law 100–322 (38 U.S.C. 1712 note);
+&emsp;“(1) no more than 45 sites at which the Secretary provides services to homeless chronically mentally illveterans pursuant to section 115 of Public Law 100–322 (38 U.S.C. 1712 note);
 
 &emsp;“(2) no more than 26 sites at which the Secretary furnishes domiciliary care to homeless veterans pursuant to section 801(b) of Public Law 100–628 (102 Stat. 3257);
 
@@ -64,7 +64,9 @@ Placement of VBA Employees.—The pilot program shall also include the services 
 
 “(a)
 
-Authority To Make Grants.—Subject to the availability of appropriations provided for under section 12 \[set out below\], the Secretary of Veterans Affairs, during fiscal years 1993, 1994, and 1995, shall make grants to assist eligible entities in establishing new programs to furnish outreach, rehabilitative services, vocational counseling and training, and transitional housing assistance to homeless veterans.
+Authority To Make Grants.—(1) Subject to the availability of appropriations provided for under section 12 \[set out below\], the Secretary of Veterans Affairs, during \[sic\] shall make grants to assist eligible entities in establishing new programs to furnish outreach, rehabilitative services, vocational counseling and training, and transitional housing assistance to homeless veterans.
+
+“(2) The authority of the Secretary to make grants under this section expires on September 30, 1997.
 
 “(b)
 
@@ -132,7 +134,7 @@ Service Center Requirements.—In addition to criteria established under subsect
 
 &emsp;“(3) such center shall be equipped and staffed to provide, or to assist in providing, health care, mental health services, hygiene facilities, benefits and employment counseling, meals, transportation assistance, and such other services as the Secretary determines necessary; and
 
-&emsp;“(4) such center may be equipped and staffed to provide, or to assist in providing, job training and job placement services (including job readiness, job counseling, and literacy and skills training), as well as any outreach and case management services that may be necessary to carry out this paragraph.
+&emsp;“(4) such center may be equipped and staffed to provide, or to assist in providing, job training and jobplacement services (including job readiness, job counseling, and literacy and skills training), as well as any outreach and case management services that may be necessary to carry out this paragraph.
 
 #### “SEC. 4. PER DIEM PAYMENTS.
 
@@ -158,11 +160,13 @@ In-Kind Assistance.—In lieu of per diem payments under this section, the Secre
 
 Inspections.—The Secretary may inspect any facility of an entity eligible for payments under subsection (a) at such times as the Secretary considers necessary. No per diem payment may be made to an entity under this section unless the facilities of that entity meet such standards as the Secretary shall prescribe.”
 
+\[Any action taken by Secretary of Veterans Affairs before Feb. 13, 1996, under provision of law amended by title I of Pub. L. 104–110 that was taken during period beginning on date on which authority of Secretary under such provision of law expired and ending on Feb. 13, 1996, considered to have same force and effect as if such amendment had been in effect at time of that action, see section 103 of Pub. L. 104–110, set out as a note under section 1710 of this title.\]
+
 #### Annual Reports to Congressional Committees
 
 Pub. L. 102–590, §10, Nov. 10, 1992, 106 Stat. 5141, directed Secretary of Veterans Affairs, not later than May 1 of each of 1994, 1995, and 1996, to submit to Committees on Veterans’ Affairs of Senate and House of Representatives a report on implementation of Pub. L. 102–590, including information on (1) number of veterans assisted, (2) services provided, and (3) Secretary's analysis of operational and clinical effectiveness and cost-effectiveness of programs established under, or with assistance provided by, Pub. L. 102–590, prior to repeal by Pub. L. 103–446, title X, §1001(c), Nov. 2, 1994, 108 Stat. 4679.
 
 #### Authorization of Appropriations
 
-Pub. L. 102–590, §12, Nov. 10, 1992, 106 Stat. 5142, as amended by Pub. L. 103–446, title X, §1004, Nov. 2, 1994, 108 Stat. 4679, provided that: “There are authorized to be appropriated to carry out this Act \[see Short Title of 1992 Amendment note set out under section 101 of this title\] (other than section 8 \[amending section 3735 of this title\]) $48,000,000 for each of the fiscal years 1993, 1994, and 1995. Nothing in this Act shall be construed to diminish funds for, continuation of, or expansion of existing programs administered by the Secretary of Veterans Affairs to serve veterans.”
+Pub. L. 102–590, §12, Nov. 10, 1992, 106 Stat. 5142, as amended by Pub. L. 103–446, title X, §1004, Nov. 2, 1994, 108 Stat. 4679; Pub. L. 104–110, title I, §102(c)(3), Feb. 13, 1996, 110 Stat. 769, provided that: “There are authorized to be appropriated to carry out this Act \[see Short Title of 1992 Amendment note set out under section 101 of this title\] (other than section 8 \[amending section 3735 of this title\]) $48,000,000 for each of fiscal years 1993 through 1997. Nothing in this Act shall be construed to diminish funds for, continuation of, or expansion of existing programs administered by the Secretary of Veterans Affairs to serve veterans.”
 

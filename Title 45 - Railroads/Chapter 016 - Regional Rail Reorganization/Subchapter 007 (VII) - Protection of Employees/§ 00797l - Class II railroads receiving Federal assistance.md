@@ -6,7 +6,7 @@ The Surface Transportation Board shall impose no labor protection conditions in 
 
 &emsp;(2) has, as of January 1, 1996, been a recipient of repayable Federal Railroad Administration assistance in excess of $5,000,000.
 
-(Pub. L. 93–236, title VII, §713, as added Pub. L. 104–88, title III, §327(5), Dec. 19, 1995, 109 Stat. 952.)
+(Pub. L. 93–236, title VII, §713, as added Pub. L. 104–88, title III, §327(5)(A), formerly §327(5), Dec. 19, 1995, 109 Stat. 952, renumbered Pub. L. 104–287, §6(f)(4)(B), Oct. 11, 1996, 110 Stat. 3399.)
 
 #### Prior Provisions
 

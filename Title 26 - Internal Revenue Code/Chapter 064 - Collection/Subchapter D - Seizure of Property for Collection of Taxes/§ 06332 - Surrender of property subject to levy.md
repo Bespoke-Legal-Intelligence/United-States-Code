@@ -12,7 +12,7 @@ Except as otherwise provided in this section, any person in possession of (or ob
 
 #### (2) Satisfaction of levy
 
-&emsp;Such levy shall be deemed to be satisfied if such organization pays over to the Secretary the amount which the person against whom the tax is assessed could have had advanced to him by such organization on the date prescribed in paragraph (1) for the satisfaction of such levy, increased by the amount of any advance (including contractual interest thereon) made to such person on or after the date suchorganization had actual notice or knowledge (within the meaning of section 6323(i)(1)) of the existence of the lien with respect to which such levy is made, other than an advance (including contractual interest thereon) made automatically to maintain such contract in force under an agreement entered into before such organization had such notice or knowledge.
+&emsp;Such levy shall be deemed to be satisfied if such organization pays over to the Secretary the amount which the person against whom the tax is assessed could have had advanced to him by such organization on the date prescribed in paragraph (1) for the satisfaction of such levy, increased by the amount of any advance (including contractual interest thereon) made to such person on or after the date such organization had actual notice or knowledge (within the meaning of section 6323(i)(1)) of the existence of the lien with respect to which such levy is made, other than an advance (including contractual interest thereon) made automatically to maintain such contract in force under an agreement entered into before such organization had such notice or knowledge.
 
 #### (3) Enforcement proceedings
 
@@ -110,5 +110,5 @@ Payment on notice and demand, see section 6155 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 6323, 6342 of this title; title 18 section 3613; title 29 section 1368; title 30 section 934.
+This section is referred to in sections 6323, 6342 of this title; title 29 section 1368; title 30 section 934.
 

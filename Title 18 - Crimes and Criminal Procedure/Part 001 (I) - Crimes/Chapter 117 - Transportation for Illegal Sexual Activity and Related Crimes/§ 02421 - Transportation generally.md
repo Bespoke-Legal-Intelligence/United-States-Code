@@ -1,6 +1,6 @@
 ### §2421. Transportation generally
 
-Whoever knowingly transports any individual in interstate or foreign commerce, or in anyTerritory or Possession of the United States, with intent that such individual engage in prostitution, or in any sexual activity for which any person can be charged with a criminal offense, shall be fined under this title or imprisoned not more than five years, or both.
+Whoever knowingly transports any individual in interstate or foreign commerce, or in any Territory or Possession of the United States, with intent that such individual engage in prostitution, or in any sexual activity for which any person can be charged with a criminal offense, shall be fined under this title or imprisoned not more than five years, or both.
 
 (June 25, 1948, ch. 645, 62 Stat. 812; May 24, 1949, ch. 139, §47, 63 Stat. 96; Nov. 7, 1986, Pub. L. 99–628, §5(b)(1), 100 Stat. 3511.)
 
@@ -52,5 +52,5 @@ Applicability of section to Canal Zone, see section 14 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 14, 1961 of this title.
+This section is referred to in sections 14, 1961 of this title; title 8 section 1101.
 

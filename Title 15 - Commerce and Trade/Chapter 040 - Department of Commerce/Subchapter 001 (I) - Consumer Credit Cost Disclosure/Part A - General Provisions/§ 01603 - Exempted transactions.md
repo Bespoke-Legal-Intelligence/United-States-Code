@@ -10,17 +10,21 @@ This subchapter does not apply to the following:
 
 &emsp;(4) Transactions under public utility tariffs, if the Board determines that a State regulatory body regulates the charges for the public utility services involved, the charges for delayed payment, and any discount allowed for early payment.
 
-&emsp;(5) Repealed. Pub. L. 96–221, title VI, §603(c)(3), Mar. 31, 1980, 94 Stat. 169.
+&emsp;(5) Transactions for which the Board, by rule, determines that coverage under this subchapter is not necessary to carry out the purposes of this subchapter.
 
-&emsp;(6) Loans made, insured, or guaranteed pursuant to a program authorized by title IV of the Higher Education Act of 1965 \[20 U.S.C. 1070 et seq., 42 U.S.C. 2751 et seq.\].
+&emsp;(6) Repealed. Pub. L. 96–221, title VI, §603(c)(3), Mar. 31, 1980, 94 Stat. 169.
 
-(Pub. L. 90–321, title I, §104, May 29, 1968, 82 Stat. 147; Pub. L. 93–495, title IV, §402, Oct. 28, 1974, 88 Stat. 1517; Pub. L. 96–221, title VI, §603(c), Mar. 31, 1980, 94 Stat. 169; Pub. L. 97–320, title VII, §701(a), Oct. 15, 1982, 96 Stat. 1538.)
+&emsp;(7) Loans made, insured, or guaranteed pursuant to a program authorized by title IV of the Higher Education Act of 1965 \[20 U.S.C. 1070 et seq., 42 U.S.C. 2751 et seq.\].
+
+(Pub. L. 90–321, title I, §104, May 29, 1968, 82 Stat. 147; Pub. L. 93–495, title IV, §402, Oct. 28, 1974, 88 Stat. 1517; Pub. L. 96–221, title VI, §603(c), Mar. 31, 1980, 94 Stat. 169; Pub. L. 97–320, title VII, §701(a), Oct. 15, 1982, 96 Stat. 1538; Pub. L. 104–208, div. A, title II, §2102(a), Sept. 30, 1996, 110 Stat. 3009–398.)
 
 #### References in Text
 
-The Higher Education Act of 1965, referred to in par. (6), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended. Title IV of the Higher Education Act of 1965 is classified generally to subchapter IV (§1070 et seq.) of chapter 28 of Title 20, Education, and part C (§2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
+The Higher Education Act of 1965, referred to in par. (7), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended. Title IV of the Higher Education Act of 1965 is classified generally to subchapter IV (§1070 et seq.) of chapter 28 of Title 20, Education, and part C (§2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
 #### Amendments
+
+1996—Pars. (5) to (7). Pub. L. 104–208 added par. (5) and redesignated former pars. (5) and (6) as (6) and (7), respectively.
 
 1982—Par. (6). Pub. L. 97–320 added par. (6).
 
@@ -50,5 +54,5 @@ Board of Governors of Federal Reserve System authorized to make exceptions to re
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1645 of this title.
+This section is referred to in section 1645 of this title; title 12 section 2606.
 

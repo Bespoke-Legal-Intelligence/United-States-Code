@@ -96,13 +96,13 @@ Third Party Interests.—(1) Following the entry of an order of forfeiture under
 
 (6) If, after the hearing, the court determines that the petitioner has established by a preponderance of the evidence that—
 
-&emsp;(A) the petitioner has a legal right, title, or interest in the property, and such right, title, or interest renders the order of forfeiture invalid in whole or in part because the right, title, or interest was vested in the petitioner rather than the defendant or was superior toany right, title, or interest of the defendant at the time of the commission of the acts which gave rise to the forfeiture of the property under this section; or
+&emsp;(A) the petitioner has a legal right, title, or interest in the property, and such right, title, or interest renders the order of forfeiture invalid in whole or in part because the right, title, or interest was vested in the petitioner rather than the defendant or was superior to any right, title, or interest of the defendant at the time of the commission of the acts which gave rise to the forfeiture of the property under this section; or
 
 &emsp;(B) the petitioner is a bona fide purchaser for value of the right, title, or interest in the property and was at the time of purchase reasonably without cause to believe that the property was subject to forfeiture under this section;
 
 > the court shall amend the order of forfeiture in accordance with its determination.
 
-(7) Following the court's disposition of all petitions filed under this subsection, or if no such petitions are filed following the expiration of the period provided in paragraph (2) for the filing of such petitions, the United States shall have clear title to property that is the subject of the order of forfeiture and may warrant good title to any subsequent purchaser or transferee.
+(7) Following the court's disposition of all petitions filed under this subsection, or if no such petitions are filed following the expiration ofthe period provided in paragraph (2) for the filing of such petitions, the United States shall have clear title to property that is the subject of the order of forfeiture and may warrant good title to any subsequent purchaser or transferee.
 
 (m)
 

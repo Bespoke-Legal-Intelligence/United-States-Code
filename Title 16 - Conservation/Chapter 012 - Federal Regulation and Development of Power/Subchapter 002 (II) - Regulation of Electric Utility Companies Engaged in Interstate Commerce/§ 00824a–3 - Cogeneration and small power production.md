@@ -12,7 +12,7 @@ Not later than 1 year after November 9, 1978, the Commission shall prescribe, an
 
 #### (b) Rates for purchases by electric utilities
 
-The rules prescribed under subsection (a) of this section shall insure that, in requiring anyelectric utility to offer to purchase electric energy from any qualifying cogeneration facility or qualifying small power production facility, the rates for such purchase—
+The rules prescribed under subsection (a) of this section shall insure that, in requiring any electric utility to offer to purchase electric energy from any qualifying cogeneration facility or qualifying small power production facility, the rates for such purchase—
 
 &emsp;(1) shall be just and reasonable to the electric consumers of the electric utility and in the public interest, and
 
@@ -50,7 +50,7 @@ For purposes of this section, the term “incremental cost of alternative electr
 
 (1) Beginning on or before the date one year after any rule is prescribed by the Commission under subsection (a) of this section or revised under such subsection, each State regulatory authority shall, after notice and opportunity for public hearing, implement such rule (or revised rule) for each electric utility for which it has ratemaking authority.
 
-(2) Beginning on or before the date one year after any rule is prescribed by the Commission under subsection (a) of this section or revised under such subsection, each nonregulated electric utility shall, after notice and opportunity for public hearing, implement such rule (or revised rule).
+(2) Beginning on or before the date one year after any rule is prescribed by the Commissionunder subsection (a) of this section or revised under such subsection, each nonregulated electric utility shall, after notice and opportunity for public hearing, implement such rule (or revised rule).
 
 #### (g) Judicial review and enforcement
 
@@ -92,7 +92,7 @@ Except for a hydroelectric project located at a Government dam (as defined in se
 
 #### (3) Fish and wildlife terms and conditions
 
-&emsp;The project meets the terms and conditions set by fish and wildlife agencies under the same procedures as provided for under section 30(c) of the Federal Power Act \[16 U.S.C. 823a(c)\].
+&emsp;The project meets the terms and conditions set by fish and wildlife agencies under thesame procedures as provided for under section 30(c) of the Federal Power Act \[16 U.S.C. 823a(c)\].
 
 #### (k) “New dam or diversion” defined
 
@@ -102,7 +102,7 @@ For purposes of this section, the term “new dam or diversion” means a dam or
 
 For purposes of this section, the terms “small power production facility”, “qualifying small power production facility”, “qualifying small power producer”, “primary energy source”, “cogeneration facility”, “qualifying cogeneration facility”, and “qualifying cogenerator” have the respective meanings provided for such terms under section 3(17) and (18) of the Federal Power Act \[16 U.S.C. 796(17), (18)\].
 
-(Pub. L. 95–617, title II, §210, Nov. 9, 1978, 92 Stat. 3144; Pub. L. 96–294, title VI, §643(b), June 30,1980, 94 Stat. 770; Pub. L. 99–495, §8(a), Oct. 16, 1986, 100 Stat. 1249; Pub. L. 101–575, §2, Nov. 15, 1990, 104 Stat. 2834.)
+(Pub. L. 95–617, title II, §210, Nov. 9, 1978, 92 Stat. 3144; Pub. L. 96–294, title VI, §643(b), June 30, 1980, 94 Stat. 770; Pub. L. 99–495, §8(a), Oct. 16, 1986, 100 Stat. 1249; Pub. L. 101–575, §2, Nov. 15, 1990, 104 Stat. 2834.)
 
 #### References in Text
 

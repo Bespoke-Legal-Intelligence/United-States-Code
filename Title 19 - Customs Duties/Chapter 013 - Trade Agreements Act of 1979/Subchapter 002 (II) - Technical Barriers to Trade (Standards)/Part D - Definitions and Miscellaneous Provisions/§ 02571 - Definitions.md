@@ -36,7 +36,7 @@ As used in this subchapter—
 
 &emsp;The term “international standards organization” means any organization—
 
-&emsp;&emsp;(A) the membership of which is open to representatives, whether public or private, of the United States and at least all Members.<sup>1</sup>
+&emsp;&emsp;(A) the membership of which is open to representatives, whether public or private, of the United States and at least all Members; and
 
 &emsp;&emsp;(B) that is engaged in international standards-related activities.
 
@@ -92,13 +92,15 @@ As used in this subchapter—
 
 &emsp;The term “United States”, when used in a geographical context, means all States.
 
-(Pub. L. 96–39, title IV, §451, July 26, 1979, 93 Stat. 249; Pub. L. 103–182, title III, §351(b)(1), Dec. 8, 1993, 107 Stat. 2122; Pub. L. 103–465, title III, §351(e), Dec. 8, 1994, 108 Stat. 4956.)
+(Pub. L. 96–39, title IV, §451, July 26, 1979, 93 Stat. 249; Pub. L. 103–182, title III, §351(b)(1), Dec. 8, 1993, 107 Stat. 2122; Pub. L. 103–465, title III, §351(e), Dec. 8, 1994, 108 Stat. 4956; Pub. L. 104–295, §20(c)(16), Oct. 11, 1996, 110 Stat. 3529.)
 
 #### References in Text
 
 Chapter 2 of part I of title 5, referred to in par. (3), probably means chapter 1 of part I of title 5, which is classified to section 101 et seq. of Title 5, Government Organization and Employees, and which relates to organization of agencies.
 
 #### Amendments
+
+1996—Par. (6)(A). Pub. L. 104–295 substituted “; and” for period at end.
 
 1994—Par. (1). Pub. L. 103–465, §351(e)(1), amended par. (1) generally, substituting “referred to in section 3511(d)(5) of this title” for “approved under section 2503(a) of this title”.
 
@@ -147,6 +149,4 @@ Amendment by Pub. L. 103–465 effective on the date on which the WTO Agreement 
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 2532, 2575b, 2576b, 2577 of this title.
-
-<i><sup>1</sup></i><i> So in original. The period probably should be “; and”.</i>
 

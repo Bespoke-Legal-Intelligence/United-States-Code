@@ -20,7 +20,7 @@
 
 &emsp;&emsp;&emsp;(ii) the value of additional foreign direct investment by United States persons,
 
-> &emsp;&emsp;that would have been exported to, or invested in, each foreign country during suchcalendar year if each of such acts, policies, and practices of such country did not exist.
+> &emsp;&emsp;that would have been exported to, or invested in, each foreign country during such calendar year if each of such acts, policies, and practices of such country did not exist.
 
 #### (2) Certain factors taken into account in making analysis and estimate
 

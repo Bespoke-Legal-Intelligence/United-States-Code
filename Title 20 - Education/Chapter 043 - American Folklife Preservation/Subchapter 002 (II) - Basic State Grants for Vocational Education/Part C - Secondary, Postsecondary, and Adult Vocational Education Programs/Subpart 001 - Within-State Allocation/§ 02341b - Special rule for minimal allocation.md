@@ -2,7 +2,7 @@
 
 #### (a) General authority
 
-In any fiscal year in which a minimal amount is made available by a State for distribution under section 2341 of this title or section 2341a of this title such State may, notwithstanding theprovisions of section 2341 of this title or section 2341a of this title, as appropriate, in order to result in a more equitable distribution of funds for programs serving the highest numbers of economically disadvantaged individuals, distribute such minimal amount—
+In any fiscal year in which a minimal amount is made available by a State for distribution under section 2341 of this title or section 2341a of this title such State may, notwithstanding the provisions of section 2341 of this title or section 2341a of this title, as appropriate, in order to result in a more equitable distribution of funds for programs serving the highest numbers of economically disadvantaged individuals, distribute such minimal amount—
 
 &emsp;(1) on a competitive basis; or
 

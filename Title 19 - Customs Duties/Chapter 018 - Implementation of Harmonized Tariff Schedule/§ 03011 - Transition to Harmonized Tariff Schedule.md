@@ -12,9 +12,9 @@
 
 #### (b) Generalized System of Preferences conversion
 
-(1) The review of the proposed conversion of the Generalized System of Preferences program to the Convention tariff nomenclature, initiated by the Office of the United States Trade Representative by notice published in the Federal Register on December 8, 1986 (at page 44,163 of volume 51 thereof), shall be treated as satisfying the requirements of sections 2463(a) and 2464(c)(3) of this title.
+(1) The review of the proposed conversion of the Generalized System of Preferences program to the Convention tariff nomenclature, initiated by the Office of the United States Trade Representative by notice published in the Federal Register on December 8, 1986 (at page 44,163 of volume 51 thereof), shall be treated as satisfying the requirements of sections 2463(a) and 2464(c)(3) of this title (as in effect on July 31, 1995).
 
-(2) In applying section 2464(c)(1) of this title for calendar year 1989, the reference in such section to July 1 shall be treated as a reference to September 1.
+(2) In applying section 2464(c)(1) of this title (as in effect on July 31, 1995) for calendar year 1989, the reference in such section to July 1 shall be treated as a reference to September 1.
 
 #### (c) Import restrictions under Agricultural Adjustment Act
 
@@ -56,7 +56,7 @@
 
 &emsp;(ii) would have affected tariff treatment if they had been published during the period of the conversion of the old Schedules into the format of the Convention.
 
-> No later than September 1, 1990, the Commission shall report the results of the investigation to the President, the Committee on Ways and Means, and the Committee on Finance, and shallrecommend those changes to the Harmonized Tariff Schedule that the Commission would have recommended if the final decisions concerned had been made before the conversion into the format of the Convention occurred.
+> No later than September 1, 1990, the Commission shall report the results of the investigation to the President, the Committee on Ways and Means, and the Committee on Finance, and shall recommend those changes to the Harmonized Tariff Schedule that the Commission would have recommended if the final decisions concerned had been made before the conversion into the format of the Convention occurred.
 
 (3) The President shall review all changes recommended by the Commission under paragraph (2)(B) and shall, as soon as practicable, proclaim such of those changes, if any, which he decides are necessary or appropriate to conform such Schedule to the final judicial decisions. Any such change shall be effective with respect to—
 
@@ -66,13 +66,23 @@
 
 (4) If any protest or petition referred to in paragraph (1)(A) is not sustained in whole or in part by a final judicial decision, the entries subject to that petition or protest and made before January 1, 1989, shall be liquidated or reliquidated, as appropriate, in accordance with the final judicial decision under the old Schedules.
 
-(Pub. L. 100–418, title I, §1211, Aug. 23, 1988, 102 Stat. 1153.)
+(Pub. L. 100–418, title I, §1211, Aug. 23, 1988, 102 Stat. 1153; Pub. L. 104–188, title I, §1954(a)(1), Aug. 20, 1996, 110 Stat. 1927.)
 
 #### References in Text
 
 The Harmonized Tariff Schedule, referred to in subsecs. (a)(1), (c), and (d)(2)(B), (3), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of this title.
 
 This chapter, referred to in subsec. (d)(1), was in the original “this subtitle”, meaning subtitle B (§§1201–1217) of title I of Pub. L. 100–418, which is classified principally to this chapter. For complete classification of this subtitle to the Code, see References in Text note set out under section 3001 of this title and Tables.
+
+#### Amendments
+
+1996—Subsec. (b)(1). Pub. L. 104–188, §1954(a)(1), inserted “(as in effect on July 31, 1995)” after “of this title”.
+
+Subsec. (b)(2). Pub. L. 104–188, §1954(a)(2), inserted “(as in effect on July 31, 1995)” after “of this title”.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–188 applicable to articles entered on or after Oct. 1, 1996, with provisions relating to retroactive application, see section 1953 of Pub. L. 104–188, set out as an Effective Date note under section 2461 of this title.
 
 #### Effective Date
 

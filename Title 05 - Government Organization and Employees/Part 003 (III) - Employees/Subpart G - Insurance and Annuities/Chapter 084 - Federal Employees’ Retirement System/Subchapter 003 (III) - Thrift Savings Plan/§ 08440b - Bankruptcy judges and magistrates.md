@@ -14,17 +14,17 @@
 
 (B) Section 8433(b) of this title applies to any bankruptcy judge or magistrate who elects to make contributions to the Thrift Savings Fund under subsection (a) of this section and who retires before attaining age 65 but is entitled, upon attaining age 65, to an annuity under section 377 of title 28 or section 2(c) of the Retirement and Survivors Annuities for Bankruptcy Judges and Magistrates Act of 1988.
 
-(C) Section 8433(b) of this title applies to any bankruptcy judge or magistrate who elects to make contributions to the Thrift Savings Fund under subsection (a) of this section and who retires before becoming entitled to an immediate annuity, or an annuity upon attaining age 65, under section 377 of title 28 or section 2(c) of the Retirement and Survivors’ Annuities for Bankruptcy Judges and Magistrates Act of 1988.
+(C) Section 8433(b) of this title applies to any bankruptcy judge or magistrate who elects to make contributions to the Thrift Savings Fundunder subsection (a) of this section and who retires before becoming entitled to an immediate annuity, or an annuity upon attaining age 65, under section 377 of title 28 or section 2(c) of the Retirement and Survivors’ Annuities for Bankruptcy Judges and Magistrates Act of 1988.
 
 (5) With respect to bankruptcy judges and magistrates to whom this section applies, any of the actions described under paragraph (4)(A), (B), or (C) shall be considered a separation from service for purposes of this subchapter and subchapter VII.
 
 (6) For purposes of this section, the terms “retirement” and “retire” include removal from office under section 377(d) of title 28 on the sole ground of mental or physical disability.
 
-(7) In the case of a bankruptcy judge or magistrate who receives a distribution from the Thrift Savings Plan and who later receives an annuity under section 377 of title 28, that annuity shall be offset by an amount equal to the amount which represents the Government's contribution to that person's Thrift Savings Account, without regard to earnings attributable to that amount. Where such an offset would exceed 50 percent of the annuity to be received in the first year, the offset may be divided equally over the first 2 years in which that person receives the annuity.
+(7) In the case of a bankruptcy judge or magistrate who receives a distribution from the Thrift Savings Plan and who later receives an annuity under section 377 of title 28, that annuity shall be offset by an amount equal to the amount of the distribution which represents the Government's contribution to that person's Thrift Savings Account, without regard to earnings attributable to that amount. Where such an offset would exceed 50 percent of the annuity to be received in the first year, the offset may be divided equally over the first 2 years in which that person receives the annuity.
 
-(8) Notwithstanding paragraph (4), if any bankruptcy judge or magistrate retires under circumstances making such bankruptcy judge or magistrate eligible to make an election under subsection (b) of section 8433, and such bankruptcy judge's or magistrate's nonforfeitable account balance is $3,500 or less, the Executive Director shall pay the nonforfeitable account balance to the participant in a single payment unless the bankruptcy judge or magistrate elects, at such time and otherwise in such manner as the Executive Director prescribes, one of the options available under such subsection (b).
+(8) Notwithstanding paragraph (4), if any bankruptcy judge or magistrate retires under circumstances making such bankruptcy judge or magistrate eligible to make an election under subsection (b) of section 8433, and such bankruptcy judge's or magistrate's nonforfeitable account balance is less than an amount that the Executive Director prescribes by regulation, the Executive Director shall pay the nonforfeitable account balance to the participant in a single payment.
 
-(Added Pub. L. 100–659, §7(a), Nov. 15, 1988, 102 Stat. 3919, §8440a; renumbered §8440b and amended Pub. L. 101–335, §§3(b)(3), 6(b)(3), 9(a), July 17, 1990, 104 Stat. 320, 324, 326; Pub. L. 103–226, §9(f), Mar. 30, 1994, 108 Stat. 120.)
+(Added Pub. L. 100–659, §7(a), Nov. 15, 1988, 102 Stat. 3919, §8440a; renumbered §8440b and amended Pub. L. 101–335, §§3(b)(3), 6(b)(3), 9(a), July 17, 1990, 104 Stat. 320, 324, 326; Pub. L. 103–226, §9(f), Mar. 30, 1994, 108 Stat. 120; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §659 \[title II, §205(b)\]\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–372, 3009–377.)
 
 #### References in Text
 
@@ -36,7 +36,13 @@ Another section 8440b was renumbered section 8440c of this title.
 
 #### Amendments
 
-<b>1994</b>—Subsec. (b)(4)(B). Pub. L. 103–226, §9(f)(1), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “Section 8433(c) of this title applies to any bankruptcy judge or magistrate who elects to make contributions to the Thrift Savings Fund under subsection (a) of this section and who retires before attaining age 65 but is entitled, upon attaining age 65, to an annuity under section 377 of title 28 or section 2(c) of the Retirement and Survivors’ Annuities for Bankruptcy Judges and Magistrates Act of 1988; except that the period described in paragraph (3) of section 8433(c) commences on or after the date on which payment of the bankruptcy judge's or magistrate's annuity under section 377 of title 28 commences.”
+1996—Subsec. (b)(7). Pub. L. 104–208, §101(f) \[title VI, §659 \[title II, §205(b)(1)\]\], inserted “of the distribution” after “equal to the amount” in first sentence.
+
+Subsec. (b)(8). Pub. L. 104–208, §101(f) \[title VI, §659 \[title II, §205(b)(2)(A)\]\], substituted “less than an amount that the Executive Director prescribes by regulation” for “$3,500 or less”.
+
+Pub. L. 104–208, §101(f) \[title VI, §659 \[title II, §205(b)(2)(B)\]\], which directed that par. (8) be amended by striking out “unless the bankruptcy judge or magistrate elects, at such time and otherwise in such manner as the Executive Director prescribes, one of the options available under subsection (b)”, was executed by striking out “unless the bankruptcy judge or magistrate elects, at such time and otherwise in such manner as the Executive Director prescribes, one of the options available under such subsection (b)” before period at end, to reflect the probable intent of Congress.
+
+1994—Subsec. (b)(4)(B). Pub. L. 103–226, §9(f)(1), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “Section 8433(c) of this title applies to any bankruptcy judge or magistrate who elects to make contributions to the Thrift Savings Fund under subsection (a) of this section and who retires before attaining age 65 but is entitled, upon attaining age 65, to an annuity under section 377 of title 28 or section 2(c) of the Retirement and Survivors’ Annuities for Bankruptcy Judges and Magistrates Act of 1988; except that the period described in paragraph (3) of section 8433(c) commences on or after the date on which payment of the bankruptcy judge's or magistrate's annuity under section 377 of title 28 commences.”
 
 Subsec. (b)(4)(C). Pub. L. 103–226, §9(f)(2), substituted “Section 8433(b)” for “Section 8433(d)”.
 
@@ -50,7 +56,7 @@ Pub. L. 103–226, §9(f)(4), redesignated par. (9) as (8) and struck out former
 
 Subsec. (b)(9). Pub. L. 103–226, §9(f)(4), redesignated par. (9) as (8).
 
-<b>1990</b>—Pub. L. 101–335, §9(a), renumbered section 8440a of this title as this section.
+1990—Pub. L. 101–335, §9(a), renumbered section 8440a of this title as this section.
 
 Subsec. (b)(7). Pub. L. 101–335, §3(b)(3), redesignated par. (8) as (7) and struck out former par. (7) which read as follows: “Sums contributed pursuant to this section by bankruptcy judges or magistrates, as well as all previous contributions to the Thrift Savings Fund by those bankruptcy judges and magistrates, and earnings attributable to such sums and contributions, may be invested and reinvested only in the Government Securities Investment Fund established under section 8438(b)(1)(A) of this title.”
 
@@ -58,7 +64,11 @@ Subsec. (b)(8), (9). Pub. L. 101–335, §6(b)(3), added pars. (8) and (9). Form
 
 #### Change of Name
 
-Reference to United States magistrate or to magistrate deemed to refer to United States magistrate judge pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
+Reference to United States magistrate or to magistrate deemed to refer to United States magistrate judge pursuant to section 321 of Pub. L. 101–650, set outas a note under section 631 of Title 28, Judiciary and Judicial Procedure.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–208 effective Sept. 30, 1996, and withdrawals and elections as provided under such amendment to be made at earliest practicable date as determined by Executive Director in regulations, see section 101(f) \[title VI, §659 \[title II, §207\]\] of Pub. L. 104–208, set out as a note under section 5545a of this title.
 
 #### Effective Date of 1994 Amendment
 

@@ -122,13 +122,15 @@ Amendment by Pub. L. 100–399 effective as if enacted immediately after enactme
 
 #### Deposit of Funds Reimbursed to Comptroller General to Appropriation of General Accounting Office
 
-Pub. L. 104–53, title II, Nov. 19, 1995, 109 Stat. 534, provided in part: “That notwithstanding 31 U.S.C. 9105 hereafter amounts reimbursed to the Comptroller General pursuant to that section shall be deposited to the appropriation of the General Accounting Office then available and remain available until expended”.
+Pub. L. 104–197, title II, Sept. 16, 1996, 110 Stat. 2411, provided in part: “That notwithstanding 31 U.S.C. 9105 hereafter amounts reimbursed to the Comptroller General pursuant to that section shall be deposited to the appropriation of the General Accounting Office then available and remain available until expended”.
 
 Similar provisions were contained in the following prior appropriation act:
+
+Pub. L. 104–53, title II, Nov. 19, 1995, 109 Stat. 534.
 
 Pub. L. 103–283, title II, July 22, 1994, 108 Stat. 1440.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 9106 of this title; title 12 sections 1431, 1441, 1441a, 1441b, 1789, 4716; title 16 sections 831n–4, 838i.
+This section is referred to in section 9106 of this title; title 12 sections 1431, 1441, 1441a, 1441b, 1789, 4716; title 16 sections 831n–4, 838i; title 22 section 3723.
 

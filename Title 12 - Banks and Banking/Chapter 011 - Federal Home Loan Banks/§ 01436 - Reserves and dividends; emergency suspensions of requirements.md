@@ -26,7 +26,7 @@ Notwithstanding subsection (a) of this section or any other provision of this ch
 
 &emsp;Notwithstanding any payment of dividends by any Federal Home Loan Bank pursuant to an authorization by the Board under paragraph (1), the applicable provisions of section 1441 of this title shall continue to apply with respect to such bank, and to such bank's investment in the Financing Corporation, in the same manner and to the same extent as if such payment had not been made.
 
-(July 22, 1932, ch. 522, §16, 47 Stat. 736; Aug. 2, 1954, ch. 649, title II, §204(a), 68 Stat. 622; Sept. 2, 1964, Pub. L. 88–560, title VII, §701(d)(2), 78 Stat.800; Aug. 1, 1968, Pub. L. 90–448, title VIII, §807<i>(l</i>), 82 Stat. 545; Aug. 22, 1974, Pub. L. 93–383, title VIII, §805(c)(3), 88 Stat. 727; Oct. 15, 1982, Pub. L. 97–320, title I, §124, 96 Stat. 1485; Aug. 10, 1987, Pub. L. 100–86, title III, §306(a), 101 Stat. 600; Aug. 9, 1989, Pub. L. 101–73, title VII, §§701(b)(1), (3)(A), 724(a), 103 Stat. 412, 428.)
+(July 22, 1932, ch. 522, §16, 47 Stat. 736; Aug. 2, 1954, ch. 649, title II, §204(a), 68 Stat. 622; Sept. 2, 1964, Pub. L. 88–560, title VII, §701(d)(2), 78 Stat. 800; Aug. 1, 1968, Pub. L. 90–448, title VIII, §807(<i>l</i>), 82 Stat. 545; Aug. 22, 1974, Pub. L. 93–383, title VIII, §805(c)(3), 88 Stat. 727; Oct. 15, 1982, Pub. L. 97–320, title I, §124, 96 Stat. 1485; Aug. 10, 1987, Pub. L. 100–86, title III, §306(a), 101 Stat. 600; Aug. 9, 1989, Pub. L. 101–73, title VII, §§701(b)(1), (3)(A), 724(a), 103 Stat. 412, 428.)
 
 #### Amendments
 

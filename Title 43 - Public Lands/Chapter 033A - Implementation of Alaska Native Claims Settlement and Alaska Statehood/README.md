@@ -32,10 +32,10 @@
 | (i) | Adjudication. |
 | (j) | Clarification of land status outside units. |
 | (k) | Interim provisions. |
-| (<i>l)</i> | Existing rights. |
+| (<i>l</i>) | Existing rights. |
 | (m) | Extinguishment of certain time extensions. |
 | (n) | Effect on third-party rights. |
-| (<i>o)</i> | Status of lands within units. |
+| (<i>o</i>) | Status of lands within units. |
 | (p) | PYK Line. |
 | [1636\.](%C2%A7%2001636%20-%20Alaska%20land%20bank.md) | Alaska land bank. |
 | (a) | Establishment; agreements. |

@@ -2,7 +2,7 @@
 
 #### (a) Civil
 
-(1) Any person who violates a provision of section 2614 or 2689 of this title shall be liable tothe United States for a civil penalty in an amount not to exceed $25,000 for each such violation. Each day such a violation continues shall, for purposes of this subsection, constitute a separate violation of section 2614 or 2689 of this title.
+(1) Any person who violates a provision of section 2614 or 2689 of this title shall be liable to the United States for a civil penalty in an amount not to exceed $25,000 for each such violation. Each day such a violation continues shall, for purposes of this subsection, constitute a separate violation of section 2614 or 2689 of this title.
 
 (2)(A) A civil penalty for a violation of section section 2614 or 2689 of this title shall be assessed by the Administrator by an order made on the record after opportunity (provided in accordance with this subparagraph) for a hearing in accordance with section 554 of title 5. Before issuing such an order, the Administrator shall give written notice to the person to be assessed a civil penalty under such order of the Administrator's proposal to issue such order and provide such person an opportunity to request, within 15 days of the date the notice is received by such person, such a hearing on the order.
 
@@ -32,5 +32,5 @@ Any person who knowingly or willfully violates any provision of section 2614 or 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2619, 2629, 2647 of this title; title 42 sections 4852d, 11045.
+This section is referred to in sections 2619, 2629, 2647 of this title; title 21 section 346a; title 42 sections 4852d, 11045.
 

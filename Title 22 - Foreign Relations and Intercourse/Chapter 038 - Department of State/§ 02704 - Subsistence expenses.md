@@ -8,7 +8,7 @@ The Secretary of State may pay, without regard to section 5702 of title 5, subsi
 
 1985—Pub. L. 99–93 substituted “special agents” for “security officers”.
 
-1984—Pub. L. 98–533 inserted “The authorities available to the Secretary of State under this section with respect to the Department of State shall be available to the Director of the United States Information Agency and the Director of the United States International Development Cooperation Agency with respect to their respective agencies, except that the authority of clause (2) shall be available with respect to those agencies only in the case of members of the Foreign Service and employees of the agency who are performing security-related functions abroad.”
+1984—Pub. L. 98–533 inserted “The authorities available to the Secretary of State under this section with respect to the Department of State shall be available to the Director of the United States Information Agency and the Director of the United States International Development Cooperation Agency with respect to their respective agencies, except that the authority of clause (2) shall be available with respect to those agencies only in the case of members of the Foreign Service andemployees of the agency who are performing security-related functions abroad.”
 
 #### Effective Date
 

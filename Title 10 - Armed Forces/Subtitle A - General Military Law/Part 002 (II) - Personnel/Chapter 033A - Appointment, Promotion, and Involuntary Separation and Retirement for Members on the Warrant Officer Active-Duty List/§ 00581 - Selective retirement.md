@@ -10,9 +10,13 @@
 
 (2) Such regulations shall establish procedures to exclude from consideration by the board any warrant officer who has been approved for voluntary retirement, or who is to be mandatorily retired under any other provision of law, during the fiscal year in which the board is convened or during the following fiscal year. An officer not considered by a selection board convened under section 573(c) of this title under such regulations because the officer has been approved for voluntary retirement shall be retired on the date approved for the retirement of such officer as of the convening date of such selection board unless the Secretary concerned approves a modification of such date in order to prevent a personal hardship for the officer or for other humanitarian reasons.
 
-(Added Pub. L. 102–190, div. A, title XI, §1112(a), Dec. 5, 1991, 105 Stat. 1500; amended Pub. L. 102–484, div. A, title X, §1052(5), Oct. 23, 1992, 106 Stat. 2499; Pub. L. 103–337, div. A, title V, §541(b)(6), Oct. 5, 1994, 108 Stat. 2765.)
+(e) The Secretary concerned may defer for not more than 90 days the retirement of an officer otherwise approved for early retirement under this section in order to prevent a personal hardship to the officer or for other humanitarian reasons. Any such deferral shall be made on a case-by-case basis considering the circumstances of the case of the particular officer concerned. The authority of the Secretary to grant such a deferral may not be delegated.
+
+(Added Pub. L. 102–190, div. A, title XI, §1112(a), Dec. 5, 1991, 105 Stat. 1500; amended Pub. L. 102–484, div. A, title X, §1052(5), Oct. 23, 1992, 106 Stat. 2499; Pub. L. 103–337, div. A, title V, §541(b)(6), Oct. 5, 1994, 108 Stat. 2765; Pub. L. 104–106, div. A, title V, §504(a), Feb. 10, 1996, 110 Stat. 295.)
 
 #### Amendments
+
+1996—Subsec. (e). Pub. L. 104–106 added subsec. (e).
 
 1994—Subsec. (a). Pub. L. 103–337 struck out “in the Army, Navy, Air Force, or Marine Corps” after “A regular warrant officer”.
 

@@ -6,7 +6,9 @@ The Secretary of Transportation may carry out under this chapter demonstration p
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -20,5 +22,5 @@ Sept. 3, 1982, Pub. L. 97–248, §506(b)(1), 96 Stat. 678; restated Dec. 30, 19
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 48102, 49101, 49102, 49105 of this title; title 26 section 4261.
+This section is referred to in sections 44501, 48102, 50101, 50102, 50105 of this title; title 26 section 4261.
 

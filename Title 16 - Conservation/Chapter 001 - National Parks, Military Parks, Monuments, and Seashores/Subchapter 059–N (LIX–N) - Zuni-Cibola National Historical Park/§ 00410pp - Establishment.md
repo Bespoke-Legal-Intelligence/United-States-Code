@@ -6,7 +6,7 @@ In order to preserve and protect for the benefit of present and future generatio
 
 #### (b) Effective date
 
-This section shall take effect on the date of publication by the Secretary, pursuant to section 410pp–1 of this title, of a notice that theSecretary has accepted a leasehold interest that meets the requirements of this subchapter.
+This section shall take effect on the date of publication by the Secretary, pursuant to section 410pp–1 of this title, of a notice that the Secretary has accepted a leasehold interest that meets the requirements of this subchapter.
 
 #### (c) Termination
 
@@ -16,7 +16,7 @@ This section shall terminate and shall be ineffective 6 years after October 31, 
 
 #### Termination of Section
 
-<i>Section terminated pursuant to subsection (c), and park was not established, because a leasehold agreement with the Zuni Tribe was not reached within the mandated time period.</i>
+<i>Section terminated pursuant to subsection (c), and park was not established, because a lease</i><i>hold agreement with the Zuni Tribe was not reached within the mandated time period.</i>
 
 #### References in Text
 

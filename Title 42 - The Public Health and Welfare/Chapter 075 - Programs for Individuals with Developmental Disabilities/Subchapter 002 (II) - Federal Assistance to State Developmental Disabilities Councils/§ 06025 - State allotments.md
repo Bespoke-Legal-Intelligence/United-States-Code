@@ -38,7 +38,7 @@
 
 #### (B) Reduction of allotment
 
-&emsp;&emsp;Notwithstanding subparagraph (A), if the aggregate of the amounts to be allotted to each State pursuant to subparagraph (A) in any fiscal year exceeds the total amount appropriated under section 6030 of this title for such fiscal year, the amount to be allotted to a State for such fiscal year shall be an amount which bears the same ratio to the amount which is to be allotted to the Statepursuant to such subparagraph as the total amount appropriated under section 6030 of this title for such fiscal years bears to the total of the amount required to be appropriated under such section for allotments to provide each State with the allotment required by such subparagraph.
+&emsp;&emsp;Notwithstanding subparagraph (A), if the aggregate of the amounts to be allotted to each State pursuant to subparagraph (A) in any fiscal year exceeds the total amount appropriated under section 6030 of this title for such fiscal year, the amount to be allotted to a State for such fiscal year shall be an amount which bears the same ratio to the amount which is to be allotted to the State pursuant to such subparagraph as the total amount appropriated under section 6030 of this title for such fiscal years bears to the total of the amount required to be appropriated under such section for allotments to provide each State with the allotment required by such subparagraph.
 
 #### (4) Minimum allotment for appropriations in excess of $75,000,000
 
@@ -68,7 +68,7 @@
 
 #### (6) Increase in allotments
 
-&emsp;In any case in which the total amount appropriated under section 6030 of this title for a fiscal year exceeds the total amount appropriated under such section for the preceding fiscal year by a percentage greater than the most recent percentage change in the Consumer Price Index published by the Secretary of Labor under section 720(c)(1) of title 29, the Secretary shall increase each of the minimum allotments under paragraphs (3) and (4) by an amount which bears the same ratio to the amount of such minimum allotment (including any increases in such minimum allotment under this paragraph for prior fiscal years) as the amount which is equal to the difference between—
+&emsp;In any case in which the total amount appropriated under section 6030 of this title for a fiscal year exceeds the total amount appropriated under such section for the preceding fiscal year by a percentage greater than the most recent percentage change in the Consumer Price Index published by the Secretary of Labor under section 720(c)(1) of title 29, the Secretary shall increase each of the minimum allotments under paragraphs (3) and (4) by an amount which bears the same ratio to the amount of such minimum allotment (including any increases in such minimum allotmentunder this paragraph for prior fiscal years) as the amount which is equal to the difference between—
 
 &emsp;&emsp;(A) the total amount appropriated under section 6030 of this title for the fiscal year for which the increase in minimum allotment is being made, minus
 
@@ -96,7 +96,7 @@ The amount of an allotment to a State for a fiscal year which the Secretary dete
 
 #### References in Text
 
-For Oct. 1, 1994, as the date the Compact of Free Association with Palau takes effect, referred to in subsec.\(a)(3)(A)(i), (4)(A)(i), see Proc. No. 6726, Sept. 27, 1994, 59 F.R. 49777, set out as a note under section 1931 of Title 48, Territories and Insular Possessions.
+For Oct. 1, 1994, as the date the Compact of Free Association with Palau takes effect, referred to in subsec. (a)(3)(A)(i), (4)(A)(i), see Proc. No. 6726, Sept. 27, 1994, 59 F.R. 49777, set out as a note under section 1931 of Title 48, Territories and Insular Possessions.
 
 #### Prior Provisions
 
@@ -142,7 +142,7 @@ Subsec. (e). Pub. L. 103–230, §206(b)(3), (6), redesignated subsec. (d) as (e
 
 &emsp;“(i) to each of American Samoa, Guam, the Virgin Islands, the Commonwealth of the Northern Mariana Islands, or the Trust Territory of the Pacific Islands may not be less than $160,000, and
 
-&emsp;“(ii) to any other State may not be less than the greater of $300,000, or the amount of the allotment (determined without regard to subsection (d) of this section) received by the State for the fiscal year ending September 30, 1984.
+&emsp;“(ii) to any other State may not be less than the greater of $300,000, or the amount of the allotment\(determined without regard to subsection (d) of this section) received by the State for the fiscal year ending September 30, 1984.
 
 “(B) Notwithstanding subparagraph (A), if the aggregate of the amounts to be allotted to each State pursuant to subparagraph (A) in any fiscal year exceeds the total amount appropriated under section 6030 of this title for such fiscal year, the amount to be allotted to a State for such fiscal year shall be an amount which bears the same ratio to the amount which is to be allotted to the State pursuant to such subparagraph as the total amount appropriated under section 6030 of this title for such fiscal year bears to the total of the amount required to be appropriated under such section for allotments to provide each State with the allotment required by such subparagraph.”
 

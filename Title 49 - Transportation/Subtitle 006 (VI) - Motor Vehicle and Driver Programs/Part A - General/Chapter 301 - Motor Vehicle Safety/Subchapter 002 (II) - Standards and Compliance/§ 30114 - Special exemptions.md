@@ -6,7 +6,9 @@ The Secretary of Transportation may exempt a motor vehicle or item of motor vehi
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

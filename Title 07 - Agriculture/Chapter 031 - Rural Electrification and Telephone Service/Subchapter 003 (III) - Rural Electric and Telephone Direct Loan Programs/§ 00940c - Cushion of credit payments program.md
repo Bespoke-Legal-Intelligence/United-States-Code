@@ -34,7 +34,7 @@
 
 #### (A) Maintenance of account
 
-&emsp;&emsp;The Secretary shall maintain a subaccount within the Rural Electrification and Telephone Revolving Fund to which shall becredited, on a monthly basis, a sum determined by multiplying the outstanding cushion of credit payments made after October 1, 1987, by the difference (converted to a monthly basis) between the average weighted interest rate paid on outstanding certificates of beneficial ownership issued by the Fund and the 5 percent rate of interest provided to borrowers on cushion of credit payments.
+&emsp;&emsp;The Secretary shall maintain a subaccount within the Rural Electrification and Telephone Revolving Fund to which shall be credited, on a monthly basis, a sum determined by multiplying the outstanding cushion of credit payments made after October 1, 1987, by the difference (converted to a monthly basis) between the average weighted interest rate paid on outstanding certificates of beneficial ownership issued by the Fund and the 5 percent rate of interest provided to borrowers on cushion of credit payments.
 
 #### (B) Grants
 

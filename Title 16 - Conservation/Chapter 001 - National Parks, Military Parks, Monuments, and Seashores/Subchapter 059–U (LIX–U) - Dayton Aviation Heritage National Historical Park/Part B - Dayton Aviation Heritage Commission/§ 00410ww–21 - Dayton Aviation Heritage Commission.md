@@ -10,17 +10,17 @@ The Commission shall consist of 13 members as follows:
 
 &emsp;(1) 3 members appointed by the Secretary, who shall have demonstrated expertise in aviation history, black history and literature, aviation technology, or historic preservation, at least one of whom shall represent the National Park Service.
 
-&emsp;(2) 3 members appointed by the Secretary from recommendations submitted by the Governor of the State of Ohio, who shall have demonstrated expertise in aviation history, black history and literature, aviation technology, or historic preservation, at least one of whom shall represent the Ohio Historical Society.
+&emsp;(2) 3 members appointed by the Secretary after consideration of recommendations submitted by the Governor of the State of Ohio, who shall have demonstrated expertise in aviation history, black history and literature, aviation technology, or historic preservation, at least one of whom shall represent the Ohio Historical Society.
 
 &emsp;(3) 1 member appointed by the Secretary of Defense, who shall represent Wright-Patterson Air Force Base.
 
-&emsp;(4) 3 members appointed by the Secretary from recommendations submitted by the City Commission of Dayton, Ohio, at least one of whom shall reside near the core parcel of the park (as described in section 410ww(b)(1) of this title).
+&emsp;(4) 3 members appointed by the Secretary after consideration of recommendations submitted by the City Commission of Dayton, Ohio, at least one of whom shall reside near the core parcel of the park (as described in section 410ww(b)(1) of this title).
 
-&emsp;(5) 1 member appointed by the Secretary from recommendations submitted by the Board of Commissioners of Montgomery County, Ohio.
+&emsp;(5) 1 member appointed by the Secretary after consideration of recommendations submitted by the Board of Commissioners of Montgomery County, Ohio.
 
-&emsp;(6) 1 member appointed by the Secretary from recommendations submitted by the Board of Commissioners of Greene County, Ohio.
+&emsp;(6) 1 member appointed by the Secretary after consideration of recommendations submitted by the Board of Commissioners of Greene County, Ohio.
 
-&emsp;(7) 1 member appointed by the Secretary from recommendations submitted by the City Council of Fairborn, Ohio.
+&emsp;(7) 1 member appointed by the Secretary after consideration of recommendations submitted by the City Council of Fairborn, Ohio.
 
 #### (c) Terms
 
@@ -62,11 +62,15 @@ Section 14(b) of the Federal Advisory Committee Act (5 U.S.C. App.) shall not ap
 
 The Commission shall cease to exist on January 1, 2004.
 
-(Pub. L. 102–419, title II, §201, Oct. 16, 1992, 106 Stat. 2144.)
+(Pub. L. 102–419, title II, §201, Oct. 16, 1992, 106 Stat. 2144; Pub. L. 104–333, div. I, title VIII, §811, Nov. 12, 1996, 110 Stat. 4189.)
 
 #### References in Text
 
-Section 14(b) of the Federal Advisory Committee Act, referred to in subsec. (i), is section 14(b) of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
+Section 14(b) of the Federal Advisory Committee Act, referred to in subsec. (i), is section 14(b) of Pub. L.92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### Amendments
+
+1996—Subsec. (b)(2), (4) to (7). Pub. L. 104–333 substituted “after consideration of recommendations” for “from recommendations” wherever appearing.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “subsection”.</i>
 

@@ -32,7 +32,7 @@ In conducting the program assisted under this part, service delivery areas shall
 
 &emsp;(5) the Wagner-Peyser Act (29 U.S.C. 49 et seq.);
 
-&emsp;(6) part F of title IV of the Social Security Act (JOBS) (42 U.S.C. 681 et seq.);
+&emsp;(6) the portion of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\] relating to work activities;
 
 &emsp;(7) the Food Stamp Act <sup>1</sup> (7 U.S.C. 2011 et seq.);
 
@@ -60,7 +60,7 @@ In conducting a program serving individuals specified in section 1643(g) of this
 
 &emsp;(5) assurances that the resources provided under this part shall be used to supplement and not supplant existing sources of funds.
 
-(Pub. L. 97–300, title II, §265, as added Pub. L. 102–367, title II, §208, Sept. 7, 1992, 106 Stat. 1071; amended Pub. L. 103–382, title III, §391(n)(4), Oct. 20, 1994, 108 Stat. 4024.)
+(Pub. L. 97–300, title II, §265, as added Pub. L. 102–367, title II, §208, Sept. 7, 1992, 106 Stat. 1071; amended Pub. L. 103–382, title III, §391(n)(4), Oct. 20, 1994, 108 Stat. 4024; Pub. L. 104–193, title I, §110(n)(10), Aug. 22, 1996, 110 Stat. 2174.)
 
 #### References in Text
 
@@ -72,7 +72,7 @@ The Individuals with Disabilities Education Act, referred to in subsec. (b)(4), 
 
 The Wagner-Peyser Act, referred to in subsec. (b)(5), is act June 6, 1933, ch. 49, 48 Stat. 113, as amended, which is classified generally to chapter 4B (§49 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 49 of this title and Tables.
 
-The Social Security Act, referred to in subsec. (b)(6), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part F of title IV of the Act is classified generally to part F (§681 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (b)(6), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title IV of the Act is classified generally to subchapter IV (§601 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 The Food Stamp Act of 1977, referred to in subsec. (b)(7), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, as amended, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
 
@@ -82,7 +82,13 @@ The Stewart B. McKinney Homeless Assistance Act, referred to in subsec. (b)(9), 
 
 #### Amendments
 
+1996—Subsec. (b)(6). Pub. L. 104–193 added par. (6) and struck out former par. (6) which read as follows: “part F of title IV of the Social Security Act (JOBS) (42 U.S.C. 681 et seq.);”.
+
 1994—Subsec. (b)(2). Pub. L. 103–382 substituted “parts A through C” for “parts A through D of chapter 1”.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–193 effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as an Effective Date note under section 601 of Title 42, The Public Health and Welfare.
 
 #### Effective Date
 

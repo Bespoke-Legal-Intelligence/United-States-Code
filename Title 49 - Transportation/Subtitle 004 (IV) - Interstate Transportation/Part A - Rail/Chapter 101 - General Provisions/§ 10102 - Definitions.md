@@ -106,7 +106,7 @@ Section 10381, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1357, related to Office
 
 Section 10382, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1357; Pub. L. 96–258, §1(3), June 3, 1980, 94 Stat. 425, related to duties and standing of Office of Rail Public Counsel.
 
-Section 10383, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1357; Pub. L. 103–272, §4(j)(14), July 5, 1994, 108 Stat. 1369,related to duties and appointment of Director of Office of Rail Public Counsel.
+Section 10383, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1357; Pub. L. 103–272, §4(j)(14), July 5, 1994, 108 Stat. 1369, related to duties and appointment of Director of Office of Rail Public Counsel.
 
 Section 10384, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1358, related to staff of Office of Rail Public Counsel.
 

@@ -72,7 +72,7 @@ The following Federal standards are hereby established:
 
 #### (8) Investments in conservation and demand management
 
-&emsp;The rates allowed to be charged by a State regulated electric utility shall be such that the utility's investment in and expenditures for energy conservation, energy efficiency resources, and other demand side management measures are at least as profitable, giving appropriate consideration to income lost from reduced sales due to investments in and expenditures for conservation and efficiency, as its investments in and expenditures for the construction of new generation, transmission, and distribution equipment. Such energy conservation, energy efficiency resources and other demand side management measures shall be appropriately monitored and evaluated.
+&emsp;The rates allowed to be charged by a State regulated electric utility shall be such that the utility's investment in and expenditures for energy conservation, energy efficiency resources, and other demand side management measures are at least as profitable, giving appropriate consideration to income lost from reduced sales due to investments in and expenditures for conservation and efficiency, as its investments in and expenditures for theconstruction of new generation, transmission, and distribution equipment. Such energy conservation, energy efficiency resources and other demand side management measures shall be appropriately monitored and evaluated.
 
 #### (9) Energy efficiency investments in power generation and supply
 
@@ -82,7 +82,7 @@ The following Federal standards are hereby established:
 
 &emsp;(A) To the extent that a State regulatory authority requires or allows electric utilities for which it has ratemaking authority to consider the purchase of long-term wholesale power supplies as a means of meeting electric demand, such authority shall perform a general evaluation of:
 
-&emsp;&emsp;(i) the potential for increases or decreases in the costs of capital for such utilities, and any resulting increases or decreases in the retail rates paid by electric consumers, thatmay result from purchases of long-term wholesale power supplies in lieu of the construction of new generation facilities by such utilities;
+&emsp;&emsp;(i) the potential for increases or decreases in the costs of capital for such utilities, and any resulting increases or decreases in the retail rates paid by electric consumers, that may result from purchases of long-term wholesale power supplies in lieu of the construction of new generation facilities by such utilities;
 
 &emsp;&emsp;(ii) whether the use by exempt wholesale generators (as defined in section 79z–5a of title 15) of capital structures which employ proportionally greater amounts of debt than the capital structures of such utilities threatens reliability or provides an unfair advantage for exempt wholesale generators over such utilities;
 
@@ -130,7 +130,7 @@ Section 111(e) of Pub. L. 102–486 provided that: “Not later than 2 years aft
 
 &emsp;&emsp;“(C) increased or decreased dependence on particular energy resources; and
 
-&emsp;“(3) a survey of practices and policies under which electric cooperatives prepare integrated resource plans, submit such plans to the Rural Electrification Administration and the extent to which such integrated resource planning is reflected in rates charged to customers.
+&emsp;“(3) a survey of practices and policies under which electric cooperatives prepare integrated resourceplans, submit such plans to the Rural Electrification Administration and the extent to which such integrated resource planning is reflected in rates charged to customers.
 
 > The report shall include an analysis prepared in conjunction with the Federal Trade Commission, of the competitive impact of implementation of energy conservation, energy efficiency, and other demand side management programs by utilities on small businesses engaged in the design, sale, supply, installation, or servicing of similar energy conservation, energy efficiency, or other demand side management measures and whether any unfair, deceptive, or predatory acts exist, or are likely to exist, from implementation of such programs.”
 

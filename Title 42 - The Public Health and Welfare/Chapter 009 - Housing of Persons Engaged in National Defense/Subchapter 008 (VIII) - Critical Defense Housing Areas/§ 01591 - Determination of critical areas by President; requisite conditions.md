@@ -8,7 +8,7 @@
 
 &emsp;(2) substantial in-migration of defense workers or military personnel is required to carry out activities at such plant or installation; and
 
-&emsp;(3) a substantial shortage of housing required for such defense workers or military personnel exists or impends which impedes orthreatens to impede activities at such defense plant or installation, or that community facilities or services required for such defense workers or military personnel are not available or are insufficient, or both, as the case may be.
+&emsp;(3) a substantial shortage of housing required for such defense workers or military personnel exists or impends which impedes or threatens to impede activities at such defense plant or installation, or that community facilities or services required for such defense workers or military personnel are not available or are insufficient, or both, as the case may be.
 
 (Sept. 1, 1951, ch. 378, title I, §101, 65 Stat. 293; June 30, 1953, ch. 170, §15, 67 Stat. 125.)
 

@@ -16,7 +16,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 5 U.S.C. 22a.
 
@@ -32,5 +34,5 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-<b>1975</b>—Subsec. (b)(2). Pub. L. 94–183 substituted “3702” for “324”.
+1975—Subsec. (b)(2). Pub. L. 94–183 substituted “3702” for “324”.
 

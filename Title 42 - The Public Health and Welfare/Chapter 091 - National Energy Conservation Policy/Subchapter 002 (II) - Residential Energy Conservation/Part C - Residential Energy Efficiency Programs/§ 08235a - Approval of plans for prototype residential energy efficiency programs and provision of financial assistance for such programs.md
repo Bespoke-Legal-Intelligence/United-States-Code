@@ -10,7 +10,7 @@ The Secretary may approve any plan developed by a State or local government, for
 
 &emsp;(3) the payment by the public utility to the person or persons contracted with under paragraph (1) of a specified price for each unit of energy saved by such utility as a result of the program during the period the contract is in effect, which price is based on the value to the utility of the energy saved;
 
-&emsp;(4) the determination, by a procedure established by the State or local government developing the plan, of the amount of energy savedby a public utility as a result of the program carried out under the plan, which procedure is described in the contract;
+&emsp;(4) the determination, by a procedure established by the State or local government developing the plan, of the amount of energy saved by a public utility as a result of the program carried out under the plan, which procedure is described in the contract;
 
 &emsp;(5) in the case of a regulated public utility, the approval in writing by the State regulatory authority exercising ratemaking authority over such utility of the contract described in paragraph (1), the manner of selection described in paragraph (2), the payment described in paragraph (3), and the procedure described in paragraph (4); and
 

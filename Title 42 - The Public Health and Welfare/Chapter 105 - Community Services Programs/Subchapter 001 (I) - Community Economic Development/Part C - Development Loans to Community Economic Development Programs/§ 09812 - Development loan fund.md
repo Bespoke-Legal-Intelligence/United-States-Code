@@ -10,7 +10,7 @@ The Secretary is authorized to make or guarantee loans (either directly or in co
 
 &emsp;(3) the amount of the loan, together with other funds available, is adequate to assure completion of the project or achievement of the purposes for which the loan is made.
 
-> Loans made by the Secretary pursuant to this section shall bear interest at a rate not less than a rate determined by the Secretary of the Treasury taking into consideration the average market yield on outstanding Treasury obligations of comparable maturity, plus such additional charge, if any, toward covering other costs of the program as the Secretary of Health and Human Services may determine to be consistent with its purposes, except that, for the 5 years following the date in which funds are initially available to the borrower, the rate of interest shall be set at a rate considered appropriate by the Secretary in light of the particular needs of the borrower, which rate shall not belower than 1 percent. All such loans shall be repayable within a period of not more than 30 years.
+> Loans made by the Secretary pursuant to this section shall bear interest at a rate not less than a rate determined by the Secretary of the Treasury taking into consideration the average market yield on outstanding Treasury obligations of comparable maturity, plus such additional charge, if any, toward covering other costs of the program as the Secretary of Health and Human Services may determine to be consistent with its purposes, except that, for the 5 years following the date in which funds are initially available to the borrower, the rate of interest shall be set at a rate considered appropriate by the Secretary in light of the particular needs of the borrower, which rate shall not be lower than 1 percent. All such loans shall be repayable within a period of not more than 30 years.
 
 #### (b) Adjustment of interest rates, moratorium on principal and interest, etc.
 
@@ -30,7 +30,7 @@ The Secretary is authorized to adjust interest rates, grant moratoriums on repay
 
 Chapter 106 of this title, referred to in subsec. (a), was in the original “subtitle B of this title”, meaning subtitle B (§§671–683) of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 511, as amended, known as the Community Services Block Grant Act, which is classified generally to chapter 106 (§9901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9901 of this title and Tables.
 
-The Economic Opportunity Act of 1964, referred to in subsec. (c)(2), is Pub. L. 88–452, Aug. 20, 1964, 78 Stat. 508, as amended. Part A of title III of the Economic Opportunity Act of 1964 was classified generally to part A (§2841 et seq.) of subchapter III of chapter 34 of this title prior to repeal by Pub. L. 97–35, title VI, §683(a), Aug. 13, 1981, 95 Stat. 519. For complete classification of this Act to the Code, see Tables.
+The Economic Opportunity Act of 1964, referred to in subsec. (c)(2), is Pub. L. 88–452, Aug. 20, 1964, 78 Stat. 508, as amended. Part A of title III of the Economic Opportunity Act of 1964 was classified generally to part A\(§2841 et seq.) of subchapter III of chapter 34 of this title prior to repeal by Pub. L. 97–35, title VI, §683(a), Aug. 13, 1981, 95 Stat. 519. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 

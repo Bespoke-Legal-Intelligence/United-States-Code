@@ -1,14 +1,16 @@
 ### §193n. Smithsonian Institution; policing of buildings and grounds
 
-Subject to section 5375 of title 5, the Secretary of the Smithsonian Institution and the Trustees of the National Gallery of Art, or their authorized representatives, may designate employees of their respective agencies as special policemen, without additional compensation for duty in connection with the policing of the respective buildings and grounds specified in section 193v of this title.
+Subject to section 5375 of title 5, the Secretary of the Smithsonian Institution, the Trustees of the National Gallery of Art, and the Trustees of the John F. Kennedy Center for the Performing Arts, or their authorized representatives, may designate employees of their respective agencies as special policemen, without additional compensation for duty in connection with the policing of the respective buildings and grounds specified in section 193v of this title.
 
-(Oct. 24, 1951, ch. 559, §1, 65 Stat. 634; June 30, 1969, Pub. L. 91–34, §2(c), 83 Stat. 41.)
+(Oct. 24, 1951, ch. 559, §1, 65 Stat. 634; June 30, 1969, Pub. L. 91–34, §2(c), 83 Stat. 41; Apr. 26, 1996, Pub. L. 104–134, title I, §101(c) \[title II\], 110 Stat. 1321–156, 1321–193; renumbered title I, May 2, 1996, Pub. L. 104–140, §1(a), 110 Stat. 1327.)
 
 #### Codification
 
 Reference to section 5375 of title 5 substituted in text for section 5365 of title 5 on authority of Pub. L. 95–454, §801(a)(3)(A)(ii), Oct. 13, 1978, 92 Stat. 1221, which redesignated sections 5361 through 5365 of title 5 as sections 5371 through 5375 of title 5.
 
 #### Amendments
+
+1996—Pub. L. 104–134 substituted “Institution, the Trustees of the National Gallery of Art, and the Trustees of the John F. Kennedy Center for the Performing Arts,” for “Institution and the Trustees of the National Gallery of Art,”.
 
 1969—Pub. L. 91–34 inserted provision that appointive power of Secretary and Trustees be subject to section 5365 of title 5.
 

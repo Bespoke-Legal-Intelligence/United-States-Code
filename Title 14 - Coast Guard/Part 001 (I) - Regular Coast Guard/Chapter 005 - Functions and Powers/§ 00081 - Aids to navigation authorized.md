@@ -10,7 +10,7 @@ In order to aid navigation and to prevent disasters, collisions, and wrecks of v
 
 > These aids to navigation other than electronic aids to navigation systems shall be established and operated only within the United States, the waters above the Continental Shelf, the territories and possessions of the United States, the Trust Territory of the Pacific Islands, and beyond the territorial jurisdiction of the United States at places where naval or military bases of the United States are or may be located. The Coast Guard may establish, maintain, and operate aids to maritime navigation under paragraph (1) of this section by contract with any person, public body, or instrumentality.
 
-(Aug. 4, 1949, ch. 393, 63 Stat. 500; June 22, 1951, ch. 150, 65 Stat. 89; Sept. 3, 1954, ch. 1263, §30, 68 Stat. 1237; Aug. 23, 1958, Pub. L. 85–726, title XIV,§1404, 72 Stat. 808; Oct. 14, 1966, Pub. L. 89–662, §1, 80 Stat. 912; Oct. 18, 1976, Pub. L. 94–546, §1(3), 90 Stat. 2519; Oct. 15, 1982, Pub. L. 97–322, title I, §105(a), 96 Stat. 1582.)
+(Aug. 4, 1949, ch. 393, 63 Stat. 500; June 22, 1951, ch. 150, 65 Stat. 89; Sept. 3, 1954, ch. 1263, §30, 68 Stat. 1237; Aug. 23, 1958, Pub. L. 85–726, title XIV, §1404, 72 Stat. 808; Oct. 14, 1966, Pub. L. 89–662, §1, 80 Stat. 912; Oct. 18, 1976, Pub. L. 94–546, §1(3), 90 Stat. 2519; Oct. 15, 1982, Pub. L. 97–322, title I, §105(a), 96 Stat. 1582.)
 
 #### Historical and Revision Notes
 

@@ -16,9 +16,9 @@ Other Projects.—Except as otherwise provided in this title, the Federal share 
 
 (c)
 
-Increased Federal Share for Certain Safety Projects.—The Federal share payable on account of any project for traffic control signalization, safety rest areas, pavement marking, commuter carpooling and vanpooling, or installation of traffic signs, traffic lights, guardrails, impact attenuators, concrete barrier endtreatments, breakaway utility poles, or priority control systems for emergency vehicles at signalized intersections may amount to 100 percent of the cost of construction of such projects; except that not more than 10 percent of all sums apportioned for all the Federal-aid systems for any fiscal year in accordance with section 104 of this title shall be used under this subsection. In this subsection, the term “safety rest area” means an area where motor vehicle operators can park their vehicles and rest, where food, fuel, and lodging services are not available, and that is located on a segment of highway with respect to which the Secretary determines there is a shortage of public and private areas at which motor vehicle operators can park their vehicles and rest.
+Increased Federal Share for Certain Safety Projects.—The Federal share payableon account of any project for traffic control signalization, safety rest areas, pavement marking, commuter carpooling and vanpooling, rail-highway crossing closure, or installation of traffic signs, traffic lights, guardrails, impact attenuators, concrete barrier endtreatments, breakaway utility poles, or priority control systems for emergency vehicles at signalized intersections may amount to 100 percent of the cost of construction of such projects; except that not more than 10 percent of all sums apportioned for all the Federal-aid systems for any fiscal year in accordance with section 104 of this title shall be used under this subsection. In this subsection, the term “safety rest area” means an area where motor vehicle operators can park their vehicles and rest, where food, fuel, and lodging services are not available, and that is located on a segment of highway with respect to which the Secretary determines there is a shortage of public and private areas at which motor vehicle operators can park their vehicles and rest.
 
-(d) The Secretary may rely on a statement from the Secretary of the Interior as to the area of the lands referred to in subsections (a) and (b) of this section. The Secretary of the Interior isauthorized and directed to provide such statement annually.
+(d) The Secretary may rely on a statement from the Secretary of the Interior as to the area of the lands referred to in subsections (a) and (b) of this section. The Secretary of the Interior is authorized and directed to provide such statement annually.
 
 (e)
 
@@ -34,9 +34,11 @@ Emergency Relief.—The Federal share payable on account of any repair or recons
 
 Increased Non-Federal Share.—Notwithstanding any other provision of this title and subject to such criteria as the Secretary may establish, a State may contribute an amount in excess of the non-Federal share of a project under this title so as to decrease the Federal share payable on such project.
 
-(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 898; Pub. L. 86–70, §21(d)(4), (e)(4), June 25, 1959, 73 Stat. 145, 146; Pub. L. 86–342, title I, §107(b), Sept. 21, 1959, 73 Stat. 613; Pub. L. 86–657, §3, July 14, 1960, 74 Stat. 522; Pub. L. 88–658, Oct. 13, 1964, 78 Stat. 1090; Pub. L. 89–574, §9(a), Sept. 13, 1966, 80 Stat. 769; Pub. L. 90–495, §§27(b), 34, Aug. 23, 1968, 82 Stat. 829, 835; Pub. L. 91–605, title I, §§106(f), 108(a), 109(b), 128, Dec. 31, 1970, 84 Stat. 1718, 1719, 1731; Pub. L. 95–599, title I, §§117, 129(a)–(c), (i), Nov. 6, 1978, 92 Stat. 2699, 2707, 2708; Pub. L. 97–424, title I, §§109(b), 117, 123(a), 153(f), 156(c), Jan. 6, 1983, 96 Stat. 2105, 2109, 2113, 2133, 2134; Pub. L. 98–78, title III, §318, Aug. 15, 1983, 97 Stat. 473; Pub. L. 100–17, title I, §117(a)–(c)(1), (d), (e), Apr. 2, 1987, 101 Stat. 155, 156; Pub. L. 102–240, title I, §§1021(a), (b), 1022(a), Dec. 18, 1991, 105 Stat. 1950, 1951; Pub. L. 104–59, title III, §310(a), Nov. 28, 1995, 109 Stat. 582.)
+(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 898; Pub. L. 86–70, §21(d)(4), (e)(4), June 25, 1959, 73 Stat. 145, 146; Pub. L. 86–342, title I, §107(b), Sept. 21, 1959, 73 Stat. 613; Pub. L. 86–657, §3, July 14, 1960, 74 Stat. 522; Pub. L. 88–658, Oct. 13, 1964, 78 Stat. 1090; Pub. L. 89–574, §9(a), Sept. 13, 1966, 80 Stat. 769; Pub. L. 90–495, §§27(b), 34, Aug. 23, 1968, 82 Stat. 829, 835; Pub. L. 91–605, title I, §§106(f), 108(a), 109(b), 128, Dec. 31, 1970, 84 Stat. 1718, 1719, 1731; Pub. L. 95–599, title I, §§117, 129(a)–(c), (i), Nov. 6, 1978, 92 Stat. 2699, 2707, 2708; Pub. L. 97–424, title I, §§109(b), 117, 123(a), 153(f), 156(c), Jan. 6, 1983, 96 Stat. 2105, 2109, 2113, 2133, 2134; Pub. L. 98–78, title III, §318, Aug. 15, 1983, 97 Stat. 473; Pub. L. 100–17, title I, §117(a)–(c)(1), (d), (e), Apr. 2, 1987, 101 Stat. 155, 156; Pub. L. 102–240, title I, §§1021(a), (b), 1022(a), Dec. 18, 1991, 105 Stat. 1950, 1951; Pub. L. 104–59, title III, §310(a), Nov. 28, 1995, 109 Stat. 582; Pub. L. 104–205, title III, §353(a), Sept. 30, 1996, 110 Stat. 2980.)
 
 #### Amendments
+
+1996—Subsec. (c). Pub. L. 104–205 inserted “rail-highway crossing closure,” after “carpooling and vanpooling,”.
 
 1995—Subsec. (c). Pub. L. 104–59 inserted “safety rest areas,” after “signalization,” and inserted sentence at end defining “safety rest area”.
 
@@ -44,7 +46,7 @@ Increased Non-Federal Share.—Notwithstanding any other provision of this title
 
 Subsec. (d). Pub. L. 102–240, §1021(a), (b)(2), redesignated subsec. (e) as (d) and struck out former subsec. (d) which related to Federal share for projects for railway-highway crossing elimination, traffic control signalization, pavement marking, carpooling and vanpooling, and installation of traffic signs, highway lights, guardrails, and impact attenuators.
 
-Subsec. (e). Pub. L. 102–240, §1022(a), which directed the substitution of “180 days” for “90 days” in subsec. (d) as redesignated, was executed to subsec. (e) as redesignated to reflect the probable intent of Congress, because the phrase “90 days” does not appear in subsec. (d) as redesignated.
+Subsec. (e). Pub. L. 102–240, §1022(a), which directed the substitution of “180 days” for “90 days” in subsec. (d) as redesignated, was executed to subsec. (e) as redesignated to reflect the probable intent of Congress,because the phrase “90 days” does not appear in subsec. (d) as redesignated.
 
 Pub. L. 102–240, §1021(b)(3), which directed the substitution of “and (b)” for “and (c)” in subsec. (d) as redesignated”, was executed to subsec. (e) as redesignated to reflect the probable intent of Congress, because the phrase “and (c)” does not appear in subsec. (d) as redesignated.
 
@@ -64,9 +66,9 @@ Subsec. (f). Pub. L. 100–17, §117(c)(1), inserted heading and amended first s
 
 Subsecs. (i), (j). Pub. L. 100–17, §117(b), redesignated subsec. (i) relating to Federal share payable on account of any project financed under section 307(c) of this title, as subsec. (j). Former subsec. (j) redesignated (k).
 
-Subsec. (k). Pub. L. 100–17, §117(b), (d)(1), redesignated former subsec. (j) as (k) and substituted “(j)” for “(i)”, “and 155” for “, 148, and 155,” and “100–3” for “97–61”. Former subsec. (k) redesignated (<i>l).</i>
+Subsec. (k). Pub. L. 100–17, §117(b), (d)(1), redesignated former subsec. (j) as (k) and substituted “(j)” for “(i)”, “and 155” for “, 148, and 155,” and “100–3” for “97–61”. Former subsec. (k) redesignated (<i>l</i>).
 
-Subsec. (<i>l</i>). Pub. L. 100–17, §117(b), redesignated former subsec. (k) as (<i>l).</i>
+Subsec. (<i>l</i>). Pub. L. 100–17, §117(b), redesignated former subsec. (k) as (<i>l</i>).
 
 Subsec. (m). Pub. L. 100–17, §117(d)(2), added subsec. (m).
 

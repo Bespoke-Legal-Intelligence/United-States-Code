@@ -74,13 +74,13 @@ Any—
 
 #### (3) Exports under the Canadian agreement
 
-&emsp;Any person who exports, or who knowingly causes to be exported, any merchandise to Canada during such time as the United States-Canada Free-Trade Agreement is in force with respect to, and the United States applies that Agreement to, Canada shall make, keep, and render for examination and inspection such records (including certifications of origin or copies thereof) which pertain to the exportations.
+&emsp;Any person who exports, or who knowingly causes to be exported, any merchandise to Canada during such time as the United States-Canada Free-Trade Agreement is in force withrespect to, and the United States applies that Agreement to, Canada shall make, keep, and render for examination and inspection such records (including certifications of origin or copies thereof) which pertain to the exportations.
 
 #### (c) Period of time
 
 The records required by subsections (a) and (b) of this section shall be kept for such periods of time as the Secretary shall prescribe; except that—
 
-&emsp;(1) no period of time for the retention of the records required under subsection (a) or (b)(3) of this section may exceed 5 years from the date of entry or exportation, as appropriate;
+&emsp;(1) no period of time for the retention of the records required under subsection (a) or (b)(3) of this section may exceed 5 years from the date of entry, filing of a reconciliation, or exportation, as appropriate;
 
 &emsp;(2) the period of time for the retention of the records required under subsection (b)(2) of this section shall be at least 5 years from the date of signature of the NAFTA Certificate of Origin; and
 
@@ -92,7 +92,7 @@ For the purposes of this section and section 1509 of this title, a person orderi
 
 &emsp;(1) the terms and conditions of the importation are controlled by the person placing the order; or
 
-&emsp;(2) technical data, molds, equipment, other production assistance, material, components, or parts are furnished by the person placing the order with knowledge that they will beused in the manufacture or production of the imported merchandise.
+&emsp;(2) technical data, molds, equipment, other production assistance, material, components, or parts are furnished by the person placing the order with knowledge that they will be used in the manufacture or production of the imported merchandise.
 
 #### (e) Subsection (b) penalties
 
@@ -110,7 +110,7 @@ For the purposes of this section and section 1509 of this title, a person orderi
 
 &emsp;Any person who fails to retain the records required by paragraph (3) of subsection (b) of this section or the regulations issued to implement that paragraph shall be liable for a civil penalty not to exceed $10,000.
 
-(June 17, 1930, ch. 497, title IV, §508, as added Oct. 3, 1978, Pub. L. 95–410, title I, §104, 92 Stat. 889; amended Sept. 28, 1988, Pub. L. 100–449, title II, §205(b), 102 Stat. 1864; Dec. 8, 1993, Pub. L. 103–182, title II, §205(a), title VI, §614, 107 Stat. 2093, 2174.)
+(June 17, 1930, ch. 497, title IV, §508, as added Oct. 3, 1978, Pub. L. 95–410, title I, §104, 92 Stat. 889; amended Sept. 28, 1988, Pub. L. 100–449, title II, §205(b), 102 Stat. 1864; Dec. 8, 1993, Pub. L. 103–182, title II, §205(a), title VI, §614, 107 Stat. 2093, 2174; Oct. 11, 1996, Pub. L. 104–295, §3(a)(6)(B), 110 Stat. 3515.)
 
 #### References in Text
 
@@ -121,6 +121,8 @@ The customs laws, referred to in subsec. (e)(1)(B), are classified generally to 
 A prior section 1508, acts June 17, 1930, ch. 497, title IV, §508, 46 Stat. 732; Aug. 8, 1953, ch. 397, §19, 67 Stat. 518, related to commingling of goods, prior to repeal by Pub. L. 87–456, title III, §301(a), May 24, 1962, 76 Stat. 75, effective, pursuant to section 501(a) of Pub. L. 87–456, with respect to articles entered, or withdrawn from warehouse, for consumption on or after Aug. 31, 1963.
 
 #### Amendments
+
+1996—Subsec. (c)(1). Pub. L. 104–295 inserted “, filing of a reconciliation,” after “entry”.
 
 1993—Subsec. (a). Pub. L. 103–182, §614(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Any owner, importer, consignee, or agent thereof who imports, or who knowingly causes to be imported, any merchandise into the customs territory of the United States shall make, keep, and render for examination and inspection such records (including statements, declarations, and other documents) which—
 
@@ -138,13 +140,17 @@ Subsec. (e). Pub. L. 103–182, §205(a)(3), amended subsec. (e) generally. Prio
 
 1988—Subsecs. (b) to (e). Pub. L. 100–449 added subsec. (b), redesignated former subsec. (b) as (c) and inserted “and (b)” after “subsection (a)”, redesignated former subsec. (c) as (d), and added subsec. (e).
 
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–295 applicable as of Dec. 8, 1993, see section 3(b) of Pub. L. 104–295, set out as a note under section 1321 of this title.
+
 #### Effective Date of 1993 Amendment
 
 Amendment by section 205(a) of Pub. L. 103–182 effective on the date the North American Free Trade Agreement enters into force with respect to the United States \[Jan. 1, 1994\], see section 213(b) of Pub. L. 103–182, set out as an Effective Date note under section 3331 of this title.
 
 #### Effective and Termination Dates of 1988 Amendment
 
-Amendment by Pub. L. 100–449 effective on date United States-Canada Free-Trade Agreement enters into force (Jan. 1, 1989), and to cease to have effect on date Agreement ceases to be in force, see section 501(a), (c) of Pub. L. 100–449, set out in a note under section 2112 of this title.
+Amendment by Pub. L. 100–449 effective on date United States-Canada Free-Trade Agreement enters into force (Jan. 1, 1989), and to cease to have effect on date Agreement ceases to be in force, see section 501(a),\(c) of Pub. L. 100–449, set out in a note under section 2112 of this title.
 
 #### Construction of 1993 Amendment
 

@@ -8,9 +8,9 @@
 
 &emsp;(3) in time of war, by order of the President.
 
-(b) The President may drop from the rolls of any armed force any commissioned officer (1) who has been absent without authority for at least three months, or (2) who is sentenced to confinement in a Federal or State penitentiary or correctional institution after having been found guilty of an offense by a court other than a court-martial or other military court, and whose sentence has become final.
+(b) The President may drop from the rolls of any armed force any commissioned officer (1) who has been absent without authority for at least three months, (2) who may be separated under section 1167 of this title by reason of a sentence to confinement adjudged by a court-martial, or (3) who is sentenced to confinement in a Federal or State penitentiary or correctional institution after having been found guilty of an offense by a court other than a court-martial or other military court, and whose sentence has become final.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 89.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 89; Feb. 10, 1996, Pub. L. 104–106, div. A, title V, §563(b)(1), 110 Stat. 325; Sept. 23, 1996, Pub. L. 104–201, div. A, title X, §1074(a)(5), 110 Stat. 2658.)
 
 Historical and Revision Notes
 
@@ -32,11 +32,17 @@ May 5, 1950, ch. 169, §10 (less applicability to Navy and Marine Corps warrant 
 
 In subsections (a) and (b), the word “commissioned” is inserted since, for the Army and the Air Force, the term “officer” is intended to have the same meaning in 50:739 as it has in the Uniform Code of Military Justice (article 4). For Navy warrant officers see section 6408 of this title.
 
-In subsection (b), the words “from his place of duty” are omitted as surplusage. The words “at least” are substituted for the words “or more”. The words “by a court other than a court-martial or other military court” are substituted for the words “by the civil authorities”.
+In subsection (b), the words “from his place of duty” are omitted as surplusage. The words “at least” are substituted for the words “or more”. The words “by a court other than a court-martial or other militarycourt” are substituted for the words “by the civil authorities”.
+
+#### Amendments
+
+1996—Subsec. (b). Pub. L. 104–201 substituted “section 1167” for “section 1178” in par. (2).
+
+Pub. L. 104–106 struck out “or” after “three months,”, added par. (2), and redesignated former par. (2) as (3).
 
 #### Restoration of Retired Pay to Officers Dropped From Rolls After December 31, 1954 and Before August 25, 1958
 
-Pub. L. 85–754, Aug. 25, 1958, 72 Stat. 847, provided: “That notwithstanding any other provisions of law, aformer retired officer dropped from the rolls under section 10 of the Act of May 5, 1950, ch. 169 (64 Stat. 146), or section 1161 of title 10, United States Code, after December 31, 1954, and before the date of enactment of this Act \[Aug. 25, 1958\] shall, for the purposes of entitlement to retired or retirement pay after the date of enactment of this Act, be treated as if he had not been dropped from the rolls. Such an officer is also entitled to retroactive retired or retirement pay for the period beginning on the date he was dropped from the rolls and ending on the date of enactment of this Act, as if he had not been dropped from the rolls.
+Pub. L. 85–754, Aug. 25, 1958, 72 Stat. 847, provided: “That notwithstanding any other provisions of law, a former retired officer dropped from the rolls under section 10 of the Act of May 5, 1950, ch. 169 (64 Stat. 146), or section 1161 of title 10, United States Code, after December 31, 1954, and before the date of enactment of this Act \[Aug. 25, 1958\] shall, for the purposes of entitlement to retired or retirement pay after the date of enactment of this Act, be treated as if he had not been dropped from the rolls. Such an officer is also entitled to retroactive retired or retirement pay for the period beginning on the date he was dropped from the rolls and ending on the date of enactment of this Act, as if he had not been dropped from the rolls.
 
 “
 

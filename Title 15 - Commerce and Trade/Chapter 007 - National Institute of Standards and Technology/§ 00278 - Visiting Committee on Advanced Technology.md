@@ -2,7 +2,7 @@
 
 #### (a) Establishment; appointment; membership and composition; review and recommendations
 
-There is established within the Institute a Visiting Committee on Advanced Technology (hereafter in this chapter referred to as the “Committee”). The Committee shall consist of nine members appointed by the Director, at least five of whom shall be from United States industry. The Director shall appoint as original members of the Committee any final members of the National Bureau of Standards Visiting Committee who wish to serve in such capacity. In addition to any powers and functions otherwise granted to it by this chapter, the Committee shall review and make recommendations regarding general policy for the Institute, its organization, its budget, and its programs within the framework of applicable national policies as set forth by the President and the Congress.
+There is established within the Institute a Visiting Committee on Advanced Technology (hereafter in this chapter referred to as the “Committee”). The Committee shall consist of 15 members appointed by the Director, at least 10 of whom shall be from United States industry. The Director shall appoint as original members of the Committee any final members of the National Bureau of Standards Visiting Committee who wish to serve in such capacity. In addition to any powers and functions otherwise granted to it by this chapter, the Committee shall review and make recommendations regarding general policy for the Institute, its organization, its budget, and its programs within the framework of applicable national policies as set forth by the President and the Congress.
 
 #### (b) Qualifications; recommendations for appointment
 
@@ -46,13 +46,15 @@ The Committee may, with the concurrence of a majority of its members, permit the
 
 (2) The Committee shall render to the Secretary and the Congress such additional reports on specific policy matters as it deems appropriate.
 
-(Mar. 3, 1901, ch. 872, §10, 31 Stat. 1450; Aug. 23, 1988, Pub. L. 100–418, title V, §§5115(a)(1), 5131(b), 102 Stat. 1433, 1441.)
+(Mar. 3, 1901, ch. 872, §10, 31 Stat. 1450; Aug. 23, 1988, Pub. L. 100–418, title V, §§5115(a)(1), 5131(b), 102 Stat. 1433, 1441; Mar. 7, 1996, Pub. L. 104–113, §8(1), 110 Stat. 779.)
 
 #### References in Text
 
 The provisions of title 5 governing appointments in the competitive service, referred to in subsec. (g), are classified to section 3301 et seq. of Title 5, Government Organization and Employees.
 
 #### Amendments
+
+1996—Subsec. (a). Pub. L. 104–113 substituted “15 members” for “nine members” and “at least 10” for “at least five”.
 
 1988—Pub. L. 100–418, §5131(b), amended section generally, substituting provisions of subsecs. (a) to (h) relating to Visiting Committee on Advanced Technology for provisions of former single undesignated paragraph which related to a visiting committee which was to visit bureau at least once a year and report to Secretary of Commerce upon efficiency of its scientific work and condition of its equipment.
 

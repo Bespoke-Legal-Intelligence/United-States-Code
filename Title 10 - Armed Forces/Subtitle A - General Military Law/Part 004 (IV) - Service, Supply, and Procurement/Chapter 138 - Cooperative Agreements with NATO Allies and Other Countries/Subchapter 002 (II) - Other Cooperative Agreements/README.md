@@ -12,10 +12,13 @@
 | [2350h.](%C2%A7%2002350h%20-%20Memorandums%20of%20agreement%20Department%20of%20Defense%20ombudsman%20for%20foreign%20signatories.md) | Memorandums of agreement: Department of Defense ombudsman for foreign signatories. |
 | [2350i.](%C2%A7%2002350i%20-%20Foreign%20contributions%20for%20cooperative%20projects.md) | Foreign contributions for cooperative projects. |
 | [2350j.](%C2%A7%2002350j%20-%20Burden%20sharing%20contributions%20by%20designated%20countries%20and%20regional%20organizations.md) | Burden sharing contributions by designated countries and regional organizations. |
+| [2350k.](%C2%A7%2002350k%20-%20Relocation%20within%20host%20nation%20of%20elements%20of%20armed%20forces%20overseas.md) | Relocation within host nation of elements of armed forces overseas. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1996—Pub. L. 104–106, div. A, title XIII, §1332(a)(2), Feb. 10, 1996, 110 Stat. 484, added item 2350k.
 
 1993—Pub. L. 103–160, div. A, title XIV, §1402(b), Nov. 30, 1993, 107 Stat. 1826, added item 2350j.
 
@@ -42,3 +45,4 @@ Pub. L. 101–510, div. A, title XIV, §1451(b)(2), Nov. 5, 1990, 104 Stat. 1693
 - [&sect; 02350h - Memorandums of agreement Department of Defense ombudsman for foreign signatories](%C2%A7%2002350h%20-%20Memorandums%20of%20agreement%20Department%20of%20Defense%20ombudsman%20for%20foreign%20signatories.md)
 - [&sect; 02350i - Foreign contributions for cooperative projects](%C2%A7%2002350i%20-%20Foreign%20contributions%20for%20cooperative%20projects.md)
 - [&sect; 02350j - Burden sharing contributions by designated countries and regional organizations](%C2%A7%2002350j%20-%20Burden%20sharing%20contributions%20by%20designated%20countries%20and%20regional%20organizations.md)
+- [&sect; 02350k - Relocation within host nation of elements of armed forces overseas](%C2%A7%2002350k%20-%20Relocation%20within%20host%20nation%20of%20elements%20of%20armed%20forces%20overseas.md)

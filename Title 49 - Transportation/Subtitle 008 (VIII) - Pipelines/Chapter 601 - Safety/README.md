@@ -6,9 +6,9 @@
 | [60102\.](%C2%A7%2060102%20-%20General%20authority.md) | General authority. |
 | [60103\.](%C2%A7%2060103%20-%20Standards%20for%20liquefied%20natural%20gas%20pipeline%20facilities.md) | Standards for liquefied natural gas pipeline facilities. |
 | [60104\.](%C2%A7%2060104%20-%20Requirements%20and%20limitations.md) | Requirements and limitations. |
-| [60105\.](%C2%A7%2060105%20-%20State%20certifications.md) | State certifications. |
-| [60106\.](%C2%A7%2060106%20-%20State%20agreements.md) | State agreements. |
-| [60107\.](%C2%A7%2060107%20-%20State%20grants.md) | State grants. |
+| [60105\.](%C2%A7%2060105%20-%20State%20pipeline%20safety%20program%20certifications.md) | State pipeline safety program certifications. |
+| [60106\.](%C2%A7%2060106%20-%20State%20pipeline%20safety%20agreements.md) | State pipeline safety agreements. |
+| [60107\.](%C2%A7%2060107%20-%20State%20pipeline%20safety%20grants.md) | State pipeline safety grants. |
 | [60108\.](%C2%A7%2060108%20-%20Inspection%20and%20maintenance.md) | Inspection and maintenance. |
 | [60109\.](%C2%A7%2060109%20-%20High-density%20population%20areas%20and%20environmentally%20sensitive%20areas.md) | High-density population areas and environmentally sensitive areas. |
 | [60110\.](%C2%A7%2060110%20-%20Excess%20flow%20valves.md) | Excess flow valves. |
@@ -25,16 +25,21 @@
 | [60121\.](%C2%A7%2060121%20-%20Actions%20by%20private%20persons.md) | Actions by private persons. |
 | [60122\.](%C2%A7%2060122%20-%20Civil%20penalties.md) | Civil penalties. |
 | [60123\.](%C2%A7%2060123%20-%20Criminal%20penalties.md) | Criminal penalties. |
-| [60124\.](%C2%A7%2060124%20-%20Annual%201%20reports.md) | Annual reports. |
+| [60124\.](%C2%A7%2060124%20-%20Biennial%20reports.md) | Biennial reports. |
 | [60125\.](%C2%A7%2060125%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+| [60126\.](%C2%A7%2060126%20-%20Risk%20management.md) | Risk management. |
+| [60127\.](%C2%A7%2060127%20-%20Population%20encroachment.md) | Population encroachment. |
+| [60128\.](%C2%A7%2060128%20-%20Dumping%20within%20pipeline%20rights-of-way.md) | Dumping within pipeline rights-of-way. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Amendments
+
+1996—Pub. L. 104–304, §§5(f)\[(b)\], 15(c)\[(b)\], 16(b), 18(b)(2), 20(e), Oct. 12, 1996, 110 Stat. 3800, 3803, 3804, substituted “State pipeline safety program certifications” for “State certifications” in item 60105, “State pipeline safety agreements” for “State agreements” in item 60106, “State pipeline safety grants” for “State grants” in item 60107, and “Biennial reports” for “Annual reports” in item 60124 and added items 60126, 60127, and 60128.
 
 #### Chapter Referred to in Other Sections
 
 This chapter is referred to in sections 5126, 60301 of this title; title 42 section 6991.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 
 
 ---
@@ -45,9 +50,9 @@ This chapter is referred to in sections 5126, 60301 of this title; title 42 sect
 - [&sect; 60102 - General authority](%C2%A7%2060102%20-%20General%20authority.md)
 - [&sect; 60103 - Standards for liquefied natural gas pipeline facilities](%C2%A7%2060103%20-%20Standards%20for%20liquefied%20natural%20gas%20pipeline%20facilities.md)
 - [&sect; 60104 - Requirements and limitations](%C2%A7%2060104%20-%20Requirements%20and%20limitations.md)
-- [&sect; 60105 - State certifications](%C2%A7%2060105%20-%20State%20certifications.md)
-- [&sect; 60106 - State agreements](%C2%A7%2060106%20-%20State%20agreements.md)
-- [&sect; 60107 - State grants](%C2%A7%2060107%20-%20State%20grants.md)
+- [&sect; 60105 - State pipeline safety program certifications](%C2%A7%2060105%20-%20State%20pipeline%20safety%20program%20certifications.md)
+- [&sect; 60106 - State pipeline safety agreements](%C2%A7%2060106%20-%20State%20pipeline%20safety%20agreements.md)
+- [&sect; 60107 - State pipeline safety grants](%C2%A7%2060107%20-%20State%20pipeline%20safety%20grants.md)
 - [&sect; 60108 - Inspection and maintenance](%C2%A7%2060108%20-%20Inspection%20and%20maintenance.md)
 - [&sect; 60109 - High-density population areas and environmentally sensitive areas](%C2%A7%2060109%20-%20High-density%20population%20areas%20and%20environmentally%20sensitive%20areas.md)
 - [&sect; 60110 - Excess flow valves](%C2%A7%2060110%20-%20Excess%20flow%20valves.md)
@@ -64,5 +69,8 @@ This chapter is referred to in sections 5126, 60301 of this title; title 42 sect
 - [&sect; 60121 - Actions by private persons](%C2%A7%2060121%20-%20Actions%20by%20private%20persons.md)
 - [&sect; 60122 - Civil penalties](%C2%A7%2060122%20-%20Civil%20penalties.md)
 - [&sect; 60123 - Criminal penalties](%C2%A7%2060123%20-%20Criminal%20penalties.md)
-- [&sect; 60124 - Annual 1 reports](%C2%A7%2060124%20-%20Annual%201%20reports.md)
+- [&sect; 60124 - Biennial reports](%C2%A7%2060124%20-%20Biennial%20reports.md)
 - [&sect; 60125 - Authorization of appropriations](%C2%A7%2060125%20-%20Authorization%20of%20appropriations.md)
+- [&sect; 60126 - Risk management](%C2%A7%2060126%20-%20Risk%20management.md)
+- [&sect; 60127 - Population encroachment](%C2%A7%2060127%20-%20Population%20encroachment.md)
+- [&sect; 60128 - Dumping within pipeline rights-of-way](%C2%A7%2060128%20-%20Dumping%20within%20pipeline%20rights-of-way.md)

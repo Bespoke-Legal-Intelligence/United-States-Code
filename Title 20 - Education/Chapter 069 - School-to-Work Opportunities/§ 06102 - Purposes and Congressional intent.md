@@ -40,7 +40,7 @@ The purposes of this chapter are—
 
 &emsp;(12) to expose students to a broad array of career opportunities, and facilitate the selection of career majors, based on individual interests, goals, strengths, and abilities;
 
-&emsp;(13) to increase opportunities for minorities, women, and individuals with disabilities, by enabling individuals to prepare for careersthat are not traditional for their race, gender, or disability; and
+&emsp;(13) to increase opportunities for minorities, women, and individuals with disabilities, by enabling individuals to prepare for careers that are not traditional for their race, gender, or disability; and
 
 &emsp;(14) to further the National Education Goals set forth in title I of the Goals 2000: Educate America Act \[20 U.S.C. 5811 et seq.\].
 

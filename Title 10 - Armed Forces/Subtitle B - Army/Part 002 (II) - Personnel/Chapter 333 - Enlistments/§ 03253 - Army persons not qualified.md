@@ -16,6 +16,8 @@ Historical and Revision Notes
 
 3253(b)
 
+&nbsp;
+
 3253(c)
 
 10:622.
@@ -54,7 +56,7 @@ The Immigration and Nationality Act, referred to in text, is act June 27, 1952, 
 
 1968—Pub. L. 90–235 struck out provisions formerly set out as subsec. (a) disqualifying insane persons, intoxicated persons, deserters and convicted felons from Army service, and provisions formerly set out as subsec. (b) disqualifying from reenlistment in the Army persons whose service during their last term of enlistment was not honest and faithful, and redesignated as entire section provisions formerly set out as subsec. (c).
 
-1961—Subsec. (c). Pub. L. 87–143 substituted “a citizen of the United States or has been lawfully admitted tothe United States for permanent residence under the applicable provisions of chapter 12 of title 8” for “, or has made a legal declaration of intention to become, a citizen of the United States”.
+1961—Subsec. (c). Pub. L. 87–143 substituted “a citizen of the United States or has been lawfully admitted to the United States for permanent residence under the applicable provisions of chapter 12 of title 8” for “, or has made a legal declaration of intention to become, a citizen of the United States”.
 
 #### Effective Date of 1980 Amendment
 
@@ -68,7 +70,7 @@ Pub. L. 96–351, Sept. 15, 1980, 94 Stat. 1161, which authorized, notwithstandi
 
 Section 3 of Pub. L. 85–116, July 24, 1957, 71 Stat. 311, provided that enlistments under the Act of June 30, 1950, as amended, made after June 30, 1955 and before July 24, 1957 were deemed to have been made under a suspension of (1) the prohibition of section 2 of the Act of Aug. 1, 1894, as amended, which stated that in time of peace no person who is not a citizen of the United States or who has not made a legal declaration of intent to become a citizen could be enlisted for the first enlistment in the Army or (2) section 3253(c) of Title 10, Armed Forces, as the case may be.
 
-#### Enlistments Between July 24, 1957, and July 1, 1959
+#### Enlistments Between July 24, 1957, and July 1, 1959
 
 Section 2 of Pub. L. 85–116, July 24, 1957, 71 Stat. 311, provided that subsection (c) of this section did not apply to enlistments made under the act of June 30, 1950, on and after July 24, 1957, and before July 1, 1959.
 

@@ -16,11 +16,9 @@ Definitions.—In this section—
 
 &emsp;&emsp;(C) for airport noise capability planning under section 47505 of this title;
 
-&emsp;&emsp;(D) to carry out noise compatibility measures eligible for assistance under section 47504 of this title, whether or not a program for those measures has been approved under section 47504;
+&emsp;&emsp;(D) to carry out noise compatibility measures eligible for assistance under section 47504 of this title, whether or not a program for those measures has been approved under section 47504; and
 
-&emsp;&emsp;(E) for constructing gates and related areas at which passengers board or exit aircraft; and
-
-&emsp;&emsp;(F) in addition to projects eligible under subparagraph (A), the construction, reconstruction, repair, or improvement of areas of an airport used for the operation of aircraft or actions to mitigate the environmental effects of such construction, reconstruction, repair, or improvement when the construction, reconstruction, repair, improvement, or action is necessary for compliance with the responsibilities of the operator or owner of the airport under the Americans with Disabilities Act of 1990, the Clean Air Act, or the Federal Water Pollution Control Act with respect to the airport.
+&emsp;&emsp;(E) for constructing gates and related areas at which passengers board or exit aircraft.
 
 &emsp;(4) “passenger facility fee” means a fee imposed under this section.
 
@@ -78,15 +76,9 @@ Limitations on Imposing Fees.—(1) An eligible agency may impose a passenger fa
 
 &emsp;(A) for more than 2 boardings on a one-way trip or a trip in each direction of a round trip;
 
-&emsp;(B) for the boarding to an eligible place under subchapter II of chapter 417 of this title for which essential air service compensation is paid under subchapter II;
+&emsp;(B) for the boarding to an eligible place under subchapter II of chapter 417 of this title for which essential air service compensation is paid under subchapter II; and
 
-&emsp;(C) for a project the Secretary does not approve under this section before October 1, 1993, if, during the fiscal year ending September 30, 1993, the amount available for obligation under subchapter II of chapter 417 of this title is less than $38,600,000, except that this clause—
-
-&emsp;&emsp;(i) does not apply if the amount available for obligation under subchapter II of chapter 417 of this title is less than $38,600,000 because of sequestration or other general appropriations reductions applied proportionately to appropriations accounts throughout an appropriation law; and
-
-&emsp;&emsp;(ii) does not affect the authority of the Secretary to approve the imposition of a fee or the use of revenues, derived from a fee imposed under an approval made under this section, by a public agency that has received an approval to impose a fee under this section before September 30, 1993, regardless of whether the fee is being imposed on September 30, 1993; and
-
-&emsp;(D) enplaning at an airport if the passenger did not pay for the air transportation which resulted in such enplanement, including any case in which the passenger obtained the ticket for the air transportation with a frequent flier award coupon without monetary payment.
+&emsp;(C) enplaning at an airport if the passenger did not pay for the air transportation which resulted in such enplanement, including any case in which the passenger obtained the ticket for the air transportation with a frequent flier award coupon without monetary payment.
 
 (f)
 
@@ -103,6 +95,8 @@ Treatment of Revenue.—(1) Passenger facility revenue is not airport revenue fo
 (2) An eligible agency may not include in its price base the part of the capital costs of a project paid for by using passenger facility revenue to establish a price under a contract between the agency and an air carrier or foreign air carrier.
 
 (3) For a project for terminal development, gates and related areas, or a facility occupied or used by at least one air carrier or foreign air carrier on an exclusive or preferential basis, a price payable by an air carrier or foreign air carrier using the facilities must at least equal the price paid by an air carrier or foreign air carrier using a similar facility at the airport that was not financed with passenger facility revenue.
+
+(4) Passenger facility revenues that are held by an air carrier or an agent of the carrier after collection of a passenger facility fee constitute a trust fund that is held by the air carrier or agent for the beneficial interest of the eligible agency imposing the fee. Such carrier or agent holds neither legal nor equitable interest in the passenger facility revenues except for any handling fee or retention of interest collected on unremitted proceeds as may be allowed by the Secretary.
 
 (h)
 
@@ -128,11 +122,15 @@ Regulations.—The Secretary shall prescribe regulations necessary to carry out 
 
 &emsp;&emsp;(D) require that the amount collected for any air transportation be noted on the ticket for that air transportation.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1113; Pub. L. 103–305, title II, §§203, 204(a)(1), (b), Aug. 23, 1994, 108 Stat. 1582, 1583.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1113; Pub. L. 103–305, title II, §§203, 204(a)(1), (b), Aug. 23, 1994, 108 Stat. 1582, 1583; Pub. L. 104–264, title I, §142(b)(2), title XII, §1202, Oct. 9, 1996, 110 Stat. 3221, 3280; Pub. L. 104–287, §5(67), Oct. 11, 1996, 110 Stat. 3395.)
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+Pub. L. 103–272
+
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -246,15 +244,21 @@ In subsection (h)(1), the word “agent” is substituted for “agency” to co
 
 In subsection (i), before clause (1), the words “Not later than May 4, 1991” are omitted as obsolete.
 
-#### References in Text
+#### Pub. L. 104–287
 
-The Americans with Disabilities Act of 1990, referred to in subsec. (a)(3)(F), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, as amended, which is classified principally to chapter 126 (§12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
-
-The Clean Air Act, referred to in subsec. (a)(3)(F), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§7401 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
-
-The Federal Water Pollution Control Act, referred to in subsec. (a)(3)(F), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of Title 33 and Tables.
+This repeals 49:40117(e)(2)(C) to eliminate an executed provision and makes conforming amendments.
 
 #### Amendments
+
+1996—Subsec. (a)(3)(D) to (F). Pub. L. 104–264, §142(b)(2), inserted “and” at end of subpar. (D), substituted a period for “; and” at end of subpar. (E), and struck out subpar. (F) which read as follows: “in addition to projects eligible under subparagraph (A), the construction, reconstruction, repair, or improvement of areas of an airport used for the operation of aircraft or actions to mitigate the environmental effects of such construction, reconstruction, repair, or improvement when the construction, reconstruction, repair, improvement, or action is necessary for compliance with the responsibilities of the operator or owner of the airport under the Americans with Disabilities Act of 1990, the Clean Air Act, or the Federal Water Pollution Control Act with respect to the airport.”
+
+Subsec. (e)(2)(B) to (D). Pub. L. 104–287 inserted “and” at end of subpar. (B), redesignated subpar. (D) as (C), and struck out former subpar. (C) which read as follows: “for a project the Secretary does not approve under this section before October 1, 1993, if, during the fiscal year ending September 30, 1993, the amount available for obligation under subchapter II of chapter 417 of this title is less than $38,600,000, except that this clause—
+
+&emsp;“(i) does not apply if the amount available for obligation under subchapter II of chapter 417 of this title is less than $38,600,000 because of sequestration or other general appropriations reductions applied proportionately to appropriations accounts throughout an appropriation law; and
+
+&emsp;“(ii) does not affect the authority of the Secretary to approve the imposition of a fee or the use of revenues, derived from a fee imposed under an approval made under this section, by a public agency that has received an approval to impose a fee under this section before September 30, 1993, regardless of whether the fee is being imposed on September 30, 1993; and”.
+
+Subsec. (g)(4). Pub. L. 104–264, §1202, added par. (4).
 
 1994—Subsec. (a)(3)(F). Pub. L. 103–305, §203, added subpar. (F).
 
@@ -262,11 +266,15 @@ Subsec. (d)(3). Pub. L. 103–305, §204(b), added par. (3).
 
 Subsec. (e)(2)(D). Pub. L. 103–305, §204(a)(1), added subpar. (D).
 
+#### Effective Date of 1996 Amendment
+
+Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
+
 #### Limitation on Statutory Construction of Subsection (e)(2)(D)
 
 Section 204(a)(2) of Pub. L. 103–305 provided that: “The amendment made by paragraph (1) \[amending this section\] shall not be construed as requiring any person to refund any fee paid before the date of the enactment of this Act \[Aug. 23, 1994\].”
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 40116, 46301, 46316, 47111, 47114, 47524, 47526 of this title.
+This section is referred to in sections 40116, 46301, 46316, 47102, 47111, 47114, 47134, 47524, 47526 of this title.
 

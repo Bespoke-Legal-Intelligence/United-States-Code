@@ -2,12 +2,12 @@
 
 | Sec. |  |
 | :--- | ---: |
-| 891\. | Definitions and rules of construction. |
-| 892\. | Making extortionate extensions of credit. |
-| 893\. | Financing extortionate extensions of credit. |
-| 894\. | Collection of extensions of credit by extortionate means. |
+| [891\.](%C2%A7%2000891%20-%20Definitions%20and%20rules%20of%20construction.md) | Definitions and rules of construction. |
+| [892\.](%C2%A7%2000892%20-%20Making%20extortionate%20extensions%20of%20credit.md) | Making extortionate extensions of credit. |
+| [893\.](%C2%A7%2000893%20-%20Financing%20extortionate%20extensions%20of%20credit.md) | Financing extortionate extensions of credit. |
+| [894\.](%C2%A7%2000894%20-%20Collection%20of%20extensions%20of%20credit%20by%20extortionate%20means.md) | Collection of extensions of credit by extortionate means. |
 | \[895. | Repealed.\] |
-| 896\. | Effect on State laws. |
+| [896\.](%C2%A7%2000896%20-%20Effect%20on%20State%20laws.md) | Effect on State laws. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

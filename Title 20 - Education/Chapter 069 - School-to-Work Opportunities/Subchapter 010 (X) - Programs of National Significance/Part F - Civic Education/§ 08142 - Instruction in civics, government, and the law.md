@@ -32,7 +32,7 @@ Assistance under this section may support new and ongoing programs in elementary
 
 &emsp;(4) the active participation of community leaders, from the public and private sectors, in the schools; and
 
-&emsp;(5) the provision of technical assistance to State and local educational agencies and other institutions and organizations working to further the progress of the Nation in attaining the third and sixth National Education Goals regarding civics and government.
+&emsp;(5) the provision of technical assistance to State and local educational agencies and other institutions and organizations working to further the progress of the Nation in attainingthe third and sixth National Education Goals regarding civics and government.
 
 #### (c) Applications, peer review and priority
 

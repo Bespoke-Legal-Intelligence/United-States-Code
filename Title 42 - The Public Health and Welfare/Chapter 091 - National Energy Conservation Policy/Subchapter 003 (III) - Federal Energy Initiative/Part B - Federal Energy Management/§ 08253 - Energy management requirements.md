@@ -44,7 +44,7 @@ The Secretary shall consult with the Secretary of Defense and the Administrator 
 
 &emsp;(5) ensure that the operation and maintenance procedures applied under this section are continued.
 
-(Pub. L. 95–619, title V, §543, Nov. 9, 1978, 92 Stat. 3277; Pub. L. 100–615, §2(a), Nov. 5, 1988, 102 Stat. 3185; Pub. L. 102–486, title I, §152(b), (c), Oct. 24, 1992, 106 Stat. 2844, 2845; Pub. L. 104–66, title I, §1052(b), Dec. 21, 1995, 109 Stat. 718.)
+(Pub. L. 95–619, title V, §543, Nov. 9, 1978, 92 Stat. 3277; Pub. L. 100–615, §2(a), Nov. 5, 1988, 102 Stat.3185; Pub. L. 102–486, title I, §152(b), (c), Oct. 24, 1992, 106 Stat. 2844, 2845; Pub. L. 104–66, title I, §1052(b), Dec. 21, 1995, 109 Stat. 718.)
 
 #### Amendments
 

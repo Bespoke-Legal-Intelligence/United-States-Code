@@ -38,7 +38,7 @@ Subsec. (c). Pub. L. 85–859 redesignated former subsec. (b) as (c) and substit
 
 Subsec. (d). Pub. L. 85–859 redesignated former subsec. (c) as (d) and substituted “tobacco products or cigarette papers or tubes” for “articles”. Former subsec. (d) redesignated (e).
 
-Subsec. (e). Pub. L. 85–859 redesignated former subsec. (d) as (e), and permitted exemption of tobacco products and cigarette papers and tubes transferred to the bonded premises of another manufacturer or export warehouse proprietor or released in bond from customs custody for delivery to a manufacturer of tobacco products or cigarette papers and tubes, and eliminated provisions which authorized exemption of articles removed for shipment to a foreign country, Puerto Rico, the Virgin Islands, or a possession of the United States, and so shipped.
+Subsec. (e). Pub. L. 85–859 redesignated former subsec. (d) as (e), and permitted exemption of tobacco products and cigarette papers and tubes transferred to the bonded premises of another manufacturer or export warehouse proprietor or released in bond from customs custody for delivery to a manufacturer of tobacco productsor cigarette papers and tubes, and eliminated provisions which authorized exemption of articles removed for shipment to a foreign country, Puerto Rico, the Virgin Islands, or a possession of the United States, and so shipped.
 
 #### Effective Date of 1976 Amendment
 

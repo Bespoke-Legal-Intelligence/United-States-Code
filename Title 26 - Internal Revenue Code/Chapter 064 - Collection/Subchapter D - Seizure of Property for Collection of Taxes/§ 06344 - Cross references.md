@@ -20,7 +20,7 @@
 
 &emsp;&emsp;&emsp;<b>(2) Administration of real estate acquired by the United States, see section 7506.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 789; Dec. 30, 1969, Pub. L. 91–172, title I, §101(j)(45), 83 Stat. 531; Sept. 2, 1974, Pub. L. 93–406, title II, §1016(a)(13), 88 Stat. 930; Oct. 4, 1976, Pub. L. 94–455, title XIII, §1307(d)(2)(F)(v), title XVI, §1605(b)(8), 90 Stat. 1728, 1755; Apr. 2, 1980, Pub. L. 96–223, title I, §101(f)(1)(I), 94 Stat. 252; Aug. 23, 1988, Pub. L. 100–418, title I, §1941(b)(2)(B)(ix), 102 Stat. 1323.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 789; Dec. 30, 1969, Pub. L. 91–172, title I, §101(j)(45), 83 Stat. 531;Sept. 2, 1974, Pub. L. 93–406, title II, §1016(a)(13), 88 Stat. 930; Oct. 4, 1976, Pub. L. 94–455, title XIII, §1307(d)(2)(F)(v), title XVI, §1605(b)(8), 90 Stat. 1728, 1755; Apr. 2, 1980, Pub. L. 96–223, title I, §101(f)(1)(I), 94 Stat. 252; Aug. 23, 1988, Pub. L. 100–418, title I, §1941(b)(2)(B)(ix), 102 Stat. 1323.)
 
 #### References in Text
 

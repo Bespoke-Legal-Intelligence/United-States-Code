@@ -10,7 +10,7 @@
 
 &emsp;&emsp;&emsp;(ii) who has completed 1 year of current continuous service under other than a temporary appointment limited to 1 year or less;
 
-&emsp;&emsp;(B) a preference eligible in the excepted service who has completed 1 year of currentcontinuous service in the same or similar positions—
+&emsp;&emsp;(B) a preference eligible in the excepted service who has completed 1 year of current continuous service in the same or similar positions—
 
 &emsp;&emsp;&emsp;(i) in an Executive agency; or
 
@@ -52,7 +52,7 @@
 
 &emsp;(7) whose position is within the Central Intelligence Agency or the General Accounting Office;
 
-&emsp;(8) whose position is within the United States Postal Service, the Postal Rate Commission, the Panama Canal Commission, the Tennessee Valley Authority, the Federal Bureau of Investigation, the National Security Agency, the Defense Intelligence Agency, the Central Imagery Office, or an intelligence activity of a military department covered under section 1590 of title 10, unless subsection (a)(1)(B) of this section or section 1005(a) of title 39 is the basis for this subchapter's applicability;
+&emsp;(8) whose position is within the United States Postal Service, the Postal Rate Commission, the Panama Canal Commission, the Tennessee Valley Authority, the Federal Bureau of Investigation, an intelligence component of the Department of Defense (as defined in section 1614 of title 10), or an intelligence activity of a military department covered under subchapter I of chapter 83 of title 10, unless subsection (a)(1)(B) of this section or section 1005(a) of title 39 is the basis for this subchapter's applicability;
 
 &emsp;(9) who is described in section 5102(c)(11) of this title; or
 
@@ -60,7 +60,7 @@
 
 (c) The Office may provide for the application of this subchapter to any position or group of positions excepted from the competitive service by regulation of the Office which is not otherwise covered by this subchapter.
 
-(Added Pub. L. 95–454, title II, §204(a), Oct. 13, 1978, 92 Stat. 1135; amended Pub. L. 101–376, §2(a), Aug. 17, 1990, 104 Stat. 461; Pub. L. 102–378, §6(a), Oct. 2, 1992, 106 Stat. 1358; Pub. L. 103–359, title V, §501(<i>l</i>), Oct. 14, 1994, 108 Stat. 3430.)
+(Added Pub. L. 95–454, title II, §204(a), Oct. 13, 1978, 92 Stat. 1135; amended Pub. L. 101–376, §2(a), Aug. 17, 1990, 104 Stat. 461; Pub. L. 102–378, §6(a), Oct. 2, 1992, 106 Stat. 1358; Pub. L. 103–359, title V, §501(<i>l</i>), Oct. 14, 1994, 108 Stat. 3430; Pub. L. 104–201, div. A, title XVI, §1634(b), Sept. 23, 1996, 110 Stat. 2752.)
 
 #### References in Text
 
@@ -72,13 +72,15 @@ A prior section 7511, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 528; Pub. L. 94�
 
 #### Amendments
 
-<b>1994</b>—Subsec. (b)(8). Pub. L. 103–359 inserted “the Central Imagery Office,” after “Defense Intelligence Agency,”.
+1996—Subsec. (b)(8). Pub. L. 104–201 substituted “an intelligence component of the Department of Defense (as defined in section 1614 of title 10), or an intelligence activity of a military department covered under subchapter I of chapter 83 of title 10” for “the National Security Agency, the Defense Intelligence Agency, the Central Imagery Office, or an intelligence activity of a military department covered under section 1590 of title 10”.
 
-<b>1992</b>—Subsec. (b)(7). Pub. L. 102–378, §6(a)(1), amended par. (7) generally. Prior to amendment, par. (7) read as follows: “whose position is with the Central Intelligence Agency, the General Accounting Office, or the Veterans Health Services and Research Administration;”.
+1994—Subsec. (b)(8). Pub. L. 103–359 inserted “the Central Imagery Office,” after “Defense Intelligence Agency,”.
+
+1992—Subsec. (b)(7). Pub. L. 102–378, §6(a)(1), amended par. (7) generally. Prior to amendment, par. (7) read as follows: “whose position is with the Central Intelligence Agency, the General Accounting Office, or the Veterans Health Services and Research Administration;”.
 
 Subsec. (b)(10). Pub. L. 102–378, §6(a)(2)–(4), added par. (10).
 
-<b>1990</b>—Pub. L. 101–376 amended section generally. Prior to amendment, section read as follows:
+1990—Pub. L. 101–376 amended section generally. Prior to amendment, section read as follows:
 
 “(a) For the purpose of this subchapter—
 
@@ -107,6 +109,10 @@ Subsec. (b)(10). Pub. L. 102–378, §6(a)(2)–(4), added par. (10).
 &emsp;&emsp;“(B) the President or the head of an agency for a position which is excepted from the competitive service by statute.
 
 “(c) The Office may provide for the application of this subchapter to any position or group of positions excepted from the competitive service by regulation of the Office.”
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–201 effective Oct. 1, 1996, see section 1635 of Pub. L. 104–201, set out as a note under section 1593 of Title 10, Armed Forces.
 
 #### Effective Date of 1992 Amendment
 
@@ -140,5 +146,5 @@ Subchapter effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95�
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 2 section 1602; title 22 sections 1438, 3701; title 25 section 2012; title 32 section 709; title 39 section 1005; title 49 section 44506.
+This section is referred to in title 2 section 1602; title 10 sections 1599c, 1610; title 22 sections 1438, 3701; title 25 section 2012; title 32 section 709; title 39 section 1005; title 49 section 44506.
 

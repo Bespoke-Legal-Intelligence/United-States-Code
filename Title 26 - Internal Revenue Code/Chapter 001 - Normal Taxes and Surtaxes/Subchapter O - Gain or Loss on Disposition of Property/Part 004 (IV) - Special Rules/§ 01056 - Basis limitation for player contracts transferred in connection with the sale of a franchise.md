@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-If a franchise to conduct any sports enterprise is sold or exchanged, and if, in connection with such sale or exchange, there is a transfer of a contract for the services of an athlete, the basis of such contract in the hands of the transferee shall not exceed the sum of—
+If a franchise to conduct any sports enterprise is sold or exchanged, and if, in connection withsuch sale or exchange, there is a transfer of a contract for the services of an athlete, the basis of such contract in the hands of the transferee shall not exceed the sum of—
 
 &emsp;(1) the adjusted basis of such contract in the hands of the transferor immediately before the transfer, plus
 

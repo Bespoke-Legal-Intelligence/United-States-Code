@@ -2,7 +2,7 @@
 
 #### (a) <sup>1</sup> Measurements; reduction for special contributions; Foreign Service investigator/inspectors
 
-(1) The annuity of a participant shall be equal to 2 percent of his or her average basic salary for the highest 3 consecutive years of service multiplied by the number of years, not exceeding 35, of service credit obtained in accordance with sections 4056 and 4057 of this title, except that the highest 3 years of service shall be used in computing the annuity of any participant who serves an assignment in a position, as described in section 3942(b) of this title, to which the participant was appointed by the President and whose continuity of service in that position is interrupted prior to retirement by appointment or assignment to any other position determined by the Secretary of State to be of comparable importance. In determining the aggregate period of service upon which the annuity is to be based, the fractional part of a month, if any, shall not be counted. The annuity shall be reduced by 10 percent of any special contribution described in section 4045(d) of this title which is due for service for which no contributions were made and which remains unpaid unless the participant elects to eliminate the service involved for purposes of annuity computation.
+(1) The annuity of a participant shall be equal to 2 percent of his or her average basic salary for the highest 3 consecutive years of service multiplied by the number of years, not exceeding 35, of service credit obtained in accordance with sections 4056 and 4057 of this title, except that the highest 3 years of service shall be used in computing the annuity of any participantwho serves an assignment in a position, as described in section 3942(b) of this title, to which the participant was appointed by the President and whose continuity of service in that position is interrupted prior to retirement by appointment or assignment to any other position determined by the Secretary of State to be of comparable importance. In determining the aggregate period of service upon which the annuity is to be based, the fractional part of a month, if any, shall not be counted. The annuity shall be reduced by 10 percent of any special contribution described in section 4045(d) of this title which is due for service for which no contributions were made and which remains unpaid unless the participant elects to eliminate the service involved for purposes of annuity computation.
 
 (2) Notwithstanding the percentage limitation contained in paragraph (1) of this subsection—
 
@@ -10,7 +10,7 @@
 
 &emsp;(B) the annuity of a Foreign Service criminal investigator/inspector of such office, who was appointed to a law enforcement position as defined in section 8401(17) of that title on or after January 1, 1984, and who would have been eligible to retire pursuant to section 8412(d) of that title, after attaining 50 years of age and completing 20 years of service as such a law enforcement officer, had the employee remained in the civil service, shall be computed in the same manner as that of a law enforcement officer pursuant to section 8415(d) of that title.
 
-(3) The annuity of a Foreign Service investigator/inspector of the Office of the Inspector General, Agency for International Development, appointed to a law enforcement position prior to January 1, 1984, who exercised election rights under section 4071i of this title, shall be computed as follows: for the period prior to electionthe annuity shall be computed in accordance with section 8339(d) of title 5; for the period following election the annuity shall be computed in accordance with section 8415(d) of that title.
+(3) The annuity of a Foreign Service investigator/inspector of the Office of the Inspector General, Agency for International Development, appointed to a law enforcement position prior to January 1, 1984, who exercised election rights under section 4071i of this title, shall be computed as follows: for the period prior to election the annuity shall be computed in accordance with section 8339(d) of title 5; for the period following election the annuity shall be computed in accordance with section 8415(d) of that title.
 
 (4) All service in a law enforcement position, as defined in section 8331(20) or 8401(17) of that title, as applicable, in any agency or combination of agencies shall be included in the computation of time for purposes of this paragraph.
 
@@ -30,7 +30,7 @@
 
 (2) The annuity of a participant or former participant providing a survivor benefit under this section (or section 4054(b) of this title), excluding any portion of the annuity not designated or committed as a base for any survivor annuity, shall be reduced by 21/2 percent of the first $3,600 plus 10 percent of any amount over $3,600. The reduction under this paragraph shall be calculated before any reduction under section 4054(a)(5) of this title.
 
-(3)(A) If a former participant entitled to receive a reduced annuity under this subsection dies and is survived by a spouse, a survivor annuity shall be paid to the surviving spouse equal to 55 percent of the full amount of the participant's annuity computed under subsection (a) of this section, or 55 percent of any lesser amount elected as the base for the survivor benefit under paragraph (1)(B).
+(3)(A) If a former participant entitled to receive a reduced annuity under this subsection dies and is survived by a spouse, a survivor annuity shall be paid to the surviving spouse equal to 55 percent of the full amount of the participant's annuity computed under subsection (a) ofthis section, or 55 percent of any lesser amount elected as the base for the survivor benefit under paragraph (1)(B).
 
 (B) Notwithstanding subparagraph (A), the amount of the annuity calculated under subparagraph (A) for a surviving spouse in any case in which there is also a surviving former spouse of the participant who qualifies for an annuity under section 4054(b) of this title may not exceed 55 percent of the portion (if any) of the base for survivor benefits which remains available under section 4054(b)(4)(B) of this title.
 
@@ -58,7 +58,7 @@
 
 #### (d) Recomputation for remaining children
 
-On the death of the surviving spouse or former spouse or termination of the annuity of a child, the annuity of any other child or children shall be recomputed and paid as though the spouse,former spouse, or child had not survived the participant. If the annuity to a surviving child who has not been receiving an annuity is initiated or resumed, the annuities of any other children shall be recomputed and paid from that date as though the annuities to all currently eligible children in the family were then being initiated.
+On the death of the surviving spouse or former spouse or termination of the annuity of a child, the annuity of any other child or children shall be recomputed and paid as though the spouse, former spouse, or child had not survived the participant. If the annuity to a surviving child who has not been receiving an annuity is initiated or resumed, the annuities of any other children shall be recomputed and paid from that date as though the annuities to all currently eligible children in the family were then being initiated.
 
 #### (e) Payment period for child
 
@@ -78,7 +78,7 @@ A surviving spouse or surviving former spouse of any participant or former parti
 
 #### (i) Reversion to retired status
 
-(1) Any married annuitant who reverts to retired status with entitlement to a supplemental annuity under section 4063 of this title shall, unless the annuitant and his or her spouse jointly elect in writing to the contrary at that time, have the supplemental annuity reduced by 10 percent to provide a supplemental survivor annuity for his or her spouse. Such supplemental survivor annuity shall be equal to 55 percent of the supplemental annuity of the annuitant and shall be payable to a surviving spouse to whom the annuitant was married at the time of reversion to retired status or whom the annuitant subsequently married.
+(1) Any married annuitant who reverts to retired status with entitlement to a supplemental annuity under section 4063 of this title shall, unless the annuitant and his or her spouse jointly elect in writing to the contrary at that time, have the supplemental annuity reduced by 10percent to provide a supplemental survivor annuity for his or her spouse. Such supplemental survivor annuity shall be equal to 55 percent of the supplemental annuity of the annuitant and shall be payable to a surviving spouse to whom the annuitant was married at the time of reversion to retired status or whom the annuitant subsequently married.
 
 (2) The Secretary of State shall issue regulations to provide for the application of paragraph (1) of this subsection and of section 4063 of this title in any case in which an annuitant has a former spouse who was married to the participant at any time during a period of recall service and who qualifies for an annuity under this part.
 
@@ -92,7 +92,7 @@ The Secretary of State shall, on an annual basis—
 
 &emsp;(1) inform each participant of his or her right of election under subsections (g) and (j) of this section; and
 
-&emsp;(2) to the maximum extent practicable, inform spouses or former spouses of participantsor former participants of their rights under this section and section 4054 of this title.
+&emsp;(2) to the maximum extent practicable, inform spouses or former spouses of participants or former participants of their rights under this section and section 4054 of this title.
 
 #### (<i>l</i>) Repealed. Pub. L. 100–238, title II, §217(c)(1), Jan. 8, 1988, 101 Stat. 1775
 
@@ -220,7 +220,7 @@ Section 203 of title II of Pub. L. 100–238 provided that:
 
 “(a)
 
-Election.—A former participant who married his or her current spouse before the effective date of the Foreign Service Act of 1980 \[see Effective Date note set out under section 3901 of this title\] and who married such spouse after retirement under the Foreign Service Retirement and Disability System and who was unable to provide a survivor annuity for such spouse because—
+Election.—A former participant who married his or her current spouse before the effective date of theForeign Service Act of 1980 \[see Effective Date note set out under section 3901 of this title\] and who married such spouse after retirement under the Foreign Service Retirement and Disability System and who was unable to provide a survivor annuity for such spouse because—
 
 &emsp;“(1) the participant was married at the time of retirement and elected not to provide a survivor annuity for that spouse at the time of retirement, or
 
@@ -264,7 +264,7 @@ Limitation.—The election authorized in subsection (a) may only be made within 
 
 “(h)
 
-Definitions.—For the purposes of this section, the terms ‘participant’ and ‘surviving spouse’ have thesame meaning given such terms in subchapter I of chapter 8 of the Foreign Service Act of 1980 \[this part\].”
+Definitions.—For the purposes of this section, the terms ‘participant’ and ‘surviving spouse’ have the same meaning given such terms in subchapter I of chapter 8 of the Foreign Service Act of 1980 \[this part\].”
 
 #### Section Referred to in Other Sections
 

@@ -22,7 +22,7 @@
 
 #### (C) Standard of review
 
-&emsp;&emsp;To the extent necessary to decision and when presented, the reviewing court shalldecide all relevant questions of law and interpret constitutional and statutory provisions. The court shall set aside a final order under paragraph (2) if it is determined that the order was—
+&emsp;&emsp;To the extent necessary to decision and when presented, the reviewing court shall decide all relevant questions of law and interpret constitutional and statutory provisions. The court shall set aside a final order under paragraph (2) if it is determined that the order was—
 
 &emsp;&emsp;&emsp;(i) arbitrary, capricious, an abuse of discretion, or otherwise not consistent with law;
 
@@ -48,6 +48,10 @@ For purposes of this section, the term “Presidential appointee” means any of
 
 (Pub. L. 102–166, title III, §303, formerly §320, Nov. 21, 1991, 105 Stat. 1096; renumbered §303 and amended Pub. L. 104–1, title V, §504(a)(3), (4), Jan. 23, 1995, 109 Stat. 41.)
 
+#### Repeal of Section
+
+<i>Pub. L. 104–331, §5(a), (b), Oct. 26, 1996, 110 Stat. 4072, provided that effective Oct. 1, 1997, this section is repealed.</i>
+
 #### References in Text
 
 Section 3(2) of the Federal Advisory Committee Act, referred to in subsec. (b)(2), is section 3(2) of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
@@ -59,6 +63,14 @@ A prior section 303 of Pub. L. 102–166 was classified to section 1203 of this 
 #### Amendments
 
 1995—Subsec. (a)(1). Pub. L. 104–1, §504(a)(4), struck out “and 1207(h) of this title” before “shall apply”.
+
+#### Effective Date of Repeal
+
+Section 5(b) of Pub. L. 104–331 provided that: “This section \[repealing this section and enacting provisions set out as a note below\] shall take effect on October 1, 1997.”
+
+#### Savings Provision
+
+Section 5(c) of Pub. L. 104–331 provided that: “The repeal under this section \[repealing this section\] shall not affect proceedings under such section 303 in which a complaint was filed before the effective date of this section \[Oct. 1, 1997\], and orders shall be issued in such proceedings and appeals shall be taken therefrom as if this section had not been enacted.”
 
 #### Section Referred to in Other Sections
 

@@ -10,7 +10,7 @@ Any order issued under this subchapter shall contain terms and conditions as fol
 
 (d) The order shall provide that the Board shall develop and submit to the Secretary for approval any promotion, research, or nutrition education plan or project and that any such plan or project must be approved by the Secretary before becoming effective.
 
-(e) The order shall require the Board to submit to the Secretary for approval budgets on a fiscal period basis of its anticipated expenses and disbursements in the administration of the order, including projected costs of dairy products promotion and research projects.
+(e) The order shall require the Board to submit to the Secretary for approval budgets on a fiscal period basis of its anticipated expenses and disbursements in the administration of the order, including projected costs of dairy products promotion and research projects. For each of fiscal years 1997 through 2001, the Board's budget may provide for the expenditure of revenues available to the Board to develop international markets for, and to promote within such markets, the consumption of dairy products produced in the United States from milk produced in the United States.
 
 (f) The order shall provide that the Board, with the approval of the Secretary, may enter into agreements for the development and conduct of the activities authorized under the order as specified in subsection (a) of this section and for the payment of the cost thereof with funds collected through assessments under the order. Any such agreement shall provide that (1) the contracting party shall develop and submit to the Board a plan or project together with a budget or budgets that shall show estimated costs to be incurred for such plan or project, (2) the plan or project shall become effective upon the approval of the Secretary, and (3) the contracting party shall keep accurate records of all of its transactions, account for funds received and expended, and make periodic reports to the Board of activities conducted, and such other reports as the Secretary or the Board may require.
 
@@ -26,7 +26,11 @@ Any order issued under this subchapter shall contain terms and conditions as fol
 
 (<i>l</i>) The order shall provide terms and conditions, not inconsistent with the provisions of this subchapter, as necessary to effectuate the provisions of the order.
 
-(Pub. L. 98–180, title I, §113, Nov. 29, 1983, 97 Stat. 1137.)
+(Pub. L. 98–180, title I, §113, Nov. 29, 1983, 97 Stat. 1137; Pub. L. 104–127, title I, §152, Apr. 4, 1996, 110 Stat. 922.)
+
+#### Amendments
+
+1996—Subsec. (e). Pub. L. 104–127 inserted at end “For each of fiscal years 1997 through 2001, the Board's budget may provide for the expenditure of revenues available to the Board to develop international markets for, and to promote within such markets, the consumption of dairy products produced in the United States from milk produced in the United States.”
 
 #### Section Referred to in Other Sections
 

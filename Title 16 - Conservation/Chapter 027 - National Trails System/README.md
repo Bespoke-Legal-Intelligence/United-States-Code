@@ -9,7 +9,6 @@
 | [1242\.](%C2%A7%2001242%20-%20National%20trails%20system.md) | National trails system. |
 | (a) | Composition: recreation trails; scenic trails; historic trails; connecting or side trails; uniform markers. |
 | (b) | Extended trails. |
-| (c) | Comprehensive plan submitted by Secretary of the Interior to Congress; revisions; content; consultation. |
 | [1243\.](%C2%A7%2001243%20-%20National%20recreation%20trails%3B%20establishment%20and%20designation%3B%20prerequisites.md) | National recreation trails; establishment and designation; prerequisites. |
 | [1244\.](%C2%A7%2001244%20-%20National%20scenic%20and%20national%20historic%20trails.md) | National scenic and national historic trails. |
 | (a) | Establishment and designation; administration. |

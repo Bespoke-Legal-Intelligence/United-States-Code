@@ -1,8 +1,8 @@
 ### §101. Joint Committee on Printing: membership
 
-The Joint Committee on Printing shall consist of the chairman and four members of the Committee on Rules and Administration of the Senate and the chairman and four members of the Committee on House Administration of the House of Representatives.
+The Joint Committee on Printing shall consist of the chairman and four members of the Committee on Rules and Administration of the Senate and the chairman and four members of the Committee on House Oversight of the House of Representatives.
 
-(Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1238; Pub. L. 97–4, Feb. 17, 1981, 95 Stat. 6.)
+(Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1238; Pub. L. 97–4, Feb. 17, 1981, 95 Stat. 6; Pub. L. 104–186, title II, §223(1), Aug. 20, 1996, 110 Stat. 1751.)
 
 #### Historical and Revision Notes
 
@@ -12,11 +12,9 @@ Last seven words in the statute, “who shall have the powers hereinafter stated
 
 #### Amendments
 
+1996—Pub. L. 104–186 substituted “House Oversight” for “House Administration”.
+
 1981—Pub. L. 97–4 substituted “four members” for “two members” in two places.
-
-#### Change of Name
-
-Committee on House Administration of House of Representatives treated as referring to Committee on House Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Short Title of 1995 Amendment
 
@@ -44,11 +42,11 @@ Pub. L. 98–497, §1, Oct. 19, 1984, 98 Stat. 2280, provided: “That this Act 
 
 #### Short Title of 1980 Amendment
 
-Pub. L. 96–511, §1, Dec. 11, 1980, 94 Stat. 2812, provided: “That this Act \[enacting sections 3501 to 3520 of this title, amending sections 2904 and 2905 of this title, section 5315 of Title 5, Government Organizations and Employees, section 1221–3 of Title 20, Education, section1211 of Title 30, Mineral Lands and Mining, and section 292h of Title 42, The Public Health and Welfare, omitting former sections 3501 to 3512 of this title, and enacting provisions set out as notes under sections 3501 and 3503 of this title\] may be cited as the ‘Paperwork Reduction Act of 1980’.”
+Pub. L. 96–511, §1, Dec. 11, 1980, 94 Stat. 2812, provided: “That this Act \[enacting sections 3501 to 3520 of this title, amending sections 2904 and 2905 of this title, section 5315 of Title 5, Government Organizations and Employees, section 1221–3 of Title 20, Education, section 1211 of Title 30, Mineral Lands and Mining, and section 292h of Title 42, The Public Health and Welfare, omitting former sections 3501 to 3512 of this title, and enacting provisions set out as notes under sections 3501 and 3503 of this title\] may be cited as the ‘Paperwork Reduction Act of 1980’.”
 
 #### Short Title of 1978 Amendment
 
-Pub. L. 95–591, §1, Nov. 4, 1978, 92 Stat. 2523, provided: “That this Act \[enacting sections 2201 to 2207 of this title, amending sections 2111 and 2112 of this title, and enacting provisions set out as notes under section 2201 of this title\] may be cited as the ‘Presidential Records Act of 1978’.”
+Pub. L. 95–591, §1, Nov. 4, 1978, 92 Stat. 2523, provided: “That this Act \[enacting sections 2201 to 2207 of thistitle, amending sections 2111 and 2112 of this title, and enacting provisions set out as notes under section 2201 of this title\] may be cited as the ‘Presidential Records Act of 1978’.”
 
 #### Short Title of 1976 Amendment
 

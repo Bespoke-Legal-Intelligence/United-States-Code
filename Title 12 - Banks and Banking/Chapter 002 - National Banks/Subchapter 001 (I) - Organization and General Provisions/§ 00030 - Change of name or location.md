@@ -6,7 +6,7 @@ Any national banking association, upon written notice to the Comptroller of the 
 
 #### (b) Location change
 
-Any national banking association, upon written notice to the Comptroller of the Currency, may change the location of its main office to any authorized branch location within the limits of the city, town, or village in which it is situated, or, with a vote of shareholders owning two-thirds of the stock of such association for a relocation outside such limits and upon receipt of a certificate of approval from the Comptroller of the Currency, to any other location within or outside the limits of the city, town, or village in which it is located, but not more than thirty miles beyond such limits.
+Any national banking association, upon written notice to the Comptroller of the Currency, may change the location of its main office to any authorized branch location within the limits of the city, town, or village in which it is situated, or, with a vote of shareholders owning two-thirds of the stock of such association for a relocation outside such limits and upon receipt of a certificate of approval from the Comptroller of the Currency, to any other location within or outside the limits of the city, town, or village inwhich it is located, but not more than thirty miles beyond such limits.
 
 #### (c) Coordination with section 36 of this title
 
@@ -20,7 +20,7 @@ In the case of a national bank which relocates the main office of such bank from
 
 1983—Subsec. (b). Pub. L. 97–457 inserted “for a relocation outside such limits” after “stock of such association”.
 
-1982—Pub. L. 97–320 designated existing provisions as subsec. (a), substituted provisions permitting a change of name upon written notice to the Comptroller, suchnew name to include “National”, for provisions permitting a change of name or location of the main office, with approval of the Comptroller, within city limits, etc., or outside such limits by vote of shareholders, such change to be validated by certificate of approval, and added subsec. (b).
+1982—Pub. L. 97–320 designated existing provisions as subsec. (a), substituted provisions permitting a change of name upon written notice to the Comptroller, such new name to include “National”, for provisions permitting a change of name or location of the main office, with approval of the Comptroller, within city limits, etc., or outside such limits by vote of shareholders, such change to be validated by certificate of approval, and added subsec. (b).
 
 1959—Pub. L. 86–230 required approval of Comptroller of the Currency before a national bank could change location of its main office within the limitations of the city, town, or village in which it is situated.
 

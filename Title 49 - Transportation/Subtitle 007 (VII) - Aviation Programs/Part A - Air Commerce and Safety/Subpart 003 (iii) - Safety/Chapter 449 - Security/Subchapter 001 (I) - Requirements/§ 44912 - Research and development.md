@@ -2,7 +2,7 @@
 
 (a)
 
-Program Requirement.—(1) The Administrator of the Federal Aviation Administration shall establish and carry out a program to accelerate and expand the research, development, and implementation of technologies and proceduresto counteract terrorist acts against civil aviation. The program shall provide for developing and having in place, not later than November 16, 1993, new equipment and procedures necessary to meet the technological challenges presented by terrorism. The program shall include research on, and development of, technological improvements and ways to enhance human performance.
+Program Requirement.—(1) The Administrator of the Federal Aviation Administration shall establish and carry out a program to accelerate and expand the research, development, and implementation of technologies and procedures to counteract terrorist acts against civil aviation. The program shall provide for developing and having in place, not later than November 16, 1993, new equipment and procedures necessary to meet the technological challenges presented by terrorism. The program shall include research on, and development of, technological improvements and ways to enhance human performance.
 
 (2) In designing and carrying out the program established under this subsection, the Administrator shall—
 
@@ -54,7 +54,9 @@ Scientific Advisory Panel.—The Administrator shall establish a scientific advi
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -62,13 +64,13 @@ Historical and Revision Notes
 
 44912(a)
 
-49 App.:1357(d)(3) (A), (D), (4)–(7).
+49 App.:1357(d)(3)(A), (D), (4)–(7).
 
 Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §316(d)(3)–(8); added Nov. 16, 1990, Pub. L. 101–604, §107, 104 Stat. 3076.
 
 44912(b)
 
-49 App.:1357(d)(3) (B), (C).
+49 App.:1357(d)(3)(B), (C).
 
 44912(c)
 
@@ -86,9 +88,9 @@ In subsection (b)(1)(E), the word “mail” is omitted as being included in “
 
 #### Termination of Advisory Panels
 
-Advisory panels established after Jan. 5, 1973, to terminate not later than expiration of 2-year period beginning on the date of their establishment, unless, in the case of a panel established by the President or an officer of the Federal Government, such panel is renewed by appropriate action prior to expiration of such 2-year period, or in the case of a panel established by Congress, its duration is otherwise provided for by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory panels established after Jan. 5, 1973, to terminate not later than expiration of 2-year period beginning on the date of their establishment, unless, in the case of a panel established by the President or an officer of the Federal Government, such panel is renewed by appropriate action prior to expiration of such 2-year period, or in the case of a panel established by Congress, its duration is otherwise provided for by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 106, 40119, 44501, 44508, 44937, 46301, 46316, 48107 of this title.
+This section is referred to in sections 106, 40119, 44501, 44508, 44937, 48107 of this title.
 

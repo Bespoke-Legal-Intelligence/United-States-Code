@@ -26,7 +26,7 @@ Shall be subject to the penalties set forth in section 216 of this title.
 
 (2) The potential availability of an exemption under any particular paragraph of subsection (b) does not preclude an exemption being granted pursuant to another paragraph of subsection (b).
 
-(d)(1) Upon request, a copy of any determination granting an exemption under subsection (b)(1) or (b)(3) shall be made available to the public by the agency granting the exemption pursuant to the procedures set forth in section 105 of the Ethics in Government Act of 1978. In making such determination available, the agency may withhold from disclosure any information contained in the determination that wouldbe exempt from disclosure under section 552 of title 5. For purposes of determinations under subsection (b)(3), the information describing each financial interest shall be no more extensive than that required of the individual in his or her financial disclosure report under the Ethics in Government Act of 1978.
+(d)(1) Upon request, a copy of any determination granting an exemption under subsection (b)(1) or (b)(3) shall be made available to the public by the agency granting the exemption pursuant to the procedures set forth in section 105 of the Ethics in Government Act of 1978. In making such determination available, the agency may withhold from disclosure any information contained in the determination that would be exempt from disclosure under section 552 of title 5. For purposes of determinations under subsection (b)(3), the information describing each financial interest shall be no more extensive than that required of the individual in his or her financial disclosure report under the Ethics in Government Act of 1978.
 
 (2) The Office of Government Ethics, after consultation with the Attorney General, shall issue uniform regulations for the issuance of waivers and exemptions under subsection (b) which shall—
 
@@ -80,7 +80,7 @@ Section effective 90 days after Oct. 23, 1962, see section 4 of Pub. L. 87–849
 
 #### Exemptions
 
-Exemptions from former section 434 of this title deemed to be exemptions from this section, see section 2 of Pub. L. 87–849, set out as a note under section 203 of this title.
+Exemptions from former section 434 of this title deemed to be exemptions from this section, see section2 of Pub. L. 87–849, set out as a note under section 203 of this title.
 
 #### Delegation of Authority
 
@@ -88,15 +88,15 @@ Authority of the President under subsec. (b) of this section to grant exemptions
 
 Authority of the President under subsec. (b) of this section to grant exemptions or approvals for Presidential appointees to committees, commissions, boards, or similar groups established by the President, and for individuals appointed pursuant to sections 105 and 107(a) of Title 3, The President, delegated to Counsel to the President, see section 402 of Ex. Ord. No. 12674, Apr. 12, 1989, 54 F.R. 15159, as amended, set out as a note under section 7301 of Title 5.
 
-#### Promulgation of Regulations
-
-Responsibility of Office of Government Ethics for promulgating regulations and interpreting this section, see section 201(c) of Ex. Ord. No. 12674, Apr. 12, 1989, 54 F.R. 15159, as amended, set out as a note under section 7301 of Title 5, Government Organization and Employees.
-
 #### “Particular Matter” Defined
 
 Pub. L. 100–446, title III, §319, Sept. 27, 1988, 102 Stat. 1826, which provided that notwithstanding any other provision of law, for the purposes of this section “particular matter”, as applied to employees of the Department of the Interior and the Indian Health Service, means “particular matter involving specific parties”, was repealed by Pub. L. 101–194, title V, §505(b), Nov. 30, 1989, 103 Stat. 1756, as amended by Pub. L. 101–280, §6(c), May 4, 1990, 104 Stat. 160.
 
 Similar provisions were contained in Pub. L. 100–202, §101(g) \[title III, §318\], Dec. 22, 1987, 101 Stat. 1329–213, 1329–255.
+
+#### Promulgation of Regulations
+
+Responsibility of Office of Government Ethics for promulgating regulations and interpreting this section, see section 201(c) of Ex. Ord. No. 12674, Apr. 12, 1989, 54 F.R. 15159, as amended, set out as a note under section 7301 of Title 5, Government Organization and Employees.
 
 #### Canal Zone
 
@@ -116,5 +116,5 @@ Salary of Government officials and employees payable only by the United States, 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 14, 202, 216 of this title; title 5 sections 568, 3374; title 12 section 2245; title 15 section 4805; title 16 section 1852; title 20 sections 5508, 5842; title 22 sections 3507, 3508, 3622; title 26 section 1043; title 28 sections 594, 656; title 28 App. section 302; title 40 App. section 108; title 42 sections 1396a, 1975d, 7218; title 46 App. section 1717; title 47 section 154.
+This section is referred to in sections 14, 202, 216 of this title; title 5 sections 568, 3374; title 12 section 2245; title 15 section 4805; title 16 section 1852; title 20 section 5508; title 22 sections 3507, 3508, 3622; title 26 section 1043; title 28 sections 594, 656; title 28 App. section 302; title 40 App. section 108; title 41 section 423; title 42 section 1396a; title 46 App. section 1717; title 47 section 154.
 

@@ -50,7 +50,7 @@ For purposes of this section—
 
 (4) For purposes of carrying out paragraph (1)(B) of this subsection, there is authorized to be appropriated to the Secretary not to exceed $7,680,000 for the first fiscal year beginning after November 17, 1986, and not to exceed $5,080,000 per fiscal year for each of the succeeding 14 fiscal years.
 
-(5) For purposes of carrying out paragraph (1)(C) of this subsection, there is authorized to be appropriated to the Secretary not to exceed$40,000 for the first fiscal year beginning after November 17, 1986, not to exceed $280,000 for the second fiscal year beginning after November 17, 1986, not to exceed $1,220,000 for the third fiscal year beginning after November 17, 1986, and not to exceed $875,000 per fiscal year for each of the succeeding 12 fiscal years.
+(5) For purposes of carrying out paragraph (1)(C) of this subsection, there is authorized to be appropriated to the Secretary not to exceed $40,000 for the first fiscal year beginning after November 17, 1986, not to exceed $280,000 for the second fiscal year beginning after November 17, 1986, not to exceed $1,220,000 for the third fiscal year beginning after November 17, 1986, and not to exceed $875,000 per fiscal year for each of the succeeding 12 fiscal years.
 
 (6)
 
@@ -92,7 +92,7 @@ The Secretary shall, in his budget request, identify those measures developed by
 
 (1) The Secretary, in consultation with any agency established under subsection (d)(1) of this section, shall monitor traffic movements on the system for the purpose of verifying lock capacity, updating traffic projections, and refining the economic evaluation so as to verify the need for future capacity expansion of the system.
 
-(2) The Secretary, in consultation with the Secretary of the Interior and the States of Illinois, Iowa, Minnesota, Missouri, and Wisconsin, shall determine the need for river rehabilitation and environmental enhancement and protection based on the condition of the environment, project developments, and projected environmental impacts from implementing any proposals resulting from recommendations made under subsection (g) of this section and paragraph (1) of this subsection.
+(2) The Secretary, in consultation with the Secretary of the Interior and the States of Illinois, Iowa, Minnesota, Missouri, and Wisconsin, shall determine the need for river rehabilitationand environmental enhancement and protection based on the condition of the environment, project developments, and projected environmental impacts from implementing any proposals resulting from recommendations made under subsection (g) of this section and paragraph (1) of this subsection.
 
 (3) There is authorized to be appropriated to the Secretary such sums as may be necessary to carry out this subsection.
 
@@ -104,7 +104,7 @@ The Secretary shall, in his budget request, identify those measures developed by
 
 #### (j) Construction of second lock at locks and dam 26, Mississippi River, Alton, Illinois and Missouri
 
-The Secretary is authorized to provide for the engineering, design, and construction of a second lock at locks and dam 26, Mississippi River, Alton, Illinois and Missouri, at a total cost of $220,000,000, with a first Federal cost of $220,000,000. Such second lock shall be one hundred and ten feet by six hundred feet and shallbe constructed at or in the vicinity of the location of the replacement lock authorized by section 102 of Public Law 95–502. Section 2212 of this title shall apply to the project authorized by this subsection.
+The Secretary is authorized to provide for the engineering, design, and construction of a second lock at locks and dam 26, Mississippi River, Alton, Illinois and Missouri, at a total cost of $220,000,000, with a first Federal cost of $220,000,000. Such second lock shall be one hundred and ten feet by six hundred feet and shall be constructed at or in the vicinity of the location of the replacement lock authorized by section 102 of Public Law 95–502. Section 2212 of this title shall apply to the project authorized by this subsection.
 
 (Pub. L. 99–662, title XI, §1103, Nov. 17, 1986, 100 Stat. 4225; Pub. L. 101–640, title IV, §405, Nov. 28, 1990, 104 Stat. 4646; Pub. L. 102–580, title I, §107, Oct. 31, 1992, 106 Stat. 4815.)
 

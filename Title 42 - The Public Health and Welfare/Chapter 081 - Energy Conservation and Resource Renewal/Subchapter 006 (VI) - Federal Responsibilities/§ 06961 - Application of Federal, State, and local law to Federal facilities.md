@@ -32,7 +32,7 @@ In general.—Except as otherwise provided in paragraphs (2) and (3), the amendm
 
 “(2)
 
-Delayed effective date for certain mixed waste.—Until the date that is 3 years after the date of the enactment of this Act, the waiver of sovereign immunity contained in section 6001(a) of the Solid Waste Disposal Act \[subsec. (a) of this section\] with respect to civil, criminal, and administrative penalties and fines (as added by the amendments made by subsection (a)) shall not apply to departments, agencies, and instrumentalities of the executive branch of the Federal Government for violations of section 3004(j) of the Solid Waste Disposal Act \[42 U.S.C. 6924(j)\] involving storage of mixed waste that is not subject to an existing agreement, permit, or administrative or judicial order, so long as such waste is managed in compliance with all other applicable requirements.
+Delayed effective date for certain mixed waste.—Until the date that is 3 years after the date of the enactment of this Act, the waiver of sovereign immunity contained in section 6001(a) of the Solid Waste Disposal Act \[subsec. (a) of this section\] with respect to civil, criminal, and administrative penalties and fines (as added by the amendments made by subsection (a))shall not apply to departments, agencies, and instrumentalities of the executive branch of the Federal Government for violations of section 3004(j) of the Solid Waste Disposal Act \[42 U.S.C. 6924(j)\] involving storage of mixed waste that is not subject to an existing agreement, permit, or administrative or judicial order, so long as such waste is managed in compliance with all other applicable requirements.
 
 “(3)
 
@@ -64,7 +64,7 @@ Ex. Ord. No. 12780, Oct. 31, 1991, 56 F.R. 56289, which required Federal agencie
 
 #### Ex. Ord. No. 12873. Federal Acquisition, Recycling, and Waste Prevention
 
-Ex. Ord. No. 12873, Oct. 20, 1993, 58 F.R. 54911, provided:
+Ex. Ord. No. 12873, Oct. 20, 1993, 58 F.R. 54911, as amended by Ex. Ord. No. 12995, Mar. 25, 1996, 61 F.R. 13645, provided:
 
 WHEREAS, the Nation's interest is served when the Federal Government can make more efficient use of natural resources by maximizing recycling and preventing waste wherever possible;
 
@@ -94,7 +94,7 @@ Sec. 202. “Executive agency” or “agency” means an Executive agency as de
 
 Sec. 203. “Postconsumer material” means a material or finished product that has served its intended use and has been discarded for disposal or recovery, having completed its life as a consumer item. “Postconsumer material” is a part of the broader category of “recovered material”.
 
-Sec. 204. “Acquisition” means the acquiring by contract with appropriated funds for supplies or services (including construction) by and for the use of the Federal Government through purchase or lease, whether the supplies or services are already in existence or must be created, developed, demonstrated and evaluated. Acquisition begins at the point when agency needs are established and includes the description of requirements to satisfy agency needs, solicitation and selection of sources, award of contracts, contract financing, contract performance, contract administration and those technical and management functions directly related to the process of fulfilling agency needs by contract.
+Sec. 204. “Acquisition” means the acquiring by contract with appropriated funds for supplies or services (including construction) by and for the use of the Federal Government through purchase or lease, whether the supplies or services are already in existence or must be created, developed, demonstrated and evaluated. Acquisition begins at the point when agency needs are established and includes the description of requirements to satisfy agency needs, solicitation and selection of sources, award of contracts, contract financing, contract performance, contract administration andthose technical and management functions directly related to the process of fulfilling agency needs by contract.
 
 Sec. 205. “Recovered materials” means waste materials and by-products which have been recovered or diverted from solid waste, but such term does not include those materials and by-products generated from, and commonly reused within, an original manufacturing process (42 U.S.C. 6903(19)).
 
@@ -112,7 +112,7 @@ Sec. 211. “Life Cycle Analysis” means the comprehensive examination of a pro
 
 #### PART 3—THE ROLE OF THE FEDERAL ENVIRONMENTAL EXECUTIVE AND AGENCY ENVIRONMENTAL EXECUTIVES
 
-Sec. 301. <i>Federal Environmental Executive</i>. (a) A Federal Environmental Executive shall be designated by the President and shall be located within the Environmental Protection Agency (“EPA”). The Federal Environmental Executive shall take all actions necessary to ensure that the agencies comply with the requirements of this order and shall generate an annual report to the Office of Management and Budget (“OMB”), at the time of agency budget submissions, on the actions taken by the agencies to comply with the requirements of this order. In carrying out his or her functions, the Federal Environmental Executive shall consult with the Director of the White House Office on Environmental Policy.
+Sec. 301. <i>Federal Environmental Executive</i>. (a) A Federal Environmental Executive shall be designated by the President and shall be located within the Environmental Protection Agency (“EPA”). The Federal Environmental Executive shall take all actions necessary to ensure that the agencies comply with the requirements of this order and shall generate an annual report to the Office of Management and Budget (“OMB”), at the time of agency budget submissions, on the actions taken by the agencies to comply with the requirements of this order. In carrying out his or her functions, the Federal Environmental Executive shall consult with the Chairman of the Council on Environmental Quality.
 
 (b) <i>Staffing</i>. A minimum of four (4) full time staff persons are to be provided by the agencies listed below to assist the Federal Environmental Executive, one of whom shall have experience in specification review and program requirements, one of whom shall have experience in procurement practices, and one of whom shall have experience in solid waste prevention and recycling. These four staff persons shall be appointed and replaced as follows:
 
@@ -206,17 +206,9 @@ Sec. 503. <i>Guidance for Environmentally Preferable Products</i>. In accordance
 
 Sec. 504. <i>Minimum Content Standard for Printing and Writing Paper</i>. Executive agency heads shall ensure that agencies shall meet or exceed the following minimum materials content standards when purchasing or causing the purchase of printing and writing paper:
 
-(a) For high speed copier paper, offset paper, forms bond, computer printout paper, carbonless paper, file folders, and white woven envelopes, the minimum content standard shall be no less than 20 percent postconsumer materials beginning December 31, 1994. This minimum content standard shall be increased to 30 percent beginning on December 31, 1998.
+(a) For high speed copier paper, offset paper, forms bond, computer printout paper, carbonless paper, file folders, white woven envelopes and for other uncoated printing and writing paper, such as writing and office paper, book paper, cotton fiber paper, and cover stock, the minimum content standard shall be no less than 20 percent postconsumer materials beginning December 31, 1994. This minimum content standard shall be increased to 30 percent beginning on December 31, 1998.
 
-(b) For other uncoated printing and writing paper, such as writing and office paper, book paper, cotton fiber paper, and cover stock, the minimum content standard shall be 50 percent recovered materials, including 20 percent postconsumer materials beginning on December 31, 1994. This standard shall be increased to 30 percent beginning on December 31, 1998.
-
-(c) As an alternative to meeting the standards in sections 504(a) and (b), for all printing and writing papers, the minimum content standard shall be no less than 50percent recovered materials that are a waste material byproduct of a finished product other than a paper or textile product which would otherwise be disposed of in a landfill, as determined by the State in which the facility is located.
-
-(1) The decision not to procure recycled content printing and writing paper meeting the standards specified in this section shall be based solely on a determination by the contracting officer that a satisfactory level of competition does not exist, that the items are not available within a reasonable time period, or that the available items fail to meet reasonable performance standards established by the agency or are only available at an unreasonable price.
-
-(2) Each agency should implement waste prevention techniques, as specified in section 402(d) of this order, so that total annual expenditures for recycled content printing and writing paper do not exceed current annual budgets for paper products as measured by average annual expenditures, adjusted for inflation based on the Consumer Price Index or other suitable indices. In determining a target budget for printing and writing paper, agencies may take into account such factors as employee increases or decreases, new agency or statutory initiatives, and episodic or unique requirements (e.g., census).
-
-(3) Effective immediately, all agencies making solicitations for the purchase of printing and writing paper shall seek bids for paper with postconsumer material or recovered waste material as described in section 504(c).
+(b) As an alternative to meeting the standards in section 504(a), for all printing and writing papers, the minimum content standard shall be no less than 50 percent recovered materials that are a waste material byproduct of a finished product other than a paper or textile product which would otherwise be disposed of in a landfill, as determined by the State in which the facility is located.
 
 Sec. 505. <i>Revision of Brightness Specifications and Standards</i>. The General Services Administration and other Federal agencies are directed to identify, evaluate and revise or eliminate any standards or specifications unrelated to performance that present barriers to the purchase of paper or paper products made by production processes that minimize emissions of harmful byproducts. This evaluation shall include a review of unnecessary brightness and stock clause provisions, such as lignin content and chemical pulp requirements. The GSA shall complete the review and revision of such specifications within six months after the effective date of this order, and shall consult closely with the Joint Committee on Printing during such process. The GSA shall also compile any information or market studies that may be necessary to accomplish the objectives of this provision.
 
@@ -262,7 +254,7 @@ Sec. 802. <i>Internal Agency Awards Programs</i>. Each agency shall develop an i
 
 Sec. 901. Executive Order No. 12780, dated October 31, 1991, is hereby revoked.
 
-Sec. 902. This order is intended only to improve the internal management of the executive branch and is not intended to create any right or benefit, substantive or procedural, enforceable at law by a party against the United States, its agencies, its officers, or any other person.
+Sec. 902. This order is intended only to improve the internal management of the executive branch and isnot intended to create any right or benefit, substantive or procedural, enforceable at law by a party against the United States, its agencies, its officers, or any other person.
 
 Sec. 903. The policies expressed in this order, including the requirements and elements for effective agency affirmative procurement programs, shall be implemented and incorporated in the Federal Acquisition Regulation (FAR) within 180 days after the effective date of this order. The implementation language shall consist of providing specific direction and guidance on agency programs for preference, promotion, estimation, certification, reviewing and monitoring.
 

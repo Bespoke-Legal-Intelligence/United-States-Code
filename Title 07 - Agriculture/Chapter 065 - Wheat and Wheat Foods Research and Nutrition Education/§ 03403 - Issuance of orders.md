@@ -6,7 +6,7 @@ Whenever the Secretary has reason to believe that the issuance of an order will 
 
 #### (b) Effectuation of Congressional policy
 
-After notice and opportunity for hearing as provided in subsection (a) of this section, theSecretary shall issue an order if the Secretary finds, and sets forth in such order, upon the evidence introduced at such hearing that the issuance of such order and all the terms and conditions thereof will tend to effectuate the declared policy of this chapter.
+After notice and opportunity for hearing as provided in subsection (a) of this section, the Secretary shall issue an order if the Secretary finds, and sets forth in such order, upon the evidence introduced at such hearing that the issuance of such order and all the terms and conditions thereof will tend to effectuate the declared policy of this chapter.
 
 (Pub. L. 95–113, title XVII, §1704, Sept. 29, 1977, 91 Stat. 1033.)
 

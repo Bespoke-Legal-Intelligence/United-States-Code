@@ -44,7 +44,7 @@ Section 820(a) of title VIII of Pub. L. 97–35 provided that: “The provisions
 
 &emsp;“(C) that portion of the amendment made by section 810(d)(1) \[amending section 1766 of this title\] pertaining to the limitation on the number of meals for which reimbursement may be made under the child care food program;
 
-&emsp;“(D) that portion of the amendment made by section 810(d)(3) \[amending section 1766 of this title\]which reduces the meal reimbursement factor by 10 percent; and
+&emsp;“(D) that portion of the amendment made by section 810(d)(3) \[amending section 1766 of this title\] which reduces the meal reimbursement factor by 10 percent; and
 
 &emsp;“(E) section 811 \[amending section 1758 of this title\].
 

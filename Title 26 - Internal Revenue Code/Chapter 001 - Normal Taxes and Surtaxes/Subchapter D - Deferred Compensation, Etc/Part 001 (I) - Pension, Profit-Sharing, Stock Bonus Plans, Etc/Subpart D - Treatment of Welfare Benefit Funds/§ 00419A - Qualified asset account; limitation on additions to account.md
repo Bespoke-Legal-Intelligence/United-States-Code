@@ -14,7 +14,7 @@ For purposes of this subpart and section 512, the term “qualified asset accoun
 
 #### (b) Limitation on additions to account
 
-No addition to any qualified asset account may be taken into account under section 419(c)(1)(B) to the extent such addition results inthe amount in such account exceeding the account limit.
+No addition to any qualified asset account may be taken into account under section 419(c)(1)(B) to the extent such addition results in the amount in such account exceeding the account limit.
 
 #### (c) Account limit
 
@@ -36,7 +36,7 @@ For purposes of this section—
 
 &emsp;&emsp;(B) post-retirement life insurance benefits to be provided to covered employees.
 
-#### (3) Amount taken into account for SUB or severence <sup>1</sup> pay benefits
+#### (3) Amount taken into account for SUB or severance pay benefits
 
 #### (A) In general
 
@@ -50,7 +50,7 @@ For purposes of this section—
 
 #### (A) Disability benefits
 
-&emsp;&emsp;For purposes of paragraph (1), disability benefits payable to any individual shall not be taken into account to the extent such benefits are payable at an annual rate in excess of the lower of—
+&emsp;&emsp;For purposes of paragraph (1), disability benefits payable to any individual shall not be taken into account to the extent suchbenefits are payable at an annual rate in excess of the lower of—
 
 &emsp;&emsp;&emsp;(i) 75 percent of such individual's average compensation for his high 3 years (within the meaning of section 415(b)(3)), or
 
@@ -102,7 +102,7 @@ For purposes of this section—
 
 #### (3) Key employee
 
-&emsp;For purposes of this section, the term “key employee” means any employee who, at anytime during the plan year or any preceding plan year, is or was a key employee as defined in section 416(i).
+&emsp;For purposes of this section, the term “key employee” means any employee who, at any time during the plan year or any preceding plan year, is or was a key employee as defined in section 416(i).
 
 #### (e) Special limitations on reserves for medical benefits or life insurance benefits provided to retired employees
 
@@ -186,15 +186,15 @@ For purposes of this section—
 
 &emsp;&emsp;The first taxable year to which this section applies
 
-80&nbsp;
+80&nbsp;&nbsp;
 
 &emsp;&emsp;The second taxable year to which this section applies
 
-60&nbsp;
+60&nbsp;&nbsp;
 
 &emsp;&emsp;The third taxable year to which this section applies
 
-40&nbsp;
+40&nbsp;&nbsp;
 
 &emsp;&emsp;The fourth taxable year to which this section applies
 
@@ -254,9 +254,11 @@ For purposes of this subpart—
 
 The Secretary shall prescribe such regulations as may be appropriate to carry out the purposes of this subpart. Such regulations may provide that the plan administrator of any welfare benefit fund which is part of a plan to which more than 1 employer contributes shall submit such information to the employers contributing to the fund as may be necessary to enable the employers to comply with the provisions of this section.
 
-(Added Pub. L. 98–369, div. A, title V, §511(a), July 18, 1984, 98 Stat. 856; amended Pub. L. 99–514, title XVIII, §1851(a)(2), (3)(A), (4)–(7), (9), (13), Oct. 22, 1986, 100 Stat. 2858–2860, 2862; Pub. L. 100–647, title I, §1018(t)(1)(C), (2)(A), (u)(12), Nov. 10, 1988, 102 Stat. 3587, 3590.)
+(Added Pub. L. 98–369, div. A, title V, §511(a), July 18, 1984, 98 Stat. 856; amended Pub. L.99–514, title XVIII, §1851(a)(2), (3)(A), (4)–(7), (9), (13), Oct. 22, 1986, 100 Stat. 2858–2860, 2862; Pub. L. 100–647, title I, §1018(t)(1)(C), (2)(A), (u)(12), Nov. 10, 1988, 102 Stat. 3587, 3590; Pub. L. 104–188, title I, §1704(t)(60), Aug. 20, 1996, 110 Stat. 1890.)
 
 #### Amendments
+
+1996—Subsec. (c)(3). Pub. L. 104–188 substituted “severance” for “severence” in heading.
 
 1988—Subsec. (a). Pub. L. 100–647, §1018(u)(12), made technical amendment to directory language of Pub. L. 99–514, §1851(a)(6)(B). See 1986 Amendment note below.
 
@@ -304,7 +306,7 @@ Amendment by Pub. L. 99–514 effective, except as otherwise provided, as if inc
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
 #### Application of Section 419A(e) to Group-Term Life Insurance
 

@@ -66,7 +66,7 @@
 
 #### (d) Treatment of amounts available
 
-Amounts available under this section shall not be considered in any determination of the amounts available to the Department of the Interior.
+Amounts available under this section shall not be considered in any determination of theamounts available to the Department of the Interior.
 
 (Pub. L. 103–451, §6, Nov. 2, 1994, 108 Stat. 4776.)
 

@@ -38,7 +38,7 @@
 
 &emsp;&emsp;(i) $23,000, in the case of any student who has not successfully completed a program of undergraduate education, excluding loans made under section 1078–1 <sup>1</sup> or 1078–2 of this title; and
 
-&emsp;&emsp;(ii) $65,500, in the case of any graduate or professional student (as defined by regulations of the Secretary) and (I) including any loans which are insured by the Secretary under this section, or by a guaranty agency, made to such student before the student became a graduate or professional student),<sup>2</sup> but (II) excluding loans made under section 1078–1 <sup>1</sup> or 1078–2 of this title,
+&emsp;&emsp;(ii) $65,500, in the case of any graduate or professional student (as defined by regulations of the Secretary) and (I) including any loans which are insured by the Secretary under this section, or by a guaranty agency,made to such student before the student became a graduate or professional student),<sup>2</sup> but (II) excluding loans made under section 1078–1 <sup>1</sup> or 1078–2 of this title,
 
 > &emsp;except that the Secretary may increase the limit applicable to students who are pursuing programs which the Secretary determines are exceptionally expensive.
 
@@ -50,7 +50,7 @@
 
 &emsp;(A) Except as provided in subparagraph (B), the insurance liability on any loan insured by the Secretary under this part shall be 100 percent of the unpaid balance of the principal amount of the loan plus interest, except that—
 
-&emsp;&emsp;(i) if, for any fiscal year, the total amount of payments under section 1080 of this title by the Secretary to any eligible lender as described in section 1085(d)(1)(D) of this title exceeds 5 percent of the sum of the loans made by such lender which are insured by the Secretary and which were in repayment at the end of the preceding fiscal year, the insurance liability under this subsection forthat portion of such excess which represents loans insured after the applicable date with respect to such loans, as determined under subparagraph (C), shall be equal to 90 percent of the amount of such portion; or
+&emsp;&emsp;(i) if, for any fiscal year, the total amount of payments under section 1080 of this title by the Secretary to any eligible lender as described in section 1085(d)(1)(D) of this title exceeds 5 percent of the sum of the loans made by such lender which are insured by the Secretary and which were in repayment at the end of the preceding fiscal year, the insurance liability under this subsection for that portion of such excess which represents loans insured after the applicable date with respect to such loans, as determined under subparagraph (C), shall be equal to 90 percent of the amount of such portion; or
 
 &emsp;&emsp;(ii) if, for any fiscal year, the total amount of such payments to such a lender exceeds 9 percent of such sum, the insurance liability under this subsection for that portion of such excess which represents loans insured after the applicable date with respect to such loans, as determined under subparagraph (C), shall be equal to 80 percent of the amount of such portion.
 

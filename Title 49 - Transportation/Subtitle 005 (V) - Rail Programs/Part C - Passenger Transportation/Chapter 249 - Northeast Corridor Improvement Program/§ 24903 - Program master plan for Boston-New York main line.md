@@ -2,7 +2,7 @@
 
 (a)
 
-Contents.—Not later than October 27, 1993, in consultation with Amtrak and the commuter and freight rail carriers operating over the Northeast Corridor main line between Boston, Massachusetts, and New York, New York, the Secretary of Transportation shall submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a program master plan for a coordinated program of improvements to that main line that will allow the establishment of regularly scheduled, safe, and dependable rail passenger transportation between Boston, Massachusetts, and New York, New York, in not more than 3 hours, including intermediate stops. The plan shall include—
+Contents.—Not later than October 27, 1993, in consultation with Amtrak and the commuter and freight rail carriers operating over the Northeast Corridor main line between Boston, Massachusetts, and New York, New York, the Secretary of Transportation shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a program master plan for a coordinated program of improvements to that main line that will allow the establishment of regularly scheduled, safe, and dependable rail passenger transportation between Boston, Massachusetts, and New York, New York, in not more than 3 hours, including intermediate stops. The plan shall include—
 
 &emsp;(1) a description of the implications of the improvements for the regional transportation system, including the probable effects on general travel trends and on travel volumes in other transportation modes and the implications for State and local governments in achieving compliance with the Clean Air Act (42 U.S.C. 7401 et seq.);
 
@@ -24,11 +24,13 @@ Contents.—Not later than October 27, 1993, in consultation with Amtrak and the
 
 Submitting Modifications of Plan to Congress.—The Secretary shall submit to Congress any modification made to the program master plan and comments that Amtrak submits on the modification.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 933.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 933; Pub. L. 104–287, §5(48), Oct. 11, 1996, 110 Stat. 3393.)
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -50,7 +52,7 @@ In subsection (a), the word “appropriate” is omitted as surplus. Before clau
 
 The Clean Air Act, referred to in subsec. (a)(1), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
 
-#### Change of Name
+#### Amendments
 
-Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Transportation and Infrastructure of House of Representatives, in case of provisions of law relating to railroads, railway labor, or railroad retirement and unemployment, by section 1(c)(1) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+1996—Subsec. (a). Pub. L. 104–287 substituted “Committee on Transportation and Infrastructure” for “Committee on Energy and Commerce” in introductory provisions.
 

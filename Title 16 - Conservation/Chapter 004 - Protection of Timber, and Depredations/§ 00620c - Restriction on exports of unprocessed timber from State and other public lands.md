@@ -156,6 +156,16 @@ Subsecs. (c) to (<i>l</i>). Pub. L. 103–45, §2(3), (4), added subsecs. (c) to
 
 Section 4 of Pub. L. 103–45 provided that: “If any provision of this Act \[amending this section and section 620d of this title and enacting provisions set out as a note under section 620 of this title\], or the amendments made by this Act, or the application thereof to any person or circumstance is held invalid, the remainder of this Act and such amendments and the application of such provision to other persons not similarly situated or to other circumstances shall not be affected by such invalidation.”
 
+#### Extension and Issuance of Order Under Subsection (b)(2)
+
+Pub. L. 104–208, div. A, title I, §101(d) \[title III\], Sept. 30, 1996, 110 Stat. 3009–181, 3009–223, provided in part that: “The Secretary of Commerce shall extend untilSeptember 30, 1997, the order issued under section 491(b)(2)(A) of Public Law 101–382 \[16 U.S.C. 620c(b)(2)(A)\] and shall issue an order under section 491(b)(2)(B) of such law that will be effective October 1, 1997.”
+
+Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 104–134, title I, §101(c) \[title III, §333\], Apr. 26, 1996, 110 Stat. 1321–156, 1321–210; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.
+
+Pub. L. 104–99, title I, §130, Jan. 26, 1996, 110 Stat. 34.
+
 #### Section Referred to in Other Sections
 
 This section is referred to in section 620d of this title.

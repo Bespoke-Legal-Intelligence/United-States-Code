@@ -20,7 +20,7 @@ The appropriate Secretary is authorized to accept title to non-Federal property 
 
 #### (e) Transfer of jurisdiction over federally owned property to appropriate Secretary
 
-The head of any Federal department or agency having administrative jurisdiction over anylands or interests in land within the authorized boundaries of any federally administered component of the national wild and scenic rivers system designated in section 1274 of this title or hereafter designated for inclusion in the system by Act of Congress is authorized to transfer to the appropriate secretary jurisdiction over such lands for administration in accordance with the provisions of this chapter. Lands acquired by or transferred to the Secretary of Agriculture for the purposes of this chapter within or adjacent to a national forest shall upon such acquisition or transfer become national forest lands.
+The head of any Federal department or agency having administrative jurisdiction over any lands or interests in land within the authorized boundaries of any federally administered component of the national wild and scenic rivers system designated in section 1274 of this title or hereafter designated for inclusion in the system by Act of Congress is authorized to transfer to the appropriate secretary jurisdiction over such lands for administration in accordance with the provisions of this chapter. Lands acquired by or transferred to the Secretary of Agriculture for the purposes of this chapter within or adjacent to a national forest shall upon such acquisition or transfer become national forest lands.
 
 #### (f) Acceptance of donated land, funds, and other property
 
@@ -34,7 +34,7 @@ The appropriate Secretary is authorized to accept donations of lands and interes
 
 (3) The term “improved property”, as used in this chapter, means a detached, one-family dwelling (hereinafter referred to as “dwelling”), the construction of which was begun before January 1, 1967, (except where a different date is specifically provided by law with respect to any particular river) together with so much of the land on which the dwelling is situated, the said land being in the same ownership as the dwelling, as the appropriate Secretary shall designate to be reasonably necessary for the enjoyment of the dwelling for the sole purpose of noncommercial residential use, together with any structures accessory to the dwelling which are situated on the land so designated.
 
-(Pub. L. 90–542, §6, Oct. 2, 1968, 82 Stat. 912; Pub. L. 95–625, title VII, §763(b), Nov. 10, 1978, 92 Stat. 3533; Pub. L. 99–590, title V, §504, Oct. 30, 1986, 100 Stat. 3336.)
+(Pub. L. 90–542, §6, Oct. 2, 1968, 82 Stat. 912; Pub. L. 95–625, title VII, §763(b), Nov. 10, 1978, 92 Stat.3533; Pub. L. 99–590, title V, §504, Oct. 30, 1986, 100 Stat. 3336.)
 
 #### Amendments
 

@@ -20,9 +20,9 @@
 
 &emsp;(9) The term “direct loan” means a loan made or insured from funds in the account created by section 1929 of this title.
 
-&emsp;(10) The term “farmer program loan” means a farm ownership loan (FO) under section 1923 of this title, operating loan (OL) under section 1942 of this title, soil and water loan (SW) under section 1924 of this title, recreation loan (RL) under section 1924 of this title,<sup>1</sup> emergency loan (EM) under section 1961 of this title, economic emergency loan (EE) under section 202 of the Emergency Agricultural Credit Adjustment Act (title II of Public Law 95-334), economic opportunity loan (EO) under the Economic Opportunity Act of 1961 (42 U.S.C. 2942), softwood timber loan (ST) under section 1254 of the Food Security Act of 1985, or rural housing loan for farm service buildings (RHF) under section 1472 of title 42.
+&emsp;(10) The term “farmer program loan” means a farm ownership loan (FO) under section 1923 of this title, operating loan (OL) under section 1942 of this title, soil and water loan (SW) under section 1924 of this title, emergency loan (EM) under section 1961 of this title, economic emergency loan (EE) under section 202 of the Emergency Agricultural Credit Adjustment Act (title II of Public Law 95-334), economic opportunity loan (EO) under the Economic Opportunity Act of 1961 (42 U.S.C. 2942), softwood timber loan (ST) under section 1254 of the Food Security Act of 1985, or rural housing loan for farm service buildings (RHF) under section 1472 of title 42.
 
-&emsp;(11) The term “qualified beginning farmer or rancher” means an applicant—
+&emsp;(11) The term “qualified beginning farmer or rancher” means an applicant, regardless of whether the applicant is participating in a program under section 1935 of this title—
 
 &emsp;&emsp;(A) who is eligible for assistance under this chapter;
 
@@ -56,11 +56,31 @@
 
 &emsp;&emsp;(E) who agrees to participate in such loan assessment, borrower training, and financial management programs as the Secretary may require;
 
-&emsp;&emsp;(F) who does not own land or who, directly or through interests in family farm corporations, owns land, the aggregate acreage of which does not exceed 15 percent of the median acreage of the farms or ranches, as thecase may be, in the county in which the farm or ranch operations of the applicant are located, as reported in the most recent census of agriculture taken under section 142 of title 13; and
+&emsp;&emsp;(F) who does not own land or who, directly or through interests in family farm corporations, owns land, the aggregate acreage of which does not exceed 25 percent of the median acreage of the farms or ranches, as the case may be, in the county in which the farm or ranch operations of the applicant are located, as reported in the most recent census of agriculture taken under section 142 of title 13, except that this subparagraph shall not apply to a loan made or guaranteed under subchapter II of this chapter; and
 
 &emsp;&emsp;(G) who demonstrates that the available resources of the applicant and spouse (if any) of the applicant are not sufficient to enable the applicant to continue farming or ranching on a viable scale.
 
-(b) As used in sections 1927(e), 1981d, 1985(e) and (f), 1988(f), 1999(h), 2000(b) and (c), 2001, and 2005 of this title:
+&emsp;(12)
+
+Debt forgiveness.—
+
+&emsp;&emsp;(A)
+
+In general.—Except as provided in subparagraph (B), the term “debt forgiveness” means reducing or terminating a farmer program loan made or guaranteed under this chapter, in a manner that results in a loss to the Secretary, through—
+
+&emsp;&emsp;&emsp;(i) writing down or writing off a loan under section 2001 of this title;
+
+&emsp;&emsp;&emsp;(ii) compromising, adjusting, reducing, or charging-off a debt or claim under section 1981 of this title;
+
+&emsp;&emsp;&emsp;(iii) paying a loss on a guaranteed loan under section 2005 of this title; or
+
+&emsp;&emsp;&emsp;(iv) discharging a debt as a result of bankruptcy.
+
+&emsp;&emsp;(B)
+
+Loan restructuring.—The term “debt forgiveness” does not include consolidation, rescheduling, reamortization, or deferral.
+
+(b) As used in sections 1927(e), 1981d, 1985(e) and (f), 1988(b), 2000(b) and (c), 2001, and 2005 of this title:
 
 &emsp;(1) The term “borrower” means any farm borrower who has outstanding obligations to the Secretary under any farmer program loan, without regard to whether the loan has been accelerated, but does not include any farm borrower all of whose loans and accounts have been foreclosed on or liquidated, voluntarily or otherwise.
 
@@ -76,19 +96,15 @@
 
 &emsp;&emsp;(D) any combination of actions described in subparagraphs (A), (B), and (C).
 
-&emsp;(4) The term “preservation loan service program” means—
+&emsp;(4)
 
-&emsp;&emsp;(A) homestead retention as authorized under section 2000 of this title; and
+Preservation loan service program.—The term “preservation loan service program” means homestead retention as authorized under section 2000 of this title.
 
-&emsp;&emsp;(B) a leaseback or buyback of farmland authorized under section 1985 of this title.
-
-(Pub. L. 87–128, title III, §343, as added Pub. L. 87–703, title IV, §401(5), Sept. 27, 1962, 76 Stat. 632; amended Pub. L. 89–586, Sept. 19, 1966, 80 Stat. 809; Pub. L. 92–419, title I, §128(a), Aug. 30, 1972, 86 Stat. 666; Pub. L. 95–334, title I, §124, Aug. 4, 1978, 92 Stat. 428; Pub. L. 96–438, §2(2), Oct. 13, 1980, 94 Stat. 1872; Pub. L. 99–198, title XIII, §1301(b), Dec. 23, 1985, 99 Stat. 1519; Pub. L. 100–233, title VI, §602, Jan. 6, 1988, 101 Stat. 1665; Pub. L. 101–624, title XVIII, §1814, title XXIII, §2388(h), Nov. 28, 1990, 104 Stat. 3824, 4053; Pub. L. 102–237, title VII, §702(h)(1), Dec. 13, 1991, 105 Stat. 1880; Pub. L. 102–554, §19, Oct. 28, 1992, 106 Stat. 4158.)
+(Pub. L. 87–128, title III, §343, as added Pub. L. 87–703, title IV, §401(5), Sept. 27, 1962, 76 Stat. 632; amended Pub. L. 89–586, Sept. 19, 1966, 80 Stat. 809; Pub. L. 92–419, title I, §128(a), Aug. 30, 1972, 86 Stat. 666; Pub. L. 95–334, title I, §124, Aug. 4, 1978, 92 Stat. 428; Pub. L. 96–438, §2(2), Oct. 13, 1980, 94 Stat. 1872; Pub. L. 99–198, title XIII, §1301(b), Dec. 23, 1985, 99 Stat. 1519; Pub. L. 100–233, title VI, §602, Jan. 6, 1988, 101 Stat. 1665; Pub. L. 101–624, title XVIII, §1814, title XXIII, §2388(h), Nov. 28, 1990, 104 Stat. 3824, 4053; Pub. L. 102–237, title VII, §702(h)(1), Dec. 13, 1991, 105 Stat. 1880; Pub. L. 102–554, §19, Oct. 28, 1992, 106 Stat. 4158; Pub. L. 104–127, title VI, §§640, 661(h), title VII, §749(b)(2), Apr. 4, 1996, 110 Stat. 1098, 1107, 1129.)
 
 #### References in Text
 
 For definition of “this chapter”, referred to in subsec. (a), see note set out under section 1921 of this title.
-
-Recreation loan (RL) under section 1924 of this title, referred to in subsec. (a)(10), is a reference to former subsec. (a) of section 1924 of this title which was repealed by Pub. L. 102–237, title V, §501(a)(1), Dec. 13, 1991, 105 Stat. 1866.
 
 Section 202 of the Emergency Agricultural Credit Adjustment Act, referred to in subsec. (a)(10), is section 202 of Pub. L. 95–334, title II, Aug. 4, 1978, 92 Stat. 429, as amended, which was set out in a note preceding section 1961 of this title prior to repeal by Pub. L. 101–624, title XVIII, §1851, Nov. 28, 1990, 104 Stat. 3837.
 
@@ -98,7 +114,23 @@ Section 1254 of the Food Security Act of 1985, referred to in subsec. (a)(10), i
 
 #### Amendments
 
-1992—Subsec. (a). Pub. L. 102–554 substituted “this chapter:” and par. (1) for “this chapter (1) the term ‘farmers’ shall be deemed to include persons who are engaged in, or who, with assistance afforded under this chapter, intend to engage in, fish farming,”, in pars. (2) to (8), realigned margins and substituted “The” for “the” first place appearing in each par. and a period for a comma at end of each par., in par. (9), realigned margin and substituted “The” for “the” first place appearing and a period for “, and” at end, in par. (10), realigned margin and substituted “The” for “the” first place appearing, and added par. (11).
+1996—Subsec. (a)(10). Pub. L. 104–127, §661(h)(1), struck out “recreation loan (RL) under section 1924 of this title,” before “emergency loan (EM)”.
+
+Subsec. (a)(11). Pub. L. 104–127, §640(1)(A), in introductory provisions, substituted “applicant, regardless of whether the applicant is participating in a program under section 1935 of this title” for “applicant”.
+
+Subsec. (a)(11)(F). Pub. L. 104–127, §640(1)(B), substituted “25 percent” for “15 percent” and inserted before semicolon at end “, except that this subparagraph shall not apply to a loan made or guaranteed under subchapter II of this chapter”.
+
+Subsec. (a)(12). Pub. L. 104–127, §640(2), added par. (12).
+
+Subsec. (b). Pub. L. 104–127, §§661(h)(2)(A), 749(b)(2), in introductory provisions, substituted “1988(b), 2000(b) and (c)” for “1988(f), 1999(h), 2000(b) and (c)”.
+
+Subsec. (b)(4). Pub. L. 104–127, §661(h)(2)(B), added par. (4) and struck out former par. (4) which read as follows: “The term ‘preservation loan service program’ means—
+
+&emsp;“(A) homestead retention as authorized under section 2000 of this title; and
+
+&emsp;“(B) a leaseback or buyback of farmland authorized under section 1985 of this title.”
+
+1992—Subsec. (a). Pub. L. 102–554 substituted “this chapter:” and par. (1) for “this chapter (1) the term ‘farmers’ shall be deemed to include persons who areengaged in, or who, with assistance afforded under this chapter, intend to engage in, fish farming,”, in pars. (2) to (8), realigned margins and substituted “The” for “the” first place appearing in each par. and a period for a comma at end of each par., in par. (9), realigned margin and substituted “The” for “the” first place appearing and a period for “, and” at end, in par. (10), realigned margin and substituted “The” for “the” first place appearing, and added par. (11).
 
 1991—Subsec. (a)(1), (3). Pub. L. 102–237, §702(h)(1)(A), (B), made technical amendment to directory language of Pub. L. 101–624, §2388(h)(1), (2). See 1990 Amendment note below.
 
@@ -122,6 +154,10 @@ Subsec. (a)(8) to (10). Pub. L. 101–624, §1814, added pars. (8) to (10).
 
 1966—Pub. L. 89–586 struck out “and” before “(2)” and inserted cl. (3) defining “owner-operator”. See Effective and Termination Date of 1966 Amendment note below.
 
+#### Effective Date of 1996 Amendment
+
+Amendment by section 640(1) of Pub. L. 104–127 effective 90 days after Apr. 4, 1996, and amendment by sections 640(2) and 661(h) of Pub. L. 104–127 effective Apr. 4, 1996, see section 663(a), (b) of Pub. L. 104–127, set out as a note under section 1922 of this title.
+
 #### Effective Date of 1991 Amendment
 
 Amendment by Pub. L. 102–237 effective as if included in the provision of the Food, Agriculture, Conservation, and Trade Act of 1990, Pub. L. 101–624, to which the amendment relates, see section 1101(b)(7) of Pub. L. 102–237, set out as a note under section 1421 of this title.
@@ -132,7 +168,7 @@ Pub. L. 89–586, as amended by Pub. L. 90–426, July 26, 1968, 82 Stat. 445, p
 
 #### Construction of 1990 Amendment
 
-Section 702(h)(2) of Pub. L. 102–237, as amended by Pub. L. 102–552, title V, §516(k), Oct. 28, 1992, 106 Stat. 4139, provided that: “The Consolidated Farm and RuralDevelopment Act \[see Short Title note set out under section 1921 of this title\] shall be applied and administered as if the amendment made by section 2388(h)(3) of the Food, Agriculture, Conservation, and Trade Act of 1990 \[Pub. L. 101–624, amending this section\] had never been enacted.”
+Section 702(h)(2) of Pub. L. 102–237, as amended by Pub. L. 102–552, title V, §516(k), Oct. 28, 1992, 106 Stat. 4139, provided that: “The Consolidated Farm and Rural Development Act \[see Short Title note set out under section 1921 of this title\] shall be applied and administered as if the amendment made by section 2388(h)(3) of the Food, Agriculture, Conservation, and Trade Act of 1990 \[Pub. L. 101–624, amending this section\] had never been enacted.”
 
 #### Termination of Trust Territory of the Pacific Islands
 
@@ -140,7 +176,5 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1985 of this title; title 25 section 492.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+This section is referred to in title 25 section 492.
 

@@ -16,7 +16,7 @@ A prior section 553 of Pub. L. 89–329, title V, as added Pub. L. 99–498, tit
 
 Another prior section 553 of Pub. L. 89–329, title V, as added Pub. L. 96–374, title V, §506, Oct. 3, 1980, 94 Stat. 1464; amended Pub. L. 99–386, title I, §103(b), Aug. 22, 1986, 100 Stat. 821, established Office of Education Professional Development and was classified to section 1119c–2 of this title, prior to the general revision of this subchapter by Pub. L. 99–498.
 
-Another section 553 of Pub. L. 89–329, title V, as added Pub. L. 90–576, title II, §201, Oct. 16, 1968, 82 Stat. 1093,related to exchange programs, institutes, and in-service education for vocational education teachers, supervisors, coordinators, and administrators and was classified to section 1119c–2 of this title, prior to repeal by Pub. L. 94–482, title I, §151(a)(4)(C), title II, §204(c)(1), Oct. 12, 1976, 90 Stat. 2152, 2215.
+Another section 553 of Pub. L. 89–329, title V, as added Pub. L. 90–576, title II, §201, Oct. 16, 1968, 82 Stat. 1093, related to exchange programs, institutes, and in-service education for vocational education teachers, supervisors, coordinators, and administrators and was classified to section 1119c–2 of this title, prior to repeal by Pub. L. 94–482, title I, §151(a)(4)(C), title II, §204(c)(1), Oct. 12, 1976, 90 Stat. 2152, 2215.
 
 Section 1108b, Pub. L. 89–329, title V, §554, as added Pub. L. 102–325, title V, §501(a), July 23, 1992, 106 Stat. 698, stated purpose of this subpart.
 

@@ -44,7 +44,7 @@ Findings.—The Congress finds that—
 
 &emsp;“(1) the President on July 20, 1989, established the long-range goal of establishing a lunar base, followed by manned exploration of Mars in the early twenty-first century;
 
-&emsp;“(2) the United States and the Soviet Union, in cooperation with other countries, are currently planning further unmanned missions to the Moon and toMars with the possible goal of landing a human on Mars;
+&emsp;“(2) the United States and the Soviet Union, in cooperation with other countries, are currently planning further unmanned missions to the Moon and to Mars with the possible goal of landing a human on Mars;
 
 &emsp;“(3) a series of international missions to expand human presence beyond Earth orbit would further a spirit of, and follow through on the commitment made in, the 1987 agreement between the Soviet Union and the United States for space cooperation, as well as the successful cooperative agreements the United States has pursued with over one hundred countries since its inception, including the agreement with Japan, Canada, and the European countries for Space Station Freedom;
 

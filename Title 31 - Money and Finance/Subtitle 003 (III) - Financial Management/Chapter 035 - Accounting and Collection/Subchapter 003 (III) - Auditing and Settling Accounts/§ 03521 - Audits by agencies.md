@@ -2,7 +2,7 @@
 
 (a) Each account of an agency shall be audited administratively before being submitted to the Comptroller General. The head of each agency shall prescribe regulations for conducting the audit and designate a place at which the audit is to be conducted. However, a disbursing official of an executive agency may not administratively audit vouchers for which the official is responsible. With the consent of the Comptroller General, the head of the agency may waive any part of an audit.
 
-(b) The head of an agency may prescribe a statistical sampling procedure to audit vouchers of the agency when the head of the agency decides economies will result from using the procedure. The Comptroller General—
+(b) The head of an agency may prescribe a statistical sampling procedure to audit vouchers of the agency when the head of the agency decideseconomies will result from using the procedure. The Comptroller General—
 
 &emsp;(1) may prescribe the maximum amount of a voucher that may be audited under this subsection; and
 
@@ -22,7 +22,7 @@
 
 &emsp;(2) in any other case, by an independent external auditor, as determined by the head of the agency.
 
-(f)(1) For each audited financial statement required under subsections (a) and (f) of section 3515 of this title, the person who audits the statement for purpose of subsection (e) of this section shall submit a report on the audit to the head of the agency. A report under this subsection shall be prepared in accordance with generally accepted government auditing standards.
+(f)(1) For each audited financial statement required under subsections (a) and (f) of section 3515 of this title, the person who audits the statement for purpose of subsection (e) of this section shall submit a report on the audit to the head of the agency and the Controller of the Office of Federal Financial Management. A report under this subsection shall be prepared in accordance with generally accepted government auditing standards.
 
 (2) Not later than June 30 following the fiscal year for which a financial statement is submitted under subsection (g) of section 3515 of this title, the person who audits the statement for purpose of subsection (e) of this section shall submit a report on the audit to the head of the agency. A report under this subsection shall be prepared in accordance with generally accepted government auditing standards.
 
@@ -38,7 +38,7 @@
 
 (h) Each financial statement prepared by an executive agency for a fiscal year after fiscal year 1991 shall be audited in accordance with this section and the plan required by section 3512(a)(3)(B)(viii) of this title.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 961; Pub. L. 101–576, title III, §304(a), Nov. 15, 1990, 104 Stat. 2852; Pub. L. 103–356, title IV, §405(b), Oct. 13, 1994, 108 Stat. 3416.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 961; Pub. L. 101–576, title III, §304(a), Nov. 15, 1990, 104 Stat. 2852; Pub. L. 103–356, title IV, §405(b), Oct. 13, 1994, 108 Stat. 3416; Pub. L. 104–208, div. A, title I, §101(f) \[title VIII, §805(a)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–392.)
 
 Historical and Revision Notes
 
@@ -100,9 +100,15 @@ The Inspector General Act of 1978, referred to in subsec. (e)(1), is Pub. L. 95�
 
 #### Amendments
 
+1996—Subsec. (f)(1). Pub. L. 104–208 inserted “and the Controller of the Office of Federal Financial Management” before period at end of first sentence.
+
 1994—Subsec. (f). Pub. L. 103–356 amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “Not later than June 30 following the fiscal year for which a financial statement is submitted under section 3515 of this title by an agency, the person who audits the statement for purpose of subsection (e) shall submit a report on the audit to the head of the agency. A report under this subsection shall be prepared in accordance with generally accepted government auditing standards.”
 
 1990—Subsecs. (e) to (h). Pub. L. 101–576 added subsecs. (e) to (h).
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–208 effective for fiscal year ending Sept. 30, 1997, see section 101(f) \[title VIII, §807\] of Pub. L. 104–208, set out in a Federal Financial Management Improvement note under section 3512 of this title.
 
 #### Waiver of Requirements
 
@@ -114,5 +120,5 @@ Pub. L. 96–304, title III, §305, July 8, 1980, 94 Stat. 928, provided that: �
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 902, 3512 of this title.
+This section is referred to in sections 902, 3512 of this title; title 7 section 136a–1.
 

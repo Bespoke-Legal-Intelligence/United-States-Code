@@ -26,7 +26,7 @@ Submission of subscriber lists to networks.—A satellite carrier that makes sec
 
 &emsp;(3)
 
-Noncompliance with reporting and payment requirements.—Notwithstanding the provisions of paragraphs (1) and (2), the willful or repeated secondary transmission to the public by a satellite carrier of a primary transmission made by a superstation or a network station and embodying a performance or display of a work is actionable as an act of infringement under section 501, and is fully subject to the remedies provided by sections 502 through 506 and 509, where the satellite carrier has not deposited the statement of account and royalty fee required by subsection (b), or has failed to make the submissions to networks required by paragraph (2)(C).
+Noncompliance with reporting and payment requirements.—Notwithstanding the provisions of paragraphs (1) and (2), the willfulor repeated secondary transmission to the public by a satellite carrier of a primary transmission made by a superstation or a network station and embodying a performance or display of a work is actionable as an act of infringement under section 501, and is fully subject to the remedies provided by sections 502 through 506 and 509, where the satellite carrier has not deposited the statement of account and royalty fee required by subsection (b), or has failed to make the submissions to networks required by paragraph (2)(C).
 
 &emsp;(4)
 
@@ -196,7 +196,7 @@ Notice of initiation of proceedings.—On or before January 1, 1997, the Librari
 
 &emsp;&emsp;(B) <sup>2</sup>
 
-Factors for determining royalty fees.—In determining royalty fees under this paragraph, the copyright arbitration royalty panel appointed under chapter 8 shall consider the approximate average cost to a cable system for the right to secondarily transmit to the public a primary transmission made by a broadcast station, the fee established under any voluntary agreement filed with the Copyright Office in accordance with paragraph (2), and the last fee proposed by the parties, before proceedings under this paragraph, for the secondary transmission ofsuperstations or network stations for private home viewing. The fee shall also be calculated to achieve the following objectives:
+Factors for determining royalty fees.—In determining royalty fees under this paragraph, the copyright arbitration royalty panel appointed under chapter 8 shall consider the approximate average cost to a cable system for the right to secondarily transmit to the public a primary transmission made by a broadcast station, the fee established under any voluntary agreement filed with the Copyright Office in accordance with paragraph (2), and the last fee proposed by the parties, before proceedings under this paragraph, for the secondary transmission of superstations or network stations for private home viewing. The fee shall also be calculated to achieve the following objectives:
 
 &emsp;&emsp;&emsp;(i) To maximize the availability of creative works to the public.
 
@@ -264,7 +264,7 @@ Secondary transmission.—The term “secondary transmission” has the meaning 
 
 &emsp;(8)
 
-Subscriber.—The term “subscriber” means an individual who receives a secondary transmission service for private home viewing by means of a secondary transmission from a satellite carrier and pays a fee for the service, directly or indirectly, to the satellite carrier or to a distributor.
+Subscriber.—The term “subscriber” means an individual who receives a secondarytransmission service for private home viewing by means of a secondary transmission from a satellite carrier and pays a fee for the service, directly or indirectly, to the satellite carrier or to a distributor.
 
 &emsp;(9)
 
@@ -291,10 +291,6 @@ Exclusivity of This Section With Respect to Secondary Transmissions of Broadcast
 #### Termination of Section
 
 <i>For termination of section by section 4(a) of Pub. L. 103–369, see Termination of Section note below.</i>
-
-#### Termination of Amendment
-
-<i>For termination of subsec. (a)(8), as added by section 2(5) of Pub. L. 103–369, by section 6(c) of Pub. L. 103–369, see Effective and Termination Dates of 1994 Amendment note below.</i>
 
 #### References in Text
 
@@ -352,7 +348,7 @@ Subsec. (d)(11). Pub. L. 103–369, §2(6)(C), added par. (11).
 
 Subsec. (b)(2), (3). Pub. L. 103–198, §5(1)(B), (C), substituted “Librarian of Congress” for “Copyright Royalty Tribunal”.
 
-Subsec. (b)(4). Pub. L. 103–198, §5(1)(D), in subpar. (A), substituted “Librarian of Congress” for “Copyright Royalty Tribunal” after “claim with the” and for “Tribunal” after “requirements that the”, in subpar. (B), substituted “Librarian of Congress” for “Copyright Royalty Tribunal” before “shall determine” and for “Tribunal” wherever else appearing, and substituted“convene a copyright arbitration royalty panel” for “conduct a proceeding”, and in subpar. (C), substituted “Librarian of Congress” for “Copyright Royalty Tribunal”.
+Subsec. (b)(4). Pub. L. 103–198, §5(1)(D), in subpar. (A), substituted “Librarian of Congress” for “Copyright Royalty Tribunal” after “claim with the” and for “Tribunal” after “requirements that the”, in subpar. (B), substituted “Librarian of Congress” for “Copyright Royalty Tribunal” before “shall determine” and for “Tribunal” wherever else appearing, and substituted “convene a copyright arbitration royalty panel” for “conduct a proceeding”, and in subpar. (C), substituted “Librarian of Congress” for “Copyright Royalty Tribunal”.
 
 Subsec. (c). Pub. L. 103–198, §5(2)(A), substituted “Adjustment” for “Determination” in heading.
 

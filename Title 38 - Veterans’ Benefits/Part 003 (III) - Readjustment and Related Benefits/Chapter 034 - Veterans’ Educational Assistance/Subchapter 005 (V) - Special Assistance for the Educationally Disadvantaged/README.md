@@ -2,7 +2,7 @@
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in sections 3461, 3689 of this title.
+This subchapter is referred to in section 3461 of this title.
 
 
 ---

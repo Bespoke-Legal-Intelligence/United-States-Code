@@ -12,7 +12,7 @@ In addition to any criminal penalty provided by law, if—
 
 #### (b) Exception
 
-The Secretary may waive (in whole or in part) the penalty imposed under subsection (a) if the taxes imposed with respect to the individual under subtitle A for the taxable year are equal to or less than the sum of—
+The Secretary may waive (in whole or in part) the penalty imposed under subsection (a) if thetaxes imposed with respect to the individual under subtitle A for the taxable year are equal to or less than the sum of—
 
 &emsp;(1) the credits against such taxes allowed by part IV of subchapter A of chapter 1, and
 

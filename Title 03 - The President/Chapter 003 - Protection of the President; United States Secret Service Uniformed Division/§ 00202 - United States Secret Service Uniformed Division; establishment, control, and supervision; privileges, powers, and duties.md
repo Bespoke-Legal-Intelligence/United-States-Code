@@ -1,6 +1,6 @@
 ### §202. United States Secret Service Uniformed Division; establishment, control, and supervision; privileges, powers, and duties
 
-There is hereby created and established a permanent police force, to be known as the “United States Secret Service Uniformed Division”. Subject to the supervision of the Secretary of the Treasury, the United States Secret Service Uniformed Division shall perform such duties as the Director, United States Secret Service, may prescribe in connection with the protection of the following: (1) the White House in the District of Columbia; (2) any building in which Presidential offices are located; (3) the Treasury Building and grounds; (4) the President and members of his immediate family; (5) foreign diplomatic missions located in the metropolitan area of the District of Columbia; (6) the temporary official residence of the Vice President and grounds in the District of Columbia; (7) the Vice President and members of his immediate family; (8) foreign diplomatic missions located in metropolitan areas (other than the District of Columbia) in the United States where there are located twenty or more such missions headed by full-time officers, except that such protection shall be provided only (A) on the basis of extraordinary protective need, (B) upon request of the affected metropolitan area, and (C) when the extraordinary protective need arises at or in association with a visit to (i) a permanent missionto, or an observer mission invited to participate in the work of, an international organization of which the United States is a member; or (ii) an international organization of which the United States is a member, except that such protection may also be provided for motorcades and at other places associated with any such visit and may be extended at places of temporary domicile in connection with any such visit;
+There is hereby created and established a permanent police force, to be known as the “United States Secret Service Uniformed Division”. Subject to the supervision of the Secretary of the Treasury, the United States Secret Service Uniformed Division shall perform such duties as the Director, United States Secret Service, may prescribe in connection with the protection of the following: (1) the White House in the District of Columbia; (2) any building in which Presidentialoffices are located; (3) the Treasury Building and grounds; (4) the President and members of his immediate family; (5) foreign diplomatic missions located in the metropolitan area of the District of Columbia; (6) the temporary official residence of the Vice President and grounds in the District of Columbia; (7) the Vice President and members of his immediate family; (8) foreign diplomatic missions located in metropolitan areas (other than the District of Columbia) in the United States where there are located twenty or more such missions headed by full-time officers, except that such protection shall be provided only (A) on the basis of extraordinary protective need, (B) upon request of the affected metropolitan area, and (C) when the extraordinary protective need arises at or in association with a visit to (i) a permanent mission to, or an observer mission invited to participate in the work of, an international organization of which the United States is a member; or (ii) an international organization of which the United States is a member, except that such protection may also be provided for motorcades and at other places associated with any such visit and may be extended at places of temporary domicile in connection with any such visit;
 
 (9) foreign consular and diplomatic missions located in such areas in the United States, its territories and possessions, as the President, on a case-by-case basis, may direct; and
 
@@ -36,17 +36,15 @@ Cl. (10). Pub. L. 102–138, §135(b)(3), added cl. (10).
 
 1962—Pub. L. 87–481 transferred control and supervision of White House Police from Chief of Secret Service Division to Secretary of the Treasury and required such force to perform duties in connection with protection of any building in which White House offices are located and the President and members of his immediate family.
 
-#### Effective Date of 1992 Amendment
-
-Section 3(b) of Pub. L. 102–499 provided that: “The amendment made by subsection (a) \[amending this section\] shall be deemed to have become effective as of October 1, 1991.”
-
-#### References to Executive Protective Service Held To Be References to United States Secret Service Uniformed Division
+#### Change of Name
 
 Pub. L. 95–179, Nov. 15, 1977, 91 Stat. 1371, provided in part that: “Any reference in any other law or in any regulation, document, record, or other paper of the United States to the Executive Protective Service shall be held to be a reference to the United States Secret Service Uniformed Division.”
 
-#### References to White House Police Force Amended To Refer to Executive Protective Service
-
 Pub. L. 91–297, title II, §202, June 30, 1970, 84 Stat. 358, provided that: “All laws of the United States in force on the date of enactment of this title \[June 30, 1970\] in which reference is made to the White House Police force are amended by substituting ‘Executive Protective Service’ for each such reference.”
+
+#### Effective Date of 1992 Amendment
+
+Section 3(b) of Pub. L. 102–499 provided that: “The amendment made by subsection (a) \[amending this section\] shall be deemed to have become effective as of October 1, 1991.”
 
 #### Effective Date of 1991 Amendment
 
@@ -58,7 +56,7 @@ Section 135(b)(4) of Pub. L. 102–138 provided that:
 
 #### Effective Date of 1983 Amendment
 
-Section 2 of Pub. L. 97–418 provided that: “The amendments made by the first section of this Act \[amending sections 202 and 208 of this title\] shall take effective on the date of enactment of this Act \[Jan. 4, 1983\], except that no amount authorized to be appropriated by the amendment made by subsection (b) of the first section of this Act \[amending section 208(b) of this title\] may be made available for use or obligation prior to October 1, 1982.”
+Section 2 of Pub. L. 97–418 provided that: “The amendments made by the first section of this Act\[amending sections 202 and 208 of this title\] shall take effective on the date of enactment of this Act \[Jan. 4, 1983\], except that no amount authorized to be appropriated by the amendment made by subsection (b) of the first section of this Act \[amending section 208(b) of this title\] may be made available for use or obligation prior to October 1, 1982.”
 
 #### Effective Date of 1978 Amendment
 
@@ -66,7 +64,7 @@ Amendment by Pub. L. 95–570 applicable to any fiscal year beginning on or afte
 
 #### Effective Date of 1975 Amendment
 
-Section 1(e) of Pub. L. 94–196 provided that: “The amendments made by subsections (a), (b), and (d) ofthis section \[enacting section 208 of this title and amending this section\] shall take effect as of July 1, 1974.”
+Section 1(e) of Pub. L. 94–196 provided that: “The amendments made by subsections (a), (b), and (d) of this section \[enacting section 208 of this title and amending this section\] shall take effect as of July 1, 1974.”
 
 #### Effective Date of 1974 Amendment
 

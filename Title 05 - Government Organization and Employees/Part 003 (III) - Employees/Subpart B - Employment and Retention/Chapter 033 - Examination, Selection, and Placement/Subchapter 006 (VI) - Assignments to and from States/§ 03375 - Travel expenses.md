@@ -12,11 +12,11 @@
 
 &emsp;(2) section 5724 of this title, for the expenses of transportation of his immediate family and of his household goods and personal effects to and from the assignment location;
 
-&emsp;(3) section 5724a(a)(1) of this title, for the expenses of per diem allowances for the immediate family of the employee to and from the assignment location;
+&emsp;(3) section 5724a(a) of this title, for the expenses of per diem allowances for the immediate family of the employee to and from the assignment location;
 
-&emsp;(4) section 5724a(a)(3) of this title, for subsistence expenses of the employee and his immediate family while occupying temporary quarters at the assignment location and on return to his former post of duty;
+&emsp;(4) section 5724a(c) of this title, for subsistence expenses of the employee and his immediate family while occupying temporary quarters at the assignment location and on return to his former post of duty;
 
-&emsp;(5) section 5724a(b) of this title, to be used by the employee for miscellaneous expenses related to change of station where movement or storage of household goods is involved; and
+&emsp;(5) section 5724a(g) of this title, to be used by the employee for miscellaneous expenses related to change of station where movement or storage of household goods is involved; and
 
 &emsp;(6) section 5726(c) of this title, for the expenses of nontemporary storage of household goods and personal effects in connection with assignment at an isolated location.
 
@@ -24,15 +24,25 @@
 
 (c) Appropriations of a Federal agency are available to pay expenses under section 5742 of this title with respect to a Federal or State or local government employee assigned under this subchapter.
 
-(Added Pub. L. 91–648, title IV, §402(a), Jan. 5, 1971, 84 Stat. 1924; amended Pub. L. 95–454, title VI, §603(b), (e), Oct. 13, 1978, 92 Stat. 1190, 1191.)
+(Added Pub. L. 91–648, title IV, §402(a), Jan. 5, 1971, 84 Stat. 1924; amended Pub. L. 95–454, title VI, §603(b), (e), Oct. 13, 1978, 92 Stat. 1190, 1191; Pub. L. 104–201, div. A, title XVII, §1723(a)(1)(A), Sept. 23, 1996, 110 Stat. 2758.)
 
 #### Amendments
 
-<b>1978</b>—Subsec. (a). Pub. L. 95–454, §603(b), (e), substituted “a Federal agency” for “an executive agency” in introductory text, substituted “Federal” for “executive” in cl. (1), added cl. (5), and redesignated former cl. (5) as (6).
+1996—Subsec. (a)(3). Pub. L. 104–201, §1723(a)(1)(A)(i), substituted “section 5724a(a)” for “section 5724a(a)(1)”.
+
+Subsec. (a)(4). Pub. L. 104–201, §1723(a)(1)(A)(ii), substituted “section 5724a(c)” for “section 5724a(a)(3)”.
+
+Subsec. (a)(5). Pub. L. 104–201, §1723(a)(1)(A)(iii), substituted “section 5724a(g)” for “section 5724a(b)”.
+
+1978—Subsec. (a). Pub. L. 95–454, §603(b), (e), substituted “a Federal agency” for “an executive agency” in introductory text, substituted “Federal” for “executive” in cl. (1), added cl. (5), and redesignated former cl. (5) as (6).
 
 Subsec. (b). Pub. L. 95–454, §603(b), substituted “the Federal” for “the executive”.
 
 Subsec. (c). Pub. L. 95–454, §603(b), substituted “a Federal agency” for “an executive agency”.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–201 effective 180 days after Sept. 23, 1996, see section 1725(a) of Pub. L. 104–201, set out as a note under section 5722 of this title.
 
 #### Effective Date of 1978 Amendment
 

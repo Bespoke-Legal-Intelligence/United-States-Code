@@ -6,7 +6,7 @@ In General.—Except as provided in subsection (b), a State department of motor 
 
 (b)
 
-Permissible Uses.—Personal information referred to in subsection (a) shall be disclosed for use in connection with matters of motor vehicle or driver safety and theft, motor vehicleemissions, motor vehicle product alterations, recalls, or advisories, performance monitoring of motor vehicles and dealers by motor vehicle manufacturers, and removal of non-owner records from the original owner records of motor vehicle manufacturers to carry out the purposes of the Automobile Information Disclosure Act, the Motor Vehicle Information and Cost Saving Act, the National Traffic and Motor Vehicle Safety Act of 1966, the Anti-Car Theft Act of 1992, and the Clean Air Act, and may be disclosed as follows:
+Permissible Uses.—Personal information referred to in subsection (a) shall be disclosed for use in connection with matters of motor vehicle or driver safety and theft, motor vehicle emissions, motor vehicle product alterations, recalls, or advisories, performance monitoring of motor vehicles and dealers by motor vehicle manufacturers, and removal of non-owner records from the original owner records of motor vehicle manufacturers to carry out the purposes of titles I and IV of the Anti Car Theft Act of 1992, the Automobile Information Disclosure Act (15 U.S.C. 1231 et seq.), the Clean Air Act (42 U.S.C. 7401 et seq.), and chapters 301, 305, and 321–331 of title 49, and may be disclosed as follows:
 
 &emsp;(1) For use by any government agency, including any court or law enforcement agency, in carrying out its functions, or any private person or entity acting on behalf of a Federal, State, or local agency in carrying out its functions.
 
@@ -28,7 +28,7 @@ Permissible Uses.—Personal information referred to in subsection (a) shall be 
 
 &emsp;(8) For use by any licensed private investigative agency or licensed security service for any purpose permitted under this subsection.
 
-&emsp;(9) For use by an employer or its agent or insurer to obtain or verify information relating to a holder of a commercial driver's license that is required under the Commercial Motor Vehicle Safety Act of 1986 (49 U.S.C. App. 2710 et seq.).<sup>1</sup>
+&emsp;(9) For use by an employer or its agent or insurer to obtain or verify information relating to a holder of a commercial driver's license that is required under chapter 313 of title 49.
 
 &emsp;(10) For use in connection with the operation of private toll transportation facilities.
 
@@ -46,27 +46,33 @@ Permissible Uses.—Personal information referred to in subsection (a) shall be 
 
 (c)
 
-Resale or Redisclosure.—An authorized recipient of personal information (except a recipient under subsection (b)(11) or (12)) may resell or redisclose the information only for a use permitted under subsection (b) (but not for uses under subsection (b)(11) or (12)). An authorized recipient under subsection (b)(11) may resell or redisclose personal information for any purpose. An authorized recipient under subsection (b)(12) may resell or redisclose personal information pursuant to subsection (b)(12). Any authorized recipient (except a recipient under subsection (b)(11)) that resells or rediscloses personal information covered by this title must keep for a period of 5 years records identifying each person or entity that receives information and the permitted purpose for which the information will be used and must make such records available to the motor vehicle department upon request.
+Resale or Redisclosure.—An authorized recipient of personal information (except a recipient under subsection (b)(11) or (12)) may resell or redisclose the information only for a use permitted under subsection (b) (but not for uses under subsection (b)(11) or (12)). An authorized recipient under subsection (b)(11) may resell or redisclose personal information for any purpose. An authorized recipient under subsection (b)(12) may resell or redisclose personal information pursuant to subsection (b)(12). Any authorized recipient (except a recipient under subsection (b)(11)) that resells or rediscloses personal information covered by this chapter must keep for a period of 5 years records identifying each person or entity that receives information and the permitted purpose for which the information will be used and must make such records available to the motor vehicle department upon request.
 
 (d)
 
 Waiver Procedures.—A State motor vehicle department may establish and carry out procedures under which the department or its agents, upon receiving a request for personal information that does not fall within one of the exceptions in subsection (b), may mail a copy of the request to the individual about whom the information was requested, informing such individual of the request, together with a statement to the effect that the information will not be released unless the individual waives such individual's right to privacy under this section.
 
-(Added Pub. L. 103–322, title XXX, §300002(a), Sept. 13, 1994, 108 Stat. 2099.)
+(Added Pub. L. 103–322, title XXX, §300002(a), Sept. 13, 1994, 108 Stat. 2099; amended Pub. L. 104–287, §1, Oct. 11, 1996, 110 Stat. 3388; Pub. L. 104–294, title VI, §604(b)(46), Oct. 11, 1996, 110 Stat. 3509.)
 
 #### References in Text
 
+The Anti Car Theft Act of 1992, referred to in subsec. (b), is Pub. L. 102–519, Oct. 25, 1992, 106 Stat. 3384. For complete classification of titles I and IV of the Act to the Code, see Tables.
+
 The Automobile Information Disclosure Act, referred to in subsec. (b), is Pub. L. 85–506, July 7, 1958, 72 Stat. 325, as amended, which is classified generally to chapter 28 (§1231 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1231 of Title 15 and Tables.
-
-The Motor Vehicle Information and Cost Saving Act, referred to in subsec. (b), probably means the Motor Vehicle Information and Cost Savings Act, Pub. L. 92–513, Oct. 20, 1972, 86 Stat. 947, as amended, which was classified generally to chapter 46 (§1901 et seq.) of Title 15, and was repealed by Pub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379, and Pub. L. 103–429, §11(b), Oct. 31, 1994, 108 Stat. 4391, and reenacted by the first section of Pub. L. 103–272, and section 6(43)(B) of Pub. L. 103–429, as part C (§32101 et seq.) of subtitle VI of Title 49, Transportation.
-
-The National Traffic and Motor Vehicle Safety Act of 1966, referred to in subsec. (b), is Pub. L. 89–563, Sept. 9, 1966, 80 Stat. 718, as amended, which was classified generally to chapter 38 (§1381 et seq.) of Title 15, and was substantially repealed by Pub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379, and reenacted by the first section thereof as chapter 301 (§30101 et seq.) of Title 49.
-
-The Anti-Car Theft Act of 1992, referred to in subsec. (b), probably means the Anti Car Theft Act of 1992, Pub. L. 102–519, Oct. 25, 1992, 106 Stat. 3384. Sections 201 to 204 and 301 to 306 of the Act were repealed by Pub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379, the first section of which enacted subtitles II, III, and V to X of Title 49. For complete classification of this Act to the Code, see Short Title of 1992 Amendment note set out under section 2311 of this title and Tables.
 
 The Clean Air Act, referred to in subsec. (b), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
 
-The Commercial Motor Vehicle Safety Act of 1986, referred to in subsec. (b)(9), is title XII of Pub. L. 99–570, Oct. 27, 1986, 100 Stat. 3207–170, which was classified principally to chapter 36 (§2701 et seq.) of former Title 49, Transportation, and was substantially repealed by Pub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379, and reenacted by the first section thereof as chapter 313 (§31301 et seq.) of Title 49, Transportation.
+#### Amendments
+
+1996—Subsec. (b). Pub. L. 104–287, §1(1), in introductory provisions, substituted “titles I and IV of the Anti Car Theft Act of 1992, the Automobile Information Disclosure Act (15 U.S.C. 1231 et seq.), the Clean Air Act (42 U.S.C. 7401 et seq.), and chapters 301, 305, and 321–331 of title 49” for “the Automobile Information Disclosure Act, the Motor Vehicle Information and Cost Saving Act, the National Traffic and Motor Vehicle Safety Act of 1966, the Anti-Car Theft Act of 1992, and the Clean Air Act”.
+
+Subsec. (b)(9). Pub. L. 104–287, §1(2), substituted “chapter 313 of title 49” for “the Commercial Motor Vehicle Safety Act of 1986 (49 U.S.C. App. 2710 et seq.)”.
+
+Subsec. (c). Pub. L. 104–294 substituted “covered by this chapter” for “covered by this title”.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–294 effective Sept. 13, 1994, see section 604(d) of Pub. L. 104–294, set out as a note under section 13 of this title.
 
 #### Effective Date
 
@@ -76,9 +82,11 @@ Section 300003 of Pub. L. 103–322 provided that: “The amendments made by sec
 
 Section 300001 of title XXX of Pub. L. 103–322 provided that: “This title \[enacting this chapter\] may be cited as the ‘Driver's Privacy Protection Act of 1994’.”
 
+#### Relationship to Other Law
+
+The Consumer Credit Reporting Reform Act of 1996 \[see Short Title note set out under section 1601 of Title 15, Commerce and Trade\] not to be considered to supersede or otherwise affect this section with respect to motor vehicle records for surveys, marketing, or solicitations, see section 2421 of Pub. L. 104–208, set out as a note under section 1681a of Title 15.
+
 #### Section Referred to in Other Sections
 
 This section is referred to in section 2722 of this title.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

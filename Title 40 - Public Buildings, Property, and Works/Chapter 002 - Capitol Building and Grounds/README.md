@@ -54,6 +54,7 @@
 | [166e.](%C2%A7%2000166e%20-%20Funds%20out%20of%20Contingent%20Expenses%2C%20Architect%20of%20Capitol.md) | Funds out of Contingent Expenses, Architect of Capitol. |
 | [166f.](%C2%A7%2000166f%20-%20Funds%20out%20of%20Capitol%20Buildings%2C%20Architect%20of%20Capitol.md) | Funds out of Capitol Buildings, Architect of Capitol. |
 | [166g.](%C2%A7%2000166g%20-%20Expenses%20for%20flying%20American%20flags%20and%20providing%20certification%20services%20therefor.md) | Expenses for flying American flags and providing certification services therefor. |
+| [166h.](%C2%A7%2000166h%20-%20Transfer%20of%20funds%20by%20Architect%20of%20Capitol%3B%20approval.md) | Transfer of funds by Architect of Capitol; approval. |
 | [167\.](%C2%A7%2000167%20-%20Lighting%2C%20heating%2C%20and%20ventilating%20House%20of%20Representatives.md) | Lighting, heating, and ventilating House of Representatives. |
 | [167a.](%C2%A7%2000167a%20-%20Repealed.%20Pub.%20L.%2090%E2%80%93417%2C%20July%2023%2C%201968%2C%2082%20Stat.%20407.md) | Repealed. |
 | [168\.](%C2%A7%2000168%20-%20Heating%20and%20ventilating%20Senate%20wing.md) | Heating and ventilating Senate wing. |
@@ -108,12 +109,12 @@
 | (f) | United States Capitol Grounds provisions applicable. |
 | (g) | Designation; employment of services under supervision and control of Architect of Capitol: joint approval and direction of Speaker and President pro tempore; annual estimates to Congress; regulations governing Architect of Capitol. |
 | (h) | Joint appointee for supervision and control over page activities; regulations; Residence Superintendent of Pages: appointment, compensation, and duties; additional personnel: appointment and compensation. |
-| (i) | Sections 88a and 88b of title 2 unaffected. |
+| (i) | Section 88b of title 2 unaffected. |
 | 184b to 184f. Repealed. |  |
 | [184g.](%C2%A7%2000184g%20-%20House%20of%20Representatives%20Child%20Care%20Center.md) | House of Representatives Child Care Center. |
 | (a) | Maintenance and operation; admission of children. |
 | (b) | Advisory board; membership, functions, etc. |
-| (c) | Duties of Clerk of House of Representatives. |
+| (c) | Duties of Chief Administrative Officer of House of Representatives. |
 | (d) | Salaries and expenses; funding limits. |
 | (e) | Definitions. |
 | [185\.](%C2%A7%2000185%20-%20Capitol%20power%20plant.md) | Capitol power plant. |
@@ -204,14 +205,13 @@
 | [206\.](%C2%A7%2000206%20-%20Capitol%20Police%3B%20appointment%3B%20Chief%20of%20the%20Capitol%20Police.md) | Capitol Police; appointment; Chief of the Capitol Police. |
 | 206–1. | Capitol Police; compensation of Chief. |
 | 206a to 206a–8. Omitted. |  |
-| [206b.](%C2%A7%2000206b%20-%20Emergency%20duty%20overtime%20pay%20for%20Capitol%20Police%20from%20funds%20disbursed%20by%20the%20Clerk%20of%20the%20House%20of%20Representatives.md) | Emergency duty overtime pay for Capitol Police from funds disbursed by the Clerk of the House of Representatives. |
+| [206b.](%C2%A7%2000206b%20-%20Emergency%20duty%20overtime%20pay%20for%20Capitol%20Police%20from%20funds%20disbursed%20by%20the%20Chief%20Administrative%20Officer%20of%20the%20House%20of%20Representatives.md) | Emergency duty overtime pay for Capitol Police from funds disbursed by the Chief Administrative Officer of the House of Representatives. |
 | (a) | Entitlement of officer or member. |
 | (b) | Determination of rate of compensation. |
 | (c) | Written election by officer for compensation or compensatory time off for additional hours of duty. |
 | (d) | Certification procedure for additional compensation. |
 | (e) | Transfer of accrued compensatory time off or receipt of lump-sum payment upon termination of service. |
 | (f) | Definitions. |
-| (g) | Contingent fund of House available for payment of overtime pay. |
 | [206c.](%C2%A7%2000206c%20-%20Emergency%20duty%20overtime%20pay%20for%20Capitol%20Police%20from%20funds%20disbursed%20by%20Secretary%20of%20the%20Senate%3B%20compensatory%20time%20off%20in%20place%20of%E2%80%A6.md) | Emergency duty overtime pay for Capitol Police from funds disbursed by Secretary of the Senate; compensatory time off in place of additional pay; election, accrual and transfer of time off; rules and regulations. |
 | [207\.](%C2%A7%2000207%20-%20Payment%20of%20Capitol%20Police.md) | Payment of Capitol Police. |
 | [207a.](%C2%A7%2000207a%20-%20Unified%20payroll%20administration%20for%20Capitol%20Police.md) | Unified payroll administration for Capitol Police. |
@@ -239,12 +239,16 @@
 | (a) | Design and installation. |
 | (b) | Transfer of responsibility to Capitol Police Board. |
 | (c) | Transfer of positions to Capitol Police. |
+| 212a–4a. | Maintenance of security systems for Capitol buildings and grounds. |
+| 212a–5. | Capitol Police citation release. |
+| (a) | In general. |
+| (b) | Authority. |
 | [212b.](%C2%A7%2000212b%20-%20Regulation%20of%20traffic%20by%20Capitol%20Police%20Board.md) | Regulation of traffic by Capitol Police Board. |
 | (a) | Exclusive charge and control of all vehicular and other traffic. |
 | (b) | Promulgation of regulations. |
 | (c) | Printing of regulations and effective dates. |
 | (d) | Cooperation with Mayor of District of Columbia. |
-| 213, 213a. Repealed or Omitted. |  |
+| 213, 213a. | Repealed or Omitted. |
 | [214\.](%C2%A7%2000214%20-%20Protection%20of%20grounds.md) | Protection of grounds. |
 | [214a.](%C2%A7%2000214a%20-%20Omitted.md) | Omitted. |
 | [214b.](%C2%A7%2000214b%20-%20Designation%20of%20Capitol%20grounds%20as%20play%20area%20for%20children%20of%20Members%20and%20employees%20of%20Senate%20or%20House%20of%20Representatives.md) | Designation of Capitol grounds as play area for children of Members and employees of Senate or House of Representatives. |
@@ -270,6 +274,11 @@
 | (h) | Payment to center of amounts equal to Federal tax on employers. |
 | (i) | Administrative provisions. |
 | (j) | Regulations. |
+| [214e.](%C2%A7%2000214e%20-%20Reimbursement%20of%20Senate%20day%20care%20center%20employees.md) | Reimbursement of Senate day care center employees. |
+| (a) | Cost of training classes, conferences, and related expenses. |
+| (b) | Documentation. |
+| (c) | Regulations and limitations. |
+| (d) | Effective date. |
 | [215\.](%C2%A7%2000215%20-%20Supervision%20of%20Botanical%20Garden.md) | Supervision of Botanical Garden. |
 | [216\.](%C2%A7%2000216%20-%20Superintendent%2C%20etc.%2C%20of%20Botanical%20Garden%20and%20greenhouses.md) | Superintendent, etc., of Botanical Garden and greenhouses. |
 | [216a.](%C2%A7%2000216a%20-%20Restriction%20on%20use%20of%20appropriation%20for%20Botanical%20Garden.md) | Restriction on use of appropriation for Botanical Garden. |
@@ -295,8 +304,6 @@ Operation of buildings and related activities by Administrator of General Servic
 Reorganization of Executive Agencies, see Executive Order No. 6166, §§1, 2, promulgated June 10, 1933, set out as a note under section 901 of Title 5, Government Organization and Employees.
 
 Right of action for death or personal injury within national park or other place under exclusive jurisdiction of United States or governed by State laws, see section 457 of Title 16, Conservation.
-
-<i><sup>1</sup></i><i> So in original. Probably should be subchapter “III”.</i>
 
 
 ---
@@ -339,6 +346,7 @@ Right of action for death or personal injury within national park or other place
 - [&sect; 00166e - Funds out of Contingent Expenses, Architect of Capitol](%C2%A7%2000166e%20-%20Funds%20out%20of%20Contingent%20Expenses%2C%20Architect%20of%20Capitol.md)
 - [&sect; 00166f - Funds out of Capitol Buildings, Architect of Capitol](%C2%A7%2000166f%20-%20Funds%20out%20of%20Capitol%20Buildings%2C%20Architect%20of%20Capitol.md)
 - [&sect; 00166g - Expenses for flying American flags and providing certification services therefor](%C2%A7%2000166g%20-%20Expenses%20for%20flying%20American%20flags%20and%20providing%20certification%20services%20therefor.md)
+- [&sect; 00166h - Transfer of funds by Architect of Capitol; approval](%C2%A7%2000166h%20-%20Transfer%20of%20funds%20by%20Architect%20of%20Capitol%3B%20approval.md)
 - [&sect; 00167 - Lighting, heating, and ventilating House of Representatives](%C2%A7%2000167%20-%20Lighting%2C%20heating%2C%20and%20ventilating%20House%20of%20Representatives.md)
 - [&sect; 00167a - Repealed. Pub. L. 90&#8211;417, July 23, 1968, 82 Stat. 407](%C2%A7%2000167a%20-%20Repealed.%20Pub.%20L.%2090%E2%80%93417%2C%20July%2023%2C%201968%2C%2082%20Stat.%20407.md)
 - [&sect; 00168 - Heating and ventilating Senate wing](%C2%A7%2000168%20-%20Heating%20and%20ventilating%20Senate%20wing.md)
@@ -436,7 +444,7 @@ Right of action for death or personal injury within national park or other place
 - [&sect; 00206 - Capitol Police; appointment; Chief of the Capitol Police](%C2%A7%2000206%20-%20Capitol%20Police%3B%20appointment%3B%20Chief%20of%20the%20Capitol%20Police.md)
 - [&sect; 00206&#8211;1 - Capitol Police; compensation of Chief](%C2%A7%2000206%E2%80%931%20-%20Capitol%20Police%3B%20compensation%20of%20Chief.md)
 - [&sect; 00206a to 206a&#8211;8 - Omitted](%C2%A7%2000206a%20to%20206a%E2%80%938%20-%20Omitted.md)
-- [&sect; 00206b - Emergency duty overtime pay for Capitol Police from funds disbursed by the Clerk of the House of Representatives](%C2%A7%2000206b%20-%20Emergency%20duty%20overtime%20pay%20for%20Capitol%20Police%20from%20funds%20disbursed%20by%20the%20Clerk%20of%20the%20House%20of%20Representatives.md)
+- [&sect; 00206b - Emergency duty overtime pay for Capitol Police from funds disbursed by the Chief Administrative Officer of the House of Representatives](%C2%A7%2000206b%20-%20Emergency%20duty%20overtime%20pay%20for%20Capitol%20Police%20from%20funds%20disbursed%20by%20the%20Chief%20Administrative%20Officer%20of%20the%20House%20of%20Representatives.md)
 - [&sect; 00206c - Emergency duty overtime pay for Capitol Police from funds disbursed by Secretary of the Senate; compensatory time off in place of&#8230;](%C2%A7%2000206c%20-%20Emergency%20duty%20overtime%20pay%20for%20Capitol%20Police%20from%20funds%20disbursed%20by%20Secretary%20of%20the%20Senate%3B%20compensatory%20time%20off%20in%20place%20of%E2%80%A6.md)
 - [&sect; 00207 - Payment of Capitol Police](%C2%A7%2000207%20-%20Payment%20of%20Capitol%20Police.md)
 - [&sect; 00207a - Unified payroll administration for Capitol Police](%C2%A7%2000207a%20-%20Unified%20payroll%20administration%20for%20Capitol%20Police.md)
@@ -451,6 +459,8 @@ Right of action for death or personal injury within national park or other place
 - [&sect; 00212a&#8211;2 - Protection of Members of Congress, officers of Congress, and members of their families](%C2%A7%2000212a%E2%80%932%20-%20Protection%20of%20Members%20of%20Congress%2C%20officers%20of%20Congress%2C%20and%20members%20of%20their%20families.md)
 - [&sect; 00212a&#8211;3 - Law enforcement authority of Capitol Police](%C2%A7%2000212a%E2%80%933%20-%20Law%20enforcement%20authority%20of%20Capitol%20Police.md)
 - [&sect; 00212a&#8211;4 - Security systems for Capitol buildings and grounds](%C2%A7%2000212a%E2%80%934%20-%20Security%20systems%20for%20Capitol%20buildings%20and%20grounds.md)
+- [&sect; 00212a&#8211;4a - Maintenance of security systems for Capitol buildings and grounds](%C2%A7%2000212a%E2%80%934a%20-%20Maintenance%20of%20security%20systems%20for%20Capitol%20buildings%20and%20grounds.md)
+- [&sect; 00212a&#8211;5 - Capitol Police citation release](%C2%A7%2000212a%E2%80%935%20-%20Capitol%20Police%20citation%20release.md)
 - [&sect; 00212b - Regulation of traffic by Capitol Police Board](%C2%A7%2000212b%20-%20Regulation%20of%20traffic%20by%20Capitol%20Police%20Board.md)
 - [&sect; 00213 - Repealed. July 31, 1946, ch. 707, &sect;15, 60 Stat. 720](%C2%A7%2000213%20-%20Repealed.%20July%2031%2C%201946%2C%20ch.%20707%2C%20%C2%A715%2C%2060%20Stat.%20720.md)
 - [&sect; 00213a - Omitted](%C2%A7%2000213a%20-%20Omitted.md)
@@ -459,6 +469,7 @@ Right of action for death or personal injury within national park or other place
 - [&sect; 00214b - Designation of Capitol grounds as play area for children of Members and employees of Senate or House of Representatives](%C2%A7%2000214b%20-%20Designation%20of%20Capitol%20grounds%20as%20play%20area%20for%20children%20of%20Members%20and%20employees%20of%20Senate%20or%20House%20of%20Representatives.md)
 - [&sect; 00214c - Senate Employee Child Care Center](%C2%A7%2000214c%20-%20Senate%20Employee%20Child%20Care%20Center.md)
 - [&sect; 00214d - Child care center employee benefits](%C2%A7%2000214d%20-%20Child%20care%20center%20employee%20benefits.md)
+- [&sect; 00214e - Reimbursement of Senate day care center employees](%C2%A7%2000214e%20-%20Reimbursement%20of%20Senate%20day%20care%20center%20employees.md)
 - [&sect; 00215 - Supervision of Botanical Garden](%C2%A7%2000215%20-%20Supervision%20of%20Botanical%20Garden.md)
 - [&sect; 00216 - Superintendent, etc., of Botanical Garden and greenhouses](%C2%A7%2000216%20-%20Superintendent%2C%20etc.%2C%20of%20Botanical%20Garden%20and%20greenhouses.md)
 - [&sect; 00216a - Restriction on use of appropriation for Botanical Garden](%C2%A7%2000216a%20-%20Restriction%20on%20use%20of%20appropriation%20for%20Botanical%20Garden.md)

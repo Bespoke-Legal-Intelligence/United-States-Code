@@ -16,7 +16,7 @@ With respect to any undercover investigative operation of the United States Cust
 
 &emsp;&emsp;&emsp;(iv) section 34 of title 40, and
 
-&emsp;&emsp;&emsp;(v) section 254(a) and (c) <sup>1</sup> of title 41, and
+&emsp;&emsp;&emsp;(v) section 254(a) of title 41, and
 
 &emsp;&emsp;(B) to establish or to acquire proprietary corporations or business entities as part of the undercover operation, and to operate such corporations or business entities on a commercial basis, without regard to sections 9102 and 9103 of title 31;
 
@@ -28,7 +28,7 @@ With respect to any undercover investigative operation of the United States Cust
 
 #### (b) Liquidation of corporations and business entities
 
-If a corporation or business entity established or acquired as part of an undercover operation under paragraph (1)(B) of subsection (a) of this section with a net value over $50,000 is to be liquidated, sold, or otherwise disposed of, the Service, as much in advance as the Commissioner or his designee determines is practicable, shall report the circumstances to the Secretary of the Treasury and the Comptroller General. The proceeds of the liquidation, sale, or other disposition, after obligations are met, shall be deposited in the Treasury of the United States as miscellaneous receipts.
+If a corporation or business entity established or acquired as part of an undercover operation under paragraph (1)(B) of subsection (a) of this section with a net value over $50,000 is to be liquidated, sold, or otherwise disposed of, the Service, as much in advance as the Commissioner or his designee determines is practicable, shall report the circumstances to the Secretary of the Treasury. The proceeds of the liquidation, sale, or other disposition, after obligations are met, shall be deposited in the Treasury of the United States as miscellaneous receipts.
 
 #### (c) Deposit of proceeds
 
@@ -74,11 +74,11 @@ For purposes of subsection (d) of this section—
 
 > &emsp;except that subparagraphs (A) and (B) shall not apply with respect to the report required under paragraph (2) of subsection (d) of this section.
 
-(Pub. L. 99–570, title III, §3131, Oct. 27, 1986, 100 Stat. 3207–90.)
+(Pub. L. 99–570, title III, §3131, Oct. 27, 1986, 100 Stat. 3207–90; Pub. L. 104–201, div. A, title X, §1074(d)(3), Sept. 23, 1996, 110 Stat. 2661; Pub. L. 104–316, title I, §110(b), Oct. 19, 1996, 110 Stat. 3832.)
 
-#### References in Text
+#### Amendments
 
-Section 254(c) of title 41, referred to in subsec. (a)(1)(A)(v), was repealed by Pub. L. 103–355, title II, §2251(b), Oct. 13, 1994, 108 Stat. 3320. See section 254d of Title 41, Public Contracts.
+1996—Subsec. (a)(1)(A)(v). Pub. L. 104–201 struck out “and (c)” after “section 254(a)”.
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+Subsec. (b). Pub. L. 104–316 struck out “and the Comptroller General” after “the Secretary of the Treasury”.
 

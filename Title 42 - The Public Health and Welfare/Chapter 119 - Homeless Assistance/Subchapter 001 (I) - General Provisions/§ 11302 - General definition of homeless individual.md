@@ -44,7 +44,7 @@ Subsec. (b). Pub. L. 101–645 amended subsec. (b) generally. Prior to amendment
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1486, 11362, 11403c, 11481, 12899f of this title; title 12 sections 1441a, 1821; title 26 section 42; title 29 sections 1503, 1703a.
+This section is referred to in sections 1486, 11362, 11403c, 12899f of this title; title 12 sections 1441a, 1821; title 26 section 42; title 29 sections 1503, 1703a.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “ ‘homeless individual’ or ‘homeless person’ ”.</i>
 

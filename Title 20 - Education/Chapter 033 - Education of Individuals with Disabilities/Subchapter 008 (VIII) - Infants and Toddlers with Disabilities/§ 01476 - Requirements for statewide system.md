@@ -34,7 +34,7 @@ The statewide system required by subsection (a) of this section shall include, a
 
 &emsp;(9) a single line of responsibility in a lead agency designated or established by the Governor for carrying out—
 
-&emsp;&emsp;(A) the general administration and supervision of programs and activities receiving assistance under section 1473 of this title, and the monitoring of programs and activities used by the State to carry out this subchapter, whether or not such programs oractivities are receiving assistance made available under section 1473 of this title, to ensure that the State complies with this subchapter,
+&emsp;&emsp;(A) the general administration and supervision of programs and activities receiving assistance under section 1473 of this title, and the monitoring of programs and activities used by the State to carry out this subchapter, whether or not such programs or activities are receiving assistance made available under section 1473 of this title, to ensure that the State complies with this subchapter,
 
 &emsp;&emsp;(B) the identification and coordination of all available resources within the State from Federal, State, local and private sources,
 
@@ -98,7 +98,7 @@ Subsec. (b)(8). Pub. L. 101–476, §802(2), inserted before comma at end “, 
 
 Subsec. (b)(9)(D), (14). Pub. L. 101–476, §901(b)(172), (173), substituted “infants and toddlers with disabilities” for “handicapped infants and toddlers”.
 
-1988—Subsec. (b)(5). Pub. L. 100–630, §108(d)(1), made technical amendment to reference to subchapter II ofthis chapter resulting in no change in text and substituted “for participation by” for “for the participation by”.
+1988—Subsec. (b)(5). Pub. L. 100–630, §108(d)(1), made technical amendment to reference to subchapter II of this chapter resulting in no change in text and substituted “for participation by” for “for the participation by”.
 
 Subsec. (b)(12). Pub. L. 100–630, §108(d)(2), struck out “and” at end.
 

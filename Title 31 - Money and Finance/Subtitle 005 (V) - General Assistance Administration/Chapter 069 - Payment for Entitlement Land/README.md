@@ -18,7 +18,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in title 16 section 544(<i>l</i>); title 25 section 640d–10; title 43 section 1457a.
+This chapter is referred to in title 16 sections 544<i>l</i>, 698u–4; title 25 section 640d–10; title 43 section 1457a.
 
 
 ---

@@ -1,8 +1,8 @@
 ### \[§§4201 to 4218. Repealed. Pub. L. 98–473, title II, §218(a)(5), Oct. 12, 1984, 98 Stat. 2027\]
 
-#### Effective Date of Repeal; Chapter To Remain in Effect for Ten Years After Nov. 1, 1987
+#### Effective Date of Repeal; Chapter To Remain in Effect for Fifteen Years After Nov. 1, 1987
 
-Section 235(a)(1) of Pub. L. 98–473, set out as an Effective Date note under section 3551 of this title, providedthat the repeal of this chapter is effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of such repeal. Section 235(b)(1)(A) of Pub. L. 98–473 provided that the provisions of this chapter in effect before Nov. 1, 1987, shall remain in effect for five years after Nov. 1, 1987, as to an individual who committed an offense or an act of juvenile delinquency before Nov. 1, 1987, and as to a term of imprisonment during the period described in section 235(a)(1)(B) of Pub. L. 98–473. Pub. L. 101–650, title III, §316, Dec. 1, 1990, 104 Stat. 5115, extended the period that this chapter remains in effect after Nov. 1, 1987, from five years to ten years. Prior to repeal, the provisions of this chapter read as follows:
+Section 235(a)(1) of Pub. L. 98–473, set out as an Effective Date note under section 3551 of this title, provided that the repeal of this chapter is effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of such repeal. Section 235(b)(1)(A) of Pub. L. 98–473 provided that the provisions of this chapter in effect before Nov. 1, 1987, shall remain in effect for five years after Nov. 1, 1987, as to an individual who committed an offense or an act of juvenile delinquency before Nov. 1, 1987, and as to a term of imprisonment during the period described in section 235(a)(1)(B) of Pub. L. 98–473. Pub. L. 101–650, title III, §316, Dec. 1, 1990, 104 Stat. 5115, extended the period that this chapter remains in effect after Nov. 1, 1987, from five years to ten years. Pub. L. 104–232, §2(a), Oct. 2, 1996, 110 Stat. 3055, extended the period that this chapter remains in effect after Nov. 1, 1987, from ten years to fifteen years. Prior to repeal, the provisions of this chapter read as follows:
 
 #### §4201. Definitions
 
@@ -28,13 +28,63 @@ There is hereby established, as an independent agency in the Department of Justi
 
 > (Added Pub. L. 94–233, §2, Mar. 15, 1976, 90 Stat. 219.)
 
+#### Parole Commission Phaseout
+
+Pub. L. 104–232, §§1–3, Oct. 2, 1996, 110 Stat. 3055, 3056, provided that:
+
+#### “SECTION 1. SHORT TITLE.
+
+“This Act \[enacting and amending provisions set out as notes under section 3551 of this title\] may be cited as the ‘Parole Commission Phaseout Act of 1996’.
+
+#### “SEC. 2. EXTENSION OF PAROLE COMMISSION.
+
+“(a)
+
+In General.—For purposes of section 235(b) of the Sentencing Reform Act of 1984 \[Pub. L. 98–473, set out as a note under section 3551 of this title\] (98 Stat. 2032) as it related to chapter 311 of title 18, United States Code, and the Parole Commission, each reference in such section to ‘ten years’ or ‘ten-year period’ shall be deemed to be a reference to ‘fifteen years’ or ‘fifteen-year period’, respectively.
+
+“(b)
+
+Powers and Duties of Parole Commission.—Notwithstanding section 4203 of title 18, United StatesCode, the United States Parole Commission may perform its functions with any quorum of Commissioners, or Commissioner, as the Commission may prescribe by regulation.
+
+“(c)
+
+Reduction in Size.—
+
+&emsp;“(1) Effective December 31, 1999, the total number of Commissioners of the United States Parole Commission shall not be greater than 2. To the extent necessary to achieve this reduction, the Commissioner or Commissioners least senior in service shall cease to hold office.
+
+&emsp;“(2) Effective December 31, 2001, the United States Parole Commission shall consist only of that Commissioner who is the Chairman of the Commission.
+
+&emsp;“(3) Effective when the Commission consists of only one Commissioner—
+
+&emsp;&emsp;“(A) that Commissioner (or in the Commissioner's absence, the Attorney General) may delegate to one or more hearing examiners the powers set forth in paragraphs (1) through (4) of section 4203(b) of title 18, United States Code; and
+
+&emsp;&emsp;“(B) decisions made pursuant to such delegation shall take effect when made, but shall be subject to review and modification by the Commissioner.
+
+#### “SEC. 3. REPORTS BY THE ATTORNEY GENERAL.
+
+“(a)
+
+In General.—Beginning in the year 1998, the Attorney General shall report to the Congress not later than May 1 of each year through the year 2002 on the status of the United States Parole Commission. Unless the Attorney General, in such report, certifies that the continuation of the Commission is the most effective and cost-efficient manner for carrying out the Commission's functions, the Attorney General shall include in such report an alternative plan for a transfer of the Commission's functions to another entity.
+
+“(b)
+
+Transfer Within the Department of Justice.—
+
+&emsp;“(1)
+
+Effect of plan.—If the Attorney General includes such a plan in the report, and that plan provides for the transfer of the Commission's functions and powers to another entity within the Department of Justice, such plan shall take effect according to its terms on November 1 of that year in which the report is made, unless Congress by law provides otherwise. In the event such plan takes effect, all laws pertaining to the authority and jurisdiction of the Commission with respect to individual offenders shall remain in effect notwithstanding the expiration of the period specified in section 2 of this Act.
+
+&emsp;“(2)
+
+Conditional repeal.—Effective on the date such plan takes effect, paragraphs (3) and (4) of section 235(b) of the Sentencing Reform Act of 1984 \[Pub. L. 98–473, set out as a note under section 3551 of this title\] (98 Stat. 2032) are repealed.”
+
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
 References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
 #### Extension of Term of Commissioner
 
-Section 235(b)(2) of Pub. L. 98–473 provided that notwithstanding the provisions of section 4202 of this title as in effect on the day before Nov. 1, 1987 \[set out above\], the term of office of a Commissioner who is in office on Nov. 1, 1987, is extended to the end of the five-year period after Nov. 1, 1987. Pub. L. 101–650, title III, §316, Dec. 1, 1990, 104 Stat. 5115, further extended the term of office of a Commissioner to a ten-year period after Nov. 1, 1987.
+Section 235(b)(2) of Pub. L. 98–473, which provided that notwithstanding the provisions of section 4202 of this title as in effect on the day before Nov. 1, 1987 \[set out above\], the term of office of a Commissioner who is in office on Nov. 1, 1987, is extended to the end of the five-year period after Nov. 1, 1987, was repealed by Pub. L. 104–232, §4, Oct. 2, 1996, 110 Stat. 3056. Pub. L. 101–650, title III, §316, Dec. 1, 1990, 104 Stat. 5115, further extended the term of office of a Commissioner to a ten-year period after Nov. 1, 1987.
 
 #### §4203. Powers and duties of the Commission
 

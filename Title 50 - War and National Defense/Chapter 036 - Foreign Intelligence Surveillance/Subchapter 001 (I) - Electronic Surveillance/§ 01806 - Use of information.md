@@ -58,5 +58,5 @@ If an emergency employment of electronic surveillance is authorized under sectio
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1802 of this title.
+This section is referred to in section 1802 of this title; title 8 section 1534.
 

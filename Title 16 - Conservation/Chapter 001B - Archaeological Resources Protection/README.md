@@ -38,7 +38,7 @@
 | [470ii.](%C2%A7%2000470ii%20-%20Rules%20and%20regulations%3B%20intergovernmental%20coordination.md) | Rules and regulations; intergovernmental coordination. |
 | (a) | Promulgation; effective date. |
 | (b) | Federal land managers’ rules. |
-| (c) | Federal land managers’ public awareness program of archaeological resources on public lands and Indian lands; report. |
+| (c) | Federal land managers’ public awareness program of archaeological resources on public lands and Indian lands. |
 | [470jj.](%C2%A7%2000470jj%20-%20Cooperation%20with%20private%20individuals.md) | Cooperation with private individuals. |
 | [470kk.](%C2%A7%2000470kk%20-%20Savings%20provisions.md) | Savings provisions. |
 | (a) | Mining, mineral leasing, reclamation, and other multiple uses. |

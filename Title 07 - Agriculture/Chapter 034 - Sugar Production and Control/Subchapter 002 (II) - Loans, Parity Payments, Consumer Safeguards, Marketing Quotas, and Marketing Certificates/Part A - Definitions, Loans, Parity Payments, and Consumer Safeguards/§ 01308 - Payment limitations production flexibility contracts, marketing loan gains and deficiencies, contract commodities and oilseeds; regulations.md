@@ -1,0 +1,244 @@
+### §1308. Payment limitations: production flexibility contracts, marketing loan gains and deficiencies, contract commodities and oilseeds; regulations
+
+Notwithstanding any other provision of law:
+
+#### (1) Limitation on payments under production flexibility contracts
+
+&emsp;The total amount of contract payments made under the Agricultural Market Transition Act \[7 U.S.C. 7201 et seq.\] to a person under 1 or more production flexibility contracts during any fiscal year may not exceed $40,000.
+
+#### (2) Limitation on marketing loan gains and loan deficiency payments
+
+&emsp;The total amount of the payments specified in paragraph (3) that a person shall be entitled to receive under the Agricultural Market Transition Act \[7 U.S.C. 7201 et seq.\] for 1 or more contract commodities and oilseeds during any crop year may not exceed $75,000.
+
+#### (3) Description of payments subject to limitation
+
+&emsp;The payments referred to in paragraph (2) are the following:
+
+&emsp;&emsp;(A) Any gain realized by a producer from repaying a marketing assistance loan under section 131 of the Agricultural Market Transition Act \[7 U.S.C. 7231\] for a crop of any loan commodity at a lower level than the original loan rate established for the loan commodity under section 132 of the Act \[7 U.S.C. 7232\].
+
+&emsp;&emsp;(B) Any loan deficiency payment received for a loan commodity under section 135 of the Act \[7 U.S.C. 7235\].
+
+#### (4) Definitions
+
+&emsp;In this title,<sup>1</sup> the terms “contract commodity”, “contract payment”, “loan commodity”, “oilseed”, and “production flexibility contract” have the meaning given those terms in section 102 of the Agricultural Market Transition Act \[7 U.S.C. 7202\].
+
+&emsp;(5)(A) The Secretary shall issue regulations—
+
+&emsp;&emsp;(i) defining the term “person”; and
+
+&emsp;&emsp;(ii) prescribing such rules as the Secretary determines necessary to assure a fair and reasonable application of the limitation established under this section.
+
+> &emsp;Such regulations shall incorporate the provisions in subparagraphs (B) through (E) of this paragraph, paragraphs (6) and (7), and sections 1308–1 through 1308–3 of this title.
+
+&emsp;(B)(i) For the purposes of the regulations issued under subparagraph (A), subject to clause (ii), the term “person” means—
+
+&emsp;&emsp;(I) an individual, including any individual participating in a farming operation as a partner in a general partnership, a participant in a joint venture, a grantor of a revocable trust, or a participant in a similar entity (as determined by the Secretary);
+
+&emsp;&emsp;(II) a corporation, joint stock company, association, limited partnership, charitable organization, or other similar entity (as determined by the Secretary), including any such entity or organization participating in the farming operation as a partner in a general partnership, a participant in a joint venture, a grantor of a revocable trust, or as a participant in a similar entity (as determined by the Secretary); and
+
+&emsp;&emsp;(III) a State, political subdivision, or agency thereof.
+
+&emsp;(ii)(I) Such regulations shall provide that the term “person” does not include any cooperative association of producers that markets commodities for producers with respect to the commodities so marketed for producers.
+
+&emsp;(II) In defining the term “person” as it will apply to irrevocable trusts and estates, the Secretary shall ensure that fair and equitable treatment is given to trusts and estates and the beneficiaries thereof.
+
+&emsp;(III) Notwithstanding any other provision of law, to be considered a separate person under this section, an irrevocable trust (other than a trust established prior to January 1, 1987) must not allow for modification or termination of the trust by the grantor, allow for the grantor to have any future, contingent, or remainder interest in the corpus of the trust, or provide for the transfer of the corpus of the trust to the remainder beneficiary in less than 20 years from the date the trust is established except in cases where the transfer is contingent on the remainder beneficiary achieving at least the age of majority or is contingent on the death of the grantor or income beneficiary.
+
+&emsp;(iii) The regulations shall provide that, with respect to any married couple, the husband and wife shall be considered to be one person, except that, for the purpose of the application of the limitations established under this section—
+
+&emsp;&emsp;(I) in the case of any married couple consisting of spouses who, prior to their marriage, were separately engaged in unrelated farming operations, each spouse shall be treated as a separate person with respect to the farming operation brought into the marriage by the spouse so long as the operation remains as a separate farming operation; and
+
+&emsp;&emsp;(II) at the option of the Secretary, in the case of any married couple consisting of spouses who do not hold, directly or indirectly, a substantial beneficial interest in more than one entity (including the spouses themselves) engaged in farm operations that also receives farm program payments (as described in paragraphs (1) and (2)) as separate persons, the spouses may be considered as separate persons if each spouse meets the other requirements established under this section and section 1308–1 of this title to be considered to be a separate person.
+
+&emsp;(C) The regulations issued by the Secretary on December 18, 1970, under section 1307 of this title shall be used to establish the percentage ownership of a corporation by the stockholders of such corporation for the purpose of determining whether such corporation and stockholders are separate persons under this section.
+
+&emsp;(D) Any person that conducts a farming operation to produce a crop subject to limitations under this section as a tenant that rents the land for cash (or a crop share guaranteed as to the amount of the commodity to be paid in rent) and that makes a significant contribution of active personal management but not of personal labor shall be ineligible to receive any payment specified in paragraph (1) or (2) or subtitle D of title XII \[16 U.S.C. 3831 et seq.\] with respect to such land unless the tenant makes a significant contribution of equipment used in the farming operation.
+
+&emsp;(E) The Secretary may not approve (for purposes of the application of the limitations under this section) any change in a farming operation that otherwise will increase the number of persons to which the limitations under this section are applied unless the Secretary determines that the change is bona fide and substantive. In the implementation of the preceding sentence, the addition of a family member to a farming operation under the criteria set out in section 1308–1(b)(1)(B) of this title shall be considered a bona fide and substantive change in the farming operation.
+
+&emsp;(6) The provisions of this section that limit payments to any person shall not be applicable to land owned by a public school district or land owned by a State that is used to maintain a public school.
+
+&emsp;(7) Regulations of the Secretary shall establish time limits for the various steps involved with notice, hearing, decision, and the appeals procedure in order to ensure expeditious handling and settlement of payment limitation disputes. Notwithstanding any other provision of law, actions taken by an individual or other entity in good faith on action or advice of an authorized representative of the Secretary may be accepted as meeting the requirement under this section or section 1308–1 of this title, to the extent the Secretary deems it desirable in order to provide fair and equitable treatment.
+
+(Pub. L. 99–198, title X, §1001, Dec. 23, 1985, 99 Stat. 1444; Pub. L. 99–500, §108(a), Oct. 18, 1986, 100 Stat. 1783–346, and Pub. L. 99–591, §108(a), Oct. 30, 1986, 100 Stat. 3341–346; Pub. L. 100–71, title I, July 11, 1987, 101 Stat. 428; Pub. L. 100–203, title I, §§1301(a)(1), (2), 1303, 1305(c), 1307, Dec. 22, 1987, 101 Stat. 1330–12, 1330–16, 1330–18, 1330–19; Pub. L. 101–217, §§1, 2, Dec. 11, 1989, 103 Stat. 1857; Pub. L. 101–624, title XI, §1111(a), (c), (e), Nov. 28, 1990, 104 Stat. 3497–3499; Pub. L. 102–237, title I, §118(b), Dec. 13, 1991, 105 Stat. 1841; Pub. L. 103–66, title I, §1101(b)(3)(A), Aug. 10, 1993, 107 Stat. 314; Pub. L. 104–127, title I, §115(b), Apr. 4, 1996, 110 Stat. 902.)
+
+#### References in Text
+
+The Agricultural Market Transition Act, referred to in pars. (1) and (2), is title I of Pub. L. 104–127, Apr. 4, 1996, 110 Stat. 896, which is classified principally to chapter 100 (§7201 et seq.) of this title. For complete classification of this Act to the Code, see References in Text note set out under section 7201 of this title and Tables.
+
+This title, referred to in par. (4), is title X of Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1444, as amended. For complete classification of title X to the Code, see Tables.
+
+Subtitle D of title XII, referred to in par. (5)(D), means subtitle D of title XII of the Food Security Act of 1985, Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354, as amended, which is classified generally to subchapter IV (§3831 et seq.) of chapter 58 of Title 16, Conservation.
+
+#### Codification
+
+Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
+
+Section was enacted as part of the Food Security Act of 1985, and not as part of the Agricultural Adjustment Act of 1938 which comprises this chapter.
+
+#### Prior Provisions
+
+A prior section 1308, Pub. L. 97–98, title XI, §1101, Dec. 22, 1981, 95 Stat. 1263; Pub. L. 98–88, §6, Aug. 26, 1983, 97 Stat. 499, related to programs for 1982 through 1985 crops.
+
+Another prior section 1308, Pub. L. 95–113, title I, §101, Sept. 29, 1977, 91 Stat. 917; Pub. L. 96–213, §5, Mar. 18, 1980, 94 Stat. 120, related to programs for 1978 through 1981 crops.
+
+#### Amendments
+
+1996—Pars. (1) to (4). Pub. L. 104–127 added pars. (1) to (4) and struck out former pars. (1) to (4) which established limitations on payments under wheat, feed grains, upland cotton, extra long staple cotton, honey, and rice programs for 1987 through 1997 crops.
+
+1993—Pars. (1)(A), (B), (2)(A). Pub. L. 103–66 substituted “1997” for “1995”.
+
+1991—Par. (2)(B)(iv). Pub. L. 102–237 inserted “section” before “107B(c)(1)”.
+
+1990—Par. (1). Pub. L. 101–624, §1111(a)(1), designated existing provisions as subpar. (A), substituted “1995” for “1990”, and added subpar. (B).
+
+Par. (2)(A). Pub. L. 101–624, §1111(a)(2), substituted “1991 through 1995 crops” for “1987 through 1990 crops” and substituted “and” for “honey, and (with respect to clause (iii)(II) of subparagraph (B))” after “rice,”.
+
+Par. (2)(B)(iii). Pub. L. 101–624, §1111(a)(3)(A), added cl. (iii) and struck out former cl. (iii) which read as follows: “(iii)(I) any gain realized by a producer from repaying a loan for a crop of wheat, feed grains, upland cotton, rice, or honey at the rate permitted under section 107D(a)(5), 105C(a)(4), 103A(a)(5), 101A(a)(5), or 201(b)(2), respectively, of the Agricultural Act of 1949 or (II) any gain realized by a producer from repaying a loan for a crop of any other commodity at a lower level than the original loan level established under the Agricultural Act of 1949;”
+
+Par. (2)(B)(iv). Pub. L. 101–624, §1111(a)(3)(B), substituted “107B(c)(1) or 105B(c)(1)” for “section 107D(c)(1) or 105C(c)(1)”, and “section 107B(a)(3) or 105B(a)(3)” for “section 107D(a)(4) or 105C(a)(3)”.
+
+Par. (2)(B)(v). Pub. L. 101–624, §1111(a)(3)(C), added cl. (v) and struck out former cl. (v) which read as follows: “(v) any loan deficiency payment received for a crop of wheat, feed grains, upland cotton, or rice under section 107D(b), 105C(b), 103A(b), or 101A(b), respectively, of the Agricultural Act of 1949; and”.
+
+Par. (2)(B)(vi). Pub. L. 101–624, §1111(a)(3)(D), substituted “section 107B(f), 105B(f), 103B(f), or 101B(f)” for “section 107D(g), 105C(g), 103A(g), or 101A(g)”.
+
+Par. (5)(B)(ii)(III). Pub. L. 101–624, §1111(e), added subcl. (III).
+
+Par. (5)(B)(iii). Pub. L. 101–624, §1111(c), amended cl. (iii) generally. Prior to amendment, cl. (iii) read as follows: “Such regulations shall provide that, with respect to any married couple, the husband and wife shall be considered to be one person, except that any married couple consisting of spouses who, prior to their marriage, were separately engaged in unrelated farming operations, each spouse shall be treated as a separate person with respect to the farming operation brought into the marriage by such spouse so long as such operation remains as a separate farming operation, for the purposes of the application of the limitations under this section.”
+
+1989—Par. (5)(D). Pub. L. 101–217, §2, amended subpar. (D) generally, striking out cl. (i) designation, substituting “Any” for “Except as provided in clause (ii), any” and “ineligible to receive any payment specified in paragraph (1) or (2) or subtitle D of title XII with respect to such land” for “considered the same person as the landlord”, and struck out cls. (ii) and (iii) which read as follows:
+
+“(ii) A tenant that because of any act or failure to act would otherwise be considered the same person as the landlord under clause (i) shall not be considered the same person as the landlord if the Secretary has at any time made a determination, for purposes of this section, regarding the number of persons with respect to the tenant's operation on such land for the 1989 crop year and the landlord did not consent to or knowingly participate in such act or failure to act.
+
+“(iii) Any tenant that would be considered to be the same person as the landlord but for the operation of clause (ii) shall be eligible to receive any payment specified in paragraph (1) or (2) or subtitle D of title XII with respect to such land only to the extent that the tenant would be eligible for such payments if the tenant were to be considered the same person as the landlord under the regulations in place immediately prior to the enactment of this subparagraph.”
+
+Pub. L. 101–217, §1, in temporarily amending subpar. (D) generally, designated existing provisions as cl. (i) and added cls. (ii) and (iii). See Effective and Termination Dates of 1989 Amendment note below.
+
+1987—Par. (1). Pub. L. 100–203, §1301(a)(1), substituted “Subject to sections 1308–1 through 1308–3 of this title, for each” for “For each”.
+
+Par. (2)(A). Pub. L. 100–203, §1301(a)(2)(A), substituted “Subject to sections 1308–1 through 1308–3 of this title, for each” for “For each”.
+
+Par. (2)(C). Pub. L. 100–203, §1307, struck out cl. (ii) designation, and struck out cl. (i) which read as follows: “The total amount of loans on a crop of honey that a person may have outstanding at any one time under the annual program established for such crop under the Agricultural Act of 1949 may not exceed $250,000 less the amount of payments, as described in paragraph (1) and subparagraphs (A) and (B) of this paragraph, received by such person for the crop year involved.”
+
+Pub. L. 100–203, §1301(a)(2)(B), which directed substitution of “Subject to sections 1308–1 through 1308–3 of this title, the total” for “The total” could not be executed in view of amendments by Pub. L. 100–71 and section 1307 of Pub. L. 100–203.
+
+Pub. L. 100–71 designated existing provision as cl. (i) and added cl. (ii).
+
+Par. (5)(A). Pub. L. 100–203, §1303(a)(1), (2), inserted after first sentence “Such regulations shall incorporate the provisions in subparagraphs (B) through (E) of this paragraph, paragraphs (6) and (7), and sections 1308–1 through 1308–3 of this title” and struck out at end “Such regulations shall provide that the term ‘person’ does not include any cooperative association of producers that markets commodities for producers with respect to the commodities so marketed for producers.”
+
+Par. (5)(B). Pub. L. 100–203, §1303(a)(2), (3), added subpar. (B) and redesignated former subpar. (B) as (C).
+
+Par. (5)(C). Pub. L. 100–203, §1303(a)(3), redesignated subpar. (B) as (C).
+
+Par. (5)(D), (E). Pub. L. 100–203, §1303(a)(4), added subpars. (D) and (E).
+
+Par. (6). Pub. L. 100–203, §1303(b), amended par. (6) generally. Prior to amendment, par. (6) read as follows: “The provisions of this section that limit payments to any person shall not be applicable to lands or animals owned by States, political subdivisions, or agencies thereof, so long as such lands are farmed or animals are husbanded primarily in the direct furtherance of a public function, as determined by the Secretary.”
+
+Par. (7). Pub. L. 100–203, §1305(c), added par. (7).
+
+1986—Par. (1). Pub. L. 99–500 and Pub. L. 99–591, §108(a)(1), in temporarily amending par. (1) generally, substituted provision limiting, for each of the 1987 through 1990 crops, the total amount of deficiency payments, excluding deficiency payments described in par. (2)(B)(I)(iv) and land diversion payments that any one person be entitled to as not to exceed $50,000 for provision limiting, for each of the 1986 through 1990 crops, the total amount of payments, excluding disaster payments, that any one person be entitled to as not to exceed $50,000. See Effective and Termination Dates of 1986 Amendment note below.
+
+Par. (2). Pub. L. 99–500 and Pub. L. 99–591, §108(a)(1), in temporarily amending par. (2) generally, designated existing provision as subpar. (A), and in subpar. (A) as so designated, substituted provision limiting, for each of the 1987 through 1990 crops, the total amount of payments set forth in subpar. (B) that any one person be entitled to as not to exceed $250,000 and inserting honey as an eligible crop for provision limiting, for each of the 1986 through 1990 crops, the total amount of disaster payments not any one person be entitled to as not to exceed $100,000, and added subpars. (B) and (C). See Effective and Termination Dates of 1986 Amendment note below.
+
+Par. (3). Pub. L. 99–500 and Pub. L. 99–591, §108(a)(1), temporarily substituted provision authorizing the Secretary, if he determines that a limitation will have an adverse effect on a program, to adjust upward such limitation as appropriate or necessary for provision specifying what is not included within the term “payments” as used in this section. See Effective and Termination Dates of 1986 Amendment note below.
+
+Par. (5)(A). Pub. L. 99–500 and Pub. L. 99–591, §108(a)(2), temporarily inserted provision that the term “person” not include any cooperative association of producers that markets commodities for producers with respect to the commodities so marketed for producers. See Effective and Termination Dates of 1986 Amendment note below.
+
+Par. (6). Pub. L. 99–500 and Pub. L. 99–591, §108(a)(3), temporarily substituted “lands or animals owned” for “lands owned” and inserted “or animals are husbanded”. See Effective and Termination Dates of 1986 Amendment note below.
+
+#### Effective Date of 1990 Amendment
+
+Amendment by Pub. L. 101–624 effective beginning with 1991 crop of an agricultural commodity, with provision for prior crops, see section 1171 of Pub. L. 101–624, set out as a note under section 1421 of this title.
+
+#### Effective and Termination Dates of 1989 Amendment
+
+Section 1 of Pub. L. 101–217 provided that the amendment made by that section is effective only for 1989 crops.
+
+Section 2 of Pub. L. 101–217, as amended by Pub. L. 101–624, title XI, §1111(i), Nov. 28, 1990, 104 Stat. 3500, provided that the amendment made by that section is effective beginning with 1990 crops.
+
+#### Effective Date of 1987 Amendment
+
+Sections 1301(a) and 1303 of Pub. L. 100–203 provided that the amendments made by sections 1301(a)(1), (2) and 1303 of Pub. L. 100–203 are effective beginning with 1989 crops.
+
+#### Effective and Termination Dates of 1986 Amendment
+
+Section 108(a) of Pub. L. 99–500 and Pub. L. 99–591 provided that the amendment made by that section is effective with respect to each of 1987 through 1990 crops.
+
+Section 108(b) of Pub. L. 99–500 and Pub. L. 99–591 provided that: “The amendments made by subsection (a)\[amending this section\] shall not apply with respect to any payment or loan received under any agreement or contract made before the date of enactment of this Act \[Oct. 18, 1986\].”
+
+#### Equitable Relief
+
+Section 3 of Pub. L. 101–217 provided that: “Nothing in this Act \[amending this section and enacting provisions set out as notes under this section\] shall be construed in any way to limit the authority of the Secretary of Agriculture to provide equitable relief under any provision of law.”
+
+#### Payment Provisions Education Program
+
+Section 1304(a) of Pub. L. 100–203 provided that:
+
+“(1)
+
+In general.—The Secretary of Agriculture shall implement a payment provisions education program for appropriate personnel of the Department of Agriculture and members and other personnel of local, county, and State committees established under section 8(b) of the Soil Conservation and Domestic Allotment Act (16 U.S.C. 590h(b)), for the purpose of fostering more effective and uniform application of the payment limitations and restrictions under sections 1001 through 1001C of the Food Security Act of 1985 \[sections 1808 to 1308–3 of this title\].
+
+“(2)
+
+Training.—The education program shall provide training to such personnel in the fair, accurate, and uniform application to individual farming operations of the provisions of law and regulation relating to the payment provisions of sections 1001 through 1001C of the Food Security Act of 1985. Particular emphasis shall be given to the changes in the law made by sections 1301, 1302, and 1303 of this Act \[enacting section 1308–1 of this title, amending this section, and enacting provisions set out as notes under this section and section 1308–1 of this title\].
+
+“(3)
+
+Implementation.—The education program shall be fully implemented, and the training completed, not later than 30 days after the date final regulations are issued to carry out the amendments made by this subtitle \[enacting sections 1308–1 to 1308–3 of this title and amending this section and section 1308–1 of this title\].
+
+“(4)
+
+Commodity Credit Corporation.—The Secretary shall carry out the program provided under this subsection through the Commodity Credit Corporation.”
+
+#### Regulations To Carry Out 1987 Amendments; Transition Rules; Equitable Adjustments
+
+Section 1305(a), (b) of Pub. L. 100–203 provided that:
+
+“(a)
+
+Regulations.—
+
+&emsp;“(1)
+
+Issuance.—The Secretary of Agriculture shall issue—
+
+&emsp;&emsp;“(A) proposed regulations to carry out the amendments made by this subtitle \[enacting sections 1308–1 to 1308–3 of this title and amending this section and section 1308–1 of this title\] not later than April 1, 1988; and
+
+&emsp;&emsp;“(B) final regulations to carry out such amendments not later than August 1, 1988.
+
+&emsp;“(2)
+
+Field instructions.—Any field instructions relating to, or other supplemental clarifications of, the regulations issued under sections 1001 through 1001C of the Food Security Act of 1985 \[sections 1308 to 1308–3 of this title\] shall not be used in resolving issues involved in the application of the payment limitations or restrictions under such sections or regulations to individuals, other entities, or farming operations until copies of the publication are made available to the public.
+
+“(b)
+
+Allowance for Equitable Reorganizations.—To allow for the equitable reorganization of farming operations to conform to the limitations and restrictions contained in the amendments made to the Food Security Act of 1985 by this subtitle \[enacting sections 1308–1 to 1308–3 of this title and amending this section and section 1308–1 of this title\] in cases in which the application of such limitations and restrictions will reduce payments to the farming operation (as determined by the Secretary), the Secretary may waive the application of the substantive change rule under section 1001(5)(E) \[section 1308(5)(E) of this title\], as added by section 1303 of this Act, or any regulation of the Secretary containing a comparable rule, to any reorganization applied for prior to the final date when producers are eligible to enter into contracts to participate in the commodity programs established for the 1989 crop year, to the extent the Secretary determines appropriate to facilitate any such equitable reorganizations that does not increase such payments.”
+
+#### Conservation Reserve Application
+
+Section 1305(d) of Pub. L. 100–203 provided that: “Notwithstanding section 1234(f)(2) of the Food Security Act of 1985 (16 U.S.C. 3834(f)), paragraphs (5) through (7) of section 1001 \[section 1308(5)–(7) of this title\], as amended by this subtitle, and sections 1001A through 1001C, of the Food Security Act of 1985 \[sections 1308–1 to 1308–3 of this title\] shall apply to the conservation reserve program under subtitle D of title XII of such Act (16 U.S.C. 3831 et seq.) with respect to rental payments to persons under contracts entered into after the date of the enactment of this Act \[Dec. 22, 1987\], except with respect to landlords that receive cash rent, or a crop share guaranteed as to the amount of the commodity to be paid in rent, for the use of the land.”
+
+#### Revision of Regulations
+
+Section 108(c) of Pub. L. 99–500 and Pub. L. 99–591 provided that:
+
+“(1)(A) The Secretary of Agriculture shall review the regulations in effect on the date of enactment of this Act \[Oct. 18, 1986\] that define ‘person’ under section 1001 of the Food Security Act of 1985 \[this section\] and related regulations in effect on such date otherwise affecting the payment limitations under such section, to determine ways in which such regulations can be revised to better ensure the fair and reasonable application of limitations and eliminate fraud and abuse in the application of such payment limitations.
+
+“(B) The Secretary also shall review the amendments to section 1001 of the Food Security Act of 1985 made by this section.
+
+“(2) Based on the reviews conducted under paragraph (1), the Secretary of Agriculture shall submit to the Committee on Agriculture, Nutrition, and Forestry of the Senate and the Committee on Agriculture of the House of Representatives, not later than March 1, 1987, a report on such reviews and—
+
+&emsp;“(A) with respect to the matters reviewed under paragraph (1)(A), proposed regulations or amendments to regulations, to take effect not earlier than October 1, 1987, that will meet the object with respect to limitations specified in paragraph (1)(A); and
+
+&emsp;“(B) with respect to the matters reviewed under paragraph (1)(B), recommendations on legislative changes to section 1001 of the Food Security Act of 1985 that the Secretary determines are necessary or appropriate.”
+
+#### Separate Person Status Among Family Members
+
+Pub. L. 99–198 (last sentence), as added by Pub. L. 99–500, §101(a) \[title VI, §636\], Oct. 18, 1986, 100 Stat. 1783, 1783–34, and Pub. L. 99–591, §101(a) \[title VI, §636\], Oct. 30, 1986, 100 Stat. 3341, 3341–34, provided that: “Effective for each of the 1987 through 1990 crops, the Secretary may not deny a person status as a separate person solely on the ground that a family member cosigns for, or makes a loan to, such person and leases, loans, or gives such person equipment, land or labor, if such family members were organized as separate units prior to December 31, 1985.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 1308–1, 1308–2, 1308–4, 1308a, 1441, 1471g, 7213, 7215, 7333 of this title; title 16 section 2106a.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+

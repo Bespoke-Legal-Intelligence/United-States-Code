@@ -2,7 +2,7 @@
 
 It shall be unlawful in or in connection with any transaction in interstate or foreign commerce:
 
-(1) For any commission merchant, dealer, or broker to engage in or use any unfair, unreasonable, discriminatory, or deceptive practice inconnection with the weighing, counting, or in any way determining the quantity of any perishable agricultural commodity received, bought, sold, shipped, or handled in interstate or foreign commerce.
+(1) For any commission merchant, dealer, or broker to engage in or use any unfair, unreasonable, discriminatory, or deceptive practice in connection with the weighing, counting, or in any way determining the quantity of any perishable agricultural commodity received, bought, sold, shipped, or handled in interstate or foreign commerce.
 
 (2) For any dealer to reject or fail to deliver in accordance with the terms of the contract without reasonable cause any perishable agricultural commodity bought or sold or contracted to be bought, sold, or consigned in interstate or foreign commerce by such dealer.
 
@@ -42,7 +42,7 @@ Par. (6). Pub. L. 104–48, §9(b)(2), substituted period for semicolon at end.
 
 1984—Par. (4). Pub. L. 98–273 inserted “or to fail to maintain the trust as required under section 499e(c) of this title;”.
 
-1982—Par. (5). Pub. L. 97–352 substituted “<i>Provided,</i> That any commission merchant, dealer, or broker who has violated (A) any provision of this paragraph may, with the consent of the Secretary, admit the violation or violations; or (B) any provision of this paragraph relating to a misrepresentation by mark, stencil, or label shall be permitted by the Secretary to admit the violation or violations if such violation or violations are not repeated or flagrant; and pay, in the case of a violation under either clause (A) or (B) of this paragraph,” for “<i>Provided</i>, That any commission merchant, dealer, or broker who has violated this paragraph may, with theconsent of the Secretary, admit the violation or violations and pay”.
+1982—Par. (5). Pub. L. 97–352 substituted “<i>Provided</i>, That any commission merchant, dealer, or broker who has violated (A) any provision of this paragraph may, with the consent of the Secretary, admit the violation or violations; or (B) any provision of this paragraph relating to a misrepresentation by mark, stencil, or label shall be permitted by the Secretary to admit the violation or violations if such violation or violations are not repeated or flagrant; and pay, in the case of a violation under either clause (A) or (B) of this paragraph,” for “<i>Provided</i>, That any commission merchant, dealer, or broker who has violated this paragraph may, with the consent of the Secretary, admit the violation or violations and pay”.
 
 1974—Par. (5). Pub. L. 93–369 inserted proviso for consent admission of violations, payment of monetary penalty not in excess of $2,000 in lieu of formal proceedings for suspension or revocation of license, and for deposit of the payments into the Treasury of the United States as miscellaneous receipts.
 

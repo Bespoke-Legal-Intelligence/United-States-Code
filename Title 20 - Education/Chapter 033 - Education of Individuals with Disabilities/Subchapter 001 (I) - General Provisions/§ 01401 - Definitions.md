@@ -104,7 +104,7 @@
 
 &emsp;(22) The term “native language” has the meaning given that term by section 7003(a)(2) <sup>2</sup> of the Bilingual Education Act.
 
-&emsp;(23) The term “intermediate educational unit” means any public authority, other thana local educational agency, which is under the general supervision of a State educational agency, which is established by State law for the purpose of providing free public education on a regional basis, and which provides special education and related services to children with disabilities within that State.
+&emsp;(23) The term “intermediate educational unit” means any public authority, other than a local educational agency, which is under the general supervision of a State educational agency, which is established by State law for the purpose of providing free public education on a regional basis, and which provides special education and related services to children with disabilities within that State.
 
 &emsp;(24)(A) The term “public or private nonprofit agency or organization” includes an Indian tribe and the Bureau of Indian Affairs of the Department of the Interior (when acting on behalf of schools operated by the Bureau for children and students on Indian reservations) and tribally controlled schools funded by the Department of the Interior.
 
@@ -122,7 +122,7 @@
 
 &emsp;&emsp;(C) selecting, designing, fitting, customizing, adapting, applying, maintaining, repairing, or replacing of assistive technology devices;
 
-&emsp;&emsp;(D) coordinating and using other therapies, interventions, or services with assistive technology devices, such as those associated with existing education and rehabilitation plans and programs;
+&emsp;&emsp;(D) coordinating and using other therapies, interventions, or services with assistive technology devices, such as those associatedwith existing education and rehabilitation plans and programs;
 
 &emsp;&emsp;(E) training or technical assistance for an individual with disabilities, or, where appropriate, the family of an individual with disabilities; and
 
@@ -192,7 +192,7 @@ Pub. L. 101–476, §101(c), inserted “including therapeutic recreation and so
 
 Subsec. (a)(19). Pub. L. 101–476, §101(d), added par. (19). Former par. (19) redesignated (20).
 
-Subsec. (a)(20). Pub. L. 101–476, §901(b)(16), (17), which directed the substitution of “child with a disability” for “handicapped child” and “children with disabilities” for “handicapped children” in par. (19), was executed by making the substitutions in par. (20) to reflect the probable intent of Congress and the intervening redesignation of par. (19) as (20) by Pub. L. 101–476, §101(d). See below.
+Subsec. (a)(20). Pub. L. 101–476, §901(b)(16), (17), which directed the substitution of “child with a disability” for “handicapped child” and “children with disabilities” for “handicapped children” in par. (19), was executed by making the substitutions in par. (20) to reflectthe probable intent of Congress and the intervening redesignation of par. (19) as (20) by Pub. L. 101–476, §101(d). See below.
 
 Pub. L. 101–476, §101(d), (e), redesignated par. (19) as (20), added subpar. (D), redesignated former subpars. (D) and (E) as (E) and (F), respectively, and inserted after subpar. (F) “In the case where a participating agency, other than the educational agency, fails to provide agreed upon services, the educational agency shall reconvene the IEP team to identify alternative strategies to meet the transition objectives.” Former par. (20) redesignated (21).
 
@@ -266,7 +266,7 @@ Section 18 of Pub. L. 98–199, as amended by Pub. L. 101–476, title IX, §901
 
 “(a) Except as provided in subsection (b), the provisions of this Act \[enacting sections 1407 and 1427 of this title, amending this section and sections 1402 to 1404, 1406, 1411 to 1414, 1416 to 1426, 1431 to 1435, 1441 to 1444, 1452, 1454, and 1461 of this title; repealing section 1461 of this title; omitting section 1436 of this title; enacting a provision set out as a note under section 1400 of this title; and amending provisions set out as notes under sections 101, 681, and 1411 of this title\] shall take effect on the date of enactment of this Act \[Dec. 2, 1983\].
 
-“(b)(1) To the extent that the amendments made by this Act to parts C, D, E, and G of the Individuals with Disabilities Education Act \[subchapters III, IV, V and VII of this chapter\] prohibit or limit the use of funds, such amendments shall apply only to funds obligated after the date of enactment of this Act \[Dec. 2, 1983\].
+“(b)(1) To the extent that the amendments made by this Act to parts C, D, E, and G of the Individuals with Disabilities Education Act \[subchapters III, IV, V andVII of this chapter\] prohibit or limit the use of funds, such amendments shall apply only to funds obligated after the date of enactment of this Act \[Dec. 2, 1983\].
 
 “(2) As determined necessary by the Secretary of Education for purposes of providing services under the Individuals with Disabilities Education Act \[this chapter\] pending the issuance of regulations implementing the amendments made by this Act, the Secretary shall provide financial assistance under parts C, D, E, and G of the Act as in effect on the day before the date of enactment of this Act until issuance of such regulations or March 1, 1984, whichever is earlier.”
 

@@ -34,13 +34,13 @@
 
 &emsp;(B) An application from a State that does not have a State home facility constructed or acquired with assistance under this subchapter (or for which such a grant has been made).
 
-&emsp;(C) An application from a State which the Secretary determines, in accordance with criteria and procedures specified in regulations which the Secretary shall prescribe, has a greater need for nursing home or domiciliary beds than other States from which applications are received.
+&emsp;(C) An application from a State which the Secretary determines, in accordance with criteria and procedures specified in regulations which the Secretary shall prescribe, has a greater need for nursing home or domiciliary beds or adult day health care facilities than other States from which applications are received.
 
 &emsp;(D) An application that meets such other criteria as the Secretary determines are appropriate and has established in regulations.
 
 (3) In according priorities to projects under paragraph (2) of this subsection, the Secretary—
 
-&emsp;(A) shall accord priority only to projects which would involve construction or acquisition of either nursing home or domiciliary buildings; and
+&emsp;(A) shall accord priority only to projects which would involve construction or acquisition of either nursing home or domiciliary buildings or construction (other than new construction) of adult day health care buildings; and
 
 &emsp;(B) may not accord any priority to a project which would expand a State's capacity to furnish hospital care in a State home.
 
@@ -56,7 +56,7 @@
 
 (6)(A) The Secretary may conditionally approve a project under this section, conditionally award a grant for the project, and obligate funds for the grant if the Secretary determines that the application for the grant is sufficiently complete to warrant awarding the grant and that, based on assurances provided by the State submitting the application, the State will complete the application and meet all the requirements referred to in paragraph (1)(A) of this subsection by the date, not later than 180 days after the date of the conditional approval, specified by the Secretary.
 
-(B) If a State does not complete the application and meet all the requirements referred to in such paragraph by the date specified by the Secretary under subparagraph (A) of this paragraph, the Secretary shall rescind the conditional approval and award under such subparagraph and deobligate the funds previously obligated in connection with the application. In the event the Secretary rescinds conditional approval of a project under this subparagraph, the Secretary may not further obligate funds for the project during the fiscal year in which the Secretary rescinds such approval.
+(B) If a State does not complete the application and meet all the requirements referred to in such paragraph by the date specified by the Secretary under subparagraph (A) of this paragraph, the Secretary shall rescind the conditional approval and award under such subparagraph and deobligate the funds previously obligated in connection with the application. In the event the Secretary rescinds conditional approval of a project under this subparagraph, the Secretary may not further obligate funds for theproject during the fiscal year in which the Secretary rescinds such approval.
 
 (7)(A) Subject to subparagraph (B) of this paragraph, the Secretary may increase the amount of any grant awarded to any State for a project under this section by an amount by which the Secretary determines that the estimated cost of the construction or acquisition has increased from the estimated cost on which the Secretary based the determination to award the grant, without regard to the position of such project on the list established under paragraph (4) of this subsection, if the Secretary determines that the grant was awarded before the State entered into a contract for the construction or acquisition provided for in such project.
 
@@ -68,13 +68,17 @@
 
 (e) Any amendment of any application, whether or not approved, shall be subject to approval in the same manner as an original application.
 
-(Added Pub. L. 88–450, §4(a), Aug. 19, 1964, 78 Stat. 502, §5035; amended Pub. L. 89–311, §7(a), Oct. 31, 1965, 79 Stat. 1157; Pub. L. 93–82, title IV, §403(e), Aug. 2, 1973, 87 Stat. 196; Pub. L. 94–581, title II, §§206(b), 210(e)(10), Oct. 21, 1976, 90 Stat. 2859, 2865; Pub. L. 95–62, §3(7)–(12), July 5, 1977, 91 Stat. 262, 263; Pub. L. 97–295, §4(92), Oct. 12, 1982, 96 Stat. 1313; Pub. L. 98–528, title I, §105(3), Oct. 19, 1984, 98 Stat. 2689; Pub. L. 99–166, title II, §205, Dec. 3, 1985, 99 Stat. 953; Pub. L. 99–576, title II, §224(b), (c), Oct. 28, 1986, 100 Stat. 3262, 3263; Pub. L. 100–322, title II, §206, May 20, 1988, 102 Stat. 513; renumbered §8135 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–54, §14(f)(7), June 13, 1991, 105 Stat. 288; Pub. L. 102–83, §4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 102–585, title IV, §§403(a), 404(a), Nov. 4, 1992, 106 Stat. 4954; Pub. L. 103–446, title XII, §1201(d)(18), Nov. 2, 1994, 108 Stat. 4684.)
+(Added Pub. L. 88–450, §4(a), Aug. 19, 1964, 78 Stat. 502, §5035; amended Pub. L. 89–311, §7(a), Oct. 31, 1965, 79 Stat. 1157; Pub. L. 93–82, title IV, §403(e), Aug. 2, 1973, 87 Stat. 196; Pub. L. 94–581, title II, §§206(b), 210(e)(10), Oct. 21, 1976, 90 Stat. 2859, 2865; Pub. L. 95–62, §3(7)–(12), July 5, 1977, 91 Stat. 262, 263; Pub. L. 97–295, §4(92), Oct. 12, 1982, 96 Stat. 1313; Pub. L. 98–528, title I, §105(3), Oct. 19, 1984, 98 Stat. 2689; Pub. L. 99–166, title II, §205, Dec. 3, 1985, 99 Stat. 953; Pub. L. 99–576, title II, §224(b), (c), Oct. 28, 1986, 100 Stat. 3262, 3263; Pub. L. 100–322, title II, §206, May 20, 1988, 102 Stat. 513; renumbered §8135 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–54, §14(f)(7), June 13, 1991, 105 Stat. 288; Pub. L. 102–83, §4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 102–585, title IV, §§403(a), 404(a), Nov. 4, 1992, 106 Stat. 4954; Pub. L. 103–446, title XII, §1201(d)(18), Nov. 2, 1994, 108 Stat. 4684; Pub. L. 104–262, title III, §342(b)(3), Oct. 9, 1996, 110 Stat. 3206.)
 
 #### References in Text
 
 Act of March 3, 1931, referred to in subsec. (a)(8), is act Mar. 3, 1931, ch. 411, 46 Stat. 1494, as amended, known as the Davis-Bacon Act, which is classified generally to sections 276a to 276a–5 of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 276a of Title 40 and Tables.
 
 #### Amendments
+
+1996—Subsec. (b)(2)(C). Pub. L. 104–262, §342(b)(3)(A), inserted “or adult day health care facilities” after “domiciliary beds”.
+
+Subsec. (b)(3)(A). Pub. L. 104–262, §342(b)(3)(B), inserted “or construction (other than new construction) of adult day health care buildings” before semicolon.
 
 1994—Subsec. (a)(3). Pub. L. 103–446 substituted “section 8134(a)(2)” for “section 8134(2)”.
 
@@ -138,7 +142,7 @@ Subsec. (e). Pub. L. 95–62, §3(12), substituted “amendment of any applicati
 
 1976—Subsec. (a)(4). Pub. L. 94–581, §206(b), substituted “veterans” for “war veterans” in two places.
 
-Subsec. (b). Pub. L. 94–581, §§206(b), 210(e)(10), substituted “the Administrator” for “he” in provisionspreceding par. (1) and “veterans” for “war veterans” in par. (4).
+Subsec. (b). Pub. L. 94–581, §§206(b), 210(e)(10), substituted “the Administrator” for “he” in provisions preceding par. (1) and “veterans” for “war veterans” in par. (4).
 
 1973—Subsecs. (a)(1), (b)(2), (d). Pub. L. 93–82 substituted “65 per centum” for “50 per centum”.
 

@@ -8,7 +8,7 @@
 
 &emsp;(A) the improvements in the safety of Department of Energy defense nuclear facilities during the period covered by the report;
 
-&emsp;(B) the improvements in the safety of Department of Energy defense nuclear facilities resulting from actions taken by the Board or taken on the basis of the activities of the Board; and
+&emsp;(B) the improvements in the safety of Department of Energy defense nuclear facilities resulting from actions taken by the Board ortaken on the basis of the activities of the Board; and
 
 &emsp;(C) the outstanding safety problems, if any, of Department of Energy defense nuclear facilities.
 

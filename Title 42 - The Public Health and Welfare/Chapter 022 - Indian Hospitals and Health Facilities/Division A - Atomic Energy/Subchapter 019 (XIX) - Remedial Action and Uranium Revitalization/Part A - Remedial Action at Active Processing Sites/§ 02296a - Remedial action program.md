@@ -22,15 +22,15 @@ Except as provided in subsection (b) of this section, the costs of decontaminati
 
 #### (A) To individual active site uranium licensees
 
-&emsp;&emsp;The amount of reimbursement paid to any licensee under paragraph (1) shall be determined by the Secretary in accordance with regulations issued pursuant to section 2296a–1 of this title and, for uranium mill tailings only, shall not exceed an amount equal to $5.50 multiplied by the dry short tons of byproduct material located on October 24, 1992, at the site of the activities of such licensee described in subsection (a) of this section, and generated as an incident of sales to the United States.
+&emsp;&emsp;The amount of reimbursement paid to any licensee under paragraph (1) shall be determined by the Secretary in accordance with regulations issued pursuant to section 2296a–1 of this title and, for uranium mill tailings only, shall not exceed an amount equal to $6.25 multiplied by the dry short tons of byproduct material located on October 24, 1992, at the site of the activities of such licensee described in subsection (a) of this section, and generated as an incident of sales to the United States.
 
 #### (B) To all active site uranium licensees
 
-&emsp;&emsp;Payments made under paragraph (1) to active site uranium licensees shall not in the aggregate exceed $270,000,000.
+&emsp;&emsp;Payments made under paragraph (1) to active site uranium licensees shall not in the aggregate exceed $350,000,000.
 
 #### (C) To thorium licensees
 
-&emsp;&emsp;Payments made under paragraph (1) to the licensee of the active thorium site shall not exceed $40,000,000, and may only be made for off-site disposal.
+&emsp;&emsp;Payments made under paragraph (1) to the licensee of the active thorium site shall not exceed $65,000,000, and may only be made for off-site disposal.
 
 #### (D) Inflation escalation index
 
@@ -40,21 +40,31 @@ Except as provided in subsection (b) of this section, the costs of decontaminati
 
 #### (i) Determination of excess
 
-&emsp;&emsp;&emsp;The Secretary shall determine as of July 31, 2005, whether the amount authorized to be appropriated pursuant to section 2296a–2 of this title, when considered with the $5.50 per dry short ton limit on reimbursement, exceeds the amount reimbursable to the licensees under subsection (b)(2) of this section.
+&emsp;&emsp;&emsp;The Secretary shall determine as of July 31, 2005, whether the amount authorized tobe appropriated pursuant to section 2296a–2 of this title, when considered with the $6.25 per dry short ton limit on reimbursement, exceeds the amount reimbursable to the licensees under subsection (b)(2) of this section.
 
 #### (ii) In the event of excess
 
-&emsp;&emsp;&emsp;If the Secretary determines under clause (i) that there is an excess, the Secretary may allow reimbursement in excess of $5.50 per dry short ton on a prorated basis at such sites where the costs reimbursable under subsection (b)(1) of this section exceed the $5.50 per dry short ton limitation described in paragraph (2) of such subsection.
+&emsp;&emsp;&emsp;If the Secretary determines under clause (i) that there is an excess, the Secretary may allow reimbursement in excess of $6.25 per dry short ton on a prorated basis at such sites where the costs reimbursable under subsection (b)(1) of this section exceed the $6.25 per dry short ton limitation described in paragraph (2) of such subsection.
 
 #### (3) Byproduct location
 
 &emsp;Notwithstanding the requirement of paragraph (2)(A) that byproduct material be located at the site on October 24, 1992, byproduct material moved from the site of the Edgemont Mill to a disposal site as the result of the decontamination, decommissioning, reclamation, and other remedial action of such mill shall be eligible for reimbursement to the extent eligible under paragraph (1).
 
-(Pub. L. 102–486, title X, §1001, Oct. 24, 1992, 106 Stat. 2946.)
+(Pub. L. 102–486, title X, §1001, Oct. 24, 1992, 106 Stat. 2946; Pub. L. 104–259, §3(a), Oct. 9, 1996, 110 Stat. 3173.)
 
 #### Codification
 
 Section was enacted as part of the Energy Policy Act of 1992, and not as part of the Atomic Energy Act of 1954 which comprises this chapter.
+
+#### Amendments
+
+1996—Subsec. (b)(2)(A). Pub. L. 104–259, §3(a)(1), substituted “$6.25” for “$5.50”.
+
+Subsec. (b)(2)(B). Pub. L. 104–259, §3(a)(2), substituted “$350,000,000” for “$270,000,000”.
+
+Subsec. (b)(2)(C). Pub. L. 104–259, §3(a)(3), substituted “$65,000,000” for “$40,000,000”.
+
+Subsec. (b)(2)(E). Pub. L. 104–259, §3(a)(4), (5), substituted “$6.25” for “$5.50” wherever appearing.
 
 #### Section Referred to in Other Sections
 

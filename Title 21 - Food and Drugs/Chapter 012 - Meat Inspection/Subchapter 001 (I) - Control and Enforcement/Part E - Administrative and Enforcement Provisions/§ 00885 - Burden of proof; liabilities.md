@@ -22,5 +22,5 @@ Except as provided in section 2234 and 2235 of title 18, no civil or criminal li
 
 #### References in Text
 
-Schedule I, referred to in subsec. (c), is referred to in section 812(c) of this title.
+Schedule I, referred to in subsec. (c), is set out in section 812(c) of this title.
 

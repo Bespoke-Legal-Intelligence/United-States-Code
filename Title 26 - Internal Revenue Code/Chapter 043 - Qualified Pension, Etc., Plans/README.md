@@ -4,23 +4,34 @@
 | :--- | ---: |
 | [4971\.](%C2%A7%2004971%20-%20Taxes%20on%20failure%20to%20meet%20minimum%20funding%20standards.md) | Taxes on failure to meet minimum funding standards. |
 | [4972\.](%C2%A7%2004972%20-%20Tax%20on%20nondeductible%20contributions%20to%20qualified%20employer%20plans.md) | Tax on nondeductible contributions to qualified employer plans. |
-| [4973\.](%C2%A7%2004973%20-%20Tax%20on%20excess%20contributions%20to%20individual%20retirement%20accounts%2C%20certain%20section%20403%28b%29%20contracts%2C%20and%20certain%20individual%20retirement%E2%80%A6.md) | Tax on excess contributions to individual retirement accounts, certain section 403(b) contracts, and certain individual retirement annuities. |
+| [4973\.](%C2%A7%2004973%20-%20Tax%20on%20excess%20contributions%20to%20individual%20retirement%20accounts%2C%20medical%20savings%20accounts%2C%20certain%20section%20403%28b%29%20contracts%2C%20and%20certain%E2%80%A6.md) | Tax on excess contributions to individual retirement accounts, certain section 403(b) contracts, and certain individual retirement annuities.<sup>1</sup> |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+|  |  |
+| :--- | ---: |
 | [4974\.](%C2%A7%2004974%20-%20Excise%20tax%20on%20certain%20accumulations%20in%20qualified%20retirement%20plans.md) | Excise tax on certain accumulations in qualified retirement plans. |
 | [4975\.](%C2%A7%2004975%20-%20Tax%20on%20prohibited%20transactions.md) | Tax on prohibited transactions. |
 | [4976\.](%C2%A7%2004976%20-%20Taxes%20with%20respect%20to%20funded%20welfare%20benefit%20plans.md) | Taxes with respect to funded welfare benefit plans. |
 | [4977\.](%C2%A7%2004977%20-%20Tax%20on%20certain%20fringe%20benefits%20provided%20by%20an%20employer.md) | Tax on certain fringe benefits provided by an employer. |
 | [4978\.](%C2%A7%2004978%20-%20Tax%20on%20certain%20dispositions%20by%20employee%20stock%20ownership%20plans%20and%20certain%20cooperatives.md) | Tax on certain dispositions by employee stock ownership plans and certain cooperatives. |
-| \[4978A. | Repealed.\] |
-| [4978B.](%C2%A7%2004978B%20-%20Tax%20on%20disposition%20of%20employer%20securities%20to%20which%20section%20133%20applied.md) | Tax on disposition of employer securities to which section 133 applied. |
+| \[4978A, 4978B. Repealed.\] |  |
 | [4979\.](%C2%A7%2004979%20-%20Tax%20on%20certain%20excess%20contributions.md) | Tax on certain excess contributions. |
 | [4979A.](%C2%A7%2004979A%20-%20Tax%20on%20certain%20prohibited%20allocations%20of%20qualified%20securities.md) | Tax on certain prohibited allocations of qualified securities. |
 | [4980\.](%C2%A7%2004980%20-%20Tax%20on%20reversion%20of%20qualified%20plan%20assets%20to%20employer.md) | Tax on reversion of qualified plan assets to employer. |
 | [4980A.](%C2%A7%2004980A%20-%20Tax%20on%20excess%20distributions%20from%20qualified%20retirement%20plans.md) | Tax on excess distributions from qualified retirement plans. |
 | [4980B.](%C2%A7%2004980B%20-%20Failure%20to%20satisfy%20continuation%20coverage%20requirements%20of%20group%20health%20plans.md) | Failure to satisfy continuation coverage requirements of group health plans. |
+| [4980C.](%C2%A7%2004980C%20-%20Requirements%20for%20issuers%20of%20qualified%20long-term%20care%20insurance%20contracts.md) | Requirements for issuers of qualified long-term care insurance contracts. |
+| [4980D.](%C2%A7%2004980D%20-%20Failure%20to%20meet%20certain%20group%20health%20plan%20requirements.md) | Failure to meet certain group health plan requirements. |
+| [4980E.](%C2%A7%2004980E%20-%20Failure%20of%20employer%20to%20make%20comparable%20medical%20savings%20account%20contributions.md) | Failure of employer to make comparable medical savings account contributions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1996—Pub. L. 104–191, title III, §§301(c)(4)(B), 326(b), title IV, §402(b), Aug. 21, 1996, 110 Stat. 2050, 2066, 2087, added items 4980C, 4980D, and 4980E.
+
+Pub. L. 104–188, title I, §1602(b)(5)(B), Aug. 20, 1996, 110 Stat. 1834, struck out item 4978B “Tax on disposition of employer securities to which section 133 applied”.
 
 1989—Pub. L. 101–239, title VII, §§7301(d)(2), 7304(a)(2)(C)(iii), Dec. 19, 1989, 103 Stat. 2348, 2353, struck out item 4978A “Tax on certain dispositions of employer securities to which section 2057 applied” and added item 4978B.
 
@@ -40,6 +51,8 @@
 
 This chapter is referred to in sections 275, 6161, 6201, 6211, 6212, 6213, 6214, 6344, 6405, 6501, 6512, 6862, 6871, 7422 of this title.
 
+<i><sup>1</sup></i><i> Section catchline amended by Pub. L. 104–191 without corresponding amendment of chapter analysis.</i>
+
 
 ---
 
@@ -47,16 +60,19 @@ This chapter is referred to in sections 275, 6161, 6201, 6211, 6212, 6213, 6214,
 
 - [&sect; 04971 - Taxes on failure to meet minimum funding standards](%C2%A7%2004971%20-%20Taxes%20on%20failure%20to%20meet%20minimum%20funding%20standards.md)
 - [&sect; 04972 - Tax on nondeductible contributions to qualified employer plans](%C2%A7%2004972%20-%20Tax%20on%20nondeductible%20contributions%20to%20qualified%20employer%20plans.md)
-- [&sect; 04973 - Tax on excess contributions to individual retirement accounts, certain section 403(b) contracts, and certain individual retirement&#8230;](%C2%A7%2004973%20-%20Tax%20on%20excess%20contributions%20to%20individual%20retirement%20accounts%2C%20certain%20section%20403%28b%29%20contracts%2C%20and%20certain%20individual%20retirement%E2%80%A6.md)
+- [&sect; 04973 - Tax on excess contributions to individual retirement accounts, medical savings accounts, certain section 403(b) contracts, and certain&#8230;](%C2%A7%2004973%20-%20Tax%20on%20excess%20contributions%20to%20individual%20retirement%20accounts%2C%20medical%20savings%20accounts%2C%20certain%20section%20403%28b%29%20contracts%2C%20and%20certain%E2%80%A6.md)
 - [&sect; 04974 - Excise tax on certain accumulations in qualified retirement plans](%C2%A7%2004974%20-%20Excise%20tax%20on%20certain%20accumulations%20in%20qualified%20retirement%20plans.md)
 - [&sect; 04975 - Tax on prohibited transactions](%C2%A7%2004975%20-%20Tax%20on%20prohibited%20transactions.md)
 - [&sect; 04976 - Taxes with respect to funded welfare benefit plans](%C2%A7%2004976%20-%20Taxes%20with%20respect%20to%20funded%20welfare%20benefit%20plans.md)
 - [&sect; 04977 - Tax on certain fringe benefits provided by an employer](%C2%A7%2004977%20-%20Tax%20on%20certain%20fringe%20benefits%20provided%20by%20an%20employer.md)
 - [&sect; 04978 - Tax on certain dispositions by employee stock ownership plans and certain cooperatives](%C2%A7%2004978%20-%20Tax%20on%20certain%20dispositions%20by%20employee%20stock%20ownership%20plans%20and%20certain%20cooperatives.md)
 - [&sect; 04978A - Repealed. Pub. L. 101&#8211;239, title VII, &sect;7304(a)(2)(C)(i), Dec. 19, 1989, 103 Stat. 2353](%C2%A7%2004978A%20-%20Repealed.%20Pub.%20L.%20101%E2%80%93239%2C%20title%20VII%2C%20%C2%A77304%28a%29%282%29%28C%29%28i%29%2C%20Dec.%2019%2C%201989%2C%20103%20Stat.%202353.md)
-- [&sect; 04978B - Tax on disposition of employer securities to which section 133 applied](%C2%A7%2004978B%20-%20Tax%20on%20disposition%20of%20employer%20securities%20to%20which%20section%20133%20applied.md)
+- [&sect; 04978B - Repealed. Pub. L. 104&#8211;188, title I, &sect;1602(b)(5)(A), Aug. 20, 1996, 110 Stat. 1834](%C2%A7%2004978B%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93188%2C%20title%20I%2C%20%C2%A71602%28b%29%285%29%28A%29%2C%20Aug.%2020%2C%201996%2C%20110%20Stat.%201834.md)
 - [&sect; 04979 - Tax on certain excess contributions](%C2%A7%2004979%20-%20Tax%20on%20certain%20excess%20contributions.md)
 - [&sect; 04979A - Tax on certain prohibited allocations of qualified securities](%C2%A7%2004979A%20-%20Tax%20on%20certain%20prohibited%20allocations%20of%20qualified%20securities.md)
 - [&sect; 04980 - Tax on reversion of qualified plan assets to employer](%C2%A7%2004980%20-%20Tax%20on%20reversion%20of%20qualified%20plan%20assets%20to%20employer.md)
 - [&sect; 04980A - Tax on excess distributions from qualified retirement plans](%C2%A7%2004980A%20-%20Tax%20on%20excess%20distributions%20from%20qualified%20retirement%20plans.md)
 - [&sect; 04980B - Failure to satisfy continuation coverage requirements of group health plans](%C2%A7%2004980B%20-%20Failure%20to%20satisfy%20continuation%20coverage%20requirements%20of%20group%20health%20plans.md)
+- [&sect; 04980C - Requirements for issuers of qualified long-term care insurance contracts](%C2%A7%2004980C%20-%20Requirements%20for%20issuers%20of%20qualified%20long-term%20care%20insurance%20contracts.md)
+- [&sect; 04980D - Failure to meet certain group health plan requirements](%C2%A7%2004980D%20-%20Failure%20to%20meet%20certain%20group%20health%20plan%20requirements.md)
+- [&sect; 04980E - Failure of employer to make comparable medical savings account contributions](%C2%A7%2004980E%20-%20Failure%20of%20employer%20to%20make%20comparable%20medical%20savings%20account%20contributions.md)

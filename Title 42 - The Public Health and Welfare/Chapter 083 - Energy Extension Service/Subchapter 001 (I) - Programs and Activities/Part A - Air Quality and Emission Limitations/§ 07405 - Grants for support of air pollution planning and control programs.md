@@ -8,13 +8,13 @@
 
 (C) With respect to any air quality control region or portion thereof for which there is an applicable implementation plan under section 7410 of this title, grants under subparagraph (A) may be made only to air pollution control agencies which have substantial responsibilities for carrying out such applicable implementation plan.
 
-(2) Before approving any grant under this subsection to any air pollution control agency within the meaning of sections 7602(b)(2) and 7602(b)(4) of this title, the Administrator shall receive assurances that such agency provides for adequate representation of appropriate State, interstate, local, and (when appropriate) international, interests in the air quality control region.
+(2) Before approving any grant under this subsection to any air pollution control agency within the meaning of sections 7602(b)(2) and 7602(b)(4) of this title, the Administrator shall receive assurances that such agency provides for adequate representation of appropriate State,interstate, local, and (when appropriate) international, interests in the air quality control region.
 
 (3) Before approving any planning grant under this subsection to any air pollution control agency within the meaning of sections 7602(b)(2) and 7602(b)(4) of this title, the Administrator shall receive assurances that such agency has the capability of developing a comprehensive air quality plan for the air quality control region, which plan shall include (when appropriate) a recommended system of alerts to avert and reduce the risk of situations in which there may be imminent and serious danger to the public health or welfare from air pollutants and the various aspects relevant to the establishment of air quality standards for such air quality control region, including the concentration of industries, other commercial establishments, population and naturally occurring factors which shall affect such standards.
 
 #### (b) Terms and conditions; regulations; factors for consideration; State expenditure limitations
 
-(1) From the sums available for the purposes of subsection (a) of this section for any fiscal year, the Administrator shall from time to time make grants to air pollution control agencies upon such terms and conditions as the Administrator may find necessary to carry out the purpose of this section. In establishing regulationsfor the granting of such funds the Administrator shall, so far as practicable, give due consideration to (A) the population, (B) the extent of the actual or potential air pollution problem, and (C) the financial need of the respective agencies.
+(1) From the sums available for the purposes of subsection (a) of this section for any fiscal year, the Administrator shall from time to time make grants to air pollution control agencies upon such terms and conditions as the Administrator may find necessary to carry out the purpose of this section. In establishing regulations for the granting of such funds the Administrator shall, so far as practicable, give due consideration to (A) the population, (B) the extent of the actual or potential air pollution problem, and (C) the financial need of the respective agencies.
 
 (2) Not more than 10 per centum of the total of funds appropriated or allocated for the purposes of subsection (a) of this section shall be granted for air pollution control programs in any one State. In the case of a grant for a program in an area crossing State boundaries, the Administrator shall determine the portion of such grant that is chargeable to the percentage limitation under this subsection for each State into which such area extends. Subject to the provisions of paragraph (1) of this subsection, no State shall have made available to it for application less than one-half of 1 per centum of the annual appropriation for grants under this section for grants to agencies within such State.
 
@@ -50,7 +50,7 @@ Provisions similar to those in subsecs. (a) and (b) of this section were contain
 
 “(A) The Administrator may make grants to air pollution control agencies in an amount up to two-thirds of the cost of planning, developing, establishing, or improving, and up to one-half of the cost of maintaining, programs for the prevention and control of air pollution or implementation of national primary and secondry \[sic\] ambient air quality standards.
 
-“(B) Subject to subparagraph (C), the Administrator may make grants to air pollution control agencies within the meaning of paragraph (1), (2), or (4) of section 7602(b) of this title in an amount up to three-fourths of the cost of planning, developing, establishing, or improving, and up to three-fifths of the cost of maintaining, any program for the prevention and control of air pollution or implementation of national primary and secondary ambient air quality standards inan area that includes two or more municipalities, whether in the same or different States.”
+“(B) Subject to subparagraph (C), the Administrator may make grants to air pollution control agencies within the meaning of paragraph (1), (2), or (4) of section 7602(b) of this title in an amount up to three-fourths of the cost of planning, developing, establishing, or improving, and up to three-fifths of the cost of maintaining, any program for the prevention and control of air pollution or implementation of national primary and secondary ambient air quality standards in an area that includes two or more municipalities, whether in the same or different States.”
 
 Subsec. (a)(1)(C). Pub. L. 101–549, §802(b), substituted “subparagraph (A)” for “subparagraph (B)”.
 
@@ -88,7 +88,7 @@ Subsec. (c). Pub. L. 89–675, §3(b), substituted “total of funds appropriate
 
 #### Effective Date of 1977 Amendment
 
-Amendment by Pub. L. 95–95 effective Aug. 7, 1977, except as otherwise expressly provided, see section 406(d) of Pub. L. 95–95, set out as a note under section 7401 of this title.
+Amendment by Pub. L. 95–95 effective Aug. 7, 1977, except as otherwise expressly provided, see section 406(d)of Pub. L. 95–95, set out as a note under section 7401 of this title.
 
 #### Modification or Rescission of Rules, Regulations, Orders, Determinations, Contracts, Certifications, Authorizations, Delegations, and Other Actions
 

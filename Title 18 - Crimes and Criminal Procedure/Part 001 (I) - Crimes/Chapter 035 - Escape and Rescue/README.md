@@ -9,10 +9,13 @@
 | [755\.](%C2%A7%2000755%20-%20Officer%20permitting%20escape.md) | Officer permitting escape. |
 | [756\.](%C2%A7%2000756%20-%20Internee%20of%20belligerent%20nation.md) | Internee of belligerent nation. |
 | [757\.](%C2%A7%2000757%20-%20Prisoners%20of%20war%20or%20enemy%20aliens.md) | Prisoners of war or enemy aliens. |
+| [758\.](%C2%A7%2000758%20-%20High%20speed%20flight%20from%20immigration%20checkpoint.md) | High speed flight from immigration checkpoint. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1996—Pub. L. 104–208, div. C, title I, §108(b)(2), Sept. 30, 1996, 110 Stat. 3009–558, added item 758.
 
 1994—Pub. L. 103–322, title XXXIII, §330004(5), Sept. 13, 1994, 108 Stat. 2141, struck out item 754 “Rescue of body of executed offender”.
 
@@ -32,3 +35,4 @@ This chapter is referred to in section 4082 of this title.
 - [&sect; 00755 - Officer permitting escape](%C2%A7%2000755%20-%20Officer%20permitting%20escape.md)
 - [&sect; 00756 - Internee of belligerent nation](%C2%A7%2000756%20-%20Internee%20of%20belligerent%20nation.md)
 - [&sect; 00757 - Prisoners of war or enemy aliens](%C2%A7%2000757%20-%20Prisoners%20of%20war%20or%20enemy%20aliens.md)
+- [&sect; 00758 - High speed flight from immigration checkpoint](%C2%A7%2000758%20-%20High%20speed%20flight%20from%20immigration%20checkpoint.md)

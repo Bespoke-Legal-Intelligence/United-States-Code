@@ -2,7 +2,7 @@
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in title 7 sections 1441–2, 1444–2, 1444f, 1445b–3a, 5831.
+This subchapter is referred to in title 7 section 5831.
 
 
 ---

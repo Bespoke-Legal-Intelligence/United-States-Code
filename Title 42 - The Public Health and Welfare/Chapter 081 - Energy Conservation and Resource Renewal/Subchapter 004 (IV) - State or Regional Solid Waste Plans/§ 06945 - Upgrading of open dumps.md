@@ -16,7 +16,7 @@ To assist the States in complying with section 6943(a)(3) of this title, not lat
 
 (C) The Administrator shall determine whether each State has developed an adequate program under this paragraph. The Administrator may make such a determination in conjunction with approval, disapproval or partial approval of a State plan under section 6947 of this title.
 
-(2)(A) In any State that the Administrator determines has not adopted an adequate program for such facilities under paragraph (1)(B) by the date provided in such paragraph, the Administrator may use the authorities available under sections 6927 and 6928 of this title to enforce the prohibition contained in subsection (a) of this section with respect to such facilities.
+(2)(A) In any State that the Administrator determines has not adopted an adequate program for such facilities under paragraph (1)(B) by thedate provided in such paragraph, the Administrator may use the authorities available under sections 6927 and 6928 of this title to enforce the prohibition contained in subsection (a) of this section with respect to such facilities.
 
 (B) For purposes of this paragraph, the term “requirement of this subchapter” in section 6928 of this title shall be deemed to include criteria promulgated by the Administrator under sections 6907(a)(3) and 6944(a) of this title, and the term “hazardous wastes” in section 6927 of this title shall be deemed to include solid waste at facilities that may handle hazardous household wastes or hazardous wastes from small quantity generators.
 
@@ -34,7 +34,7 @@ Pub. L. 98–616, §502(c), inserted a closing parenthesis before the period at 
 
 Subsec. (c). Pub. L. 98–616, §302(c), added subsec. (c).
 
-1980—Subsec. (a). Pub. L. 96–482, §19(a), (b)(1), struck out subsec. (a) which defined “open dump”, which is covered in section 6903(14) of this title, redesignatedsubsec. (c) as (a) and substituted “Upon promulgation of criteria under section 6907(a)(3) of this title, any” for “Any”, “section 6943(a)(2) and 6943(a)(3) of this title” for “section 6943(2) of this title”, and “criteria under section 6907(a)(3) of this title” for “the inventory under subsection (b) of this section”.
+1980—Subsec. (a). Pub. L. 96–482, §19(a), (b)(1), struck out subsec. (a) which defined “open dump”, which is covered in section 6903(14) of this title, redesignated subsec. (c) as (a) and substituted “Upon promulgation of criteria under section 6907(a)(3) of this title, any” for “Any”, “section 6943(a)(2) and 6943(a)(3) of this title” for “section 6943(2) of this title”, and “criteria under section 6907(a)(3) of this title” for “the inventory under subsection (b) of this section”.
 
 Amendment by section 19(b)(1) of Pub. L. 96–482, directing that following reference to “4003(2)”, which had been editorially translated as section 6943(2) of this title, the phrase “and 4003(3)” be inserted, was executed by translating “4003(2) and 4003(3)” as section 6943(a)(2) and 6943(a)(3) of this title, in view of the designation of the existing provisions of section 6943 of this title as subsec. (a) of section 6943 of this title by section 5(b) of Pub. L. 96–463 and also by section 32(d)(2) of Pub. L. 96–482.
 

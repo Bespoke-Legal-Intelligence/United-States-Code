@@ -44,3 +44,7 @@ In subsection (b), the word “kept” is substituted for the words “retained 
 
 Pay and allowances, see section 101 et seq. of Title 37, Pay and Allowances of the Uniformed Services.
 
+#### Section Referred to in Other Sections
+
+This section is referred to in title 5 section 6323.
+

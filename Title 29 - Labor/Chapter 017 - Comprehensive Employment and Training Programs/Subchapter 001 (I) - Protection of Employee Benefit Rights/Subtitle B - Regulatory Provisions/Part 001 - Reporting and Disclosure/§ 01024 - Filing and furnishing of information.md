@@ -48,7 +48,7 @@ Publication of the summary plan descriptions and annual reports shall be made to
 
 &emsp;(B) if later, within 120 days after the plan becomes subject to this part.
 
-> The administrator shall furnish to each participant, and each beneficiary receiving benefits under the plan, every fifth year after the plan becomes subject to this part an updated summary plan description described in section 1022 of this title which integrates all plan amendments made within such five-year period, except that in a case where no amendments have been made to a plan during such five-year period this sentence shall not apply. Notwithstanding the foregoing, the administrator shall furnish to each participant, and to each beneficiary receiving benefits under the plan, the summary plan description described in section 1022 of this title every tenth year after the plan becomes subject to this part. If there is a modification or change described in section 1022(a)(1) of this title, a summary description of such modification orchange shall be furnished not later than 210 days after the end of the plan year in which the change is adopted to each participant, and to each beneficiary who is receiving benefits under the plan.
+> The administrator shall furnish to each participant, and each beneficiary receiving benefits under the plan, every fifth year after the plan becomes subject to this part an updated summary plan description described in section 1022 of this title which integrates all plan amendments made within such five-year period, except that in a case where no amendments have been made to a plan during such five-year period this sentence shall not apply. Notwithstanding the foregoing, the administrator shall furnish to each participant, and to each beneficiary receiving benefits under the plan, the summary plan description described in section 1022 of this title every tenth year after the plan becomes subject to this part. If there is a modification or change described in section 1022(a)(1) of this title (other than a material reduction in covered services or benefits provided in the case of a group health plan (as defined in section 1191b(a)(1) of this title)), a summary description of such modification or change shall be furnished not later than 210 days after the end of the plan year in which the change is adopted to each participant, and to each beneficiary who is receiving benefits under the plan. If there is a modification or change described in section 1022(a)(1) of this title that is a material reduction in covered services or benefits provided under a group health plan (as defined in section 1191b(a)(1) of this title), a summary description of such modification or change shall be furnished to participants and beneficiaries not later than 60 days after the date of the adoption of the modification or change. In the alternative, the plan sponsors may provide such description at regular intervals of not more than 90 days. The Secretary shall issue regulations within 180 days after August 21, 1996, providing alternative mechanisms to delivery by mail through which group health plans (as so defined) may notify participants and beneficiaries of material reductions in covered services or benefits.
 
 (2) The administrator shall make copies of the plan description and the latest annual report and the bargaining agreement, trust agreement, contract, or other instruments under which the plan was established or is operated available for examination by any plan participant or beneficiary in the principal office of the administrator and in such other places as may be necessary to make available all pertinent information to all participants (including such places as the Secretary may prescribed by regulations).
 
@@ -64,9 +64,13 @@ The Secretary may by regulation require that the administrator of any employee b
 
 &emsp;&emsp;<b>For regulations respecting coordination of reports to the Secretaries of Labor and the Treasury, see section 1204 of this title.</b>
 
-(Pub. L. 93–406, title I, §104, Sept. 2, 1974, 88 Stat. 847; Pub. L. 99–272, title XI, §11016(b)(2), Apr. 7, 1986, 100 Stat. 273; Pub. L. 100–203, title IX, §9342(a)(2), Dec. 22, 1987, 101 Stat. 1330–371; Pub. L. 101–239, title VII, §7894(b)(3), (4), Dec. 19, 1989, 103 Stat. 2448.)
+(Pub. L. 93–406, title I, §104, Sept. 2, 1974, 88 Stat. 847; Pub. L. 99–272, title XI, §11016(b)(2), Apr. 7, 1986, 100 Stat. 273; Pub. L. 100–203, title IX, §9342(a)(2), Dec. 22, 1987, 101 Stat. 1330–371; Pub. L. 101–239, title VII, §7894(b)(3), (4), Dec. 19, 1989, 103 Stat. 2448; Pub. L. 104–191, title I, §101(c)(1), Aug. 21, 1996, 110 Stat. 1951; Pub. L. 104–204, title VI, §603(b)(3)(D), Sept. 26, 1996, 110 Stat. 2938.)
 
 #### Amendments
+
+1996—Subsec. (b)(1). Pub. L. 104–204 made technical amendment to references in original act which appear in text as references to section 1191b of this title.
+
+Pub. L. 104–191, in closing provisions, substituted “1022(a)(1) of this title (other than a material reduction in covered services or benefits provided in the case of a group health plan (as defined in section 1191b(a)(1) ofthis title)),” for “1022(a)(1) of this title,” and inserted at end “If there is a modification or change described in section 1022(a)(1) of this title that is a material reduction in covered services or benefits provided under a group health plan (as defined in section 1191b(a)(1) of this title), a summary description of such modification or change shall be furnished to participants and beneficiaries not later than 60 days after the date of the adoption of the modification or change. In the alternative, the plan sponsors may provide such description at regular intervals of not more than 90 days. The Secretary shall issue regulations within 180 days after August 21, 1996, providing alternative mechanisms to delivery by mail through which group health plans (as so defined) may notify participants and beneficiaries of material reductions in covered services or benefits.”
 
 1989—Subsec. (a)(5)(B). Pub. L. 101–239, §7894(b)(3), substituted a comma for period at end.
 
@@ -75,6 +79,12 @@ Subsec. (b)(1). Pub. L. 101–239, §7894(b)(4), struck out comma after “summa
 1987—Subsec. (b)(3). Pub. L. 100–203 inserted “(including the percentage determined under section 1023(d)(11) of this title)” after “material”.
 
 1986—Subsec. (a)(2)(A). Pub. L. 99–272 struck out provision permitting the Secretary to waive or modify the requirements of section 1023(d)(6) of this title if he found that the interests of the plan participants were not harmed and the expense of compliance was not justified by the needs of the participants, the Pension Benefit Guaranty Corporation, and the Department of Labor for some portion or all of the information otherwise required under section 1023(d)(6) of this title.
+
+#### Effective Date of 1996 Amendments
+
+Amendment by Pub. L. 104–204 applicable with respect to group health plans for plan years beginning on or after Jan. 1, 1998, see section 603(c) of Pub. L. 104–204 set out as a note under section 1003 of this title.
+
+Amendment by Pub. L. 104–191 applicable with respect to group health plans for plan years beginning after June 30, 1997, except as otherwise provided, see section 101(g) of Pub. L. 104–191, set out as an Effective Date note under section 1181 of this title.
 
 #### Effective Date of 1989 Amendment
 
@@ -94,5 +104,5 @@ Secretary authorized, effective Sept. 2, 1974, to promulgate regulations whereve
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1021, 1022, 1023, 1027, 1029, 1132 of this title; title 26 section 6058; title 31 section 9503.
+This section is referred to in sections 1021, 1022, 1023, 1027, 1029, 1132, 1185 of this title; title 26 section 6058; title 31 section 9503.
 

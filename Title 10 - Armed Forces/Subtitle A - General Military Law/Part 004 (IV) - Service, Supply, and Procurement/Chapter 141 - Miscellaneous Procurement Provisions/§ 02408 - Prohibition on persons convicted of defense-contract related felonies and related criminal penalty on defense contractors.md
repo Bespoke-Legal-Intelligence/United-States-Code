@@ -2,7 +2,7 @@
 
 (a)
 
-Prohibition.—(1) An individual who is convicted of fraud or any other felony arising out ofa contract with the Department of Defense shall be prohibited from each of the following:
+Prohibition.—(1) An individual who is convicted of fraud or any other felony arising out of a contract with the Department of Defense shall be prohibited from each of the following:
 
 &emsp;(A) Working in a management or supervisory capacity on any defense contract or any first tier subcontract of a defense contract.
 
@@ -14,7 +14,7 @@ Prohibition.—(1) An individual who is convicted of fraud or any other felony a
 
 (2) Except as provided in paragraph (3), the prohibition in paragraph (1) shall apply for a period, as determined by the Secretary of Defense, of not less than five years after the date of the conviction.
 
-(3) The prohibition in paragraph (1) may apply with respect to an individual for a period of less than five years if the Secretary determines that the five-year period should be waived in the interests of national security. If the five-year period is waived, the Secretary shall submit to Congress a report stating the reasons for the waiver.
+(3) The prohibition in paragraph (1) may apply with respect to an individual for a period of less than five years if the Secretary determines that the five-year period should be waived in the interests of national security.
 
 (4) The prohibition in paragraph (1) does not apply with respect to the following:
 
@@ -38,7 +38,7 @@ Single Point of Contact for Information.—(1) The Attorney General shall ensure
 
 (2) The procedure for obtaining such information shall be specified in regulations prescribed by the Secretary of Defense under subsection (a).
 
-(Added Pub. L. 99–500, §101(c) \[title X, §941(a)(1)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–161, and Pub. L. 99–591, §101(c) \[title X, §941(a)(1)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–161; Pub. L. 99–661, div. A, title IX, formerly title IV, §941(a)(1), Nov. 14, 1986, 100 Stat. 3941, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; amended Pub. L. 100–456, div. A, title VIII, §831(a), Sept. 29, 1988, 102 Stat. 2023; Pub. L. 101–510, div. A, title VIII, §812, Nov. 5, 1990, 104 Stat. 1596; Pub. L. 102–484, div. A, title VIII, §815(a), Oct. 23, 1992, 106 Stat. 2454; Pub. L. 103–355, title IV, §4102(g), title VIII, §8105(h), Oct. 13, 1994, 108 Stat. 3340, 3393.)
+(Added Pub. L. 99–500, §101(c) \[title X, §941(a)(1)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–161, and Pub. L. 99–591, §101(c) \[title X, §941(a)(1)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–161; Pub. L. 99–661, div. A, title IX, formerly title IV, §941(a)(1), Nov. 14, 1986, 100 Stat. 3941, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; amended Pub. L. 100–456, div. A, title VIII, §831(a), Sept. 29, 1988, 102 Stat. 2023; Pub. L. 101–510, div. A, title VIII, §812, Nov. 5, 1990, 104 Stat. 1596; Pub. L. 102–484, div. A, title VIII, §815(a), Oct. 23, 1992, 106 Stat. 2454; Pub. L. 103–355, title IV, §4102(g), title VIII, §8105(h), Oct. 13, 1994, 108 Stat. 3340, 3393; Pub. L. 104–106, div. A, title X, §1062(e), Feb. 10, 1996, 110 Stat. 444.)
 
 #### Codification
 
@@ -47,6 +47,8 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 Pub. L. 99–500, Pub. L. 99–591, and Pub. L. 99–661 added identical sections.
 
 #### Amendments
+
+1996—Subsec. (a)(3). Pub. L. 104–106 struck out at end “If the five-year period is waived, the Secretary shall submit to Congress a report stating the reasons for the waiver.”
 
 1994—Subsec. (a)(4). Pub. L. 103–355, §4102(g), added introductory provisions and subpar. (A).
 
@@ -84,5 +86,5 @@ Section 101(c) \[title X, §941(c)\] of Pub. L. 99–500 and Pub. L. 99–591, a
 
 #### Deadline for Single Point of Contact
 
-Section 815(b) of Pub. L. 102–484 provided that: “The single point of contact required by section 2408(c) oftitle 10, United States Code, as added by subsection (a), shall be established not later than 120 days after the date of the enactment of this Act \[Oct. 23, 1992\].”
+Section 815(b) of Pub. L. 102–484 provided that: “The single point of contact required by section 2408(c) of title 10, United States Code, as added by subsection (a), shall be established not later than 120 days after the date of the enactment of this Act \[Oct. 23, 1992\].”
 

@@ -32,7 +32,7 @@ Any notice submitted to the Board by any insured credit union pursuant to subsec
 
 #### (e) Standard for disapproval
 
-The Board shall issue a notice of disapproval with respect to a notice submitted pursuant to subsection (a) of this section if the competence, experience, character, or integrity of the individual with respect to whom such notice is submitted indicates that it would not be in the best interests of the depositors of the insured credit union or in the best interests of the public to permit the individual to be employed by, or associated with, such insured credit union.
+The Board shall issue a notice of disapproval with respect to a notice submitted pursuant tosubsection (a) of this section if the competence, experience, character, or integrity of the individual with respect to whom such notice is submitted indicates that it would not be in the best interests of the depositors of the insured credit union or in the best interests of the public to permit the individual to be employed by, or associated with, such insured credit union.
 
 #### (f) Definition regulations
 

@@ -50,7 +50,7 @@ The Secretary may make grants to and enter into contracts with public and nonpro
 
 #### (1) In general
 
-&emsp;The Secretary may make grants to and enter into contracts with public and nonprofitprivate entities that operate accredited programs of education in professional nursing, or State-board approved programs of practical or vocational nursing, for the purpose of providing fellowships to individuals described in paragraph (2) for attendance in such programs.
+&emsp;The Secretary may make grants to and enter into contracts with public and nonprofit private entities that operate accredited programs of education in professional nursing, or State-board approved programs of practical or vocational nursing, for the purpose of providing fellowships to individuals described in paragraph (2) for attendance in such programs.
 
 #### (2) Eligible individuals
 
@@ -102,7 +102,7 @@ Subsec. (a)(2). Pub. L. 100–607, §701(b)(2), (c), redesignated par. (4) as (2
 
 Subsec. (a)(3). Pub. L. 100–607, §701(b)(2), (d)(1), redesignated par. (5) as (3) and amended it generally. Prior to amendment, such par. read as follows: “help to increase the supply or improve the distribution by geographic area or by specialty group of adequately trained nursing personnel (including nursing personnel who are bilingual) needed to meet the health needs of the Nation, including the need to increase the availability of personal health services and the need to promote preventive health care;”.
 
-Pub. L. 100–607, §701(b)(1), struck out former par. (3) which related to appropriate retraining opportunities for nurses who (after periods of professional inactivity) desire again actively to engage in the nursing profession.
+Pub. L. 100–607, §701(b)(1), struck out former par. (3) which related to appropriate retraining opportunities for nurses who (after periods of professional inactivity)desire again actively to engage in the nursing profession.
 
 Subsec. (a)(4). Pub. L. 100–607, §701(b)(2), (d)(2), redesignated par. (6) as (4) and amended it generally. Prior to amendment, such par. read as follows: “provide training and education to upgrade the skills of licensed vocational or practical nurses, nursing assistants, and other paraprofessional nursing personnel;”. Former par. (4) redesignated (2).
 
@@ -176,7 +176,7 @@ Section 202(c) of Pub. L. 102–408 provided that: “In the case of any authori
 
 #### Required Assurances Regarding Bloodborne Diseases
 
-Secretary of Health and Human Services may make an award of a grant or contract under this subchapter for provision of traineeships only if applicant provides assurances satisfactory to Secretary that all trainees will, as appropriate, receive instruction in utilization of universal precautions and infection control procedures for prevention of transmission of bloodborne diseases, see section 308 of Pub. L. 102–408, set out as a note under section 295j of this title.
+Secretary of Health and Human Services may make an award of a grant or contract under this subchapterfor provision of traineeships only if applicant provides assurances satisfactory to Secretary that all trainees will, as appropriate, receive instruction in utilization of universal precautions and infection control procedures for prevention of transmission of bloodborne diseases, see section 308 of Pub. L. 102–408, set out as a note under section 295j of this title.
 
 #### Eligibility To Receive Additional Grants
 

@@ -6,7 +6,7 @@ In order to assist in the development and promotion of rural tourism, there is e
 
 #### (b) Functions
 
-The functions of the Foundation shall be the planning, development, and implementation of projects and programs which have the potential to increase travel and tourism export revenues by attracting foreign visitors to rural America. Initially, such projects and programs shall include—
+The functions of the Foundation shall be the planning, development, and implementation ofprojects and programs which have the potential to increase travel and tourism export revenues by attracting foreign visitors to rural America. Initially, such projects and programs shall include—
 
 &emsp;(1) participation in the development and distribution of educational and promotional materials pertaining to both private and public attractions located in rural areas of the United States, including Federal parks and recreational lands, which can be used by foreign visitors;
 
@@ -24,7 +24,7 @@ The functions of the Foundation shall be the planning, development, and implemen
 
 &emsp;&emsp;(ii) thereafter shall consist of those nine members plus up to six additional voting members as determined in accordance with the bylaws of the Foundation.
 
-&emsp;(B)(i) The Under Secretary of Commerce for Travel and Tourism shall, within six months after September 30, 1992, appoint the initial nine voting members of the Board and thereafter shall appoint the successors of each of three such members, as provided by such bylaws.
+&emsp;(B)(i) The Secretary of Commerce shall, within six months after September 30, 1992, appoint the initial nine voting members of the Board and thereafter shall appoint the successors of each of three such members, as provided by such bylaws.
 
 &emsp;(ii) The voting members of the Board, other than those referred to in clause (i), shall be appointed in accordance with procedures established by such bylaws.
 
@@ -40,7 +40,7 @@ The functions of the Foundation shall be the planning, development, and implemen
 
 #### (2) Ex-officio members
 
-&emsp;The Under Secretary of Commerce for Travel and Tourism and representatives of Federal agencies with responsibility for Federal recreational sites in rural areas (including the National Park Service, Bureau of Land Management, Forest Service, Corps of Engineers, Bureau of Indian Affairs, Tennessee Valley Authority, and such other Federal agencies as the Board determines appropriate) shall be nonvoting ex-officio members of the Board.
+&emsp;The Secretary of Commerce and representatives of Federal agencies with responsibility for Federal recreational sites in rural areas (including the National Park Service, Bureau of Land Management, Forest Service, Corps of Engineers, Bureau of Indian Affairs, Tennessee Valley Authority, and such other Federal agencies as the Board determines appropriate) shall be nonvoting ex-officio members of the Board.
 
 #### (3) Chair
 
@@ -114,7 +114,7 @@ As used in this section—
 
 &emsp;(4) the term “rural tourism” has the meaning given that term by the Secretary of Commerce and shall include activities related to travel and tourism that occur on Federal recreational sites, on Indian reservations, and in the territories, possessions, and commonwealths of the United States.
 
-(Pub. L. 102–372, §4, Sept. 30, 1992, 106 Stat. 1171.)
+(Pub. L. 102–372, §4, Sept. 30, 1992, 106 Stat. 1171; Pub. L. 104–288, §9(b), Oct. 11, 1996, 110 Stat. 3407.)
 
 #### References in Text
 
@@ -128,11 +128,11 @@ Section is comprised of section 4 of Pub. L. 102–372. Subsec. (n) of section 4
 
 Section was enacted as part of the Tourism Policy and Export Promotion Act of 1992, and not as part of the International Travel Act of 1961 which comprises this chapter.
 
+#### Amendments
+
+1996—Subsec. (c)(1)(B)(i), (2). Pub. L. 104–288 substituted “Secretary of Commerce” for “Under Secretary of Commerce for Travel and Tourism”.
+
 #### Change of Name
 
-Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2123 of this title.
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee onCommerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 

@@ -12,7 +12,9 @@ Contracts.—To the extent provided in advance in an appropriation law, the Secr
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

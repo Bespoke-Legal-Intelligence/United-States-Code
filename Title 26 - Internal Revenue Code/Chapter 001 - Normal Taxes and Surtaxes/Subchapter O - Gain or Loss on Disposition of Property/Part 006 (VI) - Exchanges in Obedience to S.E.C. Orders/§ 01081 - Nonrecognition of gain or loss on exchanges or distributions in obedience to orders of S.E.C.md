@@ -46,7 +46,7 @@ If there is distributed, in obedience to an order of the Securities and Exchange
 
 #### (1) General rule
 
-&emsp;If an exchange (not within any of the provisions of subsection (d)) would be within the provisions of subsection (a) if it were not for the fact that property received in exchange consists not only of property permitted by such subsection to be received without the recognition of gain or loss, but also of otherproperty or money, then the gain, if any, to the recipient shall be recognized, but in an amount not in excess of the sum of such money and the fair market value of such other property, and the loss, if any, to the recipient shall not be recognized.
+&emsp;If an exchange (not within any of the provisions of subsection (d)) would be within the provisions of subsection (a) if it were not for the fact that property received in exchange consists not only of property permitted by such subsection to be received without the recognition of gain or loss, but also of other property or money, then the gain, if any, to the recipient shall be recognized, but in an amount not in excess of the sum of such money and the fair market value of such other property, and the loss, if any, to the recipient shall not be recognized.
 
 #### (2) Distribution treated as dividend
 

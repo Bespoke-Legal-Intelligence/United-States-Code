@@ -16,7 +16,7 @@
 
 &emsp;(1) encourage and support rural United States, in order to help make it a better place to live, work, and enjoy life;
 
-&emsp;(2) increase income and improve employment for persons in rural areas, including the owners or operators of small farms, small businesses, and rural youth;
+&emsp;(2) increase income and improve employment for persons in rural areas, including theowners or operators of small farms, small businesses, and rural youth;
 
 &emsp;(3) improve the quality and availability of essential community services and facilities in rural areas;
 
@@ -56,7 +56,7 @@ Pub. L. 100–219, §1, Dec. 29, 1987, 101 Stat. 1456, provided that: “This Ac
 
 #### Northern Great Plains Rural Development
 
-Pub. L. 103–318, Aug. 26, 1994, 108 Stat. 1781, provided that:
+Pub. L. 103–318, Aug. 26, 1994, 108 Stat. 1781, as amended by Pub. L. 104–327, §2, Oct. 19, 1996, 110 Stat. 4003, provided that:
 
 #### “SECTION 1. SHORT TITLE.
 
@@ -138,7 +138,7 @@ Meetings.—
 
 &emsp;“(1)
 
-First meetings.—Five or more members appointed under subsection (a)(1) shall determine the date, time, and place of the first meeting, and shall call the first meeting. At the first meeting, the members of the Commission shall appoint a chairperson from among the members appointed under subsection (a)(1). The first meeting of the Commission shall be held not later than 45 days after the date of enactment of this Act \[Aug. 26, 1994\].
+First meetings.—Five or more members appointed under subsection (a)(1) shall determine the date, time, and place of the first meeting, and shall call the first meeting. At the first meeting, the members of the Commission shall appoint a chairperson from among the members appointed under subsection\(a)(1). The first meeting of the Commission shall be held not later than 45 days after the date of enactment of this Act \[Aug. 26, 1994\].
 
 &emsp;“(2)
 
@@ -246,7 +246,7 @@ Members Appointed by the Secretary.—Each member appointed by the Secretary of 
 
 “(c)
 
-Travel and Other Expenses.—Each member of the Commission shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5, United States Code, while away from the home or regular place of business of the member in the performance of services for the Commission. Each member of the Commission shall also be reimbursed by the United States Government for other necessary expenses incurred by the member in the performance of the duties of the member.
+Travel and Other Expenses.—Each member of the Commission shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I ofchapter 57 of title 5, United States Code, while away from the home or regular place of business of the member in the performance of services for the Commission. Each member of the Commission shall also be reimbursed by the United States Government for other necessary expenses incurred by the member in the performance of the duties of the member.
 
 #### “SEC. 9. POWERS AND ADMINISTRATIVE PROVISIONS.
 
@@ -380,11 +380,7 @@ Government programs, policies, and regulations.—The Commission shall submit to
 
 #### “SEC. 11. TERMINATION.
 
-“The Commission shall terminate on the earlier of—
-
-&emsp;“(1) 120 days after the date of submission of the final report under section 10; and
-
-&emsp;“(2) 2 years after the date of enactment of this Act \[Aug. 26, 1994\].
+“The Commission shall terminate on September 30, 1997.
 
 #### “SEC. 12. AUTHORIZATION OF APPROPRIATIONS.
 

@@ -1,22 +1,10 @@
 ### §1731. Commodity determinations
 
-#### (a) Available commodities
+#### (a) Availability of commodities
 
-After consulting with other agencies of the Federal Government affected and within policies established by the President for implementing this chapter, and after taking into consideration productive capacity, domestic requirements, farm and consumer price levels, commercial exports, and adequate carryover, the Secretaryshall determine, prior to the beginning of each fiscal year, the agricultural commodities and quantities thereof available for disposition under this chapter.
+No agricultural commodity shall be available for disposition under this chapter if the Secretary determines that the disposition would reduce the domestic supply of the commodity below the supply needed to meet domestic requirements and provide adequate carryover (as determined by the Secretary), unless the Secretary determines that some part of the supply should be used to carry out urgent humanitarian purposes under this chapter.
 
-#### (b) Modification
-
-The Secretary may, during the fiscal year, modify a determination made under subsection (a) of this section if the Secretary provides to the Congress prior notice of that modification (including a statement of the reasons for the modification).
-
-#### (c) Commodities not available
-
-No commodity shall be available for disposition under this chapter if such disposition would reduce the domestic supply of such commodity below that needed to meet domestic requirements, adequate carryover, and anticipated exports for dollars as determined by the Secretary, unless the Secretary determines that some part of the supply should be used to carry out urgent humanitarian purposes under this chapter.
-
-#### (d) Policies for implementing chapter
-
-The Secretary shall, to the extent practicable, seek to maintain a stable level of available agricultural commodities under this chapter of the kind and type needed to provide food assistance to developing countries and should attempt to make such commodities available to the degree necessary to fulfill multi-year agreements entered into under this chapter.
-
-#### (e) Ineligible commodities
+#### (b) Ineligible commodities
 
 #### (1) Alcoholic beverages
 
@@ -26,13 +14,15 @@ The Secretary shall, to the extent practicable, seek to maintain a stable level 
 
 &emsp;Tobacco or the products thereof shall not be made available under section 1727b of this title or subchapter III of this chapter.
 
-#### (f) Market development activities
+#### (c) Market development activities
 
-Subsection (e)(1) of this section shall not be construed to prohibit representatives of the United States wine, beer, distilled spirits, or other alcoholic beverage industry from participating in agricultural market development activities carried out by the Secretary with foreign currencies made available under subchapter II of this chapter.
+Subsection (b)(1) of this section shall not be construed to prohibit representatives of the United States wine, beer, distilled spirits, or other alcoholic beverage industry from participating in agricultural market development activities carried out by the Secretary with foreign currencies made available under subchapter II of this chapter.
 
-(July 10, 1954, ch. 469, title IV, §401, as added Sept. 21, 1959, Pub. L. 86–341, title I, §14, 73 Stat. 610; amended Sept. 27, 1962, Pub. L. 87–703, title II, §201(1), 76 Stat. 610; Nov. 11, 1966, Pub. L. 89–808, §2(E), 80 Stat. 1535; Aug. 3, 1977, Pub. L. 95–88, title II, §212, 91 Stat. 551; Sept. 29, 1977, Pub. L. 95–113, title XII, §1204, 91 Stat. 956; Aug. 14, 1979, Pub. L. 96–53, title II, §208, 93 Stat. 370; Nov. 28, 1990, Pub. L. 101–624, title XV, §1512, 104 Stat. 3645.)
+(July 10, 1954, ch. 469, title IV, §401, as added Sept. 21, 1959, Pub. L. 86–341, title I, §14, 73 Stat. 610; amended Sept. 27, 1962, Pub. L. 87–703, title II, §201(1), 76 Stat. 610; Nov. 11, 1966, Pub. L. 89–808, §2(E), 80 Stat. 1535; Aug. 3, 1977, Pub. L. 95–88, title II, §212, 91 Stat. 551; Sept. 29, 1977, Pub. L. 95–113, title XII, §1204, 91 Stat. 956; Aug. 14, 1979, Pub. L. 96–53, title II, §208, 93 Stat. 370; Nov. 28, 1990, Pub. L. 101–624, title XV, §1512, 104 Stat. 3645; Apr. 4, 1996, Pub. L. 104–127, title II, §212, 110 Stat. 955.)
 
 #### Amendments
+
+1996—Pub. L. 104–127 added subsec. (a) and struck out former subsec. (a) which authorized Secretary, after consultation with other affected Federal agencies, to determine agricultural commodities and quantities thereof available for disposition, redesignated subsec. (e) as (b) and struck out former subsec. (b) which provided for modification of determination by Secretary, redesignated subsec. (f) as (c) and substituted “(b)(1)” for “(e)(1)”, struck out former subsec. (c) which provided for nonavailability of commodities if domestic supply of such commodities was adversely affected, and struck out subsec. (d) which outlined policies for distribution of commodities to developing countries.
 
 1990—Pub. L. 101–624 amended section generally, substituting present provisions for provisions authorizing Secretary to determine types and quantities of commodities available for distribution, limiting distribution where domestic supply is threatened, and requiring available storage facilities in recipient country prior to making commodities available to such country as well as finding that distribution will not result in interference with production or marketing in that country.
 
@@ -76,13 +66,9 @@ Pub. L. 99–198, title XI, §1163, Dec. 23, 1985, 99 Stat. 1499, as amended by 
 
 “(c) Through September 30, 1995, the Secretary shall report semiannually to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate on the volume of sales made under this section.”
 
-\[Amendment of section 1163 of Pub. L. 99–198, set out above, by Pub. L. 103–465 effective on the date of entryinto force of the WTO Agreement with respect to the United States (Jan. 1, 1995), except as otherwise provided, see section 451 of Pub. L. 103–465, set out as an Effective Date note under section 3601 of Title 19, Customs Duties.\]
+\[Amendment of section 1163 of Pub. L. 99–198, set out above, by Pub. L. 103–465 effective on the date of entry into force of the WTO Agreement with respect to the United States (Jan. 1, 1995), except as otherwise provided, see section 451 of Pub. L. 103–465, set out as an Effective Date note under section 3601 of Title 19, Customs Duties.\]
 
 \[Amendment of section 1163 of Pub. L. 99–198, set out above, by Pub. L. 100–435 effective and implemented on Oct. 1, 1988, see section 701 of Pub. L. 100–435, set out as a note under section 2012 of this title.\]
-
-#### Consultation Through Food Assistance Policy Council
-
-Consultation required by subsec. (a) of this section to be undertaken through Food Assistance Policy Council, see Ex. Ord. No. 12752, §4(a), Feb. 25, 1991, 56 F.R. 8256, set out as a note under section 1691 of this title.
 
 #### Section Referred to in Other Sections
 

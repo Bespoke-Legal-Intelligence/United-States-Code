@@ -26,7 +26,7 @@ The Administration may accept any report of examination made by or to any commis
 
 #### (A) Requirement
 
-&emsp;&emsp;Not later than 1 year after September 23, 1994, and biennially thereafter for the next 4 years, the Board shall submit a report to theCongress on compliance by insured credit unions with the requirements of the national flood insurance program.
+&emsp;&emsp;Not later than 1 year after September 23, 1994, and biennially thereafter for the next 4 years, the Board shall submit a report to the Congress on compliance by insured credit unions with the requirements of the national flood insurance program.
 
 #### (B) Contents
 
@@ -40,7 +40,7 @@ The Administration may accept any report of examination made by or to any commis
 
 1989—Subsec. (b). Pub. L. 101–73, §915(a)(1), inserted “or with other types of investigations to determine compliance with applicable law and regulations,” after “insured credit unions,”.
 
-Pub. L. 101–73, §915(a)(2), which directed the insertion of “and to exercise such others powers as are set forth in section 1786(p) of this title” after “subpena duces tecum”, was executed by making the insertion after “subpenas duces tecum”, as the probable intent of Congress.
+Pub. L. 101–73, §915(a)(2), which directed the insertion of “and to exercise such others powers as are set forthin section 1786(p) of this title” after “subpena duces tecum”, was executed by making the insertion after “subpenas duces tecum”, as the probable intent of Congress.
 
 1978—Pub. L. 95–630 substituted “Board” for “Administrator” wherever appearing, and “it” and “its” for “him” and “his”, respectively, where appropriate.
 

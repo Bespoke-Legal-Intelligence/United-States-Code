@@ -60,7 +60,7 @@ Testing and Laboratory Requirements.—In carrying out subsection (b) of this se
 
 (e)
 
-Rehabilitation.—The Secretary of Transportation shall prescribe regulations establishing requirements for rehabilitation programs that provide for the identification and opportunity for treatment of any mass transportationemployee referred to in subsection (b)(1) of this section who is found to have used alcohol or a controlled substance in violation of law or a Government regulation. The Secretary shall decide on the circumstances under which employees shall be required to participate in a program. This subsection does not prevent a mass transportation operation from establishing a program under this section in cooperation with another mass transportation operation.
+Rehabilitation.—The Secretary of Transportation shall prescribe regulations establishing requirements for rehabilitation programs that provide for the identification and opportunity for treatment of any mass transportation employee referred to in subsection (b)(1) of this section who is found to have used alcohol or a controlled substance in violation of law or a Government regulation. The Secretary shall decide on the circumstances under which employees shall be required to participate in a program. This subsection does not prevent a mass transportation operation from establishing a program under this section in cooperation with another mass transportation operation.
 
 (f)
 
@@ -84,7 +84,9 @@ Historical and Revision Notes
 
 Pub. L. 103–272
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

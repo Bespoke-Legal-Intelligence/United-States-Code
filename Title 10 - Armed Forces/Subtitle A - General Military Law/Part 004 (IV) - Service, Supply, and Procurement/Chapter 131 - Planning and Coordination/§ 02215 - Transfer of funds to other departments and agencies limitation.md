@@ -1,8 +1,18 @@
 ### §2215. Transfer of funds to other departments and agencies: limitation
 
-Funds available for military functions of the Department of Defense may not be made available to any other department or agency of the Federal Government pursuant to a provision of law enacted after November 29, 1989, unless, not less than 30 days before such funds are made available to such other department or agency, the Secretary of Defense submits to the Committees on Armed Services and the Committees on Appropriations of the Senate and House of Representatives a certification that making those funds available to such other department or agency is in the national security interest of the United States.
+(a)
 
-(Added Pub. L. 103–160, div. A, title XI, §1106(a)(1), Nov. 30, 1993, 107 Stat. 1750.)
+Certification Required.—Funds available for military functions of the Department of Defense may not be made available to any other department or agency of the Federal Government pursuant to a provision of law enacted after November 29, 1989, unless, not less than 30 days before such funds are made available to such other department or agency, the Secretary of Defense submits to the congressional committees specified in subsection (b) a certification that making those funds available to such other department or agency is in the national security interest of the United States.
+
+(b)
+
+Congressional Committees.—The committees referred to in subsection (a) are—
+
+&emsp;(1) the Committee on Armed Services and the Committee on Appropriations of the Senate; and
+
+&emsp;(2) the Committee on National Security and the Committee on Appropriations of the House of Representatives.
+
+(Added Pub. L. 103–160, div. A, title XI, §1106(a)(1), Nov. 30, 1993, 107 Stat. 1750; amended Pub. L. 104–106, div. A, title XV, §1502(a)(14), Feb. 10, 1996, 110 Stat. 503.)
 
 #### Prior Provisions
 
@@ -10,7 +20,11 @@ A prior section 2215, added Pub. L. 99–661, div. A, title XIII, §1307(a)(1), 
 
 Provisions similar to those in this section were contained in Pub. L. 101–189, div. A, title XVI, §1604, Nov. 29, 1989, 103 Stat. 1598, which was set out as a note under section 1531 of Title 31, Money and Finance, prior to repeal by Pub. L. 103–160, §1106(b).
 
-#### Change of Name
+#### Amendments
 
-Committee on Armed Services of House of Representatives treated as referring to Committee on National Security of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+1996—Pub. L. 104–106 designated existing provisions as subsec. (a), inserted heading, substituted “to the congressional committees specified in subsection (b)” for “to the Committees on Armed Services and the Committees on Appropriations of the Senate and House of Representatives”, and added subsec. (b).
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 2645, 9514 of this title.
 

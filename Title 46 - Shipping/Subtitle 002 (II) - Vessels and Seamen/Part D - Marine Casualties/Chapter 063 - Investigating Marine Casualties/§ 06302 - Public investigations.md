@@ -12,5 +12,7 @@ Historical and Revision Notes
 
 6302
 
-Section 6302 provides that each investigation conducted under this chapter shall be open to the public, except when evidence affecting the national security of the United States is to be received.
+..............................................
+
+Section 6302 provides that each investigation conducted under this chapter shall be open to the public,except when evidence affecting the national security of the United States is to be received.
 

@@ -10,3 +10,113 @@ A person who, outside the United States, engages in the act of—
 
 (Added Pub. L. 103–322, title XII, §120003(a), Sept. 13, 1994, 108 Stat. 2021.)
 
+#### Combatting International Counterfeiting of United States Currency
+
+Pub. L. 104–132, title VIII, §807, Apr. 24, 1996, 110 Stat. 1308, provided that:
+
+“(a)
+
+In General.—The Secretary of the Treasury (hereafter in this section referred to as the ‘Secretary’), in consultation with the advanced counterfeit deterrence steering committee, shall—
+
+&emsp;“(1) study the use and holding of United States currency in foreign countries; and
+
+&emsp;“(2) develop useful estimates of the amount of counterfeit United States currency that circulates outside the United States each year.
+
+“(b)
+
+Evaluation Audit Plan.—
+
+&emsp;“(1)
+
+In general.—The Secretary shall develop an effective international evaluation audit plan that is designed to enable the Secretary to carry out the duties described in subsection (a) on a regular and thorough basis.
+
+&emsp;“(2)
+
+Submission of detailed written summary.—The Secretary shall submit a detailed written summary of the evaluation audit plan developed pursuant to paragraph (1) to the Congress before the end of the 6-month period beginning on the date of the enactment of this Act \[Apr. 24, 1996\].
+
+&emsp;“(3)
+
+First evaluation audit under plan.—The Secretary shall begin the first evaluation audit pursuant to the evaluation audit plan no later than the end of the 1-year period beginning on the date of the enactment of this Act.
+
+&emsp;“(4)
+
+Subsequent evaluation audits.—At least 1 evaluation audit shall be performed pursuant to the evaluation audit plan during each 3-year period beginning after the date of the commencement of the evaluation audit referred to in paragraph (3).
+
+“(c)
+
+Reports.—
+
+&emsp;“(1)
+
+In general.—The Secretary shall submit a written report to the Committee on Banking and Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate on the results of each evaluation audit conducted pursuant to subsection (b) within 90 days after the completion of the evaluation audit.
+
+&emsp;“(2)
+
+Contents.—In addition to such other information as the Secretary may determine to be appropriate, each report submitted to the Congress pursuant to paragraph (1) shall include the following information:
+
+&emsp;&emsp;“(A) A detailed description of the evaluation audit process and the methods used to develop estimates of the amount of counterfeit United States currency in circulation outside the United States.
+
+&emsp;&emsp;“(B) The method used to determine the currency sample examined in connection with the evaluation audit and a statistical analysis of the sample examined.
+
+&emsp;&emsp;“(C) A list of the regions of the world, types of financial institutions, and other entities included.
+
+&emsp;&emsp;“(D) An estimate of the total amount of United States currency found in each region of the world.
+
+&emsp;&emsp;“(E) The total amount of counterfeit United States currency and the total quantity of each counterfeit denomination found in each region of the world.
+
+&emsp;“(3)
+
+Classification of information.—
+
+&emsp;&emsp;“(A)
+
+In general.—To the greatest extent possible, each report submitted to the Congress under this subsection shall be submitted in an unclassified form.
+
+&emsp;&emsp;“(B)
+
+Classified and unclassified forms.—If, in the interest of submitting a complete report under this subsection, the Secretary determines that it is necessary to include classified information in the report, the report shall be submitted in a classified and an unclassified form.
+
+“(d)
+
+Sunset Provision.—This section shall cease to be effective as of the end of the 10-year period beginning on the date of the enactment of this Act \[Apr. 24, 1996\].
+
+“(e)
+
+Rule of Construction.—No provision of this section shall be construed as authorizing any entity to conduct investigations of counterfeit United States currency.
+
+“(f)
+
+Findings.—The Congress hereby finds the following:
+
+&emsp;“(1) United States currency is being counterfeited outside the United States.
+
+&emsp;“(2) The One Hundred Third Congress enacted, with the approval of the President on September 13, 1994, section 470 of title 18, United States Code, making such activity a crime under the laws of the United States.
+
+&emsp;“(3) The expeditious posting of agents of the United States Secret Service to overseas posts, which is necessary for the effective enforcement of section 470 and related criminal provisions, has been delayed.
+
+&emsp;“(4) While section 470 of title 18, United States Code, provides for a maximum term of imprisonment of 20 years as opposed to a maximum term of 15 years for domestic counterfeiting, the United States Sentencing Commission has failed to provide, in its sentencing guidelines, for an appropriate enhancement of punishment for defendants convicted of counterfeiting United States currency outside the United States.
+
+“(g)
+
+Timely Consideration of Requests for Concurrence in Creation of Overseas Posts.—
+
+&emsp;“(1)
+
+In general.—The Secretary of State shall—
+
+&emsp;&emsp;“(A) consider in a timely manner the request by the Secretary of the Treasury for the placement of such number of agents of the United States Secret Service as the Secretary of the Treasury considers appropriate in posts in overseas embassies; and
+
+&emsp;&emsp;“(B) reach an agreement with the Secretary of the Treasury on such posts as soon as possible and, in any event, not later than December 31, 1996.
+
+&emsp;“(2)
+
+Cooperation of treasury required.—The Secretary of the Treasury shall promptly provide any information requested by the Secretary of State in connection with such requests.
+
+&emsp;“(3)
+
+Reports required.—The Secretary of the Treasury and the Secretary of State shall each submit, by February 1, 1997, a written report to the Committee on Banking and Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate explaining the reasons for the rejection, if any, of any proposed post and the reasons for the failure, if any, to fill any approved post by such date.
+
+“(h)
+
+Enhanced Penalties for International Counterfeiting of United States Currency.—Pursuant to the authority of the United States Sentencing Commission under section 994 of title 28, United States Code, the Commission shall amend the sentencing guidelines prescribed by the Commission to provide an appropriate enhancement of the punishment for a defendant convicted under section 470 of title 18 of such Code.”
+

@@ -70,7 +70,7 @@ Equipment purchases pursuant to this section, when not being used to carry out t
 
 #### (f) Limitation
 
-Not more than 10 percent of amounts received under any grant received under this section shall be used to purchase computer hardware or software.
+Not more than 10 percent of amounts received under any grant received under this sectionshall be used to purchase computer hardware or software.
 
 #### (g) Special rule
 

@@ -24,6 +24,12 @@ Historical and Revision Notes
 
 1002(a)
 
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 1002(b)
 
 50:1192(b) (1st sentence, less 11th through 29th words).
@@ -66,5 +72,5 @@ Grade of reserve commissioned officer on transfer to Retired Reserve, see sectio
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 8360, 10214 of this title.
+This section is referred to in section 10214 of this title.
 

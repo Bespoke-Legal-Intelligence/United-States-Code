@@ -13,7 +13,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in section 227 of this title; title 38 section 3033.
+This chapter is referred to in title 38 section 3033.
 
 
 ---

@@ -42,7 +42,7 @@ On the basis of the notification and information provided by the administering a
 
 #### (B) Request by interested party regarding violation of Article 8
 
-&emsp;&emsp;An interested party may request the administering authority to determine if there is reason to believe that a violation of Article 8 of the Subsidies Agreement exists. The request shall contain such information as the administering authority may require to support the allegations contained in the request. If the administering authority, after analyzing the request and other information reasonably available to the administering authority, determines that additional information is needed, the administering authority shall recommend to the Trade Representative that the Trade Representative seek, pursuant to Article 8.3 or 8.4 of the Subsidies Agreement, additional information regarding the particular notified subsidy program or a subsidy granted pursuant to the notified subsidy program. If the administering authority determines that there is reason to believe that a violation of Article 8 of the Subsidies Agreement exists, the administering authority shall so notify the Trade Representative, and shall include supporting information with the notification.
+&emsp;&emsp;An interested party may request the administering authority to determine if there is reason to believe that a violation of Article 8 of the Subsidies Agreement exists. The request shall contain such information as the administering authority may require to support the allegations contained in the request. If the administering authority, after analyzing the request and other information reasonably available to the administering authority, determines that additional information is needed, the administering authority shall recommend to the Trade Representative that the Trade Representative seek, pursuant to Article 8.3 or 8.4 of the Subsidies Agreement, additional information regarding the particular notified subsidy programor a subsidy granted pursuant to the notified subsidy program. If the administering authority determines that there is reason to believe that a violation of Article 8 of the Subsidies Agreement exists, the administering authority shall so notify the Trade Representative, and shall include supporting information with the notification.
 
 #### (C) Action by Trade Representative
 
@@ -134,7 +134,7 @@ For purposes of this section:
 
 #### (4) Interested party
 
-&emsp;The term “interested party” means a party described in subparagraph (C), (D), (E), (F), or (G) of section 771(9) of the Tariff Act of 1930 (19 U.S.C. 1677(9)(A), (C), (D), (E), (F), or (G)).
+&emsp;The term “interested party” means a party described in subparagraph (C), (D), (E), (F), or (G) of section 771(9) of the Tariff Act of 1930 (19 U.S.C. 1677(9)(C), (D), (E), (F), or (G)).
 
 #### (5) Nonactionable subsidy
 
@@ -150,7 +150,7 @@ For purposes of this section:
 
 #### (8) Subsidies Agreement
 
-&emsp;The term “Subsidies Agreement” means the Agreement on Subsidies and CountervailingMeasures described in section 771(8) of the Tariff Act of 1930 (19 U.S.C. 1677(8)).
+&emsp;The term “Subsidies Agreement” means the Agreement on Subsidies and Countervailing Measures described in section 771(8) of the Tariff Act of 1930 (19 U.S.C. 1677(8)).
 
 #### (9) Subsidies Committee
 
@@ -172,7 +172,7 @@ For purposes of this section:
 
 Notwithstanding any other provision of law, the administering authority may provide the Trade Representative with a copy of proprietary information submitted to, or obtained by, the administering authority that the Trade Representative considers relevant in carrying out its responsibilities under this subchapter. The Trade Representative shall protect from public disclosure proprietary information obtained from the administering authority under this subchapter.
 
-(Pub. L. 103–465, title II, §281, Dec. 8, 1994, 108 Stat. 4922.)
+(Pub. L. 103–465, title II, §281, Dec. 8, 1994, 108 Stat. 4922; Pub. L. 104–295, §20(b)(13), Oct. 11, 1996, 110 Stat. 3527.)
 
 #### References in Text
 
@@ -183,6 +183,10 @@ The Trade Act of 1974, referred to in subsec. (d), is Pub. L. 93–618, Jan. 3, 
 This Act, referred to in subsec. (e)(1)(C)(ii), is Pub. L. 103–465, Dec. 8, 1994, 108 Stat. 4809, known as the Uruguay Round Agreements Act. For complete classification of this Act to the Code, see Short Title note set out under section 3501 of this title and Tables.
 
 This subchapter, referred to in subsec. (i), was in the original “this part”, meaning part 4 (§§281 to 283) of subtitle B of title II of Pub. L. 103–465, which enacted this subchapter and amended sections 1671b, 1675, 1677d, and 2191 of this title. For complete classification of this part to the Code, see Tables.
+
+#### Amendments
+
+1996—Subsec. (h)(4). Pub. L. 104–295 struck out “(A),” after “1677(9)”.
 
 #### Effective Date
 

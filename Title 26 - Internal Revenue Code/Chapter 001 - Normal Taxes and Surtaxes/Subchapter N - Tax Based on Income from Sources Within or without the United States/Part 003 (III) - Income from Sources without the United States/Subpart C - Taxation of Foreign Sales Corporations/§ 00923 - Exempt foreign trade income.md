@@ -14,7 +14,7 @@ For purposes of this subpart—
 
 #### (3) Income determined with regard to administrative pricing rules
 
-&emsp;In the case of any transaction with respect to which paragraph (1) or (2) of section 925(a) (or the corresponding provisions of the regulations prescribed under section 925(b)) applies, 16/23 of the foreign trade income derived from such transaction shall be treated as described in this paragraph.
+&emsp;In the case of any transaction with respect to which paragraph (1) or (2) of section 925(a) (or the corresponding provisions of the regulations prescribed under section 925(b)) applies, 16/23 of the foreign trade income derived fromsuch transaction shall be treated as described in this paragraph.
 
 #### (4) Special rule for foreign trade income allocable to a cooperative
 

@@ -10,7 +10,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 5 U.S.C. 632 (1st par.).
 
@@ -22,7 +24,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-<b>1978</b>—Pub. L. 95–454 substituted “Office of Personnel Management” for “Appointment of Commissioners” in section catchline, and in text provisions relating to the establishment, etc., of the Office of Personnel Management for provisions relating to the appointment of members to the United States Civil Service Commission.
+1978—Pub. L. 95–454 substituted “Office of Personnel Management” for “Appointment of Commissioners” in section catchline, and in text provisions relating to the establishment, etc., of the Office of Personnel Management for provisions relating to the appointment of members to the United States Civil Service Commission.
 
 #### Effective Date of 1978 Amendment
 
@@ -60,7 +62,7 @@ Pub. L. 100–202, §101(m) \[title VI, §618\], Dec. 22, 1987, 101 Stat. 1329�
 
 “(C) Notwithstanding any requirement referred to in subparagraph (A) or (B), for purposes of any Combined Federal Campaign—
 
-&emsp;“(i) any voluntary agency or federated group which was a named plaintiff as of September 1, 1987, in a case brought in the United States District Court forthe District of Columbia, and designated as Civil Action No. 83–0928 or 86–1367, and
+&emsp;“(i) any voluntary agency or federated group which was a named plaintiff as of September 1, 1987, in a case brought in the United States District Court for the District of Columbia, and designated as Civil Action No. 83–0928 or 86–1367, and
 
 &emsp;“(ii) The Federal Employee Education and Assistance Fund,
 
@@ -68,7 +70,7 @@ Pub. L. 100–202, §101(m) \[title VI, §618\], Dec. 22, 1987, 101 Stat. 1329�
 
 “(D) Public accountability standards shall remain similar to the standards which were by regulation established with respect to the 1984–1987 Combined Federal Campaigns, except that the Office of Personnel Management shall prescribe regulations under which a voluntary agency or federated group which does not exceed a certain size (as established under such regulations) may submit a copy of an appropriate Federal tax return, rather than complying with any independent auditing requirements which would otherwise apply.
 
-“(2)(A) A voluntary agency or federated group shall, for purposes of any Combined Federal Campaign in any year, be considered to have national eligibility if such agency or group—
+“(2)(A) A voluntary agency or federated group shall, for purposes of any Combined Federal Campaign in anyyear, be considered to have national eligibility if such agency or group—
 
 &emsp;“(i) complies with all requirements for eligibility to receive contributions through the Combined Federal Campaign, without regard to any requirements relating to ‘local presence’; and
 
@@ -142,7 +144,7 @@ Pub. L. 100–202, §101(m) \[title VI, §618\], Dec. 22, 1987, 101 Stat. 1329�
 
 “(8) The name of any individual making a designated contribution in a campaign shall, upon request of the recipient voluntary agency or federated group, be released to such agency or group, unless the contributor indicates that his or her name is not to be released. Under no circumstance may the names of contributors be sold or otherwise released by such agency or group.
 
-“(9)(A) The name of each participating voluntary agency and federated group, together with a brief description of their respective programs, shall be published in any information leaflet distributed to employees in a local combined Federal campaign. Agencies shall be arranged by federated group, with combinedFederal campaign organization code numbers corresponding to each such agency and group.
+“(9)(A) The name of each participating voluntary agency and federated group, together with a brief description of their respective programs, shall be published in any information leaflet distributed to employees in a local combined Federal campaign. Agencies shall be arranged by federated group, with combined Federal campaign organization code numbers corresponding to each such agency and group.
 
 “(B) The requirement under subparagraph (A) relating to the inclusion of program descriptions may, at the discretion of a local Federal coordinating committee, be waived for a local campaign in any year if, in the immediately preceding campaign year, contributions received through the local campaign totalled less than $100,000.
 
@@ -150,7 +152,7 @@ Pub. L. 100–202, §101(m) \[title VI, §618\], Dec. 22, 1987, 101 Stat. 1329�
 
 “(11) The Office—
 
-&emsp;“(A) may not, after the date of the enactment of this Act \[Dec. 22, 1987\], grant national eligibility status to any federated group unless such group has at least 15 member voluntary agencies, each of which meets the requirements for national eligibility under paragraph (2)(A); and
+&emsp;“(A) may not, after the date of the enactment of this Act \[Dec. 22, 1987\], grant national eligibility status to any federated group unless such group has at least 15 member voluntary agencies, each of whichmeets the requirements for national eligibility under paragraph (2)(A); and
 
 &emsp;“(B) may withdraw federation status from any federated group for a period of not to exceed 1 campaign year if it is determined, on the record after opportunity for a hearing, that the federated group has not complied with the regulatory requirements.
 
@@ -282,7 +284,7 @@ Federal Register.
 
 #### Sec. 203. Savings Provision
 
-The Board shall accept appeals from agency actions effected prior to the effective date of this Plan. On the effective date of Part II of this Plan, proceedings then before the Federal Employee Appeals Authority shall continue before the Board; proceedings then before the Appeals Review Board and proceedings then before the United States Civil Service Commission on appeal from decisions of the Appeals Review Board shall continue before the Board; other employee appeals before boards or other bodies pursuant to law or regulation shall continue to be processed pursuant to those laws or regulations. Nothing in this section shall affect the right of a Federal employee to judicial review under applicable law.
+The Board shall accept appeals from agency actions effected prior to the effective date of this Plan. On the effective date of Part II of this Plan, proceedings thenbefore the Federal Employee Appeals Authority shall continue before the Board; proceedings then before the Appeals Review Board and proceedings then before the United States Civil Service Commission on appeal from decisions of the Appeals Review Board shall continue before the Board; other employee appeals before boards or other bodies pursuant to law or regulation shall continue to be processed pursuant to those laws or regulations. Nothing in this section shall affect the right of a Federal employee to judicial review under applicable law.
 
 #### Sec. 204. The Special Counsel
 
@@ -348,13 +350,13 @@ Unless and until modified, revised, or revoked, all policies, regulations, and p
 
 #### Sec. 307. Savings Provision
 
-All matters which relate to the functions transferred by Section 304 of this Plan, and which are pending onthe effective date of the establishment of the Authority before the Federal Labor Relations Council, the Vice Chairman of the Civil Service Commission, or the Assistant Secretary of Labor for Labor-Management Relations shall continue before the Authority under such rules and procedures as the Authority shall prescribe. All such matters pending on the effective date of the establishment of the Authority before the Panel, shall continue before the Panel under such rules and procedures as the Panel shall prescribe.
+All matters which relate to the functions transferred by Section 304 of this Plan, and which are pending on the effective date of the establishment of the Authority before the Federal Labor Relations Council, the Vice Chairman of the Civil Service Commission, or the Assistant Secretary of Labor for Labor-Management Relations shall continue before the Authority under such rules and procedures as the Authority shall prescribe. All such matters pending on the effective date of the establishment of the Authority before the Panel, shall continue before the Panel under such rules and procedures as the Panel shall prescribe.
 
 #### PART IV. GENERAL PROVISIONS
 
 #### Sec. 401. Incidental Transfer
 
-So much of the personnel, property, records, and unexpended balances of appropriations, allocations and other funds employed, used, held, available, or to be made available in connection with the functions transferred under this Plan, as the Director of the Office of Management and Budget shall determine, shall be transferred to the appropriate agency, or component at such time or times as the Director of the Office of Management and Budget shall provide, except that no such unexpended balances transferred shall be used for purposes other than those for which the appropriation was originally made. The Director of the Office of Management and Budget shall provide for terminating the affairs of any agencies abolished herein and for such further measures and dispositions as such Director deems necessary to effectuate the purposes of this Reorganization Plan.
+So much of the personnel, property, records, and unexpended balances of appropriations, allocations and other funds employed, used, held, available, or to bemade available in connection with the functions transferred under this Plan, as the Director of the Office of Management and Budget shall determine, shall be transferred to the appropriate agency, or component at such time or times as the Director of the Office of Management and Budget shall provide, except that no such unexpended balances transferred shall be used for purposes other than those for which the appropriation was originally made. The Director of the Office of Management and Budget shall provide for terminating the affairs of any agencies abolished herein and for such further measures and dispositions as such Director deems necessary to effectuate the purposes of this Reorganization Plan.
 
 #### Sec. 402. Interim Officers
 
@@ -398,7 +400,7 @@ The cost of replacing the Civil Service Commission can be paid by our present re
 
 Each of the provisions of this proposed reorganization would accomplish one or more of the purposes set forth in 5 U.S.C. 901(a). No functions are abolished by the Plan, but the offices referred to in 5 U.S.C. 5109(b) and 5 U.S.C. 1103(d) are abolished. The portions of the Plan providing for the appointment and pay for the head and one or more officers of the Office of Personnel Management, the Merit Systems Protection Board, the Federal Labor Relations Authority and the Federal Service Impasses Panel, are necessary to carry out the reorganization. The rates of compensation are comparable to those for similar positions within the Executive Branch.
 
-I am confident that this Plan and the companion civil service reform legislation will both lead to more effective protection of Federal employees’ legitimate rights and a more rewarding workplace. At the same time the American people will benefit from a better managed,more productive and more efficient Federal Government.
+I am confident that this Plan and the companion civil service reform legislation will both lead to more effective protection of Federal employees’ legitimate rights and a more rewarding workplace. At the same time the American people will benefit from a better managed, more productive and more efficient Federal Government.
 
 Jimmy Carter.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -412,7 +414,7 @@ Ex. Ord. No. 10729, Sept. 16, 1957, 22 F.R. 7449, which established the position
 
 Ex. Ord. No. 11205, Mar. 15, 1965, 30 F.R. 3513, provided:
 
-By virtue of the authority vested in me as President of the United States, the position of Special Assistant to the President for Personnel Management, established by Executive Order No. 10729 of September 16, 1957, is abolished, and that Order is hereby revoked.
+By virtue of the authority vested in me as President of the United States, the position of Special Assistantto the President for Personnel Management, established by Executive Order No. 10729 of September 16, 1957, is abolished, and that Order is hereby revoked.
 
 Lyndon B. Johnson.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -430,41 +432,41 @@ By virtue of the authority vested in me as President by the Constitution and sta
 
 Office of Personnel Management
 
-1–101. <i>Establishment of Office of Personnel Management.</i> The establishment of the Office of Personnel Management and of the positions of Director, Deputy Director, and Associate Directors of that Office, as provided in Sections 101 and 103 of Reorganization Plan No. 2 of 1978, shall be effective on January 1, 1979.
+1–101. <i>Establishment of Office of Personnel Management</i>. The establishment of the Office of Personnel Management and of the positions of Director, Deputy Director, and Associate Directors of that Office, as provided in Sections 101 and 103 of Reorganization Plan No. 2 of 1978, shall be effective on January 1, 1979.
 
-1–102. <i>Transfer of Functions.</i> Section 102 of Reorganization Plan No. 2 of 1978, transferring functions to the Director of the Office of Personnel Management, shall be effective on January 1, 1979.
+1–102. <i>Transfer of Functions</i>. Section 102 of Reorganization Plan No. 2 of 1978, transferring functions to the Director of the Office of Personnel Management, shall be effective on January 1, 1979.
 
 #### 1–2.
 
 Merit Systems Protection Board
 
-1–201. <i>Redesignation of Civil Service Commission.</i> The redesignation of the Civil Service Commission as the Merit Systems Protection Board and of the Commissioners as Members of the Board as provided in Section 201 of Reorganization Plan No. 2 of 1978 shall be effective on January 1, 1979.
+1–201. <i>Redesignation of Civil Service Commission</i>. The redesignation of the Civil Service Commission as the Merit Systems Protection Board and of the Commissioners as Members of the Board as provided in Section 201 of Reorganization Plan No. 2 of 1978 shall be effective on January 1, 1979.
 
-1–202. <i>Functions of the Merit Systems Protection Board.</i> The functions of the Merit Systems Protection Board as provided in Section 202 and the savings provisions of Section 203 of Reorganization Plan No. 2 of 1978 shall be effective on January 1, 1979.
+1–202. <i>Functions of the Merit Systems Protection Board</i>. The functions of the Merit Systems Protection Board as provided in Section 202 and the savings provisions of Section 203 of Reorganization Plan No. 2 of 1978 shall be effective on January 1, 1979.
 
 #### 1–3.
 
 The Special Counsel
 
-1–301. <i>Establishment of the Office of Special Counsel.</i> The establishment of the Office of Special Counsel to the Merit Systems Protection Board as provided in Section 204(a) of Reorganization Plan No. 2 of 1978 shall be effective on January 1, 1979.
+1–301. <i>Establishment of the Office of Special Counsel</i>. The establishment of the Office of Special Counsel to the Merit Systems Protection Board as provided in Section 204(a) of Reorganization Plan No. 2 of 1978 shall be effective on January 1, 1979.
 
-1–302. <i>Functions of the Special Counsel.</i> The transfer of functions provided for in Section 204(b) and the performance of functions set forth in Section 204(c)–(g) of Reorganization Plan No. 2 of 1978 shall be effective on January 1, 1979.
+1–302. <i>Functions of the Special Counsel</i>. The transfer of functions provided for in Section 204(b) and the performance of functions set forth in Section 204(c)–(g) of Reorganization Plan No. 2 of 1978 shall be effective on January 1, 1979.
 
 #### 1–4.
 
 The Federal Labor Relations Authority
 
-1–401. <i>The Establishment of the Federal Labor Relations Authority and the Office of General Counsel.</i> The establishment of the Federal Labor Relations Authority as provided in Section 301 and of the Office of General Counsel of the Authority as provided in Section 302 of Reorganization Plan No. 2 of 1978 shall be effective on January 1, 1979.
+1–401. <i>The Establishment of the Federal Labor Relations Authority and the Office of General Counsel</i>. The establishment of the Federal Labor Relations Authority as provided in Section 301 and of the Office of General Counsel of the Authority as provided in Section 302 of Reorganization Plan No. 2 of 1978 shall be effective on January 1, 1979.
 
-1–402. <i>The Federal Service Impasses Panel.</i> The continuation of the Federal Service Impasses Panel established under Executive Order No. 11491, as amended \[set out as a note under section 7101 of this title\], as a distinct organizational entity within the Federal Labor Relations Authority as provided in Section 303 of Reorganization Plan No. 2 of 1978, shall be effective on January 1, 1979.
+1–402. <i>The Federal Service Impasses Panel</i>. The continuation of the Federal Service Impasses Panel established under Executive Order No. 11491, as amended \[set out as a note under section 7101 of this title\], as a distinct organizational entity within the Federal Labor Relations Authority as provided in Section 303 of Reorganization Plan No. 2 of 1978, shall be effective on January 1, 1979.
 
-1–403. <i>Functions of the Federal Labor Relations Authority, the General Counsel, and the Federal Service Impasses Panel.</i> The transfer of functions provided for in Section 304 of Reorganization Plan No. 2 of 1978 shall be effective on January 1, 1979.
+1–403. <i>Functions of the Federal Labor Relations Authority, the General Counsel, and the Federal Service Impasses Panel</i>. The transfer of functions provided for in Section 304 of Reorganization Plan No. 2 of 1978 shall be effective on January 1, 1979.
 
 #### 1–5.
 
 General
 
-1–501. <i>General Effective Date.</i> All other provisions of Reorganization Plan No. 2 of 1978 shall be effective on January 1, 1979.
+1–501. <i>General Effective Date</i>. All other provisions of Reorganization Plan No. 2 of 1978 shall be effective on January 1, 1979.
 
 #### Section 2
 
@@ -474,7 +476,7 @@ General
 
 Redesignations
 
-2–101. <i>Office of Personnel Management.</i> Each of the Executive orders, as amended, listed in this Section under subsections (a) and (b), as applicable, and any other order which relates to functions or areas of responsibility delegated to the Office of Personnel Management, is amended and revised by substituting the words “Office of Personnel Management” for the words “Civil Service Commission” or “United States Civil Service Commission”; by substituting the word “Office” for the word “Commission” wherever the word “Commission” is used as a reference to United States Civil Service Commission; and by substituting the words “Director, Office of Personnel Management” for the words “Chairman, Civil Service Commission”, “Chairman, United States Civil Service Commission”, “Commissioners” or “Commissioner” wherever they appear.
+2–101. <i>Office of Personnel Management</i>. Each of the Executive orders, as amended, listed in this Section under subsections (a) and (b), as applicable, and any other order which relates to functions or areas of responsibility delegated to the Office of Personnel Management, is amended and revised by substituting the words “Office of Personnel Management” for the words “Civil Service Commission” or “United States Civil Service Commission”; by substituting the word “Office” for the word “Commission” wherever the word “Commission” is used as a reference to United States Civil Service Commission; and by substituting the words “Director, Office of Personnel Management” for the words “Chairman, Civil Service Commission”, “Chairman, United States Civil Service Commission”, “Commissioners” or “Commissioner” wherever they appear.
 
 (a) Executive orders relating to the Civil Service Rules, ethics and other matters of Presidential interest.
 
@@ -638,11 +640,11 @@ Redesignations
 
 12105
 
-2–102. <i>Merit Systems Protection Board.</i> The provisions of Section 3(e) of Executive Order No. 10774 \[set out as a note under section 2025 of Title 22, Foreign Relations and Intercourse\], and Executive Order No. 11787 \[formerly set out as a note under section 7701 of this title\], are hereby amended and revised by substituting the words “Merit Systems Protection Board” for the words “Civil Service Commission” or “Commission” when used as a reference to the Civil Service Commission wherever such words appear.
+2–102. <i>Merit Systems Protection Board</i>. The provisions of Section 3(e) of Executive Order No. 10774 \[set out as a note under section 2025 of Title 22, Foreign Relations and Intercourse\], and Executive Order No. 11787 \[formerly set out as a note under section 7701 of this title\], are hereby amended and revised by substituting the words “Merit Systems Protection Board” for the words “Civil Service Commission” or “Commission” when used as a reference to the Civil Service Commission wherever such words appear.
 
-2–103. <i>Amending the Civil Service Rules.</i> Section 101 of Executive Order No. 10577, as amended \[set out as a note under section 3301 of this title\], is further amended by substituting for Rule II—Appointment Through the Competitive System, a new Sec. 2.4 as follows:
+2–103. <i>Amending the Civil Service Rules</i>. Section 101 of Executive Order No. 10577, as amended \[set out as a note under section 3301 of this title\], is further amended by substituting for Rule II—Appointment Through the Competitive System, a new Sec. 2.4 as follows:
 
-“Sec. 2.4. <i>Probationary period.</i> Persons selected from registers of eligibles for career or career-conditional appointment and employees promoted, transferred, or otherwise assigned, for the first time, to supervisory or managerial positions shall be required to serve a probationary period under terms and conditions prescribed by the Office.”;
+“Sec. 2.4. <i>Probationary period</i>. Persons selected from registers of eligibles for career or career-conditional appointment and employees promoted, transferred, or otherwise assigned, for the first time, to supervisory or managerial positions shall be required to serve a probationary period under terms and conditions prescribed by the Office.”;
 
 by deleting the last sentence under Rule IV—Prohibited Practices, Sec. 4.3; and
 
@@ -650,9 +652,9 @@ by substituting for Rule V—Regulations, Investigations, and Enforcement, a new
 
 “RULE V—REGULATIONS, INVESTIGATIONS, EVALUATION, AND ENFORCEMENT”
 
-“Sec. 5.1. <i>Civil Service Regulations.</i> The Director, Office of Personnel Management, shall promulgate and enforce regulations necessary to carry out the provisions of the Civil Service Act and the Veterans’ Preference Act, as reenacted in Title 5, United States Code, the Civil Service Rules, and all other statutes and Executive orders imposing responsibilities on the Office. The Director is authorized, whenever there are practical difficulties and unnecessary hardships in complying with the strict letter of the regulation, to grant a variation from the strict letter of the regulation if such a variation is within the spirit of the regulations, and the efficiency of the Government and the integrity of the competitive service are protected and promoted. Whenever a variation is granted the Director shall note the official record to show: (1) the particular practical difficulty or hardship involved, (2) what is permitted in place of what is required by regulation, (3) the circumstances which protect or promote the efficiency of the Government and the integrity of the competitive service, and (4) a statement limiting the application of the variation to the continuation of the conditions which gave rise to it. Like variations shall be granted whenever like conditions exist. All such decisions and information concerning variations noted in the official record shall be published promptly in a Federal Personnel Manual, Letter or Bulletin and in the Director's next annual report.
+“Sec. 5.1. <i>Civil Service Regulations</i>. The Director, Office of Personnel Management, shall promulgate and enforce regulations necessary to carry out the provisions of the Civil Service Act and the Veterans’ Preference Act, as reenacted in Title 5, United States Code, the Civil Service Rules, and all other statutes and Executive orders imposing responsibilities on the Office. The Director is authorized, whenever there are practical difficulties and unnecessary hardships in complying with the strict letter of the regulation, to grant a variation from the strict letter of the regulation if such a variation is within the spirit of the regulations, and the efficiency of the Government and the integrity of the competitive service are protected and promoted. Whenever a variation is granted the Director shall note the official record to show: (1) the particular practical difficulty or hardship involved, (2) what is permitted in place of what is required by regulation, (3) the circumstances which protect or promote the efficiency of the Government and the integrity of the competitive service, and (4) a statement limiting the application of the variation to the continuation of the conditions which gave rise to it. Like variations shall be granted whenever like conditions exist. All such decisions and information concerning variations noted in the official record shall be published promptly in a Federal Personnel Manual, Letter or Bulletin and in the Director's next annual report.
 
-“Sec. 5.2. <i>Investigation and Evaluations.</i> The Director may secure effective implementation of the civil service laws, rules, and regulations, and all Executive orders imposing responsibilities on the Office by:
+“Sec. 5.2. <i>Investigation and Evaluations</i>. The Director may secure effective implementation of the civil service laws, rules, and regulations, and all Executive orders imposing responsibilities on the Office by:
 
 (a) Investigating the qualifications and suitability of applicants for positions in the competitive service. The Director may require appointments to be made subject to investigation to enable the Director to determine, after appointment, that the requirements of law or the civil service rules and regulations have been met.
 
@@ -666,7 +668,7 @@ by substituting for Rule V—Regulations, Investigations, and Enforcement, a new
 
 (a) The Director is authorized to ensure enforcement of the civil service laws, rules, and regulations, and all applicable Executive orders, by:
 
-(1) Instructing an agency to separate or take other action against an employee serving an appointment subject to investigation when the Director finds that the employee is disqualified for Federal employment. Where the employee or the agency appeals the Director's finding that a separation or other action is necessary, the Director may instruct the agency as to whether or not the employee should remain on duty and continue to receive pay pending adjudication of the appeal: <i>Provided</i>, That when an agency separates or takes other action against an employee pursuant to the Director's instructions, and the Director, on the basis of new evidence, subsequently reverses the initial decision as to the employee's qualifications and suitability,the agency shall, upon request of the Director, restore the employee to duty or otherwise reverse any action taken.
+(1) Instructing an agency to separate or take other action against an employee serving an appointment subject to investigation when the Director finds that the employee is disqualified for Federal employment. Where the employee or the agency appeals the Director's finding that a separation or other action is necessary, the Director may instruct the agency as to whether or not the employee should remain on duty and continue to receive pay pending adjudication of the appeal: <i>Provided</i>, That when an agency separates or takes other action against an employee pursuant to the Director's instructions, and the Director, on the basis of new evidence, subsequently reverses the initial decision as to the employee's qualifications and suitability, the agency shall, upon request of the Director, restore the employee to duty or otherwise reverse any action taken.
 
 (2) Reporting the results of evaluation or investigations to the head of the agency concerned with instructions for any corrective action necessary, including cancellation of personnel actions where appropriate. The Director's findings resulting from evaluations or investigations are binding unless changed as a result of agency evidence and arguments against them. If, during the course of any evaluation or investigation under this Section, the Director finds evidence of matters which come within the investigative and prosecutional jurisdiction of the Special Counsel of the Merit Systems Protection Board, the Director shall refer this evidence to the Special Counsel for appropriate disposition.
 
@@ -674,23 +676,23 @@ by substituting for Rule V—Regulations, Investigations, and Enforcement, a new
 
 (c) If the agency head fails to comply with the specific instructions of the Director as to separation or other corrective action with regard to an employee, including cancellation of a personnel action, the Director may certify to the Comptroller General of the United States the agency's failure to act together with such additional information as the Comptroller General may require, and shall furnish a copy of such certification to the head of the agency concerned. The individual with respect to whom such separation or other corrective action was instructed shall be entitled thereafter to no pay or only to such pay as appropriate to effectuate the Director's instructions.
 
-“Sec. 5.4. <i>Information and Testimony.</i> When required by the Office, the Merit Systems Protection Board, or the Special Counsel of the Merit Systems Protection Board, or by authorized representatives of these bodies, agencies shall make available to them, or to their authorized representatives, employees to testify in regard to matters inquired of under the civil service laws, rules, and regulations, and records pertinent to these matters. All such employees, and all applicants or eligibles for positions covered by these rules, shall give to the Office, the Merit Systems Protection Board, the Special Counsel, or to their authorized representatives, all information, testimony, documents, and material in regard to the above matters, the disclosure of which is not otherwise prohibited by law or regulation. These employees, applicants, and eligibles shall sign testimony given under oath or affirmation before an officer authorized by law to administer oaths. Employees are performing official duty when testifying or providing evidence pursuant to this section.”.
+“Sec. 5.4. <i>Information and Testimony</i>. When required by the Office, the Merit Systems Protection Board, or the Special Counsel of the Merit Systems Protection Board, or by authorized representatives of these bodies, agencies shall make available to them, or to their authorized representatives, employees to testify in regard to matters inquired of under the civil service laws, rules, and regulations, and records pertinent to these matters. All such employees, and all applicants or eligibles for positions covered by these rules, shall give to the Office, the Merit Systems Protection Board, the Special Counsel, or to their authorized representatives, all information, testimony, documents, and material in regard to the above matters, the disclosure of which is not otherwise prohibited by law or regulation. These employees, applicants, and eligibles shall sign testimony given under oath or affirmation before an officer authorized by law to administer oaths. Employees are performing official duty when testifying or providing evidence pursuant to this section.”.
 
-2–104. <i>Effectiveness of Rule Changes.</i> The amendments to rules shall be effective on January 1, 1979, to the extent provided by law on that date.
+2–104. <i>Effectiveness of Rule Changes</i>. The amendments to rules shall be effective on January 1, 1979, to the extent provided by law on that date.
 
 #### 2–2.
 
 Revocation of Executive Orders and Delegation of Functions
 
-2–201. <i>Revocation of Executive Orders and Delegation of Functions to the Director.</i> Executive Orders numbered 10540 and 10561 \[set out as notes under sections 6301 and 1302, respectively, of this title\] are revoked and the authority vested in the President by Section 202(c)(1)(C) of the Annual Sick Leave Act of 1951, as amended \[section 6301(2)(XI) of this title\], and the authority of the President, pursuant to the Civil Service Act of January 16, 1883, to designate official personnel folders in government agencies as records of the Office of Personnel Management and to prescribe regulations relating to the establishment, maintenance and transfers of official personnel folders, are delegated to the Director of the Office of Personnel Management. Any rules, regulations, directives, instructions or other actions taken pursuant to the authority delegated to the Director of the Office of Personnel Management shall remain in effect until amended, modified, or revoked pursuant to the delegations made by this Order.
+2–201. <i>Revocation of Executive Orders and Delegation of Functions to the Director</i>. Executive Orders numbered 10540 and 10561 \[set out as notes under sections 6301 and 1302, respectively, of this title\] are revoked and the authority vested in the President by Section 202(c)(1)(C) of the Annual Sick Leave Act of 1951, as amended \[section 6301(2)(XI) of this title\], and the authority of the President, pursuant to the Civil Service Act of January 16, 1883, to designate official personnel folders in government agencies as records of the Office of Personnel Management and to prescribe regulations relating to the establishment, maintenance and transfers of official personnel folders, are delegated to the Director of the Office of Personnel Management. Any rules, regulations, directives, instructions or other actions taken pursuant to the authority delegated to the Director of the Office of Personnel Management shall remain in effect until amended, modified, or revoked pursuant to the delegations made by this Order.
 
-2–202. <i>Savings Provision.</i> All personnel actions and decisions affecting employees or applicants for employment made on or before January 11, 1979 shall continue to be governed by the applicable Executive order, and the rules and regulations implementing that Order, to the same extent as if that Executive order had not been revoked effective January 11, 1979 unless amended, modified or revoked pursuant to this Order.
+2–202. <i>Savings Provision</i>. All personnel actions and decisions affecting employees or applicants for employment made on or before January 11, 1979 shall continue to be governed by the applicable Executive order, and the rules and regulations implementing that Order, to the same extent as if that Executive order had not been revoked effective January 11, 1979 unless amended, modified or revoked pursuant to this Order.
 
 #### 2–3.
 
 Labor Management Relations in the Federal Service
 
-2–301. <i>Labor Management Relations.</i> Executive Order No. 11491 of October 29, 1969, as amended by Executive Orders numbered 11616, 11636, 11838, 11901, and 12027 \[set out as a note under section 7101 of this title\], relating to labor-management relations in the Federal service, is further amended as follows:
+2–301. <i>Labor Management Relations</i>. Executive Order No. 11491 of October 29, 1969, as amended by Executive Orders numbered 11616, 11636, 11838, 11901, and 12027 \[set out as a note under section 7101 of this title\], relating to labor-management relations in the Federal service, is further amended as follows:
 
 1\. Subsections (g), (h) and (i) of Section 2 are amended and a new subsection (j) is added to read as follows:
 
@@ -844,7 +846,7 @@ General Provisions
 
 (b) The Director of the Office of Management and Budget shall make such determinations, issue such Orders and take all actions necessary or appropriate to effectuate the transfers or reassignments provided by this Order, including the transfer of funds, records, property and personnel.
 
-2–404. <i>Effective Date.</i> Except as otherwise specifically provided in this Order, this Order shall be effective on January 1, 1979.
+2–404. <i>Effective Date</i>. Except as otherwise specifically provided in this Order, this Order shall be effective on January 1, 1979.
 
 Jimmy Carter.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

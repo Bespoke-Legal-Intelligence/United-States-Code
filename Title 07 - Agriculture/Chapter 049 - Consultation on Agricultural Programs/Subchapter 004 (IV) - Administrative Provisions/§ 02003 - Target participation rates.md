@@ -52,9 +52,15 @@ The Secretary shall prepare and submit, to the Committee on Agriculture of the H
 
 &emsp;As used in this section, the term “socially disadvantaged farmer or rancher” means a farmer or rancher who is a member of a socially disadvantaged group.
 
-(Pub. L. 87–128, title III, §355, as added Pub. L. 100–233, title VI, §617, Jan. 6, 1988, 101 Stat. 1682; amended Pub. L. 101–624, title XVIII, §1817, title XXV, §2501(f), Nov. 28, 1990, 104 Stat. 3829, 4065; Pub. L. 102–554, §21(a), (b), Oct. 28, 1992, 106 Stat. 4161.)
+#### (f) Implementation consistent with Supreme Court holding
+
+Not later than 180 days after April 4, 1996, the Secretary shall ensure that the implementation of this section is consistent with the holding of the Supreme Court in Adarand Constructors, Inc. v. Federico Pena, Secretary of Transportation, 115 S. Ct. 2097 (1995).
+
+(Pub. L. 87–128, title III, §355, as added Pub. L. 100–233, title VI, §617, Jan. 6, 1988, 101 Stat. 1682; amended Pub. L. 101–624, title XVIII, §1817, title XXV, §2501(f), Nov. 28, 1990, 104 Stat. 3829, 4065; Pub. L. 102–554, §21(a), (b), Oct. 28, 1992, 106 Stat. 4161; Pub. L. 104–127, title VI, §647, Apr. 4, 1996, 110 Stat. 1104.)
 
 #### Amendments
+
+1996—Subsec. (f). Pub. L. 104–127 added subsec. (f).
 
 1992—Subsec. (a)(2). Pub. L. 102–554, §21(a)(1), substituted “Except as provided in paragraph (3), in establishing” for “In establishing”.
 
@@ -64,11 +70,11 @@ Subsec. (e)(1). Pub. L. 102–554, §21(b), substituted “, ethnic, or gener�
 
 1990—Subsec. (b)(3). Pub. L. 101–624, §1817, added par. (3).
 
-Subsecs. (c), (d). Pub. L. 101–624, §2501(f)(1)–(3), added subsec. (c), redesignated former subsec. (c) as (d), and struck out former subsec. (d) which read as follows: “As used in this section, the term ‘socially disadvantaged group’ means a group whose members have been subjected to racial or ethnic prejudice because of theiridentity as members of a group without regard to their individual qualities.”
+Subsecs. (c), (d). Pub. L. 101–624, §2501(f)(1)–(3), added subsec. (c), redesignated former subsec. (c) as (d), and struck out former subsec. (d) which read as follows: “As used in this section, the term ‘socially disadvantaged group’ means a group whose members have been subjected to racial or ethnic prejudice because of their identity as members of a group without regard to their individual qualities.”
 
 Subsec. (e). Pub. L. 101–624, §2501(f)(4), added subsec. (e).
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1994, 2279 of this title; title 16 section 590h.
+This section is referred to in section 2279 of this title; title 16 section 590h.
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Within 2 years after the transition date, the Corporation shall prepare a strategic plan fortransferring ownership of the Corporation to private investors. The Corporation shall revise the plan as needed.
+Within 2 years after the transition date, the Corporation shall prepare a strategic plan for transferring ownership of the Corporation to private investors. The Corporation shall revise the plan as needed.
 
 #### (b) Consideration of alternative means of transferring ownership
 
@@ -23,6 +23,10 @@ The plan shall evaluate the relative merits of the alternatives considered and t
 The Corporation shall transmit copies of the strategic plan for privatization to the President and Congress upon completion.
 
 (Aug. 1, 1946, ch. 724, title II, §1501, as added Oct. 24, 1992, Pub. L. 102–486, title IX, §901, 106 Stat. 2937.)
+
+#### Repeal of Section
+
+<i>Section repealed effective as of date on which 100 percent of ownership of United States Enrichment Corporation has been transferred to private investors, see section 3116(a)(1) of Pub. L. 104–134, set out as a note under section 2297 of this title.</i>
 
 #### Section Referred to in Other Sections
 

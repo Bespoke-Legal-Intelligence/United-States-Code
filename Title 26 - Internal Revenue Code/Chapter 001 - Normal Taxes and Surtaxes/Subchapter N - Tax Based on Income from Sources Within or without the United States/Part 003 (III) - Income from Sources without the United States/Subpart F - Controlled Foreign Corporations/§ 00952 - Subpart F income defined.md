@@ -94,7 +94,7 @@ In the case of a controlled foreign corporation, subpart F income does not inclu
 
 #### (II) Special rules for affiliated groups
 
-&emsp;&emsp;&emsp;&emsp;In the case of an affiliated group of corporations (within the meaning of section 1504 but without regard to section 1504(b)(3) and by substituting “more than 50 percent” for “at least 80 percent” each place it appears), no election may be made under subclause (I) for any controlled foreign corporation unless such election is made for all other controlledforeign corporations who are members of such group and who were created or organized under the laws of the same country as such controlled foreign corporation. For purposes of clause (v), in determining whether any controlled corporation described in the preceding sentence is a qualified insurance company, all such corporations shall be treated as 1 corporation.
+&emsp;&emsp;&emsp;&emsp;In the case of an affiliated group of corporations (within the meaning of section 1504 but without regard to section 1504(b)(3) and by substituting “more than 50 percent” for “at least 80 percent” each place it appears), no election may be made under subclause (I) for any controlled foreign corporation unless such election is made for all other controlled foreign corporations who are members of such group and who were created or organized under the laws of the same country as such controlled foreign corporation. For purposes of clause (v), in determining whether any controlled corporation described in the preceding sentence is a qualified insurance company, all such corporations shall be treated as 1 corporation.
 
 #### (C) Certain deficits of member of the same chain of corporations may be taken into account
 
@@ -126,7 +126,7 @@ In the case of a controlled foreign corporation, subpart F income does not inclu
 
 The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of subsection (a)(5), including regulations which treat income paid through 1 or more entities as derived from a foreign country to which section 901(j) applies if such income was, without regard to such entities, derived from such country.
 
-(Added Pub. L. 87–834, §12(a), Oct. 16, 1962, 76 Stat. 1008; amended Pub. L. 89–809, title I, §104(j), Nov. 13, 1966, 80 Stat. 1562; Pub. L. 94–455, title X, §§1062, 1065(a)(1), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1650, 1653, 1834; Pub. L. 97–248, title II, §288(b)(1), Sept. 3, 1982, 96 Stat. 571; Pub. L. 99–509, title VIII, §8041(b), Oct. 21, 1986, 100 Stat. 1963; Pub. L. 99–514, title XII, §1221(b)(3)(A), (f), title XVIII, §1876(c)(1), Oct. 22, 1986, 100 Stat. 2552, 2554, 2898; Pub. L. 100–647, title I, §1012(i)(16), (22)–(25)(A), title VI, §6131(a), Nov. 10, 1988, 102 Stat. 3510–3512, 3720.)
+(Added Pub. L. 87–834, §12(a), Oct. 16, 1962, 76 Stat. 1008; amended Pub. L. 89–809, title I,§104(j), Nov. 13, 1966, 80 Stat. 1562; Pub. L. 94–455, title X, §§1062, 1065(a)(1), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1650, 1653, 1834; Pub. L. 97–248, title II, §288(b)(1), Sept. 3, 1982, 96 Stat. 571; Pub. L. 99–509, title VIII, §8041(b), Oct. 21, 1986, 100 Stat. 1963; Pub. L. 99–514, title XII, §1221(b)(3)(A), (f), title XVIII, §1876(c)(1), Oct. 22, 1986, 100 Stat. 2552, 2554, 2898; Pub. L. 100–647, title I, §1012(i)(16), (22)–(25)(A), title VI, §6131(a), Nov. 10, 1988, 102 Stat. 3510–3512, 3720.)
 
 #### References in Text
 
@@ -150,7 +150,7 @@ Subsec. (a)(1). Pub. L. 99–514, §1221(b)(3)(A), amended par. (1) generally. P
 
 Subsec. (b). Pub. L. 99–514, §1876(c)(1), inserted last sentence.
 
-Subsec. (c). Pub. L. 99–514, §1221(f), added subsec. (c) and struck out former subsec. (c) which read as follows:“For purposes of subsection (a), the subpart F income of any controlled foreign corporation for any taxable year shall not exceed the earnings and profits of such corporation for such year reduced by the amount (if any) by which—
+Subsec. (c). Pub. L. 99–514, §1221(f), added subsec. (c) and struck out former subsec. (c) which read as follows: “For purposes of subsection (a), the subpart F income of any controlled foreign corporation for any taxable year shall not exceed the earnings and profits of such corporation for such year reduced by the amount (if any) by which—
 
 &emsp;“(1) an amount equal to—
 

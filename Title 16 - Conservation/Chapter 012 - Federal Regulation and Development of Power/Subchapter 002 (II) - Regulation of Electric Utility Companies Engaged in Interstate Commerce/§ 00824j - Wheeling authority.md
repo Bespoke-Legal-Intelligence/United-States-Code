@@ -26,7 +26,7 @@ No order may be issued under this section or section 824i of this title if, afte
 
 &emsp;(B) any transmission capacity of the utility providing transmission services under such order which was, at the time such order was issued, in excess of the capacity necessary to serve its own customers is no longer in excess of the capacity necessary for such purposes, or
 
-&emsp;(C) the ordered transmission services require enlargement of transmission capacity and the transmitting utility subject to the order has failed, after making a good faith effort, to obtain the necessary approvals or property rights under applicable Federal, State, and local laws.
+&emsp;(C) the ordered transmission services require enlargement of transmission capacity and thetransmitting utility subject to the order has failed, after making a good faith effort, to obtain the necessary approvals or property rights under applicable Federal, State, and local laws.
 
 > No order shall be issued under this subsection pursuant to a finding under subparagraph (A) unless the Commission finds that such order is in the public interest.
 

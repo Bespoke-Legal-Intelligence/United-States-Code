@@ -1,7 +1,7 @@
 {
  "built_by": "uscode_git_v0.1.12",
  "eid": "USCODE-title35",
- "package": "USCODE-1995-title35",
+ "package": "USCODE-1996-title35",
  "pieces": [
   {
    "id": "35_",
@@ -14,7 +14,7 @@
     ],
     [
      "L",
-     394,
+     398,
      "[Page 2]",
      true
     ]
@@ -941,7 +941,7 @@
      68,
      [
       [
-       106,
+       215,
        "[Page 37]"
       ]
      ]
@@ -961,7 +961,7 @@
      2,
      [
       [
-       1208,
+       1073,
        "[Page 38]"
       ]
      ]
@@ -986,57 +986,53 @@
    "id": "35_156",
    "marks": [
     [
-     "L",
-     24,
-     "[Page 39]",
-     true
+     "I",
+     22,
+     [
+      [
+       142,
+       "[Page 39]"
+      ]
+     ]
     ],
     [
      "I",
      84,
      [
       [
-       381,
+       146,
        "[Page 40]"
       ]
      ]
     ],
     [
-     "I",
-     116,
-     [
-      [
-       95,
-       "[Page 41]"
-      ]
-     ]
+     "L",
+     114,
+     "[Page 41]",
+     true
     ],
     [
      "I",
      176,
      [
       [
-       223,
+       93,
        "[Page 42]"
       ]
      ]
     ],
     [
-     "I",
-     226,
-     [
-      [
-       117,
-       "[Page 43]"
-      ]
-     ]
+     "L",
+     224,
+     "[Page 43]",
+     true
     ],
     [
      "I",
      288,
      [
       [
-       318,
+       113,
        "[Page 44]"
       ]
      ]
@@ -1496,14 +1492,10 @@
    "id": "35_251",
    "marks": [
     [
-     "I",
-     8,
-     [
-      [
-       92,
-       "[Page 58]"
-      ]
-     ]
+     "L",
+     10,
+     "[Page 58]",
+     true
     ]
    ],
    "path": "Part 003 (III) - Patents and Protection of Patent Rights/Chapter 025 - Amendment and Correction of Patents/§ 00251 - Reissue of defective patents.md",
@@ -1525,14 +1517,10 @@
    "id": "35_253",
    "marks": [
     [
-     "I",
-     12,
-     [
-      [
-       98,
-       "[Page 59]"
-      ]
-     ]
+     "L",
+     14,
+     "[Page 59]",
+     true
     ]
    ],
    "path": "Part 003 (III) - Patents and Protection of Patent Rights/Chapter 025 - Amendment and Correction of Patents/§ 00253 - Disclaimer.md",
@@ -1567,7 +1555,7 @@
      16,
      [
       [
-       644,
+       752,
        "[Page 60]"
       ]
      ]
@@ -1730,7 +1718,7 @@
    "marks": [
     [
      "L",
-     14,
+     12,
      "[Page 67]",
      true
     ]
@@ -1746,7 +1734,7 @@
    "marks": [
     [
      "L",
-     24,
+     20,
      "[Page 68]",
      true
     ]
@@ -1789,25 +1777,27 @@
    "marks": [
     [
      "L",
-     22,
+     18,
      "[Page 69]",
      true
     ],
     [
-     "I",
-     68,
-     [
-      [
-       108,
-       "[Page 70]"
-      ]
-     ]
+     "L",
+     60,
+     "[Page 70]",
+     true
+    ],
+    [
+     "L",
+     122,
+     "[Page 71]",
+     true
     ]
    ],
    "path": "Part 003 (III) - Patents and Protection of Patent Rights/Chapter 029 - Remedies for Infringement of Patent, and Other Actions/§ 00287 - Limitation on damages and other remedies; marking and notice.md",
    "printed_pages": [
     68,
-    70
+    71
    ]
   },
   {
@@ -1815,8 +1805,8 @@
    "marks": [],
    "path": "Part 003 (III) - Patents and Protection of Patent Rights/Chapter 029 - Remedies for Infringement of Patent, and Other Actions/§ 00288 - Action for infringement of a patent containing an invalid claim.md",
    "printed_pages": [
-    70,
-    70
+    71,
+    71
    ]
   },
   {
@@ -1824,8 +1814,8 @@
    "marks": [],
    "path": "Part 003 (III) - Patents and Protection of Patent Rights/Chapter 029 - Remedies for Infringement of Patent, and Other Actions/§ 00289 - Additional remedy for infringement of design patent.md",
    "printed_pages": [
-    70,
-    70
+    71,
+    71
    ]
   },
   {
@@ -1833,37 +1823,37 @@
    "marks": [],
    "path": "Part 003 (III) - Patents and Protection of Patent Rights/Chapter 029 - Remedies for Infringement of Patent, and Other Actions/§ 00290 - Notice of patent suits.md",
    "printed_pages": [
-    70,
-    70
+    71,
+    71
    ]
   },
   {
    "id": "35_291",
+   "marks": [],
+   "path": "Part 003 (III) - Patents and Protection of Patent Rights/Chapter 029 - Remedies for Infringement of Patent, and Other Actions/§ 00291 - Interfering patents.md",
+   "printed_pages": [
+    71,
+    71
+   ]
+  },
+  {
+   "id": "35_292",
    "marks": [
     [
      "I",
      2,
      [
       [
-       91,
-       "[Page 71]"
+       90,
+       "[Page 72]"
       ]
      ]
     ]
    ],
-   "path": "Part 003 (III) - Patents and Protection of Patent Rights/Chapter 029 - Remedies for Infringement of Patent, and Other Actions/§ 00291 - Interfering patents.md",
-   "printed_pages": [
-    70,
-    71
-   ]
-  },
-  {
-   "id": "35_292",
-   "marks": [],
    "path": "Part 003 (III) - Patents and Protection of Patent Rights/Chapter 029 - Remedies for Infringement of Patent, and Other Actions/§ 00292 - False marking.md",
    "printed_pages": [
     71,
-    71
+    72
    ]
   },
   {
@@ -1871,8 +1861,8 @@
    "marks": [],
    "path": "Part 003 (III) - Patents and Protection of Patent Rights/Chapter 029 - Remedies for Infringement of Patent, and Other Actions/§ 00293 - Nonresident patentee; service and notice.md",
    "printed_pages": [
-    71,
-    71
+    72,
+    72
    ]
   },
   {
@@ -1880,19 +1870,19 @@
    "marks": [
     [
      "I",
-     4,
+     8,
      [
       [
-       139,
-       "[Page 72]"
+       93,
+       "[Page 73]"
       ]
      ]
     ]
    ],
    "path": "Part 003 (III) - Patents and Protection of Patent Rights/Chapter 029 - Remedies for Infringement of Patent, and Other Actions/§ 00294 - Voluntary arbitration.md",
    "printed_pages": [
-    71,
-    72
+    72,
+    73
    ]
   },
   {
@@ -1900,8 +1890,8 @@
    "marks": [],
    "path": "Part 003 (III) - Patents and Protection of Patent Rights/Chapter 029 - Remedies for Infringement of Patent, and Other Actions/§ 00295 - Presumption Product made by patented process.md",
    "printed_pages": [
-    72,
-    72
+    73,
+    73
    ]
   },
   {
@@ -1909,8 +1899,8 @@
    "marks": [],
    "path": "Part 003 (III) - Patents and Protection of Patent Rights/Chapter 029 - Remedies for Infringement of Patent, and Other Actions/§ 00296 - Liability of States, instrumentalities of States, and State officials for infringement of patents.md",
    "printed_pages": [
-    72,
-    72
+    73,
+    73
    ]
   },
   {
@@ -1918,28 +1908,24 @@
    "marks": [],
    "path": "Part 003 (III) - Patents and Protection of Patent Rights/Chapter 030 - Prior Art Citations to Office and Reexamination of Patents/README.md",
    "printed_pages": [
-    72,
-    72
+    73,
+    73
    ]
   },
   {
    "id": "35_301",
    "marks": [
     [
-     "I",
-     2,
-     [
-      [
-       91,
-       "[Page 73]"
-      ]
-     ]
+     "L",
+     14,
+     "[Page 74]",
+     true
     ]
    ],
    "path": "Part 003 (III) - Patents and Protection of Patent Rights/Chapter 030 - Prior Art Citations to Office and Reexamination of Patents/§ 00301 - Citation of prior art.md",
    "printed_pages": [
-    72,
-    73
+    73,
+    74
    ]
   },
   {
@@ -1947,8 +1933,8 @@
    "marks": [],
    "path": "Part 003 (III) - Patents and Protection of Patent Rights/Chapter 030 - Prior Art Citations to Office and Reexamination of Patents/§ 00302 - Request for reexamination.md",
    "printed_pages": [
-    73,
-    73
+    74,
+    74
    ]
   },
   {
@@ -1956,8 +1942,8 @@
    "marks": [],
    "path": "Part 003 (III) - Patents and Protection of Patent Rights/Chapter 030 - Prior Art Citations to Office and Reexamination of Patents/§ 00303 - Determination of issue by Commissioner.md",
    "printed_pages": [
-    73,
-    73
+    74,
+    74
    ]
   },
   {
@@ -1965,23 +1951,16 @@
    "marks": [],
    "path": "Part 003 (III) - Patents and Protection of Patent Rights/Chapter 030 - Prior Art Citations to Office and Reexamination of Patents/§ 00304 - Reexamination order by Commissioner.md",
    "printed_pages": [
-    73,
-    73
+    74,
+    74
    ]
   },
   {
    "id": "35_305",
-   "marks": [
-    [
-     "L",
-     10,
-     "[Page 74]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Part 003 (III) - Patents and Protection of Patent Rights/Chapter 030 - Prior Art Citations to Office and Reexamination of Patents/§ 00305 - Conduct of reexamination proceedings.md",
    "printed_pages": [
-    73,
+    74,
     74
    ]
   },
@@ -1996,11 +1975,22 @@
   },
   {
    "id": "35_307",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       185,
+       "[Page 75]"
+      ]
+     ]
+    ]
+   ],
    "path": "Part 003 (III) - Patents and Protection of Patent Rights/Chapter 030 - Prior Art Citations to Office and Reexamination of Patents/§ 00307 - Certificate of patentability, unpatentability, and claim cancellation.md",
    "printed_pages": [
     74,
-    74
+    75
    ]
   },
   {
@@ -2008,8 +1998,8 @@
    "marks": [],
    "path": "Part 004 (IV) - Patent Cooperation Treaty/README.md",
    "printed_pages": [
-    74,
-    74
+    75,
+    75
    ]
   },
   {
@@ -2017,24 +2007,28 @@
    "marks": [],
    "path": "Part 004 (IV) - Patent Cooperation Treaty/Chapter 035 - Definitions/README.md",
    "printed_pages": [
-    74,
-    74
+    75,
+    75
    ]
   },
   {
    "id": "35_351",
    "marks": [
     [
-     "L",
-     34,
-     "[Page 75]",
-     true
+     "I",
+     42,
+     [
+      [
+       109,
+       "[Page 76]"
+      ]
+     ]
     ]
    ],
    "path": "Part 004 (IV) - Patent Cooperation Treaty/Chapter 035 - Definitions/§ 00351 - Definitions.md",
    "printed_pages": [
-    74,
-    75
+    75,
+    76
    ]
   },
   {
@@ -2042,37 +2036,33 @@
    "marks": [],
    "path": "Part 004 (IV) - Patent Cooperation Treaty/Chapter 036 - International Stage/README.md",
    "printed_pages": [
-    75,
-    75
+    76,
+    76
    ]
   },
   {
    "id": "35_361",
-   "marks": [
-    [
-     "I",
-     32,
-     [
-      [
-       103,
-       "[Page 76]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Part 004 (IV) - Patent Cooperation Treaty/Chapter 036 - International Stage/§ 00361 - Receiving Office.md",
    "printed_pages": [
-    75,
+    76,
     76
    ]
   },
   {
    "id": "35_362",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     8,
+     "[Page 77]",
+     true
+    ]
+   ],
    "path": "Part 004 (IV) - Patent Cooperation Treaty/Chapter 036 - International Stage/§ 00362 - International Searching Authority and International Preliminary Examining Authority.md",
    "printed_pages": [
     76,
-    76
+    77
    ]
   },
   {
@@ -2080,8 +2070,8 @@
    "marks": [],
    "path": "Part 004 (IV) - Patent Cooperation Treaty/Chapter 036 - International Stage/§ 00363 - International application designating the United States Effect.md",
    "printed_pages": [
-    76,
-    76
+    77,
+    77
    ]
   },
   {
@@ -2089,8 +2079,8 @@
    "marks": [],
    "path": "Part 004 (IV) - Patent Cooperation Treaty/Chapter 036 - International Stage/§ 00364 - International stage Procedure.md",
    "printed_pages": [
-    76,
-    76
+    77,
+    77
    ]
   },
   {
@@ -2098,19 +2088,19 @@
    "marks": [
     [
      "I",
-     6,
+     20,
      [
       [
-       187,
-       "[Page 77]"
+       104,
+       "[Page 78]"
       ]
      ]
     ]
    ],
    "path": "Part 004 (IV) - Patent Cooperation Treaty/Chapter 036 - International Stage/§ 00365 - Right of priority; benefit of the filing date of a prior application.md",
    "printed_pages": [
-    76,
-    77
+    77,
+    78
    ]
   },
   {
@@ -2118,8 +2108,8 @@
    "marks": [],
    "path": "Part 004 (IV) - Patent Cooperation Treaty/Chapter 036 - International Stage/§ 00366 - Withdrawn international application.md",
    "printed_pages": [
-    77,
-    77
+    78,
+    78
    ]
   },
   {
@@ -2127,37 +2117,37 @@
    "marks": [],
    "path": "Part 004 (IV) - Patent Cooperation Treaty/Chapter 036 - International Stage/§ 00367 - Actions of other authorities Review.md",
    "printed_pages": [
-    77,
-    77
+    78,
+    78
    ]
   },
   {
    "id": "35_368",
-   "marks": [
-    [
-     "I",
-     8,
-     [
-      [
-       98,
-       "[Page 78]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Part 004 (IV) - Patent Cooperation Treaty/Chapter 036 - International Stage/§ 00368 - Secrecy of certain inventions; filing international applications in foreign countries.md",
    "printed_pages": [
-    77,
+    78,
     78
    ]
   },
   {
    "id": "35_-ptIV-ch37",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     9,
+     [
+      [
+       15,
+       "[Page 79]"
+      ]
+     ]
+    ]
+   ],
    "path": "Part 004 (IV) - Patent Cooperation Treaty/Chapter 037 - National Stage/README.md",
    "printed_pages": [
     78,
-    78
+    79
    ]
   },
   {
@@ -2165,15 +2155,15 @@
    "marks": [
     [
      "L",
-     36,
-     "[Page 79]",
+     52,
+     "[Page 80]",
      true
     ]
    ],
    "path": "Part 004 (IV) - Patent Cooperation Treaty/Chapter 037 - National Stage/§ 00371 - National stage Commencement.md",
    "printed_pages": [
-    78,
-    79
+    79,
+    80
    ]
   },
   {
@@ -2181,23 +2171,16 @@
    "marks": [],
    "path": "Part 004 (IV) - Patent Cooperation Treaty/Chapter 037 - National Stage/§ 00372 - National stage Requirements and procedure.md",
    "printed_pages": [
-    79,
-    79
+    80,
+    80
    ]
   },
   {
    "id": "35_373",
-   "marks": [
-    [
-     "L",
-     20,
-     "[Page 80]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Part 004 (IV) - Patent Cooperation Treaty/Chapter 037 - National Stage/§ 00373 - Improper applicant.md",
    "printed_pages": [
-    79,
+    80,
     80
    ]
   },
@@ -2212,11 +2195,18 @@
   },
   {
    "id": "35_375",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     6,
+     "[Page 81]",
+     true
+    ]
+   ],
    "path": "Part 004 (IV) - Patent Cooperation Treaty/Chapter 037 - National Stage/§ 00375 - Patent issued on international application Effect.md",
    "printed_pages": [
     80,
-    80
+    81
    ]
   },
   {
@@ -2224,8 +2214,8 @@
    "marks": [],
    "path": "Part 004 (IV) - Patent Cooperation Treaty/Chapter 037 - National Stage/§ 00376 - Fees.md",
    "printed_pages": [
-    80,
-    80
+    81,
+    81
    ]
   },
   {
@@ -2233,11 +2223,11 @@
    "marks": [],
    "path": "Part 004 (IV) - Patent Cooperation Treaty/Chapter 038 - Transferred/README.md",
    "printed_pages": [
-    80,
-    80
+    81,
+    81
    ]
   }
  ],
- "provenance_line": "<!-- USCODE-1995-title35 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
+ "provenance_line": "<!-- USCODE-1996-title35 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
  "title_folder": "Title 35 - Patents"
 }

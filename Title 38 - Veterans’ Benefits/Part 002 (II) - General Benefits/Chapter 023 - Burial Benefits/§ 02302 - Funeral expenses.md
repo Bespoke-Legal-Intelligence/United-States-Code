@@ -14,7 +14,7 @@
 
 (b) Except as hereafter provided in this subsection, no deduction shall be made from the burial allowance because of the veteran's net assets at the time of the death of such veteran, or because of any contribution from any source toward the burial and funeral expenses (including transportation) unless the amount of expenses incurred is covered by the amount actually paid therefor by the United States, a State, any agency or political subdivision of the United States or of a State, or the employer of the deceased veteran. No claim shall be allowed (1) for more than the difference between the entire amount of the expenses incurred and the amount paid by any or all of the foregoing, or (2) when the burial allowance would revert to the funds of a public or private organization or would discharge such an organization's obligation without payment. The burial allowance or any part thereof shall not be paid in any case where specific provision is otherwise made for payment of expenses of funeral, transportation, and interment under any other Act.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1169, §902; Pub. L. 88–359, July 7, 1964, 78 Stat. 296; Pub. L. 89–360, Mar. 7, 1966, 80 Stat. 29; Pub. L. 95–476, title II, §203(b), Oct. 18, 1978, 92 Stat. 1506; Pub. L. 95–479, title III, §303(a), Oct. 18, 1978, 92 Stat. 1565; Pub. L. 97–35, title XX, §2001(a)(1), Aug. 13, 1981, 95 Stat. 781; Pub. L. 97–306, title IV, §403\[(a)\], Oct. 14, 1982, 96 Stat. 1443; Pub. L. 101–237, title III, §313(b)(1), Dec. 18, 1989, 103 Stat. 2077; renumbered §2302, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1169, §902; Pub. L. 88–359, July 7, 1964, 78 Stat. 296; Pub. L.89–360, Mar. 7, 1966, 80 Stat. 29; Pub. L. 95–476, title II, §203(b), Oct. 18, 1978, 92 Stat. 1506; Pub. L. 95–479, title III, §303(a), Oct. 18, 1978, 92 Stat. 1565; Pub. L. 97–35, title XX, §2001(a)(1), Aug. 13, 1981, 95 Stat. 781; Pub. L. 97–306, title IV, §403\[(a)\], Oct. 14, 1982, 96 Stat. 1443; Pub. L. 101–237, title III, §313(b)(1), Dec. 18, 1989, 103 Stat. 2077; renumbered §2302, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406.)
 
 #### Amendments
 
@@ -28,7 +28,7 @@
 
 1978—Subsec. (a). Pub. L. 95–479 substituted “$300” for “$250”.
 
-Pub. L. 95–476, §203(b)(1), (2), substituted “in the Administrator's discretion” and “as the Administratorprescribes” for “in his discretion” and “as he prescribes”, respectively.
+Pub. L. 95–476, §203(b)(1), (2), substituted “in the Administrator's discretion” and “as the Administrator prescribes” for “in his discretion” and “as he prescribes”, respectively.
 
 Subsec. (b). Pub. L. 95–476, §203(b)(3), substituted “the death of such veteran” for “his death”.
 

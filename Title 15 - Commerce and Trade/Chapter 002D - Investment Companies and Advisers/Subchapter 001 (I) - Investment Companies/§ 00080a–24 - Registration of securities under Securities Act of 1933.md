@@ -10,7 +10,7 @@ In registering under the Securities Act of 1933 \[15 U.S.C. 77a et seq.\], any s
 
 #### (b) Filing of three copies of advertisement, pamphlet, etc. in connection with public offering; time of filing
 
-It shall be unlawful for any of the following companies, or for any underwriter for such acompany, in connection with a public offering of any security of which such company is the issuer, to make use of the mails or any means or instrumentalities of interstate commerce, to transmit any advertisement, pamphlet, circular, form letter, or other sales literature addressed to or intended for distribution to prospective investors unless three copies of the full text thereof have been filed with the Commission or are filed with the Commission within ten days thereafter:
+It shall be unlawful for any of the following companies, or for any underwriter for such a company, in connection with a public offering of any security of which such company is the issuer, to make use of the mails or any means or instrumentalities of interstate commerce, to transmit any advertisement, pamphlet, circular, form letter, or other sales literature addressed to or intended for distribution to prospective investors unless three copies of the full text thereof have been filed with the Commission or are filed with the Commission within ten days thereafter:
 
 &emsp;(1) any registered open-end company;
 
@@ -28,17 +28,35 @@ The exemption provided by paragraph (8) of section 3(a) of the Securities Act of
 
 #### (e) Amendment of registration statements relating to securities issued by face-amount certificate companies, open-end management companies or unit investment trusts
 
-(1) A registration statement under the Securities Act of 1933 \[15 U.S.C. 77a et seq.\] relating to a security issued by a face-amount certificate company or a redeemable security issued by an open-end management company or unit investment trust may be amended after its effective date so as to increase the securities specified therein as proposed to be offered. At the time of filing such amendment there shall be paid to the Commission a fee, calculated in the manner specified in section 6(b) of said Act \[15 U.S.C. 77f(b)\], with respect to the additional securities therein proposed to be offered.
+For the purposes of section 11 of the Securities Act of 1933, as amended \[15 U.S.C. 77k\] the effective date of the latest amendment filed shall be deemed the effective date of the registration statement with respect to securities sold after such amendment shall have become effective. For the purposes of section 13 of the Securities Act of 1933, as amended \[15 U.S.C. 77m\], no such security shall be deemed to have been bona fide offered to the public prior to the effective date of the latest amendment filed pursuant to this subsection. Except to the extent the Commission otherwise provides by rules or regulations as appropriate in the public interest or for the protection of investors, no prospectus relating to a security issued by a face-amount certificatecompany or a redeemable security issued by an open-end management company or unit investment trust which varies for the purposes of subsection (a)(3) of section 10 of the Securities Act of 1933 \[15 U.S.C. 77j(a)(3)\] from the latest prospectus filed as a part of the registration statement shall be deemed to meet the requirements of said section 10 \[15 U.S.C. 77j\] unless filed as part of an amendment to the registration statement under said Act \[15 U.S.C. 77a et seq.\] and such amendment has become effective.
 
-(2) The filing of such an amendment to a registration statement under the Securities Act of 1933 \[15 U.S.C. 77a et seq.\] shall not be deemed to have taken place unless it is accompanied by a United States postal money order or a certified bank check or cash for the amount of the fee required under paragraph (1) of this subsection.
+#### (f) Registration of indefinite amount of securities
 
-(3) For the purposes of section 11 of the Securities Act of 1933, as amended \[15 U.S.C. 77k\] the effective date of the latest amendment filed pursuant to this subsection or otherwise shall be deemed the effective date of the registration statement with respect to securities sold after such amendment shall have become effective. For the purposes of section 13 of the Securities Act of 1933, as amended \[15 U.S.C. 77m\], no such security shall be deemed to have been bona fide offered to the public prior to the effective date of the latest amendment filed pursuant to this subsection. Except to the extent the Commission otherwise provides by rules or regulations as appropriate in the public interest or for the protection of investors, no prospectus relating to a security issued by a face-amount certificate company or a redeemable security issued by an open-end management company or unit investment trust which varies for the purposes of subsection (a)(3) of section 10 of the Securities Act of 1933 \[15 U.S.C. 77j(a)(3)\] from the latest prospectus filed as a part of the registration statement shall be deemed to meet the requirements of said section 10 \[15 U.S.C. 77j\] unless filed as part of an amendment to the registration statement under said Act \[15 U.S.C. 77a et seq.\] and such amendment has become effective.
+#### (1) Registration of securities
 
-#### (f) Effective date of registration statements in cases of securities sold in excess of securities included in effective registration statement
+&emsp;Upon the effective date of its registration statement, as provided by section 8 of the Securities Act of 1933 \[15 U.S.C. 77h\], a face-amount certificate company, open-end management company, or unit investment trust, shall be deemed to have registered an indefinite amount of securities.
 
-In the case of securities issued by a face-amount certificate company or redeemable securities issued by an open-end management company or unit investment trust, which are sold in an amount in excess of the number of securities included in an effective registration statement of any such company, such company may, in accordance with such rules and regulations as the Commission shall adopt as it deems necessary or appropriate in the public interest or for the protection of investors, elect to have the registration of such securities deemed effective as of the time of their sale, upon payment to the Commission, within six months after any such sale, of a registration fee of three times the amount of the fee which would have otherwise been applicable to such securities. Upon any such election and payment, the registration statement of such company shall be considered to have been in effect with respect to such shares. The Commission may also adopt rules and regulations as it deems necessary or appropriate in the public interest or for the protection of investors to permit the registration of an indefinite number of the securities issued by a face-amount certificate company or redeemable securities issued by an open-end management company or unit investment trust.
+#### (2) Payment of registration fees
 
-(Aug. 22, 1940, ch. 686, title I, §24, 54 Stat. 825; Aug. 10, 1954, ch. 667, title IV, §§402, 403, 68 Stat. 689; Dec. 14, 1970, Pub. L. 91–547, §13, 84 Stat. 1423; Dec. 4, 1987, Pub. L. 100–181, title VI, §617, 101 Stat. 1262.)
+&emsp;Not later than 90 days after the end of the fiscal year of a company or trust referred to in paragraph (1), the company or trust, as applicable, shall pay a registration fee to the Commission, calculated in the manner specified in section 6(b) of the Securities Act of 1933 \[15 U.S.C. 77f(b)\], based on the aggregate sales price for which its securities (including, for purposes of this paragraph, all securities issued pursuant to a dividend reinvestment plan) were sold pursuant to a registration of an indefinite amount of securities under this subsection during the previous fiscal year of the company or trust, reduced by—
+
+&emsp;&emsp;(A) the aggregate redemption or repurchase price of the securities of the company or trust during that year; and
+
+&emsp;&emsp;(B) the aggregate redemption or repurchase price of the securities of the company or trust during any prior fiscal year ending not more than 1 year before October 11, 1996, that were not used previously by the company or trust to reduce fees payable under this section.
+
+#### (3) Interest due on late payment
+
+&emsp;A company or trust paying the fee required by this subsection or any portion thereof more than 90 days after the end of the fiscal year of the company or trust shall pay to the Commission interest on unpaid amounts, at the average investment rate for Treasury tax and loan accounts published by the Secretary of the Treasury pursuant to section 3717(a) of title 31. The payment of interest pursuant to this paragraph shall not preclude the Commission from bringing an action to enforce the requirements of paragraph (2).
+
+#### (4) Rulemaking authority
+
+&emsp;The Commission may adopt rules and regulations to implement this subsection.
+
+#### (g) Additional prospectuses
+
+In addition to any prospectus permitted or required by section 10(a) of the Securities Act of 1933 \[15 U.S.C. 77j(a)\], the Commission shall permit, by rules or regulations deemed necessary or appropriate in the public interest or for the protection of investors, the use of a prospectus for purposes of section 5(b)(1) of that Act \[15 U.S.C. 77e(b)(1)\] with respect to securities issued by a registered investment company. Such a prospectus, which may include information the substance of which is not included in the prospectus specified in section 10(a) of the Securities Act of 1933, shall be deemed to be permitted by section 10(b) of that Act \[15 U.S.C. 77j(b)\].
+
+(Aug. 22, 1940, ch. 686, title I, §24, 54 Stat. 825; Aug. 10, 1954, ch. 667, title IV, §§402, 403, 68 Stat. 689; Dec. 14, 1970, Pub. L. 91–547, §13, 84 Stat. 1423; Dec. 4, 1987, Pub. L. 100–181, title VI, §617, 101 Stat. 1262; Oct. 11, 1996, Pub. L. 104–290, title II, §§203(a), (b), 204, 110 Stat. 3427, 3428.)
 
 #### References in Text
 
@@ -47,6 +65,16 @@ The Securities Act of 1933, referred to in subsecs. (a), (c), and (e), is act Ma
 For the effective date of this subchapter, referred to in subsec. (c), see section 80a–52 of this title.
 
 #### Amendments
+
+1996—Subsec. (e). Pub. L. 104–290, §203(a), substituted “For” for “(3) For”, struck out “pursuant to this subsection or otherwise” before “shall be deemed the effective date of the registration statement”, and struck out pars. (1) and (2) which read as follows:
+
+“(1) A registration statement under the Securities Act of 1933 relating to a security issued by a face-amount certificate company or a redeemable security issued by an open-end management company or unit investment trust may be amended after its effective date so as to increase the securities specified therein as proposed to be offered. At the time of filing such amendment there shall be paid to the Commission a fee, calculated in the manner specified in section 6(b) of said Act, with respect to the additional securities therein proposed to be offered.
+
+“(2) The filing of such an amendment to a registration statement under the Securities Act of 1933 shall not be deemed to have taken place unless it is accompanied by a United States postal money order or a certified bank check or cash for the amount of the fee required under paragraph (1) of this subsection.”
+
+Subsec. (f). Pub. L. 104–290, §203(b), inserted heading and amended text generally. Prior to amendment, text read as follows: “In the case of securities issued by a face-amount certificate company or redeemable securities issued by an open-end management company or unit investment trust, which are sold in an amount in excess of the number of securities included in an effective registration statement of any such company, such company may, in accordance with such rules and regulations as the Commission shall adopt as it deems necessary or appropriate in the public interest or for the protection of investors, elect to have the registration of such securities deemed effective as of the time of their sale, upon payment to the Commission, within six months after any such sale, of a registration fee of three times the amount of the fee which would have otherwise been applicable to such securities. Upon any such election and payment, the registration statement of such company shall be considered to have been in effect with respect to such shares. The Commission may also adopt rules and regulations as it deems necessary or appropriate in the public interest or for the protection of investors to permit the registration of an indefinite number of the securities issued by a face-amount certificate company or redeemable securities issued by an open-end management company or unit investment trust.”
+
+Subsec. (g). Pub. L. 104–290, §204, added subsec. (g).
 
 1987—Subsec. (d). Pub. L. 100–181 struck out “, except a security sold or disposed of by the issuer or bona fide offered to the public prior to the effective date of this subchapter and with respect to a security so sold, disposed of, or offered, shall not apply to any new offering thereof on or after the effective date of this subchapter” at end of second sentence.
 
@@ -57,6 +85,14 @@ Subsec. (f). Pub. L. 91–547, §13(b), added subsec. (f).
 1954—Subsec. (d). Act Aug. 10, 1954, §402, inserted provision making dealer's exemption contained in third clause of section 77d(1) of this title inapplicable to transactions in the securities of investment companies that are offered to the public on a continuous basis, subject to certain exceptions.
 
 Subsec. (e). Act Aug. 10, 1954, §403, added subsec. (e).
+
+#### Effective Date of 1996 Amendment
+
+Section 203(c) of Pub. L. 104–290 provided that: “The amendments made by this section \[amending this section\] shall become effective on the earlier of—
+
+&emsp;“(1) 1 year after the date of enactment of this Act \[Oct. 11, 1996\]; or
+
+&emsp;“(2) the effective date of final rules or regulations issued in accordance with section 24(f) of the Investment Company Act of 1940 \[subsec. (f) of this section\], as amended by this section.”
 
 #### Effective Date of 1970 Amendment
 

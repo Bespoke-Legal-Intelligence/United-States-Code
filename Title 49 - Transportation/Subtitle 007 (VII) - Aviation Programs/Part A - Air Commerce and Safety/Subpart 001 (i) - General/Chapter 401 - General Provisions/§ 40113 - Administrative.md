@@ -40,7 +40,9 @@ Reporting.—Not later than December 31, 1995, and annually thereafter, the Admi
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -58,7 +60,7 @@ Aug. 23, 1958, Pub. L. 85–726, §§204(a), 313(a), 72 Stat. 743, 752.
 
 &nbsp;
 
-49 App.:1551(b) (1)(E).
+49 App.:1551(b)(1)(E).
 
 Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1601(b)(1)(E); added Oct. 4, 1984, Pub. L. 98–443, §3(e), 98 Stat. 1704.
 
@@ -104,9 +106,15 @@ In subsection (d), the text of 49 App.:1354(e) (last sentence) is omitted becaus
 
 1994—Subsec. (e). Pub. L. 103–305 added subsec. (e).
 
+#### Administrative Services Franchise Fund
+
+Pub. L. 104–205, title I, Sept. 30, 1996, 110 Stat. 2957, provided in part that: “There is hereby established in the Treasury a fund, to be available without fiscal year limitation, for the costs of capitalizing and operating such administrative services as the FAA Administrator determines may be performed more advantageously as centralized services, including accounting, international training, payroll, travel, duplicating, multimedia and information technology services: <i>Provided</i>, That any inventories, equipment, and other assets pertaining to the services to be provided by such fund, either on hand or on order, less the related liabilities or unpaid obligations, and any appropriations made prior to the current year for the purpose of providing capital shall be used to capitalize such fund: <i>Provided further</i>,That such fund shall be paid in advance from funds available to the FAA and other Federal agencies for which such centralized services are performed, at rates which will return in full all expenses of operation, including accrued leave, depreciation of fund plant and equipment, amortization of Automated Data Processing (ADP) software and systems (either required or donated), and an amount necessary to maintain a reasonable operating reserve, as determined by the FAA Administrator: <i>Provided further</i>, That such fund shall provide services on a competitive basis: <i>Provided further</i>, That an amount not to exceed four percent of the total annual income to such fund may be retained in the fund for fiscal year 1997 and each year thereafter, to remain available until expended, to be used for the acquisition of capital equipment and for the improvement and implementation of FAA financial management, ADP, and support systems: <i>Provided further</i>, That no later than thirty days after the end of each fiscal year, amounts in excess of this reserve limitation shall be transferred to miscellaneous receipts in the Treasury.”
+
 #### Aircraft Purchase Loan Guarantee Program
 
-Pub. L. 104–50, title I, Nov. 15, 1995, 109 Stat. 442, provided in part that: “None of the funds in this Act \[see Tables for classification\] shall be available for activities under this head the obligations for which are in excess of $1,600,000 during fiscal year 1996.” Similar provisions were contained in the following prior appropriation Acts, certain of which also authorized Secretary of Transportation to issue notes or other obligations to Secretary of the Treasury to pay any necessary expenses required pursuant to any guarantee issued under Public Law 85–307, as amended:
+Pub. L. 104–205, title I, Sept. 30, 1996, 110 Stat. 2957, provided in part that: “None of the funds in this Act \[see Tables for classification\] shall be available for activities under this heading during fiscal year 1997.” Similar provisions were contained in the following prior appropriation Acts, certain of which also authorized Secretary of Transportation to issue notes or other obligations to Secretary of the Treasury to pay any necessary expenses required pursuant to any guarantee issued under Public Law 85–307, as amended:
+
+Pub. L. 104–50, title I, Nov. 15, 1995, 109 Stat. 442.
 
 Pub. L. 103–331, title I, Sept. 30, 1994, 108 Stat. 2476.
 

@@ -10,7 +10,7 @@ The Secretary shall exercise his authority in a manner consistent with a reasona
 
 #### (c) Reasonableness of concessioner's rates and charges
 
-The reasonableness of a concessioner's rates and charges to the public shall, unless otherwise provided in the contract, be judged primarily by comparison with those current for facilities and services of comparable character under similar conditions, with due consideration for length of season, provision for peakloads, average percentage of occupancy, accessibility, availability, and costs of labor and materials, type of patronage, and other factors deemed significant by the Secretary.
+The reasonableness of a concessioner's rates and charges to the public shall, unless otherwiseprovided in the contract, be judged primarily by comparison with those current for facilities and services of comparable character under similar conditions, with due consideration for length of season, provision for peakloads, average percentage of occupancy, accessibility, availability, and costs of labor and materials, type of patronage, and other factors deemed significant by the Secretary.
 
 #### (d) Determination of franchise fees; reconsideration every five years or oftener
 

@@ -18,7 +18,7 @@
 | [2672\.](%C2%A7%2002672%20-%20Acquisition%20interests%20in%20land%20when%20cost%20is%20not%20more%20than%20%24200%2C000.md) | Acquisition: interests in land when cost is not more than $200,000. |
 | [2672a.](%C2%A7%2002672a%20-%20Acquisition%20interests%20in%20land%20when%20need%20is%20urgent.md) | Acquisition: interests in land when need is urgent. |
 | [2673\.](%C2%A7%2002673%20-%20Acquisition%20of%20certain%20interests%20in%20land%20availability%20of%20funds.md) | Acquisition of certain interests in land: availability of funds. |
-| [2674\.](%C2%A7%2002674%20-%20Operation%20and%20control%20of%20the%20Pentagon%20Reservation.md) | Operation and control of the Pentagon Reservation. |
+| [2674\.](%C2%A7%2002674%20-%20Operation%20and%20control%20of%20Pentagon%20Reservation%20and%20defense%20facilities%20in%20National%20Capital%20Region.md) | Operation and control of Pentagon Reservation and defense facilities in National Capital Region. |
 | [2675\.](%C2%A7%2002675%20-%20Leases%20foreign%20countries.md) | Leases: foreign countries. |
 | [2676\.](%C2%A7%2002676%20-%20Acquisition%20limitation.md) | Acquisition: limitation. |
 | [2677\.](%C2%A7%2002677%20-%20Options%20property%20required%20for%20military%20construction%20projects.md) | Options: property required for military construction projects. |
@@ -28,7 +28,7 @@
 | [2681\.](%C2%A7%2002681%20-%20Use%20of%20test%20and%20evaluation%20installations%20by%20commercial%20entities.md) | Use of test and evaluation installations by commercial entities. |
 | [2682\.](%C2%A7%2002682%20-%20Facilities%20for%20defense%20agencies.md) | Facilities for defense agencies. |
 | [2683\.](%C2%A7%2002683%20-%20Relinquishment%20of%20legislative%20jurisdiction%3B%20minimum%20drinking%20age%20on%20military%20installations.md) | Relinquishment of legislative jurisdiction; minimum drinking age on military installations. |
-| \[2684. | Repealed.\] |
+| [2684\.](%C2%A7%2002684%20-%20Cooperative%20agreements%20for%20management%20of%20cultural%20resources.md) | Cooperative agreements for management of cultural resources. |
 | [2685\.](%C2%A7%2002685%20-%20Adjustment%20of%20or%20surcharge%20on%20selling%20prices%20in%20commissary%20stores%20to%20provide%20funds%20for%20construction%20and%20improvement%20of%20commissary%20store%E2%80%A6.md) | Adjustment of or surcharge on selling prices in commissary stores to provide funds for construction and improvement of commissary store facilities. |
 | \[2686. | Repealed.\] |
 | [2687\.](%C2%A7%2002687%20-%20Base%20closures%20and%20realignments.md) | Base closures and realignments. |
@@ -38,16 +38,19 @@
 | [2691\.](%C2%A7%2002691%20-%20Restoration%20of%20land%20used%20by%20permit%20or%20lease%20from%20other%20agencies.md) | Restoration of land used by permit or lease from other agencies. |
 | [2692\.](%C2%A7%2002692%20-%20Storage%20and%20disposal%20of%20nondefense%20toxic%20and%20hazardous%20materials.md) | Storage and disposal of nondefense toxic and hazardous materials. |
 | [2693\.](%C2%A7%2002693%20-%20Conveyance%20of%20certain%20property.md) | Conveyance of certain property. |
+| [2694\.](%C2%A7%2002694%20-%20Conservation%20and%20cultural%20activities.md) | Conservation and cultural activities. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Historical and Amendment Notes
+#### Historical and Revision Notes
 
 #### 1962 Act
 
 This section makes necessary clerical amendments to chapter analysis.
 
 #### Amendments
+
+1996—Pub. L. 104–201, div. A, title III, §§332(a)(2), 369(b)(2), div. B, title XXVIII, §2862(b), Sept. 23, 1996, 110 Stat. 2485, 2498, 2805, substituted “of Pentagon Reservation and defense facilities in National Capital Region” for “of the Pentagon Reservation” in item 2674 and added items 2684 and 2694.
 
 1993—Pub. L. 103–160, div. A, title VIII, §846(b), Nov. 30, 1993, 107 Stat. 1723, added item 2681.
 
@@ -123,6 +126,8 @@ Real property—
 
 &emsp;&emsp;Army, see section 4771 et seq. of this title.
 
+<i><sup>1</sup></i><i> So in original.</i>
+
 
 ---
 
@@ -144,7 +149,7 @@ Real property—
 - [&sect; 02672 - Acquisition interests in land when cost is not more than $200,000](%C2%A7%2002672%20-%20Acquisition%20interests%20in%20land%20when%20cost%20is%20not%20more%20than%20%24200%2C000.md)
 - [&sect; 02672a - Acquisition interests in land when need is urgent](%C2%A7%2002672a%20-%20Acquisition%20interests%20in%20land%20when%20need%20is%20urgent.md)
 - [&sect; 02673 - Acquisition of certain interests in land availability of funds](%C2%A7%2002673%20-%20Acquisition%20of%20certain%20interests%20in%20land%20availability%20of%20funds.md)
-- [&sect; 02674 - Operation and control of the Pentagon Reservation](%C2%A7%2002674%20-%20Operation%20and%20control%20of%20the%20Pentagon%20Reservation.md)
+- [&sect; 02674 - Operation and control of Pentagon Reservation and defense facilities in National Capital Region](%C2%A7%2002674%20-%20Operation%20and%20control%20of%20Pentagon%20Reservation%20and%20defense%20facilities%20in%20National%20Capital%20Region.md)
 - [&sect; 02675 - Leases foreign countries](%C2%A7%2002675%20-%20Leases%20foreign%20countries.md)
 - [&sect; 02676 - Acquisition limitation](%C2%A7%2002676%20-%20Acquisition%20limitation.md)
 - [&sect; 02677 - Options property required for military construction projects](%C2%A7%2002677%20-%20Options%20property%20required%20for%20military%20construction%20projects.md)
@@ -154,7 +159,7 @@ Real property—
 - [&sect; 02681 - Use of test and evaluation installations by commercial entities](%C2%A7%2002681%20-%20Use%20of%20test%20and%20evaluation%20installations%20by%20commercial%20entities.md)
 - [&sect; 02682 - Facilities for defense agencies](%C2%A7%2002682%20-%20Facilities%20for%20defense%20agencies.md)
 - [&sect; 02683 - Relinquishment of legislative jurisdiction; minimum drinking age on military installations](%C2%A7%2002683%20-%20Relinquishment%20of%20legislative%20jurisdiction%3B%20minimum%20drinking%20age%20on%20military%20installations.md)
-- [&sect; 02684 - Repealed. Pub. L. 97&#8211;214, &sect;7(1), July 12, 1982, 96 Stat. 173](%C2%A7%2002684%20-%20Repealed.%20Pub.%20L.%2097%E2%80%93214%2C%20%C2%A77%281%29%2C%20July%2012%2C%201982%2C%2096%20Stat.%20173.md)
+- [&sect; 02684 - Cooperative agreements for management of cultural resources](%C2%A7%2002684%20-%20Cooperative%20agreements%20for%20management%20of%20cultural%20resources.md)
 - [&sect; 02685 - Adjustment of or surcharge on selling prices in commissary stores to provide funds for construction and improvement of commissary store&#8230;](%C2%A7%2002685%20-%20Adjustment%20of%20or%20surcharge%20on%20selling%20prices%20in%20commissary%20stores%20to%20provide%20funds%20for%20construction%20and%20improvement%20of%20commissary%20store%E2%80%A6.md)
 - [&sect; 02686 - Repealed. Pub. L. 97&#8211;214, &sect;7(1), July 12, 1982, 96 Stat. 173](%C2%A7%2002686%20-%20Repealed.%20Pub.%20L.%2097%E2%80%93214%2C%20%C2%A77%281%29%2C%20July%2012%2C%201982%2C%2096%20Stat.%20173.md)
 - [&sect; 02687 - Base closures and realignments](%C2%A7%2002687%20-%20Base%20closures%20and%20realignments.md)
@@ -164,3 +169,4 @@ Real property—
 - [&sect; 02691 - Restoration of land used by permit or lease from other agencies](%C2%A7%2002691%20-%20Restoration%20of%20land%20used%20by%20permit%20or%20lease%20from%20other%20agencies.md)
 - [&sect; 02692 - Storage and disposal of nondefense toxic and hazardous materials](%C2%A7%2002692%20-%20Storage%20and%20disposal%20of%20nondefense%20toxic%20and%20hazardous%20materials.md)
 - [&sect; 02693 - Conveyance of certain property](%C2%A7%2002693%20-%20Conveyance%20of%20certain%20property.md)
+- [&sect; 02694 - Conservation and cultural activities](%C2%A7%2002694%20-%20Conservation%20and%20cultural%20activities.md)

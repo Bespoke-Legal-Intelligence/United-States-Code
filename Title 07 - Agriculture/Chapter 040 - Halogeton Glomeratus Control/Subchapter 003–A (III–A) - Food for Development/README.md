@@ -2,7 +2,7 @@
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in sections 1431, 1734, 1736a, 1736d, 1736f, 1736bb–6 of this title.
+This subchapter is referred to in sections 1431, 1734, 1736, 1736a, 1736f, 1736g of this title; title 22 section 6041.
 
 
 ---

@@ -10,7 +10,7 @@ The Administrator of General Services is authorized to make such regulations as 
 
 #### Transfer of Functions
 
-Functions of Federal Works Agency and of all agencies thereof, together with functions of Federal Works Administrator, and functions of Commissioner of Public Buildings and Public Buildings Administration transferred to Administrator of General Services by section 103(a) of act June 30, 1949, which is classified to section 753(a) of this title. Federal Works Agency, office of Federal Works Administrator, office of Commissioner of Public Buildings, and Public Buildings Administration abolished by section 103(b) of act June 30, 1949.
+Functions of Federal Works Agency and of all agencies thereof, together with functions of Federal Works Administrator, and functions of Commissioner of Public Buildings and Public Buildings Administration transferred to Administrator of General Services by section 103(a) of act June 30, 1949, which is classified tosection 753(a) of this title. Federal Works Agency, office of Federal Works Administrator, office of Commissioner of Public Buildings, and Public Buildings Administration abolished by section 103(b) of act June 30, 1949.
 
 #### Effective Date of Transfer of Functions
 

@@ -26,7 +26,7 @@ For purposes of this subchapter, works of art owned by a nonresident not a citiz
 
 &emsp;(3) at the time of the death of the owner, on exhibition, or en route to or from exhibition, in such a public gallery or museum.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 397; Nov. 13, 1966, Pub. L. 89–809, title I, §108(d), 80 Stat. 1572; July 18, 1984, Pub. L. 98–369, div. A, title I, §127(d), 98 Stat. 651; Nov. 10, 1988, Pub. L. 100–647, title I, §1012(g)(4), 102 Stat. 3501; Aug. 10, 1993, Pub. L. 103–66, title XIII, §13237(b), 107 Stat. 508.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 397; Nov. 13, 1966, Pub. L. 89–809, title I, §108(d), 80 Stat. 1572; July18, 1984, Pub. L. 98–369, div. A, title I, §127(d), 98 Stat. 651; Nov. 10, 1988, Pub. L. 100–647, title I, §1012(g)(4), 102 Stat. 3501; Aug. 10, 1993, Pub. L. 103–66, title XIII, §13237(b), 107 Stat. 508.)
 
 #### Amendments
 
@@ -52,7 +52,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–369 applicable to obligations issued after July 18, 1984, with respect to the estates of decedents dying after such date, see section127(g)(2) of Pub. L. 98–369, set out as a note under section 871 of this title.
+Amendment by Pub. L. 98–369 applicable to obligations issued after July 18, 1984, with respect to the estates of decedents dying after such date, see section 127(g)(2) of Pub. L. 98–369, set out as a note under section 871 of this title.
 
 #### Effective Date of 1966 Amendment
 

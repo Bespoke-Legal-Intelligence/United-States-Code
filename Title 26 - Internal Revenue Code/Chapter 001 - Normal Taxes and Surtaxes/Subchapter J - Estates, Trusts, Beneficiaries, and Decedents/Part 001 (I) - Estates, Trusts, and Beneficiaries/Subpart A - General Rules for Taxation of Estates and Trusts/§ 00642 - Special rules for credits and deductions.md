@@ -78,7 +78,7 @@ The benefit of the deductions for amortization provided by sections 169 and 197 
 
 #### (g) Disallowance of double deductions
 
-Amounts allowable under section 2053 or 2054 as a deduction in computing the taxable estate of a decedent shall not be allowed as a deduction (or as an offset against the sales price of property in determining gain or loss) in computing the taxable income of the estate or of any other person, unless there is filed, within the time and in the manner and form prescribed by the Secretary, a statement that the amounts have not been allowed as deductions under section 2053 or 2054 and a waiver of the right to have such amounts allowed at any time as deductions under section 2053 or 2054. Rules similar to the rules of the preceding sentence shall apply to amounts which may be taken into account under <sup>2</sup> 2621(a)(2) or 2622(b). This subsection shall not apply with respect to deductions allowed under part II (relating to income in respect of decedents).
+Amounts allowable under section 2053 or 2054 as a deduction in computing the taxable estate of a decedent shall not be allowed as a deduction (or as an offset against the sales price of property in determining gain or loss) in computing the taxable income of the estate or of any other person, unless there is filed, within the time and in the manner and form prescribed by the Secretary, a statement that the amounts have not been allowed as deductions under section 2053 or 2054 and a waiver of the right to have such amounts allowed at any time as deductions under section 2053 or 2054. Rules similar to the rules of the preceding sentence shall apply to amounts which may be taken into account under section 2621(a)(2) or 2622(b). This subsection shall not apply with respect to deductions allowed under part II (relating to income in respect of decedents).
 
 #### (h) Unused loss carryovers and excess deductions on termination available to beneficiaries
 
@@ -100,11 +100,13 @@ In the case of a cemetery perpetual care fund which—
 
 > any amount distributed by such fund for the care and maintenance of gravesites which have been purchased from the cemetery corporation before the beginning of the taxable year of the trust and with respect to which there is an obligation to furnish care and maintenance shall be considered to be a distribution solely for purposes of sections 651 and 661, but only to the extent that the aggregate amount so distributed during the taxable year does not exceed $5 multiplied by the aggregate number of such gravesites.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 215; Oct. 16, 1962, Pub. L. 87–834, §13(c)(2)(A), 76 Stat. 1034; Feb. 26, 1964, Pub. L. 88–272, title II, §201(d)(6)(A), (B), 78 Stat. 32; Oct. 4, 1966, Pub. L. 89–621, §2(a), 80 Stat. 872; Dec. 30, 1969, Pub. L. 91–172, title II, §201(b), title VII, §704(b)(2), 83 Stat. 558, 669; Dec. 10, 1971, Pub. L. 92–178, title III, §303(c)(4), title VII, §§701(b), 702(b), 85 Stat. 522, 561, 562; Oct. 4, 1976, Pub. L. 94–455, title XIV, §1402(b)(1)(J), (2), title XIX, §§1901(b)(1)(H)(i), 1906(b)(13)(A), 1951(c)(2)(B), title XX, §2009(d), title XXI, §2124(a)(3)(B), 90 Stat. 1732, 1791, 1834, 1840, 1896, 1917; Oct. 17, 1976, Pub. L. 94–528, §1(a), 90 Stat. 2483; May 23, 1977, Pub. L. 95–30, title I, §101(d)(9), 91 Stat. 134; Nov. 6, 1978, Pub. L. 95–600, title I, §113(a)(2)(B), 92 Stat. 2778; Aug. 13, 1981, Pub. L. 97–34, title II, §212(d)(2)(D), 95 Stat. 239; July 18, 1984, Pub. L. 98–369, div. A, title IV, §474(r)(17), title X, §1001(b)(8), (e), 98 Stat. 843, 1011, 1012; Oct. 22, 1986, Pub. L. 99–514, title I, §112(b)(2), title III, §301(b)(6), title VI, §612(b)(3), 100 Stat. 2108, 2217, 2250; Dec. 19, 1989, Pub. L. 101–239, title VII, §7811(j)(3), 103 Stat. 2411; Nov. 5, 1990, Pub. L. 101–508, title XI, §§11801(c)(6)(B), 11812(b)(9), 104 Stat. 1388–524, 1388–535; Aug. 10, 1993, Pub. L. 103–66, title XIII, §§13113(d)(2), 13261(f)(2), 107 Stat. 429, 539.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 215; Oct. 16, 1962, Pub. L. 87–834, §13(c)(2)(A), 76 Stat. 1034; Feb. 26,1964, Pub. L. 88–272, title II, §201(d)(6)(A), (B), 78 Stat. 32; Oct. 4, 1966, Pub. L. 89–621, §2(a), 80 Stat. 872; Dec. 30, 1969, Pub. L. 91–172, title II, §201(b), title VII, §704(b)(2), 83 Stat. 558, 669; Dec. 10, 1971, Pub. L. 92–178, title III, §303(c)(4), title VII, §§701(b), 702(b), 85 Stat. 522, 561, 562; Oct. 4, 1976, Pub. L. 94–455, title XIV, §1402(b)(1)(J), (2), title XIX, §§1901(b)(1)(H)(i), 1906(b)(13)(A), 1951(c)(2)(B), title XX, §2009(d), title XXI, §2124(a)(3)(B), 90 Stat. 1732, 1791, 1834, 1840, 1896, 1917; Oct. 17, 1976, Pub. L. 94–528, §1(a), 90 Stat. 2483; May 23, 1977, Pub. L. 95–30, title I, §101(d)(9), 91 Stat. 134; Nov. 6, 1978, Pub. L. 95–600, title I, §113(a)(2)(B), 92 Stat. 2778; Aug. 13, 1981, Pub. L. 97–34, title II, §212(d)(2)(D), 95 Stat. 239; July 18, 1984, Pub. L. 98–369, div. A, title IV, §474(r)(17), title X, §1001(b)(8), (e), 98 Stat. 843, 1011, 1012; Oct. 22, 1986, Pub. L. 99–514, title I, §112(b)(2), title III, §301(b)(6), title VI, §612(b)(3), 100 Stat. 2108, 2217, 2250; Dec. 19, 1989, Pub. L. 101–239, title VII, §7811(j)(3), 103 Stat. 2411; Nov. 5, 1990, Pub. L. 101–508, title XI, §§11801(c)(6)(B), 11812(b)(9), 104 Stat. 1388–524, 1388–535; Aug. 10, 1993, Pub. L. 103–66, title XIII, §§13113(d)(2), 13261(f)(2), 107 Stat. 429, 539; Aug. 20, 1996, Pub. L. 104–188, title I, §1704(t)(8), 110 Stat. 1887.)
 
 #### Amendments
 
-1993—Subsec. (c)(4). Pub. L. 103–66, §13113(d)(2), amended heading and text of par. (4) generally. Prior toamendment, text read as follows: “In the case of a trust, the deduction allowed by this subsection shall be subject to section 681 (relating to unrelated business income).”
+1996—Subsec. (g). Pub. L. 104–188 substituted “under section 2621(a)(2)” for “under 2621(a)(2)”.
+
+1993—Subsec. (c)(4). Pub. L. 103–66, §13113(d)(2), amended heading and text of par. (4) generally. Prior to amendment, text read as follows: “In the case of a trust, the deduction allowed by this subsection shall be subject to section 681 (relating to unrelated business income).”
 
 Subsec. (f). Pub. L. 103–66, §13261(f)(2), substituted “sections 169 and 197” for “section 169”.
 
@@ -178,7 +180,7 @@ Amendment by section 11812(b)(9) of Pub. L. 101–508 applicable to property pla
 
 #### Effective Date of 1989 Amendment
 
-Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 7817 of Pub. L. 101–239, set out as a note under section 1 of this title.
+Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision ofthe Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 7817 of Pub. L. 101–239, set out as a note under section 1 of this title.
 
 #### Effective Date of 1986 Amendment
 
@@ -266,9 +268,7 @@ Returns by trust claiming charitable deduction under subsection (c) of this sect
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 56, 67, 153, 170, 507, 508, 542, 643, 644, 651, 661, 662, 663, 681, 683, 901, 904, 1291, 1297, 2055, 2522, 2652, 4947, 4948, 6034 of this title; title 15 section 80a–3.
+This section is referred to in sections 56, 67, 153, 170, 507, 508, 542, 641, 643, 644, 651, 661, 662, 663, 681, 683, 901, 904, 1291, 1297, 2055, 2522, 2652, 4947, 4948, 6034 of this title; title 15 section 80a–3.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “than”.</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be “under section”.</i>
 

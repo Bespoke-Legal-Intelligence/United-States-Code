@@ -64,31 +64,33 @@
 
 (C) Such procedures shall also include a requirement that each State shall submit to the Administrator and the Secretary of Transportation within 24 months of November 15, 1990, a revision to its implementation plan that includes criteria and procedures for assessing the conformity of any plan, program, or project subject to the conformity requirements of this subsection.
 
+(D) Compliance with the rules of the Administrator for determining the conformity of transportation plans, programs, and projects funded or approved under title 23 or chapter 53 of title 49 to State or Federal implementation plans shall not be required for traffic signal synchronization projects prior to the funding, approval or implementation of such projects. The supporting regional emissions analysis for any conformity determination made with respect to a transportation plan, program, or project shall consider the effect on emissions of any such project funded, approved, or implemented prior to the conformity determination.
+
 (5)
 
 Applicability.—This subsection shall apply only with respect to—
 
 &emsp;(A) a nonattainment area and each pollutant for which the area is designated as a nonattainment area; and
 
-&emsp;(B) an area that was designated as a nonattainment area but that was later redesignated by the Administrator as an attainment area and that is required to develop a maintenance plan under section 7505a of this title with respect to the specific pollutant for which the area was designated nonattainment.
+&emsp;(B) an area that was designated as a nonattainment area but that was later redesignated by the Administrator as an attainmentarea and that is required to develop a maintenance plan under section 7505a of this title with respect to the specific pollutant for which the area was designated nonattainment.
 
 #### (d) Priority of achieving and maintaining national primary ambient air quality standards
 
 Each department, agency, or instrumentality of the Federal Government having authority to conduct or support any program with air-quality related transportation consequences shall give priority in the exercise of such authority, consistent with statutory requirements for allocation among States or other jurisdictions, to the implementation of those portions of plans prepared under this section to achieve and maintain the national primary ambient air-quality standard. This paragraph extends to, but is not limited to, authority exercised under chapter 53 of title 49, title 23, and the Housing and Urban Development Act.
 
-(July 14, 1955, ch. 360, title I, §176, as added Aug. 7, 1977, Pub. L. 95–95, title I, §129(b), 91 Stat. 749; amended Nov. 16, 1977, Pub. L. 95–190, §14(a)(59), 91 Stat. 1403; Nov. 15, 1990, Pub. L. 101–549, title I, §§101(f), 110(4), 104 Stat. 2409, 2470; Nov. 28, 1995, Pub. L. 104–59, title III, §305(b), 109 Stat. 580.)
+(July 14, 1955, ch. 360, title I, §176, as added Aug. 7, 1977, Pub. L. 95–95, title I, §129(b), 91 Stat. 749; amended Nov. 16, 1977, Pub. L. 95–190, §14(a)(59), 91 Stat. 1403; Nov. 15, 1990, Pub. L. 101–549, title I, §§101(f), 110(4), 104 Stat. 2409, 2470; Nov. 28, 1995, Pub. L. 104–59, title III, §305(b), 109 Stat. 580; Oct. 9, 1996, Pub. L. 104–260, §1, 110 Stat. 3175.)
 
 #### References in Text
-
-Title 23, referred to in subsecs. (c)(2) and (d), is Title 23, Highways.
 
 The Housing and Urban Development Act, referred to in subsec. (d), may be the name for a series of acts sharing the same name but enacted in different years by Pub. L. 89–117, Aug. 10, 1965, 79 Stat. 451; Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 476; Pub. L. 91–152, Dec. 24, 1969, 83 Stat. 379; and Pub. L. 91–609, Dec. 31, 1970, 84 Stat. 1770, respectively. For complete classification of these Acts to the Code, see Short Title notes set out under section 1701 of Title 12, Banks and Banking, and Tables.
 
 #### Codification
 
-In subsecs. (c)(2) and (d), “chapter 53 of title 49” substituted for “the Urban Mass Transportation Act \[49App. U.S.C. 1601 et seq.\]” on authority of Pub. L. 103–272, §6(b), July 5, 1994, 108 Stat. 1378 (the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation), and of Pub. L. 102–240, title III, §3003(b), Dec. 18, 1991, 105 Stat. 2088, which provided that references in laws to the Urban Mass Transportation Act of 1964 be deemed to be references to the Federal Transit Act.
+In subsecs. (c)(2) and (d), “chapter 53 of title 49” substituted for “the Urban Mass Transportation Act \[49 App. U.S.C. 1601 et seq.\]” and in subsec. (c)(4)(D) substituted for “Federal Transit Act” on authority of Pub. L. 103–272, §6(b), July 5, 1994, 108 Stat. 1378 (the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation), and of Pub. L. 102–240, title III, §3003(b), Dec. 18, 1991, 105 Stat. 2088, which provided that references in laws to the Urban Mass Transportation Act of 1964 be deemed to be references to the Federal Transit Act.
 
 #### Amendments
+
+1996—Subsec. (c)(4)(D). Pub. L. 104–260 added subpar. (D).
 
 1995—Subsec. (c)(5). Pub. L. 104–59 added par. (5).
 

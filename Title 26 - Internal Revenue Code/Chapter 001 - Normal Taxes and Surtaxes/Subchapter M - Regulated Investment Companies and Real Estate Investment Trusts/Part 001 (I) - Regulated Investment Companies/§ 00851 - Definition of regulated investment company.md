@@ -98,7 +98,7 @@ For purposes of this title—
 
 &emsp;&emsp;(A) each holder of an interest in such trust shall, to the extent of such interest, be treated as owning a proportionate share of the assets of such trust;
 
-&emsp;&emsp;(B) the basis of the assets of such trust which are treated under subparagraph (A) as being owned by a holder of an interest insuch trust shall be the same as the basis of his interest in such trust; and
+&emsp;&emsp;(B) the basis of the assets of such trust which are treated under subparagraph (A) as being owned by a holder of an interest in such trust shall be the same as the basis of his interest in such trust; and
 
 &emsp;&emsp;(C) in determining the period for which the holder of an interest in such trust has held the assets of the trust which are treated under subparagraph (A) as being owned by him, there shall be included the period for which such holder has held his interest in such trust.
 
@@ -206,7 +206,7 @@ Subsec. (b)(2). Pub. L. 95–345 inserted provision relating to payments with re
 
 1976—Subsec. (a)(1). Pub. L. 94–455, §1901(a)(109)(A), struck out “54 Stat. 789;” before “15 U.S.C. 80a–1 to 80b–2)”.
 
-Subsec. (b)(1), (4)(B). Pub. L. 94–455, §1901(a)(109)(B), struck out “which began after December 31, 1941” after “previous taxable year” in par. (1), and “or his delegate” after “Secretary” in par. (4)(B).
+Subsec. (b)(1), (4)(B). Pub. L. 94–455, §1901(a)(109)(B), struck out “which began after December 31, 1941” after“previous taxable year” in par. (1), and “or his delegate” after “Secretary” in par. (4)(B).
 
 Subsecs. (c), (d). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary” wherever appearing.
 
@@ -254,7 +254,7 @@ Amendment by Pub. L. 98–369 applicable to taxable years beginning after Dec. 3
 
 Section 701(s)(3) of Pub. L. 95–600 provided that: “The amendments made by this section \[amending this section and section 852 of this title\] shall apply to taxable years beginning after December 31, 1975.”
 
-Amendment by Pub. L. 95–345 applicable with respect to amounts received after Dec. 31, 1976, as paymentswith respect to securities loans (as defined in section 512(a)(5) of this title), and transfers of securities, under agreements described in section 1058 of this title, occurring after such date, see section 2(e) of Pub. L. 95–345, set out as a note under section 509 of this title.
+Amendment by Pub. L. 95–345 applicable with respect to amounts received after Dec. 31, 1976, as payments with respect to securities loans (as defined in section 512(a)(5) of this title), and transfers of securities, under agreements described in section 1058 of this title, occurring after such date, see section 2(e) of Pub. L. 95–345, set out as a note under section 509 of this title.
 
 #### Effective Date of 1976 Amendment
 
@@ -274,5 +274,5 @@ Amendment by Pub. L. 85–866 applicable to taxable years beginning after Dec. 3
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 11, 50B, 133, 403, 817, 852, 853, 992, 1092, 1212, 1247, 7609, 7704 of this title; title 42 section 1395nn.
+This section is referred to in sections 11, 50B, 403, 817, 852, 853, 860L, 992, 1092, 1212, 1247, 7609, 7704 of this title; title 42 section 1395nn.
 

@@ -84,7 +84,7 @@ A program or project conducted under this chapter shall not make any reference t
 
 #### (1) In general
 
-&emsp;To ensure efficient use of funds collected under this chapter, the order shall provide that the Board may enter into contracts or agreements for the implementation and carrying out of programs or projects for fluid milk products research and advertising and for the payment of the costs of the programs or projects with funds received by the Board under the order.
+&emsp;To ensure efficient use of funds collected under this chapter, the order shall providethat the Board may enter into contracts or agreements for the implementation and carrying out of programs or projects for fluid milk products research and advertising and for the payment of the costs of the programs or projects with funds received by the Board under the order.
 
 #### (2) Requirements
 
@@ -190,7 +190,7 @@ The order shall exempt fluid milk products exported from the United States from 
 
 #### (m) Report
 
-The Secretary shall provide annually for an independent evaluation of the effectiveness ofthe fluid milk promotion program carried out under this chapter during the previous fiscal year, in conjunction with the evaluation of the National Dairy Promotion and Research Board established under section 4504(b) of this title.
+The Secretary shall provide annually for an independent evaluation of the effectiveness of the fluid milk promotion program carried out under this chapter during the previous fiscal year, in conjunction with the evaluation of the National Dairy Promotion and Research Board established under section 4504(b) of this title.
 
 #### (n) Other terms and conditions
 

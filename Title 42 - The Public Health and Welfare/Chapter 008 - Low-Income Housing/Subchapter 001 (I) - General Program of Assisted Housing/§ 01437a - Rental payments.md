@@ -10,15 +10,15 @@
 
 &emsp;(C) if the family is receiving payments for welfare assistance from a public agency and a part of such payments, adjusted in accordance with the family's actual housing costs, is specifically designated by such agency to meet the family's housing costs, the portion of such payments which is so designated.
 
-(2)(A) Any public housing agency may provide that each family residing in a public housing project owned and operated by such agency (or in low-income housing assisted under section 1437f of this title that contains more than 2,000 dwelling units) shall pay as monthly rent an amount determined by such agency to be appropriate that does not exceed a maximum amount that—
+(2) Notwithstanding paragraph (1), a public housing agency may—
 
-&emsp;(i) is established by such agency and approved by the Secretary;
+&emsp;(A) adopt ceiling rents that reflect the reasonable market value of the housing, but that are not less than the monthly costs—
 
-&emsp;(ii) is not more than the amount payable as rent by such family under paragraph (1); and
+&emsp;&emsp;(i) to operate the housing of the agency; and
 
-&emsp;(iii) is not less than the average monthly amount of debt service and operating expenses attributable to dwelling units of similar size in public housing projects owned and operated by such agency.
+&emsp;&emsp;(ii) to make a deposit to a replacement reserve (in the sole discretion of the public housing agency); and
 
-(B) The terms of all ceiling rents established prior to December 15, 1989, shall be extended without time limitation.
+&emsp;(B) allow families to pay ceiling rents referred to in subparagraph (A), unless, with respect to any family, the ceiling rent established under this paragraph would exceed the amount payable as rent by that family under paragraph (1).
 
 #### (b) Definition of terms under this chapter
 
@@ -34,7 +34,7 @@ Persons and families.—
 
 &emsp;(A)
 
-Single persons.—The term “families” includes families consisting of a single person in the case of (i) an elderly person, (ii) a disabled person, (iii) a displaced person, (iv) the remaining member of a tenant family, and (v) any other single persons. In no event may any single person under clause (v) of the first sentence be provided a housing unit assisted under this chapter of 2 or more bedrooms. In determining priority for admission to housing under this chapter, the Secretary shall give preference to single persons who are elderly, disabled, or displaced persons before single persons who are eligible under clause (v) of the first sentence.
+Single persons.—The term “families” includes families consisting of a single personin the case of (i) an elderly person, (ii) a disabled person, (iii) a displaced person, (iv) the remaining member of a tenant family, and (v) any other single persons. In no event may any single person under clause (v) of the first sentence be provided a housing unit assisted under this chapter of 2 or more bedrooms. In determining priority for admission to housing under this chapter, the Secretary shall give preference to single persons who are elderly, disabled, or displaced persons before single persons who are eligible under clause (v) of the first sentence.
 
 &emsp;(B)
 
@@ -84,35 +84,19 @@ Near-elderly person.—The term “near-elderly person” means a person who is 
 
 &emsp;(F) any payment made by a member of the family for the support and maintenance of any child, spouse, or former spouse who does not reside in the household, except that the amount excluded under this subparagraph shall not exceed the lesser of (i) the amount that such family member has a legal obligation to pay; or (ii) $550 for each individual for whom such payment is made; and
 
-&emsp;(G) excessive travel expenses, not to exceed $25 per family per week, for employment- or education-related travel, except that this subparagraph shall apply only to families assisted by Indian housing authorities.
+&emsp;(G) for public housing, any other adjustments to earned income established by the public housing agency. If a public housing agency adopts other adjustments to income pursuant to subparagraph (H), the Secretary shall not take into account any reduction of or increase in the public housing agency's per unit dwelling rental income resulting from those adjustments when calculating the contributions under section 1437g of this title for the public housing agency for the operation of the public housing.
 
-(6) The term “public housing agency” means any State, county, municipality, or other governmental entity or public body (or agency or instrumentality thereof) which is authorized to engage in or assist in the development or operation of low-income housing. The term includes any Indian housing authority.
+(6) The term “public housing agency” means any State, county, municipality, or other governmental entity or public body (or agency or instrumentality thereof) which is authorized to engage in or assist in the development or operation of low-income housing.
 
-(7) The term “State” includes the several States, the District of Columbia, the Commonwealth of Puerto Rico, the territories and possessions of the United States, the Trust Territory of the Pacific Islands, and Indian tribes.
+(7) The term “State” includes the several States, the District of Columbia, the Commonwealth of Puerto Rico, the territories and possessions of the United States, and the Trust Territory of the Pacific Islands.
 
 (8) The term “Secretary” means the Secretary of Housing and Urban Development.
-
-(9) The term “Indian” means any person recognized as being an Indian or Alaska Native by an Indian tribe, the Federal Government, or any State.
-
-(10) The term “Indian area” means the area within which an Indian housing authority is authorized to provide low-income housing.
-
-(11) The term “Indian housing authority” means any entity that—
-
-&emsp;(A) is authorized to engage in or assist in the development or operation of low-income housing for Indians; and
-
-&emsp;(B) is established—
-
-&emsp;&emsp;(i) by exercise of the power of self-government of an Indian tribe independent of State law; or
-
-&emsp;&emsp;(ii) by operation of State law providing specifically for housing authorities for Indians, including regional housing authorities in the State of Alaska.
-
-(12) The term “Indian tribe” means any tribe, band, pueblo, group, community, or nation of Indians or Alaska Natives.
 
 #### (c) Definition of terms used in reference to public housing
 
 When used in reference to public housing:
 
-(1) The term “development” means any or all undertakings necessary for planning, land acquisition, demolition, construction, or equipment, in connection with a low-income housing project. The term “development cost” comprises the costs incurred by a public housing agency in such undertakings and their necessary financing (including the payment of carrying charges), and in otherwise carrying out the developmentof such project. Construction activity in connection with a low-income housing project may be confined to the reconstruction, remodeling, or repair of existing buildings.
+(1) The term “development” means any or all undertakings necessary for planning, land acquisition, demolition, construction, or equipment, in connection with a low-income housingproject. The term “development cost” comprises the costs incurred by a public housing agency in such undertakings and their necessary financing (including the payment of carrying charges), and in otherwise carrying out the development of such project. Construction activity in connection with a low-income housing project may be confined to the reconstruction, remodeling, or repair of existing buildings.
 
 (2) The term “operation” means any or all undertakings appropriate for management, operation, services, maintenance, security (including the cost of security personnel), or financing in connection with a low-income housing project. The term also means the financing of tenant programs and services for families residing in low-income housing projects, particularly where there is maximum feasible participation of the tenants in the development and operation of such tenant programs and services. As used in this paragraph, the term “tenant programs and services” includes the development and maintenance of tenant organizations which participate in the management of low-income housing projects; the training of tenants to manage and operate such projects and the utilization of their services in project management and operation; counseling on household management, housekeeping, budgeting, money management, child care, and similar matters; advice as to resources for job training and placement, education, welfare, health, and other community services; services which are directly related to meeting tenant needs and providing a wholesome living environment; and referral to appropriate agencies in the community when necessary for the provision of such services. To the maximum extent available and appropriate, existing public and private agencies in the community shall be used for the provision of such services.
 
@@ -136,7 +120,11 @@ The earnings of and benefits to any public housing resident resulting from parti
 
 &emsp;&emsp;&emsp;(ii) the expiration of the 18-month period beginning on the date referred to in subparagraph (A).
 
-(Sept. 1, 1937, ch. 896, title I, §3, as added Aug. 22, 1974, Pub. L. 93–383, title II, §201(a), 88 Stat. 654; amended Aug. 3, 1976, Pub. L. 94–375, §2(f), 90 Stat. 1068; Oct. 31, 1978, Pub. L. 95–557, title II, §206(c), 92 Stat. 2091; Dec. 21, 1979, Pub. L. 96–153, title II, §202(a), 93 Stat. 1106; Aug. 13, 1981, Pub. L. 97–35, title III, §322(a), 95 Stat. 400; Nov. 30, 1983, Pub. L. 98–181, title II, §§202, 206(a)–(c), 97 Stat. 1178, 1179; Oct. 17, 1984, Pub. L. 98–479, title I, §102(b)(1)–(3), 98 Stat. 2221; Feb. 5, 1988, Pub. L. 100–242, title I, §§102(a), 111, 170(c), 101 Stat. 1821, 1823, 1867; renumbered title I and amended June 29, 1988, Pub. L. 100–358, §§4, 5, 102 Stat. 680, 681; Dec. 15, 1989, Pub. L. 101–235, title III, §302, 103 Stat. 2043; Nov. 28, 1990, Pub. L. 101–625, title V, §§515(b), 572, 573(a)–(d), 574, 104 Stat. 4199, 4236–4238; Oct. 28, 1992, Pub. L. 102–550, title I, §§102–103(a)(2), 185(c)(4), title VI, §§621, 622(c), 625(a)(1), 106 Stat. 3683, 3748, 3812, 3817, 3820; Apr. 11, 1994, Pub. L. 103–233, title III, §301, 108 Stat. 369.)
+(Sept. 1, 1937, ch. 896, title I, §3, as added Aug. 22, 1974, Pub. L. 93–383, title II, §201(a), 88 Stat. 654; amended Aug. 3, 1976, Pub. L. 94–375, §2(f), 90 Stat. 1068; Oct. 31, 1978, Pub. L. 95–557, title II, §206(c), 92 Stat. 2091; Dec. 21, 1979, Pub. L. 96–153, title II, §202(a), 93 Stat. 1106; Aug. 13, 1981, Pub. L. 97–35, title III, §322(a), 95 Stat. 400; Nov. 30, 1983, Pub. L. 98–181, title II, §§202, 206(a)–(c), 97 Stat. 1178, 1179; Oct. 17, 1984, Pub. L. 98–479, title I, §102(b)(1)–(3), 98 Stat. 2221; Feb. 5, 1988, Pub. L. 100–242, title I, §§102(a), 111, 170(c), 101 Stat. 1821, 1823, 1867; renumbered title I and amended June 29, 1988, Pub. L. 100–358, §§4, 5, 102 Stat. 680, 681; Dec. 15, 1989, Pub. L. 101–235, title III, §302, 103 Stat. 2043; Nov. 28, 1990, Pub. L. 101–625, title V, §§515(b), 572, 573(a)–(d), 574, 104 Stat. 4199, 4236–4238; Oct. 28, 1992, Pub. L. 102–550, title I, §§102–103(a)(2), 185(c)(4), title VI, §§621, 622(c), 625(a)(1), 106 Stat. 3683, 3748, 3812, 3817, 3820; Apr. 11, 1994, Pub. L. 103–233, title III, §301, 108 Stat. 369; Jan. 26, 1996, Pub. L. 104–99, title IV, §402(b)(1), (c), 110 Stat. 40, 41; Oct. 26, 1996, Pub. L. 104–330, title V, §501(b)(1), 110 Stat. 4041.)
+
+#### Amendment of Subsections (a)(2) and (b)(5)
+
+<i>For termination of amendment by section 402(f) of Pub. L. 104–99, see Effective and Termination Dates of 1996 Amendments note below.</i>
 
 #### References in Text
 
@@ -149,6 +137,48 @@ A prior section 3 of act Sept. 1, 1937, ch. 896, 50 Stat. 889, as amended, estab
 Prior similar provisions were contained in section 2 of act Sept. 1, 1937, ch. 896, 50 Stat. 888, which was classified to section 1402 of this title prior to the general revision of this chapter by Pub. L. 93–383.
 
 #### Amendments
+
+1996—Subsec. (a)(2). Pub. L. 104–99, §402(b)(1), (f), temporarily amended par. (2) generally. Prior to amendment, par. (2) read as follows:
+
+“(2)(A) Any public housing agency may provide that each family residing in a public housing project owned and operated by such agency (or in low-income housing assisted under section 1437f of this title that contains more than 2,000 dwelling units) shall pay as monthly rent an amount determined by such agency to be appropriate that does not exceed a maximum amount that—
+
+&emsp;“(i) is established by such agency and approved by the Secretary;
+
+&emsp;“(ii) is not more than the amount payable as rent by such family under paragraph (1); and
+
+&emsp;“(iii) is not less than the average monthly amount of debt service and operating expenses attributable to dwelling units of similar size in public housing projects owned and operated by such agency.
+
+“(B) The terms of all ceiling rents established prior to December 15, 1989, shall be extended without time limitation.” See Effective and Termination Dates of 1996 Amendments note below.
+
+Subsec. (b)(5)(F). Pub. L. 104–330, §501(b)(1)(A)(i), inserted “and” after semicolon.
+
+Subsec. (b)(5)(G). Pub. L. 104–330, §501(b)(1)(A)(ii), (iii), redesignated subpar. (H) as (G) and struck out former subpar. (G) which read as follows: “excessive travel expenses, not to exceed $25 per family per week, for employment- or education-related travel, except that this subparagraph shall apply only to families assisted by Indian housing authorities; and”.
+
+Subsec. (b)(5)(H). Pub. L. 104–330, §501(b)(1)(A)(iii), redesignated subpar. (H) as (G).
+
+Pub. L. 104–99, §402(c), (f), temporarily added subpar. (H). See Effective and Termination Dates of 1996 Amendments note below.
+
+Subsec. (b)(6). Pub. L. 104–330, §501(b)(1)(B), struck out at end “The term includes any Indian housing authority.”
+
+Subsec. (b)(7). Pub. L. 104–330, §501(b)(1)(C), inserted “and” before “the Trust” and struck out “, and Indian tribes” after “Pacific Islands”.
+
+Subsec. (b)(9) to (12). Pub. L. 104–330, §501(b)(1)(D), struck out pars. (9) to (12) which read as follows:
+
+“(9) The term ‘Indian’ means any person recognized as being an Indian or Alaska Native by an Indian tribe, the Federal Government, or any State.
+
+“(10) The term ‘Indian area’ means the area within which an Indian housing authority is authorized to provide low-income housing.
+
+“(11) The term ‘Indian housing authority’ means any entity that—
+
+&emsp;“(A) is authorized to engage in or assist in the development or operation of low-income housing for Indians; and
+
+&emsp;“(B) is established—
+
+&emsp;&emsp;“(i) by exercise of the power of self-government of an Indian tribe independent of State law; or
+
+&emsp;&emsp;“(ii) by operation of State law providing specifically for housing authorities for Indians, including regional housing authorities in the State of Alaska.
+
+“(12) The term ‘Indian tribe’ means any tribe, band, pueblo, group, community, or nation of Indians or Alaska Natives.”
 
 1994—Subsec. (b)(3)(B). Pub. L. 103–233 substituted “includes families with children and” for “means families with children”.
 
@@ -164,7 +194,7 @@ Subsec. (b)(4). Pub. L. 102–550, §103(a)(1), inserted “and any amounts whic
 
 Subsec. (b)(5)(B). Pub. L. 102–550, §625(a)(1), inserted “or disabled” after “elderly”.
 
-Subsec. (b)(5)(D). Pub. L. 102–550, §103(a)(2)(A), added subpar. (D) and struck out former subpar. (D) which read as follows: “(i) child care expenses to the extentnecessary to enable another member of the family to be employed or to further his or her education; or (ii) excessive travel expenses, not to exceed $25 per family per week, for employment or education related travel, except that this clause shall apply only to families assisted by Indian housing authorities;”.
+Subsec. (b)(5)(D). Pub. L. 102–550, §103(a)(2)(A), added subpar. (D) and struck out former subpar. (D) which read as follows: “(i) child care expenses to the extent necessary to enable another member of the family to be employed or to further his or her education; or (ii) excessive travel expenses, not to exceed $25 per family per week, for employment or education related travel, except that this clause shall apply only to families assisted by Indian housing authorities;”.
 
 Subsec. (b)(5)(G). Pub. L. 102–550, §103(a)(2)(B)–(D), added subpar. (G).
 
@@ -200,7 +230,7 @@ Subsec. (a)(2)(B). Pub. L. 101–235, §302(2), substituted “5-year limitation
 
 1988—Subsec. (a). Pub. L. 100–242, §102(a), designated existing provisions as par. (1), substituted “Except as provided in paragraph (2), a” for “A”, redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, and added par. (2).
 
-Subsec. (b)(3). Pub. L. 100–242, §170(c), in cl. (A), substituted “sixty-two years of age,” for “sixty-two years of age or”, and “, has a developmental disability as defined in section 6001(7) of this title” for “or in section 102 of the Developmental Disabilities Services and Facilities Construction Amendments of 1970”.
+Subsec. (b)(3). Pub. L. 100–242, §170(c), in cl. (A), substituted “sixty-two years of age,” for “sixty-two yearsof age or”, and “, has a developmental disability as defined in section 6001(7) of this title” for “or in section 102 of the Developmental Disabilities Services and Facilities Construction Amendments of 1970”.
 
 Pub. L. 100–242, §111, inserted provisions relating to determination of priority admission to public housing projects designed for elderly families.
 
@@ -234,15 +264,33 @@ Subsec. (b)(5). Pub. L. 98–181, §206(c), amended par. (5) generally, substitu
 
 1976—Par. (2). Pub. L. 94–375 struck out “and” before cl. (C), added cl. (D), and two provisos relating to the percentage of units to be occupied by single persons and the priority to be given to single persons who are elderly, handicapped, or displaced, following cl. (D).
 
+#### Effective and Termination Dates of 1996 Amendments
+
+Amendment by Pub. L. 104–330 effective Oct. 1, 1997, except as otherwise expressly provided, see section 107 of Pub. L. 104–330, set out as an Effective Date note under section 4101 of Title 25, Indians.
+
+Section 402(f) of Pub. L. 104–99, as amended by Pub. L. 104–204, title II, §201(c)(2), Sept. 26, 1996, 110 Stat. 2893, provided that: “This section \[amending this section, sections 1437d to 1437f, 1437n, 1437v, and 13615 of this title, and section 1701s of Title 12, Banks and Banking, enacting provisions set out as notes under this section and sections 1437 and 1437d of this title, and amending provisions set out as a note under section 1437f of this title\] shall be effective upon the enactment of this Act \[Jan. 26, 1996\] and only for fiscal years 1996 and 1997.”
+
 #### Effective Date of 1992 Amendment
 
-Section 103(a)(3) of title I of Pub. L. 102–550 provided that: “To the extent that the amendments made by paragraphs (1) and (2) \[amending this section\] result inadditional costs under this title \[see Tables for classification\], such amendments shall be effective only to the extent that amounts to cover such additional costs are provided in advance in appropriation Acts.”
+Section 103(a)(3) of title I of Pub. L. 102–550 provided that: “To the extent that the amendments made by paragraphs (1) and (2) \[amending this section\] result in additional costs under this title \[see Tables for classification\], such amendments shall be effective only to the extent that amounts to cover such additional costs are provided in advance in appropriation Acts.”
 
 Amendment by subtitles B through F of title VI \[§§621–685\] of Pub. L. 102–550 applicable upon expiration of 6-month period beginning Oct. 28, 1992, except as otherwise provided, see section 13642 of this title.
 
 #### Effective Date of 1990 Amendment
 
 Section 573(f) of Pub. L. 101–625 provided that: “The Secretary shall issue regulations implementing subsections (a) and (d) \[sic\] the amendments made by this section \[amending this section\] not later than the expiration of the 90-day period beginning on the date of the enactment of this Act \[Nov. 28, 1990\]. The regulations may not take effect until after September 30, 1991.”
+
+#### Effective Date of 1988 Amendment
+
+Section 6 of Pub. L. 100–358 provided that: “The Secretary of Housing and Urban Development may carry out programs to provide lower income housing on Indian reservations and other Indian areas only in accordance with the amendments made by this Act \[enacting sections 1437aa to 1437ee of this title, amending this section and section 1437c of this title, and enacting provisions set out as a note under section 1437 of this title\], commencing on whichever of the following occurs earlier:
+
+&emsp;“(1)
+
+Effective date of regulations.—The effective date of regulations issued under section 205 of the United States Housing Act of 1937 \[former section 1437ee of this title\].
+
+&emsp;“(2) 90
+
+days.—The expiration of the 90-day period beginning on the date of the enactment of this Act \[June 29, 1988\].”
 
 #### Effective Date of 1981 Amendment
 
@@ -263,6 +311,24 @@ Section effective on such date or dates as the Secretary of Housing and Urban De
 The Department of Housing and Urban Development adopted an interim rule, 24 CFR 860.409, Sept. 26, 1975, 40 F.R. 44326, which provided: “The effective date of section 3(1) of the United States Housing Act of 1937, as amended \[par. (1) of this section\], shall be the date that these regulations \[sections 860.401 to 860.409 of Title 24, CFR\] are published in the Federal Register (September 26, 1975).”
 
 #### Regulations
+
+Section 402(b)(2) of Pub. L. 104–99 provided that:
+
+“(A)
+
+In general.—The Secretary shall, by regulation, after notice and an opportunity for public comment, establish such requirements as may be necessary to carry out section 3(a)(2)(A) of the United States Housing Act of 1937 \[42 U.S.C. 1437a(a)(2)(A)\], as amended by paragraph (1).
+
+“(B)
+
+Transition rule.—Prior to the issuance of final regulations under paragraph (1), a public housing agency may implement ceiling rents, which shall be not less than the monthly costs to operate the housing of the agency and—
+
+&emsp;“(i) determined in accordance with section 3(a)(2)(A) of the United States Housing Act of 1937, as that section existed on the day before enactment of this Act \[Jan. 26, 1996\];
+
+&emsp;“(ii) equal to the 95th percentile of the rent paid for a unit of comparable size by tenants in the same public housing project or a group of comparable projects totaling 50 units or more; or
+
+&emsp;“(iii) equal to the fair market rent for the area in which the unit is located.”
+
+\[Section 402(b)(2) of Pub. L. 104–99, set out above, effective Jan. 26, 1996, and only for fiscal years 1996 and 1997, see Effective and Termination Dates of 1996 Amendments note above.\]
 
 Section 191 of title I of Pub. L. 102–550 provided that: “The Secretary of Housing and Urban Development shall issue any final regulations necessary to implement the provisions of this title \[see Tables for classification\] and the amendments made by this title not later than the expiration of the 180-day period beginning on the date of the enactment of this Act \[Oct. 28, 1992\], except as expressly provided otherwise in this title and the amendments made by this title. Such regulations shall be issued after notice and opportunity for public comment pursuant to the provisions of section 553 of title 5, United States Code (notwithstanding subsections (a)(2), (b)(B), and (d)(3) of such section).”
 
@@ -368,7 +434,7 @@ Section 206(d) of Pub. L. 98–181 provided that:
 
 “(7) The provisions of subsections (a) through (h) of section 322 of the Housing and Community Development Amendments of 1981 shall be implemented and fully applicable to all affected tenants no later than five years following the date of enactment of such amendments \[Aug. 13, 1981\], except that the Secretary may extend the time for implementation if the Secretary determines that full implementation would result in extraordinary hardship for any class of tenants.”
 
-Prior provisions for determining rent payable by tenants occupying assisted housing under and authorizing delayed application or staged implementation of provisions amended by section 322 of Pub. L. 97–35 were contained in Pub. L. 97–35, title III, §322(i), Aug. 13, 1981, 95 Stat. 404, which was repealed by Pub. L. 98–181, title II, §206(e), Nov. 30, 1983, 97 Stat. 1181.
+Prior provisions for determining rent payable by tenants occupying assisted housing under and authorizing delayed application or staged implementation of provisions amended by section 322 of Pub. L. 97–35 were contained in Pub. L. 97–35, title III, §322(i), Aug. 13, 1981, 95Stat. 404, which was repealed by Pub. L. 98–181, title II, §206(e), Nov. 30, 1983, 97 Stat. 1181.
 
 #### Establishment of Increased Monthly Rental Charge for Family Occupying Low-Income Housing Unit; Adjustment Factors
 
@@ -376,5 +442,5 @@ Section 202 of Pub. L. 93–383 provided that: “To the extent that section 3(1
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 256a, 503, 1437f, 1437<i>l</i>, 1437r, 1437s, 1437v, 1437w, 1437aaa–3, 1471, 1486, 3544, 4851b, 5305, 8011, 8012, 8013, 11386, 11395, 11403e–2, 11403g, 11481, 11903a, 12704, 12876, 12896, 12899d, 12899f, 12910, 13617, 13641 of this title; title 12 sections 1441a, 1701q, 1701u, 1701z–11, 1715z–1a, 1715z–1c, 1715z–9, 1715z–15, 1831q, 4112, 4125.
+This section is referred to in sections 254b, 503, 1436a, 1437f, 1437<i>l</i>, 1437r, 1437s, 1437v, 1437w, 1437aaa–3, 1471, 1486, 3544, 4851b, 5305, 8011, 8012, 8013, 11386, 11395, 11403e–2, 11403g, 11903a, 12704, 12876, 12896, 12899d, 12899f, 12910, 13617, 13641 of this title; title 12 sections 1441a, 1701q, 1701u, 1701z–11, 1715z–1a, 1715z–1c, 1715z–9, 1715z–15, 1831q, 4119, 4125.
 

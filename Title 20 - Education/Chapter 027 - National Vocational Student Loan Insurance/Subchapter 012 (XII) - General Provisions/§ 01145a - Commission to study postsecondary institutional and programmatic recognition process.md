@@ -20,7 +20,7 @@ The Commission shall be composed of 5 members appointed jointly by the President
 
 #### (d) Study of institutional and programmatic recognition process for eligibility determinations
 
-(1) The Commission shall conduct a thorough study of the institutional and programmatic recognition process used by the Department in determining institutional or programmatic eligibility for student participation in Federal student assistance programs under this chapter with attention being given to the accreditation of various types of public and private postsecondary institutions and programs.
+(1) The Commission shall conduct a thorough study of the institutional and programmatic recognition process used by the Department indetermining institutional or programmatic eligibility for student participation in Federal student assistance programs under this chapter with attention being given to the accreditation of various types of public and private postsecondary institutions and programs.
 
 (2) The study shall address, analyze, and report specifically on—
 
@@ -84,7 +84,7 @@ The Commission shall also prepare a report on—
 
 (1)(A) By agreement between the President pro tempore of the Senate and the Speaker of the House of Representatives, the Commission is authorized to secure on a reimbursable basis, office space, clerical personnel, travel expenses, and such supplies and equipment as may be necessary for the Commission to carry out the study.
 
-(B) Subject to such limitations as the President pro tempore of the Senate and the Speaker of the House of Representatives may jointly prescribe, the Commission may appoint such personnel as the Commission deems necessary and fix the compensation at an annual rate that does not exceed the rate of basic pay then payable for GS–18 of the General Schedule under section 5332 of title 5 and may procure by contract the temporary and intermittent services of clerical personnel and experts or consultants, or organizations thereof.
+(B) Subject to such limitations as the President pro tempore of the Senate and the Speakerof the House of Representatives may jointly prescribe, the Commission may appoint such personnel as the Commission deems necessary and fix the compensation at an annual rate that does not exceed the rate of basic pay then payable for GS–18 of the General Schedule under section 5332 of title 5 and may procure by contract the temporary and intermittent services of clerical personnel and experts or consultants, or organizations thereof.
 
 (2) In conducting the study authorized by this section, the Commission is authorized to—
 
@@ -120,7 +120,7 @@ A prior section 1145a, Pub. L. 89–329, title XII, §1206, as added Pub. L. 92�
 
 #### Change of Name
 
-Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Economic and Educational Opportunities of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Fifth Congress, Jan. 7, 1997.
 
 #### Termination of Advisory Commissions
 

@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-When not otherwise provided for by this title, the Secretary shall by regulations prescribe the place for the filing of any return, declaration, statement, or other document, or copies thereof, required by this title or by regulations.
+When not otherwise provided for by this title, the Secretary shall by regulations prescribe the place for the filing of any return, declaration,statement, or other document, or copies thereof, required by this title or by regulations.
 
 #### (b) Tax returns
 
@@ -116,7 +116,7 @@ Pub. L. 94–455, §§1051(h)(4), 1204(c)(3)(B), 1906(b)(13)(A), substituted “
 
 Subsec. (b)(4). Pub. L. 91–614, §101(i)(2), permitted the executor, who desires to file an estate tax return in person, to do so by hand carrying it to the appropriate internal revenue district office.
 
-1966—Subsec. (b)(1). Pub. L. 89–713, §1(a)(1), authorized the Secretary to promulgate regulations allowing individuals to file tax returns either in the internal revenue district in which the taxpayer's legal residence or principal place of business is located or at a service center serving that district, designated as subpar. (B)(1) the existing provisions which authorized the Secretary to prescribe the place without limitations as to theSecretary's range of alternative choices for the filing of returns of persons who have no legal residence or principal place of business in any internal revenue district, and added subpar. (B)(ii) to (iv).
+1966—Subsec. (b)(1). Pub. L. 89–713, §1(a)(1), authorized the Secretary to promulgate regulations allowing individuals to file tax returns either in the internal revenue district in which the taxpayer's legal residence or principal place of business is located or at a service center serving that district, designated as subpar. (B)(1) the existing provisions which authorized the Secretary to prescribe the place without limitations as to the Secretary's range of alternative choices for the filing of returns of persons who have no legal residence or principal place of business in any internal revenue district, and added subpar. (B)(ii) to (iv).
 
 Subsec. (b)(2). Pub. L. 89–713, §1(a)(1), authorized the Secretary to promulgate regulations allowing corporations to file tax returns either in the internal revenue district in which is located the principal place of business or principal office or agency of the corporation or at a service center serving that district, designated as subpar. (B)(i) the existing provisions which authorized the Secretary to prescribe the place without limitations as to the Secretary's range of alternative choices for the filing of returns of corporations having no principal place of business or principal office or agency of the corporation, and added subpar. (B)(ii), (iii).
 

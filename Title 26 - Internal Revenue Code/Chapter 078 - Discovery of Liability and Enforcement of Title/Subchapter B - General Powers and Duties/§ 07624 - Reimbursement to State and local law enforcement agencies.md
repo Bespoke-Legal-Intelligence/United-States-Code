@@ -2,7 +2,7 @@
 
 #### (a) Authorization of reimbursement
 
-Whenever a State or local law enforcement agency provides information to the Internal Revenue Service that substantially contributes to the recovery of Federal taxes imposed with respect to illegal drug-related activities (ormoney laundering in connection with such activities), such agency may be reimbursed by the Internal Revenue Service for costs incurred in the investigation (including but not limited to reasonable expenses, per diem, salary, and overtime) not to exceed 10 percent of the sum recovered.
+Whenever a State or local law enforcement agency provides information to the Internal Revenue Service that substantially contributes to the recovery of Federal taxes imposed with respect to illegal drug-related activities (or money laundering in connection with such activities), such agency may be reimbursed by the Internal Revenue Service for costs incurred in the investigation (including but not limited toreasonable expenses, per diem, salary, and overtime) not to exceed 10 percent of the sum recovered.
 
 #### (b) Records; 10 percent limitation
 

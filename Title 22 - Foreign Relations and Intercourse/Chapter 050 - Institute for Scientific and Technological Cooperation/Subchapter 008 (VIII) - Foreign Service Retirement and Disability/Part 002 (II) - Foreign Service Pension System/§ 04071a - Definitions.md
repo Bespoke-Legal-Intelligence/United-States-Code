@@ -34,7 +34,7 @@ As used in this part, unless otherwise specified—
 
 &emsp;&emsp;&emsp;(ii) the actuarial present value of future contributions to be made pursuant to section 4071f of this title;
 
-&emsp;&emsp;&emsp;(iii) the Fund balance as of the date the supplemental liability is determined, to the extent that such balance is attributable—
+&emsp;&emsp;&emsp;(iii) the Fund balance as of the date the supplemental liability is determined, tothe extent that such balance is attributable—
 
 &emsp;&emsp;&emsp;&emsp;(I) to the System, or
 

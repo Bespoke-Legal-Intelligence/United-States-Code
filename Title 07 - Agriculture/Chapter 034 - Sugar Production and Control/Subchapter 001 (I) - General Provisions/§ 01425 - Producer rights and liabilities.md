@@ -2,7 +2,7 @@
 
 #### (a) Liability for deficiencies
 
-Except as otherwise provided in section 1425a of this title, no producer shall be personally liable for any deficiency arising from the sale of the collateral securing any loan made under authority of this Act unless such loan was obtained through fraudulent representations by the producer. This provision shall not, however, be construed to prevent the Commodity Credit Corporation or the Secretary from requiring producers to assume liability for deficiencies in the grade, quality, or quantity of commodities stored on the farm or delivered by them, for failure properly to care for and preserve commodities, or for failure or refusal to deliver commodities in accordance with the requirements of the program. There is authorized to be included inthe terms and conditions of any such nonrecourse loan a provision whereby on and after the maturity of the loan or any extension thereof Commodity Credit Corporation shall have the right to acquire title to the unredeemed collateral without obligation to pay for any market value which such collateral may have in excess of the loan indebtedness.
+Except as otherwise provided in section 1425a of this title, no producer shall be personally liable for any deficiency arising from the sale of the collateral securing any loan made under authority of this Act unless such loan was obtained through fraudulent representations by the producer. This provision shall not, however, be construed to prevent the Commodity Credit Corporation or the Secretary from requiring producers to assume liability for deficiencies in the grade, quality, or quantity of commodities stored on the farm or delivered by them, for failure properly to care for and preserve commodities, or for failure or refusal to deliver commodities in accordance with the requirements of theprogram. There is authorized to be included in the terms and conditions of any such nonrecourse loan a provision whereby on and after the maturity of the loan or any extension thereof Commodity Credit Corporation shall have the right to acquire title to the unredeemed collateral without obligation to pay for any market value which such collateral may have in excess of the loan indebtedness.
 
 #### (b) Sugarcane and sugar beets
 
@@ -43,4 +43,8 @@ Section 1004 of Pub. L. 99–198 provided that the amendment made by that sectio
 #### Exceptions From Transfer of Functions
 
 Functions of Corporations of Department of Agriculture, boards of directors and officers of such corporations; Advisory Board of Commodity Credit Corporation; and Farm Credit Administration or any agency, officer, or entity of, under, or subject to supervision of said Administration excepted from functions of officers, agencies, and employees transferred to Secretary of Agriculture by 1953 Reorg. Plan No. 2, §1, effective June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
+
+#### Inapplicability of Section
+
+Section inapplicable to 1996 through 2002 crops of loan commodities, peanuts, and sugar and inapplicable to milk during period beginning Apr. 4, 1996, and ending Dec. 31, 2002, see section 7301(b)(1)(J) of this title.
 

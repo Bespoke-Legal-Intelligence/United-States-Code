@@ -68,7 +68,7 @@ Any permit issued under this section shall—
 
 (B) No permit issued for purposes of scientific research shall authorize the lethal taking of a marine mammal unless the applicant demonstrates that a nonlethal method of conducting the research is not feasible. The Secretary shall not issue a permit for research which involves the lethal taking of a marine mammal from a species or stock that is depleted, unless the Secretary determines that the results of such research will directly benefit that species or stock, or that such research fulfills a critically important research need.
 
-(C) Not later than 120 days after April 30, 1994, the Secretary shall issue a general authorization and implementing regulations allowing bona fide scientific research that may result only in taking by Level B harassment of a marine mammal. Such authorization shall apply topersons which submit, by 60 days before commencement of such research, a letter of intent via certified mail to the Secretary containing the following:
+(C) Not later than 120 days after April 30, 1994, the Secretary shall issue a general authorization and implementing regulations allowing bona fide scientific research that may result only in taking by Level B harassment of a marine mammal. Such authorization shall apply to persons which submit, by 60 days before commencement of such research, a letter of intent via certified mail to the Secretary containing the following:
 
 &emsp;(i) The species or stocks of marine mammals which may be harassed.
 
@@ -114,7 +114,7 @@ Any permit issued under this section shall—
 
 (ii) The Secretary shall not issue permits under this paragraph after September 30, 1996, if the Secretary determines, based on the scientific review, that the issuance of permits under this paragraph is having a significant adverse impact on the polar bear population stocks in Canada. The Secretary may review such determination annually thereafter, in light of the best scientific information available, and shall complete the review not later than January 31 in any year a review is undertaken. The Secretary may issue permits under this paragraph whenever the Secretary determines, on the basis of such annual review, that the issuance of permits under this paragraph is not having a significant adverse impact on the polar bear population stocks in Canada.
 
-(6) A permit may be issued for photography for educational or commercial purposes involving marine mammals in the wild only to an applicant which submits with its permit application information indicating that the taking will belimited to Level B harassment, and the manner in which the products of such activities will be made available to the public.
+(6) A permit may be issued for photography for educational or commercial purposes involving marine mammals in the wild only to an applicant which submits with its permit application information indicating that the taking will be limited to Level B harassment, and the manner in which the products of such activities will be made available to the public.
 
 (7) Upon request by a person for a permit under paragraph (2), (3), or (4) for a marine mammal which is in the possession of any person authorized to possess it under this chapter and which is determined under guidance under section 1421a(a) of this title not to be releasable to the wild, the Secretary shall issue the permit to the person requesting the permit if that person—
 
@@ -174,7 +174,7 @@ Any permit issued under this section shall—
 
 (5) As soon as practicable (but not later than thirty days) after the close of the hearing or, if no hearing is held, after the last day on which data, or views, may be submitted pursuant to paragraph (2) of this subsection, the Secretary shall (A) issue a permit containing such terms and conditions as he deems appropriate, or (B) shall deny issuance of a permit. Notice of the decision of the Secretary to issue or to deny any permit under this paragraph must be published in the Federal Register within ten days after the date of issuance or denial.
 
-(6) Any applicant for a permit, or any party opposed to such permit, may obtain judicial review of the terms and conditions of any permit issued by the Secretary under this section or of his refusal to issue such a permit. Such review, which shall be pursuant to chapter 7 of title 5, may be initiated by filing a petition for review in the United States district court for the district wherein the applicant for a permit resides, or has his principal place of business, or in theUnited States District Court for the District of Columbia, within sixty days after the date on which such permit is issued or denied.
+(6) Any applicant for a permit, or any party opposed to such permit, may obtain judicial review of the terms and conditions of any permit issued by the Secretary under this section or of his refusal to issue such a permit. Such review, which shall be pursuant to chapter 7 of title 5, may be initiated by filing a petition for review in the United States district court for the district wherein the applicant for a permit resides, or has his principal place of business, or in the United States District Court for the District of Columbia, within sixty days after the date on which such permit is issued or denied.
 
 #### (e) Modification, suspension, and revocation
 
@@ -254,7 +254,7 @@ The Secretary shall establish and charge a reasonable fee for permits issued und
 
 (C) For each year after 1984, the Secretary shall include in his annual report to the public and the Congress under section 1373(f) of this title a discussion of the proposed activities to be conducted each year as part of the monitoring program required by subparagraph (A).
 
-(D) There are authorized to be appropriated to the Department of Commerce for purposes of carrying out the monitoring program required under this paragraph not to exceed $4,000,000 for the period beginning October 1, 1984, and ending September 30, 1988.
+(D) There are authorized to be appropriated to the Department of Commerce for purposes of carrying out the monitoring program required under this paragraph not to exceed $4,000,000 forthe period beginning October 1, 1984, and ending September 30, 1988.
 
 (Pub. L. 92–522, title I, §104, Oct. 21, 1972, 86 Stat. 1034; Pub. L. 98–364, title I, §102, July 17, 1984, 98 Stat. 440; Pub. L. 100–711, §§4(d), 5(d), Nov. 23, 1988, 102 Stat. 4767, 4769; Pub. L. 103–238, §5(b), Apr. 30, 1994, 108 Stat. 537.)
 

@@ -154,7 +154,7 @@
 | (i) | Management plans. |
 | (j) | Changes in regulations. |
 | (k) | Changes in guidance document. |
-| (<i>l)</i> | Treatment of Department of Defense schools. |
+| (<i>l</i>) | Treatment of Department of Defense schools. |
 | (m) | Waiver. |
 | [2644\.](Subchapter%20002%20%28II%29%20-%20Asbestos%20Hazard%20Emergency%20Response/%C2%A7%2002644%20-%20Requirements%20if%20EPA%20fails%20to%20promulgate%20regulations.md) | Requirements if EPA fails to promulgate regulations. |
 | (a) | In general. |
@@ -309,7 +309,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in title 10 section 2704; title 42 sections 4365, 4852d, 6911a, 7412, 9604, 9621.
+This chapter is referred to in title 10 section 2704; title 21 section 346a; title 42 sections 4365, 4852d, 6911a, 7412, 9604, 9621.
 
 
 ---

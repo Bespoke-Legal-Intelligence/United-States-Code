@@ -12,7 +12,7 @@
 
 (b) No action described in subsection (a) with respect to the closure of, or a realignment with respect to, any military installation referred to in such subsection may be taken unless and until—
 
-&emsp;(1) the Secretary of Defense or the Secretary of the military department concerned notifies the Committees on Armed Services of the Senate and House of Representatives, as part of an annual request for authorization of appropriations to such Committees, of the proposed closing or realignment and submits with the notification an evaluation of the fiscal, local economic, budgetary, environmental, strategic, and operational consequences of such closure or realignment; and
+&emsp;(1) the Secretary of Defense or the Secretary of the military department concerned notifies the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives, as part of an annual request for authorization of appropriations to such Committees, of the proposed closing or realignment and submits with the notification an evaluation of the fiscal, local economic, budgetary, environmental, strategic, and operational consequences of such closure or realignment; and
 
 &emsp;(2) a period of 30 legislative days or 60 calendar days, whichever is longer, expires following the day on which the notice and evaluation referred to in clause (1) have been submitted to such committees, during which period no irrevocable action may be taken to effect or implement the decision.
 
@@ -32,9 +32,11 @@
 
 &emsp;(4) The term “legislative day” means a day on which either House of Congress is in session.
 
-(Added Pub. L. 95–82, title VI, §612(a), Aug. 1, 1977, 91 Stat. 379; amended Pub. L. 95–356, title VIII, §805, Sept. 8, 1978, 92 Stat. 586; Pub. L. 97–214, §10(a)(8), July 12, 1982, 96 Stat. 175; Pub. L. 98–525, title XIV, §1405(41), Oct. 19, 1984, 98 Stat. 2624; Pub. L. 99–145, title XII, §1202(a), Nov. 8, 1985, 99 Stat. 716; Pub. L. 100–180, div. A, title XII, §1231(17), Dec. 4, 1987, 101 Stat. 1161; Pub. L. 101–510, div. B, title XXIX, §2911, Nov. 5, 1990, 104 Stat. 1819.)
+(Added Pub. L. 95–82, title VI, §612(a), Aug. 1, 1977, 91 Stat. 379; amended Pub. L. 95–356, title VIII, §805, Sept. 8, 1978, 92 Stat. 586; Pub. L. 97–214, §10(a)(8), July 12, 1982, 96 Stat. 175; Pub. L. 98–525, title XIV, §1405(41), Oct. 19, 1984, 98 Stat. 2624; Pub. L. 99–145, title XII, §1202(a), Nov. 8, 1985, 99 Stat. 716; Pub. L. 100–180, div. A, title XII, §1231(17), Dec. 4, 1987, 101 Stat. 1161; Pub. L. 101–510, div. B, title XXIX, §2911, Nov. 5, 1990, 104 Stat. 1819; Pub. L. 104–106, div. A, title XV, §1502(a)(1), Feb. 10, 1996, 110 Stat. 502.)
 
 #### Amendments
+
+1996—Subsec. (b)(1). Pub. L. 104–106 substituted “Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives” for “Committees on Armed Services of the Senate and House of Representatives”.
 
 1990—Subsec. (e)(1). Pub. L. 101–510 inserted “homeport facility for any ship,” after “center,” and substituted “under the jurisdiction of the Department of Defense, including any leased facility,” for “under the jurisdiction of the Secretary of a military department”.
 
@@ -54,10 +56,6 @@ Subsec. (d)(1)(B). Pub. L. 98–525, §1405(41)(D), substituted “300” for �
 
 1978—Subsec. (d)(1)(B). Pub. L. 95–356 substituted “three hundred” for “five hundred”.
 
-#### Change of Name
-
-Committee on Armed Services of House of Representatives treated as referring to Committee on National Security of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
-
 #### Effective Date of 1985 Amendment
 
 Section 1202(b) of Pub. L. 99–145 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to closures and realignments completed on or after the date of the enactment of this Act \[Nov. 8, 1985\], except that any action taken to effect or implement any closure or realignment for which a public announcement was made pursuant to section 2687(b)(1) of title 10, United States Code, after April 1, 1985, and before the date of enactment of this Act shall be subject to the provisions of section 2687 of such title as in effect on the day before such date of enactment.”
@@ -76,7 +74,45 @@ Pub. L. 103–337, div. B, title XXVIII, §2813(d)(3), Oct. 5, 1994, 108 Stat. 3
 
 #### Effective Date of 1991 Amendments by Section 344 of Pub. L. 102–190
 
-Pub. L. 102–190, div. A, title III, §344(c), Dec. 5, 1991, 105 Stat. 1346, provided that: “The amendments made by this section \[amending provisions set out as notes below\] shall apply with regard to the transfer or disposal of any real property or facility pursuant to title II of the Defense Authorization Amendments and BaseClosure and Realignment Act \[Pub. L. 100–526, set out below\] or the Defense Base Closure and Realignment Act of 1990 \[part A of title XXIX of div. B of Pub. L. 101–510, set out below\] occurring on or after the date of the enactment of this Act \[Dec. 5, 1991\].”
+Pub. L. 102–190, div. A, title III, §344(c), Dec. 5, 1991, 105 Stat. 1346, provided that: “The amendments made by this section \[amending provisions set out as notes below\] shall apply with regard to the transfer or disposal of any real property or facility pursuant to title II of the Defense Authorization Amendments and Base Closure and Realignment Act \[Pub. L. 100–526, set out below\] or the Defense Base Closure and Realignment Act of 1990 \[part A of title XXIX of div. B of Pub. L. 101–510, set out below\] occurring on or after the date of the enactment of this Act \[Dec. 5, 1991\].”
+
+#### Retention of Civilian Employee Positions at Military Training Bases Transferred to National Guard
+
+Pub. L. 104–201, div. A, title XVI, §1602, Sept. 23, 1996, 110 Stat. 2734, provided that:
+
+“(a)
+
+Retention of Employee Positions.—In the case of a military training installation described in subsection (b), the Secretary of Defense shall retain civilian employee positions of the Department of Defense at the installation after transfer to the National Guard to facilitate active and reserve component training at the installation. The Secretary shall determine the extent to which positions at the installation are to be retained as positions of the Department of Defense in consultation with the Adjutant General of the National Guard of the State in which the installation is located.
+
+“(b)
+
+Military Training Installations Affected.—This section applies with respect to each military training installation that—
+
+&emsp;“(1) was approved for closure in 1995 under the Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of Public Law 101–510; 10 U.S.C. 2687 note);
+
+&emsp;“(2) is scheduled for transfer to National Guard operation and control; and
+
+&emsp;“(3) will continue to be used, after such transfer, to provide training support to active and reserve components of the Armed Forces.
+
+“(c)
+
+Maximum Positions Retained.—The number of civilian employee positions retained at an installation under this section may not exceed 20 percent of the Federal civilian workforce employed at the installation as of September 8, 1995.
+
+“(d)
+
+Removal of Position.—The requirement to maintain a civilian employee position at an installation under this section terminates upon the later of the following:
+
+&emsp;“(1) The date of the departure or retirement from that position by the civilian employee initially employed or retained in the position as a result of this section.
+
+&emsp;“(2) The date on which the Secretary certifies to Congress that the position is no longer required to ensure that effective support is provided at the installation for active and reserve component training.”
+
+#### Use of Funds To Improve Leased Property
+
+Section 2837(b) of Pub. L. 104–106 provided that: “Notwithstanding any other provision of law, a department or agency of the Federal Government that enters into a lease of property under section 2905(b)(4)(C) of the Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of Public Law 101–510; 10 U.S.C. 2687 note), as amended by subsection (a), may improve the leased property using funds appropriated or otherwise available to the department or agency for such purpose.”
+
+#### Regulations To Carry Out Section 204(e) of Pub. L. 100–526 and Section 2905(f) of Pub. L. 101–510
+
+Section 2840(c) of Pub. L. 104–106 provided that: “Not later than nine months after the date of the enactment of this Act \[Feb. 10, 1996\], the Secretary of Defense shall prescribe any regulations necessary to carry out subsection (e) of section 204 of the Defense Authorization Amendments and Base Closure and Realignment Act (Public Law 100–526; 10 U.S.C. 2687 note), as added by subsection (a), and subsection (f) of section 2905 of the Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of Public Law 101–510; 10 U.S.C. 2687 note), as added by subsection (b).”
 
 #### Prohibition on Obligation of Funds for Projects on Installations Cited for Realignment
 
@@ -90,7 +126,7 @@ Pub. L. 104–6, title I, §112, Apr. 10, 1995, 109 Stat. 82, provided that: “
 
 #### Applicability to Installations Approved for Closure Before Enactment of Pub. L. 103–421
 
-Pub. L. 103–421, §2(e), Oct. 25, 1994, 108 Stat. 4352, provided that:
+Pub. L. 103–421, §2(e), Oct. 25, 1994, 108 Stat. 4352, as amended by Pub. L. 104–106, div. A, title XV, §1505(f), Feb. 10, 1996, 110 Stat. 515, provided that:
 
 “(1)(A) Notwithstanding any provision of the 1988 base closure Act or the 1990 base closure Act, as such provision was in effect on the day before the date of the enactment of this Act \[Oct. 25, 1994\], and subject to subparagraphs (B) and (C), the use to assist the homeless of building and property at military installations approved for closure under the 1988 base closure Act or the 1990 base closure Act, as the case may be, before such date shall be determined in accordance with the provisions of paragraph (7) of section 2905(b) of the 1990 base closure Act, as amended by subsection (a), in lieu of the provisions of the 1988 base closure Act or the 1990 base closure Act that would otherwise apply to the installations.
 
@@ -112,7 +148,7 @@ Pub. L. 103–421, §2(e), Oct. 25, 1994, 108 Stat. 4352, provided that:
 
 “(iii) Upon receipt of a notice with respect to an installation under this subparagraph, the Secretary of Health and Human Services shall notify each representative of the homeless that submitted to that Secretary an application to use buildings or property at the installation to assist the homeless under the 1988 base closure Act or the 1990 base closure Act, as the case may be, that the use of buildings and property at the installation to assist the homeless shall be determined under such paragraph (7) in accordance with this subsection.
 
-“(5)(A) In preparing a redevelopment plan for buildings and property at an installation covered by such paragraph (7) by reason of this subsection, the redevelopment authority concerned shall—
+“(5) In preparing a redevelopment plan for buildings and property at an installation covered by such paragraph (7) by reason of this subsection, the redevelopment authority concerned shall—
 
 &emsp;“(A) consider and address specifically any applications for use of such buildings and property to assist the homeless that were received by the Secretary of Health and Human Services under the 1988 base closure Act or the 1990 base closure Act, as the case may be, before the date of the enactment of this Act \[Oct. 25, 1994\] and are pending with that Secretary on that date; and
 
@@ -124,9 +160,9 @@ Pub. L. 103–421, §2(e), Oct. 25, 1994, 108 Stat. 4352, provided that:
 
 &emsp;&emsp;“(iii) services and activities that meet the needs identified in the application; or
 
-&emsp;&emsp;“(iv) a combination of the properties, funding, and services and activities described in clause\[s\] (i), (ii), and (iii).
+&emsp;&emsp;“(iv) a combination of the properties, funding, and services and activities described in clauses (i), (ii), and (iii).
 
-“(6) In the case of an installation to which the provisions of such paragraph (7) apply by reason of this subsection, the date specified by the redevelopment authority for the installation under subparagraph (D) of such paragraph (7) shall be not less than 1 month and not more than 6 months after the date of the submittalof the request with respect to the installation under paragraph (1)(B).
+“(6) In the case of an installation to which the provisions of such paragraph (7) apply by reason of this subsection, the date specified by the redevelopment authority for the installation under subparagraph (D) of such paragraph (7) shall be not less than 1 month and not more than 6 months after the date of the submittal of the request with respect to the installation under paragraph (1)(B).
 
 “(7) For purposes of this subsection:
 
@@ -140,7 +176,7 @@ Pub. L. 103–337, div. A, title VIII, §817, Oct. 5, 1994, 108 Stat. 2820, prov
 
 “(a)
 
-Preference Allowed.—In entering into contracts with private entities for services to be performed at a military installation that is affected by closure or alignment under a base closure law, the Secretary of Defense may give preference, consistent with Federal, State, and local laws and regulations, to entities that plan to hire, to the maximum extent practicable, residents of the vicinity of such military installation to perform such contracts. Contracts for which the preference may be given include contracts to carry out environmental restoration activities or construction work at such military installations. Any such preference may be given for a contract only if the services to be performed under the contract at the military installation concerned can be carried out in a manner that is consistent with all other actions at the installation that the Secretary is legally required to undertake.
+Preference Allowed.—In entering into contracts with private entities for services to be performed at a military installation that is affected by closure or alignment under a base closure law, the Secretary of Defense may give preference, consistent with Federal, State, and local laws and regulations, to entities thatplan to hire, to the maximum extent practicable, residents of the vicinity of such military installation to perform such contracts. Contracts for which the preference may be given include contracts to carry out environmental restoration activities or construction work at such military installations. Any such preference may be given for a contract only if the services to be performed under the contract at the military installation concerned can be carried out in a manner that is consistent with all other actions at the installation that the Secretary is legally required to undertake.
 
 “(b)
 
@@ -216,7 +252,7 @@ Consideration of Economic Needs.—In order to maximize the local and regional b
 
 Cooperation.—The Secretary of Defense shall cooperate with the State in which a military installation referred to in subsection (c) is located, with the redevelopment authority with respect to the installation, and with local governments and other interested persons in communities located near the installation in implementing the entire process of disposal of the real property and personal property at the installation.”
 
-#### Regulations To Carry Out Section 204(d) of Pub. L. 100–526 and Section 2905(e) of Pub. L. 101–510
+#### Regulations To Carry Out Section 204 of Pub. L. 100–526 and Section 2905 of Pub. L. 101–510
 
 Pub. L. 103–160, div. B, title XXIX, §2908(c), Nov. 30, 1993, 107 Stat. 1924, provided that: “Not later than nine months after the date of the enactment of this Act \[Nov. 30, 1993\], the Secretary of Defense, in consultation with the Administrator of the Environmental Protection Agency, shall prescribe any regulations necessary to carry out subsection (d) of section 204 of the Defense Authorization Amendments and Base Closure and Realignment Act (title II of Public Law 100–526; 10 U.S.C. 2687 note), as added by subsection (a), and subsection (e) of section 2905 of the Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of Public Law 101–510; 10 U.S.C. 2687 note), as added by subsection (b).”
 
@@ -280,7 +316,7 @@ Responsibilities.—A transition coordinator designated with respect to an insta
 
 &emsp;“(9) assist the Secretary of the military department concerned in identifying property located at the installation that may be leased in a manner consistent with the redevelopment plan for the installation; and
 
-&emsp;“(10) assist the Secretary of Defense in identifying real property or personal property at the installationthat may be utilized to meet the needs of the homeless by consulting with the Secretary of Housing and Urban Development and the local lead agency of the homeless, if any, referred to in section 210(b) of the Stewart B. McKinney Homeless Assistance Act (42 U.S.C. 11320(b)) for the State in which the installation is located.”
+&emsp;“(10) assist the Secretary of Defense in identifying real property or personal property at the installation that may be utilized to meet the needs of the homeless by consulting with the Secretary of Housing and Urban Development and the local lead agency of the homeless, if any, referred to in section 210(b) of the Stewart B. McKinney Homeless Assistance Act (42 U.S.C. 11320(b)) for the State in which the installation is located.”
 
 #### Definitions for Subtitle A of Title XXIX of Pub. L. 103–160
 
@@ -304,7 +340,7 @@ Pub. L. 103–160, div. B, title XXIX, §2918(a), Nov. 30, 1993, 107 Stat. 1927,
 
 #### Limitation on Expenditures From Defense Base Closure Account 1990 for Military Construction in Support of Transfers of Functions
 
-Pub. L. 103–160, div. B, title XXIX, §2922, Nov. 30, 1993, 107 Stat. 1930, provided that:
+Pub. L. 103–160, div. B, title XXIX, §2922, Nov. 30, 1993, 107 Stat. 1930, as amended by Pub. L. 104–106, div. A, title XV, §1502(c)(1), Feb. 10, 1996, 110 Stat. 506, provided that:
 
 “(a)
 
@@ -312,7 +348,7 @@ Limitation.—If the Secretary of Defense recommends to the Defense Base Closure
 
 “(b)
 
-Exception.—The limitation in subsection (a) ceases to be applicable to military construction in support of the transfer of a function to an installation on the 60th day following the date on which the Secretary submits to the Committees on Armed Services of the Senate and House of Representatives \[now Committee on Armed Services of the Senate and Committee on National Security of the House of Representatives\] a notification of the proposed transfer that—
+Exception.—The limitation in subsection (a) ceases to be applicable to military construction in support of the transfer of a function to an installation on the 60th day following the date on which the Secretary submits to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives a notification of the proposed transfer that—
 
 &emsp;“(1) identifies the installation to which the function is to be transferred; and
 
@@ -328,7 +364,7 @@ Definitions.—In this section:
 
 #### Sense of Congress on Development of Base Closure Criteria
 
-Pub. L. 103–160, div. B, title XXIX, §2925, Nov. 30, 1993, 107 Stat. 1932, provided that:
+Pub. L. 103–160, div. B, title XXIX, §2925, Nov. 30, 1993, 107 Stat. 1932, as amended by Pub. L. 104–106, div. A, title XV, §1502(c)(1), Feb. 10, 1996, 110 Stat. 506, provided that:
 
 “(a)
 
@@ -336,7 +372,7 @@ Sense of Congress.—It is the sense of Congress that the Secretary of Defense c
 
 “(b)
 
-Report on Amendment.—(1) The Secretary shall submit to the Committees on Armed Services of the Senate and House of Representatives \[now Committee on Armed Services of the Senate and Committee on National Security of the House of Representatives\] a report on any amended criteria developed by the Secretary under section 2903(b)(2)(B) of the Defense Base Closure and Realignment Act of 1990 after the date of the enactment of this Act \[Nov. 30, 1993\]. Such report shall include a discussion of the amended criteria and include a justification for any decision not to propose a criterion regarding the direct costs of base closures and realignments to other Federal agencies and departments.
+Report on Amendment.—(1) The Secretary shall submit to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives a report on any amended criteria developed by the Secretary under section 2903(b)(2)(B) of the Defense Base Closure and Realignment Act of 1990 after the date of the enactment of this Act \[Nov. 30, 1993\]. Such report shall include a discussion of the amended criteria and include a justification for any decision not to propose a criterion regarding the direct costs of base closures and realignments to other Federal agencies and departments.
 
 “(2) The Secretary shall submit the report upon publication of the amended criteria in accordance with section 2903(b)(2)(B) of the Defense Base Closure and Realignment Act of 1990.”
 
@@ -426,57 +462,7 @@ Report on Contract.—Not later than one year after the date on which the Secret
 
 #### Environmental Restoration Requirements at Military Installations To Be Closed
 
-Pub. L. 102–190, div. A, title III, §334, Dec. 5, 1991, 105 Stat. 1340, provided that:
-
-“(a)
-
-Requirements for Installations To Be Closed Under 1989
-
-Base Closure List.—(1) All draft final remedial investigations and feasibility studies related to environmental restoration activities at each military installation described in paragraph (2) shall be submitted to the Environmental Protection Agency not later than 24 months after the date of the enactment of this Act \[Dec. 5, 1991\].
-
-“(2) Paragraph (1) applies to each military installation—
-
-&emsp;“(A) which is to be closed pursuant to title II of the Defense Authorization Amendments and Base Closure and Realignment Act (Public Law 100–526; 10 U.S.C. 2687 note); and
-
-&emsp;“(B) which is on the National Priorities List under the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9601 et seq.).
-
-“(b)
-
-Requirements for Installations To Be Closed Under 1991
-
-Base Closure List.—(1) All draft final remedial investigations and feasibility studies related to environmental restoration activities at each military installation described in paragraph (2) shall be submitted to the Environmental Protection Agency not later than 36 months after the date of the enactment of this Act \[Dec. 5, 1991\].
-
-“(2) Paragraph (1) applies to each military installation—
-
-&emsp;“(A) which is to be closed pursuant to the Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of Public Law 101–510) \[set out below\] as a result of being recommended for closure in the reporttransmitted to Congress by the President pursuant to section 2903(e) of such Act on or before September 1, 1991, and
-
-&emsp;“(B) which is on the National Priorities List under the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9601 et seq.).
-
-“(c)
-
-Deadline Extension.—(1) Subject to paragraph (2), the Secretary of Defense, after consultation with the Administrator of the Environmental Protection Agency, may extend for a 6-month period the period of time in which the requirements of subsection (a) or (b) must be met with respect to a military installation covered by subsection (a) or (b) if, within the scope of the Federal Facility Agreement governing cleanup at the installation, any of the following conditions exists at the installation:
-
-&emsp;“(A) There are newly discovered sites or areas on the installation where a hazardous substance has been released, stored, or disposed of. For purposes of this subparagraph, the term ‘newly discovered’ means discovered after the expiration of the 6-month period beginning on the date of enactment of this Act \[Dec. 5, 1991\].
-
-&emsp;“(B) There are technical engineering difficulties in carrying out the investigations and studies.
-
-&emsp;“(C) Expediting the investigations and studies would constitute a substantial endangerment to the public health and the environment.
-
-&emsp;“(D) Adequate funds have not been appropriated to the Department of Defense, or adequate resources are not available to any party to the Federal Facility Agreement, to carry out or oversee the investigations and studies by the applicable deadline.
-
-“(2)(A) An extension under paragraph (1) shall take effect if—
-
-&emsp;“(i) the Secretary of Defense submits to Congress a notification containing a certification that, to the best of the Secretary's knowledge and belief, the requirements of subsection (a) or (b) cannot be met with respect to the military installation by the applicable deadline because one of the conditions set forth in paragraph (1) exists; and
-
-&emsp;“(ii) a period of 30 calendar days after receipt by Congress of such notice has elapsed.
-
-“(B) In the computation of the 30-day period under subparagraph (A)(ii), there shall be excluded each day on which either House of Congress is not in session because of an adjournment of more than 3 calendar days to a day certain.
-
-“(3) The Secretary may grant more than one 6-month extension for a military installation under paragraph (1), but each such extension is subject to paragraphs (1) and (2).
-
-“(d)
-
-Budget Estimate.—Each year the President shall include, in the budget submitted to Congress for a fiscal year (pursuant to section 1105 of title 31, United States Code), an estimate of the funding levels required for the Department of Defense to comply with this section during the fiscal year for which the budget is submitted.”
+Pub. L. 102–190, div. A, title III, §334, Dec. 5, 1991, 105 Stat. 1340, prescribed requirements for certain installations to be closed under 1989 or 1991 base closure lists by requiring that all draft final remedial investigations and feasibility studies related to environmental restoration activities at each such military installation be submitted to Environmental Protection Agency not later than 24 months after Dec. 5, 1991, for bases on 1989 closure list and not later than 36 months after such date for bases on 1991 closure list, prior to repeal by Pub. L. 104–201, div. A, title III, §328, Sept. 23, 1996, 110 Stat. 2483.
 
 #### Withholding Information From Congress or Comptroller General
 
@@ -540,11 +526,7 @@ Depository Institution Defined.—For purposes of this section, the term ‘depo
 
 #### Report on Environmental Restoration Costs for Installations To Be Closed Under 1990 Base Closure Law
 
-Pub. L. 102–190, div. B, title XXVIII, §2827(b), Dec. 5, 1991, 105 Stat. 1551, provided that:
-
-“(1) Each year, at the same time the President submits to Congress the budget for a fiscal year (pursuant to section 1105 of title 31, United States Code), the Secretary of Defense shall submit to Congress a report on the funding needed for the fiscal year for which the budget is submitted, and for each of the following four fiscal years, for environmental restoration activities at each military installation described in paragraph (2), set forth separately by fiscal year for each military installation.
-
-“(2) The report required under paragraph (1) shall cover each military installation which is to be closed pursuant to the Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of Public Law 101–510) \[set out below\].”
+Pub. L. 102–190, div. B, title XXVIII, §2827(b), Dec. 5, 1991, 105 Stat. 1551, directed the Secretary of Defense to submit an annual report to Congress on the funding needed for environmental restoration activities at certain designated military installations for the fiscal year for which a budget was submitted and for each of the four following fiscal years, prior to repeal by Pub. L. 104–106, div. A, title X, §1061(m), Feb. 10, 1996, 110 Stat. 443.
 
 #### Sense of Congress Regarding Joint Resolution of Disapproval of 1991 Base Closure Commission Recommendation
 
@@ -564,7 +546,7 @@ Pub. L. 101–511, title VIII, §8081, Nov. 5, 1990, 104 Stat. 1894.
 
 #### Defense Base Closure and Realignment Commission
 
-Part A of title XXIX of div. B of Pub. L. 101–510, as amended by Pub. L. 102–190, div. A, title III, §344(b)(1), div. B, title XXVIII, §§2821(a)–(h)(1), 2827(a)(1), (2), Dec. 5, 1991, 105 Stat. 1345, 1544–1546, 1551; Pub. L. 102–484, div. A, title X, §1054(b), div. B, title XXVIII, §§2821(b), 2823, Oct. 23, 1992, 106 Stat. 2502, 2607, 2608; Pub. L. 103–160, div. B, title XXIX, §§2902(b), 2903(b), 2904(b), 2905(b), 2907(b), 2908(b), 2918(c), 2921(b), (c), 2923, 2926, 2930(a), Nov. 30, 1993, 107 Stat. 1911, 1914, 1916, 1918, 1921, 1923, 1928–1930, 1932, 1935; Pub. L. 103–337, div. A, title X, §1070(b)(15), (d)(2), div. B, title XXVIII, §§2811, 2812(b), 2813(c)(2), (d)(2), (e)(2), Oct. 5, 1994, 108 Stat. 2857, 2858, 3053–3056; Pub. L. 103–421, §2(a)–(c), (f)(2), Oct. 25, 1994, 108 Stat. 4346–4352, 4354, provided that:
+Part A of title XXIX of div. B of Pub. L. 101–510, as amended by Pub. L. 102–190, div. A, title III, §344(b)(1), div. B, title XXVIII, §§2821(a)–(h)(1), 2827(a)(1), (2), Dec. 5, 1991, 105 Stat. 1345, 1544–1546, 1551; Pub. L. 102–484, div. A, title X, §1054(b), div. B, title XXVIII, §§2821(b), 2823, Oct. 23, 1992, 106 Stat. 2502, 2607, 2608; Pub. L. 103–160, div. B, title XXIX, §§2902(b), 2903(b), 2904(b), 2905(b), 2907(b), 2908(b), 2918(c), 2921(b), (c), 2923, 2926, 2930(a), Nov. 30, 1993, 107 Stat. 1911, 1914, 1916, 1918, 1921, 1923, 1928–1930, 1932, 1935; Pub. L. 103–337, div. A, title X, §1070(b)(15), (d)(2), div. B, title XXVIII, §§2811, 2812(b), 2813(c)(2), (d)(2), (e)(2), Oct. 5, 1994, 108 Stat. 2857, 2858, 3053–3056; Pub. L. 103–421, §2(a)–(c), (f)(2), Oct. 25, 1994, 108 Stat. 4346–4352, 4354; Pub. L. 104–106, div. A, title XV, §§1502(d), 1504(a)(9), 1505(e)(1), div. B, title XXVIII, §§2831(b)(2), 2835, 2836, 2837(a), 2838, 2839(b), 2840(b), Feb. 10, 1996, 110 Stat. 508, 513, 514, 558, 560, 561, 564, 565; Pub. L. 104–201, div. B, title XXVIII, §§2812(b), 2813(b), Sept. 23, 1996, 110 Stat. 2789, provided that:
 
 #### “SEC. 2901. SHORT TITLE AND PURPOSE
 
@@ -628,7 +610,7 @@ Meetings.—(1) The Commission shall meet only during calendar years 1991, 1993,
 
 &emsp;“(i) The Chairman and the ranking minority party member of the Subcommittee on Readiness, Sustainability, and Support of the Committee on Armed Services of the Senate, or such other members of the Subcommittee designated by such Chairman or ranking minority party member.
 
-&emsp;“(ii) The Chairman and the ranking minority party member of the Subcommittee on Military Installations and Facilities of the Committee on Armed Services \[now Committee on National Security\] of the House of Representatives, or such other members of the Subcommittee designated by such Chairman or ranking minority party member.
+&emsp;“(ii) The Chairman and the ranking minority party member of the Subcommittee on Military Installations and Facilities of the Committee on National Security of the House of Representatives, or such other members of the Subcommittee designated by such Chairman or ranking minority party member.
 
 &emsp;“(iii) The Chairmen and ranking minority party members of the Subcommittees on Military Construction of the Committees on Appropriations of the Senate and of the House of Representatives, or such other members of the Subcommittees designated by such Chairmen or ranking minority party members.
 
@@ -696,7 +678,11 @@ Funding.—(1) There are authorized to be appropriated to the Commission such fu
 
 “(2) If no funds are appropriated to the Commission by the end of the second session of the 101st Congress, the Secretary of Defense may transfer, for fiscal year 1991, to the Commission funds from the Department of Defense Base Closure Account established by section 207 of Public Law 100–526 \[set out below\]. Such funds shall remain available until expended.
 
-“(<i>l)</i>
+“(3)(A) The Secretary may transfer not more than $300,000 from unobligated funds in the account referred to in subparagraph (B) for the purpose of assisting the Commission in carrying out its duties under this part during October, November, and December 1995. Funds transferred under the preceding sentence shall remain available until December 31, 1995.
+
+“(B) The account referred to in subparagraph (A) is the Department of Defense Base Closure Account established under section 207(a) of the Defense Authorization Amendments and Base Closure and Realignment Act (Public Law 100–526; 10 U.S.C. 2687 note).
+
+“(<i>l</i>)
 
 Termination.—The Commission shall terminate on December 31, 1995.
 
@@ -746,7 +732,7 @@ DOD Recommendations.—(1) The Secretary may, by no later than April 15, 1991, M
 
 “(4) In addition to making all information used by the Secretary to prepare the recommendations under this subsection available to Congress (including any committee or member of Congress), the Secretary shall also make such information available to the Commission and the Comptroller General of the United States.
 
-“(5)(A) Each person referred to in subparagraph (B), when submitting information to the Secretary of Defense or the Commission concerning the closure or realignment of a military installation, shall certify that such information is accurate and complete to the best of that person's knowledge and belief.
+“(5)(A) Each person referred to in subparagraph (B), when submitting information to the Secretary of Defense or the Commission concerning the closure or realignment of a military installation, shall certify thatsuch information is accurate and complete to the best of that person's knowledge and belief.
 
 “(B) Subparagraph (A) applies to the following persons:
 
@@ -854,7 +840,7 @@ In General.—(1) In closing or realigning any military installation under this 
 
 &emsp;“(E) reimburse other Federal agencies for actions performed at the request of the Secretary with respect to any such closure or realignment, and may use for such purpose funds in the Account or funds appropriated to the Department of Defense and available for such purpose.
 
-“(2) In carrying out any closure or realignment under this part, the Secretary shall ensure that environmental restoration of any property made excess to the needs of the Department of Defense as a result of suchclosure or realignment be carried out as soon as possible with funds available for such purpose.
+“(2) In carrying out any closure or realignment under this part, the Secretary shall ensure that environmental restoration of any property made excess to the needs of the Department of Defense as a result of such closure or realignment be carried out as soon as possible with funds available for such purpose.
 
 “(b)
 
@@ -864,23 +850,25 @@ Management and Disposal of Property.—(1) The Administrator of General Services
 
 &emsp;“(B) the authority of the Administrator to dispose of surplus property under section 203 of that Act (40 U.S.C. 484);
 
-&emsp;“(C) the authority of the Administrator to grant approvals and make determinations under section 13(g) of the Surplus Property Act of 1944 (50 U.S.C. App. 1622(g)); and
+&emsp;“(C) the authority to dispose of surplus property for public airports under sections 47151 through 47153 of title 49, United States Code; and
 
 &emsp;“(D) the authority of the Administrator to determine the availability of excess or surplus real property for wildlife conservation purposes in accordance with the Act of May 19, 1948 (16 U.S.C. 667b).
 
-“(2)(A) Subject to subparagraph (C) and paragraphs (3), (4), (5), and (6), the Secretary of Defense shall exercise the authority delegated to the Secretary pursuant to paragraph (1) in accordance with—
+“(2)(A) Subject to subparagraph (B) and paragraphs (3), (4), (5), and (6), the Secretary of Defense shall exercise the authority delegated to the Secretary pursuant to paragraph (1) in accordance with—
 
-&emsp;“(i) all regulations in effect on the date of the enactment of this Act \[Nov. 5, 1990\] governing the utilization of excess property and the disposal of surplus property under the Federal Property and Administrative Services Act of 1949 \[40 U.S.C. 471 et seq.\]; and
+&emsp;“(i) all regulations governing the utilization of excess property and the disposal of surplus property under the Federal Property and Administrative Services Act of 1949 \[40 U.S.C. 471 et seq.\]; and
 
-&emsp;“(ii) all regulations in effect on the date of the enactment of this Act governing the conveyance and disposal of property under section 13(g) of the Surplus Property Act of 1944 (50 U.S.C. App. 1622(g)).
+&emsp;“(ii) all regulations governing the conveyance and disposal of property under section 13(g) of the Surplus Property Act of 1944 (50 U.S.C. App. 1622(g)).
 
-“(B) The Secretary, after consulting with the Administrator of General Services, may issue regulations that are necessary to carry out the delegation of authority required by paragraph (1).
+“(B) The Secretary may, with the concurrence of the Administrator of General Services—
 
-“(C) The authority required to be delegated by paragraph (1) to the Secretary by the Administrator of General Services shall not include the authority to prescribe general policies and methods for utilizing excess property and disposing of surplus property.
+&emsp;“(i) prescribe general policies and methods for utilizing excess property and disposing of surplus property pursuant to the authority delegated under paragraph (1); and
 
-“(D) The Secretary of Defense may transfer real property or facilities located at a military installation to be closed or realigned under this part, with or without reimbursement, to a military department or other entity (including a nonappropriated fund instrumentality) within the Department of Defense or the Coast Guard.
+&emsp;“(ii) issue regulations relating to such policies and methods, which shall supersede the regulations referred to in subparagraph (A) with respect to that authority.
 
-“(E) Before any action may be taken with respect to the disposal of any surplus real property or facility located at any military installation to be closed or realigned under this part, the Secretary of Defense shall consult with the Governor of the State and the heads of the local governments concerned for the purpose of considering any plan for the use of such property by the local community concerned.
+“(C) The Secretary of Defense may transfer real property or facilities located at a military installation to be closed or realigned under this part, with or without reimbursement, to a military department or other entity (including a nonappropriated fund instrumentality) within the Department of Defense or the Coast Guard.
+
+“(D) Before any action may be taken with respect to the disposal of any surplus real property or facility located at any military installation to be closed or realigned under this part, the Secretary of Defense shall consult with the Governor of the State and the heads of the local governments concerned for the purpose of considering any plan for the use of such property by the local community concerned.
 
 “(3)(A) Not later than 6 months after the date of approval of the closure of a military installation under this part, the Secretary, in consultation with the redevelopment authority with respect to the installation, shall—
 
@@ -930,23 +918,31 @@ Management and Disposal of Property.—(1) The Administrator of General Services
 
 “(B)(i)(I) Except as provided in clause (ii), the transfer of property under subparagraph (A) may be for consideration at or below the estimated fair market value of the property transferred or without consideration. Such consideration may include consideration in kind (including goods and services), real property and improvements, or such other consideration as the Secretary considers appropriate. The Secretary shall determine the estimated fair market value of the property to be transferred under this subparagraph before carrying out such transfer.
 
-“(II) The Secretary shall prescribe regulations that set forth guidelines for determining the amount, if any,of consideration required for a transfer under this paragraph. Such regulations shall include a requirement that, in the case of each transfer under this paragraph for consideration below the estimated fair market value of the property transferred, the Secretary provide an explanation why the transfer is not for the estimated fair market value of the property transferred (including an explanation why the transfer cannot be carried out in accordance with the authority provided to the Secretary pursuant to paragraph (1) or (2)).
+“(II) The Secretary shall prescribe regulations that set forth guidelines for determining the amount, if any, of consideration required for a transfer under this paragraph. Such regulations shall include a requirement that, in the case of each transfer under this paragraph for consideration below the estimated fair market value of the property transferred, the Secretary provide an explanation why the transfer is not for the estimated fair market value of the property transferred (including an explanation why the transfer cannot be carried out in accordance with the authority provided to the Secretary pursuant to paragraph (1) or (2)).
 
 “(ii) The transfer of property under subparagraph (A) shall be without consideration in the case of any installation located in a rural area whose closure under this part will have a substantial adverse impact (as determined by the Secretary) on the economy of the communities in the vicinity of the installation and on the prospect for the economic recovery of such communities from such closure. The Secretary shall prescribe in the regulations under clause (i)(II) the manner of determining whether communities are eligible for the transfer of property under this clause.
 
 “(iii) In the case of a transfer under subparagraph (A) for consideration below the fair market value of the property transferred, the Secretary may recoup from the transferee of such property such portion as the Secretary determines appropriate of the amount, if any, by which the sale or lease of such property by such transferee exceeds the amount of consideration paid to the Secretary for such property by such transferee. The Secretary shall prescribe regulations for determining the amount of recoupment under this clause.
 
-“(C)(i) The transfer of personal property under subparagraph (A) shall not be subject to the provisions of sections 202 and 203 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 483, 484) if the Secretary determines that the transfer of such property is necessary for the effective implementation of a redevelopment plan with respect to the installation at which such property is located.
+“(C)(i) The Secretary may transfer real property at an installation approved for closure or realignment under this part (including property at an installation approved for realignment which will be retained by the Department of Defense or another Federal agency after realignment) to the redevelopment authority for the installation if the redevelopment authority agrees to lease, directly upon transfer, one or more portions of the property transferred under this subparagraph to the Secretary or to the head of another department or agency of the Federal Government. Subparagraph (B) shall apply to a transfer under this subparagraph.
+
+“(ii) A lease under clause (i) shall be for a term of not to exceed 50 years, but may provide for options for renewal or extension of the term by the department or agency concerned.
+
+“(iii) A lease under clause (i) may not require rental payments by the United States.
+
+“(iv) A lease under clause (i) shall include a provision specifying that if the department or agency concerned ceases requiring the use of the leased property before the expiration of the term of the lease, the remainder of the lease term may be satisfied by the same or another department or agency of the Federal Government using the property for a use similar to the use under the lease. Exercise of the authority provided by this clause shall be made in consultation with the redevelopment authority concerned.
+
+“(D)(i) The transfer of personal property under subparagraph (A) shall not be subject to the provisions of sections 202 and 203 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 483, 484) if the Secretary determines that the transfer of such property is necessary for the effective implementation of a redevelopment plan with respect to the installation at which such property is located.
 
 “(ii) The Secretary may, in lieu of the transfer of property referred to in subparagraph (A), transfer property similar to such property (including property not located at the installation) if the Secretary determines that the transfer of such similar property is in the interest of the United States.
 
-“(D) The provisions of section 120(h) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9620(h)) shall apply to any transfer of real property under this paragraph.
+“(E) The provisions of section 120(h) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9620(h)) shall apply to any transfer of real property under this paragraph.
 
-“(E) The Secretary may require any additional terms and conditions in connection with a transfer under this paragraph as such Secretary considers appropriate to protect the interests of the United States.
+“(F) The Secretary may require any additional terms and conditions in connection with a transfer under this paragraph as such Secretary considers appropriate to protect the interests of the United States.
 
 “(5)(A) Except as provided in subparagraph (B), the Secretary shall take such actions as the Secretary determines necessary to ensure that final determinations under paragraph (1) regarding whether another department or agency of the Federal Government has identified a use for any portion of a military installation to be closed under this part, or will accept transfer of any portion of such installation, are made not later than 6 months after the date of approval of closure of that installation.
 
-“(B) The Secretary may, in consultation with the redevelopment authority with respect to an installation, postpone making the final determinations referred to in subparagraph (A) with respect to the installation for such period as the Secretary determines appropriate if the Secretary determines that such postponement is in the best interests of the communities affected by the closure of the installation.
+“(B) The Secretary may, in consultation with the redevelopment authority with respect to an installation,postpone making the final determinations referred to in subparagraph (A) with respect to the installation for such period as the Secretary determines appropriate if the Secretary determines that such postponement is in the best interests of the communities affected by the closure of the installation.
 
 “(6)(A) Except as provided in this paragraph, nothing in this section shall limit or otherwise affect the application of the provisions of the Stewart B. McKinney Homeless Assistance Act (42 U.S.C. 11301 et seq.) to military installations closed under this part. For procedures relating to the use to assist the homeless of buildings and property at installations closed under this part after the date of the enactment of this sentence \[Oct. 25, 1994\], see paragraph (7).
 
@@ -986,7 +982,7 @@ Management and Disposal of Property.—(1) The Administrator of General Services
 
 &emsp;“(I) If no written notice of an intent to use such buildings or property to assist the homeless is received by the Secretary of Health and Human Services in accordance with section 501(d)(2) of such Act during the 60-day period beginning on the date of the publication of the buildings and property under subparagraph (C)(iii).
 
-&emsp;“(II) In the case of buildings and property for which such notice is so received, if no completed application for use of the buildings or property for such purpose is received by the Secretary of Health and HumanServices in accordance with section 501(e)(2) of such Act during the 90-day period beginning on the date of the receipt of such notice.
+&emsp;“(II) In the case of buildings and property for which such notice is so received, if no completed application for use of the buildings or property for such purpose is received by the Secretary of Health and Human Services in accordance with section 501(e)(2) of such Act during the 90-day period beginning on the date of the receipt of such notice.
 
 &emsp;“(III) In the case of buildings and property for which such application is so received, if the Secretary of Health and Human Services rejects the application under section 501(e) of such Act.
 
@@ -1004,7 +1000,7 @@ Management and Disposal of Property.—(1) The Administrator of General Services
 
 “(ii) If a redevelopment authority does not express an interest in the use of buildings or property, or commence the use of buildings or property, under subparagraph (F) within the applicable time periods specified in clause (ii) of such subparagraph, such buildings or property shall be treated as property available for use to assist the homeless under section 501(a) of such Act.
 
-“(7)(A) Determinations of the use to assist the homeless of buildings and property located at installations approved for closure under this part after the date of the enactment of this paragraph \[Oct. 25, 1994\] shall be determined under this paragraph rather than paragraph (6).
+“(7)(A) The disposal of buildings and property located at installations approved for closure or realignment under this part after October 25, 1994, shall be carried out in accordance with this paragraph rather than paragraph (6).
 
 “(B)(i) Not later than the date on which the Secretary of Defense completes the final determinations referred to in paragraph (5) relating to the use or transferability of any portion of an installation covered by this paragraph, the Secretary shall—
 
@@ -1062,7 +1058,7 @@ Management and Disposal of Property.—(1) The Administrator of General Services
 
 “(F)(i) The redevelopment authority for each installation covered by this paragraph shall prepare a redevelopment plan for the installation. The redevelopment authority shall, in preparing the plan, consider the interests in the use to assist the homeless of the buildings and property at the installation that are expressed in the notices submitted to the redevelopment authority under subparagraph (C).
 
-“(ii)(I) In connection with a redevelopment plan for an installation, a redevelopment authority and representatives of the homeless shall prepare legally binding agreements that provide for the use to assist the homeless of buildings and property, resources, and assistance on or off the installation. The implementation of such agreements shall be contingent upon the approval of the redevelopment plan by the Secretary of Housing and Urban Development under subparagraph (H) or (J).
+“(ii)(I) In connection with a redevelopment plan for an installation, a redevelopment authority and representatives of the homeless shall prepare legally binding agreements that provide for the use to assist the homeless of buildings and property, resources, and assistance on or off the installation. The implementation of such agreements shall be contingent upon the decision regarding the disposal of the buildings and property covered by the agreements by the Secretary of Defense under subparagraph (K) or (L).
 
 “(II) Agreements under this clause shall provide for the reversion to the redevelopment authority concerned, or to such other entity or entities as the agreements shall provide, of buildings and property that are made available under this paragraph for use to assist the homeless in the event that such buildings and property cease being used for that purpose.
 
@@ -1114,15 +1110,23 @@ Management and Disposal of Property.—(1) The Administrator of General Services
 
 &emsp;“(I) revise the plan in order to address the determination; and
 
-&emsp;“(II) submit the revised plan to the Secretary of Housing and Urban Development.
+&emsp;“(II) submit the revised plan to the Secretary of Defense and the Secretary of Housing and Urban Development.
 
-“(ii) A redevelopment authority shall submit a revised plan under this subparagraph to the Secretary of Housing and Urban Development, if at all, not later than 90 days after the date on which the redevelopment authority receives the notice referred to in clause (i).
+“(ii) A redevelopment authority shall submit a revised plan under this subparagraph to such Secretaries, if at all, not later than 90 days after the date on which the redevelopment authority receives the notice referred to in clause (i).
 
 “(J)(i) Not later than 30 days after receiving a revised redevelopment plan under subparagraph (I), the Secretary of Housing and Urban Development shall review the revised plan and determine if the plan meets the requirements set forth in subparagraph (H)(i).
 
 “(ii) The Secretary of Housing and Urban Development shall notify the Secretary of Defense and the redevelopment authority concerned of the determination of the Secretary of Housing and Urban Development under this subparagraph.
 
-“(K) Upon receipt of a notice under subparagraph (H)(vi) or (J)(ii) of the determination of the Secretary of Housing and Urban Development that a redevelopment plan for an installation meets the requirements set forth in subparagraph (H)(i), the Secretary of Defense shall dispose of the buildings and property located at the installation that are identified in the plan as available for use to assist the homeless in accordance with the provisions of the plan. The Secretary of Defense may dispose of such buildings or property directly to the representatives of the homeless concerned or to the redevelopment authority concerned. The Secretary of Defense shall dispose of the buildings and property under this subparagraph without consideration.
+“(K)(i) Upon receipt of a notice under subparagraph (H)(iv) or (J)(ii) of the determination of the Secretary of Housing and Urban Development that a redevelopment plan for an installation meets the requirements set forth in subparagraph (H)(i), the Secretary of Defense shall dispose of the buildings and property at the installation.
+
+“(ii) For purposes of carrying out an environmental assessment of the closure or realignment of an installation, the Secretary of Defense shall treat the redevelopment plan for the installation (including the aspects of the plan providing for disposal to State or local governments, representatives of the homeless, and other interested parties) as part of the proposed Federal action for the installation.
+
+“(iii) The Secretary of Defense shall dispose of buildings and property under clause (i) in accordance with the record of decision or other decision document prepared by the Secretary in accordance with the National Environmental Policy Act of 1969 (42 U.S.C. 4331 et seq.) \[42 U.S.C. 4321 et seq.\]. In preparing the record of decision or other decision document, the Secretary shall give substantial deference to the redevelopment plan concerned.
+
+“(iv) The disposal under clause (i) of buildings and property to assist the homeless shall be without consideration.
+
+“(v) In the case of a request for a conveyance under clause (i) of buildings and property for public benefit under section 203(k) of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 484(k)) or sections 47151 through 47153 of title 49, United States Code, the sponsoring Federal agency shall use the eligibility criteria set forth in such section or such subchapter \[probably means subchapter II (§47151 et seq.) of chapter 471 of Title 49, Transportation\] (as the case may be) to determine the eligibility of the applicant and use proposed in the request for the public benefit conveyance. The determination of such eligibility should be made before submission of the redevelopment plan concerned under subparagraph (G).
 
 “(L)(i) If the Secretary of Housing and Urban Development determines under subparagraph (J) that a revised redevelopment plan for an installation does not meet the requirements set forth in subparagraph (H)(i), or if no revised plan is so submitted, that Secretary shall—
 
@@ -1144,11 +1148,23 @@ Management and Disposal of Property.—(1) The Administrator of General Services
 
 &emsp;“(IV) A certification that police services, fire protection services, and water and sewer services available in the communities in the vicinity of the installation concerned are adequate for the program.
 
-“(iii) The Secretary of Housing and Urban Development shall indicate to the Secretary of Defense and to the redevelopment authority concerned the buildings and property at an installation under clause (i)(IV) to be disposed of not later than 90 days after the date of a receipt of a revised plan for the installation under subparagraph (J).
+“(iii) Not later than 90 days after the date of the receipt of a revised plan for an installation under subparagraph (J), the Secretary of Housing and Urban Development shall—
 
-“(iv) The Secretary of Defense shall dispose of the buildings and property at an installation referred to in clause (iii) to entities indicated by the Secretary of Housing and Urban Development or by transfer to the redevelopment authority concerned for transfer to such entities. Such disposal shall be in accordance with the indications of the Secretary of Housing and Urban Development under clause (i)(IV). Such disposal shall be without consideration.
+&emsp;“(I) notify the Secretary of Defense and the redevelopment authority concerned of the buildings and property at an installation under clause (i)(IV) that the Secretary of Housing and Urban Development determines are suitable for use to assist the homeless; and
 
-“(M)(i) In the event of the disposal of buildings and property of an installation pursuant to subparagraph (K), the redevelopment authority for the installation shall be responsible for the implementation of and compliance with agreements under the redevelopment plan described in that subparagraph for the installation.
+&emsp;“(II) notify the Secretary of Defense of the extent to which the revised plan meets the criteria set forth in subparagraph (H)(i).
+
+“(iv)(I) Upon notice from the Secretary of Housing and Urban Development with respect to an installation under clause (iii), the Secretary of Defense shall dispose of buildings and property at the installation in consultation with the Secretary of Housing and Urban Development and the redevelopment authority concerned.
+
+“(II) For purposes of carrying out an environmental assessment of the closure or realignment of an installation, the Secretary of Defense shall treat the redevelopment plan submitted by the redevelopment authority for the installation (including the aspects of the plan providing for disposal to State or local governments, representatives of the homeless, and other interested parties) as part of the proposed Federal action for the installation. The Secretary of Defense shall incorporate the notification of the Secretary of Housing and Urban Development under clause (iii)(I) as part of the proposed Federal action for the installation only to the extent, if any, that the Secretary of Defense considers such incorporation to be appropriate and consistent with the best and highest use of the installation as a whole, taking into consideration the redevelopment plan submitted by the redevelopment authority.
+
+“(III) The Secretary of Defense shall dispose of buildings and property under subclause (I) in accordance with the record of decision or other decision document prepared by the Secretary in accordance with the National Environmental Policy Act of 1969 (42 U.S.C. 4331 et seq.) \[42 U.S.C. 4321 et seq.\]. In preparing the record of decision or other decision document, the Secretary shall give deference to the redevelopment plan submitted by the redevelopment authority for the installation.
+
+“(IV) The disposal under subclause (I) of buildings and property to assist the homeless shall be without consideration.
+
+“(V) In the case of a request for a conveyance under subclause (I) of buildings and property for public benefit under section 203(k) of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 484(k)) or sections 47151 through 47153 of title 49, United States Code, the sponsoring Federal agency shall use the eligibility criteria set forth in such section or such subchapter \[probably means subchapter II (§47151 et seq.) of Title 49, Transportation\] (as the case may be) to determine the eligibility of the applicant and use proposed in the request for the public benefit conveyance. The determination of such eligibility should be made before submission of the redevelopment plan concerned under subparagraph (G).
+
+“(M)(i) In the event of the disposal of buildings and property of an installation pursuant to subparagraph (K) or (L), the redevelopment authority for the installation shall be responsible for the implementation of and compliance with agreements under the redevelopment plan described in that subparagraph for the installation.
 
 “(ii) If a building or property reverts to a redevelopment authority under such an agreement, the redevelopment authority shall take appropriate actions to secure, to the maximum extent practicable, the utilization of the building or property by other homeless representatives to assist the homeless. A redevelopment authority may not be required to utilize the building or property to assist the homeless.
 
@@ -1156,7 +1172,9 @@ Management and Disposal of Property.—(1) The Administrator of General Services
 
 “(O) For purposes of this paragraph, the term ‘communities in the vicinity of the installation’, in the case of an installation, means the communities that constitute the political jurisdictions (other than the State in which the installation is located) that comprise the redevelopment authority for the installation.
 
-“(8)(A) Subject to subparagraph (C), the Secretary may contract with local governments for the provision of police services, fire protection services, airfield operation services, or other community services by such governments at military installations to be closed under this part if the Secretary determines that the provision of such services under such contracts is in the best interests of the Department of Defense.
+“(P) For purposes of this paragraph, the term ‘other interested parties’, in the case of an installation, includes any parties eligible for the conveyance of property of the installation under section 203(k) of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 484(k)) or sections 47151 through 47153 of title 49, United States Code, whether or not the parties assist the homeless.
+
+“(8)(A) Subject to subparagraph (C), the Secretary may enter into agreements (including contracts, cooperative agreements, or other arrangements for reimbursement) with local governments for the provision of police or security services, fire protection services, airfield operation services, or other community services by such governments at military installations to be closed under this part, or at facilities not yet transferred or otherwise disposed of in the case of installations closed under this part, if the Secretary determines that the provision of such services under such agreements is in the best interests of the Department of Defense.
 
 “(B) The Secretary may exercise the authority provided under this paragraph without regard to the provisions of chapter 146 of title 10, United States Code.
 
@@ -1210,6 +1228,34 @@ Transfer Authority in Connection With Payment of Environmental Remediation Costs
 
 “(6) The Secretary may not enter into an agreement to transfer property or facilities under this subsection after the expiration of the five-year period beginning on the date of the enactment of the National Defense Authorization Act for Fiscal Year 1994 \[Nov. 30, 1993\].
 
+“(f)
+
+Transfer Authority in Connection With Construction or Provision of Military Family Housing.—(1) Subject to paragraph (2), the Secretary may enter into an agreement to transfer by deed real property or facilities located at or near an installation closed or to be closed under this part with any person who agrees, in exchange for the real property or facilities, to transfer to the Secretary housing units that are constructed or provided by the person and located at or near a military installation at which there is a shortage of suitable housing to meet the requirements of members of the Armed Forces and their dependents. The Secretary may not select real property for transfer under this paragraph if the property is identified in the redevelopment plan for the installation as property essential to the reuse or redevelopment of the installation.
+
+“(2) A transfer of real property or facilities may be made under paragraph (1) only if—
+
+&emsp;“(A) the fair market value of the housing units to be received by the Secretary in exchange for the property or facilities to be transferred is equal to or greater than the fair market value of such property or facilities, as determined by the Secretary; or
+
+&emsp;“(B) in the event the fair market value of the housing units is less than the fair market value of property or facilities to be transferred, the recipient of the property or facilities agrees to pay to the Secretary the amount equal to the excess of the fair market value of the property or facilities over the fair market value of the housing units.
+
+“(3) Notwithstanding paragraph (2) of section 2906(a), the Secretary may deposit funds received under paragraph (2)(B) in the Department of Defense Family Housing Improvement Fund established under section 2873(a) \[probably means 2883(a)\] of title 10, United States Code.
+
+“(4) The Secretary shall submit to the congressional defense committees a report describing each agreement proposed to be entered into under paragraph (1), including the consideration to be received by the United States under the agreement. The Secretary may not enter into the agreement until the end of the 30-day period beginning on the date the congressional defense committees receive the report regarding the agreement.
+
+“(5) The Secretary may require any additional terms and conditions in connection with an agreement authorized by this subsection as the Secretary considers appropriate to protect the interests of the United States.
+
+“(g)
+
+Acquisition of Manufactured Housing.—(1) In closing or realigning any military installation under this part, the Secretary may purchase any or all right, title, and interest of a member of the Armed Forces and any spouse of the member in manufactured housing located at a manufactured housing park established at an installation closed or realigned under this part, or make a payment to the member to relocate the manufactured housing to a suitable new site, if the Secretary determines that—
+
+&emsp;“(A) it is in the best interests of the Federal Government to eliminate or relocate the manufactured housing park; and
+
+&emsp;“(B) the elimination or relocation of the manufactured housing park would result in an unreasonable financial hardship to the owners of the manufactured housing.
+
+“(2) Any payment made under this subsection shall not exceed 90 percent of the purchase price of the manufactured housing, as paid by the member or any spouse of the member, plus the cost of any permanent improvements subsequently made to the manufactured housing by the member or spouse of the member.
+
+“(3) The Secretary shall dispose of manufactured housing acquired under this subsection through resale, donation, trade or otherwise within one year of acquisition.
+
 #### “SEC. 2906. ACCOUNT
 
 “(a)
@@ -1222,9 +1268,9 @@ In General.—(1) There is hereby established on the books of the Treasury an ac
 
 &emsp;“(B) any funds that the Secretary may, subject to approval in an appropriation Act, transfer to the Account from funds appropriated to the Department of Defense for any purpose, except that such funds may be transferred only after the date on which the Secretary transmits written notice of, and justification for, such transfer to the congressional defense committees;
 
-&emsp;“(C) except as provided in subsection (d), proceeds received from the transfer or disposal of any property at a military installation closed or realigned under this part; and
+&emsp;“(C) except as provided in subsection (d), proceeds received from the lease, transfer, or disposal of any property at a military installation closed or realigned under this part; and
 
-&emsp;“(D) proceeds received after September 30, 1995, from the transfer or disposal of any property at a military installation closed or realigned under title II of the Defense Authorization Amendments and Base Closure and Realignment Act (Public Law 100–526; 10 U.S.C. 2687 note).
+&emsp;“(D) proceeds received after September 30, 1995, from the lease, transfer, or disposal of any property at a military installation closed or realigned under title II of the Defense Authorization Amendments and Base Closure and Realignment Act (Public Law 100–526; 10 U.S.C. 2687 note).
 
 “(b)
 
@@ -1260,7 +1306,7 @@ Reports.—(1)(A) No later than 60 days after the end of each fiscal year in whi
 
 “(d)
 
-Disposal or Transfer of Commissary Stores and Property Purchased With Nonappropriated Funds.—(1) If any real property or facility acquired, constructed, or improved (in whole or in part) with commissary store funds or nonappropriated funds is transferred or disposed of in connection with the closure or realignment of a military installation under this part, a portion of the proceeds of the transfer or other disposal of property on that installation shall be deposited in the reserve account established under section 204(b)(4)(C) of the Defense Authorization Amendments and Base Closure and Realignment Act \[Pub. L. 100–526\] (10 U.S.C. 2687 note).
+Disposal or Transfer of Commissary Stores and Property Purchased With Nonappropriated Funds.—(1) If any real property or facility acquired, constructed, or improved (in whole or in part) with commissary store funds or nonappropriated funds is transferred or disposed of in connection with the closure or realignment of a military installation under this part, a portion of the proceeds of the transfer or other disposal of property on that installation shall be deposited in the reserve account established under section 204(b)(7)(C) of the Defense Authorization Amendments and Base Closure and Realignment Act \[Pub. L. 100–526\] (10 U.S.C. 2687 note).
 
 “(2) The amount so deposited shall be equal to the depreciated value of the investment made with such funds in the acquisition, construction, or improvement of that particular real property or facility. The depreciated value of the investment shall be computed in accordance with regulations prescribed by the Secretary of Defense.
 
@@ -1304,7 +1350,7 @@ Terms of the Resolution.—For purposes of section 2904(b), the term ‘joint re
 
 “(b)
 
-Referral.—A resolution described in subsection (a) that is introduced in the House of Representatives shall be referred to the Committee on Armed Services \[now Committee on National Security\] of the House of Representatives. A resolution described in subsection (a) introduced in the Senate shall be referred to the Committee on Armed Services of the Senate.
+Referral.—A resolution described in subsection (a) that is introduced in the House of Representatives shall be referred to the Committee on National Security of the House of Representatives. A resolution described in subsection (a) introduced in the Senate shall be referred to the Committee on Armed Services of the Senate.
 
 “(c)
 
@@ -1322,7 +1368,7 @@ Consideration.—(1) On or after the third day after the date on which the commi
 
 “(e)
 
-Consideration by Other House.—(1) If, before the passage by one House of a resolution of that Housedescribed in subsection (a), that House receives from the other House a resolution described in subsection (a), then the following procedures shall apply:
+Consideration by Other House.—(1) If, before the passage by one House of a resolution of that House described in subsection (a), that House receives from the other House a resolution described in subsection (a), then the following procedures shall apply:
 
 &emsp;“(A) The resolution of the other House shall not be referred to a committee and may not be considered in the House receiving it except in the case of final passage as provided in subparagraph (B)(ii).
 
@@ -1370,7 +1416,7 @@ Exception.—Nothing in this part affects the authority of the Secretary to carr
 
 &emsp;“(1) The term ‘Account’ means the Department of Defense Base Closure Account 1990 established by section 2906(a)(1).
 
-&emsp;“(2) The term ‘congressional defense committees’ means the Committees on Armed Services and the Committees on Appropriations of the Senate and of the House of Representatives \[Committee on Armed Services of the House of Representatives now Committee on National Security\].
+&emsp;“(2) The term ‘congressional defense committees’ means the Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on National Security and the Committee on Appropriations of the House of Representatives.
 
 &emsp;“(3) The term ‘Commission’ means the Commission established by section 2902.
 
@@ -1392,7 +1438,7 @@ Exception.—Nothing in this part affects the authority of the Secretary to carr
 
 &emsp;&emsp;“(B) provides for the reuse or redevelopment of the real property and personal property of the installation that is available for such reuse and redevelopment as a result of the closure of the installation.
 
-&emsp;“(10)\[(11)\] The term ‘representative of the homeless’ has the meaning given such term in section 501(h)(4) of the Stewart B. McKinney Homeless Assistance Act (42 U.S.C. 11411(h)(4)).
+&emsp;“(11) The term ‘representative of the homeless’ has the meaning given such term in section 501(i)(4) of the Stewart B. McKinney Homeless Assistance Act (42 U.S.C. 11411(i)(4)).
 
 #### “SEC. 2911. CLARIFYING AMENDMENT
 
@@ -1406,7 +1452,7 @@ Exception.—Nothing in this part affects the authority of the Secretary to carr
 
 \[Section 2930(b) of Pub. L. 103–160 provided that: “The amendment made by this section \[amending section 2903(d)(1) of Pub. L. 101–510 set out above\] shall apply with respect to all public hearings conducted by the Defense Base Closure and Realignment Commission after the date of the enactment of this Act \[Nov. 30, 1993\].”\]
 
-\[For effective date of amendments by section 344(b)(1) of Pub. L. 102–190 to section 2906 of Pub. L. 101–510, setout above, see Effective Date of 1991 Amendments by Section 344 of Pub. L. 102–190 note set out above.\]
+\[For effective date of amendments by section 344(b)(1) of Pub. L. 102–190 to section 2906 of Pub. L. 101–510, set out above, see Effective Date of 1991 Amendments by Section 344 of Pub. L. 102–190 note set out above.\]
 
 \[Section 2821(h)(2) of Pub. L. 102–190 provided that: “The amendment made by paragraph (1) \[amending section 2910 of Pub. L. 101–510 set out above\] shall take effect as of November 5, 1990, and shall apply as if it had been included in section 2910(4) of the Defense Base Closure and Realignment Act of 1990 \[section 2910 of Pub. L. 101–510\] on that date.”\]
 
@@ -1416,9 +1462,11 @@ Exception.—Nothing in this part affects the authority of the Secretary to carr
 
 #### Closure of Foreign Military Installations
 
-Pub. L. 102–396, title IX, §9047A, Oct. 6, 1992, 106 Stat. 1913, provided that: “Notwithstanding any other provision of law, the Secretary of Defense may, by Executive Agreement, establish with host nation governments in NATO member states a separate account into which such residual value amounts negotiated in the return of United States military installations in NATO member states may be deposited, in the currency of the host nation, in lieu of direct monetary transfers to the United States Treasury: <i>Provided</i>, That such credits may be utilized only for the construction of facilities to support United States military forces in that host nation, or such real property maintenance and base operating costs that are currently executed through monetary transfers to such host nations: <i>Provided further</i>, That the Department of Defense's budget submission for each fiscal year shall identify such sums anticipated in residual value settlements, and identify such construction, real property maintenance or base operating costs that shall be funded by the host nation through such credits: <i>Provided further</i>, That all military construction projects to be executed from such accounts must be previously approved in a prior Act of Congress: <i>Provided further</i>, That each such Executive Agreement with a NATO member host nation shall be reported to the Committees on Appropriations and Armed Services of the House of Representatives and the Senate thirty days prior to the conclusion and endorsement of any such agreement established under this provision.”
+Pub. L. 102–396, title IX, §9047A, Oct. 6, 1992, 106 Stat. 1913, as amended by Pub. L. 104–106, div. A, title XV, §1502(f)(2), Feb. 10, 1996, 110 Stat. 509, provided that: “Notwithstanding any other provision of law, the Secretary of Defense may, by Executive Agreement, establish with host nation governments in NATO member states a separate account into which such residual value amounts negotiated in the return of United States military installations in NATO member states may be deposited, in the currency of the host nation, in lieu of direct monetary transfers to the United States Treasury: <i>Provided</i>, That such credits may be utilized only for the construction of facilities to support United States military forces in that host nation, or such real property maintenance and base operating costs that are currently executed through monetary transfers to such host nations: <i>Provided further</i>, That the Department of Defense's budget submission for each fiscal year shall identify such sums anticipated in residual value settlements, and identify such construction, real property maintenance or base operating costs that shall be funded by the host nation through such credits: <i>Provided further</i>, That all military construction projects to be executed from such accounts must be previously approved in a prior Act of Congress: <i>Provided further</i>, That each such Executive Agreement with a NATO member host nation shall be reported to the Committee on Appropriations and the Committee on Armed Services of the Senate and the Committee on Appropriations and the Committee on National Security of the House of Representatives thirty days prior to the conclusion and endorsement of any such agreement established under this provision.”
 
 Similar provisions for specified fiscal years were contained in the following appropriation acts:
+
+Pub. L. 104–208, div. A, title I, §101(b) \[title VIII, §8020\], Sept. 30, 1996, 110 Stat. 3009–71, 3009–92.
 
 Pub. L. 104–61, title VIII, §8027, Dec. 1, 1995, 109 Stat. 657.
 
@@ -1426,7 +1474,7 @@ Pub. L. 103–335, title VIII, §8033, Sept. 30, 1994, 108 Stat. 2625.
 
 Pub. L. 103–139, title VIII, §8036, Nov. 11, 1993, 107 Stat. 1448.
 
-Section 2921 of Pub. L. 101–510, as amended by Pub. L. 102–190, div. A, title III, §344(b)(2), Dec. 5, 1991, 105 Stat. 1345; Pub. L. 102–484, div. B, title XXVIII, §§2821(c), 2827, Oct. 23, 1992, 106 Stat. 2608, 2609; Pub. L. 103–160, div. B, title XXIX, §2924(b), Nov. 30, 1993, 107 Stat. 1931; Pub. L. 103–337, div. A, title XIII, §1305(c), div. B, title XXVIII, §2817, Oct. 5, 1994, 108 Stat. 2891, 3057, provided that:
+Section 2921 of Pub. L. 101–510, as amended by Pub. L. 102–190, div. A, title III, §344(b)(2), Dec. 5, 1991, 105 Stat. 1345; Pub. L. 102–484, div. B, title XXVIII, §§2821(c), 2827, Oct. 23, 1992, 106 Stat. 2608, 2609; Pub. L. 103–160, div. B, title XXIX, §2924(b), Nov. 30, 1993, 107 Stat. 1931; Pub. L. 103–337, div. A, title XIII, §1305(c), div. B, title XXVIII, §2817, Oct. 5, 1994, 108 Stat. 2891, 3057; Pub. L. 104–106, div. A, title X, §1063(b), title XV, §§1502(c)(4)(D), 1505(e)(2), Feb. 10, 1996, 110 Stat. 444, 508, 515, provided that:
 
 “(a)
 
@@ -1464,7 +1512,7 @@ Establishment of Special Account.—(1) There is established on the books of the
 
 “(d)
 
-Amounts Corresponding to the Value of Property Purchased With Nonappropriated Funds.—(1) In the case of a payment referred to in subsection (c)(1) for the residual value of real property or improvements at an overseas military facility, the portion of the payment that is equal to the depreciated value of the investment made with nonappropriated funds shall be deposited in the reserve account established under section 204(b)(4)(C) of the Defense Authorization Amendments and Base Closure and Realignment Act \[Pub. L. 100–526, set out below\]. The Secretary may use amounts in the account (in such an aggregate amount as is provided in advance by appropriation Acts) for the purpose of acquiring, constructing, or improving commissary stores and nonappropriated fund instrumentalities.
+Amounts Corresponding to the Value of Property Purchased With Nonappropriated Funds.—(1) In the case of a payment referred to in subsection (c)(1) for the residual value of real property or improvements at an overseas military facility, the portion of the payment that is equal to the depreciated value of the investment made with nonappropriated funds shall be deposited in the reserve account established under section 204(b)(7)(C) of the Defense Authorization Amendments and Base Closure and Realignment Act \[Pub. L. 100–526, set out below\]. The Secretary may use amounts in the account (in such an aggregate amount as is provided in advance by appropriation Acts) for the purpose of acquiring, constructing, or improving commissary stores and nonappropriated fund instrumentalities.
 
 “(2) As used in this subsection:
 
@@ -1474,7 +1522,7 @@ Amounts Corresponding to the Value of Property Purchased With Nonappropriated Fu
 
 &emsp;&emsp;“(ii) a nonappropriated fund instrumentality.
 
-&emsp;“(B) The term ‘nonappropriated fund instrumentality’ means an instrumentality of the United States under the jurisdiction of the Armed Forces (includingthe Army and Air Force Exchange Service, the Navy Resale and Services Support Office, and the Marine Corps exchanges) which is conducted for the comfort, pleasure, contentment, or physical or mental improvement of members of the Armed Forces.
+&emsp;“(B) The term ‘nonappropriated fund instrumentality’ means an instrumentality of the United States under the jurisdiction of the Armed Forces (including the Army and Air Force Exchange Service, the Navy Resale and Services Support Office, and the Marine Corps exchanges) which is conducted for the comfort, pleasure, contentment, or physical or mental improvement of members of the Armed Forces.
 
 “(e)
 
@@ -1490,39 +1538,17 @@ Negotiations for Payments-in-Kind.—(1) Before the Secretary of Defense enters 
 
 “(3) For purposes of this subsection, the appropriate congressional committees are—
 
-&emsp;“(A) the Committee on Armed Services \[now Committee on National Security\], the Committee on Appropriations, and the Defense Subcommittees of the Committee on Appropriations of the House of Representatives; and
+&emsp;“(A) the Committee on National Security, the Committee on Appropriations, and the National Security Subcommittee of the Committee on Appropriations of the House of Representatives; and
 
 &emsp;“(B) the Committee on Armed Services, the Committee on Appropriations, and the Defense Subcommittees of the Committee on Appropriations of the Senate.
 
-“(f)
+“(f) OMB
 
-Report on Status and Use of Special Account.—Not later than January 15 of each year, the Secretary of Defense shall submit to the congressional defense committees a report on the operations of the Department of Defense Overseas Military Facility Investment Recovery Account during the preceding fiscal year and proposed uses of funds in the special account during the next fiscal year. The report shall include the following:
+Review of Proposed Settlements.—(1) The Secretary of Defense may not enter into an agreement of settlement with a host country regarding the release to the host country of improvements made by the United States to facilities at an installation located in the host country until 30 days after the date on which the Secretary submits the proposed settlement to the Director of the Office of Management and Budget. The prohibition set forth in the preceding sentence shall apply only to agreements of settlement for improvements having a value in excess of $10,000,000. The Director shall evaluate the overall equity of the proposedsettlement. In evaluating the proposed settlement, the Director shall consider such factors as the extent of the United States capital investment in the improvements being released to the host country, the depreciation of the improvements, the condition of the improvements, and any applicable requirements for environmental remediation or restoration at the installation.
 
-&emsp;“(1) The amount of each deposit in the account during the preceding fiscal year, and the source of the amount.
+“(2) Each year, the Secretary shall submit to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives a report on each proposed agreement of settlement that was not submitted by the Secretary to the Director of the Office of Management and Budget in the previous year under paragraph (1) because the value of the improvements to be released pursuant to the proposed agreement did not exceed $10,000,000.
 
-&emsp;“(2) The balance in the account at the end of that fiscal year.
-
-&emsp;“(3) The amounts expended from the account by each military department during that fiscal year.
-
-&emsp;“(4) With respect to each military installation for which money was deposited in the account as a result of the release of real property or improvements of the installation to a host country during that fiscal year—
-
-&emsp;&emsp;“(A) the total amount of the investment of the United States in the installation, expressed in terms of constant dollars of that fiscal year;
-
-&emsp;&emsp;“(B) the depreciated value (as determined by the Secretary of a military department under regulations to be prescribed by the Secretary of Defense) of the real property and improvements that were released; and
-
-&emsp;&emsp;“(C) the explanation of the Secretary for any difference between the benefits received by the United States for the real property and improvements and the depreciated value (as so determined) of that real property and improvements.
-
-&emsp;“(5) A list identifying all military installations outside the United States for which the Secretary proposes to make expenditures from the Department of Defense Overseas Facility Investment Recovery Account under subsection (c)(2)(B) during the next fiscal year and specifying the amount of the proposed expenditures for each identified military installation.
-
-&emsp;“(6) A description of the purposes for which the expenditures proposed under paragraph (5) will be made and the need for such expenditures.
-
-“(g) OMB
-
-Review of Proposed Settlements.—(1) The Secretary of Defense may not enter into an agreement of settlement with a host country regarding the release to the host country of improvements made by the United States to facilities at an installation located in the host country until 30 days after the date on which the Secretary submits the proposed settlement to the Director of the Office of Management and Budget. The prohibition set forth in the preceding sentence shall apply only to agreements of settlement for improvements having a value in excess of $10,000,000. The Director shall evaluate the overall equity of the proposed settlement. In evaluating the proposed settlement, the Director shall consider such factors as the extent of the United States capital investment in the improvements being released to the host country, the depreciation of the improvements, the condition of the improvements, and any applicable requirements for environmental remediation or restoration at the installation.
-
-“(2) Each year, the Secretary shall submit to the Committees on Armed Services of the Senate and House of Representatives \[now Committee on Armed Services of the Senate and Committee on National Security of the House of Representatives\] a report on each proposed agreement of settlement that was not submitted by the Secretary to the Director of the Office of Management and Budget in the previous year under paragraph (1) because the value of the improvements to be released pursuant to the proposed agreement did not exceed $10,000,000.
-
-“(h)
+“(g)
 
 Congressional Oversight of Payments-In-Kind.—(1) Not less than 30 days before concluding an agreement for acceptance of military construction or facility improvements as a payment-in-kind, the Secretary of Defense shall submit to Congress a notification on the proposed agreement. Any such notification shall contain the following:
 
@@ -1602,7 +1628,7 @@ Section 2926 of Pub. L. 101–510, as amended by Pub. L. 103–160, div. A, titl
 
 “(a)
 
-Establishment of Model Program.—Not later than 90 days after the date of enactment of this Act \[Nov. 5, 1990\], the Secretary of Defense shall establish a model program to improve the efficiency and effectiveness of the base closure environmental restoration program.
+Establishment of Model Program.—Not later than 90 days after the date of enactment of this Act\[Nov. 5, 1990\], the Secretary of Defense shall establish a model program to improve the efficiency and effectiveness of the base closure environmental restoration program.
 
 “(b)
 
@@ -1680,7 +1706,7 @@ Findings.—The Congress finds that—
 
 &emsp;“(2) to effectively wage the war on drugs, adequate penal and correctional facilities and a substantial increase in the number and capacity of drug treatment facilities are needed;
 
-&emsp;“(3) under the base closure process, authorized by title II of the Defense Authorization Amendments and Base Closure and Realignment Act (Public Law 100–526; 102 Stat. 2627) \[set out below\], 86 military bases are scheduled for closure; and
+&emsp;“(3) under the base closure process, authorized by title II of the Defense Authorization Amendmentsand Base Closure and Realignment Act (Public Law 100–526; 102 Stat. 2627) \[set out below\], 86 military bases are scheduled for closure; and
 
 &emsp;“(4) facilities rendered excess by the base closure process should be seriously considered for use as prisons and drug treatment facilities, as appropriate.
 
@@ -1704,7 +1730,7 @@ Notice Required.—Not later than 30 days after the date on which the Secretary 
 
 #### Closure and Realignment of Military Installations
 
-Pub. L. 100–526, title II, Oct. 24, 1988, 102 Stat. 2627, as amended by Pub. L. 101–510, div. B, title XXIX, §2923(b)(1), Nov. 5, 1990, 104 Stat. 1821; Pub. L. 102–190, div. A, title III, §344(a), Dec. 5, 1991, 105 Stat. 1344; Pub. L. 102–484, div. B, title XXVIII, §2821(a), Oct. 23, 1992, 106 Stat. 2606; Pub. L. 103–160, div. B, title XXIX, §§2902(a), 2903(a), 2904(a), 2905(a), 2907(a), 2908(a), 2918(b), 2921(a), Nov. 30, 1993, 107 Stat. 1909, 1912, 1915, 1916, 1921, 1922, 1928, 1929; Pub. L. 103–337, div. A, title X, §1070(b)(13),div. B, title XXVIII, §§2812(a), 2813(a)–(c)(1), (d)(1), (e)(1), Oct. 5, 1994, 108 Stat. 2857, 3054, 3055; Pub. L. 103–421, §2(f)(1), Oct. 25, 1994, 108 Stat. 4354, provided that:
+Pub. L. 100–526, title II, Oct. 24, 1988, 102 Stat. 2627, as amended by Pub. L. 101–510, div. B, title XXIX, §2923(b)(1), Nov. 5, 1990, 104 Stat. 1821; Pub. L. 102–190, div. A, title III, §344(a), Dec. 5, 1991, 105 Stat. 1344; Pub. L. 102–484, div. B, title XXVIII, §2821(a), Oct. 23, 1992, 106 Stat. 2606; Pub. L. 103–160, div. B, title XXIX, §§2902(a), 2903(a), 2904(a), 2905(a), 2907(a), 2908(a), 2918(b), 2921(a), Nov. 30, 1993, 107 Stat. 1909, 1912, 1915, 1916, 1921, 1922, 1928, 1929; Pub. L. 103–337, div. A, title X, §1070(b)(13), div. B, title XXVIII, §§2812(a), 2813(a)–(c)(1), (d)(1), (e)(1), Oct. 5, 1994, 108 Stat. 2857, 3054, 3055; Pub. L. 103–421, §2(f)(1), Oct. 25, 1994, 108 Stat. 4354; Pub. L. 104–106, div. A, title XV, §§1504(a)(9), 1505(e)(3), div. B, title XXVIII, §§2831(b)(1), 2839(a), 2840(a), Feb. 10, 1996, 110 Stat. 513, 515, 558, 563, 564; Pub. L. 104–201, div. B, title XXVIII, §§2811, 2812(a), 2813(a), Sept. 23, 1996, 110 Stat. 2788, 2789, provided that:
 
 #### “SEC. 201. CLOSURE AND REALIGNMENT OF MILITARY INSTALLATIONS
 
@@ -1786,7 +1812,7 @@ Management and Disposal of Property.—(1) The Administrator of General Services
 
 &emsp;“(B) the authority of the Administrator to dispose of surplus property under section 203 of that Act (40 U.S.C. 484); and
 
-&emsp;“(C) the authority of the Administrator to grant approvals and make determinations under section 13(g) of the Surplus Property Act of 1944 (50 U.S.C. App. 1622(g)).
+&emsp;“(C) the authority to dispose of surplus property for public airports under sections 47151 through 47153 of title 49, United States Code.
 
 “(2)(A) Subject to subparagraph (B), the Secretary shall exercise authority delegated to the Secretary pursuant to paragraph (1) in accordance with—
 
@@ -1798,9 +1824,11 @@ Management and Disposal of Property.—(1) The Administrator of General Services
 
 “(C) The authority required to be delegated by paragraph (1) to the Secretary by the Administrator of General Services shall not include the authority to prescribe general policies and methods for utilizing excess property and disposing of surplus property.
 
-“(D) Before any action may be taken with respect to the disposal of any surplus real property or facility located at any military installation to be closed or realigned under this title, the Secretary shall consult with the Governor of the State and the heads of the local governments concerned for the purpose of considering any plan for the use of such property by the local community concerned.
+“(D) The Secretary of Defense may transfer real property or facilities located at a military installation to be closed or realigned under this title, with or without reimbursement, to a military department or other entity (including a nonappropriated fund instrumentality) within the Department of Defense or the Coast Guard.
 
-“(E) The provisions of this paragraph and paragraph (1) are subject to paragraphs (3) through (6).
+“(E) Before any action may be taken with respect to the disposal of any surplus real property or facility located at any military installation to be closed or realigned under this title, the Secretary shall consult with the Governor of the State and the heads of the local governments concerned for the purpose of considering any plan for the use of such property by the local community concerned.
+
+“(F) The provisions of this paragraph and paragraph (1) are subject to paragraphs (3) through (6).
 
 “(3)(A) Not later than 6 months after the date of the enactment of the National Defense Authorization Act for Fiscal Year 1994 \[Nov. 30, 1993\], the Secretary, in consultation with the redevelopment authority with respect to each military installation to be closed under this title after such date of enactment, shall—
 
@@ -1866,7 +1894,7 @@ Management and Disposal of Property.—(1) The Administrator of General Services
 
 “(5)(A) Except as provided in subparagraph (B), the Secretary shall take such actions as the Secretary determines necessary to ensure that final determinations under paragraph (1) regarding whether another department or agency of the Federal Government has identified a use for any portion of a military installation to be closed under this title after the date of the enactment of the National Defense Authorization Act for Fiscal Year 1994 \[Nov. 30, 1993\], or will accept transfer of any portion of such installation, are made not later than 6 months after such date of enactment.
 
-“(B) The Secretary may, in consultation with the redevelopment authority with respect to an installation, postpone making the final determinations referred to in subparagraph (A) with respect to the installation for such period as the Secretary determines appropriate if the Secretary determines that such postponement is in the best interests of the communities affected by the closure of the installation.
+“(B) The Secretary may, in consultation with the redevelopment authority with respect to an installation,postpone making the final determinations referred to in subparagraph (A) with respect to the installation for such period as the Secretary determines appropriate if the Secretary determines that such postponement is in the best interests of the communities affected by the closure of the installation.
 
 “(6)(A) Except as provided in this paragraph, nothing in this section shall limit or otherwise affect the application of the provisions of the Stewart B. McKinney Homeless Assistance Act (42 U.S.C. 11301 et seq.) to military installations closed under this title.
 
@@ -1950,7 +1978,7 @@ Management and Disposal of Property.—(1) The Administrator of General Services
 
 &emsp;“(III) The term ‘nonappropriated fund instrumentality’ means an instrumentality of the United States under the jurisdiction of the Armed Forces (including the Army and Air Force Exchange Service, the Navy Resale and Services Support Office, and the Marine Corps exchanges) which is conducted for the comfort, pleasure, contentment, or physical or mental improvement of members of the Armed Forces.
 
-“(8)(A) Subject to subparagraph (C), the Secretary may contract with local governments for the provision of police services, fire protection services, airfield operation services, or other community services by such governments at military installations to be closed under this title if the Secretary determines that the provision of such services under such contracts is in the best interests of the Department of Defense.
+“(8)(A) Subject to subparagraph (C), the Secretary may enter into agreements (including contracts, cooperative agreements, or other arrangements for reimbursement) with local governments for the provision of police or security services, fire protection services, airfield operation services, or other community services by such governments at military installations to be closed under this title, or at facilities not yet transferred or otherwise disposed of in the case of installations closed under this title, if the Secretary determines that the provision of such services under such agreements is in the best interests of the Department of Defense.
 
 “(B) The Secretary may exercise the authority provided under this paragraph without regard to the provisions of chapter 146 of title 10, United States Code.
 
@@ -1966,7 +1994,7 @@ Applicability of Other Law.—(1) The provisions of the National Environmental P
 
 &emsp;“(B) the actions of the Secretary in establishing the Commission, in determining whether to accept the recommendations of the Commission, in selecting any military installation to receive functions from an installation to be closed or realigned, and in transmitting the report to the Committees referred to in section 202(a)(1).
 
-“(2) The provisions of the National Environmental Policy Act of 1969 shall apply to the actions of the Secretary (A) during the process of the closing or realigning of a military installation after such military installation has been selected for closure or realignment but before the installation is closed or realigned and the functions relocated, and (B) during the process of the relocating of functions from a military installation being closed or realigned to another military installation after the receiving installation has been selected but before the functions are relocated. In applying the provisions of such Act, the Secretary shall not have to consider—
+“(2) The provisions of the National Environmental Policy Act of 1969 shall apply to the actions of the Secretary (A) during the process of the closing or realigning of a military installation after such military installation has been selected for closure or realignment but before the installation is closed or realigned andthe functions relocated, and (B) during the process of the relocating of functions from a military installation being closed or realigned to another military installation after the receiving installation has been selected but before the functions are relocated. In applying the provisions of such Act, the Secretary shall not have to consider—
 
 &emsp;“(i) the need for closing or realigning a military installation which has been selected for closure or realignment by the Commission;
 
@@ -1990,13 +2018,41 @@ Transfer Authority in Connection With Payment of Environmental Remediation Costs
 
 &emsp;“(B) if such costs are lower than the fair market value of the property or facilities, the recipient of the property or facilities agrees to pay the difference between the fair market value and such costs.
 
-“(3) As part of an agreement under paragraph (1), the Secretary shall disclose to the person to whom the property or facilities will be transferred any information of the Secretary regarding the environmental restoration, waste management, and environmental compliance activities described in paragraph (1) that relateto the property or facilities. The Secretary shall provide such information before entering into the agreement.
+“(3) As part of an agreement under paragraph (1), the Secretary shall disclose to the person to whom the property or facilities will be transferred any information of the Secretary regarding the environmental restoration, waste management, and environmental compliance activities described in paragraph (1) that relate to the property or facilities. The Secretary shall provide such information before entering into the agreement.
 
 “(4) Nothing in this subsection shall be construed to modify, alter, or amend the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9601 et seq.) or the Solid Waste Disposal Act (42 U.S.C. 6901 et seq.).
 
 “(5) Section 330 of the National Defense Authorization Act for Fiscal Year 1993 (Public Law 102–484; 10 U.S.C. 2687 note) shall not apply to any transfer under this subsection to persons or entities described in subsection (a)(2) of such section 330.
 
 “(6) The Secretary may not enter into an agreement to transfer property or facilities under this subsection after the expiration of the five-year period beginning on the date of the enactment of the National Defense Authorization Act for Fiscal Year 1994 \[Nov. 30, 1993\].
+
+“(e)
+
+Transfer Authority in Connection With Construction or Provision of Military Family Housing.—(1) Subject to paragraph (2), the Secretary may enter into an agreement to transfer by deed real property or facilities located at or near an installation closed or to be closed under this title with any person who agrees, in exchange for the real property or facilities, to transfer to the Secretary housing units that are constructed or provided by the person and located at or near a military installation at which there is a shortage of suitable housing to meet the requirements of members of the Armed Forces and their dependents. The Secretary may not select real property for transfer under this paragraph if the property is identified in the redevelopment plan for the installation as items essential to the reuse or redevelopment of the installation.
+
+“(2) A transfer of real property or facilities may be made under paragraph (1) only if—
+
+&emsp;“(A) the fair market value of the housing units to be received by the Secretary in exchange for the property or facilities to be transferred is equal to or greater than the fair market value of such property or facilities, as determined by the Secretary; or
+
+&emsp;“(B) in the event the fair market value of the housing units is less than the fair market value of property or facilities to be transferred, the recipient of the property or facilities agrees to pay to the Secretary the amount equal to the excess of the fair market value of the property or facilities over the fair market value of the housing units.
+
+“(3) Notwithstanding section 207(a)(7), the Secretary may deposit funds received under paragraph (2)(B) in the Department of Defense Family Housing Improvement Fund established under section 2873(a) \[probably means 2883(a)\] of title 10, United States Code.
+
+“(4) The Secretary shall submit to the appropriate committees of Congress a report describing each agreement proposed to be entered into under paragraph (1), including the consideration to be received by the United States under the agreement. The Secretary may not enter into the agreement until the end of the 21-day period beginning on the date the appropriate committees of Congress receive the report regarding the agreement.
+
+“(5) The Secretary may require any additional terms and conditions in connection with an agreement authorized by this subsection as the Secretary considers appropriate to protect the interests of the United States.
+
+“(f)
+
+Acquisition of Manufactured Housing.—(1) In closing or realigning any military installation under this title, the Secretary may purchase any or all right, title, and interest of a member of the Armed Forces and any spouse of the member in manufactured housinglocated at a manufactured housing park established at an installation closed or realigned under this title, or make a payment to the member to relocate the manufactured housing to a suitable new site, if the Secretary determines that—
+
+&emsp;“(A) it is in the best interests of the Federal Government to eliminate or relocate the manufactured housing park; and
+
+&emsp;“(B) the elimination or relocation of the manufactured housing park would result in an unreasonable financial hardship to the owners of the manufactured housing.
+
+“(2) Any payment made under this subsection shall not exceed 90 percent of the purchase price of the manufactured housing, as paid by the member or any spouse of the member, plus the cost of any permanent improvements subsequently made to the manufactured housing by the member or spouse of the member.
+
+“(3) The Secretary shall dispose of manufactured housing acquired under this subsection through resale, donation, trade or otherwise within one year of acquisition.
 
 #### “SEC. 205. WAIVER
 
@@ -2054,7 +2110,7 @@ Account.—(1) There is hereby established on the books of the Treasury an accou
 
 &emsp;“(B) any amount remaining in the Account.
 
-“(7) Proceeds received after September 30, 1995, from the transfer or disposal of any property at a military installation closed or realigned under this title shall be deposited directly into the Department of Defense Base Closure Account 1990 established by section 2906(a) of the Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of Public Law 101–510; 10 U.S.C. 2687 note).
+“(7) Proceeds received after September 30, 1995, from the lease, transfer, or disposal of any property at a military installation closed or realigned under this title shall be deposited directly into the Department of Defense Base Closure Account 1990 established by section 2906(a) of the Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of Public Law 101–510; 10 U.S.C. 2687 note).
 
 “(b)
 
@@ -2064,11 +2120,11 @@ Base Closure Account To Be Exclusive Source of Funds for Environmental Restorati
 
 “(a)
 
-Terms of the Resolution.—For purposes of section 202(b), the term ‘joint resolution’ means only a joint resolution which is introduced before March 15, 1989, and—
+Terms of the Resolution.—For purposes of section 202(b), the term ‘joint resolution’ means only ajoint resolution which is introduced before March 15, 1989, and—
 
 &emsp;“(1) which does not have a preamble;
 
-&emsp;“(2) the matter after the resolving clause of which is as follows: ‘That Congress disapproves the recommendations of the Commission on Base Realignmentand Closure established by the Secretary of Defense as submitted to the Secretary of Defense on           ’, the blank space being appropriately filled in; and
+&emsp;“(2) the matter after the resolving clause of which is as follows: ‘That Congress disapproves the recommendations of the Commission on Base Realignment and Closure established by the Secretary of Defense as submitted to the Secretary of Defense on           ’, the blank space being appropriately filled in; and
 
 &emsp;“(3) the title of which is as follows: ‘Joint resolution disapproving the recommendations of the Commission on Base Realignment and Closure.’.
 
@@ -2142,7 +2198,7 @@ Rules of the Senate and House.—This section is enacted by Congress—
 
 &emsp;&emsp;“(B) provides for the reuse or redevelopment of the real property and personal property of the installation that is available for such reuse or redevelopment as a result of the closure of the installation.”
 
-\[For effective date of amendment by section 2813(d)(1) of Pub. L. 103–337 to section 209 of Pub. L. 100–526, setout above, see Effective Date of Amendment by Section 2813(d)(1) and (2) of Pub. L. 103–337 note set out above.\]
+\[For effective date of amendment by section 2813(d)(1) of Pub. L. 103–337 to section 209 of Pub. L. 100–526, set out above, see Effective Date of Amendment by Section 2813(d)(1) and (2) of Pub. L. 103–337 note set out above.\]
 
 \[For effective date of amendment by section 344(a) of Pub. L. 102–190 to sections 204 and 209 of Pub. L. 100–526, set out above, see Effective Date of 1991 Amendments by Section 344 of Pub. L. 102–190 note set out above.\]
 
@@ -2150,5 +2206,5 @@ Rules of the Senate and House.—This section is enacted by Congress—
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2667, 2706 of this title; title 2 section 907c; title 5 section 6304; title 29 section 1662d–1; title 40 sections 484, 485; title 42 section 9620.
+This section is referred to in sections 2667, 2705, 2706, 2871 of this title; title 2 section 907c; title 5 sections 3341, 6304; title 29 section 1662d–1; title 40 sections 484, 485; title 42 section 9620.
 

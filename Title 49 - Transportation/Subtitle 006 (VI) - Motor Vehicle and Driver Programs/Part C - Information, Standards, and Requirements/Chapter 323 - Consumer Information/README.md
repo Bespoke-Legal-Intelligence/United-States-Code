@@ -18,6 +18,10 @@
 
 1994—Pub. L. 103–429, §6(28), Oct. 31, 1994, 108 Stat. 4380, substituted “Civil” for “Criminal” in item 32309.
 
+#### Chapter Referred to in Other Sections
+
+This chapter is referred to in title 18 section 2721.
+
 
 ---
 

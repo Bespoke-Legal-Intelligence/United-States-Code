@@ -1,0 +1,16 @@
+### §6310. Notification of supervising boxing commission
+
+Each promoter who intends to hold a professional boxing match in a State that does not have a boxing commission shall, not later than 14 days before the intended date of that match, provide written notification to the supervising boxing commission designated under section 6303 of this title. Such notification shall contain each of the following:
+
+&emsp;(1) Assurances that, with respect to that professional boxing match, all applicable requirements of this chapter will be met.
+
+&emsp;(2) The name of any person who, at the time of the submission of the notification—
+
+&emsp;&emsp;(A) is under suspension from a boxing commission; and
+
+&emsp;&emsp;(B) will be involved in organizing or participating in the event.
+
+&emsp;(3) For any individual listed under paragraph (2), the identity of the boxing commission that issued the suspension described in paragraph (2)(A).
+
+(Pub. L. 104–272, §11, Oct. 9, 1996, 110 Stat. 3312.)
+

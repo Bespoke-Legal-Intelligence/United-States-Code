@@ -1,0 +1,58 @@
+### §4115. Environmental review
+
+#### (a) In general
+
+#### (1) Release of funds
+
+&emsp;In order to ensure that the policies of the National Environmental Policy Act of 1969 \[42 U.S.C. 4321 et seq.\] and other provisions of law that further the purposes of such Act (as specified in regulations issued by the Secretary) are most effectively implemented in connection with the expenditure of grant amounts provided under this chapter, and to ensure to the public undiminished protection of the environment, the Secretary, in lieu of the environmental protection procedures otherwise applicable, may by regulation provide for the release of amounts for particular projects to tribes which assume all of the responsibilities for environmental review, decisionmaking, and action pursuant to such Act, and such other provisions of law as the regulations of the Secretary specify, that would apply to the Secretary were the Secretary to undertake such projects as Federal projects.
+
+#### (2) Regulations
+
+#### (A) In general
+
+&emsp;&emsp;The Secretary shall issue regulations to carry out this section only after consultation with the Council on Environmental Quality.
+
+#### (B) Contents
+
+&emsp;&emsp;The regulations issued under this paragraph shall—
+
+&emsp;&emsp;&emsp;(i) provide for the monitoring of the environmental reviews performed under this section;
+
+&emsp;&emsp;&emsp;(ii) in the discretion of the Secretary, facilitate training for the performance of such reviews; and
+
+&emsp;&emsp;&emsp;(iii) provide for the suspension or termination of the assumption of responsibilities under this section.
+
+#### (3) Effect on assumed responsibility
+
+&emsp;The duty of the Secretary under paragraph (2)(B) shall not be construed to limit or reduce any responsibility assumed by a recipient of grant amounts with respect to any particular release of funds.
+
+#### (b) Procedure
+
+The Secretary shall approve the release of funds subject to the procedures authorized by this section only if, not less than 15 days prior to such approval and prior to any commitment of funds to such projects, the tribe has submitted to the Secretary a request for such release accompanied by a certification that meets the requirements of subsection (c) of this section. The approval of the Secretary of any such certification shall be deemed to satisfy the responsibilities of the Secretary under the National Environmental Policy Act of 1969 \[42 U.S.C. 4321 et seq.\] and such other provisions of law as the regulations of the Secretary specify insofar as those responsibilities relate to the releases of funds for projects to be carried out pursuant thereto that are covered by such certification.
+
+#### (c) Certification
+
+A certification under the procedures authorized by this section shall—
+
+&emsp;(1) be in a form acceptable to the Secretary;
+
+&emsp;(2) be executed by the chief executive officer or other officer of the tribe under this chapter qualified under regulations of the Secretary;
+
+&emsp;(3) specify that the tribe has fully carried out its responsibilities as described under subsection (a) of this section; and
+
+&emsp;(4) specify that the certifying officer—
+
+&emsp;&emsp;(A) consents to assume the status of a responsible Federal official under the National Environmental Policy Act of 1969 \[42 U.S.C. 4321 et seq.\] and each provision of law specified in regulations issued by the Secretary insofar as the provisions of such Act or such other provisions of law apply pursuant to subsection (a) of this section; and
+
+&emsp;&emsp;(B) is authorized and consents on behalf of the tribe and such officer to accept the jurisdiction of the Federal courts for the purpose of enforcement of the responsibilities of the certifying officer as such an official.
+
+(Pub. L. 104–330, title I, §105, Oct. 26, 1996, 110 Stat. 4028.)
+
+#### References in Text
+
+The National Environmental Policy Act of 1969, referred to in text, is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+
+#### Effective Date
+
+Section effective Oct. 1, 1997, except as otherwise expressly provided, see section 107 of Pub. L. 104–330, set out as a note under section 4101 of this title.
+

@@ -6,7 +6,7 @@ The people of the Virgin Islands shall have the rights of initiative and recall 
 
 #### (b) Initiative
 
-(1) An initiative may enact, amend, or repeal any law, except that an initiative shall not be used to repeal a law declared by the legislature at the time of passage to be an emergency law necessary for the preservation of the public health, safety, or peace.
+(1) An initiative may enact, amend, or repeal any law, except that an initiative shall not beused to repeal a law declared by the legislature at the time of passage to be an emergency law necessary for the preservation of the public health, safety, or peace.
 
 (2) An initiative that proposes a reduction of taxes shall also provide for an equivalent reduction of expenditures or an equivalent increase in revenues from other sources.
 
@@ -58,5 +58,5 @@ As used in this section, the term—
 
 #### Effective Date of 1968 Amendment
 
-Amendment of provisions of section necessary to authorize the holding of an election for Governor and Lieutenant Governor on Nov. 3, 1970, effective Jan. 1, 1970, and all other amendments of provisions of section, unless otherwise expressly provided by Pub. L. 90–496, effective Jan. 4, 1971, see section 16 of Pub. L. 90–496, set out as a note under section 1591 of this title.
+Amendment of provisions of section necessary to authorize the holding of an election for Governor andLieutenant Governor on Nov. 3, 1970, effective Jan. 1, 1970, and all other amendments of provisions of section, unless otherwise expressly provided by Pub. L. 90–496, effective Jan. 4, 1971, see section 16 of Pub. L. 90–496, set out as a note under section 1591 of this title.
 

@@ -4,7 +4,7 @@
 
 #### (1) Part A
 
-&emsp;(A) There are authorized to be appropriated to carry out part A of this subchapter,$135,000,000 (other than section 1059c of this title) for fiscal year 1993, and such sums as may be necessary for each of the 4 succeeding fiscal years.
+&emsp;(A) There are authorized to be appropriated to carry out part A of this subchapter, $135,000,000 (other than section 1059c of this title) for fiscal year 1993, and such sums as may be necessary for each of the 4 succeeding fiscal years.
 
 &emsp;(B)(i) There are authorized to be appropriated to carry out section 1059c of this title, $45,000,000 for fiscal year 1993 and such sums as may be necessary for each of the 4 succeeding fiscal years.
 

@@ -4,7 +4,7 @@
 
 (b) The Secretary shall,<sup>1</sup> include in his annual report a detailed description of the actions taken under this part in the preceding fiscal year and the actions planned to be taken in the subsequent fiscal year. Such description shall show the allocations made (including the allocations made to each State) and include information on the technical assistance carried out with funds allocated, and an estimate of the energy savings, if any, achieved.
 
-(Pub. L. 94–163, title III, §400I, as added Pub. L. 95–619, title III, §311(a), Nov. 9, 1978, 92 Stat. 3253; amended Pub. L. 96–470, title II, §203(a), Oct. 19, 1980, 94 Stat. 2242.)
+(Pub. L. 94–163, title III, §400I, as added Pub. L. 95–619, title III, §311(a), Nov. 9, 1978, 92 Stat. 3253;amended Pub. L. 96–470, title II, §203(a), Oct. 19, 1980, 94 Stat. 2242.)
 
 #### Amendments
 

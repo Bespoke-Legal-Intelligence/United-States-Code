@@ -1,0 +1,12 @@
+### §3839aa–5. Environmental quality incentives program plan
+
+#### (a) In general
+
+To be eligible to enter into a contract under the environmental quality incentives program, an owner or producer of a livestock or agricultural operation must submit to the Secretary for approval a plan of operations that incorporates such conservation practices, and is based on such principles, as the Secretary considers necessary to carry out the program, including a description of structural practices and land management practices to be implemented and the objectives to be met by the plan's implementation.
+
+#### (b) Avoidance of duplication
+
+The Secretary shall, to the maximum extent practicable, eliminate duplication of planning activities under the environmental quality incentives program and comparable conservation programs.
+
+(Pub. L. 99–198, title XII, §1240E, as added Pub. L. 104–127, title III, §334, Apr. 4, 1996, 110 Stat. 1001.)
+

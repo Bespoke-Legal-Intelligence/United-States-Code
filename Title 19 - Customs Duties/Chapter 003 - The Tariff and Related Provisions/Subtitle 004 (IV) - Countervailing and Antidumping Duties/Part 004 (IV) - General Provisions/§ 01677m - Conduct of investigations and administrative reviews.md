@@ -20,7 +20,7 @@ Any person providing factual information to the administering authority or the C
 
 #### (1) Notification by interested party
 
-&emsp;If an interested party, promptly after receiving a request from the administering authority or the Commission for information, notifies the administering authority or the Commission (as the case may be) that such party is unable to submit the information requested in the requested form and manner, together with a full explanation and suggested alternative forms in which such party is able to submit the information, the administering authority or the Commission (as the case may be) shall consider the ability of the interestedparty to submit the information in the requested form and manner and may modify such requirements to the extent necessary to avoid imposing an unreasonable burden on that party.
+&emsp;If an interested party, promptly after receiving a request from the administering authority or the Commission for information, notifies the administering authority or the Commission (as the case may be) that such party is unable to submit the information requested in the requested form and manner, together with a full explanation and suggested alternative forms in which such party is able to submit the information, the administering authority or the Commission (as the case may be) shall consider the ability of the interested party to submit the information in the requested form and manner and may modify such requirements to the extent necessary to avoid imposing an unreasonable burden on that party.
 
 #### (2) Assistance to interested parties
 
@@ -84,7 +84,7 @@ The administering authority shall verify all information relied upon in making�
 
 #### Effective Date
 
-Section effective, except as otherwise provided, on the date on which the WTO Agreement enters intoforce with respect to the United States \[Jan. 1, 1995\], and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of this chapter after such date, see section 291 of Pub. L. 103–465, set out as an Effective Date of 1994 Amendment note under section 1671 of this title.
+Section effective, except as otherwise provided, on the date on which the WTO Agreement enters into force with respect to the United States \[Jan. 1, 1995\], and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of this chapter after such date, see section 291 of Pub. L. 103–465, set out as an Effective Date of 1994 Amendment note under section 1671 of this title.
 
 #### Section Referred to in Other Sections
 

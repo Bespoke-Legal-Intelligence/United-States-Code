@@ -1,6 +1,6 @@
 ### §3717. Interest and penalty on claims
 
-(a)(1) The head of an executive or legislative agency shall charge a minimum annual rate of interest on an outstanding debt on a United States Government claim owed by a person that is equal to the average investment rate for the Treasury tax and loan accounts for the 12-month period ending on September 30 of each year, rounded to the nearest whole percentage point. The Secretary of the Treasury shall publish the rate before November 1 of that year. The rate is effective on the first day of the next calendar quarter.
+(a)(1) The head of an executive, judicial, or legislative agency shall charge a minimum annual rate of interest on an outstanding debt on a United States Government claim owed by a person that is equal to the average investmentrate for the Treasury tax and loan accounts for the 12-month period ending on September 30 of each year, rounded to the nearest whole percentage point. The Secretary of the Treasury shall publish the rate before November 1 of that year. The rate is effective on the first day of the next calendar quarter.
 
 (2) The Secretary may change the rate of interest for a calendar quarter if the average investment rate for the 12-month period ending at the close of the prior calendar quarter, rounded to the nearest whole percentage point, is more or less than the existing published rate by 2 percentage points.
 
@@ -8,7 +8,7 @@
 
 &emsp;(1) on which notice is mailed after October 25, 1982, if notice was first mailed before October 25, 1982; or
 
-&emsp;(2) notice of the amount due is first mailed to the debtor at the most current address of the debtor available to the head of the executive or legislative agency, if notice is first mailed after October 24, 1982.
+&emsp;(2) notice of the amount due is first mailed to the debtor at the most current address of the debtor available to the head of the executive or <sup>1</sup> legislative agency, if notice is first mailed after October 24, 1982.
 
 (c) The rate of interest charged under subsection (a) of this section—
 
@@ -16,9 +16,9 @@
 
 &emsp;(2) remains fixed at that rate for the duration of the indebtedness.
 
-(d) Interest under subsection (a) of this section may not be charged if the amount due on the claim is paid within 30 days after the date from which interest accrues under subsection (b) of this section. The head of an executive or legislative agency may extend the 30-day period.
+(d) Interest under subsection (a) of this section may not be charged if the amount due on the claim is paid within 30 days after the date from which interest accrues under subsection (b) of this section. The head of an executive, judicial, or legislative agency may extend the 30-day period.
 
-(e) The head of an executive or legislative agency shall assess on a claim owed by a person—
+(e) The head of an executive, judicial, or legislative agency shall assess on a claim owed by a person—
 
 &emsp;(1) a charge to cover the cost of processing and handling a delinquent claim; and
 
@@ -32,9 +32,17 @@
 
 &emsp;(2) to a claim under a contract executed before October 25, 1982, that is in effect on October 25, 1982.
 
-(h) In conformity with standards prescribed jointly by the Attorney General and the Comptroller General, the head of an executive or legislative agency may prescribe regulations identifying circumstances appropriate to waiving collection of interest and charges under subsections (a) and (e) of this section. A waiver under the regulations is deemed to be compliance with this section.
+(h) In conformity with standards prescribed jointly by the Attorney General, the Secretary of the Treasury, and the Comptroller General, the head of an executive, judicial, or legislative agency may prescribe regulations identifying circumstances appropriate to waiving collection of interest and charges under subsections (a) and (e) of this section. A waiver under the regulations is deemed to be compliance with this section.
 
-(Added Pub L. 97–452, §1(16)(A), Jan. 12, 1983, 96 Stat. 2472.)
+(i)(1) The head of an executive, judicial, or legislative agency may increase an administrative claim by the cost of living adjustment in lieu of charging interest and penalties under this section. Adjustments under this subsection will be computed annually.
+
+(2) For the purpose of this subsection—
+
+&emsp;(A) the term “cost of living adjustment” means the percentage by which the Consumer Price Index for the month of June of the calendar year preceding the adjustment exceeds the Consumer Price Index for the month of June of the calendar year in which the claim was determined or last adjusted; and
+
+&emsp;(B) the term “administrative claim” includes all debt that is not based on an extension of Government credit through direct loans, loan guarantees, or insurance, including fines, penalties, and overpayments.
+
+(Added Pub L. 97–452, §1(16)(A), Jan. 12, 1983, 96 Stat. 2472; amended Pub. L. 104–134, title III, §31001(c)(1), (g)(1)(C), (q), Apr. 26, 1996, 110 Stat. 1321–359, 1321–363, 1321–372.)
 
 Historical and Revision Notes
 
@@ -92,7 +100,19 @@ In subsection (g)(1), the words “applicable” and “either” are omitted as
 
 In subsection (h), the words “under this section” are added for clarity.
 
+#### Amendments
+
+1996—Subsec. (a)(1). Pub. L. 104–134, §31001(c)(1), which directed that this section be amended by substituting “the head of an executive, judicial, or legislative agency” for “the head of an executive or legislative agency” wherever appearing, was executed by substituting “The head of an executive, judicial, or legislative agency” for “The head of an executive or legislative agency”, to reflect the probable intent of Congress.
+
+Subsecs. (d), (e). Pub. L. 104–134, §31001(c)(1), which directed that this section be amended by substituting “the head of an executive, judicial, or legislative agency” for “the head of an executive or legislative agency” wherever appearing, was executed by substituting “The head of an executive, judicial, or legislative agency” for “The head of an executive or legislative agency”, to reflect the probable intent of Congress.
+
+Subsec. (h). Pub. L. 104–134, §31001(c)(1), (g)(1)(C), inserted “, the Secretary of the Treasury,” after “Attorney General” and substituted “the head of an executive, judicial, or legislative agency” for “the head of an executive or legislative agency”.
+
+Subsec. (i). Pub. L. 104–134, §31001(q), added subsec. (i).
+
 #### Section Referred to in Other Sections
 
-This section is referred to in section 3701 of this title; title 5 section 5514; title 7 sections 147a, 2371; title 18section 1114; title 21 section 136a; title 22 section 2671; title 26 section 6103.
+This section is referred to in sections 3701, 3711 of this title; title 5 section 5514; title 7 sections 147a, 2260a, 2371; title 15 section 80a–24; title 21 section 136a; title 22 section 2671; title 26 section 6103; title 42 section 404.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “, judicial, or”.</i>
 

@@ -14,7 +14,7 @@ Notwithstanding any other provision of this chapter inconsistent with this secti
 
 #### (c) Required contract provisions
 
-Any contract of reinsurance under this section shall contain such provisions relating to the sharing of premiums on a sound actuarial basis, establishment of insurance reserves, manner of calculating claims on such insurance, conditions with respect to foreclosure, handling and disposition of property prior to claim or settlement, right of assignees, and other similar matters as the Secretary may prescribe pursuant to regulations. Pursuant to a contract under this section, a private mortgage insurance company shall endorse loans for insurance and take such other actions on behalf of the Secretary and in the Secretary's name as the Secretary may authorize.
+Any contract of reinsurance under this section shall contain such provisions relating to the sharing of premiums on a sound actuarial basis, establishment of insurance reserves, manner of calculating claims on such insurance, conditions with respect to foreclosure, handling and disposition of property prior to claim or settlement, right of assignees, and other similar matters as the Secretary may prescribe pursuant to regulations. Pursuant to a contract under this section, a private mortgage insurance companyshall endorse loans for insurance and take such other actions on behalf of the Secretary and in the Secretary's name as the Secretary may authorize.
 
 #### (d) Mortgages offered for inclusion by Secretary
 

@@ -22,19 +22,21 @@ Under such regulations as the Secretary may prescribe and subject to the provisi
 
 (4) Any citizen of the United States who, during any war in which the United States is or has been engaged, served in the armed forces of any government allied with the United States during that war, and whose last such service terminated honorably.
 
-(5) The spouse, surviving spouse (which for purposes of this chapter includes an unremarried surviving spouse who had a subsequent remarriage which was terminated by death or divorce), minor child, and, in the discretion of the Secretary, unmarried adult child of any of the persons listed in paragraphs (1) through (4) and paragraph (7).
+(5) The spouse, surviving spouse (which for purposes of this chapter includes an unremarried surviving spouse who had a subsequent remarriage which was terminated by death or divorce), minor child (which for purposes of this chapter includes a child under 21 years of age, or under 23 years of age if pursuing a course of instruction at an approved educational institution), and, in the discretion of the Secretary, unmarried adult child of any of the persons listed in paragraphs (1) through (4) and paragraph (7).
 
 (6) Such other persons or classes of persons as may be designated by the Secretary.
 
 (7) Any person who at the time of death was entitled to retired pay under chapter 67 <sup>1</sup> of title 10 or would have been entitled to retired pay under that chapter but for the fact that the person was under 60 years of age.
 
-(Added Pub. L. 93–43, §2(a), June 18, 1973, 87 Stat. 75, §1002; amended Pub. L. 99–576, title VII, §701(54), Oct. 28, 1986, 100 Stat. 3295; Pub. L. 101–237, title III, §313(b)(1), Dec. 18, 1989, 103 Stat. 2077; Pub. L. 102–40, title IV, §402(d)(1), May 7, 1991, 105 Stat. 239; renumbered §2402, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–240, §1, May 4, 1994, 108 Stat. 609; Pub. L. 103–446, title VIII, §§801, 802, Nov. 2, 1994, 108 Stat. 4675.)
+(Added Pub. L. 93–43, §2(a), June 18, 1973, 87 Stat. 75, §1002; amended Pub. L. 99–576, title VII, §701(54), Oct. 28, 1986, 100 Stat. 3295; Pub. L. 101–237, title III, §313(b)(1), Dec. 18, 1989, 103 Stat. 2077; Pub. L. 102–40, title IV, §402(d)(1), May 7, 1991, 105 Stat. 239; renumbered §2402, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–240, §1, May 4, 1994, 108 Stat. 609; Pub. L. 103–446, title VIII, §§801, 802, Nov. 2, 1994, 108 Stat. 4675; Pub. L. 104–275, title II, §211, Oct. 9, 1996, 110 Stat. 3330.)
 
 #### References in Text
 
 Chapter 67 of title 10, referred to in par. (7), was transferred to part II of subtitle E of Title 10, Armed Forces, renumbered as chapter 1223, and amended generally by Pub. L. 103–337, div. A, title XVI, §1662(j)(1), Oct. 5, 1994, 108 Stat. 2998. A new chapter 67 (§1331) of Title 10 was added by section 1662(j)(7) of Pub. L. 103–337.
 
 #### Amendments
+
+1996—Par. (5). Pub. L. 104–275 inserted “(which for purposes of this chapter includes a child under 21 years of age, or under 23 years of age if pursuing a course of instruction at an approved educational institution)” after “minor child”.
 
 1994—Par. (5). Pub. L. 103–446 inserted “spouse,” after “The” and “(which for purposes of this chapter includes an unremarried surviving spouse who had a subsequent remarriage which was terminated by death or divorce)” after “surviving spouse”.
 

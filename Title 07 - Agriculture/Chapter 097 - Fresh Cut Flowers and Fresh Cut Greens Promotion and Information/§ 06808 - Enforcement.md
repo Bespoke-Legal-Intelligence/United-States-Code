@@ -42,7 +42,7 @@ A civil action brought under subsection (a) of this section shall be referred to
 
 #### (A) In general
 
-&emsp;&emsp;Any person against whom a violation is found and a civil penalty is assessed or a cease and desist order is issued under subsection (c) of this section may obtain review of the penalty or order by, within the 30-day period beginning on the date the penalty is assessed or order issued—
+&emsp;&emsp;Any person against whom a violation is found and a civil penalty is assessed or a cease and desist order is issued under subsection (c) of this section may obtain review of the penalty or order by, within the 30-dayperiod beginning on the date the penalty is assessed or order issued—
 
 &emsp;&emsp;&emsp;(i) filing a notice of appeal in the district court of the United States for the district in which the person resides or conducts business, or in the United States District Court for the District of Columbia; and
 
@@ -64,7 +64,7 @@ A civil action brought under subsection (a) of this section shall be referred to
 
 #### (2) Separate violations
 
-&emsp;Each day during which the person fails to obey an order described in paragraph (1) shallbe considered as a separate violation of the order.
+&emsp;Each day during which the person fails to obey an order described in paragraph (1) shall be considered as a separate violation of the order.
 
 #### (f) Failure to pay penalty
 

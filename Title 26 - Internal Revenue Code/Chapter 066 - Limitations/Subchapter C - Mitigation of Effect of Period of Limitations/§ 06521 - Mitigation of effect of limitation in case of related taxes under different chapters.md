@@ -2,7 +2,7 @@
 
 #### (a) Self-employment tax and tax on wages
 
-In the case of the tax imposed by chapter 2 (relating to tax on self-employment income) and the tax imposed by section 3101 (relating to tax on employees under the Federal Insurance Contributions Act)—
+In the case of the tax imposed by chapter 2 (relating to tax on self-employment income) and the tax imposed by section 3101 (relating to taxon employees under the Federal Insurance Contributions Act)—
 
 &emsp;(1) If an amount is erroneously treated as self-employment income, or if an amount is erroneously treated as wages, and
 

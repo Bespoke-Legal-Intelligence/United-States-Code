@@ -16,7 +16,7 @@ Upon expiration of the period for which a loan or loan guarantee was provided an
 
 An entity which provides health services to a defined population on a prepaid basis and which has members who are entitled to insurance benefits under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\] or to medical assistance under a State plan approved under title XIX of such Act \[42 U.S.C. 1396 et seq.\] may be considered as a health maintenance organization for purposes of receiving assistance under this subchapter if—
 
-&emsp;(1) with respect to its members who are entitled to such insurance benefits or to such medical assistance it (A) provides health services in accordance with section 300e(b) of this title, except that (i) it does not furnish to those members the health services (within the basic health services) for which it may not be compensated under such title XVIII \[42 U.S.C. 1395et seq.\] or such State plan, and (ii) it does not fix the basic or supplemental health services payment for such members under a community rating system, and (B) is organized and operated in the manner prescribed by section 300e(c) of this title, except that it does not assume full financial risk on a prospective basis for the provision to such members of basic or supplemental health services with respect to which it is not required under such title XVIII or such State plan to assume such financial risk; and
+&emsp;(1) with respect to its members who are entitled to such insurance benefits or to such medical assistance it (A) provides health services in accordance with section 300e(b) of this title, except that (i) it does not furnish to those members the health services (within the basic health services) for which it may not be compensated under such title XVIII \[42 U.S.C. 1395 et seq.\] or such State plan, and (ii) it does not fix the basic or supplemental health services payment for such members under a community rating system, and (B) is organized and operated in the manner prescribed by section 300e(c) of this title, except that it does not assume full financial risk on a prospective basis for the provision to such members of basic or supplemental health services with respect to which it is not required under such title XVIII or such State plan to assume such financial risk; and
 
 &emsp;(2) with respect to its other members it provides health services in accordance with section 300e(b) of this title and is organized and operated in the manner prescribed by section 300e(c) of this title.
 
@@ -30,7 +30,7 @@ The Social Security Act, referred to in subsec. (d), is act Aug. 14, 1935, ch. 5
 
 #### Amendments
 
-1986—Subsec. (a)(1). Pub. L. 99–660, §803(b)(2), substituted “loan or loan guarantee” for “grant, contract, loan, or loan guarantee”, “proceeds of the loan” for “proceeds of the grant, contract, or loan”, and “with which the loan was given” for “with which such assistance was given”.
+1986—Subsec. (a)(1). Pub. L. 99–660, §803(b)(2), substituted “loan or loan guarantee” for “grant, contract,loan, or loan guarantee”, “proceeds of the loan” for “proceeds of the grant, contract, or loan”, and “with which the loan was given” for “with which such assistance was given”.
 
 Subsecs. (a)(2), (b). Pub. L. 99–660, §803(b)(2)(A), substituted “loan or loan guarantee” for “grant, contract, loan, or loan guarantee”.
 

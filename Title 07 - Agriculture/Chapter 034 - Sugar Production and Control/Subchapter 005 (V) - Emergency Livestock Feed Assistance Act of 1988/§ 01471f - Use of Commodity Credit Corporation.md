@@ -8,3 +8,7 @@ The Secretary shall carry out this subchapter through the use of the funds, faci
 
 Section effective 15 days after Aug. 11, 1988, see section 101(c)(1) of Pub. L. 100–387, set out as an Effective and Termination Dates of 1988 Amendment note under section 1427 of this title.
 
+#### Inapplicability of Section
+
+Section inapplicable to 1996 through 2002 crops of loan commodities, peanuts, and sugar and inapplicable to milk during period beginning Apr. 4, 1996, and ending Dec. 31, 2002, see section 7301(b)(1)(L) of this title.
+

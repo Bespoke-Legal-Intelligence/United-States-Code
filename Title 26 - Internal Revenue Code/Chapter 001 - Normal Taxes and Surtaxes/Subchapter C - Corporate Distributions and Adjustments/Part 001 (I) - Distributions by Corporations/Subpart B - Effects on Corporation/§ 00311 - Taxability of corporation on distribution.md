@@ -26,7 +26,7 @@ Except as provided in subsection (b), no gain or loss shall be recognized to a c
 
 #### (3) Special rule for certain distributions of partnership or trust interests
 
-&emsp;If the property distributed consists of an interest in a partnership or trust, the Secretary may by regulations provide that the amount of the gain recognized under paragraph (1) shall be computed without regard to any loss attributable to property contributed to the partnership or trust for the principal purpose of recognizing such loss on the distribution.
+&emsp;If the property distributed consists of an interest in a partnership or trust, the Secretarymay by regulations provide that the amount of the gain recognized under paragraph (1) shall be computed without regard to any loss attributable to property contributed to the partnership or trust for the principal purpose of recognizing such loss on the distribution.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 94; Dec. 30, 1969, Pub. L. 91–172, title IX, §905(a), (b)(1), 83 Stat. 713, 714; Oct. 2, 1976, Pub. L. 94–452, §2(b), 90 Stat. 1511; Oct. 4, 1976, Pub. L. 94–455, title XIX, §1901(a)(42)(A), (B)(i), (C), 90 Stat. 1771; Nov. 6, 1978, Pub. L. 95–600, title VII, §703(j)(2)(A), (B), 92 Stat. 2941; Oct. 19, 1980, Pub. L. 96–471, §2(b)(1), 94 Stat. 2253; Sept. 3, 1982, Pub. L. 97–248, title II, §223(a), 96 Stat. 483; July 18, 1984, Pub. L. 98–369, div. A, title I, §54(a), title VII, §712(j), 98 Stat. 568, 948; Oct. 22, 1986, Pub. L. 99–514, title VI, §631(c), 100 Stat. 2272; Nov. 10, 1988, Pub. L. 100–647, title I, §§1006(e)(8)(B), (21)(B), 1018(d)(5)(E), 102 Stat. 3401, 3403, 3580.)
 
@@ -90,7 +90,7 @@ Section 54(d) of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, title XV
 
 “(1)
 
-Subsection (a).—Except as otherwise provided in this subsection, the amendments made by subsection (a) \[amending this section\] shall apply to distributions declared on or after June 14, 1984, in taxable years ending after such date.
+Subsection (a).—Except as otherwise provided in this subsection, the amendments made by subsection (a) \[amending this section\] shall apply to distributionsdeclared on or after June 14, 1984, in taxable years ending after such date.
 
 “(2)
 

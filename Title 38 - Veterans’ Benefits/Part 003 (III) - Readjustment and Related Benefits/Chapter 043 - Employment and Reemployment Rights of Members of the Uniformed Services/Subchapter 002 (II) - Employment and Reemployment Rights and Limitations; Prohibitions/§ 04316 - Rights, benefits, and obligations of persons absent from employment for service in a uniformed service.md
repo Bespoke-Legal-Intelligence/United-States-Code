@@ -32,19 +32,27 @@
 
 &emsp;(2) within 180 days after the date of such reemployment, if the person's period of service before the reemployment was more than 30 days but less than 181 days.
 
-(d) Any person whose employment with an employer is interrupted by a period of service in the uniformed services shall be permitted, upon request of that person, to use during such period of service any vacation, annual, or similar leave with pay accrued by the person before the commencement of such service.
+(d) Any person whose employment with an employer is interrupted by a period of service in the uniformed services shall be permitted, upon request of that person, to use during such period of service any vacation, annual, or similar leave with pay accrued by the person before the commencement of such service. No employer may require any such person to use vacation, annual, or similar leave during such period of service.
 
-(Added Pub. L. 103–353, §2(a), Oct. 13, 1994, 108 Stat. 3160.)
+(Added Pub. L. 103–353, §2(a), Oct. 13, 1994, 108 Stat. 3160; amended Pub. L. 104–275, title III, §311(6), Oct. 9, 1996, 110 Stat. 3335.)
 
 #### Prior Provisions
 
 A prior section 4316 was renumbered section 7616 of this title.
 
+#### Amendments
+
+1996—Subsec. (d). Pub. L. 104–275 inserted at end “No employer may require any such person to use vacation, annual, or similar leave during such period of service.”
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–275 effective Oct. 13, 1994, see section 313 of Pub. L. 104–275, set out as a note under section 4301 of this title.
+
 #### Effective Date
 
-Section effective with respect to reemployments initiated on or after the first day after the 60-day period beginning Oct. 13, 1994, with transition rules, except that the provisions concerning insurance coverage (other than health) are effective with respect to furloughs or leaves of absence initiated on or after Oct. 13, 1994, and subsec. (b)(2) of this section is applicable only to the rights and benefits provided in subsec. (b)(1)(B) of this section and to persons who leave a position of employment for service in the uniformed services more than 60 days after Oct. 13, 1994, and not applicable to any other right or benefit of a person under this chapter, see section 8 of Pub. L. 103–353, set out as a note under section 4301 of this title.
+Section effective with respect to reemployments initiated on or after the first day after the 60-day period beginning Oct. 13, 1994, with transition rules, except that the provisions concerning insurance coverage (other than health) are effective with respect to furloughs or leaves of absence initiated on or after Oct. 13, 1994, and subsec. (b)(2) of this section is applicable only to the rights and benefits provided in subsec. (b)(1)(B)of this section and to persons who leave a position of employment for service in the uniformed services more than 60 days after Oct. 13, 1994, and not applicable to any other right or benefit of a person under this chapter, see section 8 of Pub. L. 103–353, set out as a note under section 4301 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 2 section 1316.
+This section is referred to in title 2 section 1316; title 3 section 416.
 

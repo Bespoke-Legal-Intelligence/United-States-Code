@@ -4,7 +4,7 @@
 
 #### (1) Territories
 
-&emsp;Not more than $5,000,000 of the amount appropriated pursuant to section 1502(a)(1) of this title for each fiscal year and available for this part shall be allotted among Guam, the Virgin Islands, American Samoa, the Commonwealth of the Northern Mariana Islands, the Federated States of Micronesia, the Republic of the Marshall Islands, and Palau.
+&emsp;Not more than $5,000,000 of the amount appropriated pursuant to section 1502(a)(1) ofthis title for each fiscal year and available for this part shall be allotted among Guam, the Virgin Islands, American Samoa, the Commonwealth of the Northern Mariana Islands, the Federated States of Micronesia, the Republic of the Marshall Islands, and Palau.
 
 #### (2) States
 
@@ -70,7 +70,7 @@
 
 &emsp;Of the remaining 18 percent of the allotment of the State under subsection (a) of this section for each fiscal year—
 
-&emsp;&emsp;(A) 5 percent of such allotment of the State for each fiscal year shall be available to the Governor of the State to be used for overall administration, management, and auditing activities relating to programs under this subchapter and for activities described in sections 1531 and 1532 of this title;
+&emsp;&emsp;(A) 5 percent of such allotment of the State for each fiscal year shall be availableto the Governor of the State to be used for overall administration, management, and auditing activities relating to programs under this subchapter and for activities described in sections 1531 and 1532 of this title;
 
 &emsp;&emsp;(B) 5 percent of such allotment of each State for each fiscal year shall be available to provide incentive grants authorized under section 1516(b)(7) of this title, in accordance with paragraph (2); and
 
@@ -118,7 +118,7 @@ As used in this section:
 
 &emsp;&emsp;&emsp;&emsp;(I) the number that represents the number of unemployed individuals in excess of 4.5 percent of the civilian labor force in the service delivery area; or
 
-&emsp;&emsp;&emsp;&emsp;(II) the number that represents the number of unemployed individuals in excess of 4.5 percent of the civilian laborforce in areas of substantial unemployment in such service delivery area.
+&emsp;&emsp;&emsp;&emsp;(II) the number that represents the number of unemployed individuals in excess of 4.5 percent of the civilian labor force in areas of substantial unemployment in such service delivery area.
 
 #### (C) State
 
@@ -228,7 +228,7 @@ As used in this section:
 
 #### (B) Excess number
 
-&emsp;&emsp;The terms “excess number” and “State” shall have the meanings given the terms in subparagraphs (B) and (C), respectively, of section 1602(d)(1) of this title.
+&emsp;&emsp;The terms “excess number” and “State” shall have the meanings given the terms insubparagraphs (B) and (C), respectively, of section 1602(d)(1) of this title.
 
 #### (2) Special rule
 
@@ -272,7 +272,7 @@ Level of funding.—If title II of the Job Training Partnership Act \[this subch
 
 &emsp;&emsp;“(B) the amount appropriated to carry out part A of title II of such Act, as in effect on the day before the date of enactment of this Act \[Sept. 7, 1992\], for fiscal year 1992,
 
-> &emsp;the amendment made by section 207 of this Act \[enacting this section\] shall take effect. \[Amendment by section 207 did not take effect because the appropriations referred to above for fiscal year 1996 were less than the sum referred to above.\]
+> &emsp;the amendment made by section 207 of this Act \[enacting this section\] shall take effect. \[Amendment by section 207 did not take effect because the appropriations referred to above for fiscal year 1997 were less than the sum referred to above.\]
 
 &emsp;“(2)
 

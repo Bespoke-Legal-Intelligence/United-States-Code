@@ -10,7 +10,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 5 U.S.C. 635 (less last 24 words of 6th sentence, and less 7th sentence).
 
@@ -28,7 +30,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-<b>1978</b>—Pub. L. 95–454 substituted “Administrative procedure” for “Boards of examiners” in section catchline, and in text provisions relating to administrative procedure applicable to administration of this chapter for provisions relating to boards of examiners for the United States Civil Service Commission.
+1978—Pub. L. 95–454 substituted “Administrative procedure” for “Boards of examiners” in section catchline, and in text provisions relating to administrative procedure applicable to administration of this chapter for provisions relating to boards of examiners for the United States Civil Service Commission.
 
 #### Effective Date of 1978 Amendment
 

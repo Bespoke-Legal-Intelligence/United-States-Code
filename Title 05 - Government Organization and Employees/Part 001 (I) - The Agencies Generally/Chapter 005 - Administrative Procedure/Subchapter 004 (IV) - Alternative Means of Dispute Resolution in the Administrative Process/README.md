@@ -6,7 +6,7 @@ Another subchapter IV (§581 et seq.) relating to negotiated rulemaking procedur
 
 #### Amendments
 
-<b>1992</b>—Pub. L. 102–354, §3(b)(1), Aug. 26, 1992, 106 Stat. 944, transferred this subchapter so as to appear immediately after subchapter III of this chapter.
+1992—Pub. L. 102–354, §3(b)(1), Aug. 26, 1992, 106 Stat. 944, transferred this subchapter so as to appear immediately after subchapter III of this chapter.
 
 #### Subchapter Referred to in Other Sections
 
@@ -28,5 +28,6 @@ This subchapter is referred to in section 556 of this title; title 12 section 48
 - [&sect; 00579 - Arbitration proceedings](%C2%A7%2000579%20-%20Arbitration%20proceedings.md)
 - [&sect; 00580 - Arbitration awards](%C2%A7%2000580%20-%20Arbitration%20awards.md)
 - [&sect; 00581 - Judicial Review 1](%C2%A7%2000581%20-%20Judicial%20Review%201.md)
-- [&sect; 00582 - Compilation of information](%C2%A7%2000582%20-%20Compilation%20of%20information.md)
+- [&sect; 00582 - Repealed. Pub. L. 104&#8211;320, &sect;4(b)(1), Oct. 19, 1996, 110 Stat. 3871](%C2%A7%2000582%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93320%2C%20%C2%A74%28b%29%281%29%2C%20Oct.%2019%2C%201996%2C%20110%20Stat.%203871.md)
 - [&sect; 00583 - Support services](%C2%A7%2000583%20-%20Support%20services.md)
+- [&sect; 00584 - Authorization of appropriations](%C2%A7%2000584%20-%20Authorization%20of%20appropriations.md)

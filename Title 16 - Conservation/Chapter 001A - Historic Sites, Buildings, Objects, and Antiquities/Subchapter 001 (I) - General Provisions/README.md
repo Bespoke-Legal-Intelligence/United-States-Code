@@ -1,5 +1,13 @@
 ### SUBCHAPTER I—GENERAL PROVISIONS
 
+<i><sup>1</sup></i><i> So in original. There probably should be quotation marks.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be followed by a period.</i>
+
+<i><sup>3</sup></i><i> So in original. Probably should be “subsection”.</i>
+
+<i><sup>4</sup></i><i> So in original. Probably should be “ratio”.</i>
+
 
 ---
 
@@ -37,3 +45,4 @@
 - [&sect; 00469h - Comprehensive plan for Reserve Development](%C2%A7%2000469h%20-%20Comprehensive%20plan%20for%20Reserve%20Development.md)
 - [&sect; 00469i - Repealed. Pub. L. 91&#8211;483, &sect;1(4), Oct. 21, 1970, 84 Stat. 1083](%C2%A7%2000469i%20-%20Repealed.%20Pub.%20L.%2091%E2%80%93483%2C%20%C2%A71%284%29%2C%20Oct.%2021%2C%201970%2C%2084%20Stat.%201083.md)
 - [&sect; 00469j - Commission for the Preservation of America's Heritage Abroad](%C2%A7%2000469j%20-%20Commission%20for%20the%20Preservation%20of%20America%27s%20Heritage%20Abroad.md)
+- [&sect; 00469k - American Battlefield Protection Program](%C2%A7%2000469k%20-%20American%20Battlefield%20Protection%20Program.md)

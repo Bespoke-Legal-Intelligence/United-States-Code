@@ -42,7 +42,7 @@ At the request of an entity that is representative of an industry identified und
 
 #### (2) Criteria for initiation
 
-&emsp;In determining whether to initiate any investigation under section 2411 of this title or any other trade law, other than title VII of the Tariff Act of 1930 \[19 U.S.C. 1671 et seq.\], theTrade Representative, after consultation with the Secretary of Commerce—
+&emsp;In determining whether to initiate any investigation under section 2411 of this title or any other trade law, other than title VII of the Tariff Act of 1930 \[19 U.S.C. 1671 et seq.\], the Trade Representative, after consultation with the Secretary of Commerce—
 
 &emsp;&emsp;(A) shall seek the advice of the advisory committees established under section 2155 of this title;
 
@@ -62,7 +62,7 @@ Any decision, whether positive or negative, or any action by the Trade Represent
 
 &emsp;(1) prejudice the right of any industry to file a petition under any trade law;
 
-&emsp;(2) prejudice, affect, or substitute for, any proceeding, investigation, determination, or action by the Secretary of Commerce, the International Trade Commission, or the Trade Representative pursuant to such a petition,<sup>1</sup> or
+&emsp;(2) prejudice, affect, or substitute for, any proceeding, investigation, determination, or action by the Secretary of Commerce, the International Trade Commission, or the Trade Representative pursuant to such a petition; or
 
 &emsp;(3) prejudice, affect, substitute for, or obviate any proceeding, investigation, or determination under section 2411 of this title, title VII of the Tariff Act of 1930 \[19 U.S.C. 1671 et seq.\], or any other trade law.
 
@@ -70,11 +70,13 @@ Any decision, whether positive or negative, or any action by the Trade Represent
 
 Nothing in this section may be construed to alter in any manner the requirements in effect before December 8, 1993, for standing under any law of the United States or to add any additional requirements for standing under any law of the United States.
 
-(Pub. L. 103–182, title IV, §407, Dec. 8, 1993, 107 Stat. 2138.)
+(Pub. L. 103–182, title IV, §407, Dec. 8, 1993, 107 Stat. 2138; Pub. L. 104–295, §21(c)(2), Oct. 11, 1996, 110 Stat. 3530.)
 
 #### References in Text
 
 The Tariff Act of 1930, referred to in subsecs. (d)(1)(B), (2) and (e)(3), is act June 17, 1930, ch. 497, 46 Stat. 590, as amended. Title VII of the Act is classified generally to subtitle IV (§1671 et seq.) of chapter 4 of this title. Subtitle A of title VII of the Act is classified generally to part I (§1671 et seq.) of subtitle IV of chapter 4 of this title. For complete classification of this Act to the Code, see section 1654 of this title and Tables.
 
-<i><sup>1</sup></i><i> So in original. The comma probably should be a semicolon.</i>
+#### Amendments
+
+1996—Subsec. (e)(2). Pub. L. 104–295 substituted semicolon for comma after “such a petition”.
 

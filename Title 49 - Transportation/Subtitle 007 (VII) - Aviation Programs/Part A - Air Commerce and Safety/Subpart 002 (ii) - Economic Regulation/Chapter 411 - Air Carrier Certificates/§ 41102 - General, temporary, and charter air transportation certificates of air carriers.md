@@ -12,7 +12,7 @@ Issuance.—The Secretary of Transportation may issue a certificate of public co
 
 (b)
 
-Findings Required for Issuance.—(1) Before issuing a certificate under subsection (a) of this section, the Secretary must find that the citizen is fit, willing, and able to provide the transportation to be authorized by the certificate and to comply with this part and regulations of the Secretary.
+Findings Required for Issuance.—(1) Before issuing a certificate under subsection (a) of this section, the Secretary must find that the citizen is fit, willing, and able to provide thetransportation to be authorized by the certificate and to comply with this part and regulations of the Secretary.
 
 (2) In addition to the findings under paragraph (1) of this subsection, the Secretary, before issuing a certificate under subsection (a) of this section for foreign air transportation, must find that the transportation is consistent with the public convenience and necessity.
 
@@ -32,7 +32,9 @@ Foreign Air Transportation.—The Secretary shall submit each decision authorizi
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -52,7 +54,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §401(d)(3); added July 10, 1962,
 
 &nbsp;
 
-49 App.:1551(b) (1)(E).
+49 App.:1551(b)(1)(E).
 
 Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1601(b) (1)(E); added Oct. 4, 1984, Pub. L. 98–443, §3(e), 98 Stat. 1704.
 
@@ -62,7 +64,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1601(b) (1)(E); added Oct. 4, 1
 
 &nbsp;
 
-49 App.:1551(b) (1)(E).
+49 App.:1551(b)(1)(E).
 
 41102(b)(2)
 
@@ -70,13 +72,13 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1601(b) (1)(E); added Oct. 4, 1
 
 &nbsp;
 
-49 App.:1551(a) (1)(A).
+49 App.:1551(a)(1)(A).
 
 Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1601(a) (1)(A), (B); added Oct. 24, 1978, Pub. L. 95–504, §40(a), 92 Stat. 1744.
 
 &nbsp;
 
-49 App.:1551(b) (1)(E).
+49 App.:1551(b)(1)(E).
 
 41102(c)
 
@@ -86,7 +88,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §401(d)(8) (1st sentence); added
 
 &nbsp;
 
-49 App.:1551(a) (1)(B), (b)(1)(E).
+49 App.:1551(a)(1)(B), (b)(1)(E).
 
 41102(d)
 
@@ -106,5 +108,5 @@ Subsection (d) is added for clarity.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 40109, 40118, 41104, 41105, 41106, 41107, 41108, 41109, 41110, 41111, 41112, 41307, 41312, 41505, 41709, 41713, 42101, 42103, 44901, 44915, 46301, 46316, 47102 of this title; title 29 section 1301; title 39 section 5402.
+This section is referred to in sections 40109, 40118, 41104, 41105, 41106, 41107, 41108, 41109, 41110, 41111, 41112, 41113, 41307, 41312, 41505, 41709, 41713, 42101, 42103, 44901, 44915, 46301, 46316, 47102 of this title; title 22 section 3650; title 29 section 1301; title 39 section 5402.
 

@@ -7,20 +7,17 @@
 | [2302a.](%C2%A7%2002302a%20-%20Simplified%20acquisition%20threshold.md) | Simplified acquisition threshold. |
 | [2302b.](%C2%A7%2002302b%20-%20Implementation%20of%20simplified%20acquisition%20procedures.md) | Implementation of simplified acquisition procedures. |
 | [2302c.](%C2%A7%2002302c%20-%20Implementation%20of%20FACNET%20capability.md) | Implementation of FACNET capability. |
+| [2302d.](%C2%A7%2002302d%20-%20Major%20system%20definitional%20threshold%20amounts.md) | Major system: definitional threshold amounts. |
 | [2303\.](%C2%A7%2002303%20-%20Applicability%20of%20chapter.md) | Applicability of chapter. |
 | \[2303a. | Repealed.\] |
 | [2304\.](%C2%A7%2002304%20-%20Contracts%20competition%20requirements.md) | Contracts: competition requirements. |
-| 2304a.<sup>1</sup> | Task and delivery order contracts: general authority. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |
-| :--- | ---: |
+| [2304a.](%C2%A7%2002304a%20-%20Task%20and%20delivery%20order%20contracts%20general%20authority.md) | Task and delivery order contracts: general authority. |
 | [2304b.](%C2%A7%2002304b%20-%20Task%20order%20contracts%20advisory%20and%20assistance%20services.md) | Task order contracts: advisory and assistance services. |
 | [2304c.](%C2%A7%2002304c%20-%20Task%20and%20delivery%20order%20contracts%20orders.md) | Task and delivery order contracts: orders. |
 | [2304d.](%C2%A7%2002304d%20-%20Task%20and%20delivery%20order%20contracts%20definitions.md) | Task and delivery order contracts: definitions. |
-| 2304a.<sup>1</sup> | Contracts: prohibition on competition between Department of Defense and small businesses and certain other entities. |
+| [2304e.](%C2%A7%2002304e%20-%20Contracts%20prohibition%20on%20competition%20between%20Department%20of%20Defense%20and%20small%20businesses%20and%20certain%20other%20entities.md) | Contracts: prohibition on competition between Department of Defense and small businesses and certain other entities. |
 | [2305\.](%C2%A7%2002305%20-%20Contracts%20planning%2C%20solicitation%2C%20evaluation%2C%20and%20award%20procedures.md) | Contracts: planning, solicitation, evaluation, and award procedures. |
+| [2305a.](%C2%A7%2002305a%20-%20Design-build%20selection%20procedures.md) | Design-build selection procedures. |
 | [2306\.](%C2%A7%2002306%20-%20Kinds%20of%20contracts.md) | Kinds of contracts. |
 | [2306a.](%C2%A7%2002306a%20-%20Cost%20or%20pricing%20data%20truth%20in%20negotiations.md) | Cost or pricing data: truth in negotiations. |
 | [2306b.](%C2%A7%2002306b%20-%20Multiyear%20contracts.md) | Multiyear contracts. |
@@ -54,7 +51,11 @@
 
 #### Amendments
 
-1994—Pub. L. 103–355, title I, §§1004(a)(2), 1022(a)(2), 1501(b), 1503(a)(2), (b)(2), 1506(b), title II, §§2001(i), 2201(a)(2), title IV, §§4002(b), 4203(a)(2), title VIII, §8104(b)(2), title IX, §9002(b), Oct. 13, 1994, 108 Stat. 3253, 3260, 3296–3298, 3303, 3318, 3338, 3346, 3391, 3402, struck out items 2301 “Congressional defense procurement policy”, 2308 “Assignment and delegation of procurement functions and responsibilities”, 2325 “Preference for nondevelopmental items”, and 2329 “Production special tooling and production special test equipment: contract terms and conditions”, added items 2302a to 2302c, 2304a to 2304d, and 2306b, and substituted “Contract financing” for “Advance payments” in item 2307, “Assignment and delegation of procurement functions and responsibilities” for “Delegation” in item 2311, and “Examination of records of contractor” for “Examination of books and records of contractor” in item 2313.
+1996—Pub. L. 104–201, div. A, title VIII, §805(b), Sept. 23, 1996, 110 Stat. 2606, added item 2302d.
+
+Pub. L. 104–106, div. D, title XLI, §4105(a)(2), title XLIII, §4321(b)(6)(B), Feb. 10, 1996, 110 Stat. 647, 672, redesignated item 2304a, relating to contracts: prohibition on competition between Department of Defense and small businesses and certain other entities, as 2304e and added item 2305a.
+
+1994—Pub. L. 103–355, title I, §§1004(a)(2), 1022(a)(2), 1501(b), 1503(a)(2), (b)(2), 1506(b), title II, §§2001(i), 2201(a)(2), title IV, §§4002(b), 4203(a)(2), title VIII, §8104(b)(2), title IX, §9002(b), Oct. 13, 1994, 108 Stat. 3253, 3260, 3296–3298, 3303, 3318, 3338, 3346, 3391, 3402, struck out items 2301 “Congressional defense procurement policy”, 2308 “Assignment and delegation of procurement functions and responsibilities”, 2325 “Preference for nondevelopmental items”, and 2329 “Production special tooling and production special test equipment: contract terms and conditions”, added items 2302a to 2302c, 2304a relating to task and delivery order contracts: general authority, 2304b to 2304d, and 2306b, and substituted “Contract financing” for “Advance payments” in item 2307, “Assignment and delegation of procurement functions and responsibilities” for “Delegation” in item 2311, and “Examination of records of contractor” for “Examination of books and records of contractor” in item 2313.
 
 1993—Pub. L. 103–160, div. A, title VIII, §§828(a)(1), 848(a)(2), Nov. 30, 1993, 107 Stat. 1713, 1725, added item 2304a and struck out item 2317 “Encouragement of competition and cost savings”.
 
@@ -100,9 +101,7 @@ Particular provisions relating to Navy procurement, see section 7521 et seq. of 
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 167, 2350b, 2350d, 2356, 2373, 2809, 2835, 2836, 2837 of this title; title 15 section 637; title 40 section 474; title 41 section 421; title 42 section 13556.
-
-<i><sup>1</sup></i><i> So in original. Two sections 2304a have been enacted.</i>
+This chapter is referred to in sections 167, 2350b, 2350d, 2373, 2809, 2835, 2836, 2837 of this title; title 15 section 637; title 22 section 2761; title 40 section 474; title 41 section 421; title 42 section 13556.
 
 
 ---
@@ -114,16 +113,17 @@ This chapter is referred to in sections 167, 2350b, 2350d, 2356, 2373, 2809, 283
 - [&sect; 02302a - Simplified acquisition threshold](%C2%A7%2002302a%20-%20Simplified%20acquisition%20threshold.md)
 - [&sect; 02302b - Implementation of simplified acquisition procedures](%C2%A7%2002302b%20-%20Implementation%20of%20simplified%20acquisition%20procedures.md)
 - [&sect; 02302c - Implementation of FACNET capability](%C2%A7%2002302c%20-%20Implementation%20of%20FACNET%20capability.md)
+- [&sect; 02302d - Major system definitional threshold amounts](%C2%A7%2002302d%20-%20Major%20system%20definitional%20threshold%20amounts.md)
 - [&sect; 02303 - Applicability of chapter](%C2%A7%2002303%20-%20Applicability%20of%20chapter.md)
 - [&sect; 02303a - Repealed. Pub. L. 98&#8211;577, title III, &sect;302(c)(1), Oct. 30, 1984, 98 Stat. 3077](%C2%A7%2002303a%20-%20Repealed.%20Pub.%20L.%2098%E2%80%93577%2C%20title%20III%2C%20%C2%A7302%28c%29%281%29%2C%20Oct.%2030%2C%201984%2C%2098%20Stat.%203077.md)
 - [&sect; 02304 - Contracts competition requirements](%C2%A7%2002304%20-%20Contracts%20competition%20requirements.md)
-- [&sect; 02304a - 1 Task and delivery order contracts general authority](%C2%A7%2002304a%20-%201%20Task%20and%20delivery%20order%20contracts%20general%20authority.md)
+- [&sect; 02304a - Task and delivery order contracts general authority](%C2%A7%2002304a%20-%20Task%20and%20delivery%20order%20contracts%20general%20authority.md)
 - [&sect; 02304b - Task order contracts advisory and assistance services](%C2%A7%2002304b%20-%20Task%20order%20contracts%20advisory%20and%20assistance%20services.md)
 - [&sect; 02304c - Task and delivery order contracts orders](%C2%A7%2002304c%20-%20Task%20and%20delivery%20order%20contracts%20orders.md)
 - [&sect; 02304d - Task and delivery order contracts definitions](%C2%A7%2002304d%20-%20Task%20and%20delivery%20order%20contracts%20definitions.md)
-- [&sect; 02304a - 1 Contracts prohibition on competition between Department of Defense and small businesses and certain other entities](%C2%A7%2002304a%20-%201%20Contracts%20prohibition%20on%20competition%20between%20Department%20of%20Defense%20and%20small%20businesses%20and%20certain%20other%20entities.md)
+- [&sect; 02304e - Contracts prohibition on competition between Department of Defense and small businesses and certain other entities](%C2%A7%2002304e%20-%20Contracts%20prohibition%20on%20competition%20between%20Department%20of%20Defense%20and%20small%20businesses%20and%20certain%20other%20entities.md)
 - [&sect; 02305 - Contracts planning, solicitation, evaluation, and award procedures](%C2%A7%2002305%20-%20Contracts%20planning%2C%20solicitation%2C%20evaluation%2C%20and%20award%20procedures.md)
-- [&sect; 02305a - Renumbered &sect;2438](%C2%A7%2002305a%20-%20Renumbered%20%C2%A72438.md)
+- [&sect; 02305a - Design-build selection procedures](%C2%A7%2002305a%20-%20Design-build%20selection%20procedures.md)
 - [&sect; 02306 - Kinds of contracts](%C2%A7%2002306%20-%20Kinds%20of%20contracts.md)
 - [&sect; 02306a - Cost or pricing data truth in negotiations](%C2%A7%2002306a%20-%20Cost%20or%20pricing%20data%20truth%20in%20negotiations.md)
 - [&sect; 02306b - Multiyear contracts](%C2%A7%2002306b%20-%20Multiyear%20contracts.md)

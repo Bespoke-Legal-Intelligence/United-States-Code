@@ -4,79 +4,69 @@
 
 #### (b) Conservation and environmental assistance
 
-(1) The Secretary is authorized to carry out the policy and purposes specified in section 590g(a) of this title by providing financial assistance to agricultural producers for carrying out enduring conservation (including energy conservation) and environmental enhancement measures. Eligibility for financial assistance shall be based upon the existence of a conservation or environmental problem which reduces the productive capacity of the Nation's land and water resources or causes degradation of environmental quality.
+#### (1) Environmental quality incentives program
 
-(2) The Secretary may provide financial assistance to agricultural producers for the purpose of encouraging energy conservation by sharing the costs of and providing technical assistance for (1) the establishment, restoration, and better use of shelter belts to conserve energy on farmsteads and feed lots, (2) the establishment and use of minimum tillage systems, (3) the efficient storage and application of manure and other suitable wastes to the land for land fertility and soil improvement, (4) the use of integrated pest management, (5) the use of energy-efficient irrigation water management, and (6) such other land, water, and related resource management practices as the Secretary may determine to have significant energy-conserving effects.
+&emsp;The Secretary shall provide technical assistance, cost-share payments, and incentive payments to operators through the environmental quality incentives program in accordance with chapter 4 of subtitle D of title XII of the Food Security Act of 1985 \[16 U.S.C. 3839aa et seq.\].
 
-(3) The amount of financial assistance to be provided shall be that portion of the cost of installing conservation and environmental enhancement measures which the Secretary determines is necessary. In determining the level of payment, consideration will be given to (A) the amount of expected conservation or environmental benefit accruing to society, (B) the total cost of carrying out the needed measures, (C) the degree to which appropriate conservation or pollution abatement practices will be applied in the absence of financial assistance, and (D) in order to avoid duplication of assistance, the degree to which the agricultural producer benefits from other public programs for conservation and environmental enhancement.
+#### (2) to (4) Repealed. Pub. L. 104–127, title III, §336(a)(1)(A)(i)(I), Apr. 4, 1996, 110 Stat. 1004
 
-(4) The Secretary, in formulating the national program, shall take into consideration (A) the need to control erosion and sedimentation from agricultural land and to conserve the water resources on such land, (B) the need to controlpollution from animal wastes, (C) the need to facilitate sound resources management systems through soil and water conservation, (D) the need to encourage voluntary compliance by agricultural producers with Federal and State requirements to solve point and nonpoint sources of pollution, (E) national priorities reflected in the National Environmental Policy Act of 1969 \[42 U.S.C. 4321 et seq.\] and other congressional and administrative actions, (F) the degree to which the measures contribute to the national objective of assuring a continuous supply of food and fiber necessary for the maintenance of a strong and healthy people and economy, and (G) the type of conservation measures needed to improve water quality in rural America.
+#### (5) State, county, and area committees
 
-(5)
+#### (A) Appointment of State committees
 
-State, county, and area committees.—
+&emsp;&emsp;The Secretary shall appoint in each State a State committee composed of not fewer than 3 nor more than 5 members who are fairly representative of the farmers in the State. The members of a State committee shall serve at the pleasure of the Secretary for such term as the Secretary may establish.
 
-&emsp;(A)
+#### (B) Establishment of county, area, or local committees
 
-Appointment of state committees.—The Secretary shall appoint in each State a State committee composed of not fewer than 3 nor more than 5 members who are fairly representative of the farmers in the State. The members of a State committee shall serve at the pleasure of the Secretary for such term as the Secretary may establish.
+&emsp;&emsp;(i) In each county or area in which activities are carried out under this section, the Secretary shall establish a county or area committee.
 
-&emsp;(B)
+&emsp;&emsp;(ii) Any such committee shall consist of not fewer than 3 nor more than 5 members who are fairly representative of the agricultural producers in the county or area and who shall be elected by the agricultural producers in such county or area under such procedures as the Secretary may prescribe.
 
-Establishment of county, area, or local committees.—(i) In each county or area in which activities are carried out under this section, the Secretary shall establish a county or area committee.
+&emsp;&emsp;(iii) The Secretary may designate local administrative areas within the county or larger area covered by a committee established under clause (i). Only agricultural producers within a local administrative area who participate or cooperate in programs administered within their area shall be eligible for nomination and election to the local committee for that area, under such regulations as the Secretary may prescribe.
 
-&emsp;(ii) Any such committee shall consist of not fewer than 3 nor more than 5 members who are fairly representative of the agricultural producers in the county or area and who shall be elected by the agricultural producers in such county or area under such procedures as the Secretary may prescribe.
+&emsp;&emsp;(iv) The Secretary shall solicit and accept nominations from organizations representing the interests of socially disadvantaged groups (as defined in section 355(e)(1) of the Consolidated Farm and Rural Development Act (7 U.S.C. 2003(e)(1)).
 
-&emsp;(iii) The Secretary may designate local administrative areas within the county or larger area covered by a committee established under clause (i). Only agricultural producers within a local administrative area who participate or cooperate in programs administered within their area shall be eligible for nomination and election to the local committee for that area, under such regulations as the Secretary may prescribe.
+&emsp;&emsp;(v) Members of each county, area, or local committee shall serve for terms not to exceed 3 years.
 
-&emsp;(iv) The Secretary shall solicit and accept nominations from organizations representing the interests of socially disadvantaged groups (as defined in section 355(e)(1) of the Consolidated Farm and Rural Development Act (7 U.S.C. 2003(e)(1)).
+#### (C) Termination or combination of committees
 
-&emsp;(v) Members of each county, area, or local committee shall serve for terms not to exceed 3 years.
+&emsp;&emsp;The Secretary may not terminate a county or area committee or combine or consolidate two or more county or area committees unless—
 
-&emsp;(C)
+&emsp;&emsp;&emsp;(i) the Secretary first notifies the committee or committees involved of the proposed action; and
 
-Termination or combination of committees.—The Secretary may not terminate a county or area committee or combine or consolidate two or more county or area committees unless—
+&emsp;&emsp;&emsp;(ii) the State committee of the State in which the affected counties are located approves of such action in a vote taken after the end of the 60-day period beginning on the date the notification is received.
 
-&emsp;&emsp;(i) the Secretary first notifies the committee or committees involved of the proposed action; and
+#### (D) Use of committees
 
-&emsp;&emsp;(ii) the State committee of the State in which the affected counties are located approves of such action in a vote taken after the end of the 60-day period beginning on the date the notification is received.
+&emsp;&emsp;The Secretary shall use the services of such committees in carrying out programs under this section and the agricultural credit programs under the Consolidated Farm and Rural Development Act (7 U.S.C. 1921 et seq.) and in considering administrative appeals as provided by section 6932(d) of title 7. The Secretary may use the services of such committees in carrying out programs under other authorities administered by the Secretary.
 
-&emsp;(D)
+#### (E) Regulations
 
-Use of committees.—The Secretary shall use the services of such committees in carrying out programs under this section and the agricultural credit programs under the Consolidated Farm and Rural Development Act (7 U.S.C. 1921 et seq.) and in considering administrative appeals as provided by section 6932(d) of title 7. The Secretary may use the services of such committees in carrying out programs under other authorities administered by the Secretary.
+&emsp;&emsp;The Secretary shall issue such regulations as the Secretary considers necessary relating to the selection and exercise of the functions of the respective committees, and to the administration through such committees of the programs described in subparagraph (D). Pursuant to such regulations, each county and area committee shall select an executive director for the area or county. Such selection shall be made in the same manner as provided for the selection of the county executive director under section 7.21(b)(2) of title 7, Code of Federal Regulations, as in effect on January 1, 1994. Regulations governing payments or grants under this subsection shall be as simple and direct as possible, and, whenever practicable, they shall be classified on the following two bases:
 
-&emsp;(E)
+&emsp;&emsp;&emsp;(i) Soil-depleting practices.
 
-Regulations.—The Secretary shall issue such regulations as the Secretary considers necessary relating to the selection and exercise of the functions of the respective committees, and to the administration through such committees of the programs described in subparagraph (D). Pursuant to such regulations, each county and area committee shall select an executive director for the area or county. Such selection shall be made in the same manner as provided for the selection of the county executive director under section 7.21(b)(2) of title 7, Code of Federal Regulations, as in effect on January 1, 1994. Regulations governing payments or grants under this subsection shall be as simple and direct as possible, and, whenever practicable, they shall be classified on the following two bases:
+&emsp;&emsp;&emsp;(ii) Soil-building practices.
 
-&emsp;&emsp;(i) Soil-depleting practices.
+#### (F) Mandatory duties of Secretary
 
-&emsp;&emsp;(ii) Soil-building practices.
+&emsp;&emsp;In carrying out this section, the Secretary shall—
 
-&emsp;(F)
+&emsp;&emsp;&emsp;(i) insofar as practicable, protect the interests of tenants and sharecroppers;
 
-Mandatory duties of secretary.—In carrying out this section, the Secretary shall—
+&emsp;&emsp;&emsp;(ii) accord such encouragement to producer-owned and producer-controlled cooperative associations as will be in harmony with the policy toward cooperative associations set forth in Federal laws and as will tend to promote efficient methods of marketing and distribution;
 
-&emsp;&emsp;(i) insofar as practicable, protect the interests of tenants and sharecroppers;
+&emsp;&emsp;&emsp;(iii) in every practicable manner, protect the interests of small producers; and
 
-&emsp;&emsp;(ii) accord such encouragement to producer-owned and producer-controlled cooperative associations as will be in harmony with the policy toward cooperative associations set forth in Federal laws and as will tend to promote efficient methods of marketing and distribution;
+&emsp;&emsp;&emsp;(iv) in every practical way, encourage and provide for soil-conserving and soil-rebuilding practices.
 
-&emsp;&emsp;(iii) in every practicable manner, protect the interests of small producers; and
+#### (G) Discretionary authorities of Secretary
 
-&emsp;&emsp;(iv) in every practical way, encourage and provide for soil-conserving and soil-rebuilding practices.
+&emsp;&emsp;In carrying out this section, the Secretary may use other approved agencies.
 
-&emsp;(G)
+#### (H) Limitations
 
-Discretionary authorities of secretary.—In carrying out this section, the Secretary may use other approved agencies.
-
-&emsp;(H)
-
-Limitations.—In carrying out this section, the Secretary shall not have the authority to acquire any land or any right or interest in land.
-
-(6) Notwithstanding any other provision of law, in making available conservation materials consisting of seeds, seed inoculants, fertilizers, liming and other soil-conditioning materials, trees, or plants, or in making available soil-conserving and soil-building services or pollution prevention or abatement aids, to agricultural producers under this subsection, the Secretary may make payments, in advance of determination of performance by the producers, to persons who will purchase orders covering approved conservation materials or covering soil-conserving or soil-building services or pollution prevention or abatement aids, furnished to producers, or who render services to the Secretary in delivering to producers approved conservation materials, for the carrying out, by the producers, ofsoil-building or soil-conserving practices or pollution prevention or abatement practices approved by the Secretary. The price at which purchase orders for any conservation materials or services are filled may be limited to a fair price fixed in accordance with regulations prescribed by the Secretary.
-
-(7) Appropriations are authorized for the purchase in advance of the program year for which the appropriation is made of seeds, fertilizers, lime, trees, or any other farming materials or any soil-terracing services, and making grants thereof to agricultural producers to aid them in carrying out farming practices approved by the Secretary in programs under this chapter; for the reimbursement of any Federal, State, or local government agency for fertilizers, seeds, lime, trees, or other farming materials, or any soil-terracing services, furnished by such agency; and for the payment of all expenses necessary in making such grants, including all or part of the costs incident to the delivery thereof.
-
-(8) In carrying out the purposes of subsection (a) of section 590g of this title, the Secretary may enter into agreements with agricultural producers for periods not to exceed ten years, on such terms and conditions as the Secretary deems desirable, creating obligations in advance of appropriations not to exceed such amounts as may be specified in annual appropriation Acts. Such agreements (i) shall be based on conservation plans approved by the soil and water conservation district or districts in which the lands described in the agreements are situated, and (ii) may be modified or terminated by mutual consent if the Secretary determines such action would be in the public interest. The Secretary also may terminate agreements if he determines such action to be in the national interest and provides public notice in ample time to give producers a reasonable opportunity to make arrangements for appropriate changes in the use of their land.
+&emsp;&emsp;In carrying out this section, the Secretary shall not have the authority to acquire any land or any right or interest in land.
 
 #### (c) Apportionment of acreage allotments
 
@@ -92,39 +82,31 @@ Limitations.—In carrying out this section, the Secretary shall not have the au
 
 (6) In determining normal yield per acre for any farm under this section in the case of wheat or corn, the normal yield shall be the average yield per acre thereon for such commodity during the ten calendar years immediately preceding the calendar year in which such yield is determined, adjusted for abnormal weather conditions and trends in yields. If for any such year the data are not available, or there is no actual yield, then the normal yield for the farm shall be appraised in accordance with regulations of the Secretary, taking into consideration abnormal weather conditions, the normal yield for the county, and the yield in years for which data are available.
 
-#### (d) Conditions affecting payments or grants of aid
-
-Any payment or grant of aid made under subsection (b) of this section shall be conditioned upon the utilization of the land, with respect to which such payment is made, in conformity with farming practices which the Secretary finds tend to effectuate any one or more of thepurposes specified in clauses (1), (2), (3), (4), (5), or (6) of section 590g(a) of this title.
-
-Any payment made under subsection (b) of this section with respect to any farm (except for lands which the Secretary determines should not be utilized for the harvesting of crops but should be permanently used for grazing purposes only) shall, if the number of cows kept on such farm, and in the county in which such farm is located, for the production of milk or products thereof (for market), exceeds the normal number of such cows, be further conditioned upon the utilization of the land, with respect to which such payment is made, so that soil-building and soil-conserving crops planted or produced on an acreage equal to the land normally used for the production of soil-depleting crops but, as a condition of such payment, not permitted to be so used, shall be used for the purpose of building and conserving the fertility of the soil, or for the production of agricultural commodities to be consumed on the farm, and not for market. Whenever it is determined that a county, as a whole, is in substantial compliance with the provisions of this paragraph, no payment shall be denied any individual farmer in the county by reason of this paragraph; and no payment shall be denied a farmer by reason of this paragraph unless it has been determined that the farmer has not substantially complied with the provisions of this paragraph. Whenever the Secretary finds that by reason of drought, flood, or other disaster, a shortage of feed exists in any area, he shall so declare, and to the extent and for the period he finds necessary to relieve such shortage, the operation of the condition provided in this paragraph shall be suspended in such area and, if necessary to relieve such shortage, in other areas defined by him. As used in this paragraph, the term “for market” means for disposition by sale, barter, or exchange, or by feeding (in any form) to dairy livestock which, or the products of which, are to be sold, bartered, or exchanged; and such term shall not include consumption on the farm. An agricultural commodity shall be deemed consumed on the farm if consumed by the farmer's family, employees, or household, or if fed to poultry or livestock other than dairy livestock on his farm; or if fed to dairy livestock on his farm and such dairy livestock, or the products thereof, are to be consumed by his family, employees, or household. Whenever the Secretary has reason to believe the income of producers of livestock (other than dairy cattle) or poultry in any area from such sources is being adversely affected by increases in the supply for market of such livestock or poultry, as the case may be, arising as a result of programs carried out under this chapter, he shall make an investigation with respect to the existence of such facts. If, upon investigation, the Secretary finds that the income of producers of such livestock or poultry, as the case may be, in any area from any such source is being adversely affected by such increases, he shall, as soon as practicable, make such provisions in the administration of this chapter, with respect to the use of diverted acres as he may find necessary to protect the interests of producers of such livestock or poultry in the affected area.
-
-#### (e) Distribution of payments among landlords, tenants, and sharecroppers
-
-Payments made by the Secretary under subsection (b) of this section to agricultural producers shall be divided among landlords, tenants, and sharecroppers in proportion to the extent such landlords, tenants, and sharecroppers contribute to the cost of carrying out the conservation or environmental enhancement measures. The maximum payment which may be made to any person shall be determined by the Secretary.
-
-Persons who carry out farming operations as tenants or sharecroppers on cropland owned by the United States Government and who comply with the terms and conditions of the conservation program, formulated pursuant to this section, and sections 590g, 590i, and 590j to 590q of this title, shall be entitled to apply for and receive payments, or to retain payments heretofore made, for their participation in said program to the same extent as other producers. Persons who carry out conservation practices on federally owned noncropland which directly conserve or benefit nearby or adjoining privately owned lands of such persons and who maintain and use such Federal land under agreement with the Federal agency having jurisdiction thereof and who comply with the terms and conditions of the agricultural conservation program formulated pursuant to this section, and sections 590g, 590i, and 590j to 590q of this title, shall be entitled to apply for and receive payments under such program to the same extent as other producers.
-
-#### (f) Change between landlord and tenants or sharecroppers affecting landlord's payments
-
-Any change in the relationship between the landlord and the tenants or sharecroppers, with respect to any farm, that would increase over the previous year the amount of payments or grants of other aid under subsection (b) of this section that would otherwise be made to any landlord shall not operate to increase such payment or grant to such landlord. Any reduction in the number of tenants below the average number of tenants on any farm during the preceding three years that would increase the payments or grants of other aid under such subsection that would otherwise be made to the landlord shall not hereafter operate to increase any such payment or grant to such landlord. Such limitations shall not apply if on investigation the local committee finds that the change is justified and approves such change in relationship or reduction. Such action of local committees shall be subject to approval or disapproval by State committees.
+#### (d) to (f) Repealed. Pub. L. 104–127, title III, §336(a)(1)(A)(ii), Apr. 4, 1996, 110 Stat. 1004
 
 #### (g) Assignment of payments
 
 A payment that may be made to a producer under this section may be assigned only in accordance with regulations issued by the Secretary. This subsection shall not authorize any suit against or impose any liability on the Secretary, any disbursing agent, or any agency of the United States if payment is made to the producer without regard to the existence of any such assignment.
 
-(Apr. 27, 1935, ch. 85, §8, as added Feb. 29, 1936, ch. 104, §1, 49 Stat. 1149; amended June 28, 1937,ch. 395, §1, 50 Stat. 329; Feb. 16, 1938, ch. 30, title I, §§101, 102, 103, 52 Stat. 31, 34, 35; Apr. 7, 1938, ch. 107, §§16–18, 52 Stat. 204, 205; Apr. 10, 1939, ch. 48, 53 Stat. 573; May 14, 1940, ch. 200, 54 Stat. 216; July 2, 1940, ch. 521, §2, 54 Stat. 727; June 21, 1941, ch. 217, 55 Stat. 257; Dec. 26, 1941, ch. 626, §1, 55 Stat. 860; Feb. 6, 1942, ch. 44, §4, 56 Stat. 53; Sept. 29, 1942, ch. 568, 56 Stat. 761; Sept. 21, 1944, ch. 412, title III, §301, 58 Stat. 737; July 25, 1946, ch. 642, 60 Stat. 663; July 3, 1948, ch. 827, title I, §4, 62 Stat. 1250; Sept. 23, 1950, ch. 997, 64 Stat. 978; May 26, 1952, ch. 335, 66 Stat. 95; Aug. 28, 1954, ch. 1041, title V, §501, 68 Stat. 907; Aug. 9, 1955, ch. 624, 69 Stat. 545; Apr. 6, 1956, ch. 186, 70 Stat. 105; July 24, 1956, ch. 668, 70 Stat. 597; July 25, 1958, Pub. L. 85–553, 72 Stat. 414; June 25, 1959, Pub. L. 86–70, §13(a), 73 Stat. 143; July 12, 1960, Pub. L. 86–624, §8(a), 74 Stat. 412; Sept. 27, 1962, Pub. L. 87–703, title I, §101(2), (3), 76 Stat. 605, 606; Aug. 31, 1964, Pub. L. 88–534, §1, 78 Stat. 743; Nov. 2, 1966, Pub. L. 89–742, 80 Stat. 1167; Aug. 30, 1972, Pub. L. 92–419, title VI, §§605, 606(2)–(5), 86 Stat. 676, 677; Sept. 29, 1977, Pub. L. 95–113, title XV, §1501(a), 91 Stat. 1019; June 30, 1980, Pub. L. 96–294, title II, §259, 94 Stat. 709; Dec. 23, 1985, Pub. L. 99–198, title XVII, §§1711(a), 1712, 99 Stat. 1635, 1636; Feb. 28, 1986, Pub. L. 99–253, §3, 100 Stat. 36; Oct. 18, 1986, Pub. L. 99–500, §101(a) \[title VI, §645\], 100 Stat. 1783, 1783–36, and Oct. 30, 1986, Pub. L. 99–591, §101(a) \[title VI, §645\], 100 Stat. 3341, 3341–36; Nov. 10, 1986, Pub. L. 99–641, title II, §204, 100 Stat. 3563; Nov. 28, 1990, Pub. L. 101–624, title XI, §1146, 104 Stat. 3516; Dec. 13, 1991, Pub. L. 102–237, title II, §202, 105 Stat. 1848; Oct. 13, 1994, Pub. L. 103–354, title II, §227(a), 108 Stat. 3216.)
+(Apr. 27, 1935, ch. 85, §8, as added Feb. 29, 1936, ch. 104, §1, 49 Stat. 1149; amended June 28, 1937, ch. 395, §1, 50 Stat. 329; Feb. 16, 1938, ch. 30, title I, §§101, 102, 103, 52 Stat. 31, 34, 35; Apr. 7, 1938, ch. 107, §§16–18, 52 Stat. 204, 205; Apr. 10, 1939, ch. 48, 53 Stat. 573; May 14, 1940, ch. 200, 54 Stat. 216; July 2, 1940, ch. 521, §2, 54 Stat. 727; June 21, 1941, ch. 217, 55 Stat. 257; Dec. 26, 1941, ch. 626, §1, 55 Stat. 860; Feb. 6, 1942, ch. 44, §4, 56 Stat. 53; Sept. 29, 1942, ch. 568, 56 Stat. 761; Sept. 21, 1944, ch. 412, title III, §301, 58 Stat. 737; July 25, 1946, ch. 642, 60 Stat. 663; July 3, 1948, ch. 827, title I, §4, 62 Stat. 1250; Sept. 23, 1950, ch. 997, 64 Stat. 978; May 26, 1952, ch. 335, 66 Stat. 95; Aug. 28, 1954, ch. 1041, title V, §501, 68 Stat. 907; Aug. 9, 1955, ch. 624, 69 Stat. 545; Apr. 6, 1956, ch. 186, 70 Stat. 105; July 24, 1956, ch. 668, 70 Stat. 597; July 25, 1958, Pub. L. 85–553, 72 Stat. 414; June 25, 1959, Pub. L. 86–70, §13(a), 73 Stat. 143; July 12, 1960, Pub. L. 86–624, §8(a), 74 Stat. 412; Sept. 27, 1962, Pub. L. 87–703, title I, §101(2), (3), 76 Stat. 605, 606; Aug. 31, 1964, Pub. L. 88–534, §1, 78 Stat. 743; Nov. 2, 1966, Pub. L. 89–742, 80 Stat. 1167; Aug. 30, 1972, Pub. L. 92–419, title VI, §§605, 606(2)–(5), 86 Stat. 676, 677; Sept. 29, 1977, Pub. L. 95–113, title XV, §1501(a), 91 Stat. 1019; June 30, 1980, Pub. L. 96–294, title II, §259, 94 Stat. 709; Dec. 23, 1985, Pub. L. 99–198, title XVII, §§1711(a), 1712, 99 Stat. 1635, 1636; Feb. 28, 1986, Pub. L. 99–253, §3, 100 Stat. 36; Oct. 18, 1986, Pub. L. 99–500, §101(a) \[title VI, §645\], 100 Stat. 1783, 1783–36, and Oct. 30, 1986, Pub. L. 99–591, §101(a) \[title VI, §645\], 100 Stat. 3341, 3341–36; Nov. 10, 1986, Pub. L. 99–641, title II, §204, 100 Stat. 3563; Nov. 28, 1990, Pub. L. 101–624, title XI, §1146, 104 Stat. 3516; Dec. 13, 1991, Pub. L. 102–237, title II, §202, 105 Stat. 1848; Oct. 13, 1994, Pub. L. 103–354, title II, §227(a), 108 Stat. 3216; Apr. 4, 1996, Pub. L. 104–127, title III, §336(a)(1)(A), 110 Stat. 1004.)
 
 #### References in Text
 
-The National Environmental Policy Act of 1969, referred to in subsec. (b)(4), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The Food Security Act of 1985, referred to in subsec. (b)(1), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354, as amended. Chapter 4 of subtitle D of title XII of the Act is classified generally to part IV (§3839aa et seq.) of subchapter IV of chapter 58 of this title. For complete classification of this Act to the Code, see Short Title of1985 Amendment note set out under section 1281 of Title 7, Agriculture, and Tables.
 
-The Consolidated Farm and Rural Development Act, referred to in subsec. (b)(5)(D), is title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, as amended, which is classified principally to chapter 50 (§1921 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1921 of Title 7 and Tables.
+The Consolidated Farm and Rural Development Act, referred to in subsec. (b)(5)(D), is title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, as amended, which is classified principally to chapter 50 (§1921 et seq.) of Title 7. For complete classification of this Act to the Code, see Short Title note set out under section 1921 of Title 7 and Tables.
 
 #### Codification
 
 Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
+
+1996—Subsec. (b)(1) to (4). Pub. L. 104–127, §336(a)(1)(A)(i)(I), added par. (1) and struck out former pars. (1) to (4), which related to authorization to provide and eligibility for financial assistance in par. (1), description of purposes of assistance in par. (2), amount of assistance in par. (3), and factors to be considered in formulating national program in par. (4).
+
+Subsec. (b)(6) to (8). Pub. L. 104–127, §336(a)(1)(A)(i)(II), struck out pars. (6) to (8), which related to payments for conservation materials and services in par. (6), appropriations for farming materials and soil-terracing services in par. (7), and agreements with agricultural producers creating obligations in advance of appropriations in par. (8).
+
+Subsecs. (d) to (f). Pub. L. 104–127, §336(a)(1)(A)(ii), struck out subsecs. (d) to (f), which related to conditions affecting payments or grants of aid in subsec. (d), distribution of payments among landlords, tenants, and sharecroppers in subsec. (e), and change between landlord and tenants or sharecroppers affecting landlord's payments in subsec. (f).
 
 1994—Subsec. (b). Pub. L. 103–354 designated first through eighth undesignated pars. as pars. (1) to (8), respectively, added par. (5), and struck out former par. (5) which related to State and local committees.
 
@@ -144,7 +126,7 @@ Pub. L. 99–198, §1711(a)(2), in fourth sentence of fifth par., struck out “
 
 Pub. L. 99–198, §1711(a)(3), in fifth par., inserted provisions directing that each member of a local committee be elected for a term of 3 years, that each local committee meet (A) once each year and shall receive compensation for such meeting by the Secretary at not less than the level in effect on December 31, 1985, and (B) at the direction of the county committee and with the approval of the State committee, such additional times during the year as may be necessary to carry out this section without compensation, and that the meetings of a local committee shall be held on different days of the year.
 
-Pub. L. 99–198, §1711(a)(4), in fifth par., inserted provisions directing that the local committees in each county (A) in a county in which there is more than one local committee, serve as advisors and consultants to the county committee; (B) periodically meet with the county committee and State committee to be informed on farm program issues; (C) communicate with producers within their communities on issues or concerns regarding farm programs; (D) report to the county committee, the State committee, and other interested persons on changes to, or modifications of, farm programs recommended by producers in their communities; and (E) perform such other functions as are required by law or as the Secretary may specify, and that the Secretary ensure that information concerning changes in Federal laws in effect with respect to agricultural programs and the administration of such laws are communicated in a timely manner to local committees in areas that contain agricultural producers who might be affected by such changes.
+Pub. L. 99–198, §1711(a)(4), in fifth par., inserted provisions directing that the local committees in each county (A) in a county in which there is more than one local committee, serve as advisors and consultants to the county committee; (B) periodically meet with the county committee and State committee to be informed on farm program issues; (C) communicate with producers within their communities on issues or concerns regarding farm programs; (D) report to the county committee, the State committee, and other interested persons on changes to, or modifications of, farm programs recommended by producers in their communities; and (E) perform such other functions as are required by law or as the Secretary may specify, and that the Secretary ensure that information concerning changes in Federal laws in effect with respect to agricultural programs and the administration of such laws are communicated in a timely manner to local committees in areas thatcontain agricultural producers who might be affected by such changes.
 
 1980—Subsec. (b). Pub. L. 96–294 added applicability to energy conservation as an area of conservation subject to financial assistance, and provisions setting forth authority for financial assistance to agricultural producers for encouraging energy conservation through cost sharing and technical assistance for shelter belts, etc.
 
@@ -216,7 +198,7 @@ Subsec. (c)(6). Act Apr. 7, 1938, added par. (6).
 
 Subsecs. (d) to (g). Act Feb. 16, 1938, added subsecs. (d) to (g).
 
-Subsec. (g). Act Apr. 7, 1938, substituted second and third sentences for sentences which provided “Such assignment shall be acknowledged by the farmer before the county agricultural extension agent and filed with such agent. The farmer shall file with such county agricultural extension agent an affidavit stating that the assignment is not made to pay or secure any pre-existing indebtedness.”
+Subsec. (g). Act Apr. 7, 1938, substituted second and third sentences for sentences which provided “Such assignment shall be acknowledged by the farmer beforethe county agricultural extension agent and filed with such agent. The farmer shall file with such county agricultural extension agent an affidavit stating that the assignment is not made to pay or secure any pre-existing indebtedness.”
 
 1937—Subsec. (a). Act June 28, 1937, substituted “January 1, 1942” for “January 1, 1938” wherever appearing, and “December 31, 1941” for “December 31, 1937”.
 
@@ -310,5 +292,5 @@ Wheat marketing quotas, penalty provisions, see section 1340 of Title 7.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 590g, 590h–4, 590<i>l</i>, 590m, 590n, 590<i>o</i>, 590p, 590q–3, 1507, 1508, 3416, 3811, 3812, 3821, 3842 of this title; title 5 sections 3502, 5306, 5334, 5595, 6312, 8331, 8332, 8701, 8901; title 7 sections 1301, 1308–4, 1314c, 1358b, 1359a, 1359ff, 1359jj, 1388, 1391, 1392, 1433a, 1433c–1, 1441–2, 1444, 1444–2, 1444f, 1445b–3a, 1446, 1446f, 1446h, 1462, 1471b, 1838, 2272, 2279a, 6912, 6913, 6932, 6962, 6991, 7001; title 12 section 1150a; title 15 section 714b; title 40 App. section 203.
+This section is referred to in sections 590g, 590<i>l</i>, 590m, 590<i>o</i>, 590q–3, 3801, 3839aa, 3842 of this title; title 5 sections 3502, 5306, 5334, 5595, 6312, 8331, 8332, 8701, 8901; title 7 sections 1301, 1308–4, 1314c, 1358b, 1359a, 1359ff, 1359jj, 1388, 1391, 1392, 1433a, 1433c–1, 1444, 1446, 1462, 1471b, 1838, 1983, 2272, 2279a, 6912, 6913, 6932, 6962, 6991, 7001, 7214; title 12 section 1150a; title 15 section 714b; title 40 App. section 203.
 

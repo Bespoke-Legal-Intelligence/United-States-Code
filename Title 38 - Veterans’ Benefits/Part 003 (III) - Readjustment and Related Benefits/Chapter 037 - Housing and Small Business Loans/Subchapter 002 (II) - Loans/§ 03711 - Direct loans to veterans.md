@@ -18,7 +18,7 @@
 
 (3) No veteran may obtain loans under this section aggregating more than $33,000.
 
-(e) Loans made under this section shall be repaid in monthly installments, except that in the case of any such loan made for any of the purposes described in paragraphs (2), (3), or (4) of section 3710(a) of this title, the Secretary may provide that such loan shall be repaid in quarterly, semiannual, or annual installments.
+(e) Loans made under this section shall be repaid in monthly installments, except that in the case of any such loan made for any of the purposes described in paragraphs (2), (3), or (4) ofsection 3710(a) of this title, the Secretary may provide that such loan shall be repaid in quarterly, semiannual, or annual installments.
 
 (f) In connection with any loan under this section, the Secretary may make advances in cash to pay taxes and assessments on the real estate, to provide for repairs, alterations, and improvements, and to meet the incidental expenses of the transaction. The Secretary shall determine the expenses incident to origination of loans made under this section, which expenses, or a reasonable flat allowance in lieu thereof, shall be paid by the veteran in addition to the loan closing costs.
 
@@ -40,7 +40,7 @@
 
 Title III of the Consolidated Farm and Rural Development Act (7 U.S.C. 1921 et seq.), referred to in subsec. (c)(2), probably means title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, as amended, known as the Consolidated Farm and Rural Development Act, which is classified principally to chapter 50 (§1921 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1921 of Title 7 and Tables.
 
-The Housing Act of 1949, referred to in subsec. (c)(2), is act July 15, 1949, ch. 338, 63 Stat. 413, as amended. Title V of the Housing Act of 1949 is classified generally to subchapter III (§1471 et seq.) of chapter 8A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1441 of Title 42 and Tables.
+The Housing Act of 1949, referred to in subsec. (c)(2), is act July 15, 1949, ch. 338, 63 Stat. 413, as amended. Title V of the Housing Act of 1949 is classified generally to subchapter III (§1471 et seq.) of chapter 8A of Title42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1441 of Title 42 and Tables.
 
 #### Amendments
 
@@ -78,7 +78,7 @@ Subsec. (g). Pub. L. 100–322, §415(c)(5)(A), (d)(2)(A), substituted “for pu
 
 1982—Subsec. (c)(1). Pub. L. 97–306, §406(c)(1), substituted “manufactured home” for “mobile home”.
 
-Subsec. (c)(2). Pub. L. 97–295, §4(65)(A), substituted “title III of the Consolidated Farm and Rural Development Act (7 U.S.C. 1921 et seq.) or title V of the HousingAct of 1949 (42 U.S.C. 1471 et seq.)” for “sections 1000–1029 of title 7 or under sections 1471–1483 of title 42”.
+Subsec. (c)(2). Pub. L. 97–295, §4(65)(A), substituted “title III of the Consolidated Farm and Rural Development Act (7 U.S.C. 1921 et seq.) or title V of the Housing Act of 1949 (42 U.S.C. 1471 et seq.)” for “sections 1000–1029 of title 7 or under sections 1471–1483 of title 42”.
 
 Subsec. (d)(1). Pub. L. 97–306, §406(c)(1), substituted “manufactured home” for “mobile home”.
 
@@ -142,7 +142,7 @@ Subsec. (d)(3). Pub. L. 90–77, §404(b), authorized an increase in aggregate a
 
 1961—Subsec. (d)(2), (3). Pub. L. 87–84, §2(a), substituted “$15,000” for “$13,500” wherever appearing.
 
-Subsec. (h). Pub. L. 87–84, §2(b), substituted “to any veteran after the expiration of his entitlement pursuant to section 1803(a)(3) of this title except pursuant to a commitment issued by the Administrator before suchentitlement expires” for “after July 25, 1962, except pursuant to commitments issued by the Administrator before that date.”
+Subsec. (h). Pub. L. 87–84, §2(b), substituted “to any veteran after the expiration of his entitlement pursuant to section 1803(a)(3) of this title except pursuant to a commitment issued by the Administrator before such entitlement expires” for “after July 25, 1962, except pursuant to commitments issued by the Administrator before that date.”
 
 1960—Subsec. (h). Pub. L. 86–665 substituted “1962” for “1960”.
 

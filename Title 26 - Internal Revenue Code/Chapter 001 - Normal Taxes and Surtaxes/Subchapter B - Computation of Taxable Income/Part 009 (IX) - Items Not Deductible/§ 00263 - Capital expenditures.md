@@ -30,7 +30,7 @@ Notwithstanding subsection (a), and except as provided in subsection (i), regula
 
 #### (d) Expenditures in connection with certain railroad rolling stock
 
-In the case of expenditures in connection with the rehabilitation of a unit of railroad rolling stock (except a locomotive) used by a domestic common carrier by railroad which would, but for this subsection, be properly chargeable to capital account, such expenditures, if during any 12-month period they do not exceed an amount equal to 20 percent of the basis of such unit in the hands of the taxpayer, shall, at the election of the taxpayer, be treated (notwithstanding subsection (a)) as deductible repairs under section 162 or 212. An election under this subsection shall be made for any taxable year at such time and in such manner as the Secretary prescribes by regulations. An election may not be made under this subsection for any taxable year to which an election under subsection (e) applies to railroad rolling stock (other than locomotives).
+In the case of expenditures in connection with the rehabilitation of a unit of railroad rolling stock (except a locomotive) used by a domestic common carrier by railroad which would, but for this subsection, be properly chargeable to capital account, such expenditures, if during any 12-month period they do not exceed an amount equal to 20 percent of the basis of such unit in the hands of the taxpayer, shall, at the electionof the taxpayer, be treated (notwithstanding subsection (a)) as deductible repairs under section 162 or 212. An election under this subsection shall be made for any taxable year at such time and in such manner as the Secretary prescribes by regulations. An election may not be made under this subsection for any taxable year to which an election under subsection (e) applies to railroad rolling stock (other than locomotives).
 
 #### \[(e) Repealed. Pub. L. 97–34, title II, §201(c), Aug. 13, 1981, 95 Stat. 219\]
 
@@ -112,7 +112,7 @@ In the case of a domestic common carrier by rail (including a railroad switching
 
 #### (A) In general
 
-&emsp;&emsp;Paragraph (1) shall apply only to the extent that the payments or distributions with respect to any short sale exceed the amount which—
+&emsp;&emsp;Paragraph (1) shall apply only to the extent that the payments or distributions withrespect to any short sale exceed the amount which—
 
 &emsp;&emsp;&emsp;(i) is treated as ordinary income by the taxpayer, and
 
@@ -186,7 +186,7 @@ Subsec. (g). Pub. L. 97–34, §502, added subsec. (g).
 
 Subsec. (a)(3). Pub. L. 94–455, §1904(b)(10)(A)(i)(I), struck out par. (3) which provided that no deduction be allowed for amounts paid as tax under section 4911 (relating to imposition of interest equalization tax) except as provided in subsec. (d).
 
-Subsec. (d). Pub. L. 94–455, §§1904(b)(10)(A)(i)(I), (II), 1906(b)(13)(A), redesignated subsec. (e) as (d) and struck out “or his delegate” after “Secretary” and substituted “subsection (e)” for “subsection (f)”. Former subsec. (d) was struck out.
+Subsec. (d). Pub. L. 94–455, §§1904(b)(10)(A)(i)(I), (II), 1906(b)(13)(A), redesignated subsec. (e) as (d) and struckout “or his delegate” after “Secretary” and substituted “subsection (e)” for “subsection (f)”. Former subsec. (d) was struck out.
 
 Subsec. (e). Pub. L. 94–455, §§1904(b)(10)(A)(i)(I), 1906(b)(13)(A), redesignated subsec. (f) as (e) and struck out “or his delegate” after “Secretary”. Former subsec. (e) redesignated (d).
 
@@ -266,7 +266,7 @@ In general.—The amendments made by this section \[amending this section and se
 
 “(2)
 
-Election.—The taxpayer may elect to capitalize or deduct any costs to which section 263(c) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] applies by reason of the amendments made by this section \[amending this section and sections 57, 465, 751, and 1254 of this title\]. Any such election shall be made before the expiration of the time for filing claim for credit or refund of any overpayment of tax imposed by chapter 1 of such Code \[section 1 et seq. of this title\] with respect to the taxpayer's first taxable year to which the amendments made by this section apply and for which he pays or incurs costs to which such section 263(c) applies by reason of the amendments made by this section. Any election under this paragraph may be changed or revoked at any time before the expirationof the time referred to in the preceding sentence, but after the expiration of such time such election may not be changed or revoked.”
+Election.—The taxpayer may elect to capitalize or deduct any costs to which section 263(c) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] applies by reason of the amendments made by this section \[amending this section and sections 57, 465, 751, and 1254 of this title\]. Any such election shall be made before the expiration of the time for filing claim for credit or refund of any overpayment of tax imposed by chapter 1 of such Code \[section 1 et seq. of this title\] with respect to the taxpayer's first taxable year to which the amendments made by this section apply and for which he pays or incurs costs to which such section 263(c) applies by reason of the amendments made by this section. Any election under this paragraph may be changed or revoked at any time before the expiration of the time referred to in the preceding sentence, but after the expiration of such time such election may not be changed or revoked.”
 
 #### Effective Date of 1976 Amendment
 

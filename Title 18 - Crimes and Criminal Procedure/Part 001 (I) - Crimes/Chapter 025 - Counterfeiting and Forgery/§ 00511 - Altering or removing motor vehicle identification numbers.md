@@ -46,7 +46,7 @@
 
 (d) For purposes of subsection (a) of this section, the term “tampers with” includes covering a program decal or device affixed to a motor vehicle pursuant to the Motor Vehicle Theft Prevention Act for the purpose of obstructing its visibility.
 
-(Added Pub. L. 98–547, title II, §201(a), Oct. 25, 1984, 98 Stat. 2768; amended Pub. L. 103–272, §5(e)(3), July 5, 1994, 108 Stat. 1373; Pub. L. 103–322, title XXII, §220003(a)–(c), Sept. 13, 1994, 108 Stat. 2076, 2077.)
+(Added Pub. L. 98–547, title II, §201(a), Oct. 25, 1984, 98 Stat. 2768; amended Pub. L. 103–272, §5(e)(3), July 5, 1994, 108 Stat. 1373; Pub. L. 103–322, title XXII, §220003(a)–(c), Sept. 13, 1994, 108 Stat. 2076, 2077; Pub. L. 104–294, title VI, §604(b)(8), Oct. 11, 1996, 110 Stat. 3507.)
 
 #### References in Text
 
@@ -58,6 +58,8 @@ Another section 511 was renumbered section 513 of this title.
 
 #### Amendments
 
+1996—Subsec. (b)(2)(D). Pub. L. 104–294 realigned margins.
+
 1994—Subsec. (a). Pub. L. 103–322, §220003(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Whoever knowingly removes, obliterates, tampers with, or alters an identification number for a motor vehicle, or motor vehicle part, shall be fined not more than $10,000 or imprisoned not more than five years, or both.”
 
 Subsec. (b)(2)(D). Pub. L. 103–322, §220003(b), added subpar. (D).
@@ -67,6 +69,10 @@ Subsec. (c)(1). Pub. L. 103–272, §5(e)(3)(A), substituted “chapter 301 and 
 Subsec. (c)(2). Pub. L. 103–272, §5(e)(3)(B), substituted “section 32101 of title 49” for “section 2 of the Motor Vehicle Information and Cost Savings Act”.
 
 Subsec. (d). Pub. L. 103–322, §220003(c), added subsec. (d).
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–294 effective Sept. 13, 1994, see section 604(d) of Pub. L. 104–294, set out as a note under section 13 of this title.
 
 #### Section Referred to in Other Sections
 

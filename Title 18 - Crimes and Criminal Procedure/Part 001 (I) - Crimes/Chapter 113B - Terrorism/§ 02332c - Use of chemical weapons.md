@@ -1,0 +1,38 @@
+### §2332c. Use of chemical weapons
+
+(a)
+
+Prohibited Acts.—
+
+&emsp;(1)
+
+Offense.—A person shall be punished under paragraph (2) if that person, without lawful authority, uses, or attempts or conspires to use, a chemical weapon against—
+
+&emsp;&emsp;(A) a national of the United States while such national is outside of the United States;
+
+&emsp;&emsp;(B) any person within the United States; or
+
+&emsp;&emsp;(C) any property that is owned, leased, or used by the United States or by any department or agency of the United States, whether the property is within or outside of the United States.
+
+&emsp;(2)
+
+Penalties.—A person who violates paragraph (1)—
+
+&emsp;&emsp;(A) shall be imprisoned for any term of years or for life; or
+
+&emsp;&emsp;(B) if death results from that violation, shall be punished by death or imprisoned for any term of years or for life.
+
+(b)
+
+Definitions.—As used in this section—
+
+&emsp;(1) the term “national of the United States” has the same meaning as in section 101(a)(22) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(22)); and
+
+&emsp;(2) the term “chemical weapon” means any weapon that is designed or intended to cause widespread death or serious bodily injury through the release, dissemination, or impact of toxic or poisonous chemicals or precursors of toxic or poisonous chemicals.
+
+(Added Pub. L. 104–132, title V, §521(a), Apr. 24, 1996, 110 Stat. 1286.)
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 2332b, 2332e, 2339A of this title; title 10 section 382.
+

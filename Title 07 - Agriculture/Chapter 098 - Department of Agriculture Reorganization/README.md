@@ -59,6 +59,11 @@
 | (e) | Use of Federal and non-Federal employees. |
 | (f) | Collocation. |
 | (g) | Savings provision. |
+| [6933\.](Subchapter%20002%20%28II%29%20-%20Farm%20and%20Foreign%20Agricultural%20Services/%C2%A7%2006933%20-%20Office%20of%20Risk%20Management.md) | Office of Risk Management. |
+| (a) | Establishment. |
+| (b) | Functions of Office of Risk Management. |
+| (c) | Administrator. |
+| (d) | Resources. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -66,7 +71,7 @@
 
 |  |  |
 | :--- | ---: |
-| [6941\.](Subchapter%20003%20%28III%29%20-%20Rural%20Economic%20and%20Community%20Development/%C2%A7%2006941%20-%20Under%20Secretary%20of%20Agriculture%20for%20Rural%20Economic%20and%20Community%20Development.md) | Under Secretary of Agriculture for Rural Economic and Community Development. |
+| [6941\.](Subchapter%20003%20%28III%29%20-%20Rural%20Economic%20and%20Community%20Development/%C2%A7%2006941%20-%20Under%20Secretary%20of%20Agriculture%20for%20Rural%20Development.md) | Under Secretary of Agriculture for Rural Development. |
 | (a) | Authorization. |
 | (b) | Confirmation required. |
 | (c) | Functions of Under Secretary. |

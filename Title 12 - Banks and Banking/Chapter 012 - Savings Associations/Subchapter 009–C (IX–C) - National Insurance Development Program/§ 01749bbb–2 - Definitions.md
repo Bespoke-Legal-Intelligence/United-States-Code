@@ -22,7 +22,7 @@
 
 &emsp;(10) “property owner” with respect to any real, personal, or mixed real and personal property, means any person having an insurable interest in such property;
 
-&emsp;(11) “person” includes any individual or group of individuals, corporation, partnership, or association, or any other organized group of persons;
+&emsp;(11) “person” includes any individual or group of individuals, corporation, partnership,or association, or any other organized group of persons;
 
 &emsp;(12) “reinsured losses” means losses on reinsurance claims and all direct expenses incurred in connection therewith including, but not limited to, expenses for processing, verifying, and paying such losses;
 

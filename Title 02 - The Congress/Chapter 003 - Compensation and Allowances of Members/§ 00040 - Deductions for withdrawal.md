@@ -8,7 +8,3 @@ When any Member or Delegate withdraws from his seat and does not return before t
 
 R.S. §41 derived from Res. July 17, 1862, No. 68, §2, 12 Stat. 628.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 25b of this title.
-

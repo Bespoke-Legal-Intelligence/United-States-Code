@@ -2,15 +2,13 @@
 
 (a)(1) Except as provided in this section, appropriations are not available to install telephones in private residences or for tolls or other charges for telephone service from private residences.
 
-(2) Under regulations of the Secretary of State, appropriations may be used to install and pay for the use of telephones in residences owned or leased by the United States Government in foreign countries for the use of the Foreign Service. Subsection (b) of this section applies to long-distance calls made on those telephones.
+(2) Under regulations of the Secretary of State, appropriations may be used to install andpay for the use of telephones in residences owned or leased by the United States Government in foreign countries for the use of the Foreign Service.
 
-(b) Appropriations of an agency are available to pay charges for a long-distance call if required for official business and the voucher to pay for the call is sworn to by the head of the agency. Appropriations of an executive agency are available only if the head of the agency also certifies that the call is necessary in the interest of the Government.
+(b) Under regulations prescribed by the Secretary of the Army on recommendation of the Chief of Engineers, not more than $30,000 may be expended each fiscal year to install and use in private residences telephones required for official business in constructing and operating locks and dams for navigation, flood control, and related water uses.
 
-(c) Under regulations prescribed by the Secretary of the Army on recommendation of the Chief of Engineers, not more than $30,000 may be expended each fiscal year to install and use in private residences telephones required for official business in constructing and operating locks and dams for navigation, flood control, and related water uses.
+(c) Under regulations prescribed by the Secretary of Defense, funds appropriated to the Department of Defense are available to install, repair, and maintain telephone wiring in residences owned or leased by the United States Government and, if necessary for national defense purposes, in other private residences.
 
-(d) Under regulations prescribed by the Secretary of Defense, funds appropriated to the Department of Defense are available to install, repair, and maintain telephone wiring in residences owned or leased by the United States Government and, if necessary for national defense purposes, in other private residences.
-
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 926; Pub. L. 98–407, title VIII, §811(a), Aug. 28, 1984, 98 Stat. 1523.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 926; Pub. L. 98–407, title VIII, §811(a), Aug. 28, 1984, 98 Stat. 1523; Pub. L. 104–201, div. A, title XVII, §1721, Sept. 23, 1996, 110 Stat. 2758.)
 
 Historical and Revision Notes
 
@@ -58,7 +56,15 @@ In subsection (c), the words “On and after September 22, 1922 the provisions o
 
 #### Amendments
 
+1996—Subsec. (a)(2). Pub. L. 104–201, §1721(1), struck out at end “Subsection (b) of this section applies to long-distance calls made on those telephones.”
+
+Subsecs. (b) to (d). Pub. L. 104–201, §1721(2), (3), redesignated subsecs. (c) and (d) as (b) and (c), respectively, and struck out former subsec. (b) which read as follows: “Appropriations of an agency are available to pay charges for a long-distance call if required for official business and the voucher to pay for the call is sworn to by the head of the agency. Appropriations of an executive agency are available only if the head of the agency also certifies that the call is necessary in the interest of the Government.”
+
 1984—Subsec. (d). Pub. L. 98–407 added subsec. (d).
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–201 effective 180 days after Sept. 23, 1996, see section 1725(a) of Pub. L. 104–201, set out as a note under section 5722 of Title 5, Government Organization and Employees.
 
 #### Effective Date of 1984 Amendment
 

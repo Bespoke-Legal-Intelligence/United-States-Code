@@ -26,11 +26,11 @@ Education and Experience Requirements.—(1) An officer who is nominated for the
 
 &emsp;(A) successfully completes an appropriate program at a joint professional military education school; and
 
-&emsp;(B) after completing such program of education, successfully completes a full tour of duty in a joint duty assignment (as described in section 664(f) of this title (other than in paragraph (2) thereof)).
+&emsp;(B) after completing such program of education, successfully completes a full tour of duty in a joint duty assignment (as describedin section 664(f) of this title (other than in paragraph (2) thereof)).
 
 (2)(A) An officer (other than a general or flag officer) who has a military occupational specialty that is a critical occupational specialty involving combat operations (as designated by the Secretary of Defense) and who is nominated for the joint specialty may be selected for the joint specialty after successful completion of a full tour of duty in a joint duty assignment (as described in section 664(f)(2) of this title) and successful completion of a program under paragraph (1)(A).
 
-(B) The Secretary may not for the purposes of this paragraph designate a military occupational specialty as a critical occupational specialty involving combat operations unless that occupational specialty is within the combat arms, in the case of the Army, or the equivalent, in the case of the Navy, Air Force, and Marine Corps. In determining for the purposes of thisparagraph what military occupational specialties within the combat arms (or the equivalent) are critical, the Secretary shall designate as critical any military occupational specialty experiencing severe shortages of trained officers.
+(B) The Secretary may not for the purposes of this paragraph designate a military occupational specialty as a critical occupational specialty involving combat operations unless that occupational specialty is within the combat arms, in the case of the Army, or the equivalent, in the case of the Navy, Air Force, and Marine Corps. In determining for the purposes of this paragraph what military occupational specialties within the combat arms (or the equivalent) are critical, the Secretary shall designate as critical any military occupational specialty experiencing severe shortages of trained officers.
 
 (3)(A) In the case of an officer who has completed both a program of education referred to in paragraph (1)(A) and a full tour of duty in a joint duty assignment (as described in section 664(f) of this title (other than in paragraph (2) thereof)) and is subsequently nominated for the joint specialty, the Secretary of Defense may waive the requirement in paragraph (1)(B) that the tour of duty in a joint duty assignment be performed after the officer completes the program of education if the Secretary determines that the waiver is necessary in the interests of sound personnel management.
 
@@ -42,7 +42,9 @@ Education and Experience Requirements.—(1) An officer who is nominated for the
 
 (C) A waiver under subparagraph (A) or (B) may be made only under unusual circumstances justifying deviation from the conditions established in paragraph (1) for selection of an officer for the joint specialty.
 
-(D) The authority of the Secretary of Defense to grant a waiver under this paragraph may be delegated only to the Deputy Secretary of Defense. Such a waiver may be granted only on a case-by-case basis in the case of an individual officer and in the case of a general or flag officer only under exceptional circumstances in which the waiver is necessary to meet a critical need of the armed forces, as determined by the Chairman of the Joint Chiefs of Staff. The total number of waivers granted under this paragraph for officers in the same pay grade during any fiscal year may not exceed 10 percent of the total number of officers in that pay grade selected for the joint specialty during that fiscal year.
+(D) The authority of the Secretary of Defense to grant a waiver under this paragraph may be delegated only to the Deputy Secretary of Defense. Such a waiver may be granted only on a case-by-case basis in the case of an individual officer and in the case of a general or flag officer only under exceptional circumstances in which the waiver is necessary to meet a critical need of the armed forces, as determined by the Chairman of the Joint Chiefs of Staff. In the case of officers in grades below brigadier general and rear admiral (lower half), the total number of waivers granted under this paragraph for officers in the same pay grade during any fiscal year may not exceed 10 percent of the total number of officers in that pay grade selected for the joint specialty during that fiscal year.
+
+(E) There may not be more than 32 general and flag officers on active duty at the same time who were selected for the joint specialty while holding a general or flag officer grade and for whom a waiver was granted under this subparagraph.
 
 (4) For purposes of this chapter, a school that is organized within, and operated by, a military department may not be construed to be a joint professional military education school.
 
@@ -58,13 +60,11 @@ Number of Joint Duty Assignments.—(1) The Secretary of Defense shall ensure th
 
 &emsp;&emsp;(ii) have a military occupational specialty that is designated under subsection (c)(2)(A) as a critical occupational specialty involving combat operations.
 
-(2)(A) The Secretary shall designate not fewer than 1,000 joint duty assignment positions as critical joint duty assignment positions. Such designation shall be made by examining each joint duty assignment position and designating under the preceding sentence those positions for which, considering the duties and responsibilities of the position, it is highly important that the occupant be particularly trained in, and oriented toward, joint matters.
+(2)(A) The Secretary shall designate not fewer than 800 joint duty assignment positions as critical joint duty assignment positions. Such designation shall be made by examining each joint duty assignment position and designating under the preceding sentence those positions for which, considering the duties and responsibilities of the position, it is highly important that the occupant be particularly trained in, and oriented toward, joint matters.
 
-(B) Until January 1, 1994, at least 80 percent of the positions designated by the Secretary under subparagraph (A) shall be held at all times by officers who have the joint specialty. On and after January 1, 1994, each position so designated may (subject to subparagraph (C)) be held only by an officer who has the joint specialty.
+(B) Each position designated by the Secretary under subparagraph (A) may (subject to subparagraph (C)) be held only by an officer who has the joint specialty.
 
-(C) The Secretary of Defense may, on a case-by-case basis, waive the requirement in the second sentence of subparagraph (B) with respect to a particular assignment of an officer to a position designated as a critical joint duty assignment position. The authority of the Secretary to make such a waiver may be delegated only to the Chairman of the Joint Chiefs of Staff.
-
-(D) During the period beginning on October 1, 1992, and ending on January 1, 1993, the Secretary of Defense shall submit to Congress a report on the operation, to the date of the report, of the first sentence of subparagraph (B) and on the Secretary's projection for the use of the waiver authority provided under subparagraph (C), including the Secretary's estimate of the average annual number of waivers to be provided under subparagraph (C).
+(C) The Secretary of Defense may, on a case-by-case basis, waive the requirement in subparagraph (B) with respect to a particular assignment of an officer to a position designated as a critical joint duty assignment position. The authority of the Secretary to make such a waiver may be delegated only to the Chairman of the Joint Chiefs of Staff.
 
 (3)(A) The Secretary shall ensure that, of those joint duty assignment positions that are filled by general or flag officers, a substantial portion are among those positions that are designated under paragraph (2) as critical joint duty assignment positions.
 
@@ -88,11 +88,23 @@ Career Guidelines.—The Secretary, with the advice of the Chairman of the Joint
 
 (f)
 
-Treatment of Certain Service.—Any service by an officer in the grade of captain or, in the case of the Navy, lieutenant in a joint dutyassignment shall be considered to be service in a joint duty assignment for purposes of all laws (including section 619(e)(1) of this title) establishing a requirement or condition with respect to an officer's service in a joint duty assignment.
+Treatment of Certain Service.—Any service by an officer in the grade of captain or, in the case of the Navy, lieutenant in a joint duty assignment shall be considered to be service in a joint duty assignment for purposes of all laws (including section 619(e)(1) of this title) establishing a requirement or condition with respect to an officer's service in a joint duty assignment.
 
-(Added Pub. L. 99–433, title IV, §401(a), Oct. 1, 1986, 100 Stat. 1025; amended Pub. L. 100–180, div. A, title XIII, §1301–1302(b), Dec. 4, 1987, 101 Stat. 1168, 1169; Pub. L. 100–456, div. A, title V, §§511, 512(a), 517(a), 518, Sept. 29, 1988, 102 Stat. 1968, 1971; Pub. L. 101–189, div. A, title XI, §§1113, 1122, Nov. 29, 1989, 103 Stat. 1554, 1556.)
+(Added Pub. L. 99–433, title IV, §401(a), Oct. 1, 1986, 100 Stat. 1025; amended Pub. L. 100–180, div. A, title XIII, §1301–1302(b), Dec. 4, 1987, 101 Stat. 1168, 1169; Pub. L. 100–456, div. A, title V, §§511, 512(a), 517(a), 518, Sept. 29, 1988, 102 Stat. 1968, 1971; Pub. L. 101–189, div. A, title XI, §§1113, 1122, Nov. 29, 1989, 103 Stat. 1554, 1556; Pub. L. 104–106, div. A, title V, §501(a), (d), title XV, §1503(a)(6), Feb. 10, 1996, 110 Stat. 290, 292, 511.)
 
 #### Amendments
+
+1996—Subsec. (c)(3)(D). Pub. L. 104–106, §501(d)(1), in third sentence, substituted “In the case of officers in grades below brigadier general and rear admiral (lower half), the total number” for “The total number”.
+
+Subsec. (c)(3)(E). Pub. L. 104–106, §501(d)(2), added subpar. (E).
+
+Subsec. (d)(2)(A). Pub. L. 104–106, §501(a), substituted “800” for “1,000”.
+
+Subsec. (d)(2)(B). Pub. L. 104–106, §1503(a)(6)(A), substituted “Each position designated by the Secretary under subparagraph (A)” for “Until January 1, 1994, at least 80 percent of the positions designated by the Secretary under subparagraph (A) shall be held at all times by officers who have the joint specialty. On and after January 1, 1994, each position so designated”.
+
+Subsec. (d)(2)(C). Pub. L. 104–106, §1503(a)(6)(B), struck out “the second sentence of” after “the requirement in”.
+
+Subsec. (d)(2)(D). Pub. L. 104–106, §1503(a)(6)(C), struck out subpar. (D) which read as follows: “During the period beginning on October 1, 1992, and ending on January 1, 1993, the Secretary of Defense shall submit to Congress a report on the operation, to the date of the report, of the first sentence of subparagraph (B) and on the Secretary's projection for the use of the waiver authority provided under subparagraph (C), including the Secretary's estimate of the average annual number of waivers to be provided under subparagraph (C).”
 
 1989—Subsec. (c)(1)(B), (3)(A). Pub. L. 101–189, §1113, substituted “(as described in section 664(f) of this title (other than in paragraph (2) thereof))” for “(as described in section 664(f)(1) or (f)(3) of this title)”.
 

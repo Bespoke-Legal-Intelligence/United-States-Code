@@ -6,37 +6,23 @@
 
 (2)(A) The Secretary shall promulgate guidelines pursuant to paragraph (1) which, to the maximum extent practicable, enable a political subdivision to design and operate a workfare program under this section which is compatible and consistent with similar workfare programs operated by the subdivision.
 
-(B) A political subdivision may comply with the requirements of this section by operating—
+(B) A political subdivision may comply with the requirements of this section by operating any workfare program which the Secretary determines meets the provisions and protections provided under this section.
 
-&emsp;(i) a workfare program pursuant to title IV of the Social Security Act (42 U.S.C. 601 et seq.); or
+#### (b) Exempt household members
 
-&emsp;(ii) any other workfare program which the Secretary determines meets the provisions and protections provided under this section.
+A household member shall be exempt from workfare requirements imposed under this section if such member is—
 
-#### (b) Exempt household members; community work experience program; maximum number of hours; value of allotment
+&emsp;(1) exempt from section 2015(d)(1) of this title as the result of clause (B), (C), (D), (E), or (F) of section 2015(d)(2) of this title;
 
-(1) A household member shall be exempt from workfare requirements imposed under this section if such member is—
+&emsp;(2) at the option of the operating agency, subject to and currently actively and satisfactorily participating at least 20 hours a week in a work activity required under title IV of the Social Security Act (42 U.S.C. 601 et seq.);
 
-&emsp;(A) exempt from section 2015(d)(1) of this title as the result of clause (B), (C), (D), (E), or (F) of section 2015(d)(2) of this title;
+&emsp;(3) mentally or physically unfit;
 
-&emsp;(B) at the option of the operating agency, subject to and currently actively and satisfactorily participating at least 20 hours a week in a work training program required under title IV of the Social Security Act (42 U.S.C. 601 et seq.);
+&emsp;(4) under sixteen years of age;
 
-&emsp;(C) mentally or physically unfit;
+&emsp;(5) sixty years of age or older; or
 
-&emsp;(D) under sixteen years of age;
-
-&emsp;(E) sixty years of age or older; or
-
-&emsp;(F) a parent or other caretaker of a child in a household in which another member is subject to the requirements of this section or is employed fulltime.
-
-(2)(A) Subject to subparagraphs (B) and (C), in the case of a household that is exempt fromwork requirements imposed under this chapter as the result of participation in a community work experience program established under section 409 <sup>1</sup> of the Social Security Act (42 U.S.C. 609), the maximum number of hours in a month for which all members of such household may be required to participate in such program shall equal the result obtained by dividing—
-
-&emsp;(i) the amount of assistance paid to such household for such month under title IV of such Act, together with the value of the food stamp allotment of such household for such month; by
-
-&emsp;(ii) the higher of the Federal or State minimum wage in effect for such month.
-
-(B) In no event may any such member be required to participate in such program more than 120 hours per month.
-
-(C) For the purpose of subparagraph (A)(i), the value of the food stamp allotment of a household for a month shall be determined in accordance with regulations governing the issuance of an allotment to a household that contains more members than the number of members in an assistance unit established under title IV of such Act.
+&emsp;(6) a parent or other caretaker of a child in a household in which another member is subject to the requirements of this section or is employed fulltime.
 
 #### (c) Valuation or duration of work
 
@@ -56,9 +42,9 @@ The operating agency shall—
 
 The operating agency may allow a job search period, prior to making workfare assignments, of up to thirty days following a determination of eligibility.
 
-#### (f) Failure to comply
+#### (f) Disqualification
 
-In the event that any person fails to comply with the requirements of this section, neither that person nor the household to which that person belongs shall be eligible to participate in the food stamp program for two months, unless that person or another person in the household satisfies all outstanding workfare obligations prior to the end of the two-month disqualification period.
+An individual or a household may become ineligible under section 2015(d)(1) of this title to participate in the food stamp program for failing to comply with this section.
 
 #### (g) Payment of administrative expenses
 
@@ -74,21 +60,39 @@ In the event that any person fails to comply with the requirements of this secti
 
 (3) The Secretary may suspend or cancel some or all of these payments, or may withdraw approval from a political subdivision to operate a workfare program, upon a finding that the subdivision has failed to comply with the workfare requirements.
 
-(Pub. L. 88–525, §20, as added Pub. L. 97–98, title XIII, §1333, Dec. 22, 1981, 95 Stat. 1291; amended Pub. L. 97–253, title I, §§185–188, Sept. 8, 1982, 96 Stat. 786; Pub. L. 99–198, title XV, §1517(d), Dec. 23, 1985, 99 Stat. 1577; Pub. L. 102–237, title IX, §941(10), Dec. 13, 1991, 105 Stat. 1893.)
+(Pub. L. 88–525, §20, as added Pub. L. 97–98, title XIII, §1333, Dec. 22, 1981, 95 Stat. 1291; amended Pub. L. 97–253, title I, §§185–188, Sept. 8, 1982, 96 Stat. 786; Pub. L. 99–198, title XV, §1517(d), Dec. 23, 1985, 99 Stat. 1577; Pub. L. 102–237, title IX, §941(10), Dec. 13, 1991, 105 Stat. 1893; Pub. L. 104–193, title I, §109(e), title VIII, §815(b)(2), Aug. 22, 1996, 110 Stat. 2170, 2317.)
 
 #### References in Text
 
 The Fair Labor Standards Act of 1938, referred to in subsec. (a)(1), is act June 25, 1938, ch. 676, 52 Stat. 1060, as amended, which is classified generally to chapter 8 (§201 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see section 201 of Title 29 and Tables.
 
-The Social Security Act, referred to in subsecs. (a)(2)(B)(i), (b)(1)(B), (2)(A)(i), (C), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title IV of such Act is classified generally to subchapter IV (§601 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
-
-Section 409 of the Social Security Act, referred to in subsec. (b)(2)(A), which related to community work experience programs, was repealed by Pub. L. 100–485, title II, §202(b)(12), Oct. 13, 1988, 102 Stat. 2378. A new section 409 of the Social Security Act, relating to exclusion from AFDC unit of child for whom Federal, State, or local foster care maintenance or adoption assistance payments are made, was enacted by Pub. L. 101–508, title V, §5052(a), Nov. 5, 1990, 104 Stat. 1388–228, and is classified to section 609 of Title 42.
+The Social Security Act, referred to in subsec. (b)(2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title IV of the Act is classified generally to subchapter IV (§601 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Amendments
 
+1996—Subsec. (a)(2)(B). Pub. L. 104–193, §109(e)(1), substituted “operating any” for “operating—
+
+&emsp;“(i) a workfare program pursuant to title IV of the Social Security Act (42 U.S.C. 601 et seq.); or
+
+&emsp;“(ii) any other”.
+
+Subsec. (b). Pub. L. 104–193, §109(e)(2), struck out “(1)” before “A household member shall be exempt”, redesignated subpars. (A) to (F) as pars. (1) to (6), respectively, in par. (2), substituted “a work activity” for “a work training program”, and struck out former par. (2) which read as follows:
+
+“(2)(A) Subject to subparagraphs (B) and (C), in the case of a household that is exempt from work requirements imposed under this chapter as the result of participation in a community work experience program established under section 409 of the Social Security Act (42 U.S.C. 609), the maximum number of hours in a month for which all members of such household may be required to participate in such program shall equal the result obtained by dividing—
+
+&emsp;“(i) the amount of assistance paid to such household for such month under title IV of such Act, together with the value of the food stamp allotment of such household for such month; by
+
+&emsp;“(ii) the higher of the Federal or State minimum wage in effect for such month.
+
+“(B) In no event may any such member be required to participate in such program more than 120 hours per month.
+
+“(C) For the purpose of subparagraph (A)(i), the value of the food stamp allotment of a household for a month shall be determined in accordance with regulations governing the issuance of an allotment to a household that contains more members than the number of members in an assistance unit established under title IV of such Act.”
+
+Subsec. (f). Pub. L. 104–193, §815(b)(2), added subsec. (f) and struck out former subsec. (f) which read as follows: “In the event that any person fails to comply with the requirements of this section, neither that person nor the household to which that person belongs shall be eligible to participate in the food stamp program for two months, unless that person or another person in the household satisfies all outstanding workfare obligations prior to the end of the two-month disqualification period.”
+
 1991—Subsec. (g)(2). Pub. L. 102–237 realigned the margins of subpars. (A) and (B) and cls. (i) and (ii) of subpar. (B).
 
-1985—Subsec. (b). Pub. L. 99–198 in amending subsec. (b) generally, designated existing provisions of subsec.\(b) as par. (1), reorganized and expanded provisions of par. (1) as thus designated, lowered minimum age for exempted household members from eighteen years to sixteen years, and added par. (2).
+1985—Subsec. (b). Pub. L. 99–198 in amending subsec. (b) generally, designated existing provisions of subsec. (b) as par. (1), reorganized and expanded provisions of par. (1) as thus designated, lowered minimum age for exempted household members from eighteen years to sixteen years, and added par. (2).
 
 1982—Subsec. (a). Pub. L. 97–253, §185, redesignated existing provisions, formerly undesignated, as par. (1), and added par. (2).
 
@@ -97,6 +101,10 @@ Subsec. (b)(4). Pub. L. 97–253, §186, substituted “at the option of the ope
 Subsec. (c). Pub. L. 97–253, §187, substituted “, when added to any other hours worked during such week by such member for compensation (in cash or in kind) in any other capacity, exceeds thirty hours a week” for “either exceeds twenty hours a week or would, together with any other hours worked in any other compensated capacity by such member on a regular or predictable part-time basis, exceed thirty hours a week”.
 
 Subsec. (g)(2), (3). Pub. L. 97–253, §188, added par. (2) and redesignated former par. (2) as (3).
+
+#### Effective Date of 1996 Amendment
+
+Amendment by section 109(e) of Pub. L. 104–193 effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, set out as a note under section 601 of Title 42, The Public Health and Welfare.
 
 #### Effective Date of 1991 Amendment
 
@@ -110,11 +118,9 @@ Amendment by section 188 of Pub. L. 97–253 effective Oct. 1, 1982, see section
 
 #### Effective Date
 
-Section effective on earlier of Sept. 8, 1982, or date effective pursuant to section 1338 of Pub. L. 97–98, set out as an Effective Date of 1981 Amendment note under section 2012 of this title, which made the section effective on such date as Secretary of Agriculture may prescribe, taking into account need for orderly implementation, see section 192(b) of Pub. L. 97–253 set out as an Effective Date of 1982 Amendment note under section 2012 of this title.
+Section effective on earlier of Sept. 8, 1982, or date effective pursuant to section 1338 of Pub. L. 97–98, set outas an Effective Date of 1981 Amendment note under section 2012 of this title, which made the section effective on such date as Secretary of Agriculture may prescribe, taking into account need for orderly implementation, see section 192(b) of Pub. L. 97–253 set out as an Effective Date of 1982 Amendment note under section 2012 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2013, 2015, 2026 of this title.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+This section is referred to in sections 2015, 2026 of this title.
 

@@ -6,7 +6,7 @@
 
 &emsp;(2) imposes the duty to withhold generally on the payment of compensation earned within the jurisdiction of the city or county in the case of employees whose regular place of employment is within such jurisdiction;
 
-> the Secretary of the Treasury, under regulations prescribed by the President, shall enter into an agreement with the city or county within 120 days of a request for agreement by the proper city or county official. The agreement shall provide that the head of each agency of the United States shall comply with the requirements of the city or county ordinance in the case of any employee of the agency who is subject to the tax and (i) whose regular place of Federal employment is within the jurisdiction of the city or county with which the agreement is made or (ii) is a resident of such city or county. The agreement may not apply to pay for service as a member of the Armed Forces (other than service described in section 5517(d) of this title). The agreement may not permit withholding of a city or county tax from the pay of an employee who is not a resident of, or whose regular place of Federal employment is not within, the State in which that city or county is located unless the employee consents to the withholding.
+> the Secretary of the Treasury, under regulations prescribed by the President, shall enter into an agreement with the city or county within 120 days of a request for agreement by the proper city or county official. The agreement shall provide that the head of each agency of the United States shall comply with the requirements of the city or county ordinance in the case of any employee of the agency who is subject to the tax and (i) whose regular place of Federal employment is within the jurisdiction of the city orcounty with which the agreement is made or (ii) is a resident of such city or county. The agreement may not apply to pay for service as a member of the Armed Forces (other than service described in section 5517(d) of this title). The agreement may not permit withholding of a city or county tax from the pay of an employee who is not a resident of, or whose regular place of Federal employment is not within, the State in which that city or county is located unless the employee consents to the withholding.
 
 (b) This section does not give the consent of the United States to the application of an ordinance which imposes more burdensome requirements on the United States than on other employers or which subjects the United States or its employees to a penalty or liability because of this section. An agency of the United States may not accept pay from a city or county for services performed in withholding city or county income or employment taxes from the pay of employees of the agency.
 
@@ -42,11 +42,11 @@
 
 #### Amendments
 
-<b>1987</b>—Subsec. (a). Pub. L. 100–180 inserted “(other than service described in section 5517(d) of this title)” after “Armed Forces” in penultimate sentence.
+1987—Subsec. (a). Pub. L. 100–180 inserted “(other than service described in section 5517(d) of this title)” after “Armed Forces” in penultimate sentence.
 
-<b>1978</b>—Subsec. (a). Pub. L. 95–365 designated existing provisions as cl. (i), inserted “, or whose regular place of Federal employment is not within,” after “not a resident of”, and added cl. (ii).
+1978—Subsec. (a). Pub. L. 95–365 designated existing provisions as cl. (i), inserted “, or whose regular place of Federal employment is not within,” after “not a resident of”, and added cl. (ii).
 
-<b>1977</b>—Pub. L. 95–30, §408(a)(1), inserted “or county” after “city” in section catchline.
+1977—Pub. L. 95–30, §408(a)(1), inserted “or county” after “city” in section catchline.
 
 Subsec. (a). Pub. L. 95–30, §408(a)(2), (3), substituted “city or county” for “city” in introductory provisions preceding par. (1), in par. (2), and in provisions following par. (2), and, in par. (1), substituted “a designated city or county officer, department, or instrumentality” for “the city”.
 
@@ -54,7 +54,7 @@ Subsec. (b). Pub. L. 95–30, §408(a)(2), substituted “city or county” for 
 
 Subsec. (c). Pub. L. 95–30, §408(a)(4), (5), added pars. (2) and (3) and redesignated former par. (2) as (4).
 
-<b>1976</b>—Subsec. (c)(1). Pub. L. 94–358 substituted provision defining a city, for purposes of this section, as any unit of general local government which is classified a municipality by the Bureau of the Census, or is a town or township which in the opinion of the Secretary of the Treasury possesses powers and performs functions comparable to those associated with municipalities, is closely settled, and contains within its boundaries no incorporated places, as defined by the Bureau of the Census, within the political boundaries of which five hundred or more persons are regularly employed by all agencies of the Federal Government, for provision defining a city, for purposes of this section, as a city which is duly incorporated under the laws of a State and within the political boundaries of which five hundred or more persons are regularly employed by all agencies of the Federal Government.
+1976—Subsec. (c)(1). Pub. L. 94–358 substituted provision defining a city, for purposes of this section, as any unit of general local government which is classified a municipality by the Bureau of the Census, or is a town or township which in the opinion of the Secretary of the Treasury possesses powers and performs functions comparable to those associated with municipalities, is closely settled, and contains within its boundaries no incorporated places, as defined by the Bureau of the Census, within the political boundaries of which five hundred or more persons are regularly employed by all agencies of the Federal Government, for provision defining a city, for purposes of this section, as a city which is duly incorporated under the laws of a State and within the political boundaries of which five hundred or more persons are regularly employed by all agencies of the Federal Government.
 
 #### Effective Date of 1978 Amendment
 
@@ -88,7 +88,7 @@ Ex. Ord. No. 11968, Jan. 31, 1977, 42 F.R. 6787, which related to the withholdin
 
 Ex. Ord. No. 11997, June 22, 1977, 42 F.R. 31759, provided:
 
-By virtue of the authority vested in me by Sections 5516, 5517 and 5520 of Title 5 of the United States Code, and Section 301 of Title 3 of the United States Code, and as President of the United States of America, in order to authorize the Secretary of the Treasury to provide for the withholding of county income or employment taxes as authorized by Section 5520 of Title 5 of the United States Code as amended by Section 408 ofPublic Law 95–30, as well as to provide for the withholding of District of Columbia, State and city income or employment taxes, it is hereby ordered as follows:
+By virtue of the authority vested in me by Sections 5516, 5517 and 5520 of Title 5 of the United States Code, and Section 301 of Title 3 of the United States Code, and as President of the United States of America, in order to authorize the Secretary of the Treasury to provide for the withholding of county income or employment taxes as authorized by Section 5520 of Title 5 of the United States Code as amended by Section 408 of Public Law 95–30, as well as to provide for the withholding of District of Columbia, State and city income or employment taxes, it is hereby ordered as follows:
 
 Section 1. Whenever the Secretary of the Treasury enters into an agreement pursuant to Sections 5516, 5517 or 5520 of Title 5 of the United States Code, with the District of Columbia, a State, a city or a county, as the case may be, with regard to the withholding, by an agency of the United States, hereinafter referred to as an agency, of income or employment taxes from the pay of Federal employees or members of the Armed Forces, the Secretary of the Treasury shall ensure that each agreement is consistent with those sections and regulations, including this Order, issued thereunder.
 

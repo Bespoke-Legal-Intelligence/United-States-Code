@@ -30,7 +30,7 @@ Prior to commencement of operation of a uranium enrichment facility licensed her
 
 #### (d) Insurance and decommissioning
 
-(1) The Commission shall require, as a condition of the issuance of a license under sections 2073 and 2093 of this title for a uranium enrichment facility, that the licensee have and maintain liability insurance of such type and in such amounts as the Commission judges appropriate to cover liability claims arising out of any occurrence within the United States, causing, within or outside the United States, bodily injury, sickness, disease, or death, or loss of or damage to property, or loss of use of property, arising out of or resulting from the radioactive, toxic, explosive, or other hazardous properties of chemical compounds containing source or special nuclear material.
+(1) The Commission shall require, as a condition of the issuance of a license under sections 2073 and 2093 of this title for a uranium enrichment facility, that the licensee have and maintain liability insurance of such type and in such amounts as the Commission judges appropriate to cover liability claims arising out of any occurrence within the United States, causing, within or outside the United States, bodily injury, sickness, disease, or death, or loss of or damage to property, or loss of use of property, arising out of or resulting from the radioactive,toxic, explosive, or other hazardous properties of chemical compounds containing source or special nuclear material.
 
 (2) The Commission shall require, as a condition for the issuance of a license under sections 2073 and 2093 of this title for a uranium enrichment facility, that the licensee provide adequate assurance of the availability of funds for the decommissioning (including decontamination) of such facility using funding mechanisms that may include, but are not necessarily limited to, the following:
 
@@ -42,15 +42,31 @@ Prior to commencement of operation of a uranium enrichment facility licensed her
 
 #### (e) No Price-Anderson coverage
 
-Section 2210 of this title shall not apply to any license under section 2073 or 2093 of this title fora uranium enrichment facility constructed after November 15, 1990.
+Section 2210 of this title shall not apply to any license under section 2073 or 2093 of this title for a uranium enrichment facility constructed after November 15, 1990.
 
-(Aug. 1, 1946, ch. 724, title I, §193, as added Nov. 15, 1990, Pub. L. 101–575, §5(e), 104 Stat. 2835; renumbered title I, Oct. 24, 1992, Pub. L. 102–486, title IX, §902(a)(8), 106 Stat. 2944.)
+#### (f) Limitation
+
+No license or certificate of compliance may be issued to the United States Enrichment Corporation or its successor under this section or sections <sup>1</sup> 2073, 2093, or 2297f of this title, if the Commission determines that—
+
+&emsp;(1) the Corporation is owned, controlled, or dominated by an alien, a foreign corporation, or a foreign government; or
+
+&emsp;(2) the issuance of such a license or certificate of compliance would be inimical to—
+
+&emsp;&emsp;(A) the common defense and security of the United States; or
+
+&emsp;&emsp;(B) the maintenance of a reliable and economical domestic source of enrichment services.
+
+(Aug. 1, 1946, ch. 724, title I, §193, as added Nov. 15, 1990, Pub. L. 101–575, §5(e), 104 Stat. 2835; renumbered title I, Oct. 24, 1992, Pub. L. 102–486, title IX, §902(a)(8), 106 Stat. 2944; amended Apr. 26, 1996, Pub. L. 104–134, title III, §3116(b)(2), 110 Stat. 1321–349.)
 
 #### References in Text
 
 The National Environmental Policy Act of 1969, referred to in subsec. (a)(1), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of this title and Tables.
 
+#### Amendments
+
+1996—Subsec. (f). Pub. L. 104–134 added subsec. (f).
+
 #### Section Referred to in Other Sections
 
-This section is referred to in section 2297f–1 this title.
+This section is referred to in sections 2297f–1, 2297h–11 of this title.
 

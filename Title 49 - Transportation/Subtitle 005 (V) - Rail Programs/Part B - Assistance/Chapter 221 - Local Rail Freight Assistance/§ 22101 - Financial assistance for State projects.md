@@ -12,7 +12,7 @@ General.—The Secretary of Transportation shall provide financial assistance to
 
 (b)
 
-Calculating Cost-Benefit Ratio.—The Secretary shall establish a methodology for calculating the ratio of benefits to costs of projects proposed under this chapter. In establishing the methodology, the Secretary shall consider the need for equitable treatment of different regions of the United States and different commodities transported by rail. The establishment of themethodology is committed to the discretion of the Secretary.
+Calculating Cost-Benefit Ratio.—The Secretary shall establish a methodology for calculating the ratio of benefits to costs of projects proposed under this chapter. In establishing the methodology, the Secretary shall consider the need for equitable treatment of different regions of the United States and different commodities transported by rail. The establishment of the methodology is committed to the discretion of the Secretary.
 
 (c)
 
@@ -20,7 +20,7 @@ Conditions.—(1) Assistance for a project shall be provided under this chapter 
 
 &emsp;(A) a rail carrier certifies that the rail line related to the project carried more than 20 carloads a mile during the most recent year during which transportation was provided by the carrier on the line; and
 
-&emsp;(B) the ratio of benefits to costs for the project, as calculated using the methodology established under subsection (b) of this section, is more than 1.0.
+&emsp;(B) the ratio of benefits to costs for the project, as calculated using the methodologyestablished under subsection (b) of this section, is more than 1.0.
 
 (2) If the rail carrier that provided the transportation on the rail line is no longer in existence, the applicant for the project shall provide the information required by the certification under paragraph (1)(A) of this subsection in the way the Secretary prescribes.
 
@@ -38,7 +38,9 @@ Limitations on Amounts.—A State may not receive more than 15 percent of the am
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -48,7 +50,7 @@ Historical and Revision Notes
 
 49 App.:1654(b).
 
-Oct. 15, 1966, Pub. L. 89–670, 80 Stat. 931, §5(b), (c), (n)–(p); added Feb. 5, 1976, Pub. L. 94–210, §803, 90 Stat. 130; Nov. 8, 1978, Pub. L. 95–607, §§102–106(a), 107–109(a), 92 Stat. 3059, 3062; Oct. 12, 1979, Pub. L. 96–86, §115(b), 93 Stat. 662; Aug. 13, 1981, Pub. L. 97–35, §§1191, 1192, 95 Stat. 699; Jan. 14, 1983, Pub. L. 97–468, §501, 96 Stat. 2551; Apr. 7, 1986, Pub. L. 99–272, §4018, 100 Stat. 111; restated Dec. 11, 1989, Pub. L. 101–213, §2(a), (c), 103 Stat. 1843, 1844, 1848.
+Oct. 15, 1966, Pub. L. 89–670, 80 Stat. 931, §5(b), (c), (n)–(p); added Feb. 5, 1976, Pub. L. 94–210, §803, 90 Stat. 130; Nov. 8, 1978, Pub. L. 95–607, §§102– 106(a), 107–109(a), 92 Stat. 3059, 3062; Oct. 12, 1979, Pub. L. 96–86, §115(b), 93 Stat. 662; Aug. 13, 1981, Pub. L. 97–35, §§1191, 1192, 95 Stat. 699; Jan. 14, 1983, Pub. L. 97–468, §501, 96 Stat. 2551; Apr. 7, 1986, Pub. L. 99–272, §4018, 100 Stat. 111; restated Dec. 11, 1989, Pub. L. 101–213, §2(a), (c), 103 Stat. 1843, 1844, 1848.
 
 &nbsp;
 
@@ -64,7 +66,7 @@ Oct. 15, 1966, Pub. L. 89–670, 80 Stat. 931, §5(b), (c), (n)–(p); added Feb
 
 22101(d)
 
-49 App.:1654(<i>o).</i>
+49 App.:1654(<i>o</i>).
 
 In this chapter, the word “transportation” is substituted for “service” for consistency in the revised title.
 

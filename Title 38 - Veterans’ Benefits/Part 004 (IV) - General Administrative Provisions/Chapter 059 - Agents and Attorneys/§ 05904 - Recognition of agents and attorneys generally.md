@@ -30,13 +30,13 @@
 
 (B) For purposes of subparagraph (A) of this paragraph, a claim shall be considered to have been resolved in a manner favorable to the claimant if all or any part of the relief sought is granted.
 
-(3) To the extent that past-due benefits are awarded in any proceeding before the Secretary, the Board of Veterans’ Appeals, or the United States Court of Veterans Appeals, the Secretary may direct that payment of any attorneys’ fee under a fee arrangement described in paragraph (1) of this subsection be made out of such past-due benefits. In no event may the Secretary withhold for the purpose of such payment any portion of benefits payable for a period after the date of the final decision of the Secretary, the Board of Veterans’ Appeals, or Court of Veterans Appeals making (or ordering the making of) the award.
+(3) To the extent that past-due benefits are awarded in any proceeding before the Secretary, the Board of Veterans’ Appeals, or the United States Court of Veterans Appeals, the Secretary may direct that payment of any attorneys’ fee under a fee arrangement described in paragraph (1) of this subsection be made out of such past-due benefits. In no event may the Secretary withhold for the purpose of such payment any portion of benefits payable for a period after the date of the final decision of the Secretary, theBoard of Veterans’ Appeals, or Court of Veterans Appeals making (or ordering the making of) the award.
 
 (Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1238, §3404; Pub. L. 99–576, title VII, §701(80), Oct. 28, 1986, 100 Stat. 3298; Pub. L. 100–687, div. A, title I, §104(a), Nov. 18, 1988, 102 Stat. 4108; renumbered §5904 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §4(a)(1), (3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 403–405; Pub. L. 102–405, title III, §303(a), Oct. 9, 1992, 106 Stat. 1985; Pub. L. 103–446, title V, §504(a), Nov. 2, 1994, 108 Stat. 4663.)
 
 #### Amendments
 
-1994—Subsec. (d)(2)(A). Pub. L. 103–446 amended subpar. (A) generally. Prior to amendment, subpar. (A)read as follows: “A fee agreement referred to in paragraph (1) of this subsection is one under which (i) the amount of the fee payable to the attorney is to be paid to the attorney by the Secretary directly from any past-due benefits awarded on the basis of the claim, and (ii) the amount of the fee is contingent on whether or not the matter is resolved in a manner favorable to the claimant.”
+1994—Subsec. (d)(2)(A). Pub. L. 103–446 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “A fee agreement referred to in paragraph (1) of this subsection is one under which (i) the amount of the fee payable to the attorney is to be paid to the attorney by the Secretary directly from any past-due benefits awarded on the basis of the claim, and (ii) the amount of the fee is contingent on whether or not the matter is resolved in a manner favorable to the claimant.”
 
 1992—Subsec. (c)(1). Pub. L. 102–405, §303(a)(1), substituted “Except as provided in paragraph (3), in” for “In”.
 

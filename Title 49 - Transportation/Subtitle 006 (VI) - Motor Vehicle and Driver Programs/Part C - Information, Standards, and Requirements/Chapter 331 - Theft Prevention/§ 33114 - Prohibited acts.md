@@ -28,7 +28,9 @@ Nonapplication.—Subsection (a)(1) of this section does not apply to a person e
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

@@ -22,7 +22,7 @@
 
 &emsp;(A)(i) To request a waiver under paragraph (1), a local educational agency or school that receives funds under this subchapter, or a local educational agency or school that does not receive funds under this subchapter but is undertaking school reform efforts that the Secretary determines are comparable to the activities described in section 5886 of this title, shall transmit an application for such a waiver to the State educational agency. The State educational agency then shall submit approved applications for waivers under paragraph (1) to the Secretary.
 
-&emsp;(ii) A State educational agency that receives funds under this subchapter may request awaiver under paragraph (1) by submitting an application for such waiver to the Secretary.
+&emsp;(ii) A State educational agency that receives funds under this subchapter may request a waiver under paragraph (1) by submitting an application for such waiver to the Secretary.
 
 &emsp;(B) Each application submitted to the Secretary under subparagraph (A) shall—
 
@@ -78,7 +78,7 @@ The Secretary may not waive any statutory or regulatory requirement of the progr
 
 &emsp;&emsp;(E) the distribution of funds to States or to local educational agencies; and
 
-&emsp;(2) unless the underlying purposes of the statutory requirements of each program or Act for which a waiver is granted continue to be met to the satisfaction of the Secretary.
+&emsp;(2) unless the underlying purposes of the statutory requirements of each program orAct for which a waiver is granted continue to be met to the satisfaction of the Secretary.
 
 #### (d) Termination of waivers
 
@@ -110,7 +110,7 @@ The Secretary shall periodically review the performance of any State, local educ
 
 &emsp;&emsp;(A) has developed a State improvement plan under section 5886 of this title that is approved by the Secretary; and
 
-&emsp;&emsp;(B) waives State statutory or regulatory requirements relating to education while holding local educational agencies or schools within the State that are affected by suchwaivers accountable for the performance of the students who are affected by such waivers.
+&emsp;&emsp;(B) waives State statutory or regulatory requirements relating to education while holding local educational agencies or schools within the State that are affected by such waivers accountable for the performance of the students who are affected by such waivers.
 
 #### (4) State application
 
@@ -170,7 +170,7 @@ In deciding whether to extend a request for a waiver under subsection (a)(1) of 
 
 #### (g) Publication
 
-A notice of the Secretary's decision to grant waivers under subsection (a)(1) of this section and to authorize State educational agencies to issue waivers under subsection (e) of this sectionshall be published in the Federal Register and the Secretary shall provide for the dissemination of such notice to State educational agencies, interested parties, including educators, parents, students, advocacy and civil rights organizations, other interested parties, and the public.
+A notice of the Secretary's decision to grant waivers under subsection (a)(1) of this section and to authorize State educational agencies to issue waivers under subsection (e) of this section shall be published in the Federal Register and the Secretary shall provide for the dissemination of such notice to State educational agencies, interested parties, including educators, parents, students, advocacy and civil rights organizations, other interested parties, and the public.
 
 (Pub. L. 103–227, title III, §311, Mar. 31, 1994, 108 Stat. 174; Pub. L. 103–382, title III, §394(f)(5), Oct. 20, 1994, 108 Stat. 4028.)
 
@@ -195,6 +195,10 @@ The Carl D. Perkins Vocational and Applied Technology Education Act, referred to
 “(5) The Drug-Free Schools and Communities Act of 1986.
 
 “(6) The Carl D. Perkins Vocational and Applied Technology Education Act.”
+
+#### Additional State Educational Agencies Authorized To Waive Federal Requirements
+
+Pub. L. 104–134, title I, §101(d) \[title III\], Apr. 26, 1996, 110 Stat. 1321–211, 1321–229; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327, provided in part: “That notwithstanding section 311(e) of Public Law 103–227 \[20 U.S.C. 5891(e)\], the Secretary is authorized to grant up to six additional State education agencies authority to waive Federal statutory or regulatory requirements for fiscal year 1996 and succeeding fiscal years”.
 
 #### Section Referred to in Other Sections
 

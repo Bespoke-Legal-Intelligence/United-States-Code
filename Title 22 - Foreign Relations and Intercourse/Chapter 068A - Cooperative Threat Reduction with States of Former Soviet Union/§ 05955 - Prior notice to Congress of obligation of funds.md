@@ -30,3 +30,71 @@ Any report under subsection (a) of this section that covers proposed demilitariz
 
 For delegation of certain authorities and duties of the President under this section to Secretary of Defense, see Memorandum of President of the United States, Jan. 29, 1994, 59 F.R. 5929, set out as a note under section 5952 of this title.
 
+#### Congressional Reports on Cooperative Threat Reduction Programs
+
+Pub. L. 104–106, div. A, title XII, §§1201, 1205, 1206, Feb. 10, 1996, 110 Stat. 469, 470, 471, as amended by Pub. L. 104–201, div. A, title XIV, §1431, Sept. 23, 1996, 110 Stat. 2726, provided that:
+
+#### “SEC. 1201. SPECIFICATION OF COOPERATIVE THREAT REDUCTION PROGRAMS.
+
+“(a)
+
+In General.—For purposes of section 301 \[110 Stat. 245\] and other provisions of this Act \[see Tables for classification\], Cooperative Threat Reduction programs are the programs specified in subsection (b).
+
+“(b)
+
+Specified Programs.—The programs referred to in subsection (a) are the following programs with respect to states of the former Soviet Union:
+
+&emsp;“(1) Programs to facilitate the elimination, and the safe and secure transportation and storage, of nuclear, chemical, and other weapons, fissile material suitable for use in nuclear weapons, and their delivery vehicles.
+
+&emsp;“(2) Programs to facilitate the safe and secure storage of fissile materials derived from the elimination of nuclear weapons.
+
+&emsp;“(3) Programs to prevent the proliferation of weapons, weapons components, and weapons-related technology and expertise.
+
+&emsp;“(4) Programs to expand military-to-military and defense contacts.
+
+#### “SEC. 1205. PRIOR NOTICE TO CONGRESS OF OBLIGATION OF FUNDS.
+
+“(a)
+
+Annual Requirement.—(1) Not less than 15 days before any obligation of any funds appropriated for any fiscal year for a program specified under section 1201 as a Cooperative Threat Reduction program, the Secretary of Defense shall submit to the congressional committees specified in paragraph (2) a report on that proposed obligation for that program for that fiscal year.
+
+“(2) The congressional committees referred to in paragraph (1) are the following:
+
+&emsp;“(A) The Committee on Armed Services, the Committee on Foreign Relations, and the Committee on Appropriations of the Senate.
+
+&emsp;“(B) The Committee on National Security, the Committee on International Relations, and the Committee on Appropriations of the House of Representatives.
+
+“(b)
+
+Matters To Be Specified in Reports.—Each such report shall specify—
+
+&emsp;“(1) the activities and forms of assistance for which the Secretary of Defense plans to obligate funds;
+
+&emsp;“(2) the amount of the proposed obligation; and
+
+&emsp;“(3) the projected involvement (if any) of any department or agency of the United States (in addition to the Department of Defense) and of the private sector of the United States in the activities and forms of assistance for which the Secretary of Defense plans to obligate such funds.
+
+#### “SEC. 1206. REPORT ON ACCOUNTING FOR UNITED STATES ASSISTANCE.
+
+“(a)
+
+Report.—(1) The Secretary of Defense shall submit to Congress an annual report on the efforts made by the United States (including efforts through the use of audits, examinations, and on-site inspections) to ensure that assistance provided under Cooperative Threat Reduction programs is fully accounted for and that such assistance is being used for its intended purposes.
+
+“(2) A report shall be submitted under this section not later than January 31 of each year until the Cooperative Threat Reduction programs are completed.
+
+“(b)
+
+Information To Be Included.—Each report under this section shall include the following:
+
+&emsp;“(1) A list of cooperative threat reduction assistance that has been provided before the date of the report.
+
+&emsp;“(2) A description of the current location of the assistance provided and the current condition of such assistance.
+
+&emsp;“(3) A determination of whether the assistance has been used for its intended purpose.
+
+&emsp;“(4) A description of the activities planned to be carried out during the next fiscal year to ensure that cooperative threat reduction assistance provided during that fiscal year is fully accounted for and is used for its intended purpose.
+
+“(c)
+
+Comptroller General Assessment.—Not later than 30 days after the date on which a report of the Secretary under subsection (a) is submitted to Congress, the Comptroller General of the United States shall submit to Congress a report giving the Comptroller General's assessment of the report and making any recommendations that the Comptroller General considers appropriate.”
+

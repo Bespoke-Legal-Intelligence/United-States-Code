@@ -4,7 +4,7 @@
 
 The Secretary of State is authorized—
 
-&emsp;(1) to sell, exchange, lease, or license any property or property interest acquired under this chapter, or under other authority, for useof diplomatic and consular establishments in foreign countries or in the United States pursuant to section 4304(b)(5) of this title,
+&emsp;(1) to sell, exchange, lease, or license any property or property interest acquired under this chapter, or under other authority, for use of diplomatic and consular establishments in foreign countries or in the United States pursuant to section 4304(b)(5) of this title,
 
 &emsp;(2) to receive payment in whatever form, or in kind, he determines to be in the interest of the United States for damage to or destruction of property acquired for use of diplomatic and consular establishments abroad, and the contents of such buildings, and
 
@@ -12,7 +12,7 @@ The Secretary of State is authorized—
 
 #### (b) Disposition of proceeds; report to Congress
 
-Proceeds derived from dispositions, payments, or gifts under subsection (a) of this section shall, notwithstanding the provisions of any other law, be applied toward acquisition, construction, or other purposes authorized by this chapter or held in the Foreign Service Buildings Fund, as in the judgment of the Secretary may best serve the Government's interest: <i>Provided,</i> That the Secretary shall report all such transactions annually to the Congress with the budget estimates of the Department of State.
+Proceeds derived from dispositions, payments, or gifts under subsection (a) of this section shall, notwithstanding the provisions of any other law, be applied toward acquisition, construction, or other purposes authorized by this chapter or held in the Foreign Service Buildings Fund, as in the judgment of the Secretary may best serve the Government's interest: <i>Provided</i>, That the Secretary shall report all such transactions annually to the Congress with the budget estimates of the Department of State.
 
 #### (c) Proceeds from sale of furniture, furnishings, and equipment
 

@@ -1,8 +1,8 @@
 ### §1012. Disbursement and accounting: pay of enlisted members of the National Guard
 
-Amounts appropriated for the pay, under subsections (a), (b), and (d) of section 206, section 301(f), the last sentence of section 402(b), and section 1002 of this title, of enlisted members of the Army National Guard of the United States or the Air National Guard of the United States for attending regular periods of duty and instruction shall be disbursed and accounted for by the Secretary concerned. All such disbursements shall be made for 3-month periods for units of the Army National Guard or Air National Guard under regulations prescribed by the Secretary concerned, and on pay rolls prepared and authenticated as prescribed in those regulations.
+Amounts appropriated for the pay, under subsections (a), (b), and (d) of section 206, section 301(f), section 402(b)(3), and section 1002 of this title, of enlisted members of the Army National Guard of the United States or the Air National Guard of the United States for attending regular periods of duty and instruction shall be disbursed and accounted for by the Secretary of Defense. All such disbursements shall be made for 3-month periods for units of the Army National Guard or Air National Guard under regulations prescribed by the Secretary of Defense, and on pay rolls prepared and authenticated as prescribed in those regulations.
 
-(Added Pub. L. 97–258, §2(i)(2)(B), Sept. 13, 1982, 96 Stat. 1061; amended Pub. L. 99–145, title XIII, §1303(b)(13)(A), (B), Nov. 8, 1985, 99 Stat. 741.)
+(Added Pub. L. 97–258, §2(i)(2)(B), Sept. 13, 1982, 96 Stat. 1061; amended Pub. L. 99–145, title XIII, §1303(b)(13)(A), (B), Nov. 8, 1985, 99 Stat. 741; Pub. L. 104–106, div. A, title VI, §602(c)(2), title IX, §913(c)(1), Feb. 10, 1996, 110 Stat. 357, 411.)
 
 Historical and Revision Notes
 
@@ -22,7 +22,9 @@ The words “the Secretary concerned” are substituted for “officers and agen
 
 #### Amendments
 
-1985—Pub. L. 99–145 inserted “: pay of enlisted members of the National Guard” in section catchline, and substituted “for the pay, under subsections (a), (b), and (d) of section 206, section 301(f), the last sentence of section 402(b), and section 1002 of this title,” for “under sections 206(a), (b), and (d), 301(f), 309, 402(b) (last sentence), and 1002 of this title for pay”, “All such disbursements” for “Disbursements”, and “as prescribed in those” for “under the”.
+1996—Pub. L. 104–106 substituted “section 402(b)(3)” for “the last sentence of section 402(b)” and substituted “Secretary of Defense” for “Secretary concerned” in two places.
+
+1985—Pub. L. 99–145 inserted “: pay of enlisted members of the National Guard” in section catchline, and substituted “for the pay, under subsections (a), (b), and (d) of section 206, section 301(f), the last sentence of section 402(b), and section 1002 of this title,” for “under sections 206(a), (b), and (d), 301(f), 309, 402(b) (last sentence), and 1002 of this title for pay”, “All such disbursements” for “Disbursements”, and “as prescribed in those” for “under the”.
 
 #### Effective Date of 1985 Amendment
 

@@ -72,7 +72,7 @@ Section 294g, act July 1, 1944, ch. 373, title VII, §734, as added Oct. 12, 197
 
 A prior section 294g, act July 1, 1944, ch. 373, title VII, §747, as added Nov. 18, 1971, Pub. L. 92–157, title I, §105(f)(4), 85 Stat. 451; amended Oct. 12, 1976, Pub. L. 94–484, title I, §101(f), 90 Stat. 2244, provided for student loans to citizens of United States who were full-time students in schools of medicine located outside United States, prior to repeal by Pub. L. 94–484, title IV, §401(a), Oct. 12, 1976, 90 Stat. 2257, effective Oct. 1, 1976.
 
-Section 294h, act July 1, 1944, ch. 373, title VII, §735, as added Oct. 12, 1976, Pub. L. 94–484, title IV, §401(b)(3), 90 Stat. 2263; amended Aug. 1, 1977, Pub. L. 95–83, title III, §307(c)(5), 91 Stat. 390; Aug. 13, 1981, Pub. L. 97–35,title XXVII, §2709(e)(4)(B), 95 Stat. 911; Nov. 16, 1990, Pub. L. 101–597, title IV, §401(b)\[(a)\], 104 Stat. 3035, related to functions, powers, and duties of the Secretary under the Federal student loan insurance program. See section 292j of this title.
+Section 294h, act July 1, 1944, ch. 373, title VII, §735, as added Oct. 12, 1976, Pub. L. 94–484, title IV, §401(b)(3), 90 Stat. 2263; amended Aug. 1, 1977, Pub. L. 95–83, title III, §307(c)(5), 91 Stat. 390; Aug. 13, 1981, Pub. L. 97–35, title XXVII, §2709(e)(4)(B), 95 Stat. 911; Nov. 16, 1990, Pub. L. 101–597, title IV, §401(b)\[(a)\], 104 Stat. 3035, related to functions, powers, and duties of the Secretary under the Federal student loan insurance program. See section 292j of this title.
 
 #### Section Referred to in Other Sections
 

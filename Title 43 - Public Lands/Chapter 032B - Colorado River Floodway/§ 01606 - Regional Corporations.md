@@ -36,7 +36,7 @@ The Secretary may, on request made within one year of December 18, 1971, by repr
 
 #### (c) Establishment of thirteenth region for nonresident Natives; majority vote; Regional Corporation for thirteenth region
 
-If a majority of all eligible Natives eighteen years of age or older who are not permanentresidents of Alaska elect, pursuant to section 1604(c) of this title, to be enrolled in a thirteenth region for Natives who are non-residents of Alaska, the Secretary shall establish such a region for the benefit of the Natives who elected to be enrolled therein, and they may establish a Regional Corporation pursuant to this chapter.
+If a majority of all eligible Natives eighteen years of age or older who are not permanent residents of Alaska elect, pursuant to section 1604(c) of this title, to be enrolled in a thirteenth region for Natives who are non-residents of Alaska, the Secretary shall establish such a region for the benefit of the Natives who elected to be enrolled therein, and they may establish a Regional Corporation pursuant to this chapter.
 
 #### (d) Incorporation; business for profit; eligibility for benefits; provisions in articles for carrying out chapter
 
@@ -146,7 +146,7 @@ The management of the Regional Corporation shall be vested in a board of directo
 
 &emsp;(ii) Notwithstanding the issuance of additional shares of stock pursuant to paragraphs <sup>1</sup> (1)(B), (1)(C), or (2), a Regional Corporation shall apply the ratio last computed pursuant to subsection (m) of this section prior to February 3, 1988, for purposes of distributing funds pursuant to subsections (j) and (m) of this section.
 
-&emsp;(B) The issuance of additional shares of stock pursuant to paragraphs <sup>1</sup> (1)(B), (1)(C), or (2) shall not affect the division and distribution of revenues pursuant to subsection (i) of this section.
+&emsp;(B) The issuance of additional shares of stock pursuant to paragraphs <sup>1</sup> (1)(B), (1)(C), or\(2) shall not affect the division and distribution of revenues pursuant to subsection (i) of this section.
 
 &emsp;(C) No provision of this chapter shall limit the right of a Regional Corporation to take an action authorized by the laws of the State unless such action is inconsistent with the provisions of this chapter.
 
@@ -224,11 +224,11 @@ The management of the Regional Corporation shall be vested in a board of directo
 
 &emsp;&emsp;(II) a share of Replacement Common Stock that does not carry such right together with a separate, non-voting security that represents only such right.
 
-&emsp;(iii) Replacement Common Stock issued in exchange for a class of Settlement Common Stock carrying greater per share voting power than Settlement Common Stock issued pursuant to subsections (g)(1)(A) and (g)(1)(B) of this section shall carry such voting power and be subject to such other terms as may be provided in the amendment to the articles of incorporation authorizing the issuance of such class of Settlement Common Stock.
+&emsp;(iii) Replacement Common Stock issued in exchange for a class of Settlement CommonStock carrying greater per share voting power than Settlement Common Stock issued pursuant to subsections (g)(1)(A) and (g)(1)(B) of this section shall carry such voting power and be subject to such other terms as may be provided in the amendment to the articles of incorporation authorizing the issuance of such class of Settlement Common Stock.
 
 &emsp;(C) The articles of incorporation of the Regional Corporation shall be deemed amended to authorize the issuance of Replacement Common Stock and the security described in subparagraph (B)(ii)(II).
 
-&emsp;(D) Prior to the date on which alienability restrictions terminate, a Regional Corporationmay amend its articles of incorporation to impose upon Replacement Common Stock one or more of the following—
+&emsp;(D) Prior to the date on which alienability restrictions terminate, a Regional Corporation may amend its articles of incorporation to impose upon Replacement Common Stock one or more of the following—
 
 &emsp;&emsp;(i) a restriction denying voting rights to any holder of Replacement Common Stock who is not a Native or a descendant of a Native;
 
@@ -324,11 +324,11 @@ Funds distributed among the Village Corporations shall be divided among them acc
 
 #### (<i>l</i>) Distributions to Village Corporations; village plan: withholding funds until submission of plan for use of money; joint ventures and joint financing of projects; disagreements, arbitration of issues as provided in articles of Regional Corporation
 
-Funds distributed to a Village Corporation may be withheld until the village has submitted a plan for the use of the money that is satisfactory to the Regional Corporation. The Regional Corporation may require a village plan to provide for joint ventures with other villages, and for joint financing of projects undertaken by the Regional Corporation that will benefit the region generally. In the event of disagreement over the provisions of the plan, the issues in disagreement shall be submitted to arbitration, as shall be provided for in the articles of incorporation of the Regional Corporation.
+Funds distributed to a Village Corporation may be withheld until the village has submitted a plan for the use of the money that is satisfactory to the Regional Corporation. The Regional Corporation may require a village plan to provide for joint ventures with other villages, andfor joint financing of projects undertaken by the Regional Corporation that will benefit the region generally. In the event of disagreement over the provisions of the plan, the issues in disagreement shall be submitted to arbitration, as shall be provided for in the articles of incorporation of the Regional Corporation.
 
 #### (m) Distributions among Village Corporations in a region; computation of dividends for nonresidents of village; financing regional projects with equitably withheld dividends and Village Corporation funds
 
-When funds are distributed among Village Corporations in a region, an amount computed asfollows shall be distributed as dividends to the class of stockholders who are not residents of those villages: The amount distributed as dividends shall bear the same ratio to the amount distributed among the Village Corporations that the number of shares of stock registered on the books of the Regional Corporation in the names of nonresidents of villages bears to the number of shares of stock registered in the names of village residents: <i>Provided</i>, That an equitable portion of the amount distributed as dividends may be withheld and combined with Village Corporation funds to finance projects that will benefit the region generally.
+When funds are distributed among Village Corporations in a region, an amount computed as follows shall be distributed as dividends to the class of stockholders who are not residents of those villages: The amount distributed as dividends shall bear the same ratio to the amount distributed among the Village Corporations that the number of shares of stock registered on the books of the Regional Corporation in the names of nonresidents of villages bears to the number of shares of stock registered in the names of village residents: <i>Provided</i>, That an equitable portion of the amount distributed as dividends may be withheld and combined with Village Corporation funds to finance projects that will benefit the region generally.
 
 #### (n) Projects for Village Corporations
 
@@ -376,7 +376,7 @@ Section 109(b) of Pub. L. 104–42 provided that: “This amendment \[amending t
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1602, 1604, 1605, 1607, 1618, 1620, 1621, 1625, 1627, 1628, 1629b, 1629c, 1629d, 1629e, 1636 of this title; title 16 section 3181; title 25 section 1903; title 42 sections 682, 1382b; title 50 App. section 1989c–1.
+This section is referred to in sections 1602, 1604, 1605, 1607, 1618, 1620, 1621, 1625, 1627, 1628, 1629b, 1629c, 1629d,1629e, 1636 of this title; title 16 section 3181; title 25 section 1903; title 42 section 1382b; title 50 App. section 1989c–1.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “paragraph”.</i>
 

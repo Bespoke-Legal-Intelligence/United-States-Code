@@ -30,7 +30,7 @@ The assistance, if any, provided by the Secretary under this section shall consi
 
 &emsp;&emsp;(B) prescribing such rules as the Secretary determines necessary to ensure a fair and reasonable application of the limitations established under this subsection; and
 
-&emsp;&emsp;(C) ensuring that no person receives duplicative payments or assistance under this section, the Cooperative Forestry Assistance Act of 1978 (16 U.S.C. 2101 et seq.), and the Agricultural Conservation Program established under section 590p(b) of this title, or other Federal program.
+&emsp;&emsp;(C) ensuring that no person receives duplicative payments or assistance under this section, the Cooperative Forestry Assistance Act of 1978 (16 U.S.C. 2101 et seq.), and the environmental quality incentives program established under chapter 4 of subtitle D of title XII of the Food Security Act of 1985 \[16 U.S.C. 3839aa et seq.\], or other Federal program.
 
 #### (d) Definitions
 
@@ -64,17 +64,21 @@ As used in this section—
 
 The Secretary shall use funds provided under this section to reimburse landowners for approved reforestation practices that were implemented before November 28, 1990. The Secretary shall not make reimbursements for reforestation practices that were implemented prior to September 1, 1989.
 
-(Pub. L. 101–624, title XII, §1271, Nov. 28, 1990, 104 Stat. 3557; Pub. L. 102–237, title X, §1018(f), Dec. 13, 1991, 105 Stat. 1906.)
+(Pub. L. 101–624, title XII, §1271, Nov. 28, 1990, 104 Stat. 3557; Pub. L. 102–237, title X, §1018(f), Dec. 13, 1991, 105 Stat. 1906; Pub. L. 104–127, title III, §336(a)(2)(E), Apr. 4, 1996, 110 Stat. 1005.)
 
 #### References in Text
 
 The Cooperative Forestry Assistance Act of 1978, referred to in subsec. (c)(3)(C), is Pub. L. 95–313, July 1, 1978, 92 Stat. 365, as amended, which is classified principally to this chapter (§2101 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 2101 of this title and Tables.
+
+The Food Security Act of 1985, referred to in subsec. (c)(3)(C), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354, as amended. Chapter 4 of subtitle D of title XII of the Act is classified generally to part IV (§3839aa et seq.) of subchapter IV of chapter 58 of this title. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of Title 7, Agriculture, and Tables.
 
 #### Codification
 
 Section was enacted as part of the Federal Stewardship Act of 1990 and also as part of the Food, Agriculture, Conservation, and Trade Act of 1990, and not as part of the Cooperative Forestry Assistance Act of 1978 which comprises this chapter.
 
 #### Amendments
+
+1996—Subsec. (c)(3)(C). Pub. L. 104–127 substituted “environmental quality incentives program established under chapter 4 of subtitle D of title XII of the Food Security Act of 1985” for “Agricultural Conservation Program established under section 590p(b) of this title”.
 
 1991—Subsec. (c)(3)(C). Pub. L. 102–237 inserted “(16 U.S.C. 2101 et seq.)” after “1978” and made technical amendment to reference to section 590p(b) of this title to correct corresponding provision of original Act.
 

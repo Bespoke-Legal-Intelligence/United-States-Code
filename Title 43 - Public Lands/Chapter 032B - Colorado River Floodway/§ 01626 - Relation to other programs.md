@@ -60,7 +60,7 @@ For the purposes of implementation of the Civil Rights Act of 1964 \[42 U.S.C. 2
 
 #### References in Text
 
-The Food Stamp Act of 1964 (78 Stat. 703), as amended, referred to in subsec. (b), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, as amended, known as the Food Stamp Act of 1977, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. Section 5(a) of such Act is classified section 2014(a) of Title 7. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
+The Food Stamp Act of 1964 (78 Stat. 703), as amended, referred to in subsec. (b), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, as amended, known as the Food Stamp Act of 1977, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. Section 5(a)of such Act is classified section 2014(a) of Title 7. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
 
 The Social Security Act, referred to in subsec. (c)(2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended, which is classified generally to chapter 7 (§301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 

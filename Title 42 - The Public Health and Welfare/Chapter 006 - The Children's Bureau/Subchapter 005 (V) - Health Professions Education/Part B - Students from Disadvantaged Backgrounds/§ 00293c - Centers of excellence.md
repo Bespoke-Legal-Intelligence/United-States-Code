@@ -50,7 +50,7 @@ The Secretary may not make a grant under subsection (a) of this section unless t
 
 &emsp;&emsp;(i) is a school described in section 295p(1) of this title; and
 
-&emsp;&emsp;(ii) received a contract under section 295g–8b of this title for fiscal year 1987, as such section was in effect for such fiscal year.
+&emsp;&emsp;(ii) received a contract under section 295g–8b of this title for fiscal year 1987, assuch section was in effect for such fiscal year.
 
 &emsp;(B) In addition to the purposes described in subsection (b) of this section, a grant under subsection (a) of this section to a health professions school meeting the conditions described in subparagraph (A) may be expended—
 
@@ -164,7 +164,7 @@ For purposes of this section:
 
 #### (2) Allocations by Secretary
 
-&emsp;(A) Of the amounts appropriated under paragraph (1) for a fiscal year, the Secretary shall make available $12,000,000 for grants under subsection (a) of this section to health professions schools that are eligible for such grantspursuant to meeting the conditions described in paragraph (2)(A) of subsection (c) of this section.
+&emsp;(A) Of the amounts appropriated under paragraph (1) for a fiscal year, the Secretary shall make available $12,000,000 for grants under subsection (a) of this section to health professions schools that are eligible for such grants pursuant to meeting the conditions described in paragraph (2)(A) of subsection (c) of this section.
 
 &emsp;(B) Of the amounts appropriated under paragraph (1) for a fiscal year and available after compliance with subparagraph (A), the Secretary shall make available 60 percent for grants under subsection (a) of this section to health professions schools that are eligible for such grants pursuant to meeting the conditions described in paragraph (3) or (4) of subsection (c) of this section (including meeting conditions pursuant to subsection (e) of this section).
 

@@ -20,9 +20,9 @@ A Federal credit union shall have succession in its corporate name during its ex
 
 &emsp;&emsp;&emsp;(iii) a loan secured by the insurance or guarantee of, or with advance commitment to purchase the loan by, the Federal Government, a State government, or any agency of either may be made for the maturity and under the terms and conditions specified in the law under which such insurance, guarantee, or commitment is provided;
 
-&emsp;&emsp;&emsp;(iv) a loan or aggregate of loans to a director or member of the supervisory or credit committee of the credit union making the loan which exceeds $10,000 plus pledged shares, be approved by the board of directors;
+&emsp;&emsp;&emsp;(iv) a loan or aggregate of loans to a director or member of the supervisory or credit committee of the credit union making the loan which exceeds $20,000 plus pledged shares, be approved by the board of directors;
 
-&emsp;&emsp;&emsp;(v) loans to other members for which directors or members of the supervisory or credit committee act as guarantor or endorser be approved by the board of directors when such loans standing alone or when added to any outstanding loan or loans of the guarantor or endorser exceeds $10,000;
+&emsp;&emsp;&emsp;(v) loans to other members for which directors or members of the supervisory or credit committee act as guarantor or endorser be approved by the board of directors when such loans standing alone or when added to any outstanding loan or loans of the guarantor or endorser exceeds $20,000;
 
 &emsp;&emsp;&emsp;(vi) the rate of interest may not exceed 15 per centum per annum on the unpaid balance inclusive of all finance charges, except that the Board may establish—
 
@@ -42,7 +42,7 @@ A Federal credit union shall have succession in its corporate name during its ex
 
 &emsp;&emsp;(C) Loans to other credit unions shall be approved by the board of directors.
 
-&emsp;&emsp;(D) Loans to credit union organizations shall be approved by the board of directors and shall not exceed 1 per centum of the paid-in and unimpaired capital and surplus of the credit union. A credit union organization means any organization as determined by the Board, which is established primarily to serve the needs of its member credit unions, and whose business relates to the daily operations of the credit unions they serve.
+&emsp;&emsp;(D) Loans to credit union organizations shall be approved by the board of directorsand shall not exceed 1 per centum of the paid-in and unimpaired capital and surplus of the credit union. A credit union organization means any organization as determined by the Board, which is established primarily to serve the needs of its member credit unions, and whose business relates to the daily operations of the credit unions they serve.
 
 &emsp;&emsp;(E) Participation loans with other credit unions, credit union organizations, or financial organizations shall be in accordance with written policies of the board of directors: <i>Provided</i>, That a credit union which originates a loan for which participation arrangements are made in accordance with this subsection shall retain an interest of at least 10 per centum of the face amount of the loan.
 
@@ -60,7 +60,7 @@ A Federal credit union shall have succession in its corporate name during its ex
 
 &emsp;(8) to make deposits in national banks and in State banks, trust companies, and mutual savings banks operating in accordance with the laws of the State in which the Federal credit union does business, or in banks or institutions the accounts of which are insured by the Federal Deposit Insurance Corporation or the Federal Savings and Loan Insurance Corporation, and for Federal credit unions or credit unions authorized by the Department of Defense operating suboffices on American military installations in foreign countries or trust territories of the United States to maintain demand deposit accounts in banks located in those countries or trust territories, subject to such regulations as may be issued by the Board and provided such banks are correspondents of banks described in this paragraph;
 
-&emsp;(9) to borrow, in accordance with such rules and regulations as may be prescribed by the Board, from any source, in an aggregate amount not exceeding, except as authorized by the Board in carrying out the provisions of subchapter III of this chapter, 50 per centum of its paid-in and unimpaired capital and surplus: <i>Provided</i>, That any Federal credit union may discount with or sell to any Federal intermediate credit bank any eligible obligations up to the amount of its paid-in and unimpaired capital;
+&emsp;(9) to borrow, in accordance with such rules and regulations as may be prescribed by the Board, from any source, in an aggregate amount not exceeding, except as authorized bythe Board in carrying out the provisions of subchapter III of this chapter, 50 per centum of its paid-in and unimpaired capital and surplus: <i>Provided</i>, That any Federal credit union may discount with or sell to any Federal intermediate credit bank any eligible obligations up to the amount of its paid-in and unimpaired capital;
 
 &emsp;(10) to levy late charges, in accordance with the bylaws, for failure of members to meet promptly their obligations to the Federal credit union;
 
@@ -76,7 +76,7 @@ A Federal credit union shall have succession in its corporate name during its ex
 
 &emsp;&emsp;(A) are offered and sold pursuant to section 77d(5) of title 15;
 
-&emsp;&emsp;(B) are mortgage related securities (as that term is defined in section 78c(a)(41) of title 15), subject to such regulations as the Board may prescribe, including regulations prescribing minimum size of the issue (atthe time of initial distribution) or minimum aggregate sales prices, or both; or
+&emsp;&emsp;(B) are mortgage related securities (as that term is defined in section 78c(a)(41) of title 15), subject to such regulations as the Board may prescribe, including regulations prescribing minimum size of the issue (at the time of initial distribution) or minimum aggregate sales prices, or both; or
 
 &emsp;&emsp;(C) are small business related securities (as defined in section 78c(a)(53) of title 15), subject to such regulations as the Board may prescribe, including regulations prescribing the minimum size of the issue (at the time of the initial distribution), the minimum aggregate sales price, or both;
 
@@ -84,13 +84,15 @@ A Federal credit union shall have succession in its corporate name during its ex
 
 &emsp;(17) to exercise such incidental powers as shall be necessary or requisite to enable it to carry on effectively the business for which it is incorporated.
 
-(June 26, 1934, ch. 750, title I, §107, formerly §7, 48 Stat. 1218; Dec. 6, 1937, ch. 3, §2, 51 Stat. 4; July 31, 1946, ch. 711, §1, 60 Stat. 744; 1947 Reorg. Plan No. 1, §401, eff. July 1, 1947, 12 F.R. 4534, 61 Stat. 952; June 29, 1948, ch. 711, §§1, 2, 62 Stat. 1091; Oct. 25, 1949, ch. 713, §1, 63 Stat. 890; May 13, 1952, ch. 264, 66 Stat. 70; renumbered §8 and amended Sept. 22, 1959, Pub. L. 86–354, §1, 73 Stat. 630; July 2, 1964, Pub. L. 88–353, §1, 78 Stat. 269; May 24, 1966, Pub. L. 89–429, §7, 80 Stat. 167; July 3, 1967, Pub. L. 90–44, §§2, 3, 81 Stat. 110, 111; July 5, 1968, Pub. L. 90–375, §1(1)–(3), 82 Stat. 284; Aug. 1, 1968, Pub. L. 90–448, title VIII, §807(n), 82 Stat. 545; Mar. 10, 1970, Pub. L. 91–206, §2(1), 84 Stat. 49; renumbered title I, §107, and amended Oct. 19, 1970, Pub. L. 91–468, §§1(2), 10, 84 Stat. 994, 1017; June 23, 1972, Pub. L. 92–318, title I, §133(c)(4), 86 Stat. 270; Aug. 22, 1974, Pub. L. 93–383, title VII, §721, title VIII, §805(c)(5), 88 Stat. 719, 727; Oct. 28, 1974, Pub. L. 93–495, title I, §101(d), 88 Stat. 1502; Dec. 31, 1974, Pub. L. 93–569, §6, 88 Stat. 1866; Apr. 19, 1977, Pub. L. 95–22, title III, §§302, 303, 91 Stat. 49, 51; Nov. 10, 1978, Pub. L. 95–630, title V, §502(b), title XVIII, §1803, 92 Stat. 3681, 3723; Dec. 21, 1979, Pub. L. 96–153, title III, §323(d), 93 Stat. 1120; Dec. 28, 1979, Pub. L. 96–161, title I, §103(b), 93 Stat. 1234; Mar. 31, 1980, Pub. L. 96–221, title III, §§305(b), 307, 309(a)(1), 310, 94 Stat. 146–149; Oct. 15, 1982, Pub. L. 97–320, title V, §§506–514, 516–518, 96 Stat. 1528–1530; Jan. 12, 1983, Pub. L. 97–457, §§25, 26, 96 Stat. 2510; Oct. 3, 1984, Pub. L. 98–440, title I, §105(b), 98 Stat. 1691; Oct. 17, 1984, Pub. L. 98–479, title II, §206, 98 Stat. 2234; Aug. 10, 1987, Pub. L. 100–86, title VII, §§702, 703, 101 Stat. 652; Nov. 28, 1989, Pub. L. 101–179, title II, §206(b), 103 Stat. 1311; Sept. 23, 1994, Pub. L. 103–325, title II, §206(b), 108 Stat. 2199.)
+(June 26, 1934, ch. 750, title I, §107, formerly §7, 48 Stat. 1218; Dec. 6, 1937, ch. 3, §2, 51 Stat. 4; July 31, 1946, ch. 711, §1, 60 Stat. 744; 1947 Reorg. Plan No. 1, §401, eff. July 1, 1947, 12 F.R. 4534, 61 Stat. 952; June 29, 1948, ch. 711, §§1, 2, 62 Stat. 1091; Oct. 25, 1949, ch. 713, §1, 63 Stat. 890; May 13, 1952, ch. 264, 66 Stat. 70; renumbered §8 and amended Sept. 22, 1959, Pub. L. 86–354, §1, 73 Stat. 630; July 2, 1964, Pub. L. 88–353, §1, 78 Stat. 269; May 24, 1966, Pub. L. 89–429, §7, 80 Stat. 167; July 3, 1967, Pub. L. 90–44, §§2, 3, 81 Stat. 110, 111; July 5, 1968, Pub. L. 90–375, §1(1)–(3), 82 Stat. 284; Aug. 1, 1968, Pub. L. 90–448, title VIII, §807(n), 82 Stat. 545; Mar. 10, 1970, Pub. L. 91–206, §2(1), 84 Stat. 49; renumbered title I, §107, and amended Oct. 19, 1970, Pub. L. 91–468, §§1(2), 10, 84 Stat. 994, 1017; June 23, 1972, Pub. L. 92–318, title I, §133(c)(4), 86 Stat. 270; Aug. 22, 1974, Pub. L. 93–383, title VII, §721, title VIII, §805(c)(5), 88 Stat. 719, 727; Oct. 28, 1974, Pub. L. 93–495, title I, §101(d), 88 Stat. 1502; Dec. 31, 1974, Pub. L. 93–569, §6, 88 Stat. 1866; Apr. 19, 1977, Pub. L. 95–22, title III, §§302, 303, 91 Stat. 49, 51; Nov. 10, 1978, Pub. L. 95–630, title V, §502(b), title XVIII, §1803, 92 Stat. 3681, 3723; Dec. 21, 1979, Pub. L. 96–153, title III, §323(d), 93 Stat. 1120; Dec. 28, 1979, Pub. L. 96–161, title I, §103(b), 93 Stat. 1234; Mar. 31, 1980, Pub. L. 96–221, title III, §§305(b), 307, 309(a)(1), 310, 94 Stat. 146–149; Oct. 15, 1982, Pub. L. 97–320, title V, §§506–514, 516–518, 96 Stat. 1528–1530; Jan. 12, 1983, Pub. L. 97–457, §§25, 26, 96 Stat. 2510; Oct. 3, 1984, Pub. L. 98–440, title I, §105(b), 98 Stat. 1691; Oct. 17, 1984, Pub. L. 98–479, title II, §206, 98 Stat. 2234; Aug. 10, 1987, Pub. L. 100–86, title VII, §§702, 703, 101 Stat. 652; Nov. 28, 1989, Pub. L. 101–179, title II, §206(b), 103 Stat. 1311; Sept. 23, 1994, Pub. L. 103–325, title II, §206(b), 108 Stat. 2199; Sept. 30, 1996, Pub. L. 104–208, div. A, title II, §2306, 110 Stat. 3009–426.)
 
 #### Codification
 
 In par. (7), “section 9101(3) of title 31” substituted for “section 101 of the Government Corporation Control Act \[31 U.S.C. 846\]” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 #### Amendments
+
+1996—Par. (5)(A)(iv), (v). Pub. L. 104–208 substituted “$20,000” for “$10,000”.
 
 1994—Par. (15)(C). Pub. L. 103–325 added subpar. (C).
 
@@ -108,7 +110,7 @@ Pars. (15), (16). Pub. L. 98–440, §105(b), added par. (15) and redesignated f
 
 Par. (7)(K). Pub. L. 97–457, §26, redesignated cl. (L) as (K) and substituted a period for “; and” at end.
 
-1982—Par. (5)(A)(i). Pub. L. 97–320, §§507–509, substituted “on” for “which is made to finance the acquisition of” after “real estate loan” and “that is or will be” for “for” after “cooperative unit,”, struck out “the sales price of which is not more than 150 per centum of the median sales price of residential real property situated in the geographical area (as determined by the board of directors) in which the property is located,” after “credit union member”, and inserted “or such other limits as shall be set by the National Credit Union Association Board” after “not exceeding thirty years”.
+1982—Par. (5)(A)(i). Pub. L. 97–320, §§507–509, substituted “on” for “which is made to finance the acquisition of” after “real estate loan” and “that is or will be” for “for” after “cooperative unit,”, struck out “thesales price of which is not more than 150 per centum of the median sales price of residential real property situated in the geographical area (as determined by the board of directors) in which the property is located,” after “credit union member”, and inserted “or such other limits as shall be set by the National Credit Union Association Board” after “not exceeding thirty years”.
 
 Par. (5)(A)(ii). Pub. L. 97–320, §510, substituted “or a second mortgage loan secured by a residential dwelling” for “or for the repair, alteration, or improvement of a residential dwelling”.
 
@@ -214,7 +216,7 @@ Amendment by section 305(b) of Pub. L. 96–221 effective at close of Mar. 31, 1
 
 #### Effective and Termination Dates of 1979 Amendments
 
-Amendment by Pub. L. 96–161 effective Dec. 31, 1979, with that amendment to remain in effect until theclose of Mar. 31, 1980, see section 104 of Pub. L. 96–161, set out as a note under section 371a of this title.
+Amendment by Pub. L. 96–161 effective Dec. 31, 1979, with that amendment to remain in effect until the close of Mar. 31, 1980, see section 104 of Pub. L. 96–161, set out as a note under section 371a of this title.
 
 Section 323(e) of Pub. L. 96–153 provided that: “The amendments made by subsections (a) through (d) \[amending this section and sections 1728, 1787, and 1821 of this title\] are not applicable to any claim arising out of the closing of a bank, savings and loan association, or credit union prior to the date of enactment of this Act \[Dec. 21, 1979\], but shall be applicable to any such claim arising on or after such date.”
 

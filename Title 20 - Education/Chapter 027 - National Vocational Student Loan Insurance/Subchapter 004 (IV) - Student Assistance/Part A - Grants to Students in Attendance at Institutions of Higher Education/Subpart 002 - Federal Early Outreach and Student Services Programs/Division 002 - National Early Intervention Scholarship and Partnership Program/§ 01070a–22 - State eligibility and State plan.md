@@ -2,7 +2,7 @@
 
 #### (a) Plan required for eligibility
 
-(1) In order for a State to qualify for a grant under this division, the State shall submit to the Secretary a plan for carrying out the program under this division. Such plan shall provide for the conduct, under the State program, of both a scholarship component in accordance with section 1070a–24 of this title and an early intervention component in accordance with section 1070a–23 of this title.
+(1) In order for a State to qualify for a grant under this division, the State shall submit to the Secretary a plan for carrying out the program under this division. Such plan shall provide for the conduct, under the State program, of both a scholarship component in accordancewith section 1070a–24 of this title and an early intervention component in accordance with section 1070a–23 of this title.
 
 (2) Each State plan submitted pursuant to paragraph (1) shall be in such form, contain or be accompanied by such information or assurances, and be submitted at such time as the Secretary may require by regulation and shall—
 
@@ -18,7 +18,7 @@ The Secretary shall not approve a plan submitted under subsection (a) of this se
 
 &emsp;(2) specifies the methods by which such share of the costs will be paid; and
 
-&emsp;(3) includes provisions designed to assure that funds provided under this division shallsupplement and not supplant funds expended for existing State and local programs.
+&emsp;(3) includes provisions designed to assure that funds provided under this division shall supplement and not supplant funds expended for existing State and local programs.
 
 #### (c) Methods for complying with matching requirement
 

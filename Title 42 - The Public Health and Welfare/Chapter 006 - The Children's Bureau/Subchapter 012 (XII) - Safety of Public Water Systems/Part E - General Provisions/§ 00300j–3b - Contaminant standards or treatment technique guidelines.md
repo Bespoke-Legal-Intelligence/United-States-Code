@@ -14,7 +14,7 @@
 
 (3) Guidelines under this section may, in the discretion of the Administrator—
 
-&emsp;(A) be nationally and uniformly applicable to all projects funded under section 300j–3a of this title or section 300j–1(a)(2) of this title;
+&emsp;(A) be nationally and uniformly applicable to all projects funded under section 300j–3a of this title or section 300j–1(a)(2) <sup>1</sup> of this title;
 
 &emsp;(B) vary for different classes or categories of such projects (as determined by the Administrator);
 
@@ -26,7 +26,13 @@
 
 (Pub. L. 95–477, §7(b), Oct. 18, 1978, 92 Stat. 1511.)
 
+#### References in Text
+
+Section 300j–1(a)(2) of this title, referred to in par. (3)(A), was amended by Pub. L. 104–182, title I, §121(3), (4)(A), Aug. 6, 1996, 110 Stat. 1651, to redesignate par. (2)(B) as subsec. (b) of section 300j–1, strike par. (2)(A), and add a new par. (2) relating to information and research facilities.
+
 #### Codification
 
 Section was enacted as part of the Environmental Research, Development, and Demonstration Authorization Act of 1979, and not as part of the Public Health Service Act which comprises this chapter.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

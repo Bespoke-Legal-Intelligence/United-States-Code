@@ -16,7 +16,7 @@
 
 #### Amendments
 
-<b>1989</b>—Subsec. (c). Pub. L. 101–12 substituted “applicable provisions of sections 1214 and 1221” for “the provisions of section 1206”.
+1989—Subsec. (c). Pub. L. 101–12 substituted “applicable provisions of sections 1214 and 1221” for “the provisions of section 1206”.
 
 #### Effective Date of 1989 Amendment
 

@@ -10,7 +10,7 @@ Sums appropriated and available for State purposes for each fiscal year shall be
 
 &emsp;(1) Forty per centum of the first $225,000,000; thirty per centum of the next $275,000,000; and twenty per centum of all additional appropriations shall be apportioned equally among the several States; and
 
-&emsp;(2) At any time, the remaining appropriation shall be apportioned on the basis of need to individual States by the Secretary in such amounts as in his judgment will best accomplish the purposes of this part. The determination of need shall include among other things a consideration of the proportion which the population of each State bears to the total population of the United States and of the use of outdoor recreation resources of individual States by persons from outside the State as well as a consideration of the Federal resources and programs in the particular States.
+&emsp;(2) At any time, the remaining appropriation shall be apportioned on the basis of need to individual States by the Secretary in such amounts as in his judgment will best accomplish the purposes of this part. The determination of need shall include among other things a consideration of the proportion which the population of each State bears to the total population of the United States and of the use of outdoor recreation resources of individualStates by persons from outside the State as well as a consideration of the Federal resources and programs in the particular States.
 
 &emsp;(3) The total allocation to an individual State under paragraphs (1) and (2) of this subsection shall not exceed 10 per centum of the total amount allocated to the several States in any one year.
 
@@ -36,7 +36,7 @@ A comprehensive statewide outdoor recreation plan shall be required prior to the
 
 > The plan shall take into account relevant Federal resources and programs and shall be correlated so far as practicable with other State, regional, and local plans. Where there exists or is in preparation for any particular State a comprehensive plan financed in part with funds supplied by the Housing and Home Finance Agency, any statewide outdoor recreation plan prepared for purposes of this part shall be based upon the same population, growth, and other pertinent factors as are used in formulating the Housing and Home Finance Agency financed plans.
 
-The Secretary may provide financial assistance to any State for projects for the preparation of a comprehensive statewide outdoorrecreation plan when such plan is not otherwise available or for the maintenance of such plan.
+The Secretary may provide financial assistance to any State for projects for the preparation of a comprehensive statewide outdoor recreation plan when such plan is not otherwise available or for the maintenance of such plan.
 
 For fiscal year 1988 and thereafter each comprehensive statewide outdoor recreation plan shall specifically address wetlands within that State as an important outdoor recreation resource as a prerequisite to approval, except that a revised comprehensive statewide outdoor recreation plan shall not be required by the Secretary, if a State submits, and the Secretary, acting through the Director of the National Park Service, approves, as a part of and as an addendum to the existing comprehensive statewide outdoor recreation plan, a wetlands priority plan developed in consultation with the State agency with responsibility for fish and wildlife resources and consistent with the national wetlands priority conservation plan developed under section 3921 of this title or, if such national plan has not been completed, consistent with the provisions of that section <sup>1</sup>
 
@@ -50,7 +50,7 @@ In addition to assistance for planning projects, the Secretary may provide finan
 
 &emsp;(2) For development of basic outdoor recreation facilities to serve the general public, including the development of Federal lands under lease to States for terms of twenty-five years or more: <i>Provided</i>, That no assistance shall be available under this part to enclose or shelter facilities normally used for outdoor recreation activities, but the Secretary may permit local funding, and after September 28, 1976, not to exceed 10 per centum of the total amount allocated to a State in any one year to be used for sheltered facilities for swimming pools and ice skating rinks in areas where the Secretary determines that the severity of climatic conditions and the increased public use thereby made possible justifies the construction of such facilities.
 
-#### (f) Requirements for project approval; conditions; progress payments; payments to Governors or State officials or agencies; State transfer of funds to public agencies; conversion of property to other uses; reports to Secretary; accounting; records; audit; evaluations by States; discrimination prohibited
+#### (f) Requirements for project approval; conditions; progress payments; payments to Governors or State officials or agencies; State transfer of funds to public agencies; conversion of property to other uses; reports to Secretary; accounting; records; audit; discrimination prohibited
 
 (1) Payments may be made to States by the Secretary only for those planning, acquisition, or development projects that are approved by him. No payment may be made by the Secretary for or on account of any project with respect to which financial assistance has been given or promised under any other Federal program or activity, and no financial assistance may be given under any other Federal program or activity for or on account of any project with respect to which such assistance has been given or promised under this part. The Secretary may make payments from time to time in keeping with the rate of progress toward the satisfactory completion of individual projects: <i>Provided</i>, That the approval of all projects and all payments, or any commitments relating thereto, shall be withheld until the Secretary receives appropriate written assurance from the State that the State has the ability and intention to finance its share of the cost of the particular project, and to operate and maintain by acceptable standards, at State expense, the particular properties or facilities acquired or developed for public outdoor recreation use.
 
@@ -58,13 +58,13 @@ In addition to assistance for planning projects, the Secretary may provide finan
 
 (3) No property acquired or developed with assistance under this section shall, without the approval of the Secretary, be converted to other than public outdoor recreation uses. The Secretary shall approve such conversion only if he finds it to be in accord with the then existing comprehensive statewide outdoor recreation plan and only upon such conditions as he deems necessary to assure the substitution of other recreation properties of at least equal fair market value and of reasonably equivalent usefulness and location.: <sup>2</sup> <i>Provided</i>, That wetland areas and interests therein as identified in the wetlands provisions of the comprehensive plan and proposed to be acquired as suitable replacement property within that same State that is otherwise acceptable to the Secretary, acting through the Director of the National Park Service, shall be considered to be of reasonably equivalent usefulness with the property proposed for conversion.
 
-(4) No payment shall be made to any State until the State has agreed to (1) provide such reports to the Secretary, in such form and containing such information, as may be reasonably necessary to enable the Secretary to perform his duties under this part, and (2) provide such fiscal control and fund accounting procedures asmay be necessary to assure proper disbursement and accounting for Federal funds paid to the State under this part.
+(4) No payment shall be made to any State until the State has agreed to (1) provide such reports to the Secretary, in such form and containing such information, as may be reasonably necessary to enable the Secretary to perform his duties under this part, and (2) provide such fiscal control and fund accounting procedures as may be necessary to assure proper disbursement and accounting for Federal funds paid to the State under this part.
 
 (5) Each recipient of assistance under this part shall keep such records as the Secretary shall prescribe, including records which fully disclose the amount and the disposition by such recipient of the proceeds of such assistance, the total cost of the project or undertaking in connection with which such assistance is given or used, and the amount and nature of that portion of the cost of the project or undertaking supplied by other sources, and such other records as will facilitate an effective audit.
 
 (6) The Secretary, and the Comptroller General of the United States, or any of their duly authorized representatives, shall have access for the purpose of audit and examination to any books, documents, papers, and records of the recipient that are pertinent to assistance received under this part.
 
-(7) Each State shall evaluate its grant programs annually under guidelines set forth by the Secretary and shall transmit, so as to be received by the Secretary no later than December 31, such evaluation to the Secretary, together with a list of all projects funded during that fiscal year, including, but not limited to, a description of each project, the amount of Federal funds employed in such project, the source of other funds, and the estimated cost of completion of the project. Such evaluation and the publication of same shall be eligible for funding on a 50–50 matching basis. The results of the evaluation shall be annually reported on a fiscal year basis to the Bureau of Outdoor Recreation, which agency shall forward a summary of such reports to the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate by no later than March 1 of each year. Such report to the committees shall also include an analysis of the accomplishments of the fund for the period reported, and may also include recommendations as to future improvements for the operation of the Land and Water Conservation Fund program.
+(7) Repealed. Pub. L. 104–333, div. I, title VIII, §814(d)(1)(H), Nov. 12, 1996, 110 Stat. 4196.
 
 (8) With respect to property acquired or developed with assistance from the fund, discrimination on the basis of residence, including preferential reservation or membership systems, is prohibited except to the extent that reasonable differences in admission and other fees may be maintained on the basis of residence.
 
@@ -94,7 +94,7 @@ In order to assure consistency in policies and actions under this part with othe
 
 &emsp;Notwithstanding subsection (c) of this section, the Secretary may provide 70 percent improvement grants for projects undertaken by any State for the purposes described in this subsection, and the remaining share of the cost shall be borne by the State.
 
-(Pub. L. 88–578, title I, §6, formerly §5, Sept. 3, 1964, 78 Stat. 900; renumbered §6, Pub. L. 92–347, §2, July 11, 1972, 86 Stat. 459; amended Pub. L. 93–303, §2, June 7, 1974, 88 Stat. 194; Pub. L. 94–422, title I, §101(3), Sept. 28, 1976, 90 Stat. 1314; Pub. L. 95–625, title VI, §606, Nov. 10, 1978, 92 Stat. 3519; Pub. L. 99–645, title III, §303, Nov. 10, 1986, 100 Stat. 3587; Pub. L. 103–322, title IV, §40133, Sept. 13, 1994, 108 Stat. 1918; Pub. L. 103–437, §6(p)(2), Nov. 2, 1994, 108 Stat. 4586.)
+(Pub. L. 88–578, title I, §6, formerly §5, Sept. 3, 1964, 78 Stat. 900; renumbered §6, Pub. L. 92–347, §2, July 11, 1972, 86 Stat. 459; amended Pub. L. 93–303, §2, June 7, 1974, 88 Stat. 194; Pub. L. 94–422, title I, §101(3), Sept. 28, 1976, 90 Stat. 1314; Pub. L. 95–625, title VI, §606, Nov. 10, 1978, 92 Stat. 3519; Pub. L. 99–645, title III, §303, Nov. 10, 1986, 100 Stat. 3587; Pub. L. 103–322, title IV, §40133, Sept. 13, 1994, 108 Stat. 1918; Pub. L. 103–437, §6(p)(2), Nov. 2, 1994, 108 Stat. 4586; Pub. L. 104–333, div. I, title VIII, §814(d)(1)(H), Nov. 12, 1996, 110 Stat. 4196.)
 
 #### References in Text
 
@@ -107,6 +107,8 @@ Section 701 of the Housing Act of 1954, referred to in subsec. (g), was repealed
 A prior section 6 of Pub. L. 88–578 was renumbered section 7 and is classified to section 460<i>l</i>–9 of this title.
 
 #### Amendments
+
+1996—Subsec. (f)(7). Pub. L. 104–333 struck out par. (7) relating to annual State evaluations, lists of funded projects, and reports.
 
 1994—Subsec. (f)(7). Pub. L. 103–437 substituted “Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate” for “Committees on Interior and Insular Affairs of the United States Congress”.
 
@@ -143,10 +145,6 @@ Subsec. (f). Pub. L. 94–422 designated existing six paragraphs as pars. (1) to
 Subsec. (g). Pub. L. 94–422 reenacted subsec. (g) without change.
 
 1974—Subsec. (e)(1). Pub. L. 93–303 inserted sentence relating to waiver of benefits by an owner of a single-family residence who elects to retain a right of use and occupancy for not less than six months from the date of acquisition of the residence.
-
-#### Change of Name
-
-Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Transfer of Functions
 

@@ -8,7 +8,7 @@ Searches at Border.—For purposes of ensuring compliance with the requirements 
 
 (c) If a report required under section 5316 with respect to any monetary instrument is not filed (or if filed, contains a material omission or misstatement of fact), the instrument and any interest in property, including a deposit in a financial institution, traceable to such instrument may be seized and forfeited to the United States Government. Any property, real or personal, involved in a transaction or attempted transaction in violation of section 5324(b), or any property traceable to such property, may be seized and forfeited to the United States Government. A monetary instrument transported by mail or a common carrier, messenger, or bailee is being transported under this subsection from the time the instrument is delivered to the United States Postal Service, common carrier, messenger, or bailee through the time it is delivered to the addressee, intended recipient, or agent of the addressee or intended recipient without being transported further in, or taken out of, the United States.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 998; Pub. L. 98–473, title II, §901(d), Oct. 12, 1984, 98 Stat.2135; Pub. L. 99–570, title I, §1355, Oct. 27, 1986, 100 Stat. 3207–22; Pub. L. 102–550, title XV, §1525(c)(2), Oct. 28, 1992, 106 Stat. 4065.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 998; Pub. L. 98–473, title II, §901(d), Oct. 12, 1984, 98 Stat. 2135; Pub. L. 99–570, title I, §1355, Oct. 27, 1986, 100 Stat. 3207–22; Pub. L. 102–550, title XV, §1525(c)(2), Oct. 28, 1992, 106 Stat. 4065.)
 
 Historical and Revision Notes
 

@@ -21,7 +21,7 @@
 | (i) | Definitions. |
 | (j) | Regulations. |
 | (k) | Omitted. |
-| (<i>l)</i> | Midnight basketball league training and partnership programs. |
+| (<i>l</i>) | Midnight basketball league training and partnership programs. |
 | [11904\.](Subchapter%20001%20%28I%29%20-%20Public%20and%20Assisted%20Housing%20Drug%20Elimination/%C2%A7%2011904%20-%20Applications.md) | Applications. |
 | (a) | In general. |
 | (b) | Criteria. |

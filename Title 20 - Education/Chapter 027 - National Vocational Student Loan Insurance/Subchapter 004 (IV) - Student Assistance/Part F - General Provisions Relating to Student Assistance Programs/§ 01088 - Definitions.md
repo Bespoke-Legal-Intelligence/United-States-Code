@@ -8,7 +8,7 @@
 
 &emsp;(B) a postsecondary vocational institution; and
 
-&emsp;(C) only for the purposes of part B of this subchapter, an institution outside the UnitedStates which is comparable to an institution of higher education as defined in section 1141(a) of this title and which has been approved by the Secretary for the purpose of part B of this subchapter.
+&emsp;(C) only for the purposes of part B of this subchapter, an institution outside the United States which is comparable to an institution of higher education as defined in section 1141(a) of this title and which has been approved by the Secretary for the purpose of part B of this subchapter.
 
 (2)(A) For the purpose of qualifying as an institution under paragraph (1)(C) of this subsection, the Secretary shall establish criteria by regulation for the approval of institutions outside the United States and for the determination that such institutions are comparable to an institution of higher education as defined in section 1141(a) of this title. In the case of a graduate medical school outside the United States, such criteria shall include a requirement that a student attending a graduate medical school outside the United States is ineligible for loans made, insured, or guaranteed under part B of this subchapter unless—
 
@@ -100,7 +100,7 @@ For purposes of this subchapter and part C of subchapter I of chapter 34 of titl
 
 &emsp;(2) any guaranty agency, or any eligible lender, to administer, through either manual or automated processing, any aspect of such guaranty agency's or lender's student loan programs under part B of this subchapter, including originating, guaranteeing, monitoring, processing, servicing, or collecting loans.
 
-(Pub. L. 89–329, title IV, §481, as added Pub. L. 99–498, title IV, §407(a), Oct. 17, 1986, 100 Stat. 1476; amended Pub. L. 100–50, §15(1), June 3, 1987,101 Stat. 355; Pub. L. 101–239, title II, §2007(b), (c), Dec. 19, 1989, 103 Stat. 2120, 2121; Pub. L. 101–508, title III, §3005(b), Nov. 5, 1990, 104 Stat. 1388–28; Pub. L. 102–26, §2(a)(2), (3), (d)(2)(A), Apr. 9, 1991, 105 Stat. 123, 124; Pub. L. 102–325, title IV, §481, July 23, 1992, 106 Stat. 609; Pub. L. 103–208, §2(h)(1)–(6), Dec. 20, 1993, 107 Stat. 2475, 2476.)
+(Pub. L. 89–329, title IV, §481, as added Pub. L. 99–498, title IV, §407(a), Oct. 17, 1986, 100 Stat. 1476; amended Pub. L. 100–50, §15(1), June 3, 1987, 101 Stat. 355; Pub. L. 101–239, title II, §2007(b), (c), Dec. 19, 1989, 103 Stat. 2120, 2121; Pub. L. 101–508, title III, §3005(b), Nov. 5, 1990, 104 Stat. 1388–28; Pub. L. 102–26, §2(a)(2), (3), (d)(2)(A), Apr. 9, 1991, 105 Stat. 123, 124; Pub. L. 102–325, title IV, §481, July 23, 1992, 106 Stat. 609; Pub. L. 103–208, §2(h)(1)–(6), Dec. 20, 1993, 107 Stat. 2475, 2476.)
 
 #### Prior Provisions
 
@@ -136,7 +136,7 @@ Section 1088g, Pub. L. 89–329, title IV, §498, as added Pub. L. 92–318, tit
 
 1993—Subsec. (a)(3)(B). Pub. L. 103–208, §2(h)(1), inserted before semicolon at end “, except that the Secretary, at the request of such institution, may waive the applicability of this subparagraph to such institution for good cause, as determined by the Secretary in the case of an institution of higher education that provides a 2-year or 4-year program of instruction for which the institution awards an associate or baccalaureate degree”.
 
-Subsec. (a)(3)(D). Pub. L. 103–208, §2(h)(2), substituted “do not have a high school diploma or its recognized equivalent” for “are admitted pursuant to section 1091(d) of this title” and inserted before period at end “, except that the Secretary may waive the limitation contained in this subparagraph if a nonprofit institution demonstrates to the satisfaction of the Secretary that it exceeds such limitation because it serves, through contracts with Federal, State, or local government agencies, significant numbers of students who do not have a high school diploma or its recognized equivalent”.
+Subsec. (a)(3)(D). Pub. L. 103–208, §2(h)(2), substituted “do not have a high school diploma or its recognized equivalent” for “are admitted pursuant to section 1091(d) of this title” and inserted before period at end “, except that the Secretary may waive the limitation contained in this subparagraph if a nonprofit institution demonstrates to the satisfaction of the Secretarythat it exceeds such limitation because it serves, through contracts with Federal, State, or local government agencies, significant numbers of students who do not have a high school diploma or its recognized equivalent”.
 
 Subsec. (a)(4)(A). Pub. L. 103–208, §2(h)(3), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “such institution has filed for bankruptcy; or”.
 
@@ -184,7 +184,7 @@ Subsec. (e). Pub. L. 101–239, §2007(b)(2), added subsec. (e).
 
 #### Change of Name
 
-Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Economic and Educational Opportunities of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Fifth Congress, Jan. 7, 1997.
 
 #### Effective Date of 1993 Amendment
 

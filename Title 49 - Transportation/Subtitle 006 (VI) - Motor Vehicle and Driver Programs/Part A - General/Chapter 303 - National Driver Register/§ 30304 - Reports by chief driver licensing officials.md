@@ -2,7 +2,7 @@
 
 (a)
 
-Individuals Covered.—As soon as practicable, the chief driver licensing official of each participating State shall submit to the Secretary of Transportation a report containing the information specified by subsection (b) of this section for each individual—
+Individuals Covered.—As soon as practicable, the chief driver licensing official of eachparticipating State shall submit to the Secretary of Transportation a report containing the information specified by subsection (b) of this section for each individual—
 
 &emsp;(1) who is denied a motor vehicle operator's license by that State for cause;
 
@@ -34,7 +34,7 @@ Contents.—(1) Except as provided in paragraph (2) of this subsection, a report
 
 Time for Filing.—If a report under subsection (a) of this section is about an event that occurs—
 
-&emsp;(1) during the 2-year period before the State becomes a participating State, the report shallbe submitted not later than 6 months after the State becomes a participating State; or
+&emsp;(1) during the 2-year period before the State becomes a participating State, the report shall be submitted not later than 6 months after the State becomes a participating State; or
 
 &emsp;(2) after the State becomes a participating State, the report shall be submitted not later than 31 days after the motor vehicle department of the State receives any information specified in subsection (b)(1) of this section that is the subject of the report.
 
@@ -46,7 +46,9 @@ Events Occurring Before Participation.—This section does not require a State t
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -68,5 +70,5 @@ In subsection (c), before clause (1), the words “required to be transmitted by
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 20135, 30301, 30302, 30303, 30305, 30307, 31311 of this title.
+This section is referred to in sections 20135, 30301, 30302, 30303, 30305, 30307, 31311 of this title; title 14 section 93.
 

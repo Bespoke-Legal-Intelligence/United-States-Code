@@ -1,4 +1,4 @@
-### §2387 . Activities affecting armed forces generally
+### §2387. Activities affecting armed forces generally
 
 (a) Whoever, with intent to interfere with, impair, or influence the loyalty, morale, or discipline of the military or naval forces of the United States:
 

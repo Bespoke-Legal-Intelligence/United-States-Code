@@ -470,10 +470,10 @@ I74subpart a—school-based programs for students
 | (i) | Promotion and recruitment. |
 | (j) | Training. |
 | (k) | Research. |
-| (<i>l)</i> | Intergenerational support. |
+| (<i>l</i>) | Intergenerational support. |
 | (m) | Planning coordination. |
 | (n) | Youth leadership. |
-| (<i>o)</i> | National program identity. |
+| (<i>o</i>) | National program identity. |
 | (p) | Service-learning. |
 | (q) | National Youth Service Day. |
 | (r) | Assistance for Head Start. |
@@ -593,25 +593,15 @@ I74subpart a—school-based programs for students
 | (i) | Audits by agencies. |
 | (j) | Congressional oversight. |
 | (k) | Duties. |
-| (<i>l)</i> | Annual reports. |
+| (<i>l</i>) | Annual reports. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### SUBCHAPTER III—FOOD DONATIONS
 
-|  |  |
-| :--- | ---: |
-| [12671\.](Subchapter%20003%20%28III%29%20-%20Food%20Donations/%C2%A7%2012671%20-%20Sense%20of%20Congress%20concerning%20enactment%20of%20Good%20Samaritan%20Food%20Donation%20Act.md) | Sense of Congress concerning enactment of Good Samaritan Food Donation Act. |
-| (a) | In general. |
-| (b) | Distribution of copies. |
-| [12672\.](Subchapter%20003%20%28III%29%20-%20Food%20Donations/%C2%A7%2012672%20-%20Model%20Good%20Samaritan%20Food%20Donation%20Act.md) | Model Good Samaritan Food Donation Act. |
-| (a) | Short title. |
-| (b) | Definitions. |
-| (c) | Liability for damages from donated food and grocery products. |
-| (d) | Collection or gleaning of donations. |
-| (e) | Partial compliance. |
-| (f) | Construction. |
-| [12673\.](Subchapter%20003%20%28III%29%20-%20Food%20Donations/%C2%A7%2012673%20-%20Effect%20of%20section%2012672.md) | Effect of section 12672. |
+|  |
+| :--- |
+| 12671 to 12673. Repealed or Transferred. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

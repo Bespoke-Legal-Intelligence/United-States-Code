@@ -48,5 +48,5 @@ Pub. L. 101–246, title I, §153(g), Feb. 16, 1990, 104 Stat. 44, provided that
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 3931 of this title.
+This section is referred to in section 3931 of this title; title 10 section 1599c.
 

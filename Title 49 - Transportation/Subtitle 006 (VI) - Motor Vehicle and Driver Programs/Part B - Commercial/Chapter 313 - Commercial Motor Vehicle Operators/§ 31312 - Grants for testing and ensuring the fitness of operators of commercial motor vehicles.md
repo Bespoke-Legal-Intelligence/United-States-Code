@@ -68,7 +68,9 @@ Testing and Fitness Program Studies.—In this section, development of a program
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

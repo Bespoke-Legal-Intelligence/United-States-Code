@@ -8,7 +8,7 @@
 
 #### (2) Separate agency for individuals who are blind
 
-&emsp;A State that designates a State agency to administer the part of the State plan underwhich vocational rehabilitation services are provided for individuals who are blind under section 721(a)(1)(A)(i) of this title may establish a separate Council in accordance with this section to perform the duties of such a Council with respect to such State agency.
+&emsp;A State that designates a State agency to administer the part of the State plan under which vocational rehabilitation services are provided for individuals who are blind under section 721(a)(1)(A)(i) of this title may establish a separate Council in accordance with this section to perform the duties of such a Council with respect to such State agency.
 
 #### (b) Composition and appointment
 
@@ -48,7 +48,7 @@
 
 &emsp;&emsp;&emsp;(iii) at least one representative described in subparagraph (A)(iii);
 
-&emsp;&emsp;&emsp;(iv) at least one vocational rehabilitation counselor described in subparagraph (A)(iv), who shall serve as described in such subparagraph;
+&emsp;&emsp;&emsp;(iv) at least one vocational rehabilitation counselor described in subparagraph\(A)(iv), who shall serve as described in such subparagraph;
 
 &emsp;&emsp;&emsp;(v) at least one representative described in subparagraph (A)(v);
 
@@ -144,7 +144,7 @@ The Council shall—
 
 &emsp;&emsp;&emsp;(ii) provided by State agencies and other public and private entities responsible for providing vocational rehabilitation services to individuals with disabilities;
 
-&emsp;(4) prepare and submit an annual report to the Governor or appropriate State entity and the Commissioner on the status of vocational rehabilitation programs operated within the State, and make the report available to the public;
+&emsp;(4) prepare and submit an annual report to the Governor or appropriate State entity andthe Commissioner on the status of vocational rehabilitation programs operated within the State, and make the report available to the public;
 
 &emsp;(5) coordinate with other councils within the State, including the Statewide Independent Living Council established under section 796d of this title, the advisory panel established under section 1413(a)(12) of title 20, the State Planning Council described in section 6024 of title 42, and the State mental health planning council established under section 1916(e) <sup>1</sup> of the Public Health Service Act (42 U.S.C. 300x–4(e));
 
@@ -176,7 +176,7 @@ No member of the Council shall cast a vote on any matter that would provide dire
 
 #### (f) Meetings
 
-The Council shall convene at least 4 meetings a year in such places as it determines to be necessary to conduct Council business and conduct such forums or hearings as the Council considers appropriate. The meetings, hearings, and forumsshall be publicly announced. The meetings shall be open and accessible to the general public unless there is a valid reason for an executive session.
+The Council shall convene at least 4 meetings a year in such places as it determines to be necessary to conduct Council business and conduct such forums or hearings as the Council considers appropriate. The meetings, hearings, and forums shall be publicly announced. The meetings shall be open and accessible to the general public unless there is a valid reason for an executive session.
 
 #### (g) Compensation and expenses
 

@@ -12,6 +12,7 @@
 | (e) | Evaluation of water resources research program. |
 | (f) | Authorization of appropriations in general. |
 | (g) | Additional appropriations where research focused on water problems of interstate nature. |
+| (h) | Coordination. |
 | [10304\.](%C2%A7%2010304%20-%20Research%20concerning%20water%20resource-related%20problems%20deemed%20to%20be%20in%20national%20interest.md) | Research concerning water resource-related problems deemed to be in national interest. |
 | (a) | Grants; matching funds. |
 | (b) | Applications for grants. |

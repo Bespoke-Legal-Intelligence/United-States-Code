@@ -52,7 +52,7 @@ The Director shall not have a direct or indirect financial interest in any insur
 
 The Director shall have all powers which—
 
-&emsp;(1) were vested in the Federal Home Loan Bank Board (in the Board's capacity as such)or the Chairman of such Board on the day before the date of the enactment of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989 \[Aug. 9, 1989\]; and
+&emsp;(1) were vested in the Federal Home Loan Bank Board (in the Board's capacity as such) or the Chairman of such Board on the day before the date of the enactment of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989 \[Aug. 9, 1989\]; and
 
 &emsp;(2) were not—
 
@@ -62,7 +62,7 @@ The Director shall have all powers which—
 
 #### (f) State homestead provisions
 
-No provision of this chapter or any other provision of law administered by the Director shall be construed as superseding any homestead provision of any State constitution, including any implementing State statute, in effect on September 29, 1994, or any subsequent amendment to such a State constitutional or statutory provision in effect on September 29, 1994, that exempts the homestead of any person from foreclosure, or forced sale, for the payment of all debts, other than a purchase money obligation relating to the homestead, taxes due on the homestead, or an obligation arising from work and material used in constructing improvements on the homestead.
+No provision of this chapter or any other provision of law administered by the Director shall be construed as superseding any homestead provision of any State constitution, including any implementing State statute, in effect on September 29, 1994, or any subsequent amendment to such a State constitutional or statutory provision in effect on September 29, 1994, that exempts the homestead of any person from foreclosure, or forced sale, for the payment of alldebts, other than a purchase money obligation relating to the homestead, taxes due on the homestead, or an obligation arising from work and material used in constructing improvements on the homestead.
 
 #### (g) Annual report required
 

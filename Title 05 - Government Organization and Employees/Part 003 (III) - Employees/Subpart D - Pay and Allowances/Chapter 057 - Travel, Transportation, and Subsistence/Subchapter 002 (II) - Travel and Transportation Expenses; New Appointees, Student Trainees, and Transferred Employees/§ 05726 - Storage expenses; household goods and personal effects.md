@@ -1,8 +1,8 @@
 ### §5726. Storage expenses; household goods and personal effects
 
-(a) For the purpose of subsection (b) of this section, “household goods and personal effects” means such personal property of an employee and his dependents as the President may be regulation authorize to be transported or stored, including, in emergencies, motor vehicles authorized to be shipped at Government expense.
+(a) For the purpose of subsection (b) of this section, “household goods and personal effects” means such personal property of an employee and his dependents as authorized under regulations prescribed under section 5738 of this title to be transported or stored, including, in emergencies, motor vehicles authorized to be shipped at Government expense.
 
-(b) Under such regulations as the President may prescribe, an employee, including a new appointee and a student trainee to the extent authorized by sections 5722 and 5723 of this title, assigned to a permanent duty station outside the continental United States may be allowed storage expenses and related transportation and other expenses for his household goods and personal effects when—
+(b) Under regulations prescribed under section 5738 of this title, an employee, including a new appointee and a student trainee to the extent authorized by sections 5722 and 5723 of this title, assigned to a permanent duty station outside the continental United States may be allowed storage expenses and related transportation and other expenses for his household goods and personal effects when—
 
 &emsp;(1) the duty station is one to which he cannot take or at which he is unable to use his household goods and personal effects; or
 
@@ -10,9 +10,9 @@
 
 > The weight of the household goods and personal effects stored under this subsection, together with the weight of property transported under section 5724(a), may not exceed 18,000 pounds net weight, excluding a motor vehicle described by subsection (a) of this section.
 
-(c) Under such regulations as the President may prescribe, when an employee, including a new appointee and a student trainee to the extent authorized by section 5723 of this title, is assigned to a permanent duty station at an isolated location in the continental United States to which he cannot take or at which he is unable to use his household goods and personal effects because of the absence of residence quarters at the location, nontemporary storage expenses or storage at Government expense in Government-owned facilities (including related transportation and other expenses), whichever is more economical, may be allowed the employee under regulations prescribed by the head of the agency concerned. The weight of property stored under this subsection, together with the weight of property transported under sections 5723(a) and 5724(a) of this title, may not exceed the total maximum weight the employee would be entitled to have moved. The period of nontemporary storage under this subsection may not exceed 3 years.
+(c) Under regulations prescribed under section 5738 of this title, when an employee, including a new appointee and a student trainee to the extent authorized by section 5723 of this title, is assigned to a permanent duty station at an isolated location in the continental United States to which he cannot take or at which he is unable to use his household goods and personal effects because of the absence of residence quarters at the location, nontemporary storage expenses orstorage at Government expense in Government-owned facilities (including related transportation and other expenses), whichever is more economical, may be allowed the employee under regulations prescribed by the head of the agency concerned. The weight of property stored under this subsection, together with the weight of property transported under sections 5723(a) and 5724(a) of this title, may not exceed the total maximum weight the employee would be entitled to have moved. The period of nontemporary storage under this subsection may not exceed 3 years.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 504; Pub. L. 90–83, §1(38), Sept. 11, 1967, 81 Stat. 205; Pub. L. 98–151, §118(a)(2), Nov. 14, 1983, 97 Stat. 977.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 504; Pub. L. 90–83, §1(38), Sept. 11, 1967, 81 Stat. 205; Pub. L. 98–151, §118(a)(2), Nov. 14, 1983, 97 Stat. 977; Pub. L. 104–201, div. A, title XVII, §1723(b)(1), (3), Sept. 23, 1996, 110 Stat. 2759.)
 
 Historical and Revision Notes<br>1966
 
@@ -22,7 +22,9 @@ Act
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 5 U.S.C. 73b–1(e).
 
@@ -60,11 +62,15 @@ Subsection (b) of section 25 of the Administrative Expenses Act of 1946 (added b
 
 #### Amendments
 
-<b>1983</b>—Subsec. (b). Pub. L. 98–151 substituted “18,000” for “11,000”.
+1996—Subsec. (a). Pub. L. 104–201, §1723(b)(3), substituted “as authorized under regulations prescribed under section 5738 of this title” for “as the President may by regulation authorize”.
 
-#### Delegation of Functions
+Subsecs. (b), (c). Pub. L. 104–201, §1723(b)(1), substituted “Under regulations prescribed under section 5738 of this title” for “Under such regulations as the President may prescribe”.
 
-Authority of President under this section to prescribe regulations provided for in this section relating to (i) definition of “household goods and personal effects”, (ii) allowable storage expenses and related transportation, and (iii) allowance of nontemporary storage expenses or storage at Government expense in Government-owned facilities (including related transportation and other expenses) delegated to Administrator of General Services, see section 1(8) of Ex. Ord. No. 11609, July 22, 1971, 36 F.R. 13747, set out as a note under section 301 of Title 3, The President.
+1983—Subsec. (b). Pub. L. 98–151 substituted “18,000” for “11,000”.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–201 effective 180 days after Sept. 23, 1996, see section 1725(a) of Pub. L. 104–201, set out as a note under section 5722 of this title.
 
 #### Effective Date of 1983 Amendment; Promulgation of Regulations
 
@@ -76,5 +82,5 @@ Amendments by Pub. L. 98–151 to be carried out by agencies by use of funds app
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3735, 5724, 5724a of this title; title 26 section 912; title 42 sections 290aa, 299c–4.
+This section is referred to in sections 3735, 5724, 5724a, 5737 of this title; title 26 section 912; title 42 sections 290aa, 299c–4.
 

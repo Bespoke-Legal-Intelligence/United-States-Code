@@ -13,6 +13,7 @@
 | (b) | Applicability to bicycle component parts. |
 | (c) | Articles manufactured or produced from denatured distilled spirits withdrawn free of tax from distilled spirits plant; products unfit for beverage purposes. |
 | (d) | Foreign trade zones. |
+| (e) | Production equipment. |
 | [81d.](%C2%A7%2000081d%20-%20Customs%20officers%20and%20guards.md) | Customs officers and guards. |
 | [81e.](%C2%A7%2000081e%20-%20Vessels%20entering%20or%20leaving%20zone%3B%20coastwise%20trade.md) | Vessels entering or leaving zone; coastwise trade. |
 | [81f.](%C2%A7%2000081f%20-%20Application%20for%20establishment%20and%20expansion%20of%20zone.md) | Application for establishment and expansion of zone. |

@@ -19,7 +19,8 @@
 | (i) | Exemption from certain disclosure requirements. |
 | (j) | Loan application register information. |
 | (k) | Disclosure of statements by depository institutions. |
-| (<i>l)</i> | Prompt disclosures. |
+| (<i>l</i>) | Prompt disclosures. |
+| (m) | Opportunity to reduce compliance burden. |
 | [2804\.](%C2%A7%2002804%20-%20Enforcement.md) | Enforcement. |
 | (a) | Regulations. |
 | (b) | Powers of certain other agencies. |
@@ -28,6 +29,8 @@
 | [2806\.](%C2%A7%2002806%20-%20Research%20and%20improved%20methods%3B%20authorization%20of%20appropriations%3B%20recommendations%20to%20Congressional%20committees.md) | Research and improved methods; authorization of appropriations; recommendations to Congressional committees. |
 | [2807\.](%C2%A7%2002807%20-%20Report.md) | Report. |
 | [2808\.](%C2%A7%2002808%20-%20Effective%20date.md) | Effective date. |
+| (a) | In general. |
+| (b) | CPI adjustments. |
 | [2809\.](%C2%A7%2002809%20-%20Compilation%20of%20aggregate%20data.md) | Compilation of aggregate data. |
 | (a) | Commencement; scope of data and tables. |
 | (b) | Staff and data processing resources. |

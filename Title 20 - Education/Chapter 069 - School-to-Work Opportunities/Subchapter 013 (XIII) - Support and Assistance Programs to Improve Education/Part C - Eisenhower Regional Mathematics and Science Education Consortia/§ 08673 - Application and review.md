@@ -6,7 +6,7 @@ Each eligible entity desiring a grant or contract under this part shall submit a
 
 &emsp;(1) demonstrate that the eligible entity has demonstrated expertise in the fields of mathematics and science education;
 
-&emsp;(2) demonstrate that the eligible entity shall implement and disseminate mathematics and science education instructional materials, teaching methods, and assessment tools through a consortium of the region's mathematics and science education organizations and agencies;
+&emsp;(2) demonstrate that the eligible entity shall implement and disseminate mathematics and science education instructional materials,teaching methods, and assessment tools through a consortium of the region's mathematics and science education organizations and agencies;
 
 &emsp;(3) demonstrate that the eligible entity shall carry out the functions of the regional consortium;
 

@@ -16,7 +16,7 @@ The Secretary may enter into agreements with any State for the administration an
 
 &emsp;(B) the State agency has established acceptable conservation programs, consistent with the purposes and policies of this chapter, for all resident species of fish or wildlife in the State which are deemed by the Secretary to be endangered or threatened, and has furnished a copy of such plan and program together with all pertinent details, information, and data requested to the Secretary;
 
-&emsp;(C) the State agency is authorized to conduct investigations to determine the status and requirements for survival of resident species of fish and wildlife;
+&emsp;(C) the State agency is authorized to conduct investigations to determine the statusand requirements for survival of resident species of fish and wildlife;
 
 &emsp;(D) the State agency is authorized to establish programs, including the acquisition of land or aquatic habitat or interests therein, for the conservation of resident endangered or threatened species of fish or wildlife; and
 
@@ -46,7 +46,7 @@ The Secretary may enter into agreements with any State for the administration an
 
 #### (d) Allocation of funds
 
-(1) The Secretary is authorized to provide financial assistance to any State, through its respective State agency, which has entered into acooperative agreement pursuant to subsection (c) of this section to assist in development of programs for the conservation of endangered and threatened species or to assist in monitoring the status of candidate species pursuant to subparagraph (C) of section 1533(b)(3) of this title and recovered species pursuant to section 1533(g) of this title. The Secretary shall allocate each annual appropriation made in accordance with the provisions of subsection (i) of this section to such States based on consideration of—
+(1) The Secretary is authorized to provide financial assistance to any State, through its respective State agency, which has entered into a cooperative agreement pursuant to subsection (c) of this section to assist in development of programs for the conservation of endangered and threatened species or to assist in monitoring the status of candidate species pursuant to subparagraph (C) of section 1533(b)(3) of this title and recovered species pursuant to section 1533(g) of this title. The Secretary shall allocate each annual appropriation made in accordance with the provisions of subsection (i) of this section to such States based on consideration of—
 
 &emsp;(A) the international commitments of the United States to protect endangered species or threatened species;
 

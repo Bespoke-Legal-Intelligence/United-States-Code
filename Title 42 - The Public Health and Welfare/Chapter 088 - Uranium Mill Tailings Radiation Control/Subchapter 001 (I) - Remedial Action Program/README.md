@@ -20,7 +20,7 @@ This subchapter is referred to in sections 2022, 7942 of this title.
 - [&sect; 07919 - Rules](%C2%A7%2007919%20-%20Rules.md)
 - [&sect; 07920 - Enforcement](%C2%A7%2007920%20-%20Enforcement.md)
 - [&sect; 07921 - Public participation; public hearings](%C2%A7%2007921%20-%20Public%20participation%3B%20public%20hearings.md)
-- [&sect; 07922 - Termination of authority of Secretary; groundwater restoration activities; annual Department of Energy authorizations; appropriations&#8230;](%C2%A7%2007922%20-%20Termination%20of%20authority%20of%20Secretary%3B%20groundwater%20restoration%20activities%3B%20annual%20Department%20of%20Energy%20authorizations%3B%20appropriations%E2%80%A6.md)
+- [&sect; 07922 - Termination of authority of Secretary](%C2%A7%2007922%20-%20Termination%20of%20authority%20of%20Secretary.md)
 - [&sect; 07923 - Limitation of contractual authority](%C2%A7%2007923%20-%20Limitation%20of%20contractual%20authority.md)
 - [&sect; 07924 - Reports to Congress](%C2%A7%2007924%20-%20Reports%20to%20Congress.md)
 - [&sect; 07925 - Active operations; liability for remedial action](%C2%A7%2007925%20-%20Active%20operations%3B%20liability%20for%20remedial%20action.md)

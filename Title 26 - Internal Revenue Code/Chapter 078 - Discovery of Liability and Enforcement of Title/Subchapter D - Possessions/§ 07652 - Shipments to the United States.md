@@ -8,7 +8,7 @@
 
 #### (2) Payment of tax
 
-&emsp;The Secretary shall by regulations prescribe the mode and time for payment and collectionof the tax described in paragraph (1), including any discretionary method described in section 6302(b) and (c). Such regulations shall authorize the payment of such tax before shipment from Puerto Rico, and the provisions of section 7651(2)(B) shall be applicable to the payment and collection of such tax in Puerto Rico.
+&emsp;The Secretary shall by regulations prescribe the mode and time for payment and collection of the tax described in paragraph (1), including any discretionary method described in section 6302(b) and (c). Such regulations shall authorize the payment of such tax before shipment from Puerto Rico, and the provisions of section 7651(2)(B) shall be applicable to the payment and collection of such tax in Puerto Rico.
 
 #### (3) Deposit of internal revenue collections
 
@@ -76,7 +76,7 @@ For purposes of subsections (a)(3) and (b)(3)—
 
 #### (1) Excise taxes on rum covered into treasuries of Puerto Rico and Virgin Islands
 
-&emsp;All taxes collected under section 5001(a)(1) on rum imported into the United States (less the estimated amount necessary for paymentof refunds and drawbacks) shall be covered into the treasuries of Puerto Rico and the Virgin Islands.
+&emsp;All taxes collected under section 5001(a)(1) on rum imported into the United States (less the estimated amount necessary for payment of refunds and drawbacks) shall be covered into the treasuries of Puerto Rico and the Virgin Islands.
 
 #### (2) Secretary prescribes formula
 
@@ -284,7 +284,7 @@ Section 1879(i)(3) of Pub. L. 99–514 provided that:
 
 #### Ex. Ord. No. 10602. Secretary of the Interior as Representative of President
 
-Ex. Ord. No. 10602, Mar. 24, 1955, 20 F.R. 1795, provided: “By virtue of the authority vested in me by section 7652(b)(3) of the Internal Revenue Code of 1954 \[now I.R.C. 1986\] (Public Law 591, 83rd Congress, 68A Stat. 907), I hereby designate the Secretary of the Interior as the representative of the President to approve the obligation and expenditure by the government of the Virgin Islands of the moneys referred to in the said section 7652(b)(3).”
+Ex. Ord. No. 10602, Mar. 24, 1955, 20 F.R. 1795, provided: “By virtue of the authority vested in me by section 7652(b)(3) of the Internal Revenue Code of 1954 \[nowI.R.C. 1986\] (Public Law 591, 83rd Congress, 68A Stat. 907), I hereby designate the Secretary of the Interior as the representative of the President to approve the obligation and expenditure by the government of the Virgin Islands of the moneys referred to in the said section 7652(b)(3).”
 
 #### Section Referred to in Other Sections
 

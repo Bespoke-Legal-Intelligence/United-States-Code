@@ -40,7 +40,7 @@
 
 (7) Nothing in paragraphs (5) and (6) may be construed to provide immunity under the antitrust laws.
 
-(8) The procedures concerning the release of confidential business information set forth in section 332(g) of the Tariff Act of 1930 \[19 U.S.C. 1332(g)\] shall apply with respect to information received by the Commission in the course of investigations conducted under this part and part 1 of title III of the North American Free Trade Agreement Implementation Act \[19 U.S.C. 3351 et seq.\]. The Commission may request that parties providing confidential business information furnish nonconfidential summaries thereof or, if such parties indicate that the information in the submission cannot be summarized, the reasons why a summary cannot be provided. If the Commission finds that a request for confidentiality is not warranted and if the party concerned is either unwilling to make the information public or to authorize its disclosure in generalized or summarized form, the Commission may disregard the submission.
+(8) The procedures concerning the release of confidential business information set forth in section 332(g) of the Tariff Act of 1930 \[19 U.S.C. 1332(g)\] shall apply with respect to information received by the Commission in the course of investigations conducted under this part and part 1 of title III of the North American Free TradeAgreement Implementation Act \[19 U.S.C. 3351 et seq.\]. The Commission may request that parties providing confidential business information furnish nonconfidential summaries thereof or, if such parties indicate that the information in the submission cannot be summarized, the reasons why a summary cannot be provided. If the Commission finds that a request for confidentiality is not warranted and if the party concerned is either unwilling to make the information public or to authorize its disclosure in generalized or summarized form, the Commission may disregard the submission.
 
 #### (b) Investigations and determinations by Commission
 
@@ -92,9 +92,9 @@
 
 &emsp;(B) may, in the case of a domestic producer which produces more than one article, treat as part of such domestic industry only that portion or subdivision of the producer which produces the like or directly competitive article; and
 
-&emsp;(C) may, in the case of one or more domestic producers which produce a like or directly competitive article in a major geographic area of the United States and whose production facilities in such area for such article constitute a substantial portion of the domestic industry in the United States and primarily serve the market in such area, and where the imports are concentrated in such area, treat as such domestic industry only that segment of the production located in such area.
+&emsp;(C) may, in the case of one or more domestic producers which produce a like or directly competitive article in a major geographic area of the United States and whose production facilities in such area for such article constitute a substantial portion of the domestic industryin the United States and primarily serve the market in such area, and where the imports are concentrated in such area, treat as such domestic industry only that segment of the production located in such area.
 
-(5) In the course of any proceeding under this subsection, the Commission shall investigate any factor which in its judgment may be contributing to increased imports of the article under investigation. Whenever in the course of its investigation the Commission has reason tobelieve that the increased imports are attributable in part to circumstances which come within the purview of subtitles A and B of title VII \[19 U.S.C. 1671 et seq., 1673 et seq.\] or section 337 \[19 U.S.C. 1337\] of the Tariff Act of 1930, or other remedial provisions of law, the Commission shall promptly notify the appropriate agency so that such action may be taken as is otherwise authorized by such provisions of law.
+(5) In the course of any proceeding under this subsection, the Commission shall investigate any factor which in its judgment may be contributing to increased imports of the article under investigation. Whenever in the course of its investigation the Commission has reason to believe that the increased imports are attributable in part to circumstances which come within the purview of subtitles A and B of title VII \[19 U.S.C. 1671 et seq., 1673 et seq.\] or section 337 \[19 U.S.C. 1337\] of the Tariff Act of 1930, or other remedial provisions of law, the Commission shall promptly notify the appropriate agency so that such action may be taken as is otherwise authorized by such provisions of law.
 
 (6) For purposes of this section:
 
@@ -140,11 +140,11 @@
 
 (2)(A) When a petition filed under subsection (a) of this section alleges that critical circumstances exist and requests that provisional relief be provided under this subsection with respect to imports of the article identified in the petition, the Commission shall, not later than 60 days after the petition containing the request was filed, determine, on the basis of available information, whether—
 
-&emsp;(i) there is clear evidence that increased imports (either actual or relative to domestic production) of the article are a substantial cause of serious injury, or the threat thereof, to the domestic industry producing an article like or directly competitive with the imported article; and
+&emsp;(i) there is clear evidence that increased imports (either actual or relative to domestic production) of the article are a substantial cause of serious injury, or the threat thereof, to the domestic industry producing an articlelike or directly competitive with the imported article; and
 
 &emsp;(ii) delay in taking action under this part would cause damage to that industry that would be difficult to repair.
 
-(B) If the determinations under subparagraph (A)(i) and (ii) are affirmative, the Commission shall find the amount or extent of provisional relief that is necessary to prevent or remedy the serious injury. In carrying out this subparagraph, the Commission shall give preference toincreasing or imposing a duty on imports, if such form of relief is feasible and would prevent or remedy the serious injury.
+(B) If the determinations under subparagraph (A)(i) and (ii) are affirmative, the Commission shall find the amount or extent of provisional relief that is necessary to prevent or remedy the serious injury. In carrying out this subparagraph, the Commission shall give preference to increasing or imposing a duty on imports, if such form of relief is feasible and would prevent or remedy the serious injury.
 
 (C) The Commission shall immediately report to the President its determinations under subparagraph (A)(i) and (ii) and, if the determinations are affirmative, the finding under subparagraph (B).
 
@@ -274,11 +274,11 @@ If the Commission makes an affirmative determination under subsection (b)(1) of 
 
 #### (h) Limitations on investigations
 
-(1) Except for good cause determined by the Commission to exist, no investigation for the purposes of this section shall be made with respect to the same subject matter as a previous investigation under this part, unless 1 year has elapsed since the Commission made its report to the President of the results of such previous investigation.
+(1) Except for good cause determined by the Commission to exist, no investigation for the purposes of this section shall be made with respect to the same subject matter as a previous investigation under this part, unless 1 year has elapsed since the Commission made its report tothe President of the results of such previous investigation.
 
 (2) No new investigation shall be conducted with respect to an article that is or has been the subject of an action under section 2253(a)(3)(A), (B), (C), or (E) of this title if the last day on which the President could take action under section 2253 of this title in the new investigation is a date earlier than that permitted under section 2253(e)(7) of this title.
 
-(3)(A) Not later than the date on which the Textiles Agreement enters into force with respect to the United States, the Secretary of Commerce shall publish in the Federal Registera list of all articles that are subject to the Textiles Agreement. An investigation may be conducted under this section concerning imports of any article that is subject to the Textiles Agreement only if the United States has integrated that article into GATT 1994 pursuant to the Textiles Agreement, as set forth in notices published in the Federal Register by the Secretary of Commerce, including the notice published under section 3591 of this title.
+(3)(A) Not later than the date on which the Textiles Agreement enters into force with respect to the United States, the Secretary of Commerce shall publish in the Federal Register a list of all articles that are subject to the Textiles Agreement. An investigation may be conducted under this section concerning imports of any article that is subject to the Textiles Agreement only if the United States has integrated that article into GATT 1994 pursuant to the Textiles Agreement, as set forth in notices published in the Federal Register by the Secretary of Commerce, including the notice published under section 3591 of this title.
 
 (B) For purposes of this paragraph:
 
@@ -290,7 +290,7 @@ If the Commission makes an affirmative determination under subsection (b)(1) of 
 
 The Commission shall promulgate regulations to provide access to confidential business information under protective order to authorized representatives of interested parties who are parties to an investigation under this section.
 
-(Pub. L. 93–618, title II, §202, Jan. 3, 1975, 88 Stat. 2014; Pub. L. 100–418, title I, §1401(a), Aug. 23, 1988, 102 Stat. 1225; Pub. L. 103–182, title III, §§315, 317(b), Dec. 8, 1993, 107 Stat. 2107, 2108; Pub. L. 103–465, title III, §§301(a)–(d)(2), (4), (e), (f), 302(b)(4)(B), 303(1)–(6), Dec. 8, 1994, 108 Stat. 4932–4934, 4936, 4937.)
+(Pub. L. 93–618, title II, §202, Jan. 3, 1975, 88 Stat. 2014; Pub. L. 100–418, title I, §1401(a), Aug. 23, 1988, 102 Stat. 1225; Pub. L. 103–182, title III, §§315, 317(b), Dec. 8, 1993, 107 Stat. 2107, 2108; Pub. L. 103–465, title III, §§301(a)–(d)(2), (4), (e), (f), 302(b)(4)(B), 303(1)–(6), Dec. 8, 1994, 108 Stat. 4932–4934, 4936, 4937; Pub. L. 104–295, §20(c)(5), Oct. 11, 1996, 110 Stat. 3528.)
 
 #### References in Text
 
@@ -301,6 +301,8 @@ The North American Free Trade Agreement Implementation Act, referred to in subse
 The Tariff Act of 1930, referred to in subsec. (c)(5), is act June 17, 1930, ch. 497, 46 Stat. 590, as amended. Subtitles A and B of title VII of the Tariff Act of 1930 are classified generally to parts I and II (§1671 et seq. and 1673 et seq., respectively) of subtitle IV of chapter 4 of this title. For complete classification of this Act to the Code, see section 1654 of this title and Tables.
 
 #### Amendments
+
+1996—Subsec. (d)(4)(A)(i). Pub. L. 104–295 made technical amendment to reference in original act which appears in text as reference to subsection (b) of this section.
 
 1994—Subsec. (a)(2)(B)(ii). Pub. L. 103–465, §303(1), struck out “, or at any time before the 150th day after the date of filing be amended to request,” after “request”.
 

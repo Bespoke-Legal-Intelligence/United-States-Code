@@ -26,7 +26,9 @@ Finality of Judgment and Supreme Court Review.—A judgment of a court under thi
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

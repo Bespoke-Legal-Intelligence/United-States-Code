@@ -16,7 +16,7 @@ Except as provided in section 1108 of this title:
 
 &emsp;&emsp;(E) acquisition, on behalf of the plan, of any employer security or employer real property in violation of section 1107(a) of this title.
 
-&emsp;(2) No fiduciary who has authority or discretion to control or manage the assets of a planshall permit the plan to hold any employer security or employer real property if he knows or should know that holding such security or real property violates section 1107(a) of this title.
+&emsp;(2) No fiduciary who has authority or discretion to control or manage the assets of a plan shall permit the plan to hold any employer security or employer real property if he knows or should know that holding such security or real property violates section 1107(a) of this title.
 
 #### (b) Transactions between plan and fiduciary
 
@@ -36,5 +36,5 @@ A transfer of real or personal property by a party in interest to a plan shall b
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1108, 1114, 1132, 1203, 1399, 1411 of this title; title 26 section 4975.
+This section is referred to in sections 1101, 1108, 1114, 1132, 1203, 1399, 1411 of this title; title 26 section 4975.
 

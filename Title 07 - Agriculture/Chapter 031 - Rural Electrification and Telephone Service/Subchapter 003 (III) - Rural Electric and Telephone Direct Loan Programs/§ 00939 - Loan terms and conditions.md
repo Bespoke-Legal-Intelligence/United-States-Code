@@ -1,16 +1,12 @@
 ### §939. Loan terms and conditions
 
-#### (a) In general
-
 Loans made from or insured through the fund shall be for the same purposes and on the same terms and conditions as are provided for loans in subchapters I and II of this chapter except as otherwise provided in sections 933 to 938 inclusive. The preceding sentence shall not be construed to make section 948(b)(2) or 950b of this title applicable to this subchapter.
 
-#### (b) Telephone loans under this subchapter
-
-The term of any telephone loan made under this subchapter shall be determined by the borrower at the time the loan application is submitted.
-
-(May 20, 1936, ch. 432, title III, §309, as added May 11, 1973, Pub. L. 93–32, §2, 87 Stat. 70; amended Nov. 28, 1990, Pub. L. 101–624, title XXIII, §2360, 104 Stat. 4042; Nov. 1, 1993, Pub. L. 103–129, §2(b)(2), 107 Stat. 1363.)
+(May 20, 1936, ch. 432, title III, §309, as added May 11, 1973, Pub. L. 93–32, §2, 87 Stat. 70; amended Nov. 28, 1990, Pub. L. 101–624, title XXIII, §2360, 104 Stat. 4042; Nov. 1, 1993, Pub. L. 103–129, §2(b)(2), 107 Stat. 1363; Apr. 4, 1996, Pub. L. 104–127, title VII, §779, 110 Stat. 1151.)
 
 #### Amendments
+
+1996—Pub. L. 104–127 struck out subsec. (a) designation and heading “In general” and heading and text of subsec. (b). Prior to amendment, text read as follows: “The term of any telephone loan made under this subchapter shall be determined by the borrower at the time the loan application is submitted.”
 
 1993—Subsec. (a). Pub. L. 103–129 inserted at end “The preceding sentence shall not be construed to make section 948(b)(2) or 950b of this title applicable to this subchapter.”
 

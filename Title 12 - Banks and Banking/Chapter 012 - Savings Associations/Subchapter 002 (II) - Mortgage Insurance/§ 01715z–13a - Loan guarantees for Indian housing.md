@@ -2,7 +2,7 @@
 
 #### (a) Authority
 
-To provide access to sources of private financing to Indian families and Indian housing authorities who otherwise could not acquire housing financing because of the unique legal status of Indian trust land, the Secretary may guarantee not to exceed 100 percent of the unpaid principal and interest due on any loan eligible under subsection (b) of this section made to an Indian family or Indian housing authority.
+To provide access to sources of private financing to Indian families, Indian housing authorities, and Indian tribes, who otherwise could not acquire housing financing because of the unique legal status of Indian lands or as a result of a lack of access to private financial markets, the Secretary may guarantee not to exceed 100 percent of the unpaid principal and interest due on any loan eligible under subsection (b) of this section made to an Indian family, Indian housing authority, or Indian tribe.
 
 #### (b) Eligible loans
 
@@ -10,11 +10,11 @@ Loans guaranteed pursuant to this section shall meet the following requirements:
 
 #### (1) Eligible borrowers
 
-&emsp;The loans shall be made only to borrowers who are Indian families or Indian housing authorities.
+&emsp;The loans shall be made only to borrowers who are Indian families, Indian housing authorities, or Indian tribes.
 
 #### (2) Eligible housing
 
-&emsp;The loan shall be used to construct, acquire, or rehabilitate 1- to 4-family dwellings that are standard housing and are located on trust land or land located in an Indian or Alaska Native area.
+&emsp;The loan shall be used to construct, acquire, or rehabilitate 1- to 4-family dwellings that are standard housing and are located on trust land or land located in an Indian or Alaska Native area that is under the jurisdiction of an Indian tribe for which an Indian housing plan has been submitted and approved pursuant to sections 102 and 103 of the Native American Housing Assistance and Self-Determination Act of 1996 \[25 U.S.C. 4112, 4113\] that provides for the use of loan guarantees under this section to provide affordable homeownership housing in such areas.
 
 #### (3) Security
 
@@ -42,7 +42,7 @@ Loans guaranteed pursuant to this section shall meet the following requirements:
 
 &emsp;&emsp;(C) involve a principal obligation not exceeding—
 
-&emsp;&emsp;&emsp;(i) an amount equal to the sum of (I) 97 percent of $25,000 of the appraised value of the property, as of the date the loan is accepted for guarantee, and (II) 95 percent of such value in excess of $25,000; and
+&emsp;&emsp;&emsp;(i) 97.75 percent of the appraised value of the property as of the date the loan is accepted for guarantee (or 98.75 percent if the value of the property is $50,000 or less); and
 
 &emsp;&emsp;&emsp;(ii) the amount approved by the Secretary under this section; and
 
@@ -64,7 +64,7 @@ Loans guaranteed pursuant to this section shall meet the following requirements:
 
 #### (4) Fraud and misrepresentation
 
-&emsp;This subsection may not be construed to preclude the Secretary from establishing defensesagainst the original lender based on fraud or material misrepresentation or to bar the Secretary from establishing by regulations in effect on the date of issuance or disbursement, whichever is earlier, partial defenses to the amount payable on the guarantee.
+&emsp;This subsection may not be construed to preclude the Secretary from establishing defenses against the original lender based on fraud or material misrepresentation or to bar the Secretary from establishing by regulations in effect on the date of issuance or disbursement, whichever is earlier, partial defenses to the amount payable on the guarantee.
 
 #### (d) Guarantee fee
 
@@ -108,23 +108,19 @@ Notwithstanding any other provision of law, any loan guaranteed under this secti
 
 #### (i) Foreclosure
 
-&emsp;&emsp;&emsp;The holder of the certificate may initiate foreclosure proceedings in a court of competent jurisdiction (after providing written notice of such action to the Secretary) and upon a final order by the court authorizing foreclosure and submission to the Secretary of a claim for payment under the guarantee, the Secretary shall pay to the holder of the certificate the pro rata portion of the amount guaranteed (as determined pursuant to subsection (e) of this section) plus reasonable fees and expenses as approved by the Secretary. The Secretary shall be subrogated to the rights of the holder of the guarantee and the lender holder shall assign the obligation and security to the Secretary.
+&emsp;&emsp;&emsp;The holder of the certificate may initiate foreclosure proceedings (after providing written notice of such action to the Secretary) and upon a final order by the court authorizing foreclosure and submission to the Secretary of a claim for payment under the guarantee, the Secretary shall pay to the holder of the certificate the pro rata portion of the amount guaranteed (as determined pursuant to subsection (e) of this section) plus reasonable fees and expenses as approved by the Secretary. The Secretary shall be subrogated to the rights of the holder of the guarantee and the lender holder shall assign the obligation and security to the Secretary.
 
 #### (ii) No foreclosure
 
-&emsp;&emsp;&emsp;Without seeking a judicial foreclosure (or in any case in which a foreclosure proceeding initiated under clause (i) continues for a period in excess of 1 year), the holder of the guarantee may submit to the Secretary a claim for payment under the guarantee and the Secretary shall only pay to such holder for a loss on any single loan an amount equal to 90 percent of the pro rata portion of the amount guaranteed (as determined under subsection (e) of this section). The Secretary shall be subrogated to the rights of the holder of the guarantee and the holder shall assign the obligation and security to the Secretary.
+&emsp;&emsp;&emsp;Without seeking foreclosure (or in any case in which a foreclosure proceeding initiated under clause (i) continues for a period in excess of 1 year), the holder of the guarantee may submit to the Secretary a request to assign the obligation and security interest to the Secretary in return for payment of the claim under the guarantee. The Secretary may accept assignment of the loan if the Secretary determines that the assignment is in the best interests of the United States. Upon assignment, the Secretary shall pay to the holder of the guarantee the pro rata portion of the amount guaranteed (as determined under subsection (e) of this section). The Secretary shall be subrogated to the rights of the holder of the guarantee and the holder shall assign the obligation and security to the Secretary.
 
 #### (B) Requirements
 
 &emsp;&emsp;Before any payment under a guarantee is made under subparagraph (A), the holder of the guarantee shall exhaust all reasonable possibilities of collection. Upon payment, in whole or in part, to the holder, the note or judgment evidencing the debt shall be assigned to the United States and the holder shall have no further claim against the borrower or the United States. The Secretary shall then take such action to collect as the Secretary determines appropriate.
 
-#### (2) Assignment by Secretary
+#### (2) Limitations on liquidation
 
-&emsp;Notwithstanding paragraph (1), upon receiving notice of default on a loan guaranteed under this section from the holder of the guarantee, the Secretary may accept assignment of the loan if the Secretary determines that the assignment is in the best interests of the United States. Upon assignment the Secretary shall pay to the holder of the guarantee the pro rata portion of the amount guaranteed (as determined under subsection (e) of this section). The Secretary shall be subrogated to the rights of the holder of the guarantee and the holder shall assign the obligation and security to the Secretary.
-
-#### (3) Limitations on liquidation
-
-&emsp;In the event of a default by the borrower on a loan guaranteed under this section involving a security interest in tribal allotted or trust land, the Secretary shall only pursue liquidation after offering to transfer the account to an eligible tribal member, the tribe, or the Indian housing authority serving the tribe or tribes. If the Secretary subsequently proceeds to liquidate the account, the Secretary shall not sell, transfer, or otherwise dispose of or alienate the property except to one of the entities described in the preceding sentence.
+&emsp;In the event of a default by the borrower on a loan guaranteed under this section involvinga security interest in restricted Indian land, the mortgagee or the Secretary shall only pursue liquidation after offering to transfer the account to an eligible tribal member, the tribe, or the Indian housing authority serving the tribe or tribes. If the mortgagee or the Secretary subsequently proceeds to liquidate the account, the mortgagee or the Secretary shall not sell, transfer, or otherwise dispose of or alienate the property except to one of the entities described in the preceding sentence.
 
 #### (i) Indian Housing Loan Guarantee Fund
 
@@ -166,15 +162,15 @@ Notwithstanding any other provision of law, any loan guaranteed under this secti
 
 #### (A) Requirement of appropriations
 
-&emsp;&emsp;The authority of the Secretary to enter into commitments to guarantee loans under this section shall be effective for any fiscal year only to the extent or in such amounts as are or have been provided in appropriations Acts for such fiscal year.
+&emsp;&emsp;The authority of the Secretary to enter into commitments to guarantee loans under this section shall be effective for any fiscal year to the extent or in such amounts as are or have been provided in appropriations Acts, without regard to the fiscal year for which such amounts were appropriated.
 
 #### (B) Limitations on costs of guarantees
 
-&emsp;&emsp;The authority of the Secretary to enter into commitments to guarantee loans under this section shall be effective for any fiscal year only to the extent that amounts in the Guarantee Fund are or have been made available in appropriation Acts to cover the costs (as such term is defined in section 661a of title 2) of such loan guarantees for such fiscal year.
+&emsp;&emsp;The authority of the Secretary to enter into commitments to guarantee loans under this section shall be effective for any fiscal year only to the extent that amounts in the Guarantee Fund are or have been made available in appropriation Acts to cover the costs (as such term is defined in section 661a of title 2) of such loan guarantees for such fiscal year. Any amounts appropriated pursuant to this subparagraph shall remain available until expended.
 
 #### (C) Limitation on outstanding aggregate principal amount
 
-&emsp;&emsp;Subject to the limitations in subparagraphs (A) and (B), the Secretary may enter into commitments to guarantee loans under this section in each of fiscal years 1993 and 1994 with an aggregate outstanding principal amount not exceeding such amount as may be provided in appropriation Acts for each such year.
+&emsp;&emsp;Subject to the limitations in subparagraphs (A) and (B), the Secretary may enter into commitments to guarantee loans under this section in each of fiscal years 1997, 1998, 1999, 2000, and 2001 with an aggregate outstanding principal amount note exceeding $400,000,000 for each such fiscal year.
 
 #### (6) Liabilities
 
@@ -182,7 +178,7 @@ Notwithstanding any other provision of law, any loan guaranteed under this secti
 
 #### (7) Authorization of appropriations
 
-&emsp;There are authorized to be appropriated to the Guarantee Fund to carry out this section such sums as may be necessary for fiscal year 1993 and $50,000,000 for fiscal year 1994.
+&emsp;There are authorized to be appropriated to the Guarantee Fund to carry out this section such sums as may be necessary for each of fiscal years 1997, 1998, 1999, 2000, and 2001.
 
 #### (j) Requirements for standard housing
 
@@ -236,11 +232,15 @@ For purposes of this section:
 
 &emsp;(3) The term “Indian” means person recognized as being Indian or Alaska Native by an Indian tribe, the Federal Government, or any State.
 
-&emsp;(4) The term “Indian area” means the area within which an Indian housing authority is authorized to provide housing.
+&emsp;(4) The term “Indian area” means the area within which an Indian housing authority or Indian tribe is authorized to provide housing.
 
 &emsp;(5) The term “Indian housing authority” means any entity that—
 
-&emsp;&emsp;(A) is authorized to engage in or assist in the development or operation of low-income housing for Indians; and
+&emsp;&emsp;(A) is authorized to engage in or assist in the development or operation of—
+
+&emsp;&emsp;&emsp;(i) low-income housing for Indians; or
+
+&emsp;&emsp;&emsp;(ii) housing subject to the provisions of this section; and
 
 &emsp;&emsp;(B) is established—
 
@@ -248,15 +248,19 @@ For purposes of this section:
 
 &emsp;&emsp;&emsp;(ii) by operation of State law providing specifically for housing authorities for Indians, including regional housing authorities in the State of Alaska.
 
+> &emsp;The term includes tribally designated housing entities under the Native American Housing Assistance and Self-Determination Act of 1996 \[25 U.S.C. 4101 et seq.\].
+
 &emsp;(6) The term “Secretary” means the Secretary of Housing and Urban Development.
 
 &emsp;(7) The term “standard housing” means a dwelling unit or housing that complies with the requirements established under subsection (j) of this section.
 
-&emsp;(8) The term “tribe” means any tribe, band, pueblo, group, community, or nation of Indians or Alaska Natives.
+&emsp;(8)
+
+Tribe; indian tribe.—The term “tribe” or “Indian tribe” means any Indian tribe, band, nation, or other organized group or community of Indians, including any Alaska Native village or regional or village corporation as defined in or established pursuant to the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\], that is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians pursuant to the Indian Self-Determination and Education Assistance Act of 1975 \[25 U.S.C. 450 et seq.\].
 
 &emsp;(9) The term “trust land” means land title to which is held by the United States for the benefit of an Indian or Indian tribe or title to which is held by an Indian tribe subject to a restriction against alienation imposed by the United States.
 
-(Pub. L. 102–550, title I, §184, Oct. 28, 1992, 106 Stat. 3739.)
+(Pub. L. 102–550, title I, §184, Oct. 28, 1992, 106 Stat. 3739; Pub. L. 104–330, title VII, §701(a)–(j), Oct. 26, 1996, 110 Stat. 4048–4050.)
 
 #### References in Text
 
@@ -264,9 +268,49 @@ The National Housing Act, referred to in subsec. (b)(4)(A), is act June 27, 1934
 
 The Housing Act of 1949, referred to in subsec. (b)(4)(C), is act July 15, 1949, ch. 338, 63 Stat. 413, as amended, which is classified principally to chapter 8A (§1441 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1441 of Title 42 and Tables.
 
+The Native American Housing Assistance and Self-Determination Act of 1996, referred to in subsec. (k)(5), is Pub. L. 104–330, Oct. 26, 1996, 110 Stat. 4016, which is classified principally to chapter 43 (§4101 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of Title 25 and Tables.
+
+The Alaska Native Claims Settlement Act, referred to in subsec. (k)(8), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
+
+The Indian Self-Determination and Education Assistance Act of 1975, referred to in subsec. (k)(8), probably means the Indian Self-Determination and Education Assistance Act, Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, as amended, which is classified principally to subchapter II (§450 et seq.) of chapter 14 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 450 of Title 25 and Tables.
+
 #### Codification
 
 Section was enacted as part of the Housing and Community Development Act of 1992, and not as part of the National Housing Act which comprises this chapter.
+
+#### Amendments
+
+1996—Subsec. (a). Pub. L. 104–330, §701(a)(1), (b), substituted “, Indian housing authorities, and Indian tribes,” for “and Indian housing authorities”, “lands or as a result of a lack of access to private financial markets” for “trust land”, and “, Indian housing authority, or Indian tribe” for “or Indian housing authority”.
+
+Subsec. (b)(1). Pub. L. 104–330, §701(a)(2), substituted “, Indian housing authorities, or Indian tribes” for “or Indian housing authorities”.
+
+Subsec. (b)(2). Pub. L. 104–330, §701(c), inserted before period at end “that is under the jurisdiction of an Indian tribe for which an Indian housing plan has been submitted and approved pursuant to sections 102 and 103 of the Native American Housing Assistance and Self-Determination Act of 1996 that provides for the use of loan guarantees under this section to provide affordable homeownership housing in such areas”.
+
+Subsec. (b)(5)(C)(i). Pub. L. 104–330, §701(i), added cl. (i) and struck out former cl. (i) which read as follows: “an amount equal to the sum of (I) 97 percent of $25,000 of the appraised value of the property, as of the date the loan is accepted for guarantee, and (II) 95 percent of such value in excess of $25,000; and”.
+
+Subsec. (h)(1)(A)(i). Pub. L. 104–330, §701(d)(1)(A), struck out “in a court of competent jurisdiction” after “foreclosure proceedings” in first sentence.
+
+Subsec. (h)(1)(A)(ii). Pub. L. 104–330, §701(d)(1)(B), added cl. (ii) and struck out heading and text of former cl. (ii). Text read as follows: “Without seeking a judicial foreclosure (or in any case in which a foreclosure proceeding initiated under clause (i) continues for a period in excess of 1 year), the holder of the guarantee may submit to the Secretary a claim for payment under the guarantee and the Secretary shall only pay to such holder for a loss on any single loan an amount equal to 90 percent of the pro rata portion of the amount guaranteed (as determined under subsection (e) of this section). The Secretary shall be subrogated to the rights of the holder of the guarantee and the holder shall assign the obligation and security to the Secretary.”
+
+Subsec. (h)(2), (3). Pub. L. 104–330, §701(d)(2), (3), (e), redesignated par. (3) as (2), in first sentence substituted “restricted Indian land, the mortgagee or” for “tribal allotted or trust land,”, in second sentence substituted “mortgagee or the Secretary” for “Secretary” in two places, and struck out heading and text of former par. (2). Text read as follows: “Notwithstanding paragraph (1), upon receiving notice of default on a loan guaranteed under this section from the holder of the guarantee, the Secretary may accept assignment of the loan if the Secretary determines that the assignment is in the best interests of the United States. Upon assignment the Secretary shall pay to the holder of the guarantee the pro rata portion of the amount guaranteed (as determined under subsection (e) of this section). The Secretary shall be subrogated to the rights of the holder of the guarantee and the holder shall assign the obligation and security to the Secretary.”
+
+Subsec. (i)(5)(A). Pub. L. 104–330, §701(j)(1), added subpar. (A) and struck out heading and text of former subpar. (A). Text read as follows: “The authority of the Secretary to enter into commitments to guarantee loans under this section shall be effective for any fiscal year only to the extent or in such amounts as are or have been provided in appropriations Acts for such fiscal year.”
+
+Subsec. (i)(5)(B). Pub. L. 104–330, §701(j)(2), inserted at end “Any amounts appropriated pursuant to this subparagraph shall remain available until expended.”
+
+Subsec. (i)(5)(C). Pub. L. 104–330, §701(f), substituted “1997, 1998, 1999, 2000, and 2001 with an aggregate outstanding principal amount note exceeding $400,000,000 for each such fiscal year” for “1993 and 1994 with an aggregate outstanding principal amount not exceeding such amount as may be provided in appropriation Acts for each such year”.
+
+Subsec. (i)(7). Pub. L. 104–330, §701(g), substituted “such sums as may be necessary for each of fiscal years 1997, 1998, 1999, 2000, and 2001” for “such sums as may be necessary for fiscal year 1993 and $50,000,000 for fiscal year 1994”.
+
+Subsec. (k)(4). Pub. L. 104–330, §701(h)(1), inserted “or Indian tribe” after “authority”.
+
+Subsec. (k)(5). Pub. L. 104–330, §701(h)(2), inserted concluding provisions, added subpar. (A), and struck out former subpar. (A) which read as follows: “is authorized to engage in or assist in the development or operation of low-income housing for Indians; and”.
+
+Subsec. (k)(8). Pub. L. 104–330, §701(h)(3), added par. (8) and struck out former par. (8) which read as follows: “The term ‘tribe’ means any tribe, band, pueblo, group, community, or nation of Indians or Alaska Natives.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 1721 of this title; title 25 section 4112.
 
 <i><sup>1</sup></i><i> So in original. Probably should be section “3702(d)”.</i>
 

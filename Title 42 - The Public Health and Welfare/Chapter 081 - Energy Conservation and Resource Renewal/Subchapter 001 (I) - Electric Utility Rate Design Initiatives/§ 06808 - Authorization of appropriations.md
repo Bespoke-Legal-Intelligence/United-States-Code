@@ -6,7 +6,7 @@ There are authorized to be appropriated—
 
 &emsp;(2) not to exceed $10,000,000 for each of the fiscal years 1979 and 1980 to carry out section 6805 of this title (relating to State offices of consumer services); and
 
-&emsp;(3) not to exceed $8,000,000 for the fiscal year 1979, and $10,000,000 for the fiscal year 1980 to carry out section 6804(1)(B) of this title (relating to innovative rate structures).
+&emsp;(3) not to exceed $8,000,000 for the fiscal year 1979, and $10,000,000 for the fiscal year 1980 tocarry out section 6804(1)(B) of this title (relating to innovative rate structures).
 
 (Pub. L. 94–385, title II, §208, as added Pub. L. 95–617, title II, §142, Nov. 9, 1978, 92 Stat. 3134.)
 

@@ -2,7 +2,7 @@
 
 #### (a) Cooperation of non-Federal interest
 
-After December 31, 1970, the construction of any water resources project, or an acceptable separable element thereof, by the Secretary of the Army, acting through the Chief of Engineers, or by a non-Federal interest where such interest will be reimbursed for such construction under the provisions of section 1962d–5a of this title or under any other provision of law, shall not be commenced until each non-Federal interest has entered into a written agreement with the Secretary of the Army to furnish its required cooperation for the project or the appropriate element of the project, as the case may be. In any such agreement entered into by a State, or a body politic of the State which derives its powers from the State constitution, or a governmental entity created by the State legislature, the agreement may reflect that it does not obligate future State legislative appropriations for such performance and payment when obligating future appropriations would be inconsistent with State constitutional or statutory limitations.
+After December 31, 1970, the construction of any water resources project, or an acceptable separable element thereof, by the Secretary of the Army, acting through the Chief of Engineers, or by a non-Federal interest where such interest will be reimbursed for such construction under the provisions of section 1962d–5a of this title or under any other provision of law, shall not be commenced until each non-Federal interest has entered into a written agreement with the Secretary of the Army to furnish its required cooperation for the project or the appropriate element of the project, as the case may be; except that no such agreement shall be required if the Secretary determines that the administrative costs associated with negotiating, executing, or administering the agreement would exceed the amount of the contribution required from the non-Federal interest and are less than $25,000. In any such agreement entered into by a State, or a body politic of the State which derives its powers from the State constitution, or a governmental entity created by the State legislature, the agreement may reflect that it does not obligate future State legislative appropriations for such performance and payment when obligating future appropriations would be inconsistent with State constitutional or statutory limitations.
 
 #### (b) Definition of non-Federal interest
 
@@ -16,25 +16,25 @@ Every agreement entered into pursuant to this section shall be enforcible in the
 
 After commencement of construction of a project, the Chief of Engineers may undertake performance of those items of cooperation necessary to the functioning of the project for its purposes, if he has first notified the non-Federal interest of its failure to perform the terms of its agreement and has given such interest a reasonable time after such notification to so perform.
 
-#### (e) Inventory of agreements; report to Congress
+#### (e) Effective date
 
-The Secretary of the Army, acting through the Chief of Engineers, shall maintain a continuing inventory of agreements and the status of their performance, and shall report thereon annually to the Congress.
+This section shall not apply to any project the construction of which was commenced before January 1, 1972, or to the assurances for futuredemands required by the Water Supply Act of 1958, as amended \[43 U.S.C. 390b\].
 
-#### (f) Effective date
-
-This section shall not apply to any project the construction of which was commenced before January 1, 1972, or to the assurances for future demands required by the Water Supply Act of 1958, as amended \[43 U.S.C. 390b\].
-
-(Pub. L. 91–611, title II, §221, Dec. 31, 1970, 84 Stat. 1831; Pub. L. 92–222, §4, Dec. 23, 1971, 85 Stat. 799; Pub. L. 99–662, title IX, §912(a), Nov. 17, 1986, 100 Stat. 4189.)
+(Pub. L. 91–611, title II, §221, Dec. 31, 1970, 84 Stat. 1831; Pub. L. 92–222, §4, Dec. 23, 1971, 85 Stat. 799; Pub. L. 99–662, title IX, §912(a), Nov. 17, 1986, 100 Stat. 4189; Pub. L. 104–106, div. A, title X, §1064(d), Feb. 10, 1996, 110 Stat. 445; Pub. L. 104–303, title II, §220, Oct. 12, 1996, 110 Stat. 3696.)
 
 #### References in Text
 
-The Water Supply Act of 1958, as amended, referred to in subsec. (f), is Pub. L. 85–500, title III, §301, July 3, 1958, 72 Stat. 319, as amended, which is classified to section 390b of Title 43, Public Lands.
+The Water Supply Act of 1958, as amended, referred to in subsec. (e), is Pub. L. 85–500, title III, §301, July 3, 1958, 72 Stat. 319, as amended, which is classified to section 390b of Title 43, Public Lands.
 
 #### Codification
 
 Section was enacted as part of the Flood Control Act of 1970, and not as part of the Water Resources Planning Act which comprises this chapter.
 
 #### Amendments
+
+1996—Subsec. (a). Pub. L. 104–303, in first sentence, inserted before period at end “; except that no such agreement shall be required if the Secretary determines that the administrative costs associated with negotiating, executing, or administering the agreement would exceed the amount of the contribution required from the non-Federal interest and are less than $25,000”.
+
+Subsecs. (e), (f). Pub. L. 104–106 redesignated subsec. (f) as (e) and struck out former subsec. (e) which read as follows: “The Secretary of the Army, acting through the Chief of Engineers, shall maintain a continuing inventory of agreements and the status of their performance, and shall report thereon annually to the Congress.”
 
 1986—Subsec. (a). Pub. L. 99–662 inserted “, or an acceptable separable element thereof,”, “or the appropriate element of the project, as the case may be”, and “In any such agreement entered into by a State, or a body politic of the State which derives its powers from the State constitution, or a governmental entity created by the State legislature, the agreement may reflect that it does not obligate future State legislative appropriations for such performance and payment when obligating future appropriations would be inconsistent with State constitutional or statutory limitations.”
 

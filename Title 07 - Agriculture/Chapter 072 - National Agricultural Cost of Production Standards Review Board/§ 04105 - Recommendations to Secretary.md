@@ -1,6 +1,0 @@
-### §4105. Recommendations to Secretary
-
-From time to time, as necessary, the Board shall make written findings and recommendations to the Secretary. The Secretary shall report to the Board on the disposition of these recommendations, including the Secretary's reasons for declining to accept the Board's recommendations, if such declinations are made. The Secretary shall make such reports no later than one hundred and twenty days after the written submission of such recommendations.
-
-(Pub. L. 97–98, title X, §1009, Dec. 22, 1981, 95 Stat. 1262.)
-

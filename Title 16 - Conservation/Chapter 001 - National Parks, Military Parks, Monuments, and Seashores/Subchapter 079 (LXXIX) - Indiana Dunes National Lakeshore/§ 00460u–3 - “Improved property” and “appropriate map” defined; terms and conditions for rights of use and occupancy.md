@@ -12,15 +12,13 @@ As used in this subchapter, the term “improved property” means a detached, o
 
 &nbsp;
 
-| &nbsp; | &nbsp; |
+| <b>Property within boundaries of map</b> | <b>Construction   began before</b> |
 | :--- | ---: |
-| &nbsp; | <b>Construction</b> |
-| <b>Property within boundaries of map</b> | <b> began before</b> |
 | &nbsp;Dated October 1992, No. 626–80,039–C | October 1, 1991 |
 | &nbsp;Dated October 1986, No. 626–80,033–B | February 1, 1986 |
 | &nbsp;Dated December 1980, No. 626–91014 | January 1, 1981 |
 | &nbsp;Dated September 1976, No. 626–91007 | February 1, 1973 |
-| &nbsp;Dated�7E�7ESeptember�7E�7E1966,�7E�7ENo.�7E�7ELNPNE–1008–ID | January 4, 1965 |
+| &nbsp;Dated September 1966, No. LNPNE–1008–ID | January 4, 1965 |
 
 > The term “improved property” also includes the lands on which the dwelling is situated which meets both of the following criteria:
 
@@ -49,7 +47,7 @@ As used in this subchapter, the term “improved property” means a detached, o
 
 1980—Pub. L. 96–612 inserted “January 1, 1981 or, in the case of improved property located within the boundaries delineated on a map identified as ‘Boundary Map, Indiana Dunes National Lakeshore’, dated September 1976 and bearing the number 626–91007, before” after “begun before”.
 
-1976—Pub. L. 94–549 struck out subsec. (a) which related to the suspension of the authority of the Secretary to acquire improved property by condemnation when an appropriate zoning agency had in force a valid zoning ordinance, designated subsec. (b) as the entire provision, and in the entire provision as so designated, inserted provision including in definition of “improved property” a one-family dwelling the construction of which was begun before February 1, 1973, or in the caseof improved property located within the boundaries of the map bearing the number “LNPNE–1008–ID”, property the construction of which was begun before January 4, 1965, and provision which subjected all rights of use and occupancy to terms and conditions the Secretary deems appropriate.
+1976—Pub. L. 94–549 struck out subsec. (a) which related to the suspension of the authority of the Secretary to acquire improved property by condemnation when an appropriate zoning agency had in force a valid zoning ordinance, designated subsec. (b) as the entire provision, and in the entire provision as so designated, inserted provision including in definition of “improved property” a one-family dwelling the construction of which was begun before February 1, 1973, or in the case of improved property located within the boundaries of the map bearing the number “LNPNE–1008–ID”, property the construction of which was begun before January 4, 1965, and provision which subjected all rights of use and occupancy to terms and conditions the Secretary deems appropriate.
 
 #### Section Referred to in Other Sections
 

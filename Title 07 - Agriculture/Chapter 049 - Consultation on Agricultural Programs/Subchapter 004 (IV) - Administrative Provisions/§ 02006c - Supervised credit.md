@@ -10,5 +10,5 @@ The Secretary shall provide adequate training to employees of the Farmers Home A
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1948, 1949 of this title.
+This section is referred to in section 1949 of this title.
 

@@ -26,6 +26,7 @@
 | (d) | Cooperation. |
 | (e) | Eligibility. |
 | (f) | Approval. |
+| (g) | “Designated rural development program” defined. |
 | [6614\.](Subchapter%20002%20%28II%29%20-%20National%20Forest-Dependent%20Rural%20Communities/%C2%A7%2006614%20-%20Action%20plan%20implementation.md) | Action plan implementation. |
 | (a) | In general. |
 | (b) | Assistance. |

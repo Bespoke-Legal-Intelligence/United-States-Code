@@ -28,7 +28,19 @@ Effect on agency authority.—Nothing in this subsection shall be construed to l
 
 (d) The Government waives all claims against a person arising from dual pay from the Government if the dual pay is not reported to the Comptroller General for collection within 6 years from the last date of a period of dual pay.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 971; Pub. L. 100–86, title X, §1004(a), Aug. 10, 1987, 101 Stat. 659.)
+(e)
+
+Treasury Check Offset.—
+
+&emsp;(1)
+
+In general.—To facilitate collection of amounts owed by presenting banks pursuant to subsection (a) or (b), upon the direction of the Secretary, a Federal reserve bank shall withhold credit from banks presenting Treasury checks for ultimate charge to the account of the United States Treasury. By presenting Treasury checks for payment a presenting bank is deemed to authorize this offset.
+
+&emsp;(2)
+
+Attempt to collect required.—Prior to directing offset under subsection (a)(1), the Secretary shall first attempt to collect amounts owed in the manner provided by sections 3711 and 3716.
+
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 971; Pub. L. 100–86, title X, §1004(a), Aug. 10, 1987, 101 Stat. 659; Pub. L. 104–134, title III, §31001(d)(4), Apr. 26, 1996, 110 Stat. 1321–362.)
 
 Historical and Revision Notes
 
@@ -62,7 +74,7 @@ Aug. 28, 1954, ch. 1035, 68 Stat. 890.
 
 In the section, the words “Comptroller General” are substituted for “General Accounting Office” for consistency.
 
-In subsection (a), the words “civil action” are substituted for “proceeding in any court”, “court proceeding”, and “proceeding”, and the word “fiscal” is substituted for “financial”, for consistency in the revised title and with other titles of the United States Code. The words “Except as provided in this subsection” are added for clarity. The words “or by an agency or official of the United States” are omitted as surplus. The words “the Postmaster General” are omitted because of section 4(a) of the Postal Reorganization Act (Pub. L. 91–375, 84 Stat. 773). The words “the Treasurer and Assistant Treasurers of the United States” are omitted because of the source provisions restated in section 321 of the revised title and Department of the Treasury Order 229 of January 14, 1974 (39 F.R. 2280). The word “official” is substituted for “officers” for consistency in the revised title and with other titles of the Code. The words “of the United States”, “to the Treasurer of the United States or other drawee”, and “of such check, checks, warrant, or warrants” are omitted as surplus. The text of 31:129(last sentence less proviso) is omitted as unnecessary. The last sentence is substituted for 31:129(last sentence proviso) to eliminate unnecessary words.
+In subsection (a), the words “civil action” are substituted for “proceeding in any court”, “court proceeding”, and “proceeding”, and the word “fiscal” is substituted for “financial”, for consistency in the revised title and with other titles of the United States Code. The words “Except as provided in this subsection” are added for clarity. The words “or by an agency or official of the United States” are omitted as surplus. The words “the Postmaster General” are omitted becauseof section 4(a) of the Postal Reorganization Act (Pub. L. 91–375, 84 Stat. 773). The words “the Treasurer and Assistant Treasurers of the United States” are omitted because of the source provisions restated in section 321 of the revised title and Department of the Treasury Order 229 of January 14, 1974 (39 F.R. 2280). The word “official” is substituted for “officers” for consistency in the revised title and with other titles of the Code. The words “of the United States”, “to the Treasurer of the United States or other drawee”, and “of such check, checks, warrant, or warrants” are omitted as surplus. The text of 31:129(last sentence less proviso) is omitted as unnecessary. The last sentence is substituted for 31:129(last sentence proviso) to eliminate unnecessary words.
 
 In subsection (b), the words “at any time” in 31:131 are omitted as surplus. The words “the claim is discovered” are substituted for “the United States or any agency or official of the United States who is entitled to bring the same shall discover that the United States or any agency or official of the United States had such cause of action” to eliminate unnecessary words. The words “who is liable to any of the actions mentioned in sections 129 to 131 of this title” are omitted as surplus. The words “officer or employee of the Government” are substituted for “United States or any agency or official of the United States” before “entitled” for consistency in the revised title and with other titles of the Code. The words “although such action would be otherwise barred by the provisions of sections 129 to 131 of this title” are omitted as surplus.
 
@@ -71,6 +83,8 @@ In subsection (c), the words “of the United States” and “allow . . . in�
 In subsection (d), the words “arising from dual pay” are substituted for “arising out of the receipt by such person of compensation . . . in violation of any provision of law prohibiting or restricting the receipt of dual compensation” to eliminate unnecessary words and for consistency in the revised title and with other titles of the Code. The words “including Government owned or controlled corporations” are omitted as unnecessary. The words “or from the government of the District of Columbia” are omitted because of sections 102(a), 448, 449, and 761 of the District of Columbia Self-Government and Governmental Reorganization Act (Pub. L. 93–198, 87 Stat. 777, 801, 836).
 
 #### Amendments
+
+1996—Subsec. (e). Pub. L. 104–134 added subsec. (e).
 
 1987—Subsec. (a). Pub. L. 100–86 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Except as provided in this subsection, the United States Government must bring a civil action to enforce the liability of an endorser, transferor, depositary, or fiscal agent on a forged or unauthorized signature or endorsement on, or a change in, a check or warrant issued by the Secretary of the Treasury, the United States Postal Service, or a disbursing official or agent within 6 years after the check or warrant is presented to the drawee of the check or warrant for payment unless, within that period, written notice of the claim is given to the endorser, transferor, depositary, or fiscal agent. The period for bringing a civil action or giving notice is extended for 180 days if a claim is received under section 3702(c) of this title.”
 

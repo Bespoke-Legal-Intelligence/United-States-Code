@@ -2,7 +2,7 @@
 
 #### (a) Purposes of trust funds
 
-All funds paid pursuant to section 941c of this title, except for payments made pursuant to section 941d(g) of this title, shall be deposited with the Secretary in trust for the benefit of the Tribe. Separate trust funds shall be established for the following purposes: economic development, land acquisition, education, social services and elderly assistance, and per capita payments. Except as provided in this section, the Tribe, in consultation with the Secretary, shall determine the share of settlement payments to be deposited in each Trust Fund, and define, consistently with the provisions of this section, the purposes of each Trust Fund and provisions for administering each, specifically including provisions for periodic distribution of current and accumulated income, and for invasion and restoration of principal.
+All funds paid pursuant to section 941c of this title, except for payments made pursuant to section 941d(g) of this title, shall be deposited with the Secretary in trust for the benefit of the Tribe. Separate trust funds shall be established for the following purposes: economic development, land acquisition, education, social services and elderly assistance, and per capita payments. Except as provided in this section, the Tribe, in consultation with the Secretary, shalldetermine the share of settlement payments to be deposited in each Trust Fund, and define, consistently with the provisions of this section, the purposes of each Trust Fund and provisions for administering each, specifically including provisions for periodic distribution of current and accumulated income, and for invasion and restoration of principal.
 
 #### (b) Outside management option
 
@@ -14,7 +14,7 @@ All funds paid pursuant to section 941c of this title, except for payments made 
 
 (4) Secretarial approval of an investment management firm shall not be unreasonably withheld, and any Secretarial disapproval of an investment management firm shall be accompanied by a detailed explanation setting forth the Secretary's reasons for such disapproval.
 
-(5)(A) For funds placed under professional management, the Tribe, in consultation withthe Secretary and its investment manager, shall develop—
+(5)(A) For funds placed under professional management, the Tribe, in consultation with the Secretary and its investment manager, shall develop—
 
 &emsp;(i) current operating and long-term capital budgets; and
 
@@ -82,7 +82,7 @@ The Secretary shall establish and maintain a Catawba Education Trust Fund, and u
 
 (4)(A) Subject to the provisions of this paragraph, each enrolled member <sup>1</sup> who has reached the age of 21 years on the date the final roll is published shall receive the payment on the date of distribution, which shall be as soon as practicable after date of publication of the final base membership roll. Adult Members shall be paid their pro rata share of this Trust Fund on the date of distribution unless they elect in writing to leave their pro rata share in the Trust Fund, in which case such share shall not be distributed.
 
-(B) The pro rata share of adult Members who elect not to withdraw their payment from this Trust Fund shall be managed, invested and administered, together with the funds of Members who have not attained the age of 21 years on the date the final base membership roll is published, until such Member requests in writing that their pro rata share be distributed, at which time such Member's pro rata share shall be paid, together with the net income of the Trust Fund allocable to such Member's share as of the date of distribution.
+(B) The pro rata share of adult Members who elect not to withdraw their payment from this Trust Fund shall be managed, invested and administered, together with the funds of Members who have not attained the age of 21 years on the date the final base membership roll is published, until such Member requests in writing that their pro rata share be distributed, at which timesuch Member's pro rata share shall be paid, together with the net income of the Trust Fund allocable to such Member's share as of the date of distribution.
 
 (C) No member <sup>1</sup> may elect to have their pro rata share managed by this Trust Fund for a period of more than 21 years after the date of publication of the final base membership roll.
 

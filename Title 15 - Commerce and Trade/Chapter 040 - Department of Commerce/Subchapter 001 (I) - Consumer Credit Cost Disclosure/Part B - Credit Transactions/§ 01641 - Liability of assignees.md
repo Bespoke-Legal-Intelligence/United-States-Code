@@ -42,7 +42,7 @@ Any consumer who has the right to rescind a transaction under section 1635 of th
 
 #### (1) In general
 
-&emsp;Except as otherwise specifically provided in this subchapter, any civil action against acreditor for a violation of this subchapter, and any proceeding under section 1607 of this title against a creditor, with respect to a consumer credit transaction secured by real property may be maintained against any assignee of such creditor only if—
+&emsp;Except as otherwise specifically provided in this subchapter, any civil action against a creditor for a violation of this subchapter, and any proceeding under section 1607 of this title against a creditor, with respect to a consumer credit transaction secured by real property may be maintained against any assignee of such creditor only if—
 
 &emsp;&emsp;(A) the violation for which such action or proceeding is brought is apparent on the face of the disclosure statement provided in connection with such transaction pursuant to this subchapter; and
 

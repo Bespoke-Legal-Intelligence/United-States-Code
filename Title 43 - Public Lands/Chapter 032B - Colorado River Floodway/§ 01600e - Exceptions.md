@@ -2,7 +2,7 @@
 
 Notwithstanding section 1600d of this title, the appropriate Federal officer, after consultation with the Secretary, may make Federal expenditures or financial assistance available within the Colorado River Floodway for—
 
-&emsp;(a) any dam, channel or levee construction, operation or maintenance for the purpose of flood control, water conservation, power or water quality;
+&emsp;(a) any dam, channel or levee construction, operation or maintenance for the purpose offlood control, water conservation, power or water quality;
 
 &emsp;(b) other remedial or corrective actions, including but not limited to drainage facilities essential to assist in controlling adjacent high ground water conditions caused by flood flows;
 

@@ -20,11 +20,7 @@
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;t−s
 
-### &nbsp;A=3Φ  G7
-
-/——G7
-
-S
+### &nbsp;A=3Φ  (——)
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;t
 

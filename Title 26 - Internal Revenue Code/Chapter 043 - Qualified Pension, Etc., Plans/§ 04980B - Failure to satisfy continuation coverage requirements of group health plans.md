@@ -40,7 +40,7 @@ There is hereby imposed a tax on the failure of a group health plan to meet the 
 
 #### (B) Higher minimum tax where violations are more than de minimis
 
-&emsp;&emsp;To the extent violations by the employer (or the plan in the case of a multiemployer plan) for any year are more than de minimis, subparagraph (A) shall be applied by substituting “$15,000” for “$2,500” with respect to the employer (or such plan).
+&emsp;&emsp;To the extent violations by the employer (or the plan in the case of a multiemployerplan) for any year are more than de minimis, subparagraph (A) shall be applied by substituting “$15,000” for “$2,500” with respect to the employer (or such plan).
 
 #### (c) Limitations on amount of tax
 
@@ -82,7 +82,7 @@ There is hereby imposed a tax on the failure of a group health plan to meet the 
 
 #### (ii) Taxable years in the case of certain controlled groups
 
-&emsp;&emsp;&emsp;For purposes of this subparagraph, if not all persons who are treated as a single employer for purposes of this section have thesame taxable year, the taxable years taken into account shall be determined under principles similar to the principles of section 1561.
+&emsp;&emsp;&emsp;For purposes of this subparagraph, if not all persons who are treated as a single employer for purposes of this section have the same taxable year, the taxable years taken into account shall be determined under principles similar to the principles of section 1561.
 
 #### (B) Multiemployer plans
 
@@ -186,11 +186,11 @@ This section shall not apply to—
 
 &emsp;&emsp;&emsp;&emsp;In the case of a qualifying event not described in paragraph (3)(B) or (3)(F), the date which is 36 months after the date of the qualifying event.
 
-&emsp;&emsp;&nbsp;In the case of a qualified beneficiary who is determined, under title II or XVI of the Social Security Act, to have been disabled at the time of a qualifying event described in paragraph (3)(B), any reference in subclause (I) or (II) to 18 months with respect to such event is deemed a reference to 29 months, but only if the qualified beneficiary has provided notice of such determination under paragraph (6)(C) before the end of such 18 months.
+#### (V) Medicare entitlement followed by qualifying event
 
-#### (V) <sup>2</sup> Qualifying event involving medicare entitlement
+&emsp;&emsp;&emsp;&emsp;In the case of a qualifying event described in paragraph (3)(B) that occurs less than 18 months after the date the covered employee became entitled to benefits under title XVIII of the Social Security Act, the period of coverage for qualified beneficiaries other than the covered employee shall not terminate under this clause before the close of the 36-month period beginning on the date the covered employee became so entitled.
 
-&emsp;&emsp;&emsp;&emsp;In the case of an event described in paragraph (3)(D) (without regard to whether such event is a qualifying event), the period of coverage for qualified beneficiaries other than the covered employee for such event or any subsequent qualifying event shall not terminate before the close of the 36-month period beginning on the date the covered employee becomes entitled to benefits under title XVIII of the Social Security Act.
+&emsp;&emsp;&nbsp;In the case of a qualified beneficiary who is determined, under title II or XVI of the Social Security Act, to have been disabledat any time during the first 60 days of continuation coverage under this section, any reference in subclause (I) or (II) to 18 months is deemed a reference to 29 months (with respect to all qualified beneficiaries), but only if the qualified beneficiary has provided notice of such determination under paragraph (6)(C) before the end of such 18 months.
 
 #### (ii) End of plan
 
@@ -204,13 +204,13 @@ This section shall not apply to—
 
 &emsp;&emsp;&emsp;The date on which the qualified beneficiary first becomes, after the date of the election—
 
-&emsp;&emsp;&emsp;&emsp;(I) covered under any other group health plan (as an employee or otherwise) which does not contain any exclusion or limitation with respect to any preexisting condition of such beneficiary, or
+&emsp;&emsp;&emsp;&emsp;(I) covered under any other group health plan (as an employee or otherwise) which does not contain any exclusion or limitation with respect to any preexisting condition of such beneficiary (other than such an exclusion or limitation which does not apply to (or is satisfied by) such beneficiary by reason of chapter 100 of this title, part 7 of subtitle B of title I of the Employee Retirement Income Security Act of 1974, or title XXVII of the Public Health Service Act), or
 
 &emsp;&emsp;&emsp;&emsp;(II) in the case of a qualified beneficiary other than a qualified beneficiary described in subsection (g)(1)(D) entitled to benefits under title XVIII of the Social Security Act.
 
 #### (v) Termination of extended coverage for disability
 
-&emsp;&emsp;&emsp;In the case of a qualified beneficiary who is disabled at the time of a qualifying event described in paragraph (3)(B), the month that begins more than 30 days after the date of the final determination under title II or XVI of the Social Security Act that the qualified beneficiary is no longer disabled.
+&emsp;&emsp;&emsp;In the case of a qualified beneficiary who is disabled at any time during the first 60 days of continuation coverage under this section, the month that begins more than 30 days after the date of the final determination under title II or XVI of the Social Security Act that the qualified beneficiary is no longer disabled.
 
 #### (C) Premium requirements
 
@@ -220,7 +220,7 @@ This section shall not apply to—
 
 &emsp;&emsp;&emsp;(ii) may, at the election of the payor, be made in monthly installments.
 
-> &emsp;&emsp;In no event may the plan require the payment of any premium before the day which is 45 days after the day on which the qualified beneficiary made the initial election for continuation coverage. In the case of an individual described in the last sentence of subparagraph (B)(i), any reference in clause\(i) of this subparagraph to “102 percent” is deemed a reference to “150 percent” for any month after the 18th month of continuation coverage described in subclause (I) or (II) of subparagraph (B)(i).
+> &emsp;&emsp;In no event may the plan require the payment of any premium before the day which is 45 days after the day on which the qualified beneficiary made the initial election for continuation coverage. In the case of an individual described in the last sentence of subparagraph (B)(i), any reference in clause (i) of this subparagraph to “102 percent” is deemed a reference to “150 percent” for any month after the 18th month of continuation coverage described in subclause (I) or (II) of subparagraph (B)(i).
 
 #### (D) No requirement of insurability
 
@@ -314,7 +314,7 @@ This section shall not apply to—
 
 &emsp;&emsp;(B) The employer of an employee under a plan must notify the plan administrator of a qualifying event described in subparagraph (A), (B), (D), or (F) of paragraph (3) with respect to such employee within 30 days (or, in the case of a group health plan which is a multiemployer plan, such longer period of time as may be provided in the terms of the plan) of the date of the qualifying event.
 
-&emsp;&emsp;(C) Each covered employee or qualified beneficiary is responsible for notifying the plan administrator of the occurrence of any qualifying event described in subparagraph (C) or (E) of paragraph (3) within 60 days after the date of the qualifying event and each qualified beneficiary who is determined, under title II or XVI of the Social Security Act, to have been disabled at the time of a qualifying event described in paragraph (3)(B) is responsible for notifying the plan administrator of such determination within 60 days after the date of the determination and for notifying the plan administrator within 30 days of the date of any final determination under such title or titles that the qualified beneficiary is no longer disabled.
+&emsp;&emsp;(C) Each covered employee or qualified beneficiary is responsible for notifying the plan administrator of the occurrence of any qualifying event described in subparagraph (C) or (E) of paragraph (3) within 60 days after the date of the qualifying event and each qualified beneficiary who is determined, under title II or XVI of the Social Security Act, to have been disabled at any time during the first 60 days of continuation coverage under this section is responsible for notifying the plan administrator of such determination within 60 days after the date of the determination and for notifying the plan administrator within 30 days of the date of any final determination under such title or titles that the qualified beneficiary is no longer disabled.
 
 &emsp;&emsp;(D) The plan administrator shall notify—
 
@@ -324,7 +324,7 @@ This section shall not apply to—
 
 > &emsp;&emsp;of such beneficiary's rights under this subsection.
 
-> &emsp;The requirements of subparagraph (B) shall be considered satisfied in the case of a multiemployer plan in connection with a qualifying event described in paragraph (3)(B) if the plan provides that the determination of the occurrence of such qualifying event will be made by the plan administrator. For purposes of subparagraph (D), any notification shall be made within 14 days (or, in the case of a group health plan which is a multiemployer plan, such longer period of time as may be provided in the terms of the plan) of the date on which the plan administrator is notified under subparagraph (B) or (C), whichever is applicable, and any such notification to an individual who is a qualified beneficiary as the spouse of the covered employee shall be treated as notification to all other qualified beneficiaries residing with such spouse at the time such notification is made.
+> &emsp;The requirements of subparagraph (B) shall be considered satisfied in the case of a multiemployer plan in connection with a qualifying event described in paragraph (3)(B) if the plan provides that the determination of the occurrence of such qualifying event will be made by the plan administrator. For purposes of subparagraph (D), any notification shall be made within 14 days (or, in the case of a group health plan which is a multiemployer plan,such longer period of time as may be provided in the terms of the plan) of the date on which the plan administrator is notified under subparagraph (B) or (C), whichever is applicable, and any such notification to an individual who is a qualified beneficiary as the spouse of the covered employee shall be treated as notification to all other qualified beneficiaries residing with such spouse at the time such notification is made.
 
 #### (7) Covered employee
 
@@ -352,6 +352,8 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) as the dependent child of the employee.
 
+> &emsp;&emsp;Such term shall also include a child who is born to or placed for adoption with the covered employee during the period of continuation coverage under this section.
+
 #### (B) Special rule for terminations and reduced employment
 
 &emsp;&emsp;In the case of a qualifying event described in subsection (f)(3)(B), the term “qualified beneficiary” includes the covered employee.
@@ -372,7 +374,7 @@ For purposes of this section—
 
 #### (2) Group health plan
 
-&emsp;The term “group health plan” has the meaning given such term by section 5000(b)(1).
+&emsp;The term “group health plan” has the meaning given such term by section 5000(b)(1). Such term shall not include any plan substantially all of the coverage under which is for qualified long-term care services (as defined in section 7702B(c)).
 
 #### (3) Plan administrator
 
@@ -388,23 +390,41 @@ For purposes of this section—
 
 > &emsp;For purposes of applying subparagraph (B), the qualified beneficiary shall be treated as if he had elected the most favorable coverage in light of the expenses he incurred since the failure first occurred.
 
-(Added Pub. L. 100–647, title III, §3011(a), Nov. 10, 1988, 102 Stat. 3616; amended Pub. L. 101–239, title VI, §§6202(b)(3)(B), 6701(a)–(c), title VII, §§7862(c)(2)(B), (3)(C), (4)(B), (5)(A), 7891(d)(1)(B), (2)(A), Dec. 19, 1989, 103 Stat. 2233, 2294, 2295, 2432, 2433, 2446; Pub. L. 101–508, title XI, §11702(f), Nov. 5, 1990, 104 Stat. 1388–515; Pub. L. 103–66, title XIII, §13422(a), Aug. 10, 1993, 107 Stat. 566.)
+(Added Pub. L. 100–647, title III, §3011(a), Nov. 10, 1988, 102 Stat. 3616; amended Pub. L. 101–239, title VI, §§6202(b)(3)(B), 6701(a)–(c), title VII, §§7862(c)(2)(B), (3)(C), (4)(B), (5)(A), 7891(d)(1)(B), (2)(A), Dec. 19, 1989, 103 Stat. 2233, 2294, 2295, 2432, 2433, 2446; Pub. L. 101–508, title XI, §11702(f), Nov. 5, 1990, 104 Stat. 1388–515; Pub. L. 103–66, title XIII, §13422(a), Aug. 10, 1993, 107 Stat. 566; Pub. L. 104–188, title I, §1704(g)(1)(A), (t)(21), Aug. 20, 1996, 110 Stat. 1880, 1888; Pub. L. 104–191, title III, §321(d)(1), title IV, §421(c), Aug. 21, 1996, 110 Stat. 2058, 2088.)
 
 #### References in Text
 
 The Public Health Service Act, referred to in subsec. (f)(1), does not contain a section 2162. The reference probably should be to section 1928 of the Social Security Act, which is classified to section 1396s of Title 42, The Public Health and Welfare, and which relates to pediatric vaccines.
 
-The Social Security Act, referred to in subsec. (f)(2)(B)(i)(IV), (V), (iv)(II), (v), (3)(D), (6)(C), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles II, XVI, and XVIII of the Social Security Act are classified generally to subchapters II (§401 et seq.), XVI (§1381 et seq.), and XVIII (§1395 et seq.), respectively, of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (f)(2)(B)(i)(IV), (V), (iv)(II), (v), (3)(D), (6)(C), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles II, XVI, and XVIII of the Social Security Act are classified generally to subchapters II (§401 et seq.), XVI (§1381 et seq.), and XVIII (§1395 et seq.), respectively, of chapter7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
-Section 3(16)(A) of the Employee Retirement Income Security Act of 1974, referred to in subsec. (g)(3), is classified to section 1002(16)(A) of Title 29, Labor.
+The Employee Retirement Income Security Act of 1974, referred to in subsecs. (f)(2)(B)(iv)(I) and (g)(3), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 832, as amended. Part 7 of subtitle B of title I of the Act is classified generally to part 7 (§1181 et seq.) of subtitle B of subchapter I of chapter 18 of Title 29, Labor. Section 3(16)(A) of the Act is classified to section 1002(16)(A) of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
+
+The Public Health Service Act, referred to in subsec. (f)(2)(B)(iv)(I), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended. Title XXVII of the Act is classified generally to subchapter XXV (§300gg et seq.) of chapter 6A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
 
 #### Amendments
+
+1996—Subsec. (f)(2)(B)(i). Pub. L. 104–191, §421(c)(1)(A), in concluding provisions, substituted “at any time during the first 60 days of continuation coverage under this section” for “at the time of a qualifying event described in paragraph (3)(B)”, struck out “with respect to such event” after “(II) to 18 months”, and inserted “(with respect to all qualified beneficiaries)” after “29 months”.
+
+Pub. L. 104–188, §1704(t)(21), made technical amendment to directory language of Pub. L. 101–239, §6701(a)(1). See 1989 Amendment note below.
+
+Subsec. (f)(2)(B)(i)(V). Pub. L. 104–188, §1704(g)(1)(A), substituted “Medicare entitlement followed by qualifying event” for “Qualifying event involving medicare entitlement” in heading and amended text generally. Prior to amendment, text read as follows: “In the case of an event described in paragraph (3)(D) (without regard to whether such event is a qualifying event), the period of coverage for qualified beneficiaries other than the covered employee for such event or any subsequent qualifying event shall not terminate before the close of the 36-month period beginning on the date the covered employee becomes entitled to benefits under title XVIII of the Social Security Act.”
+
+Subsec. (f)(2)(B)(iv)(I). Pub. L. 104–191, §421(c)(1)(B), inserted “(other than such an exclusion or limitation which does not apply to (or is satisfied by) such beneficiary by reason of chapter 100 of this title, part 7 of subtitle B of title I of the Employee Retirement Income Security Act of 1974, or title XXVII of the Public Health Service Act)” before “, or”.
+
+Subsec. (f)(2)(B)(v). Pub. L. 104–191, §421(c)(1)(C), substituted “at any time during the first 60 days of continuation coverage under this section” for “at the time of a qualifying event described in paragraph (3)(B)”.
+
+Subsec. (f)(6)(C). Pub. L. 104–191, §421(c)(2), substituted “at any time during the first 60 days of continuation coverage under this section” for “at the time of a qualifying event described in paragraph (3)(B)”.
+
+Subsec. (g)(1)(A). Pub. L. 104–191, §421(c)(3), inserted at end “Such term shall also include a child who is born to or placed for adoption with the covered employee during the period of continuation coverage under this section.”
+
+Subsec. (g)(2). Pub. L. 104–191, §321(d)(1), inserted at end “Such term shall not include any plan substantially all of the coverage under which is for qualified long-term care services (as defined in section 7702B(c)).”
 
 1993—Subsec. (f)(1). Pub. L. 103–66 inserted “the coverage of the costs of pediatric vaccines (as defined under section 2162 of the Public Health Service Act) is not reduced below the coverage provided by the plan as of May 1, 1993, and only if” after “only if”.
 
 1990—Subsec. (d)(1). Pub. L. 101–508 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “any failure of a group health plan to meet the requirements of subsection (f) if all employers maintaining such plan normally employed fewer than 20 employees on a typical business day during the preceding calendar year,”.
 
-1989—Subsec. (f)(2)(B)(i). Pub. L. 101–239, §6701(a)(1), inserted after and below subcl. (IV) “In the case of a qualified beneficiary who is determined, under title II or XVI of the Social Security Act, to have been disabled at the time of a qualifying event described in paragraph (3)(B), any reference in subclause (I) or (II) to 18 months with respect to such event is deemed a reference to 29 months, but only if the qualified beneficiary has provided notice of such determination under paragraph (6)(C) before the end of such 18 months.”
+1989—Subsec. (f)(2)(B)(i). Pub. L. 101–239, §6701(a)(1), as amended by Pub. L. 104–188, §1704(t)(21), inserted at end “In the case of a qualified beneficiary who is determined, under title II or XVI of the Social Security Act, to have been disabled at the time of a qualifying event described in paragraph (3)(B), any reference in subclause (I) or (II) to 18 months with respect to such event is deemed a reference to 29 months, but only if the qualified beneficiary has provided notice of such determination under paragraph (6)(C) before the end of such 18 months.”
 
 Subsec. (f)(2)(B)(i)(V). Pub. L. 101–239, §7862(c)(5)(A), added subcl. (V).
 
@@ -429,6 +449,14 @@ Subsec. (f)(7). Pub. L. 101–239, §7862(c)(2)(B), substituted “the performan
 Subsec. (f)(8). Pub. L. 101–239, §7891(d)(2)(A), added par. (8).
 
 Subsec. (g)(2). Pub. L. 101–239, §6202(b)(3)(B), substituted “section 5000(b)(1)” for “section 162(i)”.
+
+#### Effective Date of 1996 Amendments
+
+Amendment by section 321(d)(1) of Pub. L. 104–191 applicable to contracts issued after Dec. 31, 1996, see section 321(f) of Pub. L. 104–191, set out as an Effective Date note under section 7702B of this title.
+
+Section 421(d) of Pub. L. 104–191 provided that: “The amendments made by this section \[amending this section, sections 1162, 1166, and 1167 of Title 29, Labor, and sections 300bb–2, 300bb–6, and 300bb–8 of Title 42, The Public Health and Welfare\] shall become effective on January 1, 1997, regardless of whether the qualifying event occurred before, on, or after such date.”
+
+Section 1704(g)(2) of Pub. L. 104–188 provided that: “The amendments made by this subsection \[amending this section, section 1162 of Title 29, Labor, and section 300bb–2 of Title 42, The Public Health and Welfare\] shall apply to plan years beginning after December 31, 1989.”
 
 #### Effective Date of 1993 Amendment
 
@@ -460,7 +488,13 @@ Section 7891(d)(2)(C) of Pub. L. 101–239 provided that: “The amendments made
 
 Section applicable to taxable years beginning after Dec. 31, 1988, but not applicable to any plan for any plan year to which section 162(k) of this title (as in effect on the day before Nov. 10, 1988) did not apply by reason of section 10001(e)(2) of Pub. L. 99–272, see section 3011(d) of Pub. L. 100–647, set out as an Effective Date of 1988 Amendment note under section 162 of this title.
 
+#### Notification of Changes in Continuation Coverage
+
+Section 421(e) of Pub. L. 104–191 provided that: “Not later than November 1, 1996, each group health plan (covered under title XXII of the Public Health Service Act \[42 U.S.C. 300bb–1 et seq.\], part 6 of subtitle B of title I of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1161 et seq.\], and section 4980B(f) of the Internal Revenue Code of 1986) shall notify each qualified beneficiary who has elected continuation coverage under such title, part or section of the amendments made by this section \[amending this section, sections 1162, 1166, and 1167 of Title 29, Labor, and sections 300bb–2, 300bb–6, and 300bb–8 of Title 42, The Public Health and Welfare\].”
+
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 414, 9707 of this title; title 38 section 4317; title 42 sections 1396a, 1396e.
+This section is referred to in sections 106, 414, 9707, 9805 of this title; title 38 section 4317; title 42 sections 1396a, 1396e.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

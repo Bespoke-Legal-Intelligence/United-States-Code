@@ -12,7 +12,7 @@
 
 &emsp;&emsp;&emsp;(ii) effectively implementing the program elements required under section 6365 of this title;
 
-&emsp;&emsp;(B) demonstrate that the area to be served by such program has a high percentage or a large number of children and families who are in need of such services as indicated by high levels of poverty, illiteracy, unemployment, limited-English proficiency, or other need-related indicators, including a high percentage of children to be served by theprogram who reside in a school attendance area eligible for participation in programs under part A of this subchapter;
+&emsp;&emsp;(B) demonstrate that the area to be served by such program has a high percentage or a large number of children and families who are in need of such services as indicated by high levels of poverty, illiteracy, unemployment, limited-English proficiency, or other need-related indicators, including a high percentage of children to be served by the program who reside in a school attendance area eligible for participation in programs under part A of this subchapter;
 
 &emsp;&emsp;(C) provide services for at least a three-year age range, which may begin at birth;
 

@@ -17,7 +17,7 @@
 | (b) | Application requirements for grants; approval by Secretaries. |
 | (c) | Limitation on the amount of grant. |
 | (d) | Appropriation percentage. |
-| [1705\.](Subchapter%20001%20%28I%29%20-%20Youth%20Conservation%20Corps/%C2%A7%2001705%20-%20Reports%20to%20President%20and%20Congress.md) | Reports to President and Congress. |
+| [1705\.](Subchapter%20001%20%28I%29%20-%20Youth%20Conservation%20Corps/%C2%A7%2001705%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93333%2C%20div.%20I%2C%20title%20VIII%2C%20%C2%A7814%28d%29%281%29%28N%29%2C%20Nov.%2012%2C%201996%2C%20110%20Stat.%204196.md) | Repealed. |
 | [1706\.](Subchapter%20001%20%28I%29%20-%20Youth%20Conservation%20Corps/%C2%A7%2001706%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

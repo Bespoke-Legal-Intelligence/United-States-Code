@@ -2,11 +2,11 @@
 
 #### (a) Combination of reimbursement of installation costs and reduction in contributions; single project limitation
 
-The Secretary of the Army, acting through the Chief of Engineers, may, when he determines it to be in the public interest, enter into agreements providing for reimbursement to States or political subdivisions thereof for work to be performed by such non-Federal public bodies at water resources development projects authorized for construction under the Secretary of the Army and the supervision of the Chief of Engineers. Such agreements may provide for reimbursement of installation costs incurred by such entities or an equivalent reduction in the contributions they would otherwise be required to make, or in appropriate cases, for a combination thereof. The amount of Federal reimbursement, including reductions in contributions, for a single project shall not exceed $3,000,000 or 1 percent of the total project cost, whichever is greater; except that the amount of actual Federal reimbursement, including reductions in contributions, for such project may not exceed $5,000,000 in any fiscal year..<sup>1</sup>
+The Secretary of the Army, acting through the Chief of Engineers, may, when he determines it to be in the public interest, enter into agreements providing for reimbursement to States or political subdivisions thereof for work to be performed by such non-Federal public bodies at water resources development projects authorized for construction under the Secretary of the Army and the supervision of the Chief of Engineers. Such agreements may provide for reimbursement of installation costs incurred by such entities or an equivalent reduction in the contributions they would otherwise be required to make, or in appropriate cases, for a combination thereof. The amount of Federal reimbursement, including reductions in contributions, for a single project shall not exceed $5,000,000 or 1 percent of the total project cost, whichever is greater; except that the amount of actual Federal reimbursement, including reductions in contributions, for such project may not exceed $5,000,000 in any fiscal year.
 
 #### (b) Agreement provisions; termination of agreement for failure to commence work
 
-Agreements entered into pursuant to this section shall (1) fully describe the work to be accomplished by the non-Federal public body, and be accompanied by an engineering plan if necessary therefor; (2) specify the manner in which such work shall be carried out; (3) provide for necessary review of design and plans, and inspection of the work by the Chief of Engineers or his designee; (4) state the basis on which the amount of reimbursement shall be determined; (5) state that such reimbursement shall be dependent upon the appropriation of funds applicable thereto or funds available therefor, and shall not take precedence over other pending projects of higher priority for improvements; and (6) specify that reimbursement or credit for non-Federal installation expenditures shall apply only to work undertaken on Federal projects after project authorization and execution of the agreement, and does not apply retroactively to past non-Federal work. Each such agreement shall expire three years after the date on which it is executed if the work to be undertaken by the non-Federal public body has not commenced before the expiration of that period. The time allowed for completion of the work will be determined by the Secretary of the Army, acting through the Chief of Engineers, and stated in the agreement.
+Agreements entered into pursuant to this section shall (1) fully describe the work to be accomplished by the non-Federal public body, and be accompanied by an engineering plan if necessary therefor; (2) specify the manner in which such work shall be carried out; (3) provide for necessary review of design and plans, and inspection of the work by the Chief of Engineers or his designee; (4) state the basis on which the amount of reimbursement shall be determined; (5) state that such reimbursement shall be dependent upon the appropriation of funds applicable thereto or funds available therefor, and shall not take precedence over other pending projects of higher priority for improvements; and (6) specify that reimbursement or credit for non-Federal installation expenditures shall apply only to work undertaken on Federal projects after project authorization and execution of the agreement, and does not apply retroactively to past non-Federal work. Each such agreement shall expire three years after the date on which it is executed if the work to be undertaken by the non-Federal public body has not commenced before the expiration of that period. The timeallowed for completion of the work will be determined by the Secretary of the Army, acting through the Chief of Engineers, and stated in the agreement.
 
 #### (c) Certification of performance
 
@@ -24,7 +24,7 @@ This section shall not be construed (1) as authorizing the United States to assu
 
 The Secretary of the Army is authorized to allot from any appropriations hereafter made for civil works, not to exceed $10,000,000 for any one fiscal year to carry out the provisions of this section. This limitation does not include specific project authorizations providing for reimbursement.
 
-(Pub. L. 90–483, title II, §215, Aug. 13, 1968, 82 Stat. 747; Pub. L. 99–662, title IX, §913, Nov. 17, 1986, 100 Stat. 4190; Pub. L. 100–676, §12, Nov. 17, 1988, 102 Stat. 4025.)
+(Pub. L. 90–483, title II, §215, Aug. 13, 1968, 82 Stat. 747; Pub. L. 99–662, title IX, §913, Nov. 17, 1986, 100 Stat. 4190; Pub. L. 100–676, §12, Nov. 17, 1988, 102 Stat. 4025; Pub. L. 104–303, title II, §224(a), Oct. 12, 1996, 110 Stat. 3697.)
 
 #### Codification
 
@@ -32,13 +32,13 @@ Section was not enacted as part of the Water Resources Planning Act which compri
 
 #### Amendments
 
-1988—Subsec. (a). Pub. L. 100–676 inserted before period at end “or 1 percent of the total project cost, whichever is greater; except that the amount of actual Federal reimbursement, including reductions in contributions, for such project may not exceed $5,000,000 in any fiscal year”.
+1996—Subsec. (a). Pub. L. 104–303, in last sentence, substituted “$5,000,000” for “$3,000,000” before “or 1 percent” and “any fiscal year.” for “any fiscal year..”
+
+1988—Subsec. (a). Pub. L. 100–676 inserted before period at end “or 1 percent of the total project cost, whichever is greater; except that the amount of actual Federal reimbursement, including reductions in contributions, for such project may not exceed $5,000,000 in any fiscal year.”
 
 1986—Subsec. (a). Pub. L. 99–662 substituted “$3,000,000” for “$1,000,000”.
 
 #### Section Referred to in Other Sections
 
 This section is referred to in section 1962d–5b of this title; title 33 section 2214.
-
-<i><sup>1</sup></i><i> So in original.</i>
 

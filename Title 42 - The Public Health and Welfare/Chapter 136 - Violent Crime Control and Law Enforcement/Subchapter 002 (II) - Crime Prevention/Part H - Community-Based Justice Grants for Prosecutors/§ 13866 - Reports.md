@@ -6,7 +6,7 @@ State and local prosecutors that receive funds under this part shall submit to t
 
 #### (b) Report to Congress
 
-The Attorney General shall submit to the Congress a report by October 1 of each year in which grants are made available under this part which shall contain a detailed statement regarding grant awards, activities of grant recipients, a compilation of statistical information submitted by applicants, and an evaluation of programs established under this part.
+The Attorney General shall submit to the Congress a report by October 1 of each year in which grants are made available under this part which shall contain a detailed statement regardinggrant awards, activities of grant recipients, a compilation of statistical information submitted by applicants, and an evaluation of programs established under this part.
 
 (Pub. L. 103–322, title III, §31706, Sept. 13, 1994, 108 Stat. 1892.)
 

@@ -18,7 +18,7 @@
 | [7219\.](%C2%A7%2007219%20-%20Leases%20of%20waterfront%20property%20from%20States%20or%20municipalities.md) | Leases of waterfront property from States or municipalities. |
 | [7220\.](%C2%A7%2007220%20-%20Gifts%20for%20welfare%20of%20enlisted%20members.md) | Gifts for welfare of enlisted members. |
 | [7221\.](%C2%A7%2007221%20-%20Acceptance%20and%20care%20of%20gifts%20to%20vessels.md) | Acceptance and care of gifts to vessels. |
-| [7222\.](%C2%A7%2007222%20-%20Office%20of%20Naval%20Records%20and%20History%20gift%20fund.md) | Office of Naval Records and History gift fund. |
+| [7222\.](%C2%A7%2007222%20-%20Naval%20Historical%20Center%20Fund.md) | Naval Historical Center Fund. |
 | [7223\.](%C2%A7%2007223%20-%20Acquisition%20of%20land%20for%20radio%20stations%20and%20for%20other%20purposes.md) | Acquisition of land for radio stations and for other purposes. |
 | [7224\.](%C2%A7%2007224%20-%20Transportation%20on%20naval%20vessels%20during%20wartime.md) | Transportation on naval vessels during wartime. |
 | [7225\.](%C2%A7%2007225%20-%20Naval%20Reserve%20flag.md) | Naval Reserve flag. |
@@ -32,6 +32,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1996—Pub. L. 104–201, div. A, title X, §1073(b)(2)(B), Sept. 23, 1996, 110 Stat. 2657, substituted “Naval Historical Center Fund” for “Office of Naval Records and History gift fund” in item 7222.
 
 1994—Pub. L. 103–355, title III, §3025(b), Oct. 13, 1994, 108 Stat. 3334, struck out item 7203 “Scientific investigation and research”.
 
@@ -83,7 +85,7 @@
 - [&sect; 07219 - Leases of waterfront property from States or municipalities](%C2%A7%2007219%20-%20Leases%20of%20waterfront%20property%20from%20States%20or%20municipalities.md)
 - [&sect; 07220 - Gifts for welfare of enlisted members](%C2%A7%2007220%20-%20Gifts%20for%20welfare%20of%20enlisted%20members.md)
 - [&sect; 07221 - Acceptance and care of gifts to vessels](%C2%A7%2007221%20-%20Acceptance%20and%20care%20of%20gifts%20to%20vessels.md)
-- [&sect; 07222 - Office of Naval Records and History gift fund](%C2%A7%2007222%20-%20Office%20of%20Naval%20Records%20and%20History%20gift%20fund.md)
+- [&sect; 07222 - Naval Historical Center Fund](%C2%A7%2007222%20-%20Naval%20Historical%20Center%20Fund.md)
 - [&sect; 07223 - Acquisition of land for radio stations and for other purposes](%C2%A7%2007223%20-%20Acquisition%20of%20land%20for%20radio%20stations%20and%20for%20other%20purposes.md)
 - [&sect; 07224 - Transportation on naval vessels during wartime](%C2%A7%2007224%20-%20Transportation%20on%20naval%20vessels%20during%20wartime.md)
 - [&sect; 07225 - Naval Reserve flag](%C2%A7%2007225%20-%20Naval%20Reserve%20flag.md)

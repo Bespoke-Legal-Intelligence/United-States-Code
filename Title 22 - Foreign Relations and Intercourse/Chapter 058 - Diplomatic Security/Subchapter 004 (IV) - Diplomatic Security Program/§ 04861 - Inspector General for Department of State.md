@@ -6,7 +6,7 @@ The Congress directs the Secretary of State to proceed immediately to establish 
 
 #### (b) Duties and responsibilities
 
-The Inspector General of the Department of State (as established by the amendment madeby section 150(a) of the Foreign Relations Authorization Act, Fiscal Years 1986 and 1987) is authorized to perform all duties and responsibilities, and to exercise the authorities, stated in section 3929 of this title and in the Inspector General Act of 1978.
+The Inspector General of the Department of State (as established by the amendment made by section 150(a) of the Foreign Relations Authorization Act, Fiscal Years 1986 and 1987) is authorized to perform all duties and responsibilities, and to exercise the authorities, stated in section 3929 of this title and in the Inspector General Act of 1978.
 
 #### (c) Earmark
 

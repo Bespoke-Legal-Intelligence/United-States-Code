@@ -4,7 +4,7 @@ For purposes of this subchapter—
 
 &emsp;(1) the term “Secretary” means the Secretary of Energy; and
 
-&emsp;(2) the term “renewable energy resource” means any energy resource which has recently originated in the sun, including direct and indirect solar radiation and intermediate solar energy forms such as wind, ocean thermal gradients, ocean currents and waves, hydropower, photovoltaic energy, products of photosynthetic processes, organic wastes, and others.
+&emsp;(2) the term “renewable energy resource” means any energy resource which has recently originated in the sun, including direct and indirect solar radiation and intermediate solar energy forms such as wind, ocean thermal gradients, ocean currents and waves, hydropower,photovoltaic energy, products of photosynthetic processes, organic wastes, and others.
 
 (Pub. L. 96–294, title IV, §403, June 30, 1980, 94 Stat. 716.)
 

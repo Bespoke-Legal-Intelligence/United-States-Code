@@ -16,7 +16,7 @@ In determining an officer's years of active service for the purpose of computing
 
 #### (d) Previously received pay excluded from determination of years of creditable service; limitation on total payment
 
-(1) A period for which an officer has previously received separation pay, severance pay, or readjustment pay under any other provision of law based on service in a uniformed service may not be included in determining the years of creditable service that may be counted in computing the separation pay of the officer under this section.
+(1) A period for which an officer has previously received separation pay, severance pay, or readjustment pay under any other provision of law based on service in a uniformed service may notbe included in determining the years of creditable service that may be counted in computing the separation pay of the officer under this section.
 
 (2) The total amount that an officer may receive in separation pay under this section and separation pay, severance pay, and readjustment pay under any other provision of law based on service in a uniformed service may not exceed $30,000.
 

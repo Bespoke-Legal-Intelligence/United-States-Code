@@ -2,7 +2,7 @@
 
 (a)
 
-General Authority.—Notwithstanding section 1341(a)(1)(B) of title 31, the Administrator of the Federal Aviation Administration may make a contract of not more than 5 years for the following types of services and items of supply related to those services for which amounts otherwise would be available for obligation only in the fiscal year for which appropriated:
+General Authority.—Notwithstanding section 1341(a)(1)(B) of title 31, the Administrator of the Federal Aviation Administrationmay make a contract of not more than 5 years for the following types of services and items of supply related to those services for which amounts otherwise would be available for obligation only in the fiscal year for which appropriated:
 
 &emsp;(1) operation, maintenance, and support of facilities and installations.
 
@@ -48,7 +48,9 @@ Ending Contracts.—A contract made under this section shall be ended if amounts
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

@@ -42,7 +42,7 @@ This section, referred to in subsecs. (a), (c), and (d), was in the original “
 
 The National Environmental Policy Act, referred to in subsec. (d), probably means the National Environmental Policy Act of 1969, Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
-The Forest and Rangelands Renewable Resources Planning Act, referred to in subsec. (d), probably meansthe Forest and Rangeland Renewable Resources Planning Act of 1974, Pub. L. 93–378, Aug. 17, 1974, 88 Stat. 476, as amended, which is classified generally to subchapter I (§1600 et seq.) of chapter 36 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1600 of this title and Tables.
+The Forest and Rangelands Renewable Resources Planning Act, referred to in subsec. (d), probably means the Forest and Rangeland Renewable Resources Planning Act of 1974, Pub. L. 93–378, Aug. 17, 1974, 88 Stat. 476, as amended, which is classified generally to subchapter I (§1600 et seq.) of chapter 36 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1600 of this title and Tables.
 
 The National Forest Management Act, referred to in subsec. (d), probably means the National Forest Management Act of 1976, Pub. L. 94–588, Oct. 22, 1976, 90 Stat. 2949, as amended. For complete classification of this Act to the Code, see Short Title of 1976 Amendment note set out under section 1600 of this title and Tables.
 
@@ -59,4 +59,8 @@ Section 2 of Pub. L. 99–522 provided that: “The purposes of this Act \[see S
 &emsp;“(b) provide for ski area permits which more closely reflect the acreage and other physical requirements of modern ski area development; and
 
 &emsp;“(c) provide a permit system which will be more commensurate with the long-term construction, financing, and operation needs of ski areas on national forest lands.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 497c of this title.
 

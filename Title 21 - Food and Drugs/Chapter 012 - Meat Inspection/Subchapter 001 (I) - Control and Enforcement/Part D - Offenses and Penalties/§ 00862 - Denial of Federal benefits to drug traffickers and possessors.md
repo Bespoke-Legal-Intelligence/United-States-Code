@@ -70,7 +70,7 @@ Nothing in this section shall be construed to affect the obligation of the Unite
 
 &emsp;(C) detailing the means by which Federal and State agencies, courts, and law enforcement agencies will exchange and share the data and information necessary to implement and enforce the withholding of Federal benefits; and
 
-&emsp;(D) recommending any modifications to improve the administration of this section or otherwise achieve the goal of discouraging the trafficking and possession of controlled substances.
+&emsp;(D) recommending any modifications to improve the administration of this section orotherwise achieve the goal of discouraging the trafficking and possession of controlled substances.
 
 (2) No later than September 1, 1989, the Congress shall consider the report of the President and enact such changes as it deems appropriate to further the goals of this section.
 

@@ -20,7 +20,7 @@
 
 #### References in Text
 
-The Central Intelligency Agency Information Act, referred to in subsec. (b), is Pub. L. 98–477, Oct. 15, 1984, 98 Stat. 2209, which is classified principally to subchapter V (§431 et seq.) of chapter 15 of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title of 1984 Amendment note set out under section 401 of Title 50 and Tables.
+The Central Intelligence Agency Information Act, referred to in subsec. (b), is Pub. L. 98–477, Oct. 15, 1984, 98 Stat. 2209, which is classified principally to subchapter V (§431 et seq.) of chapter 15 of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title of 1984 Amendment note set out under section 401 of Title 50 and Tables.
 
 #### Prior Provisions
 

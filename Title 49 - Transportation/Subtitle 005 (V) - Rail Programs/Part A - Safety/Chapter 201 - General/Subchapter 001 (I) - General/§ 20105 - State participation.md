@@ -52,7 +52,9 @@ Monitoring.—The Secretary may monitor State investigative and surveillance pra
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -106,7 +108,7 @@ In subsection (a), the first sentence is added for clarity.
 
 In subsection (b)(1)(A)(iii), the words “as necessary for the enforcement by him of each rule, regulation, order, and standard referred to in paragraph (2) of this subsection, as interpreted by the Secretary” are omitted as surplus.
 
-In subsection (b)(1)(B)(i) and (ii), the words “railroad carrier” are substituted for “railroad” because of the definition of “railroad carrier” in section 20102 of the revised title.
+In subsection (b)(1)(B)(i) and (ii), the words “railroad carrier” are substituted for “railroad” because of thedefinition of “railroad carrier” in section 20102 of the revised title.
 
 In subsection (b)(1)(B)(iii), the words “a detail of” are omitted as surplus.
 

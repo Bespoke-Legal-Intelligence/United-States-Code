@@ -1,6 +1,6 @@
 ### §6326. Absence in connection with funerals of immediate relatives in the Armed Forces
 
-(a) An employee of an executive agency or an individual employed by the government of the District of Columbia is entitled to not more than three days of leave without loss of, or reduction in, pay, leave to which he is otherwise entitled, credit for time or service, or performance or efficiency rating, to make arrangements for, or attend the funeral of, or memorial service for, an immediate relative who died as a result of wounds, disease, or injury incurred whileserving as a member of the Armed Forces in a combat zone (as determined by the President in accordance with section 112 of the Internal Revenue Code).
+(a) An employee of an executive agency or an individual employed by the government of the District of Columbia is entitled to not more than three days of leave without loss of, or reduction in, pay, leave to which he is otherwise entitled, credit for time or service, or performance or efficiency rating, to make arrangements for, or attend the funeral of, or memorial service for, an immediate relative who died as a result of wounds, disease, or injury incurred while serving as a member of the Armed Forces in a combat zone (as determined by the President in accordance with section 112 of the Internal Revenue Code).
 
 (b) The Office of Personnel Management is authorized to issue regulations for the administration of this section.
 
@@ -14,7 +14,7 @@ Section 112 of the Internal Revenue Code, referred to in subsec. (a), is classif
 
 #### Amendments
 
-<b>1978</b>—Subsec. (b). Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission”.
+1978—Subsec. (b). Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission”.
 
 #### Effective Date of 1978 Amendment
 

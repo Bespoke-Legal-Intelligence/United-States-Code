@@ -22,7 +22,7 @@ A wool product shall be misbranded—
 
 #### (b) Additional information
 
-In addition to information required in this section, the stamp, tag, label, or other means ofidentification, or substitute therefor under section 68c of this title, may contain other information not violating the provisions of this subchapter or the rules and regulations of the Commission.
+In addition to information required in this section, the stamp, tag, label, or other means of identification, or substitute therefor under section 68c of this title, may contain other information not violating the provisions of this subchapter or the rules and regulations of the Commission.
 
 #### (c) Substitute identification
 

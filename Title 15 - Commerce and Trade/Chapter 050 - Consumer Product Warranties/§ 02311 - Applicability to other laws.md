@@ -4,7 +4,7 @@
 
 (1) Nothing contained in this chapter shall be construed to repeal, invalidate, or supersede the Federal Trade Commission Act \[15 U.S.C. 41 et seq.\] or any statute defined therein as an Antitrust Act.
 
-(2) Nothing in this chapter shall be construed to repeal, invalidate, or supersede the Federal Seed Act \[7 U.S.C. 1551 et seq.\] and nothing in this chapter shall apply to seed for planting.
+(2) Nothing in this chapter shall be construed to repeal, invalidate, or supersede the FederalSeed Act \[7 U.S.C. 1551 et seq.\] and nothing in this chapter shall apply to seed for planting.
 
 #### (b) Rights, remedies, and liabilities
 
@@ -24,7 +24,7 @@
 
 > shall not be applicable to written warranties complying with such sections (or rules thereunder).
 
-(2) If, upon application of an appropriate State agency, the Commission determines (pursuantto rules issued in accordance with section 2309 of this title) that any requirement of such State covering any transaction to which this chapter applies (A) affords protection to consumers greater than the requirements of this chapter and (B) does not unduly burden interstate commerce, then such State requirement shall be applicable (notwithstanding the provisions of paragraph (1) of this subsection) to the extent specified in such determination for so long as the State administers and enforces effectively any such greater requirement.
+(2) If, upon application of an appropriate State agency, the Commission determines (pursuant to rules issued in accordance with section 2309 of this title) that any requirement of such State covering any transaction to which this chapter applies (A) affords protection to consumers greater than the requirements of this chapter and (B) does not unduly burden interstate commerce, then such State requirement shall be applicable (notwithstanding the provisions of paragraph (1) of this subsection) to the extent specified in such determination for so long as the State administers and enforces effectively any such greater requirement.
 
 #### (d) Other Federal warranty laws
 

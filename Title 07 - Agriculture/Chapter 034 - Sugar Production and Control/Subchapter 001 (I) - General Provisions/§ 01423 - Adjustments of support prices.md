@@ -10,9 +10,9 @@ The Secretary may make appropriate adjustments in the support price for cotton f
 
 #### (c) Limitation on adjustments for wheat and feed grains
 
-Notwithstanding any other provision of this section, for each of the 1990 through 1995 crops of wheat and feed grains, no adjustment in the loan rate applicable to a particular region, State, or county for the purpose of reflecting transportation differentials may increase or decrease the regional, State, or county loan rate from the level established for the previous year by morethan the percentage change in the national average loan rate plus or minus 3 percent.
+Notwithstanding any other provision of this section, for each of the 1990 through 1995 crops of wheat and feed grains, no adjustment in the loan rate applicable to a particular region, State, or county for the purpose of reflecting transportation differentials may increase or decrease the regional, State, or county loan rate from the level established for the previous year by more than the percentage change in the national average loan rate plus or minus 3 percent.
 
-(Oct. 31, 1949, ch. 792, title IV, §403, 63 Stat. 1054; Aug. 28, 1958, Pub. L. 85–835, title I, §§108, 111, 72 Stat. 993; Nov. 3, 1965, Pub. L. 89–321, title VIII, §802, 79 Stat. 1213; Dec. 22, 1981, Pub. L. 97–98, title V, §507, 95 Stat. 1241; Dec. 22, 1987, Pub. L. 100–203, title I, §1105, 101 Stat. 1330–5; Nov. 28, 1990, Pub. L. 101–624, title XI, §1128, title XX, §2011, 104 Stat. 3508, 3932.)
+(Oct. 31, 1949, ch. 792, title IV, §403, 63 Stat. 1054; Aug. 28, 1958, Pub. L. 85–835, title I, §§108, 111, 72 Stat. 993; Nov. 3, 1965, Pub. L. 89–321, title VIII, §802, 79 Stat. 1213; Dec. 22, 1981, Pub. L. 97–98, title V, §507, 95 Stat. 1241; Dec. 22, 1987, Pub. L.100–203, title I, §1105, 101 Stat. 1330–5; Nov. 28, 1990, Pub. L. 101–624, title XI, §1128, title XX, §2011, 104 Stat. 3508, 3932.)
 
 #### References in Text
 
@@ -44,7 +44,11 @@ Amendment by Pub. L. 97–98 effective Dec. 22, 1981, see section 1801 of Pub. L
 
 Functions of Corporations of Department of Agriculture, boards of directors and officers of such corporations; Advisory Board of Commodity Credit Corporation; and Farm Credit Administration or any agency, officer, or entity of, under, or subject to supervision of said Administration excepted from functions of officers, agencies, and employees transferred to Secretary of Agriculture by 1953 Reorg. Plan No. 2, §1, effective June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
 
+#### Inapplicability of Section
+
+Section inapplicable to 1996 through 2002 crops of loan commodities, peanuts, and sugar and inapplicable to milk during period beginning Apr. 4, 1996, and ending Dec. 31, 2002, see section 7301(b)(1)(J) of this title.
+
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1428, 1444, 1445, 1445c–3 of this title.
+This section is referred to in sections 1428, 1444, 1445 of this title.
 

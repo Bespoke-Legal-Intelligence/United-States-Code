@@ -9,7 +9,7 @@
 | [541\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000541%20-%20Board%20of%20Engineers%20for%20Rivers%20and%20Harbors%3B%20establishment%3B%20duties%20and%20powers%20generally.md) | Board of Engineers for Rivers and Harbors; establishment; duties and powers generally. |
 | [542\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000542%20-%20Review%20by%20Board%20of%20Engineers%20of%20reports%20on%20examinations%20and%20surveys%20and%20special%20reports.md) | Review by Board of Engineers of reports on examinations and surveys and special reports. |
 | [543\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000543%20-%20Employment%20of%20civil%20engineers%20on%20western%20and%20northwestern%20rivers.md) | Employment of civil engineers on western and northwestern rivers. |
-| 544, 544a. Repealed. |  |
+| 544, 544a. | Repealed. |
 | [544b.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000544b%20-%20Employment%20of%20physicians%20to%20examine%20employees%3B%20fee%20or%20employment%20basis%3B%20validation%20of%20prior%20agreements.md) | Employment of physicians to examine employees; fee or employment basis; validation of prior agreements. |
 | [544c.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000544c%20-%20Minority%20group%20participation%20in%20construction%20of%20the%20Tennessee-Tombigbee%20Waterway%20project%3B%20annual%20report%20to%20Congress.md) | Minority group participation in construction of the Tennessee-Tombigbee Waterway project; annual report to Congress. |
 | [545\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000545%20-%20Preliminary%20examinations%20and%20reports%3B%20surveys%3B%20contents%20of%20report%20to%20Congress%20generally.md) | Preliminary examinations and reports; surveys; contents of report to Congress generally. |
@@ -18,7 +18,7 @@
 | [546a.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000546a%20-%20Information%20as%20to%20configuration%20of%20shore%20line.md) | Information as to configuration of shore line. |
 | [547\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000547%20-%20Reports%20as%20to%20local%20benefits%20of%20improvement%20and%20recommendations%20as%20to%20local%20cooperation.md) | Reports as to local benefits of improvement and recommendations as to local cooperation. |
 | [547a.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000547a%20-%20Inclusion%20of%20regional%20economic%20development%20benefits%20in%20economic%20analysis%20for%20purposes%20of%20computing%20economic%20justification%20of%20project.md) | Inclusion of regional economic development benefits in economic analysis for purposes of computing economic justification of project. |
-| 548, 549. Omitted or Repealed. |  |
+| 548, 549. | Omitted or Repealed. |
 | [550\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000550%20-%20Report%20on%20water%20terminal%20and%20transfer%20facilities.md) | Report on water terminal and transfer facilities. |
 | [551\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000551%20-%20Policy%20of%20Government%20as%20to%20terminal%20facilities%20for%20new%20projects.md) | Policy of Government as to terminal facilities for new projects. |
 | [552\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000552%20-%20Repealed.%20May%2029%2C%201928%2C%20ch.%20901%2C%20%C2%A71%2828%29%2C%2045%20Stat.%20988.md) | Repealed. |
@@ -47,7 +47,7 @@
 | [561a.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000561a%20-%20Contributions%20from%20local%20interests%3B%20reduction%20to%20meet%20lowered%20cost.md) | Contributions from local interests; reduction to meet lowered cost. |
 | [562\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000562%20-%20Channel%20depths%20and%20dimensions%20defined.md) | Channel depths and dimensions defined. |
 | [562a.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000562a%20-%20Project%20depths%20for%20national%20defense%20purposes%3B%20waterways%20for%20general%20commerce.md) | Project depths for national defense purposes; waterways for general commerce. |
-| 563, 564. Omitted or Repealed. |  |
+| 563, 564. | Omitted or Repealed. |
 | [565\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000565%20-%20River%20and%20harbor%20improvement%20by%20private%20or%20municipal%20enterprise.md) | River and harbor improvement by private or municipal enterprise. |
 | [566\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000566%20-%20Improvement%20by%20or%20under%20authority%20of%20State%20of%20New%20Jersey.md) | Improvement by or under authority of State of New Jersey. |
 | [567\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000567%20-%20Navigation%20and%20flood%20control%20improvements%20by%20Minnesota%2C%20North%20Dakota%2C%20and%20South%20Dakota.md) | Navigation and flood control improvements by Minnesota, North Dakota, and South Dakota. |
@@ -68,10 +68,11 @@
 | [570\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000570%20-%20Default%20in%20contract%3B%20disposition%20of%20amounts%20collected.md) | Default in contract; disposition of amounts collected. |
 | [571\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000571%20-%20Crediting%20reimbursements%20for%20lost%2C%20stolen%2C%20or%20damaged%20property.md) | Crediting reimbursements for lost, stolen, or damaged property. |
 | [572\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000572%20-%20Collection%20and%20removal%20of%20drift%20in%20Baltimore%20Harbor.md) | Collection and removal of drift in Baltimore Harbor. |
-| 573, 574. Repealed or Omitted. |  |
+| 573, 574. | Repealed or Omitted. |
 | [575\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000575%20-%20Availability%20of%20appropriations%20for%20expenses%20incident%20to%20operation%20of%20power%20boats%20or%20vessels%3B%20expenses%20defined%3B%20certification%20of%E2%80%A6.md) | Availability of appropriations for expenses incident to operation of power boats or vessels; expenses defined; certification of expenditures. |
 | [576\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000576%20-%20Revolving%20fund%3B%20establishment%3B%20availability%3B%20reimbursement%3B%20transfer%20of%20funds%3B%20limitation.md) | Revolving fund; establishment; availability; reimbursement; transfer of funds; limitation. |
 | [576a.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000576a%20-%20Purchase%20of%20passenger%20motor%20vehicles%20by%20Corps%20of%20Engineers.md) | Purchase of passenger motor vehicles by Corps of Engineers. |
+| [576b.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000576b%20-%20Lease%20authority.md) | Lease authority. |
 | [577\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000577%20-%20Small%20river%20and%20harbor%20improvement%20projects.md) | Small river and harbor improvement projects. |
 | (a) | Allotment from appropriations for construction. |
 | (b) | Limitation on allotment. |
@@ -103,7 +104,7 @@
 | [582\.](Subchapter%20002%20%28II%29%20-%20Pay%20and%20Allowances%3B%20Traveling%20Expenses%20and%20Subsistence/%C2%A7%2000582%20-%20Repealed.%20Pub.%20L.%2089%E2%80%93554%2C%20%C2%A78%28a%29%2C%20Sept.%206%2C%201966%2C%2080%20Stat.%20644.md) | Repealed. |
 | [583\.](Subchapter%20002%20%28II%29%20-%20Pay%20and%20Allowances%3B%20Traveling%20Expenses%20and%20Subsistence/%C2%A7%2000583%20-%20Payment%20of%20allowances%2C%20etc.%2C%20incident%20to%20change%20of%20station%20of%20Engineer%20officers%20from%20appropriation%20for%20improvements.md) | Payment of allowances, etc., incident to change of station of Engineer officers from appropriation for improvements. |
 | [583a.](Subchapter%20002%20%28II%29%20-%20Pay%20and%20Allowances%3B%20Traveling%20Expenses%20and%20Subsistence/%C2%A7%2000583a%20-%20Payment%20of%20pay%20and%20allowances%20of%20officers%20of%20Corps%20of%20Engineers%20from%20appropriation%20for%20improvements.md) | Payment of pay and allowances of officers of Corps of Engineers from appropriation for improvements. |
-| 584, 584a. Repealed. |  |
+| 584, 584a. | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -150,7 +151,10 @@
 |  |  |
 | :--- | ---: |
 | [621\.](Subchapter%20005%20%28V%29%20-%20Prosecution%20of%20Work%20Generally/%C2%A7%2000621%20-%20By%20what%20methods%20river%20and%20harbor%20work%20may%20be%20authorized%20to%20be%20prosecuted.md) | By what methods river and harbor work may be authorized to be prosecuted. |
-| [622\.](Subchapter%20005%20%28V%29%20-%20Prosecution%20of%20Work%20Generally/%C2%A7%2000622%20-%20Contracts%2C%20etc.%2C%20for%20implementation%20of%20projects%20for%20improvements%20and%20for%20dredging%20and%20related%20work%20by%20private%20industry%3B%20performance%20of%E2%80%A6.md) | Contracts, etc., for implementation of projects for improvements and for dredging and related work by private industry; performance of work by federally owned fleet and transition to use of private industry; requirements, standards, and study relating to transition and accompanying reduction of federally owned fleet. |
+| [622\.](Subchapter%20005%20%28V%29%20-%20Prosecution%20of%20Work%20Generally/%C2%A7%2000622%20-%20Contracts%2C%20etc.%2C%20with%20private%20industry%20for%20implementation%20of%20projects%20for%20improvements%20and%20dredging%3B%20reduction%20of%20federally%20owned%20fleet.md) | Contracts, etc., with private industry for implementation of projects for improvements and dredging; reduction of federally owned fleet. |
+| (a) | Contracts for dredging and related work. |
+| (b) | Reduction of federally owned fleet. |
+| (c) | Program to increase use of private hopper dredges. |
 | [623\.](Subchapter%20005%20%28V%29%20-%20Prosecution%20of%20Work%20Generally/%C2%A7%2000623%20-%20Repealed.%20Oct.%2031%2C%201951%2C%20ch.%20654%2C%20%C2%A71%2857%29%2C%2065%20Stat.%20703.md) | Repealed. |
 | [624\.](Subchapter%20005%20%28V%29%20-%20Prosecution%20of%20Work%20Generally/%C2%A7%2000624%20-%20Limitation%20on%20improvement%20work%20by%20private%20contract.md) | Limitation on improvement work by private contract. |
 | (a) | Determinations respecting comparison of private contract price with estimation of cost of performance of work by Government plant or by well-equipped contractor. |

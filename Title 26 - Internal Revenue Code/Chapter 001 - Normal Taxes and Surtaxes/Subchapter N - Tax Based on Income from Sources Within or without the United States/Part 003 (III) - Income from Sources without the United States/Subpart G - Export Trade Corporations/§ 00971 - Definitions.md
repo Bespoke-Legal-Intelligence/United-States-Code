@@ -86,5 +86,5 @@ Pub. L. 99–514, title XVIII, §1876(m), Oct. 22, 1986, 100 Stat. 2901, provide
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 865, 970 of this title.
+This section is referred to in sections 865, 970, 1296 of this title.
 

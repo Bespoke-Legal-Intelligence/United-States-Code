@@ -12,5 +12,3 @@
 
 (Added Pub. L. 101–509, title V, §529 \[title IV, §408(a)\], Nov. 5, 1990, 104 Stat. 1427, 1467.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be “subsection”.</i>
-

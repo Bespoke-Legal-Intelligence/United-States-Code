@@ -16,11 +16,11 @@ Punishment.—The punishment for an offense under subsection (a) of this section
 
 &emsp;(1) if the offense is committed for purposes of commercial advantage, malicious destruction or damage, or private commercial gain—
 
-&emsp;&emsp;(A) a fine of <sup>1</sup> under this title or imprisonment for not more than one year, or both, in the case of a first offense under this subparagraph; and
+&emsp;&emsp;(A) a fine under this title or imprisonment for not more than one year, or both, in the case of a first offense under this subparagraph; and
 
 &emsp;&emsp;(B) a fine under this title or imprisonment for not more than two years, or both, for any subsequent offense under this subparagraph; and
 
-&emsp;(2) a fine of <sup>1</sup> under this title or imprisonment for not more than six months, or both, in any other case.
+&emsp;(2) a fine under this title or imprisonment for not more than six months, or both, in any other case.
 
 (c)
 
@@ -32,9 +32,11 @@ Exceptions.—Subsection (a) of this section does not apply with respect to cond
 
 &emsp;(3) in section 2703, 2704 or 2518 of this title.
 
-(Added Pub. L. 99–508, title II, §201\[(a)\], Oct. 21, 1986, 100 Stat. 1860; amended Pub. L. 103–322, title XXXIII, §330016(1)(K), (U), Sept. 13, 1994, 108 Stat. 2147, 2148.)
+(Added Pub. L. 99–508, title II, §201\[(a)\], Oct. 21, 1986, 100 Stat. 1860; amended Pub. L. 103–322, title XXXIII, §330016(1)(K), (U), Sept. 13, 1994, 108 Stat. 2147, 2148; Pub. L. 104–294, title VI, §601(a)(3), Oct. 11, 1996, 110 Stat. 3498.)
 
 #### Amendments
+
+1996—Subsec. (b)(1)(A), (2). Pub. L. 104–294 substituted “fine under this title” for “fine of under this title”.
 
 1994—Subsec. (b)(1)(A). Pub. L. 103–322, §330016(1)(U), substituted “under this title” for “not more than $250,000”.
 
@@ -47,6 +49,4 @@ Section 202 of title II of Pub. L. 99–508 provided that: “This title and the
 #### Short Title of 1988 Amendment
 
 Pub. L. 100–618, §1, Nov. 5, 1988, 102 Stat. 3195, provided that: “This Act \[enacting section 2710 of this title and renumbering former section 2710 as 2711 of this title\] may be cited as the ‘Video Privacy Protection Act of 1988’.”
-
-<i><sup>1</sup></i><i> So in original. The word “of” probably should not appear.</i>
 

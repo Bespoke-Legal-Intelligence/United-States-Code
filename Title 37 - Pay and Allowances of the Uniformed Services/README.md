@@ -1,5 +1,5 @@
 
-37 U.S.C.<br>United States Code, 1995 Edition<br>Title 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES<br>From the U.S. Government Publishing Office, www.gpo.gov
+37 U.S.C.<br>United States Code, 1996 Edition<br>Title 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 37—PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
 
@@ -27,9 +27,13 @@ This title was enacted by Pub. L. 87–649, §1, Sept. 7, 1962, 76 Stat. 451
 
 Table Showing Disposition of All Sections of Former Title 37
 
-<i>Title 37      Former Sections     </i>
+<i>Title 37</i>
 
-<i>Title 37         New Sections        </i>
+<i>Former Sections</i>
+
+<i>Title 37</i>
+
+<i>New Sections</i>
 
 1–3
 
@@ -799,7 +803,7 @@ Pub. L. 87–649, §14, Sept. 7, 1962, 76 Stat. 498, repealed the sections or pa
 
 Title Referred to in Other Sections
 
-This title is referred to in title 2 section 906; title 10 sections 2005, 12319; title 42 section 204; title 50 section 403e.
+This title is referred to in title 2 section 906; title 10 sections 2005, 2126, 12319; title 31 section 3702; title 42 sections 204, 2651; title 50 section 403e.
 
 
 ---

@@ -4,7 +4,7 @@
 
 (1) Except as provided in subsections (b), (c), and (g) of this section and except in the case of procurement procedures otherwise expressly authorized by statute, an executive agency in conducting a procurement for property or services—
 
-&emsp;(A) shall obtain full and open competition through the use of competitive procedures inaccordance with the requirements of this title and the Federal Acquisition Regulation; and
+&emsp;(A) shall obtain full and open competition through the use of competitive procedures in accordance with the requirements of this title and the Federal Acquisition Regulation; and
 
 &emsp;(B) shall use the competitive procedure or combination of competitive procedures that is best suited under the circumstances of the procurement.
 
@@ -52,11 +52,11 @@ An executive agency may use procedures other than competitive procedures only wh
 
 &emsp;(2) the executive agency's need for the property or services is of such an unusual and compelling urgency that the Government would be seriously injured unless the executive agency is permitted to limit the number of sources from which it solicits bids or proposals;
 
-&emsp;(3) it is necessary to award the contract to a particular source or sources in order (A) to maintain a facility, producer, manufacturer, or other supplier available for furnishing property or services in case of a national emergency or to achieve industrial mobilization, (B) to establish or maintain an essential engineering, research, or development capability to be provided by an educational or other nonprofit institution or a federally funded research and development center, or (C) to procure the services of an expert for use, in any litigation or dispute (including any reasonably foreseeable litigation or dispute) involving the Federal Government, in any trial, hearing, or proceeding before any court, administrative tribunal, or agency, or in any part of an alternative dispute resolution process, whether or not the expert is expected to testify;
+&emsp;(3) it is necessary to award the contract to a particular source or sources in order (A) to maintain a facility, producer, manufacturer, or other supplier available for furnishing property or services in case of a national emergency or to achieve industrial mobilization, (B) to establish or maintain an essential engineering, research, or development capability to be provided by an educational or other nonprofit institution or a federally funded research and development center, or (C) to procure the services of an expert for use, in any litigation or dispute (including any reasonably foreseeable litigation or dispute) involving the Federal Government, in any trial, hearing, or proceeding before any court, administrative tribunal, or agency, or to procure the services of an expert or neutral for use in any part of an alternative dispute resolution or negotiated rulemaking process, whether or not the expert is expected to testify;
 
 &emsp;(4) the terms of an international agreement or treaty between the United States Government and a foreign government or international organization, or the written directions of a foreign government reimbursing the executive agency for the cost of the procurement of the property or services for such government, have the effect of requiring the use of procedures other than competitive procedures;
 
-&emsp;(5) subject to subsection (h) of this section, a statute expressly authorizes or requires that the procurement be made through another executive agency or from a specified source, or the agency's need is for a brand-name commercial item for authorized resale;
+&emsp;(5) subject to subsection (h) <sup>1</sup> of this section, a statute expressly authorizes or requires that the procurement be made through another executive agency or from a specified source, or the agency's need is for a brand-name commercial item for authorized resale;
 
 &emsp;(6) the disclosure of the executive agency's needs would compromise the national security unless the agency is permitted to limit the number of sources from which it solicits bids or proposals; or
 
@@ -70,7 +70,7 @@ An executive agency may use procedures other than competitive procedures only wh
 
 (1) For the purposes of applying subsection (c)(1) of this section—
 
-&emsp;(A) in the case of a contract for property or services to be awarded on the basis of acceptance of an unsolicited research proposal, the property or services shall be considered to beavailable from only one source if the source has submitted an unsolicited research proposal that demonstrates a unique and innovative concept the substance of which is not otherwise available to the United States and does not resemble the substance of a pending competitive procurement; and
+&emsp;(A) in the case of a contract for property or services to be awarded on the basis of acceptance of an unsolicited research proposal, the property or services shall be considered to be available from only one source if the source has submitted an unsolicited research proposal that demonstrates a unique and innovative concept the substance of which is not otherwise available to the United States and does not resemble the substance of a pending competitive procurement; and
 
 &emsp;(B) in the case of a follow-on contract for the continued development or production of a major system or highly specialized equipment when it is likely that award to a source other than the original source would result in (i) substantial duplication of cost to the Government which is not expected to be recovered through competition, or (ii) unacceptable delays in fulfilling the executive agency's needs, such property may be deemed to be available only from the original source and may be procured through procedures other than competitive procedures.
 
@@ -88,11 +88,11 @@ An executive agency using procedures other than competitive procedures to procur
 
 &emsp;(B) the justification is approved—
 
-&emsp;&emsp;(i) in the case of a contract for an amount exceeding $100,000 (but equal to or less than $1,000,000), by the competition advocate for the procuring activity (without further delegation) or by an official referred to in clause (ii), (iii), or (iv);
+&emsp;&emsp;(i) in the case of a contract for an amount exceeding $500,000 (but equal to or less than $10,000,000), by the competition advocate for the procuring activity (without further delegation) or by an official referred to in clause (ii) or (iii); and
 
-&emsp;&emsp;(ii) in the case of a contract for an amount exceeding $1,000,000 (but equal to or less than $10,000,000), by the head of the procuring activity or a delegate who, if a member of the armed forces, is a general or flag officer or, if a civilian; <sup>1</sup> is serving in a position in grade GS–16 or above under the General Schedule (or in a comparable or higher position under another schedule); or
+&emsp;&emsp;(ii) in the case of a contract for an amount exceeding $10,000,000 (but equal to or less than $50,000,000), by the head of the procuring activity or a delegate who, if a member of the armed forces, is a general or flag officer or, if a civilian, is serving in a position in grade GS–16 or above under the General Schedule (or in a comparable or higher position under another schedule); or
 
-&emsp;&emsp;(iii) in the case of a contract for an amount exceeding $10,000,000, by the senior procurement executive of the agency designated pursuant to section 414(3) of this title (without further delegation); and
+&emsp;&emsp;(iii) in the case of a contract for an amount exceeding $50,000,000, by the senior procurement executive of the agency designated pursuant to section 414(3) of this title (without further delegation); and
 
 &emsp;(C) any required notice has been published with respect to such contract pursuant to section 416 of this title and all bids or proposals received in response to such notice have been considered by such executive agency.
 
@@ -104,7 +104,7 @@ An executive agency using procedures other than competitive procedures to procur
 
 &emsp;(C) in the case of a procurement permitted by subsection (c)(7) of this section; or
 
-&emsp;(D) in the case of a procurement conducted under (i) the Act of June 25, 1938 (41 U.S.C. 46 et seq.), popularly referred to as the Wagner-O'Day Act, or (ii) section 637(a) of title 15.
+&emsp;(D) in the case of a procurement conducted under (i) the Javits-Wagner-O'Day Act (41 U.S.C. 46 et seq.), or (ii) section 637(a) of title 15.
 
 (3) The justification required by paragraph (1)(A) shall include—
 
@@ -132,7 +132,11 @@ An executive agency using procedures other than competitive procedures to procur
 
 #### (g) Simplified procedures for small purchases
 
-(1) In order to promote efficiency and economy in contracting and to avoid unnecessary burdens for agencies and contractors, the Federal Acquisition Regulation shall provide for special simplified procedures for purchases of property and services for amounts not greater than the simplified acquisition threshold.
+(1) In order to promote efficiency and economy in contracting and to avoid unnecessary burdens for agencies and contractors, the Federal Acquisition Regulation shall provide for—
+
+&emsp;(A) special simplified procedures for purchases of property and services for amounts not greater than the simplified acquisition threshold; and
+
+&emsp;(B) special simplified procedures for purchases of property and services for amounts greater than the simplified acquisition threshold but not greater than $5,000,000 with respect to which the contracting officer reasonably expects, based on the nature of the property or services sought and on market research, that offers will include only commercial items.
 
 (2)(A) The Administrator of General Services shall prescribe regulations that provide special simplified procedures for acquisitions of leasehold interests in real property at rental rates that do not exceed the simplified acquisition threshold.
 
@@ -142,7 +146,13 @@ An executive agency using procedures other than competitive procedures to procur
 
 (4) In using the simplified procedures, an executive agency shall promote competition to the maximum extent practicable.
 
-#### (h) Merit-based award of contracts
+(5) An executive agency shall comply with the Federal Acquisition Regulation provisions referred to in section 427(g) of this title.
+
+#### (h) Efficient implementation of requirement
+
+The Federal Acquisition Regulation shall ensure that the requirement to obtain full and open competition is implemented in a manner that is consistent with the need to efficiently fulfill the Government's requirements.
+
+#### (i) Merit-based award of contracts
 
 (1) It is the policy of Congress that an executive agency should not be required by legislation to award a new contract to a specific non-Federal Government entity. It is further the policy of Congress that any program, project, or technology identified in legislation be procured through merit-based selection procedures.
 
@@ -158,13 +168,31 @@ An executive agency using procedures other than competitive procedures to procur
 
 (4) This subsection shall not apply with respect to any contract that calls upon the National Academy of Sciences to investigate, examine, or experiment upon any subject of science or art of significance to an executive agency and to report on such matters to the Congress or any agency of the Federal Government.
 
-(June 30, 1949, ch. 288, title III, §303, 63 Stat. 395; July 12, 1952, ch. 703, §1(m), 66 Stat. 594; Mar. 16, 1968, Pub. L. 90–268, §2, 82 Stat. 49; July 18, 1984, Pub. L. 98–369, div. B, title VII, §2711(a)(1), 98 Stat. 1175; Oct. 30, 1984, Pub. L. 98–577, title V, §504(a)(1), (2), 98 Stat. 3086; Nov. 8, 1985, Pub. L. 99–145, title IX, §961(a)(2), title XIII, §1304(c)(2), (3), 99 Stat. 703, 742; Nov. 5, 1990, Pub. L. 101–510, div. A, title VIII, §806(c), 104 Stat. 1592; Oct. 13, 1994, Pub. L. 103–355, title I, §§1051–1053, 1055(a), title IV, §4402(a), title VII, §7203(b)(1), 108 Stat. 3260, 3261, 3265, 3348, 3380.)
+(June 30, 1949, ch. 288, title III, §303, 63 Stat. 395; July 12, 1952, ch. 703, §1(m), 66 Stat. 594; Mar. 16, 1968, Pub. L. 90–268, §2, 82 Stat. 49; July 18, 1984, Pub. L. 98–369, div. B, title VII, §2711(a)(1), 98 Stat. 1175; Oct. 30, 1984, Pub. L. 98–577, title V, §504(a)(1), (2), 98 Stat. 3086; Nov. 8, 1985, Pub. L. 99–145, title IX, §961(a)(2), title XIII, §1304(c)(2), (3), 99 Stat. 703, 742; Nov. 5, 1990, Pub. L. 101–510, div. A, title VIII, §806(c), 104 Stat. 1592; Oct. 13, 1994, Pub. L. 103–355, title I, §§1051–1053, 1055(a),title IV, §4402(a), title VII, §7203(b)(1), 108 Stat. 3260, 3261, 3265, 3348, 3380; Feb. 10, 1996, Pub. L. 104–106, div. D, title XLI, §§4101(b), 4102(b), title XLII, §4202(b)(1), title XLIII, §4321(e)(2), 110 Stat. 642, 643, 653, 674; Oct. 19, 1996, Pub. L. 104–320, §§7(a)(2), 11(c)(2), 110 Stat. 3871, 3873.)
 
 #### References in Text
 
-Act of June 25, 1938, referred to in subsec. (f)(2)(D), is act June 25, 1938, ch. 697, 52 Stat. 1196, as amended, known as the Javits-Wagner-O'Day Act, which is classified to sections 46 to 48c of this title. For complete classification of this Act to the Code, see Tables.
+Subsection (h) of this section, referred to in subsec. (c)(5), was redesignated subsec. (i) and a new subsec. (h) was added by Pub. L. 104–106, div. D, title XLI, §4101(b), Feb. 10, 1996, 110 Stat. 642.
+
+The Javits-Wagner-O'Day Act, referred to in subsec. (f)(2)(D), is act June 25, 1938, ch. 697, 52 Stat. 1196, as amended, which is classified to sections 46 to 48c of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
+
+1996—Subsec. (c)(3)(C). Pub. L. 104–320 substituted “agency, or to procure the services of an expert or neutral for use” for “agency, or” and inserted “or negotiated rulemaking” after “alternative dispute resolution”.
+
+Subsec. (f)(1)(B)(i). Pub. L. 104–106, §4102(b)(1), substituted “$500,000 (but equal to or less than $10,000,000)” for “$100,000 (but equal to or less than $1,000,000)” and “(ii) or (iii); and” for “(ii), (iii), or (iv);”.
+
+Subsec. (f)(1)(B)(ii). Pub. L. 104–106, §4102(b)(2), substituted “$10,000,000 (but equal to or less than $50,000,000)” for “$1,000,000 (but equal to or less than $10,000,000)” and “civilian,” for “civilian;”.
+
+Subsec. (f)(1)(B)(iii). Pub. L. 104–106, §4102(b)(3), substituted “$50,000,000” for “$10,000,000”.
+
+Subsec. (f)(2)(D). Pub. L. 104–106, §4321(e)(2), substituted “the Javits-Wagner-O'Day Act (41 U.S.C. 46 et seq.),” for “the Act of June 25, 1938 (41 U.S.C. 46 et seq.), popularly referred to as the Wagner-O'Day Act,”.
+
+Subsec. (g)(1). Pub. L. 104–106, §4202(b)(1)(A), substituted “shall provided for—” for “shall provide for special simplified procedures for purchases of property and services for amounts not greater than the simplified acquisition threshold.” and added subpars. (A) and (B).
+
+Subsec. (g)(5). Pub. L. 104–106, §4202(b)(1)(B), added par. (5).
+
+Subsecs. (h), (i). Pub. L. 104–106, §4101(b), added subsec. (h) and redesignated former subsec. (h) as (i).
 
 1994—Subsec. (a)(1)(A). Pub. L. 103–355, §1051(1), substituted “Federal Acquisition Regulation” for “modifications to regulations promulgated pursuant to section 2752 of the Competition in Contracting Act of 1984”.
 
@@ -218,6 +246,10 @@ Subsec. (f)(2). Pub. L. 98–577, §504(a)(2), designated the final sentence as 
 
 1952—Subsec. (a). Act July 12, 1952, substituted “property” for “supplies”.
 
+#### Effective Date of 1996 Amendment
+
+For effective date and applicability of amendment by Pub. L. 104–106, see section 4401 of Pub. L. 104–106, set out as a note under section 251 of this title.
+
 #### Effective Date of 1994 Amendment
 
 For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under section 251 of this title.
@@ -233,6 +265,10 @@ Amendment by Pub. L. 98–369 applicable with respect to any solicitation for bi
 #### Effective Date
 
 Section effective July 1, 1949, see section 605 of act June 30, 1949, set out as a note under section 471 of Title 40, Public Buildings, Property, and Works.
+
+#### Termination of Authority To Issue Solicitations for Purchases of Commercial Items in Excess of Simplified Acquisition Threshold
+
+Authority to issue solicitations for purchases of commercial items in excess of simplified acquisition threshold pursuant to special simplified procedures authorized by subsec. (g)(1) of this section to expire three years after date certain amendments by section 4202 of Pub. L. 104–106 take effect pursuant to section 4401(b) of Pub. L. 104–106, set out as a note under section 251 of this title, see section 4202(e) of Pub. L. 104–106, set out as a note under section 2304 of Title 10, Armed Forces.
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
@@ -262,7 +298,7 @@ Armed services—
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 252, 253h, 253i, 253j, 257, 416, 417, 423 of this title; title 15 section 637; title 22 section 2669; title 40 sections 618, 759; title 49 section 40110; title 50 App. section 2077.
+This section is referred to in sections 252, 253h, 253i, 253j, 257, 416, 417, 427 of this title; title 15 section 637; title 22 section 2669; title 38 section 8153; title 40 section 618; title 49 section 40110; title 50 App. section 2077.
 
-<i><sup>1</sup></i><i> So in original. The semicolon probably should be a comma.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

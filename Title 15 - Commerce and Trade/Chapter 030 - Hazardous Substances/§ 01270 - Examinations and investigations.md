@@ -16,7 +16,7 @@ If the officer or employee obtains any sample, prior to leaving the premises, he
 
 #### Transfer of Functions
 
-“Commission” substituted for “Secretary” and “Department” in subsec. (a) and for “Secretary” in subsec.\(b) pursuant to section 30(a) of Pub. L. 92–573, which is classified to section 2079(a) of this title and which transferred functions of Secretary of Health, Education, and Welfare under this chapter to Consumer Product Safety Commission.
+“Commission” substituted for “Secretary” and “Department” in subsec. (a) and for “Secretary” in subsec. (b) pursuant to section 30(a) of Pub. L. 92–573, which is classified to section 2079(a) of this title and which transferred functions of Secretary of Health, Education, and Welfare under this chapter to Consumer Product Safety Commission.
 
 #### Section Referred to in Other Sections
 

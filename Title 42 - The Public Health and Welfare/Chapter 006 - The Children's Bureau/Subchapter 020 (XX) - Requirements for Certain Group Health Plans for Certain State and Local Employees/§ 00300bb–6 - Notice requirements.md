@@ -6,7 +6,7 @@ In accordance with regulations prescribed by the Secretary—
 
 &emsp;(2) the employer of an employee under a plan must notify the plan administrator of a qualifying event described in paragraph (1), (2), or (4) of section 300bb–3 of this title within 30 days of the date of the qualifying event,
 
-&emsp;(3) each covered employee or qualified beneficiary is responsible for notifying the plan administrator of the occurrence of any qualifying event described in paragraph (3) or (5) of section 300bb–3 of this title within 60 days after the date of the qualifying event and each qualified beneficiary who is determined, under title II or XVI of the Social Security Act \[42 U.S.C. and for notifying the plan administrator within 30 days after the date of any final determination under such title or titles that the qualified beneficiary is no longer disabled, and
+&emsp;(3) each covered employee or qualified beneficiary is responsible for notifying the plan administrator of the occurrence of any qualifying event described in paragraph (3) or (5) of section 300bb–3 of this title within 60 days after the date of the qualifying event and each qualified beneficiary who is determined, under title II or XVI of the Social Security Act \[42 U.S.C. 401 et seq., 1381 et seq.\], to have been disabled at any time during the first 60 days of continuation coverage under this subchapter is responsible for notifying the plan administrator of such determination within 60 days after the date of the determination and for notifying the plan administrator within 30 days after the date of any final determination under such title or titles that the qualified beneficiary is no longer disabled, and
 
 &emsp;(4) the plan administrator shall notify—
 
@@ -18,7 +18,7 @@ In accordance with regulations prescribed by the Secretary—
 
 > For purposes of paragraph (4), any notification shall be made within 14 days of the date on which the plan administrator is notified under paragraph (2) or (3), whichever is applicable, and any such notification to an individual who is a qualified beneficiary as the spouse of the covered employee shall be treated as notification to all other qualified beneficiaries residing with such spouse at the time such notification is made.
 
-(July 1, 1944, ch. 373, title XXII, §2206, as added Apr. 7, 1986, Pub. L. 99–272, title X, §10003(a), 100 Stat. 235; amended Oct. 22, 1986, Pub. L. 99–514, title XVIII, §1895(d)(6)(C), 100 Stat. 2939; Dec. 22, 1987, Pub. L. 100–203, title IV, §4009(j)(8), 101 Stat. 1330–59; Dec. 19, 1989, Pub. L. 101–239, title VI, §6702(c), 103 Stat. 2295.)
+(July 1, 1944, ch. 373, title XXII, §2206, as added Apr. 7, 1986, Pub. L. 99–272, title X, §10003(a), 100 Stat. 235; amended Oct. 22, 1986, Pub. L. 99–514, title XVIII, §1895(d)(6)(C), 100 Stat. 2939; Dec. 22, 1987, Pub. L. 100–203, title IV, §4009(j)(8), 101 Stat. 1330–59; Dec. 19, 1989, Pub. L. 101–239, title VI, §6702(c), 103 Stat. 2295; Aug. 21, 1996, Pub. L. 104–191, title IV, §421(a)(2), 110 Stat. 2088.)
 
 #### References in Text
 
@@ -26,11 +26,17 @@ The Social Security Act, referred to in par. (3), is act Aug. 14, 1935, ch. 531,
 
 #### Amendments
 
+1996—Par. (3). Pub. L. 104–191 substituted “at any time during the first 60 days of continuation coverage under this subchapter” for “at the time of a qualifying event described in section 300bb–3(2) of this title”.
+
 1989—Par. (3). Pub. L. 101–239 inserted “and each qualified beneficiary who is determined, under title II or XVI of the Social Security Act, to have been disabled at the time of a qualifying event described in section 300bb–3(2) of this title is responsible for notifying the plan administrator of such determination within 60 days after the date of the determination and for notifying the plan administrator within 30 days after the date of any final determination under such title or titles that the qualified beneficiary is no longer disabled” after “date of the qualifying event”.
 
 1987—Par. (3). Pub. L. 100–203 amended directory language of Pub. L. 99–514, see 1986 Amendment note below.
 
 1986—Par. (3). Pub. L. 99–514, as amended by Pub. L. 100–203, inserted “within 60 days after the date of the qualifying event”.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–191 effective Jan. 1, 1997, regardless of whether the qualifying event occurred before, on, or after such date, see section 421(d) of Pub. L. 104–191, set out as a note under section 4980B of Title 26, Internal Revenue Code.
 
 #### Effective Date of 1989 Amendment
 

@@ -62,7 +62,7 @@ Soundproofing and acquisition of certain residential buildings and properties.�
 
 &emsp;&emsp;(iii) if the Secretary determines that the proposed projects are compatible with the purposes of this chapter;
 
-&emsp;(C) to an airport operator and unit of local government referred to in paragraph (1)(A) or (1)(B) of this subsection to carry out any part of a program developed before February 18, 1980, or before implementing regulations were prescribed, if the Secretary decides the program is substantially consistent with reducing existing noncompatible uses and preventing the introduction of additional noncompatible uses and the purposes of this chapter will be furthered by promptly carrying out the program; and
+&emsp;(C) to an airport operator and unit of local government referred to in paragraph (1)(A) or\(1)(B) of this subsection to carry out any part of a program developed before February 18, 1980, or before implementing regulations were prescribed, if the Secretary decides the program is substantially consistent with reducing existing noncompatible uses and preventing the introduction of additional noncompatible uses and the purposes of this chapter will be furthered by promptly carrying out the program; and
 
 &emsp;(D) to an airport operator and unit of local government referred to in paragraph (1)(A) or (1)(B) of this subsection to soundproof a building in the noise impact area surrounding the airport that is used primarily for educational or medical purposes and that the Secretary decides is adversely affected by airport noise.
 
@@ -90,7 +90,9 @@ Historical and Revision Notes
 
 Pub. L. 103–272
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -174,5 +176,5 @@ Subsec. (c)(5). Pub. L. 103–305, §119(1), redesignated par. (4) as (5).
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 106, 40117, 47117, 47505, 48103 of this title.
+This section is referred to in sections 106, 40117, 47115, 47117, 47505, 48103 of this title.
 

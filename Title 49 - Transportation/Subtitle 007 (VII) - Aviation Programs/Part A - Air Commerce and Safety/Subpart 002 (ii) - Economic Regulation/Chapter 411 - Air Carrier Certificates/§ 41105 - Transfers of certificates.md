@@ -6,7 +6,7 @@ General.—A certificate issued under section 41102 of this title may be transfe
 
 (b)
 
-Certification to Congress.—When a certificate is transferred, the Secretary shall certify to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Public Works and Transportation of the House of Representatives that the transfer is consistent with the public interest. The Secretary shall include with the certification a report analyzing the effects of the transfer on—
+Certification to Congress.—When a certificate is transferred, the Secretary shall certify to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives that the transfer is consistent with the public interest. The Secretary shall include with the certification a report analyzing the effects of the transfer on—
 
 &emsp;(1) the viability of each carrier involved in the transfer;
 
@@ -14,11 +14,13 @@ Certification to Congress.—When a certificate is transferred, the Secretary sh
 
 &emsp;(3) the trade position of the United States in the international air transportation market.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1121.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1121; Pub. L. 104–287, §5(9), Oct. 11, 1996, 110 Stat. 3389.)
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -32,7 +34,7 @@ Aug. 23, 1958, Pub. L. 85–726, §401(h)(1), 72 Stat. 756; Nov. 5, 1990, Pub. L
 
 &nbsp;
 
-49 App.:1551(b) (1)(E).
+49 App.:1551(b)(1)(E).
 
 Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1601(b)(1)(E); added Oct. 4, 1984, Pub. L. 98–443, §3(e), 98 Stat. 1704.
 
@@ -42,9 +44,9 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1601(b)(1)(E); added Oct. 4, 19
 
 Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §401(h)(2), (3); added Nov. 5, 1990, Pub. L. 101–508, §9127(2), 104 Stat. 1388–371.
 
-#### Change of Name
+#### Amendments
 
-Committee on Public Works and Transportation of House of Representatives treated as referring to Committee on Transportation and Infrastructure of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+1996—Subsec. (b). Pub. L. 104–287 substituted “Transportation and Infrastructure” for “Public Works and Transportation”.
 
 #### Section Referred to in Other Sections
 

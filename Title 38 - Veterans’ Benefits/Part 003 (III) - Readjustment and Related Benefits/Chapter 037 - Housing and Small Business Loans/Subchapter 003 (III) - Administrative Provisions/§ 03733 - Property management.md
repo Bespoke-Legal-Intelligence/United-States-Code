@@ -50,7 +50,7 @@ Subsec. (a)(1). Pub. L. 102–83, §5(c)(1), substituted “3710(a)” for “18
 
 Subsec. (a)(2). Pub. L. 102–54, §2(a), added par. (2) and struck out former par. (2) which read as follows: “In carrying out paragraph (1) of this subsection, the Secretary, to the maximum extent consistent with that paragraph and with maintaining the effective functioning of the loan guaranty program under this chapter, shall minimize the number of loans made by the Secretary to finance purchases of real property from the Secretary described in that paragraph.”
 
-Subsec. (a)(3). Pub. L. 102–54, §2(a), added par. (3) and struck out former par. (3) which authorized sales before Oct. 1, 1990, of notes for loans under subsec. (a)(1) and required Secretary to make reports of such sales to Committees on Veterans’ Affairs of Senate and House of Representatives.
+Subsec. (a)(3). Pub. L. 102–54, §2(a), added par. (3) and struck out former par. (3) which authorized sales before Oct. 1, 1990, of notes for loans under subsec. (a)(1) andrequired Secretary to make reports of such sales to Committees on Veterans’ Affairs of Senate and House of Representatives.
 
 Subsec. (a)(6). Pub. L. 102–83, §5(c)(1), substituted “3724(a)” for “1824(a)”.
 

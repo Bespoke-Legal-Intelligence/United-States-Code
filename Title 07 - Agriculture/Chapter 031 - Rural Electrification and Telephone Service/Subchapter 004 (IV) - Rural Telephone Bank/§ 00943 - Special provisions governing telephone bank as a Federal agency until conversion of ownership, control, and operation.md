@@ -4,7 +4,7 @@ Until the ownership, control, and operation of the telephone bank is converted a
 
 #### (a) Supervision and direction of Secretary of Agriculture; free postage and priority of debts restrictions
 
-&emsp;the telephone bank shall be an agency of the United States and shall be subject to the supervision and direction of the Secretary of Agriculture (hereinafter called the Secretary): <i>Provided, however,</i> That the telephone bank shall at no time be entitled to transmission of its mail free of postage, nor shall it have the priority of the United States in the payment of debts out of bankrupt, insolvent, and decedents’ estates;
+&emsp;the telephone bank shall be an agency of the United States and shall be subject to the supervision and direction of the Secretary of Agriculture (hereinafter called the Secretary): <i>Provided, however</i>, That the telephone bank shall at no time be entitled to transmission of its mail free of postage, nor shall it have the priority of the United States in the payment of debts out of bankrupt, insolvent, and decedents’ estates;
 
 #### (b) Use of facilities and services of employees of Secretary of Agriculture
 

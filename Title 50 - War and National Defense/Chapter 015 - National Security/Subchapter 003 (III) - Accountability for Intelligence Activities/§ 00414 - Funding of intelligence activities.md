@@ -46,7 +46,7 @@ As used in this section—
 
 &emsp;(3) the term “specifically authorized by the Congress” means that—
 
-&emsp;&emsp;(A) the activity and the amount of funds proposed to be used for that activity were identified in a formal budget request to the Congress, but funds shall be deemed to be specifically authorized for that activity only to the extent that the Congress both authorized the funds to be appropriated for that activity and appropriated the funds for that activity; or
+&emsp;&emsp;(A) the activity and the amount of funds proposed to be used for that activity were identified in a formal budget request to the Congress, but funds shall be deemed to be specifically authorized for that activity onlyto the extent that the Congress both authorized the funds to be appropriated for that activity and appropriated the funds for that activity; or
 
 &emsp;&emsp;(B) although the funds were not formally requested, the Congress both specifically authorized the appropriation of the funds for the activity and appropriated the funds for the activity.
 

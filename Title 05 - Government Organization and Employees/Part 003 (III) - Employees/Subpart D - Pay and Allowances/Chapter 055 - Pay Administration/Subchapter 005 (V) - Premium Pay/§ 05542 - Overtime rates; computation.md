@@ -1,6 +1,6 @@
 ### §5542. Overtime rates; computation
 
-(a) For full-time, part-time and intermittent tours of duty, hours of work officially ordered or approved in excess of 40 hours in an administrative workweek, or (with the exception of an employee engaged in professional or technical engineering or scientific activities for whom the first 40 hours of duty in an administrative workweek is the basic workweek and an employee whose basic pay exceeds the minimum rate for GS–10 (including any applicable locality-based comparability payment under section 5304 or similar provision of law and any applicable special rate of pay under section 5305 or similar provision of law) for whom the first 40 hours of duty in an administrative workweek is the basic workweek) in excess of 8 hours in a day, performed by an employee are overtime work and shall be paid for, except as otherwise provided by this subchapter, at the following rates:
+(a) For full-time, part-time and intermittent tours of duty, hours of work officially ordered or approved in excess of 40 hours in an administrative workweek, or (with the exception of an employee engaged in professional or technical engineering or scientific activities for whom thefirst 40 hours of duty in an administrative workweek is the basic workweek and an employee whose basic pay exceeds the minimum rate for GS–10 (including any applicable locality-based comparability payment under section 5304 or similar provision of law and any applicable special rate of pay under section 5305 or similar provision of law) for whom the first 40 hours of duty in an administrative workweek is the basic workweek) in excess of 8 hours in a day, performed by an employee are overtime work and shall be paid for, except as otherwise provided by this subchapter, at the following rates:
 
 &emsp;(1) For an employee whose basic pay is at a rate which does not exceed the minimum rate of basic pay for GS–10 (including any applicable locality-based comparability payment under section 5304 or similar provision of law and any applicable special rate of pay under section 5305 or similar provision of law), the overtime hourly rate of pay is an amount equal to one and one-half times the hourly rate of basic pay of the employee, and all that amount is premium pay.
 
@@ -8,7 +8,7 @@
 
 &emsp;(3) Notwithstanding paragraphs (1) and (2) of this subsection for an employee of the Department of Transportation who occupies a nonmanagerial position in GS–14 or under and, as determined by the Secretary of Transportation,
 
-&emsp;&emsp;(A) the duties of which are critical to the immediate daily operation of the air trafficcontrol system, directly affect aviation safety, and involve physical or mental strain or hardship;
+&emsp;&emsp;(A) the duties of which are critical to the immediate daily operation of the air traffic control system, directly affect aviation safety, and involve physical or mental strain or hardship;
 
 &emsp;&emsp;(B) in which overtime work is therefore unusually taxing; and
 
@@ -58,7 +58,9 @@ Act
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 (a)
 
@@ -108,27 +110,27 @@ Section 7 of the Fair Labor Standards Act of 1938, referred to in subsec. (c), i
 
 #### Amendments
 
-<b>1995</b>—Subsec. (e). Pub. L. 104–52 added subsec. (e).
+1995—Subsec. (e). Pub. L. 104–52 added subsec. (e).
 
-<b>1994</b>—Subsec. (d). Pub. L. 103–329 added subsec. (d).
+1994—Subsec. (d). Pub. L. 103–329 added subsec. (d).
 
-<b>1992</b>—Subsec. (a)(4). Pub. L. 102–378, §2(41)(A), substituted “officer,” for “officer (within the meaning of section 8331(20) or 8401(17)),” and realigned margin of closing provision.
+1992—Subsec. (a)(4). Pub. L. 102–378, §2(41)(A), substituted “officer,” for “officer (within the meaning of section 8331(20) or 8401(17)),” and realigned margin of closing provision.
 
 Subsec. (c). Pub. L. 102–378, §2(41)(B), amended second sentence generally. Prior to amendment, second sentence read as follows: “In the case of an employee who would, were it not for the preceding sentence, be subject to this section, hours of work in excess of 8 hours in a day shall be deemed to be overtime hours for the purposes of such section 7 and hours in a paid nonwork status shall be deemed to be hours of work.”
 
-<b>1990</b>—Subsec. (a). Pub. L. 101–509, §529 \[title I, §101(b)(3)(E)\], inserted “(including any applicable locality-based comparability payment under section 5304 or similar provision of law and any applicable special rate of pay under section 5305 or similar provision of law)” after “GS–10” wherever appearing.
+1990—Subsec. (a). Pub. L. 101–509, §529 \[title I, §101(b)(3)(E)\], inserted “(including any applicable locality-based comparability payment under section 5304 or similar provision of law and any applicable special rate of pay under section 5305 or similar provision of law)” after “GS–10” wherever appearing.
 
 Subsec. (a)(4). Pub. L. 101–509, §529 \[title IV, §410(a)\], added par. (4).
 
 Subsec. (c). Pub. L. 101–509, §529 \[title II, §210(1)\], added subsec. (c).
 
-<b>1984</b>—Subsec. (b)(2)(B)(iv). Pub. L. 98–473 inserted “, including travel by an employee to such an event and the return of such employee from such event to his or her official-duty station”.
+1984—Subsec. (b)(2)(B)(iv). Pub. L. 98–473 inserted “, including travel by an employee to such an event and the return of such employee from such event to his or her official-duty station”.
 
-<b>1971</b>—Subsec. (a). Pub. L. 92–194 substituted “For full-time, part-time and intermittent tours of duty, hours” for “Hours”.
+1971—Subsec. (a). Pub. L. 92–194 substituted “For full-time, part-time and intermittent tours of duty, hours” for “Hours”.
 
-<b>1968</b>—Subsec. (a)(3). Pub. L. 90–556 added par. (3).
+1968—Subsec. (a)(3). Pub. L. 90–556 added par. (3).
 
-<b>1967</b>—Subsec. (b)(2)(B). Pub. L. 90–206 designated existing provisions as cls. (i) and (iii) and added cls. (ii) and (iv).
+1967—Subsec. (b)(2)(B). Pub. L. 90–206 designated existing provisions as cls. (i) and (iii) and added cls. (ii) and (iv).
 
 #### Effective Date of 1994 Amendment
 

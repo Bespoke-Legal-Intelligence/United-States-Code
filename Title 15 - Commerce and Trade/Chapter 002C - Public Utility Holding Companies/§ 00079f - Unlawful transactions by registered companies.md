@@ -2,7 +2,7 @@
 
 #### (a) Issuing, selling, or altering rights of stockholders to declaration
 
-Except in accordance with a declaration effective under section 79g of this title and with the order under such section permitting such declaration to become effective, it shall be unlawful for any registered holding company or subsidiary company thereof, by use of the mails or any means or instrumentality of interstate commerce, or otherwise, directly or indirectly (1) to issue or sell any security of such company; or (2)to exercise any privilege or right to alter the priorities, preferences, voting power, or other rights of the holders of an outstanding security of such company.
+Except in accordance with a declaration effective under section 79g of this title and with the order under such section permitting such declaration to become effective, it shall be unlawful for any registered holding company or subsidiary company thereof, by use of the mails or any means or instrumentality of interstate commerce, or otherwise, directly or indirectly (1) to issue or sell any security of such company; or (2) to exercise any privilege or right to alter the priorities, preferences, voting power, or other rights of the holders of an outstanding security of such company.
 
 #### (b) Exemptions from operation of subsection (a)
 

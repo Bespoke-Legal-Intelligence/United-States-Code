@@ -50,7 +50,7 @@ Not later than 180 days after November 16, 1990, the Secretary shall establish a
 
 &emsp;&emsp;(B) prescribe the purposes for which the records described in subparagraph (A) may be disclosed, and the circumstances and extent of the disclosure; and
 
-&emsp;(6) in the case of a marrow donor center or marrow donor registry participating in the program, procedures to ensure the establishment of a method for integrating donor files, searches, and general procedures of the center or registry with the Registry.
+&emsp;(6) in the case of a marrow donor center or marrow donor registry participating in theprogram, procedures to ensure the establishment of a method for integrating donor files, searches, and general procedures of the center or registry with the Registry.
 
 #### (d) Comment procedures
 

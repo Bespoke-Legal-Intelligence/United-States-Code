@@ -20,7 +20,7 @@
 
 &emsp;&emsp;(ii) was not extended on the basis of the regulatory review period for use in non-food-producing animals,
 
-> &emsp;the permission for the commercial marketing or use of the drug or product after the regulatory review period for use in food-producing animals is the first permitted commercial marketing or use of the drug or product for administration to a food-producing animal.
+> &emsp;the permission for the commercial marketing or use of the drug or product after the regulatory review period for use in food-producinganimals is the first permitted commercial marketing or use of the drug or product for administration to a food-producing animal.
 
 > The product referred to in paragraphs (4) and (5) is hereinafter in this section referred to as the “approved product”.
 
@@ -82,7 +82,7 @@
 
 &emsp;(ii) the Secretary of Health and Human Services if the patent claims any other drug product, a medical device, or a food additive or color additive or a method of using or manufacturing such a product, device, or additive and if the product, device, and additive are subject to the Federal Food, Drug, and Cosmetic Act,
 
-> of the extension application and shall submit to the Secretary who is so notified a copy of the application. Not later than 30 days after the receipt of an application from the Commissioner, the Secretary receiving the application shall review the dates contained in the application pursuant to paragraph (1)(C) and determine the applicable regulatory review period, shall notifythe Commissioner of the determination, and shall publish in the Federal Register a notice of such determination.
+> of the extension application and shall submit to the Secretary who is so notified a copy of the application. Not later than 30 days after the receipt of an application from the Commissioner, the Secretary receiving the application shall review the dates contained in the application pursuant to paragraph (1)(C) and determine the applicable regulatory review period, shall notify the Commissioner of the determination, and shall publish in the Federal Register a notice of such determination.
 
 (B)(i) If a petition is submitted to the Secretary making the determination under subparagraph (A), not later than 180 days after the publication of the determination under subparagraph (A), upon which it may reasonably be determined that the applicant did not act with due diligence during the applicable regulatory review period, the Secretary making the determination shall, in accordance with regulations promulgated by such Secretary, determine if the applicant acted with due diligence during the applicable regulatory review period. The Secretary making the determination shall make such determination not later than 90 days after the receipt of such a petition. For a drug product, device, or additive subject to the Federal Food, Drug, and Cosmetic Act or the Public Health Service Act, the Secretary may not delegate the authority to make the determination prescribed by this clause to an office below the Office of the Commissioner of Food and Drugs. For a product subject to the Virus-Serum-Toxin Act, the Secretary of Agriculture may not delegate the authority to make the determination prescribed by this clause to an office below the office <sup>2</sup> of the Assistant Secretary for Marketing and Inspection Services.
 
@@ -114,7 +114,7 @@
 
 &emsp;(i) for not to exceed 5 years from the date of expiration of the original patent term; or
 
-&emsp;(ii) if the patent is subject to subsection (g)(6)(C), from the date on which the productinvolved receives approval for commercial marketing or use.
+&emsp;(ii) if the patent is subject to subsection (g)(6)(C), from the date on which the product involved receives approval for commercial marketing or use.
 
 (F) The rights derived from any patent the term of which is extended under this paragraph shall, during the period of interim extension—
 
@@ -174,7 +174,7 @@
 
 &emsp;(B) The regulatory review period for a food or color additive is the sum of—
 
-&emsp;&emsp;(i) the period beginning on the date a major health or environmental effects test on the additive was initiated and ending on the date a petition was initially submitted with respect to the product under the Federal Food, Drug, and Cosmetic Act requesting the issuance of a regulation for use of the product, and
+&emsp;&emsp;(i) the period beginning on the date a major health or environmental effects teston the additive was initiated and ending on the date a petition was initially submitted with respect to the product under the Federal Food, Drug, and Cosmetic Act requesting the issuance of a regulation for use of the product, and
 
 &emsp;&emsp;(ii) the period beginning on the date a petition was initially submitted with respect to the product under the Federal Food, Drug, and Cosmetic Act requesting the issuance of a regulation for use of the product, and ending on the date such regulation became effective or, if objections were filed to such regulation, ending on the date such objections were resolved and commercial marketing was permitted or, if commercial marketing was permitted and later revoked pending further proceedings as a result of such objections, ending on the date such proceedings were finally resolved and commercial marketing was permitted.
 
@@ -224,7 +224,7 @@
 
 #### References in Text
 
-The Virus-Serum-Toxin Act, referred to in subsecs. (d)(2)(A)(i), (B)(i), (f)(2)(B), (4)(C), and (g)(5)(B), (6)(C), isact Mar. 4, 1913, ch. 145, 37 Stat. 828, as amended, which is classified generally to chapter 5 (§151 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 151 of Title 21 and Tables.
+The Virus-Serum-Toxin Act, referred to in subsecs. (d)(2)(A)(i), (B)(i), (f)(2)(B), (4)(C), and (g)(5)(B), (6)(C), is act Mar. 4, 1913, ch. 145, 37 Stat. 828, as amended, which is classified generally to chapter 5 (§151 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 151 of Title 21 and Tables.
 
 The Federal Food, Drug, and Cosmetic Act, referred to in subsecs. (d)(2)(A)(ii), (B)(ii), (f), and (g)(2)(B), (3)(B)(ii), (6)(C), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended, which is classified generally to chapter 9 (§301 et seq.) of Title 21. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
 

@@ -36,7 +36,7 @@ The Director shall, by regulation, establish a risk-based capital test under thi
 
 #### (D) Different terms to maturity
 
-&emsp;&emsp;Yields of Treasury instruments with other terms to maturity will change relative to the 10-year constant maturity Treasury yield in patterns and for durations that are reasonably related to historical experience and are judged reasonable by the Director.
+&emsp;&emsp;Yields of Treasury instruments with other terms to maturity will change relative to the 10-year constant maturity Treasury yield in patterns and for durations that arereasonably related to historical experience and are judged reasonable by the Director.
 
 #### (E) Large increases in yields
 
@@ -50,7 +50,7 @@ The Director shall, by regulation, establish a risk-based capital test under thi
 
 #### (B) Additional new business
 
-&emsp;&emsp;The Director may, after consideration of each of the studies required by subparagraph\(C), assume that the enterprise conducts additional new business during the stress period consistent with the following—
+&emsp;&emsp;The Director may, after consideration of each of the studies required by subparagraph (C), assume that the enterprise conducts additional new business during the stress period consistent with the following—
 
 #### (i) Amount and product types
 

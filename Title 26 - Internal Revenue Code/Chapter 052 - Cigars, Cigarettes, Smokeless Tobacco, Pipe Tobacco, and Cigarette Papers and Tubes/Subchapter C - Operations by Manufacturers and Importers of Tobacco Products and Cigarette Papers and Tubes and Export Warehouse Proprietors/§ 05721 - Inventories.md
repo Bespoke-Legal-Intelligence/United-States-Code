@@ -2,7 +2,7 @@
 
 Every manufacturer of tobacco products or cigarette papers and tubes, and every export warehouse proprietor, shall make a true and accurate inventory at the time of commencing business, at the time of concluding business, and at such other times, in such manner and form, and to include such items, as the Secretary shall by regulation prescribe. Such inventories shall be subject to verification by any internal revenue officer.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 713; Sept. 2, 1958, Pub. L. 85–859, title II, §202, 72 Stat. 1422, Oct. 4,1976, Pub. L. 94–455, title XIX, §1906(b)(13)(A), 90 Stat. 1834.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 713; Sept. 2, 1958, Pub. L. 85–859, title II, §202, 72 Stat. 1422, Oct. 4, 1976, Pub. L. 94–455, title XIX, §1906(b)(13)(A), 90 Stat. 1834.)
 
 #### Amendments
 

@@ -8,43 +8,25 @@ The Secretary may approve a plan of action for extension of the low-income affor
 
 &emsp;(2) binding commitments have been made to ensure that—
 
-&emsp;&emsp;(A) the housing will be retained as housing affordable for very low-income families or persons, low-income families or persons, and moderate-income families or persons for theremaining useful life of such housing (as determined under subsection (c) of this section);
+&emsp;&emsp;(A) the housing will be retained as housing affordable for very low-income families or persons, low-income families or persons, and moderate-income families or persons for the remaining useful life of such housing (as determined under subsection (c) of this section);
 
 &emsp;&emsp;(B) throughout such period, adequate expenditures will be made for maintenance and operation of the housing and that the project meets housing standards established by the Secretary under subsection (d) of this section, as determined by inspections conducted under such subsection by the Secretary;
 
 &emsp;&emsp;(C) current tenants will not be involuntarily displaced (except for good cause);
 
-&emsp;&emsp;(D) monthly rent contributions by current and future tenants, including tenants receiving assistance under section 1437f of title 42, shall not exceed the lesser of—
-
-&emsp;&emsp;&emsp;(i) 30 percent of the adjusted income of the tenant; or
-
-&emsp;&emsp;&emsp;(ii) 90 percent of the actual rent paid for a comparable unit in comparable unassisted housing in the market area in which the eligible low-income housing is located;
-
-> &emsp;&emsp;except that the rent contributions of tenants (other than tenants receiving assistance under section 1437f of title 42) occupying the housing at the time of any increase may not be reduced under this subparagraph.<sup>2</sup>
+&emsp;&emsp;(D) any increase in rent contributions for current tenants will be to a level that does not exceed 30 percent of the adjusted income of the tenant or the published existing fair market rent for comparable housing established under section 1437f(c) of title 42, whichever is lower, except that the rent contributions of any tenants occupying the housing at the time of any increase may not be reduced by reason of this subparagraph (except with respect to tenants receivingsection 8 \[42 U.S.C. 1437f\] assistance in accordance with subparagraph (E)(ii) of this paragraph);
 
 &emsp;&emsp;(E)(i) any resulting increase in rents for current tenants (except for increases made necessary by increased operating costs)—
 
 &emsp;&emsp;&emsp;(I) shall be phased in equally over a period of not less than 3 years, if such increase is 30 percent or more; and
 
-&emsp;&emsp;&emsp;(II) shall be limited to not more than 10 percent per year if such increase is more than 10 percent but less than 30 percent;
+&emsp;&emsp;&emsp;(II) shall be limited to not more than 10 percent per year if such increase is more than 10 percent but less than 30 percent; and
 
-&emsp;&emsp;(ii) assistance under section 1437f of title 42 shall be provided, to the extent available under appropriation Acts, if necessary to mitigate any adverse effect on current income-eligible very low- and low-income tenants. For any section 8 \[42 U.S.C. 1437f\] assistance provided under this subchapter, whether through the extension of an existing contract or the provision of a new contract for assistance, the Secretary shall have the discretion to adjust contract rents within the limits established under section 4105 of this title, irrespective of the comparable rent requirements set forth in section 1437f(c) of title 42. Notwithstanding any provision of law to the contrary, any conflict pertaining to the computation of contract rents arising from differences between this subchapter and section 1437f of title 42 shall, subject to the prior approval of the Secretary, be resolved in favor of this subchapter; and
+&emsp;&emsp;(ii) assistance under section 1437f of title 42 shall be provided, to the extent available under appropriation Acts, if necessary to mitigate any adverse effect on current income-eligible very low- and low-income tenants; and <sup>2</sup>
 
-&emsp;&emsp;(iii)(I) to retain the tenant occupancy profile required by subparagraph (F)(i), tenants that are determined by the Secretary to be low-income tenants at initial income certification upon occupancy, or at the time of implementation of a plan of action (whichever occurs last), shall pay for rent an amount that is not less than the lesser of—
+&emsp;&emsp;(F)(i) rents for units becoming available to new tenants shall be at levels approved by the Secretary that will ensure, to the extent practicable, that the units will be available and affordable to the same proportions of very low-income families or persons, low-income families or persons, and moderate-income families or persons (including families or persons whose incomes are 95 percent or more of area median income) as resided in the housing as of January 1, 1987 (based on the area median income limits established by the Secretary in February 1987), or the date the plan of action is approved, whichever date results in the highest proportion of very low-income families, except that this limitation shall not prohibit a higher proportion of very low-income families from occupying the housing; and
 
-&emsp;&emsp;&emsp;(aa) 30 percent of 45 percent of median income for the area (as determined by the Secretary and adjusted for family size); or
-
-&emsp;&emsp;&emsp;(bb) 90 percent of the actual rent paid for a comparable unit in comparable unassisted housing in the market area in which the eligible low-income housing is located.
-
-> &emsp;&emsp;Subject to subclause (II), payment of this minimum rent shall be a condition of continued occupancy and eligibility for section 8 \[42 U.S.C. 1437f\] assistance.
-
-&emsp;&emsp;(II) Notwithstanding the rents required under subclause (I), a tenant who occupies a unit designated for occupancy by low-income persons and families, and who becomes a very low-income tenant, shall be provided with the next available unit designated for occupancy by very low-income persons and families, and, until such unit becomes available, shall pay for rent not more than the amount chargeable as rent under section 1437a(a) of title 42. Such tenant shall not be evicted for nonpayment of rent if the rent amounts set forth in this subclause are paid. The costs resulting from the difference between rents required under subclause (I) and the rents permitted under this subclause shall be incorporated into the section 8 \[42 U.S.C. 1437f\] contract for units designated for occupancy by low-income persons or families; and <sup>3</sup>
-
-&emsp;&emsp;(F)(i) to the extent practicable, the units becoming available to new tenants shall be available and affordable to the same proportions of very low-income families or persons, low-income families or persons, and moderate-income families or persons (including families or persons whose incomes are 95 percent or more of area median income) as resided in the housing as of January 1, 1987 (based on the area median income limits established by the Secretary in February 1987), or the date the plan of action is approved, whichever date results in the highest proportion of very low-income families, except that this limitation shall not prohibit a higher proportion of very low-income families from occupying the housing;
-
-&emsp;&emsp;(ii) in order to maintain the proportions of very low- and low-income families and persons required by clause (i), owners shall be required to apply any required Federal preference rules only with respect to tenants within each low- or very low-income category, in accordance with the approved tenant profile; and
-
-&emsp;&emsp;(iii) in approving rents under this paragraph, the Secretary shall take into account any additional incentives provided under this subchapter;
+&emsp;&emsp;(ii) in approving rents under this paragraph, the Secretary shall take into account any additional incentives provided under this subchapter;
 
 &emsp;&emsp;(G) future rent adjustments shall be—
 
@@ -64,7 +46,7 @@ Any agreement to maintain the low-income affordability restrictions for the rema
 
 #### (1) “Remaining useful life” defined
 
-&emsp;For purposes of this title,<sup>4</sup> the term “remaining useful life” means, with respect to eligible low-income housing, the period during which the physical characteristics of the housing remain in a condition suitable for occupancy, assuming normal maintenance and repairs are made and major systems and capital components are replaced as becomes necessary.
+&emsp;For purposes of this title,<sup>3</sup> the term “remaining useful life” means, with respect to eligible low-income housing, the period during which the physical characteristics of the housing remain in a condition suitable for occupancy, assuming normal maintenance and repairs are made and major systems and capital components are replaced as becomes necessary.
 
 #### (2) Standards
 
@@ -76,7 +58,7 @@ Any agreement to maintain the low-income affordability restrictions for the rema
 
 #### (4) Tenant and community comment and appeal
 
-&emsp;In making a determination regarding the useful life of any housing pursuant to a petition submitted under paragraph (3), the Secretary shall provide for comment by tenants of the housing and interested persons and organizations with respect to the petition. The Secretary shall also provide the tenants and interested persons and organizations with an opportunity to appeal a determination under this subsection.
+&emsp;In making a determination regarding the useful life of any housing pursuant to a petition submitted under paragraph (3), the Secretary shall provide for comment by tenants of the housing and interested persons and organizations with respect to the petition. TheSecretary shall also provide the tenants and interested persons and organizations with an opportunity to appeal a determination under this subsection.
 
 #### (d) Housing standards
 
@@ -90,7 +72,7 @@ Any agreement to maintain the low-income affordability restrictions for the rema
 
 &emsp;&emsp;The Secretary shall take any action appropriate to require the owner of any housing not in compliance with such standards to bring such housing into compliance with the standards, including—
 
-&emsp;&emsp;&emsp;(i) directing the mortgagee, with respect to an equity take-out loan under section 1715z–6(f) of this title, to withhold the disbursement to the owner of any escrowed loan proceeds and requiring that such proceeds be used for repair of the housing; and
+&emsp;&emsp;&emsp;(i) directing the mortgagee, with respect to an equity take-out loan under section 1715z–6(f) <sup>3</sup> of this title, to withhold the disbursement to the owner of any escrowed loan proceeds and requiring that such proceeds be used for repair of the housing; and
 
 &emsp;&emsp;&emsp;(ii) reduce the amount of the annual authorized return, as determined by the Secretary, for the period ending upon a determination by the Secretary that the project is in compliance with the standards and requiring that such amounts be used for repair.
 
@@ -104,7 +86,7 @@ Any agreement to maintain the low-income affordability restrictions for the rema
 
 &emsp;&emsp;&emsp;(i) Subject to availability of amounts provided in appropriations Acts, provide assistance under sections 1437f(b) and 1437f(<i>o</i>) of title 42 (other than project-based assistance attached to the housing) for any tenant eligible for such assistance who desires to terminate occupancy in the housing. For each unit in the housing vacated pursuant to the provision of assistance under this clause, the Secretary may, notwithstanding any other law or contract for assistance, cancel the provision of project-based assistance attached to the housing for 1 dwelling unit, if the housing is receiving such assistance.
 
-&emsp;&emsp;&emsp;(ii) In the case of housing for which an equity take-out loan has been made under section 1715z–6(f) of this title, declare such loan to be in default and accelerate the maturity date of the loan.
+&emsp;&emsp;&emsp;(ii) In the case of housing for which an equity take-out loan has been made under section 1715z–6(f) <sup>4</sup> of this title, declare such loan to be in default and accelerate the maturity date of the loan.
 
 &emsp;&emsp;&emsp;(iii) Declare any rehabilitation loan insured or provided by the Secretary (with respect to the housing) to be in default and accelerate the maturity date of the loan.
 
@@ -114,13 +96,11 @@ Any agreement to maintain the low-income affordability restrictions for the rema
 
 (Pub. L. 100–242, title II, §222, as added Pub. L. 101–625, title VI, §601(a), Nov. 28, 1990, 104 Stat. 4260; amended Pub. L. 102–550, title III, §§308, 317(a)(4), Oct. 28, 1992, 106 Stat. 3764, 3772; Pub. L. 103–327, title II, Sept. 28, 1994, 108 Stat. 2316.)
 
-#### Amendment of Section
-
-<i>For termination of amendment by title II of Pub. L. 103–327, see Effective and Termination Dates of 1994 Amendment note below.</i>
-
 #### References in Text
 
 This title, referred to in subsecs. (a)(1) and (c)(1), means title II of Pub. L. 100–242, as amended by Pub. L. 101–625, title VI, §601(a), Nov. 28, 1990, 104 Stat. 4249, known as the Low-Income Housing Preservation and Resident Homeownership Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of this title and Tables.
+
+Section 1715z–6(f) of this title, referred to in subsec. (d)(2)(A)(i), (C)(ii), was repealed by Pub. L. 104–204, title II, Sept. 26, 1996, 110 Stat. 2885.
 
 #### Codification
 
@@ -128,13 +108,29 @@ Amendment by Pub. L. 103–327 is based on section 601(a)–(d) of title VI of S
 
 #### Amendments
 
-1994—Subsec. (a)(2)(D). Pub. L. 103–327 temporarily amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “any increase in rent contributions for current tenants will be to a level that does not exceed 30 percent of the adjusted income of the tenant or the published existing fair market rent for comparable housing established under section 1437f(c) of title 42, whichever is lower, except that the rent contributions of any tenants occupying the housing at the time of any increase may not be reduced by reason of this subparagraph (except with respect to tenants receiving section 8 assistance in accordance with subparagraph (E)(ii) of this paragraph);”. See Effective and Termination Dates of 1994 Amendment note below.
+1994—Subsec. (a)(2)(D). Pub. L. 103–327 temporarily amended subpar. (D) to read as follows: “monthly rent contributions by current and future tenants, including tenants receiving assistance under section 1437f of title 42, shall not exceed the lesser of—
 
-Subsec. (a)(2)(E)(ii). Pub. L. 103–327, which directed the temporary amendment of par. (1)(E)(ii) by substituting a period for “; and” and inserting two sentences at end, was executed by making the amendments to par. (2)(E)(ii) to reflect the probable intent of Congress. See Effective and Termination Dates of 1994 Amendment note below.
+&emsp;“(i) 30 percent of the adjusted income of the tenant; or
 
-Subsec. (a)(2)(E)(iii). Pub. L. 103–327 temporarily added cl. (iii). See Effective and Termination Dates of 1994 Amendment note below.
+&emsp;“(ii) 90 percent of the actual rent paid for a comparable unit in comparable unassisted housing in the market area in which the eligible low-income housing is located;
 
-Subsec. (a)(2)(F). Pub. L. 103–327, which directed the temporary amendment of par. (1)(F) by substituting “to the extent practicable, the units becoming available to new tenants shall be” for “rents for units becoming available to new tenants shall be at levels approved by the Secretary that will ensure, to the extent practicable, that the units will be” in cl. (i), adding cl. (ii), and redesignating former cl. (ii) as (iii), was executed by making the amendments to par. (2)(F) to reflect the probable intent of Congress. See Effective and Termination Dates of 1994 Amendment note below.
+> except that the rent contributions of tenants (other than tenants receiving assistance under section 1437f of title 42) occupying the housing at the time of any increase may not be reduced under this subparagraph.” See Effective and Termination Dates of 1994 Amendment note below.
+
+Subsec. (a)(2)(E)(ii). Pub. L. 103–327, which directed the temporary amendment of par. (1)(E)(ii) by substituting a period for “; and” and inserting at end “For any section 8 assistance provided under this subchapter, whether through the extension of an existing contract or the provision of a new contract for assistance, the Secretary shall have the discretion to adjust contract rents within the limits established under section 4105 of this title, irrespective of the comparable rent requirements set forth in section 1437f(c) of title 42. Notwithstanding any provision of law to the contrary, any conflict pertaining to the computation of contract rents arising from differences between this subchapter and section 1437f of title 42 shall, subject to the prior approval of the Secretary, be resolved in favor of this subchapter; and”, was executed by making the amendments to par. (2)(E)(ii) to reflect the probable intent of Congress. See Effective and Termination Dates of 1994 Amendment note below.
+
+Subsec. (a)(2)(E)(iii). Pub. L. 103–327 temporarily added cl. (iii) which read as follows:
+
+“(iii)(I) to retain the tenant occupancy profile required by subparagraph (F)(i), tenants that are determined by the Secretary to be low-income tenants at initial income certification upon occupancy, or at the time of implementation of a plan of action (whichever occurs last), shall pay for rent an amount that is not less than the lesser of—
+
+&emsp;“(aa) 30 percent of 45 percent of median income for the area (as determined by the Secretary and adjusted for family size); or
+
+&emsp;“(bb) 90 percent of the actual rent paid for a comparable unit in comparable unassisted housing in the market area in which the eligible low-income housing is located.
+
+> Subject to subclause (II), payment of this minimum rent shall be a condition of continued occupancy and eligibility for section 8 assistance.
+
+“(II) Notwithstanding the rents required under subclause (I), a tenant who occupies a unit designated for occupancy by low-income persons and families, and who becomes a very low-income tenant, shall be provided with the next available unit designated for occupancy by very low-income persons and families, and, until such unit becomes available, shall pay for rent not more than the amount chargeable as rent under section 1437a(a) of title 42. Such tenant shall not be evicted for nonpayment of rent if the rent amounts set forth in this subclause are paid. The costs resulting from the difference between rents required under subclause (I) and the rents permitted under this subclause shall be incorporated into the section 8 contract for units designated for occupancy by low-income persons or families; and”. See Effective and Termination Dates of 1994 Amendment note below.
+
+Subsec. (a)(2)(F). Pub. L. 103–327, which directed the temporary amendment of par. (1)(F) by substituting “to the extent practicable, the units becoming available to new tenants shall be” for “rents for units becoming available to new tenants shall be at levels approved by the Secretary that will ensure, to the extent practicable, that the units will be” in cl. (i), adding cl. (ii), and redesignating former cl. (ii) as (iii), was executed by making the amendments to par. (2)(F) to reflect the probable intent of Congress. Cl. (ii) read as follows: “in order to maintain the proportions of very low- and low-income families and persons required by clause (i), owners shall be required to apply any required Federal preference rules only with respect to tenants within each low- or very low-income category, in accordance with the approved tenant profile; and”. See Effective and Termination Dates of 1994 Amendment note below.
 
 1992—Subsec. (a)(2)(A). Pub. L. 102–550, §317(a)(4)(A), substituted “low-income” for “low income” after “families or persons,”.
 
@@ -166,13 +162,13 @@ Exception.—If an owner of eligible low-income housing has a plan of action tha
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1715z–6, 4109, 4110, 4114, 4116, 4121, 4125 of this title.
+This section is referred to in sections 4109, 4110, 4114, 4116, 4121, 4125 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
-<i><sup>2</sup></i><i> So in original. The period probably should be a semicolon.</i>
+<i><sup>2</sup></i><i> So in original. Word “and” probably should not appear.</i>
 
-<i><sup>3</sup></i><i> So in original. Word “and” probably should not appear.</i>
+<i><sup>3</sup></i><i> See References in Text note below.</i>
 
 <i><sup>4</sup></i><i> See References in Text note below.</i>
 

@@ -1,13 +1,13 @@
 
-48 U.S.C.<br>United States Code, 1995 Edition<br>Title 48 - TERRITORIES AND INSULAR POSSESSIONS<br>From the U.S. Government Publishing Office, www.gpo.gov
+48 U.S.C.<br>United States Code, 1996 Edition<br>Title 48 - TERRITORIES AND INSULAR POSSESSIONS<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 48—TERRITORIES AND INSULAR POSSESSIONS
 
 | Chap. |  | Sec. |
 | :--- | :---: | ---: |
 | [<b>1.</b>](Chapter%20001%20-%20Bureau%20of%20Insular%20Affairs/README.md) | <b>Bureau of Insular Affairs \[Omitted or Repealed\]</b> | <b>1</b> |
-| [<b>2.</b>](Chapter%20002%20-%20Alaska/README.md) | <b>Alaska</b> | <b>21</b> |
-| [<b>3.</b>](Chapter%20003%20-%20Hawaii/README.md) | <b>Hawaii</b> | <b>491</b> |
+| <b>2.</b> | <b>Alaska</b> | <b>21</b> |
+| <b>3.</b> | <b>Hawaii</b> | <b>491</b> |
 | [<b>4.</b>](Chapter%20004%20-%20Puerto%20Rico/README.md) | <b>Puerto Rico</b> | <b>731</b> |
 | [<b>5.</b>](Chapter%20005%20-%20Philippine%20Islands/README.md) | <b>Philippine Islands \[Omitted, Repealed, or Transferred\]</b> | <b>1001</b> |
 | [<b>6.</b>](Chapter%20006%20-%20Canal%20Zone/README.md) | <b>Canal Zone \[Omitted, Repealed, or Transferred\]</b> | <b>1301</b> |

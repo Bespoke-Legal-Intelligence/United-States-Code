@@ -6,7 +6,7 @@ The Assistance Board shall assist an institution that has been certified under s
 
 &emsp;(1) authorizing the institution to issue preferred stock under section 2278b–7 of this title, in amounts necessary to maintain the book value of stock, participation certificates, and other similar equities of the institution, at the level provided for in subsection (c) of this section;
 
-&emsp;(2) in the case of high-cost debt for which the institution is primarily liable, authorizing the institution to issue preferred stock under section 2278b–7 of this title, in an amount equal to the premium that would be requiredby the holder of the debt for the institution to retire the debt at the then current market value;
+&emsp;(2) in the case of high-cost debt for which the institution is primarily liable, authorizing the institution to issue preferred stock under section 2278b–7 of this title, in an amount equal to the premium that would be required by the holder of the debt for the institution to retire the debt at the then current market value;
 
 &emsp;(3) on a request by the institution, authorizing the issuance of preferred stock under section 2278b–7 of this title to facilitate the merger of the requesting institution with one or more other System institutions; or
 

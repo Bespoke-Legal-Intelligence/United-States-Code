@@ -1,4 +1,4 @@
-### §3592 . Mitigating and aggravating factors to be considered in determining whether a sentence of death is justified
+### §3592. Mitigating and aggravating factors to be considered in determining whether a sentence of death is justified
 
 (a)
 
@@ -60,7 +60,7 @@ Aggravating Factors for Homicide.—In determining whether a sentence of death i
 
 &emsp;(1)
 
-Death during commission of another crime.—The death, or injury resulting in death, occurred during the commission or attempted commission of, or during the immediate flight from the commission of, an offense under section 32 (destruction of aircraft or aircraft facilities), section 33 (destruction of motor vehicles or motor vehicle facilities), section 36 <sup>1</sup> (violence at international airports), section 351 (violence against Members of Congress, Cabinet officers, or Supreme Court Justices), an offense under section 751 (prisoners in custody of institution or officer), section 794 (gathering or delivering defense information to aid foreign government), section 844(d) (transportation of explosives in interstate commerce for certain purposes), section 844(f) (destruction of Government property by explosives), section 1118 <sup>2</sup> (prisoners serving life term), section 1201 (kidnapping), section 844(i) (destruction of property affecting interstate commerce by explosives), section 1116 (killing or attempted killing of diplomats), section 1203 (hostage taking), section 1992 (wrecking trains), section 2280 (maritime violence), section 2281 (maritime platform violence), section 2332 (terrorist acts abroad against United States nationals), section 2339 <sup>3</sup> (use of weapons of mass destruction), or section 2381 (treason) of this title, or section 46502 of title 49, United States Code (aircraft piracy).
+Death during commission of another crime.—The death, or injury resulting in death, occurred during the commission or attempted commission of, or during the immediate flight from the commission of, an offense under section 32 (destruction of aircraft or aircraft facilities), section 33 (destruction of motor vehicles or motor vehicle facilities), section 36 <sup>1</sup> (violence at international airports), section 351 (violence against Members of Congress, Cabinet officers, or Supreme Court Justices), an offense under section 751 (prisoners in custody of institution or officer), section 794 (gathering or delivering defense information to aid foreign government), section 844(d) (transportation of explosives in interstate commerce for certain purposes), section 844(f) (destruction of Government property by explosives), section 1118 (prisoners serving life term), section 1201 (kidnapping), section 844(i) (destruction of property affecting interstate commerce by explosives), section 1116 (killing or attempted killing of diplomats), section 1203 (hostage taking), section 1992 (wrecking trains), section 2280 (maritime violence), section 2281 (maritime platform violence), section 2332 (terrorist acts abroad against United States nationals), section 2332a (use of weapons of mass destruction), or section 2381 (treason) of this title, or section 46502 of title 49, United States Code (aircraft piracy).
 
 &emsp;(2)
 
@@ -76,7 +76,7 @@ Previous conviction of other serious offenses.—The defendant has previously be
 
 &emsp;(5)
 
-Grave risk of death to additional persons.—The defendant, in the commission of the offense, or in escaping apprehension for the violation of the offense, knowingly created a grave risk of death to 1 or more persons in addition to the victim of the offense.
+Grave risk of death to additional persons.—The defendant, in the commission ofthe offense, or in escaping apprehension for the violation of the offense, knowingly created a grave risk of death to 1 or more persons in addition to the victim of the offense.
 
 &emsp;(6)
 
@@ -96,7 +96,7 @@ Substantial planning and premeditation.—The defendant committed the offense af
 
 &emsp;(10)
 
-Conviction for two felony drug offenses.—The defendant has previously been convicted of 2 or more State or Federal offenses punishable by a term of imprisonmentof more than one year, committed on different occasions, involving the distribution of a controlled substance.
+Conviction for two felony drug offenses.—The defendant has previously been convicted of 2 or more State or Federal offenses punishable by a term of imprisonment of more than one year, committed on different occasions, involving the distribution of a controlled substance.
 
 &emsp;(11)
 
@@ -104,7 +104,7 @@ Vulnerability of victim.—The victim was particularly vulnerable due to old age
 
 &emsp;(12)
 
-Conviction for serious federal drug offenses.—The defendant had previously been convicted of violating title II or III of the Controlled Substances Act for which a sentence of 5 or more years may be imposed or had previously been convicted of engaging in a continuing criminal enterprise.
+Conviction for serious federal drug offenses.—The defendant had previously been convicted of violating title II or III of the Comprehensive Drug Abuse Prevention and Control Act of 1970 for which a sentence of 5 or more years may be imposed or had previously been convicted of engaging in a continuing criminal enterprise.
 
 &emsp;(13)
 
@@ -134,6 +134,10 @@ High public officials.—The defendant committed the offense against—
 
 Prior conviction of sexual assault or child molestation.—In the case of an offense under chapter 109A (sexual abuse) or chapter 110 (sexual abuse of children), the defendant has previously been convicted of a crime of sexual assault or crime of child molestation.
 
+&emsp;(16)
+
+Multiple killings or attempted killings.—The defendant intentionally killed or attempted to kill more than one person in a single criminal episode.
+
 > The jury, or if there is no jury, the court, may consider whether any other aggravating factor for which notice has been given exists.
 
 (d)
@@ -158,7 +162,7 @@ Use of firearm.—In committing the offense, or in furtherance of a continuing c
 
 &emsp;(5)
 
-Distribution to persons under 21.—The offense, or a continuing criminal enterprise of which the offense was a part, involved conduct proscribed by section 418 of the Controlled Substances Act (21 U.S.C. 859) which was committed directly by the defendant.
+Distribution to persons under 21.—The offense, or a continuing criminal enterprise of which the offense was a part, involved conductproscribed by section 418 of the Controlled Substances Act (21 U.S.C. 859) which was committed directly by the defendant.
 
 &emsp;(6)
 
@@ -174,25 +178,29 @@ Lethal adulterant.—The offense involved the importation, manufacture, or distr
 
 > The jury, or if there is no jury, the court, may consider whether any other aggravating factor for which notice has been given exists.
 
-(Added and amended Pub. L. 103–322, title VI, §60002(a), title XXXIII, §330021(1), Sept. 13, 1994, 108 Stat. 1960, 2150.)
+(Added and amended Pub. L. 103–322, title VI, §60002(a), title XXXIII, §330021(1), Sept. 13, 1994, 108 Stat. 1960, 2150; Pub. L. 104–132, title VII, §728, Apr. 24, 1996, 110 Stat. 1302; Pub. L. 104–294, title VI, §§601(b)(7), 604(b)(35), Oct. 11, 1996, 110 Stat. 3499, 3508.)
 
 #### References in Text
 
-Section 1118, referred to in subsec. (c)(1), probably means the section 1118 of this title added by section 60005(a) of Pub. L. 103–322.
-
-The Controlled Substances Act, referred to in subsec. (c)(12), probably means the Comprehensive Drug Abuse Prevention and Control Act of 1970, Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1236, as amended. Title II of the Act, known as the Controlled Substances Act, is classified principally to subchapter I (§801 et seq.) of chapter 13 of Title 21, Food and Drugs. Title III of the Act, known as the Controlled Substances Import and Export Act, is classified principally to subchapter II (§951 et seq.) of chapter 13 of Title 21. For complete classification of this Act to the Code, see Short Title note set out under sections 801 and 951 of Title 21 and Tables.
+The Comprehensive Drug Abuse Prevention and Control Act of 1970, referred to in subsec. (c)(12), is Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1236, as amended. Title II of the Act, known as the Controlled Substances Act, is classified principally to subchapter I (§801 et seq.) of chapter 13 of Title 21, Food and Drugs. Title III of the Act, known as the Controlled Substances Import and Export Act, is classified principally to subchapter II (§951 et seq.) of chapter 13 of Title 21. For complete classification of this Act to the Code, see Short Title note set out under sections 801 and 951 of Title 21 and Tables.
 
 #### Amendments
 
+1996—Subsec. (c)(1). Pub. L. 104–294, §601(b)(7), substituted “section 2332a (use of weapons of mass destruction)” for “section 2339 (use of weapons of mass destruction)”.
+
+Subsec. (c)(12). Pub. L. 104–294, §604(b)(35), substituted “Comprehensive Drug Abuse Prevention and Control Act of 1970” for “Controlled Substances Act”.
+
+Subsec. (c)(16). Pub. L. 104–132 added par. (16).
+
 1994—Subsec. (c)(1). Pub. L. 103–322, §330021(1), substituted “kidnapping” for “kidnaping”.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by section 604(b)(35) of Pub. L. 104–294 effective Sept. 13, 1994, see section 604(d) of Pub. L. 104–294, set out as a note under section 13 of this title.
 
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 3591, 3593, 3595 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be section “37”.</i>
-
-<i><sup>2</sup></i><i> See References in Text note below.</i>
-
-<i><sup>3</sup></i><i> So in original. Probably should be section “2332a”.</i>
 

@@ -1,6 +1,6 @@
 ### §§879 to 886. Repealed. Pub. L. 97–300, title I, §184(a)(1), Oct. 13, 1982, 96 Stat. 1357
 
-Section 879, Pub. L. 93–203, title III, §311, as added Pub. L. 95–524, §2, Oct. 27, 1978, 92 Stat. 1968; amended Pub. L. 96–88, title V, §508(h)(4), Oct. 17, 1979, 93 Stat. 693; Pub. L. 96–583, §3(c), Dec. 23, 1980, 94 Stat. 3376, related to establishment of various employment and training research programs.
+Section 879, Pub. L. 93–203, title III, §311, as added Pub. L. 95–524, §2, Oct. 27, 1978, 92 Stat. 1968; amendedPub. L. 96–88, title V, §508(h)(4), Oct. 17, 1979, 93 Stat. 693; Pub. L. 96–583, §3(c), Dec. 23, 1980, 94 Stat. 3376, related to establishment of various employment and training research programs.
 
 A prior section 311 of Pub. L. 93–203, title III, Dec. 28, 1973, 87 Stat. 860; Pub. L. 94–444, §10, Oct. 1, 1976, 90 Stat. 1483, which related to establishment of a comprehensive program of manpower research, was classified to former section 881 of this title prior to the general revision of Pub. L. 93–203 by Pub. L. 95–524.
 
@@ -34,7 +34,7 @@ A prior section 884, Pub. L. 93–203, title III, §314, Dec. 28, 1973, 87 Stat.
 
 Section 885, Pub. L. 93–203, title III, §317, as added Pub. L. 95–524, §2, Oct. 27, 1978, 92 Stat. 1973, related to voucher demonstration projects.
 
-A prior section 885, Pub. L. 93–203, title III, §315, Dec. 28, 1973, 87 Stat. 863, related to training and technicalassistance, prior to the general revision of Pub. L. 93–203 by Pub. L. 95–524.
+A prior section 885, Pub. L. 93–203, title III, §315, Dec. 28, 1973, 87 Stat. 863, related to training and technical assistance, prior to the general revision of Pub. L. 93–203 by Pub. L. 95–524.
 
 Section 886, Pub. L. 93–203, title III, §318, as added Pub. L. 95–524, §2, Oct. 27, 1978, 92 Stat. 1974, related to employment and training activities to stimulate local private economic development.
 

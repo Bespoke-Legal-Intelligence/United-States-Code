@@ -14,5 +14,5 @@ Section 1469c, act July 15, 1949, ch. 338, title I, §134, as added Aug. 1, 1968
 
 #### Neighborhood Development Programs by District of Columbia Redevelopment Land Agency
 
-Pub. L. 90–448, title V, §501(c), Aug. 1, 1968, 82 Stat. 520, provided that notwithstanding any requirement or condition to the contrary in section 6 or 20(i) of the District of Columbia Redevelopment Act of 1945 (act Aug. 2, 1946, ch. 736, 60 Stat. 790, as amended), or any other law, the District of Columbia Redevelopment Land Agency was authorized to plan and undertake neighborhood development programs under this part, which programs would be regarded as complying with sections 6 and 20(i) of that Act and any other provision of law, if those programs were in compliance with this part.
+Pub. L. 90–448, title V, §501(c), Aug. 1, 1968, 82 Stat. 520, provided that notwithstanding any requirement orcondition to the contrary in section 6 or 20(i) of the District of Columbia Redevelopment Act of 1945 (act Aug. 2, 1946, ch. 736, 60 Stat. 790, as amended), or any other law, the District of Columbia Redevelopment Land Agency was authorized to plan and undertake neighborhood development programs under this part, which programs would be regarded as complying with sections 6 and 20(i) of that Act and any other provision of law, if those programs were in compliance with this part.
 

@@ -50,13 +50,13 @@
 
 &emsp;&emsp;(C) a member of the Honorary Reserve of the Officers’ Reserve Corps or the Organized Reserve Corps.
 
-> Except for any period of active service described in clause (1) and except as provided by subsections (b), (c), and (d) of section 1402 and subsections (b), (c), and (d) of section 1402a of title 10, a period of service described in clauses (2) through (7) that is performed while on a retired list, in a retired status, or in the Fleet Reserve or Fleet Marine Corps Reserve, may not be included to increase retired pay, retirement pay, or retainer pay. For the purpose of clause (5), periods during which a member was a deck officer or junior engineer in the National Oceanic and Atmospheric Administration includes periods during which a member was a deck officer or junior engineer in the Environmental Science Services Administration or the Coast and Geodetic Survey.
+> Except for any period of active service described in clause (1) and except as provided by subsections (b), (c), and (d) of section 1402 and subsections (b), (c), and (d) of section 1402a of title10, a period of service described in clauses (2) through (7) that is performed while on a retired list, in a retired status, or in the Fleet Reserve or Fleet Marine Corps Reserve, may not be included to increase retired pay, retirement pay, or retainer pay. For the purpose of clause (5), periods during which a member was a deck officer or junior engineer in the National Oceanic and Atmospheric Administration includes periods during which a member was a deck officer or junior engineer in the Environmental Science Services Administration or the Coast and Geodetic Survey.
 
 (b) A period of time may not be counted more than once under subsection (a).
 
 (c) The periods of service authorized to be counted under subsection (a) shall, under regulations prescribed by the Secretary concerned, include service performed by a member of a uniformed service before he became 18 years of age.
 
-(d) Notwithstanding subsection (a), a commissioned officer may not count in computing basic pay a period of service after October 13, 1964, that the officer performed concurrently as a member of the Senior Reserve Officers’ Training Corps, except that service after July 31, 1990, that the officer performed while serving on active duty other than for training as an enlisted member of the Selected Reserve may be so counted.
+(d) Notwithstanding subsection (a), a commissioned officer may not count in computing basic pay a period of service after October 13, 1964, that the officer performed concurrently as a member of the Senior Reserve Officers’ Training Corps, except for service that the officer performed on or after August 1, 1979.<sup>1</sup> other than for training as an enlisted member of the Selected Reserve may be so counted.
 
 (e)(1) Notwithstanding subsection (a), a period of service described in paragraph (2) of a member who enlists in a reserve component may not be counted under this section.
 
@@ -66,7 +66,7 @@
 
 &emsp;(B) Service performed while a member of a reserve component under an enlistment under section 513 of title 10 (other than a period of active duty to which the member is ordered under chapter 1209 of title 10 or another provision of law).
 
-(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 458; Pub. L. 88–647, title II, §202(1), Oct. 13, 1964, 78 Stat. 1070; Pub. L. 89–718, §49(a)(1), (b), Nov. 2, 1966, 80 Stat. 1121; Pub. L. 90–623, §3(3), Oct. 22, 1968, 82 Stat. 1314; Pub. L. 93–545, §2, Dec. 26, 1974, 88 Stat. 1741; Pub. L. 96–342, title VIII, §813(b)(3)(D), Sept. 8, 1980, 94 Stat. 1104; Pub. L. 96–513, title IV, §402, title V, §516(3), Dec. 12, 1980, 94 Stat. 2904, 2937; Pub. L. 98–525, title VI, §607(a), Oct. 19, 1984, 98 Stat. 2538; Pub. L. 101–189, div. A, title V, §501(c), Nov. 29, 1989, 103 Stat. 1435; Pub. L. 102–25, title VII, §702(b)(1), (2), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–484, div. A, title V, §517(b), Oct. 23, 1992, 106 Stat. 2407; Pub. L. 103–35, title II, §204(a)(1), May 31, 1993, 107 Stat. 102; Pub. L. 103–337, div. A, title XVI, §1676(b)(2), Oct. 5, 1994, 108 Stat. 3019.)
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 458; Pub. L. 88–647, title II, §202(1), Oct. 13, 1964, 78 Stat. 1070; Pub. L. 89–718, §49(a)(1), (b), Nov. 2, 1966, 80 Stat. 1121; Pub. L. 90–623, §3(3), Oct. 22, 1968, 82 Stat. 1314; Pub. L. 93–545, §2, Dec. 26, 1974, 88 Stat. 1741; Pub. L. 96–342, title VIII, §813(b)(3)(D), Sept. 8, 1980, 94 Stat. 1104; Pub. L. 96–513, title IV, §402, title V, §516(3), Dec. 12, 1980, 94 Stat. 2904, 2937; Pub. L. 98–525, title VI, §607(a), Oct. 19, 1984, 98 Stat. 2538; Pub. L. 101–189, div. A, title V, §501(c), Nov. 29, 1989, 103 Stat. 1435; Pub. L. 102–25, title VII, §702(b)(1), (2), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–484, div. A, title V, §517(b), Oct. 23, 1992, 106 Stat. 2407; Pub. L. 103–35, title II, §204(a)(1), May 31, 1993, 107 Stat. 102; Pub. L. 103–337, div. A, title XVI, §1676(b)(2), Oct. 5, 1994, 108 Stat. 3019; Pub. L. 104–201, div. A, title V, §507(b), Sept. 23, 1996, 110 Stat. 2512.)
 
 Historical and Revision Notes
 
@@ -106,6 +106,8 @@ In subsection (c)(3), the words “chapter 67 of title 10” are substituted for
 
 #### Amendments
 
+1996—Subsec. (d). Pub. L. 104–201 substituted “for service that the officer performed on or after August 1, 1979.” for “that service after July 31, 1990, that the officer performed while serving on active duty”.
+
 1994—Subsec. (e)(2)(A). Pub. L. 103–337, §1676(b)(2)(A), substituted “12103(b) or 12103(d)” for “511(b) or 511(d)”.
 
 Subsec. (e)(2)(B). Pub. L. 103–337, §1676(b)(2)(B), substituted “chapter 1209” for “chapter 39”.
@@ -126,7 +128,7 @@ Subsec. (e)(2)(B). Pub. L. 103–337, §1676(b)(2)(B), substituted “chapter 12
 
 1984—Subsec. (e). Pub. L. 98–525 added subsec. (e).
 
-1980—Subsec. (a). Pub. L. 96–513, §402(a), struck out in introductory text reference to subsec. (d) of this section, struck out cls. (7) and (8), which provided for the addition of four years for medical and dental officers and one year in addition to the four years for a medical officer who has completed one year of medical internship or the equivalent, respectively, redesignated cl. (9) as (7), and in text following cl. (7), as so redesignated, substituted “subsections (b), (c), and (d) of section 1402 and subsections (b), (c), and (d) of section 1402a” for“section 1402(b)–(d) and section 1402a(a)–(d)”, and “clauses (2) through (7)” for “clauses (2)–(9)”.
+1980—Subsec. (a). Pub. L. 96–513, §402(a), struck out in introductory text reference to subsec. (d) of this section, struck out cls. (7) and (8), which provided for the addition of four years for medical and dental officers and one year in addition to the four years for a medical officer who has completed one year of medical internship or the equivalent, respectively, redesignated cl. (9) as (7), and in text following cl. (7), as so redesignated, substituted “subsections (b), (c), and (d) of section 1402 and subsections (b), (c), and (d) of section 1402a” for “section 1402(b)–(d) and section 1402a(a)–(d)”, and “clauses (2) through (7)” for “clauses (2)–(9)”.
 
 Pub. L. 96–513, §516(3), substituted in cl. (5) “National Oceanic and Atmospheric Administration” for “Environmental Science Service Administration” and in provision following cl. (9) substituted “National Oceanic and Atmospheric Administration” for “Environmental Science Service Administration” and inserted “Environmental Science Service Administration” before “Coast and Geodetic Survey”.
 
@@ -162,6 +164,10 @@ Amendment by section 516(3) of Pub. L. 96–513 effective Dec. 12, 1980, see sec
 
 Amendment by Pub. L. 90–623 intended to restate without substantive change the law in effect on Oct. 22, 1968, see section 6 of Pub. L. 90–623, set out as a note under section 5334 of Title 5, Government Organization and Employees.
 
+#### Benefits Not To Accrue for Periods Prior to September 23, 1996
+
+No increase in pay or retired or retainer pay to accrue for periods before Sept. 23, 1996, by reason of amendments made by section 507 of Pub. L. 104–201, see section 507(c) of Pub. L. 104–201, set out as a note under section 2106 of Title 10, Armed Forces.
+
 #### Transition Provisions Under Defense Officer Personnel Management Act
 
 For provisions to prevent extinction or premature termination of rights, duties, penalties, or proceedings that existed or were begun prior to the effective date of Pub. L. 96–513, and otherwise to allow for an orderly transition to the system of officer personnel management put in place under Pub. L. 96–513, see section 601 et seq. (particularly §625) of Pub. L. 96–513, set out as a note under section 611 of Title 10, Armed Forces.
@@ -170,7 +176,9 @@ For provisions to prevent extinction or premature termination of rights, duties,
 
 Years of service, computation of, see section 1405 of Title 10, Armed Forces.
 
-#### Section Referred to in Other Sections
+Section Referred to in Other Sections
 
-This section is referred to in sections 201, 203, 301a, 301c, 308, 406 of this title; title 10 section 2126; title 42 section 212.
+This section is referred to in sections 201, 203, 301a, 301c, 308, 406 of this title; title 10 sections 972, 2126; title 42 section 212.
+
+<i><sup>1</sup></i><i> So in original. The period probably should be a comma.</i>
 

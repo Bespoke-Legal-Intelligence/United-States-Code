@@ -8,7 +8,7 @@
 
 #### (2) Certain transfers at death
 
-&emsp;If property is transferred in a taxable termination which occurs at the same time as and as a result of the death of an individual, the basis of such property shall be adjusted in a manner similar to the manner provided under section 1014(a); except that, if the inclusion ratio with respect to such property is less than 1, any increase or decrease in basis shall be limited by multiplying such increase or decrease (as the case may be) by the inclusion ratio.
+&emsp;If property is transferred in a taxable termination which occurs at the same time as and as a result of the death of an individual, the basis of such property shall be adjusted in a manner similar to the manner provided undersection 1014(a); except that, if the inclusion ratio with respect to such property is less than 1, any increase or decrease in basis shall be limited by multiplying such increase or decrease (as the case may be) by the inclusion ratio.
 
 #### (b) Certain trusts treated as separate trusts
 

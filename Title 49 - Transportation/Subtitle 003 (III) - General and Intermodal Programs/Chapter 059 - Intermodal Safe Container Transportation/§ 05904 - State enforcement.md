@@ -16,7 +16,9 @@ Limitation.—This chapter does not require a person tendering a loaded containe
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -33,8 +35,4 @@ Historical and Revision Notes
 In subsection (a)(1), the words “false” and “written” are omitted as surplus and for consistency with section 5903(a) of the revised title.
 
 In subsection (b), the words “does not require” are substituted for “shall not be construed as creating any obligation or responsibility for” to eliminate unnecessary words. The words “State highway weight law or regulation” are substituted for “State statutes or regulations prescribing weight limitations for highway transportation” for consistency with subsection (a) of this section and to eliminate unnecessary words.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5906 of this title.
 

@@ -28,7 +28,7 @@
 
 &emsp;(13) the early development and export of solar photovoltaic energy systems, consistent with the established preeminence of the United States in the field of high technology products, can make a valuable contribution to the well-being of the people of other nations and to this Nation's balance of trade;
 
-&emsp;(14) the widespread use of solar photovoltaic energy systems to supplement and replace conventional methods for the generation ofelectricity would have a beneficial effect upon the environment;
+&emsp;(14) the widespread use of solar photovoltaic energy systems to supplement and replace conventional methods for the generation of electricity would have a beneficial effect upon the environment;
 
 &emsp;(15) to increase the potential application of solar photovoltaic energy systems in remote locations, and to minimize the need for backup systems depending on fossil fuel, programs leading to the development of inexpensive and reliable systems for the storage of electricity should be pursued as part of any solar photovoltaic energy research, development, and demonstration program;
 
@@ -36,7 +36,7 @@
 
 &emsp;(17) commercial application of solar photovoltaic energy technologies can be expedited by early commercial demonstration under practical conditions;
 
-&emsp;(18) photovoltaic energy systems are currently adaptable on a life cycle, cost-justified basis for certain of the energy needs of the Federal Government, and will find additional applications as continued refinements improve performance and reduce unit costs;
+&emsp;(18) photovoltaic energy systems are currently adaptable on a life cycle, cost-justifiedbasis for certain of the energy needs of the Federal Government, and will find additional applications as continued refinements improve performance and reduce unit costs;
 
 &emsp;(19) the Federal Government can stimulate innovation and economic efficiency in the production of photovoltaic energy systems through the development and implementation of policies to promote diversity and maximum competition between firms engaged in the research, manufacture, installation, and/or maintenance of these systems;
 

@@ -8,7 +8,7 @@ The Secretary may make grants to, or enter into contracts or cooperative agreeme
 
 &emsp;(2) assist in developing, identifying, and replicating successful programs and practices which will improve special education and related services to children and youth with disabilities and their families and early intervention services to infants and toddlers with disabilities and their families,
 
-&emsp;(3) gather and disseminate information to all State educational agencies within the region and coordinate activities with other centers assisted under this subsection and other relevant programs and projects conducted under this subchapter and subchapters IV throughVII of this chapter and by the Department of Education,
+&emsp;(3) gather and disseminate information to all State educational agencies within the region and coordinate activities with other centers assisted under this subsection and other relevant programs and projects conducted under this subchapter and subchapters IV through VII of this chapter and by the Department of Education,
 
 &emsp;(4) assist in the improvement of information dissemination to and training activities for professionals and parents of infants, toddlers, children, and youth with disabilities, and
 

@@ -11,10 +11,13 @@
 | [1127\.](%C2%A7%2001127%20-%20Precedence%20of%20the%20award%20of%20the%20Purple%20Heart.md) | Precedence of the award of the Purple Heart. |
 | [1128\.](%C2%A7%2001128%20-%20Prisoner-of-war%20medal%20issue.md) | Prisoner-of-war medal: issue. |
 | [1129\.](%C2%A7%2001129%20-%20Purple%20Heart%20members%20killed%20or%20wounded%20in%20action%20by%20friendly%20fire.md) | Purple Heart: members killed or wounded in action by friendly fire. |
+| [1130\.](%C2%A7%2001130%20-%20Consideration%20of%20proposals%20for%20decorations%20not%20previously%20submitted%20in%20timely%20fashion%20procedures%20for%20review%20and%20recommendation.md) | Consideration of proposals for decorations not previously submitted in timely fashion: procedures for review and recommendation. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1996—Pub. L. 104–106, div. A, title V, §526(b), Feb. 10, 1996, 110 Stat. 314, added item 1130.
 
 1993—Pub. L. 103–160, div. A, title XI, §1141(b), Nov. 30, 1993, 107 Stat. 1757, added item 1129.
 
@@ -194,3 +197,4 @@ Particular provisions relating to—
 - [&sect; 01127 - Precedence of the award of the Purple Heart](%C2%A7%2001127%20-%20Precedence%20of%20the%20award%20of%20the%20Purple%20Heart.md)
 - [&sect; 01128 - Prisoner-of-war medal issue](%C2%A7%2001128%20-%20Prisoner-of-war%20medal%20issue.md)
 - [&sect; 01129 - Purple Heart members killed or wounded in action by friendly fire](%C2%A7%2001129%20-%20Purple%20Heart%20members%20killed%20or%20wounded%20in%20action%20by%20friendly%20fire.md)
+- [&sect; 01130 - Consideration of proposals for decorations not previously submitted in timely fashion procedures for review and recommendation](%C2%A7%2001130%20-%20Consideration%20of%20proposals%20for%20decorations%20not%20previously%20submitted%20in%20timely%20fashion%20procedures%20for%20review%20and%20recommendation.md)

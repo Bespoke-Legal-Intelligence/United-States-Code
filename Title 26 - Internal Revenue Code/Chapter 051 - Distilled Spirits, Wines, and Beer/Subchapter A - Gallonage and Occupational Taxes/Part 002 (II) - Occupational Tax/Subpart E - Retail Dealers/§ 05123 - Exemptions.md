@@ -50,7 +50,7 @@ No tax shall be imposed by section 5121(a) with respect to a person's activities
 
 A prior section 5123, act Aug. 16, 1954, ch. 736, 68A Stat. 621, consisted of provisions similar to those comprising this section, prior to the general revision of this chapter by Pub. L. 85–859.
 
-Former section 5123(a), (b)(3), and (c) related to “exemptions of brewers selling in eighth-barrel packages”, “dealers making sales on purchaser dealers’ premises”and “sales by retail dealers in liquidation”. See section 5113(a), (d)(1), (2) and (e), respectively, of this title.
+Former section 5123(a), (b)(3), and (c) related to “exemptions of brewers selling in eighth-barrel packages”, “dealers making sales on purchaser dealers’ premises” and “sales by retail dealers in liquidation”. See section 5113(a), (d)(1), (2) and (e), respectively, of this title.
 
 #### Amendments
 

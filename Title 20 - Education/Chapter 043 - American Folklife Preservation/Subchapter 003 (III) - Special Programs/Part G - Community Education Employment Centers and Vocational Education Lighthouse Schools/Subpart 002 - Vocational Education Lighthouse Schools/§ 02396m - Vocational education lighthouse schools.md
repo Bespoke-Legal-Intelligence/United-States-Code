@@ -10,7 +10,7 @@ Grants awarded under this section shall be used to establish vocational educatio
 
 &emsp;(1) serve as a model vocational education program—
 
-&emsp;&emsp;(A) to provide each student with knowledge of, and experience in, all aspects of theindustry or enterprise the student is preparing to enter;
+&emsp;&emsp;(A) to provide each student with knowledge of, and experience in, all aspects of the industry or enterprise the student is preparing to enter;
 
 &emsp;&emsp;(B) to provide each student with basic and higher order skills and develop the student's problem solving abilities in a vocational setting;
 

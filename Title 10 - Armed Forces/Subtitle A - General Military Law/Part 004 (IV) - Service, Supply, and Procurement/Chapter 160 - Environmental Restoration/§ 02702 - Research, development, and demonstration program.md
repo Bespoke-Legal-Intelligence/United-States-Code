@@ -40,3 +40,43 @@ Role of epa.—The functions of the Secretary under paragraph (1) shall be carri
 
 Section 311(a)(5) of CERCLA, referred to in subsec. (a), is classified to section 9660(a)(5) of Title 42, The Public Health and Welfare.
 
+#### Agreements for Services of Other Agencies in Support of Environmental Technology Certification
+
+Pub. L. 104–201, div. A, title III, §327, Sept. 23, 1996, 110 Stat. 2483, provided that:
+
+“(a)
+
+Authority.—Subject to subsection (b), the Secretary of Defense may enter into a cooperative agreement with an agency of a State or local government to obtain assistance in certifying environmental technologies.
+
+“(b)
+
+Limitations.—The Secretary of Defense may enter into a cooperative agreement with respect to an environmental technology under subsection (a) only if the Secretary determines—
+
+&emsp;“(1) that the technology has clear potential to be of significant value to the Department of Defense in carrying out its environmental restoration activities; and
+
+&emsp;“(2) that there is no reasonably available market in the private sector for the technology without a certification by the Department of Defense, the Environmental Protection Agency, or a State environmental agency.
+
+“(c)
+
+Types of Assistance.—The types of assistance that may be obtained under subsection (a) include the following:
+
+&emsp;“(1) Data collection and analysis.
+
+&emsp;“(2) Technical assistance in conducting a demonstration of an environmental technology, including the implementation of quality assurance and quality control programs.
+
+“(d)
+
+Report.—In the annual report required under section 2706(a) of title 10, United States Code, the Secretary of Defense shall include the following information with respect to cooperative agreements entered into under this section:
+
+&emsp;“(1) The number of such agreements.
+
+&emsp;“(2) The number of States in which such agreements have been entered into.
+
+&emsp;“(3) A description of the nature of the technology involved in each such agreement.
+
+&emsp;“(4) The amount of funds obligated or expended by the Department of Defense for each such agreement during the year covered by the report.
+
+“(e)
+
+Termination of Authority.—The authority provided under subsection (a) shall terminate five years after the date of the enactment of this Act \[Sept. 23, 1996\].”
+

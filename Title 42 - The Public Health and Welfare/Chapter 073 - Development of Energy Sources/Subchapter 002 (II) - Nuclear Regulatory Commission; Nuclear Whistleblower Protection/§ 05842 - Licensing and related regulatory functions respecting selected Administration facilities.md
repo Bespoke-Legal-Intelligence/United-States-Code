@@ -24,7 +24,7 @@ For transfer of certain functions from Nuclear Regulatory Commission to Chairman
 
 #### Verbal Communications Between Commission Headquarters and Regional Offices and Licensed Utilization Facilities
 
-Pub. L. 96–295, title III, §305(a), June 30, 1980, 94 Stat. 790, provided that: “As expeditiously as practicable, the Nuclear Regulatory Commission shall establish a mechanism for instantaneous and uninterrupted verbal communication between each utilization facility licensed to operate under section 103 or section 104 b. of the Atomic Energy Act of 1954 \[section 2133 or 2134(b) of this title\] on the date of enactment of this Act \[June 30, 1980\], or thereafter, and
+Pub. L. 96–295, title III, §305(a), June 30, 1980, 94 Stat. 790, provided that: “As expeditiously as practicable, the Nuclear Regulatory Commission shall establish a mechanism for instantaneous and uninterrupted verbalcommunication between each utilization facility licensed to operate under section 103 or section 104 b. of the Atomic Energy Act of 1954 \[section 2133 or 2134(b) of this title\] on the date of enactment of this Act \[June 30, 1980\], or thereafter, and
 
 &emsp;“(1) Commission headquarters, and
 

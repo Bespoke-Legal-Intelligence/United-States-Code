@@ -26,7 +26,7 @@
 
 (c) This section does not apply to officers who receive a fixed allowance as compensation for their services including expenses of postage.
 
-(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 751; Pub. L. 94–553, §105(e), Oct. 19, 1976, 90 Stat. 2599; Pub. L. 103–123, title VII, §708(b), Oct. 28, 1993, 107 Stat. 1272.)
+(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 751; Pub. L. 94–553, §105(e), Oct. 19, 1976, 90 Stat. 2599; Pub. L.103–123, title VII, §708(b), Oct. 28, 1993, 107 Stat. 1272.)
 
 #### Amendments
 

@@ -20,7 +20,7 @@
 
 (B) The court of appeals shall decide and dispose of the appeal in accordance with section 3742 of this title as though the determination appealed had been a sentence imposed by a United States district court.
 
-(3) During the supervised release of an offender under this subsection, the United States district court for the district in which the offender resides shall supervise the offender.
+(3) During the supervised release of an offender under this subsection, the United States districtcourt for the district in which the offender resides shall supervise the offender.
 
 (c) This section shall apply only to offenses committed on or after November 1, 1987.
 

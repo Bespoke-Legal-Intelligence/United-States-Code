@@ -16,7 +16,7 @@ That portion of net earnings of each Federal reserve bank which remains after di
 
 #### (3) Payment to Treasury
 
-During fiscal years 1997 and 1998, any amount in the surplus fund of any Federal reserve bank in excess of the amount equal to 3 percent of thetotal paid-in capital and surplus of the member banks of such bank shall be transferred to the Board for transfer to the Secretary of the Treasury for deposit in the general fund of the Treasury.
+During fiscal years 1997 and 1998, any amount in the surplus fund of any Federal reserve bank in excess of the amount equal to 3 percent of the total paid-in capital and surplus of the member banks of such bank shall be transferred to the Board for transfer to the Secretary of the Treasury for deposit in the general fund of the Treasury.
 
 (Dec. 23, 1913, ch. 6, §7(a), 38 Stat. 258; Mar. 3, 1919, ch. 101, §1, 40 Stat. 1314; June 16, 1933, ch. 89, §4, 48 Stat. 163; Aug. 10, 1993, Pub. L. 103–66, title III, §3002(a), 107 Stat. 337; Sept. 23, 1994, Pub. L. 103–325, title VI, §602(d), 108 Stat. 2291.)
 
@@ -30,7 +30,7 @@ Section is comprised of subsec. (a) \[formerly first undesignated par.\] of sect
 
 Par. (2). Pub. L. 103–325, §602(d)(2), substituted “paragraph (1)(A)” for “subparagraph (A)”.
 
-1993—Pub. L. 103–66 inserted section catchline and amended section generally. Prior to amendment, section read as follows: “After all necessary expenses of a Federal reserve bank shall have been paid or provided for, the stockholders shall be entitled to receive an annual dividend of 6 per centum on the paid-in capital stock, which dividend shall be cumulative. After the aforesaid dividend claims have been fully met, the net earnings shall be paid into the surplus fund of the Federal reserve bank.”
+1993—Pub. L. 103–66 inserted section catchline and amended section generally. Prior to amendment, section read as follows: “After all necessary expenses of a Federal reserve bank shall have been paid or provided for, the stockholders shall be entitled to receive an annual dividend of 6 per centum on the paid-in capital stock, which dividend shall be cumulative. After the aforesaid dividend claims have been fully met, the netearnings shall be paid into the surplus fund of the Federal reserve bank.”
 
 1933—Act June 16, 1933, provided that net earnings shall be paid into surplus instead of to the United States as a franchise tax.
 

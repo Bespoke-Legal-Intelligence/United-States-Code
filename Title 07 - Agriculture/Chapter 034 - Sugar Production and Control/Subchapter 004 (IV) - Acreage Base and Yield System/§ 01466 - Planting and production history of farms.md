@@ -36,6 +36,10 @@ Section 11(a) of Pub. L. 101–220 provided that the amendment made by that sect
 
 Section 1109 of Pub. L. 100–203 provided that the amendment made by that section is effective only for 1988 through 1990 crops of wheat, feed grains, upland cotton, and rice.
 
+#### Inapplicability of Section
+
+Section inapplicable to 1996 through 2002 crops of loan commodities, peanuts, and sugar and inapplicable to milk during period beginning Apr. 4, 1996, and ending Dec. 31, 2002, see section 7301(b)(1)(K) of this title.
+
 #### Submission of Soybean Actual Yield Data to County Committees
 
 Section 11(b) of Pub. L. 101–220 provided that: “With respect to the 1989 and 1990 crop years, the Secretary shall allow producers of soybeans to provide to county committees (as defined in section 502 of the Agricultural Act of 1949 (7 U.S.C. 1462)) data with respect to the actual yield for each farm for each crop of soybeans. The Secretary shall maintain such data for at least five crop years after receipt in such a manner as to be easily accessible. The Secretary shall provide timely notification to producers of the provisions of this section.”

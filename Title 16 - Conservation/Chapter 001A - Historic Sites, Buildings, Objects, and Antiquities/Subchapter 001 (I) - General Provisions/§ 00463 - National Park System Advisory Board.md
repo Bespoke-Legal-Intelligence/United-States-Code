@@ -2,23 +2,67 @@
 
 #### (a) Establishment; composition; duties
 
-A general advisory board to be known as the National Park System Advisory Board is hereby established, to be composed of not to exceed sixteen persons, citizens of the United States who have a demonstrated commitment to the National Park System, to include but not be limited to representatives competent in the fields of history, archaeology, architecture, anthropology, biology, geology, and related disciplines, who shall be appointed by the Secretary for a term not to exceed four years. The Secretary shall take into consideration nominations for appointees from public and private, professional, civic, and educational societies, associations, and institutions. The members of such board shall receive no salary but may be paid expenses incidental to travel when engaged in discharging their duties as members. It shall be the duty of such board to advise the Secretary on matters relating to the National Park System, to other related areas, and to the administration of sections 461 to 467 of this title, including but not limited to matters submitted to it for consideration by the Secretary, but it shall not be required to recommend as to the suitability or desirability of surplus real and related personal property for use as an historic monument. Such board shall also provide recommendations on the designation of national historic landmarks and national natural landmarks. Such board is strongly encouraged to consult with the major scholarly and professional organizations in the appropriate disciplines in making such recommendations.
+There is hereby established a National Park System Advisory Board, whose purpose shall be to advise the Director of the National Park Service on matters relating to the National Park Service, the National Park System, and programs administered by the National Park Service. The Board shall advise the Director on matters submitted to the Board by the Director as well as any other issues identified by the Board. Members of the Board shall be appointed on a staggered term basis by the Secretary for a term not to exceed 4 years and shall serve at the pleasure of the Secretary. The Board shall be comprised of no more than 12 persons, appointed from among citizens of the United States having a demonstrated commitment to the mission of the National Park Service. Board members shall be selected to represent various geographic regions, including each of the administrative regions of the National Park Service. At least 6 of the members shall have outstanding expertise in 1 or more of the following fields: history, archeology, anthropology, historical or landscape architecture, biology, ecology, geology, marine science, or social science. At least 4 of the members shall have outstanding expertise and prior experience in the management of national or State parks or protected areas, or national or cultural resources management. The remaining members shall have outstanding expertise in 1 or more of the areas described above or in another professional or scientific discipline, such as financial management, recreation use management, land use planning or business management, important to the mission of the National Park Service. At least 1 individual shall be a locally elected official from an area adjacent to a park. The Board shall hold its first meeting by no later than 60 days after the date on which all members of the Advisory Board who are to be appointed have been appointed. Any vacancy in the Board shall not affect its powers, but shall be filled in the same manner in which the original appointment was made. The Board may adopt such rules as may be necessary to establish its procedures and to govern the manner of its operations, organization, and personnel. All members of the Board shall be reimbursed for travel and per diem in lieu of subsistence expenses during the performance of duties of the Board while away from home or their regular place of business, in accordance with subchapter 1 <sup>1</sup> of chapter 57 of title 5. With the exception of travel and per diem as noted above, a member of the Board who is otherwise an officer or employee of the United States Government shall serve on the Board without additional compensation. It shall be the duty of such board to advise the Secretary on matters relating to the National Park System, to other related areas, and to the administration of sections 461 to 467of this title, including but not limited to matters submitted to it for consideration by the Secretary, but it shall not be required to recommend as to the suitability or desirability of surplus real and related personal property for use as an historic monument. Such board shall also provide recommendations on the designation of national historic landmarks and national natural landmarks. Such board is strongly encouraged to consult with the major scholarly and professional organizations in the appropriate disciplines in making such recommendations.
 
-#### (b) Termination
+#### (b) Staff; applicability of Federal law
 
-The National Park System Advisory Board shall continue to exist until January 1, 1995. The provisions of section 14(b) of the Federal Advisory Committee Act (the Act of October 6, 1972; 86 Stat. 776) are hereby waived with respect to the Board, but in all other respects, it shall be subject to the provisions of the Federal Advisory Committee Act.
+(1) The Secretary is authorized to hire 2 full-time staffers to meet the needs of the Advisory Board.
 
-#### (c) National Park Service Advisory Council
+(2) Service of an individual as a member of the Board shall not be considered as service or employment bringing such individual within the provisions of any Federal law relating to conflicts of interest or otherwise imposing restrictions, requirements, or penalties in relation to the employment of persons, the performance of services, or the payment or receipt of compensation in connection with claims, proceedings, or matters involving the United States. Service as a member of the Board, or as an employee of the Board, shall not be considered service in an appointive or elective position in the Government for purposes of section 8344 of title 5 or comparable provisions of Federal law.
+
+#### (c) Authority of Board
+
+(1) Upon request of the Director, the Board is authorized to—
+
+&emsp;(A) hold such hearings and sit and act at such times,
+
+&emsp;(B) take such testimony,
+
+&emsp;(C) have such printing and binding done,
+
+&emsp;(D) enter into such contracts and other arrangements.<sup>2</sup>
+
+&emsp;(E) make such expenditures, and
+
+&emsp;(F) take such other actions, as the Board may deem advisable. Any member of the Board may administer oaths or affirmations to witnesses appearing before the Board.
+
+(2) The Board may establish committees or subcommittees. Any such subcommittees or committees shall be chaired by a voting member of the Board.
+
+#### (d) Federal Advisory Committee Act
+
+The provisions of the Federal Advisory Committee Act shall apply to the Board established under this section with the exception of section 14(b).
+
+#### (e) Cooperation of Federal agencies; use of mails
+
+(1) The Board is authorized to secure directly from any office, department, agency, establishment, or instrumentality of the Federal Government such information as the Board may require for the purpose of this section, and each such officer, department, agency, establishment, or instrumentality is authorized and directed to furnish, to the extent permitted by law, such information, suggestions, estimates, and statistics directly to the Board, upon request made by a member of the Board.
+
+(2) Upon the request of the Board, the head of any Federal department, agency, or instrumentality is authorized to make any of the facilities and services of such department, agency, or instrumentality to the Board, on a nonreimbursable basis, to assist the Board in carrying out its duties under this section.
+
+(3) The Board may use the United States mails in the same manner and under the same conditions as other departments and agencies in the United States.
+
+#### (f) Termination
+
+The National Park System Advisory Board shall continue to exist until January 1, 2006. The provisions of section 14(b) of the Federal Advisory Committee Act (the Act of October 6, 1972; 86 Stat. 776) are hereby waived with respect to the Board, but in all other respects, it shall be subject to the provisions of the Federal Advisory Committee Act.
+
+#### (g) National Park Service Advisory Council
 
 There is hereby established the National Park Service Advisory Council (hereafter in this section referred to as the “advisory council”) which shall provide advice and counsel to the National Park System Advisory Board. Membership on the advisory council shall be limited to those individuals whose term on the advisory board has expired. Such individuals may serve as long as they remain active except that not more than 12 members may serve on the advisory council at any one time. Members of the advisory council shall not have a vote on the National Park System Advisory Board. Members of the advisory council shall receive no salary but may be paid expenses incidental to travel when engaged in discharging their duties as members. Initially, the Secretary shall choose 12 former members of the Advisory Board to constitute the advisory council. In so doing, the Secretary shall consider their professional expertise and demonstrated commitment to the National Park System and to the Advisory Board.
 
-(Aug. 21, 1935, ch. 593, §3, 49 Stat. 667; Aug. 18, 1970, Pub. L. 91–383, §9, as added Oct. 7, 1976, Pub. L. 94–458, §2, 90 Stat. 1940; amended Nov. 10, 1978, Pub. L. 95–625, title VI, §604(2), 92 Stat. 3518; Nov. 28, 1990, Pub. L. 101–628, title XII, §§1211, 1212, 104 Stat. 4507.)
+(Aug. 21, 1935, ch. 593, §3, 49 Stat. 667; Aug. 18, 1970, Pub. L. 91–383, §9, as added Oct. 7, 1976, Pub. L. 94–458, §2, 90 Stat. 1940; amended Nov. 10, 1978, Pub. L. 95–625, title VI, §604(2), 92 Stat. 3518; Nov. 28, 1990, Pub. L. 101–628, title XII, §§1211, 1212, 104 Stat. 4507; Nov. 12, 1996, Pub. L. 104–333, div. I, title VIII, §814(f)(1), 110 Stat. 4197.)
 
 #### References in Text
 
-The Federal Advisory Committee Act, referred to in subsec. (b), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsecs. (d) and (f), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
+
+1996—Subsec. (a). Pub. L. 104–333, §814(f)(1)(A), substituted provisions relating to establishment of Board, its purpose, advisory duties, members’ terms, composition, first meeting, vacancies, rules, and members’ compensation for “A general advisory board to be known as the National Park System Advisory Board is hereby established, to be composed of not to exceed sixteen persons, citizens of the United States who have a demonstrated commitment to the National Park System, to include but not be limited to representatives competent in the fields of history, archaeology, architecture, anthropology, biology, geology, and relateddisciplines, who shall be appointed by the Secretary for a term not to exceed four years. The Secretary shall take into consideration nominations for appointees from public and private, professional, civic, and educational societies, associations, and institutions. The members of such board shall receive no salary but may be paid expenses incidental to travel when engaged in discharging their duties as members.”
+
+Subsecs. (b) to (e). Pub. L. 104–333, §814(f)(1)(C), added subsecs. (b) to (e). Former subsecs. (b) and (c) redesignated (f) and (g), respectively.
+
+Subsec. (f). Pub. L. 104–333, §814(f)(1)(B), redesignated former subsec. (b) as (f) and substituted “2006” for “1995”.
+
+Subsec. (g). Pub. L. 104–333, §814(f)(1)(B), redesignated former subsec. (c) as (g).
 
 1990—Subsec. (a). Pub. L. 101–628, §1211(1), (2), substituted “sixteen” for “twelve”, “United States who have a demonstrated commitment to the National Park System,” for “United States,” and “anthropology, biology, geology, and related disciplines,” for “and natural science,” and inserted at end “Such board shall also provide recommendations on the designation of national historic landmarks and national natural landmarks. Such board is strongly encouraged to consult with the major scholarly and professional organizations in the appropriate disciplines in making such recommendations.”
 
@@ -30,9 +74,13 @@ Subsec. (c). Pub. L. 101–628, §1212, added subsec. (c).
 
 1976—Pub. L. 91–383, §9, as added by Pub. L. 94–458, renamed the Advisory Board on National Parks, Historic Sites, Buildings and Monuments as the National Park System Advisory Board, substituted natural science for human geography as a field from which member selection may be made, limited appointment term to four years rather than at pleasure of Secretary, eliminated duty of Board to make recommendations concerning use of surplus property as an historic monument, provided for continuation of Board until Jan. 1, 1990, and made it subject to the provisions of the Federal Advisory Committee Act.
 
-#### Termination of Advisory Councils
+#### Effective Date of 1996 Amendment
 
-Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by the Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Section 814(f)(3) of title VIII of div. I of Pub. L. 104–333 provided that: “This subsection \[amending this section and enacting provisions set out as a note below\] shall take effect on December 7, 1997.”
+
+#### Authorization of Appropriations
+
+Section 814(f)(2) of title VIII of div. I of Pub. L. 104–333 provided that: “There are authorized to be appropriated to the National Park System Advisory Board $200,000 per year to carry out the provisions of section 3 of the Act of August 21, 1935 (49 Stat. 667; 16 U.S.C. 463).”
 
 #### New York City National Shrines Advisory Board
 
@@ -44,5 +92,9 @@ Act Aug. 11, 1955, ch. 779, §3, 69 Stat. 633, provided that the Federal Hall Me
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1e, 230e, 281e, 282a, 282b, 396d, 397d, 407q, 410u, 410w, 410z–4, 410aa–2, 410bb–1, 410ee, 410ii–5, 410jj–4, 410kk–1, 410<i>ll</i>, 410nn–1, 410<i>oo</i>–3, 410pp–2, 410rr–3, 410rr–7, 410ss–1, 410tt–3, 410yy–2, 410bbb–2, 410ccc–2, 430m, 450e–1, 450hh–2, 450jj–5, 450pp–1, 459h–4, 462, 464, 465, 466, 467, 467b, 468, 469, 470a, 698r, 1133, 1244 of this title; title 40 sections 304a–2, 484, 871; title 43 section 377b.
+This section is referred to in sections 1e, 230e, 281e, 282a, 282b, 396d, 397d, 407q, 410u, 410w, 410z–4, 410aa–2, 410bb–1, 410ee, 410ii–5, 410jj–4, 410kk–1, 410<i>ll</i>, 410nn–1, 410<i>oo</i>–3, 410pp–2, 410rr–3, 410rr–7, 410ss–1, 410tt–3, 410yy–2, 410bbb–2, 410ccc–2, 410ddd, 430f–5, 430m, 450e–1, 450hh–2, 450jj–5, 450pp–1, 459h–4, 460kkk, 462, 464, 465, 466, 467, 467b, 468, 469, 470a, 698r, 698u–3, 1133, 1244 of this title; title 40 sections 304a–2, 484, 871; title 43 section 377b.
+
+<i><sup>1</sup></i><i> So in original. Probably should be subchapter “I”.</i>
+
+<i><sup>2</sup></i><i> So in original. The period probably should be a comma.</i>
 

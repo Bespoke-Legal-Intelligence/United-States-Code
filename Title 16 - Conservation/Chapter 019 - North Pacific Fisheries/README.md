@@ -1,5 +1,7 @@
 ### <b>CHAPTER 19—NORTH PACIFIC FISHERIES</b>
 
+<i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
+
 
 ---
 

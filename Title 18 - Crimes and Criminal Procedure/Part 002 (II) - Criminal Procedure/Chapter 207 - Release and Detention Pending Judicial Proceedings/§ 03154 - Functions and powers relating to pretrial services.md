@@ -1,4 +1,4 @@
-### §3154 . Functions and powers relating to pretrial services
+### §3154. Functions and powers relating to pretrial services
 
 Pretrial services functions shall include the following:
 
@@ -24,15 +24,19 @@ Pretrial services functions shall include the following:
 
 &emsp;(11) Make contracts, to such extent and in such amounts as are provided in appropriation Acts, for the carrying out of any pretrial services functions.
 
-&emsp;(12)(A) As directed by the court and to the degree required by the regimen of care or treatment ordered by the court as a condition of release, keep informed as to the conduct and provide supervision of a person conditionally released under the provisions of section 4243 or 4246 of this title, and report such person's conduct and condition to the courtordering release and the Attorney General or his designee.
+&emsp;(12)(A) As directed by the court and to the degree required by the regimen of care or treatment ordered by the court as a condition of release, keep informed as to the conduct and provide supervision of a person conditionally released under the provisions of section 4243 or 4246 of this title, and report such person's conduct and condition to the court ordering release and the Attorney General or his designee.
 
 &emsp;(B) Any violation of the conditions of release shall immediately be reported to the court and the Attorney General or his designee.
 
-&emsp;(13) Perform such other functions as specified under this chapter.
+&emsp;(13) If approved by the district court, be authorized to carry firearms under such rules and regulations as the Director of the Administrative Office of the United States Courts may prescribe.
 
-(Added Pub. L. 93–619, title II, §201, Jan. 3, 1975, 88 Stat. 2087; amended Pub. L. 97–267, §4, Sept. 27, 1982, 96 Stat. 1137; Pub. L. 98–473, title II, §203(b), Oct. 12, 1984, 98 Stat. 1984; Pub. L. 101–647, title XXXV, §3576, Nov. 29, 1990, 104 Stat. 4929; Pub. L. 102–572, title VII, §701(b), title X, §1002, Oct. 29, 1992, 106 Stat. 4515, 4521.)
+&emsp;(14) Perform such other functions as specified under this chapter.
+
+(Added Pub. L. 93–619, title II, §201, Jan. 3, 1975, 88 Stat. 2087; amended Pub. L. 97–267, §4, Sept. 27, 1982, 96 Stat. 1137; Pub. L. 98–473, title II, §203(b), Oct. 12, 1984, 98 Stat. 1984; Pub. L. 101–647, title XXXV, §3576, Nov. 29, 1990, 104 Stat. 4929; Pub. L. 102–572, title VII, §701(b), title X, §1002, Oct. 29, 1992, 106 Stat. 4515, 4521; Pub. L. 104–317, title I, §101(b), Oct. 19, 1996, 110 Stat. 3848.)
 
 #### Amendments
+
+1996—Pars. (13), (14). Pub. L. 104–317 added par. (13) and redesignated former par. (13) as (14).
 
 1992—Par. (1). Pub. L. 102–572, §1002, inserted before period at end “; except that a district court may direct that information not be collected, verified, or reported under this paragraph on individuals charged with Class A misdemeanors as defined in section 3559(a)(6) of this title”.
 

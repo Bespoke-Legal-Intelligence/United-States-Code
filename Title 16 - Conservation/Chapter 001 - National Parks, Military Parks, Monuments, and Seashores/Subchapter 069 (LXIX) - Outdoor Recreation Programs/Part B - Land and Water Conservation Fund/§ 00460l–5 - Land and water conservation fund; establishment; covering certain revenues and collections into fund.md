@@ -40,7 +40,7 @@ Subsec. (a). Pub. L. 94–422 reenacted subsec. (a) without change except for re
 
 Subsec. (b). Pub. L. 94–422 reenacted subsec. (b) without change.
 
-Subsec. (c)(1). Pub. L. 94–422 substituted “$300,000,000 for fiscal year 1977, $600,000,000 for fiscal year 1978,$750,000,000 for fiscal year 1979, and $900,000,000 for fiscal year 1980 and for each fiscal year thereafter through September 30, 1989.” for “$200,000,000 for each of the fiscal years 1968, 1969, and 1970, and not less than $300,000,000 for each fiscal year thereafter through September 30, 1989.”.
+Subsec. (c)(1). Pub. L. 94–422 substituted “$300,000,000 for fiscal year 1977, $600,000,000 for fiscal year 1978, $750,000,000 for fiscal year 1979, and $900,000,000 for fiscal year 1980 and for each fiscal year thereafter through September 30, 1989.” for “$200,000,000 for each of the fiscal years 1968, 1969, and 1970, and not less than $300,000,000 for each fiscal year thereafter through September 30, 1989.”.
 
 Subsec. (c)(2). Pub. L. 94–422 substituted “equivalent to the amounts” for “amount to $200,000,000 or $300,000,000 for each of such fiscal years, as”.
 
@@ -50,7 +50,7 @@ Subsec. (c)(1). Pub. L. 91–485, §1(a), substituted “fiscal years 1968, 1969
 
 Subsec. (c)(2). Pub. L. 91–485, §1(b), substituted “$200,000,000 or $300,000,000 for each of such fiscal years, as provided in cl. (1),” for “$200,000,000 for each of such fiscal years,”.
 
-1968—Subsec. (a). Pub. L. 90–401, §1(a), redesignated subsec. (b) as (a). Former subsec. (a), except for the fourth paragraph thereof, established a system of admission and user fees for all Federal recreation areas and was eliminated. The fourth paragraph covering the repeal of provisions prohibiting the collection of recreation fees and user charges was redesignated as section 10 of Pub. L. 88–587 and is set out as section 460<i>l</i>–10c.
+1968—Subsec. (a). Pub. L. 90–401, §1(a), redesignated subsec. (b) as (a). Former subsec. (a), except for the fourth paragraph thereof, established a system of admission and user fees for all Federal recreation areas and was eliminated. The fourth paragraph covering therepeal of provisions prohibiting the collection of recreation fees and user charges was redesignated as section 10 of Pub. L. 88–587 and is set out as section 460<i>l</i>–10c.
 
 Subsecs. (b), (c). Pub. L. 90–401, §§1(a), 2, added subsec. (c) and redesignated former subsecs. (b) and (c) as (a) and (b), respectively.
 
@@ -96,7 +96,7 @@ Sec. 2. <i>Designation of areas for years after 1965</i>. (a) Subject to the pro
 
 (2) Whenever, in accordance with subsection (b) of this section, it is determined that a recreation user fee should be charged with respect to an area with respect to which no such fee has theretofore been charged, such new fee shall be charged only after the posting requirements of Section 4 of this Order have been satisfied.
 
-Sec. 3. <i>Criteria for designation of areas</i>. Areas shall, in accordance with Section 1(b) and Section 2(b) of thisOrder and to the extent permitted by the Act, be designated as areas at which recreation user fees shall be charged if the following conditions are found to exist concurrently:
+Sec. 3. <i>Criteria for designation of areas</i>. Areas shall, in accordance with Section 1(b) and Section 2(b) of this Order and to the extent permitted by the Act, be designated as areas at which recreation user fees shall be charged if the following conditions are found to exist concurrently:
 
 (1) The area is administered by any of the eight agencies specified in Section 1(a) of this Order;
 

@@ -16,6 +16,7 @@
 | [2112\.](%C2%A7%2002112%20-%20Authority%20to%20change%20working%20hours.md) | Authority to change working hours. |
 | [2113\.](%C2%A7%2002113%20-%20Authority%20to%20exempt%20certain%20vessels.md) | Authority to exempt certain vessels. |
 | [2114\.](%C2%A7%2002114%20-%20Protection%20of%20seamen%20against%20discrimination.md) | Protection of seamen against discrimination. |
+| [2115\.](%C2%A7%2002115%20-%20Civil%20penalty%20to%20enforce%20alcohol%20and%20dangerous%20drug%20testing.md) | Civil penalty to enforce alcohol and dangerous drug testing. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -25,9 +26,15 @@ Chapter 21 contains definitions that are general in nature and applicable to all
 
 #### Amendments
 
+1996—Pub. L. 104–324, title III, §303(b), Oct. 19, 1996, 110 Stat. 3917, added item 2115.
+
 1990—Pub. L. 101–508, title X, §10401(b), Nov. 5, 1990, 104 Stat. 1388–398, substituted “Fees” for “Fees prohibited” in item 2110.
 
 1984—Pub. L. 98–557, §13(b), Oct. 30, 1984, 98 Stat. 2864, added item 2114.
+
+#### Chapter Referred to in Other Sections
+
+This chapter is referred to in title 16 section 1862.
 
 <i><sup>1</sup></i><i> Chapter heading amended by Pub. L. 100–424 without corresponding amendment of subtitle analysis.</i>
 
@@ -52,3 +59,4 @@ Chapter 21 contains definitions that are general in nature and applicable to all
 - [&sect; 02112 - Authority to change working hours](%C2%A7%2002112%20-%20Authority%20to%20change%20working%20hours.md)
 - [&sect; 02113 - Authority to exempt certain vessels](%C2%A7%2002113%20-%20Authority%20to%20exempt%20certain%20vessels.md)
 - [&sect; 02114 - Protection of seamen against discrimination](%C2%A7%2002114%20-%20Protection%20of%20seamen%20against%20discrimination.md)
+- [&sect; 02115 - Civil penalty to enforce alcohol and dangerous drug testing](%C2%A7%2002115%20-%20Civil%20penalty%20to%20enforce%20alcohol%20and%20dangerous%20drug%20testing.md)

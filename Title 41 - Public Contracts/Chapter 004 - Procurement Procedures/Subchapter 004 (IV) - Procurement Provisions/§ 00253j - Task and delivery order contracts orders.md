@@ -40,11 +40,11 @@ This section applies to task and delivery order contracts entered into under sec
 
 #### Effective Date
 
-For effective date and applicability of section, see section 10001 of Pub. L. 103–355, set out as an EffectiveDate of 1994 Amendment note under section 251 of this title.
+For effective date and applicability of section, see section 10001 of Pub. L. 103–355, set out as an Effective Date of 1994 Amendment note under section 251 of this title.
 
 #### Construction
 
-Section not to be construed as modifying or superseding, or as intended to impair or restrict, authorities or responsibilities under section 759 of Title 40, Public Buildings, Property, and Works, or subchapter VI (§541 et seq.) of chapter 10 of Title 40, see section 1054(b) of Pub. L. 103–355, set out as a note under section 253h of this title.
+Section not to be construed as modifying or superseding, or as intended to impair or restrict, authorities or responsibilities under former section 759 of Title 40, Public Buildings, Property, and Works, or subchapter VI (§541 et seq.) of chapter 10 of Title 40, see section 1054(b) of Pub. L. 103–355, set out as a note under section 253h of this title.
 
 #### Section Referred to in Other Sections
 

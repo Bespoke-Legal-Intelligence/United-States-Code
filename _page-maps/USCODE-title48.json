@@ -1,7 +1,7 @@
 {
  "built_by": "uscode_git_v0.1.12",
  "eid": "USCODE-title48",
- "package": "USCODE-1995-title48",
+ "package": "USCODE-1996-title48",
  "pieces": [
   {
    "id": "48_",
@@ -65,7 +65,7 @@
    ]
   },
   {
-   "id": "48_-ch2",
+   "id": "48_-Chap._2",
    "marks": [
     [
      "I",
@@ -1127,7 +1127,7 @@
    ]
   },
   {
-   "id": "48_-ch3",
+   "id": "48_-Chap._3",
    "marks": [
     [
      "I",
@@ -1250,11 +1250,22 @@
   },
   {
    "id": "48_491_to_503",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     14,
+     [
+      [
+       180,
+       "[Page 46]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 003 - Hawaii/§ 00491 to 503 - Omitted.md",
    "printed_pages": [
     45,
-    45
+    46
    ]
   },
   {
@@ -1262,23 +1273,16 @@
    "marks": [],
    "path": "Chapter 003 - Hawaii/§ 00504 - Repealed. June 27, 1952, ch. 477, title IV, §403(a)(6), 66 Stat. 279.md",
    "printed_pages": [
-    45,
-    45
+    46,
+    46
    ]
   },
   {
    "id": "48_505_to_518",
-   "marks": [
-    [
-     "L",
-     10,
-     "[Page 46]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 003 - Hawaii/§ 00505 to 518 - Omitted.md",
    "printed_pages": [
-    45,
+    46,
     46
    ]
   },
@@ -1320,11 +1324,18 @@
   },
   {
    "id": "48_536",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     4,
+     "[Page 47]",
+     true
+    ]
+   ],
    "path": "Chapter 003 - Hawaii/§ 00536 - Repealed. Pub. L. 86–3, §14(e), Mar. 18, 1959, 73 Stat. 10.md",
    "printed_pages": [
     46,
-    46
+    47
    ]
   },
   {
@@ -1332,8 +1343,8 @@
    "marks": [],
    "path": "Chapter 003 - Hawaii/§ 00537, 538 - Omitted.md",
    "printed_pages": [
-    46,
-    46
+    47,
+    47
    ]
   },
   {
@@ -1341,8 +1352,8 @@
    "marks": [],
    "path": "Chapter 003 - Hawaii/§ 00539 - Repealed. Pub. L. 86–3, §14(e), Mar. 18, 1959, 73 Stat. 10.md",
    "printed_pages": [
-    46,
-    46
+    47,
+    47
    ]
   },
   {
@@ -1350,8 +1361,8 @@
    "marks": [],
    "path": "Chapter 003 - Hawaii/§ 00540 - Omitted.md",
    "printed_pages": [
-    46,
-    46
+    47,
+    47
    ]
   },
   {
@@ -1359,23 +1370,16 @@
    "marks": [],
    "path": "Chapter 003 - Hawaii/§ 00541 - Repealed. Pub. L. 96–470, title I, §110, Oct. 19, 1980, 94 Stat. 2239.md",
    "printed_pages": [
-    46,
-    46
+    47,
+    47
    ]
   },
   {
    "id": "48_542_to_546",
-   "marks": [
-    [
-     "L",
-     12,
-     "[Page 47]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 003 - Hawaii/§ 00542 to 546 - Omitted.md",
    "printed_pages": [
-    46,
+    47,
     47
    ]
   },
@@ -1384,34 +1388,29 @@
    "marks": [
     [
      "L",
-     70,
+     44,
      "[Page 48]",
+     true
+    ],
+    [
+     "L",
+     126,
+     "[Page 49]",
      true
     ]
    ],
    "path": "Chapter 003 - Hawaii/§ 00561 to 599 - Omitted.md",
    "printed_pages": [
     47,
-    48
+    49
    ]
   },
   {
    "id": "48_611_to_620",
-   "marks": [
-    [
-     "I",
-     14,
-     [
-      [
-       113,
-       "[Page 49]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 003 - Hawaii/§ 00611 to 620 - Omitted.md",
    "printed_pages": [
-    48,
+    49,
     49
    ]
   },
@@ -1453,30 +1452,26 @@
   },
   {
    "id": "48_641_to_644",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     6,
+     "[Page 50]",
+     true
+    ]
+   ],
    "path": "Chapter 003 - Hawaii/§ 00641 to 644 - Repealed. June 25, 1948, ch. 646, §§8, 39, 62 Stat. 986, 992.md",
    "printed_pages": [
     49,
-    49
+    50
    ]
   },
   {
    "id": "48_644a",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       1165,
-       "[Page 50]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 003 - Hawaii/§ 00644a - Jurisdiction of district court of cases arising on or within Midway, Wake, Johnston, Sand, etc., Islands; laws applicable to jury trials.md",
    "printed_pages": [
-    49,
+    50,
     50
    ]
   },
@@ -1511,10 +1506,14 @@
    "id": "48_661_to_678",
    "marks": [
     [
-     "L",
-     32,
-     "[Page 51]",
-     true
+     "I",
+     12,
+     [
+      [
+       185,
+       "[Page 51]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 003 - Hawaii/§ 00661 to 678 - Omitted.md",
@@ -1527,14 +1526,10 @@
    "id": "48_691_to_718",
    "marks": [
     [
-     "I",
-     46,
-     [
-      [
-       179,
-       "[Page 52]"
-      ]
-     ]
+     "L",
+     24,
+     "[Page 52]",
+     true
     ]
    ],
    "path": "Chapter 003 - Hawaii/§ 00691 to 718 - Omitted.md",
@@ -1566,10 +1561,10 @@
    "marks": [
     [
      "I",
-     69,
+     16,
      [
       [
-       34,
+       102,
        "[Page 53]"
       ]
      ]
@@ -1592,11 +1587,22 @@
   },
   {
    "id": "48_731",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     26,
+     [
+      [
+       115,
+       "[Page 54]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 004 - Puerto Rico/Subchapter 001 (I) - General Provisions/§ 00731 - Territory included under name Puerto Rico.md",
    "printed_pages": [
     53,
-    53
+    54
    ]
   },
   {
@@ -1604,27 +1610,16 @@
    "marks": [],
    "path": "Chapter 004 - Puerto Rico/Subchapter 001 (I) - General Provisions/§ 00731a - Change of name; Puerto Rico.md",
    "printed_pages": [
-    53,
-    53
+    54,
+    54
    ]
   },
   {
    "id": "48_731b",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       97,
-       "[Page 54]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 004 - Puerto Rico/Subchapter 001 (I) - General Provisions/§ 00731b - Organization of a government pursuant to a constitution.md",
    "printed_pages": [
-    53,
+    54,
     54
    ]
   },
@@ -1648,11 +1643,18 @@
   },
   {
    "id": "48_731e",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     4,
+     "[Page 55]",
+     true
+    ]
+   ],
    "path": "Chapter 004 - Puerto Rico/Subchapter 001 (I) - General Provisions/§ 00731e - Chapter continued in force and effect.md",
    "printed_pages": [
     54,
-    54
+    55
    ]
   },
   {
@@ -1660,27 +1662,16 @@
    "marks": [],
    "path": "Chapter 004 - Puerto Rico/Subchapter 001 (I) - General Provisions/§ 00732 - Repealed. July 3, 1950, ch. 446, §5(2), 64 Stat. 320.md",
    "printed_pages": [
-    54,
-    54
+    55,
+    55
    ]
   },
   {
    "id": "48_733",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       93,
-       "[Page 55]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 004 - Puerto Rico/Subchapter 001 (I) - General Provisions/§ 00733 - Citizens; former Spanish subjects and children; body politic; name.md",
    "printed_pages": [
-    54,
+    55,
     55
    ]
   },
@@ -1715,16 +1706,24 @@
    "id": "48_734",
    "marks": [
     [
-     "L",
-     28,
-     "[Page 56]",
-     true
+     "I",
+     2,
+     [
+      [
+       91,
+       "[Page 56]"
+      ]
+     ]
     ],
     [
-     "L",
-     106,
-     "[Page 57]",
-     true
+     "I",
+     72,
+     [
+      [
+       586,
+       "[Page 57]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 004 - Puerto Rico/Subchapter 001 (I) - General Provisions/§ 00734 - United States laws extended to Puerto Rico; internal revenue receipts covered into treasury.md",
@@ -1753,11 +1752,18 @@
   },
   {
    "id": "48_736",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     10,
+     "[Page 58]",
+     true
+    ]
+   ],
    "path": "Chapter 004 - Puerto Rico/Subchapter 001 (I) - General Provisions/§ 00736 - Puerto Rican law modified.md",
    "printed_pages": [
     57,
-    57
+    58
    ]
   },
   {
@@ -1765,27 +1771,16 @@
    "marks": [],
    "path": "Chapter 004 - Puerto Rico/Subchapter 001 (I) - General Provisions/§ 00737 - Privileges and immunities.md",
    "printed_pages": [
-    57,
-    57
+    58,
+    58
    ]
   },
   {
    "id": "48_738",
-   "marks": [
-    [
-     "I",
-     8,
-     [
-      [
-       594,
-       "[Page 58]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 004 - Puerto Rico/Subchapter 001 (I) - General Provisions/§ 00738 - Free interchange of merchandise with United States.md",
    "printed_pages": [
-    57,
+    58,
     58
    ]
   },
@@ -1800,30 +1795,30 @@
   },
   {
    "id": "48_740",
-   "marks": [],
-   "path": "Chapter 004 - Puerto Rico/Subchapter 001 (I) - General Provisions/§ 00740 - Duties and taxes to constitute fund for benefit of Puerto Rico; ports of entry.md",
-   "printed_pages": [
-    58,
-    58
-   ]
-  },
-  {
-   "id": "48_741",
    "marks": [
     [
      "I",
-     2,
+     8,
      [
       [
-       323,
+       112,
        "[Page 59]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 004 - Puerto Rico/Subchapter 001 (I) - General Provisions/§ 00741 - Export duties, taxes, etc.; bonds to anticipate revenues.md",
+   "path": "Chapter 004 - Puerto Rico/Subchapter 001 (I) - General Provisions/§ 00740 - Duties and taxes to constitute fund for benefit of Puerto Rico; ports of entry.md",
    "printed_pages": [
     58,
+    59
+   ]
+  },
+  {
+   "id": "48_741",
+   "marks": [],
+   "path": "Chapter 004 - Puerto Rico/Subchapter 001 (I) - General Provisions/§ 00741 - Export duties, taxes, etc.; bonds to anticipate revenues.md",
+   "printed_pages": [
+    59,
     59
    ]
   },
@@ -1838,11 +1833,18 @@
   },
   {
    "id": "48_742",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     6,
+     "[Page 60]",
+     true
+    ]
+   ],
    "path": "Chapter 004 - Puerto Rico/Subchapter 001 (I) - General Provisions/§ 00742 - Acknowledgment of deeds.md",
    "printed_pages": [
     59,
-    59
+    60
    ]
   },
   {
@@ -1850,33 +1852,33 @@
    "marks": [],
    "path": "Chapter 004 - Puerto Rico/Subchapter 001 (I) - General Provisions/§ 00743 - Repealed. July 1, 1944, ch. 373, title XI, §1113, 58 Stat. 714.md",
    "printed_pages": [
-    59,
-    59
+    60,
+    60
    ]
   },
   {
    "id": "48_744",
-   "marks": [
-    [
-     "L",
-     16,
-     "[Page 60]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 004 - Puerto Rico/Subchapter 001 (I) - General Provisions/§ 00744 - Coasting trade laws.md",
    "printed_pages": [
-    59,
+    60,
     60
    ]
   },
   {
    "id": "48_745",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     36,
+     "[Page 61]",
+     true
+    ]
+   ],
    "path": "Chapter 004 - Puerto Rico/Subchapter 001 (I) - General Provisions/§ 00745 - Tax exempt bonds.md",
    "printed_pages": [
     60,
-    60
+    61
    ]
   },
   {
@@ -1884,8 +1886,8 @@
    "marks": [],
    "path": "Chapter 004 - Puerto Rico/Subchapter 001 (I) - General Provisions/§ 00745a - Public improvement bonds sold to United States or agency thereof excluded from public indebtedness.md",
    "printed_pages": [
-    60,
-    60
+    61,
+    61
    ]
   },
   {
@@ -1893,27 +1895,16 @@
    "marks": [],
    "path": "Chapter 004 - Puerto Rico/Subchapter 001 (I) - General Provisions/§ 00745b - Refunding bonds excluded temporarily in computing indebtedness.md",
    "printed_pages": [
-    60,
-    60
+    61,
+    61
    ]
   },
   {
    "id": "48_746",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       839,
-       "[Page 61]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 004 - Puerto Rico/Subchapter 001 (I) - General Provisions/§ 00746 - Public lands and buildings; reservations; rights prior to July 1, 1902.md",
    "printed_pages": [
-    60,
+    61,
     61
    ]
   },
@@ -1928,40 +1919,47 @@
   },
   {
    "id": "48_748",
-   "marks": [],
-   "path": "Chapter 004 - Puerto Rico/Subchapter 001 (I) - General Provisions/§ 00748 - Conveyance by President to people of lands, buildings, etc.md",
-   "printed_pages": [
-    61,
-    61
-   ]
-  },
-  {
-   "id": "48_749",
    "marks": [
     [
      "I",
      2,
      [
       [
-       1210,
+       189,
        "[Page 62]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 004 - Puerto Rico/Subchapter 001 (I) - General Provisions/§ 00749 - Harbors and navigable waters transferred; definitions.md",
+   "path": "Chapter 004 - Puerto Rico/Subchapter 001 (I) - General Provisions/§ 00748 - Conveyance by President to people of lands, buildings, etc.md",
    "printed_pages": [
     61,
     62
    ]
   },
   {
-   "id": "48_750",
+   "id": "48_749",
    "marks": [],
-   "path": "Chapter 004 - Puerto Rico/Subchapter 001 (I) - General Provisions/§ 00750 - Repealed. July 3, 1950, ch. 446, §5(2), 64 Stat. 320.md",
+   "path": "Chapter 004 - Puerto Rico/Subchapter 001 (I) - General Provisions/§ 00749 - Harbors and navigable waters transferred; definitions.md",
    "printed_pages": [
     62,
     62
+   ]
+  },
+  {
+   "id": "48_750",
+   "marks": [
+    [
+     "L",
+     8,
+     "[Page 63]",
+     true
+    ]
+   ],
+   "path": "Chapter 004 - Puerto Rico/Subchapter 001 (I) - General Provisions/§ 00750 - Repealed. July 3, 1950, ch. 446, §5(2), 64 Stat. 320.md",
+   "printed_pages": [
+    62,
+    63
    ]
   },
   {
@@ -1969,27 +1967,16 @@
    "marks": [],
    "path": "Chapter 004 - Puerto Rico/Subchapter 001 (I) - General Provisions/§ 00751 - Interstate commerce and certain other laws inapplicable to Puerto Rico.md",
    "printed_pages": [
-    62,
-    62
+    63,
+    63
    ]
   },
   {
    "id": "48_752",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       477,
-       "[Page 63]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 004 - Puerto Rico/Subchapter 001 (I) - General Provisions/§ 00752 - Corporate real estate holdings.md",
    "printed_pages": [
-    62,
+    63,
     63
    ]
   },
@@ -2025,10 +2012,10 @@
    "marks": [
     [
      "I",
-     40,
+     2,
      [
       [
-       121,
+       119,
        "[Page 64]"
       ]
      ]
@@ -2060,11 +2047,22 @@
   },
   {
    "id": "48_794",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     20,
+     [
+      [
+       108,
+       "[Page 65]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 004 - Puerto Rico/Subchapter 002 (II) - The Executive and Government Officials/§ 00794 - Official reports.md",
    "printed_pages": [
     64,
-    64
+    65
    ]
   },
   {
@@ -2072,23 +2070,16 @@
    "marks": [],
    "path": "Chapter 004 - Puerto Rico/Subchapter 002 (II) - The Executive and Government Officials/§ 00795 - Government expenses payable out of revenues.md",
    "printed_pages": [
-    64,
-    64
+    65,
+    65
    ]
   },
   {
    "id": "48_796_to_799",
-   "marks": [
-    [
-     "L",
-     6,
-     "[Page 65]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 004 - Puerto Rico/Subchapter 002 (II) - The Executive and Government Officials/§ 00796 to 799 - Repealed. July 3, 1950, ch. 446, §5(2), 64 Stat. 320.md",
    "printed_pages": [
-    64,
+    65,
     65
    ]
   },
@@ -2112,11 +2103,22 @@
   },
   {
    "id": "48_821",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     8,
+     [
+      [
+       271,
+       "[Page 66]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 004 - Puerto Rico/Subchapter 003 (III) - The Legislature/§ 00821 - Legislative power.md",
    "printed_pages": [
     65,
-    65
+    66
    ]
   },
   {
@@ -2124,8 +2126,8 @@
    "marks": [],
    "path": "Chapter 004 - Puerto Rico/Subchapter 003 (III) - The Legislature/§ 00822, 823 - Repealed. July 3, 1950, ch. 446, §5(2), 64 Stat. 320.md",
    "printed_pages": [
-    65,
-    65
+    66,
+    66
    ]
   },
   {
@@ -2133,23 +2135,16 @@
    "marks": [],
    "path": "Chapter 004 - Puerto Rico/Subchapter 003 (III) - The Legislature/§ 00823a - Omitted.md",
    "printed_pages": [
-    65,
-    65
+    66,
+    66
    ]
   },
   {
    "id": "48_824_to_844",
-   "marks": [
-    [
-     "L",
-     28,
-     "[Page 66]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 004 - Puerto Rico/Subchapter 003 (III) - The Legislature/§ 00824 to 844 - Repealed. July 3, 1950, ch. 446, §5(2), 64 Stat. 320.md",
    "printed_pages": [
-    65,
+    66,
     66
    ]
   },
@@ -2182,11 +2177,18 @@
   },
   {
    "id": "48_862",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     6,
+     "[Page 67]",
+     true
+    ]
+   ],
    "path": "Chapter 004 - Puerto Rico/Subchapter 004 (IV) - The Judiciary/§ 00862 - Omitted.md",
    "printed_pages": [
     66,
-    66
+    67
    ]
   },
   {
@@ -2194,23 +2196,16 @@
    "marks": [],
    "path": "Chapter 004 - Puerto Rico/Subchapter 004 (IV) - The Judiciary/§ 00863 - Repealed. Pub. L. 91–272, §13, June 2, 1970, 84 Stat. 298.md",
    "printed_pages": [
-    66,
-    66
+    67,
+    67
    ]
   },
   {
    "id": "48_864",
-   "marks": [
-    [
-     "L",
-     20,
-     "[Page 67]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 004 - Puerto Rico/Subchapter 004 (IV) - The Judiciary/§ 00864 - Appeals, certiorari, removal of causes, etc.; use of English language.md",
    "printed_pages": [
-    66,
+    67,
     67
    ]
   },
@@ -2234,11 +2229,22 @@
   },
   {
    "id": "48_867",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     6,
+     [
+      [
+       221,
+       "[Page 68]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 004 - Puerto Rico/Subchapter 004 (IV) - The Judiciary/§ 00867 - Repealed. Pub. L. 90–274, §103(g), Mar. 27, 1968, 82 Stat. 63.md",
    "printed_pages": [
     67,
-    67
+    68
    ]
   },
   {
@@ -2246,27 +2252,16 @@
    "marks": [],
    "path": "Chapter 004 - Puerto Rico/Subchapter 004 (IV) - The Judiciary/§ 00868 - Fees part of United States revenues.md",
    "printed_pages": [
-    67,
-    67
+    68,
+    68
    ]
   },
   {
    "id": "48_869",
-   "marks": [
-    [
-     "I",
-     12,
-     [
-      [
-       163,
-       "[Page 68]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 004 - Puerto Rico/Subchapter 004 (IV) - The Judiciary/§ 00869 - Fees payable by United States out of revenue of Puerto Rico.md",
    "printed_pages": [
-    67,
+    68,
     68
    ]
   },
@@ -2290,11 +2285,18 @@
   },
   {
    "id": "48_872",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     32,
+     "[Page 69]",
+     true
+    ]
+   ],
    "path": "Chapter 004 - Puerto Rico/Subchapter 004 (IV) - The Judiciary/§ 00872 - Habeas corpus; mandamus; suit to restrain assessment or collection of taxes.md",
    "printed_pages": [
     68,
-    68
+    69
    ]
   },
   {
@@ -2302,8 +2304,8 @@
    "marks": [],
    "path": "Chapter 004 - Puerto Rico/Subchapter 004 (IV) - The Judiciary/§ 00873 - Repealed. July 3, 1950, ch. 446, §5(2), 64 Stat. 320.md",
    "printed_pages": [
-    68,
-    68
+    69,
+    69
    ]
   },
   {
@@ -2311,8 +2313,8 @@
    "marks": [],
    "path": "Chapter 004 - Puerto Rico/Subchapter 004 (IV) - The Judiciary/§ 00873a - Repealed. June 25, 1948, ch. 646, §39, 62 Stat. 992.md",
    "printed_pages": [
-    68,
-    68
+    69,
+    69
    ]
   },
   {
@@ -2320,27 +2322,16 @@
    "marks": [],
    "path": "Chapter 004 - Puerto Rico/Subchapter 004 (IV) - The Judiciary/§ 00874 - Judicial process; officials to be citizens of United States; oath.md",
    "printed_pages": [
-    68,
-    68
+    69,
+    69
    ]
   },
   {
    "id": "48_875,_876",
-   "marks": [
-    [
-     "I",
-     8,
-     [
-      [
-       109,
-       "[Page 69]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 004 - Puerto Rico/Subchapter 004 (IV) - The Judiciary/§ 00875, 876 - Repealed. June 25, 1948, ch. 646, §39, 62 Stat. 992.md",
    "printed_pages": [
-    68,
+    69,
     69
    ]
   },
@@ -2364,11 +2355,18 @@
   },
   {
    "id": "48_892",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     6,
+     "[Page 70]",
+     true
+    ]
+   ],
    "path": "Chapter 004 - Puerto Rico/Subchapter 005 (V) - Resident Commissioner/§ 00892 - Qualifications of Commissioner; appointment to fill vacancy.md",
    "printed_pages": [
     69,
-    69
+    70
    ]
   },
   {
@@ -2376,23 +2374,16 @@
    "marks": [],
    "path": "Chapter 004 - Puerto Rico/Subchapter 005 (V) - Resident Commissioner/§ 00893 - Salary of Commissioner; allowances; franking privilege.md",
    "printed_pages": [
-    69,
-    69
+    70,
+    70
    ]
   },
   {
    "id": "48_894",
-   "marks": [
-    [
-     "L",
-     22,
-     "[Page 70]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 004 - Puerto Rico/Subchapter 005 (V) - Resident Commissioner/§ 00894 - Salary and traveling expenses; payment.md",
    "printed_pages": [
-    69,
+    70,
     70
    ]
   },
@@ -2407,11 +2398,18 @@
   },
   {
    "id": "48_910",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     16,
+     "[Page 71]",
+     true
+    ]
+   ],
    "path": "Chapter 004 - Puerto Rico/Subchapter 006 (VI) - Slum Clearance and Urban Redevelopment Projects/§ 00910 - Slum clearance and urban redevelopment and renewal projects; powers of government.md",
    "printed_pages": [
     70,
-    70
+    71
    ]
   },
   {
@@ -2419,27 +2417,16 @@
    "marks": [],
    "path": "Chapter 004 - Puerto Rico/Subchapter 006 (VI) - Slum Clearance and Urban Redevelopment Projects/§ 00910a - Authorization of loans, conveyances, etc., by government and municipalities.md",
    "printed_pages": [
-    70,
-    70
+    71,
+    71
    ]
   },
   {
    "id": "48_910b",
-   "marks": [
-    [
-     "I",
-     8,
-     [
-      [
-       109,
-       "[Page 71]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 004 - Puerto Rico/Subchapter 006 (VI) - Slum Clearance and Urban Redevelopment Projects/§ 00910b - Ratification of prior acts.md",
    "printed_pages": [
-    70,
+    71,
     71
    ]
   },
@@ -2481,11 +2468,18 @@
   },
   {
    "id": "48_914",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     14,
+     "[Page 72]",
+     true
+    ]
+   ],
    "path": "Chapter 004 - Puerto Rico/Subchapter 007 (VII) - Low Rent Housing Projects and Elimination of Sub-Standard Housing/§ 00914 - Issuance of bonds and obligations.md",
    "printed_pages": [
     71,
-    71
+    72
    ]
   },
   {
@@ -2493,8 +2487,8 @@
    "marks": [],
    "path": "Chapter 004 - Puerto Rico/Subchapter 007 (VII) - Low Rent Housing Projects and Elimination of Sub-Standard Housing/§ 00915 - Bonds as public debt.md",
    "printed_pages": [
-    71,
-    71
+    72,
+    72
    ]
   },
   {
@@ -2502,8 +2496,8 @@
    "marks": [],
    "path": "Chapter 004 - Puerto Rico/Subchapter 007 (VII) - Low Rent Housing Projects and Elimination of Sub-Standard Housing/§ 00916 - Ratification of previous legislation.md",
    "printed_pages": [
-    71,
-    71
+    72,
+    72
    ]
   },
   {
@@ -2511,23 +2505,16 @@
    "marks": [],
    "path": "Chapter 005 - Philippine Islands/README.md",
    "printed_pages": [
-    71,
-    71
+    72,
+    72
    ]
   },
   {
    "id": "48_1001_to_1008",
-   "marks": [
-    [
-     "L",
-     18,
-     "[Page 72]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 005 - Philippine Islands/§ 01001 to 1008 - Omitted.md",
    "printed_pages": [
-    71,
+    72,
     72
    ]
   },
@@ -2551,11 +2538,18 @@
   },
   {
    "id": "48_1041_to_1055",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     32,
+     "[Page 73]",
+     true
+    ]
+   ],
    "path": "Chapter 005 - Philippine Islands/§ 01041 to 1055 - Omitted.md",
    "printed_pages": [
     72,
-    72
+    73
    ]
   },
   {
@@ -2563,8 +2557,8 @@
    "marks": [],
    "path": "Chapter 005 - Philippine Islands/§ 01071 to 1078 - Omitted.md",
    "printed_pages": [
-    72,
-    72
+    73,
+    73
    ]
   },
   {
@@ -2572,23 +2566,16 @@
    "marks": [],
    "path": "Chapter 005 - Philippine Islands/§ 01091 to 1094 - Omitted.md",
    "printed_pages": [
-    72,
-    72
+    73,
+    73
    ]
   },
   {
    "id": "48_1111_to_1125",
-   "marks": [
-    [
-     "L",
-     6,
-     "[Page 73]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 005 - Philippine Islands/§ 01111 to 1125 - Omitted.md",
    "printed_pages": [
-    72,
+    73,
     73
    ]
   },
@@ -2612,11 +2599,18 @@
   },
   {
    "id": "48_1171_to_1173",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     6,
+     "[Page 74]",
+     true
+    ]
+   ],
    "path": "Chapter 005 - Philippine Islands/§ 01171 to 1173 - Omitted.md",
    "printed_pages": [
     73,
-    73
+    74
    ]
   },
   {
@@ -2624,23 +2618,16 @@
    "marks": [],
    "path": "Chapter 005 - Philippine Islands/§ 01191 to 1202 - Omitted.md",
    "printed_pages": [
-    73,
-    73
+    74,
+    74
    ]
   },
   {
    "id": "48_1221_to_1226",
-   "marks": [
-    [
-     "L",
-     10,
-     "[Page 74]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 005 - Philippine Islands/§ 01221 to 1226 - Omitted.md",
    "printed_pages": [
-    73,
+    74,
     74
    ]
   },
@@ -2673,11 +2660,18 @@
   },
   {
    "id": "48_1236b_to_1237c",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     18,
+     "[Page 75]",
+     true
+    ]
+   ],
    "path": "Chapter 005 - Philippine Islands/§ 01236b to 1237c - Omitted.md",
    "printed_pages": [
     74,
-    74
+    75
    ]
   },
   {
@@ -2685,8 +2679,8 @@
    "marks": [],
    "path": "Chapter 005 - Philippine Islands/§ 01238 - Repealed. June 27, 1952, ch. 477, title IV, §403(a)(35), 66 Stat. 279.md",
    "printed_pages": [
-    74,
-    74
+    75,
+    75
    ]
   },
   {
@@ -2694,8 +2688,8 @@
    "marks": [],
    "path": "Chapter 005 - Philippine Islands/§ 01238a, 1239 - Omitted.md",
    "printed_pages": [
-    74,
-    74
+    75,
+    75
    ]
   },
   {
@@ -2703,8 +2697,8 @@
    "marks": [],
    "path": "Chapter 005 - Philippine Islands/§ 01240 - Transferred.md",
    "printed_pages": [
-    74,
-    74
+    75,
+    75
    ]
   },
   {
@@ -2712,8 +2706,8 @@
    "marks": [],
    "path": "Chapter 005 - Philippine Islands/§ 01241 to 1243 - Omitted.md",
    "printed_pages": [
-    74,
-    74
+    75,
+    75
    ]
   },
   {
@@ -2721,27 +2715,16 @@
    "marks": [],
    "path": "Chapter 005 - Philippine Islands/§ 01244 - Repealed. June 27, 1952, ch. 477, title IV, §403(a)(35), 66 Stat. 279.md",
    "printed_pages": [
-    74,
-    74
+    75,
+    75
    ]
   },
   {
    "id": "48_1245",
-   "marks": [
-    [
-     "I",
-     4,
-     [
-      [
-       117,
-       "[Page 75]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 005 - Philippine Islands/§ 01245 - Omitted.md",
    "printed_pages": [
-    74,
+    75,
     75
    ]
   },
@@ -2792,26 +2775,26 @@
   },
   {
    "id": "48_1261_to_1264",
-   "marks": [],
-   "path": "Chapter 005 - Philippine Islands/§ 01261 to 1264 - Transferred.md",
-   "printed_pages": [
-    75,
-    75
-   ]
-  },
-  {
-   "id": "48_1266_to_1270b",
    "marks": [
     [
      "L",
-     18,
+     16,
      "[Page 76]",
      true
     ]
    ],
-   "path": "Chapter 005 - Philippine Islands/§ 01266 to 1270b - Transferred.md",
+   "path": "Chapter 005 - Philippine Islands/§ 01261 to 1264 - Transferred.md",
    "printed_pages": [
     75,
+    76
+   ]
+  },
+  {
+   "id": "48_1266_to_1270b",
+   "marks": [],
+   "path": "Chapter 005 - Philippine Islands/§ 01266 to 1270b - Transferred.md",
+   "printed_pages": [
+    76,
     76
    ]
   },
@@ -2826,11 +2809,18 @@
   },
   {
    "id": "48_1274_to_1274i",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     20,
+     "[Page 77]",
+     true
+    ]
+   ],
    "path": "Chapter 005 - Philippine Islands/§ 01274 to 1274i - Transferred.md",
    "printed_pages": [
     76,
-    76
+    77
    ]
   },
   {
@@ -2838,8 +2828,8 @@
    "marks": [],
    "path": "Chapter 005 - Philippine Islands/§ 01276 to 1276e - Transferred.md",
    "printed_pages": [
-    76,
-    76
+    77,
+    77
    ]
   },
   {
@@ -2847,23 +2837,16 @@
    "marks": [],
    "path": "Chapter 006 - Canal Zone/README.md",
    "printed_pages": [
-    76,
-    76
+    77,
+    77
    ]
   },
   {
    "id": "48_1301_to_1304",
-   "marks": [
-    [
-     "L",
-     6,
-     "[Page 77]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 006 - Canal Zone/§ 01301 to 1304 - Omitted.md",
    "printed_pages": [
-    76,
+    77,
     77
    ]
   },
@@ -2887,42 +2870,6 @@
   },
   {
    "id": "48_1314b_to_1314e",
-   "marks": [],
-   "path": "Chapter 006 - Canal Zone/§ 01314b to 1314e - Repealed. Aug. 10, 1949, ch. 415, §9(d), 63 Stat. 597.md",
-   "printed_pages": [
-    77,
-    77
-   ]
-  },
-  {
-   "id": "48_1314f_to_1315a",
-   "marks": [],
-   "path": "Chapter 006 - Canal Zone/§ 01314f to 1315a - Omitted.md",
-   "printed_pages": [
-    77,
-    77
-   ]
-  },
-  {
-   "id": "48_1316",
-   "marks": [],
-   "path": "Chapter 006 - Canal Zone/§ 01316 - Repealed. Sept. 26, 1950, ch. 1049, §13(3), 64 Stat. 1043.md",
-   "printed_pages": [
-    77,
-    77
-   ]
-  },
-  {
-   "id": "48_1317_to_1319",
-   "marks": [],
-   "path": "Chapter 006 - Canal Zone/§ 01317 to 1319 - Omitted.md",
-   "printed_pages": [
-    77,
-    77
-   ]
-  },
-  {
-   "id": "48_1320",
    "marks": [
     [
      "L",
@@ -2931,9 +2878,45 @@
      true
     ]
    ],
-   "path": "Chapter 006 - Canal Zone/§ 01320 - Repealed. Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 642.md",
+   "path": "Chapter 006 - Canal Zone/§ 01314b to 1314e - Repealed. Aug. 10, 1949, ch. 415, §9(d), 63 Stat. 597.md",
    "printed_pages": [
     77,
+    78
+   ]
+  },
+  {
+   "id": "48_1314f_to_1315a",
+   "marks": [],
+   "path": "Chapter 006 - Canal Zone/§ 01314f to 1315a - Omitted.md",
+   "printed_pages": [
+    78,
+    78
+   ]
+  },
+  {
+   "id": "48_1316",
+   "marks": [],
+   "path": "Chapter 006 - Canal Zone/§ 01316 - Repealed. Sept. 26, 1950, ch. 1049, §13(3), 64 Stat. 1043.md",
+   "printed_pages": [
+    78,
+    78
+   ]
+  },
+  {
+   "id": "48_1317_to_1319",
+   "marks": [],
+   "path": "Chapter 006 - Canal Zone/§ 01317 to 1319 - Omitted.md",
+   "printed_pages": [
+    78,
+    78
+   ]
+  },
+  {
+   "id": "48_1320",
+   "marks": [],
+   "path": "Chapter 006 - Canal Zone/§ 01320 - Repealed. Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 642.md",
+   "printed_pages": [
+    78,
     78
    ]
   },
@@ -2975,11 +2958,18 @@
   },
   {
    "id": "48_1325a_to_1327",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     18,
+     "[Page 79]",
+     true
+    ]
+   ],
    "path": "Chapter 006 - Canal Zone/§ 01325a to 1327 - Omitted.md",
    "printed_pages": [
     78,
-    78
+    79
    ]
   },
   {
@@ -2987,23 +2977,16 @@
    "marks": [],
    "path": "Chapter 006 - Canal Zone/§ 01328, 1329 - Repealed. Sept. 26, 1950, ch. 1049, §13(1), 64 Stat. 1043.md",
    "printed_pages": [
-    78,
-    78
+    79,
+    79
    ]
   },
   {
    "id": "48_1330_to_1336h",
-   "marks": [
-    [
-     "L",
-     42,
-     "[Page 79]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 006 - Canal Zone/§ 01330 to 1336h - Omitted.md",
    "printed_pages": [
-    78,
+    79,
     79
    ]
   },
@@ -3027,11 +3010,18 @@
   },
   {
    "id": "48_1341_to_1355",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     22,
+     "[Page 80]",
+     true
+    ]
+   ],
    "path": "Chapter 006 - Canal Zone/§ 01341 to 1355 - Omitted.md",
    "printed_pages": [
     79,
-    79
+    80
    ]
   },
   {
@@ -3039,23 +3029,16 @@
    "marks": [],
    "path": "Chapter 006 - Canal Zone/§ 01356 - Repealed. June 25, 1948, ch. 646, §35, 62 Stat. 991.md",
    "printed_pages": [
-    79,
-    79
+    80,
+    80
    ]
   },
   {
    "id": "48_1357,_1358",
-   "marks": [
-    [
-     "L",
-     8,
-     "[Page 80]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 006 - Canal Zone/§ 01357, 1358 - Omitted.md",
    "printed_pages": [
-    79,
+    80,
     80
    ]
   },
@@ -3097,24 +3080,6 @@
   },
   {
    "id": "48_1371c_to_1371p",
-   "marks": [],
-   "path": "Chapter 006 - Canal Zone/§ 01371c to 1371p - Repealed. July 21, 1949, ch. 356, §1(b), 63 Stat. 475.md",
-   "printed_pages": [
-    80,
-    80
-   ]
-  },
-  {
-   "id": "48_1372",
-   "marks": [],
-   "path": "Chapter 006 - Canal Zone/§ 01372 - Omitted.md",
-   "printed_pages": [
-    80,
-    80
-   ]
-  },
-  {
-   "id": "48_1373_to_1374d",
    "marks": [
     [
      "L",
@@ -3123,9 +3088,27 @@
      true
     ]
    ],
-   "path": "Chapter 006 - Canal Zone/§ 01373 to 1374d - Omitted.md",
+   "path": "Chapter 006 - Canal Zone/§ 01371c to 1371p - Repealed. July 21, 1949, ch. 356, §1(b), 63 Stat. 475.md",
    "printed_pages": [
     80,
+    81
+   ]
+  },
+  {
+   "id": "48_1372",
+   "marks": [],
+   "path": "Chapter 006 - Canal Zone/§ 01372 - Omitted.md",
+   "printed_pages": [
+    81,
+    81
+   ]
+  },
+  {
+   "id": "48_1373_to_1374d",
+   "marks": [],
+   "path": "Chapter 006 - Canal Zone/§ 01373 to 1374d - Omitted.md",
+   "printed_pages": [
+    81,
     81
    ]
   },
@@ -3160,10 +3143,14 @@
    "id": "48_-ch7",
    "marks": [
     [
-     "L",
-     90,
-     "[Page 82]",
-     true
+     "I",
+     16,
+     [
+      [
+       135,
+       "[Page 82]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 007 - Virgin Islands/README.md",
@@ -3174,11 +3161,18 @@
   },
   {
    "id": "48_-ch7-scI",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     44,
+     "[Page 83]",
+     true
+    ]
+   ],
    "path": "Chapter 007 - Virgin Islands/Subchapter 001 (I) - General Provisions/README.md",
    "printed_pages": [
     82,
-    82
+    83
    ]
   },
   {
@@ -3186,23 +3180,16 @@
    "marks": [],
    "path": "Chapter 007 - Virgin Islands/Subchapter 001 (I) - General Provisions/§ 01391 - Repealed. Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 643.md",
    "printed_pages": [
-    82,
-    82
+    83,
+    83
    ]
   },
   {
    "id": "48_1392",
-   "marks": [
-    [
-     "L",
-     6,
-     "[Page 83]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 007 - Virgin Islands/Subchapter 001 (I) - General Provisions/§ 01392 - Local laws continued; courts.md",
    "printed_pages": [
-    82,
+    83,
     83
    ]
   },
@@ -3235,26 +3222,26 @@
   },
   {
    "id": "48_1394",
-   "marks": [],
-   "path": "Chapter 007 - Virgin Islands/Subchapter 001 (I) - General Provisions/§ 01394 - Customs duties and internal-revenue taxes.md",
-   "printed_pages": [
-    83,
-    83
-   ]
-  },
-  {
-   "id": "48_1395",
    "marks": [
     [
      "L",
-     16,
+     18,
      "[Page 84]",
      true
     ]
    ],
-   "path": "Chapter 007 - Virgin Islands/Subchapter 001 (I) - General Provisions/§ 01395 - Tax laws continued; tax on sugar.md",
+   "path": "Chapter 007 - Virgin Islands/Subchapter 001 (I) - General Provisions/§ 01394 - Customs duties and internal-revenue taxes.md",
    "printed_pages": [
     83,
+    84
+   ]
+  },
+  {
+   "id": "48_1395",
+   "marks": [],
+   "path": "Chapter 007 - Virgin Islands/Subchapter 001 (I) - General Provisions/§ 01395 - Tax laws continued; tax on sugar.md",
+   "printed_pages": [
+    84,
     84
    ]
   },
@@ -3269,11 +3256,18 @@
   },
   {
    "id": "48_1397",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     30,
+     "[Page 85]",
+     true
+    ]
+   ],
    "path": "Chapter 007 - Virgin Islands/Subchapter 001 (I) - General Provisions/§ 01397 - Income tax laws of United States in force; payment of proceeds; levy of surtax on all taxpayers.md",
    "printed_pages": [
     84,
-    84
+    85
    ]
   },
   {
@@ -3281,8 +3275,8 @@
    "marks": [],
    "path": "Chapter 007 - Virgin Islands/Subchapter 001 (I) - General Provisions/§ 01398 - Omitted.md",
    "printed_pages": [
-    84,
-    84
+    85,
+    85
    ]
   },
   {
@@ -3290,8 +3284,8 @@
    "marks": [],
    "path": "Chapter 007 - Virgin Islands/Subchapter 001 (I) - General Provisions/§ 01399 - Repealed. Pub. L. 97–357, title III, §308(b), Oct. 19, 1982, 96 Stat. 1710.md",
    "printed_pages": [
-    84,
-    84
+    85,
+    85
    ]
   },
   {
@@ -3299,8 +3293,8 @@
    "marks": [],
    "path": "Chapter 007 - Virgin Islands/Subchapter 001 (I) - General Provisions/§ 01400 - Repealed. Pub. L. 98–454, title VII, §709, Oct. 5, 1984, 98 Stat. 1741.md",
    "printed_pages": [
-    84,
-    84
+    85,
+    85
    ]
   },
   {
@@ -3308,23 +3302,16 @@
    "marks": [],
    "path": "Chapter 007 - Virgin Islands/Subchapter 001 (I) - General Provisions/§ 01401 - Equalization of taxes on real property; declaration of policy.md",
    "printed_pages": [
-    84,
-    84
+    85,
+    85
    ]
   },
   {
    "id": "48_1401a",
-   "marks": [
-    [
-     "L",
-     10,
-     "[Page 85]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 007 - Virgin Islands/Subchapter 001 (I) - General Provisions/§ 01401a - Valuation of real property for assessment; uniformity of rates.md",
    "printed_pages": [
-    84,
+    85,
     85
    ]
   },
@@ -3357,11 +3344,18 @@
   },
   {
    "id": "48_1401e",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     10,
+     "[Page 86]",
+     true
+    ]
+   ],
    "path": "Chapter 007 - Virgin Islands/Subchapter 001 (I) - General Provisions/§ 01401e - Exemptions from taxation; authority of municipalities to alter, amend, or repeal existing laws.md",
    "printed_pages": [
     85,
-    85
+    86
    ]
   },
   {
@@ -3369,37 +3363,37 @@
    "marks": [],
    "path": "Chapter 007 - Virgin Islands/Subchapter 001 (I) - General Provisions/§ 01401f - Omitted.md",
    "printed_pages": [
-    85,
-    85
+    86,
+    86
    ]
   },
   {
    "id": "48_1402",
+   "marks": [],
+   "path": "Chapter 007 - Virgin Islands/Subchapter 001 (I) - General Provisions/§ 01402 - Extension of industrial alcohol and internal revenue laws to Virgin Islands.md",
+   "printed_pages": [
+    86,
+    86
+   ]
+  },
+  {
+   "id": "48_1403",
    "marks": [
     [
      "I",
      2,
      [
       [
-       421,
-       "[Page 86]"
+       1926,
+       "[Page 87]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 007 - Virgin Islands/Subchapter 001 (I) - General Provisions/§ 01402 - Extension of industrial alcohol and internal revenue laws to Virgin Islands.md",
-   "printed_pages": [
-    85,
-    86
-   ]
-  },
-  {
-   "id": "48_1403",
-   "marks": [],
    "path": "Chapter 007 - Virgin Islands/Subchapter 001 (I) - General Provisions/§ 01403 - Issuance of bonds or other obligations by government or municipalities; use of proceeds; limit on public indebtedness; terms, execution….md",
    "printed_pages": [
     86,
-    86
+    87
    ]
   },
   {
@@ -3407,8 +3401,8 @@
    "marks": [],
    "path": "Chapter 007 - Virgin Islands/Subchapter 001 (I) - General Provisions/§ 01403a - Expenditure of bond proceeds for public improvements.md",
    "printed_pages": [
-    86,
-    86
+    87,
+    87
    ]
   },
   {
@@ -3416,23 +3410,16 @@
    "marks": [],
    "path": "Chapter 007 - Virgin Islands/Subchapter 001 (I) - General Provisions/§ 01403b - Bond liability of United States.md",
    "printed_pages": [
-    86,
-    86
+    87,
+    87
    ]
   },
   {
    "id": "48_-ch7-scII",
-   "marks": [
-    [
-     "L",
-     6,
-     "[Page 87]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 007 - Virgin Islands/Subchapter 002 (II) - Civil Government/README.md",
    "printed_pages": [
-    86,
+    87,
     87
    ]
   },
@@ -3459,7 +3446,7 @@
    "marks": [
     [
      "L",
-     70,
+     24,
      "[Page 88]",
      true
     ]
@@ -3499,11 +3486,22 @@
   },
   {
    "id": "48_1405q",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       997,
+       "[Page 89]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 007 - Virgin Islands/Subchapter 002 (II) - Civil Government/§ 01405q - Laws continued in force until modified; patent, trade mark, and copyright laws extended to Virgin Islands; jurisdiction of district court.md",
    "printed_pages": [
     88,
-    88
+    89
    ]
   },
   {
@@ -3511,8 +3509,8 @@
    "marks": [],
    "path": "Chapter 007 - Virgin Islands/Subchapter 002 (II) - Civil Government/§ 01405r - Repealed. Pub. L. 97–357, title III, §307, Oct. 19, 1982, 96 Stat. 1709.md",
    "printed_pages": [
-    88,
-    88
+    89,
+    89
    ]
   },
   {
@@ -3520,8 +3518,8 @@
    "marks": [],
    "path": "Chapter 007 - Virgin Islands/Subchapter 002 (II) - Civil Government/§ 01405s to 1405t - Repealed. Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 649, 651, 655.md",
    "printed_pages": [
-    88,
-    88
+    89,
+    89
    ]
   },
   {
@@ -3529,27 +3527,16 @@
    "marks": [],
    "path": "Chapter 007 - Virgin Islands/Subchapter 002 (II) - Civil Government/§ 01405u to 1405w - Repealed. Pub. L. 97–357, title III, §307, Oct. 19, 1982, 96 Stat. 1709.md",
    "printed_pages": [
-    88,
-    88
+    89,
+    89
    ]
   },
   {
    "id": "48_1405w-1",
-   "marks": [
-    [
-     "I",
-     4,
-     [
-      [
-       108,
-       "[Page 89]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 007 - Virgin Islands/Subchapter 002 (II) - Civil Government/§ 01405w–1 - Omitted.md",
    "printed_pages": [
-    88,
+    89,
     89
    ]
   },
@@ -3600,11 +3587,22 @@
   },
   {
    "id": "48_1406h",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       1041,
+       "[Page 90]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 007 - Virgin Islands/Subchapter 002 (II) - Civil Government/§ 01406h - Taxes, duties and fees as funds for benefit of municipalities; appropriations.md",
    "printed_pages": [
     89,
-    89
+    90
    ]
   },
   {
@@ -3612,23 +3610,16 @@
    "marks": [],
    "path": "Chapter 007 - Virgin Islands/Subchapter 002 (II) - Civil Government/§ 01406i - Taxes and fees; power to assess and collect; ports of entry; export duties.md",
    "printed_pages": [
-    89,
-    89
+    90,
+    90
    ]
   },
   {
    "id": "48_1406j",
-   "marks": [
-    [
-     "L",
-     4,
-     "[Page 90]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 007 - Virgin Islands/Subchapter 002 (II) - Civil Government/§ 01406j - Repealed. Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 649.md",
    "printed_pages": [
-    89,
+    90,
     90
    ]
   },
@@ -3670,11 +3661,22 @@
   },
   {
    "id": "48_1407_to_1407i",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     28,
+     [
+      [
+       114,
+       "[Page 91]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 007 - Virgin Islands/Subchapter 003 (III) - Virgin Islands Corporation/§ 01407 to 1407i - Repealed. Pub. L. 97–357, title III, §308(e), Oct. 19, 1982, 96 Stat. 1710.md",
    "printed_pages": [
     90,
-    90
+    91
    ]
   },
   {
@@ -3682,27 +3684,16 @@
    "marks": [],
    "path": "Chapter 007 - Virgin Islands/Subchapter 004 (IV) - Public Housing/README.md",
    "printed_pages": [
-    90,
-    90
+    91,
+    91
    ]
   },
   {
    "id": "48_1408",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       844,
-       "[Page 91]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 007 - Virgin Islands/Subchapter 004 (IV) - Public Housing/§ 01408 - Legislative authority to create authorities; appointment of members; powers of authorities.md",
    "printed_pages": [
-    90,
+    91,
     91
    ]
   },
@@ -3717,26 +3708,30 @@
   },
   {
    "id": "48_1408b",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       522,
+       "[Page 92]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 007 - Virgin Islands/Subchapter 004 (IV) - Public Housing/§ 01408b - Authorization of loans, conveyances, etc., by government and municipalities.md",
    "printed_pages": [
     91,
-    91
+    92
    ]
   },
   {
    "id": "48_1408c",
-   "marks": [
-    [
-     "L",
-     12,
-     "[Page 92]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 007 - Virgin Islands/Subchapter 004 (IV) - Public Housing/§ 01408c - Grants-in-aid by Federal Government.md",
    "printed_pages": [
-    91,
+    92,
     92
    ]
   },
@@ -3769,11 +3764,22 @@
   },
   {
    "id": "48_1409_to_1409j",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     14,
+     [
+      [
+       175,
+       "[Page 93]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 007 - Virgin Islands/Subchapter 005 (V) - Internal Development/§ 01409 to 1409j - Repealed. Pub. L. 97–357, title III, §308(d), Oct. 19, 1982, 96 Stat. 1710.md",
    "printed_pages": [
     92,
-    92
+    93
    ]
   },
   {
@@ -3781,8 +3787,8 @@
    "marks": [],
    "path": "Chapter 007 - Virgin Islands/Subchapter 006 (VI) - Agricultural Program/README.md",
    "printed_pages": [
-    92,
-    92
+    93,
+    93
    ]
   },
   {
@@ -3790,8 +3796,8 @@
    "marks": [],
    "path": "Chapter 007 - Virgin Islands/Subchapter 006 (VI) - Agricultural Program/§ 01409m to 1409o - Repealed. Pub. L. 97–357, title III, §308(f), Oct. 19, 1982, 96 Stat. 1710.md",
    "printed_pages": [
-    92,
-    92
+    93,
+    93
    ]
   },
   {
@@ -3799,27 +3805,16 @@
    "marks": [],
    "path": "Chapter 008 - Guano Islands/README.md",
    "printed_pages": [
-    92,
-    92
+    93,
+    93
    ]
   },
   {
    "id": "48_1411",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       141,
-       "[Page 93]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 008 - Guano Islands/§ 01411 - Guano districts; claim by United States.md",
    "printed_pages": [
-    92,
+    93,
     93
    ]
   },
@@ -3852,11 +3847,22 @@
   },
   {
    "id": "48_1415",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       286,
+       "[Page 94]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 008 - Guano Islands/§ 01415 - Restrictions upon exportation.md",
    "printed_pages": [
     93,
-    93
+    94
    ]
   },
   {
@@ -3864,27 +3870,16 @@
    "marks": [],
    "path": "Chapter 008 - Guano Islands/§ 01416 - Regulation of trade.md",
    "printed_pages": [
-    93,
-    93
+    94,
+    94
    ]
   },
   {
    "id": "48_1417",
-   "marks": [
-    [
-     "I",
-     12,
-     [
-      [
-       102,
-       "[Page 94]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 008 - Guano Islands/§ 01417 - Criminal jurisdiction.md",
    "printed_pages": [
-    93,
+    94,
     94
    ]
   },
@@ -3911,10 +3906,10 @@
    "marks": [
     [
      "I",
-     85,
+     47,
      [
       [
-       29,
+       99,
        "[Page 95]"
       ]
      ]
@@ -3940,10 +3935,10 @@
    "marks": [
     [
      "I",
-     26,
+     2,
      [
       [
-       110,
+       134,
        "[Page 96]"
       ]
      ]
@@ -3968,10 +3963,14 @@
    "id": "48_1421b",
    "marks": [
     [
-     "L",
-     32,
-     "[Page 97]",
-     true
+     "I",
+     6,
+     [
+      [
+       98,
+       "[Page 97]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 008A - Guam/Subchapter 001 (I) - General Provisions/§ 01421b - Bill of rights.md",
@@ -3982,26 +3981,26 @@
   },
   {
    "id": "48_1421c",
-   "marks": [],
-   "path": "Chapter 008A - Guam/Subchapter 001 (I) - General Provisions/§ 01421c - Certain laws continued in force; modification or repeal of laws.md",
-   "printed_pages": [
-    97,
-    97
-   ]
-  },
-  {
-   "id": "48_1421d",
    "marks": [
     [
      "L",
-     22,
+     26,
      "[Page 98]",
      true
     ]
    ],
-   "path": "Chapter 008A - Guam/Subchapter 001 (I) - General Provisions/§ 01421d - Salaries and allowances of officers and employees.md",
+   "path": "Chapter 008A - Guam/Subchapter 001 (I) - General Provisions/§ 01421c - Certain laws continued in force; modification or repeal of laws.md",
    "printed_pages": [
     97,
+    98
+   ]
+  },
+  {
+   "id": "48_1421d",
+   "marks": [],
+   "path": "Chapter 008A - Guam/Subchapter 001 (I) - General Provisions/§ 01421d - Salaries and allowances of officers and employees.md",
+   "printed_pages": [
+    98,
     98
    ]
   },
@@ -4018,14 +4017,10 @@
    "id": "48_1421f",
    "marks": [
     [
-     "I",
-     65,
-     [
-      [
-       72,
-       "[Page 99]"
-      ]
-     ]
+     "L",
+     28,
+     "[Page 99]",
+     true
     ]
    ],
    "path": "Chapter 008A - Guam/Subchapter 001 (I) - General Provisions/§ 01421f - Title to property transferred.md",
@@ -4045,30 +4040,30 @@
   },
   {
    "id": "48_1421g",
-   "marks": [],
-   "path": "Chapter 008A - Guam/Subchapter 001 (I) - General Provisions/§ 01421g - Establishment and maintenance of public bodies and offices.md",
-   "printed_pages": [
-    99,
-    99
-   ]
-  },
-  {
-   "id": "48_1421h",
    "marks": [
     [
      "I",
-     2,
+     4,
      [
       [
-       184,
+       88,
        "[Page 100]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 008A - Guam/Subchapter 001 (I) - General Provisions/§ 01421h - Duties, taxes, and fees; proceeds collected to constitute fund for benefit of Guam; prerequisites, amount, etc., remitted prior to….md",
+   "path": "Chapter 008A - Guam/Subchapter 001 (I) - General Provisions/§ 01421g - Establishment and maintenance of public bodies and offices.md",
    "printed_pages": [
     99,
+    100
+   ]
+  },
+  {
+   "id": "48_1421h",
+   "marks": [],
+   "path": "Chapter 008A - Guam/Subchapter 001 (I) - General Provisions/§ 01421h - Duties, taxes, and fees; proceeds collected to constitute fund for benefit of Guam; prerequisites, amount, etc., remitted prior to….md",
+   "printed_pages": [
+    100,
     100
    ]
   },
@@ -4077,13 +4072,13 @@
    "marks": [
     [
      "L",
-     18,
+     10,
      "[Page 101]",
      true
     ],
     [
      "L",
-     60,
+     44,
      "[Page 102]",
      true
     ]
@@ -4115,7 +4110,7 @@
   {
    "id": "48_1421k-1",
    "marks": [],
-   "path": "Chapter 008A - Guam/Subchapter 001 (I) - General Provisions/§ 01421k–1 - Delegate from Guam to United States House of Representatives; clerk hire allowance and transportation expenses.md",
+   "path": "Chapter 008A - Guam/Subchapter 001 (I) - General Provisions/§ 01421k–1 - Repealed. Pub. L. 104–186, title II, §224(2), Aug. 20, 1996, 110 Stat. 1752.md",
    "printed_pages": [
     102,
     102
@@ -4132,30 +4127,30 @@
   },
   {
    "id": "48_1421m",
-   "marks": [],
-   "path": "Chapter 008A - Guam/Subchapter 001 (I) - General Provisions/§ 01421m - Repealed. Pub. L. 91–513, title III, §1101(a)(8), Oct. 27, 1970, 84 Stat. 1292.md",
-   "printed_pages": [
-    102,
-    102
-   ]
-  },
-  {
-   "id": "48_1421n",
    "marks": [
     [
      "I",
      2,
      [
       [
-       86,
+       110,
        "[Page 103]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 008A - Guam/Subchapter 001 (I) - General Provisions/§ 01421n - Applicability of Federal copyright laws.md",
+   "path": "Chapter 008A - Guam/Subchapter 001 (I) - General Provisions/§ 01421m - Repealed. Pub. L. 91–513, title III, §1101(a)(8), Oct. 27, 1970, 84 Stat. 1292.md",
    "printed_pages": [
     102,
+    103
+   ]
+  },
+  {
+   "id": "48_1421n",
+   "marks": [],
+   "path": "Chapter 008A - Guam/Subchapter 001 (I) - General Provisions/§ 01421n - Applicability of Federal copyright laws.md",
+   "printed_pages": [
+    103,
     103
    ]
   },
@@ -4190,10 +4185,14 @@
    "id": "48_1421q-1",
    "marks": [
     [
-     "L",
-     12,
-     "[Page 104]",
-     true
+     "I",
+     2,
+     [
+      [
+       464,
+       "[Page 104]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 008A - Guam/Subchapter 001 (I) - General Provisions/§ 01421q–1 - Applicability of laws referred to in section 502(a)(1) of Covenant to Establish a Commonwealth of the Northern Mariana Islands.md",
@@ -4215,14 +4214,10 @@
    "id": "48_1422",
    "marks": [
     [
-     "I",
+     "L",
      12,
-     [
-      [
-       969,
-       "[Page 105]"
-      ]
-     ]
+     "[Page 105]",
+     true
     ]
    ],
    "path": "Chapter 008A - Guam/Subchapter 002 (II) - The Executive Branch/§ 01422 - Governor and Lieutenant Governor; term of office; qualifications; powers and duties; annual report to Congress.md",
@@ -4245,10 +4240,10 @@
    "marks": [
     [
      "I",
-     16,
+     8,
      [
       [
-       324,
+       321,
        "[Page 106]"
       ]
      ]
@@ -4273,10 +4268,14 @@
    "id": "48_1422d",
    "marks": [
     [
-     "L",
-     10,
-     "[Page 107]",
-     true
+     "I",
+     4,
+     [
+      [
+       91,
+       "[Page 107]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 008A - Guam/Subchapter 002 (II) - The Executive Branch/§ 01422d - Transfer of functions from government comptroller for Guam to Inspector General, Department of the Interior.md",
@@ -4311,16 +4310,20 @@
      2,
      [
       [
-       928,
+       94,
        "[Page 108]"
       ]
      ]
     ],
     [
-     "L",
-     20,
-     "[Page 109]",
-     true
+     "I",
+     12,
+     [
+      [
+       2207,
+       "[Page 109]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 008A - Guam/Subchapter 003 (III) - The Legislature/§ 01423a - Power of legislature; limitation on indebtedness of Guam; bond issues; guarantees for purchase by Federal Financing Bank of Guam Power….md",
@@ -4385,30 +4388,26 @@
   },
   {
    "id": "48_1423h",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     6,
+     "[Page 110]",
+     true
+    ]
+   ],
    "path": "Chapter 008A - Guam/Subchapter 003 (III) - The Legislature/§ 01423h - Regular and special sessions.md",
    "printed_pages": [
     109,
-    109
+    110
    ]
   },
   {
    "id": "48_1423i",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       332,
-       "[Page 110]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 008A - Guam/Subchapter 003 (III) - The Legislature/§ 01423i - Approval of bills.md",
    "printed_pages": [
-    109,
+    110,
     110
    ]
   },
@@ -4435,7 +4434,7 @@
    "marks": [
     [
      "L",
-     82,
+     38,
      "[Page 111]",
      true
     ]
@@ -4457,26 +4456,26 @@
   },
   {
    "id": "48_1424",
-   "marks": [],
-   "path": "Chapter 008A - Guam/Subchapter 004 (IV) - The Judiciary/§ 01424 - District Court of Guam; local courts; jurisdiction.md",
-   "printed_pages": [
-    111,
-    111
-   ]
-  },
-  {
-   "id": "48_1424-1",
    "marks": [
     [
      "L",
-     10,
+     54,
      "[Page 112]",
      true
     ]
    ],
-   "path": "Chapter 008A - Guam/Subchapter 004 (IV) - The Judiciary/§ 01424–1 - Local courts; composition; appellate court; jurisdiction; practice and procedure; qualifications and duties of judges.md",
+   "path": "Chapter 008A - Guam/Subchapter 004 (IV) - The Judiciary/§ 01424 - District Court of Guam; local courts; jurisdiction.md",
    "printed_pages": [
     111,
+    112
+   ]
+  },
+  {
+   "id": "48_1424-1",
+   "marks": [],
+   "path": "Chapter 008A - Guam/Subchapter 004 (IV) - The Judiciary/§ 01424–1 - Local courts; composition; appellate court; jurisdiction; practice and procedure; qualifications and duties of judges.md",
+   "printed_pages": [
+    112,
     112
    ]
   },
@@ -4494,10 +4493,10 @@
    "marks": [
     [
      "I",
-     12,
+     8,
      [
       [
-       192,
+       430,
        "[Page 113]"
       ]
      ]
@@ -4531,10 +4530,14 @@
    "id": "48_1424b",
    "marks": [
     [
-     "L",
-     28,
-     "[Page 114]",
-     true
+     "I",
+     12,
+     [
+      [
+       214,
+       "[Page 114]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 008A - Guam/Subchapter 004 (IV) - The Judiciary/§ 01424b - Judge of District Court; appointment, tenure, removal, and compensation; appointment of United States attorney and marshal.md",
@@ -4548,7 +4551,7 @@
    "marks": [
     [
      "L",
-     52,
+     40,
      "[Page 115]",
      true
     ]
@@ -4615,11 +4618,18 @@
   },
   {
    "id": "48_1425e",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     10,
+     "[Page 116]",
+     true
+    ]
+   ],
    "path": "Chapter 008A - Guam/Subchapter 005 (V) - Public Housing and Urban Renewal/§ 01425e - Additional powers.md",
    "printed_pages": [
     115,
-    115
+    116
    ]
   },
   {
@@ -4627,8 +4637,8 @@
    "marks": [],
    "path": "Chapter 008A - Guam/Subchapter 005 (V) - Public Housing and Urban Renewal/§ 01426 - Repealed. Aug. 2, 1954, ch. 649, title II, §205, 68 Stat. 622.md",
    "printed_pages": [
-    115,
-    115
+    116,
+    116
    ]
   },
   {
@@ -4636,27 +4646,16 @@
    "marks": [],
    "path": "Chapter 008A - Guam/Subchapter 006 (VI) - Guam Development Fund/README.md",
    "printed_pages": [
-    115,
-    115
+    116,
+    116
    ]
   },
   {
    "id": "48_1428",
-   "marks": [
-    [
-     "I",
-     4,
-     [
-      [
-       97,
-       "[Page 116]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 008A - Guam/Subchapter 006 (VI) - Guam Development Fund/§ 01428 - Authorization of appropriations.md",
    "printed_pages": [
-    115,
+    116,
     116
    ]
   },
@@ -4689,26 +4688,26 @@
   },
   {
    "id": "48_1428d",
-   "marks": [],
-   "path": "Chapter 008A - Guam/Subchapter 006 (VI) - Guam Development Fund/§ 01428d - Report for inclusion in annual report by Governor.md",
-   "printed_pages": [
-    116,
-    116
-   ]
-  },
-  {
-   "id": "48_1428e",
    "marks": [
     [
      "L",
-     4,
+     6,
      "[Page 117]",
      true
     ]
    ],
-   "path": "Chapter 008A - Guam/Subchapter 006 (VI) - Guam Development Fund/§ 01428e - Audit of books and records of agency, or agencies, administering loan funds.md",
+   "path": "Chapter 008A - Guam/Subchapter 006 (VI) - Guam Development Fund/§ 01428d - Report for inclusion in annual report by Governor.md",
    "printed_pages": [
     116,
+    117
+   ]
+  },
+  {
+   "id": "48_1428e",
+   "marks": [],
+   "path": "Chapter 008A - Guam/Subchapter 006 (VI) - Guam Development Fund/§ 01428e - Audit of books and records of agency, or agencies, administering loan funds.md",
+   "printed_pages": [
+    117,
     117
    ]
   },
@@ -4732,30 +4731,30 @@
   },
   {
    "id": "48_-ch10",
-   "marks": [],
-   "path": "Chapter 010 - Territorial Provisions of a General Nature/README.md",
-   "printed_pages": [
-    117,
-    117
-   ]
-  },
-  {
-   "id": "48_1451",
    "marks": [
     [
      "I",
-     2,
+     39,
      [
       [
-       332,
+       23,
        "[Page 118]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 010 - Territorial Provisions of a General Nature/§ 01451 - Rights of Indians not impaired; boundaries.md",
+   "path": "Chapter 010 - Territorial Provisions of a General Nature/README.md",
    "printed_pages": [
     117,
+    118
+   ]
+  },
+  {
+   "id": "48_1451",
+   "marks": [],
+   "path": "Chapter 010 - Territorial Provisions of a General Nature/§ 01451 - Rights of Indians not impaired; boundaries.md",
+   "printed_pages": [
+    118,
     118
    ]
   },
@@ -4790,10 +4789,14 @@
    "id": "48_1457_to_1469-1",
    "marks": [
     [
-     "L",
-     20,
-     "[Page 119]",
-     true
+     "I",
+     4,
+     [
+      [
+       107,
+       "[Page 119]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 010 - Territorial Provisions of a General Nature/§ 01457 to 1469–1 - Repealed. Pub. L. 98–213, §16(a), (g)–(u), Dec. 8, 1983, 97 Stat. 1462, 1463.md",
@@ -4807,7 +4810,7 @@
    "marks": [
     [
      "L",
-     32,
+     18,
      "[Page 120]",
      true
     ]
@@ -4829,55 +4832,51 @@
   },
   {
    "id": "48_1469b",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     30,
+     "[Page 121]",
+     true
+    ]
+   ],
    "path": "Chapter 010 - Territorial Provisions of a General Nature/§ 01469b - Auditing of transactions of Territorial and local governments.md",
    "printed_pages": [
     120,
-    120
+    121
    ]
   },
   {
    "id": "48_1469c",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       469,
-       "[Page 121]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 010 - Territorial Provisions of a General Nature/§ 01469c - Availability of services, facilities, and equipment of agencies and instrumentalities of United States; reimbursement requirements.md",
    "printed_pages": [
-    120,
+    121,
     121
    ]
   },
   {
    "id": "48_1469d",
-   "marks": [],
-   "path": "Chapter 010 - Territorial Provisions of a General Nature/§ 01469d - General technical assistance.md",
-   "printed_pages": [
-    121,
-    121
-   ]
-  },
-  {
-   "id": "48_1469e",
    "marks": [
     [
      "L",
-     14,
+     28,
      "[Page 122]",
      true
     ]
    ],
-   "path": "Chapter 010 - Territorial Provisions of a General Nature/§ 01469e - Insular government purchases.md",
+   "path": "Chapter 010 - Territorial Provisions of a General Nature/§ 01469d - General technical assistance.md",
    "printed_pages": [
     121,
+    122
+   ]
+  },
+  {
+   "id": "48_1469e",
+   "marks": [],
+   "path": "Chapter 010 - Territorial Provisions of a General Nature/§ 01469e - Insular government purchases.md",
+   "printed_pages": [
+    122,
     122
    ]
   },
@@ -4919,24 +4918,6 @@
   },
   {
    "id": "48_1481_to_1485",
-   "marks": [],
-   "path": "Chapter 010 - Territorial Provisions of a General Nature/§ 01481 to 1485 - Repealed. Pub. L. 98–213, §16(ff)–(jj), Dec. 8, 1983, 97 Stat. 1463.md",
-   "printed_pages": [
-    122,
-    122
-   ]
-  },
-  {
-   "id": "48_1486",
-   "marks": [],
-   "path": "Chapter 010 - Territorial Provisions of a General Nature/§ 01486 - Repealed. Pub. L. 87–826, §3, Oct. 15, 1962, 76 Stat. 953.md",
-   "printed_pages": [
-    122,
-    122
-   ]
-  },
-  {
-   "id": "48_1487,_1488",
    "marks": [
     [
      "L",
@@ -4945,9 +4926,27 @@
      true
     ]
    ],
-   "path": "Chapter 010 - Territorial Provisions of a General Nature/§ 01487, 1488 - Repealed. Pub. L. 98–213, §16(b), (kk), Dec. 8, 1983, 97 Stat. 1462, 1463.md",
+   "path": "Chapter 010 - Territorial Provisions of a General Nature/§ 01481 to 1485 - Repealed. Pub. L. 98–213, §16(ff)–(jj), Dec. 8, 1983, 97 Stat. 1463.md",
    "printed_pages": [
     122,
+    123
+   ]
+  },
+  {
+   "id": "48_1486",
+   "marks": [],
+   "path": "Chapter 010 - Territorial Provisions of a General Nature/§ 01486 - Repealed. Pub. L. 87–826, §3, Oct. 15, 1962, 76 Stat. 953.md",
+   "printed_pages": [
+    123,
+    123
+   ]
+  },
+  {
+   "id": "48_1487,_1488",
+   "marks": [],
+   "path": "Chapter 010 - Territorial Provisions of a General Nature/§ 01487, 1488 - Repealed. Pub. L. 98–213, §16(b), (kk), Dec. 8, 1983, 97 Stat. 1462, 1463.md",
+   "printed_pages": [
+    123,
     123
    ]
   },
@@ -4982,31 +4981,34 @@
    "id": "48_1492",
    "marks": [
     [
+     "I",
+     10,
+     [
+      [
+       277,
+       "[Page 124]"
+      ]
+     ]
+    ],
+    [
      "L",
-     30,
-     "[Page 124]",
+     80,
+     "[Page 125]",
      true
     ]
    ],
    "path": "Chapter 010 - Territorial Provisions of a General Nature/§ 01492 - Energy resources of Caribbean and Pacific insular areas.md",
    "printed_pages": [
     123,
-    124
+    125
    ]
   },
   {
    "id": "48_1493",
-   "marks": [
-    [
-     "L",
-     16,
-     "[Page 125]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 010 - Territorial Provisions of a General Nature/§ 01493 - Prosecution; authorization to seek review; local or Federal appellate courts; decisions, judgments or orders.md",
    "printed_pages": [
-    124,
+    125,
     125
    ]
   },
@@ -5021,42 +5023,43 @@
   },
   {
    "id": "48_1494a",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     30,
+     "[Page 126]",
+     true
+    ]
+   ],
    "path": "Chapter 010 - Territorial Provisions of a General Nature/§ 01494a - Annual reports to Congress.md",
    "printed_pages": [
     125,
-    125
+    126
    ]
   },
   {
    "id": "48_1494b",
    "marks": [
     [
-     "I",
-     18,
-     [
-      [
-       92,
-       "[Page 126]"
-      ]
-     ]
-    ],
-    [
      "L",
-     70,
+     58,
      "[Page 127]",
      true
     ],
     [
-     "L",
-     124,
-     "[Page 128]",
-     true
+     "I",
+     106,
+     [
+      [
+       311,
+       "[Page 128]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 010 - Territorial Provisions of a General Nature/§ 01494b - Enforcement and administration in insular areas.md",
    "printed_pages": [
-    125,
+    126,
     128
    ]
   },
@@ -5089,11 +5092,18 @@
   },
   {
    "id": "48_1502",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     4,
+     "[Page 129]",
+     true
+    ]
+   ],
    "path": "Chapter 011 - Alien Owners of Land/§ 01502 - Previously acquired lands; bona fide resident aliens; mining or incorporated village lands.md",
    "printed_pages": [
     128,
-    128
+    129
    ]
   },
   {
@@ -5101,27 +5111,16 @@
    "marks": [],
    "path": "Chapter 011 - Alien Owners of Land/§ 01503 - Acquisition by inheritance, in collection of debts, etc.md",
    "printed_pages": [
-    128,
-    128
+    129,
+    129
    ]
   },
   {
    "id": "48_1504",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       90,
-       "[Page 129]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 011 - Alien Owners of Land/§ 01504 - Conveyance of lands in Territories by aliens before escheat proceedings.md",
    "printed_pages": [
-    128,
+    129,
     129
    ]
   },
@@ -5145,26 +5144,30 @@
   },
   {
    "id": "48_1507",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       139,
+       "[Page 130]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 011 - Alien Owners of Land/§ 01507 - Public lands.md",
    "printed_pages": [
     129,
-    129
+    130
    ]
   },
   {
    "id": "48_1508",
-   "marks": [
-    [
-     "L",
-     22,
-     "[Page 130]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 011 - Alien Owners of Land/§ 01508 - Application to District of Columbia.md",
    "printed_pages": [
-    129,
+    130,
     130
    ]
   },
@@ -5182,20 +5185,20 @@
    "marks": [
     [
      "I",
-     91,
+     60,
      [
       [
-       122,
+       197,
        "[Page 131]"
       ]
      ]
     ],
     [
      "I",
-     190,
+     170,
      [
       [
-       390,
+       209,
        "[Page 132]"
       ]
      ]
@@ -5220,10 +5223,14 @@
    "id": "48_1541",
    "marks": [
     [
-     "L",
-     50,
-     "[Page 133]",
-     true
+     "I",
+     32,
+     [
+      [
+       597,
+       "[Page 133]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 012 - Virgin Islands/Subchapter 001 (I) - General Provisions/§ 01541 - Organization and status.md",
@@ -5264,7 +5271,7 @@
    "marks": [
     [
      "L",
-     28,
+     8,
      "[Page 134]",
      true
     ]
@@ -5298,10 +5305,10 @@
    "marks": [
     [
      "I",
-     54,
+     46,
      [
       [
-       164,
+       565,
        "[Page 135]"
       ]
      ]
@@ -5336,10 +5343,10 @@
    "marks": [
     [
      "I",
-     16,
+     8,
      [
       [
-       186,
+       96,
        "[Page 136]"
       ]
      ]
@@ -5356,10 +5363,10 @@
    "marks": [
     [
      "I",
-     10,
+     2,
      [
       [
-       650,
+       189,
        "[Page 137]"
       ]
      ]
@@ -5375,20 +5382,20 @@
    "id": "48_1574",
    "marks": [
     [
-     "L",
-     20,
-     "[Page 138]",
-     true
-    ],
-    [
      "I",
-     70,
+     10,
      [
       [
-       646,
-       "[Page 139]"
+       1948,
+       "[Page 138]"
       ]
      ]
+    ],
+    [
+     "L",
+     68,
+     "[Page 139]",
+     true
     ]
    ],
    "path": "Chapter 012 - Virgin Islands/Subchapter 003 (III) - Legislative Branch/§ 01574 - Legislative powers and activities.md",
@@ -5399,30 +5406,26 @@
   },
   {
    "id": "48_1574-1",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     30,
+     "[Page 140]",
+     true
+    ]
+   ],
    "path": "Chapter 012 - Virgin Islands/Subchapter 003 (III) - Legislative Branch/§ 01574–1 - Applicability of laws referred to in section 502(a)(1) of Covenant to Establish a Commonwealth of the Northern Mariana Islands.md",
    "printed_pages": [
     139,
-    139
+    140
    ]
   },
   {
    "id": "48_1574a",
-   "marks": [
-    [
-     "I",
-     8,
-     [
-      [
-       91,
-       "[Page 140]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 012 - Virgin Islands/Subchapter 003 (III) - Legislative Branch/§ 01574a - Revenue bonds or other obligations.md",
    "printed_pages": [
-    139,
+    140,
     140
    ]
   },
@@ -5430,39 +5433,30 @@
    "id": "48_1574b",
    "marks": [
     [
-     "I",
-     32,
-     [
-      [
-       90,
-       "[Page 141]"
-      ]
-     ]
+     "L",
+     22,
+     "[Page 141]",
+     true
+    ],
+    [
+     "L",
+     62,
+     "[Page 142]",
+     true
     ]
    ],
    "path": "Chapter 012 - Virgin Islands/Subchapter 003 (III) - Legislative Branch/§ 01574b - Federal guarantee for issuance of revenue bonds or other obligations.md",
    "printed_pages": [
     140,
-    141
+    142
    ]
   },
   {
    "id": "48_1574c",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       99,
-       "[Page 142]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 012 - Virgin Islands/Subchapter 003 (III) - Legislative Branch/§ 01574c - Priority for payment of principal and interest of revenue bonds or other obligations.md",
    "printed_pages": [
-    141,
+    142,
     142
    ]
   },
@@ -5480,7 +5474,7 @@
    "marks": [
     [
      "L",
-     40,
+     30,
      "[Page 143]",
      true
     ]
@@ -5517,7 +5511,7 @@
      6,
      [
       [
-       1595,
+       514,
        "[Page 144]"
       ]
      ]
@@ -5543,11 +5537,21 @@
    "marks": [
     [
      "I",
-     16,
+     8,
      [
       [
-       374,
+       93,
        "[Page 145]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     60,
+     [
+      [
+       101,
+       "[Page 146]"
       ]
      ]
     ]
@@ -5555,22 +5559,15 @@
    "path": "Chapter 012 - Virgin Islands/Subchapter 004 (IV) - Executive Branch/§ 01593 - Initiative and recall.md",
    "printed_pages": [
     144,
-    145
+    146
    ]
   },
   {
    "id": "48_1594",
-   "marks": [
-    [
-     "L",
-     8,
-     "[Page 146]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 012 - Virgin Islands/Subchapter 004 (IV) - Executive Branch/§ 01594 - Repealed. Pub. L. 90–496, §6, Aug. 23, 1968, 82 Stat. 839.md",
    "printed_pages": [
-    145,
+    146,
     146
    ]
   },
@@ -5586,7 +5583,7 @@
   {
    "id": "48_1596",
    "marks": [],
-   "path": "Chapter 012 - Virgin Islands/Subchapter 004 (IV) - Executive Branch/§ 01596 - Delegate from Virgin Islands to United States House of Representatives; clerk hire allowance and transportation expenses.md",
+   "path": "Chapter 012 - Virgin Islands/Subchapter 004 (IV) - Executive Branch/§ 01596 - Repealed. Pub. L. 104–186, title II, §224(3), Aug. 20, 1996, 110 Stat. 1752.md",
    "printed_pages": [
     146,
     146
@@ -5596,10 +5593,14 @@
    "id": "48_1597",
    "marks": [
     [
-     "L",
-     6,
-     "[Page 147]",
-     true
+     "I",
+     8,
+     [
+      [
+       92,
+       "[Page 147]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 012 - Virgin Islands/Subchapter 004 (IV) - Executive Branch/§ 01597 - Reorganization of government.md",
@@ -5621,14 +5622,10 @@
    "id": "48_1599",
    "marks": [
     [
-     "I",
-     26,
-     [
-      [
-       299,
-       "[Page 148]"
-      ]
-     ]
+     "L",
+     28,
+     "[Page 148]",
+     true
     ]
    ],
    "path": "Chapter 012 - Virgin Islands/Subchapter 004 (IV) - Executive Branch/§ 01599 - Transfer of functions from government comptroller for Virgin Islands to Inspector General, Department of the Interior.md",
@@ -5659,10 +5656,14 @@
    "id": "48_1612",
    "marks": [
     [
-     "L",
-     20,
-     "[Page 149]",
-     true
+     "I",
+     22,
+     [
+      [
+       106,
+       "[Page 149]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 012 - Virgin Islands/Subchapter 005 (V) - Judicial Branch/§ 01612 - Jurisdiction of District Court.md",
@@ -5684,10 +5685,14 @@
    "id": "48_1613a",
    "marks": [
     [
-     "L",
-     6,
-     "[Page 150]",
-     true
+     "I",
+     8,
+     [
+      [
+       93,
+       "[Page 150]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 012 - Virgin Islands/Subchapter 005 (V) - Judicial Branch/§ 01613a - Appellate jurisdiction of District Court; procedure; review by United States Court of Appeals for Third Circuit; rules; appeals to….md",
@@ -5704,7 +5709,7 @@
      8,
      [
       [
-       1230,
+       1519,
        "[Page 151]"
       ]
      ]
@@ -5730,10 +5735,10 @@
    "marks": [
     [
      "I",
-     2,
+     8,
      [
       [
-       333,
+       104,
        "[Page 152]"
       ]
      ]
@@ -5794,14 +5799,10 @@
    "id": "48_1641",
    "marks": [
     [
-     "I",
-     8,
-     [
-      [
-       112,
-       "[Page 153]"
-      ]
-     ]
+     "L",
+     10,
+     "[Page 153]",
+     true
     ]
    ],
    "path": "Chapter 012 - Virgin Islands/Subchapter 007 (VII) - Fiscal Provisions/§ 01641 - Method of payment of official salaries.md",
@@ -5818,7 +5819,7 @@
      12,
      [
       [
-       223,
+       391,
        "[Page 154]"
       ]
      ]
@@ -5865,7 +5866,7 @@
      2,
      [
       [
-       464,
+       508,
        "[Page 155]"
       ]
      ]
@@ -5963,7 +5964,7 @@
    "marks": [
     [
      "L",
-     26,
+     28,
      "[Page 158]",
      true
     ]
@@ -6480,79 +6481,83 @@
    "id": "48_1801",
    "marks": [
     [
-     "L",
-     14,
-     "[Page 171]",
-     true
+     "I",
+     8,
+     [
+      [
+       153,
+       "[Page 171]"
+      ]
+     ]
     ],
     [
      "I",
-     76,
+     68,
      [
       [
-       152,
+       160,
        "[Page 172]"
       ]
      ]
     ],
     [
      "I",
-     150,
+     144,
      [
       [
-       103,
+       482,
        "[Page 173]"
       ]
      ]
     ],
     [
      "I",
-     200,
+     198,
      [
       [
-       322,
+       104,
        "[Page 174]"
       ]
      ]
     ],
     [
-     "L",
-     258,
-     "[Page 175]",
-     true
-    ],
-    [
      "I",
-     326,
+     252,
      [
       [
-       160,
-       "[Page 176]"
+       212,
+       "[Page 175]"
       ]
      ]
+    ],
+    [
+     "L",
+     320,
+     "[Page 176]",
+     true
     ],
     [
      "I",
      366,
      [
       [
-       730,
+       207,
        "[Page 177]"
       ]
      ]
     ],
     [
      "L",
-     494,
+     454,
      "[Page 178]",
      true
     ],
     [
      "I",
-     546,
+     544,
      [
       [
-       100,
+       1281,
        "[Page 179]"
       ]
      ]
@@ -6569,7 +6574,7 @@
    "marks": [
     [
      "L",
-     14,
+     6,
      "[Page 180]",
      true
     ]
@@ -6591,20 +6596,42 @@
   },
   {
    "id": "48_1804",
-   "marks": [],
-   "path": "Chapter 017 - Northern Mariana Islands/Subchapter 001 (I) - Approval of Covenant and Supplemental Provisions/§ 01804 - Continuing financial assistance.md",
+   "marks": [
+    [
+     "I",
+     18,
+     [
+      [
+       862,
+       "[Page 181]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 017 - Northern Mariana Islands/Subchapter 001 (I) - Approval of Covenant and Supplemental Provisions/§ 01804 - Direct grant assistance.md",
    "printed_pages": [
     180,
-    180
+    181
    ]
   },
   {
    "id": "48_1805",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     12,
+     [
+      [
+       104,
+       "[Page 182]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 017 - Northern Mariana Islands/Subchapter 001 (I) - Approval of Covenant and Supplemental Provisions/§ 01805 - Failure to meet performance standards; resolution of issues; withholding of funds.md",
    "printed_pages": [
-    180,
-    180
+    181,
+    182
    ]
   },
   {
@@ -6612,8 +6639,8 @@
    "marks": [],
    "path": "Chapter 017 - Northern Mariana Islands/Subchapter 002 (II) - Judicial Matters/README.md",
    "printed_pages": [
-    180,
-    180
+    182,
+    182
    ]
   },
   {
@@ -6621,29 +6648,19 @@
    "marks": [
     [
      "I",
-     4,
+     40,
      [
       [
-       271,
-       "[Page 181]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     56,
-     [
-      [
-       108,
-       "[Page 182]"
+       866,
+       "[Page 183]"
       ]
      ]
     ]
    ],
    "path": "Chapter 017 - Northern Mariana Islands/Subchapter 002 (II) - Judicial Matters/§ 01821 - District Court for the Northern Mariana Islands.md",
    "printed_pages": [
-    180,
-    182
+    182,
+    183
    ]
   },
   {
@@ -6651,8 +6668,8 @@
    "marks": [],
    "path": "Chapter 017 - Northern Mariana Islands/Subchapter 002 (II) - Judicial Matters/§ 01822 - Jurisdiction of District Court; original jurisdiction; procedural requirements.md",
    "printed_pages": [
-    182,
-    182
+    183,
+    183
    ]
   },
   {
@@ -6660,15 +6677,15 @@
    "marks": [
     [
      "L",
-     28,
-     "[Page 183]",
+     16,
+     "[Page 184]",
      true
     ]
    ],
    "path": "Chapter 017 - Northern Mariana Islands/Subchapter 002 (II) - Judicial Matters/§ 01823 - Appellate jurisdiction of District Court; procedure; review by United States Court of Appeals for Ninth Circuit; rules.md",
    "printed_pages": [
-    182,
-    183
+    183,
+    184
    ]
   },
   {
@@ -6676,8 +6693,8 @@
    "marks": [],
    "path": "Chapter 017 - Northern Mariana Islands/Subchapter 002 (II) - Judicial Matters/§ 01824 - Relations between courts of United States and courts of Northern Mariana Islands; applicability of statutory provisions.md",
    "printed_pages": [
-    183,
-    183
+    184,
+    184
    ]
   },
   {
@@ -6685,8 +6702,8 @@
    "marks": [],
    "path": "Chapter 017 - Northern Mariana Islands/Subchapter 002 (II) - Judicial Matters/§ 01825 - Effective date.md",
    "printed_pages": [
-    183,
-    183
+    184,
+    184
    ]
   },
   {
@@ -6694,8 +6711,8 @@
    "marks": [],
    "path": "Chapter 017 - Northern Mariana Islands/Subchapter 002 (II) - Judicial Matters/§ 01826 - Authorization of appropriations.md",
    "printed_pages": [
-    183,
-    183
+    184,
+    184
    ]
   },
   {
@@ -6703,8 +6720,8 @@
    "marks": [],
    "path": "Chapter 017 - Northern Mariana Islands/Subchapter 003 (III) - Miscellaneous/README.md",
    "printed_pages": [
-    183,
-    183
+    184,
+    184
    ]
   },
   {
@@ -6712,25 +6729,29 @@
    "marks": [
     [
      "I",
-     8,
+     4,
      [
       [
-       606,
-       "[Page 184]"
+       382,
+       "[Page 185]"
       ]
      ]
     ],
     [
-     "L",
-     36,
-     "[Page 185]",
-     true
+     "I",
+     24,
+     [
+      [
+       92,
+       "[Page 186]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 017 - Northern Mariana Islands/Subchapter 003 (III) - Miscellaneous/§ 01841 - Funds and services.md",
    "printed_pages": [
-    183,
-    185
+    184,
+    186
    ]
   },
   {
@@ -6738,28 +6759,24 @@
    "marks": [],
    "path": "Chapter 017 - Northern Mariana Islands/Subchapter 003 (III) - Miscellaneous/§ 01842 - Covering into Commonwealth treasury of tax proceeds collected pursuant to Covenant.md",
    "printed_pages": [
-    185,
-    185
+    186,
+    186
    ]
   },
   {
    "id": "48_1843",
    "marks": [
     [
-     "I",
-     14,
-     [
-      [
-       105,
-       "[Page 186]"
-      ]
-     ]
+     "L",
+     10,
+     "[Page 187]",
+     true
     ]
    ],
    "path": "Chapter 017 - Northern Mariana Islands/Subchapter 003 (III) - Miscellaneous/§ 01843 - Exemption from taxation for income derived from sources within Commonwealth.md",
    "printed_pages": [
-    185,
-    186
+    186,
+    187
    ]
   },
   {
@@ -6767,8 +6784,8 @@
    "marks": [],
    "path": "Chapter 017 - Northern Mariana Islands/Subchapter 003 (III) - Miscellaneous/§ 01844 - Political union between Territory of Guam and Commonwealth of Northern Mariana Islands.md",
    "printed_pages": [
-    186,
-    186
+    187,
+    187
    ]
   },
   {
@@ -6776,17 +6793,24 @@
    "marks": [],
    "path": "Chapter 017 - Northern Mariana Islands/Subchapter 003 (III) - Miscellaneous/§ 01845 - Plans for development, utilization, and conservation of water and related land resources.md",
    "printed_pages": [
-    186,
-    186
+    187,
+    187
    ]
   },
   {
    "id": "48_1846",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     4,
+     "[Page 188]",
+     true
+    ]
+   ],
    "path": "Chapter 017 - Northern Mariana Islands/Subchapter 003 (III) - Miscellaneous/§ 01846 - Exemption from assessment and taxation of real property owned by Commonwealth in United States capital.md",
    "printed_pages": [
-    186,
-    186
+    187,
+    188
    ]
   },
   {
@@ -6794,205 +6818,212 @@
    "marks": [
     [
      "I",
-     7,
+     128,
      [
       [
-       39,
-       "[Page 187]"
+       19,
+       "[Page 189]"
       ]
      ]
     ]
    ],
    "path": "Chapter 018 - Micronesia, Marshall Islands, and Palau/README.md",
    "printed_pages": [
-    186,
-    187
+    188,
+    189
    ]
   },
   {
    "id": "48_-ch18-scI",
-   "marks": [
-    [
-     "L",
-     6,
-     "[Page 188]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 018 - Micronesia, Marshall Islands, and Palau/Subchapter 001 (I) - Micronesia and Marshall Islands/README.md",
    "printed_pages": [
-    187,
-    188
+    189,
+    189
    ]
   },
   {
    "id": "48_1901",
    "marks": [
     [
-     "I",
-     52,
-     [
-      [
-       376,
-       "[Page 189]"
-      ]
-     ]
+     "L",
+     46,
+     "[Page 190]",
+     true
     ],
     [
      "I",
-     122,
+     110,
      [
       [
-       101,
-       "[Page 190]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     188,
-     [
-      [
-       103,
+       155,
        "[Page 191]"
       ]
      ]
     ],
     [
      "I",
-     246,
+     178,
      [
       [
-       108,
+       419,
        "[Page 192]"
       ]
      ]
     ],
     [
      "I",
-     298,
+     234,
      [
       [
-       419,
+       163,
        "[Page 193]"
       ]
      ]
     ],
     [
-     "L",
-     336,
-     "[Page 194]",
-     true
+     "I",
+     288,
+     [
+      [
+       531,
+       "[Page 194]"
+      ]
+     ]
     ],
     [
      "I",
-     384,
+     330,
      [
       [
-       423,
+       103,
        "[Page 195]"
       ]
      ]
     ],
     [
-     "L",
-     430,
-     "[Page 196]",
-     true
-    ],
-    [
-     "L",
-     508,
-     "[Page 197]",
-     true
+     "I",
+     378,
+     [
+      [
+       431,
+       "[Page 196]"
+      ]
+     ]
     ],
     [
      "I",
-     560,
+     426,
      [
       [
-       429,
+       315,
+       "[Page 197]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     494,
+     [
+      [
+       103,
        "[Page 198]"
       ]
      ]
     ],
     [
-     "I",
-     628,
-     [
-      [
-       104,
-       "[Page 199]"
-      ]
-     ]
-    ],
-    [
      "L",
-     696,
-     "[Page 200]",
+     556,
+     "[Page 199]",
      true
     ],
     [
      "I",
-     772,
+     610,
      [
       [
-       103,
+       157,
+       "[Page 200]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     684,
+     [
+      [
+       107,
        "[Page 201]"
       ]
      ]
     ],
     [
      "I",
-     830,
+     756,
      [
       [
-       924,
+       103,
        "[Page 202]"
       ]
      ]
     ],
     [
      "I",
-     912,
+     822,
      [
       [
-       110,
+       103,
        "[Page 203]"
       ]
      ]
     ],
     [
      "L",
-     984,
+     900,
      "[Page 204]",
      true
     ],
     [
      "I",
-     1090,
+     966,
      [
       [
-       172,
+       477,
        "[Page 205]"
       ]
      ]
     ],
     [
      "I",
-     1134,
+     1062,
      [
       [
-       213,
+       270,
        "[Page 206]"
       ]
      ]
+    ],
+    [
+     "I",
+     1130,
+     [
+      [
+       493,
+       "[Page 207]"
+      ]
+     ]
+    ],
+    [
+     "L",
+     1182,
+     "[Page 208]",
+     true
     ]
    ],
    "path": "Chapter 018 - Micronesia, Marshall Islands, and Palau/Subchapter 001 (I) - Micronesia and Marshall Islands/§ 01901 - Approval of Compact of Free Association.md",
    "printed_pages": [
-    188,
-    206
+    189,
+    208
    ]
   },
   {
@@ -7000,29 +7031,29 @@
    "marks": [
     [
      "I",
-     14,
+     44,
      [
       [
-       488,
-       "[Page 207]"
+       97,
+       "[Page 209]"
       ]
      ]
     ],
     [
      "I",
-     66,
+     102,
      [
       [
-       190,
-       "[Page 208]"
+       117,
+       "[Page 210]"
       ]
      ]
     ]
    ],
    "path": "Chapter 018 - Micronesia, Marshall Islands, and Palau/Subchapter 001 (I) - Micronesia and Marshall Islands/§ 01902 - Agreements with Federated States of Micronesia.md",
    "printed_pages": [
-    206,
-    208
+    208,
+    210
    ]
   },
   {
@@ -7030,71 +7061,65 @@
    "marks": [
     [
      "I",
-     10,
+     36,
      [
       [
-       348,
-       "[Page 209]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     56,
-     [
-      [
-       520,
-       "[Page 210]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     90,
-     [
-      [
-       327,
+       308,
        "[Page 211]"
       ]
      ]
     ],
     [
      "I",
-     120,
+     80,
      [
       [
-       849,
+       186,
        "[Page 212]"
       ]
      ]
     ],
     [
      "I",
-     154,
+     114,
      [
       [
-       94,
+       139,
        "[Page 213]"
       ]
      ]
     ],
     [
      "L",
-     212,
+     136,
      "[Page 214]",
      true
     ],
     [
-     "L",
-     272,
-     "[Page 215]",
-     true
+     "I",
+     192,
+     [
+      [
+       94,
+       "[Page 215]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     256,
+     [
+      [
+       99,
+       "[Page 216]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 018 - Micronesia, Marshall Islands, and Palau/Subchapter 001 (I) - Micronesia and Marshall Islands/§ 01903 - Agreements with and other provisions related to Marshall Islands.md",
    "printed_pages": [
-    208,
-    215
+    210,
+    216
    ]
   },
   {
@@ -7102,98 +7127,114 @@
    "marks": [
     [
      "I",
-     26,
+     8,
      [
       [
-       794,
-       "[Page 216]"
+       142,
+       "[Page 217]"
       ]
      ]
     ],
     [
-     "L",
-     70,
-     "[Page 217]",
-     true
+     "I",
+     52,
+     [
+      [
+       456,
+       "[Page 218]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 018 - Micronesia, Marshall Islands, and Palau/Subchapter 001 (I) - Micronesia and Marshall Islands/§ 01904 - Interpretation of and United States policy regarding Compact of Free Association.md",
    "printed_pages": [
-    215,
-    217
+    216,
+    218
    ]
   },
   {
    "id": "48_1905",
    "marks": [
     [
-     "L",
-     24,
-     "[Page 218]",
-     true
+     "I",
+     4,
+     [
+      [
+       136,
+       "[Page 219]"
+      ]
+     ]
     ],
     [
      "L",
-     78,
-     "[Page 219]",
-     true
-    ],
-    [
-     "L",
-     118,
+     42,
      "[Page 220]",
      true
     ],
     [
      "I",
-     164,
+     98,
      [
       [
-       93,
+       96,
        "[Page 221]"
       ]
      ]
     ],
     [
      "I",
-     222,
+     144,
      [
       [
-       213,
+       277,
        "[Page 222]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     188,
+     [
+      [
+       151,
+       "[Page 223]"
       ]
      ]
     ]
    ],
    "path": "Chapter 018 - Micronesia, Marshall Islands, and Palau/Subchapter 001 (I) - Micronesia and Marshall Islands/§ 01905 - Supplemental provisions.md",
    "printed_pages": [
-    217,
-    222
+    218,
+    223
    ]
   },
   {
    "id": "48_1906",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     12,
+     [
+      [
+       94,
+       "[Page 224]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 018 - Micronesia, Marshall Islands, and Palau/Subchapter 001 (I) - Micronesia and Marshall Islands/§ 01906 - Construction contract assistance.md",
    "printed_pages": [
-    222,
-    222
+    223,
+    224
    ]
   },
   {
    "id": "48_1907",
-   "marks": [
-    [
-     "L",
-     16,
-     "[Page 223]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 018 - Micronesia, Marshall Islands, and Palau/Subchapter 001 (I) - Micronesia and Marshall Islands/§ 01907 - Limitations.md",
    "printed_pages": [
-    222,
-    223
+    224,
+    224
    ]
   },
   {
@@ -7201,17 +7242,24 @@
    "marks": [],
    "path": "Chapter 018 - Micronesia, Marshall Islands, and Palau/Subchapter 001 (I) - Micronesia and Marshall Islands/§ 01908 - Transitional immigration rules.md",
    "printed_pages": [
-    223,
-    223
+    224,
+    224
    ]
   },
   {
    "id": "48_1909",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     6,
+     "[Page 225]",
+     true
+    ]
+   ],
    "path": "Chapter 018 - Micronesia, Marshall Islands, and Palau/Subchapter 001 (I) - Micronesia and Marshall Islands/§ 01909 - Timing.md",
    "printed_pages": [
-    223,
-    223
+    224,
+    225
    ]
   },
   {
@@ -7219,44 +7267,37 @@
    "marks": [],
    "path": "Chapter 018 - Micronesia, Marshall Islands, and Palau/Subchapter 001 (I) - Micronesia and Marshall Islands/§ 01910 - Implementation of audit agreements.md",
    "printed_pages": [
-    223,
-    223
+    225,
+    225
    ]
   },
   {
    "id": "48_1911",
    "marks": [
     [
-     "L",
-     10,
-     "[Page 224]",
-     true
-    ]
-   ],
-   "path": "Chapter 018 - Micronesia, Marshall Islands, and Palau/Subchapter 001 (I) - Micronesia and Marshall Islands/§ 01911 - Compensatory adjustments.md",
-   "printed_pages": [
-    223,
-    224
-   ]
-  },
-  {
-   "id": "48_1912",
-   "marks": [
-    [
      "I",
-     10,
+     22,
      [
       [
-       230,
-       "[Page 225]"
+       940,
+       "[Page 226]"
       ]
      ]
     ]
    ],
+   "path": "Chapter 018 - Micronesia, Marshall Islands, and Palau/Subchapter 001 (I) - Micronesia and Marshall Islands/§ 01911 - Compensatory adjustments.md",
+   "printed_pages": [
+    225,
+    226
+   ]
+  },
+  {
+   "id": "48_1912",
+   "marks": [],
    "path": "Chapter 018 - Micronesia, Marshall Islands, and Palau/Subchapter 001 (I) - Micronesia and Marshall Islands/§ 01912 - Jurisdiction.md",
    "printed_pages": [
-    224,
-    225
+    226,
+    226
    ]
   },
   {
@@ -7264,8 +7305,8 @@
    "marks": [],
    "path": "Chapter 018 - Micronesia, Marshall Islands, and Palau/Subchapter 002 (II) - Palau/README.md",
    "printed_pages": [
-    225,
-    225
+    226,
+    226
    ]
   },
   {
@@ -7273,141 +7314,140 @@
    "marks": [],
    "path": "Chapter 018 - Micronesia, Marshall Islands, and Palau/Subchapter 002 (II) - Palau/Part A - Approval of Compact and Supplemental Provisions/README.md",
    "printed_pages": [
-    225,
-    225
+    226,
+    226
    ]
   },
   {
    "id": "48_1931",
    "marks": [
     [
-     "I",
-     44,
-     [
-      [
-       178,
-       "[Page 226]"
-      ]
-     ]
-    ],
-    [
      "L",
-     110,
+     6,
      "[Page 227]",
      true
     ],
     [
-     "I",
-     188,
-     [
-      [
-       107,
-       "[Page 228]"
-      ]
-     ]
+     "L",
+     66,
+     "[Page 228]",
+     true
+    ],
+    [
+     "L",
+     134,
+     "[Page 229]",
+     true
     ],
     [
      "I",
-     254,
+     210,
      [
       [
-       370,
-       "[Page 229]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     316,
-     [
-      [
-       106,
+       110,
        "[Page 230]"
       ]
      ]
     ],
     [
-     "L",
-     372,
-     "[Page 231]",
-     true
+     "I",
+     278,
+     [
+      [
+       152,
+       "[Page 231]"
+      ]
+     ]
     ],
     [
      "I",
-     434,
+     332,
      [
       [
-       103,
+       269,
        "[Page 232]"
       ]
      ]
     ],
     [
      "L",
-     498,
+     390,
      "[Page 233]",
      true
     ],
     [
      "I",
-     570,
+     456,
      [
       [
-       104,
+       315,
        "[Page 234]"
       ]
      ]
     ],
     [
      "I",
-     638,
+     526,
      [
       [
-       103,
+       100,
        "[Page 235]"
       ]
      ]
     ],
     [
+     "L",
+     592,
+     "[Page 236]",
+     true
+    ],
+    [
      "I",
-     720,
+     682,
      [
       [
-       486,
-       "[Page 236]"
+       104,
+       "[Page 237]"
       ]
      ]
     ],
     [
      "L",
-     804,
-     "[Page 237]",
+     766,
+     "[Page 238]",
      true
     ],
     [
-     "I",
-     868,
-     [
-      [
-       252,
-       "[Page 238]"
-      ]
-     ]
+     "L",
+     840,
+     "[Page 239]",
+     true
     ]
    ],
    "path": "Chapter 018 - Micronesia, Marshall Islands, and Palau/Subchapter 002 (II) - Palau/Part A - Approval of Compact and Supplemental Provisions/§ 01931 - Approval of Compact of Free Association.md",
    "printed_pages": [
-    225,
-    238
+    226,
+    239
    ]
   },
   {
    "id": "48_1932",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     4,
+     [
+      [
+       195,
+       "[Page 240]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 018 - Micronesia, Marshall Islands, and Palau/Subchapter 002 (II) - Palau/Part A - Approval of Compact and Supplemental Provisions/§ 01932 - Extension of Compact of Free Association to Palau.md",
    "printed_pages": [
-    238,
-    238
+    239,
+    240
    ]
   },
   {
@@ -7415,45 +7455,34 @@
    "marks": [
     [
      "I",
-     14,
+     22,
      [
       [
-       366,
-       "[Page 239]"
+       480,
+       "[Page 241]"
       ]
      ]
     ],
     [
-     "I",
-     48,
-     [
-      [
-       565,
-       "[Page 240]"
-      ]
-     ]
+     "L",
+     66,
+     "[Page 242]",
+     true
     ]
    ],
    "path": "Chapter 018 - Micronesia, Marshall Islands, and Palau/Subchapter 002 (II) - Palau/Part A - Approval of Compact and Supplemental Provisions/§ 01933 - Supplemental provisions.md",
    "printed_pages": [
-    238,
-    240
+    240,
+    242
    ]
   },
   {
    "id": "48_1934",
-   "marks": [
-    [
-     "L",
-     20,
-     "[Page 241]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 018 - Micronesia, Marshall Islands, and Palau/Subchapter 002 (II) - Palau/Part A - Approval of Compact and Supplemental Provisions/§ 01934 - Jurisdiction.md",
    "printed_pages": [
-    240,
-    241
+    242,
+    242
    ]
   },
   {
@@ -7461,17 +7490,24 @@
    "marks": [],
    "path": "Chapter 018 - Micronesia, Marshall Islands, and Palau/Subchapter 002 (II) - Palau/Part B - Implementation of Compact/README.md",
    "printed_pages": [
-    241,
-    241
+    242,
+    242
    ]
   },
   {
    "id": "48_1951",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     10,
+     "[Page 243]",
+     true
+    ]
+   ],
    "path": "Chapter 018 - Micronesia, Marshall Islands, and Palau/Subchapter 002 (II) - Palau/Part B - Implementation of Compact/§ 01951 - Entry into force of Compact.md",
    "printed_pages": [
-    241,
-    241
+    242,
+    243
    ]
   },
   {
@@ -7479,8 +7515,8 @@
    "marks": [],
    "path": "Chapter 018 - Micronesia, Marshall Islands, and Palau/Subchapter 002 (II) - Palau/Part B - Implementation of Compact/§ 01952 - Fiscal procedures assistance.md",
    "printed_pages": [
-    241,
-    241
+    243,
+    243
    ]
   },
   {
@@ -7488,15 +7524,15 @@
    "marks": [
     [
      "L",
-     6,
-     "[Page 242]",
+     28,
+     "[Page 244]",
      true
     ]
    ],
    "path": "Chapter 018 - Micronesia, Marshall Islands, and Palau/Subchapter 002 (II) - Palau/Part B - Implementation of Compact/§ 01953 - Antidrug program.md",
    "printed_pages": [
-    241,
-    242
+    243,
+    244
    ]
   },
   {
@@ -7504,8 +7540,8 @@
    "marks": [],
    "path": "Chapter 018 - Micronesia, Marshall Islands, and Palau/Subchapter 002 (II) - Palau/Part B - Implementation of Compact/§ 01954 - Public auditor and special prosecutor.md",
    "printed_pages": [
-    242,
-    242
+    244,
+    244
    ]
   },
   {
@@ -7513,8 +7549,8 @@
    "marks": [],
    "path": "Chapter 018 - Micronesia, Marshall Islands, and Palau/Subchapter 002 (II) - Palau/Part B - Implementation of Compact/§ 01955 - Audit certification.md",
    "printed_pages": [
-    242,
-    242
+    244,
+    244
    ]
   },
   {
@@ -7522,28 +7558,17 @@
    "marks": [],
    "path": "Chapter 018 - Micronesia, Marshall Islands, and Palau/Subchapter 002 (II) - Palau/Part B - Implementation of Compact/§ 01956 - Acquisition of defense sites.md",
    "printed_pages": [
-    242,
-    242
+    244,
+    244
    ]
   },
   {
    "id": "48_1957",
-   "marks": [
-    [
-     "I",
-     8,
-     [
-      [
-       163,
-       "[Page 243]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 018 - Micronesia, Marshall Islands, and Palau/Subchapter 002 (II) - Palau/Part B - Implementation of Compact/§ 01957 - Federal programs coordination personnel.md",
    "printed_pages": [
-    242,
-    243
+    244,
+    244
    ]
   },
   {
@@ -7551,17 +7576,28 @@
    "marks": [],
    "path": "Chapter 018 - Micronesia, Marshall Islands, and Palau/Subchapter 002 (II) - Palau/Part B - Implementation of Compact/§ 01958 - Referendum costs.md",
    "printed_pages": [
-    243,
-    243
+    244,
+    244
    ]
   },
   {
    "id": "48_1959",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     4,
+     [
+      [
+       195,
+       "[Page 245]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 018 - Micronesia, Marshall Islands, and Palau/Subchapter 002 (II) - Palau/Part B - Implementation of Compact/§ 01959 - Agreements.md",
    "printed_pages": [
-    243,
-    243
+    244,
+    245
    ]
   },
   {
@@ -7569,19 +7605,19 @@
    "marks": [
     [
      "I",
-     12,
+     32,
      [
       [
-       188,
-       "[Page 244]"
+       109,
+       "[Page 246]"
       ]
      ]
     ]
    ],
    "path": "Chapter 018 - Micronesia, Marshall Islands, and Palau/Subchapter 002 (II) - Palau/Part B - Implementation of Compact/§ 01960 - Modification of energy assistance funding.md",
    "printed_pages": [
-    243,
-    244
+    245,
+    246
    ]
   },
   {
@@ -7589,8 +7625,8 @@
    "marks": [],
    "path": "Chapter 018 - Micronesia, Marshall Islands, and Palau/Subchapter 002 (II) - Palau/Part B - Implementation of Compact/§ 01961 - Submission of agreements.md",
    "printed_pages": [
-    244,
-    244
+    246,
+    246
    ]
   },
   {
@@ -7598,8 +7634,8 @@
    "marks": [],
    "path": "Chapter 018 - Micronesia, Marshall Islands, and Palau/Subchapter 002 (II) - Palau/Part B - Implementation of Compact/§ 01962 - Transition funding.md",
    "printed_pages": [
-    244,
-    244
+    246,
+    246
    ]
   },
   {
@@ -7607,28 +7643,24 @@
    "marks": [],
    "path": "Chapter 018 - Micronesia, Marshall Islands, and Palau/Subchapter 003 (III) - Miscellaneous Provisions/README.md",
    "printed_pages": [
-    244,
-    244
+    246,
+    246
    ]
   },
   {
    "id": "48_1971",
    "marks": [
     [
-     "I",
-     4,
-     [
-      [
-       610,
-       "[Page 245]"
-      ]
-     ]
+     "L",
+     24,
+     "[Page 247]",
+     true
     ]
    ],
    "path": "Chapter 018 - Micronesia, Marshall Islands, and Palau/Subchapter 003 (III) - Miscellaneous Provisions/§ 01971 - Transfer of surplus personal property owned by United States.md",
    "printed_pages": [
-    244,
-    245
+    246,
+    247
    ]
   },
   {
@@ -7636,28 +7668,17 @@
    "marks": [],
    "path": "Chapter 018 - Micronesia, Marshall Islands, and Palau/Subchapter 003 (III) - Miscellaneous Provisions/§ 01972 - Controlled substances in freely associated states.md",
    "printed_pages": [
-    245,
-    245
+    247,
+    247
    ]
   },
   {
    "id": "48_1973",
-   "marks": [
-    [
-     "I",
-     12,
-     [
-      [
-       103,
-       "[Page 246]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 018 - Micronesia, Marshall Islands, and Palau/Subchapter 003 (III) - Miscellaneous Provisions/§ 01973 - Freely Associated State Air Carrier.md",
    "printed_pages": [
-    245,
-    246
+    247,
+    247
    ]
   },
   {
@@ -7665,17 +7686,28 @@
    "marks": [],
    "path": "Chapter 019 - Pacific Policy Reports/README.md",
    "printed_pages": [
-    246,
-    246
+    247,
+    247
    ]
   },
   {
    "id": "48_2001",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     6,
+     [
+      [
+       95,
+       "[Page 248]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 019 - Pacific Policy Reports/§ 02001 - Findings.md",
    "printed_pages": [
-    246,
-    246
+    247,
+    248
    ]
   },
   {
@@ -7683,28 +7715,17 @@
    "marks": [],
    "path": "Chapter 019 - Pacific Policy Reports/§ 02002 - Reports.md",
    "printed_pages": [
-    246,
-    246
+    248,
+    248
    ]
   },
   {
    "id": "48_2003",
-   "marks": [
-    [
-     "I",
-     8,
-     [
-      [
-       226,
-       "[Page 247]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 019 - Pacific Policy Reports/§ 02003 - Conference.md",
    "printed_pages": [
-    246,
-    247
+    248,
+    248
    ]
   },
   {
@@ -7712,11 +7733,11 @@
    "marks": [],
    "path": "Chapter 019 - Pacific Policy Reports/§ 02004 - Administrative matters.md",
    "printed_pages": [
-    247,
-    247
+    248,
+    248
    ]
   }
  ],
- "provenance_line": "<!-- USCODE-1995-title48 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
+ "provenance_line": "<!-- USCODE-1996-title48 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
  "title_folder": "Title 48 - Territories and Insular Possessions"
 }

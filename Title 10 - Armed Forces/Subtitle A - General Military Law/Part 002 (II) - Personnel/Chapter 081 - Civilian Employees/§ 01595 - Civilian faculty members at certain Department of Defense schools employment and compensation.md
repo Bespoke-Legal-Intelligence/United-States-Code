@@ -18,6 +18,10 @@ Covered Institutions.—This section applies with respect to the following insti
 
 &emsp;(3) The George C. Marshall European Center for Security Studies.
 
+&emsp;(4) The English Language Center of the Defense Language Institute.
+
+&emsp;(5) The Asia-Pacific Center for Security Studies.
+
 (d)
 
 Application to Faculty Members at NDU.—(1) In the case of the National Defense University, this section applies with respect to persons selected by the Secretary for employment as professors, instructors, and lecturers at the National Defense University after February 27, 1990.
@@ -28,9 +32,17 @@ Application to Faculty Members at NDU.—(1) In the case of the National Defense
 
 Application to Director and Deputy Director at George C. Marshall Center.—In the case of the George C. Marshall European Center for Security Studies, this section also applies with respect to the Director and the Deputy Director.
 
-(Added Pub. L. 101–189, div. A, title XI, §1124(a)(1), Nov. 29, 1989, 103 Stat. 1558; amended Pub. L. 102–25, title VII, §701(h)(1), Apr. 6, 1991, 105 Stat. 115; Pub. L. 102–190, div. A, title IX, §911, Dec. 5, 1991, 105 Stat. 1452; Pub. L. 102–484, div. A, title IX, §923(a)(1), (2)(A), Oct. 23, 1992, 106 Stat. 2474; Pub. L. 103–160, div. A, title IX, §923(a)(1), Nov. 30, 1993, 107 Stat. 1731.)
+(f)
+
+Application to Director and Deputy Director at Asia-Pacific Center for Security Studies.—In the case of the Asia-Pacific Center for Security Studies, this section also applies with respect to the Director and the Deputy Director.
+
+(Added Pub. L. 101–189, div. A, title XI, §1124(a)(1), Nov. 29, 1989, 103 Stat. 1558; amended Pub. L. 102–25, title VII, §701(h)(1), Apr. 6, 1991, 105 Stat. 115; Pub. L. 102–190, div. A, title IX, §911, Dec. 5, 1991, 105 Stat. 1452; Pub. L. 102–484, div. A, title IX, §923(a)(1), (2)(A), Oct. 23, 1992, 106 Stat. 2474; Pub. L. 103–160, div. A, title IX, §923(a)(1), Nov. 30, 1993, 107 Stat. 1731; Pub. L. 104–201, div. A, title XVI, §1607, Sept. 23, 1996, 110 Stat. 2737.)
 
 #### Amendments
+
+1996—Subsec. (c)(4), (5). Pub. L. 104–201, §1607(a), added pars. (4) and (5).
+
+Subsec. (f). Pub. L. 104–201, §1607(b), added subsec. (f).
 
 1993—Pub. L. 103–160 substituted “Civilian faculty members at certain Department of Defense schools: employment and compensation” for “National Defense University: Foreign Language Center of the Defense Language Institute: civilian faculty members” as section catchline and amended text generally, substituting subsecs. (a) to (e) for former subsecs. (a) to (d) relating to similar subject matter but not including coverage of the George C. Marshall European Center for Security Studies.
 

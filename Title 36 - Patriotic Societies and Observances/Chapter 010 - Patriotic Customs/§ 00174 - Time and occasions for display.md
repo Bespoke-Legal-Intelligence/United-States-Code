@@ -32,7 +32,7 @@ The flag should be displayed during school days in or near every schoolhouse.
 
 #### Codification
 
-“Veterans Day” substituted for “Armistice Day” in subsec. (d) to conform to the provisions of act June 1, 1954, ch. 250, 68 Stat. 168. See section 6103 of Title 5, Government Organization and Employees.
+“Veterans Day” substituted for “Armistice Day” in subsec. (d) to conform to the provisions of act June 1,1954, ch. 250, 68 Stat. 168. See section 6103 of Title 5, Government Organization and Employees.
 
 #### Amendments
 
@@ -92,7 +92,7 @@ Many people, however, enter our country at night when the flag is not flown, bec
 
 Authority exists to amend that custom. A Congressional joint resolution of June 22, 1942 (56 Stat. 377), as amended (36 U.S.C. 173–178), permits the flag to be displayed at night “upon special occasions when it is desired to produce a patriotic effect.”
 
-I believe it is appropriate that returning citizens and visitors from other countries be welcomed by our flagwhether they arrive at their ports of entry by night or by day.
+I believe it is appropriate that returning citizens and visitors from other countries be welcomed by our flag whether they arrive at their ports of entry by night or by day.
 
 NOW, THEREFORE, I, RICHARD NIXON, President of the United States of America, do hereby proclaim that the flag of the United States of America shall hereafter be displayed at all times during the day and night, except when the weather is inclement, at United States Customs ports of entry which are continually open.
 

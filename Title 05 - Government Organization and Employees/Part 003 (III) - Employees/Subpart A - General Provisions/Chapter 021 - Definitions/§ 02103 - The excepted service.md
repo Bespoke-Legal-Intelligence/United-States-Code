@@ -12,7 +12,7 @@ The section is supplied for convenience. The “excepted service” has come to 
 
 #### Amendments
 
-<b>1978</b>—Subsec. (a). Pub. L. 95–454 inserted reference to Senior Executive Service.
+1978—Subsec. (a). Pub. L. 95–454 inserted reference to Senior Executive Service.
 
 #### Effective Date of 1978 Amendment
 
@@ -20,5 +20,5 @@ Amendment by Pub. L. 95–454 effective 9 months after Oct. 13, 1978, and congre
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 3304 of this title; title 10 sections 1744, 2164; title 49 section 44506.
+This section is referred to in section 3304 of this title; title 10 sections 1614, 1744, 2164; title 49 section 44506.
 

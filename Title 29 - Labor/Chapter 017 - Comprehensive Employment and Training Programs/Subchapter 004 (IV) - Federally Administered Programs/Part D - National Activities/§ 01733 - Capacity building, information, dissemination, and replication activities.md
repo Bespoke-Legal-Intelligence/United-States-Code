@@ -106,7 +106,7 @@ The Secretary shall develop a national strategy for carrying out the activities 
 
 #### (A) Nonprofit organization
 
-&emsp;&emsp;Any public or private nonprofit organization desiring to receive such a grant to provide the technical assistance necessary for program replication may submit an application to the Secretary at such time, in such manner, and containing or accompanied by such information as the Secretary may reasonably require.
+&emsp;&emsp;Any public or private nonprofit organization desiring to receive such a grant to provide the technical assistance necessary for program replication may submit an application to the Secretary at such time, in suchmanner, and containing or accompanied by such information as the Secretary may reasonably require.
 
 #### (B) State; service delivery area
 
@@ -118,7 +118,7 @@ The Secretary shall develop a national strategy for carrying out the activities 
 
 &emsp;&emsp;&emsp;(i) a description of the program proposed for replication and available evidence of the success of the program in improving the employment prospects of economically disadvantaged youth and adults, and dislocated workers, within each such service delivery area; and
 
-&emsp;&emsp;&emsp;(ii) in the case of applications described in subparagraph (A), an assurance that theorganization will enter into an agreement with the service delivery areas in which the program is to be replicated, to participate in the replication program.
+&emsp;&emsp;&emsp;(ii) in the case of applications described in subparagraph (A), an assurance that the organization will enter into an agreement with the service delivery areas in which the program is to be replicated, to participate in the replication program.
 
 #### (4) Grant limitations
 

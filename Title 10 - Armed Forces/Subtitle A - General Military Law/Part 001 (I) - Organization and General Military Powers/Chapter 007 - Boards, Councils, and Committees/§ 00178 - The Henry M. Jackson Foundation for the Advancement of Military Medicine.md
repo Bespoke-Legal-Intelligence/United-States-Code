@@ -6,7 +6,7 @@
 
 (c)(1) The Foundation shall have a Council of Directors (hereinafter in this section referred to as the “Council”) composed of—
 
-&emsp;(A) the Chairmen and ranking minority members of the Committees on Armed Services of the Senate and the House of Representatives (or their designees from the membership of such committees), who shall be ex officio members,
+&emsp;(A) the Chairmen and ranking minority members of the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives (or their designees from the membership of such committees), who shall be ex officio members,
 
 &emsp;(B) the Dean of the Uniformed Services University of the Health Sciences, who shall be an ex officio member, and
 
@@ -16,7 +16,7 @@
 
 &emsp;(A) any person appointed to fill a vacancy occurring before the expiration of the term for which his predecessor was appointed shall be appointed for the remainder of such term; and
 
-&emsp;(B) the terms of office of members first taking office shall expire, as designated by the ex officio members of the Council at the time of the appointment, two at the end of two years and two at the end of four years.
+&emsp;(B) the terms of office of members first taking office shall expire, as designated by the exofficio members of the Council at the time of the appointment, two at the end of two years and two at the end of four years.
 
 (3) The Council shall elect a chairman from among its members.
 
@@ -38,7 +38,7 @@
 
 &emsp;(4) accept, hold, administer, invest, and spend any gift, devise, or bequest of real or personal property made to the Foundation;
 
-&emsp;(5) enter into contracts with individuals, public or private organizations, professional societies, and government agencies for thepurpose of carrying out the functions of the Foundation;
+&emsp;(5) enter into contracts with individuals, public or private organizations, professional societies, and government agencies for the purpose of carrying out the functions of the Foundation;
 
 &emsp;(6) enter into such other contracts, leases, cooperative agreements, and other transactions as the Executive Director considers appropriate to conduct the activities of the Foundation; and
 
@@ -48,19 +48,17 @@
 
 (i) The Council shall transmit to the President annually, and at such other times as the Council considers desirable, a report on the operations, activities, and accomplishments of the Foundation.
 
-(Added Pub. L. 98–36, §2(a), May 27, 1983, 97 Stat. 200; amended Pub. L. 98–132, §2(a)(1), Oct. 17, 1983, 97 Stat. 849; Pub. L. 101–189, div. A, title VII, §726(b)(2), Nov. 29, 1989, 103 Stat. 1480.)
+(Added Pub. L. 98–36, §2(a), May 27, 1983, 97 Stat. 200; amended Pub. L. 98–132, §2(a)(1), Oct. 17, 1983, 97 Stat. 849; Pub. L. 101–189, div. A, title VII, §726(b)(2), Nov. 29, 1989, 103 Stat. 1480; Pub. L. 104–106, div. A, title XV, §1502(a)(2), Feb. 10, 1996, 110 Stat. 502.)
 
 #### Amendments
+
+1996—Subsec. (c)(1)(A). Pub. L. 104–106 substituted “Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives” for “Committees on Armed Services of the Senate and the House of Representatives”.
 
 1989—Subsec. (g)(1). Pub. L. 101–189 inserted “, accept grants from, and make grants to” after “contracts with”.
 
 1983—Pub. L. 98–132, §2(a)(1)(A), inserted “The Henry M. Jackson” before “Foundation” in section catchline.
 
 Subsec. (a). Pub. L. 98–132, §2(a)(1)(B), inserted “Henry M. Jackson”.
-
-#### Change of Name
-
-Committee on Armed Services of House of Representatives treated as referring to Committee on National Security of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Change of Name to “Henry M. Jackson Foundation for the Advancement of Military Medicine”
 

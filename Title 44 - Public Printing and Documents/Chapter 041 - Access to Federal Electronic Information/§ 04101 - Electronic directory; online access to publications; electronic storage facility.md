@@ -12,7 +12,7 @@ In General.—The Superintendent of Documents, under the direction of the Public
 
 (b)
 
-Departmental Requests.—To the extent practicable, the Superintendent of Documents shall accommodate any request by the head of adepartment or agency to include in the system of access referred to in subsection (a)(2) information that is under the control of the department or agency involved.
+Departmental Requests.—To the extent practicable, the Superintendent of Documents shall accommodate any request by the head of a department or agency to include in the system of access referred to in subsection (a)(2) information that is under the control of the department or agency involved.
 
 (c)
 
@@ -36,5 +36,5 @@ Section 4(a) of Pub. L. 103–40 provided that: “The directory, the system of 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 4102, 4103 of this title.
+This section is referred to in sections 4102, 4103 of this title; title 40 section 1503.
 

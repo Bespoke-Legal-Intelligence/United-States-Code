@@ -42,7 +42,7 @@ Pub. L. 99–570, §1004(a), substituted “term of supervised release” for �
 
 1984—Subsecs. (a), (b). Pub. L. 98–473, §503(b)(3), substituted “Except as provided in section 845a of this title, any” for “Any”.
 
-Pub. L. 98–473, §224(b), which directed amendment of this section effective Nov. 1, 1987 (see section 235(a)(1) of Pub. L. 98–473 set out as an Effective Date note under section 3551 of Title 18, Crimes and Criminal Procedure) was repealed by Pub. L. 99–570, §1005(b)(1).
+Pub. L. 98–473, §224(b), which directed amendment of this section effective Nov. 1, 1987 (see section 235(a)(1) of Pub. L. 98–473 set out as an Effective Date note undersection 3551 of Title 18, Crimes and Criminal Procedure) was repealed by Pub. L. 99–570, §1005(b)(1).
 
 #### Effective Date of 1986 Amendment
 

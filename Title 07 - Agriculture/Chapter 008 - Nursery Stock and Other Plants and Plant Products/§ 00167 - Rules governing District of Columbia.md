@@ -34,7 +34,7 @@ Functions of all officers, agencies, and employees of Department of Agriculture 
 
 Functions of Bureau of Entomology and Plant Quarantine transferred to Secretary of Agriculture by 1947 Reorg. Plan No. 1, §301, eff. July 1, 1947, 12 F.R. 4534, 61 Stat. 952, set out in the Appendix to Title 5, Government Organization and Employees.
 
-“Bureau of Entomology and Plant Quarantine” substituted in text for “Federal Horticultural Board” byacts May 16, 1928, July 7, 1932, and Mar. 26, 1934. See note under section 165a of this title.
+“Bureau of Entomology and Plant Quarantine” substituted in text for “Federal Horticultural Board” by acts May 16, 1928, July 7, 1932, and Mar. 26, 1934. See note under section 165a of this title.
 
 #### Federal Rules of Civil Procedure
 

@@ -12,15 +12,15 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 (a)
 
 5 U.S.C. 793 (4th par., less 2d sentence).
 
 July 29, 1942, ch. 533 (less 2d sentence), 56 Stat. 725.
-
-&nbsp;
 
 Sept. 13, 1960, Pub. L. 86–767, §210, 74 Stat. 910.
 

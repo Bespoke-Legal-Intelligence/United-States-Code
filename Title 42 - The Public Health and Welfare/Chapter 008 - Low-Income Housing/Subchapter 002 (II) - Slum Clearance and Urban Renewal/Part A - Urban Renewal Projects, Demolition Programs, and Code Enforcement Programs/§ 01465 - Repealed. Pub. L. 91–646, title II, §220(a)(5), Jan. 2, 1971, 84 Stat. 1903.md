@@ -8,5 +8,5 @@ Repeal not applicable to any State so long as sections 4630 and 4655 of this tit
 
 #### Savings Provision
 
-Any rights or liabilities existing under provisions repealed by section 220(a) of Pub. L. 91–646 as not affectedby such repeal, see section 220(b) of Pub. L. 91–646, set out as a note under section 4621 of this title.
+Any rights or liabilities existing under provisions repealed by section 220(a) of Pub. L. 91–646 as not affected by such repeal, see section 220(b) of Pub. L. 91–646, set out as a note under section 4621 of this title.
 

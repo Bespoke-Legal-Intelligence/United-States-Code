@@ -24,7 +24,7 @@ The Board shall be composed of nine members, who shall be selected as follows:
 
 #### (c) Terms of appointment
 
-Each member of the Board shall be appointed to serve for a term of three years except thatthe initial appointments shall be for terms as follows:
+Each member of the Board shall be appointed to serve for a term of three years except that the initial appointments shall be for terms as follows:
 
 &emsp;(1) of those members appointed by the Mono County Board of Supervisors one shall be appointed to serve for a term of one year, two shall be for a term of two years, and two shall be for a term of three years;
 

@@ -14,7 +14,7 @@ Reimbursement Table.—For purposes of carrying out this section, the reimbursem
 
 &nbsp;
 
-| States | Original cost in millions | Reimbursement percentage | Reimbursable amount in millions |
+| States | Original cost in millions | Reimbursement percentage | Reimbursable amount in millions |
 | :--- | :---: | :---: | ---: |
 | Alabama | $9 | 0\.50 | $147 |
 | Alaska | &nbsp; | 0\.50 | 147 |
@@ -86,7 +86,7 @@ Limitation on Applicability of Certain Requirements of STP Program.—The follow
 
 (f)
 
-Authorization of Appropriations.—There is authorized to be appropriated, out of the Highway Trust Fund (other than the Mass Transit Account), $2,000,000,000 per fiscal year foreach of fiscal years 1996 and 1997 to carryout this section.
+Authorization of Appropriations.—There is authorized to be appropriated, out of the Highway Trust Fund (other than the Mass Transit Account), $2,000,000,000 per fiscal year for each of fiscal years 1996 and 1997 to carryout this section.
 
 (Added Pub. L. 102–240, title I, §1014(a), Dec. 18, 1991, 105 Stat. 1941.)
 

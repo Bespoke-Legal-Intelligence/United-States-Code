@@ -44,7 +44,7 @@ For purposes of this section and section 244—
 
 &emsp;&emsp;For purposes of subparagraph (B), issuance of stock includes issuance either by the same or another corporation in a transaction which is a reorganization (as defined in section 368(a)) or a transaction subject to part VI of subchapter O (relating to exchanges in SEC obedience orders), or the respectively corresponding provisions of the Internal Revenue Code of 1939.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 75; Oct. 4, 1976, Pub. L. 94–455, title XIX, §1901(a)(35), 90 Stat. 1770; Nov. 6, 1978, Pub. L. 95–600, title III, §301(b)(4), 92 Stat. 2820; Nov. 5, 1990, Pub. L. 101–508, title XI, §11801(c)(8)(C), 104 Stat. 1388–524.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 75; Oct. 4, 1976, Pub. L. 94–455, title XIX, §1901(a)(35), 90 Stat. 1770; Nov. 6, 1978, Pub. L. 95–600, title III, §301(b)(4), 92 Stat. 2820; Nov. 5, 1990, Pub. L. 101–508, title XI, §11801(c)(8)(C), 104 Stat. 1388–524; Aug. 20, 1996, Pub. L. 104–188, title I, §1704(t)(49), 110 Stat. 1890.)
 
 #### References in Text
 
@@ -52,7 +52,9 @@ The Internal Revenue Code of 1939, referred to in subsec. (b)(2)(D), is act Feb.
 
 #### Amendments
 
-1990—Subsec. (b)(2)(D). Pub. L. 101–508 which directed that “, a transaction to which section 371 (relating to insolvency reorganization) applies,” be struck out was executed by striking out “, a transaction to which section 371 (relating to insolvency reorganizations) applies,” after “(as defined in section 368(a))” to reflect the probable intent of Congress.
+1996—Subsec. (b)(2)(D). Pub. L. 104–188 provided that section 11801(c)(8)(C) of Pub. L. 101–508 shall be applied as if “reorganizations” appeared instead of “reorganization” in the material proposed to be stricken. See 1990 Amendment note below.
+
+1990—Subsec. (b)(2)(D). Pub. L. 101–508 which directed that “, a transaction to which section 371 (relating to insolvency reorganization) applies,” be struck out was executed by striking out “, a transaction to which section 371 (relating to insolvency reorganizations) applies,” after “(as defined in section 368(a))”. See 1996 Amendment note above.
 
 1978—Subsec. (a)(2)(B). Pub. L. 95–600 substituted “the highest rate of tax specified in section 11(b)” for “the sum of the normal tax rate and the surtax rate for the taxable year specified in section 11”.
 

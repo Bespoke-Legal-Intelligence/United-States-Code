@@ -8,7 +8,7 @@ As used in this chapter—
 
 &emsp;(2) “State” means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, American Samoa, Guam, and the Northern Mariana Islands: <i>Provided</i>, That for the purpose of section 3756(a) of this title, American Samoa and the Commonwealth of the Northern Mariana Islands shall be considered as one state <sup>1</sup> and that for these purposes 67 per centum of the amounts allocated shall be allocated to American Samoa, and 33 per centum to the Commonwealth of the Northern Mariana Islands.<sup>2</sup>
 
-&emsp;(3) “unit of local government” means any city, county, township, town, borough, parish, village, or other general purpose political subdivision of a State, an Indian tribe which performs law enforcement functions as determined by the Secretary of the Interior, or, for the purpose of assistance eligibility, any agency of the District of Columbia government or the United States Government performing law enforcement functions in and for the District of Columbia, and the Trust Territory of the Pacific Islands;
+&emsp;(3) “unit of local government” means any city, county, township, town, borough, parish, village, or other general purpose political subdivision of a State, an Indian tribe which performs law enforcement functions as determined by the Secretary of the Interior, or, for the purpose of assistance eligibility, any agency of the District of Columbia government or the United States Government performing lawenforcement functions in and for the District of Columbia, and the Trust Territory of the Pacific Islands;
 
 &emsp;(4) “construction” means the erection, acquisition, renovation, repairs, remodeling, or expansion of new or existing buildings or other physical facilities, and the acquisition or installation of initial equipment therefor;
 
@@ -74,7 +74,7 @@ A prior section 3791 of this title, Pub. L. 90–351, title I, §651, as added P
 
 A prior section 901 of Pub. L. 90–351, title IV, June 19, 1968, 82 Stat. 225, was classified as a note under section 921 of Title 18, Crimes and Criminal Procedure.
 
-A prior section 3792 of this title, Pub. L. 90–351, title I, §652, as added Pub. L. 91–644, title I, §10, Jan. 2, 1971, 84 Stat. 1889; amended Pub. L. 93–83, §2, Aug. 6, 1973, 87 Stat. 218, related to fraudulent and false statements orentries, prior to the general amendment of this chapter by Pub. L. 96–157. See section 3795a of this title.
+A prior section 3792 of this title, Pub. L. 90–351, title I, §652, as added Pub. L. 91–644, title I, §10, Jan. 2, 1971, 84 Stat. 1889; amended Pub. L. 93–83, §2, Aug. 6, 1973, 87 Stat. 218, related to fraudulent and false statements or entries, prior to the general amendment of this chapter by Pub. L. 96–157. See section 3795a of this title.
 
 #### Amendments
 

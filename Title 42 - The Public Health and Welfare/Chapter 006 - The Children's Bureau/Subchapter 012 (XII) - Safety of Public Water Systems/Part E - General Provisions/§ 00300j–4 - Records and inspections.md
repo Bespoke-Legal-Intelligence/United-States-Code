@@ -1,22 +1,66 @@
 ### §300j–4. Records and inspections
 
-#### (a) Persons subject to requirements; size of system and likely contaminants as considerations for monitoring; monitoring for unregulated contaminants; notification of availability of results; waiver of monitoring requirement; authorization of appropriations
+#### (a) Provision of information to Administrator; monitoring program for unregulated contaminants
 
-(1) Every person who is a supplier of water, who is or may be otherwise subject to a primary drinking water regulation prescribed under section 300g–1 of this title or to an applicable underground injection control program (as defined in section 300h–1(c) of this title), who is or may be subject to the permit requirement of section 300h–3 of this title, or to an order issued under section 300j of this title, or who is a grantee, shall establish and maintain such records, make such reports, conduct such monitoring, and provide such information as the Administrator may reasonably require by regulation to assist him in establishing regulations under this subchapter, in determining whether such person has acted or is acting in compliance with this subchapter in administering any program of financial assistance under this subchapter, in evaluating the health risks of unregulated contaminants, or in advising the public of such risks. In requiring a public water system to monitor under this subsection, the Administrator may take into consideration the system size and the contaminants likely to be found in the system's drinking water.
+(1)(A) Every person who is subject to any requirement of this subchapter or who is a grantee, shall establish and maintain such records, make such reports, conduct such monitoring, and provide such information as the Administrator may reasonably require by regulation to assist the Administrator in establishing regulations under this subchapter, in determining whether such person has acted or is acting in compliance with this subchapter, in administering any program of financial assistance under this subchapter, in evaluating the health risks of unregulated contaminants, or in advising the public of such risks. In requiring a public water system to monitor under this subsection, the Administrator may take into consideration the system size and the contaminants likely to be found in the system's drinking water.
 
-(2) Not later than 18 months after June 19, 1986, the Administrator shall promulgate regulations requiring every public water system to conduct a monitoring program for unregulatedcontaminants. The regulations shall require monitoring of drinking water supplied by the system and shall vary the frequency and schedule of monitoring requirements for systems based on the number of persons served by the system, the source of supply, and the contaminants likely to be found. Each system shall be required to monitor at least once every 5 years after the effective date of the Administrator's regulations unless the Administrator requires more frequent monitoring.
+(B) Every person who is subject to a national primary drinking water regulation under section 300g–1 of this title shall provide such information as the Administrator may reasonably require, after consultation with the State in which such person is located if such State has primary enforcement responsibility for public water systems, on a case-by-case basis, to determine whether such person has acted or is acting in compliance with this subchapter.
 
-(3) Regulations under paragraph (2) shall list unregulated contaminants for which systems may be required to monitor, and shall include criteria by which the primary enforcement authority in each State could show cause for addition or deletion of contaminants from the designated list. The primary State enforcement authority may delete contaminants for an individual system, in accordance with these criteria, after obtaining approval of assessment of the contaminants potentially to be found in the system. The Administrator shall approve or disapprove such an assessment submitted by a State within 60 days. A State may add contaminants, in accordance with these criteria, without making an assessment, but in no event shall such additions increase Federal expenditures authorized by this section.
+(C) Every person who is subject to a national primary drinking water regulation under section 300g–1 of this title shall provide such information as the Administrator may reasonably require to assist the Administrator in establishing regulations under section 300g–1 of this title, after consultation with States and suppliers of water. The Administrator may not require under this subparagraph the installation of treatment equipment or process changes, the testing of treatment technology, or the analysis or processing of monitoring samples, except where the Administrator provides the funding for such activities. Before exercising this authority, the Administrator shall first seek to obtain the information by voluntary submission.
 
-(4) Public water systems conducting monitoring of unregulated contaminants pursuant to this section shall provide the results of such monitoring to the primary enforcement authority.
+(D) The Administrator shall not later than 2 years after August 6, 1996, after consultation with public health experts, representatives of the general public, and officials of State and local governments, review the monitoring requirements for not fewer than 12 contaminants identified by the Administrator, and promulgate any necessary modifications.
 
-(5) Notification of the availability of the results of the monitoring programs required under paragraph (2), and notification of the availability of the results of the monitoring program referred to in paragraph (6), shall be given to the persons served by the system and the Administrator.
+(2)
 
-(6) The Administrator may waive the monitoring requirement under paragraph (2) for a system which has conducted a monitoring program after January 1, 1983, if the Administrator determines the program to have been consistent with the regulations promulgated under this section.
+Monitoring program for unregulated contaminants.—
 
-(7) Any system supplying less than 150 service connections shall be treated as complying with this subsection if such system provides water samples or the opportunity for sampling according to rules established by the Administrator.
+&emsp;(A)
 
-(8) There are authorized to be appropriated $30,000,000 in the fiscal year ending September 30, 1987 <sup>1</sup> to remain available until expended to carry out the provisions of this subsection.
+Establishment.—The Administrator shall promulgate regulations establishing the criteria for a monitoring program for unregulated contaminants. The regulations shall require monitoring of drinking water supplied by public water systems and shall vary the frequency and schedule for monitoring requirements for systems based on the number of persons served by the system, the source of supply, and the contaminants likely to be found, ensuring that only a representative sample of systems serving 10,000 persons or fewer are required to monitor.
+
+&emsp;(B)
+
+Monitoring program for certain unregulated contaminants.—
+
+&emsp;&emsp;(i)
+
+Initial list.—Not later than 3 years after August 6, 1996, and every 5 years thereafter, the Administrator shall issue a list pursuant to subparagraph (A) of not more than 30 unregulated contaminants to be monitored by public water systems and to be included in the national drinking water occurrence data base maintained pursuant to subsection (g) of this section.
+
+&emsp;&emsp;(ii)
+
+Governors’ petition.—The Administrator shall include among the list of contaminants for which monitoring is required under this paragraph each contaminant recommended in a petition signed by the Governor of each of 7 or more States, unless the Administrator determines that the action would prevent the listing of other contaminants of a higher public health concern.
+
+&emsp;(C)
+
+Monitoring plan for small and medium systems.—
+
+&emsp;&emsp;(i)
+
+In general.—Based on the regulations promulgated by the Administrator, each State may develop a representative monitoring plan to assess the occurrence of unregulated contaminants in public water systems that serve a population of 10,000 or fewer in that State. The plan shall require monitoring for systems representative of different sizes, types, and geographic locations in the State.
+
+&emsp;&emsp;(ii)
+
+Grants for small system costs.—From funds reserved under section 300j–12(<i>o</i>) of this title or appropriated under subparagraph (H), the Administrator shall pay the reasonable cost of such testing and laboratory analysis as are necessary to carry out monitoring under the plan.
+
+&emsp;(D)
+
+Monitoring results.—Each public water system that conducts monitoring of unregulated contaminants pursuant to this paragraph shall provide the results of the monitoring to the primary enforcement authority for the system.
+
+&emsp;(E)
+
+Notification.—Notification of the availability of the results of monitoring programs required under paragraph (2)(A) shall be given to the persons served by the system.
+
+&emsp;(F)
+
+Waiver of monitoring requirement.—The Administrator shall waive the requirement for monitoring for a contaminant under this paragraph in a State, if the State demonstrates that the criteria for listing the contaminant do not apply in that State.
+
+&emsp;(G)
+
+Analytical methods.—The State may use screening methods approved by the Administrator under subsection (i) of this section in lieu of monitoring for particular contaminants under this paragraph.
+
+&emsp;(H)
+
+Authorization of appropriations.—There are authorized to be appropriated to carry out this paragraph $10,000,000 for each of the fiscal years 1997 through 2003.
 
 #### (b) Entry of establishments, facilities, or other property; inspections; conduct of certain tests; audit and examination of records; entry restrictions; prohibition against informing of a proposed entry
 
@@ -26,7 +70,7 @@
 
 #### (c) Penalty
 
-Whoever fails or refuses to comply with any requirement of subsection (a) of this section or to allow the Administrator, the Comptroller General, or representatives of either, to enter and conduct any audit or inspection authorized by subsection (b) of this section shall be subject to a civil penalty of not to exceed $25,000.
+Whoever fails or refuses to comply with any requirement of subsection (a) of this section or to allow the Administrator, the ComptrollerGeneral, or representatives of either, to enter and conduct any audit or inspection authorized by subsection (b) of this section shall be subject to a civil penalty of not to exceed $25,000.
 
 #### (d) Confidential information; trade secrets and secret processes; information disclosure; “information required under this section” defined
 
@@ -42,9 +86,67 @@ For purposes of this section, (1) the term “grantee” means any person who ap
 
 The Administrator may utilize the authorities of this section for purposes of part F of this subchapter. Any person who manufactures, imports, sells, or distributes drinking water coolers in interstate commerce shall be treated as a supplier of water for purposes of applying the provisions of this section in the case of persons subject to part F of this subchapter.
 
-(July 1, 1944, ch. 373, title XIV, §1445, as added Dec. 16, 1974, Pub. L. 93–523, §2(a), 88 Stat. 1686; amended Nov. 16, 1977, Pub. L. 95–190, §12(c), (d), 91 Stat. 1398; June 19, 1986, Pub. L. 99–339, title I, §106, title III, §301(h), 100 Stat. 650, 665; Oct. 31, 1988, Pub. L. 100–572, §5, 102 Stat. 2889.)
+#### (g) Occurrence data base
+
+#### (1) In general
+
+&emsp;Not later than 3 years after August 6, 1996, the Administrator shall assemble and maintain a national drinking water contaminant occurrence data base, using information on the occurrence of both regulated and unregulated contaminants in public water systems obtained under subsection (a)(1)(A) of this section or subsection (a)(2) of this section and reliable information from other public and private sources.
+
+#### (2) Public input
+
+&emsp;In establishing the occurrence data base, the Administrator shall solicit recommendations from the Science Advisory Board, the States, and other interested parties concerning the development and maintenance of a national drinking water contaminant occurrence data base, including such issues as the structure and design of the data base, data input parameters and requirements, and the use and interpretation of data.
+
+#### (3) Use
+
+&emsp;The data shall be used by the Administrator in making determinations under section 300g–1(b)(1) of this title with respect to the occurrence of a contaminant in drinking water at a level of public health concern.
+
+#### (4) Public recommendations
+
+&emsp;The Administrator shall periodically solicit recommendations from the appropriate officials of the National Academy of Sciences and the States, and any person may submit recommendations to the Administrator, with respect to contaminants that should be included in the national drinking water contaminant occurrence data base, including recommendations with respect to additional unregulated contaminants that should be listed under subsection (a)(2) of this section. Any recommendation submitted under this clause shall be accompanied by reasonable documentation that—
+
+&emsp;&emsp;(A) the contaminant occurs or is likely to occur in drinking water; and
+
+&emsp;&emsp;(B) the contaminant poses a risk to public health.
+
+#### (5) Public availability
+
+&emsp;The information from the data base shall be available to the public in readily accessible form.
+
+#### (6) Regulated contaminants
+
+&emsp;With respect to each contaminant for which a national primary drinking water regulation has been established, the data base shall include information on the detection of the contaminant at a quantifiable level in public water systems (including detection of the contaminant at levels not constituting a violation of the maximum contaminant level for the contaminant).
+
+#### (7) Unregulated contaminants
+
+&emsp;With respect to contaminants for which a national primary drinking water regulation has not been established, the data base shall include—
+
+&emsp;&emsp;(A) monitoring information collected by public water systems that serve a population of more than 10,000, as required by the Administrator under subsection (a) of this section;
+
+&emsp;&emsp;(B) monitoring information collected from a representative sampling of public water systems that serve a population of 10,000 or fewer; and
+
+&emsp;&emsp;(C) other reliable and appropriate monitoring information on the occurrence of the contaminants in public water systems that is available to the Administrator.
+
+#### (h) Availability of information on small system technologies
+
+For purposes of sections 300g–1(b)(4)(E) and 300g–4(e) of this title (relating to small systemvariance program), the Administrator may request information on the characteristics of commercially available treatment systems and technologies, including the effectiveness and performance of the systems and technologies under various operating conditions. The Administrator may specify the form, content, and submission date of information to be submitted by manufacturers, States, and other interested persons for the purpose of considering the systems and technologies in the development of regulations or guidance under sections 300g–1(b)(4)(E) and 300g–4(e) of this title.
+
+#### (i) Screening methods
+
+The Administrator shall review new analytical methods to screen for regulated contaminants and may approve such methods as are more accurate or cost-effective than established reference methods for use in compliance monitoring.
+
+(July 1, 1944, ch. 373, title XIV, §1445, as added Dec. 16, 1974, Pub. L. 93–523, §2(a), 88 Stat. 1686; amended Nov. 16, 1977, Pub. L. 95–190, §12(c), (d), 91 Stat. 1398; June 19, 1986, Pub. L. 99–339, title I, §106, title III, §301(h), 100 Stat. 650, 665; Oct. 31, 1988, Pub. L. 100–572, §5, 102 Stat. 2889; Aug. 6, 1996, Pub. L. 104–182, title I, §§111(b), 125(a), (c), (d), 126, 110 Stat. 1633, 1653, 1656–1658.)
 
 #### Amendments
+
+1996—Subsec. (a)(1). Pub. L. 104–182, §125(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Every person who is a supplier of water, who is or may be otherwise subject to a primary drinking water regulation prescribed under section 300g–1 of this title or to an applicable underground injection control program (as defined in section 300h–1(c) of this title), who is or may be subject to the permit requirement of section 300h–3 of this title, or to an order issued under section 300j of this title, or who is a grantee, shall establish and maintain such records, make such reports, conduct such monitoring, and provide such information as the Administrator may reasonably require by regulation to assist him in establishing regulations under this subchapter, in determining whether such person has acted or is acting in compliance with this subchapter in administering any program of financial assistance under this subchapter, in evaluating the health risks of unregulated contaminants, or in advising the public of such risks. In requiring a public water system to monitor under this subsection, the Administrator may take into consideration the system size and the contaminants likely to be found in the system's drinking water.”
+
+Subsec. (a)(2) to (8). Pub. L. 104–182, §125(c), added heading and text of par. (2) and struck out former pars. (2) to (8) which directed Administrator, not later than 18 months after June 19, 1986, to promulgate regulations requiring every public water system to conduct a monitoring program for unregulated contaminants, specified contents of regulations, provided for reporting and notification of availability of results of monitoring, waiver of monitoring requirements, and compliance by small systems, and authorized appropriations for fiscal year ending Sept. 30, 1987.
+
+Subsec. (g). Pub. L. 104–182, §126, added subsec. (g).
+
+Subsec. (h). Pub. L. 104–182, §111(b), added subsec. (h).
+
+Subsec. (i). Pub. L. 104–182, §125(d), added subsec. (i).
 
 1988—Subsec. (f). Pub. L. 100–572 added subsec. (f).
 
@@ -62,7 +164,5 @@ Subsec. (b)(1). Pub. L. 95–190, §12(d), designated existing provisions as cls
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 300g–3, 7412, 9606 of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
+This section is referred to in sections 300g–1, 300g–3, 300j–12, 7412, 9606 of this title.
 

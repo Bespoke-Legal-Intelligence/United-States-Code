@@ -24,7 +24,9 @@ Act
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 (1)
 
@@ -54,7 +56,7 @@ Section 902(a) of former Title 5, Executive Departments and Government Officers 
 
 #### Amendments
 
-<b>1977</b>—Par. (1)(C). Pub. L. 95–17 struck out subpar. (C) which defined “agency” as any and all parts of the government of the District of Columbia other than the courts thereof.
+1977—Par. (1)(C). Pub. L. 95–17 struck out subpar. (C) which defined “agency” as any and all parts of the government of the District of Columbia other than the courts thereof.
 
 #### Effective Date of 1967 Amendment
 

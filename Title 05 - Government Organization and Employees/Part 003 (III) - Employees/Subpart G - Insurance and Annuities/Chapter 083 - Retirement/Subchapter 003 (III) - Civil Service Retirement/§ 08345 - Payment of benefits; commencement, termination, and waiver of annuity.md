@@ -66,7 +66,7 @@
 
 (<i>l</i>) Transfers of contributions and deposits authorized by section 408(a)(3) of the Foreign Service Act of 1980 shall be deemed to be a complete and final payment of benefits under this chapter.
 
-(Pub. L. 89–544, Sept. 6, 1966, 80 Stat. 582; Pub. L. 93–273, §1, Apr. 26, 1974, 88 Stat. 93; Pub. L. 94–126, §1(c), Nov. 12, 1975, 89 Stat. 679; Pub. L. 94–166, §1, Dec. 23, 1975, 89 Stat. 1002; Pub. L. 94–183, §1, Dec. 31, 1975, 89 Stat. 1057; Pub. L. 95–366, §1(a), Sept. 15, 1978, 92 Stat. 600; Pub. L. 95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 97–35, title XVII, §1705(a), Aug. 13, 1981, 95 Stat. 758; Pub. L. 97–253, title III, §§304(b), 305(a), Sept. 8, 1982, 96 Stat. 795; Pub. L. 98–615, §2(6), Nov. 8, 1984, 98 Stat. 3202; Pub. L. 99–251, title III, §305(a), Feb. 27, 1986, 100 Stat. 26; Pub. L. 101–246, title I, §141(b), Feb. 16, 1990, 104 Stat. 35; Pub. L. 103–358, §2(a), Oct. 14, 1994, 108 Stat. 3420.)
+(Pub. L. 89–544, Sept. 6, 1966, 80 Stat. 582; Pub. L. 93–273, §1, Apr. 26, 1974, 88 Stat. 93; Pub. L. 94–126, §1(c), Nov. 12, 1975, 89 Stat. 679; Pub. L. 94–166, §1, Dec. 23, 1975, 89 Stat. 1002; Pub. L. 94–183, §1, Dec. 31, 1975, 89 Stat. 1057; Pub. L. 95–366, §1(a), Sept. 15, 1978, 92 Stat. 600; Pub. L. 95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub.L. 97–35, title XVII, §1705(a), Aug. 13, 1981, 95 Stat. 758; Pub. L. 97–253, title III, §§304(b), 305(a), Sept. 8, 1982, 96 Stat. 795; Pub. L. 98–615, §2(6), Nov. 8, 1984, 98 Stat. 3202; Pub. L. 99–251, title III, §305(a), Feb. 27, 1986, 100 Stat. 26; Pub. L. 101–246, title I, §141(b), Feb. 16, 1990, 104 Stat. 35; Pub. L. 103–358, §2(a), Oct. 14, 1994, 108 Stat. 3420.)
 
 Historical and Revision Notes
 
@@ -74,7 +74,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 5 U.S.C. 2264.
 
@@ -96,27 +98,27 @@ Section 408(a)(3) of the Foreign Service Act of 1980, referred to in subsec. (<i
 
 #### Amendments
 
-<b>1994</b>—Subsec. (j)(1). Pub. L. 103–358, §2(a)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Payments under this subchapter which would otherwise be made to an employee, Member, or annuitant based upon his service shall be paid (in whole or in part) by the Office to another person if and to the extent expressly provided for in the terms of any court decree of divorce, annulment, or legal separation, or the terms of any court order or court-approved property settlement agreement incident to any court decree of divorce, annulment, or legal separation. Any payment under this paragraph to a person bars recovery by any other person.”
+1994—Subsec. (j)(1). Pub. L. 103–358, §2(a)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Payments under this subchapter which would otherwise be made to an employee, Member, or annuitant based upon his service shall be paid (in whole or in part) by the Office to another person if and to the extent expressly provided for in the terms of any court decree of divorce, annulment, or legal separation, or the terms of any court order or court-approved property settlement agreement incident to any court decree of divorce, annulment, or legal separation. Any payment under this paragraph to a person bars recovery by any other person.”
 
 Subsec. (j)(2). Pub. L. 103–358, §2(a)(2), inserted “other legal process,” after “order,”.
 
 Subsec. (j)(3). Pub. L. 103–358, §2(a)(3), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “As used in this subsection, ‘court’ means any court of any State, the District of Columbia, the Commonwealth of Puerto Rico, Guam, the Northern Mariana Islands, or the Virgin Islands, and any Indian court.”
 
-<b>1990</b>—Subsec. (<i>l</i>). Pub. L. 101–246 added subsec. (<i>l).</i>
+1990—Subsec. (<i>l</i>). Pub. L. 101–246 added subsec. (<i>l</i>).
 
-<b>1986</b>—Subsec. (f). Pub. L. 99–251 struck out subsec. (f) which provided minimum monthly rates of annuity payable under subsec. (a) with certain exceptions.
+1986—Subsec. (f). Pub. L. 99–251 struck out subsec. (f) which provided minimum monthly rates of annuity payable under subsec. (a) with certain exceptions.
 
-<b>1984</b>—Subsec. (f)(4). Pub. L. 98–615, §2(6)(A), added par. (4).
+1984—Subsec. (f)(4). Pub. L. 98–615, §2(6)(A), added par. (4).
 
 Subsec. (j)(3). Pub. L. 98–615, §2(6)(B), inserted reference to the Commonwealth of Puerto Rico, Guam, the Northern Mariana Islands, the Virgin Islands, and any Indian court.
 
-<b>1982</b>—Subsec. (a). Pub. L. 97–253, §304(b), substituted “rounded to the next lowest” for “fixed at the nearest”.
+1982—Subsec. (a). Pub. L. 97–253, §304(b), substituted “rounded to the next lowest” for “fixed at the nearest”.
 
 Subsec. (b). Pub. L. 97–253, §305(a), substituted provisions that an annuity of an employee or Member commences on the first day of the month after separation from service or pay ceases and the service and age requirements for title to annuity are met, that any other annuity payable from the Fund commences on the first day of the month after the occurrence of the event on which the payment thereof is based, and that the annuity of an employee involuntarily separated from service or of an employee or Member retiring due to a disability shall commence on the day after separation from the service or the day after pay ceases and the service and age or disability requirements for title to annuity are met for provisions that the annuity of an employee or Member would commence on the day after he was separated from the service, or on the day after his pay ceased and he met the service and the age or disability requirements for title to annuity and that an annuity payable from the Fund allowed after September 5, 1960, would commence on the day after the occurrence of the event on which payment thereof was based.
 
-<b>1981</b>—Subsec. (k). Pub. L. 97–35 added subsec. (k).
+1981—Subsec. (k). Pub. L. 97–35 added subsec. (k).
 
-<b>1978</b>—Subsecs. (d), (e). Pub. L. 95–454, §906(a)(2), (3), substituted “Office of Personnel Management” for “Civil Service Commission” and “Office” for “Commission”.
+1978—Subsecs. (d), (e). Pub. L. 95–454, §906(a)(2), (3), substituted “Office of Personnel Management” for “Civil Service Commission” and “Office” for “Commission”.
 
 Subsec. (g). Pub. L. 95–454, §906(a)(3), substituted “Office” for “Commission” in the subsec. (g) added by Pub. L. 94–126.
 
@@ -134,17 +136,17 @@ Subsec. (j). Pub. L. 95–454, §906(a)(3), substituted “Office” for “Comm
 
 Pub. L. 95–366 added subsec. (j).
 
-<b>1975</b>—Subsec. (g). Pub. L. 94–166 added subsec. (g) authorizing allotment or assignment of amounts from annuities.
+1975—Subsec. (g). Pub. L. 94–166 added subsec. (g) authorizing allotment or assignment of amounts from annuities.
 
 Pub. L. 94–126 added subsec. (g) relating to the crediting of National Guard technician service in connection with civil service retirement.
 
 Subsec. (h). Pub. L. 94–183 added subsec. (h).
 
-<b>1974</b>—Subsec. (f). Pub. L. 93–273 added subsec. (f).
+1974—Subsec. (f). Pub. L. 93–273 added subsec. (f).
 
 #### Effective Date of 1994 Amendment
 
-Section 3 of Pub. L. 103–358 provided that: “The amendments made by this Act \[amending this section and sections 8437 and 8467 of this title\] shall take effect on the date of enactment of this Act \[Oct. 14, 1994\], andshall apply with respect to any decree, order, or other legal process, or notice of agreement received by the Office of Personnel Management or the Executive Director of the Federal Retirement Thrift Investment Board on or after such date of enactment.”
+Section 3 of Pub. L. 103–358 provided that: “The amendments made by this Act \[amending this section and sections 8437 and 8467 of this title\] shall take effect on the date of enactment of this Act \[Oct. 14, 1994\], and shall apply with respect to any decree, order, or other legal process, or notice of agreement received by the Office of Personnel Management or the Executive Director of the Federal Retirement Thrift Investment Board on or after such date of enactment.”
 
 #### Effective Date of 1984 Amendment
 

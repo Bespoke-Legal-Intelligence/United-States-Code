@@ -1,26 +1,21 @@
 ### <b>CHAPTER 47—UNIFORM CODE OF MILITARY JUSTICE</b>
 
-| Subchapter | Sec.  Art. |
-| :--- | ---: |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
 &nbsp;
 
-| &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+| Subchapter | &nbsp; | Sec. | Art. |
 | :--- | :---: | :---: | ---: |
-| I. | General Provisions | 801 | 1 |
-| II. | Apprehension and Restraint | 807 | 7 |
-| III. | Non-Judicial Punishment | 815 | 15 |
-| IV. | Court-Martial Jurisdiction | 816 | 16 |
-| V. | Composition of Courts-Martial | 822 | 22 |
-| VI. | Pre-Trial Procedure | 830 | 30 |
-| VII. | Trial Procedure | 836 | 36 |
-| VIII. | Sentences | 855 | 55 |
-| IX. | Post-Trial Procedure and Review of Courts-Martial | 859 | 59 |
-| X. | Punitive Articles | 877 | 77 |
-| XI. | Miscellaneous Provisions | 935 | 135 |
-| XII. | United States Court of Appeals for the Armed Forces | 941 | 141 |
+| [I.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/README.md) | General Provisions | 801 | 1 |
+| [II.](Subchapter%20002%20%28II%29%20-%20Apprehension%20and%20Restraint/README.md) | Apprehension and Restraint | 807 | 7 |
+| [III.](Subchapter%20003%20%28III%29%20-%20Non-Judicial%20Punishment/README.md) | Non-Judicial Punishment | 815 | 15 |
+| [IV.](Subchapter%20004%20%28IV%29%20-%20Court-Martial%20Jurisdiction/README.md) | Court-Martial Jurisdiction | 816 | 16 |
+| [V.](Subchapter%20005%20%28V%29%20-%20Composition%20of%20Courts-Martial/README.md) | Composition of Courts-Martial | 822 | 22 |
+| [VI.](Subchapter%20006%20%28VI%29%20-%20Pre-Trial%20Procedure/README.md) | Pre-Trial Procedure | 830 | 30 |
+| [VII.](Subchapter%20007%20%28VII%29%20-%20Trial%20Procedure/README.md) | Trial Procedure | 836 | 36 |
+| [VIII.](Subchapter%20008%20%28VIII%29%20-%20Sentences/README.md) | Sentences | 855 | 55 |
+| [IX.](Subchapter%20009%20%28IX%29%20-%20Post-Trial%20Procedure%20and%20Review%20of%20Courts-Martial/README.md) | Post-Trial Procedure and Review of Courts-Martial | 859 | 59 |
+| [X.](Subchapter%20010%20%28X%29%20-%20Punitive%20Articles/README.md) | Punitive Articles | 877 | 77 |
+| [XI.](Subchapter%20011%20%28XI%29%20-%20Miscellaneous%20Provisions/README.md) | Miscellaneous Provisions | 935 | 135 |
+| [XII.](Subchapter%20012%20%28XII%29%20-%20United%20States%20Court%20of%20Appeals%20for%20the%20Armed%20Forces/README.md) | United States Court of Appeals for the Armed Forces | 941 | 141 |
 
 #### Amendments
 
@@ -38,7 +33,7 @@ Retirement benefits, forfeiture upon conviction of offenses described hereunder,
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 654, 951, 955, 1037, 1044a, 1058, 1059, 1094, 1552, 1553, 2783, 5148 of this title; title 5 sections 8312, 8313, 8331, 8401; title 18 sections 3551, 4247; title 28 section 535; title 37 section 559; title 42 sections 217, 10601; title 49 section 1155; title 50 App. section 473.
+This chapter is referred to in sections 654, 951, 955, 1037, 1044a, 1058, 1059, 1094, 1167, 1552, 1553, 2783, 5148, 12687, 12740 of this title; title 5 sections 8312, 8313, 8331, 8401; title 18 sections 3551, 4247; title 28 section 535; title 37 section 559; title 42 sections 217, 10601; title 49 section 1155; title 50 App. section 473.
 
 
 ---

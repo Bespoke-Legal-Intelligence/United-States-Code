@@ -2,17 +2,15 @@
 
 (a) A claim of the United States against a person arising out of an erroneous payment of any pay or allowances made before, on, or after October 2, 1972, or arising out of an erroneous payment of travel and transportation allowances, to or on behalf of a member or former member of the uniformed services, the collection of which would be against equity and good conscience and not in the best interest of the United States, may be waived in whole or in part by—
 
-&emsp;(1) the Comptroller General; or
+&emsp;(1) the Director of the Office of Management and Budget; or
 
 &emsp;(2) the Secretary concerned, as defined in section 101(5) of title 37, when—
 
-&emsp;&emsp;(A) the claim is in an amount aggregating not more than $1,500;
+&emsp;&emsp;(A) the claim is in an amount aggregating not more than $1,500; and
 
-&emsp;&emsp;(B) the claim is not the subject of an exception made by the Comptroller General in the account of any accountable officer or official; and
+&emsp;&emsp;(B) the waiver is made in accordance with standards which the Director of the Office of Management and Budget shall prescribe.
 
-&emsp;&emsp;(C) the waiver is made in accordance with standards which the Comptroller General shall prescribe.
-
-(b) The Comptroller General or the Secretary concerned, as the case may be, may not exercise his authority under this section to waive any claim—
+(b) The Director of the Office of Management and Budget or the Secretary concerned, as the case may be, may not exercise his authority under this section to waive any claim—
 
 &emsp;(1) if, in his opinion, there exists, in connection with the claim, an indication of fraud, misrepresentation, fault, or lack of good faith on the part of the member or any other person having an interest in obtaining a waiver of the claim; or
 
@@ -26,9 +24,13 @@
 
 (f) This section does not affect any authority under any other law to litigate, settle, compromise, or waive any claim of the United States.
 
-(Added Pub. L. 92–453, §1(1), Oct. 2, 1972, 86 Stat. 758; amended Pub. L. 96–513, title V, §511(98), Dec. 12, 1980, 94 Stat. 2928; Pub. L. 99–224, §2(a), Dec. 28, 1985, 99 Stat. 1741; Pub. L. 100–26, §7(j)(7)(A), (B), Apr. 21, 1987, 101 Stat. 283; Pub. L. 102–190, div. A, title VI, §657(b), Dec. 5, 1991, 105 Stat. 1393.)
+(Added Pub. L. 92–453, §1(1), Oct. 2, 1972, 86 Stat. 758; amended Pub. L. 96–513, title V, §511(98), Dec. 12, 1980, 94 Stat. 2928; Pub. L. 99–224, §2(a), Dec. 28, 1985, 99 Stat. 1741; Pub. L. 100–26, §7(j)(7)(A), (B), Apr. 21, 1987, 101 Stat. 283; Pub. L. 102–190, div. A, title VI, §657(b), Dec. 5, 1991, 105 Stat. 1393; Pub. L. 104–316, title I, §105(b), Oct. 19, 1996, 110 Stat. 3830.)
 
 #### Amendments
+
+1996—Subsec. (a). Pub. L. 104–316, §105(b)(1), substituted “Director of the Office of Management and Budget” for “Comptroller General” in par. (1), and in par. (2) inserted “and” at end of subpar. (A), redesignated subpar. (C) as (B) and substituted “Director of the Office of Management and Budget” for “Comptroller General”, and struck out former subpar. (B) which read as follows “the claim is not the subject of an exception made by the Comptroller General in the account of any accountable officer or official; and”.
+
+Subsec. (b). Pub. L. 104–316, §105(b)(2), substituted “Director of the Office of Management and Budget” for “Comptroller General”.
 
 1991—Subsec. (a)(2)(A). Pub. L. 102–190 substituted “$1,500” for “$500”.
 
@@ -43,6 +45,10 @@ Subsec. (a). Pub. L. 99–224, §2(a)(2), substituted “made before, on, or aft
 Subsec. (b)(2). Pub. L. 99–224, §2(a)(3), struck out “of pay or allowances, other than travel and transportation allowances,” after “payment”.
 
 1980—Subsec. (a). Pub. L. 96–513 substituted “October 2, 1972” for “the effective date of this section”.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–316 effective 60 days after Oct. 19, 1996, see section 101(e) of Pub. L. 104–316, set out as a note under section 130c of Title 2, The Congress.
 
 #### Effective Date of 1985 Amendment
 

@@ -10,7 +10,7 @@ R.S. §5221 derived from act June 3, 1864, ch. 106, §42, 13 Stat. 112, which wa
 
 #### Amendments
 
-1955—Act Aug. 9, 1955, struck out provisions relating to publication in a newspaper published in the City ofNew York, and notification to holders of national bank notes to present them for payment.
+1955—Act Aug. 9, 1955, struck out provisions relating to publication in a newspaper published in the City of New York, and notification to holders of national bank notes to present them for payment.
 
 #### Exception as to Transfer of Functions
 

@@ -36,7 +36,7 @@ For purposes of this subpart—
 
 #### (A) In general
 
-&emsp;&emsp;The vested benefits charge for a plan year shall be based on an actuarial valuation ofthe plan as of the end of the base plan year, adjusted to reflect—
+&emsp;&emsp;The vested benefits charge for a plan year shall be based on an actuarial valuation of the plan as of the end of the base plan year, adjusted to reflect—
 
 &emsp;&emsp;&emsp;(i) any—
 
@@ -136,7 +136,7 @@ For purposes of this subpart—
 
 #### (E) Withdrawal liability
 
-&emsp;&emsp;For purposes of this part, any outstanding claim for withdrawal liability shall not be considered a plan asset, except as otherwiseprovided in regulations prescribed by the Secretary.
+&emsp;&emsp;For purposes of this part, any outstanding claim for withdrawal liability shall not be considered a plan asset, except as otherwise provided in regulations prescribed by the Secretary.
 
 #### (c) Prohibition of nonannuity payments
 

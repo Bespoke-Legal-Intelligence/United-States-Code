@@ -18,7 +18,7 @@ The Alaska Native Claims Settlement Act, referred to in subsec. (b), is Pub. L. 
 
 #### Amendments
 
-1986—Subsec. (a). Pub. L. 99–590 inserted provisions relating to construction of subsec. (a) with respect toauthorities granted in section 1277(d) or 1285a of this title.
+1986—Subsec. (a). Pub. L. 99–590 inserted provisions relating to construction of subsec. (a) with respect to authorities granted in section 1277(d) or 1285a of this title.
 
 1980—Subsec. (b). Pub. L. 96–487 inserted provision withdrawing, subject to valid existing rights, all public lands which constitute the bed or bank, or are within an area extending two miles from the bank of the river channel on both sides of the river segments referred to in section 1276(a)(77) through (88) of this title, from entry, sale, State selection or other disposition under the public land laws for periods specified in section 1278(b) of this title.
 

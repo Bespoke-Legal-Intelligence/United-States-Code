@@ -6,19 +6,19 @@ Establishment of Program.—For the purpose of obtaining adequate numbers of com
 
 (b)
 
-Physicians in Critical Specialties.—(1) Under the stipend program under this chapter, the Secretary of the military department concerned may enter into an agreement with a person who—
+Physicians and Dentists in Critical Specialties.—(1) Under the stipend program under this chapter, the Secretary of the military department concerned may enter into an agreement with a person who—
 
-&emsp;(A) is a graduate of a medical school;
+&emsp;(A) is a graduate of a medical school or dental school;
 
-&emsp;(B) is eligible for appointment, designation, or assignment as a medical officer in the Reserve of the armed force concerned; and
+&emsp;(B) is eligible for appointment, designation, or assignment as a medical officer or dental officer in the Reserve of the armed force concerned; and
 
-&emsp;(C) is enrolled or has been accepted for enrollment in a residency program for physicians in a medical specialty designated by the Secretary concerned as a specialty critically needed by that military department in wartime.
+&emsp;(C) is enrolled or has been accepted for enrollment in a residency program for physicians or dentists in a medical or dental specialty designated by the Secretary concerned as a specialty critically needed by that military department in wartime.
 
 (2) Under the agreement—
 
 &emsp;(A) the Secretary shall agree to pay the participant a stipend, in an amount determined under subsection (e), for the period or the remainder of the period of the residency program in which the participant enrolls or is enrolled;
 
-&emsp;(B) the participant shall not be eligible to receive such stipend before appointment, designation, or assignment as a medical officer for service in the Ready Reserve;
+&emsp;(B) the participant shall not be eligible to receive such stipend before appointment, designation, or assignment as a medical officer or dental officer for service in the Ready Reserve;
 
 &emsp;(C) the participant shall be subject to such active duty requirements as may be specified in the agreement and to active duty in time of war or national emergency as provided by law for members of the Ready Reserve; and
 
@@ -64,7 +64,7 @@ Baccalaureate Students in Nursing or Other Health Professions.—(1) Under the s
 
 &emsp;&emsp;(i) an accredited baccalaureate nursing program; or
 
-&emsp;&emsp;(ii) any other accredited baccalaureate program leading to a degree in a health-care profession designated by the Secretary concerned as a profession critically needed by that military department in wartime.
+&emsp;&emsp;(ii) any other accredited baccalaureate program leading to a degree in a health-careprofession designated by the Secretary concerned as a profession critically needed by that military department in wartime.
 
 (2) Under the agreement—
 
@@ -84,9 +84,19 @@ Amount of Stipend.—The amount of a stipend under an agreement under subsection
 
 &emsp;(2) one-half of that rate, if the participant has agreed to serve in the Individual Ready Reserve.
 
-(Added Pub. L. 100–180, div. A, title VII, §711(a)(3), Dec. 4, 1987, 101 Stat. 1108, §2128; renumbered §16201 and amended Pub. L. 103–337, div. A, title XVI, §1663(c)(2), (5), Oct. 5, 1994, 108 Stat. 3007, 3008.)
+(Added Pub. L. 100–180, div. A, title VII, §711(a)(3), Dec. 4, 1987, 101 Stat. 1108, §2128; renumbered §16201 and amended Pub. L. 103–337, div. A, title XVI, §1663(c)(2), (5), Oct. 5, 1994, 108 Stat. 3007, 3008; Pub. L. 104–106, div. A, title VII, §736, Feb. 10, 1996, 110 Stat. 383.)
 
 #### Amendments
+
+1996—Subsec. (b). Pub. L. 104–106, §736(1), inserted “and Dentists” in heading.
+
+Subsec. (b)(1)(A). Pub. L. 104–106, §736(2), inserted “or dental school” after “medical school”.
+
+Subsec. (b)(1)(B). Pub. L. 104–106, §736(3), inserted “or dental officer” after “medical officer”.
+
+Subsec. (b)(1)(C). Pub. L. 104–106, §736(4), substituted “physicians or dentists in a medical or dental specialty” for “physicians in a medical specialty”.
+
+Subsec. (b)(2)(B). Pub. L. 104–106, §736(3), inserted “or dental officer” after “medical officer”.
 
 1994—Pub. L. 103–337, §1663(c)(2), renumbered section 2128 of this title as this section.
 

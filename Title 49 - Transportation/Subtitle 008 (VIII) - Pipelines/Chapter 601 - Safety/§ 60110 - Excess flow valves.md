@@ -10,7 +10,7 @@ Application.—This section applies only to—
 
 (b)
 
-Installation Requirements and Considerations.—Not later than April 24, 1994, the Secretary of Transportation shall prescribe regulations on the circumstances under which an operator of a natural gas distribution system must install excess flow valves in the system. The Secretary shall consider—
+Installation Requirements and Considerations.—Not later than April 24, 1994, the Secretary of Transportation shall prescribe standards on the circumstances, if any, under which an operator of a natural gas distribution system must install excess flow valves in the system. The Secretary shall consider—
 
 &emsp;(1) the system design pressure;
 
@@ -18,7 +18,7 @@ Installation Requirements and Considerations.—Not later than April 24, 1994, t
 
 &emsp;(3) the types of customers to which the distribution system supplies gas, including hospitals, schools, and commercial enterprises;
 
-&emsp;(4) the technical feasibility and cost of installing the valve;
+&emsp;(4) the technical feasibility and cost of installing, operating, and maintaining the valve;
 
 &emsp;(5) the public safety benefits of installing the valve;
 
@@ -28,15 +28,15 @@ Installation Requirements and Considerations.—Not later than April 24, 1994, t
 
 (c)
 
-Notification of Availability.—(1) Not later than October 24, 1994, the Secretary shall prescribe regulations requiring an operator of a natural gas distribution system to notify in writing its customers having lines in which excess flow valves are not required by law but can be installed according to the standards prescribed under subsection (e) of this section, of—
+Notification of Availability.—(1) Not later than October 24, 1994, the Secretary shall prescribe standards requiring an operator of a natural gas distribution system to notify in writing its customers having lines in which excess flow valves are not required by law but can be installed according to the standards prescribed under subsection (e) of this section, of—
 
 &emsp;(A) the availability of excess flow valves for installation in the system;
 
 &emsp;(B) safety benefits to be derived from installation; and
 
-&emsp;(C) costs associated with installation.
+&emsp;(C) costs associated with installation, maintenance, and replacement.
 
-(2) The regulations shall provide that, except when installation is required under subsection (b) of this section, excess flow valves shall be installed at the request of the customer if the customer will pay all costs associated with installation.
+(2) The standards shall provide that, except when installation is required under subsection (b) of this section, excess flow valves shall be installed at the request of the customer if the customer will pay all costs associated with installation.
 
 (d)
 
@@ -44,13 +44,15 @@ Report.—If the Secretary decides under subsection (b) of this section that the
 
 (e)
 
-Performance Standards.—Not later than April 24, 1994, the Secretary shall develop standards for the performance of excess flow valves used to protect lines in a natural gas distribution system. The standards shall be incorporated into regulations the Secretary prescribes under this section. All excess flow valves shall be installed according to the standards.
+Performance Standards.—Not later than April 24, 1994, the Secretary shall develop standards for the performance of excess flow valves used to protect lines in a natural gas distribution system. The Secretary may adopt industry accepted performance standards in order to comply with the requirement under the preceding sentence. The standards shall be incorporated into regulations the Secretary prescribes under this section. All excess flow valves shall be installed according to the standards.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1316.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1316; Pub. L. 104–304, §§8, 20(j), Oct. 12, 1996, 110 Stat. 3800, 3805.)
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -81,6 +83,22 @@ Aug. 12, 1968, Pub. L. 90–481, 82 Stat. 720, §3(j); added Oct. 24, 1992, Pub.
 In subsection (a)(2), the words “in a manner” are omitted as surplus.
 
 In subsection (b), before clause (1), the words “on when” are substituted for “prescribing the circumstances, if any, under which” to eliminate unnecessary words.
+
+#### Amendments
+
+1996—Subsec. (b). Pub. L. 104–304, §20(j), substituted “standards” for “regulations” in introductory provisions.
+
+Pub. L. 104–304, §8(1), which directed the insertion of “, if any,” after “circumstances” in the first sentence of subsection (b)(1), was executed to the introductory provisions of subsec. (b) to reflect the probable intent of Congress.
+
+Subsec. (b)(4). Pub. L. 104–304, §8(2), inserted “, operating, and maintaining” after “cost of installing”.
+
+Subsec. (c)(1). Pub. L. 104–304, §20(j), substituted “standards” for “regulations” after “prescribe” in introductory provisions.
+
+Subsec. (c)(1)(C). Pub. L. 104–304, §8(3), inserted “, maintenance, and replacement” after “installation”.
+
+Subsec. (c)(2). Pub. L. 104–304, §20(j), substituted “standards” for “regulations”.
+
+Subsec. (e). Pub. L. 104–304, §8(4), inserted after first sentence “The Secretary may adopt industry accepted performance standards in order to comply with the requirement under the preceding sentence.”
 
 #### Section Referred to in Other Sections
 

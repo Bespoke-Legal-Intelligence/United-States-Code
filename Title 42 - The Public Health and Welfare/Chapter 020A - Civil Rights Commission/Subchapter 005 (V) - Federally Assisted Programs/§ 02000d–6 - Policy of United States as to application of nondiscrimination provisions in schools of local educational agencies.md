@@ -2,7 +2,7 @@
 
 #### (a) Declaration of uniform policy
 
-It is the policy of the United States that guidelines and criteria established pursuant totitle VI of the Civil Rights Act of 1964 \[42 U.S.C. 2000d et seq.\] and section 182 of the Elementary and Secondary Education Amendments of 1966 \[42 U.S.C. 2000d–5\] dealing with conditions of segregation by race, whether de jure or de facto, in the schools of the local educational agencies of any State shall be applied uniformly in all regions of the United States whatever the origin or cause of such segregation.
+It is the policy of the United States that guidelines and criteria established pursuant to title VI of the Civil Rights Act of 1964 \[42 U.S.C. 2000d et seq.\] and section 182 of the Elementary and Secondary Education Amendments of 1966 \[42 U.S.C. 2000d–5\] dealing with conditions of segregation by race, whether de jure or de facto, in the schools of the local educational agencies of any State shall be applied uniformly in all regions of the United States whatever the origin or cause of such segregation.
 
 #### (b) Nature of uniformity
 
@@ -28,5 +28,5 @@ Section was enacted as part of the Elementary and Secondary Education Amendments
 
 #### Transfer of Functions
 
-“Secretary of Education” substituted for “Department of Health, Education, and Welfare” in subsec. (d) pursuant to sections 301 and 507 of Pub. L. 96–88, which are classified to sections 3441 and 3507 of Title 20, Education, and which transferred functions and offices (relating to education) of Department and Secretary of Health, Education, and Welfare to Secretary of Education.
+“Secretary of Education” substituted for “Department of Health, Education, and Welfare” in subsec. (d)pursuant to sections 301 and 507 of Pub. L. 96–88, which are classified to sections 3441 and 3507 of Title 20, Education, and which transferred functions and offices (relating to education) of Department and Secretary of Health, Education, and Welfare to Secretary of Education.
 

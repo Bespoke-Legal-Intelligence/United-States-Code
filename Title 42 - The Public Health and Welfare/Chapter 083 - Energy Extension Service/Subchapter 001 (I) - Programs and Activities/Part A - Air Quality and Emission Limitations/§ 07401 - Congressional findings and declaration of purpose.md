@@ -70,7 +70,7 @@ Section 406 of Pub. L. 95–95, as amended by Pub. L. 95–190, §14(b)(6), Nov.
 
 “(b) All rules, regulations, orders, determinations, contracts, certifications, authorizations, delegations, or other actions duly issued, made, or taken by or pursuant to the Clean Air Act \[this chapter\], as in effect immediately prior to the date of enactment of this Act \[Aug. 7, 1977\], and pertaining to any functions, powers, requirements, and duties under the Clean Air Act, as in effect immediately prior to the date of enactment of this Act, and not suspended by the Administrator or the courts, shall continue in full force and effect after the date of enactment of this Act until modified or rescinded in accordance with the Clean Air Act as amended by this Act \[see Short Title of 1977 Amendment note below\].
 
-“(c) Nothing in this Act \[see Short Title of 1977 Amendment note below\] nor any action taken pursuant to this Act shall in any way affect any requirement of an approved implementation plan in effect under section 110 of the Clean Air Act \[section 7410 of this title\] or any other provision of the Act in effect under the Clean Air Act before the date of enactment of this section \[Aug. 7, 1977\] until modified or rescinded in accordance with the Clean Air Act \[this chapter\] as amended by this Act \[see Short Title of 1977 Amendment note below\].
+“(c) Nothing in this Act \[see Short Title of 1977 Amendment note below\] nor any action taken pursuantto this Act shall in any way affect any requirement of an approved implementation plan in effect under section 110 of the Clean Air Act \[section 7410 of this title\] or any other provision of the Act in effect under the Clean Air Act before the date of enactment of this section \[Aug. 7, 1977\] until modified or rescinded in accordance with the Clean Air Act \[this chapter\] as amended by this Act \[see Short Title of 1977 Amendment note below\].
 
 “(d)(1) Except as otherwise expressly provided, the amendments made by this Act \[see Short Title of 1977 Amendment note below\] shall be effective on date of enactment \[Aug. 7, 1977\].
 
@@ -86,7 +86,7 @@ Pub. L. 101–549, Nov. 15, 1990, 104 Stat. 2399, is popularly known as the “C
 
 #### Short Title of 1981 Amendment
 
-Pub. L. 97–23, §1, July 17, 1981, 95 Stat. 139, provided: “That this Act \[amending sections 7410 and 7413 of thistitle\] may be cited as the ‘Steel Industry Compliance Extension Act of 1981’.”
+Pub. L. 97–23, §1, July 17, 1981, 95 Stat. 139, provided: “That this Act \[amending sections 7410 and 7413 of this title\] may be cited as the ‘Steel Industry Compliance Extension Act of 1981’.”
 
 #### Short Title of 1977 Amendment
 

@@ -8,11 +8,11 @@
 
 &emsp;(B) any property which is subject to forfeiture under any provision of law enforced or administered by the United States Customs Service; or
 
-&emsp;(C) any document, container, wrapping, or other article which is evidence of a violation of section 1592 of this title involving fraud or of any other law enforced or administered by the United States Customs Service,
+&emsp;(C) any document, container, wrapping, or other article which is evidence of a violationof section 1592 of this title involving fraud or of any other law enforced or administered by the United States Customs Service,
 
 > is in any dwelling house, store, or other building or place, he may make application, under oath, to any justice of the peace, to any municipal, county, State, or Federal judge, or to any Federal magistrate judge, and shall thereupon be entitled to a warrant to enter such dwelling house in the daytime only, or such store or other place at night or by day, and to search for and seize such merchandise or other article described in the warrant.
 
-(2) If any house, store, or other building or place, in which any merchandise or other article subject to forfeiture is found, is upon or within 10 feet of the boundary line between the UnitedStates and a foreign country, such portion thereof that is within the United States may be taken down or removed.
+(2) If any house, store, or other building or place, in which any merchandise or other article subject to forfeiture is found, is upon or within 10 feet of the boundary line between the United States and a foreign country, such portion thereof that is within the United States may be taken down or removed.
 
 #### (b) Entry upon property of others
 
@@ -36,7 +36,7 @@ The provisions of act July 18, 1866, §39, and of act Mar. 2, 1867, §2, which w
 
 #### Amendments
 
-1986—Subsec. (a). Pub. L. 99–570 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “If any officer or person authorized to make searches and seizures shall have cause to suspect the presence in any dwelling house, store, or other building or place of any merchandise upon which the duties have not been paid, or which has been otherwise brought into the United States contrary to law, he may make application, under oath, to any justice of the peace, to any municipal, county, State, or Federal judge, or to any United States magistrate, and shall thereupon be entitled to a warrant to enter such dwelling house in the daytime only, or such store or other place at night or by day, and to search for and seize such merchandise: <i>Provided,</i> That if any such house, store, or other building, or place in which such merchandise shall be found, is upon or within ten feet of the boundary line between the United States and a foreign country, such portion thereof as is within the United States may forthwith be taken down or removed.”
+1986—Subsec. (a). Pub. L. 99–570 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “If any officer or person authorized to make searches and seizures shall have cause to suspect the presence in any dwelling house, store, or other building or place of any merchandise upon which the duties have not been paid, or which has been otherwise brought into the United States contrary to law, he may make application, under oath, to any justice of the peace, to any municipal, county, State, or Federal judge, or to any United States magistrate, and shall thereupon be entitled to a warrant to enter such dwelling house in the daytime only, or such store or other place at night or by day, and to search for and seize such merchandise: <i>Provided</i>, That if any such house, store, or other building, or place in which such merchandise shall be found, is upon or within ten feet of the boundary line between the United States and a foreign country, such portion thereof as is within the United States may forthwith be taken down or removed.”
 
 1970—Subsec. (a). Pub. L. 91–271 struck out “collector of customs or other” before “officer or person”.
 

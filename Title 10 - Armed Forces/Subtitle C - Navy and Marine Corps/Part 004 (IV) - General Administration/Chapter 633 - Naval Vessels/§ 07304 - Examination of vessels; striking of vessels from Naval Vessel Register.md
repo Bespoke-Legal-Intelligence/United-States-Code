@@ -10,7 +10,7 @@ Actions by Board.—A board designated under subsection (a) shall submit to the 
 
 (c)
 
-Action by Secretary.—If the Secretary concurs with a recommendation by a board thata vessel should be stricken from the Naval Vessel Register, the Secretary shall strike the name of that vessel from the Naval Vessel Register.
+Action by Secretary.—If the Secretary concurs with a recommendation by a board that a vessel should be stricken from the Naval Vessel Register, the Secretary shall strike the name of that vessel from the Naval Vessel Register.
 
 (Added Pub. L. 103–160, div. A, title VIII, §824(b), Nov. 30, 1993, 107 Stat. 1708.)
 

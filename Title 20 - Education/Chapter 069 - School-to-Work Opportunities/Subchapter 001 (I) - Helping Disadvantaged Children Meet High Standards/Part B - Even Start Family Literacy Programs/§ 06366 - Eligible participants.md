@@ -16,11 +16,11 @@ Except as provided in subsection (b) of this section, eligible participants in a
 
 #### (1) In general
 
-&emsp;Family members of eligible participants described in subsection (a) of this section may participate in activities and services providedunder this part, when appropriate to serve the purpose of this part.
+&emsp;Family members of eligible participants described in subsection (a) of this section may participate in activities and services provided under this part, when appropriate to serve the purpose of this part.
 
 #### (2) Special rule
 
-&emsp;Any family participating in a program assisted under this part that becomes ineligible for such participation as a result of one or more members of the family becoming ineligible for such participation may continue to participate in the program until all members of the family become ineligible for such participation, which—
+&emsp;Any family participating in a program assisted under this part that becomes ineligiblefor such participation as a result of one or more members of the family becoming ineligible for such participation may continue to participate in the program until all members of the family become ineligible for such participation, which—
 
 &emsp;&emsp;(A) in the case of a family in which ineligibility was due to the child or children of such family attaining the age of eight, shall be in two years or when the parent or parents become ineligible due to educational advancement, whichever occurs first; and
 

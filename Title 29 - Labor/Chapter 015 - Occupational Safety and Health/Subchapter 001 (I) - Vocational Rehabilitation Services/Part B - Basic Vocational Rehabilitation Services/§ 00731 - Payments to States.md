@@ -8,7 +8,7 @@
 
 (B)(i) For fiscal year 1993, the amount otherwise payable to a State for a fiscal year under this section shall be reduced by the amount by which expenditures from non-Federal sources under the State plan under this subchapter for the previous fiscal year are less than the average of the total of such expenditures for the 3 fiscal years preceding the previous fiscal year.
 
-(ii) For fiscal year 1994 and each fiscal year thereafter, the amount otherwise payable to a State for a fiscal year under this section shall be reduced by the amount by which expenditures from non-Federal sources under the State plan under this subchapter for the previous fiscal year are less than the total of such expenditures for the second fiscal year preceding the previous fiscal year.
+(ii) For fiscal year 1994 and each fiscal year thereafter, the amount otherwise payable to aState for a fiscal year under this section shall be reduced by the amount by which expenditures from non-Federal sources under the State plan under this subchapter for the previous fiscal year are less than the total of such expenditures for the second fiscal year preceding the previous fiscal year.
 
 (C) The Commissioner may waive or modify any requirement or limitation under paragraphs (A) and (B) if the Commissioner determines that a waiver or modification is an equitable response to exceptional or uncontrollable circumstances affecting the State.
 

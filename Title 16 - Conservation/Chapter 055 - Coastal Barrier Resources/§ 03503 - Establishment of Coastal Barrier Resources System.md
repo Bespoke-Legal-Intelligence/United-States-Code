@@ -28,11 +28,49 @@ Section 4 of the Coastal Barrier Improvement Act of 1990, referred to in subsec.
 
 #### Technical Revision of Maps; Modification of Boundaries; Additions to System
 
+Pub. L. 104–333, div. I, title II, §220, Nov. 12, 1996, 110 Stat. 4115, provided that:
+
+“(a)
+
+In General.—The Secretary of the Interior shall, before the end of the 30-day period beginning on the date of the enactment of this Act \[Nov. 12, 1996\], make such corrections to the maps described in subsection (b) as are necessary to ensure that depictions of areas on those maps are consistent with the depictions of areas appearing on the maps entitled ‘Amendments to Coastal Barrier Resources System’, dated November 1, 1995, and June 1, 1996, and on file with the Secretary.
+
+“(b)
+
+Maps Described.—The maps described in this subsection are maps that—
+
+&emsp;“(1) are included in a set of maps entitled ‘Coastal Barrier Resources System’, dated October 24, 1990; and
+
+&emsp;“(2) relate to the following units of the Coastal Barrier Resources System: P05, P05A, P10, P11, P11A, P18, P25, P32, and P32P.”
+
+Pub. L. 104–265, title II, §201, Oct. 9, 1996, 110 Stat. 3289, provided that:
+
+“(a)
+
+In General.—Not later than 30 days after the date of enactment of this Act \[Oct. 9, 1996\], the Secretary of the Interior shall make such corrections to the set of maps described in subsection (b) as are necessary to move the southern-most boundary of Unit SC–01 of the Coastal Barrier Resources System (known as the ‘Long Pond Unit’) to exclude from the Unit the structures known as ‘Lands End’, ‘Beachwalk’, and ‘Courtyard Villas’, including the land lying between the structures. The corrected southern boundary shall extend in a straight line, at the break in development, between the coast and the north boundary of the unit.
+
+“(b)
+
+Maps.—The set of maps described in this subsection is the set of maps entitled ‘Coastal Barrier Resources System’ dated October 24, 1990, insofar as the maps relate to Unit SC–01 of the Coastal Barrier Resources System.”
+
+Pub. L. 104–148, §2, May 24, 1996, 110 Stat. 1378, provided that:
+
+“(a)
+
+In General.—Not later than 30 days after the date of enactment of this Act \[May 24, 1996\], the Secretary of the Interior shall make such corrections to the map described in subsection (b) as are necessary—
+
+&emsp;“(1) to move the eastern boundary of the excluded area covering Ocean Beach, Seaview, Ocean Bay Park, and part of Point O'Woods to the western boundary of the Sunken Forest Preserve; and
+
+&emsp;“(2) to ensure that the depiction of areas as ‘otherwise protected areas’ does not include any area that is owned by the Point O'Woods Association (a privately held corporation under the laws of the State of New York).
+
+“(b)
+
+Map Described.—The map described in this subsection is the map that is included in a set of maps entitled ‘Coastal Barrier Resources System’, dated October 24, 1990, that relates to the unit of the Coastal Barrier Resources System entitled ‘Fire Island Unit NY–59P’.”
+
 Pub. L. 103–461, §1(a), (b), Nov. 2, 1994, 108 Stat. 4804, provided that:
 
 “(a)
 
-In General.—The Secretary of the Interior shall, not later than 30 days after the date of enactment of this Act \[Nov. 2, 1994\], make such corrections to the maps described in subsection (b) as are necessary to ensure that—
+In General.—The Secretary of the Interior shall, not later than 30 days after the date of enactment ofthis Act \[Nov. 2, 1994\], make such corrections to the maps described in subsection (b) as are necessary to ensure that—
 
 &emsp;“(1) depictions of areas on the maps are consistent with the depictions of areas appearing on the maps entitled ‘Coastal Barrier Resources System’, dated September 27, 1994, and on file with the Secretary of the Interior; and
 
@@ -44,7 +82,7 @@ Maps Described.—The maps described in this subsection are maps that—
 
 &emsp;“(1) are included in a set of maps entitled ‘Coastal Barrier Resources System’, dated October 24, 1990; and
 
-&emsp;“(2) related to the following units of the Coastal Barrier Resources System: AL–01P, FL–05P, P11A,P17, P17A, P18P, P19P, FL–15, FL–95P, FL–36P, P31P, FL–72P, MI21, NY75, and VA62P.”
+&emsp;“(2) related to the following units of the Coastal Barrier Resources System: AL–01P, FL–05P, P11A, P17, P17A, P18P, P19P, FL–15, FL–95P, FL–36P, P31P, FL–72P, MI21, NY75, and VA62P.”
 
 Pub. L. 102–440, title III, §303, Oct. 23, 1992, 106 Stat. 2234, provided that:
 
@@ -268,7 +306,7 @@ Contents.—The report required under paragraph (1) shall include the following:
 
 &emsp;&emsp;“(C) An estimate and comparison of the costs to the Federal Government with respect to developed coastal barriers on which are located units of the System, for the period from 1975 to 1990, which shall include costs of shore protection activities, beach renourishment activities, evacuation services, disaster assistance, and flood insurance subsidies under the national flood insurance program.
 
-&emsp;&emsp;“(D) A determination of the number of structures for which flood insurance under the national floodinsurance program has been unavailable since the enactment of the National Flood Insurance Act of 1968 \[Aug. 1, 1968\] because of the prohibition, under section 1321 of such Act \[42 U.S.C. 4028\], of the provision of insurance for structures located on coastal barriers within the System.
+&emsp;&emsp;“(D) A determination of the number of structures for which flood insurance under the national flood insurance program has been unavailable since the enactment of the National Flood Insurance Act of 1968 \[Aug. 1, 1968\] because of the prohibition, under section 1321 of such Act \[42 U.S.C. 4028\], of the provision of insurance for structures located on coastal barriers within the System.
 
 &emsp;&emsp;“(E) An estimate of the number of existing structures located on coastal barriers that are included within the System because of the expansion of the System under this Act and the amendments made by this Act \[see Short Title of 1990 Amendment note set out under section 3501 of this title\].
 

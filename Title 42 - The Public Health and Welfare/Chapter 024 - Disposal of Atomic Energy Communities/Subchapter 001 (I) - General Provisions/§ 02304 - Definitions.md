@@ -18,7 +18,7 @@ The intent of Congress in the definitions as given in this section should be con
 
 (e) The term “mortgage” shall include deeds of trust and such other classes of lien as are given to secure advances on, or the unpaid purchase price of real estate under the laws of the State in which the real estate is located.
 
-(f) The term “municipal installation” includes, without limitation, schools, hospitals,police and fire protection systems, sewerage and refuse disposal plants, water supply and distribution installations, streets and roads, libraries, parks, playgrounds and recreational means, municipal government buildings, other properties suitable for municipal or comparable local public service purposes, and any fixtures, equivalent, or other property appropriate to the operation, maintenance or repair of the foregoing.
+(f) The term “municipal installation” includes, without limitation, schools, hospitals, police and fire protection systems, sewerage and refuse disposal plants, water supply and distribution installations, streets and roads, libraries, parks, playgrounds and recreational means, municipal government buildings, other properties suitable for municipal or comparable local public service purposes, and any fixtures, equivalent, or other property appropriate to the operation, maintenance or repair of the foregoing.
 
 (g) The term “occupant” means a person who, on the date on which the property in question is first offered for sale, is entitled to residential occupancy of the Government-owned house in question, or of a family dwelling unit in such house, in accordance with a lease or license agreement with the Commission or its property-management contractor.
 

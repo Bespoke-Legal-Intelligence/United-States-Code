@@ -20,7 +20,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 5 U.S.C. 3010.
 
@@ -36,9 +38,9 @@ The Social Security Act, referred to in subsec. (d), is act Aug. 14, 1935, ch. 5
 
 #### Amendments
 
-<b>1990</b>—Subsec. (d). Pub. L. 101–508 added subsec. (d).
+1990—Subsec. (d). Pub. L. 101–508 added subsec. (d).
 
-<b>1978</b>—Subsecs. (a) to (c). Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission” and “Office” for “Commission” wherever appearing.
+1978—Subsecs. (a) to (c). Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission” and “Office” for “Commission” wherever appearing.
 
 #### Effective Date of 1990 Amendment
 

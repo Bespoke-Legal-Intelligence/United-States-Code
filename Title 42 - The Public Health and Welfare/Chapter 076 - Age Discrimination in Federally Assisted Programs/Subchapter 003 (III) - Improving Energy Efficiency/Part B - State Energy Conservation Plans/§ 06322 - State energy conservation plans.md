@@ -112,7 +112,7 @@ The Governor of any State may submit to the Secretary a State energy conservatio
 
 (3) Each State energy technology commercialization services program shall develop and maintain a data base of engineering and scientific experts in energy technologies and product commercialization interested in participating in the service. Such data base shall, at a minimum, include faculty of institutions of higher education, retired manufacturing experts, and national laboratory personnel.
 
-(4) The services provided by the energy technology commercialization services programs established under this subsection shall be available to any small or start-up business. Such service programs shall charge fees which are affordable to a party eligible for assistance, which shall be determined by examining factors, including the following: (A) the costs of the services received; (B) the need of the recipient for the services; and (C) the ability of the recipient to pay for the services.
+(4) The services provided by the energy technology commercialization services programs established under this subsection shall be available to any small or start-up business. Such service programs shall charge fees which are affordable to a party eligible for assistance, whichshall be determined by examining factors, including the following: (A) the costs of the services received; (B) the need of the recipient for the services; and (C) the ability of the recipient to pay for the services.
 
 (5) For the purposes of this subsection, the term—
 
@@ -150,7 +150,7 @@ Section 141(d) of Pub. L. 102–486 provided that:
 
 “(1)
 
-In General.—The Administrator of the National Highway Traffic Safety Administration, in consultation with State agencies with jurisdiction over trafficsafety issues, shall conduct a study on the safety impact of the requirement specified in section 362(c)(5) of the Energy Policy and Conservation Act (42 U.S.C. 6322(c)(5)), particularly with respect to the impact on pedestrian safety.
+In General.—The Administrator of the National Highway Traffic Safety Administration, in consultation with State agencies with jurisdiction over traffic safety issues, shall conduct a study on the safety impact of the requirement specified in section 362(c)(5) of the Energy Policy and Conservation Act (42 U.S.C. 6322(c)(5)), particularly with respect to the impact on pedestrian safety.
 
 “(2)
 

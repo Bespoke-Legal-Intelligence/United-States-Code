@@ -34,5 +34,5 @@ After a borrower has made all accrued payments of principal, interest, and penal
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 2279aa–9 of this title.
+This section is referred to in sections 2202a, 2279aa–9 of this title.
 

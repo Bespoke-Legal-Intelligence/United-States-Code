@@ -6,7 +6,7 @@ The Secretary may periodically notify the State regulatory authorities, and elec
 
 &emsp;(1) load management techniques and the results of studies and experiments concerning load management techniques;
 
-&emsp;(2) developments and innovations in electric utility ratemaking throughout the UnitedStates, including the results of studies and experiments in rate structure and rate reform;
+&emsp;(2) developments and innovations in electric utility ratemaking throughout the United States, including the results of studies and experiments in rate structure and rate reform;
 
 &emsp;(3) methods for determining cost of service; and
 

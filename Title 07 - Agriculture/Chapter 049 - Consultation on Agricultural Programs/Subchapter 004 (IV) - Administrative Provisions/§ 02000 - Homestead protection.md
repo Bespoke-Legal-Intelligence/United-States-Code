@@ -36,13 +36,13 @@ As used in this section:
 
 (1) To be eligible to occupy homestead property, a borrower-owner of a loan made or insured by the Secretary or the Administrator shall—
 
-&emsp;(A) apply for such occupancy not later than 90 days after the property is acquired by the Secretary or Administrator, or for property in inventory on January 6, 1988, the borrower-owner shall apply for occupancy not later than 90 days after January 6, 1988;
+&emsp;(A) apply for such occupancy not later than 30 days after the property is acquired by the Secretary or Administrator, or for property in inventory on January 6, 1988, the borrower-owner shall apply for occupancy not later than 30 days after January 6, 1988;
 
 &emsp;(B) have received from farming or ranching operations gross farm income reasonably commensurate with—
 
 &emsp;&emsp;(i) the size and location of the farming unit of the borrower-owner; and
 
-&emsp;&emsp;(ii) local agricultural conditions (including natural and economic conditions), in at least 2 calendar years during the 6-year periodpreceding the calendar year in which the application is made;
+&emsp;&emsp;(ii) local agricultural conditions (including natural and economic conditions), in at least 2 calendar years during the 6-year period preceding the calendar year in which the application is made;
 
 &emsp;(C) have received from farming or ranching operations at least 60 percent of the gross annual income of the borrower-owner and any spouse of the borrower-owner in at least 2 calendar years during any 6-year period described in subparagraph (B);
 
@@ -64,7 +64,7 @@ As used in this section:
 
 (5) No rights of a borrower-owner under this section, and no agreement entered into between the borrower-owner and the Secretary for occupancy of the homestead property, shall be transferable or assignable by the borrower-owner or by operation of any law, except that in the case of death or incompetency of such borrower-owner, such rights and agreements shall be transferable to the spouse of the borrower-owner if the spouse agrees to comply with the terms and conditions thereof.
 
-(6) Within 30 days of the acquisition of the homestead property securing a loan made or insured under this chapter, the Secretary shall notify the borrower-owner from whom the property was acquired of the availability of homestead protection rights under this section. For property in inventory on January 6, 1988, the Secretary shall make a good faith effort to notify the borrower-owner of the availability of homestead protection rights under this section within 60 days after January 6, 1988.
+(6) Not later than the date of acquisition of the property securing a loan made under this chapter (or, in the case of real property in inventory on April 4, 1996, not later than 5 days after April 4, 1996), the Secretary shall notify the borrower-owner from whom the property was acquired of the availability of homestead protection rights under this section.
 
 #### (d) First right of refusal of reacquisition
 
@@ -82,7 +82,7 @@ The Secretary may enter into contracts authorized by this section before the Sec
 
 In the event of any conflict between this section and any provision of the law of any State relating to the right of a borrower-owner to designate for separate sale or redeem part or all of the real property securing a loan foreclosed on by the lender thereof, such provision of State law shall prevail.
 
-(Pub. L. 87–128, title III, §352, as added Pub. L. 99–198, title XIII, §1321, Dec. 23, 1985, 99 Stat. 1532; amended Pub. L. 100–233, title VI, §614, Jan. 6, 1988, 101 Stat. 1675; Pub. L. 102–237, title V, §501(g), title VII, §701(h)(2), Dec. 13, 1991, 105 Stat. 1867, 1880; Pub. L. 102–552, title V, §516(i), (j)(1), Oct. 28, 1992, 106 Stat. 4138.)
+(Pub. L. 87–128, title III, §352, as added Pub. L. 99–198, title XIII, §1321, Dec. 23, 1985, 99 Stat. 1532; amended Pub. L. 100–233, title VI, §614, Jan. 6, 1988, 101 Stat. 1675; Pub. L. 102–237, title V, §501(g), title VII, §701(h)(2), Dec. 13, 1991, 105 Stat. 1867, 1880; Pub. L. 102–552, title V, §516(i), (j)(1), Oct. 28, 1992, 106 Stat. 4138; Pub. L. 104–127, title VI, §644, Apr. 4, 1996, 110 Stat. 1103.)
 
 #### References in Text
 
@@ -93,6 +93,10 @@ For definition of “this chapter”, referred to in subsecs. (b)(1)(A) and (c)(
 Section 1983b of this title, referred to in subsec. (c)(3), was repealed by Pub. L. 103–354, title II, §281(c), Oct. 13, 1994, 108 Stat. 3233.
 
 #### Amendments
+
+1996—Subsec. (c)(1)(A). Pub. L. 104–127, §644(1), substituted “30” for “90” in two places.
+
+Subsec. (c)(6). Pub. L. 104–127, §644(2), substituted “Not later than the date of acquisition of the property securing a loan made under this chapter (or, in the case of real property in inventory on April 4, 1996, not later than 5 days after April 4, 1996),” for “Within 30 days of the acquisition of the homestead property securing a loan made or insured under this chapter,” and struck out at end “For property in inventory on January 6, 1988, the Secretary shall make a good faith effort to notify the borrower-owner of the availability of homestead protection rights under this section within 60 days after January 6, 1988.”
 
 1992—Subsec. (a)(4), (5). Pub. L. 102–552, §516(i), redesignated par. (4), defining “Secretary”, as (5).
 
@@ -115,6 +119,10 @@ Subsec. (c). Pub. L. 100–233, §614(3), completely revised and restated subsec
 Subsec. (d). Pub. L. 100–233, §614(3), inserted at end “Such terms and conditions shall not be less favorable than those intended to be offered to any other buyer.”
 
 Subsecs. (f), (g). Pub. L. 100–233, §614(4), added subsecs. (f) and (g).
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–127 effective Apr. 4, 1996, but not applicable with respect to complete application to acquire inventory property submitted prior to Apr. 4, 1996, see section 663(a), (c) of Pub. L. 104–127, set out as a note under section 1922 of this title.
 
 #### Effective Date of 1992 Amendment
 

@@ -66,13 +66,15 @@ General Written Assurances.—The Secretary of Transportation may approve a proj
 
 &emsp;(17) each contract and subcontract for program management, construction management, planning studies, feasibility studies, architectural services, preliminary engineering, design, engineering, surveying, mapping, and related services will be awarded in the same way that a contract for architectural and engineering services is negotiated under title IX of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 541 et seq.) or an equivalent qualifications-based requirement prescribed for or by the sponsor;
 
-&emsp;(18) the airport and each airport record will be available for inspection by the Secretary on reasonable request, and a report of the airport budget will be available to the public at reasonable times and places; and
+&emsp;(18) the airport and each airport record will be available for inspection by the Secretary on reasonable request, and a report of the airport budget will be available to the public at reasonable times and places;
 
 &emsp;(19) the airport owner or operator will submit to the Secretary and make available to the public an annual report listing in detail—
 
 &emsp;&emsp;(A) all amounts paid by the airport to any other unit of government and the purposes for which each such payment was made; and
 
-&emsp;&emsp;(B) all services and property provided to other units of government and the amount of compensation received for provision of each such service and property.
+&emsp;&emsp;(B) all services and property provided to other units of government and the amount of compensation received for provision of each such service and property; and
+
+&emsp;(20) the airport owner or operator will permit, to the maximum extent practicable, intercity buses or other modes of transportation to have access to the airport, but the sponsor does not have any obligation under this paragraph, or because of it, to fund special facilities for intercity bus service or for other modes of transportation.
 
 (b)
 
@@ -84,7 +86,7 @@ Written Assurances on Use of Revenue.—(1) The Secretary of Transportation may 
 
 &emsp;(C) other local facilities owned or operated by the airport owner or operator and directly and substantially related to the air transportation of passengers or property.
 
-(2) Paragraph (1) of this subsection does not apply if a provision enacted not later than September 2, 1982, in a law controlling financing by the airport owner or operator, or a covenant or assurance in a debt obligation issued not laterthan September 2, 1982, by the owner or operator, provides that the revenues, including local taxes on aviation fuel at public airports, from any of the facilities of the owner or operator, including the airport, be used to support not only the airport but also the general debt obligations or other facilities of the owner or operator.
+(2) Paragraph (1) of this subsection does not apply if a provision enacted not later than September 2, 1982, in a law controlling financing by the airport owner or operator, or a covenant or assurance in a debt obligation issued not later than September 2, 1982, by the owner or operator, provides that the revenues, including local taxes on aviation fuel at public airports, from any of the facilities of the owner or operator, including the airport, be used to support not only the airport but also the general debt obligations or other facilities of the owner or operator.
 
 (3) This subsection does not prevent the use of a State tax on aviation fuel to support a State aviation program or the use of airport revenue on or off the airport for a noise mitigation purpose.
 
@@ -120,7 +122,7 @@ Written Assurances on Acquiring Land.—(1) In this subsection, land is needed f
 
 (d)
 
-Assurances of Continuation as Public-Use Airport.—The Secretary of Transportation may approve an application under this subchapter for an airport development project grant for a privately owned public-use airport only if the Secretary receives appropriate assurances that the airport will continue to function as a public-use airport during the economic life (that must be at least 10 years) of any facility at the airport that was developed with Government financial assistance under this subchapter.
+Assurances of Continuation as Public-Use Airport.—The Secretary of Transportation may approve an application under this subchapter for an airport development project grant for a privately owned public-use airport only if the Secretary receives appropriate assurances that the airport will continue to functionas a public-use airport during the economic life (that must be at least 10 years) of any facility at the airport that was developed with Government financial assistance under this subchapter.
 
 (e)
 
@@ -210,15 +212,15 @@ Use of Revenue in Hawaii.—(1) In this subsection—
 
 (k)
 
-Annual Summaries of Financial Reports.—The Secretary shall provide to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Public Works and Transportation of the House of Representatives an annual summary of the reports submitted to the Secretary under subsection (a)(19) of this section and under section 111(b) of the Federal Aviation Administration Authorization Act of 1994.
+Annual Summaries of Financial Reports.—The Secretary shall provide to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives an annual summary of the reports submitted to the Secretary under subsection (a)(19) of this section and under section 111(b) of the Federal Aviation Administration Authorization Act of 1994.
 
-(<i>l)</i>
+(<i>l</i>)
 
 Policies and Procedures To Ensure Enforcement Against Illegal Diversion of Airport Revenue.—
 
 &emsp;(1)
 
-In general.—Not later than 90 days after the date of the enactment of this subsection, the Secretary of Transportation shall establish policies and procedures that will assure the prompt and effective enforcement of subsections (a)(13) and (b) of this section and grant assurances made under such subsections. Such policies and procedures shall recognize the exemption provision in subsection (b)(2) of this section and shall respond to the information contained in the reports of the Inspector General of the Department of Transportation on airport revenue diversion and such other relevant information as the Secretary may by law consider.
+In general.—Not later than 90 days after August 23, 1994, the Secretary of Transportation shall establish policies and procedures that will assure the prompt and effective enforcement of subsections (a)(13) and (b) of this section and grant assurances made under such subsections. Such policies and procedures shall recognize the exemption provision in subsection (b)(2) of this section and shall respond to the information contained in the reports of the Inspector General of the Department of Transportation on airport revenue diversion and such other relevant information as the Secretary may by law consider.
 
 &emsp;(2)
 
@@ -234,17 +236,125 @@ Revenue diversion.—Policies and procedures to be established pursuant to parag
 
 &emsp;(3)
 
-Efforts to be self-sustaining.—With respect to subsection (a)(13) of this section, policies and procedures to be established pursuant to paragraph (1) of this subsection shall take into account, at a minimum, whether owners and operators of airports, when entering into new or revised agreements or otherwise establishing rates, charges, and fees, have undertaken reasonable efforts to make their particular airports as self-sustaining as possible under the circumstances existing at such airports.
+Efforts to be self-sustaining.—With respect to subsection (a)(13) of this section, policies and procedures to be established pursuant to paragraph (1) of this subsection shall take into account, at a minimum, whether owners and operators of airports, when entering into new or revised agreements or otherwise establishing rates, charges, and fees, have undertaken reasonable efforts to make theirparticular airports as self-sustaining as possible under the circumstances existing at such airports.
 
 &emsp;(4)
 
 Administrative safeguards.—Policies and procedures to be established pursuant to paragraph (1) shall mandate internal controls, auditing requirements, and increased levels of Department of Transportation personnel sufficient to respond fully and promptly to complaints received regarding possible violations of subsections (a)(13) and (b) of this section and grant assurances made under such subsections and to alert the Secretary to such possible violations.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1256; Pub. L. 103–305, title I, §§111(a), (c), 112(a), Aug. 23, 1994, 108 Stat. 1573, 1574.)
+&emsp;(5)
+
+Statute of limitations.—In addition to the statute of limitations specified in subsection (n)(7), with respect to project grants made under this chapter—
+
+&emsp;&emsp;(A) any request by a sponsor to any airport for additional payments for services conducted off of the airport or for reimbursement for capital contributions or operating expenses shall be filed not later than 6 years after the date on which the expense is incurred; and
+
+&emsp;&emsp;(B) any amount of airport funds that are used to make a payment or reimbursement as described in subparagraph (A) after the date specified in that subparagraph shall be considered to be an illegal diversion of airport revenues that is subject to subsection (n).
+
+(m)
+
+Audit Certification.—
+
+&emsp;(1)
+
+In general.—The Secretary of Transportation, acting through the Administrator of the Federal Aviation Administration, shall promulgate regulations that require a recipient of a project grant (or any other recipient of Federal financial assistance that is provided for an airport) to include as part of an annual audit conducted under sections 7501 through 7505 of title 31, a review and opinion of the review concerning the funding activities with respect to an airport that is the subject of the project grant (or other Federal financial assistance) and the sponsors, owners, or operators (or other recipients) involved.
+
+&emsp;(2)
+
+Content of review.—A review conducted under paragraph (1) shall provide reasonable assurances that funds paid or transferred to sponsors are paid or transferred in a manner consistent with the applicable requirements of this chapter and any other applicable provision of law (including regulations promulgated by the Secretary or the Administrator).
+
+&emsp;(3)
+
+Requirements for audit report.—The report submitted to the Secretary under this subsection shall include a specific determination and opinion regarding the appropriateness of the disposition of airport funds paid or transferred to a sponsor.
+
+(n)
+
+Recovery of Illegally Diverted Funds.—
+
+&emsp;(1)
+
+In general.—Not later than 180 days after the issuance of an audit or any other report that identifies an illegal diversion of airport revenues (as determined under subsections (b) and (<i>l</i>) and section 47133), the Secretary, acting through the Administrator, shall—
+
+&emsp;&emsp;(A) review the audit or report;
+
+&emsp;&emsp;(B) perform appropriate factfinding; and
+
+&emsp;&emsp;(C) conduct a hearing and render a final determination concerning whether the illegal diversion of airport revenues asserted in the audit or report occurred.
+
+&emsp;(2)
+
+Notification.—Upon making such a finding, the Secretary, acting through the Administrator, shall provide written notification to the sponsor and the airport of—
+
+&emsp;&emsp;(A) the finding; and
+
+&emsp;&emsp;(B) the obligations of the sponsor to reimburse the airport involved under this paragraph.
+
+&emsp;(3)
+
+Administrative action.—The Secretary may withhold any amount from funds that would otherwise be made available to the sponsor, including funds that would otherwise be made available to a State, municipality, or political subdivision thereof (including any multimodal transportation agency or transit authority of which the sponsor is a member entity) as part of an apportionment or grant made available pursuant to this title, if the sponsor—
+
+&emsp;&emsp;(A) receives notification that the sponsor is required to reimburse an airport; and
+
+&emsp;&emsp;(B) has had an opportunity to reimburse the airport, but has failed to do so.
+
+&emsp;(4)
+
+Civil action.—If a sponsor fails to pay an amount specified under paragraph (3) during the 180-day period beginning on the date of notification and the Secretary is unable to withhold a sufficient amount under paragraph (3), the Secretary, acting through the Administrator, may initiate a civil action under which the sponsor shall be liable for civil penalty in an amount equal to the illegal diversion in question plus interest (as determined under subsection (<i>o</i>)).
+
+&emsp;(5)
+
+Disposition of penalties.—
+
+&emsp;&emsp;(A)
+
+Amounts withheld.—The Secretary or the Administrator shall transfer any amounts withheld under paragraph (3) to the Airport and Airway Trust Fund.
+
+&emsp;&emsp;(B)
+
+Civil penalties.—With respect to any amount collected by a court in a civil action under paragraph (4), the court shall cause to be transferred to the Airport and Airway Trust Fund any amount collected as a civil penalty under paragraph (4).
+
+&emsp;(6)
+
+Reimbursement.—The Secretary, acting through the Administrator, shall, as soon as practicable after any amount is collected from a sponsor under paragraph (4), cause to be transferred from the Airport and Airway Trust Fund to an airport affected by a diversion that is the subject of a civil action under paragraph (4), reimbursement in an amount equal to the amount that has been collected from the sponsor under paragraph (4) (including any amount of interest calculated under subsection (<i>o</i>)).
+
+&emsp;(7)
+
+Statute of limitations.—No person may bring an action for the recovery of funds illegally diverted in violation of this section (as determined under subsections (b) and (<i>l</i>)) or section 47133 after the date that is 6 years after the date on which the diversion occurred.
+
+(<i>o</i>)
+
+Interest.—
+
+&emsp;(1)
+
+In general.—Except as provided in paragraph (2), the Secretary, acting through the Administrator, shall charge a minimum annual rate of interest on the amount of any illegal diversion of revenues referred to in subsection (n) in an amount equal to the average investment interest rate for tax and loan accounts of the Department of the Treasury (as determined by the Secretary of the Treasury) for the applicable calendar year, rounded to the nearest whole percentage point.
+
+&emsp;(2)
+
+Adjustment of interest rates.—If, with respect to a calendar quarter, the average investment interest rate for tax and loan accounts of the Department of the Treasury exceeds the average investment interest rate for the immediately preceding calendar quarter, rounded to the nearest whole percentage point, the Secretary of the Treasury may adjust the interest rate charged under this subsection in a manner that reflects that change.
+
+&emsp;(3)
+
+Accrual.—Interest assessed under subsection (n) shall accrue from the date of the actual illegal diversion of revenues referred to in subsection (n).
+
+&emsp;(4)
+
+Determination of applicable rate.—The applicable rate of interest charged under paragraph (1) shall—
+
+&emsp;&emsp;(A) be the rate in effect on the date on which interest begins to accrue under paragraph (3); and
+
+&emsp;&emsp;(B) remain at a rate fixed under subparagraph (A) during the duration of the indebtedness.
+
+(p)
+
+Payment by Airport to Sponsor.—If, in the course of an audit or other review conducted under this section, the Secretary or the Administrator determines that an airport owes a sponsor funds as a result of activities conducted by the sponsor or expenditures by the sponsor for the benefit of the airport, interest on that amount shall be determined in the same manner as provided in paragraphs (1) through (4) of subsection (<i>o</i>), except that the amount of any interest assessed under this subsection shall be determined from the date on which the Secretary or the Administrator makes that determination.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1256; Pub. L. 103–305, title I, §§111(a), (c), 112(a), Aug. 23, 1994, 108 Stat. 1573, 1574; Pub. L. 104–264, title I, §143, title VIII, §805(a), (b)(2), Oct. 9, 1996, 110 Stat. 3221, 3271, 3274; Pub. L. 104–287, §5(9), (80), Oct. 11, 1996, 110 Stat. 3389, 3397.)
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -258,17 +368,17 @@ Sept. 3, 1982, Pub. L. 97–248, §§503(a)(6), 505(b)(2), 509(b)(1)(E), 511(a)(
 
 &nbsp;
 
-49 App.:2208(b) (1)(E) (related to 49 App.:2210(a) (1)–(11), (15), (16)).
+49 App.:2208(b)(1)(E) (related to 49 App.:2210(a) (1)–(11), (15), (16)).
 
 &nbsp;
 
-49 App.:2210(a) (1)(A).
+49 App.:2210(a)(1)(A).
 
 Sept. 3, 1982, Pub. L. 97–248, §511(a)(1)(A), 96 Stat. 686; Dec. 30, 1987, Pub. L. 100–223, §109(a), 101 Stat. 1499.
 
 &nbsp;
 
-49 App.:2210(a) (1)(B), (C), (2).
+49 App.:2210(a)(1)(B), (C), (2).
 
 &nbsp;
 
@@ -306,7 +416,7 @@ Sept. 3, 1982, Pub. L. 97–248, 96 Stat. 324, §511(a)(16); added Dec. 30, 1987
 
 47107(b)(1), (2)
 
-49 App.:2208(b) (1)(E) (related to 49 App.:2210(a) (12)).
+49 App.:2208(b)(1)(E) (related to 49 App.:2210(a)(12)).
 
 &nbsp;
 
@@ -328,7 +438,7 @@ Sept. 3, 1982, Pub. L. 97–248, §503(a)(24), 96 Stat. 674; Dec. 30, 1987, Pub.
 
 &nbsp;
 
-49 App.:2208(b) (1)(E) (related to 49 App.:2210(a) (13), (14)).
+49 App.:2208(b)(1)(E) (related to 49 App.:2210(a)(13), (14)).
 
 &nbsp;
 
@@ -352,11 +462,11 @@ Sept. 3, 1982, Pub. L. 97–248, §511(a)(14), 96 Stat. 688; Dec. 30, 1987, Pub.
 
 &nbsp;
 
-49 App.:2208(b) (1)(E) (related to 49 App.:2204(b) (2)).
+49 App.:2208(b)(1)(E) (related to 49 App.:2204(b)(2)).
 
 47107(e)
 
-49 App.:2208(b) (1)(E) (related to 49 App.:2210(a) (17)).
+49 App.:2208(b)(1)(E) (related to 49 App.:2210(a)(17)).
 
 &nbsp;
 
@@ -388,7 +498,7 @@ Sept. 3, 1982, Pub. L. 97–248, 96 Stat. 324, §511(e); added Dec. 30, 1987, Pu
 
 47107(g)(2)
 
-49 App.:2208(b) (1)(E) (related to 49 App.:2210(b)).
+49 App.:2208(b)(1)(E) (related to 49 App.:2210(b)).
 
 47107(h)
 
@@ -402,7 +512,7 @@ Sept. 3, 1982, Pub. L. 97–248, 96 Stat. 324, §511(f); added Dec. 30, 1987, Pu
 
 47107(j)(1)
 
-49 App.:2210(g) (4)(B), (D).
+49 App.:2210(g)(4)(B), (D).
 
 Sept. 3, 1982, Pub. L. 97–248, 96 Stat. 324, §511(g); added May 4, 1990, Pub. L. 101–281, §2, 104 Stat. 164.
 
@@ -412,29 +522,29 @@ Sept. 3, 1982, Pub. L. 97–248, 96 Stat. 324, §511(g); added May 4, 1990, Pub.
 
 47107(j)(3)
 
-49 App.:2210(g) (2)(C), (D).
+49 App.:2210(g)(2)(C), (D).
 
 47107(j)(4)
 
-49 App.:2210(g) (2)(E).
+49 App.:2210(g)(2)(E).
 
 47107(j)(5)
 
-49 App.:2210(g) (2)(F).
+49 App.:2210(g)(2)(F).
 
 47107(j)(6)
 
-49 App.:2210(g) (2)(G).
+49 App.:2210(g)(2)(G).
 
 47107(j) (7)(A)
 
-49 App.:2210(g) (2)(A).
+49 App.:2210(g)(2)(A).
 
 47107(j) (7)(B)
 
 49 App.:2210(g)(3).
 
-In subsection (a), before clause (1), the words “may approve a project grant application under this subchapter for an airport development project only if” are substituted for 49 App.:2208(b)(1)(E) (related to 49 App.:2210(a)) and the words “As a condition precedent to approval of an airport development project contained in a project grant application submitted under this chapter . . . shall” in 49 App.:2210(a) for clarity and to eliminate unnecessary words. In clause (1), the words “to which the project relates” and “fair and” are omitted as surplus. In clause (2), before subclause (A), the words “including the requirement that” are omitted as unnecessary because of the restatement. The words “air carriers making similar use of the airport” are substituted for “each air carrier using such airport (whether as a tenant, nontenant, or subtenant of another air carrier tenant) . . . all such air carriers which make similar use of such airport” to eliminate unnecessary words. The words “and which utilize similar facilities” are omitted because of the definition of “airport” in section 47102 of the revised title. The words “nondiscriminatory and” and “rates, fees, rentals, and other” are omitted as surplus. In subclause (B), before subclause (i), the words “except for differences based on” are substituted for “subject to” for clarity. In clause (3), the words “airport operator” are substituted for “airport” for clarity and consistency in this chapter. In clause (4), before subclause (A), the words “a right given to only one fixed-base operator to provide services at an airport” are substituted for “the providing of services at an airport by a single fixed-based operator” for clarity. In subclause (B), the words “the airport operator or owner” are substituted for “such airport” for clarity and consistency in this subchapter. Clause (5) is substituted for 49 App.:2210(a)(1)(B) for consistency and to eliminate unnecessary words. In clause (6), the words “allowed by the airport operator” are substituted for “authorized by the airport or permitted by the airport” for clarity and consistency in this chapter and to eliminate unnecessary words. In clause (9), the words “operations at” are added for clarity. The words “adequately”, “removing, lowering, relocating, marking, or lighting or otherwise”, and “the establishment or creation of” are omitted as surplus. In clause (10), the word “near” is substituted for “in the immediate vicinity of”, and the word “uses” is substituted for “activities and purposes”, to eliminate unnecessary words. The words “including landing and takeoff of aircraft” are omitted as surplus. In clause (12), the words “property interests of the sponsor in land or water areas or buildings” are substituted for “any areas of land or water, or estate therein, or rights in buildings of the sponsor” for consistency in the revised title and to eliminate unnecessary words. The words “necessary or” are omitted as surplus. The words “for, and that will be used for, constructing . . . facilities for carrying out activities related to air traffic control or navigation” are substituted for “for use in connection with any air traffic control or navigation activities, or weather-reporting and communication activities related to air traffic control . . . for construction . . . of space or facilities for such purposes” to eliminate unnecessary words. In clause (13), before subclause (A), the words “schedule of charges” are substituted for “fee and rental structure” for clarity and consistency in this chapter. In subclause (A), the word “particular” is omitted as surplus. The word “including” is substituted for “taking into account such factors as” to eliminate unnecessary words. In subclause (B), the words “fees, rates, and” are omitted as surplus. The words “airport development or airport planning” are omitted because of the definition of “project” in section 47102 of the revised title. In clause (16), before subclause (A), the words “maintain . . . current” are substituted for “keep up to date at all times” to eliminate unnecessary words. In subclause (B), the words “be submitted to, and” and “amendment” are omitted as surplus. In subclauses (C) and (D), the words “changes or” and “change or”, respectively, are omitted as surplus. In subclause (D)(ii), the words “was made” are added for clarity. In clause (17), the words “with respect to the project” are omitted as surplus. Inclause (18), the words “duly authorized agent of” are omitted because of 49:322(b).
+In subsection (a), before clause (1), the words “may approve a project grant application under this subchapter for an airport development project only if” are substituted for 49 App.:2208(b)(1)(E) (related to 49 App.:2210(a)) and the words “As a condition precedent to approval of an airport development project contained in a project grant application submitted under this chapter . . . shall” in 49 App.:2210(a) for clarity and to eliminate unnecessary words. In clause (1), the words “to which the project relates” and “fair and” are omitted as surplus. In clause (2), before subclause (A), the words “including the requirement that” are omitted as unnecessary because of the restatement. The words “air carriers making similar use of the airport” are substituted for “each air carrier using such airport (whether as a tenant, nontenant, or subtenant of another air carrier tenant) . . . all such air carriers which make similar use of such airport” to eliminate unnecessary words. The words “and which utilize similar facilities” are omitted because of the definition of “airport” in section 47102 of the revised title. The words “nondiscriminatory and” and “rates, fees, rentals, and other” are omitted as surplus. In subclause (B), before subclause (i), the words “except for differences based on” are substituted for “subject to” for clarity. In clause (3), the words “airport operator” are substituted for “airport” for clarity and consistency in this chapter. In clause (4), before subclause (A), the words “a right given to only one fixed-base operator to provide services at an airport” are substituted for “the providing of services at an airport by a single fixed-based operator” for clarity. In subclause (B), the words “the airport operator or owner” are substituted for “such airport” for clarity and consistency in this subchapter. Clause (5) is substituted for 49 App.:2210(a)(1)(B) for consistency and to eliminate unnecessary words. In clause (6), the words “allowed by the airport operator” are substituted for “authorized by the airport or permitted by the airport” for clarity and consistency in this chapter and to eliminate unnecessary words. In clause (9), the words “operations at” are added for clarity. The words “adequately”, “removing, lowering, relocating, marking, or lighting or otherwise”, and “the establishment or creation of” are omitted as surplus. In clause (10), the word “near” is substituted for “in the immediate vicinity of”, and the word “uses” is substituted for “activities and purposes”, to eliminate unnecessary words. The words “including landing and takeoff of aircraft” are omitted as surplus. In clause (12), the words “property interests of the sponsor in land or water areas or buildings” are substituted for “any areas of land or water, or estate therein, or rights in buildings of the sponsor” for consistency in the revised title and to eliminate unnecessary words. The words “necessary or” are omitted as surplus. The words “for, and that will be used for, constructing . . . facilities for carrying out activities related to air traffic control or navigation” are substituted for “for use in connection with any air traffic control or navigation activities, or weather-reporting and communication activities related to air traffic control . . . for construction . . . of space or facilities for such purposes” to eliminate unnecessary words. In clause (13), before subclause (A), the words “schedule of charges” are substituted for “fee and rental structure” for clarity and consistency in this chapter. In subclause (A), the word “particular” is omitted as surplus. The word “including” is substituted for “taking into account such factors as” to eliminate unnecessary words. In subclause (B), the words “fees, rates, and” are omitted as surplus. The words “airport development or airport planning” are omitted because of the definition of “project” in section 47102 of the revised title. In clause (16), before subclause (A), the words “maintain . . . current” are substituted for “keep up to date at all times” to eliminate unnecessary words. In subclause (B), the words “be submitted to, and” and “amendment” are omitted as surplus. In subclauses (C) and (D), the words “changes or” and “change or”, respectively, are omitted as surplus. In subclause (D)(ii), the words “was made” are added for clarity. In clause (17), the words “with respect to the project” are omitted as surplus. In clause (18), the words “duly authorized agent of” are omitted because of 49:322(b).
 
 In subsection (b)(1), before clause (A), the words “may approve a project grant application under this subchapter for an airport development project only if” are substituted for 49 App.:2208(b)(1)(E) (related to 49 App.:2210(a)(12)) and “As a condition precedent to approval of an airport development project contained in a project grant application submitted under this chapter . . . shall” in 49 App.:2210(a) for clarity and to eliminate unnecessary words. In clause (C) the word “actual” is omitted as surplus.
 
@@ -486,9 +596,17 @@ The Federal Property and Administrative Services Act of 1949, referred to in sub
 
 Section 111(b) of the Federal Aviation Administration Authorization Act of 1994, referred to in subsec. (k), is section 111(b) of Pub. L. 103–305, which is set out below.
 
-The date of the enactment of this subsection, referred to in subsec. (<i>l</i>)(1), is the date of enactment of Pub. L. 103–305, which was approved Aug. 23, 1994.
-
 #### Amendments
+
+1996—Subsec. (a)(20). Pub. L. 104–264, §143, added par. (20).
+
+Subsec. (k). Pub. L. 104–287, §5(9), substituted “Transportation and Infrastructure” for “Public Works and Transportation”.
+
+Subsec. (<i>l</i>)(1). Pub. L. 104–287, §5(80), substituted “August 23, 1994” for “the date of the enactment of this subsection”.
+
+Subsec. (<i>l</i>)(5). Pub. L. 104–264, §805(b)(2), added par. (5).
+
+Subsecs. (m) to (p). Pub. L. 104–264, §805(a), added subsecs. (m) to (p).
 
 1994—Subsec. (a)(15). Pub. L. 103–305, §111(a)(1), inserted before semicolon at end “and make such reports available to the public”.
 
@@ -496,11 +614,75 @@ Subsec. (a)(19). Pub. L. 103–305, §111(a)(2)–(4), added par. (19).
 
 Subsec. (k). Pub. L. 103–305, §111(c), added subsec. (k).
 
-Subsec. (<i>l</i>). Pub. L. 103–305, §112(a), added subsec. (<i>l).</i>
+Subsec. (<i>l</i>). Pub. L. 103–305, §112(a), added subsec. (<i>l</i>).
 
-#### Change of Name
+#### Effective Date of 1996 Amendment
 
-Committee on Public Works and Transportation of House of Representatives treated as referring to Committee on Transportation and Infrastructure of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
+
+#### Findings and Purpose
+
+Section 802 of title VIII of Pub. L. 104–264 provided that:
+
+“(a)
+
+In General.—Congress finds that—
+
+&emsp;“(1) section 47107 of title 49, United States Code, prohibits the diversion of certain revenue generated by a public airport as a condition of receiving a project grant;
+
+&emsp;“(2) a grant recipient that uses airport revenue for purposes that are not airport related in a manner inconsistent with chapter 471 of title 49, United States Code, illegally diverts airport revenues;
+
+&emsp;“(3) any diversion of airport revenues in violation of the condition referred to in paragraph (1) undermines the interest of the United States in promoting a strong national air transportation system that is responsive to the needs of airport users;
+
+&emsp;“(4) the Secretary and the Administrator have not enforced airport revenue diversion rules adequately and must have additional regulatory tools to increase enforcement efforts; and
+
+&emsp;“(5) sponsors who have been found to have illegally diverted airport revenues—
+
+&emsp;&emsp;“(A) have not reimbursed or made restitution to airports in a timely manner; and
+
+&emsp;&emsp;“(B) must be encouraged to do so.
+
+“(b)
+
+Purpose.—The purpose of this title \[see Short Title of 1996 Amendment note set out under section 40101 of this title\] is to ensure that airport users are not burdened with hidden taxation for unrelated municipal services and activities by—
+
+&emsp;“(1) eliminating the ability of any State or political subdivision thereof that is a recipient of a project grant to divert airport revenues for purposes that are not related to an airport, in violation of section 47107 of title 49, United States Code;
+
+&emsp;“(2) imposing financial reporting requirements that are designed to identify instances of illegal diversions referred to in paragraph (1);
+
+&emsp;“(3) establishing a statute of limitations for airport revenue diversion actions;
+
+&emsp;“(4) clarifying limitations on revenue diversion that are permitted under chapter 471 of title 49, United States Code; and
+
+&emsp;“(5) establishing clear penalties and enforcement mechanisms for identifying and prosecuting airport revenue diversion.”
+
+#### Definitions
+
+Section 803 of title VIII of Pub. L. 104–264 provided that: “For purposes of this title \[see Short Title of 1996 Amendment note set out under section 40101 of this title\], the following definitions apply:
+
+&emsp;“(1)
+
+Administrator.—The term ‘Administrator’ means the Administrator of the Federal Aviation Administration.
+
+&emsp;“(2)
+
+Airport.—The term ‘airport’ has the meaning provided that term in section 47102(2) of title 49, United States Code.
+
+&emsp;“(3)
+
+Project grant.—The term ‘project grant’ has the meaning provided that term in section 47102(14) of title 49, United States Code.
+
+&emsp;“(4)
+
+Secretary.—The term ‘Secretary’ means the Secretary of Transportation.
+
+&emsp;“(5)
+
+Sponsor.—The term ‘sponsor’ has the meaning provided that term in section 47102(19) of title 49, United States Code.”
+
+#### Revision of Policies and Procedures; Deadlines
+
+Section 805(b)(1) of title VIII of Pub. L. 104–264 provided that: “Not later than 90 days after the date of the enactment of this Act \[Oct. 9, 1996\], the Secretary, acting through the Administrator, shall revise the policies and procedures established under section 47107(<i>l</i>) of title 49, United States Code, to take into account the amendments made to that section by this title.”
 
 #### Format for Reporting
 
@@ -508,5 +690,5 @@ Section 111(b) of Pub. L. 103–305 provided that: “Within 180 days after the 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 46301, 47101, 47111, 47119 of this title.
+This section is referred to in sections 46301, 47101, 47111, 47119, 47134 of this title; title 26 section 9502.
 

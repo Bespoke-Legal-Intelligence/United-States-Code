@@ -27,10 +27,6 @@ Pub. L. 98–473, title II, §403(b), Oct. 12, 1984, 98 Stat. 2067, substituted 
 
 1966—Pub. L. 89–793, title VI, §603, Nov. 8, 1966, 80 Stat. 1450, added item 314.
 
-#### Part Referred to in Other Sections
-
-This part is referred to in title 22 section 3852.
-
 
 ---
 

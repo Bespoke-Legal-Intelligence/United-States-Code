@@ -26,7 +26,7 @@ Section 501 of the Internal Revenue Code of 1986, referred to in subsec. (f), is
 
 A prior section 209, act June 25, 1948, ch. 645, 62 Stat. 693, related to an offer of a bribe to a witness, prior to the general amendment of this chapter by Pub. L. 87–849 and is substantially covered by section 201.
 
-Provisions similar to those comprising this section were contained in section 1914 of this title prior to the repeal of such section and the general amendment of this chapter by Pub. L. 87–849.
+Provisions similar to those comprising this section were contained in section 1914 of this title prior to therepeal of such section and the general amendment of this chapter by Pub. L. 87–849.
 
 #### Amendments
 
@@ -48,13 +48,13 @@ Subsec. (f). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” fo
 
 Section effective 90 days after Oct. 23, 1962, see section 4 of Pub. L. 87–849, set out as a note under section 201 of this title.
 
-#### Promulgation of Regulations
-
-Responsibility of Office of Government Ethics for promulgating regulations and interpreting this section, see section 201(c) of Ex. Ord. No. 12674, Apr. 12, 1989, 54 F.R. 15159, as amended, set out as a note under section 7301 of Title 5, Government Organization and Employees.
-
 #### Exemptions
 
 Exemptions from former section 1914 of this title deemed to be exemptions from this section, see section 2 of Pub. L. 87–849, set out as a note under section 203 of this title.
+
+#### Promulgation of Regulations
+
+Responsibility of Office of Government Ethics for promulgating regulations and interpreting this section, see section 201(c) of Ex. Ord. No. 12674, Apr. 12, 1989, 54 F.R. 15159, as amended, set out as a note under section 7301 of Title 5, Government Organization and Employees.
 
 #### Canal Zone
 
@@ -84,5 +84,5 @@ Reading assistants for blind employees, payment without regard to this section, 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 14, 202, 216 of this title; title 2 section 162; title 5 sections 568, 3102, 3343, 3374, 4111; title 7 section 2220; title 8 section 1353c; title 12 section 2245; title 16 section 459b–7; title 22 sections 3507, 3508; title 28 sections 594, 656; title 30 section 663; title 40 App. section 108; title 42 sections 280d–11, 1314, 1975d; title 45 section 362.
+This section is referred to in sections 14, 202, 216 of this title; title 2 section 162; title 5 sections 568, 3102, 3343, 3374, 4111; title 7 section 2220; title 8 section 1353c; title 12 section 2245; title 16 section 459b–7; title 22 sections 3507, 3508; title 28 sections 594, 656; title 30 section 663; title 40 App. section 108; title 42 sections 280d–11, 1314; title 45 section 362.
 

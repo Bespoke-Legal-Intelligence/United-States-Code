@@ -112,7 +112,7 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 
 #### Act Referred to in Other Sections
 
-The Javits-Wagner-O'Day Act is referred to in section 253 of this title; title 10 sections 2304, 2410d, 2461; title 29 section 721; title 40 sections 481, 490c.
+The Javits-Wagner-O'Day Act is referred to in section 253 of this title; title 10 sections 2304, 2461; title 29 section 721; title 40 sections 481, 490c.
 
 #### Section Referred to in Other Sections
 

@@ -34,7 +34,7 @@
 
 &emsp;&emsp;(A) include the reasons for approving or disapproving the request, including a response to comments on the proposal; and
 
-&emsp;&emsp;(B) in the case of a decision to approve the request, be disseminated by the State seeking the waiver to interested parties, including educators, parents, students, advocacyand civil rights organizations, labor and business organizations, and the public.
+&emsp;&emsp;(B) in the case of a decision to approve the request, be disseminated by the State seeking the waiver to interested parties, including educators, parents, students, advocacy and civil rights organizations, labor and business organizations, and the public.
 
 #### (3) Approval criteria
 

@@ -2,7 +2,7 @@
 
 #### (a) Formula
 
-Subject to subsections (b) and (c) of this section, the trade readjustment allowance payable to an adversely affected worker for a week of total unemployment shall be an amount equal to the most recent weekly benefit amount of the unemployment insurance payable to the worker for a week of total unemployment preceding the worker's first exhaustion of unemployment insurance (as determined for purposes of section 2291(a)(3)(B) of this title) reduced (but not below zero) by—
+Subject to subsections (b) and (c) of this section, the trade readjustment allowance payable to an adversely affected worker for a week of total unemployment shall be an amount equal to the most recent weekly benefit amount of the unemployment insurance payable to the worker for a week of total unemployment preceding theworker's first exhaustion of unemployment insurance (as determined for purposes of section 2291(a)(3)(B) of this title) reduced (but not below zero) by—
 
 &emsp;(1) any training allowance deductible under subsection (c) of this section; and
 

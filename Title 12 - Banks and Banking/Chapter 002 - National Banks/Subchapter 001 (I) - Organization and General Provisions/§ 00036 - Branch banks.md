@@ -32,7 +32,7 @@ A national banking association may retain and operate such branch or branches as
 
 #### (c) New branches
 
-A national banking association may, with the approval of the Comptroller of the Currency, establish and operate new branches: (1) Within the limits of the city, town or village in which said association is situated, if such establishment and operation are at the time expressly authorized to State banks by the law of the State in question; and (2) at any point within the State in which said association is situated, if such establishment and operation are at the time authorized to State banks by the statute law of the State in question by language specifically granting such authority affirmatively and not merely by implication or recognition, and subject to the restrictions as to location imposed by the law of the State on State banks. In any State in which State banks are permitted by statute law to maintain branches within county or greater limits, if no bank is located and doing business in the place where the proposed agency is to be located, any national banking association situated in such State may, with the approval of the Comptroller of the Currency, establish and operate, without regard to the capital requirements of this section, a seasonal agency in any resort community within the limits of the county in which the main office ofsuch association is located, for the purpose of receiving and paying out deposits, issuing and cashing checks and drafts, and doing business incident thereto: <i>Provided</i>, That any permit issued under this sentence shall be revoked upon the opening of a State or national bank in such community. Except as provided in the immediately preceding sentence, no such association shall establish a branch outside of the city, town, or village in which it is situated unless it has a combined capital stock and surplus equal to the combined amount of capital stock and surplus, if any, required by the law of the State in which such association is situated for the establishment of such branches by State banks, or, if the law of such State requires only a minimum capital stock for the establishment of such branches by State banks, unless such association has not less than an equal amount of capital stock.
+A national banking association may, with the approval of the Comptroller of the Currency, establish and operate new branches: (1) Within the limits of the city, town or village in which saidassociation is situated, if such establishment and operation are at the time expressly authorized to State banks by the law of the State in question; and (2) at any point within the State in which said association is situated, if such establishment and operation are at the time authorized to State banks by the statute law of the State in question by language specifically granting such authority affirmatively and not merely by implication or recognition, and subject to the restrictions as to location imposed by the law of the State on State banks. In any State in which State banks are permitted by statute law to maintain branches within county or greater limits, if no bank is located and doing business in the place where the proposed agency is to be located, any national banking association situated in such State may, with the approval of the Comptroller of the Currency, establish and operate, without regard to the capital requirements of this section, a seasonal agency in any resort community within the limits of the county in which the main office of such association is located, for the purpose of receiving and paying out deposits, issuing and cashing checks and drafts, and doing business incident thereto: <i>Provided</i>, That any permit issued under this sentence shall be revoked upon the opening of a State or national bank in such community. Except as provided in the immediately preceding sentence, no such association shall establish a branch outside of the city, town, or village in which it is situated unless it has a combined capital stock and surplus equal to the combined amount of capital stock and surplus, if any, required by the law of the State in which such association is situated for the establishment of such branches by State banks, or, if the law of such State requires only a minimum capital stock for the establishment of such branches by State banks, unless such association has not less than an equal amount of capital stock.
 
 #### (d) Branches resulting from interstate merger transactions
 
@@ -84,7 +84,7 @@ A national bank resulting from an interstate merger transaction (as defined in s
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2), the Comptroller of the Currency may approve an application by a national bank to establish and operate a de novo branch in a State (other than the bank's home State) in which the bank does not maintain a branch if—
+&emsp;Subject to paragraph (2), the Comptroller of the Currency may approve an application by anational bank to establish and operate a de novo branch in a State (other than the bank's home State) in which the bank does not maintain a branch if—
 
 &emsp;&emsp;(A) there is in effect in the host State a law that—
 
@@ -98,7 +98,7 @@ A national bank resulting from an interstate merger transaction (as defined in s
 
 #### (A) Establishment
 
-&emsp;&emsp;An application by a national bank to establish and operate a de novo branch in ahost State shall be subject to the same requirements and conditions to which an application for an interstate merger transaction is subject under paragraphs (1), (3), and (4) of section 1831u(b) of this title.
+&emsp;&emsp;An application by a national bank to establish and operate a de novo branch in a host State shall be subject to the same requirements and conditions to which an application for an interstate merger transaction is subject under paragraphs (1), (3), and (4) of section 1831u(b) of this title.
 
 #### (B) Operation
 
@@ -128,9 +128,7 @@ A national bank resulting from an interstate merger transaction (as defined in s
 
 &emsp;&emsp;The term “host State” means, with respect to a bank, a State, other than the home State of the bank, in which the bank maintains, or seeks to establish and maintain, a branch.
 
-#### (h) Aggregate minimum capital
-
-The aggregate capital of every national banking association and its branches shall at no time be less than the aggregate minimum capital required by law for the establishment of an equal number of national banking associations situated in the various places where such association and its branches are situated.
+#### (h) Repealed. Pub. L. 104–208, div. A, title II, §2204, Sept. 30, 1996, 110 Stat. 3009–405
 
 #### (i) Prior approval of branch locations
 
@@ -138,7 +136,7 @@ No branch of any national banking association shall be established or moved from
 
 #### (j) “Branch” defined
 
-The term “branch” as used in this section shall be held to include any branch bank, branch office, branch agency, additional office, or any branch place of business located in any State or Territory of the United States or in the District of Columbia at which deposits are received, or checks paid, or money lent.
+The term “branch” as used in this section shall be held to include any branch bank, branch office, branch agency, additional office, or any branch place of business located in any State or Territory of the United States or in the District of Columbia at which deposits are received, or checks paid, or money lent. The term “branch”, as used in this section, does not include an automated teller machine or a remote service unit.
 
 #### (k) Branches in foreign countries, dependencies, or insular possessions
 
@@ -148,7 +146,7 @@ This section shall not be construed to amend or repeal section 25 of the Federal
 
 The words “State bank,” “State banks,” “bank,” or “banks,” as used in this section, shall be held to include trust companies, savings banks, or other such corporations or institutions carrying on the banking business under the authority of State laws.
 
-(R.S. §5155; Feb. 25, 1927, ch. 191, §7, 44 Stat. 1228; June 16, 1933, ch. 89, §23, 48 Stat. 189; Aug. 23, 1935, ch. 614, title III, §305, 49 Stat. 708; July 15, 1952, ch. 753, §2(b), 66 Stat. 633; Sept. 28, 1962, Pub. L. 87–721, 76 Stat. 667; Sept. 29, 1994, Pub. L. 103–328, title I, §§102(b)(1), 103(a), 108 Stat. 2349, 2352.)
+(R.S. §5155; Feb. 25, 1927, ch. 191, §7, 44 Stat. 1228; June 16, 1933, ch. 89, §23, 48 Stat. 189; Aug. 23, 1935, ch. 614, title III, §305, 49 Stat. 708; July 15, 1952, ch. 753, §2(b), 66 Stat. 633; Sept. 28, 1962, Pub. L. 87–721, 76 Stat. 667; Sept. 29, 1994, Pub. L. 103–328, title I, §§102(b)(1), 103(a), 108 Stat. 2349, 2352; Sept. 30, 1996, Pub. L. 104–208, div. A, title II, §§2204, 2205(a), 110 Stat. 3009–405.)
 
 #### References in Text
 
@@ -160,6 +158,10 @@ R.S. §5155 derived from act Mar. 3, 1865, ch. 78, §7, 13 Stat. 484.
 
 #### Amendments
 
+1996—Subsec. (h). Pub. L. 104–208, §2204, struck out subsec. (h) which read as follows: “The aggregate capital of every national banking association and its branches shall at no time be less than the aggregate minimum capital required by law for the establishment of an equal number of national banking associations situated in the various places where such association and its branches are situated.”
+
+Subsec. (j). Pub. L. 104–208, §2205(a), inserted at end “The term ‘branch’, as used in this section, does not include an automated teller machine or a remote service unit.”
+
 1994—Subsecs. (d) to (f). Pub. L. 103–328, §102(b)(1)(B), added subsecs. (d) to (f). Former subsecs. (d) to (f) redesignated (h) to (j), respectively.
 
 Subsec. (g). Pub. L. 103–328, §103(a), added subsec. (g).
@@ -168,7 +170,7 @@ Pub. L. 103–328, §102(b)(1)(A), redesignated subsec. (g) as (k).
 
 Subsecs. (h) to (<i>l</i>). Pub. L. 103–328, §102(b)(1)(A), redesignated subsecs. (d) to (h) as (h) to (<i>l</i>), respectively.
 
-1962—Subsec. (b). Pub. L. 87–721 substituted provisions permitting a national bank resulting from the conversion of a State bank to retain and operate as a branch any office which was a branch of the State bank immediately prior to conversion if such office might be established as a new branch of the resulting national bank, and is approved by the Comptroller for continued operation as a branch of the resulting bank, or any office which was a branch of any bank on Feb. 25, 1927, or any office which is approved by the Comptroller for continued operation as a branch, and a national bank resulting from consolidation of a national bank under whose charter the consolidation is effected with another bank or banks to retain and operate any office which, immediately prior to consolidation, was in operation as a main office or branch office of any bank (other than the national bank) participating in the consolidation if it might be established as a new branch of the resulting bank, and if the Comptroller approves of its continued operation, or was in operation as a branch of any bank participating in the consolidation and which, on Feb. 25, 1927, was in operation as a branch of any bank, or was in operation as a branch of the national bank and which, on Feb. 25, 1927, was not in operation as a branch of any bank, if the Comptroller approves of its continued operation, for provisions which permitted State banks converted into or consolidated with national banking associations after Feb. 25, 1927, or two or more national banking associations which are consolidated, to retain and operate only those branches which may have been in lawful operation on Feb. 25, 1927, and inserted provisions prohibiting the Comptroller from granting approval underclauses (1)(C) and (2)(C) if a State bank resulting from the conversion or consolidation would be prohibited by law of the State from retaining and operating as a branch an identically situated office which was a branch of the national bank or State bank immediately prior to the conversion or consolidation.
+1962—Subsec. (b). Pub. L. 87–721 substituted provisions permitting a national bank resulting from the conversion of a State bank to retain and operate as a branch any office which was a branch of the State bankimmediately prior to conversion if such office might be established as a new branch of the resulting national bank, and is approved by the Comptroller for continued operation as a branch of the resulting bank, or any office which was a branch of any bank on Feb. 25, 1927, or any office which is approved by the Comptroller for continued operation as a branch, and a national bank resulting from consolidation of a national bank under whose charter the consolidation is effected with another bank or banks to retain and operate any office which, immediately prior to consolidation, was in operation as a main office or branch office of any bank (other than the national bank) participating in the consolidation if it might be established as a new branch of the resulting bank, and if the Comptroller approves of its continued operation, or was in operation as a branch of any bank participating in the consolidation and which, on Feb. 25, 1927, was in operation as a branch of any bank, or was in operation as a branch of the national bank and which, on Feb. 25, 1927, was not in operation as a branch of any bank, if the Comptroller approves of its continued operation, for provisions which permitted State banks converted into or consolidated with national banking associations after Feb. 25, 1927, or two or more national banking associations which are consolidated, to retain and operate only those branches which may have been in lawful operation on Feb. 25, 1927, and inserted provisions prohibiting the Comptroller from granting approval under clauses (1)(C) and (2)(C) if a State bank resulting from the conversion or consolidation would be prohibited by law of the State from retaining and operating as a branch an identically situated office which was a branch of the national bank or State bank immediately prior to the conversion or consolidation.
 
 1952—Subsec. (c). Act July 15, 1952, struck out the minimum capital requirement for the establishment of branches by national banks.
 

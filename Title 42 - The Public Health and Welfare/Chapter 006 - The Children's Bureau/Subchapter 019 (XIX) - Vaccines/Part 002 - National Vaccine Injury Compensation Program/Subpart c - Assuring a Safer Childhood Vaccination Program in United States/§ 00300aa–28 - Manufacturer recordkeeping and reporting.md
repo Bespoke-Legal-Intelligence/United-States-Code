@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-Each vaccine manufacturer of a vaccine set forth in the Vaccine Injury Table or any othervaccine the administration of which is mandated by the law or regulations of any State, shall, with respect to each batch, lot, or other quantity manufactured or licensed after December 22, 1987—
+Each vaccine manufacturer of a vaccine set forth in the Vaccine Injury Table or any other vaccine the administration of which is mandated by the law or regulations of any State, shall, with respect to each batch, lot, or other quantity manufactured or licensed after December 22, 1987—
 
 &emsp;(1) prepare and maintain records documenting the history of the manufacturing, processing, testing, repooling, and reworking of each batch, lot, or other quantity of such vaccine, including the identification of any significant problems encountered in the production, testing, or handling of such batch, lot, or other quantity,
 

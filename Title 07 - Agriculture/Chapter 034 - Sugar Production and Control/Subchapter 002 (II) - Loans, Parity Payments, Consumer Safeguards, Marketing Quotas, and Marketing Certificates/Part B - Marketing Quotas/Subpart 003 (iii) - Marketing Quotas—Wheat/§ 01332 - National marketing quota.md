@@ -6,7 +6,7 @@ Whenever prior to April 15 in any calendar year the Secretary determines that th
 
 #### (b) Amount; minimum
 
-If a national marketing quota for wheat has been proclaimed for any marketing year, the Secretary shall determine and proclaim the amount of the national marketing quota for such marketing year not earlier than January 1 or later than April 15 of the calendar year preceding the year in which such marketing year begins. The amount of the national marketing quota for wheat for any marketing year shall be an amount of wheat which the Secretary estimates (i) will be utilized during such marketing year for human consumption in the United States as food, food products, and beverages, composed wholly or partly of wheat, (ii) will be utilized during such marketing year in the United States for seed, (iii) will be exported either in the form of wheat or products thereof, and (iv) will be utilized during such marketingyear in the United States as livestock (including poultry) feed, excluding the estimated quantity of wheat which will be utilized for such purpose as a result of the substitution of wheat for feed grains under section 1339c of this title; less (A) an amount of wheat equal to the estimated imports of wheat into the United States during such marketing year and, (B) if the stocks of wheat owned by the Commodity Credit Corporation are determined by the Secretary to be excessive, an amount of wheat determined by the Secretary to be a desirable reduction in such marketing year in such stocks to achieve the policy of the chapter: <i>Provided</i>, That if the Secretary determines that the total stocks of wheat in the Nation are insufficient to assure an adequate carryover for the next succeeding marketing year, the national marketing quota otherwise determined shall be increased by the amount the Secretary determines to be necessary to assure an adequate carryover: <i>And provided further</i>, That the national marketing quota for wheat for any marketing year shall be not less than one billion bushels.
+If a national marketing quota for wheat has been proclaimed for any marketing year, the Secretary shall determine and proclaim the amount of the national marketing quota for such marketing year not earlier than January 1 or later than April 15 of the calendar year preceding the year in which such marketing year begins. The amount of the national marketing quota for wheat for any marketing year shall be an amount of wheat which the Secretary estimates (i) will be utilized during such marketing year for human consumption in the United States as food, food products, and beverages, composed wholly or partly of wheat, (ii) will be utilized during such marketing year in the United States for seed, (iii) will be exported either in the form of wheat or products thereof, and (iv) will be utilized during such marketing year in the United States as livestock (including poultry) feed, excluding the estimated quantity of wheat which will be utilized for such purpose as a result of the substitution of wheat for feed grains under section 1339c of this title; less (A) an amount of wheat equal to the estimated imports of wheat into the United States during such marketing year and, (B) if the stocks of wheat owned by the Commodity Credit Corporation are determined by the Secretary to be excessive, an amount of wheat determined by the Secretary to be a desirable reduction in such marketing year in such stocks to achieve the policy of the chapter: <i>Provided</i>, That if the Secretary determines that the total stocks of wheat in the Nation are insufficient to assure an adequate carryover for the next succeeding marketing year, the national marketing quota otherwise determined shall be increased by the amount the Secretary determines to be necessary to assure an adequate carryover: <i>And provided further</i>, That the national marketing quota for wheat for any marketing year shall be not less than one billion bushels.
 
 #### (c) National emergencies or material increase in demand; investigation; increase or termination
 
@@ -16,7 +16,7 @@ If, after the proclamation of a national marketing quota for wheat for any marke
 
 Notwithstanding any other provision of this chapter, the Secretary shall proclaim a national marketing quota for the crops of wheat planted for harvest in the calendar years 1966 through 1970, and farm marketing quotas shall not be in effect for such crops of wheat.
 
-(Feb. 16, 1938, ch. 30, title III, §332, 52 Stat. 53; Aug. 28, 1954, ch. 1041, title III, §307, 68 Stat. 903; Sept. 27, 1962, Pub. L. 87–703, title III, §311, 76 Stat. 619; Nov. 3, 1965, Pub. L. 89–321, title V, §501(1), 79 Stat. 1199; Oct. 11, 1968, Pub. L. 90–559, §1(1), 82 Stat. 996; Dec. 23, 1985, Pub. L. 99–198, title III, §302, 99 Stat. 1378.)
+(Feb. 16, 1938, ch. 30, title III, §332, 52 Stat. 53; Aug. 28, 1954, ch. 1041, title III, §307, 68 Stat. 903;Sept. 27, 1962, Pub. L. 87–703, title III, §311, 76 Stat. 619; Nov. 3, 1965, Pub. L. 89–321, title V, §501(1), 79 Stat. 1199; Oct. 11, 1968, Pub. L. 90–559, §1(1), 82 Stat. 996; Dec. 23, 1985, Pub. L. 99–198, title III, §302, 99 Stat. 1378.)
 
 #### Amendments
 
@@ -52,25 +52,19 @@ Section 501 of Pub. L. 89–321 provided that the amendments made by that sectio
 
 Amendment by Pub. L. 87–703 effective only with respect to programs applicable to crops planted for harvest in calendar year 1964 or any subsequent year and marketing years beginning in calendar year 1964, or any subsequent year, see section 323 of Pub. L. 87–703, set out as a note under section 1301 of this title.
 
-#### Inapplicability to 1991 Through 1995 Crops of Wheat
+#### Inapplicability of Section
+
+Section inapplicable to 1996 through 2002 crops of loan commodities, peanuts, and sugar and inapplicable to milk during period beginning Apr. 4, 1996, and ending Dec. 31, 2002, see section 7301(a)(1)(A) of this title.
 
 Section inapplicable to 1991 through 1995 crops of wheat, see section 303 of Pub. L. 101–624, set out as a note under section 1331 of this title.
 
 Pub. L. 101–270, Apr. 10, 1990, 104 Stat. 134, provided: “That section 332 of the Agricultural Adjustment Act of 1938 (7 U.S.C. 1332) shall not be applicable to the 1991 crop of wheat.”
 
-#### Inapplicability to 1986 Crop of Wheat
-
 Section 310(a) of Pub. L. 99–198 provided that: “Sections 332, 333, 334, 335, 336, and 338 of the Agricultural Adjustment Act of 1938 (7 U.S.C. 1332–1336 and 1338) shall not be applicable to the 1986 crop of wheat.”
-
-#### Inapplicability to 1982 Through 1985 Crops of Wheat
 
 Section inapplicable to 1982 through 1985 crops of wheat, see section 303 of Pub. L. 97–98, set out as a note under section 1331 of this title.
 
-#### Inapplicability to 1978 Through 1981 Crops of Wheat
-
 Section inapplicable to 1978 through 1981 crops of wheat, see section 404 of Pub. L. 95–113, set out as a note under section 1331 of this title.
-
-#### Inapplicability to 1971 Through 1977 Crops of Wheat
 
 Pub. L. 91–524, title IV, §404(1), Nov. 30, 1970, 84 Stat. 1366, as amended by Pub. L. 93–86, §1(11), Aug. 10, 1973, 87 Stat. 229, provided that this section is not applicable to 1971 through 1977 crops of wheat.
 

@@ -12,7 +12,9 @@ Priority of Claims.—A claim of a creditor against a bankrupt or insolvent manu
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

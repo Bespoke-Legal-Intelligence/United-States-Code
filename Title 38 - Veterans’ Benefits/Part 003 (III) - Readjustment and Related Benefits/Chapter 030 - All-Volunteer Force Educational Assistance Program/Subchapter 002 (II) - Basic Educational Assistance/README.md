@@ -2,7 +2,7 @@
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in sections 3002, 3035 of this title.
+This subchapter is referred to in sections 3002, 3035, 3232 of this title.
 
 
 ---
@@ -19,4 +19,5 @@ This subchapter is referred to in sections 3002, 3035 of this title.
 - [&sect; 03018 - Opportunity for certain active-duty personnel to withdraw election not to enroll](%C2%A7%2003018%20-%20Opportunity%20for%20certain%20active-duty%20personnel%20to%20withdraw%20election%20not%20to%20enroll.md)
 - [&sect; 03018A - Opportunity for certain active-duty personnel to enroll before being involuntarily separated from service](%C2%A7%2003018A%20-%20Opportunity%20for%20certain%20active-duty%20personnel%20to%20enroll%20before%20being%20involuntarily%20separated%20from%20service.md)
 - [&sect; 03018B - Opportunity for certain persons to enroll](%C2%A7%2003018B%20-%20Opportunity%20for%20certain%20persons%20to%20enroll.md)
+- [&sect; 03018C - Opportunity for certain VEAP participants to enroll](%C2%A7%2003018C%20-%20Opportunity%20for%20certain%20VEAP%20participants%20to%20enroll.md)
 - [&sect; 03019 - Tutorial assistance](%C2%A7%2003019%20-%20Tutorial%20assistance.md)

@@ -10,10 +10,8 @@ The credit allowed by this section shall not exceed the appropriate amount state
 
 &nbsp;
 
-| &nbsp; | &nbsp; |
+| <b>If the adjusted taxable estate is:</b> | <b>The maximum tax credit shall be:</b> |
 | :--- | ---: |
-| <b>If the adjusted taxable</b> | <b>The maximum tax credit</b> |
-| <b> estate is:</b> | <b>  shall be:</b> |
 | Not over $90,000 | 8/10ths of 1% of the amount by which the taxable estate exceeds $40,000. |
 | Over $90,000 but not over $140,000 | $400 plus 1.6% of the excess over $90,000. |
 | Over $140,000 but not over $240,000 | $1,200 plus 2.4% of the excess over $140,000. |
@@ -107,7 +105,7 @@ Amendment by Pub. L. 97–34 applicable to estates of decedents dying after Dec.
 
 #### Effective Date of 1976 Amendment
 
-Section 1902(c)(1) of Pub. L. 94–455, as amended by Pub. L. 95–600, title VII, §703(j)(12), Nov. 6, 1978, 92 Stat. 2942, provided that: “The amendments made by paragraphs (1) through (8), and paragraphs (12)(A), (B), and (C), of subsection (a) and by subsection (b) \[amending this section and sections 2012, 2013, 2016, 2038, 2053, 2055, 2056, 2106, 2107, 2108, 2201, 6167, and 6503 of this title, repealing section 2202 of this title, and enacting provisions set out as a note under section 2201 of this title\] shall apply in the case of estates of decedents dying after the date of the enactment of this Act \[Oct. 4, 1976\], and the amendment made by paragraph (9) of subsection (a) \[amending section 2204 of this title\] shall apply in the case of estates of decedents dying after December 31, 1970.”
+Section 1902(c)(1) of Pub. L. 94–455, as amended by Pub. L. 95–600, title VII, §703(j)(12), Nov. 6, 1978, 92 Stat.2942, provided that: “The amendments made by paragraphs (1) through (8), and paragraphs (12)(A), (B), and (C), of subsection (a) and by subsection (b) \[amending this section and sections 2012, 2013, 2016, 2038, 2053, 2055, 2056, 2106, 2107, 2108, 2201, 6167, and 6503 of this title, repealing section 2202 of this title, and enacting provisions set out as a note under section 2201 of this title\] shall apply in the case of estates of decedents dying after the date of the enactment of this Act \[Oct. 4, 1976\], and the amendment made by paragraph (9) of subsection (a) \[amending section 2204 of this title\] shall apply in the case of estates of decedents dying after December 31, 1970.”
 
 Amendment by section 1902(a)(12)(B) of Pub. L. 94–455 applicable with respect to gifts made after Dec. 31, 1976, see section 1902(c)(2) of Pub. L. 94–455, set out as a note under section 2501 of this title.
 
@@ -123,7 +121,7 @@ Amendment by Pub. L. 86–175 applicable with respect to estates of decedents dy
 
 Section 65(c) of Pub. L. 85–866 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to estates of decedents dying after August 16, 1954. The amendment made by subsection (b) \[amending this section\] shall apply with respect to estates of decedents dying after February 10, 1939, and on or before August 16, 1954.”
 
-Section 102(d) of Pub. L. 85–866 provided that: “The amendments made by this section (other than by subsection (b)) \[enacting section 2208 of this title and amending this section and sections 2104 and 2053 of thistitle\] shall apply to the estates of decedents dying after the date of the enactment of this Act \[Sept. 2, 1958\]. The amendment made by subsection (b) \[amending section 2501 of this title\] shall apply to gifts made after the date of the enactment of this Act.”
+Section 102(d) of Pub. L. 85–866 provided that: “The amendments made by this section (other than by subsection (b)) \[enacting section 2208 of this title and amending this section and sections 2104 and 2053 of this title\] shall apply to the estates of decedents dying after the date of the enactment of this Act \[Sept. 2, 1958\]. The amendment made by subsection (b) \[amending section 2501 of this title\] shall apply to gifts made after the date of the enactment of this Act.”
 
 #### Effective Date of 1956 Amendment
 

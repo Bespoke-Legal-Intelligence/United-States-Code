@@ -16,7 +16,7 @@
 
 &emsp;(7) Funeral director's services.
 
-&emsp;(8) Transportation of the remains, and roundtrip transportation and prescribed allowances for an escort of one person, to the place selected by the person designated to direct disposition of the remains or, if such a selection is not made, to a national or other cemetery which is selected by the Secretary and in which burial of the decedent is authorized.
+&emsp;(8) Transportation of the remains, and roundtrip transportation and prescribed allowances for an escort of one person, to the placeselected by the person designated to direct disposition of the remains or, if such a selection is not made, to a national or other cemetery which is selected by the Secretary and in which burial of the decedent is authorized.
 
 &emsp;(9) Interment of the remains.
 
@@ -50,11 +50,11 @@
 
 &emsp;(1) was a member of the Ready Reserve; or
 
-&emsp;(2) had performed at least twenty years of service as computed under section 12732 of this title and was not entitled to retired pay under 12731 <sup>1</sup> of this title.
+&emsp;(2) had performed at least twenty years of service as computed under section 12732 of this title and was not entitled to retired pay under section 12731 of this title.
 
 (g) The payment of expenses incident to the recovery, care, and disposition of a decedent covered by section 1481(a)(9) of this title is limited to the payment of expenses described in paragraphs (1) through (5) of subsection (a) and air transportation of the remains from a location outside the United States to a point of entry in the United States. Such air transportation may be provided without reimbursement on a space-available basis in military or military-chartered aircraft. The Secretary concerned shall pay all other expenses authorized to be paid under this subsection only on a reimbursable basis. Amounts reimbursed to the Secretary concerned under this subsection shall be credited to appropriations available, at the time of reimbursement, for the payment of such expenses.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 113; Aug. 21, 1958, Pub. L. 85–716, 72 Stat. 708; Sept. 1, 1970, Pub. L. 91–397, 84 Stat. 837; Oct. 22, 1970, Pub. L. 91–487, 84 Stat. 1086; May 28, 1974, Pub. L. 93–292, 88 Stat. 176; Jan. 8, 1975, Pub. L. 93–649, 88 Stat. 2361; Nov. 29, 1989, Pub. L. 101–189, div. A, title VI, §§652(a)(3), 653(a)(6), title XVI, §1622(c)(4), 103 Stat. 1461, 1462, 1604; Oct. 5, 1994, Pub. L. 103–337, div. A, title VI, §652(a)(2), title XVI, §1671(c)(8), 108 Stat. 2793, 3014.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 113; Aug. 21, 1958, Pub. L. 85–716, 72 Stat. 708; Sept. 1, 1970, Pub. L. 91–397, 84 Stat. 837; Oct. 22, 1970, Pub. L. 91–487, 84 Stat. 1086; May 28, 1974, Pub. L. 93–292, 88 Stat. 176; Jan. 8, 1975, Pub. L. 93–649, 88 Stat. 2361; Nov. 29, 1989, Pub. L. 101–189, div. A, title VI, §§652(a)(3), 653(a)(6), title XVI, §1622(c)(4), 103 Stat. 1461, 1462, 1604; Oct. 5, 1994, Pub. L. 103–337, div. A, title VI, §652(a)(2), title XVI, §1671(c)(8), 108 Stat. 2793, 3014; Feb. 10, 1996, Pub. L. 104–106, div. A, title XV, §1501(c)(19), 110 Stat. 499.)
 
 Historical and Revision Notes
 
@@ -66,7 +66,19 @@ Historical and Revision Notes
 
 1482(a)
 
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 1482(b)
+
+&nbsp;
 
 1482(c)
 
@@ -94,11 +106,13 @@ In subsection (c), 5:2162 (1st sentence) is omitted since the Secretary has inhe
 
 #### Amendments
 
+1996—Subsec. (f)(2). Pub. L. 104–106 inserted “section” before “12731”.
+
 1994—Subsec. (f)(2). Pub. L. 103–337, §1671(c)(8), substituted “section 12732” for “section 1332” and “12731” for “section 1331”.
 
 Subsec. (g). Pub. L. 103–337, §652(a)(2), added subsec. (g).
 
-1989—Subsec. (a). Pub. L. 101–189, §653(a)(6)(A), substituted “expenses of the following:” for “expenses of—” in introductory provisions.
+1989—Subsec. (a). Pub. L. 101–189, §653(a)(6)(A), substituted  “expenses  of  the  following:”  for  “expenses of—” in introductory provisions.
 
 Subsec. (a)(1) to (9). Pub. L. 101–189, §653(a)(6)(B), (C), in each of pars. (1) to (9), capitalized first letter of first word and substituted period for semicolon at the end.
 
@@ -118,6 +132,10 @@ Subsec. (e). Pub. L. 91–487 added subsec. (e).
 
 1958—Subsec. (d). Pub. L. 85–716 added subsec. (d).
 
+#### Effective Date of 1996 Amendment
+
+Section 1501(c) of Pub. L. 104–106 provided that the amendment made by that section is effective as of Dec. 1, 1994, and as if included as an amendment made by the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as originally enacted.
+
 #### Effective Date of 1994 Amendment
 
 Amendment by section 652(a)(2) of Pub. L. 103–337 applicable with respect to remains of, and incidental expenses incident to recovery, care, and disposition of, an individual who dies after Oct. 5, 1994, see section 652(a)(3) of Pub. L. 103–337, set out as a note under section 1481 of this title.
@@ -130,7 +148,5 @@ Flags, see section 2301 of Title 38, Veterans’ Benefits.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1481, 1482a, 1490 of this title; title 38 section 2301.
-
-<i><sup>1</sup></i><i> So in original. Probably should be preceded by “section”.</i>
+This section is referred to in sections 1481, 1482a, 1490, 1513 of this title; title 38 section 2301.
 

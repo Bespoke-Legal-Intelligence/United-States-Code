@@ -2,7 +2,7 @@
 
 (a) In this section, the current redemption value of an obligation issued on a discount basis and redeemable before maturity at the option of its holder is deemed to be the face amount of the obligation.
 
-(b) The face amount of obligations issued under this chapter and the face amount of obligations whose principal and interest are guaranteed by the United States Government (except guaranteed obligations held by the Secretary of the Treasury) may not be more than $4,900,000,000,000, outstanding at one time, subject to changes periodically made in that amount as provided by law through the congressional budget process described in Rule XLIX of the Rules of the House of Representatives or otherwise.
+(b) The face amount of obligations issued under this chapter and the face amount of obligations whose principal and interest are guaranteed by the United States Government (except guaranteed obligations held by the Secretary of the Treasury) may not be more than $5,500,000,000,000, outstanding at one time, subject to changes periodically made in that amount as provided by law through the congressional budget process described in Rule XLIX of the Rules of the House of Representatives or otherwise.
 
 (c) For purposes of this section, the face amount, for any month, of any obligation issued on a discount basis that is not redeemable before maturity at the option of the holder of the obligation is an amount equal to the sum of—
 
@@ -10,7 +10,7 @@
 
 &emsp;(2) the portion of the discount on the obligation attributable to periods before the beginning of such month (as determined under the principles of section 1272(a) of the Internal Revenue Code of 1986 without regard to any exceptions contained in paragraph (2) of such section).
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 938; Pub. L. 98–34, §1(a), May 26, 1983, 97 Stat. 196; Pub. L. 98–161, Nov. 21, 1983, 97 Stat. 1012; Pub. L. 98–342, §1(a), July 6, 1984, 98 Stat. 313; Pub. L. 98–475, Oct. 13, 1984, 98 Stat. 2206; Pub. L. 99–177, §1, Dec. 12, 1985, 99 Stat. 1037; Pub. L. 99–384, Aug. 21, 1986, 100 Stat. 818; Pub. L. 100–119, §1, Sept. 29, 1987, 101 Stat. 754; Pub. L. 101–72, §2, Aug. 7, 1989, 103 Stat. 182; Pub. L. 101–140, §1, Nov. 8, 1989, 103 Stat. 830; Pub. L. 101–508, title XI, §11901\[(a)\], Nov. 5, 1990, 104 Stat. 1388–560; Pub. L. 103–66, title XIII, §13411(a), Aug. 10, 1993, 107 Stat. 565.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 938; Pub. L. 98–34, §1(a), May 26, 1983, 97 Stat. 196; Pub. L. 98–161, Nov. 21, 1983, 97 Stat. 1012; Pub. L. 98–342, §1(a), July 6, 1984, 98 Stat. 313; Pub. L. 98–475, Oct. 13, 1984, 98 Stat. 2206; Pub. L. 99–177, §1, Dec. 12, 1985, 99 Stat. 1037; Pub. L. 99–384, Aug. 21, 1986, 100 Stat. 818; Pub. L. 100–119, §1, Sept. 29, 1987, 101 Stat. 754; Pub. L. 101–72, §2, Aug. 7, 1989, 103 Stat. 182; Pub. L. 101–140, §1, Nov. 8, 1989, 103 Stat. 830; Pub. L. 101–508, title XI, §11901\[(a)\], Nov. 5, 1990, 104 Stat. 1388–560; Pub. L. 103–66, title XIII, §13411(a), Aug. 10, 1993, 107 Stat. 565; Pub. L. 104–121, title III, §301, Mar. 29, 1996, 110 Stat. 875.)
 
 Historical and Revision Notes
 
@@ -44,13 +44,15 @@ Section 1272(a) of the Internal Revenue Code of 1986, referred to in subsec. (c)
 
 #### Amendments
 
+1996—Subsec. (b). Pub. L. 104–121 substituted “$5,500,000,000,000” for “$4,900,000,000,000”.
+
 1993—Subsec. (b). Pub. L. 103–66 substituted “$4,900,000,000,000” for “$4,145,000,000,000”.
 
 1990—Subsec. (b). Pub. L. 101–508 substituted “$4,145,000,000,000” for “$3,122,700,000,000”.
 
 1989—Subsec. (b). Pub. L. 101–140 substituted “$3,122,700,000,000” for “$2,800,000,000,000”.
 
-Subsec. (c). Pub. L. 101–72 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The face amount of beneficial interests and participations (except those held by their issuer) issued under section 302(c) of the National Housing Act (12 U.S.C. 1717(c)) from July 1, 1967, through June 30, 1968, and outstanding at any time shall be included in the amount taken into account in deciding whether the face amount requirement of subsection (b) of this section has been exceeded. This subsection does not require a change in the budgetary accounting for beneficial interests and participations.”
+Subsec. (c). Pub. L. 101–72 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The face amount of beneficial interests and participations (except those held by their issuer) issued under section 302(c) of the National Housing Act (12 U.S.C. 1717(c)) from July 1, 1967, through June 30, 1968, andoutstanding at any time shall be included in the amount taken into account in deciding whether the face amount requirement of subsection (b) of this section has been exceeded. This subsection does not require a change in the budgetary accounting for beneficial interests and participations.”
 
 1987—Subsec. (b). Pub. L. 100–119 substituted “$2,800,000,000,000” for “$2,111,000,000,000”.
 
@@ -65,6 +67,14 @@ Pub. L. 98–342 substituted “$1,573,000,000,000” for “$1,389,000,000,000,
 1983—Subsec. (b). Pub. L. 98–161 inserted “, or $1,490,000,000,000 on and after October 1, 1983,” after “$1,389,000,000,000”.
 
 Pub. L. 98–34 substituted “$1,389,000,000,000” for “$400,000,000,000”.
+
+#### Treatment of Certain Obligations of United States
+
+Pub. L. 104–115, §1(a)–(c), Mar. 12, 1996, 110 Stat. 825, authorized Secretary of the Treasury to issue to each Federal fund obligations of United States under this chapter before Mar. 30, 1996, in amount not to exceed certain designated limits, exempted such obligations from public debt limit and provided for termination of such exemption, and defined “Federal fund” for purpose of section.
+
+#### Timely Payment of March 1996 Social Security Benefits Guaranteed
+
+Pub. L. 104–103, §1, Feb. 8, 1996, 110 Stat. 55, as amended by Pub. L. 104–115, §1(d), Mar. 12, 1996, 110 Stat. 825, authorized Secretary of the Treasury to issue, before Mar. 1, 1996, obligations of United States under this chapter in amount equal to monthly insurance benefits payable in March 1996 under title II of Social Security Act (42 U.S.C. 401 et seq.), exempted such obligations from public debt limit and provided for termination of such exemption.
 
 #### Repeal of Permanent Increase in Public Debt Limit
 
@@ -120,7 +130,7 @@ Pub. L. 94–334, §1, June 30, 1976, 90 Stat. 793, providing for a temporary in
 
 Pub. L. 94–232, §1, Mar. 15, 1976, 90 Stat. 217, provided for a temporary increase of $227,000,000,000 for the period Mar. 15, 1976, to June 30, 1976.
 
-Pub. L. 94–132, §1, Nov. 14, 1975, 89 Stat. 693, providing for a temporary increase of $195,000,000,000 in the public debt limit for the period Nov. 14, 1975, to Mar. 15, 1976,was also repealed by Pub. L. 94–232, §2, Mar. 15, 1976, 90 Stat. 217.
+Pub. L. 94–132, §1, Nov. 14, 1975, 89 Stat. 693, providing for a temporary increase of $195,000,000,000 in the public debt limit for the period Nov. 14, 1975, to Mar. 15, 1976, was also repealed by Pub. L. 94–232, §2, Mar. 15, 1976, 90 Stat. 217.
 
 Pub. L. 94–47, §1, June 30, 1975, 89 Stat. 246, providing for a temporary increase of $177,000,000,000 in the public debt limit for the period June 30, 1975, to Nov. 15, 1975, was also repealed by Pub. L. 94–132, §2, Nov. 14, 1975, 89 Stat. 693.
 
@@ -188,5 +198,5 @@ Pub. L. 99–177, title II, §272, Dec. 12, 1985, 99 Stat. 1095.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 3130 of this title; title 2 section 632; title 5 sections 8348, 8438; title 12 section 1824.
+This section is referred to in section 3130 of this title; title 2 section 632; title 5 sections 8348, 8438; title 12 section 1824; title 42 section 1320b–15.
 

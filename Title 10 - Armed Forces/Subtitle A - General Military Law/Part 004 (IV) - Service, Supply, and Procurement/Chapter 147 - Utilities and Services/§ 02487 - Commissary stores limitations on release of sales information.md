@@ -12,15 +12,17 @@ Authority To Limit Release.—(1) The Secretary of Defense may limit the release
 
 (b)
 
-Release Under Competitively Awarded Agreements.—The Secretary of Defense may enter into one or more agreements that provide for limited release of information described in subsection (a)(2). The Secretary shall use competitive procedures to enter into each such agreement. Each agreement shall require payment for such information and shall specify the amount of such payment.
+Release Under Competitively Awarded Agreements.—The Secretary of Defense may enter into one or more agreements that provide for limited release of information described in subsection (a)(2). The Secretary shall use competitive procedures to enter into each such agreement unless the agreement is between the Defense Commissary Agency and a manufacturer, distributor, or other vendor doing business with the Agency and is restricted to information directly related to merchandise provided by that manufacturer, distributor, or vendor. Each agreement shall require payment for such information and shall specify the amount of such payment.
 
 (c)
 
 Deposit of Receipts.—Amounts received by the United States under an agreement described in subsection (b) with respect to a commissary shall be deposited in the Commissary Trust Revolving Fund of the military department under which the commissary is operated.
 
-(Added Pub. L. 99–661, div. A, title III, §313(a), Nov. 14, 1986, 100 Stat. 3852; amended Pub. L. 102–484, div. A, title III, §364(a), (b)(2), Oct. 23, 1992, 106 Stat. 2381, 2382.)
+(Added Pub. L. 99–661, div. A, title III, §313(a), Nov. 14, 1986, 100 Stat. 3852; amended Pub. L. 102–484, div. A, title III, §364(a), (b)(2), Oct. 23, 1992, 106 Stat. 2381, 2382; Pub. L. 104–106, div. A, title III, §332, Feb. 10, 1996, 110 Stat. 260.)
 
 #### Amendments
+
+1996—Subsec. (b). Pub. L. 104–106 inserted “unless the agreement is between the Defense Commissary Agency and a manufacturer, distributor, or other vendor doing business with the Agency and is restricted to information directly related to merchandise provided by that manufacturer, distributor, or vendor” before period at end of second sentence.
 
 1992—Subsecs. (a) and (b). Pub. L. 102–484, §364(a), added subsecs. (a) and (b) and struck out former subsecs. (a) and (b) which read as follows:
 

@@ -16,3 +16,4 @@ This subchapter is referred to in sections 256b, 256d of this title.
 - [Part C - Early Intervention Services](Part%20C%20-%20Early%20Intervention%20Services/README.md)
 - [Part D - General Provisions](Part%20D%20-%20General%20Provisions/README.md)
 - [Part E - Emergency Response Employees](Part%20E%20-%20Emergency%20Response%20Employees/README.md)
+- [Part F - Demonstration and Training](Part%20F%20-%20Demonstration%20and%20Training/README.md)

@@ -22,7 +22,7 @@ For purposes of this subchapter:
 
 &emsp;&emsp;(D) that practices nondiscrimination in the provision of assistance.
 
-&emsp;(7) The term “State” means each of the several States, the District of Columbia, theCommonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Northern Mariana Islands, the Trust Territory of the Pacific Islands, and any other territory or possession of the United States.
+&emsp;(7) The term “State” means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Northern Mariana Islands, the Trust Territory of the Pacific Islands, and any other territory or possession of the United States.
 
 (Pub. L. 100–77, title III, §321, July 22, 1987, 101 Stat. 493.)
 

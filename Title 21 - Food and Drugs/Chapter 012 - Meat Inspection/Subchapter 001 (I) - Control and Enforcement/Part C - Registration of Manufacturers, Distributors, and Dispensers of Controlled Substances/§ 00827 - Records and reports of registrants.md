@@ -12,7 +12,7 @@ Except as provided in subsection (c) of this section—
 
 #### (b) Availability of records
 
-Every inventory or other record required under this section (1) shall be in accordance with, and contain such relevant information as may be required by, regulations of the Attorney General, (2) shall (A) be maintained separately from all other records of the registrant, or (B) alternatively, in the case of nonnarcotic controlled substances, be in such form that information required by the Attorney General is readily retrievable from the ordinary business records of the registrant, and (3) shall be kept and be available, for at least two years, for inspection and copying by officers or employees of the United States authorized by the Attorney General.
+Every inventory or other record required under this section (1) shall be in accordance with, and contain such relevant information as may be required by, regulations of the AttorneyGeneral, (2) shall (A) be maintained separately from all other records of the registrant, or (B) alternatively, in the case of nonnarcotic controlled substances, be in such form that information required by the Attorney General is readily retrievable from the ordinary business records of the registrant, and (3) shall be kept and be available, for at least two years, for inspection and copying by officers or employees of the United States authorized by the Attorney General.
 
 #### (c) Nonapplicability
 
@@ -28,7 +28,7 @@ The foregoing provisions of this section shall not apply—
 
 &emsp;(3) to the extent of any exemption granted to any person, with respect to all or part of such provisions, by the Attorney General by or pursuant to regulation on the basis of a finding that the application of such provisions (or part thereof) to such person is not necessary for carrying out the purposes of this subchapter.
 
-> Nothing in the Convention on Psychotropic Substances shall be construed as superseding orotherwise affecting the provisions of paragraph (1)(B), (2), or (3) of this subsection.
+> Nothing in the Convention on Psychotropic Substances shall be construed as superseding or otherwise affecting the provisions of paragraph (1)(B), (2), or (3) of this subsection.
 
 #### (d) Periodic reports to Attorney General
 

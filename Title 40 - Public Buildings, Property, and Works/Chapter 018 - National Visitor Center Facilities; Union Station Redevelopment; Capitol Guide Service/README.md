@@ -89,7 +89,7 @@
 | (g) | Historical and educational information. |
 | (h) | Regulations for operation of Service. |
 | (i) | Disciplinary action. |
-| (j) | Expenses; payment from contingent fund until availability of appropriations. |
+| (j) | Volunteers. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

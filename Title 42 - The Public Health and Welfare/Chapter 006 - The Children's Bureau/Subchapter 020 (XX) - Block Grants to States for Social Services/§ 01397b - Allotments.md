@@ -24,17 +24,25 @@ The amount specified for purposes of subsections (a) and (b) of this section sha
 
 &emsp;(3) $2,700,000,000 for the fiscal years 1984, 1985, 1986, 1987, and 1989;
 
-&emsp;(4) $2,750,000,000 for the fiscal year 1988; and
+&emsp;(4) $2,750,000,000 for the fiscal year 1988;
 
-&emsp;(5) $2,800,000,000 for each fiscal year after fiscal year 1989.
+&emsp;(5) $2,800,000,000 for each of the fiscal years 1990 through 1995;
 
-(Aug. 14, 1935, ch. 531, title XX, §2003, as added Aug. 13, 1981, Pub. L. 97–35, title XXIII, §2352(a), 95 Stat. 868; amended Sept. 3, 1982, Pub. L. 97–248, title I, §160(b), 96 Stat. 400; Oct. 24, 1983, Pub. L. 98–135, title II, §204, 97 Stat. 861; Oct. 22, 1986, Pub. L. 99–514, title XVIII, §1883(e)(1), 100 Stat. 2919; Dec. 22, 1987, Pub. L. 100–203, title IX, §§9134(a), 9135(a)(2), 101 Stat. 1330–315; Dec. 19, 1989, Pub. L. 101–239, title VIII, §8016, 103 Stat. 2470.)
+&emsp;(6) $2,381,000,000 for the fiscal year 1996;
+
+&emsp;(7) $2,380,000,000 for each of the fiscal years 1997 through 2002; and
+
+&emsp;(8) $2,800,000,000 for the fiscal year 2003 and each succeeding fiscal year.
+
+(Aug. 14, 1935, ch. 531, title XX, §2003, as added Aug. 13, 1981, Pub. L. 97–35, title XXIII, §2352(a), 95 Stat. 868; amended Sept. 3, 1982, Pub. L. 97–248, title I, §160(b), 96 Stat. 400; Oct. 24, 1983, Pub. L. 98–135, title II, §204, 97 Stat. 861; Oct. 22, 1986, Pub. L. 99–514, title XVIII, §1883(e)(1), 100 Stat. 2919; Dec. 22, 1987, Pub. L. 100–203, title IX, §§9134(a), 9135(a)(2), 101 Stat. 1330–315; Dec. 19, 1989, Pub. L. 101–239, title VIII, §8016, 103 Stat. 2470; Aug. 22, 1996, Pub. L. 104–193, title IX, §908(a), 110 Stat. 2350.)
 
 #### Prior Provisions
 
 A prior section 1397b, act Aug. 14, 1935, ch. 531, title XX, §2003, as added Jan. 4, 1975, Pub. L. 93–647, §2, 88 Stat. 2343; amended Oct. 21, 1975, Pub. L. 94–120, §4(a), 89 Stat. 609; Oct. 25, 1977, Pub. L. 95–142, §3(d)(1), 91 Stat. 1179; June 9, 1980, Pub. L. 96–265, title IV, §403(b), 94 Stat. 462; June 17, 1980, Pub. L. 96–272, title II, §206(c), (d), 94 Stat. 525; Oct. 19, 1980, Pub. L. 96–473, §6(<i>l</i>), 94 Stat. 2266; Dec. 5, 1980, Pub. L. 96–499, title IX, §913(e), 94 Stat. 2620, related to State programs for social services assistance, prior to the general revision of this subchapter by section 2352(a) of Pub. L. 97–35.
 
 #### Amendments
+
+1996—Subsec. (c)(5) to (8). Pub. L. 104–193 added pars. (5) to (8) and struck out former par. (5) which read as follows: “$2,800,000,000 for each fiscal year after fiscal year 1989.”
 
 1989—Subsec. (c)(3). Pub. L. 101–239, §8016(1), substituted “1987, and 1989;” for “and 1987, and for each succeeding fiscal year other than the fiscal year 1988; and”.
 
@@ -96,7 +104,7 @@ Pub. L. 98–473, title IV, §401, Oct. 12, 1984, 98 Stat. 2195, provided that:
 
 &emsp;“(3) be separately accounted for in the reports and audits provided for in section 2006 of the Social Security Act \[section 1397e of this title\].
 
-“(c)(1) In order to provide guidance and assistance to the States in utilizing funds allocated pursuant to title XX of the Social Security Act \[this subchapter\], notlater than 3 months after the date of enactment of this section \[Oct. 12, 1984\], the Secretary shall draft and distribute to the States for their consideration, a Model Child Care Standards Act containing—
+“(c)(1) In order to provide guidance and assistance to the States in utilizing funds allocated pursuant to title XX of the Social Security Act \[this subchapter\], not later than 3 months after the date of enactment of this section \[Oct. 12, 1984\], the Secretary shall draft and distribute to the States for their consideration, a Model Child Care Standards Act containing—
 
 &emsp;“(A) minimum licensing or registration standards for day care centers, group homes, and family day care homes regarding matters including—
 

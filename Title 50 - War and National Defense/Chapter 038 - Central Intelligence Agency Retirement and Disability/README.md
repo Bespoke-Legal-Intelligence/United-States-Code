@@ -58,7 +58,7 @@
 | (i) | Supplemental survivor annuities. |
 | (j) | Offset of annuities by amount of social security benefit. |
 | (k) | Information from other agencies. |
-| (<i>l)</i> | Information on rights under system. |
+| (<i>l</i>) | Information on rights under system. |
 | [2032\.](Subchapter%20002%20%28II%29%20-%20Central%20Intelligence%20Agency%20Retirement%20and%20Disability%20System/Part%20C%20-%20Computation%20of%20Annuities/%C2%A7%2002032%20-%20Annuities%20for%20former%20spouses.md) | Annuities for former spouses. |
 | (a) | Former spouse share of participant's annuity. |
 | (b) | Former spouse survivor annuity. |

@@ -1,14 +1,14 @@
 ### §2209b. Availability of appropriations
 
-New obligational authority provided for the following appropriation items in this Act shall remain available until expended (7 U.S.C. 2209b): Animal and Plant Health Inspection Service, the contingency fund to meet emergency conditions, and integrated systems acquisition project; Consolidated Farm Service Agency, salaries and expenses funds made available to county committees; and Foreign Agricultural Service, middle-income country training program.
+New obligational authority provided for the following appropriation items in this Act shall remain available until expended (7 U.S.C. 2209b): Animal and Plant Health Inspection Service, the contingency fund to meet emergency conditions, fruit fly program, and integrated systems acquisition project; Farm Service Agency, salaries and expenses funds made available to county committees; and Foreign Agricultural Service, middle-income country training program.
 
-New obligational authority for the boll weevil program; up to 10 percent of the screwworm program of the Animal and Plant Health Inspection Service; Food Safety and Inspection Service, field automation and information management project; funds appropriated for rental payments; funds for the Native American institutions endowment fund in the Cooperative State Research, Education, and Extension Service, and funds for the competitive research grants (7 U.S.C. 450i(b)) shall remain available until expended.
+New obligational authority for the boll weevil program; up to 10 percent of the screwworm program of the Animal and Plant Health Inspection Service; Food Safety and Inspection Service, field automation and information management project; funds appropriated for rental payments; funds for the Native American institutions endowment fund in the Cooperative State Research, Education, and Extension Service, and funds for the competitive research grants (7 U.S.C. 450i(b)), shall remain available until expended.
 
-(Pub. L. 104–37, title VII, §705, Oct. 21, 1995, 109 Stat. 329.)
+(Pub. L. 104–180, title VII, §705, Aug. 6, 1996, 110 Stat. 1596.)
 
 #### References in Text
 
-This Act, referred to in text, is Pub. L. 104–37, Oct. 21, 1995, 109 Stat. 299, known as the Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 1996. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in text, is Pub. L. 104–180, Aug. 6, 1996, 110 Stat. 1569, known as the Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 1997. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 
@@ -17,6 +17,8 @@ Section is from the appropriation act cited as the credit to this section.
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in the following prior appropriation acts:
+
+Pub. L. 104–37, title VII, §705, Oct. 21, 1995, 109 Stat. 329.
 
 Pub. L. 103–330, title VII, §705, Sept. 30, 1994, 108 Stat. 2466.
 

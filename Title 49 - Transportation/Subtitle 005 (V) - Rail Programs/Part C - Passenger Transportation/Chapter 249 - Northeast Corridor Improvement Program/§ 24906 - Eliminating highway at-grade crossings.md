@@ -16,7 +16,9 @@ Amtrak's Share of Costs.—Amtrak shall pay 20 percent of the cost of eliminatin
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

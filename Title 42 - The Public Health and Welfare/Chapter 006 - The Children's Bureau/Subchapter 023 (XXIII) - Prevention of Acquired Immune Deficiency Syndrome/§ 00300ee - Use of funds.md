@@ -10,7 +10,7 @@ All programs of education and information receiving funds under this subchapter 
 
 #### (c) Limitation
 
-None of the funds appropriated to carry out this subchapter may be used to provide education or information designed to promote or encourage, directly, homosexual or heterosexual sexual activity or intravenous substance abuse.
+None of the funds appropriated to carry out this subchapter may be used to provide education or information designed to promote orencourage, directly, homosexual or heterosexual sexual activity or intravenous substance abuse.
 
 #### (d) Construction
 

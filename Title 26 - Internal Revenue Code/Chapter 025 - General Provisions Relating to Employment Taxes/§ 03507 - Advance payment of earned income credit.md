@@ -86,7 +86,7 @@ For purposes of this section—
 
 #### (A) First certificate furnished
 
-&emsp;&emsp;An earned income eligibility certificate furnished the employer in cases in which no previous such certificate had been in effect for the calendar year shall take effect as of the beginning of the first payroll period ending, or the first payment of wages made without regard to a payroll period, on or after the date on which such certificate is so furnished (or if later, the first day of the calendar year for which furnished).
+&emsp;&emsp;An earned income eligibility certificate furnished the employer in cases in which no previous such certificate had been in effect for the calendar year shall take effect as of the beginning of the first payroll period ending, or the first payment of wages made without regard to a payroll period, on orafter the date on which such certificate is so furnished (or if later, the first day of the calendar year for which furnished).
 
 #### (B) Later certificate
 

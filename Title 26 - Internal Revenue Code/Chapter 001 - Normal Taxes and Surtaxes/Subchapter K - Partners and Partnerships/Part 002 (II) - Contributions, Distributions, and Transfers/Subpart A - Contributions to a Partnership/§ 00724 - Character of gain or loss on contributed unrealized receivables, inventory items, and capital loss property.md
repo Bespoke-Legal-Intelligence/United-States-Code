@@ -50,9 +50,13 @@ For purposes of this section—
 
 #### (B) Exception for stock in C corporation
 
-&emsp;&emsp;Subparagaph <sup>1</sup> (A) shall not apply to any stock in a C corporation received in an exchange described in section 351.
+&emsp;&emsp;Subparagraph (A) shall not apply to any stock in a C corporation received in an exchange described in section 351.
 
-(Added Pub. L. 98–369, div. A, title I, §74(a), July 18, 1984, 98 Stat. 592.)
+(Added Pub. L. 98–369, div. A, title I, §74(a), July 18, 1984, 98 Stat. 592; amended Pub. L. 104–188, title I, §1704(t)(63), Aug. 20, 1996, 110 Stat. 1890.)
+
+#### Amendments
+
+1996—Subsec. (d)(3)(B). Pub. L. 104–188 substituted “Subparagraph” for “Subparagaph”.
 
 #### Effective Date
 

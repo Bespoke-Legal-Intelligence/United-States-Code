@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-There is established in the Department of Health and Human Services the Food and Drug Administration (hereinafter in this section referred to as the “Administration”).
+There is established in the Department of Health and Human Services the Food and DrugAdministration (hereinafter in this section referred to as the “Administration”).
 
 #### (b) Commissioner
 

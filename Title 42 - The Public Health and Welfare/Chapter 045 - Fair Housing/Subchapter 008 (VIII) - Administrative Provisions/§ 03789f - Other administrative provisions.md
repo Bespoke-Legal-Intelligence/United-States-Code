@@ -6,7 +6,7 @@ Each recipient of funds under this chapter shall keep such records as the Office
 
 #### (b) Access to records for audit and examination
 
-The Office of Justice Programs or any of its duly authorized representatives, shall have access for purpose of audit and examination of any books, documents, papers, and records of the recipients of funds under this chapter which in the opinion of the Office of Justice Programs maybe related or pertinent to the grants, contracts, subcontracts, subgrants, or other arrangements referred to under this chapter.
+The Office of Justice Programs or any of its duly authorized representatives, shall have access for purpose of audit and examination of any books, documents, papers, and records of the recipients of funds under this chapter which in the opinion of the Office of Justice Programs may be related or pertinent to the grants, contracts, subcontracts, subgrants, or other arrangements referred to under this chapter.
 
 #### (c) Audit and examination period after completion of program or project
 

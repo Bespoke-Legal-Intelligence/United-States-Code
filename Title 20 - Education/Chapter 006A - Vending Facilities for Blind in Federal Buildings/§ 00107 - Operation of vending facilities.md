@@ -2,11 +2,11 @@
 
 #### (a) Authorization
 
-For the purposes of providing blind persons with remunerative employment, enlarging the economic opportunities of the blind, and stimulating the blind to greater efforts in striving to make themselves self-supporting, blind persons licensed under the provisions of this chapter shall be authorized to operate vending facilities on any Federal property.
+For the purposes of providing blind persons with remunerative employment, enlarging theeconomic opportunities of the blind, and stimulating the blind to greater efforts in striving to make themselves self-supporting, blind persons licensed under the provisions of this chapter shall be authorized to operate vending facilities on any Federal property.
 
 #### (b) Preferences regulations; justification for limitation on operation
 
-In authorizing the operation of vending facilities on Federal property, priority shall be givento blind persons licensed by a State agency as provided in this chapter; and the Secretary, through the Commissioner, shall, after consultation with the Administrator of General Services and other heads of departments, agencies, or instrumentalities of the United States in control of the maintenance, operation, and protection of Federal property, prescribe regulations designed to assure that—
+In authorizing the operation of vending facilities on Federal property, priority shall be given to blind persons licensed by a State agency as provided in this chapter; and the Secretary, through the Commissioner, shall, after consultation with the Administrator of General Services and other heads of departments, agencies, or instrumentalities of the United States in control of the maintenance, operation, and protection of Federal property, prescribe regulations designed to assure that—
 
 &emsp;(1) the priority under this subsection is given to such licensed blind persons (including assignment of vending machine income pursuant to section 107d–3 of this title to achieve and protect such priority), and
 

@@ -12,11 +12,13 @@
 
 &emsp;(D) in the case of a failure during the fourth year of service under the agreement, 25 percent of the amount received for that year.
 
-(2) The Secretary may waive (in whole or in part) the requirement for a refund under paragraph (1) in any case if the Secretary determines (in accordance with regulations prescribed under section 7431(a) of this title) that the failure to complete such period of service is the result of circumstances beyond the control of the physician or dentist.
+(2)(A) The Secretary may waive (in whole or in part) the requirement for a refund under paragraph (1) in any case if the Secretary determines (in accordance with regulations prescribed under section 7431(a) of this title) that the failure to complete such period of service is the result of circumstances beyond the control of the physician or dentist.
 
-(3) Any such agreement shall specify the terms under which the Department and the physician or dentist may elect to terminate the agreement.
+(B) The Secretary may suspend a special pay agreement entered into under this section in the case of a physician or dentist who, having entered into the special pay agreement, enters a residency training program. Any such suspension shall terminate when the physician or dentist completes, withdraws from, or is no longer a participant in the program. During the period of such a suspension, the physician or dentist is not subject to the provisions of paragraph (1).
 
-(c)(1) If a proposed agreement under this subchapter will provide a total annual amount of special pay to be provided to a physician or dentist who has previously entered into an agreement under this subchapter (or under section 4118 <sup>1</sup> of this title as in effect before the effective date of the Department of Veterans Affairs Physician and Dentist Recruitment and Retention Act of 1991) that will exceed the previous annual amount of special pay provided for the physician or dentist by more than 50 percent (other than in the case of a physician or dentist employed in an executive position in the Central Office of the Department), or that will be less than the previous annual amount of special pay provided for the physician or dentist by more than 25 percent, the proposed agreement shall be promptly submitted to the Secretary. The proposed agreement shall not take effect if it is disapproved by the Secretary within 60 days after the date onwhich the physician or dentist entered into the proposed agreement.
+(3) Any such agreement shall specify the terms under which the Department and the physicianor dentist may elect to terminate the agreement.
+
+(c)(1) If a proposed agreement under this subchapter will provide a total annual amount of special pay to be provided to a physician or dentist who has previously entered into an agreement under this subchapter (or under section 4118 <sup>1</sup> of this title as in effect before the effective date of the Department of Veterans Affairs Physician and Dentist Recruitment and Retention Act of 1991) that will exceed the previous annual amount of special pay provided for the physician or dentist by more than 50 percent (other than in the case of a physician or dentist employed in an executive position in the Central Office of the Department), or that will be less than the previous annual amount of special pay provided for the physician or dentist by more than 25 percent, the proposed agreement shall be promptly submitted to the Secretary. The proposed agreement shall not take effect if it is disapproved by the Secretary within 60 days after the date on which the physician or dentist entered into the proposed agreement.
 
 (2) For purposes of paragraph (1), the previous annual amount of special pay provided for a physician or dentist is the total annual amount of special pay provided, or to be provided, to the physician or dentist for the most recent year covered by an agreement entered into by the physician or dentist under this subchapter or under section 4118 <sup>1</sup> of this title. In the case of an agreement entered into under section 4118 <sup>1</sup> of this title, incentive pay shall be treated as special pay for purposes of this paragraph.
 
@@ -36,7 +38,7 @@
 
 (4) This subsection does not apply to any proposed agreement entered into after September 30, 1994.
 
-(Added Pub. L. 102–40, title I, §102, May 7, 1991, 105 Stat. 189; amended Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984.)
+(Added Pub. L. 102–40, title I, §102, May 7, 1991, 105 Stat. 189; amended Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 104–262, title III, §346, Oct. 9, 1996, 110 Stat. 3208.)
 
 #### References in Text
 
@@ -49,6 +51,8 @@ The effective date of the Department of Veterans Affairs Physician and Dentist R
 Provisions similar to those in this subchapter were contained in section 4118 of this title prior to the repeal of that section as part of the complete revision of chapter 73 of this title by Pub. L. 102–40.
 
 #### Amendments
+
+1996—Subsec. (b)(2). Pub. L. 104–262 designated existing provisions as subpar. (A) and added subpar. (B).
 
 1992—Subsec. (d)(1), (2). Pub. L. 102–405 substituted “Under Secretary for Health” for “Chief Medical Director” wherever appearing.
 

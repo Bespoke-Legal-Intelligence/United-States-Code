@@ -24,7 +24,7 @@ Each bank for cooperatives shall be a body corporate and, subject to regulation 
 
 (11)(A) Participate in loans under this subchapter with one or more other banks for cooperatives and with commercial banks and other financial institutions upon such terms as may be agreed among them, and participate with one or more other Farm Credit System institutions in loans made under this subchapter or other subchapters of this chapter on the basis prescribed in section 2206 of this title.
 
-(B)(i) Participate in any loan of a type otherwise authorized under this subchapter that ismade to a similar entity by any institution in the business of extending credit, including purchases of participations in loans to finance international trade transactions involving the sale of agricultural commodities or the products thereof, except that—
+(B)(i) Participate in any loan of a type otherwise authorized under this subchapter that is made to a similar entity by any institution in the business of extending credit, including purchases of participations in loans to finance international trade transactions involving the sale of agricultural commodities or the products thereof, except that—
 
 &emsp;(I) a bank for cooperatives may not participate in a loan—
 

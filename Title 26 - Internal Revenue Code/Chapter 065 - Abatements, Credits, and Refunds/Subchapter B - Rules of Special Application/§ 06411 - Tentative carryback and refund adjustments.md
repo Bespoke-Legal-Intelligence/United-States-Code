@@ -8,7 +8,7 @@ A taxpayer may file an application for a tentative carryback adjustment of the t
 
 &emsp;(2) The amount of the tax previously determined for the prior taxable year affected by such carryback, the tax previously determined being ascertained in accordance with the method prescribed in section 1314(a);
 
-&emsp;(3) The amount of decrease in such tax, attributable to such carryback, such decreasebeing determined by applying the carryback in the manner provided by law to the items on the basis of which such tax was determined;
+&emsp;(3) The amount of decrease in such tax, attributable to such carryback, such decrease being determined by applying the carryback in the manner provided by law to the items on the basis of which such tax was determined;
 
 &emsp;(4) The unpaid amount of such tax, not including any amount required to be shown under paragraph (5);
 
@@ -86,7 +86,7 @@ Subsecs. (b), (c). Pub. L. 98–369, §474(r)(37)(B), substituted “unused rese
 
 1981—Subsec. (a). Pub. L. 97–34, §331(d)(2)(B), inserted in introductory provisions “by an employee stock ownership credit carryback provided by section 44G(b)(2)” after “section 44F(g)(2),” and substituted “unused research credit, or unused employee stock ownership credit” for “or unused research credit”, “a research credit carryback, or employee stock ownership credit carryback” for “or a research credit carryback”, and “new employee credit carryback, or, in the case of an employee stock ownership credit carryback, to an investment credit carryback, a new employee credit carryback or a research and experimental credit carryback)” for “new employee credit carryback)” and in par. (1) substituted “unused research credit, or unused employee stock ownership credit” for “or unused research credit”.
 
-Pub. L. 97–34, §221(b)(2)(B), inserted in introductory provision “by a research credit carryback provided in section 44F(g)(2),” after “section 53(b),” and substituted “unused new employee credit, or unused research credit” for “or unused new employee credit”, “a new employee credit carryback, or a research credit carryback” for “or a new employee credit carryback”, and “work incentive program carryback, or, in the case of a research credit carryback, to an investment credit carryback, a work incentive program carryback, or new employee credit carryback)” for “work incentive program carryback)” and in par. (1) substituted “unused new employee credit, or unused research credit” for “or unused new employee credit”.
+Pub. L. 97–34, §221(b)(2)(B), inserted in introductory provision “by a research credit carryback provided insection 44F(g)(2),” after “section 53(b),” and substituted “unused new employee credit, or unused research credit” for “or unused new employee credit”, “a new employee credit carryback, or a research credit carryback” for “or a new employee credit carryback”, and “work incentive program carryback, or, in the case of a research credit carryback, to an investment credit carryback, a work incentive program carryback, or new employee credit carryback)” for “work incentive program carryback)” and in par. (1) substituted “unused new employee credit, or unused research credit” for “or unused new employee credit”.
 
 Subsec. (b). Pub. L. 97–34, §331(d)(2)(B)(i), substituted “unused research credit, or unused employee stock ownership credit” for “or unused research credit”.
 
@@ -114,7 +114,7 @@ Subsecs. (b), (c). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his dele
 
 1971—Pub. L. 92–178, §601(e)(1)(A), substituted “unused investment credit, or unused work incentive program credit” for “or unused investment credit” wherever appearing in subsecs. (a), (a)(1), (b), and (c).
 
-Subsec. (a). Pub. L. 92–178, §601(e)(1)(B) and (C), inserted “by a work incentive program carryback provided in section 50A(b),” after “section 46(b),” in firstsentence, and “or a work incentive program carryback” after “investment credit carryback” in second sentence, respectively.
+Subsec. (a). Pub. L. 92–178, §601(e)(1)(B) and (C), inserted “by a work incentive program carryback provided in section 50A(b),” after “section 46(b),” in first sentence, and “or a work incentive program carryback” after “investment credit carryback” in second sentence, respectively.
 
 1969—Subsec. (a). Pub. L. 91–172, §512(d)(1), (2), provided quick refund procedure, presently available in case of net operating loss carrybacks, to be made available in the case of the 3-year capital loss carryback, and substituted “net operating loss, net capital loss, or unused investment credit” for “net operating loss or unused investment credit” in par. (1).
 

@@ -26,7 +26,7 @@
 
 &emsp;&emsp;(iii) the account on which the check or warrant was drawn.
 
-(4) The drawee shall transfer the amount of a withheld check or warrant from the account of the drawer to the special deposit account “Secretary of the Treasury, Proceeds of Withheld Foreign Checks”. The check or warrant shall be marked “Paid into Withheld Foreign Check Account”. After that time, the drawee shall send all withheld checks and warrants to the Comptroller General. The Comptroller General shall credit the accounts of the drawer and drawee.
+(4) The drawee shall transfer the amount of a withheld check or warrant from the account of the drawer to the special deposit account “Secretary of the Treasury, Proceeds of Withheld Foreign Checks”. The check or warrant shall be marked “Paid into Withheld Foreign Check Account”. The Secretary shall credit the accounts of the drawer and drawee.
 
 (c) The Secretary may pay an amount deposited in the special account under subsection (b)(4) of this section with a check drawn on the account when—
 
@@ -46,7 +46,7 @@
 
 &emsp;(3) do not affect a check or warrant issued for the payment of pay or goods bought by the United States Government in a foreign country.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 953; Pub. L. 102–54, §13(<i>l</i>)(2), June 13, 1991, 105 Stat. 277.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 953; Pub. L. 102–54, §13(<i>l</i>)(2), June 13, 1991, 105 Stat. 277; Pub. L. 104–316, title I, §115(e), Oct. 19, 1996, 110 Stat. 3834.)
 
 Historical and Revision Notes
 
@@ -97,6 +97,8 @@ In subsection (d)(2), the words “do not affect a requirement for” are substi
 In subsection (d)(3), the words “does not affect” are substituted for “Nothing contained in sections 123 to 128 of this title shall be construed as affecting or applying to” in 31:128 to eliminate unnecessary words and because of the restatement. The word “pay” is substituted for “salaries or wages” for consistency in the revised title and with other titles of the United States Code.
 
 #### Amendments
+
+1996—Subsec. (b)(4). Pub. L. 104–316 substituted “The Secretary shall credit the accounts of the drawer and drawee.” for “After that time, the drawee shall send all withheld checks and warrants to the Comptroller General. The Comptroller General shall credit the accounts of the drawer and drawee.”
 
 1991—Subsec. (c)(1). Pub. L. 102–54 substituted “Secretary of Veterans Affairs” for “Administrator of Veterans’ Affairs” and “laws administered by the Secretary of Veterans Affairs” for “laws carried out by the Administrator”.
 

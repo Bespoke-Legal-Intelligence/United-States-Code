@@ -122,73 +122,11 @@ Subsecs. (b), (c). Pub. L. 98–216, §1(2)(C)–(E), redesignated subsec. (c) a
 
 #### Economy Act Purchases
 
-Pub. L. 103–355, title I, §1074, Oct. 13, 1994, 108 Stat. 3271, provided that:
-
-“(a)
-
-Regulations Required.—The Federal Acquisition Regulation shall be revised to include regulations governing the exercise of the authority under section 1535 of title 31, United States Code, for Federal agencies to purchase goods and services under contracts entered into or administered by other agencies.
-
-“(b)
-
-Content of Regulations.—The regulations prescribed pursuant to subsection (a) shall—
-
-&emsp;“(1) require that each purchase described in subsection (a) be approved in advance by a contracting officer of the ordering agency with authority to contract for the goods or services to be purchased or by another official in a position specifically designated by regulation to approve such purchase;
-
-&emsp;“(2) provide that such a purchase of goods or services may be made only if—
-
-&emsp;&emsp;“(A) the purchase is appropriately made under a contract that the agency filling the purchase order entered into, before the purchase order, in order to meet the requirements of such agency for the same or similar goods or services;
-
-&emsp;&emsp;“(B) the agency filling the purchase order is better qualified to enter into or administer the contract for such goods or services by reason of capabilities or expertise that is not available within the ordering agency; or
-
-&emsp;&emsp;“(C) the agency or unit filling the order is specifically authorized by law or regulations to purchase such goods or services on behalf of other agencies;
-
-&emsp;“(3) prohibit any such purchase under a contract or other agreement entered into or administered by an agency not covered by the provisions of chapter 137 of title 10, United States Code, or title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.) and not covered by the Federal Acquisition Regulation unless the purchase is approved in advance by the senior procurement official responsible for purchasing by the ordering agency; and
-
-&emsp;“(4) prohibit any payment to the agency filling a purchase order of any fee that exceeds the actual cost or, if the actual cost is not known, the estimated cost of entering into and administering the contract or other agreement under which the order is filled.
-
-“(c)
-
-Monitoring System Required.—The Administrator for Federal Procurement Policy shall ensure that, not later than one year after the date of the enactment of this Act \[Oct. 13, 1994\], systems for collecting and evaluating procurement data are capable of collecting and evaluating appropriate data on procurements conducted under the regulations prescribed pursuant to subsection (a).
-
-“(d)
-
-Termination.—This section shall cease to be effective one year after the date on which final regulations prescribed pursuant to subsection (a) take effect.”
+Pub. L. 103–355, title I, §1074, Oct. 13, 1994, 108 Stat. 3271, provided that the Federal Acquisition Regulation was to be revised to include regulations governing the exercise of authority under this section for Federal agencies to purchase goods and services under contracts entered into or administered by other agencies, and further provided for content of regulations, establishment of system to monitor procurements under regulations, and that section would cease to be effective one year after date on which final regulations took effect. Final regulations were published in the Federal Register Sept. 26, 1995, effective Oct. 1, 1995. See 60 F.R. 49720.
 
 #### Department of Defense Purchases Through Other Agencies
 
-Pub. L. 103–160, div. A, title VIII, §844, Nov. 30, 1993, 107 Stat. 1720, provided that:
-
-“(a)
-
-Regulations Required.—Not later than six months after the date of the enactment of this Act \[Nov. 30, 1993\], the Secretary of Defense shall prescribe regulations governing the exercise by the Department of Defense of the authority under section 1535 of title 31, United States Code, to purchase goods and services under contracts entered into or administered by another agency.
-
-“(b)
-
-Content of Regulations.—The regulations prescribed pursuant to subsection (a) shall—
-
-&emsp;“(1) require that each purchase described in subsection (a) be approved in advance by a contracting officer of the Department of Defense with authority to contract for the goods or services to be purchased or by another official in a position specifically designated by regulation to approve such purchase;
-
-&emsp;“(2) provide that such a purchase of goods or services may be made only if—
-
-&emsp;&emsp;“(A) the purchase is appropriately made under a contract that the agency filling the purchase order entered into, before the purchase order, in order to meet the requirements of such agency for the same or similar goods or services;
-
-&emsp;&emsp;“(B) the agency filling the purchase order is better qualified to enter into or administer the contract for such goods or services by reason of capabilities or expertise that is not available within the Department;
-
-&emsp;&emsp;“(C) the agency or unit filling the order is specifically authorized by law or regulations to purchase such goods or services on behalf of other agencies; or
-
-&emsp;&emsp;“(D) the purchase is authorized by an Executive order or a revision to the Federal Acquisition Regulation setting forth specific additional circumstances in which purchases referred to in subsection (a) are authorized;
-
-&emsp;“(3) prohibit any such purchase under a contract or other agreement entered into or administered by an agency not covered by the provisions of chapter 137 of title 10, United States Code, or title III of the Federal Property and Administrative Services Act of 1949 \[41 U.S.C. 251 et seq.\] and not covered by the Federal Acquisition Regulation unless the purchase is approved in advance by the Senior Acquisition Executive responsible for purchasing by the ordering agency or unit; and
-
-&emsp;“(4) prohibit any payment to the agency filling a purchase order of any fee that exceeds the actual cost or, if the actual cost is not known, the estimated cost of entering into and administering the contract or other agreement under which the order is filled.
-
-“(c)
-
-Monitoring System Required.—The Secretary of Defense shall ensure that, not later than one year after the date of the enactment of this Act \[Nov. 30, 1993\], systems of the Department of Defense for collecting and evaluating procurement data are capable of collecting and evaluating appropriate data on procurements conducted under the regulations prescribed pursuant to subsection (a).
-
-“(d)
-
-Termination.—This section shall cease to be effective one year after the date on which final regulations prescribed pursuant to subsection (a) take effect.”
+Pub. L. 103–160, div. A, title VIII, §844, Nov. 30, 1993, 107 Stat. 1720, directed Secretary of Defense, not later than six months after Nov. 30, 1993, to prescribe regulations governing exercise by Department of Defense of authority under this section to purchase goods and services under contracts entered into or administered by another agency, and provided for content of regulations, establishment of system to monitor procurements under regulations, and that section would cease to be effective one year after date on which final regulations took effect. Final regulations were published in the Federal Register Sept. 26, 1995, effective Oct. 1, 1995. See 60 F.R. 49720.
 
 #### Acquisition of Goods, Services, or Space by Secretary of Senate and Sergeant at Arms and Doorkeeper of Senate
 
@@ -202,5 +140,5 @@ Pub. L. 101–163, title I, §8, Nov. 21, 1989, 103 Stat. 1046, provided that:
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1536 of this title; title 2 sections 142j, 1385; title 7 section 5922; title 10 sections 377, 1104, 2205; title 16 section 825k; title 22 section 2358; title 24 section 168b; title 25 section 2804; title 29 section 563a; title 38 sections 1720A, 8110; title 40 sections 270f, 298b, 1104; title 41 section 261; title 42 section 254; title 43 section 1471c; title 48 section 1469d; title 50 section 414.
+This section is referred to in section 1536 of this title; title 2 sections 142j, 1385; title 7 section 5922; title 10 sections 377, 1104, 2205, 2684; title 16 section 825k; title 22 section 2358; title 24 section 168b; title 25 section 2804; title 29 section 563a; title 38 section 1720A; title 40 sections 270f, 298b, 1104; title 41 section 261; title 42 section 254; title 43 section 1471c; title 48 section 1469d; title 50 section 414.
 

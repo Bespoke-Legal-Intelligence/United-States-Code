@@ -2,7 +2,7 @@
 
 #### (a) Establishment; judicial circuit; terms of court
 
-There is established for and within the Northern Mariana Islands a court of record to be known as the District Court for the Northern Mariana Islands. The Northern Mariana Islands shall constitute a part of the same judicial circuit of the United States as Guam. Terms ofcourt shall be held on Saipan and at such other places and at such times as the court may designate by rule or order.
+There is established for and within the Northern Mariana Islands a court of record to be known as the District Court for the Northern Mariana Islands. The Northern Mariana Islands shall constitute a part of the same judicial circuit of the United States as Guam. Terms of court shall be held on Saipan and at such other places and at such times as the court may designate by rule or order.
 
 #### (b) Appointment, tenure, removal, compensation, etc., of District Court judge; appointment of United States attorney and United States marshal
 
@@ -54,7 +54,7 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 #### Extension of Term of District Judges
 
-Extension of term of district court judges to ten years applicable to judges holding office on Oct. 5, 1984,see section 1004 of Pub. L. 98–454, set out as a note under section 1424b of this title.
+Extension of term of district court judges to ten years applicable to judges holding office on Oct. 5, 1984, see section 1004 of Pub. L. 98–454, set out as a note under section 1424b of this title.
 
 #### Section Referred to in Other Sections
 

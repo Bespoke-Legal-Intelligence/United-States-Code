@@ -18,9 +18,7 @@ For purposes of this subpart, the term “accumulation distribution” means, fo
 
 > For purposes of section 667 (other than subsection (c) thereof, relating to multiple trusts), the amounts specified in paragraph (2) of section 661(a) shall not include amounts properly paid, credited, or required to be distributed to a beneficiary from a trust (other than a foreign trust) as income accumulated before the birth of such beneficiary or before such beneficiary attains the age of 21. If the amounts properly paid, credited, or required to be distributed by the trust for the taxable year do not exceed the income of the trust for such year, there shall be no accumulation distribution for such year.
 
-#### (c) Special rule applicable to distributions by certain foreign trusts
-
-For purposes of this subpart, any amount paid to a United States person which is from a payor who is not a United States person and which is derived directly or indirectly from a foreign trust created by a United States person shall be deemed in the year of payment to have been directly paid by the foreign trust.
+#### \[(c) Repealed. Pub. L. 104–188, title I, §1904(c)(2), Aug. 20, 1996, 110 Stat. 1912\]
 
 #### (d) Taxes imposed on the trust
 
@@ -32,7 +30,7 @@ For purposes of this subpart—
 
 #### (2) Foreign trusts
 
-&emsp;In the case of any foreign trust, the term “taxes imposed on the trust” includes the amount, reduced as provided in the last sentence of paragraph (1), of any income, war profits, and excess profits taxes imposed by any foreign country or possession of the United States on such foreign trust which, as determined under paragraph (1), are so properly allocable.
+&emsp;In the case of any foreign trust, the term “taxes imposed on the trust” includes the amount, reduced as provided in the last sentence of paragraph (1), of any income, warprofits, and excess profits taxes imposed by any foreign country or possession of the United States on such foreign trust which, as determined under paragraph (1), are so properly allocable. Under rules or regulations prescribed by the Secretary, in the case of any foreign trust of which the settlor or another person would be treated as owner of any portion of the trust under subpart E but for section 672(f), the term “taxes imposed on the trust” includes the allocable amount of any income, war profits, and excess profits taxes imposed by any foreign country or possession of the United States on the settlor or such other person in respect of trust income.
 
 #### (e) Preceding taxable year
 
@@ -42,13 +40,19 @@ For purposes of this subpart—
 
 &emsp;(2) In the case of a preceding taxable year with respect to which a trust qualified, without regard to this subpart, under the provisions of subpart B, for purposes of the application of this subpart to such trust for such taxable year, such trust shall, in accordance with regulations prescribed by the Secretary, be treated as a trust to which subpart C applies.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 223; Oct. 16, 1962, Pub. L. 87–834, §7(b), 76 Stat. 985; Dec. 30, 1969, Pub. L. 91–172, title III, §331(a), 83 Stat. 592; Dec. 10, 1971, Pub. L. 92–178, title III, §306(a), 85 Stat. 524; Oct. 4, 1976, Pub. L. 94–455, title VII, §§701(b), (c), (d)(2), (3), title XIX, §1906(b)(13)(A), 90 Stat. 1577, 1578, 1834; Nov. 6, 1978, Pub. L. 95–600, title VII, §701(q)(1)(A), 92 Stat. 2909; Oct. 22, 1986, Pub. L. 99–514, title XVIII, §1847(b)(16), 100 Stat. 2857; Nov. 5, 1990, Pub. L. 101–508, title XI, §11802(f)(2), 104 Stat. 1388–530.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 223; Oct. 16, 1962, Pub. L. 87–834, §7(b), 76 Stat. 985; Dec. 30, 1969, Pub. L. 91–172, title III, §331(a), 83 Stat. 592; Dec. 10, 1971, Pub. L. 92–178, title III, §306(a), 85 Stat. 524; Oct. 4, 1976, Pub. L. 94–455, title VII, §§701(b), (c), (d)(2), (3), title XIX, §1906(b)(13)(A), 90 Stat. 1577, 1578, 1834; Nov. 6, 1978, Pub. L. 95–600, title VII, §701(q)(1)(A), 92 Stat. 2909; Oct. 22, 1986, Pub. L. 99–514, title XVIII, §1847(b)(16), 100 Stat. 2857; Nov. 5, 1990, Pub. L. 101–508, title XI, §11802(f)(2), 104 Stat. 1388–530; Aug. 20, 1996, Pub. L. 104–188, title I, §1904(b)(1), (c)(2), 110 Stat. 1912.)
 
 #### References in Text
 
 Section 669, referred to in subsec. (d)(1), was repealed by Pub. L. 94–455, title VII, §701(d)(1), Oct. 4, 1976, 90 Stat. 1578.
 
 #### Amendments
+
+1996—Subsec. (c). Pub. L. 104–188, §1904(c)(2), struck out subsec. (c) which read as follows: “
+
+Special Rule Applicable to Distributions by Certain Foreign Trusts.—For purposes of this subpart, any amount paid to a United States person which is from a payor who is not a United States person and which is derived directly or indirectly from a foreign trust created by a United States person shall be deemed in the year of payment to have been directly paid by the foreign trust.”
+
+Subsec. (d)(2). Pub. L. 104–188, §1904(b)(1), inserted at end “Under rules or regulations prescribed by the Secretary, in the case of any foreign trust of which the settlor or another person would be treated as owner of any portion of the trust under subpart E but for section 672(f), the term ‘taxes imposed on the trust’ includes the allocable amount of any income, war profits, and excess profits taxes imposed by any foreign country or possession of the United States on the settlor or such other person in respect of trust income.”
 
 1990—Subsec. (e). Pub. L. 101–508 amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “For purposes of this subpart—
 
@@ -80,7 +84,7 @@ Subsecs. (f), (g). Pub. L. 94–455, §701(d)(3), struck out subsec. (f) which r
 
 Subsec. (b). Pub. L. 91–172 substituted “Accumulation distribution” for “Accumulation distributions of trusts other than certain foreign trusts” in heading, combined existing provisions of subsecs. (b) and (c) defining “accumulation distribution” in the case of a trust (other than a foreign trust created by a United States person) and of a foreign trust created by a United States person, respectively, in provisions now designated as pars. (1) and (2), deleting “the amount (if in excess of $2,000)” before “by which” in introductory text and inserting “(but not below zero)” in par. (2), and deleted second sentence providing that for purposes of this subsection, the amount specified in par. (2) of section 661(a) shall be determined without regard to section 666 and excepting from “accumulation distributions”: accumulations before birth or attainment of age 21; distributions for emergency needs; distributions, where beneficiary attained specified age or ages and there were not more than 4 distributions, at intervals of 4 or more years; and final distribution of trust was made more than 9 years after date of last transfer to the trust.
 
-Subsec. (c). Pub. L. 91–172 substituted “Special rule applicable to distributions by certain foreign trusts” for “Accumulation distribution of certain foreign trusts” in heading, inserted introductory phrase “For purposes of this subpart”, reenacted provisions of former third sentence as the subsection, struck outfirst sentence which defined in the case of a foreign trust created by a United States person the term “accumulation distribution”, (see subsec. (b) of this section), and deleted second sentence which stated that “For purposes of this subsection, the amount specified in paragraph (2) of section 661(a) shall be determined without regard to section 666.”
+Subsec. (c). Pub. L. 91–172 substituted “Special rule applicable to distributions by certain foreign trusts” for “Accumulation distribution of certain foreign trusts” in heading, inserted introductory phrase “Forpurposes of this subpart”, reenacted provisions of former third sentence as the subsection, struck out first sentence which defined in the case of a foreign trust created by a United States person the term “accumulation distribution”, (see subsec. (b) of this section), and deleted second sentence which stated that “For purposes of this subsection, the amount specified in paragraph (2) of section 661(a) shall be determined without regard to section 666.”
 
 Subsec. (d). Pub. L. 91–172 substituted “taxable year of the trust” for “taxable year on the trust”, “allocable to the undistributed portions of distributable net income and gains to excess of losses from sales or exchanges of capital assets” for “allocable to the undistributed portion of the distributable net income”, and “reduced by any amount of such taxes deemed distributed under section 666(b) and (c) or 669(d) and (e) to any beneficiary” for “reduced by any amount of such taxes allowed, under sections 667 and 668, as a credit to any beneficiary on account of any accumulation distribution determined for any taxable year”.
 
@@ -91,6 +95,10 @@ Subsecs. (f), (g). Pub. L. 91–172 added subsecs. (f) and (g).
 1962—Subsec. (b). Pub. L. 87–834, §7(b)(1), substituted “Accumulation distributions of trusts other than certain foreign trusts” for “Accumulation distribution” in heading, and inserted “in the case of a trust (other than a foreign trust created by a United States person),” after “purposes of this subpart,”.
 
 Subsecs. (c) to (e). Pub. L. 87–834, §7(b)(2), added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–188 effective Aug. 20, 1996, with exception for certain trusts, see section 1904(d) of Pub. L. 104–188, set out as a note under section 643 of this title.
 
 #### Effective Date of 1986 Amendment
 

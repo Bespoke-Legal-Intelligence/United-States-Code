@@ -2,7 +2,7 @@
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in section 1427 of this title.
+This subchapter is referred to in sections 1427, 7301 of this title.
 
 
 ---

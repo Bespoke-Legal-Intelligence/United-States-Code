@@ -186,7 +186,7 @@ For purposes of this section—
 
 #### (ii) Rate remains in effect so long as it falls within permissible range
 
-&emsp;&emsp;&emsp;Any rate selected by the taxpayer for the plan under this subparagraph shall remainin effect for such plan until the first taxable year for which such rate is no longer within the permissible range. At such time, the taxpayer shall select a new rate of interest which is within the permissible range applicable at such time.
+&emsp;&emsp;&emsp;Any rate selected by the taxpayer for the plan under this subparagraph shall remain in effect for such plan until the first taxable year for which such rate is no longer within the permissible range. At such time, the taxpayer shall select a new rate of interest which is within the permissible range applicable at such time.
 
 #### (iii) Permissible range
 
@@ -274,7 +274,7 @@ In general.—If—
 
 Prior deduction.—For purposes of subparagraph (A), the term ‘prior deduction’ means a deduction with respect to a qualified funded plan (within the meaning of section 404A(f)(1) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) of the taxpayer—
 
-&emsp;&emsp;“(i) which the taxpayer claimed for a taxable year (or could have claimed if the amendments made by this section \[enacting this section and section 6689 of this title and amending sections 679 and 905 of this title\] applied to taxable years beginning before January 1, 1980) beginning before January 1, 1980,
+&emsp;&emsp;“(i) which the taxpayer claimed for a taxable year (or could have claimed if the amendments made by this section \[enacting this section and section 6689of this title and amending sections 679 and 905 of this title\] applied to taxable years beginning before January 1, 1980) beginning before January 1, 1980,
 
 &emsp;&emsp;“(ii) which was not allowable, and
 
@@ -304,7 +304,7 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 419, 467, 679, 6689 of this title.
+This section is referred to in sections 419, 467, 6048, 6689 of this title.
 
 <i><sup>1</sup></i><i> So in original. The word “and” probably should not appear.</i>
 

@@ -42,7 +42,9 @@ Regulations.—Not later than December 18, 1992, the Secretary shall prescribe r
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

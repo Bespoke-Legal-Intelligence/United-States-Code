@@ -20,7 +20,7 @@
 
 &emsp;(B) procedures for determining whether child service agencies have, after placement of children in foster care, made reasonable efforts to reunite the family; and
 
-&emsp;(C) procedures for coordinating information and services among health professionals, social workers, law enforcement professionals, prosecutors, defense attorneys, and juvenileand family court personnel, consistent with subchapter I of this chapter.
+&emsp;(C) procedures for coordinating information and services among health professionals, social workers, law enforcement professionals, prosecutors, defense attorneys, and juvenile and family court personnel, consistent with subchapter I of this chapter.
 
 #### (c) Grant criteria
 

@@ -10,7 +10,7 @@ Rights-of-way through any Federal lands may be granted by the Secretary of the I
 
 (2) “Secretary” means the Secretary of the Interior.
 
-(3) “Agency head” means the head of any Federal department or independent Federal office oragency, other than the Secretary of the Interior, which has jurisdiction over Federal lands.
+(3) “Agency head” means the head of any Federal department or independent Federal office or agency, other than the Secretary of the Interior, which has jurisdiction over Federal lands.
 
 #### (c) Inter-agency coordination
 
@@ -32,7 +32,7 @@ Rights-of-way or permits granted or renewed pursuant to this section shall be su
 
 #### (g) Pipeline safety
 
-The Secretary or agency head shall impose requirements for the operation of the pipeline and related facilities in a manner that will protect the safety of workers and protect the public from sudden ruptures and slow degradation of the pipeline.
+The Secretary or agency head shall impose requirements for the operation of the pipeline and related facilities in a manner that will protectthe safety of workers and protect the public from sudden ruptures and slow degradation of the pipeline.
 
 #### (h) Environmental protection
 
@@ -46,7 +46,7 @@ If the applicant is a partnership, corporation, association, or other business e
 
 #### (j) Technical and financial capability
 
-The Secretary or agency head shall grant or renew a right-of-way or permit under this section only when he is satisfied that the applicant has the technical and financial capability toconstruct, operate, maintain, and terminate the project for which the right-of-way or permit is requested in accordance with the requirements of this section.
+The Secretary or agency head shall grant or renew a right-of-way or permit under this section only when he is satisfied that the applicant has the technical and financial capability to construct, operate, maintain, and terminate the project for which the right-of-way or permit is requested in accordance with the requirements of this section.
 
 #### (k) Public hearings
 
@@ -68,7 +68,7 @@ Each right-of-way or permit granted or renewed pursuant to this section shall be
 
 (1) Abandonment of a right-of-way or noncompliance with any provision of this section may be grounds for suspension or termination of the right-of-way if (A) after due notice to the holder of the right-of-way, (B) a reasonable opportunity to comply with this section, and (C) an appropriate administrative proceeding pursuant to section 554 of title 5, the Secretary or agency head determines that any such ground exists and that suspension or termination is justified. No administrative proceeding shall be required where the right-of-way by its terms provides that it terminates on the occurrence of a fixed or agreed upon condition, event, or time.
 
-(2) If the Secretary or agency head determines that an immediate temporary suspension of activities within a right-of-way or permit area is necessary to protect public health or safety or the environment, he may abate such activities prior to an administrative proceeding.
+(2) If the Secretary or agency head determines that an immediate temporary suspension of activities within a right-of-way or permit area is necessary to protect public health or safety orthe environment, he may abate such activities prior to an administrative proceeding.
 
 (3) Deliberate failure of the holder to use the right-of-way for the purpose for which it was granted or renewed for any continuous two-year period shall constitute a rebuttable presumption of abandonment of the right-of-way: <i>Provided</i>, That where the failure to use the right-of-way is due to circumstances not within the holder's control the Secretary or agency head is not required to commence proceedings to suspend or terminate the right-of-way.
 
@@ -122,7 +122,7 @@ No rights-of-way for the purposes provided for in this section shall be granted 
 
 #### (t) Existing rights-of-way
 
-The Secretary or agency head may ratify and confirm any right-of-way or permit for an oil or gas pipeline or related facility that was granted under any provision of law before the effective date of this subsection, if it is modified by mutual agreement to comply to the extent practical with the provisions of this section. Any action taken by the Secretary or agency head pursuant to this subsection shall not be considereda major Federal action requiring a detailed statement pursuant to section 102(2)(C) \[42 U.S.C. 4332(2)(C)\] of the National Environmental Policy Act of 1970 (Public Law 90–190; 42 U.S.C. 4321).
+The Secretary or agency head may ratify and confirm any right-of-way or permit for an oil or gas pipeline or related facility that was granted under any provision of law before the effective date of this subsection, if it is modified by mutual agreement to comply to the extent practical with the provisions of this section. Any action taken by the Secretary or agency head pursuant to this subsection shall not be considered a major Federal action requiring a detailed statement pursuant to section 102(2)(C) \[42 U.S.C. 4332(2)(C)\] of the National Environmental Policy Act of 1970 (Public Law 90–190; 42 U.S.C. 4321).
 
 #### (u) Limitations on export
 
@@ -160,7 +160,7 @@ The Secretary or agency head shall take into consideration and to the extent pra
 
 The grant of a right-of-way or permit pursuant to this section shall grant no immunity from the operation of the Federal antitrust laws.
 
-(Feb. 25, 1920, ch. 85, §28, 41 Stat. 449; Aug. 21, 1935, ch. 599, §1, 49 Stat. 678; Aug. 12, 1953, ch. 408, 67 Stat. 557; Nov. 16, 1973, Pub. L. 93–153, title I, §101, 87 Stat. 576; Aug. 4, 1977, Pub. L. 95–91, title III, §§301(b), 306, title IV, §402(a), (b), title VII, §§703, 707, 91 Stat. 578, 581, 583, 584, 606, 607; July 12, 1985, Pub. L. 99–64, title I, §123(b), 99 Stat. 156;Oct. 30, 1990, Pub. L. 101–475, §1, 104 Stat. 1102; Nov. 2, 1994, Pub. L. 103–437, §11(a)(1), 108 Stat. 4589; Nov. 28, 1995, Pub. L. 104–58, title II, §201, 109 Stat. 560; Dec. 21, 1995, Pub. L. 104–66, title I, §1121(k), 109 Stat. 724.)
+(Feb. 25, 1920, ch. 85, §28, 41 Stat. 449; Aug. 21, 1935, ch. 599, §1, 49 Stat. 678; Aug. 12, 1953, ch. 408, 67 Stat. 557; Nov. 16, 1973, Pub. L. 93–153, title I, §101, 87 Stat. 576; Aug. 4, 1977, Pub. L. 95–91, title III, §§301(b), 306, title IV, §402(a), (b), title VII, §§703, 707, 91 Stat. 578, 581, 583, 584, 606, 607; July 12, 1985, Pub. L. 99–64, title I, §123(b), 99 Stat. 156; Oct. 30, 1990, Pub. L. 101–475, §1, 104 Stat. 1102; Nov. 2, 1994, Pub. L. 103–437, §11(a)(1), 108 Stat. 4589; Nov. 28, 1995, Pub. L. 104–58, title II, §201, 109 Stat. 560; Dec. 21, 1995, Pub. L. 104–66, title I, §1121(k), 109 Stat. 724.)
 
 #### References in Text
 
@@ -176,7 +176,7 @@ The National Emergencies Act, referred to in subsec. (s)(3), is Pub. L. 94–412
 
 The Energy Policy and Conservation Act, referred to in subsec. (s)(3), is Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 871, as amended. Part B of title II of the Act is classified generally to part B (§6271 et seq.) of subchapter II of chapter 77 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 6201 of Title 42 and Tables.
 
-The Export Administration Act of 1979, referred to in subsec. (u), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, as amended, which is classified principally to section 2401 et seq. of to Title 50, Appendix War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 2401 of to Title 50, Appendix and Tables.
+The Export Administration Act of 1979, referred to in subsec. (u), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, as amended, which is classified principally to section 2401 et seq. of Title 50, Appendix, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 2401 of Title 50, Appendix, and Tables.
 
 The Federal antitrust laws, referred to in subsec. (y), are classified generally to chapter 1 (§1 et seq.) of Title 15, Commerce and Trade.
 
@@ -188,7 +188,7 @@ Subsec. (w)(4). Pub. L. 104–66 struck out par. (4) which read as follows: “T
 
 1994—Subsec. (w)(1), (2). Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs” before “of the United States House”.
 
-1990—Subsec. (w)(1). Pub. L. 101–475, §1(a), substituted “Committee on Interior and Insular Affairs of the United States House of Representatives and the Committee on Energy and Natural Resources of the United States Senate” for “House and Senate Committees on Interior and Insular Affairs”.
+1990—Subsec. (w)(1). Pub. L. 101–475, §1(a), substituted “Committee on Interior and Insular Affairs of theUnited States House of Representatives and the Committee on Energy and Natural Resources of the United States Senate” for “House and Senate Committees on Interior and Insular Affairs”.
 
 Subsec. (w)(2). Pub. L. 101–475, §1(b), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The Secretary or agency head shall notify the House and Senate Committees on Interior and Insular Affairs promptly upon receipt of an application for a right-of-way for a pipeline twenty-four inches or more in diameter, and no right-of-way for such a pipeline shall be granted until sixty days (not counting days on which the House of Representatives or the Senate has adjourned for more than three days) after a notice of intention to grant the right-of-way, together with the Secretary's or agency head's detailed findings as to terms and conditions he proposes to impose, has been submitted to such committees, unless each committee by resolution waives the waiting period.”
 
@@ -225,6 +225,34 @@ Contents of Report.—The report shall contain a statement of the principal find
 #### Outer Continental Shelf; Pipeline Rights-of-Way
 
 Pipeline rights-of-way in connection with oil, gas, and other leases on submerged lands of outer Continental Shelf, see section 1334 of Title 43, Public Lands.
+
+#### Exports of Alaskan North Slope (ANS) Crude Oil
+
+Memorandum of President of the United States, Apr. 28, 1996, 61 F.R. 19507, provided:
+
+Memorandum for the Secretary of Commerce \[and\] the Secretary of Energy
+
+Pursuant to section 28(s) of the Mineral Leasing Act, as amended, 30 U.S.C. 185, I hereby determine that exports of crude oil transported over right-of-way granted pursuant to section 203 of the Trans-Alaska Pipeline Authorization Act \[43 U.S.C. 1652\] are in the national interest. In making this determination, I have taken into account the conclusions of an interagency working group, which found that such oil exports:
+
+—will not diminish the total quantity or quality of petroleum available to the United States; and
+
+—are not likely to cause sustained material oil supply shortages or sustained oil price increases significantly above world market levels that would cause sustained material adverse employment effects in the United States or that would cause substantial harm to consumers, including those located in noncontiguous States and Pacific Territories.
+
+I have also considered the interagency group's conclusions regarding potential environmental impacts of lifting the ban. Based on their findings and recommendations, I have concluded that exports of such crude oil will not pose significant risks to the environment if certain terms and conditions are met.
+
+Therefore, pursuant to section 28(s) of the Mineral Leasing Act I direct the Secretary of Commerce to promulgate immediately a general license, or a license exception, authorizing exports of such crude oil, subject to appropriate documentation requirements, and consistent with the following conditions:
+
+—tankers exporting ANS exports must use the same route that they do for shipments to Hawaii until they reach a point 300 miles due south of Cape Hinchinbrook Light and then turn toward Asian destinations. After reaching that point, tankers in the ANS oil trade must remain outside of the 200 nautical-miles Exclusive Economic Zone of the United States as defined in the Fisheries Conservation and Management Act (16 U.S.C. 1811) \[probably means the Magnuson-Stevens Fishery Conservation and Management Act\]. This condition also applies to tankers returning from foreign ports to Valdez, Alaska. Exceptions can be made at the discretion of the vessel master only to ensure the safety of the vessel;
+
+—that export tankers be equipped with satellite-based communications systems that will enable the Coast Guard independently to determine their location. The Coast Guard will conduct appropriate monitoring of the tankers, a measure that will ensure compliance with the 200-mile condition, and help the Coast Guard respond quickly to any emergencies;
+
+—the owner or operator of an Alaskan North Slope crude oil export tankship shall maintain a Critical Area Inspection Plan for each tankship in the trade in accordance with the U.S. Coast Guard's Navigation and Inspection Circular No. 15–91 as amended, which shall include an annual internal survey of the vessel's cargo block tanks; and
+
+—the owner or operator of an Alaskan North Slope crude oil export tankship shall adopt a mandatory program of deep water ballast exchange (i.e., in 2,000 meters water depth). Exceptions can be made at the discretion of the captain only in order to ensure the safety of the vessel. Recordkeeping subject to Coast Guard audit will be required as part of this regime.
+
+The Secretary of Commerce is authorized and directed to inform the appropriate committees of the Congress of this determination and to publish it in the Federal Register.
+
+William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Cross References
 

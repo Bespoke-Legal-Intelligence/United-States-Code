@@ -44,7 +44,7 @@ Section 707a, act July 9, 1921, ch. 42, title II, §225, as added Nov. 26, 1941,
 
 Section 708, act July 9, 1921, ch. 42, title II, §214, 42 Stat. 112, authorized Commission to make loans from fund to lessee of any tract or successor to his interest therein.
 
-Section 709, acts July 9, 1921, ch. 42, title II, §215, 42 Stat. 112; Feb. 3, 1923, ch. 56, §3, 42 Stat. 1222; July 10, 1937, ch. 482, 50 Stat. 505; Nov. 26, 1941, ch. 544, §5, 55Stat. 785; June 14, 1948, ch. 464, §§4, 5, 62 Stat. 392; July 9, 1952, ch. 616, §§3, 4, 66 Stat. 514, set up conditions to be followed in contracts of loan.
+Section 709, acts July 9, 1921, ch. 42, title II, §215, 42 Stat. 112; Feb. 3, 1923, ch. 56, §3, 42 Stat. 1222; July 10, 1937, ch. 482, 50 Stat. 505; Nov. 26, 1941, ch. 544, §5, 55 Stat. 785; June 14, 1948, ch. 464, §§4, 5, 62 Stat. 392; July 9, 1952, ch. 616, §§3, 4, 66 Stat. 514, set up conditions to be followed in contracts of loan.
 
 Section 710, acts July 9, 1921, ch. 42, title II, §216, 42 Stat. 113; July 10, 1937, ch. 482, 50 Stat. 506; June 14, 1948, ch. 464, §6, 62 Stat. 393, gave Commission power to require borrower to insure all livestock and dwellings and other permanent improvements upon his tract purchased or constructed out of any moneys loaned from fund.
 

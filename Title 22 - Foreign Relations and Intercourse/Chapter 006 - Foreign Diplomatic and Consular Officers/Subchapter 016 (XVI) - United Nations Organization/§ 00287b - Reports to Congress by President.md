@@ -138,7 +138,7 @@ Notification and quarterly reports regarding united states assistance.—(A) The
 
 #### Designated Congressional Committees
 
-Section 415 of Pub. L. 103–236 provided that: “For purposes of this part \[part A (§§401 to 415) of title IV of Pub. L. 103–236, enacting section 2321n of this title,amending this section, enacting provisions set out as notes under this section and section 287e of this title, and amending provisions set out as notes under section 287e of this title\], the term ‘designated congressional committees’ means the Committee on Appropriations and the Committee on Foreign Relations of the Senate and the Committee on Appropriations and the Committee on Foreign Affairs \[now Committee on International Relations\] of the House of Representatives.”
+Section 415 of Pub. L. 103–236 provided that: “For purposes of this part \[part A (§§401 to 415) of title IV of Pub. L. 103–236, enacting section 2321n of this title, amending this section, enacting provisions set out as notes under this section and section 287e of this title, and amending provisions set out as notes under section 287e of this title\], the term ‘designated congressional committees’ means the Committee on Appropriations and the Committee on Foreign Relations of the Senate and the Committee on Appropriations and the Committee on Foreign Affairs \[now Committee on International Relations\] of the House of Representatives.”
 
 #### Report on Policies Pursued by Other Countries in International Organizations
 

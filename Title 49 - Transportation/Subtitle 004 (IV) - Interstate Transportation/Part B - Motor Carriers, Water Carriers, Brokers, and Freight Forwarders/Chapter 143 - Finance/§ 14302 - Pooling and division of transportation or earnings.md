@@ -26,11 +26,11 @@ Determination of importance and restraint on competition.—Prior to the effecti
 
 &emsp;(3)
 
-Hearing.—If the Board determines either that the agreement or combination is of major transportation importance or that there is substantial likelihood that the agreement or combination will unduly restrain competition, the Board shall hold a hearing concerning whether the agreement or combination will be in the interest of better service to the public or of economy in operation and whether it will unduly restrain competition and shall suspend operation of such agreement or combination pending such hearing and final decision thereon. After such hearing, the Board shall indicate to what extent it finds that the agreement or combination will be in the interest of better service to the public or of economy in operation and will not unduly restrain competition and if assented to by all the carriers involved, shall to that extent, approve and authorize the agreement or combination, under such rules and regulations as the Board may issue, and for such consideration between such carriers and upon such terms and conditions as shall be found by the Board to be just and reasonable.
+Hearing.—If the Board determines either that the agreement or combination is of major transportation importance or that there is substantial likelihood that the agreement or combination will unduly restrain competition, the Board shall hold a hearing concerning whether the agreement or combination will be in the interest of better service to the public or of economy in operation and whether it will unduly restrain competition and shall suspend operation of such agreement or combination pending such hearing and final decision thereon. After such hearing, the Board shall indicate to what extent it finds that the agreement or combination will be in the interest of better service to the public or of economy in operation and will not unduly restrain competition and if assented to by all the carriers involved, shall to that extent, approve and authorize the agreement or combination, undersuch rules and regulations as the Board may issue, and for such consideration between such carriers and upon such terms and conditions as shall be found by the Board to be just and reasonable.
 
 &emsp;(4)
 
-Special rules for household goods carriers.—In the case of an application for Board approval of an agreement or combination between a motor carrier providing transportation of household goods and its agents to pool or divide traffic or services or any part of their earnings, such agreement or combination shall be presumed to be in the interest of better service to the public and of economy in operation and not to restrain competition unduly if the practices proposed to be carried out under such agreement or combination are the same as or similar to practices carried outunder agreements and combinations between motor carriers providing transportation of household goods to pool or divide traffic or service of any part of their earnings approved by the Interstate Commerce Commission before the effective date of this section.
+Special rules for household goods carriers.—In the case of an application for Board approval of an agreement or combination between a motor carrier providing transportation of household goods and its agents to pool or divide traffic or services or any part of their earnings, such agreement or combination shall be presumed to be in the interest of better service to the public and of economy in operation and not to restrain competition unduly if the practices proposed to be carried out under such agreement or combination are the same as or similar to practices carried out under agreements and combinations between motor carriers providing transportation of household goods to pool or divide traffic or service of any part of their earnings approved by the Interstate Commerce Commission before January 1, 1996.
 
 &emsp;(5)
 
@@ -50,7 +50,7 @@ Effect of Approval.—A carrier may participate in an arrangement approved by or
 
 (g)
 
-Continuation of Existing Agreements.—Any agreements in operation under the provisions of this title on the effective date of this section that are succeeded by this section shall remain in effect until further order of the Board.
+Continuation of Existing Agreements.—Any agreements in operation under the provisions of this title on January 1, 1996, that are succeeded by this section shall remain in effect until further order of the Board.
 
 (h)
 
@@ -58,27 +58,45 @@ Definitions.—In this section, the following definitions apply:
 
 &emsp;(1)
 
-Household goods.—The term “household goods” has the meaning such term had under section 10102(11) of this title, as in effect on the day before the effective date of this section.
+Household goods.—The term “household goods” has the meaning such term had under section 10102(11) of this title, as in effect on December 31, 1995.
 
 &emsp;(2)
 
-Transportation.—The term “transportation” means transportation that would be subject to the jurisdiction of the Interstate Commerce Commission under subchapter II of chapter 105 of this title, as in effect on the day before such effective date, if such subchapter were still in effect.
+Transportation.—The term “transportation” means transportation that would be subject to the jurisdiction of the Interstate Commerce Commission under subchapter II of chapter 105 of this title, as in effect on December 31, 1995, if such subchapter were still in effect.
 
-(Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 895.)
+(Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 895; amended Pub. L. 104–287, §5(37), Oct. 11, 1996, 110 Stat. 3392.)
+
+#### Historical and Revision Notes
+
+I74Pub. L. 104–287, §5(37)(A), (B)
+
+This sets out the effective date of 49:14302.
+
+#### Pub. L. 104–287, §5(37)(C), (D)
+
+This amends 49:14302(h)(1) and (2) for clarity and consistency.
 
 #### References in Text
 
-For the effective date of this section, referred to in subsecs. (c)(4) and (g), as Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 701 of this title.
-
 The antitrust laws, referred to in subsec. (f), are classified generally to section 1 et seq. of Title 15, Commerce and Trade.
 
-Section 10102(11) of this title, as in effect on the day before the effective date of this section, referred to in subsec. (h)(1), means section 10102(11) of this title as in effect on the day before Jan. 1, 1996. Section 10102 was omitted and a new section 10102 enacted in the general amendment of this subtitle by Pub. L. 104–88, title I, §102(a), Dec. 20, 1995, 109 Stat. 804, 806, effective Jan. 1, 1996.
+Section 10102(11) of this title, referred to in subsec. (h)(1), was omitted and a new section 10102 enacted in the general amendment of this subtitle by Pub. L. 104–88, title I, §102(a), Dec. 20, 1995, 109 Stat. 804, 806, effective Jan. 1, 1996.
 
-Subchapter II of chapter 105 of this title, as in effect on the day before the effective date of this section, referred to in subsec. (h)(2), means subchapter II (§10521 et seq.) of chapter 105 of this title as in effect on the day before Jan. 1, 1996. That subchapter was omitted in the general amendment of this subtitle by Pub. L. 104–88, title I, §102(a), Dec. 29, 1995, 109 Stat. 804, effective Jan. 1, 1996.
+Subchapter II of chapter 105 of this title, referred to in subsec. (h)(2), was omitted in the general amendment of this subtitle by Pub. L. 104–88, title I, §102(a), Dec. 29, 1995, 109 Stat. 804, effective Jan. 1, 1996.
 
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in sections 11341 and 11342 of this title prior to the general amendment of this subtitle by Pub. L. 104–88, §102(a).
+
+#### Amendments
+
+1996—Subsec. (c)(4). Pub. L. 104–287, §5(37)(A), substituted “January 1, 1996” for “the effective date of this section”.
+
+Subsec. (g). Pub. L. 104–287, §5(37)(B), substituted “January 1, 1996,” for “the effective date of this section”.
+
+Subsec. (h)(1). Pub. L. 104–287, §5(37)(C), substituted “December 31, 1995” for “the day before the effective date of this section”.
+
+Subsec. (h)(2). Pub. L. 104–287, §5(37)(D), substituted “December 31, 1995” for “the day before such effective date”.
 
 #### Abolition of Interstate Commerce Commission
 

@@ -58,7 +58,7 @@ Each local educational agency receiving assistance under this part is encouraged
 
 #### (d) Parental participation
 
-Parents may participate in professional development activities under this part if the schooldetermines that parental participation is appropriate.
+Parents may participate in professional development activities under this part if the school determines that parental participation is appropriate.
 
 #### (e) Consortia
 

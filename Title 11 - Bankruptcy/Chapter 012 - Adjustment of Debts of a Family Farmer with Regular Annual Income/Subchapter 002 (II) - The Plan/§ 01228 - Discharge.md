@@ -1,6 +1,6 @@
 ### §1228. Discharge
 
-(a) As soon as practicable after completion by the debtor of all payments under the plan, other than payments to holders of allowed claims provided for under section 1222(b)(5) or 1222(b)(10) of this title, unless the court approves a written waiver of discharge executed by the debtor after the order for relief under this chapter, the court shall grant the debtor a discharge of all debts provided for by the plan allowed under section 503 of this title or disallowed under section 502 of this title, except any debt—
+(a) As soon as practicable after completion by the debtor of all payments under the plan, otherthan payments to holders of allowed claims provided for under section 1222(b)(5) or 1222(b)(10) of this title, unless the court approves a written waiver of discharge executed by the debtor after the order for relief under this chapter, the court shall grant the debtor a discharge of all debts provided for by the plan allowed under section 503 of this title or disallowed under section 502 of this title, except any debt—
 
 &emsp;(1) provided for under section 1222(b)(5) or 1222(b)(10) of this title; or
 

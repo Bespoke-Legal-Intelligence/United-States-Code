@@ -18,9 +18,17 @@ Construction or Modification of Facility on Leasehold.—The Secretary may provi
 
 (d)
 
-Expiration of Authority.—The authority of the Secretary of Defense to acquire a leasehold interest in real property under this section shall expire on September 30, 1995. The expiration of that authority shall not affect the validity of any contract entered into under this section on or before that date.
+Expiration of Authority.—The authority of the Secretary of Defense to acquire a leasehold interest in real property under this section shall expire on September 30, 2000. The expiration of that authority shall not affect the validity of any contract entered into under this section on or before that date.
 
-(Added Pub. L. 102–190, div. B, title XXVIII, §2863(a)(1), Dec. 5, 1991, 105 Stat. 1560; amended Pub. L. 103–160, div. B, title XXVIII, §2807(a), Nov. 30, 1993, 107 Stat. 1887.)
+(e)
+
+Reports.—Not later than March 1 of each year, the Secretary of Defense shall submit to the Committee on the Armed Services of the Senate and the Committee on National Security of the House of Representatives a report that—
+
+&emsp;(1) identifies each leasehold interest acquired during the previous fiscal year under subsection (a); and
+
+&emsp;(2) contains a discussion of each project for the construction or modification of facilities carried out pursuant to subsection (c) during such fiscal year.
+
+(Added Pub. L. 102–190, div. B, title XXVIII, §2863(a)(1), Dec. 5, 1991, 105 Stat. 1560; amended Pub. L. 103–160, div. B, title XXVIII, §2807(a), Nov. 30, 1993, 107 Stat. 1887; Pub. L. 104–106, div. B, title XXVIII, §2820(a), (b), Feb. 10, 1996, 110 Stat. 556.)
 
 #### Prior Provisions
 
@@ -28,13 +36,13 @@ A prior section 2680, added Pub. L. 87–651, title I, §112(c), Sept. 7, 1962, 
 
 #### Amendments
 
+1996—Subsec. (d). Pub. L. 104–106, §2820(a), substituted “September 30, 2000” for “September 30, 1995”.
+
+Subsec. (e). Pub. L. 104–106, §2820(b), added subsec. (e).
+
 1993—Subsec. (d). Pub. L. 103–160 substituted “September 30, 1995” for “September 30, 1993”.
 
 #### Reporting Requirement
 
-Section 2863(b) of Pub. L. 102–190, as amended by Pub. L. 103–160, div. B, title XXVIII, §2807(b), Nov. 30, 1993, 107 Stat. 1887, provided that: “Not later than March 1 of each of the years 1994, 1995, and 1996, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives \[now Committee on Armed Services of the Senate and Committee on National Security of the House of Representatives\] a report that—
-
-&emsp;“(1) identifies each leasehold interest acquired during the previous fiscal year by the Secretary under subsection (a) of section 2680 of title 10, United States Code, as added by subsection (a); and
-
-&emsp;“(2) contains a discussion of each project for the construction or modification of facilities carried out pursuant to subsection (c) of such section during such fiscal year.”
+Section 2863(b) of Pub. L. 102–190, as amended by Pub. L. 103–160, div. B, title XXVIII, §2807(b), Nov. 30, 1993, 107 Stat. 1887, required Secretary of Defense to submit reports for the years 1994, 1995, and 1996 to Congress identifying leasehold interest acquisitions and discussing projects for the construction or modification of facilities on leased property, prior to repeal by Pub. L. 104–106, div. B, title XXVIII, §2820(c), Feb. 10, 1996, 110 Stat. 556. See subsec. (e) of this section.
 

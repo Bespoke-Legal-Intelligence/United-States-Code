@@ -36,7 +36,9 @@ Applicability of paragraph (1).—This paragraph shall not limit the applicabili
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -60,7 +62,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §105(a)(1); added Oct. 24, 1978,
 
 &nbsp;
 
-49 App.:1551(b) (1)(E).
+49 App.:1551(b)(1)(E).
 
 Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1601(b)(1)(E); added Oct. 4, 1984, Pub. L. 98–443, §3(e), 98 Stat. 1704.
 
@@ -70,7 +72,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1601(b)(1)(E); added Oct. 4, 19
 
 &nbsp;
 
-49 App.:1551(b) (1)(E).
+49 App.:1551(b)(1)(E).
 
 In subsection (a), the words “the term” are omitted as surplus. The words “the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, Guam, the Virgin Islands, and” are omitted as surplus because of the definition of “territory or possession of the United States” in section 40102(a) of the revised title, 48:734, and section 502 of the Covenant to Establish a Commonwealth of the Northern Mariana Islands in Political Union with the United States of America. The text of 49 App.:1305(c) is omitted as obsolete.
 
@@ -96,7 +98,7 @@ Amendment by Pub. L. 103–305 effective Jan. 1, 1995, see section 601(d) of Pub
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 14501 of this title.
+This section is referred to in sections 14501, 40109, 46301 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

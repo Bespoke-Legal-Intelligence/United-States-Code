@@ -8,7 +8,7 @@ This chapter may be cited as the Federal Food, Drug, and Cosmetic Act.
 
 Act June 23, 1939, ch. 242, §§1, 2, 53 Stat. 853, 854, provided that:
 
-“\[Sec. 1\] (a) The effective date of the following provisions of the Federal Food, Drug, and Cosmetic Act is hereby postponed until January 1, 1940: Sections 402(c)\[342(c) of this title\]; 403(e)(1) \[343(e)(1) of this title\]; 403(g), (h), (i), (j), and (k) \[343(g) to (k) of this title\]; 501(a), (4) \[351(a)(4) of this title\]; 502(b), (d), (e), (f), (g), and (h) \[352(b), (d) to (h) of this title\]; 601(e) \[361(e) of this title\]; and 602(b) \[362(b) of this title\].
+“\[Sec. 1\] (a) The effective date of the following provisions of the Federal Food, Drug, and Cosmetic Act is hereby postponed until January 1, 1940: Sections 402(c) \[342(c) of this title\]; 403(e)(1) \[343(e)(1) of this title\]; 403(g), (h), (i), (j), and (k) \[343(g) to (k) of this title\]; 501(a), (4) \[351(a)(4) of this title\]; 502(b), (d), (e), (f), (g), and (h) \[352(b), (d) to (h) of this title\]; 601(e) \[361(e) of this title\]; and 602(b) \[362(b) of this title\].
 
 “(b) The Secretary of Agriculture shall promulgate regulations further postponing to July 1, 1940 the effective date of the provisions of sections 403(e)(1) \[343(e)(1) of this title\]; 403(g), (h), (i), (j), and (k) \[343(g) to (k)\]; 502(b), (d), (e), (f), (g), and (h) \[352(b), (d) to (h) of this title\]; and 602(b) \[362(b) of this title\] of such Act with respect to lithographed labeling which was manufactured prior to February 1, 1939, and to containers bearing labeling which, prior to February 1, 1939, was lithographed, etched, stamped, pressed, printed, fused or blown on or in such containers, where compliance with such provisions would be unduly burdensome by reason of causing the loss of valuable stocks of such labeling or containers, and where such postponement would not prevent the public interest being adequately served: Provided, That in no case shall such regulations apply to labeling which would not have complied with the requirements of the Food and Drugs Act of June 30, 1906, as amended.
 
@@ -29,6 +29,16 @@ Section 902(a) of act June 25, 1938, provided that: “This Act \[enacting this 
 #### Hazardous Substances
 
 Federal Hazardous Substances Act as not modifying this chapter, see Pub. L. 86–613, §18, July 12, 1960, 74 Stat. 380, set out as an Effect Upon Federal and State Laws note under section 1261 of Title 15, Commerce and Trade.
+
+#### Short Title of 1996 Amendments
+
+Pub. L. 104–250, §1(a), Oct. 9, 1996, 110 Stat. 3151, provided that: “This Act \[enacting section 354 of this title, amending sections 331, 353, and 360b of this title, and enacting provisions set out as notes under section 360b of this title\] may be cited as the ‘Animal Drug Availability Act of 1996’.”
+
+Pub. L. 104–170, title IV, §401(a), Aug. 3, 1996, 110 Stat. 1513, provided that: “This title \[amending sections 321, 331, 333, 342, and 346a of this title\] may be cited as the ‘Food Quality Protection Act of 1996’.”
+
+\[Another “Food Quality Protection Act of 1996”, was enacted by Pub. L. 104–170, §1, 110 Stat. 1489, which is set out as a note under section 136 of Title 7, Agriculture.\]
+
+Pub. L. 104–134, title II, §2101(a), Apr. 26, 1996, 110 Stat. 1321–313, provided that: “This chapter \[chapter 1A (§§2101–2105) of title II of Pub. L. 104–134, enacting section 382 of this title and amending sections 331 and 381 of this title and section 262 of Title 42, The Public Health and Welfare\] may be cited as the ‘FDA Export Reform and Enhancement Act of 1996’.”
 
 #### Short Title of 1994 Amendments
 

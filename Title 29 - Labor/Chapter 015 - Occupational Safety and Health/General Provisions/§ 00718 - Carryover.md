@@ -18,7 +18,7 @@ Such funds shall remain available for obligation and expenditure by a recipient 
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (a)(2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended,which is classified generally to chapter 7 (§301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (a)(2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended, which is classified generally to chapter 7 (§301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Amendments
 

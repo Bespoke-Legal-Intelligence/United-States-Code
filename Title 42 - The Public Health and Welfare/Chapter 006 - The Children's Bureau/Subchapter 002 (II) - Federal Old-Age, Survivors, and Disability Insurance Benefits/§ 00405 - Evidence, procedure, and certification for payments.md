@@ -76,7 +76,7 @@ The Commissioner of Social Security shall have full power and authority to make 
 
 (v) If and to the extent that any provision of Federal law heretofore enacted is inconsistent with the policy set forth in clause (i), such provision shall, on and after October 4, 1976, be null, void, and of no effect. If and to the extent that any such provision is inconsistent with the requirement set forth in clause (ii), such provision shall, on and after October 13, 1988, be null, void, and of no effect.
 
-(vi) For purposes of clause (i) of this subparagraph, an agency of a State (or political subdivision thereof) charged with the administration of any general public assistance, driver's license, or motor vehicle registration law which did not use the social security account number for identification under a law or regulation adopted before January 1, 1975, may require an individual to disclose his or her social security number to such agency solely for the purpose of administering the laws referred to in clause (i) above and for the purpose of responding to requests for information from an agency operating pursuant to the provisions of part A or D of subchapter IV of this chapter.
+(vi) For purposes of clause (i) of this subparagraph, an agency of a State (or political subdivision thereof) charged with the administration of any general public assistance, driver's license, or motor vehicle registration law which did not use the social security account number for identification under a law or regulation adopted before January 1, 1975, may require an individual to disclose his or her social security number to such agency solely for the purpose of administering the laws referred to in clause (i) above and for the purpose of responding to requests for information from an agency administering a program funded under part A of subchapter IV of this chapter or an agency operating pursuant to the provisions of part D of such subchapter.
 
 (vii) For purposes of this subparagraph, the term “State” includes the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, the Commonwealth of the Northern Marianas, and the Trust Territory of the Pacific Islands.
 
@@ -196,13 +196,13 @@ The findings and decision of the Commissioner of Social Security after a hearing
 
 #### (i) Certification for payment
 
-Upon final decision of the Commissioner of Social Security, or upon final judgment of any court of competent jurisdiction, that any person is entitled to any payment or payments under this subchapter, the Commissioner of Social Security shall certify to the Managing Trustee the name and address of the person so entitled to receive such payment or payments, the amount of such payment or payments, and the time at which such payment or payments should be made, and the Managing Trustee, through the Fiscal Service of the Department of the Treasury, and prior to any action thereon by the General Accounting Office, shall make payment in accordance with the certification of the Commissioner of Social Security (except that in the case of (A) an individual who will have completed ten years of service creditable under the Railroad Retirement Act of 1937 \[45 U.S.C. 228a et seq.\] or the Railroad Retirement Act of 1974 \[45 U.S.C. 231 et seq.\], (B) the wife or husband of such an individual, (C) any survivor of such an individual if such survivor is entitled, or could upon application become entitled, to an annuity under section 2 of the Railroad Retirement Act of 1974 \[45 U.S.C. 231a\], and (D) any other person entitled to benefits under section 402 of this title on the basis of the wages and self-employment income of such an individual (except a survivor of such an individual where such individual did not have a current connection with the railroad industry, as defined in the Railroad Retirement Act of 1974, at the time of his death), such certification shall be made to the Railroad Retirement Board which shall provide for such payment or payments to such person on behalf of the Managing Trustee in accordance with the provisions of the Railroad Retirement Act of 1974): <i>Provided,</i> That where a review of the Commissioner's decision is or may be sought under subsection (g) of this section the Commissioner of Social Security may withhold certification of payment pending such review. The Managing Trustee shall not be held personally liable for any payment or payments made in accordance with a certification by the Commissioner of Social Security.
+Upon final decision of the Commissioner of Social Security, or upon final judgment of any court of competent jurisdiction, that any person is entitled to any payment or payments under this subchapter, the Commissioner of Social Security shall certify to the Managing Trustee the name and address of the person so entitled to receive such payment or payments, the amount of such payment or payments, and the time at which such payment or payments should be made, and the Managing Trustee, through the Fiscal Service of the Department of the Treasury, and prior to any action thereon by the General Accounting Office, shall make payment in accordance with the certification of the Commissioner of Social Security (except that in the case of (A) an individual who will have completed ten years of service creditable under the Railroad Retirement Act of 1937 \[45 U.S.C. 228a et seq.\] or the Railroad Retirement Act of 1974 \[45 U.S.C. 231 et seq.\], (B) the wife or husband of such an individual, (C) any survivor of such an individual if such survivor is entitled, or could upon application become entitled, to an annuity under section 2 of the Railroad Retirement Act of 1974 \[45 U.S.C. 231a\], and (D) any other person entitled to benefits under section 402 of this title on the basis of the wages and self-employment income of such an individual (except a survivor of such an individual where such individual did not have a current connection with the railroad industry, as defined in the Railroad Retirement Act of 1974, at the time of his death), such certification shall be made to the Railroad Retirement Board which shall provide for such payment or payments to such person on behalf of the Managing Trustee in accordance with the provisions of the Railroad Retirement Act of 1974): <i>Provided</i>, That where a review of the Commissioner's decision is or may be sought under subsection (g) of this section the Commissioner of Social Security may withhold certification of payment pending such review. The Managing Trustee shall not be held personally liable for any payment or payments made in accordance with a certification by the Commissioner of Social Security.
 
 #### (j) Representative payees
 
 (1)(A) If the Commissioner of Social Security determines that the interest of any individual under this subchapter would be served thereby, certification of payment of such individual's benefit under this subchapter may be made, regardless of the legal competency or incompetency of the individual, either for direct payment to the individual, or for his or her use and benefit, to another individual, or an organization, with respect to whom the requirements of paragraph (2) have been met (hereinafter in this subsection referred to as the individual's “representative payee”). If the Commissioner of Social Security or a court of competent jurisdiction determines that a representative payee has misused any individual's benefit paid to such representative payee pursuant to this subsection or section 1383(a)(2) of this title, the Commissioner of Social Security shall promptly revoke certification for payment of benefits to such representative payee pursuant to this subsection and certify payment to an alternative representative payee or, if the interest of the individual under this subchapter would be served thereby, to the individual.
 
-(B) In the case of an individual entitled to benefits based on disability, if alcoholism or drug addiction is a contributing factor material to the Commissioner's determination that the individual is under a disability, certification of payment of such benefits to a representative payee shall be deemed to serve the interest of such individual under this subchapter. In any case in which such certification is so deemed under this subparagraph to serve the interest of an individual, the Commissioner of Social Security shall include, in such individual's notification of entitlement, a notice that alcoholism or drug addiction is a contributing factor material to the Commissioner's determination of such individual's disability and that the Commissioner of Social Security is therefore required to make a certification of payment of such individual's benefits to a representative payee.
+(B) In the case of an individual entitled to benefits based on disability, the payment of such benefits shall be made to a representative payee if the Commissioner of Social Security determines that such payment would serve the interest of the individual because the individual also has an alcoholism or drug addiction condition (as determined by the Commissioner) and the individual is incapable of managing such benefits.
 
 (2)(A) Any certification made under paragraph (1) for payment of benefits to an individual's representative payee shall be made on the basis of—
 
@@ -212,7 +212,7 @@ Upon final decision of the Commissioner of Social Security, or upon final judgme
 
 (B)(i) As part of the investigation referred to in subparagraph (A)(i), the Commissioner of Social Security shall—
 
-&emsp;(I) require the person being investigated to submit documented proof of the identity of such person, unless information establishingsuch identity has been submitted with an application for benefits under this subchapter or subchapter XVI of this chapter,
+&emsp;(I) require the person being investigated to submit documented proof of the identity of such person, unless information establishing such identity has been submitted with an application for benefits under this subchapter or subchapter XVI of this chapter,
 
 &emsp;(II) verify such person's social security account number (or employer identification number),
 
@@ -256,7 +256,7 @@ Upon final decision of the Commissioner of Social Security, or upon final judgme
 
 &emsp;(III) no other more suitable representative payee can be found.
 
-(v) In the case of an individual entitled to benefits based on disability, if alcoholism or drug addiction is a contributing factor material to the Commissioner's determination that the individual is under a disability, when selecting such individual's representative payee, preference shall be given to—
+(v) In the case of an individual described in paragraph (1)(B), when selecting such individual's representative payee, preference shall be given to—
 
 &emsp;(I) a community-based nonprofit social service agency licensed or bonded by the State,
 
@@ -270,11 +270,11 @@ Upon final decision of the Commissioner of Social Security, or upon final judgme
 
 (D)(i) Subject to clause (ii), if the Commissioner of Social Security makes a determination described in the first sentence of paragraph (1) with respect to any individual's benefit and determines that direct payment of the benefit to the individual would cause substantial harm to the individual, the Commissioner of Social Security may defer (in the case of initial entitlement) or suspend (in the case of existing entitlement) direct payment of such benefit to the individual, until such time as the selection of a representative payee is made pursuant to this subsection.
 
-(ii)(I) Except as provided in subclause (II), any deferral or suspension of direct payment of abenefit pursuant to clause (i) shall be for a period of not more than 1 month.
+(ii)(I) Except as provided in subclause (II), any deferral or suspension of direct payment of a benefit pursuant to clause (i) shall be for a period of not more than 1 month.
 
-(II) Subclause (I) shall not apply in any case in which the individual is, as of the date of the Commissioner's determination, legally incompetent, under the age of 15 years, or (if alcoholism or drug addiction is a contributing factor material to the Commissioner's determination that the individual is under a disability) is eligible for benefits under this subchapter by reason of disability..<sup>4</sup>
+(II) Subclause (I) shall not apply in any case in which the individual is, as of the date of the Commissioner's determination, legally incompetent, under the age of 15 years, or described in paragraph (1)(B).
 
-(iii) Payment pursuant to this subsection of any benefits which are deferred or suspended pending the selection of a representative payee shall be made to the individual or the representative payee as a single sum or over such period of time as the Commissioner of Social Security determines is in the best interest of the individual entitled to such benefits.
+(iii) Payment pursuant to this subsection of any benefits which are deferred or suspended pending the selection of a representative payee shall be made to the individual or the representative payee as a single sum or over such period of time as the Commissioner of Social Securitydetermines is in the best interest of the individual entitled to such benefits.
 
 (E)(i) Any individual who is dissatisfied with a determination by the Commissioner of Social Security to certify payment of such individual's benefit to a representative payee under paragraph (1) or with the designation of a particular person to serve as representative payee shall be entitled to a hearing by the Commissioner of Social Security to the same extent as is provided in subsection (b) of this section, and to judicial review of the Commissioner's final decision as is provided in subsection (g) of this section.
 
@@ -316,15 +316,15 @@ Upon final decision of the Commissioner of Social Security, or upon final judgme
 
 &emsp;(I) 10 percent of the monthly benefit involved, or
 
-&emsp;(II) $25.00 per month ($50.00 per month in any case in which the individual is entitled to benefits based on disability and alcoholism or drug addiction is a contributing factor material to the Commissioner's determination that the individual is under a disability).
+&emsp;(II) $25.00 per month ($50.00 per month in any case in which the individual is described in paragraph (1)(B)).
 
-> The Commissioner of Social Security shall adjust annually (after 1995) each dollar amount set forth in subclause (II) under procedures providing for adjustments in the same manner and to the same extent as adjustments are provided forunder the procedures used to adjust benefit amounts under section 415(i)(2)(A) of this title, except that any amount so adjusted that is not a multiple of $1.00 shall be rounded to the nearest multiple of $1.00. Any agreement providing for a fee in excess of the amount permitted under this subparagraph shall be void and shall be treated as misuse by such organization of such individual's benefits.
+> The Commissioner of Social Security shall adjust annually (after 1995) each dollar amount set forth in subclause (II) under procedures providing for adjustments in the same manner and to the same extent as adjustments are provided for under the procedures used to adjust benefit amounts under section 415(i)(2)(A) of this title, except that any amount so adjusted that is not a multiple of $1.00 shall be rounded to the nearest multiple of $1.00. Any agreement providing for a fee in excess of the amount permitted under this subparagraph shall be void and shall be treated as misuse by such organization of such individual's benefits.
 
 (ii) In the case of an individual who is no longer currently entitled to monthly insurance benefits under this subchapter but to whom all past-due benefits have not been paid, for purposes of clause (i), any amount of such past-due benefits payable in any month shall be treated as a monthly benefit referred to in clause (i)(I).
 
 (B) For purposes of this paragraph, the term “qualified organization” means any State or local government agency whose mission is to carry out income maintenance, social service, or health care-related activities, any State or local government agency with fiduciary responsibilities, or any community-based nonprofit social service agency which is bonded or licensed in each State in which it serves as a representative payee, if such agency, in accordance with any applicable regulations of the Commissioner of Social Security—
 
-&emsp;(i) regularly provides services as the representative payee, pursuant to this subsection or section 1383(a)(2) of this title, concurrently to 5 or more individuals,<sup>5</sup>
+&emsp;(i) regularly provides services as the representative payee, pursuant to this subsection or section 1383(a)(2) of this title, concurrently to 5 or more individuals,<sup>4</sup>
 
 &emsp;(ii) demonstrates to the satisfaction of the Commissioner of Social Security that such agency is not otherwise a creditor of any such individual.
 
@@ -334,7 +334,7 @@ Upon final decision of the Commissioner of Social Security, or upon final judgme
 
 (5) In cases where the negligent failure of the Commissioner of Social Security to investigate or monitor a representative payee results in misuse of benefits by the representative payee, the Commissioner of Social Security shall certify for payment to the beneficiary or the beneficiary's alternative representative payee an amount equal to such misused benefits. The Commissioner of Social Security shall make a good faith effort to obtain restitution from the terminated representative payee.
 
-(6) The Commissioner of Social Security shall include as a part of the annual report required under section 904 <sup>6</sup> of this title information with respect to the implementation of the preceding provisions of this subsection, including the number of cases in which the representative payee was changed, the number of cases discovered where there has been a misuse of funds, how any such cases were dealt with by the Commissioner of Social Security, the final disposition of such cases, including any criminal penalties imposed, and such other information as the Commissioner of Social Security determines to be appropriate.
+(6) The Commissioner of Social Security shall include as a part of the annual report required under section 904 <sup>5</sup> of this title information with respect to the implementation of the preceding provisions of this subsection, including the number of cases in which the representative payee was changed, the number of cases discovered where there has been a misuse of funds, how any such cases were dealt with by the Commissioner of Social Security, the final disposition of such cases, including any criminal penalties imposed, and such other information as the Commissioner of Social Security determines to be appropriate.
 
 (7) For purposes of this subsection, the term “benefit based on disability” of an individual means a disability insurance benefit of such individual under section 423 of this title or a child's, widow's, or widower's insurance benefit of such individual under section 402 of this title based on such individual's disability.
 
@@ -354,7 +354,7 @@ The Commissioner of Social Security may, in the Commissioner's discretion, certi
 
 #### (<i>o</i>) Crediting of compensation under Railroad Retirement Act
 
-If there is no person who would be entitled, upon application therefor, to an annuity under section 2 of the Railroad Retirement Act of 1974 \[45 U.S.C. 231a\], or to a lump-sum payment under section 6(b) of such Act \[45 U.S.C. 231e(b)\], with respect to the death of an employee (as defined in such Act), then, notwithstanding section 410(a)(9) of this title, compensation (as defined in such Railroad Retirement Act, but excluding compensation attributable as having been paid during any month on account of military service creditable under section 3(i) of such Act \[45 U.S.C. 231b(i)\] if wages are deemed to have been paid to such employee during such month under subsection (a) or (e) of section 417 of this title) of such employee shall constitute remuneration for employment for purposes of determining (A) entitlement to and the amount of any lump-sum death payment under this subchapter on the basis of such employee's wages and self-employment income and (B) entitlement to and the amount of any monthly benefit under this subchapter, for the month in which such employee died or for any month thereafter, on the basis of such wages and self-employment income. For such purposes, compensation (as so defined) paid in a calendar year before 1978 shall, in the absence of evidence to the contrary, be presumed to have been paid in equal proportions with respect to all months in the year in which the employee rendered services for such compensation.
+If there is no person who would be entitled, upon application therefor, to an annuity under section 2 of the Railroad Retirement Act of 1974 \[45 U.S.C. 231a\], or to a lump-sum payment under section 6(b) of such Act \[45 U.S.C. 231e(b)\], with respect to the death of an employee (as defined in such Act), then, notwithstanding section 410(a)(9) of this title, compensation (as defined in such Railroad Retirement Act, but excluding compensation attributable as having been paid during any month on account of military service creditable under section 3(i) of such Act \[45 U.S.C. 231b(i)\] if wages are deemed to have been paid to such employee during such month under subsection (a) or (e) of section 417 of this title) of such employee shall constitute remuneration for employment for purposes of determining (A) entitlement to and the amount of any lump-sum death payment under this subchapter on the basis of such employee's wages and self-employment income and (B) entitlement to and the amount of any monthly benefit under this subchapter, for the month in which such employee died or for any month thereafter, on the basis of such wages and self-employment income. For such purposes, compensation (as so defined) paid in a calendar year before 1978 shall, in the absence of evidence to the contrary, be presumed to have been paid in equal proportions with respect to all months in the year in whichthe employee rendered services for such compensation.
 
 #### (p) Special rules in case of Federal service
 
@@ -434,7 +434,7 @@ In any case in which an individual visits a field office of the Social Security 
 
 (1)(A) The Commissioner of Social Security shall immediately redetermine the entitlement of individuals to monthly insurance benefits under this subchapter if there is reason to believe that fraud or similar fault was involved in the application of the individual for such benefits, unless a United States attorney, or equivalent State prosecutor, with jurisdiction over potential or actual related criminal cases, certifies, in writing, that there is a substantial risk that such action by the Commissioner of Social Security with regard to beneficiaries in a particular investigation would jeopardize the criminal prosecution of a person involved in a suspected fraud.
 
-(B) When redetermining the entitlement, or making an initial determination of entitlement, of an individual under this subchapter, the Commissioner of Social Security shall disregard any evidence if there is reason to believe that fraud or similar fault was involved in the providing of such evidence.
+(B) When redetermining the entitlement, or making an initial determination of entitlement, of an individual under this subchapter, the Commissioner of Social Security shall disregard anyevidence if there is reason to believe that fraud or similar fault was involved in the providing of such evidence.
 
 (2) For purposes of paragraph (1), similar fault is involved with respect to a determination if—
 
@@ -444,7 +444,7 @@ In any case in which an individual visits a field office of the Social Security 
 
 (3) If, after redetermining pursuant to this subsection the entitlement of an individual to monthly insurance benefits, the Commissioner of Social Security determines that there is insufficient evidence to support such entitlement, the Commissioner of Social Security may terminate such entitlement and may treat benefits paid on the basis of such insufficient evidence as overpayments.
 
-(Aug. 14, 1935, ch. 531, title II, §205, 49 Stat. 624; Aug. 10, 1939, ch. 666, title II, §201, 53 Stat. 1362, 1368; June 25, 1948, ch. 646, §32(b), 62 Stat. 991; May 24, 1949, ch. 139, §127, 63 Stat. 107; Aug. 28, 1950, ch. 809, title I, §§101(b)(2), 108(a)–(c), 109(b), 64 Stat. 488, 518, 523; July 18, 1952, ch. 945, §5(b), 66 Stat. 775; Sept. 1, 1954, ch. 1206, title I, §101(a)(5), (c)(3), 68 Stat. 1052, 1054; Aug. 1, 1956, ch. 836, title I, §§107(b), 111(a), 117, 70 Stat. 829, 831, 834; Aug. 1, 1956, ch. 837, title IV, §402(b), 70 Stat. 871; June 11, 1960, Pub. L. 86–507, §1(35), 74 Stat. 202; Sept. 13, 1960, Pub. L. 86–778, title I, §§102(f)(2), 103(j)(2)(E), title VII, §702(a), 74 Stat. 933, 938, 993; Sept. 21, 1961, Pub. L. 87–293, title II, §202(b)(3), 75 Stat. 626; July 30, 1965, Pub. L. 89–97, title III, §§308(d)(9), (10), 330, 79 Stat. 379, 401, Jan. 2, 1968, Pub. L. 90–248, title I, §171(a), 81 Stat. 876; Oct. 15, 1970, Pub. L. 91–452, title II, §236, 84 Stat. 930; Oct. 30, 1972, Pub. L. 92–603, title I, §137, 86 Stat. 1364; Oct. 16, 1974, Pub. L. 93–445, title III, §§302(a), 303, 88 Stat. 1358; Jan. 2, 1976, Pub. L. 94–202, §4, 89 Stat. 1136; Oct. 4, 1976, Pub. L. 94–455, title XII, §1211(b), 90 Stat. 1711; Dec. 20, 1977, Pub. L. 95–216, title III, §353(f)(2), 91 Stat. 1554; Nov. 6, 1978, Pub. L. 95–600, title VII, §703(j)(14)(B), 92 Stat. 2942; June 9, 1980, Pub. L. 96–265, title III, §§305(a), 307, 94 Stat. 457, 458; Jan. 12, 1983, Pub. L. 97–455, §4(a), 96 Stat. 2499; Apr. 20, 1983, Pub. L. 98–21, title III, §§301(d), 309(i), 336, 345(a), 97 Stat. 111, 117, 130, 137; July 18, 1984, Pub. L. 98–369, div. B, title VI, §§2661(h), 2663(a)(4), (j)(4), 98 Stat. 1157, 1162, 1171; Oct. 9, 1984, Pub. L. 98–460, §16(a), 98 Stat. 1809; Oct. 21, 1986, Pub. L. 99–509, title IX, §9002(c)(2)(A), (B), 100 Stat. 1971; Oct. 13, 1988, Pub. L. 100–485, title I, §125(a), 102 Stat. 2353; Nov. 10, 1988, Pub. L. 100–647, title VIII, §§8008(a), 8009(a), 8015(a)(1), 8016(a)(1), 102 Stat. 3783, 3787, 3790, 3792; Dec. 19, 1989, Pub. L. 101–239, title X, §§10303(a), 10304, 103 Stat. 2482, 2483; Nov. 5, 1990, Pub. L. 101–508, title V, §§5105(a)(1)(A), (2)(A)(i), (3)(A)(i), (b)(1)(A), (c)(1), (d)(1)(A), 5107(a)(1), 5109(a)(1), 104 Stat. 1388–254, 1388–255, 1388–260, 1388–263, 1388–265, 1388–269, 1388–271; Nov. 28, 1990, Pub. L. 101–624, title XVII, §1735(a), (b), title XXII, §2201(b), (c), 104 Stat. 3791, 3792, 3951, 3952; Aug. 15, 1994, Pub. L. 103–296, title I, §107(a)(1), (2), (4), title II, §§201(a)(1)(A), (B), (2)(A)–(C), 206(a)(1), (d)(1), title III, §§304(a), 316(a), 318, 321(a)(7)–(11), (c)(3), (6)(B), (f)(2)(A), 108 Stat. 1477, 1478, 1490–1493, 1509, 1514, 1520, 1531, 1533, 1536, 1538, 1541.)
+(Aug. 14, 1935, ch. 531, title II, §205, 49 Stat. 624; Aug. 10, 1939, ch. 666, title II, §201, 53 Stat. 1362, 1368; June 25, 1948, ch. 646, §32(b), 62 Stat. 991; May 24, 1949, ch. 139, §127, 63 Stat. 107; Aug. 28, 1950, ch. 809, title I, §§101(b)(2), 108(a)–(c), 109(b), 64 Stat. 488, 518, 523; July 18, 1952, ch. 945, §5(b), 66 Stat. 775; Sept. 1, 1954, ch. 1206, title I, §101(a)(5), (c)(3), 68 Stat. 1052, 1054; Aug. 1, 1956, ch. 836, title I, §§107(b), 111(a), 117, 70 Stat. 829, 831, 834; Aug. 1, 1956, ch. 837, title IV, §402(b), 70 Stat. 871; June 11, 1960, Pub. L. 86–507, §1(35), 74 Stat. 202; Sept. 13, 1960, Pub. L. 86–778, title I, §§102(f)(2), 103(j)(2)(E), title VII, §702(a), 74 Stat. 933, 938, 993; Sept. 21, 1961, Pub. L. 87–293, title II, §202(b)(3), 75 Stat. 626; July 30, 1965, Pub. L. 89–97, title III, §§308(d)(9), (10), 330, 79 Stat. 379, 401, Jan. 2, 1968, Pub. L. 90–248, title I, §171(a), 81 Stat. 876; Oct. 15, 1970, Pub. L. 91–452, title II, §236, 84 Stat. 930; Oct. 30, 1972, Pub. L. 92–603, title I, §137, 86 Stat. 1364; Oct. 16, 1974, Pub. L. 93–445, title III, §§302(a), 303, 88 Stat. 1358; Jan. 2, 1976, Pub. L. 94–202, §4, 89 Stat. 1136; Oct. 4, 1976, Pub. L. 94–455, title XII, §1211(b), 90 Stat. 1711; Dec. 20, 1977, Pub. L. 95–216, title III, §353(f)(2), 91 Stat. 1554; Nov. 6, 1978, Pub. L. 95–600, title VII, §703(j)(14)(B), 92 Stat. 2942; June 9, 1980, Pub. L. 96–265, title III, §§305(a), 307, 94 Stat. 457, 458; Jan. 12, 1983, Pub. L. 97–455, §4(a), 96 Stat. 2499; Apr. 20, 1983, Pub. L. 98–21, title III, §§301(d), 309(i), 336, 345(a), 97 Stat. 111, 117, 130, 137; July 18, 1984, Pub. L. 98–369, div. B, title VI, §§2661(h), 2663(a)(4), (j)(4), 98 Stat. 1157, 1162, 1171; Oct. 9, 1984, Pub. L. 98–460, §16(a), 98 Stat. 1809; Oct. 21, 1986, Pub. L. 99–509, title IX, §9002(c)(2)(A), (B), 100 Stat. 1971; Oct. 13, 1988, Pub. L. 100–485, title I, §125(a), 102 Stat. 2353; Nov. 10, 1988, Pub. L. 100–647, title VIII, §§8008(a), 8009(a), 8015(a)(1), 8016(a)(1), 102 Stat. 3783, 3787, 3790, 3792; Dec. 19, 1989, Pub. L. 101–239, title X, §§10303(a), 10304, 103 Stat. 2482, 2483; Nov. 5, 1990, Pub. L. 101–508, title V, §§5105(a)(1)(A), (2)(A)(i), (3)(A)(i), (b)(1)(A), (c)(1), (d)(1)(A), 5107(a)(1), 5109(a)(1), 104 Stat. 1388–254, 1388–255, 1388–260, 1388–263, 1388–265, 1388–269, 1388–271; Nov. 28, 1990, Pub. L. 101–624, title XVII, §1735(a), (b), title XXII, §2201(b), (c), 104 Stat. 3791, 3792, 3951, 3952; Aug. 15, 1994, Pub. L. 103–296, title I, §107(a)(1), (2), (4), title II, §§201(a)(1)(A), (B), (2)(A)–(C), 206(a)(1), (d)(1), title III, §§304(a), 316(a), 318, 321(a)(7)–(11), (c)(3), (6)(B), (f)(2)(A), 108 Stat. 1477, 1478, 1490–1493, 1509, 1514, 1520, 1531, 1533, 1536, 1538, 1541; Mar. 29, 1996, Pub. L. 104–121, title I, §105(a)(2), 110 Stat. 852; Aug. 22, 1996, Pub. L. 104–193, title I, §108(a)(1), 110 Stat. 2164.)
 
 #### References in Text
 
@@ -464,11 +464,11 @@ The Longshore and Harbor Workers’ Compensation Act, referred to in subsec. (c)
 
 The Railroad Retirement Act of 1937, referred to in subsecs. (c)(5)(D) and (i), is act Aug. 29, 1935, ch. 812, 49 Stat. 867, as amended generally. See par. for Railroad Retirement Act of 1974 below.
 
-The Railroad Retirement Act of 1974, referred to in subsecs. (c)(5)(D), (i), and (<i>o</i>), is act Aug. 29, 1935, ch. 812, as amended generally by Pub. L. 93–445, title I, §101, Oct. 16, 1974, 88 Stat. 1305, which is classified generally to subchapter IV (§231 et seq.) of chapter 9 of Title 45, Railroads. Pub. L. 93–445 completely amended and revised the Railroad Retirement Act of 1937 (approved June 24, 1937, ch. 382, 50 Stat. 307), and as thus amended and revised, the 1937 Act was redesignated the Railroad Retirement Act of 1974. Previously, the 1937 Act had completely amended and revised the Railroad Retirement Act of 1935 (approved Aug. 29, 1935, ch. 812, 49 Stat. 967). Section 201 of the 1937 Act provided that the1935 Act, as in force prior to amendment by the 1937 Act, may be cited as the Railroad Retirement Act of 1935; and that the 1935 Act, as amended by the 1937 Act may be cited as the Railroad Retirement Act of 1937. The Railroad Retirement Acts of 1935 and 1937 were classified to subchapter II (§215 et seq.) and subchapter III (§228a et seq.), respectively, of chapter 9 of Title 45. For further details and complete classification of these Acts to the Code, see Codification note set out preceding section 231 of Title 45, section 231t of Title 45, and Tables.
+The Railroad Retirement Act of 1974, referred to in subsecs. (c)(5)(D), (i), and (<i>o</i>), is act Aug. 29, 1935, ch. 812, as amended generally by Pub. L. 93–445, title I, §101, Oct. 16, 1974, 88 Stat. 1305, which is classified generally to subchapter IV (§231 et seq.) of chapter 9 of Title 45, Railroads. Pub. L. 93–445 completely amended and revised the Railroad Retirement Act of 1937 (approved June 24, 1937, ch. 382, 50 Stat. 307), and as thus amended and revised, the 1937 Act was redesignated the Railroad Retirement Act of 1974. Previously, the 1937 Act had completely amended and revised the Railroad Retirement Act of 1935 (approved Aug. 29, 1935, ch. 812, 49 Stat. 967). Section 201 of the 1937 Act provided that the 1935 Act, as in force prior to amendment by the 1937 Act, may be cited as the Railroad Retirement Act of 1935; and that the 1935 Act, as amended by the 1937 Act may be cited as the Railroad Retirement Act of 1937. The Railroad Retirement Acts of 1935 and 1937 were classified to subchapter II (§215 et seq.) and subchapter III (§228a et seq.), respectively, of chapter 9 of Title 45. For further details and complete classification of these Acts to the Code, see Codification note set out preceding section 231 of Title 45, section 231t of Title 45, and Tables.
 
 Title VIII of the Social Security Act, referred to in subsec. (c)(5)(F)(i), was classified to subchapter VIII (§1001 et seq.) of this chapter, and has been omitted from the Code.
 
-Subchapter E of chapter 1 and subchapter A of chapter 9 of the Internal Revenue Code of 1939, referred to in subsec. (c)(5)(F)(i), were comprised of sections 480 to 482 and 1400 to 1432, respectively, and were repealed (subject to certain exceptions) by section 7851(a)(1)(A), (3) of the Internal Revenue Code of 1986.
+Subchapter E of chapter 1 and subchapter A of chapter 9 of the Internal Revenue Code of 1939, referred to in subsec. (c)(5)(F)(i), were comprised of sections 480 to 482 and 1400 to 1432, respectively, and were repealed\(subject to certain exceptions) by section 7851(a)(1)(A), (3) of the Internal Revenue Code of 1986.
 
 For provision deeming a reference in other laws to a provision of the 1939 Code as a reference to the corresponding provisions of the 1986 Code, see section 7852(b) of the 1986 Code. For table of comparisons of the 1939 Code to the 1986 Code, see table preceding section 1 of Title 26, Internal Revenue Code. The Internal Revenue Code of 1986 is classified generally to Title 26.
 
@@ -487,6 +487,16 @@ August 15, 1994, referred to in subsec. (c)(2)(E)(iii), was in the original “t
 In subsec. (g), act June 25, 1948, as amended by act May 24, 1949, substituted United States District Court for the District of Columbia, for District Court of the United States for the District of Columbia.
 
 #### Amendments
+
+1996—Subsec. (c)(2)(C)(vi). Pub. L. 104–193 inserted “an agency administering a program funded under part A of subchapter IV of this chapter or” before “an agency operating” and substituted “part D of such subchapter” for “part A or D of subchapter IV of this chapter”.
+
+Subsec. (j)(1)(B). Pub. L. 104–121, §105(a)(2)(A), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “In the case of an individual entitled to benefits based on disability, if alcoholism or drug addiction is a contributing factor material to the Commissioner's determination that the individual is under a disability, certification of payment of such benefits to a representative payee shall be deemed to serve the interest of such individual under this subchapter. In any case in which such certification is so deemed under this subparagraph to serve the interest of an individual, the Commissioner of Social Security shall include, in such individual's notification of entitlement, a notice that alcoholism or drug addiction is a contributing factor material to the Commissioner's determination of such individual's disability and that the Commissioner of Social Security is therefore required to make a certification of payment of such individual's benefits to a representative payee.”
+
+Subsec. (j)(2)(C)(v). Pub. L. 104–121, §105(a)(2)(B), substituted “described in paragraph (1)(B)” for “entitled to benefits based on disability, if alcoholism or drug addiction is a contributing factor material to the Commissioner's determination that the individual is under a disability”.
+
+Subsec. (j)(2)(D)(ii)(II). Pub. L. 104–121, §105(a)(2)(C), substituted “described in paragraph (1)(B).” for “(if alcoholism or drug addiction is a contributing factor material to the Commissioner's determination that the individual is under a disability) is eligible for benefits under this subchapter by reason of disability..”
+
+Subsec. (j)(4)(A)(i)(II). Pub. L. 104–121, §105(a)(2)(D), substituted “described in paragraph (1)(B)” for “entitled to benefits based on disability and alcoholism or drug addiction is a contributing factor material to the Commissioner's determination that the individual is under a disability”.
 
 1994—Subsec. (a). Pub. L. 103–296, §107(a)(4), substituted “Commissioner of Social Security” for “Secretary”.
 
@@ -762,7 +772,7 @@ Subsec. (n). Pub. L. 89–97, §330, provided that Secretary of the Treasury may
 
 Subsec. (d). Pub. L. 86–507 inserted “or by certified mail” after “registered mail” in two places.
 
-Subsec. (g). Pub. L. 86–778, §702(a), inserted sentence providing that any action instituted in accordance with this subsection shall survive notwithstanding any change in the person occupying the office of Secretary or any vacancy in such office.
+Subsec. (g). Pub. L. 86–778, §702(a), inserted sentence providing that any action instituted in accordance withthis subsection shall survive notwithstanding any change in the person occupying the office of Secretary or any vacancy in such office.
 
 Subsec. (p)(1). Pub. L. 86–778, §103(j)(2)(E), substituted “subsection (<i>l</i>)(1)” for “subsection (m)(1)”.
 
@@ -794,6 +804,18 @@ Subsecs. (<i>o</i>), (p). Act Aug. 28, 1950, §108(c), added subsecs. (<i>o</i>)
 
 1939—Act Aug. 10, 1939, omitted former section 405 relating to payments of $500 or less to estates, and added subsecs. (a) to (n).
 
+#### Effective Date of 1996 Amendments
+
+Amendment by Pub. L. 104–193 effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as an Effective Date note under section 601 of this title.
+
+Section 105(a)(5) of Pub. L. 104–121 provided that:
+
+“(A) The amendments made by paragraphs (1) and (4) \[amending sections 423 and 425 of this title\] shall apply to any individual who applies for, or whose claim is finally adjudicated by the Commissioner of Social Security with respect to, benefits under title II of the Social Security Act \[this subchapter\] based on disability on or after the date of the enactment of this Act \[Mar. 29, 1996\], and, in the case of any individual who has applied for, and whose claim has been finally adjudicated by the Commissioner with respect to, such benefits before such date of enactment, such amendments shall apply only with respect to such benefits for months beginning on or after January 1, 1997.
+
+“(B) The amendments made by paragraphs (2) and (3) \[amending this section and section 422 of this title\] shall apply with respect to benefits for which applications are filed after the third month following the month in which this Act is enacted \[March 1996\].
+
+“(C) Within 90 days after the date of the enactment of this Act \[Mar. 29, 1996\], the Commissioner of Social Security shall notify each individual who is entitled to monthly insurance benefits under title II of the Social Security Act based on disability for the month in which this Act is enacted and whose entitlement to such benefits would terminate by reason of the amendments made by this subsection \[amending this section and sections 422, 423, and 425 of this title\]. If such an individual reapplies for benefits under title II of such Act (as amended by this Act) based on disability within 120 days after the date of the enactment of this Act, the Commissioner of Social Security shall, not later than January 1, 1997, complete the entitlement redetermination (including a new medical determination) with respect to such individual pursuant to the procedures of such title.”
+
 #### Effective Date of 1994 Amendment
 
 Amendment by section 107(a)(1), (2), (4) of Pub. L. 103–296 effective Mar. 31, 1995, see section 110(a) of Pub. L. 103–296, set out as a note under section 401 of this title.
@@ -822,7 +844,7 @@ Section 201(a)(2)(D) of Pub. L. 103–296 provided that: “Except as provided i
 
 Section 206(a)(3) of Pub. L. 103–296 provided that: “The amendments made by this subsection \[amending this section and section 1383 of this title\] shall apply to translations made on or after October 1, 1994.”
 
-Section 206(d)(3) of Pub. L. 103–296 provided that: “The amendments made by this subsection \[amending this section and section 1383 of this title\] shall take effect on October 1, 1994, and shall apply to determinations made before, on, or after such date.”
+Section 206(d)(3) of Pub. L. 103–296 provided that: “The amendments made by this subsection \[amendingthis section and section 1383 of this title\] shall take effect on October 1, 1994, and shall apply to determinations made before, on, or after such date.”
 
 Section 304(c) of Pub. L. 103–296 provided that: “The amendments made by this section \[amending this section and section 1320b–10 of this title\] shall take effect on the date of the enactment of this Act \[Aug. 15, 1994\].”
 
@@ -920,7 +942,7 @@ Section 171(b) of Pub. L. 90–248 provided that: “The amendment made by subse
 
 #### Effective Date of 1965 Amendment
 
-Amendment by section 308(d)(9), (10) of Pub. L. 89–97 applicable with respect to monthly insurance benefitsunder this subchapter beginning with the second month following July 1965, but, in the case of an individual who was not entitled to a monthly insurance benefit under section 402 of this title for the first month following July 1965, only on the basis of an application filed in or after July 1965, see section 308(e) of Pub. L. 89–97, set out as a note under section 402 of this title.
+Amendment by section 308(d)(9), (10) of Pub. L. 89–97 applicable with respect to monthly insurance benefits under this subchapter beginning with the second month following July 1965, but, in the case of an individual who was not entitled to a monthly insurance benefit under section 402 of this title for the first month following July 1965, only on the basis of an application filed in or after July 1965, see section 308(e) of Pub. L. 89–97, set out as a note under section 402 of this title.
 
 #### Effective Date of 1961 Amendment
 
@@ -946,7 +968,7 @@ Section 101(n) of act Sept. 1, 1954, provided that: “The amendment made by par
 
 #### Effective Date of 1950 Amendment
 
-Section 108(d) of act Aug. 28, 1950, provided that: “The amendments made by subsections (a) and (c) of this section \[amending this section\] shall take effect on September 1, 1950. The amendment made by subsection (b) of this section \[amending this section\] shall take effect January 1, 1951, except that, effective on September 1, 1950, the husband or former wife divorced of an individual shall be treated the same as a parent of such individual, and the legal representative of an individual or his estate shall be treated the same as the individual, for purposes of section 205(c) of the Social Security Act \[subsec. (c) of this section\] as in effect prior to the enactment of this Act \[Aug. 28, 1950\].”
+Section 108(d) of act Aug. 28, 1950, provided that: “The amendments made by subsections (a) and (c) of thissection \[amending this section\] shall take effect on September 1, 1950. The amendment made by subsection (b) of this section \[amending this section\] shall take effect January 1, 1951, except that, effective on September 1, 1950, the husband or former wife divorced of an individual shall be treated the same as a parent of such individual, and the legal representative of an individual or his estate shall be treated the same as the individual, for purposes of section 205(c) of the Social Security Act \[subsec. (c) of this section\] as in effect prior to the enactment of this Act \[Aug. 28, 1950\].”
 
 Section 101(b)(2) of act Aug. 28, 1950, provided that: “Section 205(m) of the Social Security Act \[subsec. (m) of this section\] is repealed effective with respect to monthly payments under section 202 of the Social Security Act \[this section\], as amended by this Act, for months after August 1950.”
 
@@ -962,9 +984,51 @@ Section 202(b)(3) of Pub. L. 87–293, cited as a credit to this section, was re
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 
+#### Development of Prototype of Counterfeit-Resistant Social Security Card
+
+Pub. L. 104–208, div. C, title VI, §657, Sept. 30, 1996, 110 Stat. 3009–719, provided that:
+
+“(a)
+
+Development.—
+
+&emsp;“(1)
+
+In general.—The Commissioner of Social Security (in this section referred to as the ‘Commissioner’) shall, in accordance with the provisions of this section, develop a prototype of a counterfeit-resistant social security card. Such prototype card—
+
+&emsp;&emsp;“(A) shall be made of a durable, tamper-resistant material such as plastic or polyester;
+
+&emsp;&emsp;“(B) shall employ technologies that provide security features, such as magnetic stripes, holograms, and integrated circuits; and
+
+&emsp;&emsp;“(C) shall be developed so as to provide individuals with reliable proof of citizenship or legal resident alien status.
+
+&emsp;“(2)
+
+Assistance by attorney general.—The Attorney General shall provide such information and assistance as the Commissioner deems necessary to achieve the purposes of this section.
+
+“(b)
+
+Studies and Reports.—
+
+&emsp;“(1)
+
+In general.—The Comptroller General and the Commissioner of Social Security shall each conduct a study, and issue a report to the Congress, that examines different methods of improving the social security card application process.
+
+&emsp;“(2)
+
+Elements of studies.—The studies shall include evaluations of the cost and work load implications of issuing a counterfeit-resistant social security card for all individuals over a 3, 5, and 10 year period. The studies shall also evaluate the feasibility and cost implications of imposing a user fee for replacement cards and cards issued to individuals who apply for such a card prior to the scheduled 3, 5, and 10 year phase-in options.
+
+&emsp;“(3)
+
+Distribution of reports.—Copies of the reports described in this subsection, along with facsimiles of the prototype cards as described in subsection (a), shall be submitted to the Committees on Ways and Means and Judiciary of the House of Representatives and the Committees on Finance and Judiciary of the Senate not later than 1 year after the date of the enactment of this Act \[Sept. 30, 1996\].”
+
+Similar provisions were contained in the following prior act:
+
+Pub. L. 104–193, title I, §111, Aug. 22, 1996, 110 Stat. 2176.
+
 #### Ninety-Day Delay in Deferral or Suspension of Benefits for Current Beneficiaries
 
-Section 201(a)(1)(C) of Pub. L. 103–296 provided that: “In the case of an individual who, as of 180 days after the date of the enactment of this Act \[Aug. 15, 1994\], has been determined to be under a disability, if alcoholism or drug addiction is a contributing factor material to the determination of the Secretary of Health and Human Services that the individual is under a disability, the Secretary may, notwithstanding clauses (i) and (ii) of section 205(j)(2)(D) of the Social Security Act \[subsec. (j)(2)(D) of this section\], make direct payment of benefits to such individual during the 90-day period commencing with the date on which such individual is provided the notice described in subparagraph (D)(ii) of this paragraph \[set out above\], until such time during such period as the selection of a representative payee ismade pursuant to section 205(j) of such Act \[subsec. (j) of this section\].”
+Section 201(a)(1)(C) of Pub. L. 103–296 provided that: “In the case of an individual who, as of 180 days after the date of the enactment of this Act \[Aug. 15, 1994\], has been determined to be under a disability, if alcoholism or drug addiction is a contributing factor material to the determination of the Secretary of Health and Human Services that the individual is under a disability, the Secretary may, notwithstanding clauses (i) and (ii) of section 205(j)(2)(D) of the Social Security Act \[subsec. (j)(2)(D) of this section\], make direct payment of benefits to such individual during the 90-day period commencing with the date on which such individual is provided the notice described in subparagraph (D)(ii) of this paragraph \[set out above\], until such time during such period as the selection of a representative payee is made pursuant to section 205(j) of such Act \[subsec. (j) of this section\].”
 
 #### Study Regarding Feasibility, Cost, and Equity of Requiring Representative Payees for All Disability Beneficiaries Suffering From Alcoholism or Drug Addiction
 
@@ -988,7 +1052,7 @@ Report.—Not later than December 31, 1995, the Secretary shall transmit to the 
 
 #### Annual Reports on Reviews of OASDI and SSI Cases
 
-Section 206(g) of Pub. L. 103–296, as amended by Pub. L. 103–296, title I, §108(b)(10)(B), Aug. 15, 1994, 108 Stat. 1483, provided that: “The Commissioner of Social Security shall annually submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate a report on the extent to which the Commissioner has exercised his authority to review cases of entitlement to monthly insurance benefits under title II of the Social Security Act \[this subchapter\] and supplemental security income cases under title XVI of such Act \[subchapter XVI of this chapter\], and the extent to which the cases reviewed were those that involved a high likelihood or probability of fraud.”
+Section 206(g) of Pub. L. 103–296, as amended by Pub. L. 103–296, title I, §108(b)(10)(B), Aug. 15, 1994, 108 Stat.1483, provided that: “The Commissioner of Social Security shall annually submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate a report on the extent to which the Commissioner has exercised his authority to review cases of entitlement to monthly insurance benefits under title II of the Social Security Act \[this subchapter\] and supplemental security income cases under title XVI of such Act \[subchapter XVI of this chapter\], and the extent to which the cases reviewed were those that involved a high likelihood or probability of fraud.”
 
 #### Report on Feasibility of Obtaining Ready Access to Certain Criminal Fraud Records
 
@@ -1030,7 +1094,7 @@ Special procedures.—In such study, the Secretary shall determine the appropria
 
 “(C)
 
-High-risk representative payee.—For purposes of this paragraph, the term ‘high-risk representativepayee’ means a representative payee under section 205(j) or 1631(a)(2) of the Social Security Act (42 U.S.C. 405(j) and 1383(a)(2), respectively) (other than a Federal or State institution) who—
+High-risk representative payee.—For purposes of this paragraph, the term ‘high-risk representative payee’ means a representative payee under section 205(j) or 1631(a)(2) of the Social Security Act (42 U.S.C. 405(j) and 1383(a)(2), respectively) (other than a Federal or State institution) who—
 
 &emsp;“(i) regularly provides concurrent services as a representative payee under such section 205(j), such section 1631(a)(2), or both such sections, for 5 or more individuals who are unrelated to such representative payee,
 
@@ -1108,7 +1172,7 @@ Venue generally, see section 1391 et seq. of Title 28.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 402, 406, 408, 415, 416, 421, 423, 424a, 602, 1306, 1320a–7, 1320a–7a, 1320a–8, 1320b–10, 1320c–4, 1320c–5, 1383, 1395cc, 1395ff, 1395ii, 1395mm, 1395<i>oo</i>, 1395rr, 1395ww, 1396i, 1396q of this title; title 5 section 8503; title 7 section 1506; title 8 section 1324a; title 19 section 2312; title 26 section 6109; title 30 section 923.
+This section is referred to in sections 402, 406, 408, 415, 416, 421, 422, 423, 424a, 1306, 1320a–7, 1320a–7a, 1320a–8, 1320b–10, 1320c–4, 1320c–5, 1383, 1395cc, 1395ff, 1395ii, 1395mm, 1395<i>oo</i>, 1395rr, 1395ww, 1396i, 1396q of this title; title 5 section 8503; title 7 section 1506; title 8 section 1324a; title 19 section 2312; title 26 sections 32, 6109; title 30 section 923; title 31 section 3716.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
@@ -1116,9 +1180,7 @@ This section is referred to in sections 402, 406, 408, 415, 416, 421, 423, 424a,
 
 <i><sup>3</sup></i><i> See References in Text note below.</i>
 
-<i><sup>4</sup></i><i> So in original.</i>
+<i><sup>4</sup></i><i> So in original. Probably should be followed by “and”.</i>
 
-<i><sup>5</sup></i><i> So in original. Probably should be followed by “and”.</i>
-
-<i><sup>6</sup></i><i> See References in Text note below.</i>
+<i><sup>5</sup></i><i> See References in Text note below.</i>
 

@@ -4,6 +4,10 @@ In this subtitle, the term “State” includes the District of Columbia, the Co
 
 (Added Pub. L. 103–337, div. A, title XVI, §1661(a)(1), Oct. 5, 1994, 108 Stat. 2969.)
 
+#### Effective Date of 1996 Amendment
+
+Pub. L. 104–106, div. A, title XV, §1501(f)(2), Feb. 10, 1996, 110 Stat. 501, provided that: “The amendments made by sections 1672(a), 1673(a) (with respect to chapters 541 and 549), 1673(b)(2), 1673(b)(4), 1674(a), and 1674(b)(7) \[probably means sections 1672(a), 1673(a), (b)(2), (4), 1674(a) and (b)(7) of Pub. L. 103–337, which amended the tables of chapters for subtitle B, part II of subtitle B, subtitle C, part II of subtitle C, subtitle D, and part II of subtitle D of this title and the tables of sections for chapters 539, 573, and 861 of this title\] shall take effect on the effective date specified in section 1691(b)(1) of the Reserve Officer Personnel Management Act \[set out as a note below\] (notwithstanding section 1691(a) of such Act \[set out as a note below\]).”
+
 #### Effective Date
 
 Section 1691 of title XVI of div. A of Pub. L. 103–337 provided that:
@@ -22,9 +26,17 @@ Effective Date for New Reserve Officer Personnel Policies.—(1) The provisions 
 
 “(4) The authority to prescribe regulations under the provisions of part III of subtitle E of title 10, United States Code, as added by section 1611, shall take effect on the date of the enactment of this Act \[Oct. 5, 1994\].”
 
+#### Short Title of 1996 Amendment
+
+Pub. L. 104–201, div. A, title XII, §1201, Sept. 23, 1996, 110 Stat. 2689, provided that: “This title \[enacting chapter 1006 and sections 5143, 5144, and 10543 of this title, amending sections 113, 641, 3038, 8038, and 10216 of this title and section 404 of Title 37, Pay and Allowances of the Uniformed Services, enacting provisions set out as notes under this section and sections 10171 and 10543 of this title, and repealing provisions set out as a note under section 3074 of this title\] may be cited as the ‘Reserve Forces Revitalization Act of 1996’.”
+
 #### Short Title
 
 Section 1601 of title XVI of div. A of Pub. L. 103–337 provided that: “This title \[see Tables for classification\] may be cited as the ‘Reserve Officer Personnel Management Act’.”
+
+#### Congressional Statement of Purpose
+
+Pub. L. 104–201, div. A, title XII, §1202, Sept. 23, 1996, 110 Stat. 2689, provided that: “The purpose of this title \[see Short Title of 1996 Amendment note above\] is to revise the basic statutory authorities governing the organization and administration of the reserve components of the Armed Forces in order to recognize the realities of reserve component partnership in the Total Force and to better prepare the American citizen-soldier, sailor, airman, and Marine in time of peace for duties in war.”
 
 #### Preservation of Suspended Status of Laws Suspended on September 30, 1996
 

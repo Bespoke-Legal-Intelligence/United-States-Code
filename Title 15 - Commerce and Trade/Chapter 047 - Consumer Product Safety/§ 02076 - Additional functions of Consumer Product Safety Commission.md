@@ -66,7 +66,7 @@ The Commission may plan, construct, and operate a facility or facilities suitabl
 
 #### (j) Report to President and Congress
 
-The Commission shall prepare and submit to the President and the Congress at the beginningof each regular session of Congress a comprehensive report on the administration of this chapter for the preceding fiscal year. Such report shall include—
+The Commission shall prepare and submit to the President and the Congress at the beginning of each regular session of Congress a comprehensive report on the administration of this chapter for the preceding fiscal year. Such report shall include—
 
 &emsp;(1) a thorough appraisal, including statistical analyses, estimates, and long-term projections, of the incidence of injury and effects to the population resulting from consumer products, with a breakdown, insofar as practicable, among the various sources of such injury;
 
@@ -108,7 +108,7 @@ The Commission shall prepare and submit to the President and the Congress at the
 
 (2) Whenever the Commission submits any legislative recommendations, or testimony, or comments on legislation to the President or the Office of Management and Budget, it shall concurrently transmit a copy thereof to the Congress. No officer or agency of the United States shall have any authority to require the Commission to submit its legislative recommendations, or testimony, or comments on legislation, to any officer or agency of the United States for approval, comments, or review, prior to the submission of such recommendations, testimony, or comments to the Congress.
 
-(Pub. L. 92–573, §27, Oct. 27, 1972, 86 Stat. 1227; Pub. L. 94–273, §31, Apr. 21, 1976, 90 Stat. 380; Pub. L. 94–284, §§8(b), 11(c), (d), 14, May 11, 1976, 90 Stat. 506–509; Pub. L. 95–631, §11, Nov. 10, 1978, 92 Stat. 3748; Pub. L. 97–35, title XII, §§1207(b), 1208, 1209(c), 1211(d), Aug. 13, 1981, 95 Stat. 718, 720, 721.)
+(Pub. L. 92–573, §27, Oct. 27, 1972, 86 Stat. 1227; Pub. L. 94–273, §31, Apr. 21, 1976, 90 Stat. 380; Pub. L. 94–284, §§8(b), 11(c), (d), 14, May 11, 1976, 90 Stat. 506–509; Pub. L. 95–631, §11, Nov. 10, 1978, 92 Stat. 3748; Pub. L. 97–35, title XII, §§1207(b),1208, 1209(c), 1211(d), Aug. 13, 1981, 95 Stat. 718, 720, 721.)
 
 #### Codification
 
@@ -134,7 +134,7 @@ Subsec. (c). Pub. L. 94–284, §11(d), substituted “(subject to subsection (b
 
 Subsec. (j). Pub. L. 94–273 substituted “at the beginning of each regular session of Congress” for “on or before October 1 of each year”.
 
-Subsec. (<i>l</i>). Pub. L. 94–284, §14, added subsec. (<i>l).</i>
+Subsec. (<i>l</i>). Pub. L. 94–284, §14, added subsec. (<i>l</i>).
 
 #### Effective Date of 1981 Amendment
 

@@ -2,7 +2,7 @@
 
 #### (a) Financial assistance
 
-As a demonstration of the commitment of the United States to the worldwide protection of endangered species and threatened species, the President may, subject to the provisions of section 1306 of title 31, use foreign currencies accruing to the United States Government under the Agricultural Trade Development and Assistance Act of 1954 \[7 U.S.C. 1691 et seq.\] or any other law to provide to any foreign country (with its consent) assistance in the development and management of programs in that country which the Secretary determines to be necessary or useful for the conservation of any endangered species or threatened species listed by the Secretary pursuant to section 1533 of this title. The President shall provide assistance (which includes, but is not limited to, the acquisition, by lease or otherwise, of lands, waters, or interests therein) to foreign countries under this section under such terms and conditions as he deems appropriate. Whenever foreign currencies are available for the provision of assistance under this section, such currencies shall be used in preference to funds appropriated under the authority of section 1542 of this title.
+As a demonstration of the commitment of the United States to the worldwide protection of endangered species and threatened species, the President may, subject to the provisions of section 1306 of title 31, use foreign currencies accruing to the United States Government under the Agricultural Trade Development and Assistance Act of 1954 \[7 U.S.C. 1691 et seq.\] or any other law to provide to any foreign country (with its consent) assistance in the development and management of programs in that country which the Secretary determines to be necessary or useful for the conservation of any endangered species or threatened species listed by the Secretary pursuant to section 1533 of this title. The President shall provide assistance (which includes, but is not limited to, the acquisition, by lease or otherwise, of lands, waters, or interests therein) to foreign countries under this section under such terms and conditions as he deems appropriate. Whenever foreign currencies are available for the provision of assistance underthis section, such currencies shall be used in preference to funds appropriated under the authority of section 1542 of this title.
 
 #### (b) Encouragement of foreign programs
 
@@ -58,7 +58,7 @@ Pub. L. 101–162, title VI, §609, Nov. 21, 1989, 103 Stat. 1037, provided that
 
 &emsp;“(3) encourage such other agreements to promote the purposes of this section with other nations for the protection of specific ocean and land regions which are of special significance to the health and stability of such species of sea turtles;
 
-&emsp;“(4) initiate the amendment of any existing international treaty for the protection and conservationof such species of sea turtles to which the United States is a party in order to make such treaty consistent with the purposes and policies of this section; and
+&emsp;“(4) initiate the amendment of any existing international treaty for the protection and conservation of such species of sea turtles to which the United States is a party in order to make such treaty consistent with the purposes and policies of this section; and
 
 &emsp;“(5) provide to the Congress by not later than one year after the date of enactment of this section \[Nov. 21, 1989\]—
 

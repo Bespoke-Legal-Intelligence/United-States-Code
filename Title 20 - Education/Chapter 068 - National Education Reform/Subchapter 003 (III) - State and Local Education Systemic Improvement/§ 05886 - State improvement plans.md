@@ -6,61 +6,7 @@ Except as provided in section 5885(c)(2) of this title and consistent with the r
 
 #### (b) Plan development
 
-#### (1) In general
-
-&emsp;A State improvement plan under this subchapter shall be developed by a broad-based State panel in cooperation with the State educational agency and the Governor. The panel shall include—
-
-&emsp;&emsp;(A) the Governor and the chief State school officer, or their designees;
-
-&emsp;&emsp;(B) the chairperson of the State board of education and the chairpersons of the appropriate authorizing committees of the State legislature, or their designees;
-
-&emsp;&emsp;(C) teachers, principals, and administrators who have successfully improved student performance, and deans or senior administrators of a college, school, or department of education;
-
-&emsp;&emsp;(D) representatives of teacher's organizations, parents, secondary school students, institutions of higher education, business and labor leaders, community-based organizations of demonstrated effectiveness, organizations serving young children, local boards of education, State and local officials responsible for health, social, and other related services, private schools in which students or teachers participate in Federal education programs, and, as appropriate, Indian tribes and others;
-
-&emsp;&emsp;(E) representatives from rural and urban local educational agencies in the State, as appropriate; and
-
-&emsp;&emsp;(F) experts in educational measurement and assessment.
-
-#### (2) Appointment
-
-&emsp;The Governor and the chief State school officer shall each appoint half the members of the panel and shall jointly select the Chairperson of the panel and the representative of private schools described in paragraph (1)(D).
-
-#### (3) Representation
-
-&emsp;(A) To the extent feasible, the membership of the panel shall be geographically representative of the State and reflect the diversity of the population of the State with regard to race, ethnicity, gender, and disability characteristics.
-
-&emsp;(B) The membership of the panel shall be composed so that the minimum total number of members of the panel with expertise or background in the educational needs or assessments of children from low-income families, children with minority backgrounds, children with limited-English proficiency, or children with disabilities, serving on the panel—
-
-&emsp;&emsp;(i) bears the same relation to the total number of members serving on the panel as the total number of all such children in the State bears to the total number of all children in the State; or
-
-&emsp;&emsp;(ii) is at least one-third of the number of members of the panel,
-
-> &emsp;whichever is less.
-
-#### (4) Consultation
-
-&emsp;The panel shall consult the Governor, the chief State school officer, the State board of education, and relevant committees of the State legislature in developing the State improvement plan.
-
-#### (5) Outreach
-
-&emsp;The panel shall be responsible for conducting a statewide, grassroots outreach process, including conducting public hearings, to involve educators, related services personnel, parents, local officials, tribal government officials as appropriate, individuals representing private nonprofit elementary and secondary schools, community and business leaders, citizens, children's advocates, secondary school students, and others with a stake in the success of students and their education system, and who are representative of the diversity of the State and the State's student population, including, students of limited-English proficiency, students with disabilities, and, as appropriate, American Indian, Alaska Native, and Native Hawaiian students, in the development of the State improvement plan and in a continuing dialogue regarding the need for and nature of standards for students and local and State responsibilities for helping all students achieve such standards in order to assure that the development and implementation of the State improvement plan reflects local needs and experiences and does not result in a significant increase in paperwork for teachers.
-
-#### (6) Procedure and approval
-
-&emsp;The panel shall develop a State improvement plan, provide opportunity for public comment, and submit such plan to the State educational agency for approval.
-
-#### (7) Submission
-
-&emsp;The State educational agency shall submit the original State improvement plan developed by the panel and the State improvement plan if modified by such agency, together with an explanation of any changes made by such agency to the plan developed by the panel, to the Secretary for approval.
-
-#### (8) Matters not under the jurisdiction of the State educational agency
-
-&emsp;If any portion of a State improvement plan addresses matters that, under State or other applicable law, are not under the authority of the State educational agency, the State educational agency shall obtain the approval of, or changes to, such portion, with an explanation thereof, from the Governor or other official responsible for that portion before submitting such plan to the Secretary.
-
-#### (9) Monitoring; revisions; reporting
-
-&emsp;After approval of the State improvement plan by the Secretary, the panel shall be informed of progress on such plan by the State educational agency, and such agency, in close consultation with teachers, principals, administrators, advocates and parents in local educational agencies and schools receiving funds under this subchapter, shall monitor the implementation and operation of such plan. The panel shall review such plan, and based on the progress described in the preceding sentence, determine if revisions to such plan are appropriate and necessary. The panel shall periodically report such determination to the public.
+A State improvement plan under this subchapter shall be developed by a broad-based State panel in cooperation with the State educational agency and the Governor.
 
 #### (c) Teaching, learning, standards, and assessments
 
@@ -94,7 +40,7 @@ Each State educational agency, with broad-based classroom teacher input, shall e
 
 &emsp;&emsp;(C) a process for aligning State or local curricula, instructional materials, and State assessments with the State content standards and State student performance standards; and
 
-&emsp;&emsp;(D) a process for familiarizing teachers with the State content standards and State student performance standards and developing the capability of teachers to provide high quality instruction within the content areas described in the matter preceding paragraph (1) of this subsection;
+&emsp;&emsp;(D) a process for familiarizing teachers with the State content standards and Statestudent performance standards and developing the capability of teachers to provide high quality instruction within the content areas described in the matter preceding paragraph (1) of this subsection;
 
 &emsp;(2) may include strategies such as—
 
@@ -108,23 +54,7 @@ Each State educational agency, with broad-based classroom teacher input, shall e
 
 &emsp;&emsp;(E) a process for improving the State's system of teacher and school administrator preparation and licensure, and of continuing professional development programs, including the use of technology at both the State and local levels, so that all teachers, related services personnel, and administrators develop the subject matter and pedagogical expertise needed to prepare all students to meet State content standards and State student performance standards.
 
-#### (d) Opportunity-to-learn standards and strategies
-
-#### (1) In general
-
-&emsp;Each State improvement plan shall establish standards or strategies for providing all students with an opportunity to learn. Such standards or strategies shall include such factors as the State deems appropriate to ensure that all students receive a fair opportunity to achieve the knowledge and skills as described in State content standards and State student performance standards adopted by the State.
-
-#### (2) Implementation
-
-&emsp;Notwithstanding any other provision of this chapter, the implementation of opportunity-to-learn standards or strategies shall be voluntary on the part of the States, local educational agencies, and schools.
-
-#### (3) Construction
-
-&emsp;Nothing in this section shall be construed to—
-
-&emsp;&emsp;(A) mandate equalized spending per pupil for a State, local educational agency, or school; or
-
-&emsp;&emsp;(B) mandate national school building standards for a State, local educational agency, or school.
+#### (d) Repealed. Pub. L. 104–134, title I, §101(d) \[title VII, §702(a)(1)(B)\], Apr. 26, 1996, 110 Stat. 1321–211, 1321–251; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327
 
 #### (e) Governance, accountability and management
 
@@ -220,9 +150,27 @@ Each State improvement plan shall describe—
 
 &emsp;&emsp;(B) a hearing.
 
+#### (4) Alternative submission
+
+#### (A) In general
+
+&emsp;&emsp;Notwithstanding any other provision of this subchapter, any State educational agency that wishes to receive an allotment under this subchapter after the first year such State educational agency receives such an allotment may, in lieu of submitting its State improvement plan for approval by the Secretary under this subsection and section 5885(c)(2) of this title, or submitting major amendments to the Secretary under subsection (p) of this section, provide the Secretary, as part of an application under section 5885(c) of this title or as an amendment to a previously approved application—
+
+&emsp;&emsp;&emsp;(i) an assurance, from the Governor and the chief State school officer of the State, that—
+
+&emsp;&emsp;&emsp;&emsp;(I) the State has a plan that meets the requirements of this section and that is widely available throughout the State; and
+
+&emsp;&emsp;&emsp;&emsp;(II) any amendments the State makes to the plan will meet the requirements of this section; and
+
+&emsp;&emsp;&emsp;(ii) the State's benchmarks of improved student performance and of progress in implementing the plan, and the timelines against which the State's progress in carrying out the plan can be measured.
+
+#### (B) Annual report
+
+&emsp;&emsp;Any State educational agency that chooses to use the alternative method described in paragraph (1) shall annually report to thepublic summary information on the use of funds under this subchapter by the State and local educational agencies in the State, as well as the State's progress toward meeting the benchmarks and timelines described in subparagraph (A)(ii).
+
 #### (<i>o</i>) Regular review
 
-Each State improvement plan shall include a process for periodically reviewing and updating any State content standards, State student performance standards, State opportunity-to-learn standards or strategies, and State assessments.
+Each State improvement plan shall include a process for periodically reviewing and updating any State content standards, State student performance standards, and State assessments.
 
 #### (p) Amendments to plan
 
@@ -246,17 +194,31 @@ Each State improvement plan shall include a process for periodically reviewing a
 
 #### (2) Special rule
 
-&emsp;(A) <sup>1</sup> If, before March 31, 1994, a State has made substantial progress in developing a plan that meets the intent and purposes of this section, but was developed by a panel that does not meet the requirements of paragraphs (1) through (3) of subsection (b) of this section, the Secretary may, at the request of the Governor and the State educational agency, treat such panel as meeting the requirements of this subchapter if the Secretary determines that there has been statewide involvement of educators, parents, students, advocacy groups, and other interested members of the public in the development of the plan.
+&emsp;(A) <sup>1</sup> If, before March 31, 1994, a State has made substantial progress in developing a plan that meets the intent and purposes of this section, but was developed by a panel that does not meet the requirements of paragraphs (1) through (3) <sup>2</sup> of subsection (b) of this section, the Secretary may, at the request of the Governor and the State educational agency, treat such panel as meeting the requirements of this subchapter if the Secretary determines that there has been statewide involvement of educators, parents, students, advocacy groups, and other interested members of the public in the development of the plan.
 
-(Pub. L. 103–227, title III, §306, Mar. 31, 1994, 108 Stat. 160.)
+(Pub. L. 103–227, title III, §306, Mar. 31, 1994, 108 Stat. 160; Pub. L. 104–134, title I, §101(d) \[title VII, §§702(a), 703(a)(9), 705(a)\], Apr. 26, 1996, 110 Stat. 1321–211, 1321–251, 1321–253, 1321–256; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.)
 
 #### References in Text
 
 The Carl D. Perkins Vocational and Applied Technology Education Act, referred to in subsec. (<i>l</i>), is Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended, which is classified generally to chapter 44 (§2301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2301 of this title and Tables.
 
+Subsection (b) of this section, referred to in subsec. (q)(2)(A), was amended generally by Pub. L. 104–134, title I, §101(d) \[title VII, §702(a)(1)(A)\], Apr. 26, 1996, 110 Stat. 1321–211, 1321–251; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327, and, as so amended, no longer contains pars. (1) through (3).
+
+#### Amendments
+
+1996—Subsec. (b). Pub. L. 104–134, §101(d) \[title VII, §702(a)(1)(A)\], amended subsec. (b) generally, substituting present provisions for former provisions relating to plan development and consisting of pars. (1) to (9).
+
+Subsec. (d). Pub. L. 104–134, §101(d) \[title VII, §702(a)(1)(B)\], struck out subsec. (d) which related to opportunity-to-learn standards and strategies.
+
+Subsec. (n)(4). Pub. L. 104–134, §101(d) \[title VII, §705(a)\], added par. (4).
+
+Subsec. (<i>o</i>). Pub. L. 104–134, §101(d) \[title VII, §703(a)(9)\], struck out “State opportunity-to-learn standards or strategies,” after “performance standards,”.
+
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 5885, 5887, 5888, 5890, 5891, 5894, 5895, 5896, 5897 of this title.
+This section is referred to in sections 5885, 5887, 5888, 5890, 5891, 5892, 5894, 5895, 5897 of this title.
 
 <i><sup>1</sup></i><i> So in original. No subpar. (B) has been enacted.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

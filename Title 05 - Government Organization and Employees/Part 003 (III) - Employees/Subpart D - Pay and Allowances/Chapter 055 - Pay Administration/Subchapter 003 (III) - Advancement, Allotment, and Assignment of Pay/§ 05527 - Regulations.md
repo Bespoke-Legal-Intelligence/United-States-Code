@@ -14,7 +14,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 5 U.S.C. 3076.
 
@@ -26,7 +28,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-<b>1968</b>—Subsec. (b). Pub. L. 90–623 inserted reference to the District of Columbia Council, with respect to the government of the District of Columbia.
+1968—Subsec. (b). Pub. L. 90–623 inserted reference to the District of Columbia Council, with respect to the government of the District of Columbia.
 
 #### Effective Date of 1968 Amendment
 

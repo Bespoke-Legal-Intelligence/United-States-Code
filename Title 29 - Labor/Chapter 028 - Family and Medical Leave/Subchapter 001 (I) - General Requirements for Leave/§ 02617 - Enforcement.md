@@ -64,11 +64,11 @@
 
 #### (2) Willful violation
 
-&emsp;In the case of such action brought for a willful violation of section 2615 of this title, such action may be brought within 3 years of the date of the last event constituting the alleged violation for which such action is brought.
+&emsp;In the case of such action brought for a willful violation of section 2615 of this title, suchaction may be brought within 3 years of the date of the last event constituting the alleged violation for which such action is brought.
 
 #### (3) Commencement
 
-&emsp;In determining when an action is commenced by the Secretary under this sectionfor the purposes of this subsection, it shall be considered to be commenced on the date when the complaint is filed.
+&emsp;In determining when an action is commenced by the Secretary under this section for the purposes of this subsection, it shall be considered to be commenced on the date when the complaint is filed.
 
 #### (d) Action for injunction by Secretary
 
@@ -98,5 +98,5 @@ Amendment by Pub. L. 104–1 effective one year after transmission to Congress o
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2616, 2618 of this title; title 2 section 1312.
+This section is referred to in sections 2616, 2618 of this title; title 2 section 1312; title 3 section 412.
 

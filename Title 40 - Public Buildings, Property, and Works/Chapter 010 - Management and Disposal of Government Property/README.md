@@ -49,10 +49,10 @@
 | (i) | Vessels; laws governing sales. |
 | (j) | Transfers for donation of property to State agencies; State plan of operation; “public agency” and “State” defined. |
 | (k) | Disposals by Secretary of Education, Secretary of Health and Human Services, Secretary of the Interior, and Secretary of Defense. |
-| (<i>l)</i> | Donations to American Red Cross. |
+| (<i>l</i>) | Donations to American Red Cross. |
 | (m) | Possession of abandoned or unclaimed property on Government premises; disposal; claims by former owners. |
 | (n) | Cooperative agreements with State agencies. |
-| (<i>o)</i> | Biennial reports to Congress by Administrator; copies to Comptroller General. |
+| (<i>o</i>) | Biennial reports to Congress by Administrator; copies to Comptroller General. |
 | (p) | Transfer or conveyance of property for correctional facility use; consideration-free transfers; reimbursement for interim transfers; reversion option; terms and conditions. |
 | (q) | Military installation closures or realignments. |
 | 484–1. | Transfer of miscellaneous books to District Public Library. |
@@ -83,6 +83,7 @@
 | (g) | Establishment of advisory committees; compensation; expenses. |
 | (h) | Consultations between Administrator and Federal agencies. |
 | (i) | Administration of oaths by certain officers and employees. |
+| [486a.](Subchapter%20002%20%28II%29%20-%20Property%20Management/%C2%A7%2000486a%20-%20Retention%20and%20expenditure%20of%20portion%20of%20GSA%20rental%20payments%20by%20departments%20or%20agencies.md) | Retention and expenditure of portion of GSA rental payments by departments or agencies. |
 | [487\.](Subchapter%20002%20%28II%29%20-%20Property%20Management/%C2%A7%2000487%20-%20Surveys%20of%20Government%20property%20and%20management%20practices.md) | Surveys of Government property and management practices. |
 | (a) | Authorization for surveys, inventory levels, supply catalog system and standardized forms and procedures. |
 | (b) | Utilization by Federal agencies of supply catalog system and standardized forms and procedures. |
@@ -109,6 +110,7 @@
 | (i) | Installation, repair, and replacement of sidewalks. |
 | (j) | Charges for space and services furnished by Administrator; determination of rates; exemption from charges. |
 | (k) | Charges for space and services furnished by executive agencies; approval of rates by Administrator; credit to appropriation or fund. |
+| (<i>l</i>) | Flexiplace work telecommuting centers. |
 | [490a.](Subchapter%20002%20%28II%29%20-%20Property%20Management/%C2%A7%2000490a%20-%20Transfer%20of%20moneys%20in%20section%20490%28f%29%20fund%20into%20special%20account.md) | Transfer of moneys in section 490(f) fund into special account. |
 | 490a–1. | Use of resources of Federal Buildings Fund to repay GSA borrowings from Federal Financing Bank. |
 | [490b.](Subchapter%20002%20%28II%29%20-%20Property%20Management/%C2%A7%2000490b%20-%20Child%20care%20services%20for%20Federal%20employees%20in%20Federal%20buildings.md) | Child care services for Federal employees in Federal buildings. |
@@ -134,7 +136,7 @@
 | (i) | Scrip, tokens, tickets. |
 | (j) | Operating regulations. |
 | (k) | Identification of vehicles. |
-| (<i>l)</i> | Violations. |
+| (<i>l</i>) | Violations. |
 | [492\.](Subchapter%20002%20%28II%29%20-%20Property%20Management/%C2%A7%2000492%20-%20Reports%20to%20Congress.md) | Reports to Congress. |
 | [493\.](Subchapter%20002%20%28II%29%20-%20Property%20Management/%C2%A7%2000493%20-%20Repealed.%20Pub.%20L.%20100%E2%80%93612%2C%20%C2%A78%2C%20Nov.%205%2C%201988%2C%20102%20Stat.%203182.md) | Repealed. |
 

@@ -40,5 +40,5 @@ Amendment by Pub. L. 94–521 effective Oct. 17, 1976, see section 17 of Pub. L.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 9 of this title; title 5 section 552a; title 8 section 1255a.
+This section is referred to in section 9 of this title; title 5 section 552a; title 8 sections 1255a, 1367.
 

@@ -6,7 +6,9 @@ An interested person may bring a civil action in a district court of the United 
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

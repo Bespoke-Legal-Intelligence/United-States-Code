@@ -4,7 +4,7 @@
 
 (2) A member of the Defense Intelligence Senior Executive Service or the Senior Cryptologic Executive Service who is removed from such service for failure to be recertified as a senior executive or for less than fully successful executive performance after completing 25 years of service, or after becoming 50 years of age and completing 20 years of service, is entitled to an annuity.
 
-(3) A member of the Federal Bureau of Investigation and Drug Enforcement Administration Senior Executive Service who is removed from such service for failure to be recertified as a senior executive or for less than fully successful executive performance after completing 25 years of service or after becoming 50 years of age and completing 20 years of service is entitled to an annuity.
+(3) A member of the Federal Bureau of Investigation and Drug Enforcement AdministrationSenior Executive Service who is removed from such service for failure to be recertified as a senior executive or for less than fully successful executive performance after completing 25 years of service or after becoming 50 years of age and completing 20 years of service is entitled to an annuity.
 
 (b)(1) Except as provided in paragraphs (2) and (3), an employee who—
 
@@ -28,11 +28,11 @@
 
 #### Amendments
 
-<b>1989</b>—Subsec. (a)(1). Pub. L. 101–194, §506(b)(9)(A), substituted “for failure to be recertified as a senior executive under section 3393a or for” for “for”.
+1989—Subsec. (a)(1). Pub. L. 101–194, §506(b)(9)(A), substituted “for failure to be recertified as a senior executive under section 3393a or for” for “for”.
 
 Subsec. (a)(2), (3). Pub. L. 101–194, §506(b)(9)(B), (C), substituted “for failure to be recertified as a senior executive or for” for “for”.
 
-<b>1988</b>—Subsec. (a)(3). Pub. L. 100–325 added par. (3).
+1988—Subsec. (a)(3). Pub. L. 100–325 added par. (3).
 
 #### Effective Date of 1989 Amendment
 
@@ -40,5 +40,5 @@ Amendment by Pub. L. 101–194 effective Jan. 1, 1991, see section 506(d) of Pub
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 8420, 8421, 8421a, 8456, 8462, 8464, 8901 of this title; title 50 section 2053.
+This section is referred to in sections 6302, 8420, 8421, 8421a, 8456, 8462, 8464, 8901 of this title; title 50 section 2053.
 

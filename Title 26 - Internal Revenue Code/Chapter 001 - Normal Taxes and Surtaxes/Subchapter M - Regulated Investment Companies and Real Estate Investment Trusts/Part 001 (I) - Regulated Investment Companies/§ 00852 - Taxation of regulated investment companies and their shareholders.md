@@ -48,7 +48,7 @@ The provisions of this part (other than subsection (c) of this section) shall no
 
 #### (B) Treatment of capital gain dividends by shareholders
 
-&emsp;&emsp;A capital gain dividend shall be treated by the shareholders as a gain from the sale orexchange of a capital asset held for more than 1 year.
+&emsp;&emsp;A capital gain dividend shall be treated by the shareholders as a gain from the sale or exchange of a capital asset held for more than 1 year.
 
 #### (C) Definition of capital gain dividend
 
@@ -98,7 +98,7 @@ The provisions of this part (other than subsection (c) of this section) shall no
 
 #### (E) Authority to shorten required holding period
 
-&emsp;&emsp;In the case of a regulated investment company which regularly distributes at least 90 percent of its net tax-exempt interest, the Secretary may by regulations prescribe that subparagraph (B) (and subparagraph (C) tothe extent it relates to subparagraph (B)) shall be applied on the basis of a holding period requirement shorter than 6 months; except that such shorter holding period requirement shall not be shorter than the greater of 31 days or the period between regular distributions of exempt-interest dividends.
+&emsp;&emsp;In the case of a regulated investment company which regularly distributes at least 90 percent of its net tax-exempt interest, the Secretary may by regulations prescribe that subparagraph (B) (and subparagraph (C) to the extent it relates to subparagraph (B)) shall be applied on the basis of a holding period requirement shorter than 6 months; except that such shorter holding period requirement shall not be shorter than the greater of 31 days or the period between regular distributions of exempt-interest dividends.
 
 #### (5) Exempt-interest dividends
 
@@ -125,14 +125,6 @@ The provisions of this part (other than subsection (c) of this section) shall no
 &emsp;&emsp;&emsp;(iii) the allowance of, or calculation of the amount of, any credit or deduction, and
 
 &emsp;&emsp;&emsp;(iv) the determination of the basis in the hands of any shareholder of any share of stock of the company.
-
-#### (C) Interest on certain loans used to acquire employer securities
-
-&emsp;&emsp;For purposes of this section—
-
-&emsp;&emsp;&emsp;(i) 50 percent of the amount of any loan of the regulated investment company which qualifies as a securities acquisition loan (as defined in section 133) shall be treated as an obligation described in section 103(a), and
-
-&emsp;&emsp;&emsp;(ii) 50 percent of the interest received on such loan shall be treated as interest excludable from gross income under section 103.
 
 #### (6) Section 311(b) not to apply to certain distributions
 
@@ -168,7 +160,7 @@ The provisions of this part (other than subsection (c) of this section) shall no
 
 #### (2) Coordination with tax on undistributed income
 
-&emsp;For purposes of applying this chapter to distributions made by a regulated investmentcompany with respect to any calendar year, the earnings and profits of such company shall be determined without regard to any net capital loss (or net foreign currency loss) attributable to transactions after October 31 of such year and with such other adjustments as the Secretary may by regulations prescribe. The preceding sentence shall apply—
+&emsp;For purposes of applying this chapter to distributions made by a regulated investment company with respect to any calendar year, the earnings and profits of such company shall be determined without regard to any net capital loss (or net foreign currency loss) attributable to transactions after October 31 of such year and with such other adjustments as the Secretary may by regulations prescribe. The preceding sentence shall apply—
 
 &emsp;&emsp;(A) only to the extent that the amount distributed by the company with respect to the calendar year does not exceed the required distribution for such calendar year (as determined under section 4982 by substituting “100 percent” for each percentage set forth in section 4982(b)(1)), and
 
@@ -274,13 +266,23 @@ In the case of a unit investment trust—
 
 &emsp;&emsp;If the taxpayer acquires stock in a regulated investment company from another person in a transaction in which gain or loss is not recognized, the taxpayer shall succeed to the treatment of such other person under this subsection.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 271; July 11, 1956, ch. 573, §2(a), 70 Stat. 530; Sept. 2, 1958, Pub. L. 85–866, title I, §§39(a), 101(a), (b), 72 Stat. 1638, 1674; Sept. 14, 1960, Pub. L. 86–779, §10(b)(2), (3), 74 Stat. 1009; Feb. 26, 1964, Pub. L. 88–272, title II, §229(a)(1), (2), (b), 78 Stat. 99; Dec. 30, 1969, Pub. L. 91–172, title V, §511(c)(2), 83 Stat. 637; Oct. 4, 1976, Pub. L. 94–455, title XIV, §1402(b)(1)(N), (2), title XIX, §§1901(a)(110)(A), (B)(i), (C), (b)(1)(V), (6)(B), (33)(I), (J), (N), 1906(b)(13)(A), title XXI, §2137(a)–(c), 90 Stat. 1732, 1783, 1792, 1794, 1801, 1802, 1834, 1930, 1931; Nov. 6, 1978, Pub. L. 95–600, title III, §§301(b)(11), 362(c), title VII, §701(s)(2), 92 Stat. 2822, 2851, 2911; Apr. 1, 1980, Pub. L. 96–222, title I, §104(a)(3)(B), 94 Stat. 215; Jan. 6, 1983, Pub. L. 97–424, title V, §547(b)(2), 96 Stat. 2199; July 18, 1984, Pub. L. 98–369, div. A, title I, §55(a), title X, §§1001(b)(11), (e), 1071(a)(2)–(4), (b)(1), 98 Stat. 571, 1011, 1012, 1049, 1050, 1052; Oct. 22, 1986, Pub. L. 99–514, title III, §311(b)(1), title VI, §§631(e)(11), 651(b)(1)(A), (2), (3), 655(a)(1), (2), title XI, §1173(b)(1)(B), title XV, §1511(c)(6), title XVIII, §§1804(c)(1)–(5), 1878(j), 100 Stat. 2219, 2274, 2296, 2298, 2299, 2515, 2745, 2799, 2800, 2905; Nov. 10, 1988, Pub. L. 100–647, title I, §§1006(<i>l</i>)(1)(A), (3), (4), (7)–(10), 1011B(h)(4), 1018(p), 102 Stat. 3413–3415, 3491, 3585; Dec. 19, 1989, Pub. L. 101–239, title VII, §7204(b)(1), (c)(1), 103 Stat. 2334, 2335; Aug. 10, 1993, Pub. L. 103–66, title XIII, §13221(c)(1), 107 Stat. 477.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 271; July 11, 1956, ch. 573, §2(a), 70 Stat. 530; Sept. 2, 1958, Pub. L. 85–866, title I, §§39(a), 101(a), (b), 72 Stat. 1638, 1674; Sept. 14, 1960, Pub. L. 86–779, §10(b)(2), (3), 74 Stat. 1009; Feb. 26, 1964, Pub. L. 88–272, title II, §229(a)(1), (2), (b), 78 Stat. 99; Dec. 30, 1969, Pub. L. 91–172, title V, §511(c)(2), 83 Stat. 637; Oct. 4, 1976, Pub. L. 94–455, title XIV, §1402(b)(1)(N), (2), title XIX, §§1901(a)(110)(A), (B)(i), (C), (b)(1)(V), (6)(B), (33)(I), (J), (N), 1906(b)(13)(A), title XXI, §2137(a)–(c), 90 Stat. 1732, 1783, 1792, 1794, 1801, 1802, 1834, 1930, 1931; Nov. 6, 1978, Pub. L. 95–600, title III, §§301(b)(11), 362(c), title VII, §701(s)(2), 92 Stat. 2822, 2851, 2911; Apr. 1, 1980, Pub. L. 96–222, title I, §104(a)(3)(B), 94 Stat. 215; Jan. 6, 1983, Pub. L. 97–424, title V, §547(b)(2), 96 Stat. 2199; July 18, 1984, Pub. L. 98–369, div. A, title I, §55(a), title X, §§1001(b)(11), (e), 1071(a)(2)–(4), (b)(1), 98 Stat. 571, 1011, 1012, 1049, 1050, 1052; Oct. 22, 1986, Pub. L. 99–514, title III, §311(b)(1), title VI, §§631(e)(11), 651(b)(1)(A), (2), (3), 655(a)(1), (2), title XI, §1173(b)(1)(B), title XV, §1511(c)(6), title XVIII, §§1804(c)(1)–(5), 1878(j), 100 Stat. 2219, 2274, 2296, 2298, 2299, 2515, 2745, 2799, 2800, 2905; Nov. 10, 1988, Pub. L. 100–647, title I, §§1006(<i>l</i>)(1)(A), (3), (4), (7)–(10), 1011B(h)(4), 1018(p), 102 Stat. 3413–3415, 3491, 3585; Dec. 19, 1989, Pub. L. 101–239, title VII, §7204(b)(1), (c)(1), 103 Stat. 2334, 2335; Aug. 10, 1993, Pub. L. 103–66, title XIII, §13221(c)(1), 107 Stat. 477; Aug. 20, 1996, Pub. L. 104–188, title I, §1602(b)(3), 110 Stat. 1833.)
 
 #### References in Text
 
-The Investment Company Act of 1940, referred to in subsec. (d), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, as amended, which is classified generally to subchapter I (§80a–1 et seq.) of chapter 2D of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 80a–51 of Title 15 and Tables.
+The Investment Company Act of 1940, referred to in subsec. (d), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, as amended, which is classified generally to subchapter I (§80a–1 et seq.) of chapter 2D of Title 15, Commerce and Trade. For complete classification of thisAct to the Code, see section 80a–51 of Title 15 and Tables.
 
 #### Amendments
+
+1996—Subsec. (b)(5)(C). Pub. L. 104–188 struck out subpar. (C). Prior to amendment, subpar. (C) read as follows:
+
+“(C)
+
+Interest on certain loans used to acquire employer securities.—For purposes of this section—
+
+&emsp;“(i) 50 percent of the amount of any loan of the regulated investment company which qualifies as a securities acquisition loan (as defined in section 133) shall be treated as an obligation described in section 103(a), and
+
+&emsp;“(ii) 50 percent of the interest received on such loan shall be treated as interest excludable from gross income under section 103.”
 
 1993—Subsec. (b)(3)(D)(iii). Pub. L. 103–66 substituted “65 percent” for “66 percent”.
 
@@ -312,7 +314,7 @@ Subsec. (b)(1). Pub. L. 99–514, §1878(j)(2), substituted last sentence for fo
 
 Subsec. (b)(3)(C). Pub. L. 99–514, §655(a)(1), substituted “60 days” for “45 days”.
 
-Pub. L. 99–514, §651(b)(3), inserted provision for determination of the amount of the net capital gain for ataxable year (to which an election under section 4982(e)(4) does not apply) and made such provision applicable also for purposes of computing regulated investment company taxable income.
+Pub. L. 99–514, §651(b)(3), inserted provision for determination of the amount of the net capital gain for a taxable year (to which an election under section 4982(e)(4) does not apply) and made such provision applicable also for purposes of computing regulated investment company taxable income.
 
 Subsec. (b)(3)(D)(i). Pub. L. 99–514, §655(a)(1), substituted “60 days” for “45 days”.
 
@@ -424,6 +426,10 @@ Subsec. (c). Pub. L. 85–866, §101(b), inserted sentence defining regulated in
 
 1956—Subsec. (b)(3)(D). Act July 11, 1956, added subpar. (D).
 
+#### Effective Date of 1996 Amendment
+
+Amendment by section 1602(b)(1) of Pub. L. 104–188 applicable to loans made after Aug. 20, 1996, with exception and provisions relating to certain refinancings, see section 1602(c) of Pub. L. 104–188, set out as an Effective Date of Repeal note under former section 133 of this title.
+
 #### Effective Date of 1993 Amendment
 
 Amendment by Pub. L. 103–66 applicable to taxable years beginning on or after Jan. 1, 1993, see section 13221(d) of Pub. L. 103–66 set out as a note under section 11 of this title.
@@ -450,7 +456,7 @@ Amendment by section 651(b)(1)(A), (2), (3) of Pub. L. 99–514 applicable to ca
 
 Section 655(b) of Pub. L. 99–514 provided that: “The amendments made by subsection (a) \[amending this section and sections 853 to 855 of this title\] shall apply to taxable years beginning after the date of the enactment of this Act \[Oct. 22, 1986\].”
 
-Amendment by section 1173(b)(1)(B) of Pub. L. 99–514 applicable to loans used to acquire employer securities after Oct. 22, 1986, including loans used to refinance loans used to acquire employer securities before such date if such loans were used to acquire employer securities after May 23, 1984, see section 1173(c)(2) of Pub. L. 99–514, set out as a note under section 133 of this title.
+Section 1173(c)(2)(A) of Pub. L. 99–514 provided that: “The amendments made by subsection (b)(1) \[amending this section and former section 133 of this title\] shall apply to loans used to acquire employer securities after the date of the enactment of this Act \[Oct. 22, 1986\], including loans used to refinance loans used to acquire employer securities before such date if such loans were used to acquire employer securities after May 23, 1984.”
 
 Amendment by section 1511(c)(6) of Pub. L. 99–514 applicable for purposes of determining interest for periods after Dec. 31, 1986, see section 1511(d) of Pub. L. 99–514, set out as a note under section 47 of this title.
 

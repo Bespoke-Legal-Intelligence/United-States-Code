@@ -16,7 +16,7 @@ The following laws, and portions of laws, are hereby repealed:
 
 &emsp;(6) title IV of the Rural Development Act of 1972 \[7 U.S.C. 2651 et seq.\]; and
 
-&emsp;(7) section 1009 and the proviso to section 1010 of the Agricultural Act of 1970, as added by the Agriculture and Consumer Protection Act of 1973 \[16 U.S.C. 1509, 1510 proviso\].
+&emsp;(7) section 1009 and the proviso to section 1010 <sup>1</sup> of the Agricultural Act of 1970, as added by the Agriculture and Consumer Protection Act of 1973 \[16 U.S.C. 1509, 1510\].
 
 #### (b) Force and effect of contracts and cooperative and other agreements under cooperative forestry programs executed under authority of repealed statutes
 
@@ -38,7 +38,11 @@ The Cooperative Forest Management Act, referred to in subsec. (a)(4), is act Aug
 
 The Rural Development Act of 1972, referred to in subsec. (a)(6), is Pub. L. 92–419, Aug. 30, 1972, 86 Stat. 657, as amended. Title IV of the Rural Development Act of 1972 was classified generally to subchapter I (§2651 et seq.) of chapter 59 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title of 1972 Amendment note set out under section 1921 of Title 7 and Tables.
 
+Section 1010 of the Agricultural Act of 1970, as added by the Agriculture and Consumer Protection Act of 1973, referred to in subsec. (a)(7), was classified to section 1510 of this title prior to repeal by Pub. L. 104–127, title III, §336(d)(1), Apr. 4, 1996, 110 Stat. 1006.
+
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 2108, 2109 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

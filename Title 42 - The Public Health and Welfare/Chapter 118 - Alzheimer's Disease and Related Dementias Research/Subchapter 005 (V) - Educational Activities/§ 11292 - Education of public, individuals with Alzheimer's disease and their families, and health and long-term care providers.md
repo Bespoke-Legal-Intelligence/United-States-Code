@@ -4,7 +4,7 @@
 
 #### (1) Grants
 
-&emsp;The Director of the National Institute on Aging may award grants to eligible entities to assist the entities in developing and evaluating model training programs—
+&emsp;The Director of the National Institute on Aging may award grants to eligible entities toassist the entities in developing and evaluating model training programs—
 
 &emsp;&emsp;(A) for—
 
@@ -56,7 +56,7 @@ In awarding grants under this section, the Director of the National Institute on
 
 #### (d) Application
 
-To be eligible to receive a grant under this section, an entity shall submit an application tothe Director of the National Institute on Aging at such time, in such manner, and containing or accompanied by such information, as the Director may reasonably require, including, at a minimum, an assurance that the entity will coordinate programs provided under this section with the State agency designated under section 305(a)(1) of the Older Americans Act of 1965 \[42 U.S.C. 3025(a)(1)\], in the State in which the entity will provide such programs.
+To be eligible to receive a grant under this section, an entity shall submit an application to the Director of the National Institute on Aging at such time, in such manner, and containing or accompanied by such information, as the Director may reasonably require, including, at a minimum, an assurance that the entity will coordinate programs provided under this section with the State agency designated under section 305(a)(1) of the Older Americans Act of 1965 \[42 U.S.C. 3025(a)(1)\], in the State in which the entity will provide such programs.
 
 #### (e) Coordination
 

@@ -18,7 +18,7 @@
 
 (3) The rail carrier shall—
 
-&emsp;(A) send by certified mail notice of the application to the chief executive officer of eachState that would be directly affected by the proposed abandonment or discontinuance;
+&emsp;(A) send by certified mail notice of the application to the chief executive officer of each State that would be directly affected by the proposed abandonment or discontinuance;
 
 &emsp;(B) post a copy of the notice in each terminal and station on each portion of a railroad line proposed to be abandoned or over which all transportation is to be discontinued;
 

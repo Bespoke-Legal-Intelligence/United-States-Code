@@ -12,7 +12,7 @@ The Congress finds that—
 
 #### (b) Purpose
 
-It is the purpose of this chapter to ensure the continuation of an effective mechanism for collecting and reporting statistics and information showing the condition and progress of education in the United States and other nations in order to promote and accelerate the improvement of American education.
+It is the purpose of this chapter to ensure the continuation of an effective mechanism for collecting and reporting statistics and information showing the condition and progress of educationin the United States and other nations in order to promote and accelerate the improvement of American education.
 
 #### (c) Definitions
 

@@ -6,10 +6,8 @@ Consideration for Promotion Within Specified Times.—(1) Officers described in 
 
 &nbsp;
 
-| &nbsp; | &nbsp; |
+| Current Grade | Maximum years of service in grade |
 | :--- | ---: |
-| &nbsp; | Maximum years of |
-| Current Grade | service in grade |
 | First lieutenant or Lieutenant (junior grade) | 5 years&nbsp;&nbsp; |
 | Captain or Navy Lieutenant | 7 years&nbsp;&nbsp; |
 | Major or Lieutenant commander | 7 years&nbsp;&nbsp; |
@@ -20,17 +18,13 @@ Consideration for Promotion Within Specified Times.—(1) Officers described in 
 
 (b)
 
-Promotion Date.—An officer holding a permanent grade specified in the table in subsection (a) who is recommended for promotion to the next higher grade by a selection board the first time the officer is considered for promotion while in or above the promotion zone and who is placed on an approved promotion list established under section 14308(a) of this title shall (if not promoted sooner or removed from that list by the President or by reason of declination) be promoted, without regard to the existence of a vacancy, on the date on which the officer completes the maximum years of service in grade specified in subsection (a). The preceding sentence is subject to the limitations of section 12011 of this title.
+Promotion Date.—An officer holding a permanent grade specified in the table in subsection (a) who is recommended for promotion to the next higher grade by a selection board thefirst time the officer is considered for promotion while in or above the promotion zone and who is placed on an approved promotion list established under section 14308(a) of this title shall (if not promoted sooner or removed from that list by the President or by reason of declination) be promoted, without regard to the existence of a vacancy, on the date on which the officer completes the maximum years of service in grade specified in subsection (a). The preceding sentence is subject to the limitations of section 12011 of this title.
 
 (c)
 
 Waiver Authority for Navy and Marine Corps Running Mate System.—If the Secretary of the Navy establishes promotion zones for officers on the reserve active-status list of the Navy or the Marine Corps Reserve in accordance with a running mate system under section 14306 of this title, the Secretary may waive the requirements of subsection (a) to the extent the Secretary considers necessary in any case in which the years of service for promotion, or for consideration for promotion, within those zones will exceed the maximum years of service in grade specified in subsection (a).
 
 (Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2934.)
-
-#### Effective Date of Section
-
-<i>Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under section 10001 of this title.</i>
 
 #### Minimum Service Qualifications for Promotion
 

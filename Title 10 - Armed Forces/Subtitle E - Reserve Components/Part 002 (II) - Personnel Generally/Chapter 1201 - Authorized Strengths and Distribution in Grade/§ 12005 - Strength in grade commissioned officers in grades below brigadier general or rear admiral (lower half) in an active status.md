@@ -20,10 +20,10 @@
 
 | &nbsp; | &nbsp; |
 | :--- | ---: |
-| Captain | 1\.5 percent  |
-| Commander | 7  percent&nbsp; |
-| Lieutenant commander | 22  percent&nbsp; |
-| Lieutenant | 37  percent&nbsp; |
+| Captain | 1\.5 percent&nbsp;&nbsp; |
+| Commander | 7   percent&nbsp;&nbsp; |
+| Lieutenant commander | 22   percent&nbsp;&nbsp; |
+| Lieutenant | 37   percent&nbsp;&nbsp; |
 | Lieutenant (junior grade) and ensign (when combined with the number authorized for flag officer grades under section 12004 of this title) | 32\.5 percent. |
 
 (2) When the actual number of line officers in an active status in any grade is less than the number authorized by paragraph (1) for that grade, the difference may be applied to increase the number authorized by that paragraph for any lower grade or grades.
@@ -34,10 +34,10 @@
 
 | &nbsp; | &nbsp; |
 | :--- | ---: |
-| Colonel | 2  percent&nbsp; |
-| Lieutenant colonel | 6  percent&nbsp; |
-| Major | 12  percent&nbsp; |
-| Captain | 35  percent&nbsp; |
+| Colonel | 2  percent&nbsp;&nbsp; |
+| Lieutenant colonel | 6  percent&nbsp;&nbsp; |
+| Major | 12  percent&nbsp;&nbsp; |
+| Captain | 35  percent&nbsp;&nbsp; |
 | First lieutenant and second lieutenant (when combined with the number authorized for general officer grades under section 12004 of this title) | 32\.5 percent. |
 
 (2) When the actual number of officers in an active status in any grade is less than the number authorized by paragraph (1) for that grade, the difference may be applied to increase the number authorized by that paragraph for any lower grade or grades.

@@ -38,11 +38,15 @@
 
 (3) A discharge in bankruptcy under title 11 that is entered less than 5 years after the termination of an agreement under this section does not discharge the person signing such agreement from a debt arising under such agreement or under paragraph (1). This paragraph applies to any case commenced under title 11 after September 30, 1980.
 
-(e) No bonus may be paid under this section to any person for a reserve obligation agreement entered into after September 30, 1996.
+(e) No bonus may be paid under this section to any person for a reserve obligation agreement entered into after September 30, 1998.
 
-(Added Pub. L. 96–342, title VIII, §805(a)(1), Sept. 8, 1980, 94 Stat. 1093; amended Pub. L. 97–86, title V, §505, Dec. 1, 1981, 95 Stat. 1109; Pub. L. 99–145, title VI, §645(a), Nov. 8, 1985, 99 Stat. 654; Pub. L. 100–180, div. A, title VI, §626(b), Dec. 4, 1987, 101 Stat. 1104; Pub. L. 101–189, div. A, title VI, §613, Nov. 29, 1989, 103 Stat. 1446; Pub. L. 102–25, title VII, §702(b)(1), (2), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–484, div. A, title VI, §612(d), Oct. 23, 1992, 106 Stat. 2421; Pub. L. 103–160, div. A, title VI, §612(c), Nov. 30, 1993, 107 Stat. 1680; Pub. L. 103–337, div. A, title VI, §611(c), Oct. 5, 1994, 108 Stat. 2782.)
+(Added Pub. L. 96–342, title VIII, §805(a)(1), Sept. 8, 1980, 94 Stat. 1093; amended Pub. L. 97–86, title V, §505, Dec. 1, 1981, 95 Stat. 1109; Pub. L. 99–145, title VI, §645(a), Nov. 8, 1985, 99 Stat. 654; Pub. L. 100–180, div. A, title VI, §626(b), Dec. 4, 1987, 101 Stat. 1104; Pub. L. 101–189, div. A, title VI, §613, Nov. 29, 1989, 103 Stat. 1446; Pub. L. 102–25, title VII, §702(b)(1), (2), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–484, div. A, title VI, §612(d), Oct. 23, 1992, 106 Stat. 2421; Pub. L. 103–160, div. A, title VI, §612(c), Nov. 30, 1993, 107 Stat. 1680; Pub. L. 103–337, div. A, title VI, §611(c), Oct. 5, 1994, 108 Stat. 2782; Pub. L. 104–106, div. A, title VI, §611(c), Feb. 10, 1996, 110 Stat. 359; Pub. L. 104–201, div. A, title VI, §611(e), Sept. 23, 1996, 110 Stat. 2543.)
 
 #### Amendments
+
+1996—Subsec. (e). Pub. L. 104–201 substituted “September 30, 1998” for “September 30, 1997”.
+
+Pub. L. 104–106 substituted “September 30, 1997” for “September 30, 1996”.
 
 1994—Subsec. (e). Pub. L. 103–337 substituted “September 30, 1996” for “September 30, 1995”.
 

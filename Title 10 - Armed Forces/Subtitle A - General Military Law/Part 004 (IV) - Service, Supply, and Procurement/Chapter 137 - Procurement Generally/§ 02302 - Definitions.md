@@ -42,19 +42,21 @@ In this chapter:
 
 &emsp;&emsp;(J) The term “nondevelopmental item”.
 
-&emsp;&emsp;(K) The term “commercial component” <sup>1</sup>
+&emsp;&emsp;(K) The term “commercial component”.
 
 &emsp;&emsp;(L) The term “component”.
 
 &emsp;(4) The term “technical data” means recorded information (regardless of the form or method of the recording) of a scientific or technical nature (including computer software documentation) relating to supplies procured by an agency. Such term does not include computer software or financial, administrative, cost or pricing, or management data or other information incidental to contract administration.
 
-&emsp;(5) The term “major system” means a combination of elements that will function together to produce the capabilities required to fulfill a mission need. The elements may include hardware, equipment, software or any combination thereof, but excludes construction or other improvements to real property. A system shall be considered a major system if (A) the Department of Defense is responsible for the system and the total expenditures for research, development, test, and evaluation for the system are estimated to be more than $75,000,000 (based on fiscal year 1980 constant dollars) or the eventual total expenditure for procurement of more than $300,000,000 (based on fiscal year 1980 constant dollars); (B) a civilian agency is responsible for the system and total expenditures for the system are estimated to exceed $750,000 (based on fiscal year 1980 constant dollars) or the dollar threshold for a “major system” established by the agency pursuant to Office of Management and Budget (OMB) Circular A–109, entitled “Major Systems Acquisitions”, whichever is greater; or (C) the system is designated a “major system” by the head of the agency responsible for the system.
+&emsp;(5) The term “major system” means a combination of elements that will function together to produce the capabilities required to fulfill a mission need. The elements may include hardware, equipment, software or any combination thereof, but excludes construction or other improvements to real property. A system shall be considered a major system if (A) the conditions of section 2302d of this title are satisfied, or (B) the system is designated a “major system” by the head of the agency responsible for the system.
 
 &emsp;(6) The term “Federal Acquisition Regulation” means the Federal Acquisition Regulation issued pursuant to section 25(c)(1) of the Office of Federal Procurement Policy Act (41 U.S.C. 421(c)(1)).
 
-&emsp;(7) The term “simplified acquisition threshold” has the meaning provided that term in section 4 of the Office of Federal Procurement Policy Act (41 U.S.C. 403), except that, in the case of any contract to be awarded and performed, or purchase to be made, outside the United States in support of a contingency operation, the term means an amount equal to two times the amount specified for that term in section 4 of such Act.
+&emsp;(7)(A) The term “simplified acquisition threshold” has the meaning provided that term in section 4 of the Office of Federal Procurement Policy Act (41 U.S.C. 403), except that, in the case of any contract to be awarded and performed, or purchase to be made, outside the United States in support of a contingency operation or a humanitarian or peacekeeping operation, the term means an amount equal to two times the amount specified for that term in section 4 of such Act.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 127; July 29, 1958, Pub. L. 85–568, title III, §301(b), 72 Stat. 432; Sept. 2, 1958, Pub. L. 85–861, §1(43A), 72 Stat. 1457; Dec. 12, 1980, Pub. L. 96–513, title V, §511(74), 94 Stat. 2926; July 18, 1984, Pub. L. 98–369, div. B, title VII, §2722(a), 98 Stat. 1186; Oct. 19, 1984, Pub. L. 98–525, title XII, §1211, 98 Stat. 2589; Oct. 30, 1984, Pub. L. 98–577, title V, §504(b)(3), 98 Stat. 3087; Nov. 14, 1986, Pub. L. 99–661, div. A, title XIII, §1343(a)(13), 100 Stat. 3993; Apr. 21, 1987, Pub. L. 100–26, §7(k)(2), 101 Stat. 284; Nov. 29, 1989, Pub. L. 101–189, div. A, title VIII, §853(b)(1), 103 Stat. 1518; Apr. 6, 1991, Pub. L. 102–25, title VII, §701(d)(1), 105 Stat. 113; Dec. 5, 1991, Pub. L. 102–190, div. A, title VIII, §805, 105 Stat. 1417; Oct. 13, 1994, Pub. L. 103–355, title I, §1502, 108 Stat. 3296.)
+&emsp;(B) In subparagraph (A), the term “humanitarian or peacekeeping operation” means a military operation in support of the provision of humanitarian or foreign disaster assistance or in support of a peacekeeping operation under chapter VI or VII of the Charter of the United Nations. The term does not include routine training, force rotation, or stationing.
+
+(Aug. 10, 1956, ch. 1041, 70A Stat. 127; July 29, 1958, Pub. L. 85–568, title III, §301(b), 72 Stat. 432; Sept. 2, 1958, Pub. L. 85–861, §1(43A), 72 Stat. 1457; Dec. 12, 1980, Pub. L. 96–513, title V, §511(74), 94 Stat. 2926; July 18, 1984, Pub. L. 98–369, div. B, title VII, §2722(a), 98 Stat. 1186; Oct. 19, 1984, Pub. L. 98–525, title XII, §1211, 98 Stat. 2589; Oct. 30, 1984, Pub. L. 98–577, title V, §504(b)(3), 98 Stat. 3087; Nov. 14, 1986, Pub. L. 99–661, div. A, title XIII, §1343(a)(13), 100 Stat. 3993; Apr. 21, 1987, Pub. L. 100–26, §7(k)(2), 101 Stat. 284; Nov. 29, 1989, Pub. L. 101–189, div. A, title VIII, §853(b)(1), 103 Stat. 1518; Apr. 6, 1991, Pub. L. 102–25, title VII, §701(d)(1), 105 Stat. 113; Dec. 5, 1991, Pub. L. 102–190, div. A, title VIII, §805, 105 Stat. 1417; Oct. 13, 1994, Pub. L. 103–355, title I, §1502, 108 Stat. 3296; Feb. 10, 1996, Pub. L. 104–106, div. D, title XLIII, §4321(b)(3), 110 Stat. 672; Sept. 23, 1996, Pub. L. 104–201, div. A, title VIII, §§805(a)(1), 807(a), 110 Stat. 2605, 2606.)
 
 Historical and Revision Notes<br>1956
 
@@ -100,7 +102,13 @@ The Federal Property and Administrative Services Act of 1949, referred to in par
 
 #### Amendments
 
-1994—Par. (3). Pub. L. 103–355, §1502(1), added par. (3) and struck out former par. (3) which read as follows: “The terms ‘full and open competition’ and ‘responsible source’ have the same meanings provided such terms in section 4 of the Office of Federal Procurement Policy Act (41 U.S.C. 403).”
+1996—Par. (3)(K). Pub. L. 104–106 inserted period at end.
+
+Par. (5). Pub. L. 104–201, §805(a)(1), substituted “A system shall be considered a major system if (A) the conditions of section 2302d of this title are satisfied, or (B) the system is designated a ‘major system’ by the head of the agency responsible for the system.” for “A system shall be considered a major system if (A) the Department of Defense is responsible for the system and the total expenditures for research, development, test, and evaluation for the system are estimated to be more than $75,000,000 (based on fiscal year 1980 constant dollars) or the eventual total expenditure for procurement of more than $300,000,000 (based on fiscal year 1980 constant dollars); (B) a civilian agency is responsible for the system and total expenditures for the system are estimated to exceed $750,000 (based on fiscal year 1980 constant dollars) or the dollar threshold for a ‘major system’ established by the agency pursuant to Office of Management and Budget (OMB) Circular A–109, entitled ‘Major Systems Acquisitions’, whichever is greater; or (C) the system is designated a ‘major system’ by the head of the agency responsible for the system.”
+
+Par. (7). Pub. L. 104–201, §807(a), designated existing provisions as subpar. (A), inserted “or a humanitarian or peacekeeping operation” after “contingency operation”, and added subpar. (B).
+
+1994—Par. (3). Pub. L. 103–355, §1502(1), added par. (3) and struck out former par. (3) which read as follows: “The terms ‘full and open competition’ and ‘responsible source’ have the same meanings provided such terms insection 4 of the Office of Federal Procurement Policy Act (41 U.S.C. 403).”
 
 Par. (7). Pub. L. 103–355, §1502(2), added par. (7) and struck out former par. (7) which read as follows: “The term ‘small purchase threshold’ has the meaning given that term in section 4(11) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(11)), except that, in the case of any contract to be awarded and performed, or purchase to be made, outside the United States in support of a contingency operation, the term means $100,000.”
 
@@ -126,6 +134,10 @@ Cls. (4), (5). Pub. L. 98–525 added cls. (4) and (5).
 
 Cl. (3). Pub. L. 85–861 substituted “section 2305 of this title” for “section 2305(a) and (b) of this title”.
 
+#### Effective Date of 1996 Amendment
+
+For effective date and applicability of amendment by Pub. L. 104–106, see section 4401 of Pub. L. 104–106, set out as a note under section 251 of Title 41, Public Contracts.
+
 #### Effective Date of 1994 Amendment
 
 For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under section 251 of Title 41, Public Contracts.
@@ -148,15 +160,159 @@ Section 101(c) \[title X, §900\] of Pub. L. 99–500 and Pub. L. 99–591, and 
 
 #### Short Title of 1985 Amendment
 
-Pub. L. 99–145, title IX, §901, Nov. 8, 1985, 99 Stat. 682, provided that: “This title \[enacting sections 1621 to 1624, 2305a, 2324, 2397a, and 2406 of this title, amending sections 2304, 2313, 2320, 2323, 2397, and 2411 to 2415 of this title, section 759 of Title 40, Public Buildings, Property, and Works, sections 253 and 418a of Title 41,Public Contracts, and section 2168 of Title 50, Appendix, War and National Defense, enacting provisions set out as notes under this section and sections 139, 139c, 1622 to 1624, 2304, 2305a, 2307, 2324, 2397a, and 2411 of this title, section 287 of Title 18, Crimes and Criminal Procedure, section 3729 of Title 31, Money and Finance, and section 2168 of Title 50, Appendix, and amending provisions set out as a note under section 418a of Title 41\] may be cited as the ‘Defense Procurement Improvement Act of 1985’.”
+Pub. L. 99–145, title IX, §901, Nov. 8, 1985, 99 Stat. 682, provided that: “This title \[enacting sections 1621 to 1624, 2305a, 2324, 2397a, and 2406 of this title, amending sections 2304, 2313, 2320, 2323, 2397, and 2411 to 2415 of this title, section 759 of Title 40, Public Buildings, Property, and Works, sections 253 and 418a of Title 41, Public Contracts, and section 2168 of Title 50, Appendix, War and National Defense, enacting provisions set out as notes under this section and sections 139, 139c, 1622 to 1624, 2304, 2305a, 2307, 2324, 2397a, and 2411 of this title, section 287 of Title 18, Crimes and Criminal Procedure, section 3729 of Title 31, Money and Finance, and section 2168 of Title 50, Appendix, and amending provisions set out as a note under section 418a of Title 41\] may be cited as the ‘Defense Procurement Improvement Act of 1985’.”
 
 #### Short Title of 1984 Amendment
 
 Section 1201 of title XII of Pub. L. 98–525 provided that: “This title \[enacting sections 2303a, 2317 to 2323, 2384a, 2402 to 2405, and 2411 to 2416 of this title, amending sections 139a, 139b, 2302, 2305, 2311, 2384, and 2401 of this title, enacting provisions set out as notes under this section and sections 139, 139a, 2303a, 2305, 2318, 2319, 2322, 2323, 2384, 2384a, 2392, and 2402 of this title, amending provisions set out as notes under sections 2392, 2401, and 2452 of this title, and repealing provisions set out as notes under section 2304 of this title\] may be cited as the ‘Defense Procurement Reform Act of 1984’.”
 
+#### Year 2000 Software Conversion
+
+Section 831 of Pub. L. 104–201 provided that:
+
+“(a)
+
+Year 2000
+
+Software Conversion.—The Secretary of Defense shall ensure that, as soon as practicable, all information technology acquired by the Department of Defense pursuant to contracts entered into after September 30, 1996, has the capabilities to process date and date-related data in 2000.
+
+“(b)
+
+Assessment.—The Secretary, acting through the chief information officers within the department (as designated pursuant to section 3506 of title 44, United States Code), shall assess all information technology within the Department of Defense to determine the extent to which such technology has the capabilities to operate effectively.
+
+“(c)
+
+Plan.—Not later than January 1, 1997, the Secretary shall submit to Congress a detailed plan for eliminating any deficiencies identified pursuant to subsection (b). The plan shall include—
+
+&emsp;“(1) a list of affected major systems;
+
+&emsp;“(2) a description of how the deficiencies could affect the national security of the United States; and
+
+&emsp;“(3) an estimate and prioritization of the resources that are necessary to eliminate the deficiencies.”
+
+#### Defense Facility-Wide Pilot Program
+
+Section 822 of Pub. L. 104–106 provided that:
+
+“(a)
+
+Authority To Conduct Defense Facility-Wide Pilot Program.—The Secretary of Defense may conduct a pilot program, to be known as the ‘defense facility-wide pilot program’, for the purpose of determining the potential for increasing the efficiency and effectiveness of the acquisition process in facilities by using commercial practices on a facility-wide basis.
+
+“(b)
+
+Designation of Participating Facilities.—(1) Subject to paragraph (2), the Secretary may designate up to two facilities as participants in the defense facility-wide pilot program.
+
+“(2) The Secretary may designate for participation in the pilot program only those facilities that are authorized to be so designated in a law authorizing appropriations for national defense programs that is enacted after the date of the enactment of this Act \[Feb. 10, 1996\].
+
+“(c)
+
+Scope of Program.—At a facility designated as a participant in the pilot program, the pilot program shall consist of the following:
+
+&emsp;“(1) All contracts and subcontracts for defense supplies and services that are performed at the facility.
+
+&emsp;“(2) All Department of Defense contracts and all subcontracts under Department of Defense contracts performed elsewhere that the Secretary determines are directly and substantially related to the production of defense supplies and services at the facility and are necessary for the pilot program.
+
+“(d)
+
+Criteria for Designation of Participating Facilities.—The Secretary shall establish criteria for selecting a facility for designation as a participant in the pilot program. In developing such criteria, the Secretary shall consider the following:
+
+&emsp;“(1) The number of existing and anticipated contracts and subcontracts performed at the facility—
+
+&emsp;&emsp;“(A) for which contractors are required to provide certified cost or pricing data pursuant to section 2306a of title 10, United States Code; and
+
+&emsp;&emsp;“(B) which are administered with the application of cost accounting standards under section 26(f) of the Office of Federal Procurement Policy Act (41 U.S.C. 422(f)).
+
+&emsp;“(2) The relationship of the facility to other organizations and facilities performing under contracts with the Department of Defense and subcontracts under such contracts.
+
+&emsp;“(3) The impact that the participation of the facility under the pilot program would have on competing domestic manufacturers.
+
+&emsp;“(4) Such other factors as the Secretary considers appropriate.
+
+“(e)
+
+Notification.—(1) The Secretary shall transmit to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives a written notification of each facility proposed to be designated by the Secretary for participation in the pilot program.
+
+“(2) The Secretary shall include in the notification regarding a facility designated for participation in the program a management plan addressing the following:
+
+&emsp;“(A) The proposed treatment of research and development contracts or subcontracts to be performed at the facility during the pilot program.
+
+&emsp;“(B) The proposed treatment of the cost impact of the use of commercial practices on the award and administration of contracts and subcontracts performed at the facility.
+
+&emsp;“(C) The proposed method for reimbursing the contractor for existing and new contracts.
+
+&emsp;“(D) The proposed method for measuring the performance of the facility for meeting the management goals of the Secretary.
+
+&emsp;“(E) Estimates of the annual amount and the total amount of the contracts and subcontracts covered under the pilot program.
+
+“(3)(A) The Secretary shall ensure that the management plan for a facility provides for attainment of the following objectives:
+
+&emsp;“(i) A significant reduction of the cost to the Government for programs carried out at the facility.
+
+&emsp;“(ii) A reduction of the schedule associated with programs carried out at the facility.
+
+&emsp;“(iii) An increased use of commercial practices and procedures for programs carried out at the facility.
+
+&emsp;“(iv) Protection of a domestic manufacturer competing for contracts at such facility from being placed at a significant competitive disadvantage by the participation of the facility in the pilot program.
+
+“(B) The management plan for a facility shall also require that all or substantially all of the contracts to be awarded and performed at the facility after the designation of that facility under subsection (b), and all or substantially all of the subcontracts to be awarded under those contracts and performed at the facility after the designation, be—
+
+&emsp;“(i) for the production of supplies or services on a firm-fixed price basis;
+
+&emsp;“(ii) awarded without requiring the contractors or subcontractors to provide certified cost or pricing data pursuant to section 2306a of title 10, United States Code; and
+
+&emsp;“(iii) awarded and administered without the application of cost accounting standards under section 26(f) of the Office of Federal Procurement Policy Act (41 U.S.C. 422(f)).
+
+“(f)
+
+Exemption From Certain Requirements.—In the case of a contract or subcontract that is to be performed at a facility designated for participation in the defense facility-wide pilot program and that is subject to section 2306a of title 10, United States Code, or section 26(f) of the Office of Federal Procurement Policy Act (41 U.S.C. 422(f)), the Secretary of Defense may exempt such contract or subcontract from the requirement to obtain certified cost or pricing data under such section 2306a or the requirement to apply mandatory cost accounting standards under such section 26(f) if the Secretary determines that the contract or subcontract—
+
+&emsp;“(1) is within the scope of the pilot program (as described in subsection (c)); and
+
+&emsp;“(2) is fairly and reasonably priced based on information other than certified cost and pricing data.
+
+“(g)
+
+Special Authority.—The authority provided under subsection (a) includes authority for the Secretary of Defense—
+
+&emsp;“(1) to apply any amendment or repeal of a provision of law made in this Act \[see Tables for classification\] to the pilot program before the effective date of such amendment or repeal; and
+
+&emsp;“(2) to apply to a procurement of items other than commercial items under such program—
+
+&emsp;&emsp;“(A) the authority provided in section 34 of the Office of Federal Procurement Policy Act (41 U.S.C. 430) to waive a provision of law in the case of commercial items, and
+
+&emsp;&emsp;“(B) any exception applicable under this Act or the Federal Acquisition Streamlining Act of 1994 (Public Law 103–355) \[see Tables for classification\] (or an amendment made by a provision of either Act) in the case of commercial items,
+
+> &emsp;before the effective date of such provision (or amendment) to the extent that the Secretary determines necessary to test the application of such waiver or exception to procurements of items other than commercial items.
+
+“(h)
+
+Applicability.—(1) Subsections (f) and (g) apply to the following contracts, if such contracts are within the scope of the pilot program at a facility designated for the pilot program under subsection (b):
+
+&emsp;“(A) A contract that is awarded or modified during the period described in paragraph (2).
+
+&emsp;“(B) A contract that is awarded before the beginning of such period, that is to be performed (or maybe performed), in whole or in part, during such period, and that may be modified as appropriate at no cost to the Government.
+
+“(2) The period referred to in paragraph (1), with respect to a facility designated under subsection (b), is the period that—
+
+&emsp;“(A) begins 45 days after the date of the enactment of the Act authorizing the designation of that facility in accordance with paragraph (2) of such subsection; and
+
+&emsp;“(B) ends on September 30, 2000.
+
+“(i)
+
+Commercial Practices Encouraged.—With respect to contracts and subcontracts within the scope of the defense facility-wide pilot program, the Secretary of Defense may, to the extent the Secretary determines appropriate and in accordance with applicable law, adopt commercial practices in the administration of contracts and subcontracts. Such commercial practices may include the following:
+
+&emsp;“(1) Substitution of commercial oversight and inspection procedures for Government audit and access to records.
+
+&emsp;“(2) Incorporation of commercial oversight, inspection, and acceptance procedures.
+
+&emsp;“(3) Use of alternative dispute resolution techniques (including arbitration).
+
+&emsp;“(4) Elimination of contract provisions authorizing the Government to make unilateral changes to contracts.”
+
 #### Elimination of Use of Class I Ozone-Depleting Substances in Certain Military Procurement Contracts
 
-Section 326 of Pub. L. 102–484 provided that:
+Section 326 of Pub. L. 102–484, as amended by Pub. L. 104–106, div. A, title XV, §§1502(c)(2)(A), 1504(c)(1), Feb. 10, 1996, 110 Stat. 506, 514, provided that:
 
 “(a)
 
@@ -190,7 +346,7 @@ Elimination of Use of Class I Ozone-Depleting Substances.—(1) No Department of
 
 &emsp;“(B) Beginning on January 1, 1997, and continuing for 4 years thereafter, by submitting a report on the approvals granted or determinations made under such authority during the preceding year not later than 30 days after the end of such year.
 
-“(5) The Secretary shall promptly transmit to the Committees on Armed Services of the Senate and House of Representatives \[now Committee on Armed Services of the Senate and Committee on National Security of the House of Representatives\] each \[report\] submitted to the Secretary under paragraph (4). The Secretary shall transmit the report in classified and unclassified forms.
+“(5) The Secretary shall promptly transmit to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives each report submitted to the Secretary under paragraph (4). The Secretary shall transmit the report in classified and unclassified forms.
 
 “(b)
 
@@ -300,7 +456,7 @@ GAO Report.—(1) The Comptroller General of the United States shall conduct an 
 
 &emsp;&emsp;&emsp;“(II) submit with its payment request to the Government a certification that it has timely paid its subcontractors in accordance with their subcontracts from funds previously received as progress payments and will timely make required payments to such subcontractors from the proceeds of the progress payment covered by the certification;
 
-&emsp;&emsp;“(iii) evaluating the feasibility and desirability of requiring that all prime contractors (other than aconstruction prime contractor subject to the provisions of sections 3903(b) and 3905 of title 31, United States Code) furnish with its payment request to the Government proof of payment of the amounts included in such payment request for payments made to subcontractors and suppliers;
+&emsp;&emsp;“(iii) evaluating the feasibility and desirability of requiring that all prime contractors (other than a construction prime contractor subject to the provisions of sections 3903(b) and 3905 of title 31, United States Code) furnish with its payment request to the Government proof of payment of the amounts included in such payment request for payments made to subcontractors and suppliers;
 
 &emsp;&emsp;“(iv) evaluating the feasibility and desirability of requiring a prime contractor to establish an escrow account at a federally insured financial institution and requiring direct disbursements to subcontractors and suppliers of amounts certified by the prime contractor in its payment request to the Government as being payable to such subcontractors and suppliers in accordance with their subcontracts; and
 
@@ -358,7 +514,7 @@ Pub. L. 101–510, div. A, title VIII, §800, Nov. 5, 1990, 104 Stat. 1587, as a
 
 Section 807(a) of Pub. L. 102–484 provided that: “Within 15 days after the date of the enactment of this Act \[Oct. 23, 1992\], the Secretary of Defense shall publish in the Department of Defense Supplement to the Federal Acquisition Regulation the Department of Defense policy for the pilot Mentor-Protege Program and the regulations, directives, and administrative guidance pertaining to such program as such policy, regulations, directives, and administrative guidance existed on December 6, 1991. Proposed modifications to that policy and any amendments of the matters published pursuant to the preceding sentence that are proposed in order to implement any of the amendments made by this section shall be published for public comment within 60 days after the date of the enactment of this Act and shall be published in final form within 120 days after such date.”
 
-Pub. L. 101–510, div. A, title VIII, §831, Nov. 5, 1990, 104 Stat. 1607, as amended by Pub. L. 102–25, title VII,§704(c), Apr. 6, 1991, 105 Stat. 119; Pub. L. 102–172, title VIII, §8064A, Nov. 26, 1991, 105 Stat. 1186; Pub. L. 102–190, div. A, title VIII, §814(b), Dec. 5, 1991, 105 Stat. 1425; Pub. L. 102–484, div. A, title VIII, §§801(h)(4), 807(b)(1), title X, §1054(d), Oct. 23, 1992, 106 Stat. 2445, 2448, 2503; Pub. L. 103–160, div. A, title VIII, §813(b)(1), (c), Nov. 30, 1993, 107 Stat. 1703, provided that:
+Pub. L. 101–510, div. A, title VIII, §831, Nov. 5, 1990, 104 Stat. 1607, as amended by Pub. L. 102–25, title VII, §704(c), Apr. 6, 1991, 105 Stat. 119; Pub. L. 102–172, title VIII, §8064A, Nov. 26, 1991, 105 Stat. 1186; Pub. L. 102–190, div. A, title VIII, §814(b), Dec. 5, 1991, 105 Stat. 1425; Pub. L. 102–484, div. A, title VIII, §§801(h)(4), 807(b)(1), title X, §1054(d), Oct. 23, 1992, 106 Stat. 2445, 2448, 2503; Pub. L. 103–160, div. A, title VIII, §813(b)(1), (c), Nov. 30, 1993, 107 Stat. 1703; Pub. L. 104–106, div. A, title VIII, §824, Feb. 10, 1996, 110 Stat. 399; Pub. L. 104–201, div. A, title VIII, §802, Sept. 23, 1996, 110 Stat. 2604, provided that:
 
 “(a)
 
@@ -436,7 +592,7 @@ Incentives for Mentor Firms.—(1) The Secretary of Defense shall provide to a m
 
 &emsp;“(iii) in a separate contract, cooperative agreement, or other agreement entered into between the Secretary and the mentor firm for the purpose of providing reimbursement of costs incurred under the program, subject to a maximum amount of reimbursement specified in such contract or agreement; or
 
-&emsp;“(iv) through a combination of the methods of reimbursement described in clauses (i), (ii), and (iii), but only if the mentor firm has an accounting systemand controls adequate to assure proper identification and assignment of program costs to appropriate direct and indirect cost accounts.
+&emsp;“(iv) through a combination of the methods of reimbursement described in clauses (i), (ii), and (iii), but only if the mentor firm has an accounting system and controls adequate to assure proper identification and assignment of program costs to appropriate direct and indirect cost accounts.
 
 “(B) The Secretary and a mentor firm may provide for the allocation of such costs to any Department of Defense contract awarded to the mentor firm.
 
@@ -472,9 +628,9 @@ Participation in Mentor-Protege Program not To Be a Condition for Award of a Con
 
 “(j)
 
-Duration of Pilot Program.—(1) Business concerns eligible to participate in the program may enter into mentor-protege agreements pursuant to subsection (e) during the period commencing on October 1, 1991, and ending on September 30, 1995.
+Duration of Pilot Program.—(1) Business concerns eligible to participate in the program may enter into mentor-protege agreements pursuant to subsection (e) during the period commencing on October 1, 1991, and ending on September 30, 1996.
 
-“(2) A mentor firm may not incur costs furnishing developmental assistance to a protege firm that are eligible for reimbursement pursuant to subsection (g) prior to October 1, 1991, or after September 30, 1996.
+“(2) A mentor firm may not incur costs furnishing developmental assistance to a protege firm that are eligible for reimbursement pursuant to subsection (g) prior to October 1, 1991, or after September 30, 1999.
 
 “(3) A mentor firm may receive credit toward the attainment of such firm's goals for subcontract awards to disadvantaged small business concerns for unreimbursed costs incurred in providing developmental assistance to the firm's protege firms, pursuant to subsection (g)(3), for the period beginning October 1, 1991, and ending September 30, 1999.
 
@@ -482,7 +638,7 @@ Duration of Pilot Program.—(1) Business concerns eligible to participate in th
 
 Regulations.—The Secretary of Defense shall prescribe regulations to carry out the pilot Mentor-Protege Program. Such regulations shall include the requirements set forth in section 8(d) of the Small Business Act (15 U.S.C. 637(d)) and shall prescribe procedures by which mentor firms may terminate participation in the program. The Secretary shall publish the proposed regulations not later than the date 180 days after the date of the enactment of this Act \[Nov. 5, 1990\]. The Secretary shall promulgate the final regulations not later than the date 270 days after the date of the enactment of this Act. The Department of Defense policy regarding the pilot Mentor-Protege Program shall be published and maintained as an appendix to the Department of Defense Supplement to the Federal Acquisition Regulation.
 
-“(<i>l)</i>
+“(<i>l</i>)
 
 General Accounting Office Assessment.—(1) The General Accounting Office shall evaluate the implementation of the Mentor-Protege Program established pursuant to subsection (a) to determine whether the purposes of the program, as stated in subsection (b), have been attained.
 
@@ -510,7 +666,7 @@ Definitions.—In this section:
 
 &emsp;&emsp;“(B) a business entity owned and controlled by an Indian tribe as defined by section 8(a)(13) of the Small Business Act (15 U.S.C. 637(a)(13));
 
-&emsp;&emsp;“(C) a business entity owned and controlled by a Native Hawaiian Organization as defined by section8(a)(15) of the Small Business Act (15 U.S.C. 637(a)(15)); or
+&emsp;&emsp;“(C) a business entity owned and controlled by a Native Hawaiian Organization as defined by section 8(a)(15) of the Small Business Act (15 U.S.C. 637(a)(15)); or
 
 &emsp;&emsp;“(D) a qualified organization employing the severely disabled.
 
@@ -537,6 +693,8 @@ Definitions.—In this section:
 “(n)
 
 Availability of Funding.—Funds authorized and appropriated to carry out the program shall remain available until September 30, 1999.”
+
+\[Section 802(1) of Pub. L. 104–201, which directed amendment of section 831(j)(1) of Pub. L. 101–510, set out above, by substituting “1998” for “1995”, could not be executed.\]
 
 \[Section 807(b)(2) of Pub. L. 102–484 provided that: “The amendment made by this subsection \[amending section 831 of Pub. L. 101–510, set out above\] shall take effect as of November 5, 1990.”\]
 
@@ -574,7 +732,7 @@ Rule for Construction of Duplicate Provisions.—(1) In applying the provisions 
 
 &emsp;“(A) the identical provisions of those public laws referred to in such paragraph shall be treated as having been enacted only once, and
 
-&emsp;“(B) in executing to the United States Code and other statutes of the United States the amendments made by such identical provisions, such amendments shall be executed so as to appear only once in the law as amended.
+&emsp;“(B) in executing to the United States Code and other statutes of the United States the amendmentsmade by such identical provisions, such amendments shall be executed so as to appear only once in the law as amended.
 
 “(2) Paragraph (1) applies with respect to the provisions of the Defense Appropriations Act and the Defense Authorization Act (as amended by sections 3, 4, 5, and 10(a)) referred to across from each other in the following table:
 
@@ -635,7 +793,5 @@ Pub. L. 93–365, title VII, §707, Aug. 5, 1974, 88 Stat. 406, which prohibited
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1737, 2304, 2366, 2367, 2397b, 2399, 2403, 2409 of this title; title 50 App. section 2171.
-
-<i><sup>1</sup></i><i> So in original. Probably should be followed by a period.</i>
+This section is referred to in sections 1737, 2302d, 2304, 2366, 2367, 2399, 2403, 2409 of this title; title 50 App. section 2171.
 

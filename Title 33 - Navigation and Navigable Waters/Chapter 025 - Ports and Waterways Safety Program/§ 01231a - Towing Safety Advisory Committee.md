@@ -28,19 +28,21 @@ The Committee shall advise, consult with, and make recommendations to the Secret
 
 #### (d) Compensation and travel expenses; administrative services; personnel; authorization of appropriations
 
-Members of the Committee who are not officers or employees of the United States shall serve without pay and members of the Committee who are officers or employees of the United States shall receive no additional pay on account of their service on the Committee. While away from their homes or regular places of business, members of the Committee may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5. The Secretary shall furnish to the Committee an executive secretary and such secretarial, clerical, and other services as are considered necessary for the conduct of its business. There are authorized to be appropriated such sums as may be necessary to implement the provisions of this subsection.
+Members of the Committee who are not officers or employees of the United States shall serve without pay and members of the Committee who are officers or employees of the UnitedStates shall receive no additional pay on account of their service on the Committee. While away from their homes or regular places of business, members of the Committee may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5. The Secretary shall furnish to the Committee an executive secretary and such secretarial, clerical, and other services as are considered necessary for the conduct of its business. There are authorized to be appropriated such sums as may be necessary to implement the provisions of this subsection.
 
 #### (e) Termination
 
-Unless extended by subsequent Act of Congress, the Committee shall terminate on September 30, 1995.
+Unless extended by subsequent Act of Congress, the Committee shall terminate on September 30, 2000.
 
-(Pub. L. 96–380, Oct. 6, 1980, 94 Stat. 1521; Pub. L. 97–322, title I, §118(d), Oct. 15, 1982, 96 Stat. 1587; Pub. L. 98–557, §16(a), Oct. 30, 1984, 98 Stat. 2866; Pub. L. 101–225, title I, §105(b), Dec. 12, 1989, 103 Stat. 1910.)
+(Pub. L. 96–380, Oct. 6, 1980, 94 Stat. 1521; Pub. L. 97–322, title I, §118(d), Oct. 15, 1982, 96 Stat. 1587; Pub. L. 98–557, §16(a), Oct. 30, 1984, 98 Stat. 2866; Pub. L. 101–225, title I, §105(b), Dec. 12, 1989, 103 Stat. 1910; Pub. L. 104–324, title III, §304(c), Oct. 19, 1996, 110 Stat. 3917.)
 
 #### Codification
 
 Section was not enacted as part of the Ports and Waterways Safety Act which comprises this chapter.
 
 #### Amendments
+
+1996—Subsec. (e). Pub. L. 104–324 substituted “September 30, 2000” for “September 30, 1995”.
 
 1989—Subsec. (e). Pub. L. 101–225 substituted “September 30, 1995” for “September 30, 1990”.
 

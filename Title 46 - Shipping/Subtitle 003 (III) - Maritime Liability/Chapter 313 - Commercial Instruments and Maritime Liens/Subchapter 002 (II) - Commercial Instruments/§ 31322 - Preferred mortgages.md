@@ -1,34 +1,14 @@
 ### §31322. Preferred mortgages
 
-(a)(1) A preferred mortgage is a mortgage, whenever made, that—
+(a) A preferred mortgage is a mortgage, whenever made, that—
 
-&emsp;(A) includes the whole of a vessel;
+&emsp;(1) includes the whole of the vessel;
 
-&emsp;(B) is filed in substantial compliance with section 31321 of this title;
+&emsp;(2) is filed in substantial compliance with section 31321 of this title; and
 
-&emsp;(C)(i) covers a documented vessel; or
+&emsp;(3)(A) covers a documented vessel; or
 
-&emsp;(ii) covers a vessel for which an application for documentation is filed that is in substantial compliance with the requirements of chapter 121 of this title and the regulations prescribed under that chapter; and
-
-&emsp;(D) has as the mortgagee—
-
-&emsp;&emsp;(i) a State;
-
-&emsp;&emsp;(ii) the United States Government;
-
-&emsp;&emsp;(iii) a federally insured depository institution, unless disapproved by the Secretary;
-
-&emsp;&emsp;(iv) an individual who is a citizen of the United States;
-
-&emsp;&emsp;(v) a person qualifying as a citizen of the United States under section 2 of the Shipping Act, 1916 (46 App. U.S.C. 802); or
-
-&emsp;&emsp;(vi) a person approved by the Secretary of Transportation.
-
-(2) Paragraph (1)(D) of this subsection does not apply to—
-
-&emsp;(A) a documented vessel that has a fisheries endorsement or a recreational endorsement, or both endorsements; or
-
-&emsp;(B) a vessel for which an application for documentation with a fisheries endorsement or a recreational endorsement, or both endorsements, has been filed.
+&emsp;(B) covers a vessel for which an application for documentation is filed that is in substantial compliance with the requirements of chapter 121 of this title and the regulations prescribed under that chapter.
 
 (b) A preferred mortgage filed or recorded under this chapter may have any rate of interest that the parties to the mortgage agree to.
 
@@ -60,7 +40,7 @@
 
 &emsp;(2) the status of the preferred mortgage covering the vessel to be documented under chapter 121 is determined by subsection (a) of this section.
 
-(Pub. L. 100–710, title I, §102(c), Nov. 23, 1988, 102 Stat. 4743; Pub. L. 101–225, title III, §303(3), Dec. 12, 1989, 103 Stat. 1923.)
+(Pub. L. 100–710, title I, §102(c), Nov. 23, 1988, 102 Stat. 4743; Pub. L. 101–225, title III, §303(3), Dec. 12, 1989, 103 Stat. 1923; Pub. L. 104–324, title XI, §1113(a), Oct. 19, 1996, 110 Stat. 3970.)
 
 Historical and Revision Notes
 
@@ -110,7 +90,7 @@ This section also makes a substantive change by eliminating the requirement that
 
 Under section 31322(a)(2) a “vessel operated only for pleasure” is exempt from any restrictions on who can be a mortgagee. This standard is the same as used for the documentation of a recreational vessel under section 12109 of title 46. The Committee intends that vessels that have a recreational vessel license, or combined fisheries and recreational license, fall under this exemption. However, if the vessel has a Coastwise License, Great Lakes License, or Registry combined with a Recreational License, the vessel would not fall under this exemption.
 
-Under subsection (c)(2), if a vessel covered by a preferred mortgage that includes more than one vessel or property that is not a vessel is to be sold on the order of a district court <i>in rem</i>, and there is not a separate discharge, then the mortgage constitutes a lien on that vessel in the full amount of the outstanding mortgage indebtedness, and an allocation of mortgage indebtedness for purposes of a separate discharge may not be made. This change is made to eliminate the formula that did not work and to allow the vessel to be sold free and clear, regardless of the amount of the sale.
+Under subsection (c)(2), if a vessel covered by a preferred mortgage that includes more than one vessel or property that is not a vessel is to be sold on the order of a district court <i>in rem</i>, and there is not a separatedischarge, then the mortgage constitutes a lien on that vessel in the full amount of the outstanding mortgage indebtedness, and an allocation of mortgage indebtedness for purposes of a separate discharge may not be made. This change is made to eliminate the formula that did not work and to allow the vessel to be sold free and clear, regardless of the amount of the sale.
 
 Under subsection (d) of section 31322, a mortgage or other instrument representing financing of a vessel under State law that is made under applicable State law and covers the whole of a vessel titled in a State is deemed to be a preferred mortgage if two conditions are fulfilled. The first condition is that the Secretary must certify that the State in which the vessel is titled has a titling system that complies with the Secretary's vessel titling guidelines established under section 13106(b)(8) of title 46. Congress mandated the promulgation of these guidelines in the Recreational Boating Safety Act of 1986, Public Law 99–626. The second condition is that the State in which the vessel is titled must make information available to the Secretary for the vessel identification system established under chapter 125 of title 46 (as enacted by this Act) on the vessel covered by the mortgage or other instrument. This status only applies to vessels titled in the State after those two conditions are met. The phrase “instrument representing financing of a vessel under State law” is used in addition to “mortgage” because State laws do not always use the term mortgage when referring to financing. It is intended, however, that the financing covered by this phrase would be the same as that covered by the concept of a mortgage under other Federal law.
 
@@ -126,6 +106,8 @@ Information on vessels with preferred mortgages made under State law will be ava
 
 #### Amendments
 
+1996—Subsec. (a). Pub. L. 104–324 amended subsec. (a) generally. Prior to amendment, subsec. (a) consisted of 2 pars. with substantially similar provisions defining a preferred mortgage except that it included a mortgage with a State, the United States Government, a federally insured depository institution, or specified individual as mortgagee.
+
 1989—Subsec. (a)(2). Pub. L. 101–225, §303(3)(A), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Paragraph (1)(D) of this subsection does not apply to a vessel operated only as a fishing vessel, fish processing vessel, or a fish tender vessel (as defined in section 2101 of this title) or to a vessel operated only for pleasure.”
 
 Subsec. (d)(1). Pub. L. 101–225, §303(3)(B), substituted “granting a security interest perfected under State law” for “representing financing of a vessel under State law that is made under applicable State law”.
@@ -138,5 +120,5 @@ Section effective Jan. 1, 1989, not to affect any civil action filed before that
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 12503, 31301, 31321, 31327, 31328, 31343 of this title; section 808 of Appendix to this title.
+This section is referred to in sections 12503, 31301, 31321, 31327, 31343 of this title; section 808 of Appendix to this title.
 

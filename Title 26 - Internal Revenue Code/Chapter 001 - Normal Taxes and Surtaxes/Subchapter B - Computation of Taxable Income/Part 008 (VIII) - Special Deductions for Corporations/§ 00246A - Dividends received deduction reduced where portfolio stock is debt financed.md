@@ -44,7 +44,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;If, as of the beginning of the ex-dividend date, the taxpayer owns stock of any bank or bank holding company having a value equal to at least 80 percent of the total value of the stock of such bank or bank holding company, for purposes of paragraph (2)(A)(i), the taxpayer shall be treated as owning any stock of such bank or bank holding company which the taxpayer has an option to acquire.
+&emsp;&emsp;If, as of the beginning of the ex-dividend date, the taxpayer owns stock of any bankor bank holding company having a value equal to at least 80 percent of the total value of the stock of such bank or bank holding company, for purposes of paragraph (2)(A)(i), the taxpayer shall be treated as owning any stock of such bank or bank holding company which the taxpayer has an option to acquire.
 
 #### (B) Definitions
 
@@ -120,7 +120,7 @@ Section 2(a) of the Bank Holding Company Act of 1956, referred to in subsec. (c)
 
 1987—Subsec. (a)(1). Pub. L. 100–203 substituted “70 percent (80 percent in the case of any dividend from a 20-percent owned corporation as defined in section 243(c)(2))” for “80 percent”.
 
-1986—Subsec. (a). Pub. L. 99–514, §1804(a), substituted “or 245(a)” for “or 245” and inserted “The precedingsentence shall be applied before any determination of a ratio under paragraph (1) or (2) of section 245(a).”
+1986—Subsec. (a). Pub. L. 99–514, §1804(a), substituted “or 245(a)” for “or 245” and inserted “The preceding sentence shall be applied before any determination of a ratio under paragraph (1) or (2) of section 245(a).”
 
 Subsec. (a)(1). Pub. L. 99–514, §611(a)(4), substituted “80 percent” for “85 percent”.
 

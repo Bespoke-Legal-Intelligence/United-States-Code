@@ -8,7 +8,7 @@ The Secretary may, at his discretion and under such regulations as he may prescr
 
 &emsp;&emsp;<b>For provisions relating to containers of distilled spirits, see section 5206.</b>
 
-(Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1343; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–39, title VIII, §807(a)(12), July 26, 1979, 93 Stat. 282; Pub. L. 98–369, div. A, title IV, §454(c)(3), July 18, 1984, 98 Stat. 821.)
+(Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1343; amended Pub. L. 94–455, title XIX,§1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–39, title VIII, §807(a)(12), July 26, 1979, 93 Stat. 282; Pub. L. 98–369, div. A, title IV, §454(c)(3), July 18, 1984, 98 Stat. 821.)
 
 #### Prior Provisions
 

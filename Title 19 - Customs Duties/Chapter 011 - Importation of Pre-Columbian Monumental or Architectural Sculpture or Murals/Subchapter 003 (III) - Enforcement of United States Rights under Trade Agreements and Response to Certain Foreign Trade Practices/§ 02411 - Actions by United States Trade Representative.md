@@ -94,7 +94,7 @@ If the Trade Representative determines under section 2414(a)(1) of this title th
 
 &emsp;(B) without regard to whether or not such goods or economic sector were involved in the act, policy, or practice that is the subject of such action.
 
-(4) Any trade agreement described in paragraph (1)(C)(iii) <sup>1</sup> shall provide compensatory trade benefits that benefit the economic sector which includes the domestic industry that would benefit from the elimination of the act, policy, or practice that is the subject of the action to be taken under subsection (a) or (b) of this section, or benefit the economic sector as closely related as possible to such economic sector, unless—
+(4) Any trade agreement described in paragraph (1)(D)(iii) shall provide compensatory trade benefits that benefit the economic sector which includes the domestic industry that would benefit from the elimination of the act, policy, or practice that is the subject of the action to be taken under subsection (a) or (b) of this section, or benefit the economic sector as closely related as possible to such economic sector, unless—
 
 &emsp;(A) the provision of such trade benefits is not feasible, or
 
@@ -114,7 +114,7 @@ For purposes of this subchapter—
 
 &emsp;(1) The term “commerce” includes, but is not limited to—
 
-&emsp;&emsp;(A) services (including transfers of information) associated with international trade,whether or not such services are related to specific goods, and
+&emsp;&emsp;(A) services (including transfers of information) associated with international trade, whether or not such services are related to specific goods, and
 
 &emsp;&emsp;(B) foreign direct investment by United States persons with implications for trade in goods or services.
 
@@ -178,13 +178,15 @@ For purposes of this subchapter—
 
 &emsp;(9) The term “interested persons”, only for purposes of sections 2412(a)(4)(B), 2414(b)(1)(A), 2416(c)(2), and 2417(a)(2) of this title, includes, but is not limited to, domestic firms and workers, representatives of consumer interests, United States product exporters, and any industrial user of any goods or services that may be affected by actions taken under subsection (a) or (b) of this section.
 
-(Pub. L. 93–618, title III, §301, as added Pub. L. 96–39, title IX, §901, July 26, 1979, 93 Stat. 295; amended Pub. L. 98–573, title III, §304(a)–(c), (f), Oct. 30, 1984, 98 Stat. 3002, 3005; Pub. L. 100–418, title I, §1301(a), Aug. 23, 1988, 102 Stat. 1164; Pub. L. 103–465, title III, §314(a)–(c), title VI, §621(a)(9), Dec. 8, 1994, 108 Stat. 4939, 4940, 4993.)
+(Pub. L. 93–618, title III, §301, as added Pub. L. 96–39, title IX, §901, July 26, 1979, 93 Stat. 295; amended Pub. L. 98–573, title III, §304(a)–(c), (f), Oct. 30, 1984, 98 Stat. 3002, 3005; Pub. L. 100–418, title I, §1301(a), Aug. 23, 1988, 102 Stat. 1164; Pub. L. 103–465, title III, §314(a)–(c), title VI, §621(a)(9), Dec. 8, 1994, 108 Stat. 4939, 4940, 4993; Pub. L. 104–295, §20(c)(4), Oct. 11, 1996, 110 Stat. 3528.)
 
 #### Prior Provisions
 
 A prior section 301 of Pub. L. 93–618, title III, Jan. 3, 1975, 88 Stat. 2041, which related to Presidential responses to foreign import restrictions and export subsidies and which was classified to this section, was omitted in the general revision of title III of Pub. L. 93–618 by Pub. L. 96–39, title IX, §901, July 26, 1979, 93 Stat. 295.
 
 #### Amendments
+
+1996—Subsec. (c)(4). Pub. L. 104–295 substituted “paragraph (1)(D)(iii)” for “paragraph (1)(C)(iii)”.
 
 1994—Subsec. (a)(1). Pub. L. 103–465, §314(a)(1), inserted at end of concluding provisions “Actions may be taken that are within the power of the President with respect to trade in any goods or services, or with respect to any other area of pertinent relations with the foreign country.”
 
@@ -232,11 +234,9 @@ Section 1301(c) of Pub. L. 100–418 provided that: “The amendments made by th
 
 #### Effective Date
 
-Section 903 of Pub. L. 96–39 provided that: “The amendments made by sections 901 and 902 \[enacting this subchapter and amending sections 1872, 2192, and 2194 of this title\] shall take effect on the date of the enactment of this Act \[July 26, 1979\]. Any petition for review filed with the Special Representative for Trade Negotiations under section 301 of the Trade Act of 1974 (as in effect on the day before such date of enactment) \[former section 2411 of this title\] and pending on such date of enactment shall be treated as an investigation initiated on such date of enactment under section 302(b)(2) of the Trade Act of 1974 (as added by section 901 of this Act) \[section 2412(b)(2) of this title\] and any information developed by, or submitted to, the Special Representative before such date of enactment under the review shall be treated as part of the information developed during such investigation.”
+Section 903 of Pub. L. 96–39 provided that: “The amendments made by sections 901 and 902 \[enacting this subchapter and amending sections 1872, 2192, and 2194 of this title\] shall take effect on the date of the enactment of this Act \[July 26, 1979\]. Any petition for review filed with the Special Representative for Trade Negotiations under section 301 of the Trade Act of 1974\(as in effect on the day before such date of enactment) \[former section 2411 of this title\] and pending on such date of enactment shall be treated as an investigation initiated on such date of enactment under section 302(b)(2) of the Trade Act of 1974 (as added by section 901 of this Act) \[section 2412(b)(2) of this title\] and any information developed by, or submitted to, the Special Representative before such date of enactment under the review shall be treated as part of the information developed during such investigation.”
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2112, 2241, 2412, 2414, 2415, 2416, 2417, 2419, 2554, 2581, 3105, 3106, 3312, 3437, 3512, 3571 of this title; title 7 sections 1736m, 5602, 5623.
-
-<i><sup>1</sup></i><i> So in original. Probably should be paragraph “(1)(D)(iii)”.</i>
+This section is referred to in sections 2112, 2241, 2412, 2414, 2415, 2416, 2417, 2419, 2554, 2581, 3105, 3106, 3312, 3437, 3512, 3571 of this title; title 7 sections 5602, 5623.
 

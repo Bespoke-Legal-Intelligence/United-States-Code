@@ -22,7 +22,7 @@ In addition to any authority vested in it by other provisions of this chapter, t
 
 #### (b) Annual report to Congress
 
-The Director shall submit to the Librarian for inclusion in the annual report of the Library of Congress to the Congress an annual report of the operations of the Center under this chapter, which shall include a detailed statement of all private and public funds received and expended by it, and such recommendations as the Center deems appropriate.
+The Director shall submit to the Librarian for inclusion in the annual report of the Library of Congress to the Congress an annual report of the operations of the Center under this chapter, which shall include a detailed statement of allprivate and public funds received and expended by it, and such recommendations as the Center deems appropriate.
 
 (Pub. L. 94–201, §7, Jan. 2, 1976, 89 Stat. 1133.)
 

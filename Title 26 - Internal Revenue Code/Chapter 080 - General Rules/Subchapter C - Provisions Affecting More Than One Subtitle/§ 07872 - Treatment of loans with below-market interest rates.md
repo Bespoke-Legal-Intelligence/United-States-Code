@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;For purposes of this title, in the case of any below-market loan to which this section applies and which is a gift loan or a demand loan, the foregone interest shall be treated as—
+&emsp;For purposes of this title, in the case of any below-market loan to which this section applies and which is a gift loan or a demand loan, the forgone interest shall be treated as—
 
 &emsp;&emsp;(A) transferred from the lender to the borrower, and
 
@@ -12,7 +12,7 @@
 
 #### (2) Time when transfers made
 
-&emsp;Except as otherwise provided in regulations prescribed by the Secretary, any foregone interest attributable to periods during any calendar year shall be treated as transferred (and retransferred) under paragraph (1) on the last day of such calendar year.
+&emsp;Except as otherwise provided in regulations prescribed by the Secretary, any forgone interest attributable to periods during any calendar year shall be treated as transferred (and retransferred) under paragraph (1) on the last day of such calendar year.
 
 #### (b) Treatment of other below-market loans
 
@@ -64,7 +64,7 @@
 
 #### (E) Other below-market loans
 
-&emsp;&emsp;To the extent provided in regulations, any below-market loan which is not described in subparagraph (A), (B), (C), or (F) if the interest arrangements of such loan have a significant effect on any Federal tax liability of the lender or the borrower.
+&emsp;&emsp;To the extent provided in regulations, any below-market loan which is not described insubparagraph (A), (B), (C), or (F) if the interest arrangements of such loan have a significant effect on any Federal tax liability of the lender or the borrower.
 
 #### (F) Loans to qualified continuing care facilities
 
@@ -138,7 +138,7 @@
 
 &emsp;In the case of any gift loan which is a term loan, subsection (b)(1) (and not subsection (a)) shall apply for purposes of chapter 12.
 
-#### (e) Definitions of below-market loan and foregone interest
+#### (e) Definitions of below-market loan and forgone interest
 
 For purposes of this section—
 
@@ -150,9 +150,9 @@ For purposes of this section—
 
 &emsp;&emsp;(B) in the case of a term loan, the amount loaned exceeds the present value of all payments due under the loan.
 
-#### (2) Foregone interest
+#### (2) Forgone interest
 
-&emsp;The term “foregone interest” means, with respect to any period during which the loan is outstanding, the excess of—
+&emsp;The term “forgone interest” means, with respect to any period during which the loan is outstanding, the excess of—
 
 &emsp;&emsp;(A) the amount of interest which would have been payable on the loan for the period if interest accrued on the loan at the applicable Federal rate and were payable annually on the day referred to in subsection (a)(2), over
 
@@ -200,9 +200,9 @@ For purposes of this section—
 
 &emsp;A husband and wife shall be treated as 1 person.
 
-#### (8) Loans to which section 483 or 1274 applies
+#### (8) Loans to which section 483, 643(i), or 1274 applies
 
-&emsp;This section shall not apply to any loan to which section 483 or 1274 applies.
+&emsp;This section shall not apply to any loan to which section 483, 643(i), or 1274 applies.
 
 #### (9) No withholding
 
@@ -225,10 +225,6 @@ For purposes of this section—
 #### (B) Paragraph only to apply to cases to which section 217 applies
 
 &emsp;&emsp;Subparagraph (A) shall only apply to the purchase of a principal residence in connection with the commencement of work by an employee or a change in the principal place of work of an employee to which section 217 applies.
-
-#### (12) Special rule for certain employer security loans
-
-&emsp;This section shall not apply to any loan between a corporation (or any member of the controlled group of corporations which includes such corporation) and an employee stock ownership plan described in section 4975(e)(7) to the extent that the interest rate on such loan is equal to the interest rate paid on a related securities acquisition loan (as described in section 133(b)) to such corporation.
 
 #### (g) Exception for certain loans to qualified continuing care facilities
 
@@ -308,9 +304,21 @@ For purposes of this section—
 
 &emsp;Under regulations prescribed by the Secretary, any loan which is made with donative intent and which is a term loan shall be taken into account for purposes of chapter 11 in a manner consistent with the provisions of subsection (b).
 
-(Added Pub. L. 98–369, div. A, title I, §172(a), July 18, 1984, 98 Stat. 699; amended Pub. L. 99–121, title II, §§201, 202, Oct. 11, 1985, 99 Stat. 511–513; Pub. L. 99–514, title V, §511(d)(1), title XVIII, §§1812(b)(2)–(4), 1854(c)(2)(B), Oct. 22, 1986, 100 Stat. 2248, 2834, 2879; Pub. L. 100–647, title I, §§1005(c)(15), 1018(u)(48), Nov. 10, 1988, 102 Stat. 3393, 3593.)
+(Added Pub. L. 98–369, div. A, title I, §172(a), July 18, 1984, 98 Stat. 699; amended Pub. L. 99–121, title II, §§201, 202, Oct. 11, 1985, 99 Stat. 511–513; Pub. L. 99–514, title V, §511(d)(1), title XVIII, §§1812(b)(2)–(4), 1854(c)(2)(B), Oct. 22, 1986, 100 Stat. 2248, 2834, 2879; Pub. L. 100–647, title I, §§1005(c)(15), 1018(u)(48), Nov. 10, 1988, 102 Stat. 3393, 3593; Pub. L. 104–188, title I, §§1602(b)(7), 1704(t)(58), 1906(c)(2), Aug. 20, 1996, 110 Stat. 1834, 1890, 1916.)
 
 #### Amendments
+
+1996—Subsec. (a)(1), (2). Pub. L. 104–188, §1704(t)(58)(A), substituted “forgone” for “foregone”.
+
+Subsec. (e). Pub. L. 104–188, §1704(t)(58)(B), substituted “forgone” for “foregone” in heading.
+
+Subsec. (e)(2). Pub. L. 104–188, §1704(t)(58), substituted “Forgone” for “Foregone” in heading and “forgone” for “foregone” in introductory provisions of text.
+
+Subsec. (f)(8). Pub. L. 104–188, §1906(c)(2), inserted “, 643(i),” before “or 1274” in heading and text.
+
+Subsec. (f)(12). Pub. L. 104–188, §1602(b)(7), struck out par. (12) which read as follows: “
+
+Special rule for certain employer security loans.—This section shall not apply to any loan between a corporation (or any member of the controlled group of corporations which includes such corporation) and an employee stock ownership plan described in section 4975(e)(7) to the extent that the interest rate on such loan is equal to the interest rate paid on a related securities acquisition loan (as described in section 133(b)) to such corporation.”
 
 1988—Subsec. (d)(1)(E)(i). Pub. L. 100–647, §1005(c)(15), directed substitution of “section 163(d)(4)” for “section 163(d)(3)”, which substitution had been previously made by Pub. L. 99–514, §511(d)(1).
 
@@ -335,6 +343,12 @@ Subsec. (c)(1)(F). Pub. L. 99–121, §201(b), added subpar. (f).
 Subsec. (f)(11). Pub. L. 99–121, §202, added par. (11) relating to time for determining rate applicable to employee relocation loans.
 
 Subsecs. (g), (h). Pub. L. 99–121, §201(a), added subsec. (g) and redesignated former subsec. (g) as (h).
+
+#### Effective Date of 1996 Amendment
+
+Amendment by section 1602(b)(7) of Pub. L. 104–188 applicable to loans made after Aug. 20, 1996, with exception and provisions relating to certain refinancings, see section 1602(c) of Pub. L. 104–188, set out as an Effective Date of Repeal note under former section 133 of this title.
+
+Amendment by section 1906(c)(2) of Pub. L. 104–188 applicable to loans of cash or marketable securities made after Sept. 19, 1995, see section 1906(d)(3) of Pub. L. 104–188, set out as a note under section 643 of this title.
 
 #### Effective Date of 1988 Amendment
 

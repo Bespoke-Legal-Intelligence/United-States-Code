@@ -26,7 +26,7 @@ During a period of 5 years beginning on October 21, 1986, the following obligati
 
 &emsp;(B) a report of the Corporation's total capital expenditures,
 
-> for the period with respect to which the dividend has been declared, and the fiscal year to date, and shall compare such capital expenditures to the budgeted capital expenditures and to the capital expenditures during the comparable periods of the previous fiscal year.
+> for the period with respect to which the dividend has been declared, and the fiscal year to date, and shall compare such capital expenditures to the budgeted capital expenditures and to thecapital expenditures during the comparable periods of the previous fiscal year.
 
 (Pub. L. 99–509, title IV, §4021, Oct. 21, 1986, 100 Stat. 1898; Pub. L. 101–213, §2(b)(3), Dec. 11, 1989, 103 Stat. 1843.)
 
@@ -36,7 +36,7 @@ During a period of 5 years beginning on October 21, 1986, the following obligati
 
 #### Abolition of Interstate Commerce Commission and Transfer of Functions
 
-Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwiseprovided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by section 702 of Title 49, Transportation, and section 101 of Pub. L. 104–88, set out as a note under section 701 of Title 49. References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under section 701 of Title 49.
+Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by section 702 of Title 49, Transportation, and section 101 of Pub. L. 104–88, set out as a note under section 701 of Title 49. References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under section 701 of Title 49.
 
 #### Section Referred to in Other Sections
 

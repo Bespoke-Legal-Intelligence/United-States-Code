@@ -100,7 +100,7 @@
 
 #### (D) Maintenance of records
 
-&emsp;&emsp;The Special Trustee shall maintain records of certifications made under paragraph (3)(B).<sup>1</sup>
+&emsp;&emsp;The Special Trustee shall maintain records of certifications made under subparagraph (C).
 
 #### (E) Limitation on reprogramming or transfer
 
@@ -118,11 +118,11 @@ The Special Trustee, and his staff, shall have access to all records, reports, a
 
 The Special Trustee shall report to the Secretary and the Committee on Natural Resources of the House of Representatives and the Committee on Indian Affairs of the Senate each year on the progress of the Department, the Bureau, the Bureau of Land Management, and the Minerals Management Service in implementing the reforms identified in the comprehensive strategic plan under subsection (a)(1) of this section and in meeting the timetable established in the strategic plan under subsection (a)(2)(C) of this section.
 
-(Pub. L. 103–412, title III, §303, Oct. 25, 1994, 108 Stat. 4245.)
+(Pub. L. 103–412, title III, §303, Oct. 25, 1994, 108 Stat. 4245; Pub. L. 104–109, §6(a), Feb. 12, 1996, 110 Stat. 764.)
 
-#### References in Text
+#### Amendments
 
-Paragraph (3)(B), referred to in subsec. (c)(5)(D), probably should be a reference to subparagraph (C) of par. (5), because par. (3) contains no subparagraphs and subpar. (C) of par. (5) relates to certification.
+1996—Subsec. (c)(5)(D). Pub. L. 104–109 substituted “subparagraph (C)” for “paragraph (3)(B)”.
 
 #### Change of Name
 
@@ -131,6 +131,4 @@ Committee on Natural Resources of House of Representatives treated as referring 
 #### Section Referred to in Other Sections
 
 This section is referred to in section 4042 of this title.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

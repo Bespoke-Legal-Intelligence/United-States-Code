@@ -16,7 +16,7 @@ Not later than December 15 of each calendar year the Secretary shall conduct a r
 
 #### (d) Farm acreage allotments
 
-The Secretary shall provide for the apportionment of the State acreage allotment for any State, less the acreage to be allotted to new farms under subsection (f) of this section, through local committees among farms on which peanuts were grown in any of the three years immediately preceding the year for which such allotment is determined. The State acreage allotment for 1952 and any subsequent year shall be apportioned among farms on which peanuts were produced in any one of the three calendar years immediately preceding the year for whichsuch apportionment is made, on the basis of the following: Past acreage of peanuts, taking into consideration the acreage allotments previously established for the farm; abnormal conditions affecting acreage; land, labor, and equipment available for the production of peanuts; crop-rotation practices; and soil and other physical factors affecting the production of peanuts. Any acreage of peanuts harvested in excess of the allotted acreage for any farm for any year shall not be considered in the establishment of the allotment for the farm in succeeding years. The amount of the marketing quota for each farm shall be the actual production of the farm-acreage allotment, and no peanuts shall be marketed under the quota for any farm other than peanuts actually produced on the farm.
+The Secretary shall provide for the apportionment of the State acreage allotment for any State, less the acreage to be allotted to new farms under subsection (f) of this section, through local committees among farms on which peanuts were grown in any of the three years immediately preceding the year for which such allotment is determined. The State acreage allotment for 1952 and any subsequent year shall be apportioned among farms on which peanuts were produced in any one of the three calendar years immediately preceding the year for which such apportionment is made, on the basis of the following: Past acreage of peanuts, taking into consideration the acreage allotments previously established for the farm; abnormal conditions affecting acreage; land, labor, and equipment available for the production of peanuts; crop-rotation practices; and soil and other physical factors affecting the production of peanuts. Any acreage of peanuts harvested in excess of the allotted acreage for any farm for any year shall not be considered in the establishment of the allotment for the farm in succeeding years. The amount of the marketing quota for each farm shall be the actual production of the farm-acreage allotment, and no peanuts shall be marketed under the quota for any farm other than peanuts actually produced on the farm.
 
 #### (e) County acreage allotments
 
@@ -40,7 +40,7 @@ The production of peanuts on a farm in 1959 or any subsequent year for which no 
 
 Notwithstanding any other provision of this chapter, if the Secretary determines for 1976 or a subsequent year that because of a natural disaster a portion of the farm peanut acreage allotments in a county cannot be timely planted or replanted in such year, he may authorize for such year the transfer of all or a part of the peanut acreage allotments for any farm in the county so affected to another farm in the county or in an adjoining county in the same or an adjoining State on which one or more of the producers on the farm from which the transfer is to be made will be engaged in the production of peanuts and will share in the proceeds thereof, in accordance with such regulations as the Secretary may prescribe. Any farm allotment transferred under this subsection shall be deemed to be released acreage for the purpose of acreage history credits under subsection (g) of this section and section 1377 of this title: <i>Provided</i>, That notwithstanding the provisions of subsection (g) of this section, the transfer of any farm allotment under this subsection shall operate to make the farm from which the allotment was transferred eligible for an allotment as having peanuts planted thereon during the three-year base period.
 
-(Feb. 16, 1938, ch. 30, title III, §358, as added Apr. 3, 1941, ch. 39, §1, 55 Stat. 88; amended July 9, 1942, ch. 497, §1(1), 56 Stat. 653; July 26, 1946, ch. 677, 60 Stat. 705; Aug. 1, 1947, ch. 445, §1, 61 Stat. 721; Aug. 29, 1949, ch. 518, §4, 63 Stat. 676; Mar. 31, 1950, ch. 81, §6(b), 64 Stat. 43; Apr. 12, 1951, ch. 28, §1, 65 Stat. 29; Aug. 21, 1958, Pub. L. 85–717, §1, 72 Stat. 709; Feb. 16, 1938, ch. 30, title III, §378(d), as added Aug. 28, 1958, Pub. L. 85–835, title V, §501, 72 Stat. 996; Aug. 3, 1971, Pub. L. 92–62, §§1–3, 85 Stat. 163, 164; Mar. 25, 1976, Pub. L. 94–247, 90 Stat. 285; Sept. 29, 1977, Pub. L. 95–113, title VIII,§§801(b), 802, 91 Stat. 944; Dec. 22, 1981, Pub. L. 97–98, title VII, §702, 95 Stat. 1248; Nov. 15, 1985, Pub. L. 99–157, §5, 99 Stat. 818; Dec. 23, 1985, Pub. L. 99–198, title VII, §702, 99 Stat. 1430; Dec. 13, 1991, Pub. L. 102–237, title I, §117(b)(2)(A), 105 Stat. 1841.)
+(Feb. 16, 1938, ch. 30, title III, §358, as added Apr. 3, 1941, ch. 39, §1, 55 Stat. 88; amended July 9, 1942, ch. 497, §1(1), 56 Stat. 653; July 26, 1946, ch. 677, 60 Stat. 705; Aug. 1, 1947, ch. 445, §1, 61 Stat. 721; Aug. 29, 1949, ch. 518, §4, 63 Stat. 676; Mar. 31, 1950, ch. 81, §6(b), 64 Stat. 43; Apr. 12, 1951, ch. 28, §1, 65 Stat. 29; Aug. 21, 1958, Pub. L. 85–717, §1, 72 Stat. 709; Feb. 16, 1938, ch. 30, title III, §378(d), as added Aug. 28, 1958, Pub. L. 85–835, title V, §501, 72 Stat. 996; Aug. 3, 1971, Pub. L. 92–62, §§1–3, 85 Stat. 163, 164; Mar. 25, 1976, Pub. L. 94–247, 90 Stat. 285; Sept. 29, 1977, Pub. L. 95–113, title VIII, §§801(b), 802, 91 Stat. 944; Dec. 22, 1981, Pub. L. 97–98, title VII, §702, 95 Stat. 1248; Nov. 15, 1985, Pub. L. 99–157, §5, 99 Stat. 818; Dec. 23, 1985, Pub. L. 99–198, title VII, §702, 99 Stat. 1430; Dec. 13, 1991, Pub. L. 102–237, title I, §117(b)(2)(A), 105 Stat. 1841.)
 
 #### Amendments
 
@@ -112,19 +112,15 @@ Functions of all officers, agencies, and employees of Department of Agriculture 
 
 Functions of Corporations of Department of Agriculture, boards of directors and officers of such corporations; Advisory Board of Commodity Credit Corporation; and Farm Credit Administration or any agency, officer, or entity of, under, or subject to supervision of said Administration excepted from functions of officers, agencies, and employees transferred to Secretary of Agriculture by 1953 Reorg. Plan No. 2, §1.
 
-#### Inapplicability to 1991 Through 1995 Crops of Peanuts
+#### Inapplicability of Section
+
+Section inapplicable to 1996 through 2002 crops of loan commodities, peanuts, and sugar and inapplicable tomilk during period beginning Apr. 4, 1996, and ending Dec. 31, 2002, see section 7301(a)(1)(B) of this title.
 
 Pub. L. 101–624, title VIII, §801(1), Nov. 28, 1990, 104 Stat. 3459, provided that subsecs. (a) through (j) of this section are inapplicable to 1991 through 1995 peanut crops.
 
-#### Inapplicability to 1986 Through 1990 Crops of Peanuts
-
 Section 701(1) of Pub. L. 99–198 provided that subsecs. (a) through (j) of this section are inapplicable to 1986 through 1990 peanut crops.
 
-#### Inapplicability to 1982 Through 1985 Crops of Peanuts
-
 Section 701(1) of Pub. L. 97–98 provided that subsecs. (a) through (j) of this section are inapplicable to 1982 through 1985 peanut crops.
-
-#### Inapplicability to 1978 Through 1981 Crops of Peanuts
 
 Section 801(a) of Pub. L. 95–113 provided that: “Subsections (a) and (e) \[of this section\] shall not be applicable to the 1978 through 1981 crops of peanuts.”
 
@@ -135,4 +131,8 @@ Section 7 of act Mar. 31, 1950, prohibited reduction of the peanut acreage allot
 #### Emergency Farm Acreage Allotment
 
 Act Feb. 28, 1945, ch. 15, 59 Stat. 9, provided for farm acreage allotment during national emergency proclaimed by the President on Sept. 8, 1939, and May 27, 1941. Such emergencies terminated on July 25, 1947, by the provisions of Joint Res. July 25, 1947, ch. 327, §3, 61 Stat. 451.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 7301 of this title.
 

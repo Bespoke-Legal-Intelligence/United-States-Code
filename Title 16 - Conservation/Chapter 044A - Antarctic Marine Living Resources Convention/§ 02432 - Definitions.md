@@ -12,7 +12,7 @@ For purposes of this chapter—
 
 #### (3) Commission
 
-&emsp;The term “Commission” means the Commission for the Conservation of Antarctic MarineLiving Resources established pursuant to article VII of the Convention.
+&emsp;The term “Commission” means the Commission for the Conservation of Antarctic Marine Living Resources established pursuant to article VII of the Convention.
 
 #### (4) Convention
 
@@ -68,7 +68,7 @@ For purposes of this chapter—
 
 #### (11) Vessel subject to the jurisdiction of the United States
 
-&emsp;The term “vessel subject to the jurisdiction of the United States” includes a vessel without nationality or a vessel assimilated to a vessel without nationality, in accordance with paragraph (2) of Article 6 of the 1958 Convention on the High Seas.
+&emsp;The term “vessel subject to the jurisdiction of the United States” includes a vessel without nationality or a vessel assimilated to avessel without nationality, in accordance with paragraph (2) of Article 6 of the 1958 Convention on the High Seas.
 
 (Pub. L. 98–623, title III, §303, Nov. 8, 1984, 98 Stat. 3398.)
 
@@ -78,7 +78,7 @@ The customs laws of the United States, referred to in par. (7), are classified g
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 2462 of this title.
+This section is referred to in sections 2402, 2462 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be a comma.</i>
 

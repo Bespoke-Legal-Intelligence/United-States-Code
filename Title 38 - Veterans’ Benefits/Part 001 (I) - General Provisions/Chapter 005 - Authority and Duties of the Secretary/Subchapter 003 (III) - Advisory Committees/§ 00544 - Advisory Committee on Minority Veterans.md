@@ -32,7 +32,7 @@
 
 (4) The Committee shall meet as often as the Secretary considers necessary or appropriate, but not less often than twice each fiscal year.
 
-(b) The Secretary shall, on a regular basis, consult with and seek the advice of the Committee with respect to the administration of benefits by the Department for veterans who are minority group members, reports and studies pertaining to such veterans and the needs of such veterans with respect to compensation, health care, rehabilitation, outreach, and other benefits and programs administered by the Department.
+(b) The Secretary shall, on a regular basis, consult with and seek the advice of the Committee with respect to the administration of benefits by the Department for veterans who are minority group members, reports and studies pertaining to such veterans and the needs of such veterans with respect to compensation, health care, rehabilitation, outreach, and other benefits and programs administered by the Department, including the Center for Minority Veterans.
 
 (c)(1) Not later than July 1 of each year, the Committee shall submit to the Secretary a report on the programs and activities of the Department that pertain to veterans who are minority group members. Each such report shall include—
 
@@ -46,7 +46,7 @@
 
 (3) The Committee may also submit to the Secretary such other reports and recommendations as the Committee considers appropriate.
 
-(4) The Secretary shall submit with each annual report submitted to the Congress pursuant to section 529 of this title a summary of all reports and recommendations of the Committeesubmitted to the Secretary since the previous annual report of the Secretary submitted pursuant to such section.
+(4) The Secretary shall submit with each annual report submitted to the Congress pursuant to section 529 of this title a summary of all reports and recommendations of the Committee submitted to the Secretary since the previous annual report of the Secretary submitted pursuant to such section.
 
 (d) In this section, the term “minority group member” means an individual who is—
 
@@ -60,7 +60,17 @@
 
 &emsp;(5) Pacific-Islander American.
 
-(e) The Committee shall cease to exist December 31, 1997.
+(e) The Committee shall cease to exist December 31, 1999.
 
-(Added Pub. L. 103–446, title V, §510(a), Nov. 2, 1994, 108 Stat. 4668.)
+(Added Pub. L. 103–446, title V, §510(a), Nov. 2, 1994, 108 Stat. 4668; amended Pub. L. 104–275, title V, §501(e)(2), (f), Oct. 9, 1996, 110 Stat. 3341.)
+
+#### Amendments
+
+1996—Subsec. (b). Pub. L. 104–275, §501(e)(2), inserted “, including the Center for Minority Veterans” before period at end.
+
+Subsec. (e). Pub. L. 104–275, §501(f), substituted “December 31, 1999” for “December 31, 1997”.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 317 of this title.
 

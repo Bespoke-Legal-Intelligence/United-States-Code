@@ -1,10 +1,12 @@
 ### §808. Termination
 
-The Board shall terminate October 1, 1995.
+The Board shall terminate October 1, 1999.
 
-(Pub. L. 96–114, §9, Nov. 16, 1979, 93 Stat. 855; Pub. L. 99–161, §3, Nov. 25, 1985, 99 Stat. 934; Pub. L. 100–674, §2(d), Nov. 17, 1988, 102 Stat. 3997; Pub. L. 101–525, §2(a), Nov. 6, 1990, 104 Stat. 2305; Pub. L. 102–457, §3, Oct. 23, 1992, 106 Stat. 2266.)
+(Pub. L. 96–114, §9, Nov. 16, 1979, 93 Stat. 855; Pub. L. 99–161, §3, Nov. 25, 1985, 99 Stat. 934; Pub. L. 100–674, §2(d), Nov. 17, 1988, 102 Stat. 3997; Pub. L. 101–525, §2(a), Nov. 6, 1990, 104 Stat. 2305; Pub. L. 102–457, §3, Oct. 23, 1992, 106 Stat. 2266; Pub. L. 104–208, div. A, title V, §5401(b), Sept. 30, 1996, 110 Stat. 3009–511.)
 
 #### Amendments
+
+1996—Pub. L. 104–208 substituted “1999” for “1995”.
 
 1992—Pub. L. 102–457 substituted “1995” for “1992”.
 
@@ -15,6 +17,8 @@ The Board shall terminate October 1, 1995.
 1985—Pub. L. 99–161 substituted “on November 16, 1988” for “six years after November 16, 1979”.
 
 #### Savings Provision
+
+Section 5401(c) of div. A of Pub. L. 104–208 provided that: “During the period of October 1, 1995, through the date of the enactment of this section \[Sept. 30, 1996\], all actions and functions of the Congressional Award Board under the Congressional Award Act \[2 U.S.C. 801 et seq.\] shall have the same effect as though no lapse or termination of the Congressional Award Board ever occurred.”
 
 Section 2(b) of Pub. L. 101–525 provided that: “During the period of October 1, 1990, through the date of the enactment of this section \[Nov. 6, 1990\], all actions and functions of the Congressional Award Board under the Congressional Award Act (2 U.S.C. 801 et seq.) shall have the same effect as though no lapse or termination of the Board ever occurred.”
 

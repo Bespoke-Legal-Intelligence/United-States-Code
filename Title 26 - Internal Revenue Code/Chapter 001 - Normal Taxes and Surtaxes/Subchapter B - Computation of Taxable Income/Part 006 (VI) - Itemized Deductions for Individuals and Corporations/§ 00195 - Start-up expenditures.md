@@ -60,7 +60,7 @@ For purposes of this section—
 
 1984—Subsec. (a). Pub. L. 98–369 amended subsec. (a) generally, substituting provisions dealing with capitalization of expenditures for provisions dealing with election to amortize.
 
-Subsec. (b). Pub. L. 98–369 amended subsec. (b) generally, substituting provisions dealing with election toamortize for provisions dealing with start-up expenditures.
+Subsec. (b). Pub. L. 98–369 amended subsec. (b) generally, substituting provisions dealing with election to amortize for provisions dealing with start-up expenditures.
 
 Subsec. (c). Pub. L. 98–369 amended subsec. (c) generally, substituting provisions setting forth definitions for provisions dealing with election.
 

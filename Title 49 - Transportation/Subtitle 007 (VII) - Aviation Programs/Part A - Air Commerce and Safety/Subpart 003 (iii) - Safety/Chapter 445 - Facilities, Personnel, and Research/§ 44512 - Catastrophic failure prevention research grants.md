@@ -16,7 +16,9 @@ Solicitation, Application, Review, and Evaluation Process.—The Administrator s
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -34,5 +36,5 @@ In subsection (b), the words “providing grants” are substituted for “the f
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 106, 40119, 44501, 44508, 48102, 49103 of this title.
+This section is referred to in sections 106, 40119, 44501, 44508, 48102, 50103 of this title.
 

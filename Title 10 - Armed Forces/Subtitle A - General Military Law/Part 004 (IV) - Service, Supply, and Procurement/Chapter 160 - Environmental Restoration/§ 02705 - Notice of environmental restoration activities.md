@@ -32,33 +32,25 @@ Technical Review Committee.—Whenever possible and practical, the Secretary sha
 
 Restoration Advisory Board.—(1) In lieu of establishing a technical review committee under subsection (c), the Secretary may permit the establishment of a restoration advisory board in connection with any installation (or group of nearby installations) where the Secretary is planning or implementing environmental restoration activities.
 
-(2) The Secretary shall prescribe regulations regarding the characteristics, composition, funding, and establishment of restoration advisory boards pursuant to this subsection. However, the issuance of regulations shall not be a precondition to the establishment of a restoration advisory board or affect the existence or operation of a restoration advisory board established before the date of the enactment of this section.<sup>1</sup>
+(2)(A) The Secretary shall prescribe regulations regarding the establishment, characteristics, composition, and funding of restoration advisory boards pursuant to this subsection.
 
-(3) The Secretary may provide for the payment of routine administrative expenses of a restoration advisory board from funds available for the operation and maintenance of the installation (or installations) for which the board is established or from the funds available under subsection (e)(3).
+(B) The issuance of regulations under subparagraph (A) shall not be a precondition to the establishment of restoration advisory boards under this subsection.
+
+(3) The Secretary may authorize the commander of an installation (or, if there is no such commander, an appropriate official of the Department of Defense designated by the Secretary) to pay routine administrative expenses of a restoration advisory board established for that installation. Such payments shall be made from funds available under subsection (g).
 
 (e)
 
-Assistance for Citizen Participation.—(1) Using funds made available under paragraph (3), the Secretary may make technical assistance grants under section 117(e) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9617(e)) in connection with installations containing facilities listed on the National Priorities List.
+Technical Assistance.—(1) The Secretary may, upon the request of the technical review committee or restoration advisory board for an installation, authorize the commander of the installation (or, if there is no such commander, an appropriate official of the Department of Defense designated by the Secretary) to obtain for the committee or advisory board, as the case may be, from private sector sources technical assistance for interpreting scientific and engineering issues with regard to the nature of environmental hazards at the installation and the restoration activities conducted, or proposed to be conducted, at the installation. The commander of an installation (or, if there is no such commander, an appropriate official of the Department of Defense designated by the Secretary) shall use funds made available under subsection (g) for obtaining assistance under this paragraph.
 
-(2)(A) Subject to subparagraph (B), the Secretary shall make available under paragraph (3) funds to facilitate the participation of individuals from the private sector on technical review committees and restoration advisory boards at installations not covered by paragraph (1) for the purpose of ensuring public input into the planning and implementation of environmental restoration activities at the installations for which such committees and boards are in operation.
+(2) The commander of an installation (or, if there is no such commander, an appropriate official of the Department of Defense designated by the Secretary) may obtain technical assistance under paragraph (1) for a technical review committee or restoration advisory board only if—
 
-(B) The private individuals who are members of a committee or advisory board are eligible forfunding assistance under this paragraph only if they reside in the vicinity of the installation (or installations) for which the committee or advisory board is established and are not potentially responsible parties with respect to environmental hazards at any installation. Funds shall be paid to, and administered by, the committee or advisory board on which the private individuals are members for accounting and financial management purposes, subject to subparagraph (C).
+&emsp;(A) the technical review committee or restoration advisory board demonstrates that the Federal, State, and local agencies responsible for overseeing environmental restoration at the installation, and available Department of Defense personnel, do not have the technical expertise necessary for achieving the objective for which the technical assistance is to be obtained; or
 
-(C) Individuals who are local community members of a technical review committee or restoration advisory board may use funds made available under this paragraph only—
+&emsp;(B) the technical assistance—
 
-&emsp;(i) to obtain technical assistance in interpreting scientific and engineering issues with regard to the nature of environmental hazards at an installation and the restoration activities proposed for or conducted at the installation; and
+&emsp;&emsp;(i) is likely to contribute to the efficiency, effectiveness, or timeliness of environmental restoration activities at the installation; and
 
-&emsp;(ii) to assist such members and affected citizens to participate more effectively in environmental restoration activities at the installation.
-
-(D) The members of a technical review committee or restoration advisory board may use funds made available under this paragraph to employ technical or other experts, in accordance with the regulations prescribed under subsection (d)(2).
-
-(3)(A) Subject to subparagraph (B), the Secretary shall make funds available under this subsection using funds in the following accounts:
-
-&emsp;(i) In the case of a military installation not closed pursuant to a base closure law, the Defense Environmental Restoration Account established in section 2703(a) of this title.
-
-&emsp;(ii) In the case of a technical review committee or restoration advisory board established for a military installation to be closed, the Department of Defense Base Closure Account 1990 established under section 2906(a) of the Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of Public Law 101–510; 10 U.S.C. 2687 note).
-
-(B) The total amount of funds available under this subsection for fiscal year 1995 may not exceed $7,500,000.
+&emsp;&emsp;(ii) is likely to contribute to community acceptance of environmental restoration activities at the installation.
 
 (f)
 
@@ -74,15 +66,45 @@ Involvement in Defense Environmental Restoration Program.—If a technical revie
 
 &emsp;(5) Developing environmental restoration strategies for the installation or installations.
 
-(Added Pub. L. 99–499, title II, §211(a)(1)(B), Oct. 17, 1986, 100 Stat. 1724; amended Pub. L. 103–337, div. A, title III, §326(a)–(c), Oct. 5, 1994, 108 Stat. 2712, 2713.)
+(g)
 
-#### References in Text
+Funding.—The Secretary shall, to the extent provided in appropriations Acts, make funds available for administrative expenses and technical assistance under this section using funds in the following accounts:
 
-The date of the enactment of this section, referred to in subsec. (d)(2), probably means the date of enactment of section 326 of Pub. L. 103–337, which was approved Oct. 5, 1994, and which enacted subsec. (d).
+&emsp;(1) In the case of a military installation not approved for closure pursuant to a base closure law, the environmental restoration account concerned under section 2703(a) of this title.
+
+&emsp;(2) In the case of an installation approved for closure pursuant to such a law, the Department of Defense Base Closure Account 1990 established under section 2906(a) of the Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of Public Law 101–510; 10 U.S.C. 2687 note).
+
+(h)
+
+Definition.—In this section, the term “base closure law” means the following:
+
+&emsp;(1) Title II of the Defense Authorization Amendments and Base Closure and Realignment Act (Public Law 100–526; 10 U.S.C. 2687 note).
+
+&emsp;(2) The Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of Public Law 101–510; 10 U.S.C. 2687 note).
+
+&emsp;(3) Section 2687 of this title.
+
+(Added Pub. L. 99–499, title II, §211(a)(1)(B), Oct. 17, 1986, 100 Stat. 1724; amended Pub. L. 103–337, div. A, title III, §326(a)–(c), Oct. 5, 1994, 108 Stat. 2712, 2713; Pub. L. 104–106, div. A, title III, §324(a)–(d)(1), (e), Feb. 10, 1996, 110 Stat. 252–254; Pub. L. 104–201, div. A, title III, §322(c), Sept. 23, 1996, 110 Stat. 2479.)
 
 #### Amendments
 
+1996—Subsec. (d)(2). Pub. L. 104–106, §324(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The Secretary shall prescribe regulations regarding the characteristics, composition, funding, and establishment of restoration advisory boards pursuant to this subsection. However, the issuance of regulations shall not be a precondition to the establishment of a restoration advisory board or affect the existence or operation of a restoration advisory board established before the date of the enactment of this section.”
+
+Subsec. (d)(3). Pub. L. 104–106, §324(b), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The Secretary may provide for the payment of routine administrative expenses of a restoration advisory board from funds available for the operation and maintenance of the installation (or installations) for which the board is established or from the funds available under subsection (e)(3).”
+
+Subsec. (e). Pub. L. 104–106, §324(c), added subsec. (e) and struck out former subsec. (e) which authorized Secretary to make technical assistance grants under section 9617(e) of title 42 in connection with installations containing facilities listed on the National Priorities List and to make funds available to facilitate participation on technical review committees and restoration advisory boards relating to environmental restoration activities at other installations.
+
+Subsec. (g). Pub. L. 104–106, §324(d)(1), added subsec. (g).
+
+Subsec. (g)(1). Pub. L. 104–201 substituted “the environmental restoration account concerned” for “the Defense Environmental Restoration Account established”.
+
+Subsec. (h). Pub. L. 104–106, §324(e), added subsec. (h).
+
 1994—Subsecs. (d) to (f). Pub. L. 103–337 added subsecs. (d) to (f).
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–201 effective Oct. 1, 1996, see section 322(e) of Pub. L. 104–201, set out as a note under section 2703 of this title.
 
 #### Implementation Requirements for Restoration Advisory Boards
 
@@ -94,11 +116,21 @@ Section 326(d) of Pub. L. 103–337 provided that: “Not later than 180 days af
 
 #### Report on Restoration Advisory Boards and Assistance for Citizen Participation on Committees and Boards
 
-Section 326(e) of Pub. L. 103–337 provided that: “Not later than May 1, 1996, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives \[now Committee on Armed Services of the Senate and Committee on National Security of the House of Representatives\] a report regarding—
+Section 326(e) of Pub. L. 103–337 provided that: “Not later than May 1, 1996, the Secretary of Defense shallsubmit to the Committees on Armed Services of the Senate and House of Representatives \[now Committee on Armed Services of the Senate and Committee on National Security of the House of Representatives\] a report regarding—
 
 &emsp;“(1) the establishment of restoration advisory boards under subsection (d) of section 2705 of title 10, United States Code, as added by subsection (a); and
 
 &emsp;“(2) the expenditure of funds for assistance for citizen participation on technical review committees and restoration advisory boards under subsection (e) of such section, as added by subsection (b).”
 
-<i><sup>1</sup></i><i> So in original. Probably should be “subsection.”</i>
+#### Restrictions on Administrative and Technical Assistance Funding
+
+Section 324(d)(2) of Pub. L. 104–106 provided that:
+
+“(2)(A) Subject to subparagraph (B), the total amount of funds made available under section 2705(g) of title 10, United States Code, as added by paragraph (1), for fiscal year 1996 may not exceed $6,000,000.
+
+“(B) Amounts may not be made available under subsection (g) of such section 2705 after September 15, 1996, unless the Secretary of Defense publishes proposed final or interim final regulations required under subsection (d) of such section, as amended by subsection (a).”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 2706 of this title.
 

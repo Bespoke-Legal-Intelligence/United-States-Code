@@ -59,6 +59,12 @@
 | (d) | Applications process. |
 | (e) | Promulgation of regulations or program guidelines. |
 | (f) | Authorization of appropriations. |
+| [9910d.](%C2%A7%2009910d%20-%20Projects%20to%20expand%20the%20number%20of%20job%20opportunities%20available%20to%20certain%20low-income%20individuals.md) | Projects to expand the number of job opportunities available to certain low-income individuals. |
+| (a) | In general. |
+| (b) | Nature of project. |
+| (c) | Content of applications; selection priority. |
+| (d) | Administration. |
+| (e) | Authorization of appropriations. |
 | [9911\.](%C2%A7%2009911%20-%20Annual%20report.md) | Annual report. |
 | (a) | Contract; contents. |
 | (b) | Submission to Congress. |
@@ -93,5 +99,6 @@ This chapter is referred to in sections 3013, 3020d, 3056a, 4953, 8623, 8624, 98
 - [&sect; 09910a - Community food and nutrition](%C2%A7%2009910a%20-%20Community%20food%20and%20nutrition.md)
 - [&sect; 09910b - Demonstration partnership agreements addressing needs of poor](%C2%A7%2009910b%20-%20Demonstration%20partnership%20agreements%20addressing%20needs%20of%20poor.md)
 - [&sect; 09910c - National or regional programs designed to provide instructional activities for low-income youth](%C2%A7%2009910c%20-%20National%20or%20regional%20programs%20designed%20to%20provide%20instructional%20activities%20for%20low-income%20youth.md)
+- [&sect; 09910d - Projects to expand the number of job opportunities available to certain low-income individuals](%C2%A7%2009910d%20-%20Projects%20to%20expand%20the%20number%20of%20job%20opportunities%20available%20to%20certain%20low-income%20individuals.md)
 - [&sect; 09911 - Annual report](%C2%A7%2009911%20-%20Annual%20report.md)
 - [&sect; 09912 - Technical provisions](%C2%A7%2009912%20-%20Technical%20provisions.md)

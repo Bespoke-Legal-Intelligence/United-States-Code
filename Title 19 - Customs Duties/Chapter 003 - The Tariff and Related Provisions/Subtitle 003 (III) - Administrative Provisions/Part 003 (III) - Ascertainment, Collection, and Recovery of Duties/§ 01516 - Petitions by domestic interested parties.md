@@ -14,7 +14,7 @@
 
 &emsp;(A) a manufacturer, producer, or wholesaler in the United States;
 
-&emsp;(B) a certified union or recognized union or group of workers which is representative of anindustry engaged in the manufacture, production, or wholesale in the United States; or
+&emsp;(B) a certified union or recognized union or group of workers which is representative of an industry engaged in the manufacture, production, or wholesale in the United States; or
 
 &emsp;(C) a trade or business association a majority of whose members are manufacturers, producers, or wholesalers in the United States,
 
@@ -50,7 +50,7 @@ Regulations shall be prescribed by the Secretary to implement the procedures req
 
 #### Prior Provisions
 
-Provisions similar to those in this section were contained in act Sept. 21, 1922, ch. 356, title IV, §516, 42Stat. 970. That section was superseded by section 516 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
+Provisions similar to those in this section were contained in act Sept. 21, 1922, ch. 356, title IV, §516, 42 Stat. 970. That section was superseded by section 516 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
 Application of subsection (b) of this section to complaints. Section 17(b) of act June 25, 1938, provided that: “(b) The provisions of subsection (b) of section 516 of the Tariff Act of 1930 \[this section\], as amended by this Act, shall apply only in the case of complaints filed after the effective date of this Act \[see section 1653a of this title\]. The provisions of subsection (b) of section 516 of the Tariff Act of 1930, as in force prior to the effective date of this Act, shall continue in force with respect to any proceedings commenced by the filing of a complaint thereunder, except that upon the expiration of thirty days after the effective date of this Act, or upon the expiration of thirty days after the date of a decision of the Secretary adverse to the complainant, whichever is the later, any such proceedings in which a protest has not been duly filed shall be deemed to have been terminated unless the complainant shall have filed with the Secretary after the effective date of this Act a notice that he desires to protest the classification of, or rate of duty assessed upon, the merchandise.”
 
@@ -80,7 +80,7 @@ Subsecs. (d) to (h). Pub. L. 93–618, §321(f)(1), added subsec. (d) and redesi
 
 Subsec. (b). Pub. L. 91–271 substituted provisions authorizing the Secretary to determine the proper appraised value, classification, or rate of duty of the imported merchandise, and to notify the American manufacturer, producer, or wholesaler of his determination, for provision setting forth the procedure for the determination of a protest by an American manufacturer, producer, or wholesaler that the classification of, and the rate of duty, if any, is not proper.
 
-Subsec. (c). Pub. L. 91–271 substituted provisions setting forth the procedure for the petitioner to contest the decisions of the Secretary with respect to a petition filed pursuant to subsec. (a) of this section, for provisions requiring the collector to mail to the consignee or his agent a copy of every appeal and every protest filed by an American manufacturer, producer, or wholesaler, and authorizing such consignee or his agent to appear and be heard as a party in interest before the Customs Court.
+Subsec. (c). Pub. L. 91–271 substituted provisions setting forth the procedure for the petitioner to contestthe decisions of the Secretary with respect to a petition filed pursuant to subsec. (a) of this section, for provisions requiring the collector to mail to the consignee or his agent a copy of every appeal and every protest filed by an American manufacturer, producer, or wholesaler, and authorizing such consignee or his agent to appear and be heard as a party in interest before the Customs Court.
 
 Subsecs. (d) to (g). Pub. L. 91–271 added subsecs. (d) to (g).
 

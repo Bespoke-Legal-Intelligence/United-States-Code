@@ -62,7 +62,7 @@ Another prior section 139 was renumbered section 2431 of this title.
 
 Subsec. (c). Pub. L. 103–355, §3011, inserted “The Director may communicate views on matters within the responsibility of the Director directly to the Secretary of Defense and the Deputy Secretary of Defense without obtaining the approval or concurrence of any other official within the Department of Defense.” after “(c)”.
 
-Subsec. (f). Pub. L. 103–355, §§3012(b), 3013, in first sentence inserted “(including live fire testing activities)” after “operational test and evaluation activities” andafter second sentence inserted “If the Director submits the report to Congress in a classified form, the Director shall concurrently submit an unclassified version of the report to Congress.”
+Subsec. (f). Pub. L. 103–355, §§3012(b), 3013, in first sentence inserted “(including live fire testing activities)” after “operational test and evaluation activities” and after second sentence inserted “If the Director submits the report to Congress in a classified form, the Director shall concurrently submit an unclassified version of the report to Congress.”
 
 1993—Pub. L. 103–160, §901(a)(1), renumbered section 138 of this title as this section.
 
@@ -125,6 +125,10 @@ Subsec. (i). Pub. L. 99–500 and Pub. L. 99–591, §101(c) \[§903(c)(7)\], an
 #### Effective Date
 
 Section 1211(c) of Pub. L. 98–94 provided that: “The amendments made by this section \[enacting this section and amending section 5315 of Title 5, Government Organization and Employees\] shall take effect on November 1, 1983.”
+
+#### Order of Succession
+
+For order of succession in event of death, disability, or resignation of Secretary, see Ex. Ord. No. 13000, Apr. 24, 1996, 61 F.R. 18483, set out as a note under section 3347 of Title 5, Government Organization and Employees.
 
 #### Section Referred to in Other Sections
 

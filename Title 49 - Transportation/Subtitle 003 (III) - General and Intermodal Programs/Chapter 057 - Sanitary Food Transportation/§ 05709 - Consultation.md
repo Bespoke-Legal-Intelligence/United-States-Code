@@ -6,7 +6,9 @@ As provided by sections 5703–5708 of this title, the Secretary of Transportati
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

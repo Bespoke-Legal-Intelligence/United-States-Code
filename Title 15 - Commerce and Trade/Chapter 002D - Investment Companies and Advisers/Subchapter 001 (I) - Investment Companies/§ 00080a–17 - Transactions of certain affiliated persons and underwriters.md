@@ -4,7 +4,7 @@
 
 It shall be unlawful for any affiliated person or promoter of or principal underwriter for a registered investment company (other than a company of the character described in section 80a–12(d)(3)(A) and (B) of this title), or any affiliated person of such a person, promoter, or principal underwriter, acting as principal—
 
-&emsp;(1) knowingly to sell any security or other property to such registered company or to any company controlled by such registered company, unless such sale involves solely (A) securities of which the buyer is the issuer, (B) securities of which the seller is the issuer and which are part of a general offering to the holders of a class of its securities, or (C) securities deposited with the trustee of a unit investment trust or periodic payment plan by the depositor thereof;
+&emsp;(1) knowingly to sell any security or other property to such registered company or to anycompany controlled by such registered company, unless such sale involves solely (A) securities of which the buyer is the issuer, (B) securities of which the seller is the issuer and which are part of a general offering to the holders of a class of its securities, or (C) securities deposited with the trustee of a unit investment trust or periodic payment plan by the depositor thereof;
 
 &emsp;(2) knowingly to purchase from such registered company, or from any company controlled by such registered company, any security or other property (except securities of which the seller is the issuer); or
 
@@ -22,7 +22,7 @@ Notwithstanding subsection (a) of this section, any person may file with the Com
 
 #### (c) Sale or purchase of merchandise from any company or furnishing of services incident to lessor-lessee relationship
 
-Notwithstanding subsection (a) of this section, a person may, in the ordinary course of business,sell to or purchase from any company merchandise or may enter into a lessor-lessee relationship with any person and furnish the services incident thereto.
+Notwithstanding subsection (a) of this section, a person may, in the ordinary course of business, sell to or purchase from any company merchandise or may enter into a lessor-lessee relationship with any person and furnish the services incident thereto.
 
 #### (d) Joint or joint and several participation with company in transactions
 
@@ -42,7 +42,7 @@ Every registered management company shall place and maintain its securities and 
 
 #### (g) Bonding of officers and employees having access to securities or funds
 
-The Commission is authorized to require by rules and regulations or orders for the protection of investors that any officer or employee of a registered management investment company who may singly, or jointly with others, have access to securities or funds of any registered company, either directly or through authority to draw upon such funds or to direct generally the disposition of such securities (unless the officeror employee has such access solely through his position as an officer or employee of a bank) be bonded by a reputable fidelity insurance company against larceny and embezzlement in such reasonable minimum amounts as the Commission may prescribe.
+The Commission is authorized to require by rules and regulations or orders for the protection of investors that any officer or employee of a registered management investment company who may singly, or jointly with others, have access to securities or funds of any registered company, either directly or through authority to draw upon such funds or to direct generally the disposition of such securities (unless the officer or employee has such access solely through his position as an officer or employee of a bank) be bonded by a reputable fidelity insurance company against larceny and embezzlement in such reasonable minimum amounts as the Commission may prescribe.
 
 #### (h) Provisions in charter, by-laws, etc., protecting against liability for willful misfeasance, etc.
 
@@ -68,7 +68,7 @@ For the effective date of this subchapter, referred to in subsecs. (h) and (i), 
 
 1987—Subsec. (h). Pub. L. 100–181 struck out second sentence which read as follows: “In the event that any such instrument does not at the effective date of this chapter comply with the requirements of this subsection and is not amended to comply therewith prior to the expiration of said one year, such company may nevertheless continue to be a registered investment company and shall not be deemed to violate this subsection if prior to said expiration date each such director or officer shall have filed with the Commission a waiver in writing of any protective provision of the instrument to the extent that it does not comply with this subsection, and each such person subsequently elected or appointed shall before assuming office file a similar waiver.”
 
-Subsec. (i). Pub. L. 100–181 struck out second sentence which read as follows: “In the event that any such contract or agreement does not at the effective date of this chapter comply with the requirements of this subsection and is not amended to comply therewith prior to the expiration of said one year, this subsection shall not be deemed to have been violated if prior to said expiration date each such investment adviser or principal underwriter shall have filed with the Commission a waiver in writing of any protective provision of the contract or agreement to the extent that it does not comply with this subsection.”
+Subsec. (i). Pub. L. 100–181 struck out second sentence which read as follows: “In the event that any such contract or agreement does not at the effective date of thischapter comply with the requirements of this subsection and is not amended to comply therewith prior to the expiration of said one year, this subsection shall not be deemed to have been violated if prior to said expiration date each such investment adviser or principal underwriter shall have filed with the Commission a waiver in writing of any protective provision of the contract or agreement to the extent that it does not comply with this subsection.”
 
 1970—Subsec. (f). Pub. L. 91–547, §9(a), provided in cl. (1) for a registered investment company which is a collective fund maintained by a bank authority to keep its securities and similar investments in the custody of the sponsoring bank, authorized a registered management company or its custodian (with the consent of the management company), subject to the rulemaking power of the Commission, to deposit the securities of the management company in a central certificate depository established by a national securities exchange or a registered national securities association, and provided that if an investment company employs a bank as a custodian for securities and similar investments, then all of its cash assets, shall likewise be held by a bank, subject to direction as to expenditure and disposition by proper company officials, and provided for maintenance of a checking account or accounts in one or more banks in amounts not to exceed the amount of the fidelity bond covering persons authorized to draw on the accounts.
 

@@ -11,11 +11,13 @@
 | [207\.](%C2%A7%2000207%20-%20Band%20leaders.md) | Band leaders. |
 | \[208. | Repealed.\] |
 | [209\.](%C2%A7%2000209%20-%20Members%20of%20precommissioning%20programs.md) | Members of precommissioning programs. |
-| [210\.](%C2%A7%2000210%20-%20Pay%20of%20the%20senior%20noncommissioned%20officer%20of%20an%20armed%20force%20during%20terminal%20leave.md) | Pay of the senior noncommissioned officer of an armed force during terminal leave. |
+| [210\.](%C2%A7%2000210%20-%20Pay%20of%20senior%20enlisted%20members%20during%20terminal%20leave%20and%20while%20hospitalized.md) | Pay of senior enlisted members during terminal leave and while hospitalized. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1996—Pub. L. 104–201, div. A, title VI, §603(b)(2), Sept. 23, 1996, 110 Stat. 2540, substituted “Pay of senior enlisted members during terminal leave and while hospitalized” for “Pay of the senior noncommissioned officer of an armed force during terminal leave” in item 210.
 
 1991—Pub. L. 102–190, div. A, title VI, §606(b), Dec. 5, 1991, 105 Stat. 1375, added item 210.
 
@@ -39,7 +41,7 @@
 
 Assimilation of pay and allowances, see section 1003 of this title.
 
-#### Chapter Referred to in Other Sections
+Chapter Referred to in Other Sections
 
 This chapter is referred to in sections 402, 406, 1003 of this title; title 26 section 3121; title 42 section 409.
 
@@ -57,4 +59,4 @@ This chapter is referred to in sections 402, 406, 1003 of this title; title 26 s
 - [&sect; 00207 - Band leaders](%C2%A7%2000207%20-%20Band%20leaders.md)
 - [&sect; 00208 - Repealed. Pub. L. 91&#8211;482, &sect;1(b), Oct. 21, 1970, 84 Stat. 1082](%C2%A7%2000208%20-%20Repealed.%20Pub.%20L.%2091%E2%80%93482%2C%20%C2%A71%28b%29%2C%20Oct.%2021%2C%201970%2C%2084%20Stat.%201082.md)
 - [&sect; 00209 - Members of precommissioning programs](%C2%A7%2000209%20-%20Members%20of%20precommissioning%20programs.md)
-- [&sect; 00210 - Pay of the senior noncommissioned officer of an armed force during terminal leave](%C2%A7%2000210%20-%20Pay%20of%20the%20senior%20noncommissioned%20officer%20of%20an%20armed%20force%20during%20terminal%20leave.md)
+- [&sect; 00210 - Pay of senior enlisted members during terminal leave and while hospitalized](%C2%A7%2000210%20-%20Pay%20of%20senior%20enlisted%20members%20during%20terminal%20leave%20and%20while%20hospitalized.md)

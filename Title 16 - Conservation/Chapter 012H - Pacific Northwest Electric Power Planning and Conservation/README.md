@@ -36,7 +36,7 @@
 | (i) | Contracts. |
 | (j) | Obligations not to be considered general obligations of United States or secured by full faith and credit of United States. |
 | (k) | Equitable distribution of benefits. |
-| (<i>l)</i> | Investigations. |
+| (<i>l</i>) | Investigations. |
 | (m) | Offering of reasonable shares to each Pacific Northwest electric utility. |
 | 839d–1. | Federal projects in Pacific Northwest. |
 | [839e.](%C2%A7%2000839e%20-%20Rates.md) | Rates. |
@@ -51,7 +51,7 @@
 | (i) | Procedures. |
 | (j) | Cost figures to be indicated on rate schedules and power billings. |
 | (k) | Statutory basis for procedures used in establishing rates or rate schedules. |
-| (<i>l)</i> | Rates for sales outside United States; negotiations. |
+| (<i>l</i>) | Rates for sales outside United States; negotiations. |
 | (m) | Impact aid payments; formula. |
 | [839f.](%C2%A7%2000839f%20-%20Administrative%20provisions.md) | Administrative provisions. |
 | (a) | Contract authority. |
@@ -82,6 +82,8 @@
 #### Chapter Referred to in Other Sections
 
 This chapter is referred to in sections 838i, 838k, 839d–1 of this title; title 26 section 149; title 33 section 2286.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “section;” or “section”.</i>
 
 
 ---

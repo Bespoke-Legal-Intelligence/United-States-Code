@@ -48,7 +48,7 @@ The Commission may, on its own motion, after compliance with the requirements of
 
 (1) As used in this section, the term “facilities” means only facilities used for the generation or transmission of electric energy.
 
-(2) With respect to an order issued pursuant to an application of a qualifying cogenerator or qualifying small power producer under subsection (a)(1) of this section, the term “facilities of such applicant” means the qualifying cogeneration facilities or qualifying small power production facilities of the applicant, as specified in the application. With respect to an order issued pursuant to an application under subsection (a)(2) of this section, the term “facilities of such applicant” means the qualifying cogeneration facilities, qualifying small power production facilities, or the transmission facilities of an electric utility, as specified in the application. With respect to an order issued by the Commission on its own motion under subsection (d) of this section, such term means the qualifying cogeneration facilities, qualifying small power production facilities, or the transmission facilities of an electric utility, as specified in the proposed order.
+(2) With respect to an order issued pursuant to an application of a qualifying cogenerator or qualifying small power producer under subsection (a)(1) of this section, the term “facilities of such applicant” means the qualifying cogeneration facilities or qualifying small power production facilities of the applicant, as specifiedin the application. With respect to an order issued pursuant to an application under subsection (a)(2) of this section, the term “facilities of such applicant” means the qualifying cogeneration facilities, qualifying small power production facilities, or the transmission facilities of an electric utility, as specified in the application. With respect to an order issued by the Commission on its own motion under subsection (d) of this section, such term means the qualifying cogeneration facilities, qualifying small power production facilities, or the transmission facilities of an electric utility, as specified in the proposed order.
 
 (June 10, 1920, ch. 285, pt. II, §210, as added Pub. L. 95–617, title II, §202, Nov. 9, 1978, 92 Stat. 3135; amended June 30, 1980, Pub. L. 96–294, title VI, §643(a)(2), 94 Stat. 770.)
 
@@ -58,7 +58,7 @@ The Commission may, on its own motion, after compliance with the requirements of
 
 #### Transfer of Functions
 
-The Federal Power Commission was terminated and its functions, personnel, property, funds, etc., were transferred to the Secretary of Energy (except for certain functions which were transferred to the Federal Energy Regulatory Commission) by sections 7151(b),7171(a), 7172(a), 7291, and 7293 of Title 42, The Public Health and Welfare.
+The Federal Power Commission was terminated and its functions, personnel, property, funds, etc., were transferred to the Secretary of Energy (except for certain functions which were transferred to the Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a), 7291, and 7293 of Title 42, The Public Health and Welfare.
 
 #### Study and Report to Congressional Committees on Application of Provisions Relating to Cogeneration, Small Power Production, and Interconnection Authority to Hydroelectric Power Facilities
 

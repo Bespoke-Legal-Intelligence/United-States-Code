@@ -14,7 +14,7 @@
 
 #### (1) In general
 
-&emsp;The amount of any State educational agency's allotment under subsection (a) of this section for any fiscal year which the Secretary determines will not be required for such fiscal year to carry out this subpart shall be available for reallotment from time to time, on such dates during such year as the Secretary may determine, to other State educational agencies in proportion to the original allotments to such State educational agencies under subsection (a) of this section for such year, but with such proportionate amount for any of such other State educational agencies being reduced to the extent such amount exceeds the sum the Secretary estimates such State needs and will be able to use for such year.
+&emsp;The amount of any State educational agency's allotment under subsection (a) of this section for any fiscal year which the Secretary determines will not be required for such fiscal year to carry out this subpart shall be available for reallotment from time to time, on such dates during such year as the Secretary may determine, to other State educational agencies in proportion to the original allotments to such State educational agencies under subsection (a) of this section for such year, but with such proportionate amount for any of such other State educational agenciesbeing reduced to the extent such amount exceeds the sum the Secretary estimates such State needs and will be able to use for such year.
 
 #### (2) Other reallotments
 

@@ -1,4 +1,4 @@
-### §923 . Licensing
+### §923. Licensing
 
 (a) No person shall engage in the business of importing, manufacturing, or dealing in firearms, or importing or manufacturing ammunition, until he has filed an application with and received a license to do so from the Secretary. The application shall be in such form and contain only that information necessary to determine eligibility for licensing as the Secretary shall by regulation prescribe and shall include a photograph and fingerprints of the applicant. Each applicant shall pay a fee for obtaining such a license, a separate fee being required for each place in which the applicant is to do business, as follows:
 
@@ -36,7 +36,7 @@
 
 &emsp;(D) the applicant has not willfully failed to disclose any material information required, or has not made any false statement as to any material fact, in connection with his application;
 
-&emsp;(E) the applicant has in a State (i) premises from which he conducts business subject to license under this chapter or from which he intends to conduct such business within a reasonable period of time, or (ii) in the case of a collector, premises from which he conducts his collecting subject to license under this chapter or from which he intends to conduct such collecting within a reasonable period of time; and
+&emsp;(E) the applicant has in a State (i) premises from which he conducts business subject to license under this chapter or from which he intends to conduct such business within a reasonable period of time, or (ii) in the case of acollector, premises from which he conducts his collecting subject to license under this chapter or from which he intends to conduct such collecting within a reasonable period of time; and
 
 &emsp;(F) the applicant certifies that—
 
@@ -52,7 +52,7 @@
 
 (e) The Secretary may, after notice and opportunity for hearing, revoke any license issued under this section if the holder of such license has willfully violated any provision of this chapter or any rule or regulation prescribed by the Secretary under this chapter. The Secretary may, after notice and opportunity for hearing, revoke the license of a dealer who willfully transfers armor piercing ammunition. The Secretary's action under this subsection may be reviewed only as provided in subsection (f) of this section.
 
-(f)(1) Any person whose application for a license is denied and any holder of a license which is revoked shall receive a written notice from the Secretary stating specifically the grounds upon which the application was denied or upon which the license was revoked. Any notice of a revocation of a license shall be given to theholder of such license before the effective date of the revocation.
+(f)(1) Any person whose application for a license is denied and any holder of a license which is revoked shall receive a written notice from the Secretary stating specifically the grounds upon which the application was denied or upon which the license was revoked. Any notice of a revocation of a license shall be given to the holder of such license before the effective date of the revocation.
 
 (2) If the Secretary denies an application for, or revokes, a license, he shall, upon request by the aggrieved party, promptly hold a hearing to review his denial or revocation. In the case of a revocation of a license, the Secretary shall upon the request of the holder of the license stay the effective date of the revocation. A hearing held under this paragraph shall be held at a location convenient to the aggrieved party.
 
@@ -74,7 +74,7 @@
 
 &emsp;&emsp;(I) not more than once during any 12-month period; or
 
-&emsp;&emsp;(II) at any time with respect to records relating to a firearm involved in a criminal investigation that is traced to the licensee.<sup>1</sup>
+&emsp;&emsp;(II) at any time with respect to records relating to a firearm involved in a criminal investigation that is traced to the licensee; or
 
 &emsp;(iii) when such inspection or examination may be required for determining the disposition of one or more particular firearms in the course of a bona fide criminal investigation.
 
@@ -86,7 +86,7 @@
 
 (D) At the election of a licensed collector, the annual inspection of records and inventory permitted under this paragraph shall be performed at the office of the Secretary designated for such inspections which is located in closest proximity to the premises where the inventory and records of such licensed collector are maintained. The inspection and examination authorized by this paragraph shall not be construed as authorizing the Secretary to seize any records or other documents other than those records or documents constituting material evidence of a violation of law. If the Secretary seizes such records or documents, copies shall be provided the licensee within a reasonable time. The Secretary may make available to any Federal, State, or local law enforcement agency any information which he may obtain by reason of this chapter with respect to the identification of persons prohibited from purchasing or receiving firearms or ammunition who have purchased or received firearms or ammunition, together with a description of such firearms or ammunition, and he may provide information to the extent such information may be contained in the records required to be maintained by this chapter, when so requested by any Federal, State, or local law enforcement agency.
 
-(2) Each licensed collector shall maintain in a bound volume the nature of which the Secretary may by regulations prescribe, records of the receipt, sale, or other disposition of firearms.Such records shall include the name and address of any person to whom the collector sells or otherwise disposes of a firearm. Such collector shall not be required to submit to the Secretary reports and information with respect to such records and the contents thereof, except as expressly required by this section.
+(2) Each licensed collector shall maintain in a bound volume the nature of which the Secretary may by regulations prescribe, records of the receipt, sale, or other disposition of firearms. Such records shall include the name and address of any person to whom the collector sells or otherwise disposes of a firearm. Such collector shall not be required to submit to the Secretary reports and information with respect to such records and the contents thereof, except as expressly required by this section.
 
 (3)(A) Each licensee shall prepare a report of multiple sales or other dispositions whenever the licensee sells or otherwise disposes of, at one time or during any five consecutive business days, two or more pistols, or revolvers, or any combination of pistols and revolvers totalling two or more, to an unlicensed person. The report shall be prepared on a form specified by the Secretary and forwarded to the office specified thereon and to the department of State police or State law enforcement agency of the State or local law enforcement agency of the local jurisdiction in which the sale or other disposition took place, not later than the close of business on the day that the multiple sale or other disposition occurs.
 
@@ -106,13 +106,13 @@
 
 (i) Licensed importers and licensed manufacturers shall identify by means of a serial number engraved or cast on the receiver or frame of the weapon, in such manner as the Secretary shall by regulations prescribe, each firearm imported or manufactured by such importer or manufacturer. The serial number of any semiautomatic assault weapon manufactured after the date of the enactment of this sentence shall clearly show the date on which the weapon was manufactured. A large capacity ammunition feeding device manufactured after the date of the enactment of this sentence shall be identified by a serial number that clearly shows that the device was manufactured or imported after the effective date of this subsection, and such other identification as the Secretary may by regulation prescribe.
 
-(j) A licensed importer, licensed manufacturer, or licensed dealer may, under rules or regulations prescribed by the Secretary, conduct business temporarily at a location other than the location specified on the license if such temporary location is the location for a gun show or event sponsored by any national, State, or local organization, or any affiliate of any such organization devoted to the collection, competitive use, or other sporting use of firearms in the community, and such location is in the State which is specified on the license. Records of receipt and disposition of firearms transactions conducted at such temporary location shall include the location of the sale or other disposition and shall be entered in the permanent records of the licensee and retained on the location specified on the license. Nothing in this subsection shall authorize any licensee to conduct business in or from any motorized or towed vehicle. Notwithstanding the provisions of subsection (a) of thissection, a separate fee shall not be required of a licensee with respect to business conducted under this subsection. Any inspection or examination of inventory or records under this chapter by the Secretary at such temporary location shall be limited to inventory consisting of, or records relating to, firearms held or disposed at such temporary location. Nothing in this subsection shall be construed to authorize the Secretary to inspect or examine the inventory or records of a licensed importer, licensed manufacturer, or licensed dealer at any location other than the location specified on the license. Nothing in this subsection shall be construed to diminish in any manner any right to display, sell, or otherwise dispose of firearms or ammunition, which is in effect before the date of the enactment of the Firearms Owners’ Protection Act.
+(j) A licensed importer, licensed manufacturer, or licensed dealer may, under rules or regulations prescribed by the Secretary, conduct business temporarily at a location other than the location specified on the license if such temporary location is the location for a gun show or event sponsored by any national, State, or local organization, or any affiliate of any such organization devoted to the collection, competitive use, or other sporting use of firearms in the community, and such location is in the State which is specified on the license. Records of receipt and disposition of firearms transactions conducted at such temporary location shall include the location of the sale or other disposition and shall be entered in the permanent records of the licensee and retained on the location specified on the license. Nothing in this subsection shall authorize any licensee to conduct business in or from any motorized or towed vehicle. Notwithstanding the provisions of subsection (a) of this section, a separate fee shall not be required of a licensee with respect to business conducted under this subsection. Any inspection or examination of inventory or records under this chapter by the Secretary at such temporary location shall be limited to inventory consisting of, or records relating to, firearms held or disposed at such temporary location. Nothing in this subsection shall be construed to authorize the Secretary to inspect or examine the inventory or records of a licensed importer, licensed manufacturer, or licensed dealer at any location other than the location specified on the license. Nothing in this subsection shall be construed to diminish in any manner any right to display, sell, or otherwise dispose of firearms or ammunition, which is in effect before the date of the enactment of the Firearms Owners’ Protection Act, including the right of a licensee to conduct “curios or relics” firearms transfers and business away from their business premises with another licensee without regard as to whether the location of where the business is conducted is located in the State specified on the license of either licensee.
 
 (k) Licensed importers and licensed manufacturers shall mark all armor piercing projectiles and packages containing such projectiles for distribution in the manner prescribed by the Secretary by regulation. The Secretary shall furnish information to each dealer licensed under this chapter defining which projectiles are considered armor piercing ammunition as defined in section 921(a)(17)(B).
 
-(1) <sup>2</sup> The Secretary of the Treasury shall notify the chief law enforcement officer in the appropriate State and local jurisdictions of the names and addresses of all persons in the State to whom a firearms license is issued.
+(<i>l</i>) The Secretary of the Treasury shall notify the chief law enforcement officer in the appropriate State and local jurisdictions of the names and addresses of all persons in the State to whom a firearms license is issued.
 
-(Added Pub. L. 90–351, title IV, §902, June 19, 1968, 82 Stat. 231; amended Pub. L. 90–618, title I, §102, Oct. 22, 1968, 82 Stat. 1221; Pub. L. 92–377, title I, §165(b), Dec. 21, 1982, 96 Stat. 1923; Pub. L. 99–308, §103, May 19, 1986, 100 Stat. 453; Pub. L. 99–360, §1(c), July 8, 1986, 100 Stat. 766; Pub. L. 99–408, §§3–7, Aug. 28, 1986, 100 Stat. 921; Pub. L. 100–690, title VII, §7060(d), Nov. 18, 1988, 102 Stat. 4404; Pub. L. 101–647, title XXII, §2203(a), title XXXV, §3525, Nov. 29, 1990, 104 Stat. 4857, 4924; Pub. L. 103–159, title II, §201, title III, §303, Nov. 30, 1993, 107 Stat. 1544, 1545; Pub. L. 103–322, title XI, §§110102(d), 110103(d), 110301(a), 110302–110307, title XXXIII, §330011(i), Sept. 13, 1994, 108 Stat. 1998, 1999, 2012–2014, 2145.)
+(Added Pub. L. 90–351, title IV, §902, June 19, 1968, 82 Stat. 231; amended Pub. L. 90–618, title I, §102, Oct. 22, 1968, 82 Stat. 1221; Pub. L. 92–377, title I, §165(b), Dec. 21, 1982, 96 Stat. 1923; Pub. L. 99–308, §103, May 19, 1986, 100 Stat. 453; Pub. L. 99–360, §1(c), July 8, 1986, 100 Stat. 766; Pub. L. 99–408, §§3–7, Aug. 28, 1986, 100 Stat. 921; Pub. L. 100–690, title VII, §7060(d), Nov. 18, 1988, 102 Stat. 4404; Pub. L. 101–647, title XXII, §2203(a), title XXXV, §3525, Nov. 29, 1990, 104 Stat. 4857, 4924; Pub. L. 103–159, title II, §201, title III, §303, Nov. 30, 1993, 107 Stat. 1544, 1545; Pub. L. 103–322, title XI, §§110102(d), 110103(d), 110301(a), 110302–110307, title XXXIII, §330011(i), Sept. 13, 1994, 108 Stat. 1998, 1999, 2012–2014, 2145; Pub. L. 104–208, div. A, title I, §101(f) \[title I, §118\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–326; Pub. L. 104–294, title VI, §603(j)(1), (k), (<i>l</i>), Oct. 11, 1996, 110 Stat. 3504, 3505.)
 
 #### Amendment of Section
 
@@ -127,6 +127,14 @@ The date of the enactment of the Firearms Owners’ Protection Act, referred to 
 The date of the enactment of this sentence, referred to in subsec. (i), is the date of enactment of Pub. L. 103–322, which was approved Sept. 13, 1994.
 
 #### Amendments
+
+1996—Subsec. (g)(1)(B)(ii). Pub. L. 104–294, §603(k), substituted “; or” for period at end of subcl. (II) and realigned margins.
+
+Subsec. (g)(3)(A). Pub. L. 104–294, §603(j)(1), amended directory language of Pub. L. 103–159, §201(1). See 1994 Amendment note below.
+
+Subsec. (j). Pub. L. 104–208 substituted for period at end “, including the right of a licensee to conduct ‘curios or relics’ firearms transfers and business away from their business premises with another licensee without regard as to whether the location of where the business is conducted is located in the State specified on the license of either licensee.”
+
+Subsec. (<i>l</i>). Pub. L. 104–294, §603(<i>l</i>), redesignated last subsec. as subsec. (<i>l</i>) and realigned margins.
 
 1994—Subsec. (a). Pub. L. 103–322, §110301(a), inserted “and shall include a photograph and fingerprints of the applicant” after “regulation prescribe” in introductory provisions.
 
@@ -146,7 +154,7 @@ Subsec. (i). Pub. L. 103–322, §§110103(d), 110105(2), temporarily inserted a
 
 Pub. L. 103–322, §§110102(d), 110105(2), temporarily inserted penultimate sentence which read as follows: “The serial number of any semiautomatic assault weapon manufactured after the date of the enactment of this sentence shall clearly show the date on which the weapon was manufactured.”. See Effective and Termination Dates of 1994 Amendment note below.
 
-Subsec. (<i>l</i>). Pub. L. 103–322, §110307, added subsec. (<i>l).</i>
+Subsec. (<i>l</i>). Pub. L. 103–322, §110307, which directed the amendment of this section by adding subsec. (1) at end, was executed by adding subsec. (<i>l</i>) at end to reflect the probable intent of Congress.
 
 1993—Subsec. (a)(3)(A). Pub. L. 103–159, §303(1), inserted “or” at end of subpar. (A).
 
@@ -154,7 +162,7 @@ Subsec. (a)(3)(B). Pub. L. 103–159, §303(2), (3), substituted “who is not a
 
 Subsec. (a)(3)(C). Pub. L. 103–159, §303(4), struck out subpar. (C) which read as follows: “who is not a dealer in destructive devices or a pawnbroker, a fee of $10 per year.”
 
-Subsec. (g)(3). Pub. L. 103–159, §201, designated existing provisions as subpar. (A), directed the insertion of “and to the department of State police or State law enforcement agency of the State or local law enforcement agency of the local jurisdiction in which the sale or other disposition took place,” after “thereon,” in second sentence which was executed by making the insertion after “thereon” to reflect the probable intent of Congress, and added subpar. (B).
+Subsec. (g)(3). Pub. L. 103–159, §201, as amended by Pub. L. 104–294, §603(j)(1), designated existing provisions as subpar. (A), inserted “and to the department of State police or State law enforcement agency of the State or local law enforcement agency of the local jurisdiction in which the sale or other disposition took place,” after “thereon”, and added subpar. (B).
 
 1990—Subsec. (a)(3)(B). Pub. L. 101–647, §3525, as amended by Pub. L. 103–322, §330011(i), inserted a comma after “devices”.
 
@@ -198,7 +206,7 @@ Subsec. (j). Pub. L. 99–308, §103(8), amended subsec. (j) generally. Prior to
 
 Subsec. (k). Pub. L. 99–408, §7, added subsec. (k).
 
-1982—Subsec. (g). Pub. L. 97–377 inserted “except .22 caliber rimfire ammunition” after “and ammunition”. The amendment by Pub. L. 97–377, which purported to amend subsec. (9), was executed instead to subsec. (g) as the probable intent of Congress because this section does not contain a subsec. (9).
+1982—Subsec. (g). Pub. L. 97–377 inserted “except .22 caliber rimfire ammunition” after “and ammunition”.The amendment by Pub. L. 97–377, which purported to amend subsec. (9), was executed instead to subsec. (g) as the probable intent of Congress because this section does not contain a subsec. (9).
 
 1968—Subsec. (a). Pub. L. 90–618 struck out “be required to” after “Each applicant shall”.
 
@@ -226,6 +234,10 @@ Subsec. (j). Pub. L. 90–618 added subsec. (j).
 
 Reference to United States magistrate or to magistrate deemed to refer to United States magistrate judge pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
 
+#### Effective Date of 1996 Amendment
+
+Section 603(j)(2) of Pub. L. 104–294 provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effect as if the amendment had been included in the Act referred to in paragraph (1) \[Pub. L. 103–322\] on the date of the enactment of such Act \[Sept. 13, 1994\].”
+
 #### Effective and Termination Dates of 1994 Amendment
 
 Amendment by sections 110102(d) and 110103(d) of Pub. L. 103–322 repealed 10 years after Sept. 13, 1994, see section 110105(2) of Pub. L. 103–322, set out as a note under section 921 of this title.
@@ -236,7 +248,7 @@ Section 330011(i) of Pub. L. 103–322 provided that the amendment made by that 
 
 Amendment by sections 3 to 5 of Pub. L. 99–408 effective first day of first calendar month beginning more than ninety days after Aug. 28, 1986, and amendment by sections 6 and 7 of Pub. L. 99–408 effective Aug. 28, 1986, see section 9 of Pub. L. 99–408, set out as a note under section 921 of this title.
 
-Amendment by Pub. L. 99–360 effective on date on which amendment of this section by Firearms Owners’Protection Act, Pub. L. 99–308, became effective, see section 2 of Pub. L. 99–360, set out as a note under section 921 of this title.
+Amendment by Pub. L. 99–360 effective on date on which amendment of this section by Firearms Owners’ Protection Act, Pub. L. 99–308, became effective, see section 2 of Pub. L. 99–360, set out as a note under section 921 of this title.
 
 Amendment by section 103(1)–(6)(A), (7), (8) of Pub. L. 99–308 effective 180 days after May 19, 1986, and amendment by section 103(6)(B) of Pub. L. 99–308 applicable to any action, petition, or appellate proceeding pending on May 19, 1986, see section 110(a), (b) of Pub. L. 99–308, set out as a note under section 921 of this title.
 
@@ -247,8 +259,4 @@ Amendment by Pub. L. 90–618 effective Dec. 16, 1968, see section 105 of Pub. L
 #### Section Referred to in Other Sections
 
 This section is referred to in section 922 of this title; title 26 section 4182.
-
-<i><sup>1</sup></i><i> So in original. The period probably should be “; or”.</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be “(l)”.</i>
 

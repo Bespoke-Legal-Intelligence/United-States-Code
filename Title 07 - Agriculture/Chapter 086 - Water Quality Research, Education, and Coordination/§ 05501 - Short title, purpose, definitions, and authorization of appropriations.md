@@ -30,7 +30,11 @@ For purpose of this chapter—
 
 #### (d) Authorization of appropriations
 
-There are authorized to be appropriated such sums as may be necessary for fiscal years 1991 through 1995 to carry out this chapter.
+There are authorized to be appropriated such sums as may be necessary for fiscal years 1991 through 1997 to carry out this chapter.
 
-(Pub. L. 101–624, title XIV, §1481, Nov. 28, 1990, 104 Stat. 3622.)
+(Pub. L. 101–624, title XIV, §1481, Nov. 28, 1990, 104 Stat. 3622; Pub. L. 104–127, title VIII, §831, Apr. 4, 1996, 110 Stat. 1168.)
+
+#### Amendments
+
+1996—Subsec. (d). Pub. L. 104–127 substituted “1997” for “1995”.
 

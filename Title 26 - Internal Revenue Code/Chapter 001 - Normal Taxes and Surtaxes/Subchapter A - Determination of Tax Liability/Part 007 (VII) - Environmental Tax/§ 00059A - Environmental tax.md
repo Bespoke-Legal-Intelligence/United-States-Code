@@ -86,5 +86,5 @@ For provisions that nothing in amendment by section 11801 of Pub. L. 101–508 b
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 26, 164, 275, 882, 936, 1561, 4611, 6425, 6655, 9507 of this title.
+This section is referred to in sections 26, 30A, 164, 275, 882, 936, 1561, 4611, 6425, 6655, 9507 of this title.
 

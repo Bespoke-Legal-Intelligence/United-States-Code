@@ -32,3 +32,7 @@ The civil service laws, referred to in subsec. (a)(1), are set forth in Title 5,
 
 1988—Subsecs. (b), (c). Pub. L. 100–689 added subsec. (b) and redesignated former subsec. (b) as (c).
 
+#### Section Referred to in Other Sections
+
+This section is referred to in title 10 section 1599c.
+

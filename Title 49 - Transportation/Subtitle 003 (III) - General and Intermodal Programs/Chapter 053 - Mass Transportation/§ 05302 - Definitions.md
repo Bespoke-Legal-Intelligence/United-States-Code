@@ -60,7 +60,7 @@ General.—In this chapter—
 
 &emsp;(11) “State” means a State of the United States, the District of Columbia, Puerto Rico, the Northern Mariana Islands, Guam, American Samoa, and the Virgin Islands.
 
-&emsp;(12) “urban area” means an area that includes a municipality or other built-up place that the Secretary of Transportation, after considering local patterns and trends of urbangrowth, decides is appropriate for a local mass transportation system to serve individuals in the locality.
+&emsp;(12) “urban area” means an area that includes a municipality or other built-up place that the Secretary of Transportation, after considering local patterns and trends of urban growth, decides is appropriate for a local mass transportation system to serve individuals in the locality.
 
 &emsp;(13) “urbanized area” means an area—
 
@@ -72,11 +72,13 @@ General.—In this chapter—
 
 Authority To Modify “Handicapped Individual”.—The Secretary of Transportation by regulation may modify the definition of subsection (a)(5) of this section as it applies to section 5307(d)(1)(D) of this title.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 786; Pub. L. 103–331, title III, §335A, Sept. 30, 1994, 108 Stat. 2495; Pub. L. 104–50, title III, §333(a), Nov. 15, 1995, 109 Stat. 457.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 786; Pub. L. 103–331, title III, §335A, Sept. 30, 1994, 108 Stat. 2495; Pub. L. 104–50, title III, §333(a), Nov. 15, 1995, 109 Stat. 457; Pub. L. 104–287, §6(c), Oct. 11, 1996, 110 Stat. 3398.)
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -168,11 +170,17 @@ Subsection (b) applies to section 5307(d)(1)(D) of the revised title because of 
 
 #### Amendments
 
+1996—Subsec. (a)(1). Pub. L. 104–287 made technical correction to directory language of Pub. L. 103–331, §335A. See 1994 Amendment note below.
+
 1995—Subsec. (a)(1)(B). Pub. L. 104–50, §333(a)(1), which directed the amendment of this section by striking out “that extends the economic life of the bus for at least 5 years” after “rehabilitating a bus”, was executed by striking out “that extends the economic life of a bus for at least 5 years” to reflect the probable intent of Congress.
 
-Subsec. (a)(1)(C). Pub. L. 104–50, §333(a)(2), which directed the amendment of this section by striking out“that extends the economic life of the bus for at least 8 years” after “remanufacturing a bus”, was executed by striking out “that extends the economic life of a bus for at least 8 years” to reflect the probable intent of Congress.
+Subsec. (a)(1)(C). Pub. L. 104–50, §333(a)(2), which directed the amendment of this section by striking out “that extends the economic life of the bus for at least 8 years” after “remanufacturing a bus”, was executed by striking out “that extends the economic life of a bus for at least 8 years” to reflect the probable intent of Congress.
 
-1994—Subsec. (a)(1). Pub. L. 103–331, which directed insertion of “payments for the capital portions of rail trackage rights agreements,” after “rights-of-way,”, was executed by making the insertion after “rights of way),” to reflect the probable intent of Congress.
+1994—Subsec. (a)(1). Pub. L. 103–331, §335A, as amended by Pub. L. 104–287, inserted “payments for the capital portions of rail trackage rights agreements,” after “rights of way),”.
+
+#### Effective Date of 1996 Amendment
+
+Section 6(c) of Pub. L. 104–287 provided that the amendment made by that section is effective Sept. 30, 1994.
 
 #### Effective Date of 1995 Amendment
 

@@ -16,7 +16,7 @@
 
 &emsp;For purposes of this subchapter, the term “small business corporation” means a domestic corporation which is not an ineligible corporation and which does not—
 
-&emsp;&emsp;(A) have more than 35 shareholders,
+&emsp;&emsp;(A) have more than 75 shareholders,
 
 &emsp;&emsp;(B) have as a shareholder a person (other than an estate and other than a trust described in subsection (c)(2)) who is not an individual,
 
@@ -28,15 +28,45 @@
 
 &emsp;For purposes of paragraph (1), the term “ineligible corporation” means any corporation which is—
 
-&emsp;&emsp;(A) a member of an affiliated group (determined under section 1504 without regard to the exceptions contained in subsection (b) thereof),
+&emsp;&emsp;(A) a financial institution which uses the reserve method of accounting for bad debts described in section 585,
 
-&emsp;&emsp;(B) a financial institution to which section 585 applies (or would apply but for subsection (c) thereof) or to which section 593 applies,
+&emsp;&emsp;(B) an insurance company subject to tax under subchapter L,
 
-&emsp;&emsp;(C) an insurance company subject to tax under subchapter L,
+&emsp;&emsp;(C) a corporation to which an election under section 936 applies, or
 
-&emsp;&emsp;(D) a corporation to which an election under section 936 applies, or
+&emsp;&emsp;(D) a DISC or former DISC.
 
-&emsp;&emsp;(E) a DISC or former DISC.
+#### (3) Treatment of certain wholly owned subsidiaries
+
+#### (A) In general
+
+&emsp;&emsp;For purposes of this title—
+
+&emsp;&emsp;&emsp;(i) a corporation which is a qualified subchapter S subsidiary shall not be treated as a separate corporation, and
+
+&emsp;&emsp;&emsp;(ii) all assets, liabilities, and items of income, deduction, and credit of a qualified subchapter S subsidiary shall be treated as assets, liabilities, and such items (as the case may be) of the S corporation.
+
+#### (B) Qualified subchapter S subsidiary
+
+&emsp;&emsp;For purposes of this paragraph, the term “qualified subchapter S subsidiary” means any domestic corporation which is not an ineligible corporation (as defined in paragraph (2)), if—
+
+&emsp;&emsp;&emsp;(i) 100 percent of the stock of such corporation is held by the S corporation, and
+
+&emsp;&emsp;&emsp;(ii) the S corporation elects to treat such corporation as a qualified subchapter S subsidiary.
+
+#### (C) Treatment of terminations of qualified subchapter S subsidiary status
+
+&emsp;&emsp;For purposes of this title, if any corporation which was a qualified subchapter S subsidiary ceases to meet the requirements of subparagraph (B), such corporation shall be treated as a new corporation acquiring all of its assets (and assuming all of its liabilities) immediately before such cessation from the S corporation in exchange for its stock.
+
+#### (D) Election after termination
+
+&emsp;&emsp;If a corporation's status as a qualified subchapter S subsidiary terminates, such corporation (and any successor corporation) shall not be eligible to make—
+
+&emsp;&emsp;&emsp;(i) an election under subparagraph (B)(ii) to be treated as a qualified subchapter S subsidiary, or
+
+&emsp;&emsp;&emsp;(ii) an election under section 1362(a) to be treated as an S corporation,
+
+> &emsp;&emsp;before its 5th taxable year which begins after the 1st taxable year for which such termination was effective, unless the Secretary consents to such election.
 
 #### (c) Special rules for applying subsection (b)
 
@@ -52,11 +82,13 @@
 
 &emsp;&emsp;&emsp;(i) A trust all of which is treated (under subpart E of part I of subchapter J of this chapter) as owned by an individual who is a citizen or resident of the United States.
 
-&emsp;&emsp;&emsp;(ii) A trust which was described in clause (i) immediately before the death of the deemed owner and which continues in existence after such death, but only for the 60-day period beginning on the day of the deemed owner's death. If a trust is described in the preceding sentence and if the entire corpus of the trust is includible in the gross estate of the deemed owner, the preceding sentence shall be applied by substituting “2-year period” for “60-day period”.
+&emsp;&emsp;&emsp;(ii) A trust which was described in clause (i) immediately before the death of the deemed owner and which continues in existence after such death, but only for the 2-year period beginning on the day of the deemed owner's death.
 
-&emsp;&emsp;&emsp;(iii) A trust with respect to stock transferred to it pursuant to the terms of a will, but only for the 60-day period beginning on the day on which such stock is transferred to it.
+&emsp;&emsp;&emsp;(iii) A trust with respect to stock transferred to it pursuant to the terms of a will, but only for the 2-year period beginning on the day on which such stock is transferred to it.
 
 &emsp;&emsp;&emsp;(iv) A trust created primarily to exercise the voting power of stock transferred to it.
+
+&emsp;&emsp;&emsp;(v) An electing small business trust.
 
 > &emsp;&emsp;This subparagraph shall not apply to any foreign trust.
 
@@ -71,6 +103,8 @@
 &emsp;&emsp;&emsp;(iii) In the case of a trust described in clause (iii) of subparagraph (A), the estate of the testator shall be treated as the shareholder.
 
 &emsp;&emsp;&emsp;(iv) In the case of a trust described in clause (iv) of subparagraph (A), each beneficiary of the trust shall be treated as a shareholder.
+
+&emsp;&emsp;&emsp;(v) In the case of a trust described in clause (v) of subparagraph (A), each potential current beneficiary of such trust shall be treated as a shareholder; except that, if for any period there is no potential current beneficiary of such trust, such trust shall be treated as the shareholder during such period.
 
 #### (3) Estate of individual in bankruptcy may be shareholder
 
@@ -94,19 +128,11 @@
 
 &emsp;&emsp;&emsp;(ii) there is no convertibility (directly or indirectly) into stock, and
 
-&emsp;&emsp;&emsp;(iii) the creditor is an individual (other than a nonresident alien), an estate, or a trust described in paragraph (2).
+&emsp;&emsp;&emsp;(iii) the creditor is an individual (other than a nonresident alien), an estate, a trust described in paragraph (2), or a person which is actively and regularly engaged in the business of lending money.
 
 #### (C) Regulations
 
-&emsp;&emsp;The Secretary shall prescribe such regulations as may be necessary or appropriate toprovide for the proper treatment of straight debt under this subchapter and for the coordination of such treatment with other provisions of this title.
-
-#### (6) Ownership of stock in certain inactive corporations
-
-&emsp;For purposes of subsection (b)(2)(A), a corporation shall not be treated as a member of an affiliated group during any period within a taxable year by reason of the ownership of stock in another corporation if such other corporation—
-
-&emsp;&emsp;(A) has not begun business at any time on or before the close of such period, and
-
-&emsp;&emsp;(B) does not have gross income for such period.
+&emsp;&emsp;The Secretary shall prescribe such regulations as may be necessary or appropriate to provide for the proper treatment of straight debt under this subchapter and for the coordination of such treatment with other provisions of this title.
 
 #### (d) Special rule for qualified subchapter S trust
 
@@ -174,13 +200,111 @@
 
 &emsp;&emsp;If any qualified subchapter S trust ceases to meet any requirement of paragraph (3)(B) but continues to meet the requirements of paragraph (3)(A), the provisions of this subsection shall not apply to such trust as of the first day of the first taxable year beginning after the first taxable year for which it failed to meet the requirements of paragraph (3)(B).
 
-(Added Pub. L. 97–354, §2, Oct. 19, 1982, 96 Stat. 1669; amended Pub. L. 98–369, div. A, title VII, §721(c), (f), July 18, 1984, 98 Stat. 967; Pub. L. 99–514, title IX, §901(d)(4)(G), title XVIII, §1879(m)(1)(A), Oct. 22, 1986, 100 Stat. 2380, 2910; Pub. L. 100–647, title I, §1018(q)(2), Nov. 10, 1988, 102 Stat. 3585; Pub. L. 101–239, title VII, §7811(c)(6), Dec. 19, 1989, 103 Stat. 2407.)
+#### (e) Electing small business trust defined
+
+#### (1) Electing small business trust
+
+&emsp;For purposes of this section—
+
+#### (A) In general
+
+&emsp;&emsp;Except as provided in subparagraph (B), the term “electing small business trust” means any trust if—
+
+&emsp;&emsp;&emsp;(i) such trust does not have as a beneficiary any person other than (I) an individual, (II) an estate, or (III) an organization described in paragraph (2), (3), (4), or (5) of section 170(c) which holds a contingent interest and is not a potential current beneficiary,
+
+&emsp;&emsp;&emsp;(ii) no interest in such trust was acquired by purchase, and
+
+&emsp;&emsp;&emsp;(iii) an election under this subsection applies to such trust.
+
+#### (B) Certain trusts not eligible
+
+&emsp;&emsp;The term “electing small business trust” shall not include—
+
+&emsp;&emsp;&emsp;(i) any qualified subchapter S trust (as defined in subsection (d)(3)) if an election under subsection (d)(2) applies to any corporation the stock of which is held by such trust, and
+
+&emsp;&emsp;&emsp;(ii) any trust exempt from tax under this subtitle.
+
+#### (C) Purchase
+
+&emsp;&emsp;For purposes of subparagraph (A), the term “purchase” means any acquisition if the basis of the property acquired is determined under section 1012.
+
+#### (2) Potential current beneficiary
+
+&emsp;For purposes of this section, the term “potential current beneficiary” means, with respect to any period, any person who at any time during such period is entitled to, or at the discretion of any person may receive, a distribution from the principal or income of the trust. If a trust disposes of all of the stock which it holds in an S corporation, then, with respect to such corporation, the term “potential current beneficiary” does not include any person who first met the requirements of the preceding sentence during the 60-day period ending on the date of such disposition.
+
+#### (3) Election
+
+&emsp;An election under this subsection shall be made by the trustee. Any such election shall apply to the taxable year of the trust for which made and all subsequent taxable years of such trust unless revoked with the consent of the Secretary.
+
+#### (4) Cross reference
+
+&emsp;&emsp;<b>For special treatment of electing small business trusts, see section 641(d).</b>
+
+(Added Pub. L. 97–354, §2, Oct. 19, 1982, 96 Stat. 1669; amended Pub. L. 98–369, div. A, title VII, §721(c), (f), July 18, 1984, 98 Stat. 967; Pub. L. 99–514, title IX, §901(d)(4)(G), title XVIII, §1879(m)(1)(A), Oct. 22, 1986, 100 Stat. 2380, 2910; Pub. L. 100–647, title I, §1018(q)(2), Nov. 10, 1988, 102 Stat. 3585; Pub. L. 101–239, title VII, §7811(c)(6), Dec. 19, 1989, 103 Stat. 2407; Pub. L. 104–188, title I, §§1301–1302(c), 1303, 1304, 1308(a), (b), (d)(1), 1315, 1316(a), (e), 1616(b)(15), Aug. 20, 1996, 110 Stat. 1777, 1779, 1782, 1783, 1785, 1786, 1857.)
+
+#### Amendment of Section
+
+<i>Pub. L. 104–188, title I, §1316(a), (e), (f), Aug. 20, 1996, 110 Stat. 1785–1787, provided that, applicable to taxable years beginning after Dec. 31, 1997, this section is amended as follows:</i>
+
+<i>(1) Subsection (b)(1)(B) is amended to read as follows:</i>
+
+(B) have as a shareholder a person (other than an estate, a trust described in subsection (c)(2), or an organization described in subsection (c)(7)) who is not an individual,
+
+<i>(2) Subsection (c) is amended by adding at the end a new par. (7) to read as follows:</i>
+
+#### (7) Certain exempt organizations permitted as shareholders
+
+For purposes of subsection (b)(1)(B), an organization which is—
+
+&emsp;(A) described in section 401(a) or 501(c)(3), and
+
+&emsp;(B) exempt from taxation under section 501(a),
+
+> may be a shareholder in an S corporation.
+
+<i>(3) Subsection (e)(1)(A)(i) is amended by striking “which holds a contingent interest and is not a potential current beneficiary”.</i>
 
 #### Prior Provisions
 
 A prior section 1361, act Aug. 16, 1954, as amended, constituted subchapter R, prior to repeal by Pub. L. 89–389, §4(b)(1), Apr. 14, 1966, 80 Stat. 116. For further details, see matter set out preceding subchapter S.
 
 #### Amendments
+
+1996—Subsec. (b)(1)(A). Pub. L. 104–188, §1301, substituted “75” for “35”.
+
+Subsec. (b)(2)(A). Pub. L. 104–188, §1315, amended subpar. (A) generally. Prior to amendment, subpar. (A)read as follows: “a financial institution to which section 585 applies (or would apply but for subsection (c) thereof),”.
+
+Pub. L. 104–188, §1308(a), redesignated subpar. (B) as (A) and struck out former subpar. (A) which read as follows: “a member of an affiliated group (determined under section 1504 without regard to the exceptions contained in subsection (b) thereof),”.
+
+Subsec. (b)(2)(B). Pub. L. 104–188, §1308(a), redesignated subpar. (C) as (B). Former subpar. (B) redesignated (A).
+
+Pub. L. 104–188, §1616(b)(15), struck out “or to which section 593 applies” after “subsection (c) thereof)”.
+
+Subsec. (b)(2)(C) to (E). Pub. L. 104–188, §1308(a), redesignated subpars. (D) and (E) as (C) and (D), respectively. Former subpar. (C) redesignated (B).
+
+Subsec. (b)(3). Pub. L. 104–188, §1308(b), added par. (3).
+
+Subsec. (c)(2)(A)(ii). Pub. L. 104–188, §1303, substituted “2-year period” for “60-day period” in first sentence and struck out at end “If a trust is described in the preceding sentence and if the entire corpus of the trust is includible in the gross estate of the deemed owner, the preceding sentence shall be applied by substituting ‘2-year period’ for ‘60-day period’.”
+
+Subsec. (c)(2)(A)(iii). Pub. L. 104–188, §1303(1), substituted “2-year period” for “60-day period”.
+
+Subsec. (c)(2)(A)(v). Pub. L. 104–188, §1302(a), added cl. (v).
+
+Subsec. (c)(2)(B)(v). Pub. L. 104–188, §1302(b), added cl. (v).
+
+Subsec. (c)(5)(B)(iii). Pub. L. 104–188, §1304, substituted “a trust described in paragraph (2), or a person which is actively and regularly engaged in the business of lending money” for “or a trust described in paragraph (2)”.
+
+Subsec. (c)(6). Pub. L. 104–188, §1308(d)(1), struck out par. (6) which read as follows:
+
+“(6)
+
+Ownership of stock in certain inactive corporations.—For purposes of subsection (b)(2)(A), a corporation shall not be treated as a member of an affiliated group during any period within a taxable year by reason of the ownership of stock in another corporation if such other corporation—
+
+&emsp;“(A) has not begun business at any time on or before the close of such period, and
+
+&emsp;“(B) does not have gross income for such period.”
+
+Subsec. (e). Pub. L. 104–188, §1302(c), added subsec. (e).
 
 1989—Subsec. (b)(2)(B). Pub. L. 101–239 amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “a financial institution which is a bank (as defined in section 585(a)(2)) or to which section 593 applies,”.
 
@@ -199,6 +323,14 @@ Subsec. (d)(2)(D). Pub. L. 98–369, §721(f)(1), substituted “15 days and 2 m
 Subsec. (d)(3). Pub. L. 98–369, §721(f)(2), in amending par. (3) generally, redesignated subpar. (C) as (A), substituted a period for “, and” at end of subpar. (B), and struck out former subpar. (A) which read “which owns stock in 1 or more S corporations”.
 
 Subsec. (d)(4). Pub. L. 98–369, §721(f)(2), in amending par. (4) generally, redesignated existing provisions as subpar. (A), inserted “Failure to meet requirements of paragraph (3)(A)” as subpar. (A) heading, substituted “of paragraph (3)(A)” for “under paragraph (3)”, and added subpar. (B).
+
+#### Effective Date of 1996 Amendment
+
+Amendment by sections 1301–1302(c), 1303, 1304, 1308(a), (b), (d)(1), and 1315 of Pub. L. 104–188 applicable to taxable years beginning after Dec. 31, 1996, see section 1317(a) of Pub. L. 104–188, set out as a note under section 641 of this title.
+
+Amendment by sections 1316(a), (e) of Pub. L. 104–188 applicable to taxable years beginning after Dec. 31, 1997, see section 1316(f) of Pub. L. 104–188, set out as a note under section 170 of this title.
+
+Amendment by section 1616(b)(15) of Pub. L. 104–188 applicable to taxable years beginning after Dec. 31, 1995, see section 1616(c) of Pub. L. 104–188, set out as a note under section 593 of this title.
 
 #### Effective Date of 1989 Amendment
 
@@ -290,7 +422,7 @@ Grandfather Rules.—
 
 &emsp;“(1)
 
-Subsidiaries which are foreign corporations or disc's.—In the case of any corporation which onSeptember 28, 1982, would have been a member of the same affiliated group as an electing small business corporation but for paragraph (3) or (7) of section 1504(b) of the Internal Revenue Code of 1986, subparagraph (A) of section 1361(b)(2) of such Code (as amended by section 2) shall be applied by substituting ‘without regard to the exceptions contained in paragraphs (1), (2), (4), (5), and (6) of subsection (b) thereof’ for ‘without regard to the exceptions contained in subsection (b) thereof’.
+Subsidiaries which are foreign corporations or disc's.—In the case of any corporation which on September 28, 1982, would have been a member of the same affiliated group as an electing small business corporation but for paragraph (3) or (7) of section 1504(b) of the Internal Revenue Code of 1986, subparagraph (A) of section 1361(b)(2) of such Code (as amended by section 2) shall be applied by substituting ‘without regard to the exceptions contained in paragraphs (1), (2), (4), (5), and (6) of subsection (b) thereof’ for ‘without regard to the exceptions contained in subsection (b) thereof’.
 
 &emsp;“(2)
 
@@ -400,9 +532,19 @@ Treatment of Certain Elections Under Prior Law.—For purposes of section 1362(g
 
 Taxable Year of S Corporations.—Section 1378 of the Internal Revenue Code of 1986 (as added by this Act \[Pub. L. 97–354\]) shall take effect on the day after the date of the enactment of this Act \[Oct. 19, 1982\]. For purposes of applying such section, the reference in subsection (a)(2) of such section to an election under section 1362(a) shall include a reference to an election under section 1372(a) of such Code as in effect on the day before the date of the enactment of this Act \[Oct. 19, 1982\].”
 
+#### Elimination of Certain Earnings and Profits
+
+Section 1311(a) of Pub. L. 104–188 provided that: “If—
+
+&emsp;“(1) a corporation was an electing small business corporation under subchapter S of chapter 1 of the Internal Revenue Code of 1986 for any taxable year beginning before January 1, 1983, and
+
+&emsp;“(2) such corporation is an S corporation under subchapter S of chapter 1 of such Code for its first taxable year beginning after December 31, 1996,
+
+> the amount of such corporation's accumulated earnings and profits (as of the beginning of such first taxable year) shall be reduced by an amount equal to the portion (if any) of such accumulated earnings and profits which were accumulated in any taxable year beginning before January 1, 1983, for which such corporation was an electing small business corporation under such subchapter S.”
+
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L.99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
 #### Transitional Provisions
 
@@ -416,5 +558,5 @@ Pub. L. 97–448, title III, §305(d)(1)(B), Jan. 12, 1983, 96 Stat. 2399, as am
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 280G, 678, 1362 of this title.
+This section is referred to in sections 280G, 512, 641, 678, 1362 of this title.
 

@@ -48,7 +48,7 @@ Whenever the Secretary declines to enter into a self-determination contract or c
 
 &emsp;(2) provide assistance to the tribal organization to overcome the stated objections, and
 
-&emsp;(3) provide the tribal organization with a hearing on the record with the right to engage in full discovery relevant to any issue raised in the matter and the opportunity for appeal on the objections raised, under such rules and regulations as the Secretary may promulgate, except that the tribe or tribal organization may, in lieu of filing such appeal, exercise the option to initiate an action in a Federal district court and proceed directly to such court pursuant to section 450m–1(a) of this title.
+&emsp;(3) provide the tribal organization with a hearing on the record with the right to engage in full discovery relevant to any issue raised in the matter and the opportunity for appealon the objections raised, under such rules and regulations as the Secretary may promulgate, except that the tribe or tribal organization may, in lieu of filing such appeal, exercise the option to initiate an action in a Federal district court and proceed directly to such court pursuant to section 450m–1(a) of this title.
 
 #### (c) Liability insurance; waiver of defense
 
@@ -66,7 +66,7 @@ For purposes of section 233 of title 42, with respect to claims by any person, i
 
 #### (e) Burden of proof at hearing or appeal declining contract; final agency action
 
-(1) With respect to any hearing or appeal conducted pursuant to subsection (b)(3) of this section, the Secretary shall have the burden of proof to establish by clearly demonstrating thevalidity of the grounds for declining the contract proposal (or portion thereof).
+(1) With respect to any hearing or appeal conducted pursuant to subsection (b)(3) of this section, the Secretary shall have the burden of proof to establish by clearly demonstrating the validity of the grounds for declining the contract proposal (or portion thereof).
 
 (2) Notwithstanding any other provision of law, a decision by an official of the Department of the Interior or the Department of Health and Human Services, as appropriate (referred to in this paragraph as the “Department”) that constitutes final agency action and that relates to an appeal within the Department that is conducted under subsection (b)(3) of this section shall be made either—
 
@@ -80,7 +80,7 @@ For purposes of section 233 of title 42, with respect to claims by any person, i
 
 Act of April 16, 1934, referred to in subsec. (a)(1)(A), is act Apr. 16, 1934, ch. 147, 48 Stat. 596, as amended, popularly known as the Johnson-O'Malley Act, which is classified generally to section 452 et seq. of this title. For complete classification of this Act to the Code, see Short Title note set out under section 452 of this title and Tables.
 
-Act of August 5, 1954, referred to in subsec. (a)(1)(C), is act Aug. 5, 1954, ch. 658, 68 Stat. 674, as amended, which is classified generally to subchapter I (§2001 et seq.) of chapter 22 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Tables.
+Act of August 5, 1954, referred to in subsec. (a)(1)(C), is act Aug. 5, 1954, ch. 658, 68 Stat. 674, as amended,which is classified generally to subchapter I (§2001 et seq.) of chapter 22 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Tables.
 
 This subchapter, referred to in subsec. (c)(1), was in the original “this Act”, meaning Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, as amended, known as the Indian Self-Determination and Education Assistance Act, which is classified principally to this subchapter (§450 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
 
@@ -168,7 +168,7 @@ Sec. 303. (a) The Secretaries is \[sic\] directed to negotiate, and to enter int
 
 &emsp;“(6) shall, except as provided in paragraphs (1) and (2), provide for payment by the Secretaries to the tribe of funds from one or more programs, services, functions, or activities in an amount equal to that which the tribe would have been eligible to receive under contracts and grants under this Act \[Pub. L. 93–638, see Short Title note under section 450 of this title\], including direct program costs and indirect costs, and for any funds which are specifically related to the provision by the Secretaries of services and benefits to the tribe and its members: <i>Provided, however</i>, That funds for trust services to individual Indians are available under this written agreement only to the extent that the same services which would have been provided by the Secretaries are provided to individual Indians by the tribe;
 
-&emsp;“(7) shall not allow the Secretaries to waive, modify or diminish in any way the trust responsibility of the United States with respect to Indian tribes andindividual Indians which exists under treaties, Executive orders, and Acts of Congress;
+&emsp;“(7) shall not allow the Secretaries to waive, modify or diminish in any way the trust responsibility of the United States with respect to Indian tribes and individual Indians which exists under treaties, Executive orders, and Acts of Congress;
 
 &emsp;“(8) shall allow for retrocession of programs or portions thereof pursuant to section 105(e) of this Act \[25 U.S.C. 450j(e)\]; and
 
@@ -190,7 +190,7 @@ Sec. 303. (a) The Secretaries is \[sic\] directed to negotiate, and to enter int
 
 “
 
-Sec. 304. The Secretaries shall identify, in the President's annual budget request to the Congress, any funds proposed to be included in the Tribal Self-Governance Project. The use of funds pursuant to this title shall be subject to specific directives or limitations as may be included in applicable appropriations Acts.
+Sec. 304. The Secretaries shall identify, in the President's annual budget request to the Congress, any fundsproposed to be included in the Tribal Self-Governance Project. The use of funds pursuant to this title shall be subject to specific directives or limitations as may be included in applicable appropriations Acts.
 
 “
 

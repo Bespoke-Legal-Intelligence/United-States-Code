@@ -24,7 +24,7 @@ Limitation on appointments.—A person who has directly represented, aided, or a
 
 &emsp;(C) have lead responsibility for the conduct of, and shall be the chief representative of the United States for, international trade negotiations, including all negotiations on any matter considered under the auspices of the World Trade Organization, commodity and direct investment negotiations, in which the United States participates;
 
-&emsp;(D) issue and coordinate policy guidance to departments and agencies on basic issues of policy and interpretation arising in the exercise of international trade functions, including any matter considered under the auspices of the World Trade Organization,,<sup>1</sup> to the extent necessary to assure the coordination of international trade policy and consistent with any other law;
+&emsp;(D) issue and coordinate policy guidance to departments and agencies on basic issues of policy and interpretation arising in the exercise of international trade functions, including any matter considered under the auspices of the World Trade Organization, to the extent necessary to assure the coordination of international trade policy and consistent with any other law;
 
 &emsp;(E) act as the principal spokesman of the President on international trade;
 
@@ -64,7 +64,7 @@ Limitation on appointments.—A person who has directly represented, aided, or a
 
 &emsp;&emsp;(ii) has a significant adverse impact on domestic firms or industries that are either too small or financially weak to initiate proceedings under the trade laws;
 
-&emsp;(C) identify practices having a significant adverse impact on United States commerce that the attainment of United States negotiating objectives would eliminate; and
+&emsp;(C) identify practices having a significant adverse impact on United States commercethat the attainment of United States negotiating objectives would eliminate; and
 
 &emsp;(D) identify, on a biennial basis, those United States Government policies and practices that, if engaged in by a foreign government, might constitute unfair trade practices under United States law.
 
@@ -94,7 +94,7 @@ Limitation on appointments.—A person who has directly represented, aided, or a
 
 The United States Trade Representative may, for the purpose of carrying out his functions under this section—
 
-&emsp;(1) subject to the civil service and classification laws, select, appoint, employ, and fix the compensation of such officers and employees as are necessary and prescribe their authority and duties, except that not more than 20 individuals may be employed without regard to any provision of law regulating the employment or compensation at rates not to exceed the rate of pay for level IV of the Executive Schedule in section 5314 <sup>2</sup> of title 5;
+&emsp;(1) subject to the civil service and classification laws, select, appoint, employ, and fix the compensation of such officers and employees as are necessary and prescribe their authority and duties, except that not more than 20 individuals may be employed without regard to any provision of law regulating the employment or compensation at rates not to exceed the rate of pay for level IV of the Executive Schedule in section 5314 <sup>1</sup> of title 5;
 
 &emsp;(2) employ experts and consultants in accordance with section 3109 of title 5 and compensate individuals so employed for each day (including traveltime) at rates not in excess of the maximum rate of pay for grade GS–18 as provided in section 5332 of title 5 and while such experts and consultants are so serving away from their homes or regular place of business, to pay such employees travel expenses and per diem in lieu of subsistence at rates authorized by section 5703 of title 5 for persons in Government service employed intermittently;
 
@@ -132,13 +132,13 @@ The United States Trade Representative shall, to the extent he deems it necessar
 
 &emsp;(i) not to exceed $98,000 may be used for entertainment and representation expenses of the Office;
 
-&emsp;(ii) not to exceed $2,050,000 may be used to pay the United States share of the expenses of binational panels and extraordinary challenge committees convened pursuant to chapter 19 of the United States-Canada Free-Trade Agreement; and
+&emsp;(ii) not to exceed $2,050,000 may be used to pay the United States share of the expenses ofbinational panels and extraordinary challenge committees convened pursuant to chapter 19 of the United States-Canada Free-Trade Agreement; and
 
 &emsp;(iii) not to exceed $1,000,000 shall remain available until expended.
 
 (2) For the fiscal year beginning October 1, 1982, and for each fiscal year thereafter, there are authorized to be appropriated to the Office for the salaries of its officers and employees such additional sums as may be provided by law to reflect pay rate changes made in accordance with the Federal Pay Comparability Act of 1970.
 
-(Pub. L. 93–618, title I, §141, Jan. 3, 1975, 88 Stat. 1999; Pub. L. 97–456, §3(a)–(d)(2), Jan. 12, 1983, 96 Stat. 2504, 2505; Pub. L. 98–573, title III, §304(d)(2)(A), title VII, §703, Oct. 30, 1984, 98 Stat. 3004, 3043; Pub. L. 99–272, title XIII, §13023, Apr. 7, 1986, 100 Stat. 307; Pub. L. 99–514, title XVIII, §1887(a)(3), (4), Oct. 22, 1986, 100 Stat. 2923; Pub. L. 100–203, title IX, §9504, Dec. 22, 1987, 101 Stat. 1330–382; Pub. L. 100–418, title I, §1601, Aug. 23, 1988, 102 Stat. 1260; Pub. L. 101–207, §1(a), Dec. 7, 1989, 103 Stat. 1833; Pub. L. 101–382, title I, §103(a), Aug. 20, 1990, 104 Stat. 634; Pub. L. 103–465, title VI, §621(a)(8), Dec. 8, 1994, 108 Stat. 4993; Pub. L. 104–65, §21(b), Dec. 19, 1995, 109 Stat. 704.)
+(Pub. L. 93–618, title I, §141, Jan. 3, 1975, 88 Stat. 1999; Pub. L. 97–456, §3(a)–(d)(2), Jan. 12, 1983, 96 Stat. 2504, 2505; Pub. L. 98–573, title III, §304(d)(2)(A), title VII, §703, Oct. 30, 1984, 98 Stat. 3004, 3043; Pub. L. 99–272, title XIII, §13023, Apr. 7, 1986, 100 Stat. 307; Pub. L. 99–514, title XVIII, §1887(a)(3), (4), Oct. 22, 1986, 100 Stat. 2923; Pub. L. 100–203, title IX, §9504, Dec. 22, 1987, 101 Stat. 1330–382; Pub. L. 100–418, title I, §1601, Aug. 23, 1988, 102 Stat. 1260; Pub. L. 101–207, §1(a), Dec. 7, 1989, 103 Stat. 1833; Pub. L. 101–382, title I, §103(a), Aug. 20, 1990, 104 Stat. 634; Pub. L. 103–465, title VI, §621(a)(8), Dec. 8, 1994, 108 Stat. 4993; Pub. L. 104–65, §21(b), Dec. 19, 1995, 109 Stat. 704; Pub. L. 104–295, §20(f)(1), Oct. 11, 1996, 110 Stat. 3529.)
 
 #### References in Text
 
@@ -157,6 +157,8 @@ The Federal Pay Comparability Act of 1970, referred to in subsec. (g)(2), is Pub
 Section is comprised of section 141 of Pub. L. 93–618. Section 141(b) of Pub. L. 93–618 contains two pars. (3), the first of which amended sections 5312 and 5314 of Title 5, Government Organization and Employees.
 
 #### Amendments
+
+1996—Subsec. (c)(1)(D). Pub. L. 104–295 struck out comma after “World Trade Organization,”.
 
 1995—Subsec. (b)(3). Pub. L. 104–65 added par. (3).
 
@@ -334,7 +336,7 @@ The Trade Representative and the Secretary shall serve, ex officio and without v
 
 &emsp;(B) section 232 of the Trade Expansion Act of 1962 (19 U.S.C. 1862);
 
-&emsp;(C) section 303 and title VII (including section 771(1) \[19 U.S.C. 1677(1)\] of the Tariff Act of 1930 (19 U.S.C. 1303, 1671 <i>et seq.</i>), except that the Customs Service of the Department of the Treasury shall accept such deposits, bonds, or other security as deemed appropriate by the Secretary, shall assess and collect such duties as may be directed by the Secretary, and shall furnish such of its important records or copies thereof as may be requested by the Secretary incident to the functions transferred by this subparagraph;
+&emsp;(C) section 303 and title VII (including section 771(1) \[19 U.S.C. 1677(1)\] of the Tariff Act of 1930 (19 U.S.C. 1303, 1671 <i>et seq</i>.), except that the Customs Service of the Department of the Treasury shall accept such deposits, bonds, or other security as deemed appropriate by the Secretary, shall assess and collect such duties as may be directed by the Secretary, and shall furnish such of its important records or copies thereof as may be requested by the Secretary incident to the functions transferred by this subparagraph;
 
 &emsp;(D) sections 514, 515, and 516 of the Tariff Act of 1930 (19 U.S.C. 1514, 1515, and 1516) insofar as they relate to any protest, petition, or notice of desire to contest described in section 1002(b)(1) of the Trade Agreements Act of 1979 \[19 U.S.C. 1516a note\];
 
@@ -354,7 +356,7 @@ The Trade Representative and the Secretary shall serve, ex officio and without v
 
 &emsp;(B) performed in such countries as the President may from time to time prescribe.
 
-(2) To carry out the functions transferred by paragraph (1) of this subsection, the President, to the extent he deems it necessary, may authorize the Secretary to utilize Foreign Service personnel authorities and to exercise the functions vested in the Secretary of State by the Foreign Service Act of 1946 (22 U.S.C. 801 <i>et seq.</i>) \[see 22 U.S.C. 3901 et seq.\] and by any other laws with respect to personnel performing such functions.
+(2) To carry out the functions transferred by paragraph (1) of this subsection, the President, to the extent he deems it necessary, may authorize the Secretary to utilize Foreign Service personnel authorities and to exercise the functions vested in the Secretary of State by the Foreign Service Act of 1946 (22 U.S.C. 801 <i>et seq</i>.) \[see 22 U.S.C. 3901 et seq.\] and by any other laws with respect to personnel performing such functions.
 
 (c) There are transferred to the President all functions of the East-West Foreign Trade Board under section 411(c) of the Trade Act of 1974 (19 U.S.C. 2441(c)).
 
@@ -408,17 +410,17 @@ I propose to enhance STR, to be renamed the Office of the United States Trade Re
 
 The Trade Representative, with the advice of the Trade Policy Committee, will be responsible for developing and coordinating our international trade and direct investment policy, including the following areas:
 
-<i>Import remedies.</i>—The Trade Representative will exercise policy oversight of the application of import remedies, analyze long-term trends in import remedy cases and recommend any necessary legislative changes. For antidumping and countervailing duty matters, such coordination, to the extent legally permissible, will be directed toward the establishment of new precedents, negotiation of assurances, and coordination with other trade matters, rather than case-by-case fact finding and determinations.
+<i>Import remedies</i>.—The Trade Representative will exercise policy oversight of the application of import remedies, analyze long-term trends in import remedy cases and recommend any necessary legislative changes. For antidumping and countervailing duty matters, such coordination, to the extent legally permissible, will be directed toward the establishment of new precedents, negotiation of assurances, and coordination with other trade matters, rather than case-by-case fact finding and determinations.
 
-<i>East-West trade policy.</i>—The Trade Representative will have lead responsibility for East-West trade negotiations and will coordinate East-West trade policy. The Trade Policy Committee will assume the responsibilities of the East-West Foreign Trade Board.
+<i>East-West trade policy</i>.—The Trade Representative will have lead responsibility for East-West trade negotiations and will coordinate East-West trade policy. The Trade Policy Committee will assume the responsibilities of the East-West Foreign Trade Board.
 
-<i>International investment policy.</i>—The Trade Representative will have the policy lead regarding issues of direct foreign investment in the United States, direct investment by Americans abroad, operations of multinational enterprises, and multilateral agreements on international investment, insofar as such issues relate to international trade.
+<i>International investment policy</i>.—The Trade Representative will have the policy lead regarding issues of direct foreign investment in the United States, direct investment by Americans abroad, operations of multinational enterprises, and multilateral agreements on international investment, insofar as such issues relate to international trade.
 
-<i>International commodity policy.</i>—The Trade Representative will assume responsibility for commodity negotiations and also will coordinate commodity policy.
+<i>International commodity policy</i>.—The Trade Representative will assume responsibility for commodity negotiations and also will coordinate commodity policy.
 
-<i>Energy trade.</i>—While the Departments of Energy and State will continue to share responsibility for international energy issues, the Trade Representative will coordinate energy trade matters. The Department of Energy will become a member of the TPC.
+<i>Energy trade</i>.—While the Departments of Energy and State will continue to share responsibility for international energy issues, the Trade Representative will coordinate energy trade matters. The Department of Energy will become a member of the TPC.
 
-<i>Export-expansion policy.</i>—To ensure a vigorous and coordinated Government-wide export expansion effort, policy oversight of our export expansion activities will be the responsibility of the Trade Representative.
+<i>Export-expansion policy</i>.—To ensure a vigorous and coordinated Government-wide export expansion effort, policy oversight of our export expansion activities will be the responsibility of the Trade Representative.
 
 The Trade Representative will have the lead role in bilateral and multilateral trade, commodity, and direct investment negotiations. The Trade Representative will represent the United States in General Agreement on Tariffs and Trade (GATT) matters. Since the GATT will be the principal international forum for implementing and interpreting the MTN agreements and since GATT meetings, including committee and working group meetings, occur almost continuously, the Trade Representative will have a limited number of permanent staff in Geneva. In some cases, it may be necessary to assign a small number of USTR staff abroad to assist in oversight of MTN enforcement. In this event, appropriate positions will be authorized. In recognition of the responsibility of the Secretary of State regarding our foreign policy, the activities of overseas personnel of the Trade Representative and the Commerce Department will be fully coordinated with other elements of our diplomatic missions.
 

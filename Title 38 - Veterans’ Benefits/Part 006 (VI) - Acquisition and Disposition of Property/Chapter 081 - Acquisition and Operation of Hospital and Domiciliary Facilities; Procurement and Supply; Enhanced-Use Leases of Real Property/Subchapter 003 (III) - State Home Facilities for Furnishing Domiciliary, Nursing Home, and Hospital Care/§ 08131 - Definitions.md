@@ -6,13 +6,15 @@ For the purpose of this subchapter—
 
 &emsp;(2) The term “State” does not include any possession of the United States.
 
-&emsp;(3) The term “construction” means the construction of new domiciliary or nursing home buildings, the expansion, remodeling, or alteration of existing buildings for the provision of domiciliary, nursing home, or hospital care in State homes, and the provision of initial equipment for any such buildings.
+&emsp;(3) The term “construction” means the construction of new domiciliary or nursing home buildings, the expansion, remodeling, or alteration of existing buildings for the provision of domiciliary, nursing home, adult day health, or hospital care in State homes, and the provision of initial equipment for any such buildings.
 
 &emsp;(4) The term “cost of construction” means the amount found by the Secretary to be necessary for a construction project, including architect fees, but excluding land acquisition costs.
 
-(Added Pub. L. 88–450, §4(a), Aug. 19, 1964, 78 Stat. 501, §5031; amended Pub. L. 94–581, title II, §206(b), Oct. 21, 1976, 90 Stat. 2859; Pub. L. 95–62, §3(1), (2), July 5, 1977, 91 Stat. 262; Pub. L. 99–576, title II, §224(d), Oct. 28, 1986, 100 Stat. 3263; renumbered §8131, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, §4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405.)
+(Added Pub. L. 88–450, §4(a), Aug. 19, 1964, 78 Stat. 501, §5031; amended Pub. L. 94–581, title II, §206(b), Oct. 21, 1976, 90 Stat. 2859; Pub. L. 95–62, §3(1), (2), July 5, 1977, 91 Stat. 262; Pub. L. 99–576, title II, §224(d), Oct. 28, 1986, 100 Stat. 3263; renumbered §8131, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, §4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 104–262, title III, §342(b)(1), Oct. 9, 1996, 110 Stat. 3206.)
 
 #### Amendments
+
+1996—Par. (3). Pub. L. 104–262 inserted “adult day health,” before “or hospital care”.
 
 1991—Pub. L. 102–40 renumbered section 5031 of this title as this section.
 

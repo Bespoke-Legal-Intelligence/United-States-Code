@@ -48,7 +48,7 @@ The Bankruptcy Act, referred to in subsec. (b)(3)(B), is act July 1, 1898, ch. 5
 
 #### Codification
 
-In subsec. (b)(3)(B), “section 3713(a) of title 31” substituted for “section 3466 of the Revised Statutes (31 U.S.C. 191)” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In subsec. (b)(3)(B), “section 3713(a) of title 31” substituted for “section 3466 of the Revised Statutes (31U.S.C. 191)” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 #### Amendments
 

@@ -1,5 +1,5 @@
 
-44 U.S.C.<br>United States Code, 1995 Edition<br>Title 44 - PUBLIC PRINTING AND DOCUMENTS<br>From the U.S. Government Publishing Office, www.gpo.gov
+44 U.S.C.<br>United States Code, 1996 Edition<br>Title 44 - PUBLIC PRINTING AND DOCUMENTS<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 44—PUBLIC PRINTING AND DOCUMENTS
 
@@ -15,7 +15,7 @@
 | [<b>11.</b>](Chapter%20011%20-%20Executive%20and%20Judiciary%20Printing%20and%20Binding/README.md) | <b>Executive and Judiciary Printing and Binding</b> | <b>1101</b> |
 | [<b>13.</b>](Chapter%20013%20-%20Particular%20Reports%20and%20Documents/README.md) | <b>Particular Reports and Documents</b> | <b>1301</b> |
 | [<b>15.</b>](Chapter%20015%20-%20Federal%20Register%20and%20Code%20of%20Federal%20Regulations/README.md) | <b>Federal Register and Code of Federal Regulations</b> | <b>1501</b> |
-| [<b>17.</b>](Chapter%20017%20-%20Distribution%20and%20Sale%20of%20Public%20Documents/README.md) | <b>Distribution and Sale of Public Documents </b> | <b>1701</b> |
+| [<b>17.</b>](Chapter%20017%20-%20Distribution%20and%20Sale%20of%20Public%20Documents/README.md) | <b>Distribution and Sale of Public Documents</b> | <b>1701</b> |
 | [<b>19.</b>](Chapter%20019%20-%20Depository%20Library%20Program/README.md) | <b>Depository Library Program</b> | <b>1901</b> |
 | [<b>21.</b>](Chapter%20021%20-%20National%20Archives%20and%20Records%20Administration/README.md) | <b>National Archives and Records Administration</b> | <b>2101</b> |
 | [<b>22.</b>](Chapter%20022%20-%20Presidential%20Records/README.md) | <b>Presidential Records</b> | <b>2201</b> |
@@ -52,9 +52,13 @@ Pub. L. 95–378, §2(b), Sept. 22, 1978, 92 Stat. 723, struck out item 27 “Fe
 
 Table Showing Disposition of All Sections of Former Title 44
 
-<i>       Title 44            Former Sections    </i>
+<i>Title 44</i>
 
-<i>     Title 44          New Sections    </i>
+<i>Former Sections</i>
+
+<i>Title 44</i>
+
+<i>New Sections</i>
 
 1
 

@@ -86,7 +86,7 @@
 
 #### (2) Exception
 
-&emsp;The Fund may provide not more than $3,750,000 of assistance in addition to the amount specified in paragraph (1) during the same 3-year period to an existing community development financial institution that proposes to establish a subsidiary or affiliate for the purpose of serving an investment area or targeted population outside of any State and outside of any metropolitan area presently served by the institution, if—
+&emsp;The Fund may provide not more than $3,750,000 of assistance in addition to theamount specified in paragraph (1) during the same 3-year period to an existing community development financial institution that proposes to establish a subsidiary or affiliate for the purpose of serving an investment area or targeted population outside of any State and outside of any metropolitan area presently served by the institution, if—
 
 &emsp;&emsp;(A) the subsidiary or affiliate—
 
@@ -108,7 +108,7 @@
 
 #### (1) In general
 
-&emsp;Assistance other than technical assistance shall be matched with funds from sources other than the Federal Government on the basis of not less than one dollar for each dollar provided by the Fund. Such matching funds shall be at least comparable in form and value to assistance provided by the Fund. The Fundshall provide no assistance (other than technical assistance) until a community development financial institution has secured firm commitments for the matching funds required.
+&emsp;Assistance other than technical assistance shall be matched with funds from sources other than the Federal Government on the basis of not less than one dollar for each dollar provided by the Fund. Such matching funds shall be at least comparable in form and value to assistance provided by the Fund. The Fund shall provide no assistance (other than technical assistance) until a community development financial institution has secured firm commitments for the matching funds required.
 
 #### (2) Exception
 

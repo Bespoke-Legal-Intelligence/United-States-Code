@@ -26,15 +26,17 @@ Other Conduct.—Whoever outside the United States engages in physical violence�
 
 &emsp;(2) with the result that serious bodily injury is caused to a national of the United States;
 
-> shall be fined under this title or imprisoned not more than five years, or both.
+> shall be fined under this title or imprisoned not more than ten years, or both.
 
 (d)
 
 Limitation on Prosecution.—No prosecution for any offense described in this section shall be undertaken by the United States except on written certification of the Attorney General or the highest ranking subordinate of the Attorney General with responsibility for criminal prosecutions that, in the judgment of the certifying official, such offense was intended to coerce, intimidate, or retaliate against a government or a civilian population.
 
-(Added Pub. L. 99–399, title XII, §1202(a), Aug. 27, 1986, 100 Stat. 896, §2331; amended Pub. L. 101–519, §132(b), Nov. 5, 1990, 104 Stat. 2250; Pub. L. 102–27, title IV, §402, Apr. 10, 1991, 105 Stat. 155; Pub. L. 102–136, §126, Oct. 25, 1991, 105 Stat. 643; renumbered §2332 and amended Pub. L. 102–572, title X, §1003(a)(1), (2), Oct. 29, 1992, 106 Stat. 4521; Pub. L. 103–322, title VI, §60022, Sept. 13, 1994, 108 Stat. 1980.)
+(Added Pub. L. 99–399, title XII, §1202(a), Aug. 27, 1986, 100 Stat. 896, §2331; amended Pub. L. 101–519, §132(b), Nov. 5, 1990, 104 Stat. 2250; Pub. L. 102–27, title IV, §402, Apr. 10, 1991, 105 Stat. 155; Pub. L. 102–136, §126, Oct. 25, 1991, 105 Stat. 643; renumbered §2332 and amended Pub. L. 102–572, title X, §1003(a)(1), (2), Oct. 29, 1992, 106 Stat. 4521; Pub. L. 103–322, title VI, §60022, Sept. 13, 1994, 108 Stat. 1980; Pub. L. 104–132, title VII, §705(a)(6), Apr. 24, 1996, 110 Stat. 1295.)
 
 #### Amendments
+
+1996—Subsec. (c). Pub. L. 104–132 substituted “ten years” for “five years” in concluding provisions.
 
 1994—Subsec. (a)(1). Pub. L. 103–322 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “if the killing is a murder as defined in section 1111(a) of this title, be fined under this title or imprisoned for any term of years or for life, or both so fined and so imprisoned;”.
 
@@ -52,5 +54,5 @@ Amendment by Pub. L. 102–572 applicable to any pending case or any cause of ac
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2333, 3286, 3592 of this title.
+This section is referred to in sections 1956, 2332b, 2333, 2339A, 3286, 3592 of this title.
 

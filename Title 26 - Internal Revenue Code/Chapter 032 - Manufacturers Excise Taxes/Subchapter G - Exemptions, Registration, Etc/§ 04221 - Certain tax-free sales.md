@@ -40,7 +40,7 @@ For purposes of this section—
 
 #### (2) Export
 
-&emsp;The term “export” includes shipment to a possession of the United States; and the term“exported” includes shipped to a possession of the United States.
+&emsp;The term “export” includes shipment to a possession of the United States; and the term “exported” includes shipped to a possession of the United States.
 
 #### (3) Supplies for vessels or aircraft
 
@@ -134,7 +134,7 @@ Subsec. (d)(1). Pub. L. 101–508, §11221(d)(2), substituted “taxes imposed b
 
 1989—Subsec. (c). Pub. L. 101–239 struck out “or 4083” after “4053(a)(6)”.
 
-1987—Subsec. (a). Pub. L. 100–203, §10502(d)(4), substituted “(other than under section 4121, 4081, or 4091) on the sale by the manufacturer” for “(other than under section 4121 or section 4081 (at the Highway Trust Fund financing rate)) on the sale by the manufacturer” in introductory text.
+1987—Subsec. (a). Pub. L. 100–203, §10502(d)(4), substituted “(other than under section 4121, 4081, or 4091)on the sale by the manufacturer” for “(other than under section 4121 or section 4081 (at the Highway Trust Fund financing rate)) on the sale by the manufacturer” in introductory text.
 
 Pub. L. 100–203, §9201(b)(1), inserted at end “In the case of the tax imposed by section 4131, paragraphs (3), (4), and (5) shall not apply and paragraph (2) shall apply only if the use of the exported vaccine meets such requirements as the Secretary may by regulations prescribe.”
 
@@ -224,7 +224,7 @@ Amendment by section 10502(d)(4) of Pub. L. 100–203 applicable to sales after 
 
 #### Effective Date of 1986 Amendments
 
-Amendment by Pub. L. 99–514 applicable to gasoline removed (as defined in section 4082 of this title as amended by section 1703 of Pub. L. 99–514) after Dec. 31, 1987, see section 1703(h) of Pub. L. 99–514, set out as a note under section 4081 of this title.
+Amendment by Pub. L. 99–514 applicable to gasoline removed (as defined in section 4082 of this title asamended by section 1703 of Pub. L. 99–514) after Dec. 31, 1987, see section 1703(h) of Pub. L. 99–514, set out as a note under section 4081 of this title.
 
 Amendment by Pub. L. 99–499 effective Jan. 1, 1987, see section 521(e) of Pub. L. 99–499, set out as a note under section 4041 of this title.
 

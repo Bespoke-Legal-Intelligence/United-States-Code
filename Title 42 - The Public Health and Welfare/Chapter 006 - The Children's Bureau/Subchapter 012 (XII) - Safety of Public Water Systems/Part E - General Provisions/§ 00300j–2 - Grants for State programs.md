@@ -14,7 +14,7 @@
 
 (3) A grant under paragraph (1) shall be made to cover not more than 75 per centum of the grant recipient's costs (as determined under regulations of the Administrator) in carrying out, during the one-year period beginning on the date the grant is made, a public water system supervision program.
 
-(4) In each fiscal year the Administrator shall, in accordance, with regulations, allot the sums appropriated for such year under paragraph (5) among the States on the basis of population, geographical area, number of public water systems, and other relevant factors. No State shall receive less than 1 per centum of the annual appropriation for grants under paragraph (1): <i>Provided,</i> That the Administrator may, by regulation, reduce such percentage in accordance with the criteria specified in this paragraph: <i>And provided further,</i> That such percentage shall not apply to grants allotted to Guam, American Samoa, or the Virgin Islands.
+(4) In each fiscal year the Administrator shall, in accordance, with regulations, allot the sumsappropriated for such year under paragraph (5) among the States on the basis of population, geographical area, number of public water systems, and other relevant factors. No State shall receive less than 1 per centum of the annual appropriation for grants under paragraph (1): <i>Provided</i>, That the Administrator may, by regulation, reduce such percentage in accordance with the criteria specified in this paragraph: <i>And provided further</i>, That such percentage shall not apply to grants allotted to Guam, American Samoa, or the Virgin Islands.
 
 (5) The prohibition contained in the last sentence of paragraph (2) may be waived by the Administrator with respect to a grant to a State through fiscal year 1979 but such prohibition may only be waived if, in the judgment of the Administrator—
 
@@ -34,31 +34,25 @@
 
 > whichever is later.
 
-(7) For purposes of making grants under paragraph (1) there are authorized to be appropriated $15,000,000 for the fiscal year ending June 30, 1976, $25,000,000 for the fiscal year ending June 30, 1977, $35,000,000 for fiscal year 1978, $45,000,000 for fiscal year 1979, $29,450,000 for the fiscal year ending September 30, 1980, $32,000,000 for the fiscal year ending September 30, 1981, and $34,000,000 for the fiscal year ending September 30, 1982. For the purposes of making grants under paragraph (1) there are authorized to be appropriated not more than the following amounts:
+(7)
 
-> &emsp;Fiscal year:
+Authorization.—For the purpose of making grants under paragraph (1), there are authorized to be appropriated $100,000,000 for each of fiscal years 1997 through 2003.
 
-<i>Amount  </i>
+(8)
 
-&nbsp;&nbsp;1987
+Reservation of funds by the administrator.—If the Administrator assumes the primary enforcement responsibility of a State public water system supervision program, the Administrator may reserve from funds made available pursuant to this subsection an amount equal to the amount that would otherwise have been provided to the State pursuant to this subsection. The Administrator shall use the funds reserved pursuant to this paragraph to ensure the full and effective administration of a public water system supervision program in the State.
 
-&nbsp;$37,200,000
+(9)
 
-&nbsp;&nbsp;1988
+State loan funds.—
 
-&nbsp;&nbsp;37,200,000
+&emsp;(A)
 
-&nbsp;&nbsp;1989
+Reservation of funds.—For any fiscal year for which the amount made available to the Administrator by appropriations to carry out this subsection is less than the amount that the Administrator determines is necessary to supplement funds made available pursuant to paragraph (8) to ensure the full and effective administration of a public water system supervision program in a State, the Administrator may reserve from the funds made available to the State under section 300j–12 of this title (relating to State loan funds) an amount that is equal to the amount of the shortfall. This paragraph shall not apply to any State not exercising primary enforcement responsibility for public water systems as of August 6, 1996.
 
-&nbsp;&nbsp;40,150,000
+&emsp;(B)
 
-&nbsp;&nbsp;1990
-
-&nbsp;&nbsp;40,150,000
-
-&nbsp;&nbsp;1991
-
-&nbsp;&nbsp;40,150,000
+Duty of administrator.—If the Administrator reserves funds from the allocation of a State under subparagraph (A), the Administrator shall carry out in the State each of the activities that would be required of the State if the State had primary enforcement authority under section 300g–2 of this title.
 
 #### (b) Underground water source protection programs; applications for grants; allotment of sums; authorization of appropriations
 
@@ -70,31 +64,18 @@
 
 (4) In each fiscal year the Administrator shall, in accordance with regulations, allot the sums appropriated for such year under paragraph (5) among the States on the basis of population, geographical area, and other relevant factors.
 
-(5) For purposes of making grants under paragraph (1) there are authorized to be appropriated $5,000,000 for the fiscal year ending June 30, 1976, $7,500,000 for the fiscal year ending June 30, 1977, $10,000,000 for each of the fiscal years 1978 and 1979, $7,795,000 for the fiscal year ending September 30, 1980, $18,000,000 for the fiscal year ending September 30, 1981, and $21,000,000 for the fiscal year ending September 30, 1982. For the purpose of making grants under paragraph (1) there are authorized to be appropriated not more than the following amounts:
+(5) For purposes of making grants under paragraph (1) there are authorized to be appropriated $5,000,000 for the fiscal year ending June 30, 1976, $7,500,000 for the fiscal year ending June 30, 1977, $10,000,000 for each of the fiscal years 1978 and 1979, $7,795,000 for the fiscal year ending September 30, 1980, $18,000,000 for the fiscal year ending September 30, 1981, and $21,000,000 for the fiscal year ending September 30, 1982. For the purpose of making grants under paragraph (1) there areauthorized to be appropriated not more than the following amounts:
 
-> &emsp;Fiscal year:
+&nbsp;
 
-<i>Amount  </i>
-
-&nbsp;&nbsp;1987
-
-&nbsp;$19,700,000
-
-&nbsp;&nbsp;1988
-
-&nbsp;&nbsp;19,700,000
-
-&nbsp;&nbsp;1989
-
-&nbsp;&nbsp;20,850,000
-
-&nbsp;&nbsp;1990
-
-&nbsp;&nbsp;20,850,000
-
-&nbsp;&nbsp;1991
-
-&nbsp;&nbsp;20,850,000
+| Fiscal year: | <i>Amount</i> |
+| :--- | ---: |
+| &nbsp;&nbsp;1987 | $19,700,000&nbsp;&nbsp; |
+| &nbsp;&nbsp;1988 | 19,700,000&nbsp;&nbsp; |
+| &nbsp;&nbsp;1989 | 20,850,000&nbsp;&nbsp; |
+| &nbsp;&nbsp;1990 | 20,850,000&nbsp;&nbsp; |
+| &nbsp;&nbsp;1991 | 20,850,000&nbsp;&nbsp; |
+| &nbsp;&nbsp;1992–2003 | 15,000,000. |
 
 #### (c) Definitions
 
@@ -104,9 +85,61 @@ For purposes of this section:
 
 &emsp;(2) The term “underground water source protection program” means a program for the adoption and enforcement of a program which meets the requirements of regulations under section 300h of this title, and for keeping records and making reports required by section 300h–1(b)(1)(A)(ii) of this title. Such term includes, where applicable, a program which meets the requirements of section 300h–4 of this title.
 
-(July 1, 1944, ch. 373, title XIV, §1443, as added Dec. 16, 1974, Pub. L. 93–523, §2(a), 88 Stat. 1684; amended Nov. 16, 1977, Pub. L. 95–190, §§2(b), (c), 5(a), 91 Stat. 1393, 1395; Sept. 6, 1979, Pub. L. 96–63, §2, 93 Stat. 411; Dec. 5, 1980, Pub. L. 96–502, §§2(c), 4(d), 94 Stat. 2738; June 19, 1986, Pub. L. 99–339, title III, §§301(b), (c), 302(d), 100 Stat. 664, 666.)
+#### (d) New York City watershed protection program
+
+#### (1) In general
+
+&emsp;The Administrator is authorized to provide financial assistance to the State of New York for demonstration projects implemented as part of the watershed program for the protection and enhancement of the quality of source waters of the New York City water supply system, including projects that demonstrate, assess, or provide for comprehensive monitoring and surveillance and projects necessary to comply with the criteria for avoiding filtration contained in 40 CFR 141.71. Demonstration projects which shall be eligible for financial assistance shall be certified to the Administrator by the State of New York as satisfying the purposes of this subsection. In certifying projects to the Administrator, the State of New York shall give priority to monitoring projects that have undergone peer review.
+
+#### (2) Report
+
+&emsp;Not later than 5 years after the date on which the Administrator first provides assistance pursuant to this paragraph, the Governor of the State of New York shall submit a report to the Administrator on the results of projects assisted.
+
+#### (3) Matching requirements
+
+&emsp;Federal assistance provided under this subsection shall not exceed 50 percent of the total cost of the protection program being carried out for any particular watershed or ground water recharge area.
+
+#### (4) Authorization
+
+&emsp;There are authorized to be appropriated to the Administrator to carry out this subsection for each of fiscal years 1997 through 2003, $15,000,000 for the purpose of providing assistance to the State of New York to carry out paragraph (1).
+
+(July 1, 1944, ch. 373, title XIV, §1443, as added Dec. 16, 1974, Pub. L. 93–523, §2(a), 88 Stat. 1684; amended Nov. 16, 1977, Pub. L. 95–190, §§2(b), (c), 5(a), 91 Stat. 1393, 1395; Sept. 6, 1979, Pub. L. 96–63, §2, 93 Stat. 411; Dec. 5, 1980, Pub. L. 96–502, §§2(c), 4(d), 94 Stat. 2738; June 19, 1986, Pub. L. 99–339, title III, §§301(b), (c), 302(d), 100 Stat. 664, 666; Aug. 6, 1996, Pub. L. 104–182, title I, §§120(c), 124, 128, 110 Stat. 1651, 1653, 1659.)
 
 #### Amendments
+
+1996—Subsec. (a)(7). Pub. L. 104–182, §124(1), inserted heading and amended text generally. Prior to amendment, text read as follows: “For purposes of making grants under paragraph (1) there are authorized to be appropriated $15,000,000 for the fiscal year ending June 30, 1976, $25,000,000 for the fiscal year ending June 30, 1977, $35,000,000 for fiscal year 1978, $45,000,000 for fiscal year 1979, $29,450,000 for the fiscal year ending September 30, 1980, $32,000,000 for the fiscal year ending September 30, 1981, and $34,000,000 for the fiscal year ending September 30, 1982. For the purposes of making grants under paragraph (1) there are authorized to be appropriated not more than the following amounts:
+
+“Fiscal year:
+
+<i>Amount  </i>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+&nbsp;&nbsp;1987
+
+&nbsp;$37,200,000&nbsp;&nbsp;
+
+&nbsp;&nbsp;1988
+
+&nbsp;&nbsp;37,200,000&nbsp;&nbsp;
+
+&nbsp;&nbsp;1989
+
+&nbsp;&nbsp;40,150,000&nbsp;&nbsp;
+
+&nbsp;&nbsp;1990
+
+&nbsp;&nbsp;40,150,000&nbsp;&nbsp;
+
+&nbsp;&nbsp;1991
+
+&nbsp;&nbsp;40,150,000”.
+
+Subsec. (a)(8), (9). Pub. L. 104–182, §124(2), added pars. (8) and (9).
+
+Subsec. (b)(5). Pub. L. 104–182, §120(c), inserted table item relating to fiscal years 1992 through 2003.
+
+Subsec. (d). Pub. L. 104–182, §128, added subsec. (d).
 
 1986—Subsec. (a)(2). Pub. L. 99–339, §302(d)(1), inserted provision that prohibitions contained in preceding two sentences not apply to such grants when made to Indian Tribes.
 
@@ -132,5 +165,5 @@ Subsec. (b)(5). Pub. L. 95–190, §2(c), inserted provisions authorizing approp
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 300g–6, 300j–1 of this title.
+This section is referred to in sections 300g–6, 300j–1, 300j–12 of this title.
 

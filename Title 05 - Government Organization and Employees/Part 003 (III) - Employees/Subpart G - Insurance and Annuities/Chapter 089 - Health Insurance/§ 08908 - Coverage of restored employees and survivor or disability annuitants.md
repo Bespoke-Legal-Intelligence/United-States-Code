@@ -6,7 +6,9 @@
 
 (c) A disability annuitant whose disability annuity under section 8337 of this title was terminated and is later restored under the second or third sentence of subsection (e) of such section may, under regulations prescribed by the Office, enroll in a health benefits plan described by section 8903 or 8903a of this title if such annuitant was covered by any such plan immediately before such annuity was terminated.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 605; Pub. L. 94–342, §1(a), July 6, 1976, 90 Stat. 808; Pub. L. 95–454, title IX, §906(a)(2), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 99–53, §§2(a), 3(a)(1), (2)(A), June 17, 1985, 99 Stat. 94, 95.)
+(d) A surviving child whose survivor annuity under section 8341(e) or 8443(b) was terminated and is later restored under paragraph (4) of section 8341(e) or the last sentence of section 8443(b) may, under regulations prescribed by the Office, enroll in a health benefits plan described by section 8903 or 8903a if such surviving child was covered by any such plan immediately before such annuity was terminated.
+
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 605; Pub. L. 94–342, §1(a), July 6, 1976, 90 Stat. 808; Pub. L. 95–454, title IX, §906(a)(2), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 99–53, §§2(a), 3(a)(1), (2)(A), June 17, 1985, 99 Stat. 94, 95; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §633(a)(3)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–363.)
 
 Historical and Revision Notes
 
@@ -14,7 +16,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 5 U.S.C. 3009(c).
 
@@ -28,15 +32,21 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-<b>1985</b>—Pub. L. 99–53, §3(a)(2)(A), inserted “or disability” after “and survivor” in section catchline.
+1996—Subsec. (d). Pub. L. 104–208 added subsec. (d).
+
+1985—Pub. L. 99–53, §3(a)(2)(A), inserted “or disability” after “and survivor” in section catchline.
 
 Subsec. (b). Pub. L. 99–53, §2(a), inserted reference to section 8903a of this title.
 
 Subsec. (c). Pub. L. 99–53, §3(a)(1), added subsec. (c).
 
-<b>1978</b>—Subsec. (b). Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission”.
+1978—Subsec. (b). Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission”.
 
-<b>1976</b>—Pub. L. 94–342 designated existing provisions as subsec. (a), added subsec. (b), and substituted “employees and survivor annuitants” for “employee” in section catchline.
+1976—Pub. L. 94–342 designated existing provisions as subsec. (a), added subsec. (b), and substituted “employees and survivor annuitants” for “employee” in section catchline.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–208 applicable with respect to termination of marriage taking effect before, on, or after Sept. 30, 1996, except that benefits are payable only with respect to amounts accruing for periods beginning on first day of month beginning after the later of termination of marriage or Sept. 30, 1996, see section 101(f) \[title VI, §633(b)\] of Pub. L. 104–208, set out as a note under section 8341 of this title.
 
 #### Effective Date of 1978 Amendment
 

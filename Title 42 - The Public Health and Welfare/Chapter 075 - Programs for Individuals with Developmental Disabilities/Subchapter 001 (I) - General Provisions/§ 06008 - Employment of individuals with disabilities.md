@@ -1,6 +1,6 @@
 ### §6008. Employment of individuals with disabilities
 
-As a condition of providing assistance under this chapter, the Secretary shall require that each recipient of such assistance take affirmative action to employ and advance in employment qualified individuals with disabilities on the same terms and conditions required with respect to the employment of such individuals by the provisions of the Rehabilitation Act of 1973 \[29 U.S.C. 701 et seq.\] that govern employment—
+As a condition of providing assistance under this chapter, the Secretary shall require that each recipient of such assistance take affirmative action to employ and advance in employment qualified individuals with disabilities on the same terms and conditions required with respect to the employment of such individuals bythe provisions of the Rehabilitation Act of 1973 \[29 U.S.C. 701 et seq.\] that govern employment—
 
 &emsp;(1) by State rehabilitation agencies and community rehabilitation programs; and
 

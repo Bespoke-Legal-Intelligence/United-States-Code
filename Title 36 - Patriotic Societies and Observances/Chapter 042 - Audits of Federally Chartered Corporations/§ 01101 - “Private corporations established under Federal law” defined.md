@@ -154,7 +154,11 @@ The term “private corporations established under Federal law” as used in thi
 
 &emsp;(76) The Retired Enlisted Association, Incorporated.
 
-(Pub. L. 88–504, §1, Aug. 30, 1964, 78 Stat. 635; Pub. L. 94–151, §2, Dec. 15, 1975, 89 Stat. 809; Pub. L. 95–167, §2, Nov. 11, 1977, 91 Stat. 1348; Pub. L. 96–165, §9(g), Dec. 29, 1979, 93 Stat. 1272; Pub. L. 96–489, §11, Dec. 2, 1980, 94 Stat. 2554; Pub. L. 96–497, §11, Dec. 4, 1980, 94 Stat. 2596; Pub. L. 97–82, §11, Nov. 20, 1981, 95 Stat. 1093; Pub. L. 97–83, §11, Nov. 20, 1981, 95 Stat. 1095; Pub. L. 97–192, §11, June 1, 1982, 96 Stat. 110; Pub. L. 97–231, §11, Aug. 9, 1982, 96 Stat. 257; Pub. L. 97–234, §11, Aug. 10, 1982, 96 Stat. 263; Pub. L. 97–427, §11, Jan. 3, 1983, 96 Stat. 2266; Pub. L. 98–257, §11, Apr. 10, 1984, 98 Stat. 128; Pub. L. 98–314, §11, June 12, 1984, 98 Stat. 239; Pub. L. 98–372, §11, July 23, 1984, 98 Stat. 1240; Pub. L. 98–382, §11, Aug. 17, 1984, 98 Stat. 1345; Pub. L. 98–391, §11, Aug. 21, 1984, 98 Stat. 1360; Pub. L. 98–520, §11, Oct. 19, 1984, 98 Stat. 2429; Pub. L. 98–561, §12, Oct. 30, 1984, 98 Stat. 2912; Pub. L. 98–565, §11, Oct. 30, 1984, 98 Stat. 2921; Pub. L. 98–584, §11, Oct. 30, 1984, 98 Stat. 3098; Pub. L. 99–119, §11, Oct. 7, 1985, 99 Stat. 500; Pub. L. 99–172, §11, Dec. 9, 1985, 99 Stat. 1022; Pub. L. 99–318, §12, May 23, 1986, 100 Stat. 476; Pub. L. 99–604, §11, Nov. 6, 1986, 100 Stat. 3448; Pub. L. 100–281, §12, Apr. 6, 1988, 102 Stat. 75; Pub. L. 100–655, title I, §111, Nov. 14, 1988, 102 Stat. 3851; Pub. L. 101–510, div. A, title XVI, §1611, Nov. 5, 1990, 104 Stat. 1738; Pub. L. 102–199, §2, Dec. 10, 1991, 105 Stat. 1629; Pub. L. 102–484, div. A, title XVIII, §§1812, 1832, Oct. 23, 1992, 106 Stat. 2583, 2585.)
+&emsp;(77) <sup>7</sup> The National Natural Resources Conservation Foundation.
+
+&emsp;(77) <sup>7</sup> Fleet Reserve Association.
+
+(Pub. L. 88–504, §1, Aug. 30, 1964, 78 Stat. 635; Pub. L. 94–151, §2, Dec. 15, 1975, 89 Stat. 809; Pub. L. 95–167, §2, Nov. 11, 1977, 91 Stat. 1348; Pub. L. 96–165, §9(g), Dec. 29, 1979, 93 Stat. 1272; Pub. L. 96–489, §11, Dec. 2, 1980, 94 Stat. 2554; Pub. L. 96–497, §11, Dec. 4, 1980, 94 Stat. 2596; Pub. L. 97–82, §11, Nov. 20, 1981, 95 Stat. 1093; Pub. L. 97–83, §11, Nov. 20, 1981, 95 Stat. 1095; Pub. L. 97–192, §11, June 1, 1982, 96 Stat. 110; Pub. L. 97–231, §11, Aug. 9, 1982, 96 Stat. 257; Pub. L. 97–234, §11, Aug. 10, 1982, 96 Stat. 263; Pub. L. 97–427, §11, Jan. 8, 1983, 96 Stat. 2266; Pub. L. 98–257, §11, Apr. 10, 1984, 98 Stat. 128; Pub. L. 98–314, §11, June 12, 1984, 98 Stat. 239; Pub. L. 98–372, §11, July 23, 1984, 98 Stat. 1240; Pub. L. 98–382, §11, Aug. 17, 1984, 98 Stat. 1345; Pub. L. 98–391, §11, Aug. 21, 1984, 98 Stat. 1360; Pub. L. 98–520, §11, Oct. 19, 1984, 98 Stat. 2429; Pub. L. 98–561, §12, Oct. 30, 1984, 98 Stat. 2912; Pub. L. 98–565, §11, Oct. 30, 1984, 98 Stat. 2921; Pub. L. 98–584, §11, Oct. 30, 1984, 98 Stat. 3098; Pub. L. 99–119, §11, Oct. 7, 1985, 99 Stat. 500; Pub. L. 99–172, §11, Dec. 9, 1985, 99 Stat. 1022; Pub. L. 99–318, §12, May 23, 1986, 100 Stat. 476; Pub. L. 99–604, §11, Nov. 6, 1986, 100 Stat. 3448; Pub. L. 100–281, §12, Apr. 6, 1988, 102 Stat. 75; Pub. L. 100–655, title I, §111, Nov. 14, 1988, 102 Stat. 3851; Pub. L. 101–510, div. A, title XVI, §1611, Nov. 5, 1990, 104 Stat. 1738; Pub. L. 102–199, §2, Dec. 10, 1991, 105 Stat. 1629; Pub. L. 102–484, div. A, title XVIII, §§1812, 1832, Oct. 23, 1992, 106 Stat. 2583, 2585; Pub. L. 104–127, title III, §358(a)(2), Apr. 4, 1996, 110 Stat. 1014; Pub. L. 104–201, div. A, title XVIII, §1811, Sept. 23, 1996, 110 Stat. 2762.)
 
 #### References in Text
 
@@ -165,6 +169,10 @@ Provisions relating to the Grand Army of the Republic, referred to in par. (25),
 United States Olympic Association, referred to in par. (46), was changed to United States Olympic Committee by Pub. L. 88–407, Aug. 10, 1964, 78 Stat. 383, which is classified to section 383 of this title.
 
 #### Amendments
+
+1996—Par. (77). Pub. L. 104–201 added par. (77) relating to Fleet Reserve Association.
+
+Pub. L. 104–127 added par. (77) relating to National Natural Resources Conservation Foundation.
 
 1992—Pars. (75), (76). Pub. L. 102–484 added pars. (75) and (76).
 
@@ -226,11 +234,11 @@ Par. (52). Pub. L. 96–497 added par. (52).
 
 #### Cross References
 
-For treatment of the National Fish and Wildlife Foundation as a private corporation established underFederal law for purposes of this chapter, see section 3706(a) of Title 16, Conservation.
+For treatment of the National Fish and Wildlife Foundation as a private corporation established under Federal law for purposes of this chapter, see section 3706(a) of Title 16, Conservation.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1711, 1811, 1911, 2011, 2111, 2211, 2311, 2411, 2511, 2611, 2711, 2811, 2912, 3011, 3711, 3911 of this title.
+This section is referred to in sections 1711, 1811, 1911, 2011, 2111, 2211, 2311, 2411, 2511, 2611, 2711, 2811, 2912, 3011, 3711, 3911, 5611 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
@@ -243,4 +251,6 @@ This section is referred to in sections 1711, 1811, 1911, 2011, 2111, 2211, 2311
 <i><sup>5</sup></i><i> So in original. Probably should be followed by a period.</i>
 
 <i><sup>6</sup></i><i> So in original. No par. (73) has been enacted.</i>
+
+<i><sup>7</sup></i><i> So in original. Two pars. (77) have been enacted.</i>
 

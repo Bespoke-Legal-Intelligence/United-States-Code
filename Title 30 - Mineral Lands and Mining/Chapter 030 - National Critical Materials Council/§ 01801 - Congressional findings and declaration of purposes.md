@@ -26,7 +26,7 @@
 
 &emsp;&emsp;(B) bring to the attention of the President, the Congress, and the general public such materials issues and concerns, including research and development, as are deemed critical to the economic and strategic health of the Nation; and
 
-&emsp;&emsp;(C) ensure adequate and continuing consultation with the private sector concerning critical materials, materials research and development, use of materials, Federal materials policies, and related matters;
+&emsp;&emsp;(C) ensure adequate and continuing consultation with the private sector concerningcritical materials, materials research and development, use of materials, Federal materials policies, and related matters;
 
 &emsp;(2) to establish a national Federal program for advanced materials research and technology, including basic phenomena through processing and manufacturing technology; and
 

@@ -2,7 +2,7 @@ Part A—Indian Self-Determination
 
 #### Part Referred to in Other Sections
 
-This part is referred to in sections 450b, 1603, 1613a, 1616a, 1616a–1, 1616c, 1616d, 1616e, 1616j, 1621, 1621a, 1621c, 1621f, 1621g, 1621h, 1621<i>l</i>, 1621m, 1621p, 1621r, 1631, 1632, 1634, 1636, 1637, 1641, 1644, 1645, 1660b, 1661, 1662, 1665f, 1680a, 1680b, 1680c, 1680j, 1680k, 2403, 2433, 2434, 2442, 2455, 2805, 3104, 3112, 3113, 3209, 3210, 3307 of this title; title 7 section 2020; title 20 sections 2313, 2471, 7813; title 42 sections 238m, 254c, 254e, 256d, 294p, 1395x, 1396d, 1396r–1, 2991b–3.
+This part is referred to in sections 450b, 458cc, 715c, 1603, 1613a, 1616a, 1616a–1, 1616c, 1616d, 1616e, 1616j, 1621, 1621a, 1621c, 1621f, 1621g, 1621h, 1621<i>l</i>, 1621m, 1621p, 1621r, 1631, 1632, 1634, 1636, 1637, 1641, 1644, 1645, 1660b, 1661, 1662, 1665f, 1680a, 1680b, 1680c, 1680j, 1680k, 2403, 2433, 2434, 2442, 2455, 2805, 3104, 3112, 3113, 3209, 3210, 3307 of this title; title 7 section 2020; title 20 sections 2313, 2471, 7813; title 42 sections 238m, 254c, 254e, 256d, 294p, 1395x, 1396d, 1396r–1, 2991b–3.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -36,7 +36,7 @@ In order to promote useful opportunities in community service activities for ind
 
 &emsp;(A) the <sup>1</sup> prevailing rate of pay for persons employed in similar occupations by the same employer.
 
-&emsp;(B) The minimum wage which would be applicable to the employee under the Fair Labor Standards Act of 1938 \[29 U.S.C. 201 et seq.\] ifsuch employee were not exempt from such Act under section 13 thereof \[29 U.S.C. 213\].
+&emsp;(B) The minimum wage which would be applicable to the employee under the Fair Labor Standards Act of 1938 \[29 U.S.C. 201 et seq.\] if such employee were not exempt from such Act under section 13 thereof \[29 U.S.C. 213\].
 
 &emsp;(C) The State or local minimum wage for the most nearly comparable covered employment.
 
@@ -76,7 +76,7 @@ For short title of this subchapter as the “Employment Opportunities for Handic
 
 #### Community Services Administration
 
-The Community Services Administration, which was established by section 601 of the Economic Opportunity Act of 1964, as amended (42 U.S.C. 2941), was terminated when the Economic Opportunity Act of 1964, Pub. L. 88–452, Aug. 20, 1964, 78 Stat. 508, as amended, was repealed, except for titles VIII and X, effective Oct. 1, 1981, by section 683(a) of Pub. L. 97–35, title VI, Aug. 13, 1981, 95 Stat. 519, which is classified to 42 U.S.C. 9912(a). An Office of Community Services, headed by a Director, was established in the Department of Health and Human Services by section 676 of Pub. L. 97–35, which is classified to 42 U.S.C. 9905.
+The Community Services Administration, which was established by section 601 of the Economic OpportunityAct of 1964, as amended (42 U.S.C. 2941), was terminated when the Economic Opportunity Act of 1964, Pub. L. 88–452, Aug. 20, 1964, 78 Stat. 508, as amended, was repealed, except for titles VIII and X, effective Oct. 1, 1981, by section 683(a) of Pub. L. 97–35, title VI, Aug. 13, 1981, 95 Stat. 519, which is classified to 42 U.S.C. 9912(a). An Office of Community Services, headed by a Director, was established in the Department of Health and Human Services by section 676 of Pub. L. 97–35, which is classified to 42 U.S.C. 9905.
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

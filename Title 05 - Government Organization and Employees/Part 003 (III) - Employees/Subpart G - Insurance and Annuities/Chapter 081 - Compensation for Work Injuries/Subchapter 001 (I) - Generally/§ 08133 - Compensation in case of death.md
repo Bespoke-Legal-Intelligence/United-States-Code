@@ -60,7 +60,9 @@ Act
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 5 U.S.C. 760 (less last 23 words of 1st sentence in (B); and less (H) and (L)).
 
@@ -114,9 +116,9 @@ In subsection (e), the words “is deemed” are substituted for “shall be con
 
 #### Amendments
 
-<b>1990</b>—Subsec. (b)(1). Pub. L. 101–303 substituted “age 55” for “age 60”.
+1990—Subsec. (b)(1). Pub. L. 101–303 substituted “age 55” for “age 60”.
 
-<b>1974</b>—Subsec. (a)(1). Pub. L. 93–416, §16(a), substituted “50” for “45”.
+1974—Subsec. (a)(1). Pub. L. 93–416, §16(a), substituted “50” for “45”.
 
 Subsec. (a)(2). Pub. L. 93–416, §16(a), substituted “45” for “40”.
 
@@ -130,9 +132,13 @@ Subsec. (f). Pub. L. 93–416, §18, added subsec. (f).
 
 #### Effective Date of 1974 Amendment
 
-Amendment by sections 16(a) and 17 of Pub. L. 93–416 applicable to cases where injury or death occurredprior to Sept. 7, 1974 but only to a period beginning on or after Sept. 7, 1974, see section 28(a) of Pub. L. 93–416, set out as a note under section 8101 of this title.
+Amendment by sections 16(a) and 17 of Pub. L. 93–416 applicable to cases where injury or death occurred prior to Sept. 7, 1974 but only to a period beginning on or after Sept. 7, 1974, see section 28(a) of Pub. L. 93–416, set out as a note under section 8101 of this title.
 
 Amendment by section 18 of Pub. L. 93–416 effective on Sept. 7, 1974, and applicable to any injury or death occurring on or after Sept. 7, 1974, see section 28(a) of Pub. L. 93–416, set out as a note under section 8101 of this title.
+
+#### Gratuity for Death of Civilian Employee From Injury Sustained in Line of Duty
+
+Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §651\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–368, provided that: “Notwithstanding section 8116 of title 5, United States Code, and in addition to any payment made under 5 U.S.C. 8101 et seq., beginning in fiscal year 1997 and thereafter, the head of any department or agency is authorized to pay from appropriations made available to the department or agency a death gratuity to the personal representative (as that term is defined by applicable law) of a civilian employee of that department or agency whose death resulted from an injury sustained in the line of duty on or after August 2, 1990: <i>Provided</i>, That payments made pursuant to this section, in combination with the payments made pursuant to sections 8133(f) and 8134(a) of such title 5 and section 312 of Public Law 103–332 (108 Stat. 2537) \[5 U.S.C. 8134 note\], may not exceed a total of $10,000 per employee.”
 
 #### Personnel Not Affected by 1967 Increase
 

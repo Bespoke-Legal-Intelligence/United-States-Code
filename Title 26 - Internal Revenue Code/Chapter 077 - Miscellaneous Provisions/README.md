@@ -30,10 +30,13 @@
 | [7521\.](%C2%A7%2007521%20-%20Procedures%20involving%20taxpayer%20interviews.md) | Procedures involving taxpayer interviews. |
 | [7522\.](%C2%A7%2007522%20-%20Content%20of%20tax%20due%2C%20deficiency%2C%20and%20other%20notices.md) | Content of tax due, deficiency, and other notices. |
 | [7523\.](%C2%A7%2007523%20-%20Graphic%20presentation%20of%20major%20categories%20of%20Federal%20outlays%20and%20income.md) | Graphic presentation of major categories of Federal outlays and income. |
+| [7524\.](%C2%A7%2007524%20-%20Annual%20notice%20of%20tax%20delinquency.md) | Annual notice of tax delinquency. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1996—Pub. L. 104–168, title XII, §1204(b), July 30, 1996, 110 Stat. 1471, added item 7524.
 
 1990—Pub. L. 101–508, title XI, §§11622(b), 11704(a)(31), Nov. 5, 1990, 104 Stat. 1388–505, 1388–519, substituted “7522. Content of tax due, deficiency, and other notices.” for “7521. Content of tax due, deficiency, and other notices.” and added item 7523.
 
@@ -99,3 +102,4 @@ This chapter is referred to in section 7851 of this title.
 - [&sect; 07521 - Procedures involving taxpayer interviews](%C2%A7%2007521%20-%20Procedures%20involving%20taxpayer%20interviews.md)
 - [&sect; 07522 - Content of tax due, deficiency, and other notices](%C2%A7%2007522%20-%20Content%20of%20tax%20due%2C%20deficiency%2C%20and%20other%20notices.md)
 - [&sect; 07523 - Graphic presentation of major categories of Federal outlays and income](%C2%A7%2007523%20-%20Graphic%20presentation%20of%20major%20categories%20of%20Federal%20outlays%20and%20income.md)
+- [&sect; 07524 - Annual notice of tax delinquency](%C2%A7%2007524%20-%20Annual%20notice%20of%20tax%20delinquency.md)

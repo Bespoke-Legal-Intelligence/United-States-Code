@@ -6,19 +6,19 @@
 
 (2) Except as provided in paragraph (3) of this subsection, a Federal agency receiving a notice of a protested procurement under paragraph (1) of this subsection shall submit to the Comptroller General a complete report (including all relevant documents) on the protested procurement—
 
-&emsp;(A) within 35 days after the date of the agency's receipt of that notice;
+&emsp;(A) within 30 days after the date of the agency's receipt of that notice;
 
 &emsp;(B) if the Comptroller General, upon a showing by the Federal agency, determines (and states the reasons in writing) that the specific circumstances of the protest require a longer period, within the longer period determined by the Comptroller General; or
 
 &emsp;(C) in a case determined by the Comptroller General to be suitable for the express option under section 3554(a)(2) of this title, within 20 days after the date of the Federal agency's receipt of that determination.
 
-(3) A Federal agency need not submit a report to the Comptroller General pursuant to paragraph (2) of this subsection if the agency is sooner notified by the Comptroller General that the protest concerned has been dismissed under section 3554(a)(3) <sup>1</sup> of this title.
+(3) A Federal agency need not submit a report to the Comptroller General pursuant to paragraph (2) of this subsection if the agency is sooner notified by the Comptroller General that the protest concerned has been dismissed under section 3554(a)(4) of this title.
 
 (c)(1) Except as provided in paragraph (2) of this subsection, a contract may not be awarded in any procurement after the Federal agency has received notice of a protest with respect to such procurement from the Comptroller General and while the protest is pending.
 
 (2) The head of the procuring activity responsible for award of a contract may authorize the award of the contract (notwithstanding a protest of which the Federal agency has notice under this section)—
 
-&emsp;(A) upon a written finding that urgent and compelling circumstances which significantlyaffect interests of the United States will not permit waiting for the decision of the Comptroller General under this subchapter; and
+&emsp;(A) upon a written finding that urgent and compelling circumstances which significantly affect interests of the United States will not permit waiting for the decision of the Comptroller General under this subchapter; and
 
 &emsp;(B) after the Comptroller General is advised of that finding.
 
@@ -66,13 +66,13 @@
 
 (C) A protective order under this paragraph shall not be considered to authorize the withholding of any document or information from Congress or an executive agency.
 
-(Added Pub. L. 98–369, div. B, title VII, §2741(a), July 18, 1984, 98 Stat. 1200; amended Pub. L. 103–355, title I, §§1402, 1403(c), Oct. 13, 1994, 108 Stat. 3287, 3290.)
-
-#### References in Text
-
-Section 3554(a)(3) of this title, referred to in subsec. (b)(3), was redesignated section 3554(a)(4) of this title by Pub. L. 103–355, title I, §1403(a)(3), Oct. 13, 1994, 108 Stat. 3289.
+(Added Pub. L. 98–369, div. B, title VII, §2741(a), July 18, 1984, 98 Stat. 1200; amended Pub. L. 103–355, title I, §§1402, 1403(c), Oct. 13, 1994, 108 Stat. 3287, 3290; Pub. L. 104–106, div. D, title XLIII, §4321(d)(2), div. E, title LV, §5501(1), Feb. 10, 1996, 110 Stat. 674, 698.)
 
 #### Amendments
+
+1996—Subsec. (b)(2)(A). Pub. L. 104–106, §5501(1), substituted “30 days” for “35 days”.
+
+Subsec. (b)(3). Pub. L. 104–106, §4321(d)(2), substituted “3554(a)(4)” for “3554(a)(3)”.
 
 1994—Subsec. (b)(1). Pub. L. 103–355, §1402(a)(1)(A), substituted “one day after” for “one working day of”.
 
@@ -92,11 +92,17 @@ Subsec. (d). Pub. L. 103–355, §1402(b), amended subsec. (d) generally. Prior 
 
 &emsp;&emsp;“(i) that performance of the contract is in the best interests of the United States; or
 
-&emsp;&emsp;“(ii) that urgent and compelling circumstances that significantly affect interests of the UnitedStates will not permit waiting for the decision of the Comptroller General concerning the protest; and
+&emsp;&emsp;“(ii) that urgent and compelling circumstances that significantly affect interests of the United States will not permit waiting for the decision of the Comptroller General concerning the protest; and
 
 &emsp;“(B) after the Comptroller General is notified of that finding.”
 
 Subsec. (f). Pub. L. 103–355, §1403(c), designated existing provisions as par. (1) and added par. (2).
+
+#### Effective Date of 1996 Amendment
+
+For effective date and applicability of amendment by section 4321(d)(2) of Pub. L. 104–106, see section 4401 of Pub. L. 104–106, set out as a note under section 251 of Title 41, Public Contracts.
+
+Amendment by section 5501(1) of Pub. L. 104–106 effective 180 days after Feb. 10, 1996, see section 5701 of Pub. L. 104–106, set out as an Effective Date note under section 1401 of Title 40, Public Buildings, Property, and Works.
 
 #### Effective Date of 1994 Amendment
 
@@ -109,6 +115,4 @@ Section applicable with respect to any protest filed after Jan. 14, 1985, see se
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 3554, 3556 of this title.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

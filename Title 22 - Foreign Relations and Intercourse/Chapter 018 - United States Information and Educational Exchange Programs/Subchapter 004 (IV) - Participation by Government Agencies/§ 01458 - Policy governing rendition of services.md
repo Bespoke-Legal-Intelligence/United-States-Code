@@ -1,20 +1,10 @@
 ### §1458. Policy governing rendition of services
 
-In authorizing the performance of technical and other services under this subchapter, it is the sense of the Congress (1) that the Director shall encourage through any appropriate Government agency the performance of such services to foreign governments by qualified private American individuals and agencies, and shall not enter into the performance of such services to any foreign government where such services may be performed adequately by qualified private American individuals and agencies and such qualified individuals and agencies are available for the performance of such services; (2) that if such services are rendered by a Government agency, they shall demonstrate the technical accomplishments of the United States, such services being of an advisory, investigative, or instructional nature, or a demonstration of a technical process; (3) that such services shall not include the construction of public works or the supervision of the construction of public works, and that, under authority of this chapter, a Government agency shall render engineering services related to public works only when the Director shall determine that the nationalinterest demands the rendering of such services by a Government agency, but this policy shall not be interpreted to preclude the assignment of individual specialists as advisers to other governments as provided under subchapter III of this chapter, together with such incidental assistance as may be necessary for the accomplishment of their individual assignments.
+In authorizing the performance of technical and other services under this subchapter, it is the sense of the Congress (1) that the Director shall encourage through any appropriate Government agency the performance of such services to foreign governments by qualified private American individuals and agencies, and shall not enter into the performance of such services to any foreign government where such services may be performed adequately by qualified private American individuals and agencies and such qualified individuals and agencies are available for the performance of such services; (2) that if such services are rendered by a Government agency, they shall demonstrate the technical accomplishments of the United States, such services being of an advisory, investigative, or instructional nature, or a demonstration of a technical process; (3) that such services shall not include the construction of public works or the supervision of the construction of public works, and that, under authority of this chapter, a Government agency shall render engineering services related to public works only when the Director shall determine that the national interest demands the rendering of such services by a Government agency, but this policy shall not be interpreted to preclude the assignment of individual specialists as advisers to other governments as provided under subchapter III of this chapter, together with such incidental assistance as may be necessary for the accomplishment of their individual assignments.
 
 (Jan. 27, 1948, ch. 36, title IV, §403, 62 Stat. 9; 1977 Reorg. Plan No. 2, §7(a)(1), 42 F.R. 62461, 91 Stat. 1637.)
 
 #### Transfer of Functions
 
 “Director” substituted in text for “Secretary” pursuant to Reorg. Plan No. 2 of 1977, §7(a)(1), 42 F.R. 62461, 91 Stat. 1637, set out under section 1461 of this title, which transferred functions vested in President, Secretary of State, Department of State, United States Information Agency, and Director thereof, under this chapter, to Director of International Communication Agency, except to extent that such functions were vested in President under sections 1452, 1456, and 1467 of this title, effective on or before July 1, 1978, at such time as specified by President. International Communication Agency, and Director thereof, redesignated United States Information Agency, and Director thereof, by section 303 of Pub. L. 97–241, title III, Aug. 24, 1982, 96 Stat. 291, set out as a note under section 1461 of this title.
-
-### SUBCHAPTER V—DISSEMINATION
-
-### ABROAD OF INFORMATION ABOUT
-
-### THE UNITED STATES
-
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 1471 of this title.
 

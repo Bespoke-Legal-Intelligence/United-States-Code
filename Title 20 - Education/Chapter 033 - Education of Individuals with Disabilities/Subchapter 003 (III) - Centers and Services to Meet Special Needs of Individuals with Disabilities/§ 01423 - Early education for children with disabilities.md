@@ -62,7 +62,7 @@ The Secretary shall arrange by contract, grant, or cooperative agreement with ap
 
 #### (e) Grants or contracts with organizations to identify needs of children with disabilities and for training of personnel
 
-The Secretary may make grants to, or enter into contracts or cooperative agreements under this section with, such organizations or institutions, as are determined by the Secretary to be appropriate, for research to identify and meet the full range of special needs of children with disabilities and for training of personnel for programs specifically designed for children with disabilities, including programs to integrate children with disabilities into regular preschool programs.
+The Secretary may make grants to, or enter into contracts or cooperative agreements underthis section with, such organizations or institutions, as are determined by the Secretary to be appropriate, for research to identify and meet the full range of special needs of children with disabilities and for training of personnel for programs specifically designed for children with disabilities, including programs to integrate children with disabilities into regular preschool programs.
 
 #### (f) Notice in Federal Register of intent to accept applications for grants, contracts, etc.
 
@@ -108,7 +108,7 @@ Subsec. (a)(1)(B). Pub. L. 101–476, §303(a)(3), inserted “provide family ed
 
 Subsec. (a)(1)(C). Pub. L. 101–476, §303(a)(4), substituted “special needs” for “problems”.
 
-Subsec. (a)(1)(D). Pub. L. 101–476, §§303(a)(5), 901(b)(102), inserted “, including interdisciplinary models and practices,” after “practices”, substituted “children with disabilities” for “handicapped children”, andinserted “and to the parents of such children” after “age 8”.
+Subsec. (a)(1)(D). Pub. L. 101–476, §§303(a)(5), 901(b)(102), inserted “, including interdisciplinary models and practices,” after “practices”, substituted “children with disabilities” for “handicapped children”, and inserted “and to the parents of such children” after “age 8”.
 
 Subsec. (a)(1)(E). Pub. L. 101–476, §303(a)(6), inserted before period at end “, including the involvement of adult role models with disabilities at all levels of the program”.
 

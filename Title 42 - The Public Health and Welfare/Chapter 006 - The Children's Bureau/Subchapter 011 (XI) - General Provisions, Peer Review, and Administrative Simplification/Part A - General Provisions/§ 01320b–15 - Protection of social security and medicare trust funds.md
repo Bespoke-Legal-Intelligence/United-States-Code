@@ -1,0 +1,34 @@
+### §1320b–15. Protection of social security and medicare trust funds
+
+#### (a) In general
+
+No officer or employee of the United States shall—
+
+&emsp;(1) delay the deposit of any amount into (or delay the credit of any amount to) any Federal fund or otherwise vary from the normal terms, procedures, or timing for making such deposits or credits,
+
+&emsp;(2) refrain from the investment in public debt obligations of amounts in any Federal fund, or
+
+&emsp;(3) redeem prior to maturity amounts in any Federal fund which are invested in public debt obligations for any purpose other than the payment of benefits or administrative expenses from such Federal fund.
+
+#### (b) “Public debt obligation” defined
+
+For purposes of this section, the term “public debt obligation” means any obligation subject to the public debt limit established under section 3101 of title 31.
+
+#### (c) “Federal fund” defined
+
+For purposes of this section, the term “Federal fund” means—
+
+&emsp;(1) the Federal Old-Age and Survivors Insurance Trust Fund;
+
+&emsp;(2) the Federal Disability Insurance Trust Fund;
+
+&emsp;(3) the Federal Hospital Insurance Trust Fund; and
+
+&emsp;(4) the Federal Supplementary Medical Insurance Trust Fund.
+
+(Aug. 14, 1935, ch. 531, title XI, §1145, as added Mar. 29, 1996, Pub. L. 104–121, title I, §107(a), 110 Stat. 856.)
+
+#### Effective Date
+
+Section 107(b) of Pub. L. 104–121 provided that: “The amendment made by this section \[enacting this section\] shall take effect on the date of the enactment of this Act \[Mar. 29, 1996\].”
+

@@ -14,17 +14,11 @@
 
 (2) Subject to amounts provided in appropriation Acts, amounts in the Fund shall be available to the Secretary for use for the following:
 
-&emsp;(A) Expenses incident to the administration of this chapter, in an amount not to exceed—
+&emsp;(A) Expenses incident to the administration of this chapter, in an amount not to exceed for each of fiscal years 1997, 1998, and 1999 the higher of—
 
-&emsp;&emsp;(i) $5,000,000 for fiscal year 1991;
+&emsp;&emsp;(i) $4,000,000; or
 
-&emsp;&emsp;(ii) $5,225,000 for fiscal year 1992;
-
-&emsp;&emsp;(iii) $5,460,125 for fiscal year 1993;
-
-&emsp;&emsp;(iv) $5,705,830 for fiscal year 1994; and
-
-&emsp;&emsp;(v) $5,962,593 for fiscal year 1995.
+&emsp;&emsp;(ii) 8 percent of the total amount appropriated under this chapter for the fiscal year.
 
 &emsp;(B) After use under subparagraph (A)—
 
@@ -36,15 +30,33 @@
 
 &emsp;&emsp;(iv) appropriate awards recognizing excellence in coastal zone management as provided in section 1460 of this title;
 
-&emsp;&emsp;(v) program development grants as authorized by section 1454 of this title; and
+&emsp;&emsp;(v) program development grants as authorized by section 1454 of this title, in an amount not to exceed $200,000 for each of fiscal years 1997, 1998, and 1999; and
 
 &emsp;&emsp;(vi) to provide financial support to coastal states for use for investigating and applying the public trust doctrine to implement State management programs approved under section 1455 of this title.
 
 (3) On December 1, of each year, the Secretary shall transmit to the Congress an annual report on the Fund, including the balance of the Fund and an itemization of all deposits into and disbursements from the Fund in the preceding fiscal year.
 
-(Pub. L. 89–454, title III, §308, as added Pub. L. 94–370, §7, July 26, 1976, 90 Stat. 1019; amended Pub. L. 95–372, title V, §§501, 503(a)–(d), Sept. 18, 1978, 92 Stat. 690, 692, 693; Pub. L. 96–464, §7, Oct. 17, 1980, 94 Stat. 2064; Pub. L. 99–272, title VI, §6047, Apr. 7, 1986, 100 Stat. 128; Pub. L. 101–508, title VI, §6209, Nov. 5, 1990, 104 Stat. 1388–308; Pub. L. 102–587, title II, §2205(b)(1)(A), (B), (15)–(18), Nov. 4, 1992, 106 Stat. 5050, 5052.)
+(Pub. L. 89–454, title III, §308, as added Pub. L. 94–370, §7, July 26, 1976, 90 Stat. 1019; amended Pub. L. 95–372, title V, §§501, 503(a)–(d), Sept. 18, 1978, 92 Stat. 690, 692, 693; Pub. L. 96–464, §7, Oct. 17, 1980, 94 Stat. 2064; Pub. L. 99–272, title VI, §6047, Apr. 7, 1986, 100 Stat. 128; Pub. L. 101–508, title VI, §6209, Nov. 5, 1990, 104 Stat. 1388–308; Pub. L. 102–587, title II, §2205(b)(1)(A), (B), (15)–(18), Nov. 4, 1992, 106 Stat. 5050, 5052; Pub. L. 104–150, §§2(b)(2), 5, June 3, 1996, 110 Stat. 1380, 1381.)
+
+#### Amendment of Subsection (b)
+
+<i>Pub. L. 104–150, §2(b)(2), (3), June 3, 1996, 110 Stat. 1380, provided that, effective Oct. 1, 1999,</i><i>subsection (b)(2)(B) is amended by inserting “and” after the semicolon in clause (iv), by striking out clause (v), and by redesignating clause (vi) as (v).</i>
 
 #### Amendments
+
+1996—Subsec. (b)(2)(A). Pub. L. 104–150, §5(a), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “Expenses incident to the administration of this chapter, in an amount not to exceed—
+
+&emsp;“(i) $5,000,000 for fiscal year 1991;
+
+&emsp;“(ii) $5,225,000 for fiscal year 1992;
+
+&emsp;“(iii) $5,460,125 for fiscal year 1993;
+
+&emsp;“(iv) $5,705,830 for fiscal year 1994; and
+
+&emsp;“(v) $5,962,593 for fiscal year 1995.”
+
+Subsec. (b)(2)(B)(v). Pub. L. 104–150, §5(b), amended cl. (v) generally. Prior to amendment, cl. (v) read as follows: “program development grants as authorized by section 1454 of this title; and”.
 
 1992—Pub. L. 102–587, §2205(b)(15), made technical amendment to Pub. L. 101–508. See 1990 Amendment note below.
 
@@ -85,6 +97,10 @@ Subsec. (c). Pub. L. 95–372, §503(a), designated existing provisions as par. 
 Subsec. (h). Pub. L. 95–372, §503(c), substituted “subsections (c)(1)” for “subsections (c)” wherever appearing.
 
 Subsec. (k). Pub. L. 95–372, §§501(b)(1), 503(d), substituted in par. (1) “subsection (b)(5)(B) and (c)(1)” for “subsection (b)(4)(B) and (c)” and in par. (2) “subsection (b)(5)(B)” for “(b)(4)(B)”.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by section 2(b)(2) of Pub. L. 104–150 effective Oct. 1, 1999, see section 2(b)(3) of Pub. L. 104–150, set out as a note under section 1454 of this title.
 
 #### Extension of Authority To Make Loans Under Subsection (d)(1)
 

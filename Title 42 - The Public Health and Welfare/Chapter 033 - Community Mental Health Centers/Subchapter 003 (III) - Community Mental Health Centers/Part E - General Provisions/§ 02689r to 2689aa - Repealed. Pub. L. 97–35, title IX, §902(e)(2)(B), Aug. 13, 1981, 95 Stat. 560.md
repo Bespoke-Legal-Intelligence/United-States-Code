@@ -1,6 +1,6 @@
 ### §§2689r to 2689aa. Repealed. Pub. L. 97–35, title IX, §902(e)(2)(B), Aug. 13, 1981, 95 Stat. 560
 
-Section 2689r, Pub. L. 88–164, title II, §235, as added Pub. L. 94–63, title III, §303, July 29, 1975, 89 Stat. 329; amended Pub. L. 96–88, title V, §509(b) Oct. 17, 1979, 93 Stat. 695, defined terms applicable to subchapter.
+Section 2689r, Pub. L. 88–164, title II, §235, as added Pub. L. 94–63, title III, §303, July 29, 1975, 89 Stat. 329;amended Pub. L. 96–88, title V, §509(b) Oct. 17, 1979, 93 Stat. 695, defined terms applicable to subchapter.
 
 Section 2689s, Pub. L. 88–164, title II, §236, as added Pub. L. 94–63, title III, §303, July 29, 1975, 89 Stat. 329, set forth requirements respecting promulgation of regulations.
 

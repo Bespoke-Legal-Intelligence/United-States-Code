@@ -30,7 +30,7 @@ To the extent that the right to use the registered mark has become incontestable
 
 Acts March 3, 1881, and February 20, 1905, referred to in subsec. (a), are acts Mar. 3, 1881, ch. 138, 21 Stat. 502 and Feb. 20, 1905, ch. 592, 33 Stat. 724, which were repealed insofar as inconsistent with this chapter by act July 5, 1946, ch. 540, §46(a), 60 Stat. 444. Act Feb. 20, 1905, was classified to sections 81 to 109 of this title.
 
-The effective date of the Trademark Law Revision Act of 1988, referred to in subsec. (b)(5), is one yearafter Nov. 16, 1988. See section 136 of Pub. L. 100–667, set out as an Effective Date of 1988 Amendment note under section 1051 of this title.
+The effective date of the Trademark Law Revision Act of 1988, referred to in subsec. (b)(5), is one year after Nov. 16, 1988. See section 136 of Pub. L. 100–667, set out as an Effective Date of 1988 Amendment note under section 1051 of this title.
 
 The antitrust laws, referred to in subsec. (b)(7), are classified generally to chapter 1 (§1 et seq.) of this title.
 

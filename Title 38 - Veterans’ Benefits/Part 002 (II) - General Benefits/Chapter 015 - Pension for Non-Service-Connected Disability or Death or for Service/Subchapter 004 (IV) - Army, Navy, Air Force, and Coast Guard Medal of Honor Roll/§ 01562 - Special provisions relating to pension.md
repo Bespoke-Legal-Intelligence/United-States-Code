@@ -88,7 +88,7 @@ Section 1668 related to submitting false and misleading claims by Korean conflic
 
 Section 1669 related to information furnished by Federal Trade Commission to State approving agencies.
 
-Prior sections 1651, 1652, 1661, 1662, 1670, 1671, 1673, 1674, 1676, 1681, 1682, 1683 to 1685, and 1690 to 1693, whichcomprised chapter 34, were renumbered 3451, 3452, 3461, 3462, 3470, 3471, 3473, 3474, 3476, 3481, 3482, 3483 to 3485, and 3490 to 3493, respectively, of this title.
+Prior sections 1651, 1652, 1661, 1662, 1670, 1671, 1673, 1674, 1676, 1681, 1682, 1683 to 1685, and 1690 to 1693, which comprised chapter 34, were renumbered 3451, 3452, 3461, 3462, 3470, 3471, 3473, 3474, 3476, 3481, 3482, 3483 to 3485, and 3490 to 3493, respectively, of this title.
 
 Prior section 1663, added Pub. L. 89–358, §2, Mar. 3, 1966, 80 Stat. 15; amended Pub. L. 94–502, title II, §211(4), Oct. 15, 1976, 90 Stat. 2388; Pub. L. 95–202, title III, §302(a), Nov. 23, 1977, 91 Stat. 1440; Pub. L. 99–576, title III, §312, Oct. 28, 1986, 100 Stat. 3273; Pub. L. 101–237, title IV, §423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092, related to educational and vocational counseling, prior to repeal by Pub. L. 102–16, §2(b)(1)(A), Mar. 22, 1991, 105 Stat. 49. See section 3697A of this title.
 

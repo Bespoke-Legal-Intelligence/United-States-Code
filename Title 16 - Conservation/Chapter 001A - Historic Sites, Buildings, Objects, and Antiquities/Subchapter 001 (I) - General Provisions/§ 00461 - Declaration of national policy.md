@@ -108,7 +108,7 @@ Longfellow National Historic Site, Massachusetts.—Pub. L. 92–475, Oct. 9, 19
 
 Maggie L. Walker National Historical Site, Virginia.—Pub. L. 95–625, title V, §511, Nov. 10, 1978, 92 Stat. 3510.
 
-Manzanar National Historic Site, California.—Pub. L. 102–248, title I, Mar. 3, 1992, 106 Stat. 40.
+Manzanar National Historic Site, California.—Pub. L. 102–248, title I, Mar. 3, 1992, 106 Stat. 40; Pub. L. 104–333, div. I, title V, §515, Nov. 12, 1996, 110 Stat. 4167.
 
 Mar-A-Lago National Historic Site, Florida \[redesignated Mar-A-Lago National Historic Landmark by Pub. L. 96–586, §4(a)(2), Dec. 23, 1980, 94 Stat. 3386 (16 U.S.C. 467a note)\].—Designated Jan. 16, 1969; Pub. L. 92–527, Oct. 21, 1972, 86 Stat. 1049; repealed by Pub. L. 96–586, §4(a)(1), Dec. 23, 1980, 94 Stat. 3386.
 
@@ -117,6 +117,8 @@ Martin Luther King, Junior, National Historic Site, Georgia.—Pub. L. 96–428,
 Martin Van Buren National Historic Site, New York.—Pub. L. 93–486, title I, §101(a)(6), Oct. 26, 1974, 88 Stat. 1462.
 
 Mary McLeod Bethune Council House National Historic Site, District of Columbia.—Pub. L. 97–329, Oct. 15, 1982, 96 Stat. 1615; Pub. L. 102–211, Dec. 11, 1991, 105 Stat. 1652.
+
+Nicodemus National Historic Site, Kansas.—Pub. L. 104–333, div. I, title V, §512, Nov. 12, 1996, 110 Stat. 4163.
 
 Ninety Six National Historic Site, South Carolina.—Pub. L. 94–393, Aug. 19, 1976, 90 Stat. 1196.
 
@@ -166,17 +168,61 @@ Cowpens National Battlefield Site, South Carolina.—Act Mar. 4, 1929, ch. 699, 
 
 Fort Necessity National Battlefield Site, Pennsylvania.—Act Mar. 4, 1931, ch. 504, 46 Stat. 1552 \[redesignated Fort Necessity National Battlefield by Pub. L. 87–134, §3, Aug. 10, 1961, 75 Stat. 336. See section 430rr of this title\].
 
-National Heritage Corridors
+Shenandoah Valley Battlefields National Historic District, Virginia.—Pub. L. 104–333, div. I, title VI, §606, Nov. 12, 1996, 110 Stat. 4174.
+
+Washita Battlefield National Historic Site, Oklahoma.—Pub. L. 104–333, div. I, title VI, §607, Nov. 12, 1996, 110 Stat. 4180.
+
+National Heritage and River Corridors
 
 &nbsp;
 
-Blackstone River Valley National Heritage Corridor, Massachusetts and Rhode Island.—Pub. L. 99–647, Nov. 10, 1986, 100 Stat. 3625; Pub. L. 101–441, Oct. 18, 1990, 104 Stat. 1017; Pub. L. 102–154, title I, §118, Nov. 13, 1991, 105 Stat. 1013.
+Blackstone River Valley National Heritage Corridor, Massachusetts and Rhode Island.—Pub. L. 99–647, Nov. 10, 1986, 100 Stat. 3625; Pub. L. 101–441, Oct. 18, 1990, 104 Stat. 1017; Pub. L. 102–154, title I, §118, Nov. 13, 1991, 105 Stat. 1013; Pub. L. 104–208, div. A, title I, §101(d) \[title I, §115\], Sept. 30, 1996, 110 Stat. 3009–181, 3009–201; Pub. L. 104–333, div. I, title IX, §901, Nov. 12, 1996, 110 Stat. 4201.
+
+Cache La Poudre Corridor, Colorado.—Pub. L. 104–323, Oct. 19, 1996, 110 Stat. 3889.
 
 Delaware and Lehigh Navigation Canal National Heritage Corridor, Pennsylvania.—Pub. L. 100–692, Nov. 18, 1988, 102 Stat. 4552.
 
-Illinois and Michigan Canal National Heritage Corridor, Illinois.—Pub. L. 98–398, title I, Aug. 24, 1984, 98 Stat. 1456.
+Illinois and Michigan Canal National Heritage Corridor, Illinois.—Pub. L. 98–398, title I, Aug. 24, 1984, 98 Stat. 1456; Pub. L. 104–333, div. I, title IX, §902, Nov. 12, 1996, 110 Stat. 4204.
+
+Ohio \& Erie Canal National Heritage Corridor, Ohio.—Pub. L. 104–333, div. II, title VIII, Nov. 12, 1996, 110 Stat. 4267.
 
 Quinebaug and Shetucket Rivers Valley National Heritage Corridor, Connecticut. Pub. L. 103–449, title I, Nov. 2, 1994, 108 Stat. 4752.
+
+South Carolina National Heritage Corridor, South Carolina.—Pub. L. 104–333, div. II, title VI, Nov. 12, 1996, 110 Stat. 4260.
+
+National Heritage Areas
+
+&nbsp;
+
+Augusta Canal National Heritage Area, Georgia.—Pub. L. 104–333, div. II, title III, Nov. 12, 1996, 110 Stat. 4249.
+
+Essex National Heritage Area, Massachusetts.—Pub. L. 104–333, div. II, title V, Nov. 12, 1996, 110 Stat. 4257.
+
+Hudson River Valley National Heritage Area, New York.—Pub. L. 104–333, div. II, title IX, Nov. 12, 1996, 110 Stat. 4275.
+
+National Coal Heritage Area, West Virginia.—Pub. L. 104–333, div. II, title I, Nov. 12, 1996, 110 Stat. 4243.
+
+Steel Industry American Heritage Area, Pennsylvania.—Pub. L. 104–333, div. II, title IV, Nov. 12, 1996, 110 Stat. 4252.
+
+Tennessee Civil War Heritage Area, Tennessee.—Pub. L. 104–333, div. II, title II, Nov. 12, 1996, 110 Stat. 4245.
+
+National Heritage Partnerships
+
+&nbsp;
+
+America's Agricultural Heritage Partnership, Iowa.—Pub. L. 104–333, div. II, title VII, Nov. 12, 1996, 110 Stat. 4264.
+
+#### Vancouver National Historic Reserve
+
+Pub. L. 104–333, div. I, title V, §502, Nov. 12, 1996, 110 Stat. 4154, established Vancouver National Historic Reserve, Washington, directed that Reserve be administered through general management plan submitted by National Park Service to Secretary of the Interior within 3 years after Nov. 12, 1996, developed by partnership of interests including National Park Service, Historic Preservation Office of State of Washington, Department of the Army, and City of Vancouver, Washington, and to include specific findings of Vancouver Historic Reserve Report and to meet with approval of Secretary of the Interior and Secretary of the Army, directed that plan not be deemed new unit of National Park System and not limit authority of Federal Aviation Administration, and authorized appropriations.
+
+#### Great Falls Historic District, New Jersey
+
+Pub. L. 104–333, div. I, title V, §510, Nov. 12, 1996, 110 Stat. 4158, established Great Falls Historic District in Paterson, New Jersey, and included statement of purposes, definitions, development plan, and provisions relating to cooperative agreements and applications for restoration, preservation and interpretation of properties, and authorization of appropriations.
+
+#### Aleutian World War II National Historic Area
+
+Pub. L. 104–333, div. I, title V, §513, Nov. 12, 1996, 110 Stat. 4165, cited as “Aleutian World War II National Historic Areas Act of 1996”, designated and preserved Aleutian World War II National Historic Area within lands owned by Ounalaska Corporation on Island of Amaknak, Alaska, set boundaries of Historic Area, set terms, conditions, and limitations, and authorized Secretary of the Interior to award grants and provide technical assistance to Ounalaska Corporation and City of Unalaska.
 
 #### Maine Acadian Culture Preservation Act
 
@@ -184,7 +230,7 @@ Pub. L. 101–543, Nov. 8, 1990, 104 Stat. 2389, established Maine Acadian Cultu
 
 #### Southwestern Pennsylvania Heritage Preservation Commission
 
-Pub. L. 100–698, §1, title I, §§101–105, Nov. 19, 1988, 102 Stat. 4618, provided for the establishment and staffing of the Southwestern Pennsylvania Heritage Preservation Commission and set forth its powers and functions as a means for recognizing, preserving, promoting, and interpreting the cultural heritage of the 9-county region in southwestern Pennsylvania associated with the three basic industries of iron and steel, coal, and transportation.
+Pub. L. 100–698, §1, title I, §§101–105, Nov. 19, 1988, 102 Stat. 4618, as amended by Pub. L. 104–333, div. I, title VIII, §814(d)(1)(L), Nov. 12, 1996, 110 Stat. 4196, provided for the establishment and staffing of the Southwestern Pennsylvania Heritage Preservation Commission and set forth its powers and functions as a means for recognizing, preserving, promoting, and interpreting the cultural heritage of the 9-county region in southwestern Pennsylvania associated with the three basic industries of iron and steel, coal, and transportation.
 
 #### Historic Resources of Camden, South Carolina
 
@@ -238,7 +284,7 @@ Pub. L. 95–625, title V, §508, Nov. 10, 1978, 92 Stat. 3507, as amended Pub. 
 
 Pub. L. 95–625, title V, §504, Nov. 10, 1978, 92 Stat. 3498, provided:
 
-“(a) \[Acquisition of property\] In order to preserve and protect Saint Paul's Church, Eastchester, in MountVernon, New York, for the benefit of present and future generations, the Secretary may accept any gift or bequest of any property or structure which comprises such church and any other real or personal property located within the square bounded by South Columbus Avenue, South Third Avenue, Edison Avenue, and South Fulton Avenue, in Mount Vernon, New York, including the cemetery located within such square and any real property located within such square which was at any time a part of the old village green, now in Mount Vernon, New York.
+“(a) \[Acquisition of property\] In order to preserve and protect Saint Paul's Church, Eastchester, in Mount Vernon, New York, for the benefit of present and future generations, the Secretary may accept any gift or bequest of any property or structure which comprises such church and any other real or personal property located within the square bounded by South Columbus Avenue, South Third Avenue, Edison Avenue, and South Fulton Avenue, in Mount Vernon, New York, including the cemetery located within such square and any real property located within such square which was at any time a part of the old village green, now in Mount Vernon, New York.
 
 “(b) \[Administration; repairs; cooperative agreements: management protection, development and interpretation\] Any property acquired under subsection (a) shall be administered by the Secretary acting through the National Park Service, in accordance with this section and provisions of law generally applicable to units of the National Park System, including the Act approved August 25, 1916 (16 U.S.C. 1 and following) \[sections 1, 2, 3, and 4 of this title\] and the Act approved August 21, 1935 \[sections 461 to 467 of this title\]. The Secretary, in carrying out the provisions of such Acts (i) shall give particular attention to assuring the completion of such structural and other repairs as he considers necessary to restore and preserve any property acquired in accordance with this section, and (ii) may enter into cooperative agreements with other public or private entities for the management, protection, development, and interpretation, in whole or in part, of the property so acquired.”
 
@@ -258,7 +304,7 @@ Sec. 2. \[Membership; alternate members; compensation\] (a) The Commission shall
 
 &emsp;“(2) five members appointed by the Secretary of the Interior, one of whom shall be the Director of the National Park Service, two of whom shall be appointed from recommendations submitted by the manager of the city of Lowell, and two of whom shall be appointed from recommendations submitted by the Governor of the Commonwealth of Massachusetts. The members appointed pursuant to this paragraph shall have knowledge and experience in one or more of the fields of history, architecture, the arts, recreation planning, city planning, or government.
 
-“(b) Each member of the Commission specified in paragraph (1) of subsection (a) and the Director of the National Park Service may designate an alternate official to serve in his stead. Members appointed pursuant to paragraph (2) of subsection (a) who are officers or employees of the Federal Government, the city of Lowell, or the Commonwealth of Massachusetts, shall serve without compensation as such. Other members, when engaged in activities of the Commission, shall be entitled to compensation at the rate of not to exceed $100 per diem. All members of the Commission shall receive reimbursement for necessary travel and subsistence expenses incurred by them in the performance of the duties of the Commission.
+“(b) Each member of the Commission specified in paragraph (1) of subsection (a) and the Director of the National Park Service may designate an alternate official to serve in his stead. Members appointed pursuant to paragraph (2) of subsection (a) who are officers or employees of the Federal Government, the city of Lowell, or the Commonwealth of Massachusetts, shall serve without compensation as such. Other members, when engaged in activities of the Commission, shall be entitled to compensation at the rate of not to exceed $100 per diem. All members of the Commission shall receivereimbursement for necessary travel and subsistence expenses incurred by them in the performance of the duties of the Commission.
 
 “
 
@@ -322,7 +368,7 @@ WHEREAS the United States and the State of Florida are desirous of cooperating f
 
 WHEREAS by the terms of the Outer Continental Shelf Lands Act the United States has jurisdiction over the lands of the outer Continental Shelf and has the exclusive right to dispose of the natural resources of the sea bed and subsoil thereof; and
 
-WHEREAS section 12(a) of the Outer Continental Shelf Lands Act \[subsec. (a) of section 1341 of Title 43, Public Lands\] authorizes the President to withdraw from disposition any of the unleased lands of the outer Continental Shelf; and
+WHEREAS section 12(a) of the Outer Continental Shelf Lands Act \[subsec. (a) of section 1341 of Title 43,Public Lands\] authorizes the President to withdraw from disposition any of the unleased lands of the outer Continental Shelf; and
 
 WHEREAS section 5 of the Outer Continental Shelf Lands Act \[section 1334 of Title 43\] authorizes the Secretary of the Interior to prescribe rules and regulations for the conservation of the natural resources of the outer Continental Shelf and to cooperate with the conservation agencies of adjacent States in the enforcement of conservation laws, rules, and regulations:
 
@@ -348,5 +394,5 @@ Dwight D. Eisenhower.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1e, 230e, 281e, 282a, 282b, 396d, 397d, 407q, 410u, 410w, 410z–4, 410aa–2, 410bb–1, 410ee, 410ii–5, 410jj–4, 410kk–1, 410<i>ll</i>, 410nn–1, 410<i>oo</i>–3, 410pp–2, 410rr–3, 410rr–7, 410ss–1, 410tt–3, 410yy–2,410bbb–2, 410ccc–2, 430m, 450e–1, 450hh–2, 450jj–5, 450pp–1, 459h–4, 462, 463, 464, 465, 466, 467, 467b, 468, 469, 470a, 698r, 1133, 1244, 3206 of this title; title 40 sections 304a–2, 871; title 43 section 377b.
+This section is referred to in sections 1e, 230e, 281e, 282a, 282b, 396d, 397d, 407q, 410u, 410w, 410z–4, 410aa–2, 410bb–1, 410ee, 410ii–5, 410jj–4, 410kk–1, 410<i>ll</i>, 410nn–1, 410<i>oo</i>–3, 410pp–2, 410rr–3, 410rr–7, 410ss–1, 410tt–3, 410yy–2, 410bbb–2, 410ccc–2, 410ddd, 430f–5, 430m, 450e–1, 450hh–2, 450jj–5, 450pp–1, 459h–4, 460kkk, 462, 463, 464, 465, 466, 467, 467b, 468, 469, 470a, 698r, 698u–3, 1133, 1244, 3206 of this title; title 40 sections 304a–2, 871; title 43 section 377b.
 

@@ -38,7 +38,7 @@ For any fiscal year in which the Secretary establishes allotments for the market
 
 #### (1) In general
 
-&emsp;During any fiscal year or portion thereof for which marketing allotments have been established, no processor of sugar beets or sugarcane shall market a quantity of sugar in excess of the allocation established for such processor, except to enable another processor to fulfill an allocation established for such other processor or to facilitate the exportation of such sugar.
+&emsp;During any fiscal year or portion thereof for which marketing allotments have been established, no processor of sugar beets or sugarcane shall market a quantity of sugar in excess of the allocation established for suchprocessor, except to enable another processor to fulfill an allocation established for such other processor or to facilitate the exportation of such sugar.
 
 #### (2) Crystalline fructose
 
@@ -113,6 +113,10 @@ In general.—For any fiscal year in which the Secretary estimates, under subsec
 Products.—The Secretary may include products of sugar in the allotments under paragraph (1) if the Secretary determines it to be appropriate for purposes of this subpart.”
 
 Subsec. (d)(4). Pub. L. 102–237, §111(d)(3), inserted “(including, with respect to any integrated processor and refiner, the movement of raw cane sugar into the refining process)” after “United States”.
+
+#### Inapplicability of Section
+
+Section inapplicable to 1996 through 2002 crops of loan commodities, peanuts, and sugar and inapplicable to milk during period beginning Apr. 4, 1996, and ending Dec. 31, 2002, see section 7301(a)(1)(E) of this title.
 
 #### Section Referred to in Other Sections
 

@@ -18,7 +18,7 @@ In general.—A person who unlawfully and intentionally—
 
 &emsp;&emsp;(E) injures or kills any person in connection with the commission or the attempted commission of any of the offenses set forth in subparagraphs (A) through (D); or
 
-&emsp;&emsp;(F) attempts to do anything prohibited under subparagraphs (A) through (E),
+&emsp;&emsp;(F) attempts or conspires to do anything prohibited under subparagraphs (A) through (E),
 
 > &emsp;shall be fined under this title, imprisoned not more than 20 years, or both; and if death results to any person from conduct prohibited by this paragraph, shall be punished by death or imprisoned for any term of years or for life.
 
@@ -44,7 +44,7 @@ Jurisdiction.—There is jurisdiction over the activity prohibited in subsection
 
 (c)
 
-Bar To Prosecution.—It is a bar to Federal prosecution under subsection (a) for conduct that occurred within the United States that the conduct involved was during or in relation to a labor dispute, and such conduct is prohibited as a felony under the law of the State in which it was committed. For purposes of this section, the term “labor dispute” has the meaning set forth in section 2(c) <sup>1</sup> of the Norris-LaGuardia Act, as amended (29 U.S.C. 113(c)).
+Bar To Prosecution.—It is a bar to Federal prosecution under subsection (a) for conduct that occurred within the United States that the conduct involved was during or in relation to a labor dispute, and such conduct is prohibited as a felony under the law of the State in which it was committed. For purposes of this section, the term “labor dispute” has the meaning set forth in section 2(c) <sup>1</sup> of the Norris-LaGuardia Act, as amended (29 U.S.C. 113(c)), and the term “State” means a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
 
 (d)
 
@@ -60,7 +60,13 @@ Definitions.—In this section—
 
 &emsp;“United States”, when used in a geographical sense, includes the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands and all territories and possessions of the United States.
 
-(Added Pub. L. 103–322, title VI, §60019(a), Sept. 13, 1994, 108 Stat. 1977.)
+(Added Pub. L. 103–322, title VI, §60019(a), Sept. 13, 1994, 108 Stat. 1977; amended Pub. L. 104–132, title VII, §723(a)(1), Apr. 24, 1996, 110 Stat. 1300; Pub. L. 104–294, title VI, §607(p), Oct. 11, 1996, 110 Stat. 3513.)
+
+#### Amendments
+
+1996—Subsec. (a)(1)(F). Pub. L. 104–132 inserted “or conspires” after “attempts”.
+
+Subsec. (c). Pub. L. 104–294 inserted before period at end “, and the term ‘State’ means a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States”.
 
 #### Effective Date
 
@@ -68,5 +74,5 @@ Section effective Mar. 6, 1995, see section 60019(c)(1), (2)(B) of Pub. L. 103�
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2339A, 3286, 3592 of this title.
+This section is referred to in sections 1956, 2332b, 2339A, 3286, 3592 of this title.
 

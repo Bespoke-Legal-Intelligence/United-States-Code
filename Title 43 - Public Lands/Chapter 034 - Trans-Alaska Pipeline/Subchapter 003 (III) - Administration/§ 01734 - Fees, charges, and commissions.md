@@ -24,5 +24,5 @@ Pub. L. 97–35, title XIV, §1401(d), Aug. 13, 1981, 95 Stat. 748, provided tha
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 2005 of this title; title 16 section 3164.
+This section is referred to in sections 1734a, 2005 of this title; title 16 section 3164.
 

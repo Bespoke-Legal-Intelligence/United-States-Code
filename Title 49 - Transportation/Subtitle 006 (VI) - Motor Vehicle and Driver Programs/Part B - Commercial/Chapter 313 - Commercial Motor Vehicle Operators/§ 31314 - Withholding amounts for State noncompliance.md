@@ -2,7 +2,7 @@
 
 (a)
 
-First Fiscal Year.—The Secretary of Transportation shall withhold 5 percent of the amount required to be apportioned to a State under section 104(b)(1), (2), (5), and (6) of title 23 on the first day of the fiscal year after the first fiscal year beginning after September 30, 1992, throughout which the State does not comply substantially with a requirement of section 31311(a) of this title.
+First Fiscal Year.—The Secretary of Transportation shall withhold 5 percent of the amount required to be apportioned to a State under section 104(b)(1), (2), (5), and (6) of title 23 on the first day of the fiscal year after the firstfiscal year beginning after September 30, 1992, throughout which the State does not comply substantially with a requirement of section 31311(a) of this title.
 
 (b)
 
@@ -32,7 +32,9 @@ Lapse.—If, at the end of the period for which amounts withheld under this sect
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

@@ -70,6 +70,8 @@ The Secretary shall take such action as is necessary to promote and coordinate t
 
 (B) The amount of the financial assistance provided under paragraph (1)(A)(ii) and (iii) and paragraph (1)(B) may not exceed 70 percent of the costs incurred to achieve the purposes described in those paragraphs with respect to a reserve; except that the amount of the financial assistance provided under paragraph (1)(A)(iii) may be up to 100 percent of any costs for activities that benefit the entire System.
 
+(C) Notwithstanding subparagraphs (A) and (B), financial assistance under this subsection provided from amounts recovered as a result of damage to natural resources located in the coastal zone may be used to pay 100 percent of the costs of activities carried out with the assistance.
+
 #### (f) Evaluation of System performance
 
 (1) The Secretary shall periodically evaluate the operation and management of each national estuarine reserve, including education and interpretive activities, and the research being conducted within the reserve.
@@ -94,9 +96,11 @@ The Secretary shall include in the report required under section 1462 of this ti
 
 &emsp;(4) a summary of the evaluations made under subsection (f) of this section.
 
-(Pub. L. 89–454, title III, §315, formerly §312, as added Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1288; renumbered §315 and amended Pub. L. 94–370, §§7, 12, July 26, 1976, 90 Stat. 1019, 1030; Pub. L. 96–464, §11, Oct. 17, 1980, 94 Stat. 2067; Pub. L. 99–272, title VI, §6044, Apr. 7, 1986, 100 Stat. 125; Pub. L. 101–508, title VI, §6214, Nov. 5, 1990, 104 Stat. 1388–313; Pub. L. 102–587, title II, §2205(b)(1)(A), (B), (21), (22), Nov. 4, 1992, 106 Stat. 5050, 5052.)
+(Pub. L. 89–454, title III, §315, formerly §312, as added Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1288; renumbered §315 and amended Pub. L. 94–370, §§7, 12, July 26, 1976, 90 Stat. 1019, 1030; Pub. L. 96–464, §11, Oct. 17, 1980, 94 Stat. 2067; Pub. L. 99–272, title VI, §6044, Apr. 7, 1986, 100 Stat. 125; Pub. L. 101–508, title VI, §6214, Nov. 5, 1990, 104 Stat. 1388–313; Pub. L. 102–587, title II, §2205(b)(1)(A), (B), (21), (22), Nov. 4, 1992, 106 Stat. 5050, 5052; Pub. L. 104–150, §6, June 3, 1996, 110 Stat. 1381.)
 
 #### Amendments
+
+1996—Subsec. (e)(3)(C). Pub. L. 104–150 added subpar. (C).
 
 1992—Subsec. (a). Pub. L. 102–587, §2205(b)(21), substituted “Research Reserve” for “Reserve Research”.
 

@@ -42,23 +42,51 @@
 
 > shall order that the person forfeit to the United States any property, real or personal, which represents or is traceable to the gross proceeds obtained, directly or indirectly, as a result of such violation.
 
+(6)(A) <sup>1</sup> The court, in imposing sentence on a person convicted of a violation of, or conspiracy to violate, section 1425, 1426, 1427, 1541, 1542, 1543, 1544, or 1546 of this title, or a violation of, or conspiracy to violate, section 1028 of this title if committed in connection with passport or visa issuance or use, shall order that the person forfeit to the United States, regardless of any provision of State law—
+
+&emsp;(i) any conveyance, including any vessel, vehicle, or aircraft used in the commission of a violation of, or a conspiracy to violate, subsection (a); and
+
+&emsp;(ii) any property real or personal—
+
+&emsp;&emsp;(I) that constitutes, or is derived from or is traceable to the proceeds obtained directly or indirectly from the commission of a violation of, or a conspiracy to violate, subsection (a), section 274A(a)(1) or 274A(a)(2) of the Immigration and Nationality Act, or section 1028, 1425, 1426, 1427, 1541, 1542, 1543, 1544, or 1546 of this title; or
+
+&emsp;&emsp;(II) that is used to facilitate, or is intended to be used to facilitate, the commission of a violation of, or a conspiracy to violate, subsection (a), section 274A(a)(1) or 274A(a)(2) of the Immigration and Nationality Act, or section 1028, 1425, 1426, 1427, 1541, 1542, 1543, 1544, or 1546 of this title.
+
+> The court, in imposing sentence on such person, shall order that the person forfeit to the United States all property described in this subparagraph.
+
+(B) The criminal forfeiture of property under subparagraph (A), including any seizure and disposition of the property and any related administrative or judicial proceeding, shall be governed by the provisions of section 413 of the Comprehensive Drug Abuse Prevention and Control Act of 1970 (21 U.S.C. 853), other than subsections (a) and (d) of such section 413.
+
+(6) <sup>1</sup> The court, in imposing sentence on a person convicted of a Federal health care offense, shall order the person to forfeit property, real or personal, that constitutes or is derived, directly or indirectly, from gross proceeds traceable to the commission of the offense.
+
 (b)(1) Property subject to forfeiture under this section, any seizure and disposition thereof, and any administrative or judicial proceeding in relation thereto, shall be governed—
 
-&emsp;(A) in the case of a forfeiture under subsection (a)(1) of this section, by subsections (c) and (e) through (p) of section 413 of the Comprehensive Drug Abuse Prevention and Control Act of 1970 (21 U.S.C. 853); and
+&emsp;(A) in the case of a forfeiture under subsection (a)(1) or (a)(6) <sup>2</sup> of this section, by subsections (c) and (e) through (p) of section 413 of the Comprehensive Drug Abuse Prevention and Control Act of 1970 (21 U.S.C. 853); and
 
 &emsp;(B) in the case of a forfeiture under subsection (a)(2) of this section, by subsections (b), (c), (e), and (g) through (p) of section 413 of such Act.
 
 (2) The substitution of assets provisions of subsection 413(p) shall not be used to order a defendant to forfeit assets in place of the actual property laundered where such defendant acted merely as an intermediary who handled but did not retain the property in the course of the money laundering offense unless the defendant, in committing the offense or offenses giving rise to the forfeiture, conducted three or more separate transactions involving a total of $100,000 or more in any twelve month period.
 
-(Added Pub. L. 99–570, title I, §1366(a), Oct. 27, 1986, 100 Stat. 3207–39; amended Pub. L. 100–690, title VI, §§6463(c), 6464, Nov. 18, 1988, 102 Stat. 4374, 4375; Pub. L. 101–73, title IX, §963(c), Aug. 9, 1989, 103 Stat. 504; Pub. L. 101–647, title XIV, §§1401, 1403, title XXV, §2525(b), Nov. 29, 1990, 104 Stat. 4835, 4874; Pub. L. 102–393, title VI, §638(e), Oct. 6, 1992, 106 Stat. 1788; Pub. L. 102–519, title I, §104(b), Oct. 25, 1992, 106 Stat. 3385; Pub. L. 102–550, title XV, §1512(c), Oct. 28, 1992, 106 Stat. 4058; Pub. L. 103–322, title XXXIII, §330011(s)(1), Sept. 13, 1994, 108 Stat. 2145.)
+(Added Pub. L. 99–570, title I, §1366(a), Oct. 27, 1986, 100 Stat. 3207–39; amended Pub. L. 100–690, title VI, §§6463(c), 6464, Nov. 18, 1988, 102 Stat. 4374, 4375; Pub. L. 101–73, title IX, §963(c), Aug. 9, 1989, 103 Stat. 504; Pub. L. 101–647, title XIV, §§1401, 1403, title XXV, §2525(b), Nov. 29, 1990, 104 Stat. 4835, 4874; Pub. L. 102–393, title VI, §638(e), Oct. 6, 1992, 106 Stat. 1788; Pub. L. 102–519, title I, §104(b), Oct. 25, 1992, 106 Stat. 3385; Pub. L. 102–550, title XV, §1512(c), Oct. 28, 1992, 106 Stat. 4058; Pub. L. 103–322, title XXXIII, §330011(s)(1), Sept. 13, 1994, 108 Stat. 2145; Pub. L. 104–191, title II, §249(a), (b), Aug. 21, 1996, 110 Stat. 2020; Pub. L. 104–208, div. C, title II, §217, Sept. 30, 1996, 110 Stat. 3009–573.)
+
+#### References in Text
+
+Section 274A of the Immigration and Nationality Act, referred to in subsec. (a)(6)(A)(ii), is classified to section 1324a of Title 8, Aliens and Nationality.
+
+Subsection (a)(6) of this section, referred to in subsec. (b)(1)(A), probably means the subsec. (a)(6) relating to forfeitures for Federal health care offenses, as added by Pub. L. 104–191, §249(a).
 
 #### Amendments
+
+1996—Subsec. (a)(6). Pub. L. 104–208 added par. (6) relating to criminal forfeiture for passport and visa related offenses.
+
+Pub. L. 104–191, §249(a), added par. (6) relating to forfeitures for Federal health care offenses.
+
+Subsec. (b)(1)(A). Pub. L. 104–191, §249(b), inserted “or (a)(6)” after “(a)(1)”.
 
 1994—Subsec. (a)(1). Pub. L. 103–322, §330011(s)(1), amended directory language of Pub. L. 101–647, §1401. See 1990 Amendment note below.
 
 1992—Subsec. (a)(1). Pub. L. 102–550 substituted “, 1957, or 1960” for “or 1957”.
 
-Subsec. (a)(2). Pub. L. 102–393 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Thecourt, in imposing sentence on a person convicted of a violation of, or a conspiracy to violate, section 215, 656, 657, 1005, 1006, 1007, 1014, 1341, 1343, or 1344 of this title, affecting a financial institution, shall order that the person forfeit to the United States any property constituting, or derived from, proceeds the person obtained directly or indirectly, as the result of such violation.”
+Subsec. (a)(2). Pub. L. 102–393 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The court, in imposing sentence on a person convicted of a violation of, or a conspiracy to violate, section 215, 656, 657, 1005, 1006, 1007, 1014, 1341, 1343, or 1344 of this title, affecting a financial institution, shall order that the person forfeit to the United States any property constituting, or derived from, proceeds the person obtained directly or indirectly, as the result of such violation.”
 
 Subsec. (a)(5). Pub. L. 102–519 added par. (5).
 
@@ -70,7 +98,7 @@ Subsec. (b)(2). Pub. L. 101–647, §1403, inserted before period at end “unle
 
 1989—Subsec. (a). Pub. L. 101–73, §963(c)(1), designated existing provisions as par. (1) and added par. (2).
 
-Subsec. (b). Pub. L. 101–73, §963(c)(2), struck out “The provisions of subsections 413(c) and (e) through (p) of the Comprehensive Drug Abuse Prevention and Control Act of 1970 (21 U.S.C. 853(c) and (e)–(p)) shall apply to property subject to forfeiture under this section, to any seizure or disposition thereof, and to any administrative or judicial proceeding in relation thereto, if not inconsistent with this section. However, the”, added par. (1), and inserted “(2) The” before “substitution of assets”.
+Subsec. (b). Pub. L. 101–73, §963(c)(2), struck out “The provisions of subsections 413(c) and (e) through (p) ofthe Comprehensive Drug Abuse Prevention and Control Act of 1970 (21 U.S.C. 853(c) and (e)–(p)) shall apply to property subject to forfeiture under this section, to any seizure or disposition thereof, and to any administrative or judicial proceeding in relation thereto, if not inconsistent with this section. However, the”, added par. (1), and inserted “(2) The” before “substitution of assets”.
 
 1988—Subsec. (a). Pub. L. 100–690, §6463(c), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The court, in imposing sentence on a person convicted of an offense under section 1956 or 1957 of this title shall order that the person forfeit to the United States any property, real or personal, which represents the gross receipts the person obtained, directly or indirectly, as a result of such offense, or which is traceable to such gross receipts.”
 
@@ -83,4 +111,8 @@ Section 330011(s)(1) of Pub. L. 103–322 provided that the amendment made by th
 #### Section Referred to in Other Sections
 
 This section is referred to in title 12 sections 1831k, 3412; title 31 section 9703.
+
+<i><sup>1</sup></i><i> So in original. Two pars. (6) have been enacted.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

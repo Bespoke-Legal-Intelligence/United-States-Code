@@ -4,7 +4,7 @@
 
 (1) The Secretary of Commerce, acting through the Director of the National Technical Information Service (hereafter in this section referred to as the “Director”) is authorized to do the following:
 
-&emsp;(A) Enter into such contracts, cooperative agreements, joint ventures, and other transactions, in accordance with all relevant provisions of Federal law applicable to such contracts and agreements, and under reasonable terms and conditions, as may be necessary in the conduct of the business of the National Technical Information Service (hereafter in this section referred to as the “Service”).
+&emsp;(A) Enter into such contracts, cooperative agreements, joint ventures, and other transactions, in accordance with all relevant provisions of Federal law applicable to such contracts and agreements, and under reasonable terms and conditions, as may be necessary in the conduct of the business of the NationalTechnical Information Service (hereafter in this section referred to as the “Service”).
 
 &emsp;(B) In addition to the authority regarding fees contained in section 2 of the Act entitled “An Act to provide for the dissemination of technological, scientific, and engineering information to American business and industry, and for other purposes” enacted September 9, 1950 (15 U.S.C. 1152), retain and, subject to appropriations Acts, utilize its net revenues to the extent necessary to implement the plan submitted under subsection (f)(3)(D) of this section.
 
@@ -90,7 +90,7 @@ The Secretary of Commerce, acting through the Service, shall—
 
 &emsp;(C) any change in the operating plan submitted under paragraph (3)(B) which would result in a variation from such plan with respect to expense levels of more than 10 percent.
 
-(Pub. L. 100–519, title II, §212, Oct. 24, 1988, 102 Stat. 2594; Pub. L. 102–140, title II, Oct. 28, 1991,105 Stat. 804; Pub. L. 102–245, title V, §506(c), Feb. 14, 1992, 106 Stat. 27.)
+(Pub. L. 100–519, title II, §212, Oct. 24, 1988, 102 Stat. 2594; Pub. L. 102–140, title II, Oct. 28, 1991, 105 Stat. 804; Pub. L. 102–245, title V, §506(c), Feb. 14, 1992, 106 Stat. 27.)
 
 #### References in Text
 

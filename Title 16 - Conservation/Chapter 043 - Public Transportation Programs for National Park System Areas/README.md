@@ -6,7 +6,7 @@
 | [2302\.](%C2%A7%2002302%20-%20Transportation%20service%20and%20facility%20programs.md) | Transportation service and facility programs. |
 | (a) | Formulation and implementation of plans and projects developed pursuant to plans. |
 | (b) | Contracts, acquisitions, etc., for improvement of access to park system units. |
-| (c) | Prerequisites for acquisitions. |
+| (c) | Repealed. |
 | (d) | Appropriation of fees collected and covered into Planning, Development, and Operation of Recreational Facilities appropriation account. |
 | (e) | Establishment of information programs. |
 | (f) | Undertaking of concession facilities or services. |

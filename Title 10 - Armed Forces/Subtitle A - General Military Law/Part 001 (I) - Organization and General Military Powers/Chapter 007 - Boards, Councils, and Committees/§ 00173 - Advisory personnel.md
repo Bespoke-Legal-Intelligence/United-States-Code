@@ -2,9 +2,9 @@
 
 (a) The Secretary of Defense may establish such advisory committees and employ such part-time advisers as he considers necessary for the performance of his functions and those of the agencies under his control.
 
-(b) A person who serves as a member of a committee may not be paid for that service while holding another position or office under the United States for which he receives compensation. Other members and part-time advisers may serve without compensation or may be paid not more than $50 for each day of service, as the Secretary determines.
+(b) A person who serves as a member of a committee may not be paid for that service while holding another position or office under the United States for which he receives compensation. Other members and part-time advisers shall (except as otherwise specifically authorized by law) serve without compensation for such service.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 8; Nov. 2, 1966, Pub. L. 89–718, §2, 80 Stat. 1115.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 8; Nov. 2, 1966, Pub. L. 89–718, §2, 80 Stat. 1115; Feb. 10, 1996, Pub. L. 104–106, div. A, title X, §1061(e)(1), 110 Stat. 443.)
 
 Historical and Revision Notes
 
@@ -16,7 +16,15 @@ Historical and Revision Notes
 
 173(a)
 
+&nbsp;
+
+&nbsp;
+
 173(b)
+
+&nbsp;
+
+&nbsp;
 
 173(c)
 
@@ -35,6 +43,8 @@ In subsection (b), the word “Secretary” is substituted for the words “appo
 In subsection (c), the words “as a part-time adviser” are substituted for the words “in any other part-time capacity for a department or agency” to conform to subsections (a) and (b).
 
 #### Amendments
+
+1996—Subsec. (b). Pub. L. 104–106 substituted “Other members and part-time advisers shall (except as otherwise specifically authorized by law) serve without compensation for such service.” for “Other members and part-time advisers may serve without compensation or may be paid not more than $50 for each day of service, as the Secretary determines.”
 
 1966—Subsec. (c). Pub. L. 89–718 repealed subsec. (c) which provided that sections 281, 283, and 284 of title 18 did not apply to a person because of his service on a committee or as a part-time advisor under subsec. (a) of this section unless the unlawful act related to a matter directly involving a department or agency which he was advising or to a matter in which that department or agency was directly interested.
 

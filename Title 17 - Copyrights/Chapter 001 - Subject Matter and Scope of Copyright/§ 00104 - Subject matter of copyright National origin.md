@@ -30,7 +30,7 @@ I74house report no. 94–1476
 
 Section 104 of the bill \[this section\], which sets forth the basic criteria under which works of foreign origin can be protected under the U.S. copyright law, divides all works coming within the scope of sections 102 and 103 into two categories: unpublished and published. Subsection (a) imposes no qualifications of nationality and domicile with respect to unpublished works. Subsection (b) would make published works subject to protection under any one of four conditions:
 
-&emsp;(1) The author is a national or domiciliary of the United States or of a country with which the UnitedStates has copyright relations under a treaty, or is a stateless person;
+&emsp;(1) The author is a national or domiciliary of the United States or of a country with which the United States has copyright relations under a treaty, or is a stateless person;
 
 &emsp;(2) The work is first published in the United States or in a country that is a party to the Universal Copyright Convention;
 
@@ -42,7 +42,7 @@ The third of these conditions represents a treaty obligation of the United State
 
 #### References in Text
 
-The Universal Copyright Convention, referred to in subsec. (b)(2), probably means the Universal Copyright Convention as revised at Paris on July 24, 1971, effective July 10, 1974, set out below.
+The Universal Copyright Convention, referred to in subsec. (b)(2), probably means the Universal CopyrightConvention as revised at Paris on July 24, 1971, effective July 10, 1974, set out below.
 
 #### Amendments
 
@@ -102,7 +102,7 @@ Each Contracting State undertakes to provide for the adequate and effective prot
 
 2\. (a) The term of protection for works protected under this Convention shall not be less than the life of the author and twenty-five years after his death. However, any Contracting State which, on the effective date of this Convention in that State, has limited this term for certain classes of works to a period computed from the first publication of the work, shall be entitled to maintain these exceptions and to extend them to other classes of works. For all these classes the term of protection shall not be less than twenty-five years from the date of first publication.
 
-(b) Any Contracting State which, upon the effective date of this Convention in that State, does not compute the term of protection upon the basis of the life of the author, shall be entitled to compute the term of protection from the date of the first publication of the work or from its registration prior to publication, as the case may be, provided the term of protection shall not beless than twenty-five years from the date of first publication or from its registration prior to publication, as the case may be.
+(b) Any Contracting State which, upon the effective date of this Convention in that State, does not compute the term of protection upon the basis of the life of the author, shall be entitled to compute the term of protection from the date of the first publication of the work or from its registration prior to publication, as the case may be, provided the term of protection shall not be less than twenty-five years from the date of first publication or from its registration prior to publication, as the case may be.
 
 (c) If the legislation of a Contracting State grants two or more successive terms of protection, the duration of the first term shall not be less than one of the minimum periods specified in subparagraphs (a) and (b).
 
@@ -110,7 +110,7 @@ Each Contracting State undertakes to provide for the adequate and effective prot
 
 4\. (a) No Contracting State shall be obliged to grant protection to a work for a period longer than that fixed for the class of works to which the work in question belongs, in the case of unpublished works by the law of the Contracting State of which the author is a national, and in the case of published works by the law of the Contracting State in which the work has been first published.
 
-(b) For the purposes of the application of subparagraph (a), if the law of any Contracting State grants two or more successive terms of protection, the period of protection of that State shall be considered to be the aggregate of those terms. However, if a specified work is not protected by such State during the second or any subsequent term for any reason, the other Contracting States shall not be obliged to protect it during the second or any subsequent term.
+(b) For the purposes of the application of subparagraph (a), if the law of any Contracting State grantstwo or more successive terms of protection, the period of protection of that State shall be considered to be the aggregate of those terms. However, if a specified work is not protected by such State during the second or any subsequent term for any reason, the other Contracting States shall not be obliged to protect it during the second or any subsequent term.
 
 5\. For the purposes of the application of paragraph 4, the work of a national of a Contracting State, first published in a non-Contracting State, shall be treated as though first published in the Contracting State of which the author is a national.
 
@@ -148,7 +148,7 @@ Each Contracting State undertakes to provide for the adequate and effective prot
 
 3\. Notwithstanding the provisions of paragraph 2, a Contracting State that has ceased to be regarded as a developing country as referred to in paragraph 1 shall no longer be entitled to renew its notification made under the provisions of paragraph 1 or 2, and whether or not it formally withdraws the notification such State shall be precluded from availing itself of the exceptions provided for in Articles V<i>ter</i> and V<i>quater</i> at the end of the current ten-year period, or at the end of three years after it has ceased to be regarded as a developing country, whichever period expires later.
 
-4\. Any copies of a work already made under the exceptions provided for in Articles V<i>ter</i> and V<i>quater</i> maycontinue to be distributed after the expiration of the period for which notifications under this Article were effective until their stock is exhausted.
+4\. Any copies of a work already made under the exceptions provided for in Articles V<i>ter</i> and V<i>quater</i> may continue to be distributed after the expiration of the period for which notifications under this Article were effective until their stock is exhausted.
 
 5\. Any Contracting State that has deposited a notification in accordance with Article XIII with respect to the application of this Convention to a particular country or territory, the situation of which can be regarded as analogous to that of the States referred to in paragraph 1 of this Article, may also deposit notifications and renew them in accordance with the provisions of this Article with respect to any such country or territory. During the effective period of such notifications, the provisions of Articles V<i>ter</i> and V<i>quater</i> may be applied with respect to such country or territory. The sending of copies from the country or territory to the Contracting State shall be considered as export within the meaning of Articles V<i>ter</i> and V<i>quater.</i>
 
@@ -344,11 +344,11 @@ A dispute between two or more Contracting States concerning the interpretation o
 
 1\. This Convention shall not in any way affect the provisions of the Berne Convention for the Protection of Literary and Artistic Works or membership in the Union created by that Convention.
 
-2\. In application of the foregoing paragraph, a declaration has been annexed to the present Article. Thisdeclaration is an integral part of this Convention for the States bound by the Berne Convention on 1 January 1951, or which have or may become bound to it at a later date. The signature of this Convention by such States shall also constitute signature of the said declaration, and ratification, acceptance or accession by such States shall include the declaration, as well as this Convention.
+2\. In application of the foregoing paragraph, a declaration has been annexed to the present Article. This declaration is an integral part of this Convention for the States bound by the Berne Convention on 1 January 1951, or which have or may become bound to it at a later date. The signature of this Convention by such States shall also constitute signature of the said declaration, and ratification, acceptance or accession by such States shall include the declaration, as well as this Convention.
 
 #### Article XVIII
 
-This Convention shall not abrogate multilateral or bilateral copyright conventions or arrangements that are or may be in effect exclusively between two or more American Republics. In the event of any difference either between the provisions of such existing conventions or arrangements and the provisions of this Convention, or between the provisions of this Convention and those of any new convention or arrangement which may be formulated between two or more American Republics after this Convention comes into force, the convention or arrangement most recently formulated shall prevail between the parties thereto. Rights in works acquired in any Contracting State under existing conventions or arrangements before the date this Convention comes into force in such State shall not be affected.
+This Convention shall not abrogate multilateral or bilateral copyright conventions or arrangements that are or may be in effect exclusively between two or more American Republics. In the event of any difference either between the provisions of such existing conventions or arrangements and the provisions of this Convention, or between the provisions of this Convention and those of any new convention or arrangement which may be formulated between two or more American Republics after this Convention comes into force, the convention or arrangement most recently formulated shall prevail between the parties thereto. Rightsin works acquired in any Contracting State under existing conventions or arrangements before the date this Convention comes into force in such State shall not be affected.
 
 #### Article XIX
 
@@ -490,13 +490,13 @@ Each Contracting State undertakes to provide for the adequate and effective prot
 
 #### Article IV
 
-1\. The duration of protection of a work shall be governed, in accordance with the provisions of article IIand this article, by the law of the Contracting State in which protection is claimed.
+1\. The duration of protection of a work shall be governed, in accordance with the provisions of article II and this article, by the law of the Contracting State in which protection is claimed.
 
 2\. The term of protection for works protected under this Convention shall not be less than the life of the author and 25 years after his death.
 
 However, any Contracting State which, on the effective date of this Convention in that State, has limited this term for certain classes of works to a period computed from the first publication of the work, shall be entitled to maintain these exceptions and to extend them to other classes of works. For all these classes the term of protection shall not be less than 25 years from the date of first publication.
 
-Any Contracting State which, upon the effective date of this Convention in that State, does not compute the term of protection upon the basis of the life of the author, shall be entitled to compute the term of protection from the date of the first publication of the work or from its registration prior to publication, as the case may be, provided the term of protection shall not be less than 25 years from the date of first publication or from its registration prior to publication, as the case may be.
+Any Contracting State which, upon the effective date of this Convention in that State, does not compute the term of protection upon the basis of the life of the author, shall be entitled to compute the term of protection from the date of the first publication of the work or from its registration prior to publication, as the casemay be, provided the term of protection shall not be less than 25 years from the date of first publication or from its registration prior to publication, as the case may be.
 
 If the legislation of a Contracting State grants two or more successive terms of protection, the duration of the first term shall not be less than one of the minimum periods specified above.
 
@@ -544,7 +544,7 @@ This Convention shall not apply to works or rights in works which, at the effect
 
 #### Article IX
 
-1\. This Convention shall come into force three months after the deposit of twelve instruments of ratification, acceptance or accession, among which thereshall be those of four States which are not members of the International Union for the Protection of Literary and Artistic Works.
+1\. This Convention shall come into force three months after the deposit of twelve instruments of ratification, acceptance or accession, among which there shall be those of four States which are not members of the International Union for the Protection of Literary and Artistic Works.
 
 2\. Subsequently, this Convention shall come into force in respect of each State three months after that State has deposited its instrument of ratification, acceptance or accession.
 
@@ -618,7 +618,7 @@ Reservations to this Convention shall not be permitted.
 
 #### Article XXI
 
-The Director-General of the United Nations Educational, Scientific and Cultural Organization shallsend duly certified copies of this Convention to the States interested, to the Swiss Federal Council and to the Secretary-General of the United Nations for registration by him.
+The Director-General of the United Nations Educational, Scientific and Cultural Organization shall send duly certified copies of this Convention to the States interested, to the Swiss Federal Council and to the Secretary-General of the United Nations for registration by him.
 
 He shall also inform all interested States of the ratifications, acceptances and accessions which have been deposited, the date on which this Convention comes into force, the notifications under Article XIII of this Convention, and denunciations under Article XIV.
 
@@ -714,7 +714,7 @@ Have agreed as follows:
 
 6\. (a) Ratification or acceptance or accession shall be effected by the deposit of an instrument to that effect with the Director-General.
 
-(b) This Protocol shall enter into force on the date of deposit of not less than four instruments of ratification or acceptance or accession. The Director-General shall inform all interested States of this date. Instruments deposited after such date shall take effect on the date of their deposit.
+(b) This Protocol shall enter into force on the date of deposit of not less than four instruments of ratificationor acceptance or accession. The Director-General shall inform all interested States of this date. Instruments deposited after such date shall take effect on the date of their deposit.
 
 In faith whereof the undersigned, being duly authorized thereto, have signed this Protocol.
 
@@ -722,7 +722,7 @@ Done at Geneva, the sixth day of September 1952, in the English, French and the 
 
 #### Particular Proclamations, Treaties and Conventions Establishing Copyright Relations Between the United States of America and Other Countries
 
-The following is based on <i>Treaties in Force</i>, as of January 1, 1996, published by the Department of State:
+The following is based on <i>Treaties in Force</i>, as of January 1, 1997, published by the Department of State:
 
 By virtue of Presidential proclamations, treaties, and conventions, the United States has established copyright relations with various other countries. This appendix is an attempt to present a complete and annotated list of those countries. Treaties and conventions on the subject of copyright relations are also included in the preceding pages under appropriate country or subject headings.
 
@@ -818,9 +818,11 @@ Country
 
 Document
 
-Date of document
+Date of
 
-Effective date for party <sup>28</sup>
+Document
+
+Effective Date for Party <sup>28</sup>
 
 Reference
 
@@ -834,7 +836,7 @@ Mar. 6, 1994
 
 T. Doc. 99–27.
 
-AlgeriaDUCCDSept. 6, 1952DAug. 28, 1973D6 UST 2731.
+Algeria DUCC DSept. 6, 1952 DAug. 28, 1973 D6 UST 2731.
 
 &nbsp;
 
@@ -856,6 +858,16 @@ Sept. 16, 1955
 
 6 UST 2731.
 
+Angola
+
+WTO
+
+Apr. 15, 1994
+
+Nov. 23, 1996
+
+33 ILM 15.
+
 Antigua and Barbuda
 
 WTO
@@ -866,7 +878,7 @@ Jan. 1, 1995
 
 33 ILM 15.
 
-ArgentinaDPmDAug. 23, 1934DAug. 23, 1934D49 Stat. 3413.
+Argentina DPm DAug. 23, 1934 DAug. 23, 1934 D49 Stat. 3413.
 
 &nbsp;
 
@@ -928,7 +940,7 @@ Dec. 13, 1993
 
 T. Doc. 98–31.
 
-Australia <sup>1</sup>DPmDApr. 3, 1918DMar. 15, 1918D40 Stat. 1764.
+Australia <sup>1</sup> DPm DApr. 3, 1918 DMar. 15, 1918 D40 Stat. 1764.
 
 &nbsp;
 
@@ -1000,7 +1012,7 @@ Jan. 1, 1995
 
 33 ILM 15.
 
-Austria <sup>3</sup>DPDSept. 20, 1907DSept. 20, 1907D35 Stat. 2155.
+Austria <sup>3</sup> DP DSept. 20, 1907 DSept. 20, 1907 D35 Stat. 2155.
 
 &nbsp;
 
@@ -1102,7 +1114,7 @@ Jan. 1, 1995
 
 33 ILM 15.
 
-Bahamas, TheDUCCDSept. 6, 1952DDec. 27, 1976D6 UST 2731.
+Bahamas, The DUCC DSept. 6, 1952 DDec. 27, 1976 D6 UST 2731.
 
 &nbsp;
 
@@ -1134,7 +1146,7 @@ Jan. 1, 1995
 
 33 ILM 15.
 
-BangladeshDUCCDSept. 6, 1952DAug. 5, 1975D6 UST 2731.
+Bangladesh DUCC DSept. 6, 1952 DAug. 5, 1975 D6 UST 2731.
 
 &nbsp;
 
@@ -1156,7 +1168,7 @@ Jan. 1, 1995
 
 33 ILM 15.
 
-BarbadosDUCCDSept. 6, 1952DJune 18, 1983D6 UST 2731.
+Barbados DUCC DSept. 6, 1952 DJune 18, 1983 D6 UST 2731.
 
 &nbsp;
 
@@ -1206,9 +1218,9 @@ Sept. 6, 1952
 
 May 27, 1973
 
-6UST 2731.
+6 UST 2731.
 
-BelgiumDPDJuly 1, 1891DJuly 1, 1891D27 Stat. 981.
+Belgium DP DJuly 1, 1891 DJuly 1, 1891 D27 Stat. 981.
 
 &nbsp;
 
@@ -1260,7 +1272,7 @@ Jan. 1, 1995
 
 33 ILM 15.
 
-BelizeDUCC \\20\\DSept. 6, 1952DDec. 1, 1982D6 UST 2731.
+Belize DUCC \\20\\ DSept. 6, 1952 DDec. 1, 1982 D6 UST 2731.
 
 &nbsp;
 
@@ -1272,17 +1284,19 @@ Jan. 1, 1995
 
 33 ILM 15.
 
-Benin
+Benin DBerne (Paris) DJuly 24, 1971 DMar. 12, 1975 DT. Doc. 99–27.
 
-Berne (Paris)
+&nbsp;
 
-July 24, 1971
+WTO
 
-Mar. 12, 1975
+Apr. 15, 1994
 
-T. Doc. 99–27.
+Feb. 22, 1996
 
-BoliviaDBACDAug. 11, 1910DMay 15, 1914D38 Stat. 1785.
+33 ILM 15.
+
+Bolivia DBAC DAug. 11, 1910 DMay 15, 1914 D38 Stat. 1785.
 
 &nbsp;
 
@@ -1366,7 +1380,7 @@ May 31, 1995
 
 33 ILM 15.
 
-BrazilDBACDAug. 11, 1910DAug. 31, 1915D38 Stat. 1785.
+Brazil DBAC DAug. 11, 1910 DAug. 31, 1915 D38 Stat. 1785.
 
 &nbsp;
 
@@ -1438,7 +1452,7 @@ Jan. 1, 1995
 
 33 ILM 15.
 
-BulgariaDBerne (Paris)DJuly 24, 1971DDec. 4, 1974DT. Doc. 99–27.
+Bulgaria DBerne (Paris) DJuly 24, 1971 DDec. 4, 1974 DT. Doc. 99–27.
 
 &nbsp;
 
@@ -1470,7 +1484,17 @@ Sept. 6, 1995
 
 25 UST 309.
 
-Burkina FasoDBerne (Paris)DJuly 24, 1971DJan. 24, 1976DT. Doc. 99–27.
+&nbsp;
+
+WTO
+
+Apr. 15, 1994
+
+Dec. 1, 1996
+
+33 ILM 15.
+
+Burkina Faso DBerne (Paris) DJuly 24, 1971 DJan. 24, 1976 DT. Doc. 99–27.
 
 &nbsp;
 
@@ -1522,7 +1546,7 @@ Sept. 16, 1955
 
 6 UST 2731.
 
-CameroonDUCCDSept. 6, 1952DMay 1, 1973D6 UST 2731.
+Cameroon DUCC DSept. 6, 1952 DMay 1, 1973 D6 UST 2731.
 
 &nbsp;
 
@@ -1554,7 +1578,7 @@ Dec. 13, 1995
 
 33 ILM 15.
 
-Canada <sup>1</sup>DPmDDec. 27, 1923DJan. 1, 1924D43 Stat. 1932.
+Canada <sup>1</sup> DPm DDec. 27, 1923 DJan. 1, 1924 D43 Stat. 1932.
 
 &nbsp;
 
@@ -1586,7 +1610,7 @@ Jan. 1, 1995
 
 33 ILM 15.
 
-Central African RepublicDBerne (Paris)DJuly 24, 1971DSept. 3, 1977DT. Doc. 99–27.
+Central African Republic DBerne (Paris) DJuly 24, 1971 DSept. 3, 1977 DT. Doc. 99–27.
 
 &nbsp;
 
@@ -1598,17 +1622,19 @@ May 31, 1995
 
 33 ILM 15.
 
-Chad
+Chad DBerne (Brussels) DJune 26, 1948 DNov. 25, 1971 D331 UNTS 217.
 
-Berne (Brussels)
+&nbsp;
 
-June 26, 1948
+WTO
 
-Nov. 25, 1971
+Apr. 15, 1994
 
-331 UNTS 217.
+Oct. 19, 1996
 
-ChileDPDMay 25, 1896DMay 25, 1896D29 Stat. 880.
+33 ILM 15.
+
+Chile DP DMay 25, 1896 DMay 25, 1896 D29 Stat. 880.
 
 &nbsp;
 
@@ -1680,7 +1706,7 @@ Jan. 1, 1995
 
 33 ILM 15.
 
-ChinaDTDOct. 8, 1903DJan. 13, 1904D33 Stat. 2208.
+China DT DOct. 8, 1903 DJan. 13, 1904 D33 Stat. 2208.
 
 &nbsp;
 
@@ -1742,7 +1768,7 @@ Apr. 30, 1993
 
 25 UST 309.
 
-ColombiaDBACDAug. 11, 1910DDec. 23, 1936D38 Stat. 1785.
+Colombia DBAC DAug. 11, 1910 DDec. 23, 1936 D38 Stat. 1785.
 
 &nbsp;
 
@@ -1804,7 +1830,7 @@ Dec. 5, 1975
 
 T. Doc. 99–27.
 
-Costa RicaDPDOct. 19, 1899DOct. 19, 1899D31 Stat. 1955.
+Costa Rica DP DOct. 19, 1899 DOct. 19, 1899 D31 Stat. 1955.
 
 &nbsp;
 
@@ -1886,7 +1912,7 @@ Jan. 1, 1995
 
 33 ILM 15.
 
-Cote d'IvoireDBerne (Paris)DJuly 24, 1971DOct. 10, 1974DT. Doc. 99–27.
+Cote d'Ivoire DBerne (Paris) DJuly 24, 1971 DOct. 10, 1974 DT. Doc. 99–27.
 
 &nbsp;
 
@@ -1898,7 +1924,7 @@ Jan. 1, 1995
 
 33 ILM 15.
 
-CroatiaDUCCDSept. 6, 1952DMay 11, 1966D6 UST 2731.
+Croatia DUCC DSept. 6, 1952 DMay 11, 1966 D6 UST 2731.
 
 &nbsp;
 
@@ -1930,7 +1956,7 @@ Oct. 8, 1991
 
 T. Doc. 98–31.
 
-CubaDPDNov. 17, 1903DNov. 17, 1903D33 Stat. 2324.
+Cuba DP DNov. 17, 1903 DNov. 17, 1903 D33 Stat. 2324.
 
 &nbsp;
 
@@ -1972,7 +1998,7 @@ Apr. 20, 1995
 
 33 ILM 15.
 
-CyprusDBerne (Paris)DJuly 24, 1971DJuly 27, 1983DT. Doc. 99–27.
+Cyprus DBerne (Paris) DJuly 24, 1971 DJuly 27, 1983 DT. Doc. 99–27.
 
 &nbsp;
 
@@ -2076,7 +2102,7 @@ Apr. 7, 1934
 
 48 Stat. 1737.
 
-Denmark <sup>5</sup>DPDMay 8, 1893DMay 8, 1893D28 Stat. 1219.
+Denmark <sup>5</sup> DP DMay 8, 1893 DMay 8, 1893 D28 Stat. 1219.
 
 &nbsp;
 
@@ -2178,7 +2204,7 @@ Jan. 1, 1995
 
 33 ILM 15.
 
-Dominican RepublicDMCCDJan. 27, 1902DJune 30, 1908D35 Stat. 1934.
+Dominican Republic DMCC DJan. 27, 1902 DJune 30, 1908 D35 Stat. 1934.
 
 &nbsp;
 
@@ -2220,7 +2246,7 @@ Mar. 9, 1995
 
 33 ILM 15.
 
-EcuadorDBACDAug. 11, 1910DAug. 31, 1914D38 Stat. 1785.
+Ecuador DBAC DAug. 11, 1910 DAug. 31, 1914 D38 Stat. 1785.
 
 &nbsp;
 
@@ -2262,7 +2288,17 @@ Oct. 9, 1991
 
 T. Doc. 99–27.
 
-EgyptDBerne (Paris)DJuly 24, 1971DJune 7, 1977DT. Doc. 99–27.
+&nbsp;
+
+WTO
+
+Apr. 15, 1994
+
+Jan. 21, 1996
+
+33 ILM 15.
+
+Egypt DBerne (Paris) DJuly 24, 1971 DJune 7, 1977 DT. Doc. 99–27.
 
 &nbsp;
 
@@ -2284,7 +2320,7 @@ June 30, 1995
 
 33 ILM 15.
 
-El SalvadorDMCCDJan. 27, 1902DJune 30, 1908D35 Stat. 1934.
+El Salvador DMCC DJan. 27, 1902 DJune 30, 1908 D35 Stat. 1934.
 
 &nbsp;
 
@@ -2356,7 +2392,7 @@ Jan. 1, 1995
 
 33 ILM 15.
 
-FijiDUCCDSept. 6, 1952DMar. 13, 1972D6 UST 2731.
+Fiji DUCC DSept. 6, 1952 DMar. 13, 1972 D6 UST 2731.
 
 &nbsp;
 
@@ -2378,7 +2414,17 @@ Apr. 18, 1973
 
 25 UST 309.
 
-FinlandDPmDDec. 15, 1928DJan. 1, 1929D45 Stat. 2980.
+&nbsp;
+
+WTO
+
+Apr. 15, 1994
+
+Jan. 14, 1996
+
+33 ILM 15.
+
+Finland DPm DDec. 15, 1928 DJan. 1, 1929 D45 Stat. 2980.
 
 &nbsp;
 
@@ -2450,7 +2496,7 @@ Sept. 8, 1991
 
 T. Doc. 99–27.
 
-France <sup>6</sup>DPDJuly 1, 1891DJuly 1, 1891D27 Stat. 981.
+France <sup>6</sup> DP DJuly 1, 1891 DJuly 1, 1891 D27 Stat. 981.
 
 &nbsp;
 
@@ -2542,7 +2588,7 @@ Jan. 1, 1995
 
 33 ILM 15.
 
-GabonDBerne (Paris)DJuly 24, 1971DJune 10, 1975DT. Doc. 99–27.
+Gabon DBerne (Paris) DJuly 24, 1971 DJune 10, 1975 DT. Doc. 99–27.
 
 &nbsp;
 
@@ -2554,15 +2600,17 @@ Jan. 1, 1995
 
 33 ILM 15.
 
-Gambia, The
+Gambia, The DBerne (Paris) DJuly 24, 1971 DMar. 7, 1993 DT. Doc. 99–27.
 
-Berne (Paris)
+&nbsp;
 
-July 24, 1971
+WTO
 
-Mar. 7, 1993
+Apr. 15, 1994
 
-T. Doc. 99–27.
+Oct. 23, 1996
+
+33 ILM 15.
 
 Georgia
 
@@ -2574,7 +2622,7 @@ May 16, 1995
 
 T. Doc. 99–27.
 
-Germany <sup>3,</sup> \\29\\<sup>,</sup> \\36\\ DPDApr. 15, 1892DApr. 15, 1892D27 Stat. 1021.
+Germany <sup>3,</sup> \\29\\<sup>,</sup> \\36\\ DP DApr. 15, 1892 DApr. 15, 1892 D27 Stat. 1021.
 
 &nbsp;
 
@@ -2676,7 +2724,7 @@ Jan. 1, 1995
 
 33 ILM 15.
 
-GhanaDUCCDSept. 6, 1952DAug. 22, 1962D6 UST 2731.
+Ghana DUCC DSept. 6, 1952 DAug. 22, 1962 D6 UST 2731.
 
 &nbsp;
 
@@ -2698,7 +2746,7 @@ Jan. 1, 1995
 
 33 ILM 15.
 
-GreeceDPmDFeb. 23, 1932DMar. 1, 1932D47 Stat. 2502.
+Greece DPm DFeb. 23, 1932 DMar. 1, 1932 D47 Stat. 2502.
 
 &nbsp;
 
@@ -2750,7 +2798,17 @@ Jan. 1, 1995
 
 33 ILM 15.
 
-GuatemalaDMCCDJan. 27, 1902DJune 30, 1908D35 Stat. 1934.
+Grenada
+
+WTO
+
+Apr. 15, 1994
+
+Feb. 22, 1996
+
+33 ILM 15.
+
+Guatemala DMCC DJan. 27, 1902 DJune 30, 1908 D35 Stat. 1934.
 
 &nbsp;
 
@@ -2792,7 +2850,7 @@ July 21, 1995
 
 33 ILM 15.
 
-GuineaDBerne (Paris)DJuly 24, 1971DNov. 20, 1980DT. Doc. 99–27.
+Guinea DBerne (Paris) DJuly 24, 1971 DNov. 20, 1980 DT. Doc. 99–27.
 
 &nbsp;
 
@@ -2824,7 +2882,7 @@ Oct. 25, 1995
 
 33 ILM 15.
 
-Guinea-BissauDBerne (Paris)DJuly 24, 1971DJuly 22, 1991DT. Doc. 99–27.
+Guinea-Bissau DBerne (Paris) DJuly 24, 1971 DJuly 22, 1991 DT. Doc. 99–27.
 
 &nbsp;
 
@@ -2848,7 +2906,7 @@ Jan. 1, 1995
 
 33 ILM 15.
 
-HaitiDBACDAug. 11, 1910DNov. 27, 1919D38 Stat. 1785.
+Haiti DBAC DAug. 11, 1910 DNov. 27, 1919 D38 Stat. 1785.
 
 &nbsp;
 
@@ -2860,9 +2918,29 @@ Sept. 16, 1955
 
 6 UST 2731.
 
+&nbsp;
+
+Berne (Paris)
+
+July 24, 1971
+
+Jan. 11, 1996
+
+T. Doc. 99–27.
+
+&nbsp;
+
+WTO
+
+Apr. 15, 1994
+
+Jan. 30, 1996
+
+33 ILM 15.
+
 Holy See (See entry under Vatican City).
 
-HondurasDMCCDJan. 27, 1902DJune 30, 1908D35 Stat. 1934.
+Honduras DMCC DJan. 27, 1902 DJune 30, 1908 D35 Stat. 1934.
 
 &nbsp;
 
@@ -2914,7 +2992,7 @@ Jan. 1, 1995
 
 33 ILM 15.
 
-Hungary <sup>3</sup>DCm <sup>7</sup>DJan. 30, 1912DOct. 16, 1912D37 Stat. 1631.
+Hungary <sup>3</sup> DCm <sup>7</sup> DJan. 30, 1912 DOct. 16, 1912 D37 Stat. 1631.
 
 &nbsp;
 
@@ -2986,7 +3064,7 @@ Jan. 1, 1995
 
 33 ILM 15.
 
-IcelandDBerne (Rome)DJune 2, 1928DSept. 7, 1947D123 LNTS 232.
+Iceland DBerne (Rome) DJune 2, 1928 DSept. 7, 1947 D123 LNTS 232.
 
 &nbsp;
 
@@ -3008,7 +3086,7 @@ Jan. 1, 1995
 
 33 ILM 15.
 
-India <sup>1,</sup> \\10\\DPmDOct. 21, 1954DAug. 15, 1947D5 UST 2529.
+India <sup>1,</sup> \\10\\ DPm DOct. 21, 1954 DAug. 15, 1947 D5 UST 2529.
 
 &nbsp;
 
@@ -3060,7 +3138,7 @@ Jan. 1, 1995
 
 33 ILM 15.
 
-IndonesiaDPDJuly 31, 1989DAug. 1, 1989D103 Stat. 3069.
+Indonesia DP DJuly 31, 1989 DAug. 1, 1989 D103 Stat. 3069.
 
 &nbsp;
 
@@ -3072,7 +3150,7 @@ Jan. 1, 1995
 
 33 ILM 15.
 
-Ireland <sup>1</sup>DPm \\11\\DSept. 28, 1929DOct. 1, 1929D46 Stat. 3005.
+Ireland <sup>1</sup> DPm \\11\\ DSept. 28, 1929 DOct. 1, 1929 D46 Stat. 3005.
 
 &nbsp;
 
@@ -3104,7 +3182,7 @@ Jan. 1, 1995
 
 33 ILM 15.
 
-Israel \\12\\DPmDMay 4, 1950DMay 15, 1948D64 Stat. A402.
+Israel \\12\\ DPm DMay 4, 1950 DMay 15, 1948 D64 Stat. A402.
 
 &nbsp;
 
@@ -3146,7 +3224,7 @@ Apr. 21, 1995
 
 33 ILM 15.
 
-ItalyDP \\13\\DOct. 31, 1892DOct. 31, 1892D27 Stat. 1043.
+Italy DP \\13\\ DOct. 31, 1892 DOct. 31, 1892 D27 Stat. 1043.
 
 &nbsp;
 
@@ -3280,7 +3358,7 @@ Mar. 9, 1995
 
 33 ILM 15.
 
-JapanDC \\15\\DNov. 10, 1905DMay 10, 1906D34 Stat. 2890.
+Japan DC \\15\\ DNov. 10, 1905 DMay 10, 1906 D34 Stat. 2890.
 
 &nbsp;
 
@@ -3372,7 +3450,7 @@ May 27, 1973
 
 6 UST 2731.
 
-KenyaDUCCDSept. 6, 1952DSept. 7, 1966D6 UST 2731.
+Kenya DUCC DSept. 6, 1952 DSept. 7, 1966 D6 UST 2731.
 
 &nbsp;
 
@@ -3434,7 +3512,7 @@ Aug. 6, 1908
 
 35 Stat. 2041.
 
-Korea, Republic ofDUCCDSept. 6, 1952DOct. 1, 1987D6 UST 2731.
+Korea, Republic of DUCC DSept. 6, 1952 DOct. 1, 1987 D6 UST 2731.
 
 UCC rev.
 
@@ -3453,6 +3531,26 @@ Oct. 10, 1987
 25 UST 309.
 
 &nbsp;
+
+WTO
+
+Apr. 15, 1994
+
+Jan. 1, 1995
+
+33 ILM 15.
+
+&nbsp;
+
+Berne (Paris)
+
+July 24, 1971
+
+Aug. 21, 1996
+
+T. Doc. 99–27.
+
+Kuwait
 
 WTO
 
@@ -3506,7 +3604,7 @@ May 31, 1995
 
 33 ILM 15.
 
-LiberiaDUCCDSept. 6, 1952DJuly 27, 1956D6 UST 2731.
+Liberia DUCC DSept. 6, 1952 DJuly 27, 1956 D6 UST 2731.
 
 &nbsp;
 
@@ -3528,7 +3626,7 @@ Sept. 28, 1976
 
 T. Doc. 99–27.
 
-LiechtensteinDBerne (Brussels)DJune 26, 1948DAug. 1, 1951D331 UNTS 217.
+Liechtenstein DBerne (Brussels) DJune 26, 1948 DAug. 1, 1951 D331 UNTS 217.
 
 &nbsp;
 
@@ -3560,7 +3658,7 @@ Dec. 14, 1994
 
 T. Doc. 99–27.
 
-LuxembourgDPDJune 29, 1910DJune 29, 1910D36 Stat. 2716.
+Luxembourg DP DJune 29, 1910 DJune 29, 1910 D36 Stat. 2716.
 
 &nbsp;
 
@@ -3622,7 +3720,7 @@ Jan. 1, 1995
 
 33 ILM 15.
 
-MadagascarDBerne (Brussels)DJune 26, 1948DJan. 1, 1966D331 UNTS 217.
+Madagascar DBerne (Brussels) DJune 26, 1948 DJan. 1, 1966 D331 UNTS 217.
 
 &nbsp;
 
@@ -3634,7 +3732,7 @@ Nov. 17, 1995
 
 33 ILM 15.
 
-MalawiDUCCDSept. 6, 1952DOct. 26, 1965D6 UST 2731.
+Malawi DUCC DSept. 6, 1952 DOct. 26, 1965 D6 UST 2731.
 
 &nbsp;
 
@@ -3656,7 +3754,7 @@ May 31, 1995
 
 33 ILM 15.
 
-MalaysiaDBerne (Paris)DJuly 24, 1971DOct. 1, 1990DT. Doc. 99–27.
+Malaysia DBerne (Paris) DJuly 24, 1971 DOct. 1, 1990 DT. Doc. 99–27.
 
 &nbsp;
 
@@ -3690,7 +3788,7 @@ May 31, 1995
 
 33 ILM 15.
 
-MaltaDBerne (Rome)DJune 2, 1928DSept. 21, 1964D123 LNTS 232.
+Malta DBerne (Rome) DJune 2, 1928 DSept. 21, 1964 D123 LNTS 232.
 
 &nbsp;
 
@@ -3712,7 +3810,7 @@ Jan. 1, 1995
 
 33 ILM 15.
 
-MauritaniaDBerne (Paris)DJuly 24, 1971DSept. 21, 1976DT. Doc. 99–27.
+Mauritania DBerne (Paris) DJuly 24, 1971 DSept. 21, 1976 DT. Doc. 99–27.
 
 &nbsp;
 
@@ -3724,7 +3822,7 @@ May 31, 1995
 
 33 ILM 15.
 
-MauritiusDUCCDSept. 6, 1952DMar. 12, 1968D6 UST 2731.
+Mauritius DUCC DSept. 6, 1952 DMar. 12, 1968 D6 UST 2731.
 
 &nbsp;
 
@@ -3746,7 +3844,7 @@ Jan. 1, 1995
 
 33 ILM 15.
 
-MexicoDPDFeb. 27, 1896DFeb. 27, 1896D29 Stat. 877.
+Mexico DP DFeb. 27, 1896 DFeb. 27, 1896 D29 Stat. 877.
 
 &nbsp;
 
@@ -3838,7 +3936,7 @@ Nov. 2, 1995
 
 T. Doc. 99–27.
 
-MonacoDPmDOct. 15, 1952DOct. 15, 1952D67 Stat. C16.
+Monaco DPm DOct. 15, 1952 DOct. 15, 1952 D67 Stat. C16.
 
 &nbsp;
 
@@ -3880,7 +3978,7 @@ Dec. 13, 1974
 
 25 UST 1341.
 
-MoroccoDUCCDSept. 6, 1952DMay 8, 1972D6 UST 2731.
+Morocco DUCC DSept. 6, 1952 DMay 8, 1972 D6 UST 2731.
 
 &nbsp;
 
@@ -3944,7 +4042,7 @@ Jan. 1, 1995
 
 33 ILM 15.
 
-Netherlands and PossessionsDPDNov. 20, 1899DNov. 20, 1899D31 Stat. 1961.
+Netherlands and Possessions DP DNov. 20, 1899 DNov. 20, 1899 D31 Stat. 1961.
 
 &nbsp;
 
@@ -4016,7 +4114,7 @@ Jan. 1, 1995
 
 33 ILM 15.
 
-New Zealand <sup>1</sup>DPmDFeb. 9, 1917DDec. 1, 1916D39 Stat. 1815.
+New Zealand <sup>1</sup> DPm DFeb. 9, 1917 DDec. 1, 1916 D39 Stat. 1815.
 
 &nbsp;
 
@@ -4088,7 +4186,7 @@ Jan. 1, 1995
 
 33 ILM 15.
 
-NicaraguaDMCCDJan. 27, 1902DJune 30, 1908D35 Stat. 1934.
+Nicaragua DMCC DJan. 27, 1902 DJune 30, 1908 D35 Stat. 1934.
 
 &nbsp;
 
@@ -4130,7 +4228,7 @@ Sept. 3, 1995
 
 33 ILM 15.
 
-NigerDBerne (Paris)DJuly 24, 1971DMay 21, 1975DT. Doc. 99–27.
+Niger DBerne (Paris) DJuly 24, 1971 DMay 21, 1975 DT. Doc. 99–27.
 
 &nbsp;
 
@@ -4152,7 +4250,17 @@ May 15, 1989
 
 25 UST 1341.
 
-NigeriaDUCCDSept. 6, 1952DFeb. 14, 1962D6 UST 2731.
+&nbsp;
+
+WTO
+
+Apr. 15, 1994
+
+Dec. 13, 1996
+
+33 ILM 15.
+
+Nigeria DUCC DSept. 6, 1952 DFeb. 14, 1962 D6 UST 2731.
 
 &nbsp;
 
@@ -4174,7 +4282,7 @@ Jan. 1, 1995
 
 33 ILM 15.
 
-NorwayDPDJuly 1, 1905DJuly 1, 1905D34 Stat. 3111.
+Norway DP DJuly 1, 1905 DJuly 1, 1905 D34 Stat. 3111.
 
 &nbsp;
 
@@ -4246,7 +4354,7 @@ Jan. 1, 1995
 
 33 ILM 15.
 
-Pakistan <sup>1</sup>DBerne (Rome)DJune 2, 1928DJuly 5, 1948D123 LNTS 232.
+Pakistan <sup>1</sup> DBerne (Rome) DJune 2, 1928 DJuly 5, 1948 D123 LNTS 232.
 
 &nbsp;
 
@@ -4268,7 +4376,9 @@ Jan. 1, 1995
 
 33 ILM 15.
 
-Palestine (excluding Trans-Jordan) DPmDSept. 29, 1933DOct. 1, 1933D48 Stat. 1713.
+Palestine (excluding Trans-Jordan) DPm DSept. 29, 1933 DOct. 1, 1933 D48 Stat. 1713.
+
+&nbsp;
 
 Pxx \\12\\
 
@@ -4278,6 +4388,8 @@ Mar. 10, 1944
 
 58 Stat. 1129.
 
+&nbsp;
+
 Po \\12\\
 
 May 26, 1950
@@ -4286,7 +4398,7 @@ Dec. 29, 1950
 
 64 Stat. A412.
 
-PanamaDBACDAug. 11, 1910DNov. 25, 1913D38 Stat. 1785.
+Panama DBAC DAug. 11, 1910 DNov. 25, 1913 D38 Stat. 1785.
 
 &nbsp;
 
@@ -4328,7 +4440,27 @@ Sept. 25, 1985
 
 T. Doc. 98–31.
 
-ParaguayDBACDAug. 11, 1910DSept. 20, 1917D38 Stat. 1785.
+&nbsp;
+
+Berne (Paris)
+
+July 24, 1971
+
+June 8, 1996
+
+T. Doc. 99–27.
+
+Papua New Guinea
+
+WTO
+
+Apr. 15, 1994
+
+June 9, 1996
+
+33 ILM 15.
+
+Paraguay DBAC DAug. 11, 1910 DSept. 20, 1917 D38 Stat. 1785.
 
 &nbsp;
 
@@ -4370,7 +4502,7 @@ Jan. 1, 1995
 
 33 ILM 15.
 
-PeruDBACDAug. 11, 1910DApr. 30, 1920D38 Stat. 1785.
+Peru DBAC DAug. 11, 1910 DApr. 30, 1920 D38 Stat. 1785.
 
 &nbsp;
 
@@ -4432,7 +4564,7 @@ Jan. 1, 1995
 
 33 ILM 15.
 
-PhilippinesDPmDOct. 21, 1948DOct. 21, 1948D62 Stat. 1568.
+Philippines DPm DOct. 21, 1948 DOct. 21, 1948 D62 Stat. 1568.
 
 &nbsp;
 
@@ -4464,7 +4596,7 @@ Jan. 1, 1995
 
 33 ILM 15.
 
-PolandDPmDFeb. 14, 1927DFeb. 16, 1927D44 Stat. 2634.
+Poland DPm DFeb. 14, 1927 DFeb. 16, 1927 D44 Stat. 2634.
 
 &nbsp;
 
@@ -4506,7 +4638,7 @@ July 1, 1995
 
 33 ILM 15.
 
-PortugalDPDJuly 20, 1893DJuly 20, 1893D28 Stat. 1222.
+Portugal DP DJuly 20, 1893 DJuly 20, 1893 D28 Stat. 1222.
 
 &nbsp;
 
@@ -4558,7 +4690,27 @@ Jan. 1, 1995
 
 33 ILM 15.
 
-RomaniaDPm \\22\\DMay 14, 1928DMay 14, 1928D45 Stat. 2949.
+&nbsp;
+
+Pcss
+
+May 21, 1974
+
+Mar. 11, 1996
+
+T. Doc. 98–31.
+
+Qatar
+
+WTO
+
+Apr. 15, 1994
+
+Jan. 13, 1996
+
+33 ILM 15.
+
+Romania DPm \\22\\ DMay 14, 1928 DMay 14, 1928 D45 Stat. 2949.
 
 &nbsp;
 
@@ -4590,7 +4742,7 @@ Jan. 1, 1995
 
 33 ILM 15.
 
-Russian FederationDUCCDSept. 6, 1952DMay 27, 1973D6 UST 2731.
+Russian Federation DUCC DSept. 6, 1952 DMay 27, 1973 D6 UST 2731.
 
 &nbsp;
 
@@ -4632,7 +4784,7 @@ Mar. 13, 1995
 
 25 UST 309.
 
-RwandaDBerne (Paris)DJuly 24, 1971DMar. 1, 1984DT. Doc. 99–27.
+Rwanda DBerne (Paris) DJuly 24, 1971 DMar. 1, 1984 DT. Doc. 99–27.
 
 &nbsp;
 
@@ -4654,15 +4806,27 @@ Nov. 10, 1989
 
 25 UST 1341.
 
-St. Kitts and Nevis
+&nbsp;
 
-Berne (Paris)
+WTO
 
-July 24, 1971
+Apr. 15, 1994
 
-Apr. 9, 1995
+May 22, 1996
 
-T. Doc. 99–27.
+33 ILM 15.
+
+St. Kitts and Nevis DBerne (Paris) DJuly 24, 1971 DApr. 9, 1995 DT. Doc. 99–27.
+
+&nbsp;
+
+WTO
+
+Apr. 15, 1994
+
+Feb. 21, 1996
+
+33 ILM 15.
 
 Saint Lucia DBerne (Paris) DJuly 24, 1971 DAug. 24, 1993 DT. Doc. 99–27.
 
@@ -4676,7 +4840,7 @@ Jan. 1, 1995
 
 33 ILM 15.
 
-Saint Vincent and the GrenadinesDUCCDSept. 6, 1952DApr. 22, 1985D6 UST 2731.
+Saint Vincent and the Grenadines DUCC DSept. 6, 1952 DApr. 22, 1985 D6 UST 2731.
 
 &nbsp;
 
@@ -4720,7 +4884,7 @@ July 13, 1994
 
 25 UST 1341.
 
-SenegalDUCCDSept. 6, 1952DJuly 9, 1974D6 UST 2731.
+Senegal DUCC DSept. 6, 1952 DJuly 9, 1974 D6 UST 2731.
 
 &nbsp;
 
@@ -4762,7 +4926,7 @@ July 23, 1995
 
 33 ILM 15.
 
-SingaporeDPDMay 18, 1987DMay 18, 1987D101 Stat. 2134.
+Singapore DP DMay 18, 1987 DMay 18, 1987 D101 Stat. 2134.
 
 &nbsp;
 
@@ -4816,7 +4980,7 @@ Jan. 1, 1995
 
 33 ILM 15.
 
-SloveniaDUCCDSept. 6, 1952DMay 11, 1966D6 UST 2731.
+Slovenia DUCC DSept. 6, 1952 DMay 11, 1966 D6 UST 2731.
 
 &nbsp;
 
@@ -4858,7 +5022,27 @@ July 30, 1995
 
 33 ILM 15.
 
-South Africa <sup>1</sup>DPmDJune 26, 1924DJuly 1, 1924D43 Stat. 1957.
+&nbsp;
+
+Pg
+
+Oct. 29, 1971
+
+Oct. 15, 1996
+
+25 UST 309.
+
+Solomon Islands
+
+WTO
+
+Apr. 15, 1994
+
+July 26, 1996
+
+33 ILM 15.
+
+South Africa <sup>1</sup> DPm DJune 26, 1924 DJuly 1, 1924 D43 Stat. 1957.
 
 &nbsp;
 
@@ -4880,7 +5064,7 @@ Jan. 1, 1995
 
 33 ILM 15.
 
-Spain <sup>5</sup>DP \\24\\DJuly 10, 1895DJuly 10, 1895D29 Stat. 871.
+Spain <sup>5</sup> DP \\24\\ DJuly 10, 1895 DJuly 10, 1895 D29 Stat. 871.
 
 &nbsp;
 
@@ -4952,7 +5136,7 @@ Jan. 1, 1995
 
 33 ILM 15.
 
-Sri Lanka (formerly Ceylon)DBerne (Rome)DJune 2, 1928DJuly 20, 1959D123 LNTS 232.
+Sri Lanka (formerly Ceylon) DBerne (Rome) DJune 2, 1928 DJuly 20, 1959 D123 LNTS 232.
 
 &nbsp;
 
@@ -4984,7 +5168,7 @@ Jan. 1, 1995
 
 33 ILM 15.
 
-SurinameDBerne (Paris)DJuly 24, 1971DFeb. 23, 1977DT. Doc. 99–27.
+Suriname DBerne (Paris) DJuly 24, 1971 DFeb. 23, 1977 DT. Doc. 99–27.
 
 &nbsp;
 
@@ -5006,7 +5190,7 @@ Jan. 1, 1995
 
 33 ILM 15.
 
-SwedenDPDMay 26, 1911DJune 1, 1911D37 Stat. 1682.
+Sweden DP DMay 26, 1911 DJune 1, 1911 D37 Stat. 1682.
 
 &nbsp;
 
@@ -5068,7 +5252,7 @@ Jan. 1, 1995
 
 33 ILM 15.
 
-SwitzerlandDPDJuly 1, 1891DJuly 1, 1891D27 Stat. 981.
+Switzerland DP DJuly 1, 1891 DJuly 1, 1891 D27 Stat. 981.
 
 &nbsp;
 
@@ -5172,7 +5356,7 @@ Jan. 1, 1995
 
 33 ILM 15.
 
-ThailandDT \\25\\DDec. 16, 1920DSept. 1, 1921D42 Stat. 1928.
+Thailand DT \\25\\ DDec. 16, 1920 DSept. 1, 1921 D42 Stat. 1928.
 
 &nbsp;
 
@@ -5214,7 +5398,7 @@ Sept. 2, 1995
 
 T. Doc. 99–27.
 
-TogoDBerne (Paris)DJuly 24, 1971DApr. 30, 1975DT. Doc. 99–27.
+Togo DBerne (Paris) DJuly 24, 1971 DApr. 30, 1975 DT. Doc. 99–27.
 
 &nbsp;
 
@@ -5226,7 +5410,7 @@ May 31, 1995
 
 33 ILM 15.
 
-Trinidad and TobagoDBerne (Paris)DJuly 24, 1971DAug. 16, 1988DT. Doc. 99–27.
+Trinidad and Tobago DBerne (Paris) DJuly 24, 1971 DAug. 16, 1988 DT. Doc. 99–27.
 
 &nbsp;
 
@@ -5268,7 +5452,7 @@ Mar. 1, 1995
 
 33 ILM 15.
 
-TunisiaDP \\26\\DOct. 4, 1912DOct. 4, 1912D37 Stat. 1765.
+Tunisia DP \\26\\ DOct. 4, 1912 DOct. 4, 1912 D37 Stat. 1765.
 
 &nbsp;
 
@@ -5310,7 +5494,7 @@ Mar. 29, 1995
 
 33 ILM 15.
 
-TurkeyDBerne (Brussels)DJune 26, 1948DJan. 1, 1952D331 UNTS 217.
+Turkey DBerne (Paris) DJuly 24, 1971 DJan. 1, 1996 DT. Doc. 99–27.
 
 &nbsp;
 
@@ -5344,7 +5528,17 @@ Oct. 25, 1995
 
 T. Doc. 99–27.
 
-United Kingdom <sup>1</sup>DUCCDSept. 6, 1952DSept. 27, 1957D6 UST 2731.
+United Arab Emirates
+
+WTO
+
+Apr. 15, 1994
+
+Apr. 10, 1996
+
+33 ILM 15.
+
+United Kingdom <sup>1</sup> DUCC DSept. 6, 1952 DSept. 27, 1957 D6 UST 2731.
 
 &nbsp;
 
@@ -5386,7 +5580,7 @@ Jan. 1, 1995
 
 33 ILM 15.
 
-United Kingdom and Possessions <sup>1</sup>DPDJuly 1, 1891DJuly 1, 1891D27 Stat. 981.
+United Kingdom and Possessions <sup>1</sup> DP DJuly 1, 1891 DJuly 1, 1891 D27 Stat. 981.
 
 &nbsp;
 
@@ -5434,7 +5628,7 @@ Dec. 29, 1950
 
 64 Stat. A412.
 
-UruguayDBACDAug. 11, 1910DDec. 17, 1919D38 Stat. 1785.
+Uruguay DBAC DAug. 11, 1910 DDec. 17, 1919 D38 Stat. 1785.
 
 &nbsp;
 
@@ -5518,7 +5712,7 @@ May 6, 1980
 
 25 UST 1341.
 
-VenezuelaDUCCDSept. 6, 1952DSept. 30, 1966D6 UST 2731.
+Venezuela DUCC DSept. 6, 1952 DSept. 30, 1966 D6 UST 2731.
 
 &nbsp;
 
@@ -5550,7 +5744,7 @@ Jan. 1, 1995
 
 33 ILM 15.
 
-Yugoslavia \\38\\ DUCCDSept. 6, 1952 DMay 11, 1966 D6 UST 2731.
+Yugoslavia \\38\\ DUCC DSept. 6, 1952 DMay 11, 1966 D6 UST 2731.
 
 &nbsp;
 
@@ -5582,7 +5776,7 @@ Aug. 25, 1979
 
 T. Doc. 98–31.
 
-ZaireDBerne (Paris)DJuly 24, 1971DJan. 31, 1975DT. Doc. 99–27.
+Zaire DBerne (Paris) DJuly 24, 1971 DJan. 31, 1975 DT. Doc. 99–27.
 
 &nbsp;
 
@@ -5594,7 +5788,7 @@ Nov. 29, 1977
 
 25 UST 309.
 
-ZambiaDUCCDSept. 6, 1952DJune 1, 1965D6 UST 2731.
+Zambia DUCC DSept. 6, 1952 DJune 1, 1965 D6 UST 2731.
 
 &nbsp;
 
@@ -5616,7 +5810,7 @@ Jan. 1, 1995
 
 33 ILM 15.
 
-ZimbabweDBerne (Rome)DJune 2, 1928DApr. 18, 1980D123 LNTS 232.
+Zimbabwe DBerne (Rome) DJune 2, 1928 DApr. 18, 1980 D123 LNTS 232.
 
 &nbsp;
 
@@ -5666,7 +5860,7 @@ The copyright proclamations of July 1, 1891, April 9, 1910, January 1, 1915, Apr
 
 <sup>18</sup> The proclamation of November 10, 1953, extends benefits under the copyright law for a period of four years from the coming into force of the Treaty of Peace with Japan (TIAS 2490). That period expired April 28, 1956.
 
-<sup>19</sup> Copyright convention with Japan for reciprocal protection in Korea of inventions, designs, trademarks, and copyrights, signed at Washington, May 19, 1908 (TS 506). This convention is considered as having been abrogated on April 22, 1953, pursuant to the provisions of Article 7 of the Treaty of Peace with Japan signed at San Francisco, September 8, 1951 (TIAS 2490), since it was not included in the notification which was given on behalf of theUnited States Government to the Japanese Government on April 22, 1953, indicating the pre-war bilateral treaties or conventions which the United States wished to continue in force or revive.
+<sup>19</sup> Copyright convention with Japan for reciprocal protection in Korea of inventions, designs, trademarks, and copyrights, signed at Washington, May 19, 1908 (TS 506). This convention is considered as having been abrogated on April 22, 1953, pursuant to the provisions of Article 7 of the Treaty of Peace with Japan signed at San Francisco, September 8, 1951 (TIAS 2490), since it was not included in the notification which was given on behalf of the United States Government to the Japanese Government on April 22, 1953, indicating the pre-war bilateral treaties or conventions which the United States wished to continue in force or revive.
 
 <sup>20</sup> Belize notified the Director-General of UNESCO on December 1, 1982, of its decision to apply “provisionally, and on the basis of reciprocity” the Universal Copyright Convention as adopted at Geneva on September 6, 1952, the application of which had been extended to its territory before the attainment of independence from the United Kingdom on September 21, 1981.
 
@@ -5716,9 +5910,9 @@ WHEREAS satisfactory official assurances have been received that, since April 15
 
 WHEREAS, pursuant to Article 2 of the Law No. 8, Industrial, Literary and Artistic Property Rights of Foreign Nations and Nationals, promulgated by the Allied High Commission for Germany on October 20, 1949, literary or artistic property rights in Germany owned by United States nationals at the commencement of or during the state of war between Germany and the United States of America which were transferred, seized, requisitioned, revoked or otherwise impaired by war measures, whether legislative, judicial or administrative, were, upon request made prior to October 3, 1950, restored to such United States nationals or their legal successors; and
 
-WHEREAS, pursuant to Article 5 of the aforesaid law, any literary or artistic property right in Germany owned by a United States national at the commencement of or during the state of war between Germany and the United States of America was, upon request made prior to October 3, 1950, extended in term for a period corresponding to the inclusive time from the date of the commencement of the state of war, or such later date on which such right came in existence, to September 30, 1949; and
+WHEREAS, pursuant to Article 5 of the aforesaid law, any literary or artistic property right in Germanyowned by a United States national at the commencement of or during the state of war between Germany and the United States of America was, upon request made prior to October 3, 1950, extended in term for a period corresponding to the inclusive time from the date of the commencement of the state of war, or such later date on which such right came in existence, to September 30, 1949; and
 
-WHEREAS, by virtue of a proclamation by the President of the United States of America dated May 25,1922, 42 Stat. 2271, German citizens are and have been entitled to the benefits of the act of Congress approved March 4, 1909, 35 Stat. 1075, as amended, including the benefits of Section 1(e) of the aforementioned Title 17 of the United States Code \[section 1(e) of former Title 17\]; and
+WHEREAS, by virtue of a proclamation by the President of the United States of America dated May 25, 1922, 42 Stat. 2271, German citizens are and have been entitled to the benefits of the act of Congress approved March 4, 1909, 35 Stat. 1075, as amended, including the benefits of Section 1(e) of the aforementioned Title 17 of the United States Code \[section 1(e) of former Title 17\]; and
 
 WHEREAS, a letter of February 6, 1950, from the Chancellor of the Federal Republic of Germany to the Chairman of the Allied High Commission for Germany established the mutual understanding that reciprocal copyright relations continued in effect between the Federal Republic of Germany and the United States of America:
 

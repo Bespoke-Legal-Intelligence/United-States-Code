@@ -26,13 +26,15 @@ A decision that proposes to limit the application of a court decision shall be p
 
 The Secretary may make available in writing or through electronic media, in an efficient, comprehensive and timely manner, all information, including directives, memoranda, electronic messages and telexes which contain instructions, requirements, methods or advice necessary for importers and exporters to comply with the Customs <sup>1</sup> laws and regulations. All information which may be made available pursuant to this subsection shall be subject to any exemption from disclosure provided by section 552 of title 5.
 
-(June 17, 1930, ch. 497, title IV, §625, as added Oct. 3, 1978, Pub. L. 95–410, title I, §112, 92 Stat. 898; amended Dec. 8, 1993, Pub. L. 103–182, title VI, §623, 107 Stat. 2186.)
+(June 17, 1930, ch. 497, title IV, §625, as added Oct. 3, 1978, Pub. L. 95–410, title I, §112, 92 Stat. 898; amended Dec. 8, 1993, Pub. L. 103–182, title VI, §623, 107 Stat. 2186; Oct. 11, 1996, Pub. L. 104–295, §21(e)(14), 110 Stat. 3531.)
 
 #### References in Text
 
 The Customs laws, referred to in subsec. (e), are classified generally to this title.
 
 #### Amendments
+
+1996—Subsec. (a). Pub. L. 104–295 made technical amendment to reference in original act which appears in text as reference to “this chapter”.
 
 1993—Pub. L. 103–182 amended section generally. Prior to amendment, section read as follows: “Within 120 days after issuing any precedential decision (including any ruling letter, internal advice memorandum, or protest review decision) under this chapter with respect to any customs transaction, the Secretary shall have such decision published in the Customs Bulletin or shall otherwise make such decision available for public inspection.”
 

@@ -8,7 +8,7 @@
 
 (C) The appointed members shall be selected from among leaders in the various fields of the fundamental sciences, medicine, dentistry, public health, hospital administration, pharmacology, health communications technology, or scientific or medical library work, or in public affairs. At least six of the appointed members shall be selected from among leaders in the fields of medical, dental, or public health research or education.
 
-(2) The Board shall annually elect one of the appointed members to serve as chairman until the next election. The Secretary shall designate a member of the Library staff to act as executive secretary of the Board.
+(2) The Board shall annually elect one of the appointed members to serve as chairman untilthe next election. The Secretary shall designate a member of the Library staff to act as executive secretary of the Board.
 
 #### (b) Recommendations on matters of policy; recommendations included in annual report; use of services of members by Secretary
 

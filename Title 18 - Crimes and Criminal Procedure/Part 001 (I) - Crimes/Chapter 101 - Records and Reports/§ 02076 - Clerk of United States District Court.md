@@ -1,8 +1,8 @@
 ### §2076. Clerk of United States District Court
 
-Whoever, being a clerk of a district court of the United States, willfully refuses or neglects to make or forward any report, certificate, statement, or document as required by law, shall be fined not more than $1,000 or imprisoned not more than one year.
+Whoever, being a clerk of a district court of the United States, willfully refuses or neglects to make or forward any report, certificate, statement, or document as required by law, shall be fined under this title or imprisoned not more than one year, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 796.)
+(June 25, 1948, ch. 645, 62 Stat. 796; Oct. 11, 1996, Pub. L. 104–294, title VI, §601(a)(11), 110 Stat. 3498.)
 
 #### Historical and Revision Notes
 
@@ -13,6 +13,10 @@ The reference to the offense as a misdemeanor was omitted as unnecessary in view
 The last sentence providing that conviction should not be a condition precedent to removal from office was omitted as unnecessary.
 
 Minor changes were made in phraseology.
+
+#### Amendments
+
+1996—Pub. L. 104–294 substituted “fined under this title or imprisoned not more than one year, or both” for “fined not more than $1,000 or imprisoned not more than one year” before period at end.
 
 #### Cross References
 

@@ -16,7 +16,9 @@ Effectiveness.—This section is effective only after Amtrak or a rail carrier s
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

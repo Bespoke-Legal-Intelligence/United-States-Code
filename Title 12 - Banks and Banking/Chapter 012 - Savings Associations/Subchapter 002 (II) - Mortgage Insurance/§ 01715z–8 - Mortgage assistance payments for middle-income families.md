@@ -18,7 +18,7 @@ The interest subsidy payments authorized by this section shall cease when (1) th
 
 (2) In addition to the mortgages eligible for assistance under paragraph (1) of this subsection, the Secretary is authorized to make periodic assistance payments on behalf of cooperative members of middle income. Such assistance payments shall be accomplished through interest subsidy payments to the investor with respect to mortgages insured (subsequent to July 24, 1970) under section 1715e of this title which are executed by cooperatives, the membership in which is limited to middle-income families. For purposes of this paragraph—
 
-&emsp;(A) the term “mortgagor”, when used in subsection (b) of this section in the case of a mortgage covering a cooperative housing project, means a member of the cooperative;
+&emsp;(A) the term “mortgagor”, when used in subsection (b) of this section in the case of amortgage covering a cooperative housing project, means a member of the cooperative;
 
 &emsp;(B) the term “acquisition of the property”, when used in subsection (b) of this section, means the family's application for a dwelling unit; and
 
@@ -50,7 +50,7 @@ In determining the income of any family for the purposes of this section, income
 
 (1) The Secretary is authorized, upon application by the mortgagee, to insure a mortgage executed by a mortgagor who meets the eligibility requirements for assistance payments prescribed by the Secretary under subsection (b) of this section. Commitments for the insurance of such mortgages may be issued by the Secretary prior to the date of their execution or disbursement thereon, upon such terms and conditions as the Secretary may prescribe.
 
-(2) To be eligible for insurance under this subsection, a mortgage shall meet the requirementsof section 1715<i>l</i>(d)(2) or 1715y(c) of this title, except as such requirements are modified by this subsection: <i>Provided, however</i>, That in the discretion of the Secretary 25 per centum of the authority conferred by this section and subject to all the terms thereof may be used for mortgages on existing housing.
+(2) To be eligible for insurance under this subsection, a mortgage shall meet the requirements of section 1715<i>l</i>(d)(2) or 1715y(c) of this title, except as such requirements are modified by this subsection: <i>Provided, however</i>, That in the discretion of the Secretary 25 per centum of the authority conferred by this section and subject to all the terms thereof may be used for mortgages on existing housing.
 
 (3) A mortgage to be insured under this section shall—
 

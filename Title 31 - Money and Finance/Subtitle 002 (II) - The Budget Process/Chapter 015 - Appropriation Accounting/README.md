@@ -51,11 +51,13 @@
 | [1555\.](Subchapter%20004%20%28IV%29%20-%20Closing%20Accounts/%C2%A7%2001555%20-%20Closing%20of%20appropriation%20accounts%20available%20for%20indefinite%20periods.md) | Closing of appropriation accounts available for indefinite periods. |
 | [1556\.](Subchapter%20004%20%28IV%29%20-%20Closing%20Accounts/%C2%A7%2001556%20-%20Comptroller%20General%20reports%20on%20appropriation%20accounts.md) | Comptroller General: reports on appropriation accounts. |
 | [1557\.](Subchapter%20004%20%28IV%29%20-%20Closing%20Accounts/%C2%A7%2001557%20-%20Authority%20for%20exemptions%20in%20appropriation%20laws.md) | Authority for exemptions in appropriation laws. |
-| [1558\.](Subchapter%20004%20%28IV%29%20-%20Closing%20Accounts/%C2%A7%2001558%20-%20Availability%20of%20funds%20following%20resolution%20of%20a%20protest.md) | Availability of funds following resolution of a protest. |
+| [1558\.](Subchapter%20004%20%28IV%29%20-%20Closing%20Accounts/%C2%A7%2001558%20-%20Availability%20of%20funds%20following%20resolution%20of%20a%20formal%20protest%20or%20other%20challenge.md) | Availability of funds following resolution of a formal protest or other challenge. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1996—Pub. L. 104–106, div. E, title LV, §5502(c), Feb. 10, 1996, 110 Stat. 699, substituted “of a formal protest or other challenge” for “of a protest” in item 1558.
 
 1992—Pub. L. 102–484, div. A, title X, §1054(e)(1), Oct. 23, 1992, 106 Stat. 2503, substituted “Definitions; applicability of subchapter” for “Definitions and application” in item 1551 and “Procedure for appropriation accounts available for definite periods” for “Audit, control, and reporting” in item 1552.
 

@@ -20,7 +20,7 @@ For the purposes of this section—
 
 #### (c) Authorization to insure; prohibition of premiums on guarantees of principal and interest under title VII of the Public Health Service Act
 
-The Secretary is authorized to insure any mortgage (including advances on such mortgage during construction) in accordance with the provisions of this section upon such terms and conditions as he may prescribe and to make commitments for insurance of such mortgage priorto the date of its execution or disbursement thereon. No mortgage insurance premium shall be charged with respect to the amount of principal and interest guaranteed by the Department of Health and Human Services under title VII of the Public Health Service Act \[42 U.S.C. 292 et seq.\].
+The Secretary is authorized to insure any mortgage (including advances on such mortgage during construction) in accordance with the provisions of this section upon such terms and conditions as he may prescribe and to make commitments for insurance of such mortgage prior to the date of its execution or disbursement thereon. No mortgage insurance premium shall be charged with respect to the amount of principal and interest guaranteed by the Department of Health and Human Services under title VII of the Public Health Service Act \[42 U.S.C. 292 et seq.\].
 
 #### (d) Insurance of mortgages covering new or rehabilitated hospitals, including equipment; terms and conditions
 
@@ -28,7 +28,7 @@ In order to carry out the purpose of this section, the Secretary is authorized t
 
 &emsp;(1) The mortgage shall be executed by a mortgagor approved by the Secretary. The Secretary may in his discretion require any such mortgagor to be regulated or restricted as to charges and methods of financing, and, in addition thereto, if the mortgagor is a corporate entity, as to capital structure and rate of return. As an aid to the regulation or restriction of any mortgagor with respect to any of the foregoing matters, the Secretary may make such contracts with and acquire for not to exceed $100 such stock or interest in such mortgagor as he may deem necessary. Any stock or interest so purchased shall be paid for out of the General Insurance Fund, and shall be redeemed by the mortgagor at par upon the termination of all obligations of the Secretary under the insurance.
 
-&emsp;(2) The mortgage shall involve a principal obligation in the amount requested by the mortgagor if such amount does not exceed 90 percent of the estimated replacement cost of the property or project including—
+&emsp;(2) The mortgage shall involve a principal obligation in the amount requested by themortgagor if such amount does not exceed 90 percent of the estimated replacement cost of the property or project including—
 
 &emsp;&emsp;(A) equipment to be used in the operation of the hospital, when the proposed improvements are completed and the equipment is installed; and
 
@@ -46,11 +46,11 @@ In order to carry out the purpose of this section, the Secretary is authorized t
 
 &emsp;&emsp;(A) a written application for such insurance or modification submitted at the express direction of the hospital has been submitted to the appropriate office of the Department of Health and Human Services prior to March 29, 1979; or
 
-&emsp;&emsp;(B) in the case of a nonprofit mortgagor which is seeking refinancing or modificationof an existing mortgage insured pursuant to this section or section 1715n(f) of this title, the mortgagor (i) had engaged an investment banker for the purpose of obtaining such refinancing or modification, or had undertaken or arranged for the undertaking of a market or feasibility study with respect to the advisability of obtaining such refinancing or modification, and had made written notification of its interest in such refinancing or modification to the Department of Health and Human Services or the Department of Housing and Urban Development prior to June 7, 1979; and (ii) receives from the programs established under titles XVIII \[42 U.S.C. 1395 et seq.\] and XIX \[42 U.S.C. 1396 et seq.\] of the Social Security Act a percentage of its total revenue which is greater than 125 per centum of the national average for hospitals which derive revenue from such titles.
+&emsp;&emsp;(B) in the case of a nonprofit mortgagor which is seeking refinancing or modification of an existing mortgage insured pursuant to this section or section 1715n(f) of this title, the mortgagor (i) had engaged an investment banker for the purpose of obtaining such refinancing or modification, or had undertaken or arranged for the undertaking of a market or feasibility study with respect to the advisability of obtaining such refinancing or modification, and had made written notification of its interest in such refinancing or modification to the Department of Health and Human Services or the Department of Housing and Urban Development prior to June 7, 1979; and (ii) receives from the programs established under titles XVIII \[42 U.S.C. 1395 et seq.\] and XIX \[42 U.S.C. 1396 et seq.\] of the Social Security Act a percentage of its total revenue which is greater than 125 per centum of the national average for hospitals which derive revenue from such titles.
 
 > &emsp;This paragraph shall not limit the authority of the Secretary to approve a mortgage increase on any mortgage eligible for insurance under this paragraph at any time prior to final endorsement of the loan for insurance; except that such mortgage increase may not be approved for the cost of constructing any improvements not included in the original plans and specifications approved by the Department of Health and Human Services unless approved by the Secretary of Housing and Urban Development and by the Secretary of Health and Human Services.
 
-&emsp;(6) To the extent that a private nonprofit or public facility mortgagor is required by the Secretary to provide cash equity in excess of the amount of the mortgage to complete the project, the mortgagor shall be entitled, at the option of the mortgagee, to fund the excess with a letter of credit. In such event, mortgage proceeds may be advanced to the mortgagor prior to any demand being made on the letter of credit.
+&emsp;(6) To the extent that a private nonprofit or public facility mortgagor is required by theSecretary to provide cash equity in excess of the amount of the mortgage to complete the project, the mortgagor shall be entitled, at the option of the mortgagee, to fund the excess with a letter of credit. In such event, mortgage proceeds may be advanced to the mortgagor prior to any demand being made on the letter of credit.
 
 #### (e) Release of part of property or project from lien
 
@@ -84,7 +84,7 @@ The Social Security Act, referred to in subsec. (d)(5), is act Aug. 14, 1935, ch
 
 #### Amendments
 
-1988—Subsec. (a). Pub. L. 100–242, §412(a), inserted at end “Such assistance shall be provided regardless of theamount of public financial or other support a hospital may receive, and the Secretary shall neither require additional security or collateral to guarantee such support, nor impose more stringent eligibility or other requirements on publicly owned or supported hospitals.”
+1988—Subsec. (a). Pub. L. 100–242, §412(a), inserted at end “Such assistance shall be provided regardless of the amount of public financial or other support a hospital may receive, and the Secretary shall neither require additional security or collateral to guarantee such support, nor impose more stringent eligibility or other requirements on publicly owned or supported hospitals.”
 
 Subsec. (d)(2). Pub. L. 100–242, §412(b), substituted “The mortgage shall involve a principal obligation in the amount requested by the mortgagor if such amount does not exceed 90 percent of the estimated replacement cost of the property or project including” for “The mortgage shall involve a principal obligation in an amount not to exceed 90 per centum of the estimated replacement cost of the property or project including”.
 
@@ -100,7 +100,7 @@ Subsec. (d)(3)(A). Pub. L. 98–479, §204(a)(13), substituted a semicolon for t
 
 1983—Subsec. (b)(1)(C). Pub. L. 98–181, §436(1), inserted “public facility,” after “which is a”.
 
-Subsec. (d)(3)(B). Pub. L. 98–181, §404(b)(15), substituted provision that the interest rate be such a rate as agreed upon by the mortgagor and the mortgagee for provision that the interest rate, exclusive of premium charges for insurance and service charges, not exceed such per centum per annum, not in excess of 6 per centum, on the amount of the principal obligation outstanding at any time, as the Secretary finds necessary to meet the mortgage market.
+Subsec. (d)(3)(B). Pub. L. 98–181, §404(b)(15), substituted provision that the interest rate be such a rate as agreed upon by the mortgagor and the mortgagee for provision that the interest rate, exclusive of premium charges for insurance and service charges, not exceedsuch per centum per annum, not in excess of 6 per centum, on the amount of the principal obligation outstanding at any time, as the Secretary finds necessary to meet the mortgage market.
 
 Subsec. (f). Pub. L. 98–181, §436(2), inserted “, and in the case of public hospitals, to encourage programs that are undertaken to provide essential health care services to all residents of a community regardless of ability to pay” after “defined population”.
 

@@ -24,5 +24,5 @@ Section applicable to returns the due date for which (determined without regard 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 5684, 5761 of this title.
+This section is referred to in sections 5134, 5684, 5761 of this title.
 

@@ -4,19 +4,31 @@
 
 (b) This chapter does not apply to a documented vessel that would be subject to this chapter only because of the transfer of fuel from the fuel supply tanks of the vessel to offshore drilling or production facilities in the oil industry if the vessel is—
 
-&emsp;(1) not more than 500 gross tons;
+&emsp;(1) not more than 500 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title;
 
 &emsp;(2) not a tanker; and
 
 &emsp;(3) in the service of oil exploitation.
 
-(c) This chapter does not apply to a fishing or fish tender vessel of not more than 500 gross tons when engaged only in the fishing industry.
+(c) This chapter does not apply to a fishing or fish tender vessel of not more than 500 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title when engaged only in the fishing industry.
 
-(d) This chapter does not apply to a fish processing vessel of not more than 5,000 gross tons. However, the vessel is subject to regulation by the Secretary when carrying flammable or combustible liquid cargo in bulk.
+(d) This chapter does not apply to a fish processing vessel of not more than 5,000 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title. However, the vessel is subject to regulation by the Secretary when carrying flammable or combustible liquid cargo in bulk.
 
 (e) This chapter does not apply to a foreign vessel on innocent passage on the navigable waters of the United States.
 
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 521; Pub. L. 98–364, title IV, §402(6), July 17, 1984, 98 Stat. 446.)
+(f) This chapter does not apply to an oil spill response vessel if—
+
+&emsp;(1) the vessel is used only in response-related activities; or
+
+&emsp;(2) the vessel is—
+
+&emsp;&emsp;(A) not more than 500 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title;
+
+&emsp;&emsp;(B) designated in its certificate of inspection as an oil spill response vessel; and
+
+&emsp;&emsp;(C) engaged in response-related activities.
+
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 521; Pub. L. 98–364, title IV, §402(6), July 17, 1984, 98 Stat. 446; Pub. L. 104–324, title VII, §714, title XI, §1104(b), Oct. 19, 1996, 110 Stat. 3936, 3966.)
 
 Historical and Revision Notes
 
@@ -33,6 +45,14 @@ Section 3702, with certain exceptions, makes this chapter applicable to any tank
 It exempts certain small vessels documented in the service of oil exploitation, certain small tender and fishing vessels used in the Northwest salmon or crab fisheries, certain vessels used in the processing and assembling of fishery products used in the Northwest fisheries, public vessels, and foreign vessels engaged on innocent passage on the navigable waters of the United States. However, processing vessels, while not treated as tank vessels, are still subject to regulation when carrying flammable or combustible liquid cargo in bulk.
 
 #### Amendments
+
+1996—Subsec. (b)(1). Pub. L. 104–324, §714(1), inserted “as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title” after “500 gross tons”.
+
+Subsec. (c). Pub. L. 104–324, §714(2), inserted “as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title” after “500 gross tons”.
+
+Subsec. (d). Pub. L. 104–324, §714(3), inserted “as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title” after “5,000 gross tons”.
+
+Subsec. (f). Pub. L. 104–324, §1104(b), added subsec. (f).
 
 1984—Subsec. (c). Pub. L. 98–364, §402(6)(A), substituted “This chapter does not apply to a fishing or fish tender vessel of not more than 500 gross tons when engaged only in the fishing industry” for “This chapter does not apply to a cannery tender, fishing tender, or fishing vessel of not more than 500 gross tons, used in the salmon or crab fisheries of Alaska, Oregon, or Washington, when engaged only in the fishing industry”.
 

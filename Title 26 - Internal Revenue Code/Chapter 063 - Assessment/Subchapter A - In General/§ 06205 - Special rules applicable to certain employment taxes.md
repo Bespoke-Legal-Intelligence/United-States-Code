@@ -8,7 +8,7 @@
 
 #### (2) United States as employer
 
-&emsp;For purposes of this subsection, in the case of remuneration received from the United States or a wholly-owned instrumentality thereof during any calendar year, each head of a Federal agency or instrumentality whomakes a return pursuant to section 3122 and each agent, designated by the head of a Federal agency or instrumentality, who makes a return pursuant to such section shall be deemed a separate employer.
+&emsp;For purposes of this subsection, in the case of remuneration received from the United States or a wholly-owned instrumentality thereof during any calendar year, each head of a Federal agency or instrumentality who makes a return pursuant to section 3122 and each agent, designated by the head of a Federal agency or instrumentality, who makes a return pursuant to such section shall be deemed a separate employer.
 
 #### (3) Guam or American Samoa as employer
 

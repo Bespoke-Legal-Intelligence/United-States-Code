@@ -1,6 +1,6 @@
 ### §1600a. Definitions
 
-(a) The term “Committees” refers to the Committee on Natural Resources of the United States House of Representatives and the Committee on Environment and Public Works and the Committee on Energy and Natural Resources of the United States Senate.
+(a) The term “Committees” refers to the Committee on Natural Resources of the UnitedStates House of Representatives and the Committee on Environment and Public Works and the Committee on Energy and Natural Resources of the United States Senate.
 
 (b) The term “financial assistance” means any form of loan, grant, guaranty, insurance, payment, rebate, subsidy, or any other form of direct or indirect Federal assistance other than—
 
@@ -12,7 +12,7 @@
 
 &emsp;(4) assistance for environmental studies, plans, and assessments that are required incident to the issuance of permits or other authorizations under Federal law; and
 
-&emsp;(5) assistance pursuant to programs entirely unrelated to development, such as any Federalor federally assisted public assistance program or any Federal old-age, survivors, or disability insurance program.
+&emsp;(5) assistance pursuant to programs entirely unrelated to development, such as any Federal or federally assisted public assistance program or any Federal old-age, survivors, or disability insurance program.
 
 > Such term also includes flood insurance described in sections <sup>2</sup> 4029(a) and (b) of title 42 on and after the dates on which the provisions of those sections <sup>2</sup> become effective.
 

@@ -6,7 +6,9 @@ An individual operating a commercial motor vehicle may have only one driver's li
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

@@ -22,7 +22,7 @@ Section 2613(b) of Pub. L. 100–690 provided that:
 
 “(1) Paragraphs (2) and (3) shall take effect immediately after the enactment of both the bill, S. 1727, of the One Hundredth Congress \[Pub. L. 100–553, approved Oct. 28, 1988\], and the Health Omnibus Programs Extension of 1988 \[Pub. L. 100–607, approved Nov. 4, 1988\].
 
-“(2)(A) The provisions of the Public Health Service Act referred to in subparagraph (B), as similarly amended by the enactment of the bill, S. 1727, of the One Hundredth Congress, by subtitle A of title I of the Health Omnibus Programs Extension of 1988, and by subsection (a)(1) of this section, are amended to read as if the amendments made by such subtitle A and such subsection (a)(1) had not been enacted.
+“(2)(A) The provisions of the Public Health Service Act referred to in subparagraph (B), as similarly amended by the enactment of the bill, S. 1727, of the One Hundredth Congress, by subtitle A of title I of the Health Omnibus Programs Extension of 1988, and by subsection (a)(1) of this section, are amended to read asif the amendments made by such subtitle A and such subsection (a)(1) had not been enacted.
 
 “(B) The provisions of the Public Health Service Act referred to in subparagraph (A) are—
 

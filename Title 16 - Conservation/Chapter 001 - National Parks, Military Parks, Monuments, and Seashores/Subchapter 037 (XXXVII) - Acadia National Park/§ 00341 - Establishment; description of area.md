@@ -44,7 +44,7 @@ Pub. L. 99–420, title I, Sept. 25, 1986, 100 Stat. 955, provided that:
 
 “(c)(1) The owners of any private property within the Park may, on the date of its acquisition by the Secretary and as a condition of such acquisition, retain for himself and his successors or assigns a right to use and occupancy for a definite term of not more than 25 years, or ending at the death of the owner, or his spouse, whichever is later. The owners shall elect the term to be reserved. The Secretary shall pay to the owner the fair market value of the property on the date of such acquisition, less the fair market value, of the right retained by the owner.
 
-“(2) Any such right retained pursuant to this subsection shall be subject to such terms and conditions as the Secretary may prescribe and may be terminated by the Secretary upon his determination and after reasonable notice to the owner thereof that such property is being used for any purpose which is incompatible with the administration of the Park or with the preservation of the resources therein. Such right shall terminate by operation of law upon notification to the ownerby the Secretary and tendering to the owner the amount equal to the fair market value of that portion which remains unexpired.
+“(2) Any such right retained pursuant to this subsection shall be subject to such terms and conditions as the Secretary may prescribe and may be terminated by the Secretary upon his determination and after reasonable notice to the owner thereof that such property is being used for any purpose which is incompatible with the administration of the Park or with the preservation of the resources therein. Such right shall terminate by operation of law upon notification to the owner by the Secretary and tendering to the owner theamount equal to the fair market value of that portion which remains unexpired.
 
 “(d)(1) In exercising his authority to acquire lands by exchange pursuant to this title, the Secretary may accept title to non-Federal property located within the the boundary of the Park and may convey to the grantor of such property any federally owned property under the jurisdiction of the Secretary which lies outside said boundary and depicted on the map. Properties so exchanged shall be approximately equal in value, as determined by the Secretary, except that the Secretary may accept cash from or pay cash to the grantor in such an exchange in order to equalize the value of the properties exchanged.
 
@@ -102,7 +102,7 @@ Pub. L. 99–420, title I, Sept. 25, 1986, 100 Stat. 955, provided that:
 
 “(2) Upon receipt of the lands and easement described in paragraph (1), the Secretary shall transfer to the Jackson Laboratory the lands depicted on the map as 8 DBH and 9 DBH. Any disparity in the fair market value of the lands and easement referred to in paragraph (1) and the lands described in the preceding sentence shall be equalized as provided in section 102(d)(1).
 
-“(k) For purposes of subsection (a)(2), the construction of one single family residence on Burnt Porcupine Island by the owner of the Island shall not be treated as detrimental to the scenic, historic, cultural, or other values for which the park was established if, beforesuch construction commences, the Secretary has reviewed and approved plans for the size, location and architectural design of the structure.
+“(k) For purposes of subsection (a)(2), the construction of one single family residence on Burnt Porcupine Island by the owner of the Island shall not be treated as detrimental to the scenic, historic, cultural, or other values for which the park was established if, before such construction commences, the Secretary has reviewed and approved plans for the size, location and architectural design of the structure.
 
 #### “SEC. 103. ADVISORY COMMISSION.
 
@@ -158,7 +158,7 @@ Pub. L. 99–420, title I, Sept. 25, 1986, 100 Stat. 955, provided that:
 
 #### Acadia National Park Lands Lying Within Boundaries of Town of Isle au Haut, Maine
 
-Pub. L. 97–335, Oct. 15, 1982, 96 Stat. 1627, provided: “That the Congress finds that—
+Pub. L. 97–335, Oct. 15, 1982, 96 Stat. 1627, as amended by Pub. L. 104–333, div. I, title VIII, §814(d)(1)(C), Nov. 12, 1996, 110 Stat. 4196, provided: “That the Congress finds that—
 
 &emsp;“(1) there are significant scenic, educational, natural, and cultural resources in the town of Isle au Haut, Maine;
 
@@ -172,11 +172,9 @@ Pub. L. 97–335, Oct. 15, 1982, 96 Stat. 1627, provided: “That the Congress f
 
 “(b) Notwithstanding any other provisions of this Act \[this note\], the Secretary is also authorized to accept by donation, as a coholder for enforcement purposes only, a limited enforcement interest in conservation easements on lands outside the boundary established by section 2 hereof and within the town of Isle au Haut which may from time to time be donated to the Isle au Haut Land Conservation Trust, a trust established under the laws of the State of Maine. The Superintendent of Acadia National Park is hereby authorized to serve as an ex officio trustee of such trust.
 
-“Sec. 4. (a) The management and use of parklands on Isle au Haut shall not interfere with the maintenanceof a viable local community with a traditional resource-based economy outside the boundary of the park. To the maximum extent practicable, no development or plan for the convenience of park visitors shall be undertaken which would be incompatible with the preservation of the flora and fauna or the physiographic conditions now prevailing, and every effort shall be exerted to maintain and preserve this portion of the park in as nearly its present state and condition as possible. In recognition of the special fragility and sensitivity of the park's resources, visitation shall be strictly limited to assure negligible adverse impact on such resources, to conserve the character of the town and to protect the quality of the visitor experience.
+“Sec. 4. (a) The management and use of parklands on Isle au Haut shall not interfere with the maintenance of a viable local community with a traditional resource-based economy outside the boundary of the park. To the maximum extent practicable, no development or plan for the convenience of park visitors shall be undertaken which would be incompatible with the preservation of the flora and fauna or the physiographic conditions now prevailing, and every effort shall be exerted to maintain and preserve this portion of the park in as nearly its present state and condition as possible. In recognition of the special fragility and sensitivity of the park's resources, visitation shall be strictly limited to assure negligible adverse impact on such resources, to conserve the character of the town and to protect the quality of the visitor experience.
 
-“(b) In furtherance of the purpose of subsection (a) of this section, the Secretary shall prepare a report establishing carrying capacities for the Isle au Haut portion of Acadia National Park. The report shall be prepared and the carrying capacities established with public participation and in consultation with the town of Isle au Haut and other interested parties.
-
-“(c) The Secretary shall transmit the report to the Energy and Natural Resources Committee of the Senate and the Interior and Insular Affairs Committee \[now Committee on Natural Resources\] of the House of Representatives no later than six months from the date of enactment of this Act \[Oct. 15, 1982\]. The Secretary shall begin implementing the carrying capacities contained in the report sixty days after the report has been transmitted to the committees.
+“\[(b), (c) Repealed. Pub. L. 104–333, div. I, title VIII, §814(d)(1)(C), Nov. 12, 1996, 110 Stat. 4196.\]
 
 “(d) Carrying capacities established pursuant to this section shall be reviewed, and if necessary revised, every five years. Any revision in such carrying capacity shall be made in accordance with the procedures set forth in subsections (b) and (c) of this section.
 

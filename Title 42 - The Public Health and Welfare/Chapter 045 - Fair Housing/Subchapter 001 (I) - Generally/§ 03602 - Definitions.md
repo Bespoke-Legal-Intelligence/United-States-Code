@@ -60,7 +60,7 @@ As used in this subchapter—
 
 1988—Subsec. (f). Pub. L. 100–430, §5(a), substituted “3606, or 3617” for “or 3606”.
 
-Subsecs. (h) to (<i>o</i>). Pub. L. 100–430, §5(b), added subsecs. (h) to (<i>o).</i>
+Subsecs. (h) to (<i>o</i>). Pub. L. 100–430, §5(b), added subsecs. (h) to (<i>o</i>).
 
 1978—Subsec. (d). Pub. L. 95–598 substituted “trustees in cases under title 11” for “trustees in bankruptcy”.
 

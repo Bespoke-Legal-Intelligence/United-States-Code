@@ -50,7 +50,7 @@ No institution of higher education or consortium of such institutions shall be e
 
 #### (1) In general
 
-&emsp;In order to be eligible to be awarded a grant or contract under this section for any fiscal year, an institution of higher education or consortium of such institutions shall submitan application to the Secretary at such time and in such manner as the Secretary shall prescribe.
+&emsp;In order to be eligible to be awarded a grant or contract under this section for any fiscal year, an institution of higher education or consortium of such institutions shall submit an application to the Secretary at such time and in such manner as the Secretary shall prescribe.
 
 #### (2) Contents
 
@@ -72,7 +72,7 @@ Upon completion of the grant or contract period under this section, the grantee 
 
 #### (g) “Sexual offenses education and prevention” defined
 
-For purposes of this section, the term “sexual offenses education and prevention” includes programs that provide education seminars, peer-to-peer counseling, operation of hotlines, self-defense courses, the preparation of informational materials, and any other effort to increase campus awareness of the facts about, or to help prevent, sexual offenses.
+For purposes of this section, the term “sexual offenses education and prevention” includes programs that provide education seminars, peer-to-peer counseling, operation of hotlines, self-defense courses, the preparation of informationalmaterials, and any other effort to increase campus awareness of the facts about, or to help prevent, sexual offenses.
 
 #### (h) General terms and conditions
 

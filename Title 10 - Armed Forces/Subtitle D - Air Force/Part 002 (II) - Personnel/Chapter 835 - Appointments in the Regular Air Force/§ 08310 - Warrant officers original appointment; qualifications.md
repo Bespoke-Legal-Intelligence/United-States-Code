@@ -22,5 +22,5 @@ June 3, 1916, ch. 134, §4a (less 3d and last sentences); added June 4, 1920. ch
 
 Aug. 21, 1941, ch. 384, §2; restated May 29, 1954, ch. 249, §19(c), 68 Stat. 166.
 
-The first sentence of section 4a of the act of June 3, 1916, cited above, is omitted as superseded by section 8213 of this title. The second sentence, less first nine words, of section 4a of that act, is omitted as superseded by 10:591.
+The first sentence of section 4a of the act of June 3, 1916, cited above, is omitted as superseded by section8213 of this title. The second sentence, less first nine words, of section 4a of that act, is omitted as superseded by 10:591.
 

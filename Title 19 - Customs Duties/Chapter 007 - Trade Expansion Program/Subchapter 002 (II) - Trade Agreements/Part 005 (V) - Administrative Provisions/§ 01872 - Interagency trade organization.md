@@ -26,7 +26,7 @@
 
 &emsp;(F) The Secretary of Labor.
 
-> The Trade Representative may invite representatives from other agencies, as appropriate, to attend particular meetings if subject matters of specific functional interest to such agencies are under consideration. It shall meet at such times and with respect to such matters as the President or the Chairman shall direct.
+> The Trade Representative may invite representatives from other agencies, as appropriate, to attend particular meetings if subject matters of specific functional interest to such agencies areunder consideration. It shall meet at such times and with respect to such matters as the President or the Chairman shall direct.
 
 #### (b) Duties
 
@@ -96,7 +96,7 @@ For provisions relating to Trade Policy Committee, see section 3 of Ex. Ord. No.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2114c, 2114d, 2171, 2241, 2253, 2512, 2515, 2553, 2554, 2804, 3108, 3432, 3437 of this title; title 41 section 10b-1.
+This section is referred to in sections 2114c, 2114d, 2171, 2241, 2253, 2512, 2553, 2554, 2804, 3108, 3432, 3437 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -70,7 +70,7 @@
 | (h) | Investment of surplus funds. |
 | (i) | Treasury purchase of banks’ obligations; exercise of authority. |
 | (j) | Audits. |
-| (k) | Bank loans to SAIF. |
+| (k) | Bank losses to Deposit Insurance Fund. |
 | [1432\.](%C2%A7%2001432%20-%20Incorporation%20of%20banks%3B%20corporate%20powers%3B%20housing%20project%20loans.md) | Incorporation of banks; corporate powers; housing project loans. |
 | [1433\.](%C2%A7%2001433%20-%20Exemption%20from%20taxation%3B%20obligations%20acceptable%20as%20credit%20on%20debt%20of%20home%20owner.md) | Exemption from taxation; obligations acceptable as credit on debt of home owner. |
 | [1434\.](%C2%A7%2001434%20-%20Depositaries%20of%20public%20money%3B%20financial%20agents.md) | Depositaries of public money; financial agents. |
@@ -115,7 +115,7 @@
 | (<i>l</i>) | Power to remove; jurisdiction. |
 | (m) | Termination. |
 | (n) | Conflict of interest. |
-| (<i>o)</i> | Status of employees. |
+| (<i>o</i>) | Status of employees. |
 | (p) | Management enhancement goals. |
 | (q) | RTC, Thrift Depositor Protection Oversight Board, and RTC contractor employee protection remedy. |
 | (r) | Review and evaluation procedure for contracts. |

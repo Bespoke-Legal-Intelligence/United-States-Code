@@ -4,7 +4,7 @@
 
 (b) In this section:
 
-&emsp;(1) The term “Department of Defense education liabilities” means liabilities of the Department of Defense for benefits under chapter 30 of title 38 and for benefits under chapter 106 of this title.
+&emsp;(1) The term “Department of Defense education liabilities” means liabilities of the Department of Defense for benefits under chapter 30 of title 38 and for benefits under chapter 1606 of this title.
 
 &emsp;(2) The term “normal cost”, with respect to any period of time, means the total of the following:
 
@@ -14,7 +14,7 @@
 
 &emsp;&emsp;&emsp;(i) enter a fourth year of active duty, in the case of persons eligible for basic educational assistance under section 3011 of such title; or
 
-&emsp;&emsp;&emsp;(ii) enter a period of service that will establish entitlement to such educational assistance under section 3021(b) of such title, in the case of persons eligible for basic educational assistance under section 1412 <sup>1</sup> of such title.
+&emsp;&emsp;&emsp;(ii) enter a period of service that will establish entitlement to such educational assistance under section 3021(b) of such title, in the case of persons eligible for basic educational assistance under section 3012 of such title.
 
 &emsp;&emsp;(C) The present value of the future benefits payable from the Fund for educational assistance under chapter 106 of this title to persons who during such period become entitled to such assistance.
 
@@ -66,13 +66,13 @@
 
 (h) The Secretary of the Treasury shall invest such portion of the Fund as is not in the judgment of the Secretary required to meet current withdrawals. Such investments shall be in public debt securities with maturities suitable to the needs of the Fund, as determined by the Secretary, and bearing interest at rates determined by the Secretary, taking into consideration current market yields on outstanding marketable obligations of the United States of comparable maturities. The income on such investments shall be credited to and form a part of the Fund.
 
-(Added Pub. L. 98–525, title VII, §706(a)(1), Oct. 19, 1984, 98 Stat. 2568; amended Pub. L. 100–26, §7(k)(2), Apr. 21, 1987, 101 Stat. 284; Pub. L. 101–189, div. A, title XVI, §1621(a)(2), (6), Nov. 29, 1989, 103 Stat. 1603; Pub. L. 101–510, div. A, title XIII, §1322(a)(2), title XIV, §1484(j)(2), Nov. 5, 1990, 104 Stat. 1671, 1718; Pub. L. 103–337, div. A, title X, §1070(e)(6), Oct. 5, 1994, 108 Stat. 2859.)
-
-#### References in Text
-
-Section 1412 of title 38, referred to in subsec. (b)(2)(B)(ii), was redesignated section 3012 by Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406.
+(Added Pub. L. 98–525, title VII, §706(a)(1), Oct. 19, 1984, 98 Stat. 2568; amended Pub. L. 100–26, §7(k)(2), Apr. 21, 1987, 101 Stat. 284; Pub. L. 101–189, div. A, title XVI, §1621(a)(2), (6), Nov. 29, 1989, 103 Stat. 1603; Pub. L. 101–510, div. A, title XIII, §1322(a)(2), title XIV, §1484(j)(2), Nov. 5, 1990, 104 Stat. 1671, 1718; Pub. L. 103–337, div. A, title X, §1070(e)(6), Oct. 5, 1994, 108 Stat. 2859; Pub. L. 104–106, div. A, title XV, §§1501(c)(21), 1503(a)(17), Feb. 10, 1996, 110 Stat. 499, 512.)
 
 #### Amendments
+
+1996—Subsec. (b)(1). Pub. L. 104–106, §1501(c)(21), substituted “chapter 1606 of this title” for “chapter 106 of this title”.
+
+Subsec. (b)(2)(B)(ii). Pub. L. 104–106, §1503(a)(17), substituted “section 3012 of such title” for “section 1412 of such title”.
 
 1994—Subsec. (b)(2). Pub. L. 103–337 substituted “section 3015(d)”, “section 3011”, and “section 3021(b)” for “section 1415(c)”, “section 1411”, and “section 1421(b)”, respectively.
 
@@ -84,6 +84,10 @@ Subsec. (e)(3). Pub. L. 101–510, §1322(a)(2), substituted “and shall recomm
 
 1987—Subsec. (b). Pub. L. 100–26 inserted “The term” after each par. designation and substituted “normal” for “Normal” in par. (2).
 
+#### Effective Date of 1996 Amendment
+
+Section 1501(c) of Pub. L. 104–106 provided that the amendment made by that section is effective as of Dec. 1, 1994, and as if included as an amendment made by the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as originally enacted.
+
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
 References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
@@ -94,7 +98,5 @@ Section 706(b) of Pub. L. 98–525 directed that first payment into Department o
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 227 of this title; title 38 section 3035.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+This section is referred to in section 12521 of this title; title 38 section 3035.
 

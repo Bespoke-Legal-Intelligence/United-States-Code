@@ -10,11 +10,16 @@
 | [2606\.](%C2%A7%2002606%20-%20Scouting%20cooperation%20and%20assistance%20in%20foreign%20areas.md) | Scouting: cooperation and assistance in foreign areas. |
 | [2607\.](%C2%A7%2002607%20-%20Acceptance%20of%20gifts%20for%20the%20Defense%20Intelligence%20College.md) | Acceptance of gifts for the Defense Intelligence College. |
 | [2608\.](%C2%A7%2002608%20-%20Acceptance%20of%20contributions%20for%20defense%20programs%2C%20projects%2C%20and%20activities%3B%20Defense%20Cooperation%20Account.md) | Acceptance of contributions for defense programs, projects, and activities; Defense Cooperation Account. |
-| [2609\.](%C2%A7%2002609%20-%20Theater%20Missile%20Defense%20acceptance%20of%20contributions%20from%20allies%3B%20Theater%20Missile%20Defense%20Cooperation%20Account.md) | Theater Missile Defense: acceptance of contributions from allies; Theater Missile Defense Cooperation Account. |
+| \[2609. | Repealed.\] |
+| [2610\.](%C2%A7%2002610%20-%20Competitions%20for%20excellence%20acceptance%20of%20monetary%20awards.md) | Competitions for excellence: acceptance of monetary awards. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1996—Pub. L. 104–201, div. A, title X, §1074(a)(15), Sept. 23, 1996, 110 Stat. 2659, struck out item 2609 “Theater Missile Defense: acceptance of contributions from allies; Theater Missile Defense Cooperation Account”.
+
+Pub. L. 104–106, div. A, title III, §377(b), Feb. 10, 1996, 110 Stat. 284, added item 2610.
 
 1994—Pub. L. 103–337, div. A, title III, §353(c)(2), Oct. 5, 1994, 108 Stat. 2732, substituted “schools” for “education system” in item 2605.
 
@@ -47,4 +52,5 @@
 - [&sect; 02606 - Scouting cooperation and assistance in foreign areas](%C2%A7%2002606%20-%20Scouting%20cooperation%20and%20assistance%20in%20foreign%20areas.md)
 - [&sect; 02607 - Acceptance of gifts for the Defense Intelligence College](%C2%A7%2002607%20-%20Acceptance%20of%20gifts%20for%20the%20Defense%20Intelligence%20College.md)
 - [&sect; 02608 - Acceptance of contributions for defense programs, projects, and activities; Defense Cooperation Account](%C2%A7%2002608%20-%20Acceptance%20of%20contributions%20for%20defense%20programs%2C%20projects%2C%20and%20activities%3B%20Defense%20Cooperation%20Account.md)
-- [&sect; 02609 - Theater Missile Defense acceptance of contributions from allies; Theater Missile Defense Cooperation Account](%C2%A7%2002609%20-%20Theater%20Missile%20Defense%20acceptance%20of%20contributions%20from%20allies%3B%20Theater%20Missile%20Defense%20Cooperation%20Account.md)
+- [&sect; 02609 - Repealed. Pub. L. 104&#8211;106, div. A, title II, &sect;253(9), Feb. 10, 1996, 110 Stat. 235](%C2%A7%2002609%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93106%2C%20div.%20A%2C%20title%20II%2C%20%C2%A7253%289%29%2C%20Feb.%2010%2C%201996%2C%20110%20Stat.%20235.md)
+- [&sect; 02610 - Competitions for excellence acceptance of monetary awards](%C2%A7%2002610%20-%20Competitions%20for%20excellence%20acceptance%20of%20monetary%20awards.md)

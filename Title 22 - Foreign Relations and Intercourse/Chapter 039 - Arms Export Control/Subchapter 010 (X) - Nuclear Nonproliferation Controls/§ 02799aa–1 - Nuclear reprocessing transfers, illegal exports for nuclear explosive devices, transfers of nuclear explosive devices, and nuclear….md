@@ -84,13 +84,9 @@
 
 #### (c) “Non-nuclear-weapon state” defined
 
-As used in this section, the term “non- nuclear-weapon state” means any country which is not a nuclear-weapon state, as defined in Article IX(3) of the Treaty on the Non-Proliferation of Nuclear Weapons.
+As used in this section, the term “non-nuclear-weapon state” means any country which is not a nuclear-weapon state, as defined in Article IX(3) of the Treaty on the Non-Proliferation of Nuclear Weapons.
 
 (Pub. L. 90–629, ch. 10, §102, as added Pub. L. 103–236, title VIII, §826(a), Apr. 30, 1994, 108 Stat. 516.)
-
-#### Repeal of Section
-
-<i>For repeal of section by section 851 of Pub. L. 103–236, see Effective and Termination Dates note set out under section 2799aa of this title.</i>
 
 #### References in Text
 
@@ -98,7 +94,7 @@ The Foreign Assistance Act of 1961, referred to in subsecs. (a)(1) and (b)(2)(A)
 
 Section 601(b) of the International Security Assistance and Arms Export Control Act of 1976, referred to in subsecs. (a)(3)(B) and (b)(4)(C), is section 601(b) of Pub. L. 94–329, title VI, June 30, 1976, 90 Stat. 765, which is not classified to the Code.
 
-For effective date of part B of the Nuclear Proliferation Prevention Act of 1994 \[part B of title VIII of Pub. L. 103–236\], referred to in subsec. (b)(1), as 60 days after Apr. 30, 1994, see section 831 of Pub. L. 103–236, set out in the Nuclear Proliferation Prevention; Effective and Termination Dates of 1994 Amendment note under section 3201 of this title.
+For effective date of part B of the Nuclear Proliferation Prevention Act of 1994 \[part B of title VIII of Pub. L. 103–236\], referred to in subsec. (b)(1), as 60 days after Apr. 30, 1994, see section 831 of Pub. L. 103–236, set out as an Effective Date note under section 6301 of this title.
 
 The National Security Act of 1947, as amended, referred to in subsec. (b)(2)(D)(i), (G), is act July 26, 1947, ch. 343, 61 Stat. 495, as amended. Title V of the Act is classified generally to subchapter III (§413 et seq.) of chapter 15 of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 401 of Title 50 and Tables.
 

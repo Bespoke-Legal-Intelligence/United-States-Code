@@ -1,4 +1,4 @@
-### §1166 . Gambling in Indian country
+### §1166. Gambling in Indian country
 
 (a) Subject to subsection (c), for purposes of Federal law, all State laws pertaining to the licensing, regulation, or prohibition of gambling, including but not limited to criminal sanctions applicable thereto, shall apply in Indian country in the same manner and to the same extent as such laws apply elsewhere in the State.
 

@@ -2,7 +2,7 @@
 
 #### Codification
 
-Section, act Sept. 26, 1962, Pub. L. 87–701, §103, 76 Stat. 601, which authorized appropriations for the Atomic Energy Commission for advance planning, construction design, and architectural services in connection with certain projects, was from an Act authorizingappropriations for the Atomic Energy Commission, and was not enacted as part of the Atomic Energy Act of 1954 which comprises this chapter. See section 2017a–1 of this title.
+Section, act Sept. 26, 1962, Pub. L. 87–701, §103, 76 Stat. 601, which authorized appropriations for the Atomic Energy Commission for advance planning, construction design, and architectural services in connection with certain projects, was from an Act authorizing appropriations for the Atomic Energy Commission, and was not enacted as part of the Atomic Energy Act of 1954 which comprises this chapter. See section 2017a–1 of this title.
 
 Similar provisions were contained in the following prior appropriation authorization acts:
 

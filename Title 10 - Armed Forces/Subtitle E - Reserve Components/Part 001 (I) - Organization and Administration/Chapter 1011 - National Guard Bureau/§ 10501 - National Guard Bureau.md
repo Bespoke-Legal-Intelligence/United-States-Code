@@ -16,9 +16,5 @@ Provisions similar to those in this section were contained in section 3040(a) of
 
 #### Effective Date
 
-Section 904(d) of Pub. L. 103–337 provided that: “The provisions of chapter 1011 of title 10, United States Code, as added by subsection (a), shall become effective, and the repeal made by subsection (c) \[probably means subsec. (b) which repealed section 3040 of this title\] and the amendment made by subsection (c) \[amending section 108 of Title 32, National Guard\] shall take effect, at the end of the 90-day period beginning on the date of the enactment of this Act \[Oct. 5, 1994\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 641 of this title.
+Section 904(d) of Pub. L. 103–337, as amended by Pub. L. 104–106, div. A, title XV, §1504(a)(6), Feb. 10, 1996, 110 Stat. 513, provided that: “The provisions of chapter 1011 of title 10, United States Code, as added by subsection (a), shall become effective, and the repeal made by subsection (b) \[repealing section 3040 of this title\] and the amendment made by subsection (c) \[amending section 108 of Title 32, National Guard\] shall take effect, at the end of the 90-day period beginning on the date of the enactment of this Act \[Oct. 5, 1994\].”
 

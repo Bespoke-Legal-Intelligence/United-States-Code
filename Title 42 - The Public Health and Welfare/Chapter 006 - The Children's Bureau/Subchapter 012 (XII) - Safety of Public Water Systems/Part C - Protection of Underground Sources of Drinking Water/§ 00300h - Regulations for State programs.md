@@ -2,7 +2,7 @@
 
 #### (a) Publication of proposed regulations; promulgation; amendments; public hearings; administrative consultations
 
-(1) The Administrator shall publish proposed regulations for State underground injection control programs within 180 days after December 16, 1974. Within 180 days after publication of such proposed regulations, he shall promulgate such regulations with such modifications as he deemsappropriate. Any regulation under this subsection may be amended from time to time.
+(1) The Administrator shall publish proposed regulations for State underground injection control programs within 180 days after December 16, 1974. Within 180 days after publication of such proposed regulations, he shall promulgate such regulations with such modifications as he deems appropriate. Any regulation under this subsection may be amended from time to time.
 
 (2) Any regulation under this section shall be proposed and promulgated in accordance with section 553 of title 5 (relating to rulemaking), except that the Administrator shall provide opportunity for public hearing prior to promulgation of such regulations. In proposing and promulgating regulations under this section the Administrator shall consult with the Secretary, the National Drinking Water Advisory Council, and other appropriate Federal entities and with interested State entities.
 
@@ -16,7 +16,7 @@
 
 &emsp;(C) shall include inspection, monitoring, recordkeeping, and reporting requirements; and
 
-&emsp;(D) shall apply (i) as prescribed by section 300j–6(b) of this title, to underground injections by Federal agencies, and (ii) to underground injections by any other person whether or not occurring on property owned or leased by the United States.
+&emsp;(D) shall apply (i) as prescribed by section 300j–6(b) <sup>1</sup> of this title, to underground injections by Federal agencies, and (ii) to underground injections by any other person whether or not occurring on property owned or leased by the United States.
 
 (2) Regulations of the Administrator under this section for State underground injection control programs may not prescribe requirements which interfere with or impede—
 
@@ -28,7 +28,7 @@
 
 (3)(A) The regulations of the Administrator under this section shall permit or provide for consideration of varying geologic, hydrological, or historical conditions in different States and in different areas within a State.
 
-(B)(i) In prescribing regulations under this section the Administrator shall, to the extent feasible, avoid promulgation of requirements which would unnecessarily disrupt State underground injection control programs which are in effect and being enforced in a substantial number or <sup>1</sup> States.
+(B)(i) In prescribing regulations under this section the Administrator shall, to the extent feasible, avoid promulgation of requirements which would unnecessarily disrupt State underground injection control programs which are in effect and being enforced in a substantial number of States.
 
 (ii) For the purpose of this subparagraph, a regulation prescribed by the Administrator under this section shall be deemed to disrupt a State underground injection control program only if it would be infeasible to comply with both such regulation and the State underground injection control program.
 
@@ -64,9 +64,15 @@ For purposes of this part:
 
 &emsp;(2) Underground injection endangers drinking water sources if such injection may result in the presence in underground water which supplies or can reasonably be expected to supply any public water system of any contaminant, and if the presence of such contaminant may result in such system's not complying with any national primary drinking water regulation or may otherwise adversely affect the health of persons.
 
-(July 1, 1944, ch. 373, title XIV, §1421, as added Dec. 16, 1974, Pub. L. 93–523, §2(a), 88 Stat. 1674; amended Nov. 16, 1977, Pub. L. 95–190, §6(b), 91 Stat. 1396; Dec. 5, 1980, Pub. L. 96–502, §§3, 4(c), 94 Stat. 2738; June 19, 1986, Pub. L. 99–339, title II, §201(a), 100 Stat. 653.)
+(July 1, 1944, ch. 373, title XIV, §1421, as added Dec. 16, 1974, Pub. L. 93–523, §2(a), 88 Stat. 1674; amended Nov. 16, 1977, Pub. L. 95–190, §6(b), 91 Stat. 1396; Dec. 5, 1980, Pub. L. 96–502, §§3, 4(c), 94 Stat. 2738; June 19, 1986, Pub. L. 99–339, title II, §201(a), 100 Stat. 653; Aug. 6, 1996, Pub. L. 104–182, title V, §501(b)(1), 110 Stat. 1691.)
+
+#### References in Text
+
+Section 300j–6(b) of this title, referred to in subsec. (b)(1)(D), was repealed, and a new section 300j–6(b) relating to administrative penalty orders was added, by Pub. L. 104–182, title I, §129(a), Aug. 6, 1996, 110 Stat. 1660.
 
 #### Amendments
+
+1996—Subsec. (b)(3)(B)(i). Pub. L. 104–182 substituted “number of States” for “number or States”.
 
 1986—Subsec. (b)(2)(A). Pub. L. 99–339 inserted “or natural gas storage operations” after “production”.
 
@@ -80,5 +86,5 @@ Subsec. (d)(1). Pub. L. 96–502, §3, inserted provision that such term does no
 
 This section is referred to in sections 300h–1, 300h–4, 300j–2, 300j–6 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “of”.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

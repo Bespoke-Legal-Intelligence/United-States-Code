@@ -6,7 +6,7 @@ There is hereby established the Hydrogen Technical Advisory Panel (the “techni
 
 #### (b) Membership
 
-The technical panel shall be appointed by the Secretary and shall be comprised of such representatives from domestic industry, universities, professional societies, Government laboratories, financial, environmental, and other organizations as the Secretary deems appropriate based on his assessment of the technicaland other qualifications of such representatives. Appointments to the technical panel shall be made within 90 days after November 15, 1990. The technical panel shall have a chairman, who shall be elected by the members from among their number.
+The technical panel shall be appointed by the Secretary and shall be comprised of such representatives from domestic industry, universities, professional societies, Government laboratories, financial, environmental, and other organizations as the Secretary deems appropriate based on his assessment of the technical and other qualifications of such representatives. Appointments to the technical panel shall be made within 90 days after November 15, 1990. The technical panel shall have a chairman, who shall be elected by the members from among their number.
 
 #### (c) Cooperation
 
@@ -16,17 +16,19 @@ The heads of the departments, agencies, and instrumentalities of the Executive b
 
 The technical panel shall review and make any necessary recommendations to the Secretary on the following items—
 
-&emsp;(1) the implementation and conduct of programs under this chapter;
+&emsp;(1) the implementation and conduct of programs under this chapter; and
 
-&emsp;(2) the economic, technological, and environmental consequences of the deployment of hydrogen production and use systems; and
-
-&emsp;(3) comments on and recommendations for improvements in the comprehensive 5-year program management plan required under section 12402 of this title.
+&emsp;(2) the economic, technological, and environmental consequences of the deployment of hydrogen production and use systems.
 
 #### (e) Support
 
 The Secretary shall provide such staff, funds and other support as may be necessary to enable the technical panel to carry out the functions described in this section.
 
-(Pub. L. 101–566, §108, Nov. 15, 1990, 104 Stat. 2800.)
+(Pub. L. 101–566, §108, Nov. 15, 1990, 104 Stat. 2800; Pub. L. 104–271, title I, §102(b), Oct. 9, 1996, 110 Stat. 3305.)
+
+#### Amendments
+
+1996—Subsec. (d)(3). Pub. L. 104–271 struck out par. (3) which read as follows: “comments on and recommendations for improvements in the comprehensive 5-year program management plan required under section 12402 of this title.”
 
 #### Termination of Advisory Panels
 

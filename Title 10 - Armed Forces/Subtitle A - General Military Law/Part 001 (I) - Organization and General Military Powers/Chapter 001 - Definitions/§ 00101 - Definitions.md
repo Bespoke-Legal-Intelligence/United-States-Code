@@ -58,7 +58,7 @@ In General.—The following definitions apply in this title:
 
 &emsp;(14) The term “supplies” includes material, equipment, and stores of all kinds.
 
-&emsp;(15) The term “pay” includes basic pay, special pay, retainer pay, incentive pay, retired pay, and equivalent pay, but does not include allowances.
+&emsp;(15) The term “pay” includes basic pay, special pay, retainer pay, incentive pay, retiredpay, and equivalent pay, but does not include allowances.
 
 (b)
 
@@ -138,15 +138,15 @@ Duty Status.—The following definitions relating to duty status apply in this t
 
 &emsp;(3) The term “active service” means service on active duty or full-time National Guard duty.
 
-&emsp;(4) The term “active status” means the status of a reserve commissioned officer, other than a commissioned warrant officer, who is not in the inactive Army National Guard or inactive Air National Guard, on an inactive status list, or in the Retired Reserve.
+&emsp;(4) The term “active status” means the status of a member of a reserve componentwho is not in the inactive Army National Guard or inactive Air National Guard, on an inactive status list, or in the Retired Reserve.
 
-&emsp;(5) The term “full-time National Guard duty” means training or other duty, other than inactive duty, performed by a member of the Army National Guard of the United States or the Air National Guard of the United States in the member's status as a member of the National Guard of a State or territory, the Commonwealth of Puerto Rico, or the District ofColumbia under section 316, 502, 503, 504, or 505 of title 32 for which the member is entitled to pay from the United States or for which the member has waived pay from the United States.
+&emsp;(5) The term “full-time National Guard duty” means training or other duty, other than inactive duty, performed by a member of the Army National Guard of the United States or the Air National Guard of the United States in the member's status as a member of the National Guard of a State or territory, the Commonwealth of Puerto Rico, or the District of Columbia under section 316, 502, 503, 504, or 505 of title 32 for which the member is entitled to pay from the United States or for which the member has waived pay from the United States.
 
 &emsp;(6)(A) The term “active Guard and Reserve duty” means active duty or full-time National Guard duty performed by a member of a reserve component of the Army, Navy, Air Force, or Marine Corps, or full-time National Guard duty performed by a member of the National Guard, pursuant to an order to active duty or full-time National Guard duty for a period of 180 consecutive days or more for the purpose of organizing, administering, recruiting, instructing, or training the reserve components.
 
 &emsp;(B) Such term does not include the following:
 
-&emsp;&emsp;(i) Duty performed as a member of the Reserve Forces Policy Board provided for under section 175 of this title.
+&emsp;&emsp;(i) Duty performed as a member of the Reserve Forces Policy Board provided for under section 10301 of this title.
 
 &emsp;&emsp;(ii) Duty performed as a property and fiscal officer under section 708 of title 32.
 
@@ -184,7 +184,7 @@ Reference to Title 1
 
 Definitions.—For other definitions applicable to this title, see sections 1 through 5 of title 1.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 3; Sept. 2, 1958, Pub. L. 85–861, §§1(1), 33(a)(1), 72 Stat. 1437, 1564; June 25, 1959, Pub. L. 86–70, §6(a), 73 Stat. 142; July 12, 1960, Pub. L. 86–624, §4(a), 74 Stat. 411; Sept. 7, 1962, Pub. L. 87–649, §6(f)(1), 76 Stat. 494; Jan. 2, 1968, Pub. L. 90–235, §7(a)(1), 81 Stat. 762; Oct. 22, 1968, Pub. L. 90–623, §2(1), 82 Stat. 1314; Oct. 13, 1972, Pub. L. 92–492, §1, 86 Stat. 810; Dec. 12, 1980, Pub. L. 96–513, title I, §§101, 115(a), title V, §501(2), 94 Stat. 2839, 2877, 2907; July 10, 1981, Pub. L. 97–22, §2(a), 95 Stat. 124; Dec. 1, 1981, Pub. L. 97–86, title IV, §405(b)(1), 95 Stat. 1105; Oct. 19, 1984, Pub. L. 98–525, title IV, §414(a)(1), 98 Stat. 2518; Nov. 8, 1985, Pub. L. 99–145, title V, §514(b)(1), 99 Stat. 628; July 1, 1986, Pub. L. 99–348, title III, §303, 100 Stat. 703; Oct. 1, 1986, Pub. L. 99–433, title III, §302, 100 Stat. 1022; Apr. 21, 1987, Pub. L. 100–26, §7(i), (k)(1), 101 Stat. 282, 283; Dec. 4, 1987, Pub. L. 100–180, div. A, title XII, §§1231(1), (20), 1233(a)(2), 101 Stat. 1160, 1161; Sept. 29, 1988, Pub. L. 100–456, div. A, title XII, §1234(a)(1), 102 Stat. 2059; Nov. 5, 1990, Pub. L. 101–510, div. A, title XII, §1204, 104 Stat. 1658; Dec. 5, 1991, Pub. L. 102–190, div. A, title VI, §631(a), 105 Stat. 1380; Oct. 23, 1992, Pub. L. 102–484, div. A, title X, §1051(a), 106 Stat. 2494; Oct. 5, 1994, Pub. L. 103–337, div. A, title V, §514, title XVI, §§1621, 1671(c)(1), 108 Stat. 2753, 2960, 3014.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 3; Sept. 2, 1958, Pub. L. 85–861, §§1(1), 33(a)(1), 72 Stat. 1437, 1564; June 25, 1959, Pub. L. 86–70, §6(a), 73 Stat. 142; July 12, 1960, Pub. L. 86–624, §4(a), 74 Stat. 411; Sept. 7, 1962, Pub. L. 87–649, §6(f)(1), 76 Stat. 494; Jan. 2, 1968, Pub. L. 90–235, §7(a)(1), 81 Stat. 762; Oct. 22, 1968, Pub. L. 90–623, §2(1), 82 Stat. 1314; Oct. 13, 1972, Pub. L. 92–492, §1, 86 Stat. 810; Dec. 12, 1980, Pub. L. 96–513, title I, §§101, 115(a), title V, §501(2), 94 Stat. 2839, 2877, 2907; July 10, 1981, Pub. L. 97–22, §2(a), 95 Stat. 124; Dec. 1, 1981, Pub. L. 97–86, title IV, §405(b)(1), 95 Stat. 1105; Oct. 19, 1984, Pub. L. 98–525, title IV, §414(a)(1), 98 Stat. 2518; Nov. 8, 1985, Pub. L. 99–145, title V, §514(b)(1), 99 Stat. 628; July 1, 1986, Pub. L. 99–348, title III, §303, 100 Stat. 703; Oct. 1, 1986, Pub. L. 99–433, title III, §302, 100 Stat. 1022; Apr. 21, 1987, Pub. L. 100–26, §7(i), (k)(1), 101 Stat. 282, 283; Dec. 4, 1987, Pub. L. 100–180, div. A, title XII, §§1231(1), (20), 1233(a)(2), 101 Stat. 1160, 1161; Sept. 29, 1988, Pub. L. 100–456, div. A, title XII, §1234(a)(1), 102 Stat. 2059; Nov. 5, 1990, Pub. L. 101–510, div. A, title XII, §1204, 104 Stat. 1658; Dec. 5, 1991, Pub. L. 102–190, div. A, title VI, §631(a), 105 Stat. 1380; Oct. 23, 1992, Pub. L. 102–484, div. A, title X, §1051(a), 106 Stat. 2494; Oct. 5, 1994, Pub. L. 103–337, div. A, title V, §514, title XVI, §§1621, 1671(c)(1), 108 Stat. 2753, 2960, 3014; Feb. 10, 1996, Pub. L. 104–106, div. A, title XV, §1501(c)(1), 110 Stat. 498; Sept. 23, 1996, Pub. L. 104–201, div. A, title V, §522, 110 Stat. 2517.)
 
 Historical and Revision Notes<br>1956
 
@@ -205,6 +205,14 @@ Act
 101(4)
 
 101(5)
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 101(6)
 
@@ -234,6 +242,10 @@ July 9, 1952, ch. 608, §101(d) (less 2d sentence), (e), (g), §702 (for definit
 
 101(10)
 
+&nbsp;
+
+&nbsp;
+
 101(11)
 
 10:600(a); 34:135(a).
@@ -248,7 +260,19 @@ July 26, 1947, ch. 343, §§205(c) (for definition purposes), 206(a) (for defini
 
 101(12)
 
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 101(13)
+
+&nbsp;
 
 101(14)
 
@@ -271,6 +295,12 @@ June 3, 1916, ch. 134, §117 (for definition purposes), 39 Stat. 212.
 101(16)
 
 101(17)
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 101(18)
 
@@ -418,6 +448,10 @@ Section 125(d) of this title, referred to in subsec. (a)(12)(A), was repealed by
 
 #### Amendments
 
+1996—Subsec. (d)(4). Pub. L. 104–201 substituted “a member of a reserve component” for “a reserve commissioned officer, other than a commissioned warrant officer,”.
+
+Subsec. (d)(6)(B)(i). Pub. L. 104–160 substituted “section 10301” for “section 175”.
+
 1994—Subsec. (a)(13)(B). Pub. L. 103–337, §1671(c)(1), substituted “688, 12301(a), 12302, 12304, 12305, or 12406” for “672(a), 673, 673b, 673c, 688, 3500, or 8500”.
 
 Subsec. (c)(7). Pub. L. 103–337, §1621, added par. (7).
@@ -494,6 +528,10 @@ Par. 36. Pub. L. 90–235 added par. (36).
 
 Par. (35). Pub. L. 85–861, §33(a)(1), added par. (35).
 
+#### Effective Date of 1996 Amendment
+
+Section 1501(c) of Pub. L. 104–106 provided that the amendment made by that section is effective as of Dec. 1, 1994, and as if included as an amendment made by the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as originally enacted.
+
 #### Effective Date of 1994 Amendment
 
 Amendment by section 1671(c)(1) of Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provided, and amendment by section 1621 of Pub. L. 103–337 effective Oct. 1, 1996, see section 1691 of Pub. L. 103–337, set out as an Effective Date note under section 10001 of this title.
@@ -558,11 +596,19 @@ Section 702 of Pub. L. 96–513 provided that: “If a provision of law that is 
 
 #### National Oceanic and Atmospheric Administration
 
-Authority vested by this title in “military departments”, “the Secretary concerned”, or “the Secretaryof Defense” to be exercised, with respect to Coast and Geodetic Survey \[now commissioned officer corps of National Oceanic and Atmospheric Administration\], by Secretary of Commerce or his designee, see section 857a of Title 33, Navigation and Navigable Waters.
+Authority vested by this title in “military departments”, “the Secretary concerned”, or “the Secretary of Defense” to be exercised, with respect to Coast and Geodetic Survey \[now commissioned officer corps of National Oceanic and Atmospheric Administration\], by Secretary of Commerce or his designee, see section 857a of Title 33, Navigation and Navigable Waters.
 
 #### Public Health Service
 
 Authority vested by this title in “military departments”, “the Secretary concerned”, or “the Secretary of Defense” to be exercised, with respect to commissioned officers of Public Health Service, by Secretary of Health and Human Services or his designee, see section 213a of Title 42, The Public Health and Welfare.
+
+#### Coordination of Section 1074 of Pub. L. 104–201 With Other Provisions of Pub. L. 104–201
+
+Section 1074(e) of Pub. L. 104–201 provided that: “For purposes of applying amendments made by provisions of this Act other than provisions of this section \[see Tables for classification\], this section shall be treated as having been enacted immediately before the other provisions of this Act.”
+
+#### Coordination of Title XV of Div. A of Pub. L. 104–106 With Other Provisions of Pub. L. 104–106
+
+Section 1506 of title XV of div. A of Pub. L. 104–106 provided that: “For purposes of applying amendments made by provisions of this Act other than provisions of this title \[see Tables for classification\], this title shall be treated as having been enacted immediately before the other provisions of this Act.”
 
 #### Coordination of Section 1070 of Pub. L. 103–337 With Other Provisions of Pub. L. 103–337
 
@@ -598,5 +644,5 @@ Partial mobilization, see section 10207 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 5 sections 8331, 8401; title 14 section 423; title 18 section 232; title 33 sections 853<i>o</i>, 857–1; title 37 section 101; title 39 section 3401; title 42 sections 5170b, 7235, 12639; title 50 App. section 592.
+This section is referred to in title 5 sections 8331, 8401; title 14 section 423; title 18 section 232; title 31 section 3711; title 33 sections 853<i>o</i>, 857–1; title 37 section 101; title 39 section 3401; title 42 sections 5170b, 7235, 12639; title 50 App. section 592.
 

@@ -33,7 +33,7 @@ Prerequisites for consent by President; report to Congress.
 
 (b)
 
-Repealed.
+Necessity of consent by President.
 
 (c)
 
@@ -126,11 +126,19 @@ Sales affecting combat readiness of Armed Forces; statement to Congress; limitat
 
 (j)
 
-Tank and infantry vehicle upgrades.
+Repealed.
 
 (k)
 
 Effect of sales of excess defense articles on national technology and industrial base.
+
+(<i>l</i>)
+
+Repair of defense articles.
+
+(m)
+
+Return of defense articles.
 
 |  |  |
 | :--- | ---: |
@@ -149,6 +157,10 @@ Issuance of letters of offer under emergency determination; availability of appr
 (c)
 
 Applicability of Renegotiation Act of 1951.
+
+(d)
+
+Competitive pricing.
 
 |  |  |
 | :--- | ---: |
@@ -175,6 +187,18 @@ Participations in credits.
 (e)
 
 Payments on account of prior credits or loans.
+
+(f)
+
+Audit of certain private firms.
+
+(g)
+
+Notification requirements with respect to cash flow financing.
+
+(h)
+
+Limitation on use of funds for direct commercial contracts.
 
 |  |  |
 | :--- | ---: |
@@ -290,18 +314,9 @@ Cooperative project agreements with friendly foreign countries not members of NA
 
 |  |  |
 | :--- | ---: |
-| [2767a.](Subchapter%20002%20%28II%29%20-%20Foreign%20Military%20Sales%20Authorizations/%C2%A7%2002767a%20-%20Repealed.%20Pub.%20L.%20101%E2%80%93189%2C%20div.%20A%2C%20title%20IX%2C%20%C2%A7931%28d%29%282%29%2C%20Nov.%2029%2C%201989%2C%20103%20Stat.%201535.md) | Repealed. |
-| [2768\.](Subchapter%20002%20%28II%29%20-%20Foreign%20Military%20Sales%20Authorizations/%C2%A7%2002768%20-%20Reports%20on%20price%20and%20availability%20estimates.md) | Reports on price and availability estimates. |
+| 2767a, 2768. | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-(a)
-
-Estimates to foreign countries respecting defense articles or services.
-
-(b)
-
-Requests from foreign countries respecting offers to sell defense articles or services.
 
 #### SUBCHAPTER II–A—FOREIGN MILITARY CONSTRUCTION SALES
 
@@ -373,11 +388,7 @@ Aggregate ceilings on credit sales; availability at concessional rates of intere
 
 (c)
 
-Extended repayment terms.
-
-(d)
-
-Aggregate acquisition cost ceiling for ordered excess defense articles.
+Interest rates.
 
 |  |  |
 | :--- | ---: |
@@ -408,6 +419,10 @@ Commercial technical assistance or manufacturing licensing agreements with non-N
 (e)
 
 Definitions.
+
+(e)
+
+Publication of arms sales certifications.
 
 |  |  |
 | :--- | ---: |
@@ -560,11 +575,49 @@ Criminal penalty.
 
 Civil penalties; enforcement.
 
-(<i>l)</i>
+(<i>l</i>)
 
 Definitions.
 
-#### SUBCHAPTER IV—GENERAL, ADMINISTRA- TIVE, AND MISCELLANEOUS PROVISIONS
+|  |  |
+| :--- | ---: |
+| [2781\.](Subchapter%20003%20%28III%29%20-%20Military%20Export%20Controls/%C2%A7%2002781%20-%20Transactions%20with%20countries%20not%20fully%20cooperating%20with%20United%20States%20antiterrorism%20efforts.md) | Transactions with countries not fully cooperating with United States antiterrorism efforts. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Prohibited transactions.
+
+(b)
+
+Waiver.
+
+#### SUBCHAPTER III–A—END-USE MONITORING OF DEFENSE ARTICLES AND DEFENSE SERVICES
+
+|  |  |
+| :--- | ---: |
+| [2785\.](Subchapter%20003%E2%80%93A%20%28III%E2%80%93A%29%20-%20End-Use%20Monitoring%20of%20Defense%20Articles%20and%20Defense%20Services/%C2%A7%2002785%20-%20End-use%20monitoring%20of%20defense%20articles%20and%20defense%20services.md) | End-use monitoring of defense articles and defense services. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Establishment of monitoring program.
+
+(b)
+
+Conduct of program.
+
+(c)
+
+Report to Congress.
+
+(d)
+
+Third country transfers.
+
+#### SUBCHAPTER IV—GENERAL, ADMINISTRATIVE, AND MISCELLANEOUS PROVISIONS
 
 |  |  |
 | :--- | ---: |
@@ -661,17 +714,9 @@ Storage, maintenance and other costs.
 
 |  |  |
 | :--- | ---: |
-| [2795b.](Subchapter%20005%20%28V%29%20-%20Special%20Defense%20Acquisition%20Fund/%C2%A7%2002795b%20-%20Annual%20reports%20to%20Congress.md) | Annual reports to Congress. |
+| [2795b.](Subchapter%20005%20%28V%29%20-%20Special%20Defense%20Acquisition%20Fund/%C2%A7%2002795b%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93164%2C%20title%20I%2C%20%C2%A7145%28a%29%2C%20July%2021%2C%201996%2C%20110%20Stat.%201434.md) | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-(a)
-
-Comprehensive report on acquisitions of defense articles and services.
-
-(b)
-
-Estimate of likely procurements to be made through Fund.
 
 #### SUBCHAPTER VI—LEASES OF DEFENSE ARTICLES AND LOAN AUTHORITY FOR COOPERATIVE RESEARCH AND DEVELOPMENT PURPOSES
 
@@ -706,6 +751,10 @@ Written certification to Speaker of the House and chairmen of Congressional comm
 (b)
 
 Waiver; determination of emergency.
+
+(c)
+
+Transmission of certification.
 
 |  |  |
 | :--- | ---: |
@@ -746,7 +795,7 @@ Prohibitions.
 
 (d)
 
-“NATO or major non-NATO ally” defined.
+“NATO ally” defined.
 
 #### SUBCHAPTER VII—CONTROL OF MISSILES AND MISSILE EQUIPMENT OR TECHNOLOGY
 
@@ -971,7 +1020,7 @@ Prohibitions on assistance to countries involved in transfer or use of nuclear e
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to sections 2272, 2291, 2291e, 2291f, 2304, 2311, 2318, 2321h, 2321i, 2349a, 2349aa–2, 2364, 2370a, 2373, 2394–1, 2413, 2414, 2423, 2778a, 3402, 5603, 5605, 6003 of this title; title 10 sections 130, 2344, 2350b, 2350c; title 12 section 635; title 15 section 4605; title 18 section 2516; title 26 section 901; title 29 sections 1662d, 1662d–1; title 49 section 44908; title 50 section 415.
+This chapter is referred to sections 2272, 2291, 2291e, 2291f, 2304, 2311, 2318, 2321h, 2321i, 2321j, 2321k, 2349a, 2349aa–2, 2364, 2370a, 2373, 2378–1, 2394–1, 2403, 2413, 2414, 2423, 2778a, 3402, 5603, 5605, 6003, 6041 of this title; title 10 sections 130, 2344, 2350b, 2350c; title 12 section 635; title 15 section 4605; title 18 section 2516; title 26 section 901; title 29 sections 1662d, 1662d–1; title 49 section 44908; title 50 section 415.
 
 
 ---
@@ -984,6 +1033,7 @@ This chapter is referred to sections 2272, 2291, 2291e, 2291f, 2304, 2311, 2318,
 - [Subchapter 002&#8211;B (II&#8211;B) - Sales to United States Companies for Incorporation into End Items](Subchapter%20002%E2%80%93B%20%28II%E2%80%93B%29%20-%20Sales%20to%20United%20States%20Companies%20for%20Incorporation%20into%20End%20Items/README.md)
 - [Subchapter 002&#8211;C (II&#8211;C) - Exchange of Training and Related Support](Subchapter%20002%E2%80%93C%20%28II%E2%80%93C%29%20-%20Exchange%20of%20Training%20and%20Related%20Support/README.md)
 - [Subchapter 003 (III) - Military Export Controls](Subchapter%20003%20%28III%29%20-%20Military%20Export%20Controls/README.md)
+- [Subchapter 003&#8211;A (III&#8211;A) - End-Use Monitoring of Defense Articles and Defense Services](Subchapter%20003%E2%80%93A%20%28III%E2%80%93A%29%20-%20End-Use%20Monitoring%20of%20Defense%20Articles%20and%20Defense%20Services/README.md)
 - [Subchapter 004 (IV) - General, Administrative, and Miscellaneous Provisions](Subchapter%20004%20%28IV%29%20-%20General%2C%20Administrative%2C%20and%20Miscellaneous%20Provisions/README.md)
 - [Subchapter 005 (V) - Special Defense Acquisition Fund](Subchapter%20005%20%28V%29%20-%20Special%20Defense%20Acquisition%20Fund/README.md)
 - [Subchapter 006 (VI) - Leases of Defense Articles and Loan Authority for Cooperative Research and Development Purposes](Subchapter%20006%20%28VI%29%20-%20Leases%20of%20Defense%20Articles%20and%20Loan%20Authority%20for%20Cooperative%20Research%20and%20Development%20Purposes/README.md)

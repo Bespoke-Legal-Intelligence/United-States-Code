@@ -24,7 +24,7 @@
 
 &emsp;&emsp;(i) service rendered as an employee of a county committee established pursuant to section 8(b) of the Soil Conservation and Allotment Act or of a committee or association of producers described in section 10(b) of the Agricultural Adjustment Act; and
 
-&emsp;&emsp;(ii) service rendered as an employee described in section 2105(c) if such employee moves or has moved, on or after January 1, 1987, without a break in service of more than 3 days, from a position in a nonappropriated fund instrumentality of the Department of Defense or the Coast Guard to a position in the Department of Defense or the Coast Guard, respectively, that is not described in section 2105(c).
+&emsp;&emsp;(ii) service rendered as an employee described in section 2105(c) if such employee moves or has moved, on or after January 1, 1966, without a break in service of more than 3 days, from a position in a nonappropriated fund instrumentality of the Department of Defense or the Coast Guard to a position in the Department of Defense or the Coast Guard, respectively, that is not described in section 2105(c).
 
 (b) A preference eligible described in section 2108(3)(C) of this title who has a compensable service-connected disability of 30 percent or more and whose performance has not been rated unacceptable under a performance appraisal system implemented under chapter 43 of this title is entitled to be retained in preference to other preference eligibles.
 
@@ -72,7 +72,21 @@
 
 (3) No notice period may be shortened to less than 30 days under this subsection.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 428; Pub. L. 90–367, §3, June 29, 1968, 82 Stat. 278; Pub. L. 90–623, §1(23), Oct. 22, 1968, 82 Stat. 1313; Pub. L. 95–454, title III, §307(e), title IX, §906(a)(2), Oct. 13, 1978, 92 Stat. 1149, 1224; Pub. L. 99–251, title III, §306(a), Feb. 27, 1986, 100 Stat. 27; Pub. L. 101–508, title VII, §7202(c), Nov. 5, 1990, 104 Stat. 1388–335; Pub. L. 102–484, div. D, title XLIV, §4433(a)(1), Oct. 23, 1992, 106 Stat. 2721.)
+(f)(1) The Secretary of Defense or the Secretary of a military department may—
+
+&emsp;(A) separate from service any employee who volunteers to be separated under this subparagraph even though the employee is not otherwise subject to separation due to a reduction in force; and
+
+&emsp;(B) for each employee voluntarily separated under subparagraph (A), retain an employee in a similar position who would otherwise be separated due to a reduction in force.
+
+(2) The separation of an employee under paragraph (1)(A) shall be treated as an involuntary separation due to a reduction in force.
+
+(3) An employee with critical knowledge and skills (as defined by the Secretary concerned) may not participate in a voluntary separation under paragraph (1)(A) if the Secretary concerned determines that such participation would impair the performance of the mission of the Department of Defense or the military department concerned.
+
+(4) The regulations prescribed under this section shall incorporate the authority provided in this subsection.
+
+(5) No authority under paragraph (1) may be exercised after September 30, 2001.
+
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 428; Pub. L. 90–367, §3, June 29, 1968, 82 Stat. 278; Pub. L. 90–623, §1(23), Oct. 22, 1968, 82 Stat. 1313; Pub. L. 95–454, title III, §307(e), title IX, §906(a)(2), Oct. 13, 1978, 92 Stat. 1149, 1224; Pub. L. 99–251, title III, §306(a), Feb. 27, 1986, 100 Stat. 27; Pub. L. 101–508, title VII, §7202(c), Nov. 5, 1990, 104 Stat. 1388–335; Pub. L. 102–484, div. D, title XLIV, §4433(a)(1), Oct. 23, 1992, 106 Stat. 2721; Pub. L. 104–106, div. A, title X, §§1034, 1043(d)(1), Feb. 10, 1996, 110 Stat. 430, 438; Pub. L. 104–201, div. A, title XVI, §1609, Sept. 23, 1996, 110 Stat. 2738.)
 
 Historical and Revision Notes
 
@@ -80,7 +94,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 (a)
 
@@ -112,21 +128,49 @@ The Job Training Partnership Act, referred to in subsec. (d)(3), (4), is Pub. L.
 
 #### Amendments
 
-<b>1992</b>—Subsecs. (d), (e). Pub. L. 102–484 added subsecs. (d) and (e).
+1996—Subsec. (a)(C)(ii). Pub. L. 104–106, §1043(d)(1), substituted “January 1, 1966” for “January 1, 1987”.
 
-<b>1990</b>—Subsec. (a)(C). Pub. L. 101–508 amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “is entitled to credit for service rendered as an employee of a county committee established pursuant to section 590h(b) of title 16, or of a committee or an association of producers described in section 610(b) of title 7.”
+Subsec. (f). Pub. L. 104–201 amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows:
 
-<b>1986</b>—Subsec. (a)(C). Pub. L. 99–251 struck out “who is an employee in or under the Department of Agriculture” before “is entitled to credit”.
+“(f)(1) The Secretary of Defense or the Secretary of a military department may—
 
-<b>1978</b>—Subsec. (a). Pub. L. 95–454, §906(a)(2), substituted “Office of Personnel Management” for “Civil Service Commission”.
+&emsp;“(A) release in a reduction in force an employee who volunteers for the release even though the employee is not otherwise subject to release in the reduction in force under the criteria applicable under the other provisions of this section; and
+
+&emsp;“(B) for each employee voluntarily released in the reduction in force under subparagraph (A), retain an employee in a similar position who would otherwisebe released in the reduction in force under such criteria.
+
+“(2) A voluntary release of an employee in a reduction in force pursuant to paragraph (1) shall be treated as an involuntary release in the reduction in force.
+
+“(3) An employee with critical knowledge and skills (as defined by the Secretary concerned) may not participate in a voluntary release under paragraph (1) if the Secretary concerned determines that such participation would impair the performance of the mission of the Department of Defense or the military department concerned.
+
+“(4) The regulations prescribed under this section shall incorporate the authority provided in this subsection.
+
+“(5) The authority under paragraph (1) may not be exercised after September 30, 1996.”
+
+Pub. L. 104–106, §1034, added subsec. (f).
+
+1992—Subsecs. (d), (e). Pub. L. 102–484 added subsecs. (d) and (e).
+
+1990—Subsec. (a)(C). Pub. L. 101–508 amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “is entitled to credit for service rendered as an employee of a county committee established pursuant to section 590h(b) of title 16, or of a committee or an association of producers described in section 610(b) of title 7.”
+
+1986—Subsec. (a)(C). Pub. L. 99–251 struck out “who is an employee in or under the Department of Agriculture” before “is entitled to credit”.
+
+1978—Subsec. (a). Pub. L. 95–454, §906(a)(2), substituted “Office of Personnel Management” for “Civil Service Commission”.
 
 Subsec. (b). Pub. L. 95–454, §307(e), substituted provisions relating to retention of a preference eligible with a compensable service-connected disability of 30 percent or more, for provisions relating to retention of preference eligible employees on the basis of ratings.
 
 Subsec. (c). Pub. L. 95–454, §307(e), added subsec. (c).
 
-<b>1968</b>—Subsec. (a). Pub. L. 90–623 made minor changes in form and punctuation in subpars. (A) and (B), and, in subpar. (C), substituted “section 590h(b) of title 16” and “section 610(b) of title 7” for “section 8(b) of the Soil Conservation and Domestic Allotment Act (16 U.S.C. 590h(b))” and “section 10(b) of the Agricultural Adjustment Act of May 12, 1933 (48 Stat. 37)” respectively.
+1968—Subsec. (a). Pub. L. 90–623 made minor changes in form and punctuation in subpars. (A) and (B), and, in subpar. (C), substituted “section 590h(b) of title 16” and “section 610(b) of title 7” for “section 8(b) of the Soil Conservation and Domestic Allotment Act (16 U.S.C. 590h(b))” and “section 10(b) of the Agricultural Adjustment Act of May 12, 1933 (48 Stat. 37)” respectively.
 
 Subsec. (a)(C). Pub. L. 90–367 added subsec. (a)(C).
+
+#### Effective Date of 1996 Amendment
+
+Section 1043(d)(2) of Pub. L. 104–106 provided that: “Notwithstanding any provision of subsection (c) \[set out as a note under section 8347 of this title\], the amendment made by paragraph (1) \[amending this section\] shall—
+
+&emsp;“(A) take effect on the date of the enactment of this Act \[Feb. 10, 1996\]; and
+
+&emsp;“(B) apply with respect to any reduction in force carried out on or after such date.”
 
 #### Effective Date of 1992 Amendment
 
@@ -143,6 +187,10 @@ Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section
 #### Effective Date of 1968 Amendment
 
 Amendment by Pub. L. 90–623 intended to restate without substantive change the law in effect on Oct. 22, 1968, see section 6 of Pub. L. 90–623, set out as a note under section 5334 of this title.
+
+#### Regulations
+
+For provisions relating to promulgation of regulations necessary to carry out amendment by section 1043(d)(1) of Pub. L. 104–106, see section 1043(b) of Pub. L. 104–106, set out as a Regulations; Effective Date of 1996 Amendment note under section 8347 of this title.
 
 #### Interagency Placement Program for Federal Employees Affected by Reductions in Force
 
@@ -228,5 +276,5 @@ George Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 7512, 7521 of this title; title 10 section 1586; title 22 section 1438; title 25 section 472a; title 32 section 709.
+This section is referred to in sections 7512, 7521 of this title; title 10 sections 1586, 1599c, 1610; title 22 section 1438; title 25 section 472a; title 32 section 709.
 

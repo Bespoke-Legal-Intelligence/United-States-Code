@@ -6,7 +6,7 @@ Titles I and II of act June 17, 1930, ch. 497, 46 Stat. 590, 672, which comprise
 
 #### Change of Name
 
-United States Tariff Commission renamed United States International Trade Commission by Pub. L. 93–618, title I, §171, Jan. 3, 1975, 88 Stat. 2009, which is classified to section 2231 of this title.
+United States Tariff Commission renamed United States International Trade Commission by Pub. L.93–618, title I, §171, Jan. 3, 1975, 88 Stat. 2009, which is classified to section 2231 of this title.
 
 #### Enactment of Harmonized Tariff Schedule
 

@@ -6,7 +6,7 @@ In the performance of, and with respect to, the functions, powers, and duties, v
 
 &emsp;(1) prescribe such regulations as may be necessary to carry out the purposes of this part, including regulations applicable to third party servicers (including regulations concerning financial responsibility standards for, and the assessment of liabilities for program violations against, such servicers) to establish minimum standards with respect to sound management and accountability of programs under this part, except that in no case shall damages be assessed against the United States for the actions or inactions of such servicers;
 
-&emsp;(2) sue and be sued in any court of record of a State having general jurisdiction or in any district court of the United States, and such district courts shall have jurisdiction of civil actions arising under this part without regard to the amount in controversy, and action instituted under this subsection by or against the Secretary shall survive notwithstanding any change in the person occupying the office of Secretary or any vacancy in that office; but no attachment, injunction, garnishment, or other similar process, mesne or final, shall be issued against the Secretary or property under the Secretary's control and nothing herein shall be construed to except litigation arising out of activities under this part from the application of sections 509, 517, 547, and 2679 of title 28;
+&emsp;(2) sue and be sued in any court of record of a State having general jurisdiction or in any district court of the United States, and such district courts shall have jurisdiction of civil actions arising under this part without regardto the amount in controversy, and action instituted under this subsection by or against the Secretary shall survive notwithstanding any change in the person occupying the office of Secretary or any vacancy in that office; but no attachment, injunction, garnishment, or other similar process, mesne or final, shall be issued against the Secretary or property under the Secretary's control and nothing herein shall be construed to except litigation arising out of activities under this part from the application of sections 509, 517, 547, and 2679 of title 28;
 
 &emsp;(3) include in any contract for Federal loan insurance such terms, conditions, and covenants relating to repayment of principal and payment of interest, relating to the Secretary's obligations and rights to those of eligible lenders, and borrowers in case of default, and relating to such other matters as the Secretary determines to be necessary to assure that the purposes of this part will be achieved; and any term, condition, and covenant made pursuant to this paragraph or pursuant to any other provision of this part may be modified by the Secretary, after notice and opportunity for a hearing, if the Secretary finds that the modification is necessary to protect the United States from the risk of unreasonable loss;
 
@@ -30,7 +30,7 @@ The Secretary shall, with respect to the financial operations arising by reason 
 
 &emsp;(C) The Secretary may designate such additional subcategories within the categories specified in subparagraph (B) of this paragraph as the Secretary deems appropriate.
 
-&emsp;(D) The category or designation of a loan shall not be changed for any reason, includingits purchase or acquisition by a lender of another category.
+&emsp;(D) The category or designation of a loan shall not be changed for any reason, including its purchase or acquisition by a lender of another category.
 
 #### (2) Collection and reporting requirements
 
@@ -118,7 +118,7 @@ Notwithstanding any other provision of law, the Secretary may provide to eligibl
 
 #### (5) Assignees not liable for violations by others
 
-&emsp;If a loan affected by a violation, failure, or substantial misrepresentation is assigned to another holder, the lender or guaranty agency responsible for the violation, failure, or substantial misrepresentation shall remain liable for any civil money penalty provided for under paragraph (1) of this subsection, but the assignee shall not be liable for any such civil money penalty.
+&emsp;If a loan affected by a violation, failure, or substantial misrepresentation is assigned to another holder, the lender or guaranty agency responsible for the violation, failure, or substantial misrepresentation shall remain liablefor any civil money penalty provided for under paragraph (1) of this subsection, but the assignee shall not be liable for any such civil money penalty.
 
 #### (6) Compromise
 
@@ -222,7 +222,7 @@ In the event that all other collection efforts have failed, the Secretary is aut
 
 #### (2) Publication
 
-&emsp;The Secretary shall publicize models for providing the repayment assistance described inparagraph (1) and each year select entities that deserve recognition, through means devised by the Secretary, for the development of innovative plans for providing such assistance to employees.
+&emsp;The Secretary shall publicize models for providing the repayment assistance described in paragraph (1) and each year select entities that deserve recognition, through means devised by the Secretary, for the development of innovative plans for providing such assistance to employees.
 
 #### (3) Recommendation
 
@@ -360,7 +360,7 @@ A prior section 1082, Pub. L. 89–329, title IV, §432, Nov. 8, 1965, 79 Stat. 
 
 &emsp;“(1) prepare annually and submit a budget program as provided for wholly owned Government corporations by chapter 91 of title 31; and
 
-&emsp;“(2) maintain with respect to insurance under this part an integral set of accounts and prepare financial statements in accordance with generally accepted accounting principles, which shall be audited annually by the General Accounting Office in conformity withgenerally accepted Government auditing standards except that the transactions of the Secretary, including the settlement of insurance claims and of claims for payments pursuant to section 1078 of this title, and transactions related thereto and vouchers approved by the Secretary in connection with such transactions, shall be final and conclusive upon all accounting and other officers of the Government.”
+&emsp;“(2) maintain with respect to insurance under this part an integral set of accounts and prepare financial statements in accordance with generally accepted accounting principles, which shall be audited annually by the General Accounting Office in conformity with generally accepted Government auditing standards except that the transactions of the Secretary, including the settlement of insurance claims and of claims for payments pursuant to section 1078 of this title, and transactions related thereto and vouchers approved by the Secretary in connection with such transactions, shall be final and conclusive upon all accounting and other officers of the Government.”
 
 1993—Subsec. (h)(2)(A), (3)(A). Pub. L. 103–208 amended directory language of Pub. L. 102–325, §425(d)(1). See 1992 Amendment notes below.
 
@@ -404,7 +404,7 @@ Subsec. (g)(2)(A)(i), (B). Pub. L. 100–50, §10(y), substituted “misrepresen
 
 #### Change of Name
 
-Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Economic and Educational Opportunities of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Fifth Congress, Jan. 7, 1997.
 
 #### Effective Date of 1993 Amendment
 

@@ -26,7 +26,7 @@
 | (i) | Metropolitan city as part of urban county. |
 | (j) | Retention of program income; condition of distribution. |
 | (k) | Provision of benefits to displaced persons. |
-| (<i>l)</i> | Protection of individuals engaging in nonviolent civil rights demonstrations. |
+| (<i>l</i>) | Protection of individuals engaging in nonviolent civil rights demonstrations. |
 | (m) | Community development plans. |
 | [5305\.](%C2%A7%2005305%20-%20Activities%20eligible%20for%20assistance.md) | Activities eligible for assistance. |
 | (a) | Enumeration of eligible activities. |
@@ -62,10 +62,10 @@
 | (i) | Omitted. |
 | (j) | Inclusion within gross income for purpose of chapter 1 of title 26 of interest paid on taxable obligations. |
 | (k) | Outstanding obligations; limitation; monitoring use of guarantees under this section. |
-| (<i>l)</i> | Purchase of guaranteed obligations by Federal Financing Bank. |
+| (<i>l</i>) | Purchase of guaranteed obligations by Federal Financing Bank. |
 | (m) | Limitation on imposition of fee or charge. |
 | (n) | State assistance in submission of applications. |
-| (<i>o)</i> | “Eligible public entity” defined. |
+| (<i>o</i>) | “Eligible public entity” defined. |
 | (p) | Training and information activities relating to home guarantee program. |
 | (q) | Economic development grants. |
 | (r) | Guarantee of obligations backed by loans. |
@@ -101,10 +101,10 @@
 | (i) | Minimum percentage of funds to be allocated to certain noncentral cities; application by consortia of cities of less than 50,000 population. |
 | (j) | Grant contingent on factors related to non-Federal funds. |
 | (k) | Duty of Secretary to minimize amount. |
-| (<i>l)</i> | Power of Secretary to waive requirement that town or township be closely settled. |
+| (<i>l</i>) | Power of Secretary to waive requirement that town or township be closely settled. |
 | (m) | Notice to State historic preservation officer and Secretary of the Interior required with regard to affected landmark property; opportunity for comment. |
 | (n) | Territories, tribes, and certain Hawaiian counties included in term “city”. |
-| (<i>o)</i> | Special provisions for years after 1983. |
+| (<i>o</i>) | Special provisions for years after 1983. |
 | (p) | Unincorporated portions of urban counties. |
 | (q) | Technical assistance grants. |
 | (r) | Nondiscrimination by Secretary against type of activity or applicant. |

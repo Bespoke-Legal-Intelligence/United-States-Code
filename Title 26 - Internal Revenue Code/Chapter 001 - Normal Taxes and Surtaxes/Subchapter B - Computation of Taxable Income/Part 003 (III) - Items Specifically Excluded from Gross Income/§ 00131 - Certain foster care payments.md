@@ -60,7 +60,7 @@ For purposes of this section—
 
 #### Prior Provisions
 
-A prior section 131 was renumbered section 137 of this title.
+A prior section 131 was renumbered section 138 of this title.
 
 #### Amendments
 

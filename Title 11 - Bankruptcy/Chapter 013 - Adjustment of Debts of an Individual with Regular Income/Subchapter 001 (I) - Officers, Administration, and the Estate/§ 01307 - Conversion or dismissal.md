@@ -32,7 +32,7 @@
 
 (f) Notwithstanding any other provision of this section, a case may not be converted to a case under another chapter of this title unless the debtor may be a debtor under such chapter.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2647; Pub. L. 98–353, title III, §§315, 527, July 10, 1984, 98 Stat. 356, 389; Pub. L. 99–554, title II, §§229, 257(v), Oct. 27, 1986, 100 Stat. 3103, 3116.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2647; Pub. L. 98–353, title III, §§315, 527, July 10, 1984, 98 Stat.356, 389; Pub. L. 99–554, title II, §§229, 257(v), Oct. 27, 1986, 100 Stat. 3103, 3116.)
 
 #### Historical and Revision Notes
 
@@ -42,7 +42,7 @@ Section 1307(a) is derived from the Senate amendment in preference to a comparab
 
 #### senate report no. 95–989
 
-Subsections (a) and (b) confirm, without qualification, the rights of a chapter 13 debtor to convert the case to a liquidating bankruptcy case under chapter 7 of title 11, at any time, or to have the chapter 13 casedismissed. Waiver of any such right is unenforceable. Subsection (c) specifies various conditions for the exercise of the power of the court to convert a chapter 13 case to one under chapter 7 or to dismiss the case. Subsection (d) deals with the conversion of a chapter 13 case to one under chapter 11. Subsection (e) prohibits conversion of the chapter 13 case filed by a farmer to chapter 7 or 11 except at the request of the debtor. No case is to be converted from chapter 13 to any other chapter, unless the debtor is an eligible debtor under the new chapter.
+Subsections (a) and (b) confirm, without qualification, the rights of a chapter 13 debtor to convert the case to a liquidating bankruptcy case under chapter 7 of title 11, at any time, or to have the chapter 13 case dismissed. Waiver of any such right is unenforceable. Subsection (c) specifies various conditions for the exercise of the power of the court to convert a chapter 13 case to one under chapter 7 or to dismiss the case. Subsection (d) deals with the conversion of a chapter 13 case to one under chapter 11. Subsection (e) prohibits conversion of the chapter 13 case filed by a farmer to chapter 7 or 11 except at the request of the debtor. No case is to be converted from chapter 13 to any other chapter, unless the debtor is an eligible debtor under the new chapter.
 
 #### house report no. 95–595
 

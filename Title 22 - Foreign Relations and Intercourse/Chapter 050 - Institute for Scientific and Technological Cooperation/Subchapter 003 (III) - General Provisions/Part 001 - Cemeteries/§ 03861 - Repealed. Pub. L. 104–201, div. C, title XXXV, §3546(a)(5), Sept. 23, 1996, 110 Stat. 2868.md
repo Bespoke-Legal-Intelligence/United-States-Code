@@ -1,0 +1,4 @@
+### §3861. Repealed. Pub. L. 104–201, div. C, title XXXV, §3546(a)(5), Sept. 23, 1996, 110 Stat. 2868
+
+Section, Pub. L. 96–70, title III, §3101, Sept. 27, 1979, 93 Stat. 496, related to disinterment, transportation, and reinterment of remains.
+

@@ -6,7 +6,7 @@ The Commissioner is authorized to provide financial assistance, on a single year
 
 #### (b) Limitations of financial assistance; exceptions; non-Federal contributions
 
-Financial assistance extended to an agency under this subchapter shall not exceed 80 per centum of the approved costs of the assisted project, except that the Commissioner may approve assistance in excess of such percentage if the Commissioner determines, in accordance with regulations establishing objective criteria, that such action is required in furtherance of the purposes of this subchapter. Non-Federal contributions may be in cash or in kind, fairly evaluated, including but not limited to plant, equipment, and services. The Commissionershall not require non-Federal contributions in excess of 20 per centum of the approved costs of programs or activities assisted under this subchapter.
+Financial assistance extended to an agency under this subchapter shall not exceed 80 per centum of the approved costs of the assisted project, except that the Commissioner may approve assistance in excess of such percentage if the Commissioner determines, in accordance with regulations establishing objective criteria, that such action is required in furtherance of the purposes of this subchapter. Non-Federal contributions may be in cash or in kind, fairly evaluated, including but not limited to plant, equipment, and services. The Commissioner shall not require non-Federal contributions in excess of 20 per centum of the approved costs of programs or activities assisted under this subchapter.
 
 #### (c) Assistance as addition to, and not substitution for, activities previously carried out without Federal assistance; waiver; nonreservation areas
 
@@ -36,7 +36,7 @@ Financial assistance extended to an agency under this subchapter shall not excee
 
 The Alaska Native Claims Settlement Act, referred to in subsec. (a), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
-This Act, referred to in subsec. (a), probably means the Native American Programs Act of 1974, Pub. L. 88–452, title VIII, as added by Pub. L. 93–644, §11, Jan. 4, 1975, 88 Stat. 2324, which is classified generally to this subchapter, see section 2991 of this title.
+This Act, referred to in subsec. (a), probably means the Native American Programs Act of 1974, Pub. L.88–452, title VIII, as added by Pub. L. 93–644, §11, Jan. 4, 1975, 88 Stat. 2324, which is classified generally to this subchapter, see section 2991 of this title.
 
 #### Prior Provisions
 

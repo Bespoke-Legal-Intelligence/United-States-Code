@@ -1,4 +1,4 @@
-### \[§895 . Repealed. Pub. L. 91–452, title II, §223(a), Oct. 15, 1970, 84 Stat. 929\]
+### \[§895. Repealed. Pub. L. 91–452, title II, §223(a), Oct. 15, 1970, 84 Stat. 929\]
 
 Section, Pub. L. 90–321, title II, §202(a), May 29, 1968, 82 Stat. 162, related to immunity from prosecution of any witness compelled to testify or produce evidence after claiming his privilege against self-incrimination. See section 6001 et seq. of this title.
 

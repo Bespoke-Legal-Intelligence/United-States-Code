@@ -14,10 +14,6 @@
 
 1950—Act Sept. 30, 1950, ch. 1115, §5(a), 64 Stat. 1090, added item for chapter 402.
 
-#### Part Referred to in Other Sections
-
-This part is referred to in title 22 section 3852.
-
 
 ---
 

@@ -26,7 +26,7 @@ As used in this chapter:
 
 &emsp;&emsp;&emsp;(i) for compensation or profit, engages in the business of advising others, either directly or through publications, writings, or electronic media, as to the value of or the advisability of trading in—
 
-&emsp;&emsp;&emsp;&emsp;(I) any contract of sale of a commodity for future delivery made or to be madeon or subject to the rules of a contract market;
+&emsp;&emsp;&emsp;&emsp;(I) any contract of sale of a commodity for future delivery made or to be made on or subject to the rules of a contract market;
 
 &emsp;&emsp;&emsp;&emsp;(II) any commodity option authorized under section 6c of this title; or
 
@@ -98,7 +98,7 @@ As used in this chapter:
 
 &emsp;&emsp;(A) between any State, territory, or possession, or the District of Columbia, and any place outside thereof; or
 
-&emsp;&emsp;(B) between points within the same state,<sup>1</sup> territory, or possession, or the District of Columbia, but through any place outside thereof, or within any territory or possession, or the District of Columbia.
+&emsp;&emsp;(B) between points within the same state,<sup>1</sup> territory, or possession, or the District of Columbia, but through any place outsidethereof, or within any territory or possession, or the District of Columbia.
 
 #### (14) Introducing broker
 

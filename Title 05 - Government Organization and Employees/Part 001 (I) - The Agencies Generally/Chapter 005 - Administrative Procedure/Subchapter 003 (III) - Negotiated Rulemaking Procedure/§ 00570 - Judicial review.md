@@ -4,11 +4,7 @@ Any agency action relating to establishing, assisting, or terminating a negotiat
 
 (Added Pub. L. 101–648, §3(a), Nov. 29, 1990, 104 Stat. 4976, §590; renumbered §570, Pub. L. 102–354, §3(a)(2), Aug. 26, 1992, 106 Stat. 944.)
 
-#### Repeal of Section
-
-<i>Section repealed effective six years after Nov. 29, 1990, see section 5 of Pub. L. 101–648, as amended, set out as an Effective Date of Repeal; Savings Provision note under section 561 of this title.</i>
-
 #### Amendments
 
-<b>1992</b>—Pub. L. 102–354 renumbered section 590 of this title as this section.
+1992—Pub. L. 102–354 renumbered section 590 of this title as this section.
 

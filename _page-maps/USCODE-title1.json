@@ -1,7 +1,7 @@
 {
  "built_by": "uscode_git_v0.1.12",
  "eid": "USCODE-title1",
- "package": "USCODE-1995-title1",
+ "package": "USCODE-1996-title1",
  "pieces": [
   {
    "id": "1_",
@@ -33,7 +33,7 @@
    "marks": [
     [
      "L",
-     10,
+     4,
      "[Page 2]",
      true
     ]
@@ -90,22 +90,31 @@
    ]
   },
   {
-   "id": "1_-ch2",
+   "id": "1_7",
    "marks": [
     [
      "I",
-     14,
+     2,
      [
       [
-       63,
+       228,
        "[Page 3]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 002 - Acts and Resolutions; Formalities of Enactment; Repeals; Sealing of Instruments/README.md",
+   "path": "Chapter 001 - Rules of Construction/§ 00007 - Definition of “marriage” and “spouse”.md",
    "printed_pages": [
     2,
+    3
+   ]
+  },
+  {
+   "id": "1_-ch2",
+   "marks": [],
+   "path": "Chapter 002 - Acts and Resolutions; Formalities of Enactment; Repeals; Sealing of Instruments/README.md",
+   "printed_pages": [
+    3,
     3
    ]
   },
@@ -159,54 +168,53 @@
    "marks": [
     [
      "I",
-     24,
+     16,
      [
       [
-       411,
+       222,
        "[Page 4]"
       ]
      ]
     ],
     [
-     "L",
-     138,
-     "[Page 5]",
-     true
+     "I",
+     114,
+     [
+      [
+       102,
+       "[Page 5]"
+      ]
+     ]
     ],
     [
      "I",
-     246,
+     232,
      [
       [
-       91,
+       302,
        "[Page 6]"
       ]
      ]
+    ],
+    [
+     "L",
+     308,
+     "[Page 7]",
+     true
     ]
    ],
    "path": "Chapter 002 - Acts and Resolutions; Formalities of Enactment; Repeals; Sealing of Instruments/§ 00106 - Printing bills and joint resolutions.md",
    "printed_pages": [
     3,
-    6
+    7
    ]
   },
   {
    "id": "1_106a",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       379,
-       "[Page 7]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 002 - Acts and Resolutions; Formalities of Enactment; Repeals; Sealing of Instruments/§ 00106a - Promulgation of laws.md",
    "printed_pages": [
-    6,
+    7,
     7
    ]
   },
@@ -221,11 +229,18 @@
   },
   {
    "id": "1_107",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     6,
+     "[Page 8]",
+     true
+    ]
+   ],
    "path": "Chapter 002 - Acts and Resolutions; Formalities of Enactment; Repeals; Sealing of Instruments/§ 00107 - Parchment or paper for printing enrolled bills or resolutions.md",
    "printed_pages": [
     7,
-    7
+    8
    ]
   },
   {
@@ -233,8 +248,8 @@
    "marks": [],
    "path": "Chapter 002 - Acts and Resolutions; Formalities of Enactment; Repeals; Sealing of Instruments/§ 00108 - Repeal of repealing act.md",
    "printed_pages": [
-    7,
-    7
+    8,
+    8
    ]
   },
   {
@@ -242,8 +257,8 @@
    "marks": [],
    "path": "Chapter 002 - Acts and Resolutions; Formalities of Enactment; Repeals; Sealing of Instruments/§ 00109 - Repeal of statutes as affecting existing liabilities.md",
    "printed_pages": [
-    7,
-    7
+    8,
+    8
    ]
   },
   {
@@ -251,27 +266,16 @@
    "marks": [],
    "path": "Chapter 002 - Acts and Resolutions; Formalities of Enactment; Repeals; Sealing of Instruments/§ 00110 - Saving clause of Revised Statutes.md",
    "printed_pages": [
-    7,
-    7
+    8,
+    8
    ]
   },
   {
    "id": "1_111",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       99,
-       "[Page 8]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 002 - Acts and Resolutions; Formalities of Enactment; Repeals; Sealing of Instruments/§ 00111 - Repeals as evidence of prior effectiveness.md",
    "printed_pages": [
-    7,
+    8,
     8
    ]
   },
@@ -288,10 +292,14 @@
    "id": "1_112a",
    "marks": [
     [
-     "L",
-     20,
-     "[Page 9]",
-     true
+     "I",
+     2,
+     [
+      [
+       701,
+       "[Page 9]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 002 - Acts and Resolutions; Formalities of Enactment; Repeals; Sealing of Instruments/§ 00112a - United States Treaties and Other International Agreements; contents; admissibility in evidence.md",
@@ -302,26 +310,26 @@
   },
   {
    "id": "1_112b",
-   "marks": [],
-   "path": "Chapter 002 - Acts and Resolutions; Formalities of Enactment; Repeals; Sealing of Instruments/§ 00112b - United States international agreements; transmission to Congress.md",
-   "printed_pages": [
-    9,
-    9
-   ]
-  },
-  {
-   "id": "1_113",
    "marks": [
     [
      "L",
-     4,
+     22,
      "[Page 10]",
      true
     ]
    ],
-   "path": "Chapter 002 - Acts and Resolutions; Formalities of Enactment; Repeals; Sealing of Instruments/§ 00113 - “Little and Brown's” edition of laws and treaties; slip laws; Treaties and Other International Acts Series; admissibility in evidence.md",
+   "path": "Chapter 002 - Acts and Resolutions; Formalities of Enactment; Repeals; Sealing of Instruments/§ 00112b - United States international agreements; transmission to Congress.md",
    "printed_pages": [
     9,
+    10
+   ]
+  },
+  {
+   "id": "1_113",
+   "marks": [],
+   "path": "Chapter 002 - Acts and Resolutions; Formalities of Enactment; Repeals; Sealing of Instruments/§ 00113 - “Little and Brown's” edition of laws and treaties; slip laws; Treaties and Other International Acts Series; admissibility in evidence.md",
+   "printed_pages": [
+    10,
     10
    ]
   },
@@ -348,7 +356,7 @@
    "marks": [
     [
      "L",
-     26,
+     4,
      "[Page 11]",
      true
     ]
@@ -381,10 +389,14 @@
    "id": "1_204",
    "marks": [
     [
-     "L",
-     22,
-     "[Page 12]",
-     true
+     "I",
+     4,
+     [
+      [
+       188,
+       "[Page 12]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 003 - Code of Laws of United States and Supplements; District of Columbia Code and Supplements/§ 00204 - Codes and Supplements as evidence of the laws of United States and District of Columbia; citation of Codes and Supplements.md",
@@ -395,11 +407,18 @@
   },
   {
    "id": "1_205",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     16,
+     "[Page 13]",
+     true
+    ]
+   ],
    "path": "Chapter 003 - Code of Laws of United States and Supplements; District of Columbia Code and Supplements/§ 00205 - Codes and Supplement; where printed; form and style; ancillaries.md",
    "printed_pages": [
     12,
-    12
+    13
    ]
   },
   {
@@ -407,8 +426,8 @@
    "marks": [],
    "path": "Chapter 003 - Code of Laws of United States and Supplements; District of Columbia Code and Supplements/§ 00206 - Bills and resolutions of Committee on the Judiciary of House of Representatives; form and style; ancillaries; curtailment of copies.md",
    "printed_pages": [
-    12,
-    12
+    13,
+    13
    ]
   },
   {
@@ -416,27 +435,16 @@
    "marks": [],
    "path": "Chapter 003 - Code of Laws of United States and Supplements; District of Columbia Code and Supplements/§ 00207 - Copies of acts and resolutions in slip form; additional number printed for Committee on the Judiciary of House of Representatives.md",
    "printed_pages": [
-    12,
-    12
+    13,
+    13
    ]
   },
   {
    "id": "1_208",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       181,
-       "[Page 13]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 003 - Code of Laws of United States and Supplements; District of Columbia Code and Supplements/§ 00208 - Delegation of function of Committee on the Judiciary to other agencies; printing, and so forth, under direction of Joint Committee on….md",
    "printed_pages": [
-    12,
+    13,
     13
    ]
   },
@@ -469,11 +477,22 @@
   },
   {
    "id": "1_212",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       91,
+       "[Page 14]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 003 - Code of Laws of United States and Supplements; District of Columbia Code and Supplements/§ 00212 - Additional distribution at each new Congress.md",
    "printed_pages": [
     13,
-    13
+    14
    ]
   },
   {
@@ -481,11 +500,11 @@
    "marks": [],
    "path": "Chapter 003 - Code of Laws of United States and Supplements; District of Columbia Code and Supplements/§ 00213 - Appropriation for preparing and editing supplements.md",
    "printed_pages": [
-    13,
-    13
+    14,
+    14
    ]
   }
  ],
- "provenance_line": "<!-- USCODE-1995-title1 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
+ "provenance_line": "<!-- USCODE-1996-title1 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
  "title_folder": "Title 01 - General Provisions"
 }

@@ -38,7 +38,7 @@ Section 58(c) of Pub. L. 98–369 provided that: “The amendments made by this 
 
 #### Cross References
 
-Construction reserve fund deposits under Merchant Marine Act of 1936 as not constituting accumulation of earnings or profits, see section 1161 of Title 46, Appendix, Shipping.
+Construction reserve fund deposits under Merchant Marine Act of 1936 as not constituting accumulation ofearnings or profits, see section 1161 of Title 46, Appendix, Shipping.
 
 #### Section Referred to in Other Sections
 

@@ -109,5 +109,5 @@ Section 10228(d) of Pub. L. 100–203 provided that: “The amendments made by t
 
 #### Subtitle Referred to in Other Sections
 
-This subtitle is referred to in sections 408, 460, 468A, 468B, 643, 810, 852, 860E, 860F, 874, 882, 911, 2661, 3121, 3402,3405, 3406, 3510, 4405, 4414, 4462, 4484, 4980, 4999, 5067, 5148, 5560, 5881, 7851 of this title; title 42 sections 401, 408, 1307, 1395i; title 48 section 1421i.
+This subtitle is referred to in sections 167, 408, 460, 468A, 468B, 643, 810, 852, 860E, 860F, 860K, 874, 882, 911, 2661, 3121, 3402, 3405, 3406, 3510, 4405, 4414, 4462, 4484, 4980, 4999, 5067, 5148, 5560, 5881, 7851 of this title; title 42 sections 401, 408, 1307, 1395i; title 48 section 1421i.
 

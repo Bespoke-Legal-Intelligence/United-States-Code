@@ -6,11 +6,11 @@ Whoever removes any timber from said public lands, with intent to export or to d
 
 Whoever, being the owner, master, pilot, operator, or consignee of any vessel, motor vehicle, or aircraft or the owner, director, or agent of any railroad, knowingly transports any timber so cut or removed from said lands, or lumber manufactured therefrom—
 
-Shall be fined not more than $1,000 or imprisoned not more than one year, or both.
+Shall be fined under this title or imprisoned not more than one year, or both.
 
 This section shall not prevent any miner or agriculturist from clearing his land in the ordinary working of his mining claim, or in the preparation of his farm for tillage, or from taking the timber necessary to support his improvements, or the taking of timber for the use of the United States; nor shall it interfere with or take away any right or privilege under any existing law of the United States to cut or remove timber from any public lands.
 
-(June 25, 1948, ch. 645, 62 Stat. 787.)
+(June 25, 1948, ch. 645, 62 Stat. 787; Oct. 11, 1996, Pub. L. 104–294, title VI, §601(a)(8), 110 Stat. 3498.)
 
 #### Historical and Revision Notes
 
@@ -21,6 +21,10 @@ Reference to persons causing or procuring was omitted as unnecessary in view of 
 Words “motor vehicle or aircraft” were inserted in third paragraph to remove any doubt as to scope of section in view of rapidly advancing methods of transportation.
 
 Minor changes were made in phraseology.
+
+#### Amendments
+
+1996—Pub. L. 104–294 substituted “fined under this title” for “fined not more than $1,000” in fourth par.
 
 #### Cross References
 

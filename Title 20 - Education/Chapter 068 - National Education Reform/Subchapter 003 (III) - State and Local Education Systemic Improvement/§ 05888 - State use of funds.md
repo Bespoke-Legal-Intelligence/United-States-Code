@@ -26,11 +26,7 @@ Each State educational agency that receives an allotment under this subchapter f
 
 &emsp;(2) use the remainder of such assistance for State activities designed to implement its State improvement plan, such as—
 
-&emsp;&emsp;(A) supporting the development or adoption of State content standards and State student performance standards, State opportunity-to-learn standards, and State assessments linked to such standards, including—
-
-&emsp;&emsp;&emsp;(i) through consortia of States; or
-
-&emsp;&emsp;&emsp;(ii) with the assistance of the National Education Standards and Improvement Council established under part B of subchapter II of this chapter;
+&emsp;&emsp;(A) supporting the development or adoption of State content standards and State student performance standards, and State assessments linked to such standards, including through consortia of States;
 
 &emsp;&emsp;(B) supporting the implementation of high-performance management and organizational strategies, such as site-based management, shared decisionmaking, or quality management principles, to promote effective implementation of such plan;
 
@@ -58,7 +54,7 @@ Each State educational agency that receives an allotment under this subchapter f
 
 #### (c) Limit on administrative costs
 
-A State educational agency that receives an allotment under this subchapter in any fiscal year shall use not more than 4 percent of such allotment in such year, or $100,000, whichever is greater, for administrative expenses, which administrative expenses shall not include the expenses related to the activities of the panel established under section 5886(b)(1) of this title.
+A State educational agency that receives an allotment under this subchapter in any fiscal year shall use not more than 4 percent of such allotment in such year, or $100,000, whichever is greater, for administrative expenses, which administrative expenses shall not include the expenses related to the activities of the panel established under section 5886(b) of this title.
 
 #### (d) Special rule
 
@@ -70,7 +66,17 @@ Any new public school established under this subchapter—
 
 &emsp;(3) shall operate under the authority of a State educational agency or local educational agency.
 
-(Pub. L. 103–227, title III, §308, Mar. 31, 1994, 108 Stat. 168.)
+(Pub. L. 103–227, title III, §308, Mar. 31, 1994, 108 Stat. 168; Pub. L. 104–134, title I, §101(d) \[title VII, §703(a)(10)\], Apr. 26, 1996, 110 Stat. 1321–211, 1321–253; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.)
+
+#### Amendments
+
+1996—Subsec. (b)(2)(A). Pub. L. 104–134, §101(d) \[title VII, §703(a)(10)(A)\], struck out “State opportunity-to-learn standards,” after “performance standards,”, substituted “including through consortia of States;” for “including—”, and struck out cls. (i) and (ii) which read as follows:
+
+“(i) through consortia of States; or
+
+“(ii) with the assistance of the National Education Standards and Improvement Council established under part B of subchapter II of this chapter;”.
+
+Subsec. (c). Pub. L. 104–134, §101(d) \[title VII, §703(a)(10)(B)\], substituted “5886(b)” for “5886(b)(1)”.
 
 #### Section Referred to in Other Sections
 

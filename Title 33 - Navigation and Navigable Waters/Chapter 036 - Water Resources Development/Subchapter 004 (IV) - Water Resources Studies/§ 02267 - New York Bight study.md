@@ -20,7 +20,7 @@ There is authorized to be appropriated not more than $1,000,000 per fiscal year 
 
 #### New York Bight and Harbor Study
 
-Pub. L. 102–580, title III, §326, Oct. 31, 1992, 106 Stat. 4850, provided that:
+Pub. L. 102–580, title III, §326, Oct. 31, 1992, 106 Stat. 4850, as amended by Pub. L. 104–303, title IV, §433, Oct. 12, 1996, 110 Stat. 3746, provided that:
 
 “(a)
 
@@ -44,7 +44,7 @@ Remediation Techniques.—
 
 &emsp;“(1)
 
-In general.—To test and verify contaminant and sediment tracking ability of the models, and to reduce the problems associated with the dredging and disposal of dioxin contaminated sediments in the region, a study shall be performed to identify appropriate remediation techniques (including isolation and treatment) for mitigating dioxin contaminated sediments at their sources. The study and report are not intended to encumber civil works projects under development or scheduled to be maintained. Work on these projects shall proceed along the present schedule.
+In general.—To test and verify contaminant and sediment tracking ability of the models, and to reduce the problems associated with the dredging and disposal of dioxin contaminated sediments in the region, a study shall be performed to identify appropriate remediation techniques (including isolation and treatment) for mitigating dioxin contaminated sediments at their sources. The study and report arenot intended to encumber civil works projects under development or scheduled to be maintained. Work on these projects shall proceed along the present schedule.
 
 &emsp;“(2)
 
@@ -56,7 +56,7 @@ Report.—Not later than 1 year after the date of the enactment of this Act \[Oc
 
 “(f)
 
-Funding.—There is authorized to be appropriated $1,000,000 for fiscal years beginning after September 30, 1992. Such sums shall remain available until expended.”
+Funding.—There is authorized to be appropriated $3,000,000 for fiscal years beginning after September 30, 1992. Such sums shall remain available until expended.”
 
-Pub. L. 100–220, title II, subtitle C, Dec. 29, 1987, 101 Stat. 1467, as amended by Pub. L. 100–688, title I, §1003(b), (c), Nov. 18, 1988, 102 Stat. 4150, directed Administrator of the Environmental Protection Agency, within 3 years after Dec. 29, 1987, in consultation withAdministrator of the National Oceanic and Atmospheric Administration and other Federal, State, and interstate agencies, to prepare and submit to Congress a New York Bight Restoration Plan and a detailed schedule and two preliminary reports at specified times, and further directed Administrator to conduct a study of problems associated with plastic debris in the New York Bight and report to Congress within 6 months after Dec. 29, 1987.
+Pub. L. 100–220, title II, subtitle C, Dec. 29, 1987, 101 Stat. 1467, as amended by Pub. L. 100–688, title I, §1003(b), (c), Nov. 18, 1988, 102 Stat. 4150, directed Administrator of the Environmental Protection Agency, within 3 years after Dec. 29, 1987, in consultation with Administrator of the National Oceanic and Atmospheric Administration and other Federal, State, and interstate agencies, to prepare and submit to Congress a New York Bight Restoration Plan and a detailed schedule and two preliminary reports at specified times, and further directed Administrator to conduct a study of problems associated with plastic debris in the New York Bight and report to Congress within 6 months after Dec. 29, 1987.
 

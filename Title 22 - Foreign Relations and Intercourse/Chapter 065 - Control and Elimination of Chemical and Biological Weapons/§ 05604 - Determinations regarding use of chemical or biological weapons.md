@@ -22,7 +22,7 @@
 
 #### (3) Determination to be reported to Congress
 
-&emsp;Upon making a determination under paragraph (1), the President shall promptly reportthat determination to the Congress. If the determination is that a foreign government had used chemical or biological weapons as described in that paragraph, the report shall specify the sanctions to be imposed pursuant to section 5605 of this title.
+&emsp;Upon making a determination under paragraph (1), the President shall promptly report that determination to the Congress. If the determination is that a foreign government had used chemical or biological weapons as described in that paragraph, the report shall specify the sanctions to be imposed pursuant to section 5605 of this title.
 
 #### (b) Congressional requests; report
 

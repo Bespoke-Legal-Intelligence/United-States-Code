@@ -38,7 +38,7 @@ Responsibilities.—The Office shall have the following responsibilities:
 
 #### Prior Provisions
 
-A prior section 2517 was renumbered section 2523 of this title.
+A prior section 2517 was renumbered section 2523 of this title and subsequently repealed.
 
 #### Amendments
 

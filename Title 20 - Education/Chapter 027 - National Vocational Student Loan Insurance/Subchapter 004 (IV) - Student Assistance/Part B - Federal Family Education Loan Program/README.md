@@ -45,3 +45,5 @@ This part is referred to in sections 1087–0, 1087c, 1087d, 1087e, 1087f, 1087h
 - [&sect; 01087&#8211;0 - Debt management options](%C2%A7%2001087%E2%80%930%20-%20Debt%20management%20options.md)
 - [&sect; 01087&#8211;1 - Special allowances](%C2%A7%2001087%E2%80%931%20-%20Special%20allowances.md)
 - [&sect; 01087&#8211;2 - Student Loan Marketing Association](%C2%A7%2001087%E2%80%932%20-%20Student%20Loan%20Marketing%20Association.md)
+- [&sect; 01087&#8211;3 - Reorganization of Student Loan Marketing Association through formation of Holding Company](%C2%A7%2001087%E2%80%933%20-%20Reorganization%20of%20Student%20Loan%20Marketing%20Association%20through%20formation%20of%20Holding%20Company.md)
+- [&sect; 01087&#8211;4 - Discrimination in secondary markets prohibited](%C2%A7%2001087%E2%80%934%20-%20Discrimination%20in%20secondary%20markets%20prohibited.md)

@@ -28,6 +28,10 @@ For effective date of amendment by Pub. L. 93–495, see section 308 of Pub. L. 
 
 Section 504(a) of Pub. L. 90–321 provided that this part is effective May 29, 1968.
 
+#### Short Title of 1996 Amendment
+
+Pub. L. 104–208, div. A, title II, §2401, Sept. 30, 1996, 110 Stat. 3009–426, provided that: “This chapter \[chapter 1 (§§2401–2422) of subtitle D of title II of div. A of Pub. L. 104–208, enacting section 1681s–2 of this title, amending sections 1681a to 1681e, 1681g to 1681j, 1681m to 1681<i>o</i>, 1681q to 1681s, and 1681t of this title, and enacting provisions set out as notes under sections 1681a, 1681b, and 1681g of this title\] may be cited as the ‘Consumer Credit Reporting Reform Act of 1996’.”
+
 #### Short Title of 1995 Amendments
 
 Pub. L. 104–29, §1, Sept. 30, 1995, 109 Stat. 271, provided that: “This Act \[enacting section 1649 of this title, amending sections 1605, 1631, 1635, 1640, and 1641 of this title, and enacting provisions set out as notes under section 1605 of this title\] may be cited as the ‘Truth in Lending Act Amendments of 1995’.”
@@ -36,7 +40,7 @@ Pub. L. 104–12, §1, May 18, 1995, 109 Stat. 161, provided that: “This Act \
 
 #### Short Title of 1994 Amendment
 
-Pub. L. 103–325, title I, §151, Sept. 23, 1994, 108 Stat. 2190, provided that: “This subtitle \[subtitle B (§§151–158) of title I of Pub. L. 103–325, enacting sections 1639 and 1648 of this title, amending sections 1602, 1604,1610, 1640, 1641, and 1647 of this title, and enacting provisions set out as notes under this section and section 1602 of this title\] may be cited as the ‘Home Ownership and Equity Protection Act of 1994’.”
+Pub. L. 103–325, title I, §151, Sept. 23, 1994, 108 Stat. 2190, provided that: “This subtitle \[subtitle B (§§151–158) of title I of Pub. L. 103–325, enacting sections 1639 and 1648 of this title, amending sections 1602, 1604, 1610, 1640, 1641, and 1647 of this title, and enacting provisions set out as notes under this section and section 1602 of this title\] may be cited as the ‘Home Ownership and Equity Protection Act of 1994’.”
 
 #### Short Title of 1992 Amendment
 
@@ -74,7 +78,9 @@ Section 1 of Pub. L. 90–321 provided that: “This Act \[enacting this chapter
 
 Section 101 of title I of Pub. L. 90–321 provided that: “This title \[enacting this subchapter\] may be cited as the ‘Truth in Lending Act’.”
 
-Section 601 of title VI of Pub. L. 90–321, as added by Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1128, provided that: “This title \[enacting subchapter III of this chapter\] may be cited as the ‘Fair Credit Reporting Act’.”
+Section 401 of title IV of Pub. L. 90–321, as added by Pub. L. 104–208, div. A, title II, §2451, Sept. 30, 1996, 110 Stat. 3009–454, provided that: “This title \[enacting subchapter II–A of this chapter\] may be cited as the ‘Credit Repair Organizations Act’.”
+
+Section 601 of title VI of Pub. L. 90–321, as added by Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1128,provided that: “This title \[enacting subchapter III of this chapter\] may be cited as the ‘Fair Credit Reporting Act’.”
 
 Section 709 of title VII of Pub. L. 90–321, as added by section 1(b) of Pub. L. 94–239, Mar. 23, 1976, 90 Stat. 251, provided that: “This title \[enacting subchapter IV of this chapter and notes set out under section 1691 of this title\] may be cited as the ‘Equal Credit Opportunity Act’.”
 
@@ -104,15 +110,11 @@ Hearings.—Not less than once during the 3-year period beginning on the date of
 
 “(b)
 
-Participation.—In conducting hearings required by subsection (a), the Board of Governors of the Federal Reserve System shall solicit participation fromconsumers, representatives of consumers, lenders, and other interested parties.”
+Participation.—In conducting hearings required by subsection (a), the Board of Governors of the Federal Reserve System shall solicit participation from consumers, representatives of consumers, lenders, and other interested parties.”
 
 #### Study by Federal Reserve Board of Governors Covering Effect of Charge Card Transactions Upon Card Issuers, Merchants, and Consumers
 
 Pub. L. 97–25, title II, §202, July 27, 1981, 95 Stat. 145, directed Board of Governors of Federal Reserve System, not later than 2 years after July 27, 1981, to prepare a study and submit its findings to Congress on the effect of charge card transactions upon card issuers, merchants, and consumers.
-
-#### National Commission on Consumer Finance
-
-Title IV, §§401–407, of Pub. L. 90–321, as amended by Pub. L. 91–344, July 20, 1970, 84 Stat. 440; Pub. L. 92–321, June 30, 1972, 86 Stat. 382, established a bipartisan National Commission on Consumer Finance to study the functioning and structure of the consumer finance industry as well as consumer credit transactions generally and to report on (1) the adequacy of existing arrangements to provide consumer credit at reasonable rates, (2) the adequacy of existing regulatory mechanisms to protect the public from unfair practices and insure the informed use of consumer credit, and (3) the desirability of Federal chartering of consumer finance companies or other Federal regulatory measures. The Commission was to submit a final report by Dec. 31, 1972, and was to cease to exist after submission of such report.
 
 #### Inference of Legislative Intent in Section Captions and Catchlines
 

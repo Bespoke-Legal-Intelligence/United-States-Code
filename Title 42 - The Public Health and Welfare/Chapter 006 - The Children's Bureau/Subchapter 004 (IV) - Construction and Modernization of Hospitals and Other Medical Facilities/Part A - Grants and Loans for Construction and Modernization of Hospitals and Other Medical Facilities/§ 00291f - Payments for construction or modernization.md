@@ -18,7 +18,7 @@ In case an amendment to an approved application is approved as provided in secti
 
 #### Prior Provisions
 
-A prior section 291f, act July 1, 1944, ch. 373, title VI, §623, as added Aug. 13, 1946, ch. 958, §2, 60 Stat. 1041;amended June 19, 1948, ch. 554, 62 Stat. 536; Oct. 25, 1949, ch. 722, §3(a), 63 Stat. 899, related to State plans, their submission, and their requirements, prior to the general amendment of this subchapter by Pub. L. 88–443. See section 291d of this title.
+A prior section 291f, act July 1, 1944, ch. 373, title VI, §623, as added Aug. 13, 1946, ch. 958, §2, 60 Stat. 1041; amended June 19, 1948, ch. 554, 62 Stat. 536; Oct. 25, 1949, ch. 722, §3(a), 63 Stat. 899, related to State plans, their submission, and their requirements, prior to the general amendment of this subchapter by Pub. L. 88–443. See section 291d of this title.
 
 Provisions similar to those comprising subsec. (a) of this section were contained in former section 291h(b), acts July 1, 1944, ch. 373, title VI, §625, as added Aug. 13, 1946, ch. 958, §2, 60 Stat. 1041; amended Oct. 25, 1949, ch. 722, §3(b), 63 Stat. 899, prior to the general amendment of this subchapter by Pub. L. 88–443.
 

@@ -52,7 +52,7 @@ There shall be allowed as a deduction for the taxable year an amount equal to th
 
 #### (ii) Loss limitation year
 
-&emsp;&emsp;&emsp;For purposes of clause (i) and subsection (m), the term “loss limitation year” means, with respect to any corporate equity reduction transaction, the taxable year in which such transaction occurs and each of the 2 succeeding taxable years.
+&emsp;&emsp;&emsp;For purposes of clause (i) and subsection (h), the term “loss limitation year” means, with respect to any corporate equity reduction transaction, the taxable year in which such transaction occurs and each of the 2 succeeding taxable years.
 
 #### (iii) Applicable corporation
 
@@ -122,7 +122,7 @@ The modifications referred to in this section are as follows:
 
 &emsp;&emsp;(C) any deduction allowable under section 165(c)(3) (relating to casualty losses) shall not be taken into account; and
 
-&emsp;&emsp;(D) any deduction allowed under section 404 to the extent attributable to contributions which are made on behalf of an individual who is an employee within the meaningof section 401(c)(1) shall not be treated as attributable to the trade or business of such individual.
+&emsp;&emsp;(D) any deduction allowed under section 404 to the extent attributable to contributions which are made on behalf of an individual who is an employee within the meaning of section 401(c)(1) shall not be treated as attributable to the trade or business of such individual.
 
 #### (5) Computation of deduction for dividends received, etc.
 
@@ -266,7 +266,7 @@ For purposes of this section—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The term “major stock acquisition” means the acquisition by a corporation pursuant to a plan of such corporation (or any group of persons acting in concert with such corporation) of stock in another corporation representing 50 percent or more (by vote or value) of the stock in such other corporation,<sup>1</sup>
+&emsp;&emsp;&emsp;The term “major stock acquisition” means the acquisition by a corporation pursuant to a plan of such corporation (or any group of persons acting in concert with such corporation) of stock in another corporation representing 50 percent or more (by vote or value) of the stock in such other corporation.
 
 #### (ii) Exception
 
@@ -290,7 +290,7 @@ For purposes of this section—
 
 #### (i) Plans to acquire stock
 
-&emsp;&emsp;&emsp;All plans referred to in subparagraph (B) by any corporation (or group of persons acting in concert with such corporation)with respect to another corporation shall be treated as 1 plan.
+&emsp;&emsp;&emsp;All plans referred to in subparagraph (B) by any corporation (or group of persons acting in concert with such corporation) with respect to another corporation shall be treated as 1 plan.
 
 #### (ii) Acquisitions during 24-month period
 
@@ -316,7 +316,7 @@ For purposes of this section—
 
 #### (B) Coordination with subsection (b)(2)
 
-&emsp;&emsp;For purposes of subsection (b)(2) <sup>2</sup>
+&emsp;&emsp;For purposes of subsection (b)(2)—
 
 &emsp;&emsp;&emsp;(i) a corporate equity reduction interest loss shall be treated in a manner similar to the manner in which a specified liability loss is treated, and
 
@@ -324,7 +324,7 @@ For purposes of this section—
 
 #### (C) Members of affiliated groups
 
-&emsp;&emsp;Except as provided by regulations, all members of an affiliated group filing a consolidated return under section 1501 shall be treated as 1 taxpayer for purposes of this subsection and subsection (b)(1)(M).
+&emsp;&emsp;Except as provided by regulations, all members of an affiliated group filing a consolidated return under section 1501 shall be treated as 1 taxpayer for purposes of this subsection and subsection (b)(1)(E).
 
 #### (5) Regulations
 
@@ -342,9 +342,17 @@ For purposes of this section—
 
 &emsp;&emsp;<b>(2) For special limitation on net operating loss carryovers in case of a corporate change of ownership, see section 382.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 63; Sept. 2, 1958, Pub. L. 85–866, title I, §§14(a), (b), 64(b), title II, §203(a), (b), 72 Stat. 1611, 1656, 1678; Sept. 27, 1962, Pub. L. 87–710, §1, 76 Stat. 648; Oct. 10, 1962, Pub. L. 87–792, §7(f), 76 Stat. 829; Oct. 11, 1962, Pub. L. 87–794, title III, §317(b), 76 Stat. 889; Feb. 26, 1964, Pub. L. 88–272, title II, §§210(a), (b), 234(b)(5), 78 Stat. 47, 48, 115; Dec. 27, 1967, Pub. L. 90–225, §3(a), 81 Stat. 732; Dec. 30, 1969, Pub. L. 91–172, title IV, §431(b), 83 Stat. 619; Jan. 12, 1971, Pub. L. 91–677, §2(a)–(c), 84 Stat. 2061; Oct. 4, 1976, Pub. L. 94–455, title VIII, §806(a)–(c), title X, §1052(c)(3), title XVI, §1606(b), (c), title XIX, §§1901(a)(29), 1906(b)(13)(A), title XXI, §2126, 90 Stat. 1598, 1648, 1755, 1756, 1769, 1834, 1920; May 23, 1977, Pub. L. 95–30, title I, §102(b)(2), 91 Stat. 137; Nov. 6, 1978, Pub. L. 95–600, title III, §371(a), (b), title VI, §601(b)(1), title VII, §§701(d)(1), 703(p)(1), 92 Stat. 2859, 2896, 2900, 2943; Apr. 1, 1980, Pub. L. 96–222, title I, §§103(a)(15), 106(a)(1), (6), (7), 94 Stat. 214, 221; Dec. 24, 1980, Pub. L. 96–595, §1(a), 94 Stat. 3464; Aug. 13, 1981, Pub. L. 97–34, title II, §207(a), 95 Stat. 225; Oct. 19, 1982, Pub. L. 97–354, §5(a)(22), 96 Stat. 1694; Oct. 25, 1982, Pub. L. 97–362, title I, §102(a)–(c), 96 Stat. 1727, 1728; July 18, 1984, Pub. L. 98–369, div. A, title I, §§91(d), 177(c), title IV, §491(d)(5), title VII, §722(a)(4), 98 Stat. 606, 710, 849, 973; Oct. 22, 1986, Pub. L. 99–514, title I, §104(b)(4), title III, §301(b)(3), title IX, §§901(d)(4)(B), 903(a), (b), title XIII, §1303(b)(1), (2), title XVIII, §1899A(6), 100 Stat. 2105, 2217, 2380, 2383, 2658, 2958; Nov. 10, 1988, Pub. L. 100–647, title I, §§1003(a)(1), 1009(c), 102 Stat. 3382, 3449; Dec. 19, 1989, Pub. L. 101–239, title VII, §7211(a), (b), 103 Stat. 2342, 2343; Nov. 5, 1990, Pub. L. 101–508, title XI, §§11324(a), 11701(d), 11704(a)(2), 11811(a)–(b)(2)(A), (3), (4), 104 Stat. 1388–465, 1388–507, 1388–518, 1388–530, 1388–532 to 1388–534; Aug. 10, 1993, Pub. L. 103–66, title XIII, §13113(d)(1), 107 Stat. 429.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 63; Sept. 2, 1958, Pub. L. 85–866, title I, §§14(a), (b), 64(b), title II, §203(a), (b), 72 Stat. 1611, 1656, 1678; Sept. 27, 1962, Pub. L. 87–710, §1, 76 Stat. 648; Oct. 10, 1962, Pub. L. 87–792, §7(f), 76 Stat. 829; Oct. 11, 1962, Pub. L. 87–794, title III, §317(b), 76 Stat. 889; Feb. 26, 1964, Pub. L. 88–272, title II, §§210(a), (b), 234(b)(5), 78 Stat. 47, 48, 115; Dec. 27, 1967, Pub. L. 90–225, §3(a), 81 Stat. 732; Dec. 30, 1969, Pub. L. 91–172, title IV, §431(b), 83 Stat. 619; Jan. 12, 1971, Pub. L. 91–677, §2(a)–(c), 84 Stat. 2061; Oct. 4, 1976, Pub. L. 94–455, title VIII, §806(a)–(c), title X, §1052(c)(3), title XVI, §1606(b), (c), title XIX, §§1901(a)(29), 1906(b)(13)(A), title XXI, §2126, 90 Stat. 1598, 1648, 1755, 1756, 1769, 1834, 1920; May 23, 1977, Pub. L. 95–30, title I, §102(b)(2), 91 Stat. 137; Nov. 6, 1978, Pub. L. 95–600, title III, §371(a), (b), title VI, §601(b)(1), title VII, §§701(d)(1), 703(p)(1), 92 Stat. 2859, 2896, 2900, 2943; Apr. 1, 1980, Pub. L. 96–222, title I, §§103(a)(15), 106(a)(1), (6), (7), 94 Stat. 214, 221; Dec. 24, 1980, Pub. L. 96–595, §1(a), 94 Stat. 3464; Aug. 13, 1981, Pub. L. 97–34, title II, §207(a), 95 Stat. 225; Oct. 19, 1982, Pub. L. 97–354, §5(a)(22), 96 Stat. 1694; Oct. 25, 1982, Pub. L. 97–362, title I, §102(a)–(c), 96 Stat. 1727, 1728; July 18, 1984, Pub. L. 98–369, div. A, title I, §§91(d), 177(c), title IV, §491(d)(5), title VII, §722(a)(4), 98 Stat. 606, 710, 849, 973; Oct. 22, 1986, Pub. L. 99–514, title I, §104(b)(4), title III, §301(b)(3), title IX, §§901(d)(4)(B), 903(a), (b), title XIII, §1303(b)(1), (2), title XVIII, §1899A(6), 100 Stat. 2105, 2217, 2380, 2383, 2658, 2958; Nov. 10, 1988, Pub. L. 100–647, title I, §§1003(a)(1), 1009(c), 102 Stat. 3382, 3449; Dec. 19, 1989, Pub. L. 101–239, title VII, §7211(a), (b), 103 Stat. 2342, 2343; Nov. 5, 1990, Pub. L. 101–508, title XI, §§11324(a), 11701(d), 11704(a)(2), 11811(a)–(b)(2)(A), (3), (4), 104 Stat. 1388–465, 1388–507, 1388–518, 1388–530, 1388–532 to 1388–534; Aug. 10, 1993, Pub. L. 103–66, title XIII, §13113(d)(1), 107 Stat. 429; Aug. 20, 1996, Pub. L. 104–188, title I, §§1702(h)(2), (16), 1704(t)(5), (30), 110 Stat. 1873, 1874, 1887, 1889.)
 
 #### Amendments
+
+1996—Subsec. (b)(1)(E)(ii). Pub. L. 104–188, §1702(h)(2), substituted “subsection (h)” for “subsection (m)”.
+
+Subsec. (h)(3)(B)(i). Pub. L. 104–188, §1704(t)(5), substituted “corporation.” for “corporation,” at end.
+
+Subsec. (h)(4)(B). Pub. L. 104–188, §1704(t)(30), substituted “For purposes of subsection (b)(2)—” for “For purposes of subsection (b)(2)” in introductory provisions.
+
+Subsec. (h)(4)(C). Pub. L. 104–188, §1702(h)(16), substituted “(b)(1)(E)” for “(b)(1)(M)”.
 
 1993—Subsec. (d)(2). Pub. L. 103–66, §13113(d)(1)(A), amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “In the case of a taxpayer other than a corporation, the amount deductible on account of losses from sales or exchanges of capital assets shall not exceed the amount includible on account of gains from sales or exchanges of capital assets.”
 
@@ -358,7 +366,7 @@ Subsec. (f). Pub. L. 101–508, §11811(b)(1), (2)(A), redesignated subsec. (j) 
 
 Subsec. (g). Pub. L. 101–508, §11811(b)(1), redesignated subsec. (<i>l</i>) as (g) and struck out former subsec. (g) which related to carryover of net operating losses for certain regulated transportation corporations.
 
-Subsec. (g)(2). Pub. L. 101–508, §11811(b)(3), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “In applying paragraph (2) of subsection (b), the portion of the net operating loss for any taxable year which is attributable to the deduction allowed under section 166(a) shall be treated in a manner similar to the manner in which a foreign expropriation loss is treated.”
+Subsec. (g)(2). Pub. L. 101–508, §11811(b)(3), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “In applying paragraph (2) of subsection (b),the portion of the net operating loss for any taxable year which is attributable to the deduction allowed under section 166(a) shall be treated in a manner similar to the manner in which a foreign expropriation loss is treated.”
 
 Subsec. (h). Pub. L. 101–508, §11811(b)(1), redesignated subsec. (m) as (h) and struck out former subsec. (h) which defined “foreign expropriation loss”.
 
@@ -446,7 +454,7 @@ Subsec. (i). Pub. L. 98–369, §177(c)(2), substituted “Mortgage disposition 
 
 Subsec. (j). Pub. L. 98–369, §91(d)(3)(B), substituted “this section” for “subsection (b)” in introductory provisions.
 
-Subsecs. (k), (<i>l</i>). Pub. L. 98–369, §91(d)(2), added subsec. (k) and redesignated former subsec. (k) as (<i>l).</i>
+Subsecs. (k), (<i>l</i>). Pub. L. 98–369, §91(d)(2), added subsec. (k) and redesignated former subsec. (k) as (<i>l</i>).
 
 1982—Subsec. (b)(1)(A). Pub. L. 97–362, §102(c)(1), substituted “(H), (I), and (J)” for “(H), and (I)”.
 
@@ -528,7 +536,7 @@ Subsec. (b)(3)(C)(ii), (iii). Pub. L. 94–455, §1906(b)(13)(A), struck out “
 
 Subsec. (b)(3)(E). Pub. L. 94–455, §§806(c), 1901(a)(29)(A)(ii), added subpar. (E). Former subpar. (E), which related to applicability of special rules in computing taxpayer's net operating loss deduction, was struck out.
 
-Subsec. (b)(3)(F). Pub. L. 94–455, §1901(a)(29)(A)(ii), struck out subpar. (F) which defined “class of products” and provided for the use of information compiled or published by Secretary of Commerce or manufacturers as prima facie evidence of the total number of unitsof such class of products manufactured and produced in the United States in a calendar year.
+Subsec. (b)(3)(F). Pub. L. 94–455, §1901(a)(29)(A)(ii), struck out subpar. (F) which defined “class of products” and provided for the use of information compiled or published by Secretary of Commerce or manufacturers as prima facie evidence of the total number of units of such class of products manufactured and produced in the United States in a calendar year.
 
 Subsec. (c). Pub. L. 94–455, §1901(a)(29)(B), struck out “(for any taxable year ending after December 31, 1953)” after “means”.
 
@@ -568,7 +576,7 @@ Subsec. (b)(3)(E), (F). Pub. L. 90–225, §3(a)(4), added subpars. (E) and (F).
 
 Subsec. (j)(1), (2), Pub. L. 88–272, §234(b)(5), substituted references to section 7701(a)(33) for references to section 1503(c)(1) or (2), wherever appearing.
 
-Subsecs. (k), (<i>l</i>). Pub. L. 88–272, §210(a)(5), added subsec. (k) and redesignated former subsec. (k) as (<i>l).</i>
+Subsecs. (k), (<i>l</i>). Pub. L. 88–272, §210(a)(5), added subsec. (k) and redesignated former subsec. (k) as (<i>l</i>).
 
 1962—Subsec. (b)(1). Pub. L. 87–794 designated existing provisions as cl. (A)(i) and struck out provisions therefrom which authorized a net operating loss for any taxable year ending after Dec. 31, 1957, to be a net operating loss carryover to each of the 5 taxable years following the taxable year of such loss, and added cls. (A)(ii), (B), and (C).
 
@@ -589,6 +597,10 @@ Subsecs. (f)(3), (4). Pub. L. 85–866, §14(a), added pars. (3) and (4).
 Subsec. (g)(3), (4). Pub. L. 85–866, §14(b), added par. (3) and redesignated former par. (3) as (4).
 
 Subsecs. (h) to (j). Pub. L. 85–866, §§64(b), 203(b), added subsecs. (h) and (i) and redesignated former subsec. (h) as (j).
+
+#### Effective Date of 1996 Amendment
+
+Amendment by section 1702(h)(2), (16) of Pub. L. 104–188 effective, except as otherwise expressly provided, as if included in the provision of the Revenue Reconciliation Act of 1990, Pub. L. 101–508, title XI, to which such amendment relates, see section 1702(i) of Pub. L. 104–188, set out as a note under section 38 of this title.
 
 #### Effective Date of 1993 Amendment
 
@@ -624,7 +636,7 @@ Exceptions.—In determining whether a corporate equity reduction transaction ha
 
 &emsp;“(A) acquisitions or redemptions of stock, or distributions with respect to stock, occurring on or before August 2, 1989,
 
-&emsp;“(B) acquisitions or redemptions of stock after August 2, 1989, pursuant to a binding written contract\(or tender offer filed with the Securities and Exchange Commission) in effect on August 2, 1989, and at all times thereafter before such acquisition or redemption, or
+&emsp;“(B) acquisitions or redemptions of stock after August 2, 1989, pursuant to a binding written contract (or tender offer filed with the Securities and Exchange Commission) in effect on August 2, 1989, and at all times thereafter before such acquisition or redemption, or
 
 &emsp;“(C) any distribution with respect to stock after August 2, 1989, which was declared on or before August 2, 1989.
 
@@ -804,13 +816,17 @@ Section 2 of Pub. L. 87–710 provided that: “The amendments made by the first
 
 Section 203(c) of Pub. L. 85–866 provided that: “The amendments made by subsections (a) and (b) \[amending this section\] shall apply in respect of net operating losses for taxable years ending after December 31, 1957.”
 
-Amendment by section 14(a), (b) of Pub. L. 85–866 applicable to taxable years beginning after Dec. 31, 1953, and ending after Aug. 16, 1954, see section 1(c)(1) of Pub. L. 85–866, set out as a note under section 165 of this title.
+Amendment by section 14(a), (b) of Pub. L. 85–866 applicable to taxable years beginning after Dec. 31, 1953,and ending after Aug. 16, 1954, see section 1(c)(1) of Pub. L. 85–866, set out as a note under section 165 of this title.
 
 Section 64(e) of Pub. L. 85–866 provided that: “The amendments made by this section \[enacting sections 1371 to 1377 and 6037 of this title, amending this section and sections 1016 and 1504, and renumbering former section 6037 as 6038 of this title\] shall apply only with respect to taxable years beginning after December 31, 1957”.
 
 #### Savings Provision
 
 For provisions that nothing in amendment by section 11811 of Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 29 of this title.
+
+#### Deduction for Special Assessments
+
+Subsec. (f) of this section not applicable to deduction for special assessments, see section 2711(2) of Pub. L. 104–208, set out as a note under section 162 of this title.
 
 #### Carryback of Deferred Statutory or Tort Liability Loss to Taxable Year Beginning Before January 1, 1984
 
@@ -848,9 +864,5 @@ Special limitations on net operating loss carryovers, see section 382 of this ti
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 56, 72, 163, 170, 186, 246, 381, 382, 384, 481, 512, 527, 528, 535, 537, 545, 556, 584, 613A, 642, 703, 805, 831, 834, 844, 852, 857, 860E, 904, 907, 1212, 1242, 1244, 1247, 1314, 1341, 1351, 1375, 1398, 1402, 1503, 6164, 6411, 6655, 7518 of this title; title 42 section 411; title 46 App. section 1177.
-
-<i><sup>1</sup></i><i> So in original. The comma probably should be a period.</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be subsection “(b)(2)—”.</i>
+This section is referred to in sections 56, 72, 163, 170, 186, 246, 381, 382, 384, 481, 512, 527, 528, 535, 537, 545, 556, 584, 613A, 642, 703, 805, 831, 834, 844, 852, 857, 860E, 860J, 904, 907, 1212, 1242, 1244, 1247, 1314, 1341, 1351, 1375, 1398, 1402, 1503, 6164, 6411, 6655, 7518 of this title; title 42 section 411; title 46 App. section 1177.
 

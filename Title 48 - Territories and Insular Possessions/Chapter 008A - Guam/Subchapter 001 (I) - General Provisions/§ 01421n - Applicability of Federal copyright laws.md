@@ -1,6 +1,6 @@
 ### §1421n. Applicability of Federal copyright laws
 
-The laws of the United States relating to copyrights, and to the enforcement of rightsarising thereunder, shall have the same force and effect in Guam as in the continental United States.
+The laws of the United States relating to copyrights, and to the enforcement of rights arising thereunder, shall have the same force and effect in Guam as in the continental United States.
 
 (Aug. 1, 1956, ch. 852, §24, 70 Stat. 911.)
 

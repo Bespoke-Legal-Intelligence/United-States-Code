@@ -10,7 +10,7 @@ The provisions of section 77e of this title shall not apply to—
 
 &emsp;&emsp;(A) transactions taking place prior to the expiration of forty days after the first date upon which the security was bona fide offered to the public by the issuer or by or through an underwriter,
 
-&emsp;&emsp;(B) transactions in a security as to which a registration statement has been filed taking place prior to the expiration of forty days after the effective date of such registration statement or prior to the expiration of forty days after the first date upon which the security was bona fide offered to the public by the issuer or by or through an underwriter after such effective date, whichever is later (excluding in the computation of such forty days any time during which a stop order issued under section 77h of this title is in effect as to the security), or such shorter period as the Commission may specify by rules and regulations or order, and
+&emsp;&emsp;(B) transactions in a security as to which a registration statement has been filed taking place prior to the expiration of forty days after the effective date of such registration statement or prior to the expiration offorty days after the first date upon which the security was bona fide offered to the public by the issuer or by or through an underwriter after such effective date, whichever is later (excluding in the computation of such forty days any time during which a stop order issued under section 77h of this title is in effect as to the security), or such shorter period as the Commission may specify by rules and regulations or order, and
 
 &emsp;&emsp;(C) transactions as to securities constituting the whole or a part of an unsold allotment to or subscription by such dealer as a participant in the distribution of such securities by the issuer or by or through an underwriter.
 
@@ -80,7 +80,7 @@ Trust Indenture Act of 1939, application to transactions exempted by this sectio
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 77r–1, 80a–24 of this title; title 12 sections 24, 1464, 1757; title 26 section 67.
+This section is referred to in sections 77r, 77r–1, 80a–24 of this title; title 12 sections 24, 1464, 1757; title 26 section 67.
 
 <i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

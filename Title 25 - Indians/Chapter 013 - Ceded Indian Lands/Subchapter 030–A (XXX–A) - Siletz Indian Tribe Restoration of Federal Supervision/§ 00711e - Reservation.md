@@ -54,7 +54,7 @@ Pub. L. 97–38, Aug. 14, 1981, 95 Stat. 938, provided: “That, notwithstanding
 
 &emsp;“(2) incorporates by reference the terms of the agreement entered into on September 18, 1980, by the city of Siletz, Oregon, the Confederated Tribes of Siletz Indians of Oregon, and the United States of America.
 
-> The Secretary of the Interior or the Confederated Tribes of Siletz Indians of Oregon may erect permanent improvements, improvements of a substantial value, or any other improvements authorized by law on such land after such land is conveyed to the United States.”
+> The Secretary of the Interior or the Confederated Tribes of Siletz Indians of Oregon may erect permanentimprovements, improvements of a substantial value, or any other improvements authorized by law on such land after such land is conveyed to the United States.”
 
 #### Establishment of Reservation for Confederated Tribes of Siletz Indians of Oregon
 

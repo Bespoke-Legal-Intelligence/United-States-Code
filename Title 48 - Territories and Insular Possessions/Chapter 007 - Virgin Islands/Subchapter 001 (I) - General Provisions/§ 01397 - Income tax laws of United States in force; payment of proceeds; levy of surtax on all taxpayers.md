@@ -1,6 +1,6 @@
 ### §1397. Income tax laws of United States in force; payment of proceeds; levy of surtax on all taxpayers
 
-The income-tax laws in force in the United States of America and those which may hereafter be enacted shall be held to be likewise in force in the Virgin Islands of the United States, except that the proceeds of such taxes shall be paid into the treasuries of said islands: <i>Provided further,</i> That, notwithstanding any other provision of law, the Legislature of the Virgin Islands is authorized to levy a surtax on all taxpayers in an amount not to exceed 10 per centum of their annual income tax obligation to the government of the Virgin Islands.
+The income-tax laws in force in the United States of America and those which may hereafter be enacted shall be held to be likewise in force in the Virgin Islands of the United States, except that the proceeds of such taxes shall be paid into the treasuries of said islands: <i>Provided further</i>, That, notwithstanding any other provision of law, the Legislature of the Virgin Islands is authorized to levy a surtax on all taxpayers in an amount not to exceed 10 per centum of their annual income tax obligation to the government of the Virgin Islands.
 
 (July 12, 1921, ch. 44, §1, 42 Stat. 123; Aug. 19, 1976, Pub. L. 94–392, §5, 90 Stat. 1195.)
 

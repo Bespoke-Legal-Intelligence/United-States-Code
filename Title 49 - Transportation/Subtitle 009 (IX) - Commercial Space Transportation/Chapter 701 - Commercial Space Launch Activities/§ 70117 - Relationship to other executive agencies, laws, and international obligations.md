@@ -10,7 +10,7 @@ Federal Communications Commission and Secretary of Commerce.—This chapter does
 
 &emsp;(1) the Federal Communications Commission under the Communications Act of 1934 (47 U.S.C. 151 et seq.); or
 
-&emsp;(2) the Secretary of Commerce under the Land Remote-Sensing Commercialization Act of 1984 <sup>1</sup> (15 U.S.C. 4201 et seq.).
+&emsp;(2) the Secretary of Commerce under the Land Remote Sensing Policy Act of 1992 (15 U.S.C. 5601 et seq.).
 
 (c)
 
@@ -44,11 +44,15 @@ Nonapplication.—This chapter does not apply to—
 
 &emsp;(2) planning or policies related to the launch, operation, or activity.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1342.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1342; Pub. L. 104–287, §5(95), Oct. 11, 1996, 110 Stat. 3398.)
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+Pub. L. 103–272
+
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -86,11 +90,17 @@ Oct. 30, 1984, Pub. L. 98–575, §§6(c), 21, 98 Stat. 3058, 3063.
 
 In subsection (e)(1), the words “government of a foreign country” are substituted for “foreign nation” for consistency in the revised title and with other titles of the United States Code.
 
+#### Pub. L. 104–287
+
+This amends 49:70117(b)(2) by updating a cross-reference. Section 4 of the Land Remote Sensing Policy Act of 1992 (Public Law 102–555, 106 Stat. 4166) repealed the Land Remote-Sensing Commercialization Act of 1984 (15 U.S.C. 4201 et seq.). The substantive provisions of the Land Remote Sensing Policy Act of 1992, which replaced the Land Remote-Sensing Commercialization Act of 1984, were classified to the United States Code at 15 U.S.C. 5601 et seq.
+
 #### References in Text
 
 The Communications Act of 1934, referred to in subsec. (b)(1), is act June 19, 1934, ch. 652, 48 Stat. 1064, as amended, which is classified principally to section 151 et seq. of Title 47, Telegraphs, Telephones, and Radiotelegraphs. For complete classification of this Act to the Code, see section 609 of Title 47 and Tables.
 
-The Land Remote-Sensing Commercialization Act of 1984, referred to in subsec. (b)(2), is Pub. L. 98–365, July 17, 1984, 98 Stat. 451, which was classified principally to chapter 68 (§4201 et seq.) of Title 15, Commerce and Trade, and was repealed by Pub. L. 102–555, §4, Oct. 28, 1992, 106 Stat. 4166. See chapter 82 (§5601 et seq.) of Title 15.
+The Land Remote Sensing Policy Act of 1992, referred to in subsec. (b)(2), is Pub. L. 102–555, Oct. 28, 1992, 106 Stat. 4163, which is classified principally to chapter 82 (§5601 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 5601 of Title 15 and Tables.
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+#### Amendments
+
+1996—Subsec. (b)(2). Pub. L. 104–287 substituted “Land Remote Sensing Policy Act of 1992 (15 U.S.C. 5601 et seq.)” for “Land Remote-Sensing Commercialization Act of 1984 (15 U.S.C. 4201 et seq.)”.
 

@@ -2,11 +2,11 @@
 
 #### (a) Payment under terms of franchise
 
-Subject to the limitation of subsection (b) of this section, any cable operator may be requiredunder the terms of any franchise to pay a franchise fee.
+Subject to the limitation of subsection (b) of this section, any cable operator may be required under the terms of any franchise to pay a franchise fee.
 
 #### (b) Amount of fees per annum
 
-For any twelve-month period, the franchise fees paid by a cable operator with respect to any cable system shall not exceed 5 percent of such cable operator's gross revenues derived in such period from the operation of the cable system. For purposes of this section, the 12-month period shall be the 12-month period applicable under the franchise for accounting purposes. Nothing in this subsection shall prohibit a franchising authority and a cable operator from agreeing that franchise fees which lawfully could be collected for any such 12-month period shall be paid on a prepaid or deferred basis; except that the sum of the fees paid during the term of the franchise may not exceed the amount, including the time value of money, which would have lawfully been collected if such fees had been paid per annum.
+For any twelve-month period, the franchise fees paid by a cable operator with respect to any cable system shall not exceed 5 percent of such cable operator's gross revenues derived in such period from the operation of the cable system to provide cable services. For purposes of this section, the 12-month period shall be the 12-month period applicable under the franchise for accounting purposes. Nothing in this subsection shall prohibit a franchising authority and a cable operator from agreeing that franchise fees which lawfully could be collected for any such 12-month period shall be paid on a prepaid or deferred basis; except that the sum of the fees paid during the term of the franchise may not exceed the amount, including the time value of money, which would have lawfully been collected if such fees had been paid per annum.
 
 #### (c) Itemization of subscriber bills
 
@@ -58,9 +58,11 @@ For the purposes of this section—
 
 Any Federal agency may not regulate the amount of the franchise fees paid by a cable operator, or regulate the use of funds derived from such fees, except as provided in this section.
 
-(June 19, 1934, ch. 652, title VI, §622, as added Oct. 30, 1984, Pub. L. 98–549, §2, 98 Stat. 2787; amended Oct. 5, 1992, Pub. L. 102–385, §14, 106 Stat. 1489.)
+(June 19, 1934, ch. 652, title VI, §622, as added Oct. 30, 1984, Pub. L. 98–549, §2, 98 Stat. 2787;amended Oct. 5, 1992, Pub. L. 102–385, §14, 106 Stat. 1489; Feb. 8, 1996, Pub. L. 104–104, title III, §303(b), 110 Stat. 125.)
 
 #### Amendments
+
+1996—Subsec. (b). Pub. L. 104–104 inserted “to provide cable services” before period at end of first sentence.
 
 1992—Subsec. (c). Pub. L. 102–385 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “A cable operator may pass through to subscribers the amount of any increase in a franchise fee, unless the franchising authority demonstrates that the rate structure specified in the franchise reflects all costs of franchise fees and so notifies the cable operator in writing.”
 
@@ -71,4 +73,8 @@ Amendment by Pub. L. 102–385 effective 60 days after Oct. 5, 1992, see section
 #### Effective Date
 
 Section effective 60 days after Oct. 30, 1984, except where otherwise expressly provided, see section 9(a) of Pub. L. 98–549, set out as a note under section 521 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 573 of this title.
 

@@ -26,7 +26,7 @@ The administrator is authorized, in the name of the United States, to sell, leas
 
 #### (f) Contracts
 
-Subject only to the provisions of this chapter, the Administrator is authorized to enter intosuch contracts, agreements, and arrangements, including the amendment, modification, adjustment, or cancelation <sup>1</sup> thereof and the compromise or final settlement of any claim arising thereunder, and to make such expenditures, upon such terms and conditions and in such manner as he may deem necessary.
+Subject only to the provisions of this chapter, the Administrator is authorized to enter into such contracts, agreements, and arrangements, including the amendment, modification, adjustment, or cancelation <sup>1</sup> thereof and the compromise or final settlement of any claim arising thereunder, and to make such expenditures, upon such terms and conditions and in such manner as he may deem necessary.
 
 (Aug. 20, 1937, ch. 720, §2, 50 Stat. 732; Mar. 6, 1940, ch. 47, §§1, 2, 54 Stat. 47; Oct. 23, 1945, ch. 433, §§1, 5, 59 Stat. 546, 547; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501; 1965 Reorg. Plan No. 4, §§11(c), 13(a), eff. July 27, 1965, 30 F.R. 9353, 79 Stat. 1321; Aug. 4, 1977, Pub. L. 95–91, title III, §302(a)(1)(D), (2), 91 Stat. 578.)
 

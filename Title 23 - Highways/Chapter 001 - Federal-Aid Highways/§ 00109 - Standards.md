@@ -4,7 +4,7 @@
 
 In General.—The Secretary shall ensure that the plans and specifications for each proposed highway project under this chapter provide for a facility that will—
 
-&emsp;(1) adequately serve the existing and planned future traffic of the highway in a manner that is conducive to safety, durability, and economy of maintenance; and
+&emsp;(1) adequately serve the existing and planned future traffic of the highway in a manner thatis conducive to safety, durability, and economy of maintenance; and
 
 &emsp;(2) be designed and constructed in accordance with criteria best suited to accomplish the objectives described in paragraph (1) and to conform to the particular needs of each locality.
 
@@ -50,7 +50,7 @@ Development of criteria.—The Secretary, in cooperation with State highway depa
 
 > Such guidelines shall apply to all proposed projects with respect to which plans, specifications, and estimates are approved by the Secretary after the issuance of such guidelines.
 
-(i) The Secretary, after consultation with appropriate Federal, State, and local officials, shall develop and promulgate standards for highway noise levels compatible with different land uses and after July 1, 1972, shall not approve plans and specifications for any proposed project on any Federal-aid system for which location approval has not yet been secured unless he determines that such plans and specifications include adequate measures to implement the appropriate noise level standards. The Secretary, after consultation with the Administrator of the Environmental Protection Agency and appropriate Federal, State, and local officials, may promulgate standards for the control of highway noise levels for highways on any Federal-aid system for which project approval has been secured prior to July 1, 1972. The Secretary may approve any project on a Federal-aid system to which noise-level standards are made applicable under the preceding sentence for the purpose of carrying out such standards. Such project may include, but is not limited to, the acquisition of additional rights-of-way, the construction of physical barriers, and landscaping. Sums apportioned for the Federal-aid system on which such project will be located shall be available to finance the Federal share of such project. Such project shall be deemed a highway project for all purposes of this title.
+(i) The Secretary, after consultation with appropriate Federal, State, and local officials, shall develop and promulgate standards for highway noise levels compatible with different land uses and after July 1, 1972, shall not approve plans and specifications for any proposed project on any Federal-aid system for which location approval has not yet been secured unless he determines that such plans and specifications include adequate measures to implement the appropriate noise level standards. The Secretary, after consultation with the Administrator of the Environmental Protection Agency and appropriate Federal, State, and local officials, may promulgate standards for the control of highwaynoise levels for highways on any Federal-aid system for which project approval has been secured prior to July 1, 1972. The Secretary may approve any project on a Federal-aid system to which noise-level standards are made applicable under the preceding sentence for the purpose of carrying out such standards. Such project may include, but is not limited to, the acquisition of additional rights-of-way, the construction of physical barriers, and landscaping. Sums apportioned for the Federal-aid system on which such project will be located shall be available to finance the Federal share of such project. Such project shall be deemed a highway project for all purposes of this title.
 
 (j) The Secretary, after consultation with the Administrator of the Environmental Protection Agency, shall develop and promulgate guidelines to assure that highways constructed pursuant to this title are consistent with any approved plan for—
 
@@ -116,7 +116,7 @@ Subsec. (q). Pub. L. 104–59, §304(3), added subsec. (q) and struck out former
 
 “(q)
 
-Historic and Scenic Values.—If a proposed project under sections 103(e)(4), 133, or 144 involves a historic facility or is located in an area of historic or scenic value, the Secretary may approve such project notwithstanding the requirements of subsections (a)and (b) of this section and section 133(c) if such project is designed to standards that allow for the preservation of such historic or scenic value and such project is designed with mitigation measures to allow preservation of such value and ensure safe use of the facility.”
+Historic and Scenic Values.—If a proposed project under sections 103(e)(4), 133, or 144 involves a historic facility or is located in an area of historic or scenic value, the Secretary may approve such project notwithstanding the requirements of subsections (a) and (b) of this section and section 133(c) if such project is designed to standards that allow for the preservation of such historic or scenic value and such project is designed with mitigation measures to allow preservation of such value and ensure safe use of the facility.”
 
 1991—Subsec. (a). Pub. L. 102–240, §1016(f)(1)(A), substituted “highway projects under this chapter” for “projects on any Federal-aid system”.
 
@@ -126,13 +126,13 @@ Subsec. (<i>l</i>)(1). Pub. L. 102–240, §1016(f)(1)(B), substituted “highwa
 
 Subsecs. (p), (q). Pub. L. 102–240, §1016(d), (e), added subsecs. (p) and (q).
 
-1983—Subsec. (<i>o</i>). Pub. L. 97–424 added subsec. (<i>o).</i>
+1983—Subsec. (<i>o</i>). Pub. L. 97–424 added subsec. (<i>o</i>).
 
 1979—Subsec. (<i>l</i>)(1)(A). Pub. L. 96–106 struck out “any aspect of” after “adversely affect”.
 
 1978—Subsec. (f). Pub. L. 95–599, §141(f), inserted “bikeways” after “surfaces, median strips,”.
 
-Subsec. (<i>l</i>). Pub. L. 95–599, §113, added subsec. (<i>l).</i>
+Subsec. (<i>l</i>). Pub. L. 95–599, §113, added subsec. (<i>l</i>).
 
 Subsec. (m). Pub. L. 95–599, §116(d), added subsec. (m).
 
@@ -308,7 +308,7 @@ More Stringent State Requirements.—Guidelines developed under subsection (a) s
 
 “(c)
 
-Consistency With Other Programs.—Guidelines developed under subsection (a) shall be consistent with nonpoint source management programs under section 319 of the Federal Water Pollution Control Act \[33 U.S.C. 1329\] and coastal nonpoint pollution control guidance under section 6217(g) of the Omnibus Budget Reconciliation Act of 1990 \[16 U.S.C. 1455b(g)\].”
+Consistency With Other Programs.—Guidelines developed under subsection (a) shall be consistent withnonpoint source management programs under section 319 of the Federal Water Pollution Control Act \[33 U.S.C. 1329\] and coastal nonpoint pollution control guidance under section 6217(g) of the Omnibus Budget Reconciliation Act of 1990 \[16 U.S.C. 1455b(g)\].”
 
 #### Roadside Barrier Technology
 

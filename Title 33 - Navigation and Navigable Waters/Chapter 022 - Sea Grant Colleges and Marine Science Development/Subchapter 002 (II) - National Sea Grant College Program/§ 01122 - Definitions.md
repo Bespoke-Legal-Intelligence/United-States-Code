@@ -76,7 +76,7 @@ As used in this subchapter—
 
 <i>(3) by inserting immediately after subparagraph (E) the following new subparagraph:</i>
 
-(F) the areas referred to as eastern special areas in Article 3(1) of the Agreement between the United States of America and the Union of Soviet SocialistRepublics on the Maritime Boundary, signed June 1, 1990; in particular, those areas east of the maritime boundary, as defined in that Agreement, that lie within 200 nautical miles of the baselines from which the breadth of the territorial sea of Russia is measured but beyond 200 nautical miles of the baselines from which the breadth of the territorial sea of the United States is measured; and
+(F) the areas referred to as eastern special areas in Article 3(1) of the Agreement between the United States of America and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990; in particular, those areas east of the maritime boundary, as defined in that Agreement, that lie within 200 nautical miles of the baselines from which the breadth of the territorial sea of Russia is measured but beyond 200 nautical miles of the baselines from which the breadth of the territorial sea of the United States is measured; and
 
 #### Amendments
 

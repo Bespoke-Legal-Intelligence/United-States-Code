@@ -18,6 +18,16 @@ All expenses (including travel, per diem or subsistence, and salaries of officer
 
 (2) The Secretary may authorize the importation of a drug the importation of which is prohibited by paragraph (1) if the drug is required for emergency medical care.
 
+(3) No component of a drug, no component part or accessory of a device, or other article of device requiring further processing, which is ready or suitable for use for health-related purposes, and no food additive, color additive, or dietary supplement, including a product in bulk form, shall be excluded from importation into the United States under subsection (a) of this section if—
+
+&emsp;(A) the importer of such article of a drug or device or importer of the food additive, color additive, or dietary supplement submits a statement to the Secretary, at the time of initial importation, that such article of a drug or device, food additive, color additive, or dietary supplement is intended to be further processed by the initial owner or consignee, or incorporated by the initial owner or consignee into a drug, biological product, device, food, food additive, color additive, or dietary supplement that will be exported by such owner or consignee from the United States in accordance with subsection (e) of this section or section 382 of this title or section 262(h) of title 42;
+
+&emsp;(B) the initial owner or consignee responsible for such imported article maintains records that identify the use of such imported article and upon request of the Secretary submits a report that provides an accounting of the exportation or the disposition of the imported article, including portions that have been destroyed, and the manner in which such person complied with the requirements of this paragraph; and
+
+&emsp;(C) any imported component, part, article, or accessory of a drug or device and any food additive, color additive, or dietary supplement not incorporated or further processed as described in subparagraph (A) is destroyed or exported by the owner or consignee.
+
+(4) The importation into the United States of blood, blood components, source plasma, or source leukocytes or of a component, accessory, or part thereof is not permitted pursuant to paragraph (3) unless the importation complies with section 262(a) of title 42 or the Secretary permits the importation under appropriate circumstances and conditions, as determined by the Secretary. The importation of tissue or a component or part of tissue is not permitted pursuant to paragraph (3) unless the importation complies with section 264 of title 42.
+
 #### (e) Exports
 
 (1) A food, drug, device, or cosmetic intended for export shall not be deemed to be adulterated or misbranded under this chapter if it—
@@ -30,8 +40,6 @@ All expenses (including travel, per diem or subsistence, and salaries of officer
 
 &emsp;(D) is not sold or offered for sale in domestic commerce.
 
-> This paragraph does not authorize the exportation of any new animal drug, or an animal feed bearing or containing a new animal drug, which is unsafe within the meaning of section 360b of this title.
-
 (2) Paragraph (1) does not apply to any device—
 
 &emsp;(A) which does not comply with an applicable requirement of section 360d or 360e of this title,
@@ -40,15 +48,49 @@ All expenses (including travel, per diem or subsistence, and salaries of officer
 
 &emsp;(C) which is a banned device under section 360f of this title,
 
-> unless, in addition to the requirements of paragraph (1), the Secretary has determined that the exportation of the device is not contrary to public health and safety and has the approval of the country to which it is intended for export.
+> unless, in addition to the requirements of paragraph (1), either (i) the Secretary has determined that the exportation of the device is not contrary to public health and safety and has the approval of the country to which it is intended for export or (ii) the device is eligible for export under section 382 of this title.
 
-(June 25, 1938, ch. 675, §801, 52 Stat. 1058; Oct. 18, 1949, ch. 696, §§1–3, 63 Stat. 882; Oct. 10, 1962, Pub. L. 87–781, title III, §306, 76 Stat. 796; July 13, 1968, Pub. L. 90–399, §106, 82 Stat. 353; Oct. 27, 1970, Pub. L. 91–513, title II, §701(h), 84 Stat. 1282; May 28, 1976, Pub. L. 94–295, §§3(f), 4(b)(3), 90 Stat. 578, 580; Apr. 22, 1988, Pub. L. 100–293, §3, 102 Stat. 96; June 16, 1992, Pub. L. 102–300, §6(b)(1), 106 Stat. 240; Aug. 26, 1992, Pub. L. 102–353, §5, 106 Stat. 943; Aug. 13, 1993, Pub. L. 103–80, §3(cc), (dd)(1), 107 Stat. 778, 779.)
+(3) A new animal drug that requires approval under section 360b of this title shall not be exported pursuant to paragraph (1) if such drug has been banned in the United States.
+
+(4)(A) Any person who exports a drug, animal drug, or device may request that the Secretary—
+
+&emsp;(i) certify in writing that the exported drug, animal drug, or device meets the requirements of paragraph (1) or section 382 of this title; or
+
+&emsp;(ii) certify in writing that the drug, animal drug, or device being exported meets the applicable requirements of this chapter upon a showing that the drug or device meets the applicable requirements of this chapter.
+
+> The Secretary shall issue such a certification within 20 days of the receipt of a request for such certification.
+
+(B) If the Secretary issues a written export certification within the 20 days prescribed by subparagraph (A), a fee for such certification may be charged but shall not exceed $175 for each certification. Fees collected for a fiscal year pursuant to this subparagraph shall be credited to the appropriation account for salaries and expenses of the Food and Drug Administration and shall be available in accordance with appropriations Acts until expended without fiscal year limitation. Such fees shall be collected in each fiscal year in an amount equal to the amount specified in appropriations Acts for such fiscal year and shall only be collected and available for the costs of the Food and Drug Administration.
+
+#### (f) Labeling of exported drugs
+
+(1) If a drug (other than insulin, an antibiotic drug, an animal drug, or a drug exported under section 382 of this title) being exported in accordance with subsection (e) of this section is being exported to a country that has different or additional labeling requirements or conditions for use and such country requires the drug to be labeled in accordance with those requirements or uses, such drug may be labeled in accordance with such requirements and conditions for use in the country to which such drug is being exported if it also is labeled in accordance with the requirements of this chapter.
+
+(2) If, pursuant to paragraph (1), the labeling of an exported drug includes conditions for usethat have not been approved under this chapter, the labeling must state that such conditions for use have not been approved under this chapter. A drug exported under section 382 of this title is exempt from this section.
+
+(June 25, 1938, ch. 675, §801, 52 Stat. 1058; Oct. 18, 1949, ch. 696, §§1–3, 63 Stat. 882; Oct. 10, 1962, Pub. L. 87–781, title III, §306, 76 Stat. 796; July 13, 1968, Pub. L. 90–399, §106, 82 Stat. 353; Oct. 27, 1970, Pub. L. 91–513, title II, §701(h), 84 Stat. 1282; May 28, 1976, Pub. L. 94–295, §§3(f), 4(b)(3), 90 Stat. 578, 580; Apr. 22, 1988, Pub. L. 100–293, §3, 102 Stat. 96; June 16, 1992, Pub. L. 102–300, §6(b)(1), 106 Stat. 240; Aug. 26, 1992, Pub. L. 102–353, §5, 106 Stat. 943; Aug. 13, 1993, Pub. L. 103–80, §3(cc), (dd)(1), 107 Stat. 778, 779; Apr. 26, 1996, Pub. L. 104–134, title II, §2102(a)–(c), 110 Stat. 1321–313, 1321–314; Aug. 6, 1996, Pub. L. 104–180, title VI, §603(a), (b), 110 Stat. 1594, 1595.)
 
 #### References in Text
 
 The Controlled Substances Import and Export Act, referred to in subsec. (a), is title III of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1285, as amended, which is classified principally to subchapter II (§951 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 951 of this title and Tables.
 
 #### Amendments
+
+1996—Subsec. (d)(3). Pub. L. 104–180, §603(a), substituted “accessory of a device, or other article of device requiring further processing, which is ready” for “accessory of a device which is ready” in introductory provisions, inserted “further processed by the initial owner or consignee, or” after “is intended to be” in subpar. (A), and inserted “article,” after “part,” and “or further processed” after “incorporated” in subpar. (C).
+
+Pub. L. 104–134, §2102(a)(1), added par. (3)
+
+Subsec. (d)(4). Pub. L. 104–134, §2102(a)(1), added par. (4).
+
+Subsec. (e)(1). Pub. L. 104–134, §2102(b)(1), struck out concluding provisions which read as follows: “This paragraph does not authorize the exportation of any new animal drug, or an animal feed bearing or containing a new animal drug, which is unsafe within the meaning of section 360b of this title.”
+
+Subsec. (e)(2). Pub. L. 104–134, §2102(b)(2), in concluding provisions, substituted “either (i) the Secretary” for “the Secretary” and added cl. (ii).
+
+Subsec. (e)(3), (4). Pub. L. 104–134, §2102(b)(3), added pars. (3) and (4).
+
+Subsec. (f). Pub. L. 104–180, §603(b), inserted “(other than insulin, an antibiotic drug, an animal drug, or a drug exported under section 382 of this title)” after “If a drug” in par. (1) and “A drug exported under section 382 of this title is exempt from this section.” at end of par. (2).
+
+Pub. L. 104–134, §2102(c), added subsec. (f).
 
 1993—Subsec. (a). Pub. L. 103–80, §3(dd)(1), substituted “Health and Human Services” for “Agriculture” after “Secretary of” in two places in first sentence.
 
@@ -100,7 +142,7 @@ For transfer of functions of Federal Security Administrator to Secretary of Heal
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 331, 333, 334, 360, 371, 382 of this title; title 15 section 1456.
+This section is referred to in sections 331, 333, 334, 360, 371, 382 of this title; title 15 section 1456; title 42 section 262.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “subsection”.</i>
 

@@ -28,7 +28,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;If the Board of Directors considers it necessary to examine an insured System bank, a production credit association, an association making direct loans under the authority provided under section 2279b of this title, or any System institution in receivership, the Board may, using Farm Credit Administration examiners, conduct the examination using reports and other information on the System institution prepared or held by the Farm Credit Administration.
+&emsp;&emsp;If the Board of Directors considers it necessary to examine an insured System bank, a production credit association, an association making direct loans under the authority provided under section 2279b of this title, or any System institution in receivership, the Board may, using Farm Credit Administration examiners, conduct the examination using reports and other information on the System institution prepared or held by the Farm Credit Administration. Notwithstanding any other provision of this chapter, on cancellation of the charter of a System institution, the Corporation shall have authority to examine the system <sup>1</sup> institution in receivership. An examination shall be performed at such intervals as the Corporation shall determine.
 
 #### (B) Request for additional examination or other information
 
@@ -54,9 +54,11 @@ In connection with examinations under this section, the Corporation or its desig
 
 The examiners appointed by the Board of Directors shall cooperate to the maximum extent possible with examiners of the Farm Credit Administration to minimize duplication of effort and minimize costs.
 
-(Pub. L. 92–181, title V, §5.59, as added Pub. L. 100–233, title III, §302, Jan. 6, 1988, 101 Stat. 1615; amended Pub. L. 101–220, §6(b)(3), Dec. 12, 1989, 103 Stat. 1880; Pub. L. 102–552, title II, §203, title V, §513(a), Oct. 28, 1992, 106 Stat. 4106, 4133.)
+(Pub. L. 92–181, title V, §5.59, as added Pub. L. 100–233, title III, §302, Jan. 6, 1988, 101 Stat. 1615; amended Pub. L. 101–220, §6(b)(3), Dec. 12, 1989, 103 Stat. 1880; Pub. L. 102–552, title II, §203, title V, §513(a), Oct. 28, 1992, 106 Stat. 4106, 4133; Pub. L. 104–105, title II, §216, Feb. 10, 1996, 110 Stat. 179.)
 
 #### Amendments
+
+1996—Subsec. (b)(1)(A). Pub. L. 104–105 inserted at end “Notwithstanding any other provision of this chapter, on cancellation of the charter of a System institution, the Corporation shall have authority to examine thesystem institution in receivership. An examination shall be performed at such intervals as the Corporation shall determine.”
 
 1992—Pub. L. 102–552, §513(a)(1), substituted “System institutions” for “insured System banks” in section catchline.
 
@@ -87,4 +89,6 @@ Amendment by Pub. L. 101–220 effective for insurance premiums due to the Farm 
 #### Section Referred to in Other Sections
 
 This section is referred to in section 2254 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

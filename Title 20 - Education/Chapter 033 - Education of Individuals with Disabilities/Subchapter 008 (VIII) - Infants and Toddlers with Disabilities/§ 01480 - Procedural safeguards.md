@@ -18,7 +18,7 @@ The procedural safeguards required to be included in a statewide system under se
 
 &emsp;(8) During the pendency of any proceeding or action involving a complaint, unless the State agency and the parents or guardian otherwise agree, the child shall continue to receive the appropriate early intervention services currently being provided or, if applying for initial services, shall receive the services not in dispute.
 
-(Pub. L. 91–230, title VI, §680, as added Pub. L. 99–457, title I, §101(a), Oct. 8, 1986, 100 Stat. 1152; amended Pub. L. 100–630, title I, §108(i), Nov. 7, 1988, 102 Stat. 3302; Pub. L. 101–476, title IX, §901(b)(179), (180), Oct. 30, 1990, 104 Stat. 1150; Pub. L. 102–119, §§17, 25(b), Oct. 7, 1991, 105 Stat. 598, 607.)
+(Pub. L. 91–230, title VI, §680, as added Pub. L. 99–457, title I, §101(a), Oct. 8, 1986, 100 Stat. 1152; amended Pub. L. 100–630, title I, §108(i), Nov. 7, 1988, 102 Stat. 3302; Pub. L. 101–476, title IX, §901(b)(179), (180), Oct. 30, 1990, 104 Stat. 1150;Pub. L. 102–119, §§17, 25(b), Oct. 7, 1991, 105 Stat. 598, 607.)
 
 #### Amendments
 

@@ -8,3 +8,7 @@ Any price support program in effect on cottonseed or any of its products shall b
 
 Section 1347 of this title, referred to in text, was repealed by Pub. L. 98–88, §2, Aug. 26, 1983, 97 Stat. 494.
 
+#### Inapplicability of Section
+
+Section inapplicable to 1996 through 2002 crops of loan commodities, peanuts, and sugar and inapplicable to milk during period beginning Apr. 4, 1996, and ending Dec. 31, 2002, see section 7301(b)(1)(J) of this title.
+

@@ -26,7 +26,7 @@
 
 #### (2) Appropriations equal to or greater than $75,000,000
 
-&emsp;For any fiscal year for which the amount appropriated under subsection (a)(1) of this section is equal to or greater than $75,000,000,from the remainder of funds made available under subsection (a)(1)(C) of this section the Secretary shall award grants to State educational agencies from allotments under section 6841 of this title, except that the Secretary may reserve, from such remainder, such funds as the Secretary determines necessary to meet outstanding obligations for such fiscal year to continue the National Challenge Grants for Technology awarded under section 6846 of this title.
+&emsp;For any fiscal year for which the amount appropriated under subsection (a)(1) of this section is equal to or greater than $75,000,000, from the remainder of funds made available under subsection (a)(1)(C) of this section the Secretary shall award grants to State educational agencies from allotments under section 6841 of this title, except that the Secretary may reserve, from such remainder, such funds as the Secretary determines necessary to meet outstanding obligations for such fiscal year to continue the National Challenge Grants for Technology awarded under section 6846 of this title.
 
 (Pub. L. 89–10, title III, §3114, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3640.)
 

@@ -35,24 +35,30 @@
 | [<b>61.</b>](Chapter%20061%20-%20Retirement%20or%20Separation%20for%20Physical%20Disability/README.md) | <b>Retirement or Separation for Physical Disability</b> | <b>1201</b> |
 | [<b>63.</b>](Chapter%20063%20-%20Retirement%20for%20Age/README.md) | <b>Retirement for Age</b> | <b>1251</b> |
 | [<b>65.</b>](Chapter%20065%20-%20Retirement%20of%20Warrant%20Officers%20for%20Length%20of%20Service/README.md) | <b>Retirement of Warrant Officers for Length of Service</b> | <b>1293</b> |
-| [<b>67.</b>](Chapter%20067%20-%20Retired%20Pay%20for%20Nonregular%20Service/README.md) | <b>Retired Pay for Non-Regular Service</b> | <b>1331</b> |
+| [<b>67.</b>](Chapter%20067%20-%20Retired%20Pay%20for%20Non-Regular%20Service/README.md) | <b>Retired Pay for Non-Regular Service</b> | <b>1331</b> |
 | [<b>69.</b>](Chapter%20069%20-%20Retired%20Grade/README.md) | <b>Retired Grade</b> | <b>1370</b> |
 | [<b>71.</b>](Chapter%20071%20-%20Computation%20of%20Retired%20Pay/README.md) | <b>Computation of Retired Pay</b> | <b>1401</b> |
 | [<b>73.</b>](Chapter%20073%20-%20Annuities%20Based%20on%20Retired%20or%20Retainer%20Pay/README.md) | <b>Annuities Based on Retired or Retainer Pay</b> | <b>1431</b> |
 | [<b>74.</b>](Chapter%20074%20-%20Department%20of%20Defense%20Military%20Retirement%20Fund/README.md) | <b>Department of Defense Military Retirement Fund</b> | <b>1461</b> |
 | [<b>75.</b>](Chapter%20075%20-%20Death%20Benefits/README.md) | <b>Death Benefits</b> | <b>1475</b> |
+| [<b>76.</b>](Chapter%20076%20-%20Missing%20Persons/README.md) | <b>Missing Persons</b> | <b>1501</b> |
 | [<b>77.</b>](Chapter%20077%20-%20Posthumous%20Commissions%20and%20Warrants/README.md) | <b>Posthumous Commissions and Warrants</b> | <b>1521</b> |
 | [<b>79.</b>](Chapter%20079%20-%20Correction%20of%20Military%20Records/README.md) | <b>Correction of Military Records</b> | <b>1551</b> |
 | <b>\[80.</b> | <b>Repealed.\]</b> |  |
 | [<b>81.</b>](Chapter%20081%20-%20Civilian%20Employees/README.md) | <b>Civilian Employees</b> | <b>1581</b> |
-| [<b>83.</b>](Chapter%20083%20-%20Defense%20Intelligence%20Agency%20and%20Central%20Imagery%20Office%20Civilian%20Personnel/README.md) | <b>Defense Intelligence Agency and Central Imagery Office Civilian Personnel</b> | <b>1601</b> |
+| [<b>83.</b>](Chapter%20083%20-%20Civilian%20Defense%20Intelligence%20Employees/README.md) | <b>Civilian Defense Intelligence Employees</b> | <b>1601</b> |
 | <b>\[85.</b> | <b>Repealed.\]</b> |  |
 | [<b>87.</b>](Chapter%20087%20-%20Defense%20Acquisition%20Workforce/README.md) | <b>Defense Acquisition Workforce</b> | <b>1701</b> |
-| [<b>89.</b>](Chapter%20089%20-%20Volunteers%20Investing%20in%20Peace%20and%20Security/README.md) | <b>Volunteers Investing in Peace and Security</b> | <b>1801</b> |
+| [<b>88.</b>](Chapter%20088%20-%20Military%20Family%20Programs%20and%20Military%20Child%20Care/README.md) | <b>Military Family Programs and Military Child Care</b> | <b>1781</b> |
+| <b>\[89.</b> | <b>Repealed.\]</b> |  |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1996—Pub. L. 104–201, div. A, title XVI, §1633(c)(3), Sept. 23, 1996, 110 Stat. 2751, substituted “Civilian Defense Intelligence Employees” for “Defense Intelligence Agency and Central Imagery Office Civilian Personnel” in item for chapter 83.
+
+Pub. L. 104–106, div. A, title V, §§568(a)(2), 569(b)(2), title X, §1061(a)(2), Feb. 10, 1996, 110 Stat. 335, 351, 442, added items for chapters 76 and 88 and struck out item for chapter 89 “Volunteers Investing in Peace and Security”.
 
 1994—Pub. L. 103–359, title V, §501(b)(2), Oct. 14, 1994, 108 Stat. 3429, substituted “Defense Intelligence Agency and Central Imagery Office Civilian Personnel” for “Defense Intelligence Agency Civilian Personnel” in item for chapter 83.
 
@@ -135,17 +141,18 @@ Particular provisions relating to personnel—
 - [Chapter 061 - Retirement or Separation for Physical Disability](Chapter%20061%20-%20Retirement%20or%20Separation%20for%20Physical%20Disability/README.md)
 - [Chapter 063 - Retirement for Age](Chapter%20063%20-%20Retirement%20for%20Age/README.md)
 - [Chapter 065 - Retirement of Warrant Officers for Length of Service](Chapter%20065%20-%20Retirement%20of%20Warrant%20Officers%20for%20Length%20of%20Service/README.md)
-- [Chapter 067 - Retired Pay for Nonregular Service](Chapter%20067%20-%20Retired%20Pay%20for%20Nonregular%20Service/README.md)
+- [Chapter 067 - Retired Pay for Non-Regular Service](Chapter%20067%20-%20Retired%20Pay%20for%20Non-Regular%20Service/README.md)
 - [Chapter 069 - Retired Grade](Chapter%20069%20-%20Retired%20Grade/README.md)
 - [Chapter 071 - Computation of Retired Pay](Chapter%20071%20-%20Computation%20of%20Retired%20Pay/README.md)
 - [Chapter 073 - Annuities Based on Retired or Retainer Pay](Chapter%20073%20-%20Annuities%20Based%20on%20Retired%20or%20Retainer%20Pay/README.md)
 - [Chapter 074 - Department of Defense Military Retirement Fund](Chapter%20074%20-%20Department%20of%20Defense%20Military%20Retirement%20Fund/README.md)
 - [Chapter 075 - Death Benefits](Chapter%20075%20-%20Death%20Benefits/README.md)
+- [Chapter 076 - Missing Persons](Chapter%20076%20-%20Missing%20Persons/README.md)
 - [Chapter 077 - Posthumous Commissions and Warrants](Chapter%20077%20-%20Posthumous%20Commissions%20and%20Warrants/README.md)
 - [Chapter 079 - Correction of Military Records](Chapter%20079%20-%20Correction%20of%20Military%20Records/README.md)
 - [Chapter 080 - Repealed](Chapter%20080%20-%20Repealed/README.md)
 - [Chapter 081 - Civilian Employees](Chapter%20081%20-%20Civilian%20Employees/README.md)
-- [Chapter 083 - Defense Intelligence Agency and Central Imagery Office Civilian Personnel](Chapter%20083%20-%20Defense%20Intelligence%20Agency%20and%20Central%20Imagery%20Office%20Civilian%20Personnel/README.md)
-- [Chapter 085 - Repealed](Chapter%20085%20-%20Repealed/README.md)
+- [Chapter 083 - Civilian Defense Intelligence Employees](Chapter%20083%20-%20Civilian%20Defense%20Intelligence%20Employees/README.md)
 - [Chapter 087 - Defense Acquisition Workforce](Chapter%20087%20-%20Defense%20Acquisition%20Workforce/README.md)
-- [Chapter 089 - Volunteers Investing in Peace and Security](Chapter%20089%20-%20Volunteers%20Investing%20in%20Peace%20and%20Security/README.md)
+- [Chapter 088 - Military Family Programs and Military Child Care](Chapter%20088%20-%20Military%20Family%20Programs%20and%20Military%20Child%20Care/README.md)
+- [Chapter 089 - Repealed](Chapter%20089%20-%20Repealed/README.md)

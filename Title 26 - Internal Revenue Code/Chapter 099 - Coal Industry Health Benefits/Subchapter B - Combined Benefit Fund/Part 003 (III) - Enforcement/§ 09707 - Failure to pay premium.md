@@ -20,7 +20,7 @@ For purposes of this section, the term “noncompliance period” means, with re
 
 #### (1) In general
 
-&emsp;No penalty shall be imposed by subsection (a) on any failure during any period for which it is established to the satisfaction of the Secretary of the Treasury that none of the persons responsible for such failure knew, or exercising reasonable diligence,<sup>1</sup> would have known, that such failure existed.
+&emsp;No penalty shall be imposed by subsection (a) on any failure during any period for which it is established to the satisfaction of the Secretary of the Treasury that none of the persons responsible for such failure knew, or exercising reasonable diligence would have known, that such failure existed.
 
 #### (2) Corrections
 
@@ -42,5 +42,9 @@ The person failing to meet the requirements of section 9704 shall be liable for 
 
 For purposes of this title, the penalty imposed by this section shall be treated in the same manner as the tax imposed by section 4980B.
 
-(Added Pub. L. 102–486, title XIX, §19143(a), Oct. 24, 1992, 106 Stat. 3050.)
+(Added Pub. L. 102–486, title XIX, §19143(a), Oct. 24, 1992, 106 Stat. 3050; amended Pub. L. 104–188, title I, §1704(t)(65), Aug. 20, 1996, 110 Stat. 1890.)
+
+#### Amendments
+
+1996—Subsec. (d)(1). Pub. L. 104–188 struck out comma after “diligence”.
 

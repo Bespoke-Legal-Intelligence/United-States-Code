@@ -1,6 +1,6 @@
 ### §857. Compliance with other registration statutes
 
-Compliance with the registration provisions of this subchapter does not relieve any person fromcompliance with any other applicable registration statute.
+Compliance with the registration provisions of this subchapter does not relieve any person from compliance with any other applicable registration statute.
 
 (Aug. 1, 1956, ch. 849, §8, 70 Stat. 900.)
 

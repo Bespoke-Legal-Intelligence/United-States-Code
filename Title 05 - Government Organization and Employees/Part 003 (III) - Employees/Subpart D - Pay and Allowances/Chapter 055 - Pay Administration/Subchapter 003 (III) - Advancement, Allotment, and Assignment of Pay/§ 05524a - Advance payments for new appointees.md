@@ -26,5 +26,5 @@ Section effective on such date as the President shall determine, but not earlier
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 38 section 7410.
+This section is referred to in section 8906 of this title; title 38 section 7410.
 

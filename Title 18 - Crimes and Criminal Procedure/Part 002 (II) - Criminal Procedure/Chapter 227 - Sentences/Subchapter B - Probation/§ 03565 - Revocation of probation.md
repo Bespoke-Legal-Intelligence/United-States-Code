@@ -14,7 +14,7 @@ Mandatory Revocation for Possession of Controlled Substance or Firearm or Refusa
 
 &emsp;(1) possesses a controlled substance in violation of the condition set forth in section 3563(a)(3);
 
-&emsp;(2) possesses a firearm, as such term is defined in section 921 of this title, in violation of Federal law, or otherwise violates a condition of probation prohibiting the defendant from possessing a firearm; or
+&emsp;(2) possesses a firearm, as such term is defined in section 921 of this title, in violation of Federal law, or otherwise violates a conditionof probation prohibiting the defendant from possessing a firearm; or
 
 &emsp;(3) refuses to comply with drug testing, thereby violating the condition imposed by section 3563(a)(4),<sup>1</sup>
 
@@ -30,7 +30,7 @@ Delayed Revocation.—The power of the court to revoke a sentence of probation f
 
 The Federal Rules of Criminal Procedure, referred to in subsec. (a), are set out in the Appendix to this title.
 
-Section 3563(a)(4), referred to in subsec. (b)(3), probably means the par. (4) of section 3563(a) added by section 20414(b)(3) of Pub. L. 103–322.
+Section 3563(a)(4), referred to in subsec. (b)(3), probably means the par. (4) of section 3563(a) added by section 20414(b)(3) of Pub. L. 103–322, which was renumbered par. (5) by Pub. L. 104–132, title II, §203(1)(C), Apr. 24, 1996, 110 Stat. 1227.
 
 #### Prior Provisions
 
@@ -64,7 +64,7 @@ Section effective Nov. 1, 1987, and applicable only to offenses committed after 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3562, 3563, 3607, 5037 of this title; title 28 section 994.
+This section is referred to in sections 3562, 3563, 3607, 3613A, 3664, 5037 of this title; title 28 section 994.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

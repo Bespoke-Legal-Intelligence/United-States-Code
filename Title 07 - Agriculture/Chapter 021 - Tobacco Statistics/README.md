@@ -10,14 +10,7 @@
 | [506\.](%C2%A7%2000506%20-%20Returns%20under%20oath%3B%20administration.md) | Returns under oath; administration. |
 | [507\.](%C2%A7%2000507%20-%20Limitation%20on%20use%20of%20statistical%20information.md) | Limitation on use of statistical information. |
 | [508\.](%C2%A7%2000508%20-%20Separability.md) | Separability. |
-| [509\.](%C2%A7%2000509%20-%20Reporting%20requirements%20relating%20to%20tobacco.md) | Reporting requirements relating to tobacco. |
-| (a) | In general. |
-| (b) | Special rule. |
-| (c) | Exceptions. |
-| (d) | Scope. |
-| (e) | Reports. |
-| (f) | Penalty. |
-| (g) | Confidentiality of information. |
+| [509\.](%C2%A7%2000509%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93127%2C%20title%20II%2C%20%C2%A7262%2C%20Apr.%204%2C%201996%2C%20110%20Stat.%20973.md) | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -34,4 +27,4 @@
 - [&sect; 00506 - Returns under oath; administration](%C2%A7%2000506%20-%20Returns%20under%20oath%3B%20administration.md)
 - [&sect; 00507 - Limitation on use of statistical information](%C2%A7%2000507%20-%20Limitation%20on%20use%20of%20statistical%20information.md)
 - [&sect; 00508 - Separability](%C2%A7%2000508%20-%20Separability.md)
-- [&sect; 00509 - Reporting requirements relating to tobacco](%C2%A7%2000509%20-%20Reporting%20requirements%20relating%20to%20tobacco.md)
+- [&sect; 00509 - Repealed. Pub. L. 104&#8211;127, title II, &sect;262, Apr. 4, 1996, 110 Stat. 973](%C2%A7%2000509%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93127%2C%20title%20II%2C%20%C2%A7262%2C%20Apr.%204%2C%201996%2C%20110%20Stat.%20973.md)

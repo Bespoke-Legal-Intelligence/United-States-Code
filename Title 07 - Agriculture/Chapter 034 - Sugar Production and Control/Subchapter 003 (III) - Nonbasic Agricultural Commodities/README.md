@@ -1,9 +1,5 @@
 ### SUBCHAPTER III—NONBASIC AGRICULTURAL COMMODITIES
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 1433f of this title.
-
 
 ---
 
@@ -16,12 +12,10 @@ This subchapter is referred to in section 1433f of this title.
 - [&sect; 01446c - Domestic disposal programs for dairy products](%C2%A7%2001446c%20-%20Domestic%20disposal%20programs%20for%20dairy%20products.md)
 - [&sect; 01446c&#8211;1 - Reduction of dairy product inventories](%C2%A7%2001446c%E2%80%931%20-%20Reduction%20of%20dairy%20product%20inventories.md)
 - [&sect; 01446c&#8211;2 - Domestic casein industry](%C2%A7%2001446c%E2%80%932%20-%20Domestic%20casein%20industry.md)
-- [&sect; 01446d - Cottonseed and cottonseed oil price support](%C2%A7%2001446d%20-%20Cottonseed%20and%20cottonseed%20oil%20price%20support.md)
-- [&sect; 01446e - Milk price support and milk inventory management program for calendar years 1991 through 1996](%C2%A7%2001446e%20-%20Milk%20price%20support%20and%20milk%20inventory%20management%20program%20for%20calendar%20years%201991%20through%201996.md)
-- [&sect; 01446e&#8211;1 - Milk manufacturing marketing adjustment](%C2%A7%2001446e%E2%80%931%20-%20Milk%20manufacturing%20marketing%20adjustment.md)
-- [&sect; 01446f - Loans and payments for oilseeds for 1991 through 1995 marketing years](%C2%A7%2001446f%20-%20Loans%20and%20payments%20for%20oilseeds%20for%201991%20through%201995%20marketing%20years.md)
-- [&sect; 01446g - Sugar price support for 1991 through 1997 crops](%C2%A7%2001446g%20-%20Sugar%20price%20support%20for%201991%20through%201997%20crops.md)
-- [&sect; 01446h - Honey price support](%C2%A7%2001446h%20-%20Honey%20price%20support.md)
+- [&sect; 01446d - Omitted](%C2%A7%2001446d%20-%20Omitted.md)
+- [&sect; 01446e - Repealed. Pub. L. 104&#8211;127, title I, &sect;141(g), Apr. 4, 1996, 110 Stat. 915](%C2%A7%2001446e%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93127%2C%20title%20I%2C%20%C2%A7141%28g%29%2C%20Apr.%204%2C%201996%2C%20110%20Stat.%20915.md)
+- [&sect; 01446e&#8211;1 - Repealed. Pub. L. 104&#8211;127, title I, &sect;145(e), Apr. 4, 1996, 110 Stat. 918](%C2%A7%2001446e%E2%80%931%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93127%2C%20title%20I%2C%20%C2%A7145%28e%29%2C%20Apr.%204%2C%201996%2C%20110%20Stat.%20918.md)
+- [&sect; 01446f to 1446h - Repealed. Pub. L. 104&#8211;127, title I, &sect;171(b)(2)(H), Apr. 4, 1996, 110 Stat. 938](%C2%A7%2001446f%20to%201446h%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93127%2C%20title%20I%2C%20%C2%A7171%28b%29%282%29%28H%29%2C%20Apr.%204%2C%201996%2C%20110%20Stat.%20938.md)
 - [&sect; 01446i - Repealed. Pub. L. 103&#8211;354, title I, &sect;119(a)(6), Oct. 13, 1994, 108 Stat. 3208](%C2%A7%2001446i%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93354%2C%20title%20I%2C%20%C2%A7119%28a%29%286%29%2C%20Oct.%2013%2C%201994%2C%20108%20Stat.%203208.md)
 - [&sect; 01447 - Price support levels for other nonbasic agricultural commodities](%C2%A7%2001447%20-%20Price%20support%20levels%20for%20other%20nonbasic%20agricultural%20commodities.md)
 - [&sect; 01448 - Price support levels for storable nonbasic agricultural commodities](%C2%A7%2001448%20-%20Price%20support%20levels%20for%20storable%20nonbasic%20agricultural%20commodities.md)

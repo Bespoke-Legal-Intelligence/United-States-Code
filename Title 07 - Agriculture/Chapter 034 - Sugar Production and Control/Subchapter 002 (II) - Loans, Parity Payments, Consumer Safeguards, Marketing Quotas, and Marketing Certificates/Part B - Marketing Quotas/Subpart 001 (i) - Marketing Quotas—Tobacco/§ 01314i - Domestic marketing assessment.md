@@ -2,7 +2,7 @@
 
 #### (a) Certification
 
-A domestic manufacturer of cigarettes shall certify to the Secretary, for each calendar year,the percentage of the quantity of tobacco used by the manufacturer to produce cigarettes during the year that is produced in the United States.
+A domestic manufacturer of cigarettes shall certify to the Secretary, for each calendar year, the percentage of the quantity of tobacco used by the manufacturer to produce cigarettes during the year that is produced in the United States.
 
 #### (b) Penalties
 
@@ -140,7 +140,7 @@ This section shall be effective only for calendar year 1994.
 
 #### Effective Date of 1994 Amendment
 
-Section 422(e) of Pub. L. 103–465 provided that: “This section \[amending this section, section 1445 of this title, and section 1313 of Title 19, Customs Duties, and enacting provisions set out as a note under section 1445 of this title\] and the amendments made by this section shall be effective beginning on the effective date of the Presidential proclamation, authorized under section 421\[set out as a note under section 2135 of Title 19\], establishing a tariff-rate quota pursuant to Article XXVIII of the GATT 1947 or the GATT 1994 with respect to tobacco.”
+Section 422(e) of Pub. L. 103–465 provided that: “This section \[amending this section, section 1445 of this title, and section 1313 of Title 19, Customs Duties, and enacting provisions set out as a note under section 1445 of this title\] and the amendments made by this section shall be effective beginning on the effective date of the Presidential proclamation, authorized under section 421 \[set out as a note under section 2135 of Title 19\], establishing a tariff-rate quota pursuant to Article XXVIII of the GATT 1947 or the GATT 1994 with respect to tobacco.”
 
 \[Proc. No. 6821, Sept. 12, 1995, 60 F.R. 47663, effective Sept. 13, 1995, established tariff-rate quotas on certain tobacco.\]
 

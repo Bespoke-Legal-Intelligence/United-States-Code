@@ -20,7 +20,7 @@ In this chapter:
 
 &emsp;(5) The term “hospital” means an entity described in paragraphs (1) and (7) of section 1395x(e) of this title.
 
-&emsp;(6) The terms “licensed health care practitioner” and “practitioner” mean, with respectto a State, an individual (other than a physician) who is licensed or otherwise authorized by the State to provide health care services.
+&emsp;(6) The terms “licensed health care practitioner” and “practitioner” mean, with respect to a State, an individual (other than a physician) who is licensed or otherwise authorized by the State to provide health care services.
 
 &emsp;(7) The term “medical malpractice action or claim” means a written claim or demand for payment based on a health care provider's furnishing (or failure to furnish) health care services, and includes the filing of a cause of action, based on the law of tort, brought in any court of any State or the United States seeking monetary damages.
 

@@ -48,5 +48,5 @@ Pub. L. 95–557, title IX, §902, Oct. 31, 1978, 92 Stat. 2125, declared it to 
 
 #### Study on Small Cities; Report to President and Congress; Alternative Formulae
 
-Pub. L. 95–128, title I, §113, Oct. 12, 1977, 91 Stat. 1111, directed Secretary of Housing and Urban Developmentto conduct a study and, not later than one year after Oct. 12, 1977, report to President and Congress recommendations on formation of a national policy on developmental needs of small cities and, among other things, include in such report alternative verifiable formulae to be used in distribution of discretionary balance funds available for allocation to such small cities under this chapter.
+Pub. L. 95–128, title I, §113, Oct. 12, 1977, 91 Stat. 1111, directed Secretary of Housing and Urban Development to conduct a study and, not later than one year after Oct. 12, 1977, report to President and Congress recommendations on formation of a national policy on developmental needs of small cities and, among other things, include in such report alternative verifiable formulae to be used in distribution of discretionary balance funds available for allocation to such small cities under this chapter.
 

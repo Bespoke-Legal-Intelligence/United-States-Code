@@ -26,13 +26,13 @@ As used in this chapter:
 
 > The term “food” as used in clause (vi) of this subparagraph includes poultry and poultry products (as defined in sections 4(e) and 4(f) of the Poultry Products Inspection Act \[21 U.S.C. 453(e) and (f)\]), meat and meat food products (as defined in section 1(j) of the Federal Meat Inspection Act \[21 U.S.C. 601(j)\]), and eggs and egg products (as defined in section 4 of the Egg Products Inspection Act \[21 U.S.C. 1033\]).
 
-(3) The term “commerce” means trade, traffic, transportation, or other commerce (A) between a place in a State and any place outside of such State, or (B) which affects trade, traffic, transportation, or commerce described in clause (A).
+(3) The term “commerce” means trade, traffic, transportation, or other commerce (A) betweena place in a State and any place outside of such State, or (B) which affects trade, traffic, transportation, or commerce described in clause (A).
 
 (4) The terms “distribute in commerce” and “distribution in commerce” when used to describe an action taken with respect to a chemical substance or mixture or article containing a substance or mixture mean to sell, or the sale of, the substance, mixture, or article in commerce; to introduce or deliver for introduction into commerce, or the introduction or delivery for introduction into commerce of, the substance, mixture, or article; or to hold, or the holding of, the substance, mixture, or article after its introduction into commerce.
 
 (5) The term “environment” includes water, air, and land and the interrelationship which exists among and between water, air, and land and all living things.
 
-(6) The term “health and safety study” means any study of any effect of a chemical substanceor mixture on health or the environment or on both, including underlying data and epidemiological studies, studies of occupational exposure to a chemical substance or mixture, toxicological, clinical, and ecological studies of a chemical substance or mixture, and any test performed pursuant to this chapter.
+(6) The term “health and safety study” means any study of any effect of a chemical substance or mixture on health or the environment or on both, including underlying data and epidemiological studies, studies of occupational exposure to a chemical substance or mixture, toxicological, clinical, and ecological studies of a chemical substance or mixture, and any test performed pursuant to this chapter.
 
 (7) The term “manufacture” means to import into the customs territory of the United States (as defined in general note 2 of the Harmonized Tariff Schedule of the United States), produce, or manufacture.
 

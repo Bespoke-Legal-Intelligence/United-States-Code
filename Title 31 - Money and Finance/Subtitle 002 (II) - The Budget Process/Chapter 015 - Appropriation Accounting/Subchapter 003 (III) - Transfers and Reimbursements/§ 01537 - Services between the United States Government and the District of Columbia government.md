@@ -26,7 +26,7 @@
 
 &emsp;(2) costs incurred by the District of Columbia government may be paid from amounts available to the United States Government officer or employee to whom the services were provided.
 
-(d) When requested by the Director of the United States Secret Service, the Chief of the Metropolitan Police shall assist the Secret Service and the Executive Protective Service on a non-reimbursable basis in carrying out their protective duties under section 302 of title 3 and section 3056 of title 18.
+(d) When requested by the Director of the United States Secret Service, the Chief of the Metropolitan Police shall assist the Secret Service and the Executive Protective Service on a non-reimbursable basis in carrying out their protective duties under section 302 <sup>1</sup> of title 3 and section 3056 of title 18.
 
 (Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 934.)
 
@@ -68,9 +68,17 @@ In subsection (c)(1), the words “United States Government” are substituted f
 
 In subsection (c)(2), the words “District of Columbia government” are substituted for “each District officer and agency” for consistency.
 
+#### References in Text
+
+Section 302 of title 3, referred to in subsec. (d), probably should be a reference to section 202 of Title 3, The President, which contains provisions relating to powers and duties of the United States Secret Service Uniformed Division, formerly known as the Executive Protective Service. Section 302 of Title 3 relates to scope of delegation of functions by the President.
+
 #### Codification
 
 Section is also set out in D.C. Code, §1–1131.1.
+
+#### Change of Name
+
+Reference to Executive Protective Service held to refer to United States Secret Service Uniformed Division pursuant to Pub. L. 95–179, set out as a note under section 202 of Title 3, The President.
 
 #### Section Referred to in Other Sections
 

@@ -64,7 +64,7 @@ The term “personal holding company” as defined in subsection (a) does not in
 
 &emsp;&emsp;(B) the personal holding company income for the taxable year (computed without regard to income described in subsection (d)(3) and income derived directly from the active and regular conduct of a lending or finance business, and computed by including as personal holding company income the entire amount of the gross income from rents, royalties, produced film rents, and compensation for use of corporate property by shareholders) is not more than 20 percent of the ordinary gross income;
 
-&emsp;&emsp;(C) the sum of the deductions which are directly allocable to the active and regularconduct of its lending or finance business equals or exceeds the sum of—
+&emsp;&emsp;(C) the sum of the deductions which are directly allocable to the active and regular conduct of its lending or finance business equals or exceeds the sum of—
 
 &emsp;&emsp;&emsp;(i) 15 percent of so much of the ordinary gross income derived therefrom as does not exceed $500,000, plus
 
@@ -102,7 +102,7 @@ The term “personal holding company” as defined in subsection (a) does not in
 
 &emsp;&emsp;&emsp;(i) making loans, or purchasing or discounting accounts receivable, notes, or installment obligations, if (at the time of the loan, purchase, or discount) the remaining maturity exceeds 144 months; unless—
 
-&emsp;&emsp;&emsp;&emsp;(I) the loans, notes, or installment obligations are evidenced or secured by contracts of conditional sale, chattel mortgages, or chattel lease agreements arising out of the sale of goods or services in the course of the borrower's or transferor's trade or business, or
+&emsp;&emsp;&emsp;&emsp;(I) the loans, notes, or installment obligations are evidenced or secured by contracts of conditional sale, chattelmortgages, or chattel lease agreements arising out of the sale of goods or services in the course of the borrower's or transferor's trade or business, or
 
 &emsp;&emsp;&emsp;&emsp;(II) the loans, notes, or installment obligations are made or acquired by the taxpayer and meet the requirements of subparagraph (C), or
 
@@ -124,7 +124,7 @@ The term “personal holding company” as defined in subsection (a) does not in
 
 &emsp;&emsp;(A) deductions which are allowable only by reason of section 162 or section 404, except there shall not be included any such deduction in respect of compensation for personal services rendered by shareholders (including members of the shareholder's family as described in section 544(a)(2)), and
 
-&emsp;&emsp;(B) deductions allowable under section 167, and deductions allowable under section 164for real property taxes, but in either case only to the extent that the property with respect to which such deductions are allowable is used directly in the active and regular conduct of the lending or finance business.
+&emsp;&emsp;(B) deductions allowable under section 167, and deductions allowable under section 164 for real property taxes, but in either case only to the extent that the property with respect to which such deductions are allowable is used directly in the active and regular conduct of the lending or finance business.
 
 #### (3) Income received from certain affiliated corporations
 
@@ -164,7 +164,7 @@ Subsec. (c)(8). Pub. L. 94–455, §1901(a)(76)(D), inserted “(15 U.S.C. 661 a
 
 1966—Subsec. (c)(7). Pub. L. 89–809 substituted requirement that the foreign corporation be other than a corporation which has income to which section 543(a)(7) applies for the taxable year for requirement that the foreign corporation's gross income from sources within the United States for the period specified in section 861(a)(2)(B) be less than 50 percent of its total gross income from all sources, and expanded the devices included in methods of indirect ownership to encompass foreign estates, foreign trusts, and foreign partnerships.
 
-1964—Subsec. (a)(1). Pub. L. 88–272, §225(b), substituted “60 percent of its adjusted ordinary gross income (as defined in section 543(b)(2)) for the taxable year is personal holding company income (as defined in section 543(a))” for “80 percent of its gross income for the taxable year is personal holding company income as defined in section 543”.
+1964—Subsec. (a)(1). Pub. L. 88–272, §225(b), substituted “60 percent of its adjusted ordinary gross income (as defined in section 543(b)(2)) for the taxable year is personal holding company income (as defined insection 543(a))” for “80 percent of its gross income for the taxable year is personal holding company income as defined in section 543”.
 
 Subsec. (b). Pub. L. 88–272, §225(k)(1), substituted “adjusted ordinary gross income” for “gross income”, wherever appearing.
 
@@ -184,7 +184,7 @@ Amendment by Pub. L. 99–514 applicable to taxable years of foreign corporation
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–369 applicable to taxable years beginning after Dec. 31, 1983, see section 215 ofPub. L. 98–369, set out as an Effective Date note under section 801 of this title.
+Amendment by Pub. L. 98–369 applicable to taxable years beginning after Dec. 31, 1983, see section 215 of Pub. L. 98–369, set out as an Effective Date note under section 801 of this title.
 
 #### Effective Date of 1982 Amendment
 

@@ -24,5 +24,5 @@ Voluntary retirement after 30 years or 20 years of active service, retired pay, 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 12771, 12772 of this title.
+This section is referred to in sections 1431, 12771, 12772 of this title.
 

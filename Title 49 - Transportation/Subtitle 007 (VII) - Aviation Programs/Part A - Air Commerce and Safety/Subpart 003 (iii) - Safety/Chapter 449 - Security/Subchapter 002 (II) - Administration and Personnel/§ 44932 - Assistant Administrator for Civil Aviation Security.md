@@ -40,7 +40,9 @@ Review and Development of Ways To Strengthen Security.—The Assistant Administr
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -63,8 +65,4 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §318; added Nov. 16, 1990, Pub. 
 In subsection (a), the words “There is an” are substituted for “There is established the position of” to eliminate unnecessary and executed words. The word “direction” is omitted as being included in “authority”.
 
 In subsection (b)(1), the words “as provided by section 44933 of this title” are added for clarity and because of the restatement. In clause (5), the words “duties and powers” are substituted for “responsibilities” for consistency in the revised title and with other titles of the United States Code. In clause (7), the words “carry out duties and powers” are substituted for “such other functions” for consistency in the revised title and with other titles of the Code. The word “necessary” is omitted as being included in “appropriate”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 46301, 46316 of this title.
 

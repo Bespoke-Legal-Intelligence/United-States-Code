@@ -2,7 +2,7 @@
 
 (a) Whoever kills (1) any individual who is the President of the United States, the President-elect, the Vice President, or, if there is no Vice President, the officer next in the order of succession to the Office of the President of the United States, the Vice President-elect, or any person who is acting as President under the Constitution and laws of the United States, or (2) any person appointed under section 105(a)(2)(A) of title 3 employed in the Executive Office of the President or appointed under section 106(a)(1)(A) of title 3 employed in the Office of the Vice President, shall be punished as provided by sections 1111 and 1112 of this title.
 
-(b) Whoever kidnaps any individual designated in subsection (a) of this section shall be punished (1) by imprisonment for any term of yearsor for life, or (2) by death or imprisonment for any term of years or for life, if death results to such individual.
+(b) Whoever kidnaps any individual designated in subsection (a) of this section shall be punished (1) by imprisonment for any term of years or for life, or (2) by death or imprisonment for any term of years or for life, if death results to such individual.
 
 (c) Whoever attempts to kill or kidnap any individual designated in subsection (a) of this section shall be punished by imprisonment for any term of years or for life.
 
@@ -22,27 +22,37 @@
 
 (k) There is extraterritorial jurisdiction over the conduct prohibited by this section.
 
-(Added Pub. L. 89–141, §1, Aug. 28, 1965, 79 Stat. 580; amended Pub. L. 97–285, §§3, 4(a), Oct. 6, 1982, 96 Stat. 1220; Pub. L. 103–322, title XXXII, §320101(e), title XXXIII, §§330016(1)(K), (L), 330021(1), Sept. 13, 1994, 108 Stat. 2108, 2147, 2150.)
+(Added Pub. L. 89–141, §1, Aug. 28, 1965, 79 Stat. 580; amended Pub. L. 97–285, §§3, 4(a), Oct. 6, 1982, 96 Stat. 1220; Pub. L. 103–322, title XXXII, §320101(e), title XXXIII, §§330016(1)(K), (L), 330021(1), Sept. 13, 1994, 108 Stat. 2108, 2147, 2150; Pub. L. 104–294, title VI, §604(b)(12)(D), Oct. 11, 1996, 110 Stat. 3507.)
 
 #### Amendments
 
+1996—Subsec. (e). Pub. L. 104–294, §604(b)(12)(D), repealed Pub. L. 103–322, §320101(e)(1), (2). See 1994 Amendment notes below.
+
 1994—Pub. L. 103–322, §330021(1), substituted “kidnapping” for “kidnaping” in section catchline.
 
-Subsec. (e). Pub. L. 103–322, §320101(e)(3), inserted “the assault involved the use of a dangerous weapon, or” before “personal injury results”.
+Subsec. (e). Pub. L. 103–322, §330016(1)(K), substituted “fined under this title” for “fined not more than $5,000” after “subsection (a)(2) shall be”.
 
-Pub. L. 103–322, §§320101(e)(2), 330016(1)(K), amended subsec. (e) identically, substituting “fined under this title” for “fined not more than $5,000” after “subsection (a)(2) shall be”.
+Pub. L. 103–322, §330016(1)(L), substituted “fined under this title” for “fined not more than $10,000” after “subsection (a)(1) shall be” and after “results, shall be”.
 
-Pub. L. 103–322, §§320101(e)(1), 330016(1)(L), amended subsec. (e) identically, substituting “fined under this title” for “fined not more than $10,000” after “subsection (a)(1) shall be” and after “results, shall be”.
+Pub. L. 103–322, §320101(e)(3), inserted “the assault involved the use of a dangerous weapon, or” before “personal injury results”.
+
+Pub. L. 103–322, §320101(e)(2), which provided for amendment identical to Pub. L. 103–322, §330016(1)(K), above, was repealed by Pub. L. 104–294, §604(b)(12)(D).
+
+Pub. L. 103–322, §320101(e)(1), which provided for amendment identical to Pub. L. 103–322, §330016(1)(L), above, was repealed by Pub. L. 104–294, §604(b)(12)(D).
 
 1982—Pub. L. 97–285, §4(a), inserted “and Presidential staff” after “Presidential” in section catchline.
 
 Subsec. (a). Pub. L. 97–285, §3(a), inserted “(1)” after “Whoever kills” and “or (2) any person appointed under section 105(a)(2)(A) of title 3 employed in the Executive Office of the President or appointed under section 106(a)(1)(A) of title 3 employed in the Office of the Vice President,” after “laws of the United States”.
 
-Subsec. (e). Pub. L. 97–285, §3(b), substituted “(a)(1)” for “(a)” and inserted provision that whoever assaults any person designated in subsec. (a)(2) of this section shall be fined not more than $5,000, or imprisoned not more than one year, or both; and if personal injury results, shall be fined not more than $10,000, or imprisoned not more than ten years, or both.
+Subsec. (e). Pub. L. 97–285, §3(b), substituted “(a)(1)” for “(a)” and inserted provision that whoever assaults any person designated in subsec. (a)(2) of this section shall be fined not more than $5,000, or imprisoned notmore than one year, or both; and if personal injury results, shall be fined not more than $10,000, or imprisoned not more than ten years, or both.
 
 Subsec. (g). Pub. L. 97–285, §3(c), substituted “subsection (a)(1)” for “this section” after “a violation of”.
 
 Subsecs. (j), (k). Pub. L. 97–285, §3(d), added subsecs. (j) and (k).
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–294 effective Sept. 13, 1994, see section 604(d) of Pub. L. 104–294, set out as a note under section 13 of this title.
 
 #### Cross References
 
@@ -50,5 +60,5 @@ Wire or oral communications, authorization for interception, to provide evidence
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 209, 2339A, 2516, 3286, 4247 of this title; title 5 section 8112.
+This section is referred to in sections 209, 1956, 2332b, 2339A, 2516, 3286, 4247 of this title; title 5 section 8112.
 

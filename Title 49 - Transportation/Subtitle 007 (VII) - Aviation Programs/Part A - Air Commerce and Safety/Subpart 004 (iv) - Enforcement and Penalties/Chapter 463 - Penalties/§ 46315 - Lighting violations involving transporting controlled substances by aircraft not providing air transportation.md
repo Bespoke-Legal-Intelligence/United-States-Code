@@ -22,7 +22,9 @@ Criminal Penalty.—A person shall be fined under title 18, imprisoned for not m
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

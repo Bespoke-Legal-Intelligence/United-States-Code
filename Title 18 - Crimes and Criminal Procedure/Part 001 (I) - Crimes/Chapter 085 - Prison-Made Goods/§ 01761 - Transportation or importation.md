@@ -1,8 +1,8 @@
 ### §1761. Transportation or importation
 
-(a) Whoever knowingly transports in interstate commerce or from any foreign country into the United States any goods, wares, or merchandise manufactured, produced, or mined, wholly or in part by convicts or prisoners, except convicts or prisoners on parole, supervised release, or probation, or in any penal or reformatory institution, shall be fined not more than $50,000 or imprisoned not more than two years, or both.
+(a) Whoever knowingly transports in interstate commerce or from any foreign country into the United States any goods, wares, or merchandise manufactured, produced, or mined, wholly or in part by convicts or prisoners, except convicts or prisoners on parole, supervised release, or probation, or in any penal or reformatory institution, shall be fined under this title or imprisoned not more than two years, or both.
 
-(b) This chapter shall not apply to agricultural commodities or parts for the repair of farm machinery, nor to commodities manufactured in a Federal, District of Columbia, or State institution for use by the Federal Government, or by the District of Columbia, or by any State or Political subdivision of a State.
+(b) This chapter shall not apply to agricultural commodities or parts for the repair of farm machinery, nor to commodities manufactured in a Federal, District of Columbia, or State institution for use by the Federal Government, or by the District of Columbia, or by any State or Political subdivision of a State or not-for-profit organizations.
 
 (c) In addition to the exceptions set forth in subsection (b) of this section, this chapter shall not apply to goods, wares, or merchandise manufactured, produced, or mined by convicts or prisoners who—
 
@@ -22,7 +22,9 @@
 
 &emsp;(4) have participated in such employment voluntarily and have agreed in advance to the specific deductions made from gross wages pursuant to this section, and all other financial arrangements as a result of participation in such employment.
 
-(June 25, 1948, ch. 645, 62 Stat. 785; June 19, 1968, Pub. L. 90–351, title I, §819(a), formerly §827(a),as added Dec. 27, 1979, Pub. L. 96–157, §2, 93 Stat. 1215, and renumbered Oct. 12, 1984, Pub. L. 98–473, title II, §609B(f), 98 Stat. 2093; Oct. 12, 1984, Pub. L. 98–473, title II, §§223(c), 609K, 98 Stat. 2028, 2102; Apr. 2, 1987, Pub. L. 100–17, title I, §112(b)(3), 101 Stat. 149; Nov. 29, 1990, Pub. L. 101–647, title XXIX, §2906, 104 Stat. 4914; Oct. 6, 1992, Pub. L. 102–393, title V, §535(a), 106 Stat. 1764; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §§330010(11), 330016(1)(H), 108 Stat. 2144, 2147.)
+(d) For the purposes of this section, the term “State” means a State of the United States and any commonwealth, territory, or possession of the United States.
+
+(June 25, 1948, ch. 645, 62 Stat. 785; June 19, 1968, Pub. L. 90–351, title I, §819(a), formerly §827(a), as added Dec. 27, 1979, Pub. L. 96–157, §2, 93 Stat. 1215, and renumbered Oct. 12, 1984, Pub. L. 98–473, title II, §609B(f), 98 Stat. 2093; Oct. 12, 1984, Pub. L. 98–473, title II, §§223(c), 609K, 98 Stat. 2028, 2102; Apr. 2, 1987, Pub. L. 100–17, title I, §112(b)(3), 101 Stat. 149; Nov. 29, 1990, Pub. L. 101–647, title XXIX, §2906, 104 Stat. 4914; Oct. 6, 1992, Pub. L. 102–393, title V, §535(a), 106 Stat. 1764; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §§330010(11), 330016(1)(H), 108 Stat. 2144, 2147; Apr. 26, 1996, Pub. L. 104–134, title I, §101(b) \[title I, §136\], 110 Stat. 1321–77, 1321–93; renumbered title I, May 2, 1996, Pub. L. 104–140, §1(a), 110 Stat. 1327; Oct. 11, 1996, Pub. L. 104–294, title VI, §§601(a)(7), 607(h), 110 Stat. 3498, 3512.)
 
 #### Historical and Revision Notes
 
@@ -40,6 +42,12 @@ Minor changes in phraseology were made.
 
 #### Amendments
 
+1996—Subsec. (a). Pub. L. 104–294, §601(a)(7), substituted “fined under this title” for “fined not more than $50,000”.
+
+Subsec. (b). Pub. L. 104–134 inserted “or not-for-profit organizations” after “of a State”.
+
+Subsec. (d). Pub. L. 104–294, §607(h), added subsec. (d).
+
 1994—Pub. L. 103–322, §330016(1)(H), which directed the amendment of this section by substituting “under this title” for “not more than $1,000”, could not be executed because the phrase “not more than $1,000” did not appear in text subsequent to amendment of subsec. (a) by Pub. L. 102–393. See 1992 Amendment note below.
 
 Subsec. (c). Pub. L. 103–322, §330010(11), struck out “and” at end of par. (1), substituted semicolon for period at end of par. (2)(B), and inserted “and” at end of par. (3).
@@ -50,7 +58,7 @@ Subsec. (c). Pub. L. 103–322, §330010(11), struck out “and” at end of par
 
 Subsec. (c)(2)(B). Pub. L. 101–647, §2906(3), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “reasonable charges for room and board as determined by regulations which shall be issued by the Chief State correctional officer;”.
 
-1987—Subsec. (d). Pub. L. 100–17 struck out subsec. (d) which read as follows: “Notwithstanding any law to the contrary, materials produced by convict labor may be used in the construction of any highways or portion of highways located on Federal-aid systems, as described in section 103 of title 23, United States Code.”
+1987—Subsec. (d). Pub. L. 100–17 struck out subsec. (d) which read as follows: “Notwithstanding any law to thecontrary, materials produced by convict labor may be used in the construction of any highways or portion of highways located on Federal-aid systems, as described in section 103 of title 23, United States Code.”
 
 1984—Subsec. (a). Pub. L. 98–473, §223(c), inserted “, supervised release,” after “parole”.
 

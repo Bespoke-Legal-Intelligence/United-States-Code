@@ -28,9 +28,9 @@
 
 (d)(1) In this subsection, “obligation” means any obligation (except United States currency) payable in United States money.
 
-(2) An obligation issued containing a gold clause or governed by a gold clause is discharged on payment (dollar for dollar) in United States coin or currency that is legal tender at the time of payment. This paragraph does not apply to an obligation issued after October 27, 1977.
+(2) An obligation issued containing a gold clause or governed by a gold clause is discharged on payment (dollar for dollar) in United States coin or currency that is legal tender at the time of payment. This paragraph does not apply to an obligation issued after October 27, 1977. This paragraph shall apply to any obligation issued on or before October 27, 1977, notwithstanding any assignment or novation of such obligation after October 27, 1977, unless all parties to the assignment or novation specifically agree to include a gold clause in the new agreement. Nothing in the preceding sentence shall be construed to affect the enforceability of a Gold Clause <sup>1</sup> contained in any obligation issued after October 27, 1977 if the enforceability of that Gold Clause <sup>1</sup> has been finally adjudicated before the date of enactment of the Economic Growth and Regulatory Paperwork Reduction Act of 1996.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 985; Pub. L. 99–185, §2(d), Dec. 17, 1985, 99 Stat. 1178.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 985; Pub. L. 99–185, §2(d), Dec. 17, 1985, 99 Stat. 1178; Pub. L. 104–208, div. A, title II, §2609, Sept. 30, 1996, 110 Stat. 3009–475.)
 
 Historical and Revision Notes
 
@@ -82,17 +82,25 @@ In subsection (b), the words “after January 30, 1934” in 31:315b are omitted
 
 In subsection (c)(1), before clause (A), the word “Government” is substituted for “United States” for consistency in the revised title and with other titles of the United States Code. The words “to anyone” are added for clarity. The words “whether by way of suit, counterclaim, set-off, recoupment, or other affirmative action or defense in its own name or in the name of” are omitted as surplus. The word “employees” is added for consistency in the revised title and with other titles of the Code. The word “instrumentalities” is omitted as unnecessary because of section 101 of the revised title. The word “claim” is substituted for “right, privilege, or power” to eliminate unnecessary words and for consistency in the revised title and with other titles of the Code. The words “in any proceeding of any nature whatsoever” are omitted as surplus. In clause (C), the words “or demand” are omitted as surplus.
 
-In subsection (c)(2), the words “any suit commenced prior to August 27, 1935, or which may be commencedby January 1, 1936” are omitted as executed. The words “referred to in this section” are omitted as surplus.
+In subsection (c)(2), the words “any suit commenced prior to August 27, 1935, or which may be commenced by January 1, 1936” are omitted as executed. The words “referred to in this section” are omitted as surplus.
 
 In subsection (c)(3), the words “may be expended” are substituted for “an amount appropriated or authorized to be expended” and “shall be available for or expended in”, and the words “dollar for dollar” are substituted for “on an equal and uniform dollar for dollar basis”, to eliminate unnecessary words.
 
 In subsection (d)(1), the words “including every obligation of and to the United States” are omitted as surplus. The text of 31:463(b)(words after semicolon) is omitted as unnecessary because of the restatement.
 
+#### References in Text
+
+The date of enactment of the Economic Growth and Regulatory Paperwork Reduction Act of 1996, referred to in subsec. (d)(2), is the date of enactment of Pub. L. 104–208, div. A, title II, which was approved Sept. 30, 1996.
+
 #### Amendments
+
+1996—Subsec. (d)(2). Pub. L. 104–208 inserted at end “This paragraph shall apply to any obligation issued on or before October 27, 1977, notwithstanding any assignment or novation of such obligation after October 27, 1977, unless all parties to the assignment or novation specifically agree to include a gold clause in the new agreement. Nothing in the preceding sentence shall be construed to affect the enforceability of a Gold Clause contained in any obligation issued after October 27, 1977 if the enforceability of that Gold Clause has been finally adjudicated before the date of enactment of the Economic Growth and Regulatory Paperwork Reduction Act of 1996.”
 
 1985—Subsec.(b). Pub. L. 99–185 struck out “or deliver” after “pay out” and inserted “(other than gold and silver coins)” before “that may be lawfully held”.
 
 #### Effective Date of 1985 Amendment
 
 Amendment by Pub. L. 99–185 effective Oct. 1, 1985, except that no coins may be issued or sold under section 5112(i) of this title before Oct. 1, 1986, see section 3 of Pub. L. 99–185, set out as a note under section 5112 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

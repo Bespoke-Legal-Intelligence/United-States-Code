@@ -4,7 +4,7 @@ Congress hereby finds that—
 
 &emsp;(1) uninterrupted continuation of services over Rock Island lines is dependent on adequate employee protection provisions covering Rock Island Railroad employees who are not hired by other railroads;
 
-&emsp;(2) for those Rock Island Railroad employees not hired by other rail carriers, there is no other practicable means of obtaining funds tomeet the necessary costs of such employee protection that are assumed by the Rock Island Railroad;
+&emsp;(2) for those Rock Island Railroad employees not hired by other rail carriers, there is no other practicable means of obtaining funds to meet the necessary costs of such employee protection that are assumed by the Rock Island Railroad;
 
 &emsp;(3) a cessation of necessary operations of the Rock Island Railroad would have serious repercussions on the economies of the States in which such railroad principally operates; and
 

@@ -40,7 +40,7 @@ If more than the correct amount of tax imposed by section 3101, 3111, 3201, 3221
 
 #### (B) State employees
 
-&emsp;&emsp;For purposes of this subsection, in the case of remuneration received during any calendar year, the term “wages” includes such remuneration for services covered by an agreement made pursuant to section 218 of the Social Security Act as would be wages if such services constituted employment; the term “employer” includes a State or any political subdivision thereof, or any instrumentality of any one or more of the foregoing; the term “tax” or “tax imposed by section 3101(a)” includes, in the case of services covered by an agreement made pursuant to section 218 of the Social Security Act, an amount equivalent to the tax which would be imposed by section 3101(a), if such services constituted employment as defined in section 3121; and the provisions of this subsection shall apply whether or not any amount deducted from the employee's remuneration as a result of an agreement made pursuant to section 218 of the Social Security Act has been paid to the Secretary.
+&emsp;&emsp;For purposes of this subsection, in the case of remuneration received during any calendar year, the term “wages” includes such remuneration for services covered by an agreement made pursuant to section 218 of the Social Security Act as would be wages if such services constituted employment; the term “employer” includes a State or any political subdivision thereof, or any instrumentality of any one or more of the foregoing; the term “tax” or “tax imposed by section 3101(a)” includes, in the case of services covered by an agreement made pursuant to section 218 of the Social Security Act, an amount equivalent to the tax which would be imposed by section 3101(a), if such services constituted employment as defined in section 3121; and the provisions of this subsection shall apply whether or not anyamount deducted from the employee's remuneration as a result of an agreement made pursuant to section 218 of the Social Security Act has been paid to the Secretary.
 
 #### (C) Employees of certain foreign affiliates
 
@@ -56,7 +56,7 @@ If more than the correct amount of tax imposed by section 3101, 3111, 3201, 3221
 
 #### (F) Governmental employees in the District of Columbia
 
-&emsp;&emsp;In the case of remuneration received from the District of Columbia or any instrumentality wholly owned thereby, during any calendar year, the Mayor of the District of Columbia and each agent designated by himwho makes a return pursuant to section 3125(d) shall, for purposes of this subsection, be deemed a separate employer.
+&emsp;&emsp;In the case of remuneration received from the District of Columbia or any instrumentality wholly owned thereby, during any calendar year, the Mayor of the District of Columbia and each agent designated by him who makes a return pursuant to section 3125(d) shall, for purposes of this subsection, be deemed a separate employer.
 
 #### (G) Employees of States and political subdivisions
 
@@ -88,7 +88,7 @@ Subsec. (c)(3). Pub. L. 103–66, §13207(d)(3), struck out heading and text of 
 
 > the applicable contribution base determined under section 3121(x)(2) for any calendar year shall be substituted for ‘contribution and benefit base (as determined under section 230 of the Social Security Act)’ each place it appears.”
 
-1990—Subsec. (c)(3). Pub. L. 101–508 substituted heading for one which read: “Applicability with respect to compensation of employees subject to the Railroad Retirement Tax Act” and amended text generally. Prior to amendment, text read as follows: “In the case of any individual who, during any calendar year, receives wages from one or more employers and also receives compensation which is subject to the tax imposed by section 3201 or 3211, such compensation shall, solely for purposes of applying paragraph (1) with respect to the tax imposed by section 3101(b), be treated as wages received from an employer with respect to which the tax imposed by section 3101(b) was deducted.”
+1990—Subsec. (c)(3). Pub. L. 101–508 substituted heading for one which read: “Applicability with respect to compensation of employees subject to the Railroad Retirement Tax Act” and amended text generally. Prior to amendment, text read as follows: “In the case of any individual who, during any calendar year, receives wages from one or more employers and also receives compensation which is subject to the tax imposed bysection 3201 or 3211, such compensation shall, solely for purposes of applying paragraph (1) with respect to the tax imposed by section 3101(b), be treated as wages received from an employer with respect to which the tax imposed by section 3101(b) was deducted.”
 
 1986—Subsec. (a)(5). Pub. L. 99–272, §13205(a)(2)(E)(i), added par. (5).
 
@@ -161,7 +161,7 @@ Subsec. (c)(3). Pub. L. 90–248, §502(a), added par. (3).
 
 1965—Subsec. (a)(4). Pub. L. 89–97, §317(e), added par. (4).
 
-Subsec. (c)(1). Pub. L. 89–97, §320(b)(5), inserted “and prior to the calendar year 1966” after “the calendar year 1958”, “or (C) during any calendar year after the calendar year 1965, the wages received by him during such year exceed $6,600” after “exceed $4,800,”, and “and before 1966, or which exceeds the tax with respect to the first $6,600 of such wages received in such calendar year after 1965” before the period at end of par.
+Subsec. (c)(1). Pub. L. 89–97, §320(b)(5), inserted “and prior to the calendar year 1966” after “the calendar year 1958”, “or (C) during any calendar year after thecalendar year 1965, the wages received by him during such year exceed $6,600” after “exceed $4,800,”, and “and before 1966, or which exceeds the tax with respect to the first $6,600 of such wages received in such calendar year after 1965” before the period at end of par.
 
 Subsec. (c)(2)(A). Pub. L. 89–97, §320(b)(6), substituted “$4,800 for the calendar year 1959, 1960, 1961, 1962, 1963, 1964, or 1965, or $6,600 for any calendar year after 1965” for “or $4,800 for any calendar year after 1958”.
 
@@ -201,7 +201,7 @@ Amendment by Pub. L. 98–21 applicable to agreements entered into after Apr. 20
 
 #### Effective Date of 1976 Amendment
 
-Amendment by section 1906(a)(23)(A), (C), (D), (b)(13)(A) of Pub. L. 94–455 effective on first day of firstmonth which begins more than ninety days after Oct. 4, 1976, see section 1906(d)(1) of Pub. l. 94–455, set out as a note under section 6013 of this title.
+Amendment by section 1906(a)(23)(A), (C), (D), (b)(13)(A) of Pub. L. 94–455 effective on first day of first month which begins more than ninety days after Oct. 4, 1976, see section 1906(d)(1) of Pub. l. 94–455, set out as a note under section 6013 of this title.
 
 Section 1906(a)(23)(B)(iii) of Pub. L. 94–455 provided that: “The amendments made by clauses (i) and (ii) \[amending this section\] shall apply with respect to remuneration paid after December 31, 1976.”
 

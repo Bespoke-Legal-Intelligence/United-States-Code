@@ -32,7 +32,7 @@ Accountability for hazardous wastes.—(A) A provision specifying the following:
 
 Renegotiation of Contract.—The Secretary of the Navy shall renegotiate a contract described in subsection (a) if—
 
-&emsp;(1) the contractor, during the performance of work under the contract, discovers hazardouswastes different in type or amount from those identified in the contract; and
+&emsp;(1) the contractor, during the performance of work under the contract, discovers hazardous wastes different in type or amount from those identified in the contract; and
 
 &emsp;(2) those hazardous wastes originated on, or resulted from material furnished by the Government for, the naval vessel on which the work is being performed.
 

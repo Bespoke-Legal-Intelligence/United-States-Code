@@ -34,7 +34,7 @@ The Secretary or his designee may, to the extent that he deems appropriate, hold
 
 &emsp;(ii) subject to subparagraph (C), to individuals who are not patients of the entity.
 
-(C) Subparagraph (B)(ii) applies to services provided to individuals who are not patients of an entity if the Secretary determines, after reviewing an application submitted under subparagraph (D), that the provision of the services to such individuals—
+(C) Subparagraph (B)(ii) applies to services provided to individuals who are not patients ofan entity if the Secretary determines, after reviewing an application submitted under subparagraph (D), that the provision of the services to such individuals—
 
 &emsp;(i) benefits patients of the entity and general populations that could be served by the entity through community-wide intervention efforts within the communities served by such entity;
 
@@ -52,7 +52,7 @@ The Secretary or his designee may, to the extent that he deems appropriate, hold
 
 &emsp;(i) The Secretary may not consider the entity in making estimates under subsection (k)(1) of this section.
 
-&emsp;(ii) This section does not affect any authority of the entity to purchase medical malpractice liability insurance coverage with Federal funds provided to the entity under section 254b, 254c, 256, or 256a of this title.
+&emsp;(ii) This section does not affect any authority of the entity to purchase medical malpractice liability insurance coverage with Federal funds provided to the entity under section 254b, 254c, 256, or 256a of this title.<sup>1</sup>
 
 (H) In the case of an entity described in paragraph (4) for which an application under subparagraph (D) is in effect, the entity may, through notifying the Secretary in writing, elect to terminate the applicability of this subsection to the entity. With respect to such election by the entity:
 
@@ -62,21 +62,13 @@ The Secretary or his designee may, to the extent that he deems appropriate, hold
 
 &emsp;(iii) Upon the effective date for the election, clauses (i) and (ii) of subparagraph (G) apply to the entity to the same extent and in the same manner as such clauses apply to an entity that has not submitted an application under subparagraph (D).
 
-&emsp;(iv) If after making the election the entity submits an application under subparagraph (D), the election does not preclude the Secretary from approving the application ( <sup>1</sup> and thereby restoring the applicability of this subsection to the entity and each officer, governing board member, employee, and contractor of the entity, subject to the provisions of this subsection and the subsequent provisions of this section.
+&emsp;(iv) If after making the election the entity submits an application under subparagraph (D), the election does not preclude the Secretary from approving the application ( <sup>2</sup> and thereby restoring the applicability of this subsection to the entity and each officer, governing board member, employee, and contractor of the entity, subject to the provisions of this subsection and the subsequent provisions of this section.
 
 (2) If, with respect to an entity or person deemed to be an employee for purposes of paragraph (1), a cause of action is instituted against the United States pursuant to this section, any claim of the entity or person for benefits under an insurance policy with respect to medical malpractice relating to such cause of action shall be subrogated to the United States.
 
 (3) This subsection shall apply with respect to a cause of action arising from an act or omission which occurs on or after January 1, 1993.
 
-(4) An entity described in this paragraph is a public or non-profit private entity receiving Federal funds under any of the following grant programs:
-
-&emsp;(A) Section 254b of this title (relating to grants for migrant health centers).
-
-&emsp;(B) Section 254c of this title (relating to grants for community health centers).
-
-&emsp;(C) Section 256 of this title (relating to grants for health services for the homeless).
-
-&emsp;(D) Section 256a of this title (relating to grants for health services for residents of public housing).
+(4) An entity described in this paragraph is a public or non-profit private entity receiving Federal funds under section 254b of this title.
 
 (5) For purposes of paragraph (1), an individual may be considered a contractor of an entity described in paragraph (4) only if—
 
@@ -118,7 +110,7 @@ In the case of a health care provider who is an officer, employee, or contractor
 
 #### (k) Estimate of annual claims by Attorney General; criteria; establishment of fund; transfer of funds to Treasury accounts
 
-(1)(A) For each fiscal year, the Attorney General, in consultation with the Secretary, shall estimate by the beginning of the year the amount of all claims which are expected to ariseunder this section (together with related fees and expenses of witnesses) for which payment is expected to be made in accordance with section 1346 and chapter 171 of title 28 from the acts or omissions, during the calendar year that begins during that fiscal year, of entities described in subsection (g)(4) of this section and of officers, employees, or contractors (subject to subsection (g)(5) of this section) of such entities.
+(1)(A) For each fiscal year, the Attorney General, in consultation with the Secretary, shall estimate by the beginning of the year the amount of all claims which are expected to arise under this section (together with related fees and expenses of witnesses) for which payment is expected to be made in accordance with section 1346 and chapter 171 of title 28 from the acts or omissions, during the calendar year that begins during that fiscal year, of entities described in subsection (g)(4) of this section and of officers, employees, or contractors (subject to subsection (g)(5) of this section) of such entities.
 
 (B) The estimate under subparagraph (A) shall take into account—
 
@@ -128,9 +120,9 @@ In the case of a health care provider who is an officer, employee, or contractor
 
 &emsp;(iii) amounts in the fund established under paragraph (2) but unspent from prior fiscal years.
 
-(2) Subject to appropriations, for each fiscal year, the Secretary shall establish a fund of an amount equal to the amount estimated under paragraph (1) that is attributable to entities receiving funds under each of the grant programs described in paragraph (4) of subsection (g) of this section, but not to exceed a total of $10,000,000 for each such fiscal year. Appropriations for purposes of this paragraph shall be made separate from appropriations made for purposes of sections 254b, 254c, 256, and 256a of this title.
+(2) Subject to appropriations, for each fiscal year, the Secretary shall establish a fund of an amount equal to the amount estimated under paragraph (1) that is attributable to entities receiving funds under each of the grant programs described in paragraph (4) of subsection (g) of this section, but not to exceed a total of $10,000,000 for each such fiscal year. Appropriations for purposes of this paragraph shall be made separate from appropriations made for purposes of sections 254b, 254c, 256, and 256a of this title.<sup>1</sup>
 
-(3) In order for payments to be made for judgments against the United States (together with related fees and expenses of witnesses) pursuant to this section arising from the acts or omissions of entities described in subsection (g)(4) of this section and of officers, governing board member,<sup>2</sup> employees, or contractors (subject to subsection (g)(5) of this section) of such entities, the total amount contained within the fund established by the Secretary under paragraph (2) for a fiscal year shall be transferred not later than the December 31 that occurs during the fiscal year to the appropriate accounts in the Treasury.
+(3) In order for payments to be made for judgments against the United States (together with related fees and expenses of witnesses) pursuant to this section arising from the acts or omissions of entities described in subsection (g)(4) of this section and of officers, governing board member,<sup>3</sup> employees, or contractors (subject tosubsection (g)(5) of this section) of such entities, the total amount contained within the fund established by the Secretary under paragraph (2) for a fiscal year shall be transferred not later than the December 31 that occurs during the fiscal year to the appropriate accounts in the Treasury.
 
 #### (<i>l</i>) Timely response to filing of action or proceeding
 
@@ -154,7 +146,7 @@ In the case of a health care provider who is an officer, employee, or contractor
 
 &emsp;(B) The risk exposure of such entities.
 
-&emsp;(C) The value of private sector risk-management services, and the value of risk-management services and procedures required as a condition of receiving a grant under section 254b, 254c, 256, or 256a of this title.
+&emsp;(C) The value of private sector risk-management services, and the value of risk-management services and procedures required as a condition of receiving a grant under section 254b, 254c, 256, or 256a of this title.<sup>4</sup>
 
 &emsp;(D) A comparison of the costs and the benefits to taxpayers of maintaining medical malpractice liability coverage for such entities pursuant to this section, taking into account—
 
@@ -186,15 +178,99 @@ In the case of a health care provider who is an officer, employee, or contractor
 
 (3) In preparing the report under paragraph (1), the Comptroller General of the United States shall consult with public and private entities with expertise on the matters with which the report is concerned.
 
-(July 1, 1944, ch. 373, title II, §224, formerly §223, as added Dec. 31, 1970, Pub. L. 91–623, §4, 84 Stat. 1870; renumbered §224, Nov. 18, 1971, Pub. L. 92–157, title III, §301(c), 85 Stat. 463; amended Oct. 24, 1992, Pub. L. 102–501, §§2–4, 106 Stat. 3268–3270; Dec. 14, 1993, Pub. L. 103–183, title VII, §706(a), 107 Stat. 2241; Dec. 26, 1995, Pub. L. 104–73, §§2–5(b), 6–11, 109 Stat. 777–781.)
+#### (<i>o</i>) Volunteer services provided by health professionals at free clinics
+
+(1) For purposes of this section, a free clinic health professional shall in providing a qualifying health service to an individual be deemed to be an employee of the Public Health Service for a calendar year that begins during a fiscal year for which a transfer was made under paragraph (6)(D). The preceding sentence is subject to the provisions of this subsection.
+
+(2) In providing a health service to an individual, a health care practitioner shall for purposes of this subsection be considered to be a free clinic health professional if the following conditions are met:
+
+&emsp;(A) The service is provided to the individual at a free clinic, or through offsite programs or events carried out by the free clinic.
+
+&emsp;(B) The free clinic is sponsoring the health care practitioner pursuant to paragraph (5)(C).
+
+&emsp;(C) The service is a qualifying health service (as defined in paragraph (4)).
+
+&emsp;(D) Neither the health care practitioner nor the free clinic receives any compensation for the service from the individual or from any third-party payor (including reimbursement under any insurance policy or health plan, or under any Federal or State health benefits program). With respect to compliance with such condition:
+
+&emsp;&emsp;(i) The health care practitioner may receive repayment from the free clinic for reasonable expenses incurred by the health care practitioner in the provision of the service to the individual.
+
+&emsp;&emsp;(ii) The free clinic may accept voluntary donations for the provision of the service by the health care practitioner to the individual.
+
+&emsp;(E) Before the service is provided, the health care practitioner or the free clinic provides written notice to the individual of the extent to which the legal liability of the health care practitioner is limited pursuant to this subsection (or in the case of an emergency, the written notice is provided to the individual as soon after the emergency as is practicable). If the individual is a minor or is otherwise legally incompetent, the condition under this subparagraph is that the written notice be provided to a legal guardian or other person with legal responsibility for the care of the individual.
+
+&emsp;(F) At the time the service is provided, the health care practitioner is licensed or certified in accordance with applicable law regarding the provision of the service.
+
+(3)(A) For purposes of this subsection, the term “free clinic” means a health care facility operated by a nonprofit private entity meeting the following requirements:
+
+&emsp;(i) The entity does not, in providing health services through the facility, accept reimbursement from any third-party payor (including reimbursement under any insurance policy or health plan, or under any Federal or State health benefits program).
+
+&emsp;(ii) The entity, in providing health services through the facility, either does not impose charges on the individuals to whom the services are provided, or imposes a charge according to the ability of the individual involved to pay the charge.
+
+&emsp;(iii) The entity is licensed or certified in accordance with applicable law regarding the provision of health services.
+
+(B) With respect to compliance with the conditions under subparagraph (A), the entity involved may accept voluntary donations for the provision of services.
+
+(4) For purposes of this subsection, the term “qualifying health service” means any medical assistance required or authorized to be provided in the program under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\], without regard to whether the medical assistance is included in the plan submitted under such program by the State in which the health care practitioner involved provides the medical assistance. References in the preceding sentence to such program shall as applicable be considered to be references to any successor to such program.
+
+(5) Subsection (g) of this section (other than paragraphs (3) through (5)) and subsections (h), (i), and (<i>l</i>) of this section apply to a health care practitioner for purposes of this subsection to the same extent and in the same manner as such subsections apply to an officer, governing board member, employee, or contractor of an entity described in subsection (g)(4) of this section, subject to paragraph (6) and subject to the following:
+
+&emsp;(A) The first sentence of paragraph (1) applies in lieu of the first sentence of subsection (g)(1)(A) of this section.
+
+&emsp;(B) This subsection may not be construed as deeming any free clinic to be an employee ofthe Public Health Service for purposes of this section.
+
+&emsp;(C) With respect to a free clinic, a health care practitioner is not a free clinic health professional unless the free clinic sponsors the health care practitioner. For purposes of this subsection, the free clinic shall be considered to be sponsoring the health care practitioner if—
+
+&emsp;&emsp;(i) with respect to the health care practitioner, the free clinic submits to the Secretary an application meeting the requirements of subsection (g)(1)(D) of this section; and
+
+&emsp;&emsp;(ii) the Secretary, pursuant to subsection (g)(1)(E) of this section, determines that the health care practitioner is deemed to be an employee of the Public Health Service.
+
+&emsp;(D) In the case of a health care practitioner who is determined by the Secretary pursuant to subsection (g)(1)(E) of this section to be a free clinic health professional, this subsection applies to the health care practitioner (with respect to the free clinic sponsoring the health care practitioner pursuant to subparagraph (C)) for any cause of action arising from an act or omission of the health care practitioner occurring on or after the date on which the Secretary makes such determination.
+
+&emsp;(E) Subsection (g)(1)(F) of this section applies to a health care practitioner for purposes of this subsection only to the extent that, in providing health services to an individual, each of the conditions specified in paragraph (2) is met.
+
+(6)(A) For purposes of making payments for judgments against the United States (together with related fees and expenses of witnesses) pursuant to this section arising from the acts or omissions of free clinic health professionals, there is authorized to be appropriated $10,000,000 for each fiscal year.
+
+(B) The Secretary shall establish a fund for purposes of this subsection. Each fiscal year amounts appropriated under subparagraph (A) shall be deposited in such fund.
+
+(C) Not later than May 1 of each fiscal year, the Attorney General, in consultation with the Secretary, shall submit to the Congress a report providing an estimate of the amount of claims (together with related fees and expenses of witnesses) that, by reason of the acts or omissions of free clinic health professionals, will be paid pursuant to this section during the calendar year that begins in the following fiscal year. Subsection (k)(1)(B) of this section applies to the estimate under the preceding sentence regarding free clinic health professionals to the same extent and in the same manner as such subsection applies to the estimate under such subsection regarding officers, governing board members, employees, and contractors of entities described in subsection (g)(4) of this section.
+
+(D) Not later than December 31 of each fiscal year, the Secretary shall transfer from the fund under subparagraph (B) to the appropriate accounts in the Treasury an amount equal to the estimate made under subparagraph (C) for the calendar year beginning in such fiscal year, subject to the extent of amounts in the fund.
+
+(7)(A) This subsection takes effect on the date of the enactment of the first appropriations Act that makes an appropriation under paragraph (6)(A), except as provided in subparagraph (B)(i).
+
+(B)(i) Effective on August 21, 1996—
+
+&emsp;(I) the Secretary may issue regulations for carrying out this subsection, and the Secretary may accept and consider applications submitted pursuant to paragraph (5)(C); and
+
+&emsp;(II) reports under paragraph (6)(C) may be submitted to the Congress.
+
+(ii) For the first fiscal year for which an appropriation is made under subparagraph (A) of paragraph (6), if an estimate under subparagraph (C) of such paragraph has not been made for the calendar year beginning in such fiscal year, the transfer under subparagraph (D) of such paragraph shall be made notwithstanding the lack of the estimate, and the transfer shall be made in an amount equal to the amount of such appropriation.
+
+(July 1, 1944, ch. 373, title II, §224, formerly §223, as added Dec. 31, 1970, Pub. L. 91–623, §4, 84 Stat. 1870; renumbered §224, Nov. 18, 1971, Pub. L. 92–157, title III, §301(c), 85 Stat. 463; amended Oct. 24, 1992, Pub. L. 102–501, §§2–4, 106 Stat. 3268–3270; Dec. 14, 1993, Pub. L. 103–183, title VII, §706(a), 107 Stat. 2241; Dec. 26, 1995, Pub. L. 104–73, §§2–5(b), 6–11, 109 Stat. 777–781; Aug. 21, 1996, Pub. L. 104–191, title I, §194, 110 Stat. 1988; Oct. 11, 1996, Pub. L. 104–299, §4(a)(1), 110 Stat. 3644.)
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (m)(2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles XVIII and XIX of the Act are classified generally to subchapters XVIII (§1395 et seq.) and XIX (§1396 et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+Sections 254b and 254c of this title, referred to in subsecs. (g)(1)(G), (k)(2), and (n)(1)(C), were in the original references to sections 329 and 330, meaning sections 329 and 330 of act July 1, 1944, which were omitted in the general amendment of subpart I (§254b et seq.) of part D of subchapter II of this chapter by Pub. L. 104–299, §2, Oct. 11, 1996, 110 Stat. 3626. Sections 2 and 3(a) of Pub. L. 104–299 enacted new sections 330 and 330A of act July 1, 1944, which are classified, respectively, to sections 254b and 254c of this title.
+
+Sections 256 and 256a of this title, referred to in subsecs. (g)(1)(G), (k)(2), and (n)(1)(C), were repealed by Pub. L. 104–299, §4(a)(3), Oct. 11, 1996, 110 Stat. 3645.
+
+The Social Security Act, referred to in subsecs. (m)(2) and (<i>o</i>)(4), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles XVIII and XIX of the Act are classified generally to subchapters XVIII (§1395 et seq.) and XIX (§1396 et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
 #### Amendments
 
-1995—Subsec. (g)(1). Pub. L. 104–73, §§3(1), 4, 5(a), designated existing provisions as subpar. (A), inserted “and subject to the approval by the Secretary of an application under subparagraph (D)” after “For purposes of this section”, substituted “an entity described in paragraph (4), and any officer, governing board member, or employee of such an entity, and any contractor of such an entity who is a physician or other licensed or certified health care practitioner (subject to paragraph (5)), shall be deemed to be an employee of the Public Health Service for a calendar year that begins during a fiscal year for which a transfer was made under subsection (k)(3) of this section (subject to paragraph (3)). The remedy against the United States for an entity described in paragraph (4) and any officer, governing board member, employee, or contractor” for “, an entity described in paragraph (4) and any officer, employee, or contractor (subject to paragraph (5)) of such an entity who is a physician or other licensed or certified health care practitioner shall be deemed to be an employee of the Public Health Service for a calendar year that begins during a fiscal year for which a transfer of the full amount estimated under subsection (k)(1)(A) of this section was made under subsection (k)(3) of this section (subject to paragraph (3)). The remedy against the United States for an entity described in paragraph (4) and any officer, employee, or contractor”, and added subpars. (B) to (H).
+1996—Subsec. (g)(4). Pub. L. 104–299 substituted “under section 254b of this title.” for “under any of the following grant programs:” and struck out subpars. (A) to (D) which read as follows:
+
+“(A) Section 254b of this title (relating to grants for migrant health centers).
+
+“(B) Section 254c of this title (relating to grants for community health centers).
+
+“(C) Section 256 of this title (relating to grants for health services for the homeless).
+
+“(D) Section 256a of this title (relating to grants for health services for residents of public housing).”
+
+Subsec. (<i>o</i>). Pub. L. 104–191 added subsec. (<i>o</i>).
+
+1995—Subsec. (g)(1). Pub. L. 104–73, §§3(1), 4, 5(a), designated existing provisions as subpar. (A), inserted “and subject to the approval by the Secretary of an application under subparagraph (D)” after “For purposes of this section”, substituted “an entity described inparagraph (4), and any officer, governing board member, or employee of such an entity, and any contractor of such an entity who is a physician or other licensed or certified health care practitioner (subject to paragraph (5)), shall be deemed to be an employee of the Public Health Service for a calendar year that begins during a fiscal year for which a transfer was made under subsection (k)(3) of this section (subject to paragraph (3)). The remedy against the United States for an entity described in paragraph (4) and any officer, governing board member, employee, or contractor” for “, an entity described in paragraph (4) and any officer, employee, or contractor (subject to paragraph (5)) of such an entity who is a physician or other licensed or certified health care practitioner shall be deemed to be an employee of the Public Health Service for a calendar year that begins during a fiscal year for which a transfer of the full amount estimated under subsection (k)(1)(A) of this section was made under subsection (k)(3) of this section (subject to paragraph (3)). The remedy against the United States for an entity described in paragraph (4) and any officer, employee, or contractor”, and added subpars. (B) to (H).
 
 Subsec. (g)(3). Pub. L. 104–73, §2(a), struck out at end “This subsection shall not apply with respect to a cause of action arising from an act or omission which occurs on or after January 1, 1996.”
 
@@ -216,7 +292,7 @@ Subsec. (k)(2). Pub. L. 104–73, §§2(b)(2), 10, substituted “for each fisca
 
 Subsec. (k)(3). Pub. L. 104–73, §3(2), which directed amendment of subsec. (k)(3) by inserting “governing board member,” after “officer,”, was executed by inserting such language after “officers,” to reflect the probable intent of Congress.
 
-Subsec. (<i>l</i>). Pub. L. 104–73, §6, added subsec. (<i>l).</i>
+Subsec. (<i>l</i>). Pub. L. 104–73, §6, added subsec. (<i>l</i>).
 
 Subsec. (m). Pub. L. 104–73, §7, added subsec. (m).
 
@@ -225,6 +301,12 @@ Subsec. (n). Pub. L. 104–73, §11, added subsec. (n).
 1993—Subsec. (k)(2). Pub. L. 103–183 inserted at end “Appropriations for purposes of this paragraph shall be made separate from appropriations made for purposes of sections 254b, 254c, 256, and 256a of this title.”
 
 1992—Subsecs. (g) to (k). Pub. L. 102–501 added subsecs. (g) to (k).
+
+#### Effective Date of 1996 Amendment
+
+Section 5 of Pub. L. 104–299, as amended by Pub. L. 104–208, div. A, title I, §101(e) \[title V, §521\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–275, provided that: “This Act \[enacting sections 254b and 254c of this title, amending this section and sections 256c, 1395x, and 1396d of this title, repealing sections 256 and 256a of this title, and enacting provisions set out as notes under sections 201 and 254b of this title\] and the amendments made by this Act shall become effective on October 1, 1996.”
+
+\[Section 101(e) \[title V, §521\] of Pub. L. 104–208 provided that the amendment made by that section is effective on the day after Oct. 11, 1996.\]
 
 #### Effective Date of 1995 Amendment
 
@@ -254,7 +336,11 @@ Effect of Liability Protections on Costs Incurred by Covered Entities.—The Att
 
 This section is referred to in section 254h–1 of this title; title 25 section 450f.
 
-<i><sup>1</sup></i><i> So in original. There is no closing parenthesis.</i>
+<i><sup>1</sup></i><i> See References in Text notes below.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “members,”.</i>
+<i><sup>2</sup></i><i> So in original. There is no closing parenthesis.</i>
+
+<i><sup>3</sup></i><i> So in original. Probably should be “members,”.</i>
+
+<i><sup>4</sup></i><i> See References in Text notes below.</i>
 

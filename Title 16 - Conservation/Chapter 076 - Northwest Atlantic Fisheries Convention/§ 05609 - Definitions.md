@@ -24,7 +24,7 @@ In this chapter the following definitions apply:
 
 #### (6) Magnuson Act
 
-&emsp;The term “Magnuson Act” means the Magnuson Fishery Conservation and Management Act (16 U.S.C. 1801 et seq.).
+&emsp;The term “Magnuson Act” means the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1801 et seq.).
 
 #### (7) Organization
 
@@ -32,7 +32,7 @@ In this chapter the following definitions apply:
 
 #### (8) Person
 
-&emsp;The term “person” means any individual (whether or not a citizen or national of the United States), and any corporation, partnership, association, or other entity (whether or not organized or existing under the laws of any State).
+&emsp;The term “person” means any individual (whether or not a citizen or national of theUnited States), and any corporation, partnership, association, or other entity (whether or not organized or existing under the laws of any State).
 
 #### (9) Representative
 
@@ -46,11 +46,19 @@ In this chapter the following definitions apply:
 
 &emsp;The term “Secretary” means the Secretary of Commerce.
 
-(Pub. L. 104–43, title II, §210, Nov. 3, 1995, 109 Stat. 381.)
+(Pub. L. 104–43, title II, §210, Nov. 3, 1995, 109 Stat. 381; Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41.)
 
 #### References in Text
 
-The Magnuson Fishery Conservation and Management Act, referred to in par. (6), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, which is classified principally to chapter 38 (§1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
+The Magnuson-Stevens Fishery Conservation and Management Act, referred to in par. (6), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, which is classified principally to chapter 38 (§1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
+
+#### Amendments
+
+1996—Par. (6). Pub. L. 104–208 substituted “Magnuson-Stevens Fishery” for “Magnuson Fishery”.
+
+#### Effective Date of 1996 Amendment
+
+Section 101(a) \[title II, §211(b)\] of div. A of Pub. L. 104–208 provided that the amendment made by that section is effective 15 days after Oct. 11, 1996.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “Articles”.</i>
 

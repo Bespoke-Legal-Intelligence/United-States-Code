@@ -28,9 +28,9 @@ Section 704(e) of Pub. L. 102–25 provided that: “The amendments made by this
 
 #### Effective Date
 
-Section 559(b) of Pub. L. 101–510, as amended by Pub. L. 102–25, title VII, §704(a)(3)(C), Apr. 6, 1991, 105 Stat. 118, provided that: “Section 690 \[now 12321\] of title 10, United States Code, as added by subsection (a), shall take effect on September 30, 1991.”
+Section 559(b) of Pub. L. 101–510, as amended by Pub. L. 102–25, title VII, §704(a)(3)(C), Apr. 6, 1991, 105 Stat.118, provided that: “Section 690 \[now 12321\] of title 10, United States Code, as added by subsection (a), shall take effect on September 30, 1991.”
 
 #### Waiver of Prohibition on Certain Reserve Service With ROTC Program
 
-Section 525 of Pub. L. 102–190 provided that: “The Secretary of the military department concerned may waive the prohibition in section 690 \[now 12321\] of title 10, United States Code, in the case of a member of a reserve component of the Armed Forces referred to in that section who is serving in an assignment to duty with a unit of the Reserve Officer Training Corps program on September 30, 1991, if the Secretary determines that the removal of the member from that assignment will cause a financial hardship for that member.”
+Section 525 of Pub. L. 102–190, as amended by Pub. L. 104–106, div. A, title XV, §1501(d)(2), Feb. 10, 1996, 110 Stat. 500, provided that: “The Secretary of the military department concerned may waive the prohibition in section 12321 of title 10, United States Code, in the case of a member of a reserve component of the Armed Forces referred to in that section who is serving in an assignment to duty with a unit of the Reserve Officer Training Corps program on September 30, 1991, if the Secretary determines that the removal of the member from that assignment will cause a financial hardship for that member.”
 

@@ -31,6 +31,7 @@
 | [3333\.](Subchapter%20002%20%28II%29%20-%20Payments/%C2%A7%2003333%20-%20Relief%20for%20payments%20made%20without%20negligence.md) | Relief for payments made without negligence. |
 | [3334\.](Subchapter%20002%20%28II%29%20-%20Payments/%C2%A7%2003334%20-%20Cancellation%20and%20proceeds%20distribution%20of%20Treasury%20checks.md) | Cancellation and proceeds distribution of Treasury checks. |
 | [3335\.](Subchapter%20002%20%28II%29%20-%20Payments/%C2%A7%2003335%20-%20Timely%20disbursement%20of%20Federal%20funds.md) | Timely disbursement of Federal funds. |
+| [3336\.](Subchapter%20002%20%28II%29%20-%20Payments/%C2%A7%2003336%20-%20Electronic%20benefit%20transfer%20pilot.md) | Electronic benefit transfer pilot.<sup>1</sup> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

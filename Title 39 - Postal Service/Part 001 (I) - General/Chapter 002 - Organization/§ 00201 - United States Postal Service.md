@@ -14,6 +14,42 @@ Section 4(a) of Pub. L. 91–375 provided that: “There are hereby transferred 
 
 Provisions of section 4(a) of Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on date established therefor by the Board of Governors of the United States Postal Service and published by it in the Federal Register, see section 15(a) of Pub. L. 91–375, set out as an Effective Date note preceding section 101 of this title.
 
+#### Inspector General of the United States Postal Service
+
+Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §662(e)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–382, provided that:
+
+“(1)
+
+First appointment.—The first Inspector General of the United States Postal Service appointed pursuant to the amendments made by this section \[amending sections 102, 202, 204, 410, and 1003 of this title, section 5315 of Title 5, Government Organization and Employees, and section 8G of the Inspector General Act of 1978, Pub. L. 95–452, set out in the Appendix to Title 5, and renumbering another section 8G of the Inspector General Act of 1978 as 8H\] shall be appointed before the end of the 90-day period beginning on the date of the enactment of this Act \[Sept. 30, 1996\].
+
+“(2)
+
+Transfers.—
+
+&emsp;“(A)
+
+In general.—All measures described in section 8G(b) of the Inspector General Act of 1978 necessary to establish an Office of Inspector General within the United States Postal Service pursuant to this section, including all appropriate transfers, shall occur—
+
+&emsp;&emsp;“(i) no earlier than the date the appointment under paragraph (1) is made; and
+
+&emsp;&emsp;“(ii) no later than 60 days after the date the appointment under paragraph (1) is made.
+
+&emsp;“(B)
+
+Provisions relating to personnel.—
+
+&emsp;&emsp;“(i)
+
+Consultation.—Decisions concerning which personnel are to be transferred pursuant to subparagraph (A) shall be made by the Governors (within the meaning of section 102(3) of title 39, United States Code) in consultation with the Inspector General appointed under paragraph (1).
+
+&emsp;&emsp;“(ii)
+
+Transferred personnel.—Personnel transferred pursuant to subparagraph (A) shall, to the extent not inconsistent with other provisions of this subsection, be transferred in accordance with applicable laws and regulations relating to the transfer of functions within the United States Postal Service, except that, notwithstanding any provision of section 1003(b) of title 39, United States Code, as amended by this section, the classification and compensation of such personnel shall not be reduced, by reason of having been transferred, for 1 year after being so transferred.
+
+“(3)
+
+Transition provision.—The Chief Postal Inspector may continue to serve as Inspector General of the United States Postal Service until the date on which an Inspector General is appointed under paragraph (1) or, if earlier, the end of the period referred to in such paragraph. Compensation for any service under this paragraph shall be determined as if this section had not been enacted.”
+
 #### Transitional Expenses
 
 Expenses of United States Postal Service from Aug. 12, 1970, until date of commencement of operations of Postal Service deemed administrative expenses of Post Office Department, see section 12 of Pub. L. 91–375, set out as a note under section 2004 of this title.

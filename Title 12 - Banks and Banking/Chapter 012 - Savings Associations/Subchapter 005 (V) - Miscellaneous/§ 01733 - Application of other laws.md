@@ -12,5 +12,5 @@ Section 606i of title 15, referred to in text, was omitted from the Code. See no
 
 #### Abolition of Reconstruction Finance Corporation
 
-See section 6(a) of Reorg. Plan No. 1 of 1957, effective June 30, 1957, 22 F.R. 4633, 71 Stat. 647, set out in the Appendix to Title 5, Government Organization and Employees.
+See section 6(a) of Reorg. Plan No. 1 of 1957, effective June 30, 1957, 22 F.R. 4633, 71 Stat. 647, set out in theAppendix to Title 5, Government Organization and Employees.
 

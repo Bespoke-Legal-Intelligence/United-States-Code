@@ -4,12 +4,11 @@
 | :--- | ---: |
 | [4301\.](%C2%A7%2004301%20-%20Members%20of%20Army%20detail%20as%20students%2C%20observers%2C%20and%20investigators%20at%20educational%20institutions%2C%20industrial%20plants%2C%20and%20hospitals.md) | Members of Army: detail as students, observers, and investigators at educational institutions, industrial plants, and hospitals. |
 | [4302\.](%C2%A7%2004302%20-%20Enlisted%20members%20of%20Army%20schools.md) | Enlisted members of Army: schools. |
+| [4303\.](%C2%A7%2004303%20-%20Army%20Ranger%20training%20instructor%20staffing%3B%20safety.md) | Army Ranger training: instructor staffing; safety. |
 | [4306\.](%C2%A7%2004306%20-%20Service%20schools%20leaves%20of%20absence%20for%20instructors.md) | Service schools: leaves of absence for instructors. |
-| [4307\.](%C2%A7%2004307%20-%20Director%20of%20civilian%20marksmanship%20detail.md) | Director of civilian marksmanship: detail. |
-| [4308\.](%C2%A7%2004308%20-%20Promotion%20of%20civilian%20marksmanship%20authority%20of%20the%20Secretary%20of%20the%20Army.md) | Promotion of civilian marksmanship: authority of the Secretary of the Army. |
+| \[4307, 4308. Repealed.\] |  |
 | [4309\.](%C2%A7%2004309%20-%20Rifle%20ranges%20availability%20for%20use%20by%20members%20and%20civilians.md) | Rifle ranges: availability for use by members and civilians. |
-| [4310\.](%C2%A7%2004310%20-%20Rifle%20instruction%20detail%20of%20members%20of%20Army.md) | Rifle instruction: detail of members of Army. |
-| [4311\.](%C2%A7%2004311%20-%20Rifle%20instruction%20issue%20of%20rifles%20and%20ammunition.md) | Rifle instruction: issue of rifles and ammunition. |
+| \[4310, 4311. Repealed.\] |  |
 | [4312\.](%C2%A7%2004312%20-%20National%20rifle%20and%20pistol%20matches%20small-arms%20firing%20school.md) | National rifle and pistol matches: small-arms firing school. |
 | [4313\.](%C2%A7%2004313%20-%20National%20Matches%20and%20small-arms%20school%20expenses.md) | National Matches and small-arms school: expenses. |
 | [4314\.](%C2%A7%2004314%20-%20United%20States%20Army%20Command%20and%20General%20Staff%20College%20degree.md) | United States Army Command and General Staff College degree. |
@@ -20,6 +19,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1996—Pub. L. 104–106, div. A, title V, §562(a)(2), title XVI, §1624(a)(2), Feb. 10, 1996, 110 Stat. 324, 522, added item 4303 and struck out items 4307 “Director of civilian marksmanship: detail”, 4308 “Promotion of civilian marksmanship: authority of the Secretary of the Army”, 4310 “Rifle instruction: detail of members of Army”, and 4311 “Rifle instruction: issue of rifles and ammunition”.
 
 1993—Pub. L. 103–35, title II, §201(b)(2)(B), (g)(10)(B), May 31, 1993, 107 Stat. 98, 100, substituted “National Matches and small-arms school” for “Promotion of civilian marksmanship” in item 4313, struck out item 4316 “Military history fellowships”, and added item 4317.
 
@@ -44,12 +45,11 @@ This chapter is referred to in title 18 section 925.
 
 - [&sect; 04301 - Members of Army detail as students, observers, and investigators at educational institutions, industrial plants, and hospitals](%C2%A7%2004301%20-%20Members%20of%20Army%20detail%20as%20students%2C%20observers%2C%20and%20investigators%20at%20educational%20institutions%2C%20industrial%20plants%2C%20and%20hospitals.md)
 - [&sect; 04302 - Enlisted members of Army schools](%C2%A7%2004302%20-%20Enlisted%20members%20of%20Army%20schools.md)
+- [&sect; 04303 - Army Ranger training instructor staffing; safety](%C2%A7%2004303%20-%20Army%20Ranger%20training%20instructor%20staffing%3B%20safety.md)
 - [&sect; 04306 - Service schools leaves of absence for instructors](%C2%A7%2004306%20-%20Service%20schools%20leaves%20of%20absence%20for%20instructors.md)
-- [&sect; 04307 - Director of civilian marksmanship detail](%C2%A7%2004307%20-%20Director%20of%20civilian%20marksmanship%20detail.md)
-- [&sect; 04308 - Promotion of civilian marksmanship authority of the Secretary of the Army](%C2%A7%2004308%20-%20Promotion%20of%20civilian%20marksmanship%20authority%20of%20the%20Secretary%20of%20the%20Army.md)
+- [&sect; 04307, 4308 - Repealed. Pub. L. 104&#8211;106, div. A, title XVI, &sect;1624(a)(1), Feb. 10, 1996, 110 Stat. 522](%C2%A7%2004307%2C%204308%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93106%2C%20div.%20A%2C%20title%20XVI%2C%20%C2%A71624%28a%29%281%29%2C%20Feb.%2010%2C%201996%2C%20110%20Stat.%20522.md)
 - [&sect; 04309 - Rifle ranges availability for use by members and civilians](%C2%A7%2004309%20-%20Rifle%20ranges%20availability%20for%20use%20by%20members%20and%20civilians.md)
-- [&sect; 04310 - Rifle instruction detail of members of Army](%C2%A7%2004310%20-%20Rifle%20instruction%20detail%20of%20members%20of%20Army.md)
-- [&sect; 04311 - Rifle instruction issue of rifles and ammunition](%C2%A7%2004311%20-%20Rifle%20instruction%20issue%20of%20rifles%20and%20ammunition.md)
+- [&sect; 04310, 4311 - Pub. L. 104&#8211;106, div. A, title XVI, &sect;1624(a)(1), Feb. 10, 1996, 110 Stat. 522](%C2%A7%2004310%2C%204311%20-%20Pub.%20L.%20104%E2%80%93106%2C%20div.%20A%2C%20title%20XVI%2C%20%C2%A71624%28a%29%281%29%2C%20Feb.%2010%2C%201996%2C%20110%20Stat.%20522.md)
 - [&sect; 04312 - National rifle and pistol matches small-arms firing school](%C2%A7%2004312%20-%20National%20rifle%20and%20pistol%20matches%20small-arms%20firing%20school.md)
 - [&sect; 04313 - National Matches and small-arms school expenses](%C2%A7%2004313%20-%20National%20Matches%20and%20small-arms%20school%20expenses.md)
 - [&sect; 04314 - United States Army Command and General Staff College degree](%C2%A7%2004314%20-%20United%20States%20Army%20Command%20and%20General%20Staff%20College%20degree.md)

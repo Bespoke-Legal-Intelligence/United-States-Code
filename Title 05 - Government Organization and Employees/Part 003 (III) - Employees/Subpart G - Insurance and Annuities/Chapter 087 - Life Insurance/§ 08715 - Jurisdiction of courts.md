@@ -10,7 +10,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 5 U.S.C. 2103 (less applicability to 5 U.S.C. 2099).
 
@@ -20,9 +22,9 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-<b>1992</b>—Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
+1992—Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
 
-<b>1982</b>—Pub. L. 97–164 substituted “United States Claims Court” for “Court of Claims”.
+1982—Pub. L. 97–164 substituted “United States Claims Court” for “Court of Claims”.
 
 #### Effective Date of 1992 Amendment
 

@@ -2,7 +2,7 @@
 
 (a) In this chapter—
 
-&emsp;(1) “administrative offset” means withholding money payable by the United States Government to, or held by the Government for, a person to satisfy a debt the person owes the Government.
+&emsp;(1) “administrative offset” means withholding funds payable by the United States (including funds payable by the United States on behalf of a State government) to, or held by the United States for, a person to satisfy a claim.
 
 &emsp;(2) “calendar quarter” means a 3-month period beginning on January 1, April 1, July 1, or October 1.
 
@@ -16,7 +16,7 @@
 
 &emsp;&emsp;&emsp;(ii) serves as a marketing agent under an arrangement allowing a third party to get the information from a consumer reporting agency.
 
-&emsp;(4) “executive or legislative agency” means a department, agency, or instrumentality in the executive or legislative branch of the Government.
+&emsp;(4) “executive, judicial, or legislative agency” means a department, agency, court, court administrative office, or instrumentality in the executive, judicial, or legislative branch of Government, including government corporations.
 
 &emsp;(5) “military department” means the Departments of the Army, Navy, and Air Force.
 
@@ -24,13 +24,45 @@
 
 &emsp;(7) “uniformed services” means the Army, Navy, Air Force, Marine Corps, Coast Guard, Commissioned Corps of the National Oceanic and Atmospheric Administration, and Commissioned Corps of the Public Health Service.
 
-(b) In subchapter II of this chapter, “claim” includes amounts owing on account of loans insured or guaranteed by the Government and other amounts due the Government.
+&emsp;(8) “nontax” means, with respect to any debt or claim, any debt or claim other than a debt or claim under the Internal Revenue Code of 1986.
 
-(c) In sections 3716 and 3717 of this title, “person” does not include an agency of the United States Government, of a State government, or of a unit of general local government.
+(b)(1) In subchapter II of this chapter and subsection (a)(8) of this section, the term “claim” or “debt” means any amount of funds or property that has been determined by an appropriate official of the Federal Government to be owed to the United States by a person, organization, or entity other than another Federal agency. A claim includes, without limitation—
 
-(d) Sections 3711(f) and 3716–3719 of this title do not apply to a claim or debt under, or to an amount payable under, the Internal Revenue Code of 1986 (26 U.S.C. 1 et seq.), the Social Security Act (42 U.S.C. 301 et seq.), except to the extent provided under section 204(f) of such Act (42 U.S.C. 404(f)),,<sup>1</sup> or the tariff laws of the United States.
+&emsp;(A) funds owed on account of loans made, insured, or guaranteed by the Government, including any deficiency or any difference between the price obtained by the Government in the sale of a property and the amount owed to the Government on a mortgage on the property,
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 970; Pub. L. 97–452, §1(13)(A), Jan. 12, 1983, 96 Stat. 2469; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 103–387, §5(b), Oct. 22, 1994, 108 Stat. 4077.)
+&emsp;(B) expenditures of nonappropriated funds,
+
+&emsp;(C) over-payments, including payments disallowed by audits performed by the Inspector General of the agency administering the program,
+
+&emsp;(D) any amount the United States is authorized by statute to collect for the benefit of any person,
+
+&emsp;(E) the unpaid share of any non-Federal partner in a program involving a Federal payment and a matching, or cost-sharing, payment by the non-Federal partner,
+
+&emsp;(F) any fines or penalties assessed by an agency; <sup>1</sup> and
+
+&emsp;(G) other amounts of money or property owed to the Government.
+
+(2) For purposes of section 3716 of this title, each of the terms “claim” and “debt” includes an amount of funds or property owed by a person to a State (including any past-due support being enforced by the State), the District of Columbia, American Samoa, Guam, the United States Virgin Islands, the Commonwealth of the Northern Mariana Islands, or the Commonwealth of Puerto Rico.
+
+(c) In sections 3716 and 3717 of this title, the term “person” does not include an agency of the United States Government.
+
+(d) Sections 3711(e) and 3716–3719 of this title do not apply to a claim or debt under, or to an amount payable under—
+
+&emsp;(1) the Internal Revenue Code of 1986 (26 U.S.C. 1 et seq.),
+
+&emsp;(2) the Social Security Act (42 U.S.C. 301 et seq.), except to the extent provided under section 204(f) of such Act and section 3716(c) of this title, or
+
+&emsp;(3) the tariff laws of the United States.
+
+(e) In section 3716 of this title—
+
+&emsp;(1) “creditor agency” means any agency owed a claim that seeks to collect that claim through administrative offset; and
+
+&emsp;(2) “payment certifying agency” means any agency that has transmitted a voucher to a disbursing official for disbursement.
+
+(f) In section 3711 of this title, “private collection contractor” means private debt collectors under contract with an agency to collect a nontax debt or claim owed the United States. The term includes private debt collectors, collection agencies, and commercial attorneys.
+
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 970; Pub. L. 97–452, §1(13)(A), Jan. 12, 1983, 96 Stat. 2469; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 103–387, §5(b), Oct. 22, 1994, 108 Stat. 4077; Pub. L. 104–134, title III, §31001(c)(2), (d)(1), (3), (z)(1), Apr. 26, 1996, 110 Stat. 1321–359, 1321–361, 1321–378; Pub. L. 104–316, title I, §115(g)(2)(A), Oct. 19, 1996, 110 Stat. 3835.)
 
 Historical and Revision Notes<br>1982
 
@@ -106,7 +138,7 @@ July 19, 1966, Pub. L. 89–508, 80 Stat. 308, §3(d)(4); added Oct. 25, 1982, P
 
 31 App.:952(g).
 
-July 19, 1966, Pub. L.89–508, 80 Stat. 308, §3(g); added Oct. 25, 1982, Pub. L. 97–365, §13(b), 96 Stat. 1758.
+July 19, 1966, Pub. L. 89–508, 80 Stat. 308, §3(g); added Oct. 25, 1982, Pub. L. 97–365, §13(b), 96 Stat. 1758.
 
 3701(c)
 
@@ -136,11 +168,29 @@ In subsection (d), the word “arising” is omitted as surplus.
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (d), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended, which is classified generally to chapter 7 (§301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Internal Revenue Code of 1986, referred to in subsecs. (a)(8) and (d)(1), is classified to Title 26, Internal Revenue Code.
 
-The tariff laws of the United States, referred to in subsec. (d), are classified generally to Title 19, Customs Duties.
+The Social Security Act, referred to in subsec. (d)(2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended, which is classified generally to chapter 7 (§301 et seq.) of Title 42, The Public Health and Welfare. Section 204(f) of the Act is classified to section 404(f) of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+
+The tariff laws of the United States, referred to in subsec. (d)(3), are classified generally to Title 19, Customs Duties.
 
 #### Amendments
+
+1996—Subsec. (a)(1). Pub. L. 104–134, §31001(z)(1)(A), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “ ‘administrative offset’ means withholding money payable by the United States Government to, or held by the Government for, a person to satisfy a debt the person owes the Government.”
+
+Subsec. (a)(4). Pub. L. 104–134, §31001(c)(2), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “ ‘executive or legislative agency’ means a department, agency, or instrumentality in the executive or legislative branch of the Government.”
+
+Subsec. (a)(8). Pub. L. 104–134, §31001(d)(3), added par. (8).
+
+Subsec. (b). Pub. L. 104–134, §31001(z)(1)(B), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “In subchapter II of this chapter, ‘claim’ includes amounts owing on account of loans insured or guaranteed by the Government and other amounts due the Government.”
+
+Subsec. (c). Pub. L. 104–134, §31001(d)(1), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “In sections 3716 and 3717 of this title, ‘person’ does not include an agency of the United States Government, of a State government, or of a unit of general local government.”
+
+Subsec. (d). Pub. L. 104–316 substituted “Sections 3711(e)” for “Sections 3711(f)” in introductory provisions.
+
+Pub. L. 104–134, §31001(z)(1)(D), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “Sections 3711(f) and 3716–3719 of this title do not apply to a claim or debt under, or to an amount payable under, the Internal Revenue Code of 1986 (26 U.S.C. 1 et seq.), the Social Security Act (42 U.S.C. 301 et seq.), except to the extent provided under section 204(f) of such Act (42 U.S.C. 404(f)),, or the tariff laws of the United States.”
+
+Subsecs. (e), (f). Pub. L. 104–134, §31001(z)(1)(C), added subsecs. (e) and (f).
 
 1994—Subsec. (d). Pub. L. 103–387 inserted “, except to the extent provided under section 204(f) of such Act (42 U.S.C. 404(f)),” after “the Social Security Act (42 U.S.C. 301 et seq.)”.
 
@@ -150,11 +200,33 @@ The tariff laws of the United States, referred to in subsec. (d), are classified
 
 #### Effective Date of 1994 Amendment
 
-Section 5(c) of Pub. L. 103–387 provided that: “The amendments made by this section \[amending this section and section 404 of Title 42, The Public Health and Welfare\] shall apply to collection activities begun on or after the date of the enactment of this Act \[Oct. 22, 1994\] and before October 1, 1999.”
+Section 5(c) of Pub. L. 103–387, as amended by Pub. L. 104–134, title III, §31001(z)(2)(B), Apr. 26, 1996, 110 Stat. 1321–379, provided that: “The amendments made by thissection \[amending this section and section 404 of Title 42, The Public Health and Welfare\] shall apply to collection activities begun on or after the date of the enactment of this Act \[Oct. 22, 1994\].”
+
+#### Short Title of 1996 Amendment
+
+Section 31001(a)(1) of Pub. L. 104–134 provided that: “This section \[enacting sections 3720B to 3720E of this title, amending this section, sections 3322, 3325, 3331, 3332, 3343, 3711, 3712, 3716 to 3719, 3720A, and 7701 of this title, section 5514 of Title 5, Government Organization and Employees, sections 6050P, 6103, and 6402 of Title 26, Internal Revenue Code, and sections 404 and 664 of Title 42, The Public Health and Welfare, enacting provisions set out as notes under this section, sections 3322, 3711, 3716, and 3719 of this title, and section 2461 of Title 28, Judiciary and Judicial Procedure, amending provisions set out as notes under this section and section 2461 of Title 28, and repealing provisions set out as notes under section 3718 of this title\] may be cited as the ‘Debt Collection Improvement Act of 1996’.”
 
 #### Short Title of 1986 Amendment
 
 Pub. L. 99–562, §1, Oct. 27, 1986, 100 Stat. 3153, provided that: “This Act \[enacting sections 3732 and 3733 of this title and amending sections 3729 to 3731 of this title and section 287 of Title 18, Crimes and Criminal Procedure\] may be cited as the ‘False Claims Amendments Act of 1986’.”
+
+#### Purposes of 1996 Amendment
+
+Section 31001(b) of Pub. L. 104–134 provided that: “The purposes of this section \[see Short Title of 1996 Amendment note above\] are the following:
+
+&emsp;“(1) To maximize collections of delinquent debts owed to the Government by ensuring quick action to enforce recovery of debts and the use of all appropriate collection tools.
+
+&emsp;“(2) To minimize the costs of debt collection by consolidating related functions and activities and utilizing interagency teams.
+
+&emsp;“(3) To reduce losses arising from debt management activities by requiring proper screening of potential borrowers, aggressive monitoring of all accounts, and sharing of information within and among Federal agencies.
+
+&emsp;“(4) To ensure that the public is fully informed of the Federal Government's debt collection policies and that debtors are cognizant of their financial obligations to repay amounts owed to the Federal Government.
+
+&emsp;“(5) To ensure that debtors have all appropriate due process rights, including the ability to verify, challenge, and compromise claims, and access to administrative appeals procedures which are both reasonable and protect the interests of the United States.
+
+&emsp;“(6) To encourage agencies, when appropriate, to sell delinquent debt, particularly debts with underlying collateral.
+
+&emsp;“(7) To rely on the experience and expertise of private sector professionals to provide debt collection services to Federal agencies.”
 
 #### United States Senate as Legislative Agency; Regulations Promulgated by Secretary of Senate
 
@@ -164,5 +236,9 @@ Pub. L. 101–163, title I, §11, Nov. 21, 1989, 103 Stat. 1046, provided that:
 
 “(b) Regulations prescribed by the Secretary of the Senate pursuant to section 3716 of title 31, United States Code, shall not become effective until they are approved by the Senate Committee on Rules and Administration.”
 
-<i><sup>1</sup></i><i> So in original.</i>
+#### Section Referred to in Other Sections
+
+This section is referred to in title 26 section 6050P.
+
+<i><sup>1</sup></i><i> So in original. The semicolon probably should be a comma.</i>
 

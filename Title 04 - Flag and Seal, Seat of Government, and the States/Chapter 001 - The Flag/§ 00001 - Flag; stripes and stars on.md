@@ -80,9 +80,9 @@ Dwight D. Eisenhower.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <b>Standard proportions</b>
 
-| Hoist (width) of flag 1.0 | Fly (length) of flag 1.9 | Hoist (width) of Union 0.5385 (7/13) | Fly (length) of Union 0.76 | 0\.054&#x20;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#x20;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 0\.054&#x20;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#x20;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 0\.063&#x20;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#x20;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 0\.063&#x20;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#x20;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Diameter of star 0.0616 | Width of stripe 0.0769 (1/13) |
+| Hoist (width) of flag 1.0 | Fly (length) of flag 1.9 | Hoist (width) of Union 0.5385(7/13) | Fly (length) of Union 0.76 | 0\.054 | 0\.054 | 0\.063 | 0\.063 | Diameter of star 0.0616 | Width of stripe 0.0769(1/13) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | B&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | C&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | D&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | E&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | F&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | G&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | H&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | K&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | L&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+| A | B | C | D | E | F | G | H | K | L |
 
 #### Section Referred to in Other Sections
 

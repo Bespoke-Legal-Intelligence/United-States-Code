@@ -14,7 +14,7 @@
 
 &emsp;(2) unearned income means all other income, including—
 
-&emsp;&emsp;(A) support and maintenance furnished in cash or kind; except that (i) in the case of any individual (and his eligible spouse, if any) living in another person's household and receiving support and maintenance in kind from such person, the dollar amounts otherwise applicable to such individual (and spouse) as specified in subsections (a) and (b) of section 1382 of this title shall be reduced by 331/3 percent in lieu of including such support and maintenance in the unearned income of such individual (and spouse) as otherwise required by this subparagraph, (ii) in the case of any individual or his eligible spouse who resides in a nonprofit retirement home or similar nonprofit institution, support and maintenance shall not be included to the extent that it is furnished to such individual or such spouse without such institution receiving payment therefor (unless such institution has expressly undertaken an obligation to furnish full support and maintenance to such individual or spouse without any current or future payment therefor) or payment therefor is made by another nonprofit organization, and (iii) support and maintenance shall not be included and the provisions of clause (i) shall not be applicable in the case of any individual (and his eligible spouse, if any) for the period which begins with the month in which such individual (or such individual and his eligible spouse) began to receive support and maintenance while living in a residential facility (including a private household) maintained by another person and ends with the close of the month in which such individual (or such individual and his eligible spouse) ceases to receive support and maintenance while living in such a residential facility (or, if earlier, with the close of the seventeenth month following the month in which such period began), if, not more than 30 days prior to the date on which such individual (or such individual and his eligible spouse) began to receive support and maintenance while living in such a residential facility, (I) such individual (or such individual and his eligible spouse) were residing in a household maintained by such individual (or by such individual and others) as his or their own home, (II) there occurred within the area in which such household is located (and while such individual, or such individual and his spouse, were residing in the household referred to in subclause (I)) a catastrophe on account of which the President declared a major disaster to exist therein for purposes of the Disaster Relief and Emergency Assistance Act \[42 U.S.C. 5121 et seq.\], and (III) such individual declares that he (or he and his eligible spouse) ceased to continue living in the household referred to in subclause (II) because of such catastrophe;
+&emsp;&emsp;(A) support and maintenance furnished in cash or kind; except that (i) in the case of any individual (and his eligible spouse, if any) living in another person's household and receiving support and maintenance in kind from such person, the dollar amounts otherwise applicable to such individual (and spouse) as specified in subsections (a) and (b) of section 1382 of this title shall be reduced by 331/3 percent in lieu of including such support and maintenance in the unearned income of such individual (and spouse) as otherwise required by this subparagraph, (ii) in the case of any individual or his eligible spouse who resides in a nonprofit retirement home or similar nonprofit institution, support and maintenance shall not be included to the extent that it is furnished to such individual or such spouse without such institution receiving payment therefor (unless such institution has expressly undertaken an obligation to furnish full support and maintenance to such individual or spouse without any current or future payment therefor) or payment therefor is made by another nonprofit organization, and (iii) support and maintenance shall not be included and the provisions of clause (i) shall not be applicable in the case of any individual (and his eligible spouse, if any) for the period which begins with the month in which such individual (or such individual and his eligible spouse) began to receive support and maintenance while living in a residential facility (including a private household) maintained by another person and ends with the close of the month in which such individual (or such individual and his eligible spouse) ceases to receive support and maintenance while living in such a residential facility (or, if earlier, with the close of the seventeenth month following the month in which such period began), if, not more than 30 days prior to the date on which such individual (or such individual and his eligible spouse) began to receive support and maintenance while living in such a residential facility, (I) such individual (or such individual and his eligible spouse) were residing in a household maintained by such individual (or by such individual and others) as his or their own home, (II) there occurred within the area in which such household is located (and while such individual, or such individual and his spouse, were residing in the household referred to in subclause (I)) a catastrophe on account ofwhich the President declared a major disaster to exist therein for purposes of the Disaster Relief and Emergency Assistance Act \[42 U.S.C. 5121 et seq.\], and (III) such individual declares that he (or he and his eligible spouse) ceased to continue living in the household referred to in subclause (II) because of such catastrophe;
 
 &emsp;&emsp;(B) any payments received as an annuity, pension, retirement, or disability benefit, including veterans’ compensation and pensions, workmen's compensation payments, old-age, survivors, and disability insurance benefits, railroad retirement annuities and pensions, and unemployment insurance benefits;
 
@@ -30,7 +30,7 @@
 
 &emsp;(1) subject to limitations (as to amount or otherwise) prescribed by the Commissioner of Social Security, if such individual is a child who is, as determined by the Commissioner of Social Security, a student regularly attending a school, college, or university, or a course of vocational or technical training designed to prepare him for gainful employment, the earned income of such individual;
 
-&emsp;(2)(A) the first $240 per year (or proportionately smaller amounts for shorter periods) ofincome (whether earned or unearned) other than income which is paid on the basis of the need of the eligible individual, and
+&emsp;(2)(A) the first $240 per year (or proportionately smaller amounts for shorter periods) of income (whether earned or unearned) other than income which is paid on the basis of the need of the eligible individual, and
 
 &emsp;(B) monthly (or other periodic) payments received by any individual, under a program established prior to July 1, 1973 (or any program established prior to such date but subsequently amended so as to conform to State or Federal constitutional standards), if (i) such payments are made by the State of which the individual receiving such payments is a resident, (ii) eligibility of any individual for such payments is not based on need and is based solely on attainment of age 65 or any other age set by the State and residency in such State by such individual, and (iii) on or before September 30, 1985, such individual (I) first becomes an eligible individual or an eligible spouse under this title, and (II) satisfies the twenty-five-year residency requirement of such program as such program was in effect prior to January 1, 1983;
 
@@ -42,7 +42,7 @@
 
 &emsp;(C) if such individual (or such spouse) has attained age 65 and is not included under subparagraph (A) or (B), the first $780 per year (or proportionately smaller amounts for shorter periods) of earned income not excluded by the preceding paragraphs of this subsection, plus one-half of the remainder thereof;
 
-&emsp;(5) any amount received from any public agency as a return or refund of taxes paid on real property or on food purchased by such individual (or such spouse);
+&emsp;(5) any amount received from any public agency as a return or refund of taxes paid onreal property or on food purchased by such individual (or such spouse);
 
 &emsp;(6) assistance, furnished to or on behalf of such individual (and spouse), which is based on need and furnished by any State or political subdivision of a State;
 
@@ -70,11 +70,13 @@
 
 &emsp;(18) relocation assistance provided by a State or local government to such individual (or such spouse), comparable to assistance provided under title II of the Uniform Relocation Assistance and Real Property Acquisitions Policies Act of 1970 which is subject to the treatment required by section 216 of such Act \[42 U.S.C. 4636\];
 
-&emsp;(19) any refund of Federal income taxes made to such individual (or such spouse) by reason of section 32 of the Internal Revenue Code of 1986 (relating to earned income tax credit), and any payment made to such individual (or such spouse) by an employer under section 3507 of such Code (relating to advance payment of earned income credit); and
+&emsp;(19) any refund of Federal income taxes made to such individual (or such spouse) by reason of section 32 of the Internal Revenue Code of 1986 (relating to earned income tax credit), and any payment made to such individual (or such spouse) by an employer under section 3507 of such Code (relating to advance payment of earned income credit);
 
-&emsp;(20) special pay received pursuant to section 310 of title 37.
+&emsp;(20) special pay received pursuant to section 310 of title 37; and
 
-(Aug. 14, 1935, ch. 531, title XVI, §1612, as added Oct. 30, 1972, Pub. L. 92–603, title III, §301, 86 Stat. 1468; amended Oct. 26, 1974, Pub. L. 93–484, §4, 88 Stat. 1460; Jan. 2, 1976, Pub. L. 94–202, §9, 89 Stat. 1140; June 30, 1976, Pub. L. 94–331, §§2(a), 4(a), 90 Stat. 781, 782; Oct. 4, 1976, Pub. L. 94–455, title XXI, §2125, 90 Stat. 1920; Oct. 20, 1976, Pub. L. 94–566, title V, §505(b), 90 Stat. 2686; Nov. 12, 1977, Pub. L. 95–171, §8(a), 91 Stat. 1355; Apr. 1, 1980, Pub. L. 96–222, title I, §101(a)(2)(B), 94 Stat. 195; June 9, 1980, Pub. L. 96–265, title II, §202(a), title III, §302(b), 94 Stat. 449, 451; Oct. 19, 1980, Pub. L. 96–473, §6(g), 94 Stat. 2266; Aug. 13, 1981, Pub. L. 97–35, title XXIII, §2341(b), 95 Stat. 865; Jan. 6, 1983, Pub. L. 97–424, title V, §545(a), 96 Stat. 2198; Apr. 20, 1983, Pub. L. 98–21, title IV, §404(a), 97 Stat. 140; July 18, 1984, Pub. L. 98–369, div. B, title VI, §§2616(a), 2639(b), (c), 2663(g)(3), (4), 98 Stat. 1133, 1144, 1145, 1168; Oct. 22, 1986, Pub. L. 99–514, §2, title XVIII, §1883(d)(2), (3), 100 Stat. 2095, 2918; Dec. 22, 1987, Pub. L. 100–203, title IX, §9120(a), 101 Stat. 1330–309; Nov. 10, 1988, Pub. L. 100–647, title VIII, §8103(a), 102 Stat. 3795; Nov. 23, 1988, Pub. L. 100–707, title I, §109(p), 102 Stat. 4709; Dec. 19, 1989, Pub. L. 101–239, title VIII, §§8011(a), 8013(a), 103 Stat. 2464; Nov. 5, 1990, Pub. L. 101–508, title V, §§5031(a), 5033(a), 5034(a), 5035(a), title XI, §11115(b)(1), 104 Stat. 1388–224, 1388–225, 1388–414; Aug. 10, 1993, Pub. L. 103–66, title XIII, §13733(b), 107 Stat. 662; Aug. 15, 1994, Pub. L. 103–296, title I, §107(a)(4), 108 Stat. 1478; Oct. 31, 1994, Pub. L. 103–432, title II, §§264(a), 267(a), 108 Stat. 4467, 4469.)
+&emsp;(21) the interest or other earnings on any account established and maintained in accordance with section 1383(a)(2)(F) of this title.
+
+(Aug. 14, 1935, ch. 531, title XVI, §1612, as added Oct. 30, 1972, Pub. L. 92–603, title III, §301, 86 Stat. 1468; amended Oct. 26, 1974, Pub. L. 93–484, §4, 88 Stat. 1460; Jan. 2, 1976, Pub. L. 94–202, §9, 89 Stat. 1140; June 30, 1976, Pub. L. 94–331, §§2(a), 4(a), 90 Stat. 781, 782; Oct. 4, 1976, Pub. L. 94–455, title XXI, §2125, 90 Stat. 1920; Oct. 20, 1976, Pub. L. 94–566, title V, §505(b), 90 Stat. 2686; Nov. 12, 1977, Pub. L. 95–171, §8(a), 91 Stat. 1355; Apr. 1, 1980, Pub. L. 96–222, title I, §101(a)(2)(B), 94 Stat. 195; June 9, 1980, Pub. L. 96–265, title II, §202(a), title III, §302(b), 94 Stat. 449, 451; Oct. 19, 1980, Pub. L. 96–473, §6(g), 94 Stat. 2266; Aug. 13, 1981, Pub. L. 97–35, title XXIII, §2341(b), 95 Stat. 865; Jan. 6, 1983, Pub. L. 97–424, title V, §545(a), 96 Stat. 2198; Apr. 20, 1983, Pub. L. 98–21, title IV, §404(a), 97 Stat. 140; July 18, 1984, Pub. L. 98–369, div. B, title VI, §§2616(a), 2639(b), (c), 2663(g)(3), (4), 98 Stat. 1133, 1144, 1145, 1168; Oct. 22, 1986, Pub. L. 99–514, §2, title XVIII, §1883(d)(2), (3), 100 Stat. 2095, 2918; Dec. 22, 1987, Pub. L. 100–203, title IX, §9120(a), 101 Stat. 1330–309; Nov. 10, 1988, Pub. L. 100–647, title VIII, §8103(a), 102 Stat. 3795; Nov. 23, 1988, Pub. L. 100–707, title I, §109(p), 102 Stat. 4709; Dec. 19, 1989, Pub. L. 101–239, title VIII, §§8011(a), 8013(a), 103 Stat. 2464; Nov. 5, 1990, Pub. L. 101–508, title V, §§5031(a), 5033(a), 5034(a), 5035(a), title XI, §11115(b)(1), 104 Stat. 1388–224, 1388–225, 1388–414; Aug. 10, 1993, Pub. L. 103–66, title XIII, §13733(b), 107 Stat. 662; Aug. 15, 1994, Pub. L. 103–296, title I, §107(a)(4), 108 Stat. 1478; Oct. 31, 1994, Pub. L. 103–432, title II, §§264(a), 267(a), 108 Stat. 4467, 4469; Aug. 22, 1996, Pub. L. 104–193, title II, §213(c), 110 Stat. 2195.)
 
 #### References in Text
 
@@ -92,9 +94,11 @@ Section 101 of the Housing and Urban Development Act of 1965, referred to in sub
 
 The Housing Act of 1949, referred to in subsec. (b)(14), is act July 15, 1949, ch. 338, 63 Stat. 413, as amended. Title V of the Housing Act of 1949 is classified generally to subchapter III (§1471 et seq.) of chapter 8A of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1441 of this title and Tables.
 
-The Uniform Relocation Assistance and Real Property Acquisitions Policies Act of 1970, referred to in subsec. (b)(18), is Pub. L. 91–646, Jan. 2, 1971, 84 Stat. 1894, as amended. Title II of the Act enacted subchapter II (§4621 et seq.) of chapter 61 of this title, amended sections 1415, 2473, and 3307 of this title and section 1606 of former Title 49, Transportation, repealed sections 1465 and 3074 of this title, section 2680 of Title 10, Armed Forces, sections 501 to 512 of Title 23, Highways, sections 1231 to 1234 of Title 43, Public Lands, and enacted provisions set out as notes under sections 4601 and 4621 of this title and under sections 501 to 512 of Title 23. Forcomplete classification of title II to the Code, see Tables.
+The Uniform Relocation Assistance and Real Property Acquisitions Policies Act of 1970, referred to in subsec. (b)(18), is Pub. L. 91–646, Jan. 2, 1971, 84 Stat. 1894, as amended. Title II of the Act enacted subchapter II (§4621 et seq.) of chapter 61 of this title, amended sections 1415, 2473, and 3307 of this title and section 1606 of former Title 49, Transportation, repealed sections 1465 and 3074 of this title, section 2680 of Title 10, Armed Forces, sections 501 to 512 of Title 23, Highways, sections 1231 to 1234 of Title 43, Public Lands, and enacted provisions set out as notes under sections 4601 and 4621 of this title and under sections 501 to 512 of Title 23. For complete classification of title II to the Code, see Tables.
 
 #### Amendments
+
+1996—Subsec. (b)(21). Pub. L. 104–193 added par. (21).
 
 1994—Subsec. (a)(1)(C) to (E). Pub. L. 103–432, §267(a), redesignated subpars. (D) and (E) as (C) and (D), respectively, and struck out former subpar. (C) which read as follows: “any refund of Federal income taxes made by reason of section 32 of the Internal Revenue Code of 1986 (relating to earned income credit) and any payment made by an employer under section 3507 of such Code (relating to advance payment of earned income credit);”.
 
@@ -154,7 +158,7 @@ Subsec. (b)(13). Pub. L. 98–369, §2639(b), temporarily amended par. (13) gene
 
 Pub. L. 97–424 temporarily added par. (13). See Effective and Termination Dates of 1983 Amendments note below.
 
-1981—Subsec. (b)(3). Pub. L. 97–35 substituted “month” for “calendar quarter” wherever appearing, “such month” for “such quarter” wherever appearing, “$20” for “$60”, and “$10” for “$30”.
+1981—Subsec. (b)(3). Pub. L. 97–35 substituted “month” for “calendar quarter” wherever appearing,“such month” for “such quarter” wherever appearing, “$20” for “$60”, and “$10” for “$30”.
 
 1980—Subsec. (a)(1). Pub. L. 96–473, §6(g)(1), (2), in subpar. (B) substituted “(a)(11)” for “(a)(10)”, and redesignated subpar. (C), as added by Pub. L. 96–265, §202(a)(2), as (D).
 
@@ -180,9 +184,13 @@ Subsec. (b)(11). Pub. L. 94–331, §2(a)(3), added par. (11).
 
 1974—Subsec. (a)(2)(A). Pub. L. 93–484 designated existing provisions as cl. (i) and added cl. (ii).
 
+#### Effective Date of 1996 Amendment
+
+Section 213(d) of Pub. L. 104–193 provided that: “The amendments made by this section \[amending this section and sections 1382b and 1383 of this title\] shall apply to payments made after the date of the enactment of this Act \[Aug. 22, 1996\].”
+
 #### Effective Date of 1994 Amendments
 
-Amendment by section 264(a) of Pub. L. 103–432 effective as if included in the provision of Pub. L. 101–508 to which the amendment relates at the time such provision became law, see section 264(h) of Pub. L. 103–432, set out as a note under section 602 of this title.
+Amendment by section 264(a) of Pub. L. 103–432 effective as if included in the provision of Pub. L. 101–508 to which the amendment relates at the time such provision became law, see section 264(h) of Pub. L. 103–432, set out as a note under section 1320b–9 of this title.
 
 Amendment by Pub. L. 103–296 effective Mar. 31, 1995, see section 110(a) of Pub. L. 103–296, set out as a note under section 401 of this title.
 
@@ -200,7 +208,7 @@ Section 5034(b) of Pub. L. 101–508 provided that: “The amendments made by su
 
 Section 5035(c) of Pub. L. 101–508, as amended by Pub. L. 103–66, title XIII, §13732, Aug. 10, 1993, 107 Stat. 662, provided that: “The amendments made by this section \[amending this section and section 1382b of this title\] shall apply with respect to benefits for calendar months beginning on or after the first day of the 6th calendar month following the month in which this Act is enacted \[November 1990\].”
 
-Amendment by section 11115(b)(1) of Pub. L. 101–508 applicable to determinations of income or resources made for any period after Dec. 31, 1990, see section 11115(e) of Pub. L. 101–508, set out as a note under section 602 of this title.
+Section 11115(e) of Pub. L. 101–508 provided that: “The amendments made by subsections (a) though \[sic\] (c) \[amending this section and sections 602 and 1382b of this title\] shall apply to determinations of income or resources made for any period after December 31, 1990.”
 
 #### Effective Date of 1989 Amendment
 
@@ -220,17 +228,19 @@ Section 9120(b) of Pub. L. 100–203 provided that: “The amendments made by su
 
 Section 2616(b) of Pub. L. 98–369 provided that: “The amendment made by subsection (a) \[amending this section\] shall become effective on the date of the enactment of this Act \[July 18, 1984\].”
 
-Amendment by section 2639(b) of Pub. L. 98–369 effective with respect to months which begin after Sept. 30, 1984, see section 2639(d) of Pub. L. 98–369, as amended, set out as a note under section 602 of this title.
+Section 2639(d) of Pub. L. 98–369, as amended by Pub. L. 100–203, title IX, §9101, Dec. 22, 1987, 101 Stat. 1330–299, provided that: “The amendments made by this section \[amending this section and section 602 of this title and repealing section 545(a)–(c) of Pub. L. 97–424 and section 404 of Pub. L. 98–21, which had previously amended this section and section 602 of this title and had provided effective dates for those prior amendments\] shall be effective with respect to months which begin after September 30, 1984.”
+
+\[Section 9101 of Pub. L. 100–203 provided that the amendment made by that section to section 2639(d) of Pub. L. 98–369, set out as a note above is effective as of Oct. 1, 1987.\]
 
 Amendment by section 2663(g)(3), (4) of Pub. L. 98–369 effective July 18, 1984, but not to be construed as changing or affecting any right, liability, status, or interpretation which existed (under the provisions of law involved) before that date, see section 2664(b) of Pub. L. 98–369, set out as a note under section 401 of this title.
 
 #### Effective and Termination Dates of 1983 Amendments
 
-Section 545(c) of Pub. L. 97–424 and section 404(c) of Pub. L. 98–21, which had provided for the effective and termination dates covering the enactment and subsequent amendment of subsec. (b)(13) of this section by section 545(a) of Pub. L. 97–424 and section 404(a) of Pub. L. 98–21, were repealed by section 2639(c), (d) of Pub. L. 98–369, effective with respect to months beginning after Sept. 30, 1984, see note set out under section 602 of this title.
+Section 545(c) of Pub. L. 97–424 and section 404(c) of Pub. L. 98–21, which had provided for the effective and termination dates covering the enactment and subsequent amendment of subsec. (b)(13) of this section by section 545(a) of Pub. L. 97–424 and section 404(a) of Pub. L. 98–21, were repealed by section 2639(c), (d) of Pub. L. 98–369, effective with respect to months beginning after Sept. 30, 1984.
 
 #### Effective Date of 1981 Amendment
 
-Amendment by Pub. L. 97–35 effective with respect to months after first calendar quarter which ends more than five months after August 1981, with provision for transitional payments, see section 2341(c) of Pub. L. 97–35, set out as an Effective Date of 1981 Amendment and Transitional Provisions note under section 1382 of this title.
+Amendment by Pub. L. 97–35 effective with respect to months after first calendar quarter which ends more than five months after August 1981, with provision for transitional payments, see section 2341(c) of Pub. L. 97–35, set out as an Effective Date of 1981 Amendmentand Transitional Provisions note under section 1382 of this title.
 
 #### Effective Date of 1980 Amendments
 
@@ -238,7 +248,7 @@ Section 202(b) of Pub. L. 96–265 provided that: “The amendments made by subs
 
 Amendment by section 302(b) of Pub. L. 96–265 applicable with respect to expenses incurred on or after first day of sixth month which begins after June 9, 1980, see section 302(c) of Pub. L. 96–265, set out as a note under section 423 of this title.
 
-Amendment by Pub. L. 96–222 applicable to payments for months beginning after Dec. 31, 1979, see section 101(b)(1)(B) of Pub. L. 96–222, set out as a note under section 602 of this title.
+Section 101(b)(1)(B) of Pub. L. 96–222 provided that: “The amendments made by subparagraphs (A) and (B) of subsection (a)(2) \[amending this section and section 602 of this title\] shall apply to payments for months beginning after December 31, 1979.”
 
 #### Effective Date of 1977 Amendment
 
@@ -270,5 +280,5 @@ Enactment of provisions of Pub. L. 92–603, eff. Jan. 1, 1974, not applicable t
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 612, 1382, 1382b, 1382e, 1382h, 1382j, 1383, 1396a, 1396b, 1396d, 1396p, 8624, 11398 of this title; title 7 section 2014.
+This section is referred to in sections 1382, 1382b, 1382e, 1382h, 1382j, 1383, 1396a, 1396b, 1396d, 1396p, 8624, 11398 of this title; title 7 section 2014.
 

@@ -8,7 +8,7 @@ The distiller or importer of distilled spirits shall be liable for the taxes imp
 
 #### (1) Liability of persons interested in distilling
 
-&emsp;Every proprietor or possessor of, and every person in any manner interested in the use of, any still, distilling apparatus, or distillery, shall be jointly and severally liable for the taxes imposed by law on the distilled spirits produced therefrom.
+&emsp;Every proprietor or possessor of, and every person in any manner interested in the use of,any still, distilling apparatus, or distillery, shall be jointly and severally liable for the taxes imposed by law on the distilled spirits produced therefrom.
 
 #### (2) Exception
 

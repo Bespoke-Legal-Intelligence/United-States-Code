@@ -16,7 +16,7 @@ The chief executive officer of each agency may from time to time—
 
 The Director of the United States Fish and Wildlife Service shall make a report to Congress at the end of any fiscal year that the provisions of this section are utilized, which describes the use of the provisions of this section, and the additional cost, if any, to the Federal Government resulting therefrom. Such report shall be referred in the Senate to the Committee on Commerce, Science, and Transportation and in the House of Representatives to the Committee on Merchant Marine and Fisheries.
 
-(Mar. 3, 1885, ch. 360, §1(2), as added May 10, 1974, Pub. L. 93–280, §1(3), 88 Stat. 123; amended Oct. 19, 1980, Pub. L. 96–470, title II, §206(a), 94 Stat. 2244; Nov. 2, 1994, Pub. L. 103–437, §6(t), 108 Stat. 4587.)
+(Mar. 3, 1885, ch. 360, §1(2), as added May 10, 1974, Pub. L. 93–280, §1(3), 88 Stat. 123; amended Oct.19, 1980, Pub. L. 96–470, title II, §206(a), 94 Stat. 2244; Nov. 2, 1994, Pub. L. 103–437, §6(t), 108 Stat. 4587.)
 
 #### References in Text
 

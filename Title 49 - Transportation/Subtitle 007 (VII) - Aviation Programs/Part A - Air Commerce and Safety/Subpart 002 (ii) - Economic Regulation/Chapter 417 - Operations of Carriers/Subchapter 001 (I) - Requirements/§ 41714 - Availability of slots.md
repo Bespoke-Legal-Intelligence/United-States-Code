@@ -6,7 +6,7 @@ Making Slots Available for Essential Air Service.—
 
 &emsp;(1)
 
-Operational authority.—If basic essential air service under subchapter II of this chapter is to be provided from an eligible point to a high density airport (other than Washington National Airport), the Secretaryof Transportation shall ensure that the air carrier providing or selected to provide such service has sufficient operational authority at the high density airport to provide such service. The operational authority shall allow flights at reasonable times taking into account the needs of passengers with connecting flights.
+Operational authority.—If basic essential air service under subchapter II of this chapter is to be provided from an eligible point to a high density airport (other than Washington National Airport), the Secretary of Transportation shall ensure that the air carrier providing or selected to provide such service has sufficient operational authority at the high density airport to provide such service. The operational authority shall allow flights at reasonable times taking into account the needs of passengers with connecting flights.
 
 &emsp;(2)
 
@@ -112,7 +112,7 @@ Matters to be considered.—The Secretary shall continue the Secretary's current
 
 &emsp;(2)
 
-Report.—Not later than January 31, 1995, the Secretary shall complete the current examination of slot regulations and shall transmit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Public Works and Transportation of the House of Representatives a report containing the results of such examination.
+Report.—Not later than January 31, 1995, the Secretary shall complete the current examination of slot regulations and shall transmit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report containing the results of such examination.
 
 (f)
 
@@ -142,13 +142,17 @@ New entrant air carrier.—The term “new entrant air carrier” means an air c
 
 Slot.—The term “slot” means a reservation for an instrument flight rule takeoff or landing by an air carrier of an aircraft in air transportation.
 
-(Added Pub. L. 103–305, title II, §206(a)(1), Aug. 23, 1994, 108 Stat. 1584.)
+(Added Pub. L. 103–305, title II, §206(a)(1), Aug. 23, 1994, 108 Stat. 1584; amended Pub. L. 104–287, §5(9), Oct. 11, 1996, 110 Stat. 3389.)
 
 #### References in Text
 
 Sections 6005(c)(5) and 6009(e) of the Metropolitan Washington Airports Act of 1986, referred to in subsec. (d)(1), are sections 6005(c)(5) and 6009(e) of Pub. L. 99–500, title VI, Oct. 18, 1986, 100 Stat. 1783–376, 1783–384, and Pub. L. 99–591, title VI, Oct. 30, 1986, 100 Stat. 3341–379, 3341–387, which were classified to sections 2454(c)(5) and 2458(e), respectively, of former Title 49, and were omitted from the Code when subtitles II, III, and V to X of Title 49, Transportation, were enacted by Pub. L. 103–272, July 5, 1994, 108 Stat. 745.
 
-#### Change of Name
+#### Amendments
 
-Committee on Public Works and Transportation of House of Representatives treated as referring to Committee on Transportation and Infrastructure of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+1996—Subsec. (e)(2). Pub. L. 104–287 substituted “Transportation and Infrastructure” for “Public Works and Transportation”.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 40109, 46301 of this title.
 

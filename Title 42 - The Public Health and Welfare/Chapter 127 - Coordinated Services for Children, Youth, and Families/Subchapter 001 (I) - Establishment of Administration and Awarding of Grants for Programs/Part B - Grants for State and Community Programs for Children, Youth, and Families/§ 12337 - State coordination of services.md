@@ -66,7 +66,7 @@ Notwithstanding section 12340(g) of this title, the amounts made available to ea
 
 &emsp;(4) the costs of the dissemination of information obtained under paragraph (3); and
 
-&emsp;(5) the costs of the provision of short-term training to personnel of public or nonprofit private agencies and organizations engaged in the operation of programs authorized by this part.
+&emsp;(5) the costs of the provision of short-term training to personnel of public or nonprofit private agencies and organizations engaged inthe operation of programs authorized by this part.
 
 #### (e) <sup>1</sup> Supplement not supplant
 
@@ -74,7 +74,7 @@ Amounts received by a State under this section and section 12338 of this title s
 
 #### (f) Relationship to family resource and support program grants
 
-If a State intends to apply for a grant under section 12339 <sup>2</sup> of this title to be used for the same calendar year as the grant under this section, such State shall include in the application for a grant under this section a description of plans for family resource and support programsand for the coordination of the use of all funds received under this part.
+If a State intends to apply for a grant under section 12339 <sup>2</sup> of this title to be used for the same calendar year as the grant under this section, such State shall include in the application for a grant under this section a description of plans for family resource and support programs and for the coordination of the use of all funds received under this part.
 
 (Pub. L. 101–501, title IX, §931, Nov. 3, 1990, 104 Stat. 1271.)
 

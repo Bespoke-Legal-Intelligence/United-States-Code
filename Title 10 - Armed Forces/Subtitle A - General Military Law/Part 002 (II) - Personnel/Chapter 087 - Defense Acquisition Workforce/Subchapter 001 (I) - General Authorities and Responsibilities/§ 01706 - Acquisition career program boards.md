@@ -2,7 +2,7 @@
 
 (a)
 
-Establishment.—The Secretary of each military department, acting through the serviceacquisition executive, shall establish an acquisition career program board to advise the service acquisition executive in managing the accession, training, education, and career development of military and civilian personnel in the acquisition workforce and in selecting individuals for an Acquisition Corps under section 1731 of this title.
+Establishment.—The Secretary of each military department, acting through the service acquisition executive, shall establish an acquisition career program board to advise the service acquisition executive in managing the accession, training, education, and career development of military and civilian personnel in the acquisition workforce and in selecting individuals for an Acquisition Corps under section 1731 of this title.
 
 (b)
 

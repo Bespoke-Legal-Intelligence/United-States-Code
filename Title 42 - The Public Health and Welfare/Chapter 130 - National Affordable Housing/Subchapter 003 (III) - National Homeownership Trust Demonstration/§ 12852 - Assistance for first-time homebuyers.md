@@ -98,7 +98,7 @@ Assistance payments under this subchapter may be made only to homebuyers and for
 
 #### (5) Available assistance
 
-&emsp;The Trust may make assistance payments under paragraphs (1) and (2) of subsection (a) of this section with respect to a single mortgage of an eligible homebuyer.
+&emsp;The Trust may make assistance payments under paragraphs (1) and (2) of subsection (a)of this section with respect to a single mortgage of an eligible homebuyer.
 
 #### (d) Allocation formula
 

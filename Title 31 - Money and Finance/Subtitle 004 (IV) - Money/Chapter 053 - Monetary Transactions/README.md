@@ -31,7 +31,7 @@
 | [5324\.](Subchapter%20002%20%28II%29%20-%20Records%20and%20Reports%20on%20Monetary%20Instruments%20Transactions/%C2%A7%2005324%20-%20Structuring%20transactions%20to%20evade%20reporting%20requirement%20prohibited.md) | Structuring transactions to evade reporting requirement prohibited. |
 | [5325\.](Subchapter%20002%20%28II%29%20-%20Records%20and%20Reports%20on%20Monetary%20Instruments%20Transactions/%C2%A7%2005325%20-%20Identification%20required%20to%20purchase%20certain%20monetary%20instruments.md) | Identification required to purchase certain monetary instruments. |
 | [5326\.](Subchapter%20002%20%28II%29%20-%20Records%20and%20Reports%20on%20Monetary%20Instruments%20Transactions/%C2%A7%2005326%20-%20Records%20of%20certain%20domestic%20coin%20and%20currency%20transactions.md) | Records of certain domestic coin and currency transactions. |
-| [5327\.](Subchapter%20002%20%28II%29%20-%20Records%20and%20Reports%20on%20Monetary%20Instruments%20Transactions/%C2%A7%2005327%20-%20Identification%20of%20financial%20institutions.md) | Identification of financial institutions. |
+| \[5327. | Repealed.\] |
 | [5328\.](Subchapter%20002%20%28II%29%20-%20Records%20and%20Reports%20on%20Monetary%20Instruments%20Transactions/%C2%A7%2005328%20-%20Whistleblower%20protections.md) | Whistleblower protections. |
 | [5329\.](Subchapter%20002%20%28II%29%20-%20Records%20and%20Reports%20on%20Monetary%20Instruments%20Transactions/%C2%A7%2005329%20-%20Staff%20commentaries.md) | Staff commentaries. |
 | [5330\.](Subchapter%20002%20%28II%29%20-%20Records%20and%20Reports%20on%20Monetary%20Instruments%20Transactions/%C2%A7%2005330%20-%20Registration%20of%20money%20transmitting%20businesses.md) | Registration of money transmitting businesses. |
@@ -39,6 +39,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1996—Pub. L. 104–208, div. A, title II, §2223(2), Sept. 30, 1996, 110 Stat. 3009–415, struck out item 5327 “Identification of financial institutions”.
 
 1994—Pub. L. 103–325, title III, §311(b), title IV, §408(d), Sept. 23, 1994, 108 Stat. 2221, 2252, added items 5329 and 5330.
 

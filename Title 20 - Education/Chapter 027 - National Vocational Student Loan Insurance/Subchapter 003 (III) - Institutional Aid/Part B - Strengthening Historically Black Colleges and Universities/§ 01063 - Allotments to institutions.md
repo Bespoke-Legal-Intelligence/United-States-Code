@@ -16,7 +16,7 @@ From the amounts appropriated to carry out this part for any fiscal year, the Se
 
 (1) Notwithstanding subsections (a), (b), and (c) of this section, the amount allotted to each part B institution under this section shall not be less than $500,000.
 
-(2) If the amount appropriated pursuant to section 1069f(a)(2)(A) of this title for any fiscal yearis not sufficient to pay the minimum allotment required by paragraph (1) of this subsection to all part B institutions, the amount of such minimum allotments shall be ratably reduced. If additional sums become available for such fiscal year, such reduced allocation shall be increased on the same basis as they were reduced (until the amount allotted equals the minimum allotment required by paragraph (1)).
+(2) If the amount appropriated pursuant to section 1069f(a)(2)(A) of this title for any fiscal year is not sufficient to pay the minimum allotment required by paragraph (1) of this subsection to all part B institutions, the amount of such minimum allotments shall be ratably reduced. If additional sums become available for such fiscal year, such reduced allocation shall be increased on the same basis as they were reduced (until the amount allotted equals the minimum allotment required by paragraph (1)).
 
 #### (e) Reallotment
 
@@ -24,7 +24,7 @@ The amount of any part B institution's allotment under subsection (a), (b), (c),
 
 #### (f) Special merger rule
 
-(1) The Secretary shall permit any eligible institution for a grant under part B in any fiscal year prior to the fiscal year 1986 to apply for a grant under this part if the eligible institution has merged with another institution of higher education which is not so eligible or has merged with an eligible institution.
+(1) The Secretary shall permit any eligible institution for a grant under part B in any fiscalyear prior to the fiscal year 1986 to apply for a grant under this part if the eligible institution has merged with another institution of higher education which is not so eligible or has merged with an eligible institution.
 
 (2) The Secretary may establish such regulations as may be necessary to carry out the requirement of paragraph (1) of this subsection.
 

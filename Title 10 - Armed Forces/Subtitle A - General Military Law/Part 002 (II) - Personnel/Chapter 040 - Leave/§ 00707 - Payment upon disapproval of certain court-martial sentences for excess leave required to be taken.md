@@ -14,7 +14,7 @@
 
 &emsp;(A) Payment shall be made within 60 days from the date of the order setting aside or disapproving the sentence by court-martial to a dismissal or a dishonorable or bad-conduct discharge if no rehearing or new trial has been ordered.
 
-&emsp;(B) Payment shall be made within 180 days from the date of the order setting aside or disapproving the sentence by court-martial to a dismissal or a dishonorable or bad-conduct discharge if a rehearing or new trial has been ordered but charges have not been referred to a rehearing or new trial within 120 days from the date of that order.
+&emsp;(B) Payment shall be made within 180 days from the date of the order setting aside or disapproving the sentence by court-martial to adismissal or a dishonorable or bad-conduct discharge if a rehearing or new trial has been ordered but charges have not been referred to a rehearing or new trial within 120 days from the date of that order.
 
 &emsp;(C) If a rehearing or new trial has been ordered and a dismissal or a dishonorable or bad-conduct discharge is not included in the result of such rehearing or new trial, payment shall be made within 60 days of the date of the announcement of the result of such rehearing or new trial.
 

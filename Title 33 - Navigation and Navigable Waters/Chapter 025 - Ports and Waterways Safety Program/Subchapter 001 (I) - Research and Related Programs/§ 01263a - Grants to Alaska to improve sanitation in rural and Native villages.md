@@ -1,0 +1,34 @@
+### §1263a. Grants to Alaska to improve sanitation in rural and Native villages
+
+#### (a) In general
+
+The Administrator of the Environmental Protection Agency may make grants to the State of Alaska for the benefit of rural and Native villages in Alaska to pay the Federal share of the cost of—
+
+&emsp;(1) the development and construction of public water systems and wastewater systems to improve the health and sanitation conditions in the villages; and
+
+&emsp;(2) training, technical assistance, and educational programs relating to the operation and management of sanitation services in rural and Native villages.
+
+#### (b) Federal share
+
+The Federal share of the cost of the activities described in subsection (a) of this section shall be 50 percent.
+
+#### (c) Administrative expenses
+
+The State of Alaska may use an amount not to exceed 4 percent of any grant made available under this subsection <sup>1</sup> for administrative expenses necessary to carry out the activities described in subsection (a) of this section.
+
+#### (d) Consultation with State of Alaska
+
+The Administrator shall consult with the State of Alaska on a method of prioritizing the allocation of grants under subsection (a) of this section according to the needs of, and relative health and sanitation conditions in, each eligible village.
+
+#### (e) Authorization of appropriations
+
+There are authorized to be appropriated $15,000,000 for each of the fiscal years 1997 through 2000 to carry out this section.
+
+(Pub. L. 104–182, title III, §303, Aug. 6, 1996, 110 Stat. 1683.)
+
+#### Codification
+
+Section was enacted as part of the Safe Drinking Water Act Amendments of 1996, and not as part of the Federal Water Pollution Control Act which comprises this chapter.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “section”.</i>
+

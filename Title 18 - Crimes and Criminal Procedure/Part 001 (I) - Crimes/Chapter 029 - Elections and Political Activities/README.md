@@ -12,17 +12,18 @@
 | [598\.](%C2%A7%2000598%20-%20Coercion%20by%20means%20of%20relief%20appropriations.md) | Coercion by means of relief appropriations. |
 | [599\.](%C2%A7%2000599%20-%20Promise%20of%20appointment%20by%20candidate.md) | Promise of appointment by candidate. |
 | [600\.](%C2%A7%2000600%20-%20Promise%20of%20employment%20or%20other%20benefit%20for%20political%20activity.md) | Promise of employment or other benefit for political activity. |
-| 601\. | Deprivation of employment or other benefit for political contribution. |
-| 602\. | Solicitation of political contributions. |
-| 603\. | Making political contributions. |
-| 604\. | Solicitation from persons on relief. |
-| 605\. | Disclosure of names of persons on relief. |
-| 606\. | Intimidation to secure political contributions. |
-| 607\. | Place of solicitation. |
-| 608\. | Absent uniformed services voters and overseas voters. |
-| 609\. | Use of military authority to influence vote of member of Armed Forces. |
-| 610\. | Coercion of political activity. |
-| \[611 to 617. Repealed.\] |  |
+| [601\.](%C2%A7%2000601%20-%20Deprivation%20of%20employment%20or%20other%20benefit%20for%20political%20contribution.md) | Deprivation of employment or other benefit for political contribution. |
+| [602\.](%C2%A7%2000602%20-%20Solicitation%20of%20political%20contributions.md) | Solicitation of political contributions. |
+| [603\.](%C2%A7%2000603%20-%20Making%20political%20contributions.md) | Making political contributions. |
+| [604\.](%C2%A7%2000604%20-%20Solicitation%20from%20persons%20on%20relief.md) | Solicitation from persons on relief. |
+| [605\.](%C2%A7%2000605%20-%20Disclosure%20of%20names%20of%20persons%20on%20relief.md) | Disclosure of names of persons on relief. |
+| [606\.](%C2%A7%2000606%20-%20Intimidation%20to%20secure%20political%20contributions.md) | Intimidation to secure political contributions. |
+| [607\.](%C2%A7%2000607%20-%20Place%20of%20solicitation.md) | Place of solicitation. |
+| [608\.](%C2%A7%2000608%20-%20Absent%20uniformed%20services%20voters%20and%20overseas%20voters.md) | Absent uniformed services voters and overseas voters. |
+| [609\.](%C2%A7%2000609%20-%20Use%20of%20military%20authority%20to%20influence%20vote%20of%20member%20of%20Armed%20Forces.md) | Use of military authority to influence vote of member of Armed Forces. |
+| [610\.](%C2%A7%2000610%20-%20Coercion%20of%20political%20activity.md) | Coercion of political activity. |
+| [611\.](%C2%A7%2000611%20-%20Voting%20by%20aliens.md) | Voting by aliens. |
+| \[612 to 617. Repealed.\] |  |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -31,6 +32,8 @@
 By Senate amendment, item 610 was changed to read, “610. Contributions or expenditures by national banks, corporations, or labor organizations”. See Senate Report No. 1620, amendment Nos. 4 and 5, 80th Cong.
 
 #### Amendments
+
+1996—Pub. L. 104–208, div. C, title II, §216(b), Sept. 30, 1996, 110 Stat. 3009–573, added item 611.
 
 1993—Pub. L. 103–94, §4(c)(2), Oct. 6, 1993, 107 Stat. 1005, added item 610.
 
@@ -83,4 +86,5 @@ Section 104 of Pub. L. 93–443 provided that:
 - [&sect; 00608 - Absent uniformed services voters and overseas voters](%C2%A7%2000608%20-%20Absent%20uniformed%20services%20voters%20and%20overseas%20voters.md)
 - [&sect; 00609 - Use of military authority to influence vote of member of Armed Forces](%C2%A7%2000609%20-%20Use%20of%20military%20authority%20to%20influence%20vote%20of%20member%20of%20Armed%20Forces.md)
 - [&sect; 00610 - Coercion of political activity](%C2%A7%2000610%20-%20Coercion%20of%20political%20activity.md)
-- [&sect; 00611 to 617 - Repealed. Pub. L. 94&#8211;283, title II, &sect;201(a), May 11, 1976, 90 Stat. 496](%C2%A7%2000611%20to%20617%20-%20Repealed.%20Pub.%20L.%2094%E2%80%93283%2C%20title%20II%2C%20%C2%A7201%28a%29%2C%20May%2011%2C%201976%2C%2090%20Stat.%20496.md)
+- [&sect; 00611 - Voting by aliens](%C2%A7%2000611%20-%20Voting%20by%20aliens.md)
+- [&sect; 00612 to 617 - Repealed. Pub. L. 94&#8211;283, title II, &sect;201(a), May 11, 1976, 90 Stat. 496](%C2%A7%2000612%20to%20617%20-%20Repealed.%20Pub.%20L.%2094%E2%80%93283%2C%20title%20II%2C%20%C2%A7201%28a%29%2C%20May%2011%2C%201976%2C%2090%20Stat.%20496.md)

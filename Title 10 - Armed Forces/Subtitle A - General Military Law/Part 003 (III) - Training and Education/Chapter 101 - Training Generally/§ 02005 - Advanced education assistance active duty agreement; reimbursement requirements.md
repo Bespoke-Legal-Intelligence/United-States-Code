@@ -14,7 +14,7 @@
 
 (c) Subject to the provisions of subsection (d), the obligation to reimburse the United States under an agreement described in subsection (a) is, for all purposes, a debt owing the United States.
 
-(d) A discharge in bankruptcy under title 11 shall not release a person from an obligation toreimburse the United States required under the terms of an agreement described in subsection (a) if the final decree of the discharge in bankruptcy was issued within a period of five years after the last day of a period which such person had agreed to serve on active duty. This subsection applies to a discharge in bankruptcy in any proceeding which begins after September 30, 1978.
+(d) A discharge in bankruptcy under title 11 shall not release a person from an obligation to reimburse the United States required under the terms of an agreement described in subsection (a) if the final decree of the discharge in bankruptcy was issued within a period of five years after the last day of a period which such person had agreed to serve on active duty. This subsection applies to a discharge in bankruptcy in any proceeding which begins after September 30, 1978.
 
 (e) In this section:
 
@@ -34,7 +34,7 @@
 
 (2) The Secretary of each military department shall ensure that a member of the armed forces who may be subject to a reimbursement requirement under this section is advised of such requirement before (1) submitting a request for voluntary separation, or (2) making a decision on a course of action regarding personal involvement in administrative, nonjudicial, and judicial action resulting from alleged misconduct.
 
-(h) The Secretary concerned may, at any time before October 1, 1998, modify an agreement described in subsection (a) to reduce the active duty service obligation specified in the agreement if the Secretary determines that it is in the best interests of the United States to do so. In such a case, the Secretary shall reduce the amount required to be reimbursed to the United States proportionately with the reduction in the period of obligated active duty service.
+(h) The Secretary concerned may, at any time before October 1, 1998, modify an agreement described in subsection (a) to reduce the active duty service obligation specified in the agreement if the Secretary determines that it is in the best interests of the United States to do so. In such a case, the Secretary shall reduce theamount required to be reimbursed to the United States proportionately with the reduction in the period of obligated active duty service.
 
 (Added Pub. L. 96–357, §2(a), Sept. 24, 1980, 94 Stat. 1180; amended Pub. L. 98–94, title X, §1003(b)(1), title XII, §1268(10), Sept. 24, 1983, 97 Stat. 656, 706; Pub. L. 100–180, div. A, title XII, §1231(17), Dec. 4, 1987, 101 Stat. 1161; Pub. L. 101–510, div. A, title V, §534, Nov. 5, 1990, 104 Stat. 1564; Pub. L. 103–160, div. A, title V, §573(a), Nov. 30, 1993, 107 Stat. 1673.)
 

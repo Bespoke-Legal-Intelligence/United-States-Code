@@ -2,7 +2,7 @@
 
 #### (a) Introduction of joint resolution
 
-At any time after the Director of OMB issues a final sequestration report under section 904 of this title for a fiscal year, but before the close of the twentieth calendar day of the session of Congress beginning after the date of issuance of such report, the majority leader of either House of Congress may introduce a joint resolution which contains provisions directing the President to modify the most recent order issued under section 904 of this title or provide an alternative to reduce the deficit for such fiscal year. After the introduction of the first such joint resolution in either House of Congress in any calendar year, then no other joint resolution introduced in such House in such calendaryear shall be subject to the procedures set forth in this section.
+At any time after the Director of OMB issues a final sequestration report under section 904 of this title for a fiscal year, but before the close of the twentieth calendar day of the session of Congress beginning after the date of issuance of such report, the majority leader of either House of Congress may introduce a joint resolution which contains provisions directing the President to modify the most recent order issued under section 904 of this title or provide an alternative to reduce the deficit for such fiscal year. After the introduction of the first such joint resolution in either House of Congress in any calendar year, then no other joint resolution introduced in such House in such calendar year shall be subject to the procedures set forth in this section.
 
 #### (b) Procedures for consideration of joint resolutions
 
@@ -64,5 +64,5 @@ At any time after the Director of OMB issues a final sequestration report under 
 
 #### References in Text
 
-The Congressional Budget Act of 1974, referred to in subsec. (b)(6), is titles I to IX of Pub. L. 93–344, July 12, 1974, 88 Stat. 297, as amended. Titles III, IV, and VI of the Act are classified generally to subchapters I (§631 et seq.), II (§651 et seq.), and IV (§665 et seq.) of chapter 17A of this title. For complete classification of this Act to the Code, see Short Title note set out under section 621 of this title and Tables.
+The Congressional Budget Act of 1974, referred to in subsec. (b)(6), is titles I to IX of Pub. L. 93–344, July 12, 1974, 88 Stat. 297, as amended. Titles III, IV, and VI of the Act are classified generally to subchapters I (§631et seq.), II (§651 et seq.), and IV (§665 et seq.) of chapter 17A of this title. For complete classification of this Act to the Code, see Short Title note set out under section 621 of this title and Tables.
 

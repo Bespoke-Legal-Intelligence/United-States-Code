@@ -20,6 +20,10 @@ An appeal may be taken to the Secretary from any decision under section 1359dd o
 
 1991—Subsec. (b)(2). Pub. L. 102–237 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The Secretary shall provide each appellant an opportunity for a hearing. The Secretary shall appoint an administrative law judge to conduct a hearing on the record on each appeal under this section. In all other respects, each appeal under this section shall be subject to sections 551 through 559, and 701 through 706, of title 5.”
 
+#### Inapplicability of Section
+
+Section inapplicable to 1996 through 2002 crops of loan commodities, peanuts, and sugar and inapplicable to milk during period beginning Apr. 4, 1996, and ending Dec. 31, 2002, see section 7301(a)(1)(E) of this title.
+
 #### Section Referred to in Other Sections
 
 This section is referred to in section 1359jj of this title.

@@ -22,7 +22,7 @@ In general.—A person who unlawfully and intentionally—
 
 &emsp;&emsp;(G) injures or kills any person in connection with the commission or the attempted commission of any of the offenses set forth in subparagraphs (A) through (F); or
 
-&emsp;&emsp;(H) attempts to do any act prohibited under subparagraphs (A) through (G),
+&emsp;&emsp;(H) attempts or conspires to do any act prohibited under subparagraphs (A) through (G),
 
 > &emsp;shall be fined under this title, imprisoned not more than 20 years, or both; and if the death of any person results from conduct prohibited by this paragraph, shall be punished by death or imprisoned for any term of years or for life.
 
@@ -40,9 +40,9 @@ Jurisdiction.—There is jurisdiction over the activity prohibited in subsection
 
 &emsp;&emsp;&emsp;(i) against or on board a ship flying the flag of the United States at the time the prohibited activity is committed;
 
-&emsp;&emsp;&emsp;(ii) in the United States and the activity is not prohibited as a crime by the State in which the activity takes place; or
+&emsp;&emsp;&emsp;(ii) in the United States; or
 
-&emsp;&emsp;&emsp;(iii) the activity takes place on a ship flying the flag of a foreign country or outside the United States, by a national of the United States or by a stateless personwhose habitual residence is in the United States;
+&emsp;&emsp;&emsp;(iii) by a national of the United States or by a stateless person whose habitual residence is in the United States;
 
 &emsp;&emsp;(B) during the commission of such activity, a national of the United States is seized, threatened, injured or killed; or
 
@@ -74,7 +74,15 @@ Definitions.—In this section—
 
 &emsp;“United States”, when used in a geographical sense, includes the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands and all territories and possessions of the United States.
 
-(Added Pub. L. 103–322, title VI, §60019(a), Sept. 13, 1994, 108 Stat. 1975.)
+(Added Pub. L. 103–322, title VI, §60019(a), Sept. 13, 1994, 108 Stat. 1975; amended Pub. L. 104–132, title VII, §§722, 723(a)(1), Apr. 24, 1996, 110 Stat. 1299, 1300.)
+
+#### Amendments
+
+1996—Subsec. (a)(1)(H). Pub. L. 104–132, §723(a)(1), inserted “or conspires” after “attempts”.
+
+Subsec. (b)(1)(A)(ii). Pub. L. 104–132, §722(1), struck out “and the activity is not prohibited as a crime bythe State in which the activity takes place” after “the United States”.
+
+Subsec. (b)(1)(A)(iii). Pub. L. 104–132, §722(2), struck out “the activity takes place on a ship flying the flag of a foreign country or outside the United States,” before “by a national of the United States”.
 
 #### Effective Date
 
@@ -90,7 +98,7 @@ Section 60019(c) of Pub. L. 103–322 provided that: “This section \[enacting 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2339A, 3286, 3592 of this title.
+This section is referred to in sections 1956, 2332b, 2339A, 3286, 3592 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be section “13(c)”.</i>
 

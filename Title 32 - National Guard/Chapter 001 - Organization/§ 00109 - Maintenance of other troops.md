@@ -24,6 +24,12 @@ Act
 
 109(a)
 
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 109(b)
 
 32:194(a) (1st sentence).

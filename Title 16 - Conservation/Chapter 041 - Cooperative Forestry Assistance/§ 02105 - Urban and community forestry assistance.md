@@ -16,7 +16,7 @@ The Congress finds that—
 
 &emsp;(6) efforts to encourage tree plantings and protect existing open spaces in urban areas and communities can contribute to the social well-being and promote a sense of community in these areas; and
 
-&emsp;(7) strengthened research, education, technical assistance, and public information and participation in tree planting and maintenance programs for trees and complementary ground covers for urban and community forests are needed to provide for the protection and expansion of tree cover and open space in urban areas and communities.
+&emsp;(7) strengthened research, education, technical assistance, and public information and participation in tree planting and maintenance programs for trees and complementaryground covers for urban and community forests are needed to provide for the protection and expansion of tree cover and open space in urban areas and communities.
 
 #### (b) Purposes
 
@@ -48,7 +48,7 @@ The purposes of this section are to—
 
 #### (c) General authority
 
-The Secretary is authorized to provide financial, technical, and related assistance to State foresters or equivalent State officials for the purpose of encouraging States to provide information and technical assistance to units of localgovernment and others that will encourage cooperative efforts to plan urban forestry programs and to plant, protect, and maintain, and utilize wood from, trees in open spaces, greenbelts, roadside screens, parks, woodlands, curb areas, and residential developments in urban areas. In providing such assistance, the Secretary is authorized to cooperate with interested members of the public, including nonprofit private organizations. The Secretary is also authorized to cooperate directly with units of local government and others in implementing this section whenever the Secretary and the affected State forester or equivalent State official agree that direct cooperation would better achieve the purposes of this section.
+The Secretary is authorized to provide financial, technical, and related assistance to State foresters or equivalent State officials for the purpose of encouraging States to provide information and technical assistance to units of local government and others that will encourage cooperative efforts to plan urban forestry programs and to plant, protect, and maintain, and utilize wood from, trees in open spaces, greenbelts, roadside screens, parks, woodlands, curb areas, and residential developments in urban areas. In providing such assistance, the Secretary is authorized to cooperate with interested members of the public, including nonprofit private organizations. The Secretary is also authorized to cooperate directly with units of local government and others in implementing this section whenever the Secretary and the affected State forester or equivalent State official agree that direct cooperation would better achieve the purposes of this section.
 
 #### (d) Program of education and technical assistance
 
@@ -74,7 +74,7 @@ The Secretary, in cooperation with State foresters and State extension directors
 
 #### (e) Procurement of plant materials
 
-The Secretary, in cooperation with State foresters or equivalent State officials, shall assist in identifying sources of plant materials and may procure or otherwise obtain such plant materials from public or private sources and may make such plant materials available to urban areas and communities for the purpose of reforesting open spaces, replacing dead and dying urban trees, promoting energy conservation, and providing other environmental benefits through expanding tree cover in urban areas and communities.
+The Secretary, in cooperation with State foresters or equivalent State officials, shall assist in identifying sources of plant materials and may procure or otherwise obtain such plant materials from public or private sources and may make such plant materials available to urban areas and communities for the purpose of reforesting open spaces, replacing dead and dying urban trees, promoting energy conservation, and providing other environmental benefits throughexpanding tree cover in urban areas and communities.
 
 #### (f) Challenge cost-share program
 

@@ -2,7 +2,7 @@
 
 #### (a) Part A of this subchapter
 
-(1) There are authorized to be appropriated to carry out this subchapter (other than part B andsection 5714–24 of this title) $75,000,000 for fiscal year 1993 and such sums as may be necessary for fiscal years 1994, 1995, and 1996.
+(1) There are authorized to be appropriated to carry out this subchapter (other than part B and section 5714–24 of this title) $75,000,000 for fiscal year 1993 and such sums as may be necessary for fiscal years 1994, 1995, and 1996.
 
 (2) Not less than 90 percent of the funds appropriated under paragraph (1) for a fiscal year shall be available to carry out section 5711(a) of this title in such fiscal year.
 

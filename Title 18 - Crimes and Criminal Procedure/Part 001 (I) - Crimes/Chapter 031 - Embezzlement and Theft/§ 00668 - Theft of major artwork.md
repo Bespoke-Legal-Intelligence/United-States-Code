@@ -1,10 +1,10 @@
-### §668 . Theft of major artwork
+### §668. Theft of major artwork
 
 (a)
 
 Definitions.—In this section—
 
-&emsp;“museum” means an organized and permanent institution, the activities of which affect interstate or foreign commerce, that—
+&emsp;(1) “museum” means an organized and permanent institution, the activities of which affect interstate or foreign commerce, that—
 
 &emsp;&emsp;(A) is situated in the United States;
 
@@ -14,7 +14,7 @@ Definitions.—In this section—
 
 &emsp;&emsp;(D) owns, utilizes, and cares for tangible objects that are exhibited to the public on a regular schedule.
 
-&emsp;“object of cultural heritage” means an object that is—
+&emsp;(2) “object of cultural heritage” means an object that is—
 
 &emsp;&emsp;(A) over 100 years old and worth in excess of $5,000; or
 
@@ -30,7 +30,15 @@ Offenses.—A person who—
 
 > shall be fined under this title, imprisoned not more than 10 years, or both.
 
-(Added Pub. L. 103–322, title XXXII, §320902(a), Sept. 13, 1994, 108 Stat. 2123.)
+(Added Pub. L. 103–322, title XXXII, §320902(a), Sept. 13, 1994, 108 Stat. 2123; amended Pub. L. 104–294, title VI, §604(b)(18), Oct. 11, 1996, 110 Stat. 3507.)
+
+#### Amendments
+
+1996—Subsec. (a). Pub. L. 104–294 designated first and second pars. beginning with quotation mark as pars. (1) and (2), respectively, and made technical amendment to provisions appearing in original.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–294 effective Sept. 13, 1994, see section 604(d) of Pub. L. 104–294, set out as a note under section 13 of this title.
 
 #### Section Referred to in Other Sections
 

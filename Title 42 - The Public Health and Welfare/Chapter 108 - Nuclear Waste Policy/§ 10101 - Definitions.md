@@ -8,7 +8,7 @@ For purposes of this chapter:
 
 &emsp;&emsp;(A) within whose reservation boundaries a monitored retrievable storage facility, test and evaluation facility, or a repository for high-level radioactive waste or spent fuel is proposed to be located;
 
-&emsp;&emsp;(B) whose federally defined possessory or usage rights to other lands outside of the reservation's boundaries arising out of congressionally ratified treaties may be substantially and adversely affected by the locating of such a facility: <i>Provided,</i> That the Secretary of the Interior finds, upon the petition of the appropriate governmental officials of the tribe, that such effects are both substantial and adverse to the tribe; <sup>1</sup>
+&emsp;&emsp;(B) whose federally defined possessory or usage rights to other lands outside of the reservation's boundaries arising out of congressionally ratified treaties may be substantially and adversely affected by the locating of such a facility: <i>Provided</i>, That the Secretary of the Interior finds, upon the petition of the appropriate governmental officials of the tribe, that such effects are both substantial and adverse to the tribe; <sup>1</sup>
 
 &emsp;(3) The term “atomic energy defense activity” means any activity of the Secretary performed in whole or in part in carrying out any of the following functions:
 
@@ -96,7 +96,7 @@ For purposes of this chapter:
 
 &emsp;(30) The term “Yucca Mountain site” means the candidate site in the State of Nevada recommended by the Secretary to the President under section 10132(b)(1)(B) of this title on May 27, 1986.
 
-&emsp;(31) The term “affected unit of local government” means the unit of local government with jurisdiction over the site of a repository or a monitored retrievable storage facility. Such term may, at the discretion of the Secretary, include units of local government that are contiguous with such unit.
+&emsp;(31) The term “affected unit of local government” means the unit of local government with jurisdiction over the site of a repositoryor a monitored retrievable storage facility. Such term may, at the discretion of the Secretary, include units of local government that are contiguous with such unit.
 
 &emsp;(32) The term “Negotiator” means the Nuclear Waste Negotiator.
 

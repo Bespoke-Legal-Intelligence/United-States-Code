@@ -2,45 +2,67 @@
 
 #### (a) In general
 
-Except as provided in subsection (b) of this section, for purposes of this part, the minimum capital level for the Corporation shall be an amount of core capital equal to the sum of—
+Except as provided in subsection (b) of this section, for purposes of this part, the minimum capital level for the Corporation shall be an amount of core capital equal to the sum of
 
-&emsp;(1) 2.50 percent of the aggregate on-balance sheet assets of the Corporation (other than assets referred to in paragraph (3)), as determined in accordance with generally accepted accounting principles;
+&emsp;(1) 2.75 percent of the aggregate on-balance sheet assets of the Corporation, as determined in accordance with generally accepted accounting principles; and
 
-&emsp;(2) 0.45 percent of the unpaid principal balance of outstanding securities guaranteed by the Corporation and backed by pools of qualified loans and substantially equivalent instruments issued or guaranteed by the Corporation, and other off-balance sheet obligations of the Corporation; and
+&emsp;(2) 0.75 percent of the aggregate off-balance sheet obligations of the Corporation, which, for the purposes of this part, shall include
 
-&emsp;(3) the percentage of the aggregate assets of the Corporation acquired pursuant to the linked portfolio option under section 2279aa–6(g) of this title that is determined under subsection (c) of this section.
+&emsp;&emsp;(A) the unpaid principal balance of outstanding securities that are guaranteed by the Corporation and backed by pools of qualified loans;
 
-#### (b) 18-month transition
+&emsp;&emsp;(B) instruments that are issued or guaranteed by the Corporation and are substantially equivalent to instruments described in subparagraph (A); and
 
-During the 18-month period beginning upon December 13, 1991, for purposes of this part, the minimum capital level for the Corporation shall be an amount of core capital equal to the sum of—
+&emsp;&emsp;(C) other off-balance sheet obligations of the Corporation.
 
-&emsp;(1) 1.50 percent of the aggregate on-balance sheet assets of the Corporation (other than assets referred to in paragraph (3)), as determined in accordance with generally accepted accounting principles;
+#### (b) Transition period
 
-&emsp;(2) 0.40 percent of the unpaid principal balance of outstanding securities guaranteed by the Corporation and backed by pools of qualified loans and substantially equivalent instruments issued or guaranteed by the Corporation, and other off-balance sheet obligations of the Corporation; and
+#### (1) In general
 
-&emsp;(3) the percentage of the aggregate assets of the Corporation acquired pursuant to the linked portfolio option under section 2279aa–6(g) of this title that is determined under subsection (c) of this section.
+&emsp;For purposes of this part, the minimum capital level for the Corporation—
 
-#### (c) Linked portfolio assets
+&emsp;&emsp;(A) prior to January 1, 1997, shall be the amount of core capital equal to the sum of—
 
-The percentage of any aggregate assets of the Corporation acquired pursuant to the linked portfolio option under section 2279aa–6(g) of this title that is referred to in subsections (a)(3) and (b)(3) of this section (and in section 2279bb–3(3)(A) of this title) shall be—
+&emsp;&emsp;&emsp;(i) 0.45 percent of aggregate off-balance sheet obligations of the Corporation;
 
-&emsp;(1) during the 5-year period beginning on December 13, 1991—
+&emsp;&emsp;&emsp;(ii) 0.45 percent of designated on-balance sheet assets of the Corporation, as determined under paragraph (2); and
 
-&emsp;&emsp;(A) 0.45 percent of any such assets not exceeding $1,000,000,000;
+&emsp;&emsp;&emsp;(iii) 2.50 percent of on-balance sheet assets of the Corporation other than assets designated under paragraph (2);
 
-&emsp;&emsp;(B) 0.75 percent of any such assets in excess of $1,000,000,000 but not exceeding $2,000,000,000;
+&emsp;&emsp;(B) during the 1-year period ending December 31, 1997, shall be the amount of core capital equal to the sum of—
 
-&emsp;&emsp;(C) 1.00 percent of any such assets in excess of $2,000,000,000 but not exceeding $3,000,000,000;
+&emsp;&emsp;&emsp;(i) 0.55 percent of aggregate off-balance sheet obligations of the Corporation;
 
-&emsp;&emsp;(D) 1.25 percent of any such assets in excess of $3,000,000,000 but not exceeding $4,000,000,000;
+&emsp;&emsp;&emsp;(ii) 1.20 percent of designated on-balance sheet assets of the Corporation, as determined under paragraph (2); and
 
-&emsp;&emsp;(E) 1.50 percent of any such assets in excess of $4,000,000,000 but not exceeding $5,000,000,000; and
+&emsp;&emsp;&emsp;(iii) 2.55 percent of on-balance sheet assets of the Corporation other than assets designated under paragraph (2);
 
-&emsp;&emsp;(F) 2.50 percent of any such assets in excess of $5,000,000,000; and
+&emsp;&emsp;(C) during the 1-year period ending December 31, 1998, shall be the amount of core capital equal to—
 
-&emsp;(2) after the expiration of such 5-year period, 2.50 percent of any such aggregate assets.
+&emsp;&emsp;&emsp;(i) if the Corporation's core capital is not less than $25,000,000 on January 1, 1998, the sum of—
 
-(Pub. L. 92–181, title VIII, §8.33, as added Pub. L. 102–237, title V, §503(b)(2), Dec. 13, 1991, 105 Stat. 1873.)
+&emsp;&emsp;&emsp;&emsp;(I) 0.65 percent of aggregate off-balance sheet obligations of the Corporation;
+
+&emsp;&emsp;&emsp;&emsp;(II) 1.95 percent of designated on-balance sheet assets of the Corporation, as determined under paragraph (2); and
+
+&emsp;&emsp;&emsp;&emsp;(III) 2.65 percent of on-balance sheet assets of the Corporation other than assets designated under paragraph (2); or
+
+&emsp;&emsp;&emsp;(ii) if the Corporation's core capital is less than $25,000,000 on January 1, 1998, the amount determined under subsection (a) of this section; and
+
+&emsp;&emsp;(D) on and after January 1, 1999, shall be the amount determined under subsection (a) of this section.
+
+#### (2) Designated on-balance sheet assets
+
+&emsp;For purposes of this subsection, the designated on-balance sheet assets of the Corporation shall be—
+
+&emsp;&emsp;(A) the aggregate on-balance sheet assets of the Corporation acquired under section 2279aa–6(e) of this title; and
+
+&emsp;&emsp;(B) the aggregate amount of qualified loans purchased and held by the Corporation under section 2279aa–3(c)(13) of this title.
+
+(Pub. L. 92–181, title VIII, §8.33, as added Pub. L. 102–237, title V, §503(b)(2), Dec. 13, 1991, 105 Stat. 1873; amended Pub. L. 104–105, title I, §114, Feb. 10, 1996, 110 Stat. 166.)
+
+#### Amendments
+
+1996—Pub. L. 104–105 amended section generally, substituting present provisions for provisions relating to minimum capital level, including general provisions, provisions relating to 18-month transition, and provisions relating to linked portfolio assets.
 
 #### Section Referred to in Other Sections
 

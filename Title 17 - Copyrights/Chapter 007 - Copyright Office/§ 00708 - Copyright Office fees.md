@@ -18,7 +18,7 @@
 
 &emsp;(8) for the issuance of any other certification, $20 for each hour or fraction of an hour consumed with respect thereto;
 
-&emsp;(9) for the making and reporting of a search as provided by section 705, and for any relatedservices, $20 for each hour or fraction of an hour consumed with respect thereto; and
+&emsp;(9) for the making and reporting of a search as provided by section 705, and for any related services, $20 for each hour or fraction of an hour consumed with respect thereto; and
 
 &emsp;(10) for any other special services requiring a substantial amount of time or expense, such fees as the Register of Copyrights may fix on the basis of the cost of providing the service.
 
@@ -48,7 +48,7 @@
 
 &emsp;“(5) for the filing, under section 115(b), of a notice of intention to make phonorecords, $6;
 
-&emsp;“(6) for the recordation, under section 302(c), of a statement revealing the identity of an author of an anonymous or pseudonymous work, or for the recordation, under section 302(d), of a statement relating to the death of an author, $10 for a document of six pages or less, covering no more than one title; for each page over six and for each title over one, $1 additional;
+&emsp;“(6) for the recordation, under section 302(c), of a statement revealing the identity of an author of ananonymous or pseudonymous work, or for the recordation, under section 302(d), of a statement relating to the death of an author, $10 for a document of six pages or less, covering no more than one title; for each page over six and for each title over one, $1 additional;
 
 &emsp;“(7) for the issuance, under section 601, of an import statement, $3;
 
@@ -88,7 +88,7 @@ In general.—The amendments made by this section \[amending this section and se
 
 “(2)
 
-Prior claims.—Claims to original, supplementary, and renewal copyright received for registration and items received for recordation in acceptable form in the Copyright Office before the effective dateset forth in paragraph (1), and requests for services which are rendered before such effective date shall be governed by section 708 of title 17, United States Code, as in effect before such effective date.”
+Prior claims.—Claims to original, supplementary, and renewal copyright received for registration and items received for recordation in acceptable form in the Copyright Office before the effective date set forth in paragraph (1), and requests for services which are rendered before such effective date shall be governed by section 708 of title 17, United States Code, as in effect before such effective date.”
 
 #### Effective Date of 1982 Amendment; Transitional Rule
 

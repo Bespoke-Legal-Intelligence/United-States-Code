@@ -6,7 +6,7 @@ The Secretary shall award grants under this subchapter on the basis of—
 
 &emsp;(1) high numbers or percentages of the total number of children aged 5 to 17, inclusive, residing in the geographic area served by an eligible local educational agency who are counted under subpart 2 of part A of subchapter I of this chapter;
 
-&emsp;(2) the extent to which the eligible local educational agency lacks the fiscal capacity, including the ability to raise funds through the full use of such agency's bonding capacity andotherwise, to undertake the project without Federal assistance;
+&emsp;(2) the extent to which the eligible local educational agency lacks the fiscal capacity, including the ability to raise funds through the full use of such agency's bonding capacity and otherwise, to undertake the project without Federal assistance;
 
 &emsp;(3) the threat of the condition of the physical plant poses to the safety and well-being of students;
 

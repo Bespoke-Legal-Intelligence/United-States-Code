@@ -42,11 +42,19 @@ Pub. L. 95–334, §1, Aug. 4, 1978, 92 Stat. 420, provided: “That this Act \[
 
 #### Short Title of 1972 Amendment
 
-Section 1 of Pub. L. 92–419 provided: “That this Act \[enacting sections 1010a, 1929a, 1931 to 1933, 1947, 1992, 2204a, 2212a, 2651 to 2654, and 2661 to 2668 of this title, amending sections 1006a, 1011, 1924 to 1927, 1929, 1941 to 1943, 1981, 1983, 1985, 1991, 2201, and 2204 of this title, section 5315 of Title 5, Government Organization and Employees, sections 590g, 590h, 590<i>o</i>, and 1001 to 1005 of Title 16, Conservation, and section 3122 of Title 42, The Public Health and Welfare, and amending provisions set out as a note under this section\] may be cited as the ‘Rural Development Act of 1972’.”
+Section 1 of Pub. L. 92–419 provided: “That this Act \[enacting sections 1010a, 1929a, 1931 to 1933, 1947, 1992, 2204a, 2212a, 2651 to 2654, and 2661 to 2668 of this title, amending sections 1006a, 1011, 1924 to 1927, 1929, 1941 to 1943, 1981, 1983, 1985, 1991, 2201, and 2204 of this title, section 5315 of Title 5, Government Organization and Employees, sections 590g, 590h, 590<i>o</i>, and 1001 to 1005 of Title 16, Conservation, and section 3122 of Title 42, ThePublic Health and Welfare, and amending provisions set out as a note under this section\] may be cited as the ‘Rural Development Act of 1972’.”
 
 #### Short Title
 
 Section 301(a) of title III of Pub. L. 87–128, as amended by Pub. L. 92–419, title I, §101, Aug. 30, 1972, 86 Stat. 657, provided that: “This title \[enacting this section and sections 1013a, 1922 to 1933, 1941 to 1947, 1961 to 1968, 1969, 1970, 1971, and 1981 to 1993 of this title, amending sections 1924 to 1927, 1929, 1941 to 1943, 1981, 1983, 1985, and 1991 of this title, repealing sections 1001 to 1005d, 1006c to 1006e, 1007, 1008, 1009, 1014 to 1025, 1027 to 1029 of this title, sections 1148a–1 to 1148a–3 of Title 12, Banks and Banking, and sections 590r to 590x–4 of Title 16, Conservation, and enacting provisions set out as a note under this section\] may be cited as the ‘Consolidated Farm and Rural Development Act’.”
+
+#### Regulations
+
+Section 2396 of title XXIII of Pub. L. 101–624 provided that: “Except as otherwise provided in this title \[see Short Title of 1990 Amendment note set out above\], no later than 180 days after the date of the enactment of this Act \[Nov. 28, 1990\], the Secretary shall promulgate such regulations as may be necessary to carry out this title and the amendments made by this title.”
+
+#### Preservation of Eligibility for Credit Assistance Under Federal Law
+
+Section 2395 of title XXIII of Pub. L. 101–624 provided that: “Notwithstanding any other provision of law, this title \[see Short Title of 1990 Amendment note set out above\] shall not be construed to adversely affect the eligibility, as it existed on the date of enactment of this Act \[Nov. 28, 1990\], of cooperatives and other entities for any other credit assistance under Federal law.”
 
 #### Use of Qualified Personnel by the Department of Agriculture
 

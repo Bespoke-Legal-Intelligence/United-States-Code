@@ -20,7 +20,9 @@ Additional and Higher Standards of Performance.—The United States Government, 
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

@@ -6,7 +6,7 @@ In addition to the authority conferred by section 1574(b) of this title, the leg
 
 #### (b) Federal guarantee
 
-The legislature of the government of the Virgin Islands may provide, in connection with anyissue of bonds or other obligations authorized to be issued under subsection (a) of this section the proceeds of which are to be used for public works or other capital projects, that a guarantee of such bonds or obligations by the United States should be applied for under section 1574b of this title.
+The legislature of the government of the Virgin Islands may provide, in connection with any issue of bonds or other obligations authorized to be issued under subsection (a) of this section the proceeds of which are to be used for public works or other capital projects, that a guarantee of such bonds or obligations by the United States should be applied for under section 1574b of this title.
 
 #### (c) Limitations on issuance
 

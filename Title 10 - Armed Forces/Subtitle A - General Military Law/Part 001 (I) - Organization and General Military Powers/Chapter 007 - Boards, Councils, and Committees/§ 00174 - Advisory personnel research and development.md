@@ -2,7 +2,7 @@
 
 (a) The Secretary of each military department may establish such advisory committees and panels as are necessary for the research and development activities of his department and may employ such part-time advisers as he considers necessary to carry out those activities.
 
-(b) A person who serves as a member of such a committee or panel may not be paid for that service while holding another position or office under the United States for which he receives compensation. Other members and part-time advisers may serve without compensation or may be paid not more than $50 for each day of service, as the Secretary concerned determines.
+(b) A person who serves as a member of such a committee or panel may not be paid for that service while holding another position or office under the United States for which he receives compensation. Other members and part-time advisers shall (except as otherwise specifically authorized by law) serve without compensation for such service.
 
 (c) The Secretary concerned may delegate any authority under this section to—
 
@@ -12,7 +12,7 @@
 
 &emsp;(3) the chief, and one assistant to the chief, of any technical service, bureau, or office.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 9.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 9; Feb. 10, 1996, Pub. L. 104–106, div. A, title X, §1061(e)(1), 110 Stat. 443.)
 
 Historical and Revision Notes
 
@@ -51,6 +51,10 @@ July 16, 1952, ch. 882, §§1, 7 (as applicable to §1), 66 Stat. 725, 726.
 In subsection (a), the words “the conduct of” are omitted as surplusage.
 
 In subsection (b), the words “or panel” are inserted for clarity. The words “Secretary concerned” are substituted for the words “appointing authority”.
+
+#### Amendments
+
+1996—Subsec. (b). Pub. L. 104–106 substituted “Other members and part-time advisers shall (except as otherwise specifically authorized by law) serve without compensation for such service.” for “Other members and part-time advisers may serve without compensation or may be paid not more than $50 for each day of service, as the Secretary concerned determines.”
 
 #### Termination of Advisory Committees
 

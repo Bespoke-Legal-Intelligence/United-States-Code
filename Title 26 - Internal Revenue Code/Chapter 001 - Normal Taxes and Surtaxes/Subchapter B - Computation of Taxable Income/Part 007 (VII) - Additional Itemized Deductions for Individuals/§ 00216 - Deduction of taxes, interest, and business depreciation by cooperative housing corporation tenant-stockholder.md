@@ -30,7 +30,7 @@ For purposes of this section—
 
 #### (2) Tenant-stockholder
 
-&emsp;The term “tenant-stockholder” means a person who is a stockholder in a cooperative housing corporation, and whose stock is fullypaid-up in an amount not less than an amount shown to the satisfaction of the Secretary as bearing a reasonable relationship to the portion of the value of the corporation's equity in the houses or apartment building and the land on which situated which is attributable to the house or apartment which such person is entitled to occupy.
+&emsp;The term “tenant-stockholder” means a person who is a stockholder in a cooperative housing corporation, and whose stock is fully paid-up in an amount not less than an amount shown to the satisfaction of the Secretary as bearing a reasonable relationship to the portion of the value of the corporation's equity in the houses or apartment building and the land on which situated which is attributable to the house or apartment which such person is entitled to occupy.
 
 #### (3) Tenant-stockholder's proportionate share
 

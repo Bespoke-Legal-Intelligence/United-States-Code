@@ -16,7 +16,7 @@
 
 &emsp;&emsp;(B) change in corpus of estate shall be the last day of the calendar year in which the change occurred;
 
-&emsp;(5) by reason of a change in disability or employability of a veteran in receipt of pensionshall be the last day of the month in which discontinuance of the award is approved;
+&emsp;(5) by reason of a change in disability or employability of a veteran in receipt of pension shall be the last day of the month in which discontinuance of the award is approved;
 
 &emsp;(6) by reason of change in law or administrative issue, change in interpretation of a law or administrative issue, or, for compensation purposes, a change in service-connected or employability status or change in physical condition shall be the last day of the month following sixty days from the date of notice to the payee (at the payee's last address of record) of the reduction or discontinuance;
 
@@ -56,7 +56,7 @@ Subsec. (b)(9). Pub. L. 94–433, §402(2), substituted “the beneficiary's” 
 
 1968—Subsec. (b)(4). Pub. L. 90–275 struck out exception which provided that where change in income is due to an increase in payments under a public or private retirement plan the effective date of the resulting reduction or discontinuance shall be the last day of the calendar year in which the change occurred.
 
-1966—Subsec. (b)(4). Pub. L. 89–730 provided for exception that where change in income is due to an increase in payments under a public or private retirement plan the effective date of the resulting reduction or discontinuance shall be the last day of the calendar year in which the change occurred.
+1966—Subsec. (b)(4). Pub. L. 89–730 provided for exception that where change in income is due to an increase in payments under a public or private retirement planthe effective date of the resulting reduction or discontinuance shall be the last day of the calendar year in which the change occurred.
 
 1962—Subsecs. (b), (c). Pub. L. 87–825 redesignated subsec. (c) as (b), amended such subsec. generally, and among other changes, inserted provisions relating to the marriage, divorce, or death of a dependent of a payee, the change in income or corpus of an estate, the change in disability or employability of a veteran, the change in law or administrative issue of service-connected or employability status or physical condition, the discontinuance of school attendance, the termination of a temporary increase in compensation for hospitalization or treatment, an erroneous award based on an act or omission of the beneficiary or with his knowledge, and an erroneous award based solely on administrative error or error in judgment, changed the effective date by reason of death, or by reason of marriage or remarriage, from the date of death, or the day before the date of marriage or remarriage, respectively, to the last day of the month before such death, marriage or remarriage occurs, and eliminated provisions relating to attaining age 18 or 21, as applicable, and to fraud on the part of the beneficiary or with his knowledge. Former subsec. (b), which related to the effective date of a reduction or discontinuance in rates, of a compensation, dependency and indemnity compensation, or a pension award, was struck out.
 
@@ -86,5 +86,9 @@ Amendment by Pub. L. 89–730 effective first day of second calendar month follo
 
 #### Effective Date of 1962 Amendment
 
-Amendment by Pub. L. 87–825 effective first day of second calendar month which begins after Oct. 15, 1962,see section 7 of Pub. L. 87–825, set out as a note under section 110 of this title.
+Amendment by Pub. L. 87–825 effective first day of second calendar month which begins after Oct. 15, 1962, see section 7 of Pub. L. 87–825, set out as a note under section 110 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 5310 of this title.
 

@@ -12,9 +12,9 @@
 
 &emsp;(2) making written recommendations to the appropriate appointing authority concerning such candidates.
 
-(c)(1) The Office shall establish one or more qualifications review boards, as appropriate. It is the function of the boards to certify the executive qualifications of candidates for initial appointment as career appointees in accordance with regulations prescribed by the Office. Of themembers of each board more than one-half shall be appointed from among career appointees. Appointments to such boards shall be made on a non-partisan basis, the sole selection criterion being the professional knowledge of public management and knowledge of the appropriate occupational fields of the intended appointee.
+(c)(1) The Office shall establish one or more qualifications review boards, as appropriate. It is the function of the boards to certify the executive qualifications of candidates for initial appointment as career appointees in accordance with regulations prescribed by the Office. Of the members of each board more than one-half shall be appointed from among career appointees. Appointments to such boards shall be made on a non-partisan basis, the sole selection criterion being the professional knowledge of public management and knowledge of the appropriate occupational fields of the intended appointee.
 
-(2) The Office shall, in consultation with the various qualification review boards, prescribe criteria for establishing executive qualifications for appointment of career appointees. The criteria shall provide for—
+(2) The Office shall, in consultation with the various qualification review boards, prescribe criteria for establishing executive qualificationsfor appointment of career appointees. The criteria shall provide for—
 
 &emsp;(A) consideration of demonstrated executive experience;
 
@@ -38,15 +38,15 @@ A prior section 3393, added Pub. L. 95–437, §3(a), Oct. 10, 1978, 92 Stat. 10
 
 #### Amendments
 
-<b>1990</b>—Subsec. (g). Pub. L. 101–280 made technical correction to directory language of Pub. L. 101–194, see 1989 Amendment below.
+1990—Subsec. (g). Pub. L. 101–280 made technical correction to directory language of Pub. L. 101–194, see 1989 Amendment below.
 
-<b>1989</b>—Subsec. (g). Pub. L. 101–194, as amended by Pub. L. 101–280, inserted “3393a,” after “1215,”.
+1989—Subsec. (g). Pub. L. 101–194, as amended by Pub. L. 101–280, inserted “3393a,” after “1215,”.
 
 Pub. L. 101–12 substituted “1215” for “1207”.
 
-<b>1984</b>—Subsec. (b). Pub. L. 98–615 inserted provision referring to commissioned officers of the uniformed services serving on active duty in such agency in provisions preceding par. (1).
+1984—Subsec. (b). Pub. L. 98–615 inserted provision referring to commissioned officers of the uniformed services serving on active duty in such agency in provisions preceding par. (1).
 
-<b>1981</b>—Subsec. (g). Pub. L. 97–35 added subsec. (g).
+1981—Subsec. (g). Pub. L. 97–35 added subsec. (g).
 
 #### Effective Date of 1989 Amendments
 

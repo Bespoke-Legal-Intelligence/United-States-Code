@@ -12,7 +12,9 @@ Requirements.—Not later than December 18, 1994, the Secretary of Transportatio
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

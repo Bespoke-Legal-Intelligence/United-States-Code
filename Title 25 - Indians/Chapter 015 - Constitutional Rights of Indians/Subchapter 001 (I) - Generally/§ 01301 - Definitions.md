@@ -24,7 +24,7 @@ Title II of Pub. L. 90–284, which is classified generally to this subchapter, 
 
 #### Time Limitation on Criminal Misdemeanor Jurisdiction of Tribal Courts Over Non-Member Indians
 
-Section 8077(d) of Pub. L. 101–511, as amended by Pub. L. 102–124, §1, Oct. 9, 1991, 105 Stat. 616, which provided that the effects of subsecs. (b) and (c), which amendedthis section, as those subsections affect the criminal misdemeanor jurisdiction of tribal courts over non-member Indians have no effect after Oct. 18, 1991, was repealed by Pub. L. 102–137, Oct. 28, 1991, 105 Stat. 646. Subsequent to repeal, Pub. L. 102–172, title VIII, §8112A(b), Nov. 26, 1991, 105 Stat. 1202, purported to amend section 8077(d) of Pub. L. 101–511 by substituting “1993” for “1991”.
+Section 8077(d) of Pub. L. 101–511, as amended by Pub. L. 102–124, §1, Oct. 9, 1991, 105 Stat. 616, which provided that the effects of subsecs. (b) and (c), which amended this section, as those subsections affect the criminal misdemeanor jurisdiction of tribal courts over non-member Indians have no effect after Oct. 18, 1991, was repealed by Pub. L. 102–137, Oct. 28, 1991, 105 Stat. 646. Subsequent to repeal, Pub. L. 102–172, title VIII, §8112A(b), Nov. 26, 1991, 105 Stat. 1202, purported to amend section 8077(d) of Pub. L. 101–511 by substituting “1993” for “1991”.
 
 #### Section Referred to in Other Sections
 

@@ -10,7 +10,7 @@ Administrative Hearings.—The Secretary of Transportation shall provide an oppo
 
 &emsp;(3) a licensee under this chapter, for a decision of the Secretary under—
 
-&emsp;&emsp;(A) section 70107 (b) or (c) of this title to modify, suspend, or revoke a license; or
+&emsp;&emsp;(A) section 70107(b) or (c) of this title to modify, suspend, or revoke a license; or
 
 &emsp;&emsp;(B) section 70108(a) of this title to prohibit, suspend, or end a launch or operation of a launch site licensed by the Secretary.
 
@@ -22,7 +22,9 @@ Judicial Review.—A final action of the Secretary under this chapter is subject
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

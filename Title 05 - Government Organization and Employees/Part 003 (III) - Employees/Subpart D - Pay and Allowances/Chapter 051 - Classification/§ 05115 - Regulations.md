@@ -10,7 +10,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 5 U.S.C. 1072.
 
@@ -30,11 +32,9 @@ Section 5114, referred to in text, was repealed by Pub. L. 99–386, title I, §
 
 #### Amendments
 
-<b>1978</b>—Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission”.
+1978—Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission”.
 
 #### Effective Date of 1978 Amendment
 
 Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as a note under section 1101 of this title.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

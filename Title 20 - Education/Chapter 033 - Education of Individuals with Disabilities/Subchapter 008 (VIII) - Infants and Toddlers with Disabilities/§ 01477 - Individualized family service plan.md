@@ -58,7 +58,7 @@ Subsec. (d)(2). Pub. L. 102–119, §14(2)(B), substituted “resources, priorit
 
 Subsec. (d)(5), (6). Pub. L. 102–119, §14(2)(C), added par. (5) and redesignated former par. (5) as (6). Former par. (6) redesignated (7).
 
-Subsec. (d)(7). Pub. L. 102–119, §14(2)(C)(i), (D), redesignated par. (6) as (7) and inserted “(hereafter in thissubchapter referred to as the ‘service coordinator’)” and “(or who is otherwise qualified to carry out all applicable responsibilities under this subchapter)”. Former par. (7) redesignated (8).
+Subsec. (d)(7). Pub. L. 102–119, §14(2)(C)(i), (D), redesignated par. (6) as (7) and inserted “(hereafter in this subchapter referred to as the ‘service coordinator’)” and “(or who is otherwise qualified to carry out all applicable responsibilities under this subchapter)”. Former par. (7) redesignated (8).
 
 Subsec. (d)(8). Pub. L. 102–119, §14(2)(C)(i), redesignated par. (7) as (8).
 

@@ -38,7 +38,7 @@ For purposes of this section, the term â€œeffectively connected taxable incomeâ€
 
 #### (1) Allowance of credit
 
-&emsp;Each foreign partner of a partnership shall be allowed a credit under section 33 for suchpartner's share of the withholding tax paid by the partnership under this section. Such credit shall be allowed for the partner's taxable year in which (or with which) the partnership taxable year (for which such tax was paid) ends.
+&emsp;Each foreign partner of a partnership shall be allowed a credit under section 33 for such partner's share of the withholding tax paid by the partnership under this section. Such credit shall be allowed for the partner's taxable year in which (or with which) the partnership taxable year (for which such tax was paid) ends.
 
 #### (2) Credit treated as distributed to partner
 

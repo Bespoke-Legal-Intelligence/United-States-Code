@@ -1,4 +1,4 @@
-### §1158 . Counterfeiting Indian Arts and Crafts Board trade mark
+### §1158. Counterfeiting Indian Arts and Crafts Board trade mark
 
 Whoever counterfeits or colorably imitates any Government trade mark used or devised by the Indian Arts and Crafts Board in the Department of the Interior as provided in section 305a of Title 25, or, except as authorized by the Board, affixes any such Government trade mark, or knowingly, willfully, and corruptly affixes any reproduction, counterfeit, copy, or colorable imitation thereof upon any products, or to any labels, signs, prints, packages, wrappers, or receptacles intended to be used upon or in connection with the sale of such products; or
 
@@ -28,5 +28,5 @@ Minor changes were made in phraseology.
 
 #### Transfer of Functions
 
-Functions of all other officers of Department of the Interior and functions of all agencies and employees of such Department, with two exceptions, transferred to Secretary of the Interior, with power vested in him to authorize their performance or performance of any of his functions by any of such officers, agencies, and employees, by Reorg. Plan No. 3 of 1950 §§1, 2, eff. May 24,1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
+Functions of all other officers of Department of the Interior and functions of all agencies and employees of such Department, with two exceptions, transferred to Secretary of the Interior, with power vested in him to authorize their performance or performance of any of his functions by any of such officers, agencies, and employees, by Reorg. Plan No. 3 of 1950 §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
 

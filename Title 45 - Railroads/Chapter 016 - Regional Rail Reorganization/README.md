@@ -67,7 +67,6 @@
 | (e) | Original and exclusive jurisdiction. |
 | (f) | Disposition of cash deposits. |
 | (g) | Stay of court proceedings. |
-| (h) | Special masters. |
 | [720\.](Subchapter%20002%20%28II%29%20-%20United%20States%20Railway%20Association/%C2%A7%2000720%20-%20Obligations%20of%20Association.md) | Obligations of Association. |
 | (a) | General. |
 | (b) | Maximum obligational authority. |
@@ -144,7 +143,7 @@
 | (a) | Deposit with court. |
 | (b) | Conveyance of rail properties. |
 | (c) | Findings and distribution. |
-| (d) | Review. |
+| (d) | Appeal. |
 | (e) | Transfer and other taxes and recording fees. |
 | [744\.](Subchapter%20003%20%28III%29%20-%20Consolidated%20Rail%20Corporation/%C2%A7%2000744%20-%20Termination%20and%20continuation%20of%20rail%20services.md) | Termination and continuation of rail services. |
 | (a) | Discontinuance. |

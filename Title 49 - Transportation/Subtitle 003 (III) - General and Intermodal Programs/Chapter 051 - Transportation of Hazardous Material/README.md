@@ -34,7 +34,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 521, 5710, 20109, 20111, 20114, 31146, 31305 of this title; title 18 section 844; title 42 sections 6912, 6921, 6923, 9656.
+This chapter is referred to in sections 521, 5710, 5908, 20109, 20111, 20114, 31146, 31305 of this title; title 18 section 844; title 42 sections 6912, 6921, 6923, 9656.
 
 
 ---

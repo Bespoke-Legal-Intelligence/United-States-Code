@@ -20,9 +20,7 @@ Such sums as are appropriated to carry out the provisions of section 2662(a) and
 
 #### (c) Additional distributions
 
-(1) Such sums as are appropriated to carry out subsections (e) and (i) of section 2662 of this title shall be distributed by the Secretary to colleges and universities, on a competitive or matching fund basis, according to the Secretary's determination of the projects and manner of funding that show the most promise of fulfilling the objectives of those subsections.
-
-(2) The Secretary shall distribute the amounts appropriated to carry out section 2662(f) of this title to colleges and universities in accordance with the requirements of such subsection.
+Such sums as are appropriated to carry out subsections (e) and (i) of section 2662 of this title shall be distributed by the Secretary to colleges and universities, on a competitive or matching fund basis, according to the Secretary's determination of the projects and manner of funding that show the most promise of fulfilling the objectives of those subsections.
 
 #### (d) Administration of programs
 
@@ -30,7 +28,7 @@ Funds appropriated under this subchapter may be used to pay salaries and other e
 
 #### (e) Development of plans of work and budgets by eligible institutions
 
-Payment of funds to any State for programs authorized under section 2662(a), (b), (c), and (d) of this title shall be contingent upon approval by the Secretary of a plan of work and budget for such programs and compliance with such regulations as the Secretary may issue under this subchapter. Plans for work shall be jointly developed in each State by the land-grant colleges and universities eligible to receive funds under the Act of July 2, 1862 (7 U.S.C. 301 et seq.), and the Act of August 30, 1890 (7 U.S.C. 321 et seq.), including Tuskegee Institute. In Statesin which there is no land-grant institution eligible to receive funds under the Act of August 30, 1890, the land-grant institution eligible to receive funds under the Act of July 2, 1862, shall be responsible for developing plans of work and budgets. In the development of the plans of work and budgets, consideration shall be given to involvement of the resources and expertise of the colleges and universities serving  the  region  in  which  the  plans  and budgets are to be applied.
+Payment of funds to any State for programs authorized under section 2662(a), (b), (c), and (d) of this title shall be contingent upon approval by the Secretary of a plan of work and budget for such programs and compliance with such regulations as the Secretary may issue under this subchapter. Plans for work shall be jointly developed in each State by the land-grant colleges and universities eligible to receive funds under the Act of July 2, 1862 (7 U.S.C. 301 et seq.), and the Act of August 30, 1890 (7 U.S.C. 321 et seq.), including Tuskegee Institute. In States in which there is no land-grant institution eligible to receive funds under the Act of August 30, 1890, the land-grant institution eligible to receive funds under the Act of July 2, 1862, shall be responsible for developing plans of work and budgets. In the development of the plans of work and budgets, consideration shall be given to involvement of the resources and expertise of the colleges and universities serving  the  region  in  which  the  plans  and budgets are to be applied.
 
 #### (f) Availability; budgets and accounts
 
@@ -40,11 +38,11 @@ Funds shall be available for use by each State in the fiscal year for which appr
 
 Funds provided to each State under this subchapter may be used to finance programs through or at private and publicly supported colleges and universities other than the institutions responsible for administering the programs, as provided under section 2664 of this title.
 
-(Pub. L. 92–419, title V, §503, as added Pub. L. 97–98, title XIV, §1444(a), Dec. 22, 1981, 95 Stat. 1324; amended Pub. L. 99–198, title XIV, §1440(b), Dec. 23, 1985, 99 Stat. 1560; Pub. L. 101–624, title XXIII, §§2389(c)(2), 2390(b)(2), Nov. 28, 1990, 104 Stat. 4055, 4056; Pub. L. 102–237, title IV, §403(b), Dec. 13, 1991, 105 Stat. 1863.)
+(Pub. L. 92–419, title V, §503, as added Pub. L. 97–98, title XIV, §1444(a), Dec. 22, 1981, 95 Stat. 1324; amended Pub. L. 99–198, title XIV, §1440(b), Dec. 23, 1985, 99 Stat. 1560; Pub. L. 101–624, title XXIII, §§2389(c)(2), 2390(b)(2), Nov. 28, 1990, 104 Stat. 4055, 4056; Pub. L. 102–237, title IV, §403(b), Dec. 13, 1991, 105 Stat. 1863; Pub. L. 104–127, title VII, §792(b)(2), Apr. 4, 1996, 110 Stat. 1152.)
 
 #### References in Text
 
-Act of July 2, 1862, referred to in subsec. (e), is act July 2, 1862, ch. 130, 12 Stat. 503, as amended, popularly known as the First Morrill Act, which is classified generally to subchapter I (§301 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 301 of this title and Tables.
+Act of July 2, 1862, referred to in subsec. (e), is act July 2, 1862, ch. 130, 12 Stat. 503, as amended, popularlyknown as the First Morrill Act, which is classified generally to subchapter I (§301 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 301 of this title and Tables.
 
 Act of August 30, 1890, referred to in subsec. (e), is act Aug. 30, 1890, ch. 841, 26 Stat. 417, as amended, popularly known as the Agricultural College Act of 1890 and also as the Second Morrill Act, which is classified generally to subchapter II (§321 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 321 of this title and Tables.
 
@@ -53,6 +51,10 @@ Act of August 30, 1890, referred to in subsec. (e), is act Aug. 30, 1890, ch. 84
 A prior section 2663, Pub. L. 92–419, title V, §503, Aug. 30, 1972, 86 Stat. 672; Pub. L. 94–259, §1, Apr. 5, 1976, 90 Stat. 314; Pub. L. 95–113, title XIV, §1441, Sept. 29, 1977, 91 Stat. 1006; Pub. L. 96–355, §4(1)–(3), Sept. 24, 1980, 94 Stat. 1173, 1174, related to program moneys, prior to repeal by Pub. L. 97–98, title XIV, §1444(a), Dec. 22, 1981, 95 Stat. 1326.
 
 #### Amendments
+
+1996—Subsec. (c). Pub. L. 104–127, §792(b)(2)(A)(ii), (iii), which directed substitution of “subsections (e), (h), and (i) of section 2662 of this title shall be distributed” for “section 2662(e)” and all that follows through “shall be distributed” and “objectives of subsections (e), (h), and (i) of section 2662 of this title” for “objectives of” and all that follows through “title”, could not be executed because of prior amendment by Pub. L. 102–237, which substituted “subsections (e) and (i) of section 2662 of this title shall be distributed” for “the provisions of section 2662(e) of this title shall be distributed” and “objectives of those subsections” for “objectives of section 2662(e) of this title”. See 1991 Amendment note below.
+
+Pub. L. 104–127, §792(b)(2)(A)(i), (B), struck out “(1)” before “Such sums” and struck out par. (2) which read as follows: “The Secretary shall distribute the amounts appropriated to carry out section 2662(f) of this title to colleges and universities in accordance with the requirements of such subsection.”
 
 1991—Subsec. (c)(1). Pub. L. 102–237 substituted “subsections (e) and (i) of section 2662 of this title” for “the provisions of section 2662(e) of this title” and “objectives of those subsections” for “objectives of section 2662(e) of this title”.
 

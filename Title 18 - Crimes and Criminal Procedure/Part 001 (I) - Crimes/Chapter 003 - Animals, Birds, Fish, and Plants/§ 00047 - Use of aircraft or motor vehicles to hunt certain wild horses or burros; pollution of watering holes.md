@@ -1,4 +1,4 @@
-### §47 . Use of aircraft or motor vehicles to hunt certain wild horses or burros; pollution of watering holes
+### §47. Use of aircraft or motor vehicles to hunt certain wild horses or burros; pollution of watering holes
 
 (a) Whoever uses an aircraft or a motor vehicle to hunt, for the purpose of capturing or killing, any wild unbranded horse, mare, colt, or burro running at large on any of the public land or ranges shall be fined under this title, or imprisoned not more than six months, or both.
 

@@ -12,13 +12,13 @@ The Capitol Guide Service is authorized and directed to provide guided tours of 
 
 The Capitol Guide Board is authorized—
 
-&emsp;(1) with the prior approval of the Committee on Rules and Administration of the Senate and the Committee on House Administration of the House of Representatives, to establish and revise such number of positions of Guide in the Capitol Guide Service as the Board considers necessary to carry out effectively the activities of the Capitol Guide Service;
+&emsp;(1) with the prior approval of the Committee on Rules and Administration of the Senate and the Committee on House Oversight of the House of Representatives, to establish and revise such number of positions of Guide in the Capitol Guide Service as the Board considers necessary to carry out effectively the activities of the Capitol Guide Service;
 
 &emsp;(2) to appoint, on a permanent basis, without regard to political affiliation, and solely on the basis of fitness to perform their duties, a Chief Guide, a Deputy Chief Guide, and an Assistant Chief Guide, and, in addition, such number of Guides as may be authorized under subparagraph (1) of this subsection;
 
 &emsp;(3) to prescribe their duties and responsibilities;
 
-&emsp;(4) with the prior approval of the Committee on Rules and Administration of the Senate and the Committee on House Administration of the House of Representatives, to fix, and adjust from time to time, their respective rates of pay at single per annum (gross) rates; and
+&emsp;(4) with the prior approval of the Committee on Rules and Administration of the Senate and the Committee on House Oversight of the House of Representatives, to fix, and adjust from time to time, their respective rates of pay at single per annum (gross) rates; and
 
 &emsp;(5) to terminate their employment as the Board considers appropriate.
 
@@ -36,7 +36,7 @@ An employee of the Capitol Guide Service shall not charge or accept any fee, or 
 
 #### (f) Personnel detail
 
-The Capitol Guide Board may detail personnel of the Capitol Guide Service to assist the United States Capitol Police by providing ushering and informational services, and other services not directly involving law enforcement, in connection with the inauguration of the President and Vice President of the United States, the official reception of representatives of foreign nations and other persons by the Senate or House of Representatives, and other special or ceremonial occasions in the United States Capitol Building or on the United States Capitol Grounds which require the presence of additional Government personnel and which cause the temporary suspension of the performance of the regular duties of the Capitol Guide Service.
+The Capitol Guide Board may detail personnel of the Capitol Guide Service to assist the UnitedStates Capitol Police by providing ushering and informational services, and other services not directly involving law enforcement, in connection with the inauguration of the President and Vice President of the United States, the official reception of representatives of foreign nations and other persons by the Senate or House of Representatives, and other special or ceremonial occasions in the United States Capitol Building or on the United States Capitol Grounds which require the presence of additional Government personnel and which cause the temporary suspension of the performance of the regular duties of the Capitol Guide Service.
 
 #### (g) Historical and educational information
 
@@ -50,17 +50,29 @@ With the prior approval of the Committee on Rules and Administration of the Sena
 
 The Capitol Guide Board may take appropriate disciplinary action, including, when circumstances warrant, suspension from duty without pay, reduction in pay, demotion, or removal from employment with the Capitol Guide Service, against any employee who violates any provision of this section or any regulations prescribed by the Board pursuant to this section.
 
-#### (j) Expenses; payment from contingent fund until availability of appropriations
+#### (j) Volunteers
 
-The expenses of the Capitol Guide Service shall be paid from the contingent fund of the House of Representatives, until appropriations are available for the payment of such expenses.
+(1) Notwithstanding section 1342 of title 31, the Capitol Guide Service is authorized to accept voluntary personal services.
 
-(Pub. L. 91–510, title IV, §441, Oct. 26, 1970, 84 Stat. 1190; Pub. L. 95–94, title I, Aug. 5, 1977, 91 Stat. 671.)
+(2) No person shall be permitted to donate personal services under this subsection unless the person has first agreed, in writing, to waive any claim against the United States arising out of or in connection with such services, other than a claim under chapter 81 of title 5.
+
+(3) No person donating personal services under this section shall be considered an employee of the United States for any purpose other than for purposes of chapter 81 of title 5.
+
+(4) In no case shall the acceptance of personal services under this section result in the reduction of pay or displacement of any employee of the Capitol Guide Service.
+
+(Pub. L. 91–510, title IV, §441, Oct. 26, 1970, 84 Stat. 1190; Pub. L. 95–94, title I, Aug. 5, 1977, 91 Stat. 671; Pub. L. 104–186, title II, §221(17), Aug. 20, 1996, 110 Stat. 1750; Pub. L. 104–279, Oct. 9, 1996, 110 Stat. 3358.)
 
 #### Codification
 
 Section was not enacted as part of the National Visitor Center Facilities Act of 1968 which comprises this chapter.
 
 #### Amendments
+
+1996—Subsec. (c)(1), (4). Pub. L. 104–186, §221(17)(A), substituted “House Oversight” for “House Administration”.
+
+Subsec. (j). Pub. L. 104–279 added subsec. (j).
+
+Pub. L. 104–186, §221(17)(B), struck out subsec. (j) which read as follows: “The expenses of the Capitol Guide Service shall be paid from the contingent fund of the House of Representatives, until appropriations are available for the payment of such expenses.”
 
 1977—Subsec. (c)(2). Pub. L. 95–94 inserted reference to Deputy Chief Guide.
 
@@ -88,7 +100,7 @@ Increases in compensation for the Capitol Guide Board, the Chief Guide, the Depu
 
 Section 443 of Pub. L. 91–510 provided that:
 
-“(a) The initial appointments, under section 441(c)(2) of this Act \[subsec. (c)(2) of this section\], of personnel of the Capitol Guide Service shall be effective on the effective date of this section. The Capitol Guide Board shall afford, to each person who is a member of the United States Capitol Guides immediately prior to such effective date, the opportunity to be appointed to a comparable position in the Capitol Guide Service without reduction in level of rank and seniority. For the purposes of the initial appointments of such persons, the number of such persons shall be considered to have been authorized for the Capitol Guide Service under section 441(c)(1) of this Act \[subsec. (c)(1) of this section\]. The per annum (gross) rate of pay of each such person so initially appointed shall be a rate equal to the per annum rate of pay received by the United States Capitol Guides, who worked full tours of duty, averaged over the last five calendar years (excluding 1968) ending prior to the date of enactment of this Act \[Oct. 26, 1970\]. Subject to section 441(i) of this Act \[subsec. (i) of this section\], the rate of each such person so initially appointed shall not, at any time after such initial appointment, be less than the rate at which he was initially appointed so long as he remains in the same position; but, when such position becomes vacant, the rate of pay of any subsequent appointee thereto shall be fixed in accordance with section 441 of this Act \[this section\].
+“(a) The initial appointments, under section 441(c)(2) of this Act \[subsec. (c)(2) of this section\], of personnel of the Capitol Guide Service shall be effective on the effective date of this section. The Capitol Guide Board shall afford, to each person who is a member of the United States Capitol Guides immediately prior to such effective date, the opportunity to be appointed to a comparable position in the Capitol Guide Service without reduction in level of rank and seniority. For the purposes of the initial appointments of such persons, the number of such persons shall be considered to have been authorized for the Capitol Guide Service under section 441(c)(1) of this Act \[subsec. (c)(1) of this section\]. The per annum (gross) rate of pay of each such person so initially appointed shall be a rate equal to the per annum rate of pay received by the United States Capitol Guides, who worked full tours of duty, averaged over the last five calendar years (excluding 1968) ending prior to the date of enactment of this Act \[Oct. 26, 1970\]. Subject to section 441(i) of this Act \[subsec. (i) of this section\], the rate of each such person so initially appointed shall not, at any time after such initial appointment, be less than the rate at which he was initially appointed so long as he remains in the same position; but, when such position becomes vacant, the rate of pay of any subsequent appointee theretoshall be fixed in accordance with section 441 of this Act \[this section\].
 
 “(b) The United States Capitol Police Board shall transfer, on the effective date of this section, to the Capitol Guide Board, all personnel records, financial records, assets, and other property of the United States Capitol Guides, which exist immediately prior to such effective date.
 

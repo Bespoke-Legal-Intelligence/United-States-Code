@@ -72,7 +72,9 @@ Limitation on Sale or Lease.—(1) If notification is required by an order under
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

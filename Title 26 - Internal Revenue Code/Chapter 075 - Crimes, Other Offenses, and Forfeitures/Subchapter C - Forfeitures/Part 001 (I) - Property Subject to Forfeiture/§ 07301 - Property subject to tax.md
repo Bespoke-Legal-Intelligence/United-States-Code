@@ -6,7 +6,7 @@ Any property on which, or for or in respect whereof, any tax is imposed by this 
 
 #### (b) Raw materials
 
-All property found in the possession of any person intending to manufacture the same into property of a kind subject to tax for the purpose of selling such taxable property in fraud of the internal revenue laws, or with design to evade the payment of such tax, may also be seized, and shall be forfeited to the United States.
+All property found in the possession of any person intending to manufacture the same into property of a kind subject to tax for the purposeof selling such taxable property in fraud of the internal revenue laws, or with design to evade the payment of such tax, may also be seized, and shall be forfeited to the United States.
 
 #### (c) Equipment
 

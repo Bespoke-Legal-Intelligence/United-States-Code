@@ -6,7 +6,7 @@ Whenever any vessel which shall have been built, purchased, fitted out in whole 
 
 #### (b) “Vessels of the United States” defined
 
-Every vessel which is documented, owned, or controlled in the United States, and every vessel of foreign registry which is, directly or indirectly, substantially owned or controlled by anycitizen of, or corporation incorporated, owned, or controlled in, the United States, shall, for the purposes of this section, be deemed a vessel of the United States.
+Every vessel which is documented, owned, or controlled in the United States, and every vessel of foreign registry which is, directly or indirectly, substantially owned or controlled by any citizen of, or corporation incorporated, owned, or controlled in, the United States, shall, for the purposes of this section, be deemed a vessel of the United States.
 
 #### (c) Acts constituting prima facie evidence vessel engaged in smuggling
 

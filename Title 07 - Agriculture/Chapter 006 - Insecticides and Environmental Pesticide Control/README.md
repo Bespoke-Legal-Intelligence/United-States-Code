@@ -25,10 +25,10 @@
 | (i) | District court. |
 | (j) | Environment. |
 | (k) | Fungus. |
-| (<i>l)</i> | Imminent hazard. |
+| (<i>l</i>) | Imminent hazard. |
 | (m) | Inert ingredient. |
 | (n) | Ingredient statement. |
-| (<i>o)</i> | Insect. |
+| (<i>o</i>) | Insect. |
 | (p) | Label and labeling. |
 | (q) | Misbranded. |
 | (r) | Nematode. |
@@ -47,6 +47,13 @@
 | (ee) | To use any registered pesticide in a manner inconsistent with its labeling. |
 | (ff) | Outstanding data requirement. |
 | (gg) | To distribute or sell. |
+| (hh) | Nitrogen stabilizer. |
+| (jj) | Maintenance applicator. |
+| (kk) | Service technician. |
+| (<i>ll</i>) | Minor use. |
+| (mm) | Antimicrobial pesticide. |
+| (nn) | Public health pesticide. |
+| (<i>oo</i>) | Vector. |
 | 136a. | Registration of pesticides. |
 | (a) | Requirement of registration. |
 | (b) | Exemptions. |
@@ -54,6 +61,8 @@
 | (d) | Classification of pesticides. |
 | (e) | Products with same formulation and claims. |
 | (f) | Miscellaneous. |
+| (g) | Registration review. |
+| (h) | Registration requirements for antimicrobial pesticides. |
 | 136a–1. | Reregistration of registered pesticides. |
 | (a) | General rule. |
 | (b) | Reregistration phases. |
@@ -66,7 +75,9 @@
 | (i) | Fees. |
 | (j) | Exemption of certain registrants. |
 | (k) | Reregistration and expedited processing fund. |
-| (<i>l)</i> | Judicial review. |
+| (<i>l</i>) | Performance measures and goals. |
+| (m) | Judicial review. |
+| (n) | Authorization of funds to develop public health data. |
 | 136b. | Transferred. |
 | 136c. | Experimental use permits. |
 | (a) | Issuance. |
@@ -77,7 +88,7 @@
 | (f) | State issuance of permits. |
 | (g) | Exemption for agricultural research agencies. |
 | 136d. | Administrative review; suspension. |
-| (a) | Cancellation after five years. |
+| (a) | Existing stocks and information. |
 | (b) | Cancellation and change in classification. |
 | (c) | Suspension. |
 | (d) | Public hearings and scientific review. |
@@ -119,6 +130,10 @@
 | (e) | Federal or State provisions. |
 | (f) | Surveys and reports. |
 | (g) | Regulations. |
+| 136i–2. | Collection of pesticide use information. |
+| (a) | In general. |
+| (b) | Collection. |
+| (c) | Coordination. |
 | 136j. | Unlawful acts. |
 | (a) | In general. |
 | (b) | Exemptions. |
@@ -159,10 +174,12 @@
 | (a) | Research. |
 | (b) | National monitoring plan. |
 | (c) | Monitoring. |
+| 136r–1. | Integrated Pest Management. |
 | 136s. | Solicitation of comments; notice of public hearings. |
 | (a) | Secretary of Agriculture. |
-| (b) | Views. |
-| (c) | Notice. |
+| (b) | Secretary of Health and Human Services. |
+| (c) | Views. |
+| (d) | Notice. |
 | 136t. | Delegation and cooperation. |
 | (a) | Delegation. |
 | (b) | Cooperation. |
@@ -192,7 +209,13 @@
 | (a) | In general. |
 | (b) | Pest control availability. |
 | (c) | Integrated pest management. |
+| (d) | Public health pests. |
 | 136w–4. | Annual report. |
+| 136w–5. | Minimum requirements for training of maintenance applicators and service technicians. |
+| 136w–6. | Environmental Protection Agency minor use program. |
+| 136w–7. | Department of Agriculture minor use program. |
+| (a) | In general. |
+| (b) | Minor use pesticide data and revolving fund. |
 | 136x. | Severability. |
 | 136y. | Authorization of appropriations. |
 

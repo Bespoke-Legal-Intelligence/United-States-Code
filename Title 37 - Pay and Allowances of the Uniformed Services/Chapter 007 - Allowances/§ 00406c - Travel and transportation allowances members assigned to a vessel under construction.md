@@ -16,7 +16,7 @@ Allowance Authorized.—(1) Under regulations prescribed by the Secretary concer
 
 &emsp;(B) the date on which the member becomes permanently assigned to the ship.
 
-(3) The amount of reimbursement for personally procured transportation or the allowance for transportation under this subsection maynot exceed the cost of Government-procured commercial round-trip air travel.
+(3) The amount of reimbursement for personally procured transportation or the allowance for transportation under this subsection may not exceed the cost of Government-procured commercial round-trip air travel.
 
 (b)
 

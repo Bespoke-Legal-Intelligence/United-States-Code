@@ -1,54 +1,72 @@
 ### §1455. Regulations
 
-(a) The President shall prescribe regulations to carry out this subchapter. Those regulations shall, so far as practicable, be uniform for the armed forces, the National Oceanic and Atmospheric Administration, and the Public Health Service. Those regulations shall—
+(a)
 
-&emsp;(1) provide that before the date the member becomes entitled to retired pay—
+In General.—The President shall prescribe regulations to carry out this subchapter. Those regulations shall, so far as practicable, be uniform for the uniformed services.
 
-&emsp;&emsp;(A) if the member is married, the member and the member's spouse shall be informed of the elections available under section 1448(a) of this title and the effects of such elections; and
+(b)
 
-&emsp;&emsp;(B) if the notification referred to in section 1448(a)(3)(E) of this title is required, any former spouse of the member shall be informed of the elections available and the effects of such elections; and
+Notice of Elections.—Regulations prescribed under this section shall provide that before the date on which a member becomes entitled to retired pay—
 
-&emsp;(2) establish procedures for depositing the amounts referred to in sections 1448(g), 1450(k)(2), and 1452(d) of this title.
+&emsp;(1) if the member is married, the member and the member's spouse shall be informed of the elections available under section 1448(a) of this title and the effects of such elections; and
 
-(b) The regulations prescribed pursuant to subsection (a) shall provide procedures for the payment of an annuity under this subchapter in the case of—
+&emsp;(2) if the notification referred to in section 1448(a)(3)(E) of this title is required, any former spouse of the member shall be informed of the elections available and the effects of such elections.
 
-&emsp;(1) a person for whom a guardian or other fiduciary has been appointed; and
+(c)
 
-&emsp;(2) a minor, mentally incompetent, or otherwise legally disabled person for whom a guardian or other fiduciary has not been appointed.
+Procedure for Depositing Certain Receipts.—Regulations prescribed under this section shall establish procedures for depositing the amounts referred to in sections 1448(g), 1450(k)(2), and 1452(d) of this title.
 
-(c) The regulations under subsection (b) may include provisions for the following:
+(d)
 
-&emsp;(1) In the case of an annuitant referred to in subsection (b)(1), payment of the annuity to the appointed guardian or other fiduciary.
+Payments to Guardians and Fiduciaries.—
 
-&emsp;(2) In the case of an annuitant referred to in subsection (b)(2), payment of the annuity to any person who, in the judgment of the Secretary concerned, is responsible for the care of the annuitant.
+&emsp;(1)
 
-&emsp;(3) Subject to paragraphs (4) and (5), a requirement for the payee of an annuity to spend or invest the amounts paid on behalf of the annuitant solely for benefit of the annuitant.
+In general.—Regulations prescribed under this section shall provide procedures for the payment of an annuity under this subchapter in the case of—
 
-&emsp;(4) Authority for the Secretary concerned to permit the payee to withhold from the annuity payment such amount, not in excess of 4 percent of the annuity, as the Secretary concerned considers a reasonable fee for the fiduciary services of the payee when a court appointment order provides for payment of such a fee to the payee for such services or the Secretary concerned determines that payment of a fee to such payee is necessary in order to obtain the fiduciary services of the payee.
+&emsp;&emsp;(A) a person for whom a guardian or other fiduciary has been appointed; and
 
-&emsp;(5) Authority for the Secretary concerned to require the payee to provide a surety bond in an amount sufficient to protect the interests of the annuitant and to pay for such bond out of the annuity.
+&emsp;&emsp;(B) a minor, mentally incompetent, or otherwise legally disabled person for whom a guardian or other fiduciary has not been appointed.
 
-&emsp;(6) A requirement for the payee of an annuity to maintain and, upon request, to provide to the Secretary concerned an accounting of expenditures and investments of amounts paid to the payee.
+&emsp;(2)
 
-&emsp;(7) In the case of an annuitant referred to in subsection (b)(2)—
+Authorized procedures.—The regulations under paragraph (1) may include provisions for the following:
 
-&emsp;&emsp;(A) procedures for determining incompetency and for selecting a payee to represent the annuitant for the purposes of this section, including provisions for notifying the annuitant of the actions being taken to make such a determination and to select a representative payee, an opportunity for the annuitant to review the evidence being considered, and an opportunity for the annuitant to submit additional evidence before the determination is made; and
+&emsp;&emsp;(A) In the case of an annuitant referred to in paragraph (1)(A), payment of the annuity to the appointed guardian or other fiduciary.
 
-&emsp;&emsp;(B) standards for determining incompetency, including standards for determining the sufficiency of medical evidence and other evidence.
+&emsp;&emsp;(B) In the case of an annuitant referred to in paragraph (1)(B), payment of the annuity to any person who, in the judgment of the Secretary concerned, is responsible for the care of the annuitant.
 
-&emsp;(8) Provisions for any other matters that the President considers appropriate in connection with the payment of an annuity in the case of a person referred to in subsection (b).
+&emsp;&emsp;(C) Subject to subparagraphs (D) and (E), a requirement for the payee of an annuity to spend or invest the amounts paid on behalf of the annuitant solely for benefit of the annuitant.
 
-(d) An annuity paid to a person on behalf of an annuitant in accordance with the regulations prescribed pursuant to subsection (b) discharges the obligation of the United States for payment to the annuitant of the amount of the annuity so paid.
+&emsp;&emsp;(D) Authority for the Secretary concerned to permit the payee to withhold from the annuity payment such amount, not in excess of 4 percent of the annuity, as the Secretary concerned considers a reasonable fee for the fiduciary services of the payee when a court appointment order provides for payment of such a fee to the payee for such services or the Secretary concerned determines that payment of a fee to such payee is necessary in order to obtain the fiduciary services of the payee.
 
-(Added Pub. L. 92–425, §1(3), Sept. 21, 1972, 86 Stat. 711; amended Pub. L. 99–145, title VII, §724, Nov. 8, 1985, 99 Stat. 678; Pub. L. 102–190, div. A, title VI, §654(a), Dec. 5, 1991, 105 Stat. 1389.)
+&emsp;&emsp;(E) Authority for the Secretary concerned to require the payee to provide a surety bond in an amount sufficient to protect the interests of the annuitant and to pay for such bond out of the annuity.
+
+&emsp;&emsp;(F) A requirement for the payee of an annuity to maintain and, upon request, to provide to the Secretary concerned an accounting of expenditures and investments of amounts paid to the payee.
+
+&emsp;&emsp;(G) In the case of an annuitant referred to in paragraph (1)(B)—
+
+&emsp;&emsp;&emsp;(i) procedures for determining incompetency and for selecting a payee to represent the annuitant for the purposes of this section, including provisions for notifying the annuitant of the actions being taken to make such a determination and to select a representative payee, an opportunity for the annuitant to review the evidence being considered, and an opportunity for the annuitant to submit additional evidence before the determination is made; and
+
+&emsp;&emsp;&emsp;(ii) standards for determining incompetency, including standards for determining the sufficiency of medical evidence and other evidence.
+
+&emsp;&emsp;(H) Provisions for any other matter that the President considers appropriate in connection with the payment of an annuity in the case of a person referred to in paragraph (1).
+
+&emsp;(3)
+
+Legal effect of payment to guardian or fiduciary.—An annuity paid to a person on behalf of an annuitant in accordance with the regulations prescribed pursuant to paragraph (1) discharges the obligation of the United States for payment to the annuitant of the amount of the annuity so paid.
+
+(Added Pub. L. 92–425, §1(3), Sept. 21, 1972, 86 Stat. 711; amended Pub. L. 99–145, title VII, §724, Nov. 8, 1985, 99 Stat. 678; Pub. L. 102–190, div. A, title VI, §654(a), Dec. 5, 1991, 105 Stat. 1389; Pub. L. 104–201, div. A, title VI, §634, Sept. 23, 1996, 110 Stat. 2577.)
 
 #### Amendments
+
+1996—Pub. L. 104–201 amended section generally, revising and restating provisions relating to regulations to carry out this subchapter.
 
 1991—Subsecs. (a) to (d). Pub. L. 102–190 designated existing provisions as subsec. (a) and added subsecs. (b) to (d).
 
 1985—Pars. (1), (2). Pub. L. 99–145 amended pars. (1) and (2) generally. Prior to amendment, pars. (1) and (2) read as follows:
 
-“(1) provide that, when the notification referred to in section 1448(a) of this title is required, the member and his spouse shall, before the date the member becomes entitled to retired or retainer pay, be informed of the elections available and the effects of such elections; and
+“(1) provide that, when the notification referred to in section 1448(a) of this title is required, the member andhis spouse shall, before the date the member becomes entitled to retired or retainer pay, be informed of the elections available and the effects of such elections; and
 
 “(2) establish procedures for depositing the amounts referred to in section 1452(d) of this title.”
 

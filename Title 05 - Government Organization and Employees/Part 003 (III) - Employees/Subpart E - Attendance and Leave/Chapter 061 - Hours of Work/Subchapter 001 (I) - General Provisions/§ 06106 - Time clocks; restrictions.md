@@ -10,7 +10,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 5 U.S.C. 27.
 
@@ -22,7 +24,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-<b>1982</b>—Pub. L. 97–221 substituted “District of Columbia, except that the Bureau of Engraving and Printing may use such recording clocks” for “District of Columbia”.
+1982—Pub. L. 97–221 substituted “District of Columbia, except that the Bureau of Engraving and Printing may use such recording clocks” for “District of Columbia”.
 
 #### Effective Date of 1982 Amendment
 

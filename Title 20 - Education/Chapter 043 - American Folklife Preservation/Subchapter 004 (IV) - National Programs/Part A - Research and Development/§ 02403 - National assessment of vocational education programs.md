@@ -10,7 +10,7 @@
 
 The assessment required under subsection (a) of this section shall include descriptions and evaluations of—
 
-&emsp;(1) the effect of this chapter on State and tribal administration of vocational education programs and on local vocational education practices, including the capacity of State, tribal and local vocational education systems to address the priorities identified in this chapter;
+&emsp;(1) the effect of this chapter on State and tribal administration of vocational education programs and on local vocational educationpractices, including the capacity of State, tribal and local vocational education systems to address the priorities identified in this chapter;
 
 &emsp;(2) expenditures at the Federal, State, tribal and local levels to address program improvement in vocational education, including the impact of Federal allocation requirements (such as within-State allocation formulas) on the delivery of services;
 
@@ -88,7 +88,7 @@ The Wagner-Peyser Act, referred to in subsec. (b)(9), is act June 6, 1933, ch. 4
 
 #### Change of Name
 
-Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Economic and Educational Opportunities of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Fifth Congress, Jan. 7, 1997.
 
 #### Effective Date of 1990 Amendment
 

@@ -22,7 +22,13 @@ Act of August 28, 1937 (50 Stat. 874; 43 U.S.C. 1181a–1181j), referred to in s
 
 #### Availability of Funds for Improvement, Protection, or Rehabilitation of Damaged Public Lands
 
-Pub. L. 103–332, title I, Sept. 30, 1994, 108 Stat. 2501, provided in part: “That notwithstanding any provision to the contrary of section 305(a) of the Act of October 21, 1976 (43 U.S.C. 1735(a)), any moneys that have been or will be received pursuant to that section, whether as a result of forfeiture, compromise, or settlement, if not appropriate for refund pursuant to section 305(c) of that Act (43 U.S.C. 1735(c)), shall be available and may be expended under the authority of this or subsequent appropriations Acts by the Secretary to improve, protect, or rehabilitate any public lands administered through the Bureau of Land Management which have been damaged by the action of a resource developer, purchaser, permittee, or any unauthorized person, without regard to whether all moneys collected from each such forfeiture, compromise, or settlement are used on the exact lands damage to which led to the forfeiture, compromise, or settlement: <i>Provided further</i>, That such moneys are in excess of amounts needed to repair damage to the exact land for which collected.” Similar provisions were contained in the following prior appropriation acts:
+Pub. L. 104–208, div. A, title I, §101(d) \[title I\], Sept. 30, 1996, 110 Stat. 3009–181, 3009–184, provided in part: “That notwithstanding any provision to the contrary of section 305(a) of Public Law 94–579 (43 U.S.C. 1735(a)), any moneys that have been or will be received pursuant to that section, whether as a result of forfeiture, compromise, or settlement, if not appropriate for refund pursuant to section 305(c) of that Act (43 U.S.C. 1735(c)), shall be available and may be expended under the authority of this Act \[probably means the Department of the Interior and Related Agencies Appropriations Act, 1997, §101(d) of div. A of Pub. L. 104–208, see Tables for classification\] by the Secretary to improve, protect, or rehabilitate any public lands administered through the Bureau of Land Management which have been damaged by the action of a resource developer, purchaser, permittee, or any unauthorized person, without regard to whether all moneys collected from each such action are used on the exact lands damaged \[sic\] which led to the action: <i>Provided further</i>, That any such moneys that are in excess of amounts needed to repair damage to the exact land for which funds were collected may be used to repair other damaged public lands.”
+
+Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 104–134, title I, §101(c) \[title I\], Apr. 26, 1996, 110 Stat. 1321–156, 1321–158; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.
+
+Pub. L. 103–332, title I, Sept. 30, 1994, 108 Stat. 2501.
 
 Pub. L. 103–138, title I, Nov. 11, 1993, 107 Stat. 1381.
 

@@ -4,7 +4,7 @@
 
 #### (1) General rule
 
-&emsp;At the election of the taxpayer, expenditures paid or incurred during the taxable year for the purpose of ascertaining the existence, location, extent, or quality of any deposit of ore or other mineral, and paid or incurred before the beginning of the development stage of the mine, shall be allowed as a deduction in computing taxable income. This subsection shall apply only with respect to the amount of such expenditures which, but for this subsection, would not be allowable as a deduction for the taxable year. This subsection shall not apply to expenditures for the acquisition or improvement of property of a character which is subject to the allowance for depreciation provided in section 167, but allowances for depreciation shall be considered, for purposes of this subsection, as expenditures paid or incurred. In no case shall this subsection apply with respect to amounts paid or incurred for the purpose of ascertaining the existence, location, extent, or quality of any deposit of oil or gas or of any mineral with respect to which a deduction forpercentage depletion is not allowable under section 613.
+&emsp;At the election of the taxpayer, expenditures paid or incurred during the taxable year for the purpose of ascertaining the existence, location, extent, or quality of any deposit of ore or other mineral, and paid or incurred before the beginning of the development stage of the mine, shall be allowed as a deduction in computing taxable income. This subsection shall apply only with respect to the amount of such expenditures which, but for this subsection, would not be allowable as a deduction for the taxable year. This subsection shall not apply to expenditures for the acquisition or improvement of property of a character which is subject to the allowance for depreciation provided in section 167, but allowances for depreciation shall be considered, for purposes of this subsection, as expenditures paid or incurred. In no case shall this subsection apply with respect to amounts paid or incurred for the purpose of ascertaining the existence, location, extent, or quality of any deposit of oil or gas or of any mineral with respect to which a deduction for percentage depletion is not allowable under section 613.
 
 #### (2) Elections
 
@@ -26,7 +26,7 @@
 
 &emsp;If, in any taxable year, any mine with respect to which expenditures were deducted pursuant to subsection (a) reaches the producing stage, then—
 
-&emsp;&emsp;(A) If the taxpayer so elects with respect to all such mines reaching the producing stage during the taxable year, he shall include in gross income for the taxable year an amount equal to the adjusted exploration expenditures with respect to such mines, and the amount so included in income shall be treated for purposes of this subtitle as expenditures which (i) are paid or incurred on the respective dates on which the mines reach the producing stage, and (ii) are properly chargeable to capital account.
+&emsp;&emsp;(A) If the taxpayer so elects with respect to all such mines reaching the producing stage during the taxable year, he shall include in gross income for the taxable year an amount equal to the adjusted exploration expenditures with respect to such mines, and the amount so included in income shall betreated for purposes of this subtitle as expenditures which (i) are paid or incurred on the respective dates on which the mines reach the producing stage, and (ii) are properly chargeable to capital account.
 
 &emsp;&emsp;(B) If subparagraph (A) does not apply with respect to any such mine, then the deduction for depletion under section 611 with respect to the property shall be disallowed until the amount of depletion which would be allowable but for this subparagraph equals the amount of the adjusted exploration expenditures with respect to such mine.
 
@@ -104,7 +104,7 @@ For purposes of this section
 
 &emsp;&emsp;(B) for the taxable year and for each preceding taxable year, the amount (if any) by which (i) the amount which would have been allowable for percentage depletion under section 613 but for the deduction of such expenditures, exceeds (ii) the amount allowable for depletion under section 611,
 
-> &emsp;properly adjusted for any amounts included in gross income under subsection (b) or (c) and for any amounts of gain to which subsection (d) applied.
+> &emsp;properly adjusted for any amounts included in gross income under subsection (b) or (c) andfor any amounts of gain to which subsection (d) applied.
 
 #### (2) Mining property
 

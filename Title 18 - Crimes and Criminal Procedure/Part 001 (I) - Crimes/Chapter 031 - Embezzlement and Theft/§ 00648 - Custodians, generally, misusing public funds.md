@@ -1,8 +1,8 @@
 ### §648. Custodians, generally, misusing public funds
 
-Whoever, being an officer or other person charged by any Act of Congress with the safe-keeping of the public moneys, loans, uses, or converts to his own use, or deposits in any bank, including any branch or agency of a foreign bank (as such terms are defined in paragraphs (1) and (3) of section 1(b) of the International Banking Act of 1978), or exchanges for other funds, except as specially allowed by law, any portion of the public moneys intrusted to him for safe-keeping, is guilty of embezzlement of the money so loaned, used, converted, deposited, or exchanged, and shall be fined under this title or in a sum equal to the amount of money so embezzled, whichever is greater, or imprisoned not more than ten years, or both; but if the amount embezzled does not exceed $100, he shall be fined under this title or imprisoned not more than one year, or both.
+Whoever, being an officer or other person charged by any Act of Congress with the safe-keeping of the public moneys, loans, uses, or converts to his own use, or deposits in any bank, including any branch or agency of a foreign bank (as such terms are defined in paragraphs (1) and (3) of section 1(b) of the International Banking Act of 1978), or exchanges for other funds, except as specially allowed by law, any portion of the public moneys intrusted to him for safe-keeping, is guilty of embezzlement of the money so loaned, used, converted, deposited, or exchanged, and shall be fined under this title or in a sum equal to the amount of money so embezzled, whichever is greater, or imprisoned not more than ten years, or both; but if the amount embezzled does not exceed $1,000, he shall be fined under this title or imprisoned not more than one year, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 727; Nov. 29, 1990, Pub. L. 101–647, title XXV, §2597(d), 104 Stat. 4909; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(H), (2)(G), 108 Stat. 2147, 2148.)
+(June 25, 1948, ch. 645, 62 Stat. 727; Nov. 29, 1990, Pub. L. 101–647, title XXV, §2597(d), 104 Stat. 4909; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(H), (2)(G), 108 Stat. 2147, 2148; Oct. 11, 1996, Pub. L. 104–294, title VI, §606(a), 110 Stat. 3511.)
 
 #### Historical and Revision Notes
 
@@ -20,6 +20,8 @@ Section 1(b) of the International Banking Act of 1978, referred to in text, is c
 
 #### Amendments
 
+1996—Pub. L. 104–294 substituted “$1,000” for “$100”.
+
 1994—Pub. L. 103–322, §330016(2)(G), substituted “shall be fined under this title or in a sum equal to the amount of money so embezzled, whichever is greater, or imprisoned” for “shall be fined in a sum equal to the amount of money so embezzled or imprisoned”.
 
 Pub. L. 103–322, §330016(1)(H), substituted “fined under this title” for “fined not more than $1,000” after “he shall be”.
@@ -34,5 +36,5 @@ Refusal to pay as evidence of embezzlement, see section 3487 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 649 of this title; title 19 section 2081; title 26 section 7608.
+This section is referred to in section 649 of this title; title 8 section 1363a; title 19 section 2081; title 26 section 7608.
 

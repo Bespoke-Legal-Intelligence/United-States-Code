@@ -46,7 +46,7 @@ Section 640d–12 of this title, referred to in subsec. (a), was amended general
 
 The Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970 (84 Stat. 1894), referred to in subsec. (c), is Pub. L. 91–646, Jan. 2, 1971, 84 Stat. 1894, as amended, which is classified generally to chapter 61 (§4601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4601 of Title 42 and Tables.
 
-The United States Housing Act of 1937, referred to in subsec. (d)(1), is act Sept. 1, 1937, ch. 896, as restated generally by Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 653, which is classified generally to chapter 8 (§1437 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 1437 of Title 42 and Tables.
+The United States Housing Act of 1937, referred to in subsec. (d)(1), is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 653, which is classified generally to chapter 8 (§1437 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 1437 of Title 42 and Tables.
 
 #### Amendments
 

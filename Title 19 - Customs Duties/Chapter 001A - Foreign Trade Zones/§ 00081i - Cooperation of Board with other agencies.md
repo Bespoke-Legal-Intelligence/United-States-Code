@@ -6,7 +6,7 @@ The Board shall cooperate with the State, subdivision, and municipality in which
 
 #### Change of Name
 
-“United States Postal Service” substituted in text for “Post Office Department” pursuant to Pub. L. 91–375, §§4(a), 6(<i>o</i>), Aug. 12, 1970, 84 Stat. 773, 783, which are set out as notes preceding section 101 of Title 39, Postal Service, and under section 201 of Title 39, respectively, which abolished Post Office Department, transferred its functions to United States Postal Service, and provided that references in other laws to Post Office Department shall be considered a reference to United States Postal Service.
+“United States Postal Service” substituted in text for “Post Office Department” pursuant to Pub. L. 91–375, §§4(a), 6(<i>o</i>), Aug. 12, 1970, 84 Stat. 773, 783, which are set out as notes preceding section 101 of Title 39,Postal Service, and under section 201 of Title 39, respectively, which abolished Post Office Department, transferred its functions to United States Postal Service, and provided that references in other laws to Post Office Department shall be considered a reference to United States Postal Service.
 
 #### Transfer of Functions
 

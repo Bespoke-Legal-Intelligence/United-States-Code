@@ -8,11 +8,9 @@ By virtue of act June 25, 1938, ch. 675, §902(c), 52 Stat. 1059 \[section 392(b
 
 This subchapter is referred to in section 392 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “Account”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be “Liens”.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “Liens”.</i>
-
-<i><sup>3</sup></i><i> So in original. Probably should be “makes”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be “makes”.</i>
 
 
 ---

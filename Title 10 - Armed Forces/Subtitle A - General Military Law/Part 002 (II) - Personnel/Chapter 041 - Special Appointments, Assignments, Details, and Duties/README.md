@@ -6,7 +6,7 @@
 | [711a.](%C2%A7%2000711a%20-%20American%20National%20Red%20Cross%20detail%20of%20commissioned%20officers.md) | American National Red Cross: detail of commissioned officers. |
 | [712\.](%C2%A7%2000712%20-%20Foreign%20governments%20detail%20to%20assist.md) | Foreign governments: detail to assist. |
 | [713\.](%C2%A7%2000713%20-%20State%20Department%20assignment%20or%20detail%20as%20couriers%20and%20building%20inspectors.md) | State Department: assignment or detail as couriers and building inspectors. |
-| \[714, 715. Repealed.\] |  |
+| \[714, 715. | Repealed.\] |
 | [716\.](%C2%A7%2000716%20-%20Commissioned%20officers%20transfers%20among%20the%20armed%20forces%2C%20the%20National%20Oceanic%20and%20Atmospheric%20Administration%2C%20and%20the%20Public%20Health%20Service.md) | Commissioned officers: transfers among the armed forces, the National Oceanic and Atmospheric Administration, and the Public Health Service. |
 | [717\.](%C2%A7%2000717%20-%20Members%20of%20the%20armed%20forces%20participation%20in%20international%20sports.md) | Members of the armed forces: participation in international sports. |
 | \[718. | Repealed.\] |

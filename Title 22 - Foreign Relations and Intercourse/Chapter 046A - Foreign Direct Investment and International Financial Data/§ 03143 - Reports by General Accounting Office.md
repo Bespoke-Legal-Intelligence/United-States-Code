@@ -2,13 +2,13 @@
 
 #### (a) In general
 
-The Comptroller General, to the extent permitted by law, including section 3144 of this title, is authorized to review the information described in section 3142(b) of this title for purposes of preparing the report required under subsection (b) of this section. Nothing in this section authorizes disclosure of any individually identifiable data or information in any form that can be associated with or otherwise identify, directly or indirectly, any person, including any enterprise or establishment.
+The Comptroller General, to the extent permitted by law, including section 3144 of this title, is authorized to review the information described in section 3142(b) of this title for purposes of preparing the reports referred to in subsection (b) of this section. Nothing in this section authorizes disclosure of any individually identifiable data or information in any form that can be associated with or otherwise identify, directly or indirectly, any person, including any enterprise or establishment.
 
-#### (b) Report
+#### (b) Reports
 
-Not later than 5 months after each report issued by the Secretary of Commerce under section 3142 of this title, the Comptroller General of the United States shall submit to the Committee on Energy and Commerce, the Committee on Ways and Means, and the Committee on Foreign Affairs of the House of Representatives, to the Committee on Commerce, Science, and Transportation of the Senate, and to the Joint Economic Committee of the Congress a report—
+Consistent with the provisions of this section, the Comptroller General may submit to the Committee on Energy and Commerce, the Committee on Ways and Means, and the Committee on Foreign Affairs of the House of Representatives, to the Committee on Commerce, Science, and Transportation of the Senate, and to the Joint Economic Committee of the Congress reports—
 
-&emsp;(1) analyzing the report of the Secretary of Commerce;
+&emsp;(1) analyzing reports issued by the Secretary of Commerce under section 3142 of this title;
 
 &emsp;(2) making recommendations for changes in the analysis done in the report due the following year under section 3142 of this title;
 
@@ -19,8 +19,6 @@ Not later than 5 months after each report issued by the Secretary of Commerce un
 &emsp;(5) making recommendations for possible additional policy coordination within the executive branch affecting foreign direct investment in the United States; and
 
 &emsp;(6) making recommendations for improvement of the coverage, industry classification, and consistency among Federal agencies of their respective surveys.
-
-> Reports under this subsection shall be issued only with respect to the first 3 reports issued by the Secretary of Commerce under section 3142 of this title.
 
 #### (c) Other reviews and reports
 
@@ -42,11 +40,21 @@ In preparing any report under this section, the Comptroller General shall not—
 
 The access by the Comptroller General to information under this Act shall be in conformity with section 716 of title 31.
 
-(Pub. L. 101–533, §4, Nov. 7, 1990, 104 Stat. 2346.)
+(Pub. L. 101–533, §4, Nov. 7, 1990, 104 Stat. 2346; Pub. L. 104–316, title I, §111(c), Oct. 19, 1996, 110 Stat. 3833.)
 
 #### References in Text
 
 This Act and the amendments made by this Act, referred to in subsecs. (b)(4) and (e), is Pub. L. 101–533, Nov. 7, 1990, 104 Stat. 2344, known as the Foreign Direct Investment and International Financial Data Improvements Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 3141 of this title and Tables.
+
+#### Amendments
+
+1996—Subsec. (a). Pub. L. 104–316, §111(c)(1), substituted “reports referred to in” for “report required under”.
+
+Subsec. (b). Pub. L. 104–316, §111(c)(2)(A), (D), substituted “Reports” for “Report” in heading, in introductory provisions substituted “Consistent with the provisions of this section, the Comptroller General may submit” for “Not later than 5 months after each report issued by the Secretary of Commerce under section 3142 of this title, the Comptroller General of the United States shall submit”, and struck out closing provisions which read as follows: “Reports under this subsection shall be issued only with respect to the first 3 reports issued by the Secretary of Commerce under section 3142 of this title.”
+
+Pub. L. 104–316, §111(c)(2)(B), which directed that subsec. (b) be amended by substituting “Congress reports” for “Congress, a report”, was executed in the introductory provisions by making the substitution for “Congress a report”, to reflect the probable intent of Congress.
+
+Subsec. (b)(1). Pub. L. 104–316, §111(c)(2)(C), substituted “reports issued by the Secretary of Commerce under section 3142 of this title” for “the report of the Secretary of Commerce”.
 
 #### Change of Name
 

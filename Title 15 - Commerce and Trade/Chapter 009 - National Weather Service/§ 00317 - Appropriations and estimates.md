@@ -1,6 +1,6 @@
 ### §317. Appropriations and estimates
 
-The appropriations for the support of the National Weather Service shall be made with those of the other bureaus of the Department of Commerce, and it shall be the duty of the Secretary of Commerce to prepare future estimates for theNational Weather Service which shall be specially developed and extended in the interests of agriculture.
+The appropriations for the support of the National Weather Service shall be made with those of the other bureaus of the Department of Commerce, and it shall be the duty of the Secretary of Commerce to prepare future estimates for the National Weather Service which shall be specially developed and extended in the interests of agriculture.
 
 (Oct. 1, 1890, ch. 1266, §9, 26 Stat. 653; 1940 Reorg. Plan No. IV, §8, eff. June 30, 1940, 5 F.R. 2421, 54 Stat. 1236; 1965 Reorg. Plan No. 2, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090.)
 
@@ -10,7 +10,7 @@ Section is based on section 9 (less 1st 35 words) of act Oct. 1890. Remainder of
 
 #### Transfer of Functions
 
-Weather Bureau consolidated with Coast and Geodetic Survey to form new agency in Department of Commerce known as Environmental Science Services Administration by Reorg. Plan No. 2, of 1965, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318, set out as a note under section 311 of this title. Functions of Bureau and Chief of Bureau transferred to Secretary of Commerce by Reorg. Plan. Subsequently, Environmental Science Services Administration abolished and National Oceanic and Atmospheric Administration established. By Department Organization Order 25–5A, Secretary delegated to NOAA his functions under this chapter of the Code. By order of Acting Associate Administrator of NOAA, organizational name of Weather Bureau changed to National Weather Service. For further details, see Codification note set out under section 311 of this title.
+Weather Bureau consolidated with Coast and Geodetic Survey to form new agency in Department of Commerce known as Environmental Science Services Administration by Reorg. Plan No. 2, of 1965, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318, set out as a note under section 311 of this title. Functions of Bureau and Chief of Bureau transferred to Secretary of Commerce by Reorg. Plan. Subsequently, Environmental Science Services Administration abolished and National Oceanic and Atmospheric Administration established. ByDepartment Organization Order 25–5A, Secretary delegated to NOAA his functions under this chapter of the Code. By order of Acting Associate Administrator of NOAA, organizational name of Weather Bureau changed to National Weather Service. For further details, see Codification note set out under section 311 of this title.
 
 Reorg. Plan No. IV of 1940 transferred Weather Bureau from Department of Agriculture to Department of Commerce.
 

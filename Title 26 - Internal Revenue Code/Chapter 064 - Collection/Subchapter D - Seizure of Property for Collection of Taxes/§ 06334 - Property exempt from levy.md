@@ -10,11 +10,11 @@ There shall be exempt from levy—
 
 #### (2) Fuel, provisions, furniture, and personal effects
 
-&emsp;If the taxpayer is the head of a family, so much of the fuel, provisions, furniture, and personal effects in his household, and of the arms for personal use, livestock, and poultry of the taxpayer, as does not exceed $1,650 ($1,550 in the case of levies issued during 1989) in value;
+&emsp;So much of the fuel, provisions, furniture, and personal effects in the taxpayer's household, and of the arms for personal use, livestock, and poultry of the taxpayer, as does not exceed $2,500 in value;
 
 #### (3) Books and tools of a trade, business, or profession
 
-&emsp;So many of the books and tools necessary for the trade, business, or profession of the taxpayer as do not exceed in the aggregate $1,100 ($1,050 in the case of levies issued during 1989) in value.
+&emsp;So many of the books and tools necessary for the trade, business, or profession of the taxpayer as do not exceed in the aggregate $1,250 in value.
 
 #### (4) Unemployment benefits
 
@@ -52,7 +52,7 @@ There shall be exempt from levy—
 
 &emsp;Any amount payable to an individual as a recipient of public assistance under—
 
-&emsp;&emsp;(A) title IV (relating to aid to families with dependent children) or title XVI (relating to supplemental security income for the aged, blind, and disabled) of the Social Security Act, or
+&emsp;&emsp;(A) title IV or title XVI (relating to supplemental security income for the aged, blind, and disabled) of the Social Security Act, or
 
 &emsp;&emsp;(B) State or local government public assistance or public welfare programs for which eligibility is determined by a needs or income test.
 
@@ -104,7 +104,21 @@ Property described in subsection (a)(13) shall not be exempt from levy if—
 
 &emsp;(2) the Secretary finds that the collection of tax is in jeopardy.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 784; Aug. 28, 1958, Pub. L. 85–840, title IV, §406, 72 Stat. 1047; June 21, 1965, Pub. L. 89–44, title VIII, §812(a), 79 Stat. 170; Nov. 2, 1966, Pub. L. 89–719, title I, §104(c), 80 Stat. 1137; Dec. 30, 1969, Pub. L. 91–172, title IX, §945(a), 83 Stat. 729; Oct. 4, 1976, Pub. L. 94–455, title XII, §1209(a)–(c), title XIX, §1906(b)(13)(A), 90 Stat. 1709, 1710, 1834; Sept. 3, 1982, Pub. L. 97–248, title III, §347(a), 96 Stat. 638; July 18, 1984, Pub. L. 98–369, div. B, title VI, §2661(<i>o</i>)(5), 98 Stat. 1159; Oct. 22, 1986, Pub. L. 99–514, title XV, §1565(a), 100 Stat. 2763; Nov. 10, 1988, Pub. L. 100–647, title I, §1015(<i>o</i>), title VI, §6236(c), 102 Stat. 3572, 3738; Aug. 6, 1991, Pub. L. 102–83, §5(c)(2), 105 Stat. 406.)
+#### (f) Inflation adjustment
+
+#### (1) In general
+
+&emsp;In the case of any calendar year beginning after 1997, each dollar amount referred to in paragraphs (2) and (3) of subsection (a) shall be increased by an amount equal to—
+
+&emsp;&emsp;(A) such dollar amount, multiplied by
+
+&emsp;&emsp;(B) the cost-of-living adjustment determined under section 1(f)(3) for such calendar year, by substituting “calendar year 1996” for “calendar year 1992” in subparagraph (B) thereof.
+
+#### (2) Rounding
+
+&emsp;If any dollar amount after being increased under paragraph (1) is not a multiple of $10, such dollar amount shall be rounded to the nearest multiple of $10.
+
+(Aug. 16, 1954, ch. 736, 68A Stat. 784; Aug. 28, 1958, Pub. L. 85–840, title IV, §406, 72 Stat. 1047; June 21, 1965, Pub. L. 89–44, title VIII, §812(a), 79 Stat. 170; Nov. 2, 1966, Pub. L. 89–719, title I, §104(c), 80 Stat. 1137; Dec. 30, 1969, Pub. L. 91–172, title IX, §945(a), 83 Stat. 729; Oct. 4, 1976, Pub. L. 94–455, title XII, §1209(a)–(c), title XIX, §1906(b)(13)(A), 90 Stat. 1709, 1710, 1834; Sept. 3, 1982, Pub. L. 97–248, title III, §347(a), 96 Stat. 638; July 18, 1984, Pub. L. 98–369, div. B, title VI, §2661(<i>o</i>)(5), 98 Stat. 1159; Oct. 22, 1986, Pub. L. 99–514, title XV, §1565(a), 100 Stat. 2763; Nov. 10, 1988, Pub. L. 100–647, title I, §1015(<i>o</i>), title VI, §6236(c), 102 Stat. 3572, 3738; Aug. 6, 1991, Pub. L. 102–83, §5(c)(2), 105 Stat. 406; July 30, 1996, Pub. L. 104–168, title V, §502(a)–(c), 110 Stat. 1461; Aug. 22, 1996, Pub. L. 104–193, title I, §110(<i>l</i>)(6), 110 Stat. 2173.)
 
 #### References in Text
 
@@ -114,9 +128,17 @@ The Railroad Unemployment Insurance Act, referred to in subsec. (a)(6), is act J
 
 The Social Security Act, referred to in subsecs. (a)(11)(A) and (c), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles IV and XVI of the Social Security Act are classified generally to subchapters IV (§601 et seq.) and XVI (§1381 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. Section 207 of the Social Security Act is classified to section 407 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
-The Job Training Partnership Act, referred to in subsec. (a)(12), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, as amended, which is classified generally to chapter 19\(§1501 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of Title 29 and Tables.
+The Job Training Partnership Act, referred to in subsec. (a)(12), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, as amended, which is classified generally to chapter 19 (§1501 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of Title 29 and Tables.
 
 #### Amendments
+
+1996—Subsec. (a)(2). Pub. L. 104–168, §502(a), substituted “So” for “If the taxpayer is the head of a family, so”, “the taxpayer's household” for “his household”, and “$2,500” for “$1,650 ($1,550 in the case of levies issued during 1989)”.
+
+Subsec. (a)(3). Pub. L. 104–168, §502(b), substituted “$1,250” for “$1,100 ($1,050 in the case of levies issued during 1989)”.
+
+Subsec. (a)(11)(A). Pub. L. 104–193 struck out “(relating to aid to families with dependent children)” after “title IV”.
+
+Subsec. (f). Pub. L. 104–168, §502(c), added subsec. (f).
 
 1991—Subsec. (a)(6). Pub. L. 102–83 substituted “1562” for “562”.
 
@@ -178,6 +200,12 @@ Subsec. (a)(6), (7). Pub. L. 89–719, §104(c)(2), added pars. (6) and (7).
 
 1958—Subsec. (a)(4). Pub. L. 85–840 added par. (4).
 
+#### Effective Date of 1996 Amendments
+
+Amendment by section 110(<i>l</i>)(3)–(5) of Pub. L. 104–193 effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, set out as a note under section 601 of Title 42, The Public Health and Welfare.
+
+Section 502(d) of Pub. L. 104–168 provided that: “The amendments made by this section \[amending this section\] shall take effect with respect to levies issued after December 31, 1996.”
+
 #### Effective Date of 1988 Amendment
 
 Section 1015(<i>o</i>) of Pub. L. 100–647 provided that the amendment made by that section is effective with respect to levies made after Dec. 31, 1988.
@@ -198,7 +226,7 @@ Section 347(b) of Pub. L. 97–248 provided that: “The amendments made by subs
 
 #### Effective Date of 1976 Amendment
 
-Section 1209(e) of Pub. L. 94–455, as amended by Pub. L. 94–528, §2(c), Oct. 17, 1976, 90 Stat. 2483, provided that: “The amendments made by this section \[amending this section and sections 6331 and 6332 of this title\] shall apply only with respect to levies made after February 28, 1977.”
+Section 1209(e) of Pub. L. 94–455, as amended by Pub. L. 94–528, §2(c), Oct. 17, 1976, 90 Stat. 2483, provided that:“The amendments made by this section \[amending this section and sections 6331 and 6332 of this title\] shall apply only with respect to levies made after February 28, 1977.”
 
 #### Effective Date of 1969 Amendment
 

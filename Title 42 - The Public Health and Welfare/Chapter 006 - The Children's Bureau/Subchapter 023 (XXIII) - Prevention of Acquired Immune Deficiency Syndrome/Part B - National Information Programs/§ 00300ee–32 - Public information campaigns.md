@@ -12,9 +12,9 @@ The Secretary may not provide financial assistance under subsection (a) of this 
 
 &emsp;(2) with respect to carrying out the purpose for which the assistance is to be provided, the application provides assurances of compliance satisfactory to the Secretary; and
 
-&emsp;(3) the application otherwise is in such form, is made in such manner, and contains such agreements, assurances, and information as the Secretary determines to be necessary to carry out this section.
+&emsp;(3) the application otherwise is in such form, is made in such manner, and contains suchagreements, assurances, and information as the Secretary determines to be necessary to carry out this section.
 
-(July 1, 1944, ch. 373, title XXV, formerly title XV, §2522, as added Nov. 4, 1988, Pub. L. 100–607, title II, §221, 102 Stat. 3103; renumbered title XXV, Aug. 16, 1989, Pub. L. 101–93, §5(e)(1), 103 Stat. 612; Oct. 27, 1992, Pub. L. 102–531, title III, §312(d)(23), 106 Stat. 3505.)
+(July 1, 1944, ch. 373, title XXV, formerly title XV, §2522, as added Nov. 4, 1988, Pub. L. 100–607, title II, §221, 102 Stat. 3103; renumbered title XXV, Aug. 16, 1989, Pub. L. 101–93, §5(e)(1), 103 Stat. 612; amended Oct. 27, 1992, Pub. L. 102–531, title III, §312(d)(23), 106 Stat. 3505.)
 
 #### Amendments
 

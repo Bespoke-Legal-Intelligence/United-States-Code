@@ -28,7 +28,9 @@ Limitation on Authority To Decide a Place Not an Eligible Place.—The Secretary
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -76,5 +78,5 @@ Section 419 of the Federal Aviation Act of 1958, referred to in subsec. (a)(1)(A
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 40109, 41110, 41715, 46301, 47115 of this title.
+This section is referred to in sections 41110, 41715, 47115 of this title.
 

@@ -36,5 +36,5 @@ In making grants under this part, the Secretary shall ensure an equitable distri
 
 #### Amendments
 
-1994—Subsec. (d)(2). Pub. L. 103–239 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “are developed in consultation with business, industry, and labor unions; and”.
+1994—Subsec. (d)(2). Pub. L. 103–239 amended par. (2) generally. Prior to amendment, par. (2) read as follows:“are developed in consultation with business, industry, and labor unions; and”.
 

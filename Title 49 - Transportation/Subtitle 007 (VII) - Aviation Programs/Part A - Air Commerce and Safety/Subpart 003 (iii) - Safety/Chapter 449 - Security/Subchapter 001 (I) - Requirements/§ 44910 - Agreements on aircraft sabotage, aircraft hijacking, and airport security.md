@@ -6,7 +6,9 @@ The Secretary of State shall seek multilateral and bilateral agreement on streng
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

@@ -6,7 +6,7 @@ Maximum Manufacturer Costs.—A standard under section 33102 or 33103 of this ti
 
 &emsp;(1) on a manufacturer of motor vehicles, compliance costs of more than $15 a motor vehicle; or
 
-&emsp;(2) on a manufacturer of major replacement parts, compliance costs for each part of more than the reasonable amount (but less than $15) that the Secretary of Transportation specifies in the standard.
+&emsp;(2) on a manufacturer of major replacement parts, compliance costs for each part of more than the reasonable amount (but less than $15)that the Secretary of Transportation specifies in the standard.
 
 (b)
 
@@ -14,7 +14,7 @@ Costs Involved in Engines and Transmissions.—For a manufacturer engaged in ide
 
 &emsp;(1) the costs of identifying engines and transmissions may not be considered in calculating the manufacturer's costs under subsection (a) of this section; and
 
-&emsp;(2) the manufacturer may not be required under the standard to conform to any identification system for engines and transmissionsthat imposes greater costs on the manufacturer than are incurred under the identification system used by the manufacturer on October 25, 1984.
+&emsp;(2) the manufacturer may not be required under the standard to conform to any identification system for engines and transmissions that imposes greater costs on the manufacturer than are incurred under the identification system used by the manufacturer on October 25, 1984.
 
 (c)
 
@@ -30,7 +30,9 @@ Cost Adjustments.—(1) In this subsection—
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

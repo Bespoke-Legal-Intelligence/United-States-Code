@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Congress declares it to be the policy of the United States to provide to every individual an equal opportunity to receive an education of high quality regardless of race, color, religion, sex, age, disability, national origin, or social class. Although the American educational system has pursued this objective, it has not been attained. Inequalities of opportunity to receive high quality education remain pronounced. To achieve the goal of quality education requires the continued pursuit of knowledge about education through research, development, improvement activities, data collection, synthesis, technical assistance, and information dissemination. While the direction of American education remains primarily the responsibility of State and localgovernments, the Federal Government has a clear responsibility to provide leadership in the conduct and support of scientific inquiry into the educational process.
+&emsp;The Congress declares it to be the policy of the United States to provide to every individual an equal opportunity to receive an education of high quality regardless of race, color, religion, sex, age, disability, national origin, or social class. Although the American educational system has pursued this objective, it has not been attained. Inequalities of opportunity to receive high quality education remain pronounced. To achieve the goal of quality education requires the continued pursuit of knowledge about education through research, development, improvement activities, data collection, synthesis, technical assistance, and information dissemination. While the direction of American education remains primarily the responsibility of State and local governments, the Federal Government has a clear responsibility to provide leadership in the conduct and support of scientific inquiry into the educational process.
 
 #### (2) Mission of Office
 
@@ -62,7 +62,7 @@
 
 #### (1) In general
 
-&emsp;The Assistant Secretary may appoint, for terms not to exceed three years (without regard to the provisions of title 5 governing appointment in the competitive service) and may compensate (without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates) such scientific or technical employees of the Office as the Assistant Secretary considers necessary to accomplish its functions, provided that—
+&emsp;The Assistant Secretary may appoint, for terms not to exceed three years (without regard to the provisions of title 5 governing appointment in the competitive service) and may compensate (without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classificationand General Schedule pay rates) such scientific or technical employees of the Office as the Assistant Secretary considers necessary to accomplish its functions, provided that—
 
 &emsp;&emsp;(A) at least 30 days prior to the appointment of any such employee, public notice is given of the availability of such position and an opportunity is provided for qualified individuals to apply and compete for such position;
 
@@ -342,7 +342,7 @@ Coordination and synthesis.—The Assistant Secretary is authorized to reserve n
 
 #### (A) In general
 
-&emsp;&emsp;From the amounts appropriated pursuant to paragraph (1) for any fiscal year, the Secretary is authorized, in accordance with the provisions of this paragraph, to award a grant of not more than $5,000,000 to a public or private institution, agency or organization for a period not to exceed 5 years for the purpose of conducting a State-by-State poll to determine the perceptions of recent graduates of secondary schools, their instructors in institutions of higher education, parents of recent such graduates, and employers of recent such graduates on how well schoolshave prepared students for further education or employment.
+&emsp;&emsp;From the amounts appropriated pursuant to paragraph (1) for any fiscal year, the Secretary is authorized, in accordance with the provisions of this paragraph, to award a grant of not more than $5,000,000 to a public or private institution, agency or organization for a period not to exceed 5 years for the purpose of conducting a State-by-State poll to determine the perceptions of recent graduates of secondary schools, their instructors in institutions of higher education, parents of recent such graduates, and employers of recent such graduates on how well schools have prepared students for further education or employment.
 
 #### (B) Matching requirement
 

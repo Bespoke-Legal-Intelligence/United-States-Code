@@ -20,7 +20,7 @@ As used in this subchapter:
 
 &emsp;&emsp;(1) any person other than a United States person, who—
 
-&emsp;&emsp;&emsp;(A) acts in the United States as an officer or employee of a foreign power, or as amember of a foreign power as defined in subsection (a)(4) of this section;
+&emsp;&emsp;&emsp;(A) acts in the United States as an officer or employee of a foreign power, or as a member of a foreign power as defined in subsection (a)(4) of this section;
 
 &emsp;&emsp;&emsp;(B) acts for or on behalf of a foreign power which engages in clandestine intelligence activities in the United States contrary to the interests of the United States, when the circumstances of such person's presence in the United States indicate that such person may engage in such activities in the United States, or when such person knowingly aids or abets any person in the conduct of such activities or knowingly conspires with any person to engage in such activities; or
 
@@ -52,7 +52,7 @@ As used in this subchapter:
 
 &emsp;(e) “Foreign intelligence information” means—
 
-&emsp;&emsp;(1) information that relates to, and if concerning a United States person is necessary to, the ability of the United States to protect against—
+&emsp;&emsp;(1) information that relates to, and if concerning a United States person is necessaryto, the ability of the United States to protect against—
 
 &emsp;&emsp;&emsp;(A) actual or potential attack or other grave hostile acts of a foreign power or an agent of a foreign power;
 
@@ -94,13 +94,13 @@ As used in this subchapter:
 
 &emsp;(k) “Aggrieved person” means a person who is the target of an electronic surveillance or any other person whose communications or activities were subject to electronic surveillance.
 
-&emsp;<i>(l)</i> “Wire communication” means any communication while it is being carried by a wire, cable, or other like connection furnished or operated by any person engaged as a common carrier in providing or operating such facilities for the transmission of interstate or foreign communications.
+&emsp;(<i>l</i>) “Wire communication” means any communication while it is being carried by a wire, cable, or other like connection furnished or operated by any person engaged as a common carrier in providing or operating such facilities for the transmission of interstate or foreign communications.
 
 &emsp;(m) “Person” means any individual, including any officer or employee of the Federal Government, or any group, entity, association, corporation, or foreign power.
 
 &emsp;(n) “Contents”, when used with respect to a communication, includes any information concerning the identity of the parties to such communication or the existence, substance, purport, or meaning of that communication.
 
-&emsp;<i>(o)</i> “State” means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Trust Territory of the Pacific Islands, and any territory or possession of the United States.
+&emsp;(<i>o</i>) “State” means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Trust Territory of the Pacific Islands, and any territory or possession of the United States.
 
 (Pub. L. 95–511, title I, §101, Oct. 25, 1978, 92 Stat. 1783.)
 

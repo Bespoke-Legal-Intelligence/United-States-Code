@@ -1,0 +1,118 @@
+### §9858i. Reports and audits
+
+#### (a) Reports
+
+#### (1) Collection of information by States
+
+#### (A) In general
+
+&emsp;&emsp;A State that receives funds to carry out this subchapter shall collect the information described in subparagraph (B) on a monthly basis.
+
+#### (B) Required information
+
+&emsp;&emsp;The information required under this subparagraph shall include, with respect to a family unit receiving assistance under this subchapter information concerning—
+
+&emsp;&emsp;&emsp;(i) family income;
+
+&emsp;&emsp;&emsp;(ii) county of residence;
+
+&emsp;&emsp;&emsp;(iii) the gender, race, and age of children receiving such assistance;
+
+&emsp;&emsp;&emsp;(iv) whether the family includes only one parent;
+
+&emsp;&emsp;&emsp;(v) the sources of family income, including the amount obtained from (and separately identified)—
+
+&emsp;&emsp;&emsp;&emsp;(I) employment, including self-employment;
+
+&emsp;&emsp;&emsp;&emsp;(II) cash or other assistance under part A of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\];
+
+&emsp;&emsp;&emsp;&emsp;(III) housing assistance;
+
+&emsp;&emsp;&emsp;&emsp;(IV) assistance under the Food Stamp Act of 1977 \[7 U.S.C. 2011 et seq.\]; and
+
+&emsp;&emsp;&emsp;&emsp;(V) other assistance programs;
+
+&emsp;&emsp;&emsp;(vi) the number of months the family has received benefits;
+
+&emsp;&emsp;&emsp;(vii) the type of child care in which the child was enrolled (such as family child care, home care, or center-based child care);
+
+&emsp;&emsp;&emsp;(viii) whether the child care provider involved was a relative;
+
+&emsp;&emsp;&emsp;(ix) the cost of child care for such families; and
+
+&emsp;&emsp;&emsp;(x) the average hours per week of such care;
+
+> &emsp;&emsp;during the period for which such information is required to be submitted.
+
+#### (C) Submission to Secretary
+
+&emsp;&emsp;A State described in subparagraph (A) shall, on a quarterly basis, submit the information required to be collected under subparagraph (B) to the Secretary.
+
+#### (D) Sampling
+
+&emsp;&emsp;The Secretary may disapprove the information collected by a State under this paragraph if the State uses sampling methods to collect such information.
+
+#### (2) Biannual reports
+
+&emsp;Not later than December 31, 1997, and every 6 months thereafter, a State described in paragraph (1)(A) shall prepare and submit to the Secretary a report that includes aggregate data concerning—
+
+&emsp;&emsp;(A) the number of child care providers that received funding under this subchapter as separately identified based on the types of providers listed in section 9858n(5) of this title;
+
+&emsp;&emsp;(B) the monthly cost of child care services, and the portion of such cost that is paid for with assistance provided under this subchapter, listed by the type of child care services provided;
+
+&emsp;&emsp;(C) the number of payments made by the State through vouchers, contracts, cash, and disregards under public benefit programs, listed by the type of child care services provided;
+
+&emsp;&emsp;(D) the manner in which consumer education information was provided to parents and the number of parents to whom such information was provided; and
+
+&emsp;&emsp;(E) the total number (without duplication) of children and families served under this subchapter;
+
+> &emsp;during the period for which such report is required to be submitted.
+
+#### (b) Audits
+
+#### (1) Requirement
+
+&emsp;A State shall, after the close of each program period covered by an application approved under section 9858c(d) of this title audit its expenditures during such program period from amounts received under this subchapter.
+
+#### (2) Independent auditor
+
+&emsp;Audits under this subsection shall be conducted by an entity that is independent of the State that receives assistance under this subchapter and be in accordance with generally accepted auditing principles.
+
+#### (3) Submission
+
+&emsp;Not later than 30 days after the completion of an audit under this subsection, the State shall submit a copy of the audit to the legislature of the State and to the Secretary.
+
+#### (4) Repayment of amounts
+
+&emsp;Each State shall repay to the United States any amounts determined through an audit under this subsection not to have been expended in accordance with this subchapter, or the Secretary may offset such amounts against any other amount to which the State is or may be entitled under this subchapter.
+
+(Pub. L. 97–35, title VI, §658K, as added Pub. L. 101–508, title V, §5082(2), Nov. 5, 1990, 104 Stat. 1388–243; amended Pub. L. 102–401, §3(a), Oct. 7, 1992, 106 Stat. 1959; Pub. L. 102–586, §8(c)(1), Nov. 4, 1992, 106 Stat. 5036; Pub. L. 104–193, title VI, §611, Aug. 22, 1996, 110 Stat. 2284.)
+
+#### References in Text
+
+The Social Security Act, referred to in subsec. (a)(1)(B)(v)(II), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part A of title IV of the Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+
+The Food Stamp Act of 1977, referred to in subsec. (a)(1)(B)(v)(IV), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, as amended, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
+
+#### Amendments
+
+1996—Pub. L. 104–193, §611(1), substituted “Reports” for “Annual report” in section catchline.
+
+Subsec. (a). Pub. L. 104–193, §611(2), amended heading and text of subsec. (a) generally. Prior to amendment, text related to requirement of reports by Dec. 31, 1992, and annually thereafter, which include specification of expenditures under section 9858c(c)(3) of this title, data on fulfillment of child care needs, description of improvements in affordability and availability, description of review of State licensing and regulatory requirements and policies and results of review, explanation of any reductions in child care standards, and description of standards and health and safety requirements applicable to providers.
+
+Subsec. (b)(1). Pub. L. 104–193, §611(2)\[(3)\](A), substituted “an application approved” for “a application approved”.
+
+Subsec. (b)(2). Pub. L. 104–193, §611(2)\[(3)\](B), substituted “the State that receives” for “any agency administering activities that receive”.
+
+Subsec. (b)(4). Pub. L. 104–193, §611(2)\[(3)\](C), substituted “entitled under this subchapter” for “entitles under this subchapter”.
+
+1992—Pub. L. 102–401 and Pub. L. 102–586 made identical technical corrections to directory language of Pub. L. 101–508, §5082(2), which added this section.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–193 effective Oct. 1, 1996, see section 615 of Pub. L. 104–193, set out as a note under section 9858 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 9858j of this title.
+

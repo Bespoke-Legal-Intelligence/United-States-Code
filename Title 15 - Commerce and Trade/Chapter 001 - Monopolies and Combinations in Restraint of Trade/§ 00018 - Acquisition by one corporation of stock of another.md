@@ -10,13 +10,15 @@ Nor shall anything herein contained be construed to prohibit any common carrier 
 
 Nothing contained in this section shall be held to affect or impair any right heretofore legally acquired: <i>Provided</i>, That nothing in this section shall be held or construed to authorize or make lawful anything heretofore prohibited or made illegal by the antitrust laws, nor to exempt any person from the penal provisions thereof or the civil remedies therein provided.
 
-Nothing contained in this section shall apply to transactions duly consummated pursuant to authority given by the Secretary of Transportation, Federal Communications Commission, Federal Power Commission, Surface Transportation Board, the Securities and Exchange Commission in the exercise of its jurisdiction under section 79j of this title, the United States Maritime Commission, or the Secretary of Agriculture under any statutory provision vesting such power in such Commission, Board, or Secretary.
+Nothing contained in this section shall apply to transactions duly consummated pursuant to authority given by the Secretary of Transportation, Federal Power Commission, Surface Transportation Board, the Securities and Exchange Commission in the exercise of its jurisdiction under section 79j of this title, the United States Maritime Commission, or the Secretary of Agriculture under any statutory provision vesting such power in such Commission, Board, or Secretary.
 
-(Oct. 15, 1914, ch. 323, §7, 38 Stat. 731; Dec. 29, 1950, ch. 1184, 64 Stat. 1125; Sept. 12, 1980, Pub. L. 96–349, §6(a), 94 Stat. 1157; Oct. 4, 1984, Pub. L. 98–443, §9(<i>l</i>), 98 Stat. 1708; Dec. 29, 1995, Pub. L. 104–88, title III, §318(1), 109 Stat. 949.)
+(Oct. 15, 1914, ch. 323, §7, 38 Stat. 731; Dec. 29, 1950, ch. 1184, 64 Stat. 1125; Sept. 12, 1980, Pub. L. 96–349, §6(a), 94 Stat. 1157; Oct. 4, 1984, Pub. L. 98–443, §9(<i>l</i>), 98 Stat. 1708; Dec. 29, 1995, Pub. L. 104–88, title III, §318(1), 109 Stat. 949; Feb. 8, 1996, Pub. L. 104–104, title VI, §601(b)(3), 110 Stat. 143.)
 
 #### Amendments
 
-1995—Pub. L. 104–88, in sixth par., substituted “Surface Transportation Board” for “Interstate Commerce Commission” and inserted “, Board,” after “vesting such power in such Commission”.
+1996—Pub. L. 104–104, in sixth par., struck out “Federal Communications Commission,” after “Secretary of Transportation,”.
+
+1995—Pub. L. 104–88, in sixth par., substituted “Surface Transportation Board” for “Interstate CommerceCommission” and inserted “, Board,” after “vesting such power in such Commission”.
 
 1984—Pub. L. 98–443 substituted “Secretary of Transportation” for “Civil Aeronautics Board” and “Commission or Secretary” for “Commission, Secretary, or Board” in sixth par.
 

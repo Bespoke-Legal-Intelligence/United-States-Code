@@ -2,7 +2,7 @@
 
 #### (a) Development of System
 
-The Secretary shall consult with a representative group of guaranty agencies, eligible lenders, and eligible institutions to develop a mutually agreeable proposal for the establishment of a National Student Loan Data System containing information regarding loans made, insured, or guaranteed under part B of this subchapter and loans made under parts C and D of this subchapter, and for allowing the electronic exchange of data between program participants and the system. In establishing such data system, the Secretary shall place a priority on providing for the monitoring of enrollment, student status, information about current loan holders and servicers, and internship and residency information. Such data system shall also permit borrowers to use the system to identify the current loan holders and servicers of such borrower's loan. The information in the data system shall include (but is not limited to)—
+The Secretary shall consult with a representative group of guaranty agencies, eligible lenders, and eligible institutions to develop a mutuallyagreeable proposal for the establishment of a National Student Loan Data System containing information regarding loans made, insured, or guaranteed under part B of this subchapter and loans made under parts C and D of this subchapter, and for allowing the electronic exchange of data between program participants and the system. In establishing such data system, the Secretary shall place a priority on providing for the monitoring of enrollment, student status, information about current loan holders and servicers, and internship and residency information. Such data system shall also permit borrowers to use the system to identify the current loan holders and servicers of such borrower's loan. The information in the data system shall include (but is not limited to)—
 
 &emsp;(1) the amount and type of each such loan made;
 
@@ -66,7 +66,7 @@ The Secretary shall prepare and submit to the appropriate committees of the Cong
 
 The Secretary shall, not later than July 1, 1993—
 
-&emsp;(1) revise the codes used to identify institutions and students in the student loan data system authorized by this section to make such codes consistent with the codes used in each database used by the Department of Education that contains information of participation in programs under this subchapter and part C of subchapter I of chapter 34 of title 42; and
+&emsp;(1) revise the codes used to identify institutions and students in the student loan data system authorized by this section to make such codes consistent with the codes used in each database used by the Department of Education that contains information of participation in programs under this subchapter andpart C of subchapter I of chapter 34 of title 42; and
 
 &emsp;(2) modify the design or operation of the system authorized by this section to ensure that data relating to any institution is readily accessible and can be used in a form compatible with the integrated postsecondary education data system (IPEDS).
 
@@ -108,7 +108,7 @@ Subsec. (b)(3). Pub. L. 100–50, §15(13)(C), substituted “public agency” f
 
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L.102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1003 of this title.
+Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1003 of this title.
 
 #### Effective Date of 1987 Amendment
 

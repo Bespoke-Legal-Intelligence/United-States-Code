@@ -40,3 +40,7 @@ The customs laws, referred to in subsec. (c), are classified generally to Title 
 
 The date of the enactment of the Uruguay Round Agreements Act, referred to in subsecs. (c) and (e), is the date of enactment of Pub. L. 103–465, which was approved Dec. 8, 1994.
 
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 1961, 2320 of this title; title 49 section 80302.
+

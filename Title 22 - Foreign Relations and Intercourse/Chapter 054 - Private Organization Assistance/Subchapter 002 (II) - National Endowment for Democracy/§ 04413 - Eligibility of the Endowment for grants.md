@@ -36,11 +36,11 @@ Grants may be made to the Endowment under this subchapter only if the Endowment 
 
 #### (g) Audits by United States Information Agency
 
-The financial transactions of the Endowment for each fiscal year shall be audited by the United States Information Agency under the conditions set forth in subsection (f)(1) of this section.
+The financial transactions of the Endowment for each fiscal year shall be audited by theUnited States Information Agency under the conditions set forth in subsection (f)(1) of this section.
 
 #### (h) Recordkeeping requirements; audit and examination of books, etc.
 
-(1) The Endowment shall ensure that each recipient of assistance provided through the Endowment under this subchapter keeps separate bank accounts or separate self-balancing ledgeraccounts with respect to such assistance and such records as may be reasonably necessary to fully disclose the amount and the disposition by such recipient of the proceeds of such assistance, the total cost of the project or undertaking in connection with which such assistance is given or used, and the amount and nature of that portion of the cost of the project or undertaking supplied by other sources, and such other records as will facilitate an effective audit.
+(1) The Endowment shall ensure that each recipient of assistance provided through the Endowment under this subchapter keeps separate bank accounts or separate self-balancing ledger accounts with respect to such assistance and such records as may be reasonably necessary to fully disclose the amount and the disposition by such recipient of the proceeds of such assistance, the total cost of the project or undertaking in connection with which such assistance is given or used, and the amount and nature of that portion of the cost of the project or undertaking supplied by other sources, and such other records as will facilitate an effective audit.
 
 (2) The Endowment shall ensure that it, or any of its duly authorized representatives, shall have access for the purpose of audit and examination to any books, documents, papers, and records of the recipient that are pertinent to assistance provided through the Endowment under this subchapter. The Comptroller General of the United States or any of his duly authorized representatives shall also have access thereto for such purpose.
 

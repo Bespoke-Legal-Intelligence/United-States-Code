@@ -6,7 +6,9 @@ The Secretary of Transportation shall prescribe regulations on standards for ins
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -19,4 +21,8 @@ Historical and Revision Notes
 Dec. 30, 1987, Pub. L. 100–223, §308, 101 Stat. 1526.
 
 The words “Not later than December 31, 1988” are omitted as obsolete.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 46301, 46316 of this title.
 

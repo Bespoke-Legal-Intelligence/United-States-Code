@@ -154,11 +154,15 @@ For purposes of this section—
 
 &emsp;&emsp;For purposes of section 1245, the amount of the deduction allowable under subsection (a) with respect to any property which is of a character subject to the allowance for depreciation shall be treated as a deduction allowed for depreciation under section 167.
 
-#### (g) Termination
+#### (f) Termination
 
 This section shall not apply to any property placed in service after December 31, 2004.
 
-(Added Pub. L. 102–486, title XIX, §1913(a)(1), Oct. 24, 1992, 106 Stat. 3016.)
+(Added Pub. L. 102–486, title XIX, §1913(a)(1), Oct. 24, 1992, 106 Stat. 3016; amended Pub. L. 104–188, title I, §1704(j)(2), Aug. 20, 1996, 110 Stat. 1881.)
+
+#### Amendments
+
+1996—Subsecs. (f), (g). Pub. L. 104–188 redesignated subsec. (g) as (f).
 
 #### Effective Date
 

@@ -90,13 +90,13 @@ Each advisory committee established pursuant to subsection (c)(2) of this sectio
 
 &emsp;&emsp;&emsp;&emsp;(V) the cost of training offerings; and
 
-&emsp;&emsp;&emsp;(vii) describe the ways in which the State will use the funds received underthis section and any other funds available to the State to carry out the activities described in the State plan.
+&emsp;&emsp;&emsp;(vii) describe the ways in which the State will use the funds received under this section and any other funds available to the State to carry out the activities described in the State plan.
 
 (Pub. L. 89–329, title V, §597, as added Pub. L. 102–325, title V, §501(a), July 23, 1992, 106 Stat. 717; amended Pub. L. 103–208, §2(j)(9), Dec. 20, 1993, 107 Stat. 2481.)
 
 #### References in Text
 
-The Child Care and Development Block Grant Act, referred to in subsec. (d)(1), probably means the Child Care and Development Block Grant Act of 1990, which is subchapter C (§§658A–658R) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, as added by Pub. L. 101–508, title V, §5082(2), Nov. 5, 1990, 104 Stat. 1388–236, as amended, and which is classified generally to subchapter II–B (§9858 et seq.) of chapter 105 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9801 of Title 42 and Tables.
+The Child Care and Development Block Grant Act, referred to in subsec. (d)(1), probably means the Child Care and Development Block Grant Act of 1990, which is subchapter C (§§658A–658R) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, as added by Pub. L. 101–508,title V, §5082(2), Nov. 5, 1990, 104 Stat. 1388–236, as amended, and which is classified generally to subchapter II–B (§9858 et seq.) of chapter 105 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9801 of Title 42 and Tables.
 
 #### Amendments
 

@@ -44,7 +44,7 @@ By January 1 of each year, each protection and advocacy system established in a 
 
 &emsp;&emsp;(iii) a summary of actions taken to improve access and services for unserved and underserved groups;
 
-&emsp;&emsp;(D) the significant Federal policies that impact on the ability of States to address the needs of individuals with developmentaldisabilities attributable to physical impairments, mental impairments, or a combination of mental and physical impairments; and
+&emsp;&emsp;(D) the significant Federal policies that impact on the ability of States to address the needs of individuals with developmental disabilities attributable to physical impairments, mental impairments, or a combination of mental and physical impairments; and
 
 &emsp;&emsp;(E) the number of meetings held by the interagency committee established under section 6007(b) of this title during the period for which the report is made, which agencies were represented at each such meeting, and the accomplishments of the interagency committee in comparison to the goals and objectives of such committee.
 

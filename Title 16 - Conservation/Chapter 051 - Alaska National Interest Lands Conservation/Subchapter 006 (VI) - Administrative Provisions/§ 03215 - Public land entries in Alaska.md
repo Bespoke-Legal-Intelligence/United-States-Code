@@ -2,7 +2,7 @@
 
 #### (a) Application approval; adjudication; protests; voluntary relinquishment of application
 
-(1) Subject to valid existing rights, all applications made pursuant to the Acts of June 1, 1938 (52 Stat. 609),<sup>1</sup> May 3, 1927 (44 Stat. 1364),<sup>1</sup> May 14, 1898 (30 Stat. 413),<sup>1</sup> and March 3, 1891 (26 Stat. 1097), which were filed with the Department of the Interior within the time provided by applicable law, and which describe land in Alaska that was available for entry under the aforementioned statutes when such entry occurred, are hereby approved on the one hundred and eightieth day following the effective date of this Act, except where provided otherwise by paragraph (3) or (4) of this subsection, or where the land description of the entry must be adjusted pursuant to subsection (b) of this section, in which cases approval pursuant to the terms of this subsection shall be effective at the time the adjustment becomes final.
+(1) Subject to valid existing rights, all applications made pursuant to the Acts of June 1, 1938\(52 Stat. 609),<sup>1</sup> May 3, 1927 (44 Stat. 1364),<sup>1</sup> May 14, 1898 (30 Stat. 413),<sup>1</sup> and March 3, 1891 (26 Stat. 1097), which were filed with the Department of the Interior within the time provided by applicable law, and which describe land in Alaska that was available for entry under the aforementioned statutes when such entry occurred, are hereby approved on the one hundred and eightieth day following the effective date of this Act, except where provided otherwise by paragraph (3) or (4) of this subsection, or where the land description of the entry must be adjusted pursuant to subsection (b) of this section, in which cases approval pursuant to the terms of this subsection shall be effective at the time the adjustment becomes final.
 
 (2) Where an application describes land within the boundaries of a unit of the National Park System or a unit of the National Wildlife Refuge System, or a unit of the National Wilderness Preservation System in the Tongass or Chugach National Forests established before the effective date of this Act or by this Act, and the described land was not withdrawn pursuant to section 11(a)(1) of the Alaska Native Claims Settlement Act \[43 U.S.C. 1610(A)(1)\], or where an application describes land which has been patented or deeded to the State of Alaska or which on or before the date of entry was validly selected by, tentatively approved, patented, deeded or confirmed to the State of Alaska pursuant to applicable law and was not withdrawn pursuant to section 11(a)(1)(A) of the Alaska Native Claims Settlement Act \[43 U.S.C. 1610(a)(1)(A)\] from those lands made available for selection by section 11(a)(2) of the Act \[43 U.S.C. 1610(a)(2)\] by any Native Village certified as eligible pursuant to section 11(b) of such Act \[43 U.S.C. 1610(b)\], paragraph (1) of this subsection and subsection (c) of this section shall not apply and the application shall be adjudicated pursuant to the requirements of the Acts referred to in paragraph (1) of this subsection, the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\], and other applicable law.
 
@@ -18,7 +18,7 @@
 
 &emsp;(E) regarding public land entries within units of the National Wildlife Refuge System established or expanded in this Act, any such entry not properly made under applicable law, or not the subject of an application filed within the time required by applicable law, or not properly maintained thereafter under applicable law shall be adjudicated pursuant to the Act under which the entry was made.
 
-(4) Paragraph (1) of this subsection and subsection (c) of this section shall not apply to anyapplication which was knowingly and voluntarily relinquished by the applicant.
+(4) Paragraph (1) of this subsection and subsection (c) of this section shall not apply to any application which was knowingly and voluntarily relinquished by the applicant.
 
 #### (b) Amendment of land description in application
 
@@ -46,7 +46,7 @@ Act of March 3, 1891, referred to in subsec. (a)(1), is act Mar. 3, 1891, ch. 56
 
 The effective date of this Act, referred to in subsecs. (a) to (c), probably means the date of enactment of Pub. L. 96–487, which was approved Dec. 2, 1980.
 
-This Act, referred to in subsec. (a)(2) and (3)(E), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, as amended, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Actto the Code, see Short Title note set out under section 3101 of this title and Tables.
+This Act, referred to in subsec. (a)(2) and (3)(E), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, as amended, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
 The Alaska Native Claims Settlement Act, referred to in subsecs. (a)(2), (3)(A) and (d), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 

@@ -80,7 +80,7 @@ The Director shall make recommendations to the Administrator on activities that 
 
 1993—Subsec. (a)(2)(C). Pub. L. 103–43 substituted “section 299a–2(d)(2)” for “section 299a–2(c)(2)”.
 
-1992—Subsec. (a)(2)(A). Pub. L. 102–410, §6(a), added cls. (i) and (ii), redesignated former cls. (ii) and (iii) as (iii) and (iv), respectively, and struck out former cl. (i) which read as follows: “to improve methods of prevention, diagnosis, treatment, and clinical management for the benefit of a significant number of individuals;”.
+1992—Subsec. (a)(2)(A). Pub. L. 102–410, §6(a), added cls. (i) and (ii), redesignated former cls. (ii) and (iii) as\(iii) and (iv), respectively, and struck out former cl. (i) which read as follows: “to improve methods of prevention, diagnosis, treatment, and clinical management for the benefit of a significant number of individuals;”.
 
 Subsec. (a)(2)(C). Pub. L. 102–410, §7(1), added subpar. (C).
 

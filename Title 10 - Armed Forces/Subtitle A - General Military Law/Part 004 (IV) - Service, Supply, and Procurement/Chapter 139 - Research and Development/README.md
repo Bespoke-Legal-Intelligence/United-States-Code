@@ -3,12 +3,10 @@
 | Sec. |  |
 | :--- | ---: |
 | [2351\.](%C2%A7%2002351%20-%20Availability%20of%20appropriations.md) | Availability of appropriations. |
-| [2352\.](%C2%A7%2002352%20-%20Contracts%20notice%20to%20Congress%20required%20for%20contracts%20performed%20over%20period%20exceeding%2010%20years.md) | Contracts: notice to Congress required for contracts performed over period exceeding 10 years. |
+| \[2352. | Repealed.\] |
 | [2353\.](%C2%A7%2002353%20-%20Contracts%20acquisition%2C%20construction%2C%20or%20furnishing%20of%20test%20facilities%20and%20equipment.md) | Contracts: acquisition, construction, or furnishing of test facilities and equipment. |
 | [2354\.](%C2%A7%2002354%20-%20Contracts%20indemnification%20provisions.md) | Contracts: indemnification provisions. |
-| \[2355. | Repealed.\] |
-| [2356\.](%C2%A7%2002356%20-%20Contracts%20delegations.md) | Contracts: delegations. |
-| \[2357. | Repealed.\] |
+| \[2355 to 2357. Repealed.\] |  |
 | [2358\.](%C2%A7%2002358%20-%20Research%20and%20development%20projects.md) | Research and development projects. |
 | \[2359. | Repealed.\] |
 | [2360\.](%C2%A7%2002360%20-%20Research%20and%20development%20laboratories%20contracts%20for%20services%20of%20university%20students.md) | Research and development laboratories: contracts for services of university students. |
@@ -18,10 +16,10 @@
 | \[2365. | Repealed.\] |
 | [2366\.](%C2%A7%2002366%20-%20Major%20systems%20and%20munitions%20programs%20survivability%20testing%20and%20lethality%20testing%20required%20before%20full-scale%20production.md) | Major systems and munitions programs: survivability testing and lethality testing required before full-scale production. |
 | [2367\.](%C2%A7%2002367%20-%20Use%20of%20federally%20funded%20research%20and%20development%20centers.md) | Use of federally funded research and development centers. |
-| \[2368, 2369. Repealed.\] |  |
-| [2370\.](%C2%A7%2002370%20-%20Biological%20Defense%20Research%20Program.md) | Biological Defense Research Program. |
+| \[2368 to 2370. Repealed.\] |  |
 | [2370a.](%C2%A7%2002370a%20-%20Medical%20countermeasures%20against%20biowarfare%20threats%20allocation%20of%20funding%20between%20near-term%20and%20other%20threats.md) | Medical countermeasures against biowarfare threats: allocation of funding between near-term and other threats. |
 | [2371\.](%C2%A7%2002371%20-%20Research%20projects%20transactions%20other%20than%20contracts%20and%20grants.md) | Research projects: transactions other than contracts and grants. |
+| [2371a.](%C2%A7%2002371a%20-%20Cooperative%20research%20and%20development%20agreements%20under%20Stevenson-Wydler%20Technology%20Innovation%20Act%20of%201980.md) | Cooperative research and development agreements under Stevenson-Wydler Technology Innovation Act of 1980. |
 | [2372\.](%C2%A7%2002372%20-%20Independent%20research%20and%20development%20and%20bid%20and%20proposal%20costs%20payments%20to%20contractors.md) | Independent research and development and bid and proposal costs: payments to contractors. |
 | [2373\.](%C2%A7%2002373%20-%20Procurement%20for%20experimental%20purposes.md) | Procurement for experimental purposes. |
 | [2374\.](%C2%A7%2002374%20-%20Merit-based%20award%20of%20grants%20for%20research%20and%20development.md) | Merit-based award of grants for research and development. |
@@ -29,6 +27,10 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1996—Pub. L. 104–201, div. A, title II, §267(c)(1)(C), Sept. 23, 1996, 110 Stat. 2468, added item 2371a.
+
+Pub. L. 104–106, div. A, title VIII, §802(b), title X, §§1061(j)(2), 1062(c)(2), Feb. 10, 1996, 110 Stat. 390, 443, 444, struck out items 2352 “Contracts: notice to Congress required for contracts performed over period exceeding 10 years”, 2356 “Contracts: delegations”, and 2370 “Biological Defense Research Program”.
 
 1994—Pub. L. 103–355, title I, §1301(c), title II, §2002(b), title III, §3062(b), title VII, §7203(a)(3), Oct. 13, 1994, 108 Stat. 3287, 3303, 3337, 3380, added item 2374, substituted in item 2358 “Research and development projects” for “Research projects” and in item 2371 “Research projects: transactions other than contracts and grants” for “Advanced research projects: cooperative agreements and other transactions”, and struck out item 2355 “Contracts: vouchering procedures” and item 2369 “Product evaluation activity”.
 
@@ -42,7 +44,7 @@ Pub. L. 102–25, title VII, §701(e)(5), Apr. 6, 1991, 105 Stat. 114, inserted 
 
 1990—Pub. L. 101–510, div. A, title II, §241(b), title VIII, §824(a)(2), title XIII, §1331(5), Nov. 5, 1990, 104 Stat. 1517, 1604, 1673, struck out items 2357 “Contracts: reports to Congress” and 2359 “Salaries of officers of Federal contract research centers: reports to Congress” and added items 2370 and 2372.
 
-1989—Pub. L. 101–189, div. A, title II, §251(a)(2), title VIII, §§802(c)(4)(B), 841(c)(2), Nov. 29, 1989, 103 Stat. 1404, 1486, 1514, substituted “testing and lethality testing required before full-scale production” for “and lethalitytesting; operational testing” in item 2366, substituted “research” for “plan” in item 2368, and added item 2371.
+1989—Pub. L. 101–189, div. A, title II, §251(a)(2), title VIII, §§802(c)(4)(B), 841(c)(2), Nov. 29, 1989, 103 Stat. 1404, 1486, 1514, substituted “testing and lethality testing required before full-scale production” for “and lethality testing; operational testing” in item 2366, substituted “research” for “plan” in item 2368, and added item 2371.
 
 1988—Pub. L. 100–456, div. A, title II, §220(b), title VIII, §§823(a)(2), 842(b), Sept. 29, 1988, 102 Stat. 1941, 2018, 2026, added items 2361, 2368, and 2369.
 
@@ -84,11 +86,11 @@ Naval contracts for research, see section 7522 of this title.
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
 - [&sect; 02351 - Availability of appropriations](%C2%A7%2002351%20-%20Availability%20of%20appropriations.md)
-- [&sect; 02352 - Contracts notice to Congress required for contracts performed over period exceeding 10 years](%C2%A7%2002352%20-%20Contracts%20notice%20to%20Congress%20required%20for%20contracts%20performed%20over%20period%20exceeding%2010%20years.md)
+- [&sect; 02352 - Repealed. Pub. L. 104&#8211;106, div. A, title X, &sect;1062(c)(1), Feb. 10, 1996, 110 Stat. 444](%C2%A7%2002352%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93106%2C%20div.%20A%2C%20title%20X%2C%20%C2%A71062%28c%29%281%29%2C%20Feb.%2010%2C%201996%2C%20110%20Stat.%20444.md)
 - [&sect; 02353 - Contracts acquisition, construction, or furnishing of test facilities and equipment](%C2%A7%2002353%20-%20Contracts%20acquisition%2C%20construction%2C%20or%20furnishing%20of%20test%20facilities%20and%20equipment.md)
 - [&sect; 02354 - Contracts indemnification provisions](%C2%A7%2002354%20-%20Contracts%20indemnification%20provisions.md)
 - [&sect; 02355 - Repealed. Pub. L. 103&#8211;355, title II, &sect;2002(a), Oct. 13, 1994, 108 Stat. 3303](%C2%A7%2002355%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93355%2C%20title%20II%2C%20%C2%A72002%28a%29%2C%20Oct.%2013%2C%201994%2C%20108%20Stat.%203303.md)
-- [&sect; 02356 - Contracts delegations](%C2%A7%2002356%20-%20Contracts%20delegations.md)
+- [&sect; 02356 - Repealed. Pub. L. 104&#8211;106, div. A, title VIII, &sect;802(a), Feb. 10, 1996, 110 Stat. 390](%C2%A7%2002356%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93106%2C%20div.%20A%2C%20title%20VIII%2C%20%C2%A7802%28a%29%2C%20Feb.%2010%2C%201996%2C%20110%20Stat.%20390.md)
 - [&sect; 02357 - Repealed. Pub. L. 101&#8211;510, div. A, title XIII, &sect;1301(11), Nov. 5, 1990, 104 Stat. 1668](%C2%A7%2002357%20-%20Repealed.%20Pub.%20L.%20101%E2%80%93510%2C%20div.%20A%2C%20title%20XIII%2C%20%C2%A71301%2811%29%2C%20Nov.%205%2C%201990%2C%20104%20Stat.%201668.md)
 - [&sect; 02358 - Research and development projects](%C2%A7%2002358%20-%20Research%20and%20development%20projects.md)
 - [&sect; 02359 - Repealed. Pub. L. 101&#8211;510, div. A, title XIII, &sect;1322(a)(5), Nov. 5, 1990, 104 Stat. 1671](%C2%A7%2002359%20-%20Repealed.%20Pub.%20L.%20101%E2%80%93510%2C%20div.%20A%2C%20title%20XIII%2C%20%C2%A71322%28a%29%285%29%2C%20Nov.%205%2C%201990%2C%20104%20Stat.%201671.md)
@@ -102,9 +104,10 @@ Naval contracts for research, see section 7522 of this title.
 - [&sect; 02367 - Use of federally funded research and development centers](%C2%A7%2002367%20-%20Use%20of%20federally%20funded%20research%20and%20development%20centers.md)
 - [&sect; 02368 - Repealed. Pub. L. 102&#8211;190, div. A, title VIII, &sect;821(c)(1), Dec. 5, 1991, 105 Stat. 1431](%C2%A7%2002368%20-%20Repealed.%20Pub.%20L.%20102%E2%80%93190%2C%20div.%20A%2C%20title%20VIII%2C%20%C2%A7821%28c%29%281%29%2C%20Dec.%205%2C%201991%2C%20105%20Stat.%201431.md)
 - [&sect; 02369 - Repealed. Pub. L. 103&#8211;355, title III, &sect;3062(a), Oct. 13, 1994, 108 Stat. 3336](%C2%A7%2002369%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93355%2C%20title%20III%2C%20%C2%A73062%28a%29%2C%20Oct.%2013%2C%201994%2C%20108%20Stat.%203336.md)
-- [&sect; 02370 - Biological Defense Research Program](%C2%A7%2002370%20-%20Biological%20Defense%20Research%20Program.md)
+- [&sect; 02370 - Repealed. Pub. L. 104&#8211;106, div. A, title X, &sect;1061(j)(1), Feb. 10, 1996, 110 Stat. 443](%C2%A7%2002370%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93106%2C%20div.%20A%2C%20title%20X%2C%20%C2%A71061%28j%29%281%29%2C%20Feb.%2010%2C%201996%2C%20110%20Stat.%20443.md)
 - [&sect; 02370a - Medical countermeasures against biowarfare threats allocation of funding between near-term and other threats](%C2%A7%2002370a%20-%20Medical%20countermeasures%20against%20biowarfare%20threats%20allocation%20of%20funding%20between%20near-term%20and%20other%20threats.md)
 - [&sect; 02371 - Research projects transactions other than contracts and grants](%C2%A7%2002371%20-%20Research%20projects%20transactions%20other%20than%20contracts%20and%20grants.md)
+- [&sect; 02371a - Cooperative research and development agreements under Stevenson-Wydler Technology Innovation Act of 1980](%C2%A7%2002371a%20-%20Cooperative%20research%20and%20development%20agreements%20under%20Stevenson-Wydler%20Technology%20Innovation%20Act%20of%201980.md)
 - [&sect; 02372 - Independent research and development and bid and proposal costs payments to contractors](%C2%A7%2002372%20-%20Independent%20research%20and%20development%20and%20bid%20and%20proposal%20costs%20payments%20to%20contractors.md)
 - [&sect; 02373 - Procurement for experimental purposes](%C2%A7%2002373%20-%20Procurement%20for%20experimental%20purposes.md)
 - [&sect; 02374 - Merit-based award of grants for research and development](%C2%A7%2002374%20-%20Merit-based%20award%20of%20grants%20for%20research%20and%20development.md)

@@ -20,7 +20,7 @@ Section 348, R.S. §4233; Feb. 19, 1895, ch. 102, 28 Stat. 672; May 21, 1948, ch
 
 Section 348a, R.S. §4233, Rule 23(A), as added Pub. L. 89–764, §6, Nov. 5, 1966, 80 Stat. 1313, related to rule that a steam vessel could not hamper safe passage of a large vessel or vessel in tow. See section 2018 of this title.
 
-Section 349, R.S. §4233; Feb. 19, 1895, ch. 102, §1, 28 Stat. 672; May 21, 1948, ch. 328, §4, 62 Stat. 255, related to danger signals, responding signals, and additional signals. See section 2032 et seq. of this title.
+Section 349, R.S. §4233; Feb. 19, 1895, ch. 102, §1, 28 Stat. 672; May 21, 1948, ch. 328, §4, 62 Stat. 255, relatedto danger signals, responding signals, and additional signals. See section 2032 et seq. of this title.
 
 Section 350, R.S. §4233; Feb. 19, 1895, ch. 102, §1, 28 Stat. 672; Mar. 3, 1897, ch. 389, §13, 29 Stat 690; May 21 1948, ch. 328, §4, 62 Stat. 256, related to departures from the rules to avoid collision. See sections 2008 and 2017 of this title.
 

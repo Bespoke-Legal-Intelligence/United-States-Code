@@ -10,7 +10,7 @@ For the purpose of carrying out sections 80k and 80<i>l</i> of this title, the B
 
 &emsp;(3) conduct programs of research and education; and
 
-&emsp;(4) subject to any limitations otherwise expressly provided by law, and, in the case of any gift, subject to any applicable restrictions under the terms of such gift, sell, exchange, or otherwise dispose of any property of whatsoever nature acquired pursuant to the provisions of this subchapter: <i>Provided,</i> That the proceeds from the sale of any property acquired pursuant to section 80k of this title shall be designated for the benefit of the Museum.
+&emsp;(4) subject to any limitations otherwise expressly provided by law, and, in the case of any gift, subject to any applicable restrictions under the terms of such gift, sell, exchange, or otherwise dispose of any property of whatsoever nature acquired pursuant to the provisions of this subchapter: <i>Provided</i>, That the proceeds from the sale of any property acquired pursuant to section 80k of this title shall be designated for the benefit of the Museum.
 
 #### (b) Recommendations of Commission
 

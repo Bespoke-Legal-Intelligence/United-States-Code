@@ -150,7 +150,7 @@ Aug. 7, 1947, ch. 512, §312(h) (as applicable to officers designated for limite
 
 &nbsp;
 
-34 U.S.C. 410j(m) (less applicability to persons discharged under 34 U.S.C. 410j(<i>l)).</i>
+34 U.S.C. 410j(m) (less applicability to persons discharged under 34 U.S.C. 410j(<i>l</i>)).
 
 Aug. 7, 1947, ch. 512, §312(m); added June 18, 1954, ch. 311, (b) (less applicability to persons discharged under §312(<i>l</i>)), 68 Stat. 257.
 
@@ -194,7 +194,7 @@ Subsecs. (g), (h). Pub. L. 103–337, §503(a)(2), added subsecs. (g) and (h). F
 
 Subsec. (i). Pub. L. 103–337, §503(a)(1), (d)(6), redesignated subsec. (g) as (i) and inserted heading. Former subsec. (i) redesignated (k).
 
-Subsec. (j). Pub. L. 103–337, §503(a)(1), (d)(7), redesignated subsec. (h) as (j) and inserted heading. Former subsec. (j) redesignated (<i>l).</i>
+Subsec. (j). Pub. L. 103–337, §503(a)(1), (d)(7), redesignated subsec. (h) as (j) and inserted heading. Former subsec. (j) redesignated (<i>l</i>).
 
 Subsec. (k). Pub. L. 103–337, §503(a)(1), (b), (d)(8), redesignated subsec. (i) as (k), inserted heading, and substituted “or the discharge under subsection (b) or (d)” for “or the discharge under subsection (d)”.
 
@@ -272,5 +272,5 @@ For transition provisions relating to limited-duty officers of the Regular Navy 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 631, 632, 633, 634, 1174, 1406, 6333, 6392 of this title.
+This section is referred to in sections 631, 632, 633, 634, 1174, 1406, 6333 of this title.
 

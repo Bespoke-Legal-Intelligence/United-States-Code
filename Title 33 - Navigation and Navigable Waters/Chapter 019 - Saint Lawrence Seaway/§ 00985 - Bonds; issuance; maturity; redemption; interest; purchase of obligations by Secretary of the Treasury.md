@@ -12,11 +12,11 @@ In subsec. (a), “chapter 31 of title 31” substituted for “the Second Liber
 
 #### Amendments
 
-1970—Subsec. (a). Pub. L. 91–469, §43(a)(1), designated existing provisions as subsec. (a) and struck out fourth, fifth, and eighth sentences which provided for deferral, with approval of Secretary of Treasury, of interest payments on bonds but required interest payments so deferred to bear interest after June 30, 1960; prohibited charging of deferred interest against debt limitation of $140,000,000; and prescribed for each obligation a rate of interest determined by the Secretary, taking into consideration the current average rate on current marketable obligations of the United States of comparable maturities as of the last day of the month preceding the issuance of the obligation of the Corporation.
+1970—Subsec. (a). Pub. L. 91–469, §43(a)(1), designated existing provisions as subsec. (a) and struck out fourth, fifth, and eighth sentences which provided for deferral, with approval of Secretary of the Treasury, of interest payments on bonds but required interest payments so deferred to bear interest after June 30, 1960; prohibited charging of deferred interest against debt limitation of $140,000,000; and prescribed for each obligation a rate of interest determined by the Secretary, taking into consideration the current average rate on current marketable obligations of the United States of comparable maturities as of the last day of the month preceding the issuance of the obligation of the Corporation.
 
 Subsec. (b). Pub. L. 91–469, §43(a)(2), added subsec. (b).
 
-1957—Pub. L. 85–108 increased Corporation's borrowing authority from $105,000,000 to $140,000,000; omittedfirst year bond issue limitation, and raised limits of bond issues for any year from 40 to 50 per centum of total borrowing power; and authorized deferment of interest payments on borrowings, excluding such deferred interest charges from the debt limitation of $140,000,000.
+1957—Pub. L. 85–108 increased Corporation's borrowing authority from $105,000,000 to $140,000,000; omitted first year bond issue limitation, and raised limits of bond issues for any year from 40 to 50 per centum of total borrowing power; and authorized deferment of interest payments on borrowings, excluding such deferred interest charges from the debt limitation of $140,000,000.
 
 #### Section Referred to in Other Sections
 

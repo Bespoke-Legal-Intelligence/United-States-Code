@@ -1,44 +1,42 @@
 ### §2405. Regulations
 
-#### (a) In general
+#### (a) Regulations to be issued by Director
 
-The Director, after consultation with the Secretary of State and other appropriate Federal officials, shall prescribe such regulations as are necessary and appropriate to implement the provisions of this chapter.
+(1) The Director shall issue such regulations as are necessary and appropriate to implement Annex II and Annex V to the Protocol and the provisions of this chapter which implement those annexes, including section 2403(b)(2), (3), (4), and (5) of this title. The Director shall designate as native species—
 
-#### (b) Specific regulations
+&emsp;(A) each species of the class Aves;
 
-The regulations required to be prescribed under subsection (a) of this section shall include, but shall not be limited to, regulations which—
+&emsp;(B) each species of the class Mammalia; and
 
-&emsp;(1) designate, as native species—
+&emsp;(C) each species of plant,
 
-&emsp;&emsp;(A) each species of the class Aves,
+> which is indigenous to Antarctica or which occurs there seasonally through natural migrations.
 
-&emsp;&emsp;(B) each species of the class Mammalia, and
+(2) The Director, with the concurrence of the Administrator, shall issue such regulations as are necessary and appropriate to implement Annex III to the Protocol and the provisions of this chapter which implement that Annex, including section 2403(a)(1), (2), (3), and (4) of this title, and section 2403(b)(1) of this title.
 
-&emsp;&emsp;(C) each species of plant,
+(3) The Director shall issue such regulations as are necessary and appropriate to implement Article 15 of the Protocol with respect to land areas and ice shelves in Antarctica.
 
-> &emsp;which is indigenous to Antarctica or occurs in Antarctica through natural agencies of dispersal;
+(4) The Director shall issue such additional regulations as are necessary and appropriate to implement the Protocol and this chapter, except as provided in subsection (b) of this section.
 
-&emsp;(2) specify those actions which must, and those actions which must not, be taken within Antarctica in order to protect, in accordance with the applicable provisions of the Agreed Measures, members of each native species designated under paragraph (1);
+#### (b) Regulations to be issued by Secretary of Department in which Coast Guard is operating
 
-&emsp;(3) identify, as a site or special scientific interest, each area approved by the United States in accordance with Recommendation VIII–3 of the Eighth Antarctic Treaty Consultative Meeting as having unique value for scientific investigation and needing protection from interference, and prescribe a management plan for such site which is consistent with any management plan approved by the United States for such site in accordance with such Recommendation;
+The Secretary of the Department in which the Coast Guard is operating shall issue such regulations as are necessary and appropriate, in addition to regulations issued under the Act to Prevent Pollution from Ships (33 U.S.C. 1901 et seq.), to implement Annex IV to the Protocol and the provisions of this chapter which implement that Annex, and, with the concurrence of the Director, such regulations as are necessary and appropriate to implement Article 15 of the Protocol with respect to vessels.
 
-&emsp;(4) identify, as a specially protected area, each area designated for special protection under the Agreed Measures because of its outstanding scientific or ecological interest;
+#### (c) Time period for regulations
 
-&emsp;(5) designate, as a specially protected species, any native species of mammal or bird which is approved by the United States for special protection under the Agreed Measures;
+The regulations to be issued under subsection (a)(1) and (2) of this section shall be issued within 2 years after October 2, 1996. The regulations to be issued under subsection (a)(3) of this section shall be issued within 3 years after October 2, 1996.
 
-&emsp;(6) designate as a pollutant any substance which the Director finds liable, if the substance is introduced into Antarctica, to create hazards to human health, to harm living resources or marine life, to damage amenities, or to interfere with other legitimate uses of Antarctica;
+(Pub. L. 95–541, §6, Oct. 28, 1978, 92 Stat. 2053; Pub. L. 104–227, title I, §106, Oct. 2, 1996, 110 Stat. 3041.)
 
-&emsp;(7) specify those actions which must, and those actions which must not, be taken in order to prevent or control the discharge or other disposal of pollutants, from any source within Antarctica;
+#### References in Text
 
-&emsp;(8) designate those animals and plants, not indigenous to Antarctica, which either may, or may not, be introduced into Antarctica, and specify those control measures which must be observed with respect to any such animals or plants which are allowed to be so introduced;
+The Act to Prevent Pollution from Ships, referred to in subsec. (b), is Pub. L. 96–478, Oct. 21, 1980, 94 Stat. 2297, as amended, which is classified principally to chapter 33 (§1901 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of thisAct to the Code, see Short Title note set out under section 1901 of Title 33 and Tables.
 
-&emsp;(9) specify the emergency circumstances with respect to which the exclusion set forth in the last sentence of section 2403(a) of this title applies; and
+#### Amendments
 
-&emsp;(10) set forth the form, content, and manner of filing, if applicable, of all notices, reports, declarations, or other documentation which may be required incident to the carrying out of any act for which a permit is required under section 2404 of this title.
-
-(Pub. L. 95–541, §6, Oct. 28, 1978, 92 Stat. 2053.)
+1996—Pub. L. 104–227 reenacted section catchline without change and amended text generally. Prior to amendment, text consisted of subsec. (a) “In General” which related to requirement that Director prescribe regulations to implement this chapter and subsec. (b) “Specific Regulations” which related to required content of regulations.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2402, 2404 of this title.
+This section is referred to in sections 2404, 2413 of this title.
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Penalty.—(1) Subject to section 21304 of this title, a person violating chapter 211 of this title <sup>1</sup> or violating any provision of a waiver applicable to that person that has been granted under section 21108 of this title, is liable to the United States Government for a civil penalty. An act by an individual that causes a railroad carrier to be in violation is a violation. For a violation of section 21106 of this title, a separate violation occurs for each day a facility is not in compliance.
+Penalty.—(1) Subject to section 21304 of this title, a person violating chapter 211 of this title, or violating any provision of a waiver applicable to that person that has been granted under section 21108 of this title, is liable to the United States Government for a civil penalty. An act by an individual that causes a railroad carrier to be in violation is a violation. For a violation of section 21106 of this title, a separate violation occurs for each day a facility is not in compliance.
 
 (2) The Secretary of Transportation imposes a civil penalty under this subsection. The amount of the penalty shall be at least $500 but not more than $10,000. However, when a grossly negligent violation or a pattern of repeated violations has caused an imminent hazard of death or injury to individuals, or has caused death or injury, the amount may be not more than $20,000.
 
@@ -26,11 +26,15 @@ Civil Actions To Collect.—(1) The Attorney General shall bring a civil action 
 
 Imputation of Knowledge.—In any proceeding under this section, a railroad carrier is deemed to know the acts of its officers and agents.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 892; Pub. L. 103–440, title II, §204, Nov. 2, 1994, 108 Stat. 4620.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 892; Pub. L. 103–440, title II, §204, Nov. 2, 1994, 108 Stat. 4620; Pub. L. 104–287, §5(54), Oct. 11, 1996, 110 Stat. 3393.)
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+Pub. L. 103–272
+
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -80,9 +84,13 @@ In subsection (b)(1), the words “The Attorney General shall bring a civil acti
 
 In subsection (c), the words “any proceeding” are substituted for “all prosecutions” for consistency in the revised title.
 
+#### Pub. L. 104–287
+
+This amends 49:21303(a)(1) to correct a grammatical error.
+
 #### Amendments
 
-1994—Subsec. (a)(1). Pub. L. 103–440 inserted “or violating any provision of a waiver applicable to that person that has been granted under section 21108 of this title,” after “chapter 211 of this title”.
+1996—Subsec. (a)(1). Pub. L. 104–287 inserted a comma after “chapter 211 of this title”.
 
-<i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
+1994—Subsec. (a)(1). Pub. L. 103–440 inserted “or violating any provision of a waiver applicable to that person that has been granted under section 21108 of this title,” after “chapter 211 of this title”.
 

@@ -1,18 +1,18 @@
 ### §3728. Setoff against judgment
 
-(a) The Comptroller General shall withhold paying that part of a judgment against the United States Government presented to the Comptroller General that is equal to a debt the plaintiff owes the Government.
+(a) The Secretary of the Treasury shall withhold paying that part of a judgment against the United States Government presented to the Secretary that is equal to a debt the plaintiff owes the Government.
 
-(b) The Comptroller General shall—
+(b) The Secretary shall—
 
 &emsp;(1) discharge the debt if the plaintiff agrees to the setoff and discharges a part of the judgment equal to the debt; or
 
-&emsp;(2)(A) withhold payment of an additional amount the Comptroller General decides will cover legal costs of bringing a civil action for the debt if the plaintiff denies the debt or does not agree to the setoff; and
+&emsp;(2)(A) withhold payment of an additional amount the Secretary decides will cover legal costs of bringing a civil action for the debt if the plaintiff denies the debt or does not agree to the setoff; and
 
 &emsp;(B) have a civil action brought if one has not already been brought.
 
-(c) If the Government loses a civil action to recover a debt or recovers less than the amount the Comptroller General withholds under this section, the Comptroller General shall pay the plaintiff the balance and interest of 6 percent for the time the money is withheld.
+(c) If the Government loses a civil action to recover a debt or recovers less than the amount the Secretary withholds under this section, the Secretary shall pay the plaintiff the balance and interest of 6 percent for the time the money is withheld.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 977.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 977; Pub. L. 104–316, title II, §202(p), Oct. 19, 1996, 110 Stat. 3844.)
 
 Historical and Revision Notes
 
@@ -48,9 +48,11 @@ Subsection (b)(2)(B) is substituted for 31:227(3d sentence) for consistency and 
 
 In subsection (c), the words “for debt and costs”, “thereon”, and “from the plaintiff” are omitted as surplus.
 
-#### Transfer of Functions
+#### Amendments
 
-Functions of Comptroller General under this section transferred, effective June 30, 1996, to Director of Office of Management and Budget, see section 211 of Pub. L. 104–53, set out as a note under section 501 of this title.
+1996—Subsec. (a). Pub. L. 104–316, §202(p)(1), (2), substituted “Secretary of the Treasury” for “Comptroller General” before “shall withhold” and “Secretary” for “Comptroller General” after “presented to the”.
+
+Subsecs. (b), (c). Pub. L. 104–316, §202(p)(2), substituted “Secretary” for “Comptroller General” wherever appearing.
 
 #### Section Referred to in Other Sections
 

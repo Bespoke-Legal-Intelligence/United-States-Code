@@ -24,7 +24,7 @@ The Secretary may, under such sanitary conditions as he may by regulations presc
 
 &emsp;(C) the slaughtering and processing of poultry products in any State or Territory or the District of Columbia by any poultry producer on his own premises with respect to sound and healthy poultry raised on his premises and the distribution by any person solely within such jurisdiction of the poultry products derived from such operations, if, in lieu of other labeling requirements, such poultry products are identified with the name and address of such poultry producer, and if they are not otherwise misbranded, and are sound, clean, and fit for human food when so distributed; and
 
-&emsp;(D) the slaughtering of sound and healthy poultry or the processing of poultry products of such poultry in any State or territory or the District of Columbia by any poultry producer or other person for distribution by him solely within such jurisdiction directly to household consumers, restaurants, hotels, and boarding houses, for use in their own dining rooms, or in the preparation of meals for sales direct to consumers, if, in lieu of other labeling requirements, such poultry products are identified with the name and address of the processor, and if they are not otherwise misbranded and are sound, clean, and fit for human food when distributed by such processor.
+&emsp;(D) the slaughtering of sound and healthy poultry or the processing of poultry products of such poultry in any State or territory or the District of Columbia by any poultry producer or other person for distribution by him solely within such jurisdiction directly to household consumers, restaurants, hotels, and boarding houses, for use in their own dining rooms, or in the preparation of meals for sales direct to consumers, if, in lieu of other labeling requirements, such poultry products are identified with the name and address of theprocessor, and if they are not otherwise misbranded and are sound, clean, and fit for human food when distributed by such processor.
 
 > The exemptions provided for in clauses (C) and (D) above shall not apply if the poultry producer or other person engages in the current calendar year in the business of buying or selling any poultry or poultry products other than as specified in such clauses.
 
@@ -52,7 +52,7 @@ The Secretary may, under such sanitary conditions as he may by regulations presc
 
 #### (e) Applicability of adulteration and misbranding provisions to articles exempted from inspection
 
-The adulteration and misbranding provisions of this chapter, other than the requirement ofthe inspection legend, shall apply to articles which are exempted from inspection under this section, except as otherwise specified under paragraphs (a) and (d).
+The adulteration and misbranding provisions of this chapter, other than the requirement of the inspection legend, shall apply to articles which are exempted from inspection under this section, except as otherwise specified under paragraphs (a) and (d).
 
 #### (f) Suspension or termination of exemption
 

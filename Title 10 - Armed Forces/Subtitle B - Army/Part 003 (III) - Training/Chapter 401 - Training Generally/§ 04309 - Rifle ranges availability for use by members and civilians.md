@@ -68,13 +68,19 @@ Regulations.—Regulations to carry out this section shall be prescribed by the 
 
 #### Effective Date of 1992 Amendment
 
-Amendment by Pub. L. 102–484 effective Oct. 1, 1992, and to be considered executed immediately following the amendments made by section 328 of Pub. L. 101–510, see section 380(e) of Pub. L. 102–484, set out as a note under section 4308 of this title.
+Section 380(e) of Pub. L. 102–484 provided that:
+
+“(1) This section \[enacting section 4316 of this title and amending this section and sections 4308 and 4313 of this title\] and the amendments made by this section shall take effect on the earlier of—
+
+&emsp;“(A) the date of the enactment of this Act \[Oct. 23, 1992\]; or
+
+&emsp;“(B) October 1, 1992.
+
+“(2) If under paragraph (1) the amendments made by this section take effect before October 1, 1992, the amendments made by section 328 of the National Defense Authorization Act for Fiscal Year 1991 (Public Law 101–510; 104 Stat. 1533) shall not take effect.
+
+“(3) If under paragraph (1) the amendments made by this section take effect on October 1, 1992, the amendments made by this section shall be considered executed immediately following the amendments made by section 328 of the National Defense Authorization Act for Fiscal Year 1991 (Public Law 101–510; 104 Stat. 1533).”
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–510, effective Oct. 1, 1992, see section 328(h) of Pub. L. 101–510, set out as a note under section 4308 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4311 of this title.
+Section 328(h) of Pub. L. 101–510 provided that: “The amendments made by this section \[amending this section and sections 4308, 4311, and 4313 of this title\] shall take effect on October 1, 1992.”
 

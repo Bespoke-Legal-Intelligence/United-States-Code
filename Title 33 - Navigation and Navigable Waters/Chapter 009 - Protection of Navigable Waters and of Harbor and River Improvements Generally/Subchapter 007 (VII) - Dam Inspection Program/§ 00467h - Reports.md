@@ -1,0 +1,30 @@
+### §467h. Reports
+
+#### (a) Report on dam insurance
+
+Not later than 180 days after October 12, 1996, the Director shall report to Congress on the availability of dam insurance and make recommendations concerning encouraging greater availability.
+
+#### (b) Biennial reports
+
+Not later than 90 days after the end of each odd-numbered fiscal year, the Director shall submit a report to Congress that—
+
+&emsp;(1) describes the status of the Program;
+
+&emsp;(2) describes the progress achieved by Federal agencies during the 2 preceding fiscal years in implementing the Federal Guidelines for Dam Safety;
+
+&emsp;(3) describes the progress achieved in dam safety by States participating in the Program; and
+
+&emsp;(4) includes any recommendations for legislative and other action that the Director considers necessary.
+
+(Pub. L. 92–367, §10, as added Pub. L. 104–303, title II, §215(c)(8), Oct. 12, 1996, 110 Stat. 3692.)
+
+#### Prior Provisions
+
+A prior section 467h, Pub. L. 92–367, §9, as added Pub. L. 99–662, title XII, §1201(b), Nov. 17, 1986, 100 Stat. 4262, provided for creation of National Dam Safety Review Board, prior to repeal by Pub. L. 104–303, title II, §215(c)(2), Oct. 12, 1996, 110 Stat. 3685.
+
+A prior section 10 of Pub. L. 92–367 was classified to section 467i of this title prior to repeal by Pub. L. 104–303.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 467j of this title.
+

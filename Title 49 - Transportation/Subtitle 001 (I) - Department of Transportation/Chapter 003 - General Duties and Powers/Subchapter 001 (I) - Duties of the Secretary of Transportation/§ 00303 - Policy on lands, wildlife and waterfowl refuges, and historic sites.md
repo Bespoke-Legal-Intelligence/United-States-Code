@@ -14,7 +14,9 @@
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -52,5 +54,5 @@ In subsection (c), before clause (1), the words “After August 23, 1968” afte
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 305 of this title; title 23 sections 108, 117; title 45 sections 1116, 1212.
+This section is referred to in section 305 of this title; title 16 section 460kkk; title 23 sections 108, 117; title 45 sections 1116, 1212.
 

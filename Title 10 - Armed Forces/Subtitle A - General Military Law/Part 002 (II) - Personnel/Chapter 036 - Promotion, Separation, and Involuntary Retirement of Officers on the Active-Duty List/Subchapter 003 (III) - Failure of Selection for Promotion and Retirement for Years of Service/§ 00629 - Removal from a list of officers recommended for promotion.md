@@ -1,6 +1,6 @@
 ### §629. Removal from a list of officers recommended for promotion
 
-(a) The President may remove the name of any officer from a list of officers recommended for promotion by a selection board convened under this chapter.
+(a) The President may remove the name of any officer from a list of officers recommended forpromotion by a selection board convened under this chapter.
 
 (b) If, after consideration of a list of officers approved for promotion by the President, the Senate does not give its advice and consent to the appointment of an officer whose name is on the list, that officer's name shall be removed from the list.
 

@@ -2,11 +2,13 @@
 
 (a)
 
-Standards and Regulations.—(1) To relieve and protect the public health and welfare from aircraft noise and sonic boom, the Administrator of the Federal Aviation Administration shall prescribe—
+Standards and Regulations.—(1)(A) To relieve and protect the public health and welfare from aircraft noise and sonic boom, the Administrator of the Federal Aviation Administration, as he deems necessary, shall prescribe—
 
-&emsp;(A) standards to measure aircraft noise and sonic boom; and
+&emsp;(i) standards to measure aircraft noise and sonic boom; and
 
-&emsp;(B) regulations to control and abate aircraft noise and sonic boom.
+&emsp;(ii) regulations to control and abate aircraft noise and sonic boom.
+
+(B) The Administrator, as the Administrator deems appropriate, shall provide for the participation of a representative of the Environmental Protection Agency on such advisory committees or associated working groups that advise the Administrator on matters related to the environmental effects of aircraft and aircraft engines.
 
 (2) The Administrator of the Federal Aviation Administration may prescribe standards and regulations under this subsection only after consulting with the Administrator of the Environmental Protection Agency. The standards and regulations shall be applied when issuing, amending, modifying, suspending, or revoking a certificate authorized under this chapter.
 
@@ -22,7 +24,7 @@ Considerations and Consultation.—When prescribing a standard or regulation und
 
 &emsp;(3) consider whether the standard or regulation is consistent with the highest degree of safety in air transportation or air commerce in the public interest;
 
-&emsp;(4) consider whether the standard or regulation is economically reasonable, technologically practicable, and appropriate for theapplicable aircraft, aircraft engine, appliance, or certificate; and
+&emsp;(4) consider whether the standard or regulation is economically reasonable, technologically practicable, and appropriate for the applicable aircraft, aircraft engine, appliance, or certificate; and
 
 &emsp;(5) consider the extent to which the standard or regulation will carry out the purposes of this section.
 
@@ -66,11 +68,13 @@ Supplemental Reports.—The Administrator of the Environmental Protection Agency
 
 Exemptions.—An exemption from a standard or regulation prescribed under this section may be granted only if, before granting the exemption, the Administrator of the Federal Aviation Administration consults with the Administrator of the Environmental Protection Agency. However, if the Administrator of the Federal Aviation Administration finds that safety in air transportation or air commerce requires an exemption before the Administrator of the Environmental Protection Agency can be consulted, the exemption may be granted. The Administrator of the Federal Aviation Administration shall consult with the Administrator of the Environmental Protection Agency as soon as practicable after the exemption is granted.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1196.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1196; Pub. L. 104–264, title IV, §406(a), Oct. 9, 1996, 110 Stat. 3257.)
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -126,7 +130,19 @@ In subsection (e), the words “actually taken . . . in response to EPA's prop
 
 In subsection (f), the words “under any provision of this chapter” and “that . . . be granted” are omitted as surplus. The words “the exemption may be granted” are added for clarity.
 
+#### Amendments
+
+1996—Subsec. (a)(1). Pub. L. 104–264, which in directing the general amendment of par. (1) inserted an additional subsec. (a) designation and heading identical to the existing subsec. heading as well as restating the text of par. (1), was executed by restating the text only to reflect the probable intent of Congress. Prior to amendment, par. (1) read as follows: “To relieve and protect the public health and welfare from aircraft noise and sonic boom, the Administrator of the Federal Aviation Administration shall prescribe—
+
+&emsp;“(A) standards to measure aircraft noise and sonic boom; and
+
+&emsp;“(B) regulations to control and abate aircraft noise and sonic boom.”
+
+#### Effective Date of 1996 Amendment
+
+Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
+
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 106, 44701, 44709, 44711, 45302, 46301, 46310, 46316, 47531 of this title; title 42 sections 4903, 4911, 4913, 4915.
+This section is referred to in sections 106, 44701, 44709, 44711, 45302, 46310, 47531 of this title; title 42 sections 4903, 4911, 4913, 4915.
 

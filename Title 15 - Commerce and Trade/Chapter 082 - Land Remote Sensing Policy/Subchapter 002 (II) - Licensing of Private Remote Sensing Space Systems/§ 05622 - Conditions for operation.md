@@ -2,7 +2,7 @@
 
 #### (a) License required for operation
 
-No person who is subject to the jurisdiction or control of the United States may, directly orthrough any subsidiary or affiliate, operate any private remote sensing space system without a license pursuant to section 5621 of this title.
+No person who is subject to the jurisdiction or control of the United States may, directly or through any subsidiary or affiliate, operate any private remote sensing space system without a license pursuant to section 5621 of this title.
 
 #### (b) Licensing requirements
 

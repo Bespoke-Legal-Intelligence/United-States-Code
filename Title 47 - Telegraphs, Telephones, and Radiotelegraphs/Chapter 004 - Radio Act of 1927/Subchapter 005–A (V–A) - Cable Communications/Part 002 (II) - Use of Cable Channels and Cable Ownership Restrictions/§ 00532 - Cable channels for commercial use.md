@@ -32,7 +32,7 @@ The purpose of this section is to promote competition in the delivery of diverse
 
 (1) If a person unaffiliated with the cable operator seeks to use channel capacity designated pursuant to subsection (b) of this section for commercial use, the cable operator shall establish, consistent with the purpose of this section and with rules prescribed by the Commission under paragraph (4), the price, terms, and conditions of such use which are at least sufficient to assure that such use will not adversely affect the operation, financial condition, or market development of the cable system.
 
-(2) A cable operator shall not exercise any editorial control over any video programming provided pursuant to this section, or in any other way consider the content of such programming, except that an operator may consider such content to the minimum extent necessary to establish a reasonable price for the commercial use of designated channel capacity by an unaffiliated person.
+(2) A cable operator shall not exercise any editorial control over any video programming provided pursuant to this section, or in any other way consider the content of such programming, except that a cable operator may refuse to transmit any leased access program or portion of a leased access program which contains obscenity, indecency, or nudity and may consider such content to the minimum extent necessary to establish a reasonable price for the commercial use of designated channel capacity by an unaffiliated person.
 
 (3) Any cable system channel designated in accordance with this section shall not be used to provide a cable service that is being provided over such system on October 30, 1984, if the provision of such programming is intended to avoid the purpose of this section.
 
@@ -54,7 +54,7 @@ Any person aggrieved by the failure or refusal of a cable operator to make chann
 
 (1) Any person aggrieved by the failure or refusal of a cable operator to make channel capacity available pursuant to this section may petition the Commission for relief under this subsection upon a showing of prior adjudicated violations of this section. Records of previous adjudications resulting in a court determination that the operator has violated this section shall be considered as sufficient for the showing necessary under this subsection. If the Commission finds that the channel capacity sought by such person has not been made available in accordance with this section, or that the price, terms, or conditions established by such system are unreasonable under subsection (c) of this section, the Commission shall, by rule or order, require such operator to make available such channel capacity under price, terms, and conditions consistent with subsection (c) of this section.
 
-(2) In any case in which the Commission finds that the prior adjudicated violations of this section constitute a pattern or practice of violations by an operator, the Commission may also establish any further rule or order necessary toassure that the operator provides the diversity of information sources required by this section.
+(2) In any case in which the Commission finds that the prior adjudicated violations of this section constitute a pattern or practice of violations by an operator, the Commission may also establish any further rule or order necessary to assure that the operator provides the diversity of information sources required by this section.
 
 (3) In any case in which the Commission finds that the prior adjudicated violations of this section constitute a pattern or practice of violations by any person who is an operator of more than one cable system, the Commission may also establish any further rule or order necessary to assure that such person provides the diversity of information sources required by this section.
 
@@ -92,9 +92,11 @@ Any cable service offered pursuant to this section shall not be provided, or sha
 
 (2) Cable operators shall comply with the regulations promulgated pursuant to paragraph (1).
 
-(June 19, 1934, ch. 652, title VI, §612, as added Oct. 30, 1984, Pub. L. 98–549, §2, 98 Stat. 2782; amended Oct. 5, 1992, Pub. L. 102–385, §§9, 10(a), (b), 106 Stat. 1484, 1486.)
+(June 19, 1934, ch. 652, title VI, §612, as added Oct. 30, 1984, Pub. L. 98–549, §2, 98 Stat. 2782; amended Oct. 5, 1992, Pub. L. 102–385, §§9, 10(a), (b), 106 Stat. 1484, 1486; Feb. 8, 1996, Pub. L. 104–104, title V, §506(b), 110 Stat. 137.)
 
 #### Amendments
+
+1996—Subsec. (c)(2). Pub. L. 104–104 substituted “a cable operator may refuse to transmit any leased access program or portion of a leased access program which contains obscenity, indecency, or nudity and” for “an operator”.
 
 1992—Subsec. (a). Pub. L. 102–385, §9(a), inserted “to promote competition in the delivery of diverse sources of video programming and” after “purpose of this section is”.
 
@@ -124,5 +126,5 @@ Section effective 60 days after Oct. 30, 1984, except where otherwise expressly 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 543, 558 of this title.
+This section is referred to in sections 541, 543, 558, 573 of this title.
 

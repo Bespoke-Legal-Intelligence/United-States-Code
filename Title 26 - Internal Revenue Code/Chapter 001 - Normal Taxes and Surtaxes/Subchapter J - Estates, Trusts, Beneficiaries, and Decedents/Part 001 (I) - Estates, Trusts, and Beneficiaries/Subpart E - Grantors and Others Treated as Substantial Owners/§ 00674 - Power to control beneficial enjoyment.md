@@ -66,7 +66,7 @@ Subsection (a) shall not apply to a power solely exercisable (without the approv
 
 &emsp;(2) to pay out corpus to or for a beneficiary or beneficiaries or to or for a class of beneficiaries (whether or not income beneficiaries).
 
-> A power does not fall within the powers described in this subsection if any person has apower to add to the beneficiary or beneficiaries or to a class of beneficiaries designated to receive the income or corpus, except where such action is to provide for after-born or after-adopted children. For periods during which an individual is the spouse of the grantor (within the meaning of section 672(e)(2)), any reference in this subsection to the grantor shall be treated as including a reference to such individual.
+> A power does not fall within the powers described in this subsection if any person has a power to add to the beneficiary or beneficiaries or to a class of beneficiaries designated to receive the income or corpus, except where such action is to provide for after-born or after-adopted children. For periods during which an individual is the spouse of the grantor (within the meaning of section 672(e)(2)), any reference in this subsection to the grantor shall be treated as including a reference to such individual.
 
 #### (d) Power to allocate income if limited by a standard
 

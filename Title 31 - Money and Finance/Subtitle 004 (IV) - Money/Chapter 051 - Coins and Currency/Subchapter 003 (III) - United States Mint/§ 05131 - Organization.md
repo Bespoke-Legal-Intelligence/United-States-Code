@@ -12,11 +12,9 @@
 
 (b) The Secretary of the Treasury shall carry out duties and powers related to refining and assaying bullion, minting coins, striking medals, and numismatic items at the mints. However, until the Secretary decides that the mints are adequate for minting and striking an ample supply of coins and medals, the Secretary may use any facility of the United States Mint to mint coins and strike medals and to store coins and medals.
 
-(c) Each mint has a superintendent and an assayer appointed by the President, by and with the advice and consent of the Senate. The mint at Philadelphia has an engraver appointed by the President, by and with the advice and consent of the Senate.
+(c) Laws on mints, officers and employees of mints, and punishment of offenses related to mints and minting coins apply to assay offices, as applicable.
 
-(d) Laws on mints, officers and employees of mints, and punishment of offenses related to mints and minting coins apply to assay offices, as applicable.
-
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 988; Pub. L. 100–274, §2(a)–(c)(2), Mar. 31, 1988, 102 Stat. 48; Pub. L. 102–390, title II, §§224, 225(b)(3), (4), Oct. 6, 1992, 106 Stat. 1629.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 988; Pub. L. 100–274, §2(a)–(c)(2), Mar. 31, 1988, 102 Stat. 48; Pub. L. 102–390, title II, §§224, 225(b)(3), (4), Oct. 6, 1992, 106 Stat. 1629; Pub. L. 104–208, div. A, title I, §101(f) \[title V, §§503, 522\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–344, 3009–347; Pub. L. 104–329, title III, §304, Oct. 20, 1996, 110 Stat. 4015.)
 
 Historical and Revision Notes
 
@@ -106,6 +104,8 @@ In subsection (e), the words “the mint at Philadelphia” are substituted for 
 
 #### Amendments
 
+1996—Subsecs. (c), (d). Pub. L. 104–208, §101(f) \[title V, §§503, 522\], and Pub. L. 104–329, amended section identically, redesignating subsec. (d) as (c) and striking out former subsec. (c) which read as follows: “Each mint has a superintendent and an assayer appointed by the President, by and with the advice and consent of the Senate. The mint at Philadelphia has an engraver appointed by the President, by and with the advice and consent of the Senate.”
+
 1992—Subsec. (a). Pub. L. 102–390, §225(b)(3), substituted “United States Mint” for “Bureau of the Mint” in introductory provisions.
 
 Subsec. (b). Pub. L. 102–390, §225(b)(4), substituted “United States Mint” for “Bureau”.
@@ -119,4 +119,8 @@ Subsec. (a)(4). Pub. L. 100–274, §2(a), substituted “mint” for “assay o
 Subsec. (b). Pub. L. 100–274, §2(c)(1), struck out “and assay offices, except that only bars may be made at the assay offices” before period at end of first sentence.
 
 Subsec. (c). Pub. L. 100–274, §2(c)(2), substituted “Each mint has” for “Each mint and the assay office at New York have”.
+
+#### Authority of Special Police Officers
+
+For authority of special police officers of United States Mint over buildings and land under control and in vicinity of the Mint and to protection in transit of bullion, coins, dies, and other property and assets of the Mint, see section 101(f) \[title V, §517(2), (3)\] of Pub. L. 104–208, set out as a note under section 5141 of this title.
 

@@ -1,4 +1,4 @@
-### §2389 . Recruiting for service against United States
+### §2389. Recruiting for service against United States
 
 Whoever recruits soldiers or sailors within the United States, or in any place subject to the jurisdiction thereof, to engage in armed hostility against the same; or
 

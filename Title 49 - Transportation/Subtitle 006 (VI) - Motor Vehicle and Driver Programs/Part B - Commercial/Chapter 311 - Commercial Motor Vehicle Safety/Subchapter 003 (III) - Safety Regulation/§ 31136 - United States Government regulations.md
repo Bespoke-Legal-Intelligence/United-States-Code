@@ -44,7 +44,7 @@ Commercial motor vehicle safety pilot program.—
 
 &emsp;&emsp;(A)
 
-In general.—Not later than the 270th day following the date of the enactment of this paragraph, the Secretary shall implement a commercial motor vehicle regulatory relief and safety pilot program (hereinafter in this paragraph referred to as the “program”) to grant and to monitor exemptions from the provisions of this section and sections 504 and 31502. The program shall provide that the Secretary, within 120 days after receiving an application for participation in the program from an employer, shall determine whether to exempt some or all of the eligible vehicles operated by the applicant, and some or all of the drivers of such vehicles employed by the applicant, from some or all of the regulations prescribed under this section and sections 504 and 31502—
+In general.—Not later than the 270th day following November 28, 1995, the Secretary shall implement a commercial motor vehicle regulatory relief and safety pilot program (hereinafter in this paragraph referred to as the “program”) to grant and to monitor exemptions from the provisions of this section and sections 504 and 31502. The program shall provide that the Secretary, within 120 days after receiving an application for participation in the program from an employer, shall determine whether to exempt some or all of the eligible vehicles operated by the applicant, and some or all of the drivers of such vehicles employed by the applicant, from some or all of the regulations prescribed under this section and sections 504 and 31502—
 
 &emsp;&emsp;&emsp;(i) if the applicant has a satisfactory safety rating issued by the Secretary or meets criteria established by the Secretary pursuant to subparagraph (J) instead of such rating; and
 
@@ -76,7 +76,7 @@ Approval factors.—In approving applicants for participation in the program, th
 
 &emsp;&emsp;&emsp;(i) ensure that the participants represent a broad cross-section of fleet size and drivers of eligible vehicles; and
 
-&emsp;&emsp;&emsp;(ii) ensure participation by qualified applicants, except to the extent limited by resources of the Secretary that are necessary to permit effective monitoring under subparagraph (G).
+&emsp;&emsp;&emsp;(ii) ensure participation by qualified applicants, except to the extent limited byresources of the Secretary that are necessary to permit effective monitoring under subparagraph (G).
 
 &emsp;&emsp;(F)
 
@@ -110,11 +110,11 @@ Guidelines.—
 
 &emsp;&emsp;&emsp;(i)
 
-In general.—Not later than the 270th day following the date of the enactment of this paragraph, the Secretary, after notice and opportunity for comment, shall establish criteria and define any terms necessary for implementing the program consistent with this section. In establishing the criteria, the Secretary may consider to what extent and under what conditions safety management controls may substitute, in whole or in part, for compliance with some or all of the regulations prescribed under this section and sections 504 and 31502.
+In general.—Not later than the 270th day following November 28, 1995, the Secretary, after notice and opportunity for comment, shall establish criteria and define any terms necessary for implementing the program consistent with this section. In establishing the criteria, the Secretary may consider to what extent and under what conditions safety management controls may substitute, in whole or in part, for compliance with some or all of the regulations prescribed under this section and sections 504 and 31502.
 
 &emsp;&emsp;&emsp;(ii)&nbsp;
 
-Limitation.—Notwithstanding clause (i), the program shall take effect on or before the 270th day following the date of the enactment of this paragraph. If the rulemaking described in clause (i) is not completed on or before such 270th day, the Secretary shall issue interim criteria, consistent with this section, pending the completion of the rulemaking described in this subsection.
+Limitation.—Notwithstanding clause (i), the program shall take effect on or before the 270th day following November 28, 1995. If the rulemaking described in clause (i) is not completed on or before such 270th day, the Secretary shall issue interim criteria, consistent with this section, pending the completion of the rulemaking described in this subsection.
 
 &emsp;&emsp;(K)
 
@@ -126,7 +126,7 @@ Eligible vehicles.—For purposes of this subsection, the term “eligible vehic
 
 &emsp;(3)
 
-Review of regulations.—Based in part on the information and experience obtained from the program, the Secretary shall conduct a zero-based review of the need for, and the costs and benefits of, all regulations prescribed under this section and sections 504 and 31502 to determine whether and to what extent such regulations should apply to eligible vehicles. The review shall focus on the appropriate level of safety that is in the public interest and the paperwork and regulatory burdens of such regulations as the regulations apply to employers and employees that use such vehicles. The Secretary shall complete the review by the last day of the 3-year period beginning on the date of the enactment of this paragraph. Upon completion of the review, the Secretary shall, after notice and an opportunity for public comment, grant such exemptions or modify or repeal existing regulations to the extent appropriate.
+Review of regulations.—Based in part on the information and experience obtained from the program, the Secretary shall conduct a zero-based review of the need for, and the costs and benefits of, all regulations prescribed under this section and sections 504 and 31502 to determine whether and to what extent such regulations should apply to eligible vehicles. The review shall focus on the appropriate level of safety that is in the public interest and the paperwork and regulatory burdens of such regulations as the regulations apply to employers and employees that use such vehicles. The Secretary shall complete the review by the last day of the 3-year period beginning on November 28, 1995. Upon completion of the review, the Secretary shall, after notice and an opportunity for public comment, grant such exemptions or modify or repeal existing regulations to the extent appropriate.
 
 (f)
 
@@ -154,11 +154,13 @@ Limitations on Municipality and Commercial Zone Exemptions and Waivers.—(1) Th
 
 (3) This subsection does not affect a State commercial motor vehicle safety law applicable to intrastate commerce.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1003; Pub. L. 104–59, title III, §344, Nov. 28, 1995, 109 Stat. 610.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1003; Pub. L. 104–59, title III, §344, Nov. 28, 1995, 109 Stat. 610; Pub. L. 104–287, §5(60), Oct. 11, 1996, 110 Stat. 3394.)
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -200,11 +202,9 @@ In subsection (d), the text of 49 App.:2505(d) is omitted as obsolete.
 
 In subsection (f)(2)(C)(i), the words “an operator” are substituted for “such person” because only a natural person can have a medical or physical condition.
 
-#### References in Text
-
-The date of the enactment of this paragraph, referred to in subsec. (e)(2)(A), (J), (3), is the date of enactment of Pub. L. 104–59, which was approved Nov. 28, 1995.
-
 #### Amendments
+
+1996—Subsec. (e)(2)(A), (J), (3). Pub. L. 104–287 substituted “November 28, 1995” for “the date of the enactment of this paragraph”.
 
 1995—Subsec. (e)(1) to (3). Pub. L. 104–59 designated existing text as par. (1) and inserted heading, and added pars. (2) and (3).
 
@@ -230,7 +230,7 @@ Exemptions.—
 
 &emsp;“(1)
 
-Transportation of agricultural commodities and farm supplies.—Regulations prescribed by the Secretary under sections 31136 and 31502 of title 49, United States Code, regarding maximum driving and on-duty time for drivers used by motor carriers shall not apply to drivers transporting agricultural commodities or farm supplies for agricultural purposes in a State if such transportation is limited to an area within a 100 air mile radius from the source of thecommodities or the distribution point for the farm supplies and is during the planting and harvesting seasons within such State, as determined by the State.
+Transportation of agricultural commodities and farm supplies.—Regulations prescribed by the Secretary under sections 31136 and 31502 of title 49, United States Code, regarding maximum driving and on-duty time for drivers used by motor carriers shall not apply to drivers transporting agricultural commodities or farm supplies for agricultural purposes in a State if such transportation is limited to an area within a 100 air mile radius from the source of the commodities or the distribution point for the farm supplies and is during the planting and harvesting seasons within such State, as determined by the State.
 
 &emsp;“(2)
 
@@ -274,7 +274,7 @@ hour period.—The term ‘24-hour period’ means any 24 consecutive hour perio
 
 &emsp;“(3)
 
-Ground water well drilling rig.—The term ‘ground water well drilling rig’ means any vehicle, machine, tractor, trailer, semi-trailer, or specialized mobile equipment propelled or drawn by mechanical power and used on highways to transport water well field operating equipment, including water well drilling and pump service rigs equipped to access ground water.
+Ground water well drilling rig.—The term ‘ground water well drilling rig’ means any vehicle,machine, tractor, trailer, semi-trailer, or specialized mobile equipment propelled or drawn by mechanical power and used on highways to transport water well field operating equipment, including water well drilling and pump service rigs equipped to access ground water.
 
 &emsp;“(4)
 
@@ -308,7 +308,7 @@ In General.—After notice and opportunity for comment, the Secretary shall deve
 
 “(b)
 
-Approval Criteria.—The Secretary shall select States to participate in the pilot program upon approval of applications submitted by States to the Secretary. The Secretary shall act on a State's application within 30 days after the date of its submission. TheSecretary may only approve an application of a State under this section if the Secretary finds, at a minimum, that—
+Approval Criteria.—The Secretary shall select States to participate in the pilot program upon approval of applications submitted by States to the Secretary. The Secretary shall act on a State's application within 30 days after the date of its submission. The Secretary may only approve an application of a State under this section if the Secretary finds, at a minimum, that—
 
 &emsp;“(1) a substantial number of the citizens of the State rely on home heating oil for heat during winter months;
 

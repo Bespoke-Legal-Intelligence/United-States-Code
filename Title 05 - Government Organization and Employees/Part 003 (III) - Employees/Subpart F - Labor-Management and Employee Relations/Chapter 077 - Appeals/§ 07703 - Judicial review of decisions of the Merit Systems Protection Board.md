@@ -8,7 +8,7 @@
 
 (2) Cases of discrimination subject to the provisions of section 7702 of this title shall be filed under section 717(c) of the Civil Rights Act of 1964 (42 U.S.C. 2000e–16(c)), section 15(c) of the Age Discrimination in Employment Act of 1967 (29 U.S.C. 633a(c)), and section 16(b) of the Fair Labor Standards Act of 1938, as amended (29 U.S.C. 216(b)), as applicable. Notwithstanding any other provision of law, any such case filed under any such section must be filed within 30 days after the date the individual filing the case received notice of the judicially reviewable action under such section 7702.
 
-(c) In any case filed in the United States Court of Appeals for the Federal Circuit, the court shall review the record and hold unlawful and set aside any agency action, findings, or conclusions found to be—
+(c) In any case filed in the United States Court of Appeals for the Federal Circuit, the courtshall review the record and hold unlawful and set aside any agency action, findings, or conclusions found to be—
 
 &emsp;(1) arbitrary, capricious, an abuse of discretion, or otherwise not in accordance with law;
 
@@ -28,9 +28,9 @@ The civil service law, referred to in subsec. (d), is set out in this title. See
 
 #### Amendments
 
-<b>1989</b>—Subsec. (a)(2). Pub. L. 101–12 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The Board shall be the named respondent in any proceeding brought pursuant to this subsection, unless the employee or applicant for employment seeks review of a final order or decision issued by the Board under section 7701. In review of a final order or decision issued under section 7701, the agency responsible for taking the action appealed to the Board shall be the named respondent.”
+1989—Subsec. (a)(2). Pub. L. 101–12 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The Board shall be the named respondent in any proceeding brought pursuant to this subsection, unless the employee or applicant for employment seeks review of a final order or decision issued by the Board under section 7701. In review of a final order or decision issued under section 7701, the agency responsible for taking the action appealed to the Board shall be the named respondent.”
 
-<b>1982</b>—Subsec. (b)(1). Pub. L. 97–164, §144(1), substituted “United States Court of Appeals for the Federal Circuit” for “Court of Claims or a United States court ofappeals as provided in chapters 91 and 158, respectively, of title 28”.
+1982—Subsec. (b)(1). Pub. L. 97–164, §144(1), substituted “United States Court of Appeals for the Federal Circuit” for “Court of Claims or a United States court of appeals as provided in chapters 91 and 158, respectively, of title 28”.
 
 Subsec. (c). Pub. L. 97–164, §144(2), substituted “Court of Appeals for the Federal Circuit” for “Court of Claims or a United States court of appeals”.
 

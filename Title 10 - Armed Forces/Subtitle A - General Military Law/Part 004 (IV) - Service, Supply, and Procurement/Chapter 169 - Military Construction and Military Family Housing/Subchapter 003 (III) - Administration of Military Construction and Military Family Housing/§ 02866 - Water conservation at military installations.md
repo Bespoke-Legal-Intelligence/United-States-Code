@@ -16,7 +16,7 @@ Water Conservation Activities.—(1) The Secretary of Defense shall permit and e
 
 (B) Subject to the availability of appropriations, a repayment of an advance payment under subparagraph (A) shall be made from funds available to a military department for the purchase of utility services.
 
-(C) An agreement under paragraph (3) shall provide that title to a water-saving device ortechnology installed at a military installation pursuant to the agreement shall vest in the United States. Such title may vest at such time during the term of the agreement, or upon expiration of the agreement, as determined to be in the best interests of the United States.
+(C) An agreement under paragraph (3) shall provide that title to a water-saving device or technology installed at a military installation pursuant to the agreement shall vest in the United States. Such title may vest at such time during the term of the agreement, or upon expiration of the agreement, as determined to be in the best interests of the United States.
 
 (b)
 
@@ -26,13 +26,13 @@ Use of Water Cost Savings.—Water cost savings realized under this section shal
 
 Water Conservation Construction Projects.—(1) The Secretary of Defense may carry out a military construction project for water conservation, not previously authorized, using funds appropriated or otherwise made available to the Secretary for water conservation.
 
-(2) When a decision is made to carry out a project under paragraph (1), the Secretary of Defense shall notify the Committees on Armed Services and Appropriations of the Senate and House of Representatives of that decision. Such project may be carried out only after the end of the 21-day period beginning on the date the notification is received by such committees.
+(2) When a decision is made to carry out a project under paragraph (1), the Secretary of Defense shall notify the appropriate committees of Congress of that decision. Such project may be carried out only after the end of the 21-day period beginning on the date the notification is received by such committees.
 
-(Added Pub. L. 103–160, div. B, title XXVIII, §2803(a), Nov. 30, 1993, 107 Stat. 1884.)
+(Added Pub. L. 103–160, div. B, title XXVIII, §2803(a), Nov. 30, 1993, 107 Stat. 1884; amended Pub. L. 104–106, div. A, title XV, §1502(a)(27), Feb. 10, 1996, 110 Stat. 506.)
 
-#### Change of Name
+#### Amendments
 
-Committee on Armed Services of House of Representatives treated as referring to Committee on National Security of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+1996—Subsec. (c)(2). Pub. L. 104–106 substituted “appropriate committees of Congress” for “Committees on Armed Services and Appropriations of the Senate and House of Representatives”.
 
 #### Retention of Savings and Rebates
 

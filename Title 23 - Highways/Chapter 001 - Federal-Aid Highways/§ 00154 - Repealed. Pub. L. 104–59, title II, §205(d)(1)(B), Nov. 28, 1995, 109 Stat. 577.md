@@ -1,6 +1,6 @@
 ### \[§154. Repealed. Pub. L. 104–59, title II, §205(d)(1)(B), Nov. 28, 1995, 109 Stat. 577\]
 
-Section, added Pub. L. 93–643, §114(a), Jan. 4, 1975, 88 Stat. 2286; amended Pub. L. 95–599, title II, §205, Nov. 6, 1978, 92 Stat. 2729; Pub. L. 97–35, title XI, §1108, Aug. 13, 1981, 95 Stat. 626; Pub. L. 100–17, title I, §174, Apr. 2, 1987, 101 Stat. 218; Pub. L. 102–240, title I, §1029(a), (b), (e), (g), Dec. 18, 1991, 105 Stat. 1968–1970, established the national maximum speed limit.
+Section, added Pub. L. 93–643, §114(a), Jan. 4, 1975, 88 Stat. 2286; amended Pub. L. 95–599, title II, §205, Nov. 6, 1978, 92 Stat. 2729; Pub. L. 97–35, title XI, §1108, Aug. 13, 1981, 95 Stat. 626; Pub. L. 100–17, title I, §174, Apr. 2, 1987, 101 Stat. 218; Pub. L. 102–240, title I, §1029(a), (b),\(e), (g), Dec. 18, 1991, 105 Stat. 1968–1970, established the national maximum speed limit.
 
 #### Effective Date of Repeal
 

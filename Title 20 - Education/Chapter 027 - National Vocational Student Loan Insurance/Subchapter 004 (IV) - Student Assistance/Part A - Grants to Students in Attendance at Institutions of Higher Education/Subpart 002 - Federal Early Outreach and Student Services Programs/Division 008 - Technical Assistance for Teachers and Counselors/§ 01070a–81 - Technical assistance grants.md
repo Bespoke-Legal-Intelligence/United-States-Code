@@ -2,7 +2,7 @@
 
 #### (a) Program authority
 
-From the amounts appropriated under subsection (f) of this section, the Secretary shall award grants to local educational agencies to use for the purpose of obtaining specializedtraining for guidance counselors, teachers, and principals to counsel students about college opportunities, precollege requirements, the college admissions procedure, and financial aid opportunities.
+From the amounts appropriated under subsection (f) of this section, the Secretary shall award grants to local educational agencies to use for the purpose of obtaining specialized training for guidance counselors, teachers, and principals to counsel students about college opportunities, precollege requirements, the college admissions procedure, and financial aid opportunities.
 
 #### (b) Selection of grant recipients
 

@@ -18,7 +18,7 @@ This chapter applies to the following:
 
 Source: Section (U.S. Code) 46 App. U.S.C. 71.
 
-Section 14501 delineates the vessels that must be measured under this chapter, i.e. under the regulatory tonnage measurement system. Section 14501(1) states that a vessel must be measured under this chapter ifthe vessel has not been measured under the International Convention on Tonnage Measurement of Ships, and if the vessel is to be documented as a vessel of the United States under chapter 121 of this subtitle, or if the application of a United States law depends on the vessels tonnage. Section 14501(2) states that a vessel must be measured under the regulatory measurement system if the owner requests.
+Section 14501 delineates the vessels that must be measured under this chapter, i.e. under the regulatory tonnage measurement system. Section 14501(1) states that a vessel must be measured under this chapter if the vessel has not been measured under the International Convention on Tonnage Measurement of Ships, and if the vessel is to be documented as a vessel of the United States under chapter 121 of this subtitle, or if the application of a United States law depends on the vessels tonnage. Section 14501(2) states that a vessel must be measured under the regulatory measurement system if the owner requests.
 
 #### Section Referred to in Other Sections
 

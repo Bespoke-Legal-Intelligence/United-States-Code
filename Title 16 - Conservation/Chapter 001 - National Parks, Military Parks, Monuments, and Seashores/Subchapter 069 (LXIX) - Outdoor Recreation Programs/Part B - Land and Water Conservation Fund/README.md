@@ -24,4 +24,5 @@ This part is referred to in sections 1c, 398f, 429b–4, 460y–9, 460ii–4, 46
 - [&sect; 00460l&#8211;10b - Contracts for options to acquire lands and waters in national park system](%C2%A7%2000460l%E2%80%9310b%20-%20Contracts%20for%20options%20to%20acquire%20lands%20and%20waters%20in%20national%20park%20system.md)
 - [&sect; 00460l&#8211;10c - Repeal of provisions prohibiting collection of recreation fees or user charges](%C2%A7%2000460l%E2%80%9310c%20-%20Repeal%20of%20provisions%20prohibiting%20collection%20of%20recreation%20fees%20or%20user%20charges.md)
 - [&sect; 00460l&#8211;10d - Review and report; submittal to Congressional committees; contents](%C2%A7%2000460l%E2%80%9310d%20-%20Review%20and%20report%3B%20submittal%20to%20Congressional%20committees%3B%20contents.md)
+- [&sect; 00460l&#8211;10e - Advisory Commission on water-based recreation](%C2%A7%2000460l%E2%80%9310e%20-%20Advisory%20Commission%20on%20water-based%20recreation.md)
 - [&sect; 00460l&#8211;11 - Transfers to and from land and water conservation fund](%C2%A7%2000460l%E2%80%9311%20-%20Transfers%20to%20and%20from%20land%20and%20water%20conservation%20fund.md)

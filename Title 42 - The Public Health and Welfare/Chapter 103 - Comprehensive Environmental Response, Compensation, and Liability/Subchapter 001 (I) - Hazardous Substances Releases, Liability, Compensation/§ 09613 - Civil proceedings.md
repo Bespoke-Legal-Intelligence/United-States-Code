@@ -18,7 +18,7 @@ No provision of this chapter shall be deemed or held to moot any litigation conc
 
 #### (e) Nationwide service of process
 
-In any action by the United States under this chapter, process may be served in any districtwhere the defendant is found, resides, transacts business, or has appointed an agent for the service of process.
+In any action by the United States under this chapter, process may be served in any district where the defendant is found, resides, transacts business, or has appointed an agent for the service of process.
 
 #### (f) Contribution
 
@@ -66,7 +66,7 @@ In any action by the United States under this chapter, process may be served in 
 
 &emsp;&emsp;(A) the date of judgment in any action under this chapter for recovery of such costs or damages, or
 
-&emsp;&emsp;(B) the date of an administrative order under section 9622(g) of this title (relating tode minimis settlements) or 9622(h) of this title (relating to cost recovery settlements) or entry of a judicially approved settlement with respect to such costs or damages.
+&emsp;&emsp;(B) the date of an administrative order under section 9622(g) of this title (relating to de minimis settlements) or 9622(h) of this title (relating to cost recovery settlements) or entry of a judicially approved settlement with respect to such costs or damages.
 
 #### (4) Subrogation
 

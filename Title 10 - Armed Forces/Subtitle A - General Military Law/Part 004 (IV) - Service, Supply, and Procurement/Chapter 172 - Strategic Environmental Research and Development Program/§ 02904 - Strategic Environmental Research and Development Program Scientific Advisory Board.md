@@ -48,7 +48,7 @@ Subsec. (b)(1). Pub. L. 102–190, §257(b)(2), added par. (1) and struck out fo
 
 #### Initial Appointments of Advisory Board Members
 
-Section 1801(b) of Pub. L. 101–510 directed Secretary of Defense and Secretary of Energy to make the appointments required by 10 U.S.C. 2904(a) not later than 60 days after Nov. 5, 1990, and provided that up to one-half of the members originally appointed to the Strategic Environmental Research and Development Program Scientific Advisory Board could be appointed for terms of not more than six and not less than two years inorder to provide for staggered expiration of the terms of members.
+Section 1801(b) of Pub. L. 101–510 directed Secretary of Defense and Secretary of Energy to make the appointments required by 10 U.S.C. 2904(a) not later than 60 days after Nov. 5, 1990, and provided that up to one-half of the members originally appointed to the Strategic Environmental Research and Development Program Scientific Advisory Board could be appointed for terms of not more than six and not less than two years in order to provide for staggered expiration of the terms of members.
 
 #### First Annual Report of Advisory Board
 

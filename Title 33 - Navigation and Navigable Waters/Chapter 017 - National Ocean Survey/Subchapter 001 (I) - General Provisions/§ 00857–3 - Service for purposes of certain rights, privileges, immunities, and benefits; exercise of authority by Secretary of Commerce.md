@@ -16,7 +16,7 @@
 
 #### References in Text
 
-The Soldiers’ and Sailors’ Civil Relief Act of 1940, as amended, referred to in subsec. (a)(3), is act Oct. 17,1940, ch. 888, 54 Stat. 1178, as amended, which is classified to section 501 et seq. of Title 50, Appendix, War and National Defense. For complete classification of this Act to the Code, see section 501 of Title 50, Appendix, and Tables.
+The Soldiers’ and Sailors’ Civil Relief Act of 1940, as amended, referred to in subsec. (a)(3), is act Oct. 17, 1940, ch. 888, 54 Stat. 1178, as amended, which is classified to section 501 et seq. of Title 50, Appendix, War and National Defense. For complete classification of this Act to the Code, see section 501 of Title 50, Appendix, and Tables.
 
 #### Amendments
 

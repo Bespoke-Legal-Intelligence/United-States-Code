@@ -24,7 +24,7 @@
 
 (3) In awarding National Research Service Awards under this section, the Secretary shall take account of the Nation's overall need for biomedical research personnel by giving special consideration to physicians who agree to undertake a minimum of two years of biomedical research.
 
-(4) The Secretary shall carry out paragraph (1) in a manner that will result in the recruitment of women, and individuals from disadvantaged backgrounds (including racial and ethnic minorities), into fields of biomedical or behavioral research and in the provision of research training to women and such individuals.
+(4) The Secretary shall carry out paragraph (1) in a manner that will result in the recruitment of women, and individuals from disadvantaged backgrounds (including racial and ethnic minorities), into fields of biomedical or behavioralresearch and in the provision of research training to women and such individuals.
 
 #### (b) Prerequisites for Award; review and approval by appropriate advisory councils; Award period; uses for Award; payments to non-Federal public or nonprofit private institutions
 
@@ -64,19 +64,15 @@
 
 (4)(A) If any individual to whom the requirement of paragraph (1) is applicable fails, within the period prescribed by paragraph (3), to comply with such requirements, the United States shall be entitled to recover from such individual an amount determined in accordance with the formula—
 
-&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;t−s&nbsp;
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;t−s  v
 
-> &nbsp;A=φ  G7
+### A=φ  (——)
 
-/—— G7
-
-S
-
-&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;t
+### &nbsp;&nbsp;&nbsp;&nbsp;t&nbsp;&nbsp;
 
 > in which “A” is the amount the United States is entitled to recover; “φ” is the sum of the total amount paid under one or more National Research Service Awards to such individual; “t” is the total number of months in such individual's service obligation; and “s” is the number of months of such obligation served by such individual in accordance with paragraphs (1) and (2) of this subsection.
 
-(B) Any amount which the United States is entitled to recover under subparagraph (A) shall, within the three-year period beginning on the date the United States becomes entitled to recover such amount, be paid to the United States. Until any amount due the United States under subparagraph (A) on account of any National Research Service Award is paid, there shall accrue to the United States interest on such amount at a rate fixed by the Secretary of the Treasury after taking into consideration private consumer rates of interest prevailing on the date the United States becomes entitled to such amount.
+(B) Any amount which the United States is entitled to recover under subparagraph (A) shall,within the three-year period beginning on the date the United States becomes entitled to recover such amount, be paid to the United States. Until any amount due the United States under subparagraph (A) on account of any National Research Service Award is paid, there shall accrue to the United States interest on such amount at a rate fixed by the Secretary of the Treasury after taking into consideration private consumer rates of interest prevailing on the date the United States becomes entitled to such amount.
 
 (5)(A) Any obligation of an individual under paragraph (1) shall be canceled upon the death of such individual.
 
@@ -94,7 +90,7 @@ For the purpose of carrying out this section, there are authorized to be appropr
 
 &emsp;(4) not more than 4 percent may be obligated for National Research Service Awards for periods of three months or less.
 
-(July 1, 1944, ch. 373, title IV, §487, as added Nov. 20, 1985, Pub. L. 99–158, §2, 99 Stat. 869; amendedNov. 4, 1988, Pub. L. 100–607, title I, §151, title VI, §635, 102 Stat. 3058, 3148; Aug. 16, 1989, Pub. L. 101–93, §5(d), 103 Stat. 612; Dec. 19, 1989, Pub. L. 101–239, title VI, §6103(e)(7), 103 Stat. 2208; July 10, 1992, Pub. L. 102–321, title I, §163(b)(4), 106 Stat. 376; June 10, 1993, Pub. L. 103–43, title XVI, §§1601, 1602, 1632, 1641, title XX, §2008(b)(14), 107 Stat. 181, 186, 211.)
+(July 1, 1944, ch. 373, title IV, §487, as added Nov. 20, 1985, Pub. L. 99–158, §2, 99 Stat. 869; amended Nov. 4, 1988, Pub. L. 100–607, title I, §151, title VI, §635, 102 Stat. 3058, 3148; Aug. 16, 1989, Pub. L. 101–93, §5(d), 103 Stat. 612; Dec. 19, 1989, Pub. L. 101–239, title VI, §6103(e)(7), 103 Stat. 2208; July 10, 1992, Pub. L. 102–321, title I, §163(b)(4), 106 Stat. 376; June 10, 1993, Pub. L. 103–43, title XVI, §§1601, 1602, 1632, 1641, title XX, §2008(b)(14), 107 Stat. 181, 186, 211.)
 
 #### Amendments
 

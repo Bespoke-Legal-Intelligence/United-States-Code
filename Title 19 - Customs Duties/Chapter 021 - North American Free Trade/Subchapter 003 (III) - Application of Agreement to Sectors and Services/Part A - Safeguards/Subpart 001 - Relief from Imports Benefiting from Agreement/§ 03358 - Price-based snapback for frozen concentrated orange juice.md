@@ -28,9 +28,9 @@ Whenever after any determination date for a determination under subsection (a)(1
 
 The rate of duty specified for purposes of subsection (b) of this section for articles entered on any day is the rate in the HTS that is the lower of—
 
-&emsp;(1) the column 1–General rate of duty in effect for such articles on July 1, 1991; or
+&emsp;(1) the column 1 general rate of duty in effect for such articles on July 1, 1991; or
 
-&emsp;(2) the column 1–General rate of duty in effect on that day.
+&emsp;(2) the column 1 general rate of duty in effect on that day.
 
 #### (d) Definitions
 
@@ -48,5 +48,9 @@ For purposes of this section—
 
 &emsp;(6) The term “trigger price” means the average daily closing price of the New York Cotton Exchange, or any successor as determined by the Secretary, for the corresponding month during the previous 5-year period, excluding the year with the highest average price for the corresponding month and the year with the lowest average price for the corresponding month.
 
-(Pub. L. 103–182, title III, §309, Dec. 8, 1993, 107 Stat. 2105.)
+(Pub. L. 103–182, title III, §309, Dec. 8, 1993, 107 Stat. 2105; Pub. L. 104–295, §21(b)(4), Oct. 11, 1996, 110 Stat. 3530.)
+
+#### Amendments
+
+1996—Subsec. (c)(1), (2). Pub. L. 104–295 substituted “column 1 general” for “column 1–General”.
 

@@ -4,7 +4,7 @@
 | :--- | ---: |
 | [8961\.](%C2%A7%2008961%20-%20General%20rule.md) | General rule. |
 | [8962\.](%C2%A7%2008962%20-%20Higher%20grade%20for%20service%20in%20special%20positions.md) | Higher grade for service in special positions. |
-| \[8963. | Repealed.\] |
+| [8963\.](%C2%A7%2008963%20-%20Highest%20grade%20held%20satisfactorily%20Reserve%20enlisted%20members%20reduced%20in%20grade%20not%20as%20a%20result%20of%20the%20member%27s%20misconduct.md) | Highest grade held satisfactorily: Reserve enlisted members reduced in grade not as a result of the member's misconduct. |
 | [8964\.](%C2%A7%2008964%20-%20Higher%20grade%20after%2030%20years%20of%20service%20warrant%20officers%20and%20enlisted%20members.md) | Higher grade after 30 years of service: warrant officers and enlisted members. |
 | [8965\.](%C2%A7%2008965%20-%20Restoration%20to%20former%20grade%20retired%20warrant%20officers%20and%20enlisted%20members.md) | Restoration to former grade: retired warrant officers and enlisted members. |
 | [8966\.](%C2%A7%2008966%20-%20Retired%20lists.md) | Retired lists. |
@@ -12,6 +12,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1996—Pub. L. 104–201, div. A, title V, §532(c)(2), Sept. 23, 1996, 110 Stat. 2520, added item 8963.
 
 1988—Pub. L. 100–456, div. A, title XII, §1233(i)(2)(B), Sept. 29, 1988, 102 Stat. 2058, substituted “retired” for “Regular Air Force” in item 8965.
 
@@ -32,7 +34,7 @@ Retired grade, general military law provisions, see section 1371 et seq. of this
 
 - [&sect; 08961 - General rule](%C2%A7%2008961%20-%20General%20rule.md)
 - [&sect; 08962 - Higher grade for service in special positions](%C2%A7%2008962%20-%20Higher%20grade%20for%20service%20in%20special%20positions.md)
-- [&sect; 08963 - Repealed. Pub. L. 99&#8211;145, title XIII, &sect;1301(d)(2)(A), Nov. 8, 1985, 99 Stat. 736](%C2%A7%2008963%20-%20Repealed.%20Pub.%20L.%2099%E2%80%93145%2C%20title%20XIII%2C%20%C2%A71301%28d%29%282%29%28A%29%2C%20Nov.%208%2C%201985%2C%2099%20Stat.%20736.md)
+- [&sect; 08963 - Highest grade held satisfactorily Reserve enlisted members reduced in grade not as a result of the member's misconduct](%C2%A7%2008963%20-%20Highest%20grade%20held%20satisfactorily%20Reserve%20enlisted%20members%20reduced%20in%20grade%20not%20as%20a%20result%20of%20the%20member%27s%20misconduct.md)
 - [&sect; 08964 - Higher grade after 30 years of service warrant officers and enlisted members](%C2%A7%2008964%20-%20Higher%20grade%20after%2030%20years%20of%20service%20warrant%20officers%20and%20enlisted%20members.md)
 - [&sect; 08965 - Restoration to former grade retired warrant officers and enlisted members](%C2%A7%2008965%20-%20Restoration%20to%20former%20grade%20retired%20warrant%20officers%20and%20enlisted%20members.md)
 - [&sect; 08966 - Retired lists](%C2%A7%2008966%20-%20Retired%20lists.md)

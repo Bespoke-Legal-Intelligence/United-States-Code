@@ -18,7 +18,7 @@ Consultation and Reporting.—The working group—
 
 &emsp;(1) shall consult with persons subject to registration and permit requirements described in subsection (a) of this section; and
 
-&emsp;(2) not later than November 16, 1993, shall submit to the Secretary, the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Public Works and Transportation of the House of Representatives a final report that contains—
+&emsp;(2) not later than November 16, 1993, shall submit to the Secretary, the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Transportation and Infrastructure of the House of Representatives a final report that contains—
 
 &emsp;&emsp;(A) a detailed statement of its findings and conclusions; and
 
@@ -36,11 +36,13 @@ Regulations on Recommendations.—(1) The Secretary shall prescribe regulations 
 
 Relationship to Other Laws.—The Federal Advisory Committee Act (5 App. U.S.C.) does not apply to the working group.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 777.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 777; Pub. L. 104–287, §5(9), Oct. 11, 1996, 110 Stat. 3389.)
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -80,9 +82,9 @@ In subsection (c)(1), the words “Subject to the provisions of this subsection�
 
 The Federal Advisory Committee Act, referred to in subsec. (d), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
-#### Change of Name
+#### Amendments
 
-Committee on Public Works and Transportation of House of Representatives treated as referring to Committee on Transportation and Infrastructure of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+1996—Subsec. (b)(2), Pub. L. 104–287 substituted “Transportation and Infrastructure” for “Public Works and Transportation”.
 
 #### Section Referred to in Other Sections
 

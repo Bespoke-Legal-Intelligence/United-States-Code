@@ -18,7 +18,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 5 U.S.C. 2094(a) (1st par.).
 
@@ -30,7 +32,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-<b>1980</b>—Subsec. (a). Pub. L. 96–427 designated first sentence of existing section as subsec. (a) and substituted “a policy purchased” for “a policy of insurance purchased” and “the employee's pay a share of the cost” for “the pay of the employee his share of the cost”.
+1980—Subsec. (a). Pub. L. 96–427 designated first sentence of existing section as subsec. (a) and substituted “a policy purchased” for “a policy of insurance purchased” and “the employee's pay a share of the cost” for “the pay of the employee his share of the cost”.
 
 Subsec. (b). Pub. L. 96–427 added subsec. (b).
 
@@ -38,9 +40,9 @@ Subsec. (c). Pub. L. 96–427 designated second sentence of existing section as 
 
 Subsec. (d). Pub. L. 96–427 added subsec. (d).
 
-<b>1978</b>—Pub. L. 95–454 substituted “Office of Personnel Management” and “Office” for “Civil Service Commission” and “Commission”, respectively.
+1978—Pub. L. 95–454 substituted “Office of Personnel Management” and “Office” for “Civil Service Commission” and “Commission”, respectively.
 
-<b>1967</b>—Pub. L. 90–206 struck out reference to the Civil Service Commission's function of determining the amount to be withheld for group insurance and substituted provisions setting a rate of 662/3 percent of the level cost of each $1,000 of insurance as determined by the Commission for provisions setting a limit of 25 cents biweekly for each $1,000 of group life insurance and directing the withholding of the amount from employees paid on other than a biweekly basis at a proportional rate adjusted to the nearest cent.
+1967—Pub. L. 90–206 struck out reference to the Civil Service Commission's function of determining the amount to be withheld for group insurance and substituted provisions setting a rate of 662/3 percent of the level cost of each $1,000 of insurance as determined by the Commission for provisions setting a limit of 25 cents biweekly for each $1,000 of group life insurance and directing the withholding of the amount from employees paid on other than a biweekly basis at a proportional rate adjusted to the nearest cent.
 
 #### Effective Date of 1980 Amendment
 

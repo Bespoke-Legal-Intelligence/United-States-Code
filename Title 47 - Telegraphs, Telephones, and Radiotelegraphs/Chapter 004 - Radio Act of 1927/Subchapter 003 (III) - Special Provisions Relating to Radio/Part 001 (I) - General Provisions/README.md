@@ -45,3 +45,4 @@ Part I—General Provisions
 - [&sect; 00333 - Willful or malicious interference](%C2%A7%2000333%20-%20Willful%20or%20malicious%20interference.md)
 - [&sect; 00334 - Limitation on revision of equal employment opportunity regulations](%C2%A7%2000334%20-%20Limitation%20on%20revision%20of%20equal%20employment%20opportunity%20regulations.md)
 - [&sect; 00335 - Direct broadcast satellite service obligations](%C2%A7%2000335%20-%20Direct%20broadcast%20satellite%20service%20obligations.md)
+- [&sect; 00336 - Broadcast spectrum flexibility](%C2%A7%2000336%20-%20Broadcast%20spectrum%20flexibility.md)

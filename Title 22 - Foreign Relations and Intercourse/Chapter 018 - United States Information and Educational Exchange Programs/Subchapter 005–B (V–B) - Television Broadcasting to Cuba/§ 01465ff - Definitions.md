@@ -2,15 +2,23 @@
 
 As used in this subchapter—
 
-&emsp;(1) the term “licensee” has the meaning provided in section 153(c) of title 47;
+&emsp;(1) the term “licensee” has the meaning provided in section 153(c) <sup>1</sup> of title 47;
 
-&emsp;(2) the term “incumbent domestic licensee” means a licensee as provided in section 153(c) of title 47 that was broadcasting a television signal as of January 1, 1989;
+&emsp;(2) the term “incumbent domestic licensee” means a licensee as provided in section 153(c) <sup>1</sup> of title 47 that was broadcasting a television signal as of January 1, 1989;
 
 &emsp;(3) the term “objectionable interference” shall be applied in the same manner as such term is applied under regulations of the Federal Communications Commission to other domestic broadcasters; and
 
 &emsp;(4) the term “appropriate committees of Congress” includes the Committee on Foreign Affairs and the Committee on Energy and Commerce of the House of Representatives and the Committee on Foreign Relations of the Senate.
 
 (Pub. L. 101–246, title II, §248, Feb. 16, 1990, 104 Stat. 62.)
+
+#### Repeal of Section
+
+<i>Section repealed upon transmittal of determination by President under section 6063(c)(3) of this title that democratically elected government in Cuba is in power, see section 6037(c) of this title.</i>
+
+#### References in Text
+
+Section 153 of title 47, referred to in pars. (1) and (2), was subsequently amended, and section 153(c) no longer defines “licensee”. However, such term is defined elsewhere in that section.
 
 #### Codification
 

@@ -24,7 +24,7 @@ Such agreements may include one or more of the following incentives:
 
 &emsp;(6) In the case of housing defined in section 4119(1)(A)(iii) of this title, redirection of the Interest Reduction Payment subsidies to a second mortgage.
 
-&emsp;(7) Access by the owner to a portion of the preservation equity in the housing through provision of insurance for a second mortgage loan insured under section 1715z–6(f) of this title or a non-insured mortgage loan approved by the Secretary and the mortgagee.
+&emsp;(7) Access by the owner to a portion of the preservation equity in the housing throughprovision of insurance for a second mortgage loan insured under section 1715z–6(f) <sup>2</sup> of this title or a non-insured mortgage loan approved by the Secretary and the mortgagee.
 
 &emsp;(8) Other incentives authorized in law.
 
@@ -35,6 +35,8 @@ Such agreements may include one or more of the following incentives:
 #### References in Text
 
 Section 201 of the Housing and Community Development Amendments of 1978, referred to in subsec. (b)(4), is section 201 of Pub. L. 95–557, title II, Oct. 31, 1978, 92 Stat. 2084, which enacted section 1715z–1a of this title and amended section 1715z–1 of this title.
+
+Section 1715z–6(f) of this title, referred to in subsec. (b)(7), was repealed by Pub. L. 104–204, title II, Sept. 26, 1996, 110 Stat. 2885.
 
 #### Amendments
 
@@ -57,4 +59,6 @@ Report.—The Secretary shall submit a report to the Congress regarding any find
 This section is referred to in sections 4102, 4103, 4104, 4105, 4106, 4107, 4110, 4111, 4112, 4114, 4119 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “subsection”.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

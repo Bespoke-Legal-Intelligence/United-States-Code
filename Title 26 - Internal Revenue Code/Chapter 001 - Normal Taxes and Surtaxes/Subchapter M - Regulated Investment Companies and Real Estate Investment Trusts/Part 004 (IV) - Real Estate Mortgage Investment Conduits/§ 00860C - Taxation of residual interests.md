@@ -24,7 +24,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) regular interests in such REMIC (if not otherwise debt instruments) shall be treated as indebtedness of such REMIC,
 
-&emsp;&emsp;(B) market discount on any market discount bond shall be included in gross incomefor the taxable years to which it is attributable as determined under the rules of section 1276(b)(2) (and sections 1276(a) and 1277 shall not apply),
+&emsp;&emsp;(B) market discount on any market discount bond shall be included in gross income for the taxable years to which it is attributable as determined under the rules of section 1276(b)(2) (and sections 1276(a) and 1277 shall not apply),
 
 &emsp;&emsp;(C) there shall not be taken into account any item of income, gain, loss, or deduction allocable to a prohibited transaction,
 

@@ -47,10 +47,10 @@
 | (i) | Congregate services program funding. |
 | (j) | Miscellaneous provisions. |
 | (k) | Definitions. |
-| (<i>l)</i> | Reports to Congress. |
+| (<i>l</i>) | Reports to Congress. |
 | (m) | Regulations. |
 | (n) | Authorization of appropriations. |
-| (<i>o)</i> | Reserve fund. |
+| (<i>o</i>) | Reserve fund. |
 | [8012\.](%C2%A7%2008012%20-%20Hope%20for%20elderly%20independence.md) | Hope for elderly independence. |
 | (a) | Purpose. |
 | (b) | Housing assistance. |
@@ -63,7 +63,7 @@
 | (i) | Report. |
 | (j) | Section 1437f funding. |
 | (k) | Funding for services. |
-| (<i>l)</i> | Implementation. |
+| (<i>l</i>) | Implementation. |
 | [8013\.](%C2%A7%2008013%20-%20Supportive%20housing%20for%20persons%20with%20disabilities.md) | Supportive housing for persons with disabilities. |
 | (a) | Purpose. |
 | (b) | Authority to provide assistance. |
@@ -76,7 +76,7 @@
 | (i) | Tenant selection. |
 | (j) | Miscellaneous provisions. |
 | (k) | Definitions. |
-| (<i>l)</i> | Allocation of funds. |
+| (<i>l</i>) | Allocation of funds. |
 | (m) | Effective date and applicability. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

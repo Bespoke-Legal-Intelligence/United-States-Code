@@ -24,7 +24,7 @@
 
 #### (2) Mandatory adjustment of schedule
 
-&emsp;For any fiscal year after fiscal year 1994, the Commission shall, by rule, revise the Schedule of Regulatory Fees by proportionate increases or decreases to reflect, in accordance with paragraph (1)(B), changes in the amount appropriated for the performance of the activities described in subsection (a) of this section for such fiscal year. Such proportionate increases or decreases shall—
+&emsp;For any fiscal year after fiscal year 1994, the Commission shall, by rule, revise the Scheduleof Regulatory Fees by proportionate increases or decreases to reflect, in accordance with paragraph (1)(B), changes in the amount appropriated for the performance of the activities described in subsection (a) of this section for such fiscal year. Such proportionate increases or decreases shall—
 
 &emsp;&emsp;(A) be adjusted to reflect, within the overall amounts described in appropriations Acts under the authority of paragraph (1)(A), unexpected increases or decreases in the number of licensees or units subject to payment of such fees; and
 

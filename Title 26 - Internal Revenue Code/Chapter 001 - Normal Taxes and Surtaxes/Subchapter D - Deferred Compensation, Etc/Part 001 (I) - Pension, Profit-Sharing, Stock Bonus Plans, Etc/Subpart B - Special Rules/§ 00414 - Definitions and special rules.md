@@ -10,11 +10,11 @@ For purposes of this part—
 
 #### (b) Employees of controlled group of corporations
 
-For purposes of sections 401, 408(k), 410, 411, 415, and 416, all employees of all corporations which are members of a controlled group of corporations (within the meaning of section 1563(a), determined without regard to section 1563(a)(4) and (e)(3)(C)) shall be treated as employed by a single employer. With respect to a plan adoptedby more than one such corporation, the applicable limitations provided by section 404(a) shall be determined as if all such employers were a single employer, and allocated to each employer in accordance with regulations prescribed by the Secretary.
+For purposes of sections 401, 408(k), 408(p), 410, 411, 415, and 416, all employees of all corporations which are members of a controlled group of corporations (within the meaning of section 1563(a), determined without regard to section 1563(a)(4) and (e)(3)(C)) shall be treated as employed by a single employer. With respect to a plan adopted by more than one such corporation, the applicable limitations provided by section 404(a) shall be determined as if all such employers were a single employer, and allocated to each employer in accordance with regulations prescribed by the Secretary.
 
 #### (c) Employees of partnerships, proprietorships, etc., which are under common control
 
-For purposes of sections 401, 408(k), 410, 411, 415, and 416, under regulations prescribed by the Secretary, all employees of trades or businesses (whether or not incorporated) which are under common control shall be treated as employed by a single employer. The regulations prescribed under this subsection shall be based on principles similar to the principles which apply in the case of subsection (b).
+For purposes of sections 401, 408(k), 408(p), 410, 411, 415, and 416, under regulations prescribed by the Secretary, all employees of trades or businesses (whether or not incorporated) which are under common control shall be treated as employed by a single employer. The regulations prescribed under this subsection shall be based on principles similar to the principles which apply in the case of subsection (b).
 
 #### (d) Governmental plan
 
@@ -72,7 +72,7 @@ For purposes of this part, the term “governmental plan” means a plan establi
 
 #### (A) In general
 
-&emsp;&emsp;If a plan established and maintained for its employees (or their beneficiaries) by a church or by a convention or association of churches which is exempt from tax under section 501 fails to meet one or more of the requirements of this subsection and corrects its failure to meet such requirements withinthe correction period, the plan shall be deemed to meet the requirements of this subsection for the year in which the correction was made and for all prior years.
+&emsp;&emsp;If a plan established and maintained for its employees (or their beneficiaries) by a church or by a convention or association of churches which is exempt from tax under section 501 fails to meet one or more of the requirements of this subsection and corrects its failure to meet such requirements within the correction period, the plan shall be deemed to meet the requirements of this subsection for the year in which the correction was made and for all prior years.
 
 #### (B) Failure to correct
 
@@ -89,6 +89,46 @@ For purposes of this part, the term “governmental plan” means a plan establi
 &emsp;&emsp;&emsp;(iii) any additional period which the Secretary determines is reasonable or necessary for the correction of the default,
 
 > &emsp;whichever has the latest ending date.
+
+#### (5) Special rules for chaplains and self-employed ministers
+
+#### (A) Certain ministers may participate
+
+&emsp;&emsp;For purposes of this part—
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;An employee of a church or a convention or association of churches shall include a duly ordained, commissioned, or licensed minister of a church who, in connection with the exercise of his or her ministry—
+
+&emsp;&emsp;&emsp;&emsp;(I) is a self-employed individual (within the meaning of section 401(c)(1)(B)), or
+
+&emsp;&emsp;&emsp;&emsp;(II) is employed by an organization other than an organization described in section 501(c)(3).
+
+#### (ii) Treatment as employer and employee
+
+#### (I) Self-employed
+
+&emsp;&emsp;&emsp;&emsp;A minister described in clause (i)(I) shall be treated as his or her own employer which is an organization described in section 501(c)(3) and which is exempt from tax under section 501(a).
+
+#### (II) Others
+
+&emsp;&emsp;&emsp;&emsp;A minister described in clause (i)(II) shall be treated as employed by an organization described in section 501(c)(3) and exempt from tax under section 501(a).
+
+#### (B) Special rules for applying section 403(b) to self-employed ministers
+
+&emsp;&emsp;In the case of a minister described in subparagraph (A)(i)(I)—
+
+&emsp;&emsp;&emsp;(i) the minister's includible compensation under section 403(b)(3) shall be determined by reference to the minister's earned income (within the meaning of section 401(c)(2)) from such ministry rather than the amount of compensation which is received from an employer, and
+
+&emsp;&emsp;&emsp;(ii) the years (and portions of years) in which such minister was a self-employed individual (within the meaning of section 401(c)(1)(B)) with respect to such ministry shall be included for purposes of section 403(b)(4).
+
+#### (C) Effect on non-denominational plans
+
+&emsp;&emsp;If a duly ordained, commissioned, or licensed minister of a church in the exercise of his or her ministry participates in a church plan (within the meaning of this section) and in the exercise of such ministry is employed by an employer not eligible to participate in such church plan, then such employer may exclude such minister from being treated as an employee of such employer for purposes of applying sections 401(a)(3), 401(a)(4), and 401(a)(5), as in effect on September 1, 1974, and sections 401(a)(4), 401(a)(5), 401(a)(26), 401(k)(3), 401(m), 403(b)(1)(D) (including section 403(b)(12)), and 410 to any stock bonus, pension, profit-sharing, or annuity plan (including an annuity described in section 403(b) or a retirement income account described in section 403(b)(9)). The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purpose of, and prevent the abuse of, this subparagraph.
+
+#### (D) Compensation taken into account only once
+
+&emsp;&emsp;If any compensation is taken into account in determining the amount of any contributions made to, or benefits to be provided under, any church plan, such compensation shall not also be taken into account in determining the amount of any contributions made to, or benefits to be provided under, any other stock bonus, pension, profit-sharing, or annuity plan which is not a church plan.
 
 #### (f) Multiemployer plan
 
@@ -152,7 +192,7 @@ For purposes of this part, the term “plan administrator” means—
 
 #### (i) Defined contribution plan
 
-For purposes of this part, the term “defined contribution plan” means a plan which providesfor an individual account for each participant and for benefits based solely on the amount contributed to the participant's account, and any income, expenses, gains and losses, and any forfeitures of accounts of other participants which may be allocated to such participant's account.
+For purposes of this part, the term “defined contribution plan” means a plan which provides for an individual account for each participant and for benefits based solely on the amount contributed to the participant's account, and any income, expenses, gains and losses, and any forfeitures of accounts of other participants which may be allocated to such participant's account.
 
 #### (j) Defined benefit plan
 
@@ -226,7 +266,7 @@ A defined benefit plan which provides a benefit derived from employer contributi
 
 #### (v) Controlled group
 
-&emsp;&emsp;&emsp;For purposes of this subparagraph, the term “controlled group” means any group treated as a single employer under subsection (b), (c), (m), or (<i>o).</i>
+&emsp;&emsp;&emsp;For purposes of this subparagraph, the term “controlled group” means any group treated as a single employer under subsection (b), (c), (m), or (<i>o</i>).
 
 #### (E) Paragraph not to apply to multiemployer plans
 
@@ -286,7 +326,7 @@ A defined benefit plan which provides a benefit derived from employer contributi
 
 &emsp;&emsp;(A) paragraphs (3), (4), (7), (16), (17), and (26) of section 401(a), and
 
-&emsp;&emsp;(B) sections 408(k), 410, 411, 415, and 416.
+&emsp;&emsp;(B) sections 408(k), 408(p), 410, 411, 415, and 416.
 
 #### (5) Certain organizations performing management functions
 
@@ -296,7 +336,7 @@ A defined benefit plan which provides a benefit derived from employer contributi
 
 &emsp;&emsp;(B) the organization (and related organizations) for which such functions are so performed by the organization described in subparagraph (A).
 
-> &emsp;For purposes of this paragraph, the term “related organizations” has the same meaning as the term “related persons” when used in section 144(a)(3).
+> &emsp;For purposes of this paragraph, the term “related organizations” has the same meaning asthe term “related persons” when used in section 144(a)(3).
 
 #### (6) Other definitions
 
@@ -328,7 +368,7 @@ A defined benefit plan which provides a benefit derived from employer contributi
 
 &emsp;&emsp;(B) such person has performed such services for the recipient (or for the recipient and related persons) on a substantially full-time basis for a period of at least 1 year, and
 
-&emsp;&emsp;(C) such services are of a type historically performed, in the business field of the recipient, by employees.
+&emsp;&emsp;(C) such services are performed under primary direction or control by the recipient.
 
 #### (3) Requirements
 
@@ -336,7 +376,7 @@ A defined benefit plan which provides a benefit derived from employer contributi
 
 &emsp;&emsp;(A) paragraphs (3), (4), (7), (16), (17), and (26) of section 401(a),
 
-&emsp;&emsp;(B) sections 408(k), 410, 411, 415, and 416, and
+&emsp;&emsp;(B) sections 408(k), 408(p), 410, 411, 415, and 416, and
 
 &emsp;&emsp;(C) sections 79, 106, 117(d), 120, 125, 127, 129, 132, 274(j), 505, and 4980B.
 
@@ -412,7 +452,7 @@ A defined benefit plan which provides a benefit derived from employer contributi
 
 #### (<i>o</i>) Regulations
 
-The Secretary shall prescribe such regulations (which may provide rules in addition to the rules contained in subsections (m) and (n)) asmay be necessary to prevent the avoidance of any employee benefit requirement listed in subsection (m)(4) or (n)(3) or any requirement under section 457 through the use of—
+The Secretary shall prescribe such regulations (which may provide rules in addition to the rules contained in subsections (m) and (n)) as may be necessary to prevent the avoidance of any employee benefit requirement listed in subsection (m)(4) or (n)(3) or any requirement under section 457 through the use of—
 
 &emsp;(1) separate organizations,
 
@@ -566,65 +606,27 @@ For purposes of this subsection and section 401(a)(13)—
 
 #### (1) In general
 
-&emsp;The term “highly compensated employee” means any employee who, during the year or the preceding year—
+&emsp;The term “highly compensated employee” means any employee who—
 
-&emsp;&emsp;(A) was at any time a 5-percent owner,
+&emsp;&emsp;(A) was a 5-percent owner at any time during the year or the preceding year, or
 
-&emsp;&emsp;(B) received compensation from the employer in excess of $75,000,
+&emsp;&emsp;(B) for the preceding year—
 
-&emsp;&emsp;(C) received compensation from the employer in excess of $50,000 and was in the top-paid group of employees for such year, or
+&emsp;&emsp;&emsp;(i) had compensation from the employer in excess of $80,000, and
 
-&emsp;&emsp;(D) was at any time an officer and received compensation greater than 50 percent of the amount in effect under section 415(b)(1)(A) for such year.
+&emsp;&emsp;&emsp;(ii) if the employer elects the application of this clause for such preceding year, was in the top-paid group of employees for such preceding year.
 
-> &emsp;The Secretary shall adjust the $75,000 and $50,000 amounts under this paragraph at thesame time and in the same manner as under section 415(d).
+> &emsp;The Secretary shall adjust the $80,000 amount under subparagraph (B) at the same time and in the same manner as under section 415(d), except that the base period shall be the calendar quarter ending September 30, 1996.
 
-#### (2) Special rule for current year
-
-&emsp;In the case of the year for which the relevant determination is being made, an employee not described in subparagraph (B), (C), or (D) of paragraph (1) for the preceding year (without regard to this paragraph) shall not be treated as described in subparagraph (B), (C), or (D) of paragraph (1) unless such employee is a member of the group consisting of the 100 employees paid the greatest compensation during the year for which such determination is being made.
-
-#### (3) 5-percent owner
+#### (2) 5-percent owner
 
 &emsp;An employee shall be treated as a 5-percent owner for any year if at any time during such year such employee was a 5-percent owner (as defined in section 416(i)(1)) of the employer.
 
-#### (4) Top-paid group
+#### (3) Top-paid group
 
 &emsp;An employee is in the top-paid group of employees for any year if such employee is in the group consisting of the top 20 percent of the employees when ranked on the basis of compensation paid during such year.
 
-#### (5) Special rules for treatment of officers
-
-#### (A) Not more than 50 officers taken into account
-
-&emsp;&emsp;For purposes of paragraph (1)(D), no more than 50 employees (or, if lesser, the greater of 3 employees or 10 percent of the employees) shall be treated as officers.
-
-#### (B) At least 1 officer taken into account
-
-&emsp;&emsp;If for any year no officer of the employer is described in paragraph (1)(D), the highest paid officer of the employer for such year shall be treated as described in such paragraph.
-
-#### (6) Treatment of certain family members
-
-#### (A) In general
-
-&emsp;&emsp;If any individual is a member of the family of a 5-percent owner or of a highly compensated employee in the group consisting of the 10 highly compensated employees paid the greatest compensation during the year, then—
-
-&emsp;&emsp;&emsp;(i) such individual shall not be considered a separate employee, and
-
-&emsp;&emsp;&emsp;(ii) any compensation paid to such individual (and any applicable contribution or benefit on behalf of such individual) shall be treated as if it were paid to (or on behalf of) the 5-percent owner or highly compensated employee.
-
-#### (B) Family
-
-&emsp;&emsp;For purposes of subparagraph (A), the term “family” means, with respect to any employee, such employee's spouse and lineal ascendants or descendants and the spouses of such lineal ascendants or descendants.
-
-#### (C) Rules to apply to other provisions
-
-#### (i) In general
-
-&emsp;&emsp;&emsp;Except as provided in regulations and in clause (ii), the rules of subparagraph (A) shall be applied in determining the compensation of (or any contributions or benefits on behalf of) any employee for purposes of any section with respect to which a highly compensated employee is defined by reference to this subsection.
-
-#### (ii) Exception for determining integration levels
-
-&emsp;&emsp;&emsp;Clause (i) shall not apply in determining the portion of the compensation of a participant which is under the integration level for purposes of section 401(<i>l).</i>
-
-#### (7) Compensation
+#### (4) Compensation
 
 &emsp;For purposes of this subsection—
 
@@ -640,9 +642,9 @@ For purposes of this subsection and section 401(a)(13)—
 
 &emsp;&emsp;&emsp;(ii) in the case of employer contributions made pursuant to a salary reduction agreement, without regard to section 403(b).
 
-#### (8) Excluded employees
+#### (5) Excluded employees
 
-&emsp;For purposes of subsection (r) and for purposes of determining the number of employees in the top-paid group under paragraph (4) or the number of officers taken into account under paragraph (5), the following employees shall be excluded—
+&emsp;For purposes of subsection (r) and for purposes of determining the number of employees in the top-paid group, the following employees shall be excluded—
 
 &emsp;&emsp;(A) employees who have not completed 6 months of service,
 
@@ -656,7 +658,7 @@ For purposes of this subsection and section 401(a)(13)—
 
 > &emsp;Except as provided by the Secretary, the employer may elect to apply subparagraph (A), (B), (C), or (D) by substituting a shorter period of service, smaller number of hours or months, or lower age for the period of service, number of hours or months, or age (as the case may be) than that specified in such subparagraph.
 
-#### (9) Former employees
+#### (6) Former employees
 
 &emsp;A former employee shall be treated as a highly compensated employee if—
 
@@ -664,31 +666,17 @@ For purposes of this subsection and section 401(a)(13)—
 
 &emsp;&emsp;(B) such employee was a highly compensated employee at any time after attaining age 55.
 
-#### (10) Coordination with other provisions
+#### (7) <sup>1</sup> Coordination with other provisions
 
 &emsp;Subsections (b), (c), (m), (n), and (<i>o</i>) shall be applied before the application of this section.
 
-#### (11) Special rule for nonresident aliens
+#### (8) Special rule for nonresident aliens
 
-&emsp;For purposes of this subsection and subsection (r), employees who are nonresidentaliens and who receive no earned income (within the meaning of section 911(d)(2)) from the employer which constitutes income from sources within the United States (within the meaning of section 861(a)(3)) shall not be treated as employees.
+&emsp;For purposes of this subsection and subsection (r), employees who are nonresident aliens and who receive no earned income (within the meaning of section 911(d)(2)) from the employer which constitutes income from sources within the United States (within the meaning of section 861(a)(3)) shall not be treated as employees.
 
-#### (12) Simplified method for determining highly compensated employees
+#### (7) <sup>1</sup> Certain employees not considered highly compensated and excluded employees under pre-ERISA rules for church plans
 
-#### (A) In general
-
-&emsp;&emsp;If an election by the employer under this paragraph applies to any year, in determining whether an employee is a highly compensated employee for such year—
-
-&emsp;&emsp;&emsp;(i) subparagraph (B) of paragraph (1) shall be applied by substituting “$50,000” for “$75,000”, and
-
-&emsp;&emsp;&emsp;(ii) subparagraph (C) of paragraph (1) shall not apply.
-
-#### (B) Requirement for election
-
-&emsp;&emsp;An election under this paragraph shall not apply to any year unless—
-
-&emsp;&emsp;&emsp;(i) at all times during such year, the employer maintained significant business activities (and employed employees) in at least 2 significantly separate geographic areas, and
-
-&emsp;&emsp;&emsp;(ii) the employer satisfies such other conditions as the Secretary may prescribe.
+&emsp;In the case of a church plan (as defined in subsection (e)), no employee shall be considered an officer, a person whose principal duties consist of supervising the work of other employees, or a highly compensated employee for any year unless such employee is a highly compensated employee under paragraph (1) for such year.
 
 #### (r) Special rules for separate line of business
 
@@ -700,7 +688,7 @@ For purposes of this subsection and section 401(a)(13)—
 
 &emsp;A line of business shall not be treated as separate under paragraph (1) unless—
 
-&emsp;&emsp;(A) such line of business has at least 50 employees who are not excluded under subsection (q)(8),
+&emsp;&emsp;(A) such line of business has at least 50 employees who are not excluded under subsection (q)(5),
 
 &emsp;&emsp;(B) the employer notifies the Secretary that such line of business is being treated as separate for purposes of paragraph (1), and
 
@@ -716,7 +704,7 @@ For purposes of this subsection and section 401(a)(13)—
 
 &emsp;&emsp;&emsp;(ii) not more than twice,
 
-> &emsp;&emsp;the percentage which highly compensated employees are of all employees of the employer. An employer shall be treated as meeting the requirements of clause (i) if at least 10 percent of all highly compensated employees of the employer perform services solely for such line of business.
+> &emsp;&emsp;the percentage which highly compensated employees are of all employees of the employer. An employer shall be treated as meeting the requirements of clause (i) if atleast 10 percent of all highly compensated employees of the employer perform services solely for such line of business.
 
 #### (B) Determination may be based on preceding year
 
@@ -780,7 +768,105 @@ For purposes of any applicable provision—
 
 &emsp;For purposes of this subsection, the term “applicable section” means section 79, 106, 117(d), 120, 125, 127, 129, 132, 274(j), 505, or 4980B.
 
-(Added Pub. L. 93–406, title II, §1015, Sept. 2, 1974, 88 Stat. 925; amended Pub. L. 94–455, title XIX, §§1901(a)(64), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1775, 1834; Pub. L. 95–600, title I, §152(d), Nov. 6, 1978, 92 Stat. 2799; Pub. L. 96–364, title II, §§207, 208(a), title IV, §407(b), Sept. 26, 1980, 94 Stat. 1288, 1289, 1305; Pub. L. 96–605, title II, §201(a), Dec. 28, 1980, 94 Stat. 3526; Pub. L. 96–613, §5(a), Dec. 28, 1980, 94 Stat. 3580; Pub. L. 97–248, title II, §§240(c), 246(a), 248(a), Sept. 3, 1982, 96 Stat. 520, 525, 526; Pub. L. 98–369, div. A, title IV, §491(d)(26), (27), title V, §526(a)(1), (b)(1), (d)(1), (2), title VII, §713(i), July 18, 1984, 98 Stat. 850, 874, 875, 960; Pub. L. 98–397, title II, §204(b), Aug. 23, 1984, 98 Stat. 1445; Pub. L. 99–514, title XI, §§1114(a), (b)(11), 1115(a), 1117(c), 1146(a), (b), 1151(e)(1), (i), title XIII, §1301(j)(4), title XVIII, §§1852(f), 1898(c)(2)(A), (4)(A), (6)(A), (7)(A)(ii)–(vii), 1899A(12), Oct. 22, 1986, 100 Stat. 2448, 2451, 2452, 2462, 2491, 2506, 2507, 2657, 2868, 2951, 2953, 2954, 2958; Pub. L. 100–203, title IX, §9305(c), Dec. 22, 1987, 101 Stat. 1330–352; Pub. L. 100–647, title I, §§1011(d)(8), (e)(4), (h)(5), (i)(1)–(4)(A), (j)(1), (2), 1011A(b)(3), 1011B(a)(16), (17), (19), (20), 1018(t)(8)(E)–(G), title II, §2005(c)(1), (2), title III, §§3011(b)(4), (5), 3021(b)(1), (2)(A), title VI, §6067(a), Nov. 10, 1988, 102 Stat. 3460, 3461, 3465, 3467, 3468, 3473, 3485, 3589, 3611, 3612, 3625, 3631, 3632, 3703; Pub. L. 101–140, title II, §§203(a)(6), 204(b)(2), Nov. 8, 1989, 103 Stat. 831, 833; Pub. L. 101–239, title VII, §§7811(m)(5), 7813(b), 7841(a)(2), Dec. 19, 1989, 103 Stat. 2412, 2413, 2427; Pub. L. 101–508, title XI, §11703(b)(1), Nov. 5, 1990, 104 Stat. 1388–517; Pub. L. 102–318, title V, §521(b)(20)–(22), July 3, 1992, 106 Stat. 311.)
+#### (u) Special rules relating to veterans’ reemployment rights under USERRA
+
+#### (1) Treatment of certain contributions made pursuant to veterans’ reemployment rights
+
+&emsp;If any contribution is made by an employer or an employee under an individual account plan with respect to an employee, or by an employee to a defined benefit plan that provides for employee contributions, and such contribution is required by reason of such employee's rights under chapter 43 of title 38, United States Code, resulting from qualified military service, then—
+
+&emsp;&emsp;(A) such contribution shall not be subject to any otherwise applicable limitation contained in section 402(g), 402(h), 403(b), 404(a), 404(h), 408, 415, or 457, and shall not be taken into account in applying such limitations to other contributions or benefits under such plan or any other plan, with respect to the year in which the contribution is made,
+
+&emsp;&emsp;(B) such contribution shall be subject to the limitations referred to in subparagraph (A) with respect to the year to which the contribution relates (in accordance with rules prescribed by the Secretary), and
+
+&emsp;&emsp;(C) such plan shall not be treated as failing to meet the requirements of section 401(a)(4), 401(a)(26), 401(k)(3), 401(k)(11), 401(k)(12), 401(m), 403(b)(12), 408(k)(3), 408(k)(6), 408(p), 410(b), or 416 by reason of the making of (or the right to make) such contribution.
+
+> &emsp;For purposes of the preceding sentence, any elective deferral or employee contribution made under paragraph (2) shall be treated as required by reason of the employee's rights under such chapter 43.
+
+#### (2) Reemployment rights under USERRA with respect to elective deferrals
+
+#### (A) In general
+
+&emsp;&emsp;For purposes of this subchapter and section 457, if an employee is entitled to the benefits of chapter 43 of title 38, United States Code, with respect to any plan which provides for elective deferrals, the employer sponsoring the plan shall be treated as meeting the requirements of such chapter 43 with respect to such elective deferrals only if such employer—
+
+&emsp;&emsp;&emsp;(i) permits such employee to make additional elective deferrals under such plan (in the amount determined under subparagraph (B) or such lesser amount as is elected by the employee) during the period which begins on the date of the reemployment of such employee with such employer and has the same length as the lesser of—
+
+&emsp;&emsp;&emsp;&emsp;(I) the product of 3 and the period of qualified military service which resulted in such rights, and
+
+&emsp;&emsp;&emsp;&emsp;(II) 5 years, and
+
+&emsp;&emsp;&emsp;(ii) makes a matching contribution with respect to any additional elective deferral made pursuant to clause (i) which would have been required had such deferral actually been made during the period of such qualified military service.
+
+#### (B) Amount of makeup required
+
+&emsp;&emsp;The amount determined under this subparagraph with respect to any plan is the maximum amount of the elective deferrals that the individual would have been permitted to make under the plan in accordance with the limitations referred to in paragraph (1)(A) during the period of qualified military service if the individual had continued to be employed by the employer during such period and received compensation as determined under paragraph (7). Proper adjustment shall be made to the amount determined under the preceding sentence for any elective deferrals actually made during the period of such qualified military service.
+
+#### (C) Elective deferral
+
+&emsp;&emsp;For purposes of this paragraph, the term “elective deferral” has the meaning given such term by section 402(g)(3); except that such term shall include any deferral of compensation under an eligible deferred compensation plan (as defined in section 457(b)).
+
+#### (D) After-tax employee contributions
+
+&emsp;&emsp;References in subparagraphs (A) and (B) to elective deferrals shall be treated as including references to employee contributions.
+
+#### (3) Certain retroactive adjustments not required
+
+&emsp;For purposes of this subchapter and subchapter E, no provision of chapter 43 of title 38, United States Code, shall be construed as requiring—
+
+&emsp;&emsp;(A) any crediting of earnings to an employee with respect to any contribution before such contribution is actually made, or
+
+&emsp;&emsp;(B) any allocation of any forfeiture with respect to the period of qualified military service.
+
+#### (4) Loan repayment suspensions permitted
+
+&emsp;If any plan suspends the obligation to repay any loan made to an employee from such plan for any part of any period during which such employee is performing service in the uniformed services (as defined in chapter 43 of title 38, United States Code), whether or not qualified military service, such suspension shall not be taken into account for purposes of section 72(p), 401(a), or 4975(d)(1).
+
+#### (5) Qualified military service
+
+&emsp;For purposes of this subsection, the term “qualified military service” means any service in the uniformed services (as defined in chapter 43 of title 38, United States Code) by any individual if such individual is entitled to reemployment rights under such chapter with respect to such service.
+
+#### (6) Individual account plan
+
+&emsp;For purposes of this subsection, the term “individual account plan” means any defined contribution plan <sup>2</sup> (including any tax-sheltered annuity plan under section 403(b), any simplified employee pension under section 408(k), any qualified salary reduction arrangement under section 408(p), and any eligible deferred compensation plan (as defined in section 457(b)).
+
+#### (7) Compensation
+
+&emsp;For purposes of sections 403(b)(3), 415(c)(3), and 457(e)(5), an employee who is in qualified military service shall be treated as receiving compensation from the employer during such period of qualified military service equal to—
+
+&emsp;&emsp;(A) the compensation the employee would have received during such period if the employee were not in qualified military service, determined based on the rate of pay the employee would have received from the employer but for absence during the period of qualified military service, or
+
+&emsp;&emsp;(B) if the compensation the employee would have received during such period was not reasonably certain, the employee's average compensation from the employer during the 12-month period immediately preceding the qualified military service (or, if shorter, the period of employment immediately preceding the qualified military service).
+
+#### (8) USERRA requirements for qualified retirement plans
+
+&emsp;For purposes of this subchapter and section 457, an employer sponsoring a retirement plan shall be treated as meeting the requirements of chapter 43 of title 38, United States Code, only if each of the following requirements is met:
+
+&emsp;&emsp;(A) An individual reemployed under such chapter is treated with respect to such plan as not having incurred a break in service with the employer maintaining the plan by reason of such individual's period of qualified military service.
+
+&emsp;&emsp;(B) Each period of qualified military service served by an individual is, upon reemployment under such chapter, deemed with respect to such plan to constitute service with the employer maintaining the plan for the purpose of determining the nonforfeitability of the individual's accrued benefits under such plan and for the purpose of determining the accrual of benefits under such plan.
+
+&emsp;&emsp;(C) An individual reemployed under such chapter is entitled to accrued benefits that are contingent on the making of, or derived from, employee contributions or elective deferrals only to the extent the individual makes payment to the plan with respect to such contributions or deferrals. No such payment may exceed the amount the individual would have been permitted or required to contribute had the individual remained continuously employed by the employer throughout the period of qualified military service. Any payment to such plan shall be made during the period beginning with the date of reemployment and whose duration is 3 times the period of the qualified military service (but not greater than 5 years).
+
+#### (9) Plans not subject to title 38
+
+&emsp;This subsection shall not apply to any retirement plan to which chapter 43 of title 38, United States Code, does not apply.
+
+#### (10) References
+
+&emsp;For purposes of this section, any reference to chapter 43 of title 38, United States Code, shall be treated as a reference to such chapter as in effect on December 12, 1994 (without regard to any subsequent amendment).
+
+(Added Pub. L. 93–406, title II, §1015, Sept. 2, 1974, 88 Stat. 925; amended Pub. L. 94–455, title XIX, §§1901(a)(64), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1775, 1834; Pub. L. 95–600, title I, §152(d), Nov. 6, 1978, 92 Stat. 2799; Pub. L. 96–364, title II, §§207, 208(a), title IV, §407(b), Sept. 26, 1980, 94 Stat. 1288, 1289, 1305; Pub. L. 96–605, title II, §201(a), Dec. 28, 1980, 94 Stat. 3526; Pub. L. 96–613, §5(a), Dec. 28, 1980, 94 Stat. 3580; Pub. L. 97–248, title II, §§240(c), 246(a), 248(a), Sept. 3, 1982, 96 Stat. 520, 525, 526; Pub. L. 98–369, div. A, title IV, §491(d)(26), (27), title V, §526(a)(1), (b)(1), (d)(1), (2), title VII, §713(i), July 18, 1984, 98 Stat. 850, 874, 875, 960; Pub. L. 98–397, title II, §204(b), Aug. 23, 1984, 98 Stat. 1445; Pub. L. 99–514, title XI, §§1114(a), (b)(11), 1115(a), 1117(c), 1146(a), (b), 1151(e)(1), (i), title XIII, §1301(j)(4), title XVIII, §§1852(f), 1898(c)(2)(A), (4)(A), (6)(A), (7)(A)(ii)–(vii), 1899A(12), Oct. 22, 1986, 100 Stat. 2448, 2451, 2452, 2462, 2491, 2506, 2507, 2657, 2868, 2951, 2953, 2954, 2958; Pub. L. 100–203, title IX, §9305(c), Dec. 22, 1987, 101 Stat. 1330–352; Pub. L. 100–647, title I, §§1011(d)(8), (e)(4), (h)(5), (i)(1)–(4)(A), (j)(1), (2), 1011A(b)(3), 1011B(a)(16), (17), (19), (20), 1018(t)(8)(E)–(G), title II, §2005(c)(1), (2), title III, §§3011(b)(4), (5), 3021(b)(1), (2)(A), title VI, §6067(a), Nov. 10, 1988, 102 Stat. 3460, 3461, 3465, 3467, 3468, 3473, 3485, 3589, 3611, 3612, 3625, 3631, 3632, 3703; Pub. L. 101–140, title II, §§203(a)(6), 204(b)(2), Nov. 8, 1989, 103 Stat. 831, 833; Pub. L. 101–239, title VII, §§7811(m)(5), 7813(b), 7841(a)(2), Dec. 19, 1989, 103 Stat. 2412, 2413, 2427; Pub. L. 101–508, title XI, §11703(b)(1), Nov. 5, 1990, 104 Stat. 1388–517; Pub. L. 102–318, title V, §521(b)(20)–(22), July 3, 1992, 106 Stat. 311; (As amended Pub. L. 104–188, title I, §§1421(b)(9)(C), 1431(a), (b)(1), (c)(1)(A), (D), (E), 1434(b), 1454(a), 1461(a), 1462(a), 1704(n)(1), Aug. 20, 1996, 110 Stat. 1798, 1802, 1803, 1807, 1817, 1822, 1824, 1883.)
+
+#### Amendment of Section
+
+<i>Pub. L. 104–188, title I, §1434(b), (c), Aug. 20, 1996, 110 Stat. 1807, provided that, applicable to years beginning after Dec. 31, 1997, this section is amended as follows:</i>
+
+<i>(1) Subsection (q)(4), as redesignated by section 1431 of Pub. L. 104–188, is amended to read as follows:</i>
+
+#### (4) Compensation
+
+For purposes of this subsection, the term “compensation” has the meaning given such term by section 415(c)(3).
+
+<i>(2) Subsection (s)(2) is amended by inserting “not” after “elect” in the text and heading.</i>
 
 #### References in Text
 
@@ -795,6 +881,60 @@ The date of the enactment of the Multiemployer Pension Plan Amendments Act of 19
 Effective date of the Multiemployer Pension Plan Amendments Act of 1980, referred to in subsec. (f)(5), probably means the date of enactment of the Multiemployer Pension Plan Amendments Act of 1980, which was approved Sept. 26, 1980.
 
 #### Amendments
+
+1996—Subsecs. (b), (c). Pub. L. 104–188, §1421(b)(9)(C), inserted “408(p),” after “408(k),”.
+
+Subsec. (e)(5). Pub. L. 104–188, §1461(a), added par. (5).
+
+Subsec. (m)(4)(B). Pub. L. 104–188, §1421(b)(9)(C), inserted “408(p),” after “408(k),”.
+
+Subsec. (n)(2)(C). Pub. L. 104–188, §1454(a), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “such services are of a type historically performed, in the business field of the recipient, by employees.”
+
+Subsec. (n)(3)(B). Pub. L. 104–188, §1421(b)(9)(C), inserted “408(p),” after “408(k),”.
+
+Subsec. (q)(1). Pub. L. 104–188, §1431(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “
+
+In general.—The term ‘highly compensated employee’ means any employee who, during the year or the preceding year—
+
+&emsp;“(A) was at any time a 5-percent owner,
+
+&emsp;“(B) received compensation from the employer in excess of $75,000,
+
+&emsp;“(C) received compensation from the employer in excess of $50,000 and was in the top-paid group of employees for such year, or
+
+&emsp;“(D) was at any time an officer and received compensation greater than 50 percent of the amount in effect under section 415(b)(1)(A) for such year.
+
+> The Secretary shall adjust the $75,000 and $50,000 amounts under this paragraph at the same time and in the same manner as under section 415(d).”
+
+Subsec. (q)(2) to (4). Pub. L. 104–188, §1431(c)(1)(A), redesignated pars. (3), (4), and (7) as (2), (3), and (4), respectively, and struck out former par. (2) which read as follows: “
+
+Special rule for current year.—In the case of the year for which the relevant determination is being made, an employee not described in subparagraph (B), (C), or (D) of paragraph (1) for the preceding year (without regard to this paragraph) shall not be treated as described in subparagraph (B), (C), or (D) of paragraph (1) unless such employee is a member of the group consisting of the 100 employees paid the greatest compensation during the year for which such determination is being made.”
+
+Subsec. (q)(5). Pub. L. 104–188, §1434(c)(1)(E), which directed that par. (5) be amended by striking out “under paragraph (4), or the number of officers taken into account under paragraph (5)”, was executed by striking out “under paragraph (4) or the number of officers taken into account under paragraph (5)” after “top-paid group” in introductory provisions to reflect the probable intent of Congress.
+
+Pub. L. 104–188, §1431(c)(1)(A), redesignated par. (8) as (5) and struck out former par. (5) which read as follows: “
+
+Special rules for treatment of officers.—
+
+&emsp;“(A)
+
+Not more than 50 officers taken into account.—For purposes of paragraph (1)(D), no more than 50 employees (or, if lesser, the greater of 3 employees or 10 percent of the employees) shall be treated as officers.
+
+&emsp;“(B)
+
+At least 1 officer taken into account.—If for any year no officer of the employer is described in paragraph (1)(D), the highest paid officer of the employer for such year shall be treated as described in such paragraph.”
+
+Subsec. (q)(6). Pub. L. 104–188, §1431(b)(1), (c)(1)(A), redesignated par. (9) as (6) and struck out former par. (6) which related to treatment of families of 5-percent owners or of highly compensated employees.
+
+Subsec. (q)(7). Pub. L. 104–188, §1462(a), added par. (7) relating to certain employees not considered highly compensated and excluded employees under pre-ERISA rules for church plans.
+
+Pub. L. 104–188, §1431(c)(1)(A), redesignated par. (10), relating to coordination with other provisions, as (7). Former par. (7) redesignated (4).
+
+Subsec. (q)(8) to (12). Pub. L. 104–188, §1431(c)(1)(A), redesignated pars. (8) to (11) as (5) to (8), respectively, and struck out par. (12) which related to simplified method for determining highly compensated employees.
+
+Subsec. (r)(2)(A). Pub. L. 104–188, §1431(c)(1)(D), substituted “subsection (q)(5)” for “subsection (q)(8)”.
+
+Subsec. (u). Pub. L. 104–188, §1704(n)(1), added subsec. (u).
 
 1992—Subsec. (n)(5)(C)(iii)(I). Pub. L. 102–318, §521(b)(20), substituted “402(e)(3)” for “402(a)(8)”.
 
@@ -914,7 +1054,7 @@ Subsec. (n)(6). Pub. L. 99–514, §1301(j)(4), substituted “section 144(a)(3)
 
 Pub. L. 99–514, §1146(a)(3), substituted “Other rules” for “Related persons” in heading and amended text generally. Prior to amendment, text read as follows: “For purposes of this subsection, the term “related persons” has the same meaning as when used in section 103(b)(6)(C).”
 
-Subsec. (<i>o</i>). Pub. L. 99–514, §1146(b)(1), inserted provision relating to regulations to minimize recordkeeping requirements in case of employer which has no top-heavy plans and uses the services of persons other thanemployees for an insignificant percentage of the employer's total workload.
+Subsec. (<i>o</i>). Pub. L. 99–514, §1146(b)(1), inserted provision relating to regulations to minimize recordkeeping requirements in case of employer which has no top-heavy plans and uses the services of persons other than employees for an insignificant percentage of the employer's total workload.
 
 Subsec. (p)(1)(B)(i). Pub. L. 99–514, §1898(c)(7)(A)(ii), inserted “former spouse,”.
 
@@ -994,6 +1134,30 @@ Subsec. (g)(2)(C). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his dele
 
 Subsec. (<i>l</i>). Pub. L. 94–455, §1901(a)(64)(B), substituted reference to Sept. 2, 1974, for reference to the date of enactment of the Employee Retirement Income Security Act of 1974.
 
+#### Effective Date of 1996 Amendment
+
+Amendment by section 1421(b)(9)(C) of Pub. L. 104–188 applicable to taxable years beginning after Dec. 31, 1996, see section 1421(e) of Pub. L. 104–188, set out as a note under section 72 of this title.
+
+Section 1431(d) of Pub. L. 104–188 provided that:
+
+“(1)
+
+In general.—The amendments made by this section \[amending this section, sections 129, 401, 404, 408, and 416 of this title, and provisions set out as a note below\] shall apply to years beginning after December 31, 1996, except that in determining whether an employee is a highly compensated employee for years beginning in 1997, such amendments shall be treated as having been in effect for years beginning in 1996.
+
+“(2)
+
+Family aggregation.—The amendments made by subsection (b) \[amending this section and sections 401 and 404 of this title\] shall apply to years beginning after December 31, 1996.”
+
+Section 1434(c) of Pub. L. 104–188 provided that: “The amendments made by this section \[amending this section and section 415 of this title\] shall apply to years beginning after December 31, 1997.”
+
+Section 1454(b) of Pub. L. 104–188 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to years beginning after December 31, 1996, but shall not apply to any relationship determined under an Internal Revenue Service ruling issued before the date of the enactment of this Act \[Aug. 20, 1996\] pursuant to section 414(n)(2)(C) of the Internal Revenue Code of 1986 (as in effect on the day before such date) not to involve a leased employee.”
+
+Amendment by section 1461(a) of Pub. L. 104–188 applicable to years beginning after Dec. 31, 1996, see section 1461(c) of Pub. L. 104–188, set out as a note under section 404 of this title.
+
+Section 1462(c) of Pub. L. 104–188 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to years beginning after December 31, 1996.”
+
+Section 1704(n)(3) of Pub. L. 104–188 provided that: “The amendments made by this subsection \[amending this section and section 1108 of Title 29, Labor\] shall be effective as of December 12, 1994.”
+
 #### Effective Date of 1992 Amendment
 
 Amendment by Pub. L. 102–318 applicable to distributions after Dec. 31, 1992, see section 521(e) of Pub. L. 102–318, set out as a note under section 402 of this title.
@@ -1034,7 +1198,7 @@ Amendment by Pub. L. 100–203 applicable with respect to plan years beginning a
 
 #### Effective Date of 1986 Amendment
 
-Section 1114(c) of Pub. L. 99–514 provided that:
+Section 1114(c) of Pub. L. 99–514, as amended by Pub. L. 104–188, title I, §1431(c)(2), Aug. 20, 1996, 110 Stat. 1803, provided that:
 
 “(1)
 
@@ -1050,7 +1214,7 @@ Conforming amendments to pension provisions.—The amendments made by paragraphs
 
 “(4)
 
-Special rule for determining highly compensated employees.—For purposes of sections 401(k) and 401(m) of the Internal Revenue Code of 1986, in the case of an employer incorporated on December 15, 1924, if more than 50 percent of its employees in the top-paid group (within the meaning of section 414(q)(4) of such Code) earn less than $25,000 (indexed at the same time and in the same manner as under section 415(d) of such Code), then the highly compensated employees shall include employees described in section 414(q)(1)(C) of such Code determined without regard to the level of compensation of such employees.”
+Special rule for determining highly compensated employees.—For purposes of sections 401(k) and 401(m) of the Internal Revenue Code of 1986, in the case of an employer incorporated on December 15, 1924, if more than 50 percent of its employees in the top-paid group (within the meaning of section 414(q)(4) of such Code) earn less than $25,000 (indexed at the same time and in the same manner as under section 415(d) of such Code), then the highly compensated employees shall include employees described in section 414(q)(1)(C) of such Code determined without regard to the level of compensation of such employees. Any reference in this paragraph to section 414(q) shall be treated as a reference to such section as in effect on the day before the date of the enactment of the Small Business Job Protection Act of 1996 \[Aug. 20, 1996\].”
 
 Section 1115(b) of Pub. L. 99–514 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to years beginning after December 31, 1986.”
 
@@ -1094,9 +1258,9 @@ Amendment by section 713(i) of Pub. L. 98–369 effective as if included in the 
 
 #### Effective Date of 1982 Amendment
 
-Amendment by section 240(c) of Pub. L. 97–248, applicable to years beginning after Dec. 31, 1983, see section 241(a) of Pub. L. 97–248, set out as a note under section 416 of this title.
+Amendment by section 240(c) of Pub. L. 97–248, applicable to years beginning after Dec. 31, 1983, see section241(a) of Pub. L. 97–248, set out as a note under section 416 of this title.
 
-Section 246(b) of Pub. L. 97–248 provided that: “The amendments made by subsection (a) \[amending thissection\] shall apply to taxable years beginning after December 31, 1983.”
+Section 246(b) of Pub. L. 97–248 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1983.”
 
 Section 248(b) of Pub. L. 97–248 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1983.”
 
@@ -1132,6 +1296,38 @@ Section applicable, except as otherwise provided in section 1017(c) through (i) 
 
 Secretary of the Treasury or his delegate to issue before Feb. 1, 1988, final regulations to carry out amendments made by sections 1114, 1115, and 1117 of Pub. L. 99–514, see section 1141 of Pub. L. 99–514, set out as a note under section 401 of this title.
 
+#### Sample Language for Spousal Consent and Qualified Domestic Relations Forms
+
+Section 1457 of Pub. L. 104–188 provided that:
+
+“(a)
+
+Development of Sample Language.—Not later than January 1, 1997, the Secretary of the Treasury shall develop—
+
+&emsp;“(1) sample language for inclusion in a form for the spousal consent required under section 417(a)(2) of the Internal Revenue Code of 1986 and section 205(c)(2) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1055(c)(2)\] which—
+
+&emsp;&emsp;“(A) is written in a manner calculated to be understood by the average person, and
+
+&emsp;&emsp;“(B) discloses in plain form—
+
+&emsp;&emsp;&emsp;“(i) whether the waiver to which the spouse consents is irrevocable, and
+
+&emsp;&emsp;&emsp;“(ii) whether such waiver may be revoked by a qualified domestic relations order, and
+
+&emsp;“(2) sample language for inclusion in a form for a qualified domestic relations order described in section 414(p)(1)(A) of such Code and section 206(d)(3)(B)(i) of such Act \[29 U.S.C. 1056(d)(3)(B)(i)\] which—
+
+&emsp;&emsp;“(A) meets the requirements contained in such sections, and
+
+&emsp;&emsp;“(B) the provisions of which focus attention on the need to consider the treatment of any lump sum payment, qualified joint and survivor annuity, or qualified preretirement survivor annuity.
+
+“(b)
+
+Publicity.—The Secretary of the Treasury shall include publicity for the sample language developed under subsection (a) in the pension outreach efforts undertaken by the Secretary.”
+
+#### Safeharbor Authority
+
+Section 1462(b) of Pub. L. 104–188 provided that: “The Secretary of the Treasury may design nondiscrimination and coverage safe harbors for church plans.”
+
 #### Application of Line of Business Test for Period Before Guidelines Issued
 
 Section 204(b)(1) of Pub. L. 101–140 provided that: “In the case of any plan year beginning on or before the date the Secretary of the Treasury or his delegate issues guidelines and begins issuing determinations under section 414(r)(2)(C) of the Internal Revenue Code of 1986, an employer shall be treated as operating separate lines of business if the employer reasonably determines that it meets the requirements of section 414(r) (other than paragraph (2)(C) thereof) of such Code.”
@@ -1146,6 +1342,10 @@ No monies appropriated by Pub. L. 101–136 to be used to implement or enforce s
 
 Section 6067(b) of Pub. L. 100–647 directed Secretary of the Treasury or his delegate, in consultation with Federal Deposit Insurance Corporation, to conduct a study with respect to proper method of allocating assets in case of a transaction to which the amendment made by such section and, not later than Jan. 1, 1990 (due date extended to Jan. 1, 1992, by Pub. L. 101–508, title XI, §11831(b), Nov. 5, 1990, 104 Stat. 1388–559) to report results of such study to Committee on Ways and Means of House of Representatives and to Committee on Finance of Senate.
 
+#### Plan Amendments Not Required Until January 1, 1998
+
+For provisions directing that if any amendments made by subtitle D \[§§1401–1465\] of title I of Pub. L. 104–188 require an amendment to any plan or annuity contract, such amendment shall not be required to be made before the first day of the first plan year beginning on or after Jan. 1, 1998, see section 1465 of Pub. L. 104–188, set out as a note under section 401 of this title.
+
 #### Plan Amendments Not Required Until January 1, 1994
 
 For provisions directing that if any amendments made by subtitle B \[§§521–523\] of title V of Pub. L. 102–318 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1994, see section 523 of Pub. L. 102–318, set out as a note under section 401 of this title.
@@ -1156,5 +1356,9 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 41, 72, 79, 105, 108, 117, 120, 125, 127, 129, 132, 133, 170, 274, 401, 402, 403, 404, 404A, 406, 407, 408, 410, 411, 412, 415, 416, 419A, 423, 448, 501, 505, 818, 3121, 3306, 3405, 4971, 4975, 4977, 4980, 4980A, 4980B, 5000, 6047, 6057, 6058, 6059, 6692, 7702 of this title; title 4 section 114; title 11 section 101; title 15 sections 77c, 78c; title 29 sections 623, 1002, 1054, 1082, 1083, 1108, 1167, 1301, 1307, 1321, 1344, 1453; title 42 sections 409, 1395y.
+This section is referred to in sections 41, 72, 79, 105, 108, 117, 120, 125, 127, 129, 132, 170, 220, 264, 274, 401, 402, 403, 404, 404A, 406, 407, 408, 410, 411, 412, 415, 416, 419A, 423, 448, 501, 505, 818, 1402, 3121, 3306, 3405, 4971, 4975, 4977, 4980, 4980A, 4980B, 4980D, 4980E, 5000, 6047, 6057, 6058, 6059, 6692, 7702, 9803, 9805 of this title; title 4 section 114; title 11 section 101; title 15 sections 77c, 78c, 80a–3, 80b–3; title 29 sections 623, 1002, 1054, 1082, 1083, 1108, 1167, 1301, 1307, 1321, 1344, 1453; title 42 sections 409, 1395y.
+
+<i><sup>1</sup></i><i> So in original. Two pars. (7) have been enacted.</i>
+
+<i><sup>2</sup></i><i> So in original. There is no closing parenthesis.</i>
 

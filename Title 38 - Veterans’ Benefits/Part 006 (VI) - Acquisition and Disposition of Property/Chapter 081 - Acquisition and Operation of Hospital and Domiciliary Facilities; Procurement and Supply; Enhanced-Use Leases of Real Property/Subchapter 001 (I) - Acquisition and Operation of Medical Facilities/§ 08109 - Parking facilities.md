@@ -20,7 +20,7 @@
 
 &emsp;(3) may operate and maintain parking facilities.
 
-(c)(1) Except as provided in paragraph (2) of this subsection, each employee, visitor, and other individual having business at a medical facility for which parking fees have been established under subsection (d) or (e) of this section shall be charged the applicable parking fee forthe use of a parking facility at such medical facility.
+(c)(1) Except as provided in paragraph (2) of this subsection, each employee, visitor, and other individual having business at a medical facility for which parking fees have been established under subsection (d) or (e) of this section shall be charged the applicable parking fee for the use of a parking facility at such medical facility.
 
 (2) A parking fee shall not be charged under this subsection for the accommodation of any vehicle used to transport to or from a medical facility—
 
@@ -32,7 +32,7 @@
 
 (d)(1) For each medical facility where funds from the revolving fund described in subsection (h) of this section are expended for—
 
-&emsp;(A) a garage constructed or acquired by the Department at a cost exceeding $500,000 (or, in the case of acquisition by lease, $100,000 per year); or
+&emsp;(A) a garage constructed or acquired by the Department at a cost exceeding $500,000 (or, inthe case of acquisition by lease, $100,000 per year); or
 
 &emsp;(B) a project for the alteration of a garage at a cost exceeding $500,000,
 
@@ -52,19 +52,21 @@
 
 (3)(A) Except as provided in subparagraph (B) of this paragraph, no funds other than funds from the revolving fund may be expended for the construction, alteration, or acquisition (including site acquisition) of a garage at a medical facility after September 30, 1986.
 
-(B) Subparagraph (A) of this paragraph does not apply to the use of funds for investigations and studies, surveys, designs, plans, working drawings, specifications, and similar actions not directly involved in the physical construction of a structure.
+(B) Subparagraph (A) of this paragraph does not apply to the use of funds for investigations and studies, surveys, designs, plans, construction documents, specifications, and similar actions not directly involved in the physical construction of a structure.
 
 (i)(1) The expenditure of funds from the revolving fund may be made only for the construction, alteration, and acquisition (including site acquisition) of parking facilities at medical facilities and may be made only as provided for in appropriation Acts.
 
 (2) For the purpose of section 8104(a)(2) of this title, a bill, resolution, or amendment which provides that funds in the revolving fund (including any funds proposed in such bill, resolution, or amendment to be appropriated to the revolving fund) may be expended for a project involving a total expenditure of more than $3,000,000 for the construction, alteration, or acquisition (including site acquisition) of a parking facility or facilities at a medical facility shall be considered to be a bill, resolution, or amendment making an appropriation which may be expended for a major medical facility project.
 
-(Added Pub. L. 96–22, title III, §301(a), June 13, 1979, 93 Stat. 59, §5009; amended Pub. L. 99–576, title II, §223(a)(1), Oct. 28, 1986, 100 Stat. 3259; renumbered §8109 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §4(a)(3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 103–79, §3(b), Aug. 13, 1993, 107 Stat. 771.)
+(Added Pub. L. 96–22, title III, §301(a), June 13, 1979, 93 Stat. 59, §5009; amended Pub. L. 99–576, title II, §223(a)(1), Oct. 28, 1986, 100 Stat. 3259; renumbered §8109 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §4(a)(3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 103–79, §3(b), Aug. 13, 1993, 107 Stat. 771; Pub. L. 104–262, title II, §207(b), Oct. 9, 1996, 110 Stat. 3190.)
 
 #### Prior Provisions
 
 Provisions similar to those comprising this section were contained in former section 5004 of this title prior to the general revision of this subchapter by Pub. L. 96–22.
 
 #### Amendments
+
+1996—Subsec. (h)(3)(B). Pub. L. 104–262 substituted “construction documents” for “working drawings”.
 
 1993—Subsec. (i)(2). Pub. L. 103–79 substituted “$3,000,000” for “$2,000,000”.
 
@@ -88,7 +90,7 @@ Section 223(b) of Pub. L. 99–576 provided that:
 
 “(1) Except as provided in paragraphs (2) and (3), the amendments made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[Oct. 28, 1986\].
 
-“(2)(A) The amendments made by this section shall not abrogate the provisions of a collective bargainingagreement which, on the date of the enactment of this Act, is in effect and includes a provision which specifies a termination date for such agreement.
+“(2)(A) The amendments made by this section shall not abrogate the provisions of a collective bargaining agreement which, on the date of the enactment of this Act, is in effect and includes a provision which specifies a termination date for such agreement.
 
 “(B) After the date of the enactment of this Act, if a collective bargaining agreement described in subparagraph (A) is modified, extended, or renewed, such subparagraph shall no longer, as of the date of the modification, extension, or renewal, apply to such agreement.
 

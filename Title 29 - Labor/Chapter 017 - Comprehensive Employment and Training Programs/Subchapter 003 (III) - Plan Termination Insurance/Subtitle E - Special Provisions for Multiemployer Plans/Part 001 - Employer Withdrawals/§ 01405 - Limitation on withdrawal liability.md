@@ -12,9 +12,8 @@
 
 &nbsp;
 
-| &nbsp; | &nbsp; |
+| If the liquidation or  dissolution value of the  employer after the sale  or exchange is— | The portion is— |
 | :--- | ---: |
-| If the liquidation or dissolution value of the employer after the sale or exchange is— | The portion is— |
 | Not more than $2,000,000 | 30 percent of the amount. |
 | More than $2,000,000, but not more than $4,000,000 | $600,000, plus 35 percent of the amount in excess of $2,000,000. |
 | More than $4,000,000, but not more than $6,000,000 | $1,300,000, plus 40 percent of the amount in excess of $4,000,000. |

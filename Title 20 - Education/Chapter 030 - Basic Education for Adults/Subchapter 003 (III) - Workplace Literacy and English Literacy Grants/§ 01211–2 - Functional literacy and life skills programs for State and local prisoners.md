@@ -76,7 +76,7 @@ The Secretary is authorized to make grants to eligible entities to assist such e
 
 (2) To receive a grant under this subsection, an eligible entity shall—
 
-&emsp;(A) submit an application to the Secretary at such time, in such manner, and containingsuch information as the Secretary shall require; and
+&emsp;(A) submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary shall require; and
 
 &emsp;(B) agree to report annually to the Secretary on the participation rate, cost, and effectiveness of the program and any other aspect of the program on which the Secretary may request information.
 

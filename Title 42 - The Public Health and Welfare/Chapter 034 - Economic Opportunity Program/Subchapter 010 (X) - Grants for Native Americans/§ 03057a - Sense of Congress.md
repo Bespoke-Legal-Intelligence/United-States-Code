@@ -1,6 +1,6 @@
 ### §3057a. Sense of Congress
 
-It is the sense of the Congress that older individuals who are Indians, older individuals whoare Alaskan Natives, and older individuals who are Native Hawaiians are a vital resource entitled to all benefits and services available and that such services and benefits should be provided in a manner that preserves and restores their respective dignity, self-respect, and cultural identities.
+It is the sense of the Congress that older individuals who are Indians, older individuals who are Alaskan Natives, and older individuals who are Native Hawaiians are a vital resource entitled to all benefits and services available and that such services and benefits should be provided in a manner that preserves and restores their respective dignity, self-respect, and cultural identities.
 
 (Pub. L. 89–73, title VI, §602, as added Pub. L. 100–175, title I, §171, Nov. 29, 1987, 101 Stat. 959; amended Pub. L. 102–375, title IX, §904(a)(20), Sept. 30, 1992, 106 Stat. 1309.)
 

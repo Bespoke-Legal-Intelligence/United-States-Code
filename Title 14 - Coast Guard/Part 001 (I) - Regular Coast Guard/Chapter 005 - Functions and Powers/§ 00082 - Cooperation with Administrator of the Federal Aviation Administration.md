@@ -1,8 +1,8 @@
 ### §82. Cooperation with Administrator of the Federal Aviation Administration
 
-The Coast Guard, in establishing, maintaining, or operating any aids to air navigation herein provided, shall solicit the cooperation of the Administrator of the Federal Aviation Administration to the end that the personnel and facilities of the Federal Aviation Administration will be utilized to the fullest possible advantage. Before locating and operating any such aid on military or naval bases or regions, the consent of the Secretary of the Army, the Secretary of the Navy, or the Secretary of the Air Force, as the case may be, shall first be obtained. No such aid shall be located within the territorial jurisdiction of any foreign country without the consent of the government thereof. Nothing in this title shall be deemed to limitthe authority granted by chapter 167 of title 10 or part A of subtitle VII of title 49.
+The Coast Guard, in establishing, maintaining, or operating any aids to air navigation herein provided, shall solicit the cooperation of the Administrator of the Federal Aviation Administration to the end that the personnel and facilities of the Federal Aviation Administration will be utilized to the fullest possible advantage. Before locating and operating any such aid on military or naval bases or regions, the consent of the Secretary of the Army, the Secretary of the Navy, or the Secretary of the Air Force, as the case may be, shall first be obtained. No such aid shall be located within the territorial jurisdiction of any foreign country without the consent of the government thereof. Nothing in this title shall be deemed to limit the authority granted by subchapter II of chapter 22 of title 10 or part A of subtitle VII of title 49.
 
-(Aug. 4, 1949, ch. 393, 63 Stat. 500; Sept. 3, 1954, ch. 1263, §31, 68 Stat. 1237; Aug. 23, 1958, Pub. L. 85–726, title XIV, §1404, 72 Stat. 808; Oct. 14, 1966, Pub. L. 89–662, §2, 80 Stat. 912; Oct. 18, 1976, Pub. L. 94–546, §1(4), (5), 90 Stat. 2519; Oct. 12, 1982, Pub. L. 97–295, §2(3), 96 Stat. 1301; Nov. 10, 1986, Pub. L. 99–640, §10(a)(3), 100 Stat. 3549; July 5, 1994, Pub. L. 103–272, §5(d), 108 Stat. 1373.)
+(Aug. 4, 1949, ch. 393, 63 Stat. 500; Sept. 3, 1954, ch. 1263, §31, 68 Stat. 1237; Aug. 23, 1958, Pub. L. 85–726, title XIV, §1404, 72 Stat. 808; Oct. 14, 1966, Pub. L. 89–662, §2, 80 Stat. 912; Oct. 18, 1976, Pub. L. 94–546, §1(4), (5), 90 Stat. 2519; Oct. 12, 1982, Pub. L. 97–295, §2(3), 96 Stat. 1301; Nov. 10, 1986, Pub. L. 99–640, §10(a)(3), 100 Stat. 3549; July 5, 1994, Pub. L. 103–272, §5(d), 108 Stat. 1373; Sept. 23, 1996, Pub. L. 104–201, div. A, title XI, §1122(c), 110 Stat. 2687.)
 
 #### Historical and Revision Notes
 
@@ -15,6 +15,8 @@ Based on title 14, U.S.C., 1946 ed., §50n (June 26, 1948, ch. 672, §2, 62 Stat
 The citation “(49 U.S.C. 1301 et seq.)” is substituted for “(ch. 20 of title 49)” for consistency in title 14. The words “chapter 167 of title 10” are substituted for “sections 7392 and 7394 of title 10” to reflect the replacement of those sections by chapter 167 of title 10 under section 1(50) of the bill.
 
 #### Amendments
+
+1996—Pub. L. 104–201 substituted “subchapter II of chapter 22” for “chapter 167”.
 
 1994—Pub. L. 103–272 amended last sentence generally, substituting “chapter 167 of title 10 or part A of subtitle VII of title 49” for “the Federal Aviation Act of 1958 (49 App. U.S.C. 1301 et seq.), or by the provisions of chapter 167 of title 10”.
 
@@ -31,6 +33,10 @@ Pub. L. 94–546, §1(4), substituted “Federal Aviation Administration” for 
 1958—Pub. L. 85–726 substituted “Administrator of the Federal Aviation Agency” for “Administrator of Civil Aeronautics”, and “Federal Aviation Agency” for “Civil Aeronautics Administration”.
 
 1954—Act Sept. 3, 1954, substituted “section 175(e) of Title 49 or subchapter III of chapter 9 of that title” for “sections 175(f) or 451 to 458 of Title 49”.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–201 effective Oct. 1, 1996, see section 1124 of Pub. L. 104–201, set out as a note under section 193 of Title 10, Armed Forces.
 
 #### Effective Date of 1958 Amendment
 

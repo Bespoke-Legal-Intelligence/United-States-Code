@@ -80,7 +80,7 @@
 
 #### (vi) Special transition rule for public commuter railroads
 
-&emsp;&emsp;&emsp;With respect to each of calendar years 1989 and 1990, the contribution of the National Railroad Passenger Corporation and an employer which on November 10, 1988, is a publicly funded and publicly operated carrier providing rail commuter service shall be equal to the amount of benefits attributable to such carrier, plus anamount equal to 0.65 percent of the total compensation paid by that employer in that year on which that employer's contribution would be based under clause (i) if such employer's contribution were determined under that clause.
+&emsp;&emsp;&emsp;With respect to each of calendar years 1989 and 1990, the contribution of the National Railroad Passenger Corporation and an employer which on November 10, 1988, is a publicly funded and publicly operated carrier providing rail commuter service shall be equal to the amount of benefits attributable to such carrier, plus an amount equal to 0.65 percent of the total compensation paid by that employer in that year on which that employer's contribution would be based under clause (i) if such employer's contribution were determined under that clause.
 
 #### (C) Experience-rated contributions
 
@@ -100,7 +100,7 @@
 
 #### (iv) Step 4
 
-&emsp;&emsp;&emsp;Multiply by 100 the total arrived at under the steps set forth in clauses (i) through (iii) so as to obtain a percentage rate, which shall be rounded to the nearest 100th of 1 percent. If the total arrived at under such steps is 0 or less than 0, the percentage rate as so computed shall be 0.
+&emsp;&emsp;&emsp;Multiply by 100 the total arrived at under the steps set forth in clauses (i)through (iii) so as to obtain a percentage rate, which shall be rounded to the nearest 100th of 1 percent. If the total arrived at under such steps is 0 or less than 0, the percentage rate as so computed shall be 0.
 
 #### (v) Step 5
 
@@ -252,7 +252,7 @@
 
 #### (A) Step 1
 
-&emsp;&emsp;Compute the aggregate amount of all interest paid by the account on loans from theRailroad Retirement Account after September 30, 1985, pursuant to section 360(d) of this title, during the 4 calendar quarters ending on that June 30.
+&emsp;&emsp;Compute the aggregate amount of all interest paid by the account on loans from the Railroad Retirement Account after September 30, 1985, pursuant to section 360(d) of this title, during the 4 calendar quarters ending on that June 30.
 
 #### (B) Step 2
 
@@ -272,7 +272,7 @@
 
 #### (F) Step 6
 
-&emsp;&emsp;Subtract the aggregate amount of all other income and receipts of the account, during that period, which are not assigned to individual employer balances.
+&emsp;&emsp;Subtract the aggregate amount of all other income and receipts of the account,during that period, which are not assigned to individual employer balances.
 
 #### (G) Step 7
 
@@ -324,7 +324,7 @@
 
 #### (A) Step 1
 
-&emsp;&emsp;Compute the balance to the credit of the account as of the close of business on the preceding June 30, including any amounts in the account attributable to loans made under section 360(d) of this title before October 1, 1985, but disregarding the obligation to repay such loans and interest thereon. In determining such balance as of June 30 of anyyear, so much of the balance to the credit of the railroad unemployment insurance administration fund as of the close of business on such date as is in excess of $6,000,000 shall be deemed to be part of the balance to the credit of such account. There will be a surcharge rate for the calendar year only if that balance is less than the greater of $100,000,000 or of the amount that bears the same ratio to $100,000,000 as the system compensation base as of that June 30 bears to the system compensation base as of June 30, 1991, as computed in accordance with paragraph (11).
+&emsp;&emsp;Compute the balance to the credit of the account as of the close of business on the preceding June 30, including any amounts in the account attributable to loans made under section 360(d) of this title before October 1, 1985, but disregarding the obligation to repay such loans and interest thereon. In determining such balance as of June 30 of any year, so much of the balance to the credit of the railroad unemployment insurance administration fund as of the close of business on such date as is in excess of $6,000,000 shall be deemed to be part of the balance to the credit of such account. There will be a surcharge rate for the calendar year only if that balance is less than the greater of $100,000,000 or of the amount that bears the same ratio to $100,000,000 as the system compensation base as of that June 30 bears to the system compensation base as of June 30, 1991, as computed in accordance with paragraph (11).
 
 #### (B) Step 2
 
@@ -380,7 +380,7 @@
 
 #### (A) With other employers
 
-&emsp;&emsp;In the event of a merger, consolidation, unification, or reorganization in which anemployer combines with another employer and the combination entails no partitioning of the property of the employer, the individual employer records of the 2 employers shall be combined into a joint individual employer record if the parties request such joint treatment pursuant to paragraph (18) or if the Board otherwise determines, pursuant to regulations prescribed by the Board, that such joint treatment is desirable.
+&emsp;&emsp;In the event of a merger, consolidation, unification, or reorganization in which an employer combines with another employer and the combination entails no partitioning of the property of the employer, the individual employer records of the 2 employers shall be combined into a joint individual employer record if the parties request such joint treatment pursuant to paragraph (18) or if the Board otherwise determines, pursuant to regulations prescribed by the Board, that such joint treatment is desirable.
 
 #### (B) With nonemployers
 
@@ -388,7 +388,7 @@
 
 #### (C) Sale of assets
 
-&emsp;&emsp;In the event property of an employer is sold or transferred to another employer or other entity, or is partitioned among 2 or more employers or entities, the cumulative benefit balance, net cumulative contribution balance, 1-year compensation base, and 3-year compensation base of the employer shall be prorated among the employers which receive the property, including any entities which become employers by virtue of such transfer or partition, in such equitable manner as the Board by regulation shall prescribe.
+&emsp;&emsp;In the event property of an employer is sold or transferred to another employer or other entity, or is partitioned among 2 or more employers or entities, the cumulative benefit balance, net cumulative contribution balance, 1-year compensation base, and 3-year compensation base of the employer shall be prorated among the employers which receive the property, including any entities which become employers by virtueof such transfer or partition, in such equitable manner as the Board by regulation shall prescribe.
 
 #### (D) Reincorporation
 
@@ -446,7 +446,7 @@ Each employee representative shall pay a contribution with respect to so much of
 
 (1) Not later than the last day of any calendar quarter that begins after March 31, 1990, the Board shall notify each employer and employee representative of its net cumulative contribution balance and cumulative benefit balance as of the end of the preceding calendar quarter, as computed in accordance with paragraphs (7) and (8) of subsection (a) of this section as of the last day of such preceding calendar quarter rather than as of a given June 30 if such last day is not a June 30.
 
-(2) Not later than October 15, 1990, and October 15 of each year thereafter, the Board shall notify each employer and employee representative ofits benefit ratio, reserve ratio, 1-year compensation base, 3-year compensation base, unallocated charge, and reserve balance as of the preceding June 30 as computed in accordance with paragraphs (2), (3), (4), (5), (6), and (9) of subsection (a) of this section, and of the contribution rate applicable to the employer or employee representative in the following calendar year as computed under paragraphs (1)(B), (C), or (D) of that subsection.
+(2) Not later than October 15, 1990, and October 15 of each year thereafter, the Board shall notify each employer and employee representative of its benefit ratio, reserve ratio, 1-year compensation base, 3-year compensation base, unallocated charge, and reserve balance as of the preceding June 30 as computed in accordance with paragraphs (2), (3), (4), (5), (6), and (9) of subsection (a) of this section, and of the contribution rate applicable to the employer or employee representative in the following calendar year as computed under paragraphs (1)(B), (C), or (D) of that subsection.
 
 #### (e) Information to verify accuracy to be made available
 
@@ -530,7 +530,7 @@ Subsec. (b). Pub. L. 98–76, §503(a)(2), struck out “after December 1975” 
 | $400,000,000 or more but less than $450,000,000 | 2 |
 | $350,000,000 or more but less than $400,000,000 | 21/2 |
 | $300,000,000 or more but less than $350,000,000 | 3 |
-| Less than $300,000,000 | &nbsp;4” |
+| Less than $300,000,000 | 4” |
 
 Subsec. (b). Pub. L. 94–92, §1(h), substituted “Each employee representative shall pay a contribution with respect to so much of the compensation paid to him for services performed as an employee representative during any month after December 1975 as is not, for any such calendar month, in excess of $400, at the rate applicable to employers in accordance with subsection (a) of this section.” for “Each employee representative shall pay, with respect to his income, a contribution equal to 4 per centum of so much of the compensation of such employee representative as is not in excess of $300 for any calendar month, paid to him for services performed as an employee representative after June 30, 1939, and before July 1, 1954, and as is not in excess of $350 paid to him for services rendered as an employee representative in any calendar month after June 30, 1954, and before June 1, 1959, and as is not in excess of $400 paid to him for services rendered as an employee representative in any calendar month after May 31, 1959.”
 
@@ -558,7 +558,7 @@ Subsec. (f). Act June 23, 1948, §6, changed rates of credits to account and fun
 
 1946—Subsec. (a). Act July 31, 1946, §318(a), changed basis of contributions from compensation payable during a month to compensation paid during the month and inserted provisions relating to proration of contributions where one of the employers is a railway labor organization.
 
-Subsec. (h). Act July 31, 1946, §318(b), substituted references to sections of the Internal Revenue Code for references to the sections of the Internal Revenue Acts of 1926 and 1934 from which they were derived.
+Subsec. (h). Act July 31, 1946, §318(b), substituted references to sections of the Internal Revenue Code forreferences to the sections of the Internal Revenue Acts of 1926 and 1934 from which they were derived.
 
 #### Effective Date of 1990 Amendment
 

@@ -27,7 +27,7 @@
 | (i) | Rongelap. |
 | (j) | Four atoll health care program. |
 | (k) | Enjebi Community Trust Fund. |
-| (<i>l)</i> | Bikini Atoll cleanup. |
+| (<i>l</i>) | Bikini Atoll cleanup. |
 | (m) | Agreement on audits. |
 | [1904\.](Subchapter%20001%20%28I%29%20-%20Micronesia%20and%20Marshall%20Islands/%C2%A7%2001904%20-%20Interpretation%20of%20and%20United%20States%20policy%20regarding%20Compact%20of%20Free%20Association.md) | Interpretation of and United States policy regarding Compact of Free Association. |
 | (a) | Human rights. |
@@ -49,10 +49,10 @@
 | (i) | College of Micronesia; education programs. |
 | (j) | Trust Territory debts to U.S. Federal agencies. |
 | (k) | Use of DOD medical facilities. |
-| (<i>l)</i> | Technical assistance. |
+| (<i>l</i>) | Technical assistance. |
 | (m) | Prior Service Benefits Program. |
 | (n) | Indefinite land use payments. |
-| (<i>o)</i> | Communicable disease control program. |
+| (<i>o</i>) | Communicable disease control program. |
 | (p) | Trust funds. |
 | (q) | Annual reports on determinations under Compact section 313. |
 | (r) | User fees. |

@@ -74,7 +74,7 @@ It is the policy of the United States that all programs, projects, and activitie
 
 &emsp;(6) Families must be supported in their efforts to promote the integration and inclusion of their children with disabilities into all aspects of community life.
 
-&emsp;(7) Family support for families of children with disabilities should promote the use of existing social networks, strengthen natural sources of support, and help build connections to existing community resources and services.
+&emsp;(7) Family support for families of children with disabilities should promote the use of existing social networks, strengthen naturalsources of support, and help build connections to existing community resources and services.
 
 &emsp;(8) Youth with disabilities should be involved in decisionmaking about their own lives, consistent with the unique strengths, resources, priorities, concerns, abilities, and capabilities of each such youth.
 

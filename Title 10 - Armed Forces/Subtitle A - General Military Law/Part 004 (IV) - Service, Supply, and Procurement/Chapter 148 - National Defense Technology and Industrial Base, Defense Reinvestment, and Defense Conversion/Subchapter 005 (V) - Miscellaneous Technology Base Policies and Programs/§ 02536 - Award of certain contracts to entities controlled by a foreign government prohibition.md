@@ -2,11 +2,21 @@
 
 (a)
 
-In General.—A Department of Defense contract or Department of Energy contractunder a national security program may not be awarded to an entity controlled by a foreign government if it is necessary for that entity to be given access to information in a proscribed category of information in order to perform the contract.
+In General.—A Department of Defense contract or Department of Energy contract under a national security program may not be awarded to an entity controlled by a foreign government if it is necessary for that entity to be given access to information in a proscribed category of information in order to perform the contract.
 
 (b)
 
-Waiver Authority.—The Secretary concerned may waive the application of subsection (a) to a contract award if the Secretary concerned determines that the waiver is essential to the national security interests of the United States.
+Waiver Authority.—(1) The Secretary concerned may waive the application of subsection (a) to a contract award if—
+
+&emsp;(A) the Secretary concerned determines that the waiver is essential to the national security interests of the United States; or
+
+&emsp;(B) in the case of a contract awarded for environmental restoration, remediation, or waste management at a Department of Defense or Department of Energy facility—
+
+&emsp;&emsp;(i) the Secretary concerned determines that the waiver will advance the environmental restoration, remediation, or waste management objectives of the department concerned and will not harm the national security interests of the United States; and
+
+&emsp;&emsp;(ii) the entity to which the contract is awarded is controlled by a foreign government with which the Secretary concerned is authorized to exchange Restricted Data under section 144 c. of the Atomic Energy Act of 1954 (42 U.S.C. 2164(c)).
+
+(2) The Secretary concerned shall notify Congress of any decision to grant a waiver under paragraph (1)(B) with respect to a contract. The contract may be awarded only after the end of the 45-day period beginning on the date the notification is received by the committees.
 
 (c)
 
@@ -42,9 +52,13 @@ Definitions.—In this section:
 
 &emsp;&emsp;(B) the Secretary of Energy, with respect to Department of Energy contracts.
 
-(Added Pub. L. 102–484, div. A, title VIII, §836(a)(1), Oct. 23, 1992, 106 Stat. 2462; amended Pub. L. 103–35, title II, §201(d)(4), May 31, 1993, 107 Stat. 99; Pub. L. 103–160, div. A, title VIII, §842(a)–(c)(1), Nov. 30, 1993, 107 Stat. 1719.)
+(Added Pub. L. 102–484, div. A, title VIII, §836(a)(1), Oct. 23, 1992, 106 Stat. 2462; amended Pub. L. 103–35, title II, §201(d)(4), May 31, 1993, 107 Stat. 99; Pub. L. 103–160, div. A, title VIII, §842(a)–(c)(1), Nov. 30, 1993, 107 Stat. 1719; Pub. L. 104–201, div. A, title VIII, §828, Sept. 23, 1996, 110 Stat. 2611.)
 
 #### Amendments
+
+1996—Subsec. (b). Pub. L. 104–201 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “
+
+Waiver Authority.—The Secretary concerned may waive the application of subsection (a) to a contract award if the Secretary concerned determines that the waiver is essential to the national security interests of the United States.”
 
 1993—Pub. L. 103–160, §842(c)(1), substituted “Award of certain contracts to entities controlled by a foreign government: prohibition” for “Prohibition on award of certain Department of Defense and Department of Energy contracts to companies owned by an entity controlled by a foreign government.” as section catchline.
 

@@ -10,7 +10,7 @@ Any person, company, or corporation violating the provisions of sections 124 or 
 
 #### Extension of Provisions to Live Poultry
 
-Act Feb. 7, 1928, ch. 30, 45 Stat. 59, extended the provisions of this section to live poultry.
+Act Feb. 7, 1928, ch. 30, 45 Stat. 59, extended the penalties, terms, and provisions of this section to live poultry.
 
 #### Section Referred to in Other Sections
 

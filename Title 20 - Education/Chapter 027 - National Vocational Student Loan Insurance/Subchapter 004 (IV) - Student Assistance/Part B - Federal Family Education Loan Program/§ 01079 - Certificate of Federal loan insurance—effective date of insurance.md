@@ -30,7 +30,7 @@ The Secretary shall, pursuant to regulations, charge for insurance on each loan 
 
 #### (d) Assignability of insurance
 
-The rights of an eligible lender arising under insurance evidenced by a certificate of insurance issued to it under this section may be assigned as security by such lender only to another eligible lender, and subject to regulation by the Secretary.
+The rights of an eligible lender arising under insurance evidenced by a certificate of insurance issued to it under this section may be assignedas security by such lender only to another eligible lender, and subject to regulation by the Secretary.
 
 #### (e) Consolidation not to affect insurance
 

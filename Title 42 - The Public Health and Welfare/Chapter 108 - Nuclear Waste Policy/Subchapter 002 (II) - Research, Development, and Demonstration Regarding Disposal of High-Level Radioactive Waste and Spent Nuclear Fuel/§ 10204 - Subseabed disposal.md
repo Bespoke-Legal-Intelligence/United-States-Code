@@ -22,7 +22,7 @@
 
 (C) In 1990, and again in 1995, the Subseabed Consortium shall report to Congress on the progress being made in achieving the objectives of paragraph (2).
 
-(Pub. L. 97–425, title II, §224, as added Pub. L. 100–202, §101(d) \[title III\], Dec. 22, 1987, 101 Stat. 1329–104, 1329–121; Pub. L. 100–203, title V, §5063, Dec. 22, 1987, 101 Stat. 1330–253; Pub. L. 104–66, title I, §1051(d), Dec. 21, 1995, 109 Stat. 716.)
+(Pub. L. 97–425, title II, §224, as added Pub. L. 100–202, §101(d) \[title III\], Dec. 22, 1987, 101 Stat. 1329–104, 1329–121; Pub. L. 100–203, title V, §5063, Dec. 22, 1987, 101 Stat. 1330–253; amended Pub. L. 104–66, title I, §1051(d), Dec. 21, 1995, 109 Stat. 716.)
 
 #### Codification
 

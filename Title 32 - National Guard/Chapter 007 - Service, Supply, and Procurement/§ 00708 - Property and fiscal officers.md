@@ -12,7 +12,7 @@
 
 (d) The Secretaries shall prescribe a maximum grade, commensurate with the functions and responsibilities of the office, but not above colonel, for the property and fiscal officer of the United States for the National Guard of each State or Territory, Puerto Rico, and the District of Columbia.
 
-(e) The Secretary of the Army and the Secretary of the Air Force shall prescribe joint regulations�7E necessary�7E to�7E carry�7E out�7E subsections (a)–(d).
+(e) The Secretary of the Army and the Secretary of the Air Force shall prescribe joint regulations necessary to carry out subsections (a)–(d).
 
 (f) A property and fiscal officer may intrust money to an officer of the National Guard to make disbursements as his agent. Both the officer to whom money is intrusted, and the property and disbursing officer intrusting the money to him, are pecuniarily responsible for that money to the United States. The agent officer is subject, for misconduct as an agent, to the liabilities and penalties prescribed by law in like cases for the property and fiscal officer for whom he is acting.
 
@@ -28,11 +28,21 @@ Historical and Revision Notes
 
 708(a)
 
+&nbsp;
+
+&nbsp;
+
 708(b)
+
+&nbsp;
 
 708(c)
 
+&nbsp;
+
 708(d)
+
+&nbsp;
 
 708(e)
 
@@ -72,7 +82,7 @@ In subsection (g), the words “Under such regulations as may be prescribed by t
 
 #### Amendments
 
-1989—Subsec. (a). Pub. L. 101–189 substituted “The Governor of each State or Territory and Puerto Rico”for “The governor of each State and Territory, Puerto Rico, and the Canal Zone”.
+1989—Subsec. (a). Pub. L. 101–189 substituted “The Governor of each State or Territory and Puerto Rico” for “The governor of each State and Territory, Puerto Rico, and the Canal Zone”.
 
 1988—Subsec. (d). Pub. L. 100–456 struck out “the Canal Zone,” after “Puerto Rico,”.
 

@@ -110,25 +110,13 @@ The Secretary may conduct pilot projects in not more than three States in which 
 
 &emsp;(ii) shall be updated not later than September 30 of each year.
 
-(3)(A) The Secretary shall carry out a pilot program under which a limited number of schools participating in the special assistance program under section 1759a(a)(1) of this title that have universal free school lunch programs shall have the option of determining the number of free meals, reduced price meals, and paid meals provided daily under the school lunch program operated by such school by applying percentages determined under subparagraph (B) to the daily total student meal count.
+(3) In addition to the pilot projects described in this subsection, the Secretary may conduct other pilot projects to test alternative counting and claiming procedures.
 
-(B) The percentages determined under this subparagraph shall be established on the basis of the master roster of students enrolled in the school concerned, which—
-
-&emsp;(i) shall include a notation as to the eligibility status of each student with respect to the school lunch program; and
-
-&emsp;(ii) shall be updated not later than September 30 of each year.
-
-(C) For the purposes of this paragraph, a universal free school lunch program is a program under which the school operating the program elects to serve all children in that school free lunches under the school lunch program during any period of 3 successive years and pays, from sources other than Federal funds, for the costs of serving such lunches which are in excess of the value of assistance received under this chapter with respect to the number of lunches served during that period.
-
-(4) In addition to the pilot projects described in this subsection, the Secretary may conductother pilot projects to test alternative counting and claiming procedures.
-
-(5) Each pilot program carried out under this subsection shall be evaluated by the Secretary after it has been in operation for 3 years.
+(4) Each pilot program carried out under this subsection shall be evaluated by the Secretary after it has been in operation for 3 years.
 
 #### (e) Demonstration program to provide meals and supplements outside of school hours
 
-(1)(A) The Secretary shall establish a demonstration program to provide grants to eligible institutions or schools to provide meals or supplements to adolescents participating in educational, recreational, or other programs and activities provided outside of school hours.
-
-(B) The amount of a grant under subparagraph (A) shall be equal to the amount necessary to provide meals or supplements described in such subparagraph and shall be determined in accordance with reimbursement payment rates for meals and supplements under the child and adult care food program under section 1766 of this title.
+(1) The Secretary may establish a demonstration program to provide grants to eligible institutions or schools to provide meals or supplements to adolescents participating in educational, recreational, or other programs and activities provided outside of school hours.
 
 (2) The Secretary may not provide a grant under paragraph (1) to an eligible institution or school unless the institution or school submits to the Secretary an application containing such information as the Secretary may reasonably require.
 
@@ -140,9 +128,9 @@ The Secretary may conduct pilot projects in not more than three States in which 
 
 (4) Determinations with regard to eligibility for free and reduced price meals and supplements provided under programs and activities under this subsection shall be made in accordance with the income eligibility guidelines for free and reduced price lunches under section 1758 of this title.
 
-(5)(A) Except as provided in subparagraph (B), the Secretary shall expend to carry out this subsection, from amounts appropriated for purposes of carrying out section 1766 of this title, $325,000 for fiscal year 1995, $475,000 for each of fiscal years 1996 and 1997, and $525,000 for fiscal year 1998. In addition to amounts described in the preceding sentence, the Secretary shall expend any additional amounts in any fiscal year as may be provided in advance in appropriations Acts.
+(5)
 
-(B) The Secretary may expend less than the amount required under subparagraph (A) if there is an insufficient number of suitable applicants.
+Authorization of appropriations.—There are authorized to be appropriated to carry out this subsection such sums as are necessary for each of fiscal years 1997 and 1998.
 
 (6) As used in this subsection:
 
@@ -326,7 +314,7 @@ The Secretary may conduct pilot projects in not more than three States in which 
 
 &emsp;(i) determine the effect that participation by schools in the pilot projects has on the rate of student participation in the school lunch program and the school breakfast program, in total and by various income groups;
 
-&emsp;(ii) compare the quality of meals served under the pilot project to the quality of mealsserved under the school lunch program and the school breakfast program during the school year immediately preceding participation in the pilot project;
+&emsp;(ii) compare the quality of meals served under the pilot project to the quality of meals served under the school lunch program and the school breakfast program during the school year immediately preceding participation in the pilot project;
 
 &emsp;(iii) summarize the views of students, parents, and administrators with respect to the pilot project;
 
@@ -346,7 +334,7 @@ The Secretary may conduct pilot projects in not more than three States in which 
 
 (8) There are authorized to be appropriated to carry out this subsection $9,000,000 for each fiscal year during the period beginning October 1, 1995, and ending July 31, 1998.
 
-(June 4, 1946, ch. 281, §18, formerly §20, as added Nov. 10, 1977, Pub. L. 95–166, §10(2), 91 Stat. 1336; amended Nov. 10, 1978, Pub. L. 95–627, §11, 92 Stat. 3624; renumbered §18 and amended Oct. 18, 1986, Pub. L. 99–500, title III, §§327, 371(c)(1), 100 Stat. 1783–362, 1783–368, and Oct. 30, 1986, Pub. L. 99–591, title III, §§327, 371(c)(1), 100 Stat. 3341–365, 3341–372; renumbered §18 and amended Nov. 14, 1986, Pub. L. 99–661, div. D, title II, §4207, title V, §4501(c)(1), 100 Stat. 4073, 4080; Jan. 8, 1988, Pub. L. 100–237, §5, 101 Stat. 1739; Nov. 10, 1989, Pub. L. 101–147, title I, §107, title II, §205(a), title III, §311, 103 Stat. 886, 910, 916; Aug. 14, 1992, Pub. L. 102–342, title I, §101(a), title III, §301, 106 Stat. 911, 913; Oct. 24, 1992, Pub. L. 102–512, title I, §102, 106 Stat. 3363; Nov. 2, 1994, Pub. L. 103–448, title I, §§117(a)(2)(A), (b), 118, 108 Stat. 4717, 4719.)
+(June 4, 1946, ch. 281, §18, formerly §20, as added Nov. 10, 1977, Pub. L. 95–166, §10(2), 91 Stat. 1336; amended Nov. 10, 1978, Pub. L. 95–627, §11, 92 Stat. 3624; renumbered §18 and amended Oct. 18, 1986, Pub. L. 99–500, title III, §§327, 371(c)(1), 100 Stat. 1783–362, 1783–368, and Oct. 30, 1986, Pub. L. 99–591, title III, §§327, 371(c)(1), 100 Stat. 3341–365, 3341–372; renumbered §18 and amended Nov. 14, 1986, Pub. L. 99–661, div. D, title II, §4207, title V, §4501(c)(1), 100 Stat. 4073, 4080; Jan. 8, 1988, Pub. L. 100–237, §5, 101 Stat. 1739; Nov. 10, 1989, Pub. L. 101–147, title I, §107, title II, §205(a), title III, §311, 103 Stat. 886, 910, 916; Aug. 14, 1992, Pub. L. 102–342, title I, §101(a), title III, §301, 106 Stat. 911, 913; Oct. 24, 1992, Pub. L. 102–512, title I, §102, 106 Stat. 3363; Nov. 2, 1994, Pub. L. 103–448, title I, §§117(a)(2)(A), (b), 118, 108 Stat. 4717, 4719; Aug. 22, 1996, Pub. L. 104–193, title VII, §709, 110 Stat. 2301.)
 
 #### References in Text
 
@@ -365,6 +353,16 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 A prior section 18 of act June 4, 1946, which was classified to section 1767 of this title, was repealed.
 
 #### Amendments
+
+1996—Subsec. (d)(3) to (5). Pub. L. 104–193, §709(a), redesignated pars. (4) and (5) as (3) and (4), respectively, and struck out former par. (3) which related to pilot program for schools with universal free lunch programs to use certain methods to determine number of free, reduced price, and paid meals to be provided.
+
+Subsec. (e)(1). Pub. L. 104–193, §709(b)(1), designated subpar. (A) as par. (1), substituted “Secretary may establish” for “Secretary shall establish”, and struck out subpar. (B) which read as follows: “The amount of agrant under subparagraph (A) shall be equal to the amount necessary to provide meals or supplements described in such subparagraph and shall be determined in accordance with reimbursement payment rates for meals and supplements under the child and adult care food program under section 1766 of this title.”
+
+Subsec. (e)(5). Pub. L. 104–193, §709(b)(2), added heading and text of par. (5) and struck out former par. (5) which read as follows:
+
+“(5)(A) Except as provided in subparagraph (B), the Secretary shall expend to carry out this subsection, from amounts appropriated for purposes of carrying out section 1766 of this title, $325,000 for fiscal year 1995, $475,000 for each of fiscal years 1996 and 1997, and $525,000 for fiscal year 1998. In addition to amounts described in the preceding sentence, the Secretary shall expend any additional amounts in any fiscal year as may be provided in advance in appropriations Acts.
+
+“(B) The Secretary may expend less than the amount required under subparagraph (A) if there is an insufficient number of suitable applicants.”
 
 1994—Subsec. (b)(1). Pub. L. 103–448, §118(a), struck out “, and ending September 30, 1994” after “beginning July 1, 1987”.
 
@@ -418,7 +416,7 @@ Subsec. (d). Pub. L. 95–627, §11(2), added subsec. (d).
 
 #### Change of Name
 
-Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Economic and Educational Opportunities of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Fifth Congress, Jan. 7, 1997.
 
 #### Effective Date of 1994 Amendment
 
@@ -442,7 +440,7 @@ Section 101(b) of Pub. L. 102–342 provided that:
 
 #### Alternative Counting and Claiming Procedures; Promulgation of Regulations
 
-Section 205(b) of Pub. L. 101–147 provided that: “Not later than July 1, 1990, the Secretary of Agriculture shall issue final regulations to implement section 18(g) of the National School Lunch Act \[now subsec. (d) of this section\] (as added by subsection (a) of this section).”
+Section 205(b) of Pub. L. 101–147 provided that: “Not later than July 1, 1990, the Secretary of Agriculture shall issue final regulations to implement section 18(g) of the National School Lunch Act \[now subsec. (d) ofthis section\] (as added by subsection (a) of this section).”
 
 #### Section Referred to in Other Sections
 

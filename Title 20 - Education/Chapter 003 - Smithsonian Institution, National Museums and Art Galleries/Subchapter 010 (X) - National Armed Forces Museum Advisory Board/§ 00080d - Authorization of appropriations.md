@@ -4,9 +4,3 @@ There are authorized to be appropriated to the Smithsonian Institution such sums
 
 (Pub. L. 87–186, §5, Aug. 30, 1961, 75 Stat. 415.)
 
-### SUBCHAPTER XI—WOODROW WILSON
-
-### INTERNATIONAL CENTER FOR
-
-### SCHOLARS
-

@@ -26,7 +26,7 @@ Venue provisions of said section 548 of title 18, U.S.C., 1940 ed., are incorpor
 
 Section 549 of title 18, U.S.C., 1940 ed., conferred special jurisdiction on the United States District Court for South Dakota of all crimes of murder, manslaughter, rape, assault with intent to kill, assault with a dangerous weapon, arson, burglary, and larceny committed within the limits of any Indian reservation within the State, whether by or against Indians or non-Indians. The Act of February 2, 1903, 32 Stat. 793, from which said section 549 was derived, accepted the cession by South Dakota of such jurisdiction.
 
-The effect of revised sections 1151, 1152, and 1153 of this title is to deprive the United States District Court for the District of South Dakota of jurisdiction of offenses on Indian reservations committed by non-Indians against non-Indians and to restore such jurisdiction to the courts of the State of South Dakota as in other States. This reflects the views of the United States attorney, George Philip, of the district of South Dakota.
+The effect of revised sections 1151, 1152, and 1153 of this title is to deprive the United States District Courtfor the District of South Dakota of jurisdiction of offenses on Indian reservations committed by non-Indians against non-Indians and to restore such jurisdiction to the courts of the State of South Dakota as in other States. This reflects the views of the United States attorney, George Philip, of the district of South Dakota.
 
 Minor changes were made in translation and phraseology.
 

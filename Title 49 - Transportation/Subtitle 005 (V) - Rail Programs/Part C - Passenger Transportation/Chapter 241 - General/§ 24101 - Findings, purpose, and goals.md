@@ -14,7 +14,7 @@ Findings.—(1) Public convenience and necessity require that Amtrak, to the ext
 
 (6) As a rail passenger transportation entity, Amtrak should be available to operate commuter rail passenger transportation through its subsidiary, Amtrak Commuter, under contract with commuter authorities that do not provide the transportation themselves as part of the governmental function of the State.
 
-(7) The Northeast Corridor is a valuable resource of the United States used by intercityand commuter rail passenger transportation and freight transportation.
+(7) The Northeast Corridor is a valuable resource of the United States used by intercity and commuter rail passenger transportation and freight transportation.
 
 (8) Greater coordination between intercity and commuter rail passenger transportation is required.
 
@@ -68,7 +68,9 @@ Minimizing Government Subsidies.—To carry out subsection (c)(11) of this secti
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

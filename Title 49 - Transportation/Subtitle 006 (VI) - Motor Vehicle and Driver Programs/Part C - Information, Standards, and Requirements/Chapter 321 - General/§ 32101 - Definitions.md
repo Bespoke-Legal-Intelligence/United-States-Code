@@ -46,7 +46,7 @@ In this part (except chapter 329 and except as provided in section 33101)—
 
 &emsp;&emsp;(C) a device made or sold for use in towing a passenger motor vehicle.
 
-&emsp;(12) “State” means a State of the United States, the District of Columbia, Puerto Rico,the Northern Mariana Islands, Guam, American Samoa, and the Virgin Islands.
+&emsp;(12) “State” means a State of the United States, the District of Columbia, Puerto Rico, the Northern Mariana Islands, Guam, American Samoa, and the Virgin Islands.
 
 &emsp;(13) “United States district court” means a district court of the United States, a United States court for Guam, the Virgin Islands, and American Samoa, and the district court for the Northern Mariana Islands.
 
@@ -56,7 +56,9 @@ Historical and Revision Notes
 
 Pub. L. 103–272
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

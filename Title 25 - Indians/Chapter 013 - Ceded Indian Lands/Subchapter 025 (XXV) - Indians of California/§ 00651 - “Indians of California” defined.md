@@ -6,7 +6,7 @@ For the purposes of this subchapter the Indians of California shall be defined t
 
 #### Advisory Council on California Indian Policy Act of 1992
 
-Pub. L. 102–416, Oct. 14, 1992, 106 Stat. 2131, provided for the establishment of Advisory Council on California Indian Policy, consisting of 18 members, to develop list of tribes, to conduct a study of policies and programs affecting California Indians, and to submit a report on the study no later than 18 months after first meeting of the Council, authorized the Council to appoint staff, hold hearings, establish task forces, accept funding from sources other than Federal government, and secure information from other Federal agencies, provided for termination of the Council 180 days after the report is submitted, and authorized $700,000 in appropriations to carry out the provisions of this Act.
+Pub. L. 102–416, Oct. 14, 1992, 106 Stat. 2131, as amended by Pub. L. 104–109, §14, Feb. 12, 1996, 110 Stat. 766, provided for the establishment of Advisory Council on California Indian Policy, consisting of 18 members, to develop list of tribes, to conduct a study of policies and programs affecting California Indians, and to submit a report on the study no later than 36 months after first meeting of the Council, authorized the Council to appoint staff, hold hearings, establish task forces, accept funding from sources other than Federal government, and secure information from other Federal agencies, provided for termination of the Council 180 days after the report is submitted, and authorized $700,000 in appropriations to carry out the provisions of this Act.
 
 #### Report to Congress
 

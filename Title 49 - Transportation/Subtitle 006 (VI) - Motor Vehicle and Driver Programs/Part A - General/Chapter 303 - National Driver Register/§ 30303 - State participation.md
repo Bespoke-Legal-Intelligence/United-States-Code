@@ -16,7 +16,9 @@ Form and Way of Notification.—Notification by a State under this section shall
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

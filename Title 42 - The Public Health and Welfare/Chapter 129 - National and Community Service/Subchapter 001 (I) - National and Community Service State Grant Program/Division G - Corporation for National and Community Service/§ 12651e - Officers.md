@@ -46,7 +46,7 @@
 
 &emsp;&emsp;(B) oversee all financial management activities relating to the programs and operations of the Corporation;
 
-&emsp;&emsp;(C) develop and maintain an integrated accounting and financial management system for the Corporation, including financial reporting and internal controls;
+&emsp;&emsp;(C) develop and maintain an integrated accounting and financial management systemfor the Corporation, including financial reporting and internal controls;
 
 &emsp;&emsp;(D) develop and maintain any joint financial management systems with the Department of Education necessary to carry out the programs of the Corporation; and
 

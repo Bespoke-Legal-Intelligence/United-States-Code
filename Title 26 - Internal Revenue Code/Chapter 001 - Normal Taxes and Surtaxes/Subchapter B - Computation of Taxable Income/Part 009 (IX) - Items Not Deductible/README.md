@@ -38,13 +38,15 @@
 
 #### Amendments
 
-1990—Pub. L. 101–508, title XI, §11813(b)(13)(F), Nov. 5, 1990, 104 Stat. 1388–555, which directed the striking out of “investment credit and” in item 280F, was executed by striking out “investment tax credit and” after “Limitation on” to reflect the probable intent of Congress.
+1996—Pub. L. 104–188, title I, §1704(t)(55), Aug. 20, 1996, 110 Stat. 1890, provided that section 11813(b)(13)(F) of Pub. L. 101–508 shall be applied as if “tax” appeared after “investment” in the material proposed to be stricken. See 1990 Amendment note below.
+
+1990—Pub. L. 101–508, title XI, §11813(b)(13)(F), Nov. 5, 1990, 104 Stat. 1388–555, which directed the striking out of “investment credit and” in item 280F, was executed by striking out “investment tax credit and” after “Limitation on”. See 1996 Amendment note above.
 
 1988—Pub. L. 100–418, title I, §1941(b)(4)(B), Aug. 23, 1988, 102 Stat. 1324, struck out item 280D “Portion of chapter 45 taxes for which credit or refund is allowable under section 6429”.
 
 1987—Pub. L. 100–203, title X, §10206(c)(2), Dec. 22, 1987, 101 Stat. 1330–402, added item 280H.
 
-1986—Pub. L. 99–514, title VIII, §803(c)(1), (3), Oct. 22, 1986, 100 Stat. 2356, added item 263A and struck outitems 278 “Capital expenditures incurred in planting and developing citrus and almond groves” and 280 “Certain expenditures incurred in production of films, books, records, or similar property”.
+1986—Pub. L. 99–514, title VIII, §803(c)(1), (3), Oct. 22, 1986, 100 Stat. 2356, added item 263A and struck out items 278 “Capital expenditures incurred in planting and developing citrus and almond groves” and 280 “Certain expenditures incurred in production of films, books, records, or similar property”.
 
 1984—Pub. L. 98–369, div. A, title I, §§67(d)(1), 136(b), 179(c), title X, §1063(b)(2), July 18, 1984, 98 Stat. 587, 670, 718, 1047, added items 269B, 280F, and 280G, and struck out “certain historic” before “structures” in item 280B.
 

@@ -6,7 +6,9 @@ Regulations prescribed by the Secretary of Transportation to carry out this chap
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

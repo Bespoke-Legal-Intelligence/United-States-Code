@@ -1,5 +1,5 @@
 
-15 U.S.C.<br>United States Code, 1995 Edition<br>Title 15 - COMMERCE AND TRADE<br>From the U.S. Government Publishing Office, www.gpo.gov
+15 U.S.C.<br>United States Code, 1996 Edition<br>Title 15 - COMMERCE AND TRADE<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 15—COMMERCE AND TRADE
 
@@ -8,7 +8,7 @@
 | [<b>1.</b>](Chapter%20001%20-%20Monopolies%20and%20Combinations%20in%20Restraint%20of%20Trade/README.md) | <b>Monopolies and Combinations in Restraint of Trade</b> | <b>1</b> |
 | [<b>2.</b>](Chapter%20002%20-%20Federal%20Trade%20Commission%3B%20Promotion%20of%20Export%20Trade%20and%20Prevention%20of%20Unfair%20Methods%20of%20Competition/README.md) | <b>Federal Trade Commission; Promotion of Export Trade and Prevention of Unfair Methods of Competition</b> | <b>41</b> |
 | [<b>2A.</b>](Chapter%20002A%20-%20Securities%20and%20Trust%20Indentures/README.md) | <b>Securities and Trust Indentures</b> | <b>77a</b> |
-| <b>2B.</b> | <b>Securities Exchanges</b> | <b>78a</b> |
+| [<b>2B.</b>](Chapter%20002B%20-%20Securities%20Exchanges/README.md) | <b>Securities Exchanges</b> | <b>78a</b> |
 | <b>2B–1.</b> | <b>Securities Investor Protection</b> | <b>78aaa</b> |
 | [<b>2C.</b>](Chapter%20002C%20-%20Public%20Utility%20Holding%20Companies/README.md) | <b>Public Utility Holding Companies</b> | <b>79</b> |
 | [<b>2D.</b>](Chapter%20002D%20-%20Investment%20Companies%20and%20Advisers/README.md) | <b>Investment Companies and Advisers</b> | <b>80a–1</b> |
@@ -116,6 +116,8 @@
 | [<b>86.</b>](Chapter%20086%20-%20Children%27s%20Bicycle%20Helmet%20Safety/README.md) | <b>Children's Bicycle Helmet Safety</b> | <b>6001</b> |
 | [<b>87.</b>](Chapter%20087%20-%20Telemarketing%20and%20Consumer%20Fraud%20and%20Abuse%20Prevention/README.md) | <b>Telemarketing and Consumer Fraud and Abuse Prevention</b> | <b>6101</b> |
 | [<b>88.</b>](Chapter%20088%20-%20International%20Antitrust%20Enforcement%20Assistance/README.md) | <b>International Antitrust Enforcement Assistance</b> | <b>6201</b> |
+| [<b>89.</b>](Chapter%20089%20-%20Professional%20Boxing%20Safety/README.md) | <b>Professional Boxing Safety</b> | <b>6301</b> |
+| [<b>90.</b>](Chapter%20090%20-%20Propane%20Education%20and%20Research/README.md) | <b>Propane Education and Research</b> | <b>6401</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -127,6 +129,7 @@
 - [Chapter 001 - Monopolies and Combinations in Restraint of Trade](Chapter%20001%20-%20Monopolies%20and%20Combinations%20in%20Restraint%20of%20Trade/README.md)
 - [Chapter 002 - Federal Trade Commission; Promotion of Export Trade and Prevention of Unfair Methods of Competition](Chapter%20002%20-%20Federal%20Trade%20Commission%3B%20Promotion%20of%20Export%20Trade%20and%20Prevention%20of%20Unfair%20Methods%20of%20Competition/README.md)
 - [Chapter 002A - Securities and Trust Indentures](Chapter%20002A%20-%20Securities%20and%20Trust%20Indentures/README.md)
+- [Chapter 002B - Securities Exchanges](Chapter%20002B%20-%20Securities%20Exchanges/README.md)
 - [Chapter 002B&#8211;1 - Securities Investor Protection](Chapter%20002B%E2%80%931%20-%20Securities%20Investor%20Protection/README.md)
 - [Chapter 002C - Public Utility Holding Companies](Chapter%20002C%20-%20Public%20Utility%20Holding%20Companies/README.md)
 - [Chapter 002D - Investment Companies and Advisers](Chapter%20002D%20-%20Investment%20Companies%20and%20Advisers/README.md)
@@ -232,3 +235,5 @@
 - [Chapter 086 - Children's Bicycle Helmet Safety](Chapter%20086%20-%20Children%27s%20Bicycle%20Helmet%20Safety/README.md)
 - [Chapter 087 - Telemarketing and Consumer Fraud and Abuse Prevention](Chapter%20087%20-%20Telemarketing%20and%20Consumer%20Fraud%20and%20Abuse%20Prevention/README.md)
 - [Chapter 088 - International Antitrust Enforcement Assistance](Chapter%20088%20-%20International%20Antitrust%20Enforcement%20Assistance/README.md)
+- [Chapter 089 - Professional Boxing Safety](Chapter%20089%20-%20Professional%20Boxing%20Safety/README.md)
+- [Chapter 090 - Propane Education and Research](Chapter%20090%20-%20Propane%20Education%20and%20Research/README.md)

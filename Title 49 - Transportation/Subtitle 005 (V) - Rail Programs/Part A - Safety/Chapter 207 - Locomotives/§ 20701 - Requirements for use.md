@@ -12,7 +12,9 @@ A railroad carrier may use or allow to be used a locomotive or tender on its rai
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -32,7 +34,7 @@ Mar. 4, 1915, ch. 169, §2 (1st sentence related to §2 of Act of Feb. 17, 1911)
 
 &nbsp;
 
-49 App.:1655(e) (1)(E), (F).
+49 App.:1655(e)(1)(E), (F).
 
 Oct. 15, 1966, Pub. L. 89–670, §6(e)(1)(E), (F), 80 Stat. 939.
 

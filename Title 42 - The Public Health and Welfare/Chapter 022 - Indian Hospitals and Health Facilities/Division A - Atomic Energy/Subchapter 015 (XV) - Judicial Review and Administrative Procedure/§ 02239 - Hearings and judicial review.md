@@ -18,19 +18,27 @@
 
 (C) The Commission shall, during the ninety-day period following the effective date of this paragraph, promulgate regulations establishing (i) standards for determining whether any amendment to an operating license or any amendment to a combined construction and operating license involves no significant hazards consideration; (ii) criteria for providing or, in emergency situations, dispensing with prior notice and reasonable opportunity for public comment on any such determination, which criteria shall take into account the exigency of the need for the amendment involved; and (iii) procedures for consultation on any such determination with the State in which the facility involved is located.
 
-(b) Any final order entered in any proceeding of the kind specified in subsection (a) of this section or any final order allowing or prohibiting a facility to begin operating under a combined construction and operating license shall be subject to judicial review in the manner prescribed in chapter 158 of title 28, and to the provisions of chapter 7 of title 5.
+(b) The following Commission actions shall be subject to judicial review in the manner prescribed in chapter 158 of title 28 and chapter 7 of title 5:
 
-(Aug. 1, 1946, ch. 724, title I, §189, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 955; amended Sept. 2, 1957, Pub. L. 85–256, §7, 71 Stat. 579; Aug. 29, 1962, Pub. L. 87–615, §2, 76 Stat. 409; Jan. 4, 1983, Pub. L. 97–415, §12(a), 96 Stat. 2073; renumbered title I and amended Oct. 24, 1992, Pub. L. 102–486, title IX, §902(a)(8), title XXVIII, §§2802, 2804, 2805, 106 Stat. 2944, 3120, 3121.)
+&emsp;(1) Any final order entered in any proceeding of the kind specified in subsection (a) of this section.
+
+&emsp;(2) Any final order allowing or prohibiting a facility to begin operating under a combined construction and operating license.
+
+&emsp;(3) Any final order establishing by regulation standards to govern the Department of Energy's gaseous diffusion uranium enrichment plants, including any such facilities leased to a corporation established under the USEC Privatization Act \[42 U.S.C. 2297h et seq.\].
+
+&emsp;(4) Any final determination under section 2297f(c) of this title relating to whether the gaseous diffusion plants, including any such facilities leased to a corporation established under the USEC Privatization Act \[42 U.S.C. 2297h et seq.\], are in compliance with the Commission's standards governing the gaseous diffusion plants and all applicable laws.
+
+(Aug. 1, 1946, ch. 724, title I, §189, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 955; amended Sept. 2, 1957, Pub. L. 85–256, §7, 71 Stat. 579; Aug. 29, 1962, Pub. L. 87–615, §2, 76 Stat. 409; Jan. 4, 1983, Pub. L. 97–415, §12(a), 96 Stat. 2073; renumbered title I and amended Oct. 24, 1992, Pub. L. 102–486, title IX, §902(a)(8), title XXVIII, §§2802, 2804, 2805, 106 Stat. 2944, 3120, 3121; Apr. 26, 1996, Pub. L. 104–134, title III, §3116(c), 110 Stat. 1321–349.)
 
 #### References in Text
 
 The effective date of this paragraph, referred to in subsec. (a)(2)(C), probably means the date of enactment of Pub. L. 97–415, which was approved Jan. 4, 1983.
 
-#### Codification
-
-In subsec. (b), “chapter 158 of title 28” and “chapter 7 of title 5” substituted for “the Act of December 29, 1950, as amended (ch. 1189, 64 Stat. 1129)” and “section 10 of the Administrative Procedure Act, as amended”, respectively, on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees, and section 4(e) of which enacted chapter 158 of Title 28, Judiciary and Judicial Procedure.
+The USEC Privatization Act, referred to in subsec. (b)(3), (4), is subchapter A (§§3101–3117) of chapter 1 of title III of Pub. L. 104–134, Apr. 26, 1996, 110 Stat. 1321–335, which is classified principally to subchapter VIII (§2297h et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title of 1996 Amendment note set out under section 2011 of this title and Tables.
 
 #### Amendments
+
+1996—Subsec. (b). Pub. L. 104–134 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Any final order entered in any proceeding of the kind specified in subsection (a) of this section or any final order allowing or prohibiting a facility to begin operating under a combined construction and operating license shall be subject to judicial review in the manner prescribed in the Act of December 29, 1950, asamended (ch. 1189, 64 Stat. 1129), and to the provisions of section 10 of the Administrative Procedure Act, as amended.”
 
 1992—Subsec. (a)(1). Pub. L. 102–486, §2802, designated existing provisions as subpar. (A) and added subpar. (B).
 

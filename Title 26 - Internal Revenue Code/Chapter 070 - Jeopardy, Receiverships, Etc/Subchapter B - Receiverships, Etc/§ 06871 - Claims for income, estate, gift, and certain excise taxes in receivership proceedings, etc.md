@@ -22,7 +22,7 @@ In the case of a tax imposed by subtitle A or B or by chapter 41, 42, 43, or 44�
 
 &emsp;(2) in the case of a receivership proceeding, no petition for any such redetermination shall be filed with the Tax Court after the appointment of the receiver.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 838; Sept. 2, 1958, Pub. L. 85–866, title I, §88, 72 Stat. 1665; Oct. 4, 1976, Pub. L. 94–455, title XIX, §§1906(b)(13)(A), (c)(1), 90 Stat. 1834, 1835; Dec. 24, 1980, Pub. L. 96–589, §6(g)(1), 94 Stat. 3409; Dec. 19, 1989, Pub. L. 101–239, title VII, §7841(d)(2), 103 Stat. 2428.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 838; Sept. 2, 1958, Pub. L. 85–866, title I, §88, 72 Stat. 1665; Oct. 4, 1976, Pub. L. 94–455, title XIX, §§1906(b)(13)(A),\(c)(1), 90 Stat. 1834, 1835; Dec. 24, 1980, Pub. L. 96–589, §6(g)(1), 94 Stat. 3409; Dec. 19, 1989, Pub. L. 101–239, title VII, §7841(d)(2), 103 Stat. 2428.)
 
 #### Amendments
 

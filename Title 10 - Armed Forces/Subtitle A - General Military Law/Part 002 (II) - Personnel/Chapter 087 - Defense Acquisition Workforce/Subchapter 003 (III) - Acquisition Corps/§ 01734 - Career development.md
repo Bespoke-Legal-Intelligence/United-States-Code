@@ -2,9 +2,9 @@
 
 (a)
 
-Three-Year Assignment Period.—(1) Except as provided under subsection (b) and paragraph (3), the Secretary of each military department, acting through the service acquisition executive for that department, shall provide that, on and after October 1, 1993, any person who is assigned to a critical acquisition position shall be assigned to the position for not fewer than three years. Except as provided in subsection (d), the Secretary concerned may not reassign a person from such an assignment before the end of the three-year period.
+Three-Year Assignment Period.—(1) Except as provided under subsection (b) and paragraph (3), the Secretary of each military department, acting through the service acquisition executive for that department, shall provide that any person who is assigned to a critical acquisition position shall be assigned to the position for not fewer than three years. Except as provided in subsection (d), the Secretary concerned may not reassign a person from such an assignment before the end of the three-year period.
 
-(2) A person may not be assigned to a critical acquisition position unless the person executes a written agreement to remain on active duty (in the case of a member of the armed forces) or to remain in Federal service (in the case of an employee) in that position for at least three years. The service obligation contained in such a written agreement shall remain in effect unless and until waived by the Secretary concerned under subsection (b).
+(2) A person may not be assigned to a critical acquisition position unless the person executes a written agreement to remain on active duty (in the case of a member of the armed forces) or to remain in Federal service (in the case of an employee) in that position for at least three years.The service obligation contained in such a written agreement shall remain in effect unless and until waived by the Secretary concerned under subsection (b).
 
 (3) The assignment period requirement of the first sentence of paragraph (1) is waived for any individual serving as a deputy program manager if the individual is assigned to a critical acquisition position upon completion of the individual's assignment as a deputy program manager.
 
@@ -12,7 +12,7 @@ Three-Year Assignment Period.—(1) Except as provided under subsection (b) and 
 
 Assignment Period for Program Managers.—(1) The Secretary of Defense shall prescribe in regulations—
 
-&emsp;(A) a requirement that, on and after October 1, 1991, a program manager and a deputy program manager (except as provided in paragraph (3)) of a major defense acquisition program be assigned to the position at least until completion of the major milestone that occurs closest in time to the date on which the person has served in the position for four years; and
+&emsp;(A) a requirement that a program manager and a deputy program manager (except as provided in paragraph (3)) of a major defense acquisition program be assigned to the position at least until completion of the major milestone that occurs closest in time to the date on which the person has served in the position for four years; and
 
 &emsp;(B) a requirement that, on and after October 1, 1991, to the maximum extent practicable, a program manager who is the replacement for a reassigned program manager arrive at the assignment location before the reassigned program manager leaves.
 
@@ -26,7 +26,7 @@ Assignment Period for Program Managers.—(1) The Secretary of Defense shall pre
 
 Major Milestone Regulations.—(1) The Secretary of Defense shall issue regulations defining what constitutes major milestones for purposes of this section. The service acquisition executive of each military department shall establish major milestones at the beginning of a major defense acquisition program consistent with such regulations and shall use such milestones to determine the assignment period for program managers and deputy program managers under subsection (b).
 
-(2) The regulations shall require that major milestones be clearly definable and measurable events that mark the completion of a significant phase in a major defense acquisition programand that such milestones be the same as the milestones contained in the baseline description established for the program pursuant to section 2435(a) of this title. The Secretary shall require that the major milestones as defined in the regulations be included in the Selected Acquisition Report required for such program under section 2432 of this title.
+(2) The regulations shall require that major milestones be clearly definable and measurable events that mark the completion of a significant phase in a major defense acquisition program and that such milestones be the same as the milestones contained in the baseline description established for the program pursuant to section 2435(a) of this title. The Secretary shall require that the major milestones as defined in the regulations be included in the Selected Acquisition Report required for such program under section 2432 of this title.
 
 (d)
 
@@ -48,7 +48,7 @@ Centralized Job Referral System.—The Secretary of Defense shall prescribe regu
 
 (g)
 
-Exchange Program.—(1) The Secretary of Defense shall establish, for purposes of broadening the experience of members of each Acquisition Corps, a test program in which members of a Corps serving in a military department or Defense Agency are assigned or detailed to an acquisition position in another department or agency. Under the test program, the Secretary of Defense shall ensure that, to the maximum extent practicable, at least 5 percent of the members of the Acquisition Corps shall serve in such exchange assignments each year. The test program shall operate for not less than a period of three years.
+Exchange Program.—(1) The Secretary of Defense shall establish, for purposes of broadening the experience of members of each Acquisition Corps, a test program in which members of a Corps serving in a military department or Defense Agency are assigned or detailed to an acquisition position in another department or agency. Under the test program, the Secretary of Defense shall ensure that, to the maximum extent practicable, at least 5 percent of themembers of the Acquisition Corps shall serve in such exchange assignments each year. The test program shall operate for not less than a period of three years.
 
 (2) The Secretary of Defense shall submit the portion of the test program applicable to civilian employees to the Director of the Office of Personnel Management for approval. If the Director does not disapprove that portion of the test program within 30 days after the date on which the Director receives it, that portion of the test program is deemed to be approved by the Director.
 
@@ -56,9 +56,13 @@ Exchange Program.—(1) The Secretary of Defense shall establish, for purposes o
 
 Responsibility for Assignments.—The Secretary of each military department, acting through the service acquisition executive for that department, is responsible for making assignments of civilian and military members of the Acquisition Corps of that military department to critical acquisition positions.
 
-(Added Pub. L. 101–510, div. A, title XII, §1202(a), Nov. 5, 1990, 104 Stat. 1646; amended Pub. L. 102–484, div. A, title VIII, §812(a), (b), Oct. 23, 1992, 106 Stat. 2450.)
+(Added Pub. L. 101–510, div. A, title XII, §1202(a), Nov. 5, 1990, 104 Stat. 1646; amended Pub. L. 102–484, div. A, title VIII, §812(a), (b), Oct. 23, 1992, 106 Stat. 2450; Pub. L. 104–201, div. A, title X, §1074(a)(9)(D), Sept. 23, 1996, 110 Stat. 2659.)
 
 #### Amendments
+
+1996—Subsec. (a)(1). Pub. L. 104–201, §1074(a)(9)(D)(i), struck out “, on and after October 1, 1993,” after “provide that”.
+
+Subsec. (b)(1)(A). Pub. L. 104–201, §1074(a)(9)(D)(ii), struck out “, on and after October 1, 1991,” after “requirement that”.
 
 1992—Subsec. (a)(1). Pub. L. 102–484, §812(b)(1)(A), inserted before first comma “and paragraph (3)”.
 

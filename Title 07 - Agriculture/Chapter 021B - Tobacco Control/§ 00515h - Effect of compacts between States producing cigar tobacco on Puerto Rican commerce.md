@@ -12,7 +12,7 @@ The Secretary shall determine a marketing quota for Puerto Rico for cigar-filler
 
 #### (c) Establishment of marketing quota for each Puerto Rican farm
 
-The Secretary shall establish for each farm in Puerto Rico for each crop year a tobacco-marketing quota, giving due consideration to the quantity of cigar-filler tobacco marketed from the crops produced on such farm and by the operator thereof in past years; to the land, labor,and equipment available for production of tobacco on such farm; to the crop-rotation practices on such farm; and to the soil and other physical factors affecting production of tobacco on such farm: <i>Provided,</i> That the total of the marketing quotas established for all farms in Puerto Rico for any crop year shall not exceed the marketing quota for Puerto Rico for such crop year.
+The Secretary shall establish for each farm in Puerto Rico for each crop year a tobacco-marketing quota, giving due consideration to the quantity of cigar-filler tobacco marketed from the crops produced on such farm and by the operator thereof in past years; to the land, labor, and equipment available for production of tobacco on such farm; to the crop-rotation practices on such farm; and to the soil and other physical factors affecting production of tobacco on such farm: <i>Provided</i>, That the total of the marketing quotas established for all farms in Puerto Rico for any crop year shall not exceed the marketing quota for Puerto Rico for such crop year.
 
 #### (d) Uniform adjustment of marketing quotas
 

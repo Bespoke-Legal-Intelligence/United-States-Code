@@ -46,7 +46,7 @@ For purposes of this part, part II, and chapter 3, the term “trade or business
 
 #### (C) Limitation
 
-&emsp;&emsp;Subparagraphs (A)(i) and (B)(i) shall apply only if, at no time during the taxable year, the taxpayer has an office or other fixed place of business in the United States through which or by the direction of whichthe transactions in stocks or securities, or in commodities, as the case may be, are effected.
+&emsp;&emsp;Subparagraphs (A)(i) and (B)(i) shall apply only if, at no time during the taxable year, the taxpayer has an office or other fixed place of business in the United States through which or by the direction of which the transactions in stocks or securities, or in commodities, as the case may be, are effected.
 
 #### (c) Effectively connected income, etc.
 
@@ -54,7 +54,7 @@ For purposes of this part, part II, and chapter 3, the term “trade or business
 
 &emsp;For purposes of this title—
 
-&emsp;&emsp;(A) In the case of a nonresident alien individual or a foreign corporation engaged in trade or business within the United States during the taxable year, the rules set forth in paragraphs (2), (3), (4), (6), and (7) shall apply in determining the income, gain, or loss which shall be treated as effectively connected with the conduct of a trade or business within the United States.
+&emsp;&emsp;(A) In the case of a nonresident alien individual or a foreign corporation engaged in trade or business within the United States during the taxable year, the rules set forth in paragraphs (2), (3), (4), (6), and (7) shallapply in determining the income, gain, or loss which shall be treated as effectively connected with the conduct of a trade or business within the United States.
 
 &emsp;&emsp;(B) Except as provided in paragraph (6) or (7) or in section 871(d) or sections 882(d) and (e), in the case of a nonresident alien individual or a foreign corporation not engaged in trade or business within the United States during the taxable year, no income, gain, or loss shall be treated as effectively connected with the conduct of a trade or business within the United States.
 
@@ -98,7 +98,7 @@ For purposes of this part, part II, and chapter 3, the term “trade or business
 
 &emsp;&emsp;(A) in determining whether a nonresident alien individual or a foreign corporation has an office or other fixed place of business, an office or other fixed place of business of an agent shall be disregarded unless such agent (i) has the authority to negotiate and conclude contracts in the name of the nonresident alien individual or foreign corporation and regularly exercises that authority or has a stock of merchandise from which he regularly fills orders on behalf of such individual or foreign corporation, and (ii) is not a general commission agent, broker, or other agent of independent status acting in the ordinary course of his business,
 
-&emsp;&emsp;(B) income, gain, or loss shall not be considered as attributable to an office or other fixed place of business within the United States unless such office or fixed place ofbusiness is a material factor in the production of such income, gain, or loss and such office or fixed place of business regularly carries on activities of the type from which such income, gain, or loss is derived, and
+&emsp;&emsp;(B) income, gain, or loss shall not be considered as attributable to an office or other fixed place of business within the United States unless such office or fixed place of business is a material factor in the production of such income, gain, or loss and such office or fixed place of business regularly carries on activities of the type from which such income, gain, or loss is derived, and
 
 &emsp;&emsp;(C) the income, gain, or loss which shall be attributable to an office or other fixed place of business within the United States shall be the income, gain, or loss property allocable thereto, but, in the case of a sale or exchange described in clause (iii) of such subparagraph, the income which shall be treated as attributable to an office or other fixed place of business within the United States shall not exceed the income which would be derived from sources within the United States if the sale or exchange were made in the United States.
 
@@ -188,7 +188,7 @@ For purposes of this part, part II, and chapter 3, the term “trade or business
 
 &emsp;&emsp;(A) the person acquiring such receivable and such related person are created or organized under the laws of the same foreign country and such related person has a substantial part of its assets used in its trade or business located in such same foreign country, and
 
-&emsp;&emsp;(B) such related person would not have derived any foreign base company income (as defined in section 954(a), determined without regard to section 954(b)(3)(A)), or any income effectively connected with the conduct of a trade or business within the United States, from such receivable if it had been collected by such related person.
+&emsp;&emsp;(B) such related person would not have derived any foreign base company income (as defined in section 954(a), determined withoutregard to section 954(b)(3)(A)), or any income effectively connected with the conduct of a trade or business within the United States, from such receivable if it had been collected by such related person.
 
 #### (8) Regulations
 
@@ -256,7 +256,7 @@ For purposes of this subchapter—
 
 #### (B) Treatment of certain financial institutions
 
-&emsp;&emsp;For purposes of subparagraph (A), any corporation described in subparagraph (C) shallbe treated as an includible corporation for purposes of section 1504 only for purposes of applying such section separately to corporations so described. This subparagraph shall not apply for purposes of paragraph (6).
+&emsp;&emsp;For purposes of subparagraph (A), any corporation described in subparagraph (C) shall be treated as an includible corporation for purposes of section 1504 only for purposes of applying such section separately to corporations so described. This subparagraph shall not apply for purposes of paragraph (6).
 
 #### (C) Description
 
@@ -326,7 +326,7 @@ For purposes of this subchapter—
 
 &emsp;&emsp;&emsp;(i) if incurred by a United States person, shall be allocated and apportioned under this section in the same manner as if they were attributable to activities conducted in the United States, and
 
-&emsp;&emsp;&emsp;(ii) if incurred by a person other than a United States person, shall be allocated and apportioned under this section in the same manner as if they were attributable to activities conducted outside the United States.
+&emsp;&emsp;&emsp;(ii) if incurred by a person other than a United States person, shall be allocated and apportioned under this section in thesame manner as if they were attributable to activities conducted outside the United States.
 
 #### (B) Description of expenditures
 
@@ -408,7 +408,7 @@ Reduction.—Notwithstanding subparagraph (A), this subsection shall only apply 
 
 1988—Subsec. (b)(2)(A)(ii). Pub. L. 100–647, §1012(p)(30), substituted “section 542(c)(7), 542(c)(10),” for “section 542(c)(7)”.
 
-Subsec. (c)(2). Pub. L. 100–647, §1012(g)(5), struck out at end “In applying this paragraph and paragraph (4), interest referred to in section 861(a)(1)(A) shall be considered income from sources within the United States.”
+Subsec. (c)(2). Pub. L. 100–647, §1012(g)(5), struck out at end “In applying this paragraph and paragraph (4),interest referred to in section 861(a)(1)(A) shall be considered income from sources within the United States.”
 
 Subsec. (c)(4)(B)(i), (ii). Pub. L. 100–647, §1012(d)(10), struck out “(including any gain or loss realized on the sale or exchange of such property)” after “section 862(a)(4)” in cl. (i) and “, or gain or loss from the sale or exchange of stock or notes, bonds, or other evidences of indebtedness” after “dividends or interest” in cl. (ii).
 
@@ -506,7 +506,7 @@ Amendment by section 1201(d)(4) of Pub. L. 99–514 applicable to taxable years 
 
 Amendment by section 1211(b)(2) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, except as otherwise provided, see section 1211(c) of Pub. L. 99–514, set out as an Effective Date note under section 865 of this title.
 
-Section 1215(c) of Pub. L. 99–514, as amended by Pub. L. 100–647, title I, §1012(h)(7), Nov. 10, 1988, 102 Stat. 3504, provided that:
+Section 1215(c) of Pub. L. 99–514, as amended by Pub. L. 100–647, title I, §1012(h)(7), Nov. 10, 1988, 102 Stat. 3504; Pub. L. 104–191, title V, §521(a), Aug. 21, 1996, 110 Stat. 2103, provided that:
 
 “(1)
 
@@ -744,13 +744,7 @@ Special rules for subsidiary.—The amendments made by this section shall not ap
 
 > For purposes of this paragraph, the term ‘applicable dollar amount’ means $600,000,000 in the case of taxable years beginning in 1987 through 1991, $500,000,000 in the case of the taxable year beginning in 1992, $400,000,000 in the case of the taxable year beginning in 1993, $300,000,000 in the case of the taxable year beginning in 1994, $200,000,000 in the case of the taxable year beginning in 1995, $100,000,000 in the case of the taxable year beginning in 1996, and zero in the case of taxable years beginning after 1996.
 
-“(5)
-
-Special rule for financial corporation.—For purposes of section 864(e)(5) of the Internal Revenue Code of 1986 (as added by this section), a corporation shall be treated as described in subparagraph (C) of such section for any taxable year if—
-
-&emsp;“(A) such corporation is a Delaware corporation incorporated on August 20, 1959, and
-
-&emsp;“(B) such corporation was primarily engaged in the financing of dealer inventory or consumer purchases on May 29, 1985, and at all times thereafter before the close of the taxable year.
+“\[(5) Repealed. Pub. L. 104–191, title V, §521(a), Aug. 21, 1996, 110 Stat. 2103.\]
 
 “(6)
 
@@ -773,6 +767,16 @@ Phase-in percentage.—For purposes of subparagraph (A):
 | 1987 | 75 |
 | 1988 | 50 |
 | 1989 | 25\.” |
+
+\[Section 521(b) of Pub. L. 104–191 provided that:
+
+\[“(1)
+
+In general.—The amendment made by this section \[amending section 1215(c) of Pub. L. 99–514, set out above\] shall apply to taxable years beginning after December 31, 1995.
+
+\[“(2)
+
+Special rule.—In the case of the first taxable year beginning after December 31, 1995, the pre-effective date portion of the interest expense of the corporation referred to in such paragraph (5) of such section 1215(c) \[of Pub. L. 99–514\] for such taxable year shall be allocated and apportioned without regard to such amendment. For purposes of the preceding sentence, the pre-effective date portion is the amount which bears the same ratio to the interest expense for such taxable year as the number of days during such taxable year before the date of the enactment of this Act \[Aug. 21, 1996\] bears to 366.”\]
 
 Amendment by section 1221(a)(2) of Pub. L. 99–514 applicable to taxable years of foreign corporations beginning after Dec. 31, 1986, except as otherwise provided, see section 1221(g) of Pub. L. 99–514, set out as a note under section 954 of this title.
 

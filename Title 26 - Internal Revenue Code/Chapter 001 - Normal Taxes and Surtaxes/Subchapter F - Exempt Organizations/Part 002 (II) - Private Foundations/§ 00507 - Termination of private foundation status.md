@@ -56,7 +56,7 @@ There is hereby imposed on each organization which is referred to in subsection 
 
 #### (A) Definition
 
-&emsp;&emsp;For purposes of paragraph (1), the term “substantial contributor” means any personwho contributed or bequeathed an aggregate amount of more than $5,000 to the private foundation, if such amount is more than 2 percent of the total contributions and bequests received by the foundation before the close of the taxable year of the foundation in which the contribution or bequest is received by the foundation from such person. In the case of a trust, the term “substantial contributor” also means the creator of the trust.
+&emsp;&emsp;For purposes of paragraph (1), the term “substantial contributor” means any person who contributed or bequeathed an aggregate amount of more than $5,000 to the private foundation, if such amount is more than 2 percent of the total contributions and bequests received by the foundation before the close of the taxable year of the foundation in which the contribution or bequest is received by the foundation from such person. In the case of a trust, the term “substantial contributor” also means the creator of the trust.
 
 #### (B) Special rules
 
@@ -106,7 +106,7 @@ The Secretary may abate the unpaid portion of the assessment of any tax imposed 
 
 &emsp;(1) the private foundation distributes all of its net assets to one or more organizations described in section 170(b)(1)(A) (other than in clauses (vii) and (viii)) each of which has been in existence and so described for a continuous period of at least 60 calendar months, or
 
-&emsp;(2) following the notification prescribed in section 6104(c) to the appropriate State officer, such State officer within one year notifies the Secretary, in such manner as the Secretary may by regulations prescribe, that corrective action has been initiated pursuant to State law to insure that the assets of such private foundation are preserved for such charitable or other purposes specified in section 501(c)(3) as may be ordered or approved by a court of competent jurisdiction, and upon completion of the corrective action, the Secretary receives certification from the appropriate State officer that such action has resulted in such preservation of assets.
+&emsp;(2) following the notification prescribed in section 6104(c) to the appropriate State officer, such State officer within one year notifies the Secretary, in such manner as the Secretary may by regulations prescribe, that correctiveaction has been initiated pursuant to State law to insure that the assets of such private foundation are preserved for such charitable or other purposes specified in section 501(c)(3) as may be ordered or approved by a court of competent jurisdiction, and upon completion of the corrective action, the Secretary receives certification from the appropriate State officer that such action has resulted in such preservation of assets.
 
 (Added Pub. L. 91–172, title I, §101(a), Dec. 30, 1969, 83 Stat. 492; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 98–369, div. A, title III, §313(a), July 18, 1984, 98 Stat. 786.)
 

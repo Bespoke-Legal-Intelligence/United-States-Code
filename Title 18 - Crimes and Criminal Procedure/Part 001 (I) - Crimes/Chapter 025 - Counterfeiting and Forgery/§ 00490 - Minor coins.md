@@ -1,4 +1,4 @@
-### §490 . Minor coins
+### §490. Minor coins
 
 Whoever falsely makes, forges, or counterfeits any coin in the resemblance or similitude of any of the one-cent and 5-cent coins minted at the mints of the United States; or
 

@@ -6,7 +6,7 @@ Sections were omitted in the general revision of this chapter by Pub. L. 96–32
 
 Section 770, added Pub. L. 85–861, §5(2), Sept. 2, 1958, 72 Stat. 1547; amended Pub. L. 91–402, §1(2), Sept. 18, 1970, 84 Stat. 839, defined terms. See section 720 of this title.
 
-Section 2 of Pub. L. 91–402 provided that Reserve officers in each grade who were recommended as qualified for promotion under laws and regulations in effect the day before the effective date of that Act \[Sept. 18, 1970\] but not promoted to the grade for which recommended, be placed on a list in order of precedence, and promoted as if selected for promotion in the approved report of a selection board convened under the provisions of title 14, as amended by that Act \[enacting sections 796 to 798 and amending sections 762, 770, 772, 774, 775, 780 to 782, 784, 787, 790, and 791 of this title\], that Reserve officers who failed of selection for promotion to the next higher grade under laws and regulations in effect the day before the effective date of that Act be deemed to have failed of selection for promotion to the next higher grade under the provisions of title 14 as amended by that Act, and that the enactment of that Act did not terminate the appointment of any officer.
+Section 2 of Pub. L. 91–402 provided that Reserve officers in each grade who were recommended as qualified for promotion under laws and regulations in effect the day before the effective date of that Act \[Sept. 18, 1970\] but not promoted to the grade for which recommended, be placed on a list in order of precedence, and promoted as if selected for promotion in the approved report of a selection board convened under the provisions of title 14, as amended by that Act \[enacting sections 796 to 798and amending sections 762, 770, 772, 774, 775, 780 to 782, 784, 787, 790, and 791 of this title\], that Reserve officers who failed of selection for promotion to the next higher grade under laws and regulations in effect the day before the effective date of that Act be deemed to have failed of selection for promotion to the next higher grade under the provisions of title 14 as amended by that Act, and that the enactment of that Act did not terminate the appointment of any officer.
 
 Section 771, added Pub. L. 85–861, §5(2), Sept. 2, 1958, 72 Stat. 1548; amended Pub. L. 89–444, §1(24), June 9, 1966, 80 Stat. 197; Pub. L. 93–174, §2(3), Dec. 5, 1973, 87 Stat. 692, related to applicability of sections 770 to 798 of this title. See section 721 of this title.
 
@@ -26,7 +26,7 @@ Section 778, added Pub. L. 85–861, §5(2), Sept. 2, 1958, 72 Stat. 1550, relat
 
 Section 779, added Pub. L. 85–861, §5(2), Sept. 2, 1958, 72 Stat. 1550, related to sea or foreign service requirements.
 
-Section 780, added Pub. L. 85–861, §5(2), Sept. 2, 1958, 72 Stat. 1550; amended Pub. L. 91–402, §1(6), Sept. 18,1970, 84 Stat. 839; Pub. L. 93–174, §2(5), (6), Dec. 5, 1973, 87 Stat. 692, related to recommendations of selection boards. See section 729 of this title.
+Section 780, added Pub. L. 85–861, §5(2), Sept. 2, 1958, 72 Stat. 1550; amended Pub. L. 91–402, §1(6), Sept. 18, 1970, 84 Stat. 839; Pub. L. 93–174, §2(5), (6), Dec. 5, 1973, 87 Stat. 692, related to recommendations of selection boards. See section 729 of this title.
 
 Section 781, added Pub. L. 85–861, §5(2), Sept. 2, 1958, 72 Stat. 1551; amended Pub. L. 91–402, §1(7), Sept. 18, 1970, 84 Stat. 840, related to precedence in grades of officers. See section 725 of this title.
 

@@ -22,7 +22,9 @@ Agreement To Avoid Duplicating Employee Functions.—To the maximum extent pract
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

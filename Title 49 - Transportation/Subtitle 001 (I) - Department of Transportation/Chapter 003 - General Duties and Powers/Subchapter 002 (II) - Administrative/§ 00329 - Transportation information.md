@@ -4,7 +4,7 @@
 
 (b) The Secretary shall—
 
-&emsp;(1) collect and disseminate information on civil aeronautics (other than that collected and disseminated by the National Transportation Safety Board under chapter 11 of this title) including, at a minimum, information on (A) the origin and destination of passengers in interstate air transportation (as those terms are used in such Act),<sup>1</sup> and (B) the number of passengers traveling by air between anytwo points in interstate air transportation; except that in no case shall the Secretary require an air carrier to provide information on the number of passengers or the amount of cargo on a specific flight if the flight and the flight number under which such flight operates are used solely for interstate air transportation and are not used for providing essential air transportation under subchapter II of chapter 417 of this title;
+&emsp;(1) collect and disseminate information on civil aeronautics (other than that collected and disseminated by the National Transportation Safety Board under chapter 11 of this title) including, at a minimum, information on (A) the origin and destination of passengers in interstate air transportation (as that term is used in part A of subtitle VII of this title), and (B) the number of passengers traveling by air between any two points in interstate air transportation; except that in no case shall the Secretary require an air carrier to provide information on the number of passengers or the amount of cargo on a specific flight if the flight and the flight number under which such flight operates are used solely for interstate air transportation and are not used for providing essential air transportation under subchapter II of chapter 417 of this title;
 
 &emsp;(2) study the possibilities of developing air commerce and the aeronautical industry; and
 
@@ -22,15 +22,17 @@
 
 (2) The person or governmental authority requesting information under paragraph (1) of this subsection must pay the actual cost of preparing the information. Payments shall be deposited in the Treasury in an account that the Secretary shall administer. The Secretary may use amounts in the account for the ordinary expenses incidental to getting and providing the information.
 
-(d) To assist in carrying out duties and powers under part A of subtitle VII of this title, the Secretary of Transportation shall maintain separate cooperative agreements with the Secretary of Defense and the Administrator of the National Aeronautics and Space Administration for the timely exchange of information on their programs, policies, and requirements directly related to carrying out that Act.<sup>2</sup>
+(d) To assist in carrying out duties and powers under part A of subtitle VII of this title, the Secretary of Transportation shall maintain separate cooperative agreements with the Secretary of Defense and the Administrator of the National Aeronautics and Space Administration for the timely exchange of information on their programs, policies, and requirements directly related to carrying out that part.
 
-(Pub. L. 97–449, Jan. 12, 1983, 96 Stat. 2426; Pub. L. 98–216, §2(2), Feb. 14, 1984, 98 Stat. 5; Pub. L. 98–443, §5(a), Oct. 4, 1984, 98 Stat. 1705; Pub. L. 103–272, §4(j)(7), July 5, 1994, 108 Stat. 1366.)
+(Pub. L. 97–449, Jan. 12, 1983, 96 Stat. 2426; Pub. L. 98–216, §2(2), Feb. 14, 1984, 98 Stat. 5; Pub. L. 98–443, §5(a), Oct. 4, 1984, 98 Stat. 1705; Pub. L. 103–272, §4(j)(7), July 5, 1994, 108 Stat. 1366; Pub. L. 104–287, §5(3), Oct. 11, 1996, 110 Stat. 3389.)
 
 Historical and Revision Notes
 
 Pub. L. 97–449
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -82,9 +84,17 @@ In subsection (d), the words “in carrying out duties and powers under the Fede
 
 Section 4(j)(7) amends 49:329 to omit references to overseas air transportation because there no longer is a distinction between interstate air transportation and overseas air transportation.
 
+#### Pub. L. 104–287
+
+This amends 49:329 to make conforming amendments necessary because of the codification enacted by section 1 of the Act of July 5, 1994 (Public Law 103–272, 108 Stat. 745).
+
 #### Amendments
 
-1994—Subsec. (b)(1). Pub. L. 103–272, §4(j)(7)(A), substituted “chapter 11 of this title” for “title VII of theFederal Aviation Act of 1958 (49 U.S.C. 1441 et seq.)”, “in interstate air transportation” for “in interstate and overseas air transportation” in two places, “for interstate air transportation” for “for interstate or overseas air transportation”, and “subchapter II of chapter 417 of this title” for “section 419 of the Federal Aviation Act of 1958”.
+1996—Subsec. (b)(1). Pub. L. 104–287, §5(3)(A), substituted “(as that term is used in part A of subtitle VII of this title)” for “(as those terms are used in such Act)”.
+
+Subsec. (d). Pub. L. 104–287, §5(3)(B), substituted “that part” for “that Act”.
+
+1994—Subsec. (b)(1). Pub. L. 103–272, §4(j)(7)(A), substituted “chapter 11 of this title” for “title VII of the Federal Aviation Act of 1958 (49 U.S.C. 1441 et seq.)”, “in interstate air transportation” for “in interstate and overseas air transportation” in two places, “for interstate air transportation” for “for interstate or overseas air transportation”, and “subchapter II of chapter 417 of this title” for “section 419 of the Federal Aviation Act of 1958”.
 
 Subsec. (d). Pub. L. 103–272, §4(j)(7)(B), substituted “part A of subtitle VII of this title” for “the Federal Aviation Act of 1958 (49 App. U.S.C. 1301 et seq.)”.
 
@@ -97,8 +107,4 @@ Subsec. (d). Pub. L. 98–216 substituted “49 App. U.S.C.” for “49 U.S.C.�
 #### Effective Date of 1984 Amendment
 
 Section 5(b) of Pub. L. 98–443 provided that: “The amendment made by this section \[amending this section\] shall take effect on January 1, 1985.”
-
-<i><sup>1</sup></i><i> So in original. Probably should be “(as that term is used in part A of subtitle VII of this title),”.</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be “that part.”.</i>
 

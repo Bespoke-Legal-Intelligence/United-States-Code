@@ -12,7 +12,7 @@ Except as otherwise provided in this chapter, the following provisions shall app
 
 &emsp;(4) References in paragraphs (2) and (3) to section 6(a)(1) of the Fair Labor Standards Act of 1938 (29 U.S.C. 206(a)(1))—
 
-&emsp;&emsp;(A) shall be deemed to be references to section 6(c) of that Act \[29 U.S.C. 206(c)\] for individuals in the Commonwealth of Puerto Rico;
+&emsp;&emsp;(A) shall be deemed to be references to section 6(c) <sup>1</sup> of that Act \[29 U.S.C. 206(c)\] for individuals in the Commonwealth of Puerto Rico;
 
 &emsp;&emsp;(B) shall be deemed to be references to section 6(a)(3) of that Act \[29 U.S.C. 206(a)(3)\] for individuals in American Samoa; and
 
@@ -25,6 +25,8 @@ Allowances, earnings and payments to individuals participating in programs under
 (Pub. L. 97–300, title I, §142, Oct. 13, 1982, 96 Stat. 1345; Pub. L. 97–404, §1(g), Dec. 31, 1982, 96 Stat. 2026; Pub. L. 102–367, title I, §132, Sept. 7, 1992, 106 Stat. 1045.)
 
 #### References in Text
+
+Section 6(c) of the Fair Labor Standards Act, referred to in subsec. (a)(4)(A), is section 6(c) of act June 25, 1938, ch. 676, which was classified to section 206(c) of this title, and was repealed by Pub. L. 104–188, \[title II\], §2104(c), Aug. 20, 1996, 110 Stat. 1929.
 
 The Social Security Act, referred to in subsec. (b), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended, which is classified generally to chapter 7 (§301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
@@ -43,4 +45,6 @@ Amendment by Pub. L. 102–367 effective July 1, 1993, see section 701(a) of Pub
 #### Section Referred to in Other Sections
 
 This section is referred to in title 7 section 2014; title 42 sections 12637, 12899e.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -22,7 +22,7 @@ If the Secretary finds, after consideration of an application under subsection (
 
 &emsp;&emsp;(B) the closure is not for replacement of the hospital,
 
-> the Secretary may include as an allowable cost in the hospital's reasonable cost (for the purposeof making payments to the hospital under this subchapter) an amount (in this section referred to as a “transitional allowance”), as provided in subsection (c) of this section.
+> the Secretary may include as an allowable cost in the hospital's reasonable cost (for the purpose of making payments to the hospital under this subchapter) an amount (in this section referred to as a “transitional allowance”), as provided in subsection (c) of this section.
 
 #### (c) Factors determinative of transitional allowance
 
@@ -36,7 +36,7 @@ If the Secretary finds, after consideration of an application under subsection (
 
 &emsp;(B) in the case of complete closure of a hospital, the outstanding portion of actual debt obligations previously recognized as reasonable for purposes of reimbursement under this subchapter, less any salvage value of the hospital.
 
-(2) A transitional allowance shall be for a period (not to exceed 20 years) specified by the Secretary, except that, in the case of a complete closure described in paragraph (1)(B), the Secretary may provide for a lump-sum allowance where the Secretary determines that such a one-time allowance is more efficient and economical.
+(2) A transitional allowance shall be for a period (not to exceed 20 years) specified by the Secretary, except that, in the case of a completeclosure described in paragraph (1)(B), the Secretary may provide for a lump-sum allowance where the Secretary determines that such a one-time allowance is more efficient and economical.
 
 (3) A transitional allowance shall take effect on a date established by the Secretary, but not earlier than the date of completion of the closure or conversion concerned.
 

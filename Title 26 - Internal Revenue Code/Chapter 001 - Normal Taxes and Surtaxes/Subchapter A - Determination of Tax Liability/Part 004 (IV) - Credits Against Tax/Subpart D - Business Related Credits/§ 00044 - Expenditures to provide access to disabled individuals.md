@@ -72,7 +72,7 @@ For purposes of this section—
 
 #### (3) Partnerships and S corporations
 
-&emsp;In the case of a partnership, the limitation under subsection (a) shall apply with respectto the partnership and each partner. A similar rule shall apply in the case of an S corporation and its shareholders.
+&emsp;In the case of a partnership, the limitation under subsection (a) shall apply with respect to the partnership and each partner. A similar rule shall apply in the case of an S corporation and its shareholders.
 
 #### (4) Short years
 

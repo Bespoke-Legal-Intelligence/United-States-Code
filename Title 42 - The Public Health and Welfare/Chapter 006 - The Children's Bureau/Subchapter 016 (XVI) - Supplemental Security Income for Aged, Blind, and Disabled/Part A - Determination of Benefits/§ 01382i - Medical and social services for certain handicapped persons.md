@@ -2,7 +2,7 @@
 
 #### (a) Authorization of appropriations for pilot program
 
-There are authorized to be appropriated such sums as may be necessary to establish and carry out a 3-year Federal-State pilot program to provide medical and social services for certain handicapped individuals in accordance with this section.
+There are authorized to be appropriated such sums as may be necessary to establish and carryout a 3-year Federal-State pilot program to provide medical and social services for certain handicapped individuals in accordance with this section.
 
 #### (b) State allotments
 
@@ -30,7 +30,7 @@ In order to participate in the pilot program and be eligible to receive payments
 
 &emsp;(3) describes the criteria to be applied by the State in determining the eligibility of any individual for assistance under the plan and in any event requires a determination by the State agency to the effect that (A) such individual's ability to continue his employment would be significantly inhibited without such assistance and (B) such individual's earnings are not sufficient to allow him to provide for himself a reasonable equivalent of the cash and other benefits that would be available to him under this subchapter and subchapters XIX and XX of this chapter in the absence of those earnings;
 
-&emsp;(4) describes the process by which the eligibility of individuals for such assistance is to be determined (and such process may not involve the performance of functions by any State agency or entity which is engaged in making determinations of disability for purposes of disability insurance or supplemental security income benefits except when the useof a different agency or entity to perform those functions would not be feasible);
+&emsp;(4) describes the process by which the eligibility of individuals for such assistance is to be determined (and such process may not involve the performance of functions by any State agency or entity which is engaged in making determinations of disability for purposes of disability insurance or supplemental security income benefits except when the use of a different agency or entity to perform those functions would not be feasible);
 
 &emsp;(5) describes the medical and social services to be provided under the plan;
 
@@ -40,7 +40,7 @@ In order to participate in the pilot program and be eligible to receive payments
 
 #### (d) Payments to States; computation of payments
 
-(1) From its allotment under subsection (b) of this section for any fiscal year (and any amounts remaining available from allotments made to it for prior fiscal years), the Commissioner of Social Security shall from time to time pay to each State which has a plan approved under subsection (c) of this section an amount equal to 75 per centum of the total sum expended under such plan (including the cost of administration of such plan) in providing medical and social services to severely handicapped individuals who are eligible for such services under the plan.
+(1) From its allotment under subsection (b) of this section for any fiscal year (and any amounts remaining available from allotments made to it for prior fiscal years), the Commissioner of Social Security shall from time totime pay to each State which has a plan approved under subsection (c) of this section an amount equal to 75 per centum of the total sum expended under such plan (including the cost of administration of such plan) in providing medical and social services to severely handicapped individuals who are eligible for such services under the plan.
 
 (2) The method of computing and making payments under this section shall be as follows:
 

@@ -20,7 +20,7 @@ Allowed Delays.—(1) Advancement of a project under the time requirements of su
 
 (2) Not more than 10 days after imposing a delay under paragraph (1)(B) of this subsection, the Secretary shall give the applicant a written statement explaining the reasons for the delay and describing actions the applicant must take to end the delay.
 
-(3) At least once every 6 months, the Secretary shall report to the Committee on Public Works and Transportation of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate on each situation in which the Secretary has not met a time requirement of subsection (a) of this section or delayed a time requirement under paragraph (1)(B) of this subsection. The report shall explain the reasons for the delay and include a plan for achieving timely completion of the Secretary's review.
+(3) At least once every 6 months, the Secretary shall report to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate on each situation in which the Secretary has not met a time requirement of subsection (a) of this section or delayed a time requirement under paragraph (1)(B) of this subsection. The report shall explain the reasons for the delay and include a plan for achieving timely completion of the Secretary's review.
 
 (c)
 
@@ -40,11 +40,11 @@ Program of Interrelated Projects.—(1) In this subsection, a program of interre
 
 &emsp;(D) the Baltimore-Washington Transportation Improvement Program, consisting of 3 extensions of the Baltimore Light Rail to Hunt Valley, Penn Station, and Baltimore-Washington Airport, MARC extensions to Frederick and Waldorf, Maryland, and an extension of the Washington Subway system to Largo, Maryland.
 
-&emsp;(E) the Tri-County Metropolitan Transportation District of Oregon Westside Light Rail Program, consisting of the locally preferred alternative for the Westside Light Rail Project, including system related costs, contained in the Department of Transportation and Related Agencies Appropriations Act, 1991 (Public Law 101–516, 104 Stat. 2155), and defined in House Report 101–584, and the Hillsboro extension to the Westside Light Rail Project contained in that Act.
+&emsp;(E) the Tri-County Metropolitan Transportation District of Oregon Light Rail Program, consisting of the locally preferred alternative for the Westside Light Rail Project, including system related costs, contained in the Department of Transportation and Related Agencies Appropriations Act, 1991 (Public Law 101–516, 104 Stat. 2155), and defined in House Report 101–584, the Hillsboro extension to the Westside Light Rail Project contained in that Act, and the locally preferred alternative for the South/North Corridor Project.
 
 &emsp;(F) the Queens Local/Express Connector Program, consisting of the locally preferred alternative for the connection of the 63d Street tunnel extension to the Queens Boulevard lines, the bell-mouth part of the connector that will allow for future access by commuter rail trains and other subway lines to the 63d Street tunnel extension, planning elements for connecting the upper and lower levels to commuter and subway lines in Long Island City, and planning elements for providing a connector for commuter rail transportation to the East side of Manhattan and subway lines to the proposed Second Avenue subway.
 
-&emsp;(G) the Dallas Area Rapid Transit Authority light rail elements of the New System Plan,consisting of the locally preferred alternative for the South Oak Cliff corridor, the South Oak Cliff corridor extension-Camp Wisdom, the West Oak Cliff corridor-Westmoreland, the North Central corridor-Park Lane, the North Central corridor-Richardson, Plano, and Garland extensions, the Pleasant Grove corridor-Buckner, and the Carrollton corridors-Farmers Branch and Las Colinas terminal.
+&emsp;(G) the Dallas Area Rapid Transit Authority light rail elements of the New System Plan, consisting of the locally preferred alternative for the South Oak Cliff corridor, the South Oak Cliff corridor extension-Camp Wisdom, the West Oak Cliff corridor-Westmoreland, the North Central corridor-Park Lane, the North Central corridor-Richardson, Plano, and Garland extensions, the Pleasant Grove corridor-Buckner, and the Carrollton corridors-Farmers Branch and Las Colinas terminal.
 
 &emsp;(H) other programs designated by law or the Secretary.
 
@@ -54,11 +54,13 @@ Program of Interrelated Projects.—(1) In this subsection, a program of interre
 
 (4) Including a program element not financed by the Government in a program of interrelated projects does not impose Government requirements that otherwise would not apply to the element.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 828.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 828; Pub. L. 104–205, title III, §336, Sept. 30, 1996, 110Stat. 2974; Pub. L. 104–287, §5(9), Oct. 11, 1996, 110 Stat. 3389.)
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -76,19 +78,19 @@ July 9, 1964, Pub. L. 88–365, 78 Stat. 302, §3(a)(6)–(8); added Jan. 6, 198
 
 5328(c)(1)
 
-49 App.:1602(a) (8)(C).
+49 App.:1602(a)(8)(C).
 
 5328(c)(2)
 
-49 App.:1602(a) (8)(A) (1st–3d sentences).
+49 App.:1602(a)(8)(A) (1st–3d sentences).
 
 5328(c)(3)
 
-49 App.:1602(a) (8)(B).
+49 App.:1602(a)(8)(B).
 
 5328(c)(4)
 
-49 App.:1602(a) (8)(A) (last sentence).
+49 App.:1602(a)(8)(A) (last sentence).
 
 In subsection (a)(1), the words “the date on which” are omitted as surplus.
 
@@ -106,9 +108,11 @@ The Intermodal Surface Transportation Efficiency Act of 1991, referred to in sub
 
 The Department of Transportation and Related Agencies Appropriations Act, 1991, referred to in subsec. (c)(1)(E), is Pub. L. 101–516, Nov. 5, 1990, 104 Stat. 2155, as amended. Provisions relating to the Westside Light Rail Program are contained in section 328 of the Act, which is not classified to the Code. For complete classification of this Act to the Code, see Tables.
 
-#### Change of Name
+#### Amendments
 
-Committee on Public Works and Transportation of House of Representatives treated as referring to Committee on Transportation and Infrastructure of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+1996—Subsec. (b)(3). Pub. L. 104–287 substituted “Transportation and Infrastructure” for “Public Works and Transportation”.
+
+Subsec. (c)(1)(E). Pub. L. 104–205 struck out “Westside” after “District of Oregon” and “and” after “House Report 101–584,” and inserted before period at end “, and the locally preferred alternative for the South/North Corridor Project”.
 
 #### Section Referred to in Other Sections
 

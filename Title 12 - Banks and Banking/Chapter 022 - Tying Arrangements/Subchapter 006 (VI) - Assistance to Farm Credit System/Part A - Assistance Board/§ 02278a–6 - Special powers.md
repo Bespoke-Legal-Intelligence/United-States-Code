@@ -24,7 +24,7 @@ In the case of a System institution that requests certification under section 22
 
 &emsp;&emsp;(B) loans primarily secured by real estate mortgages not exceed 85 percent of the appraised agricultural value of the real estate security, or 75 percent of the then current market value of the real estate security, whichever is greater;
 
-&emsp;(6) require the institution to obtain approval from the Assistance Board for the design of management information and accounting systems at the institution, and of the continued use by the institution of regulatory accounting practices in accordance with sections 2159(b) and 2254(b) of this title;
+&emsp;(6) require the institution to obtain approval from the Assistance Board for the design of management information and accounting systems at the institution, and of the continueduse by the institution of regulatory accounting practices in accordance with sections 2159(b) and 2254(b) of this title;
 
 &emsp;(7) require that the plans and policies of the institution resulting from the merger of System banks reduce the overhead costs of such institution, to the maximum extent practicable, with respect to the delivery of services to, and performance of duties for, System associations in the district;
 

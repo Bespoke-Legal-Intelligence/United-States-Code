@@ -60,7 +60,7 @@ Each trade agreement submitted to the Congress under this subsection shall enter
 
 &emsp;(1) the President, not less than 90 days before the day on which he enters into such trade agreement, notifies the House of Representatives and the Senate of his intention to enter into such an agreement, and promptly thereafter publishes notice of such intention in the Federal Register;
 
-&emsp;(2) after entering into the agreement, the President transmits a document to the Houseof Representatives and to the Senate containing a copy of the final legal text of such agreement together with—
+&emsp;(2) after entering into the agreement, the President transmits a document to the House of Representatives and to the Senate containing a copy of the final legal text of such agreement together with—
 
 &emsp;&emsp;(A) a draft of an implementing bill and a statement of any administrative action proposed to implement such agreement, and an explanation as to how the implementing bill and proposed administrative action change or affect existing law, and
 
@@ -90,7 +90,7 @@ For purposes of this section—
 
 &emsp;&emsp;(B) foreign direct investment by United States persons, especially if such investment has implications for trade in goods and services.
 
-(Pub. L. 93–618, title I, §102, Jan. 3, 1975, 88 Stat. 1982; Pub. L. 96–39, title XI, §§1101, 1106(c)(1), July 26, 1979, 93 Stat. 307, 311; Pub. L. 98–573, title III, §307(a), title IV, §401(a)–(c)(1), Oct. 30, 1984, 98 Stat. 3012, 3013–3015; Pub. L. 99–47, §8(b)(1), June 11, 1985, 99 Stat. 84; Pub. L. 99–514, title XVIII, §1887(a)(1), Oct. 22, 1986, 100 Stat. 2923.)
+(Pub. L. 93–618, title I, §102, Jan. 3, 1975, 88 Stat. 1982; Pub. L. 96–39, title XI, §§1101, 1106(c)(1), July 26, 1979, 93 Stat. 307, 311; Pub. L. 98–573, title III, §307(a), title IV, §401(a)–(c)(1), Oct. 30, 1984, 98 Stat. 3012, 3013–3015; Pub. L. 99–47, §8(b)(1), June 11, 1985, 99 Stat. 84; Pub. L. 99–514,title XVIII, §1887(a)(1), Oct. 22, 1986, 100 Stat. 2923.)
 
 #### References in Text
 
@@ -284,7 +284,7 @@ Restrictions.—
 
 &emsp;“(2) other appropriate officers of the United States Government may issue such regulations;
 
-> as may be necessary to ensure that any provision of this Act, or amendment made by this Act, that takes effect on the date the Agreement enters into force \[Jan. 1, 1989\] is appropriately implemented on such date, but no such proclamation or regulation may have an effective date earlier than the date of entry into force.
+> as may be necessary to ensure that any provision of this Act, or amendment made by this Act, that takes effect on the date the Agreement enters into force \[Jan. 1, 1989\] is appropriately implemented on such date, butno such proclamation or regulation may have an effective date earlier than the date of entry into force.
 
 #### “TITLE II—TARIFF MODIFICATIONS, RULES OF ORIGIN, USER FEES, DRAWBACK, ENFORCEMENT, AND OTHER CUSTOMS PROVISIONS
 
@@ -560,23 +560,23 @@ Consequential Amendments.—
 
 &emsp;“(1)
 
-Bonded manufacturing warehouses.— \[Amended section 1311 of this title.\]
+Bonded manufacturing warehouses.—\[Amended section 1311 of this title.\]
 
 &emsp;“(2)
 
-Bonded smelting and refining warehouses.— \[Amended section 1312 of this title.\]
+Bonded smelting and refining warehouses.—\[Amended section 1312 of this title.\]
 
 &emsp;“(3)
 
-Drawback.—�7E\[Amended section 1313 of this title.\]
+Drawback.—\[Amended section 1313 of this title.\]
 
 &emsp;“(4)
 
-Manipulation in warehouse.—�7E\[Amended section 1562 of this title.\]
+Manipulation in warehouse.—\[Amended section 1562 of this title.\]
 
 &emsp;“(5)
 
-Foreign trade zones.—�7E\[Amended section 81c of this title.\]
+Foreign trade zones.—\[Amended section 81c of this title.\]
 
 #### “SEC. 205. ENFORCEMENT.
 
@@ -592,7 +592,7 @@ Certifications of Origin.—
 
 “(b)
 
-Housekeeping Requirements.—�7E\[Amended section 1508 of this title.\]
+Housekeeping Requirements.—\[Amended section 1508 of this title.\]
 
 #### “SEC. 206. EXEMPTION FROM LOTTERY TICKET EMBARGO
 
@@ -714,19 +714,19 @@ Special Tariff Provisions for Fresh Fruits and Vegetables.—
 
 “(b)
 
-Meat Import Act of 1979.—�7E\[Amended section 2 of Pub. L. 88–482, set out as a note under section 2253 of this title.\]
+Meat Import Act of 1979.—\[Amended section 2 of Pub. L. 88–482, set out as a note under section 2253 of this title.\]
 
 “(c)
 
-Agricultural Adjustment Act.—�7E\[Amended section 624 of Title 7, Agriculture.\]
+Agricultural Adjustment Act.—\[Amended section 624 of Title 7, Agriculture.\]
 
 “(d)
 
-Importation of Animal Vaccines.—�7E\[Amended section 152 of Title 21, Food and Drugs.\]
+Importation of Animal Vaccines.—\[Amended section 152 of Title 21, Food and Drugs.\]
 
 “(e)
 
-Importation of Seeds.—�7E\[Amended section 1582 of Title 7, Agriculture.\]
+Importation of Seeds.—\[Amended section 1582 of Title 7, Agriculture.\]
 
 “(f)
 
@@ -954,11 +954,11 @@ Biennial Report.—The President shall submit to the Congress, at the close of e
 
 “(a)
 
-Alaskan Oil.—�7E\[Amended section 2406 of the Appendix to Title 50, War and National Defense.\]
+Alaskan Oil.—\[Amended section 2406 of the Appendix to Title 50, War and National Defense.\]
 
 “(b)
 
-Uranium.—�7E\[Amended section 2201 of Title 42, The Public Health and Welfare.\]
+Uranium.—\[Amended section 2201 of Title 42, The Public Health and Welfare.\]
 
 #### “SEC. 306. LOWERED THRESHOLD FOR GOVERNMENT PROCUREMENT UNDER TRADE AGREEMENTS ACT OF 1979 IN THE CASE OF CERTAIN CANADIAN PRODUCTS.
 
@@ -972,7 +972,7 @@ Nonimmigrant Traders and Investors.—Upon a basis of reciprocity secured by the
 
 “(b)
 
-Nonimmigrant Professionals.—�7E\[Amended section 1184 of Title 8, Aliens and Nationality.\]
+Nonimmigrant Professionals.—\[Amended section 1184 of Title 8, Aliens and Nationality.\]
 
 #### “SEC. 308. AMENDMENT TO SECTION 5136 OF THE REVISED STATUTES.
 
@@ -992,19 +992,19 @@ Nonimmigrant Professionals.—�7E\[Amended section 1184 of Title 8, Aliens and
 
 “(a)
 
-Jurisdiction of Court of International Trade.—�7E\[Amended section 1581 of Title 28, Judiciary and Judicial Procedure.\]
+Jurisdiction of Court of International Trade.—\[Amended section 1581 of Title 28, Judiciary and Judicial Procedure.\]
 
 “(b)
 
-Relief in Court of International Trade.—�7E\[Amended section 2643 of Title 28.\]
+Relief in Court of International Trade.—\[Amended section 2643 of Title 28.\]
 
 “(c)
 
-Declaratory Judgments.—�7E\[Amended section 2201 of Title 28.\]
+Declaratory Judgments.—\[Amended section 2201 of Title 28.\]
 
 “(d)
 
-Actions Under the Agreement.—�7E\[Enacted section 1584 of Title 28.\]
+Actions Under the Agreement.—\[Enacted section 1584 of Title 28.\]
 
 #### “SEC. 403. CONFORMING AMENDMENTS TO THE TARIFF ACT OF 1930.
 
@@ -1066,7 +1066,7 @@ Appointment of Individuals to Panels and Committees.—
 
 > &emsp;shall be made on the basis of the criteria provided in Annex 1901.2(1) and Annex 1904.13(1) of the Agreement and shall be made without regard to political affiliation.
 
-&emsp;“(C) For purposes of applying section 1001 of title 18, United States Code, the written or oral responsesof individuals to inquiries of the interagency group established under paragraph (1) or the Trade Representative regarding their personal and professional qualifications, and financial and other relevant interests, that bear on their suitability for the placements and appointments described in subparagraph (B), shall be treated as matters within the jurisdiction of an agency of the United States.
+&emsp;“(C) For purposes of applying section 1001 of title 18, United States Code, the written or oral responses of individuals to inquiries of the interagency group established under paragraph (1) or the Trade Representative regarding their personal and professional qualifications, and financial and other relevant interests, that bear on their suitability for the placements and appointments described in subparagraph (B), shall be treated as matters within the jurisdiction of an agency of the United States.
 
 &emsp;“(3)(A) By no later than January 3 of each calendar year, the Trade Representative shall submit to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives (hereafter in this section referred to as the ‘appropriate Congressional Committees’) the preliminary candidate lists of those individuals selected by the Trade Representative under paragraph (2)(A) to be candidates eligible to serve on binational panels or extraordinary challenge committees convened pursuant to chapter 19 of the Agreement during the 1-year period beginning on April 1 of such calendar year.
 
@@ -1082,7 +1082,7 @@ Appointment of Individuals to Panels and Committees.—
 
 &emsp;&emsp;“(i) request the interagency group established under paragraph (1)(A) to prepare a list of individuals who are qualified to be added to such candidate list,
 
-&emsp;&emsp;“(ii) select individuals from the list prepared by the interagency group under paragraph (1)(B)(ii) to be included in a proposed amendment to such final candidate list, and
+&emsp;&emsp;“(ii) select individuals from the list prepared by the interagency group under paragraph (1)(B)(ii) tobe included in a proposed amendment to such final candidate list, and
 
 &emsp;&emsp;“(iii) by no later than July 1 of such calendar year, submit to the appropriate Congressional Committees the proposed amendments to such final candidate list developed by the Trade Representative under clause (ii).
 
@@ -1120,7 +1120,7 @@ Appointment of Individuals to Panels and Committees.—
 
 &emsp;&emsp;“(i) be selected by the Government of the United States for placement on the rosters described in Annex 1901.2(1) and Annex 1904.13(1) of the Agreement, or
 
-&emsp;&emsp;“(ii) be appointed solely or jointly by the Government of the United States to serve as a member ofa binational panel or extraordinary challenge committee convened pursuant to chapter 19 of the Agreement,
+&emsp;&emsp;“(ii) be appointed solely or jointly by the Government of the United States to serve as a member of a binational panel or extraordinary challenge committee convened pursuant to chapter 19 of the Agreement,
 
 > &emsp;during the 1-year period beginning on April 1 of any calendar year for which the Trade Representative has not met the requirements of this subsection.
 
@@ -1152,7 +1152,7 @@ Regulations.—The administering authority under title VII of the Tariff Act of 
 
 Establishment of United States Secretariat.—
 
-&emsp;“(1) The President is authorized to establish within any department or agency of the Federal Government a United States Secretariat which, subject to the oversight of the interagency group established under subsection (a)(1)(A), shall facilitate—
+&emsp;“(1) The President is authorized to establish within any department or agency of the Federal Governmenta United States Secretariat which, subject to the oversight of the interagency group established under subsection (a)(1)(A), shall facilitate—
 
 &emsp;&emsp;“(A) the operation of chapters 18 and 19 of the Agreement, and
 
@@ -1202,7 +1202,7 @@ Authority of Extraordinary Challenge Committee To Obtain Information.—If an ex
 
 “(b)
 
-Witnesses and Evidence.—The attendance of witnesses who are authorized to be summoned, and theproduction of documentary evidence authorized to be ordered, under subsection (a) may be required from any place in the United States at any designated place of hearing. In the case of disobedience to a subpoena authorized under subsection (a), the committee may request the Attorney General of the United States to invoke the aid of any district or territorial court of the United States in requiring the attendance and testimony of witnesses and the production of documentary evidence. Such court, within the jurisdiction of which such inquiry is carried on, may, in case of contumacy or refusal to obey a subpoena issued to any individual, partnership, corporation, association, organization, or other entity, issue an order requiring such individual or entity to appear before the committee, or to produce documentary evidence if so ordered or to give evidence concerning the matter in question. Any failure to obey such order of the court may be punished by such court as a contempt thereof.
+Witnesses and Evidence.—The attendance of witnesses who are authorized to be summoned, and the production of documentary evidence authorized to be ordered, under subsection (a) may be required from any place in the United States at any designated place of hearing. In the case of disobedience to a subpoena authorized under subsection (a), the committee may request the Attorney General of the United States to invoke the aid of any district or territorial court of the United States in requiring the attendance and testimony of witnesses and the production of documentary evidence. Such court, within the jurisdiction of which such inquiry is carried on, may, in case of contumacy or refusal to obey a subpoena issued to any individual, partnership, corporation, association, organization, or other entity, issue an order requiring such individual or entity to appear before the committee, or to produce documentary evidence if so ordered or to give evidence concerning the matter in question. Any failure to obey such order of the court may be punished by such court as a contempt thereof.
 
 “(c)
 
@@ -1270,7 +1270,7 @@ Identification of Industries Facing Subsidized Imports.—
 
 &emsp;&emsp;“(B) the industry is likely to experience a deterioration of its competitive position before rules and disciplines relating to the use of government subsidies have been developed with respect to such country;
 
-> &emsp;may file a petition with the United States Trade Representative (hereafter referred to in this section asthe ‘Trade Representative’) to be identified under this section.
+> &emsp;may file a petition with the United States Trade Representative (hereafter referred to in this section as the ‘Trade Representative’) to be identified under this section.
 
 &emsp;“(2) Within 90 days of receipt of a petition under paragraph (1), the Trade Representative, in consultation with the Secretary of Commerce, shall decide whether to identify the industry on the basis that there is a reasonable likelihood that the industry may face both the subsidization described in paragraph (1)(A) and the deterioration described in paragraph (1)(B).
 
@@ -1296,7 +1296,7 @@ Identification of Industries Facing Subsidized Imports.—
 
 &emsp;&emsp;“(iv) may ask the President to request advice from the United States International Trade Commission.
 
-&emsp;“(C) In the event an investigation is initiated under section 302(c) of the Trade Act of 1974 \[19 U.S.C. 2412(c)\] as a result of a review under this paragraph and the President, following such investigation (including any applicable dispute settlement proceedings under the Agreement or any other trade agreement), determines to take action under section 301(a) of such Act \[19 U.S.C. 2411(a)\], the President shall give preference to actions that most directly affect the products that benefit from governmental subsidies and were the subject of the investigation, unless there are no significant imports of such products or the President otherwise determines that application of the action to other products would be more effective.
+&emsp;“(C) In the event an investigation is initiated under section 302(c) of the Trade Act of 1974 \[19 U.S.C. 2412(c)\] as a result of a review under this paragraph and the President, following such investigation (including any applicable dispute settlement proceedings under the Agreement or any other trade agreement), determines to take action under section 301(a)of such Act \[19 U.S.C. 2411(a)\], the President shall give preference to actions that most directly affect the products that benefit from governmental subsidies and were the subject of the investigation, unless there are no significant imports of such products or the President otherwise determines that application of the action to other products would be more effective.
 
 &emsp;“(5) Any decision, whether positive or negative, or any action by the Trade Representative or the Secretary of Commerce under this section shall not in any way—
 
@@ -1348,7 +1348,7 @@ Termination or Suspension of Agreement.—
 
 &emsp;“(1)
 
-Termination of agreement.—On the date the Agreement ceases to be in force, the provisions ofthis Act (other than this paragraph and section 410(b)), and the amendments made by this Act, shall cease to have effect.
+Termination of agreement.—On the date the Agreement ceases to be in force, the provisions of this Act (other than this paragraph and section 410(b)), and the amendments made by this Act, shall cease to have effect.
 
 &emsp;“(2)
 
@@ -1378,15 +1378,15 @@ Suspension resulting from nafta.—On the date the United States and Canada agre
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1801–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of Title 26, Internal Revenue Code.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1801–1899A\] of Pub. L.99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of Title 26, Internal Revenue Code.
 
 #### United States-Israel Free Trade Area Implementation
 
-Sections 1 to 6 of Pub. L. 99–47 provided that:
+Pub. L. 99–47, June 11, 1985, 99 Stat. 82, as amended by Pub. L. 104–234, §1, Oct. 2, 1996, 110 Stat. 3058, provided that:
 
 #### “SECTION 1. SHORT TITLE.
 
-“This Act \[amending sections 2112, 2462 to 2464, and 2518 of this title and provisions set out as a note below\] may be cited as the ‘United States-Israel Free Trade Area Implementation Act of 1985’.
+“This Act may be cited as the ‘United States-Israel Free Trade Area Implementation Act of 1985’.
 
 #### “SEC. 2. PURPOSES.
 
@@ -1456,7 +1456,7 @@ Implementing Regulations.—Regulations that are necessary or appropriate to car
 
 Changes in Statutes To Implement a Requirement, Amendment, or Recommendation.—
 
-&emsp;“(1) Except as otherwise provided in paragraph (2), the provisions of section 3(c) of the Trade AgreementsAct of 1979 (19 U.S.C. 2504(c)) shall apply with respect to the Agreement and—
+&emsp;“(1) Except as otherwise provided in paragraph (2), the provisions of section 3(c) of the Trade Agreements Act of 1979 (19 U.S.C. 2504(c)) shall apply with respect to the Agreement and—
 
 &emsp;&emsp;“(A) no requirement of, amendment to, or recommendation under the Agreement shall be implemented under United States law, and
 
@@ -1482,7 +1482,145 @@ Private Remedies Not Created.—Neither the entry into force of the Agreement wi
 
 #### “SEC. 6. TERMINATION.
 
-“The provisions of section 125(a) of the Trade Act of 1974 (19 U.S.C. 2135(a)) shall not apply to the Agreement.”
+“The provisions of section 125(a) of the Trade Act of 1974 (19 U.S.C. 2135(a)) shall not apply to the Agreement.
+
+#### “SEC. 7. LOWERED THRESHOLD FOR GOVERNMENT PROCUREMENT UNDER TRADE AGREEMENTS ACT OF 1979 IN THE CASE OF CERTAIN ISRAELI PRODUCTS.
+
+\[Section amended section 2518(4)(C) of this title.\]
+
+#### “SEC. 8. TECHNICAL AMENDMENTS.
+
+\[Section amended title IV of Pub. L. 98–573, set out as a note below, this section, and sections 2462 to 2464 of this title.\]
+
+#### “SEC. 9. ADDITIONAL PROCLAMATION AUTHORITY.
+
+“(a)
+
+Elimination or Modifications of Duties.—The President is authorized to proclaim elimination or modification of any existing duty as the President determines is necessary to exempt any article from duty if—
+
+&emsp;“(1) that article is wholly the growth, product, or manufacture of the West Bank, the Gaza Strip, or a qualifying industrial zone or is a new or different article of commerce that has been grown, produced, or manufactured in the West Bank, the Gaza Strip, or a qualifying industrial zone;
+
+&emsp;“(2) that article is imported directly from the West Bank, the Gaza Strip, Israel, or a qualifying industrial zone; and
+
+&emsp;“(3) the sum of—
+
+&emsp;&emsp;“(A) the cost or value of the materials produced in the West Bank, the Gaza Strip, Israel, or a qualifying industrial zone, plus
+
+&emsp;&emsp;“(B) the direct costs of processing operations performed in the West Bank, the Gaza Strip, Israel, or a qualifying industrial zone,
+
+> &emsp;is not less than 35 percent of the appraised value of the product at the time it is entered into the United States.
+
+> For purposes of determining the 35 percent content requirement contained in paragraph (3), the cost or value of materials which are used in the production of an article in the West Bank, the Gaza Strip, or a qualifying industrial zone, and are the products of the United States, may be counted in an amount up to 15 percent of the appraised value of the article.
+
+“(b)
+
+Applicability of Certain Provisions of the Agreement.—
+
+&emsp;“(1)
+
+Nonqualifying operations.—No article shall be considered a new or different article of commerce under this section, and no material shall be included for purposes of determining the 35 percent requirement of subsection (a)(3), by virtue of having merely undergone—
+
+&emsp;&emsp;“(A) simple combining or packaging operations, or
+
+&emsp;&emsp;“(B) mere dilution with water or with another substance that does not materially alter the characteristics of the article or material.
+
+&emsp;“(2)
+
+Requirements for new or different article of commerce.—For purposes of subsection (a)(1), an article is a ‘new or different article of commerce’ if it is substantially transformed into an article having a new name, character, or use.
+
+&emsp;“(3)
+
+Cost or value of materials.—(A) For purposes of this section, the cost or value of materials produced in the West Bank, the Gaza Strip, or a qualifying industrial zone includes—
+
+&emsp;&emsp;“(i) the manufacturer's actual cost for the materials;
+
+&emsp;&emsp;“(ii) when not included in the manufacturer's actual cost for the materials, the freight, insurance, packing, and all other costs incurred in transporting the materials to the manufacturer's plant;
+
+&emsp;&emsp;“(iii) the actual cost of waste or spoilage, less the value of recoverable scrap; and
+
+&emsp;&emsp;“(iv) taxes or duties imposed on the materials by the West Bank, the Gaza Strip, or a qualifying industrial zone, if such taxes or duties are not remitted on exportation.
+
+&emsp;“(B) If a material is provided to the manufacturer without charge, or at less than fair market value, its cost or value shall be determined by computing the sum of—
+
+&emsp;&emsp;“(i) all expenses incurred in the growth, production, or manufacture of the material, including general expenses;
+
+&emsp;&emsp;“(ii) an amount for profit; and
+
+&emsp;&emsp;“(iii) freight, insurance, packing, and all other costs incurred in transporting the material to the manufacturer's plant.
+
+> &emsp;If the information necessary to compute the cost or value of a material is not available, the Customs Service may ascertain or estimate the value thereof using all reasonable methods.
+
+&emsp;“(4)
+
+Direct costs of processing operations.—(A) For purposes of this section, the ‘direct costs of processing operations performed in the West Bank, Gaza Strip, or a qualifying industrial zone’ with respect to an article are those costs either directly incurred in, or which can be reasonably allocated to, the growth, production, manufacture, or assembly, of that article. Such costs include, but are not limited to, the following to the extent that they are includible in the appraised value of articles imported into the United States:
+
+&emsp;&emsp;“(i) All actual labor costs involved in the growth, production, manufacture, or assembly of the article, including fringe benefits, on-the-job training, and costs of engineering, supervisory, quality control, and similar personnel.
+
+&emsp;&emsp;“(ii) Dies, molds, tooling, and depreciation on machinery and equipment which are allocable to the article.
+
+&emsp;&emsp;“(iii) Research, development, design, engineering, and blueprint costs insofar as they are allocable to the article.
+
+&emsp;&emsp;“(iv) Costs of inspecting and testing the article.
+
+&emsp;“(B) Those items that are not included as direct costs of processing operations with respect to an article are those which are not directly attributable to the article or are not costs of manufacturing the article. Such items include, but are not limited to—
+
+&emsp;&emsp;“(i) profit; and
+
+&emsp;&emsp;“(ii) general expenses of doing business which are either not allocable to the article or are not related to the growth, production, manufacture, or assembly of the article, such as administrative salaries, casualty and liability insurance, advertising, and salesmen's salaries, commissions, or expenses.
+
+&emsp;“(5)
+
+Imported directly.—For purposes of this section—
+
+&emsp;&emsp;“(A) articles are ‘imported directly’ if—
+
+&emsp;&emsp;&emsp;“(i) the articles are shipped directly from the West Bank, the Gaza Strip, a qualifying industrial zone, or Israel into the United States without passing through the territory of any intermediate country; or
+
+&emsp;&emsp;&emsp;“(ii) if shipment is through the territory of an intermediate country, the articles in the shipment do not enter into the commerce of any intermediate country and the invoices, bills of lading, and other shipping documents specify the United States as the final destination; or
+
+&emsp;&emsp;“(B) if articles are shipped through an intermediate country and the invoices and other documents do not specify the United States as the final destination, then the articles in the shipment, upon arrival in the United States, are imported directly only if they—
+
+&emsp;&emsp;&emsp;“(i) remain under the control of the customs authority in an intermediate country;
+
+&emsp;&emsp;&emsp;“(ii) do not enter into the commerce of an intermediate country except for the purpose of a sale other than at retail, but only if the articles are imported as a result of the original commercial transactions between the importer and the producer or the producer's sales agent; and
+
+&emsp;&emsp;&emsp;“(iii) have not been subjected to operations other than loading, unloading, or other activities necessary to preserve the article in good condition.
+
+&emsp;“(6)
+
+Documentation required.—An article is eligible for the duty exemption under this section only if—
+
+&emsp;&emsp;“(A) the importer certifies that the article meets the conditions for the duty exemption; and
+
+&emsp;&emsp;“(B) when requested by the Customs Service, the importer, manufacturer, or exporter submits a declaration setting forth all pertinent information with respect to the article, including the following:
+
+&emsp;&emsp;&emsp;“(i) A description of the article, quantity, numbers, and marks of packages, invoice numbers, and bills of lading.
+
+&emsp;&emsp;&emsp;“(ii) A description of the operations performed in the production of the article in the West Bank, the Gaza Strip, a qualifying industrial zone, or Israel and identification of the direct costs of processing operations.
+
+&emsp;&emsp;&emsp;“(iii) A description of any materials used in production of the article which are wholly the growth, product, or manufacture of the West Bank, the Gaza Strip, a qualifying industrialzone, Israel or United States, and a statement as to the cost or value of such materials.
+
+&emsp;&emsp;&emsp;“(iv) A description of the operations performed on, and a statement as to the origin and cost or value of, any foreign materials used in the article which are claimed to have been sufficiently processed in the West Bank, the Gaza Strip, a qualifying industrial zone, or Israel so as to be materials produced in the West Bank, the Gaza Strip, a qualifying industrial zone, or Israel.
+
+&emsp;&emsp;&emsp;“(v) A description of the origin and cost or value of any foreign materials used in the article which have not been substantially transformed in the West Bank, the Gaza Strip, or a qualifying industrial zone.
+
+“(c)
+
+Shipment of Articles of Israel Through West Bank or Gaza Strip.—The President is authorized to proclaim that articles of Israel may be treated as though they were articles directly shipped from Israel for the purposes of the Agreement even if shipped to the United States from the West Bank, the Gaza Strip, or a qualifying industrial zone, if the articles otherwise meet the requirements of the Agreement.
+
+“(d)
+
+Treatment of Cost or Value of Materials.—The President is authorized to proclaim that the cost or value of materials produced in the West Bank, the Gaza Strip, or a qualifying industrial zone may be included in the cost or value of materials produced in Israel under section 1(c)(i) of Annex 3 of the Agreement, and the direct costs of processing operations performed in the West Bank, the Gaza Strip, or a qualifying industrial zone may be included in the direct costs of processing operations performed in Israel under section 1(c)(ii) of Annex 3 of the Agreement.
+
+“(e)
+
+Qualifying Industrial Zone Defined.—For purposes of this section, a ‘qualifying industrial zone’ means any area that—
+
+&emsp;“(1) encompasses portions of the territory of Israel and Jordan or Israel and Egypt;
+
+&emsp;“(2) has been designated by local authorities as an enclave where merchandise may enter without payment of duty or excise taxes; and
+
+&emsp;“(3) has been specified by the President as a qualifying industrial zone.”
 
 #### Trade Agreements With Israel
 
@@ -1540,7 +1678,7 @@ ITC Reports.—In any report by the United States International Trade Commission
 
 “(e)(1) Any proclamation issued under section 203 of the Trade Act of 1974 \[19 U.S.C. 2253\] that is in effect when an agreement with Israel is entered into under section 102(b)(1) of the Trade Act of 1974 \[19 U.S.C. 2112(b)(1)\] shall remain in effect until modified or terminated.
 
-“(2) If any article is subject to import relief at the time an agreement is entered into with Israel undersection 102(b)(1) of the Trade Act of 1974 \[19 U.S.C. 2112(b)(1)\], the President may reduce or terminate the application of such import relief to the importation of such article before the otherwise scheduled date on which such reduction or termination would occur pursuant to the criteria and procedures of sections 203 and 204 of the Trade Act of 1974 \[19 U.S.C. 2253, 2254\].
+“(2) If any article is subject to import relief at the time an agreement is entered into with Israel under section 102(b)(1) of the Trade Act of 1974 \[19 U.S.C. 2112(b)(1)\], the President may reduce or terminate the application of such import relief to the importation of such article before the otherwise scheduled date on which such reduction or termination would occur pursuant to the criteria and procedures of sections 203 and 204 of the Trade Act of 1974 \[19 U.S.C. 2253, 2254\].
 
 #### “SEC. 404. FAST TRACK PROCEDURES FOR PERISHABLE ARTICLES.
 
@@ -1596,17 +1734,17 @@ By virtue of the authority vested in me as President by the Constitution and law
 
 Section 1. \[Superseded by Ex. Ord. No. 12889, §4(c), Dec. 27, 1993, 58 F.R. 69681, see 19 U.S.C. 3311 note.\]
 
-Sec. 2. <i>Establishment of United States Secretariat.</i> Pursuant to subsection 405(e) of the FTA Implementation Act, a “United States Secretariat” shall be established within the International Trade Administration of the Department of Commerce. The Secretariat shall facilitate:
+Sec. 2. <i>Establishment of United States Secretariat</i>. Pursuant to subsection 405(e) of the FTA Implementation Act, a “United States Secretariat” shall be established within the International Trade Administration of the Department of Commerce. The Secretariat shall facilitate:
 
 (1) the operation of Chapters 18 and 19 of the Free-Trade Agreement, and
 
 (2) the work of the binational panels and extraordinary challenge committees convened under those Chapters.
 
-Sec. 3. <i>Acceptance by the President of Panel and Committee Decisions.</i> In accordance with subsection 401(c) of the FTA Implementation Act, in the event that the provisions of subparagraph 516A(g)(7)(B) of the Tariff Act of 1930, as amended, 19 U.S.C. section 1516a(g)(7)(B), take effect, I accept, as a whole, all decisions of binational panels and extraordinary challenge committees.
+Sec. 3. <i>Acceptance by the President of Panel and Committee Decisions</i>. In accordance with subsection 401(c) of the FTA Implementation Act, in the event that the provisions of subparagraph 516A(g)(7)(B) of the Tariff Act of 1930, as amended, 19 U.S.C. section 1516a(g)(7)(B), take effect, I accept, as a whole, all decisions of binational panels and extraordinary challenge committees.
 
-Sec. 4. <i>Judicial Review.</i> This Order does not create any right or benefit, substantive or procedural, enforceable at law by a party against the United States, its agencies, its officers, or any person.
+Sec. 4. <i>Judicial Review</i>. This Order does not create any right or benefit, substantive or procedural, enforceable at law by a party against the United States, its agencies, its officers, or any person.
 
-Sec. 5. <i>Effective Date.</i> This Order shall take effect upon the entry into force of the Free-Trade Agreement.
+Sec. 5. <i>Effective Date</i>. This Order shall take effect upon the entry into force of the Free-Trade Agreement.
 
 #### Delegation of Authority Under Section 103(a) of United States-Canada Free-Trade Agreement Implementation Act of 1988
 
@@ -1630,5 +1768,5 @@ George Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2113, 2114, 2114a, 2115, 2116, 2117, 2118, 2136, 2191, 2194, 2462, 2503, 2504, 2904 of this title; title 22 section 5342.
+This section is referred to in sections 2113, 2114, 2114a, 2115, 2116, 2117, 2118, 2136, 2191, 2194, 2503, 2504, 2904 of this title; title 22 section 5342.
 

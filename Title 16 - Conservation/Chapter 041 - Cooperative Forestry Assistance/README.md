@@ -23,7 +23,6 @@
 | (h) | Use of advertising and bid procedure in determining lands to be covered by agreements; prerequisites. |
 | (i) | Applicability of other Federal authorities in implementation of provisions. |
 | (j) | Authorization of appropriations. |
-| (k) | Termination of program. |
 | [2103a.](%C2%A7%2002103a%20-%20Forest%20Stewardship%20Program.md) | Forest Stewardship Program. |
 | (a) | Establishment. |
 | (b) | Goal. |
@@ -52,7 +51,8 @@
 | (i) | Duties of owners. |
 | (j) | Compensation and cost sharing. |
 | (k) | Easements. |
-| (<i>l)</i> | Appropriation. |
+| (<i>l</i>) | Optional State grants. |
+| (m) | Appropriation. |
 | [2104\.](%C2%A7%2002104%20-%20Forest%20health%20protection.md) | Forest health protection. |
 | (a) | In general. |
 | (b) | Activities. |

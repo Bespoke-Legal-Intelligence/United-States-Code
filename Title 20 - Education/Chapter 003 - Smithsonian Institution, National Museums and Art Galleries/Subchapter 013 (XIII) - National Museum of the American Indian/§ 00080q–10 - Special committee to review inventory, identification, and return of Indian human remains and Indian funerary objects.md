@@ -2,7 +2,7 @@
 
 #### (a) Establishment; duties
 
-Not later than 120 days after November 28, 1989, the Secretary of the Smithsonian Institution shall appoint a special committee to monitor and review the inventory, identification, and return of Indian human remains and Indian funerary objects under section 80q–9 of this title. In carrying out its duties, the committee shall—
+Not later than 120 days after November 28, 1989, the Secretary of the Smithsonian Institution shall appoint a special committee to monitor and review the inventory, identification, and return of Indian human remains and Indian funerary objects under section 80q–9 of this title and unassociated funerary objects, sacred objects, and objects of cultural patrimony under section 80q–9a of this title. In carrying out its duties, the committee shall—
 
 &emsp;(1) with respect to the inventory and identification, ensure fair and objective consideration and assessment of all relevant evidence;
 
@@ -14,11 +14,13 @@ Not later than 120 days after November 28, 1989, the Secretary of the Smithsonia
 
 #### (b) Membership
 
-The committee shall consist of five members, of whom—
+The committee shall consist of 7 members, of whom—
 
-&emsp;(1) three members shall be appointed from among nominations submitted by Indian tribes and organizations; and
+&emsp;(1) 4 members shall be appointed from among nominations submitted by Indian tribes and organizations;
 
-&emsp;(2) the Secretary shall designate one member as chairman.
+&emsp;(2) at least 2 members shall be traditional Indian religious leaders; and
+
+&emsp;(3) the Secretary shall designate one member as chairman.
 
 > The Secretary may not appoint to the committee any individual who is an officer or employee of the Government (including the Smithsonian Institution) or any individual who is otherwise affiliated with the Smithsonian Institution.
 
@@ -52,11 +54,21 @@ The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the commit
 
 There is authorized to be appropriated $250,000 for fiscal year 1991 and such sums as may be necessary for succeeding fiscal years to carry out this section.
 
-(Pub. L. 101–185, §12, Nov. 28, 1989, 103 Stat. 1344.)
+(Pub. L. 101–185, §12, Nov. 28, 1989, 103 Stat. 1344; Pub. L. 104–278, §5, Oct. 9, 1996, 110 Stat. 3357.)
 
 #### References in Text
 
 The Federal Advisory Committee Act, referred to in subsec. (g), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### Amendments
+
+1996—Subsec. (a). Pub. L. 104–278, §5(1), in first sentence, inserted “and unassociated funerary objects, sacred objects, and objects of cultural patrimony under section 80q–9a of this title” before period.
+
+Subsec. (b). Pub. L. 104–278, §5(2)(A), substituted “7 members” for “five members” in introductory provisions.
+
+Subsec. (b)(1). Pub. L. 104–278, §5(2)(B), substituted “4 members” for “three members” and struck out “and” at end.
+
+Subsec. (b)(2), (3). Pub. L. 104–278, §5(2)(C), (D), added par. (2) and redesignated former par. (2) as (3).
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 

@@ -18,6 +18,7 @@
 | [1175\.](%C2%A7%2001175%20-%20Specific%20jurisdictions%20within%20which%20manufacturing%2C%20repairing%2C%20selling%2C%20possessing%2C%20etc.%2C%20prohibited%3B%20exceptions.md) | Specific jurisdictions within which manufacturing, repairing, selling, possessing, etc., prohibited; exceptions. |
 | (a) | General rule. |
 | (b) | Exception. |
+| (c) | Exception for Alaska. |
 | [1176\.](%C2%A7%2001176%20-%20Penalties.md) | Penalties. |
 | [1177\.](%C2%A7%2001177%20-%20Confiscation%20of%20gambling%20devices%20and%20means%20of%20transportation%3B%20laws%20governing.md) | Confiscation of gambling devices and means of transportation; laws governing. |
 | [1178\.](%C2%A7%2001178%20-%20Nonapplicability%20of%20chapter%20to%20certain%20machines%20and%20devices.md) | Nonapplicability of chapter to certain machines and devices. |

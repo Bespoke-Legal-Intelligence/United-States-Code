@@ -60,7 +60,7 @@ Subsec. (b). Pub. L. 102–321, §113(e)(2), substituted “Prevention Center”
 
 Subsec. (b)(5). Pub. L. 102–321, §113(c)(1), struck out “and intervention” after “prevention,”.
 
-Subsec. (b)(6). Pub. L. 102–531, which directed the amendment of “section 508(b)(6) (42 U.S.C. 290aa–6(b)(6))” of act July 1, 1944, by substituting “Centers for Disease Control and Prevention” for “Centers for Disease Control”, was executed to subsec. (b)(6) of this section to reflect the probable intent of Congress and the intervening renumbering of section 508 of actJuly 1, 1944, as section 515 of that act by Pub. L. 102–321, §113(b)(2).
+Subsec. (b)(6). Pub. L. 102–531, which directed the amendment of “section 508(b)(6) (42 U.S.C. 290aa–6(b)(6))” of act July 1, 1944, by substituting “Centers for Disease Control and Prevention” for “Centers for Disease Control”, was executed to subsec. (b)(6) of this section to reflect the probable intent of Congress and the intervening renumbering of section 508 of act July 1, 1944, as section 515 of that act by Pub. L. 102–321, §113(b)(2).
 
 Subsec. (b)(9). Pub. L. 102–321, §113(c)(4), inserted “and” after semicolon at end.
 

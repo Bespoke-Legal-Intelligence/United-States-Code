@@ -2,7 +2,7 @@
 
 (a)
 
-Authority of Base Commander.—The Secretary of Defense shall direct that the commander of each military installation shall have the authority and the responsibility to enter into contracts in accordance with this section for the performance of a commercial activity on the military installation.
+Authority of Base Commander.—The Secretary of Defense shall direct that the commander of each military installation shall havethe authority and the responsibility to enter into contracts in accordance with this section for the performance of a commercial activity on the military installation.
 
 (b)
 

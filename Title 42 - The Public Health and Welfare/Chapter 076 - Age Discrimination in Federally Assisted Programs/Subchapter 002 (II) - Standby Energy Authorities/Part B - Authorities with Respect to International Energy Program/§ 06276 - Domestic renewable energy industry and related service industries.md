@@ -46,7 +46,7 @@ It is the purpose of this section to implement the responsibilities of the Unite
 
 #### (1) Establishment
 
-&emsp;(A) There shall be established an interagency working group that, in consultation with the representative industry groups and relevant agency heads, shall make recommendations to coordinate the actions and programs of the Federal Government affecting exports of renewable energy and energy efficiency products and services. The interagency working group shall establish a program to inform foreign countries of the benefits of policies that would increase energy efficiency or would allow facilities that use renewable energy to compete effectively with producers of energy from nonrenewable sources.
+&emsp;(A) There shall be established an interagency working group that, in consultationwith the representative industry groups and relevant agency heads, shall make recommendations to coordinate the actions and programs of the Federal Government affecting exports of renewable energy and energy efficiency products and services. The interagency working group shall establish a program to inform foreign countries of the benefits of policies that would increase energy efficiency or would allow facilities that use renewable energy to compete effectively with producers of energy from nonrenewable sources.
 
 &emsp;(B) There shall be established an Interagency Working Subgroup on Renewable Energy and an Interagency Working Subgroup on Energy Efficiency that shall, in consultation with representative industry groups, nonprofit organizations, and relevant Federal agencies, make recommendations to coordinate the actions and programs of the Federal Government to promote the export of domestic renewable energy and energy efficiency products and services, respectively.
 
@@ -54,7 +54,7 @@ It is the purpose of this section to implement the responsibilities of the Unite
 
 #### (2) Duties of the interagency working subgroups
 
-&emsp;(A) The interagency working subgroups established under paragraph (1)(B), through themember agencies of the interagency working group, shall promote the development and application in foreign countries of renewable energy and energy efficiency products and services, respectively, that—
+&emsp;(A) The interagency working subgroups established under paragraph (1)(B), through the member agencies of the interagency working group, shall promote the development and application in foreign countries of renewable energy and energy efficiency products and services, respectively, that—
 
 &emsp;&emsp;(i) reduce dependence on unreliable sources of energy by encouraging the use of sustainable biomass, wind, small-scale hydroelectric, solar, geothermal, and other renewable energy and energy efficiency products and services; and
 
@@ -102,15 +102,17 @@ The interagency working group established under subsection (d) of this section s
 
 #### (h) Authorization of appropriations
 
-There are authorized to be appropriated to the Secretary for purposes of carrying out the programs under subsections (d) and (e) of this section $10,000,000, to be divided equitably between the interagency working subgroups based on program requirements, for each of the fiscal years 1993 and 1994, and such sums as may be necessary for fiscal year 1995 to carry out the purposes of this subtitle.<sup>1</sup>
+There are authorized to be appropriated to the Secretary for purposes of carrying out the programs under subsections (d) and (e) of this section $10,000,000, to be divided equitably between the interagency working subgroups based on program requirements, for each of the fiscal years 1993 and 1994, and such sums as may be necessary for fiscal year 1995 to carry out the purposes of this subtitle.<sup>1</sup> There are authorized to be appropriated for fiscal year 1997 such sums as may be necessary to carry out this part.
 
-(Pub. L. 94–163, title II, §256, as added Pub. L. 98–370, §2, July 18, 1984, 98 Stat. 1211; amended Pub. L. 101–218, §7, Dec. 11, 1989, 103 Stat. 1867; Pub. L. 102–486, title XII, §§1207, 1208, Oct. 24, 1992, 106 Stat. 2962, 2964.)
+(Pub. L. 94–163, title II, §256, as added Pub. L. 98–370, §2, July 18, 1984, 98 Stat. 1211; amended Pub. L. 101–218, §7, Dec. 11, 1989, 103 Stat. 1867; Pub. L. 102–486, title XII, §§1207, 1208, Oct. 24, 1992, 106 Stat. 2962, 2964; Pub. L. 104–306, §1(3), Oct. 14, 1996, 110 Stat. 3810.)
 
 #### References in Text
 
-This subtitle, referred to in subsec. (h), is unidentifiable in the original because neither title XII of Pub. L.102–486 which added subsec. (h) of this section, nor title II of Pub. L. 94–163, which enacted this section, contains subtitles.
+This subtitle, referred to in subsec. (h), is unidentifiable in the original because neither title XII of Pub. L. 102–486 which added subsec. (h) of this section, nor title II of Pub. L. 94–163, which enacted this section, contains subtitles.
 
 #### Amendments
+
+1996—Subsec. (h). Pub. L. 104–306 inserted at end “There are authorized to be appropriated for fiscal year 1997 such sums as may be necessary to carry out this part.”
 
 1992—Subsec. (d). Pub. L. 102–486, §1207(a), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows:
 

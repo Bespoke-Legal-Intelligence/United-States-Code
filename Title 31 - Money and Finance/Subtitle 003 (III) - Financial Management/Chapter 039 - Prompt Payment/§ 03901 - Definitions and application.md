@@ -30,7 +30,7 @@
 
 &emsp;(6) a contract to rent property is deemed to be a contract to acquire the property.
 
-(b) This chapter applies to the Tennessee Valley Authority. However, regulations prescribedunder this chapter do not apply to the Authority, and the Authority alone is responsible for carrying out this chapter as it applies to contracts of the Authority.
+(b) This chapter applies to the Tennessee Valley Authority. However, regulations prescribed under this chapter do not apply to the Authority, and the Authority alone is responsible for carrying out this chapter as it applies to contracts of the Authority.
 
 (c) This chapter, except section 3906 of this title, applies to the United States Postal Service. However, the Postmaster General shall be responsible for issuing the implementing procurement regulations, solicitation provisions, and contract clauses for the United States Postal Service.
 

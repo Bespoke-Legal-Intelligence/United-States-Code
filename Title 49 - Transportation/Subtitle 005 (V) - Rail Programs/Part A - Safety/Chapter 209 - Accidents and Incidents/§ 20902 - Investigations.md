@@ -20,7 +20,9 @@ Reports.—When in the public interest, the Secretary shall make a report of the
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -40,7 +42,7 @@ Feb. 4, 1887, ch. 104, 24 Stat. 379, §25(f) (words after last semicolon); added
 
 &nbsp;
 
-49 App.:1655(e) (1)(K).
+49 App.:1655(e)(1)(K).
 
 Oct. 15, 1966, Pub. L. 89–670, §6(e)(1)(K), 80 Stat. 939.
 

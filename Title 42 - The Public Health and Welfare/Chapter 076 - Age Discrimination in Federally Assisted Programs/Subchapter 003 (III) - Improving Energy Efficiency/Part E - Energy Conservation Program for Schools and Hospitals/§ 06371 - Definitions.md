@@ -26,7 +26,7 @@ For the purposes of this part—
 
 &emsp;&emsp;(iii) electrical or mechanical furnace ignition systems which replace standing gas pilot lights, and
 
-&emsp;&emsp;(iv) utility plant system conversion measures including conversion of existing oil- and gas-fired boiler installations to alternative energy sources, including coal;
+&emsp;&emsp;(iv) utility plant system conversion measures including conversion of existing oil- andgas-fired boiler installations to alternative energy sources, including coal;
 
 &emsp;(H) caulking and weatherstripping;
 
@@ -114,7 +114,7 @@ For the purposes of this part—
 
 (21) The term “Governor” means the chief executive officer of a State or his designee.
 
-(Pub. L. 94–163, title III, §391, as added Pub. L. 95–619, title III, §302(a), Nov. 9, 1978, 92 Stat. 3239;amended Pub. L. 98–454, title VI, §601(e), Oct. 5, 1984, 98 Stat. 1736; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 101–440, §6(b), Oct. 18, 1990, 104 Stat. 1011.)
+(Pub. L. 94–163, title III, §391, as added Pub. L. 95–619, title III, §302(a), Nov. 9, 1978, 92 Stat. 3239; amended Pub. L. 98–454, title VI, §601(e), Oct. 5, 1984, 98 Stat. 1736; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 101–440, §6(b), Oct. 18, 1990, 104 Stat. 1011.)
 
 #### Amendments
 

@@ -12,7 +12,7 @@ The Director may, in administering the provisions of this subchapter, accept fro
 
 The Director of the United States Information Agency shall make periodic reports, as he deems necessary, to the Congress with respect to his activities under the provisions of this subchapter, and such reports shall include any recommendations for needed revisions in this subchapter.
 
-(Pub. L. 86–472, ch. VII, §704, May 14, 1960, 74 Stat. 141; 1977 Reorg. Plan No. 2, §7(a)(7), 42 F.R.62461, 91 Stat. 1637; Pub. L. 96–465, title II, §2206(a)(8), Oct. 17, 1980, 94 Stat. 2162; Pub. L. 96–470, title II, §212(b), Oct. 19, 1980, 94 Stat. 2246; Pub. L. 97–241, title III, §303(b), Aug. 24, 1982, 96 Stat. 291.)
+(Pub. L. 86–472, ch. VII, §704, May 14, 1960, 74 Stat. 141; 1977 Reorg. Plan No. 2, §7(a)(7), 42 F.R. 62461, 91 Stat. 1637; Pub. L. 96–465, title II, §2206(a)(8), Oct. 17, 1980, 94 Stat. 2162; Pub. L. 96–470, title II, §212(b), Oct. 19, 1980, 94 Stat. 2246; Pub. L. 97–241, title III, §303(b), Aug. 24, 1982, 96 Stat. 291.)
 
 #### References in Text
 

@@ -112,7 +112,7 @@ The State agency shall—
 
 &emsp;&emsp;(F) provide for the collection and dissemination of timely and accurate information to staff (including volunteers) related to public benefits;
 
-&emsp;&emsp;(G) provide for the coordination of information on public benefits between the staffof State entities and the staff (including volunteers) of the State public benefits assistance program; and
+&emsp;&emsp;(G) provide for the coordination of information on public benefits between the staff of State entities and the staff (including volunteers) of the State public benefits assistance program; and
 
 &emsp;&emsp;(H) make recommendations related to consumer protection that may affect individuals eligible for, or receiving, public benefits.
 

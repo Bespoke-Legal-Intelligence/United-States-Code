@@ -2,7 +2,7 @@
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in section 450<i>l</i> of this title; title 42 section 5307.
+This subchapter is referred to in sections 450<i>l</i>, 4112 of this title; title 42 section 5307.
 
 
 ---

@@ -9,8 +9,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<i><sup>1</sup></i><i> So in original. No par. (2) has been enacted.</i>
-
 
 ---
 

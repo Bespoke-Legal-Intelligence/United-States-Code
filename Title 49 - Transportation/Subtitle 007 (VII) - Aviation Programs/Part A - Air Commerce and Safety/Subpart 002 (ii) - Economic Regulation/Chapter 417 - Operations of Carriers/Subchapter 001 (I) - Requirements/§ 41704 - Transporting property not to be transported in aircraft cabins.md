@@ -6,7 +6,9 @@ Under regulations or orders of the Secretary of Transportation, an air carrier s
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -20,9 +22,13 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1116; added Aug. 5, 1974, Pub. 
 
 &nbsp;
 
-49 App.:1551(b) (1)(E).
+49 App.:1551(b)(1)(E).
 
 Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1601(b)(1)(E); added Oct. 4, 1984, Pub. L. 98–443, §3(e), 98 Stat. 1704.
 
 The words “as may be necessary”, “which . . . lawfully”, and “by such person” are omitted as surplus. The words “The carrier is liable to pay an amount not more than” are substituted for “shall assume liability . . . within” for clarity. The words “to such person” are omitted as surplus. The words “The carrier may impose” are added for clarity. The words “terms and” are omitted as covered by “conditions”.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 40109, 46301 of this title.
 

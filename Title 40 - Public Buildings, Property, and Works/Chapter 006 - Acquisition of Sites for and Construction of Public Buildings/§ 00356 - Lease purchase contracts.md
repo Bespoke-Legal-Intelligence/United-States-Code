@@ -88,7 +88,7 @@ Section 103 of title I of act July 22, 1954, provided that: “This title \[enac
 
 #### Transfer of Functions
 
-In subsec. (a), “United States Postal Service” substituted for “Post Office Department”, and in subsec. (g), “United States Postal Service” substituted for “Postmaster General” pursuant to Pub. L. 91–375 whichabolished Post Office Department and office of Postmaster General of Post Office Department, transferred their functions to United States Postal Service, and provided that references in other laws to Post Office Department shall be considered a reference to United States Postal Service.
+In subsec. (a), “United States Postal Service” substituted for “Post Office Department”, and in subsec. (g), “United States Postal Service” substituted for “Postmaster General” pursuant to Pub. L. 91–375 which abolished Post Office Department and office of Postmaster General of Post Office Department, transferred their functions to United States Postal Service, and provided that references in other laws to Post Office Department shall be considered a reference to United States Postal Service.
 
 #### Limitation on Use of Funds for Payment for Sites, Planning or Construction of Buildings by Lease-Purchase Contracts
 

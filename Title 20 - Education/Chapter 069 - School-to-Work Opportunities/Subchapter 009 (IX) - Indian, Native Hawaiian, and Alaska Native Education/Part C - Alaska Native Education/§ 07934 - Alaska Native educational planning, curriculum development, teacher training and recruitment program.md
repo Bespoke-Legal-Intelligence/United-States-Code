@@ -14,7 +14,7 @@ The Secretary shall make direct grants to Alaska Native organizations or educati
 
 #### (3) Curricula
 
-&emsp;The development of curricula to address the needs of Alaska Native students, particularly elementary and secondary school students, which may include innovative programs andpilot and demonstration programs to develop and introduce curriculum materials that reflect cultural diversities or the contributions of Alaska Native people, programs of instruction conducted in Native languages, and the development of networks to introduce successful techniques, programs and curriculum materials to rural and urban schools, including:
+&emsp;The development of curricula to address the needs of Alaska Native students, particularly elementary and secondary school students, which may include innovative programs and pilot and demonstration programs to develop and introduce curriculum materials that reflect cultural diversities or the contributions of Alaska Native people, programs of instruction conducted in Native languages, and the development of networks to introduce successful techniques, programs and curriculum materials to rural and urban schools, including:
 
 &emsp;&emsp;(A) multimedia social studies curricula which fully and accurately portray the role of Native Americans historically and contemporarily; and
 

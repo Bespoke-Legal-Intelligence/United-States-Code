@@ -32,17 +32,33 @@ A State may transfer up to 10 percent of its allotment under section 1397b of th
 
 A State may use a portion of the amounts described in subsection (a) of this section for the purpose of purchasing technical assistance from public or private entities if the State determines that such assistance is required in developing, implementing, or administering programs funded under this subchapter.
 
-(Aug. 14, 1935, ch. 531, title XX, §2002, as added Aug. 13, 1981, Pub. L. 97–35, title XXIII, §2352(a), 95 Stat. 867; amended July 18, 1984, Pub. L. 98–369, div. B, title VI, §2663(h)(1), 98 Stat. 1169; Oct. 22, 1986, Pub. L. 99–514, §2, 100 Stat. 2095.)
+#### (f) Authority to use vouchers
+
+A State may use funds provided under this subchapter to provide vouchers, for services directed at the goals set forth in section 1397 of this title, to families, including—
+
+&emsp;(1) families who have become ineligible for assistance under a State program funded under part A of subchapter IV of this chapter by reason of a durational limit on the provision of such assistance; and
+
+&emsp;(2) families denied cash assistance under the State program funded under part A of subchapter IV of this chapter for a child who is born to a member of the family who is—
+
+&emsp;&emsp;(A) a recipient of assistance under the program; or
+
+&emsp;&emsp;(B) a person who received such assistance at any time during the 10-month period ending with the birth of the child.
+
+(Aug. 14, 1935, ch. 531, title XX, §2002, as added Aug. 13, 1981, Pub. L. 97–35, title XXIII, §2352(a), 95 Stat. 867; amended July 18, 1984, Pub. L. 98–369, div. B, title VI, §2663(h)(1), 98 Stat. 1169; Oct. 22, 1986, Pub. L. 99–514, §2, 100 Stat. 2095; Aug. 22, 1996, Pub. L. 104–193, title IX, §908(b), 110 Stat. 2351.)
 
 #### References in Text
 
 Section 501 of the Internal Revenue Code of 1986, referred to in subsec. (a)(2)(B)(iii), is classified to section 501 of Title 26, Internal Revenue Code.
+
+Part A of subchapter IV of this chapter, referred to in subsec. (f), is classified to section 601 et seq. of this title.
 
 #### Prior Provisions
 
 A prior section 1397a, acts Aug. 14, 1935, ch. 531, title XX, §2002, as added Jan. 4, 1975, Pub. L. 93–647, §2, 88 Stat. 2337; amended Oct. 21, 1975, Pub. L. 94–120, §4(b), 89 Stat. 609; Sept. 7, 1976, Pub. L. 94–401, §§1(a)–(c), 5(a), 90 Stat. 1215, 1218; June 30, 1977, Pub. L. 95–59, §5, 91 Stat. 255; Oct. 25, 1977, Pub. L. 95–142, §§3(d)(2), 8(d), 91 Stat. 1179, 1195; Nov. 6, 1978, Pub. L. 95–600, title VIII, §801(a), 92 Stat. 2944; Oct. 17, 1979, Pub. L. 96–88, title V, §509(b), 93 Stat. 695; Jan. 2, 1980, Pub. L. 96–178, §4(a), (c), 93 Stat. 1296, 1297; June 17, 1980, Pub. L. 96–272, title I, §103(e), title II, §§201–204(a), 205(a), 206(e), 207(a), 94 Stat. 521–525; Dec. 5, 1980, Pub. L. 96–499, title X, §1001(a), 94 Stat. 2655, related to payments to States and computation of amounts, prior to the general revision of this subchapter by section 2352(a) of Pub. L. 97–35.
 
 #### Amendments
+
+1996—Subsec. (f). Pub. L. 104–193 added subsec. (f).
 
 1986—Subsec. (a)(2)(B)(iii). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
@@ -70,5 +86,5 @@ Pub. L. 93–647, §3(f), Jan. 4, 1975, 88 Stat. 2349, which provided for requir
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 603, 1397b, 1397c, 1397f, 8622 of this title.
+This section is referred to in sections 1397b, 1397c, 1397f, 8622 of this title.
 

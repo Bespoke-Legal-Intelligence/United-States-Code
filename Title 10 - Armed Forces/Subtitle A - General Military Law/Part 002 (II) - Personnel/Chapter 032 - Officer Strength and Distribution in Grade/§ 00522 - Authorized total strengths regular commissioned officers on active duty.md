@@ -4,19 +4,19 @@ The authorized strengths of the Army, Navy, Air Force, and Marine Corps in regul
 
 Army
 
-63,000
+&nbsp;63,000
 
 Navy
 
-55,000
+&nbsp;55,000
 
 Air Force
 
-80,000
+&nbsp;80,000
 
 Marine Corps
 
-17,000
+&nbsp;17,000
 
 (Added Pub. L. 96–513, title I, §103, Dec. 12, 1980, 94 Stat. 2841; amended Pub. L. 98–525, title V, §522, Oct. 19, 1984, 98 Stat. 2523; Pub. L. 102–190, div. A, title XI, §1131(1)(B), Dec. 5, 1991, 105 Stat. 1505.)
 

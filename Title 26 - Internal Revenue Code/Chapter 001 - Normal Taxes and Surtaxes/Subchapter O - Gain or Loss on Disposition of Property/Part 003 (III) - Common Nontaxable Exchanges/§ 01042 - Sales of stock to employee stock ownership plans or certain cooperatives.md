@@ -98,7 +98,7 @@ For purposes of this section—
 
 &emsp;&emsp;The term “qualified replacement property” means any security issued by a domestic operating corporation which—
 
-&emsp;&emsp;&emsp;(i) did not, for the taxable year preceding the taxable year in which such security was purchased, have passive investment income (as defined in section 1362(d)(3)(D)) in excess of 25 percent of the gross receiptsof such corporation for such preceding taxable year, and
+&emsp;&emsp;&emsp;(i) did not, for the taxable year preceding the taxable year in which such security was purchased, have passive investment income (as defined in section 1362(d)(3)(C)) in excess of 25 percent of the gross receipts of such corporation for such preceding taxable year, and
 
 &emsp;&emsp;&emsp;(ii) is not the corporation which issued the qualified securities which such security is replacing or a member of the same controlled group of corporations (within the meaning of section 1563(a)(1)) as such corporation.
 
@@ -116,7 +116,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;The term “operating corporation” shall include—
 
-&emsp;&emsp;&emsp;&emsp;(I) any financial institution described in section 581 or 593, and
+&emsp;&emsp;&emsp;&emsp;(I) any financial institution described in section 581, and
 
 &emsp;&emsp;&emsp;&emsp;(II) an insurance company subject to tax under subchapter L.
 
@@ -184,7 +184,7 @@ The basis of the taxpayer in qualified replacement property purchased by the tax
 
 &emsp;Paragraph (1) shall not apply to any transfer of qualified replacement property—
 
-&emsp;&emsp;(A) in any reorganization (within the meaning of section 368) unless the person making the election under subsection (a)(1) owns stock representing control in the acquiring or acquired corporation and suchproperty is substituted basis property in the hands of the transferee,
+&emsp;&emsp;(A) in any reorganization (within the meaning of section 368) unless the person making the election under subsection (a)(1) owns stock representing control in the acquiring or acquired corporation and such property is substituted basis property in the hands of the transferee,
 
 &emsp;&emsp;(B) by reason of the death of the person making such election,
 
@@ -198,7 +198,7 @@ If any gain is realized by the taxpayer on the sale or exchange of any qualified
 
 &emsp;(1) the statutory period for the assessment of any deficiency with respect to such gain shall not expire before the expiration of 3 years from the date the Secretary is notified by the taxpayer (in such manner as the Secretary may by regulations prescribe) of—
 
-&emsp;&emsp;(A) the taxpayer's cost of purchasing qualified replacement property which the taxpayer claims results in nonrecognition of any part of such gain,
+&emsp;&emsp;(A) the taxpayer's cost of purchasing qualified replacement property which thetaxpayer claims results in nonrecognition of any part of such gain,
 
 &emsp;&emsp;(B) the taxpayer's intention not to purchase qualified replacement property within the replacement period, or
 
@@ -206,7 +206,11 @@ If any gain is realized by the taxpayer on the sale or exchange of any qualified
 
 &emsp;(2) such deficiency may be assessed before the expiration of such 3-year period notwithstanding the provisions of any other law or rule of law which would otherwise prevent such assessment.
 
-(Added Pub. L. 98–369, div. A, title V, §541(a), July 18, 1984, 98 Stat. 887; amended Pub. L. 99–514, title XVIII, §§1854(a)(1), (2)(A), (3)(B), (4), (5)(A), (6)(A), (7), (8)(A), (9)(B), (10), (11), (f)(3)(B), 1899A(26), Oct. 22, 1986, 100 Stat. 2872–2878, 2882, 2959; Pub. L. 100–647, title I, §1018(t)(4)(D)–(F), Nov. 10, 1988, 102 Stat. 3588; Pub. L. 101–239, title VII, §7303(a), Dec. 19, 1989, 103 Stat. 2352; Pub. L. 101–508, title XI, §11801(c)(9)(H), Nov. 5, 1990, 104 Stat. 1388–526.)
+(Added Pub. L. 98–369, div. A, title V, §541(a), July 18, 1984, 98 Stat. 887; amended Pub. L. 99–514, title XVIII, §§1854(a)(1), (2)(A), (3)(B), (4), (5)(A), (6)(A), (7), (8)(A), (9)(B), (10), (11), (f)(3)(B), 1899A(26), Oct. 22, 1986, 100 Stat. 2872–2878, 2882, 2959; Pub. L. 100–647, title I, §1018(t)(4)(D)–(F), Nov. 10, 1988, 102 Stat. 3588; Pub. L. 101–239, title VII, §7303(a), Dec. 19, 1989, 103 Stat. 2352; Pub. L. 101–508, title XI, §11801(c)(9)(H), Nov. 5, 1990, 104 Stat. 1388–526; Pub. L. 104–188, title I, §§1311(b)(3), 1316(d)(3), 1616(b)(13), 1704(t)(50), Aug. 20, 1996, 110 Stat. 1784, 1786, 1857, 1890.)
+
+#### Amendment of Subsection (c)
+
+<i>Pub. L. 104–188, title I, §1316(d)(3), (f), Aug. 20, 1996, 110 Stat. 1786, 1787, provided that applicable to taxable years beginning after Dec. 31, 1997, subsection (c)(1)(A) of this section is amended by striking “domestic corporation” and inserting “domestic C corporation”.</i>
 
 #### References in Text
 
@@ -216,7 +220,13 @@ The Tax Reform Act of 1986, referred to in subsec. (c)(4)(A), is Pub. L. 99–51
 
 #### Amendments
 
-1990—Subsec. (c)(1)(B)(ii). Pub. L. 101–508, which directed the amendment of subsec. (c)(2)(B)(ii) by substituting “section 83, 422, or 423 applied (or to which section 422 or 424 (as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1990) applied)” for “section 83, 422, 422A, 423, or 424 applies”, was executed to subsec. (c)(1)(B)(ii) to reflect the probable intent of Congress.
+1996—Subsec. (c)(1)(B)(ii). Pub. L. 104–188, §1704(t)(50), provided that section 11801(c)(9)(H) of Pub. L. 101–508 shall be applied as if “section 1042(c)(1)(B)” appeared instead of “section 1042(c)(2)(B)”. See 1990 Amendment note below.
+
+Subsec. (c)(4)(A)(i). Pub. L. 104–188, §1311(b)(3), substituted “section 1362(d)(3)(C)” for “section 1362(d)(3)(D)”.
+
+Subsec. (c)(4)(B)(ii)(I). Pub. L. 104–188, §1616(b)(13), struck out “or 593” after “section 581”.
+
+1990—Subsec. (c)(1)(B)(ii). Pub. L. 101–508, which directed the amendment of subsec. (c)(2)(B)(ii) by substituting “section 83, 422, or 423 applied (or to which section 422 or 424 (as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1990) applied)” for “section 83, 422, 422A, 423, or 424 applies”, was executed to subsec. (c)(1)(B)(ii). See 1996 Amendment note above.
 
 1989—Subsec. (b)(4). Pub. L. 101–239 added par. (4).
 
@@ -254,13 +264,21 @@ Subsec. (d). Pub. L. 99–514, §1854(a)(7), inserted last sentence.
 
 Subsecs. (e), (f). Pub. L. 99–514, §1854(a)(8)(A), added subsec. (e) and redesignated former subsec. (e) as (f).
 
+#### Effective Date of 1996 Amendment
+
+Amendment by section 1316(d)(3) of Pub. L. 104–188 applicable to taxable years beginning after Dec. 31, 1997, see section 1316(f) of Pub. L. 104–188, set out as a note under section 170 of this title.
+
+Amendment by section 1311(b)(3) of Pub. L. 104–188 applicable to taxable years beginning after Dec. 31, 1996, see section 1317(a) of Pub. L. 104–188, set out as a note under section 641 of this title.
+
+Amendment by section 1616(b)(13) of Pub. L. 104–188 applicable to taxable years beginning after Dec. 31, 1995, see section 1616(c) of Pub. L. 104–188, set out as a note under section 593 of this title.
+
 #### Effective Date of 1989 Amendment
 
 Section 7303(b) of Pub. L. 101–239 provided that: “The amendment made by this section \[amending this section\] shall apply to sales after July 10, 1989.”
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
+Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision ofthe Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
 #### Effective Date of 1986 Amendment
 

@@ -14,7 +14,7 @@ For purposes of this subchapter—
 
 &emsp;(6) The term “processing site” means—
 
-&emsp;&emsp;(A) any site, including the mill, containing residual radioactive materials at which all or substantially all of the uranium was produced for sale to any Federal agency prior to January 1, 1971 under a contract with any Federal agency, except in the case of a site at or near Slick Rock, Colorado, unless—
+&emsp;&emsp;(A) any site, including the mill, containing residual radioactive materials at which all or substantially all of the uranium was produced for sale to any Federal agency prior toJanuary 1, 1971 under a contract with any Federal agency, except in the case of a site at or near Slick Rock, Colorado, unless—
 
 &emsp;&emsp;&emsp;(i) such site was owned or controlled as of January 1, 1978, or is thereafter owned or controlled, by any Federal agency, or
 
@@ -26,7 +26,7 @@ For purposes of this subchapter—
 
 &emsp;&emsp;&emsp;(ii) is determined by the Secretary, in consultation with the Commission, to be contaminated with residual radioactive materials derived from such site.
 
-> &emsp;Any ownership or control of an area by a Federal agency which is acquired pursuant to acooperative agreement under this subchapter shall not be treated as ownership or control by such agency for purposes of subparagraph (A)(i). A license for the production of any uranium product from residual radioactive materials shall not be treated as a license for production from ores within the meaning of subparagraph (A)(ii) if such production is in accordance with section 7918(b) of this title.
+> &emsp;Any ownership or control of an area by a Federal agency which is acquired pursuant to a cooperative agreement under this subchapter shall not be treated as ownership or control by such agency for purposes of subparagraph (A)(i). A license for the production of any uranium product from residual radioactive materials shall not be treated as a license for production from ores within the meaning of subparagraph (A)(ii) if such production is in accordance with section 7918(b) of this title.
 
 &emsp;(7) The term “residual radioactive material” means—
 

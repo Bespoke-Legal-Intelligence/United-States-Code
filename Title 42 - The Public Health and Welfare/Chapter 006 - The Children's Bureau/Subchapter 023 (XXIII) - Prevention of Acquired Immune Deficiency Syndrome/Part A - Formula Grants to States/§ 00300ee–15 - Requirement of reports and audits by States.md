@@ -2,7 +2,7 @@
 
 #### (a) Reports
 
-The Secretary may not make payments under section 300ee–11(a) of this title for a fiscal year unless the State involved agrees to prepare and submit to the Secretary an annual report insuch form and containing such information as the Secretary determines to be necessary for—
+The Secretary may not make payments under section 300ee–11(a) of this title for a fiscal year unless the State involved agrees to prepare and submit to the Secretary an annual report in such form and containing such information as the Secretary determines to be necessary for—
 
 &emsp;(1) securing a record and a description of the purposes for which payments received by the State pursuant to such section were expended and of the recipients of such payments;
 

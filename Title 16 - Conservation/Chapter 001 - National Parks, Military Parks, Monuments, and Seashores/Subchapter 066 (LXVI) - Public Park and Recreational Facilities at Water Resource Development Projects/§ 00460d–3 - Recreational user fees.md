@@ -20,11 +20,33 @@ No entrance or admission fees shall be collected after March 31, 1970, by any of
 
 #### (4) Deposit into Treasury account
 
-&emsp;All fees collected under this subsection shall be deposited into the Treasury account for the Corps of Engineers established by section 460<i>l</i>–6a(i) of this title.
+&emsp;All fees collected under this subsection shall be deposited into the Treasury account for the Corps of Engineers established by section 460<i>l</i>–6a(i) of this title and, subject to the availability of appropriations, shall be used for the purposes specified in section 460<i>l</i>–6a(i)(3) of this title at the water resources development project at which the fees were collected.
 
-(Pub. L. 90–483, title II, §210, Aug. 13, 1968, 82 Stat. 746; Pub. L. 103–66, title V, §5001(a), Aug. 10, 1993, 107 Stat. 378.)
+(Pub. L. 90–483, title II, §210, Aug. 13, 1968, 82 Stat. 746; Pub. L. 103–66, title V, §5001(a), Aug. 10, 1993, 107 Stat. 378; Pub. L. 104–303, title II, §208(b)(1), Oct. 12, 1996, 110 Stat. 3680.)
 
 #### Amendments
 
+1996—Subsec. (b)(4). Pub. L. 104–303 inserted before period at end “and, subject to the availability of appropriations, shall be used for the purposes specified in section 460<i>l</i>–6a(i)(3) of this title at the water resources development project at which the fees were collected”.
+
 1993—Pub. L. 103–66 inserted section catchline, struck out second sentence, designated remaining text as subsec. (a) and inserted heading, and added subsec. (b). Prior to amendment, second sentence read as follows: “User fees at these lakes and reservoirs shall be collected by officers and employees of the United States only from users of highly developed facilities requiring continuous presence of personnel for maintenance and supervision of the facilities, and shall not be collected for access to or use of water areas, undeveloped or lightly developed shoreland, picnic grounds, overlook sites, scenic drives, or boat launching ramps where no mechanical or hydraulic equipment is provided.”
+
+#### Alternative to Annual Passes
+
+Section 208(c) of Pub. L. 104–303 provided that:
+
+“(1)
+
+In general.—The Secretary shall evaluate the feasibility of implementing an alternative to the $25 annual pass that the Secretary currently offers to users of recreation facilities at water resources projects of the Corps of Engineers.
+
+“(2)
+
+Annual pass.—The evaluation under paragraph (1) shall include the establishment on a test basis of an annual pass that costs $10 or less for the use of recreation facilities, including facilities at Raystown Lake, Pennsylvania.
+
+“(3)
+
+Report.—Not later than December 31, 1999, the Secretary shall transmit to Congress a report on the results of the evaluation carried out under this subsection, together with recommendations concerning whether annual passes for individual projects should be offered on a nationwide basis.
+
+“(4)
+
+Expiration of authority.—The authority to establish an annual pass under paragraph (2) shall expire on the later of December 31, 1999, or the date of transmittal of the report under paragraph (3).”
 

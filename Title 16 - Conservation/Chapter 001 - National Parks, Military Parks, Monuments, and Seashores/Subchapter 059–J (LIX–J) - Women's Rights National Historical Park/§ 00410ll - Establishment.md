@@ -14,9 +14,9 @@ The Congress finds that—
 
 It is the purpose of this section to preserve and interpret for the education, inspiration, and benefit of present and future generations the nationally significant historical and cultural sites and structures associated with the struggle for equal rights for women and to cooperate with State and local entities to preserve the character and historic setting of such sites and structures.
 
-#### (c) Designation; composition
+#### (c) Establishment
 
-To carry out the purpose of this section there is hereby established the Women's Rights National Historical Park (hereinafter in this section referred to as the “park”). The park shall consist initially of the following designated sites in Seneca Falls and Waterloo, New York:
+To carry out the purposes of this section there is hereby established the Women's Rights National Historical Park (hereinafter in this section referred to as the “park”). The park shall consist of the following designated sites in Seneca Falls and Waterloo, New York:
 
 &emsp;(1) Stanton House, 32 Washington Street, Seneca Falls;
 
@@ -30,15 +30,23 @@ To carry out the purpose of this section there is hereby established the Women's
 
 &emsp;(6) theater, 128 Fall Street, Seneca Falls;
 
-&emsp;(7) Bloomer House, 53 East Bayard Street;
+&emsp;(7) McClintock House, 16 East Williams Street, Waterloo;
 
-&emsp;(8) McClintock House and related structures, 14 and 16 East Williams Street, Waterloo; and
+&emsp;(8) Hunt House, 401 East Williams Street, Waterloo;
 
-&emsp;(9) Hunt House, 401 East Main Street, Waterloo.
+&emsp;(9) not to exceed 1 acre, plus improvements, as determined by the Secretary, in Seneca Falls for development of a maintenance facility;
+
+&emsp;(10) dwelling, 1 Seneca Street, Seneca Falls;
+
+&emsp;(11) dwelling, 10 Seneca Street, Seneca Falls;
+
+&emsp;(12) parcels adjacent to Wesleyan Chapel Block, including Clinton Street, Fall Street, and Mynderse Street, Seneca Falls; and
+
+&emsp;(13) dwelling, 12 East Williams Street, Waterloo.
 
 #### (d) Acquisition of lands and interests
 
-The Secretary is authorized to acquire by donation, purchase with donated or appropriated funds, transfer from any other Federal agency, or exchange lands and interests therein within sites designated as part of the park, except that the Secretary may not acquire the fee simple title to the land comprising the sites designated in paragraphs (7) and (9) of subsection (c) of this section. Lands and interests therein owned by a State or political subdivision thereof may be acquired only by donation. Within two years of theacquisition of the property listed in subsection (c)(8) of this section the Secretary shall have removed all structures from the property that are not relevant to the historic integrity of the McClintock House.
+The Secretary is authorized to acquire by donation, purchase with donated or appropriated funds, transfer from any other Federal agency, or exchange lands and interests therein within sites designated as part of the park, except that the Secretary may not acquire the fee simple title to the land comprising the sites designated in paragraphs (7) and (9) of subsection (c) of this section. Lands and interests therein owned by a State or political subdivision thereof may be acquired only by donation. Within two years of the acquisition of the property listed in subsection (c)(8) of this section the Secretary shall have removed all structures from the property that are not relevant to the historic integrity of the McClintock House.
 
 #### (e) Cooperative agreements
 
@@ -78,15 +86,39 @@ The Secretary shall administer the park in accordance with the provisions of thi
 
 #### (i) Authorization of appropriations
 
-There are authorized to be appropriated such sums as may be necessary to carry out the provisions of this section, but not to exceed $700,000 for acquisition, and $500,000 for development.
+(1) There are authorized to be appropriated such sums as may be necessary to carry out the provisions of this section, but not to exceed $700,000 for acquisition, and $500,000 for development.
 
-(Pub. L. 96–607, title XVI, §1601, Dec. 28, 1980, 94 Stat. 3546; Pub. L. 98–402, Aug. 28, 1984, 98 Stat. 1478; Pub. L. 100–475, §1, Oct. 6, 1988, 102 Stat. 2303.)
+(2) In addition to those sums appropriated prior to November 12, 1996, for land acquisition and development, there is hereby authorized to be appropriated an additional $2,000,000.
+
+(Pub. L. 96–607, title XVI, §1601, Dec. 28, 1980, 94 Stat. 3546; Pub. L. 98–402, Aug. 28, 1984, 98 Stat. 1478; Pub. L. 100–475, §1, Oct. 6, 1988, 102 Stat. 2303; Pub. L. 104–333, div. I, title V, §505, Nov. 12, 1996, 110 Stat. 4155.)
 
 #### References in Text
 
 The effective date of this section, referred to in subsec. (h)(5), probably means the date of enactment of Pub. L. 96–607, which was approved Dec. 28, 1980.
 
 #### Amendments
+
+1996—Subsec. (c). Pub. L. 104–333, §505(a), inserted heading and amended text generally. Prior to amendment, text read as follows: “To carry out the purpose of this section there is hereby established the Women's Rights National Historical Park (hereinafter in this section referred to as the ‘park’). The park shall consist initially of the following designated sites in Seneca Falls and Waterloo, New York:
+
+&emsp;“(1) Stanton House, 32 Washington Street, Seneca Falls;
+
+&emsp;“(2) dwelling, 30 Washington Street, Seneca Falls;
+
+&emsp;“(3) dwelling, 34 Washington Street, Seneca Falls;
+
+&emsp;“(4) lot, 26–28 Washington Street, Seneca Falls;
+
+&emsp;“(5) former Wesleyan Chapel, 126 Fall Street, Seneca Falls;
+
+&emsp;“(6) theater, 128 Fall Street, Seneca Falls;
+
+&emsp;“(7) Bloomer House, 53 East Bayard Street;
+
+&emsp;“(8) McClintock House and related structures, 14 and 16 East Williams Street, Waterloo; and
+
+&emsp;“(9) Hunt House, 401 East Main Street, Waterloo.”
+
+Subsec. (i). Pub. L. 104–333, §505(b), designated existing provisions as par. (1) and added par. (2).
 
 1988—Subsec. (i). Pub. L. 100–475 substituted “$700,000” for “$490,000”.
 

@@ -38,7 +38,7 @@ In accordance with the regulations or guidelines established by the Attorney Gen
 
 #### (1) Small jurisdictions
 
-&emsp;Notwithstanding any other provision of this subchapter, in relation to applications underthis subchapter of units of local government or law enforcement agencies having jurisdiction over areas with populations of less than 50,000, the Attorney General may waive 1 or more of the requirements of subsection (c) of this section and may otherwise make special provisions to facilitate the expedited submission, processing, and approval of such applications.
+&emsp;Notwithstanding any other provision of this subchapter, in relation to applications under this subchapter of units of local government or law enforcement agencies having jurisdiction over areas with populations of less than 50,000, the Attorney General may waive 1 or more of the requirements of subsection (c) ofthis section and may otherwise make special provisions to facilitate the expedited submission, processing, and approval of such applications.
 
 #### (2) Small grant amount
 

@@ -30,3 +30,7 @@
 
 Section effective 90 days following Apr. 10, 1989, see section 11 of Pub. L. 101–12, set out as an Effective Date of 1989 Amendment note under section 1201 of this title.
 
+#### Section Referred to in Other Sections
+
+This section is referred to in title 10 section 1599c.
+

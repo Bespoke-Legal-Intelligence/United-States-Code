@@ -32,7 +32,7 @@ Subsec. (c). Pub. L. 102–408, §207(b), inserted before period at end of first
 
 1988—Subsec. (a)(1). Pub. L. 100–607, §712(a)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The Secretary may make grants to public or private nonprofit institutions to cover the costs of traineeships for the training, in programs which meet such requirements as the Secretary shall by regulation prescribe and which are accredited by an entity or entities designated by the Secretary of Education, of licensed, registered nurses to be nurse anesthetists.”
 
-Subsec. (a)(2). Pub. L. 100–607, §712(a)(2), amended second sentence generally. Prior to amendment, sentence read as follows: “Such payments may be used only for traineeships and shall be limited to such amounts as the Secretary finds necessary to cover the costs of tuition and fees, and a stipend and allowances (including travel and subsistence expenses) for the trainees.”
+Subsec. (a)(2). Pub. L. 100–607, §712(a)(2), amended second sentence generally. Prior to amendment, sentence read as follows: “Such payments may be used only fortraineeships and shall be limited to such amounts as the Secretary finds necessary to cover the costs of tuition and fees, and a stipend and allowances (including travel and subsistence expenses) for the trainees.”
 
 Subsec. (c). Pub. L. 100–607, §712(b), amended first sentence generally. Prior to amendment, sentence read as follows: “For the purpose of making grants under this section, there are authorized to be appropriated $800,000 for the fiscal year ending September 30, 1986, $800,000 for the fiscal year ending September 30, 1987, and $800,000 for the fiscal year ending September 30, 1988.”
 

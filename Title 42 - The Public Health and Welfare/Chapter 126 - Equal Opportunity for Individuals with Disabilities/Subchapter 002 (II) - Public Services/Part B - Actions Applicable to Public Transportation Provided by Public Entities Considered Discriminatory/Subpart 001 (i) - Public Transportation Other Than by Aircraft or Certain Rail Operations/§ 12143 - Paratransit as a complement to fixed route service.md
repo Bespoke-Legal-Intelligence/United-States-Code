@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-It shall be considered discrimination for purposes of section 12132 of this title and section 794 of title 29 for a public entity which operates afixed route system (other than a system which provides solely commuter bus service) to fail to provide with respect to the operations of its fixed route system, in accordance with this section, paratransit and other special transportation services to individuals with disabilities, including individuals who use wheelchairs, that are sufficient to provide to such individuals a level of service (1) which is comparable to the level of designated public transportation services provided to individuals without disabilities using such system; or (2) in the case of response time, which is comparable, to the extent practicable, to the level of designated public transportation services provided to individuals without disabilities using such system.
+It shall be considered discrimination for purposes of section 12132 of this title and section 794 of title 29 for a public entity which operates a fixed route system (other than a system which provides solely commuter bus service) to fail to provide with respect to the operations of its fixed route system, in accordance with this section, paratransit and other special transportation services to individuals with disabilities, including individuals who use wheelchairs, that are sufficient to provide to such individuals a level of service (1) which is comparable to the level of designated public transportation services provided to individuals without disabilities using such system; or (2) in the case of response time, which is comparable, to the extent practicable, to the level of designated public transportation services provided to individuals without disabilities using such system.
 
 #### (b) Issuance of regulations
 
@@ -58,7 +58,7 @@ Not later than 1 year after July 26, 1990, the Secretary shall issue final regul
 
 &emsp;The regulations issued under this section shall—
 
-&emsp;&emsp;(A) require that a public entity submitting a plan to the Secretary under this sectionidentify in the plan any person or other public entity which is providing a paratransit or other special transportation service for individuals with disabilities in the service area to which the plan applies; and
+&emsp;&emsp;(A) require that a public entity submitting a plan to the Secretary under this section identify in the plan any person or other public entity which is providing a paratransit or other special transportation service for individuals with disabilities in the service area to which the plan applies; and
 
 &emsp;&emsp;(B) provide that the public entity submitting the plan does not have to provide under the plan such service for individuals with disabilities.
 

@@ -12,7 +12,9 @@ Service.—An agent may be served at the agent's office or usual place of reside
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

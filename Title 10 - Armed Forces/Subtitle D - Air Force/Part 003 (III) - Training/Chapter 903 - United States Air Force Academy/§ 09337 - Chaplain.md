@@ -1,6 +1,6 @@
 ### §9337. Chaplain
 
-There shall be a chaplain at the Academy, who must be a clergyman, appointed by the President for a term of four years. The chaplain is entitled to the same allowances for public quarters as are allowed to a captain, and to fuel and lightfor quarters in kind. The chaplain may be reappointed.
+There shall be a chaplain at the Academy, who must be a clergyman, appointed by the President for a term of four years. The chaplain is entitled to the same allowances for public quarters as are allowed to a captain, and to fuel and light for quarters in kind. The chaplain may be reappointed.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 562; Sept. 7, 1962, Pub. L. 87–651, title I, §117, 76 Stat. 513.)
 

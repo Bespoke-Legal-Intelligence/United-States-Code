@@ -20,13 +20,17 @@ Time limit.—The maximum time limit under paragraph (1)(A) is 120 days.
 
 (b)
 
-Reviews by Comptroller General.—The Comptroller General of the United States shall carry out reviews of the activities of the Secretary, State governments, and units of general local government necessary for the Congress to evaluate compliance and operations under this chapter. These reviews shall include a comparison of the waste and inefficiency of local governments using funds under this chapter compared to waste and inefficiency with other comparable Federal programs.
+Reviews by Comptroller General.—The Comptroller General of the United States may carry out reviews of the activities of the Secretary, State governments, and units of general local government necessary for the Congress to evaluate compliance and operations under this chapter. These reviews may include a comparison of the waste and inefficiency of local governments using funds under this chapter compared to waste and inefficiency with other comparable Federal programs.
 
-(Added Pub. L. 103–322, title III, §31001(a), Sept. 13, 1994, 108 Stat. 1879.)
+(Added Pub. L. 103–322, title III, §31001(a), Sept. 13, 1994, 108 Stat. 1879; amended Pub. L. 104–316, title I, §115(k), Oct. 19, 1996, 110 Stat. 3835.)
 
 #### Prior Provisions
 
 A prior section 6718, Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 1026; Pub. L. 98–185, §9(i), Nov. 30, 1983, 97 Stat. 1312, related to suspension and termination of payments in discrimination proceedings, prior to repeal by Pub. L. 99–272, title XIV, §14001(a)(1), (e), Apr. 7, 1986, 100 Stat. 327, 329, eff. Oct. 18, 1986.
+
+#### Amendments
+
+1996—Subsec. (b). Pub. L. 104–316 substituted “may” for “shall” before “carry” and “include”.
 
 #### Section Referred to in Other Sections
 

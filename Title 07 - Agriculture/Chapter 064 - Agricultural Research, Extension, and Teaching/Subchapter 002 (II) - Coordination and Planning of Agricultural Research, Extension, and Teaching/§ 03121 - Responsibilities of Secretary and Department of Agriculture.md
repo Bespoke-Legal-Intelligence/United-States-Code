@@ -10,7 +10,7 @@ The Department of Agriculture is designated as the lead agency of the Federal Go
 
 &emsp;(4) take the initiative in establishing coordination of State-Federal cooperative agricultural research, extension, and teaching programs, funded in whole or in part by the Department of Agriculture in each State, through the administrative heads of land-grant colleges and universities and the State directors of agricultural experiment stations and cooperative extension services, and other appropriate program administrators;
 
-&emsp;(5) consult the Joint Council, Advisory Board, and appropriate advisory committees of the Department of Agriculture in the formulation of basic policies, goals, strategies, and priorities for programs of agricultural research, extension, and teaching;
+&emsp;(5) consult the Advisory Board and appropriate advisory committees of the Department of Agriculture in the formulation of basic policies, goals, strategies, and priorities for programs of agricultural research, extension, and teaching;
 
 &emsp;(6) report (as a part of the Department of Agriculture's annual budget submissions) to the House Committee on Agriculture, the House Committee on Appropriations, the Senate Committee on Agriculture, Nutrition, and Forestry, and the Senate Committee on Appropriations actions taken or proposed to support the recommendations of the Advisory Board;
 
@@ -22,13 +22,19 @@ The Department of Agriculture is designated as the lead agency of the Federal Go
 
 &emsp;(10) coordinate all agricultural research, extension, and teaching activities conducted or financed by the Department of Agriculture with the periodic renewable resource assessment and program provided for in sections 1601 and 1602 of title 16 and the appraisal and program provided for in sections 2004 and 2005 of title 16;
 
-&emsp;(11) coordinate the efforts of States, State cooperative institutions, State extension services, the Joint Council, the Advisory Board, and other appropriate institutions in assessing the current status of, and developing a plan for, the effective transfer of new technologies, including biotechnology, to the farming community, with particular emphasis on addressing the unique problems of small- and medium-sized farms in gaining information about those technologies; and
+&emsp;(11) coordinate the efforts of States, State cooperative institutions, State extension services, the Advisory Board, and other appropriate institutions in assessing the current status of, and developing a plan for, the effective transfer of new technologies, including biotechnology, to the farming community, with particular emphasis on addressing the unique problems of small- and medium-sized farms in gaining information about those technologies; and
 
-&emsp;(12) establish, after coordination with the Technology Board, appropriate controls with respect to the development and use of the application of biotechnology to agriculture.
+&emsp;(12) establish appropriate controls with respect to the development and use of the application of biotechnology to agriculture.
 
-(Pub. L. 95–113, title XIV, §1405, Sept. 29, 1977, 91 Stat. 985; Pub. L. 97–98, title XIV, §1405, Dec. 22, 1981, 95 Stat. 1298; Pub. L. 99–198, title XIV,§1404, Dec. 23, 1985, 99 Stat. 1544; Pub. L. 101–624, title XVI, §1605(b)(3), Nov. 28, 1990, 104 Stat. 3714.)
+(Pub. L. 95–113, title XIV, §1405, Sept. 29, 1977, 91 Stat. 985; Pub. L. 97–98, title XIV, §1405, Dec. 22, 1981, 95 Stat. 1298; Pub. L. 99–198, title XIV, §1404, Dec. 23, 1985, 99 Stat. 1544; Pub. L. 101–624, title XVI, §1605(b)(3), Nov. 28, 1990, 104 Stat. 3714; Pub. L. 104–127, title VIII, §§852(b)(1), 853(b)(2), Apr. 4, 1996, 110 Stat. 1171, 1172.)
 
 #### Amendments
+
+1996—Par. (5). Pub. L. 104–127, §852(b)(1)(A), substituted “Advisory Board” for “Joint Council, Advisory Board,”.
+
+Par. (11). Pub. L. 104–127, §852(b)(1)(B), struck out “the Joint Council,” before “the Advisory Board”.
+
+Par. (12). Pub. L. 104–127, §853(b)(2), struck out “, after coordination with the Technology Board,” after “establish”.
 
 1990—Par. (12). Pub. L. 101–624 inserted “, after coordination with the Technology Board,” after “establish”.
 

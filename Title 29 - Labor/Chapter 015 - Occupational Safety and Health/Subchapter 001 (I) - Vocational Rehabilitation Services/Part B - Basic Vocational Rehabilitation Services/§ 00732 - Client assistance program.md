@@ -14,7 +14,7 @@ No State may receive payments from its allotment under this chapter in any fisca
 
 #### (c) Designation of agency to conduct program
 
-(1)(A) The Governor shall designate a public or private agency to conduct the client assistanceprogram under this section. Except as provided in the last sentence of this paragraph, the Governor shall designate an agency which is independent of any agency which provides treatment, services, or rehabilitation to individuals under this chapter. If there is an agency in the State which has, or had, prior to February 22, 1984, served as a client assistance agency under this section and which received Federal financial assistance under this chapter, the Governor may, in the initial designation, designate an agency which provides treatment, services, or rehabilitation to individuals with disabilities under this chapter.
+(1)(A) The Governor shall designate a public or private agency to conduct the client assistance program under this section. Except as provided in the last sentence of this paragraph, the Governor shall designate an agency which is independent of any agency which provides treatment, services, or rehabilitation to individuals under this chapter. If there is an agency in the State which has, or had, prior to February 22, 1984, served as a client assistance agency under this section and which received Federal financial assistance under this chapter, the Governor may, in the initial designation, designate an agency which provides treatment, services, or rehabilitation to individuals with disabilities under this chapter.
 
 (B) The Governor may not redesignate the agency designated under subparagraph (A) without good cause and unless—
 
@@ -66,7 +66,7 @@ The Secretary shall prescribe regulations applicable to the client assistance pr
 
 &emsp;(4), (5). Repealed. Pub. L. 104–66, title I, §1041(c)(1), Dec. 21, 1995, 109 Stat. 714.
 
-&emsp;(6) For purposes of any periodic audit, report, or evaluation of the performance of a client assistance program under this section, the Secretary shall not require such a program to disclose the identity of, or any other personally identifiable information related to, anyindividual requesting assistance under such program.
+&emsp;(6) For purposes of any periodic audit, report, or evaluation of the performance of a client assistance program under this section, the Secretary shall not require such a program to disclose the identity of, or any other personally identifiable information related to, any individual requesting assistance under such program.
 
 #### (h) Authorization of appropriations
 
@@ -96,7 +96,7 @@ Subsec. (g)(6). Pub. L. 104–66, §1041(c)(2), substituted “any” for “suc
 
 1993—Subsec. (a). Pub. L. 103–73, §107(g)(1), in first sentence substituted “community rehabilitation programs” for “facilities” before “providing services to them”.
 
-Subsec. (e)(1)(D)(ii). Pub. L. 103–73, §107(g)(2), added cl. (ii) and struck out former cl. (ii) which read as follows: “Subject to clause (i), the Commissioner may increase the minimum allotments under subparagraphs (A) and (B) for any fiscal year for which funds appropriated under this section for such fiscal year exceed the sums appropriated under this section for the preceding fiscal year.”
+Subsec. (e)(1)(D)(ii). Pub. L. 103–73, §107(g)(2), added cl. (ii) and struck out former cl. (ii) which read as follows: “Subject to clause (i), the Commissioner may increase the minimum allotments under subparagraphs\(A) and (B) for any fiscal year for which funds appropriated under this section for such fiscal year exceed the sums appropriated under this section for the preceding fiscal year.”
 
 1992—Subsec. (a). Pub. L. 102–569, §133(a), in first sentence, substituted “to assist and advocate for such clients” for “to assist such clients”, inserted “and advocacy” after “including assistance”, and inserted before period “and to facilitate access to the services funded under this chapter through individual and systemic advocacy”, amended second sentence generally, and inserted at end “In providing assistance and advocacy under this subsection with respect to services under this subchapter, a client assistance program may provide the assistance and advocacy with respect to services that are directly related to facilitating the employment of the individual.”. Prior to amendment, second sentence read as follows: “The client assistance program may provide information on the available services under this chapter to any individuals with disabilities in the State.”
 

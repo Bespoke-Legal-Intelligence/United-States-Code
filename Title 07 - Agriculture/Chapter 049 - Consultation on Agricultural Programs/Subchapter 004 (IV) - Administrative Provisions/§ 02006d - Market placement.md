@@ -10,5 +10,5 @@ For definition of “this chapter”, referred to in text, see note set out unde
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1948, 1949, 1983a of this title.
+This section is referred to in sections 1949, 1983a of this title.
 

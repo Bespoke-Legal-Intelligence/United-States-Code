@@ -14,7 +14,7 @@ The Secretary of Agriculture shall, within ten years after September 3, 1964, re
 
 #### (c) Review by Secretary of the Interior of roadless areas of national park system and national wildlife refuges and game ranges and suitability of areas for preservation as wilderness; authority of Secretary of the Interior to maintain roadless areas in national park system unaffected
 
-Within ten years after September 3, 1964 the Secretary of the Interior shall review every roadless area of five thousand contiguous acres or more in the national parks, monuments and other units of the national park system and every such area of, and every roadless island within the national wildlife refuges and game ranges, under his jurisdiction on September 3, 1964 and shall report to the President his recommendation as to the suitability or nonsuitability of each such area or island for preservation as wilderness. The President shall advise the President of the Senate and the Speaker of the House of Representatives of his recommendation with respect to the designation as wilderness of each such area or island on whichreview has been completed, together with a map thereof and a definition of its boundaries. Such advice shall be given with respect to not less than one-third of the areas and islands to be reviewed under this subsection within three years after September 3, 1964, not less than two-thirds within seven years of September 3, 1964 and the remainder within ten years of September 3, 1964. A recommendation of the President for designation as wilderness shall become effective only if so provided by an Act of Congress. Nothing contained herein shall, by implication or otherwise, be construed to lessen the present statutory authority of the Secretary of the Interior with respect to the maintenance of roadless areas within units of the national park system.
+Within ten years after September 3, 1964 the Secretary of the Interior shall review every roadless area of five thousand contiguous acres or more in the national parks, monuments and other units of the national park system and every such area of, and every roadless island within the national wildlife refuges and game ranges, under his jurisdiction on September 3, 1964 and shall report to the President his recommendation as to the suitability or nonsuitability of each such area or island for preservation as wilderness. The President shall advise the President of the Senate and the Speaker of the House of Representatives of his recommendation with respect to the designation as wilderness of each such area or island on which review has been completed, together with a map thereof and a definition of its boundaries. Such advice shall be given with respect to not less than one-third of the areas and islands to be reviewed under this subsection within three years after September 3, 1964, not less than two-thirds within seven years of September 3, 1964 and the remainder within ten years of September 3, 1964. A recommendation of the President for designation as wilderness shall become effective only if so provided by an Act of Congress. Nothing contained herein shall, by implication or otherwise,be construed to lessen the present statutory authority of the Secretary of the Interior with respect to the maintenance of roadless areas within units of the national park system.
 
 #### (d) Conditions precedent to administrative recommendations of suitability of areas for preservation as wilderness; publication in Federal Register; public hearings; views of State, county, and Federal officials; submission of views to Congress
 
@@ -75,8 +75,6 @@ Apache Kid Wilderness, Cibola National Forest, New Mexico.—Pub. L. 96–550, t
 Aravaipa Canyon Wilderness, Graham and Pinal Counties, Arizona.—Pub. L. 98–406, title II, §201–205, Aug. 28, 1984, 98 Stat. 1491, 1492; Pub. L. 101–628, title I, §101(a)(39), Nov. 28, 1990, 104 Stat. 4472.
 
 Arc Dome Wilderness, Toiyabe National Forest, Nevada.—Pub. L. 101–195, §2(2), Dec. 5, 1989, 103 Stat. 1784.
-
-Arctic Wildlife Refuge Wilderness, Arctic National Wildlife Refuge, Alaska.—Pub. L. 96–487, title VII, §702(3), Dec. 2, 1980, 94 Stat. 2418.
 
 Argus Range Wilderness, California Desert Conservation Area, of Bureau of Land Management, California.—Pub. L. 103–433, title I, §102(1), Oct. 31, 1994, 108 Stat. 4472.
 
@@ -142,7 +140,7 @@ Billies Bay Wilderness, Ocala National Forest, Florida.—Pub. L. 98–430, §1(
 
 Birkhead Mountains Wilderness, Uwharrie National Forest, North Carolina.—Pub. L. 98–324, §2(1), June 19, 1984, 98 Stat. 263.
 
-Bisti Wilderness, Albuquerque District of Bureau of Land Management, New Mexico.—Pub. L. 98–603, title I, §102(1), Oct. 30, 1984, 98 Stat. 3155.
+Bisti/De-Na-Zin Wilderness, Albuquerque and Farmington Districts of Bureau of Land Management, New Mexico.—Pub. L. 98–603, title I, §102, Oct. 30, 1984, 98 Stat. 3155; Pub. L. 104–333, div. I, title X, §1022(b), Nov. 12, 1996, 110 Stat. 4211.
 
 Black Canyon of the Gunnison Wilderness, Black Canyon of the Gunnison National Monument, Colorado.—Pub. L. 94–567, §1(b), Oct. 20, 1976, 90 Stat. 2692.
 
@@ -208,7 +206,7 @@ Buffalo National River Wilderness, Buffalo National River, Arkansas.—Pub. L. 9
 
 Buffalo Peaks Wilderness, Pike and San Isabel National Forests, Colorado.—Pub. L. 103–77, §2(a)(3), Aug. 13, 1993, 107 Stat. 756.
 
-Bull of the Woods Wilderness, Mount Hood and Willamette National Forests, Oregon.—Pub. L. 98–328, §3(4), June 26, 1984, 98 Stat. 273.
+Bull of the Woods Wilderness, Mount Hood National Forest, Oregon.—Pub. L. 98–328, §3(4), June 26, 1984, 98 Stat. 273; Pub. L. 104–208, div. B, title I, §104(a)(2), Sept. 30, 1996, 110 Stat. 3009–523.
 
 Burden Falls Wilderness, Shawnee National Forest, Illinois.—Pub. L. 101–633, §3(3), Nov. 28, 1990, 104 Stat. 4577.
 
@@ -298,8 +296,6 @@ Collegiate Peaks Wilderness, Gunnison, San Isabel, and White River National Fore
 
 Colonel Bob Wilderness, Olympic National Forest, Washington.—Pub. L. 98–339, §3(4), July 3, 1984, 98 Stat. 300.
 
-Columbia Wilderness, Mount Hood National Forest, Oregon.—Pub. L. 98–328, §3(1), June 26, 1984, 98 Stat. 273.
-
 Comanche Peak Wilderness, Roosevelt National Forest, Colorado.—Pub. L. 96–560, title I, §102(a)(4), Dec. 22, 1980, 94 Stat. 3266.
 
 Congaree Swamp National Monument Wilderness, Congaree Swamp National Monument, South Carolina.—Pub. L. 100–524, §2, Oct. 24, 1988, 102 Stat. 2606.
@@ -341,8 +337,6 @@ Death Valley Wilderness, Death Valley National Park, California.—Pub. L. 103�
 Delirium Wilderness, Hiawatha National Forest, Michigan.—Pub. L. 100–184, §3(j), Dec. 8, 1987, 101 Stat. 1275.
 
 Denali Wilderness, Denali National Park and Preserve, Alaska.—Pub. L. 96–487, title VII, §701(1), Dec. 2, 1980, 94 Stat. 2417.
-
-De-na-zin Wilderness, Albuquerque District of Bureau of Land Management, New Mexico.—Pub. L. 98–603, title I, §102(2), Oct. 30, 1984, 98 Stat. 3155.
 
 Deseret Peak Wilderness, Wasatch National Forest, Utah.—Pub. L. 98–428, title I, §102(a)(12), Sept. 28, 1984, 98 Stat. 1658.
 
@@ -430,7 +424,7 @@ Garcia Wilderness, Los Padres National Forest, California.—Pub. L. 102–301, 
 
 Garden of the Gods Wilderness, Shawnee National Forest, Illinois.—Pub. L. 101–633, §3(5), Nov. 28, 1990, 104 Stat. 4577.
 
-Gates of the Arctic Wilderness, Gates of the Arctic National Park, Alaska.—Pub. L. 96–487, title VII, §701(2), Dec. 2, 1980, 94 Stat. 2417.
+Gates of the Arctic Wilderness, Gates of the Arctic National Park, Alaska.—Pub. L. 96–487, title VII, §701(2), Dec. 2, 1980, 94 Stat. 2417; Pub. L. 104–333, div. I, title III, §302(c)(1), Nov. 12, 1996, 110 Stat. 4118.
 
 Gates of the Mountains Wilderness, Helena National Forest, Montana.—Pub. L. 88–577, §3, Sept. 3, 1964, 78 Stat. 891.
 
@@ -606,7 +600,7 @@ Katmai Wilderness, Katmai National Park and Preserve, Alaska.—Pub. L. 96–487
 
 Kelso Dunes Wilderness, California Desert Conservation Area, of Bureau of Land Management, California.—Pub. L. 103–433, title I, §102(30), Oct. 31, 1994, 108 Stat. 4476.
 
-Kenai Wilderness, Kenai National Wildlife Refuge, Alaska.—Pub. L. 96–487, title VII, §702(7), Dec. 2, 1980, 94 Stat. 2418.
+Kenai Wilderness, Kenai National Wildlife Refuge, Alaska.—Pub. L. 96–487, title VII, §702(7), Dec. 2, 1980, 94 Stat. 2418; Pub. L. 104–333, div. I, title III, §311(e), Nov. 12, 1996, 110 Stat. 4144.
 
 Kendrick Mountain Wilderness, Kaibab and Coconino National Forests, Arizona.—Pub. L. 98–406, title I, §101(a)(12), Aug. 28, 1984, 98 Stat. 1486.
 
@@ -696,6 +690,8 @@ Manzano Mountain Wilderness, Cibola National Forest, New Mexico.—Pub. L. 95–
 
 Marble Mountain Wilderness, Klamath National Forest, California.—Pub. L. 88–577, §3, Sept. 3, 1964, 78 Stat. 891; Pub. L. 98–425, title I, §101(a)(14), Sept. 28, 1984, 98 Stat. 1621.
 
+Mark O. Hatfield Wilderness (former Columbia Wilderness), Mount Hood National Forest, Oregon.—Pub. L. 98–328, §3(1), June 26, 1984, 98 Stat. 273; Pub. L. 104–208, div. A, title I, §101(d) \[title III, §328\], Sept. 30, 1996, 110 Stat. 3009–181, 3009–227.
+
 Mark Trail Wilderness, Chattahoochee National Forest, Georgia.—Pub. L. 102–217, §2(a)(2), Dec. 11, 1991, 105 Stat. 1667.
 
 Maroon Bells-Snowmass Wilderness, Gunnison and White River National Forests, Colorado.—Pub. L. 88–577, §3, Sept. 3, 1964, 78 Stat. 891; Pub. L. 96–560, title I, §102(a)(9), Dec. 22, 1980, 94 Stat. 3266; Pub. L. 103–255, §4, May 19, 1994, 108 Stat. 686.
@@ -737,6 +733,8 @@ Misty Fjords National Monument Wilderness, Tongass National Forest, Alaska.—Pu
 Mojave Wilderness, Mojave National Park, California.—Pub. L. 103–433, title VI, §601(a)(3), Oct. 31, 1994, 108 Stat. 4496.
 
 Mokelumne Wilderness, Eldorado, Stanislaus, and Toiyake National Forests, California.—Pub. L. 88–577, §3, Sept. 3, 1964, 78 Stat. 891; Pub. L. 98–425, title I, §101(a)(16), Sept. 28, 1984, 98 Stat. 1620.
+
+Mollie Beattie Wilderness (former Arctic Wildlife Refuge Wilderness), Arctic National Wildlife Refuge, Alaska.—Pub. L. 96–487, title VII, §702(3), Dec. 2, 1980, 94 Stat. 2418; Pub. L. 104–167, July 29, 1996, 110 Stat. 1451.
 
 Monarch Wilderness, Sierra and Sequoia National Forests, California.—Pub. L. 98–425, title I, §101(a)(17), Sept. 28, 1984, 98 Stat. 1621.
 
@@ -822,7 +820,7 @@ New Water Mountains Wilderness, La Paz County, Arizona.—Pub. L. 101–628, tit
 
 Newberry Mountains Wilderness, California Desert Conservation Area, of Bureau of Land Management, California.—Pub. L. 103–433, title I, §102(39), Oct. 31, 1994, 108 Stat. 4477.
 
-Noatak Wilderness, Noatak National Preserve, Alaska.—Pub. L. 96–487, title VII, §701(7), Dec. 2, 1980, 94 Stat. 2417.
+Noatak Wilderness, Noatak National Preserve, Alaska.—Pub. L. 96–487, title VII, §701(7), Dec. 2, 1980, 94 Stat. 2417; Pub. L. 104–333, div. I, title III, §302(c)(3), Nov. 12, 1996, 110 Stat. 4119.
 
 Noisy-Diobsud Wilderness, Mount Baker-Snoqualmie National Forest, Washington.—Pub. L. 98–339, §3(14), July 3, 1984, 98 Stat. 301.
 
@@ -856,7 +854,9 @@ Old Woman Mountains Wilderness, California Desert Conservation Area, of Bureau o
 
 Olympic Wilderness, Olympic National Park, Washington.—Pub. L. 100–668, title I, §101, Nov. 16, 1988, 102 Stat. 3961.
 
-Oregon Islands Wilderness, Oregon Islands National Wildlife Refuge, Oregon.—Pub. L. 91–504, §1(b), Oct. 23, 1970, 84 Stat. 1104; Pub. L. 95–450, §12, Oct. 11, 1978, 92 Stat. 1098.
+Opal Creek Wilderness, Willamette National Forest, Oregon.—Pub. L. 104–208, div. B, title I, §104, Sept. 30, 1996, 110 Stat. 3009–523; Pub. L. 104–333, div. I, title X, §1023(c), Nov. 12, 1996, 110 Stat. 4215.
+
+Oregon Islands Wilderness, Oregon Islands National Wildlife Refuge, Oregon.—Pub. L. 91–504, §1(b), Oct. 23, 1970, 84 Stat. 1104; Pub. L. 95–450, §12(a), Oct. 11, 1978, 92 Stat. 1098; Pub. L. 104–208, div. B, title VII, §701, Sept. 30, 1996, 110 Stat. 3009–543; Pub. L. 104–333, div. I, title X, §1027, Nov. 12, 1996, 110 Stat. 4230.
 
 Organ Pipe Cactus Wilderness, Organ Pipe Cactus National Monument, Arizona.—Pub. L. 95–625, title IV, §401(7), Nov. 10, 1978, 92 Stat. 3490.
 
@@ -1262,7 +1262,7 @@ West Sister Island Wilderness, West Sister Island National Wildlife Refuge, Ohio
 
 Wet Beaver Wilderness, Coconino National Forest, Arizona.—Pub. L. 98–406, title I, §101(a)(27), Aug. 28, 1984, 98 Stat. 1488.
 
-Wheeler Peak Wilderness, Carson National Forest, New Mexico.—Pub. L. 88–577, §3, Sept. 3, 1964, 78 Stat. 891; Pub. L. 96–550, title I, §102(a)(10), Dec. 19, 1980, 94 Stat. 3222.
+Wheeler Peak Wilderness, Carson National Forest, New Mexico.—Pub. L. 88–577, §3, Sept. 3, 1964, 78 Stat. 891; Pub. L. 96–550, title I, §102(a)(10), Dec. 19, 1980, 94 Stat. 3222; Pub. L. 104–333, div. I, title II, §210, Nov. 12, 1996, 110 Stat. 4109.
 
 Whipple Mountains Wilderness, California Desert Conservation Area and Yuma District, of Bureau of Land Management, California.—Pub. L. 103–433, title I, §102(69), Oct. 31, 1994, 108 Stat. 4481.
 

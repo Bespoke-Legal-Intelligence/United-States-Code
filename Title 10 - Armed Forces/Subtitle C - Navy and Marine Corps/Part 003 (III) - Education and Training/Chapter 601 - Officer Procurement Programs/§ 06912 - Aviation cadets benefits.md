@@ -28,7 +28,7 @@ Aug. 4, 1942, ch. 547, §6, 56 Stat. 738.
 
 In subsection (b) the words “and at the same rates” are omitted as covered by the words “on the same basis”.
 
-In subsection (c) the words “enlisted members in pay grade E–4” are substituted for “enlisted men of the fourth pay grade” to conform to the terminology of the Career Compensation Act of 1949 (37 U.S.C. 231 et seq.). The words “by law or regulation” are omitted as surplusage. The words “and the premiums on their life insurance” are omitted as impliedly repealed by §10 of the Insurance Act of 1951, 65 Stat. 37, which provided that such premium payments shall not be made by the Government.
+In subsection (c) the words “enlisted members in pay grade E–4” are substituted for “enlisted men of thefourth pay grade” to conform to the terminology of the Career Compensation Act of 1949 (37 U.S.C. 231 et seq.). The words “by law or regulation” are omitted as surplusage. The words “and the premiums on their life insurance” are omitted as impliedly repealed by §10 of the Insurance Act of 1951, 65 Stat. 37, which provided that such premium payments shall not be made by the Government.
 
 1958
 

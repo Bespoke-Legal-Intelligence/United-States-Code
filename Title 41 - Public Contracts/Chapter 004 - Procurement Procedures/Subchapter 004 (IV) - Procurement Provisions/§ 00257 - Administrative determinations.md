@@ -6,17 +6,19 @@ Determinations and decisions provided in this Act to be made by the Administrato
 
 #### (b) Basis of determinations; finding conclusive; preservation of findings; copy
 
-Each determination or decision required by section 254 or by section 255(c) <sup>1</sup> of this title shall be based upon written findings made by the official making such determination, which findings shall be final and shall be available within the agency for a period of at least six years following the date of the determination. A copy of the findings shall be submitted to the General Accounting Office with the contract.
+Each determination or decision required by section 254 or by section 255(d) of this title shall be based upon written findings made by the official making such determination, which findings shall be final and shall be available within the agency for a period of at least six years following the date of the determination.
 
-(June 30, 1949, ch. 288, title III, §307, 63 Stat. 396; Aug. 28, 1958, Pub. L. 85–800, §5, 72 Stat. 967; Nov. 8, 1965, Pub. L. 89–343, §§3, 4, 79 Stat. 1303; July 18, 1984, Pub. L. 98–369, div. B, title VII, §2714(a)(4), 98 Stat. 1184.)
+(June 30, 1949, ch. 288, title III, §307, 63 Stat. 396; Aug. 28, 1958, Pub. L. 85–800, §5, 72 Stat. 967; Nov. 8, 1965, Pub. L. 89–343, §§3, 4, 79 Stat. 1303; July 18, 1984, Pub. L. 98–369, div. B, title VII, §2714(a)(4), 98 Stat. 1184; Feb. 10, 1996, Pub. L. 104–106, div. D, title XLIII, §4321(e)(6), 110 Stat. 675; Oct. 19, 1996, Pub. L. 104–316, title I, §121(c), 110 Stat. 3836.)
 
 #### References in Text
 
 This Act, referred to in subsec. (a), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended, known as the Federal Property and Administrative Services Act of 1949. For complete classification of this Act to the Code, see Short Title note set out under section 471 of Title 40, Public Buildings, Property, and Works, and Tables.
 
-Section 255(c) of this title, referred to in subsec. (b), was redesignated section 255(d) of this title by Pub. L. 103–355, title II, §2051(a)(5), Oct. 13, 1994, 108 Stat. 3304.
-
 #### Amendments
+
+1996—Subsec. (b). Pub. L. 104–316 struck out at end “A copy of the findings shall be submitted to the General Accounting Office with the contract.”
+
+Pub. L. 104–106 substituted “section 255(d)” for “section 255(c)”.
 
 1984—Subsec. (a). Pub. L. 98–369, §2714(a)(4), substituted provision that determinations and decisions provided in this Act to be made by the Administrator or other agency head shall be final for provision that such determinations and decisions provided in this subchapter to be made by such official would be final, and inserted exception for determinations or decisions under sections 253, 253a, and 253b of this title, substituted “Except as provided in section 253(d)(2) of this title” for “Except as provided in subsection (b) of this section”, and directed the substitution of “this Act” for “this chapter” after “powers provided by”, which substitution was not capable of literal execution because the original text read “this title”. Consequently, the amendment was executed by substituting “this Act” for “this title” as the probable intent of Congress.
 
@@ -31,6 +33,10 @@ Subsec. (b). Pub. L. 89–343, §4, struck out provisions which made the power o
 1958—Subsec. (b). Pub. L. 85–800, §5(a), (b), substituted “(12)” for “(11)”, “(13)” for “(12)”, and “(11)” for “(10)” and struck out “and in section 255(a) of this title” before “shall not be delegable” in first sentence.
 
 Subsec. (c). Pub. L. 85–800, §5(a), (c), substituted “(11), (12), (13), or (14)” for “(10), (11), (12), or (13)”, and “255(c)” for “255(a)”.
+
+#### Effective Date of 1996 Amendment
+
+For effective date and applicability of amendment by Pub. L. 104–106, see section 4401 of Pub. L. 104–106, set out as a note under section 251 of this title.
 
 #### Effective Date of 1984 Amendment
 
@@ -49,6 +55,4 @@ The definitions in section 472 of Title 40, Public Buildings, Property, and Work
 Agency head, definition of, see section 259 of this title.
 
 Determinations and decisions on armed services contracts, see section 2310 of Title 10, Armed Forces.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

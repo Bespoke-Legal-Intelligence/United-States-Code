@@ -6,5 +6,5 @@ The Office of Personnel Management shall prescribe regulations to carry out the 
 
 #### Amendments
 
-<b>1981</b>—Pub. L. 97–35 renumbered section 3596 of this title as this section.
+1981—Pub. L. 97–35 renumbered section 3596 of this title as this section.
 

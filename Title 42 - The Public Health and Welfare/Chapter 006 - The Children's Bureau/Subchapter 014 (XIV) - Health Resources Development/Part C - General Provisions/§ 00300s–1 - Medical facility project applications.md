@@ -8,7 +8,7 @@ No loan, loan guarantee, or grant may be made under part A or B for a medical fa
 
 (1) An application for a medical facilities project shall be submitted in such form and manner as the Secretary shall by regulation prescribe and shall, except as provided in paragraph (2), set forth—
 
-&emsp;(A) in the case of a modernization project for a medical facility for continuation of existing health services, a finding by the State Agency of a continued need for such services, and, in the case of any other project for a medical facility, a finding by the State Agency of theneed for the new health services to be provided through the medical facility upon completion of the project;
+&emsp;(A) in the case of a modernization project for a medical facility for continuation of existing health services, a finding by the State Agency of a continued need for such services, and, in the case of any other project for a medical facility, a finding by the State Agency of the need for the new health services to be provided through the medical facility upon completion of the project;
 
 &emsp;(B) in the case of an application for a grant, assurances satisfactory to the Secretary that (i) the applicant making the application would not be able to complete the project for which the application is submitted without the grant applied for, and (ii) in the case of a project to construct a new medical facility, it would be inappropriate to convert an existing medical facility to provide the services to be provided through the new medical facility;
 

@@ -10,11 +10,11 @@ In carrying out the study, the Secretary shall utilize to the greatest extent pr
 
 #### (c) Adequacy of access facilities
 
-The study shall address the adequacy of access facilities for members of the public who desire to visit and enjoy the lakeshore. Consideration shall be given to alternatives for alleviating the dependence on automobile transportation. The study of public transportation facilities shall cover the distance from cities of thirty-five thousand population or more within fifty miles of the lakeshore.
+The study shall address the adequacy of access facilities for members of the public who desireto visit and enjoy the lakeshore. Consideration shall be given to alternatives for alleviating the dependence on automobile transportation. The study of public transportation facilities shall cover the distance from cities of thirty-five thousand population or more within fifty miles of the lakeshore.
 
 #### (d) Access proposals; retention of lakeshore values
 
-The study shall include proposals deemed necessary to assure equitable visitor access and public enjoyment by all segments of the population, including those who are physically or economically disadvantaged. It shall provide for retention of the natural, scenic, and historic values for which the lakeshore was established,and shall propose plans and alternatives for the protection and maintenance of these values as they relate to transportation improvements.
+The study shall include proposals deemed necessary to assure equitable visitor access and public enjoyment by all segments of the population, including those who are physically or economically disadvantaged. It shall provide for retention of the natural, scenic, and historic values for which the lakeshore was established, and shall propose plans and alternatives for the protection and maintenance of these values as they relate to transportation improvements.
 
 #### (e) Renovation and preservation of South Shore Railroad
 

@@ -6,11 +6,11 @@ To ensure compliance with the provisions of this subchapter, or any regulation o
 
 #### (b) Obligation to keep and preserve records
 
-Any employer shall make, keep, and preserve records pertaining to compliance with this subchapter in accordance with section 211(c) of this title and in accordance with regulations issued by the Secretary.
+Any employer shall make, keep, and preserve records pertaining to compliance with this subchapter in accordance with section 211(c) of thistitle and in accordance with regulations issued by the Secretary.
 
 #### (c) Required submissions generally limited to annual basis
 
-The Secretary shall not under the authority of this section require any employer or any plan,fund, or program to submit to the Secretary any books or records more than once during any 12-month period, unless the Secretary has reasonable cause to believe there may exist a violation of this subchapter or any regulation or order issued pursuant to this subchapter, or is investigating a charge pursuant to section 2617(b) of this title.
+The Secretary shall not under the authority of this section require any employer or any plan, fund, or program to submit to the Secretary any books or records more than once during any 12-month period, unless the Secretary has reasonable cause to believe there may exist a violation of this subchapter or any regulation or order issued pursuant to this subchapter, or is investigating a charge pursuant to section 2617(b) of this title.
 
 #### (d) Subpoena powers
 

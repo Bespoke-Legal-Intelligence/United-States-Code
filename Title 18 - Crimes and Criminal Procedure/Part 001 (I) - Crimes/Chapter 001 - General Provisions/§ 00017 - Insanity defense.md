@@ -1,4 +1,4 @@
-### §17 . Insanity defense
+### §17. Insanity defense
 
 (a)
 

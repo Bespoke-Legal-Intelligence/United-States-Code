@@ -38,7 +38,7 @@ The Secretary shall by regulation prescribe reasonable procedures for a taxpayer
 
 #### Prior Provisions
 
-A prior section 7432 was renumbered 7434 of this title.
+A prior section 7432 was renumbered 7436 of this title.
 
 #### Effective Date
 

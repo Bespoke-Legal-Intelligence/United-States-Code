@@ -14,7 +14,7 @@ Section is based on act Mar. 3, 1903, popularly known as the “Sundry Civil App
 
 #### Amendments
 
-1951—Act Oct. 31, 1951, amended section generally. Prior to amendment, section authorized Secretary of Treasury to sell the type of lands described upon such terms and after public notice by advertisement as he might deem best for the public interest.
+1951—Act Oct. 31, 1951, amended section generally. Prior to amendment, section authorized Secretary of the Treasury to sell the type of lands described upon such terms and after public notice by advertisement as he might deem best for the public interest.
 
 #### Cross References
 

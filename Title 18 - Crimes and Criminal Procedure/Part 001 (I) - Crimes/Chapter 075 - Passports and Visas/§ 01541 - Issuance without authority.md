@@ -1,12 +1,14 @@
 ### §1541. Issuance without authority
 
-Whoever, acting or claiming to act in any office or capacity under the United States, or a State or possession, without lawful authority grants, issues, or verifies any passport or other instrument in the nature of a passport to or for any person whomsoever; or
+Whoever, acting or claiming to act in any office or capacity under the United States, or a State, without lawful authority grants, issues, or verifies any passport or other instrument in the nature of a passport to or for any person whomsoever; or
 
 Whoever, being a consular officer authorized to grant, issue, or verify passports, knowingly and willfully grants, issues, or verifies any such passport to or for any person not owing allegiance, to the United States, whether a citizen or not—
 
-Shall be fined under this title, imprisoned not more than 10 years, or both.
+Shall be fined under this title, imprisoned not more than 25 years (if the offense was committed to facilitate an act of international terrorism (as defined in section 2331 of this title)), 20 years (if the offense was committed to facilitate a drug trafficking crime (as defined in section 929(a) of this title)), 10 years (in the case of the first or second such offense, if the offense was not committed to facility <sup>1</sup> such an act of international terrorism or a drug trafficking crime), or 15 years (in the case of any other offense), or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 771; Sept. 13, 1994, Pub. L. 103–322, title XIII, §130009(a)(1), title XXXIII, §330016(1)(G), 108 Stat. 2030, 2147.)
+For purposes of this section, the term “State” means a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
+
+(June 25, 1948, ch. 645, 62 Stat. 771; Sept. 13, 1994, Pub. L. 103–322, title XIII, §130009(a)(1), title XXXIII, §330016(1)(G), 108 Stat. 2030, 2147; Sept. 30, 1996, Pub. L. 104–208, div. C, title II, §211(a)(2), 110 Stat. 3009–569; Oct. 11, 1996, Pub. L. 104–294, title VI, §607(n), 110 Stat. 3512.)
 
 #### Historical and Revision Notes
 
@@ -18,9 +20,19 @@ Changes were made in phraseology.
 
 #### Amendments
 
-1994—Pub. L. 103–322, §330016(1)(G), which directed the amendment of this section by substituting “under thistitle” for “not more than $500”, could not be executed because the words “not more than $500” did not appear in text subsequent to amendment by Pub. L. 103–322, §130009(a)(1). See below.
+1996—Pub. L. 104–294, §607(n)(1), struck out “or possession” after “or a State” in first par.
+
+Pub. L. 104–294, §607(n)(2), added last par. defining “State” for purposes of this section.
+
+Pub. L. 104–208 substituted “imprisoned not more than 25 years (if the offense was committed to facilitate an act of international terrorism (as defined in section 2331 of this title)), 20 years (if the offense was committed to facilitate a drug trafficking crime (as defined in section 929(a) of this title)), 10 years (in the case of the first or second such offense, if the offense was not committed to facility such an act of international terrorism or a drug trafficking crime), or 15 years (in the case of any other offense)” for “imprisoned not more than 10 years” in third par.
+
+1994—Pub. L. 103–322, §330016(1)(G), which directed the amendment of this section by substituting “under this title” for “not more than $500”, could not be executed because the words “not more than $500” did not appear in text subsequent to amendment by Pub. L. 103–322, §130009(a)(1). See below.
 
 Pub. L. 103–322, §130009(a)(1), substituted “under this title, imprisoned not more than 10 years” for “not more than $500 or imprisoned not more than one year” in last par.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–208 applicable with respect to offenses occurring on or after Sept. 30, 1996, see section 211(c) of Pub. L. 104–208, set out as a note under section 1028 of this title.
 
 #### Cross References
 
@@ -28,5 +40,7 @@ Limitations, period of, see section 3291 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 3291 of this title.
+This section is referred to in sections 982, 2516, 3291 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “facilitate”.</i>
 

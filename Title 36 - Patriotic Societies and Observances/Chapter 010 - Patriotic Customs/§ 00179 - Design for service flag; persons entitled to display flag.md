@@ -6,7 +6,7 @@ The Secretary of Defense is authorized and directed to approve a design for a se
 
 #### Amendments
 
-1953—Act May 27, 1953, substituted “Secretary of Defense” for “Secretary of War” and “any period of waror hostilities in which the Armed Forces of the United States may be engaged” for “the current war”.
+1953—Act May 27, 1953, substituted “Secretary of Defense” for “Secretary of War” and “any period of war or hostilities in which the Armed Forces of the United States may be engaged” for “the current war”.
 
 #### Section Referred to in Other Sections
 

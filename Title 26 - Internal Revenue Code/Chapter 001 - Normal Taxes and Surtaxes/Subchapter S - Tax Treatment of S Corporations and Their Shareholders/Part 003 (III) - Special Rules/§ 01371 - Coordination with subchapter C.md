@@ -2,13 +2,7 @@
 
 #### (a) Application of subchapter C rules
 
-#### (1) In general
-
-&emsp;Except as otherwise provided in this title, and except to the extent inconsistent with this subchapter, subchapter C shall apply to an S corporation and its shareholders.
-
-#### (2) S corporation as shareholder treated like individual
-
-&emsp;For purposes of subchapter C, an S corporation in its capacity as a shareholder of another corporation shall be treated as an individual.
+Except as otherwise provided in this title, and except to the extent inconsistent with this subchapter, subchapter C shall apply to an S corporation and its shareholders.
 
 #### (b) No carryover between C year and S year
 
@@ -62,13 +56,23 @@
 
 &emsp;An S corporation may elect to have paragraph (1) not apply to all distributions made during a post-termination transition period described in section 1377(b)(1)(A). Such election shall not be effective unless all shareholders of the S corporation to whom distributions are made by the S corporation during such post-termination transition period consent to such election.
 
-(Added Pub. L. 97–354, §2, Oct. 19, 1982, 96 Stat. 1681; amended Pub. L. 98–369, div. A, title VII,§721(e), (<i>o</i>), (x)(3), July 18, 1984, 98 Stat. 967, 970, 971; Pub. L. 99–514, title XVIII, §1899A(33), (34), Oct. 22, 1986, 100 Stat. 2960; Pub. L. 101–508, title XI, §11813(b)(23), Nov. 5, 1990, 104 Stat. 1388–555.)
+(Added Pub. L. 97–354, §2, Oct. 19, 1982, 96 Stat. 1681; amended Pub. L. 98–369, div. A, title VII, §721(e), (<i>o</i>), (x)(3), July 18, 1984, 98 Stat. 967, 970, 971; Pub. L. 99–514, title XVIII, §1899A(33), (34), Oct. 22, 1986, 100 Stat. 2960; Pub. L. 101–508, title XI, §11813(b)(23), Nov. 5, 1990, 104 Stat. 1388–555; Pub. L. 104–188, title I, §1310, Aug. 20, 1996, 110 Stat. 1784.)
 
 #### Prior Provisions
 
 A prior section 1371, added Pub. L. 85–866, title I, §64(a), Sept. 2, 1958, 72 Stat. 1650; amended Pub. L. 86–376, §2(a), Sept. 23, 1959, 73 Stat. 699; Pub. L. 88–272, title II, §233(a), Feb. 26, 1964, 78 Stat. 112; Pub. L. 94–455, title IX, §902(a)(1), (2), (c)(1), (2), Oct. 4, 1976, 90 Stat. 1608, 1609; Pub. L. 95–600, title III, §§341, 342, title VII, §701(y)(1), Nov. 6, 1978, 92 Stat. 2843, 2921; Pub. L. 96–589, §5(d), Dec. 24, 1980, 94 Stat. 3406; Pub. L. 97–34, title II, §§233(a), 234(a), (b), Aug. 13, 1981, 95 Stat. 250, 251; Pub. L. 97–448, title I, §102(i)(1), Jan. 12, 1983, 96 Stat. 2372, related to definitions applicable to election of small business corporations as to taxable status, prior to the general revision of this subchapter by section 2 of Pub. L. 97–354.
 
 #### Amendments
+
+1996—Subsec. (a). Pub. L. 104–188 reenacted heading without change and amended text generally. Prior to amendment, text read as follows:
+
+“(1)
+
+In general.—Except as otherwise provided in this title, and except to the extent inconsistent with this subchapter, subchapter C shall apply to an S corporation and its shareholders.
+
+“(2) S
+
+corporation as shareholder treated like individual.—For purposes of subchapter C, an S corporation in its capacity as a shareholder of another corporation shall be treated as an individual.”
 
 1990—Subsec. (d)(1). Pub. L. 101–508, §11813(b)(23)(A), substituted “section 50(a)(4)” for “section 47(b)”.
 
@@ -85,6 +89,10 @@ Subsec. (d)(3). Pub. L. 98–369, §721(e)(1), added par. (3).
 Subsec. (e). Pub. L. 98–369, §721(<i>o</i>), amended subsec. (e) generally, designating existing provisions as par. (1) and adding par. (2).
 
 Subsec. (e)(2). Pub. L. 98–369, §721(x)(3), inserted “(within the meaning of section 1368(e))”.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–188 applicable to taxable years beginning after Dec. 31, 1996, see section 1317(a) of Pub. L. 104–188, set out as a note under section 641 of this title.
 
 #### Effective Date of 1990 Amendment
 

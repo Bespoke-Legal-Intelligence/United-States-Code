@@ -42,7 +42,7 @@ Notwithstanding the provisions of subsection (b) of this section—
 
 #### (c) <sup>1</sup> Continuing eligibility of certain terminated individuals
 
-For purposes of this section, each person whose monthly insurance benefit for any month is terminated or is otherwise not payable solely by reason of paragraph (1) or (7) of section 425(c) of this title shall be treated as entitled to such benefit for such month.
+For purposes of this section, each person whose monthly insurance benefit for any month is terminated or is otherwise not payable solely by reason of paragraph (1) or (7) of section 425(c) <sup>2</sup> of this title shall be treated as entitled to such benefit for such month.
 
 (Aug. 14, 1935, ch. 531, title II, §226A, as added June 13, 1978, Pub. L. 95–292, §1(a), 92 Stat. 307; amended Sept. 3, 1982, Pub. L. 97–248, title II, §278(b)(2)(C), 96 Stat. 561; Jan. 12, 1983, Pub. L. 97–448, title III, §309(b)(1), 96 Stat. 2408; Apr. 7, 1986, Pub. L. 99–272, title XIII, §13205(b)(2)(B), 100 Stat. 317; Aug. 15, 1994, Pub. L. 103–296, title II, §201(a)(3)(D)(ii), 108 Stat. 1497.)
 
@@ -51,6 +51,8 @@ For purposes of this section, each person whose monthly insurance benefit for an
 The Railroad Retirement Act of 1974, referred to in subsec. (a)(1)(A), (B), is act Aug. 29, 1935, ch. 812, as amended generally by Pub. L. 93–445, title I, §101, Oct. 16, 1974, 88 Stat. 1305, which is classified generally to subchapter IV (§231 et seq.) of chapter 9 of Title 45, Railroads. For further details and complete classification of this Act to the Code, see Codification note set out preceding section 231 of Title 45, section 231t of Title 45, and Tables.
 
 Parts A and B of subchapter XVIII of this chapter, referred to in text, are classified to sections 1395c et seq. and 1395j et seq., respectively, of this title.
+
+Section 425(c) of this title, referred to in subsec. (c), was repealed by Pub. L. 104–121, title I, §105(a)(4), Mar. 29, 1996, 110 Stat. 853.
 
 #### Amendments
 
@@ -91,4 +93,6 @@ Section effective with respect to services, supplies, and equipment furnished af
 This section is referred to in sections 410, 418, 1395c, 1395i–2a, 1395y, 1395rr of this title; title 10 section 1086.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “(d)”.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

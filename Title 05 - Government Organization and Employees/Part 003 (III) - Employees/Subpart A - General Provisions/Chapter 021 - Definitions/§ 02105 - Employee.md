@@ -20,7 +20,7 @@
 
 &emsp;(3) subject to the supervision of an individual named by paragraph (1) of this subsection while engaged in the performance of the duties of his position.
 
-(b) An individual employed at the United States Naval Academy in the midshipmen's laundry, the midshipmen's tailor shop, the midshipmen's cobbler and barber shops, and the midshipmen's store, except an individual employed by the Academy dairy, is deemed an employee.
+(b) An individual who is employed at the United States Naval Academy in the midshipmen's laundry, the midshipmen's tailor shop, the midshipmen's cobbler and barber shops, and the midshipmen's store, except an individual employed by the Academy dairy, and whose employment in such a position began before October 1, 1996, and has been uninterrupted in such a position since that date is deemed an employee.
 
 (c) An employee paid from nonappropriated funds of the Army and Air Force Exchange Service, Army and Air Force Motion Picture Service, Navy Ship's Stores Ashore, Navy exchanges, Marine Corps exchanges, Coast Guard exchanges, and other instrumentalities of the United States under the jurisdiction of the armed forces conducted for the comfort, pleasure, contentment, and mental and physical improvement of personnel of the armed forces is deemed not an employee for the purpose of—
 
@@ -32,7 +32,7 @@
 
 &emsp;&emsp;(C) the Fair Labor Standards Act of 1938;
 
-&emsp;&emsp;(D) for the purpose of entering into an interchange agreement to provide for thenoncompetitive movement of employees between such instrumentalities and the competitive service; or
+&emsp;&emsp;(D) for the purpose of entering into an interchange agreement to provide for the noncompetitive movement of employees between such instrumentalities and the competitive service; or
 
 &emsp;&emsp;(E) subchapter V of chapter 63, which shall be applied so as to construe references to benefit programs to refer to applicable programs for employees paid from nonappropriated funds; or
 
@@ -46,7 +46,7 @@
 
 (f) For purposes of sections 1212, 1213, 1214, 1215, 1216, 1221, 1222, 2302, and 7701, employees appointed under chapter 73 or 74 of title 38 shall be employees.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 409; Pub. L. 90–486, §4, Aug. 13, 1968, 82 Stat. 757; Pub. L. 91–375, §6(c)(4), Aug. 12, 1970, 84 Stat. 775; Pub. L. 92–392, §2, Aug. 19, 1972, 86 Stat. 573; Pub. L. 95–454, title VII, §703(c)(2), title IX, §906(a)(2), Oct. 13, 1978, 92 Stat. 1217, 1224; Pub. L. 96–54, §2(a)(5), (6), Aug. 14, 1979, 93 Stat. 381; Pub. L. 99–335, title II, §207(a), June 6, 1986, 100 Stat. 594; Pub. L. 99–638, §2(b)(1), Nov. 10, 1986, 100 Stat. 3536; Pub. L. 101–508, title VII, §7202(b), Nov. 5, 1990, 104 Stat. 1388–335; Pub. L. 103–3, title II, §201(b), Feb. 5, 1993, 107 Stat. 23; Pub. L. 103–424, §7, Oct. 29, 1994, 108 Stat. 4364.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 409; Pub. L. 90–486, §4, Aug. 13, 1968, 82 Stat. 757; Pub. L. 91–375, §6(c)(4), Aug. 12, 1970, 84 Stat. 775; Pub. L. 92–392, §2, Aug. 19, 1972, 86 Stat. 573; Pub. L. 95–454, title VII, §703(c)(2), title IX, §906(a)(2), Oct. 13, 1978, 92 Stat. 1217, 1224; Pub. L. 96–54, §2(a)(5), (6), Aug. 14, 1979, 93 Stat. 381; Pub. L. 99–335, title II, §207(a), June 6, 1986, 100 Stat. 594; Pub. L. 99–638, §2(b)(1), Nov. 10, 1986, 100 Stat. 3536; Pub. L. 101–508, title VII, §7202(b), Nov. 5, 1990, 104 Stat. 1388–335; Pub. L. 103–3, title II, §201(b), Feb. 5, 1993, 107 Stat. 23; Pub. L. 103–424, §7, Oct. 29, 1994, 108 Stat. 4364; Pub. L. 104–201, div. A, title III, §370(b), Sept. 23, 1996, 110 Stat. 2499.)
 
 Historical and Revision Notes
 
@@ -54,7 +54,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 (b)
 
@@ -108,33 +110,39 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### References in Text
 
-The Fair Labor Standards Act of 1938, referred to in subsec. (c)(1)(C), is act June 25, 1938, ch. 676, 52 Stat. 1060, as amended, which is classified principally to chapter 8 (§201 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see section 201 of Title 29 and Tables.
+The Fair Labor Standards Act of 1938, referred to in subsec. (c)(1)(C), is act June 25, 1938, ch. 676, 52 Stat. 1060, as amended, which is classified generally to chapter 8 (§201 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see section 201 of Title 29 and Tables.
 
 #### Amendments
 
-<b>1994</b>—Subsec. (f). Pub. L. 103–424 added subsec. (f).
+1996—Subsec. (b). Pub. L. 104–201 inserted “who is” after “An individual” and “and whose employment in such a position began before October 1, 1996, and has been uninterrupted in such a position since that date” after “Academy dairy,”.
 
-<b>1993</b>—Subsec. (c)(1)(E). Pub. L. 103–3 added subpar. (E).
+1994—Subsec. (f). Pub. L. 103–424 added subsec. (f).
 
-<b>1990</b>—Subsec. (c)(1). Pub. L. 101–508, §7202(b)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “laws (other than subchapter IV of chapter 53 of this title, subchapter III of chapter 83 of this title to the extent provided in section 8332(b)(16) of this title, and sections 5550 and 7204 of this title) administered by the Office of Personnel Management; or”.
+1993—Subsec. (c)(1)(E). Pub. L. 103–3 added subpar. (E).
+
+1990—Subsec. (c)(1). Pub. L. 101–508, §7202(b)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “laws (other than subchapter IV of chapter 53 of this title, subchapter III of chapter 83 of this title to the extent provided in section 8332(b)(16) of this title, and sections 5550 and 7204 of this title) administered by the Office of Personnel Management; or”.
 
 Subsec. (c)(2). Pub. L. 101–508, §7202(b)(2), inserted “(except to the extent specifically provided therein)” after “chapter 84”.
 
-<b>1986</b>—Subsec. (c)(1). Pub. L. 99–638 inserted “of this title, subchapter III of chapter 83 of this title to the extent provided in section 8332(b)(16) of this title,”.
+1986—Subsec. (c)(1). Pub. L. 99–638 inserted “of this title, subchapter III of chapter 83 of this title to the extent provided in section 8332(b)(16) of this title,”.
 
 Subsec. (c)(2). Pub. L. 99–335 substituted “chapter 81, chapter 84,” for “chapter 81”.
 
-<b>1979</b>—Subsec. (a)(1)(F). Pub. L. 96–54, §2(a)(5), substituted “an adjutant” for “the adjutants” and struck out “, United States Code” after “32”.
+1979—Subsec. (a)(1)(F). Pub. L. 96–54, §2(a)(5), substituted “an adjutant” for “the adjutants” and struck out “, United States Code” after “32”.
 
 Subsec. (c)(1). Pub. L. 96–54, §2(a)(6), amended subsec. (c)(1) in same manner as amendment by section 703(c)(2) of Pub. L. 95–454. See 1978 Amendment note set out below.
 
-<b>1978</b>—Subsec. (c)(1). Pub. L. 95–454 substituted “7204” for “7154”, and “Office of Personnel Management” for “Civil Service Commission”. Amendments by section 703(c)(1) and (c)(2) of Pub. L. 95–454 appear to have been inadvertently reversed. Subsec. (c)(1) purported to amend subsec. (c)(1) of this section, and subsec. (c)(2) purported to amend section 3302(2) of this title. However, the amendments specified by Pub. L. 95–454, §703(c)(1) and (2), were impossible to execute literally. Thus, the amendment by Pub. L. 95–454, §703(c)(2) was executed to this section, and the amendment by section 703(c)(1) was executed to section 3302(2) of this title as the probable intent of Congress.
+1978—Subsec. (c)(1). Pub. L. 95–454 substituted “7204” for “7154”, and “Office of Personnel Management” for “Civil Service Commission”. Amendments by section 703(c)(1) and (c)(2) of Pub. L. 95–454 appear to have been inadvertently reversed. Subsec. (c)(1) purported to amend subsec. (c)(1) of this section, and subsec. (c)(2) purported to amend section 3302(2) of this title. However, the amendments specified by Pub. L. 95–454, §703(c)(1) and (2), were impossible to execute literally. Thus, the amendment by Pub. L. 95–454, §703(c)(2) was executed to this section, and the amendment by section 703(c)(1) was executed to section 3302(2) of this title as the probable intent of Congress.
 
-<b>1972</b>—Subsec. (c)(1). Pub. L. 92–392 substituted “laws (other than subchapter IV of chapter 53 and sections 5550 and 7154 of this title)” for “laws”.
+1972—Subsec. (c)(1). Pub. L. 92–392 substituted “laws (other than subchapter IV of chapter 53 and sections 5550 and 7154 of this title)” for “laws”.
 
-<b>1970</b>—Subsec. (e). Pub. L. 91–375 added subsec. (e).
+1970—Subsec. (e). Pub. L. 91–375 added subsec. (e).
 
-<b>1968</b>—Subsec. (a)(1)(F). Pub. L. 90–486 added subpar. (F).
+1968—Subsec. (a)(1)(F). Pub. L. 90–486 added subpar. (F).
+
+#### Effective Date of 1996 Amendment
+
+Section 370(e) of Pub. L. 104–201 provided that: “The amendments made by this section \[amending this section and section 6971 of Title 10, Armed Forces, and repealing section 6970 of Title 10\] shall take effect on October 1, 1996.”
 
 #### Effective Date of 1993 Amendment
 
@@ -200,5 +208,5 @@ Amendments by Pub. L. 92–392 not to decrease basic pay rate of subsec. (c) emp
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3502, 5334, 5335, 5342, 5365, 5506, 5515, 5537, 5551, 5552, 5581, 5595, 5751, 5945, 5946, 6103, 6104, 6121, 6301, 6308, 6322, 6323, 6385, 7103, 7119, 7342, 7905, 8171, 8172, 8173, 8311, 8331, 8332, 8347, 8401, 8461, 8701, 8901 of this title; title 10 sections 975, 1587; title 18 section 202; title 19 section 2081; title 22 sections 4341, 4833; title 25 section 450i; title 26 section 7608; title 41 section 419; title 42 section 3374; title 50 section 426.
+This section is referred to in sections 3502, 5334, 5335, 5342, 5365, 5506, 5515, 5537, 5551, 5552, 5581, 5595, 5736, 5751, 5945, 5946, 6103, 6104, 6121, 6301, 6308, 6322, 6323, 6385, 7103, 7119, 7342, 7905, 8171, 8172, 8173, 8311, 8331, 8332, 8347, 8401, 8461, 8701, 8901 of this title; title 10 sections 975, 1587; title 18 section 202; title 19 section 2081; title 22 sections 4341, 4833; title 25 section 450i; title 26 section 7608; title 41 sections 419, 423; title 42 section 3374; title 50 section 426.
 

@@ -62,7 +62,7 @@ For purposes of this chapter—
 
 #### (2) Certain interests disregarded
 
-&emsp;For purposes of paragraph (1), an interest which is used primarily to postpone or avoid any tax imposed by this chapter shall be disregarded.
+&emsp;For purposes of paragraph (1), an interest which is used primarily to postpone or avoidany tax imposed by this chapter shall be disregarded.
 
 #### (3) Certain support obligations disregarded
 

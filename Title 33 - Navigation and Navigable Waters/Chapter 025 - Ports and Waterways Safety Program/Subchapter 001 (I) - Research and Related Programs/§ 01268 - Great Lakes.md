@@ -14,7 +14,7 @@
 
 #### (2) Purpose
 
-&emsp;It is the purpose of this section to achieve the goals embodied in the Great Lakes Water Quality Agreement of 1978, as amended by the Water Quality Agreement of 1987 and any other agreements and amendments, through improved organization and definition of mission on the part of the Agency, funding of State grants for pollution control in the Great Lakes area, and improved accountability for implementation of such agreement.
+&emsp;It is the purpose of this section to achieve the goals embodied in the Great Lakes WaterQuality Agreement of 1978, as amended by the Water Quality Agreement of 1987 and any other agreements and amendments, through improved organization and definition of mission on the part of the Agency, funding of State grants for pollution control in the Great Lakes area, and improved accountability for implementation of such agreement.
 
 #### (3) Definitions
 
@@ -66,7 +66,7 @@ The Great Lakes National Program Office (previously established by the Administr
 
 &emsp;(B) By June 30, 1992, the Administrator, in consultation with the Program Office, shall publish in the Federal Register, pursuant to this section and the Administrator's authority under this chapter, final water quality guidance for the Great Lakes System.
 
-&emsp;(C) Within two years after such Great Lakes guidance is published, the Great Lakes States shall adopt water quality standards, antidegradation policies, and implementation procedures for waters within the Great Lakes System which are consistent with such guidance. If a Great Lakes State fails to adopt such standards, policies, and procedures, the Administrator shall promulgate them not later than the end of such two-year period. When reviewing any Great Lakes State's water quality plan, the agency shall consider the extent to which the State has complied with the Great Lakes guidance issued pursuant to this section.
+&emsp;(C) Within two years after such Great Lakes guidance is published, the Great Lakes States shall adopt water quality standards, antidegradation policies, and implementation procedures for waters within the Great Lakes System which are consistent with such guidance. If a Great Lakes State fails to adopt such standards, policies, and procedures, the Administrator shall promulgate them not later than the end of such two-year period. When reviewing any Great Lakes State'swater quality plan, the agency shall consider the extent to which the State has complied with the Great Lakes guidance issued pursuant to this section.
 
 #### (3) Remedial Action Plans
 
@@ -148,7 +148,7 @@ The Great Lakes National Program Office (previously established by the Administr
 
 &emsp;&emsp;&emsp;(i) show by categories (including judicial enforcement, research, State cooperative efforts, and general administration) the amount anticipated to be expended on Great Lakes water quality initiatives in the fiscal year to which the assessment relates; and
 
-&emsp;&emsp;&emsp;(ii) include a report of current programs administered by other Federal agencieswhich make available resources to the Great Lakes water quality management efforts.
+&emsp;&emsp;&emsp;(ii) include a report of current programs administered by other Federal agencies which make available resources to the Great Lakes water quality management efforts.
 
 #### (11) Confined disposal facilities
 
@@ -222,7 +222,7 @@ The Great Lakes National Program Office (previously established by the Administr
 
 #### (f) Interagency cooperation
 
-The head of each department, agency, or other instrumentality of the Federal Government which is engaged in, is concerned with, or has authority over programs relating to research, monitoring, and planning to maintain, enhance, preserve, or rehabilitate the environmentalquality and natural resources of the Great Lakes, including the Chief of Engineers of the Army, the Chief of the Soil Conservation Service, the Commandant of the Coast Guard, the Director of the Fish and Wildlife Service, and the Administrator of the National Oceanic and Atmospheric Administration, shall submit an annual report to the Administrator with respect to the activities of that agency or office affecting compliance with the Great Lakes Water Quality Agreement of 1978, as amended by the Water Quality Agreement of 1987 and any other agreements and amendments,.<sup>4</sup>
+The head of each department, agency, or other instrumentality of the Federal Government which is engaged in, is concerned with, or has authority over programs relating to research, monitoring, and planning to maintain, enhance, preserve, or rehabilitate the environmental quality and natural resources of the Great Lakes, including the Chief of Engineers of the Army, the Chief of the Soil Conservation Service, the Commandant of the Coast Guard, the Director of the Fish and Wildlife Service, and the Administrator of the National Oceanic and Atmospheric Administration, shall submit an annual report to the Administrator with respect to the activities of that agency or office affecting compliance with the Great Lakes Water Quality Agreement of 1978, as amended by the Water Quality Agreement of 1987 and any other agreements and amendments,.<sup>4</sup>
 
 #### (g) Relationship to existing Federal and State laws and international treaties
 
@@ -254,19 +254,51 @@ Subsec. (e)(3). Pub. L. 101–596, §106, added par. (3).
 
 Subsec. (h). Pub. L. 101–596, §105, substituted “and 1990, and $25,000,000 for fiscal year 1991” for “1990, and 1991” in introductory provisions and inserted “or $3,300,000, whichever is the lesser,” after “30 percent” in par. (3).
 
-1988—Subsecs. (a)(1)(B), (2), (c)(1)(A), (6)(A), (D), (e)(2)(A), (f). Pub. L. 100–688 inserted “, as amended by the Water Quality Agreement of 1987 and any other agreements and amendments,” after “the Great Lakes Water Quality Agreement of 1978”.
+1988—Subsecs. (a)(1)(B), (2), (c)(1)(A), (6)(A), (D), (e)(2)(A), (f). Pub. L. 100–688 inserted “, as amended bythe Water Quality Agreement of 1987 and any other agreements and amendments,” after “the Great Lakes Water Quality Agreement of 1978”.
 
-#### Great Lakes Remedial Action Plans
+#### Great Lakes Remedial Action Plans and Sediment Remediation
 
-Pub. L. 101–640, title IV, §401, Nov. 28, 1990, 104 Stat. 4644, provided that:
+Pub. L. 101–640, title IV, §401, Nov. 28, 1990, 104 Stat. 4644, as amended by Pub. L. 104–303, title V, §515, Oct. 12, 1996, 110 Stat. 3763, provided that:
 
 “(a)
 
-Assistance.—The Secretary is authorized to provide technical, planning, and engineering assistance to States and local governments in the development and implementation of remedial action plans for areas of concern in the Great Lakes identified under the Great Lakes Water Quality Agreement of 1978. Non-Federal interests shall contribute 50 percent of the costs of such assistance.
+Great Lakes Remedial Action Plans.—
+
+&emsp;“(1)
+
+In general.—The Secretary may provide technical, planning, and engineering assistance to State and local governments and nongovernmental entities designated by a State or local government in the development and implementation of remedial action plans for Areas of Concern in the Great Lakes identified under the Great Lakes Water Quality Agreement of 1978.
+
+&emsp;“(2)
+
+Non-federal share.—Non-Federal interests shall contribute, in cash or by providing in-kind contributions, 50 percent of costs of activities for which assistance is provided under paragraph (1).
 
 “(b)
 
-Maximum Amount.—The Secretary may not expend more than $3,000,000 in a fiscal year to carry out this section.”
+Sediment Remediation Projects.—
+
+&emsp;“(1)
+
+In general.—The Secretary, in consultation with the Administrator of the Environmental Protection Agency (acting through the Great Lakes National Program Office), may conduct pilot- and full-scale projects of promising technologies to remediate contaminated sediments in freshwater coastal regions in the Great Lakes basin. The Secretary shall conduct not fewer than 3 full-scale projects under this subsection.
+
+&emsp;“(2)
+
+Site selection for projects.—In selecting the sites for the technology projects, the Secretary shall give priority consideration to Saginaw Bay, Michigan, Sheboygan Harbor, Wisconsin, Grand Calumet River, Indiana, Ashtabula River, Ohio, Buffalo River, New York, and Duluth-Superior Harbor, Minnesota and Wisconsin.
+
+&emsp;“(3)
+
+Deadline for identifications.—The Secretary shall—
+
+&emsp;&emsp;“(A) not later than 18 months after the date of the enactment of this paragraph \[Oct. 12, 1996\], identify the sites and technologies for projects under this subsection; and
+
+&emsp;&emsp;“(B) not later than 3 years after that date, complete each such full-scale project.
+
+&emsp;“(4)
+
+Non-federal share.—Non-Federal interests shall contribute 50 percent of costs of projects under this subsection. Such costs may be paid in cash or by providing in-kind contributions.
+
+“(c)
+
+Authorization of Appropriations.—There is authorized to be appropriated to the Secretary to carry out this section $5,000,000 for each of fiscal years 1998 through 2000.”
 
 #### Section Referred to in Other Sections
 

@@ -20,7 +20,7 @@
 
 #### (2) Proof of loss
 
-&emsp;In any case in which distilled spirits are lost or destroyed, whether by theft or otherwise,the Secretary may require the proprietor of the distilled spirits plant or other person liable for the tax to file a claim for relief from the tax and submit proof as to the cause of such loss. In every case where it appears that the loss was by theft, the burden shall be upon the proprietor of the distilled spirits plant or other person responsible for the distilled spirits tax to establish to the satisfaction of the Secretary that such loss did not occur as the result of connivance, collusion, fraud, or negligence on the part of the proprietor of the distilled spirits plant, owner, consignor, consignee, bailee, or carrier, or the employees or agents of any of them.
+&emsp;In any case in which distilled spirits are lost or destroyed, whether by theft or otherwise, the Secretary may require the proprietor of the distilled spirits plant or other person liable for the tax to file a claim for relief from the tax and submit proof as to the cause of such loss. In every case where it appears that the loss was by theft, the burden shall be upon the proprietor of the distilled spirits plant or other person responsible for the distilled spirits tax to establish to the satisfaction of the Secretary that such loss did not occur as the result of connivance, collusion, fraud, or negligence on the part of the proprietor of the distilled spirits plant, owner, consignor, consignee, bailee, or carrier, or the employees or agents of any of them.
 
 #### (3) Refund of tax
 
@@ -28,7 +28,7 @@
 
 #### (4) Limitations
 
-&emsp;Except as provided in paragraph (5), no tax shall be abated, remitted, credited, or refunded under this subsection where the loss occurred after the tax was determined (as provided in section 5006(a)). The abatement, remission, credit, or refund of taxes provided for by paragraphs (1) and (3) in the case of loss of distilled spirits by theft shall only be allowed to the extent that the claimant is not indemnified against or recompensed in respect of the tax for such loss.
+&emsp;Except as provided in paragraph (5), no tax shall be abated, remitted, credited, or refunded under this subsection where the lossoccurred after the tax was determined (as provided in section 5006(a)). The abatement, remission, credit, or refund of taxes provided for by paragraphs (1) and (3) in the case of loss of distilled spirits by theft shall only be allowed to the extent that the claimant is not indemnified against or recompensed in respect of the tax for such loss.
 
 #### (5) Applicability
 
@@ -98,7 +98,7 @@ Subsec. (f). Pub. L. 96–39, §807(a)(6)(D), redesignated subsec. (h) as (f). F
 
 Subsecs. (g), (h). Pub. L. 96–39, §807(a)(6)(D), redesignated subsecs. (g) and (h) as (e) and (f), respectively.
 
-1977—Subsec. (d). Pub. L. 95–176, §2(f), reenacted par. (1) and substituted heading “General” for “Allowance of tax” and “(or the tax equal to such tax imposed under section 7652)” for “or under section 7652”; added pars. (2) and (3); and redesignated as par. (4) provisions of former par. (2) and inserted reference to allowance of claims under par. (2) or (3).
+1977—Subsec. (d). Pub. L. 95–176, §2(f), reenacted par. (1) and substituted heading “General” for “Allowance of tax” and “(or the tax equal to such tax imposed under section 7652)” for “or under section 7652”; addedpars. (2) and (3); and redesignated as par. (4) provisions of former par. (2) and inserted reference to allowance of claims under par. (2) or (3).
 
 Subsec. (f)(5). Pub. L. 95–176, §4(e), added par. (5).
 

@@ -1,6 +1,6 @@
 ### §5701. Confidential nature of claims
 
-(a) All files, records, reports, and other papers and documents pertaining to any claim under any of the laws administered by the Secretary and the names and addresses of present or former members of the Armed Forces, and their dependents, in the possession of the Department shall be confidential and privileged, and no disclosure thereof shall be made except as provided in this section.
+(a) All files, records, reports, and other papers and documents pertaining to any claim underany of the laws administered by the Secretary and the names and addresses of present or former members of the Armed Forces, and their dependents, in the possession of the Department shall be confidential and privileged, and no disclosure thereof shall be made except as provided in this section.
 
 (b) The Secretary shall make disclosure of such files, records, reports, and other papers and documents as are described in subsection (a) of this section as follows:
 
@@ -38,7 +38,7 @@
 
 &emsp;&emsp;(ii) if the Secretary has determined under such regulations that (I) it is necessary to locate such person in order to conduct a study pursuant to section 527 of this title or a study required by any other provision of law, and (II) all reasonable steps have been taken to assure that the release of such information to such reporting agency will not have an adverse effect on such person; or
 
-&emsp;(B) Obtaining a consumer report in order to assess the ability of a person described in clause (A)(i) of this paragraph to repay the indebtedness of such person to the United States, but the Secretary may release the name or address of such person for the purposestated in this clause only if the Secretary determines under such regulations that such person has failed to respond appropriately to administrative efforts to collect such indebtedness.
+&emsp;(B) Obtaining a consumer report in order to assess the ability of a person described in clause (A)(i) of this paragraph to repay the indebtedness of such person to the United States, but the Secretary may release the name or address of such person for the purpose stated in this clause only if the Secretary determines under such regulations that such person has failed to respond appropriately to administrative efforts to collect such indebtedness.
 
 (3) The Secretary may also release to a consumer reporting agency, for the purposes specified in clause (A) or (B) of paragraph (2) of this subsection, such other information as the Secretary determines under such regulations is reasonably necessary to identify a person described in such paragraph, except that the Secretary may not release to a consumer reporting agency any information which indicates any indebtedness on the part of such person to the United States or any information which reflects adversely on such person. Before releasing any information under this paragraph, the Secretary shall, under such regulations, take reasonable steps to provide for the protection of the personal privacy of persons about whom information is proposed to be released under this paragraph.
 

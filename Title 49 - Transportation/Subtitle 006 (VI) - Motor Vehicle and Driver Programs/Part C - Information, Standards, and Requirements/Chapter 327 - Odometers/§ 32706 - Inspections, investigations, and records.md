@@ -58,7 +58,9 @@ Historical and Revision Notes
 
 Pub. L. 103–272
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -106,7 +108,7 @@ In subsection (b)(2), the words “shall be commenced and completed” are omitt
 
 In subsection (c), the words “the authority of” and “any item of” are omitted as surplus.
 
-In subsection (d)(1), before clause (A), the words “the Secretary may require” are substituted for “as the Secretary may reasonably require” and “as the Secretaryfinds necessary” to eliminate unnecessary words. In clause (B), the words “such officer or employee” and “reason or” are omitted as surplus. In clause (C), the words “duly” and “upon request of such officer or employee” are omitted as surplus.
+In subsection (d)(1), before clause (A), the words “the Secretary may require” are substituted for “as the Secretary may reasonably require” and “as the Secretary finds necessary” to eliminate unnecessary words. In clause (B), the words “such officer or employee” and “reason or” are omitted as surplus. In clause (C), the words “duly” and “upon request of such officer or employee” are omitted as surplus.
 
 In subsection (d)(2), the words “and subsection (e)(1)(B) of this section” are added for clarity.
 
@@ -120,7 +122,7 @@ This amends 49:32706(e)(3) to clarify the restatement of 15:1990d(c)(4) by secti
 
 #### References in Text
 
-Subchapter II of chapter 105 of this title, referred to in subsec. (c), was omitted in the general amendment of subtitle IV of this title by Pub. L. 104–88, title I, §102(a), Dec. 29, 1995, 109 Stat. 804. Provisions similar to those in subchapter II of chapter 105 are contained in chapter 135 of this title.
+Subchapter II of chapter 105 of this title, referred to in subsec. (c), was omitted in the general amendment of subtitle IV of this title by Pub. L. 104–88, title I, §102(a), Dec. 29, 1995, 109 Stat. 804. Provisions similar to those in subchapter II of chapter 105 are contained in subchapter I of chapter 135 of this title.
 
 #### Amendments
 

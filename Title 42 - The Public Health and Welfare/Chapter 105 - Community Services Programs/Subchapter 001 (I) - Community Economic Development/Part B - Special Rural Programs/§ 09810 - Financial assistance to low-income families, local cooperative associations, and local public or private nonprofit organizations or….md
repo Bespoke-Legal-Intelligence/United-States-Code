@@ -16,7 +16,7 @@
 
 &emsp;(3) costs of acquiring technical assistance; and
 
-&emsp;(4) initial capital where it is determined by the Secretary that the poverty of the families participating in the program and the social conditions of the rural area require such assistance.
+&emsp;(4) initial capital where it is determined by the Secretary that the poverty of the familiesparticipating in the program and the social conditions of the rural area require such assistance.
 
 (Pub. L. 97–35, title VI, §621, Aug. 13, 1981, 95 Stat. 493.)
 

@@ -9,3 +9,4 @@
 - [&sect; 01782 - Bureau of Land Management Wilderness Study](%C2%A7%2001782%20-%20Bureau%20of%20Land%20Management%20Wilderness%20Study.md)
 - [&sect; 01783 - Yaquina Head Outstanding Natural Area](%C2%A7%2001783%20-%20Yaquina%20Head%20Outstanding%20Natural%20Area.md)
 - [&sect; 01784 - Lands in Alaska; designation as wilderness; management by Bureau of Land Management pending Congressional action](%C2%A7%2001784%20-%20Lands%20in%20Alaska%3B%20designation%20as%20wilderness%3B%20management%20by%20Bureau%20of%20Land%20Management%20pending%20Congressional%20action.md)
+- [&sect; 01785 - Fossil Forest Research Natural Area](%C2%A7%2001785%20-%20Fossil%20Forest%20Research%20Natural%20Area.md)

@@ -32,11 +32,17 @@ Broadcast Applications and Tower Studies.—In carrying out laws related to a br
 
 &emsp;(2) the completion of any associated aeronautical study.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1200.)
+(d)
+
+Landfills.—For the purposes of enhancing aviation safety, in a case in which 2 landfills have been proposed to be constructed or established within 6 miles of a commercial service airport with fewer than 50,000 enplanements per year, no person shall construct or establish either landfill if an official of the Federal Aviation Administration has stated in writing within the 3-year period ending on the date of the enactment of this subsection that 1 of the landfills would be incompatible with aircraft operations at the airport, unless the landfill is already active on such date of enactment or the airport operator agrees to the construction or establishment of the landfill.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1200; Pub. L. 104–264, title XII, §1220(a), Oct. 9, 1996, 110 Stat. 3286.)
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -60,7 +66,19 @@ In subsection (a), before clause (1), the words “(hereinafter in this section 
 
 In subsection (b)(1), before clause (A), the word “thoroughly” is omitted as surplus.
 
+#### References in Text
+
+The date of the enactment of this subsection, referred to in subsec. (d), is the date of enactment of Pub. L. 104–264, which was approved Oct. 9, 1996.
+
+#### Amendments
+
+1996—Subsec. (d). Pub. L. 104–264 added subsec. (d).
+
+#### Effective Date of 1996 Amendment
+
+Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
+
 #### Section Referred to in Other Sections
 
-This section is referred to in section 106 of this title.
+This section is referred to in sections 106, 46301, 46316 of this title.
 

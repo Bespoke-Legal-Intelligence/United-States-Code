@@ -10,7 +10,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 5 U.S.C. 2334.
 
@@ -30,9 +32,9 @@ Ex. Ord. No. 11552, Aug. 24, 1970, 35 F.R. 13569, as amended by Ex. Ord. No. 121
 
 By virtue of the authority vested in me by section 301 of title 3 and section 3584 of title 5 \[this section\], United States Code, and as President of the United States, it is ordered as follows:
 
-Section 1. <i>Leadership and coordination.</i> The Secretary of State shall provide leadership and coordination for the effort of the Federal Government to increase and improve its participation in international organizations through transfers and details of well-qualified Federal employees, and shall develop policies, procedures, and programs consistent with this order to advance and encourage such participation.
+Section 1. <i>Leadership and coordination</i>. The Secretary of State shall provide leadership and coordination for the effort of the Federal Government to increase and improve its participation in international organizations through transfers and details of well-qualified Federal employees, and shall develop policies, procedures, and programs consistent with this order to advance and encourage such participation.
 
-Sec1. 2. <i>Federal agency cooperation.</i> Each agency in the executive branch of the Federal Government shall to the maximum extent feasible and with due regard to its manpower requirements assist and encourage details and transfers of employees to international organizations by observing the following policies and procedures:
+Sec1. 2. <i>Federal agency cooperation</i>. Each agency in the executive branch of the Federal Government shall to the maximum extent feasible and with due regard to its manpower requirements assist and encourage details and transfers of employees to international organizations by observing the following policies and procedures:
 
 (1) Vacancies in international organizations shall be brought to the notice of well-qualified agency employees whose abilities and levels of responsibility in the Federal service are commensurate with those required to fill such vacancies.
 
@@ -42,7 +44,7 @@ Sec1. 2. <i>Federal agency cooperation.</i> Each agency in the executive branch 
 
 (4) Upon return of an employee to his agency, the agency shall give due consideration to the employee's overall qualifications, including those which may have been acquired during his service with the international organization, in determining the position and grade in which he is reemployed.
 
-Sec. 3. <i>Delegations.</i> (a) Except as otherwise provided in this order, there is hereby delegated to the Office of Personnel Management the authority vested in the President by sections 3582(b) and 3584 of title 5, United States Code.
+Sec. 3. <i>Delegations</i>. (a) Except as otherwise provided in this order, there is hereby delegated to the Office of Personnel Management the authority vested in the President by sections 3582(b) and 3584 of title 5, United States Code.
 
 (b) The following are hereby delegated to the Secretary of State:
 
@@ -50,5 +52,5 @@ Sec. 3. <i>Delegations.</i> (a) Except as otherwise provided in this order, ther
 
 (2) The authority vested in the President by section 3582(b) of title 5, United States Code, to define and specify “pay, allowances, post differential, and other monetary benefits” to be paid by the agency upon reemployment, disability, or death.
 
-Sec. 4. <i>Revocation.</i> Executive Order No. 10804 of February 12, 1959, is hereby revoked.
+Sec. 4. <i>Revocation</i>. Executive Order No. 10804 of February 12, 1959, is hereby revoked.
 

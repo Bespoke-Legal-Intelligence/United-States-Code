@@ -18,7 +18,7 @@ Subject to the provisions of subsection (b) of this section and section 2466a of
 
 #### (b) Hold harmless
 
-Notwithstanding the provisions of subsection (a) of this section, the amounts available tocarry out the activities described in subsection (a)(1) of this section and in subsections (a)(3)(A) and (a)(3)(C) of this section shall be at least equal to the amounts made available for such activities in the fiscal year 1990.
+Notwithstanding the provisions of subsection (a) of this section, the amounts available to carry out the activities described in subsection (a)(1) of this section and in subsections (a)(3)(A) and (a)(3)(C) of this section shall be at least equal to the amounts made available for such activities in the fiscal year 1990.
 
 (Pub. L. 88–210, title IV, §451, as added Pub. L. 98–524, §1, Oct. 19, 1984, 98 Stat. 2479; amended Pub. L. 101–392, title IV, §412, Sept. 25, 1990, 104 Stat. 829.)
 

@@ -4,9 +4,9 @@
 
 (b) Under joint regulations to be prescribed by the administering Secretaries, a member or former member of a uniformed service who is entitled to retired or retainer pay, or equivalent pay may, upon request, be given medical and dental care in any facility of any uniformed service, subject to the availability of space and facilities and the capabilities of the medical and dental staff. The administering Secretaries may, with the agreement of the Secretary of Veterans Affairs, provide care to persons covered by this subsection in facilities operated by the Secretary of Veterans Affairs and determined by him to be available for this purpose on a reimbursable basis at rates approved by the President.
 
-(c) Funds appropriated to a military department may be used to provide medical and dental care to persons entitled to such care by law or regulations, including the provision of such care (other than elective private treatment) in private facilities for members of the armed forces. If a private facility or health care provider providing care under this subsection is a health care provider under the Civilian Health and Medical Program of the Uniformed Services, theSecretary of Defense, after consultation with the other administering Secretaries, may by regulation require the private facility or health care provider to provide such care in accordance with the same payment rules (subject to any modifications considered appropriate by the Secretary) as apply under that program.
+(c) Funds appropriated to a military department may be used to provide medical and dental care to persons entitled to such care by law or regulations, including the provision of such care (other than elective private treatment) in private facilities for members of the armed forces. If a private facility or health care provider providing care under this subsection is a health care provider under the Civilian Health and Medical Program of the Uniformed Services, the Secretary of Defense, after consultation with the other administering Secretaries, may by regulation require the private facility or health care provider to provide such care in accordance with the same payment rules (subject to any modifications considered appropriate by the Secretary) as apply under that program.
 
-(Added Pub. L. 85–861, §1(25)(B), Sept. 2, 1958, 72 Stat. 1446; amended Pub. L. 89–614, §2(2), Sept. 30, 1966, 80 Stat. 862; Pub. L. 96–513, title V, §511(36), (37), Dec. 12, 1980, 94 Stat. 2923; Pub. L. 98–525, title XIV, §1401(e)(1), Oct. 19, 1984, 98 Stat. 2616; Pub. L. 98–557, §19(3), Oct. 30, 1984, 98 Stat. 2869; Pub. L. 101–189, div. A, title VII, §729, title XVI, §1621(a)(2), Nov. 29, 1989, 103 Stat. 1481, 1603; Pub. L. 101–510, div. A, title XIV, §1484(j)(1), Nov. 5, 1990, 104 Stat. 1718.)
+(Added Pub. L. 85–861, §1(25)(B), Sept. 2, 1958, 72 Stat. 1446; amended Pub. L. 89–614, §2(2), Sept. 30, 1966, 80 Stat. 862; Pub. L. 96–513, title V, §511(36), (37), Dec. 12, 1980, 94 Stat. 2923; Pub. L. 98–525, title XIV, §1401(e)(1), Oct. 19, 1984, 98 Stat. 2616; Pub. L. 98–557, §19(3), Oct. 30, 1984, 98 Stat. 2869; Pub. L. 101–189, div. A, title VII, §729, title XVI, §1621(a)(2), Nov. 29, 1989, 103 Stat. 1481, 1603; Pub. L. 101–510, div. A, title XIV, §1484(j)(1), Nov. 5, 1990, 104 Stat. 1718; Pub. L. 104–106, div. A, title VII, §723, Feb. 10, 1996, 110 Stat. 377; Pub. L. 104–201, div. A, title VII, §725(d), Sept. 23, 1996, 110 Stat. 2596.)
 
 Historical and Revision Notes
 
@@ -40,6 +40,20 @@ A prior section 1074, act Aug. 10, 1956, ch. 1041, 70A Stat. 82, related to enac
 
 #### Amendments
 
+1996—Subsec. (d). Pub. L. 104–201 struck out subsec. (d) which read as follows:
+
+“(d)(1) The Secretary of Defense may require, by regulation, a private CHAMPUS provider to apply the CHAMPUS payment rules (subject to any modifications considered appropriate by the Secretary) in imposing charges for health care that the private CHAMPUS provider provides to a member of the uniformed services who is enrolled in a health care plan of a facility deemed to be a facility of the uniformed services under section 911(a) of the Military Construction Authorization Act, 1982 (42 U.S.C. 248c(a)) when the health care is provided outside the catchment area of the facility.
+
+“(2) In this subsection:
+
+&emsp;“(A) The term ‘private CHAMPUS provider’ means a private facility or health care provider that is a health care provider under the Civilian Health and Medical Program of the Uniformed Services.
+
+&emsp;“(B) The term ‘CHAMPUS payment rules’ means the payment rules referred to in subsection (c).
+
+“(3) The Secretary of Defense shall prescribe regulations under this subsection after consultation with the other administering Secretaries.”
+
+Pub. L. 104–106 added subsec. (d).
+
 1990—Subsec. (b). Pub. L. 101–510 substituted “Secretary of Veterans Affairs” for “Administrator” after “operated by the”.
 
 1989—Subsec. (b). Pub. L. 101–189, §1621(a)(2), substituted “Secretary of Veterans Affairs” for “Administrator of Veterans’ Affairs”.
@@ -72,9 +86,43 @@ For effective date of amendment by Pub. L. 89–614, see section 3 of Pub. L. 89
 
 Authority of President under subsec. (b) to approve uniform rates of reimbursement for care provided in facilities operated by Secretary of Veterans Affairs delegated to Secretary of Veterans Affairs, see section 7(a) of Ex. Ord. No. 11609, July 22, 1971, 36 F.R. 13747, set out as a note under section 301 of Title 3, The President.
 
+#### Independent Research Regarding Gulf War Syndrome
+
+Section 743 of Pub. L. 104–201 provided that:
+
+“(a)
+
+Definitions.—For purposes of this section:
+
+&emsp;“(1) The term ‘Gulf War service’ means service on active duty as a member of the Armed Forces in the Southwest Asia theater of operations during the Persian Gulf War.
+
+&emsp;“(2) The term ‘Gulf War syndrome’ means the complex of illnesses and symptoms commonly known as Gulf War syndrome.
+
+&emsp;“(3) The term ‘Persian Gulf War’ has the meaning given that term in section 101(33) of title 38, United States Code.
+
+“(b)
+
+Research.—The Secretary of Defense shall provide, by contract, grant, or other transaction, for scientific research to be carried out by entities independent of the Federal Government on possible causal relationships between Gulf War syndrome and—
+
+&emsp;“(1) the possible exposures of members of the Armed Forces to chemical warfare agents or other hazardous materials during Gulf War service; and
+
+&emsp;“(2) the use by the Department of Defense during the Persian Gulf War of combinations of various inoculations and investigational new drugs.
+
+“(c)
+
+Procedures for Awarding Grants.—The Secretary shall prescribe the procedures to be used to make research awards under subsection (b). The procedures shall—
+
+&emsp;“(1) include a comprehensive, independent peer-review process for the evaluation of proposals for scientific research that are submitted to the Department of Defense; and
+
+&emsp;“(2) provide for the final selection of proposals for award to be based on the scientific merit and program relevance of the proposed research.
+
+“(d)
+
+Availability of Funds.—Of the amount authorized to be appropriated under section 301(21) \[110 Stat. 2475\] for defense medical programs, $10,000,000 is available for research under subsection (b).”
+
 #### Persian Gulf Illness
 
-Pub. L. 103–337, div. A, title VII, §§721, 722, Oct. 5, 1994, 108 Stat. 2804, 2807, provided that:
+Pub. L. 103–337, div. A, title VII, §§721, 722, Oct. 5, 1994, 108 Stat. 2804, 2807, as amended by Pub. L. 104–106, div. A, title XV, §1504(a)(4), (5), Feb. 10, 1996, 110 Stat. 513, provided that:
 
 #### “SEC. 721. PROGRAMS RELATED TO DESERT STORM MYSTERY ILLNESS.
 
@@ -138,7 +186,7 @@ Revision of the Physical Evaluation Board Criteria.—(1) The Secretary of Defen
 
 Review of Records and Rerating of Previously Discharged Gulf War Veterans.—(1) The Secretary of Defense, in consultation with the Secretary of Veterans Affairs, shall ensure that a review is made of the health and personnel records of each Persian Gulf veteran who before the date of the enactment of this Act \[Oct. 5, 1994\] was discharged from active duty, or was medically retired, as a result of a Physical Evaluation Board process.
 
-“(2) The review under paragraph (1) shall be carried out to ensure that former Persian Gulf veterans who may have been suffering from a Persian Gulf-related illness at the time of discharge or retirement from active duty as a result of the Physical Evaluation Board process are revaluated \[sic\] in accordance with the criteria established under subsection (e)(1) and, if appropriate, are rerated.
+“(2) The review under paragraph (1) shall be carried out to ensure that former Persian Gulf veterans who may have been suffering from a Persian Gulf-related illness at the time of discharge or retirement from active duty as a result of the Physical Evaluation Board process are reevaluated in accordance with the criteria established under subsection (e)(1) and, if appropriate, are rerated.
 
 “(g)
 
@@ -206,7 +254,7 @@ Individuals Covered by the Studies.—Studies conducted pursuant to subsections 
 
 Plan for the Studies.—(1) The Secretary of Defense shall prepare a coordinated plan for the studies to be conducted pursuant to subsection (a). The plan shall include plans and requirements for research grants in support of the studies. The Secretary shall submit the plan to the National Academy of Sciences for review and comment.
 
-“(2) The plan for studies pursuant to subsection (a) shall be updated annually. The Secretary of Defense shall request an annual review by the National Academy of Science \[Sciences\] of the updated plan and study progress and results achieved during the preceding year.
+“(2) The plan for studies pursuant to subsection (a) shall be updated annually. The Secretary of Defense shall request an annual review by the National Academy of Sciences of the updated plan and study progress and results achieved during the preceding year.
 
 “(3) The plan, and annual updates to the plan, shall be prepared in coordination with the Secretary of Veterans Affairs and the Secretary of Health and Human Services.
 
@@ -232,7 +280,7 @@ Definition.—In this section, the term ‘Persian Gulf War’ has the meaning g
 
 #### Funding of Fisher Houses Associated With Army Medical Treatment Facilities
 
-Pub. L. 103–335, title VIII, §8017, Sept. 30, 1994, 108 Stat. 2620, provided that: “Notwithstanding any other provision of law, during the current fiscal year and hereafter, proceeds from the investment of the Fisher House Investment Trust Fund will be used to support the operation and maintenance of Fisher Houses associated with Army medical treatment facilities.”
+Pub. L. 103–335, title VIII, §8017, Sept. 30, 1994, 108 Stat. 2620, which provided that during fiscal year 1995 and thereafter, proceeds from investment of Fisher House Investment Trust Fund were to be used to support operation and maintenance of Fisher Houses associated with Army medical treatment facilities, was repealed and restated in section 2221(c)(1) of this title by Pub. L. 104–106, div. A, title IX, §914(a)(1), (d)(4), Feb. 10, 1996, 110 Stat. 412, 413.
 
 #### Mental Health Evaluations of Members of Armed Forces
 
@@ -240,7 +288,7 @@ Pub. L. 102–484, div. A, title V, §546(a)–(h), Oct. 23, 1992, 106 Stat. 241
 
 #### Study on Risk-Sharing Contracts for Health Care
 
-Pub. L. 102–484, div. A, title VII, §725, Oct. 23, 1992, 106 Stat. 2440, directed Secretary of Defense, in consultation with Secretary of Health and Human Services, not later than 18 months after Oct. 23, 1992, to carry out a study of the feasibility and advisability of entering into risk-sharing contracts with eligible organizationsdescribed in 42 U.S.C. 1395mm(b) to furnish health care services to persons entitled to health care in a facility of a uniformed service under section 1074(b) or 1076(b) of this title, to develop a plan for the entry into contracts in accordance with the Secretary's determinations under the study, and to submit to Congress a report describing the results of the study and containing any plan developed.
+Pub. L. 102–484, div. A, title VII, §725, Oct. 23, 1992, 106 Stat. 2440, directed Secretary of Defense, in consultation with Secretary of Health and Human Services, not later than 18 months after Oct. 23, 1992, to carry out a study of the feasibility and advisability of entering into risk-sharing contracts with eligible organizations described in 42 U.S.C. 1395mm(b) to furnish health care services to persons entitled to health care in a facility of a uniformed service under section 1074(b) or 1076(b) of this title, to develop a plan for the entry into contracts in accordance with the Secretary's determinations under the study, and to submit to Congress a report describing the results of the study and containing any plan developed.
 
 #### Registry of Members of Armed Forces Serving in Operation Desert Storm
 
@@ -338,9 +386,9 @@ Pub. L. 99–661, div. A, title VII, §705(c), Nov. 14, 1986, 100 Stat. 3904, pr
 
 Report to President and Congress
 
-Pub. L. 92–129, title I, §101(c), Sept. 28, 1971, 85 Stat. 354, authorized Secretary of Defense and Secretary of Health, Education, and Welfare to conduct a joint study of means of meeting medical needs of Armed Forces through means requiring less dependence on Armed Forces medical personnel, giving consideration to providing medical care for military personnel and their dependents under contracts with clinics, hospitals, and individual members of the medical profession at or near military installations within and outside the United States. The study and recommendations were to be submitted to President and Congress no later than 6 months after Sept. 28, 1971.
+Pub. L. 92–129, title I, §101(c), Sept. 28, 1971, 85 Stat. 354, authorized Secretary of Defense and Secretary of Health, Education, and Welfare to conduct a joint study of means of meeting medical needs of Armed Forces through means requiring less dependence onArmed Forces medical personnel, giving consideration to providing medical care for military personnel and their dependents under contracts with clinics, hospitals, and individual members of the medical profession at or near military installations within and outside the United States. The study and recommendations were to be submitted to President and Congress no later than 6 months after Sept. 28, 1971.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1072, 1074d, 1075, 1078a, 1086, 1087, 1095, 1095a of this title; title 38 section 8111.
+This section is referred to in sections 1072, 1074d, 1075, 1078a, 1086, 1087, 1095, 1095a, 1097 of this title; title 38 section 8111.
 

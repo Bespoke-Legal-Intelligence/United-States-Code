@@ -46,15 +46,15 @@ The President shall review all activities of Government departments and agencies
 
 &emsp;&emsp;(B) each instance in which—
 
-&emsp;&emsp;&emsp;(i) a sanction has been imposed under section 821(a) or section 824 of the Nuclear Proliferation Prevention Act of 1994 or section 2799aa–1(b)(1) of this title;
+&emsp;&emsp;&emsp;(i) a sanction has been imposed under section 6301(a) of this title or section 6303 of this title or section 2799aa–1(b)(1) of this title;
 
 &emsp;&emsp;&emsp;(ii) sales or leases have been denied under section 2753(f) of this title or transactions prohibited by reason of acts relating to proliferation of nuclear explosive devices as described in section 2780(d) of this title;
 
-&emsp;&emsp;&emsp;(iii) a sanction has not been imposed by reason of section 821(c)(2) of the Nuclear Proliferation Prevention Act of 1994 or the imposition of a sanction has been delayed under section 2799aa–1(b)(4) of this title, or
+&emsp;&emsp;&emsp;(iii) a sanction has not been imposed by reason of section 6301(c)(2) of this title or the imposition of a sanction has been delayed under section 2799aa–1(b)(4) of this title, or
 
 &emsp;&emsp;&emsp;(iv) a waiver of a sanction has been made under—
 
-&emsp;&emsp;&emsp;&emsp;(I) section 821(f) or section 824 of the Nuclear Proliferation Prevention Act of 1994,
+&emsp;&emsp;&emsp;&emsp;(I) section 6301(f) of this title or section 6303 of this title,
 
 &emsp;&emsp;&emsp;&emsp;(II) section 2375(d) of this title, or paragraph (5) or (6)(B) of section 2799aa–1(b) of this title,
 
@@ -72,23 +72,17 @@ In the first report required by this section, the President shall analyze each c
 
 (Pub. L. 95–242, title VI, §601, Mar. 10, 1978, 92 Stat. 150; Pub. L. 103–236, title VIII, §811, Apr. 30, 1994, 108 Stat. 507.)
 
-#### Amendment of Section
-
-<i>For termination of amendment by section 851 of Pub. L. 103–236, see Effective and Termination Dates of 1994 Amendment note below.</i>
-
 #### References in Text
 
 The Export Administration Act of 1979, referred to in subsec. (a)(6)(A)(iii), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, as amended, which is classified principally to section 2401 et seq. of Title 50, Appendix, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 2401 of Title 50, Appendix, and Tables.
 
-Sections 821 and 824 of the Nuclear Proliferation Prevention Act of 1994, referred to in subsec. (a)(6)(B), are sections 821 and 824 of Pub. L. 103–236 which are set out in the Nuclear Proliferation Prevention; Effective and Termination Dates of 1994 Amendment note under section 3201 of this title.
-
 #### Amendments
 
-1994—Subsec. (a). Pub. L. 103–236 temporarily struck out “and” after the semicolon in par. (4), substituted a semicolon for the period in par. (5), and added par. (6) and concluding provisions. See Effective and Termination Dates of 1994 Amendment note below.
+1994—Subsec. (a). Pub. L. 103–236 struck out “and” after the semicolon in par. (4), substituted a semicolon for the period in par. (5), and added par. (6) and concluding provisions.
 
-#### Effective and Termination Dates of 1994 Amendment
+#### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–236 effective 60 days after Apr. 30, 1994, and ceases to be effective and is repealed on date of enactment of first Foreign Relations Authorization Act enacted after Apr. 30, 1994, and any provision repealed by that amendment shall be reenacted, see sections 831 and 851 of Pub. L. 103–236, set out in the Nuclear Proliferation Prevention; Effective and Termination Dates of 1994 Amendment note under section 3201 of this title.
+Amendment by Pub. L. 103–236 effective 60 days after Apr. 30, 1994, see section 831 of Pub. L. 103–236, set out as an Effective Date note under section 6301 of this title.
 
 #### Effective Date
 
@@ -100,7 +94,7 @@ Secretary of State responsible for performing function vested in President by th
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3223, 3224, 3244 of this title.
+This section is referred to in sections 3223, 3224, 3244, 6323 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “; and”.</i>
 

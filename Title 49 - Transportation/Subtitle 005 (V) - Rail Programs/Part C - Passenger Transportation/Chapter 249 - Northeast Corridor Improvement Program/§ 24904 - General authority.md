@@ -14,7 +14,7 @@ General.—To carry out this chapter and the Regional Rail Reorganization Act of
 
 &emsp;(5) acquire, build, improve, and install passenger stations, communications and electric power facilities and equipment, public and private highway and pedestrian crossings, and other facilities and equipment necessary to provide improved high-speed rail passenger transportation over rights of way improved under clause (4) of this subsection;
 
-&emsp;(6) make agreements with other carriers and commuter authorities to grant, acquire, or make arrangements for rail freight or commuter rail passenger transportation over, rights of way and facilities acquired under the Regional Rail Reorganization Act of 1973 (45U.S.C. 701 et seq.) and the Railroad Revitalization and Regulatory Reform Act of 1976 (45 U.S.C. 801 et seq.);
+&emsp;(6) make agreements with other carriers and commuter authorities to grant, acquire, or make arrangements for rail freight or commuter rail passenger transportation over, rights of way and facilities acquired under the Regional Rail Reorganization Act of 1973 (45 U.S.C. 701 et seq.) and the Railroad Revitalization and Regulatory Reform Act of 1976 (45 U.S.C. 801 et seq.);
 
 &emsp;(7) appoint a general manager of the Northeast Corridor improvement program; and
 
@@ -38,7 +38,9 @@ Historical and Revision Notes
 
 Pub. L. 103–272
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

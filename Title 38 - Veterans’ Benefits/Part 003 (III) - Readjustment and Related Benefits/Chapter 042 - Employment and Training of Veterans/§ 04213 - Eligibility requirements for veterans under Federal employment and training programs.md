@@ -14,7 +14,7 @@ The Job Training Partnership Act, referred to in text, is Pub. L. 97–300, Oct.
 
 1994—Pub. L. 103–446, §702(b)(3), substituted “eligibility under” for “the needs or qualifications of participants in”.
 
-Pub. L. 103–446, §702(b)(2), which directed insertion of “and any amounts received by an eligible person under chapter 106 of title 10,” after “chapters 13 and 35 of such title, and”, was executed by making the insertion after“chapters 13 and 35 of such title,” to reflect the probable intent of Congress.
+Pub. L. 103–446, §702(b)(2), which directed insertion of “and any amounts received by an eligible person under chapter 106 of title 10,” after “chapters 13 and 35 of such title, and”, was executed by making the insertion after “chapters 13 and 35 of such title,” to reflect the probable intent of Congress.
 
 Pub. L. 103–446, §702(b)(1), which directed substitution of “chapters 11, 13, 30, 31, 35, and 36 of this title by an eligible veteran,” for “chapters 11, 13, 31, 34, 35, and 36 of this title by an eligible veteran and”, was executed by making the substitution for “chapters 11, 13, 31, 34, 35, and 36 of this title by an eligible veteran, and” to reflect the probable intent of Congress.
 

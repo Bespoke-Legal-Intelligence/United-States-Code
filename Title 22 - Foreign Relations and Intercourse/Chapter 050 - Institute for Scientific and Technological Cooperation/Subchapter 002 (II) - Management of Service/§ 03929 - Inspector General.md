@@ -36,7 +36,7 @@ Inspections, investigations, and audits conducted by or under the direction of t
 
 &emsp;(A) a description of significant problems, abuses, and deficiencies relating to the administration of activities and operations of Foreign Service posts, and bureaus and other operating units of the Department of State, which were disclosed by the Inspector General within the reporting period;
 
-&emsp;(B) a description of the recommendations for corrective action made by the Inspector General during the reporting period with respect to significant problems, abuses, or deficiencies described pursuant to subparagraph (A);
+&emsp;(B) a description of the recommendations for corrective action made by the Inspector General during the reporting period with respectto significant problems, abuses, or deficiencies described pursuant to subparagraph (A);
 
 &emsp;(C) an identification of each significant recommendation described in previous annual reports on which corrective action has not been completed;
 

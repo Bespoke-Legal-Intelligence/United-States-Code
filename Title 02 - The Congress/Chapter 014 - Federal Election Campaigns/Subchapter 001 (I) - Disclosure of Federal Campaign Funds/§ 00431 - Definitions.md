@@ -72,7 +72,7 @@ When used in this Act:
 
 > &emsp;but amounts paid or incurred by the regular employer for such legal or accounting services shall be reported in accordance with section 434(b) of this title by the committee receiving such services;
 
-&emsp;(x) the payment by a State or local committee of a political party of the costs of campaign materials (such as pins, bumper stickers, handbills, brochures, posters, party tabloids, and yard signs) used by such committee in connection with volunteer activities on behalf of nominees of such party: <i>Provided,</i> That—
+&emsp;(x) the payment by a State or local committee of a political party of the costs of campaign materials (such as pins, bumper stickers, handbills, brochures, posters, party tabloids, and yard signs) used by such committee in connection with volunteer activities on behalf of nominees of such party: <i>Provided</i>, That—
 
 &emsp;&emsp;(1) such payments are not for the costs of campaign materials or activities used in connection with any broadcasting, newspaper, magazine, billboard, direct mail, or similar type of general public communication or political advertising;
 
@@ -80,9 +80,9 @@ When used in this Act:
 
 &emsp;&emsp;(3) such payments are not made from contributions designated to be spent on behalf of a particular candidate or particular candidates;
 
-&emsp;(xi) the payment by a candidate, for nomination or election to any public office (including State or local office), or authorized committee of a candidate, of the costs of campaign materials which include information on or referenced to any other candidate and which are used in connection with volunteer activities (including pins, bumper stickers, handbills, brochures, posters, and yard signs, but not including the use of broadcasting, newspapers, magazines, billboards, direct mail, or similar types of general public communication or political advertising): <i>Provided,</i> That such payments are made from contributions subject to the limitations and prohibitions of this Act;
+&emsp;(xi) the payment by a candidate, for nomination or election to any public office (including State or local office), or authorized committee of a candidate, of the costs of campaign materials which include information on or referenced to any other candidate and which are used in connection with volunteer activities (including pins, bumper stickers, handbills, brochures, posters, and yard signs, but not including the use of broadcasting, newspapers, magazines, billboards, direct mail, or similar types of general public communication or political advertising): <i>Provided</i>, That such payments are made from contributions subject to the limitations and prohibitions of this Act;
 
-&emsp;(xii) the payment by a State or local committee of a political party of the costs of voter registration and get-out-the-vote activities conducted by such committee on behalf of nominees of such party for President and Vice President: <i>Provided,</i> That—
+&emsp;(xii) the payment by a State or local committee of a political party of the costs of voter registration and get-out-the-vote activities conducted by such committee on behalf of nominees of such party for President and Vice President: <i>Provided</i>, That—
 
 &emsp;&emsp;(1) such payments are not for the costs of campaign materials or activities used in connection with any broadcasting, newspaper, magazine, billboard, direct mail, or similar type of general public communication or political advertising;
 
@@ -106,7 +106,7 @@ When used in this Act:
 
 &emsp;(ii) nonpartisan activity designed to encourage individuals to vote or to register to vote;
 
-&emsp;(iii) any communication by any membership organization or corporation to its members, stockholders, or executive or administrative personnel, if such membership organization or corporation is not organized primarily for the purpose of influencing the nomination for election, or election, of any individual to Federal office, except that the costs incurred by a membership organization (including a labor organization) or by a corporation directly attributable to a communication expressly advocating the election or defeat of a clearly identified candidate (other than a communication primarily devoted to subjects other than the express advocacy of the election or defeat of a clearly identified candidate), shall, if such costs exceed $2,000 for any election, be reported to the Commission in accordance with section 434(a)(4)(A)(i) of this title, and in accordance with section 434(a)(4)(A)(ii) of this title with respect to any general election;
+&emsp;(iii) any communication by any membership organization or corporation to its members, stockholders, or executive or administrative personnel, if such membership organization or corporation is not organized primarily for the purpose of influencing the nomination for election, or election, of any individual to Federal office, except that the costs incurred by amembership organization (including a labor organization) or by a corporation directly attributable to a communication expressly advocating the election or defeat of a clearly identified candidate (other than a communication primarily devoted to subjects other than the express advocacy of the election or defeat of a clearly identified candidate), shall, if such costs exceed $2,000 for any election, be reported to the Commission in accordance with section 434(a)(4)(A)(i) of this title, and in accordance with section 434(a)(4)(A)(ii) of this title with respect to any general election;
 
 &emsp;(iv) the payment by a State or local committee of a political party of the costs of preparation, display, or mailing or other distribution incurred by such committee with respect to a printed slate card or sample ballot, or other printed listing, of 3 or more candidates for any public office for which an election is held in the State in which such committee is organized, except that this clause shall not apply to costs incurred by such committee with respect to a display of any such listing made on broadcasting stations, or in newspapers, magazines, or similar types of general public political advertising;
 
@@ -122,7 +122,7 @@ When used in this Act:
 
 > &emsp;but amounts paid or incurred by the regular employer for such legal or accounting services shall be reported in accordance with section 434(b) of this title by the committee receiving such services;
 
-&emsp;(viii) the payment by a State or local committee of a political party of the costs of campaign materials (such as pins, bumper stickers, handbills, brochures, posters, party tabloids, and yard signs) used by such committee in connection with volunteer activities on behalf of nominees of such party: <i>Provided,</i> That—
+&emsp;(viii) the payment by a State or local committee of a political party of the costs of campaign materials (such as pins, bumper stickers, handbills, brochures, posters, party tabloids, and yard signs) used by such committee in connection with volunteer activities on behalf of nominees of such party: <i>Provided</i>, That—
 
 &emsp;&emsp;(1) such payments are not for the costs of campaign materials or activities used in connection with any broadcasting, newspaper, magazine, billboard, direct mail, or similar type of general public communication or political advertising;
 
@@ -130,7 +130,7 @@ When used in this Act:
 
 &emsp;&emsp;(3) such payments are not made from contributions designated to be spent on behalf of a particular candidate or particular candidates;
 
-&emsp;(ix) the payment by a State or local committee of a political party of the costs of voter registration and get-out-the-vote activities conducted by such committee on behalf of nominees of such party for President and Vice President: <i>Provided,</i> That—
+&emsp;(ix) the payment by a State or local committee of a political party of the costs of voter registration and get-out-the-vote activities conducted by such committee on behalf of nominees of such party for President and Vice President: <i>Provided</i>, That—
 
 &emsp;&emsp;(1) such payments are not for the costs of campaign materials or activities used in connection with any broadcasting, newspaper, magazine, billboard, direct mail, or similar type of general public communication or political advertising;
 
@@ -222,7 +222,7 @@ Section 301 of Pub. L. 96–187 provided that:
 
 Section 410 of Pub. L. 93–443 provided that:
 
-“(a) Except as provided by subsection (b) and subsection (c), the foregoing provisions of this Act \[enacting sections 437a to 437h, 439a to 439c, 455 and 456 of this title sections 614 to 617 of Title 18, Crimes and Criminal Procedure, and sections 9031 to 9042 of Title 26, Internal Revenue Code, amending sections 431 to 437, 438, 439, 451 to 453 of this title, sections 1501 to 1503 of Title 5, Government Organization and Employees, sections 591, 608, 610, 611, and 613 of Title 18, sections 276, 6012, and 9002 to 9012 of Title 26, and section 315 of Title 47, Telegraphs, Telephones, and Radiotelegraphs, repealing section 440 of this title, section 9021 of Title 26, and sections 801 to 805 of Title 47, and enacting provisions set out as notes under this section and sections 432, 434, 437c, and 438 of this title, sections 591 and 608 of Title 18, and section 9006 of Title 26\] shall become effective January 1, 1975.
+“(a) Except as provided by subsection (b) and subsection (c), the foregoing provisions of this Act \[enacting sections 437a to 437h, 439a to 439c, 455 and 456 of this title sections 614 to 617 of Title 18, Crimes and Criminal Procedure, and sections 9031 to 9042 of Title 26, Internal Revenue Code, amending sections 431 to 437, 438, 439, 451 to 453 of this title, sections 1501 to 1503 of Title 5, Government Organization and Employees, sections 591, 608, 610, 611, and 613 of Title 18, sections 276, 6012, and 9002 to 9012 of Title 26, and section 315 of Title 47, Telegraphs, Telephones, and Radiotelegraphs, repealing section 440 of this title, section 9021 of Title 26, and sections 801 to 805 of Title 47, and enacting provisions setout as notes under this section and sections 432, 434, 437c, and 438 of this title, sections 591 and 608 of Title 18, and section 9006 of Title 26\] shall become effective January 1, 1975.
 
 “(b) Section 104 \[set out as a note under section 591 of Title 18\] and the amendment made by section 301 \[amending section 453 of this title\] shall become effective on the date of the enactment of this Act \[Oct. 15, 1974\].
 

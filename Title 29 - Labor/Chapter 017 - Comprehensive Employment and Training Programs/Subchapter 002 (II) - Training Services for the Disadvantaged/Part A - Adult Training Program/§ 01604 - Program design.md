@@ -6,9 +6,9 @@
 
 &emsp;The programs under this part shall include—
 
-&emsp;&emsp;(A) an objective assessment of the skill levels and service needs of each participant, which shall include a review of basic skills, occupational skills, prior work experience, employability, interests, aptitudes (including interests and aptitudes for nontraditional jobs), and supportive service needs, except that a new assessment of a participant is not required if the program determines it is appropriate to use a recent assessment of the participant conducted pursuant to another education or training program (such as the JOBS program);
+&emsp;&emsp;(A) an objective assessment of the skill levels and service needs of each participant, which shall include a review of basic skills, occupational skills, prior work experience, employability, interests, aptitudes (including interests and aptitudes for nontraditional jobs), and supportive service needs, except that a new assessment of a participant is not required if the program determines it is appropriate to use a recent assessment of the participant conducted pursuant to another education or training program;
 
-&emsp;&emsp;(B) development of service strategies that shall identify the employment goal (including, in appropriate circumstances, nontraditional employment), appropriate achievement objectives, and appropriate services for participants taking into account the assessments conducted pursuant to subparagraph (A), except that a new service strategy for a participant is not required if the program determines it is appropriate to use a recent service strategy developed for the participant under another education or training program (such as the JOBS program);
+&emsp;&emsp;(B) development of service strategies that shall identify the employment goal (including, in appropriate circumstances, nontraditional employment), appropriate achievement objectives, and appropriate services for participants taking into account the assessments conducted pursuant to subparagraph (A), except that a new service strategy for a participant is not required if the program determines it is appropriate to use a recent service strategy developed for the participant under another education or training program;
 
 &emsp;&emsp;(C) a review of the progress of each participant in meeting the objectives of the service strategy; and
 
@@ -34,7 +34,7 @@
 
 #### (i) Service providers
 
-&emsp;&emsp;&emsp;Each service provider shall ensure that an eligible applicant who does not meet the enrollment requirements of its particular program or who cannot be served shall be referred to the service delivery area for further assessment, as necessary, and referral to appropriate programs in accordance with subparagraph (A) to meetthe basic skills and training needs of the applicant.
+&emsp;&emsp;&emsp;Each service provider shall ensure that an eligible applicant who does not meet the enrollment requirements of its particular program or who cannot be served shall be referred to the service delivery area for further assessment, as necessary, and referral to appropriate programs in accordance with subparagraph (A) to meet the basic skills and training needs of the applicant.
 
 #### (ii) Service delivery area
 
@@ -142,7 +142,7 @@ Subject to the limitations contained in subsection (c) of this section, services
 
 #### (5) Prohibition on private actions
 
-&emsp;Nothing in this section shall be construed to establish a right for a participant to bring anaction to obtain services described in the assessment or service strategy developed under subsection (a)(1) of this section.
+&emsp;Nothing in this section shall be construed to establish a right for a participant to bring an action to obtain services described in the assessment or service strategy developed under subsection (a)(1) of this section.
 
 #### (6) Volunteers
 
@@ -202,13 +202,13 @@ Subject to the limitations contained in subsection (c) of this section, services
 
 #### (ii) Governor
 
-&emsp;&emsp;&emsp;With respect to the application of sections 1516(b), 1518(b), 1551(d)(3)(C), and 1605 of this title to programs conducted under this subsection, the term “service delivery area”, as used in such provisions, means the Governor.
+&emsp;&emsp;&emsp;With respect to the application of sections 1516(b), 1518(b), 1551(d)(3)(C), and 1605of this title to programs conducted under this subsection, the term “service delivery area”, as used in such provisions, means the Governor.
 
 #### (7) “Older individual” defined
 
 &emsp;As used in this subsection, the term “older individual” means an individual age 55 or older.
 
-(Pub. L. 97–300, title II, §204, as added Pub. L. 102–367, title II, §203, Sept. 7, 1992, 106 Stat. 1055.)
+(Pub. L. 97–300, title II, §204, as added Pub. L. 102–367, title II, §203, Sept. 7, 1992, 106 Stat. 1055; amended Pub. L. 104–193, title I, §110(n)(6), Aug. 22, 1996, 110 Stat. 2174.)
 
 #### References in Text
 
@@ -218,11 +218,19 @@ The Older Americans Act of 1965, referred to in subsec. (d)(4), (5)(B)(i), is Pu
 
 A prior section 1604, Pub. L. 97–300, title II, §204, Oct. 13, 1982, 96 Stat. 1361; Pub. L. 101–392, §5(a)(2), Sept. 25, 1990, 104 Stat. 758; Pub. L. 102–235, §8, Dec. 12, 1991, 105 Stat. 1809, related to use of funds for training services for the disadvantaged, prior to repeal by Pub. L. 102–367, title II, §201, title VII, §701(a), Sept. 7, 1992, 106 Stat. 1052, 1103, effective July 1, 1993.
 
+#### Amendments
+
+1996—Subsec. (a)(1)(A), (B). Pub. L. 104–193 struck out “(such as the JOBS program)” after “another education or training program”.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–193 effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as an Effective Date note under section 601 of Title 42, The Public Health and Welfare.
+
 #### Effective Date
 
 Section effective July 1, 1993, see section 701(a) of Pub. L. 102–367 set out as an Effective Date of 1992 Amendment; Transition Provisions note under section 1501 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1503, 1516, 1518, 1519, 1577, 1602, 1603, 1644, 1791c of this title; title 7 section 2014; title 42 section 3056h.
+This section is referred to in sections 1503, 1516, 1518, 1519, 1577, 1602, 1603, 1644, 1791c of this title; title 7 section 2014; title 42 sections 3056h, 11444.
 

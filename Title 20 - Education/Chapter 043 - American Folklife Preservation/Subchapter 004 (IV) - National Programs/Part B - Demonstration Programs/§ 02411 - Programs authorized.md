@@ -24,5 +24,5 @@ Pub. L. 100–418, title VI, §6133, Aug. 23, 1988, 102 Stat. 1512, directed Sec
 
 #### Demonstration Program for Technological Literacy
 
-Pub. L. 100–418, title VI, §6135, Aug. 23, 1988, 102 Stat. 1512, directed Secretary to establish demonstration programs in vocational training centers and community colleges for purpose of providing modular training in basic skills with objective of rendering participants technologically literate, prior to repeal by Pub. L. 103–382, title III, §391(i), Oct. 20, 1994, 108 Stat. 4023.
+Pub. L. 100–418, title VI, §6135, Aug. 23, 1988, 102 Stat. 1512, directed Secretary to establish demonstration programs in vocational training centers and community colleges for purpose of providing modular training in basic skills with objective of rendering participantstechnologically literate, prior to repeal by Pub. L. 103–382, title III, §391(i), Oct. 20, 1994, 108 Stat. 4023.
 

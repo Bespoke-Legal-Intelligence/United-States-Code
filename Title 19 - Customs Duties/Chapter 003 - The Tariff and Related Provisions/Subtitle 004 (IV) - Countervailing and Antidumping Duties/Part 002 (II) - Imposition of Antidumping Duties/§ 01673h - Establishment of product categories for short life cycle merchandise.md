@@ -100,7 +100,7 @@ For purposes of this section—
 
 &emsp;&emsp;Short life cycle merchandise of a manufacturer shall not be treated as being the subject of an affirmative dumping determination if—
 
-&emsp;&emsp;&emsp;(i) such merchandise of the manufacturer is part of a group of merchandise to which the administering authority assigns (in lieu of making separate determinations described in subparagraph (A)(i)(I)) an amount determined to be the amount by which the normal value of the merchandise in such group exceeds the export price (or the constructed export price) of the merchandise in such group, and
+&emsp;&emsp;&emsp;(i) such merchandise of the manufacturer is part of a group of merchandise to which the administering authority assigns\(in lieu of making separate determinations described in subparagraph (A)(i)(I)) an amount determined to be the amount by which the normal value of the merchandise in such group exceeds the export price (or the constructed export price) of the merchandise in such group, and
 
 &emsp;&emsp;&emsp;(ii) the merchandise and the manufacturer are not specified by name in the affirmative dumping determination or in any antidumping duty order issued as a result of such affirmative dumping determination.
 

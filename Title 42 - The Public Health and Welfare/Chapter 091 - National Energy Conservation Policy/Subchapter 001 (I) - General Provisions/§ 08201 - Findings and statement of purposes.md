@@ -38,7 +38,7 @@ Pub. L. 100–615, §1, Nov. 5, 1988, 102 Stat. 3185, provided that: “This Act
 
 #### Short Title of 1986 Amendment
 
-Section 1 of Pub. L. 99–412 provided that: “This Act \[enacting sections 8227 to 8229 of this title, amending sections 8201, 8211, 8213 to 8220, and 8226 of this title, repealing sections 8281 to 8281b, 8282 to 8282b, 8283, 8283a, and 8284 of this title, and enacting provisions set out as notes under sections 8211, 8216, 8217, 8281, and 8282 of this title\] may be cited as the ‘Conservation Service Reform Act of 1986’.”
+Section 1 of Pub. L. 99–412 provided that: “This Act \[enacting sections 8227 to 8229 of this title, amendingsections 8201, 8211, 8213 to 8220, and 8226 of this title, repealing sections 8281 to 8281b, 8282 to 8282b, 8283, 8283a, and 8284 of this title, and enacting provisions set out as notes under sections 8211, 8216, 8217, 8281, and 8282 of this title\] may be cited as the ‘Conservation Service Reform Act of 1986’.”
 
 #### Short Title
 

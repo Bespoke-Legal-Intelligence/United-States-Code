@@ -76,5 +76,5 @@ Delegation of authority, see section 2356 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 114, 2351, 2356 of this title; title 42 sections 241, 6981, 7404.
+This section is referred to in sections 114, 2351 of this title; title 42 sections 241, 6981, 7404.
 

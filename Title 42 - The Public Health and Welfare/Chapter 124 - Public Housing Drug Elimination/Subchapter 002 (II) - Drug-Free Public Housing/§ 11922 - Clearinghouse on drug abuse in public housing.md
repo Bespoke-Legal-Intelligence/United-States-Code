@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-The Secretary of Housing and Urban Development shall establish, in the Office of Public Housing in the Department of Housing and Urban Development, a clearinghouse to receive, collect, process, and assemble information regarding the abuse of controlled substances in public housing projects.
+The Secretary of Housing and Urban Development shall establish, in the Office of Public Housing in the Department of Housing and Urban Development, a clearinghouse to receive,collect, process, and assemble information regarding the abuse of controlled substances in public housing projects.
 
 #### (b) Functions
 

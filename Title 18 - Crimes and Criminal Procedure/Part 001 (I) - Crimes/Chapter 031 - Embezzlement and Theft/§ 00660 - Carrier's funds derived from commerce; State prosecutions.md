@@ -1,4 +1,4 @@
-### §660 . Carrier's funds derived from commerce; State prosecutions
+### §660. Carrier's funds derived from commerce; State prosecutions
 
 Whoever, being a president, director, officer, or manager of any firm, association, or corporation engaged in commerce as a common carrier, or whoever, being an employee of such common carrier riding in or upon any railroad car, motortruck, steamboat, vessel, aircraft or other vehicle of such carrier moving in interstate commerce, embezzles, steals, abstracts, or willfully misapplies, or willfully permits to be misapplied, any of the moneys, funds, credits, securities, property, or assets of such firm, association, or corporation arising or accruing from, or used in, such commerce, in whole or in part, or willfully or knowingly converts the same to his own use or to the use of another, shall be fined under this title or imprisoned not more than ten years, or both.
 
@@ -16,7 +16,7 @@ Section consolidates a portion of section 409 with section 412, both of title 18
 
 Definitive language in section 412 of title 18, U.S.C., 1940 ed., as to offense being a felony was deleted to conform with section 1 of this title. (See reviser's note under section 550 of this title.)
 
-Words “imprisoned” was substituted for “confined in the penitentiary” in section 412 of title 18, U.S.C., 1940ed., in view of power of Attorney General under section 4082 of this title.
+Words “imprisoned” was substituted for “confined in the penitentiary” in section 412 of title 18, U.S.C., 1940 ed., in view of power of Attorney General under section 4082 of this title.
 
 Minimum punishment provision “less than one year nor” in section 412 of title 18, U.S.C., 1940 ed., was omitted for reasons in reviser's note under section 203 of this title.
 

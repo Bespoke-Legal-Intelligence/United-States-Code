@@ -6,7 +6,7 @@ There shall be in the Institute an Associate Director for Prevention who shall b
 
 #### (b) Biennial report
 
-The Associate Director for Prevention shall prepare for inclusion in the biennial report made under section 284b of this title a description ofthe prevention activities of the Institute, including a description of the staff and resources allocated to those activities.
+The Associate Director for Prevention shall prepare for inclusion in the biennial report made under section 284b of this title a description of the prevention activities of the Institute, including a description of the staff and resources allocated to those activities.
 
 (July 1, 1944, ch. 373, title IV, §464I, as added July 10, 1992, Pub. L. 102–321, title I, §122(c), 106 Stat. 359.)
 

@@ -6,7 +6,7 @@
 
 (c) Notwithstanding subsection (b), if a new application for pension under chapter 15 of this title or for dependency and indemnity compensation for parents under section 1315 of this title is filed within one year after renouncement of that benefit, such application shall not be treated as an original application and benefits will be payable as if the renouncement had not occurred.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1231, §3106; Pub. L. 99–576, title VII, §701(73), Oct. 28, 1986, 100Stat. 3297; renumbered §5306, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, §4(a)(1), Aug. 6, 1991, 105 Stat. 403; Pub. L. 103–446, title V, §503, Nov. 2, 1994, 108 Stat. 4663.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1231, §3106; Pub. L. 99–576, title VII, §701(73), Oct. 28, 1986, 100 Stat. 3297; renumbered §5306, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, §4(a)(1), Aug. 6, 1991, 105 Stat. 403; Pub. L. 103–446, title V, §503, Nov. 2, 1994, 108 Stat. 4663.)
 
 #### Amendments
 

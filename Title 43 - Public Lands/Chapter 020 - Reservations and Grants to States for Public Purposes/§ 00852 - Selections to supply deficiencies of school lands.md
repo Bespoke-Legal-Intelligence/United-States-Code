@@ -4,7 +4,7 @@
 
 The lands appropriated by section 851 of this title shall be selected from any unappropriated, surveyed or unsurveyed public lands within the State where such losses or deficiencies occur subject to the following restrictions:
 
-&emsp;(1) No lands mineral in character may be selected by a State except to the extent that theselection is being made as indemnity for mineral lands lost to the State because of appropriation before title could pass to the State;
+&emsp;(1) No lands mineral in character may be selected by a State except to the extent that the selection is being made as indemnity for mineral lands lost to the State because of appropriation before title could pass to the State;
 
 &emsp;(2) No lands on a known geologic structure of a producing oil or gas field may be selected except to the extent that the selection is being made as indemnity for lands on such a structure lost to the State because of appropriation before title could pass to the State; and
 

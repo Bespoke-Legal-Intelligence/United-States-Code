@@ -16,7 +16,7 @@
 
 &emsp;(2) Parents’ dependency and indemnity compensation provided under section 1315 of this title.
 
-&emsp;(3) Health-care services furnished under sections 1710(a)(1)(I), 1710(a)(2), 1710(b), and 1712(a)(2)(B) of this title.
+&emsp;(3) Health-care services furnished under subsections (a)(2)(G), (a)(3), and (b) of section 1710 of this title.
 
 &emsp;(4) Compensation paid under chapter 11 of this title at the 100 percent rate based solely on unemployability and without regard to the fact that the disability or disabilities are not rated as 100 percent disabling under the rating schedule.
 
@@ -28,13 +28,15 @@
 
 (g) The authority of the Secretary to obtain information from the Secretary of the Treasury or the Secretary of Health and Human Services under section 6103(<i>l</i>)(7)(D)(viii) of the Internal Revenue Code of 1986 expires on September 30, 1998.
 
-(Added Pub. L. 101–508, title VIII, §8051(b)(1), Nov. 5, 1990, 104 Stat. 1388–350, §3117; renumbered §5317, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; amended Pub. L. 102–83, §5(c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L.102–568, title VI, §602(a), Oct. 29, 1992, 106 Stat. 4342; Pub. L. 103–66, title XII, §12004, Aug. 10, 1993, 107 Stat. 414.)
+(Added Pub. L. 101–508, title VIII, §8051(b)(1), Nov. 5, 1990, 104 Stat. 1388–350, §3117; renumbered §5317, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; amended Pub. L. 102–83, §5(c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–568, title VI, §602(a), Oct. 29, 1992, 106 Stat. 4342; Pub. L. 103–66, title XII, §12004, Aug. 10, 1993, 107 Stat. 414; Pub. L. 104–262, title I, §101(e)(3), Oct. 9, 1996, 110 Stat. 3181.)
 
 #### References in Text
 
 Section 6103(<i>l</i>)(7)(D)(viii) of the Internal Revenue Code, referred to in subsecs. (a), (b), and (g), is classified to section 6103(<i>l</i>)(7)(D)(viii) of Title 26, Internal Revenue Code.
 
 #### Amendments
+
+1996—Subsec. (c)(3). Pub. L. 104–262 substituted “subsections (a)(2)(G), (a)(3), and (b) of section 1710” for “sections 1710(a)(1)(I), 1710(a)(2), 1710(b), and 1712(a)(2)(B)”.
 
 1993—Subsec. (g). Pub. L. 103–66 substituted “1998” for “1997”.
 

@@ -2,13 +2,13 @@
 
 #### (a) Establishment of accreditation program
 
-(1) Within 180 days after November 16, 1990, the Secretary, acting through the Director, shall issue regulations which shall include—
+(1) The Secretary, acting through the Director, shall issue regulations which shall include—
 
 &emsp;(A) procedures and conditions, including sampling procedures referred to in section 5404 of this title, for the accreditation by the Institute of laboratories engaged in the inspection and testing of fasteners under section 5404 of this title;
 
 &emsp;(B) procedures and conditions (which shall be consistent with the procedures and conditions established under subparagraph (A)), using to the extent practicable the requirements of national or international consensus documents intended to govern the operation of accreditation bodies, under which private entities may apply for approval by the Secretary to engage directly in the accreditation of laboratories in accordance with the requirements of this chapter; and
 
-&emsp;(C) conditions (which shall be consistent with the procedures and conditions established under subparagraph (A)), under which the accreditation of foreign laboratories by their governments or organizations recognized bythe Director shall be deemed to satisfy the laboratory accreditation requirements of this section.
+&emsp;(C) conditions (which shall be consistent with the procedures and conditions established under subparagraph (A)), under which the accreditation of foreign laboratories by their governments or organizations recognized by the Director shall be deemed to satisfy the laboratory accreditation requirements of this section.
 
 (2) Upon establishing a laboratory accreditation program under paragraph (1), the Secretary shall publish a notice in the Federal Register stating that the Secretary is prepared to accept applications for accreditation of such laboratories.
 
@@ -36,9 +36,13 @@ Existing Institute accreditation procedures stated in part 7 of title 15, Code o
 
 #### (e) Recommendations to consensus standards organizations
 
-The Director shall periodically transmit to appropriate consensus standards organizations any information or recommendations that may be useful in the establishment or application by such organizations of standards and specifications for fasteners.
+The Director shall periodically transmit to appropriate consensus standards organizations any information or recommendations that may be useful in the establishment or application bysuch organizations of standards and specifications for fasteners.
 
-(Pub. L. 101–592, §6, Nov. 16, 1990, 104 Stat. 2947.)
+(Pub. L. 101–592, §6, Nov. 16, 1990, 104 Stat. 2947; Pub. L. 104–113, §11(e), Mar. 7, 1996, 110 Stat. 781.)
+
+#### Amendments
+
+1996—Subsec. (a)(1). Pub. L. 104–113 substituted “The Secretary” for “Within 180 days after November 16, 1990, the Secretary”.
 
 #### Section Referred to in Other Sections
 

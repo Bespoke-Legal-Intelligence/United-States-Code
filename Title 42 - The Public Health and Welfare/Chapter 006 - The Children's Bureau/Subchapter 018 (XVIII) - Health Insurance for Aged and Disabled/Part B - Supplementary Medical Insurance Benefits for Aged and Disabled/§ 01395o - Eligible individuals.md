@@ -20,7 +20,7 @@ Part A of this subchapter, referred to in par. (1), is classified to section 139
 
 #### Persons Convicted of Subversive Activities
 
-Section 104(b)(2) of Pub. L. 89–97 provided that: “An individual who has been convicted of any offense under\(A) chapter 37 \[section 792 et seq. of Title 18, Crimes and Criminal Procedure\] (relating to espionage and censorship), chapter 105 \[section 2151 et seq. of Title 18\] (relating to sabotage), or chapter 115 \[section 2381 et seq. of Title 18\] (relating to treason, sedition, and subversive activities) of title 18 of the United States Code, or (B) section 4, 112, or 113 of the Internal Security Act of 1950, as amended \[section 783, 822, or 823 of Title 50, War and National Defense\], may not enroll under part B of title XVIII of the Social Security Act \[this part\].”
+Section 104(b)(2) of Pub. L. 89–97 provided that: “An individual who has been convicted of any offense under (A) chapter 37 \[section 792 et seq. of Title 18, Crimes and Criminal Procedure\] (relating to espionage and censorship), chapter 105 \[section 2151 et seq. of Title 18\] (relating to sabotage), or chapter 115 \[section 2381 et seq. of Title 18\] (relating to treason, sedition, and subversive activities) of title 18 of the United States Code, or (B) section 4, 112, or 113 of the Internal Security Act of 1950, as amended \[section 783, 822, or 823 of Title 50, War and National Defense\], may not enroll under part B of title XVIII of the Social Security Act \[this part\].”
 
 #### Section Referred to in Other Sections
 

@@ -18,7 +18,7 @@ Whenever—
 
 &emsp;(B) in baggage belonging to and accompanying a passenger being lawfully transported on such conveyance; or
 
-&emsp;(C) in the cargo of the conveyance if the cargo is listed on the manifest and marks, numbers, weights and quantities of the outer packages or containers agree with the manifest;
+&emsp;(C) in the cargo of the conveyance if the cargo is listed on the manifest and marks,numbers, weights and quantities of the outer packages or containers agree with the manifest;
 
 > unless the owner or operator, or the master, pilot, conductor, driver or other person in charge participated in, or had knowledge of, the violation, or was grossly negligent in preventing or discovering the violation.
 
@@ -76,7 +76,7 @@ Provisions substantially similar to subsec. (a) of this section, so far as it re
 
 1988—Subsec. (b). Pub. L. 100–690 designated existing provisions as par. (1), redesignated former pars. (1), (2), and (3) as subpars. (A), (B), and (C), respectively, and added par. (2).
 
-1986—Pub. L. 99–570 amended section generally. Prior to amendment, section catchline read “Libel of vessels and vehicles” and text read as follows: “Whenever a vessel or vehicle, or the owner or master, conductor, driver, or other person in charge thereof, has become subject to a penalty for violation of the customs-revenue laws of the United States, such vessel or vehicle shall be held for the payment of such penalty and may be seized and proceeded against summarily by libel to recover the same: <i>Provided,</i> That no vessel or vehicle used by any person as a common carrier in the transaction of business as such common carrier shall be so held or subject to seizure or forfeiture under the customs laws, unless it shall appear that the owner or master of such vessel or the conductor, driver, or other person in charge of such vehicle was at the time of the alleged illegal act a consenting party or privy thereto.”
+1986—Pub. L. 99–570 amended section generally. Prior to amendment, section catchline read “Libel of vessels and vehicles” and text read as follows: “Whenever a vessel or vehicle, or the owner or master, conductor, driver, or other person in charge thereof, has become subject to a penalty for violation of the customs-revenue laws of the United States, such vessel or vehicle shall be held for the payment of such penalty and may be seized and proceeded against summarily by libel to recover the same: <i>Provided</i>, That no vessel or vehicle used by any person as a common carrier in the transaction of business as such common carrier shall be so held or subject to seizure or forfeiture under the customs laws, unless it shall appear that the owner or master of such vessel or the conductor, driver, or other person in charge of such vehicle was at the time of the alleged illegal act a consenting party or privy thereto.”
 
 #### Cross References
 

@@ -6,7 +6,7 @@
 
 \[(c) Repealed. Pub. L. 103–355, title I, §1021, Oct. 13, 1994, 108 Stat. 3257.\]
 
-(d) The fee for performing a cost-plus-a-fixed-fee contract for experimental, developmental, or research work may not be more than 15 percent of the estimated cost of the contract, not including the fee. The fee for performing a cost-plus-a-fixed-fee contract for architectural or engineering services for a public work or utility plus the cost of those services to the contractor may not be more than 6 percent of the estimated cost of that work or project, not including fees. The fee for performing any other cost-plus-a-fixed-fee contract may not be more than 10 percent of the estimated cost of the contract, not including the fee. Determinations under this subsection of the estimated costs of a contract or project shall be made by the head of the agency at the time the contract is made.
+(d) The fee for performing a cost-plus-a-fixed-fee contract for experimental, developmental, or research work may not be more than 15 percentof the estimated cost of the contract, not including the fee. The fee for performing a cost-plus-a-fixed-fee contract for architectural or engineering services for a public work or utility plus the cost of those services to the contractor may not be more than 6 percent of the estimated cost of that work or project, not including fees. The fee for performing any other cost-plus-a-fixed-fee contract may not be more than 10 percent of the estimated cost of the contract, not including the fee. Determinations under this subsection of the estimated costs of a contract or project shall be made by the head of the agency at the time the contract is made.
 
 (e) Each cost contract and each cost-plus-a- fixed-fee contract shall provide for notice to the agency by the contractor before the making, under the prime contract, of—
 
@@ -52,7 +52,7 @@
 
 (h) Multiyear contracting authority is provided in section 2306b of this title.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 130; Sept. 10, 1962, Pub. L. 87–653, §1(d), (e), 76 Stat. 528; July 5, 1968, Pub. L. 90–378, §1, 82 Stat. 289; Sept. 25, 1968, Pub. L. 90–512, 82 Stat. 863; Dec. 12, 1980, Pub. L. 96–513, title V, §511(77), 94 Stat. 2926; Dec.1, 1981, Pub. L. 97–86, title IX, §§907(b), 909(b), 95 Stat. 1117, 1118; July 18, 1984, Pub. L. 98–369, div. B, title VII, §2724, 98 Stat. 1192; Nov. 8, 1985, Pub. L. 99–145, title XIII, §1303(a)(15), 99 Stat. 739; Oct. 18, 1986, Pub. L. 99–500, §101(c) \[title X, §952(b)(1), (c)(1)\], 100 Stat. 1783–82, 1783–169, and Oct. 30, 1986, Pub. L. 99–591, §101(c) \[title X, §952(b)(1), (c)(1)\], 100 Stat. 3341–82, 3341–169; Nov. 14, 1986, Pub. L. 99–661, div. A, title IX, formerly title IV, §952(b)(1), (c)(1), 100 Stat. 3949, renumbered title IX, Apr. 21, 1987, Pub. L. 100–26, §3(5), 101 Stat. 273; Nov. 29, 1989, Pub. L. 101–189, div. A, title VIII, §805(a), 103 Stat. 1488; Nov. 5, 1990, Pub. L. 101–510, div. A, title VIII, §808, 104 Stat. 1593; Apr. 6, 1991, Pub. L. 102–25, title VII, §701(d)(3), 105 Stat. 114; Oct. 13, 1994, Pub. L. 103–355, title I, §§1021, 1022(b), title IV, §§4102(b), 4401(c), title VIII, §8105(a), 108 Stat. 3257, 3260, 3340, 3348, 3392.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 130; Sept. 10, 1962, Pub. L. 87–653, §1(d), (e), 76 Stat. 528; July 5, 1968, Pub. L. 90–378, §1, 82 Stat. 289; Sept. 25, 1968, Pub. L. 90–512, 82 Stat. 863; Dec. 12, 1980, Pub. L. 96–513, title V, §511(77), 94 Stat. 2926; Dec. 1, 1981, Pub. L. 97–86, title IX, §§907(b), 909(b), 95 Stat. 1117, 1118; July 18, 1984, Pub. L. 98–369, div. B, title VII, §2724, 98 Stat. 1192; Nov. 8, 1985, Pub. L. 99–145, title XIII, §1303(a)(15), 99 Stat. 739; Oct. 18, 1986, Pub. L. 99–500, §101(c) \[title X, §952(b)(1), (c)(1)\], 100 Stat. 1783–82, 1783–169, and Oct. 30, 1986, Pub. L. 99–591, §101(c) \[title X, §952(b)(1), (c)(1)\], 100 Stat. 3341–82, 3341–169; Nov. 14, 1986, Pub. L. 99–661, div. A, title IX, formerly title IV, §952(b)(1), (c)(1), 100 Stat. 3949, renumbered title IX, Apr. 21, 1987, Pub. L. 100–26, §3(5), 101 Stat. 273; Nov. 29, 1989, Pub. L. 101–189, div. A, title VIII, §805(a), 103 Stat. 1488; Nov. 5, 1990, Pub. L. 101–510, div. A, title VIII, §808, 104 Stat. 1593; Apr. 6, 1991, Pub. L. 102–25, title VII, §701(d)(3), 105 Stat. 114; Oct. 13, 1994, Pub. L. 103–355, title I, §§1021, 1022(b), title IV, §§4102(b), 4401(c), title VIII, §8105(a), 108 Stat. 3257, 3260, 3340, 3348, 3392.)
 
 Historical and Revision Notes
 
@@ -63,6 +63,10 @@ Historical and Revision Notes
 <i>Source (Statutes at Large)</i>
 
 2306(a)
+
+&nbsp;
+
+&nbsp;
 
 2306(b)
 
@@ -88,7 +92,7 @@ Feb. 19, 1948, ch. 65, §4 (less words after semicolon of last sentence of (b), 
 
 In subsection (a), the words “subject to subsections (b)–(e)” are substituted for the words “Except as provided in subsection (b) of this section”. The words “United States” are substituted for the word “Government”.
 
-In subsection (b), the words “under section 2304 of this title” are substituted for the words “pursuant to section 151(c) of this title”. The words “full amount of such” and “violation” are omitted as surplusage.
+In subsection (b), the words “under section 2304 of this title” are substituted for the words “pursuant tosection 151(c) of this title”. The words “full amount of such” and “violation” are omitted as surplusage.
 
 In subsection (c), the words “under section 2304 of this title” are inserted for clarity.
 
@@ -154,7 +158,7 @@ Subsec. (f)(1)(C). Pub. L. 98–369, §2724(e)(A)(v)–(vii), substituted “whe
 
 Subsec. (f)(1)(D). Pub. L. 98–369, §2724(e)(A)(iv), (vi), (vii), substituted “if” for “for which”, “$100,000” for “$500,000”, and “before” for “prior to”.
 
-Subsec. (f)(2). Pub. L. 98–369, §2724(e)(B), (D), (E), struck out “negotiated” before “price as is practicable” and before “is based on adequate price competition”, redesignated as par. (3) the proviso formerly set out in this par., and as part of the redesignation substituted a period for “: <i>Provided,</i> That” after “or noncurrent”.
+Subsec. (f)(2). Pub. L. 98–369, §2724(e)(B), (D), (E), struck out “negotiated” before “price as is practicable” and before “is based on adequate price competition”, redesignated as par. (3) the proviso formerly set out in this par., and as part of the redesignation substituted a period for “: <i>Provided</i>, That” after “or noncurrent”.
 
 Subsec. (f)(3). Pub. L. 98–369, §2724(e)(E), designated as par. (3) the proviso formerly set out in par. (2). Former par. (3) redesignated (5).
 
@@ -170,7 +174,7 @@ Subsec. (h). Pub. L. 97–86, §909(b)(2), added subsec. (h).
 
 1980—Subsec. (f). Pub. L. 96–513, §511(77)(A), designated existing provisions as pars. (1) to (3) and in par. (1), as so designated, substituted “(A)” to “(D)” for “(1)” to “(4)”, respectively, “prior” for “Prior” wherever appearing, and “clause (C)” for “(3) above”.
 
-Subsec. (g). Pub. L. 96–513, §511(77)(B), in par. (1) substituted “that—” for “that:”, in par. (2) substituted “(A) The” for “(A) the”, “(B) Consideration” for “(B) consideration”, and “(C) Consideration” for “(C) consideration”, and in par. (3) substituted “from—” for “from:”.
+Subsec. (g). Pub. L. 96–513, §511(77)(B), in par. (1) substituted “that—” for “that:”, in par. (2) substituted “(A) The” for “(A) the”, “(B) Consideration” for “(B)consideration”, and “(C) Consideration” for “(C) consideration”, and in par. (3) substituted “from—” for “from:”.
 
 1968—Subsec. (f). Pub. L. 90–512 inserted last par.
 

@@ -2,7 +2,7 @@
 
 (a) The Joint Pension, Profit-Sharing, and Employee Stock Ownership Plan Task Force shall, within 24 months after September 2, 1974, make a full study and review of—
 
-&emsp;(1) the effect of the requirements of section 411 of title 26 and of section 1053 of this title to determine the extent of discrimination, if any, among employees in various age groups resulting from the application of such requirements;
+&emsp;(1) the effect of the requirements of section 411 of title 26 and of section 1053 of this titleto determine the extent of discrimination, if any, among employees in various age groups resulting from the application of such requirements;
 
 &emsp;(2) means of providing for the portability of pension rights among different pension plans;
 

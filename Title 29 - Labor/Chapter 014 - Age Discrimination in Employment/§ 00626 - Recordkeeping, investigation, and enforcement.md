@@ -30,7 +30,7 @@ Section 259 of this title shall apply to actions under this chapter. If a charge
 
 #### (f) Waiver
 
-(1) An individual may not waive any right or claim under this chapter unless the waiver isknowing and voluntary. Except as provided in paragraph (2), a waiver may not be considered knowing and voluntary unless at a minimum—
+(1) An individual may not waive any right or claim under this chapter unless the waiver is knowing and voluntary. Except as provided in paragraph (2), a waiver may not be considered knowing and voluntary unless at a minimum—
 
 &emsp;(A) the waiver is part of an agreement between the individual and the employer that is written in a manner calculated to be understood by such individual, or by the average individual eligible to participate;
 
@@ -94,7 +94,7 @@ Section 4(c)(2) of Pub. L. 95–256 provided that: “The amendment made by para
 
 #### Transfer of Functions
 
-“Equal Employment Opportunity Commission” and “Commission” substituted for “Secretary”, meaningSecretary of Labor, pursuant to Reorg. Plan No. 1 of 1978, §2, 43 F.R. 19807, 92 Stat. 3781, set out in the Appendix to Title 5, Government Organization and Employees, which transferred all functions vested by this section in Secretary of Labor to Equal Employment Opportunity Commission, effective Jan. 1, 1979, as provided by section 1–101 of Ex. Ord. No. 12106, Dec. 28, 1978, 44 F.R. 1053.
+“Equal Employment Opportunity Commission” and “Commission” substituted for “Secretary”, meaning Secretary of Labor, pursuant to Reorg. Plan No. 1 of 1978, §2, 43 F.R. 19807, 92 Stat. 3781, set out in the Appendix to Title 5, Government Organization and Employees, which transferred all functions vested by this section in Secretary of Labor to Equal Employment Opportunity Commission, effective Jan. 1, 1979, as provided by section 1–101 of Ex. Ord. No. 12106, Dec. 28, 1978, 44 F.R. 1053.
 
 #### Rule on Waivers
 
@@ -106,5 +106,5 @@ Pub. L. 100–283, Apr. 7, 1988, 102 Stat. 78, as amended by Pub. L. 101–504, 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 633 of this title; title 2 section 1311.
+This section is referred to in section 633 of this title; title 2 section 1311; title 3 section 411.
 

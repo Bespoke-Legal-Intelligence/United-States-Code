@@ -32,7 +32,7 @@ In carrying out its responsibilities under this section the Council shall have t
 
 #### (c) Collaboration and cooperation of Council and Federal agencies with responsibilities related to materials
 
-In seeking to achieve the goals of this chapter and related Acts, the Council and other Federal departments and agencies with responsibilities or jurisdiction related to materials or materials policy, including the National Security Council, the Council on Environmental Quality, the Office of Management and Budget, and the Office of Science and Technology Policy, shall work collaboratively and in close cooperation.
+In seeking to achieve the goals of this chapter and related Acts, the Council and other Federal departments and agencies with responsibilities or jurisdiction related to materials or materials policy, including the National Security Council,the Council on Environmental Quality, the Office of Management and Budget, and the Office of Science and Technology Policy, shall work collaboratively and in close cooperation.
 
 (Pub. L. 98–373, title II, §204, July 31, 1984, 98 Stat. 1250.)
 

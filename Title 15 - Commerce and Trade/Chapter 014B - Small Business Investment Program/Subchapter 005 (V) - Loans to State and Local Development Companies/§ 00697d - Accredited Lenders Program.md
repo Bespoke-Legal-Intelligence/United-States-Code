@@ -28,7 +28,7 @@ The Administration shall develop an expedited procedure for processing a loan ap
 
 #### (1) In general
 
-&emsp;The designation of a qualified State or local development company as an accredited lendermay be suspended or revoked if the Administration determines that—
+&emsp;The designation of a qualified State or local development company as an accredited lender may be suspended or revoked if the Administration determines that—
 
 &emsp;&emsp;(A) the development company has not continued to meet the criteria for eligibility under subsection (b) of this section; or
 
@@ -50,5 +50,5 @@ Section 212(b) of Pub. L. 103–403 provided that: “Not later than 120 days af
 
 #### Report on Implementation of Program
 
-Section 212(c) of Pub. L. 103–403 provided that: “Not later than 1 year after the effective date of regulations promulgated under subsection (b) \[set out above\], and biennially thereafter, the Administration shall report to the Committees on Small Business of the Senate and the House of Representatives on the implementation of this section \[enacting this section and provisions set out above\]. Such report shall include data on the number of development companies designated as accredited lenders, their debenture guarantee volume, their loss rates, the average processing time on their guarantee applications, and such other information as the Administration deems appropriate.”
+Section 212(c) of Pub. L. 103–403 provided that: “Not later than 1 year after the effective date of regulations promulgated under subsection (b) \[set out above\], and biennially thereafter, the Administration shall report to the Committees on Small Business of the Senate and the House of Representatives on the implementation of this section \[enacting this section and provisions set out above\]. Such report shall include data on the number of development companies designated as accredited lenders, their debenture guarantee volume, their lossrates, the average processing time on their guarantee applications, and such other information as the Administration deems appropriate.”
 

@@ -6,13 +6,13 @@
 | \[5442 to 5449. Repealed.\] |  |
 | [5450\.](%C2%A7%2005450%20-%20Regular%20Navy%20retired%20flag%20officers%20on%20active%20duty.md) | Regular Navy: retired flag officers on active duty. |
 | [5451\.](%C2%A7%2005451%20-%20Suspension%20preceding%20sections.md) | Suspension: preceding sections. |
-| \[5452, 5453. Repealed.\] |  |
-| 5454\.<sup>1</sup> | Computations: rule when fraction occurs in final result. |
-| \[5455 to 5458. Repealed.\] |  |
+| \[5452 to 5458. Repealed.\] |  |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1996—Pub. L. 104–106, div. A, title XV, §1501(c)(20), Feb. 10, 1996, 110 Stat. 499, struck out item 5454 “Computations: rule when fraction occurs in final result”.
 
 1994—Pub. L. 103–337, div. A, title XVI, §1673(b)(1), Oct. 5, 1994, 108 Stat. 3016, struck out items 5456 “Naval Reserve and Marine Corps Reserve”, 5457 “Naval Reserve: officers in an active status in grades above chief warrant officer, W–5”, and 5458 “Marine Corps Reserve: officers in an active status in grades above chief warrant officer, W–5”.
 
@@ -31,8 +31,6 @@ Pub. L. 97–22, §10(b)(6)(B), July 10, 1981, 95 Stat. 137, struck out item 545
 1967—Pub. L. 90–130, §1(17)(F), (H), Nov. 8, 1967, 81 Stat. 377, struck out item 5453 “Marine Corps: women officers on the active list; permanent grade”, and substituted: “Navy: women line officers on active duty; Marine Corps: women officers on active duty” for “Navy: women line officers on the active list; permanent grade” in item 5452.
 
 1958—Pub. L. 85–861, §1(113)(B), Sept. 2, 1958, 72 Stat. 1492, added items 5457 and 5458.
-
-<i><sup>1</sup></i><i> Section repealed by Pub. L. 103–337 without corresponding amendment of chapter analysis.</i>
 
 
 ---

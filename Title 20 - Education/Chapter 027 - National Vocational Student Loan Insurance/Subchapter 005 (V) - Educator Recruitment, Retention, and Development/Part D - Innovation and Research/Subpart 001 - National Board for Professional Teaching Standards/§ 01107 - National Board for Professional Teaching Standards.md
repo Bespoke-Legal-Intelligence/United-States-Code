@@ -124,7 +124,7 @@ The Board shall consult at least twice annually with the Committee on the design
 
 #### (1) National Board for Professional Teaching Standards report
 
-&emsp;The Board shall submit an annual report to the appropriate committees of the Congressnot later than June 30 of any fiscal year in which Federal funds are expended pursuant to this subpart. The Board shall disseminate the report for review and comment to the Department of Education, the National Science Foundation, the National Research Council, and the education research community. The report shall—
+&emsp;The Board shall submit an annual report to the appropriate committees of the Congress not later than June 30 of any fiscal year in which Federal funds are expended pursuant to this subpart. The Board shall disseminate the report for review and comment to the Department of Education, the National Science Foundation, the National Research Council, and the education research community. The report shall—
 
 &emsp;&emsp;(A) include a detailed financial statement and a report of the audit practices described in subsection (b)(2)(B)(vii) of this section;
 
@@ -198,7 +198,7 @@ Notwithstanding any other provision of this subpart, voluntary participation in 
 
 #### (k) Authorization of appropriations
 
-There are authorized to be appropriated $20,000,000 for the period beginning October 1,1992, and ending September 30, 1997, to carry out the provisions of this subpart.
+There are authorized to be appropriated $20,000,000 for the period beginning October 1, 1992, and ending September 30, 1997, to carry out the provisions of this subpart.
 
 (Pub. L. 89–329, title V, §551, as added Pub. L. 102–325, title V, §501(a), July 23, 1992, 106 Stat. 693; amended Pub. L. 103–227, title X, §1013, Mar. 31, 1994, 108 Stat. 265.)
 
@@ -252,5 +252,5 @@ Amount of federal share.—The Federal share shall be 50 percent of the costs of
 
 #### Change of Name
 
-Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Economic and Educational Opportunities of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Fifth Congress, Jan. 7, 1997.
 

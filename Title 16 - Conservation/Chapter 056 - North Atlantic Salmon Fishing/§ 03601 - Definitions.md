@@ -12,7 +12,7 @@ As used in this chapter, the term—
 
 &emsp;(5) “Council” means the Council established by the Convention;
 
-&emsp;(6) “fishing” has the same meaning as such term has in section 3(10) of the Act of 1976 (16 U.S.C. 1802(10));
+&emsp;(6) “fishing” has the same meaning as such term has in section 3(10) <sup>1</sup> of the Act of 1976 (16 U.S.C. 1802(10));
 
 &emsp;(7) “Organization” means the North Atlantic Salmon Conservation Organization established under the Convention;
 
@@ -24,9 +24,9 @@ As used in this chapter, the term—
 
 #### References in Text
 
-An Act to provide for the conservation and management of the fisheries, and for other purposes, approved April 13, 1976 (16 U.S.C. 1801 et seq.), referred to in par. (1), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, known as the Magnuson Fishery Conservation and Management Act, which is classified principally to chapter 38 (§1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
+An Act to provide for the conservation and management of the fisheries, and for other purposes, approved April 13, 1976 (16 U.S.C. 1801 et seq.), referred to in par. (1), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to chapter 38 (§1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
-Section 3 of the Act of 1976 (16 U.S.C. 1802), referred to in par. (8), was subsequently amended, and section 3(19) no longer defines the term “person”. However, such term is defined elsewhere in that section.
+Section 3 of the Act of 1976 (16 U.S.C. 1802), referred to in pars. (6) and (8), was subsequently amended, and section 3(10) and (19) no longer defines the terms “fishing” and “person”. However, such terms are defined elsewhere in that section.
 
 #### Codification
 

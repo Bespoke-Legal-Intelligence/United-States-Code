@@ -2,7 +2,7 @@
 
 (a) An entity may timely file a request for payment of an administrative expense, or may tardily file such request if permitted by the court for cause.
 
-(b) After notice and a hearing, there shall be allowed administrative expenses, other than claims allowed under section 502(f) of this title, including—
+(b) After notice and a hearing, there shall be allowed administrative expenses, other thanclaims allowed under section 502(f) of this title, including—
 
 &emsp;(1)(A) the actual, necessary costs and expenses of preserving the estate, including wages, salaries, or commissions for services rendered after the commencement of the case;
 

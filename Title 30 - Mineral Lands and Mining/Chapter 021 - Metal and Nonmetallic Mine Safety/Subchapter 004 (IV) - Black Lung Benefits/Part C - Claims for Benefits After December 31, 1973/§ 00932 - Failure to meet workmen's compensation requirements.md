@@ -78,9 +78,9 @@ In no case shall the eligible survivors of a miner who was determined to be elig
 
 #### References in Text
 
-Section 28(h)(1) of the Longshore and Harbor Workers’ Compensation Act Amendments of 1984, referred to in subsec. (a), is section 28(h)(1) of Pub. L. 98–426, whichis set out as a note under section 907 of Title 33, Navigation and Navigable Waters.
+Section 28(h)(1) of the Longshore and Harbor Workers’ Compensation Act Amendments of 1984, referred to in subsec. (a), is section 28(h)(1) of Pub. L. 98–426, which is set out as a note under section 907 of Title 33, Navigation and Navigable Waters.
 
-Public Law 803, 69th Congress, referred to in subsec. (a), is act Mar. 4, 1927, ch. 509, 44 Stat. 1424, as amended, popularly known as the Longshore and Harbor Workers’ Compensation Act, which is classified generally to chapter 18 (§901 et seq.) of Title 33. For complete classification of this Act to the Code, see section 901 of Title 33 and Tables.
+Public Law 803, 69th Congress, referred to in subsec. (a), is act Mar. 4, 1927, ch. 509, 44 Stat. 1424, as amended,popularly known as the Longshore and Harbor Workers’ Compensation Act, which is classified generally to chapter 18 (§901 et seq.) of Title 33. For complete classification of this Act to the Code, see section 901 of Title 33 and Tables.
 
 Section 42 of Public Law 803, referred to in subsec. (a), was repealed by Pub. L. 89-554, §8(a), Sept. 6, 1966, 80 Stat. 647.
 
@@ -128,7 +128,7 @@ Subsec. (i)(2). Pub. L. 95–239, §7(g), reenacted par. (2) without change.
 
 Subsec. (i)(3), (4). Pub. L. 95–239, §7(g), added pars. (3) and (4).
 
-Subsecs. (j) to (<i>l</i>). Pub. L. 95–239, §7(h), added subsecs. (j) to (<i>l).</i>
+Subsecs. (j) to (<i>l</i>). Pub. L. 95–239, §7(h), added subsecs. (j) to (<i>l</i>).
 
 1972—Subsec. (a). Pub. L. 92–303, §§3(b), 5(2), (9), substituted “a coal mine” for “an underground coal mine”, “1973” for “1972” and struck out reference to section 7 of Pub. L. 803, 69th Congress (44 Stat. 1424, approved March 4, 1927), respectively,
 

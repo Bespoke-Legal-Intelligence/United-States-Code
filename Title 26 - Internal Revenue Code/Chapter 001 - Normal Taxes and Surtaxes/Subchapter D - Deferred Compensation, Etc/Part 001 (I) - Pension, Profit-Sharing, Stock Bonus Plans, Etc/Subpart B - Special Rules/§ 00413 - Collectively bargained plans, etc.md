@@ -26,7 +26,7 @@ If this subsection applies to a plan, notwithstanding any other provision of thi
 
 #### (4) Vesting
 
-&emsp;Section 411 (other than subsection (d)(3)) shall be applied as if all employers who have been parties to the collective-bargaining agreement constituted a single employer, except that the application of any rules with respect to breaks in service shall be made underregulations prescribed by the Secretary of Labor.
+&emsp;Section 411 (other than subsection (d)(3)) shall be applied as if all employers who have been parties to the collective-bargaining agreement constituted a single employer, except that the application of any rules with respect to breaks in service shall be made under regulations prescribed by the Secretary of Labor.
 
 #### (5) Funding
 
@@ -52,7 +52,7 @@ If this subsection applies to a plan, notwithstanding any other provision of thi
 
 #### (9) Plans covering a professional employee
 
-&emsp;Notwithstanding subsection (a), in the case of a plan (and trust forming part thereof) which covers any professional employee, paragraph (1) shall be applied by substituting “section 410(a)” for “section 410”, and paragraph (2) shall not apply.
+&emsp;Notwithstanding subsection (a), in the case of a plan (and trust forming part thereof)which covers any professional employee, paragraph (1) shall be applied by substituting “section 410(a)” for “section 410”, and paragraph (2) shall not apply.
 
 #### (c) Plans maintained by more than one employer
 

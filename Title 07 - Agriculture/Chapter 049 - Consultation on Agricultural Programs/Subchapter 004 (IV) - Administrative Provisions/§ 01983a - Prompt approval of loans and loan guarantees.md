@@ -18,7 +18,7 @@
 
 (vi) The district office shall report to the State office of the Farmers Home Administration on each application for an operating loan or loan guarantee under subchapter II of this chapter that is pending more than 45 days after receipt by the county committee, and the reasons the application is pending.
 
-(vii) Each month, the Secretary shall notify the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate, on a State-by-State basis, as to each application for an operating loan or loan guarantee under subchapter II of this chapter on which final action had not been taken within 60 calendar days after receipt by the Secretary, and the reasons final action had not been taken.
+(vii) Each month, the Secretary shall notify the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate,on a State-by-State basis, as to each application for an operating loan or loan guarantee under subchapter II of this chapter on which final action had not been taken within 60 calendar days after receipt by the Secretary, and the reasons final action had not been taken.
 
 (3) If an application for a loan or loan guarantee under this chapter is disapproved by the Secretary, the Secretary shall state the reasons for the disapproval in the notice required under paragraph (1).
 
@@ -64,7 +64,21 @@ In carrying out the approved lender program established by exhibit A to subpart 
 
 (3) In accordance with section 2006d of this title, the Secretary shall prepare a prospectus on each seasoned direct loan borrower determined eligible to obtain a guaranteed loan. The prospectus shall contain a description of the amounts of loan guarantee and interest assistance that the Secretary will provide to the seasoned direct loan borrower to enable the seasoned direct loan borrower to carry out a financially viable farming plan if a guaranteed loan is made.
 
-(4) With the approval of the borrower, the Secretary shall provide the prospectus of the seasoned direct loan borrower to each approved lender whose lending area includes the location of the seasoned direct loan borrower. If the Secretary receives an offer from an approved lender to extend credit to the seasoned direct loan borrower under terms and conditions contained in the prospectus, the seasoned direct loan borrower shall not be eligible for an insured loan from the Secretary under subchapter I or II of this chapter, except as otherwise provided in this subsection.
+(4)
+
+Verification.—
+
+&emsp;(A)
+
+In general.—The Secretary shall provide a prospectus of a seasoned direct loan borrower to each approved lender whose lending area includes the location of the seasoned direct loan borrower.
+
+&emsp;(B)
+
+Notification.—The Secretary shall notify each borrower of a loan that a prospectushas been provided to a lender under subparagraph (A).
+
+&emsp;(C)
+
+Credit extended.—If the Secretary receives an offer from an approved lender to extend credit to the seasoned direct loan borrower under terms and conditions contained in the prospectus, the seasoned direct loan borrower shall not be eligible for an insured loan from the Secretary under subchapter I or II of this chapter, except as otherwise provided in this subsection.
 
 (5) If the Secretary is unable to provide loan guarantees and, if necessary, interest assistance to the seasoned direct loan borrower under this subsection in amounts sufficient to enable the seasoned direct loan borrower to borrow from commercial sources the amount required to carry out a financially viable farming plan, or if the Secretary does not receive an offer from an approved lender to extend credit to a seasoned direct loan borrower under the terms and conditions contained in the prospectus, the Secretary shall make an insured loan to the seasoned direct loan borrower under subchapter I or II of this chapter, whichever is applicable.
 
@@ -88,7 +102,7 @@ In carrying out the approved lender program established by exhibit A to subpart 
 
 &emsp;&emsp;(iv) the form can be completed and processed in an expeditious manner.
 
-(Pub. L. 87–128, title III, §333A, as added Pub. L. 99–198, title XIII, §1312(a), Dec. 23, 1985, 99 Stat. 1524; amended Pub. L. 101–624, title XVIII, §1811, title XXIII, §2388(f), Nov. 28, 1990, 104 Stat. 3821, 4053; Pub. L. 102–554, §§13–15, Oct. 28, 1992, 106 Stat. 4152, 4153.)
+(Pub. L. 87–128, title III, §333A, as added Pub. L. 99–198, title XIII, §1312(a), Dec. 23, 1985, 99 Stat. 1524; amended Pub. L. 101–624, title XVIII, §1811, title XXIII, §2388(f), Nov. 28, 1990, 104 Stat. 3821, 4053; Pub. L. 102–554, §§13–15, Oct. 28, 1992, 106 Stat. 4152, 4153; Pub. L. 104–127, title VI, §637, Apr. 4, 1996, 110 Stat. 1093.)
 
 #### References in Text
 
@@ -97,6 +111,12 @@ For definition of “this chapter”, referred to in subsecs. (a), (b)(1), (c), 
 Section 1989 of this title, referred to in subsec. (f)(1)(A), was in the original “section 114”, and was translated as meaning section 339 of Pub. L. 87–128, which is classified to section 1989 of this title, to reflect the probable intent of Congress, because Pub. L. 87–128 does not contain a section 114 and section 1989 provides for a lender certification program.
 
 #### Amendments
+
+1996—Subsec. (f)(4). Pub. L. 104–127, §637(1), inserted heading.
+
+Subsec. (f)(4)(A). Pub. L. 104–127, §637(1), designated first sentence of par. (4) as subpar. (A), inserted heading, and directed the substitution of “The Secretary shall provide a prospectus of a seasoned” for “With” and all that follows through “seasoned”, which was executed by making the substitution for all that follows through “seasoned” the first place appearing resulting in making the substitution for “With the approval of the borrower, the Secretary shall provide the prospectus of the seasoned”, to reflect the probable intent of Congress.
+
+Subsec. (f)(4)(B), (C). Pub. L. 104–127, §637(2), added subpar. (B), designated second sentence of par. (4) as subpar. (C), and inserted heading.
 
 1992—Subsec. (a)(2). Pub. L. 102–554, §13, designated existing provisions as subpar. (A), inserted “(other than under subchapter II of this chapter)” after “under this chapter”, and added subpar. (B).
 

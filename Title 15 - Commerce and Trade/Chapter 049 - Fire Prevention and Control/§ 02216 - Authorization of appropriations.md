@@ -44,7 +44,7 @@
 
 &emsp;(2) such further sums as may be necessary in each of the fiscal years ending September 30, 1984, and September 30, 1985, for adjustments required by law in salaries, pay, retirement, and employee benefits incurred in the conduct of activities for which funds are authorized by paragraph (1) of this subsection.
 
-> The funds authorized under this subsection shall be in addition to funds authorized in any other law for research and development at the Fire Research Center of the National Institute of Standards and Technology.
+> The funds authorized under this subsection shall be in addition to funds authorized in any otherlaw for research and development at the Fire Research Center of the National Institute of Standards and Technology.
 
 (f) Except as otherwise specifically provided with respect to the payment of claims under section 2210 of this title, to carry out the purposes of this chapter, there are authorized to be appropriated $22,037,000 for the fiscal year ending September 30, 1986 and $18,300,000 for the fiscal year ending September 30, 1987.
 
@@ -68,7 +68,7 @@
 
 &emsp;(1) $500,000 for fiscal year 1995 for basic research on the development of an advanced course on arson prevention;
 
-&emsp;(2) $2,000,000 for fiscal year 1996 for the expansion of arson investigator training programs at the Academy under section 2220 ofthis title and at the Federal Law Enforcement Training Center, or through regional delivery sites;
+&emsp;(2) $2,000,000 for fiscal year 1996 for the expansion of arson investigator training programs at the Academy under section 2220 of this title and at the Federal Law Enforcement Training Center, or through regional delivery sites;
 
 &emsp;(3) $4,000,000 for each of fiscal years 1995 and 1996 for carrying out section 2221 of this title, except for salaries and expenses for carrying out section 2221 of this title; and
 

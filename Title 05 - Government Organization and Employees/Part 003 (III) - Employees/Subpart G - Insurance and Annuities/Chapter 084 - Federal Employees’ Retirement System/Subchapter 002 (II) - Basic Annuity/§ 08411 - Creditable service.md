@@ -14,7 +14,7 @@
 
 &emsp;(4) a period of service (other than any service under any of the preceding provisions of this subsection and other than any military service) that was creditable under the Foreign Service Pension System described in subchapter II of chapter 8 <sup>1</sup> of the Foreign Service Act of 1980, if the employee or Member waives credit for such service under the Foreign Service Pension System and makes a payment to the Fund equal to the amount that would have been deducted from pay under section 8422(a) had the employee been subject to this chapter during such period of service (together with interest on such amount computed under paragraphs (2) and (3) of section 8334(e)).
 
-(c)(1) Except as provided in paragraph (2) or (3), an employee or Member shall be allowed credit for—
+(c)(1) Except as provided in paragraphs (2), (3), and (5), an employee or Member shall be allowed credit for—
 
 &emsp;(A) each period of military service performed before January 1, 1957; and
 
@@ -48,7 +48,7 @@
 
 > creditable service of the deceased employee or Member shall include each period of military service includable under subparagraph (A) or (B) of paragraph (1) or under paragraph (3). In carrying out this subparagraph, any amount deposited under section 8422(e)(5) shall be taken into account.
 
-(B) A survivor annuity computed based on an amount which, under authority of subparagraph\(A), takes into consideration any period of military service shall be reduced by the amount of any survivor's benefits—
+(B) A survivor annuity computed based on an amount which, under authority of subparagraph (A), takes into consideration any period of military service shall be reduced by the amount of any survivor's benefits—
 
 &emsp;(i) payable to a survivor (other than a child) under a retirement system for members of the uniformed services;
 
@@ -59,6 +59,8 @@
 &emsp;(i) a survivor may elect not to be covered by this paragraph; and
 
 &emsp;(ii) this paragraph shall be carried out in any case which involves a former spouse.
+
+(5) If, after January 1, 1997, an employee or Member waives retired pay that is subject to acourt order for which there has been effective service on the Secretary concerned for purposes of section 1408 of title 10, the military service on which the retired pay is based may be credited as service for purposes of this chapter only if the employee or Member authorizes the Director to deduct and withhold from the annuity payable to the employee or Member under this subchapter an amount equal to the amount that, if the annuity payment was instead a payment of the employee's or Member's retired pay, would have been deducted and withheld and paid to the former spouse covered by the court order under such section 1408. The amount deducted and withheld under this paragraph shall be paid to that former spouse. The period of civil service employment by the employee or Member shall not be taken into consideration in determining the amount of the deductions and withholding or the amount of the payment to the former spouse. The Director of the Office of Personnel Management shall prescribe regulations to carry out this paragraph.
 
 (d) Credit under this chapter shall be allowed for leaves of absence without pay granted an employee while performing military service, or while receiving benefits under subchapter I of chapter 81. An employee or former employee who returns to duty after a period of separation is deemed, for the purpose of this subsection, to have been on leave of absence without pay for that part of the period in which that individual was receiving benefits under subchapter I of chapter 81. Credit may not be allowed for so much of other leaves of absence without pay as exceeds 6 months in the aggregate in a calendar year.
 
@@ -82,7 +84,7 @@
 
 (h) An employee or Member shall be allowed credit for service as a volunteer or volunteer leader under part A of title VIII of the Economic Opportunity Act of 1964, as a full-time volunteer enrolled in a program of at least 1 year's duration under part A, B, or C of title I of the Domestic Volunteer Service Act of 1973, or as a volunteer or volunteer leader under the Peace Corps Act performed at any time prior to the separation on which the entitlement to any annuity under this subchapter is based if the employee or Member has made a deposit with interest, if any, with respect to such service under section 8422(f).
 
-(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 522; amended Pub. L. 99–556, title I, §103, title V, §502(b), Oct. 27, 1986, 100 Stat. 3131, 3140; Pub. L. 100–238, title I, §§104(b), 105(a), Jan. 8, 1988, 101 Stat. 1746; Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–242, title IV, §466(b), Dec. 19, 1991, 105 Stat. 2385; Pub. L. 103–82, title III, §371(b)(1), Sept. 21, 1993, 107 Stat. 910; Pub. L. 103–337, div. A, title XVI, §1677(a)(3), Oct. 5, 1994, 108 Stat. 3019.)
+(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 522; amended Pub. L. 99–556, title I, §103, title V, §502(b), Oct. 27, 1986, 100 Stat. 3131, 3140; Pub. L. 100–238, title I, §§104(b), 105(a), Jan. 8, 1988, 101 Stat. 1746; Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–242, title IV, §466(b), Dec. 19, 1991, 105 Stat. 2385; Pub. L. 103–82, title III, §371(b)(1), Sept. 21, 1993, 107 Stat. 910; Pub. L. 103–337, div. A, title XVI, §1677(a)(3), Oct. 5, 1994, 108 Stat. 3019; Pub. L. 104–201, div. A, title VI, §637(b), Sept. 23, 1996, 110 Stat. 2580.)
 
 #### References in Text
 
@@ -104,25 +106,33 @@ The Peace Corps Act, referred to in subsec. (h), is Pub. L. 87–293, Sept. 22, 
 
 #### Amendments
 
-<b>1994</b>—Subsec. (c)(2)(B). Pub. L. 103–337 substituted “chapter 1223 of title 10 (or under chapter 67 of that title as in effect before the effective date of the Reserve Officer Personnel Management Act)” for “chapter 67 of title 10”.
+1996—Subsec. (c)(1). Pub. L. 104–201, §637(b)(2), in introductory provisions, substituted “Except as provided in paragraphs (2), (3), and (5)” for “Except as provided in paragraph (2) or (3)”.
 
-<b>1993</b>—Subsec. (b)(3). Pub. L. 103–82, §371(b)(1)(A), substituted “subsection (f) or (h)” for “subsection (f)”.
+Subsec. (c)(5). Pub. L. 104–201, §637(b)(1), added par. (5).
+
+1994—Subsec. (c)(2)(B). Pub. L. 103–337 substituted “chapter 1223 of title 10 (or under chapter 67 of that title as in effect before the effective date of the Reserve Officer Personnel Management Act)” for “chapter 67 of title 10”.
+
+1993—Subsec. (b)(3). Pub. L. 103–82, §371(b)(1)(A), substituted “subsection (f) or (h)” for “subsection (f)”.
 
 Subsec. (h). Pub. L. 103–82, §371(b)(1)(B), added subsec. (h).
 
-<b>1991</b>—Subsec. (c)(2)(A)(ii). Pub. L. 102–83 substituted “section 1101 of title 38” for “section 301 of title 38”.
+1991—Subsec. (c)(2)(A)(ii). Pub. L. 102–83 substituted “section 1101 of title 38” for “section 301 of title 38”.
 
 Subsec. (g). Pub. L. 102–242 added subsec. (g).
 
-<b>1988</b>—Subsec. (c)(4)(A). Pub. L. 100–238, §104(b), substituted “section 8422(e)(5)” for “subsection (f)(4)” in concluding provisions.
+1988—Subsec. (c)(4)(A). Pub. L. 100–238, §104(b), substituted “section 8422(e)(5)” for “subsection (f)(4)” in concluding provisions.
 
 Subsec. (f)(1). Pub. L. 100–238, §105(a), inserted at end “A deposit under this paragraph may be made only with respect to a refund received pursuant to an application filed with the Office before the date on which the employee or Member first becomes subject to this chapter.”
 
-<b>1986</b>—Subsec. (b)(2). Pub. L. 99–556, §103(1), inserted “except as provided in subsection (f),”.
+1986—Subsec. (b)(2). Pub. L. 99–556, §103(1), inserted “except as provided in subsection (f),”.
 
 Subsec. (c)(4). Pub. L. 99–556, §502(b), added par. (4).
 
 Subsec. (f)(1). Pub. L. 99–556, §103(2), inserted “(b)(2) or”.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–201 effective Jan. 1, 1997, see section 637(c) of Pub. L. 104–201, set out as a note under section 8332 of this title.
 
 #### Effective Date of 1994 Amendment
 

@@ -22,7 +22,9 @@ Duties and Powers.—The Director shall—
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -37,6 +39,10 @@ Nov. 16, 1990, Pub. L. 101–604, §101(a), (b), 104 Stat. 3067.
 In subsection (a), the word “established” is omitted as executed. The words “position of” are omitted as surplus.
 
 In subsection (b), before clause (1), the word “shall” is substituted for “shall have the following duties and powers” to eliminate unnecessary words. In clause (3), the words “departments, agencies, and instrumentalities of the United States Government” are substituted for “Federal agencies” for clarity and consistency in the revised title and with other titles of the United States Code.
+
+#### Development of Aviation Security Liaison Agreement
+
+Pub. L. 104–264, title III, §309, Oct. 9, 1996, 110 Stat. 3253, provided that: “The Secretary of Transportation and the Attorney General, acting through the Administrator of the Federal Aviation Administration and the Director of the Federal Bureau of Investigation, shall enter into an interagency agreement providing for the establishment of an aviation security liaison at existing appropriate Federal agencies’ field offices in or near cities served by a designated high-risk airport.”
 
 #### Section Referred to in Other Sections
 

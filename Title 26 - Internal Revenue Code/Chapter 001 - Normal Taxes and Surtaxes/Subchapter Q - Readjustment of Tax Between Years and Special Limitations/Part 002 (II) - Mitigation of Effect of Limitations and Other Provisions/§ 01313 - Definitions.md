@@ -46,5 +46,5 @@ For purposes of this part, the term “related taxpayer” means a taxpayer who,
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1311, 1312, 1314 of this title.
+This section is referred to in sections 1311, 1312, 1314, 1377 of this title.
 

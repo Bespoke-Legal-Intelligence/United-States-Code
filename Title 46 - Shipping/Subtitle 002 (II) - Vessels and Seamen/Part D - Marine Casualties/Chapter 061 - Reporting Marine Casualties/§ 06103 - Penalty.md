@@ -1,10 +1,10 @@
 ### §6103. Penalty
 
-(a) An owner, charterer, managing operator, agent, master, or individual in charge of a vessel failing to report a casualty as required under section 6101 of this title or a regulation prescribed under section 6101 is liable to the United States Government for a civil penalty of $1,000.
+(a) An owner, charterer, managing operator, agent, master, or individual in charge of a vessel failing to report a casualty as required under section 6101 of this title or a regulation prescribed under section 6101 or 6102 is liable to the United States Government for a civil penalty of not more than $25,000.
 
 (b) A person failing to comply with section 6104 of this title or a regulation prescribed under that section is liable to the Government for a civil penalty of not more than $5,000.
 
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 536; Pub. L. 98–498, title II, §212(b)(2), Oct. 19, 1984, 98 Stat. 2306; Pub. L. 100–424, §4(b), Sept. 9, 1988, 102 Stat. 1590.)
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 536; Pub. L. 98–498, title II, §212(b)(2), Oct. 19, 1984, 98 Stat. 2306; Pub. L. 100–424, §4(b), Sept. 9, 1988, 102 Stat. 1590; Pub. L. 104–324, title III, §§306(a), 314(b), Oct. 19, 1996, 110 Stat. 3918, 3922.)
 
 Historical and Revision Notes
 
@@ -21,6 +21,8 @@ Historical and Revision Notes
 Section 6103 provides for a civil penalty of $1,000 for any owner, charterer, managing operator, agent, master, or individual in charge of a vessel that fails to report a casualty required to be reported under subsection (b) of section 6101 or an incident required to be reported under subsection (c) of section 6101.
 
 #### Amendments
+
+1996—Subsec. (a). Pub. L. 104–324 inserted “or 6102” before “is liable” and substituted “not more than $25,000” for “$1,000”.
 
 1988—Pub. L. 100–424 designated existing provisions as subsec. (a) and added subsec. (b).
 

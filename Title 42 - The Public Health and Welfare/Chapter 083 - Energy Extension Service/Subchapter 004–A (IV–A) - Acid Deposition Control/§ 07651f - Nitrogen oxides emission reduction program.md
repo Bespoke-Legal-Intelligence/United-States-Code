@@ -6,7 +6,7 @@ On the date that a coal-fired utility unit becomes an affected unit pursuant to 
 
 #### (b) Emission limitations
 
-(1) Not later than eighteen months after November 15, 1990, the Administrator shall by regulation establish annual allowable emission limitations for nitrogen oxides for the types of utility boilers listed below, which limitations shall not exceed the rates listed below: <i>Provided</i>, That the Administrator may set a rate higher than that listed for any type of utility boiler if the Administrator finds that the maximum listed rate for that boiler type cannot be achieved using low NO<sub>x</sub> burner technology. The maximum allowable emission rates are as follows:
+(1) Not later than eighteen months after November 15, 1990, the Administrator shall by regulation establish annual allowable emission limitations for nitrogen oxides for the types of utility boilers listed below, which limitations shall not exceed the rates listed below: <i>Provided</i>, That the Administrator may set a rate higher than that listed for any type of utility boiler if the Administrator finds that the maximum listed rate for that boiler type cannot be achievedusing low NO<sub>x</sub> burner technology. The maximum allowable emission rates are as follows:
 
 &emsp;(A) for tangentially fired boilers, 0.45 lb/mmBtu;
 
@@ -56,7 +56,7 @@ The permitting authority shall, upon request of an owner or operator of a unit s
 
 #### (e) Emissions averaging
 
-In lieu of complying with the applicable emission limitations under subsection (b)(1), (2), or (d) of this section, the owner or operator of two or more units subject to one or more of the applicable emission limitations set pursuant to these sections, may petition the permitting authority for alternative contemporaneous annual emission limitations for such units that ensure that (1) the actual annual emission rate in pounds of nitrogen oxides per million Btu averaged over the units in question is a rate that is less than or equal to (2) the Btu-weighted average annual emission rate for the same units if they had been operated, during the same period of time, in compliance with limitations set in accordance with the applicable emission rates set pursuant to subsections (b)(1) and (2) of this section.
+In lieu of complying with the applicable emission limitations under subsection (b)(1), (2), or (d) of this section, the owner or operator of two or more units subject to one or more of the applicable emission limitations set pursuant to these sections, may petition the permitting authority for alternative contemporaneous annual emission limitations for such units that ensure that (1) the actual annual emission rate in pounds of nitrogen oxides per million Btu averaged over the units in question is a rate that is less than or equal to (2) the Btu-weighted average annual emission rate for the same units if they had been operated, during the same period of time, in compliance with limitations set inaccordance with the applicable emission rates set pursuant to subsections (b)(1) and (2) of this section.
 
 If the permitting authority determines, in accordance with regulations issued by the Administrator not later than eighteen months after November 15, 1990; <sup>3</sup> that the conditions in the paragraph above can be met, the permitting authority shall issue operating permits for such units, in accordance with section 7651g of this title and part B <sup>2</sup> of title III, that allow alternative contemporaneous annual emission limitations. Such emission limitations shall only remain in effect while both units continue operation under the conditions specified in their respective operating permits.
 
@@ -64,7 +64,7 @@ If the permitting authority determines, in accordance with regulations issued by
 
 #### References in Text
 
-Part B of title III, referred to in subsecs. (d) and (e), means title III of the Clean Air Act, act July 14, 1955,ch. 360, as added, which is classified to subchapter III of this chapter, but title III does not contain parts. For provisions of the Clean Air Act relating to permits, see subchapter V (§7661 et seq.) of this chapter.
+Part B of title III, referred to in subsecs. (d) and (e), means title III of the Clean Air Act, act July 14, 1955, ch. 360, as added, which is classified to subchapter III of this chapter, but title III does not contain parts. For provisions of the Clean Air Act relating to permits, see subchapter V (§7661 et seq.) of this chapter.
 
 #### Section Referred to in Other Sections
 

@@ -4,7 +4,7 @@
 
 (1) A State may have in effect procedures (established by State statute or regulation) that require qualified entities designated by the State to contact an authorized agency of the State to request a nationwide background check for the purpose of determining whether a provider has been convicted of a crime that bears upon the provider's fitness to have responsibility for the safety and well-being of children, the elderly, or individuals with disabilities.
 
-(2) The authorized agency shall access and review State and Federal criminal history recordsthrough the national criminal history background check system and shall make reasonable efforts to respond to the inquiry within 15 business days.
+(2) The authorized agency shall access and review State and Federal criminal history records through the national criminal history background check system and shall make reasonable efforts to respond to the inquiry within 15 business days.
 
 #### (b) Guidelines
 
@@ -65,4 +65,8 @@ Subsec. (b)(4). Pub. L. 103–322, §320928(a)(2)(B), substituted “the provide
 Subsec. (d). Pub. L. 103–322, §320928(c), inserted “(other than itself)” after “failure of a qualified entity”.
 
 Subsec. (e). Pub. L. 103–322, §320928(e), substituted “eighteen dollars, respectively, or the actual cost, whichever is less,” for “the actual cost”.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 14072 of this title.
 

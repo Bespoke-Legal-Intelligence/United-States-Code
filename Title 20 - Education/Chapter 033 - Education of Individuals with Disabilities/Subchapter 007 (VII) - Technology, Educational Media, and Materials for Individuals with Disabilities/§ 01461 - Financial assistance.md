@@ -16,7 +16,7 @@
 
 (b)(1) With respect to new technology, media, and materials utilized with funds under this subchapter to improve the education of students with disabilities, the Secretary shall make efforts to ensure that such instructional materials are closed captioned.
 
-(2) The Secretary may not award a grant, contract, or cooperative agreement under paragraphs (1) through (4) of subsection (a) of this section unless the applicant for such assistance agrees that activities carried out with the assistance will be coordinated, as appropriate, with the State entity receiving funds under title I of the Technology-Related Assistance for Individuals with Disabilities Act of 1988 \[29 U.S.C. 2211 et seq.\].
+(2) The Secretary may not award a grant, contract, or cooperative agreement under paragraphs (1) through (4) of subsection (a) of this section unless the applicant for such assistance agrees that activities carried out with the assistance will be coordinated, as appropriate, with the State entity receiving funds under titleI of the Technology-Related Assistance for Individuals with Disabilities Act of 1988 \[29 U.S.C. 2211 et seq.\].
 
 (Pub. L. 91–230, title VI, §661, as added Pub. L. 99–457, title III, §317, Oct. 8, 1986, 100 Stat. 1172; amended Pub. L. 100–630, title I, §107(b), Nov. 7, 1988, 102 Stat. 3301; Pub. L. 101–476, title VII, §701, title IX, §901(b)(154)–(156), Oct. 30, 1990, 104 Stat. 1140, 1149; Pub. L. 102–119, §25(a)(15), (b), Oct. 7, 1991, 105 Stat. 606, 607.)
 

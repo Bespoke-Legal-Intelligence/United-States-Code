@@ -8,7 +8,7 @@ The Secretary shall, as soon as practicable after January 3, 1975, and after con
 
 The Secretary, in consultation with the Secretary of the Interior and the Administrator of the National Oceanic and Atmospheric Administration, shall, as soon as practicable after January 3, 1975, prescribe regulations relating to those activities involved in site evaluation and preconstruction testing at potential deepwater port locations that may (1) adversely affect the environment; (2) interfere with authorized uses of the Outer Continental Shelf; or (3) pose a threat to human health and welfare. Such activity may thenceforth not be undertaken except in accordance with regulations prescribed pursuant to this subsection. Such regulations shall be consistent with the purposes of this chapter.
 
-#### (c) Plans; submittal to Secretary of Transportation; publication in Federal Register; application contents
+#### (c) Plans; submittal to Secretary of Transportation; publication in Federal Register; application contents; exemption
 
 (1) Any person making an application under this chapter shall submit detailed plans to the Secretary. Within 21 days after the receipt of an application, the Secretary shall determine whether the application appears to contain all of the information required by paragraph (2) hereof. If the Secretary determines that such information appears to be contained in the application, the Secretary shall, no later than 5 days after making such a determination, publish notice of the application and a summary of the plans in the Federal Register. If the Secretary determines that all of the required information does not appear to be contained in the application, the Secretary shall notify the applicant and take no further action with respect to the application until such deficiencies have been remedied.
 
@@ -26,7 +26,7 @@ The Secretary, in consultation with the Secretary of the Interior and the Admini
 
 &emsp;(F) with respect to construction in phases, a detailed description of each phase, including anticipated dates of completion for each of the specific components thereof;
 
-&emsp;(G) the location and capacity of existing and proposed storage facilities and pipelines which will store or transport oil transported through the deepwater port, to the extent known by the applicant or any person required to be disclosed pursuant to subparagraphs (A), (B), or (C) of this paragraph;
+&emsp;(G) the location and capacity of existing and proposed storage facilities and pipelines whichwill store or transport oil transported through the deepwater port, to the extent known by the applicant or any person required to be disclosed pursuant to subparagraphs (A), (B), or (C) of this paragraph;
 
 &emsp;(H) with respect to any existing and proposed refineries which will receive oil transported through the deepwater port, the location and capacity of each such refinery and the anticipated volume of such oil to be refined by each such refinery, to the extent known by the applicant or any person required to be disclosed pursuant to subparagraphs (A), (B), or (C) of this paragraph;
 
@@ -37,6 +37,8 @@ The Secretary, in consultation with the Secretary of the Interior and the Admini
 &emsp;(K) a description of procedures to be used in constructing, operating, and maintaining the deepwater port, including systems of oil spill prevention, containment, and cleanup; and
 
 &emsp;(L) such other information as may be required by the Secretary to determine the environmental impact of the proposed deepwater port.
+
+(3) Upon written request of any person subject to this subsection, the Secretary may make a determination in writing to exempt such person from any of the informational filing provisions enumerated in this subsection or the regulations implementing this section if the Secretary determines that such information is not necessary to facilitate the Secretary's determinations under section 1503 of this title and that such exemption will not limit public review and evaluation of the deepwater port project.
 
 #### (d) Application area; publication in Federal Register; “application area” defined; submission of other applications; notice of intent and submission of completed applications; denial of pending application prior to consideration of other untimely applications
 
@@ -88,9 +90,11 @@ A license may be issued only after public notice and public hearings in accordan
 
 &emsp;(C) any differences in costs of construction and operation of the proposed deepwater ports, to the extent that such differential may significantly affect the ultimate cost of oil to the consumer.
 
-(Pub. L. 93–627, §5, Jan. 3, 1975, 88 Stat. 2131; Pub. L. 98–419, §2(f), Sept. 25, 1984, 98 Stat. 1607.)
+(Pub. L. 93–627, §5, Jan. 3, 1975, 88 Stat. 2131; Pub. L. 98–419, §2(f), Sept. 25, 1984, 98 Stat. 1607; Pub. L. 104–324, title V, §505, Oct. 19, 1996, 110 Stat. 3927.)
 
 #### Amendments
+
+1996—Subsec. (c)(3). Pub. L. 104–324 added par. (3).
 
 1984—Subsec. (g). Pub. L. 98–419 substituted “issued” for “issued, transferred, or renewed”.
 

@@ -1,0 +1,76 @@
+### §1424. Prohibition upon the naturalization of persons opposed to government or law, or who favor totalitarian forms of government
+
+(a) Notwithstanding the provisions of section 405(b) of this Act, no person shall hereafter be naturalized as a citizen of the United States—
+
+&emsp;(1) who advocates or teaches, or who is a member of or affiliated with any organization that advocates or teaches, opposition to all organized government; or
+
+&emsp;(2) who is a member of or affiliated with (A) the Communist Party of the United States; (B) any other totalitarian party of the United States; (C) the Communist Political Association; (D) the Communist or other totalitarian party of any State of the United States, of any foreign state, or of any political or geographical subdivision of any foreign state; (E) any section, subsidiary, branch, affiliate, or subdivision of any such association or party; or (F) the direct predecessors or successors of any such association or party, regardless of what name such group or organization may have used, may now bear, or may hereafter adopt, unless such alien establishes that he did not have knowledge or reason to believe at the time he became a member of or affiliated with such an organization (and did not thereafter and prior to the date upon which such organization was so registered or so required to be registered have such knowledge or reason to believe) that such organization was a Communist-front organization; or
+
+&emsp;(3) who, although not within any of the other provisions of this section, advocates the economic, international, and governmental doctrines of world communism or the establishment in the United States of a totalitarian dictatorship, or who is a member of or affiliated with any organization that advocates the economic, international, and governmental doctrines of world communism or the establishment in the United States of a totalitarian dictatorship, either through its own utterances or through any written or printed publications issued or published by or with the permission or consent of or under authority of such organization or paid for by the funds of such organization; or
+
+&emsp;(4) who advocates or teaches or who is a member of or affiliated with any organization that advocates or teaches (A) the overthrow by force or violence or other unconstitutional means of the Government of the United States or of all forms of law; or (B) the duty, necessity, or propriety of the unlawful assaulting or killing of any officer or officers (either of specific individuals or of officers generally) of the Government of the United States or of any other organized government because of his or their official character; or (C) the unlawful damage, injury, or destruction of property; or (D) sabotage; or
+
+&emsp;(5) who writes or publishes or causes to be written or published, or who knowingly circulates, distributes, prints, or displays, or knowingly causes to be circulated, distributed, printed, published, or displayed, or who knowingly has in his possession for the purpose of circulation, publication, distribution, or display, any written or printed matter, advocating or teaching opposition to all organized government, or advocating (A) the overthrow by force, violence or other unconstitutional means of the Government of the United States or of all forms of law; or (B) the duty, necessity, or propriety of the unlawful assaulting or killing of any officer or officers (either of specific individuals or of officers generally) of the Government of the United States or of any other organized government, because of his or their official character; or (C) the unlawful damage, injury, or destruction of property; or (D) sabotage; or (E) the economic, international, and governmental doctrines of world communism or the establishment in the United States of a totalitarian dictatorship; or
+
+&emsp;(6) who is a member of or affiliated with any organization that writes, circulates, distributes, prints, publishes, or displays, or causes to be written, circulated, distributed, printed, published, or displayed, or that has in its possession for the purpose of circulation, distribution, publication, issue, or display, any written or printed matter of the character described in subparagraph (5) of this subsection.
+
+(b) The provisions of this section or of any other section of this title shall not be construed as declaring that any of the organizations referred to in this section or in any other section of this title do not advocate the overthrow of the Government of the United States by force, violence, or other unconstitutional means.
+
+(c) The provisions of this section shall be applicable to any applicant for naturalization who at any time within a period of ten years immediately preceding the filing of the application for naturalization or after such filing and before taking the final oath of citizenship is, or has been found to be within any of the classes enumerated within this section, notwithstanding that at the time the application is filed he may not be included within such classes.
+
+(d) Any person who is within any of the classes described in subsection (a) of this section solely because of past membership in, or past affiliation with, a party or organization may be naturalized without regard to the provisions of subsection (c) of this section if such person establishes that such membership or affiliation is or was involuntary, or occurred and terminated prior to the attainment by such alien of the age of sixteen years, or that such membership or affiliation is or was by operation of law, or was for purposes of obtaining employment, food rations, or other essentials of living and where necessary for such purposes.
+
+(June 27, 1952, ch. 477, title III, ch. 2, §313, 66 Stat. 240; Oct. 24, 1988, Pub. L. 100–525, §9(u), 102 Stat. 2621; Nov. 29, 1990, Pub. L. 101–649, title IV, §407(c)(1), 104 Stat. 5041; Dec. 12, 1991, Pub. L. 102–232, title III, §309(b)(13), 105 Stat. 1759; Oct. 25, 1994, Pub. L. 103–416, title II, §219(v), 108 Stat. 4318.)
+
+#### References in Text
+
+Section 405(b) of this Act, referred to in subsec. (a), is section 405(b) of act June 27, 1952, ch. 477, title IV, 66 Stat. 280, which is set out as a Savings Clause note under section 1101 of this title.
+
+#### Amendments
+
+1994—Subsec. (a)(2). Pub. L. 103–416 substituted “or” for “and” before “(F)”.
+
+1991—Subsec. (a)(2). Pub. L. 102–232 inserted “and” before “(F)” and struck out “; (G) who, regardless of whether he is within any of the other provisions of this section, is a member of or affiliated with any Communist-action organization during the time it is registered or required to be registered under the provisions of section 786 of title 50; or (H) who, regardless of whether he is within any of the other provisions of this section, is a member of or affiliated with any Communist-front organization during the time it is registered or required to be registered under section 786 of title 50” after “may hereafter adopt”.
+
+1990—Subsec. (c). Pub. L. 101–649 substituted “application” for “petition” wherever appearing.
+
+1988—Subsec. (a)(2)(D). Pub. L. 100–525 substituted “party of” for “party or”.
+
+#### Effective Date of 1994 Amendment
+
+Section 219(v) of Pub. L. 103–416 provided that the amendment made by that section is effective Dec. 12, 1991.
+
+#### Effective Date
+
+Section effective 180 days after June 27, 1952, see section 407 of act June 27, 1952, set out as a note under section 1101 of this title.
+
+#### Cross References
+
+Definition of the term—
+
+&emsp;&emsp;Advocates, see section 1101(a)(2) of this title.
+
+&emsp;&emsp;Advocating a doctrine, see section 1101(e)(1) of this title.
+
+&emsp;&emsp;Advocating the doctrines of world communism, see section 1101(e)(3) of this title.
+
+&emsp;&emsp;Affiliation, see section 1101(e)(2) of this title.
+
+&emsp;&emsp;Doctrine, see section 1101(a)(12) of this title.
+
+&emsp;&emsp;Foreign state, see section 1101(a)(14) of this title.
+
+&emsp;&emsp;Naturalization, see section 1101(a)(23) of this title.
+
+&emsp;&emsp;Organization, see section 1101(a)(28) of this title.
+
+&emsp;&emsp;Totalitarian party and totalitarian dictatorship, see section 1101(a)(37) of this title.
+
+&emsp;&emsp;United States, see section 1101(a)(38) of this title.
+
+&emsp;&emsp;World communism, see section 1101(a)(40) of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 1427, 1435, 1451 of this title.
+

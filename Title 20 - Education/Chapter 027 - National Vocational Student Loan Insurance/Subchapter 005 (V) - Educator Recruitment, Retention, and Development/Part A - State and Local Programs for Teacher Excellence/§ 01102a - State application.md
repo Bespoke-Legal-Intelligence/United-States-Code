@@ -84,7 +84,7 @@ The application required by subsection (a) of this section shall identify the pr
 
 #### (1) Report to Secretary
 
-&emsp;Each State educational agency receiving an allotment under this part shall evaluate thework of each academy that is located in the State and assisted under this part every 2 years, including the impact of each academy's programs on participants, and report the findings of such evaluation to the Secretary. The initial report shall be submitted 3 years after funds are first allotted to such State educational agency under section 1102 of this title and subsequent reports shall be submitted every 2 years thereafter. Such report shall also describe the characteristics of the participants and activities provided at each academy assisted under this part.
+&emsp;Each State educational agency receiving an allotment under this part shall evaluate the work of each academy that is located in the State and assisted under this part every 2 years, including the impact of each academy's programs on participants, and report the findings of such evaluation to the Secretary. The initial report shall be submitted 3 years after funds are first allotted to such State educational agency under section 1102 of this title and subsequent reports shall be submitted every 2 years thereafter. Such report shall also describe the characteristics of the participants and activities provided at each academy assisted under this part.
 
 #### (2) Report to Congress
 

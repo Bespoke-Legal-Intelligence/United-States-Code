@@ -12,21 +12,27 @@ Whoever, whether or not acting under color of law, by force or threat of force w
 
 &emsp;(c) any citizen because he is or has been, or in order to discourage such citizen or any other citizen from lawfully aiding or encouraging other persons to participate, without discrimination on account of race, color, religion, sex, handicap (as such term is defined in section 3602 of this title), familial status (as such term is defined in section 3602 of this title), or national origin, in any of the activities, services, organizations or facilities described in subsection (a) of this section, or participating lawfully in speech or peaceful assembly opposing any denial of the opportunity to so participate—
 
-> shall be fined under this title <sup>1</sup> or imprisoned not more than one year, or both; and if bodily injury results from the acts committed in violation of this section or if such acts include the use, attempted use, or threatened use of a dangerous weapon, explosives, or fire shall be fined under this title <sup>1</sup> or imprisoned not more than ten years, or both; and if death results from the acts committed in violation of this section or if such acts include kidnapping or an attempt to kidnap, aggravated sexual abuse or an attempt to commit aggravated sexual abuse, or an attempt to kill, shall be fined under this title <sup>1</sup> or imprisoned for any term of years or for life, or both.
+> shall be fined under title 18 or imprisoned not more than one year, or both; and if bodily injury results from the acts committed in violation of this section or if such acts include the use, attempted use, or threatened use of a dangerous weapon, explosives, or fire shall be fined under title 18 or imprisoned not more than ten years, or both; and if death results from the acts committed in violation of this section or if such acts include kidnapping or an attempt to kidnap, aggravated sexual abuse or an attempt to commit aggravated sexual abuse, or an attempt to kill, shall be fined under title 18 or imprisoned for any term of years or for life, or both.
 
-(Pub. L. 90–284, title IX, §901, Apr. 11, 1968, 82 Stat. 89; Pub. L. 93–383, title VIII, §808(b)(4), Aug. 22, 1974, 88 Stat. 729; Pub. L. 100–430, §9, Sept. 13, 1988, 102 Stat. 1635; Pub. L. 103–322, title XXXII, §320103(e), Sept. 13, 1994, 108 Stat. 2110.)
+(Pub. L. 90–284, title IX, §901, Apr. 11, 1968, 82 Stat. 89; Pub. L. 93–383, title VIII, §808(b)(4), Aug. 22, 1974, 88 Stat. 729; Pub. L. 100–430, §9, Sept. 13, 1988, 102 Stat. 1635; Pub. L. 103–322, title XXXII, §320103(e), Sept. 13, 1994, 108 Stat. 2110; Pub. L. 104–294, title VI, §604(b)(15), (27), Oct. 11, 1996, 110 Stat. 3507, 3508.)
 
 #### Amendments
 
-1994—Pub. L. 103–322, §320103(e), which directed the amendment of section “901 of the Fair Housing Act (42 U.S.C. 3631)”, was executed by amending this section, which is section 901 of the Civil Rights Act of 1968, to reflect the probable intent of Congress. See below.
+1996—Pub. L. 104–294, §604(b)(27), substituted “under title 18” for “under this title” wherever appearing in closing provisions.
 
-Pub. L. 103–322, §320103(e)(1), which directed amendment in the caption by striking “bodily injury; death;”, could not be executed because the words “bodily injury; death;” do not appear in the section catchline in the original.
+Pub. L. 104–294, §604(b)(15), made technical amendment to directory language of Pub. L. 103–322, §320103(e). See 1994 Amendment note below.
 
-Pub. L. 103–322, §320103(e)(2)–(7), in concluding provisions, substituted “under this title” for “not more than $1,000,” before “or imprisoned not more than one year”, inserted “from the acts committed in violation of this section or if such acts include the use, attempted use, or threatened use of a dangerous weapon, explosives, or fire” after “bodily injury results”, substituted “under this title” for “not more than $10,000,” before “or imprisoned not more than ten years”, inserted “from the acts committed in violation of this section or if such acts include kidnapping or an attempt to kidnap, aggravated sexual abuse or an attempt to commit aggravated sexual abuse, or an attempt to kill,” after “death results”, substituted “fined under this title or imprisoned” for “subject to imprisonment” before “for any term of years”, and inserted “, or both” before period at end.
+1994—Pub. L. 103–322, §320103(e)(1), as amended by Pub. L. 104–294, §604(b)(15), which directed amendment in the caption by striking “bodily injury; death;”, could not be executed because the words “bodily injury; death;” do not appear in the section catchline in the original.
+
+Pub. L. 103–322, §320103(e)(2)–(7), as amended by Pub. L. 104–294, §604(b)(15), in concluding provisions, substituted “under this title” for “not more than $1,000,” before “or imprisoned not more than one year”, inserted “from the acts committed in violation of this section or if such acts include the use, attempted use, or threatened use of a dangerous weapon, explosives, or fire” after “bodily injury results”, substituted “under this title” for “not more than $10,000,” before “or imprisoned not more than ten years”, inserted “from the acts committed in violation of this section or if such acts include kidnapping or an attempt to kidnap, aggravated sexual abuse or an attempt to commit aggravated sexual abuse, or an attempt to kill,” after “death results”, substituted “fined under this title or imprisoned” for “subject to imprisonment” before “for any term of years”, and inserted “, or both” before period at end.
 
 1988—Cls. (a), (b)(1), (c). Pub. L. 100–430 inserted “, handicap (as such term is defined in section 3602 of this title), familial status (as such term is defined in section 3602 of this title),” after “sex”.
 
 1974—Pub. L. 93–383 inserted “, sex” after “religion” wherever appearing in cls. (a), (b)(1), and (c).
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–294 effective Sept. 13, 1994, see section 604(d) of Pub. L. 104–294, set out as a note under section 13 of Title 18, Crimes and Criminal Procedure.
 
 #### Effective Date of 1988 Amendment
 
@@ -35,6 +41,4 @@ Amendment by Pub. L. 100–430 effective on 180th day beginning after Sept. 13, 
 #### Federally Protected Activities; Penalties
 
 Penalties for violations respecting federally protected activities not applicable to and not affecting activities under fair housing provisions of subchapter I of this chapter, see section 101(b) of Pub. L. 90–284, set out as a note under section 245 of Title 18, Crimes and Criminal Procedure.
-
-<i><sup>1</sup></i><i> So in original. Probably should be “under title 18”.</i>
 

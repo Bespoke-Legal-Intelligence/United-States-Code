@@ -2,7 +2,7 @@
 
 #### (a) Compliance orders
 
-(1) Except as provided in paragraph (2), whenever on the basis of any information the Administrator determines that any person has violatedor is in violation of any requirement of this subchapter, the Administrator may issue an order assessing a civil penalty for any past or current violation, requiring compliance immediately or within a specified time period, or both, or the Administrator may commence a civil action in the United States district court in the district in which the violation occurred for appropriate relief, including a temporary or permanent injunction.
+(1) Except as provided in paragraph (2), whenever on the basis of any information the Administrator determines that any person has violated or is in violation of any requirement of this subchapter, the Administrator may issue an order assessing a civil penalty for any past or current violation, requiring compliance immediately or within a specified time period, or both, or the Administrator may commence a civil action in the United States district court in the district in which the violation occurred for appropriate relief, including a temporary or permanent injunction.
 
 (2) In the case of a violation of any requirement of this subchapter where such violation occurs in a State which is authorized to carry out a hazardous waste program under section 6926 of this title, the Administrator shall give notice to the State in which such violation has occurred prior to issuing an order or commencing a civil action under this section.
 
@@ -48,7 +48,7 @@ Any person who—
 
 #### (e) Knowing endangerment
 
-Any person who knowingly transports, treats, stores, disposes of, or exports any hazardouswaste identified or listed under this subchapter or used oil not identified or listed as a hazardous waste under this subchapter in violation of paragraph (1), (2), (3), (4), (5), (6), or (7) of subsection (d) of this section who knows at that time that he thereby places another person in imminent danger of death or serious bodily injury, shall, upon conviction, be subject to a fine of not more than $250,000 or imprisonment for not more than fifteen years, or both. A defendant that is an organization shall, upon conviction of violating this subsection, be subject to a fine of not more than $1,000,000.
+Any person who knowingly transports, treats, stores, disposes of, or exports any hazardous waste identified or listed under this subchapter or used oil not identified or listed as a hazardous waste under this subchapter in violation of paragraph (1), (2), (3), (4), (5), (6), or (7) of subsection (d) of this section who knows at that time that he thereby places another person in imminent danger of death or serious bodily injury, shall, upon conviction, be subject to a fine of not more than $250,000 or imprisonment for not more than fifteen years, or both. A defendant that is an organization shall, upon conviction of violating this subsection, be subject to a fine of not more than $1,000,000.
 
 #### (f) Special rules
 
@@ -68,7 +68,7 @@ For the purposes of subsection (e) of this section—
 
 &emsp;&emsp;(B) knowledge possessed by a person other than the defendant but not by the defendant himself may not be attributed to the defendant;
 
-> &emsp;<i>Provided,</i> That in proving the defendant's possession of actual knowledge, circumstantial evidence may be used, including evidence that the defendant took affirmative steps to shield himself from relevant information.
+> &emsp;<i>Provided</i>, That in proving the defendant's possession of actual knowledge, circumstantial evidence may be used, including evidence that the defendant took affirmative steps to shield himself from relevant information.
 
 &emsp;(3) It is an affirmative defense to a prosecution that the conduct charged was consented to by the person endangered and that the danger and conduct charged were reasonably foreseeable hazards of—
 
@@ -100,7 +100,7 @@ Any person who violates any requirement of this subchapter shall be liable to th
 
 #### (h) Interim status corrective action orders
 
-(1) Whenever on the basis of any information the Administrator determines that there is or has been a release of hazardous waste into the environment from a facility authorized to operate under section 6925(e) of this title, the Administrator may issue an order requiring corrective action or such other response measure as he deems necessary to protect human health or the environment or the Administrator may commence a civil action in the United States district court in the district in which the facility is located for appropriate relief, including a temporary or permanent injunction.
+(1) Whenever on the basis of any information the Administrator determines that there is orhas been a release of hazardous waste into the environment from a facility authorized to operate under section 6925(e) of this title, the Administrator may issue an order requiring corrective action or such other response measure as he deems necessary to protect human health or the environment or the Administrator may commence a civil action in the United States district court in the district in which the facility is located for appropriate relief, including a temporary or permanent injunction.
 
 (2) Any order issued under this subsection may include a suspension or revocation of authorization to operate under section 6925(e) of this title, shall state with reasonable specificity the nature of the required corrective action or other response measure, and shall specify a time for compliance. If any person named in an order fails to comply with the order, the Administrator may assess, and such person shall be liable to the United States for, a civil penalty in an amount not to exceed $25,000 for each day of noncompliance with the order.
 
@@ -152,7 +152,7 @@ Subsec. (h). Pub. L. 98–616, §233(a), added subsec. (h).
 
 Subsec. (a)(2). Pub. L. 96–482, §13(2), struck out “thirty days” after “violation has occurred”.
 
-Subsec. (b). Pub. L. 96–482, §13(3), substituted “order shall become final unless, no later than thirty days after the order is served” for “order or any suspension or revocation of a permit shall become final unless, no later than thirty days after the order or notice of the suspension or revocation is served”.
+Subsec. (b). Pub. L. 96–482, §13(3), substituted “order shall become final unless, no later than thirty days after the order is served” for “order or any suspension or revocation of a permit shall become final unless, nolater than thirty days after the order or notice of the suspension or revocation is served”.
 
 Subsec. (c). Pub. L. 96–482, §13(4), authorized orders for suspension or revocation of permits.
 

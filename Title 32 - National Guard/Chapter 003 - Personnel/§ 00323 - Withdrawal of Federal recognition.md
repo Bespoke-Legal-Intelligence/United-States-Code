@@ -12,16 +12,6 @@
 
 (c) If a member of the Army National Guard of the United States or the Air National Guard of the United States is transferred to the Army Reserve or the Air Force Reserve, as the case may be, under section 12105, 12213(a), or 12214(a) of title 10, his Federal recognition is withdrawn.
 
-(d) Except as provided in sections 1005 and 1006 <sup>1</sup> of title 10, the Federal recognition of a second lieutenant of the Army National Guard who is discharged under section 3820(c) of title 10 for failure of promotion shall be withdrawn on the date of that discharge.
-
-(e) Except as provided in sections 1005 and 1006 <sup>1</sup> of title 10, the Federal recognition of a reserve officer of the Air Force who is not recommended for promotion under section 8368(c)(1) or (2) of title 10, or who is found to be not qualified for Federal recognition under section 8368(d) or (e) of title 10, shall be withdrawn.
-
-(Aug. 10, 1956, ch. 1041, 70A Stat. 607; Sept. 2, 1958, Pub. L. 85–861, §§2(11), 33(c)(2), 72 Stat. 1546, 1567; Oct. 5, 1994, Pub. L. 103–337, div. A, title XVI, §§1630(2), 1676(a)(3), 108 Stat. 2964, 3019.)
-
-#### Amendment of Subsections (d) and (e)
-
-<i>Pub. L. 103–337, div. A, title XVI, §§1630(2), 1691(b)(1), Oct. 5, 1994, 108 Stat. 2964, 3026, provided that, effective Oct. 1, 1996, this section is amended by striking out subsections (d) and (e) and inserting in lieu thereof the following:</i>
-
 (d) The Federal recognition of a reserve commissioned officer of the Army or the Air Force who is—
 
 &emsp;(1) federally recognized as an officer of the National Guard; and
@@ -29,6 +19,8 @@
 &emsp;(2) subject to involuntary transfer to the Retired Reserve, transfer to an inactive status list, or discharge under chapter 1407, 1409, or 1411 of title 10;
 
 > shall, if not sooner withdrawn, be withdrawn on the date of such involuntary transfer or discharge.
+
+(Aug. 10, 1956, ch. 1041, 70A Stat. 607; Sept. 2, 1958, Pub. L. 85–861, §§2(11), 33(c)(2), 72 Stat. 1546, 1567; Oct. 5, 1994, Pub. L. 103–337, div. A, title XVI, §§1630(2), 1676(a)(3), 108 Stat. 2964, 3019.)
 
 Historical and Revision Notes<br>1956
 
@@ -42,7 +34,13 @@ Act
 
 323(a)
 
+&nbsp;
+
 323(b)
+
+&nbsp;
+
+&nbsp;
 
 323(c)
 
@@ -80,6 +78,8 @@ Act
 
 323(d)
 
+&nbsp;
+
 323(e)
 
 50:1261 (as applicable to Federal recognition).
@@ -96,13 +96,15 @@ In subsection (d), the words “notwithstanding section 115 of title 32” are o
 
 In subsection (e), the words “if appropriate” are omitted as surplusage.
 
-#### References in Text
-
-Sections 1005 and 1006 of title 10, referred to in subsecs. (d) and (e), were renumbered sections 12645 and 12646 of title 10, respectively, by Pub. L. 103–337, div. A, title XVI, §1662(h)(2), Oct. 5, 1994, 108 Stat. 2996.
-
 #### Amendments
 
 1994—Subsec. (c). Pub. L. 103–337, §1676(a)(3), substituted “12105, 12213(a), or 12214(a)” for “3259, 3352(a), 8259, or 8352(a)”.
+
+Subsecs. (d), (e). Pub. L. 103–337, §1630(2), added subsec. (d) and struck out former subsecs. (d) and (e) which read as follows:
+
+“(d) Except as provided in sections 1005 and 1006 of title 10, the Federal recognition of a second lieutenant of the Army National Guard who is discharged under section 3820(c) of title 10 for failure of promotion shall be withdrawn on the date of that discharge.
+
+“(e) Except as provided in sections 1005 and 1006 of title 10, the Federal recognition of a reserve officer of the Air Force who is not recommended for promotion under section 8368(c)(1) or (2) of title 10, or who is found to be not qualified for Federal recognition under section 8368(d) or (e) of title 10, shall be withdrawn.”
 
 1958—Subsec. (b)(1). Pub. L. 85–861, §33(c)(2), substituted “the Regular Army or the Army National Guard of the United States, or both” for “a regular or reserve component of the Army”.
 
@@ -120,11 +122,9 @@ Amendment by section 33(c)(2) of Pub. L. 85–861 effective Aug. 10, 1956, see s
 
 #### Cross References
 
-Suspension of subsecs. (d) and (e) of this section, see section 111 of this title.
+Suspension of subsec. (d) of this section, see section 111 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 111 of this title; title 10 sections 3820, 8368, 8820, 14907.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+This section is referred to in section 111 of this title; title 10 section 14907.
 

@@ -32,7 +32,7 @@ Amendment by Pub. L. 98–199 effective Dec. 2, 1983, see section 18 of Pub. L. 
 
 #### Effective Date of 1974 Amendment
 
-Section 612(b)(2) of Pub. L. 93–380 provided that: “The amendments made by subsection (a) \[amending thissection\] shall become effective upon the enactment of this Act \[Aug. 21, 1974\].”
+Section 612(b)(2) of Pub. L. 93–380 provided that: “The amendments made by subsection (a) \[amending this section\] shall become effective upon the enactment of this Act \[Aug. 21, 1974\].”
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 

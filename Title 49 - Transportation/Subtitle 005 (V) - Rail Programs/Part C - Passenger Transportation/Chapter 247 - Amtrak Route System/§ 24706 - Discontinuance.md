@@ -44,7 +44,9 @@ Employee Protective Arrangements.—(1) Amtrak or a rail carrier (including a te
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

@@ -1,20 +1,15 @@
 ### <b>CHAPTER 153—JURISDICTION</b>
 
-#### CHAPTER 153—JURISDICTION <sup>1</sup>
-
-| Sec. |
-| :--- |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |
+| Sec. |  |
 | :--- | ---: |
-| 15301\. | General pipeline jurisdiction. |
-| 15302\. | Authority to exempt pipeline carrier transportation. |
+| [15301\.](%C2%A7%2015301%20-%20General%20pipeline%20jurisdiction.md) | General pipeline jurisdiction. |
+| [15302\.](%C2%A7%2015302%20-%20Authority%20to%20exempt%20pipeline%20carrier%20transportation.md) | Authority to exempt pipeline carrier transportation. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<i><sup>1</sup></i><i> So in original. Probably should not appear.</i>
+#### Amendments
+
+1996—Pub. L. 104–287, §5(42), Oct. 11, 1996, 110 Stat. 3392, struck out duplicative chapter heading.
 
 
 ---

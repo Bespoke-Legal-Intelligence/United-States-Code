@@ -1,4 +1,0 @@
-### §3241. Repealed. Pub. L. 101–624, title XVI, §1601(f)(1)(D), Nov. 28, 1990, 104 Stat. 3704
-
-Section, Pub. L. 95–113, title XIV, §1449, Sept. 29, 1977, 91 Stat. 1012, related to farm and forest uses of solar energy and nonrenewable fuel and petrochemical substitutes.
-

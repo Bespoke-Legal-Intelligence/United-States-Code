@@ -18,7 +18,7 @@ Every person disposing of containers of the character used for the packaging of 
 
 No person who sells, or offers for sale, distilled spirits, or agent or employee of such person, shall—
 
-&emsp;(1) place in any liquor bottle any distilled spirits whatsoever other than those containedin such bottle at the time of tax determination under the provisions of this chapter; or
+&emsp;(1) place in any liquor bottle any distilled spirits whatsoever other than those contained in such bottle at the time of tax determination under the provisions of this chapter; or
 
 &emsp;(2) possess any liquor bottle in which any distilled spirits have been placed in violation of the provisions of paragraph (1); or
 

@@ -20,7 +20,7 @@ The Director of the Institute shall collaborate with the Substance Abuse and Men
 
 #### (2) Allocation for health services research
 
-&emsp;Of the amounts appropriated under paragraph (1) for a fiscal year, the Director shall obligate not less than 15 percent to carry out health services research relating to drug abuse.
+&emsp;Of the amounts appropriated under paragraph (1) for a fiscal year, the Director shallobligate not less than 15 percent to carry out health services research relating to drug abuse.
 
 (July 1, 1944, ch. 373, title IV, §464L, as added July 10, 1992, Pub. L. 102–321, title I, §123(a), 106 Stat. 360; amended Aug. 26, 1992, Pub. L. 102–352, §2(a)(3), 106 Stat. 938.)
 

@@ -16,7 +16,7 @@ For the purposes of this chapter:
 
 &emsp;(7) The term “Secretary” means the Secretary of the Interior.
 
-&emsp;(8) The term “State” means the State fish and wildlife agency, which shall be construedto mean any department, or any division of any department of another name, of a State that is empowered under its laws to exercise the functions ordinarily exercised by a State fish and wildlife agency.
+&emsp;(8) The term “State” means the State fish and wildlife agency, which shall be construed to mean any department, or any division of any department of another name, of a State that is empowered under its laws to exercise the functions ordinarily exercised by a State fish and wildlife agency.
 
 &emsp;(9) The term “wetlands conservation project” means—
 
@@ -34,7 +34,7 @@ The Migratory Bird Treaty Act, referred to in par. (5), is act July 3, 1918, ch.
 
 The Endangered Species Act, referred to in par. (5), probably means the Endangered Species Act of 1973, Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, as amended, which is classified generally to chapter 35 (§1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
 
-The Fish and Wildlife Conservation Act of 1980, referred to in par. (5), is Pub. L. 96–366, Sept. 29, 1980, 94 Stat. 1322, as amended, which is classified generally to chapter 49 (§2901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2901 of this title and Tables.
+The Fish and Wildlife Conservation Act of 1980, referred to in par. (5), is Pub. L. 96–366, Sept. 29, 1980, 94Stat. 1322, as amended, which is classified generally to chapter 49 (§2901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2901 of this title and Tables.
 
 #### Abolition of House Committee on Merchant Marine and Fisheries
 

@@ -32,7 +32,7 @@ Before issuing or transferring a license for exploration or permit for commercia
 
 &emsp;(C) to avoid a conflict with any international obligation of the United States, established by any treaty or convention in force with respect to the United States, as determined in writing by the President; or
 
-&emsp;(D) to avoid any situation which may reasonably be expected to lead to a breach of international peace and security involving armed conflict, as determined in writing by the President.
+&emsp;(D) to avoid any situation which may reasonably be expected to lead to a breach of international peace and security involvingarmed conflict, as determined in writing by the President.
 
 (2) During the term of a license or a permit, the licensee or permittee may submit to the Administrator an application for a revision of the license or permit or the exploration plan or recovery plan associated with the license or permit. The Administrator shall approve such application upon a finding in writing that the revision will comply with the requirements of this chapter and the regulations issued under this chapter.
 
@@ -44,11 +44,25 @@ Before issuing or transferring a license for exploration or permit for commercia
 
 Prior to making a determination to issue, transfer, modify, or renew a license or permit under this section, the Administrator shall consult with any affected Regional Fishery Management Council established pursuant to section 1852 of title 16, if the activities undertaken pursuant to such license or permit could adversely affect any fishery within the Fishery Conservation Zone, or any anadromous species or Continental Shelf fishery resource subject to the exclusive management authority of the United States beyond such zone.
 
-(Pub. L. 96–283, title I, §105, June 28, 1980, 94 Stat. 563.)
+(Pub. L. 96–283, title I, §105, June 28, 1980, 94 Stat. 563; Pub. L. 96–561, title II, §238(b), Dec. 22, 1980, 94 Stat. 3300; Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41.)
 
 #### References in Text
 
 The Fishery Conservation Zone, referred to in subsec. (d), probably means the fishery conservation zone established by section 1811 of Title 16, Conservation, which as amended generally by Pub. L. 99–659, title I, §101(b), Nov. 14, 1986, 100 Stat. 3706, relates to United States sovereign rights and fishery management authority over fish within the exclusive economic zone as defined in section 1802 of Title 16.
+
+#### Amendments
+
+1996—Subsec. (d). Pub. L. 104–208 made technical amendment to reference in original act which appears in text as reference to section 1852 of title 16.
+
+1980—Subsec. (d). Pub. L. 96–561 made technical amendment to reference in original act which appears in text as reference to section 1852 of title 16.
+
+#### Effective Date of 1996 Amendment
+
+Section 101(a) \[title II, §211(b)\] of div. A of Pub. L. 104–208 provided that the amendment made by that section is effective 15 days after Oct. 11, 1996.
+
+#### Effective Date of 1980 Amendment
+
+Section 238(b) of Pub. L. 96–561 provided that the amendment made by that section is effective 15 days after Dec. 22, 1980.
 
 #### Section Referred to in Other Sections
 

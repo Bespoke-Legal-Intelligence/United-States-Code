@@ -4,6 +4,8 @@ Part B—Education for Homeless Children and Youth
 
 This part is referred to in title 20 section 8825.
 
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
 
 ---
 

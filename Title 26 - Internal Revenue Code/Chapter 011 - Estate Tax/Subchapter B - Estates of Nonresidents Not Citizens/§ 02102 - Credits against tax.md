@@ -26,7 +26,7 @@ The maximum credit allowed under section 2011 against the tax imposed by section
 
 #### (A) Coordination with treaties
 
-&emsp;&emsp;To the extent required under any treaty obligation of the United States, the credit allowed under this subsection shall be equal to the amount which bears the same ratio to $192,800 as the value of the part of the decedent's gross estate which at the time of his death is situated in the United States bears to the value of his entire gross estate wherever situated.
+&emsp;&emsp;To the extent required under any treaty obligation of the United States, the credit allowed under this subsection shall be equal to the amount which bears the same ratio to $192,800 as the value of the part of the decedent's gross estate which at the time of his death is situated in the United States bears to the value of his entire gross estate wherever situated. For purposes of the preceding sentence, property shall not be treated as situated in the United States if such property is exempt from the tax imposed by this subchapter under any treaty obligation of the United States.
 
 #### (B) Coordination with gift tax unified credit
 
@@ -40,9 +40,11 @@ The maximum credit allowed under section 2011 against the tax imposed by section
 
 &emsp;For purposes of subsection (a), sections 2011 to 2013, inclusive, shall be applied as if the credit allowed under this subsection were allowed under section 2010.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 397; Nov. 13, 1966, Pub. L. 89–809, title I, §108(b), 80 Stat. 1572; Oct. 4, 1976, Pub. L. 94–455, title XX, §2001(c)(1)(E)(i), 90 Stat. 1851; Nov. 10, 1988, Pub. L. 100–647, title V, §5032(b), 102 Stat. 3669.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 397; Nov. 13, 1966, Pub. L. 89–809, title I, §108(b), 80 Stat. 1572; Oct. 4, 1976, Pub. L. 94–455, title XX, §2001(c)(1)(E)(i), 90 Stat. 1851; Nov. 10, 1988, Pub. L. 100–647, title V, §5032(b), 102 Stat. 3669; Aug. 20, 1996, Pub. L. 104–188, title I, §1704(f)(1), 110 Stat. 1879.)
 
 #### Amendments
+
+1996—Subsec. (c)(3)(A). Pub. L. 104–188 inserted at end “For purposes of the preceding sentence, property shall not be treated as situated in the United States if such property is exempt from the tax imposed by this subchapter under any treaty obligation of the United States.”
 
 1988—Subsec. (c)(1). Pub. L. 100–647, §5032(b)(1)(A), substituted “$13,000” for “$3,600”.
 

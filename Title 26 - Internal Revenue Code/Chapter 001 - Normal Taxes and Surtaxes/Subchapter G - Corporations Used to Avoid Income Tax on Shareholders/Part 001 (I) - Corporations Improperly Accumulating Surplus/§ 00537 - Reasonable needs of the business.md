@@ -32,19 +32,17 @@ For purposes of subsection (a)—
 
 #### (4) Product liability loss reserves
 
-&emsp;The accumulation of reasonable amounts for the payment of reasonably anticipated product liability losses (as defined in section 172(i)),<sup>1</sup> as determined under regulations prescribed by the Secretary, shall be treated as accumulated for the reasonably anticipated needs of the business.
+&emsp;The accumulation of reasonable amounts for the payment of reasonably anticipated product liability losses (as defined in section 172(f)), as determined under regulations prescribed by the Secretary, shall be treated as accumulated for the reasonably anticipated needs of the business.
 
 #### (5) No inference as to prior taxable years
 
 &emsp;The application of this part to any taxable year before the first taxable year specified in paragraph (1) shall be made without regard to the fact that distributions in redemption coming within the terms of such paragraphs were subsequently made.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 182; Dec. 30, 1969, Pub. L. 91–172, title IX, §906(a), 83 Stat. 714; Oct. 4, 1976, Pub. L. 94–455, title XIX, §1901(a)(75), 90 Stat. 1777; Nov. 6, 1978, Pub. L. 95–600, title III, §371(c), 92 Stat. 2859.)
-
-#### References in Text
-
-Section 172(i), referred to in subsec. (b)(4), was redesignated section 172(j) of this title by Pub. L. 97–362, title I, §102(b), Oct. 25, 1982, 96 Stat. 1728, and was subsequently redesignated section 172(f) of this title and amended generally by Pub. L. 101–508, title XI, §11811(b)(1), (2)(A), Nov. 5, 1990, 104 Stat. 1388–532, and, as so amended, no longer contains provision defining product liability losses. See section 172(f)(1), (4) of this title.
+(Aug. 16, 1954, ch. 736, 68A Stat. 182; Dec. 30, 1969, Pub. L. 91–172, title IX, §906(a), 83 Stat. 714; Oct. 4, 1976, Pub. L. 94–455, title XIX, §1901(a)(75), 90 Stat. 1777; Nov. 6, 1978, Pub. L. 95–600, title III, §371(c), 92 Stat. 2859; Aug. 20, 1996, Pub. L. 104–188, title I, §1704(t)(33), 110 Stat. 1889.)
 
 #### Amendments
+
+1996—Subsec. (b)(4). Pub. L. 104–188 substituted “section 172(f)” for “section 172(i)”.
 
 1978—Subsec. (b)(4), (5). Pub. L. 95–600 added par. (4) and redesignated former par. (4) as (5).
 

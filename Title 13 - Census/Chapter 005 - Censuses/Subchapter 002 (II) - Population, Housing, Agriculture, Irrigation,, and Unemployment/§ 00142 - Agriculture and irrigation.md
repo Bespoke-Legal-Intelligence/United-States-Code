@@ -32,7 +32,7 @@ Subsec. (c). Pub. L. 94–229 added subsec. (c).
 
 #### Census of Agriculture
 
-Pub. L. 101–624, title XXIII, §2392, Nov. 28, 1990, 104 Stat. 4057, provided that: “The Secretary of Commerce shall include questions relating to agricultural accidents and farm safety in thes \[sic\] 1992 Census of Agriculture.”
+Pub. L. 101–624, title XXIII, §2392, Nov. 28, 1990, 104 Stat. 4057, directed Secretary of Commerce to include questions relating to agricultural accidents and farm safety in 1992 Census of Agriculture, prior to repeal by Pub. L. 104–127, title VII, §710, Apr. 4, 1996, 110 Stat. 1112.
 
 #### Statistical Reports Issued On or Before June 30, 1976
 

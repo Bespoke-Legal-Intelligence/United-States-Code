@@ -34,5 +34,5 @@ For transfer of certain functions from Nuclear Regulatory Commission to Chairman
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 2297b–11 of this title.
+This section is referred to in sections 2297b–11, 2297h–13 of this title.
 

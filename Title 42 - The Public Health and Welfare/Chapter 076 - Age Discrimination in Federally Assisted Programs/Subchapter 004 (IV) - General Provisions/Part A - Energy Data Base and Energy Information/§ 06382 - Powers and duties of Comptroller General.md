@@ -38,15 +38,15 @@ If the verification examination was conducted at the request of any committee of
 
 (2) Any person who knowingly discloses information in violation of paragraph (1) shall be subject to the penalties specified in section 754(a)(3)(B) and (4) <sup>1</sup> of title 15.
 
-#### (f) Reports to Congress
-
-The Comptroller General shall prepare and submit to the Congress an annual report with respect to the exercise of its authorities under this part, which report shall specifically identify any deficiencies in energy information or financial information reviewed by the Comptroller General and include a discussion of action taken by the person or company so examined, if any, to correct any such deficiencies.
-
-(Pub. L. 94–163, title V, §502, Dec. 22, 1975, 89 Stat. 957.)
+(Pub. L. 94–163, title V, §502, Dec. 22, 1975, 89 Stat. 957; Pub. L. 104–316, title I, §122(p), Oct. 19, 1996, 110 Stat. 3838.)
 
 #### References in Text
 
 Section 754 of title 15, referred to in subsec. (e)(2), was omitted from the Code pursuant to section 760g of Title 15, Commerce and Trade, which provided for the expiration of the President's authority under that section on Sept. 30, 1981.
+
+#### Amendments
+
+1996—Subsec. (f). Pub. L. 104–316 struck out subsec. (f) which read as follows: “The Comptroller General shall prepare and submit to the Congress an annual report with respect to the exercise of its authorities under this part, which report shall specifically identify any deficiencies in energy information or financial information reviewed by the Comptroller General and include a discussion of action taken by the person or company so examined, if any, to correct any such deficiencies.”
 
 #### Section Referred to in Other Sections
 

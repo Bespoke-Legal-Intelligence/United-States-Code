@@ -10,13 +10,3 @@ In order to pay for the increase in the United States subscription to the Bank p
 
 (Pub. L. 89–369, §30, as added Pub. L. 102–145, §125(b), as added Pub. L. 102–266, §102, Apr. 1, 1992, 106 Stat. 97.)
 
-### SUBCHAPTER XV—INTERNATIONAL
-
-### MONETARY FUND AND BANK FOR
-
-### RECONSTRUCTION AND DEVELOPMENT
-
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 286q, 290k–5, 290<i>l</i>–2 of this title.
-

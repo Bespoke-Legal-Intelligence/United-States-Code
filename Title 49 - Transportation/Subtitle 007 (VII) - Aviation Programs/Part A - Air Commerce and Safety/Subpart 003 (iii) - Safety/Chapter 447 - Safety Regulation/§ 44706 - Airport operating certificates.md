@@ -6,9 +6,11 @@ General.—The Administrator of the Federal Aviation Administration shall issue 
 
 &emsp;(1) that serves an air carrier operating aircraft designed for at least 31 passenger seats;
 
-&emsp;(2) that the Administrator requires to have a certificate; and
+&emsp;(2) that is not located in the State of Alaska and serves any scheduled passenger operation of an air carrier operating aircraft designed for more than 9 passenger seats but less than 31 passenger seats; and
 
-&emsp;(3) when the Administrator finds, after investigation, that the person properly and adequately is equipped and able to operate safely under this part and regulations and standards prescribed under this part.
+&emsp;(3) that the Administrator requires to have a certificate;
+
+> if the Administrator finds, after investigation, that the person properly and adequately is equipped and able to operate safely under this part and regulations and standards prescribed under this part.
 
 (b)
 
@@ -22,11 +24,25 @@ Terms.—An airport operating certificate issued under this section shall contai
 
 Exemptions.—The Administrator may exempt from the requirements of this section, related to firefighting and rescue equipment, an operator of an airport described in subsection (a) of this section having less than .25 percent of the total number of passenger boardings each year at all airports described in subsection (a) when the Administrator decides that the requirements are or would be unreasonably costly, burdensome, or impractical.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1189.)
+(d)
+
+Commuter Airports.—In developing the terms required by subsection (b) for airports covered by subsection (a)(2), the Administrator shall identify and consider a reasonable number of regulatory alternatives and select from such alternatives the least costly, most cost-effective or the least burdensome alternative that will provide comparable safety at airports described in subsections (a)(1) and (a)(2).
+
+(e)
+
+Effective Date.—Any regulation establishing the terms required by subsection (b) for airports covered by subsection (a)(2) shall not take effect until such regulation, and a report on the economic impact of the regulation on air service to the airports covered by the rule, has been submitted to Congress and 120 days have elapsed following the date of such submission.
+
+(f)
+
+Limitation on Statutory Construction.—Nothing in this title may be construed as requiring a person to obtain an airport operating certificate if such person does not desire to operate an airport described in subsection (a).
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1189; Pub. L. 104–264, title IV, §404, Oct. 9, 1996, 110 Stat. 3256.)
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -52,7 +68,21 @@ In subsection (a), before clause (1), the words “may file with the Administrat
 
 In subsection (b), before clause (1), the words “conditions, and limitations . . . reasonably” are omitted as surplus. In clause (2), the words “grooving or other” are omitted as surplus.
 
+#### Amendments
+
+1996—Subsec. (a). Pub. L. 104–264, §404(a), added par. (2), redesignated former par. (2) as (3), substituted “if” for “(3) when” in former par. (3) and adjusted the margins of that par. to make it a flush provision following par. (3).
+
+Subsec. (d). Pub. L. 104–264, §404(b), added subsec. (d).
+
+Subsec. (e). Pub. L. 104–264, §404(c), added subsec. (e).
+
+Subsec. (f). Pub. L. 104–264, §404(d), added subsec. (f).
+
+#### Effective Date of 1996 Amendment
+
+Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
+
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 106, 44701, 44711, 45302, 46301, 46310, 46316, 47110, 47501, 47531 of this title.
+This section is referred to in sections 106, 44701, 44711, 45302, 46310, 47110, 47501, 47531 of this title.
 

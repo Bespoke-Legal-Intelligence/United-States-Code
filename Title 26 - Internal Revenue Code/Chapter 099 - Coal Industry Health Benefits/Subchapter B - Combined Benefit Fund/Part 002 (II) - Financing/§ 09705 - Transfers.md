@@ -30,7 +30,7 @@
 
 #### (A) No deduction
 
-&emsp;&emsp;No deduction shall be allowed under this title with respect to any transfer pursuant to paragraph (1), but such transfer shall not adversely affect the deductibility (under applicable provisions of this title) of contributions previously made by employers, or amounts hereafter contributed by employers, to the 1950 UMWA Pension Plan, the 1950 UMWA Benefit Plan, the 1974 UMWA Pension Plan, the 1974 UMWA Benefit Plan, the 1992 UMWA Benefit Plan, or the Combined Fund.
+&emsp;&emsp;No deduction shall be allowed under this title with respect to any transfer pursuant to paragraph (1), but such transfer shall not adversely affect the deductibility (under applicable provisions of this title) of contributions previously made by employers, or amounts hereafter contributed by employers, to the 1950 UMWA Pension Plan, the 1950UMWA Benefit Plan, the 1974 UMWA Pension Plan, the 1974 UMWA Benefit Plan, the 1992 UMWA Benefit Plan, or the Combined Fund.
 
 #### (B) Other tax provisions
 

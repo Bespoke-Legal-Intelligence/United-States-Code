@@ -12,7 +12,7 @@ The Secretary—
 
 The Secretary shall make payments to the Board of Health of Hawaii for the care and treatment (including outpatient care) in its facilities of persons suffering from Hansen's disease at a rate, determined from time to time by the Secretary, which shall, subject to the availability of appropriations, be approximately equal to the operating cost per patient of those facilities, except that the rate determined by the Secretary shall not be greater than the comparable operating cost per Hansen's disease patient at the Gillis W. Long Hansen's Disease Center in Carville, Louisiana.
 
-(July 1, 1944, ch. 373, title III, §320, formerly §331, 58 Stat. 698; June 25, 1948, ch. 654, §4, 62 Stat. 1018; June 25, 1952, ch. 460, 66 Stat. 157; July 12, 1960, Pub. L. 86–624, §29(b), 74 Stat. 419; renumbered §339, Oct. 12, 1976, Pub. L. 94–484, title IV, §407(b)(2), 90 Stat. 2268; renumbered §320, andamended Nov. 10, 1978, Pub. L. 95–626, title I, §105(a), 92 Stat. 3560; July 10, 1979, Pub. L. 96–32, §7(b), 93 Stat. 84; Oct. 7, 1985, Pub. L. 99–117, §2(a), 99 Stat. 491.)
+(July 1, 1944, ch. 373, title III, §320, formerly §331, 58 Stat. 698; June 25, 1948, ch. 654, §4, 62 Stat. 1018; June 25, 1952, ch. 460, 66 Stat. 157; July 12, 1960, Pub. L. 86–624, §29(b), 74 Stat. 419; renumbered §339, Oct. 12, 1976, Pub. L. 94–484, title IV, §407(b)(2), 90 Stat. 2268; renumbered §320, and amended Nov. 10, 1978, Pub. L. 95–626, title I, §105(a), 92 Stat. 3560; July 10, 1979, Pub. L. 96–32, §7(b), 93 Stat. 84; Oct. 7, 1985, Pub. L. 99–117, §2(a), 99 Stat. 491.)
 
 #### Codification
 

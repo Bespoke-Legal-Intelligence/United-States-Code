@@ -60,7 +60,7 @@ The Assistant Secretary shall, as part of the annual report submitted under subs
 
 &emsp;(5) the effectiveness of State and local efforts to target older individuals with greatest economic need (including low-income minority individuals) and older individuals with greatest social need (including low-income minority individuals) to receive services under this chapter.
 
-(Pub. L. 89–73, title II, §207, formerly §208, as added Pub. L. 93–29, title II, §201(c), May 3, 1973, 87 Stat. 35; renumbered §207, Pub. L. 97–115, §2(e)(2), Dec. 29, 1981, 95 Stat. 1596; amended Pub. L. 98–459, title II, §207, Oct. 9, 1984, 98 Stat. 1770; Pub. L. 100–175, title I, §§103(b), (c), 155(f), Nov. 29, 1987, 101 Stat. 928, 929, 954; Pub. L. 102–54, §13(q)(9)(A), June 13, 1991, 105 Stat. 281; Pub. L. 102–375, title II, §208, title VII, §708(a)(2)(A), (c)(2), title IX, §904(a)(8), Sept. 30, 1992, 106 Stat. 1214, 1292, 1306; Pub. L. 103–171, §3(a)(13), Dec. 2, 1993, 107 Stat. 1990; Pub. L. 103–437, §15(<i>l</i>), Nov. 2, 1994, 108 Stat. 4593.)
+(Pub. L. 89–73, title II, §207, formerly §208, as added Pub. L. 93–29, title II, §201(c), May 3, 1973,87 Stat. 35; renumbered §207, Pub. L. 97–115, §2(e)(2), Dec. 29, 1981, 95 Stat. 1596; amended Pub. L. 98–459, title II, §207, Oct. 9, 1984, 98 Stat. 1770; Pub. L. 100–175, title I, §§103(b), (c), 155(f), Nov. 29, 1987, 101 Stat. 928, 929, 954; Pub. L. 102–54, §13(q)(9)(A), June 13, 1991, 105 Stat. 281; Pub. L. 102–375, title II, §208, title VII, §708(a)(2)(A), (c)(2), title IX, §904(a)(8), Sept. 30, 1992, 106 Stat. 1214, 1292, 1306; Pub. L. 103–171, §3(a)(13), Dec. 2, 1993, 107 Stat. 1990; Pub. L. 103–437, §15(<i>l</i>), Nov. 2, 1994, 108 Stat. 4593.)
 
 #### Prior Provisions
 
@@ -102,7 +102,7 @@ Subsec. (c). Pub. L. 100–175, §155(f), added subsec. (c).
 
 #### Change of Name
 
-Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Economic and Educational Opportunities of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Fifth Congress, Jan. 7, 1997.
 
 #### Effective Date of 1992 Amendment
 

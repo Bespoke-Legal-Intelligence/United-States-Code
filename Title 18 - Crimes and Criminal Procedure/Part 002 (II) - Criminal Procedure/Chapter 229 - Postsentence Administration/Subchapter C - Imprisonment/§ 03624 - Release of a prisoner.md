@@ -6,9 +6,9 @@ Date of Release.—A prisoner shall be released by the Bureau of Prisons on the 
 
 (b)
 
-Credit Toward Service of Sentence for Satisfactory Behavior.—(1) A prisoner (other than a prisoner serving a sentence for a crime of violence) who is serving a term of imprisonment of more than one year, other than a term of imprisonment for the duration of the prisoner's life, shall receive credit toward the service of the prisoner's sentence, beyond the time served, of fifty-four days at the end of each year of the prisoner's term of imprisonment, beginning at the end of the first year of the term, unless the Bureau of Prisons determines that, during that year, the prisoner has not satisfactorily complied with such institutional disciplinary regulations as have been approved by the Attorney General and issued to the prisoner. A prisoner who is serving a term of imprisonment of more than 1 year for a crime of violence, other than a term of imprisonment for the duration of theprisoner's life, may receive credit toward the service of the prisoner's sentence, beyond the time served, of up to 54 days at the end of each year of the prisoner's term of imprisonment, beginning at the end of the first year of the term, subject to determination by the Bureau of Prisons that, during that year, the prisoner has displayed exemplary compliance with such institutional disciplinary regulations. If the Bureau determines that, during that year, the prisoner has not satisfactorily complied with such institutional regulations, the prisoner shall receive no such credit toward service of the prisoner's sentence or shall receive such lesser credit as the Bureau determines to be appropriate. The Bureau's determination shall be made within fifteen days after the end of each year of the sentence. Credit that has not been earned may not later be granted. Credit for the last year or portion of a year of the term of imprisonment shall be prorated and credited within the last six weeks of the sentence.
+Credit Toward Service of Sentence for Satisfactory Behavior.—(1) Subject to paragraph (2), a prisoner who is serving a term of imprisonment of more than 1 year <sup>1</sup> other than a term of imprisonment for the duration of the prisoner's life, may receive credit toward the service of the prisoner's sentence, beyond the time served, of up to 54 days at the end of each year of the prisoner's term of imprisonment, beginning at the end of the first year of the term, subject to determination by the Bureau of Prisons that, during that year, the prisoner has displayed exemplary compliance with institutional disciplinary regulations. Subject to paragraph (2), if the Bureau determines that, during that year, the prisoner has not satisfactorily complied with such institutional regulations, the prisoner shall receive no such credit toward service of the prisoner's sentence or shall receive such lesser credit as the Bureau determines to be appropriate. In awarding credit under this section, the Bureau shall consider whether the prisoner, during the relevant period, has earned, or is making satisfactory progress toward earning, a high school diploma or an equivalent degree. Credit that has not been earned may not later be granted. Subject to paragraph (2), credit for the last year or portion of a year of the term of imprisonment shall be prorated and credited within the last six weeks of the sentence.
 
-(2) Credit toward a prisoner's service of sentence shall not be vested unless the prisoner has earned or is making satisfactory progress toward a high school diploma or an equivalent degree.
+(2) Notwithstanding any other law, credit awarded under this subsection after the date of enactment of the Prison Litigation Reform Act shall vest on the date the prisoner is released from custody.
 
 (3) The Attorney General shall ensure that the Bureau of Prisons has in effect an optional General Educational Development program for inmates who have not earned a high school diploma or its equivalent.
 
@@ -16,7 +16,7 @@ Credit Toward Service of Sentence for Satisfactory Behavior.—(1) A prisoner (o
 
 (c)
 
-Pre-Release Custody.—The Bureau of Prisons shall, to the extent practicable, assure that a prisoner serving a term of imprisonment spends a reasonable part, not to exceed six months, of the last 10 per centum of the term to be served under conditions that will afford the prisoner a reasonable opportunity to adjust to and prepare for the prisoner's re-entry into the community. The authority provided by this subsection may be used to place a prisoner in home confinement. The United States Probation System shall, to the extent practicable, offer assistance to a prisoner during such pre-release custody.
+Pre-Release Custody.—The Bureau of Prisons shall, to the extent practicable, assurethat a prisoner serving a term of imprisonment spends a reasonable part, not to exceed six months, of the last 10 per centum of the term to be served under conditions that will afford the prisoner a reasonable opportunity to adjust to and prepare for the prisoner's re-entry into the community. The authority provided by this subsection may be used to place a prisoner in home confinement. The United States Probation System shall, to the extent practicable, offer assistance to a prisoner during such pre-release custody.
 
 (d)
 
@@ -52,11 +52,11 @@ Mandatory Functional Literacy Requirement.—
 
 &emsp;(5) The Chief Executive Officer of each institution shall have authority to grant waivers for good cause as determined and documented on an individual basis.
 
-&emsp;(6) A report shall be provided to Congress on an annual basis summarizing the results of this program, including the number of inmate participants, the number successfully completing the program, the number who do not successfully complete the program, and the reasons for failure to successfully complete the program.
-
-(Added Pub. L. 98–473, title II, §212(a)(2), Oct. 12, 1984, 98 Stat. 2008; amended Pub. L. 99–646, §§16(a), 17(a), Nov. 10, 1986, 100 Stat. 3595; Pub. L. 101–647, title XXIX, §§2902(a), 2904, Nov. 29, 1990,104 Stat. 4913; Pub. L. 103–322, title II, §§20405, 20412, Sept. 13, 1994, 108 Stat. 1825, 1828.)
+(Added Pub. L. 98–473, title II, §212(a)(2), Oct. 12, 1984, 98 Stat. 2008; amended Pub. L. 99–646, §§16(a), 17(a), Nov. 10, 1986, 100 Stat. 3595; Pub. L. 101–647, title XXIX, §§2902(a), 2904, Nov. 29, 1990, 104 Stat. 4913; Pub. L. 103–322, title II, §§20405, 20412, Sept. 13, 1994, 108 Stat. 1825, 1828; Pub. L. 104–66, title I, §1091(c), Dec. 21, 1995, 109 Stat. 722; Pub. L. 104–134, title I, §101\[(a)\] \[title VIII, §809(c)\], Apr. 26, 1996, 110 Stat. 1321, 1321–76; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.)
 
 #### References in Text
+
+The date of enactment of the Prison Litigation Reform Act, referred to in subsec. (b)(2), probably means the date of enactment of the Prison Litigation Reform Act of 1995, section 101\[(a)\] \[title VIII\] of Pub. L. 104–134, which was approved Apr. 26, 1996.
 
 The date of the enactment of this Act, referred to in subsec. (f)(1), probably means the date of enactment of Pub. L. 101–647, which enacted subsec. (f) and was approved Nov. 29, 1990.
 
@@ -65,6 +65,20 @@ The date of the enactment of this Act, referred to in subsec. (f)(1), probably m
 For a prior section 3624, applicable to offenses committed prior to Nov. 1, 1987, see note set out preceding section 3601 of this title.
 
 #### Amendments
+
+1996—Subsec. (b)(1). Pub. L. 104–134, §101\[(a)\] \[title VIII, §809(c)(1)(A)\], struck out at beginning “A prisoner (other than a prisoner serving a sentence for a crime of violence) who is serving a term of imprisonment of more than one year, other than a term of imprisonment for the duration of the prisoner's life, shall receive credit toward the service of the prisoner's sentence, beyond the time served, of fifty-four days at the end of each year of the prisoner's term of imprisonment, beginning at the end of the first year of the term, unless the Bureau of Prisons determines that, during that year, the prisoner has not satisfactorily complied with such institutional disciplinary regulations as have been approved by the Attorney General and issued to the prisoner.”
+
+Pub. L. 104–134, §101\[(a)\] \[title VIII, §809(c)(1)(B)\], in second sentence substituted “Subject to paragraph (2), a prisoner” for “A prisoner”, struck out “for a crime of violence,” after “1 year”, and struck out “such” after “compliance with”.
+
+Pub. L. 104–134, §101\[(a)\] \[title VIII, §809(c)(1)(C)\], in third sentence substituted “Subject to paragraph (2), if the Bureau” for “If the Bureau”.
+
+Pub. L. 104–134, §101\[(a)\] \[title VIII, §809(c)(1)(D)\], in fourth sentence substituted “In awarding credit underthis section, the Bureau shall consider whether the prisoner, during the relevant period, has earned, or is making satisfactory progress toward earning, a high school diploma or an equivalent degree.” for “The Bureau's determination shall be made within fifteen days after the end of each year of the sentence.”
+
+Pub. L. 104–134, §101\[(a)\] \[title VIII, §809(c)(1)(E)\], in sixth sentence substituted “Subject to paragraph (2), credit for the last” for “Credit for the last”.
+
+Subsec. (b)(2). Pub. L. 104–134, §101\[(a)\] \[title VIII, §809(c)(2)\], amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Credit toward a prisoner's service of sentence shall not be vested unless the prisoner has earned or is making satisfactory progress toward a high school diploma or an equivalent degree.”
+
+1995—Subsec. (f)(6). Pub. L. 104–66 struck out par. (6) which read as follows: “A report shall be provided to Congress on an annual basis summarizing the results of this program, including the number of inmate participants, the number successfully completing the program, the number who do not successfully complete the program, and the reasons for failure to successfully complete the program.”
 
 1994—Subsec. (a). Pub. L. 103–322, §20405(2), substituted “the prisoner's” for “his” after “the expiration of” and “toward the service of”.
 
@@ -100,5 +114,7 @@ Section effective Nov. 1, 1987, and applicable only to offenses committed after 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3603, 3621, 4105, 5037 of this title; title 28 section 994.
+This section is referred to in sections 3603, 3621, 4105, 5037 of this title; title 28 sections 994, 1932.
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

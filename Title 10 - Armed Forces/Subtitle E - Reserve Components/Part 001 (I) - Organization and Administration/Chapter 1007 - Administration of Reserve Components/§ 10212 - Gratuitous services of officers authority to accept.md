@@ -12,7 +12,7 @@
 
 #### Prior Provisions
 
-Provisions similar to those in this section were contained in section 279 of this title, prior to repeal by Pub. L. 103–337, §1661(a)(2)(A), and in sections 4541 and9541 of this title, prior to repeal by Pub. L. 103–160, §822(d)(2).
+Provisions similar to those in this section were contained in section 279 of this title, prior to repeal by Pub. L. 103–337, §1661(a)(2)(A), and in sections 4541 and 9541 of this title, prior to repeal by Pub. L. 103–160, §822(d)(2).
 
 #### Amendments
 
@@ -20,7 +20,7 @@ Provisions similar to those in this section were contained in section 279 of thi
 
 #### Effective Date of 1994 Amendment
 
-Section 3021(b) of Pub. L. 103–355 provided that: “Notwithstanding section 10001 \[set out as a note under section 251 of Title 41, Public Contracts\], the amendments made by subsection (a) \[amending this section\] shall take effect on December 1, 1994, immediately after the amendments made by the Reserve Officer Personnel Management Act \[Pub. L. 103–337, see Tables for classification\].”
+Section 3021(b) of Pub. L. 103–355 provided that: “Notwithstanding section 10001 \[set out as a note under section 251 of Title 41, Public Contracts\], the amendments made by subsection (a) \[amending this section\] shall take effect on December 1, 1994, immediately after the amendments made by the Reserve Officer PersonnelManagement Act \[Pub. L. 103–337, see Tables for classification\].”
 
 #### Effective Date
 

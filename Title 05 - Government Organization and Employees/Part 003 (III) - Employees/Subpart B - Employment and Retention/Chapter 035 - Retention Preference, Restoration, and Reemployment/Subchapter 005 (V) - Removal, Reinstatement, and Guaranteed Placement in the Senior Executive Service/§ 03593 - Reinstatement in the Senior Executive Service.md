@@ -1,6 +1,6 @@
 ### §3593. Reinstatement in the Senior Executive Service
 
-(a) A former career appointee may be reinstated, without regard to section 3393(b) and (c)of this title, to any Senior Executive Service position for which the appointee is qualified if—
+(a) A former career appointee may be reinstated, without regard to section 3393(b) and (c) of this title, to any Senior Executive Service position for which the appointee is qualified if—
 
 &emsp;(1) the appointee has successfully completed the probationary period established under section 3393(d) of this title; and
 
@@ -24,11 +24,11 @@
 
 #### Amendments
 
-<b>1989</b>—Subsec. (a)(2). Pub. L. 101–194 struck out “or” after “malfeasance,” and inserted “, or failure to be recertified as a senior executive under section 3393a” before period at end.
+1989—Subsec. (a)(2). Pub. L. 101–194 struck out “or” after “malfeasance,” and inserted “, or failure to be recertified as a senior executive under section 3393a” before period at end.
 
-<b>1984</b>—Subsec. (c)(1)(B). Pub. L. 98–615 inserted “before October 1, 1984,”.
+1984—Subsec. (c)(1)(B). Pub. L. 98–615 inserted “before October 1, 1984,”.
 
-<b>1981</b>—Subsec. (c). Pub. L. 97–35 added subsec. (c).
+1981—Subsec. (c). Pub. L. 97–35 added subsec. (c).
 
 #### Effective Date of 1989 Amendment
 

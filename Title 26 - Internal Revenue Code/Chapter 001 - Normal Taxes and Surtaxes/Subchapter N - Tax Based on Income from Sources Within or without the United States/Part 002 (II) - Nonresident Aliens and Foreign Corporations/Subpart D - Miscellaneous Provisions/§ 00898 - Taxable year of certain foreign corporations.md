@@ -90,7 +90,7 @@ Section 7401(d) of Pub. L. 101–239 provided that:
 
 “(1)
 
-In general.—The amendments made by this section \[enacting this section and amending section 563 ofthis title\] shall apply to taxable years of foreign corporations beginning after July 10, 1989.
+In general.—The amendments made by this section \[enacting this section and amending section 563 of this title\] shall apply to taxable years of foreign corporations beginning after July 10, 1989.
 
 “(2)
 

@@ -1,12 +1,14 @@
 ### §42105. Airline Employees Protective Account
 
-The Department of Labor has an Airline Employees Protective Account consisting of amounts appropriated to it. An amount necessary to carry out this subchapter, includingadministrative expenses, may be appropriated to the Account annually.
+The Department of Labor has an Airline Employees Protective Account consisting of amounts appropriated to it. An amount necessary to carry out this subchapter, including administrative expenses, may be appropriated to the Account annually.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1160.)
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

@@ -54,7 +54,7 @@ By virtue of the authority vested in me by the International Investment and Trad
 
 Section 1. All the functions vested in the President by the International Investment and Trade in Services Survey Act (90 Stat. 2059, 22 U.S.C. 3101) \[this chapter\], hereinafter referred to as the Act, are hereby delegated to the Director of the Office of Management and Budget, hereinafter referred to as the Director. The Director may, from time to time, designate other officers or agencies of the Federal Government to perform any or all of the functions hereby delegated to the Director, subject to such instructions, limitations, and directions as the Director deems appropriate.
 
-Sec. 2. Subject to the provisions of section 1 of this order, and in the absence of any contrary delegation or direction by the Director, the Secretary of the Treasury, with respect to portfolio investment, shall perform the functions set forth in sections 4(a)(1), (2), (5) and 4(c) of the Act \[22 U.S.C. 3103(a)(1), (2), (5) and (c)\].
+Sec. 2. Subject to the provisions of section 1 of this order, and in the absence of any contrary delegation ordirection by the Director, the Secretary of the Treasury, with respect to portfolio investment, shall perform the functions set forth in sections 4(a)(1), (2), (5) and 4(c) of the Act \[22 U.S.C. 3103(a)(1), (2), (5) and (c)\].
 
 Sec. 3. Subject to the provisions of section 1 of this order, and in the absence of any contrary delegation or direction by the Director, the Secretary of Commerce, with respect to direct investment and trade in services, shall perform the functions set forth in sections 4(a)(1), (2), (4), (5) and 4(b) of the Act \[22 U.S.C. 3103(a)(1), (2), (4), (5) and (b)\].
 

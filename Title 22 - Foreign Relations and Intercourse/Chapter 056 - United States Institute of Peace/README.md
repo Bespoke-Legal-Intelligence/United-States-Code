@@ -22,10 +22,10 @@
 | (i) | Fees for periodicals and other materials. |
 | (j) | Participation fees and costs. |
 | (k) | Civil actions. |
-| (<i>l)</i> | Corporate mark of recognition and colorable simulations. |
+| (<i>l</i>) | Corporate mark of recognition and colorable simulations. |
 | (m) | General authority. |
 | (n) | Legislative influencing-activity prohibition; communications or testimony of personnel. |
-| (<i>o)</i> | Administrative services from General Services Administration. |
+| (<i>o</i>) | Administrative services from General Services Administration. |
 | [4605\.](%C2%A7%2004605%20-%20Board%20of%20Directors.md) | Board of Directors. |
 | (a) | Vested powers. |
 | (b) | Membership. |

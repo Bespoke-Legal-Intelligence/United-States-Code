@@ -20,7 +20,7 @@ Minor changes were made in translation and phraseology.
 
 1986—Pub. L. 99–646 inserted “, detention,” after “penal”.
 
-1984—Pub. L. 98–473 substituted provisions deleting prohibition on bringing dangerous instrumentalitiesinto prison and inserted provision setting forth a maximum $25,000 fine.
+1984—Pub. L. 98–473 substituted provisions deleting prohibition on bringing dangerous instrumentalities into prison and inserted provision setting forth a maximum $25,000 fine.
 
 #### Effective Date of 1986 Amendment
 

@@ -1,0 +1,24 @@
+### §2332. Sense of Congress concerning criminal penalties
+
+#### (a) Sense of Congress concerning inadequacy of sentencing guidelines
+
+It is the sense of Congress that the sentencing guidelines prescribed by the United States Sentencing Commission for the offenses of importation, attempted importation, exportation, and attempted exportation of nuclear, biological, and chemical weapons materials constitute inadequate punishment for such offenses.
+
+#### (b) Urging of revision to guidelines
+
+Congress urges the United States Sentencing Commission to revise the relevant sentencing guidelines to provide for increased penalties for offenses relating to importation, attempted importation, exportation, and attempted exportation of nuclear, biological, or chemical weapons or related materials or technologies under the following provisions of law:
+
+&emsp;(1) Section 2410 of the Appendix to this title.
+
+&emsp;(2) Sections 2778 and 2780 of title 22.
+
+&emsp;(3) The International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.).
+
+&emsp;(4) Section 2139a(c) of title 42.
+
+(Pub. L. 104–201, div. A, title XIV, §1423, Sept. 23, 1996, 110 Stat. 2725.)
+
+#### References in Text
+
+The International Emergency Economic Powers Act, referred to in subsec. (b)(3), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§1701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of this title and Tables.
+

@@ -16,6 +16,7 @@
 | (c) | Erosion or shoaling attributable to Federal navigation works. |
 | (d) | Non-Federal payments during construction. |
 | (e) | Agreement. |
+| (f) | Consideration of funding requirements and equitable apportionment. |
 | [2212\.](Subchapter%20001%20%28I%29%20-%20Cost%20Sharing/%C2%A7%2002212%20-%20Inland%20waterway%20transportation.md) | Inland waterway transportation. |
 | (a) | Construction. |
 | (b) | Operation and maintenance. |
@@ -32,7 +33,7 @@
 | (i) | Lands, easements, rights-of-way, dredged material disposal areas, and relocations. |
 | (j) | Agreement. |
 | (k) | Payment options. |
-| (<i>l)</i> | Delay of initial payment. |
+| (<i>l</i>) | Delay of initial payment. |
 | (m) | Ability to pay. |
 | [2214\.](Subchapter%20001%20%28I%29%20-%20Cost%20Sharing/%C2%A7%2002214%20-%20General%20credit%20for%20flood%20control.md) | General credit for flood control. |
 | (a) | Guidelines. |
@@ -157,6 +158,8 @@
 | (f) | National benefits from enhancement measures for Atchafalaya Floodway System and Mississippi Delta Region projects. |
 | (g) | Fish and Wildlife Coordination Act supplementation. |
 | [2284\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002284%20-%20Benefits%20and%20costs%20attributable%20to%20environmental%20measures.md) | Benefits and costs attributable to environmental measures. |
+| [2284a.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002284a%20-%20Benefits%20to%20navigation.md) | Benefits to navigation. |
+| [2284b.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002284b%20-%20Scenic%20and%20aesthetic%20considerations.md) | Scenic and aesthetic considerations. |
 | [2285\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002285%20-%20Environmental%20Protection%20and%20Mitigation%20Fund.md) | Environmental Protection and Mitigation Fund. |
 | [2286\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002286%20-%20Acceptance%20of%20certain%20funds%20for%20mitigation.md) | Acceptance of certain funds for mitigation. |
 | [2287\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002287%20-%20Continued%20planning%20and%20investigations.md) | Continued planning and investigations. |
@@ -212,18 +215,28 @@
 | [2309a.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002309a%20-%20Project%20modifications%20for%20improvement%20of%20environment.md) | Project modifications for improvement of environment. |
 | (a) | Determination of need. |
 | (b) | Authority to make modifications. |
-| (c) | Coordination of actions. |
-| (d) | Biennial report. |
-| (e) | Authorization of appropriations. |
+| (c) | Restoration of environmental quality. |
+| (d) | Non-Federal share; limitation on maximum Federal expenditure. |
+| (e) | Coordination of actions. |
+| (f) | Biennial report. |
+| (g) | Authorization of appropriations. |
+| (h) | Definition. |
 | [2310\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002310%20-%20Cost%20sharing%20for%20Territories.md) | Cost sharing for Territories. |
 | [2311\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002311%20-%20Report%20to%20Congress%20covering%20proposals%20for%20water%20impoundment%20facilities.md) | Report to Congress covering proposals for water impoundment facilities. |
 | [2312\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002312%20-%20Comments%20on%20certain%20changes%20in%20operations%20of%20reservoirs.md) | Comments on certain changes in operations of reservoirs. |
 | [2313\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002313%20-%20Collaborative%20research%20and%20development.md) | Collaborative research and development. |
 | (a) | In general. |
-| (b) | Administrative provisions. |
-| (c) | Applicability of other laws. |
-| (d) | Authorization of appropriations. |
-| (e) | Additional funding. |
+| (b) | Pre-agreement temporary protection of technology. |
+| (c) | Administrative provisions. |
+| (d) | Applicability of other laws. |
+| (e) | Authorization of appropriations. |
+| (f) | Funding from other Federal sources. |
+| [2313a.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002313a%20-%20Engineering%20and%20environmental%20innovations%20of%20national%20significance.md) | Engineering and environmental innovations of national significance. |
+| (a) | Surveys, plans, and studies. |
+| (b) | Funding. |
+| [2313b.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002313b%20-%20Support%20of%20Army%20civil%20works%20program.md) | Support of Army civil works program. |
+| (a) | General authority. |
+| (b) | Commercial application. |
 | [2314\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002314%20-%20Innovative%20technology.md) | Innovative technology. |
 | (a) | Use. |
 | (b) | Reports. |
@@ -250,8 +263,6 @@
 | (d) | Regulations. |
 | (e) | Applicability. |
 | [2319\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002319%20-%20Reservoir%20management.md) | Reservoir management. |
-| (a) | Technical advisory committee. |
-| (b) | Public participation. |
 | [2320\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002320%20-%20Protection%20of%20recreational%20and%20commercial%20uses.md) | Protection of recreational and commercial uses. |
 | (a) | General rule. |
 | (b) | Maintenance. |
@@ -259,10 +270,19 @@
 | (d) | Applicability. |
 | (e) | Cost sharing. |
 | [2321\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002321%20-%20Operation%20and%20maintenance%20of%20hydroelectric%20facilities.md) | Operation and maintenance of hydroelectric facilities. |
+| [2321a.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002321a%20-%20Hydroelectric%20power%20project%20uprating.md) | Hydroelectric power project uprating. |
+| (a) | In general. |
+| (b) | Consultation. |
+| (c) | Effect on other authority. |
 | [2322\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002322%20-%20Single%20entities.md) | Single entities. |
 | [2323\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002323%20-%20Technical%20assistance%20to%20private%20entities.md) | Technical assistance to private entities. |
 | (a) | Use of Corps research and development labs. |
 | (b) | Contract. |
+| [2323a.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002323a%20-%20Interagency%20and%20international%20support%20authority.md) | Interagency and international support authority. |
+| (a) | In general. |
+| (b) | Consultation. |
+| (c) | Use of Corps’ expertise. |
+| (d) | Funding. |
 | [2324\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002324%20-%20Reduced%20pricing%20for%20certain%20water%20supply%20storage.md) | Reduced pricing for certain water supply storage. |
 | (a) | Provision of storage space. |
 | (b) | Maximum amount of storage space. |
@@ -279,7 +299,20 @@
 | (b) | Secretarial findings. |
 | (c) | Cooperative agreement. |
 | (d) | Determination of construction costs. |
-| (e) | Authorization of appropriations. |
+| (e) | Selection of dredged material disposal method. |
+| (f) | Authorization of appropriations. |
+| [2326a.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002326a%20-%20Dredged%20material%20disposal%20facility%20partnerships.md) | Dredged material disposal facility partnerships. |
+| (a) | Additional capacity. |
+| (b) | Non-Federal use of disposal facilities. |
+| (c) | Public-private partnerships. |
+| [2326b.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002326b%20-%20Sediment%20management.md) | Sediment management. |
+| (a) | In general. |
+| (b) | Contents of strategies. |
+| (c) | Consultation. |
+| (d) | Dredged material disposal. |
+| (e) | Great Lakes tributary model. |
+| (f) | “Great Lakes States” defined. |
+| (g) | Authorization of appropriations. |
 | [2327\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002327%20-%20Definition%20of%20rehabilitation%20for%20inland%20waterway%20projects.md) | Definition of rehabilitation for inland waterway projects. |
 | [2328\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002328%20-%20Challenge%20cost-sharing%20program%20for%20management%20of%20recreation%20facilities.md) | Challenge cost-sharing program for management of recreation facilities. |
 | (a) | In general. |
@@ -289,6 +322,12 @@
 | (a) | In general. |
 | (b) | Cooperation. |
 | (c) | Funding. |
+| [2330\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002330%20-%20Aquatic%20ecosystem%20restoration.md) | Aquatic ecosystem restoration. |
+| (a) | General authority. |
+| (b) | Cost sharing. |
+| (c) | Agreements. |
+| (d) | Cost limitation. |
+| (e) | Funding. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

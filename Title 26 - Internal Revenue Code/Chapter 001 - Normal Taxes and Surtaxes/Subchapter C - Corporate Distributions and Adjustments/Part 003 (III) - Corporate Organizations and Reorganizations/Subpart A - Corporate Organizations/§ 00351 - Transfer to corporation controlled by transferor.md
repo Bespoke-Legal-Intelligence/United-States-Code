@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-No gain or loss shall be recognized if property is transferred to a corporation by one or more persons solely in exchange for stock in such corporation and immediately after the exchange such person or persons are in control (as defined in section 368(c)) of the corporation.
+No gain or loss shall be recognized if property is transferred to a corporation by one or morepersons solely in exchange for stock in such corporation and immediately after the exchange such person or persons are in control (as defined in section 368(c)) of the corporation.
 
 #### (b) Receipt of property
 

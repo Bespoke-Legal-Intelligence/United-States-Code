@@ -12,7 +12,7 @@ It is the policy of the United States that no sales should be made, and no credi
 
 #### (c) Report by President; contents
 
-The President shall promptly transmit reports to the Speaker of the House of Representatives and the chairman of the Committee on Foreign Relations of the Senate concerning any instancein which any United States person (as defined in section 7701(a)(30) of title 26) is prevented by a foreign government on the basis of race, religion, national origin, or sex, from participating in the performance of any sale or licensed transaction under this chapter. Such reports shall include (1) a description of the facts and circumstances of any such discrimination, (2) the response thereto on the part of the United States or any agency or employee thereof, and (3) the result of such response, if any.
+The President shall promptly transmit reports to the Speaker of the House of Representatives and the chairman of the Committee on Foreign Relations of the Senate concerning any instance in which any United States person (as defined in section 7701(a)(30) of title 26) is prevented by a foreign government on the basis of race, religion, national origin, or sex, from participating in the performance of any sale or licensed transaction under this chapter. Such reports shall include (1) a description of the facts and circumstances of any such discrimination, (2) the response thereto on the part of the United States or any agency or employee thereof, and (3) the result of such response, if any.
 
 #### (d) Congressional request for information from President; information required; 60 day period; failure to supply information; termination or restriction of sale
 
@@ -30,7 +30,7 @@ The President shall promptly transmit reports to the Speaker of the House of Rep
 
 &emsp;(D) such other information as such committee may request.
 
-(2) In the event a statement with respect to a sale or licensed transaction is requested pursuant to paragraph (1) of this subsection but is not transmitted in accordance therewith within 60 days after receipt of such request, such sale or licensed transaction shall be suspended unless and until such statement is transmitted.
+(2) In the event a statement with respect to a sale or licensed transaction is requested pursuant to paragraph (1) of this subsection but is nottransmitted in accordance therewith within 60 days after receipt of such request, such sale or licensed transaction shall be suspended unless and until such statement is transmitted.
 
 (3)(A) In the event a statement with respect to a sale or licensed transaction is transmitted under paragraph (1) of this subsection, the Congress may at any time thereafter adopt a joint resolution terminating or restricting such sale or licensed transaction.
 

@@ -54,7 +54,7 @@ In this chapter—
 
 > &emsp;and from which the results can be objectively replicated, within reasonable limits due to rounding error, through independent application of such statement, procedures, or algorithm, by different qualified individuals.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 1000; Pub. L. 98–169, §§1(1), 3(a), Nov. 29, 1983, 97 Stat. 1113;Pub. L. 99–547, §2(b)(2), Oct. 27, 1986, 100 Stat. 3060; Pub. L. 103–272, §4(f)(1)(S), July 5, 1994, 108 Stat. 1362.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 1000; Pub. L. 98–169, §§1(1), 3(a), Nov. 29, 1983, 97 Stat. 1113; Pub. L. 99–547, §2(b)(2), Oct. 27, 1986, 100 Stat. 3060; Pub. L. 103–272, §4(f)(1)(S), July 5, 1994, 108 Stat. 1362; Pub. L. 104–287, §6(a)(1), Oct. 11, 1996, 110 Stat. 3398.)
 
 Historical and Revision Notes
 
@@ -94,13 +94,19 @@ In clause (4)(A), the words “or benefits” are omitted as being included in �
 
 #### Amendments
 
-1994—Par. (4)(B). Pub. L. 103–272, which directed that subpar. (B) be amended by substituting “agency.” for “agency”, was executed by making the substitution for “agency” the second place it appears, to reflect the probable intent of Congress.
+1996—Par. (4)(B). Pub. L. 104–287 made technical amendment to directory language of Pub. L. 103–272. See 1994 Amendment note below.
+
+1994—Par. (4)(B). Pub. L. 103–272, as amended by Pub. L. 104–287, substituted “agency.” for “agency” at end.
 
 1986—Par. (4)(B). Pub. L. 99–547 substituted “assistance from an agency for an agency” for “a department, agency, or instrumentality of the Government.”
 
 1983—Pars. (5), (6). Pub. L. 98–169, §1(1), added pars. (5) and (6).
 
 Par. (7). Pub. L. 98–169, §3(a), added par. (7).
+
+#### Effective Date of 1996 Amendment
+
+Section 6(a) of Pub. L. 104–287 provided that the amendment made by that section is effective July 5, 1994.
 
 #### Uniform Suspension, Debarment or Exclusion From Procurement or Nonprocurement Activity
 

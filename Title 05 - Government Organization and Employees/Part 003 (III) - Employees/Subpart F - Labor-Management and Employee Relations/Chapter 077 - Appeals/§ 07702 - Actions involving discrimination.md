@@ -46,7 +46,7 @@
 
 &emsp;&emsp;(ii) the decision involving such provision is not supported by the evidence in the record as a whole.
 
-(4) In considering any decision of the Board under this subsection, the Commission may refer the case to the Board, or provide on its own, for the taking (within such period as permits the Commission to make a decision withinthe 60-day period prescribed under this subsection) of additional evidence to the extent it considers necessary to supplement the record.
+(4) In considering any decision of the Board under this subsection, the Commission may refer the case to the Board, or provide on its own, for the taking (within such period as permits the Commission to make a decision within the 60-day period prescribed under this subsection) of additional evidence to the extent it considers necessary to supplement the record.
 
 (5)(A) If the Commission concurs pursuant to paragraph (3)(A) of this subsection in the decision of the Board, the decision of the Board shall be a judicially reviewable action.
 
@@ -108,7 +108,7 @@
 
 (2) If, at any time after the 120th day following the filing of any matter described in subsection (a)(2) of this section with an agency, there is no judicially reviewable action, the employee may appeal the matter to the Board under subsection (a)(1) of this section.
 
-(3) Nothing in this section shall be construed to affect the right to trial de novo under any provision of law described in subsection (a)(1) of this section after a judicially reviewable action,including the decision of an agency under subsection (a)(2) of this section.
+(3) Nothing in this section shall be construed to affect the right to trial de novo under any provision of law described in subsection (a)(1) of this section after a judicially reviewable action, including the decision of an agency under subsection (a)(2) of this section.
 
 (f) In any case in which an employee is required to file any action, appeal, or petition under this section and the employee timely files the action, appeal, or petition with an agency other than the agency with which the action, appeal, or petition is to be filed, the employee shall be treated as having timely filed the action, appeal, or petition as of the date it is filed with the proper agency.
 
@@ -120,7 +120,7 @@ The civil service law, referred to in subsec. (c)(2), is set out in this title. 
 
 #### Amendments
 
-<b>1979</b>—Subsec. (a)(1)(A). Pub. L. 96–54, §2(a)(46)(A), substituted “affected” for “effected”.
+1979—Subsec. (a)(1)(A). Pub. L. 96–54, §2(a)(46)(A), substituted “affected” for “effected”.
 
 Subsec. (a)(1)(B)(i). Pub. L. 96–54, §2(a)(46)(B), substituted “2000e–16” for “2000e–16c”.
 
@@ -136,5 +136,5 @@ Section effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–4
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 7121, 7701, 7703 of this title; title 31 section 753.
+This section is referred to in sections 7121, 7701, 7703 of this title; title 3 section 454; title 31 section 753.
 

@@ -4,11 +4,11 @@ The President may award, and present in the name of Congress, a medal of honor o
 
 &emsp;(1) while engaged in an action against an enemy of the United States;
 
-&emsp;(2) while engaged in military operations involving conflict with an opposing foreign force;
+&emsp;(2) while engaged in military operations involving conflict with an opposing foreign force; or
 
 &emsp;(3) while serving with friendly foreign forces engaged in an armed conflict against an opposing armed force in which the United States is not a belligerent party.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 389; July 25, 1963, Pub. L. 88–77, §2(1), 77 Stat. 93.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 389; July 25, 1963, Pub. L. 88–77, §2(1), 77 Stat. 93; Feb. 10, 1996, Pub. L. 104–106, div. A, title XV, §1503(b)(2), 110 Stat. 512.)
 
 Historical and Revision Notes
 
@@ -30,7 +30,9 @@ In subsection (b) the words “of the medal of honor authorized on August 8, 194
 
 #### Amendments
 
-1963—Pub. L. 88–77 enlarged the authority to award the medal of honor, which was limited to those cases inwhich persons distinguished themselves in action involving actual conflict with an enemy, or in the line of his profession, and without detriment to the mission of his command or to the command to which attached, to permit its award for distinguished service while engaged in an action against an enemy of the United States, while engaged in military operations involving conflict with an opposing foreign force, or while serving with friendly foreign forces engaged in an armed conflict against an opposing armed force in which the United States is not a belligerent party, and substituted the requirement that it be of appropriate design, with ribbons and appurtenances, for the requirement that it be the same as that authorized on August 8, 1942.
+1996—Par. (2). Pub. L. 104–106 inserted “or” after “an opposing foreign force;”.
+
+1963—Pub. L. 88–77 enlarged the authority to award the medal of honor, which was limited to those cases in which persons distinguished themselves in action involving actual conflict with an enemy, or in the line of his profession, and without detriment to the mission of his command or to the command to which attached, to permit its award for distinguished service while engaged in an action against an enemy of the United States, while engaged in military operations involving conflict with an opposing foreign force, or while serving with friendly foreign forces engaged in an armed conflict against an opposing armed force in which the United States is not a belligerent party, and substituted the requirement that it be of appropriate design, with ribbons and appurtenances, for the requirement that it be the same as that authorized on August 8, 1942.
 
 #### Meritorious Service Medal
 

@@ -12,19 +12,23 @@ A probation officer shall—
 
 &emsp;(5) keep a record of his work, and make such reports to the Director of the Administrative Office of the United States Courts as the Director may require;
 
-&emsp;(6) upon request of the Attorney General or his designee, assist in the supervision of and furnish information about, a person within the custody of the Attorney General while on work release, furlough, or other authorized release from his regular place of confinement, or while in prerelease custody pursuant to the provisions of section 3624(c);
+&emsp;(6) upon request of the Attorney General or his designee, assist in the supervision of andfurnish information about, a person within the custody of the Attorney General while on work release, furlough, or other authorized release from his regular place of confinement, or while in prerelease custody pursuant to the provisions of section 3624(c);
 
 &emsp;(7) keep informed concerning the conduct, condition, and compliance with any condition of probation, including the payment of a fine or restitution of each probationer under his supervision and report thereon to the court placing such person on probation and report to the court any failure of a probationer under his supervision to pay a fine in default within thirty days after notification that it is in default so that the court may determine whether probation should be revoked;
 
 &emsp;(8)(A) when directed by the court, and to the degree required by the regimen of care or treatment ordered by the court as a condition of release, keep informed as to the conduct and provide supervision of a person conditionally released under the provisions of section 4243 or 4246 of this title, and report such person's conduct and condition to the court ordering release and to the Attorney General or his designee; and
 
-&emsp;(B) immediately report any violation of the conditions of release to the court and the Attorney General or his designee; and
+&emsp;(B) immediately report any violation of the conditions of release to the court and the Attorney General or his designee;
 
-&emsp;(9) perform any other duty that the court may designate.
+&emsp;(9) if approved by the district court, be authorized to carry firearms under such rules and regulations as the Director of the Administrative Office of the United States Courts may prescribe; and
 
-(Added Pub. L. 98–473, title II, §212(a)(2), Oct. 12, 1984, 98 Stat. 2002; amended Pub. L. 99–646, §15(a), Nov. 10, 1986, 100 Stat. 3595; Pub. L. 102–572, title VII, §701(a), Oct. 29, 1992, 106 Stat. 4514.)
+&emsp;(10) perform any other duty that the court may designate.
+
+(Added Pub. L. 98–473, title II, §212(a)(2), Oct. 12, 1984, 98 Stat. 2002; amended Pub. L. 99–646, §15(a), Nov. 10, 1986, 100 Stat. 3595; Pub. L. 102–572, title VII, §701(a), Oct. 29, 1992, 106 Stat. 4514; Pub. L. 104–317, title I, §101(a), Oct. 19, 1996, 110 Stat. 3848.)
 
 #### Amendments
+
+1996—Pars. (9), (10). Pub. L. 104–317 added par. (9) and redesignated former par. (9) as (10).
 
 1992—Pars. (8), (9). Pub. L. 102–572 added par. (8) and redesignated former par. (8) as (9).
 

@@ -30,7 +30,7 @@ For purposes of this chapter—
 
 &emsp;&emsp;(C) neither the incurring nor payment of which constitutes a violation of any law of the United States or of the State in which such expense is incurred or paid.
 
-> &emsp;An expense shall be considered as incurred by a candidate or an authorized committee if it is incurred by a person authorized by such candidate or such committee, as the case may be, to incur such expense on behalf of such candidate or such committee. If an authorized committee of the candidates of a political party for President and Vice President of the United States also incurs expenses to further the election of one or more other individuals to Federal, State, or local elective public office, expenses incurred by such committee which are not specifically to further the election of such other individual or individuals shall be considered as incurred to further the election of such candidates for President and Vice President in such proportion as the Commission prescribes by rules or regulations.
+> &emsp;An expense shall be considered as incurred by a candidate or an authorized committee if it is incurred by a person authorized by such candidate or such committee, as the case may be, to incur such expense on behalf of such candidate or such committee. If an authorized committee of the candidates of a politicalparty for President and Vice President of the United States also incurs expenses to further the election of one or more other individuals to Federal, State, or local elective public office, expenses incurred by such committee which are not specifically to further the election of such other individual or individuals shall be considered as incurred to further the election of such candidates for President and Vice President in such proportion as the Commission prescribes by rules or regulations.
 
 &emsp;(12) The term “expenditure report period” with respect to any presidential election means—
 
@@ -38,7 +38,7 @@ For purposes of this chapter—
 
 &emsp;&emsp;(B) in the case of a party which is not a major party, the same period as the expenditure report period of the major party which has the shortest expenditure report period for such presidential election under subparagraph (A).
 
-(Added Pub. L. 92–178, title VIII, §801, Dec. 10, 1971, 85 Stat. 563; amended Pub. L. 93–443, titleIV, §404(c)(1)–(3), Oct. 15, 1974, 88 Stat. 1292; Pub. L. 94–283, title I, §115(c)(1), title III, §306(a)(1), May 11, 1976, 90 Stat. 495, 499.)
+(Added Pub. L. 92–178, title VIII, §801, Dec. 10, 1971, 85 Stat. 563; amended Pub. L. 93–443, title IV, §404(c)(1)–(3), Oct. 15, 1974, 88 Stat. 1292; Pub. L. 94–283, title I, §115(c)(1), title III, §306(a)(1), May 11, 1976, 90 Stat. 495, 499.)
 
 #### References in Text
 

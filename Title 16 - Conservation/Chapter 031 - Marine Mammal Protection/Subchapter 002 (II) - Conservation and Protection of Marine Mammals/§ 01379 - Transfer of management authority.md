@@ -20,9 +20,9 @@ No State may enforce, or attempt to enforce, any State law or regulation relatin
 
 &emsp;&emsp;&emsp;(II) the maximum number of animals of that species that may be taken without reducing the species below its OSP, and
 
-&emsp;&emsp;(ii) the determination required under clause (i) is final and implemented underState law, and, if a cooperative allocation agreement for the species is required under subsection (d)(1) of this section, such as agreement is implemented;
+&emsp;&emsp;(ii) the determination required under clause (i) is final and implemented under State law, and, if a cooperative allocation agreement for the species is required under subsection (d)(1) of this section, such as agreement is implemented;
 
-&emsp;(D) does not permit the taking of a number of animals of the species that exceeds the maximum number determined pursuant to subparagraph (C)(i)(II), and, in the case of taking for subsistence uses (as defined in subsection (f)(2) of this section), does not permit the taking of a number of animals that would be inconsistent with the maintenance of the species at its OSP;
+&emsp;(D) does not permit the taking of a number of animals of the species that exceeds themaximum number determined pursuant to subparagraph (C)(i)(II), and, in the case of taking for subsistence uses (as defined in subsection (f)(2) of this section), does not permit the taking of a number of animals that would be inconsistent with the maintenance of the species at its OSP;
 
 &emsp;(E) does not permit the taking of the species for scientific research, public display, or enhancing the survival or recovery of a species or stock, except for taking for such purposes that is undertaken by, or on behalf of, the State;
 
@@ -114,9 +114,9 @@ The State process required under subsection (b)(1)(C) of this section must compl
 
 &emsp;&emsp;(ii) the regulation of such use, including, but not limited to, licensing of marine mammal hunting guides and the assignment of guiding areas, will, to the maximum extent practicable, provide economic opportunities for the residents of the rural coastal villages of Alaska who engage in subsistence uses of that species.
 
-(2) For purposes of paragraph (1), the term “subsistence uses” means the customary and traditional uses by rural Alaska residents of marine mammals for direct personal or family consumption as food, shelter, fuel, clothing, tools,or transportation; for the making and selling of handicraft articles out of nonedible byproducts of marine mammals taken for personal or family consumption; and for barter, or sharing for personal or family consumption. As used in this paragraph—
+(2) For purposes of paragraph (1), the term “subsistence uses” means the customary and traditional uses by rural Alaska residents of marine mammals for direct personal or family consumption as food, shelter, fuel, clothing, tools, or transportation; for the making and selling of handicraft articles out of nonedible byproducts of marine mammals taken for personal or family consumption; and for barter, or sharing for personal or family consumption. As used in this paragraph—
 
-&emsp;(A) The term “family” means all persons related by blood, marriage, or adoption, or any person living within a household on a permanent basis.
+&emsp;(A) The term “family” means all persons related by blood, marriage, or adoption, or anyperson living within a household on a permanent basis.
 
 &emsp;(B) The term “barter” means the exchange of marine mammals or their parts, taken for subsistence uses—
 

@@ -68,5 +68,5 @@ Subsec. (d). Pub. L. 100–456, §1234(b)(1), struck out “the Canal Zone,” a
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 709 of this title.
+This section is referred to in section 709 of this title; title 10 section 1370.
 

@@ -2,7 +2,7 @@
 
 #### (a) Composition
 
-From August 13, 1953, until the final session of the next following annual conference, the governing body of the corporation, which shall exercise the powers herein granted to the corporation, shall be the persons named in section 431 of this title and such additional persons as shall be named by them. Thereafter, the governing body of the corporation shall be a board of directors consisting of such number (not less than ten including ex officio members) as the bylaws may prescribe. The Board of Directors shall be selected from the officers or members of the member agencies or organizations participating in the conference.
+From August 13, 1953, until the final session of the next following annual conference, the governing body of the corporation, which shall exercise the powers herein granted to the corporation, shall be the persons named in section 431 of this title and such additional persons as shall benamed by them. Thereafter, the governing body of the corporation shall be a board of directors consisting of such number (not less than ten including ex officio members) as the bylaws may prescribe. The Board of Directors shall be selected from the officers or members of the member agencies or organizations participating in the conference.
 
 #### (b) Election
 

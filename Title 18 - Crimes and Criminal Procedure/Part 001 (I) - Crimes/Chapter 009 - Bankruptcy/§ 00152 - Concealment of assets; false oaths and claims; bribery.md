@@ -20,9 +20,9 @@ A person who—
 
 &emsp;(9) after the filing of a case under title 11, knowingly and fraudulently withholds from a custodian, trustee, marshal, or other officer of the court or a United States Trustee entitled to its possession, any recorded information (including books, documents, records, and papers) relating to the property or financial affairs of a debtor,
 
-> shall be fined not more than $5,000, imprisoned not more than 5 years, or both.
+> shall be fined under this title, imprisoned not more than 5 years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 689; June 12, 1960, Pub. L. 86–519, §2, 74 Stat. 217; Sept. 2, 1960, Pub. L. 86–701, 74 Stat. 753; Oct. 18, 1976, Pub. L. 94–550, §4, 90 Stat. 2535; Nov. 6, 1978, Pub. L. 95–598, title III, §314(a), (c), 92 Stat. 2676, 2677; Nov. 18, 1988, Pub. L. 100–690, title VII, §7017, 102 Stat. 4395; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(K), 108 Stat. 2147; Oct. 22, 1994, Pub. L. 103–394, title III, §312(a)(1)(A), 108 Stat. 4138.)
+(June 25, 1948, ch. 645, 62 Stat. 689; June 12, 1960, Pub. L. 86–519, §2, 74 Stat. 217; Sept. 2, 1960, Pub.L. 86–701, 74 Stat. 753; Oct. 18, 1976, Pub. L. 94–550, §4, 90 Stat. 2535; Nov. 6, 1978, Pub. L. 95–598, title III, §314(a), (c), 92 Stat. 2676, 2677; Nov. 18, 1988, Pub. L. 100–690, title VII, §7017, 102 Stat. 4395; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(K), 108 Stat. 2147; Oct. 22, 1994, Pub. L. 103–394, title III, §312(a)(1)(A), 108 Stat. 4138; Oct. 11, 1996, Pub. L. 104–294, title VI, §601(a)(1), 110 Stat. 3497.)
 
 #### Historical and Revision Notes
 
@@ -33,6 +33,8 @@ Section was broadened to apply to one who gives or offers a bribe.
 Minor changes were made in phraseology.
 
 #### Amendments
+
+1996—Pub. L. 104–294 substituted “fined under this title” for “fined not more than $5,000” in closing provisions.
 
 1994—Pub. L. 103–394 amended section generally, designating undesignated pars. as opening provisions, pars. (1) to (9), and closing provisions, and in pars. (1) and (9) inserting reference to United States Trustee.
 
@@ -50,7 +52,7 @@ Pub. L. 86–519 struck out “under oath” after “knowingly and fraudulently
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with respect to cases commencedunder Title 11, Bankruptcy, before Oct. 22, 1994, see section 702 of Pub. L. 103–394, set out as a note under section 101 of Title 11.
+Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with respect to cases commenced under Title 11, Bankruptcy, before Oct. 22, 1994, see section 702 of Pub. L. 103–394, set out as a note under section 101 of Title 11.
 
 #### Effective Date of 1978 Amendment
 

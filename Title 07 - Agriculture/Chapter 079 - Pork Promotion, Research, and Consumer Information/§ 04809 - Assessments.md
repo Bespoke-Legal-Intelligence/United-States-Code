@@ -10,7 +10,7 @@
 
 &emsp;(C) each importer for each porcine animal, pork, or pork product that is imported into the United States.
 
-(2) Such assessment shall be collected and remitted to the Board once it is appointed pursuant to section 4808 of this title, but, until that time, to the Secretary, who shall promptly proceed to distribute the funds received by him in accordance with the provisions of subsection (c) of this section, except that the Secretary shall retain the funds to be received by the Board until such time as the Board is appointed pursuant to section 4808 of this title, by—
+(2) Such assessment shall be collected and remitted to the Board once it is appointed pursuant to section 4808 of this title, but, until thattime, to the Secretary, who shall promptly proceed to distribute the funds received by him in accordance with the provisions of subsection (c) of this section, except that the Secretary shall retain the funds to be received by the Board until such time as the Board is appointed pursuant to section 4808 of this title, by—
 
 &emsp;(A) in the case of subparagraph (A) of paragraph (1), the purchaser of the porcine animal referred to in such subparagraph;
 

@@ -22,9 +22,9 @@
 
 &emsp;(B) in all cases not described in subparagraph (A) or paragraph (3), the date that is 12 months after the date on which the investigation is initiated.
 
-(3)(A) If an investigation is initiated under this subchapter by reason of section 2412(b)(2) of this title and the Trade Representative does not consider that a trade agreement, including the Agreement on Trade-Related Aspects of Intellectual Property <sup>1</sup> (referred to in section 3511(d)(15) of this title), is involved or does not make a determination described in subparagraph (B) with respect to such investigation, the Trade Representative shall make the determinations required under paragraph (1) with respect to such investigation by no later than the date that is 6 months after the date on which such investigation is initiated.
+(3)(A) If an investigation is initiated under this subchapter by reason of section 2412(b)(2) of this title and the Trade Representative does not consider that a trade agreement, including the Agreement on Trade-Related Aspects of Intellectual Property Rights (referred to in section 3511(d)(15) of this title), is involved or does not make a determination described in subparagraph (B) with respect to such investigation, the Trade Representative shall make the determinations required under paragraph (1) with respect to such investigation by no later than the datethat is 6 months after the date on which such investigation is initiated.
 
-(B) If the Trade Representative determines with respect to an investigation initiated by reason of section 2412(b)(2) of this title (otherthan an investigation involving a trade agreement) that—
+(B) If the Trade Representative determines with respect to an investigation initiated by reason of section 2412(b)(2) of this title (other than an investigation involving a trade agreement) that—
 
 &emsp;(i) complex or complicated issues are involved in the investigation that require additional time,
 
@@ -52,9 +52,11 @@
 
 The Trade Representative shall publish in the Federal Register any determination made under subsection (a)(1) of this section, together with a description of the facts on which such determination is based.
 
-(Pub. L. 93–618, title III, §304, as added Pub. L. 96–39, title IX, §901, July 26, 1979, 93 Stat. 297; amended Pub. L. 98–573, title III, §§304(d)(2)(C), 306(c)(2)(C)(ii), Oct. 30, 1984, 98 Stat. 3005, 3012; Pub. L. 100–418, title I, §1301(a), Aug. 23, 1988, 102 Stat. 1170; Pub. L. 103–465, title III, §314(d), Dec. 8, 1994, 108 Stat. 4940.)
+(Pub. L. 93–618, title III, §304, as added Pub. L. 96–39, title IX, §901, July 26, 1979, 93 Stat. 297; amended Pub. L. 98–573, title III, §§304(d)(2)(C), 306(c)(2)(C)(ii), Oct. 30, 1984, 98 Stat. 3005, 3012; Pub. L. 100–418, title I, §1301(a), Aug. 23, 1988, 102 Stat. 1170; Pub. L. 103–465, title III, §314(d), Dec. 8, 1994, 108 Stat. 4940; Pub. L. 104–295, §20(c)(6), Oct. 11, 1996, 110 Stat. 3528.)
 
 #### Amendments
+
+1996—Subsec. (a)(3)(A). Pub. L. 104–295 inserted “Rights” after “Intellectual Property”.
 
 1994—Subsec. (a)(2)(A). Pub. L. 103–465, §314(d)(1), struck out “(other than the agreement on subsidies and countervailing measures described in section 2503(c)(5) of this title)” after “trade agreement”.
 
@@ -81,6 +83,4 @@ Amendment by Pub. L. 100–418 applicable to petitions filed, and investigations
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 2411, 2413, 2415, 2416, 3106, 3571 of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should be “Property Rights”.</i>
 

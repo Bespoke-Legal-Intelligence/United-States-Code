@@ -30,7 +30,7 @@ In order to foster and promote useful part-time opportunities in community servi
 
 &emsp;(K) will be established or administered with the advice of persons competent in the field of service in which employment is being provided, and of persons who are knowledgeable with regard to the needs of older persons;
 
-&emsp;(L) will authorize pay for necessary transportation costs of eligible individuals whichmay be incurred in employment in any project funded under this subchapter, in accordance with regulations promulgated by the Secretary;
+&emsp;(L) will authorize pay for necessary transportation costs of eligible individuals which may be incurred in employment in any project funded under this subchapter, in accordance with regulations promulgated by the Secretary;
 
 &emsp;(M) will assure, that to the extent feasible, such project will serve the needs of minority, limited English-speaking, and Indian eligible individuals, and eligible individuals who have greatest economic need, at least in proportion to their numbers in the State and take into consideration their rates of poverty and unemployment;
 
@@ -80,7 +80,7 @@ In order to foster and promote useful part-time opportunities in community servi
 
 #### (d) Project and program distribution review; notice and opportunity for hearing
 
-(1) Whenever a national organization or other program sponsor conducts a project within a planning and service area in a State such organization or program sponsor shall conduct such project in consultation with the area agency on aging of the planning and service area and shall submit to the State agency and the area agency on aging a description of such project to be conducted in the State, including the location of the project, 30 days prior to undertaking the project, for review and comment according toguidelines the Secretary shall issue to assure efficient and effective coordination of programs under this subchapter.
+(1) Whenever a national organization or other program sponsor conducts a project within a planning and service area in a State such organization or program sponsor shall conduct such project in consultation with the area agency on aging of the planning and service area and shall submit to the State agency and the area agency on aging a description of such project to be conducted in the State, including the location of the project, 30 days prior to undertaking the project, for review and comment according to guidelines the Secretary shall issue to assure efficient and effective coordination of programs under this subchapter.
 
 (2) The Secretary shall review on his own initiative or at the request of any public or private nonprofit agency or organization, or an agency of the State government, the distribution of programs under this title within the State including the distribution between urban and rural areas within the State. For each proposed reallocation of programs within a State, the Secretary shall give notice and opportunity for a hearing on the record by all interested individuals and make a written determination of his findings and decision.
 

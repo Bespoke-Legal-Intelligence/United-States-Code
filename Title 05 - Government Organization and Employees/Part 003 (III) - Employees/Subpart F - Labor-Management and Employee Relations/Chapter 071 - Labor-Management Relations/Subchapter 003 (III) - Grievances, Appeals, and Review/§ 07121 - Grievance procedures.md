@@ -14,7 +14,7 @@
 
 &emsp;&emsp;(i) assure an exclusive representative the right, in its own behalf or on behalf of any employee in the unit represented by the exclusive representative, to present and process grievances;
 
-&emsp;&emsp;(ii) assure such an employee the right to present a grievance on the employee's ownbehalf, and assure the exclusive representative the right to be present during the grievance proceeding; and
+&emsp;&emsp;(ii) assure such an employee the right to present a grievance on the employee's own behalf, and assure the exclusive representative the right to be present during the grievance proceeding; and
 
 &emsp;&emsp;(iii) provide that any grievance not satisfactorily settled under the negotiated grievance procedure shall be subject to binding arbitration which may be invoked by either the exclusive representative or the agency.
 
@@ -38,7 +38,7 @@
 
 &emsp;(5) the classification of any position which does not result in the reduction in grade or pay of an employee.
 
-(d) An aggrieved employee affected by a prohibited personnel practice under section 2302(b)(1) of this title which also falls under the coverage of the negotiated grievance procedure may raise the matter under a statutory procedure or the negotiated procedure, but not both. An employee shall be deemed to have exercised his option under this subsection to raise the matter under either a statutory procedure or the negotiated procedure at such time as the employee timely initiates an action under the applicable statutory procedure or timely files a grievance in writing, in accordance with the provisions of the parties’ negotiated procedure, whichever event occurs first. Selection of the negotiated procedure in no manner prejudices the right of an aggrieved employee to request the Merit Systems Protection Board to review the final decision pursuant to section 7702 of this title in the case of any personnel action that could have been appealed to the Board, or, where applicable, to request the Equal Employment Opportunity Commission to review a final decision in any other matter involving a complaint of discrimination of the type prohibited by any law administered by the Equal Employment Opportunity Commission.
+(d) An aggrieved employee affected by a prohibited personnel practice under section2302(b)(1) of this title which also falls under the coverage of the negotiated grievance procedure may raise the matter under a statutory procedure or the negotiated procedure, but not both. An employee shall be deemed to have exercised his option under this subsection to raise the matter under either a statutory procedure or the negotiated procedure at such time as the employee timely initiates an action under the applicable statutory procedure or timely files a grievance in writing, in accordance with the provisions of the parties’ negotiated procedure, whichever event occurs first. Selection of the negotiated procedure in no manner prejudices the right of an aggrieved employee to request the Merit Systems Protection Board to review the final decision pursuant to section 7702 of this title in the case of any personnel action that could have been appealed to the Board, or, where applicable, to request the Equal Employment Opportunity Commission to review a final decision in any other matter involving a complaint of discrimination of the type prohibited by any law administered by the Equal Employment Opportunity Commission.
 
 (e)(1) Matters covered under sections 4303 and 7512 of this title which also fall within the coverage of the negotiated grievance procedure may, in the discretion of the aggrieved employee, be raised either under the appellate procedures of section 7701 of this title or under the negotiated grievance procedure, but not both. Similar matters which arise under other personnel systems applicable to employees covered by this chapter may, in the discretion of the aggrieved employee, be raised either under the appellate procedures, if any, applicable to those matters, or under the negotiated grievance procedure, but not both. An employee shall be deemed to have exercised his option under this subsection to raise a matter either under the applicable appellate procedures or under the negotiated grievance procedure at such time as the employee timely files a notice of appeal under the applicable appellate procedures or timely files a grievance in writing in accordance with the provisions of the parties’ negotiated grievance procedure, whichever event occurs first.
 
@@ -70,7 +70,7 @@
 
 #### Amendments
 
-<b>1994</b>—Subsec. (a)(1). Pub. L. 103–424, §9(c), substituted “(d), (e), and (g)” for “(d) and (e)” and inserted “administrative” after “exclusive”.
+1994—Subsec. (a)(1). Pub. L. 103–424, §9(c), substituted “(d), (e), and (g)” for “(d) and (e)” and inserted “administrative” after “exclusive”.
 
 Subsec. (b). Pub. L. 103–424, §9(a), designated existing provisions as par. (1) and redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, and subpars. (A) to (C) of former par. (3) as cls. (i) to (iii) of subpar. (a)(1)(C), respectively, and added par. (2).
 
@@ -82,5 +82,5 @@ Subsec. (b)(3)(C) of this section suspended with respect to any grievance involv
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 571, 7116, 7122 of this title; title 2 section 1351; title 22 section 3701.
+This section is referred to in sections 7116, 7122 of this title; title 2 section 1351; title 22 section 3701.
 

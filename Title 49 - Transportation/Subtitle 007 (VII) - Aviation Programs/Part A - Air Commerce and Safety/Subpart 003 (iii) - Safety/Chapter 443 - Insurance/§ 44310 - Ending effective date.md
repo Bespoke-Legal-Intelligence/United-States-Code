@@ -1,12 +1,14 @@
 ### §44310. Ending effective date
 
-The authority of the Secretary of Transportation to provide insurance and reinsurance under this chapter is not effective after September 30, 1997.
+The authority of the Secretary of Transportation to provide insurance and reinsuranceunder this chapter is not effective after September 30, 1997.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1173.)
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

@@ -174,7 +174,7 @@ Section 401(b) of Pub. L. 101–645 provided that: “The amendment made by subs
 
 #### Regulations
 
-Section 401(d) of Pub. L. 101–645 provided that: “No later than 90 days after the date of the enactment ofthis Act \[Nov. 29, 1990\], the Administrator of General Services, the Secretary of Health and Human Services, and the Secretary of Housing and Urban Development shall promulgate regulations implementing this section and the amendment made by this section \[amending this section and enacting provisions set out as notes under this section\].”
+Section 401(d) of Pub. L. 101–645 provided that: “No later than 90 days after the date of the enactment of this Act \[Nov. 29, 1990\], the Administrator of General Services, the Secretary of Health and Human Services, and the Secretary of Housing and Urban Development shall promulgate regulations implementing this section and the amendment made by this section \[amending this section and enacting provisions set out as notes under this section\].”
 
 #### Consultation and Report Regarding Use of National Guard Facilities as Overnight Shelters for Homeless Individuals
 
@@ -198,9 +198,9 @@ Report.—The Secretary of Housing and Urban Development shall submit to the Con
 
 #### Unutilized and Underutilized Property for Purposes of 1990 Amendment
 
-Section 401(c) of Pub. L. 101–645 provided that: “For purposes of section 501 of the Stewart B. McKinney Homeless Assistance Act (42 U.S.C. 11411) (as amended by this Act) the terms ‘unutilized’ and ‘underutilized’ when used to describe property have the same meaning such terms had before the date of the enactment of this Act \[Nov. 29, 1990\] under such section 501.”
+Section 401(c) of Pub. L. 101–645 provided that: “For purposes of section 501 of the Stewart B. McKinneyHomeless Assistance Act (42 U.S.C. 11411) (as amended by this Act) the terms ‘unutilized’ and ‘underutilized’ when used to describe property have the same meaning such terms had before the date of the enactment of this Act \[Nov. 29, 1990\] under such section 501.”
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 20 section 7713; title 38 section 8162.
+This section is referred to in title 10 section 2878; title 20 section 7713; title 38 section 8162.
 

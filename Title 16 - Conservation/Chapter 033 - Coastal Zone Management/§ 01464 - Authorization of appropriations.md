@@ -2,35 +2,43 @@
 
 #### (a) Sums appropriated to Secretary
 
-There are authorized to be appropriated to the Secretary—
+There are authorized to be appropriated to the Secretary, to remain available until expended—
 
-&emsp;(1) such sums, not to exceed $750,000 for each of the fiscal years occurring during the period beginning October 1, 1990, and ending September 30, 1993, as may be necessary for grants under section 1454 of this title, to remain available until expended;
+&emsp;(1) for grants under sections 1455, 1455a, and 1456b of this title—
 
-&emsp;(2) such sums, not to exceed $42,000,000 for the fiscal year ending September 30, 1991, $48,890,000 for the fiscal year ending September 30, 1992, $58,870,000 for the fiscal year ending September 30, 1993, $67,930,000 for the fiscal year ending September 30, 1994, and $90,090,000 for the fiscal year ending September 30, 1995, as may be necessary for grants under sections 1455, 1455a, and 1456b of this title, to remain available until expended;
+&emsp;&emsp;(A) $47,600,000 for fiscal year 1997;
 
-&emsp;(3) such sums, not to exceed $6,000,000 for the fiscal year ending September 30, 1991, $6,270,000 for the fiscal year ending September 30, 1992, $6,552,000 for the fiscal year ending September 30, 1993, $6,847,000 for the fiscal year ending September 30, 1994, and $7,155,000 for the fiscal year ending September 30, 1995, as may be necessary for grants under section 1461 of this title, to remain available until expended; and
+&emsp;&emsp;(B) $49,000,000 for fiscal year 1998; and
 
-&emsp;(4) such sums, not to exceed $10,000,000 for each of the fiscal years occurring during the period beginning October 1, 1990, and ending September 30, 1995, as may be necessary for activities under section 1456c of this title and for administrative expenses incident to the administration of this chapter; except that expenditures for such administrative expenses shall not exceed $5,000,000 in any such fiscal year.
+&emsp;&emsp;(C) $50,500,000 for fiscal year 1999; and
 
-#### (b) Sums appropriated to Fund
+&emsp;(2) for grants under section 1461 of this title—
 
-There are authorized to be appropriated until October 1, 1986, to the Fund, such sums, not to exceed $800,000,000, for the purposes of carrying out the provisions of section 1456a of this title, other than subsection (b), of which not to exceed $150,000,000 shall be for purposes of subsections (c)(1), (c)(2) and (c)(3) of such section.
+&emsp;&emsp;(A) $4,400,000 for fiscal year 1997;
 
-#### (c) Limitations
+&emsp;&emsp;(B) $4,500,000 for fiscal year 1998; and
+
+&emsp;&emsp;(C) $4,600,000 for fiscal year 1999.
+
+#### (b) Limitations
 
 Federal funds received from other sources shall not be used to pay a coastal state's share of costs under section 1455 or 1456b of this title.
 
-#### (d) Reversion to Secretary of unobligated State funds; availability of funds
+#### (c) Reversion to Secretary of unobligated State funds; availability of funds
 
 The amount of any grant, or portion of a grant, made to a State under any section of this chapter which is not obligated by such State during the fiscal year, or during the second fiscal year after the fiscal year, for which it was first authorized to be obligated by such State shall revert to the Secretary. The Secretary shall add such reverted amount to those funds available for grants under the section for such reverted amount was originally made available.
 
-(Pub. L. 89–454, title III, §318, formerly §315, as added Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1289; amended Pub. L. 93–612, §1(3), Jan. 2, 1975, 88 Stat. 1974; renumbered §318 and amended Pub. L. 94–370, §§7, 14, July 26, 1976, 90 Stat. 1019, 1031;Pub. L. 95–372, title V, §§502, 503(e), (f), Sept. 18, 1978, 92 Stat. 692, 693; Pub. L. 96–464, §13, Oct. 17, 1980, 94 Stat. 2070; Pub. L. 99–272, title VI, §6046, Apr. 7, 1986, 100 Stat. 127; Pub. L. 99–626, §7, Nov. 7, 1986, 100 Stat. 3506; Pub. L. 101–508, title VI, §6215, Nov. 5, 1990, 104 Stat. 1388–313.)
+(Pub. L. 89–454, title III, §318, formerly §315, as added Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1289; amended Pub. L. 93–612, §1(3), Jan. 2, 1975, 88 Stat. 1974; renumbered §318 and amended Pub. L. 94–370, §§7, 14, July 26, 1976, 90 Stat. 1019, 1031; Pub. L. 95–372, title V, §§502, 503(e), (f), Sept. 18, 1978, 92 Stat. 692, 693; Pub. L. 96–464, §13, Oct. 17, 1980, 94 Stat. 2070; Pub. L. 99–272, title VI, §6046, Apr. 7, 1986, 100 Stat. 127; Pub. L. 99–626, §7, Nov. 7, 1986, 100 Stat. 3506; Pub. L. 101–508, title VI, §6215, Nov. 5, 1990, 104 Stat. 1388–313; Pub. L. 104–150, §4, June 3, 1996, 110 Stat. 1381.)
 
 #### References in Text
 
-This chapter, referred to in subsec. (d), was in the original “this Act” which was translated as reading “this title”, meaning title III of Pub. L. 89–454 which is classified generally to this chapter, to reflect the probable intent of Congress.
+This chapter, referred to in subsec. (c), was in the original “this Act” which was translated as reading “this title”, meaning title III of Pub. L. 89–454 which is classified generally to this chapter, to reflect the probable intent of Congress.
 
 #### Amendments
+
+1996—Subsec. (a). Pub. L. 104–150, §4(1), amended subsec. (a) generally, substituting provisions of pars. (1)and (2) setting forth appropriations for grants under sections 1455, 1455a, 1456b, and 1461 for fiscal years 1997, 1998, and 1999 for provisions of pars. (1) to (4) setting forth appropriations for grants under sections 1454, 1455, 1455a, 1456b, and 1461 and activities under section 1456c for fiscal years during the period beginning Oct. 1, 1990, and ending Sept. 30, 1995.
+
+Subsecs. (b) to (d). Pub. L. 104–150, §4(2), (3), redesignated subsecs. (c) and (d) as (b) and (c), respectively, and struck out former subsec. (b) which read as follows: “There are authorized to be appropriated until October 1, 1986, to the Fund, such sums, not to exceed $800,000,000, for the purposes of carrying out the provisions of section 1456a of this title, other than subsection (b), of which not to exceed $150,000,000 shall be for purposes of subsections (c)(1), (c)(2) and (c)(3) of such section.”
 
 1990—Subsec. (a)(1) to (4). Pub. L. 101–508 substituted pars. (1) to (4) for former pars. (1) to (5) which read as follows:
 
@@ -80,7 +88,7 @@ Subsec. (a)(4) to (9). Pub. L. 95–372, §503(e), added par. (4) and redesignat
 
 Subsec. (b). Pub. L. 95–372, §503(f), substituted “subsections (b) and (c)(2)” for “subsection (b)” and “subsections (c)(1)” for “subsections (c)”.
 
-1976—Subsec. (a)(1). Pub. L. 94–370, §14, substituted provisions authorizing appropriations of sums not toexceed $20,000,000 for each of the fiscal years ending Sept. 30, 1977, Sept. 30, 1978, and Sept. 30, 1979 for provisions authorizing appropriations of the sum of $9,000,000 for the fiscal year ending June 30, 1973, and for each of the fiscal years 1974 through 1977.
+1976—Subsec. (a)(1). Pub. L. 94–370, §14, substituted provisions authorizing appropriations of sums not to exceed $20,000,000 for each of the fiscal years ending Sept. 30, 1977, Sept. 30, 1978, and Sept. 30, 1979 for provisions authorizing appropriations of the sum of $9,000,000 for the fiscal year ending June 30, 1973, and for each of the fiscal years 1974 through 1977.
 
 Subsec. (a)(2). Pub. L. 94–370, §14, substituted provisions authorizing appropriations of sums not to exceed $50,000,000 for each of the fiscal years ending Sept. 30, 1977, Sept. 30, 1978, Sept. 30, 1979, and Sept. 30, 1980 for provisions authorizing appropriations of sums not to exceed $30,000,000 for the fiscal year ending June 30, 1974, and for each of the fiscal years 1975 through 1977.
 

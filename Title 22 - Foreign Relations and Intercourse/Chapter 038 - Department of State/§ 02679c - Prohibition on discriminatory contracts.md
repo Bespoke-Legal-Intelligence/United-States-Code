@@ -42,7 +42,7 @@ Certification.—By submitting this offer, the Offeror certifies that it is not�
 
 &emsp;“(2) discriminating in the award of subcontracts on the basis of religion.”
 
-(2) An Offeror would not be required to include the certification required by paragraph (1), if the Offeror is deemed not to comply with the Arab League boycott of Israel by the Secretary of State or a designee on the basis of available information. Certification by the Secretary of State or a designee may occur only 30 days after notice has been given to the Congress that this certification procedure will be utilized at a specific overseas mission.
+(2) An Offeror would not be required to include the certification required by paragraph (1), ifthe Offeror is deemed not to comply with the Arab League boycott of Israel by the Secretary of State or a designee on the basis of available information. Certification by the Secretary of State or a designee may occur only 30 days after notice has been given to the Congress that this certification procedure will be utilized at a specific overseas mission.
 
 (3) The Secretary of State shall ensure that all State Department contract solicitations include a detailed explanation of the requirements of section 2407(a) of title 50, Appendix.
 

@@ -1,8 +1,8 @@
 ### §643. Accounting generally for public money
 
-Whoever, being an officer, employee or agent of the United States or of any department or agency thereof, having received public money which he is not authorized to retain as salary, pay, or emolument, fails to render his accounts for the same as provided by law is guilty of embezzlement, and shall be fined under this title or in a sum equal to the amount of the money embezzled, whichever is greater, or imprisoned not more than ten years, or both; but if the amount embezzled does not exceed $100, he shall be fined under this title or imprisoned not more than one year, or both.
+Whoever, being an officer, employee or agent of the United States or of any department or agency thereof, having received public money which he is not authorized to retain as salary, pay, or emolument, fails to render his accounts for the same as provided by law is guilty of embezzlement, and shall be fined under this title or in a sum equal to the amount of the money embezzled, whichever is greater, or imprisoned not more than ten years, or both; but if the amount embezzled does not exceed $1,000, he shall be fined under this title or imprisoned not more than one year, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 726; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(H), (2)(G), 108 Stat. 2147, 2148.)
+(June 25, 1948, ch. 645, 62 Stat. 726; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(H), (2)(G), 108 Stat. 2147, 2148; Oct. 11, 1996, Pub. L. 104–294, title VI, §606(a), 110 Stat. 3511.)
 
 #### Historical and Revision Notes
 
@@ -17,6 +17,8 @@ Mandatory punishment provisions phrased in alternative.
 The smaller punishment for an offense involving $100 or less was added. (See reviser's notes under sections 641 and 645 of this title.)
 
 #### Amendments
+
+1996—Pub. L. 104–294 substituted “$1,000” for “$100”.
 
 1994—Pub. L. 103–322, §330016(2)(G), substituted “and shall be fined under this title or in a sum equal to the amount of the money embezzled, whichever is greater, or imprisoned” for “and shall be fined in a sum equal to the amount of the money embezzled or imprisoned”.
 

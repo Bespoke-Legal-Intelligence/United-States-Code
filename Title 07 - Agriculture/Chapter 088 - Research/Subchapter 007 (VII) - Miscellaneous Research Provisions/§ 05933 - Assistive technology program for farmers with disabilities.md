@@ -38,7 +38,7 @@
 
 &emsp;&emsp;(A) not less than $3,000,000 for each of the fiscal years 1991 and 1992; and
 
-&emsp;&emsp;(B) not less than $5,000,000 for each of the fiscal years 1993 through 1996.
+&emsp;&emsp;(B) not less than $5,000,000 for each of the fiscal years 1993 through 1997.
 
 #### (b) National grant for technical assistance, training, and dissemination
 
@@ -48,7 +48,11 @@
 
 #### (2) Authorization of appropriations
 
-&emsp;There are authorized to be appropriated $1,000,000 to carry out this subsection for each of the fiscal years 1991 through 1996.
+&emsp;There are authorized to be appropriated $1,000,000 to carry out this subsection for each of the fiscal years 1991 through 1997.
 
-(Pub. L. 101–624, title XVI, §1680, Nov. 28, 1990, 104 Stat. 3781.)
+(Pub. L. 101–624, title XVI, §1680, Nov. 28, 1990, 104 Stat. 3781; Pub. L. 104–127, title VIII, §841, Apr. 4, 1996, 110 Stat. 1170.)
+
+#### Amendments
+
+1996—Subsecs. (a)(6)(B), (b)(2). Pub. L. 104–127 substituted “1997” for “1996”.
 

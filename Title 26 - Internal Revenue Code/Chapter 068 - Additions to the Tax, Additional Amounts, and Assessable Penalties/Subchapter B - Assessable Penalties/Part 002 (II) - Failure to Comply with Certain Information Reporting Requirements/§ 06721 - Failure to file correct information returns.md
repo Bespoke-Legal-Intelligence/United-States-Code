@@ -108,7 +108,7 @@ If 1 or more failures described in subsection (a)(2) are due to intentional disr
 
 1989—Pub. L. 101–239 substituted “correct” for “certain” in section catchline and amended text generally, substituting subsecs. (a) to (e) for former subsec. (a) stating general rule and subsec. (b) relating to penalty in case of intentional disregard.
 
-1988—Subsec. (b)(1)(A). Pub. L. 100–690 inserted “(or, if greater, in the case of a return filed under section 6050I, 10 percent of the taxable income derived from the transaction)” after “reported”.
+1988—Subsec. (b)(1)(A). Pub. L. 100–690 inserted “(or, if greater, in the case of a return filed under section 6050I,10 percent of the taxable income derived from the transaction)” after “reported”.
 
 #### Effective Date of 1990 Amendment
 
@@ -128,5 +128,5 @@ Section 1501(e) of Pub. L. 99–514 provided that: “The amendments made by thi
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1060, 6724 of this title.
+This section is referred to in sections 1060, 6047, 6724 of this title.
 

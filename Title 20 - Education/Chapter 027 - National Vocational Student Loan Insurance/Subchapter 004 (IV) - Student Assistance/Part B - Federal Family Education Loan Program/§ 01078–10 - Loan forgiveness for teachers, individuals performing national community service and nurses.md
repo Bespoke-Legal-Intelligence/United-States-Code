@@ -58,7 +58,7 @@ It is the purpose of this section to encourage individuals to—
 
 #### (5) Ineligibility of national service educational award recipients
 
-&emsp;No student borrower may, for the same volunteer service, receive a benefit under both this section and subtitle D of title I of the National and Community Service Act of 1990 \[42 U.S.C. 12601 et seq.\].
+&emsp;No student borrower may, for the same volunteer service, receive a benefit under boththis section and subtitle D of title I of the National and Community Service Act of 1990 \[42 U.S.C. 12601 et seq.\].
 
 #### (d) Repayment to eligible lenders
 
@@ -116,7 +116,7 @@ For the purpose of this section the term “eligible lender” has the same mean
 
 #### References in Text
 
-Section 1078–1 of this title, referred to in subsec. (b)(1), was repealed by Pub. L. 103–66, title IV,§4047(b)–(d), Aug. 10, 1993, 107 Stat. 364, eff. July 1, 1994, except with respect to loans provided under that section as it existed prior to Aug. 10, 1993.
+Section 1078–1 of this title, referred to in subsec. (b)(1), was repealed by Pub. L. 103–66, title IV, §4047(b)–(d), Aug. 10, 1993, 107 Stat. 364, eff. July 1, 1994, except with respect to loans provided under that section as it existed prior to Aug. 10, 1993.
 
 The Peace Corps Act, referred to in subsec. (b)(1)(B), is Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, as amended, which is classified principally to chapter 34 (§2501 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of Title 22 and Tables.
 
@@ -142,7 +142,7 @@ Subsec. (e). Pub. L. 103–208, §2(c)(51), amended subsec. (e) generally. Prior
 
 #### Effective Date of 1993 Amendments
 
-Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1003 of this title.
+Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L.102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1003 of this title.
 
 Amendment by Pub. L. 103–82 effective Oct. 1, 1993, see section 123 of Pub. L. 103–82, set out as a note under section 1701 of Title 16, Conservation.
 

@@ -23,3 +23,4 @@
 - [&sect; 01995 - Criminal contempt proceedings; penalties; trial by jury](%C2%A7%2001995%20-%20Criminal%20contempt%20proceedings%3B%20penalties%3B%20trial%20by%20jury.md)
 - [&sect; 01996 - Protection and preservation of traditional religions of Native Americans](%C2%A7%2001996%20-%20Protection%20and%20preservation%20of%20traditional%20religions%20of%20Native%20Americans.md)
 - [&sect; 01996a - Traditional Indian religious use of peyote](%C2%A7%2001996a%20-%20Traditional%20Indian%20religious%20use%20of%20peyote.md)
+- [&sect; 01996b - Interethnic adoption](%C2%A7%2001996b%20-%20Interethnic%20adoption.md)

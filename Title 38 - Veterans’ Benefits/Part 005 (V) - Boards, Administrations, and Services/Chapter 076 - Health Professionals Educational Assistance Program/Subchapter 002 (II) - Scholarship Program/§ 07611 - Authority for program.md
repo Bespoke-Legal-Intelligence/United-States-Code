@@ -10,3 +10,11 @@ As part of the Educational Assistance Program, the Secretary shall carry out a s
 
 Pub. L. 102–83 substituted “Secretary” for “Administrator” and “Department of Veterans Affairs” for “Veterans’ Administration”.
 
+#### Health Professional Scholarship Program
+
+Pub. L. 104–110, title II, §202(b), Feb. 13, 1996, 110 Stat. 770, provided that:
+
+“(1) The Secretary shall submit to Congress, not later than March 31, 1997, a report setting forth the results of a study evaluating the operation of the health professional scholarship program under subchapter II of chapter 76 of title 38, United States Code. The study shall evaluate the efficacy of the program with respect to recruitment and retention of health care personnel for the Department of Veterans Affairs and shall compare the costs and benefits of the program with the costs and benefits of alternative methods of ensuring adequate recruitment and retention of such personnel.
+
+“(2) The Secretary shall carry out the study under this paragraph through a private contractor. The report under paragraph (1) shall include the report of the contractor and the comments, if any, of the Secretary on that report.”
+

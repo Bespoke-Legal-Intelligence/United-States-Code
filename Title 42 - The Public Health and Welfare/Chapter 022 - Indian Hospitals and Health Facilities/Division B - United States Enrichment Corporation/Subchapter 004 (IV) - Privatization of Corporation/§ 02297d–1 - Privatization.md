@@ -18,7 +18,7 @@ The Corporation may not implement the privatization plan without the approval of
 
 #### (c) Notification of Congress and GAO evaluation
 
-The Corporation shall notify the Congress of its intent to implement the privatization plan. Within 30 days of notification, the Comptroller General shall submit a report to Congress evaluating the extent to which—
+The Corporation shall notify the Congress of its intent to implement the privatization plan.Within 30 days of notification, the Comptroller General shall submit a report to Congress evaluating the extent to which—
 
 &emsp;(1) the privatization plan would result in any ongoing obligation or undue cost to the Federal Government; and
 
@@ -33,6 +33,10 @@ The Corporation may not implement the privatization plan less than 60 days after
 Proceeds from the sale of capital stock of the Corporation under this section shall be deposited in the general fund of the Treasury.
 
 (Aug. 1, 1946, ch. 724, title II, §1502, as added Oct. 24, 1992, Pub. L. 102–486, title IX, §901, 106 Stat. 2938.)
+
+#### Repeal of Section
+
+<i>Section repealed effective as of date on which 100 percent of ownership of United States Enrichment Corporation has been transferred to private investors, see section 3116(a)(1) of Pub. L. 104–134, set out as a note under section 2297 of this title.</i>
 
 #### Section Referred to in Other Sections
 

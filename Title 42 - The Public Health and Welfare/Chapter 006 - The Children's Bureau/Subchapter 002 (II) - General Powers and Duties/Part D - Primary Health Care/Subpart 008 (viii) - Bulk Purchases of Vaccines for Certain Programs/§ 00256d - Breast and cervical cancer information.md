@@ -24,13 +24,13 @@ The entities specified in this subsection are the following:
 
 &emsp;(2) Entities receiving assistance under section 247c of this title (relating to sexually transmitted diseases).
 
-&emsp;(3) Migrant health centers receiving assistance under section 254b of this title.
+&emsp;(3) Migrant health centers receiving assistance under section 254b <sup>1</sup> of this title.
 
-&emsp;(4) Community health centers receiving assistance under section 254c of this title.
+&emsp;(4) Community health centers receiving assistance under section 254c <sup>1</sup> of this title.
 
-&emsp;(5) Entities receiving assistance under section 256 of this title (relating to homeless individuals).
+&emsp;(5) Entities receiving assistance under section 256 <sup>1</sup> of this title (relating to homeless individuals).
 
-&emsp;(6) Entities receiving assistance under section 256a of this title (relating to health services for residents of public housing).
+&emsp;(6) Entities receiving assistance under section 256a <sup>1</sup> of this title (relating to health services for residents of public housing).
 
 &emsp;(7) Entities providing services with assistance under subchapter III–A of this chapter or subchapter XVII of this chapter.
 
@@ -44,5 +44,13 @@ The entities specified in this subsection are the following:
 
 #### References in Text
 
+Sections 254b and 254c of this title, referred to in subsec. (c)(3), (4), were in the original references to sections 329 and 330, meaning sections 329 and 330 of act July 1, 1944, which were omitted in the general amendment of subpart I (§254b et seq.) of this part by Pub. L. 104–299, §2, Oct. 11, 1996, 110 Stat. 3626. Sections 2 and 3(a) of Pub. L. 104–299 enacted new sections 330 and 330A of act July 1, 1944, which are classified, respectively, to sections 254b and 254c of this title.
+
+Sections 256 and 256a of this title, referred to in subsec. (c)(5), (6), were repealed by Pub. L. 104–299, §4(a)(3), Oct. 11, 1996, 110 Stat. 3645.
+
 The Indian Self-Determination Act, referred to in subsec. (c)(10), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, as amended, which is classified principally to part A (§450f et seq.) of subchapter II of chapter 14 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 450 of Title 25 and Tables.
+
+#### Reference to Community, Migrant, Public Housing, or Homeless Health Center Considered Reference to Health Center
+
+Reference to community health center, migrant health center, public housing health center, or homeless health center, considered reference to health center, see section 4(c) of Pub. L. 104–299, set out as a note under section 254b of this title.
 

@@ -100,7 +100,7 @@ For purposes of this section—
 
 #### (4) Related persons
 
-&emsp;Persons shall be treated as related to each other if such persons would be treated as a single employer under the regulations prescribed under section 52(b). In the case of a corporation which is a member of an affiliated group of corporations filing a consolidated return, such corporation shall be treated as selling electricity to an unrelated person if such electricity is sold to such a person by another member of such group.
+&emsp;Persons shall be treated as related to each other if such persons would be treated as a single employer under the regulations prescribedunder section 52(b). In the case of a corporation which is a member of an affiliated group of corporations filing a consolidated return, such corporation shall be treated as selling electricity to an unrelated person if such electricity is sold to such a person by another member of such group.
 
 #### (5) Pass-thru in the case of estates and trusts
 

@@ -33,4 +33,4 @@
 - [&sect; 00786 - Repealed. Pub. L. 95&#8211;91, title VII, &sect;709(a)(1), Aug. 4, 1977, 91 Stat. 607](%C2%A7%2000786%20-%20Repealed.%20Pub.%20L.%2095%E2%80%9391%2C%20title%20VII%2C%20%C2%A7709%28a%29%281%29%2C%20Aug.%204%2C%201977%2C%2091%20Stat.%20607.md)
 - [&sect; 00787 - Project Independence Evaluation System documentation; access to model by Congress and public](%C2%A7%2000787%20-%20Project%20Independence%20Evaluation%20System%20documentation%3B%20access%20to%20model%20by%20Congress%20and%20public.md)
 - [&sect; 00788 - Use of commercial standards](%C2%A7%2000788%20-%20Use%20of%20commercial%20standards.md)
-- [&sect; 00789 - Organizational conflicts](%C2%A7%2000789%20-%20Organizational%20conflicts.md)
+- [&sect; 00789 - Repealed. Pub. L. 104&#8211;106, div. D, title XLIII, &sect;4304(b)(2), Feb. 10, 1996, 110 Stat. 664](%C2%A7%2000789%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93106%2C%20div.%20D%2C%20title%20XLIII%2C%20%C2%A74304%28b%29%282%29%2C%20Feb.%2010%2C%201996%2C%20110%20Stat.%20664.md)

@@ -106,7 +106,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) the portion of a distribution or payment which it is reasonable to believe is not includible in gross income, and
 
-&emsp;&emsp;&emsp;(iii) any amount which is subject to withholding under subchapter A of chapter 3 (relating to withholding of tax on nonresident aliens and foreign corporations) by the person paying such amount or which would be so subject but for a tax treaty, or
+&emsp;&emsp;&emsp;(iii) any amount which is subject to withholding under subchapter A of chapter3 (relating to withholding of tax on nonresident aliens and foreign corporations) by the person paying such amount or which would be so subject but for a tax treaty, or
 
 &emsp;&emsp;&emsp;(iv) any distribution described in section 404(k)(2).
 
@@ -180,7 +180,7 @@ For purposes of this section—
 
 &emsp;&emsp;(B) the Secretary notifies the payor before any payment or distribution that the TIN furnished by the payee is incorrect,
 
-> &emsp;no election under subsection (a)(2) or (b)(3) <sup>1</sup> shall be treated as in effect and subsection (a)(4) shall not apply to such payee.
+> &emsp;no election under subsection (a)(2) or (b)(2) shall be treated as in effect and subsection (a)(4) shall not apply to such payee.
 
 #### (13) Election may not be made with respect to certain payments outside the United States or its possessions
 
@@ -204,15 +204,15 @@ For purposes of this chapter (and so much of subtitle F as relates to this chapt
 
 &emsp;(2) in the case of any designated distribution not subject to withholding under this section by reason of an election under this section, the amount withheld shall be treated as zero.
 
-(Added Pub. L. 97–248, title III, §334(a), Sept. 3, 1982, 96 Stat. 623; amended Pub. L. 98–369, div. A, title V, §542(c), title VII, §§714(j)(1), (4), (5), 722(h)(4)(A), July 18, 1984, 98 Stat. 891, 962, 963, 976; Pub. L. 99–514, title XI, §1102(e)(1), title XII, §1234(b)(1), title XVIII, §1875(c)(10), Oct. 22, 1986, 100 Stat. 2416, 2566, 2895; Pub. L. 100–647, title I, §1012(bb)(2)(A)–(C), Nov. 10, 1988, 102 Stat. 3534; Pub. L. 102–318, title V, §§521(b)(36)–(40), 522(b)(1)–(2)(C), July 3, 1992, 106 Stat. 312–314.)
+(Added Pub. L. 97–248, title III, §334(a), Sept. 3, 1982, 96 Stat. 623; amended Pub. L. 98–369, div. A, title V, §542(c), title VII, §§714(j)(1), (4), (5), 722(h)(4)(A), July 18, 1984, 98 Stat. 891, 962, 963, 976; Pub. L. 99–514, title XI, §1102(e)(1), title XII, §1234(b)(1), title XVIII, §1875(c)(10), Oct. 22, 1986, 100 Stat. 2416, 2566, 2895; Pub. L. 100–647, title I, §1012(bb)(2)(A)–(C), Nov. 10, 1988, 102 Stat. 3534; Pub. L. 102–318, title V, §§521(b)(36)–(40), 522(b)(1)–(2)(C), July 3, 1992, 106 Stat. 312–314; Pub. L. 104–188, title I, §1704(t)(71), Aug. 20, 1996, 110 Stat. 1891.)
 
 #### References in Text
 
 Section 301(d) of the Tax Reduction Act of 1975, referred to in subsec. (d)(2)(B)(iii), is section 301(d) of Pub. L. 94–12, Mar. 29, 1975, 89 Stat. 26, relating to plan requirements for taxpayers electing additional credits, which was set out as a note under section 46 of this title and was repealed by Pub. L. 95–600, title I, §141(f)(1), Nov. 6, 1978, 92 Stat. 2795.
 
-Subsection (b)(3), referred to in subsec. (e)(12), was redesignated subsec. (b)(2) by Pub. L. 102–318, title V, §521(b)(37)(B), July 3, 1992, 106 Stat. 312.
-
 #### Amendments
+
+1996—Subsec. (e)(12). Pub. L. 104–188 substituted “(b)(2)” for “(b)(3)” in closing provisions.
 
 1992—Subsec. (a). Pub. L. 102–318, §521(b)(36), substituted “Periodic payments” for “Pensions, annuities, etc.” in heading.
 
@@ -323,6 +323,4 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 3402, 6047, 6652 of this title; title 5 section 8348.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

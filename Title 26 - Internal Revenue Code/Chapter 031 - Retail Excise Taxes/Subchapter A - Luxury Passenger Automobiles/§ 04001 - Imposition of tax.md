@@ -40,31 +40,95 @@ No tax shall be imposed by this section on the sale of any passenger vehicle—
 
 #### (1) In general
 
-&emsp;If, for any calendar year, the excess (if any) of—
+&emsp;The $30,000 amount in subsection (a) and section 4003(a) shall be increased by an amount equal to—
 
-&emsp;&emsp;(A) $30,000, increased by the cost-of-living adjustment for the calendar year, over
+&emsp;&emsp;(A) $30,000, multiplied by
 
-&emsp;&emsp;(B) the dollar amount in effect under subsection (a) for the calendar year,
+&emsp;&emsp;(B) the cost-of-living adjustment under section 1(f)(3) for the calendar year in which the vehicle is sold, determined by substituting “calendar year 1990” for “calendar year 1992” in subparagraph (B) thereof.
 
-> &emsp;is equal to or greater than $2,000, then the $30,000 amount in subsection (a) and section 4003(a) (as previously adjusted under this subsection) for any subsequent calendar year shall be increased by the amount of such excess rounded to the next lowest multiple of $2,000.
+#### (2) Rounding
 
-#### (2) Cost-of-living adjustment
+&emsp;If any amount as adjusted under paragraph (1) is not a multiple of $2,000, such amount shall be rounded to the next lowest multiple of $2,000.
 
-&emsp;For purposes of paragraph (1), the cost-of-living adjustment for any calendar year shall be the cost-of-living adjustment under section 1(f)(3) for such calendar year, determined by substituting “calendar year 1990” for “calendar year 1992” in subparagraph (B) thereof.
+#### (f) Phasedown
 
-#### (f) Termination
+For sales occurring in calendar years after 1995 and before 2003, subsection (a) shall be applied by substituting for “10 percent” the percentage determined in accordance with the following table:
 
-The tax imposed by this section shall not apply to any sale or use after December 31, 1999.
+<b>If the calendar year is:</b>
 
-(Added Pub. L. 101–508, title XI, §11221(a), Nov. 5, 1990, 104 Stat. 1388–439; amended Pub. L. 103–66, title XIII, §13161(a), Aug. 10, 1993, 107 Stat. 449.)
+<b>The percentage is:</b>
 
-#### Adjustment of Threshold Price for Purposes of Determining Excise Tax Under This Section for Tax Years Beginning in 1996
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<i>For adjustment of threshold price above which purchase of luxury passenger vehicle becomes subject to excise tax under this section for tax years beginning in 1996, see section 3.10 of Revenue Procedure 95–53, set out as a note under section 1 of this title.</i>
+&nbsp;1996
+
+&nbsp;9 percent&nbsp;&nbsp;&nbsp;&nbsp;
+
+&nbsp;1997
+
+&nbsp;8 percent&nbsp;&nbsp;&nbsp;&nbsp;
+
+&nbsp;1998
+
+&nbsp;7 percent&nbsp;&nbsp;&nbsp;&nbsp;
+
+&nbsp;1999
+
+&nbsp;6 percent&nbsp;&nbsp;&nbsp;&nbsp;
+
+&nbsp;2000
+
+&nbsp;5 percent&nbsp;&nbsp;&nbsp;&nbsp;
+
+&nbsp;2001
+
+&nbsp;4 percent&nbsp;&nbsp;&nbsp;&nbsp;
+
+&nbsp;2002
+
+&nbsp;3 percent  .
+
+#### (g) Termination
+
+The tax imposed by this section shall not apply to any sale or use after December 31, 2002.
+
+(Added Pub. L. 101–508, title XI, §11221(a), Nov. 5, 1990, 104 Stat. 1388–439; amended Pub. L. 103–66, title XIII, §13161(a), Aug. 10, 1993, 107 Stat. 449; Pub. L. 104–188, title I, §§1607(a), (b), 1703(c)(1), Aug. 20, 1996, 110 Stat. 1839, 1875.)
+
+#### Adjustment of Threshold Price for Purposes of Determining Excise Tax Under This Section for Tax Years Beginning in 1997
+
+<i>For adjustment of threshold price above which purchase of luxury passenger vehicle becomes subject to excise tax under this section for tax years beginning in 1997, see section 3.13 of Revenue Procedure 96–59, set out as a note under section 1 of this title.</i>
 
 #### Amendments
 
+1996—Subsec. (e). Pub. L. 104–188, §1703(c)(1), reenacted heading without change and amended text generally. Prior to amendment, text read as follows:
+
+“(1)
+
+In general.—If, for any calendar year, the excess (if any) of—
+
+&emsp;“(A) $30,000, increased by the cost-of-living adjustment for the calendar year, over
+
+&emsp;“(B) the dollar amount in effect under subsection (a) for the calendar year,
+
+> is equal to or greater than $2,000, then the $30,000 amount in subsection (a) and section 4003(a) (as previously adjusted under this subsection) for any subsequent calendar year shall be increased by the amount of such excess rounded to the next lowest multiple of $2,000.
+
+“(2)
+
+Cost-of-living adjustment.—For purposes of paragraph (1), the cost-of-living adjustment for any calendar year shall be the cost-of-living adjustment under section 1(f)(3) for such calendar year, determined by substituting ‘calendar year 1990’ for ‘calendar year 1992’ in subparagraph (B) thereof.”
+
+Subsec. (f). Pub. L. 104–188, §1607(b), added subsec. (f). Former subsec. (f) redesignated (g).
+
+Pub. L. 104–188, §1607(a), substituted “December 31, 2002” for “December 31, 1999”.
+
+Subsec. (g). Pub. L. 104–188, §1607(b), redesignated subsec. (f) as (g).
+
 1993—Pub. L. 103–66 amended section generally, substituting “Imposition of tax” for “Passenger vehicles” in section catchline and “this subchapter” for “subsection (a)” in subsec. (b)(1) and adding subsecs. (d) to (f).
+
+#### Effective Date of 1996 Amendment
+
+Section 1607(c) of Pub. L. 104–188 provided that: “The amendments made by this section \[amending this section\] shall apply with respect to sales occurring after the date which is 7 days after the date of the enactment of this Act \[Aug. 20, 1996\].”
+
+Section 1703(c)(2) of Pub. L. 104–188 provided that: “The amendment made by paragraph (1) \[amending thissection\] shall take effect on the date of the enactment of this Act \[Aug. 20, 1996\].”
 
 #### Effective Date of 1993 Amendment
 

@@ -6,7 +6,7 @@ Whoever forges or counterfeits the signature or initials of any person authorize
 
 Whoever falsely alters, in any material respect, any such money order or postal note; or
 
-Whoever, with intent to defraud, passes, utters or publishes or attempts to pass, utter or publish any such forged or altered money order orpostal note, knowing any material initials, signature, stamp impression or indorsement thereon to be false, forged, or counterfeited, or any material alteration therein to have been falsely made; or
+Whoever, with intent to defraud, passes, utters or publishes or attempts to pass, utter or publish any such forged or altered money order or postal note, knowing any material initials, signature, stamp impression or indorsement thereon to be false, forged, or counterfeited, or any material alteration therein to have been falsely made; or
 
 Whoever issues any money order or postal note without having previously received or paid the full amount of money payable therefor, with the purpose of fraudulently obtaining or receiving, or fraudulently enabling any other person, either directly or indirectly, to obtain or receive from the United States or Postal Service, or any officer, employee, or agent thereof, any sum of money whatever; or
 
@@ -40,7 +40,7 @@ Changes were made in phraseology.
 
 #### Amendments
 
-1994—Pub. L. 103–322, which directed the amendment of this section by substituting “fined under this title” for “fined not more than $10,000”, was executed by making the substitution for “fined not more than $5,000” in last par., to reflect the probable intent of Congress.
+1994—Pub. L. 103–322, which directed the amendment of this section by substituting “fined under this title” for “fined not more than $10,000”, was executed by making the substitution for “fined not more than$5,000” in last par., to reflect the probable intent of Congress.
 
 1972—Pub. L. 92–430 substituted “a blank money order or a money order issued by or under the direction of” for “a money order issued by” and struck out “, or by any officer or employee thereof” in first par.; substituted “or initials of any person authorized to issue money orders” for “of any officer or employee of the Postal Service,” in second par.; inserted “or attempts to pass, utter or publish” before “any such forged” and substituted “material initials, signature, stamp impression” for “material signature” in fourth par.; inserted “or Postal Service” after “the United States” in fifth par.; inserted sixth and seventh pars.; inserted “, the Postal Service” after “the United States”, and substituted “presents, or causes to be transmitted or presented, any money order” for “or presents to any officer or employee, or at any office of the United States, any money order” and designated material after “knowing the same” as cls. (1) to (3) with minor changes and added cl. (4) in eighth par.; inserted ninth par., and enacted provisions of former seventh par. as tenth par.
 

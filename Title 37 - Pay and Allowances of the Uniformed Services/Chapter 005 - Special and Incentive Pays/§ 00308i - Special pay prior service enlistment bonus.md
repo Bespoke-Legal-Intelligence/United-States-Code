@@ -34,11 +34,15 @@
 
 (h) This section shall be administered under regulations prescribed by the Secretary of Defense for the armed forces under his jurisdiction and by the Secretary of Transportation for the Coast Guard when the Coast Guard is not operating as a service in the Navy.
 
-(i) No bonus may be paid under this section to any person for an enlistment after September 30, 1996.
+(i) No bonus may be paid under this section to any person for an enlistment after September 30, 1998.
 
-(Added Pub. L. 99–145, title VI, §644(a)(1), Nov. 8, 1985, 99 Stat. 652; amended Pub. L. 100–26, §8(d)(4), Apr. 21, 1987, 101 Stat. 285; Pub. L. 100–180, div. A, title VI, §626(b), Dec. 4, 1987, 101 Stat. 1104; Pub. L. 101–189, div. A, title VI, §613, Nov. 29, 1989, 103 Stat. 1446; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–484, div. A, title VI, §612(d), title XI, §1136, Oct. 23, 1992, 106 Stat. 2421, 2541; Pub. L. 103–160, div. A, title VI, §612(e), Nov. 30, 1993, 107 Stat. 1680; Pub. L. 103–337, div. A, title VI, §611(e), Oct. 5, 1994, 108 Stat. 2783.)
+(Added Pub. L. 99–145, title VI, §644(a)(1), Nov. 8, 1985, 99 Stat. 652; amended Pub. L. 100–26, §8(d)(4), Apr. 21, 1987, 101 Stat. 285; Pub. L. 100–180, div. A, title VI, §626(b), Dec. 4, 1987, 101 Stat. 1104; Pub. L. 101–189, div. A, title VI, §613, Nov. 29, 1989, 103 Stat. 1446; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–484, div. A, title VI, §612(d), title XI, §1136, Oct. 23, 1992, 106 Stat. 2421, 2541; Pub. L. 103–160, div. A, title VI, §612(e), Nov. 30, 1993, 107 Stat. 1680; Pub. L. 103–337, div. A, title VI, §611(e), Oct. 5, 1994, 108 Stat. 2783; Pub. L. 104–106, div. A, title VI, §611(e), Feb. 10, 1996, 110 Stat. 359; Pub. L. 104–201, div. A, title VI, §611(g), Sept. 23, 1996, 110 Stat. 2543.)
 
 #### Amendments
+
+1996—Subsec. (i). Pub. L. 104–201 substituted “September 30, 1998” for “September 30, 1997”.
+
+Pub. L. 104–106 substituted “September 30, 1997” for “September 30, 1996”.
 
 1994—Subsec. (i). Pub. L. 103–337 substituted “September 30, 1996” for “September 30, 1995”.
 
@@ -67,8 +71,4 @@ Section 644(b) of Pub. L. 99–145 provided that: “The amendments made by subs
 #### Coverage of Period of Lapsed Authority
 
 For provisions relating to coverage of period of lapsed authority from Oct. 1, 1992, to Oct. 23, 1992, for payment of bonuses or other special pay under this section, see section 612(j)(2) of Pub. L. 102–484, set out as a note under section 301b of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 10 section 227.
 

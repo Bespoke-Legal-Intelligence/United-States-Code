@@ -8,7 +8,7 @@
 
 &emsp;(2) the Chaplains;
 
-> in general officers on the active-duty list of the Regular Army is 5/1,000 of the authorizedstrength of the branch concerned in commissioned officers on the active-duty list of the Regular Army. Not more than one-half of the authorized strength in general officers in such a branch may be in a regular grade above brigadier general.
+> in general officers on the active-duty list of the Regular Army is 5/1,000 of the authorized strength of the branch concerned in commissioned officers on the active-duty list of the Regular Army. Not more than one-half of the authorized strength in general officers in such a branch may be in a regular grade above brigadier general.
 
 (c) When the application of the percentages and ratios specified in this section results in a fraction, a fraction of one-half or more is counted as one, and a fraction of less than one-half is disregarded.
 
@@ -31,6 +31,10 @@ Act
 Aug. 7, 1947, ch. 512, §503(a), 61 Stat. 885.
 
 3210(b)
+
+&nbsp;
+
+&nbsp;
 
 3210(c)
 
@@ -96,7 +100,7 @@ In subsection (c)(2), the figures “3” and “2” result from the allocation
 
 In subsection (c)(3), the figure “1” results from the allocation of the original figure “1”. None was allocated to the Air Force.
 
-In subsection (c)(4), the figure “1” results from the allocation of the original figures “2” and “1”. (The major general was allocated to the Army, the brigadier general to the Air Force.)
+In subsection (c)(4), the figure “1” results from the allocation of the original figures “2” and “1”. (Themajor general was allocated to the Army, the brigadier general to the Air Force.)
 
 In subsection (c)(5), the figures “188” and “94” result from the allocation of the original figures “334” and “167”. The allocation of 188 corresponds to the allotment made by the Secretary of War between the Air Corps and the Army exclusive of the Air Corps, the Medical Department, and the Chaplains, under 10:506a(a) (3d proviso). That proviso is omitted as executed.
 

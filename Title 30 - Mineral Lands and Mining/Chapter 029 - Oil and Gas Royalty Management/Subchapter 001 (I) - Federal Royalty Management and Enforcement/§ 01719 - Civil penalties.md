@@ -6,7 +6,7 @@ Any person who—
 
 &emsp;(1) after due notice of violation or after such violation has been reported under subparagraph (A), fails or refuses to comply with any requirements of this chapter or any mineral leasing law, any rule or regulation thereunder, or the terms of any lease or permit issued thereunder; or
 
-&emsp;(2) fails to permit inspection authorized in section 1718 of this title or fails to notify the Secretary of any assignment under section 1712(a)(2) of this title
+&emsp;(2) fails to permit inspection authorized in section 1718 of this title or fails to notify the Secretary of any assignment under section 1712(a)(2) <sup>1</sup> of this title
 
 > shall be liable for a penalty of up to $500 per violation for each day such violation continues, dating from the date of such notice or report. A penalty under this subsection may not be applied to any person who is otherwise liable for a violation of paragraph (1) if:
 
@@ -48,7 +48,7 @@ No penalty under this section shall be assessed until the person charged with a 
 
 #### (f) Deduction of penalty from sums owed by United States
 
-The amount of any penalty under this section, as finally determined <sup>1</sup> may be deducted from any sums owing by the United States to the person charged.
+The amount of any penalty under this section, as finally determined <sup>2</sup> may be deducted fromany sums owing by the United States to the person charged.
 
 #### (g) Compromise or reduction of penalties
 
@@ -86,9 +86,13 @@ No person shall be liable for a civil penalty under subsection (a) or (b) of thi
 
 Mineral leasing laws, referred to in subsec. (a)(1), are defined in sections 351, 505, 530, and 541e of this title.
 
+Section 1712(a) of this title, referred to in subsec. (a)(2), was amended generally by Pub. L. 104–185, §6(g), Aug. 13, 1996, 110 Stat. 1715, and, as so amended, no longer contains a par. (2). See section 1712(a) of this title.
+
 #### Section Referred to in Other Sections
 
 This section is referred to in section 1720 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

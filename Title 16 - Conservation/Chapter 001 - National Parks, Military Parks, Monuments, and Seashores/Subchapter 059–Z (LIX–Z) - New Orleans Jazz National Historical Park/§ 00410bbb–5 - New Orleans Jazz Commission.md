@@ -46,7 +46,7 @@ The Commission shall—
 
 &emsp;(4) acquire or lease property for jazz education, and advise on hiring brass bands and musical groups to participate in education programs and help train young musicians;
 
-&emsp;(5) in consultation and cooperation with the Secretary, provide recommendations for the location of the visitor center and other interpretive sites;
+&emsp;(5) in consultation and cooperation with the Secretary, provide recommendations for thelocation of the visitor center and other interpretive sites;
 
 &emsp;(6) assist the Secretary in providing funds to support research on the origins and early history of jazz in New Orleans; and
 

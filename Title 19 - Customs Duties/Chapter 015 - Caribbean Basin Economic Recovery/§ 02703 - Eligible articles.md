@@ -40,7 +40,7 @@ The duty-free treatment provided under this chapter shall not apply to—
 
 &emsp;(1) textile and apparel articles which are subject to textile agreements;
 
-&emsp;(2) footwear not designated at the time of the effective date of this chapter \[Aug. 5, 1983\]as eligible articles for the purpose of the generalized system of preferences under title V of the Trade Act of 1974 \[19 U.S.C. 2461 et seq.\];
+&emsp;(2) footwear not designated at the time of the effective date of this chapter \[Aug. 5, 1983\] as eligible articles for the purpose of the generalized system of preferences under title V of the Trade Act of 1974 \[19 U.S.C. 2461 et seq.\];
 
 &emsp;(3) tuna, prepared or preserved in any manner, in airtight containers;
 
@@ -146,7 +146,7 @@ No proclamation issued pursuant to this chapter shall affect fees imposed pursua
 
 #### (h) Duty reduction for certain leather-related products
 
-(1) Subject to paragraph (2), the President shall proclaim reductions in the rates of duty on handbags, luggage, flat goods, work gloves, and leather wearing apparel that—
+(1) Subject to paragraph (2), the President shall proclaim reductions in the rates of duty onhandbags, luggage, flat goods, work gloves, and leather wearing apparel that—
 
 &emsp;(A) are the product of any beneficiary country; and
 
@@ -158,7 +158,7 @@ No proclamation issued pursuant to this chapter shall affect fees imposed pursua
 
 &emsp;(B) be implemented in 5 equal annual stages with the first one-fifth of the aggregate reduction in the rate of duty being applied to entries, or withdrawals from warehouse for consumption, of the article on or after January 1, 1992.
 
-(3) The reduction required under this subsection with respect to the rate of duty on anyarticle is in addition to any reduction in the rate of duty on that article that may be proclaimed by the President as being required or appropriate to carry out any trade agreement entered into under the Uruguay Round of trade negotiations; except that if the reduction so proclaimed—
+(3) The reduction required under this subsection with respect to the rate of duty on any article is in addition to any reduction in the rate of duty on that article that may be proclaimed by the President as being required or appropriate to carry out any trade agreement entered into under the Uruguay Round of trade negotiations; except that if the reduction so proclaimed—
 
 &emsp;(A) is less than 1.5 percent ad valorem, the aggregate of such proclaimed reduction and the reduction under this subsection may not exceed 3.5 percent ad valorem, or
 
@@ -218,7 +218,7 @@ Subsec. (f)(5)(A). Pub. L. 100–418, §1214(q)(2)(D)(i), amended subpar. (A) ge
 
 Subsec. (f)(5)(B). Pub. L. 100–418, §1214(q)(2)(D)(ii), substituted “headings 0701 through 0709 (except subheading 0709.52.00) and heading 0714 of the HTS” for “items 135.10 through 138.46 of the TSUS”.
 
-Subsec. (f)(5)(C). Pub. L. 100–418, §1214(q)(2)(D)(iv), as amended by Pub. L. 100–647, §9001(a)(14), redesignated subpar. (D) as (C) and substituted “subheadings 0804.20 through 0810.90 (except citrons of subheading 0805.90.00, tamarinds and kiwi fruit of subheading 0810.90.20, and cashew apples, mameyes colorados, sapodillas, soursops and sweetsops of subheading 0810.90.40) of the HTS; and” for “items 146.10, 146.20, 146.30, 146.50 through 146.62, 146.90, 146.91, 147.03 through 147.33, 147.50 through 149.21 and 149.50 of the TSUS;”.
+Subsec. (f)(5)(C). Pub. L. 100–418, §1214(q)(2)(D)(iv), as amended by Pub. L. 100–647, §9001(a)(14), redesignated subpar. (D) as (C) and substituted “subheadings 0804.20 through 0810.90 (except citrons of subheading 0805.90.00,tamarinds and kiwi fruit of subheading 0810.90.20, and cashew apples, mameyes colorados, sapodillas, soursops and sweetsops of subheading 0810.90.40) of the HTS; and” for “items 146.10, 146.20, 146.30, 146.50 through 146.62, 146.90, 146.91, 147.03 through 147.33, 147.50 through 149.21 and 149.50 of the TSUS;”.
 
 Pub. L. 100–418, §1214(q)(2)(D)(iii), struck out subpar. (C) “fresh mushrooms provided for in item 144.10 of the TSUS;”.
 
@@ -406,7 +406,7 @@ Section 214(c) of Pub. L. 98–67, as amended by Pub. L. 99–514, §2, Oct. 22,
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 7 section 1444–2; title 26 section 7652.
+This section is referred to in title 7 section 7236; title 26 section 7652.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

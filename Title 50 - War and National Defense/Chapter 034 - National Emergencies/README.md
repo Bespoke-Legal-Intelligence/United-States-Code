@@ -25,7 +25,7 @@
 
 |  |  |
 | :--- | ---: |
-| [1631\.](Subchapter%20002%20%28II%29%20-%20Declarations%20of%20Future%20National%20Emergencies/%C2%A7%2001631%20-%20Declaration%20of%20national%20emergency%20by%20Executive%20order%3B%20authority%3B%20publication%20in%20Federal%20Register%3B%20transmittal%20to%20Congress.md) | Declaration of national emergency by Executive order; authority; publication in Federal Register; transmittal to Congress. |
+| [1631\.](Subchapter%20003%20%28III%29%20-%20Exercise%20of%20Emergency%20Powers%20and%20Authorities/%C2%A7%2001631%20-%20Declaration%20of%20national%20emergency%20by%20Executive%20order%3B%20authority%3B%20publication%20in%20Federal%20Register%3B%20transmittal%20to%20Congress.md) | Declaration of national emergency by Executive order; authority; publication in Federal Register; transmittal to Congress. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -44,7 +44,7 @@
 
 |  |  |
 | :--- | ---: |
-| [1651\.](Subchapter%20004%20%28IV%29%20-%20Accountability%20and%20Reporting%20Requirements%20of%20President/%C2%A7%2001651%20-%20Other%20laws%2C%20powers%20and%20authorities%20conferred%20thereby%2C%20and%20actions%20taken%20thereunder%3B%20Congressional%20studies.md) | Other laws, powers and authorities conferred thereby, and actions taken thereunder; Congressional studies. |
+| [1651\.](Subchapter%20005%20%28V%29%20-%20Application%20to%20Powers%20and%20Authorities%20of%20Other%20Provisions%20of%20Law%20and%20Actions%20Taken%20Thereunder/%C2%A7%2001651%20-%20Other%20laws%2C%20powers%20and%20authorities%20conferred%20thereby%2C%20and%20actions%20taken%20thereunder%3B%20Congressional%20studies.md) | Other laws, powers and authorities conferred thereby, and actions taken thereunder; Congressional studies. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -59,4 +59,6 @@ This chapter is referred to in section 1706 of this title; title 10 section 2808
 
 - [Subchapter 001 (I) - Terminating Existing Declared Emergencies](Subchapter%20001%20%28I%29%20-%20Terminating%20Existing%20Declared%20Emergencies/README.md)
 - [Subchapter 002 (II) - Declarations of Future National Emergencies](Subchapter%20002%20%28II%29%20-%20Declarations%20of%20Future%20National%20Emergencies/README.md)
+- [Subchapter 003 (III) - Exercise of Emergency Powers and Authorities](Subchapter%20003%20%28III%29%20-%20Exercise%20of%20Emergency%20Powers%20and%20Authorities/README.md)
 - [Subchapter 004 (IV) - Accountability and Reporting Requirements of President](Subchapter%20004%20%28IV%29%20-%20Accountability%20and%20Reporting%20Requirements%20of%20President/README.md)
+- [Subchapter 005 (V) - Application to Powers and Authorities of Other Provisions of Law and Actions Taken Thereunder](Subchapter%20005%20%28V%29%20-%20Application%20to%20Powers%20and%20Authorities%20of%20Other%20Provisions%20of%20Law%20and%20Actions%20Taken%20Thereunder/README.md)

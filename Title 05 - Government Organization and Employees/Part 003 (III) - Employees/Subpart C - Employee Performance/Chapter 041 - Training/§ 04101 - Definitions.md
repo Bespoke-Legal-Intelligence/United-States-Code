@@ -50,7 +50,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 5 U.S.C. 2302.
 
@@ -62,7 +64,7 @@ In paragraph (2)(B), the words “in the Department of Commerce” are omitted a
 
 In paragraph (6)(C), the word “agency” is omitted as unnecessary and to avoid confusion with the word “agency” defined by paragraph (1).
 
-In paragraph (6)(E), the words “individuals other than civilian or military personnel of the Government”are substituted for “an individual not a civilian or military officer or employee of the Government of the United States or of the municipal government of the District of Columbia” to conform to paragraph (5).
+In paragraph (6)(E), the words “individuals other than civilian or military personnel of the Government” are substituted for “an individual not a civilian or military officer or employee of the Government of the United States or of the municipal government of the District of Columbia” to conform to paragraph (5).
 
 The definition of “Commission” in former section 2302(4) is omitted as unnecessary as the title “Civil Service Commission” is fully set out the first time it is used in each section of this chapter.
 
@@ -70,11 +72,11 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-<b>1994</b>—Par. (4). Pub. L. 103–226 substituted “fields which will improve individual and organizational performance and assist in achieving the agency's mission and performance goals;” for “fields which are or will be directly related to the performance by the employee of official duties for the Government, in order to increase the knowledge, proficiency, ability, skill, and qualifications of the employee in the performance of official duties;”.
+1994—Par. (4). Pub. L. 103–226 substituted “fields which will improve individual and organizational performance and assist in achieving the agency's mission and performance goals;” for “fields which are or will be directly related to the performance by the employee of official duties for the Government, in order to increase the knowledge, proficiency, ability, skill, and qualifications of the employee in the performance of official duties;”.
 
-<b>1982</b>—Par. (1)(C). Pub. L. 97–258 substituted “chapter 91” for “sections 846–852 or 856–859”.
+1982—Par. (1)(C). Pub. L. 97–258 substituted “chapter 91” for “sections 846–852 or 856–859”.
 
-<b>1967</b>—Par. (2)(B). Pub. L. 90–206 substituted “Environmental Science Services Administration” for “Coast and Geodetic Survey”.
+1967—Par. (2)(B). Pub. L. 90–206 substituted “Environmental Science Services Administration” for “Coast and Geodetic Survey”.
 
 #### Effective Date of 1967 Amendment
 

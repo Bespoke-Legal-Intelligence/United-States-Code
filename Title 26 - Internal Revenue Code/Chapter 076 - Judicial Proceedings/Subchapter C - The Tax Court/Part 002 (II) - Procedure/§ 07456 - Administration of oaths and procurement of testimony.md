@@ -44,7 +44,7 @@ Subsec. (d). Pub. L. 98–369, §464(c), substituted “Special trial judges” 
 
 Pub. L. 98–369, §463(a), in amending subsec. (d) generally, struck out “and” at end of par. (2), substituted “any proceeding” for “any other proceeding” and “$10,000; and” for “$5,000,” in par. (3), added par. (4), and substituted “any proceeding described in paragraph (1), (2), or (3), subject to such conditions and review as the court may provide” for “any such proceeding, subject to such conditions and review as the court may by rule provide” in provisions following par. (4).
 
-1982—Subsec. (c). Pub. L. 97–362, §106(c)(2), struck out provision that the chief judge may assign proceedings under sections 6226, 6228(a), 7428, 7463, 7476, 7477, and 7478 to be heard by the commissioners of the court, and that the court may authorize a commissioner to make the decision of the court with respect to such proceedings, subject to such conditions and review as the court may by rule provide. See subsec. (d) of this section.
+1982—Subsec. (c). Pub. L. 97–362, §106(c)(2), struck out provision that the chief judge may assign proceedings under sections 6226, 6228(a), 7428, 7463, 7476, 7477, and 7478 to be heard by the commissioners of the court, and that the court may authorize a commissioner to make the decision of the court with respect to such proceedings,subject to such conditions and review as the court may by rule provide. See subsec. (d) of this section.
 
 Pub. L. 97–248 inserted “6226, 6228(a),” after “proceedings under sections”.
 

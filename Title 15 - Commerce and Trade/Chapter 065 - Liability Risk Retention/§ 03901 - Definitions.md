@@ -46,7 +46,7 @@
 
 &emsp;&emsp;&emsp;(i) liability insurance for assuming and spreading all or any portion of the similar or related liability exposure of its group members; and
 
-&emsp;&emsp;&emsp;(ii) reinsurance with respect to the similar or related liability exposure of any other risk retention group (or any member of such other group) which is engaged in businesses or activities so that such group\(or member) meets the requirement described in subparagraph (F) for membership in the risk retention group which provides such reinsurance; and
+&emsp;&emsp;&emsp;(ii) reinsurance with respect to the similar or related liability exposure of any other risk retention group (or any member of such other group) which is engaged in businesses or activities so that such group (or member) meets the requirement described in subparagraph (F) for membership in the risk retention group which provides such reinsurance; and
 
 &emsp;&emsp;(H) the name of which includes the phrase “Risk Retention Group”.<sup>1</sup>
 

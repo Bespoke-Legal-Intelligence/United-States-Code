@@ -22,7 +22,7 @@
 
 (ii) Of the members of class 1, two shall be appointed by the President, two by the President pro tempore of the Senate upon the recommendation of the Majority Leader and the Minority Leader, and one by the Speaker of the House of Representatives upon the recommendation of the Majority Leader and the Minority Leader.
 
-(iii) Of the members of class 2, two shall be appointed by the President, one by the President pro tempore of the Senate upon the recommendation of the Majority Leader and the Minority Leader, and two by the Speaker of theHouse of Representatives upon the recommendation of the Majority Leader and the Minority Leader.
+(iii) Of the members of class 2, two shall be appointed by the President, one by the President pro tempore of the Senate upon the recommendation of the Majority Leader and the Minority Leader, and two by the Speaker of the House of Representatives upon the recommendation of the Majority Leader and the Minority Leader.
 
 (iv) Of the members of class 3, one shall be appointed by the President, two by the President pro tempore of the Senate upon the recommendation of the Majority Leader and the Minority Leader, and two by the Speaker of the House of Representatives upon the recommendation of the Majority Leader and the Minority Leader.
 
@@ -124,7 +124,7 @@ Subsec. (b)(2). Pub. L. 98–459, §204(c)(1), substituted “such member's pred
 
 Subsec. (c). Pub. L. 98–459, §204(c)(2), substituted “Chairperson” for “Chairman” in two places.
 
-Subsec. (d)(2). Pub. L. 98–459, §204(c)(3), redesignated par. (3) as (2) and struck out former par. (2) which had required the Council to assist the Commissioner in making an appraisal of needs pursuant to the functions carried out by the Commissioner under section 3031 of this title.
+Subsec. (d)(2). Pub. L. 98–459, §204(c)(3), redesignated par. (3) as (2) and struck out former par. (2) which hadrequired the Council to assist the Commissioner in making an appraisal of needs pursuant to the functions carried out by the Commissioner under section 3031 of this title.
 
 Subsec. (d)(3) to (6). Pub. L. 98–459, §204(c)(3), redesignated pars. (4) to (6) as (3) to (5), respectively.
 
@@ -152,7 +152,7 @@ Subsec. (g). Pub. L. 95–478, §102(e)(4)(A), added subsec. (g) and struck out 
 
 Subsec. (h). Pub. L. 95–478, §102(e)(4)(B), added subsec. (h) and struck out former subsec. (h) which provided that the Council undertake a study of the combined impact of all taxes on the elderly and upon completion of the study, but no later than Jan. 1, 1976, the President submit to Congress, and to the Governor and legislatures of the States, the result of this study and any recommendations he deemed necessary.
 
-Subsec. (i). Pub. L. 95–478, §102(e)(4)(B), struck out subsec. (i) which provided that the Council undertake a study or studies concerning the effects of the formulae specified in section 3023 of this title for allotmentamong the States of sums appropriated for area planning and social service programs authorized under subchapter III of this chapter and upon completion of this study, but no later than Jan. 1, 1975, to report the results, together with recommendations for change in the formulae, to the Commissioner, the Secretary of Health, Education, and Welfare, the Committee on Labor and Public Welfare of the Senate, and the Committee on Education and Labor of the House of Representatives.
+Subsec. (i). Pub. L. 95–478, §102(e)(4)(B), struck out subsec. (i) which provided that the Council undertake a study or studies concerning the effects of the formulae specified in section 3023 of this title for allotment among the States of sums appropriated for area planning and social service programs authorized under subchapter III of this chapter and upon completion of this study, but no later than Jan. 1, 1975, to report the results, together with recommendations for change in the formulae, to the Commissioner, the Secretary of Health, Education, and Welfare, the Committee on Labor and Public Welfare of the Senate, and the Committee on Education and Labor of the House of Representatives.
 
 1975—Subsecs. (g), (h). Pub. L. 94–135 substituted “January 1, 1976” for “eighteen months after May 3, 1973”.
 

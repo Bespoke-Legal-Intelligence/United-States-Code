@@ -26,17 +26,17 @@ It shall be the function and duty of such agency or board to—
 
 #### (d) Waiver of standards other than good character or suitability standards
 
-No State shall be considered to have failed to comply with the provisions of section 1396a(a)(29) of this title because the agency or board of such State (established pursuant to subsection (b) of this section) shall have granted any waiver, with respect to any individual who, during all of the three calendar years immediately preceding the calendar year in which the requirements prescribed in section 1396a(a)(29) ofthis title are first met by the State, has served as a nursing home administrator, of any of the standards developed, imposed, and enforced by such agency or board pursuant to subsection (c) of this section.
+No State shall be considered to have failed to comply with the provisions of section 1396a(a)(29) of this title because the agency or board of such State (established pursuant to subsection (b) of this section) shall have granted any waiver, with respect to any individual who, during all of the three calendar years immediately preceding the calendar year in which the requirements prescribed in section 1396a(a)(29) of this title are first met by the State, has served as a nursing home administrator, of any of the standards developed, imposed, and enforced by such agency or board pursuant to subsection (c) of this section.
 
 #### (e) “Nursing home” and “nursing home administrator” defined
 
 As used in this section, the term—
 
-&emsp;(1) “nursing home” means any institution or facility defined as such for licensing purposes under State law, or, if State law does not employ the term nursing home, the equivalent term or terms as determined by the Secretary, but does not include a Christian Science sanatorium operated, or listed and certified, by the First Church of Christ, Scientist, Boston, Massachusetts; and
+&emsp;(1) “nursing home” means any institution or facility defined as such for licensing purposes under State law, or, if State law does not employ the term nursing home, the equivalent term or terms as determined by the Secretary, but does not include a Christian Science sanatorium operated, or listed and certified, by The Commission for Accreditation of Christian Science Nursing Organizations/Facilities, Inc.; and
 
 &emsp;(2) “nursing home administrator” means any individual who is charged with the general administration of a nursing home whether or not such individual has an ownership interest in such home and whether or not his functions and duties are shared with one or more other individuals.
 
-(Aug. 14, 1935, ch. 531, title XIX, §1908, as added Jan. 2, 1968, Pub. L. 90–248, title II, §236(b), 81 Stat. 908; amended Oct. 30, 1972, Pub. L. 92–603, title II, §§268(b), 269, 274(b), 86 Stat. 1451, 1452; Dec. 31, 1973, Pub. L. 93–233, §18(y)(3), 87 Stat. 973.)
+(Aug. 14, 1935, ch. 531, title XIX, §1908, as added Jan. 2, 1968, Pub. L. 90–248, title II, §236(b), 81 Stat. 908; amended Oct. 30, 1972, Pub. L. 92–603, title II, §§268(b), 269, 274(b), 86 Stat. 1451, 1452; Dec. 31, 1973, Pub. L. 93–233, §18(y)(3), 87 Stat.973; Aug. 22, 1996, Pub. L. 104–193, title IX, §913, 110 Stat. 2354.)
 
 #### Repeal of Section
 
@@ -47,6 +47,8 @@ As used in this section, the term—
 Another section 1908 of act Aug. 14, 1935, is classified to section 1396g–1 of this title.
 
 #### Amendments
+
+1996—Subsec. (e)(1). Pub. L. 104–193, which directed substitution of “The Commission for Accreditation of Christian Science Nursing Organizations/Facilities, Inc.” for “The First Church of Christ, Scientist, Boston, Massachusetts”, was executed by making the substitution for “the First Church of Christ, Scientist, Boston, Massachusetts” to reflect the probable intent of Congress.
 
 1973—Subsec. (d). Pub. L. 93–233 struck out second sentence reading substantially the same as the first sentence but containing the following additional text reading “other than such standards as relate to good character or suitability if—
 
@@ -63,6 +65,10 @@ Subsec. (g). Pub. L. 93–233, redesignated subsec. (g) as (e).
 1972—Subsec. (d). Pub. L. 92–603, §§269, 274(b), inserted references to the grant of waivers to individuals who, during all of the three calendar years immediately preceding the calendar year in which the requirements prescribed in section 1396a(a)(29) of this title are first met by the State, have served as nursing home administrators and substituted “subsection (c)(1)” for “subsection (b)(1)”.
 
 Subsec. (g)(1). Pub. L. 92–603, §268(b), inserted “, but does not include a Christian Science sanatorium operated, or listed and certified, by the First Church of Christ, Scientist, Boston, Massachusetts” after “Secretary”.
+
+#### Effective Date of 1996 Amendment
+
+Section 913 of Pub. L. 104–193 provided that the amendment made by that section is effective Jan. 1, 1997.
 
 #### Effective Date of 1972 Amendment
 

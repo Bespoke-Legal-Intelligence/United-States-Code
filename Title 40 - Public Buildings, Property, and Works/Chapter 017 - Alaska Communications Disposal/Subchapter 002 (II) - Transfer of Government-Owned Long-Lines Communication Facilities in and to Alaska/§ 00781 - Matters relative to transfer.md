@@ -6,7 +6,7 @@ Subject to the provisions of section 782 of this title, and notwithstanding prov
 
 #### (2) Procedures and methods
 
-Transfers under this subchapter shall be made in accordance with the procedures and methodsrequired by section 484(e), (1), (2), and (3) of this title, except that “the Secretary of Defense or his designee” shall be substituted for all references therein to “the Administrator”.
+Transfers under this subchapter shall be made in accordance with the procedures and methods required by section 484(e), (1), (2), and (3) of this title, except that “the Secretary of Defense or his designee” shall be substituted for all references therein to “the Administrator”.
 
 #### (3) Applicability of antitrust provisions
 

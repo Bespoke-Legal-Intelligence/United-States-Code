@@ -10,7 +10,7 @@ The sum of $1,000,000 plus any funds that revert to the Osage Tribe may be advan
 
 #### (c) Withdrawal of funds for payment of costs of carrying out provisions
 
-The Secretary of the Interior may make appropriate withdrawals from the judgment funds and interest thereon, using interest funds first, to pay costs incident to carrying out the provisions of sections 883 to 883d of this title.
+The Secretary of the Interior may make appropriate withdrawals from the judgment fundsand interest thereon, using interest funds first, to pay costs incident to carrying out the provisions of sections 883 to 883d of this title.
 
 (Pub. L. 92–586, §1, Oct. 27, 1972, 86 Stat. 1295; Pub. L. 98–605, §5, Oct. 30, 1984, 98 Stat. 3168.)
 

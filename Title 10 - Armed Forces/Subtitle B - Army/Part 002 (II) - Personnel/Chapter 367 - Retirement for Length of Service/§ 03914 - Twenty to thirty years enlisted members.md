@@ -54,9 +54,9 @@ For provisions authorizing the Secretary of the Army, during the period beginnin
 
 #### Double Credits for Foreign Service by Enlisted Men
 
-Acts May 26, 1900, ch. 586, 31 Stat. 209; Mar. 2, 1903, ch. 975, 32 Stat. 933; Apr. 23, 1904, ch. 1485, 33 Stat. 264; Aug. 24, 1912, ch. 391, §1, 37 Stat. 575; May 17, 1932, ch. 190, 47 Stat. 158, provided that: “In computing length of service for retirement, credit shall be given soldiers for double the time of their actual service in China, Puerto Rico, Cuba, the Philippine Islands, the Island of Guam, Alaska, and Panama, but double credit shall not be given for service rendered subsequent to April 23, 1904, in Puerto Rico or the Territory of Hawaii, nor shall credit for double time for foreign service be given to those who enlisted after August 24, 1912: <i>Provided,</i> That nothing herein shall be so construed as to forfeit credit for double time accrued prior to August 24, 1912.”
+Acts May 26, 1900, ch. 586, 31 Stat. 209; Mar. 2, 1903, ch. 975, 32 Stat. 933; Apr. 23, 1904, ch. 1485, 33 Stat. 264; Aug. 24, 1912, ch. 391, §1, 37 Stat. 575; May 17, 1932, ch. 190, 47 Stat. 158, provided that: “In computing length of service for retirement, credit shall be given soldiers for double the time of their actual service in China, Puerto Rico, Cuba, the Philippine Islands, the Island of Guam, Alaska, and Panama, but double credit shall not be given for service rendered subsequent to April 23, 1904, in Puerto Rico or the Territory of Hawaii, nor shall credit for double time for foreign service be given to those who enlisted after August 24, 1912: <i>Provided</i>, That nothing herein shall be so construed as to forfeit credit for double time accrued prior to August 24, 1912.”
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 688, 1176, 1402, 1402a, 1406, 1407 of this title.
+This section is referred to in sections 688, 1176, 1402, 1402a, 1406, 1407, 3963 of this title.
 

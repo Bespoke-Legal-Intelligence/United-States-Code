@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;From the sums appropriated under section 8037 of this title in any fiscal year the Secretary (after consultation with experts in the field of the education of gifted and talented students) shall make grants to or enter into contracts with State educational agencies, local educational agencies, institutions of higher education, or other public agencies and private agencies and organizations (including Indian tribes and Indian organizations (as such terms are defined by the Indian Self-Determination and Education Assistance Act \[25 U.S.C. 450 et seq.\]) and Native Hawaiian organizations) to assist such agencies, institutions, and organizations which submit applications in carrying out programs or projects authorized by this part that are designed to meet the educational needs of gifted and talented students, including the training of personnel in the education of gifted and talented students and in the use, where appropriate, of gifted and talented services, materials, and methods for all students.
+&emsp;From the sums appropriated under section 8037 of this title in any fiscal year the Secretary (after consultation with experts in the field of the education of gifted and talented students) shall make grants to or enter into contracts with State educational agencies, local educational agencies, institutions ofhigher education, or other public agencies and private agencies and organizations (including Indian tribes and Indian organizations (as such terms are defined by the Indian Self-Determination and Education Assistance Act \[25 U.S.C. 450 et seq.\]) and Native Hawaiian organizations) to assist such agencies, institutions, and organizations which submit applications in carrying out programs or projects authorized by this part that are designed to meet the educational needs of gifted and talented students, including the training of personnel in the education of gifted and talented students and in the use, where appropriate, of gifted and talented services, materials, and methods for all students.
 
 #### (2) Application
 
@@ -22,7 +22,7 @@ Programs and projects assisted under this section may include—
 
 &emsp;(2) establishment and operation of model projects and exemplary programs for serving gifted and talented students, including innovative methods for identifying and educating students who may not be served by traditional gifted and talented programs, summer programs, mentoring programs, service learning programs, and cooperative programs involving business, industry, and education;
 
-&emsp;(3) training of personnel and parents involved in gifted and talented programs withrespect to the impact of gender role socialization on the educational needs of gifted and talented children and in gender equitable education methods, techniques and practices;
+&emsp;(3) training of personnel and parents involved in gifted and talented programs with respect to the impact of gender role socialization on the educational needs of gifted and talented children and in gender equitable education methods, techniques and practices;
 
 &emsp;(4) implementing innovative strategies, such as cooperative learning, peer tutoring and service learning;
 

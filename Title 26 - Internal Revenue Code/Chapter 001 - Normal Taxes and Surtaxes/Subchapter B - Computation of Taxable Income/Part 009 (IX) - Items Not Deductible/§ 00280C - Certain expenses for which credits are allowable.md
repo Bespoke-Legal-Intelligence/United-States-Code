@@ -8,13 +8,13 @@ No deduction shall be allowed for that portion of the wages or salaries paid or 
 
 #### (1) In general
 
-&emsp;No deduction shall be allowed for that portion of the qualified clinical testing expenses (as defined in section 28(b)) otherwise allowable as a deduction for the taxable year which is equal to the amount of the credit allowable for the taxable year under section 28 (determined without regard to subsection (d)(2) thereof).
+&emsp;No deduction shall be allowed for that portion of the qualified clinical testing expenses (as defined in section 45C(b)) otherwise allowable as a deduction for the taxable year which is equal to the amount of the credit allowable for the taxable year under section 45C (determined without regard to section 38(c)).
 
 #### (2) Similar rule where taxpayer capitalizes rather than deducts expenses
 
 &emsp;If—
 
-&emsp;&emsp;(A) the amount of the credit allowable for the taxable year under section 28 (determined without regard to subsection (d)(2) thereof), exceeds
+&emsp;&emsp;(A) the amount of the credit allowable for the taxable year under section 45C (determined without regard to section 38(c)), exceeds
 
 &emsp;&emsp;(B) the amount allowable as a deduction for the taxable year for qualified clinical testing expenses (determined without regard to paragraph (1)),
 
@@ -64,15 +64,19 @@ No deduction shall be allowed for that portion of the wages or salaries paid or 
 
 #### (C) Election
 
-&emsp;&emsp;An election under this paragraph for any taxable year shall be made not later than the time for filing the return of tax for such year (including extensions), shall be made on such return, and shall be made in such manner as the Secretary may prescribe. Such an election, once made, shall be irrevocable.
+&emsp;&emsp;An election under this paragraph for any taxable year shall be made not later than the time for filing the return of tax for such year (including extensions), shall be made onsuch return, and shall be made in such manner as the Secretary may prescribe. Such an election, once made, shall be irrevocable.
 
 #### (4) Controlled groups
 
 &emsp;Paragraph (3) of subsection (b) shall apply for purposes of this subsection.
 
-(Added Pub. L. 95–30, title II, §202(c)(1), May 23, 1977, 91 Stat. 147; amended Pub. L. 95–600, title III, §322(d)(1), Nov. 6, 1978, 92 Stat. 2838; Pub. L. 96–178, §6(c)(4), Jan. 2, 1980, 93 Stat. 1298; Pub. L. 96–222, title I, §103(a)(7)(D)(iv), Apr. 1, 1980, 94 Stat. 212; Pub. L. 97–414, §4(b)(1), (2)(A), Jan. 4, 1983, 96 Stat. 2055; Pub. L. 98–369, div. A, title IV, §474(r)(10), July 18, 1984, 98 Stat. 841; Pub. L. 99–514, title II, §231(d)(3)(E), title XVIII, §1847(b)(8), Oct. 22, 1986, 100 Stat. 2179, 2856; Pub. L. 100–647, title IV, §4008(a), Nov. 10, 1988, 102 Stat. 3652; Pub. L. 101–239, title VII, §§7110(c)(1), 7814(e)(2)(A), Dec. 19, 1989, 103 Stat. 2325, 2413; Pub. L. 103–66, title XIII, §§13302(b)(1), 13322(c)(1), Aug. 10, 1993, 107 Stat. 555, 563.)
+(Added Pub. L. 95–30, title II, §202(c)(1), May 23, 1977, 91 Stat. 147; amended Pub. L. 95–600, title III, §322(d)(1), Nov. 6, 1978, 92 Stat. 2838; Pub. L. 96–178, §6(c)(4), Jan. 2, 1980, 93 Stat. 1298; Pub. L. 96–222, title I, §103(a)(7)(D)(iv), Apr. 1, 1980, 94 Stat. 212; Pub. L. 97–414, §4(b)(1), (2)(A), Jan. 4, 1983, 96 Stat. 2055; Pub. L. 98–369, div. A, title IV, §474(r)(10), July 18, 1984, 98 Stat. 841; Pub. L. 99–514, title II, §231(d)(3)(E), title XVIII, §1847(b)(8), Oct. 22, 1986, 100 Stat. 2179, 2856; Pub. L. 100–647, title IV, §4008(a), Nov. 10, 1988, 102 Stat. 3652; Pub. L. 101–239, title VII, §§7110(c)(1), 7814(e)(2)(A), Dec. 19, 1989, 103 Stat. 2325, 2413; Pub. L. 103–66, title XIII, §§13302(b)(1), 13322(c)(1), Aug. 10, 1993, 107 Stat. 555, 563; Pub. L. 104–188, title I, §1205(d)(7), Aug. 20, 1996, 110 Stat. 1776.)
 
 #### Amendments
+
+1996—Subsec. (b)(1). Pub. L. 104–188, §1205(d)(7), substituted “section 45C(b)” for “section 28(b)”, “section 45C” for “section 28”, and “section 38(c)” for “subsection (d)(2) thereof”.
+
+Subsec. (b)(2)(A). Pub. L. 104–188, §1205(d)(7)(B), (C), substituted “section 45C” for “section 28” and “section 38(c)” for “subsection (d)(2) thereof”.
 
 1993—Subsec. (a). Pub. L. 103–66, §13322(c)(1), substituted “45A(a), 51(a), and” for “51(a)”.
 
@@ -92,7 +96,7 @@ Subsec. (c)(4). Pub. L. 101–239, §7814(e)(2)(A), redesignated par. (3) as (4)
 
 Subsec. (b)(3). Pub. L. 99–514, §231(d)(3)(E), substituted “section 41(f)(5)”, “section 41(f)(1)(B)”, and “section 41(f)(1)” for “section 30(f)(5)”, “section 30(f)(1)(B)”, and “section 30(f)(1)”, respectively.
 
-1984—Subsec. (a). Pub. L. 98–369, §474(r)(10)(A), (B), redesignated subsec. (b) as (a), in heading substituted “targeted jobs credit” for “section 44B credit”, and in text substituted “No deduction shall be allowed for that portion of the wages or salaries paid or incurred for the taxable year which is equal to the amount of the credit determined for the taxable year under section 51(a)” for “No deduction shall be allowed for that portion of the wage or salaries paid or incurred for the taxable year which is equal to the amount of the credit allowable for the taxable year under section 44B (relating to credit for employment of certain new employees) determined without regard to the provisions of section 53 (relating to limitation based on amount of tax)”. Former subsec. (a), which had provided that no deduction would be allowed for that portion of the work incentive program expenses paid or incurred for the taxable year which was equal to the amount of the credit allowable for the taxable year under section 40 (relating to credit for expenses of work incentive programs) determined without regard to the provisions of section 50A(a)(2) (relating to limitation based on amount of tax), and that in the case of a corporation which was a member of a controlled group of corporations (within the meaning of section 50B(g)(1) or a trade or business which was treated as being under common control with other trades or businesses within the meaning of section 50B(g)(2), this subsection would be applied under rules prescribed by the Secretary similar to the rulesapplicable under paragraphs (1) and (2) of section 50B(g), was struck out.
+1984—Subsec. (a). Pub. L. 98–369, §474(r)(10)(A), (B), redesignated subsec. (b) as (a), in heading substituted “targeted jobs credit” for “section 44B credit”, and in text substituted “No deduction shall be allowed for that portion of the wages or salaries paid or incurred for the taxable year which is equal to the amount of the credit determined for the taxable year under section 51(a)” for “No deduction shall be allowed for that portion of the wage or salaries paid or incurred for the taxable year which is equal to the amount of the credit allowable for the taxable year under section 44B (relating to credit for employment of certain new employees) determined without regard to the provisions of section 53 (relating to limitation based on amount of tax)”. Former subsec. (a), which had provided that no deduction would be allowed for that portion of the work incentive program expenses paid or incurred for the taxable year which was equal to the amount of the credit allowable for the taxable year under section 40 (relating to credit for expenses of work incentive programs) determined without regard to the provisions of section 50A(a)(2) (relating to limitation based on amount of tax), and that in the case of a corporation which was a member of a controlled group of corporations (within the meaning of section 50B(g)(1) or a trade or business which was treated as being under common control with other trades or businesses within the meaning of section 50B(g)(2), this subsection would be applied under rules prescribed by the Secretary similar to the rules applicable under paragraphs (1) and (2) of section 50B(g), was struck out.
 
 Subsec. (b). Pub. L. 98–369, §474(r)(10)(A), redesignated subsec. (c) as (b). Former subsec. (b) redesignated (a).
 
@@ -107,6 +111,10 @@ Subsec. (c). Pub. L. 98–369, §474(r)(10)(A), redesignated subsec. (c) as (b).
 Subsec. (c). Pub. L. 97–414, §4(b)(1), added subsec. (c).
 
 1978—Pub. L. 95–600, as amended by Pub. L. 96–178 and Pub. L. 96–222, substituted “section 40 or 44B” for “section 44B” in section catchline, and in text designated existing provisions as subsec. (b) and added subsec. (a).
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–188 applicable to amounts paid or incurred in taxable years ending after June 30, 1996, see section 1205(e) of Pub. L. 104–188, set out as a note under section 29 of this title.
 
 #### Effective Date of 1993 Amendment
 
@@ -130,7 +138,7 @@ Amendment by section 1847(b)(8) of Pub. L. 99–514 effective, except as otherwi
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–369 applicable to taxable years beginning after Dec. 31, 1983, and to carrybacks from such years, see section 475(a) of Pub. L. 98–369, set out as a note under section 21 of this title.
+Amendment by Pub. L. 98–369 applicable to taxable years beginning after Dec. 31, 1983, and to carrybacksfrom such years, see section 475(a) of Pub. L. 98–369, set out as a note under section 21 of this title.
 
 #### Effective Date of 1983 Amendment
 

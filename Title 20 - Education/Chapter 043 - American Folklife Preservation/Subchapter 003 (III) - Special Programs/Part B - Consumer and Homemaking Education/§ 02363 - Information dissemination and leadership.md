@@ -8,7 +8,7 @@ The State board shall ensure that the experience and information gained through 
 
 Not more than 6 percent of the funds available under this part may be used for State administration of projects, services, and activities under this part.
 
-(Pub. L. 88–210, title III, §313, as added Pub. L. 98–524, §1, Oct. 19, 1984, 98 Stat. 2459; amendedPub. L. 99–159, title VII, §707, Nov. 22, 1985, 99 Stat. 906; Pub. L. 101–392, title III, §304, Sept. 25, 1990, 104 Stat. 786.)
+(Pub. L. 88–210, title III, §313, as added Pub. L. 98–524, §1, Oct. 19, 1984, 98 Stat. 2459; amended Pub. L. 99–159, title VII, §707, Nov. 22, 1985, 99 Stat. 906; Pub. L. 101–392, title III, §304, Sept. 25, 1990, 104 Stat. 786.)
 
 #### Amendments
 

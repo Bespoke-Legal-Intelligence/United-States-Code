@@ -6,7 +6,7 @@ For purposes of this title in the case of income, estate, and gift taxes imposed
 
 &emsp;(1) the sum of
 
-&emsp;&emsp;(A) the amount shown as the tax by the taxpayer upon his return, if a return was made by the taxpayer and an amount wasshown as the tax by the taxpayer thereon, plus
+&emsp;&emsp;(A) the amount shown as the tax by the taxpayer upon his return, if a return was made by the taxpayer and an amount was shown as the tax by the taxpayer thereon, plus
 
 &emsp;&emsp;(B) the amounts previously assessed (or collected without assessment) as a deficiency, over—
 

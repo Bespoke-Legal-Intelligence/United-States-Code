@@ -6,7 +6,9 @@ The Federal Energy Regulatory Commission has the duties and powers related to th
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

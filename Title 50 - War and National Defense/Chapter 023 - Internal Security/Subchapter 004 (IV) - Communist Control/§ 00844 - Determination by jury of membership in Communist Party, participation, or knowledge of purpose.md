@@ -14,7 +14,7 @@ In determining membership or participation in the Communist Party or any other o
 
 &emsp;(6) Has conferred with officers or other members of the organization in behalf of any plan or enterprise of the organization;
 
-&emsp;(7) Has been accepted to his knowledge as an officer or member of the organization or as one to be called upon for services by other officers or members of the organization;
+&emsp;(7) Has been accepted to his knowledge as an officer or member of the organization or asone to be called upon for services by other officers or members of the organization;
 
 &emsp;(8) Has written, spoken or in any other way communicated by signal, semaphore, sign, or in any other form of communication orders, directives, or plans of the organization;
 

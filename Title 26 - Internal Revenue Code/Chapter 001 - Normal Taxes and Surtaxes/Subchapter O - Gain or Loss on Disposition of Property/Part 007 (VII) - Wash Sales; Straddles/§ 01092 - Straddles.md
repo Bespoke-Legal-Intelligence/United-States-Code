@@ -76,7 +76,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary shall prescribe such regulations with respect to gain or loss on positions which are a part of a straddle as may be appropriate to carry out the purposes of this section and section 263(g). To the extent consistent with such purposes, such regulations shall include rules applying the principles of subsections (a) and (d) of section 1091 and of subsections (b) and (d) of section 1233.
+&emsp;The Secretary shall prescribe such regulations with respect to gain or loss on positionswhich are a part of a straddle as may be appropriate to carry out the purposes of this section and section 263(g). To the extent consistent with such purposes, such regulations shall include rules applying the principles of subsections (a) and (d) of section 1091 and of subsections (b) and (d) of section 1233.
 
 #### (2) Regulations relating to mixed straddles
 
@@ -90,7 +90,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) by the establishment (with respect to any class of activities) of a mixed straddle account for which gains and losses would be recognized (and offset) on a periodic basis,
 
-&emsp;&emsp;&emsp;(ii) such offsetting will occur before the application of section 1256, and section1256(a)(3) will only apply to net gain or net loss attributable to section 1256 contracts, and
+&emsp;&emsp;&emsp;(ii) such offsetting will occur before the application of section 1256, and section 1256(a)(3) will only apply to net gain or net loss attributable to section 1256 contracts, and
 
 &emsp;&emsp;&emsp;(iii) the principles of section 1233(d) shall not apply with respect to any straddle identified under clause (i)(I) or part of an account established under clause (i)(II).
 
@@ -354,7 +354,7 @@ If a taxpayer holds any stock and grants a qualified covered call option to purc
 
 &emsp;&emsp;<b>For provision requiring capitalization of certain interest and carrying charges where there is a straddle, see section 263(g).</b>
 
-(Added Pub. L. 97–34, title V, §501(a), Aug. 13, 1981, 95 Stat. 323; amended Pub. L. 97–448, title I, §105(a)(1)(A)–(C), (2)–(4), Jan. 12, 1983, 96 Stat. 2384, 2385; Pub. L. 98–369, div. A, title I, §§101(a)–(d), 102(e)(2), 103(a), 107(a), July 18, 1984, 98 Stat. 616–619, 624, 627, 629; Pub. L. 99–514, title III, §331(a), title XII, §1261(b), title XVIII, §§1808(c), 1899A(66), Oct. 22, 1986, 100 Stat. 2220, 2591, 2817, 2962; Pub. L. 100–647, title VI, §6130(c), Nov. 10, 1988, 102 Stat. 3719.)
+(Added Pub. L. 97–34, title V, §501(a), Aug. 13, 1981, 95 Stat. 323; amended Pub. L. 97–448, title I, §105(a)(1)(A)–(C), (2)–(4), Jan. 12, 1983, 96 Stat. 2384, 2385; Pub. L. 98–369, div. A, title I, §§101(a)–(d), 102(e)(2), 103(a), 107(a), July 18, 1984, 98 Stat. 616–619, 624, 627, 629; Pub. L. 99–514, title III, §331(a), title XII, §1261(b), title XVIII, §§1808(c), 1899A(66), Oct. 22, 1986, 100 Stat. 2220,2591, 2817, 2962; Pub. L. 100–647, title VI, §6130(c), Nov. 10, 1988, 102 Stat. 3719.)
 
 #### Amendments
 
@@ -462,7 +462,7 @@ Section 508 of title V of Pub. L. 97–34, as amended by Pub. L. 99–514, §2, 
 
 “(a)
 
-In General.—Except as otherwise provided in this section, the amendments made by this title \[enacting this section and sections 1234A and 1256 of this title,amending sections 263, 341, 1212, 1221, 1231, 1232, 1233, 1236, and 6653 of this title, and enacting provisions set out as a note under section 1256 of this title\] shall apply to property acquired and positions established by the taxpayer after June 23, 1981, in taxable years ending after such date.
+In General.—Except as otherwise provided in this section, the amendments made by this title \[enacting this section and sections 1234A and 1256 of this title, amending sections 263, 341, 1212, 1221, 1231, 1232, 1233, 1236, and 6653 of this title, and enacting provisions set out as a note under section 1256 of this title\] shall apply to property acquired and positions established by the taxpayer after June 23, 1981, in taxable years ending after such date.
 
 “(b)
 

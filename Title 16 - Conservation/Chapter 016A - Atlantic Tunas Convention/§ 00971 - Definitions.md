@@ -24,9 +24,11 @@ For the purpose of this chapter—
 
 &emsp;(11) The term “State” includes each of the States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, and the territories and possessions of the United States.
 
-(Pub. L. 94–70, §2, Aug. 5, 1975, 89 Stat. 385; Pub. L. 94–265, title IV, §405(a), Apr. 13, 1976, 90 Stat. 361; Pub. L. 95–33, §2, May 26, 1977, 91 Stat. 173; Pub. L. 104–43, title III, §303(1), (2), Nov. 3, 1995, 109 Stat. 384.)
+(Pub. L. 94–70, §2, Aug. 5, 1975, 89 Stat. 385; Pub. L. 94–265, title IV, §405(a), Apr. 13, 1976, 90 Stat. 361; Pub. L. 95–33, §2, May 26, 1977, 91 Stat. 173; Pub. L. 104–43, title III, §303(1), (2), Nov. 3, 1995, 109 Stat. 384; Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41.)
 
 #### Amendments
+
+1996—Par. (4). Pub. L. 104–208 made technical amendment to reference in original act which appears in text as reference to section 1802 of this title.
 
 1995—Par. (3). Pub. L. 104–43, §303(1), added par. (3). Former par. (3) redesignated (4).
 
@@ -44,9 +46,13 @@ Pars. (6) to (11). Pub. L. 104–43, §303(1), redesignated pars. (5) to (10) as
 
 1976—Par. (4). Pub. L. 94–265, which directed the substitution of “the waters included within a zone, contiguous to the territorial sea of the United States, of which the inner boundary is a line coterminous with the seaward boundary of each coastal state, and the outer boundary is a line drawn in such a manner that each point on it is 200 nautical miles from the baseline from which the territorial sea is measured,” for “the fisheries zone established pursuant to the Act of October 14, 1966 (80 Stat. 908; 16 U.S.C. 1091–1094)”, was executed by making the substitution for “the entire zone established by the United States under the Act of October 14, 1966 (80 Stat. 908; 16 U.S.C. 1091–1094)”, to reflect the probable intent of Congress.
 
+#### Effective Date of 1996 Amendment
+
+Section 101(a) \[title II, §211(b)\] of div. A of Pub. L. 104–208 provided that the amendment made by that section is effective 15 days after Oct. 11, 1996.
+
 #### Effective Date of 1976 Amendment
 
-Section 405(b) of Pub. L. 94–265 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect March 1, 1977.”
+Section 405(b) of Pub. L. 94–265 provided that the amendment made by section 405(a) of Pub. L. 94–265 to this section was to take effect Mar. 1, 1977, prior to the general amendment of title IV of Pub. L. 94–265 by Pub. L. 104–297.
 
 #### Short Title of 1995 Amendment
 

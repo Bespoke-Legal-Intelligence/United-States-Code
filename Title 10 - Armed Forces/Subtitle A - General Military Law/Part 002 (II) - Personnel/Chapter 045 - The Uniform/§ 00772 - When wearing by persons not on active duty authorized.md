@@ -14,7 +14,7 @@
 
 (g) An officer or resident of a veterans’ home administered by the Department of Veterans Affairs may wear such uniform as the Secretary of the military department concerned may prescribe.
 
-(h) While attending a course of military instruction conducted by the Army, Navy, Air Force, or Marine Corps, a civilian may wear the uniform prescribed by that armed force.
+(h) While attending a course of military instruction conducted by the Army, Navy, Air Force, or Marine Corps, a civilian may wear the uniform prescribed by that armed force if the wear of such uniform is specifically authorized under regulations prescribed by the Secretary of the military department concerned.
 
 (i) Under such regulations as the Secretary of the Air Force may prescribe, a citizen of a foreign country who graduates from an Air Force school may wear the appropriate aviation badges of the Air Force.
 
@@ -24,7 +24,7 @@
 
 &emsp;(2) Members of any other organization designated by the Secretary of a military department.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 35; Nov. 8, 1985, Pub. L. 99–145, title XIII, §1301(a)(1), 99 Stat. 735; Nov. 29, 1989, Pub. L. 101–189, div. A, title XVI, §1621(a)(1), 103 Stat. 1602.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 35; Nov. 8, 1985, Pub. L. 99–145, title XIII, §1301(a)(1), 99 Stat. 735; Nov. 29, 1989, Pub. L. 101–189, div. A, title XVI, §1621(a)(1), 103 Stat. 1602; Sept. 23, 1996, Pub. L. 104–201, div. A, title V, §551(b), 110 Stat. 2525.)
 
 Historical and Revision Notes
 
@@ -36,13 +36,37 @@ Historical and Revision Notes
 
 772(a)
 
+&nbsp;
+
+&nbsp;
+
 772(b)
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 772(c)
 
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 772(d)
 
+&nbsp;
+
+&nbsp;
+
 772(e)
+
+&nbsp;
+
+&nbsp;
 
 10:1393 (words before 1st semicolon of 1st proviso of 1st par.).
 
@@ -76,6 +100,8 @@ R.S. 1457 (less 1st and 3d sentences); May 5, 1950, ch. 169, §14(f), 64 Stat. 1
 
 772(g)
 
+&nbsp;
+
 772(h)
 
 10:1393 (last proviso of last par.).
@@ -85,6 +111,10 @@ R.S. 1457 (less 1st and 3d sentences); May 5, 1950, ch. 169, §14(f), 64 Stat. 1
 Apr. 16, 1947, ch. 38, §207(j), 61 Stat. 50; as redesignated (i); Aug. 7, 1947, ch. 512, §434(d), 61 Stat. 882.
 
 772(i)
+
+&nbsp;
+
+&nbsp;
 
 772(j)
 
@@ -100,7 +130,7 @@ In subsection (c), the words “bear the title”, in 34:43g(i), applicable only
 
 In subsection (e), the words between the second and third semicolons of the first proviso of the first paragraph of 10:1393 are omitted as superseded by 10:1028b and 34:399d, which authorize the wearing of the uniform by members who are discharged honorably or under honorable conditions. The words “when authorized by regulations prescribed by” are substituted for the words “occasions authorized by regulations of”.
 
-In subsection (f), the words “while portraying a member of the Army, Navy, Air Force, or Marine Corps, an actor in a theatrical or motion-picture production” are substituted for the words “any person from wearing the uniform of the United States Army, Navy, or Marine Corps, in any playhouse or theater or in moving-picture films while actually engaged in representing therein a military or naval character”.
+In subsection (f), the words “while portraying a member of the Army, Navy, Air Force, or Marine Corps, anactor in a theatrical or motion-picture production” are substituted for the words “any person from wearing the uniform of the United States Army, Navy, or Marine Corps, in any playhouse or theater or in moving-picture films while actually engaged in representing therein a military or naval character”.
 
 In subsection (g), the word “resident” is substituted for the word “members”, since the word “members” related to members of the now disbanded National Home for disabled volunteer soldiers to which were admitted “members” of an organization called the “Disabled Volunteer Soldiers”. The words “veterans’ home” are substituted for the words “national home for veterans”, since there are now no “national homes” administered by the Veterans’ Administration.
 
@@ -109,6 +139,8 @@ In subsection (h), the words “authorized and” and “for wear during such co
 In subsection (i), the words “Air Force school” are substituted for the words “Air Force advanced flying schools or Air Force service schools”. The words “in such manner” are omitted as surplusage.
 
 #### Amendments
+
+1996—Subsec. (h). Pub. L. 104–201 inserted before period at end “if the wear of such uniform is specifically authorized under regulations prescribed by the Secretary of the military department concerned”.
 
 1989—Subsec. (g). Pub. L. 101–189 substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
 
@@ -130,5 +162,5 @@ Provisions respecting sale of exterior articles of uniform to persons discharged
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 771a, 4621, 6156, 9621 of this title.
+This section is referred to in sections 771a, 4621, 6156, 7606, 9621 of this title.
 

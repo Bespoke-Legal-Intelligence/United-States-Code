@@ -12,7 +12,7 @@ The employees of the Tax Court shall receive their necessary traveling expenses,
 
 &emsp;&emsp;<b>For compensation and travel and subsistence allowances of special trial judges of the Tax Court, see subsections (d) and (e) of section 7443A.</b>
 
-(Aug. 6, 1954, ch. 736, 68A Stat. 888; Dec. 30, 1969, Pub. L. 91–172, title IX, §960(g), 83 Stat. 734; Oct. 4, 1976, Pub. L. 94–455, title XIX, §1906(a)(47), 90Stat. 1831; July 18, 1984, Pub. L. 98–369, div. A, title IV, §464(d), 98 Stat. 825; Oct. 22, 1986, Pub. L. 99–514, title XV, §1556(b)(2), 100 Stat. 2755.)
+(Aug. 6, 1954, ch. 736, 68A Stat. 888; Dec. 30, 1969, Pub. L. 91–172, title IX, §960(g), 83 Stat. 734; Oct. 4, 1976, Pub. L. 94–455, title XIX, §1906(a)(47), 90 Stat. 1831; July 18, 1984, Pub. L. 98–369, div. A, title IV, §464(d), 98 Stat. 825; Oct. 22, 1986, Pub. L. 99–514, title XV, §1556(b)(2), 100 Stat. 2755.)
 
 #### References in Text
 
@@ -26,7 +26,7 @@ The provisions of title 5, United States Code, governing appointment in the comp
 
 1976—Subsec. (a). Pub. L. 94–455, §1906(a)(47)(A), among other changes, substituted provisions referring to title 5 of the United States Code for provisions referring to the civil service law, and to chapter 51 and subchapter III of chapter 53 of title 5 for the Classification Act of 1949.
 
-Subsec. (b). Pub. L. 94–455, §1906(a)(47)(B), substituted “as provided in chapter 57 of title 5, United States Code” for “as provided in the Travel Expense Act of 1949 (63 Stat. 166; 5 U.S.C. chapter 16)”.
+Subsec. (b). Pub. L. 94–455, §1906(a)(47)(B), substituted “as provided in chapter 57 of title 5, United StatesCode” for “as provided in the Travel Expense Act of 1949 (63 Stat. 166; 5 U.S.C. chapter 16)”.
 
 1969—Subsec. (c). Pub. L. 91–172 inserted reference to the compensation of commissioners.
 

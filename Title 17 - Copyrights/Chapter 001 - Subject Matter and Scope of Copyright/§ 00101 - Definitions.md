@@ -78,7 +78,7 @@ Except as otherwise provided in this title, as used in this title, the following
 
 &emsp;“Motion pictures” are audiovisual works consisting of a series of related images which, when shown in succession, impart an impression of motion, together with accompanying sounds, if any.
 
-&emsp;To “perform” a work means to recite, render, play, dance, or act it, either directly or by means of any device or process or, in the case of a motion picture or other audiovis- ual work, to show its images in any sequence or to make the sounds accompanying it audible.
+&emsp;To “perform” a work means to recite, render, play, dance, or act it, either directly or by means of any device or process or, in the case of a motion picture or other audiovisual work, to show its images in any sequence or to make the sounds accompanying it audible.
 
 &emsp;“Phonorecords” are material objects in which sounds, other than those accompanying a motion picture or other audiovisual work, are fixed by any method now known or later developed, and from which the sounds can be perceived, reproduced, or otherwise communicated, either directly or with the aid of a machine or device. The term “phonorecords” includes the material object in which the sounds are first fixed.
 
@@ -240,7 +240,7 @@ Pub. L. 101–318, §1, July 3, 1990, 104 Stat. 287, provided that: “This Act 
 
 #### Short Title of 1988 Amendments
 
-Pub. L. 100–667, title II, §201, Nov. 16, 1988, 102 Stat. 3949, provided that: “This title \[enacting section 119 ofthis title and sections 612 and 613 of Title 47, Telegraphs, Telephones, and Radiotelegraphs, amending sections 111, 501, 801, and 804 of this title and section 605 of Title 47, and enacting provisions set out as notes under section 119 of this title\] may be cited as the ‘Satellite Home Viewer Act of 1988’.” \[Section ceases to be effective Dec. 31, 1994, see section 207 of Pub. L. 100–667, set out as an Effective and Termination Dates note under section 119 of this title.\]
+Pub. L. 100–667, title II, §201, Nov. 16, 1988, 102 Stat. 3949, provided that: “This title \[enacting section 119 of this title and sections 612 and 613 of Title 47, Telegraphs, Telephones, and Radiotelegraphs, amending sections 111, 501, 801, and 804 of this title and section 605 of Title 47, and enacting provisions set out as notesunder section 119 of this title\] may be cited as the ‘Satellite Home Viewer Act of 1988’.” \[Section ceases to be effective Dec. 31, 1994, see section 207 of Pub. L. 100–667, set out as an Effective and Termination Dates note under section 119 of this title.\]
 
 Section 1(a) of Pub. L. 100–568 provided that: “This Act \[enacting section 116A of this title, amending this section and sections 104, 116, 205, 301, 401 to 408, 411, 501, 504, 801, and 804 of this title, and enacting provisions set out as notes under this section\] may be cited as the ‘Berne Convention Implementation Act of 1988’.”
 
@@ -296,5 +296,5 @@ Pub. L. 103–465, title V, §501, Dec. 8, 1994, 108 Stat. 4973, provided that: 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 106A, 114 of this title; title 2 section 179i; title 18 sections 2318, 2319.
+This section is referred to in sections 106A, 114 of this title; title 2 section 179u; title 18 sections 2318, 2319.
 

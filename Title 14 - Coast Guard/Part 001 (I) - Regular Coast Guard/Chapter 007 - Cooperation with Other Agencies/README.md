@@ -2,7 +2,7 @@
 
 | Sec. |  |
 | :--- | ---: |
-| [141\.](%C2%A7%2000141%20-%20General.md) | General. |
+| [141\.](%C2%A7%2000141%20-%20Cooperation%20with%20other%20agencies%2C%20States%2C%20territories%2C%20and%20political%20subdivisions.md) | Cooperation with other agencies, States, territories, and political subdivisions. |
 | [142\.](%C2%A7%2000142%20-%20State%20Department.md) | State Department. |
 | [143\.](%C2%A7%2000143%20-%20Treasury%20Department.md) | Treasury Department. |
 | [144\.](%C2%A7%2000144%20-%20Department%20of%20the%20Army%20and%20Department%20of%20the%20Air%20Force.md) | Department of the Army and Department of the Air Force. |
@@ -23,6 +23,8 @@ In connection with its maritime police, promoting safety of life and property at
 
 #### Amendments
 
+1996—Pub. L. 104–324, title IV, §405(b), Oct. 19, 1996, 110 Stat. 3924, substituted “Cooperation with other agencies, States, territories, and political subdivisions” for “General” in item 141.
+
 1984—Pub. L. 98–557, §15(a)(4)(A)(ii), Oct. 30, 1984, 98 Stat. 2865, substituted “members” for “officers and men” in item 149.
 
 1982—Pub. L. 97–295, §2(6)(B), Oct. 12, 1982, 96 Stat. 1301, added item 147a.
@@ -34,7 +36,7 @@ In connection with its maritime police, promoting safety of life and property at
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 00141 - General](%C2%A7%2000141%20-%20General.md)
+- [&sect; 00141 - Cooperation with other agencies, States, territories, and political subdivisions](%C2%A7%2000141%20-%20Cooperation%20with%20other%20agencies%2C%20States%2C%20territories%2C%20and%20political%20subdivisions.md)
 - [&sect; 00142 - State Department](%C2%A7%2000142%20-%20State%20Department.md)
 - [&sect; 00143 - Treasury Department](%C2%A7%2000143%20-%20Treasury%20Department.md)
 - [&sect; 00144 - Department of the Army and Department of the Air Force](%C2%A7%2000144%20-%20Department%20of%20the%20Army%20and%20Department%20of%20the%20Air%20Force.md)

@@ -49,7 +49,7 @@
 | (i) | Years of service. |
 | (j) | Average monthly compensation. |
 | (k) | Employee representatives. |
-| (<i>l)</i> | Reductions for increased annuities. |
+| (<i>l</i>) | Reductions for increased annuities. |
 | (m) | Reductions due to monthly social security payments. |
 | 231c. | Computation of spouse and survivor annuities. |
 | (a) | Amount of spouses’ annuities; age. |

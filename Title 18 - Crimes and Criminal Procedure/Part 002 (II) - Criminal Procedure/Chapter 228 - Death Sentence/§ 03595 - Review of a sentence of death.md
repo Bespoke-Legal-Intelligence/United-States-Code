@@ -1,4 +1,4 @@
-### §3595 . Review of a sentence of death
+### §3595. Review of a sentence of death
 
 (a)
 

@@ -8,7 +8,7 @@ In the event that proceedings are or have been commenced for the forfeiture of a
 
 &emsp;(c) if the agency which seized such property has not requested it, and no other agency has requested and in the judgment of the Administrator should be given such property, and if in the judgment of the Administrator the property may later become necessary to any agency for official use, to the seizing agency to be retained in its custody. Thereafter, the Administrator shall, within a reasonable time, order such agency to deliver the property to any other agency which requests and in his judgment should be given such property, or to dispose of it as otherwise provided by law,
 
-> and if forfeiture thereof is decreed, the court shall, in the event that the property is not ordered by competent authority to be returned to any claimant, order delivery accordingly. All the property for which no such application ismade shall be disposed of by the court in accordance with law.
+> and if forfeiture thereof is decreed, the court shall, in the event that the property is not ordered by competent authority to be returned to any claimant, order delivery accordingly. All the property for which no such application is made shall be disposed of by the court in accordance with law.
 
 (Aug. 27, 1935, ch. 740, title III, §304, 49 Stat. 880; June 30, 1949, ch. 288, title I, §102(a), 63 Stat. 380.)
 

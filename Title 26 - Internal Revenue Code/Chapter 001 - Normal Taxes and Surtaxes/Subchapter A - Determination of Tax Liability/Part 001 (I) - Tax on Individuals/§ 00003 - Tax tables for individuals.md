@@ -72,7 +72,7 @@ Tax table income defined.—For purposes of this section, the term ‘tax table 
 
 &emsp;“(5)
 
-Section may be applied on the basis of taxable income.—The Secretary may provide that thissection shall be applied for any taxable year on the basis of taxable income in lieu of tax table income.”
+Section may be applied on the basis of taxable income.—The Secretary may provide that this section shall be applied for any taxable year on the basis of taxable income in lieu of tax table income.”
 
 Subsec. (b). Pub. L. 99–514, §141(b)(1), struck out par. (1) which read: “an individual to whom section 1301 (relating to income averaging) applies for the taxable year,” and redesignated pars. (2) and (3) as (1) and (2), respectively.
 

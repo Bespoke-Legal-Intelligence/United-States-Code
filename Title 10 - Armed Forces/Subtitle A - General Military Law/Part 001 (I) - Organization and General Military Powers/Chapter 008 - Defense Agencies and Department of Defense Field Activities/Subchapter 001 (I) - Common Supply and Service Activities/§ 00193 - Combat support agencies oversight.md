@@ -24,13 +24,13 @@ Readiness Reporting System.—The Chairman shall develop, in consultation with t
 
 (d)
 
-Review of National Security Agency.—(1) Subsections (a), (b), and (c) shall apply to the National Security Agency, but only with respect to combat support functions the Agency performs for the Department of Defense.
+Review of National Security Agency and National Imagery and Mapping Agency.—(1) Subsections (a), (b), and (c) shall apply to the National Security Agency and the National Imagery and Mapping Agency, but only with respect to combat support functions that the agencies performs <sup>1</sup> for the Department of Defense.
 
-(2) The Secretary, after consulting with the Director of Central Intelligence, shall establish policies and procedures with respect to the application of subsections (a), (b), and (c) to the National Security Agency.
+(2) The Secretary, after consulting with the Director of Central Intelligence, shall establish policies and procedures with respect to the application of subsections (a), (b), and (c) to the National Security Agency and the National Imagery and Mapping Agency.
 
 (e)
 
-Combat Support Capabilities of DIA and NSA.—The Secretary of Defense, in consultation with the Director of Central Intelligence, shall develop and implement, as they may determine to be necessary, policies and programs to correct such deficiencies as the Chairman of the Joint Chiefs of Staff and other officials of the Department of Defense may identify in the capabilities of the Defense Intelligence Agency and the National Security Agency to accomplish assigned missions in support of military combat operations.
+Combat Support Capabilities of DIA, NSA, and NIMA.—The Secretary of Defense, in consultation with the Director of Central Intelligence, shall develop and implement, as they may determine to be necessary, policies and programs to correct such deficiencies as the Chairman of the Joint Chiefs of Staff and other officials of the Department of Defense may identify in the capabilities of the Defense Intelligence Agency, the National Security Agency, and theNational Imagery and Mapping Agency to accomplish assigned missions in support of military combat operations.
 
 (f)
 
@@ -42,13 +42,31 @@ Definition of Combat Support Agency.—In this section, the term “combat suppo
 
 &emsp;(3) The Defense Logistics Agency.
 
-&emsp;(4) The Defense Mapping Agency.
+&emsp;(4) The National Imagery and Mapping Agency.
 
 &emsp;(5) Any other Defense Agency designated as a combat support agency by the Secretary of Defense.
 
-(Added Pub. L. 99–433, title III, §301(a)(2), Oct. 1, 1986, 100 Stat. 1020.)
+(Added Pub. L. 99–433, title III, §301(a)(2), Oct. 1, 1986, 100 Stat. 1020; amended Pub. L. 104–201, div. A, title XI, §1112(c), Sept. 23, 1996, 110 Stat. 2683.)
+
+#### Amendments
+
+1996—Subsec. (d). Pub. L. 104–201, §1112(c)(1)(A), substituted “Review of National Security Agency and National Imagery and Mapping Agency” for “Review of National Security Agency” in heading.
+
+Subsec. (d)(1). Pub. L. 104–201, §1112(c)(1)(B), inserted “and the National Imagery and Mapping Agency” after “the National Security Agency” and substituted “that the agencies” for “the Agency”.
+
+Subsec. (d)(2). Pub. L. 104–201, §1112(c)(1)(C), inserted “and the National Imagery and Mapping Agency” after “the National Security Agency”.
+
+Subsec. (e). Pub. L. 104–201, §1112(c)(2), substituted “DIA, NSA, and NIMA” for “DIA and NSA” in heading and “, the National Security Agency, and the National Imagery and Mapping Agency” for “and the National Security Agency” in text.
+
+Subsec. (f)(4). Pub. L. 104–201, §1112(c)(3), substituted “The National Imagery and Mapping Agency” for “Defense Mapping Agency”.
+
+#### Effective Date of 1996 Amendment
+
+Section 1124 of title XI of div. A of Pub. L. 104–201 provided that: “This title \[enacting section 424 and chapter 22 of this title and sections 404e and 404f of Title 50, War and National Defense, amending this section, sections 201 and 451 to 456 of this title, sections 2302, 3132, 4301, 4701, 5102, 5342, 6339, and 7323 of Title 5, Government Organization and Employees, section 105 of the Ethics in Government Act of 1978, set out in the Appendix to Title 5, section 82 of Title 14, Coast Guard, section 2006 of Title 29, Labor, section 1336 of Title 44, Public Printing and Documents, and sections 401a and 403–5 of Title 50, renumbering chapter 22 and sections 451, 452, 2792 to 2796, and 2798 of this title as chapter 23 and sections 481, 482, 451 to 455, and 456 of this title, respectively, repealing sections 424, 425, 2791, and 2797 of this title, enacting provisions set out as notes under section 441 of this title, and amending provisions set out as a note under section 501 of Title 44\] and the amendments made by this title shall take effect on October 1, 1996, or the date of the enactment of this Act \[Sept. 23, 1996\], whichever is later.”
 
 #### First Report and Other Actions by Chairman of Joint Chiefs of Staff
 
-Section 304(b) of Pub. L. 99–433 required the first report under subsec. (a) of section 193 of this title to besubmitted and subsecs. (b) and (c) of section 193 to be implemented not later than one year after Oct. 1, 1986, and a report on implementation to be submitted to Congress for 1988 under section 113(c) of this title.
+Section 304(b) of Pub. L. 99–433 required the first report under subsec. (a) of section 193 of this title to be submitted and subsecs. (b) and (c) of section 193 to be implemented not later than one year after Oct. 1, 1986, and a report on implementation to be submitted to Congress for 1988 under section 113(c) of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “perform”.</i>
 

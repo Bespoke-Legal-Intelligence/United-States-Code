@@ -1,6 +1,6 @@
 ### §5121. Payment of certain accrued benefits upon death of a beneficiary
 
-(a) Except as provided in sections 3329 and 3330 of title 31, periodic monetary benefits (other than insurance and servicemen's indemnity) under laws administered by the Secretary to which an individual was entitled at death under existing ratings or decisions, or those based on evidence in the file at date of death (hereafter in this section and section 5122 of this title referred to as “accrued benefits”) and due and unpaid for a period not to exceed one year, shall, upon the death of such individual be paid as follows:
+(a) Except as provided in sections 3329 and 3330 of title 31, periodic monetary benefits (other than insurance and servicemen's indemnity) under laws administered by the Secretary to which an individual was entitled at death under existing ratings or decisions, or those based on evidence in the file at date of death (hereafter in this section and section 5122 of this title referred to as “accrued benefits”) and due and unpaid for a period not to exceed two years, shall, upon the death of such individual be paid as follows:
 
 &emsp;(1) Upon the death of a person receiving an apportioned share of benefits payable to a veteran, all or any part of such benefits to the veteran or to any other dependent or dependents of the veteran, as may be determined by the Secretary;
 
@@ -22,9 +22,11 @@
 
 (c) Applications for accrued benefits must be filed within one year after the date of death. If a claimant's application is incomplete at the time it is originally submitted, the Secretary shall notify the claimant of the evidence necessary to complete the application. If such evidence is not received within one year from the date of such notification, no accrued benefits may be paid.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1228, §3021; Pub. L. 92–328, title I, §105(b), June 30, 1972, 86 Stat. 395; Pub. L. 97–258, §3(k)(4), Sept. 13, 1982, 96 Stat. 1065; Pub. L. 98–160, title VII, §703(1), Nov. 21, 1983, 97 Stat. 1010; Pub. L. 99–576, title VII, §701(66), Oct. 28, 1986, 100 Stat. 3296; renumbered §5121 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §4(a)(1), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 403–405.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1228, §3021; Pub. L. 92–328, title I, §105(b), June 30, 1972, 86 Stat. 395; Pub. L. 97–258, §3(k)(4), Sept. 13, 1982, 96 Stat. 1065; Pub. L. 98–160, title VII, §703(1), Nov. 21, 1983, 97 Stat. 1010; Pub. L. 99–576, title VII, §701(66), Oct. 28, 1986, 100 Stat. 3296; renumbered §5121 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §4(a)(1), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 403–405; Pub. L. 104–275, title V, §507, Oct. 9, 1996, 110 Stat. 3343.)
 
 #### Amendments
+
+1996—Subsec. (a). Pub. L. 104–275 substituted “two years” for “one year” in introductory provisions.
 
 1991—Pub. L. 102–40, §402(b)(1), renumbered section 3021 of this title as this section.
 
@@ -52,5 +54,5 @@ Amendment by Pub. L. 92–328 effective first day of second calendar month which
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 5122 of this title.
+This section is referred to in sections 5122, 5310 of this title.
 

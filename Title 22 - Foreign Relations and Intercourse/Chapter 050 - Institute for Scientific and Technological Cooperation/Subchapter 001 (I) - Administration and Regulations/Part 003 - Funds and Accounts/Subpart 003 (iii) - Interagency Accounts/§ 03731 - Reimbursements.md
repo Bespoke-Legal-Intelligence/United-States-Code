@@ -20,7 +20,7 @@ Notwithstanding any other provision of law, funds appropriated (for any fiscal y
 
 #### (d) Reimbursement to departments or agencies furnishing services
 
-Amounts expended for furnishing services referred to in subsection (c) of this section to persons eligible to receive them, less amounts payable by such persons, shall be fully reimbursable to the department or agency furnishing the services, except to the extent that such expenditures are the responsibility of that department or agency. The appropriations or funds of the Commission shall be available for such reimbursements on behalf of—
+Amounts expended for furnishing services referred to in subsection (c) of this section to persons eligible to receive them, less amounts payable by such persons, shall be fully reimbursable to the department or agency furnishing the services, except to the extent that such expenditures are the responsibility of that department or agency. The funds of the Commission shall be available for such reimbursements on behalf of—
 
 &emsp;(1) employees of the Commission, and
 
@@ -36,25 +36,31 @@ The appropriations or funds of the Commission, or of any other department or age
 
 &emsp;(2) educational services provided by schools in the Republic of Panama or the United States, which are not operated by the United States, to employees of the Commission who are citizens of the United States and persons who were receiving such services at the expense of the Canal Zone Government before October 1, 1979.
 
+> Notwithstanding the provisions relating to the availability of adequate schools contained in section 5924(4)(A) of title 5, the Commission shall by regulation determine the extent to which costs of educational services may be defrayed under this subsection.
+
 #### (f) Reimbursement of United States by Republic of Panama for salaries and other employment costs
 
 For purposes of the reimbursement of the United States by the Republic of Panama for the salaries and other employment costs of employees of the Commission who are assigned to assist the Republic of Panama in the operation of activities which are transferred to that Government as a result of any provision of the Panama Canal Treaty of 1977 and related agreements, which reimbursement is provided for in paragraph 8 of Article 10 of that Treaty, the Commission shall be deemed to be the United States of America.
 
 #### (g) Operation of Canal Zone College
 
-Notwithstanding any other provision of law, the President, through the appropriate department or agency of the United States, shall, until January 1, 2000, operate the educational institution known as the “Canal Zone College”. Suchinstitution shall continue to provide, insofar as practicable, the level of services which it offered immediately before October 1, 1979.
+Notwithstanding any other provision of law, the President, through the appropriate department or agency of the United States, shall, until January 1, 2000, operate the educational institution known as the “Canal Zone College”. Such institution shall continue to provide, insofar as practicable, the level of services which it offered immediately before October 1, 1979.
 
 #### (h) Prohibition of funds for uses other than Commission activities
 
 Except as expressly provided in this chapter, funds available to the Panama Canal Commission may not be made available to any other agency as that term is defined in section 551 of title 5, nor may funds be authorized or appropriated for any function other than Panama Canal Commission activities.
 
-(Pub. L. 96–70, title I, §1321, Sept. 27, 1979, 93 Stat. 480; Pub. L. 99–223, §5(c), Dec. 28, 1985, 99 Stat. 1739; Pub. L. 100–705, §8, Nov. 19, 1988, 102 Stat. 4686; Pub. L. 102–484, div. C, title XXXV, §3512, Oct. 23, 1992, 106 Stat. 2655; Pub. L. 103–337, div. C, title XXXVI, §3604, Oct. 5, 1994, 108 Stat. 3112.)
+(Pub. L. 96–70, title I, §1321, Sept. 27, 1979, 93 Stat. 480; Pub. L. 99–223, §5(c), Dec. 28, 1985, 99 Stat. 1739; Pub. L. 100–705, §8, Nov. 19, 1988, 102 Stat. 4686; Pub. L. 102–484, div. C, title XXXV, §3512, Oct. 23, 1992, 106 Stat. 2655; Pub. L. 103–337, div. C, title XXXVI, §3604, Oct. 5, 1994, 108 Stat. 3112; Pub. L. 104–106, div. C, title XXXV, §3529(3), Feb. 10, 1996, 110 Stat. 642; Pub. L. 104–201, div. C, title XXXV, §3542, Sept. 23, 1996, 110 Stat. 2867.)
 
 #### References in Text
 
 This chapter, referred to in subsec. (h), was in the original “this Act”, meaning Pub. L. 96–70, Sept. 27, 1979, 93 Stat. 452, known as the Panama Canal Act of 1979, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of this title and Tables.
 
 #### Amendments
+
+1996—Subsec. (d). Pub. L. 104–106 struck out “appropriations or” before “funds of the Commission” in introductory provisions.
+
+Subsec. (e). Pub. L. 104–201 inserted concluding provisions “Notwithstanding the provisions relating to the availability of adequate schools contained in section 5924(4)(A) of title 5, the Commission shall by regulationdetermine the extent to which costs of educational services may be defrayed under this subsection.”
 
 1994—Subsec. (e)(2). Pub. L. 103–337 inserted “or the United States” after “schools in the Republic of Panama”.
 

@@ -1,6 +1,6 @@
 ### §9301. Members of Air Force: detail as students, observers, and investigators at educational institutions, industrial plants, and hospitals
 
-(a) The Secretary of the Air Force may detail members of the Air Force as students at such technical, professional, and other civilian educational institutions, or as students, observers, or investigators at such industrial plants, hospitals, and other places, as are best suited to enable them to acquire knowledge or experience in the specialties in which it is considered necessary that they perfect themselves.
+(a) The Secretary of the Air Force may detail members of the Air Force as students at suchtechnical, professional, and other civilian educational institutions, or as students, observers, or investigators at such industrial plants, hospitals, and other places, as are best suited to enable them to acquire knowledge or experience in the specialties in which it is considered necessary that they perfect themselves.
 
 (b) An officer, other than one of the Regular Air Force on the active-duty list, who is detailed under subsection (a) shall be ordered to additional active duty immediately upon termination of the detail, for a period at least as long as the detail. However, if the detail is for 90 days or less, the officer may be ordered to that additional duty only with his consent and in the discretion of the Secretary.
 
@@ -28,11 +28,17 @@ Historical and Revision Notes
 
 9301(b)
 
+&nbsp;
+
 9301(c)
 
 9301(d)
 
+&nbsp;
+
 9301(e)
+
+&nbsp;
 
 9301(f).
 

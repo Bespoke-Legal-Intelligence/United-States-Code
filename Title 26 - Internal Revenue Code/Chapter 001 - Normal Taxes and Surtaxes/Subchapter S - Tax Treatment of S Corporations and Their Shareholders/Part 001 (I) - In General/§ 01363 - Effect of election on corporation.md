@@ -50,7 +50,7 @@ The taxable income of an S corporation shall be computed in the same manner as i
 
 #### (B) Date for payment of installments
 
-&emsp;&emsp;The first installment under subparagraph (A) shall be paid on or before the due date\(determined without regard to extensions) for the return of the tax imposed by this chapter for the last taxable year for which the corporation was a C corporation and the 3 succeeding installments shall be paid on or before the due date (as so determined) for the corporation's return for the 3 succeeding taxable years.
+&emsp;&emsp;The first installment under subparagraph (A) shall be paid on or before the due date (determined without regard to extensions) for the return of the tax imposed by this chapter for the last taxable year for which the corporation was a C corporation and the 3 succeeding installments shall be paid on or before the due date (as so determined) for the corporation's return for the 3 succeeding taxable years.
 
 #### (C) No interest for period of extension
 
@@ -134,7 +134,7 @@ In general.—Except as provided in paragraph (2) the amendment made by subsecti
 
 Exception.—The amendment made by subsection (a) shall not apply in the case of any election made by a corporation after December 17, 1987, and before January 1, 1989, if, on or before December 17, 1987—
 
-&emsp;“(A) there was a resolution adopted by the board of directors of such corporation to make an election under subchapter S of chapter 1 of the Internal Revenue Code of 1986, or
+&emsp;“(A) there was a resolution adopted by the board of directors of such corporation to make an electionunder subchapter S of chapter 1 of the Internal Revenue Code of 1986, or
 
 &emsp;“(B) there was a ruling request with respect to the business filed with the Internal Revenue Service expressing an intent to make such an election.”
 

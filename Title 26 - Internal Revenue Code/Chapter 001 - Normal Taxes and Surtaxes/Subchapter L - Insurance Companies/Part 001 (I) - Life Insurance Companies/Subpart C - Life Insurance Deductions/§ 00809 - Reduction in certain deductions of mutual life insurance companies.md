@@ -82,7 +82,7 @@ For purposes of this section—
 
 #### (ii) Tax reserves
 
-&emsp;&emsp;&emsp;The term “tax reserves” means the aggregate of the items described in section807(c) as determined for purposes of section 807.
+&emsp;&emsp;&emsp;The term “tax reserves” means the aggregate of the items described in section 807(c) as determined for purposes of section 807.
 
 #### (5) Increase by amount of certain other reserves
 
@@ -152,7 +152,7 @@ For purposes of this section—
 
 #### (B) Earnings rate
 
-&emsp;&emsp;For purposes of subparagraph (A), the earnings rate of any stock company is the percentage (determined by the Secretary) which—
+&emsp;&emsp;For purposes of subparagraph (A), the earnings rate of any stock company is thepercentage (determined by the Secretary) which—
 
 &emsp;&emsp;&emsp;(i) the statement gain or loss from operations for the calendar year of such company, is of
 
@@ -304,19 +304,21 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) the amount which would be its average equity base if its equity percentage equaled the following percentage:
 
-<b>   For taxable years beginning in:</b>
+<b>   For taxable years</b>
+
+<b>    beginning in:</b>
 
 <b>The percentage is:</b>
 
-&emsp;&emsp;&nbsp;1984
+&emsp;&emsp;&nbsp;&nbsp;1984
 
 14\.5
 
-&emsp;&emsp;&nbsp;1985 or 1986
+&emsp;&emsp;&nbsp;&nbsp;1985 or 1986
 
-14&nbsp;&nbsp;
+14&nbsp;&nbsp;&nbsp;
 
-&emsp;&emsp;&nbsp;1987 or 1988
+&emsp;&emsp;&nbsp;&nbsp;1987 or 1988
 
 13\.5
 
@@ -338,23 +340,23 @@ For purposes of this section—
 
 &emsp;&emsp;&nbsp;1984
 
-100&nbsp;
+100&nbsp;&nbsp;
 
 &emsp;&emsp;&nbsp;1985
 
-80&nbsp;
+80&nbsp;&nbsp;
 
 &emsp;&emsp;&nbsp;1986
 
-60&nbsp;
+60&nbsp;&nbsp;
 
 &emsp;&emsp;&nbsp;1987
 
-40&nbsp;
+40&nbsp;&nbsp;
 
 &emsp;&emsp;&nbsp;1988
 
-20&nbsp;
+20&nbsp;&nbsp;
 
 &emsp;&emsp;&nbsp;1989 or thereafter
 

@@ -36,7 +36,7 @@ Any person who commits an act that is unlawful under paragraph (2), (3), (4), or
 
 #### (e) Enforcement
 
-The Secretary and the Secretary of the department in which the Coast Guard is operatingshall enforce the provisions of this chapter and shall have the authority specified in sections <sup>1</sup> 1861(a), (b)(1), and (c) of this title for that purpose.
+The Secretary and the Secretary of the department in which the Coast Guard is operating shall enforce the provisions of this chapter and shall have the authority specified in sections <sup>1</sup> 1861(a), (b)(1), and (c) of this title for that purpose.
 
 #### (f) Jurisdiction of courts
 

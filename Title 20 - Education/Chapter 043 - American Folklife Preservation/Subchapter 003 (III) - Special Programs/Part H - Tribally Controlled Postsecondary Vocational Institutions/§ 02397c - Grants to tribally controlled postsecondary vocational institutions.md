@@ -2,7 +2,7 @@
 
 #### (a) Applications
 
-Any tribally controlled postsecondary vocational institution that desires to receive a grantunder this part shall submit an application to the Secretary. Such application shall include a description of recordkeeping procedures for the expenditure of funds received under this part which will allow the Secretary to audit and monitor programs.
+Any tribally controlled postsecondary vocational institution that desires to receive a grant under this part shall submit an application to the Secretary. Such application shall include a description of recordkeeping procedures for the expenditure of funds received under this part which will allow the Secretary to audit and monitor programs.
 
 #### (b) Initial grants
 

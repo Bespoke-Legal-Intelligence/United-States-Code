@@ -2,7 +2,7 @@
 
 Participants in the Scholarship Program shall not by reason of their participation in such program (1) be considered to be employees of the Federal Government, or (2) be counted against any personnel ceiling affecting the Veterans Health Administration.
 
-(Added Pub. L. 100–322, title II, §216(b), May 20, 1988, 102 Stat. 522, §4315; renumbered §7615, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 103–446, title XII, §1201(b)(1), Nov. 2, 1994, 108 Stat. 4682.)
+(Added Pub. L. 100–322, title II, §216(b), May 20, 1988, 102 Stat. 522, §4315; renumbered §7615, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; amended Pub. L. 103–446, title XII, §1201(b)(1), Nov. 2, 1994, 108 Stat. 4682.)
 
 #### Amendments
 

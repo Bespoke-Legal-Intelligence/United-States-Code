@@ -100,7 +100,9 @@ Rail Transportation Treated Equally.—When authorizing transportation in the co
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -186,7 +188,7 @@ Oct. 30, 1970, Pub. L. 91–518, 84 Stat. 1327, §306(g); added June 22, 1972, P
 
 24301(h)
 
-45:546(<i>l).</i>
+45:546(<i>l</i>).
 
 Oct. 30, 1970, Pub. L. 91–518, 84 Stat. 1327, §306(<i>l</i>); added Sept. 29, 1979, Pub. L. 96–73, §112(c), 93 Stat. 541.
 
@@ -206,7 +208,7 @@ Jan. 2, 1974, Pub. L. 93–236, 87 Stat. 985, §711 (words “, the National Ra
 
 Oct. 30, 1970, Pub. L. 91–518, 84 Stat. 1327, §306(n); added Aug. 13, 1981, Pub. L. 97–35, §1178, 95 Stat. 692; restated Oct. 27, 1992, Pub. L. 102–533, §6, 106 Stat. 3517.
 
-24301(<i>l)</i>
+24301(<i>l</i>)
 
 45:546b.
 
@@ -279,4 +281,8 @@ Pub. L. 101–610, title VI, §601(d), (e), Nov. 16, 1990, 104 Stat. 3186, provi
 “(d) Not later than 1 year after the date of enactment of this Act \[Nov. 16, 1990\], the Secretary of Transportation, after appropriate notice and comment, and in consultation with the National Railroad Passenger Corporation, the Administrator of the Environmental Protection Agency, the Surgeon General, and State and local officials shall promulgate such regulations as may be necessary to mitigate the impact of the discharge of human waste from railroad passenger cars on areas that may be considered environmentally sensitive.
 
 “(e) Not later than 1 year after the date of enactment of this Act \[Nov. 16, 1990\], the Secretary of Transportation shall promulgate regulations directing the National Railroad Passenger Corporation to, where appropriate, publish printed information, and make public address announcements, explaining its existing disposal technology and the retrofit and new equipment program, and encouraging passengers using existing equipment not to dispose of wastes in stations, railroad yards, or while the train is moving through environmentally sensitive areas.”
+
+#### Exemption From Laws Relating to Abandoned or Unclaimed Property
+
+Pub. L. 104–205, title III, §347, Sept. 30, 1996, 110 Stat. 2976, provided that: “Hereinafter, the National Railroad Passenger Corporation (Amtrak) shall be exempted from any State or local law relating to the payment or delivery of abandoned or unclaimed personal property to any government authority, including any provision for the enforcement thereof, with respect to passenger rail tickets for which no refund has been or may be claimed, and such law shall not apply to funds held by Amtrak as a result of the purchase of tickets after April 30, 1972 for which no refund has been claimed.”
 

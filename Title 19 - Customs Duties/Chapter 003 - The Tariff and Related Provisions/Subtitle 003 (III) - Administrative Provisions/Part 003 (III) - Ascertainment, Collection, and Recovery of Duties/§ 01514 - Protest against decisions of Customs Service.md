@@ -2,7 +2,7 @@
 
 #### (a) Finality of decisions; return of papers
 
-Except as provided in subsection (b) of this section, section 1501 of this title (relating to voluntary reliquidations), section 1516 of this title (relating to petitions by domestic interested parties), section 1520 of this title (relating to refunds and errors), and section 1521 <sup>1</sup> of this title (relating to reliquidations on account of fraud), decisions of the Customs Service, including the legality of all orders and findings entering into the same, as to—
+Except as provided in subsection (b) of this section, section 1501 of this title (relating to voluntary reliquidations), section 1516 of this title (relating to petitions by domestic interested parties), and section 1520 of this title (relating to refunds and errors), decisions of the Customs Service, including the legality of all orders and findings entering into the same, as to—
 
 &emsp;(1) the appraised value of merchandise;
 
@@ -18,7 +18,7 @@ Except as provided in subsection (b) of this section, section 1501 of this title
 
 &emsp;(7) the refusal to reliquidate an entry under section 1520(c) of this title;
 
-> shall be final and conclusive upon all persons (including the United States and any officer thereof) unless a protest is filed in accordance with this section, or unless a civil action contesting the denial of a protest, in whole or in part, is commenced in the United States Court of International Trade in accordance with chapter 169 of title 28 within the time prescribed by section 2636 of that title. When a judgment or order of the United States Court of International Trade has become final, the papers transmitted shall be returned, together with a copy of the judgment or order to the Customs Service, which shall take action accordingly.
+> shall be final and conclusive upon all persons (including the United States and any officer thereof) unless a protest is filed in accordance with this section, or unless a civil action contesting the denial of a protest, in whole or in part, is commenced in the United States Court of International Trade in accordance with chapter 169 of title 28 within the time prescribed by section 2636 of that title. When a judgment ororder of the United States Court of International Trade has become final, the papers transmitted shall be returned, together with a copy of the judgment or order to the Customs Service, which shall take action accordingly.
 
 #### (b) Finality of determinations
 
@@ -36,7 +36,7 @@ With respect to determinations made under section 1303 <sup>1</sup> of this tit
 
 &emsp;(D) any other matter required by the Secretary by regulation.
 
-> Only one protest may be filed for each entry of merchandise, except that where the entry covers merchandise of different categories, a separate protest may be filed for each category. In addition, separate protests filed by different authorized persons with respect to any one category of merchandise, or with respect to a determination of origin under section 3332 of this title, that is the subject of a protest are deemed to be part ofa single protest. A protest may be amended, under regulations prescribed by the Secretary, to set forth objections as to a decision or decisions described in subsection (a) of this section which were not the subject of the original protest, in the form and manner prescribed for a protest, any time prior to the expiration of the time in which such protest could have been filed under this section. New grounds in support of objections raised by a valid protest or amendment thereto may be presented for consideration in connection with the review of such protest pursuant to section 1515 of this title at any time prior to the disposition of the protest in accordance with that section.
+> Only one protest may be filed for each entry of merchandise, except that where the entry covers merchandise of different categories, a separate protest may be filed for each category. In addition, separate protests filed by different authorized persons with respect to any one category of merchandise, or with respect to a determination of origin under section 3332 of this title, that is the subject of a protest are deemed to be part of a single protest. A protest may be amended, under regulations prescribed by the Secretary, to set forth objections as to a decision or decisions described in subsection (a) of this section which were not the subject of the original protest, in the form and manner prescribed for a protest, any time prior to the expiration of the time in which such protest could have been filed under this section. New grounds in support of objections raised by a valid protest or amendment thereto may be presented for consideration in connection with the review of such protest pursuant to section 1515 of this title at any time prior to the disposition of the protest in accordance with that section.
 
 (2) Except as provided in sections 1485(d) and 1557(b) of this title, protests may be filed with respect to merchandise which is the subject of a decision specified in subsection (a) of this section by—
 
@@ -78,11 +78,9 @@ If the Customs Service finds indications of a pattern of conduct by an exporter 
 
 > until the person establishes to the satisfaction of the Customs Service that its representations are in conformity with section 3332 of this title.
 
-(June 17, 1930, ch. 497, title IV, §514, 46 Stat. 734; June 2, 1970, Pub. L. 91–271, title II, §207, 84 Stat. 284; July 26, 1979, Pub. L. 96–39, title X, §1001(b)(3), 93 Stat. 305; Oct. 10, 1980, Pub. L. 96–417, title VI, §§601(5), 605, 94 Stat. 1744; Oct. 30, 1984, Pub. L. 98–573, title VI, §612(b)(1), 98 Stat. 3034; Oct. 22, 1986, Pub. L. 99–514, title XVIII, §1888(4), 100 Stat. 2924; Sept. 28, 1988, Pub. L. 100–449, title IV, §403(b), 102 Stat. 1884; Dec. 8, 1993, Pub. L. 103–182, title II, §208, title IV, §412(a), title VI, §645, 107 Stat. 2097, 2146, 2206.)
+(June 17, 1930, ch. 497, title IV, §514, 46 Stat. 734; June 2, 1970, Pub. L. 91–271, title II, §207, 84 Stat.284; July 26, 1979, Pub. L. 96–39, title X, §1001(b)(3), 93 Stat. 305; Oct. 10, 1980, Pub. L. 96–417, title VI, §§601(5), 605, 94 Stat. 1744; Oct. 30, 1984, Pub. L. 98–573, title VI, §612(b)(1), 98 Stat. 3034; Oct. 22, 1986, Pub. L. 99–514, title XVIII, §1888(4), 100 Stat. 2924; Sept. 28, 1988, Pub. L. 100–449, title IV, §403(b), 102 Stat. 1884; Dec. 8, 1993, Pub. L. 103–182, title II, §208, title IV, §412(a), title VI, §645, 107 Stat. 2097, 2146, 2206; Oct. 11, 1996, Pub. L. 104–295, §21(e)(7), 110 Stat. 3531.)
 
 #### References in Text
-
-Section 1521 of this title, referred to in subsec. (a), was repealed by Pub. L. 103–182, title VI, §618, Dec. 8, 1993, 107 Stat. 2180.
 
 The customs laws, referred to in subsec. (a)(4), are classified generally to this title.
 
@@ -101,6 +99,8 @@ Provisions that the decision of the collector as to duties, including dutiable c
 Provisions relating to decisions of the collector, and appeals therefrom to the Secretary of the Treasury were contained in R.S. §§2931, 2932, prior to repeal by section 29 of the Customs Administrative Act, 26 Stat. 141.
 
 #### Amendments
+
+1996—Subsec. (a). Pub. L. 104–295 substituted “and section 1520 of this title (relating to refunds and errors)” for “section 1520 of this title (relating to refunds and errors), and section 1521 of this title (relating to reliquidations on account of fraud)”.
 
 1993—Pub. L. 103–182, §645(7), amended section catchline generally.
 

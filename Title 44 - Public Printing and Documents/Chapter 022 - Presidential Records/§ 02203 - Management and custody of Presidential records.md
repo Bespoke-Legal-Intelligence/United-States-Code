@@ -12,7 +12,7 @@
 
 (d) In the event the Archivist notifies the President under subsection (c) that he does intend to take action under subsection (e), the President may dispose of such Presidential records if copies of the disposal schedule are submitted to the appropriate Congressional Committees at least 60 calendar days of continuous session of Congress in advance of the proposed disposal date. For the purpose of this section, continuity of session is broken only by an adjournment of Congress sine die, and the days on which either House is not in session because of an adjournment of more than three days to a day certain are excluded in the computation of the days in which Congress is in continuous session.
 
-(e) The Archivist shall request the advice of the Committee on Rules and Administration and the Committee on Governmental Affairs of the Senate and the Committee on House Administration and the Committee on Government Operations of the House of Representatives with respect to any proposed disposal of Presidential records whenever he considers that—
+(e) The Archivist shall request the advice of the Committee on Rules and Administration and the Committee on Governmental Affairs of the Senate and the Committee on House Oversight and the Committee on Government Operations of the House of Representatives with respect to any proposed disposal of Presidential records whenever he considers that—
 
 &emsp;(1) these particular records may be of special interest to the Congress; or
 
@@ -24,15 +24,19 @@
 
 (3) The Archivist is authorized to dispose of such Presidential records which he has appraised and determined to have insufficient administrative, historical, informational, or evidentiary value to warrant their continued preservation. Notice of such disposal shall be published in the Federal Register at least 60 days in advance of the proposed disposal date. Publication of such notice shall constitute a final agency action for purposes of review under chapter 7 of title 5, United States Code.
 
-(Added Pub. L. 95–591, §2(a), Nov. 4, 1978, 92 Stat. 2524.)
+(Added Pub. L. 95–591, §2(a), Nov. 4, 1978, 92 Stat. 2524; amended Pub. L. 104–186, title II, §223(9), Aug. 20, 1996, 110 Stat. 1752.)
 
 #### References in Text
 
 This Act, referred to in subsec. (f)(1), means Pub. L. 95–591, Nov. 4, 1978, 92 Stat. 2523, known as the Presidential Records Act of 1978, which enacted this chapter, amended sections 2107 and 2108 of this title, and enacted provisions set out as notes under section 2201 of this title. For complete classification of this Act to the Code, see Short Title of 1978 Amendment note set out under section 101 of this title and Tables.
 
+#### Amendments
+
+1996—Subsec. (e). Pub. L. 104–186 substituted “House Oversight” for “House Administration”.
+
 #### Change of Name
 
-Committee on House Administration of House of Representatives treated as referring to Committee on House Oversight of House of Representatives and Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Classified National Security Information
 

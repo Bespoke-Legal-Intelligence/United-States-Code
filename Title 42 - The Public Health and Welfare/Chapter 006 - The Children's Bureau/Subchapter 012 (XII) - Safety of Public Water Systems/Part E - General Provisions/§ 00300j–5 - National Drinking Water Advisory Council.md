@@ -2,7 +2,7 @@
 
 #### (a) Establishment; membership; representation of interests; term of office, vacancies; reappointment
 
-There is established a National Drinking Water Advisory Council which shall consist of fifteen members appointed by the Administrator after consultation with the Secretary. Five members shall be appointed from the general public; five members shall be appointed from appropriate State and local agencies concerned with water hygiene and public water supply; and five members shall be appointed from representatives of private organizations or groups demonstrating an active interest in the field of water hygiene and public water supply. Each member of the Council shall hold office for a term of three years, except that—
+There is established a National Drinking Water Advisory Council which shall consist of fifteen members appointed by the Administrator after consultation with the Secretary. Five members shall be appointed from the general public; five members shall be appointed from appropriate State and local agencies concerned with water hygiene and public water supply; and five members shall be appointed from representatives of private organizations or groups demonstrating an active interest in the field of water hygiene and public water supply, of which two such members shall be associated with small, rural public water systems. Each member of the Council shall hold office for a term of three years, except that—
 
 &emsp;(1) any member appointed to fill a vacancy occurring prior to the expiration of the term for which his predecessor was appointed shall be appointed for the remainder of such term; and
 
@@ -16,19 +16,23 @@ The Council shall advise, consult with, and make recommendations to, the Adminis
 
 #### (c) Compensation and allowances; travel expenses
 
-Members of the Council appointed under this section shall, while attending meetings or conferences of the Council or otherwise engaged in business of the Council, receive compensation and allowances at a rate to be fixed by the Administrator, but not exceeding the daily equivalent of the annual rate of basic pay in effect for grade GS–18 of the General Schedule for each day (including traveltime) during which they are engaged in the actual performance of duties vested in the Council. While away from their homes or regular places of business in the performance of services for the Council, members of the Council shall be allowed travel expenses, including per diem in lieu of subsistence, in the same manner as persons employed intermittently in the Government service are allowed expenses under section 5703(b) <sup>1</sup> of title 5.
+Members of the Council appointed under this section shall, while attending meetings or conferences of the Council or otherwise engaged in business of the Council, receive compensation and allowances at a rate to be fixed by the Administrator, but not exceeding the daily equivalent of the annual rate of basic pay in effect for grade GS–18 of the General Schedule for each day (including traveltime) during which they are engaged in the actual performance of duties vested in the Council. While away from their homes or regular places of business in the performance of services for the Council, members ofthe Council shall be allowed travel expenses, including per diem in lieu of subsistence, in the same manner as persons employed intermittently in the Government service are allowed expenses under section 5703(b) <sup>1</sup> of title 5.
 
 #### (d) Advisory committee termination provision inapplicable
 
 Section 14(a) of the Federal Advisory Committee Act (relating to termination) shall not apply to the Council.
 
-(July 1, 1944, ch. 373, title XIV, §1446, as added Dec. 16, 1974, Pub. L. 93–523, §2(a), 88 Stat. 1688.)
+(July 1, 1944, ch. 373, title XIV, §1446, as added Dec. 16, 1974, Pub. L. 93–523, §2(a), 88 Stat. 1688; amended Aug. 6, 1996, Pub. L. 104–182, title I, §127, 110 Stat. 1659.)
 
 #### References in Text
 
 Section 5703 of title 5, referred to in subsec. (c), was amended generally by Pub. L. 94–22, §4, May 19, 1975, 89 Stat. 85, and, as so amended, does not contain a subsec. (b).
 
 Section 14(a) of the Federal Advisory Committee Act, referred to in subsec. (d), is section 14(a) of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### Amendments
+
+1996—Subsec. (a). Pub. L. 104–182 inserted “, of which two such members shall be associated with small, rural public water systems” before period at end of second sentence.
 
 #### Termination of Advisory Committees
 

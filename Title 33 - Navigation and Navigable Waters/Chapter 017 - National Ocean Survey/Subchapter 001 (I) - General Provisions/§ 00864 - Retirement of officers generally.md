@@ -6,7 +6,7 @@ All laws relating to the retirement of commissioned officers of the Navy shall, 
 
 #### Codification
 
-Section is based on section 11 (words between the first semicolon and the proviso) of act May 18, 1920. Section 11 (words before the first semicolon) of the 1920 act, which was classified to section 860 of this title, was repealed by Pub. L. 87–649, §14(b), Sept. 7, 1962, 76 Stat. 499. Section 11 (proviso) of the 1920 act, which was classified to section 683 of former Title 10, Army; section 864a of this title; section 879b of former Title 34, Navy; section 4a of former Title 37, Pay and Allowances; andsection 62 of Title 42, The Public Health and Welfare; was repealed by act Aug. 10, 1956 ch. 1041, §53, 70A Stat. 662.
+Section is based on section 11 (words between the first semicolon and the proviso) of act May 18, 1920. Section 11 (words before the first semicolon) of the 1920 act, which was classified to section 860 of this title, was repealed by Pub. L. 87–649, §14(b), Sept. 7, 1962, 76 Stat. 499. Section 11 (proviso) of the 1920 act, which was classified to section 683 of former Title 10, Army; section 864a of this title; section 879b of former Title 34, Navy; section 4a of former Title 37, Pay and Allowances; and section 62 of Title 42, The Public Health and Welfare; was repealed by act Aug. 10, 1956 ch. 1041, §53, 70A Stat. 662.
 
 #### Transfer of Functions
 

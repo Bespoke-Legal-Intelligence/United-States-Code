@@ -2,7 +2,7 @@
 
 #### (a) Bond; charges against bond
 
-Any plant engaged in smelting or refining, or both, of metal-bearing materials as defined in this section may, upon the giving of satisfactory bond, be designated a bonded smelting or refining warehouse. Metal-bearing materials may be entered into a bonded smelting or refining warehouse without the payment of duties thereonand there smelted or refined, or both, together with metal-bearing materials of domestic or foreign origin. Upon arrival of imported metal-bearing materials at the warehouse they shall be sampled according to commercial methods and assayed, both under customs supervision. The bond shall be charged with a sum equal in amount to the duties which would be payable on such metal-bearing materials in their condition as imported if entered for consumption, and the bond charge shall be adjusted to reflect changes in the applicable rate of duty occurring while the imported materials are still covered by the bond.
+Any plant engaged in smelting or refining, or both, of metal-bearing materials as defined in this section may, upon the giving of satisfactory bond, be designated a bonded smelting or refining warehouse. Metal-bearing materials may be entered into a bonded smelting or refining warehouse without the payment of duties thereon and there smelted or refined, or both, together with metal-bearing materials of domestic or foreign origin. Upon arrival of imported metal-bearing materials at the warehouse they shall be sampled according to commercial methods and assayed, both under customs supervision. The bond shall be charged with a sum equal in amount to the duties which would be payable on such metal-bearing materials in their condition as imported if entered for consumption, and the bond charge shall be adjusted to reflect changes in the applicable rate of duty occurring while the imported materials are still covered by the bond.
 
 #### (b) Cancellation of charges against bond
 
@@ -70,11 +70,11 @@ Labor performed and services rendered pursuant to this section shall be under th
 
 Sections 202 and 204 of the United States-Canada Free-Trade Agreement Implementation Act of 1988, referred to in subsecs. (b) and (d), are sections 202 and 204 of Pub. L. 100–449, which are set out in a note under section 2112 of this title.
 
-The Harmonized Tariff Schedule of the United States, referred to in subsec. (f), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of this title.
+The Harmonized Tariff Schedule of the United States, referred to in subsec. (f), is not set out in the Code. SeePublication of Harmonized Tariff Schedule note set out under section 1202 of this title.
 
 #### Prior Provisions
 
-Provisions similar to those of this section were contained in act Oct. 3, 1913, ch. 16, §IV, N, subsection 1, 38 Stat. 198, which was superseded by act Sept. 21, 1922, ch. 356, title III, §312, 42 Stat. 940, and repealed by section 321 thereof. Section 312 of the act of 1922 was superseded by section 312 of act June 17, 1930, and repealed by section 651(a)(1) of the 1930 act.
+Provisions similar to those in this section were contained in act Oct. 3, 1913, ch. 16, §IV, N, subsection 1, 38 Stat. 198, which was superseded by act Sept. 21, 1922, ch. 356, title III, §312, 42 Stat. 940, and repealed by section 321 thereof. Section 312 of the act of 1922 was superseded by section 312 of act June 17, 1930, and repealed by section 651(a)(1) of the 1930 act.
 
 Provisions more or less similar were contained in the Payne-Aldrich Tariff Act of Aug. 5, 1909, ch. 6, §24, 36 Stat. 89, the Dingley Tariff Act of July 24, 1897, ch. 11, §29, 30 Stat. 210, the McKinley Tariff Act of Oct. 1, 1890, ch. 1244, §24, 26 Stat. 617, and the Wilson Tariff Act of Aug. 27, 1894, ch. 349, §21, 28 Stat. 551.
 
@@ -88,7 +88,7 @@ Subsec. (b)(1). Pub. L. 103–182, §203(b)(2)(A), struck out “(other than exp
 
 Subsec. (b)(4). Pub. L. 103–182, §203(b)(2)(A), struck out “(other than exportation to Canada on or after January 1, 1994, or such later date as may be proclaimed by the President under section 204(b)(2)(B) of the United States-Canada Free-Trade Agreement Implementation Act of 1988, except to the extent that the metal-bearing materials were of Canadian origin as determined in accordance with section 202 of such Act of 1988)” after “warehouse for exportation” and inserted provisions excepting goods withdrawn for exportation to a NAFTA country.
 
-Subsec. (d). Pub. L. 103–182, §203(b)(2)(C), struck out “(other than exportation to Canada on or after January 1, 1994, or such later date as may be proclaimed by thePresident under section 204(b)(2)(B) of the United States-Canada Free-Trade Agreement Implementation Act of 1988, except to the extent that the product is a drawback eligible good under section 204(a) of such Act of 1988)” after “Upon the exportation” and inserted before concluding period provisions excepting goods withdrawn for exportation to a NAFTA country, including pars. (1) and (2), as well as sentence relating to conditions arising should Canada cease to be a NAFTA country.
+Subsec. (d). Pub. L. 103–182, §203(b)(2)(C), struck out “(other than exportation to Canada on or after January 1, 1994, or such later date as may be proclaimed by the President under section 204(b)(2)(B) of the United States-Canada Free-Trade Agreement Implementation Act of 1988, except to the extent that the product is a drawback eligible good under section 204(a) of such Act of 1988)” after “Upon the exportation” and inserted before concluding period provisions excepting goods withdrawn for exportation to a NAFTA country, including pars. (1) and (2), as well as sentence relating to conditions arising should Canada cease to be a NAFTA country.
 
 1988—Subsec. (b)(1), (4). Pub. L. 100–449, §204(c)(2)(A), inserted “(other than exportation to Canada on or after January 1, 1994, or such later date as may be proclaimed by the President under section 204(b)(2)(B) of the United States-Canada Free-Trade Agreement Implementation Act of 1988, except to the extent that the metal-bearing materials were of Canadian origin as determined in accordance with section 202 of such Act of 1988)” after “exportation”.
 

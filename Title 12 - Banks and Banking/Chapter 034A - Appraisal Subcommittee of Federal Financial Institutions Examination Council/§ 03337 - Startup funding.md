@@ -8,11 +8,19 @@ For purposes of this chapter, the Secretary of the Treasury shall pay to the App
 
 Except as provided in section 3351(b) <sup>1</sup> of this title, funds in addition to the funds provided under subsection (a) of this section may be made available to the Appraisal Subcommittee only if authorized and appropriated by law.
 
-(Pub. L. 101–73, title XI, §1108, Aug. 9, 1989, 103 Stat. 513.)
+#### (c) Repayment of Treasury loan
+
+Not later than September 30, 1998, the Appraisal Subcommittee shall repay to the Secretary of the Treasury the unpaid portion of the $5,000,000 paid to the Appraisal Subcommittee pursuant to this section.
+
+(Pub. L. 101–73, title XI, §1108, Aug. 9, 1989, 103 Stat. 513; Pub. L. 104–208, div. A, title II, §2212, Sept. 30, 1996, 110 Stat. 3009–411.)
 
 #### References in Text
 
 Section 3351(b) of this title, referred to in text, was redesignated section 3351(c) of this title by Pub. L. 103–325, title III, §315(1), Sept. 23, 1994, 108 Stat. 2222.
+
+#### Amendments
+
+1996—Subsec. (c). Pub. L. 104–208 added subsec. (c).
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

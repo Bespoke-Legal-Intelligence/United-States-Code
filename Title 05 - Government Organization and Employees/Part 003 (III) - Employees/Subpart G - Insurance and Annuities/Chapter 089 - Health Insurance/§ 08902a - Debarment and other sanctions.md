@@ -100,7 +100,7 @@
 
 (6) The Office shall, upon written request and payment of a reasonable charge to defray the cost of complying with such request, furnish a current list of any providers barred from participating in the program under this chapter, including the minimum period of time remaining under the terms of each provider's debarment.
 
-(g)(1) The Office may not make a determination under subsection (b) or (c) adverse to a provider of health care services or supplies until such provider has been given written notice and an opportunity for a hearing on the record. A provider is entitled to be represented by counsel, to present witnesses, and to cross-examine witnesses against the provider in any such hearing.
+(g)(1) The Office may not make a determination under subsection (b) or (c) adverse to a provider of health care services or supplies until such provider has been given written notice andan opportunity for a hearing on the record. A provider is entitled to be represented by counsel, to present witnesses, and to cross-examine witnesses against the provider in any such hearing.
 
 (2) Notwithstanding section 8912, any person adversely affected by a final decision under paragraph (1) may obtain review of such decision in the United States Court of Appeals for the Federal Circuit. A written petition requesting that the decision be modified or set aside must be filed within 60 days after the date on which such person is notified of such decision.
 

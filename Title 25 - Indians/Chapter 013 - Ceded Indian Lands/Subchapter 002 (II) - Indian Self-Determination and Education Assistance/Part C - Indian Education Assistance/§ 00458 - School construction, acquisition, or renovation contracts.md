@@ -14,7 +14,7 @@ The Secretary may expend not more than 25 per centum of such funds as may be aut
 
 #### (d) Duties of State education agencies pursuant to contracts
 
-Any contract entered into by the Secretary pursuant to this section shall contain provisionsrequiring the relevant State educational agency to—
+Any contract entered into by the Secretary pursuant to this section shall contain provisions requiring the relevant State educational agency to—
 
 &emsp;(1) provide Indian students attending any such facilities constructed, acquired, or renovated, in whole or in part, from funds made available pursuant to this section with standards of education not less than those provided non-Indian students in the school district in which the facilities are situated; and
 

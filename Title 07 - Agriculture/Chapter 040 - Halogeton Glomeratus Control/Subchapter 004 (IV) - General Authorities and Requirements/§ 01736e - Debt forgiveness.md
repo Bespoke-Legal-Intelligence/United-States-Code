@@ -46,7 +46,7 @@ Subsec. (b). Pub. L. 102–237, §336, inserted “at least 10 days prior to pro
 
 Subsec. (e). Pub. L. 102–237, §322, substituted “November 28, 1990” for “the date of enactment of this Act”.
 
-1990—Pub. L. 101–624 amended section generally, substituting present provisions for provisions prohibiting assistance under subchapters II, III and III–A of this chapter to North Vietnam after July 1, 1973, unless specifically authorized by Act of Congress.
+1990—Pub. L. 101–624 amended section generally, substituting present provisions for provisions prohibitingassistance under subchapters II, III and III–A of this chapter to North Vietnam after July 1, 1973, unless specifically authorized by Act of Congress.
 
 #### Effective Date of 1990 Amendment
 

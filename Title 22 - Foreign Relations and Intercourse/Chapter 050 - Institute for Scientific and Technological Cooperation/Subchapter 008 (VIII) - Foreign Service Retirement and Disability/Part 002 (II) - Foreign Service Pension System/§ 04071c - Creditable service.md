@@ -48,7 +48,7 @@ Section 414 of the Federal Employees’ Retirement System Act of 1986, referred 
 
 The Central Intelligence Agency Retirement Act, referred to in subsecs. (a)(3) and (d), is Pub. L. 88–643, as revised generally by Pub. L. 102–496, title VIII, §802, Oct. 24, 1992, 106 Stat. 3196. Titles II and III of the Act are classified generally to subchapters II (§2011 et seq.) and III (§2151 et seq.), respectively, of chapter 38 of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 2001 of Title 50 and Tables.
 
-The Peace Corps Act, referred to in subsec. (c)(1), is Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, as amended, which is classified principally to chapter 34 (§2501 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of this title and Tables.
+The Peace Corps Act, referred to in subsec. (c)(1), is Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, as amended, which is classified principally to chapter 34 (§2501 et seq.) of this title. For complete classification of thisAct to the Code, see Short Title note set out under section 2501 of this title and Tables.
 
 The Economic Opportunity Act of 1964, referred to in subsec. (c)(2), is Pub. L. 88–452, Aug. 20, 1964, 73 Stat. 508, as amended. Part A of title VIII of that Act is part A of title VIII of Pub. L. 88–452 as added by Pub. L. 90–222, title I, §110, Dec. 23, 1967, 81 Stat. 722, which was classified generally to part A (§2992 et seq.) of subchapter VIII of chapter 34 of Title 42, The Public Health and Welfare, prior to its repeal by Pub. L. 93–113, title VI, §603, Oct. 1, 1973, 87 Stat. 417. See sections 4951 et seq., 5042(13)(A), and 5055 of Title 42.
 

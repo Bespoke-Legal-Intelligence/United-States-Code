@@ -8,7 +8,7 @@
 
 #### (2) State and other employees
 
-&emsp;It shall be unlawful for any person (not described in paragraph (1)) willfully to disclose to any person, except as authorized in this title, any return or return information (as defined in section 6103(b)) acquired by him or another person under subsection (d), (i)(3)(B)(i), (<i>l</i>)(6), (7), (8), (9), (10), or (12), or (m)(2), (4), (6), or (7) of section 6103. Any violation of this paragraph shall be a felony punishable by a fine in any amount not exceeding $5,000, or imprisonment of not more than 5 years, or both, together with the costs of prosecution.
+&emsp;It shall be unlawful for any person (not described in paragraph (1)) willfully to disclose to any person, except as authorized in this title, any return or return information (as defined in section 6103(b)) acquired by him or another person under subsection (d), (i)(3)(B)(i), (<i>l</i>)(6), (7), (8), (9), (10), (12), or (15), or (m)(2), (4), (6), or (7) of section 6103. Any violation of this paragraph shall be a felony punishable by a fine in any amount not exceeding $5,000, or imprisonment of not more than 5 years, or both, together with the costs of prosecution.
 
 #### (3) Other persons
 
@@ -40,9 +40,11 @@ All provisions of law relating to the disclosure of information, and all provisi
 
 &emsp;&emsp;<b>For penalties for disclosure of confidential information by any officer or employee of the United States or any department or agency thereof, see 18 U.S.C. 1905.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 855; Sept. 2, 1958, Pub. L. 85–866, title I, §90(c), 72 Stat. 1666; Sept. 13, 1960, Pub. L. 86–778, title I, §103(s), 74 Stat. 940; Oct. 4, 1976, Pub. L. 94–455, title XII, §1202(d), (h)(3), 90 Stat. 1686, 1688; Nov. 6, 1978, Pub. L. 95–600, title VII, §701(bb)(1)(C), (6), 92 Stat. 2922, 2923; May 26, 1980, Pub. L. 96–249, title I, §127(a)(2)(D), 94 Stat. 366; June 9, 1980, Pub. L. 96–265, title IV, §408(a)(2)(D), 94 Stat. 468, as amended Dec. 28, 1980, Pub. L. 96–611, §11(a)(2)(B)(iv), 94 Stat. 3574; Dec. 5, 1980, Pub. L.96–499, title III, §302(b), 94 Stat. 2604; Dec. 28, 1980, Pub. L. 96–611, §11(a)(4)(A), 94 Stat. 3574; Sept. 3, 1982, Pub. L. 97–248, title III, §356(b)(2), 96 Stat. 645; Oct. 25, 1982, Pub. L. 97–365, §8(c)(2), 96 Stat. 1754; July 18, 1984, Pub. L. 98–369, div. A, title IV, §453(b)(4), div. B, title VI, §2653(b)(4), 98 Stat. 820, 1156; Aug. 16, 1984, Pub. L. 98–378, §21(f)(5), 98 Stat. 1326; Oct. 13, 1988, Pub. L. 100–485, title VII, §701(b)(2)(C), 102 Stat. 2426; Nov. 10, 1988, Pub. L. 100–647, title VIII, §8008(c)(2)(B), 102 Stat. 3787; Dec. 19, 1989, Pub. L. 101–239, title VI, §6202(a)(1)(C), 103 Stat. 2228; Nov. 5, 1990, Pub. L. 101–508, title V, §5111(b)(3), 104 Stat. 1388–273.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 855; Sept. 2, 1958, Pub. L. 85–866, title I, §90(c), 72 Stat. 1666; Sept. 13, 1960, Pub. L. 86–778, title I, §103(s), 74 Stat. 940; Oct. 4, 1976, Pub. L. 94–455, title XII, §1202(d), (h)(3), 90 Stat. 1686, 1688; Nov. 6, 1978, Pub. L. 95–600, title VII, §701(bb)(1)(C), (6), 92 Stat. 2922, 2923; May 26, 1980, Pub. L. 96–249, title I, §127(a)(2)(D), 94 Stat. 366; June 9, 1980, Pub. L. 96–265, title IV, §408(a)(2)(D), 94 Stat. 468, as amended Dec. 28, 1980, Pub. L. 96–611, §11(a)(2)(B)(iv), 94 Stat. 3574; Dec. 5, 1980, Pub. L. 96–499, title III, §302(b), 94 Stat. 2604; Dec. 28, 1980, Pub. L. 96–611, §11(a)(4)(A), 94 Stat. 3574; Sept. 3, 1982, Pub. L. 97–248, title III, §356(b)(2), 96 Stat. 645; Oct. 25, 1982, Pub. L. 97–365, §8(c)(2), 96 Stat. 1754; July 18, 1984, Pub. L. 98–369, div. A, title IV, §453(b)(4), div. B, title VI, §2653(b)(4), 98 Stat. 820, 1156; Aug. 16, 1984, Pub. L. 98–378, §21(f)(5), 98 Stat. 1326; Oct. 13, 1988, Pub. L. 100–485, title VII, §701(b)(2)(C), 102 Stat. 2426; Nov. 10, 1988, Pub. L. 100–647, title VIII, §8008(c)(2)(B), 102 Stat. 3787; Dec. 19, 1989, Pub. L. 101–239, title VI, §6202(a)(1)(C), 103 Stat. 2228; Nov. 5, 1990, Pub. L. 101–508, title V, §5111(b)(3), 104 Stat. 1388–273; July 30, 1996, Pub. L. 104–168, title XII, §1206(b)(5), 110 Stat. 1473.)
 
 #### Amendments
+
+1996—Subsec. (a)(2). Pub. L. 104–168 substituted “(12), or (15)” for “or (12)”.
 
 1990—Subsec. (a)(2). Pub. L. 101–508 substituted “(6), or (7)” for “or (6)”.
 

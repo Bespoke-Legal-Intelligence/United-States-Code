@@ -432,7 +432,7 @@ Secretarial Review.—The Secretary shall review the financial condition of each
 
 &emsp;“(2) recommendations of the Secretary as to whether the program should be expanded or made a part of the Federal-aid highway and transit programs.
 
-“(<i>l)</i>
+“(<i>l</i>)
 
 Definitions.—In this section, the following definitions apply:
 
@@ -468,15 +468,7 @@ State.—The term ‘State’ has the meaning such term has under section 101 of
 
 #### Compliance With Buy American Act
 
-Section 359(c) of Pub. L. 104–59 provided that:
-
-“(1)
-
-Study.—The Secretary \[of Transportation\] shall conduct a study on compliance with the Buy American Act (41 U.S.C. 10a–10c) with respect to contracts entered into using amounts made available from the Highway Trust Fund.
-
-“(2)
-
-Report.—Not later than 1 year after the date of the enactment of this Act \[Nov. 28, 1995\], the Secretary shall transmit to Congress a report on the results of the study.”
+Section 359(c) of Pub. L. 104–59 directed Secretary of Transportation to conduct a study on compliance with Buy American Act (41 U.S.C. 10a–10c) with respect to contracts entered into using amounts made available from Highway Trust Fund and not later than 1 year after Nov. 28, 1995, transmit to Congress report on results.
 
 #### Disadvantaged Business Enterprises
 
@@ -536,11 +528,11 @@ Graduation.—A determination of—
 
 &emsp;&emsp;“(ii)
 
-Out-of-state contracting.—A determination of which State transportation programs meet the requirement of the program for 10 percent participation by disadvantaged business enterprises by contracting with contractors located in another State and a determination to what degree prime contractors use out-of-State disadvantaged business enterprises even when disadvantaged business enterprises exist within the State to meet the 10percent participation goal and reasons why this occurs.
+Out-of-state contracting.—A determination of which State transportation programs meet the requirement of the program for 10 percent participation by disadvantaged business enterprises by contracting with contractors located in another State and a determination to what degree prime contractors use out-of-State disadvantaged business enterprises even when disadvantaged business enterprises exist within the State to meet the 10 percent participation goal and reasons why this occurs.
 
 &emsp;&emsp;“(iii)
 
-Program adjustments.—A determination of whether or not adjustments in the program could be made with respect to Federal and State participation in training programs and with respect to meeting capital needs and bonding requirements.
+Program adjustments.—A determination of whether or not adjustments in the program couldbe made with respect to Federal and State participation in training programs and with respect to meeting capital needs and bonding requirements.
 
 &emsp;&emsp;“(iv)
 
@@ -888,7 +880,7 @@ Limitation on Applicability of Waivers to Products Produced in Certain Foreign C
 
 \[Section 337(d) of Pub. L. 100–17 provided that: “The amendments made by subsections (b) and (c) of this section \[amending section 165 of Pub. L. 97–424, set out above\] shall not apply to any contract awarded pursuant to bids which were outstanding on the date of enactment of this Act \[Apr. 2, 1987\].”\]
 
-#### Use of Articles Mined or Manufactured in United States
+#### Use of Articles Mined or Manufactured in United States
 
 Pub. L. 95–599, title IV, §401, Nov. 6, 1978, 92 Stat. 2756, as amended by Pub. L. 97–327, §6, Oct. 15, 1982, 96 Stat. 1613, which required that articles, materials, and supplies used in projects administered by Department of Transportation be mined or produced in United States, was repealed by Pub. L. 97–424, title I, §165(e), Jan. 6, 1983, 96 Stat. 2137.
 

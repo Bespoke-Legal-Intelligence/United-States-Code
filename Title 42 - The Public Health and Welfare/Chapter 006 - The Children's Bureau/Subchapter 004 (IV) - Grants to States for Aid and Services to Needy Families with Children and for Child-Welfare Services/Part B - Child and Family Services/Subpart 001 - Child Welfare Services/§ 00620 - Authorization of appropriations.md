@@ -2,7 +2,7 @@
 
 (a) For the purpose of enabling the United States, through the Secretary, to cooperate with State public welfare agencies in establishing, extending, and strengthening child welfare services, there is authorized to be appropriated for each fiscal year the sum of $325,000,000.
 
-(b) Funds appropriated for any fiscal year pursuant to the authorization contained in subsection (a) of this section shall be included in the appropriation Act (or supplemental appropriation Act) for the fiscal year preceding the fiscal year for which such funds are available for obligation. In order to effect a transition to this method of timing appropriation action, the preceding sentence shall apply notwithstanding the fact that its initial application will result in the enactment in the same year (whether in the same appropriation Act or otherwise) of two separate appropriations, one for the then current fiscal year and one for the succeeding fiscal year.
+(b) Funds appropriated for any fiscal year pursuant to the authorization contained in subsection (a) of this section shall be included in the appropriation Act (or supplemental appropriation Act) for the fiscal year preceding thefiscal year for which such funds are available for obligation. In order to effect a transition to this method of timing appropriation action, the preceding sentence shall apply notwithstanding the fact that its initial application will result in the enactment in the same year (whether in the same appropriation Act or otherwise) of two separate appropriations, one for the then current fiscal year and one for the succeeding fiscal year.
 
 (Aug. 14, 1935, ch. 531, title IV, §420, as added Jan. 2, 1968, Pub. L. 90–248, title II, §240(c), 81 Stat. 911; amended Oct. 30, 1972, Pub. L. 92–603, title IV, §412, 86 Stat. 1492; June 17, 1980, Pub. L. 96–272, title I, §103(a), 94 Stat. 516; July 18, 1984, Pub. L. 98–369, div. B, title VI, §2663(c)(8), 98 Stat. 1166; Dec. 19, 1989, Pub. L. 101–239, title X, §10401(a), 103 Stat. 2487.)
 
@@ -50,5 +50,5 @@ Section 240(f)(1), (2) of Pub. L. 90–248 provided that: “In the case of any 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 621, 627 of this title.
+This section is referred to in section 621 of this title.
 

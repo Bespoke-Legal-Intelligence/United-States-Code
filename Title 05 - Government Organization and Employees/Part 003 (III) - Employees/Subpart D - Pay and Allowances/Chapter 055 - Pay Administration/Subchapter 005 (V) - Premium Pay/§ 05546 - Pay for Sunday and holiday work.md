@@ -1,6 +1,6 @@
 ### §5546. Pay for Sunday and holiday work
 
-(a) An employee who performs work during a regularly scheduled 8-hour period of service which is not overtime work as defined by section 5542(a) of this title a part of which is performed on Sunday is entitled to pay for the entire period of service at the rate of his basic pay, plus premium pay at a rate equal to 25 percent of his rate of basic pay.
+(a) An employee who performs work during a regularly scheduled 8-hour period of servicewhich is not overtime work as defined by section 5542(a) of this title a part of which is performed on Sunday is entitled to pay for the entire period of service at the rate of his basic pay, plus premium pay at a rate equal to 25 percent of his rate of basic pay.
 
 (b) An employee who performs work on a holiday designated by Federal Statute, Executive order, or with respect to an employee of the government of the District of Columbia, by order of the District of Columbia Council, is entitled to pay at the rate of his basic pay, plus premium pay at a rate equal to the rate of his basic pay, for that holiday work which is not—
 
@@ -24,7 +24,9 @@ Act
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 5 U.S.C. 922.
 
@@ -68,7 +70,7 @@ In subsection (a), the words “An employee who performs work . . . is entitle
 
 #### Amendments
 
-<b>1968</b>—Subsec. (b). Pub. L. 90–623, §1(13)(A), substituted “District of Columbia Council” for “Board of Commissioners of the District of Columbia”.
+1968—Subsec. (b). Pub. L. 90–623, §1(13)(A), substituted “District of Columbia Council” for “Board of Commissioners of the District of Columbia”.
 
 Subsec. (d). Pub. L. 90–623, §1(13)(B), substituted “5542(a)” for “5442(a)”.
 

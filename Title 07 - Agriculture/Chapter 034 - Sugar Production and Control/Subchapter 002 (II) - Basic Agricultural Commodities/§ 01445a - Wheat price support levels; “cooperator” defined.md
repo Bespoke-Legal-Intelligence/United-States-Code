@@ -12,7 +12,7 @@ Notwithstanding the provisions of section 1441 of this title, beginning with the
 
 &emsp;(5) Effective with respect to crops planted for harvest in the calendar year 1966 and any subsequent year, the level of price support for any crop of wheat for which a national marketing quota is not proclaimed or for which marketing quotas have been disapproved by producers shall be as provided in section 1441 of this title.
 
-&emsp;(6) A “cooperator” with respect to any crop of wheat produced on a farm shall be a producer who (i) does not knowingly exceed (A) the farm acreage allotment for wheat on the farm or (B) except as the Secretary may by regulation prescribe, the farm acreage allotment for wheat on any other farm on which the producer shares in the production of wheat, and (ii) complies with the land-use requirements of section 1339 of this title, to the extent prescribed by the Secretary. Effective with respect to crops planted for harvest in the calendar year 1966 and any subsequent year, if marketing quotas are not in effect for the crop of wheat, a “cooperator” with respect to any crop of wheat produced on a farm shall be a producer who does not knowingly exceed the farm acreage allotment for wheat. No producer shall be deemed to have exceeded a farm acreage allotment for wheat if the entire amount of the farm marketing excess is delivered to the Secretary or stored in accordance with applicable regulations to avoid or postpone payment of the penalty, but the producer shall not be eligible to receive price support on such marketing excess. No producer shall be deemed to have exceeded the farm acreage allotment for wheat on any other farm, if such farm is exempt from the farm marketing quota for such crop under section 1335 of this title. No producer shall be deemed to have exceeded a farm acreage allotment for wheat if the production on the acreage in excess of the farm acreage allotment is stored pursuant to the provisions of section 1379c(b) of this title, but the producer shall not be eligible to receive price support on the wheat so stored.
+&emsp;(6) A “cooperator” with respect to any crop of wheat produced on a farm shall be a producer who (i) does not knowingly exceed (A) the farm acreage allotment for wheat on the farm or (B) except as the Secretary may by regulation prescribe, the farm acreage allotment for wheat on any other farm on which the producer shares in the production of wheat, and (ii) complies with the land-use requirements of section 1339 of this title, to the extent prescribed by the Secretary. Effective with respect to crops planted for harvest in the calendar year 1966 and any subsequent year, if marketing quotas are not in effect for the crop of wheat, a “cooperator” with respect to any crop of wheat produced on a farm shall be a producer who does not knowingly exceed the farm acreage allotment for wheat. No producer shall be deemed to have exceeded a farm acreage allotment for wheat if the entire amount of the farm marketing excess is delivered to the Secretary or stored in accordance with applicable regulations to avoid or postpone payment of the penalty, but the producer shall not be eligible to receive price supporton such marketing excess. No producer shall be deemed to have exceeded the farm acreage allotment for wheat on any other farm, if such farm is exempt from the farm marketing quota for such crop under section 1335 of this title. No producer shall be deemed to have exceeded a farm acreage allotment for wheat if the production on the acreage in excess of the farm acreage allotment is stored pursuant to the provisions of section 1379c(b) of this title, but the producer shall not be eligible to receive price support on the wheat so stored.
 
 (Oct. 31, 1949, ch. 792, title I, §107, as added Sept. 27, 1962, Pub. L. 87–703, title III, §325(1), 76 Stat. 630; amended Apr. 11, 1964, Pub. L. 88–297, title II, §203, 78 Stat. 182; Nov. 3, 1965, Pub. L. 89–321, title V, §506, 79 Stat. 1203; Oct. 11, 1968, Pub. L. 90–559, §1(1), 82 Stat. 996; Nov. 30, 1970, Pub. L. 91–524, title IV, §401, 84 Stat. 1362; Aug. 10, 1973, Pub. L. 93–86, §1(8), 87 Stat. 224; Oct. 18, 1973, Pub. L. 93–125, §1(b), 87 Stat. 450; Dec. 29, 1973, Pub. L. 93–228, §1(a), 87 Stat. 944.)
 
@@ -32,7 +32,7 @@ Pub. L. 93–86, §1(8)(C), (D), temporarily added subsec. (c). See Effective an
 
 1968—Subsec. (2). Pub. L. 90–559 provided for a one year extension through 1970.
 
-1965—Pub. L. 89–321 temporarily raised the wheat support level to 100 per centum of parity or as near to 100per centum as the Secretary determines to be practicable, placed a floor of 100 per centum of parity for wheat accompanied by marketing certificates and $1.25 for wheat not so accompanied under the 1966 crop, guaranteed to cooperators for 1967 through 1969 crops a total average rate of return per bushel of not less than the total average rate of return per bushel made available to cooperators through loans and domestic marketing certificates for the 1966 crop where the diversion factor is not less than 10 per centum, and eliminated reference to classification as cooperators of producers who do not knowingly exceed the farm acreage allotment for wheat in cases where marketing quotas are not in effect. See Effective and Termination Dates of 1965 Amendment note below.
+1965—Pub. L. 89–321 temporarily raised the wheat support level to 100 per centum of parity or as near to 100 per centum as the Secretary determines to be practicable, placed a floor of 100 per centum of parity for wheat accompanied by marketing certificates and $1.25 for wheat not so accompanied under the 1966 crop, guaranteed to cooperators for 1967 through 1969 crops a total average rate of return per bushel of not less than the total average rate of return per bushel made available to cooperators through loans and domestic marketing certificates for the 1966 crop where the diversion factor is not less than 10 per centum, and eliminated reference to classification as cooperators of producers who do not knowingly exceed the farm acreage allotment for wheat in cases where marketing quotas are not in effect. See Effective and Termination Dates of 1965 Amendment note below.
 
 1964—Subsec. (1). Pub. L. 88–297 substituted “domestic certificates” for “marketing certificates”.
 
@@ -58,27 +58,21 @@ Section 401 of Pub. L. 91–524, as amended by section 1(8) of Pub. L. 93–86, 
 
 Section 506 of Pub. L. 89–321, as amended by Pub. L. 90–559, §1(1), Oct. 11, 1968, 82 Stat. 996, provided that the amendment made by that section is effective only with respect to 1966 through 1970 crops.
 
-#### Inapplicability to 1991 Through 1995 Crops of Wheat
+#### Inapplicability of Section
+
+Section inapplicable to 1996 through 2002 crops of loan commodities, peanuts, and sugar and inapplicable to milk during period beginning Apr. 4, 1996, and ending Dec. 31, 2002, see section 7301(b)(1)(D) of this title.
 
 Pub. L. 101–624, title III, §305, Nov. 28, 1990, 104 Stat. 3400, provided that: “Section 107 of the Agricultural Act of 1949 (7 U.S.C. 1445a) shall not be applicable to the 1991 through 1995 crops of wheat.”
 
-#### Inapplicability to 1986 Through 1990 Crops of Wheat
-
 Pub. L. 99–198, title III, §312, Dec. 23, 1985, 99 Stat. 1395, provided that: “Section 107 of the Agricultural Act of 1949 (7 U.S.C. 1445a) shall not be applicable to the 1986 through 1990 crops of wheat.”
-
-#### Inapplicability to 1982 Through 1985 Crops of Wheat
 
 Pub. L. 97–98, title III, §305, Dec. 22, 1981, 95 Stat. 1227, provided that: “Section 107 of the Agricultural Act of 1949 \[this section\] shall not be applicable to the 1982 through 1985 crops of wheat.”
 
-#### Inapplicability to 1977 Through 1981 Crops of Wheat
-
 Pub. L. 95–113, title IV, §409, Sept. 29, 1977, 91 Stat. 928, provided that: “Section 107 of the Agricultural Act of 1949, as amended \[this section\], shall not be applicable to the 1977 through 1981 crops of wheat.”
 
-#### Inapplicability to 1977 Crop of Wheat
-
-Pub. L. 95–113, title IV, §410, Sept. 29, 1977, 91 Stat. 928, provided that: “Except as otherwise provided in section 401 of this Act \[enacting section 1445b(a)–(c) of this title effective only for the 1977 through 1981 crops of wheat\], section 107 of the Agricultural Act of 1949, as added by the Agricultural Act of 1970, as amended \[this section as amended by Pub. L. 91–524, as amended\], to be effective only for the 1974 through 1977 crops of wheat, shall not be applicable to the 1977 crop of wheat.”
+Pub. L. 95–113, title IV, §410, Sept. 29, 1977, 91 Stat. 928, provided that: “Except as otherwise provided in section 401 of this Act \[enacting section 1445b(a)–(c) of this title effective only for the 1977 through 1981 crops of wheat\], section 107 of the Agricultural Act of 1949, asadded by the Agricultural Act of 1970, as amended \[this section as amended by Pub. L. 91–524, as amended\], to be effective only for the 1974 through 1977 crops of wheat, shall not be applicable to the 1977 crop of wheat.”
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1379c of this title.
+This section is referred to in sections 1379c, 7301 of this title.
 

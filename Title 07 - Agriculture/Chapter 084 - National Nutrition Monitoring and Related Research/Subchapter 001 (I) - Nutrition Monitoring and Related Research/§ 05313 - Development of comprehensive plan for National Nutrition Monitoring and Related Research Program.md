@@ -4,7 +4,7 @@
 
 The Secretaries, with the advice of the Board, shall prepare and implement a comprehensive plan for the coordinated program which shall be designed to—
 
-&emsp;(1) assess, collate data with respect to, analyze, and report, on a continuous basis, the dietary and nutritional status of the people ofthe United States, and the trends with respect to such status (dealing with such status and trends separately in the case of preschool and school-age children, pregnant and lactating women, elderly individuals, low-income populations, blacks, Hispanics, and other groups, at the discretion of the Secretaries), the state of the art with respect to nutrition monitoring and related research, future monitoring and related research priorities, and relevant policy implications of findings with respect to such status, trends, and research;
+&emsp;(1) assess, collate data with respect to, analyze, and report, on a continuous basis, the dietary and nutritional status of the people of the United States, and the trends with respect to such status (dealing with such status and trends separately in the case of preschool and school-age children, pregnant and lactating women, elderly individuals, low-income populations, blacks, Hispanics, and other groups, at the discretion of the Secretaries), the state of the art with respect to nutrition monitoring and related research, future monitoring and related research priorities, and relevant policy implications of findings with respect to such status, trends, and research;
 
 &emsp;(2) sample representative subsets of identifiable low-income populations (such as Native Americans, Hispanics, or the homeless), and assess, analyze, and report, on a continuous basis, for a representative sample of the low-income population, food and household expenditures, participation in food assistance programs, and periods experienced when nutrition benefits are not sufficient to provide an adequate diet;
 
@@ -44,7 +44,7 @@ The comprehensive plan, at a minimum, shall include components to—
 
 &emsp;&emsp;(C) promoting the development of regional, State, and local data collection services to become an integral component of a national nutritional status network;
 
-&emsp;(10) establish mechanisms to identify the needs of users of nutrition monitoring data and to encourage the private sector and the academic community to participate in the development and implementation of the comprehensive plan and contribute relevant data from non-Federal sources to promote the development of a national nutritional status network;
+&emsp;(10) establish mechanisms to identify the needs of users of nutrition monitoring data and to encourage the private sector and theacademic community to participate in the development and implementation of the comprehensive plan and contribute relevant data from non-Federal sources to promote the development of a national nutritional status network;
 
 &emsp;(11) compile an inventory of Federal, State, and nongovernment activities related to nutrition monitoring and related research;
 
@@ -68,7 +68,7 @@ The comprehensive plan shall—
 
 #### (1) Proposed plan
 
-&emsp;Within 12 months after October 22, 1990, the Secretaries shall publish in the Federal Register a proposed comprehensive plan for publicreview for a comment period of no less than sixty days.
+&emsp;Within 12 months after October 22, 1990, the Secretaries shall publish in the Federal Register a proposed comprehensive plan for public review for a comment period of no less than sixty days.
 
 #### (2) Final plan
 

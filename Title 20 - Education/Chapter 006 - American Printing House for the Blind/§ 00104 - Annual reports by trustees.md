@@ -14,7 +14,7 @@ The word “appropriation” substituted in text for “income” to conform to 
 
 #### Transfer of Functions
 
-“Secretary of Education” substituted in text for “Secretary of Health, Education, and Welfare” pursuant to sections 301(a)(2)(M) and 507 of Pub. L. 96–88, which are classified to sections 3441(a)(2)(M) and 3507 of this title and which transferred functions of Secretary of Health, Education, and Welfare under this chapter to Secretary of Education.
+“Secretary of Education” substituted in text for “Secretary of Health, Education, and Welfare” pursuant to sections 301(a)(2)(M) and 507 of Pub. L. 96–88,which are classified to sections 3441(a)(2)(M) and 3507 of this title and which transferred functions of Secretary of Health, Education, and Welfare under this chapter to Secretary of Education.
 
 Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out in Appendix to Title 5, Government Organization and Employees. Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953.
 

@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;A United States person who directly or indirectly transfers property to a foreign trust (other than a trust described in section 404(a)(4) Or <sup>1</sup> section 404A) shall be treated as the owner for his taxable year of the portion of such trust attributable to such property if for such year there is a United States beneficiary of any portion of such trust.
+&emsp;A United States person who directly or indirectly transfers property to a foreign trust (other than a trust described in section 6048(a)(3)(B)(ii)) shall be treated as the owner for his taxable year of the portion of such trust attributable to such property if for such year there is a United States beneficiary of any portion of such trust.
 
 #### (2) Exceptions
 
@@ -14,9 +14,57 @@
 
 &emsp;&emsp;To any transfer by reason of the death of the transferor.
 
-#### (B) Transfers where gain is recognized to transferor
+#### (B) Transfers at fair market value
 
-&emsp;&emsp;To any sale or exchange of the property at its fair market value in a transaction in which all of the gain to the transferor is realized at the time of the transfer and is recognized either at such time or is returned as provided in section 453.
+&emsp;&emsp;To any transfer of property to a trust in exchange for consideration of at least the fair market value of the transferred property. For purposes of the preceding sentence, consideration other than cash shall be taken into account at its fair market value.
+
+#### (3) Certain obligations not taken into account under fair market value exception
+
+#### (A) In general
+
+&emsp;&emsp;In determining whether paragraph (2)(B) applies to any transfer by a person described in clause (ii) or (iii) of subparagraph (C), there shall not be taken into account—
+
+&emsp;&emsp;&emsp;(i) except as provided in regulations, any obligation of a person described in subparagraph (C), and
+
+&emsp;&emsp;&emsp;(ii) to the extent provided in regulations, any obligation which is guaranteed by a person described in subparagraph (C).
+
+#### (B) Treatment of principal payments on obligation
+
+&emsp;&emsp;Principal payments by the trust on any obligation referred to in subparagraph (A) shall be taken into account on and after the date of the payment in determining the portion of the trust attributable to the property transferred.
+
+#### (C) Persons described
+
+&emsp;&emsp;The persons described in this subparagraph are—
+
+&emsp;&emsp;&emsp;(i) the trust,
+
+&emsp;&emsp;&emsp;(ii) any grantor or beneficiary of the trust, and
+
+&emsp;&emsp;&emsp;(iii) any person who is related (within the meaning of section 643(i)(2)(B)) to any grantor or beneficiary of the trust.
+
+#### (4) Special rules applicable to foreign grantor who later becomes a United States person
+
+#### (A) In general
+
+&emsp;&emsp;If a nonresident alien individual has a residency starting date within 5 years after directly or indirectly transferring property to a foreign trust, this section and section 6048 shall be applied as if such individual transferred to such trust on the residency starting date an amount equal to the portion of such trust attributable to the property transferred by such individual to such trust in such transfer.
+
+#### (B) Treatment of undistributed income
+
+&emsp;&emsp;For purposes of this section, undistributed net income for periods before such individual's residency starting date shall be taken into account in determining the portion of the trust which is attributable to property transferred by such individual to such trust but shall not otherwise be taken into account.
+
+#### (C) Residency starting date
+
+&emsp;&emsp;For purposes of this paragraph, an individual's residency starting date is the residency starting date determined under section 7701(b)(2)(A).
+
+#### (5) Outbound trust migrations
+
+&emsp;If—
+
+&emsp;&emsp;(A) an individual who is a citizen or resident of the United States transferred property to a trust which was not a foreign trust, and
+
+&emsp;&emsp;(B) such trust becomes a foreign trust while such individual is alive,
+
+> &emsp;then this section and section 6048 shall be applied as if such individual transferred to such trust on the date such trust becomes a foreign trust an amount equal to the portion of such trust attributable to the property previously transferred by such individual to such trust. A rule similar to the rule of paragraph (4)(B) shall apply for purposes of this paragraph.
 
 #### (b) Trusts acquiring United States beneficiaries
 
@@ -42,17 +90,45 @@ If—
 
 &emsp;For purposes of paragraph (1), an amount shall be treated as paid or accumulated to or for the benefit of a United States person if such amount is paid to or accumulated for a foreign corporation, foreign partnership, or foreign trust or estate, and—
 
-&emsp;&emsp;(A) in the case of a foreign corporation, more than 50 percent of the total combined voting power of all classes of stock entitled to vote of such corporation is owned (within the meaning of section 958(a)) or is considered to be owned (within the meaning of section 958(b)) by United States shareholders (as defined in section 951(b)),
+&emsp;&emsp;(A) in the case of a foreign corporation, such corporation is a controlled foreign corporation (as defined in section 957(a)),
 
 &emsp;&emsp;(B) in the case of a foreign partnership, a United States person is a partner of such partnership, or
 
 &emsp;&emsp;(C) in the case of a foreign trust or estate, such trust or estate has a United States beneficiary (within the meaning of paragraph (1)).
 
-(Added Pub. L. 94–455, title X, §1013(a), Oct. 4, 1976, 90 Stat. 1614; amended Pub. L. 96–603, §2(b), Dec. 28, 1980, 94 Stat. 3509.)
+#### (3) Certain United States beneficiaries disregarded
+
+&emsp;A beneficiary shall not be treated as a United States person in applying this section with respect to any transfer of property to foreign trust if such beneficiary first became a United States person more than 5 years after the date of such transfer.
+
+#### (d) Regulations
+
+The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section.
+
+(Added Pub. L. 94–455, title X, §1013(a), Oct. 4, 1976, 90 Stat. 1614; amended Pub. L. 96–603, §2(b), Dec. 28, 1980, 94 Stat. 3509; Pub. L. 104–188, title I, §1903(a)–(f), Aug. 20, 1996, 110 Stat. 1909, 1910.)
 
 #### Amendments
 
+1996—Subsec. (a)(1). Pub. L. 104–188, §1903(b), which directed that subsec. (a) of this section be amended by substituting “section 6048(a)(3)(B)(ii)” for “section 404(a)(4) or 404A”, was executed to par. (1) by making the substitution for “section 404(a)(4) Or section 404A” to reflect the probable intent of Congress.
+
+Subsec. (a)(2)(B). Pub. L. 104–188, §1903(a)(1), amended subpar. (B) generally. Prior to amendment, subpar. (B)read as follows: “
+
+Transfers where gain is recognized to transferor.—To any sale or exchange of the property at its fair market value in a transaction in which all of the gain to the transferor is realized at the time of the transfer and is recognized either at such time or is returned as provided in section 453.”
+
+Subsec. (a)(3). Pub. L. 104–188, §1903(a)(2), added par. (3).
+
+Subsec. (a)(4), (5). Pub. L. 104–188, §1903(c), added pars. (4) and (5).
+
+Subsec. (c)(2)(A). Pub. L. 104–188, §1903(e), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “in the case of a foreign corporation, more than 50 percent of the total combined voting power of all classes of stock entitled to vote of such corporation is owned (within the meaning of section 958(a)) or is considered to be owned (within the meaning of section 958(b)) by United States shareholders (as defined in section 951(b)),”.
+
+Subsec. (c)(3). Pub. L. 104–188, §1903(d), added par. (3).
+
+Subsec. (d). Pub. L. 104–188, §1903(f), added subsec. (d).
+
 1980—Subsec. (a)(1). Pub. L. 96–603 inserted “Or section 404A” after “section 404(a)(4)”.
+
+#### Effective Date of 1996 Amendment
+
+Section 1903(g) of Pub. L. 104–188 provided that: “The amendments made by this section \[amending this section\] shall apply to transfers of property after February 6, 1995.”
 
 #### Effective Date of 1980 Amendment
 
@@ -68,5 +144,5 @@ Section 1013(f)(1) of Pub. L. 94–455 provided that: “The amendments made by 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 678 of this title.
+This section is referred to in sections 678, 6048 of this title.
 

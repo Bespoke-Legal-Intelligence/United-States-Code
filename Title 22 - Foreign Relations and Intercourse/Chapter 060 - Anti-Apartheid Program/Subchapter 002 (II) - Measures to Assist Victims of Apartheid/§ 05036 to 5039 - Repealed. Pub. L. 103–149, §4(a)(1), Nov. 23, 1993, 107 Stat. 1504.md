@@ -8,9 +8,3 @@ Section 5038, Pub. L. 99–440, title II, §211, Oct. 2, 1986, 100 Stat. 1098, p
 
 Section 5039, Pub. L. 99–440, title II, §212, Oct. 2, 1986, 100 Stat. 1098; Pub. L. 99–631, §1(a)(11), Nov. 7, 1986, 100 Stat. 3516, related to participation of South Africa in agricultural export credit and promotion programs conducted by Secretary of Agriculture.
 
-### SUBCHAPTER III—MEASURES BY
-
-### UNITED STATES TO UNDERMINE
-
-### APARTHEID
-

@@ -4,7 +4,7 @@
 
 A power-driven vessel underway shall exhibit:
 
-&emsp;(i) a masthead light forward; except that a vessel of less than 20 meters in length need not exhibit this light forward of amidships but shall exhibit it as far forward as is practicable;
+&emsp;(i) a masthead light forward;
 
 &emsp;(ii) a second masthead light abaft of and higher than the forward one; except that a vessel of less than 50 meters in length shall not be obliged to exhibit such light but may do so;
 
@@ -24,11 +24,15 @@ A power-driven vessel of less than 12 meters in length may, in lieu of the light
 
 A power-driven vessel when operating on the Great Lakes may carry an all-round white light in lieu of the second masthead light and sternlight prescribed in paragraph (a) of this Rule. The light shall be carried in the position of the second masthead light and be visible at the same minimum range.
 
-(Pub. L. 96–591, §2, Dec. 24, 1980, 94 Stat. 3424.)
+(Pub. L. 96–591, §2, Dec. 24, 1980, 94 Stat. 3424; Pub. L. 104–324, title VII, §701(3), Oct. 19, 1996, 110 Stat. 3932.)
 
 #### Codification
 
 Section was enacted as part of section 2 of Pub. L. 96–591 which enacted the Inland Navigational Rules which comprise this subchapter.
+
+#### Amendments
+
+1996—Par. (a)(i). Pub. L. 104–324, which directed the striking out of “except that a vessel of less than 20 meters in length need not exhibit this light forward of amidships but shall exhibit it as far forward as is practicable;” after “masthead light forward”, was executed by striking out that language, which appeared after “masthead light forward;” to reflect the probable intent of Congress.
 
 #### Section Referred to in Other Sections
 

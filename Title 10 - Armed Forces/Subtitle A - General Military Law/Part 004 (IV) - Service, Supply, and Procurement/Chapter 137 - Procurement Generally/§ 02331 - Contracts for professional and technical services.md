@@ -40,7 +40,7 @@ A prior section 2331 was renumbered section 2350 of this title.
 
 #### Effective Date of 1994 Amendment
 
-For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, setout as a note under section 251 of Title 41, Public Contracts.
+For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under section 251 of Title 41, Public Contracts.
 
 #### Regulations
 
@@ -48,5 +48,5 @@ Section 834(b) of Pub. L. 101–510 provided that: “Not later than 180 days af
 
 #### Provisions Not Affected by Pub. L. 103–355
 
-Repeal of subsec. (c) of this section by Pub. L. 103–355 not to be construed as modifying or superseding, or as intended to impair or restrict, authorities or responsibilities under section 759 of Title 40, Public Buildings, Property, and Works, or subchapter VI (§541 et seq.) of chapter 10 of Title 40, see section 1004(d) of Pub. L. 103–355, set out as a note under section 2304a of this title.
+Repeal of subsec. (c) of this section by Pub. L. 103–355 not to be construed as modifying or superseding, or as intended to impair or restrict, authorities or responsibilities under former section 759 of Title 40, Public Buildings, Property, and Works, or subchapter VI (§541 et seq.) of chapter 10 of Title 40, see section 1004(d) of Pub. L. 103–355, set out as a note under section 2304a of this title.
 

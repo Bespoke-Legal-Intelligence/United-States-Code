@@ -78,5 +78,5 @@ In carrying out this section, the Secretary shall, to the maximum extent practic
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1925, 1929, 1936, 1994 of this title.
+This section is referred to in sections 1925, 1929, 1991, 1994 of this title.
 

@@ -26,19 +26,17 @@ Such drawback shall be due and payable quarterly upon filing of a proper claim w
 
 #### (3) Penalty treated as tax
 
-&emsp;The penalty imposed by paragraph (2) shall be assessed, collected, and paid in the same manner as taxes, as provided in section 6662(a).<sup>1</sup>
+&emsp;The penalty imposed by paragraph (2) shall be assessed, collected, and paid in the same manner as taxes, as provided in section 6665(a).
 
-(Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1346; amended Pub. L. 90–615, §2(a), Oct. 21, 1968, 82 Stat. 1210; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 98–369, div. A, title IV, §452, July 18, 1984, 98 Stat. 819; Pub. L. 103–465, title I, §136(b), Dec. 8, 1994, 108 Stat. 4841.)
-
-#### References in Text
-
-Section 6662 of this title, referred to in subsec. (c)(3), was repealed by Pub. L. 101–239, title VII, §7721(a), Dec. 19, 1989, 103 Stat. 2395, which added a new section 6662. For similar provisions, see section 6665 of this title.
+(Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1346; amended Pub. L. 90–615, §2(a), Oct. 21, 1968, 82 Stat. 1210; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 98–369, div. A, title IV, §452, July 18, 1984, 98 Stat. 819; Pub. L. 103–465, title I, §136(b), Dec. 8, 1994, 108 Stat. 4841; Pub. L. 104–188, title I, §1704(t)(12), Aug. 20, 1996, 110 Stat. 1888.)
 
 #### Prior Provisions
 
 A prior section 5134, acts Aug. 16, 1954, ch. 736, 68A Stat. 623; Mar. 30, 1955, ch. 18, §3(b)(2), 69 Stat. 15; Mar. 29, 1956, ch. 115, §3(b)(2), 70 Stat. 67; Mar. 29, 1957, Pub. L. 85–12, §3(b)(2), 71 Stat. 10; June 30, 1958, Pub. L. 85–475, §3(b)(2), 72 Stat. 259, consisted of provisions similar to those comprising this section, prior to the general revision of this chapter by Pub. L. 85–859.
 
 #### Amendments
+
+1996—Subsec. (c)(3). Pub. L. 104–188 substituted “section 6665(a)” for “section 6662(a)”.
 
 1994—Subsec. (c)(1). Pub. L. 103–465 substituted “flavoring extracts, or perfume” for “or flavoring extracts”.
 

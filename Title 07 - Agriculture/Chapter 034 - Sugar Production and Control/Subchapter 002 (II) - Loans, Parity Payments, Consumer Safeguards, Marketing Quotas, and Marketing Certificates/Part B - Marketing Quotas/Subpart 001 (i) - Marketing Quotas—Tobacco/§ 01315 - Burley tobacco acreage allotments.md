@@ -1,6 +1,6 @@
 ### §1315. Burley tobacco acreage allotments
 
-The farm acreage allotment for burley tobacco for any year shall not be less than the smallest of (1) the allotment established for the farm for the immediately preceding year, (2) five-tenths of an acre, or (3) 10 per centum of the cropland: <i>Provided, however,</i> That no allotment of seven-tenths of an acre or less shall be reduced more than one-tenth of an acre in any one year. The additional acreage required under this section shall be in addition to the State acreage allotments and the production on such acreage shall be in addition to the national marketing quota.
+The farm acreage allotment for burley tobacco for any year shall not be less than the smallest of (1) the allotment established for the farm for the immediately preceding year, (2) five-tenths of an acre, or (3) 10 per centum of the cropland: <i>Provided, however</i>, That no allotment of seven-tenths of an acre or less shall be reduced more than one-tenth of an acre in any one year. The additional acreage required under this section shall be in addition to the State acreage allotments and the production on such acreage shall be in addition to the national marketing quota.
 
 (July 12, 1952, ch. 709, 66 Stat. 597; Mar. 31, 1955, ch. 21, §2, 69 Stat. 24.)
 
@@ -24,7 +24,7 @@ Part of section 317(h) of act Feb. 16, 1938, ch. 30, title III, as added by Pub.
 
 &emsp;“(B) clause (1) of the Act of July 12, 1952 \[this section\], shall for such purpose read as follows: ‘(1) the allotment established for the farm for the last preceding year for which a quota was proclaimed on an acreage allotment basis’; and
 
-&emsp;“(C) the proviso of that Act \[this section\] shall for such purpose read as follows: <i>‘Provided, however,</i> That no allotment of seven-tenths of an acre or less shall be reduced more than one-tenth of an acre below the allotment established for the farm for the last preceding year for which a quota was proclaimed on an acreage allotment basis’.”
+&emsp;“(C) the proviso of that Act \[this section\] shall for such purpose read as follows: <i>‘Provided, however</i>, That no allotment of seven-tenths of an acre or less shall be reduced more than one-tenth of an acre below the allotment established for the farm for the last preceding year for which a quota was proclaimed on an acreage allotment basis’.”
 
 #### Section Referred to in Other Sections
 

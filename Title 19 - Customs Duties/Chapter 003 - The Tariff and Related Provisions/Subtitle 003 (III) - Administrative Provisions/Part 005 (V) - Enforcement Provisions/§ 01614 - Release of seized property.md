@@ -12,7 +12,7 @@ The navigation laws, referred to in text, are classified generally to Title 33, 
 
 #### Prior Provisions
 
-Provisions similar to those in this section were contained in act Sept. 21, 1922, ch. 356, title IV, §614, 42 Stat. 987. That section was superseded by section 614 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
+Provisions similar to those in this section were contained in act Sept. 21, 1922, ch. 356, title IV, §614, 42Stat. 987. That section was superseded by section 614 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
 A prior provision authorizing collectors, subject to the approval of the Secretary of the Treasury, to release seized merchandise on payment of the appraised value when the appraised value did not exceed $1,000, were contained in R.S. §3081, prior to repeal by act Sept. 21, 1922, ch. 356, title IV, §642, 42 Stat. 989.
 

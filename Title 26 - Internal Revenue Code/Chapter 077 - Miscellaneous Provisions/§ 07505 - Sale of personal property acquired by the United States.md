@@ -24,7 +24,3 @@ The internal revenue laws, referred to in subsec. (a), are classified generally 
 
 Amendment by Pub. L. 89–719 applicable after Nov. 2, 1966, regardless of when title or lien of United States arose or when lien or interest of another person was acquired, with certain exceptions, see section 114(a)–(c) of Pub. L. 89–719, set out as a note under section 6323 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 18 section 3613.
-

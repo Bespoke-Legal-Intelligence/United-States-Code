@@ -56,7 +56,7 @@ The provisions of section 6513 (except the provisions of subsection (c) thereof,
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of subsection (a), if any overpayment of tax imposed by subtitle A results from a credit carryback, such overpayment shall be deemed not to have been made before the filing date for the taxable year in which such credit carryback arises, or, with respect to any portion of a credit carryback from a taxable year attributable to a net operating loss carryback, capital loss carryback, or other credit carryback from a subsequent taxable year, such overpayment shall be deemed not to have been made before the filing date for such subsequent taxable year.
+&emsp;&emsp;For purposes of subsection (a), if any overpayment of tax imposed by subtitle A resultsfrom a credit carryback, such overpayment shall be deemed not to have been made before the filing date for the taxable year in which such credit carryback arises, or, with respect to any portion of a credit carryback from a taxable year attributable to a net operating loss carryback, capital loss carryback, or other credit carryback from a subsequent taxable year, such overpayment shall be deemed not to have been made before the filing date for such subsequent taxable year.
 
 #### (B) Credit carryback defined
 
@@ -226,7 +226,7 @@ Amendment by Pub. L. 96–223 applicable to periods after Feb. 29, 1980, see sec
 
 #### Effective Date of 1978 Amendment
 
-Amendment by Pub. L. 95–628 applicable to carrybacks arising in taxable years beginning after Nov. 10, 1978, see section 8(d) of Pub. L. 95–628, set out as a note under section 6511 of this title.
+Amendment by Pub. L. 95–628 applicable to carrybacks arising in taxable years beginning after Nov. 10,1978, see section 8(d) of Pub. L. 95–628, set out as a note under section 6511 of this title.
 
 #### Effective Date of 1977 Amendment
 
@@ -246,7 +246,7 @@ Amendment by Pub. L. 91–172 applicable with respect to net capital losses sust
 
 #### Effective Date of 1967 Amendment
 
-Amendment by Pub. L. 90–225 applicable with respect to investment credit carrybacks attributable to net operating loss carrybacks from taxable years ending afterJuly 31, 1967, see section 2(g) of Pub. L. 90–225, set out as a note under section 46 of this title.
+Amendment by Pub. L. 90–225 applicable with respect to investment credit carrybacks attributable to net operating loss carrybacks from taxable years ending after July 31, 1967, see section 2(g) of Pub. L. 90–225, set out as a note under section 46 of this title.
 
 #### Effective Date of 1966 Amendment
 

@@ -40,5 +40,5 @@ The rights and procedures provided by this chapter may not be waived by contract
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 2 section 1314.
+This section is referred to in title 2 section 1314; title 3 section 414.
 

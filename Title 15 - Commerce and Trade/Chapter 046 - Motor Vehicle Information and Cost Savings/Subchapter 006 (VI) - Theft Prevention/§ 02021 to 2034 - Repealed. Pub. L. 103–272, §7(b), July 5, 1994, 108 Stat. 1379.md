@@ -20,7 +20,7 @@ Section 2026c, Pub. L. 92–513, title VI, §609, as added Pub. L. 102–519, ti
 
 Section 2027, Pub. L. 92–513, title VI, §610, formerly §607, as added Pub. L. 98–547, title I, §101(a), Oct. 25, 1984, 98 Stat. 2761; renumbered §610 and amended Pub. L. 102–519, title III, §§305, 306(a), Oct. 25, 1992, 106 Stat. 3396, 3397, related to prohibited acts under this subchapter, persons exempt from such prohibitions, and chop shops. See sections 33114 and 33115 of Title 49.
 
-Section 2028, Pub. L. 92–513, title VI, §611, formerly §608, as added Pub. L. 98–547, title I, §101(a), Oct. 25, 1984, 98 Stat. 2762; renumbered §611, Pub. L. 102–519, title III, §306(a), Oct. 25, 1992, 106 Stat. 3397, related toenforcement of this subchapter. See section 33115 of Title 49.
+Section 2028, Pub. L. 92–513, title VI, §611, formerly §608, as added Pub. L. 98–547, title I, §101(a), Oct. 25, 1984, 98 Stat. 2762; renumbered §611, Pub. L. 102–519, title III, §306(a), Oct. 25, 1992, 106 Stat. 3397, related to enforcement of this subchapter. See section 33115 of Title 49.
 
 Section 2029, Pub. L. 92–513, title VI, §612, formerly §609, as added Pub. L. 98–547, title I, §101(a), Oct. 25, 1984, 98 Stat. 2763; renumbered §612, Pub. L. 102–519, title III, §306(a), Oct. 25, 1992, 106 Stat. 3397, related to confidentiality of information obtained by Secretary under this subchapter. See section 33116 of Title 49.
 

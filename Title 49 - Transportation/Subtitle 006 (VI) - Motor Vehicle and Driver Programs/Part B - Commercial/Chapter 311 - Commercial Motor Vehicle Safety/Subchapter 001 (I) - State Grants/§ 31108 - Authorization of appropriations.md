@@ -1,12 +1,14 @@
 ### §31108. Authorization of appropriations
 
-Not more than $\_\_\_\_\_\_\_\_\_\_ may be appropriated to the Secretary of Transportation for the fiscal year ending September 30, 19\_\_, to carry out the safety duties and powers of the Federal Highway Administration.
+Not more than $\_\_\_\_\_\_\_\_\_\_ may be appropriated to the Secretary of Transportation for the fiscalyear ending September 30, 19\_\_, to carry out the safety duties and powers of the Federal Highway Administration.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 993.)
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

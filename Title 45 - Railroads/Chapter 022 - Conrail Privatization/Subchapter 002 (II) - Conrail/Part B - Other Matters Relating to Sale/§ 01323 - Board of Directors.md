@@ -60,3 +60,11 @@ The Board of Directors of the Corporation shall be comprised as follows:
 
 (Pub. L. 99–509, title IV, §4023, Oct. 21, 1986, 100 Stat. 1901.)
 
+#### Abolition of Special Court, Regional Rail Reorganization Act of 1973, and Transfer of Functions
+
+Special court abolished and all jurisdiction and functions transferred to United States District Court for District of Columbia, see section 719(b)(2) of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 719 of this title.
+

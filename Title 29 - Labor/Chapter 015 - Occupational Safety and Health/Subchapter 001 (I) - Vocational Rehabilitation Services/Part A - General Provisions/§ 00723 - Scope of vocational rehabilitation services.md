@@ -118,7 +118,7 @@ Subsec. (a)(2). Pub. L. 100–630, §202(d)(2), substituted “individuals to ma
 
 Subsec. (a)(1). Pub. L. 99–506, §204(a), inserted “evaluation by personnel skilled in rehabilitation engineering technology,” after “appropriate,”.
 
-Subsec. (a)(2). Pub. L. 99–506, §§103(d)(2)(C), 204(b), substituted “individuals with handicaps” for “handicapped individuals” wherever appearing, and “specific postemployment services necessary to assist such individuals maintain or regain employment, and other” for “other postemployment services necessary to assist such individuals to maintain their employment and”.
+Subsec. (a)(2). Pub. L. 99–506, §§103(d)(2)(C), 204(b), substituted “individuals with handicaps” for “handicapped individuals” wherever appearing, and “specificpostemployment services necessary to assist such individuals maintain or regain employment, and other” for “other postemployment services necessary to assist such individuals to maintain their employment and”.
 
 Subsec. (a)(3), (7). Pub. L. 99–506, §103(d)(2)(C), substituted “individuals with handicaps” for “handicapped individuals”.
 

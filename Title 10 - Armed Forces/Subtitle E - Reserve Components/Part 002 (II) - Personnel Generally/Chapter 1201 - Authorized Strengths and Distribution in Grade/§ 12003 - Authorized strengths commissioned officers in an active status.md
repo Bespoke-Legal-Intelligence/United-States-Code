@@ -4,15 +4,15 @@
 
 &emsp;&emsp;Army
 
-275,000&nbsp;
+275,000&nbsp;&nbsp;
 
 &emsp;&emsp;Air Force
 
-200,000&nbsp;
+200,000&nbsp;&nbsp;
 
 &emsp;&emsp;Navy
 
-150,000&nbsp;
+150,000&nbsp;&nbsp;
 
 &emsp;&emsp;Marine Corps
 
@@ -34,5 +34,5 @@ Provisions similar to those in this section were contained in sections 3217, 541
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 12005, 12006 of this title.
+This section is referred to in sections 123, 12005, 12006 of this title.
 

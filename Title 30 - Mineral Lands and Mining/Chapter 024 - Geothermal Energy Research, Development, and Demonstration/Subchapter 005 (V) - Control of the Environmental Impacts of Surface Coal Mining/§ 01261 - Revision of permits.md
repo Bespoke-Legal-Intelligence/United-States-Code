@@ -14,7 +14,7 @@ No transfer, assignment, or sale of the rights granted under any permit issued p
 
 #### (c) Review of outstanding permits
 
-The regulatory authority shall within a time limit prescribed in regulations promulgated bythe regulatory authority, review outstanding permits and may require reasonable revision or modification of the permit provisions during the term of such permit: <i>Provided</i>, That such revision or modification shall be based upon a written finding and subject to notice and hearing requirements established by the State or Federal program.
+The regulatory authority shall within a time limit prescribed in regulations promulgated by the regulatory authority, review outstanding permits and may require reasonable revision or modification of the permit provisions during the term of such permit: <i>Provided</i>, That such revision or modification shall be based upon a written finding and subject to notice and hearing requirements established by the State or Federal program.
 
 (Pub. L. 95–87, title V, §511, Aug. 3, 1977, 91 Stat. 483.)
 

@@ -6,7 +6,7 @@ Not later than 10 days after the candidates of a political party for President a
 
 #### (b) Finality of certifications and determinations
 
-Initial certifications by the Commission under subsection (a), and all determinations made by it under this chapter, shall be final and conclusive, except to the extent that they are subject to examination and audit by the Commission under section 9007 and judicial review under section 9011.
+Initial certifications by the Commission under subsection (a), and all determinations made byit under this chapter, shall be final and conclusive, except to the extent that they are subject to examination and audit by the Commission under section 9007 and judicial review under section 9011.
 
 (Added Pub. L. 92–178, title VIII, §801, Dec. 10, 1971, 85 Stat. 566; amended Pub. L. 93–443, title IV, §§404(c)(6), (7), 405(a), Oct. 15, 1974, 88 Stat. 1292, 1293; Pub. L. 94–455, title XIX, §1906(b)(13)(C), Oct. 4, 1976, 90 Stat. 1834.)
 

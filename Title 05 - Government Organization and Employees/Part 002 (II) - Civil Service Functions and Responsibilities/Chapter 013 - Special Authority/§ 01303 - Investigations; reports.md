@@ -14,7 +14,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 5 U.S.C. 633(4).
 
@@ -28,7 +30,7 @@ Standard changes are made to conform with the definition applicable and the styl
 
 #### Amendments
 
-<b>1978</b>—Pub. L. 95–454 substituted in opening par. “Office of Personnel Management, Merit Systems Protection Board, and Special Counsel” for “Civil Service Commission” and in par. (1) “Office of Personnel Management” for “Commission”.
+1978—Pub. L. 95–454 substituted in opening par. “Office of Personnel Management, Merit Systems Protection Board, and Special Counsel” for “Civil Service Commission” and in par. (1) “Office of Personnel Management” for “Commission”.
 
 #### Effective Date of 1978 Amendment
 

@@ -34,7 +34,7 @@ For the purposes of this chapter—
 
 (2) If the Commission finds that available data on human experience with any substance indicate results different from those obtained on animals in the above-named dosages or concentrations, the human data shall take precedence.
 
-(i) The term “corrosive” means any substance which in contact with living tissue will causedestruction of tissue by chemical action; but shall not refer to action on inanimate surfaces.
+(i) The term “corrosive” means any substance which in contact with living tissue will cause destruction of tissue by chemical action; but shall not refer to action on inanimate surfaces.
 
 (j) The term “irritant” means any substance not corrosive within the meaning of subparagraph (i) of this section which on immediate, prolonged, or repeated contact with normal living tissue will induce a local inflammatory reaction.
 
@@ -72,7 +72,7 @@ For the purposes of this chapter—
 
 (t) An article may be determined to present a thermal hazard if, in normal use or when subjected to reasonably foreseeable damage or abuse, its design or manufacture presents an unreasonable risk of personal injury or illness because of heat as from heated parts, substances, or surfaces.
 
-(Pub. L. 86–613, §2, July 12, 1960, 74 Stat. 372; Pub. L. 89–756, §§2(a)–(c), 3(a), Nov. 3, 1966, 80 Stat. 1303, 1304; Pub. L. 91–113, §§2(a), (c), (d), 3, Nov. 6, 1969, 83 Stat. 187–189; Pub. L. 91–601, §6(a), formerly §7(a), Dec. 30, 1970, 84 Stat. 1673, renumbered Pub. L. 97–35, title XII, §1205(c), Aug. 13, 1981, 95 Stat. 716; Pub. L. 92–516, §3(1), Oct. 21, 1972, 86 Stat. 998; Pub. L. 92–573, §30(a), Oct. 27, 1972, 86 Stat. 1231; Pub. L. 94–284, §3(c), May 11, 1976, 90 Stat. 503; Pub. L. 95–631, §9, Nov. 10, 1978, 92 Stat. 3747; Pub. L. 99–339, title I, §109(d)(1), June 19, 1986, 100 Stat. 653.)
+(Pub. L. 86–613, §2, July 12, 1960, 74 Stat. 372; Pub. L. 89–756, §§2(a)–(c), 3(a), Nov. 3, 1966, 80Stat. 1303, 1304; Pub. L. 91–113, §§2(a), (c), (d), 3, Nov. 6, 1969, 83 Stat. 187–189; Pub. L. 91–601, §6(a), formerly §7(a), Dec. 30, 1970, 84 Stat. 1673, renumbered Pub. L. 97–35, title XII, §1205(c), Aug. 13, 1981, 95 Stat. 716; Pub. L. 92–516, §3(1), Oct. 21, 1972, 86 Stat. 998; Pub. L. 92–573, §30(a), Oct. 27, 1972, 86 Stat. 1231; Pub. L. 94–284, §3(c), May 11, 1976, 90 Stat. 503; Pub. L. 95–631, §9, Nov. 10, 1978, 92 Stat. 3747; Pub. L. 99–339, title I, §109(d)(1), June 19, 1986, 100 Stat. 653.)
 
 #### References in Text
 
@@ -100,7 +100,7 @@ Subsec. (c), which read “The term ‘Department’ means the Department of Hea
 
 1972—Subsec. (f)(2). Pub. L. 92–516 substituted “pesticides” for “economic poisons” and “a pesticide” for “an economic poison” wherever appearing.
 
-1970—Subsec. (p). Pub. L. 91–601 substituted in text preceding par. (1) “if the packaging or labeling of such substance is in violation of an applicable regulation issued pursuant to section 1472 or 1473 of this title or ifsuch substance” for “which substance” and inserted following and below par. (2) provision including in “misbranded hazardous substance” a household substance as defined in section 1471(2)(D) of this title if it is a substance described in par. (1) of subsec. (f) of this section and its packaging or labeling is in violation of an applicable regulation issued pursuant to section 1472 or 1473 of this title.
+1970—Subsec. (p). Pub. L. 91–601 substituted in text preceding par. (1) “if the packaging or labeling of such substance is in violation of an applicable regulation issued pursuant to section 1472 or 1473 of this title or if such substance” for “which substance” and inserted following and below par. (2) provision including in “misbranded hazardous substance” a household substance as defined in section 1471(2)(D) of this title if it is a substance described in par. (1) of subsec. (f) of this section and its packaging or labeling is in violation of an applicable regulation issued pursuant to section 1472 or 1473 of this title.
 
 1969—Subsec. (f)(1)(A). Pub. L. 91–113, §3(a), inserted “or combustible” after “is flammable”.
 
@@ -132,7 +132,7 @@ Amendment by Pub. L. 92–516 effective at close of Oct. 21, 1972, except if reg
 
 #### Effective Date of 1970 Amendment
 
-Amendment by Pub. L. 91–601 effective Dec. 30, 1970, and regulations establishing special packaging standards effective no sooner than 180 days or later than one year from date regulations are final, or an earlier date published in Federal Register, see section 8 of Pub. L. 91–601, set out as a note under section 1471 of this title.
+Amendment by Pub. L. 91–601 effective Dec. 30, 1970, and regulations establishing special packaging standards effective no sooner than 180 days or later than one year from date regulations are final, or an earlier datepublished in Federal Register, see section 8 of Pub. L. 91–601, set out as a note under section 1471 of this title.
 
 #### Effective Date of 1969 Amendment
 

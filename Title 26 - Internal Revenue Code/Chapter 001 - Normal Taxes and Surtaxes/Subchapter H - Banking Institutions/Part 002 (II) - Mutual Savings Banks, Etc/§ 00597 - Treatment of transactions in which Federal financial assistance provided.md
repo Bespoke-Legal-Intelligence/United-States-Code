@@ -40,7 +40,7 @@ For purposes of this section, the term “domestic building and loan association
 
 #### References in Text
 
-Section 406 of the National Housing Act, referred to in subsec. (c)(1), which was classified to section 1729 ofTitle 12, Banks and Banking, was repealed by Pub. L. 101–73, title IV, §407, Aug. 9, 1989, 103 Stat. 363.
+Section 406 of the National Housing Act, referred to in subsec. (c)(1), which was classified to section 1729 of Title 12, Banks and Banking, was repealed by Pub. L. 101–73, title IV, §407, Aug. 9, 1989, 103 Stat. 363.
 
 Section 21A of the Federal Home Loan Bank Act, referred to in subsec. (c)(1), is classified to section 1441a of Title 12.
 
@@ -124,7 +124,7 @@ Federal Savings and Loan Insurance Corporation abolished and its functions trans
 
 #### Repeal of Provisions Relating to Repeal of Special Reorganization Rules for Financial Institutions
 
-Section 1401(b)(1) of Pub. L. 101–73 provided that: “Section 904 of the Tax Reform Act of 1986 \[Pub. L. 99–514, amending section 368 of this title, repealing this section and enacting provisions set out as notes under sections 368 and 597 of this title\] (other than subsection (c)(2)(B) thereof \[section 904(c)(2)(B) of Pub. L. 99–514, formerly set out as a note above\]) is hereby repealedand the Internal Revenue Code of 1986 shall be applied as if the amendments made by such section had not been enacted.”
+Section 1401(b)(1) of Pub. L. 101–73 provided that: “Section 904 of the Tax Reform Act of 1986 \[Pub. L. 99–514, amending section 368 of this title, repealing this section and enacting provisions set out as notes under sections 368 and 597 of this title\] (other than subsection (c)(2)(B) thereof \[section 904(c)(2)(B) of Pub. L. 99–514, formerly set out as a note above\]) is hereby repealed and the Internal Revenue Code of 1986 shall be applied as if the amendments made by such section had not been enacted.”
 
 #### References to Federal Savings and Loan Insurance Corporation
 

@@ -4,6 +4,10 @@
 
 Purchase of real estate for future military parks, see section 455c of this title.
 
+<i><sup>1</sup></i><i> So in original. Two subsecs. (e) have been enacted.</i>
+
+<i><sup>2</sup></i><i> So in original. There is no section “3(D)”.</i>
+
 
 ---
 
@@ -134,6 +138,7 @@ Purchase of real estate for future military parks, see section 455c of this titl
 - [&sect; 00430f&#8211;2 - Conveyance of right-of-way; construction and maintenance of roadways](%C2%A7%2000430f%E2%80%932%20-%20Conveyance%20of%20right-of-way%3B%20construction%20and%20maintenance%20of%20roadways.md)
 - [&sect; 00430f&#8211;3 - Conveyance of lands for recreational area; development and use](%C2%A7%2000430f%E2%80%933%20-%20Conveyance%20of%20lands%20for%20recreational%20area%3B%20development%20and%20use.md)
 - [&sect; 00430f&#8211;4 - Jurisdiction of lands](%C2%A7%2000430f%E2%80%934%20-%20Jurisdiction%20of%20lands.md)
+- [&sect; 00430f&#8211;5 - Siege and Battle of Corinth](%C2%A7%2000430f%E2%80%935%20-%20Siege%20and%20Battle%20of%20Corinth.md)
 - [&sect; 00430g - Gettysburg National Military Park](%C2%A7%2000430g%20-%20Gettysburg%20National%20Military%20Park.md)
 - [&sect; 00430g&#8211;1 - Exchange of lands](%C2%A7%2000430g%E2%80%931%20-%20Exchange%20of%20lands.md)
 - [&sect; 00430g&#8211;2 - Exchange of lands](%C2%A7%2000430g%E2%80%932%20-%20Exchange%20of%20lands.md)

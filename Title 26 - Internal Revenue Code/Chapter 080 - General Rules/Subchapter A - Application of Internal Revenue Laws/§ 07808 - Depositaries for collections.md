@@ -1,6 +1,6 @@
 ### §7808. Depositaries for collections
 
-The Secretary is authorized to designate one or more depositaries in each State for the deposit and safe-keeping of the money collected by virtue of the internal revenue laws; and the receipt of the proper officer of such depositary to the proper officer or employee of the Treasury Department for the money deposited by him shall be a sufficient voucher for such Treasuryofficer or employee in the settlement of his accounts.
+The Secretary is authorized to designate one or more depositaries in each State for the deposit and safe-keeping of the money collected by virtue of the internal revenue laws; and the receipt of the proper officer of such depositary to the proper officer or employee of the Treasury Department for the money deposited by him shall be a sufficient voucher for such Treasury officer or employee in the settlement of his accounts.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 918; Oct. 4, 1976, Pub. L. 94–455, title XIX, §1906(b)(13)(A), 90 Stat. 1834.)
 

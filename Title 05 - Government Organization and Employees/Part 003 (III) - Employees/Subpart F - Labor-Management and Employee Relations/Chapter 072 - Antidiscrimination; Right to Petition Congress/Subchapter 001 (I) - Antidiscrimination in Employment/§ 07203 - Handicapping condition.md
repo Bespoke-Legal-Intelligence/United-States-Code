@@ -10,7 +10,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 5 U.S.C. 633(2)9.
 
@@ -22,7 +24,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-<b>1978</b>—Pub. L. 95–454, §703(a)(1), renumbered section 7153 of this title as this section.
+1978—Pub. L. 95–454, §703(a)(1), renumbered section 7153 of this title as this section.
 
 Pub. L. 95–454, §§101(b)(2), 906(a)(2), substituted “Handicapping condition” for “Physical handicap” in section catchline, “handicapping condition” for “physical handicap” wherever appearing in text, and “Office of Personnel Management” for “Civil Service Commission”.
 

@@ -14,7 +14,7 @@
 
 &emsp;(B) designate a person to construct and operate such a system, which person shall be the applicant, if any, which filed for a certificate of public convenience and necessity to construct and operate such system;
 
-&emsp;(C) identify those facilities, the construction of which, and those operations, the conduct of which, shall be encompassed within the term “construction and initial operation” for purposes of defining the scope of the directions contained in section 719g of this title, taking into consideration any recommendation of the Commission with respect thereto; and
+&emsp;(C) identify those facilities, the construction of which, and those operations, the conduct ofwhich, shall be encompassed within the term “construction and initial operation” for purposes of defining the scope of the directions contained in section 719g of this title, taking into consideration any recommendation of the Commission with respect thereto; and
 
 &emsp;(D) identify those provisions of law, relating to any determination of a Federal officer or agency as to whether a certificate, permit, right-of-way, lease, or other authorization shall be issued or be granted, which provisions the President finds (i) involve determinations which are subsumed in his decision and (ii) require waiver pursuant to section 719f(g) of this title in order to permit the expeditious construction and initial operation of the transportation system.
 

@@ -1,6 +1,6 @@
 ### §2114. Students: selection; status; obligation
 
-(a) Medical students at the University shall be selected under procedures prescribed by the Secretary of Defense. In so prescribing, the Secretary shall consider the recommendations of the Board. However, selection procedures prescribed by the Secretary of Defense shall emphasize the basic requirement that students demonstrate sincere motivation and dedication to acareer in the uniformed services (as defined in section 1072(1) of this title).
+(a) Medical students at the University shall be selected under procedures prescribed by the Secretary of Defense. In so prescribing, the Secretary shall consider the recommendations of the Board. However, selection procedures prescribed by the Secretary of Defense shall emphasize the basic requirement that students demonstrate sincere motivation and dedication to a career in the uniformed services (as defined in section 1072(1) of this title).
 
 (b) Medical students shall be commissioned officers of a uniformed service as determined under regulations prescribed by the Secretary of Defense after consulting with the Secretary of Health and Human Services. Notwithstanding any other provision of law, they shall serve on active duty in pay grade O–1 with full pay and allowances of that grade. Upon graduation they shall be appointed in a regular component, if qualified, unless they are covered by section 2115 of this title. Medical students who graduate shall be required, except as provided in section 2115 of this title, to serve thereafter on active duty under such regulations as the Secretary of Defense or the Secretary of Health and Human Services, as appropriate, may prescribe for not less than seven years, unless sooner released. Upon completion of, or release from, the active-duty service obligation, a member of the program who served on active-duty for less than 10 years shall serve in the Ready Reserve for the period specified in the following table:
 
@@ -32,7 +32,7 @@
 
 (d) A medical student who, under regulations prescribed by the Secretary of Defense, is dropped from the program for deficiency in conduct or studies, or for other reasons, may be required to perform active duty in an appropriate military capacity in accordance with the active duty obligation imposed by this section. In no case shall any such student be required to serve on active duty for any period in excess of a period equal to the period he participated in the program, except that in no case may any such student be required to serve on active duty less than one year.
 
-(e)(1) The Board, upon approval of the Secretary of Defense, may enter into agreements with foreign military medical schools for reciprocal education programs under which students at the University receive specialized military medical instruction at the foreign military medical school and military medical personnel of the country of such medical school receive specialized military medical instruction at the University. Any such agreement may be made on a reimbursable basis or a nonreimbursable basis.
+(e)(1) The Secretary of Defense may enter into agreements with foreign military medical schools for reciprocal education programs under which students at the University receive specialized military medical instruction at the foreign military medical school and military medical personnel of the country of such medical school receive specialized military medical instruction at the University. Any such agreement may be made on a reimbursable basis or a nonreimbursable basis.
 
 (2) Not more than 40 persons at any one time may receive instruction at the University under this subsection. Attendance of such persons at the University may not result in a decrease in the number of students enrolled in the University. Subsection (b) does not apply to students receiving instruction under this subsection.
 
@@ -46,9 +46,15 @@
 
 (g) The Secretary of Defense shall establish such selection procedures, service obligations, and other requirements as the Secretary considers appropriate for graduate students (other than medical students) in a postdoctoral, postgraduate, or technological institute established pursuant to section 2113(h) of this title.
 
-(Added Pub. L. 92–426, §2(a), Sept. 21, 1972, 86 Stat. 715; amended Pub. L. 96–107, title VIII, §803(b), Nov. 9, 1979, 93 Stat. 812; Pub. L. 96–513, title I, §114, title V, §511(65), Dec. 12, 1980, 94 Stat. 2877, 2926; Pub. L. 98–525, title XV, §1535, Oct. 19, 1984, 98 Stat. 2633; Pub. L. 101–189, div. A, title V, §511(a), Nov. 29, 1989, 103 Stat. 1439; Pub. L. 101–510, div. A, title V, §533(a), (b), Nov. 5, 1990, 104 Stat. 1564; Pub. L. 103–160, div. A, title VII, §732(a), Nov. 30, 1993, 107 Stat. 1696.)
+(h) A graduate of the University who is relieved of the graduate's active-duty service obligation under subsection (b) before the completion of that active-duty service obligation may be given, with or without the consent of the graduate, an alternative obligation in the same manner as provided in subparagraphs (A) and (B) of paragraph (1) of section 2123(e)(1) <sup>1</sup> of this title or paragraph (2) of such section for members of the Armed Forces Health Professions Scholarship and Financial Assistance program.
+
+(Added Pub. L. 92–426, §2(a), Sept. 21, 1972, 86 Stat. 715; amended Pub. L. 96–107, title VIII, §803(b), Nov. 9, 1979, 93 Stat. 812; Pub. L. 96–513, title I, §114, title V, §511(65), Dec. 12, 1980, 94 Stat. 2877, 2926; Pub. L. 98–525, title XV, §1535, Oct. 19, 1984, 98 Stat. 2633; Pub. L. 101–189, div. A, title V, §511(a), Nov. 29, 1989, 103 Stat. 1439; Pub. L. 101–510, div. A, title V, §533(a), (b), Nov. 5, 1990, 104 Stat. 1564; Pub. L. 103–160, div. A, title VII, §732(a), Nov. 30, 1993, 107 Stat. 1696; Pub. L. 104–106, div. A, title X, §1072(b)(3), Feb. 10, 1996, 110 Stat. 446; Pub. L. 104–201, div. A, title VII, §741(b), Sept. 23, 1996, 110 Stat. 2599.)
 
 #### Amendments
+
+1996—Subsec. (e)(1). Pub. L. 104–106 substituted “The Secretary of Defense” for “The Board, upon approval of the Secretary of Defense,”.
+
+Subsec. (h). Pub. L. 104–201 added subsec. (h).
 
 1993—Subsec. (a). Pub. L. 103–160, §732(a)(1), substituted “Medical students” for “Students” in first sentence.
 
@@ -76,6 +82,10 @@ Pub. L. 96–513, §114, struck out provision under which officers attending the
 
 1979—Subsec. (b). Pub. L. 96–107 substituted “uniformed” for “uniform”.
 
+#### Effective Date of 1996 Amendment
+
+Section 741(c) of Pub. L. 104–201 provided that: “The amendments made by this section \[amending this section and section 2123 of this title\] shall apply with respect to individuals who first become members of the Armed Forces Health Professions Scholarship and Financial Assistance program or students of the Uniformed Services University of the Health Sciences on or after October 1, 1996.”
+
 #### Effective Date of 1993 Amendment
 
 Section 732(b) of Pub. L. 103–160 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to students attending the Uniformed Services University of the Health Sciences on or after the date of the enactment of this Act \[Nov. 30, 1993\].”
@@ -97,4 +107,10 @@ Amendment by section 511(65) of Pub. L. 96–513 effective Dec. 12, 1980, see se
 #### Transfer of Functions
 
 For transfer of authority of Board of Regents of Uniformed Services University of the Health Sciences to Secretary of Defense, see section 8091 of Pub. L. 101–511, set out as a note under section 2113 of this title.
+
+#### Transition Provisions
+
+Section 741(d)(2) of Pub. L. 104–201 provided that: “In the case of any person who, as of October 1, 1996, is serving an active-duty service obligation as a graduate of the Uniformed Services University of the Health Sciences or is incurring an active-duty service obligation as a student of the University, and who is subsequently relieved of the active-duty service obligation before the completion of the obligation, the alternative obligations authorized by the amendment made by subsection (b) \[amending this section\] may be implemented by the Secretary of Defense with the agreement of the person.”
+
+<i><sup>1</sup></i><i> So in original. Probably should be “2123(e)”.</i>
 

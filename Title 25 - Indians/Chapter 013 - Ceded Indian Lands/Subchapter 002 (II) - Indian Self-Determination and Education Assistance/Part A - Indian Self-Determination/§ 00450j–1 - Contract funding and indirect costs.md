@@ -32,7 +32,7 @@
 
 &emsp;(B) to ensure compliance with the terms of the contract and prudent management.
 
-(6) Costs incurred before the initial year that a self-determination contract is in effect may not be included in the amount required to bepaid under paragraph (2) if the Secretary does not receive a written notification of the nature and extent of the costs prior to the date on which such costs are incurred.
+(6) Costs incurred before the initial year that a self-determination contract is in effect may not be included in the amount required to be paid under paragraph (2) if the Secretary does not receive a written notification of the nature and extent of the costs prior to the date on which such costs are incurred.
 
 #### (b) Reductions and increases in amount of funds provided
 
@@ -92,7 +92,7 @@ Any right of action or other remedy (other than those relating to a criminal off
 
 #### (g) Addition to contract of full amount contractor entitled; adjustment
 
-Upon the approval of a self-determination contract, the Secretary shall add to the contract the full amount of funds to which the contractoris entitled under subsection (a) of this section, subject to adjustments for each subsequent year that such tribe or tribal organization administers a Federal program, function, service, or activity under such contract.
+Upon the approval of a self-determination contract, the Secretary shall add to the contract the full amount of funds to which the contractor is entitled under subsection (a) of this section, subject to adjustments for each subsequent year that such tribe or tribal organization administers a Federal program, function, service, or activity under such contract.
 
 #### (h) Indirect costs for contracts for construction programs
 
@@ -180,11 +180,11 @@ Subsec. (c)(6). Pub. L. 103–413, §102(15)(C)–(E), added par. (6).
 
 Subsec. (f). Pub. L. 103–413, §102(16), inserted after second sentence “For the purpose of determining the 365-day period specified in this paragraph, an audit report shall be deemed to have been received on the date of actual receipt by the Secretary, if, within 60 days after receiving the report, the Secretary does not give notice of a determination by the Secretary to reject the single-agency report as insufficient due to noncompliance with chapter 75 of title 31 or noncompliance with any other applicable law.”
 
-Subsec. (g). Pub. L. 103–413, §102(17), added subsec. (g) and struck out former subsec. (g) which read as follows: “Upon the approval of a self-determination contract and at the request of an Indian tribe or tribal organization, the Secretary shall add the indirect cost funding amount awarded for a self-determination contract to the amount awarded for direct program funding for the first year and, subject to adjustments in the amount of direct program costs for the contract, for each subsequent year that the program remains continuously under contract.”
+Subsec. (g). Pub. L. 103–413, §102(17), added subsec. (g) and struck out former subsec. (g) which read as follows: “Upon the approval of a self-determination contract and at the request of an Indian tribe or tribal organization, the Secretary shall add the indirect cost funding amount awarded for a self-determination contract tothe amount awarded for direct program funding for the first year and, subject to adjustments in the amount of direct program costs for the contract, for each subsequent year that the program remains continuously under contract.”
 
 Subsec. (i). Pub. L. 103–413, §102(18), added subsec. (i) and struck out former subsec. (i) which read as follows: “Within one month after October 5, 1988, the Secretary is mandated to establish a team in each area of the Bureau of Indian Affairs which consists of agency personnel (area personnel in the Navajo Area and in the case of Indian tribes not served by an agency) and tribal representatives for the purpose of analyzing the ‘Indian Priority System’ and other aspects of the budgeting and funding allocation process of the Bureau of Indian Affairs for the purpose of making a report to Congress with appropriate recommendations for changes and legislative actions to achieve greater tribal decision-making authority over the use of funds appropriated for the benefit of the tribes and their members. The report along with the analysis, findings and recommendations of the area teams shall be submitted to Congress within six months of October 5, 1988. The Secretary may submit to Congress separate comments on the information and recommendations on the report.”
 
-Subsecs. (j) to (<i>o</i>). Pub. L. 103–413, §102(19), added subsecs. (j) to (<i>o).</i>
+Subsecs. (j) to (<i>o</i>). Pub. L. 103–413, §102(19), added subsecs. (j) to (<i>o</i>).
 
 1990—Subsec. (e). Pub. L. 101–644 substituted “1992” for “1988”.
 

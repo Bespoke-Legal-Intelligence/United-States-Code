@@ -38,7 +38,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) any participant who has attained normal retirement age, or who is within 5 years of attaining normal retirement age, on the effective date of the amendment, or the beneficiary of any such participant; and
 
-&emsp;&emsp;(C) the rate of employer contributions for the plan year in which the amendment becomes effective and for all succeeding planyears in which the plan is in reorganization equals or exceeds the greater of—
+&emsp;&emsp;(C) the rate of employer contributions for the plan year in which the amendment becomes effective and for all succeeding plan years in which the plan is in reorganization equals or exceeds the greater of—
 
 &emsp;&emsp;&emsp;(i) the rate of employer contributions, calculated without regard to the amendment, for the plan year in which the amendment becomes effective, or
 
@@ -66,7 +66,7 @@ A plan may not recoup a benefit payment which is in excess of the amount payable
 
 &emsp;&emsp;&emsp;(i) an increase in a benefit, or in the rate of future benefit accruals, shall be considered a benefit increase to the extent that the benefit, or the accrual rate, is thereby increased above the highest benefit level, or accrual rate, which was in effect under the terms of the plan before the effective date of the amendment reducing accrued benefits, and
 
-&emsp;&emsp;&emsp;(ii) an increase in a benefit, or in the rate of future benefit accruals, shall be considered a benefit restoration to the extent that the benefit, or the accrual rate, is not thereby increased above the highest benefit level, or accrual rate, which was in effect under the terms of the plan immediately before the effective date of the amendment reducing accrued benefits.
+&emsp;&emsp;&emsp;(ii) an increase in a benefit, or in the rate of future benefit accruals, shall be considered a benefit restoration to the extent that the benefit, or the accrual rate,is not thereby increased above the highest benefit level, or accrual rate, which was in effect under the terms of the plan immediately before the effective date of the amendment reducing accrued benefits.
 
 #### (2) Uniformity in benefit restoration
 

@@ -2,7 +2,7 @@
 
 #### (a) Reporting requirements; form, contents, etc.
 
-Each State shall prepare reports on its activities carried out with funds made available (or transferred for use) under this subchapter. Reports shall be prepared annually, covering the most recently completed fiscal year, and shall be in such form and contain such information (including but not limited to the information specified in subsection (c) of this section) as the State finds necessary to provide an accurate description of such activities, to secure a complete record of the purposes for which funds were spent, and to determine the extent to which funds were spent in a manner consistent with the reports required by section 1397c of this title. The State shall make copies of the reports required by this section available for public inspection within the State and shall transmit a copy to the Secretary. Copies shall also be provided, upon request, to any interested public agency, and each such agency may provide its views on these reports to the Congress.
+Each State shall prepare reports on its activities carried out with funds made available (or transferred for use) under this subchapter. Reports shall be prepared annually, covering the most recently completed fiscal year, and shall be in such form and contain such information\(including but not limited to the information specified in subsection (c) of this section) as the State finds necessary to provide an accurate description of such activities, to secure a complete record of the purposes for which funds were spent, and to determine the extent to which funds were spent in a manner consistent with the reports required by section 1397c of this title. The State shall make copies of the reports required by this section available for public inspection within the State and shall transmit a copy to the Secretary. Copies shall also be provided, upon request, to any interested public agency, and each such agency may provide its views on these reports to the Congress.
 
 #### (b) Audits; implementation, etc.
 
@@ -20,7 +20,7 @@ Each report prepared and transmitted by a State under subsection (a) of this sec
 
 &emsp;(4) the methods by which services were provided, showing separately the services provided by public agencies and those provided by private agencies, and broken down in each case to reflect the types of services and circumstances involved.
 
-> The Secretary shall establish uniform definitions of services for use by the States in preparing the information required by this subsection,and make such other provision as may be necessary or appropriate to assure that compliance with the requirements of this subsection will not be unduly burdensome on the States.
+> The Secretary shall establish uniform definitions of services for use by the States in preparing the information required by this subsection, and make such other provision as may be necessary or appropriate to assure that compliance with the requirements of this subsection will not be unduly burdensome on the States.
 
 #### (d) Additional accounting requirements
 

@@ -1,9 +1,9 @@
 
-46 U.S.C.<br>United States Code, 1995 Edition<br>Title 46 - SHIPPING<br>From the U.S. Government Publishing Office, www.gpo.gov
+46 U.S.C.<br>United States Code, 1996 Edition<br>Title 46 - SHIPPING<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 46—SHIPPING
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<i>This title was enacted by Pub. L. 98–89, §1, Aug. 26, 1983, 97 Stat. 500; Pub. L. 99–509, title V, subtitle B, §5101, Oct. 21, 1986, 100 Stat. 1913; Pub. L. 100–424, §6, Sept. 9, 1988, 102 Stat. 1591; and Pub. L. 100–710, Nov. 23, 1988, 102 Stat. 4735</i>
+<i>This title was enacted by Pub. L. 98–89, §1, Aug. 26, 1983, 97 Stat. 500; Pub. L. 99–509, title V, subtitle B, §5101, Oct. 21, 1986, 100 Stat. 1913; Pub. L. 100–424, §6, Sept. 9, 1988, 102 Stat. 1591; and Pub. L. 100–710, Nov. 23, 1988, 102 Stat. 4735</i>
 
 | Subtitle |  | Sec. |
 | :--- | :---: | ---: |
@@ -20,9 +20,13 @@
 
 Table Showing Disposition of All Sections of Former Title 46<br>\[Former sections of Title 46 that are not included in Title 46, Shipping, as enacted by Pub. L. 98–89, subtitle B of title V of Pub. L. 99–509, section 6 of Pub. L. 100–424, and Pub. L. 100–710 are set out in the Appendix to Title 46 and retain the same section numbers.\]
 
-<i>Title 46      Former Sections     </i>
+<i>Title 46</i>
 
-<i>Title 46         New Sections         </i>
+<i>Former Sections</i>
+
+<i>Title 46</i>
+
+<i>New Sections</i>
 
 1
 
@@ -3030,7 +3034,7 @@ Section 105 of Pub. L. 100–710, title I, Nov. 23, 1988, 102 Stat. 4751, provid
 
 “(d) An inference of legislative construction is not to be drawn by reason of the caption or catch line of a provision enacted by section 102 of this Act.
 
-“(e) If a provision of this Act is held invalid, all valid provisions that are severable from the invalid provision remain in effect. If a provision of this Act is held invalid in any of its applications, the provision remains valid for all valid applications that are severable from any of the invalid applications.”
+“(e) If a provision of this Act is held invalid, all valid provisions that are severable from the invalid provisionremain in effect. If a provision of this Act is held invalid in any of its applications, the provision remains valid for all valid applications that are severable from any of the invalid applications.”
 
 Section 5103(a)–(f) of Pub. L. 99–509, title V, subtitle B, Oct. 21, 1986, 100 Stat. 1927, provided that:
 
@@ -3076,7 +3080,7 @@ Section 5104(b) of Pub. L. 99–509, title V, subtitle B, Oct. 21, 1986, 100 Sta
 
 Section 4(a) of Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 599, provided that: “The repeal of a law by this Act may not be construed as a legislative implication that the provision was or was not in effect before its repeal.”
 
-Section 4(b) of Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 599, repealed specified laws relating to shipping, except forrights and duties that matured, penalties that were incurred, and proceedings that were begun before Aug. 26, 1983, and except as provided by section 2 of Pub. L. 98–89, set out as notes above and notes under sections 3101, 3302, 3715, and 6301 of this title.
+Section 4(b) of Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 599, repealed specified laws relating to shipping, except for rights and duties that matured, penalties that were incurred, and proceedings that were begun before Aug. 26, 1983, and except as provided by section 2 of Pub. L. 98–89, set out as notes above and notes under sections 3101, 3302, 3715, and 6301 of this title.
 
 #### Title Referred to in Other Sections
 

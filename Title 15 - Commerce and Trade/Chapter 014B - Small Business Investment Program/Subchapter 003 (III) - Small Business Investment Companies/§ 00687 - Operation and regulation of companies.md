@@ -18,7 +18,7 @@ Should any small business investment company violate or fail to comply with any 
 
 #### (e) Liability of United States
 
-Nothing in this chapter or in any other provision of law shall be deemed to impose any liability on the United States with respect to any obligation entered into, or stocks issued, or commitments made, by any company operating under the provisions of this chapter.
+Except as expressly provided otherwise in this chapter, nothing in this chapter or in any other provision of law shall be deemed to impose any liability on the United States with respect to any obligation entered into, or stocks issued, or commitments made, by any company operating under the provisions of this chapter.
 
 #### (f) Performance of functions, powers, and duties by Administration and Administrator
 
@@ -64,15 +64,15 @@ In the performance of, and with respect to the functions, powers, and duties ves
 
 #### (1) Certification by small business concern
 
-&emsp;Prior to receiving financial assistance from a company licensed pursuant to subsection (c) or (d) of section 681 of this title, a small business concern shall certify in writing that it meets the eligibility requirements of the Small Business Investment Company Program or the Specialized Small Business Investment Company Program, as applicable.
+&emsp;Prior to receiving financial assistance from a company licensed pursuant to section 681 of this title, a small business concern shall certify in writing that it meets the eligibility requirements of the Small Business Investment Company Program or the Specialized Small Business Investment Company Program, as applicable.
 
 #### (2) Certification by company
 
-&emsp;Prior to providing financial assistance to a small business concern under this chapter, a company licensed pursuant to subsection (c) or (d) of section 681 of this title shall certify in writing that it has reviewed the application for assistance of the small business concern and that all documentation and other information supports the eligibility of the applicant.
+&emsp;Prior to providing financial assistance to a small business concern under this chapter, a company licensed pursuant to section 681 of this title shall certify in writing that it has reviewed the application for assistance of the small business concern and that all documentation and other information supports the eligibility of the applicant.
 
 #### (3) Retention of certifications
 
-&emsp;Certificates made pursuant to paragraphs (1) and (2) shall be retained by the company licensed pursuant to subsection (c) or (d) of section 681 of this title for the duration of the financial assistance.
+&emsp;Certificates made pursuant to paragraphs (1) and (2) shall be retained by the company licensed pursuant to section 681 of this title for the duration of the financial assistance.
 
 #### (i) Interest rates
 
@@ -80,13 +80,13 @@ In the performance of, and with respect to the functions, powers, and duties ves
 
 (2) In the case of a business loan, the small business investment company making such loan may charge interest on such loan at a rate which does not exceed the maximum rate prescribed by regulation by the Administration for loans made by any licensee (determined without regard to any State rate incorporated by such regulation).
 
-(3) A State law or constitutional provision shall be preempted for purposes of paragraph (2) with respect to any loan if such loan is made before the date, on or after April 1, 1980, on which such State adopts a law or certifies that the voters of such State have voted in favor of any provision, constitutional or otherwise, which states explicitly and by its terms that such State does not want the provisions of this subsection to apply with respect to loans made in such State, except that such State law or constitutional orother provision shall be preempted in the case of a loan made, on or after the date on which such law is adopted or such certification is made, pursuant to a commitment to make such loan which was entered into on or after April 1, 1980, and prior to the date on which such law is adopted or such certification is made.
+(3) A State law or constitutional provision shall be preempted for purposes of paragraph (2) with respect to any loan if such loan is made before the date, on or after April 1, 1980, on which such State adopts a law or certifies that the voters of such State have voted in favor of any provision, constitutional or otherwise, which states explicitly and by its terms that such State does not want the provisions of this subsection to apply with respect to loans made in such State, except that such State law or constitutional or other provision shall be preempted in the case of a loan made, on or after the date on which such law is adopted or such certification is made, pursuant to a commitment to make such loan which was entered into on or after April 1, 1980, and prior to the date on which such law is adopted or such certification is made.
 
 (4)(A) If the maximum rate of interest authorized under paragraph (2) on any loan made by a small business investment company exceeds the rate which would be authorized by applicable State law if such State law were not preempted for purposes of this subsection, the charging of interest at any rate in excess of the rate authorized by paragraph (2) shall be deemed a forfeiture of the greater of (i) all interest which the loan carries with it, or (ii) all interest which has been agreed to be paid thereon.
 
 (B) In the case of any loan with respect to which there is a forfeiture of interest under subparagraph (A), the person who paid the interest may recover from a small business investment company making such loan an amount equal to twice the amount of the interest paid on such loan. Such interest may be recovered in a civil action commenced in a court of appropriate jurisdiction not later than two years after the most recent payment of interest.
 
-(Pub. L. 85–699, title III, §308, Aug. 21, 1958, 72 Stat. 694; Pub. L. 87–341, §§8, 11(c)(d), Oct. 3, 1961, 75 Stat. 753, 756; Pub. L. 88–273, §5, Feb. 28, 1964, 78 Stat. 147; Pub. L. 89–779, §3, Nov. 6, 1966, 80 Stat. 1359; Pub. L. 90–104, title II, §210, Oct. 11, 1967, 81 Stat. 271; 1970 Reorg. Plan No. 2, §102, eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2085; Pub. L. 93–501, title II, §204, Oct. 29, 1974, 88 Stat. 1559; Pub. L. 95–507, title I, §102, Oct. 24, 1978, 92 Stat. 1757; Pub. L. 96–104, title I, §104, Nov. 5, 1979, 93 Stat. 790; Pub. L. 96–161, title II, §204, Dec. 28, 1979, 93 Stat. 1236; Pub. L. 96–221, title V, §§524, 529, Mar. 31, 1980, 94 Stat. 166, 168; Pub. L. 99–226, §1, Dec. 28, 1985, 99 Stat. 1744; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 102–366, title IV, §§408(c), 417(a), Sept. 4, 1992, 106 Stat. 1016, 1019; Pub. L. 103–403, title II, §214, Oct. 22, 1994, 108 Stat. 4184.)
+(Pub. L. 85–699, title III, §308, Aug. 21, 1958, 72 Stat. 694; Pub. L. 87–341, §§8, 11(c)(d), Oct. 3, 1961, 75 Stat. 753, 756; Pub. L. 88–273, §5, Feb. 28, 1964, 78 Stat. 147; Pub. L. 89–779, §3, Nov. 6, 1966, 80 Stat. 1359; Pub. L. 90–104, title II, §210, Oct. 11, 1967, 81 Stat. 271; 1970 Reorg. Plan No. 2, §102, eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2085; Pub. L. 93–501, title II, §204, Oct. 29, 1974, 88 Stat. 1559; Pub. L. 95–507, title I, §102, Oct. 24, 1978, 92 Stat. 1757; Pub. L. 96–104, title I, §104, Nov. 5, 1979, 93 Stat. 790; Pub. L. 96–161, title II, §204, Dec. 28, 1979, 93 Stat. 1236; Pub. L. 96–221, title V, §§524, 529, Mar. 31, 1980, 94 Stat. 166, 168; Pub. L. 99–226, §1, Dec. 28, 1985, 99 Stat. 1744; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 102–366, title IV, §§408(c), 417(a), Sept. 4, 1992, 106 Stat. 1016, 1019; Pub. L. 103–403, title II, §214, Oct. 22, 1994, 108 Stat. 4184; Pub. L. 104–208, div. D, title II, §208(e), (h)(1)(B), Sept. 30, 1996, 110 Stat. 3009–745, 3009–747.)
 
 #### References in Text
 
@@ -105,6 +105,10 @@ Section 104 of Pub. L. 96–104, cited as a credit to this section, was repealed
 Section 204 of Pub. L. 93–501, cited as a credit to this section, was repealed by Pub. L. 96–104, §1, Nov. 5, 1979, 93 Stat. 789. The amendment of this section by that repealed provision, described in the 1974 Amendment note, shall continue in effect for limited purposes pursuant to section 1 of Pub. L. 96–104. See Savings Provisions note, describing the provisions of section 1 of Pub. L. 96–104, set out under section 85 of Title 12, Banks and Banking.
 
 #### Amendments
+
+1996—Subsec. (e). Pub. L. 104–208, §208(e), substituted “Except as expressly provided otherwise in this chapter, nothing” for “Nothing”.
+
+Subsec. (h). Pub. L. 104–208, §208(h)(1)(B), substituted “section 681 of this title” for “subsection (c) or (d) of section 681 of this title” in pars. (1) to (3).
 
 1994—Subsec. (h). Pub. L. 103–403 added subsec. (h).
 

@@ -34,7 +34,7 @@ In exercising its powers, functions and duties under this chapter—
 
 &emsp;(2) the Council shall, to the fullest extent possible, utilize the services, facilities, and information (including statistical information) of other Government agencies as well as of private research agencies, in order that duplication of effort and expense may be avoided.
 
-> In its work under this chapter and the Full Employment and Balanced Growth Act of 1978 \[15 U.S.C. 3101 et seq.\], the Council is authorized and directed to seek and obtain the cooperation of the various executive and independent agencies in the development of specialized studies essential to its responsibilities.
+> In its work under this chapter and the Full Employment and Balanced Growth Act of 1978 \[15 U.S.C. 3101 et seq.\], the Council is authorizedand directed to seek and obtain the cooperation of the various executive and independent agencies in the development of specialized studies essential to its responsibilities.
 
 #### (f) Appropriations
 
@@ -78,7 +78,7 @@ Certain functions of Council of Economic Advisers transferred to Chairman, see 1
 
 #### Termination of Advisory Committees
 
-Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of acommittee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### <b>REORGANIZATION PLAN NO. 9 OF 1953</b>
 
@@ -100,7 +100,7 @@ Ex. Ord. No. 11453, Jan. 24, 1969, 34 F.R. 1301, which established the Cabinet C
 
 #### Executive Order No. 12296
 
-Ex. Ord. No. 12296, Mar. 2, 1981, 46 F.R. 15129, as amended by Ex. Ord. No. 12309, June 9, 1981, 46 F.R. 30997, which related to the establishment, functions, administration, and termination of the President's Economic Policy Advisory Board, was revoked by Ex. Ord. No. 12692, Sept. 29, 1989, 54 F.R. 40627, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Ex. Ord. No. 12296, Mar. 2, 1981, 46 F.R. 15129, as amended by Ex. Ord. No. 12309, June 9, 1981, 46 F.R. 30997, which related to the establishment, functions, administration, and termination of the President's Economic Policy Advisory Board, was revoked by Ex. Ord. No. 12692, Sept. 29, 1989, 54 F.R. 40627, formerly set out as a note under section 14 of the Federal AdvisoryCommittee Act in the Appendix to Title 5, Government Organization and Employees.
 
 Term of the President's Economic Policy Advisory Board extended until Sept. 30, 1984, see Ex. Ord. No. 12399, Dec. 31, 1982, 48 F.R. 379, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 

@@ -52,7 +52,7 @@ Subsec. (c)(3). Pub. L. 96–289, §2, added par. (3).
 
 1978—Subsec. (a)(2). Pub. L. 95–428, §4(2), substituted “exchange among the United States and foreign nations (including, but not limited to, developing foreign nations)” for “international exchange”.
 
-Subsec. (c). Pub. L. 95–428, §4(3), substituted appropriations authorization of $3,000,000 for fiscal years 1977, through 1979, for prior $3,000,000 authorization for fiscal years ending Sept. 30, 1977 and 1978, and authorized appropriation of $5,000,000 for fiscal year 1980.
+Subsec. (c). Pub. L. 95–428, §4(3), substituted appropriations authorization of $3,000,000 for fiscal years1977, through 1979, for prior $3,000,000 authorization for fiscal years ending Sept. 30, 1977 and 1978, and authorized appropriation of $5,000,000 for fiscal year 1980.
 
 1977—Subsec. (c). Pub. L. 95–58 substituted “each of the fiscal years ending September 30, 1977, and September 30, 1978” for “the fiscal year ending September 30, 1977”.
 

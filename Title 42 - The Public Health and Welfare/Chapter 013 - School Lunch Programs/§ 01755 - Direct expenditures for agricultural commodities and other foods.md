@@ -52,7 +52,7 @@ Beginning with the school year ending June 30, 1981, the Secretary shall not off
 
 #### References in Text
 
-The Child Nutrition Act of 1966, referred to in subsec. (a), is Pub. L. 89–642, Oct. 11, 1966, 80 Stat. 885, as amended, which is classified generally to chapter 13A (§1771 et seq.) of this title. For complete classificationof this Act to the Code, see Short Title note set out under section 1771 of this title and Tables.
+The Child Nutrition Act of 1966, referred to in subsec. (a), is Pub. L. 89–642, Oct. 11, 1966, 80 Stat. 885, as amended, which is classified generally to chapter 13A (§1771 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1771 of this title and Tables.
 
 #### Codification
 
@@ -114,7 +114,7 @@ Subsec. (d). Pub. L. 93–150 reenacted provisions without change.
 
 Pub. L. 93–13 added subsec. (d).
 
-1970—Pub. L. 91–248 increased amount authorized for administrative expenses by 31/2 percent of the amountappropriated to carry out this chapter and the Child Nutrition Act of 1966, other than section 1772 of this title, made such amount available for the Secretary's administrative expenses, authorized use of up to 1 percent of the funds appropriated for this chapter and the Child Nutrition Act of 1966, other than section 1772 of this title, for nutritional training and education and studies of food service requirements in connection with those programs, reduced, to the extent funds were used for administrative expenses other than for this chapter or nutritional training or education or studies, the share of this chapter's appropriations which may be used for direct expenditure by the Secretary for agricultural commodities and other foods, and authorized distribution of such foods to schools and service institutions participating in food service programs under this chapter and the Child Nutrition Act of 1966.
+1970—Pub. L. 91–248 increased amount authorized for administrative expenses by 31/2 percent of the amount appropriated to carry out this chapter and the Child Nutrition Act of 1966, other than section 1772 of this title, made such amount available for the Secretary's administrative expenses, authorized use of up to 1 percent of the funds appropriated for this chapter and the Child Nutrition Act of 1966, other than section 1772 of this title, for nutritional training and education and studies of food service requirements in connection with those programs, reduced, to the extent funds were used for administrative expenses other than for this chapter or nutritional training or education or studies, the share of this chapter's appropriations which may be used for direct expenditure by the Secretary for agricultural commodities and other foods, and authorized distribution of such foods to schools and service institutions participating in food service programs under this chapter and the Child Nutrition Act of 1966.
 
 1968—Pub. L. 90–302 inserted “except section 1761 of this title” after “The funds appropriated for any fiscal year for carrying out the provisions of this chapter,”.
 
@@ -130,7 +130,7 @@ Section 131(c) of Pub. L. 101–147 provided that: “The amendments made by thi
 
 #### Effective Date of 1981 Amendment
 
-Amendment by sections 802 and 819(h) of Pub. L. 97–35 effective July 1, 1981, and Oct. 1, 1981, respectively, see section 820(a)(2), (4) of Pub. L. 97–35, set out as a note under section 1753 of this title.
+Amendment by sections 802 and 819(h) of Pub. L. 97–35 effective July 1, 1981, and Oct. 1, 1981, respectively, seesection 820(a)(2), (4) of Pub. L. 97–35, set out as a note under section 1753 of this title.
 
 #### Effective Date of 1978 Amendment
 

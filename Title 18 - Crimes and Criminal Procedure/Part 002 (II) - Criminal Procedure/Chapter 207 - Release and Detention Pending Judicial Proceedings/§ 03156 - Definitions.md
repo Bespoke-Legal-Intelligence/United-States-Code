@@ -1,4 +1,4 @@
-### §3156 . Definitions
+### §3156. Definitions
 
 (a) As used in sections 3141–3150 of this chapter—
 
@@ -6,7 +6,7 @@
 
 &emsp;(2) the term “offense” means any criminal offense, other than an offense triable by court-martial, military commission, provost court, or other military tribunal, which is in violation of an Act of Congress and is triable in any court established by Act of Congress;
 
-&emsp;(3) the term “felony” means an offense punishable by a maximum term of imprisonment of more than one year; and
+&emsp;(3) the term “felony” means an offense punishable by a maximum term of imprisonment of more than one year;
 
 &emsp;(4) the term “crime of violence” means—
 
@@ -14,7 +14,9 @@
 
 &emsp;&emsp;(B) any other offense that is a felony and that, by its nature, involves a substantial risk that physical force against the person or property of another may be used in the course of committing the offense; or
 
-&emsp;&emsp;(C) any felony under chapter 109A or chapter 110.
+&emsp;&emsp;(C) any felony under chapter 109A or chapter 110; and
+
+&emsp;(5) the term “State” includes a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
 
 (b) As used in sections 3152–3155 of this chapter—
 
@@ -22,9 +24,11 @@
 
 &emsp;(2) the term “offense” means any Federal criminal offense which is in violation of any Act of Congress and is triable by any court established by Act of Congress (other than a Class B or C misdemeanor or an infraction, or an offense triable by court-martial, military commission, provost court, or other military tribunal).
 
-(Added Pub. L. 93–619, title II, §201, Jan. 3, 1975, 88 Stat. 2088; amended Pub. L. 98–473, title II, §§203(c), 223(h), Oct. 12, 1984, 98 Stat. 1985, 2029; Pub. L. 99–646, §55(i), Nov. 10, 1986, 100 Stat. 3610; Pub. L. 103–322, title IV, §40501, Sept. 13, 1994, 108 Stat. 1945.)
+(Added Pub. L. 93–619, title II, §201, Jan. 3, 1975, 88 Stat. 2088; amended Pub. L. 98–473, title II, §§203(c), 223(h), Oct. 12, 1984, 98 Stat. 1985, 2029; Pub. L. 99–646, §55(i), Nov. 10, 1986, 100 Stat. 3610; Pub. L. 103–322, title IV, §40501, Sept. 13, 1994, 108 Stat. 1945; Pub. L. 104–294, title VI, §607(i), Oct. 11, 1996, 110 Stat. 3512.)
 
 #### Amendments
+
+1996—Subsec. (a)(5). Pub. L. 104–294 added par. (5).
 
 1994—Subsec. (a)(4)(C). Pub. L. 103–322 added subpar. (C).
 

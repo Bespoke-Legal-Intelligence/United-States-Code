@@ -16,6 +16,8 @@ Historical and Revision Notes
 
 315(a)
 
+&nbsp;
+
 315(b)
 
 32:68 (less 2d sentence).

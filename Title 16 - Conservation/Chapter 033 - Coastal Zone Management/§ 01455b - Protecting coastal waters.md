@@ -4,7 +4,7 @@
 
 #### (1) Program development
 
-&emsp;Not later than 30 months after the date of the publication of final guidance under subsection (g) of this section, each State for which a management program has been approved pursuant to section 306 of the Coastal Zone Management Act of 1972 \[16 U.S.C. 1455\] shall prepare and submit to the Secretary and the Administrator a Coastal Nonpoint Pollution Control Program for approval pursuant tothis section. The purpose of the program shall be to develop and implement management measures for nonpoint source pollution to restore and protect coastal waters, working in close conjunction with other State and local authorities.
+&emsp;Not later than 30 months after the date of the publication of final guidance under subsection (g) of this section, each State for which a management program has been approved pursuant to section 306 of the Coastal Zone Management Act of 1972 \[16 U.S.C. 1455\] shall prepare and submit to the Secretary and the Administrator a Coastal Nonpoint Pollution Control Program for approval pursuant to this section. The purpose of the program shall be to develop and implement management measures for nonpoint source pollution to restore and protect coastal waters, working in close conjunction with other State and local authorities.
 
 #### (2) Program coordination
 
@@ -66,7 +66,7 @@ Each State program under this section shall provide for the implementation, at a
 
 #### (3) Withholding coastal management assistance
 
-&emsp;If the Secretary finds that a coastal State has failed to submit an approvable program as required by this section, the Secretary shallwithhold for each fiscal year until such a program is submitted a portion of grants otherwise available to the State for the fiscal year under section 306 of the Coastal Zone Management Act of 1972 \[16 U.S.C. 1455\], as follows:
+&emsp;If the Secretary finds that a coastal State has failed to submit an approvable program as required by this section, the Secretary shall withhold for each fiscal year until such a program is submitted a portion of grants otherwise available to the State for the fiscal year under section 306 of the Coastal Zone Management Act of 1972 \[16 U.S.C. 1455\], as follows:
 
 &emsp;&emsp;(A) 10 percent for fiscal year 1996.
 
@@ -90,7 +90,7 @@ Each State program under this section shall provide for the implementation, at a
 
 &emsp;&emsp;(D) For fiscal year 1999 and each fiscal year thereafter, 30 percent of the amount awarded for fiscal year 1998 or other preceding fiscal year.
 
-> &emsp;The Administrator shall make amounts withheld under this paragraph available to States having programs approved pursuant to this subsection.
+> &emsp;The Administrator shall make amounts withheld under this paragraph available to Stateshaving programs approved pursuant to this subsection.
 
 #### (d) Technical assistance
 
@@ -178,7 +178,7 @@ The Secretary and the Administrator shall provide technical assistance to coasta
 
 #### (2) Secretary
 
-&emsp;(A) Of amounts appropriated to the Secretary for a fiscal year under section 318(a)(4) of the Coastal Zone Management Act of 1972, as amended by this Act \[16 U.S.C. 1464(a)(4)\], not more than $1,000,000 shall be available for use by the Secretary for carrying out this section for that fiscal year, other than for providing in the form of grants under subsection (f) of this section.
+&emsp;(A) Of amounts appropriated to the Secretary for a fiscal year under section 318(a)(4) <sup>1</sup> of the Coastal Zone Management Act of 1972, as amended by this Act, not more than $1,000,000 shall be available for use by the Secretary for carrying out this section for that fiscal year, other than for providing in the form of grants under subsection (f) of this section.
 
 &emsp;(B) There is authorized to be appropriated to the Secretary for use for providing in the form of grants under subsection (f) of this section not more than—
 
@@ -214,6 +214,8 @@ The Coastal Zone Management Act of 1972, referred to in subsecs. (a)(2) and (i)(
 
 This Act, referred to in subsecs. (a)(2) and (c)(2)(B), is Pub. L. 101–508, Nov. 5, 1990, 104 Stat. 1388, known as the Omnibus Budget Reconciliation Act of 1990. For complete classification of this Act to the Code, see Tables.
 
+Section 318(a) of the Coastal Zone Management Act of 1972, referred to in subsec. (h)(2)(A), which is classified to section 1464(a) of this title, was amended by Pub. L. 104–150, §4(1), June 3, 1996, 110 Stat. 1381, and, as so amended, does not contain a par. (4).
+
 #### Codification
 
 Section was enacted as part of the Coastal Zone Act Reauthorization Amendments of 1990 and also as part of the Omnibus Budget Reconciliation Act of 1990, and not as part of the Coastal Zone Management Act of 1972 which comprises this chapter.
@@ -225,4 +227,6 @@ Section was enacted as part of the Coastal Zone Act Reauthorization Amendments o
 #### Section Referred to in Other Sections
 
 This section is referred to in section 1455 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

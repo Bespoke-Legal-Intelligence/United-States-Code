@@ -15,7 +15,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 1437cc, 3027, 6705 of this title; title 20 sections 351a, 1406; title 29 sections 721, 776, 792; title 39 section 410.
+This chapter is referred to in sections 3027, 6705 of this title; title 20 section 1406; title 29 sections 721, 776, 792; title 39 section 410.
 
 
 ---

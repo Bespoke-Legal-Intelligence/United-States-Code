@@ -14,10 +14,6 @@
 
 1958—Pub. L. 85–861, §1(23), Sept. 2, 1958, 72 Stat. 1445, added items 1002, 1005, 1006, and 1007.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in section 113 of this title.
-
 
 ---
 

@@ -6,7 +6,7 @@ Each enterprise shall submit to the Secretary, the Committee on Banking, Finance
 
 #### Change of Name
 
-Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, setout as a note preceding section 21 of Title 2, The Congress.
 
 #### Section Referred to in Other Sections
 

@@ -106,7 +106,7 @@ For purposes of this section—
 
 &emsp;&emsp;(C) in the case of any payee who has filed a return for the taxable year, any deficiency of tax attributable to such failure has been assessed,
 
-> &emsp;the Secretary may notify payors of reportable interest or dividend payments with respect to such payee of the requirement to deduct and withhold under subsection (a)(1)(C) (but notthe reasons for the withholding under subsection (a)(1)(C)).
+> &emsp;the Secretary may notify payors of reportable interest or dividend payments with respect to such payee of the requirement to deduct and withhold under subsection (a)(1)(C) (but not the reasons for the withholding under subsection (a)(1)(C)).
 
 #### (2) Payee underreporting defined
 
@@ -148,7 +148,7 @@ For purposes of this section—
 
 &emsp;&emsp;In any case where notice has been given under paragraph (1) to any payor with respect to any underreporting, if the Secretary makes a determination under subparagraph (A) during the 12-month period ending on October 15 of any calendar year—
 
-&emsp;&emsp;&emsp;(i) except as provided in clause (ii), the Secretary shall take the action described in subparagraph (B)(ii) to bring about the stopping of withholding no later than December 1 of such calendar year, or
+&emsp;&emsp;&emsp;(i) except as provided in clause (ii), the Secretary shall take the action describedin subparagraph (B)(ii) to bring about the stopping of withholding no later than December 1 of such calendar year, or
 
 &emsp;&emsp;&emsp;(ii) in the case of—
 
@@ -290,7 +290,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;In the case of any payee certification failure described in subsection (d)(1), subsection\(a) shall apply to any reportable interest or dividend payment made during the period during which the certification described in subsection (d)(1) has not been furnished to the payor.
+&emsp;&emsp;In the case of any payee certification failure described in subsection (d)(1), subsection (a) shall apply to any reportable interest or dividend payment made during the period during which the certification described in subsection (d)(1) has not been furnished to the payor.
 
 #### (B) Special rule for readily tradable instruments acquired through broker where notification
 
@@ -390,7 +390,7 @@ For purposes of this section—
 
 #### (8) Requirement of notice to payee
 
-&emsp;Whenever the Secretary notifies a payor under paragraph (1)(B) of subsection (a) thatthe TIN furnished by any payee is incorrect, the Secretary shall at the same time furnish a copy of such notice to the payor, and the payor shall promptly furnish such copy to the payee.
+&emsp;Whenever the Secretary notifies a payor under paragraph (1)(B) of subsection (a) that the TIN furnished by any payee is incorrect, the Secretary shall at the same time furnish a copy of such notice to the payor, and the payor shall promptly furnish such copy to the payee.
 
 #### (9) Requirement of notice to Secretary
 
@@ -422,7 +422,7 @@ Subsec. (h)(5)(D). Pub. L. 99–514, §1521(b), added subpar. (D).
 
 Subsec. (d)(2)(A). Pub. L. 98–369, §722(h)(1)(A), inserted “the payor was notified by a broker under subparagraph (B) or” after “if (and only if)” in provisions preceding cl. (i), struck out cl. (i) which read as follows: “the payor was notified by a broker under subparagraph (B),” and redesignated cls. (ii) and (iii) as (i) and (ii), respectively.
 
-Subsec. (d)(2)(B). Pub. L. 98–369, §722(h)(1)(B), in amending subpar. (B) generally, reenacted cl. (i), in cl. (ii) inserted “with respect to such acquisition—”, added subcls. (I) and (II), redesignated former subcls. (I) and (II) as (III) and (IV), respectively, and in subcl. (III) substituted “the Secretary notifies such broker” for “such broker is notified by the Secretary”, and in provisions following cl. (ii) substituted “shall within such period as the Secretary may prescribe by regulations (but not later than 15 days after such acquisition), notify the payor that such payee is subject to withholding under subparagraph (A), (B), (C) or (D) of subsection (a)(1),” for “within 15 days after the date of the acquisition notify the payor that such payee is subject to withholding under subsection (a)(1)(D) (or subsection (a)(1)(C) in the case of a notification described in clause (ii)(II).”
+Subsec. (d)(2)(B). Pub. L. 98–369, §722(h)(1)(B), in amending subpar. (B) generally, reenacted cl. (i), in cl. (ii) inserted “with respect to such acquisition—”, addedsubcls. (I) and (II), redesignated former subcls. (I) and (II) as (III) and (IV), respectively, and in subcl. (III) substituted “the Secretary notifies such broker” for “such broker is notified by the Secretary”, and in provisions following cl. (ii) substituted “shall within such period as the Secretary may prescribe by regulations (but not later than 15 days after such acquisition), notify the payor that such payee is subject to withholding under subparagraph (A), (B), (C) or (D) of subsection (a)(1),” for “within 15 days after the date of the acquisition notify the payor that such payee is subject to withholding under subsection (a)(1)(D) (or subsection (a)(1)(C) in the case of a notification described in clause (ii)(II).”
 
 Subsec. (e)(1). Pub. L. 98–369, §152(a), inserted provision that the Secretary may require that a TIN required to be furnished under subsection (a)(1)(A) be provided under penalties of perjury only with respect to interest, dividends, patronage dividends, and amounts subject to broker reporting.
 

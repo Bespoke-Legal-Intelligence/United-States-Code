@@ -26,7 +26,7 @@ Where the decedent was the donor of the gift but, under the provisions of sectio
 
 #### (1) Amount of tax
 
-&emsp;For purposes of subsection (a), the amount of tax paid on a gift under chapter 12, or under corresponding provisions of prior laws, with respect to any gift shall be an amount which bears the same ratio to the total tax paid for the calendar quarter (or calendar year if the gift was made before January 1, 1971) in which the gift was made as the amount of such gift bears to the total amount of taxable gifts (computed without deduction of the specific exemption) for such quarter or year.
+&emsp;For purposes of subsection (a), the amount of tax paid on a gift under chapter 12, or under corresponding provisions of prior laws, with respect to any gift shall be an amount which bears the same ratio to the total tax paid for the calendar quarter (or calendar year if the gift was made before January 1, 1971) in whichthe gift was made as the amount of such gift bears to the total amount of taxable gifts (computed without deduction of the specific exemption) for such quarter or year.
 
 #### (2) Amount of gift
 

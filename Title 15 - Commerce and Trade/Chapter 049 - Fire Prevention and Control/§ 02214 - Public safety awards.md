@@ -16,7 +16,7 @@ There are hereby established two classes of honorary awards for the recognition 
 
 #### (c) Selection
 
-The Secretary and the Attorney General shall advise and assist the President in the selectionof individuals to whom the President's Award shall be tendered and in the course of performing such duties they shall seek and review nominations for such awards which are submitted to them by Federal, State, county, and local government officials. They shall annually transmit to the President the names of those individuals determined by them to merit the award, together with the reasons therefor. Recipients of the President's Award shall be selected by the President.
+The Secretary and the Attorney General shall advise and assist the President in the selection of individuals to whom the President's Award shall be tendered and in the course of performing such duties they shall seek and review nominations for such awards which are submitted to them by Federal, State, county, and local government officials. They shall annually transmit to the President the names of those individuals determined by them to merit the award, together with the reasons therefor. Recipients of the President's Award shall be selected by the President.
 
 #### (d) Limitation on number of awards
 

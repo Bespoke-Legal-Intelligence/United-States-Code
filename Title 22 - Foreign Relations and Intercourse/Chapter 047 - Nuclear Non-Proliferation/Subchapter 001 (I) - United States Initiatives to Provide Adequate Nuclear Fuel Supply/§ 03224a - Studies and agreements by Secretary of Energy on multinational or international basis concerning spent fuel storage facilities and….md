@@ -8,7 +8,7 @@ Department of Energy is hereby authorized to undertake studies, in cooperation w
 
 Section 101(20) of this Act, referred to in text, is section 101(20) of Pub. L. 95–238, title I, Feb. 25, 1978, 92 Stat. 48, which authorized appropriations for fuel cycle research and development and which was not classified to the Code. Pub. L. 95–238 is known as the Department of Energy Act of 1978—Civilian Applications.
 
-The Impoundment Control Act of 1974, referred to in text, is title X of Pub. L. 93–344, July 12, 1974, 88 Stat. 332, as amended, which is classified principally to chapter 17B (§681 et seq.) of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under section 681 of Title 2 and Tables.
+The Impoundment Control Act of 1974, referred to in text, is parts A and B of title X of Pub. L. 93–344, July 12, 1974, 88 Stat. 332, as amended, which is classified principally to subchapters I (§681) and II (§682 et seq.) of chapter 17B of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under section 681 of Title 2 and Tables.
 
 #### Codification
 
@@ -21,10 +21,4 @@ Section was enacted as part of the Department of Energy Act of 1978—Civilian A
 #### Change of Name
 
 Committee on Science, Space, and Technology of House of Representatives treated as referring to Committee on Science of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
-
-### SUBCHAPTER II—UNITED STATES INI-
-
-### TIATIVES TO STRENGTHEN THE IN-
-
-### TERNATIONAL SAFEGUARDS SYSTEM
 

@@ -32,7 +32,7 @@ The Institute shall maintain its principal offices in the State in which it is i
 
 #### (e) Tax status of Institute and programs assisted thereby
 
-The Institute, and any program assisted by the Institute, shall be eligible to be treated as an organization described in section 170(c)(2)(B) of title 26 and as an organization described in section 501(c)(3) of title 26 which is exempt from taxation under section 501(a) of title 26. If such treatments are conferred in accordance with theprovisions of title 26, the Institute, and programs assisted by the Institute, shall be subject to all provisions of title 26 relevant to the conduct of organizations exempt from taxation.
+The Institute, and any program assisted by the Institute, shall be eligible to be treated as an organization described in section 170(c)(2)(B) of title 26 and as an organization described in section 501(c)(3) of title 26 which is exempt from taxation under section 501(a) of title 26. If such treatments are conferred in accordance with the provisions of title 26, the Institute, and programs assisted by the Institute, shall be subject to all provisions of title 26 relevant to the conduct of organizations exempt from taxation.
 
 #### (f) Rules, regulations, etc.; notice and comment
 

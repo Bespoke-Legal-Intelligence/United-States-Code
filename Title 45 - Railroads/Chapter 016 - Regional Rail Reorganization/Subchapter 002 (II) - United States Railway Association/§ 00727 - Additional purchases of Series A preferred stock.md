@@ -48,7 +48,7 @@ Section 1139(b) of the Northeast Rail Service Act of 1981, referred to in subsec
 
 #### Amendments
 
-1986—Subsec. (c). Pub. L. 99–509, §4033(b)(2), substituted “applicable to any taxable period commencingbefore January 1, 1987” for “, until the property of the Corporation is transferred by the Secretary under subchapter IV of this chapter”.
+1986—Subsec. (c). Pub. L. 99–509, §4033(b)(2), substituted “applicable to any taxable period commencing before January 1, 1987” for “, until the property of the Corporation is transferred by the Secretary under subchapter IV of this chapter”.
 
 Subsec. (e). Pub. L. 99–509, §4033(b)(3), struck out “and shall collect” after “right to collect”.
 

@@ -7,7 +7,7 @@
 | [2803\.](%C2%A7%2002803%20-%20Emergency%20construction.md) | Emergency construction. |
 | [2804\.](%C2%A7%2002804%20-%20Contingency%20construction.md) | Contingency construction. |
 | [2805\.](%C2%A7%2002805%20-%20Unspecified%20minor%20construction.md) | Unspecified minor construction. |
-| [2806\.](%C2%A7%2002806%20-%20Contributions%20for%20North%20Atlantic%20Treaty%20Organization%20Infrastructure.md) | Contributions for North Atlantic Treaty Organization Infrastructure. |
+| [2806\.](%C2%A7%2002806%20-%20Contributions%20for%20North%20Atlantic%20Treaty%20Organizations%20Security%20Investment.md) | Contributions for North Atlantic Treaty Organizations Security Investment. |
 | [2807\.](%C2%A7%2002807%20-%20Architectural%20and%20engineering%20services%20and%20construction%20design.md) | Architectural and engineering services and construction design. |
 | [2808\.](%C2%A7%2002808%20-%20Construction%20authority%20in%20the%20event%20of%20a%20declaration%20of%20war%20or%20national%20emergency.md) | Construction authority in the event of a declaration of war or national emergency. |
 | [2809\.](%C2%A7%2002809%20-%20Long-term%20facilities%20contracts%20for%20certain%20activities%20and%20services.md) | Long-term facilities contracts for certain activities and services. |
@@ -19,6 +19,10 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1996—Pub. L. 104–201, div. B, title XXVIII, §2802(c)(2), Sept. 23, 1996, 110 Stat. 2787, substituted “Organizations Security Investment” for “Organization Infrastructure” in item 2806.
+
+Pub. L. 104–106, div. A, title XV, §1503(a)(31), Feb. 10, 1996, 110 Stat. 512, inserted period at end of item 2811.
 
 1994—Pub. L. 103–337, div. B, title XXVIII, §2801(b), Oct. 5, 1994, 108 Stat. 3050, substituted “Repair” for “Renovation” in item 2811.
 
@@ -46,7 +50,7 @@ Pub. L. 99–499, title II, §211(b)(2), Oct. 17, 1986, 100 Stat. 1726, added it
 - [&sect; 02803 - Emergency construction](%C2%A7%2002803%20-%20Emergency%20construction.md)
 - [&sect; 02804 - Contingency construction](%C2%A7%2002804%20-%20Contingency%20construction.md)
 - [&sect; 02805 - Unspecified minor construction](%C2%A7%2002805%20-%20Unspecified%20minor%20construction.md)
-- [&sect; 02806 - Contributions for North Atlantic Treaty Organization Infrastructure](%C2%A7%2002806%20-%20Contributions%20for%20North%20Atlantic%20Treaty%20Organization%20Infrastructure.md)
+- [&sect; 02806 - Contributions for North Atlantic Treaty Organizations Security Investment](%C2%A7%2002806%20-%20Contributions%20for%20North%20Atlantic%20Treaty%20Organizations%20Security%20Investment.md)
 - [&sect; 02807 - Architectural and engineering services and construction design](%C2%A7%2002807%20-%20Architectural%20and%20engineering%20services%20and%20construction%20design.md)
 - [&sect; 02808 - Construction authority in the event of a declaration of war or national emergency](%C2%A7%2002808%20-%20Construction%20authority%20in%20the%20event%20of%20a%20declaration%20of%20war%20or%20national%20emergency.md)
 - [&sect; 02809 - Long-term facilities contracts for certain activities and services](%C2%A7%2002809%20-%20Long-term%20facilities%20contracts%20for%20certain%20activities%20and%20services.md)

@@ -78,7 +78,7 @@ The order shall provide for the establishment and appointment by the Secretary, 
 
 #### (d) Term of office
 
-A member of the Delegate Body shall serve for a term of 1 year, except that the term of a member of the Delegate Body shall continue until the successor of such member, if any, is appointed in accordance with subsection (b)(1) of this section.
+A member of the Delegate Body shall serve for a term of 1 year, except that the term of a member of the Delegate Body shall continue untilthe successor of such member, if any, is appointed in accordance with subsection (b)(1) of this section.
 
 #### (e) Chairman
 

@@ -6,5 +6,5 @@ In any proceeding involving the issue of whether or not an income tax return pre
 
 #### Prior Provisions
 
-A prior section 7427 was renumbered 7434 of this title.
+A prior section 7427 was renumbered 7436 of this title.
 

@@ -2,7 +2,7 @@
 
 #### (a) Purposes
 
-The purposes of this section are to promote the prevention and deterrence of instances of fraud, bid rigging, and other anticompetitive activities encountered in the procurement of products for child nutrition programs by—
+The purposes of this section are to promote the prevention and deterrence of instances offraud, bid rigging, and other anticompetitive activities encountered in the procurement of products for child nutrition programs by—
 
 &emsp;(1) establishing guidelines and a timetable for the Secretary to initiate debarment proceedings, as well as establishing mandatory debarment periods; and
 
@@ -86,7 +86,7 @@ The Secretary shall—
 
 #### (B) Previous debarment
 
-&emsp;&emsp;If the contractor has been previously debarred pursuant to nonprocurement debarment proceedings initiated pursuant to paragraph (1), and the cause for debarment is described in paragraph (2) based on activities that occurred subsequent to the initial debarment, the debarment shall be for a period of not less than 5 years.
+&emsp;&emsp;If the contractor has been previously debarred pursuant to nonprocurement debarment proceedings initiated pursuant to paragraph (1), and the cause for debarment is described in paragraph (2) based on activitiesthat occurred subsequent to the initial debarment, the debarment shall be for a period of not less than 5 years.
 
 #### (C) Scope
 
@@ -150,7 +150,7 @@ On request, the Secretary shall present to the Committee on Education and Labor,
 
 #### Change of Name
 
-Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Economic and Educational Opportunities of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Fifth Congress, Jan. 7, 1997.
 
 #### Effective Date
 

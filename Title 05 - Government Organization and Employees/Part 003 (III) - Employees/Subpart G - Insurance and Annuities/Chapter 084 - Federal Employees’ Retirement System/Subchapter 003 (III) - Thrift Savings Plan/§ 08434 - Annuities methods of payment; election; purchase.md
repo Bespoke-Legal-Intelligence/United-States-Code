@@ -32,27 +32,27 @@
 
 (e)(1) No tax, fee, or other monetary payment may be imposed or collected by any State, the District of Columbia, or the Commonwealth of Puerto Rico, or by any political subdivision or other governmental authority thereof, on, or with respect to, any amount paid to purchase an annuity contract under this section.
 
-(2) Paragraph (1) shall not be construed to exempt any company or other entity issuing an annuity contract under this section from the imposition, payment, or collection of a tax, fee, or other monetary payment on the net income or profit accruing to or realized by that entity from the sale of an annuity contract under thissection if that tax, fee, or payment is applicable to a broad range of business activity.
+(2) Paragraph (1) shall not be construed to exempt any company or other entity issuing an annuity contract under this section from the imposition, payment, or collection of a tax, fee, or other monetary payment on the net income or profit accruing to or realized by that entity from the sale of an annuity contract under this section if that tax, fee, or payment is applicable to a broad range of business activity.
 
 (Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 546; amended Pub. L. 100–238, title I, §129, Jan. 8, 1988, 101 Stat. 1759; Pub. L. 101–335, §§4(a), 5(b), July 17, 1990, 104 Stat. 321; Pub. L. 103–226, §9(c), (i)(8), Mar. 30, 1994, 108 Stat. 120, 122.)
 
 #### Amendments
 
-<b>1994</b>—Subsec. (b). Pub. L. 103–226, §9(i)(8), substituted “section 8435(b)” for “section 8435(c)”.
+1994—Subsec. (b). Pub. L. 103–226, §9(i)(8), substituted “section 8435(b)” for “section 8435(c)”.
 
 Subsec. (c). Pub. L. 103–226, §9(c), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “Notwithstanding an elimination of a method of payment by the Board—
 
-&emsp;“(1) an employee, Member, former employee, or former Member who is entitled under section 8412 of this title to an immediate annuity not reduced under section 8415(f) of this title may elect the eliminated method if the elimination of such method became effective less than 5 years before the date on which the annuity commences; and
+&emsp;“(1) an employee, Member, former employee, or former Member who is entitled under section 8412 ofthis title to an immediate annuity not reduced under section 8415(f) of this title may elect the eliminated method if the elimination of such method became effective less than 5 years before the date on which the annuity commences; and
 
 &emsp;“(2) any other employee, Member, former employee, or former Member may elect such method of payment for amounts contributed by or on behalf of the employee, Member, former employee, or former Member under section 8432 of this title before such effective date and for earnings attributable to such amounts.”
 
-<b>1990</b>—Subsec. (b). Pub. L. 101–335, §5(b)(1), substituted “an annuity contract is purchased to provide for that annuity,” for “the annuity commences,”.
+1990—Subsec. (b). Pub. L. 101–335, §5(b)(1), substituted “an annuity contract is purchased to provide for that annuity,” for “the annuity commences,”.
 
 Subsec. (d)(1). Pub. L. 101–335, §5(b)(2), substituted “Not earlier than 90 days (or such shorter period as the Executive Director may by regulation prescribe) before an annuity” for “At the time an annuity”.
 
 Subsec. (e). Pub. L. 101–335, §4(a), added subsec. (e).
 
-<b>1988</b>—Subsec. (a)(2)(C), (D). Pub. L. 100–238 amended subpars. (C) and (D) generally. Prior to amendment, subpars. (C) and (D) read as follows:
+1988—Subsec. (a)(2)(C), (D). Pub. L. 100–238 amended subpars. (C) and (D) generally. Prior to amendment, subpars. (C) and (D) read as follows:
 
 “(C) a method described in subparagraph (A) which provides annual increases in the amount of the annuity payable;
 

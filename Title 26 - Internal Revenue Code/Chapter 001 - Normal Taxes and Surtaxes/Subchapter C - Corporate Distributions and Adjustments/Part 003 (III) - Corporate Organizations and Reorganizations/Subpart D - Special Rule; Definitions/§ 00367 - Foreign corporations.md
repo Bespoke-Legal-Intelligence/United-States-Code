@@ -120,7 +120,7 @@
 
 #### (C) Amounts received treated as United States source ordinary income
 
-&emsp;&emsp;For purposes of this chapter, any amount included in gross income by reason of thissubsection shall be treated as ordinary income from sources within the United States.
+&emsp;&emsp;For purposes of this chapter, any amount included in gross income by reason of this subsection shall be treated as ordinary income from sources within the United States.
 
 #### (e) Treatment of distributions described in section 355 or liquidations under section 332
 
@@ -198,7 +198,7 @@ Special rule for certain transfers of intangibles.—
 
 &emsp;“(A)
 
-In general.—If, after June 6, 1984, and before January 1, 1985, a United States person transfers anyintangible property (within the meaning of section 936(h)(3)(B) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) to a foreign corporation or in a transfer described in section 1491, such transfer shall be treated for purposes of sections 367(a), 1492(2), and 1494(b) of such Code as pursuant to a plan having as 1 of its principal purposes the avoidance of Federal income tax.
+In general.—If, after June 6, 1984, and before January 1, 1985, a United States person transfers any intangible property (within the meaning of section936(h)(3)(B) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) to a foreign corporation or in a transfer described in section 1491, such transfer shall be treated for purposes of sections 367(a), 1492(2), and 1494(b) of such Code as pursuant to a plan having as 1 of its principal purposes the avoidance of Federal income tax.
 
 &emsp;“(B)
 

@@ -14,7 +14,7 @@
 
 &emsp;(B) with respect to the Sergeant at Arms, the position of minority pair clerk in the House, and
 
-&emsp;(C) with respect to the Doorkeeper, positions under the House Radio and Television Correspondents’ Gallery and the House Periodical Press Gallery.
+&emsp;(C) with respect to the Chief Administrative Officer, positions under the House Radio and Television Correspondents’ Gallery and the House Periodical Press Gallery.
 
 (2) The position descriptions shall—
 
@@ -44,17 +44,15 @@
 
 > All such actions of the committee shall be binding on the House officer and organization unit concerned and shall be the basis for payment of compensation and for other personnel benefits and transactions until otherwise changed by the committee.
 
-(Pub. L. 88–652, §5, Oct. 13, 1964, 78 Stat. 1080; Pub. L. 104–53, title I, §108(3), (4), Nov. 19, 1995, 109 Stat. 522.)
+(Pub. L. 88–652, §5, Oct. 13, 1964, 78 Stat. 1080; Pub. L. 104–53, title I, §108(3), (4), Nov. 19, 1995, 109 Stat. 522; Pub. L. 104–186, title II, §209(2), Aug. 20, 1996, 110 Stat. 1743.)
 
 #### Amendments
+
+1996—Subsec. (b)(1)(C). Pub. L. 104–186 substituted “Chief Administrative Officer” for “Doorkeeper”.
 
 1995—Subsec. (b)(1). Pub. L. 104–53 substituted “Chief Administrative Officer, and the Inspector General” for “Doorkeeper, and the Postmaster”.
 
 Subsec. (c). Pub. L. 104–53 substituted “Chief Administrative Officer, and the Inspector General” for “Doorkeeper, and the Postmaster,”.
-
-#### Abolition of Office of Doorkeeper
-
-Office of Doorkeeper of House of Representatives abolished and functions transferred generally to Sergeant-at-Arms of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
 
 #### Transfer of Functions
 

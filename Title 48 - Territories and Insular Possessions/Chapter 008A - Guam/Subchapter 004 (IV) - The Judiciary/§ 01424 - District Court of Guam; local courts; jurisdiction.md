@@ -44,7 +44,7 @@ Section 2 of act Aug. 27, 1954, provided that: “The amendment made by section 
 
 Section 4 of act Aug. 27, 1954, provided: “If any particular provision of this Act \[amending this section and enacting provisions set out as notes under this section\], or the application thereof to any person or circumstances, is held invalid, the remainder of the Act and the application of such provision to other persons or circumstances shall not be affected thereby.”
 
-#### Nonreversal of Convictions Prior to August 27, 1954
+#### Nonreversal of Convictions Prior to August 27, 1954
 
 Section 3 of act Aug. 27, 1954, provided: “No conviction of a defendant in a criminal proceeding in the District Court of Guam heretofore had shall be reversed or set aside on the ground that the defendant was not indicted by a grand jury or tried by a petit jury.”
 

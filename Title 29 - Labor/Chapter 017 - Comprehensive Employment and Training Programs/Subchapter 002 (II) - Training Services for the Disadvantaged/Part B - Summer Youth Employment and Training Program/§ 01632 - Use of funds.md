@@ -24,7 +24,7 @@ Funds available under this part may be used for—
 
 &emsp;&emsp;(B) the Job Corps;
 
-&emsp;&emsp;(C) the JOBS program;
+&emsp;&emsp;(C) Repealed. Pub. L. 104–193, title I, §110(n)(8)(A), Aug. 22, 1996, 110 Stat. 2174;
 
 &emsp;&emsp;(D) youth corps programs;
 
@@ -42,7 +42,7 @@ Funds available under this part may be used for—
 
 #### (B) Recent assessment
 
-&emsp;&emsp;A new assessment, or a factor of such assessment, of a participant is not required if the program determines it is appropriate to use a recent assessment of the participant conducted pursuant to another education or training program (such as the JOBS program or a regular high school academic program).
+&emsp;&emsp;A new assessment, or a factor of such assessment, of a participant is not required if the program determines it is appropriate to use a recent assessment of the participant conducted pursuant to another education or training program (such as a regular high school academic program).
 
 #### (2) Service strategy
 
@@ -52,7 +52,7 @@ Funds available under this part may be used for—
 
 #### (B) Recent service strategy
 
-&emsp;&emsp;A new service strategy for a participant is not required if the program determines it is appropriate to use a recent service strategy developed for the participant under another education or training program (such as the JOBS program or a regular high school academic program).
+&emsp;&emsp;A new service strategy for a participant is not required if the program determines it is appropriate to use a recent service strategy developed for the participant under another education or training program (such as a regular high school academic program).
 
 #### (3) Basic education and preemployment training
 
@@ -66,7 +66,7 @@ Funds available under this part may be used for—
 
 #### (A) Work experience
 
-&emsp;&emsp;Work experience provided under this part, to the extent feasible, shall include contextual learning opportunities which integrate the development of general competencies with the development of academic skills.
+&emsp;&emsp;Work experience provided under this part, to the extent feasible, shall include contextual learning opportunities which integratethe development of general competencies with the development of academic skills.
 
 #### (B) Classroom training
 
@@ -80,7 +80,7 @@ Service delivery areas shall make followup services available for participants i
 
 In conducting the program assisted under this part, service delivery areas shall establish linkages with the appropriate educational agencies responsible for service to participants. Such linkages shall include arrangements to ensure that there is a regular exchange of information relating to the progress, problems and needs of participants, including the results of assessments of the skill levels of participants.
 
-(Pub. L. 97–300, title II, §253, as added Pub. L. 102–367, title II, §204, Sept. 7, 1992, 106 Stat. 1061; amended Pub. L. 103–227, title X, §1016(a)(1)–(2)(B), Mar. 31, 1994, 108 Stat. 267.)
+(Pub. L. 97–300, title II, §253, as added Pub. L. 102–367, title II, §204, Sept. 7, 1992, 106 Stat. 1061; amended Pub. L. 103–227, title X, §1016(a)(1)–(2)(B), Mar. 31, 1994, 108 Stat. 267; Pub. L. 104–193, title I, §110(n)(8), Aug. 22, 1996, 110 Stat. 2174.)
 
 #### Prior Provisions
 
@@ -90,11 +90,19 @@ A prior section 253 of Pub. L. 97–300 was renumbered section 254 and classifie
 
 #### Amendments
 
+1996—Subsec. (b)(2)(C). Pub. L. 104–193, §110(n)(8)(A), struck out subpar. (C) which read as follows: “the JOBS program;”.
+
+Subsec. (c)(1)(B), (2)(B). Pub. L. 104–193, §110(n)(8)(B), struck out “the JOBS program or” before “a regular high school academic program).”
+
 1994—Subsec. (a)(1). Pub. L. 103–227, §1016(a)(1), inserted “academic enrichment” after “remedial education,”.
 
 Subsec. (c)(3), (4). Pub. L. 103–227, §1016(a)(2)(A), added pars. (3) and (4).
 
 Subsec. (e). Pub. L. 103–227, §1016(a)(2)(B), added subsec. (e).
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–193 effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as an Effective Date note under section 601 of Title 42, The Public Health and Welfare.
 
 #### Effective Date
 

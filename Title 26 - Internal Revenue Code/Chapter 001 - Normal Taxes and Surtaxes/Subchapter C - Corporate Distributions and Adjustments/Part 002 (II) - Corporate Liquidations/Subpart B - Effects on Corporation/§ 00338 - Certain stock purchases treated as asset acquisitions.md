@@ -144,7 +144,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) the stock is not acquired in an exchange to which section 351, 354, 355, or 356 applies and is not acquired in any other transaction described in regulations in which the transferor does not recognize the entire amount of the gain or loss realized on the transaction, and
 
-&emsp;&emsp;&emsp;(iii) the stock is not acquired from a person the ownership of whose stock would,under section 318(a) (other than paragaraph <sup>1</sup> (4) thereof), be attributed to the person acquiring such stock.
+&emsp;&emsp;&emsp;(iii) the stock is not acquired from a person the ownership of whose stock would, under section 318(a) (other than paragaraph <sup>1</sup> (4) thereof), be attributed to the person acquiring such stock.
 
 #### (B) Deemed purchase under subsection (a)
 
@@ -378,7 +378,7 @@ Binding contract exception.—The amendments made by this section shall not appl
 
 #### Effective Date of 1988 Amendment
 
-Section 1012(bb)(5)(B) of Pub. L. 100–647 provided that: “The amendment made by subparagraph (A) \[amending this section\] shall apply to qualified stock purchases (as defined in section 338(d)(3) of the 1986 Code) after March 31, 1988, except that, in the case of an electionunder section 338(h)(10) of the 1986 Code, such amendment shall apply to qualified stock purchases (as so defined) after June 10, 1987.”
+Section 1012(bb)(5)(B) of Pub. L. 100–647 provided that: “The amendment made by subparagraph (A) \[amending this section\] shall apply to qualified stock purchases (as defined in section 338(d)(3) of the 1986 Code) after March 31, 1988, except that, in the case of an election under section 338(h)(10) of the 1986 Code, such amendment shall apply to qualified stock purchases (as so defined) after June 10, 1987.”
 
 Amendment by sections 1006(e)(20) and 1018(d)(9) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
@@ -488,7 +488,7 @@ Section 1804(e)(9) of Pub. L. 99–514 provided that: “In the case of a Rhode 
 
 #### Special Rules for Deemed Purchases under Prior Law
 
-Section 712(k)(10) of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, providedthat: “If, before October 20, 1983, a corporation was treated as making a qualified stock purchase (as defined in section 338(d)(3) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]), but would not be so treated under the amendments made by paragraphs (5) and (6) \[amending subsec. (h) and section 318(b)(4) of this title\] of this subsection, the amendments made by such paragraphs shall not apply to such purchase unless such corporation elects (at such time and in such manner as the Secretary of the Treasury or his delegate may by regulations prescribe) to have the amendments made by such paragraphs apply.
+Section 712(k)(10) of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “If, before October 20, 1983, a corporation was treated as making a qualified stock purchase (as defined in section 338(d)(3) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]), but would not be so treated under the amendments made by paragraphs (5) and (6) \[amending subsec. (h) and section 318(b)(4) of this title\] of this subsection, the amendments made by such paragraphs shall not apply to such purchase unless such corporation elects (at such time and in such manner as the Secretary of the Treasury or his delegatemay by regulations prescribe) to have the amendments made by such paragraphs apply.
 
 #### Exception for Stock Purchases in Contemplation of Target Corporation as Member of Affiliated Group
 

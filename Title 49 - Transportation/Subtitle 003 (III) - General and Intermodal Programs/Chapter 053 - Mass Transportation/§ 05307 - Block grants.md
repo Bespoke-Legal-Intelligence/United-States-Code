@@ -8,11 +8,9 @@ Definitions.—In this section—
 
 &emsp;(2) “designated recipient” means—
 
-&emsp;&emsp;(A) a person designated, consistent with the planning process under sections 5303–5306 of this title, by the chief executive officer of a State, responsible local officials, and publicly owned operators of mass transportation to receive and apportion amounts under section 5336 of this title that are attributable to transportation management areas established under section 5305(a) of this title;
+&emsp;&emsp;(A) a person designated, consistent with the planning process under sections 5303–5306 of this title, by the chief executive officer of a State, responsible local officials, and publicly owned operators of mass transportation to receive and apportion amounts under section 5336 of this title that are attributable to transportation management areas established under section 5305(a) of this title; or
 
-&emsp;&emsp;(B) a State or regional authority if the authority is responsible under the laws of a State for a capital project and for financing and directly providing mass transportation; or
-
-&emsp;&emsp;(C) a recipient designated under section 5(b)(1) <sup>1</sup> of the Federal Transit Act not later than January 5, 1983.
+&emsp;&emsp;(B) a State or regional authority if the authority is responsible under the laws of a State for a capital project and for financing and directly providing mass transportation.
 
 (b)
 
@@ -128,7 +126,7 @@ Reviews, Audits, and Evaluations.—(1)(A) At least annually, the Secretary shal
 
 (B) An audit of the use of amounts of the Government shall comply with the auditing procedures of the Comptroller General.
 
-(2) At least once every 3 years, the Secretary shall review and evaluate completely the performance of a recipient in carrying out the recipient's program, specifically referring to compliance with statutory and administrative requirements and the extent to which actual program activities are consistent with the activities proposed under subsection (d) of this section and the planning process required under sections 5303–5306 of this title.
+(2) At least once every 3 years, the Secretary shall review and evaluate completely the performance of a recipient in carrying out the recipient's program, specifically referring to compliance with statutory and administrative requirements and the extent to which actual program activities are consistent with the activities proposed under subsection (d) of this sectionand the planning process required under sections 5303–5306 of this title.
 
 (3) The Secretary may take appropriate action consistent with a review, audit, and evaluation under this subsection, including making an appropriate adjustment in the amount of a grant or withdrawing the grant.
 
@@ -140,7 +138,7 @@ Reports.—A recipient (including a person receiving amounts from a chief execut
 
 Submission of Certifications.—A certification under subsection (d) of this section and any additional certification required by law to be submitted to the Secretary may be consolidated into a single document to be submitted annually as part of the grant application under this section. The Secretary shall publish annually a list of all certifications required under this chapter with the publication required under section 5336(e)(2) of this title.
 
-(<i>l)</i>
+(<i>l</i>)
 
 Procurement System Approval.—A recipient may request the Secretary to approve its procurement system. The Secretary shall approve the system for use for procurements financed under section 5336 of this title if, after consulting with the Administrator for Federal Procurement Policy, the Secretary decides the system provides for competitive procurement. Approval of a system under this subsection does not relieve a recipient of the duty to certify under subsection (d)(1)(E) of this section.
 
@@ -154,13 +152,15 @@ Relationship to Other Laws.—(1) Section 1001 of title 18 applies to a certific
 
 (2) Sections 5302, 5318, 5323(a)(1), (d), and (f), 5332, and 5333 of this title apply to this section and to a grant made under this section. Except as provided in this section, no other provision of this chapter applies to this section or to a grant made under this section.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 795; Pub. L. 103–429, §6(7), Oct. 31, 1994, 108 Stat. 4378.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 795; Pub. L. 103–429, §6(7), Oct. 31, 1994, 108 Stat. 4378; Pub. L. 104–287, §5(11), Oct. 11, 1996, 110 Stat. 3389.)
 
 Historical and Revision Notes
 
 Pub. L. 103–272
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -174,7 +174,7 @@ July 9, 1964, Pub. L. 88–365, 78 Stat. 302, §9(j)(1) (last sentence); added J
 
 5307(a)(2)
 
-49 App.:1607a (m)(1).
+49 App.:1607a(m)(1).
 
 July 9, 1964, Pub. L. 88–365, 78 Stat. 302, §9(h), (i), (m)(1); added Jan. 6, 1983, Pub. L. 97–424, §303, 96 Stat. 2145, 2147; Apr. 2, 1987, Pub. L. 100–17, §327(b), 101 Stat. 238; Oct. 6, 1992, Pub. L. 102–388, §503(2), 106 Stat. 1567.
 
@@ -234,7 +234,7 @@ July 9, 1964, Pub. L. 88–365, 78 Stat. 302, §9(e)(5); added Apr. 2, 1987, Pub
 
 5307(e)
 
-49 App.:1607a (k)(1).
+49 App.:1607a(k)(1).
 
 July 9, 1964, Pub. L. 88–365, 78 Stat. 302, §9(k)(1); added Jan. 6, 1983, Pub. L. 97–424, §303, 96 Stat. 2145; Apr. 2, 1987, Pub. L. 100–17, §§309(c), (d), (f), 312(b)(1), 327(b), 101 Stat. 227, 228, 238.
 
@@ -272,7 +272,7 @@ July 9, 1964, Pub. L. 88–365, 78 Stat. 302, §9(e)(4); added Apr. 2, 1987, Pub
 
 49 App.:1607a(e)(2) (2d, 3d sentences).
 
-5307(<i>l)</i>
+5307(<i>l</i>)
 
 49 App.:1607a(i).
 
@@ -348,9 +348,11 @@ This amends 49:5307(d)(1)(D) to correct an error in the codification enacted by 
 
 This makes a clarifying amendment to 49:5307(d)(1)(E)(iii).
 
-#### References in Text
+#### Pub. L. 104–287
 
-Section 5(b)(1) of the Federal Transit Act, referred to in subsec. (a)(2)(C), which was classified to section 1604 of former Title 49, Transportation, was repealed by Pub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379.
+This amends 49:5307(a)(2) to delete an obsolete provision.
+
+#### References in Text
 
 The Americans with Disabilities Act of 1990, referred to in subsec. (b)(2)(B), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, as amended, which is classified principally to chapter 126 (§12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
 
@@ -358,9 +360,15 @@ The Social Security Act, referred to in subsec. (d)(1)(D), is act Aug. 14, 1935,
 
 #### Amendments
 
+1996—Subsec. (a)(2). Pub. L. 104–287 substituted “title; or” for “title;” in subpar. (A) and “transportation.” for“transportation; or” in subpar. (B) and struck out subpar. (C) which read as follows: “a recipient designated under section 5(b)(1) of the Federal Transit Act not later than January 5, 1983.”
+
 1994—Subsec. (d)(1)(D). Pub. L. 103–429, §6(7)(A), substituted “section” for “chapter”.
 
 Subsec. (d)(1)(E)(iii). Pub. L. 103–429, §6(7)(B), substituted “Buy America” for “Buy-American”.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–287 effective July 5, 1994, see section 8(1) of Pub. L. 104–287, set out as a note under section 5303 of this title.
 
 #### Effective Date of 1994 Amendment
 
@@ -368,7 +376,5 @@ Amendment by Pub. L. 103–429 effective July 5, 1994, see section 9 of Pub. L. 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 5302, 5308, 5319, 5323, 5325, 5327, 5330, 5331, 5333, 5334, 5335, 5336, 5338, 31138 of this title; title 42 section 3035<i>l.</i>
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+This section is referred to in sections 5302, 5308, 5315, 5319, 5323, 5325, 5327, 5330, 5331, 5333, 5334, 5335, 5336, 5338, 31138 of this title; title 42 section 3035<i>l.</i>
 

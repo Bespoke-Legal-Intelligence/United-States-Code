@@ -8,7 +8,7 @@ For the purposes of this chapter:
 
 (3)(A) The term “designated State agency” means an agency designated under section 721(a)(1)(A) of this title.
 
-(B) The term “designated State unit” means (i) any State agency unit required under section721(a)(2)(A) of this title, or (ii) in cases in which no such unit is so required, the State agency described in section 721(a)(1)(B)(i) of this title.
+(B) The term “designated State unit” means (i) any State agency unit required under section 721(a)(2)(A) of this title, or (ii) in cases in which no such unit is so required, the State agency described in section 721(a)(1)(B)(i) of this title.
 
 (4)(A) The term “drug” means a controlled substance, as defined in schedules I through V of section 202 of the Controlled Substances Act (21 U.S.C. 812).
 
@@ -28,7 +28,7 @@ For the purposes of this chapter:
 
 (B) Subject to subparagraphs (C), (D), (E), and (F), the term “individual with a disability” means, for purposes of sections 701, 713, and 714 of this title, and subchapters II, IV, V, and VII of this chapter, any person who (i) has a physical or mental impairment which substantially limits one or more of such person's major life activities, (ii) has a record of such an impairment, or (iii) is regarded as having such an impairment.
 
-(C)(i) For purposes of subchapter V of this chapter, the term “individual with a disability” does not include an individual who is currently engaging in the illegal use of drugs, when a covered entity acts on the basis of such use.
+(C)(i) For purposes of subchapter V of this chapter, the term “individual with a disability”does not include an individual who is currently engaging in the illegal use of drugs, when a covered entity acts on the basis of such use.
 
 (ii) Nothing in clause (i) shall be construed to exclude as an individual with a disability an individual who—
 
@@ -62,7 +62,7 @@ For the purposes of this chapter:
 
 &emsp;(iii) psychoactive substance use disorders resulting from current illegal use of drugs.
 
-(9) The term “local agency” means an agency of a unit of general local government or of an Indian tribe (or combination of such units or tribes) which has an agreement with the State agency designated pursuant to section 721(a)(1) of this title to conduct a vocational rehabilitation program under the supervision of such State agency in accordance with the State plan approved under section 721 of this title. Nothing in the preceding sentence of this paragraph or in section 721 of this title shall be construed to prevent the local agency from utilizing another local public or nonprofit agency to provide vocational rehabilitation services: <i>Provided,</i> That such an arrangement is made part of the agreement specified in this paragraph.
+(9) The term “local agency” means an agency of a unit of general local government or of an Indian tribe (or combination of such units or tribes) which has an agreement with the State agency designated pursuant to section 721(a)(1) of this title to conduct a vocational rehabilitation program under the supervision of such State agency in accordance with the State plan approved under section 721 of this title. Nothing in the preceding sentence of this paragraph or in section 721 of this title shall be construed to prevent the local agency from utilizing another local public or nonprofit agency to provide vocational rehabilitation services: <i>Provided</i>, That such an arrangement is made part of the agreement specified in this paragraph.
 
 (10) The term “nonprofit”, when used with respect to a community rehabilitation program, means a community rehabilitation program carried out by a corporation or association, no part of the net earnings of which inures, or may lawfully inure, to the benefit of any private shareholder or individual and the income of which is exempt from taxation under section 501(c)(3) of title 26.
 
@@ -94,7 +94,7 @@ For the purposes of this chapter:
 
 (C) For purposes of section 712 of this title and subchapter II of this chapter, the term “individual with a severe disability” includes an individual described in subparagraph (A) or (B).
 
-(16) The term “State” includes, in addition to each of the several States of the United States,the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and the Republic of Palau (until the Compact of Free Association with Palau takes effect).
+(16) The term “State” includes, in addition to each of the several States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and the Republic of Palau (until the Compact of Free Association with Palau takes effect).
 
 (17) The term “vocational rehabilitation services” means those services identified in section 723 of this title which are provided to individuals with disabilities under this chapter.
 
@@ -392,7 +392,7 @@ Par. (13). Pub. L. 102–569, §102(h)(1), (2), (i), (p)(3)(A), redesignated par
 
 Par. (15)(A). Pub. L. 102–569, §102(j)(1), (p)(3)(B), in introductory provisions, substituted “subparagraph (B) or (C)” for “subparagraph (B)”, “a severe disability” for “severe handicaps”, and “a disability” for “handicaps (as defined in paragraph (8))”, in cl. (i), substituted “impairment” for “disability” and “an employment outcome” for “employability”, and in cl. (iii), substituted “assessment for determining eligibility and vocational rehabilitation needs described in subparagraphs (A) and (C) of paragraph (22)” for “evaluation of rehabilitation potential”.
 
-Par. (15)(B), (C). Pub. L. 102–569, §102(j)(2), added subpars. (B) and (C) and struck out former subpar. (B) which read as follows: “For purposes of subchapter VII of this chapter the term ‘individual with severe handicaps’ means an individual whose ability to function independently in family or community or whose abilityto engage or continue in employment is so limited by the severity of his or her physical or mental disability that independent living rehabilitation services are required in order to achieve a greater level of independence in functioning in family or community or engaging or continuing in employment.”
+Par. (15)(B), (C). Pub. L. 102–569, §102(j)(2), added subpars. (B) and (C) and struck out former subpar. (B) which read as follows: “For purposes of subchapter VII of this chapter the term ‘individual with severe handicaps’ means an individual whose ability to function independently in family or community or whose ability to engage or continue in employment is so limited by the severity of his or her physical or mental disability that independent living rehabilitation services are required in order to achieve a greater level of independence in functioning in family or community or engaging or continuing in employment.”
 
 Par. (16). Pub. L. 102–569, §102(k), amended par. (16) generally. Prior to amendment, par. (16) read as follows: “The term ‘State’ includes the District of Columbia, the Virgin Islands, Puerto Rico, Guam, American Samoa, and the Trust Territory of the Pacific Islands, and for the purposes of American Samoa and the Trust Territory of the Pacific Islands, the appropriate State agency designated as provided in section 721(a)(1) of this title shall be the Governor of American Samoa or the High Commissioner of the Trust Territory of the Pacific Islands, as the case may be.”
 

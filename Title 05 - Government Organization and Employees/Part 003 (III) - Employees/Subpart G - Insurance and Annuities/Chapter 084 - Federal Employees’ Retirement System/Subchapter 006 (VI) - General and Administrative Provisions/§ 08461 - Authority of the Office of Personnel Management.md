@@ -34,7 +34,7 @@
 
 &emsp;(E) authorize and direct disbursements from the Fund to the extent based on service of such employees; and
 
-&emsp;(F) perform such other functions under this chapter (other than under subchapters III andVII of this chapter) with respect to employees of the Central Intelligence Agency as the Director of Central Intelligence, in consultation with the Director of the Office of Personnel Management, determines to be appropriate.
+&emsp;(F) perform such other functions under this chapter (other than under subchapters III and VII of this chapter) with respect to employees of the Central Intelligence Agency as the Director of Central Intelligence, in consultation with the Director of the Office of Personnel Management, determines to be appropriate.
 
 (2) The Director of the Office of Personnel Management shall furnish such information and, on a reimbursable basis, such services to the Director of Central Intelligence as the Director of Central Intelligence requests to carry out paragraph (1).
 
@@ -54,19 +54,19 @@
 
 (<i>l</i>) Subsection (h)(1), and sections 8439(b) and 8474(c)(4), shall be applied with respect to information relating to employees of the Central Intelligence Agency in a manner that protects intelligence sources, methods, and activities.
 
-(m)(1) The Director of Central Intelligence, in consultation with the Director of the Office of Personnel Management and the Executive Director of the Federal Retirement Thrift Investment Board, shall by regulation prescribe appropriate procedures to carry out subsections (j), (k), and (<i>l).</i>
+(m)(1) The Director of Central Intelligence, in consultation with the Director of the Office of Personnel Management and the Executive Director of the Federal Retirement Thrift Investment Board, shall by regulation prescribe appropriate procedures to carry out subsections (j), (k), and (<i>l</i>).
 
 (2) The regulations shall provide procedures for the Director of the Office of Personnel Management to inspect and audit disbursements from the Fund under this chapter.
 
 (3) The Director of Central Intelligence shall submit the regulations prescribed under paragraph (1) to the Select Committee on Intelligence of the Senate and the Permanent Select Committee on Intelligence of the House of Representatives before the regulations take effect.
 
-(n)(1) Under regulations prescribed by the Office, an employee of the Department of Defense or the Coast Guard who—
+(n)(1) Under regulations prescribed by the Office, an employee who—
 
 &emsp;(A) has not previously made an election under this subsection or had an opportunity to make an election under this paragraph;
 
 &emsp;(B) has 5 or more years of civilian service creditable under this chapter; and
 
-&emsp;(C) moves, without a break in service of more than 3 days, to employment in a nonappropriated fund instrumentality of the Department of Defense or the Coast Guard, respectively, described in section 2105(c),
+&emsp;(C) moves, without a break in service of more than 1 year, to employment in a nonappropriated fund instrumentality of the Department of Defense or the Coast Guard, respectively, described in section 2105(c),
 
 > shall be given the opportunity to elect irrevocably, within 30 days after such move, to remain covered as an employee under this chapter during any employment described in section 2105(c) after such move.
 
@@ -76,23 +76,31 @@
 
 &emsp;(B) is a vested participant in a retirement system established for employees described in section 2105(c), as the term “vested participant” is defined by such system;
 
-&emsp;(C) moves, without a break in service of more than 3 days, to a position in the Department of Defense or the Coast Guard, respectively, that is not described by section 2105(c); and
+&emsp;(C) moves, without a break in service of more than 1 year, to a position that is not described by section 2105(c); and
 
 &emsp;(D) is not eligible to make an election under section 8347(q),
 
 > shall be given the opportunity to elect irrevocably, within 30 days after such move, to remain covered, during any subsequent employment as an employee as defined by section 2105(a) or section 2105(c), by the retirement system applicable to such employee's current or most recent employment described by section 2105(c) rather than be subject to this chapter.
 
-(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 570; amended Pub. L. 99–556, title I, §102, Oct. 27, 1986, 100 Stat. 3131; Pub. L. 101–508, title VII, §7202(k)(2), Nov. 5, 1990, 104 Stat. 1388–339; Pub. L. 102–378, §2(71), Oct. 2, 1992, 106 Stat. 1355.)
+(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 570; amended Pub. L. 99–556, title I, §102, Oct. 27, 1986, 100 Stat. 3131; Pub. L. 101–508, title VII, §7202(k)(2), Nov. 5, 1990, 104 Stat. 1388–339; Pub. L. 102–378, §2(71), Oct. 2, 1992, 106 Stat. 1355; Pub. L. 104–106, div. A, title X, §1043(a)(2), Feb. 10, 1996, 110 Stat. 434.)
 
 #### Amendments
 
-<b>1992</b>—Subsec. (n)(1)(A), (2)(A). Pub. L. 102–378, §2(71)(A), amended subpars. (A) generally. Prior to amendment, subpars. (A) read as follows: “has not previously made or had an opportunity to make an election under this subsection;”.
+1996—Subsec. (n)(1). Pub. L. 104–106, §1043(a)(2)(A), struck out “of the Department of Defense or the Coast Guard” after “an employee” in introductory provisions and substituted “1 year” for “3 days” in subpar. (C).
+
+Subsec. (n)(2)(C). Pub. L. 104–106, §1043(a)(2)(B), substituted “1 year” for “3 days” and struck out “in the Department of Defense or the Coast Guard, respectively,” after “to a position”.
+
+1992—Subsec. (n)(1)(A), (2)(A). Pub. L. 102–378, §2(71)(A), amended subpars. (A) generally. Prior to amendment, subpars. (A) read as follows: “has not previously made or had an opportunity to make an election under this subsection;”.
 
 Subsec. (n)(2)(D). Pub. L. 102–378, §2(71)(B), substituted “8347(q)” for “8347(p)”.
 
-<b>1990</b>—Subsec. (n). Pub. L. 101–508 added subsec. (n).
+1990—Subsec. (n). Pub. L. 101–508 added subsec. (n).
 
-<b>1986</b>—Subsec. (m)(2). Pub. L. 99–556 struck out “, and from the Thrift Savings Fund,” after “from the Fund”.
+1986—Subsec. (m)(2). Pub. L. 99–556 struck out “, and from the Thrift Savings Fund,” after “from the Fund”.
+
+#### Effective Date of 1996 Amendment
+
+For effective date of amendments by Pub. L. 104–106, see Regulations; Effective Date of 1996 Amendment note below.
 
 #### Effective Date of 1992 Amendment
 
@@ -101,6 +109,10 @@ Amendment by Pub. L. 102–378 effective Nov. 5, 1990, see section 9(b)(6) of Pu
 #### Effective Date of 1990 Amendment
 
 Amendment by Pub. L. 101–508 applicable with respect to any individual who, on or after Jan. 1, 1987, moves from employment in nonappropriated fund instrumentality of Department of Defense or Coast Guard, that is described in section 2105(c) of this title, to employment in Department or Coast Guard, that is not described in section 2105(c), or who moves from employment in Department or Coast Guard, that is not described in section 2105(c), to employment in nonappropriated fund instrumentality of Department or Coast Guard, that is described in section 2105(c), see section 7202(m)(1) of Pub. L. 101–508, set out as a note under section 2105 of this title.
+
+#### Regulations; Effective Date of 1996 Amendment
+
+For provisions relating to promulgation of regulations necessary to carry out amendment by Pub. L. 104–106, and effective date of such amendment in connection with those regulations, see section 1043(b), (c) of Pub. L. 104–106, set out as a note under section 8347 of this title.
 
 #### Treatment of Individuals Electing To Remain Subject to Their Former Retirement System
 

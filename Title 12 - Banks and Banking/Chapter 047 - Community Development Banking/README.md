@@ -127,10 +127,10 @@
 | (i) | Restrictions. |
 | (j) | State contributions. |
 | (k) | Submission of claims. |
-| (<i>l)</i> | Elements of claims. |
+| (<i>l</i>) | Elements of claims. |
 | (m) | Payment of claims. |
 | (n) | Denial of claims. |
-| (<i>o)</i> | Subsequent recovery of claim amount. |
+| (<i>o</i>) | Subsequent recovery of claim amount. |
 | (p) | Participation agreement terms. |
 | (q) | Termination clause. |
 | (r) | Allowable withdrawals from fund. |

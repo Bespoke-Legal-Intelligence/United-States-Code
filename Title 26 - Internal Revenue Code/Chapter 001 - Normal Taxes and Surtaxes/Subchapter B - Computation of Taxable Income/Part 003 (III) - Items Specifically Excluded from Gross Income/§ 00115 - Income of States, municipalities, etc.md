@@ -18,5 +18,5 @@ Amendment by Pub. L. 94–455 applicable with respect to taxable years beginning
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 501 of this title; title 45 section 1207.
+This section is referred to in sections 415, 501 of this title; title 45 section 1207.
 

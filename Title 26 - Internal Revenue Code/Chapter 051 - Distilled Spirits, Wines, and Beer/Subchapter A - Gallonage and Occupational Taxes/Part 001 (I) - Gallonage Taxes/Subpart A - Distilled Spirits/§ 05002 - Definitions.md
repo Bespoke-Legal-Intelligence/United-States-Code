@@ -64,7 +64,7 @@ For purposes of this chapter—
 
 #### (8) Distilled spirits
 
-&emsp;The terms “distilled spirits”, “alcoholic spirits”, and “spirits” mean that substanceknown as ethyl alcohol, ethanol, or spirits of wine in any form (including all dilutions and mixtures thereof from whatever source or by whatever process produced).
+&emsp;The terms “distilled spirits”, “alcoholic spirits”, and “spirits” mean that substance known as ethyl alcohol, ethanol, or spirits of wine in any form (including all dilutions and mixtures thereof from whatever source or by whatever process produced).
 
 #### (9) Bulk distilled spirits
 

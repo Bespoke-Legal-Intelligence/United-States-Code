@@ -4,7 +4,7 @@
 
 The Congress makes the following findings and declarations:
 
-&emsp;(1) Space for consolidation of activities of the Administrative Office of the United States Courts and other offices of the judicial branchof Government and for providing office space for retired justices of the Supreme Court is necessary and should be located in the vicinity of the Supreme Court building.
+&emsp;(1) Space for consolidation of activities of the Administrative Office of the United States Courts and other offices of the judicial branch of Government and for providing office space for retired justices of the Supreme Court is necessary and should be located in the vicinity of the Supreme Court building.
 
 &emsp;(2) Orderly development of the Capitol Grounds should be consistent with the Master Plan for the United States Capitol, dated 1981.
 

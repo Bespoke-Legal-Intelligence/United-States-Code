@@ -1,6 +1,6 @@
 ### §191. Regulation of anchorage and movement of vessels during national emergency
 
-Whenever the President by proclamation or Executive order declares a national emergency to exist by reason of actual or threatened war, insurrection, or invasion, or disturbance or threatened disturbance of the international relations of the United States, the Secretary of Transportation may make, subject to the approval of the President, rules and regulations governing the anchorage and movement of any vessel, foreign or domestic, in the territorial waters of the United States, may inspect such vessel at any time, place guards thereon, and, if necessary in his opinion in order to secure such vessels from damage or injury, or to prevent damage or injury to any harbor or waters of the United States, or to secure the observance of the rights and obligations of the United States, may take, by and with the consent of the President, for such purposes, full possession and control of such vessel and remove therefrom the officers and crew thereof and all other persons not specially authorized by him to go or remain on board thereof.
+Whenever the President by proclamation or Executive order declares a national emergency to exist by reason of actual or threatened war, insurrection, or invasion, or disturbance or threatened disturbance of the international relations of the United States, or whenever the Attorney General determines that an actual or anticipated mass migration of aliens en route to, or arriving off the coast of, the United States presents urgent circumstances requiring an immediate Federal response, the Secretary of Transportation may make, subject to the approval of the President, rules and regulations governing the anchorage and movement of any vessel, foreign or domestic, in the territorial waters of the United States, may inspect such vessel at any time, place guards thereon, and, if necessary in his opinion in order to secure such vessels from damage or injury, or to prevent damage or injury to any harbor or waters of the United States, or to secure the observance of the rights and obligations of the United States, may take, by and with the consent of the President, for such purposes, full possession and control of such vessel and remove therefrom the officers and crew thereof and all other persons not specially authorized by him to go or remain on board thereof.
 
 Whenever the President finds that the security of the United States is endangered by reason of actual or threatened war, or invasion, or insurrection, or subversive activity, or of disturbances or threatened disturbances of the international relations of the United States, the President is authorized to institute such measures and issue such rules and regulations—
 
@@ -10,13 +10,15 @@ Whenever the President finds that the security of the United States is endangere
 
 > Any appropriation available to any of the Executive Departments shall be available to carry out the provisions of this title.<sup>1</sup>
 
-(June 15, 1917, ch. 30, title II, §1, 40 Stat. 220; Aug. 9, 1950, ch. 656, §1, 64 Stat. 427; Sept. 26, 1950, ch. 1049, §2(b), 64 Stat. 1038; Oct. 15, 1966, Pub. L. 89–670, §6(b)(1), 80 Stat. 938; Sept. 27, 1979, Pub. L. 96–70, title III, §3302(a), 93 Stat. 498.)
+(June 15, 1917, ch. 30, title II, §1, 40 Stat. 220; Aug. 9, 1950, ch. 656, §1, 64 Stat. 427; Sept. 26, 1950, ch. 1049, §2(b), 64 Stat. 1038; Oct. 15, 1966, Pub. L. 89–670, §6(b)(1), 80 Stat. 938; Sept. 27, 1979, Pub. L. 96–70, title III, §3302(a), 93 Stat. 498;Sept. 30, 1996, Pub. L. 104–208, div. C, title VI, §649, 110 Stat. 3009–711.)
 
 #### References in Text
 
 This title, referred to in text, means title II of act June 15, 1917, ch. 30, 40 Stat. 220, as amended, which enacted sections 191 and 192 to 194 of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
+
+1996—Pub. L. 104–208, in first par., inserted “or whenever the Attorney General determines that an actual or anticipated mass migration of aliens en route to, or arriving off the coast of, the United States presents urgent circumstances requiring an immediate Federal response,” after “international relations of the United States,”.
 
 1979—Pub. L. 96–70 struck out second par., providing that within the territory and waters of the Canal Zone the Governor of the Canal Zone, with the approval of the President, shall exercise all the powers conferred by this section on the Secretary of the Treasury, and in cl. (b) of third par., struck out “the Canal Zone,” after “facilities in the United States,”.
 
@@ -59,6 +61,36 @@ Section 4 of title XIII of act June 15, 1917, provided: “If any clause, senten
 #### Delegation of Functions
 
 For delegation to Secretary of the Treasury of authority vested in President by this section, see section 2(e) of Ex. Ord. No. 10289, Sept. 17, 1951, 16 F.R. 9499, as amended, and section 1(r) of Ex. Ord. No. 10637, Sept. 16, 1955, 20 F.R. 7025, set out as notes under section 301 of Title 3, The President.
+
+#### Proc. No. 6867. Declaration of National Emergency and Invocation of Emergency Authority Relating to Regulation of Anchorage and Movement of Vessels
+
+Proc. No. 6867, Mar. 1, 1996, 61 F.R. 8843, provided:
+
+WHEREAS, on February 24, 1996, Cuban military aircraft intercepted and destroyed two unarmed U.S.-registered civilian aircraft in international airspace north of Cuba;
+
+WHEREAS the Government of Cuba has demonstrated a ready and reckless willingness to use excessive force, including deadly force, in the ostensible enforcement of its sovereignty;
+
+WHEREAS, on July 13, 1995, persons in U.S.-registered vessels who entered into Cuban territorial waters suffered injury as a result of the reckless use of force against them by the Cuban military; and
+
+WHEREAS the entry of U.S.-registered vessels into Cuban territorial waters could again result in injury to, or loss of life of, persons engaged in that conduct, due to the potential use of excessive force, including deadly force, against them by the Cuban military, and could threaten a disturbance in international relations;
+
+NOW, THEREFORE, I, WILLIAM J. CLINTON, President of the United States of America, by the authority vested in me by the Constitution and the laws of the United States of America, including section 1 of title II of Public Law 65-24, ch. 30, June 15, 1917, as amended (50 U.S.C. 191), sections 201 and 301 of the National Emergencies Act (50 U.S.C. 1601 <i>et seq</i>.) \[50 U.S.C. 1621, 1631\], and section 301 of title 3, United States Code, find and do hereby proclaim that a national emergency does exist by reason of a disturbance or threatened disturbance of international relations. In order to address this national emergency and to secure the observance of the rights and obligations of the United States, I hereby authorize and direct the Secretary of Transportation (the “Secretary”) to make and issue such rules and regulations as the Secretary may find appropriate to regulate the anchorage and movement of vessels, and delegate to the Secretary my authority to approve such rules and regulations, as authorized by the Act of June 15, 1917 \[see Tables for classification\].
+
+Section 1. The Secretary may make rules and regulations governing the anchorage and movement of any vessel, foreign or domestic, in the territorial waters of the United States, which may be used, or is susceptible of being used, for voyage into Cuban territorial waters and that may create unsafe conditions and threaten a disturbance of international relations. Any rule or regulation issued pursuant to this proclamation may be effective immediately upon issuance as such rule or regulation shall involve a foreign affairs function of the United States.
+
+Sec. 2. The Secretary is authorized to inspect any vessel, foreign or domestic, in the territorial waters of the United States, at any time; to place guards on any such vessel; and, with my consent expressly hereby granted, take full possession and control of any such vessel and remove the officers and crew, and all other persons not specifically authorized by the Secretary to go or remain on board the vessel when necessary to secure the rights and obligations of the United States.
+
+Sec. 3. The Secretary may request assistance from such departments, agencies, officers, or instrumentalities of the United States as the Secretary deems necessary to carry out the purposes of this proclamation. Such departments, agencies, officers, or instrumentalities shall, consistent with other provisions of law and to the extent practicable, provide requested assistance.
+
+Sec. 4. The Secretary may seek assistance from State and local authorities in carrying out the purposes of this proclamation. Because State and local assistance may be essential for an effective response to this emergency, I urge all State and local officials to cooperate with Federal authorities and to take all actions within their lawful authority necessary to prevent the unauthorized departure of vessels intending to enter Cuban territorial waters.
+
+Sec. 5. All powers and authorities delegated by this proclamation to the Secretary may be delegated by the Secretary to other officers and agents of the United States Government unless otherwise prohibited by law.
+
+Sec. 6. This proclamation shall be immediately transmitted to the Congress and published in the Federal Register.
+
+IN WITNESS WHEREOF, I have hereunto set my hand this first day of March, in the year of our Lord nineteen hundred and ninety-six, and of the Independence of the United States of America the two hundred and twentieth.
+
+William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Cross References
 

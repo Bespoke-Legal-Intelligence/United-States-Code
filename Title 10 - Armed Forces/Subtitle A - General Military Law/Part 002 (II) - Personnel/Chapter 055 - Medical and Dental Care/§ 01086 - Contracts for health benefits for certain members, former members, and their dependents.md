@@ -52,7 +52,9 @@
 
 &emsp;(ii) The term “third party payer” has the meaning given such term in section 1095(h)(1) of this title.
 
-(e) A person covered by this section may elect to receive benefits either in (1) Government facilities, under the conditions prescribed in sections 1074 and 1076–1078 of this title, or (2) the facilities provided under a plan contracted for under this section. However, under joint regulations issued by the administering Secretaries, the right to make this election may be limited for those persons residing in an area where adequate facilities of the uniformed service are available. In addition, section 1080(b) of this title shall apply in making the determination whether to issue a nonavailability of health care statement for a person covered by this section.
+(4) The administering Secretaries shall develop a mechanism by which persons described in paragraph (1) who satisfy only the criteria specified in subparagraphs (A) and (B) of paragraph (2), but not subparagraph (C) of such paragraph, are promptly notified of their ineligibility for health benefits under this section. In developing the notification mechanism, the administering Secretaries shall consult with the administrator of the Health Care Financing Administration.
+
+(e) A person covered by this section may elect to receive inpatient medical care either in (1) Government facilities, under the conditions prescribed in sections 1074 and 1076–1078 of this title, or (2) the facilities provided under a plan contracted for under this section. However, under joint regulations issued by the administering Secretaries, the right to make this election may be limited for those persons residing in an area where adequate facilities of the uniformed service are available. In addition, subsections (b) and (c) of section 1080 of this title shall apply in making the determination whether to issue a nonavailability of health care statement for a person covered by this section.
 
 (f) The provisions of section 1079(h) of this title shall apply to payments for services by an individual health-care professional (or other noninstitutional health-care provider) under a plan contracted for under subsection (a).
 
@@ -66,7 +68,7 @@
 
 (4) The Secretary of Defense may require each hospital the Secretary approves for payment under this subsection to provide evidence that it has sources of revenue to cover unbilled costs.
 
-(Added Pub. L. 89–614, §2(7), Sept. 30, 1966, 80 Stat. 865; amended Pub. L. 95–485, title VIII, §806(a)(2), Oct. 20, 1978, 92 Stat. 1622; Pub. L. 96–173, §1, Dec. 29, 1979, 93 Stat. 1287; Pub. L. 96–513, title V, §§501(14), 511(36), (39), Dec. 12, 1980, 94 Stat. 2908, 2923; Pub. L. 97–86, title IX, §906(a)(2), Dec. 1, 1981, 95 Stat. 1117; Pub. L. 97–252, title X, §1004(c), Sept. 8, 1982, 96 Stat. 737; Pub. L. 98–94, title IX, §931(b), Sept. 24, 1983, 97 Stat. 649; Pub. L. 98–525, title VI, §632(a)(2), Oct. 19, 1984, 98 Stat. 2543; Pub. L. 98–557, §19(13), Oct. 30, 1984, 98 Stat. 2870; Pub. L. 99–145, title VI, §652(b), Nov. 8, 1985, 99 Stat. 657; Pub. L. 99–661, div. A, title VI, §604(f)(1)(C), Nov. 14, 1986, 100 Stat. 3877; Pub. L. 100–180, div. A, title VII, §721(b), Dec. 4, 1987, 101 Stat. 1115; Pub. L. 100–456, div. A, title VI, §646(b), Sept. 29, 1988, 102 Stat. 1989; Pub. L. 101–189, div. A, title VII, §731(c)(2), title XVI, §1621(a)(3), Nov. 29, 1989, 103 Stat. 1482, 1603; Pub. L. 101–510, div. A, title VII, §712(b), Nov. 5, 1990, 104 Stat. 1583; Pub. L. 102–190, div. A, title VII, §704(a), (b)(1), Dec. 5, 1991, 105 Stat. 1401; Pub. L. 102–484, div. A, title VII, §§703(a), 705(a), Oct. 23, 1992, 106 Stat. 2432; Pub. L. 103–35, title II, §203(b)(2), May 31, 1993, 107 Stat. 102; Pub. L. 103–160, div. A, title VII, §716(b)(2), Nov. 30, 1993, 107 Stat. 1693; Pub. L. 103–337, div. A, title VII, §711, Oct. 5, 1994, 108 Stat. 2801.)
+(Added Pub. L. 89–614, §2(7), Sept. 30, 1966, 80 Stat. 865; amended Pub. L. 95–485, title VIII, §806(a)(2), Oct. 20, 1978, 92 Stat. 1622; Pub. L. 96–173, §1, Dec. 29, 1979, 93 Stat. 1287; Pub. L. 96–513, title V, §§501(14), 511(36), (39), Dec. 12, 1980, 94 Stat. 2908, 2923; Pub. L. 97–86, title IX, §906(a)(2), Dec. 1, 1981, 95 Stat. 1117; Pub. L. 97–252, title X, §1004(c), Sept. 8, 1982, 96 Stat. 737; Pub. L. 98–94, title IX, §931(b), Sept. 24, 1983, 97 Stat. 649; Pub. L. 98–525, title VI, §632(a)(2), Oct. 19, 1984, 98 Stat. 2543; Pub. L. 98–557, §19(13), Oct. 30, 1984, 98 Stat. 2870; Pub. L. 99–145, title VI, §652(b), Nov. 8, 1985, 99 Stat. 657; Pub. L. 99–661,div. A, title VI, §604(f)(1)(C), Nov. 14, 1986, 100 Stat. 3877; Pub. L. 100–180, div. A, title VII, §721(b), Dec. 4, 1987, 101 Stat. 1115; Pub. L. 100–456, div. A, title VI, §646(b), Sept. 29, 1988, 102 Stat. 1989; Pub. L. 101–189, div. A, title VII, §731(c)(2), title XVI, §1621(a)(3), Nov. 29, 1989, 103 Stat. 1482, 1603; Pub. L. 101–510, div. A, title VII, §712(b), Nov. 5, 1990, 104 Stat. 1583; Pub. L. 102–190, div. A, title VII, §704(a), (b)(1), Dec. 5, 1991, 105 Stat. 1401; Pub. L. 102–484, div. A, title VII, §§703(a), 705(a), Oct. 23, 1992, 106 Stat. 2432; Pub. L. 103–35, title II, §203(b)(2), May 31, 1993, 107 Stat. 102; Pub. L. 103–160, div. A, title VII, §716(b)(2), Nov. 30, 1993, 107 Stat. 1693; Pub. L. 103–337, div. A, title VII, §711, Oct. 5, 1994, 108 Stat. 2801; Pub. L. 104–106, div. A, title VII, §732, Feb. 10, 1996, 110 Stat. 381; Pub. L. 104–201, div. A, title VII, §734(a)(2), (b)(2), Sept. 23, 1996, 110 Stat. 2598.)
 
 #### References in Text
 
@@ -77,6 +79,10 @@ The Social Security Act, referred to in subsec. (d), is act Aug. 14, 1935, ch. 5
 A prior section 1086, act Aug. 10, 1956, ch. 1041, 70A Stat. 88, authorized the mailing of official post cards, ballots, voting instructions, and envelopes, free of postage, prior to repeal by Pub. L. 85–861, §36(B)(5), Sept. 2, 1958, 72 Stat. 1570, as superseded by the Federal Voting Assistance Act of 1955 which is classified to subchapter I–D (§1973cc et seq.) of chapter 20 of Title 42, The Public Health and Welfare.
 
 #### Amendments
+
+1996—Subsec. (d)(4). Pub. L. 104–106 added par. (4).
+
+Subsec. (e). Pub. L. 104–201 substituted “inpatient medical care” for “benefits” in first sentence and “subsections (b) and (c) of section 1080” for “section 1080(b)” in last sentence.
 
 1994—Subsec. (d)(3). Pub. L. 103–337 added par. (3) and struck out former par. (3) which read as follows: “If a person described in paragraph (2) receives medical or dental care for which payment may be made under both title XVIII of the Social Security Act (42 U.S.C. 1395 et seq.) and a plan contracted for under subsection (a), the amount payable for that care under the plan may not exceed the difference between—
 
@@ -178,7 +184,7 @@ Amendment by Pub. L. 98–94 effective Oct. 1, 1983, see section 931(c) of Pub. 
 
 #### Effective Date of 1982 Amendment; Transition Provisions
 
-Amendment by Pub. L. 97–252 effective Feb. 1, 1983, and applicable in the case of any former spouse of a member or former member of the uniformed serviceswhether final decree of divorce, dissolution, or annulment of marriage of former spouse and such member or former member is dated before, on, or after Feb. 1, 1983, see section 1006 of Pub. L. 97–252, set out as an Effective Date; Transition Provisions note under section 1408 of this title.
+Amendment by Pub. L. 97–252 effective Feb. 1, 1983, and applicable in the case of any former spouse of a member or former member of the uniformed services whether final decree of divorce, dissolution, or annulment of marriage of former spouse and such member or former member is dated before, on, or after Feb. 1, 1983, see section 1006 of Pub. L. 97–252, set out as an Effective Date; Transition Provisions note under section 1408 of this title.
 
 #### Effective Date of 1981 Amendment
 
@@ -200,9 +206,39 @@ Amendment by Pub. L. 95–485 applicable with respect to claims submitted for pa
 
 For effective date of section, see section 3 of Pub. L. 89–614, set out as a note under section 1071 of this title.
 
+#### Waiver of Collection of Payments Due From Certain Persons Unaware of Loss of CHAMPUS Eligibility
+
+Section 743 of Pub. L. 104–106 provided that:
+
+“(a)
+
+Authority To Waive Collection.—The administering Secretaries may waive the collection of payments otherwise due from a person described in subsection (b) as a result of the receipt by the person of health benefits under section 1086 of title 10, United States Code, after the termination of the person's eligibility for such benefits.
+
+“(b)
+
+Persons Eligible for Waiver.—A person shall be eligible for relief under subsection (a) if the person—
+
+&emsp;“(1) is a person described in paragraph (1) of subsection (d) of section 1086 of title 10, United States Code;
+
+&emsp;“(2) in the absence of such paragraph, would have been eligible for health benefits under such section; and
+
+&emsp;“(3) at the time of the receipt of such benefits, satisfied the criteria specified in subparagraphs (A) and (B) of paragraph (2) of such subsection.
+
+“(c)
+
+Extent of Waiver Authority.—The authority to waive the collection of payments pursuant to this section shall apply with regard to health benefits provided under section 1086 of title 10, United States Code, to persons described in subsection (b) during the period beginning on January 1, 1967, and ending on the later of—
+
+&emsp;“(1) the termination date of any special enrollment period provided under title XVIII of the Social Security Act (42 U.S.C. 1395 et seq.) specifically for such persons; and
+
+&emsp;“(2) July 1, 1996.
+
+“(d)
+
+Definitions.—For purposes of this section, the term ‘administering Secretaries’ has the meaning given such term in section 1072(3) of title 10, United States Code.”
+
 #### Minimum Amount Payable for Services Provided Under This Section
 
-Pub. L. 103–335, title VIII, §8052, Sept. 30, 1994, 108 Stat. 2629, provided that: “Notwithstanding any other provision of law, of the funds appropriated for the Defense Health Program during this fiscal year and hereafter, the amount payable for services provided under this section shall not be less than the amount calculated under the coordination of benefits reimbursement formula utilized when CHAMPUS is a secondary payor to medical insurance programs other than Medicare, and such appropriations as necessary shall be available (notwithstanding the last sentence of section 1086(c) of title 10, United States Code) to continue Civilian Health and Medical Program of the Uniformed Services (CHAMPUS) benefits, until age 65, under such section for a former member of a uniformed service who is entitled to retired or retainer pay or equivalent pay, or a dependent of such a member, or any other beneficiary described by section 1086(c) of title 10, United States Code, who becomes eligible for hospital insurance benefits under part A of title XVIII of the Social Security Act (42 U.S.C. 1395 et seq.) \[42 U.S.C. 1395c et seq.\] solely on the grounds of physical disability, or end stage renal disease: <i>Provided</i>, That expenses under this section shall only be covered to the extent that such expenses are not covered under parts A and B of title XVIII of the Social Security Act \[42 U.S.C. 1395c et seq., 1395; et seq.\] and are otherwise covered under CHAMPUS: <i>Provided further</i>, That no reimbursement shall be made for services provided prior to October 1, 1991.”
+Pub. L. 103–335, title VIII, §8052, Sept. 30, 1994, 108 Stat. 2629, provided that: “Notwithstanding any otherprovision of law, of the funds appropriated for the Defense Health Program during this fiscal year and hereafter, the amount payable for services provided under this section shall not be less than the amount calculated under the coordination of benefits reimbursement formula utilized when CHAMPUS is a secondary payor to medical insurance programs other than Medicare, and such appropriations as necessary shall be available (notwithstanding the last sentence of section 1086(c) of title 10, United States Code) to continue Civilian Health and Medical Program of the Uniformed Services (CHAMPUS) benefits, until age 65, under such section for a former member of a uniformed service who is entitled to retired or retainer pay or equivalent pay, or a dependent of such a member, or any other beneficiary described by section 1086(c) of title 10, United States Code, who becomes eligible for hospital insurance benefits under part A of title XVIII of the Social Security Act (42 U.S.C. 1395 et seq.) \[42 U.S.C. 1395c et seq.\] solely on the grounds of physical disability, or end stage renal disease: <i>Provided</i>, That expenses under this section shall only be covered to the extent that such expenses are not covered under parts A and B of title XVIII of the Social Security Act \[42 U.S.C. 1395c et seq., 1395; et seq.\] and are otherwise covered under CHAMPUS: <i>Provided further</i>, That no reimbursement shall be made for services provided prior to October 1, 1991.”
 
 #### Authorization To Apply Section 1079 Payment Rules for Spouse and Children of Member Who Dies While on Active Duty
 
@@ -216,5 +252,5 @@ Section 705(b) of Pub. L. 102–484 provided that: “Subsection (d) of section 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1072, 1079, 1082, 1086a, 1087, 1096, 1097, 1098, 1100, 1104, 1105 of this title; title 38 section 1713; title 42 sections 248d, 300e–1, 1395cc.
+This section is referred to in sections 1072, 1079, 1082, 1086a, 1087, 1095, 1096, 1097, 1098, 1100, 1104, 1105 of this title; title 38 section 1713; title 42 sections 248d, 300e–1, 1395cc.
 

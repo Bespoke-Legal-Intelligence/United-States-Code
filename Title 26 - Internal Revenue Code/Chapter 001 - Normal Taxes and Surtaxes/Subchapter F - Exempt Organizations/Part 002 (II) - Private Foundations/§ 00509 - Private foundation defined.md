@@ -14,7 +14,7 @@ For purposes of this title, the term “private foundation” means a domestic o
 
 &emsp;&emsp;&emsp;(ii) gross receipts from admissions, sales of merchandise, performance of services, or furnishing of facilities, in an activity which is not an unrelated trade or business (within the meaning of section 513), not including such receipts from any person, or from any bureau or similar agency of a governmental unit (as described in section 170(c)(1)), in any taxable year to the extent such receipts exceed the greater of $5,000 or 1 percent of the organization's support in such taxable year,
 
-> &emsp;&emsp;from persons other than disqualified persons (as defined in section 4946) with respect to the organization, from governmental units described in section 170(c)(1), or from organizations described in section 170(b)(1)(A) (other than in clauses (vii) and (viii)), and
+> &emsp;&emsp;from persons other than disqualified persons (as defined in section 4946) with respect to the organization, from governmental unitsdescribed in section 170(c)(1), or from organizations described in section 170(b)(1)(A) (other than in clauses (vii) and (viii)), and
 
 &emsp;&emsp;(B) normally receives not more than one-third of its support in each taxable year from the sum of—
 
@@ -94,5 +94,5 @@ Applicability of subsec. (a) of this section to testamentary trusts, see section
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 170, 501, 507, 508, 514, 527, 542, 2055, 2503, 3121, 4940, 4942, 4945, 4947, 6033, 6043, 6104, 6111, 7428 of this title; title 42 section 410.
+This section is referred to in sections 170, 501, 507, 508, 514, 527, 542, 2055, 2503, 3121, 4940, 4942, 4945, 4947, 4958, 6033, 6043, 6104, 6111, 7428 of this title; title 42 section 410.
 

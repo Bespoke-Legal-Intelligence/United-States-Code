@@ -24,27 +24,43 @@ No tax shall be imposed under subsection (a) or (b) on air transportation by hel
 
 &emsp;(2) the planting, cultivation, cutting, or transportation of, or caring for, trees (including logging operations),
 
-> but only if the helicopter does not take off from, or land at, a facility eligible for assistance under the Airport and Airway Development Act of 1970, or otherwise use services provided pursuant to section 44509 or 44913(b) or subchapter I of chapter 471 of title 49, United States Code, during such use.
+> but only if the helicopter does not take off from, or land at, a facility eligible for assistance under the Airport and Airway Development Act of 1970, or otherwise use services provided pursuant to section 44509 or 44913(b) or subchapter I of chapter 471 of title 49, United States Code, during such use. In the case of helicopter transportation described in paragraph (1), this subsection shall be applied by treating each flight segment as a distinct flight.
 
-#### (f) Exemption for certain emergency medical transportation
+#### (f) Exemption for air ambulances providing certain emergency medical transportation
 
-No tax shall be imposed under this section or section 4271 on any air transportation by helicopter for the purpose of providing emergency medical services if such helicopter—
+No tax shall be imposed under this section or section 4271 on any air transportation for the purpose of providing emergency medical services—
 
-&emsp;(1) does not take off from, or land at, a facility eligible for assistance under the Airport and Airway Development Act of 1970 during such transportation, and
+&emsp;(1) by helicopter, or
 
-&emsp;(2) does not otherwise use services provided pursuant to section 44509 or 44913(b) or subchapter I of chapter 471 of title 49, United States Code, during such transportation.
+&emsp;(2) by a fixed-wing aircraft equipped for and exclusively dedicated to acute care emergency medical services.
 
 #### (g) Termination
 
-The taxes imposed by this section shall apply with respect to transportation beginning after August 31, 1982, and before January 1, 1996.
+The taxes imposed by this section shall apply with respect to transportation beginning after August 31, 1982, and before January 1, 1996, and to transportation beginning on or after the date which is 7 calendar days after the date of the enactment of the Small Business Job Protection Act of 1996 and before January 1, 1997.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 506; July 25, 1956, ch. 725, §§1, 4(b), 70 Stat. 644, 646; June 30, 1959, Pub. L. 86–75, §4, 73 Stat. 158; June 30, 1960, Pub. L. 86–564, title II, §202(a)(3), 74 Stat. 290; June 30, 1961, Pub. L. 87–72, §3(a)(3), 75 Stat. 193; June 28, 1962, Pub. L. 87–508, §5(a), (b), 76 Stat. 115; June 29, 1963, Pub. L. 88–52, §3(a)(3), 77 Stat. 72; June 30, 1964, Pub. L. 88–348, §2(a)(3), 78 Stat. 237; June 21, 1965, Pub. L. 89–44, title III, §303(a), 79 Stat. 148, May 21, 1970, Pub. L. 91–258, title II, §203(a), 84 Stat. 238; Oct. 4, 1976, Pub. L. 94–455, title XIX, §1904(a)(7), 90 Stat. 1812; July 1, 1980, Pub. L. 96–298, §1(b), 94 Stat. 829; Sept. 3, 1982, Pub. L. 97–248, title II, §280(a), 96 Stat. 564; July 18, 1984, Pub. L. 98–369, div. A, title X, §1018(b), 98 Stat. 1021; Oct. 22, 1986, Pub. L. 99–514, title XVIII, §1878(c)(2), 100 Stat. 2903; Dec. 30, 1987, Pub. L. 100–223, title IV, §§402(a)(1), 404(a), (c), 101 Stat. 1532, 1533; Dec. 19, 1989, Pub. L. 101–239, title VII, §7503(a), 103 Stat. 2362; Nov. 5, 1990, Pub. L. 101–508, title XI, §11213(a)(1), (d)(1), 104 Stat. 1388–432, 1388–435; July 5, 1994, Pub. L. 103–272, §5(g)(2), 108 Stat. 1374.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 506; July 25, 1956, ch. 725, §§1, 4(b), 70 Stat. 644, 646; June 30, 1959, Pub. L. 86–75, §4, 73 Stat. 158; June 30, 1960, Pub. L. 86–564, title II, §202(a)(3), 74 Stat. 290; June 30, 1961, Pub. L. 87–72, §3(a)(3), 75 Stat. 193; June 28, 1962, Pub. L. 87–508, §5(a), (b), 76 Stat. 115; June 29, 1963, Pub. L. 88–52, §3(a)(3), 77 Stat. 72; June 30, 1964, Pub. L. 88–348, §2(a)(3), 78 Stat. 237; June 21, 1965, Pub. L. 89–44, title III, §303(a), 79 Stat. 148, May 21, 1970, Pub. L. 91–258, title II, §203(a), 84 Stat. 238; Oct. 4, 1976, Pub. L. 94–455, title XIX, §1904(a)(7), 90 Stat. 1812; July 1, 1980, Pub. L. 96–298, §1(b), 94 Stat. 829; Sept. 3, 1982, Pub. L. 97–248, title II, §280(a), 96 Stat. 564; July 18, 1984, Pub. L. 98–369, div. A, title X, §1018(b), 98 Stat. 1021; Oct. 22, 1986, Pub. L. 99–514, title XVIII, §1878(c)(2), 100 Stat. 2903; Dec. 30, 1987, Pub. L. 100–223, title IV, §§402(a)(1), 404(a), (c), 101 Stat. 1532, 1533; Dec. 19, 1989, Pub. L. 101–239, title VII, §7503(a), 103 Stat. 2362; Nov. 5, 1990, Pub. L. 101–508, title XI, §11213(a)(1), (d)(1), 104 Stat. 1388–432, 1388–435; July 5, 1994, Pub. L. 103–272, §5(g)(2), 108 Stat. 1374; Aug. 20, 1996, Pub. L. 104–188, title I, §1609(b), (d), (e), 110 Stat. 1841, 1842.)
 
 #### References in Text
 
-The Airport and Airway Development Act of 1970, referred to in subsecs. (e)(2) and (f)(1), is title I of Pub. L. 91–258, May 21, 1970, 84 Stat. 219, as amended, which was classified principally to chapter 25 (§1701 et seq.) of former Title 49, Transportation. Sections 1 to 30 of title I of Pub. L. 91–258, which enacted sections 1701 to 1703, 1711 to 1713, and 1714 to 1730 of former Title 49 and a provision set out as a note under section 1701 of former Title 49, were repealed by Pub. L. 97–248, title V, §523(a), Sept. 3, 1982, 96 Stat. 695. Sections 31, 51, 52(a), (b)(4), (6), (c), (d), and 53 of title I of Pub. L. 91–258 were repealed by Pub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation. For complete classification of this Act to the Code, see Tables. For disposition of sections of former Title 49, see table at the beginning of Title 49.
+The Airport and Airway Development Act of 1970, referred to in subsec. (e)(2), is title I of Pub. L. 91–258, May 21, 1970, 84 Stat. 219, as amended, which was classified principally to chapter 25 (§1701 et seq.) of former Title 49, Transportation. Sections 1 to 30 of title I of Pub. L. 91–258, which enacted sections 1701 to 1703, 1711 to 1713, and 1714 to 1730 of former Title 49 and a provision set out as a note under section 1701 of former Title 49, were repealed by Pub. L. 97–248, title V, §523(a), Sept. 3, 1982, 96 Stat. 695. Sections 31, 51, 52(a), (b)(4), (6), (c), (d), and 53 of title I of Pub. L. 91–258 were repealed by Pub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation. For complete classification of this Act to the Code, see Tables. For disposition of sections of former Title 49, see table at the beginning of Title 49.
+
+The date of the enactment of the Small Business Job Protection Act of 1996, referred to in subsec. (g), is the date of enactment of Pub. L. 104–188, which was approved Aug. 20, 1996.
 
 #### Amendments
+
+1996—Subsec. (e). Pub. L. 104–188, §1609(e), inserted at end “In the case of helicopter transportation described in paragraph (1), this subsection shall be applied by treating each flight segment as a distinct flight.”
+
+Subsec. (f). Pub. L. 104–188, §1609(d), amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows:
+
+“(f)
+
+Exemption for Certain Emergency Medical Transportation.—No tax shall be imposed under this section or section 4271 on any air transportation by helicopter for the purpose of providing emergency medical services if such helicopter—
+
+&emsp;“(1) does not take off from, or land at, a facility eligible for assistance under the Airport and Airway Development Act of 1970 during such transportation, and
+
+&emsp;“(2) does not otherwise use services provided pursuant to section 44509 or 44913(b) or subchapter I of chapter 471 of title 49, United States Code, during such transportation.”
+
+Subsec. (g). Pub. L. 104–188, §1609(b), substituted “January 1, 1996, and to transportation beginning on or after the date which is 7 calendar days after the date of the enactment of the Small Business Job Protection Act of 1996 and before January 1, 1997” for “January 1, 1996”.
 
 1994—Subsecs. (e), (f)(2). Pub. L. 103–272, §5(g)(2), substituted “section 44509 or 44913(b) or subchapter I of chapter 471 of title 49, United States Code,” for “the Airport and Airway Improvement Act of 1982”.
 
@@ -115,6 +131,10 @@ Pub. L. 87–508, §5(a), substituted provision imposing a tax equivalent to 10 
 Subsec. (b). Act July 25, 1956, §1, substituted “taxable transportation (as defined in section 4262) of any person by rail, motor vehicle, water, or air, but only if such transportation begins and ends in the United States” for “transportation of persons by rail, motor vehicle, water, or air which begins and ends in the United States”.
 
 Subsec. (d). Act July 25, 1956, §4(b), substituted “Except as provided in section 4264, the” for “The”.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–188 effective on 7th calendar day after Aug. 20, 1996, but not applicable to any amount paid before such date, see section 1609(i) of Pub. L. 104–188, set out as a note under section 4041 of this title.
 
 #### Effective Date of 1990 Amendment
 

@@ -26,7 +26,7 @@ Where the State or local units of government deem it appropriate, they may cede 
 
 #### (e) Values; protective acquisitions
 
-The Secretary, upon the failure of the State or local units of government to enact rules pursuant to subsection (b) of this section or enforce such rules so as to protect the values enumerated in subsection (c) of this section, may acquire such lands, servitudes, or interests inlands within the park protection zone as he deems necessary to protect the values enumerated in subsection (c) of this section.
+The Secretary, upon the failure of the State or local units of government to enact rules pursuant to subsection (b) of this section or enforce such rules so as to protect the values enumerated in subsection (c) of this section, may acquire such lands, servitudes, or interests in lands within the park protection zone as he deems necessary to protect the values enumerated in subsection (c) of this section.
 
 #### (f) Boundaries; revision
 
@@ -36,7 +36,7 @@ The Secretary may revise the boundaries of the park protection zone, notwithstan
 
 The Secretary is authorized to acquire lands or interests in lands by donation, purchase with donated or appropriated funds or exchange, not to exceed approximately 20 acres, in Acadian villages and towns. Any lands so acquired shall be developed, maintained and operated as part of the Jean Lafitte National Historical Park.
 
-(Pub. L. 95–625, title IX, §902, Nov. 10, 1978, 92 Stat. 3535; Pub. L. 96–87, title IV, §401(q)(1), Oct. 12, 1979, 93 Stat. 666; Pub. L. 100–250, §1(b), Feb. 16, 1988, 102 Stat. 16.)
+(Pub. L. 95–625, title IX, §902, Nov. 10, 1978, 92 Stat. 3535; Pub. L. 96–87, title IV, §401(q)(1), Oct.12, 1979, 93 Stat. 666; Pub. L. 100–250, §1(b), Feb. 16, 1988, 102 Stat. 16.)
 
 #### Amendments
 

@@ -1,5 +1,9 @@
 subpart ii—notifications of possible exposure to infectious diseases
 
+#### Amendments
+
+1996—Pub. L. 104–146, §12(c)(9), May 20, 1996, 110 Stat. 1374, made technical amendment to heading.
+
 
 ---
 

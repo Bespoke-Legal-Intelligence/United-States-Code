@@ -8,7 +8,7 @@ The commissioner shall serve without compensation: <i>Provided</i>, That each Co
 
 #### Codification
 
-“Section 5703 of title 5” substituted in text for “the Act of August 2, 1946 (60 Stat. 808) as heretofore or hereafter amended (5 U.S.C. 73b–2)” on authority of Pub. L.89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
+“Section 5703 of title 5” substituted in text for “the Act of August 2, 1946 (60 Stat. 808) as heretofore or hereafter amended (5 U.S.C. 73b–2)” on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
 
 #### Amendments
 

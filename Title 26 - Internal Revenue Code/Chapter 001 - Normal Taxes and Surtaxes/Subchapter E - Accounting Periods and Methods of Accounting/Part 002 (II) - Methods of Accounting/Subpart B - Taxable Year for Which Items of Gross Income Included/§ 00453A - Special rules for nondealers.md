@@ -58,7 +58,7 @@ In the case of an installment obligation to which this section applies—
 
 &emsp;For purposes of this section, the term “deferred tax liability” means, with respect to any taxable year, the product of—
 
-&emsp;&emsp;(A) the amount of gain with respect to an obligation which has not been recognized as of the close of such taxable year, multiplied by
+&emsp;&emsp;(A) the amount of gain with respect to an obligation which has not been recognized asof the close of such taxable year, multiplied by
 
 &emsp;&emsp;(B) the maximum rate of tax in effect under section 1 or 11, whichever is appropriate, for such taxable year.
 
@@ -126,7 +126,7 @@ Provisions similar to those comprising this section were contained in former sec
 
 1989—Subsec. (b)(2)(B). Pub. L. 101–239, §7821(a)(1), substituted “such obligations held by the taxpayer” for “obligations of the taxpayer described in paragraph (1)”.
 
-Subsec. (b)(3). Pub. L. 101–239, §7815(g), substituted “Exception for personal use and farm property” for“Exception for farm property” in heading and amended text generally. Prior to amendment, text read as follows: “An installment obligation shall not be treated as described in paragraph (1) if it arises from the disposition of any property used or produced in the trade or business of farming (within the meaning of section 2032A(e)(4) or (5).”
+Subsec. (b)(3). Pub. L. 101–239, §7815(g), substituted “Exception for personal use and farm property” for “Exception for farm property” in heading and amended text generally. Prior to amendment, text read as follows: “An installment obligation shall not be treated as described in paragraph (1) if it arises from the disposition of any property used or produced in the trade or business of farming (within the meaning of section 2032A(e)(4) or (5).”
 
 Pub. L. 101–239, §7812(c)(2), substituted “(5)).” for “(5).”
 

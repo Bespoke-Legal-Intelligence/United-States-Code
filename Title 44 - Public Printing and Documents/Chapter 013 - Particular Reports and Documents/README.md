@@ -12,7 +12,7 @@
 | [1308\.](%C2%A7%2001308%20-%20Coast%20Guard%20annual%20report%20of%20the%20Commandant.md) | Coast Guard: annual report of the Commandant. |
 | [1309\.](%C2%A7%2001309%20-%20Coast%20Guard%20notices%20to%20mariners%20and%20other%20special%20publications.md) | Coast Guard: notices to mariners and other special publications. |
 | [1310\.](%C2%A7%2001310%20-%20Commerce%20Department%20navigation%20and%20weather%20information.md) | Commerce Department: navigation and weather information. |
-| [1311\.](%C2%A7%2001311%20-%20Comptroller%20General%20decisions.md) | Comptroller General: decisions. |
+| \[1311. | Repealed.\] |
 | [1312\.](%C2%A7%2001312%20-%20Director%20of%20Public%20Health%20of%20District%20of%20Columbia%20report.md) | Director of Public Health of District of Columbia: report. |
 | [1313\.](%C2%A7%2001313%20-%20Education%2C%20Commissioner%20of%20report.md) | Education, Commissioner of: report. |
 | [1314\.](%C2%A7%2001314%20-%20Ephemeris%20and%20Nautical%20Almanac.md) | Ephemeris and Nautical Almanac. |
@@ -38,19 +38,28 @@
 | [1333\.](%C2%A7%2001333%20-%20National%20high%20school%20and%20college%20debate%20topics.md) | National high school and college debate topics. |
 | [1334\.](%C2%A7%2001334%20-%20Naval%20Intelligence%20Office%20additional%20copies%20of%20publications.md) | Naval Intelligence Office: additional copies of publications. |
 | [1335\.](%C2%A7%2001335%20-%20Naval%20Observatory%20Observations.md) | Naval Observatory Observations. |
-| [1336\.](%C2%A7%2001336%20-%20Naval%20Oceanographic%20Office%20special%20publications.md) | Naval Oceanographic Office: special publications. |
+| [1336\.](%C2%A7%2001336%20-%20National%20Imagery%20and%20Mapping%20Agency%20special%20publications.md) | National Imagery and Mapping Agency: special publications. |
 | [1337\.](%C2%A7%2001337%20-%20Patent%20Office%20publications%20authorized%20to%20be%20printed.md) | Patent Office: publications authorized to be printed. |
 | [1338\.](%C2%A7%2001338%20-%20Patent%20Office%20limitations%20and%20conditions%20concerning%20printing%20and%20lithographing.md) | Patent Office: limitations and conditions concerning printing and lithographing. |
 | [1339\.](%C2%A7%2001339%20-%20Printing%20of%20the%20President%27s%20Message.md) | Printing of the President's message. |
 | [1340\.](%C2%A7%2001340%20-%20Public%20Printer%20annual%20report.md) | Public Printer: annual report. |
 | [1341\.](%C2%A7%2001341%20-%20Smithsonian%20Institution%20report.md) | Smithsonian Institution: report. |
-| [1342\.](%C2%A7%2001342%20-%20Soil%20area%20surveys%20reports%3B%20congressional%20allotments.md) | Soil area surveys: reports; congressional allotments. |
+| [1342\.](%C2%A7%2001342%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93127%2C%20title%20IV%2C%20%C2%A7384%2C%20Apr.%204%2C%201996%2C%20110%20Stat.%201016.md) | Soil area surveys: reports; congressional allotments.<sup>1</sup> |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+|  |  |
+| :--- | ---: |
 | [1343\.](%C2%A7%2001343%20-%20Statistical%20Abstract%20of%20the%20United%20States.md) | Statistical Abstract of the United States. |
 | [1344\.](%C2%A7%2001344%20-%20Treasury%20Department%20reports.md) | Treasury Department: reports. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1996—Pub. L. 104–316, title I, §123(b)(2), Oct. 19, 1996, 110 Stat. 3839, struck out item 1311 “Comptroller General: decisions”.
+
+Pub. L. 104–201, div. A, title XI, §1123(b)(2), Sept. 23, 1996, 110 Stat. 2688, substituted “National Imagery and Mapping Agency” for “Naval Oceanographic Office” in item 1336.
 
 1986—Pub. L. 99–272, title VI, §6011(b), Apr. 7, 1986, 100 Stat. 122, substituted “National Oceanic and Atmospheric Administration: nautical and aeronautical products, sale and distribution” for “Environmental Science Service Administration: charts; sale and distribution” in item 1307.
 
@@ -90,11 +99,11 @@ Federal Supplementary Medical Insurance Trust Fund, reports of Board of Trustees
 
 Gorgas Memorial Institute, annual report, see section 278a of Title 22, Foreign Relations and Intercourse.
 
-Helium gas, annual reports by Secretary of Interior, see section 167n of Title 50, War and National Defense.
+Helium gas, annual reports by Secretary of the Interior, see section 167n of Title 50, War and National Defense.
 
 Housing renovation and modernization, statistical and economic surveys, see section 1715 of Title 12, Banks and Banking.
 
-Indian affairs: printing and republication of Senate document on “Indian Affairs, Laws and Treaties”, treaties on “Federal Indian Laws”, and compilation of opinions of Solicitor of Department of Interior, see section 1341 of Title 25, Indians.
+Indian affairs: printing and republication of Senate document on “Indian Affairs, Laws and Treaties”, treaties on “Federal Indian Laws”, and compilation of opinions of Solicitor of Department of the Interior, see section 1341 of Title 25, Indians.
 
 Interior Department, annual reports of department and its bureaus; page limitation, see section 1465 of Title 43, Public Lands.
 
@@ -118,6 +127,8 @@ Traffic and motor vehicle safety, annual report, see section 30169 of Title 49, 
 
 United Nations Organization, reports to Congress by President, see section 287b of Title 22, Foreign Relations and Intercourse.
 
+<i><sup>1</sup></i><i> Section repealed by Pub. L. 104–127 without corresponding amendment of chapter analysis.</i>
+
 
 ---
 
@@ -133,7 +144,7 @@ United Nations Organization, reports to Congress by President, see section 287b 
 - [&sect; 01308 - Coast Guard annual report of the Commandant](%C2%A7%2001308%20-%20Coast%20Guard%20annual%20report%20of%20the%20Commandant.md)
 - [&sect; 01309 - Coast Guard notices to mariners and other special publications](%C2%A7%2001309%20-%20Coast%20Guard%20notices%20to%20mariners%20and%20other%20special%20publications.md)
 - [&sect; 01310 - Commerce Department navigation and weather information](%C2%A7%2001310%20-%20Commerce%20Department%20navigation%20and%20weather%20information.md)
-- [&sect; 01311 - Comptroller General decisions](%C2%A7%2001311%20-%20Comptroller%20General%20decisions.md)
+- [&sect; 01311 - Repealed. Pub. L. 104&#8211;316, title I, &sect;123(b)(1), Oct. 19, 1996, 110 Stat. 3839](%C2%A7%2001311%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93316%2C%20title%20I%2C%20%C2%A7123%28b%29%281%29%2C%20Oct.%2019%2C%201996%2C%20110%20Stat.%203839.md)
 - [&sect; 01312 - Director of Public Health of District of Columbia report](%C2%A7%2001312%20-%20Director%20of%20Public%20Health%20of%20District%20of%20Columbia%20report.md)
 - [&sect; 01313 - Education, Commissioner of report](%C2%A7%2001313%20-%20Education%2C%20Commissioner%20of%20report.md)
 - [&sect; 01314 - Ephemeris and Nautical Almanac](%C2%A7%2001314%20-%20Ephemeris%20and%20Nautical%20Almanac.md)
@@ -159,12 +170,12 @@ United Nations Organization, reports to Congress by President, see section 287b 
 - [&sect; 01333 - National high school and college debate topics](%C2%A7%2001333%20-%20National%20high%20school%20and%20college%20debate%20topics.md)
 - [&sect; 01334 - Naval Intelligence Office additional copies of publications](%C2%A7%2001334%20-%20Naval%20Intelligence%20Office%20additional%20copies%20of%20publications.md)
 - [&sect; 01335 - Naval Observatory Observations](%C2%A7%2001335%20-%20Naval%20Observatory%20Observations.md)
-- [&sect; 01336 - Naval Oceanographic Office special publications](%C2%A7%2001336%20-%20Naval%20Oceanographic%20Office%20special%20publications.md)
+- [&sect; 01336 - National Imagery and Mapping Agency special publications](%C2%A7%2001336%20-%20National%20Imagery%20and%20Mapping%20Agency%20special%20publications.md)
 - [&sect; 01337 - Patent Office publications authorized to be printed](%C2%A7%2001337%20-%20Patent%20Office%20publications%20authorized%20to%20be%20printed.md)
 - [&sect; 01338 - Patent Office limitations and conditions concerning printing and lithographing](%C2%A7%2001338%20-%20Patent%20Office%20limitations%20and%20conditions%20concerning%20printing%20and%20lithographing.md)
 - [&sect; 01339 - Printing of the President's Message](%C2%A7%2001339%20-%20Printing%20of%20the%20President%27s%20Message.md)
 - [&sect; 01340 - Public Printer annual report](%C2%A7%2001340%20-%20Public%20Printer%20annual%20report.md)
 - [&sect; 01341 - Smithsonian Institution report](%C2%A7%2001341%20-%20Smithsonian%20Institution%20report.md)
-- [&sect; 01342 - Soil area surveys reports; congressional allotments](%C2%A7%2001342%20-%20Soil%20area%20surveys%20reports%3B%20congressional%20allotments.md)
+- [&sect; 01342 - Repealed. Pub. L. 104&#8211;127, title IV, &sect;384, Apr. 4, 1996, 110 Stat. 1016](%C2%A7%2001342%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93127%2C%20title%20IV%2C%20%C2%A7384%2C%20Apr.%204%2C%201996%2C%20110%20Stat.%201016.md)
 - [&sect; 01343 - Statistical Abstract of the United States](%C2%A7%2001343%20-%20Statistical%20Abstract%20of%20the%20United%20States.md)
 - [&sect; 01344 - Treasury Department reports](%C2%A7%2001344%20-%20Treasury%20Department%20reports.md)

@@ -86,7 +86,7 @@ For purposes of subsection (a)(4)—
 
 From among the nominated areas eligible for designation under section 1391 by the appropriate Secretary, such appropriate Secretary shall make designations of empowerment zones and enterprise communities on the basis of—
 
-&emsp;(1) the effectiveness of the strategic plan submitted pursuant to section 1391(f)(2) and the assurances made pursuant to section 1391(e)(3), and
+&emsp;(1) the effectiveness of the strategic plan submitted pursuant to section 1391(f)(2) andthe assurances made pursuant to section 1391(e)(3), and
 
 &emsp;(2) criteria specified by the appropriate Secretary.
 

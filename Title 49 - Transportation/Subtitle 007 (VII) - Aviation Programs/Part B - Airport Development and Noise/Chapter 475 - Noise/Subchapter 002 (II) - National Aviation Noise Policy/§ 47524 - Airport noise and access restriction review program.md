@@ -2,13 +2,13 @@
 
 (a)
 
-General Requirements.—The national aviation noise policy established under section 47523 of this title shall provide for establishing by regulation a national program for reviewing airport noise and access restrictions on the operation of stage 2 and stage 3 aircraft. The program shall provide for adequate public notice and opportunity for comment on the restrictions.
+General Requirements.—The national aviation noise policy established under section 47523 of this title shall provide for establishing by regulation a national program for reviewing airport noise and access restrictions on the operation of stage 2 and stage 3 aircraft. The program shall provide for adequate public noticeand opportunity for comment on the restrictions.
 
 (b)
 
 Stage 2
 
-Aircraft.—Except as provided in subsection (d) of this section, an airport noise oraccess restriction may include a restriction on the operation of stage 2 aircraft proposed after October 1, 1990, only if the airport operator publishes the proposed restriction and prepares and makes available for public comment at least 180 days before the effective date of the proposed restriction—
+Aircraft.—Except as provided in subsection (d) of this section, an airport noise or access restriction may include a restriction on the operation of stage 2 aircraft proposed after October 1, 1990, only if the airport operator publishes the proposed restriction and prepares and makes available for public comment at least 180 days before the effective date of the proposed restriction—
 
 &emsp;(1) an analysis of the anticipated or actual costs and benefits of the existing or proposed restriction;
 
@@ -88,7 +88,9 @@ Grant Limitations.—Beginning on the 91st day after the Secretary prescribes a 
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -102,11 +104,11 @@ Nov. 5, 1990, Pub. L. 101–508, §9304(a)(1)– (2)(C), (3)–(g), 104 Stat. 13
 
 47524(b)
 
-49 App.:2153(a) (2)(A), (c).
+49 App.:2153(a)(2)(A), (c).
 
 47524(c)(1)
 
-49 App.:2153(a) (2)(B), (b).
+49 App.:2153(a)(2)(B), (b).
 
 47524(c)(2)
 
@@ -114,7 +116,7 @@ Nov. 5, 1990, Pub. L. 101–508, §9304(a)(1)– (2)(C), (3)–(g), 104 Stat. 13
 
 47524(c)(3)
 
-49 App.:2153(a) (2)(D).
+49 App.:2153(a)(2)(D).
 
 Nov. 5, 1990, Pub. L. 101–508, §9304(a)(2)(D), 104 Stat. 1388–380; Oct. 31, 1992, Pub. L. 102–581, §136(a), 106 Stat. 4889.
 
@@ -124,7 +126,7 @@ Nov. 5, 1990, Pub. L. 101–508, §9304(a)(2)(D), 104 Stat. 1388–380; Oct. 31,
 
 47524(d)
 
-49 App.:2153(a) (2)(C).
+49 App.:2153(a)(2)(C).
 
 47524(e)
 

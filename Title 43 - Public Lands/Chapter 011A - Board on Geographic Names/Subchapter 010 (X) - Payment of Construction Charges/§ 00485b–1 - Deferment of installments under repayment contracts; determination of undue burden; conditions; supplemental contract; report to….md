@@ -16,7 +16,7 @@ The Secretary may effect the deferments hereunder subject to such conditions and
 
 1945—Subsec. (a). Act Apr. 24, 1945, extended authority for modification of existing repayment contracts or other forms of obligations to pay construction charges through Dec. 31, 1950, or Dec. 31 of the fifth full calendar year after the cessation of hostilities of World War II, as determined by proclamation of the President or concurrent resolution of Congress, whichever period was the longer.
 
-Subsec. (b). Act Apr. 24, 1945, authorized Secretary, subject to provisions of this subsection, to defer the time for the payment of such part of any installmentsof construction charges under any repayment contract or other form of obligation that are due and unpaid as of Apr. 24, 1945, or which would become due prior to the expiration of authority under subsec. (a).
+Subsec. (b). Act Apr. 24, 1945, authorized Secretary, subject to provisions of this subsection, to defer the time for the payment of such part of any installments of construction charges under any repayment contract or other form of obligation that are due and unpaid as of Apr. 24, 1945, or which would become due prior to the expiration of authority under subsec. (a).
 
 #### Applicability to Other Irrigation Projects
 

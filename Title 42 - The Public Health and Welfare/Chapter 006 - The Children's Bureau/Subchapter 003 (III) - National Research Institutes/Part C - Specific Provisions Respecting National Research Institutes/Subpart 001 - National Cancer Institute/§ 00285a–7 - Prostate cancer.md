@@ -6,7 +6,7 @@ The Director of the Institute, in consultation with the National Cancer Advisory
 
 #### (b) Coordination with other institutes
 
-The Director of the Institute shall coordinate the activities of the Director under subsection (a) of this section with similar activities conducted by other national research institutes and agencies of the National Institutes of Health to the extent that such Institutes <sup>1</sup> and agencies have responsibilities that are related to prostate cancer.
+The Director of the Institute shall coordinate the activities of the Director under subsection (a) of this section with similar activities conducted by other national research institutes and agencies of the National Institutes of Health to the extent that such Institutes <sup>1</sup> and agencieshave responsibilities that are related to prostate cancer.
 
 #### (c) Programs
 

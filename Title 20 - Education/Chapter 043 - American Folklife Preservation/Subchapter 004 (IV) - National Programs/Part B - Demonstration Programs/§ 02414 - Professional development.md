@@ -50,7 +50,7 @@
 
 &emsp;(C) such programs are conducted by a school of graduate study in the institution of higher education.
 
-(5) The Secretary, in carrying out this subsection shall apportion leadership developmentawards to institutions of higher education equitably among the States, taking into account such factors as the State's vocational education enrollments and the need for additional vocational education personnel in the State.
+(5) The Secretary, in carrying out this subsection shall apportion leadership development awards to institutions of higher education equitably among the States, taking into account such factors as the State's vocational education enrollments and the need for additional vocational education personnel in the State.
 
 (6) Each individual who receives a leadership development award under this subsection shall receive payments as provided in paragraph (2) for not more than a 3-year period during which such individual is—
 

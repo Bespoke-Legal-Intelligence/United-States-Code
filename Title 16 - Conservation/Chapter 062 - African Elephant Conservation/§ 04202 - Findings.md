@@ -12,7 +12,7 @@ The Congress finds the following:
 
 &emsp;(5) In response to the significant illegal trade in African elephant ivory, the parties to CITES established the CITES Ivory Control System to curtail the illegal trade and to encourage African countries to manage, conserve, and protect their African elephant populations.
 
-&emsp;(6) The CITES Ivory Control System entered into force recently and should be allowed tocontinue in force for a reasonable period of time to assess its effectiveness in curtailing the illegal trade in African elephant ivory.
+&emsp;(6) The CITES Ivory Control System entered into force recently and should be allowed to continue in force for a reasonable period of time to assess its effectiveness in curtailing the illegal trade in African elephant ivory.
 
 &emsp;(7) Although some African countries have effective African elephant conservation programs, many do not have sufficient resources to properly manage, conserve, and protect their elephant populations.
 

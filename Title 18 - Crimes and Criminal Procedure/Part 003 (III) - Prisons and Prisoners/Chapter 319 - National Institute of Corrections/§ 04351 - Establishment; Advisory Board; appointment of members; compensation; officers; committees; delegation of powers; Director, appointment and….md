@@ -46,9 +46,7 @@ Department of Health, Education, and Welfare redesignated Department of Health a
 
 Amendment by Pub. L. 98–473 effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of such amendment, see section 235(a)(1) of Pub. L. 98–473, set out as an Effective Date note under section 3551 of this title.
 
-#### Effective Date of 1977
-
-Amendment
+#### Effective Date of 1977 Amendment
 
 Amendment by Pub. L. 95–115 effective Oct. 1, 1977, see section 263(c) of Pub. L. 93–415, as added by Pub. L. 95–115, set out as a note under section 5601 of Title 42, The Public Health and Welfare.
 

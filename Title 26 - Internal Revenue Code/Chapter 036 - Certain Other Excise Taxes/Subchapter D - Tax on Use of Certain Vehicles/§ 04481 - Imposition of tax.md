@@ -6,10 +6,9 @@ A tax is hereby imposed on the use of any highway motor vehicle which (together 
 
 &nbsp;
 
-| &nbsp; | &nbsp; |
-| :--- | ---: |
 | <b>Taxable gross weight:</b> | <b>Rate of tax:</b> |
-| At least 55,000 pounds, but not over 75,000 pounds | $100 per year plus $22 for each 1,000 pounds (or fraction thereof) in excess of 55,000 pounds. |
+| --- | --- |
+| &nbsp;At least 55,000 pounds, but not over 75,000 poundsD$100 per year plus $22 for each 1,000 pounds (or fraction thereof) in excess of 55,000 pounds. |  |
 | Over 75,000 pounds | $550. |
 
 #### (b) By whom paid
@@ -46,11 +45,13 @@ The tax imposed by this section shall be paid by the person in whose name the hi
 
 The tax imposed by this section shall apply only to use before October 1, 1999.
 
-(Added June 29, 1956, ch. 462, title II, §206(a), 70 Stat. 390; amended June 29, 1961, Pub. L. 87–61, title II, §203(a), (b)(1), (2)(A), (B), 75 Stat. 124; Dec. 31, 1970, Pub. L. 91–605, title III, §303(a)(7), (8), 84 Stat. 1744; May 5, 1976, Pub. L. 94–280, title III, §303(a)(7), (8), 90 Stat. 456; Nov. 6, 1978, Pub. L. 95–599, title V, §502(a)(6), (7), 92 Stat. 2756; Jan. 6, 1983, Pub. L. 97–424, title V, §§513(a), (d), 516(a)(4), 96 Stat. 2177, 2179, 2182; July 18, 1984, Pub. L. 98–369, div. A, title VII, §734(f), title IX, §901(a), 98 Stat. 980, 1003; Apr. 2, 1987, Pub. L. 100–17, title V, §§502(a)(5), 507(a), 101 Stat. 256, 260; Nov. 5, 1990, Pub. L. 101–508, title XI, §11211(c)(5), 104 Stat. 1388–426; Dec. 18, 1991, Pub. L. 102–240, title VIII, §8002(a)(5), 105 Stat. 2203.)
+(Added June 29, 1956, ch. 462, title II, §206(a), 70 Stat. 390; amended June 29, 1961, Pub. L. 87–61, title II, §203(a), (b)(1), (2)(A), (B), 75 Stat. 124; Dec. 31, 1970, Pub. L. 91–605, title III, §303(a)(7), (8), 84 Stat. 1744; May 5, 1976, Pub. L. 94–280, title III, §303(a)(7), (8), 90 Stat. 456; Nov. 6, 1978, Pub. L. 95–599, title V, §502(a)(6), (7), 92 Stat. 2756; Jan. 6, 1983, Pub. L. 97–424, title V, §§513(a), (d), 516(a)(4), 96 Stat. 2177, 2179, 2182; July 18, 1984, Pub. L. 98–369, div. A, title VII, §734(f), title IX, §901(a), 98 Stat. 980, 1003; Apr. 2, 1987, Pub. L. 100–17, title V, §§502(a)(5), 507(a), 101 Stat. 256, 260; Nov. 5, 1990, Pub. L. 101–508, title XI, §11211(c)(5), 104 Stat. 1388–426; Dec. 18, 1991, Pub. L. 102–240, title VIII, §8002(a)(5), 105 Stat. 2203; Aug. 20, 1996, Pub. L. 104–188, title I, §1704(t)(57), 110 Stat. 1890.)
 
 #### Amendments
 
-1991—Subsec. (e). Pub. L. 102–240, which directed the substitution of “1999” for “1995” in subsec. (c), was executed by making the substitution in subsec. (e) to reflect the probable intent of Congress, because “1995” does not appear in subsec. (c).
+1996—Subsec. (e). Pub. L. 104–188 provided that section 8002(a)(5) of Pub. L. 102–240 shall be applied as if “4481(e)” appeared instead of “4481(c)”. See 1991 Amendment note below.
+
+1991—Subsec. (e). Pub. L. 102–240, which directed the substitution of “1999” for “1995” in subsec. (c), was executed by making the substitution in subsec. (e). See 1996 Amendment note above.
 
 1990—Subsec. (e). Pub. L. 101–508 substituted “1995” for “1993”.
 

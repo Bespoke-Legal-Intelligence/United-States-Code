@@ -1,6 +1,6 @@
 ### §291. Authorization of associations; powers
 
-Persons engaged in the production of agricultural products as farmers, planters, ranchmen, dairymen, nut or fruit growers may act together in associations, corporate or otherwise, with or without capital stock, in collectively processing, preparing for market, handling, and marketing in interstate and foreign commerce, such products of persons so engaged. Such associations may have marketing agencies in common; and such associations and their members may make the necessary contracts and agreements to effect such purposes: <i>Provided, however,</i> That such associations are operated for the mutual benefit of the members thereof, as such producers, and conform to one or both of the following requirements:
+Persons engaged in the production of agricultural products as farmers, planters, ranchmen, dairymen, nut or fruit growers may act together in associations, corporate or otherwise, with or without capital stock, in collectively processing, preparing for market, handling, and marketing in interstate and foreign commerce, such products of persons so engaged. Such associations may have marketing agencies in common; and such associations and their members may make the necessary contracts and agreements to effect such purposes: <i>Provided, however</i>, That such associations are operated for the mutual benefit of the members thereof, as such producers, and conform to one or both of the following requirements:
 
 First. That no member of the association is allowed more than one vote because of the amount of stock or membership capital he may own therein, or,
 
@@ -22,5 +22,5 @@ Cooperative marketing, see sections 451 to 457 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1a, 457, 608c, 2302 of this title; title 15 section 57b–5.
+This section is referred to in sections 1a, 457, 608c, 2302, 5623 of this title; title 15 section 57b–5.
 

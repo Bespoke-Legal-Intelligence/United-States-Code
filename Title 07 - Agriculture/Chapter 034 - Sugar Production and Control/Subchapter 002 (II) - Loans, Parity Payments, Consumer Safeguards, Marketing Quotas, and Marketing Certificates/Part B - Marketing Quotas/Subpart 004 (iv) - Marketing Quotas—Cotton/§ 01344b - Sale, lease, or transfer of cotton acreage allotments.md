@@ -2,7 +2,7 @@
 
 #### (a) Authority for calendar years 1966 through 1970; transfer periods
 
-Notwithstanding any other provision of law, the Secretary, if he determines that it will not impair the effective operation of the program involved, (1) may permit the owner and operator of any farm for which a cotton acreage allotment is established to sell or lease all or any part or the right to all or any part of such allotment (excluding that part of the allotment which the Secretary determines was apportioned to the farm from the national acreage reserve) to any other owner or operator of a farm for transfer to such farm; (2) may permit the owner of a farm to transfer all or any part of such allotment to any other farm owned or controlled by him; <i>Provided,</i> That the authority granted under this section may be exercised for the calendar years 1966 through 1970, but all transfers hereunder shall be for such period of years as the parties thereto may agree.
+Notwithstanding any other provision of law, the Secretary, if he determines that it will not impair the effective operation of the program involved, (1) may permit the owner and operator of any farm for which a cotton acreage allotment is established to sell or lease all or any part or the right to all or any part of such allotment (excluding that part of the allotment which the Secretary determines was apportioned to the farm from the national acreage reserve) to any other owner or operator of a farm for transfer to such farm; (2) may permit the owner of a farm to transfer all or any part of such allotment to any other farm owned or controlled by him; <i>Provided</i>, That the authority granted under this section may be exercised for the calendar years 1966 through 1970, but all transfers hereunder shall be for such period of years as the parties thereto may agree.
 
 #### (b) Requisite conditions for transfer of acreage allotments
 
@@ -10,7 +10,7 @@ Transfers under this section shall be subject to the following conditions: (i) n
 
 #### (c) Extent of estate transferred
 
-The transfer of an allotment shall have the effect of transferring also the acreage history, farm base, and marketing quota attributable to such allotment and if the transfer is made prior to the determination of the allotment for any year the transfer shall include the right of the owner or operator to have an allotment determined for the farm for such year: <i>Provided,</i> That in the case of a transfer by lease, the amount of the allotment shall be considered for purposes of determining allotments after the expiration of the lease to have been planted on the farm from which such allotment is transferred.
+The transfer of an allotment shall have the effect of transferring also the acreage history, farm base, and marketing quota attributable to such allotment and if the transfer is made prior to the determination of the allotment for any year the transfer shall include the right of the owner or operator to have an allotment determined for the farm for such year: <i>Provided</i>, That in the case of a transfer by lease, the amount of the allotment shall be considered for purposes of determining allotments after the expiration of the lease to have been planted on the farm from which such allotment is transferred.
 
 #### (d) Period of ineligibility of land for new allotment
 
@@ -54,11 +54,11 @@ Section 1(19)(C) of Pub. L. 93–86 provided that the amendment made by that sec
 
 Section 601(3) of Pub. L. 91–524, as amended by section 1(19)(A) of Pub. L. 93–86, provided that the amendment made by that section is effective only with respect to 1971 through 1977 crops.
 
-#### Inapplicability to the 1984 and Subsequent Crops of Extra Long Staple Cotton
+#### Inapplicability of Section
 
 Section inapplicable to 1984 and subsequent crops of extra long staple cotton, see section 3 of Pub. L. 98–88, set out as a note under section 1342 of this title.
 
-#### Inapplicability to Upland Cotton of the 1971 Through 1977 Crops; Transfers to Farms Outside County
+Section inapplicable to 1996 through 2002 crops of loan commodities, peanuts, and sugar and inapplicable to milk during period beginning Apr. 4, 1996, and ending Dec. 31, 2002, see section 7301(a)(1)(A) of this title.
 
-Section 601(3)(2) of Pub. L. 91–524, as amended by section 1(19)(A) of Pub. L. 93–86, provided that: “Subdivisions (ii), (iv), (v), and (vi) of subsection (b) \[of this section\], the last sentence of subsection (b) \[of this section\] and subsections (e) and (h) \[of this section\] shall not be applicable to the 1971 through 1977 crops: <i>Provided,</i> That no farm allotment may be sold or leased for transfer to a farm in another county unless the Agricultural Stabilization and Conservation Committee established pursuant to section 8(b) of the Soil Conservation and Domestic Allotment Act, as amended \[16 U.S.C. 590h(b)\], for the county from which such transfers are being made (1) finds that a demand for such acreage allotments no longer exists in such county and (2) approves any transfers of allotments to farms outside such county.”
+Section 601(3)(2) of Pub. L. 91–524, as amended by section 1(19)(A) of Pub. L. 93–86, provided that: “Subdivisions (ii), (iv), (v), and (vi) of subsection (b) \[of this section\], the last sentence of subsection (b) \[of this section\] and subsections (e) and (h) \[of this section\] shall not be applicable to the 1971 through 1977 crops: <i>Provided</i>, That no farm allotment may be sold or leased for transfer to a farm in another county unless the Agricultural Stabilization and Conservation Committee established pursuant to section 8(b) of the Soil Conservation and Domestic Allotment Act, as amended \[16 U.S.C. 590h(b)\], for the county from which such transfers are being made (1) finds that a demand for such acreage allotments no longer exists in such county and (2) approves any transfers of allotments to farms outside such county.”
 

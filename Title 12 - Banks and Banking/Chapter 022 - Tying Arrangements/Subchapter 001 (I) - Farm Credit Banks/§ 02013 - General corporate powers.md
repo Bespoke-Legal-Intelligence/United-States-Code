@@ -46,7 +46,7 @@ Each Farm Credit Bank shall be a body corporate and, subject to regulation by th
 
 &emsp;&emsp;(C) lenders that are not Farm Credit System institutions in loans that the bank is authorized to make under this subchapter;
 
-&emsp;(13) approve the salary scale of the officers and employees of the associations in its district, and the appointment and compensation of the chief executive officer thereof, and supervise the exercise by such associations of the functions vested in or delegated to them;
+&emsp;(13) approve the salary scale of the officers and employees of the associations in its district and supervise the exercise by such associations of the functions vested in or delegated to them;
 
 &emsp;(14) deposit the securities and current funds of the bank with any member bank of the Federal Reserve System or any insured State nonmember bank (within the meaning of section 1813 of this title) and pay fees and receive interest on such as may be agreed, and when designated for that purpose by the Secretary of the Treasury, such bank—
 
@@ -78,13 +78,15 @@ Each Farm Credit Bank shall be a body corporate and, subject to regulation by th
 
 &emsp;(24) operate as an originator and become certified as a certified facility under subchapter VIII of this chapter.
 
-(Pub. L. 92–181, title I, §1.5, as added Pub. L. 100–233, title IV, §401, Jan. 6, 1988, 101 Stat. 1623; amended Pub. L. 100–399, title IV, §401(d), Aug. 17, 1988, 102 Stat. 995.)
+(Pub. L. 92–181, title I, §1.5, as added Pub. L. 100–233, title IV, §401, Jan. 6, 1988, 101 Stat. 1623; amended Pub. L. 100–399, title IV, §401(d), Aug. 17, 1988, 102 Stat. 995; Pub. L. 104–105, title II, §201, Feb. 10, 1996, 110 Stat. 172.)
 
 #### Prior Provisions
 
 A prior section 2013, Pub. L. 92–181, title I, §1.5, Dec. 10, 1971, 85 Stat. 585; Pub. L. 96–592, title I, §102, Dec. 24, 1980, 94 Stat. 3437; Pub. L. 99–205, title II, §205(d)(2), (3), title VI, §601, Dec. 23, 1985, 99 Stat. 1703, 1711; Pub. L. 100–233, title VIII, §802(c), Jan. 6, 1988, 101 Stat. 1710, related to land bank stock, prior to the general amendment of this subchapter by Pub. L. 100–233, §401.
 
 #### Amendments
+
+1996—Par. (13). Pub. L. 104–105 struck out “, and the appointment and compensation of the chief executive officer thereof,” after “in its district”.
 
 1988—Par. (9). Pub. L. 100–399, §401(d)(1), amended par. (9) generally. Prior to amendment, par. (9) read as follows: “prescribe by its board of directors—
 
@@ -113,6 +115,10 @@ Par. (22). Pub. L. 100–399, §401(d)(6), substituted “in accordance with gen
 Par. (23). Pub. L. 100–399, §401(d)(7), struck out “and approved by the Farm Credit Administration Board” after “of the bank” and substituted “purpose; and” for “purpose.”
 
 Par. (24). Pub. L. 100–399, §401(d)(8), added par. (24).
+
+#### Effective Date of 1996 Amendment
+
+Section 302 of Pub. L. 104–105 provided that: “Except as otherwise provided in this Act, this Act \[see Short Title of 1996 Amendment note set out under section 2001 of this title\] and the amendments made by this Act shall become effective on the date of enactment \[Feb. 10, 1996\].”
 
 #### Effective Date of 1988 Amendment
 

@@ -30,9 +30,9 @@
 
 &emsp;(E) dies or marries;
 
-> whichever occurs first. On the death of the surviving wife or husband, or former wife or husband, or termination of the annuity of a child, the annuity of any other child or children shall be recomputed and paid as though the wife or husband, former wife or husband, or child had not survived the annuitant, employee, or Member.
+> whichever occurs first. On the death of the surviving wife or husband, or former wife or husband, or termination of the annuity of a child, the annuity of any other child or children shall be recomputed and paid as though the wife or husband, former wife or husband, or child had not survived the annuitant, employee, or Member. If the annuity of a child under this subchapter terminates under subparagraph (E) because of marriage, then, if such marriage ends, such annuity shall resume on the first day of the month in which it ends, but only if any lump sum paid is returned to the Fund, and that individual is not otherwise ineligible for such annuity.
 
-(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 563; amended Pub. L. 99–556, title I, §117(a), Oct. 27, 1986, 100 Stat. 3134.)
+(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 563; amended Pub. L. 99–556, title I, §117(a), Oct. 27, 1986, 100 Stat. 3134; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §633(a)(2)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–363.)
 
 #### References in Text
 
@@ -40,9 +40,15 @@ The Social Security Act, referred to in subsec. (a)(3), is act Aug. 14, 1935, ch
 
 #### Amendments
 
-<b>1986</b>—Subsec. (a)(2). Pub. L. 99–556 inserted “(including any adjustment based on section 8340)”.
+1996—Subsec. (b). Pub. L. 104–208 inserted at end “If the annuity of a child under this subchapter terminates under subparagraph (E) because of marriage, then, if such marriage ends, such annuity shall resume on the first day of the month in which it ends, but only if any lump sum paid is returned to the Fund, and that individual is not otherwise ineligible for such annuity.”
+
+1986—Subsec. (a)(2). Pub. L. 99–556 inserted “(including any adjustment based on section 8340)”.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–208 applicable with respect to termination of marriage taking effect before, on, or after Sept. 30, 1996, except that benefits are payable only with respect to amounts accruing for periods beginning on first day of month beginning after the later of termination of marriage or Sept. 30, 1996, see section 101(f) \[title VI, §633(b)\] of Pub. L. 104–208, set out as a note under section 8341 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 8441, 8462 of this title; title 38 section 7438.
+This section is referred to in sections 8441, 8462, 8908 of this title; title 38 section 7438.
 

@@ -18,9 +18,9 @@ Minimum Standards.—The Secretary of Transportation shall prescribe regulations
 
 (b)
 
-Initial and Final Regulations.—(1) The Secretary shall prescribe initial regulations under subsection (a) within 3 years after the date of enactment of the Federal Railroad Safety Authorization Act of 1994. The initial regulations may exempt equipment used by tourist, historic, scenic, and excursion railroad carriers to transport passengers.
+Initial and Final Regulations.—(1) The Secretary shall prescribe initial regulations under subsection (a) within 3 years after November 2, 1994. The initial regulations may exempt equipment used by tourist, historic, scenic, and excursion railroad carriers to transport passengers.
 
-(2) The Secretary shall prescribe final regulations under subsection (a) within 5 years after such date of enactment.
+(2) The Secretary shall prescribe final regulations under subsection (a) within 5 years after November 2, 1994.
 
 (c)
 
@@ -30,11 +30,13 @@ Personnel.—The Secretary may establish within the Department of Transportation
 
 Consultation.—In prescribing regulations, issuing orders, and making amendments under this section, the Secretary may consult with Amtrak, public authorities operating railroad passenger service, other railroad carriers transporting passengers, organizations of passengers, and organizations of employees. A consultation is not subject to the Federal Advisory Committee Act (5 U.S.C. App.), but minutes of the consultation shall be placed in the public docket of the regulatory proceeding.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 873; Pub. L. 103–440, title II, §215(a), Nov. 2, 1994, 108 Stat. 4623.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 873; Pub. L. 103–440, title II, §215(a), Nov. 2, 1994, 108 Stat. 4623; Pub. L. 104–287, §5(47), Oct. 11, 1996, 110 Stat. 3393.)
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -62,11 +64,13 @@ In subsection (c), the word “Amtrak” is substituted for “National Railroad
 
 #### References in Text
 
-The date of enactment of the Federal Railroad Safety Authorization Act of 1994, referred to in subsec. (b), is the date of enactment of Pub. L. 103–440, which was approved Nov. 2, 1994.
-
 The Federal Advisory Committee Act, referred to in subsec. (d), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
+
+1996—Subsec. (b)(1). Pub. L. 104–287, §5(47)(A), substituted “November 2, 1994” for “the date of enactment of the Federal Railroad Safety Authorization Act of 1994”.
+
+Subsec. (b)(2). Pub. L. 104–287, §5(47)(B), substituted “November 2, 1994” for “such date of enactment”.
 
 1994—Pub. L. 103–440 amended section generally, substituting present provisions for provisions requiring the Secretary to take administrative action to ensure that the construction, operation, and maintenance of passenger rail equipment maximize the safety of passengers, and providing for areas of consideration and concentration, as well as consultation with Amtrak.
 

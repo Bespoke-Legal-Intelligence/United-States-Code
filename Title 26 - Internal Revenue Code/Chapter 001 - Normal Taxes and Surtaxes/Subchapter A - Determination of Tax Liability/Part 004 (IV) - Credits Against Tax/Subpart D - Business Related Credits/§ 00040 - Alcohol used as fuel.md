@@ -178,7 +178,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) for any period after December 31, 2000, or
 
-&emsp;&emsp;(B) for any period before January 1, 2001, during which the Highway Trust Fund financing rate under section 4081(a)(2) <sup>1</sup> is not in effect.
+&emsp;&emsp;(B) for any period before January 1, 2001, during which the rates of tax under section 4081(a)(2)(A) are 4.3 cents per gallon.
 
 #### (2) No carryovers to certain years after expiration
 
@@ -206,7 +206,7 @@ For purposes of this section—
 
 &emsp;The term “eligible small ethanol producer” means a person who, at all times during the taxable year, has a productive capacity for alcohol (as defined in subsection (d)(1)(A) without regard to clauses (i) and (ii)) not in excess of 30,000,000 gallons.
 
-#### (2) Aggregration <sup>2</sup> rule
+#### (2) Aggregration <sup>1</sup> rule
 
 &emsp;For purposes of the 15,000,000 gallon limitation under subsection (b)(4)(C) and the 30,000,000 gallon limitation under paragraph (1), all members of the same controlled group of corporations (within the meaning of section 267(f)) and all persons under common control (within the meaning of section 52(b) but determined by treating an interest of more than 50 percent as a controlling interest) shall be treated as 1 person.
 
@@ -236,19 +236,17 @@ In the case of any alcohol mixture credit or alcohol credit with respect to any 
 
 &emsp;(3) subparagraphs (A) and (B) of subsection (d)(3) shall be applied by substituting “54 cents” for “60 cents” and “40 cents” for “45 cents”.
 
-(Added Pub. L. 96–223, title II, §232(b)(1), Apr. 2, 1980, 94 Stat. 273, §44E; amended Pub. L. 97–34, title II §207(c)(3), Aug. 13, 1981, 95 Stat. 225; Pub. L. 97–354, §5(a)(2), Oct. 19, 1982, 96 Stat. 1692; Pub. L. 97–424, title V, §511(b)(2), (d)(3), Jan. 6, 1983, 96 Stat. 2170, 2171; renumbered §40 and amended Pub. L. 98–369, div. A, title IV, §§471(c), 474(k), title IX, §§912(c), (f), 913(b), July 18, 1984, 98 Stat. 826, 832, 1007, 1008; Pub. L. 100–203, title X, §10502(d)(1), Dec. 22, 1987, 101 Stat. 1330–444; Pub. L. 101–508, title XI, §11502(a)–(f), Nov. 5, 1990, 104 Stat. 1388–480 to 1388–482.)
-
-#### References in Text
-
-Section 4081 of this title, referred to in subsec. (e)(1)(B), was amended generally by Pub. L. 103–66, title XIII, §13242(a), Aug. 10, 1993, 107 Stat. 514, and although, as so amended, section 4081(a)(2) still relates to rates of tax, it no longer specifically refers to the Highway Trust Fund financing rate. For provisions relating to the Highway Trust Fund financing rate, see section 9503(f) of this title.
+(Added Pub. L. 96–223, title II, §232(b)(1), Apr. 2, 1980, 94 Stat. 273, §44E; amended Pub. L. 97–34, title II §207(c)(3), Aug. 13, 1981, 95 Stat. 225; Pub. L. 97–354, §5(a)(2), Oct. 19, 1982, 96 Stat. 1692; Pub. L. 97–424, title V, §511(b)(2), (d)(3), Jan. 6, 1983, 96 Stat. 2170, 2171; renumbered §40 and amended Pub. L. 98–369, div. A, title IV, §§471(c), 474(k), title IX, §§912(c), (f), 913(b), July 18, 1984, 98 Stat. 826, 832, 1007, 1008; Pub. L. 100–203, title X, §10502(d)(1), Dec. 22, 1987, 101 Stat. 1330–444; Pub. L. 101–508, title XI, §11502(a)–(f), Nov. 5, 1990, 104 Stat. 1388–480 to 1388–482; Pub. L. 104–188, title I, §1703(j), Aug. 20, 1996, 110 Stat. 1876.)
 
 #### Prior Provisions
 
-A prior section 40, added Pub. L. 92–178, title VI, §601(a), Dec. 10, 1971, 85 Stat. 553; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834, related to allowance as a credit of expenses of work incentive programs, prior to repeal by Pub. L. 98–369, div. A, title IV, §474(m)(1), July 18, 1984, 98 Stat. 833.
+A prior section 40, added Pub. L. 92–178, title VI, §601(a), Dec. 10, 1971, 85 Stat. 553; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834, related to allowance as a credit of expenses of work incentive programs, prior to repeal by Pub. L.98–369, div. A, title IV, §474(m)(1), July 18, 1984, 98 Stat. 833.
 
 Another prior section 40 was renumbered section 35 of this title.
 
 #### Amendments
+
+1996—Subsec. (e)(1)(B). Pub. L. 104–188 amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “for any period before January 1, 2001, during which the Highway Trust Fund financing rate under section 4081(a)(2) is not in effect.”
 
 1990—Subsec. (a)(2). Pub. L. 101–508, §11502(a)(1), substituted “, plus” for period at end.
 
@@ -310,6 +308,10 @@ Subsec. (d)(3)(A), (B). Pub. L. 97–424, §511(d)(3), substituted “50 cents�
 
 1981—Subsec. (e)(2)(A). Pub. L. 97–34 substituted “15” for “7” in two places, and “14” for “6” in one place.
 
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–188 effective as if included in the provision of the Revenue Reconciliation Act of 1993, Pub. L. 103–66, §§13001–13444, to which such amendment relates, see section 1703(<i>o</i>) of Pub. L. 104–188, set out as a note under section 39 of this title.
+
 #### Effective Date of 1990 Amendment
 
 Section 11502(h) of Pub. L. 101–508 provided that:
@@ -354,7 +356,5 @@ Section 232(h)(1), (4) of Pub. L. 96–223, as amended by Pub. L. 97–448, titl
 
 This section is referred to in sections 38, 87, 196, 6501 of this title.
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be “Aggregation”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be “Aggregation”.</i>
 

@@ -28,7 +28,7 @@ As used in this chapter—
 
 &emsp;(8) The term “enhancement” means projects undertaken to increase the production of naturally spawning or artificially propagated stocks of salmon or steelhead, or to protect, conserve, or improve the habitat of such stocks.
 
-&emsp;(9) The term “habitat” means those portions of the land or water, including the constituent elements thereof, (A) which salmon or steelhead occupy at any time during their life cycle, or (B) which affect the salmon or steelhead resources.
+&emsp;(9) The term “habitat” means those portions of the land or water, including the constituentelements thereof, (A) which salmon or steelhead occupy at any time during their life cycle, or (B) which affect the salmon or steelhead resources.
 
 &emsp;(10) The term “recreational fishing” means fishing for personal use and enjoyment using conventional angling gear, and not for sale or barter.
 

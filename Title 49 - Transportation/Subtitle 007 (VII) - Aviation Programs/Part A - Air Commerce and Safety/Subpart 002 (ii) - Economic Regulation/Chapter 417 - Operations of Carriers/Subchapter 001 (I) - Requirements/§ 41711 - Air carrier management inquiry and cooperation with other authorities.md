@@ -12,7 +12,9 @@ In carrying out this subpart, the Secretary of Transportation may—
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -26,7 +28,7 @@ Aug. 23, 1958, Pub. L. 85–726, §§204(b), (c), 415, 72 Stat. 743, 770.
 
 &nbsp;
 
-49 App.:1551(b) (1)(E).
+49 App.:1551(b)(1)(E).
 
 Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1601(b)(1)(E); added Oct. 4, 1984, Pub. L. 98–443, §3(e), 98 Stat. 1704.
 
@@ -36,7 +38,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1601(b)(1)(E); added Oct. 4, 19
 
 &nbsp;
 
-49 App.:1551(b) (1)(E).
+49 App.:1551(b)(1)(E).
 
 41711(3)
 
@@ -44,11 +46,11 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1601(b)(1)(E); added Oct. 4, 19
 
 &nbsp;
 
-49 App.:1551(b) (1)(E).
+49 App.:1551(b)(1)(E).
 
 In this section, before clause (1), the words “In carrying out” are substituted for “in connection with any matter arising under this chapter within its jurisdiction” and “in the administration and enforcement of this chapter” in 49 App.:1324(b) and “For the purpose of exercising and performing its powers and duties under this chapter” in 49 App.:1385, and added (as the words relate to 49 App.:1324(c)), for clarity and consistency in this section. In clause (1), the words “full and complete reports and other” are omitted as surplus. In clause (2), the words “State aeronautical agency, or other” are omitted as surplus. The text of 49 App.:1324(b) (words after 3d comma) is omitted as surplus because of 49:322(c)(3). In clause (3), the words “government of a foreign country” are substituted for “foreign governments” for consistency in the revised title and with other titles of the United States Code.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 40109, 41110, 46301 of this title.
+This section is referred to in section 41110 of this title.
 

@@ -32,7 +32,7 @@ Subsec. (a)(2). Pub. L. 102–52, §3(2), struck out “and” after “1990,”
 
 1986—Subsec. (a). Pub. L. 99–506 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “There are authorized to be appropriated—
 
-&emsp;“(1) for the purpose of providing for the expenses of the National Institute of Handicapped Researchunder section 761a of this title, other than expenses to carry out section 762 of this title, such sums as may be necessary for fiscal year 1984, and for each of the two succeeding fiscal years; and
+&emsp;“(1) for the purpose of providing for the expenses of the National Institute of Handicapped Research under section 761a of this title, other than expenses to carry out section 762 of this title, such sums as may be necessary for fiscal year 1984, and for each of the two succeeding fiscal years; and
 
 &emsp;“(2) for the purpose of carrying out section 762 of this title, $36,000,000 for the fiscal year 1984, $40,000,000 for the fiscal year 1985, and $44,000,000 for the fiscal year 1986.”
 

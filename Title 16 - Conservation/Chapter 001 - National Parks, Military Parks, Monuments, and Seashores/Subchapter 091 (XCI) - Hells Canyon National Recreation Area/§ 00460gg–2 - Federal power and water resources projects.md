@@ -2,7 +2,7 @@
 
 #### (a) Licenses by Federal Energy Regulatory Commission
 
-Notwithstanding any other provision of law, or any authorization heretofore given pursuant to law, the Federal Energy Regulatory Commission may not license the construction of any dam, water conduit, reservoir, powerhouse, transmission line, or other project work underthe Federal Power Act (41 Stat. 1063), as amended (16 U.S.C. 791a et seq.), within the recreation area: <i>Provided</i>, That the provisions of the Federal Power Act (41 Stat. 1063) shall continue to apply to any project (as defined in such Act), and all of the facilities and improvements required or used in connection with the operation and maintenance of said project, in existence within the recreation area which project is already constructed or under construction on December 31, 1975.
+Notwithstanding any other provision of law, or any authorization heretofore given pursuant to law, the Federal Energy Regulatory Commission may not license the construction of any dam, water conduit, reservoir, powerhouse, transmission line, or other project work under the Federal Power Act (41 Stat. 1063), as amended (16 U.S.C. 791a et seq.), within the recreation area: <i>Provided</i>, That the provisions of the Federal Power Act (41 Stat. 1063) shall continue to apply to any project (as defined in such Act), and all of the facilities and improvements required or used in connection with the operation and maintenance of said project, in existence within the recreation area which project is already constructed or under construction on December 31, 1975.
 
 #### (b) Assistance detrimental to protected waters
 
@@ -12,7 +12,7 @@ No department or agency of the United States may assist by loan, grant, license,
 
 #### References in Text
 
-The Federal Power Act, referred to in subsec. (a), is act June 10, 1920, ch. 285, 41 Stat. 1063, as amended, which is classified generally to chapter 12 (§791a et seq.) of this title. For complete classification of this Act to the Code, see section 791a of this title and Tables.
+The Federal Power Act, referred to in subsec. (a), is act June 10, 1920, ch. 285, 41 Stat. 1063, as amended,which is classified generally to chapter 12 (§791a et seq.) of this title. For complete classification of this Act to the Code, see section 791a of this title and Tables.
 
 #### Transfer of Functions
 

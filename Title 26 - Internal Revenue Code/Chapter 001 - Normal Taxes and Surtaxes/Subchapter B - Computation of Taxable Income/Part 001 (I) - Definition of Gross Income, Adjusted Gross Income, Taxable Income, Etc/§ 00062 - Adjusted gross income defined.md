@@ -70,6 +70,10 @@ For purposes of this subtitle, the term “adjusted gross income” means, in th
 
 &emsp;The deduction allowed by section 217.
 
+#### (16) Medical savings accounts
+
+&emsp;The deduction allowed by section 220.
+
 > Nothing in this section shall permit the same item to be deducted more than once.
 
 #### (b) Qualified performing artist
@@ -120,9 +124,15 @@ For purposes of subsection (a)(2)(A), an arrangement shall in no event be treate
 
 > The substantiation requirements of the preceding sentence shall not apply to any expense to the extent that substantiation is not required under section 274(d) for such expense by reason of the regulations prescribed under the 2nd sentence thereof.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 17; Oct. 10, 1962, Pub. L. 87–792, §7(b), 76 Stat. 828; Feb. 26, 1964, Pub. L. 88–272, title II, §213(b), 78 Stat. 52; Dec. 30, 1969, Pub. L. 91–172, title V, §531(b), 83 Stat. 655; Sept. 2, 1974, Pub. L. 93–406, title II, §§2002(a)(2), 2005(c)(9), 88 Stat. 959, 992; Oct. 26, 1974, Pub. L. 93–483, §6(a), 88 Stat. 1458; Oct. 4, 1976, Pub. L. 94–455, title V, §502(a), title XV, §1501(b)(1), title XIX, §1901(a)(8), (9), 90 Stat. 1559, 1735, 1765; Nov. 8, 1978, Pub. L. 95–615, §203(b), 92 Stat. 3106; Oct. 14, 1980, Pub. L. 96–451, title III, §301(b), 94 Stat. 1990; Dec. 28, 1980, Pub. L. 96–608, §3(a), 94 Stat. 3551; Aug. 13, 1981, Pub. L. 97–34, title I, §§103(b), 112(b)(2), title III, §311(h)(1), 95 Stat. 187, 195, 282; Oct. 19, 1982, Pub. L. 97–354, §5(a)(17), 96 Stat. 1693; July 18, 1984, Pub. L. 98–369, div. A, title IV, §491(d)(2), 98 Stat. 849; Oct. 22, 1986, Pub. L. 99–514, title I, §§131(b)(1), 132(b), (c), title III, §301(b)(1), title XVIII, §1875(c)(3), 100 Stat. 2113, 2115, 2116, 2217, 2894; Oct. 13, 1988, Pub. L. 100–485, title VII, §702(a), 102 Stat. 2426; Nov. 10, 1988, Pub. L. 100–647, title I, §1001(b)(3)(A), title VI, §6007(b), 102 Stat. 3349, 3687; Nov. 5, 1990, Pub. L. 101–508, title XI, §11802(e)(1), 104 Stat. 1388–530; July 3, 1992, Pub. L. 102–318, title V, §521(b)(2), 106 Stat. 310; Oct. 24, 1992, Pub. L. 102–486, title XIX, §1913(a)(2), 106 Stat. 3019; Aug. 10, 1993, Pub. L. 103–66, title XIII, §13213(c)(1), 107 Stat. 474.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 17; Oct. 10, 1962, Pub. L. 87–792, §7(b), 76 Stat. 828; Feb. 26, 1964, Pub. L. 88–272, title II, §213(b), 78 Stat. 52; Dec. 30, 1969, Pub. L. 91–172, title V, §531(b), 83 Stat. 655; Sept. 2, 1974, Pub. L. 93–406, title II, §§2002(a)(2), 2005(c)(9), 88 Stat. 959, 992; Oct. 26, 1974, Pub. L. 93–483, §6(a), 88 Stat. 1458; Oct. 4, 1976, Pub. L. 94–455, title V, §502(a), title XV, §1501(b)(1), title XIX, §1901(a)(8), (9), 90 Stat. 1559, 1735, 1765; Nov. 8, 1978, Pub. L. 95–615, §203(b), 92 Stat. 3106; Oct. 14, 1980, Pub. L. 96–451, title III, §301(b), 94 Stat. 1990; Dec. 28, 1980, Pub. L. 96–608, §3(a), 94 Stat. 3551; Aug. 13, 1981, Pub. L. 97–34, title I, §§103(b), 112(b)(2), title III, §311(h)(1), 95 Stat. 187, 195, 282; Oct. 19, 1982, Pub. L. 97–354, §5(a)(17), 96 Stat. 1693; July 18, 1984, Pub. L. 98–369, div. A, title IV, §491(d)(2), 98 Stat. 849; Oct. 22, 1986, Pub. L. 99–514, title I, §§131(b)(1), 132(b), (c), title III, §301(b)(1), title XVIII, §1875(c)(3), 100 Stat. 2113, 2115, 2116, 2217, 2894; Oct. 13, 1988, Pub. L. 100–485, title VII, §702(a), 102 Stat. 2426; Nov. 10, 1988, Pub. L. 100–647, title I, §1001(b)(3)(A), title VI, §6007(b), 102 Stat. 3349, 3687; Nov. 5, 1990, Pub. L. 101–508, title XI, §11802(e)(1), 104 Stat. 1388–530; July 3, 1992, Pub. L. 102–318, title V, §521(b)(2), 106 Stat. 310; Oct. 24, 1992, Pub. L. 102–486, title XIX, §1913(a)(2), 106 Stat. 3019; Aug. 10, 1993, Pub. L. 103–66, title XIII, §13213(c)(1), 107 Stat. 474; Aug. 20, 1996, Pub. L. 104–188, title I, §1401(b)(4), 110 Stat. 1788; Aug. 21, 1996, Pub. L. 104–191, title III, §301(b), 110 Stat. 2048.)
+
+#### Amendment of Subsection (a)
+
+<i>Pub. L. 104–188, title I, §1401(b)(4), (c), Aug. 20, 1996, 110 Stat. 1788, 1789, provided that, applicable to taxable years beginning after Dec. 31, 1999, with retention of certain transition rules, subsection (a) of this section is amended by striking par. (8).</i>
 
 #### Amendments
+
+1996—Subsec. (a)(16). Pub. L. 104–191 added par. (16).
 
 1993—Subsec. (a)(15). Pub. L. 103–66 added par. (15).
 
@@ -194,6 +204,12 @@ Par. (11). Pub. L. 93–483 added par. (11) relating to penalties forfeited beca
 
 1962—Par. (7). Pub. L. 87–792 added par. (7).
 
+#### Effective Date of 1996 Amendments
+
+Section 301(j) of Pub. L. 104–191 provided that: “The amendments made by this section \[enacting sections 220 and 4980E of this title, amending this section and sections 106, 125, 848, 3231, 3306, 3401, 4973, 4975, 6051, and 6693 of this title, and renumbering section 220 of this title as section 221\] shall apply to taxable years beginning after December 31, 1996.”
+
+Amendment by Pub. L. 104–188 applicable to taxable years beginning after Dec. 31, 1999, with retention of certain transition rules, see section 1401(c) of Pub. L. 104–188, set out as a note under section 402 of this title.
+
 #### Effective Date of 1993 Amendment
 
 Section 13213(e) of Pub. L. 103–66 provided that: “The amendments made by this section \[amending this section and sections 67, 82, 132, 217, 1001, 1016, and 4977 of this title\] shall apply to expenses incurred after December 31, 1993; except that the amendments made by subsection (d) \[amending sections 82, 132, and 4977 of this title\] shall apply to reimbursements or other payments in respect of expenses incurred after such date.”
@@ -222,7 +238,7 @@ Section 1875(c)(12) of Pub. L. 99–514 provided that: “The amendments made by
 
 #### Effective Date of 1984 Amendment
 
-“Section 491(f)(1) of Pub. L. 98–369 provided that: “The amendments and repeals made by subsections (a), (b), and (d) \[amending this section, sections 55, 72, 172, 219, 402, 403, 406, 407, 408, 412, 414, 415, 457, 2039, 2517, 3121, 3306, 3401, 4972, 4973, 4975, 6047, 6058, 6104, 6652, 7207, 7476, and 7701 of this title, section 3107 of Title 31, Money and Finance, and section 409 of Title 42, The Public Healthand Welfare, and repealing sections 405 and 409 of this title\] shall apply to obligations issued after December 31, 1983.”
+“Section 491(f)(1) of Pub. L. 98–369 provided that: “The amendments and repeals made by subsections (a), (b), and (d) \[amending this section, sections 55, 72, 172, 219, 402, 403, 406, 407, 408, 412, 414, 415, 457, 2039, 2517, 3121, 3306, 3401, 4972, 4973, 4975, 6047, 6058, 6104, 6652, 7207, 7476, and 7701 of this title, section 3107 of Title 31, Money and Finance, and section 409 of Title 42, The Public Health and Welfare, and repealing sections 405 and 409 of this title\] shall apply to obligations issued after December 31, 1983.”
 
 #### Effective Date of 1983 Amendment
 
@@ -275,6 +291,10 @@ Amendment by Pub. L. 87–792 applicable to taxable years beginning after Dec. 3
 #### Savings Provision
 
 For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 29 of this title.
+
+#### Plan Amendments Not Required Until January 1, 1998
+
+For provisions directing that if any amendments made by subtitle D \[§§1401–1465\] of title I of Pub. L. 104–188 require an amendment to any plan or annuity contract, such amendment shall not be required to be made before the first day of the first plan year beginning on or after Jan. 1, 1998, see section 1465 of Pub. L. 104–188, set out as a note under section 401 of this title.
 
 #### Plan Amendments Not Required Until January 1, 1994
 

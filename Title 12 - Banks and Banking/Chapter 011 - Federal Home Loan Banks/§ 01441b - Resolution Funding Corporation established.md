@@ -16,7 +16,7 @@ There is established a corporation to be known as the Resolution Funding Corpora
 
 &emsp;&emsp;(A) The director of the Office of Finance of the Federal Home Loan Banks (or the head of any successor office).
 
-&emsp;&emsp;(B) 2 members selected by the Thrift Depositor Protection Oversight Board fromamong the presidents of the Federal Home Loan Banks.
+&emsp;&emsp;(B) 2 members selected by the Thrift Depositor Protection Oversight Board from among the presidents of the Federal Home Loan Banks.
 
 #### (2) Terms
 
@@ -58,7 +58,7 @@ There is established a corporation to be known as the Resolution Funding Corpora
 
 &emsp;&emsp;The amount each Federal Home Loan Bank shall pay under subparagraph (A) shall be determined by the Thrift Depositor Protection Oversight Board by multiplying the total administrative expenses for any period by the percentage arrived at by dividing—
 
-&emsp;&emsp;&emsp;(i) the aggregate amount the Thrift Depositor Protection Oversight Board required such bank to invest in the Funding Corporation (as of the time of such determination) under paragraphs (4) and (5) of subsection (e) of this section (computed without regard to paragraphs (3) or (6) of such subsection); by
+&emsp;&emsp;&emsp;(i) the aggregate amount the Thrift Depositor Protection Oversight Board required such bank to invest in the Funding Corporation (as of the time of such determination) under paragraphs (4) and (5) ofsubsection (e) of this section (computed without regard to paragraphs (3) or (6) of such subsection); by
 
 &emsp;&emsp;&emsp;(ii) the aggregate amount the Thrift Depositor Protection Oversight Board required all Federal Home Loan Banks to invest (as of the time of such determination) under such paragraphs.
 
@@ -116,7 +116,7 @@ The Funding Corporation shall have only the powers described in paragraphs (1) t
 
 #### (A) Amount required
 
-&emsp;&emsp;The Thrift Depositor Protection Oversight Board shall ensure that the aggregate of theamounts obtained under this subsection shall be sufficient so that—
+&emsp;&emsp;The Thrift Depositor Protection Oversight Board shall ensure that the aggregate of the amounts obtained under this subsection shall be sufficient so that—
 
 &emsp;&emsp;&emsp;(i) the Funding Corporation may transfer the amounts required under paragraph (8); and
 
@@ -224,7 +224,7 @@ The Funding Corporation shall have only the powers described in paragraphs (1) t
 
 #### (5) Pro rata distribution of amounts required to be invested in excess of $1,000,000,000
 
-&emsp;Of any amount which the Thrift Depositor Protection Oversight Board may require the Federal Home Loan Banks to invest in capital stock of the Funding Corporation under this subsection in excess of the $1,000,000,000 amount referred to in paragraph (4), theamount which each Federal Home Loan Bank (or any successor to such Bank) shall invest shall be determined by the Thrift Depositor Protection Oversight Board by multiplying the excess amount by the percentage arrived at by dividing—
+&emsp;Of any amount which the Thrift Depositor Protection Oversight Board may require the Federal Home Loan Banks to invest in capital stock of the Funding Corporation under this subsection in excess of the $1,000,000,000 amount referred to in paragraph (4), the amount which each Federal Home Loan Bank (or any successor to such Bank) shall invest shall be determined by the Thrift Depositor Protection Oversight Board by multiplying the excess amount by the percentage arrived at by dividing—
 
 &emsp;&emsp;(A) the sum of the total assets (as of the most recent December 31) held by all Savings Association Insurance Fund members which are members of such Bank; by
 
@@ -248,7 +248,7 @@ The Funding Corporation shall have only the powers described in paragraphs (1) t
 
 &emsp;&emsp;&emsp;The amount of stock each remaining Federal Home Loan Bank shall be required to purchase under subparagraph (A)(i) is the amount determined by the Thrift Depositor Protection Oversight Board by multiplying the excess amount by the percentage arrived at by dividing—
 
-&emsp;&emsp;&emsp;&emsp;(I) the cumulative amount of stock in the Funding Corporation purchased under this subsection by such remaining Bank at the time of such determination; by
+&emsp;&emsp;&emsp;&emsp;(I) the cumulative amount of stock in the Funding Corporation purchasedunder this subsection by such remaining Bank at the time of such determination; by
 
 &emsp;&emsp;&emsp;&emsp;(II) the aggregate of the cumulative amounts invested under this subsection by all remaining Banks at such time.
 
@@ -346,7 +346,7 @@ The Funding Corporation shall have only the powers described in paragraphs (1) t
 
 #### (D) Proceeds from sale of assets
 
-&emsp;&emsp;To the extent the amounts available pursuant to subparagraphs (A), (B), and (C) are insufficient to cover the amount of interest payments, the FSLIC Resolution Fund shalltransfer to the Funding Corporation any net proceeds from the sale of assets received from the Resolution Trust Corporation, which shall be used by the Funding Corporation to pay such interest.
+&emsp;&emsp;To the extent the amounts available pursuant to subparagraphs (A), (B), and (C) are insufficient to cover the amount of interest payments, the FSLIC Resolution Fund shall transfer to the Funding Corporation any net proceeds from the sale of assets received from the Resolution Trust Corporation, which shall be used by the Funding Corporation to pay such interest.
 
 #### (E) Treasury backup
 
@@ -450,7 +450,7 @@ The Funding Corporation shall have only the powers described in paragraphs (1) t
 
 #### (B) Removal
 
-&emsp;&emsp;The Funding Corporation may, without bond or security, remove any such action, suit, or proceeding from a State court to the United States District Court for the District of Columbia.
+&emsp;&emsp;The Funding Corporation may, without bond or security, remove any such action,suit, or proceeding from a State court to the United States District Court for the District of Columbia.
 
 #### (i) Annual report
 
@@ -498,7 +498,7 @@ For purposes of this section:
 
 &emsp;The term “custodian fee” means—
 
-&emsp;&emsp;(A) any fee incurred by the Funding Corporation in connection with the transfer ofany security to, or the maintenance of any security in, the segregated account established under subsection (g) of this section; and
+&emsp;&emsp;(A) any fee incurred by the Funding Corporation in connection with the transfer of any security to, or the maintenance of any security in, the segregated account established under subsection (g) of this section; and
 
 &emsp;&emsp;(B) any other expense incurred by the Funding Corporation in connection with the establishment or maintenance of such account.
 
@@ -556,7 +556,31 @@ For purposes of this section:
 
 The Thrift Depositor Protection Oversight Board may prescribe any regulations necessary to carry out this section.
 
-(July 22, 1932, ch. 522, §21B, as added Aug. 9, 1989, Pub. L. 101–73, title V, §511(a), 103 Stat. 394; amended Dec. 12, 1991, Pub. L. 102–233, title III, §302(b), 105 Stat. 1767; Oct. 28, 1992, Pub. L. 102–550, title XVI, §1613(a)(7), (9), 106 Stat. 4092.)
+(July 22, 1932, ch. 522, §21B, as added Aug. 9, 1989, Pub. L. 101–73, title V, §511(a), 103 Stat. 394; amended Dec. 12, 1991, Pub. L. 102–233, title III, §302(b), 105 Stat. 1767; Oct. 28, 1992, Pub. L. 102–550, title XVI, §1613(a)(7), (9), 106 Stat. 4092; Sept. 30, 1996, Pub. L. 104–208, div. A, title II, §2704(d)(5), (11)(E), (F), 110 Stat. 3009–488, 3009–489.)
+
+#### Amendment of Section
+
+<i>Pub. L. 104–208, div. A, title II, §2704(c), (d)(5), (11)(E), (F), Sept. 30, 1996, 110 Stat. 3009–487 to 3009–489, provided that, effective Jan. 1, 1999, if no insured depository institution is a savings association on that date, this section is amended as follows:</i>
+
+<i>(1) In subsection (e)—</i>
+
+<i>(A) in paragraph (5), by inserting “as of the date of funding” after “Savings Association Insurance Fund members” each place such term appears;</i>
+
+<i>(B) by striking paragraph (7); and</i>
+
+<i>(C) by redesignating paragraph (8) as paragraph (7);</i>
+
+<i>(2) In subsection (f)(2)(C)(ii)—</i>
+
+<i>(A) in subclause (I), by striking “to Savings Associations Insurance Fund members” and inserting “to insured depository institutions, and their successors, which were Savings Association Insurance Fund members on September 1, 1995”; and</i>
+
+<i>(B) in subclause (II), by striking “to Savings Associations Insurance Fund members” and inserting “to insured depository institutions, and their successors, which were Savings Association Insurance Fund members on September 1, 1995”; and</i>
+
+<i>(3) In subsection (k)—</i>
+
+<i>(i) by striking paragraph (8); and</i>
+
+<i>(ii) by redesignating paragraphs (9) and (10) as paragraphs (8) and (9), respectively.</i>
 
 #### References in Text
 
@@ -571,6 +595,10 @@ Section 9105 of title 31, referred to in subsec. (h)(3), was amended generally b
 Subsec. (k)(7). Pub. L. 102–550, §1613(a)(9), substituted “Thrift Depositor Protection Oversight” for “Oversight” in heading.
 
 1991—Pub. L. 102–233 substituted “Thrift Depositor Protection Oversight Board” for “Oversight Board” wherever appearing in text.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–208 effective Jan. 1, 1999, if no insured depository institution is a savings association on that date, see section 2704(c) of Pub. L. 104–208, set out as a note under section 1821 of this title.
 
 #### Effective Date of 1992 Amendment
 

@@ -42,7 +42,7 @@
 
 1993—Subsec. (b)(2)(A), (B). Pub. L. 103–199, §302(6)(A), substituted “studies on the countries of Eastern Europe and the independent states of the former Soviet Union” for “Soviet and Eastern European studies”.
 
-Subsec. (b)(3)(A). Pub. L. 103–199, §302(6)(B), (C), substituted “independent states of the former SovietUnion and the countries of Eastern Europe and related fields” for “fields of Soviet and Eastern European studies and related studies” and “those states and countries” for “the Soviet Union and Eastern European countries”.
+Subsec. (b)(3)(A). Pub. L. 103–199, §302(6)(B), (C), substituted “independent states of the former Soviet Union and the countries of Eastern Europe and related fields” for “fields of Soviet and Eastern European studies and related studies” and “those states and countries” for “the Soviet Union and Eastern European countries”.
 
 Subsec. (b)(3)(B). Pub. L. 103–199, §302(6)(B), which directed the substitution of “independent states of the former Soviet Union and the countries of Eastern Europe and related fields” for “fields of Soviet and Eastern European studies and related studies”, was executed by making the substitution for “fields of Soviet and East European studies and related studies”, to reflect the probable intent of Congress.
 

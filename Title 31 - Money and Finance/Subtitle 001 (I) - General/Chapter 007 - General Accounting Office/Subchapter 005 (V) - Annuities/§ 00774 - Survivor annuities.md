@@ -64,7 +64,7 @@ Historical and Revision Notes
 
 774(a)
 
-31:43b(<i>o).</i>
+31:43b(<i>o</i>).
 
 June 10, 1921, ch. 18, 42 Stat. 20, §319(d), (<i>o</i>); added July 13, 1959, Pub. L. 86–87, 73 Stat. 197, 200.
 

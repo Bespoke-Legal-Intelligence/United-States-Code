@@ -140,7 +140,7 @@ Section 1072(b) of Pub. L. 98–369 provided that: “The Secretary of the Treas
 
 #### Modification of Tips Allocation Method
 
-Pub. L. 99–514, title XV, §1571, Oct. 22, 1986, 100 Stat. 2765, provided that: “Effective for any payroll periodbeginning after December 31, 1986, an establishment may utilize the optional method of tips allocation described in the last sentence of section 31.6053–3(f)(1)(iv) of the Internal Revenue Regulations only if such establishment employs less than the equivalent of 25 full-time employees during such payroll period.”
+Pub. L. 99–514, title XV, §1571, Oct. 22, 1986, 100 Stat. 2765, provided that: “Effective for any payroll period beginning after December 31, 1986, an establishment may utilize the optional method of tips allocation described in the last sentence of section 31.6053–3(f)(1)(iv) of the Internal Revenue Regulations only if such establishment employs less than the equivalent of 25 full-time employees during such payroll period.”
 
 #### Study of Tip Compliance
 
@@ -148,5 +148,5 @@ Section 314(c) of Pub. L. 97–248 directed Secretary of the Treasury or his del
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 451, 3306, 3102, 3121, 3202, 3231, 3401, 3402, 6001, 6041, 6041A, 6051, 6652, 6674, 6678, 6724 of this title; title 42 section 409; title 45 section 231.
+This section is referred to in sections 45B, 451, 3306, 3102, 3121, 3202, 3231, 3401, 3402, 6001, 6041, 6041A, 6051, 6652, 6674, 6678, 6724 of this title; title 42 section 409; title 45 section 231.
 

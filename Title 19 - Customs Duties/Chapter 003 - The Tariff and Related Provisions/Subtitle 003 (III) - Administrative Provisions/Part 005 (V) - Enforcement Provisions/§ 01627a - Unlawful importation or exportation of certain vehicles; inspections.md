@@ -10,7 +10,7 @@
 
 > shall be subject to a civil penalty in an amount determined by the Secretary, not to exceed $10,000 for each violation.
 
-(2) Any violation of this subsection shall make such self-propelled vehicle, vessel, aircraft, or part thereof subject to seizure and forfeiture under this chapter.
+(2) Any violation of this subsection shall make such self-propelled vehicle, vessel, aircraft, orpart thereof subject to seizure and forfeiture under this chapter.
 
 #### (b) Regulations; violations; penalties
 
@@ -36,7 +36,7 @@ Customs officers may cooperate and exchange information concerning motor vehicle
 
 #### Codification
 
-In subsec. (c)(2), “section 40102(a)(6) of title 49” substituted for “section 101(5) of the Federal Aviation Actof 1958 (49 U.S.C. 1301(5))” on authority of Pub. L. 103–272, §6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
+In subsec. (c)(2), “section 40102(a)(6) of title 49” substituted for “section 101(5) of the Federal Aviation Act of 1958 (49 U.S.C. 1301(5))” on authority of Pub. L. 103–272, §6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
 
 Another section 627 of act June 17, 1930, as added by Pub. L. 98–547, title III, §302, Oct. 25, 1984, 98 Stat. 2771, was classified to section 1627 of this title and subsequently repealed.
 

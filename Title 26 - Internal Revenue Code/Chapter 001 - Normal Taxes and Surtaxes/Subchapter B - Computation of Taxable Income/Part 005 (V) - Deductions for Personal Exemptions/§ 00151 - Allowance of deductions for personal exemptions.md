@@ -86,9 +86,9 @@ For purposes of this section—
 
 &emsp;&emsp;For purposes of this paragraph, the term “threshold amount” means—
 
-&emsp;&emsp;&emsp;(i) $150,000 in the case of a joint of a <sup>1</sup> return or a surviving spouse (as defined in section 2(a)),
+&emsp;&emsp;&emsp;(i) $150,000 in the case of a joint return or a surviving spouse (as defined in section 2(a)),
 
-&emsp;&emsp;&emsp;(ii) $125,000 in the case of a head of a household (as defined in section 2(b),<sup>2</sup>
+&emsp;&emsp;&emsp;(ii) $125,000 in the case of a head of a household (as defined in section 2(b),<sup>1</sup>
 
 &emsp;&emsp;&emsp;(iii) $100,000 in the case of an individual who is not married and who is not a surviving spouse or head of a household, and
 
@@ -118,13 +118,21 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, by substituting “calendar year 1990” for “calendar year 1992” in subparagraph (B) thereof.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 42; Dec. 30, 1969, Pub. L. 91–172, title VIII, §801(a)(1), (b)(1), (c)(1), (d)(1), title IX, §941(b), 83 Stat. 675, 676, 726; Dec. 10, 1971, Pub. L. 92–178, title II, §201(a)(1), (b)(1), (c), 85 Stat. 510, 511; Oct. 4, 1976, Pub. L. 94–455, title XIX, §1901(a)(23), 90 Stat. 1767; Nov. 6, 1978, Pub. L. 95–600, title I, §102(a), 92 Stat. 2771; Aug. 13, 1981, Pub. L. 97–34, title I, §104(c), 95 Stat. 189; July 18, 1984, Pub. L. 98–369, div. A, title IV, §426(a), 98 Stat. 804; Oct. 22, 1986, Pub. L. 99–514, title I, §103, title XVIII, §1847(b)(3), 100 Stat. 2102, 2856; Nov. 10, 1988, Pub. L. 100–647, title VI, §6010(a), 102 Stat. 3691; Nov. 5, 1990, Pub. L. 101–508, title XI, §§11101(d)(1)(F), 11104(a), 104 Stat. 1388–405, 1388–407; July 3, 1992, Pub. L. 102–318, title V, §511, 106 Stat. 300; Aug. 10, 1993, Pub. L. 103–66, title XIII, §§13201(b)(3)(G), 13205, 107 Stat. 459, 462.)
+#### (e) Identifying information required
 
-#### Personal Exemption Adjustment for Tax Years Beginning in 1996
+No exemption shall be allowed under this section with respect to any individual unless the TIN of such individual is included on the return claiming the exemption.
 
-<i>For adjustment of personal exemption under subsection (d) of this section for tax years beginning in 1996, see section 3.08 of Revenue Procedure 95–53, set out as a note under section 1 of this title.</i>
+(Aug. 16, 1954, ch. 736, 68A Stat. 42; Dec. 30, 1969, Pub. L. 91–172, title VIII, §801(a)(1), (b)(1), (c)(1), (d)(1), title IX, §941(b), 83 Stat. 675, 676, 726; Dec. 10, 1971, Pub. L. 92–178, title II, §201(a)(1), (b)(1), (c), 85 Stat. 510, 511; Oct. 4, 1976, Pub. L. 94–455, title XIX, §1901(a)(23), 90 Stat. 1767; Nov. 6, 1978, Pub. L. 95–600, title I, §102(a), 92 Stat. 2771; Aug. 13, 1981, Pub. L. 97–34, title I, §104(c), 95 Stat. 189; July 18, 1984, Pub. L. 98–369, div. A, title IV, §426(a), 98 Stat. 804; Oct. 22, 1986, Pub. L. 99–514, title I, §103, title XVIII, §1847(b)(3), 100 Stat. 2102, 2856; Nov. 10, 1988, Pub. L. 100–647, title VI, §6010(a), 102 Stat. 3691; Nov. 5, 1990, Pub. L. 101–508, title XI, §§11101(d)(1)(F), 11104(a), 104 Stat. 1388–405, 1388–407; July 3, 1992, Pub. L. 102–318, title V, §511, 106 Stat. 300; Aug. 10, 1993, Pub. L. 103–66, title XIII, §§13201(b)(3)(G), 13205, 107 Stat. 459, 462; Aug. 20, 1996, Pub. L. 104–188, title I, §§1615(a)(1), 1702(a)(2), 110 Stat. 1853, 1868.)
+
+#### Personal Exemption Adjustment for Tax Years Beginning in 1997
+
+<i>For adjustment of personal exemption under subsection (d) of this section for tax years beginning in 1997, see section 3.09 of Revenue Procedure 96–59, set out as a note under section 1 of this title.</i>
 
 #### Amendments
+
+1996—Subsec. (d)(3)(C)(i). Pub. L. 104–188, §1702(a)(2), substituted “joint return” for “joint of a return”.
+
+Subsec. (e). Pub. L. 104–188, §1615(a)(1), added subsec. (e).
 
 1993—Subsec. (d)(3)(E). Pub. L. 103–66, §13205, struck out heading and text of subpar. (E). Text read as follows: “This paragraph shall not apply to any taxable year beginning after December 31, 1996.”
 
@@ -188,6 +196,12 @@ Subsec. (f). Pub. L. 97–34, §104(c)(2), added subsec. (f).
 
 Subsecs. (b), (c), Pub. L. 91–172, §941(b), substituted “if a joint return is not made by the taxpayer and his spouse” for “if a separate return is made by the taxpayer”.
 
+#### Effective Date of 1996 Amendment
+
+Amendment by section 1615(a)(1) of Pub. L. 104–188 applicable with respect to returns the due date for which, without regard to extensions, is on or after the 30th day after Aug. 20, 1996, with special rule for 1995 and 1996, see section 1615(d) of Pub. L. 104–188, set out as a note under section 21 of this title.
+
+Amendment by section 1702(a)(2) of Pub. L. 104–188 effective, except as otherwise expressly provided, as if included in the provision of the Revenue Reconciliation Act of 1990, Pub. L. 101–508, title XI, to which such amendment relates, see section 1702(i) of Pub. L. 104–188, set out as a note under section 38 of this title.
+
 #### Effective Date of 1993 Amendment
 
 Amendment by section 13201(b)(3)(G) of Pub. L. 103–66 applicable to taxable years beginning after Dec. 31, 1992, see section 13201(c) of Pub. L. 103–66, set out as a note under section 1 of this title.
@@ -242,7 +256,7 @@ Section 801(c)(1), (d)(1) of Pub. L. 91–172 provided for an increase in the pe
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before thefirst plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
 #### Cross References
 
@@ -258,9 +272,7 @@ Partnership not entitled to personal exemptions under this section, see section 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1, 2, 21, 32, 56, 63, 129, 132, 135, 152, 153, 172, 443, 642, 703, 873, 874, 891, 904, 931, 933, 1212, 1402, 2032A, 3402, 6012, 6013, 6109, 6334, 7703 of this title.
+This section is referred to in sections 1, 2, 21, 32, 56, 63, 129, 132, 135, 152, 153, 172, 220, 443, 642, 703, 873, 874, 891, 904, 931, 933, 1212, 1402, 2032A, 3402, 6012, 6013, 6213, 6334, 7703 of this title.
 
-<i><sup>1</sup></i><i> So in original. Words “of a” probably should not appear.</i>
-
-<i><sup>2</sup></i><i> So in original. A closing parenthesis probably should precede the comma.</i>
+<i><sup>1</sup></i><i> So in original. A closing parenthesis probably should precede the comma.</i>
 

@@ -6,7 +6,9 @@ The Secretary of Transportation shall inspect the construction, adaptability, de
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -24,7 +26,7 @@ Mar. 4, 1909, ch. 299, §1 (6th par. last sentence under heading “Interstate C
 
 &nbsp;
 
-49 App.:1655(e) (1)(I), (J).
+49 App.:1655(e)(1)(I), (J).
 
 Oct. 15, 1966, Pub. L. 89–670, §6(e)(1)(I), (J), 80 Stat. 939.
 

@@ -16,7 +16,7 @@ The Secretary of the Treasury shall instruct the United States Executive Directo
 
 #### (b) <sup>1</sup> “Multilateral development bank” defined
 
-As used in this section, the term “multilateral development bank” includes the InternationalBank for Reconstruction and Development, the International Development Association, the International Finance Corporation, the Inter-American Development Bank, the InterAmerican Investment Corporation, the Asian Development Bank, the African Development Bank, and the African Development Fund.
+As used in this section, the term “multilateral development bank” includes the International Bank for Reconstruction and Development, the International Development Association, the International Finance Corporation, the Inter-American Development Bank, the InterAmerican Investment Corporation, the Asian Development Bank, the African Development Bank, and the African Development Fund.
 
 (Pub. L. 95–118, title XVIII, §1801, formerly Pub. L. 100–418, title III, §3202, Aug. 23, 1988, 102 Stat. 1382; renumbered §1801 of Pub. L. 95–118, Pub. L. 101–240, title V, §541(b)(1), Dec. 19, 1989, 103 Stat. 2517.)
 

@@ -168,7 +168,7 @@
 
 #### (II) Limitation on annual adjustments
 
-&emsp;&emsp;&emsp;&emsp;The adjustments under subclause (I) for a year may not cause the amount of expenditures under this part for the year to differ by more than $20,000,000 from the amount of expenditures under this part that would have been made if such adjustments had not been made.
+&emsp;&emsp;&emsp;&emsp;The adjustments under subclause (I) for a year may not cause the amount ofexpenditures under this part for the year to differ by more than $20,000,000 from the amount of expenditures under this part that would have been made if such adjustments had not been made.
 
 #### (iii) Consultation
 
@@ -238,7 +238,7 @@
 
 &emsp;&emsp;&emsp;(i) shall reduce the relative values for all services (other than anesthesia services) established under this paragraph (and, in the case of anesthesia services, the conversion factor established by the Secretary for such services) by such percentage as the Secretary determines to be necessary so that, beginning in 1996, the amendment made by section 13514(a) of the Omnibus Budget Reconciliation Act of 1993 would not result in expenditures under this section that exceed the amount of such expenditures that would have been made if such amendment had not been made, and
 
-&emsp;&emsp;&emsp;(ii) shall reduce the amounts determined under subsection (a)(2)(B)(ii)(I) of this section by such percentage as the Secretary determines to be required to assure that, taking into account the reductions madeunder clause (i), the amendment made by section 13514(a) of the Omnibus Budget Reconciliation Act of 1993 would not result in expenditures under this section in 1994 that exceed the amount of such expenditures that would have been made if such amendment had not been made.
+&emsp;&emsp;&emsp;(ii) shall reduce the amounts determined under subsection (a)(2)(B)(ii)(I) of this section by such percentage as the Secretary determines to be required to assure that, taking into account the reductions made under clause (i), the amendment made by section 13514(a) of the Omnibus Budget Reconciliation Act of 1993 would not result in expenditures under this section in 1994 that exceed the amount of such expenditures that would have been made if such amendment had not been made.
 
 #### (3) Component percentages
 
@@ -250,7 +250,7 @@
 
 #### (B) Division of specialty by component
 
-&emsp;&emsp;The Secretary shall determine the average percentage division of resources, among the work component, the practice expense component, and the malpractice component, used by physicians in each of such specialties in furnishing physicians’ services. Such percentages shall be based on national data that describe the elements of physician practice costs and revenues, by physician specialty. The Secretary may use extrapolation and other techniques to determine practice costs and revenues for specialties for which adequate data are not available.
+&emsp;&emsp;The Secretary shall determine the average percentage division of resources, among thework component, the practice expense component, and the malpractice component, used by physicians in each of such specialties in furnishing physicians’ services. Such percentages shall be based on national data that describe the elements of physician practice costs and revenues, by physician specialty. The Secretary may use extrapolation and other techniques to determine practice costs and revenues for specialties for which adequate data are not available.
 
 #### (C) Determination of component percentages
 
@@ -396,7 +396,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) for services for which prevailing charges in 1989 were subject to a limit under the fourth sentence of section 1395u(b)(3) of this title, the medicare economic index (referred to in that sentence), and
 
-&emsp;&emsp;&emsp;&emsp;(II) for other services, such index (such as the consumer price index) that was applicable under this part in 1989 to increases in the payment amounts recognized under this part with respect to such services.
+&emsp;&emsp;&emsp;&emsp;(II) for other services, such index (such as the consumer price index) that wasapplicable under this part in 1989 to increases in the payment amounts recognized under this part with respect to such services.
 
 #### (iii) Adjustment in percentage increase
 
@@ -458,7 +458,7 @@
 
 #### (D) Use of recent data
 
-&emsp;&emsp;In establishing indices and index values under this paragraph, the Secretary shalluse the most recent data available relating to practice expenses, malpractice expenses, and physician work effort in different fee schedule areas.
+&emsp;&emsp;In establishing indices and index values under this paragraph, the Secretary shall use the most recent data available relating to practice expenses, malpractice expenses, and physician work effort in different fee schedule areas.
 
 #### (2) Computation of geographic adjustment factor
 
@@ -528,7 +528,7 @@
 
 &emsp;&emsp;&emsp;(iii) the Secretary's estimate of the average annual percentage growth in volume and intensity of physicians’ services under this part for the 5-fiscal-year period ending with fiscal year 1989 (based upon information contained in the most recent annual report made pursuant to section 1395t(b)(2) of this title), and
 
-&emsp;&emsp;&emsp;(iv) the Secretary's estimate of the percentage increase or decrease in expenditures for physicians’ services (as defined in subsection (f)(5)(A) of this section) in fiscal year 1990 (compared with fiscal year 1989)which will result from changes in law or regulations and which is not taken into account in the percentage increase described in clause (i),
+&emsp;&emsp;&emsp;(iv) the Secretary's estimate of the percentage increase or decrease in expenditures for physicians’ services (as defined in subsection (f)(5)(A) of this section) in fiscal year 1990 (compared with fiscal year 1989) which will result from changes in law or regulations and which is not taken into account in the percentage increase described in clause (i),
 
 > &emsp;&emsp;reduced by 1/2 percent.
 
@@ -602,7 +602,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;In the case of a nonparticipating physician or nonparticipating supplier or other person (as defined in section 1395u(i)(2) of this title) who does not accept payment on an assignment-related basis for a physician's service furnished with respect to an individual enrolled under this part, the following rules apply:
+&emsp;&emsp;In the case of a nonparticipating physician or nonparticipating supplier or other person (as defined in section 1395u(i)(2) of this title)who does not accept payment on an assignment-related basis for a physician's service furnished with respect to an individual enrolled under this part, the following rules apply:
 
 #### (i) Application of limiting charge
 
@@ -660,13 +660,13 @@
 
 #### (D) Recognized payment amount
 
-&emsp;&emsp;In this section, the term “recognized payment amount” means, for services furnishedon or after January 1, 1992, the fee schedule amount determined under subsection (a) of this section (or, if payment under this part is made on a basis other than the fee schedule under this section, 95 percent of the other payment basis), and, for services furnished during 1991, the applicable percentage (as defined in section 1395u(b)(4)(A)(iv) of this title) of the prevailing charge (or fee schedule amount) for nonparticipating physicians for that year.
+&emsp;&emsp;In this section, the term “recognized payment amount” means, for services furnished on or after January 1, 1992, the fee schedule amount determined under subsection (a) of this section (or, if payment under this part is made on a basis other than the fee schedule under this section, 95 percent of the other payment basis), and, for services furnished during 1991, the applicable percentage (as defined in section 1395u(b)(4)(A)(iv) of this title) of the prevailing charge (or fee schedule amount) for nonparticipating physicians for that year.
 
 #### (3) Limitation on charges for medicare beneficiaries eligible for medicaid benefits
 
 #### (A) In general
 
-&emsp;&emsp;Payment for physicians’ services furnished on or after April 1, 1990, to an individual who is enrolled under this part and eligible for any medical assistance (including as a qualified medicare beneficiary, as defined in section 1396d(p)(1) of this title) with respect to such services under a State plan approved under subchapter XIX of this chapter may only be made on an assignment-related basis.
+&emsp;&emsp;Payment for physicians’ services furnished on or after April 1, 1990, to an individual who is enrolled under this part and eligible for any medical assistance (including as a qualified medicare beneficiary, as defined in section 1396d(p)(1) of this title) with respect to such services under a State plan approvedunder subchapter XIX of this chapter may only be made on an assignment-related basis.
 
 #### (B) Penalty
 
@@ -792,7 +792,7 @@ In this section:
 
 #### (2) Fee schedule area
 
-&emsp;The term “fee schedule area” means a locality used under section 1395u(b) of this title forpurposes of computing payment amounts for physicians’ services.
+&emsp;The term “fee schedule area” means a locality used under section 1395u(b) of this title for purposes of computing payment amounts for physicians’ services.
 
 #### (3) Physicians’ services
 
@@ -802,7 +802,7 @@ In this section:
 
 &emsp;The term “practice expenses” includes all expenses for furnishing physicians’ services, excluding malpractice expenses, physician compensation, and other physician fringe benefits.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1848, as added Dec. 19, 1989, Pub. L. 101–239, title VI, §6102(a), 103 Stat. 2169; amended Nov. 5, 1990, Pub. L. 101–508, title IV, §§4102(b), (g)(2), 4104(b)(2), 4105(a)(3), (c), 4106(b)(1), 4107(a)(1), 4109(a), 4116, 4118(b)–(f)(1), (k), 104 Stat. 1388–56, 1388–57, 1388–59 to 1388–63, 1388–65, 1388–67, 1388–68, 1388–71; Aug. 10, 1993, Pub. L. 103–66, title XIII, §§13511(a), 13512–13514(c), 13515(a)(1), (c), 13516(a)(1), 13517(a), 13518(a), 107 Stat. 580–583, 585, 586; Oct. 31, 1994, Pub. L. 103–432, title I, §§121(b)(1), (2), 122(a), (b), 123(a), (d), 126(b)(6), (g)(2)(B), (5)–(7), (10)(A), 108 Stat. 4409, 4410, 4412, 4415, 4416.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1848, as added Dec. 19, 1989, Pub. L. 101–239, title VI, §6102(a),103 Stat. 2169; amended Nov. 5, 1990, Pub. L. 101–508, title IV, §§4102(b), (g)(2), 4104(b)(2), 4105(a)(3), (c), 4106(b)(1), 4107(a)(1), 4109(a), 4116, 4118(b)–(f)(1), (k), 104 Stat. 1388–56, 1388–57, 1388–59 to 1388–63, 1388–65, 1388–67, 1388–68, 1388–71; Aug. 10, 1993, Pub. L. 103–66, title XIII, §§13511(a), 13512–13514(c), 13515(a)(1), (c), 13516(a)(1), 13517(a), 13518(a), 107 Stat. 580–583, 585, 586; Oct. 31, 1994, Pub. L. 103–432, title I, §§121(b)(1), (2), 122(a), (b), 123(a), (d), 126(b)(6), (g)(2)(B), (5)–(7), (10)(A), 108 Stat. 4409, 4410, 4412, 4415, 4416.)
 
 #### References in Text
 
@@ -854,7 +854,7 @@ Subsec. (a)(3). Pub. L. 103–66, §13517(a)(1), in heading inserted “and supp
 
 Subsec. (a)(4). Pub. L. 103–66, §13516(a)(1), added par. (4).
 
-Pub. L. 103–66, §13515(a)(1), struck out heading and text of par. (4). Text read as follows: “In the case of physicians’ services furnished by a physician before the end of the physician's first full calendar year of furnishing services for which payment may be made under this part, and during each of the 3 succeeding years, the fee schedule amount to be applied shall be 80 percent, 85 percent, 90 percent, and 95 percent, respectively, ofthe fee schedule amount applicable to physicians who are not subject to this paragraph. The preceding sentence shall not apply to primary care services or services furnished in a rural area (as defined in section 1395ww(d)(2) of this title) that is designated under section 249(a)(1)(A) of this title as a health manpower shortage area.”
+Pub. L. 103–66, §13515(a)(1), struck out heading and text of par. (4). Text read as follows: “In the case of physicians’ services furnished by a physician before the end of the physician's first full calendar year of furnishing services for which payment may be made under this part, and during each of the 3 succeeding years, the fee schedule amount to be applied shall be 80 percent, 85 percent, 90 percent, and 95 percent, respectively, of the fee schedule amount applicable to physicians who are not subject to this paragraph. The preceding sentence shall not apply to primary care services or services furnished in a rural area (as defined in section 1395ww(d)(2) of this title) that is designated under section 249(a)(1)(A) of this title as a health manpower shortage area.”
 
 Subsec. (b)(3). Pub. L. 103–66, §13514(a), amended heading and text of par. (3) generally. Prior to amendment, text read as follows: “If payment is made under this part for a visit to a physician or consultation with a physician and, as part of or in conjunction with the visit or consultation there is an electrocardiogram performed or ordered to be performed, no payment may be made under this part with respect to the interpretation of the electrocardiogram and no physician may bill an individual enrolled under this part separately for such an interpretation. If a physician knowingly and willfully bills one or more individuals in violation of the previous sentence, the Secretary may apply sanctions against the physician or entity in accordance with section 1395u(j)(2) of this title.”
 
@@ -1026,7 +1026,7 @@ Section 13518(c) of Pub. L. 103–66 provided that: “The amendment made by sub
 
 #### Effective Date of 1990 Amendment
 
-Amendment by section 4102(b), (g)(2) of Pub. L. 101–508 applicable to services furnished on or after Jan.1, 1991, see section 4102(i)(1) of Pub. L. 101–508, set out as a note under section 1395m of this title.
+Amendment by section 4102(b), (g)(2) of Pub. L. 101–508 applicable to services furnished on or after Jan. 1, 1991, see section 4102(i)(1) of Pub. L. 101–508, set out as a note under section 1395m of this title.
 
 Amendment by section 4104(b)(2) of Pub. L. 101–508 applicable to services furnished on or after Jan. 1, 1991, see section 4104(d) of Pub. L. 101–508, set out as a note under section 1395<i>l</i> of this title.
 
@@ -1088,13 +1088,13 @@ Section 4104(c) of Pub. L. 101–508 provided: “The Secretary of Health and Hu
 
 #### Computation of Conversion Factor for 1992
 
-Section 4105(b)(2) of Pub. L. 101–508, as amended by Pub. L. 103–432, title I, §126(g)(2)(A)(i), Oct. 31, 1994, 108 Stat. 4415, provided that: “In computing the conversion factor under section 1848(d)(1)(B) of the Social Security Act for 1992 \[subsec. (d)(1)(B) of this section\], the Secretary of Health and Human Services shall determinethe estimated aggregate amount of payments under part B of title XVIII of such Act \[this part\] for physicians’ services in 1991 assuming that the amendment made by this subsection \[amending section 1395u of this title\] did not apply.”
+Section 4105(b)(2) of Pub. L. 101–508, as amended by Pub. L. 103–432, title I, §126(g)(2)(A)(i), Oct. 31, 1994, 108 Stat. 4415, provided that: “In computing the conversion factor under section 1848(d)(1)(B) of the Social Security Act for 1992 \[subsec. (d)(1)(B) of this section\], the Secretary of Health and Human Services shall determine the estimated aggregate amount of payments under part B of title XVIII of such Act \[this part\] for physicians’ services in 1991 assuming that the amendment made by this subsection \[amending section 1395u of this title\] did not apply.”
 
 Section 4106(c) of Pub. L. 101–508, as amended by Pub. L. 103–432, title I, §126(g)(3), Oct. 31, 1994, 108 Stat. 4416, provided that: “In computing the conversion factor under section 1848(d)(1)(B) of the Social Security Act \[subsec. (d)(1)(B) of this section\] for 1992, the Secretary of Health and Human Services shall determine the estimated aggregate amount of payments under part B \[this part\] for physicians’ services in 1991 assuming that the amendments made by this section \[amending this section, section 1395u of this title, and provisions set out as a note under section 1395u of this title\] (notwithstanding subsection (d) \[set out as an Effective Date of 1990 Amendment note under section 1395u of this title\]) applied to all services furnished during such year.”
 
 #### Publication of Performance Standard Rates
 
-Section 4105(d) of Pub. L. 101–508, as amended by Pub. L. 103–432, title I, §126(g)(2)(C), Oct. 31, 1994, 108 Stat. 4416, provided that: “Not later than 45 days after the date of the enactment of this Act \[Nov. 5, 1990\], the Secretary of Health and Human Services, based on the most recent data available, shall estimate and publish in the Federal Register the performance standard rates of increase specified in section 1848(f)(2)(C) of the Social Security Act \[subsec. (f)(2)(C) of this section\] for fiscal year 1991.”
+Section 4105(d) of Pub. L. 101–508, as amended by Pub. L. 103–432, title I, §126(g)(2)(C), Oct. 31, 1994, 108 Stat. 4416, provided that: “Not later than 45 days after thedate of the enactment of this Act \[Nov. 5, 1990\], the Secretary of Health and Human Services, based on the most recent data available, shall estimate and publish in the Federal Register the performance standard rates of increase specified in section 1848(f)(2)(C) of the Social Security Act \[subsec. (f)(2)(C) of this section\] for fiscal year 1991.”
 
 #### Study of Regional Variations in Impact of Medicare Physician Payment Reform
 
@@ -1180,7 +1180,7 @@ Commission study of payment for practice expenses.—The Physician Payment Revie
 
 “(6)
 
-Commission study of geographic payment areas.—The Physician Payment Review Commission shall conduct a study of the feasibility and desirability of using Metropolitan Statistical Areas or other payment areas for purposes of payment for physicians’ services under part B of title XVIII of the Social Security Act \[this part\]. By not later than July 1, 1991, the Commission shall submit a report to Congress on such study and shall include in the report recommendations on the desirability of retaining current carrier-wide localities, changing to a system of statewide localities, or adopting Metropolitan Statistical Areas or other payment areas for purposes of payment under such part B.
+Commission study of geographic payment areas.—The Physician Payment Review Commission shall conduct a study of the feasibility and desirability of using Metropolitan Statistical Areas or other payment areas for purposes of payment for physicians’ services under part B of title XVIII of the Social Security Act \[this part\]. By not later than July 1, 1991, theCommission shall submit a report to Congress on such study and shall include in the report recommendations on the desirability of retaining current carrier-wide localities, changing to a system of statewide localities, or adopting Metropolitan Statistical Areas or other payment areas for purposes of payment under such part B.
 
 “(7)
 

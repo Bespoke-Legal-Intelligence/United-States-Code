@@ -22,15 +22,15 @@ The Secretary is authorized to abate the unpaid portion of the assessment of any
 
 In the case of an assessment of any tax imposed by chapter 1 attributable in whole or in part to a mathematical error described in section 6213(g)(2)(A), if the return was prepared by an officer or employee of the Internal Revenue Service acting in his official capacity to provide assistance to taxpayers in the preparation of income tax returns, the Secretary is authorized to abate the assessment of all or any part of any interest on such deficiency for any period ending on or before the 30th day following the date of notice and demand by the Secretary for payment of the deficiency.
 
-#### (e) Assessments of interest attributable to errors and delays by Internal Revenue Service
+#### (e) Abatement of interest attributable to unreasonable errors and delays by Internal Revenue Service
 
 #### (1) In general
 
 &emsp;In the case of any assessment of interest on—
 
-&emsp;&emsp;(A) any deficiency attributable in whole or in part to any error or delay by an officer or employee of the Internal Revenue Service (acting in his official capacity) in performing a ministerial act, or
+&emsp;&emsp;(A) any deficiency attributable in whole or in part to any unreasonable error or delay by an officer or employee of the Internal Revenue Service (acting in his official capacity) in performing a ministerial or managerial act, or
 
-&emsp;&emsp;(B) any payment of any tax described in section 6212(a) to the extent that any error or delay in such payment is attributable to such an officer or employee being erroneous or dilatory in performing a ministerial act,
+&emsp;&emsp;(B) any payment of any tax described in section 6212(a) to the extent that any unreasonable error or delay in such payment is attributable to such an officer or employee being erroneous or dilatory in performing a ministerial or managerial act,
 
 > &emsp;the Secretary may abate the assessment of all or any part of such interest for any period. For purposes of the preceding sentence, an error or delay shall be taken into account only if no significant aspect of such error or delay can be attributed to the taxpayer involved, and after the Internal Revenue Service has contacted the taxpayer in writing with respect to such deficiency or payment.
 
@@ -60,13 +60,41 @@ In the case of an assessment of any tax imposed by chapter 1 attributable in who
 
 &emsp;Within 180 days after the date of the enactment of this subsection, the Secretary shall prescribe such initial regulations as may be necessary to carry out this subsection.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 792; Oct. 4, 1976, Pub. L. 94–455, title XII, §1212(a), title XIX, §1906(b)(13)(A), 90 Stat. 1712, 1834; Dec. 24, 1980, Pub. L. 96–589, §6(b)(2), 94 Stat. 3407; Oct. 22, 1986, Pub. L. 99–514, title XV, §1563(a), 100 Stat. 2762; Nov. 10, 1988, Pub. L. 100–647, title I, §1015(n), title VI, §6229(a), 102 Stat. 3572, 3733.)
+#### (g) Review of denial of request for abatement of interest
+
+#### (1) In general
+
+&emsp;The Tax Court shall have jurisdiction over any action brought by a taxpayer who meets the requirements referred to in section 7430(c)(4)(A)(ii) to determine whether the Secretary's failure to abate interest under this section was an abuse of discretion, and may order an abatement, if such action is brought within 180 days after the date of the mailing of the Secretary's final determination not to abate such interest.
+
+#### (2) Special rules
+
+#### (A) Date of mailing
+
+&emsp;&emsp;Rules similar to the rules of section 6213 shall apply for purposes of determining the date of the mailing referred to in paragraph (1).
+
+#### (B) Relief
+
+&emsp;&emsp;Rules similar to the rules of section 6512(b) shall apply for purposes of this subsection.
+
+#### (C) Review
+
+&emsp;&emsp;An order of the Tax Court under this subsection shall be reviewable in the same manner as a decision of the Tax Court, but only with respect to the matters determined in such order.
+
+(Aug. 16, 1954, ch. 736, 68A Stat. 792; Oct. 4, 1976, Pub. L. 94–455, title XII, §1212(a), title XIX, §1906(b)(13)(A), 90 Stat. 1712, 1834; Dec. 24, 1980, Pub. L. 96–589, §6(b)(2), 94 Stat. 3407; Oct. 22, 1986, Pub. L. 99–514, title XV, §1563(a), 100 Stat. 2762; Nov. 10, 1988, Pub. L. 100–647, title I, §1015(n), title VI, §6229(a), 102 Stat. 3572, 3733; July 30, 1996, Pub. L. 104–168, title III, §§301(a), (b), 302(a), title VII, §701(c)(3), 110 Stat. 1457, 1464.)
 
 #### References in Text
 
 The date of the enactment of this subsection, referred to in subsec. (f)(3), is the date of enactment of Pub. L. 100–647, which was approved Nov. 10, 1988.
 
 #### Amendments
+
+1996—Subsec. (e). Pub. L. 104–168, §301(b), substituted “Abatement of interest attributable to unreasonable errors” for “Assessments of interest attributable to errors” in heading.
+
+Subsec. (e)(1)(A), (B). Pub. L. 104–168, §301(a), inserted “unreasonable” before “error” and substituted “in performing a ministerial or managerial act” for “in performing a ministerial act”.
+
+Subsec. (g). Pub. L. 104–168, §302(a), added subsec. (g).
+
+Subsec. (g)(1). Pub. L. 104–168, §701(c)(3), substituted “section 7430(c)(4)(A)(ii)” for “section 7430(c)(4)(A)(iii)”.
 
 1988—Subsec. (e)(1)(B). Pub. L. 100–647, §1015(n), inserted “error or” before “delay” and “erroneous or” before “dilatory”.
 
@@ -79,6 +107,14 @@ Subsec. (f). Pub. L. 100–647, §6229(a), added subsec. (f).
 1976—Subsecs. (a), (c). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary” wherever appearing.
 
 Subsec. (d). Pub. L. 94–455, §1212(a), added subsec. (d).
+
+#### Effective Date of 1996 Amendment
+
+Section 301(c) of Pub. L. 104–168 provided that: “The amendments made by this section \[amending this section\] shall apply to interest accruing with respect to deficiencies or payments for taxable years beginning after the date of the enactment of this Act \[July 30, 1996\].”
+
+Section 302(b) of Pub. L. 104–168 provided that: “The amendment made by this section \[amending this section\] shall apply to requests for abatement after the date of the enactment of this Act \[July 30, 1996\].”
+
+Section 701(d) of Pub. L. 104–168 provided that: “The amendments made by this section \[amending this section and sections 6656 and 7430 of this title\] shall apply in the case of proceedings commenced after the date of the enactment of this Act \[July 30, 1996\].”
 
 #### Effective Date of 1988 Amendment
 

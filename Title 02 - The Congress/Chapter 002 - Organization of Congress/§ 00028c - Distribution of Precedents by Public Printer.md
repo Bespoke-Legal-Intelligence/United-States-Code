@@ -1,8 +1,8 @@
 ### §28c. Distribution of Precedents by Public Printer
 
-#### (a) Delivery to Members of Ninety-fifth Congress;  marking of volumes
+#### (a) Delivery to Members of Ninety-fifth Congress; marking of volumes
 
-The Public Printer shall deliver one set of the Precedents to each Senator or Representative in, or Delegate or Resident Commissioner to, the Ninety-fifth Congress. The name of the Member to whom the set is delivered shall be legibly stamped on the front cover of each volume of the set.
+The Public Printer shall deliver one set of the Precedents to each Senator or Representativein, or Delegate or Resident Commissioner to, the Ninety-fifth Congress. The name of the Member to whom the set is delivered shall be legibly stamped on the front cover of each volume of the set.
 
 #### (b) Members of Congress following Ninety-fifth Congress not already having sets of Precedents; necessity of written request to Superintendent of Documents for set
 
@@ -14,13 +14,13 @@ The Public Printer shall make the following distribution of sets of the Preceden
 
 &emsp;(1) to the office of the Vice President, to the office of the speaker of the House of Representatives, and to the office of the President pro tempore of the Senate, each, five sets;
 
-&emsp;(2) to the office of the majority leader of the House of Representatives and to the office ofthe minority leader of the House of Representives,<sup>1</sup> each, three sets;
+&emsp;(2) to the office of the majority leader of the House of Representatives and to the office of the minority leader of the House of Representatives, each, three sets;
 
 &emsp;(3) to the Parliamentarian of the House of Representatives, sixty sets;
 
 &emsp;(4) to the Parliamentarian of the Senate, five sets;
 
-&emsp;(5) to the Clerk of the House of Representatives, to the Sergeant at Arms of the House of Representatives, and to the Doorkeeper of the House of Representatives, each, two sets;
+&emsp;(5) to the Clerk of the House of Representatives and to the Sergeant at Arms of the House of Representatives, each <sup>1</sup> two sets;
 
 &emsp;(6) to the Secretary of the Senate and to the Sergeant at Arms of the Senate, each, two sets;
 
@@ -40,15 +40,17 @@ The Public Printer shall make the following distribution of sets of the Preceden
 
 &emsp;(14) to the Superintendent of Documents, eight hundred and sixteen sets for distribution to the depository library system.
 
-(Pub. L. 94–551, §2, Oct. 18, 1976, 90 Stat. 2537.)
+(Pub. L. 94–551, §2, Oct. 18, 1976, 90 Stat. 2537; Pub. L. 104–186, title II, §202(3), Aug. 20, 1996, 110 Stat. 1724.)
 
-#### Abolition of Office of Doorkeeper
+#### Amendments
 
-Office of Doorkeeper of House of Representatives abolished by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+1996—Subsec. (c)(2). Pub. L. 104–186, §202(3)(A), substituted “Representatives, each” for “Representives, each”.
+
+Subsec. (c)(5). Pub. L. 104–186, §202(3)(B), substituted “and to the Sergeant at Arms of the House of Representatives, each two sets” for “, to the Sergeant at Arms of the House of Representatives, and to the Doorkeeper of the House of Representatives, each, two sets”.
 
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 28b, 28e of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “Representatives,”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

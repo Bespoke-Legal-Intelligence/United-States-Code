@@ -38,7 +38,7 @@ Controlled Substance Violations.—The Secretary shall disqualify from operating
 
 Serious Traffic Violations.—(1) The Secretary shall disqualify from operating a commercial motor vehicle for at least 60 days an individual who, in a 3-year period, commits 2 serious traffic violations involving a commercial motor vehicle operated by the individual.
 
-(2) The Secretary shall disqualify from operating a commercial motor vehicle for at least 120 days an individual who, in a 3-year period, commits 3 serious traffic violations involving a commercial motor vehicle operated by the individual.
+(2) The Secretary shall disqualify from operating a commercial motor vehicle for at least 120days an individual who, in a 3-year period, commits 3 serious traffic violations involving a commercial motor vehicle operated by the individual.
 
 (f)
 
@@ -72,13 +72,15 @@ Minimum requirements.—The regulations issued under paragraph (1) shall, at a m
 
 &emsp;&emsp;(A) the penalty for a single violation is not less than a 60-day disqualification of the driver's commercial driver's license; and
 
-&emsp;&emsp;(B) any employer that knowingly allows, permits, authorizes, or requires an employee to operate a commercial motor vehicle inviolation of such a law or regulation shall be subject to a civil penalty of not more than $10,000.
+&emsp;&emsp;(B) any employer that knowingly allows, permits, authorizes, or requires an employee to operate a commercial motor vehicle in violation of such a law or regulation shall be subject to a civil penalty of not more than $10,000.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1022; Pub. L. 104–88, title IV, §403(a), Dec. 29, 1995, 109 Stat. 956.)
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

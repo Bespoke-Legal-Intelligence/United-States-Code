@@ -6,15 +6,11 @@
 | [352\.](%C2%A7%2000352%20-%20Benefits.md) | Benefits. |
 | (a) | Days for which benefits payable; determination of amount. |
 | (b) | Time of payments. |
-| (c) | Maximum number of benefit days. |
+| (c) | Maximum number of days for benefits. |
 | (d) | Overpayment of benefits; recovery; liability of officers. |
 | (e) | Assignment, taxation, garnishment, attachment, etc., of benefits. |
 | (f) | Effect of payment of benefits for remunerable period; payment of surplus remuneration to Board. |
 | (g) | Payment of accrued benefits upon death. |
-| (h)(1) | Extended benefit period. |
-| (2) | Period of high unemployment. |
-| (3) | Rate of railroad unemployment. |
-| (4) | Determination of period of high unemployment; publication in Federal Register: notice of determination and formulas for mid-month and seasonal adjustments. |
 | [353\.](%C2%A7%2000353%20-%20Qualifying%20condition.md) | Qualifying condition. |
 | [354\.](%C2%A7%2000354%20-%20Disqualifying%20conditions.md) | Disqualifying conditions. |
 | (a–1) | Day of unemployment or day of sickness. |
@@ -75,10 +71,10 @@
 | (i) | Free employment offices; registration of unemployed; statements of sickness; reemployment. |
 | (j) | Advisory councils; members’ remuneration. |
 | (k) | Reduction of unemployment; training and reemployment of unemployed employees, etc. |
-| (<i>l)</i> | Necessary and incidental powers; employees of Board, employment, remuneration, civil-service laws, registration of unemployed, and detail. |
+| (<i>l</i>) | Necessary and incidental powers; employees of Board, employment, remuneration, civil-service laws, registration of unemployed, and detail. |
 | (m) | Delegation of powers. |
 | (n) | Sickness benefits; examinations; information and reports; contracts and expenses for examinations. |
-| (<i>o)</i> | Liability of third party for sickness; reimbursement of Board. |
+| (<i>o</i>) | Liability of third party for sickness; reimbursement of Board. |
 | (p) | Disqualification to execute statements of sickness or receive fees. |
 | (q) | Investigations and research with respect to accidents and disabilities. |
 | (r) | Duty of Board to make certain computations. |
@@ -95,15 +91,7 @@
 | [366\.](%C2%A7%2000366%20-%20Separability.md) | Separability. |
 | [366a.](%C2%A7%2000366a%20-%20Effect%20of%20Internal%20Revenue%20Code.md) | Effect of Internal Revenue Code. |
 | [367\.](%C2%A7%2000367%20-%20Short%20title.md) | Short title. |
-| [368\.](%C2%A7%2000368%20-%20Supplemental%20benefits.md) | Supplemental benefits. |
-| (a) | Entitlement. |
-| (b) | Exhaustion of rights to unemployment benefits. |
-| (c) | Amount of benefits. |
-| (d) | Maximum days. |
-| (e) | Period of coverage. |
-| (f) | “Period of eligibility” defined. |
-| (g) | Terms and conditions. |
-| (h) | Authorization of appropriations. |
+| [368\.](%C2%A7%2000368%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93251%2C%20%C2%A75%28c%29%2C%20Oct.%209%2C%201996%2C%20110%20Stat.%203165.md) | Repealed. |
 | [369\.](%C2%A7%2000369%20-%20Annual%20report.md) | Annual report. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -137,5 +125,5 @@ This chapter is referred to in sections 159a, 231f, 231g, 231i, 355a, 363a, 366a
 - [&sect; 00366 - Separability](%C2%A7%2000366%20-%20Separability.md)
 - [&sect; 00366a - Effect of Internal Revenue Code](%C2%A7%2000366a%20-%20Effect%20of%20Internal%20Revenue%20Code.md)
 - [&sect; 00367 - Short title](%C2%A7%2000367%20-%20Short%20title.md)
-- [&sect; 00368 - Supplemental benefits](%C2%A7%2000368%20-%20Supplemental%20benefits.md)
+- [&sect; 00368 - Repealed. Pub. L. 104&#8211;251, &sect;5(c), Oct. 9, 1996, 110 Stat. 3165](%C2%A7%2000368%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93251%2C%20%C2%A75%28c%29%2C%20Oct.%209%2C%201996%2C%20110%20Stat.%203165.md)
 - [&sect; 00369 - Annual report](%C2%A7%2000369%20-%20Annual%20report.md)

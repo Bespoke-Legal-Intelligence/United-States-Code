@@ -54,7 +54,7 @@ Dissemination.—The Secretary of Education shall disseminate the findings throu
 
 “(d)
 
-Submission of Report.—The Secretary of Education shall submit an interim report regarding the study by June 30, 1996, and a final report regarding the study by January 1, 1997, to the Committee on Education and Labor \[now Committee on Economic and Educational Opportunities\] of the House of Representatives and the Committee on Labor and Human Resources of the Senate.”
+Submission of Report.—The Secretary of Education shall submit an interim report regarding the study by June 30, 1996, and a final report regarding the study by January 1, 1997, to the Committee on Education and Labor \[now Committee on Education and the Workforce\] of the House of Representatives and the Committee on Labor and Human Resources of the Senate.”
 
 #### Section Referred to in Other Sections
 

@@ -8,13 +8,13 @@ There shall not be considered as a day of unemployment, or as a day of sickness,
 
 &emsp;(ii) any day in any period with respect to which the Board finds that he is receiving or will have received annuity payments under the Railroad Retirement Act of 1974 \[45 U.S.C. 231 et seq.\], or insurance benefits under title II of the Social Security Act \[42 U.S.C. 401 et seq.\], or unemployment, maternity, or sickness benefits under an unemployment, maternity, or sickness compensation law other than this chapter, or any other social-insurance payments under any law: <i>Provided</i>, That if an employee receives or is held entitled to receive any such payments, other than unemployment, maternity, or sickness payments, with respect to any period which include days of unemployment or sickness in a registration period, after benefits under this chapter for such registration period will have been paid, the amount by which such benefits under this chapter will have been increased by including such days as days of unemployment or as days of sickness shall be recoverable by the Board: <i>Provided further</i>, That, if that part of any such payment or payments, other than unemployment, maternity, or sickness payments, which is apportionable to such days of unemployment or days of sickness is less in amount than the benefits under this chapter which, but for this paragraph, would be payable and not recoverable with respect to such days of unemployment or days of sickness, the preceding provisions of this paragraph shall not apply but such benefits under this chapter for such days of unemployment or days of sickness shall be diminished or recoverable in the amount of such part of such other payment or payments;
 
-&emsp;(iii) if he is paid a separation allowance, any of the days in the period beginning with theday following his separation from service and continuing for that number of consecutive fourteen-day periods which is equal, or most nearly equal, to the amount of the separation allowance divided (i) by ten times his last daily rate of compensation prior to his separation if he normally works five days a week, (ii) by twelve times such rate if he normally works six days a week, and (iii) by fourteen times such rate if he normally works seven days a week; <sup>1</sup>
+&emsp;(iii) if he is paid a separation allowance, any of the days in the period beginning with the day following his separation from service and continuing for that number of consecutive fourteen-day periods which is equal, or most nearly equal, to the amount of the separation allowance divided (i) by ten times his last daily rate of compensation prior to his separation if he normally works five days a week, (ii) by twelve times such rate if he normally works six days a week, and (iii) by fourteen times such rate if he normally works seven days a week; <sup>1</sup>
 
 #### (a–2) Day of unemployment
 
 (i)(A) subject to the provisions of subdivision (B) hereof, any of the days in the period beginning with the day with respect to which the Board finds that he left work voluntarily, and continuing until he has been paid compensation of not less than $1,500 with respect to time after the beginning of such period and before 1989 or, if any part of such compensation is paid in a calendar year after 1988, not less than an amount that is equal to 2.5 times the monthly compensation base for months in such calendar year, as computed under section 351(i) of this title;
 
-(B) if the Board finds that he left work voluntarily with good cause, the provisions of subdivision (A) shall not apply, with respect to him, to any day in a registration period if such period does not include any day which is in a period for which he could receive benefits under an unemployment compensation law other than this chapter, and he so certifies. Such certification shall, in the absence of evidence to the contrary, be accepted subject to the penalty provisions of section 359(a) of this title;
+(B) if the Board finds that he left work voluntarily with good cause, the provisions of subdivision (A) shall not apply, with respect to him, to any day in a registration period if such period does not include any day which is in a period for which he could receive benefits under an unemployment compensation law other than thischapter, and he so certifies. Such certification shall, in the absence of evidence to the contrary, be accepted subject to the penalty provisions of section 359(a) of this title;
 
 (ii) any of the thirty days beginning with the day with respect to which the Board finds that he failed, without good cause, to accept suitable work available on such day and offered to him, or to comply with instructions from the Board requiring him to apply for suitable work or to report, in person or by mail as the Board may require, to an employment office;
 
@@ -50,7 +50,7 @@ In determining, within the limitations of subsection (c) of this section, whethe
 
 For the purposes of subsection (a–2)(i) of this section, no voluntary leaving of work shall be deemed to have been without good cause if the Board finds that such work would not have been suitable for the purposes of subsection (a–2)(ii) of this section.
 
-(June 25, 1938, ch. 680, §4, 52 Stat. 1098; June 20, 1939, ch. 227, §11, 53 Stat. 846; Oct. 10, 1940, ch.842, §§14–18, 54 Stat. 1097, 1098; July 31, 1946, ch. 709, §§309, 310, 60 Stat. 737, 738; Oct. 30, 1951, ch. 632, §27, 65 Stat. 691; Sept. 6, 1958, Pub. L. 85–927, pt. II, §202, 72 Stat. 1782; May 19, 1959, Pub. L. 86–28, pt. III, §305, 73 Stat. 31; Oct. 5, 1963, Pub. L. 88–133, title III, §302(a), 77 Stat. 222; Feb. 15, 1968, Pub. L. 90–257, title II, §204, 82 Stat. 24; Oct. 16, 1974, Pub. L. 93–445, title IV, §402, 88 Stat. 1359; Aug. 12, 1983, Pub. L. 98–76, title IV, §411(a)(3), 97 Stat. 436; Nov. 10, 1988, Pub. L. 100–647, title VII, §7101(d), 102 Stat. 3758.)
+(June 25, 1938, ch. 680, §4, 52 Stat. 1098; June 20, 1939, ch. 227, §11, 53 Stat. 846; Oct. 10, 1940, ch. 842, §§14–18, 54 Stat. 1097, 1098; July 31, 1946, ch. 709, §§309, 310, 60 Stat. 737, 738; Oct. 30, 1951, ch. 632, §27, 65 Stat. 691; Sept. 6, 1958, Pub. L. 85–927, pt. II, §202, 72 Stat. 1782; May 19, 1959, Pub. L. 86–28, pt. III, §305, 73 Stat. 31; Oct. 5, 1963, Pub. L. 88–133, title III, §302(a), 77 Stat. 222; Feb. 15, 1968, Pub. L. 90–257, title II, §204, 82 Stat. 24; Oct. 16, 1974, Pub. L. 93–445, title IV, §402, 88 Stat. 1359; Aug. 12, 1983, Pub. L. 98–76, title IV, §411(a)(3), 97 Stat. 436; Nov. 10, 1988, Pub. L. 100–647, title VII, §7101(d), 102 Stat. 3758.)
 
 #### References in Text
 
@@ -62,7 +62,7 @@ The Railway Labor Act, referred to in subsecs. (a–2)(iii) and (c)(v), is act M
 
 #### Amendments
 
-1988—Subsec. (a–2)(i)(A). Pub. L. 100–647 inserted “and before 1989 or, if any part of such compensation is paid in a calendar year after 1988, not less than an amount that is equal to 2.5 times the monthly compensation base for months in such calendar year, as computed under section 351(i) of this title” after “such period”.
+1988—Subsec. (a–2)(i)(A). Pub. L. 100–647 inserted “and before 1989 or, if any part of such compensation is paidin a calendar year after 1988, not less than an amount that is equal to 2.5 times the monthly compensation base for months in such calendar year, as computed under section 351(i) of this title” after “such period”.
 
 1983—Subsec. (a–2)(i)(A). Pub. L. 98–76 substituted “$1,500” for “$1,000”.
 
@@ -120,7 +120,7 @@ Section 302(b) of Pub. L. 88–133 provided that: “The amendment made by subse
 
 #### Effective Date of 1959 Amendment
 
-Amendment by Pub. L. 86–28 effective with respect to benefits accruing in general benefit years which beginafter the benefit year ending June 30, 1958, and in extended benefit periods which begin after Dec. 31, 1957, see section 309 of Pub. L. 86–28, set out as a note under section 351 of this title.
+Amendment by Pub. L. 86–28 effective with respect to benefits accruing in general benefit years which begin after the benefit year ending June 30, 1958, and in extended benefit periods which begin after Dec. 31, 1957, see section 309 of Pub. L. 86–28, set out as a note under section 351 of this title.
 
 #### Effective Date of 1958 Amendment
 

@@ -104,7 +104,9 @@ Authorizations Increased by Prior Year Deficiencies.—An amount greater than th
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

@@ -12,7 +12,9 @@ Applicable Penalties and Procedures.—The penalties and procedures in sections 
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

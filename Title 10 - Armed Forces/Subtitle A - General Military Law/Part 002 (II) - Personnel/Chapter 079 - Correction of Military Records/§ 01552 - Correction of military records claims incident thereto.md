@@ -88,7 +88,7 @@ Aug. 2, 1946, ch. 753, §207; restated Oct. 25, 1951, ch. 588, 65 Stat. 655.
 
 5:275(e).
 
-In subsection (a), the words “and approved by the Secretary of Defense” are substituted for 5:191a(a) (1st proviso). The words “when he considers it” are substituted for the words “where in their judgment such action is”, in 5:191a and 275. The words “officers or employees” and “means of”, in 5:191a and 275, are omitted as surplusage. The word “naval”, in 5:191a and 275, is omitted as covered by the word “military”.
+In subsection (a), the words “and approved by the Secretary of Defense” are substituted for 5:191a(a) (1st proviso). The words “when he considers it” are substituted for the words “where in their judgment such action is”, in 5:191a and 275. The words “officers or employees” and “means of”, in 5:191a and 275, are omittedas surplusage. The word “naval”, in 5:191a and 275, is omitted as covered by the word “military”.
 
 In subsection (b), the words “before October 26, 1961” are substituted for the words “or within ten years after the date of enactment of this section”, in 5:191a and 275. The last sentence of the revised subsection is substituted for 5:191a(a) (last proviso) and 275(a) (last proviso).
 
@@ -104,7 +104,7 @@ The Uniform Code of Military Justice (Public Law 506 of the 81st Congress), refe
 
 #### Amendments
 
-1992—Subsec. (a)(2). Pub. L. 102–484 substituted “announcing the promotion and appointment of an enlisted member to an initial or higher grade or the decisionnot to promote an enlisted member to a higher grade” for “announcing a decision not to promote an enlisted member to a higher grade”.
+1992—Subsec. (a)(2). Pub. L. 102–484 substituted “announcing the promotion and appointment of an enlisted member to an initial or higher grade or the decision not to promote an enlisted member to a higher grade” for “announcing a decision not to promote an enlisted member to a higher grade”.
 
 1989—Subsec. (a). Pub. L. 101–189, §514(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Secretary of a military department, under procedures established by him and approved by the Secretary of Defense, and acting through boards of civilians of the executive part of that military department, may correct any military record of that department when he considers it necessary to correct an error or remove an injustice. Under procedures prescribed by him, the Secretary of Transportation may in the same manner correct any military record of the Coast Guard. Except when procured by fraud, a correction under this section is final and conclusive on all officers of the United States.”
 
@@ -142,5 +142,5 @@ Effective dates of awards, see section 5110 of Title 38.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1034, 14502 of this title; title 38 sections 3462, 5110; title 42 section 213a.
+This section is referred to in sections 1034, 14502 of this title; title 14 section 425; title 38 sections 3462, 5110; title 42 section 213a.
 

@@ -36,7 +36,7 @@ The plan shall provide for the establishment by the Secretary of the National Wa
 
 #### (d) Compensation and expenses of Board
 
-The plan shall provide that all Board members shall serve without compensation, but shall bereimbursed for reasonable expenses incurred in performing their duties as members of the Board.
+The plan shall provide that all Board members shall serve without compensation, but shall be reimbursed for reasonable expenses incurred in performing their duties as members of the Board.
 
 #### (e) Budget on fiscal period basis
 
@@ -62,7 +62,7 @@ The plan shall provide the following:
 
 #### (h) Refunds
 
-(1) Except as provided in paragraph (2), the plan shall provide that, notwithstanding any other provisions of this chapter, any watermelon producer or handler (or importer who is subject to the plan) against whose watermelons an assessment is made and collected under this chapter and who is not in favor of supporting the research, development, advertising, and promotion program provided for under this chapter shall have the right to demand a refund of the assessment from the Board, under regulations, and on a form and within a time period (not less than 90 days), prescribed by the Board and approved by the Secretary. A producer or handler (or importer who is subject to the plan) who timely makes demand in accord with the regulations, on submission of proof satisfactory to the Board that the producer, handler, or importer paid the assessment for which the refund is sought, shall receive such refund within 60 days after demand therefor.
+(1) Except as provided in paragraph (2), the plan shall provide that, notwithstanding any other provisions of this chapter, any watermelon producer or handler (or importer who is subject to the plan) against whose watermelons an assessment is made and collected under this chapter and who is not in favor of supporting the research, development, advertising, and promotion program provided for under this chapter shall have the right to demand a refund of the assessment from the Board, under regulations, and on a form and within a time period (not less than 90 days), prescribed by the Board and approved by the Secretary. A producer or handler\(or importer who is subject to the plan) who timely makes demand in accord with the regulations, on submission of proof satisfactory to the Board that the producer, handler, or importer paid the assessment for which the refund is sought, shall receive such refund within 60 days after demand therefor.
 
 (2) If approved in the referendum required by section 4914(b) of this title relating to the elimination of the assessment refund under paragraph (1), the Secretary shall amend the plan that is in effect on the day before December 14, 1993, to eliminate the refund provision.
 
@@ -108,7 +108,7 @@ Subsec. (g)(5). Pub. L. 103–189, §8(e)(2), added par. (5).
 
 Subsec. (h). Pub. L. 103–189, §§7, 8(f), designated existing provisions as par. (1), substituted “Except as provided in paragraph (2), the” for “The”, inserted “(or importer who is subject to the plan)” after “or handler” the first two places appearing, substituted “, handler, or importer paid the assessment” for “or handler paid the assessment”, and added pars. (2) and (3).
 
-Subsec. (<i>l</i>). Pub. L. 103–189, §9(b), added subsec. (<i>l).</i>
+Subsec. (<i>l</i>). Pub. L. 103–189, §9(b), added subsec. (<i>l</i>).
 
 #### Section Referred to in Other Sections
 

@@ -46,11 +46,13 @@ There shall be available as a defense to any action brought for breach of contra
 
 #### (f) Termination date
 
-No certification of need or order issued under this section may remain in effect for more than one year <sup>1</sup>
+No certification of need or order issued under this section may remain in effect for more than one year.
 
-(July 1, 1944, ch. 373, title XIV, §1441, as added Dec. 16, 1974, Pub. L. 93–523, §2(a), 88 Stat. 1680; amended Nov. 16, 1977, Pub. L. 95–190, §7, 91 Stat. 1396; Sept. 6, 1979, Pub. L. 96–63, §3, 93 Stat. 411; June 19, 1986, Pub. L. 99–339, title III, §301(d), 100 Stat. 664.)
+(July 1, 1944, ch. 373, title XIV, §1441, as added Dec. 16, 1974, Pub. L. 93–523, §2(a), 88 Stat. 1680; amended Nov. 16, 1977, Pub. L. 95–190, §7, 91 Stat. 1396; Sept. 6, 1979, Pub. L. 96–63, §3, 93 Stat. 411; June 19, 1986, Pub. L. 99–339, title III, §301(d), 100 Stat. 664; Aug. 6, 1996, Pub. L. 104–182, title V, §501(c), 110 Stat. 1691.)
 
 #### Amendments
+
+1996—Subsec. (f). Pub. L. 104–182 inserted a period after “year”.
 
 1986—Subsec. (f). Pub. L. 99–339 substituted “in effect for more than one year” for “in effect— (1) for more than one year, or (2) September 30, 1982, whichever occurs first.”
 
@@ -58,19 +60,15 @@ No certification of need or order issued under this section may remain in effect
 
 1977—Subsec. (f). Pub. L. 95–190 substituted “September 30, 1979” for “June 30, 1977”.
 
-#### Ex. Ord. No. 11879.
-
-Delegation of Functions to Secretary of Commerce Relating to Orders for Provision of Chemicals or Substances Necessary for Treatment of Water
+#### Ex. Ord. No. 11879. Delegation of Functions to Secretary of Commerce Relating to Orders for Provision of Chemicals or Substances Necessary for Treatment of Water
 
 Ex. Ord. No. 11879, Sept. 17, 1975, 40 F.R. 43197, provided:
 
-By virtue of the authority vested in me by Section 1441 of the Public Health Service Act, as amended by the Safe Drinking Water Act (88 Stat. 1680, 42 U.S.C. 300j), and as President of the United States, the Secretary of Commerce is hereby delegated, with power to redelegate to agencies, officers and employees of the Government, the functions of the President contained in said section 1441 \[this section\]. Those functions shall be administered under regulations or agreements which are identical or compatible with other regulations and agreements, including those provided pursuant to Executive Order No. 10480, as amended \[formerly set out as a note under section 2153 of Title 50, Appendix, War and National Defense\], for the allocation of similar chemicals or substances.
+By virtue of the authority vested in me by Section 1441 of the Public Health Service Act, as amended by the Safe Drinking Water Act \[now Safe Drinking Water Act of 1974\] (88 Stat. 1680, 42 U.S.C. 300j), and as President of the United States, the Secretary of Commerce is hereby delegated, with power to redelegate to agencies, officers and employees of the Government, the functions of the President contained in said section 1441 \[this section\]. Those functions shall be administered under regulations or agreements which are identical or compatible with other regulations and agreements, including those provided pursuant to Executive Order No. 10480, as amended \[formerly set out as a note under section 2153 of Title 50, Appendix, War and National Defense\], for the allocation of similar chemicals or substances.
 
 Gerald R. Ford.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 300j–4 of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should be followed by a period.</i>
+This section is referred to in section 300g–3 of this title.
 

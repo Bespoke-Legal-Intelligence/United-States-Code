@@ -24,5 +24,11 @@
 
 &emsp;(B) the incarcerated person is incarcerated pursuant to a conviction for an offense against the United States.
 
-(Added Pub. L. 103–322, title VI, §60015(a), Sept. 13, 1994, 108 Stat. 1974.)
+(c) For the purposes of this section, the term “State” means a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
+
+(Added Pub. L. 103–322, title VI, §60015(a), Sept. 13, 1994, 108 Stat. 1974; amended Pub. L. 104–294, title VI, §607(k), Oct. 11, 1996, 110 Stat. 3512.)
+
+#### Amendments
+
+1996—Subsec. (c). Pub. L. 104–294 added subsec. (c).
 

@@ -22,7 +22,9 @@ Additional Information.—As soon as practicable but not later than a date the P
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

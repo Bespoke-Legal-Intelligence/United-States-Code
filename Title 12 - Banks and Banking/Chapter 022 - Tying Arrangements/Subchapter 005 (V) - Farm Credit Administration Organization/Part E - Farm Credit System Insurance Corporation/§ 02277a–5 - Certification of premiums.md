@@ -6,9 +6,9 @@ Annually, on a date to be determined in the sole discretion of the Board of Dire
 
 &emsp;(1) the annual average principal outstanding on loans made by the bank that are in accrual status, including the nonguaranteed portions of government-guaranteed loans;
 
-&emsp;(2) the annual average principal outstanding on the guaranteed portion of Federal Government-guaranteed loans (as defined in section 2277a–4(a)(2) of this title) that are in accrual status;
+&emsp;(2) the annual average principal outstanding on the guaranteed portion of Federal Government-guaranteed loans (as defined in section 2277a–4(a)(3) of this title) that are in accrual status;
 
-&emsp;(3) the annual average principal outstanding on State government-guaranteed loans (as defined in section 2277a–4(a)(2) of this title) that are in accrual status;
+&emsp;(3) the annual average principal outstanding on State government-guaranteed loans (as defined in section 2277a–4(a)(3) of this title) that are in accrual status;
 
 &emsp;(4) the annual average principal outstanding on loans that are in nonaccrual status; and
 
@@ -30,9 +30,11 @@ The premium payments required from insured System banks under subsection (a) of 
 
 The Board of Directors shall prescribe all rules and regulations necessary for the enforcement of this section. The Board of Directors may limit the retroactive effect, if any, of any of its rules or regulations.
 
-(Pub. L. 92–181, title V, §5.56, as added Pub. L. 100–233, title III, §302, Jan. 6, 1988, 101 Stat. 1612; amended Pub. L. 100–399, title III, §302(f), Aug. 17, 1988, 102 Stat. 994; Pub. L. 101–624, title XVIII, §1835, Nov. 28, 1990, 104 Stat. 3833.)
+(Pub. L. 92–181, title V, §5.56, as added Pub. L. 100–233, title III, §302, Jan. 6, 1988, 101 Stat. 1612; amended Pub. L. 100–399, title III, §302(f), Aug. 17, 1988, 102 Stat. 994; Pub. L. 101–624, title XVIII, §1835, Nov. 28, 1990, 104 Stat. 3833; Pub. L. 104–105, title II, §215(a)(2)(B), Feb. 10, 1996, 110 Stat. 176.)
 
 #### Amendments
+
+1996—Subsec. (a)(2), (3). Pub. L. 104–105 substituted “2277a–4(a)(3) of this title” for “2277a–4(a)(2) of this title”.
 
 1990—Subsec. (a). Pub. L. 101–624 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Annually, on a date to be determined in the sole discretion of the Board of Directors, each insured System bank that became insured before the beginning of the year shall file with the Corporation a certified statement showing the annual average principal outstanding on loans made by the bank that are in accrual status, the annual average principal outstanding on loans that are in nonaccrual status, and the amount of the premium due the Corporation from the bank for such year.”
 

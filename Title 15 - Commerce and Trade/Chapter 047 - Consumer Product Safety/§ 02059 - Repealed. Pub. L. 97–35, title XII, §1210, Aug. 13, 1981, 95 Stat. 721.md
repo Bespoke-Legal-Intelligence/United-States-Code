@@ -1,6 +1,6 @@
 ### §2059. Repealed. Pub. L. 97–35, title XII, §1210, Aug. 13, 1981, 95 Stat. 721
 
-Section, Pub. L. 92–573, §10, Oct. 27, 1972, 86 Stat. 1217; Pub. L. 94–284, §10(a), May 11, 1976, 90 Stat. 506, relatedto filing of a petition by an interested person for issuance, amendment, or revocation of a consumer product safety rule.
+Section, Pub. L. 92–573, §10, Oct. 27, 1972, 86 Stat. 1217; Pub. L. 94–284, §10(a), May 11, 1976, 90 Stat. 506, related to filing of a petition by an interested person for issuance, amendment, or revocation of a consumer product safety rule.
 
 #### Effective Date of Repeal
 

@@ -12,7 +12,9 @@ In providing air transportation, an air carrier may not discriminate against an 
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -28,5 +30,5 @@ In this section, before clause (1), the words “on the following grounds” are
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 40109, 41110, 46301 of this title.
+This section is referred to in section 41110 of this title.
 

@@ -16,7 +16,7 @@
 
 #### (b) Compliance with other provisions of law setting applicable water quality requirements
 
-Nothing in this section shall be construed to limit the authority of any department or agency pursuant to any other provision of law to require compliance with any applicable waterquality requirements. The Administrator shall, upon the request of any Federal department or agency, or State or interstate agency, or applicant, provide, for the purpose of this section, any relevant information on applicable effluent limitations, or other limitations, standards, regulations, or requirements, or water quality criteria, and shall, when requested by any such department or agency or State or interstate agency, or applicant, comment on any methods to comply with such limitations, standards, regulations, requirements, or criteria.
+Nothing in this section shall be construed to limit the authority of any department or agency pursuant to any other provision of law to require compliance with any applicable water quality requirements. The Administrator shall, upon the request of any Federal department or agency, or State or interstate agency, or applicant, provide, for the purpose of this section, any relevant information on applicable effluent limitations, or other limitations, standards, regulations, or requirements, or water quality criteria, and shall, when requested by any such department or agency or State or interstate agency, or applicant, comment on any methods to comply with such limitations, standards, regulations, requirements, or criteria.
 
 #### (c) Authority of Secretary of the Army to permit use of spoil disposal areas by Federal licensees or permittees
 
@@ -26,7 +26,7 @@ In order to implement the provisions of this section, the Secretary of the Army,
 
 Any certification provided under this section shall set forth any effluent limitations and other limitations, and monitoring requirements necessary to assure that any applicant for a Federal license or permit will comply with any applicable effluent limitations and other limitations, under section 1311 or 1312 of this title, standard of performance under section 1316 of this title, or prohibition, effluent standard, or pretreatment standard under section 1317 of this title, and with any other appropriate requirement of State law set forth in such certification, and shall become a condition on any Federal license or permit subject to the provisions of this section.
 
-(June 30, 1948, ch. 758, title IV, §401, as added Oct. 18, 1972, Pub. L. 92–500, §2, 86 Stat. 877; amended Dec. 27, 1977, Pub. L. 95–217, §§61(b), 64, 91 Stat. 1598, 1599.)
+(June 30, 1948, ch. 758, title IV, §401, as added Oct. 18, 1972, Pub. L. 92–500, §2, 86 Stat. 877;amended Dec. 27, 1977, Pub. L. 95–217, §§61(b), 64, 91 Stat. 1598, 1599.)
 
 #### Amendments
 
@@ -34,5 +34,5 @@ Any certification provided under this section shall set forth any effluent limit
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1314, 1365, 1371, 1377 of this title.
+This section is referred to in sections 1314, 1365, 1371, 1377, 2326a of this title.
 

@@ -8,7 +8,7 @@
 
 &emsp;(2) even though the land will be held in other than a fee simple interest in a case in which the Secretary of the military department concerned determines that the interest to be acquired in the land is sufficient for the purposes of the project.
 
-(Added Pub. L. 97–214, §2(a), July 12, 1982, 96 Stat. 164; amended Pub. L. 97–295, §1(35), Oct. 12, 1982, 96 Stat. 1296; Pub. L. 97–321, title VIII, §805(a)(1), Oct. 15, 1982, 96 Stat. 1573; Pub. L. 99–145, title XIII, §1303(a)(19), Nov. 8, 1985, 99 Stat. 739.)
+(Added Pub. L. 97–214, §2(a), July 12, 1982, 96 Stat. 164; amended Pub. L. 97–295, §1(35), Oct. 12,1982, 96 Stat. 1296; Pub. L. 97–321, title VIII, §805(a)(1), Oct. 15, 1982, 96 Stat. 1573; Pub. L. 99–145, title XIII, §1303(a)(19), Nov. 8, 1985, 99 Stat. 739.)
 
 #### Historical and Revision Notes
 

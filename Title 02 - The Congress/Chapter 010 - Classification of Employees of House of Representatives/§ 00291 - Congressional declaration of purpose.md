@@ -26,7 +26,7 @@ Section 17 of Pub. L. 88–652 provided that: “This Act \[enacting this chapte
 
 Section 1 of Pub. L. 88–652 provided that: “This Act \[enacting this chapter and amending sections 88c and 123b of this title\] may be cited as the ‘House Employees Position Classification Act’.”
 
-#### Savings Provisions
+#### Savings Provision
 
 Section 15 of Pub. L. 88–652 provided that:
 

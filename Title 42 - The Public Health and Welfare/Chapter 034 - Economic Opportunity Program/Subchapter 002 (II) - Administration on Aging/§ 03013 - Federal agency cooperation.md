@@ -56,7 +56,7 @@ The Job Training Partnership Act, referred to in subsecs. (a)(2) and (b)(1), is 
 
 The Domestic Volunteer Service Act of 1973, referred to in subsec. (b)(2), is Pub. L. 93–113, Oct. 1, 1973, 87 Stat. 394, as amended. Title II of the Domestic Volunteer Service Act of 1973 is classified generally to subchapter II (§5000 et seq.) of chapter 66 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4950 of this title and Tables.
 
-The Social Security Act, referred to in subsec. (b)(3), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended.Titles XVI, XVIII, XIX, and XX of the Social Security Act are classified generally to subchapters XVI (§1381 et seq.), XVIII (§1395 et seq.), XIX (§1396 et seq.), and XX (§1397 et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+The Social Security Act, referred to in subsec. (b)(3), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles XVI, XVIII, XIX, and XX of the Social Security Act are classified generally to subchapters XVI (§1381 et seq.), XVIII (§1395 et seq.), XIX (§1396 et seq.), and XX (§1397 et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
 The United States Housing Act of 1937, referred to in subsec. (b)(5), is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 653, which is classified generally to chapter 8 (§1437 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1437 of this title and Tables.
 
@@ -78,7 +78,7 @@ The Rehabilitation Act of 1973, referred to in subsec. (b)(16), is Pub. L. 93–
 
 The Developmental Disabilities and Bill of Rights Act, referred to in subsec. (b)(17), probably means the Developmental Disabilities Assistance and Bill of Rights Act, which is title I of Pub. L. 88–164, as added by Pub. L. 94–103, Oct. 4, 1975, 89 Stat. 496, and amended, and is classified generally to chapter 75 (§6000 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6000 of this title and Tables.
 
-The Omnibus Crime Control and Safe Streets Act of 1968, referred to in subsec. (b)(18), is Pub. L. 90–351, June 19, 1968, 82 Stat. 197, as amended. Part E of title I of the Act is classified generally to subchapter V (§3750 et seq.) of chapter 46 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3711 of this title and Tables.
+The Omnibus Crime Control and Safe Streets Act of 1968, referred to in subsec. (b)(18), is Pub. L. 90–351, June19, 1968, 82 Stat. 197, as amended. Part E of title I of the Act is classified generally to subchapter V (§3750 et seq.) of chapter 46 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3711 of this title and Tables.
 
 #### Codification
 

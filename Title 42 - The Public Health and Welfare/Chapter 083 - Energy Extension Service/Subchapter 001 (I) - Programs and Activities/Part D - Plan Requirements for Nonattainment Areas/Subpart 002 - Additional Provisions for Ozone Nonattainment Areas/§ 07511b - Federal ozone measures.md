@@ -6,7 +6,7 @@ Within 3 years after November 15, 1990, the Administrator shall issue control te
 
 #### (b) Existing and new CTGS
 
-(1) Within 36 months after November 15, 1990, and periodically thereafter, the Administrator shall review and, if necessary, update controltechnique guidance issued under section 7408 of this title before November 15, 1990.
+(1) Within 36 months after November 15, 1990, and periodically thereafter, the Administrator shall review and, if necessary, update control technique guidance issued under section 7408 of this title before November 15, 1990.
 
 (2) In issuing the guidelines the Administrator shall give priority to those categories which the Administrator considers to make the most significant contribution to the formation of ozone air pollution in ozone nonattainment areas, including hazardous waste treatment, storage, and disposal facilities which are permitted under subtitle C of the Solid Waste Disposal Act \[42 U.S.C. 6921 et seq.\]. Thereafter the Administrator shall periodically review and, if necessary, revise such guidelines.
 
@@ -34,7 +34,7 @@ Within 1 year after November 15, 1990, the Administrator shall provide guidance 
 
 #### (B) Consumer or commercial product
 
-&emsp;&emsp;The term “consumer or commercial product” means any substance, product (including paints, coatings, and solvents), or article (including any container or packaging) held by any person, the use, consumption, storage, disposal, destruction, or decomposition of which may result in the release of volatile organic compounds. The term does not include fuels or fuel additives regulated under section 7545 of this title, or motor vehicles, non-road vehicles, and non-road engines as defined under section 7550 of this title.
+&emsp;&emsp;The term “consumer or commercial product” means any substance, product (including paints, coatings, and solvents), or article (including any container or packaging) heldby any person, the use, consumption, storage, disposal, destruction, or decomposition of which may result in the release of volatile organic compounds. The term does not include fuels or fuel additives regulated under section 7545 of this title, or motor vehicles, non-road vehicles, and non-road engines as defined under section 7550 of this title.
 
 #### (C) Regulated entities
 
@@ -94,7 +94,7 @@ Within 1 year after November 15, 1990, the Administrator shall provide guidance 
 
 #### (6) Enforcement
 
-&emsp;Any regulation established under this subsection shall be treated, for purposes of enforcement of this chapter, as a standard under section 7411 of this title and any violation of such regulation shall be treated as a violation of a requirement of section 7411(e) of this title.
+&emsp;Any regulation established under this subsection shall be treated, for purposes of enforcement of this chapter, as a standard under section 7411 of this title and any violation ofsuch regulation shall be treated as a violation of a requirement of section 7411(e) of this title.
 
 #### (7) State administration
 

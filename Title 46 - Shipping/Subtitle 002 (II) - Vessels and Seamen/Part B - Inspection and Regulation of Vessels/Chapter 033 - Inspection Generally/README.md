@@ -17,7 +17,7 @@
 | [3313\.](%C2%A7%2003313%20-%20Compliance%20with%20certificate%20of%20inspection.md) | Compliance with certificate of inspection. |
 | [3314\.](%C2%A7%2003314%20-%20Expiration%20of%20certificate%20of%20inspection.md) | Expiration of certificate of inspection. |
 | [3315\.](%C2%A7%2003315%20-%20Disclosure%20of%20defects%20and%20protection%20of%20informants.md) | Disclosure of defects and protection of informants. |
-| [3316\.](%C2%A7%2003316%20-%20United%20States%20classification%20societies.md) | United States classification societies. |
+| [3316\.](%C2%A7%2003316%20-%20Classification%20societies.md) | Classification societies. |
 | [3317\.](%C2%A7%2003317%20-%20Fees.md) | Fees. |
 | [3318\.](%C2%A7%2003318%20-%20Penalties.md) | Penalties. |
 
@@ -31,9 +31,11 @@ In 1864 the principal inspection and licensing provisions of the 1852 act were m
 
 In the more than 100 years since then, as the public recognized the need for vessel safety legislation, primarily as the result of maritime disasters, other classes of vessels were subjected to Federal inspection or regulatory control. These included vessels propelled by gas, fluid, naphtha, or electric motors in 1897; sail vessels and barges carrying passengers for hire in 1898; seagoing barges in 1908; motorboats in 1910; steam vessels owned by the Department of Commerce in 1919; seagoing vessels of 300 gross tons and over on June 20, 1936; all tank vessels carrying flammable or combustible liquid cargo in bulk regardless of size or means of propulsion of June 23, 1936; motorboats again in 1940; all vessels carrying more than six passengers in 1956; tank vessels again in 1978; and offshore supply vessels in 1980. There was also considerable legislation that amended or supplemented these primary maritime safety laws.
 
-The net result has been a patchwork quilt of categories and classifications that requires a tabulation of more than seventy different classes of inspected vessels. This revision gathers into one section of the law all classes of vessels that are subject to inspection and certification without changing the application of present law as to any one class of vessel. The revision does not alter the application of the present law so as to expand inspection requirements to any vessel presently not subject to inspection nor to remove from inspection any vessel that is presently subject to inspection.
+The net result has been a patchwork quilt of categories and classifications that requires a tabulation of more than seventy different classes of inspected vessels. This revision gathers into one section of the law all classes of vessels that are subject to inspection andcertification without changing the application of present law as to any one class of vessel. The revision does not alter the application of the present law so as to expand inspection requirements to any vessel presently not subject to inspection nor to remove from inspection any vessel that is presently subject to inspection.
 
 #### Amendments
+
+1996—Pub. L. 104–324, title VI, §607(b)(2), Oct. 19, 1996, 110 Stat. 3932, substituted “Classification societies” for “United States classification societies” in item 3316.
 
 1986—Pub. L. 99–307, §1(5)(B), May 19, 1986, 100 Stat. 445, substituted “Transporting” for “Carrying” in item 3304.
 
@@ -61,6 +63,6 @@ This chapter is referred to in sections 2102, 8101, 8301 of this title; title 40
 - [&sect; 03313 - Compliance with certificate of inspection](%C2%A7%2003313%20-%20Compliance%20with%20certificate%20of%20inspection.md)
 - [&sect; 03314 - Expiration of certificate of inspection](%C2%A7%2003314%20-%20Expiration%20of%20certificate%20of%20inspection.md)
 - [&sect; 03315 - Disclosure of defects and protection of informants](%C2%A7%2003315%20-%20Disclosure%20of%20defects%20and%20protection%20of%20informants.md)
-- [&sect; 03316 - United States classification societies](%C2%A7%2003316%20-%20United%20States%20classification%20societies.md)
+- [&sect; 03316 - Classification societies](%C2%A7%2003316%20-%20Classification%20societies.md)
 - [&sect; 03317 - Fees](%C2%A7%2003317%20-%20Fees.md)
 - [&sect; 03318 - Penalties](%C2%A7%2003318%20-%20Penalties.md)

@@ -36,9 +36,9 @@ Section 11(b) of Pub. L. 97–453 provided that: “The amendment made by subsec
 
 #### Effective Date
 
-For effective date of this subchapter, see section 312 of Pub. L. 94–265, set out as a note under section 1857 of this title.
+Section effective Mar. 1, 1977, see section 312 of Pub. L. 94–265, formerly set out as a note under section 1857 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3606, 3637, 5103, 5106, 5606 of this title.
+This section is referred to in sections 1853, 3606, 3637, 5103, 5106, 5606 of this title.
 

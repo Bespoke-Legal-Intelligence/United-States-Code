@@ -4,7 +4,7 @@ Section 894, Pub. L. 93–203, title IV, §416, as added Pub. L. 95–524, §2, 
 
 A prior section 894, Pub. L. 93–203, title III, §341, as added Pub. L. 95–93, title II, §201, Aug. 5, 1977, 91 Stat. 639, provided for a Congressional declaration of purpose with respect to youth employment and training programs, prior to the general revision of Pub. L. 93–203 by Pub. L. 95–524.
 
-A prior section 416 of Pub. L. 93–203, title IV, Dec. 28, 1973, 87 Stat. 872, which related to the Federal status ofenrollees in the Job Corps, was classified to former section 926 of this title prior to the general revision of Pub. L. 93–203 by Pub. L. 95–524.
+A prior section 416 of Pub. L. 93–203, title IV, Dec. 28, 1973, 87 Stat. 872, which related to the Federal status of enrollees in the Job Corps, was classified to former section 926 of this title prior to the general revision of Pub. L. 93–203 by Pub. L. 95–524.
 
 Provisions similar to those comprising this section were contained in former section 892 of this title prior to the general revision of Pub. L. 93–203, by Pub. L. 95–524.
 

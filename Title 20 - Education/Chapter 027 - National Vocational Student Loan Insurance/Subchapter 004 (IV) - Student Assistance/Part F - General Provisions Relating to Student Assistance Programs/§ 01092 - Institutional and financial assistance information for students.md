@@ -50,7 +50,7 @@
 
 &emsp;(N) that enrollment in a program of study abroad approved for credit by the home institution may be considered enrollment in the home institution for purposes of applying for Federal student financial assistance.
 
-(2) For the purpose of this section, the term “prospective student” means any individual who has contacted an eligible institution requesting information concerning admission to that institution.
+(2) For the purpose of this section, the term “prospective student” means any individual whohas contacted an eligible institution requesting information concerning admission to that institution.
 
 (3) In calculating the completion or graduation rate under subparagraph (L) of paragraph (1) of this subsection or under subsection (e) of this section, a student shall be counted as a completion or graduation if, within 150 percent of the normal time for completion of or graduation from the program, the student has completed or graduated from the program, or enrolled in any program of an eligible institution for which the prior program provides substantial preparation. The information required to be disclosed under such subparagraph—
 
@@ -126,7 +126,7 @@ The Secretary shall make available to eligible institutions, eligible lenders, a
 
 (8) For purposes of this subsection, the term “athletically related student aid” means any scholarship, grant, or other form of financial assistance the terms of which require the recipient to participate in a program of intercollegiate athletics at an institution of higher education in order to be eligible to receive such assistance.
 
-(9) This subsection shall not be effective until the first July 1 that follows, by more than 270 days, the date on which the Secretary first prescribes final regulations pursuant to this subsection. The reports required by this subsection shall be due on that July 1 and each succeeding July 1 and shall cover the 1-year period ending June 30 of the preceding year.
+(9) This subsection shall not be effective until the first July 1 that follows, by more than 270 days, the date on which the Secretary first prescribes final regulations pursuant to this subsection. The reports required by this subsection shall be due on that July 1 and each succeeding July 1 and shall cover the 1-year period ending August 30 of the preceding year.
 
 #### (f) Disclosure of campus security policy and campus crime statistics
 
@@ -202,7 +202,7 @@ The Secretary shall make available to eligible institutions, eligible lenders, a
 
 &emsp;(i) Education programs to promote the awareness of rape, acquaintance rape, and other sex offenses.
 
-&emsp;(ii) Possible sanctions to be imposed following the final determination of an on-campus disciplinary procedure regarding rape, acquaintance rape, or other sex offenses, forcible or nonforcible.
+&emsp;(ii) Possible sanctions to be imposed following the final determination of an on-campusdisciplinary procedure regarding rape, acquaintance rape, or other sex offenses, forcible or nonforcible.
 
 &emsp;(iii) Procedures students should follow if a sex offense occurs, including who should be contacted, the importance of preserving evidence as may be necessary to the proof of criminal sexual assault, and to whom the alleged offense should be reported.
 
@@ -260,13 +260,13 @@ The Secretary shall make available to eligible institutions, eligible lenders, a
 
 #### (4) “Operating expenses” defined
 
-&emsp;For the purposes of this subsection, the term “operating expenses” means expenditures on lodging and meals, transportation, officials, uniforms and equipment.
+&emsp;For the purposes of this subsection, the term “operating expenses” means expenditures onlodging and meals, transportation, officials, uniforms and equipment.
 
 #### (5) Regulations and effective date
 
 &emsp;The Secretary shall issue final regulations to implement the requirements of this subsection not later than 180 days following October 20, 1994. Each institution described in paragraph (1) shall make available its first report pursuant to this section not later than October 1, 1996.
 
-(Pub. L. 89–329, title IV, §485, as added Pub. L. 99–498, title IV, §407(a), Oct. 17, 1986, 100 Stat. 1482; amended Pub. L. 100–50, §15(10), (11), June 3, 1987, 101 Stat. 357; Pub. L. 101–542, title I, §§103(a), (b), 104(a), title II, §204(a), Nov. 8, 1990, 104 Stat. 2381–2385; Pub. L. 101–610, title II, §§201–203, Nov. 16, 1990, 104 Stat. 3171, 3172; Pub. L. 102–26, §10(a)–(d), Apr. 9, 1991, 105 Stat. 128; Pub. L. 102–164, title VI, §603, Nov. 15, 1991, 105 Stat. 1066; Pub. L. 102–325, title IV, §486(a)–(c)(2), July 23, 1992, 106 Stat. 620, 621; Pub. L. 103–208, §2(h)(28)–(37), (k)(9), Dec. 20, 1993, 107 Stat. 2477, 2486; Pub. L. 103–382, title III, §360B(c), Oct. 20, 1994, 108 Stat. 3970.)
+(Pub. L. 89–329, title IV, §485, as added Pub. L. 99–498, title IV, §407(a), Oct. 17, 1986, 100 Stat. 1482; amended Pub. L. 100–50, §15(10), (11), June 3, 1987, 101 Stat. 357; Pub. L. 101–542, title I, §§103(a), (b), 104(a), title II, §204(a), Nov. 8, 1990, 104 Stat. 2381–2385; Pub. L. 101–610, title II, §§201–203, Nov. 16, 1990, 104 Stat. 3171, 3172; Pub. L. 102–26, §10(a)–(d), Apr. 9, 1991, 105 Stat. 128; Pub. L. 102–164, title VI, §603, Nov. 15, 1991, 105 Stat. 1066; Pub. L. 102–325, title IV, §486(a)–(c)(2), July 23, 1992, 106 Stat. 620, 621; Pub. L. 103–208, §2(h)(28)–(37), (k)(9), Dec. 20, 1993, 107 Stat. 2477, 2486; Pub. L. 103–382, title III, §360B(c), Oct. 20, 1994, 108 Stat. 3970; Pub. L. 104–208, div. A, title I, §101(e) \[title III, §308\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–262.)
 
 #### References in Text
 
@@ -283,6 +283,8 @@ A prior section 1092, Pub. L. 89–329, title IV, §485, as added Pub. L. 96–3
 Another prior section 1092, Pub. L. 89–329, title V, §508, formerly §502, Nov. 8, 1965, 79 Stat. 1255; renumbered §508 and amended Pub. L. 90–35, §§2(b), 7, June 29, 1967, 81 Stat. 82, 93, prohibited the making of payments for religious purposes for authorized programs, prior to repeal by Pub. L. 94–482, title I, §151(a)(2), Oct. 12, 1976, 90 Stat. 2151.
 
 #### Amendments
+
+1996—Subsec. (e)(9). Pub. L. 104–208 substituted “August 30” for “June 30” in second sentence.
 
 1994—Subsec. (g). Pub. L. 103–382 added subsec. (g).
 
@@ -348,7 +350,7 @@ Subsec. (a)(3)(A) to (C). Pub. L. 102–26, §10(b), inserted “and” at end o
 
 Subsec. (a)(5). Pub. L. 102–26, §10(c), added par. (5).
 
-Subsec. (b). Pub. L. 102–164 substituted “Exit counseling for borrowers; borrower information” for “Exit counseling for borrowers” in heading and inserted at end “Each eligible institution shall require that the borrower of a loan made under part B, part C, or part D of this subchapter submit to the institution, during the exit interview required by this subsection, the borrower's expected permanent address after leaving the institution, regardless of the reason for leaving; the name and address of the borrower's expected employer after leaving the institution; and the address of the borrower's next of kin. In the case of a loan made under part B of this subchapter, the institution shall then submit this information to the holder of the loan.”
+Subsec. (b). Pub. L. 102–164 substituted “Exit counseling for borrowers; borrower information” for “Exit counseling for borrowers” in heading and inserted at end “Each eligible institution shall require that the borrower of a loan made under part B, part C, or partD of this subchapter submit to the institution, during the exit interview required by this subsection, the borrower's expected permanent address after leaving the institution, regardless of the reason for leaving; the name and address of the borrower's expected employer after leaving the institution; and the address of the borrower's next of kin. In the case of a loan made under part B of this subchapter, the institution shall then submit this information to the holder of the loan.”
 
 Subsec. (f)(1). Pub. L. 102–26, §10(d), substituted “August 1, 1991,” for “September 1, 1991,” in introductory provisions, and in subpar. (F) substituted “calendar year” and “calendar years” for “school year” and “school years”, respectively.
 
@@ -372,7 +374,7 @@ Subsec. (d). Pub. L. 100–50, §15(11), inserted after second sentence “In ad
 
 #### Change of Name
 
-Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Economic and Educational Opportunities of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Fifth Congress, Jan. 7, 1997.
 
 #### Effective Date of 1993 Amendment
 
@@ -386,7 +388,7 @@ Section 486(c)(3) of Pub. L. 102–325 provided that: “The amendment made by t
 
 &emsp;“(A) in the report required on September 1, 1992, include statistics concerning the occurrence on campus of offenses during the period from August 1, 1991, to July 31, 1992;
 
-&emsp;“(B) in the report required on September 1, 1993, include statistics concerning the occurrence on campusof offenses during (i) the period from August 1, 1991, to December 31, 1991, and (ii) the calendar year 1992;
+&emsp;“(B) in the report required on September 1, 1993, include statistics concerning the occurrence on campus of offenses during (i) the period from August 1, 1991, to December 31, 1991, and (ii) the calendar year 1992;
 
 &emsp;“(C) in the report required on September 1, 1994, include statistics concerning the occurrence on campus of offenses during (i) the period from August 1, 1991, to December 31, 1991, and (ii) the calendar years 1992 and 1993; and
 

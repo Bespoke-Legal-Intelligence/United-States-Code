@@ -10,5 +10,5 @@ Section effective 18 months after July 26, 1990, see section 310(a) of Pub. L. 1
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 2 section 1331.
+This section is referred to in title 2 section 1331; title 3 section 421.
 

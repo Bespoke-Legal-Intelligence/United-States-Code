@@ -16,7 +16,7 @@ Determination and Report.—(1) Subject to paragraph (3), the Secretary may waiv
 
 &emsp;(B) provide better services than those provided by a plan subject to such limitations or payment requirements at no additional cost to the Government.
 
-(2) The Secretary shall submit to the Committees on Armed Services of the Senate and House of Representatives a report with respect to a waiver under paragraph (1), including a comparison of costs of and benefits available under—
+(2) The Secretary shall submit to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives a report with respect to a waiver under paragraph (1), including a comparison of costs of and benefits available under—
 
 &emsp;(A) a plan with respect to which the limitations and payment requirements are waived; and
 
@@ -24,13 +24,11 @@ Determination and Report.—(1) Subject to paragraph (3), the Secretary may waiv
 
 (3) A waiver under paragraph (1) may not take effect until the end of the 180-day period beginning on the date on which the Secretary submits the report required by paragraph (2) with respect to such waiver.
 
-(Added Pub. L. 99–661, div. A, title VII, §701(a)(1), Nov. 14, 1986, 100 Stat. 3895; amended Pub. L. 101–510, div. A, title XIV, §1484(h)(1), Nov. 5, 1990, 104 Stat. 1717.)
+(Added Pub. L. 99–661, div. A, title VII, §701(a)(1), Nov. 14, 1986, 100 Stat. 3895; amended Pub. L. 101–510, div. A, title XIV, §1484(h)(1), Nov. 5, 1990, 104 Stat. 1717; Pub. L. 104–106, div. A, title XV, §1502(a)(1), Feb. 10, 1996, 110 Stat. 502.)
 
 #### Amendments
 
+1996—Subsec. (b)(2). Pub. L. 104–106 substituted “Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives” for “Committees on Armed Services of the Senate and House of Representatives”.
+
 1990—Subsec. (a). Pub. L. 101–510 substituted “subsection (b)” for “subsections (b) and (c)” in introductory provisions.
-
-#### Change of Name
-
-Committee on Armed Services of House of Representatives treated as referring to Committee on National Security of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 

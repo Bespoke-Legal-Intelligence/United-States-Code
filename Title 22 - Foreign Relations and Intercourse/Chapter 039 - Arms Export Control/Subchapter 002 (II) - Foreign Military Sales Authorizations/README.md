@@ -1,5 +1,9 @@
 ### SUBCHAPTER II—FOREIGN MILITARY SALES AUTHORIZATIONS
 
+#### Subchapter Referred to in Other Sections
+
+This subchapter is referred to in section 2415 of this title.
+
 
 ---
 
@@ -13,4 +17,4 @@
 - [&sect; 02766 - Security assistance surveys](%C2%A7%2002766%20-%20Security%20assistance%20surveys.md)
 - [&sect; 02767 - Authority of President to enter into cooperative projects with friendly foreign countries](%C2%A7%2002767%20-%20Authority%20of%20President%20to%20enter%20into%20cooperative%20projects%20with%20friendly%20foreign%20countries.md)
 - [&sect; 02767a - Repealed. Pub. L. 101&#8211;189, div. A, title IX, &sect;931(d)(2), Nov. 29, 1989, 103 Stat. 1535](%C2%A7%2002767a%20-%20Repealed.%20Pub.%20L.%20101%E2%80%93189%2C%20div.%20A%2C%20title%20IX%2C%20%C2%A7931%28d%29%282%29%2C%20Nov.%2029%2C%201989%2C%20103%20Stat.%201535.md)
-- [&sect; 02768 - Reports on price and availability estimates](%C2%A7%2002768%20-%20Reports%20on%20price%20and%20availability%20estimates.md)
+- [&sect; 02768 - Repealed. Pub. L. 104&#8211;106, div. A, title X, &sect;1064(a), Feb. 10, 1996, 110 Stat. 445](%C2%A7%2002768%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93106%2C%20div.%20A%2C%20title%20X%2C%20%C2%A71064%28a%29%2C%20Feb.%2010%2C%201996%2C%20110%20Stat.%20445.md)

@@ -24,7 +24,7 @@ Not later than January 1 of each year, the Secretary of Transportation shall sub
 
 &emsp;&emsp;(C) the nature of emerging safety problems;
 
-&emsp;(9) a schedule showing the number of civil penalty cases closed during the 2 prior fiscal years, including the total initial and final penalties imposed, the total number of dollars collected, the range of dollar amounts collected, the average case processing time, and the range of case processing time;
+&emsp;(9) a schedule showing the number of civil penalty cases closed during the 2 prior fiscalyears, including the total initial and final penalties imposed, the total number of dollars collected, the range of dollar amounts collected, the average case processing time, and the range of case processing time;
 
 &emsp;(10) a schedule showing the number of enforcement actions taken (except civil penalties) during the 2 prior fiscal years, including the total number of violations cited, and the number of cited violation cases closed by certificate suspensions, certificate revocations, warnings, and no action taken; and
 
@@ -40,7 +40,9 @@ Not later than January 1 of each year, the Secretary of Transportation shall sub
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -65,4 +67,8 @@ In clause (8), before subclause (A), the words “ ‘best proxies’ standing 
 In clause (9), the words “penalties imposed” are substituted for “assessments” for consistency in the revised title and with other titles of the United States Code.
 
 In clause (11)(C), the words “aviation regulations” are substituted for “Federal Aviation Regulations” for consistency in the revised title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 46301, 46316 of this title.
 

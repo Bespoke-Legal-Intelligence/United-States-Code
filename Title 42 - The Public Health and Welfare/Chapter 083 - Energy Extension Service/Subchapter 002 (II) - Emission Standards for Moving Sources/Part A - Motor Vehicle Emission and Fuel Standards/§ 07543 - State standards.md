@@ -48,7 +48,7 @@ Nothing in this part shall preclude or deny to any State or political subdivisio
 
 &emsp;&emsp;(iii) California standards and accompanying enforcement procedures are not consistent with this section.
 
-&emsp;(B) Any State other than California which has plan provisions approved under part D ofsubchapter I of this chapter may adopt and enforce, after notice to the Administrator, for any period, standards relating to control of emissions from nonroad vehicles or engines (other than those referred to in subparagraph (A) or (B) of paragraph (1)) and take such other actions as are referred to in subparagraph (A) of this paragraph respecting such vehicles or engines if—
+&emsp;(B) Any State other than California which has plan provisions approved under part D of subchapter I of this chapter may adopt and enforce, after notice to the Administrator, for any period, standards relating to control of emissions from nonroad vehicles or engines (other than those referred to in subparagraph (A) or (B) of paragraph (1)) and take such other actions as are referred to in subparagraph (A) of this paragraph respecting such vehicles or engines if—
 
 &emsp;&emsp;(i) such standards and implementation and enforcement are identical, for the period concerned, to the California standards authorized by the Administrator under subparagraph (A), and
 

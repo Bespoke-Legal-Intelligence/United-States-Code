@@ -22,7 +22,7 @@ With respect to the prevention, control, and elimination of tuberculosis, the Se
 
 #### (c) Cooperation with providers of primary health services
 
-The Secretary may make a grant under subsection (a) or (b) of this section only if the applicant for the grant agrees that, in carrying out activities under the grant, the applicant will cooperate with public and nonprofit private providers of primary health services or substance abuse services, including entities receiving assistance under section 254b, 254c, 256, or 256a of this title or under subchapter III–A or XVII of this chapter.
+The Secretary may make a grant under subsection (a) or (b) of this section only if the applicant for the grant agrees that, in carrying out activities under the grant, the applicant will cooperate with public and nonprofit private providers of primary health services or substance abuse services, including entities receiving assistance under section 254b, 254c, 256, or 256a of this title <sup>1</sup> or under subchapter III–A or XVII of this chapter.
 
 #### (d) Application for grant
 
@@ -86,6 +86,12 @@ The Secretary may make a grant under subsection (a) or (b) of this section only 
 
 (July 1, 1944, ch. 373, title III, §317E, as added Dec. 14, 1993, Pub. L. 103–183, title III, §301(a), 107 Stat. 2233.)
 
+#### References in Text
+
+Sections 254b and 254c of this title, referred to in subsec. (c), were in the original references to sections 329 and 330, meaning sections 329 and 330 of act July 1, 1944, which were omitted in the general amendment of subpart I (§254b et seq.) of part D of this subchapter by Pub. L. 104–299, §2, Oct. 11, 1996, 110 Stat. 3626. Sections 2 and 3(a) of Pub. L. 104–299 enacted new sections 330 and 330A of act July 1, 1944, which are classified, respectively, to sections 254b and 254c of this title.
+
+Sections 256 and 256a of this title, referred to in subsec. (c), were repealed by Pub. L. 104–299, §4(a)(3), Oct. 11, 1996, 110 Stat. 3645.
+
 #### Termination of Advisory Councils
 
 Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
@@ -95,4 +101,6 @@ Pub. L. 93–641, §6, Jan. 4, 1975, 88 Stat. 2275, set out as a note under sect
 #### Section Referred to in Other Sections
 
 This section is referred to in section 256d of this title.
+
+<i><sup>1</sup></i><i> See References in Text notes below.</i>
 

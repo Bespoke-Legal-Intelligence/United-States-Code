@@ -28,7 +28,7 @@ Except as provided in subsection (d) of this section, decisions of the Board und
 
 (1) If the Board finds that the grievance is meritorious and that remedial action should be taken that relates directly to promotion, tenure or assignment of the grievant or to other remedial action not otherwise provided for in this section, or if the Board finds that the evidence before it warrants disciplinary action against any employee of the Department or member of the Service, it shall make an appropriate recommendation to the Secretary. The Secretary shall make a written decision on the recommendation of the Board within 30 days after receiving the recommendation. The Secretary shall implement the recommendation of the Board except to the extent that, in a decision made within that 30-day period, the Secretary rejects the recommendation in whole or in part on the basis of a determination that implementation of the recommendation would be contrary to law or would adversely affect the foreign policy or national security of the United States. If the Secretary rejects the recommendation in whole or in part, the decision shall specify the reasons for such action. Pending the decision of the Secretary, there shall be no ex parte communication concerning the grievance between the Secretary and any person involved in the proceedings of the Board. The Secretary shall, however, have access to the entire record of the proceedings of the Board.
 
-(2) A recommendation under paragraph (1) shall, for purposes of section 4140 of this title, be considered a final action upon the expiration of the 30-day period referred to in such paragraph, except to the extent that it is rejected by the Secretary by an appropriate written decision.
+(2) A recommendation under paragraph (1) shall, for purposes of section 4140 of this title, beconsidered a final action upon the expiration of the 30-day period referred to in such paragraph, except to the extent that it is rejected by the Secretary by an appropriate written decision.
 
 (3)(A) If the Secretary makes a written decision under paragraph (1) rejecting a recommendation in whole or in part on the basis of a determination that implementing such recommendation would be contrary to law, the Secretary shall, within the 30-day period referred to in such paragraph—
 
@@ -54,7 +54,7 @@ Except as provided in subsection (d) of this section, decisions of the Board und
 
 #### (f) Alleged discrimination; substantive law to be applied
 
-The Board shall, with respect to any grievance based on an alleged violation of a law, rule, regulation, or policy directive referred to in section 4131(a)(1)(H) of this title, apply the substantive law that would be applied by the Equal Employment Opportunity Commission if a charge or claim alleging discrimination under such law, rule, regulation, or policy directive had been filed with the commission.<sup>2</sup>
+The Board shall, with respect to any grievance based on an alleged violation of a law, rule, regulation, or policy directive referred to in section 4131(a)(1)(H) of this title, apply the substantive law that would be applied by the Equal Employment Opportunity Commission if a charge or claim alleging discrimination under such law, rule, regulation, or policy directive had been filed with the commission.<sup>1</sup>
 
 (Pub. L. 96–465, title I, §1107, Oct. 17, 1980, 94 Stat. 2146; Pub. L. 100–204, title I, §§181(a), (b), 182, Dec. 22, 1987, 101 Stat. 1363, 1364; Pub. L. 102–138, title I, §153(c), Oct. 28, 1991, 105 Stat. 673.)
 
@@ -79,6 +79,4 @@ Amendment by Pub. L. 100–204 not applicable with respect to any grievance in w
 This section is referred to in sections 3946, 4010 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be capitalized.</i>
 

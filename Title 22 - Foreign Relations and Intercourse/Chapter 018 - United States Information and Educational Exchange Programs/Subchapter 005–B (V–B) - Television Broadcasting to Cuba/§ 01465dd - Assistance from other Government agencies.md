@@ -4,6 +4,10 @@ In order to assist the United States Information Agency in carrying out the prov
 
 (Pub. L. 101–246, title II, §246, Feb. 16, 1990, 104 Stat. 62.)
 
+#### Repeal of Section
+
+<i>Section repealed upon transmittal of determination by President under section 6063(c)(3) of this title that democratically elected government in Cuba is in power, see section 6037(c) of this title.</i>
+
 #### Codification
 
 Section was enacted as part of the Television Broadcasting to Cuba Act which comprises this subchapter, and not as part of the United States Information and Educational Exchange Act of 1948 which comprises this chapter.

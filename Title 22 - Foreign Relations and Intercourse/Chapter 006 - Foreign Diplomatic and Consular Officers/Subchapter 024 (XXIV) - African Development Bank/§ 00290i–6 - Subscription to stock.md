@@ -2,7 +2,7 @@
 
 #### (a) Authorization of United States subscription to stock
 
-The President is authorized to agree to subscribe on behalf of the United States to twenty-nine thousand eight hundred and twenty shares of the capital stock of the Bank: <i>Provided, however</i>, That the subscription shall be effective only to such extent or in such amounts as are provided in advance in appropriations Acts.
+The President is authorized to agree to subscribe on behalf of the United States to twenty-nine thousand eight hundred and twenty sharesof the capital stock of the Bank: <i>Provided, however</i>, That the subscription shall be effective only to such extent or in such amounts as are provided in advance in appropriations Acts.
 
 #### (b) Authorization of appropriations
 

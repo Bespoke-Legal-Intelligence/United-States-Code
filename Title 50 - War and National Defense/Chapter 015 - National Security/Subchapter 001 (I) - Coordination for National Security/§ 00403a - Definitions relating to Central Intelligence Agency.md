@@ -30,7 +30,7 @@ Act June 20, 1949, §9, formerly §11, 63 Stat. 212; renumbered §9, July 7, 195
 
 #### Act Referred to in Other Sections
 
-The Central Intelligence Agency Act of 1949 is referred to in title 5 sections 2305, 5373.
+The Central Intelligence Agency Act of 1949 is referred to in title 5 sections 2305, 5373; title 10 section 444.
 
 #### Section Referred to in Other Sections
 

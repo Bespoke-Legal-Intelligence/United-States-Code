@@ -2,7 +2,7 @@
 
 No person shall, with intent to defraud the United States, destroy, obliterate, or detach any mark, label, or notice prescribed or authorized, by this chapter or regulations thereunder, to appear on, or be affixed to, any package of tobacco products or cigarette papers or tubes, before such package is emptied.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 716; Sept. 2, 1958, Pub. L. 85–859, title II, §202, 72 Stat. 1424; Oct. 4, 1976, Pub. L. 94–455, title XIX, §1905(b)(7)(B)(i), 90 Stat. 1823.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 716; Sept. 2, 1958, Pub. L. 85–859, title II, §202, 72 Stat. 1424; Oct. 4,1976, Pub. L. 94–455, title XIX, §1905(b)(7)(B)(i), 90 Stat. 1823.)
 
 #### Amendments
 

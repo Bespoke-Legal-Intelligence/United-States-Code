@@ -1,12 +1,16 @@
 ### §1525. Protection of health-care eligibility
 
-(a) In the case of a veteran whose entitlement to pension is terminated after January 31, 1985, by reason of income from work or training, the veteran shall retain for a period of three years beginning on the date of such termination all eligibility for care and services under such chapter that the veteran would have had if the veteran's entitlement to pension had not been terminated. Care and services for which such a veteran retains eligibility include, when applicable, drugs and medicines under section 1712(h) of this title and special priority with respect to such care and services under clauses (5) and (6) of section 1712(i).
+(a) In the case of a veteran whose entitlement to pension is terminated after January 31, 1985, by reason of income from work or training, the veteran shall retain for a period of three years beginning on the date of such termination all eligibility for care and services under such chapter that the veteran would have had if the veteran's entitlement to pension had not been terminated. Care and services for which such a veteran retains eligibility include, when applicable, drugs and medicines under section 1712(d) of this title.
 
-(b) For purposes of this section, the term “terminated by reason of income from work or training” means terminated as a result of the veteran's receipt of earnings from activity performed for renumeration <sup>1</sup> or with gain, but only if the veteran's annual income from sources other than such earnings would, taken alone, not result in the termination of the veteran's pension.
+(b) For purposes of this section, the term “terminated by reason of income from work or training” means terminated as a result of the veteran's receipt of earnings from activity performed for remuneration or with gain, but only if the veteran's annual income from sources other than such earnings would, taken alone, not result in the termination of the veteran's pension.
 
-(Added Pub. L. 98–543, title III, §301(a)(1), Oct. 24, 1984, 98 Stat. 2746, §525; amended Pub. L. 99–272, title XIX, §19011(d)(1), Apr. 7, 1986, 100 Stat. 378; Pub. L. 99–576, title VII, §703(b)(2), Oct. 28, 1986, 100 Stat. 3303; Pub. L. 100–687, div. B, title XIII, §1303(c), Nov. 18, 1988, 102 Stat. 4128; renumbered §1525 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–291, §2(c), May 20, 1992, 106 Stat. 178; Pub. L. 102–568, title IV, §403(a), (b)(1), Oct. 29, 1992, 106 Stat. 4337.)
+(Added Pub. L. 98–543, title III, §301(a)(1), Oct. 24, 1984, 98 Stat. 2746, §525; amended Pub. L. 99–272, title XIX, §19011(d)(1), Apr. 7, 1986, 100 Stat. 378; Pub. L. 99–576, title VII, §703(b)(2), Oct. 28, 1986, 100 Stat. 3303; Pub. L. 100–687, div. B, title XIII, §1303(c), Nov. 18, 1988, 102 Stat. 4128; renumbered §1525 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–291, §2(c), May 20, 1992, 106 Stat. 178; Pub. L. 102–568, title IV, §403(a), (b)(1), Oct. 29, 1992, 106 Stat. 4337; Pub. L. 104–262, title I, §101(e)(1), Oct. 9, 1996, 110 Stat. 3180.)
 
 #### Amendments
+
+1996—Subsec. (a). Pub. L. 104–262, §101(e)(1)(A), substituted “section 1712(d) of this title” for “section 1712(h) of this title and special priority with respect to such care and services under clauses (5) and (6) of section 1712(i)”.
+
+Subsec. (b). Pub. L. 104–262, §101(e)(1)(B), substituted “remuneration” for “renumeration”.
 
 1992—Pub. L. 102–568, §403(b)(1), substituted “Protection” for “Temporary protection” in section catchline.
 
@@ -42,7 +46,7 @@ Amendment by Pub. L. 99–272 applicable to hospital care, nursing home care, an
 
 #### Ratification of Actions of Secretary of Veterans Affairs During Lapsed Period
 
-Provision of health care and services to a veteran pursuant to this section ratified with respect to period beginning Feb. 1, 1992, and ending May 20, 1992, see section 2(e) of Pub. L. 102–291, set out as a note under section 1163 of this title.
+Provision of health care and services to a veteran pursuant to this section ratified with respect to periodbeginning Feb. 1, 1992, and ending May 20, 1992, see section 2(e) of Pub. L. 102–291, set out as a note under section 1163 of this title.
 
 #### Section Referred to in Other Sections
 

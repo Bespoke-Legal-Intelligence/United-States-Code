@@ -2,7 +2,7 @@
 
 #### (a) Authority of Secretary; interest rates; repayment date; use as security for obligations of public housing agency
 
-The Secretary may make loans or commitments to make loans to public housing agencies to help finance or refinance the development, acquisition, or operation of low-income housing projects by such agencies. Any contract for such loans and any amendment to a contract for such loans shall provide that such loans shall bear interest at a rate specified by the Secretary which shall not be less than a rate determined by the Secretary of the Treasury taking into consideration the current average market yield on outstanding marketable obligations of the United States with remaining periods to maturity comparable to the average maturities of such loans, plus one-eighth of 1 per centum. Such loans shall be secured in such manner and shall be repaid within such period not exceeding forty years, or not exceeding forty years from the date of the bonds evidencing the loan, as theSecretary may determine. The Secretary may require loans or commitments to make loans under this section to be pledged as security for obligations issued by a public housing agency in connection with a low-income housing project.
+The Secretary may make loans or commitments to make loans to public housing agencies to help finance or refinance the development, acquisition, or operation of low-income housing projects by such agencies. Any contract for such loans and any amendment to a contract for such loans shall provide that such loans shall bear interest at a rate specified by the Secretary which shall not be less than a rate determined by the Secretary of the Treasury taking into consideration the current average market yield on outstanding marketable obligations of the United States with remaining periods to maturity comparable to the average maturities of such loans, plus one-eighth of 1 per centum. Such loans shall be secured in such manner and shall be repaid within such period not exceeding forty years, or not exceeding forty years from the date of the bonds evidencing the loan, as the Secretary may determine. The Secretary may require loans or commitments to make loans under this section to be pledged as security for obligations issued by a public housing agency in connection with a low-income housing project.
 
 #### (b) Issuance of obligations by Secretary; limitation on amounts; forms and denominations; terms and conditions; purchase, establishment of maturities and rates of interest, and sale by Secretary of the Treasury
 
@@ -34,9 +34,7 @@ A prior section 4 of act Sept. 1, 1937, ch. 896, 50 Stat. 889, as amended, provi
 
 1981—Subsec. (a). Pub. L. 97–35 substituted reference to lower income for reference to low-income in two places.
 
-#### Effective Date of 1981
-
-Amendment
+#### Effective Date of 1981 Amendment
 
 Amendment by Pub. L. 97–35 effective Oct. 1, 1981, see section 371 of Pub. L. 97–35, set out as an Effective Date note under section 3701 of Title 12, Banks and Banking.
 

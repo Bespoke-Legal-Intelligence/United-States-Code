@@ -22,15 +22,9 @@
 
 (e) When this section authorizes the use of the professional services of physicians, that authorization includes the use of the professional services of surgeons and osteopathic practitioners within the scope of their practice as defined by State law.
 
-(f) The health programs conducted by the following agencies are not affected by this section—
+(f) The health programs conducted by the Tennessee Valley Authority are not affected by this section.
 
-&emsp;(1) the Tennessee Valley Authority;
-
-&emsp;(2) the Canal Zone Government; and
-
-&emsp;(3) the Panama Canal Company.
-
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 530; Pub. L. 90–83, §1(47), Sept. 11, 1967, 81 Stat. 209.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 530; Pub. L. 90–83, §1(47), Sept. 11, 1967, 81 Stat. 209; Pub. L. 104–201, div. C, title XXXV, §3548(a)(9), Sept. 23, 1996, 110 Stat. 2869.)
 
 Historical and Revision Notes<br>1966
 
@@ -40,7 +34,9 @@ Act
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 5 U.S.C. 150.
 
@@ -62,11 +58,17 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### 1967 Act
 
-This section amends 5 U.S.C. 7901 to reflect 1966 Reorganization Plan No. 3, effective June 25, 1966, 80 Stat.1610, section 1 of which transferred all functions of the Public Health Service to the Secretary of Health, Education, and Welfare.
+This section amends 5 U.S.C. 7901 to reflect 1966 Reorganization Plan No. 3, effective June 25, 1966, 80 Stat. 1610, section 1 of which transferred all functions of the Public Health Service to the Secretary of Health, Education, and Welfare.
 
-#### References in Text
+#### Amendments
 
-For definition of Canal Zone Government and Panama Canal Company, referred to in text, see section 3602(b) of Title 22, Foreign Relations and Intercourse.
+1996—Subsec. (f). Pub. L. 104–201 amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “The health programs conducted by the following agencies are not affected by this section—
+
+&emsp;“(1) the Tennessee Valley Authority;
+
+&emsp;“(2) the Canal Zone Government; and
+
+&emsp;“(3) the Panama Canal Company.”
 
 #### Change of Name
 

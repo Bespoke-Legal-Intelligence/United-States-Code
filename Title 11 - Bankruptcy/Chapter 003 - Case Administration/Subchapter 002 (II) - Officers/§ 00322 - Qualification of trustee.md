@@ -14,7 +14,7 @@
 
 (d) A proceeding on a trustee's bond may not be commenced after two years after the date on which such trustee was discharged.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2562; Pub. L. 98–353, title III, §429, July 10, 1984, 98 Stat. 369; Pub. L. 99–554, title II, §§207, 257(d), Oct. 27, 1986, 100 Stat. 3098, 3114; Pub. L. 103–394, title V, §501(d)(3), Oct. 22, 1994, 108 Stat. 4143.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2562; Pub. L. 98–353, title III, §429, July 10, 1984, 98 Stat. 369;Pub. L. 99–554, title II, §§207, 257(d), Oct. 27, 1986, 100 Stat. 3098, 3114; Pub. L. 103–394, title V, §501(d)(3), Oct. 22, 1994, 108 Stat. 4143.)
 
 #### Historical and Revision Notes
 

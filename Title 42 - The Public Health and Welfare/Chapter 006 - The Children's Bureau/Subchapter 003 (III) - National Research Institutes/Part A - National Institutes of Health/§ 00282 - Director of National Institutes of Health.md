@@ -48,7 +48,7 @@ The Director of NIH may make available to individuals and entities, for biomedic
 
 (2)(A) Except as provided in subparagraph (B), experts and consultants whose services are obtained under paragraph (1) shall be paid or reimbursed, in accordance with title 5, for their travel to and from their place of service and for other expenses associated with their assignment.
 
-(B) Expenses specified in subparagraph (A) shall not be allowed in connection with the assignment of an expert or consultant whose services are obtained under paragraph (1) unless the expert or consultant has agreed in writing to complete the entire period of the assignment or one year of the assignment, whichever is shorter, unless separated or reassigned for reasons which are beyond the control of the expert or consultant and which are acceptable to the Secretary. If the expert or consultant violates the agreement, the money spent by the United States for such expenses is recoverable from the expert or consultant as a debt due the United States. The Secretary may waive in whole or in part a right of recovery under this subparagraph.
+(B) Expenses specified in subparagraph (A) shall not be allowed in connection with the assignment of an expert or consultant whose services are obtained under paragraph (1) unless the expert or consultant has agreed in writing to complete the entire period of the assignment or one year of the assignment, whichever is shorter, unless separated or reassigned for reasonswhich are beyond the control of the expert or consultant and which are acceptable to the Secretary. If the expert or consultant violates the agreement, the money spent by the United States for such expenses is recoverable from the expert or consultant as a debt due the United States. The Secretary may waive in whole or in part a right of recovery under this subparagraph.
 
 #### (e) Dissemination of research information
 
@@ -66,7 +66,7 @@ The Director of NIH shall—
 
 #### (f) Associate Director for Prevention; functions; report to Director
 
-There shall be in the National Institutes of Health an Associate Director for Prevention.The Director of NIH shall delegate to the Associate Director for Prevention the functions of the Director relating to the promotion of the disease prevention research programs of the national research institutes and the coordination of such programs among the national research institutes and between the national research institutes and other public and private entities, including elementary, secondary, and post-secondary schools. The Associate Director shall—
+There shall be in the National Institutes of Health an Associate Director for Prevention. The Director of NIH shall delegate to the Associate Director for Prevention the functions of the Director relating to the promotion of the disease prevention research programs of the national research institutes and the coordination of such programs among the national research institutes and between the national research institutes and other public and private entities, including elementary, secondary, and post-secondary schools. The Associate Director shall—
 
 &emsp;(1) annually review the efficacy of existing policies and techniques used by the national research institutes to disseminate the results of disease prevention and behavioral research programs;
 
@@ -122,7 +122,7 @@ The Secretary, acting through the Director of NIH and the Directors of the agenc
 
 #### (k) Interagency research on trauma
 
-The Director of NIH shall carry out the program established in part F of subchapter X ofthis chapter (relating to interagency research on trauma).
+The Director of NIH shall carry out the program established in part F of subchapter X of this chapter (relating to interagency research on trauma).
 
 (July 1, 1944, ch. 373, title IV, §402, as added Nov. 20, 1985, Pub. L. 99–158, §2, 99 Stat. 823; amended Nov. 4, 1988, Pub. L. 100–607, title I, §111, 102 Stat. 3052; July 10, 1992, Pub. L. 102–321, title I, §163(b)(3), 106 Stat. 376; June 10, 1993, Pub. L. 103–43, title I, §141(b), title II, §§201, 202, 206, 208, 210(b), (c), title III, §303(b), 107 Stat. 139, 144, 148–150, 153.)
 
@@ -186,7 +186,7 @@ Section 1905 of Pub. L. 103–43 directed Secretary of Health and Human Services
 
 #### Chronic Pain Conditions
 
-Section 1907 of Pub. L. 103–43 directed Director of the National Institutes of Health to submit to Congress, not later than 2 years after June 10, 1993, a report and study on the incidence in the United States of cases of chronic pain, including chronic pain resulting from back injuries, reflex sympathetic dystrophy syndrome, temporomandibular joint disorder, post-herpetic neuropathy, painful diabetic neuropathy, phantom pain, and post-stroke pain, and the effect of such cases on the costs of health care in the United States.
+Section 1907 of Pub. L. 103–43 directed Director of the National Institutes of Health to submit to Congress,not later than 2 years after June 10, 1993, a report and study on the incidence in the United States of cases of chronic pain, including chronic pain resulting from back injuries, reflex sympathetic dystrophy syndrome, temporomandibular joint disorder, post-herpetic neuropathy, painful diabetic neuropathy, phantom pain, and post-stroke pain, and the effect of such cases on the costs of health care in the United States.
 
 #### Support for Bioengineering Research
 
@@ -194,7 +194,7 @@ Section 1912 of Pub. L. 103–43 directed Secretary of Health and Human Services
 
 #### Master Plan for Physical Infrastructure for Research
 
-Section 2002 of Pub. L. 103–43 directed Secretary of Health and Human Services, acting through Director of the National Institutes of Health, not later than June 1, 1994, to present to Congress a master plan to provide for replacement or refurbishment of less than adequatebuildings, utility equipment and distribution systems (including the resources that provide electrical and other utilities, chilled water, air handling, and other services that the Secretary, acting through the Director, deemed necessary), roads, walkways, parking areas, and grounds that underpin the laboratory and clinical facilities of the National Institutes of Health, and provided that the plan could make recommendations for the undertaking of new projects that are consistent with the objectives of this section, such as encircling the National Institutes of Health Federal enclave with an adequate chilled water conduit.
+Section 2002 of Pub. L. 103–43 directed Secretary of Health and Human Services, acting through Director of the National Institutes of Health, not later than June 1, 1994, to present to Congress a master plan to provide for replacement or refurbishment of less than adequate buildings, utility equipment and distribution systems (including the resources that provide electrical and other utilities, chilled water, air handling, and other services that the Secretary, acting through the Director, deemed necessary), roads, walkways, parking areas, and grounds that underpin the laboratory and clinical facilities of the National Institutes of Health, and provided that the plan could make recommendations for the undertaking of new projects that are consistent with the objectives of this section, such as encircling the National Institutes of Health Federal enclave with an adequate chilled water conduit.
 
 #### Section Referred to in Other Sections
 

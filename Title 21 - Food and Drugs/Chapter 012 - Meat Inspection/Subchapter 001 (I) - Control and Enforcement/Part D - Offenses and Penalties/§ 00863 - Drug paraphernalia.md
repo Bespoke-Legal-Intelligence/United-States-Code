@@ -12,7 +12,7 @@ It is unlawful for any person—
 
 #### (b) Penalties
 
-Anyone convicted of an offense under subsection (a) of this section shall be imprisoned fornot more than three years and fined under title 18.
+Anyone convicted of an offense under subsection (a) of this section shall be imprisoned for not more than three years and fined under title 18.
 
 #### (c) Seizure and forfeiture
 
@@ -104,5 +104,5 @@ Subsec. (f)(2) \[formerly §857(f)(2)\]. Pub. L. 100–690, §6485(2), substitut
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 881 of this title; title 18 section 1956.
+This section is referred to in section 881 of this title; title 18 sections 1956, 3663.
 

@@ -2,21 +2,23 @@
 
 (a) Except as specifically authorized by statute, an authorization in a statute or regulation to transport the effects of an employee or other individual at Government expense is not an authorization to transport an automobile.
 
-(b) Under such regulations as the President may prescribe, the privately owned motor vehicle of an employee, including a new appointee and a student trainee to the extent authorized by sections 5722 and 5723 of this title, may be transported at Government expense to, from, and between the continental United States and a post of duty outside the continental United States, or between posts of duty outside the continental United States, when—
+(b) Under regulations prescribed under section 5738 of this title, the privately owned motor vehicle of an employee, including a new appointee and a student trainee to the extent authorized by sections 5722 and 5723 of this title, may be transported at Government expense to, from, and between the continental United States and a post of duty outside the continental United States, or between posts of duty outside the continental United States, when—
 
 &emsp;(1) the employee is assigned to the post of duty for other than temporary duty; and
 
 &emsp;(2) the head of the agency concerned determines that it is in the interest of the Government for the employee to have the use of a motor vehicle at the post of duty.
 
-(c) An employee may transport only one motor vehicle under subsection (b) of this section during a 4-year period, except when the head of the agency concerned determines that replacement of the motor vehicle during the period is necessary for reasons beyond the control of the employee and is in the interest of the Government, and authorizes in advance the transportation under subsection (b) of this section of one additional privately owned motor vehicle as a replacement. When an employee has remained in continuous service outside the United States during the 4-year period after the date of transportation under subsection (b) of this section of his motor vehicle, the head of the agency concerned may authorize transportation under subsection (b) of this section of a replacement for that motor vehicle.
+(c) Under regulations prescribed under section 5738 of this title, the privately owned motor vehicle or vehicles of an employee, including a newappointee or a student trainee for whom travel and transportation expenses are authorized under section 5723 of this title, may be transported at Government expense to a new official station of the employee when the agency determines that such transport is advantageous and cost-effective to the Government.
 
-(d) When the head of an agency authorizes transportation under subsection (b) of this section of a privately owned motor vehicle, the transportation may be by—
+(d) An employee may transport only one motor vehicle under subsection (b) of this section during a 4-year period, except when the head of the agency concerned determines that replacement of the motor vehicle during the period is necessary for reasons beyond the control of the employee and is in the interest of the Government, and authorizes in advance the transportation under subsection (b) of this section of one additional privately owned motor vehicle as a replacement. When an employee has remained in continuous service outside the United States during the 4-year period after the date of transportation under subsection (b) of this section of his motor vehicle, the head of the agency concerned may authorize transportation under subsection (b) of this section of a replacement for that motor vehicle.
+
+(e) When the head of an agency authorizes transportation under subsection (b) or (c) of this section of a privately owned motor vehicle, the transportation may be by—
 
 &emsp;(1) commercial means, if available at reasonable rates and under reasonable conditions; or
 
 &emsp;(2) Government means on a space-available basis.
 
-(e)(1) This section, except subsection (a), does not apply to—
+(f)(1) This section, except subsection (a), does not apply to—
 
 &emsp;(A) the Foreign Service of the United States; or
 
@@ -24,7 +26,7 @@
 
 (2) This section, except subsection (a), does not affect section 403e(4) of title 50.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 504; Pub. L. 96–465, title II, §2314(e), Oct. 17, 1980, 94 Stat. 2168.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 504; Pub. L. 96–465, title II, §2314(e), Oct. 17, 1980, 94 Stat. 2168; Pub. L. 104–201, div. A, title XVII, §§1715(a), 1723(b)(1), Sept. 23, 1996, 110 Stat. 2755, 2759.)
 
 Historical and Revision Notes
 
@@ -32,7 +34,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 (a)
 
@@ -62,17 +66,29 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-<b>1980</b>—Subsec. (e)(2). Pub. L. 96–465 substituted “section 403e(4) of title 50” for “(A) section 1138 of title 22; or” and struck out “(B) section 403e(4) of title 50”.
+1996—Subsec. (b). Pub. L. 104–201, §1723(b)(1), in introductory provisions, substituted “Under regulations prescribed under section 5738 of this title” for “Under such regulations as the President may prescribe”.
+
+Subsec. (c). Pub. L. 104–201, §1715(a)(2), added subsec. (c). Former subsec. (c) redesignated (d).
+
+Subsec. (d). Pub. L. 104–201, §1715(a)(1), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
+
+Subsec. (e). Pub. L. 104–201, §1715(a)(3), inserted “or (c)” after “subsection (b)”.
+
+Pub. L. 104–201, §1715(a)(1), redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
+
+Subsec. (f). Pub. L. 104–201, §1715(a)(1), redesignated subsec. (e) as (f).
+
+1980—Subsec. (e)(2). Pub. L. 96–465 substituted “section 403e(4) of title 50” for “(A) section 1138 of title 22; or” and struck out “(B) section 403e(4) of title 50”.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–201 effective 180 days after Sept. 23, 1996, see section 1725(a) of Pub. L. 104–201, set out as a note under section 5722 of this title.
 
 #### Effective Date of 1980 Amendment
 
 Amendment by Pub. L. 96–465 effective Feb. 15, 1981, except as otherwise provided, see section 2403 of Pub. L. 96–465, set out as an Effective Date note under section 3901 of Title 22, Foreign Relations and Intercourse.
 
-#### Delegation of Functions
-
-Authority of President under this section to prescribe regulations provided for in this section relating to transportation at Government expense of privately owned motor vehicles delegated to Administrator of General Services, see section 1(9) of Ex. Ord. No. 11609, July 22, 1971, 36 F.R. 13747, set out as a note under section 301 of Title 3, The President.
-
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 5724, 5724a of this title; title 26 section 912.
+This section is referred to in sections 5722, 5723, 5724, 5724a, 5737 of this title; title 26 section 912.
 

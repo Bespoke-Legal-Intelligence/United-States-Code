@@ -10,7 +10,7 @@ If any such violation shall continue for six calendar months after the member ba
 
 #### References in Text
 
-The National Bank Act, referred to in text, is act June 3, 1864, ch. 106, 13 Stat. 99, as amended, which is classified principally to chapter 2 (§21 et seq.) of this title. For complete classification of this Act to the Code, see References in Text note set out under section 38 of this title.
+The National Bank Act, referred to in text, is act June 3, 1864, ch. 106, 13 Stat. 99, as amended, which isclassified principally to chapter 2 (§21 et seq.) of this title. For complete classification of this Act to the Code, see References in Text note set out under section 38 of this title.
 
 Subchapter VIII of this chapter, referred to in text, was in the original “section 9 of the Federal Reserve Act, as amended (U.S.C., title 12, secs. 321–332)”, meaning section 9 of act Dec. 23, 1913, ch. 6, 38 Stat. 251, as amended, which is classified generally to subchapter VIII (§321 et seq.) of this chapter.
 

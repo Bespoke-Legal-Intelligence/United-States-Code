@@ -30,7 +30,7 @@ Pub. L. 97–35, title XI, §1144(a)(2)–(4), Aug. 13, 1981, 95 Stat. 669, prov
 
 &emsp;“(B) any dispute or controversy regarding such benefits shall be determined under the terms of the law in effect on the date the claim arose.
 
-“(3) Benefits shall not be disbursed under paragraph (2)(A) unless the employee has filed a claim for suchbenefits within 90 days after the date of repeal; except that, with respect to a claim which is the subject of or is based upon any arbitration decision issued after the date of repeal, such 90-day period shall not commence until such arbitration decision is issued to the employee and the employee's representative; and no benefits shall be disbursed unless appropriations for such purposes are or become available.
+“(3) Benefits shall not be disbursed under paragraph (2)(A) unless the employee has filed a claim for such benefits within 90 days after the date of repeal; except that, with respect to a claim which is the subject of or is based upon any arbitration decision issued after the date of repeal, such 90-day period shall not commence until such arbitration decision is issued to the employee and the employee's representative; and no benefits shall be disbursed unless appropriations for such purposes are or become available.
 
 “(4) The provisions of this subsection shall take effect on the first day of the first month beginning after the date of enactment of this subtitle \[Aug. 13, 1981\].”
 
@@ -40,5 +40,5 @@ Pub. L. 96–448, title V, §507, Oct. 14, 1980, 94 Stat. 1956, provided that no
 
 #### Conrail Employee Protection
 
-Pub. L. 96–254, title II, §214, May 30, 1980, 94 Stat. 417, provided that the Consolidated Railroad Corporation make payments in accordance with this subchapter, and the United States Railway Association not, as a result of such payments, withhold any funds from the Corporation, and that this provision take effect as of Mar. 1, 1980, and remain in effect until the expiration of the 45-day period beginning on May 30, 1980, and after the expiration of such 45-day period, payments by the Consolidated Rail Corporation under this subchapter and funding of the Corporation by the United States Railway Association be governed by applicable law.
+Pub. L. 96–254, title II, §214, May 30, 1980, 94 Stat. 417, provided that the Consolidated Railroad Corporationmake payments in accordance with this subchapter, and the United States Railway Association not, as a result of such payments, withhold any funds from the Corporation, and that this provision take effect as of Mar. 1, 1980, and remain in effect until the expiration of the 45-day period beginning on May 30, 1980, and after the expiration of such 45-day period, payments by the Consolidated Rail Corporation under this subchapter and funding of the Corporation by the United States Railway Association be governed by applicable law.
 

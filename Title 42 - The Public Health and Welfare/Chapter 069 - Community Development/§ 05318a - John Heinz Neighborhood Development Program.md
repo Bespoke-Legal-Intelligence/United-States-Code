@@ -40,7 +40,7 @@ For the purposes of this section:
 
 &emsp;(3) The term “neighborhood development funding organization” means—
 
-&emsp;&emsp;(A) a depository institution the accounts of which are insured pursuant to the Federal Deposit Insurance Act \[12 U.S.C. 1811 et seq.\] or the Federal Credit Union Act \[12 U.S.C. 1751 et seq.\], and any subsidiary (as such term is defined in section 3(w) of the Federal Deposit Insurance Act \[12 U.S.C. 1813(w)\]) thereof;
+&emsp;&emsp;(A) a depository institution the accounts of which are insured pursuant to the Federal Deposit Insurance Act \[12 U.S.C. 1811 et seq.\] or the Federal Credit Union Act \[12 U.S.C. 1751 et seq.\], and any subsidiary (as suchterm is defined in section 3(w) of the Federal Deposit Insurance Act \[12 U.S.C. 1813(w)\]) thereof;
 
 &emsp;&emsp;(B) a depository institution holding company and any subsidiary thereof (as such term is defined in section 3(w) of the Federal Deposit Insurance Act \[12 U.S.C. 1813(w)\]); or
 
@@ -90,11 +90,11 @@ The Secretary shall consult with an informal working group representative of eli
 
 #### (e) Matching funds for participating organizations
 
-(1) The Secretary shall assign each participating organization a defined program year, duringwhich time voluntary contributions from individuals, businesses, and nonprofit or other organizations in the neighborhood, and from neighborhood development funding organizations, shall be eligible for matching.
+(1) The Secretary shall assign each participating organization a defined program year, during which time voluntary contributions from individuals, businesses, and nonprofit or other organizations in the neighborhood, and from neighborhood development funding organizations, shall be eligible for matching.
 
 (2) Subject to paragraph (3), at the end of each three-month period occurring during the program year, the Secretary shall pay to each participating neighborhood development organization the product of—
 
-&emsp;(A) the aggregate amount of voluntary contributions that such organization certifies to the satisfaction of the Secretary it received during such three-month period; and
+&emsp;(A) the aggregate amount of voluntary contributions that such organization certifies tothe satisfaction of the Secretary it received during such three-month period; and
 
 &emsp;(B) the matching ratio established for such test neighborhoods under paragraph (4).
 

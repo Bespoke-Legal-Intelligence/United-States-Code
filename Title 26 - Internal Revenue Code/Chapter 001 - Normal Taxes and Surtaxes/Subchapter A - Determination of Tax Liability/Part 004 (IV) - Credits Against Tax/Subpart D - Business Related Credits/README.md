@@ -18,10 +18,13 @@ Subpart D—Business Related Credits
 | [45\.](%C2%A7%2000045%20-%20Electricity%20produced%20from%20certain%20renewable%20resources.md) | Electricity produced from certain renewable resources. |
 | [45A.](%C2%A7%2000045A%20-%20Indian%20employment%20credit.md) | Indian employment credit. |
 | [45B.](%C2%A7%2000045B%20-%20Credit%20for%20portion%20of%20employer%20social%20security%20taxes%20paid%20with%20respect%20to%20employee%20cash%20tips.md) | Credit for portion of employer social security taxes paid with respect to employee cash tips. |
+| [45C.](%C2%A7%2000045C%20-%20Clinical%20testing%20expenses%20for%20certain%20drugs%20for%20rare%20diseases%20or%20conditions.md) | Clinical testing expenses for certain drugs for rare diseases or conditions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1996—Pub. L. 104–188, title I, §1205(a)(3)(B), Aug. 20, 1996, 110 Stat. 1775, added item 45C.
 
 1993—Pub. L. 103–66, title XIII, §§13322(e), 13443(c), Aug. 10, 1993, 107 Stat. 563, 569, added items 45A and 45B.
 
@@ -58,7 +61,8 @@ This subpart is referred to in sections 42, 49, 50, 53, 469, 6401 of this title.
 - [&sect; 00044E - Renumbered &sect;40](%C2%A7%2000044E%20-%20Renumbered%20%C2%A740.md)
 - [&sect; 00044F - Renumbered &sect;30](%C2%A7%2000044F%20-%20Renumbered%20%C2%A730.md)
 - [&sect; 00044G - Renumbered &sect;41](%C2%A7%2000044G%20-%20Renumbered%20%C2%A741.md)
-- [&sect; 00044H - Renumbered &sect;28](%C2%A7%2000044H%20-%20Renumbered%20%C2%A728.md)
+- [&sect; 00044H - Renumbered &sect;45C](%C2%A7%2000044H%20-%20Renumbered%20%C2%A745C.md)
 - [&sect; 00045 - Electricity produced from certain renewable resources](%C2%A7%2000045%20-%20Electricity%20produced%20from%20certain%20renewable%20resources.md)
 - [&sect; 00045A - Indian employment credit](%C2%A7%2000045A%20-%20Indian%20employment%20credit.md)
 - [&sect; 00045B - Credit for portion of employer social security taxes paid with respect to employee cash tips](%C2%A7%2000045B%20-%20Credit%20for%20portion%20of%20employer%20social%20security%20taxes%20paid%20with%20respect%20to%20employee%20cash%20tips.md)
+- [&sect; 00045C - Clinical testing expenses for certain drugs for rare diseases or conditions](%C2%A7%2000045C%20-%20Clinical%20testing%20expenses%20for%20certain%20drugs%20for%20rare%20diseases%20or%20conditions.md)

@@ -12,7 +12,7 @@
 
 &emsp;(E) that the customer shall not obtain some other credit, property, or service from a competitor of such bank, a bank holding company of such bank, or any subsidiary of such bank holding company, other than a condition or requirement that such bank shall reasonably impose in a credit transaction to assure the soundness of the credit.
 
-> The Board may by regulation or order permit such exceptions to the foregoing prohibition as it considers will not be contrary to the purposes of this chapter.
+> The Board may by regulation or order permit such exceptions to the foregoing prohibition andthe prohibitions of section 1843(f)(9) and 1843(h)(2) of this title as it considers will not be contrary to the purposes of this chapter.
 
 (2)(A) No bank which maintains a correspondent account in the name of another bank shall make an extension of credit to an executive officer or director of, or to any person who directly or indirectly or acting through or in concert with one or more persons owns, controls, or has the power to vote more than 10 per centum of any class of voting securities of, such other bank or to any related interest of such person unless such extension of credit is made on substantially the same terms, including interest rates and collateral as those prevailing at the time for comparable transactions with other persons and does not involve more than the normal risk of repayment or present other unfavorable features.
 
@@ -30,7 +30,7 @@ Civil money penalty.—
 
 &emsp;(i)
 
-First tier.—Any bank which, and any institution-affiliated party (within the meaningof section 1813(u) of this title) with respect to such bank who, violates any provision of this paragraph shall forfeit and pay a civil penalty of not more than $5,000 for each day during which such violation continues.
+First tier.—Any bank which, and any institution-affiliated party (within the meaning of section 1813(u) of this title) with respect to such bank who, violates any provision of this paragraph shall forfeit and pay a civil penalty of not more than $5,000 for each day during which such violation continues.
 
 &emsp;(ii)
 
@@ -132,9 +132,11 @@ Regulations.—The Comptroller of the Currency, the Board, and the Federal Depos
 
 Notice Under This Section After Separation From Service.—The resignation, termination of employment or participation, or separation of an institution-affiliated party (within the meaning of section 1813(u) of this title) with respect to such a bank (including a separation caused by the closing of such a bank) shall not affect the jurisdiction and authority of the appropriate Federal banking agency to issue any notice and proceed under this section against any such party, if such notice is served before the end of the 6-year period beginning on the date such party ceased to be such a party with respect to such bank (whether such date occurs before, on, or after August 9, 1989).
 
-(Pub. L. 91–607, title I, §106(b), Dec. 31, 1970, 84 Stat. 1766; Pub. L. 95–630, title VIII, §801, Nov. 10, 1978, 92 Stat. 3690; Pub. L. 97–320, title IV, §§410(f), 424(c), (d)(11), (e), 428, Oct. 15, 1982, 96 Stat. 1520, 1523, 1526; Pub. L. 101–73, title IX, §§905(h), 907(i), Aug. 9, 1989, 103 Stat. 461, 473; Pub. L. 102–242, title III, §306(j), Dec. 19, 1991, 105 Stat. 2359.)
+(Pub. L. 91–607, title I, §106(b), Dec. 31, 1970, 84 Stat. 1766; Pub. L. 95–630, title VIII, §801, Nov. 10, 1978, 92 Stat. 3690; Pub. L. 97–320, title IV, §§410(f), 424(c), (d)(11), (e), 428, Oct. 15, 1982, 96 Stat. 1520, 1523, 1526; Pub. L. 101–73, title IX, §§905(h), 907(i), Aug. 9, 1989, 103 Stat. 461, 473; Pub. L. 102–242, title III, §306(j), Dec. 19, 1991, 105 Stat. 2359; Pub. L. 104–208, div. A, title II, §2216(a), Sept. 30, 1996, 110 Stat. 3009–413.)
 
 #### Amendments
+
+1996—Par. (1). Pub. L. 104–208, in concluding provisions, inserted “and the prohibitions of section 1843(f)(9) and 1843(h)(2) of this title” after “prohibition”.
 
 1991—Par. (2)(H)(i). Pub. L. 102–242 inserted before semicolon at end “, a savings bank, and a savings association (as those terms are defined in section 1813 of this title)”.
 
@@ -146,7 +148,7 @@ Par. (2)(I). Pub. L. 101–73, §905(h), added subpar. (I).
 
 Par. (2)(E). Pub. L. 97–320, §410(f), substituted “the meaning prescribed by the Board pursuant to section 375b of this title” for “the same meaning given it in section 371c of this title”.
 
-Par. (2)(F)(i). Pub. L. 97–320, §424(c), (d)(11), inserted proviso giving agency discretionary authority to compromise, etc., any civil money penalty imposed under such authority, and substituted “may be assessed” for “shall be assessed”.
+Par. (2)(F)(i). Pub. L. 97–320, §424(c), (d)(11), inserted proviso giving agency discretionary authority to compromise, etc., any civil money penalty imposed undersuch authority, and substituted “may be assessed” for “shall be assessed”.
 
 Par. (2)(F)(iv). Pub. L. 97–320, §424(e), substituted “twenty days from the service” for “ten days from the date”.
 
@@ -176,5 +178,5 @@ Amendment by Pub. L. 95–630 effective on expiration of 120 days after Nov. 10,
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1973, 1974, 1975, 1976 of this title.
+This section is referred to in sections 1464, 1973, 1974, 1975, 1976 of this title.
 

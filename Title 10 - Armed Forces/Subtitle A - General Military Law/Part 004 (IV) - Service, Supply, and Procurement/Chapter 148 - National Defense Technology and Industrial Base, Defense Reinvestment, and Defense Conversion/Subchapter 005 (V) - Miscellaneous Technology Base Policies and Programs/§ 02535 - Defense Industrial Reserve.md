@@ -30,7 +30,7 @@ Powers and Duties of the Secretary of Defense.—(1) To execute the policy set f
 
 &emsp;(iii) overhead allocated to such property.
 
-(B) The Secretary of Defense shall prescribe regulations establishing general policies and fee schedules for reimbursements under subparagraph (A).
+(B) The Secretary of Defense shall prescribe regulations establishing general policies and feeschedules for reimbursements under subparagraph (A).
 
 (c)
 
@@ -73,8 +73,4 @@ Subsec. (c). Pub. L. 102–484, §4235(b), transferred the text of section 452 o
 #### Treatment of Property Loaned Before December 31, 1993 to Educational Institutions or Training Schools
 
 Section 379(b) of Pub. L. 103–337 provided that: “Except for property determined by the Secretary of Defense to be needed by the Department of Defense, property loaned before December 31, 1993, to an educational institution or training school under section 2535(b) of title 10, United States Code, or section 4(a)(7) of the Defense Industrial Reserve Act (as in effect before October 23, 1992 \[former section 453(a)(7) of Title 50, War and National Defense, see Codification and 1992 Amendment notes above\]) shall be regarded as surplus property. Upon certification by the Secretary to the Administrator of General Services that the property is being used by the borrowing educational institution or training school for a purpose consistent with that for which the property was loaned, the Administrator may authorize the conveyance of all right, title, and interest of the United States in such property to the borrower if the borrower agrees to accept the property. The Administrator may require any additional terms and conditions in connection with a conveyance so authorized that the Administrator considers appropriate to protect the interests of the United States.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2506 of this title.
 

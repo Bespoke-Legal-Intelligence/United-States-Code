@@ -8,7 +8,7 @@ The President may award grants to, and enter into contracts with, organizations 
 
 #### (1) General requirements
 
-&emsp;To be eligible to receive a grant or enter into a contract under subsection (a) of this section with respect to a program, an organization shall submit an application to the President at such time, in such manner, and containing such information as the President may require.
+&emsp;To be eligible to receive a grant or enter into a contract under subsection (a) of this section with respect to a program, an organization shall submit an application to the President at such time, in such manner, andcontaining such information as the President may require.
 
 #### (2) Contents
 

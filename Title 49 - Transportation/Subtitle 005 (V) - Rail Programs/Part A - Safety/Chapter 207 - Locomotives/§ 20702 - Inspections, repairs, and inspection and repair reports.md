@@ -32,13 +32,15 @@ Reports.—A railroad carrier shall make and keep, in the way the Secretary pres
 
 (d)
 
-Changes in Inspection Procedures.—A railroad carrier may change a rule or instruction of the carrier governing the inspection by the carrier of the locomotives and tenders andlocomotive and tender parts and appurtenances of the carrier when the Secretary approves a request filed by the carrier to make the change.
+Changes in Inspection Procedures.—A railroad carrier may change a rule or instruction of the carrier governing the inspection by the carrier of the locomotives and tenders and locomotive and tender parts and appurtenances of the carrier when the Secretary approves a request filed by the carrier to make the change.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 885.)
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -92,7 +94,7 @@ Feb. 17, 1911, ch. 103, §5, 36 Stat. 914; Apr. 22, 1940, ch. 124, §1(1)–(3) 
 
 49 App.:1655(e) (1)(E)–(G).
 
-In this section, the words “locomotive and tender and its parts and appurtenances” and “locomotive, tender, or locomotive or tender part or appurtenance” are substituted for “locomotive boiler” and “boiler or boilers or apparatus pertaining thereto” in 45:29 and “the provision of sections 22 to 29 . . . of this title as to the equipment of locomotives shall apply to and include the entire locomotive and tender and all their parts with the same force and effect as it applies to locomotive boilers and their appurtenances” in 45:30 for clarity and because of the restatement.
+In this section, the words “locomotive and tender and its parts and appurtenances” and “locomotive, tender, or locomotive or tender part or appurtenance” are substituted for “locomotive boiler” and “boiler or boilers or apparatus pertaining thereto” in 45:29 and “the provision of sections 22 to 29 . . . of this title as to the equipment of locomotives shall apply to and includethe entire locomotive and tender and all their parts with the same force and effect as it applies to locomotive boilers and their appurtenances” in 45:30 for clarity and because of the restatement.
 
 In subsection (a), before clause (1), the word “shall” is substituted for “It shall be the duty of”, “shall”, and “His first duty shall be” in 45:29 and “shall . . . and shall have the same powers and duties with respect to all the parts and appurtenances of the locomotive and tender that they have with respect to the boiler of a locomotive and the appurtenances thereof” in 45:30 for clarity and to eliminate unnecessary words. In clause (1), the words “ordinarily housed or repaired in his district, and if any locomotive is ordinarily housed or repaired in two or more districts, then the director of locomotive inspection or an assistant shall make such division between inspectors as will avoid the necessity for duplication of work” in 45:29 are omitted as obsolete because of Reorganization Plan No. 3 of 1965 (eff. July 27, 1965, 79 Stat. 1320) and 49 App.:1655(e)(1)(E)–(G). In clause (2), the words “inspect . . . as necessary to carry out” are substituted for “make such personal inspection . . . from time to time as may be necessary to fully carry out the provisions of” in 45:29 and “inspect” in 45:30 to eliminate unnecessary words. The words “under his care” and “as may be consistent with his other duties” in 45:29 are omitted as obsolete because of Reorganization Plan No. 3 of 1965 (eff. July 27, 1965, 79 Stat. 1320) and 49 App.:1655(e)(1)(E)–(G). The words “but not necessarily” are substituted for “but he shall not be required to make such inspections” in 45:29 to eliminate unnecessary words. In clause (3), the words “inspections of locomotives and tenders and their parts and appurtenances as required by regulations prescribed by the Secretary” are substituted for “inspections in accordance with the rules and regulations established or approved by the Secretary of Transportation” in 45:29 and “the provision of sections 22 to 29 . . . of this title as to the equipment of locomotives shall apply to and include the entire locomotive and tender and all their parts with the same force and effect as it applies to locomotive boilers and their appurtenances” in 45:30 for clarity and because of the restatement. The words “a defective locomotive, tender, part, or appurtenance is used again” are substituted for “the boiler or boilers or appurtenances pertaining thereto are again put in service” in 45:29 for consistency in this subsection. The text of 45:30 (last sentence) is omitted as obsolete because of Reorganization Plan No. 3 of 1965 (eff. July 27, 1965, 79 Stat. 1320), 49 App.:1655(e)(1)(E)–(G), and 5:ch. 33.
 

@@ -1,6 +1,6 @@
 ### §450ii–3. Survey and report of mineral value
 
-The Secretary of the Interior is authorized and directed, through the United States Bureau of Mines, the United States Geological Survey, and the National Park Service, to cause a survey tobe made of the area within the revised boundaries of the Joshua Tree National Monument with a view to determining to what extent the said area is more valuable for minerals than for the National Monument purposes for which it was created. Report of said survey shall be filed with the President of the United States Senate and the Speaker of the House of Representatives on or before February 1, 1951.
+The Secretary of the Interior is authorized and directed, through the United States Bureau of Mines, the United States Geological Survey, and the National Park Service, to cause a survey to be made of the area within the revised boundaries of the Joshua Tree National Monument with a view to determining to what extent the said area is more valuable for minerals than for the National Monument purposes for which it was created. Report of said survey shall be filed with the President of the United States Senate and the Speaker of the House of Representatives on or before February 1, 1951.
 
 (Sept. 25, 1950, ch. 1030, §4, 64 Stat. 1035; Nov. 13, 1991, Pub. L. 102–154, title I, 105 Stat. 1000; May 18, 1992, Pub. L. 102–285, §10(b), 106 Stat. 172.)
 

@@ -20,7 +20,7 @@ The Administrator, in coordination with the Secretary of Agriculture, shall iden
 
 &emsp;The Secretary of Agriculture shall, not later than 180 days after November 28, 1990, and annually thereafter, prepare a report and send the report to the Administrator. The report shall—
 
-&emsp;&emsp;(A) contain the information described in paragraph (1) and the information required by section 5882 of this title;
+&emsp;&emsp;(A) contain the information described in paragraph (1);
 
 &emsp;&emsp;(B) identify the crucial pest control needs where a shortage of control methods is indicated by the information described in paragraph (1); and
 
@@ -30,9 +30,17 @@ The Administrator, in coordination with the Secretary of Agriculture, shall iden
 
 The Administrator, in cooperation with the Secretary of Agriculture, shall develop approaches to the control of pests based on integrated pest management that respond to the needs of producers, with a special emphasis on minor pests.
 
-(June 25, 1947, ch. 125, §28, as added Sept. 30, 1978, Pub. L. 95–396, §24(2), 92 Stat. 838; amended Nov. 28, 1990, Pub. L. 101–624, title XIV, §1495, 104 Stat. 3629.)
+#### (d) Public health pests
+
+The Administrator, in coordination with the Secretary of Agriculture and the Secretary of Health and Human Services, shall identify pests of significant public health importance and, in coordination with the Public Health Service, develop and implement programs to improve and facilitate the safe and necessary use of chemical, biological, and other methods to combat and control such pests of public health importance.
+
+(June 25, 1947, ch. 125, §28, as added Sept. 30, 1978, Pub. L. 95–396, §24(2), 92 Stat. 838; amended Nov. 28, 1990, Pub. L. 101–624, title XIV, §1495, 104 Stat. 3629; Apr. 4, 1996, Pub. L. 104–127, title VIII, §862(b)(1), 110 Stat. 1174; Aug. 3, 1996, Pub. L. 104–170, title II, §236, 110 Stat. 1509.)
 
 #### Amendments
+
+1996—Subsec. (b)(2)(A). Pub. L. 104–127 struck out “and the information required by section 5882 of this title” after “paragraph (1)”.
+
+Subsec. (d). Pub. L. 104–170 added subsec. (d).
 
 1990—Pub. L. 101–624 designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
 

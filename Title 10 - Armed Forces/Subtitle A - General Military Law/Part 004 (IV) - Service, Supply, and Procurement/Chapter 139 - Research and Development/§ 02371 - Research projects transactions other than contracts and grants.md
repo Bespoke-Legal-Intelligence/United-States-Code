@@ -6,7 +6,7 @@ Additional Forms of Transactions Authorized.—The Secretary of Defense and the 
 
 (b)
 
-Exercise of Authority by Secretary of Defense.—In any exercise of the authority in subsection (a), the Secretary of Defense shall act through the Advanced Research Projects Agency or any other element of the Department of Defense that the Secretary may designate.
+Exercise of Authority by Secretary of Defense.—In any exercise of the authority in subsection (a), the Secretary of Defense shall act through the Defense Advanced Research Projects Agency or any other element of the Department of Defense that the Secretary may designate.
 
 (c)
 
@@ -20,17 +20,17 @@ Recovery of Funds.—(1) A cooperative agreement for performance of basic, appli
 
 (e)
 
-Conditions.—The Secretary of Defense shall ensure that—
+Conditions.—(1) The Secretary of Defense shall ensure that—
 
-&emsp;(1) to the maximum extent practicable, no cooperative agreement containing a clause under subsection (d) and no transaction entered into under subsection (a) provides for research that duplicates research being conducted under existing programs carried out by the Department of Defense;
+&emsp;(A) to the maximum extent practicable, no cooperative agreement containing a clause under subsection (d) and no transaction entered into under subsection (a) provides for research that duplicates research being conducted under existing programs carried out by the Department of Defense; and
 
-&emsp;(2) to the extent that the Secretary determines practicable, the funds provided by the Government under a cooperative agreement containing a clause under subsection (d) or a transaction authorized by subsection (a) do not exceed the total amount provided by other parties to the cooperative agreement or other transaction; and
+&emsp;(B) to the extent that the Secretary determines practicable, the funds provided by the Government under a cooperative agreement containing a clause under subsection (d) or a transaction authorized by subsection (a) do not exceed the total amount provided by other parties to the cooperative agreement or other transaction.
 
-&emsp;(3) a cooperative agreement containing a clause under subsection (d) or a transaction authorized under subsection (a) is used for a research project only when the use of a standard contract, grant, or cooperative agreement for such project is not feasible or appropriate.
+(2) A cooperative agreement containing a clause under subsection (d) or a transaction authorized by subsection (a) may be used for a research project when the use of a standard contract, grant, or cooperative agreement for such project is not feasible or appropriate.
 
 (f)
 
-Support Accounts.—There is hereby established on the books of the Treasury separate accounts for each of the military departments and the Advanced Research Projects Agency for support of research projects and development projects provided for in cooperative agreements containing a clause under subsection (d) and research projects provided for in transactions entered into under subsection (a). Funds in those accounts shall be available for the payment of such support.
+Support Accounts.—There is hereby established on the books of the Treasury separate accounts for each of the military departments and the Defense Advanced Research Projects Agency for support of research projects and development projects provided for in cooperative agreements containing a clause under subsection (d) and research projects provided for in transactions entered into under subsection (a). Funds in those accounts shall be available for the payment of such support.
 
 (g)
 
@@ -38,29 +38,53 @@ Regulations.—The Secretary of Defense shall prescribe regulations to carry out
 
 (h)
 
-Annual Report.—Not later than 60 days after the end of each fiscal year, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives a report on all cooperative agreements entered into under section 2358 of this title during such fiscal year that contain a clause authorized by subsection (d) and on all transactions entered into under subsection (a) during such fiscal year. The report shall contain, with respect to each such cooperative agreement and transaction, the following:
+Annual Report.—(1) Not later than 90 days after the end of each fiscal year, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives a report on the use by the Department of Defense during such fiscal year of—
 
-&emsp;(1) A general description of the cooperative agreement or other transaction (as the case may be), including the technologies for which research is provided for under such agreement or transaction.
+&emsp;(A) cooperative agreements authorized under section 2358 of this title that contain a clause under subsection (d); and
 
-&emsp;(2) The potential military and, if any, commercial utility of such technologies.
+&emsp;(B) transactions authorized by subsection (a).
 
-&emsp;(3) The reasons for not using a contract or grant to provide support for such research.
+(2) The report shall include, with respect to the cooperative agreements and other transactions covered by the report, the following:
 
-&emsp;(4) The amount of the payments, if any, that were received by the Federal Government during the fiscal year covered by the report pursuant to a clause included in such cooperative agreement or other transaction pursuant to subsection (d).
+&emsp;(A) The technology areas in which research projects were conducted under such agreements or other transactions.
 
-&emsp;(5) The amount of the payments reported under paragraph (4), if any, that were credited to each account established under subsection (f).
+&emsp;(B) The extent of the cost-sharing among Federal Government and non-Federal sources.
 
-(i)
+&emsp;(C) The extent to which the use of the cooperative agreements and other transactions—
 
-Cooperative Research and Development Agreements Under Stevenson-Wydler Technology Innovation Act of 1980.—The Secretary of Defense, in carrying out research projects through the Advanced Research Projects Agency, and the Secretary of each military department, in carrying out research projects, may permit the director of any federally funded research and development center to enter into cooperative research and development agreements with any person, any agency or instrumentality of the United States, any unit of State or local government, and any other entity under the authority granted by section 12 of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3710a). Technology may be transferred to a non-Federal party to such an agreement consistent with the provisions of sections 11 and 12 of such Act (15 U.S.C. 3710, 3710a).
+&emsp;&emsp;(i) has contributed to a broadening of the technology and industrial base available for meeting Department of Defense needs; and
 
-(Added Pub. L. 101–189, div. A, title II, §251(a)(1), Nov. 29, 1989, 103 Stat. 1403; amended Pub. L. 101–510, div. A, title XIV, §1484(k)(9), Nov. 5, 1990, 104 Stat. 1719; Pub. L. 102–190, div. A, title VIII, §826, Dec. 5, 1991, 105 Stat. 1442; Pub. L. 102–484, div. A, title II, §217, Oct. 23, 1992, 106 Stat. 2352; Pub. L. 103–35, title II, §201(c)(4), May 31, 1993, 107 Stat. 98; Pub. L. 103–160, div. A, title VIII, §827(b), title XI, §1182(a)(6), Nov. 30, 1993, 107 Stat. 1712, 1771; Pub. L. 103–355, title I, §1301(b), Oct. 13, 1994, 108 Stat. 3285.)
+&emsp;&emsp;(ii) has fostered within the technology and industrial base new relationships and practices that support the national security of the United States.
 
-#### References in Text
+&emsp;(D) The total amount of payments, if any, that were received by the Federal Government during the fiscal year covered by the report pursuant to a clause described in subsection (d) that was included in the cooperative agreements and other transactions, and the amount of such payments, if any, that were credited to each account established under subsection (f).
 
-The Stevenson-Wydler Technology Innovation Act of 1980, referred to in subsec. (i), is Pub. L. 96–480, Oct. 21, 1980, 94 Stat. 2311, as amended, which is classified generally to chapter 63 (§3701 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 3701 of Title 15 and Tables.
+(Added Pub. L. 101–189, div. A, title II, §251(a)(1), Nov. 29, 1989, 103 Stat. 1403; amended Pub. L. 101–510, div. A, title XIV, §1484(k)(9), Nov. 5, 1990, 104 Stat. 1719; Pub. L. 102–190, div. A, title VIII, §826, Dec. 5, 1991, 105 Stat. 1442; Pub. L. 102–484, div. A, title II, §217, Oct. 23, 1992, 106 Stat. 2352; Pub. L. 103–35, title II, §201(c)(4), May 31, 1993, 107 Stat. 98; Pub. L. 103–160, div. A, title VIII, §827(b), title XI, §1182(a)(6), Nov. 30, 1993, 107 Stat. 1712, 1771; Pub. L. 103–355, title I, §1301(b), Oct. 13, 1994, 108 Stat. 3285; Pub. L. 104–106, div. A, title XV, §1502(a)(1), Feb. 10, 1996, 110 Stat. 502; Pub. L. 104–201, div. A, title II, §267(a)–(c)(1)(A), title X, §1073(e)(1)(B), Sept. 23, 1996, 110 Stat. 2467, 2468, 2658.)
 
 #### Amendments
+
+1996—Subsec. (b). Pub. L. 104–201, §1073(e)(1)(B), inserted “Defense” before “Advanced Research Projects Agency”.
+
+Subsec. (e). Pub. L. 104–201, §267(a), inserted “(1)” before “The Secretary of Defense”, redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, inserted “and” after semicolon at end of subpar. (A), substituted a period for “; and” at end of subpar. (B), added par. (2), and struck out par. (3) which read as follows: “a cooperative agreement containing a clause under subsection (d) or a transaction authorized under subsection (a) is used for a research project only when the use of a standard contract, grant, or cooperative agreement for such project is not feasible or appropriate.”
+
+Subsec. (f). Pub. L. 104–201, §1073(e)(1)(B), inserted “Defense” before “Advanced Research Projects Agency”.
+
+Subsec. (h). Pub. L. 104–201, §267(b), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Not later than 60 days after the end of each fiscal year, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives a report on all cooperative agreements entered into under section 2358 of this title during such fiscal year that contain a clause authorized by subsection (d) and on all transactions entered into under subsection (a) during such fiscal year. The report shall contain, with respect to each such cooperative agreement and transaction, the following:
+
+&emsp;“(1) A general description of the cooperative agreement or other transaction (as the case may be), including the technologies for which research is provided for under such agreement or transaction.
+
+&emsp;“(2) The potential military and, if any, commercial utility of such technologies.
+
+&emsp;“(3) The reasons for not using a contract or grant to provide support for such research.
+
+&emsp;“(4) The amount of the payments, if any, that were received by the Federal Government during the fiscal year covered by the report pursuant to a clause included in such cooperative agreement or other transaction pursuant to subsection (d).
+
+&emsp;“(5) The amount of the payments reported under paragraph (4), if any, that were credited to each account established under subsection (f).”
+
+Pub. L. 104–106 substituted “Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives” for “Committees on Armed Services of the Senate and House of Representatives”.
+
+Subsec. (i). Pub. L. 104–201, §267(c)(1)(A), renumbered subsec. (i) of this section as section 2371a of this title.
+
+Pub. L. 104–201, §1073(e)(1)(B), which directed amendment of subsec. (i) by inserting “Defense” before “Advanced Research Projects Agency”, was executed to subsec. (i) prior to its renumbering as section 2371a of this title by Pub. L. 104–201, §267(c)(1)(A), to reflect the probable intent of Congress.
 
 1994—Pub. L. 103–355 amended section generally. Prior to amendment section related to cooperative agreements and other transactions for advanced research projects.
 
@@ -106,33 +130,29 @@ Subsec. (g). Pub. L. 102–190, §826(c), struck out subsec. (g) which read as f
 
 1990—Subsec. (f). Pub. L. 101–510 substituted “Committees on” for “Committees of” in introductory provisions.
 
-#### Change of Name
-
-Committee on Armed Services of House of Representatives treated as referring to Committee on National Security of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
-
 #### Effective Date of 1994 Amendment
 
 For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under section 251 of Title 41, Public Contracts.
 
-#### Authority of Advanced Research Projects Agency To Carry Out Certain Prototype Projects
+#### Authority of Defense Advanced Research Projects Agency To Carry Out Certain Prototype Projects
 
-Section 845 of Pub. L. 103–160 provided that:
+Section 845 of Pub. L. 103–160, as amended by Pub. L. 104–201, div. A, title VIII, §804, title X, §1073(e)(1)(D), (2)(A), Sept. 23, 1996, 110 Stat. 2605, 2658, provided that:
 
 “(a)
 
-Authority.—The Director of the Advanced Research Projects Agency may, under the authority of section 2371 of title 10, United States Code, carry out prototype projects that are directly relevant to weapons or weapon systems proposed to be acquired or developed by the Department of Defense.
+Authority.—The Director of the Defense Advanced Research Projects Agency, the Secretary of a military department, or any other official designated by the Secretary of Defense may, under the authority of section 2371 of title 10, United States Code, carry out prototype projects that are directly relevant to weapons or weapon systems proposed to be acquired or developed by the Department of Defense.
 
 “(b)
 
-Exercise of Authority.—(1) Subsections (c)(2) and (c)(3) of such section 2371, as redesignated by section 827(b)(1)(B), shall not apply to projects carried out under subsection (a).
+Exercise of Authority.—(1) Subsections (e)(2) and (e)(3) of such section 2371 shall not apply to projects carried out under subsection (a).
 
-“(2) The Director shall, to the maximum extent practicable, use competitive procedures when entering into agreements to carry out projects under subsection (a).
+“(2) To the maximum extent practicable, competitive procedures shall be used when entering into agreements to carry out projects under subsection (a).
 
 “(c)
 
-Period of Authority.—The authority of the Director to carry out projects under subsection (a) shall terminate 3 years after the date of the enactment of this Act \[Nov. 30, 1993\].”
+Period of Authority.—The authority to carry out projects under subsection (a) shall terminate at the end of September 30, 1999.”
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2358, 2511, 2512, 2519, 2524 of this title.
+This section is referred to in sections 2358, 2511, 2519 of this title.
 

@@ -10,7 +10,7 @@ The Secretary shall promulgate regulations exempting from any labeling requireme
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–535 effective six months after the date of the promulgation of final regulations to implement section 343(r) of this title, or if such regulations are not promulgated, the date proposed regulations are to be considered as such final regulations (Nov. 8, 1992), with exception for persons marketing food the brand name of which contains a term defined by the Secretary under section 343(r)(2)(A)(i) of this title, see section 10(a) of Pub. L. 101–535, set out as a note under section 343 of this title.
+Amendment by Pub. L. 101–535 effective six months after the date of the promulgation of final regulationsto implement section 343(r) of this title, or if such regulations are not promulgated, the date proposed regulations are to be considered as such final regulations (Nov. 8, 1992), with exception for persons marketing food the brand name of which contains a term defined by the Secretary under section 343(r)(2)(A)(i) of this title, see section 10(a) of Pub. L. 101–535, set out as a note under section 343 of this title.
 
 #### Construction of Amendments by Pub. L. 101–535
 

@@ -84,7 +84,7 @@ Subsec. (b)(4). Pub. L. 102–484, §3313(c), added par. (4).
 
 Subsec. (b)(2), (3). Pub. L. 99–661, §3203(a)(2), added pars. (2) and (3) and struck out former pars. (2) and (3) which read as follows:
 
-“(2) Moneys covered into the fund under paragraph (1) shall be available, when appropriated therefor, only forthe acquisition of strategic and critical materials under section 98e(a)(1) of this title (and for transportation related to such acquisition).
+“(2) Moneys covered into the fund under paragraph (1) shall be available, when appropriated therefor, only for the acquisition of strategic and critical materials under section 98e(a)(1) of this title (and for transportation related to such acquisition).
 
 “(3) Moneys in the fund, when appropriated, shall remain available until expended, unless otherwise provided in appropriation Acts.”
 

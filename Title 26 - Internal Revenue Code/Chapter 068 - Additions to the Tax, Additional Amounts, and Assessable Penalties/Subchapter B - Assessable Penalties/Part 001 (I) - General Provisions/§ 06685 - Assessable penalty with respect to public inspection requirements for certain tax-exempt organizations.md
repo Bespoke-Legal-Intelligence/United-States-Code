@@ -1,14 +1,20 @@
 ### §6685. Assessable penalty with respect to public inspection requirements for certain tax-exempt organizations
 
-In addition to the penalty imposed by section 7207 (relating to fraudulent returns, statements, or other documents), any person who is required to comply with the requirements of subsection (d) or (e) of section 6104 and who fails to so comply with respect to any return or application, if such failure is willful, shall pay a penalty of $1,000 with respect to each such return or application.
+In addition to the penalty imposed by section 7207 (relating to fraudulent returns, statements, or other documents), any person who is required to comply with the requirements of subsection (d) or (e) of section 6104 and who fails to so comply with respect to any return or application, if such failure is willful, shall pay a penalty of $5,000 with respect to each such return or application.
 
-(Added Pub. L. 91–172, title I, §101(e)(4), Dec. 30, 1969, 83 Stat. 524; amended Pub. L. 96–603, §1(d)(4), Dec. 28, 1980, 94 Stat. 3504; Pub. L. 100–203, title X, §10704(b)(1), Dec. 22, 1987, 101 Stat. 1330–462.)
+(Added Pub. L. 91–172, title I, §101(e)(4), Dec. 30, 1969, 83 Stat. 524; amended Pub. L. 96–603, §1(d)(4), Dec. 28, 1980, 94 Stat. 3504; Pub. L. 100–203, title X, §10704(b)(1), Dec. 22, 1987, 101 Stat. 1330–462; Pub. L. 104–168, title XIII, §1313(b), July 30, 1996, 110 Stat. 1480.)
 
 #### Amendments
+
+1996—Pub. L. 104–168 substituted “$5,000” for “$1,000”.
 
 1987—Pub. L. 100–203 substituted current section catchline for “Assessable penalties with respect to private foundation annual returns” and amended text generally. Prior to amendment, text read as follows: “In addition to the penalty imposed by section 7207 (relating to fraudulent returns, statements, or other documents), any person who is required to comply with the requirements of section 6104(d) (relating to private foundations’ annual returns) and who fails to so comply with respect to any return, if such failure is willful, shall pay a penalty of $1,000 with respect to each such return.”
 
 1980—Pub. L. 96–603 substituted in section catchline “returns” for “reports”, and in text “required to comply” for “required to file the report and the notice required under section 6056 (relating to annual reports by private foundations) or to comply”, “(relating to private foundations’ annual returns) and who fails to so comply with respect to any return” for “(relating to public inspection of private foundations’ annual reports) and who fails so to file or comply”, and “each such return” for “each such report or notice”.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–168 applicable to requests made on or after 60th day after Secretary of the Treasury first issues regulations referred to in section 6104(e)(3) of this title, see section 1313(c) of Pub. L. 104–168, set out as a note under section 6104 of this title.
 
 #### Effective Date of 1987 Amendment
 

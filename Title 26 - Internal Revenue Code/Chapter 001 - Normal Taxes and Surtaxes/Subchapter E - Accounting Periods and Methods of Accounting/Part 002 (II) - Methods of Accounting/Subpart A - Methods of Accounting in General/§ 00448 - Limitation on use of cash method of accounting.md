@@ -24,7 +24,7 @@ Except as otherwise provided in this section, in the case of a—
 
 #### (3) Entities with gross receipts of not more than $5,000,000
 
-&emsp;Paragraphs (1) and (2) of subsection (a) shall not apply to any corporation or partnershipfor any taxable year if, for all prior taxable years beginning after December 31, 1985, such entity (or any predecessor) met the $5,000,000 gross receipts test of subsection (c).
+&emsp;Paragraphs (1) and (2) of subsection (a) shall not apply to any corporation or partnership for any taxable year if, for all prior taxable years beginning after December 31, 1985, such entity (or any predecessor) met the $5,000,000 gross receipts test of subsection (c).
 
 #### (c) $5,000,000 gross receipts test
 

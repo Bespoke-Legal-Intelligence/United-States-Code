@@ -42,7 +42,9 @@ Relationship to Other Laws.—The Federal Advisory Committee Act (5 App. U.S.C.)
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

@@ -1,16 +1,8 @@
 subpart v—health services for the homeless
 
-#### Amendments
-
-1987—Pub. L. 100–177, title II, §202(f)(1), Dec. 1, 1987, 101 Stat. 999, substituted “V” for “IV” as subpart designation.
-
-Pub. L. 100–77, title VI, §601, 101 Stat. 511, substituted “Health Services for the Homeless” for “Research and Demonstration Projects in Primary Care” as subpart heading.
-
-1978—Pub. L. 95–626, title I, §115(l), Nov. 10, 1978, 92 Stat. 3567, added heading “Subpart IV—Research and Demonstration Projects in Primary Care”.
-
 
 ---
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 00256 - Grant program for certain health services for the homeless](%C2%A7%2000256%20-%20Grant%20program%20for%20certain%20health%20services%20for%20the%20homeless.md)
+- [&sect; 00256 - Repealed. Pub. L. 104&#8211;299, &sect;4(a)(3), Oct. 11, 1996, 110 Stat. 3645](%C2%A7%2000256%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93299%2C%20%C2%A74%28a%29%283%29%2C%20Oct.%2011%2C%201996%2C%20110%20Stat.%203645.md)

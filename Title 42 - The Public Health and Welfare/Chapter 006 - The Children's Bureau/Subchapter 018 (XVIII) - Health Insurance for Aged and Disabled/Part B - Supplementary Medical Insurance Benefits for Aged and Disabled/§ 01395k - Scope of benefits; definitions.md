@@ -36,11 +36,11 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) a quality control and peer review organization (having a contract with the Secretary under part B of subchapter XI of this chapter) is willing, able, and has agreed to carry out a review (on a sample or other reasonable basis) of the physician's performing such procedures in the physician's office,
 
-&emsp;&emsp;&emsp;&emsp;(II) the particular physician involved has agreed to make available to such organization such records as the Secretary determines to be necessary to carry out the review, and
+&emsp;&emsp;&emsp;&emsp;(II) the particular physician involved has agreed to make available to such organization such records as the Secretarydetermines to be necessary to carry out the review, and
 
 &emsp;&emsp;&emsp;&emsp;(III) the physician is authorized to perform the procedure in a hospital located in the area in which the office is located,
 
-&emsp;&emsp;&nbsp;and if the physician agrees to accept the standard overhead amount determinedunder section 1395<i>l</i>(i)(2)(B) of this title as full payment for such services and to accept payment on an assignment-related basis with respect to payment for all services (including all pre- and post-operative services) described in paragraphs (1) and (2)(A) of section 1395x(s) of this title and furnished in connection with such surgical procedure to individuals enrolled under this part;
+&emsp;&emsp;&nbsp;and if the physician agrees to accept the standard overhead amount determined under section 1395<i>l</i>(i)(2)(B) of this title as full payment for such services and to accept payment on an assignment-related basis with respect to payment for all services (including all pre- and post-operative services) described in paragraphs (1) and (2)(A) of section 1395x(s) of this title and furnished in connection with such surgical procedure to individuals enrolled under this part;
 
 &emsp;&emsp;(G) covered items (described in section 1395m(a)(13) of this title) furnished by a provider of services or by others under arrangements with them made by a provider of services;
 
@@ -110,7 +110,7 @@ Subsec. (a)(2)(G). Pub. L. 100–203, §4062(d)(2)(C), added subpar. (G).
 
 1986—Subsec. (a)(2)(B)(iii). Pub. L. 99–509, §9320(d), added cl. (iii).
 
-Subsec. (a)(2)(C). Pub. L. 99–509, §9337(a), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “outpatient physical therapy services, other than services to which the next to last sentence of section 1395x(p) of this title applies;”.
+Subsec. (a)(2)(C). Pub. L. 99–509, §9337(a), amended subpar. (C) generally. Prior to amendment, subpar. (C)read as follows: “outpatient physical therapy services, other than services to which the next to last sentence of section 1395x(p) of this title applies;”.
 
 Subsec. (a)(2)(F). Pub. L. 99–509, §9343(e)(1), inserted “standard overhead” in cl. (i) and concluding provisions of cl. (ii).
 
@@ -122,7 +122,7 @@ Subsec. (a)(2)(F)(ii)(II). Pub. L. 98–369, §2354(b)(6), substituted “organi
 
 1980—Subsec. (a)(2)(A). Pub. L. 96–499, §930(g), struck out restriction on home health services of 100 visits during a calendar year.
 
-Subsec. (a)(2)(B)(i)(II). Pub. L. 96–499, §948(a)(2), substituted “where the conditions specified in paragraph (7) of such section are met” for “, unless either clause (A) or (B) of paragraph (7) of such section is met”.
+Subsec. (a)(2)(B)(i)(II). Pub. L. 96–499, §948(a)(2), substituted “where the conditions specified in paragraph (7) of such section are met” for “, unless either clause (A) or (B) of paragraph (7) of such section is met”.
 
 Subsec. (a)(2)(E). Pub. L. 96–499, §933(a), added subpar. (E).
 
@@ -186,7 +186,7 @@ Section 4077(b)(5), formerly §4077(b)(6), of Pub. L. 100–203, as renumbered b
 
 Section 9320(i) of Pub. L. 99–509, as amended by Pub. L. 100–485, title VI, §608(c)(1), Oct. 13, 1988, 102 Stat. 2412, provided that: “Except as provided in subsection (k) \[set out below\], the amendments made by this section (other than subsection (a)) \[amending this section and sections 1395<i>l</i>, 1395u, 1395x, 1395y, 1395aa, 1395bb, 1395cc, 1395ww, 1396a, and 1396n of this title\] shall apply to services furnished on or after January 1, 1989.”
 
-Section 9337(e) of Pub. L. 99–509 provided that: “The amendments made by this section \[amending this section and sections 1395<i>l</i>, 1395n, 1395x, and 1395cc of this title\] shall apply to expenses incurred for outpatient occupational therapy services furnished on or after July 1, 1987.”
+Section 9337(e) of Pub. L. 99–509 provided that: “The amendments made by this section \[amending this section and sections 1395<i>l</i>, 1395n, 1395x, and 1395cc of this title\] shall apply to expenses incurred for outpatientoccupational therapy services furnished on or after July 1, 1987.”
 
 #### Effective Date of 1984 Amendment
 
@@ -252,11 +252,11 @@ Section 9320(k) of Pub. L. 99–509, as added by Pub. L. 100–485, title VI, §
 
 #### Payment for Services of Physicians Rendered in a Teaching Hospital for Accounting Periods Beginning After June 30, 1975, and Prior to October 1, 1978; Studies, Reports, etc.; Effective Dates
 
-Pub. L. 93–233, §15(a)(2), Dec. 31, 1973, 87 Stat. 966, provided that for the cost accounting periods beginning after June 30, 1975, and prior to Oct. 1, 1978, subsec. (a)(2)(B)(i) of this section will be administered as if subclause II of subsec. (a)(2)(B)(i) read as follows: “(II) a physician to a patient in a hospital which has a teaching program approved as specified in paragraph (6) of section 1861(b) \[section 1395x(b)(6) of this title\] (including services in conjunction with the teaching programs of such hospital whether or not such patient is an inpatient of such hospital), where the conditions specified in paragraph (7) of such section \[section 1395x(b)(7) of this title\] are met and”.
+Pub. L. 93–233, §15(a)(2), Dec. 31, 1973, 87 Stat. 966, provided that for the cost accounting periods beginningafter June 30, 1975, and prior to Oct. 1, 1978, subsec. (a)(2)(B)(i) of this section will be administered as if subclause II of subsec. (a)(2)(B)(i) read as follows: “(II) a physician to a patient in a hospital which has a teaching program approved as specified in paragraph (6) of section 1861(b) \[section 1395x(b)(6) of this title\] (including services in conjunction with the teaching programs of such hospital whether or not such patient is an inpatient of such hospital), where the conditions specified in paragraph (7) of such section \[section 1395x(b)(7) of this title\] are met and”.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1395<i>l</i>, 1395n, 1395x, 1395z, 1395aa, 1395bb, 1395gg of this title.
+This section is referred to in sections 1395<i>l</i>, 1395n, 1395x, 1395z, 1395aa, 1395gg of this title.
 
 <i><sup>1</sup></i><i> So in original. The semicolon probably should be a comma.</i>
 

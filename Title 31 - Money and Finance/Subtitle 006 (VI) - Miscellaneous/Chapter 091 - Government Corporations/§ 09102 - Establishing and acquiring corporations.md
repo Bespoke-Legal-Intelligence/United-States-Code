@@ -22,5 +22,5 @@ The word “agency” is substituted for “officer or agency of the Federal Gov
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 19 section 2081; title 26 section 7608.
+This section is referred to in title 8 section 1363a; title 19 section 2081; title 26 section 7608.
 

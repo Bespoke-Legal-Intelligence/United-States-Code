@@ -58,7 +58,9 @@ Notification of Congress.—The Secretary and the Attorney General shall inform 
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

@@ -58,7 +58,7 @@ Members shall be appointed for fixed and staggered terms and may serve until the
 
 Each State advisory council shall—
 
-&emsp;(1) meet with the State agencies responsible for literacy training during the planning year to advise on the development of a State planfor literacy and for adult education that fulfills the literacy and adult education needs of the State, especially with respect to the needs of the labor market, economic development goals, and the needs of the individuals in the State;
+&emsp;(1) meet with the State agencies responsible for literacy training during the planning year to advise on the development of a State plan for literacy and for adult education that fulfills the literacy and adult education needs of the State, especially with respect to the needs of the labor market, economic development goals, and the needs of the individuals in the State;
 
 &emsp;(2) advise the Governor, the State educational agency, and other State agencies concerning—
 
@@ -82,7 +82,7 @@ Each State advisory council shall—
 
 &emsp;(5) recommend model systems for implementing and coordinating State literacy programs for replication at the local level;
 
-&emsp;(6) develop reporting requirements, standards for outcomes, performance measures, and program effectiveness in State programs, that are consistent with those proposed by the Interagency Task Force on Literacy; and
+&emsp;(6) develop reporting requirements, standards for outcomes, performance measures, andprogram effectiveness in State programs, that are consistent with those proposed by the Interagency Task Force on Literacy; and
 
 &emsp;(7)(A) approve the plan for evaluations required in section 1207a of this title and participate in the implementation and dissemination of such evaluations, (B) advise the Governor, the State legislature, and the general public of the State of the findings of such evaluations, and (C) include in any report of such evaluations its comments and recommendations.
 

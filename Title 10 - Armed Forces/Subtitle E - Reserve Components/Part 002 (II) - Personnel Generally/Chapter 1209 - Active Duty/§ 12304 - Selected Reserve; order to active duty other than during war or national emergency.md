@@ -112,5 +112,5 @@ William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 101, 115, 523, 582, 641, 12305, 12318, 16131, 16133 of this title; title 38 sections 3011, 3013, 3231, 3511, 4211, 4312; title 50 App. section 592.
+This section is referred to in sections 101, 115, 523, 582, 641, 12305, 12318, 12408, 16131, 16133 of this title; title 38 sections 3011, 3013, 3231, 3511, 4211, 4312; title 50 App. section 592.
 

@@ -6,12 +6,6 @@ Subpart E—Treatment of Transfers to Retiree Health Accounts
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Codification
-
-Pub. L. 101–508, title XII, §12011(a), Nov. 5, 1990, 104 Stat. 1388–567, which directed that part I of subchapter D of chapter 1 is amended by adding this subpart without specifying that amendment was to the Internal Revenue Code of 1986, was executed to part I of subchapter D of chapter 1 of this title to reflect the probable intent of Congress.
-
-<i><sup>1</sup></i><i> So in original. Probably should be “severance”.</i>
-
 
 ---
 

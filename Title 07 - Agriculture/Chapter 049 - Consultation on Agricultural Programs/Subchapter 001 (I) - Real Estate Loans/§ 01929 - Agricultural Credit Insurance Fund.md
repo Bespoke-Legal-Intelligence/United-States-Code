@@ -24,21 +24,19 @@ The Secretary shall deposit in the fund all or a portion, not to exceed one-half
 
 The Secretary may utilize the fund—
 
-&emsp;(1) to make loans which could be insured under this subchapter whenever the Secretary has reasonable assurance that they can be sold without undue delay, and may sell and insure such loans;
+&emsp;(1) to pay amounts to which the holder of the note is entitled on loans heretofore or hereafter insured accruing between the date of any payments made by the borrower and the date of transmittal of any such payments to the lender. In the discretion of the Secretary, payments other than final payments need not be remitted to the holder until due or until the next agreed annual or semiannual remittance date;
 
-&emsp;(2) to pay amounts to which the holder of the note is entitled on loans heretofore or hereafter insured accruing between the date of any payments made by the borrower and the date of transmittal of any such payments to the lender. In the discretion of the Secretary, payments other than final payments need not be remitted to the holder until due or until the next agreed annual or semiannual remittance date;
+&emsp;(2) to pay to the holder of the notes any deferred or defaulted installment or, upon assignment of the note to the Secretary at the Secretary's request, the entire balance due on the loan;
 
-&emsp;(3) to pay to the holder of the notes any deferred or defaulted installment or, upon assignment of the note to the Secretary at the Secretary's request, the entire balance due on the loan;
+&emsp;(3) to purchase notes in accordance with agreements previously entered into;
 
-&emsp;(4) to purchase notes in accordance with agreements previously entered into;
+&emsp;(4) to pay for contract services, taxes, insurance, prior liens, expenses necessary to make fiscal adjustments in connection with the application and transmittal of collections and other expenses and advances authorized in connection with insured loans, including the difference between interest payable by borrowers and interest to which insured lenders or insured holders are entitled under agreements with the Secretary included in contracts of insurance;
 
-&emsp;(5) to pay for contract services, taxes, insurance, prior liens, expenses necessary to make fiscal adjustments in connection with the application and transmittal of collections and other expenses and advances authorized in connection with insured loans, including the difference between interest payable by borrowers and interest to which insured lenders or insured holders are entitled under agreements with the Secretary included in contracts of insurance;
-
-&emsp;(6) to pay the Secretary's costs of administration necessary to insure, make grants, service, and otherwise carry out the programs under this chapter not specifically covered by the Rural Development Insurance Fund of section 1929a of this title, including costs of the Secretary incidental to guaranteeing loans under this chapter, either directly from the Fund or by transfers from the Fund to, and merger with, any appropriations for administrative expenses.
+&emsp;(5) to pay the Secretary's costs of administration necessary to insure, make grants, service, and otherwise carry out the programs under this chapter not specifically covered by the Rural Development Insurance Fund of section 1929a of this title, including costs of the Secretary incidental to guaranteeing loans under this chapter, either directly from the Fund or by transfers from the Fund to, and merger with, any appropriations for administrative expenses.
 
 #### (g) Transfer of funds from Farmers Home Administration direct loan account and Emergency Credit Revolving Fund; abolition of such account and fund; payments from Agricultural Credit Insurance Fund; interest
 
-(1) The assets and liabilities of, and authorizations applicable to, the Farmers Home Administration direct loan account created by section 1988(c) of this title and the Emergency Credit Revolving Fund referred to in section 1966 of this title are hereby transferred to the fund, and such account and such revolving fund are hereby abolished. Such assets and their proceeds, including loans made out of the fund pursuant to this section, shall be subject to the provisions of this section, section 1928, the last sentence of section 1926(a)(1), and the last sentence of section 1927 of this title.
+(1) The assets and liabilities of, and authorizations applicable to, the Farmers Home Administration direct loan account created by section 1988(c) of this title (before the amendment made by section 749(a)(1) of the Federal Agriculture Improvement and Reform Act of 1996) and the Emergency Credit Revolving Fund referred to in section 1966 of this title are hereby transferred to the fund, and such account and such revolving fund are hereby abolished. Such assets and their proceeds, including loans made out of the fund pursuant to this section, shall be subject to the provisions of this section, the last sentence of section 1926(a)(1), and the last sentence of section 1927 of this title.
 
 (2) From time to time, and at least at the close of each fiscal year, the Secretary shall pay from the fund into the Treasury as miscellaneous receipts interest on the value as determined by the Secretary, with the approval of the Comptroller General, of the Government's equity transferred to the fund pursuant to the first sentence of this subsection plus the cumulative amount of appropriations made available after enactment of this provision as capital and for administration of the programs financed from the fund, less the average undisbursed cash balance in the fund during the year. The rate of such interest shall be determined by the Secretary of the Treasury, taking into consideration the current average yield on outstanding marketable obligations of the United States with remaining periods to maturity comparable to the average maturities of loans made or insured from the fund, adjusted to the nearest one-eighth of 1 per centum. Interest payments may be deferred with the approval of the Secretary of the Treasury, but any interest payments so deferred shall themselves bear interest. If at any time the Secretary determines that moneys in the fund exceed present and any reasonably prospective future requirements of the fund, such excess may be transferred to the general fund of the Treasury.
 
@@ -53,6 +51,26 @@ The Secretary may utilize the fund—
 &emsp;(A) the Secretary shall not charge a fee to any person (including a lender); and
 
 &emsp;(B) a lender may charge a loan origination and servicing fee in an amount not to exceed 1 percent of the amount of the loan.
+
+(4)
+
+Maximum guarantee of 90 percent.—Except as provided in paragraphs (5) and (6), a loan guarantee under this chapter shall be for not more than 90 percent of the principal and interest due on the loan.
+
+(5)
+
+Refinanced loans guaranteed at 95 percent.—The Secretary shall guarantee 95 percent of—
+
+&emsp;(A) in the case of a loan that solely refinances a direct loan made under this chapter, the principal and interest due on the loan on the date of the refinancing; or
+
+&emsp;(B) in the case of a loan that is used for multiple purposes, the portion of the loan that refinances the principal and interest due on a direct loan made under this chapter that is outstanding on the date the loan is guaranteed.
+
+(6)
+
+Beginning farmer loans guaranteed up to 95 percent.—The Secretary may guarantee not more than 95 percent of—
+
+&emsp;(A) a farm ownership loan for acquiring a farm or ranch to a borrower who is participating in the down payment loan program under section 1935 of this title; or
+
+&emsp;(B) an operating loan to a borrower who is participating in the down payment loan program under section 1935 of this title that is made during the period that the borrower has a direct loan outstanding under this subchapter for acquiring a farm or ranch.
 
 #### (i) Coordination of assistance for qualified beginning farmers and ranchers
 
@@ -70,19 +88,29 @@ The Secretary may utilize the fund—
 
 &emsp;(B) designed to assist persons in obtaining the financial assistance necessary to enter agriculture and establish viable farming or ranching operations.
 
-(Pub. L. 87–128, title III, §309, Aug. 8, 1961, 75 Stat. 309; Pub. L. 87–703, title IV, §401(3), Sept.27, 1962, 76 Stat. 632; Pub. L. 89–240, §2(b), (c), Oct. 7, 1965, 79 Stat. 932; Pub. L. 89–633, Oct. 8, 1966, 80 Stat. 879; Pub. L. 90–488, §7, Aug. 15, 1968, 82 Stat. 771; Pub. L. 92–419, title I, §115, Aug. 30, 1972, 86 Stat. 660; Pub. L. 95–113, title XV, §1510(a), Sept. 29, 1977, 91 Stat. 1022; Pub. L. 95–334, title I, §109(a), Aug. 4, 1978, 92 Stat. 423; Pub. L. 101–624, title XXIII, §2302(a)(2), Nov. 28, 1990, 104 Stat. 3980; Pub. L. 102–554, §§4, 5(a), Oct. 28, 1992, 106 Stat. 4143.)
+(Pub. L. 87–128, title III, §309, Aug. 8, 1961, 75 Stat. 309; Pub. L. 87–703, title IV, §401(3), Sept. 27, 1962, 76 Stat. 632; Pub. L. 89–240, §2(b), (c), Oct. 7, 1965, 79 Stat. 932; Pub. L. 89–633, Oct. 8, 1966, 80 Stat. 879; Pub. L. 90–488, §7, Aug. 15, 1968, 82 Stat. 771; Pub. L. 92–419, title I, §115, Aug. 30, 1972, 86 Stat. 660; Pub. L. 95–113, title XV, §1510(a), Sept. 29, 1977, 91 Stat. 1022; Pub. L. 95–334, title I, §109(a), Aug. 4, 1978, 92 Stat. 423; Pub. L. 101–624, title XXIII, §2302(a)(2), Nov. 28, 1990, 104 Stat. 3980; Pub. L. 102–554, §§4, 5(a), Oct. 28, 1992, 106 Stat. 4143; Pub. L. 104–127, title VI, §§606, 661(b), title VII, §§744, 749(b)(1), Apr. 4, 1996, 110 Stat. 1086, 1106, 1125, 1129.)
 
 #### References in Text
 
 Section 11(a) of the Bankhead-Jones Farm Tenant Act, as amended, referred to in subsec. (a), refers to section 11(a) of act July 22, 1937, ch. 517, title I, as added Aug. 14, 1946, ch. 964, §5, 60 Stat. 1072, which was classified to section 1005a of this title and was repealed by section 341(a) of Pub. L. 87–128.
 
-For definition of “this chapter”, referred to in subsec. (h)(1), (2), see note set out under section 1921 of this title.
+For definition of “this chapter”, referred to in subsecs. (f)(5) and (h)(1), (2), (4), (5), see note set out under section 1921 of this title.
+
+Section 1988(c) of this title (before the amendment made by section 749(a)(1) of the Federal Agriculture Improvement and Reform Act of 1996), referred to in subsec. (g)(1), means subsec. (c) of section 1988 of this title prior to repeal by section 749(a)(1) of Pub. L. 104–127.
 
 #### Codification
 
-In subsec. (c), “chapter 31 of title 31” and “such chapter” substituted for “the Second Liberty Bond Act, as amended” and “such Act, as amended,” respectively, on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In subsec. (c), “chapter 31 of title 31” and “such chapter” substituted for “the Second Liberty Bond Act, as amended” and “such Act, as amended,” respectively,on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 #### Amendments
+
+1996—Subsec. (f). Pub. L. 104–127, §744, redesignated pars. (2) to (6) as (1) to (5), respectively, and struck out former par. (1) which read as follows: “to make loans which could be insured under this subchapter whenever the Secretary has reasonable assurance that they can be sold without undue delay, and may sell and insure such loans;”.
+
+Subsec. (g)(1). Pub. L. 104–127, §749(b)(1), inserted “(before the amendment made by section 749(a)(1) of the Federal Agriculture Improvement and Reform Act of 1996)” after “section 1988(c) of this title”.
+
+Pub. L. 104–127, §661(b), struck out “section 1928,” after “provisions of this section,”.
+
+Subsec. (h)(4) to (6). Pub. L. 104–127, §606, added pars. (4) to (6).
 
 1992—Subsec. (h). Pub. L. 102–554, §4, designated existing provisions as par. (1) and added pars. (2) and (3).
 
@@ -111,6 +139,10 @@ Subsecs. (g), (h). Pub. L. 92–419, §115(b), added subsecs. (g) and (h).
 Subsec. (f)(1). Pub. L. 89–240, §2(c), substituted “$50,000,000” for “$25,000,000”.
 
 1962—Subsec. (f)(1). Pub. L. 87–703 increased from $10,000,000 to $25,000,000 the aggregate amount of loans to be sold and insured and undisposed of at any one time.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by section 606 of Pub. L. 104–127 effective 90 days after Apr. 4, 1996, and amendment by section 661(b) of Pub. L. 104–127 effective Apr. 4, 1996, see section 663(a), (b) of Pub. L. 104–127, set out as a note under section 1922 of this title.
 
 #### Effective Date of 1977 Amendment
 
@@ -162,5 +194,5 @@ Authority of the Secretary of Agriculture to make loans to Indian tribes and tri
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1929a, 1931, 1936, 1947, 1948, 1968, 1983a, 1991, 1994, 1999, 6942 of this title; title 25 section 488; title 42 sections 1485, 1487, 8813.
+This section is referred to in sections 1929a, 1983a, 1991, 1994, 1999, 6942 of this title; title 25 section 488; title 42 sections 1485, 1487, 8813.
 

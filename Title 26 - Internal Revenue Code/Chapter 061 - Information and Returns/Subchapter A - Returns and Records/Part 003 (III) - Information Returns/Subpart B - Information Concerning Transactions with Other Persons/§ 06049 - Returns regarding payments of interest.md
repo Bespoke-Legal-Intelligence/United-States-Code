@@ -126,7 +126,7 @@ Every person—
 
 &emsp;Every person required to make a return under subsection (a) shall furnish to each person whose name is required to be set forth in such return a written statement showing—
 
-&emsp;&emsp;(A) the name and address of the person required to make such return, and
+&emsp;&emsp;(A) the name, address, and phone number of the information contact of the person required to make such return, and
 
 &emsp;&emsp;(B) the aggregate amount of payments to, or the aggregate amount includible in the gross income of, the person required to be shown on the return.
 
@@ -216,13 +216,15 @@ For purposes of this section—
 
 &emsp;&emsp;The Secretary may prescribe such regulations as are necessary or appropriate to carry out the purposes of this paragraph, including regulations which require more frequent or more detailed reporting.
 
-(Added Pub. L. 87–834, §19(c), Oct. 16, 1962, 76 Stat. 1055; amended Pub. L. 91–172, title IV, §413(c), (d), Dec. 30, 1969, 83 Stat. 611, 612; Pub. L. 94–455, title XIX, §§1901(b)(6)(A), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1793, 1834; Pub. L. 97–248, title III, §§303(b), 308(a), 309(a), Sept. 3, 1982, 96 Stat. 587, 591; Pub. L. 97–424, title V, §547(b)(4), Jan. 6, 1983, 96 Stat. 2200; Pub. L. 98–67, title I, §§102(a), (e), 108(a), Aug. 5, 1983, 97 Stat. 369, 370, 383; Pub. L. 98–369, div. A, title I, §42(a)(14), title IV, §474(r)(29)(J), July 18, 1984, 98 Stat. 557, 845; Pub. L. 99–514, title VI, §674, title XII, §1214(c)(4), title XV, §1501(c)(5), title XVIII, §1803(a)(14)(C), Oct. 22, 1986, 100 Stat. 2319, 2543, 2737, 2797; Pub. L. 100–647, title I, §1006(t)(24), (v), Nov. 10, 1988, 102 Stat. 3426, 3427.)
+(Added Pub. L. 87–834, §19(c), Oct. 16, 1962, 76 Stat. 1055; amended Pub. L. 91–172, title IV, §413(c), (d), Dec. 30, 1969, 83 Stat. 611, 612; Pub. L. 94–455, title XIX, §§1901(b)(6)(A), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1793, 1834; Pub. L. 97–248, title III, §§303(b), 308(a), 309(a), Sept. 3, 1982, 96 Stat. 587, 591; Pub. L. 97–424, title V, §547(b)(4), Jan. 6, 1983, 96 Stat. 2200; Pub. L. 98–67, title I, §§102(a), (e), 108(a), Aug. 5, 1983, 97 Stat. 369, 370, 383; Pub. L. 98–369, div. A, title I, §42(a)(14), title IV, §474(r)(29)(J), July 18, 1984, 98 Stat. 557, 845; Pub. L. 99–514, title VI, §674, title XII, §1214(c)(4), title XV, §1501(c)(5), title XVIII, §1803(a)(14)(C), Oct. 22, 1986, 100 Stat. 2319, 2543, 2737, 2797; Pub. L. 100–647, title I, §1006(t)(24), (v), Nov. 10, 1988, 102 Stat. 3426, 3427; Pub. L. 104–168, title XII, §1201(a)(6), July 30, 1996, 110 Stat. 1469.)
 
 #### References in Text
 
 The Investment Company Act of 1940, referred to in subsec. (b)(4)(J), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, as amended, which is classified generally to subchapter I (§80a–1 et seq.) of chapter 2D of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 80a–51 of Title 15 and Tables.
 
 #### Amendments
+
+1996—Subsec. (c)(1)(A). Pub. L. 104–168 substituted “name, address, and phone number of the information contact” for “name and address”.
 
 1988—Subsec. (d)(7)(A). Pub. L. 100–647, §1006(v), inserted parenthetical phrase relating to amounts treated as paid when includible in gross income under section 860B(b).
 
@@ -232,7 +234,7 @@ Subsec. (d)(7)(C). Pub. L. 100–647, §1006(t)(24), substituted “the adjusted
 
 Subsec. (b)(5)(B)(iv). Pub. L. 99–514, §1214(c)(4), added cl. (iv).
 
-Subsec. (c). Pub. L. 99–514, §1501(c)(5), in amending subsec. (c) generally, substituted “information is required” for “information is furnished” in subsection heading and, in text, substituted references to persons required to make a return for former references to persons making a return and struck out provisions that nostatement was required if the aggregate amount of payments to the person shown on the return was less than $10.
+Subsec. (c). Pub. L. 99–514, §1501(c)(5), in amending subsec. (c) generally, substituted “information is required” for “information is furnished” in subsection heading and, in text, substituted references to persons required to make a return for former references to persons making a return and struck out provisions that no statement was required if the aggregate amount of payments to the person shown on the return was less than $10.
 
 Subsec. (d)(7). Pub. L. 99–514, §674, added par. (7).
 
@@ -274,6 +276,10 @@ Subsec. (b)(1), (2)(A), (B). Pub. L. 94–455, §§1901(b)(6)(A), 1906(b)(13)(A)
 
 Subsec. (c). Pub. L. 91–172, §413(d), further qualified requirement to furnish statement by reference to aggregate amount includible in gross income.
 
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–168 applicable to statements required to be furnished after Dec. 31, 1996 (determined without regard to any extension), see section 1201(b) of Pub. L. 104–168, set out as a note under section 6041 of this title.
+
 #### Effective Date of 1988 Amendment
 
 Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
@@ -314,7 +320,7 @@ Section applicable to payments of dividends and interest made on or after Jan. 1
 
 #### Applicability of Certain Amendments by Pub. L. 99–514 in Relation to Treaty Obligations of United States
 
-For nonapplication of amendment by section 1214(c)(4) of Pub. L. 99–514 to the extent application of such amendment would be contrary to any treaty obligation of the United States in effect on Oct. 22, 1986, with provision that for such purposes any amendment by title I of Pub. L. 100–647 be treated as if it had been included in the provision of Pub. L. 99–514 to which such amendment relates, see section 1012(aa)(3), (4) of Pub. L. 100–647, set out as a note under section 861 of this title.
+For nonapplication of amendment by section 1214(c)(4) of Pub. L. 99–514 to the extent application ofsuch amendment would be contrary to any treaty obligation of the United States in effect on Oct. 22, 1986, with provision that for such purposes any amendment by title I of Pub. L. 100–647 be treated as if it had been included in the provision of Pub. L. 99–514 to which such amendment relates, see section 1012(aa)(3), (4) of Pub. L. 100–647, set out as a note under section 861 of this title.
 
 #### Plan Amendments Not Required Until January 1, 1989
 

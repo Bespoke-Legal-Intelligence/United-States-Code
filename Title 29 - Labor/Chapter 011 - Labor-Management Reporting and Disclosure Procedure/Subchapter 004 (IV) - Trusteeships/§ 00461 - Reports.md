@@ -18,7 +18,7 @@ Any person who makes a false statement or representation of a material fact, kno
 
 #### (e) Personal liability
 
-Each individual required to sign a report under this section shall be personally responsible for the filing of such report and for anystatement contained therein which he knows to be false.
+Each individual required to sign a report under this section shall be personally responsible for the filing of such report and for any statement contained therein which he knows to be false.
 
 (Pub. L. 86–257, title III, §301, Sept. 14, 1959, 73 Stat. 530.)
 

@@ -10,5 +10,5 @@ Notwithstanding any other law, the value of any child care provided or arranged 
 
 #### Effective Date
 
-Section effective Nov. 4, 1992, but not applicable with respect to fiscal years beginning before Oct. 1, 1992, see section 8(d) of Pub. L. 102–586, set out as an Effective Date of 1992 Amendment note under section 9858h of this title.
+Section effective Nov. 4, 1992, but not applicable with respect to fiscal years beginning before Oct. 1, 1992, seesection 8(d) of Pub. L. 102–586, set out as an Effective Date of 1992 Amendment note under section 9858h of this title.
 

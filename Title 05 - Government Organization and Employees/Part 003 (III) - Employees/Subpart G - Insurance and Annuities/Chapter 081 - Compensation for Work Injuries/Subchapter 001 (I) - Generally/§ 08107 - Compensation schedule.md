@@ -60,7 +60,7 @@
 
 &emsp;(20) In case of loss of use of more than one member or parts of more than one member as enumerated by this schedule, the compensation is for loss of use of each member or part thereof, and the awards run consecutively. However, when the injury affects only two or more digits of the same hand or foot, paragraph (17) of this subsection applies, and when partial bilateral loss of hearing is involved, compensation is computed on the loss as affecting both ears.
 
-&emsp;(21) For serious disfigurement of the face, head, or neck of a character likely to handicap an individual in securing or maintaining employment, proper and equitable compensation not to exceed $3,500 shall be awarded in addition to any other compensation payable under this schedule.
+&emsp;(21) For serious disfigurement of the face, head, or neck of a character likely to handicapan individual in securing or maintaining employment, proper and equitable compensation not to exceed $3,500 shall be awarded in addition to any other compensation payable under this schedule.
 
 &emsp;(22) For permanent loss or loss of use of any other important external or internal organ of the body as determined by the Secretary, proper and equitable compensation not to exceed 312 weeks’ compensation for each organ so determined shall be paid in addition to any other compensation payable under this schedule.
 
@@ -74,7 +74,9 @@ Act
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 5 U.S.C. 755(a), (b).
 
@@ -118,13 +120,13 @@ In subsection (b), the words “an employee is entitled to compensation” are s
 
 #### Amendments
 
-<b>1974</b>—Subsec. (a). Pub. L. 93–416, §4, substituted “involving the loss, or loss of use” for “involving the loss of use”.
+1974—Subsec. (a). Pub. L. 93–416, §4, substituted “involving the loss, or loss of use” for “involving the loss of use”.
 
 Subsec. (c)(22). Pub. L. 93–416, §5, added par. (22).
 
 #### Effective Date of 1974 Amendment
 
-Amendment by Pub. L. 93–416 effective Sept. 7, 1974, and applicable to any injury or death occurring on orafter such effective date, see section 28(a) of Pub. L. 93–416, set out as a note under section 8101 of this title.
+Amendment by Pub. L. 93–416 effective Sept. 7, 1974, and applicable to any injury or death occurring on or after such effective date, see section 28(a) of Pub. L. 93–416, set out as a note under section 8101 of this title.
 
 #### Personnel Not Affected by 1967 Increase
 

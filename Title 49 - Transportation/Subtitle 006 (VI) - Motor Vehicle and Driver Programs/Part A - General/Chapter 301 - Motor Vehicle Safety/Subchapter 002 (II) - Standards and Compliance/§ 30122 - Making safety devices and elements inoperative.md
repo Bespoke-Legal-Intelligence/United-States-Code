@@ -24,7 +24,9 @@ Nonapplication.—This section does not apply to a safety belt interlock or buzz
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -34,7 +36,7 @@ Historical and Revision Notes
 
 15:1397(a)(2)(A) (last sentence).
 
-Sept. 9, 1966, Pub. L. 89–563, 80 Stat. 718, §108(a)(2)(A)–(C); added Oct. 27, 1974, Pub. L. 93–492, §103(a)(1)(A), 88 Stat. 1477.
+Sept. 9, 1966, Pub. L. 89–563, 80 Stat. 718, §108(a)(2)(A)– (C); added Oct. 27, 1974, Pub. L. 93–492, §103(a) (1)(A), 88 Stat. 1477.
 
 30122(b)
 

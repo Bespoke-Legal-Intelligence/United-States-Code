@@ -34,7 +34,7 @@
 | (i) | Report on management practices. |
 | (j) | Audit authority. |
 | (k) | Plan for relocation. |
-| (<i>l)</i> | Reports on personnel classification. |
+| (<i>l</i>) | Reports on personnel classification. |
 | [6208\.](%C2%A7%2006208%20-%20Radio%20Free%20Asia.md) | Radio Free Asia. |
 | (a) | Authority. |
 | (b) | Functions. |

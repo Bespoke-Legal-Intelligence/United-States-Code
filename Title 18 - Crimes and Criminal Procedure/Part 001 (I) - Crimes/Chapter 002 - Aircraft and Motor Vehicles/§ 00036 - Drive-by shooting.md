@@ -4,9 +4,9 @@
 
 Definition.—In this section, “major drug offense” means—
 
-&emsp;(1) a continuing criminal enterprise punishable under section 403(c) <sup>1</sup> of the Controlled Substances Act (21 U.S.C. 848(c));
+&emsp;(1) a continuing criminal enterprise punishable under section 408(c) of the Controlled Substances Act (21 U.S.C. 848(c));
 
-&emsp;(2) a conspiracy to distribute controlled substances punishable under section 406 of the Controlled Substances Act (21 U.S.C. 846) section <sup>2</sup> 1013 of the Controlled Substances Import and Export Control Act <sup>3</sup> (21 U.S.C. 963); or
+&emsp;(2) a conspiracy to distribute controlled substances punishable under section 406 of the Controlled Substances Act (21 U.S.C. 846) section <sup>1</sup> 1013 of the Controlled Substances Import and Export Act (21 U.S.C. 963); or
 
 &emsp;(3) an offense involving major quantities of drugs and punishable under section 401(b)(1)(A) of the Controlled Substances Act (21 U.S.C. 841(b)(1)(A)) or section 1010(b)(1) of the Controlled Substances Import and Export Act (21 U.S.C. 960(b)(1)).
 
@@ -20,11 +20,15 @@ Offense and Penalties.—(1) A person who, in furtherance or to escape detection
 
 &emsp;(B) is a murder other than a first degree murder (as defined in section 1111(a)), be fined under this title, imprisoned for any term of years or for life, or both.
 
-(Added Pub. L. 103–322, title VI, §60008(b), Sept. 13, 1994, 108 Stat. 1971.)
+(Added Pub. L. 103–322, title VI, §60008(b), Sept. 13, 1994, 108 Stat. 1971; amended Pub. L. 104–294, title VI, §604(b)(30), Oct. 11, 1996, 110 Stat. 3508.)
 
-#### References in Text
+#### Amendments
 
-Section 1013 of the Controlled Substances Import and Export Control Act, referred to in subsec. (a)(2), probably means section 1013 of the Controlled Substances Import and Export Act, which is classified to section 963 of Title 21, Food and Drugs.
+1996—Subsec. (a)(1), (2). Pub. L. 104–294 substituted “408(c)” for “403(c)” in par. (1) and “Export” for “Export Control” in par. (2).
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–294 effective Sept. 13, 1994, see section 604(d) of Pub. L. 104–294, set out as a note under section 13 of this title.
 
 #### Short Title
 
@@ -32,11 +36,7 @@ Section 60008(a) of Pub. L. 103–322 provided that: “This section \[enacting 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 2339A of this title.
+This section is referred to in title 42 section 3751.
 
-<i><sup>1</sup></i><i> So in original. Probably should be section “408(c)”.</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be preceded by “or”.</i>
-
-<i><sup>3</sup></i><i> See References in Text note below.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be preceded by “or”.</i>
 

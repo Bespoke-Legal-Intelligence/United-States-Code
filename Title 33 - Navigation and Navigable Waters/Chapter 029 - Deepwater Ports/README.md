@@ -5,18 +5,18 @@
 | [1501\.](%C2%A7%2001501%20-%20Congressional%20declaration%20of%20policy.md) | Congressional declaration of policy. |
 | [1502\.](%C2%A7%2001502%20-%20Definitions.md) | Definitions. |
 | [1503\.](%C2%A7%2001503%20-%20License%20for%20ownership%2C%20construction%2C%20and%20operation%20of%20deepwater%20port.md) | License for ownership, construction, and operation of deepwater port. |
-| (a) | Requirement; restrictions on utilization of deepwater port. |
+| (a) | Requirement. |
 | (b) | Issuance, transfer, amendment, or reinstatement. |
 | (c) | Conditions for issuance. |
 | (d) | Application for license subject to examination and comparison of economic, social, and environmental effects of deepwater port facility and deep draft channel and harbor; finality of determination. |
 | (e) | Additional conditions; removal requirements, waiver; Outer Continental Shelf Lands Act applicable to utilization of components upon waiver of removal requirements. |
-| (f) | Amendment, transfer, or reinstatement of license. |
+| (f) | Amendments, transfers, and reinstatements. |
 | (g) | Eligible citizens. |
 | (h) | Term of license. |
 | [1504\.](%C2%A7%2001504%20-%20Procedure.md) | Procedure. |
 | (a) | Regulations; issuance, amendment, or rescission; scope. |
 | (b) | Additional regulations; criteria for site evaluation and preconstruction testing. |
-| (c) | Plans; submittal to Secretary of Transportation; publication in Federal Register; application contents. |
+| (c) | Plans; submittal to Secretary of Transportation; publication in Federal Register; application contents; exemption. |
 | (d) | Application area; publication in Federal Register; “application area” defined; submission of other applications; notice of intent and submission of completed applications; denial of pending application prior to consideration of other untimely applications. |
 | (e) | Recommendations to Secretary of Transportation; application for all Federal authorizations; copies of application to Federal agencies and departments with jurisdiction; recommendation of approval or disapproval and of manner of amendment to comply with laws or regulations. |
 | (f) | Environmental impact statement for single application area; criteria. |
@@ -27,9 +27,7 @@
 | (a) | Establishment; evaluation of proposed deepwater ports. |
 | (b) | Review and revision. |
 | (c) | Concurrent development of criteria and regulations. |
-| [1506\.](%C2%A7%2001506%20-%20Antitrust%20review.md) | Antitrust review. |
-| (a) | Opinions of Attorney General and Federal Trade Commission; defense to judicial proceedings, license inadmissible. |
-| (b) | Applications; submittal to Attorney General and Federal Trade Commission for preparation of reports to Secretary of Transportation; antitrust laws unaffected. |
+| [1506\.](%C2%A7%2001506%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93324%2C%20title%20V%2C%20%C2%A7506%2C%20Oct.%2019%2C%201996%2C%20110%20Stat.%203927.md) | Repealed. |
 | [1507\.](%C2%A7%2001507%20-%20Common%20carrier%20status.md) | Common carrier status. |
 | (a) | Status of deepwater ports and storage facilities. |
 | (b) | Discrimination prohibition; exceptions. |
@@ -98,7 +96,7 @@ This chapter is referred to in sections 1321, 2701 of this title; title 26 secti
 - [&sect; 01503 - License for ownership, construction, and operation of deepwater port](%C2%A7%2001503%20-%20License%20for%20ownership%2C%20construction%2C%20and%20operation%20of%20deepwater%20port.md)
 - [&sect; 01504 - Procedure](%C2%A7%2001504%20-%20Procedure.md)
 - [&sect; 01505 - Environmental review criteria](%C2%A7%2001505%20-%20Environmental%20review%20criteria.md)
-- [&sect; 01506 - Antitrust review](%C2%A7%2001506%20-%20Antitrust%20review.md)
+- [&sect; 01506 - Repealed. Pub. L. 104&#8211;324, title V, &sect;506, Oct. 19, 1996, 110 Stat. 3927](%C2%A7%2001506%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93324%2C%20title%20V%2C%20%C2%A7506%2C%20Oct.%2019%2C%201996%2C%20110%20Stat.%203927.md)
 - [&sect; 01507 - Common carrier status](%C2%A7%2001507%20-%20Common%20carrier%20status.md)
 - [&sect; 01508 - Adjacent coastal States](%C2%A7%2001508%20-%20Adjacent%20coastal%20States.md)
 - [&sect; 01509 - Marine environmental protection and navigational safety](%C2%A7%2001509%20-%20Marine%20environmental%20protection%20and%20navigational%20safety.md)

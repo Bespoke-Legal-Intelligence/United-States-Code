@@ -10,7 +10,7 @@ A State educational agency that has submitted and had approved a consolidated St
 
 #### (c) Collaboration
 
-A State educational agency shall collaborate with local educational agencies in the State in establishing procedures for the submission of the consolidated State plans or consolidated State applications under this section.
+A State educational agency shall collaborate with local educational agencies in the State inestablishing procedures for the submission of the consolidated State plans or consolidated State applications under this section.
 
 #### (d) Necessary materials
 

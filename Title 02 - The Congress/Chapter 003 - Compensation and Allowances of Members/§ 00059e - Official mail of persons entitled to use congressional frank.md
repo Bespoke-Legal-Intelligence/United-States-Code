@@ -2,7 +2,7 @@
 
 #### (a) Congressional committee regulations for expenditure of appropriations for official mail
 
-Except as otherwise provided in this section, funds appropriated by this Act or any other Act for expenses of official mail of any person entitled to use the congressional frank may be expended only in accordance with regulations prescribed by the Committee on Rules and Administration of the Senate or the Committee on House Administration of the House of Representatives, as applicable. Such regulations shall require—
+Except as otherwise provided in this section, funds appropriated by this Act or any other Act for expenses of official mail of any person entitled to use the congressional frank may be expended only in accordance with regulations prescribed by the Committee on Rules and Administration of the Senate or the Committee on House Oversight of the House of Representatives, as applicable. Such regulations shall require—
 
 &emsp;(1) individual accountability for use of official mail by each person entitled to use the congressional frank;
 
@@ -10,11 +10,11 @@ Except as otherwise provided in this section, funds appropriated by this Act or 
 
 &emsp;(B) with respect to the Senate, allocation of funds for official mail to be made to each such person with respect to each session of Congress (with no transfer to any other session, other than transfers from the first session of a Congress to the second session of that Congress, or to any other such person); and
 
-&emsp;(3) with respect to the House of Representatives, that in addition to any other report or information made available to the public (through the House Commission on Congressional Mailing Standards or otherwise) regarding the use of the frank, the Clerk of the House of Representatives shall include in the quarterly report of receipts and expenditures submitted to the House of Representatives a statement (based solely on data provided for that purpose by the Committee on House Administration of the House of Representatives and the House Commission on Congressional Mailing Standards) of costs charged against the Official Mail Allowance for each person entitled to use the congressional frank.
+&emsp;(3) with respect to the House of Representatives, that in addition to any other report or information made available to the public (through the House Commission on Congressional Mailing Standards or otherwise) regarding the use of the frank, the Chief Administrative Officer of the House of Representatives shall include in the quarterly report of receipts and expenditures submitted to the House of Representatives a statement (based solely on data provided for that purpose by the Committee on House Oversight of the House of Representatives and the House Commission on Congressional Mailing Standards) of costscharged against the Official Mail Allowance for each person entitled to use the congressional frank.
 
 #### (b) Postmaster General functions
 
-The Postmaster General, in consultation with the Committee on Rules and Administration of the Senate and the Committee on House Administration of the House of Representatives—
+The Postmaster General, in consultation with the Committee on Rules and Administration of the Senate and the Committee on House Oversight of the House of Representatives—
 
 &emsp;(1) shall monitor use of official mail by each person entitled to use the congressional frank;
 
@@ -44,13 +44,13 @@ No Senator or Member of the House of Representatives may maintain or use, direct
 
 (1) There is established in the House of Representatives an Official Mail Allowance for Members, officers, and employees of the House of Representatives who are persons entitled to use the congressional frank. Regulations for use of the Official Mail Allowance shall be prescribed—
 
-&emsp;(A) by the Committee on House Administration of the House of Representatives, with respect to allocation and expenditures relating to the Allowance; and
+&emsp;(A) by the Committee on House Oversight of the House of Representatives, with respect to allocation and expenditures relating to the Allowance; and
 
 &emsp;(B) by the House Commission on Congressional Mailing Standards, with respect to matters under section 3210(a)(6)(D) of title 39.
 
 (2) The Official Mail Allowance—
 
-&emsp;(A) shall be available only for postage for franked mail sent at a first class, third class, or fourth class rate;
+&emsp;(A) shall be available for postage for franked mail sent at a first class, third class, or fourth class rate;
 
 &emsp;(B) with respect to a Member of the House of Representatives, shall be available, in a session of Congress, in a total amount, as determined under paragraph (1)(A), of not more than the product of (i) 3 times the single-piece rate applicable to first class mail, and (ii) the number (as determined by the Postmaster General) of addresses (other than business possible delivery stops) in the congressional district, as such addresses are described in section 3210(d)(7)(B) of title 39;
 
@@ -58,11 +58,11 @@ No Senator or Member of the House of Representatives may maintain or use, direct
 
 &emsp;(D) shall not be available for payment of any nonpostage fee or charge, including any fee or charge for express mail, express mail drop shipment, certified mail, registered mail, return receipt, address correction, or postal insurance.
 
-(3)(A) Subject to subparagraph (B), each Member of the House of Representatives may transfer amounts from the Official Expenses Allowance and the Clerk Hire Allowance of the Member to the Official Mail Allowance of the Member.
+(3)(A) Subject to subparagraph (B), each Member of the House of Representatives may transfer amounts from the Members’ Representational Allowance of the Member to the Official Mail Allowance of the Member.
 
 (B) The total amount a Member may so transfer with respect to a session of Congress may not exceed $25,000.
 
-(4) The Official Expenses Allowance shall be available to a Member of the House of Representatives for the payment of nonpostage fees and charges referred to in paragraph (2)(D) and for postage for mail for official business sent outside the United States.
+(4) The Members’ Representational Allowance shall be available to a Member of the House of Representatives for the payment of nonpostage fees and charges referred to in paragraph (2)(D) and for postage for mail for official business sent outside the United States.
 
 #### (f) Mass mailing; submission of samples or description of proposed mail matter; advisory opinion
 
@@ -80,9 +80,9 @@ As used in subsections (a) through (f) of this section—
 
 #### (i) Effective date
 
-This section and the amendments made by this section shall apply with respect to sessions of Congress beginning with the first session of the One Hundred Second Congress, except that, with respect to the Senate, subsection (d) of this section shall apply beginning on May 1, 1992, and the funds referred to in paragraph (3) of such subsection shall not include personal funds of a Senator or Member of the House of Representatives.
+This section and the amendments made by this section shall apply with respect to sessionsof Congress beginning with the first session of the One Hundred Second Congress, except that, with respect to the Senate, subsection (d) of this section shall apply beginning on May 1, 1992, and the funds referred to in paragraph (3) of such subsection shall not include personal funds of a Senator or Member of the House of Representatives.
 
-(Pub. L. 101–520, title III, §311, Nov. 5, 1990, 104 Stat. 2278; Pub. L. 102–229, title II, §211, Dec. 12, 1991, 105 Stat. 1718.)
+(Pub. L. 101–520, title III, §311, Nov. 5, 1990, 104 Stat. 2278; Pub. L. 102–229, title II, §211, Dec. 12, 1991, 105 Stat. 1718; Pub. L. 104–186, title II, §203(22), Aug. 20, 1996, 110 Stat. 1728.)
 
 #### References in Text
 
@@ -96,17 +96,27 @@ Subsec. (h) of this section made the amendments specified in the References in T
 
 #### Amendments
 
+1996—Subsec. (a). Pub. L. 104–186, §203(22)(B)(i), substituted “House Oversight” for “House Administration” in introductory provisions.
+
+Subsec. (a)(3). Pub. L. 104–186, §203(22)(A), (B)(ii), substituted “Chief Administrative Officer of the House of Representatives” for “Clerk of the House of Representatives” and “House Oversight” for “House Administration”.
+
+Subsec. (b). Pub. L. 104–186, §203(22)(B)(iii), substituted “House Oversight” for “House Administration” in introductory provisions.
+
+Subsec. (e)(1)(A). Pub. L. 104–186, §203(22)(B)(iv), substituted “House Oversight” for “House Administration”.
+
+Subsec. (e)(2)(A). Pub. L. 104–186, §203(22)(B)(v), struck out “only” after “available”.
+
+Subsec. (e)(3)(A). Pub. L. 104–186, §203(22)(B)(vi), substituted “Members’ Representational Allowance” for “Official Expenses Allowance and the Clerk Hire Allowance”.
+
+Subsec. (e)(4). Pub. L. 104–186, §203(22)(B)(vii), substituted “Members’ Representational Allowance” for “Official Expenses Allowance”.
+
 1991—Subsec. (i). Pub. L. 102–229 substituted “beginning on May 1, 1992,” for “with respect to sessions of Congress beginning with the second session of the One Hundred Second Congress,”.
-
-#### Change of Name
-
-Committee on House Administration of House of Representatives treated as referring to Committee on House Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of this title.
-
-#### Transfer of Functions
-
-Certain functions of Clerk of House of Representatives transferred to Director of Non-legislative and Financial Services by section 7 of House Resolution No. 423, One Hundred Second Congress, Apr. 9, 1992. Director of Non-legislative and Financial Services replaced by Chief Administrative Officer of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
 
 #### Cross References
 
-Authority of Committee on House Oversight of House of Representatives to combine House Clerk Hire Allowance, Official Expenses Allowance, and Official Mail Allowance into Members’ Representational Allowance, see section 57b of this title.
+For establishment of Members’ Representational Allowance, see section 57b of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 57 of this title.
 

@@ -6,7 +6,7 @@ The Comptroller General, when the Comptroller General deems it to be appropriate
 
 #### (b) Audits of recipients
 
-The financial transactions of participating jurisdictions and of other recipients of funds provided under this subchapter may, insofar as they relate to funds provided under this subchapter, be audited by the General Accounting Office under such rules and regulations as may be prescribed by the Comptroller General of the United States. The representatives of the General Accounting Office shall have access to allbooks, accounts, records, reports, files, and other papers, things, or property belonging to or in use by such recipients pertaining to such financial transactions and necessary to facilitate the audit.
+The financial transactions of participating jurisdictions and of other recipients of funds provided under this subchapter may, insofar as they relate to funds provided under this subchapter, be audited by the General Accounting Office under such rules and regulations as may be prescribed by the Comptroller General of the United States. The representatives of the General Accounting Office shall have access to all books, accounts, records, reports, files, and other papers, things, or property belonging to or in use by such recipients pertaining to such financial transactions and necessary to facilitate the audit.
 
 (Pub. L. 101–625, title II, §283, Nov. 28, 1990, 104 Stat. 4125; Pub. L. 103–233, title II, §205, Apr. 11, 1994, 108 Stat. 364.)
 

@@ -16,11 +16,11 @@
 
 (e)(1) Except as provided in paragraph (2), whoever knowingly possesses or causes to be present a firearm in a Federal court facility, or attempts to do so, shall be fined under this title, imprisoned not more than 2 years, or both.
 
-(2) Paragraph (1) shall not apply to conduct which is described in paragraph (1) or (2) of subsection (c).<sup>1</sup>
+(2) Paragraph (1) shall not apply to conduct which is described in paragraph (1) or (2) of subsection (d).
 
 (f) Nothing in this section limits the power of a court of the United States to punish for contempt or to promulgate rules or orders regulating, restricting, or prohibiting the possession of weapons within any building housing such court or any of its proceedings, or upon any grounds appurtenant to such building.
 
-(g) <sup>2</sup> As used in this section:
+(g) As used in this section:
 
 &emsp;(1) The term “Federal facility” means a building or part thereof owned or leased by the Federal Government, where Federal employees are regularly present for the purpose of performing their official duties.
 
@@ -28,11 +28,19 @@
 
 &emsp;(3) The term “Federal court facility” means the courtroom, judges’ chambers, witness rooms, jury deliberation rooms, attorney conference rooms, prisoner holding cells, offices of the court clerks, the United States attorney, and the United States marshal, probation and parole offices, and adjoining corridors of any court of the United States.
 
-(g) <sup>2</sup> Notice of the provisions of subsections (a) and (b) shall be posted conspicuously at each public entrance to each Federal facility, and notice of subsection (d) <sup>3</sup> shall be posted conspicuously at each public entrance to each Federal court facility, and no person shall be convictedof an offense under subsection (a) or (d) <sup>3</sup> with respect to a Federal facility if such notice is not so posted at such facility, unless such person had actual notice of subsection (a) or (d),<sup>3</sup> as the case may be.
+(h) Notice of the provisions of subsections (a) and (b) shall be posted conspicuously at each public entrance to each Federal facility, and notice of subsection (e) shall be posted conspicuously at each public entrance to each Federal court facility, and no person shall be convicted of an offense under subsection (a) or (e) with respect to a Federal facility if such notice is not so posted at such facility, unless such person had actual notice of subsection (a) or (e), as the case may be.
 
-(Added Pub. L. 100–690, title VI, §6215(a), Nov. 18, 1988, 102 Stat. 4361; amended Pub. L. 101–647, title XXII, §2205(a), Nov. 29, 1990, 104 Stat. 4857; Pub. L. 103–322, title VI, §60014, Sept. 13, 1994, 108 Stat. 1973.)
+(Added Pub. L. 100–690, title VI, §6215(a), Nov. 18, 1988, 102 Stat. 4361; amended Pub. L. 101–647, title XXII, §2205(a), Nov. 29, 1990, 104 Stat. 4857; Pub. L. 103–322, title VI, §60014, Sept. 13, 1994, 108 Stat. 1973; Pub. L. 104–294, title VI, §603(t), (u), Oct. 11, 1996, 110 Stat. 3506.)
 
 #### Amendments
+
+1996—Subsec. (e)(2). Pub. L. 104–294, §603(t), substituted “subsection (d)” for “subsection (c)”.
+
+Subsec. (g). Pub. L. 104–294, §603(u)(1), redesignated subsec. (g), related to posting notice in Federal facilities, as (h).
+
+Subsec. (h). Pub. L. 104–294, §603(u)(2), substituted “(e)” for “(d)” wherever appearing.
+
+Pub. L. 104–294, §603(u)(1), redesignated subsec. (g), related to posting notice in Federal facilities, as (h).
 
 1994—Subsec. (a). Pub. L. 103–322, §60014(2), substituted “(d)” for “(c)”.
 
@@ -53,4 +61,8 @@ Pub. L. 101–647, §2205(a)(2), redesignated subsec. (f) as (g).
 #### Effective Date of 1990 Amendment
 
 Section 2205(b) of Pub. L. 101–647 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to conduct engaged in after the date of the enactment of this Act \[Nov. 29, 1990\].”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 2332b, 2339A of this title.
 

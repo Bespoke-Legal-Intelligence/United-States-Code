@@ -22,7 +22,7 @@
 
 &emsp;(2) the retired pay multiplier determined under section 1409 of title 10 for the number of years of service that may be credited to the member under section 1405 of such title.
 
-(c)(1) In computing for the purpose of subsection (a) or (b) the number of years of service that may be credited to a member under section 1405 of title 10—
+(c)(1) In computing for the purpose of subsection (a) or (b) the number of years of servicethat may be credited to a member under section 1405 of title 10—
 
 &emsp;(A) each full month of service that is in addition to the number of full years of service creditable to the member shall be counted as 1/12 of a year; and
 
@@ -30,7 +30,7 @@
 
 (2) Retired pay computed under this section, if not a multiple of $1, shall be rounded to the next lower multiple of $1.
 
-(Aug. 4, 1949, ch. 393, 63 Stat. 525; Aug. 3, 1950, ch. 536, §23, 64 Stat. 407; May 20, 1958, Pub. L. 85–422, §11(b), 72 Stat. 132; Oct. 2, 1963, Pub. L. 88–132, §5(i), 77 Stat. 214; Oct. 2, 1972, Pub. L. 92–455, §2, 86 Stat. 761; Sept. 8, 1980, Pub. L. 96–342, title VIII, §813(f)(2), 94 Stat. 1109; Oct. 12, 1982, Pub. L. 97–295, §2(12), 96 Stat. 1302; Sept. 24, 1983, Pub. L.98–94, title IX, §§922(b), 923(d), 97 Stat. 642, 643; Oct. 30, 1984, Pub. L. 98–557, §15(a)(3)(A), 98 Stat. 2865; July 1, 1986, Pub. L. 99–348, title II, §205(a), 100 Stat. 699.)
+(Aug. 4, 1949, ch. 393, 63 Stat. 525; Aug. 3, 1950, ch. 536, §23, 64 Stat. 407; May 20, 1958, Pub. L. 85–422, §11(b), 72 Stat. 132; Oct. 2, 1963, Pub. L. 88–132, §5(i), 77 Stat. 214; Oct. 2, 1972, Pub. L. 92–455, §2, 86 Stat. 761; Sept. 8, 1980, Pub. L. 96–342, title VIII, §813(f)(2), 94 Stat. 1109; Oct. 12, 1982, Pub. L. 97–295, §2(12), 96 Stat. 1302; Sept. 24, 1983, Pub. L. 98–94, title IX, §§922(b), 923(d), 97 Stat. 642, 643; Oct. 30, 1984, Pub. L. 98–557, §15(a)(3)(A), 98 Stat. 2865; July 1, 1986, Pub. L. 99–348, title II, §205(a), 100 Stat. 699.)
 
 #### Historical and Revision Notes
 

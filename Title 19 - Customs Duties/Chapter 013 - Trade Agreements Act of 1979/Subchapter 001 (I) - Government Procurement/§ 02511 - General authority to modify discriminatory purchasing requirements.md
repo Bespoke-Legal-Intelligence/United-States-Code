@@ -24,9 +24,7 @@ The President may designate a foreign country or instrumentality for purposes of
 
 The President may modify or withdraw any waiver granted pursuant to subsection (a) of this section or designation made pursuant to subsection (b) of this section.
 
-#### (d) Limitations on waiver authority not effective unless provision amended
-
-The authority of the President under subsection (a) of this section to waive any laws, regulation, procedure, or practice shall be effective notwithstanding any other provision of law hereafter enacted (excluding the provisions of and amendments made by the Buy American Act of 1988) unless such other provision specifically refers to and amends this section.
+#### (d) Omitted
 
 #### (e) Procurement procedures by certain Federal agencies
 
@@ -38,14 +36,6 @@ The authority of the President under subsection (a) of this section to waive any
 
 (Pub. L. 96–39, title III, §301, July 26, 1979, 93 Stat. 236; Pub. L. 100–418, title VII, §7005(e), Aug. 23, 1988, 102 Stat. 1553; Pub. L. 103–182, title III, §381(a), Dec. 8, 1993, 107 Stat. 2128.)
 
-#### Amendment of Section
-
-<i>For termination of amendment by section 7004 of Pub. L. 100–418, see Termination Date of 1988 Amendment note below.</i>
-
-#### References in Text
-
-The Buy American Act of 1988, referred to in subsec. (d), is title VII of Pub. L. 100–418, Aug. 23, 1988, 102 Stat. 1545, which enacted section 10b–1 of Title 41, Public Contracts, amended sections 2511 and 2515 of this title and sections 10a, 10b, 10c, and 10d of Title 41, enacted provisions set out as notes under section 10a of Title 41, and amended provisions set out as notes under section 10c of Title 41. For complete classification of this Act to the Code, see Short Title of 1988 Amendment note set out under section 10a of Title 41 and Tables.
-
 #### Amendments
 
 1993—Subsec. (a). Pub. L. 103–182, §381(a)(1), substituted “Subject to subsection (f) of this section, the President” for “The President”.
@@ -54,7 +44,7 @@ Subsec. (b)(1). Pub. L. 103–182, §381(a)(2), inserted “or the North America
 
 Subsecs. (e), (f). Pub. L. 103–182, §381(a)(3), added subsecs. (e) and (f).
 
-1988—Subsec. (d). Pub. L. 100–418, §§7004, 7005(e), temporarily added subsec. (d). See Termination Date of 1988 Amendment note below.
+1988—Subsec. (d). Pub. L. 100–418, §§7004, 7005(e), temporarily added subsec. (d) which read as follows: “The authority of the President under subsection (a) of this section to waive any laws, regulation, procedure, or practice shall be effective notwithstanding any other provision of law hereafter enacted (excluding the provisions of and amendments made by the Buy American Act of 1988) unless such other provision specifically refers to and amends this section.” See Termination Date of 1988 Amendment note below.
 
 #### Effective Date of 1993 Amendment
 
@@ -62,7 +52,7 @@ Section 381(e) of title III of Pub. L. 103–182 provided that: “The provision
 
 #### Termination Date of 1988 Amendment
 
-Amendment by Pub. L. 100–418 to cease to be effective on Apr. 30, 1996, unless Congress, after reviewing report required by section 2515(k) of this title, extends such date, see section 7004 of Pub. L. 100–418, set out as an Effective and Termination Dates of 1988 Amendments note under section 10a of Title 41, Public Contracts.
+Amendment by Pub. L. 100–418 to cease to be effective on Apr. 30, 1996, unless Congress, after reviewing report required by former section 2515(k) of this title, extends such date, see section 7004 of Pub. L. 100–418, set out as an Effective and Termination Dates of 1988 Amendments note under section 10a of Title 41, Public Contracts.
 
 #### Effective Date
 
@@ -102,7 +92,7 @@ Delegations and Authorization
 
 1–201. The functions vested in the President by Sections 301, 302, 304, 305(c) and 306 of the Trade Agreements Act of 1979 (19 U.S.C. 2511, 2512, 2514, 2515(c) and 2516) are delegated to the Trade Representative.
 
-1–202. Notwithstanding the delegation in Section 1–201, the Secretary of Defense is authorized, in accordwith Section 302(b)(3) of the Trade Agreements Act of 1979 (19 U.S.C. 2512(b)(3)), to waive the prohibitions specified therein.
+1–202. Notwithstanding the delegation in Section 1–201, the Secretary of Defense is authorized, in accord with Section 302(b)(3) of the Trade Agreements Act of 1979 (19 U.S.C. 2512(b)(3)), to waive the prohibitions specified therein.
 
 #### Annex
 
@@ -224,7 +214,7 @@ WHEREAS, the commitments made in the Agreement are intended to become part of an
 
 WHEREAS, as a result of these commitments, U.S. businesses will obtain increased access to EC member state procurement for U.S. goods and services;
 
-WHEREAS, I have determined that it is inconsistent with the public interest to apply the restrictions of the Buy American Act, as amended (41 U.S.C. 10a–10d) \[41 U.S.C. 10a, 10b, 10b–1, 10c\], to procurement covered by the Agreement;
+WHEREAS, I have determined that it is inconsistent with the public interest to apply the restrictions of the Buy American Act, as amended (41 U.S.C. 10a–10d) \[41 U.S.C. 10a, 10b, 10c\], to procurement covered by the Agreement;
 
 NOW, THEREFORE, by virtue of the authority vested in me as President by the Constitution and the laws of the United States of America, including section 301 of title 3, United States Code, and title III of the Trade Agreements Act of 1979, as amended (19 U.S.C. 2511–2518), and in order to implement the Agreement, it is hereby ordered as follows:
 

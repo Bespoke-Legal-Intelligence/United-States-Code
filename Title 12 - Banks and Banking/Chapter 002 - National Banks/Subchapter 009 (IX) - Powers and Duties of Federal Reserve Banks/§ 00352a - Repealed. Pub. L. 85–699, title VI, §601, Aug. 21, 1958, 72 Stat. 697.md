@@ -8,7 +8,7 @@ Section 601 of Pub. L. 85–699 provided that the repeal of this section is effe
 
 #### Savings Provision
 
-Section 601 of Pub. L. 85–699 provided that the repeal of this section shall not affect the power of any FederalReserve bank to carry out, or protect its interest under, any agreement theretofore made or transaction entered into in carrying on operations under this section.
+Section 601 of Pub. L. 85–699 provided that the repeal of this section shall not affect the power of any Federal Reserve bank to carry out, or protect its interest under, any agreement theretofore made or transaction entered into in carrying on operations under this section.
 
 #### Fund for Management Counseling
 

@@ -56,7 +56,7 @@
 
 #### (ii) Consolidated actions
 
-&emsp;&emsp;&emsp;If more than one action on behalf of a class asserting substantially the same claim or claims arising under this subchapter has been filed, and any party hassought to consolidate those actions for pretrial purposes or for trial, the court shall not make the determination required by clause (i) until after the decision on the motion to consolidate is rendered. As soon as practicable after such decision is rendered, the court shall appoint the most adequate plaintiff as lead plaintiff for the consolidated actions in accordance with this subparagraph.
+&emsp;&emsp;&emsp;If more than one action on behalf of a class asserting substantially the same claim or claims arising under this subchapter has been filed, and any party has sought to consolidate those actions for pretrial purposes or for trial, the court shall not make the determination required by clause (i) until after the decision on the motion to consolidate is rendered. As soon as practicable after such decision is rendered, the court shall appoint the most adequate plaintiff as lead plaintiff for the consolidated actions in accordance with this subparagraph.
 
 #### (iii) Rebuttable presumption
 
@@ -126,7 +126,7 @@
 
 #### (C) Statement of attorneys’ fees or costs sought
 
-&emsp;&emsp;If any of the settling parties or their counsel intend to apply to the court for an awardof attorneys’ fees or costs from any fund established as part of the settlement, a statement indicating which parties or counsel intend to make such an application, the amount of fees and costs that will be sought (including the amount of such fees and costs determined on an average per share basis), and a brief explanation supporting the fees and costs sought.
+&emsp;&emsp;If any of the settling parties or their counsel intend to apply to the court for an award of attorneys’ fees or costs from any fund established as part of the settlement, a statement indicating which parties or counsel intend to make such an application, the amount of fees and costs that will be sought (including the amount of such fees and costs determined on an average per share basis), and a brief explanation supporting the fees and costs sought.
 
 #### (D) Identification of lawyers’ representatives
 
@@ -148,7 +148,7 @@
 
 #### (1) In general
 
-&emsp;In any private action arising under this subchapter, all discovery and other proceedings shall be stayed during the pendency of any motion to dismiss, unless the court finds, upon the motion of any party, that particularized discovery is necessary to preserve evidence or to prevent undue prejudice to that party.
+&emsp;In any private action arising under this subchapter, all discovery and other proceedingsshall be stayed during the pendency of any motion to dismiss, unless the court finds, upon the motion of any party, that particularized discovery is necessary to preserve evidence or to prevent undue prejudice to that party.
 
 #### (2) Preservation of evidence
 
@@ -192,7 +192,7 @@
 
 #### (d) Defendant's right to written interrogatories
 
-In any private action arising under this subchapter in which the plaintiff may recover money damages only on proof that a defendant acted with a particular state of mind, the court shall, when requested by a defendant, submit tothe jury a written interrogatory on the issue of each such defendant's state of mind at the time the alleged violation occurred.
+In any private action arising under this subchapter in which the plaintiff may recover money damages only on proof that a defendant acted with a particular state of mind, the court shall, when requested by a defendant, submit to the jury a written interrogatory on the issue of each such defendant's state of mind at the time the alleged violation occurred.
 
 (May 27, 1933, ch. 38, title I, §27, as added Dec. 22, 1995, Pub. L. 104–67, title I, §101(a), 109 Stat. 737.)
 

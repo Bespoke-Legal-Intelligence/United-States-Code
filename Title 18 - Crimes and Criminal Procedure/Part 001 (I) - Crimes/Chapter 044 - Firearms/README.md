@@ -4,8 +4,8 @@
 | :--- | ---: |
 | [921\.](%C2%A7%2000921%20-%20Definitions.md) | Definitions. |
 | [922\.](%C2%A7%2000922%20-%20Unlawful%20acts.md) | Unlawful acts. |
-| 923\. | Licensing. |
-| 924\. | Penalties. |
+| [923\.](%C2%A7%2000923%20-%20Licensing.md) | Licensing. |
+| [924\.](%C2%A7%2000924%20-%20Penalties.md) | Penalties. |
 | [925\.](%C2%A7%2000925%20-%20Exceptions%20Relief%20from%20disabilities.md) | Exceptions: Relief from disabilities. |
 | [925A.](%C2%A7%2000925A%20-%20Remedy%20for%20erroneous%20denial%20of%20firearm.md) | Remedy for erroneous denial of firearm. |
 | [926\.](%C2%A7%2000926%20-%20Rules%20and%20regulations.md) | Rules and regulations. |

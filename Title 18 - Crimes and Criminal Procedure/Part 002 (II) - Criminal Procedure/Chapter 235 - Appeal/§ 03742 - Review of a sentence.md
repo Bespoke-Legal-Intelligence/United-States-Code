@@ -8,7 +8,7 @@ Appeal by a Defendant.—A defendant may file a notice of appeal in the district
 
 &emsp;(2) was imposed as a result of an incorrect application of the sentencing guidelines; or
 
-&emsp;(3) is greater than the sentence specified in the applicable guideline range to the extent that the sentence includes a greater fine or term of imprisonment, probation, or supervised release than the maximum established in the guideline range, or includes a more limiting condition of probation or supervised release under section 3563(b)(6) or (b)(11) than the maximum established in the guideline range; or
+&emsp;(3) is greater than the sentence specified in the applicable guideline range to the extent that the sentence includes a greater fine or term of imprisonment, probation, or supervised release than the maximum established in the guideline range, or includes a more limiting condition of probation or supervised release under section 3563(b)(6) or (b)(11) <sup>1</sup> than the maximum established in the guideline range; or
 
 &emsp;(4) was imposed for an offense for which there is no sentencing guideline and is plainly unreasonable.
 
@@ -20,7 +20,7 @@ Appeal by the Government.—The Government may file a notice of appeal in the di
 
 &emsp;(2) was imposed as a result of an incorrect application of the sentencing guidelines;
 
-&emsp;(3) is less than the sentence specified in the applicable guideline range to the extent that the sentence includes a lesser fine or term of imprisonment, probation, or supervised release than the minimum established in the guideline range, or includes a less limiting condition of probation or supervised release under section 3563(b)(6) or (b)(11) than the minimum established in the guideline range; or
+&emsp;(3) is less than the sentence specified in the applicable guideline range to the extent that the sentence includes a lesser fine or term of imprisonment, probation, or supervised release than the minimum established in the guideline range, or includes a less limiting condition of probation or supervised release under section 3563(b)(6) or (b)(11) <sup>1</sup> than the minimum established in the guideline range; or
 
 &emsp;(4) was imposed for an offense for which there is no sentencing guideline and is plainly unreasonable.
 
@@ -87,6 +87,8 @@ Guideline Not Expressed as a Range.—For the purpose of this section, the term 
 (Added Pub. L. 98–473, title II, §213(a), Oct. 12, 1984, 98 Stat. 2011; amended Pub. L. 99–646, §73(a), Nov. 10, 1986, 100 Stat. 3617; Pub. L. 100–182, §§4–6, Dec. 7, 1987, 101 Stat. 1266, 1267; Pub. L. 100–690, title VII, §7103(a), Nov. 18, 1988, 102 Stat. 4416; Pub. L. 101–647, title XXXV, §§3501, 3503, Nov. 29, 1990, 104 Stat. 4921; Pub. L. 103–322, title XXXIII, §330002(k), Sept. 13, 1994, 108 Stat. 2140.)
 
 #### References in Text
+
+Section 3563(b)(6) or (b)(11), referred to in subsecs. (a)(3) and (b)(3), was renumbered section 3563(b)(5) or (b)(10) by Pub. L. 104–132, title II, §203(2)(B), Apr. 24, 1996, 110 Stat. 1227.
 
 The Federal Rules of Criminal Procedure, referred to in subsec. (c), are set out in the Appendix of this title.
 
@@ -168,5 +170,5 @@ Section effective Nov. 1, 1987, and applicable only to offenses committed after 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3143, 3557, 3562, 3572, 3582, 4106A of this title.
+This section is referred to in sections 3143, 3557, 3562, 3572, 3582, 3664, 4106A of this title.
 

@@ -34,7 +34,7 @@ The Secretary may, by regulation, require any lessee operating under an approved
 
 #### (e) Plan revisions; conduct of exploration activities
 
-(1) If a significant revision of an exploration plan approved under this subsection is submitted to the Secretary, the process to be used for the approval of such revision shall be the same as set forth in subsection (c) of this section.
+(1) If a significant revision of an exploration plan approved under this subsection is submitted to the Secretary, the process to be used forthe approval of such revision shall be the same as set forth in subsection (c) of this section.
 
 (2) All exploration activities pursuant to any lease shall be conducted in accordance with an approved exploration plan or an approved revision of such plan.
 
@@ -72,7 +72,7 @@ The Secretary shall not issue a lease or permit for, or otherwise allow, explora
 
 #### Transfer of Functions
 
-Functions of Secretary of the Interior to promulgate regulations under this subchapter which relate to fostering of competition for Federal leases, implementation of alternative bidding systems authorized for award of Federal leases, establishment of diligence requirements for operations conducted on Federal leases, setting of rates for production of Federal leases, and specifying of procedures, terms, and conditions for acquisition and disposition of Federal royalty intereststaken in kind, transferred to Secretary of Energy by section 7152(b) of Title 42, The Public Health and Welfare. Section 7152(b) of Title 42 was repealed by Pub. L. 97–100, title II, §201, Dec. 23, 1981, 95 Stat. 1407, and functions of Secretary of Energy returned to Secretary of the Interior. See House Report No. 97–315, pp. 25, 26, Nov. 5, 1981.
+Functions of Secretary of the Interior to promulgate regulations under this subchapter which relate to fostering of competition for Federal leases, implementation of alternative bidding systems authorized for award of Federal leases, establishment of diligence requirements for operations conducted on Federal leases, setting of rates for production of Federal leases, and specifying of procedures, terms, and conditions for acquisition and disposition of Federal royalty interests taken in kind, transferred to Secretary of Energy by section 7152(b) of Title 42, The Public Health and Welfare. Section 7152(b) of Title 42 was repealed by Pub. L. 97–100, title II, §201, Dec. 23, 1981, 95 Stat. 1407, and functions of Secretary of Energy returned to Secretary of the Interior. See House Report No. 97–315, pp. 25, 26, Nov. 5, 1981.
 
 #### Section Referred to in Other Sections
 

@@ -4,7 +4,7 @@ For the purposes of this chapter—
 
 (a) “Commerce” means trade, traffic, commerce, transportation, transmission, or communication among the several States or between any State and any place outside thereof.
 
-(b) “State” includes any State of the United States, the District of Columbia, Puerto Rico, the Virgin Islands, American Samoa, Guam,Wake Island, the Canal Zone, and Outer Continental Shelf lands defined in the Outer Continental Shelf Lands Act \[43 U.S.C. 1331 et seq.\].
+(b) “State” includes any State of the United States, the District of Columbia, Puerto Rico, the Virgin Islands, American Samoa, Guam, Wake Island, the Canal Zone, and Outer Continental Shelf lands defined in the Outer Continental Shelf Lands Act \[43 U.S.C. 1331 et seq.\].
 
 (c) “Industry affecting commerce” means any activity, business, or industry in commerce or in which a labor dispute would hinder or obstruct commerce or the free flow of commerce and includes any activity or industry “affecting commerce” within the meaning of the Labor Management Relations Act, 1947, as amended \[29 U.S.C. 141 et seq.\], or the Railway Labor Act, as amended \[45 U.S.C. 151 et seq.\].
 
@@ -14,7 +14,7 @@ For the purposes of this chapter—
 
 (f) “Employee” means any individual employed by an employer, and includes any individual whose work has ceased as a consequence of, or in connection with, any current labor dispute or because of any unfair labor practice or because of exclusion or expulsion from a labor organization in any manner or for any reason inconsistent with the requirements of this chapter.
 
-(g) “Labor dispute” includes any controversy concerning terms, tenure, or conditions of employment, or concerning the association or representation of persons in negotiating, fixing, maintaining, changing, or seeking to arrange terms or conditions of employment, regardless of whether the disputants stand in the proximate relation of employer and employee.
+(g) “Labor dispute” includes any controversy concerning terms, tenure, or conditions of employment, or concerning the association or representation of persons in negotiating, fixing, maintaining, changing, or seeking to arrangeterms or conditions of employment, regardless of whether the disputants stand in the proximate relation of employer and employee.
 
 (h) “Trusteeship” means any receivership, trusteeship, or other method of supervision or control whereby a labor organization suspends the autonomy otherwise available to a subordinate body under its constitution or bylaws.
 

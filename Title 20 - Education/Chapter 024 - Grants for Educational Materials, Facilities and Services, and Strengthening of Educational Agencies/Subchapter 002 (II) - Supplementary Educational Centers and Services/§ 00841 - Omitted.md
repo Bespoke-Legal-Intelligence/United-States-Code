@@ -6,5 +6,5 @@ Section, Pub. L. 89–10, title III, §301, Apr. 11, 1965, 79 Stat. 39; Pub. L. 
 
 #### Appropriation Under National Defense Provisions as Appropriation Under This Section
 
-Pub. L. 91–230, title I, §131(c), Apr. 13, 1970, 84 Stat. 141, provided that any appropriation for the purposes of title V of the National Defense Education Act of 1958,section 481 et seq. of this title, for any fiscal year ending after June 30, 1970, was to be deemed to have been appropriated pursuant to this section.
+Pub. L. 91–230, title I, §131(c), Apr. 13, 1970, 84 Stat. 141, provided that any appropriation for the purposes of title V of the National Defense Education Act of 1958, section 481 et seq. of this title, for any fiscal year ending after June 30, 1970, was to be deemed to have been appropriated pursuant to this section.
 

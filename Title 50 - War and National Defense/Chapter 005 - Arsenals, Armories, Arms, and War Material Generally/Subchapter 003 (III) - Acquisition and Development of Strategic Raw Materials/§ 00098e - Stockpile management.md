@@ -36,15 +36,15 @@ Except as provided in subsections (c) and (d) of this section, acquisition of st
 
 #### (d) Waiver; notification of proposed disposal of materials
 
-(1) The President may waive the applicability of any provision of the first sentence of subsection (b) of this section to any acquisition of material for, or disposal of material from, the stockpile. Whenever the President waives any such provision with respect to any such acquisition or disposal, or whenever the President determines that the application of paragraph (1) or (2) of such subsection to a particular acquisition or disposal is not feasible, the President shall notify the Committees on Armed Services of the Senate and House of Representatives in writing of the proposed acquisition or disposal at least thirty days before any obligation of the United States is incurred in connection with such acquisition or disposal and shall include in such notification the reasons for not complying with any provision of such subsection.
+(1) The President may waive the applicability of any provision of the first sentence of subsection (b) of this section to any acquisition of material for, or disposal of material from, the stockpile. Whenever the President waives any such provision with respect to any such acquisition or disposal, or whenever the President determines that the application of paragraph (1) or (2) of such subsection to a particular acquisition or disposal is not feasible, the President shall notify the Committee on Armed Services of theSenate and the Committee on National Security of the House of Representatives in writing of the proposed acquisition or disposal at least 45 days before any obligation of the United States is incurred in connection with such acquisition or disposal and shall include in such notification the reasons for not complying with any provision of such subsection.
 
-(2) Materials in the stockpile may be disposed of under subsection (a)(5) of this section only if the Committees on Armed Services of the Senate and House of Representatives are notified in writing of the proposed disposal at least thirty days before any obligation of the United States is incurred in connection with such disposal.
+(2) Materials in the stockpile may be disposed of under subsection (a)(5) of this section only if such congressional committees are notified in writing of the proposed disposal at least 45 days before any obligation of the United States is incurred in connection with such disposal.
 
 #### (e) Leasehold interests in property
 
 The President may acquire leasehold interests in property, for periods not in excess of twenty years, for storage, security, and maintenance of materials in the stockpile.
 
-(June 7, 1939, ch. 190, §6, as added July 30, 1979, Pub. L. 96–41, §2(a), 93 Stat. 321; amended Aug. 13, 1981, Pub. L. 97–35, title II, §203(c), 95 Stat. 382; Nov. 14, 1986, Pub. L. 99–661, div. C, title II, §3207(b), 100 Stat. 4069; Nov. 29, 1989, Pub. L. 101–189, div. C, title XXXIII, §3314, 103 Stat. 1688; Nov. 5, 1990, Pub. L. 101–510, div. C, title XXXIII, §3301(a), (b), 104 Stat. 1844; Dec. 5, 1991, Pub. L. 102–190, div. C, title XXXIII, §3312, 105 Stat. 1584; Oct. 5, 1994, Pub. L. 103–337, div. C, title XXXIII, §3302, 108 Stat. 3098.)
+(June 7, 1939, ch. 190, §6, as added July 30, 1979, Pub. L. 96–41, §2(a), 93 Stat. 321; amended Aug. 13, 1981, Pub. L. 97–35, title II, §203(c), 95 Stat. 382; Nov. 14, 1986, Pub. L. 99–661, div. C, title II, §3207(b), 100 Stat. 4069; Nov. 29, 1989, Pub. L. 101–189, div. C, title XXXIII, §3314, 103 Stat. 1688; Nov. 5, 1990, Pub. L. 101–510, div. C, title XXXIII, §3301(a), (b), 104 Stat. 1844; Dec. 5, 1991, Pub. L. 102–190, div. C, title XXXIII, §3312, 105 Stat. 1584; Oct. 5, 1994, Pub. L. 103–337, div. C, title XXXIII, §3302, 108 Stat. 3098; Feb. 10, 1996, Pub. L. 104–106, div. A, title XV, §1502(e)(1), 110 Stat. 509; Sept. 23, 1996, Pub. L. 104–201, div. C, title XXXIII, §3312(b), (c), 110 Stat. 2857.)
 
 #### Prior Provisions
 
@@ -53,6 +53,14 @@ A prior section 98e, acts June 7, 1939, ch. 190, §6, 53 Stat. 812; May 28, 1941
 Provisions similar to those in this section were contained in former section 98b of this title prior to repeal by Pub. L. 96–41.
 
 #### Amendments
+
+1996—Subsec. (d)(1). Pub. L. 104–201, §3312(b), substituted “45 days” for “thirty days”.
+
+Pub. L. 104–106, §1502(e)(1)(A), substituted “Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives” for “Committees on Armed Services of the Senate and House of Representatives”.
+
+Subsec. (d)(2). Pub. L. 104–201, §3312(c), substituted “45 days” for “thirty days”.
+
+Pub. L. 104–106, §1502(e)(1)(B), substituted “such congressional committees” for “the Committees on Armed Services of the Senate and House of Representatives”.
 
 1994—Subsec. (a)(4). Pub. L. 103–337 inserted “or technological obsolescence” after “deterioration”.
 
@@ -73,10 +81,6 @@ Subsec. (d)(1). Pub. L. 101–189, §3314(2), substituted “paragraph (1) or (2
 1986—Subsec. (a)(3). Pub. L. 99–661 substituted “a form more” for “the form most”.
 
 1981—Subsec. (a)(6). Pub. L. 97–35 inserted reference to section 98d(b) of this title.
-
-#### Change of Name
-
-Committee on Armed Services of House of Representatives treated as referring to Committee on National Security of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Delegation of Functions
 

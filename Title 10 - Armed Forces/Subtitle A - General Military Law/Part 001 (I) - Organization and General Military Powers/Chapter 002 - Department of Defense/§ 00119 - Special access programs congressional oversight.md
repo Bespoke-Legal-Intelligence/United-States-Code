@@ -1,6 +1,6 @@
 ### §119. Special access programs: congressional oversight
 
-(a)(1) Not later than February 1 of each year, the Secretary of Defense shall submit to the defense committees a report on special access programs.
+(a)(1) Not later than March 1 of each year, the Secretary of Defense shall submit to the defense committees a report on special access programs.
 
 (2) Each such report shall set forth—
 
@@ -56,13 +56,21 @@
 
 (g) In this section, the term “defense committees” means—
 
-&emsp;(1) the Committees on Armed Services and Appropriations of the Senate and House of Representatives; and
+&emsp;(1) the Committee on Armed Services and the Committee on Appropriations, and the Defense Subcommittee of the Committee on Appropriations, of the Senate; and
 
-&emsp;(2) the Defense Subcommittees of the Committees on Appropriations of the Senate and House of Representatives.
+&emsp;(2) the Committee on National Security and the Committee on Appropriations, and the National Security Subcommittee of the Committee on Appropriations, of the House of Representatives.
 
-(Added Pub. L. 100–180, div. A, title XI, §1132(a)(1), Dec. 4, 1987, 101 Stat. 1151; amended Pub. L. 101–510, div. A, title XIV, §§1461, 1482(a), Nov. 5, 1990, 104 Stat. 1698, 1709.)
+(Added Pub. L. 100–180, div. A, title XI, §1132(a)(1), Dec. 4, 1987, 101 Stat. 1151; amended Pub. L. 101–510, div. A, title XIV, §§1461, 1482(a), Nov. 5, 1990, 104 Stat. 1698, 1709; Pub. L. 104–106, div. A, title X, §1055, title XV, §1502(a)(4), Feb. 10, 1996, 110 Stat. 442, 502.)
 
 #### Amendments
+
+1996—Subsec. (a)(1). Pub. L. 104–106, §1055, substituted “March 1” for “February 1”.
+
+Subsec. (g). Pub. L. 104–106, §1502(a)(4), added pars. (1) and (2) and struck out former pars. (1) and (2) which read as follows:
+
+“(1) the Committees on Armed Services and Appropriations of the Senate and House of Representatives; and
+
+“(2) the Defense Subcommittees of the Committees on Appropriations of the Senate and House of Representatives.”
 
 1990—Subsec. (c). Pub. L. 101–510, §1461(a), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “Whenever a change is made in the status of a program of the Department of Defense as a special access program, the Secretary of Defense shall submit to the defense committees a report describing the change. Any such report shall be submitted not later than 30 days after the date on which the change takes effect.”
 
@@ -71,10 +79,6 @@ Subsec. (f). Pub. L. 101–510, §1482(a)(2), added subsec. (f). Former subsec. 
 Pub. L. 101–510, §1461(b), inserted “and Appropriations” after “Armed Services” in par. (1).
 
 Subsec. (g). Pub. L. 101–510, §1482(a)(1), redesignated subsec. (f) as (g).
-
-#### Change of Name
-
-Committee on Armed Services of House of Representatives treated as referring to Committee on National Security of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Effective Date of 1990 Amendment
 
@@ -94,5 +98,5 @@ Five-Year Reference Amounts.—The first report under subsection (a) of section 
 
 “(c)
 
-Initial Report on Special Access Program Designations.—The first report under subsection (b) ofsection 119 of title 10, United States Code (as added by subsection (a)), shall cover each existing special access program.”
+Initial Report on Special Access Program Designations.—The first report under subsection (b) of section 119 of title 10, United States Code (as added by subsection (a)), shall cover each existing special access program.”
 

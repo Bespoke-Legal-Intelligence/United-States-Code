@@ -1,10 +1,10 @@
 ### \[§453C. Repealed. Pub. L. 100–203, title X, §10202(a)(1), Dec. 22, 1987, 101 Stat. 1330–388\]
 
-Section, added Pub. L. 99–514, title VIII, §811(a), Oct. 22, 1986, 100 Stat. 2365; amended Pub. L. 100–647, title I,§1008(f)(1)–(5), Nov. 10, 1988, 102 Stat. 3441, 3442, related to treatment of certain indebtedness as payment on installment obligations.
+Section, added Pub. L. 99–514, title VIII, §811(a), Oct. 22, 1986, 100 Stat. 2365; amended Pub. L. 100–647, title I, §1008(f)(1)–(5), Nov. 10, 1988, 102 Stat. 3441, 3442, related to treatment of certain indebtedness as payment on installment obligations.
 
 #### Effective Date of Repeal
 
-Repeal applicable to dispositions in taxable years beginning after Dec. 31, 1987, with special rules for dealers and non-dealers, and coordination with Tax Reform Act of 1986, see section 10202(e)(1)–(3), (5) of Pub. L. 100–203, set out as a note under section 453 of this title.
+Repeal applicable to dispositions in taxable years beginning after Dec. 31, 1987, with special rules for dealers and non-dealers, and coordination with Tax Reform Actof 1986, see section 10202(e)(1)–(3), (5) of Pub. L. 100–203, set out as a note under section 453 of this title.
 
 #### Applicability of Amendments by Pub. L. 100–203 and Pub. L. 100–647
 
@@ -106,7 +106,7 @@ Special rule for sales of personal property by dealers.—In the case of install
 
 &emsp;“(A) any increase in tax imposed by chapter 1 of the Internal Revenue Code of 1986 for the 1st taxable year of the taxpayer ending after December 31, 1986, by reason of the amendments made by this section shall be treated as imposed ratably over the 3 taxable years beginning with such 1st taxable year, and
 
-&emsp;“(B) any increase in tax imposed by such chapter 1 for the 2nd taxable year of the taxpayer ending after December 31, 1986 (determined without regard to subparagraph (A)), by reason of the amendments made by this section shall be treated as imposed ratably over the 2 taxable years beginning with such 2nd taxable year.
+&emsp;“(B) any increase in tax imposed by such chapter 1 for the 2nd taxable year of the taxpayer ending afterDecember 31, 1986 (determined without regard to subparagraph (A)), by reason of the amendments made by this section shall be treated as imposed ratably over the 2 taxable years beginning with such 2nd taxable year.
 
 “(8)
 

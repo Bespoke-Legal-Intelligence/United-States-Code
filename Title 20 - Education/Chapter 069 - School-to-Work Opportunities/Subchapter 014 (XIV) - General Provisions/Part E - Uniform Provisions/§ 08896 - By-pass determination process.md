@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;(A) The Secretary shall not take any final action under section 8894 of this title until the State educational agency, local educational agency, educational service agency, or consortium of such agencies affected by such action has had an opportunity, for not less than 45 days after receiving written notice thereof, to submit written objections and to appear before the Secretary to show cause why that action should not be taken.
+&emsp;(A) The Secretary shall not take any final action under section 8894 of this title until the State educational agency, local educational agency, educational service agency, or consortium of such agencies affected by such action has had an opportunity, for not less than 45 days after receiving written notice thereof, tosubmit written objections and to appear before the Secretary to show cause why that action should not be taken.
 
 &emsp;(B) Pending final resolution of any investigation or complaint that could result in a determination under this section, the Secretary may withhold from the allocation of the affected State or local educational agency the amount estimated by the Secretary to be necessary to pay the cost of those services.
 

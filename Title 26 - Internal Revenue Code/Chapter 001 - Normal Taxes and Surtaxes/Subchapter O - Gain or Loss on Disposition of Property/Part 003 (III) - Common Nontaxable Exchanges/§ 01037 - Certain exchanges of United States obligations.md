@@ -12,7 +12,7 @@ When so provided by regulations promulgated by the Secretary in connection with 
 
 &emsp;&emsp;(A) the aggregate amount considered, with respect to the obligation surrendered, as ordinary income shall not exceed the difference between the issue price and the stated redemption price which applies at the time of the exchange, and
 
-&emsp;&emsp;(B) the issue price of the obligation received in the exchange shall be considered to be the stated redemption price of the obligation surrendered in the exchange, increased by the amount of other consideration (if any) paid to the United States as a part of the exchange.
+&emsp;&emsp;(B) the issue price of the obligation received in the exchange shall be considered tobe the stated redemption price of the obligation surrendered in the exchange, increased by the amount of other consideration (if any) paid to the United States as a part of the exchange.
 
 #### (2) Exchanges of transferable obligations issued at not less than par
 

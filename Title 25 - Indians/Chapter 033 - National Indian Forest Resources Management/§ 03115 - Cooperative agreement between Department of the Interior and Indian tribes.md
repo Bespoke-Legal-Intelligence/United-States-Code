@@ -12,11 +12,11 @@
 
 > The Secretary may enter into such agreements when the Secretary determines the public interest will be benefited.
 
-(2) In such cooperative agreements, the Secretary is authorized to advance or reimburse funds to contractors from any appropriatedfunds available for similar kinds of work or by furnishing or sharing materials, supplies, facilities or equipment without regard to the provisions of section 3324, title 31, relating to the advance of public moneys.
+(2) In such cooperative agreements, the Secretary is authorized to advance or reimburse funds to contractors from any appropriated funds available for similar kinds of work or by furnishing or sharing materials, supplies, facilities or equipment without regard to the provisions of section 3324, title 31, relating to the advance of public moneys.
 
 #### (b) Supervision
 
-In any agreement authorized by this section, Indian tribes and their employees may perform cooperative work under the supervision of the Department of the Interior in emergencies or otherwise as mutually agreed to, but shall not be deemed to be Federal employees other than for purposes of section <sup>1</sup> 2671 through 2680 of title 28 and section <sup>1</sup> 8101 through 8193 of title 5.
+In any agreement authorized by this section, Indian tribes and their employees may perform cooperative work under the supervision of the Department of the Interior in emergencies orotherwise as mutually agreed to, but shall not be deemed to be Federal employees other than for purposes of section <sup>1</sup> 2671 through 2680 of title 28 and section <sup>1</sup> 8101 through 8193 of title 5.
 
 #### (c) Savings provision
 

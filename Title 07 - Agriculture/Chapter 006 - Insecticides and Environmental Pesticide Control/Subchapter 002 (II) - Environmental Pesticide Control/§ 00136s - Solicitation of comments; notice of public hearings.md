@@ -4,17 +4,23 @@
 
 The Administrator, before publishing regulations under this subchapter, shall solicit the views of the Secretary of Agriculture in accordance with the procedure described in section 136w(a) of this title.
 
-#### (b) Views
+#### (b) Secretary of Health and Human Services
 
-In addition to any other authority relating to public hearings and solicitation of views, in connection with the suspension or cancellation of a pesticide registration or any other actions authorized under this subchapter, the Administrator may, at the Administrator's discretion, solicit the views of all interested persons, either orally or in writing, and seek such advice from scientists, farmers, farm organizations, and other qualified persons as the Administrator deems proper.
+The Administrator, before publishing regulations under this subchapter for any public health pesticide, shall solicit the views of the Secretary of Health and Human Services in the same manner as the views of the Secretary of Agriculture are solicited under section 136w(a)(2) of this title.
 
-#### (c) Notice
+#### (c) Views
+
+In addition to any other authority relating to public hearings and solicitation of views, in connection with the suspension or cancellation of a pesticide registration or any other actions authorized under this subchapter, the Administrator may, at the Administrator's discretion, solicit the views of all interested persons, eitherorally or in writing, and seek such advice from scientists, farmers, farm organizations, and other qualified persons as the Administrator deems proper.
+
+#### (d) Notice
 
 In connection with all public hearings under this subchapter the Administrator shall publish timely notice of such hearings in the Federal Register.
 
-(June 25, 1947, ch. 125, §21, as added Oct. 21, 1972, Pub. L. 92–516, §2, 86 Stat. 996; amended Nov. 28, 1975, Pub. L. 94–140, §2(b), 89 Stat. 752; Oct. 25, 1988, Pub. L. 100–532, title VIII, §801(<i>l</i>), 102 Stat. 2682; Dec. 13, 1991, Pub. L. 102–237, title X, §1006(b)(1), (2), 105 Stat. 1895.)
+(June 25, 1947, ch. 125, §21, as added Oct. 21, 1972, Pub. L. 92–516, §2, 86 Stat. 996; amended Nov. 28, 1975, Pub. L. 94–140, §2(b), 89 Stat. 752; Oct. 25, 1988, Pub. L. 100–532, title VIII, §801(<i>l</i>), 102 Stat. 2682; Dec. 13, 1991, Pub. L. 102–237, title X, §1006(b)(1), (2), 105 Stat. 1895; Aug. 3, 1996, Pub. L. 104–170, title II, §234, 110 Stat. 1509.)
 
 #### Amendments
+
+1996—Subsecs. (b) to (d). Pub. L. 104–170 added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively.
 
 1991—Subsec. (b). Pub. L. 102–237 substituted “the Administrator” for “he” before “deems” and “the Administrator's” for “his”.
 

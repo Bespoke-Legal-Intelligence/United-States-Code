@@ -4,11 +4,13 @@
 
 &emsp;(1) a loan made, insured, or guaranteed under part B of title IV of the Higher Education Act of 1965 (20 U.S.C. 1071 et seq.);
 
-&emsp;(2) a loan made under part E of such title (20 U.S.C. 1087aa et seq.) after October 1, 1975;
+&emsp;(2) any loan made under part D of such title (the William D. Ford Federal Direct Loan Program, 20 U.S.C. 1087a et seq.); or
 
-&emsp;(3) a health professions education loan made or insured under part A of title VII of the Public Health Service Act (42 U.S.C. 292 et seq.) or under part B of title VIII of such Act (42 U.S.C. 297 et seq.); and
+&emsp;(3) a loan made under part E of such title (20 U.S.C. 1087aa et seq.) after October 1, 1975;
 
-&emsp;(4) a loan made, insured, or guaranteed through a recognized financial or educational institution if that loan was used to finance education regarding a health profession that the Secretary of Defense determines to be critically needed in order to meet identified wartime combat medical skill shortages.
+&emsp;(4) a health professions education loan made or insured under part A of title VII of the Public Health Service Act (42 U.S.C. 292 et seq.) or under part B of title VIII of such Act (42 U.S.C. 297 et seq.); and
+
+&emsp;(5) a loan made, insured, or guaranteed through a recognized financial or educationalinstitution if that loan was used to finance education regarding a health profession that the Secretary of Defense determines to be critically needed in order to meet identified wartime combat medical skill shortages.
 
 (b) The Secretary concerned may repay loans described in subsection (a) only in the case of a person who—
 
@@ -18,21 +20,27 @@
 
 (c)(1) The amount of any repayment of a loan made under this section on behalf of any person shall be determined on the basis of each complete year of service that is described in subsection (b)(1) and performed by the person after the date on which the loan was made.
 
-(2) Subject to paragraph (3), the amount of a loan that may be repaid under this section onbehalf of any person may not exceed $3,000 for each year of service described in paragraph (1).
+(2) Subject to paragraph (3), the amount of a loan that may be repaid under this section on behalf of any person may not exceed $3,000 for each year of service described in paragraph (1).
 
 (3) The total amount that may be repaid on behalf of any person under this section may not exceed $20,000.
 
-(d) The authority provided in this section shall apply only in the case of a person first appointed as a commissioned officer before October 1, 1996.
+(d) The authority provided in this section shall apply only in the case of a person first appointed as a commissioned officer before October 1, 1998.
 
-(Added Pub. L. 99–145, title VI, §671(a)(1), Nov. 8, 1985, 99 Stat. 662, §2172; amended Pub. L. 100–180, div. A, title VII, §713, Dec. 4, 1987, 101 Stat. 1112; Pub. L. 101–189, div. A, title VII, §701(a)–(c), Nov. 29, 1989, 103 Stat. 1467; Pub. L. 102–484, div. A, title VI, §612(f), Oct. 23, 1992, 106 Stat. 2421; Pub. L. 103–160, div. A, title VI, §613(f), Nov. 30, 1993, 107 Stat. 1681; renumbered §16302 and amended Pub. L. 103–337, div. A, title VI, §613(e), title X, §1070(a)(9), title XVI, §1663(d)(2), Oct. 5, 1994, 108 Stat. 2783, 2855, 3009.)
+(Added Pub. L. 99–145, title VI, §671(a)(1), Nov. 8, 1985, 99 Stat. 662, §2172; amended Pub. L. 100–180, div. A, title VII, §713, Dec. 4, 1987, 101 Stat. 1112; Pub. L. 101–189, div. A, title VII, §701(a)–(c), Nov. 29, 1989, 103 Stat. 1467; Pub. L. 102–484, div. A, title VI, §612(f), Oct. 23, 1992, 106 Stat. 2421; Pub. L. 103–160, div. A, title VI, §613(f), Nov. 30, 1993, 107 Stat. 1681; renumbered §16302 and amended Pub. L. 103–337, div. A, title VI, §613(e), title X, §1070(a)(9), title XVI, §1663(d)(2), Oct. 5, 1994, 108 Stat. 2783, 2855, 3009; Pub. L. 104–106, div. A, title VI, §613(h), title X, §1079(c), Feb. 10, 1996, 110 Stat. 360, 452; Pub. L. 104–201, div. A, title VI, §613(g), Sept. 23, 1996, 110 Stat. 2544.)
 
 #### References in Text
 
-The Higher Education Act of 1965, referred to in subsec. (a)(1), (2), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended. Parts B and E of title IV of the Act are classified to parts B (§1071 et seq.) and D (§1087aa et seq.), respectively, of subchapter IV of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
+The Higher Education Act of 1965, referred to in subsec. (a)(1) to (3), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended. Parts B, D, and E of title IV of the Act are classified to parts B (§1071 et seq.), C (§1087a et seq.), and D (§1087aa et seq.), respectively, of subchapter IV of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
-The Public Health Service Act, referred to in subsec. (a)(3), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended. Part A of title VII of the Act is classified generally to part A (§292 et seq.) of subchapter V of chapter 6A of Title 42, The Public Health and Welfare. Part B of title VIII of the Act is classified generally to part B (§297 et seq.) of subchapter VI of chapter 6A of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
+The Public Health Service Act, referred to in subsec. (a)(4), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended. Part A of title VII of the Act is classified generally to part A (§292 et seq.) of subchapter V of chapter 6A of Title 42, The Public Health and Welfare. Part B of title VIII of the Act is classified generally to part B (§297 et seq.) of subchapter VI of chapter 6A of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
 
 #### Amendments
+
+1996—Subsec. (a)(2) to (5). Pub. L. 104–106, §1079(c), added par. (2) and redesignated former pars. (2) to (4) as (3) to (5), respectively.
+
+Subsec. (d). Pub. L. 104–201 substituted “October 1, 1998” for “October 1, 1997”.
+
+Pub. L. 104–106, §613(h), substituted “October 1, 1997” for “October 1, 1996”.
 
 1994—Pub. L. 103–337, §1663(d)(2), renumbered section 2172 of this title as this section and substituted “Education loan repayment program: health professions officers serving in Selected Reserve with wartime critical medical skill shortages” for “Education loans for certain health professionals who serve in the Selected Reserve” as section catchline.
 

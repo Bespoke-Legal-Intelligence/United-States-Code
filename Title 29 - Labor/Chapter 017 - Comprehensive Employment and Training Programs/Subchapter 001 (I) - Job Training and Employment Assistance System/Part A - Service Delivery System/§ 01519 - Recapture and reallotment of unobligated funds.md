@@ -48,7 +48,7 @@ Funds obligated to carry out programs under section 1604(d) of this title shall 
 
 #### Effective Date
 
-Section effective July 1, 1993, see section 701(a) of Pub. L. 102–367, set out as an Effective Date of 1992 Amendment; Transition Provisions note under section 1501 of this title.
+Section effective July 1, 1993, see section 701(a) of Pub. L. 102–367, set out as an Effective Date of 1992Amendment; Transition Provisions note under section 1501 of this title.
 
 #### Section Referred to in Other Sections
 

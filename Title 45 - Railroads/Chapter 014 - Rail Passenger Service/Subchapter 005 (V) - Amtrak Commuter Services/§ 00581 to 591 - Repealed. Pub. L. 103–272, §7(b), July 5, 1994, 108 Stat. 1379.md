@@ -24,7 +24,7 @@ Section 588, Pub. L. 91–518, title V, §508, as added Pub. L. 97–35, title X
 
 Section 589, Pub. L. 91–518, title V, §509, as added Pub. L. 97–35, title XI, §1145, Aug. 13, 1981, 95 Stat. 671, established factfinding panel to recommend changes in operating practices to maximize productivity.
 
-Section 590, Pub. L. 91–518, title V, §510, as added Pub. L. 97–35, title XI, §1145, Aug. 13, 1981, 95 Stat. 671, related to collective bargaining agreements for AmtrakCommuter Services Corporation or commuter authorities, contingency emergency boards, and dispute resolution procedures.
+Section 590, Pub. L. 91–518, title V, §510, as added Pub. L. 97–35, title XI, §1145, Aug. 13, 1981, 95 Stat. 671, related to collective bargaining agreements for Amtrak Commuter Services Corporation or commuter authorities, contingency emergency boards, and dispute resolution procedures.
 
 Section 591, Pub. L. 91–518, title V, §511, as added Pub. L. 97–468, title V, §509, Jan. 14, 1983, 96 Stat. 2554, provided for applicability of laws to commuter authorities operating commuter services under this subchapter. See section 24505 of Title 49, Transportation.
 

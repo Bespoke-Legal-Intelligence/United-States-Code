@@ -6,7 +6,9 @@ Sections 47528(a)–(d) and 47529 of this title do not apply to aircraft used on
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

@@ -24,7 +24,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 5 U.S.C. 751.
 
@@ -40,7 +42,7 @@ Section 3(a) of the Panama Canal Act of 1979, referred to in subsec. (b), is cla
 
 #### Amendments
 
-<b>1979</b>—Subsec. (b). Pub. L. 96–70 substituted “areas and installations in the Republic of Panama made available to the United States pursuant to the Panama Canal Treaty of 1977 and related agreements (as described in section 3(a) of the Panama Canal Act of 1979)” for “Canal Zone”.
+1979—Subsec. (b). Pub. L. 96–70 substituted “areas and installations in the Republic of Panama made available to the United States pursuant to the Panama Canal Treaty of 1977 and related agreements (as described in section 3(a) of the Panama Canal Act of 1979)” for “Canal Zone”.
 
 #### Effective Date of 1979 Amendment
 

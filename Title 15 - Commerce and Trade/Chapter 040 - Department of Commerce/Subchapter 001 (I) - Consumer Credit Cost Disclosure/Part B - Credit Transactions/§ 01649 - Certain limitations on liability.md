@@ -2,7 +2,7 @@
 
 #### (a) Limitations on liability
 
-For any consumer credit transaction subject to this subchapter that is consummated before September 30, 1995, a creditor or any assignee of a creditor shall have no civil, administrative, or criminal liability under this subchapter for, and a consumer shall have no extended rescission rights under section 1635(f) of this title with respect to—
+For any closed end consumer credit transaction that is secured by real property or a dwelling, that is subject to this subchapter, and that is consummated before September 30, 1995, a creditor or any assignee of a creditor shall have no civil, administrative, or criminal liability under this subchapter for, and a consumer shall have no extended rescission rights under section 1635(f) of this title with respect to—
 
 &emsp;(1) the creditor's treatment, for disclosure purposes, of—
 
@@ -36,7 +36,15 @@ Subsection (a) of this section shall not apply to—
 
 &emsp;(4) any consumer credit transaction with respect to which a timely notice of rescission was sent to the creditor before June 1, 1995.
 
-(Pub. L. 90–321, title I, §139, as added Pub. L. 104–29, §4(a), Sept. 30, 1995, 109 Stat. 273.)
+(Pub. L. 90–321, title I, §139, as added Pub. L. 104–29, §4(a), Sept. 30, 1995, 109 Stat. 273; amended Pub. L. 104–208, div. A, title II, §2107(a), Sept. 30, 1996, 110 Stat. 3009–402.)
+
+#### Amendments
+
+1996—Subsec. (a). Pub. L. 104–208 substituted “For any closed end consumer credit transaction that is secured by real property or a dwelling, that is subject to this subchapter, and” for “For any consumer credit transaction subject to this subchapter”.
+
+#### Effective Date of 1996 Amendment
+
+Section 2107(b) of div. A of Pub. L. 104–208 provided that: “The amendment made by subsection (a) \[amending this section\] shall be effective as of September 30, 1995.”
 
 #### Section Referred to in Other Sections
 

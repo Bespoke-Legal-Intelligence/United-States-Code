@@ -1,7 +1,5 @@
 Part A—Obligations of the United States
 
-<i><sup>1</sup></i><i> So in original.</i>
-
 
 ---
 

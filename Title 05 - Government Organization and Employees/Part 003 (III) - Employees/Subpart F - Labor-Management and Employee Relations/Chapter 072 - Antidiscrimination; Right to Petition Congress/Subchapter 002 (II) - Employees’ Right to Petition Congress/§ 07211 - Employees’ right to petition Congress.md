@@ -14,5 +14,5 @@ Section effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–4
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 3303 of this title; title 39 section 1002.
+This section is referred to in title 39 section 1002.
 

@@ -16,7 +16,7 @@
 
 &emsp;(D) The development of policies and procedures for synergistic government, industrial, and university participation in the implementation of the strategy.
 
-&emsp;(E) The development of Federal budget estimates for research and development regardingthe critical technology or technologies covered by the strategy for the first five fiscal years covered by that strategy.
+&emsp;(E) The development of Federal budget estimates for research and development regarding the critical technology or technologies covered by the strategy for the first five fiscal years covered by that strategy.
 
 #### (b) Report
 

@@ -19,7 +19,7 @@
 | [109\.](%C2%A7%2000109%20-%20Improvements%20by%20lessee%20on%20lessor%27s%20property.md) | Improvements by lessee on lessor's property. |
 | \[110. | Repealed.\] |
 | [111\.](%C2%A7%2000111%20-%20Recovery%20of%20tax%20benefit%20items.md) | Recovery of tax benefit items. |
-| [112\.](%C2%A7%2000112%20-%20Certain%20combat%20pay%20of%20members%20of%20the%20Armed%20Forces.md) | Certain combat pay of members of the Armed Forces. |
+| [112\.](%C2%A7%2000112%20-%20Certain%20combat%20zone%20compensation%20of%20members%20of%20the%20Armed%20Forces.md) | Certain combat zone compensation of members of the Armed Forces. |
 | \[113, 114. | Repealed.\] |
 | [115\.](%C2%A7%2000115%20-%20Income%20of%20States%2C%20municipalities%2C%20etc.md) | Income of States, municipalities, etc.<sup>1</sup> |
 | \[116. | Repealed.\] |
@@ -44,15 +44,18 @@
 | [130\.](%C2%A7%2000130%20-%20Certain%20personal%20injury%20liability%20assignments.md) | Certain personal injury liability assignments. |
 | [131\.](%C2%A7%2000131%20-%20Certain%20foster%20care%20payments.md) | Certain foster care payments. |
 | [132\.](%C2%A7%2000132%20-%20Certain%20fringe%20benefits.md) | Certain fringe benefits. |
-| [133\.](%C2%A7%2000133%20-%20Interest%20on%20certain%20loans%20used%20to%20acquire%20employer%20securities.md) | Interest on certain loans used to acquire employer securities. |
+| \[133. | Repealed.\] |
 | [134\.](%C2%A7%2000134%20-%20Certain%20military%20benefits.md) | Certain military benefits. |
 | [135\.](%C2%A7%2000135%20-%20Income%20from%20United%20States%20savings%20bonds%20used%20to%20pay%20higher%20education%20tuition%20and%20fees.md) | Income from United States savings bonds used to pay higher education tuition and fees. |
 | [136\.](%C2%A7%2000136%20-%20Energy%20conservation%20subsidies%20provided%20by%20public%20utilities.md) | Energy conservation subsidies provided by public utilities. |
-| [137\.](%C2%A7%2000137%20-%20Cross%20references%20to%20other%20Acts.md) | Cross reference to other Acts.<sup>3</sup> |
+| [137\.](%C2%A7%2000137%20-%20Adoption%20assistance%20programs.md) | Adoption assistance programs. |
+| [138\.](%C2%A7%2000138%20-%20Cross%20references%20to%20other%20Acts.md) | Cross reference to other Acts.<sup>3</sup> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1996—Pub. L. 104–188, title I, §§1602(b)(8), 1704(t)(4)(B), 1807(c)(7), Aug. 20, 1996, 110 Stat. 1834, 1887, 1902, substituted “combat zone compensation” for “combat pay” in item 112, struck out item 133 “Interest on certain loans used to acquire employer securities”, added items 137 and 138, and struck out former item 137 “Cross reference to other Acts”.
 
 1992—Pub. L. 102–486, title XIX, §1912(b), Oct. 24, 1992, 106 Stat. 3016, added items 136 and 137 and struck out former item 136 “Cross references to other Acts”.
 
@@ -117,7 +120,7 @@ This part is referred to in section 61 of this title.
 - [&sect; 00109 - Improvements by lessee on lessor's property](%C2%A7%2000109%20-%20Improvements%20by%20lessee%20on%20lessor%27s%20property.md)
 - [&sect; 00110 - Repealed. Pub. L. 101&#8211;508, title XI, &sect;11801(a)(6), Nov. 5, 1990, 104 Stat. 1388&#8211;520](%C2%A7%2000110%20-%20Repealed.%20Pub.%20L.%20101%E2%80%93508%2C%20title%20XI%2C%20%C2%A711801%28a%29%286%29%2C%20Nov.%205%2C%201990%2C%20104%20Stat.%201388%E2%80%93520.md)
 - [&sect; 00111 - Recovery of tax benefit items](%C2%A7%2000111%20-%20Recovery%20of%20tax%20benefit%20items.md)
-- [&sect; 00112 - Certain combat pay of members of the Armed Forces](%C2%A7%2000112%20-%20Certain%20combat%20pay%20of%20members%20of%20the%20Armed%20Forces.md)
+- [&sect; 00112 - Certain combat zone compensation of members of the Armed Forces](%C2%A7%2000112%20-%20Certain%20combat%20zone%20compensation%20of%20members%20of%20the%20Armed%20Forces.md)
 - [&sect; 00113, 114 - Repealed. Pub. L. 101&#8211;508, title XI, &sect;11801(a)(7), (8), Nov. 5, 1990, 104 Stat. 1388&#8211;520](%C2%A7%2000113%2C%20114%20-%20Repealed.%20Pub.%20L.%20101%E2%80%93508%2C%20title%20XI%2C%20%C2%A711801%28a%29%287%29%2C%20%288%29%2C%20Nov.%205%2C%201990%2C%20104%20Stat.%201388%E2%80%93520.md)
 - [&sect; 00115 - Income of States, municipalities, etc](%C2%A7%2000115%20-%20Income%20of%20States%2C%20municipalities%2C%20etc.md)
 - [&sect; 00116 - Repealed. Pub. L. 99&#8211;514, title VI, &sect;612(a), Oct. 22, 1986, 100 Stat. 2250](%C2%A7%2000116%20-%20Repealed.%20Pub.%20L.%2099%E2%80%93514%2C%20title%20VI%2C%20%C2%A7612%28a%29%2C%20Oct.%2022%2C%201986%2C%20100%20Stat.%202250.md)
@@ -137,8 +140,9 @@ This part is referred to in section 61 of this title.
 - [&sect; 00130 - Certain personal injury liability assignments](%C2%A7%2000130%20-%20Certain%20personal%20injury%20liability%20assignments.md)
 - [&sect; 00131 - Certain foster care payments](%C2%A7%2000131%20-%20Certain%20foster%20care%20payments.md)
 - [&sect; 00132 - Certain fringe benefits](%C2%A7%2000132%20-%20Certain%20fringe%20benefits.md)
-- [&sect; 00133 - Interest on certain loans used to acquire employer securities](%C2%A7%2000133%20-%20Interest%20on%20certain%20loans%20used%20to%20acquire%20employer%20securities.md)
+- [&sect; 00133 - Repealed. Pub. L. 104&#8211;188, title I, &sect;1602(a), Aug. 20, 1996, 110 Stat. 1833](%C2%A7%2000133%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93188%2C%20title%20I%2C%20%C2%A71602%28a%29%2C%20Aug.%2020%2C%201996%2C%20110%20Stat.%201833.md)
 - [&sect; 00134 - Certain military benefits](%C2%A7%2000134%20-%20Certain%20military%20benefits.md)
 - [&sect; 00135 - Income from United States savings bonds used to pay higher education tuition and fees](%C2%A7%2000135%20-%20Income%20from%20United%20States%20savings%20bonds%20used%20to%20pay%20higher%20education%20tuition%20and%20fees.md)
 - [&sect; 00136 - Energy conservation subsidies provided by public utilities](%C2%A7%2000136%20-%20Energy%20conservation%20subsidies%20provided%20by%20public%20utilities.md)
-- [&sect; 00137 - Cross references to other Acts](%C2%A7%2000137%20-%20Cross%20references%20to%20other%20Acts.md)
+- [&sect; 00137 - Adoption assistance programs](%C2%A7%2000137%20-%20Adoption%20assistance%20programs.md)
+- [&sect; 00138 - Cross references to other Acts](%C2%A7%2000138%20-%20Cross%20references%20to%20other%20Acts.md)

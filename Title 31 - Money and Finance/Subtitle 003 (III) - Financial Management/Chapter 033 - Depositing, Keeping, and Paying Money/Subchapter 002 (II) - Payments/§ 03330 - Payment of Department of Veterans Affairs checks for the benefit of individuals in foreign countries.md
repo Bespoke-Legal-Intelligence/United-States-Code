@@ -26,7 +26,7 @@
 
 (d)(1) A payment may be made under subsection (c) of this section only if a claim for payment is—
 
-&emsp;(A) filed with the Secretary of Veterans Affairs by the end of the first year after the dateof the death of the individual entitled to payment; and
+&emsp;(A) filed with the Secretary of Veterans Affairs by the end of the first year after the date of the death of the individual entitled to payment; and
 
 &emsp;(B) completed by submitting the necessary evidence by the 6th month after the date the Secretary of Veterans Affairs requests the evidence.
 
@@ -64,7 +64,7 @@ In subsection (a)(1), before clause (A), the word “issued” is substituted fo
 
 In subsection (b), the words “under section 3329(b)(4) of this title” are substituted for “to the special deposit account” for clarity and because of the restatement. The words “deposited in” are substituted for “covered into” for clarity and consistency in the revised title.
 
-In subsection (c), before clause (1), the word “accruing” is omitted as surplus. In clauses (1) and (2), the words “surviving spouse” and “spouse” are substituted for “widow”, and the word “spouse's” is substituted for “widow's”, to conform to amendments made generally to title 38 by the Veterans Disability Compensation and Survivor Benefits Act of 1976 (Pub. L. 94–433, 90 Stat. 1374). In clause (1), the words “first to” are omitted as surplus. In clause (4), the word “only” is substituted for “no disbursement whatsoever of such pension, compensation, or emergency officers’ retirement pay shall be made or allowed except so much” to eliminate unnecessary words.
+In subsection (c), before clause (1), the word “accruing” is omitted as surplus. In clauses (1) and (2), the words “surviving spouse” and “spouse” are substituted for “widow”, and the word “spouse's” is substituted for “widow's”, to conform to amendments made generally to title 38 by the Veterans Disability Compensation and Survivor Benefits Act of 1976 (Pub. L. 94–433, 90 Stat.1374). In clause (1), the words “first to” are omitted as surplus. In clause (4), the word “only” is substituted for “no disbursement whatsoever of such pension, compensation, or emergency officers’ retirement pay shall be made or allowed except so much” to eliminate unnecessary words.
 
 In subsection (d)(1)(B), the word “completed” is substituted for “perfected” for clarity.
 

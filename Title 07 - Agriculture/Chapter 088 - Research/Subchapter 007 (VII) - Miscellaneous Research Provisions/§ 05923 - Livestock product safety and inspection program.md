@@ -24,11 +24,13 @@ In providing assistance under this section, the Assistant Secretary for Science 
 
 #### (e) Authorization of appropriations
 
-There are authorized to be appropriated to carry out this section, such sums as necessary for each of the fiscal years 1991 through 1995.
+There are authorized to be appropriated to carry out this section, such sums as necessary for each of the fiscal years 1991 through 1997.
 
-(Pub. L. 101–624, title XVI, §1670, Nov. 28, 1990, 104 Stat. 3769; Pub. L. 102–237, title IV, §407(10), Dec. 13, 1991, 105 Stat. 1865.)
+(Pub. L. 101–624, title XVI, §1670, Nov. 28, 1990, 104 Stat. 3769; Pub. L. 102–237, title IV, §407(10), Dec. 13, 1991, 105 Stat. 1865; Pub. L. 104–127, title VIII, §834, Apr. 4, 1996, 110 Stat. 1169.)
 
 #### Amendments
+
+1996—Subsec. (e). Pub. L. 104–127 substituted “1997” for “1995”.
 
 1991—Subsec. (d). Pub. L. 102–237 substituted “aquaculture” for “acquaculture”.
 

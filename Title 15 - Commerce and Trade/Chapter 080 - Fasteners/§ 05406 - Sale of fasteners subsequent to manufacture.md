@@ -2,11 +2,11 @@
 
 #### (a) Domestically produced fasteners
 
-It shall be unlawful for a manufacturer to sell any shipment of fasteners (except fasteners for which the Secretary has waived the requirements of this chapter pursuant to section 5403 of this title) which are manufactured in the United States unless the fasteners are accompanied, at the time of delivery, by a written certificate by the manufacturer certifying that—
+It shall be unlawful for a manufacturer to sell any shipment of fasteners covered by this chapter which are manufactured in the United States unless the fasteners—
 
-&emsp;(1) the fasteners have been manufactured according to the requirements of the applicable standards and specifications and have been inspected and tested by a laboratory accredited in accordance with the procedures and conditions specified by the Secretary under section 5405 of this title; and
+&emsp;(1) have been manufactured according to the requirements of the applicable standards and specifications and have been inspected and tested by a laboratory accredited in accordance with the procedures and conditions specified by the Secretary under section 5405 of this title; and
 
-&emsp;(2) an original laboratory testing report described in section 5404(c) of this title is on file with the manufacturer, or under such custody as may be prescribed by the Secretary, and available for inspection.
+&emsp;(2) an original laboratory testing report described in section 5404(c) of this title and a manufacturer's certificate of conformance are on file with the manufacturer, or under such custody as may be prescribed by the Secretary, and available for inspection.
 
 #### (b) Fasteners of foreign origin
 
@@ -30,43 +30,37 @@ It shall be unlawful for a manufacturer to sell any shipment of fasteners (excep
 
 &emsp;(A) the manufacturer provides to the importer or private label distributor a manufacturer's certificate certifying that the fasteners have been manufactured according to the requirements of the applicable standards and specifications; and
 
-&emsp;(B) the importer or private label distributor assumes responsibility in writing for the inspection and testing of such lot or portion by a laboratory accredited in accordance with theprocedures and conditions specified by the Secretary under section 5405 of this title.
+&emsp;(B) the importer or private label distributor assumes responsibility in writing for the inspection and testing of such lot or portion by a laboratory accredited in accordance with the procedures and conditions specified by the Secretary under section 5405 of this title.
 
-(2) If the importer or private distributor assumes the responsibility in writing for the inspection and testing of such lot or portion, the provisions of section 5404(a) of this title and subsections (a) and (b) of this section shall apply to the importer or private label distributor in the same manner and extent as to a manufacturer; except that the importer or private label distributor shall provide to the testing laboratory the manufacturer's certificate described under paragraph (1) of this subsection.
+(2) If the importer or private distributor assumes the responsibility in writing for the inspection and testing of such lot or portion, the provisions of section 5404(a) of this title and subsections (a) and (b) of this section shall apply to the importer or private label distributor in the same manner and to the same extent as to a manufacturer; except that the importer or private label distributor shall provide to the testing laboratory the manufacturer's certificate described under paragraph (1) of this subsection.
 
 #### (d) Alterations subsequent to manufacture
 
-(1) Any person who significantly alters a fastener so that such fastener no longer conforms to the description in the relevant certificate issued under section 5404(c) of this title, and who thereafter offers for sale or sells such altered fastener, shall be treated as a manufacturer for purposes of this chapter and shall cause such altered fastener to be inspected and tested under section 5404 of this title or this section as though it were newly manufactured, unless delivery of such fastener to the purchaser is accompanied by a written statement noting the original lot number, disclosing the subsequent alteration, and warning that such alteration may affect the dimensional or physical characteristics of the fastener.
+(1) Any person who significantly alters a fastener so that such fastener no longer conforms to the description in the relevant test report issued under section 5404(c) of this title, and who thereafter offers for sale or sells such altered fastener, shall be treated as a manufacturer for purposes of this chapter and shall cause such altered fastener to be inspected and tested under section 5404 of this title or this section as though it were newly manufactured, unless delivery of such fastener to the purchaser is accompanied by a written statement noting the original lot number, disclosing the subsequent alteration, and warning that such alteration may affect the dimensional or physical characteristics of the fastener.
 
 (2) Any person who knowingly sells an altered fastener and who did not alter such fastener shall provide to the purchaser a copy of the statement required by paragraph (1).
 
 #### (e) Commingling
 
-(1) Subject to paragraph (2), it shall be unlawful for any manufacturer or any person who purchases any quantity of fasteners for resale at wholesale to commingle like fasteners from different lots in the same container; except that such manufacturer or such person may commingle like fasteners of the same type, grade, and dimension from not more than two tested and certified lots in the same container during repackaging and plating operations: <i>Provided</i>, That any container which contains like fasteners from two lots shall be conspicuously marked with the lot identification numbers of both lots.
-
-(2) Paragraph (1) does not apply to sales by original equipment manufacturers to their authorized dealers for use in assembling or servicing products produced by the original equipment manufacturers.
+It shall be unlawful for any manufacturer, importer, or private label distributor to commingle like fasteners from different lots in the same container, except that such manufacturer, importer, or private label distributor may commingle like fasteners of the same type, grade, and dimension from not more than two tested and certified lots in the same container during repackaging and plating operations. Any container which contains fasteners from two lots shall be conspicuously marked with the lot identification numbers of both lots.
 
 #### (f) Subsequent purchaser
 
-(1) It shall be unlawful for any person to sell fasteners, of any quantity, to any person who purchases such fasteners—
+If a person who purchases fasteners for any purpose so requests either prior to the sale or atthe time of sale, the seller shall conspicuously mark the container of the fasteners with the lot number from which such fasteners were taken.
 
-&emsp;(A) for sale at wholesale, or
+(Pub. L. 101–592, §7, Nov. 16, 1990, 104 Stat. 2948; Pub. L. 104–113, §11(f), Mar. 7, 1996, 110 Stat. 781.)
 
-&emsp;(B) for assembling components of a product or structure for sale,
+#### Amendments
 
-> unless the container of fasteners sold is conspicously <sup>1</sup> marked with the number of the lot from which such fasteners were taken, except that this requirement shall not apply to sales by original equipment manufacturers to their authorized dealers for use in assembling or servicing products produced by the original equipment manufacturer.
+1996—Subsec. (a)(1). Pub. L. 104–113, §11(f)(1), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “It shall be unlawful for a manufacturer to sell any shipment of fasteners (except fasteners for which the Secretary has waived the requirements of this chapter pursuant to section 5403 of this title) which are manufactured in the United States unless the fasteners are accompanied, at the time of delivery, by a written certificate by the manufacturer certifying that—
 
-(2) If a person who purchases fasteners for purposes other than those described in paragraph (1)(A) and (B) so requests either prior to the sale or at the time of sale, the seller shall conspicuously mark the container of fasteners with the lot number from which such fasteners were taken.
+&emsp;“(1) the fasteners have been manufactured according to the requirements of the applicable standards and specifications and have been inspected and tested by a laboratory accredited in accordance with the procedures and conditions specified by the Secretary under section 5405 of this title; and
 
-#### (g) Regulations
+&emsp;“(2) an original laboratory testing report described in section 5404(c) of this title is on file with the manufacturer, or under such custody as may be prescribed by the Secretary, and available for inspection.”
 
-The Secretary may issue such regulations as may be necessary to ensure compliance with the provisions of this section.
+Subsec. (c)(2). Pub. L. 104–113, §11(f)(2), inserted “to the same” after “in the same manner and”.
 
-(Pub. L. 101–592, §7, Nov. 16, 1990, 104 Stat. 2948.)
+Subsec. (d)(1). Pub. L. 104–113, §11(f)(3), substituted “test report” for “certificate”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5404 of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should be “conspicuously”.</i>
+Subsecs. (e) to (g). Pub. L. 104–113, §11(f)(4), added subsecs. (e) and (f) and struck out former subsecs. (e), (f), and (g), which related to commingling, subsequent purchasers, and regulations, respectively.
 

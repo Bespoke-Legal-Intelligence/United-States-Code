@@ -22,7 +22,7 @@
 
 #### References in Text
 
-The provisions of title 5 governing appointment in the competitive service, referred to in subsecs. (a) to\(c), are classified generally to section 3301 et seq. of Title 5, Government Organization and Employees.
+The provisions of title 5 governing appointment in the competitive service, referred to in subsecs. (a) to (c), are classified generally to section 3301 et seq. of Title 5, Government Organization and Employees.
 
 #### Amendments
 
@@ -43,4 +43,8 @@ Section 204(b) of Pub. L. 101–94 provided that: “Notwithstanding clause (1)(
 #### Appointment of Employees Eligible for Noncompetitive Conversion to Position in Competitive Service; Procurement of Experts and Consultants
 
 Pub. L. 101–45, title I, June 30, 1989, 103 Stat. 113, authorized United States Court of Veterans Appeals, during fiscal year 1989, to appoint not to exceed 35 employees to positions in competitive service if certain requirements were met and to procure services of experts and consultants.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in title 10 section 1599c.
 

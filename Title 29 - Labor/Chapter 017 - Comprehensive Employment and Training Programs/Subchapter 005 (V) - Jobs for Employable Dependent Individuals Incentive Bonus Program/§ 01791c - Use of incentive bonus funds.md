@@ -10,7 +10,7 @@
 
 #### (B) Distribution of payments
 
-&emsp;&emsp;The amount of incentive bonus payments that remains after the deduction of administrative costs under subparagraph (A) shall be distributed to service delivery areas and Job Corps centers within the State in accordance with an agreement between the Governor and representatives of such areas and centers. Such agreement shall reflect an equitable method of distribution that is based on the degree to which the efforts of such area or center contributed to the qualification of the State for an incentive bonus payment under this subchapter.
+&emsp;&emsp;The amount of incentive bonus payments that remains after the deduction of administrative costs under subparagraph (A) shall be distributed to service delivery areas and Job Corps centers within the State in accordance with an agreement between the Governor and representatives of such areas and centers. Such agreement shall reflect an equitable method of distribution that is based on the degree to which the efforts of such areaor center contributed to the qualification of the State for an incentive bonus payment under this subchapter.
 
 #### (2) Special rule
 

@@ -44,7 +44,7 @@ The plan provisions (including plan items) required to be submitted under this p
 
 #### (3) Inventory
 
-&emsp;Such plan provisions shall include a comprehensive, accurate, current inventory of actual emissions from all sources of the relevant pollutant or pollutants in such area, including such periodic revisions as the Administrator may determine necessary to assure that the requirements of this part are met.
+&emsp;Such plan provisions shall include a comprehensive, accurate, current inventory of actual emissions from all sources of the relevant pollutant or pollutants in such area, including such periodic revisions as the Administratormay determine necessary to assure that the requirements of this part are met.
 
 #### (4) Identification and quantification
 
@@ -56,7 +56,7 @@ The plan provisions (including plan items) required to be submitted under this p
 
 #### (6) Other measures
 
-&emsp;Such plan provisions shall include enforceable emission limitations, and such other control measures, means or techniques (including economic incentives such as fees, marketablepermits, and auctions of emission rights), as well as schedules and timetables for compliance, as may be necessary or appropriate to provide for attainment of such standard in such area by the applicable attainment date specified in this part.
+&emsp;Such plan provisions shall include enforceable emission limitations, and such other control measures, means or techniques (including economic incentives such as fees, marketable permits, and auctions of emission rights), as well as schedules and timetables for compliance, as may be necessary or appropriate to provide for attainment of such standard in such area by the applicable attainment date specified in this part.
 
 #### (7) Compliance with section 7410(a)(2)
 

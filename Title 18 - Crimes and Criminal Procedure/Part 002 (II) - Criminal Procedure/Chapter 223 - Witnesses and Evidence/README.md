@@ -7,7 +7,7 @@
 | [3483\.](%C2%A7%2003483%20-%20Indigent%20defendants%2C%20process%20to%20produce%20evidence%E2%80%94%28Rule%29.md) | Indigent defendants, process to produce evidence—Rule. |
 | [3484\.](%C2%A7%2003484%20-%20Subpoenas%E2%80%94%28Rule%29.md) | Subpoenas—Rule. |
 | [3485\.](%C2%A7%2003485%20-%20Expert%20witnesses%E2%80%94%28Rule%29.md) | Expert witnesses—Rule. |
-| \[3486. | Repealed.\] |
+| [3486\.](%C2%A7%2003486%20-%20Authorized%20investigative%20demand%20procedures.md) | Authorized investigative demand procedures. |
 | [3487\.](%C2%A7%2003487%20-%20Refusal%20to%20pay%20as%20evidence%20of%20embezzlement.md) | Refusal to pay as evidence of embezzlement. |
 | [3488\.](%C2%A7%2003488%20-%20Intoxicating%20liquor%20in%20Indian%20country%20as%20evidence%20of%20unlawful%20introduction.md) | Intoxicating liquor in Indian country as evidence of unlawful introduction. |
 | [3489\.](%C2%A7%2003489%20-%20Discovery%20and%20inspection%E2%80%94%28Rule%29.md) | Discovery and inspection—Rule. |
@@ -30,11 +30,15 @@
 | [3506\.](%C2%A7%2003506%20-%20Service%20of%20papers%20filed%20in%20opposition%20to%20official%20request%20by%20United%20States%20to%20foreign%20government%20for%20criminal%20evidence.md) | Service of papers filed in opposition to official request by United States to foreign government for criminal evidence. |
 | [3507\.](%C2%A7%2003507%20-%20Special%20master%20at%20foreign%20deposition.md) | Special master at foreign deposition. |
 | [3508\.](%C2%A7%2003508%20-%20Custody%20and%20return%20of%20foreign%20witnesses.md) | Custody and return of foreign witnesses. |
-| [3509\.](%C2%A7%2003509%20-%20Child%20victims%E2%80%99%20and%20child%20witnesses%E2%80%99%20rights.md) | Child Victims’ and child witnesses’ rights.<sup>1</sup> |
+| [3509\.](%C2%A7%2003509%20-%20Child%20victims%E2%80%99%20and%20child%20witnesses%E2%80%99%20rights.md) | Child victims’ and child witnesses’ rights. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1996—Pub. L. 104–294, title VI, §604(a)(4), Oct. 11, 1996, 110 Stat. 3506, substituted “victims’ ” for “Victims’ ” in item 3509.
+
+Pub. L. 104–191, title II, §248(b), Aug. 21, 1996, 110 Stat. 2019, added item 3486.
 
 1994—Pub. L. 103–322, title XXXIII, §330002(j), Sept. 13, 1994, 108 Stat. 2140, added item 3509.
 
@@ -54,8 +58,6 @@
 
 Pub. L. 91–452, title V, §§501–504, Oct. 15, 1970, 84 Stat. 933, which authorized the Attorney General to provide for the security of Government witnesses and the families of Government witnesses in legal proceedings against any person alleged to have participated in an organized criminal activity, was repealed by Pub. L. 98–473, title II, §1209(b), Oct. 12, 1984, 98 Stat. 2163, effective Oct. 1, 1984.
 
-<i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
-
 
 ---
 
@@ -66,7 +68,7 @@ Pub. L. 91–452, title V, §§501–504, Oct. 15, 1970, 84 Stat. 933, which aut
 - [&sect; 03483 - Indigent defendants, process to produce evidence&#8212;(Rule)](%C2%A7%2003483%20-%20Indigent%20defendants%2C%20process%20to%20produce%20evidence%E2%80%94%28Rule%29.md)
 - [&sect; 03484 - Subpoenas&#8212;(Rule)](%C2%A7%2003484%20-%20Subpoenas%E2%80%94%28Rule%29.md)
 - [&sect; 03485 - Expert witnesses&#8212;(Rule)](%C2%A7%2003485%20-%20Expert%20witnesses%E2%80%94%28Rule%29.md)
-- [&sect; 03486 - Repealed. Pub. L. 91&#8211;452, title II, &sect;228(a), Oct. 15, 1970, 84 Stat. 930](%C2%A7%2003486%20-%20Repealed.%20Pub.%20L.%2091%E2%80%93452%2C%20title%20II%2C%20%C2%A7228%28a%29%2C%20Oct.%2015%2C%201970%2C%2084%20Stat.%20930.md)
+- [&sect; 03486 - Authorized investigative demand procedures](%C2%A7%2003486%20-%20Authorized%20investigative%20demand%20procedures.md)
 - [&sect; 03487 - Refusal to pay as evidence of embezzlement](%C2%A7%2003487%20-%20Refusal%20to%20pay%20as%20evidence%20of%20embezzlement.md)
 - [&sect; 03488 - Intoxicating liquor in Indian country as evidence of unlawful introduction](%C2%A7%2003488%20-%20Intoxicating%20liquor%20in%20Indian%20country%20as%20evidence%20of%20unlawful%20introduction.md)
 - [&sect; 03489 - Discovery and inspection&#8212;(Rule)](%C2%A7%2003489%20-%20Discovery%20and%20inspection%E2%80%94%28Rule%29.md)

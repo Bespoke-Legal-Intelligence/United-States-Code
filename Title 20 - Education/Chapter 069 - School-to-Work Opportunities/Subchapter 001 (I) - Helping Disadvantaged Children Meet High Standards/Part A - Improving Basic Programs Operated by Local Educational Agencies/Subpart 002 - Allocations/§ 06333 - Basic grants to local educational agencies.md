@@ -12,7 +12,7 @@
 
 #### (2) Basis for calculating grants
 
-&emsp;For fiscal years 1995 through 1998, grants shall be calculated by the Secretary on the basis of the number of children counted under subsection (c) of this section for counties, and State educational agencies shall suballocate county amounts to local educational agencies, in accordance with regulations published by the Secretary. In any State in which a large number of local educational agencies overlap county boundaries, the State educational agency may apply to the Secretary for authority during any particular fiscal year to make the allocations under this part (other than section 6334 of this title) directly to local educational agencies without regard to the counties. If the Secretary approves an application of a State educational agency for a particular year under this subparagraph, the State educational agency shall provide assurances that—
+&emsp;For fiscal years 1995 through 1998, grants shall be calculated by the Secretary on thebasis of the number of children counted under subsection (c) of this section for counties, and State educational agencies shall suballocate county amounts to local educational agencies, in accordance with regulations published by the Secretary. In any State in which a large number of local educational agencies overlap county boundaries, the State educational agency may apply to the Secretary for authority during any particular fiscal year to make the allocations under this part (other than section 6334 of this title) directly to local educational agencies without regard to the counties. If the Secretary approves an application of a State educational agency for a particular year under this subparagraph, the State educational agency shall provide assurances that—
 
 &emsp;&emsp;(A) such allocations will be made using precisely the same factors for determining a grant as are used under this part;
 
@@ -78,7 +78,7 @@ Subject to the succeeding sentence, a local educational agency shall be eligible
 
 &emsp;&emsp;(v) the usefulness of poverty data produced and published by the Bureau of the Census for Federal programs that allocate funds to State and sub-State areas based, in whole or in part, on such data.
 
-&emsp;(C) The Academy shall submit to the Secretary and the Secretary of Commerce, as well as to the Committee on Education and Laborand the Committee on Post Office and Civil Service of the House of Representatives and the Committee on Labor and Human Resources and the Committee on Governmental Affairs of the Senate—
+&emsp;(C) The Academy shall submit to the Secretary and the Secretary of Commerce, as well as to the Committee on Education and Labor and the Committee on Post Office and Civil Service of the House of Representatives and the Committee on Labor and Human Resources and the Committee on Governmental Affairs of the Senate—
 
 &emsp;&emsp;(i) not later than 18 months after the date on which a contract is entered into under subsection (a) of this section, and not later than every 18 months thereafter, such interim reports on the Academy's activities under this chapter that the Academy deems appropriate, including a detailed statement of the Academy's findings and conclusions with respect to any poverty data which the Bureau of the Census publishes and produces, within 90 days of such publication; and
 
@@ -88,7 +88,7 @@ Subject to the succeeding sentence, a local educational agency shall be eligible
 
 #### (5) Other children to be counted
 
-&emsp;For purposes of this section, the Secretary shall determine the number of children aged 5 to 17, inclusive, from families above the poverty level on the basis of the number of such children from families receiving an annual income, in excess of the current criteria of poverty, from payments under the program of aid to families with dependent children under a State plan approved under title IV of the Social Security Act \[42 U.S.C. 601 et seq.\]; and in making such determinations the Secretary shall utilize the criteria of poverty used by the Bureau of the Census in compiling the most recent decennial census for a family of 4 in such form as those criteria have been updated by increases in the Consumer Price Index for all urban consumers, published by the Bureau of Labor Statistics. The Secretary shall determine the number of such children and the number of children of such ages living in institutions for neglected or delinquent children, or being supported in foster homes with public funds, on the basis of the caseload data for the month of October of the preceding fiscal year (using, in the case of children described in the preceding sentence, the criteria of poverty and the form of such criteria required by such sentence which were determined for the calendar year preceding such month of October) or, to the extent that such data are not available to the Secretary before January of the calendar year in which the Secretary's determination is made, then on the basis of the most recent reliable data available to the Secretary at the time of such determination. The Secretary of Health and Human Services shall collect and transmit the information required by this subparagraph to the Secretary not later than January 1 of each year.
+&emsp;For purposes of this section, the Secretary shall determine the number of children aged 5 to 17, inclusive, from families above the poverty level on the basis of the number of such children from families receiving an annual income, in excess of the current criteria of poverty, from payments under a State program funded under part A of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\]; and in making such determinations the Secretary shall utilize the criteria of poverty used by the Bureau of the Census in compiling the most recent decennial census for a family of 4 in such form as those criteria have been updated by increases in the Consumer Price Index for all urban consumers, published by the Bureau of Labor Statistics. The Secretary shall determine the number of such children and the number of children of such ages living in institutions for neglected or delinquent children, or being supported in foster homes with public funds, on the basis of the caseload data for the month of October of the preceding fiscal year (using, in the case of children described in the preceding sentence, the criteria of poverty and the form of such criteria required by such sentence which were determined for the calendar year preceding such month of October) or, to the extent that such data are not available to the Secretary before January of the calendar year in which the Secretary's determination is made, then on the basis of the most recent reliable data available to the Secretary at the time of such determination. The Secretary of Health and Human Services shall collect and transmit the information required by this subparagraph to the Secretary not later than January 1 of each year.
 
 #### (6) Estimate
 
@@ -106,15 +106,23 @@ Notwithstanding subsection (b)(1) or (d) of section 6332 of this title, the aggr
 
 &emsp;&emsp;(B) the number of children in such State counted under subsection (c) of this section in the fiscal year multiplied by 150 percent of the national average per pupil payment made with funds available under this section for that year.
 
-(Pub. L. 89–10, title I, §1124, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3564.)
+(Pub. L. 89–10, title I, §1124, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3564; amended Pub. L. 104–193, title I, §110(j)(2), Aug. 22, 1996, 110 Stat. 2172.)
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (c)(5), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title IV of the Act is classified generally to subchapter IV (§601 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (c)(5), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part A of title IV of the Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+
+#### Amendments
+
+1996—Subsec. (c)(5). Pub. L. 104–193 substituted “a State program funded under part A of” for “the program of aid to families with dependent children under a State plan approved under”.
 
 #### Change of Name
 
-Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Economic and Educational Opportunities of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Fifth Congress, Jan. 7, 1997.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–193 effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, set out as a note under section 601 of Title 42, The Public Health and Welfare.
 
 #### Abolition of House Committee on Post Office and Civil Service
 

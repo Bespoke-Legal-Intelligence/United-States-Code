@@ -8,7 +8,7 @@
 
 &emsp;(3) may prepare and distribute numismatic items; and
 
-&emsp;(4) may mint coins for a foreign country if the minting does not interfere with regular minting operations, and shall prescribe a charge for minting the foreign coins equal to the cost of the minting (including labor, materials, and the use of machinery).
+&emsp;(4) may mint coins for a foreign country if the minting does not interfere with regular minting operations, and shall prescribe acharge for minting the foreign coins equal to the cost of the minting (including labor, materials, and the use of machinery).
 
 (b) The Department of the Treasury has a coinage metal fund and a coinage profit fund. The Secretary may use the coinage metal fund to buy metal to mint coins. The Secretary shall credit the coinage profit fund with the amount by which the nominal value of the coins minted from the metal exceeds the cost of the metal. The Secretary shall charge the coinage profit fund with waste incurred in minting coins and the cost of distributing the coins, including the cost of coin bags and pallets. The Secretary shall deposit in the Treasury as miscellaneous receipts excess amounts in the coinage profit fund.
 
@@ -44,7 +44,7 @@ Other rights unaffected.—This paragraph does not alter or annul any right of r
 
 (2) A person knowingly violating an order or license issued or regulation prescribed under paragraph (1) of this subsection, shall be fined not more than $10,000, imprisoned not more than 5 years, or both.
 
-(3) Coins exported, melted, or treated in violation of an order or license issued or regulation prescribed, and metal resulting from the melting or treatment, shall be forfeited to the United States Government. The powers of the Secretary and the remedies available to enforceforfeitures are those provided in part II of subchapter C of chapter 75 of the Internal Revenue Code of 1954 <sup>1</sup> (26 U.S.C. 7321 et seq.).
+(3) Coins exported, melted, or treated in violation of an order or license issued or regulation prescribed, and metal resulting from the melting or treatment, shall be forfeited to the United States Government. The powers of the Secretary and the remedies available to enforce forfeitures are those provided in part II of subchapter C of chapter 75 of the Internal Revenue Code of 1954 <sup>1</sup> (26 U.S.C. 7321 et seq.).
 
 (Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 980; Pub. L. 100–274, §3, Mar. 31, 1988, 102 Stat. 49; Pub. L. 102–390, title II, §222, Oct. 6, 1992, 106 Stat. 1629.)
 
@@ -164,13 +164,21 @@ The Internal Revenue Code of 1954, referred to in subsec. (d)(3), was redesignat
 
 All assets and liabilities of Coinage Profit Fund and Coinage Metal Fund transferred to United States Mint Public Enterprise Fund and both coinage funds to cease to exist as separate funds as their activities and functions are subsumed under and subject to United States Mint Public Enterprise Fund, see section 5136 of this title.
 
+#### Congressional Medals for Civilian Participants in Defense of Pearl Harbor
+
+Pub. L. 104–201, div. A, title X, §1066, Sept. 23, 1996, 110 Stat. 2654, authorized Speaker of the House and President pro tempore of the Senate, retroactive to Nov. 5, 1990, to present to civilians who defended Pearl Harbor, a bronze medal, previously authorized under Pub. L. 101–510, §1492 \[see note below\] only for military participants, commemorating their service to their country, and provided for appropriations, certification of eligibility by the Secretary of Defense, application of section 1492(d)(2), (f) of Pub. L. 101–510 in the administration of this award, and striking of additional medals.
+
+#### Award of Gold Medal to Billy and Ruth Graham
+
+Pub. L. 104–111, Feb. 13, 1996, 110 Stat. 772, authorized design and striking of gold medal for presentation by Congress to Billy and Ruth Graham, in recognition of their outstanding and enduring contributions toward faith, morality, and charity, authorized Secretary of the Treasury to accept gifts or donations to finance such medal in lieu of congressional appropriation and to strike and sell bronze duplicates of gold medal as prescribed by regulation, and provided that gold and bronze medals are national medals for purposes of this chapter and numismatic items for purposes of section 5134 of this title.
+
 #### Award of Gold Medal to Rabbi Menachem Mendel Schneerson
 
 Pub. L. 103–457, Nov. 2, 1994, 108 Stat. 4799, authorized President to present on behalf of Congress, a gold medal to the Lubavitcher rebbe, Rabbi Menachem Mendel Schneerson, in recognition of his outstanding and enduring contributions toward world education, morality, and acts of charity, directed Secretary of the Treasury to strike a gold medal with suitable emblems, devices, and inscriptions, provided that gifts or donations but not appropriations were to be used for this purpose, authorized Secretary to have bronze duplicates of the medals coined and sold as prescribed by regulation, and provided that the medals are national medals for purposes of chapter 51 of this title.
 
 #### Thomas Jefferson Medals
 
-Pub. L. 102–479, Oct. 23, 1992, 106 Stat. 2308, authorized President to present, on behalf of Congress, to a representative of the American Philosophical Society a gold Thomas Jefferson Medal to commemorate the 250th anniversary of the founding of the American Philosophical Society and of the birth of Thomas Jefferson, directed Secretary of the Treasury to strike the gold medal and 50 bronze duplicate medals to be presented by the American Philosophical Society to persons of scholarly achievement, provided for payment for the medals and general waiver of procurement regulations, and provided that the medals are national medals for purposes of chapter 51 of this title.
+Pub. L. 102–479, Oct. 23, 1992, 106 Stat. 2308, authorized President to present, on behalf of Congress, to a representative of the American Philosophical Society a gold Thomas Jefferson Medal to commemorate the 250th anniversary of the founding of the American Philosophical Society and of the birth of Thomas Jefferson, directed Secretary of the Treasury to strike the gold medal and 50 bronze duplicate medals to be presented by the American Philosophical Society to persons ofscholarly achievement, provided for payment for the medals and general waiver of procurement regulations, and provided that the medals are national medals for purposes of chapter 51 of this title.
 
 #### Benjamin Franklin National Memorial Commemorative Medal and Fire Service Bill of Rights
 
@@ -202,7 +210,7 @@ Pub. L. 101–510, div. A, title XIV, §1493, Nov. 5, 1990, 104 Stat. 1722, dire
 
 #### Designation of Medals Issued Under Sections 1491 to 1493 of Pub. L. 101–510 as National Medals
 
-Pub. L. 101–510, div. A, title XIV, §1494, Nov. 5, 1990, 104 Stat. 1722, provided that: “The medals authorized by sections 1491, 1492, and 1493 \[Pub. L. 101–510, set outabove\] are national medals for purposes of chapter 51 of title 31, United States Code.”
+Pub. L. 101–510, div. A, title XIV, §1494, Nov. 5, 1990, 104 Stat. 1722, provided that: “The medals authorized by sections 1491, 1492, and 1493 \[Pub. L. 101–510, set out above\] are national medals for purposes of chapter 51 of title 31, United States Code.”
 
 #### Award of Gold Medal to Laurance Spelman Rockefeller
 
@@ -214,7 +222,7 @@ Pub. L. 101–260, Mar. 30, 1990, 104 Stat. 122, known as the “United States C
 
 #### Award of Gold Medal to Andrew Wyeth
 
-Pub. L. 100–639, Nov. 9, 1988, 102 Stat. 3331, authorized President to present, on behalf of Congress, a gold medal to Andrew Wyeth in recognition of his outstanding and invaluable contributions to American art and culture, directed Secretary of the Treasury to strike a gold medal with suitable emblems, devices, and inscriptions for purposes of presentation by President, provided that Secretary could have bronze duplicates of the medals coined and sold as prescribed by regulation, and provided that the gold and bronze medals are national medals for purposes of chapter 51 of this title.
+Pub. L. 100–639, Nov. 9, 1988, 102 Stat. 3331, authorized President to present, on behalf of Congress, a gold medal to Andrew Wyeth in recognition of his outstanding and invaluable contributions to American art andculture, directed Secretary of the Treasury to strike a gold medal with suitable emblems, devices, and inscriptions for purposes of presentation by President, provided that Secretary could have bronze duplicates of the medals coined and sold as prescribed by regulation, and provided that the gold and bronze medals are national medals for purposes of chapter 51 of this title.
 
 #### Award of Gold Medal to Mrs. Jesse Owens
 

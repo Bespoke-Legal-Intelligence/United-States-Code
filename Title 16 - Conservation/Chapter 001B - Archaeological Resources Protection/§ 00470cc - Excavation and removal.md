@@ -56,7 +56,7 @@ Upon the written request of the Governor of any State, the Federal land manager 
 
 #### References in Text
 
-Act of June 8, 1906, referred to in subsecs. (g)(1) and (h), is act June 8, 1906, ch. 3060, 34 Stat. 225, known as the Antiquities Act of 1906, which is classified generally to sections 431, 432, and 433 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 431 of this title and Tables.
+Act of June 8, 1906, referred to in subsecs. (g)(1) and (h), is act June 8, 1906, ch. 3060, 34 Stat. 225, known asthe Antiquities Act of 1906, which is classified generally to sections 431, 432, and 433 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 431 of this title and Tables.
 
 Following the enactment of this chapter, referred to in subsec. (h)(2), means following the enactment of Pub. L. 96–95, approved Oct. 31, 1979.
 

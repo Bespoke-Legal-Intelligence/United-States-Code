@@ -12,7 +12,9 @@ The Secretary of Transportation may issue a permit to a person (except a citizen
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -26,7 +28,7 @@ Aug. 23, 1958, Pub. L. 85–726, §402(b), 72 Stat. 758; restated Feb. 15, 1980,
 
 &nbsp;
 
-49 App.:1551(b) (1)(E).
+49 App.:1551(b)(1)(E).
 
 Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1601(b)(1)(E); added Oct. 4, 1984, Pub. L. 98–443, §3(e), 98 Stat. 1704.
 
@@ -34,5 +36,5 @@ In this section, before clause (1), the words “person (except a citizen of the
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 40109, 41303, 41304, 41305, 41306, 41307, 41310, 41703, 41709, 44901, 46301, 46316 of this title.
+This section is referred to in sections 41303, 41304, 41305, 41306, 41307, 41310, 41703, 41709, 44901, 46316 of this title.
 

@@ -36,7 +36,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 (a)–(c)
 
@@ -62,7 +64,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-<b>1990</b>—Subsec. (b)(1), (2). Pub. L. 101–510, §1206(d)(1), inserted “continental” after “outside the”.
+1990—Subsec. (b)(1), (2). Pub. L. 101–510, §1206(d)(1), inserted “continental” after “outside the”.
 
 Subsec. (e). Pub. L. 101–510, §1206(d)(2), added subsec. (e).
 

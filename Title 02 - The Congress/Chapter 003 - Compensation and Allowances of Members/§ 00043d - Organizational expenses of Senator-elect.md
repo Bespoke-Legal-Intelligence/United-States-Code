@@ -14,9 +14,9 @@ Upon the recommendation of a Senator-elect (other than an incumbent Senator or a
 
 Each Senator-elect and each employee appointed under subsection (a) of this section is authorized one round trip from the home State of the Senator-elect to Washington, D.C., and return, for the purposes of attending conferences, caucuses, or organizational meetings, or for any other official business connected with the impending Congress. In addition, each Senator-elect and each such employee is authorized per diem for not more than seven days while en route to and from Washington, D.C., and while in Washington, D.C. Such transportation and per diem expenses shall be in the same amounts as are payable to Senators and employees in the office of a Senator under section 58(e) of this title, and shall be paid from the contingent fund of the Senate upon itemized vouchers certified by the Senator-elect concerned and approved by the Secretary of the Senate.
 
-#### (d) Payment of telegram and telephone charges incurred by Senator-elect; funding; maximum amount
+#### (d) Payment of telegrams, telephone services, and stationery expenses
 
-(1) Each Senator-elect is authorized to be reimbursed for expenses incurred for telegrams and telephone services related to his position as a Senator-elect in an amount not exceeding one-twelfth of the total amount of expenses authorized to be paid to or on behalf of a Senator from the State which he will represent under section 58 of this title. Reimbursement to a Senator-elect under this subsection shall be paid from the contingent fund of the Senate upon itemized vouchers certified by such Senator-elect and approved by the Secretary of the Senate.
+(1) Each Senator-elect is authorized to be reimbursed for expenses incurred for telegrams, telephone services, and stationery related to his position as a Senator-elect in an amount not exceeding one-twelfth of the total amount of expenses authorized to be paid to or on behalf of a Senator from the State which he will represent under section 58 of this title. Reimbursement to a Senator-elect under this subsection shall be paid from the contingent fund of the Senate upon itemized vouchers certified by such Senator-elect and approved by the Secretary of the Senate.
 
 (2) Amounts reimbursed to a Senator-elect under this subsection shall be charged against the amount of expenses which are authorized to be paid to him or on his behalf under section 58 of this title, for each of the twelve months beginning with the month in which his service as a Senator commences (until all of such amounts have been charged) by whichever of the following amounts is greater: (1) one-twelfth of the amounts so reimbursed, or (2) the amount by which the aggregate amount authorized to be so paid under section 58(c) of this title as of the close of such month exceeds the aggregate amount actually paid under such section 58 as of the close of such month.
 
@@ -24,9 +24,15 @@ Each Senator-elect and each employee appointed under subsection (a) of this sect
 
 This section shall take effect on October 1, 1978.
 
-(Pub. L. 95–355, title I, §105, Sept. 8, 1978, 92 Stat. 534.)
+(Pub. L. 95–355, title I, §105, Sept. 8, 1978, 92 Stat. 534; Pub. L. 104–197, title I, §2, Sept. 16, 1996, 110 Stat. 2397.)
+
+#### Amendments
+
+1996—Subsec. (d)(1). Pub. L. 104–197 substituted “, telephone services, and stationery” for “and telephone services”.
 
 #### Senators’ Official Personnel and Office Expense Account
 
 References in any law, rule, regulation, or order to Senate appropriation account for Administrative, Clerical, and Legislative Assistance Allowance to Senators deemed references to the “Senators’ Official Personnel and Office Expense Account”, see section 58c(2) of this title.
+
+—
 

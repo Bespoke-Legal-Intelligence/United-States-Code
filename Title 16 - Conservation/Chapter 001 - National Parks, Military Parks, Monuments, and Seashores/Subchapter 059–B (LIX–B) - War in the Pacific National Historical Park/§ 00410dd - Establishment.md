@@ -68,7 +68,7 @@ Subsec. (h). Pub. L. 103–437, §6(i)(2), struck out subsec. (h) which directed
 
 1993—Subsec. (k). Pub. L. 103–197, §3(a), substituted “$8,000,000” for “$500,000”.
 
-Subsecs. (<i>l</i>) to (<i>o</i>). Pub. L. 103–197, §3(b), added subsecs. (<i>l</i>) to (<i>o).</i>
+Subsecs. (<i>l</i>) to (<i>o</i>). Pub. L. 103–197, §3(b), added subsecs. (<i>l</i>) to (<i>o</i>).
 
 #### Change of Name
 

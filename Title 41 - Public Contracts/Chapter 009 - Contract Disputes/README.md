@@ -52,7 +52,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 56, 253d, 422 of this title; title 15 section 637; title 10 sections 2321, 2836; title 25 sections 450k, 450m–1; title 28 sections 2401, 2412, 2414, 2517; title 31 section 3907; title 35 section 203; title 40 section 759.
+This chapter is referred to in sections 56, 253d, 422 of this title; title 15 section 637; title 10 sections 2321, 2836; title 25 sections 450k, 450m–1; title 28 sections 2401, 2412, 2414, 2517; title 31 section 3907; title 35 section 203.
 
 
 ---

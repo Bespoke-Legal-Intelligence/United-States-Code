@@ -2,13 +2,17 @@
 
 (a)
 
-In General.—Whoever knowingly develops, produces, stockpiles, transfers, acquires, retains, or possesses any biological agent, toxin, or delivery system for use as a weapon, or knowingly assists a foreign state or any organization to do so, shall be fined under this title or imprisoned for life or any term of years, or both. There is extraterritorial Federal jurisdiction over an offense under this section committed by or against a national of the United States.
+In General.—Whoever knowingly develops, produces, stockpiles, transfers, acquires, retains, or possesses any biological agent, toxin, or delivery system for use as a weapon, or knowingly assists a foreign state or any organization to do so, or attempts, threatens, or conspires to do the same, shall be fined under this title or imprisoned for life or any term of years, or both. There is extraterritorial Federal jurisdiction over an offense under this section committed by or against a national of the United States.
 
 (b)
 
 Definition.—For purposes of this section, the term “for use as a weapon” does not include the development, production, transfer, acquisition, retention, or possession of any biological agent, toxin, or delivery system for prophylactic, protective, or other peaceful purposes.
 
-(Added Pub. L. 101–298, §3(a), May 22, 1990, 104 Stat. 201.)
+(Added Pub. L. 101–298, §3(a), May 22, 1990, 104 Stat. 201; amended Pub. L. 104–132, title V, §511(b)(1), Apr. 24, 1996, 110 Stat. 1284.)
+
+#### Amendments
+
+1996—Subsec. (a). Pub. L. 104–132 inserted “or attempts, threatens, or conspires to do the same,” before “shall be fined under this title”.
 
 #### Short Title
 
@@ -32,5 +36,5 @@ Intent of Act.—Nothing in this Act is intended to restrain or restrict peacefu
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 176, 177, 2516 of this title.
+This section is referred to in sections 175a, 176, 177, 2332b, 2339A, 2516 of this title; title 10 section 382.
 

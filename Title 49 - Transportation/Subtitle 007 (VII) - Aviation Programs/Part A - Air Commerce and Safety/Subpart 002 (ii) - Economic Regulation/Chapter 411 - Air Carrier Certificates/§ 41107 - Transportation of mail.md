@@ -12,7 +12,9 @@ Historical and Revision Notes
 
 Pub. L. 103–272, §1(e)
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -26,7 +28,7 @@ Aug. 23, 1958, Pub. L. 85–726, §401(m), 72 Stat. 757.
 
 &nbsp;
 
-49 App.:1551(a) (4)(A) (related to 49 App.:1371(m)), (b)(1)(E).
+49 App.:1551(a)(4)(A) (related to 49 App.:1371(m)), (b)(1)(E).
 
 Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1601(a)(4)(A) (related to §401(m)), (b)(1)(E); added Oct. 4, 1984, Pub. L. 98–443, §3(c), (e), 98 Stat. 1703, 1704.
 
@@ -34,7 +36,9 @@ The words “from time to time” are omitted as surplus. The words “United St
 
 Pub. L. 103–272, §4(k)
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

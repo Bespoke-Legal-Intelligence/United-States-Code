@@ -40,7 +40,7 @@ Each State, each administrative entity, and each recipient (other than a subreci
 
 &emsp;(1) make readily accessible reports concerning its operations and expenditures as shall be prescribed by the Secretary;
 
-&emsp;(2) prescribe and maintain comparable management information systems, in accordance with guidelines that shall be prescribed by the Secretary, designed to facilitate the uniformcompilation, cross tabulation, and analysis of programmatic, participant, and financial data, on statewide and service delivery area bases, necessary for reporting, monitoring, and evaluating purposes, including data necessary to comply with section 1577 of this title; and
+&emsp;(2) prescribe and maintain comparable management information systems, in accordance with guidelines that shall be prescribed by the Secretary, designed to facilitate the uniform compilation, cross tabulation, and analysis of programmatic, participant, and financial data, on statewide and service delivery area bases, necessary for reporting, monitoring, and evaluating purposes, including data necessary to comply with section 1577 of this title; and
 
 &emsp;(3) monitor the performance of service providers in complying with the terms of grants, contracts, or other agreements made pursuant to this chapter.
 

@@ -1,6 +1,6 @@
 ### §310. Special pay: duty subject to hostile fire or imminent danger
 
-(a) Under regulations prescribed by the Secretary of Defense, a member of a uniformedservice may be paid special pay at the rate of $150 for any month in which he was entitled to basic pay and in which he—
+(a) Under regulations prescribed by the Secretary of Defense, a member of a uniformed service may be paid special pay at the rate of $150 for any month in which he was entitled to basic pay and in which he—
 
 &emsp;(1) was subject to hostile fire or explosion of hostile mines;
 
@@ -20,7 +20,7 @@
 
 #### Amendments
 
-1991—Subsec. (a). Pub. L. 102–190 substituted “Under” for “Except in time of war declared by Congress, and under” and “rate of $150” for “lowest rate for hazardous duty incentive pay specified in section 301(c)(1) of this title”.
+1991—Subsec. (a). Pub. L. 102–190 substituted “Under” for “Except in time of war declared by Congress, andunder” and “rate of $150” for “lowest rate for hazardous duty incentive pay specified in section 301(c)(1) of this title”.
 
 1990—Subsec. (d). Pub. L. 101–510 struck out subsec. (d) which read as follows: “The Secretary of Defense shall report to Congress by March 1 of each year on the administration of this section during the preceding calendar year.”
 
@@ -66,5 +66,5 @@ Section 1111(a) of Pub. L. 101–510 provided that: “The Secretary of Defense 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 411a of this title; title 10 sections 701, 703, 1079; title 20 section 1087ee; title 24 section 412; title 42 section 1382a.
+This section is referred to in section 411a of this title; title 10 sections 701, 703, 1079; title 20 section 1087ee; title 24 section 412; title 26 section 112; title 42 section 1382a.
 

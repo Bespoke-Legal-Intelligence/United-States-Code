@@ -40,7 +40,7 @@ If forfeiture proceedings are discontinued or dismissed under this section—
 
 The United States shall not be liable in any action relating to property transferred under this section if such action is based on an act or omission occurring after the transfer.
 
-(June 17, 1930, ch. 497, title IV, §616, as added Oct. 30, 1984, Pub. L. 98–573, title II, §213(a)(14), 98 Stat. 2987; amended Oct. 27, 1986, Pub. L.99–570, title I, §1863(a), 100 Stat. 3207–54; Nov. 18, 1988, Pub. L. 100–690, title VII, §7366(a), 102 Stat. 4478; Dec. 7, 1989, Pub. L. 101–207, §3(e), 103 Stat. 1834; Nov. 2, 1994, Pub. L. 103–447, title I, §102(c), 108 Stat. 4693.)
+(June 17, 1930, ch. 497, title IV, §616, as added Oct. 30, 1984, Pub. L. 98–573, title II, §213(a)(14), 98 Stat. 2987; amended Oct. 27, 1986, Pub. L. 99–570, title I, §1863(a), 100 Stat. 3207–54; Nov. 18, 1988, Pub. L. 100–690, title VII, §7366(a), 102 Stat. 4478; Dec. 7, 1989, Pub. L. 101–207, §3(e), 103 Stat. 1834; Nov. 2, 1994, Pub. L. 103–447, title I, §102(c), 108 Stat. 4693.)
 
 #### Codification
 

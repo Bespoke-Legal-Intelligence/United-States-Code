@@ -2,7 +2,7 @@
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in sections 3701, 3712 of this title; title 21 section 379h.
+This subchapter is referred to in sections 3701, 3712 of this title; title 8 section 1183a; title 21 section 379h.
 
 
 ---
@@ -20,3 +20,7 @@ This subchapter is referred to in sections 3701, 3712 of this title; title 21 se
 - [&sect; 03719 - Reports on debt collection activities](%C2%A7%2003719%20-%20Reports%20on%20debt%20collection%20activities.md)
 - [&sect; 03720 - Collection of payments](%C2%A7%2003720%20-%20Collection%20of%20payments.md)
 - [&sect; 03720A - Reduction of tax refund by amount of debt](%C2%A7%2003720A%20-%20Reduction%20of%20tax%20refund%20by%20amount%20of%20debt.md)
+- [&sect; 03720B - Barring delinquent Federal debtors from obtaining Federal loans or loan insurance guarantees](%C2%A7%2003720B%20-%20Barring%20delinquent%20Federal%20debtors%20from%20obtaining%20Federal%20loans%20or%20loan%20insurance%20guarantees.md)
+- [&sect; 03720C - Debt Collection Improvement Account](%C2%A7%2003720C%20-%20Debt%20Collection%20Improvement%20Account.md)
+- [&sect; 03720D - Garnishment](%C2%A7%2003720D%20-%20Garnishment.md)
+- [&sect; 03720E - Dissemination of information regarding identity of delinquent debtors](%C2%A7%2003720E%20-%20Dissemination%20of%20information%20regarding%20identity%20of%20delinquent%20debtors.md)

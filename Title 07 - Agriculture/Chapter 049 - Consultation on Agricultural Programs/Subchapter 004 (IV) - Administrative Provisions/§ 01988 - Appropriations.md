@@ -2,27 +2,9 @@
 
 #### (a) Authorization
 
-There is authorized to be appropriated to the Secretary such sums as the Congress may fromtime to time determine to be necessary to enable the Secretary to carry out the purposes of this chapter and for the administration of assets transferred to the Farmers Home Administration or the Rural Development Administration.
+There is authorized to be appropriated to the Secretary such sums as the Congress may from time to time determine to be necessary to enable the Secretary to carry out the purposes of this chapter and for the administration of assets transferred to the Farmers Home Administration or the Rural Development Administration.
 
-#### (b) Notes; form and denominations; maturities; terms and conditions; interest rate; purchase by Treasury; public debt transaction
-
-When authorized by Congress, the Secretary is authorized to make and issue notes to the Secretary of the Treasury for the purpose of obtaining funds in such amounts as the Congress may approve annually in appropriation Acts for making direct loans under this chapter. Such notes shall be in such form and denominations and have such maturities and be subject to such terms and conditions as may be prescribed by the Secretary with the approval of the Secretary of the Treasury. Such notes shall bear interest at a rate fixed by the Secretary of the Treasury, taking into consideration the current average market yields of outstanding marketable obligations of the United States having maturities comparable to the notes issued by the Secretary under this chapter. The Secretary of the Treasury is authorized and directed to purchase any notes of the Secretary issued hereunder, and for that purpose the Secretary of the Treasury is authorized to use as a public debt transaction the proceeds from the sale of any securities issued under chapter 31 of title 31, and the purposes for which such securities may be issued under such chapter are extended to include the purchase of notes issued by the Secretary. All redemptions, purchases, and sales by the Secretary of the Treasury of such notes shall be treated as public debt transactions of the United States.
-
-#### (c) Farmers Home Administration direct loan account; deposits; liabilities; obligations; expenditures; net expenditure basis of budgeting
-
-The appropriations for loans made under the authority of subsection (a) of this section and funds obtained in accordance with subsection (b) of this section, and the unexpended balances of any funds made available for loans under the item “Farmers Home Administration” in the Department of Agriculture Appropriation Acts current on August 8, 1961, shall be merged into a single account known as the “Farmers Home Administration direct loan account”, hereafter in this section called the “direct loan account”. All claims, notes, mortgages, property, including those now held by the Secretary on behalf of the Secretary of the Treasury, and all collections therefrom, made or held under the direct loan provisions of (1) titles I, II, and IV of the Bankhead-Jones Farm Tenant Act, as amended; (2) the Farmers Home Administration Act of 1946, as amended, except the assets of the rural rehabilitation corporations; (3) the Act of August 28, 1937 (50 Stat. 869), as amended; (4) the item “Loans to Farmers—1948 Flood Damage” in the Act of June 25, 1948 (62 Stat. 1038); (5) the item “Loans to Farmers (Property Damage)” in the Act of May 24, 1949 (63 Stat. 82); (6) the Act of September 6, 1950 (64 Stat. 769); (7) the Act of July 11, 1956 (70 Stat. 525); (8) section 8 of the Watershed Protection and Flood Prevention Act, as amended \[16 U.S.C. 1006a\]; (9) section 32(e) of the Bankhead-Jones Farm Tenant Act, as amended \[7 U.S.C. 1011(e)\]; and (10) under this chapter shall be held for and deposited in said account.
-
-The notes of the Secretary issued to the Secretary of the Treasury under said Acts or under this chapter and all other liabilities against the appropriations or assets in the direct loan account shall be liabilities of said account, and all other obligations against such appropriations or assets shall be obligations of said account. Moneys in the direct loan account shall also be available for interest and principal repayments on notes issued by the Secretary to the Secretary of the Treasury. Otherwise, the balances in said account shall remain available to the Secretary for direct loans under subchapters I or II of this chapter, section 8 of the Watershed Protection and Flood Prevention Act, as amended \[16 U.S.C. 1006a\], and section 32(e) of the Bankhead-Jones Farm Tenant Act, as amended \[7 U.S.C. 1011(e)\], and for advances in connection therewith, not to exceed any existing appropriation or authorization limitations and in such further amounts as the Congress from time to time determines in appropriation Acts. The amounts so authorized for loans and advances shall remain available until expended. Subject to the foregoing limitations, the use of collections deposited in the account may be authorized by the Congress in lieu or partially in lieu of authorizing the issuing of additional notes by the Secretary to the Secretary of the Treasury, and the account shall be budgeted on a net expenditure basis.
-
-#### (d) Sale of notes and mortgages
-
-The Secretary may sell and assign any notes and mortgages in the direct loan account with the consent of the borrower or without such consent when the borrower has failed to comply with his agreement to refinance the indebtedness at the request of the Secretary. Such loans may be sold at the balance due thereon or on such other basis as the Secretary may determine from time to time.
-
-#### (e) Distribution of real estate loans among States
-
-At least 25 per centum of the sums authorized in any fiscal year for direct loans to individuals to be made by the Secretary under subchapter I of this chapter shall be allocated equitably among the several States and territories on the basis of farm population and the prevalence of tenancy, as determined by the Secretary.
-
-#### (f) Sale by lender and any holder of guaranteed portion of loan pursuant to regulations governing such sales; limitations; issuance of pool certificates representing ownership of guaranteed portion of guaranteed loan; terms and conditions, etc.; reporting requirements
+#### (b) Sale by lender and any holder of guaranteed portion of loan pursuant to regulations governing such sales; limitations; issuance of pool certificates representing ownership of guaranteed portion of guaranteed loan; terms and conditions, etc.; reporting requirements
 
 (1)(A) The guaranteed portion of any loan made under this chapter may be sold by the lender, and by any subsequent holder, in accordance with regulations governing such sales as the Secretary shall establish, subject to the following limitations:
 
@@ -52,7 +34,7 @@ At least 25 per centum of the sums authorized in any fiscal year for direct loan
 
 (F)(i) If the Secretary pays a claim under a guarantee issued under this subsection, the claim shall be subrogated fully to the rights satisfied by such payment, as may be provided by the Secretary.
 
-(ii) No State or local law, and no Federal law, shall preclude or limit the exercise by the Secretary of the Secretary's ownership rights in the portions of loans constituting the pool against which the certificates are issued.
+(ii) No State or local law, and no Federal law, shall preclude or limit the exercise by the Secretary of the Secretary's ownership rights in theportions of loans constituting the pool against which the certificates are issued.
 
 (3) On the adoption of final rules and regulations, the Secretary shall do the following:
 
@@ -76,7 +58,7 @@ At least 25 per centum of the sums authorized in any fiscal year for direct loan
 
 (B) Each report under subparagraph (A) shall include—
 
-&emsp;(i) the number and the total dollar amount of loans sold in the secondary market and thedistribution of such loans by size of loan, size of lender, geographic location of lender, interest rate, maturity, lender servicing fees, whether the interest rate is fixed or variable, and premium paid;
+&emsp;(i) the number and the total dollar amount of loans sold in the secondary market and the distribution of such loans by size of loan, size of lender, geographic location of lender, interest rate, maturity, lender servicing fees, whether the interest rate is fixed or variable, and premium paid;
 
 &emsp;(ii) the number and dollar amount of loans resold in the secondary market and the distribution of such loans by size of loan, interest rate, and premiums;
 
@@ -94,31 +76,15 @@ At least 25 per centum of the sums authorized in any fiscal year for direct loan
 
 (5) The Secretary may contract for goods and services to be used for the purposes of this subsection without regard to the provisions of titles 5, 40, and 41, and any regulations issued thereunder.
 
-(Pub. L. 87–128, title III, §338, Aug. 8, 1961, 75 Stat. 316; Pub. L. 89–429, §5, May 24, 1966, 80 Stat. 167; Pub. L. 100–233, title VII, §711(a), Jan. 6, 1988, 101 Stat. 1707; Pub. L. 100–399, title VI, §605, Aug. 17, 1988, 102 Stat. 1006; Pub. L. 101–624, title XXIII, §2303(d), Nov. 28, 1990, 104 Stat. 3981.)
+(Pub. L. 87–128, title III, §338, Aug. 8, 1961, 75 Stat. 316; Pub. L. 89–429, §5, May 24, 1966, 80 Stat. 167; Pub. L. 100–233, title VII, §711(a), Jan. 6, 1988, 101 Stat. 1707; Pub. L. 100–399, title VI, §605, Aug. 17, 1988, 102 Stat. 1006; Pub. L. 101–624, title XXIII, §2303(d), Nov. 28, 1990, 104 Stat. 3981; Pub. L. 104–127, title VII, §749(a), Apr. 4, 1996, 110 Stat. 1129.)
 
 #### References in Text
 
-For definition of “this chapter”, referred to in subsecs. (a), (b), (c), (e), and (f), see note set out under section 1921 of this title.
-
-Titles I, II, and IV of the Bankhead-Jones Farm Tenant Act, as amended, referred to in subsec. (c)(1), refer to titles I, II, and IV of act July 22, 1937, ch. 517, 50 Stat. 522, as amended, which were formerly classified to sections 1001 to 1005, 1005a to 1005d, 1006, 1006c to 1006e, 1007, 1008, 1009; and 1014 to 1025, 1026, 1027 to 1029 of this title, respectively, were repealed by section 341(a) of Pub. L. 87–128, and are covered by this chapter.
-
-The Farmers Home Administration Act of 1946, as amended, referred to in subsec. (c)(2), refers to act Aug. 14, 1946, ch. 964, 60 Stat. 1062, as amended, which was classified to sections 1001 to 1005, 1005a to 1005d, 1007, 1008, 1009, 1015 to 1029, 1030, and 1031 of this title; section 371 of Title 12, Banks and Banking; and section 82h of Title 31, Money and Finance, and in so far as it amended provisions of titles I, II, and IV of the Bankhead-Jones Farm Tenant Act, was repealed by section 341(a) of Pub. L. 87–128, and is covered by this chapter.
-
-Act of August 28, 1937 (50 Stat. 869), as amended, referred to in subsec. (c)(3), was formerly classified to sections 590r to 590x–4 of Title 16, Conservation, was repealed by section 341(a) of Pub. L. 87–128, and is covered by this chapter.
-
-Act of June 25, 1948 (62 Stat. 1038), referred to in subsec. (c)(4), refers to a provision of the Second Deficiency Appropriation Act, 1948 (act June 25, 1948, ch. 658, 62 Stat. 1027), which provision was not classified to the Code.
-
-Act of May 24, 1949 (63 Stat. 82), referred to in subsec. (c)(5), refers to a provision of the First Deficiency Appropriation Act, 1949 (act May 24, 1949, ch. 138, 63 Stat. 76), which provision was not classified to the Code.
-
-Act of September 6, 1950 (64 Stat. 769), referred to in subsec. (c)(6), is classified to sections 1033, 1033 note, 1034, 1035, 1036, and 1037 to 1039 of this title.
-
-Act of July 11, 1956 (70 Stat. 525), referred to in subsec. (c)(7), refers to a provision transferring certain responsibilities of the Secretary of the Interior to the Secretary of Agriculture, among other provisions (act July 11, 1956, ch. 565, 70 Stat. 525), which provision was not classified to the Code.
-
-#### Codification
-
-In subsec. (b), “chapter 31 of title 31” and “such chapter” substituted for “the Second Liberty Bond Act, as amended” and “such Act, as amended,” respectively, on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+For definition of “this chapter”, referred to in text, see note set out under section 1921 of this title.
 
 #### Amendments
+
+1996—Subsecs. (b) to (f). Pub. L. 104–127 redesignated subsec. (f) as (b) and struck out former subsecs. (b) to (e) which provided for: in subsec. (b), form and denomination of notes to obtain funds for making direct loans under this chapter as well as maturities, terms and conditions, interest rate, purchase by Treasury, and public debt transaction; in subsec. (c), establishment of Farmers Home Administration direct loan account as well as deposits into account, liabilities, obligations, expenditures, and net expenditure basis of budgeting; in subsec. (d), sale of notes and mortgages; and in subsec. (e), distribution of real estate loans among States.
 
 1990—Subsec. (a). Pub. L. 101–624 inserted “or the Rural Development Administration” after “Farmers Home Administration”.
 
@@ -138,11 +104,7 @@ Section 711(b) of Pub. L. 100–233 provided that: “Within 180 days after the 
 
 #### Pool Certificates Not To Be Issued Until Final Regulations Take Effect
 
-Section 711(c) of Pub. L. 100–233 provided that: “The Secretary of Agriculture shall not implement paragraph (2) of section 338(f) of the Consolidated Farm and Rural Development Act \[7 U.S.C. 1988(f)\], as added by subsection (a), until the final regulations governing the administration of such paragraph take effect.”
-
-#### Abolition of Farmers Home Administration Direct Loan Account
-
-The Farmers Home Administration direct loan account, created by subsec. (c) of this section, was abolished and its assets and liabilities transferred to the Agricultural Credit Insurance Fund by section 1929 of this title.
+Section 711(c) of Pub. L. 100–233 provided that: “The Secretary of Agriculture shall not implement paragraph (2) of section 338(f) \[now 338(b)\] of the Consolidated Farm and Rural Development Act \[7 U.S.C. 1988(f) \[now 1988(b)\]\], as added by subsection (a), until the final regulations governing the administration of such paragraph take effect.”
 
 #### Loans to Indians
 

@@ -48,7 +48,7 @@ Providing Copies of Communications About Defects and Noncompliance.—A manufact
 
 Administrative Authority on Reports, Answers, and Hearings.—(1) In carrying out this chapter, the Secretary of Transportation may—
 
-&emsp;(A) require, by general or special order, any person to file reports or answers to specific questions, including reports or answers under oath; and
+&emsp;(A) require, by general or special order, any person to file reports or answers to specificquestions, including reports or answers under oath; and
 
 &emsp;(B) conduct hearings, administer oaths, take testimony, and require (by subpena or otherwise) the appearance and testimony of witnesses and the production of records the Secretary considers advisable.
 
@@ -70,13 +70,15 @@ Cooperation of Secretary.—The Secretary of Transportation may advise, assist, 
 
 Providing Information.—The Secretary of Transportation shall provide the Attorney General and, when appropriate, the Secretary of the Treasury, information obtained that indicates a violation of this chapter or a regulation prescribed or order issued under this chapter.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 969; Pub. L. 103–429, §6(24), Oct. 31, 1994, 108 Stat. 4380; Pub. L. 104–88, title III, §308(j), Dec. 29, 1995, 109 Stat. 947.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 969; Pub. L. 103–429, §6(24), Oct. 31, 1994, 108 Stat. 4380; Pub. L. 104–88, title III, §308(j), Dec. 29, 1995, 109 Stat. 947; Pub. L. 104–287, §6(f)(3), Oct. 11, 1996, 110 Stat. 3399.)
 
 Historical and Revision Notes
 
 Pub. L. 103–272
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -208,9 +210,15 @@ This amends 49:30166(h) to clarify the restatement of 15:1401(c)(4) by section 1
 
 #### Amendments
 
-1995—Subsec. (d). Pub. L. 104–88, which directed amendment of section 30106(d) of this title by substituting “subchapter I of chapter 135” for “subchapter II of chapter 105”, was executed to subsec. (d) of this section to reflect the probable intent of Congress. No section 30106 of this title has been enacted.
+1996—Subsec. (d). Pub. L. 104–287 made technical amendment to directory language of Pub. L. 104–88, §308(j). See 1995 Amendment note below.
+
+1995—Subsec. (d). Pub. L. 104–88, §308(j), as amended by Pub. L. 104–287, substituted “subchapter I of chapter 135” for “subchapter II of chapter 105”.
 
 1994—Subsec. (h). Pub. L. 103–429 substituted “any judicial district” for “the judicial district”.
+
+#### Effective Date of 1996 Amendment
+
+Section 6(f)(3) of Pub. L. 104–287 provided that the amendment made by that section is effective Dec. 29, 1995.
 
 #### Effective Date of 1995 Amendment
 

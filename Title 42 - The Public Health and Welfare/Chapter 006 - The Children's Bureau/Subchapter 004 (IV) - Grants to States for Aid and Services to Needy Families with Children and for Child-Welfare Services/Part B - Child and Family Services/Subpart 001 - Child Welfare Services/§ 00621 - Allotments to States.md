@@ -30,5 +30,5 @@ Section 9135(c) of Pub. L. 100–203 provided that: “The amendments made by th
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 624, 628, 629c, 1308 of this title.
+This section is referred to in sections 624, 628, 629c of this title.
 

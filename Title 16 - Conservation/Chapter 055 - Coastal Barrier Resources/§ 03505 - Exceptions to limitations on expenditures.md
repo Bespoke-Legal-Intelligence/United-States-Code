@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Notwithstanding section 3504 of this title, the appropriate Federal officer, after consultationwith the Secretary, may make Federal expenditures and may make financial assistance available within the System for the following:
+Notwithstanding section 3504 of this title, the appropriate Federal officer, after consultation with the Secretary, may make Federal expenditures and may make financial assistance available within the System for the following:
 
 &emsp;(1) Any use or facility necessary for the exploration, extraction, or transportation of energy resources which can be carried out only on, in, or adjacent to a coastal water area because the use or facility requires access to the coastal water body.
 
@@ -56,7 +56,7 @@ The limitations on the use of Federal expenditures or financial assistance withi
 
 #### (A) In general
 
-&emsp;&emsp;No financial assistance for acquisition, construction, or improvement purposes may be provided under any program administered by the Secretary of Housing and Urban Development for any services or facilities and related infrastructure located outside the boundaries of unit T–11 of the System that facilitate an activity within that unit that is not consistent with the purposes of this chapter.
+&emsp;&emsp;No financial assistance for acquisition, construction, or improvement purposes may be provided under any program administered by the Secretary of Housing and Urban Development for any services or facilities and related infrastructure located outside the boundaries of unit T–11 of the System that facilitate an activity within that unit thatis not consistent with the purposes of this chapter.
 
 #### (B) “Financial assistance” defined
 

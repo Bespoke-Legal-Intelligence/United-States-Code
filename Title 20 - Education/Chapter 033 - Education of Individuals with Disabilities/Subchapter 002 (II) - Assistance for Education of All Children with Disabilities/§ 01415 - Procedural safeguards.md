@@ -34,7 +34,7 @@ If the hearing required in paragraph (2) of subsection (b) of this section is co
 
 Any party to any hearing conducted pursuant to subsections (b) and (c) of this section shall be accorded—
 
-&emsp;(1) the right to be accompanied and advised by counsel and by individuals with specialknowledge or training with respect to the problems of children with disabilities,
+&emsp;(1) the right to be accompanied and advised by counsel and by individuals with special knowledge or training with respect to the problems of children with disabilities,
 
 &emsp;(2) the right to present evidence and confront, cross-examine, and compel the attendance of witnesses,
 
@@ -46,7 +46,7 @@ Any party to any hearing conducted pursuant to subsections (b) and (c) of this s
 
 (1) A decision made in a hearing conducted pursuant to paragraph (2) of subsection (b) of this section shall be final, except that any party involved in such hearing may appeal such decision under the provisions of subsection (c) and paragraph (2) of this subsection. A decision made under subsection (c) of this section shall be final, except that any party may bring an action under paragraph (2) of this subsection.
 
-(2) Any party aggrieved by the findings and decision made under subsection (b) of this section who does not have the right to an appeal under subsection (c) of this section, and any party aggrieved by the findings and decision under subsection (c) of this section, shall have the right to bring a civil action with respect to the complaint presented pursuant to this section, which action may be brought in any State court of competent jurisdiction or in a district court of the United States without regard to the amount in controversy. In any action brought under this paragraph the court shall receive the records of the administrative proceedings, shall hear additional evidence at the request of a party, and, basing its decision on the preponderance of the evidence, shall grant such relief as the court determines is appropriate.
+(2) Any party aggrieved by the findings and decision made under subsection (b) of this section who does not have the right to an appeal under subsection (c) of this section, and any party aggrieved by the findings and decision under subsection (c) of this section, shall have the right to bring a civil action with respect to the complaint presented pursuant to this section, which action may be brought in any State court of competent jurisdiction or in a district court of the United States without regard to the amount in controversy. In any action brought under this paragraph the court shall receive the records of the administrative proceedings, shall hear additional evidence at the request of a party, and, basing its decision on the preponderance of theevidence, shall grant such relief as the court determines is appropriate.
 
 (3)(A) Except as provided in subparagraph (B), during the pendency of any proceedings conducted pursuant to this section, unless the State or local educational agency and the parents or guardian otherwise agree, the child shall remain in the then current educational placement of such child, or, if applying for initial admission to a public school, shall, with the consent of the parents or guardian, be placed in the public school program until all such proceedings have been completed.
 

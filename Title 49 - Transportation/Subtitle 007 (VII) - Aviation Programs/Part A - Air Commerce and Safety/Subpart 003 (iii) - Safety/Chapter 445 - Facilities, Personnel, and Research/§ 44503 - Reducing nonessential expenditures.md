@@ -6,7 +6,9 @@ The Secretary of Transportation shall attempt to reduce the capital, operating, 
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

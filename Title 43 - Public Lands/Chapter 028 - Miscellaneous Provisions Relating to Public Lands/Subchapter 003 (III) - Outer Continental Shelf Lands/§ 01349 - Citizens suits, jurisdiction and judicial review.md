@@ -30,7 +30,7 @@
 
 (2) Any action of the Secretary to approve, require modification of, or disapprove any exploration plan or any development and production plan under this subchapter shall be subject to judicial review only in a United States court of appeals for a circuit in which an affected State is located.
 
-(3) The judicial review specified in paragraphs (1) and (2) of this subsection shall be available only to a person who (A) participated in the administrative proceedings related to the actions specified in such paragraphs, (B) is adversely affected or aggrieved by such action, (C) files a petition for review of the Secretary's action within sixty days after the date of such action, and (D) promptly transmits copies of the petition to the Secretary and to the Attorney General.
+(3) The judicial review specified in paragraphs (1) and (2) of this subsection shall be availableonly to a person who (A) participated in the administrative proceedings related to the actions specified in such paragraphs, (B) is adversely affected or aggrieved by such action, (C) files a petition for review of the Secretary's action within sixty days after the date of such action, and (D) promptly transmits copies of the petition to the Secretary and to the Attorney General.
 
 (4) Any action of the Secretary specified in paragraph (1) or (2) shall only be subject to review pursuant to the provisions of this subsection, and shall be specifically excluded from citizen suits which are permitted pursuant to subsection (a) of this section.
 

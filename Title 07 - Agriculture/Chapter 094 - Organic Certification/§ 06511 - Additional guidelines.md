@@ -20,7 +20,7 @@ The Secretary, the applicable governing State official, or the certifying agent 
 
 &emsp;&emsp;(A) the result of intentional application of a prohibited substance; or
 
-&emsp;&emsp;(B) present at levels that are greater than unavoidable residual environmental contamination as prescribed by the Secretary or the applicable governing State official inconsultation with the appropriate environmental regulatory agencies;
+&emsp;&emsp;(B) present at levels that are greater than unavoidable residual environmental contamination as prescribed by the Secretary or the applicable governing State official in consultation with the appropriate environmental regulatory agencies;
 
 > &emsp;such agricultural product shall not be sold or labeled as organically produced under this chapter.
 

@@ -54,7 +54,7 @@
 
 #### Amendments
 
-<b>1978</b>—Pub. L. 95–454, title VII, §§701, 703(a)(2), Oct. 13, 1978, 92 Stat. 1191, 1217, in heading for Subpart F inserted “Labor-Management and” before “Employee”, in heading for chapter 71 substituted “LABOR-MANAGEMENT RELATIONS” for “POLICIES”, in heading for subchapter I substituted “GENERAL PROVISIONS” for “EMPLOYEE ORGANIZATIONS”, in item 7101 substituted “Findings and purpose” for “Right to organize; postal employees”, in item 7102 substituted “Employees’ rights” for “Right to petition Congress; employees”, added items 7103 to 7106, and added subchapter II and items 7111 to 7120, subchapter III and items 7121 to 7123, and subchapter IV and items 7131 to 7135. Former subchapter II heading “ANTIDISCRIMINATION IN EMPLOYMENT” and items 7151 to 7154, “Policy”, “Marital status”, “Physical handicap”, and “Other prohibitions”, respectively, were transferred to subchapter I of chapter 72 and renumbered and amended.
+1978—Pub. L. 95–454, title VII, §§701, 703(a)(2), Oct. 13, 1978, 92 Stat. 1191, 1217, in heading for Subpart F inserted “Labor-Management and” before “Employee”, in heading for chapter 71 substituted “LABOR-MANAGEMENT RELATIONS” for “POLICIES”, in heading for subchapter I substituted “GENERAL PROVISIONS” for “EMPLOYEE ORGANIZATIONS”, in item 7101 substituted “Findings and purpose” for “Right to organize; postal employees”, in item 7102 substituted “Employees’ rights” for “Right to petition Congress; employees”, added items 7103 to 7106, and added subchapter II and items 7111 to 7120, subchapter III and items 7121 to 7123, and subchapter IV and items 7131 to 7135. Former subchapter II heading “ANTIDISCRIMINATION IN EMPLOYMENT” and items 7151 to 7154, “Policy”, “Marital status”, “Physical handicap”, and “Other prohibitions”, respectively, were transferred to subchapter I of chapter 72 and renumbered and amended.
 
 #### Cross References
 
@@ -62,7 +62,7 @@ Labor-management relations in the Foreign Service, see section 4101 et seq. of T
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 4505a, 4703, 5366, 5596, 6121, 8473 of this title; title 2 sections 1302, 1351, 1371, 1434; title 7 section 7011; title 20 section 4416; title 22 sections 3701, 4107, 4109; title 31 section 732; title 38 sections 7422, 7461, 7463; title 45 section 1203.
+This chapter is referred to in sections 4505a, 4703, 5366, 5596, 6121, 8473 of this title; title 2 sections 1302, 1351, 1371, 1434; title 3 sections 402, 431; title 7 section 7011; title 10 section 461; title 20 section 4416; title 22 sections 3701, 4107, 4109; title 31 section 732; title 38 sections 7422, 7461, 7463; title 45 section 1203.
 
 
 ---

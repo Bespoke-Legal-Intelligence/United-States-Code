@@ -48,13 +48,13 @@ Pub. L. 98–440, §202(b), inserted provision that term “residential mortgage
 
 Subsec. (i). Pub. L. 98–440, §204, substituted “any of its agencies or instrumentalities” for “a State or an agency or instrumentality of either”.
 
-Subsec. (<i>l</i>). Pub. L. 98–440, §202(c), added subsec. (<i>l).</i>
+Subsec. (<i>l</i>). Pub. L. 98–440, §202(c), added subsec. (<i>l</i>).
 
 1980—Subsec. (h). Pub. L. 96–294 inserted provision relating to loans or advances of credit made by a public utility and purchased by the Corporation pursuant to section 1454(a)(1) of this title.
 
 1979—Subsec. (h). Pub. L. 96–153 expanded definition of residential mortgage to include a mortgage, lien, or other security interest on the stock or membership certificate issued to a tenant-stockholder or resident-member by a cooperative housing corporation, and on the proprietary lease, occupancy agreement, or right of tenancy in the dwelling unit of the tenant-stockholder or resident-member in such cooperative housing corporation.
 
-1978—Subsec. (h). Pub. L. 95–630 inserted provisions expanding definition of “residential mortgage” to include a secured loan or advance of credit the proceedsof which are intended to finance the rehabilitation, renovation, modernization, refurbishment, or improvement of properties as to which the Corporation may purchase a “residential mortgage” as defined under first sentence of this subsection, provisions relating to the maximum principal obligation of loans, and provisions defining “secured loan or advance of credit”.
+1978—Subsec. (h). Pub. L. 95–630 inserted provisions expanding definition of “residential mortgage” to include a secured loan or advance of credit the proceeds of which are intended to finance the rehabilitation, renovation, modernization, refurbishment, or improvement of properties as to which the Corporation may purchase a “residential mortgage” as defined under first sentence of this subsection, provisions relating to the maximum principal obligation of loans, and provisions defining “secured loan or advance of credit”.
 
 Pub. L. 95–619 inserted provisions relating to loans or advances of credit insured under title I of the National Housing Act whose original proceeds were applied for to finance energy conserving improvements or solar energy systems and provisions relating to certain loans or advances of credit for such purposes not so insured.
 
@@ -68,7 +68,7 @@ Pub. L. 97–110, title II, §201, Dec. 26, 1981, 95 Stat. 1514, provided that: 
 
 #### Short Title and Statement of Purpose
 
-Section 301 of title III of Pub. L. 91–351, as amended by Pub. L. 101–73, title VII, §731(a), Aug. 9, 1989, 103 Stat. 429; Pub. L. 102–550, title XIII, §1382(a), Oct. 28, 1992, 106 Stat. 4002, provided that:
+Section 301 of title III of Pub. L. 91–351, as amended by Pub. L. 101–73, title VII, §731(a), Aug. 9, 1989, 103Stat. 429; Pub. L. 102–550, title XIII, §1382(a), Oct. 28, 1992, 106 Stat. 4002, provided that:
 
 “(a) This title \[enacting this chapter\] may be cited as the ‘Federal Home Loan Mortgage Corporation Act’.
 

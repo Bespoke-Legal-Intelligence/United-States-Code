@@ -10,5 +10,5 @@ The Chief Financial Officers Act, referred to in text, probably means the Chief 
 
 #### Codification
 
-Section was enacted as part of the Independent Agencies Appropriations Act, 1994, and as part of the Treasury, Postal Service, and General Government Appropriations Act, 1994, and not as part of the Federal Property and Administrative Services Act of 1949 part of which comprises this chapter.
+Section was enacted as part of the Independent Agencies Appropriations Act, 1994, and as part of the Treasury, Postal Service, and General Government Appropriations Act, 1994, and not as part of the Federal Property and Administrative Services Act of 1949, part of which comprises this chapter.
 

@@ -1,20 +1,20 @@
 ### §316. Special pay: foreign language proficiency pay
 
-(a) A member of the armed forces—
+(a) A member of the uniformed services—
 
 &emsp;(1) who is entitled to basic pay under section 204 of this title;
 
-&emsp;(2) who has been certified by the Secretary concerned within the past 12 months to be proficient in a foreign language identified by the Secretary of Defense as being a language in which it is necessary to have personnel proficient because of national defense considerations; and
+&emsp;(2) who has been certified by the Secretary concerned within the past 12 months to be proficient in a foreign language identified by the Secretary concerned as being a language in which it is necessary to have personnel proficient because of national defense or public health considerations; and
 
 &emsp;(3) who—
 
-&emsp;&emsp;(A) is qualified in a military specialty requiring such proficiency;
+&emsp;&emsp;(A) is qualified in a uniformed services specialty requiring such proficiency;
 
 &emsp;&emsp;(B) received training, under regulations prescribed by the Secretary concerned, designed to develop such proficiency;
 
-&emsp;&emsp;(C) is assigned to military duties requiring such a proficiency; or
+&emsp;&emsp;(C) is assigned to duties requiring such a proficiency; or
 
-&emsp;&emsp;(D) is proficient in a foreign language for which the Department of Defense may have a critical need (as determined by the Secretary of Defense),
+&emsp;&emsp;(D) is proficient in a foreign language for which the uniformed service may have a critical need (as determined by the Secretary concerned),
 
 > may be paid special pay under this section in addition to any other pay or allowance to which the member is entitled.
 
@@ -30,9 +30,27 @@
 
 (3) This subsection does not apply to a member who is entitled to basic pay under section 204 of this title.
 
-(d) This section shall be administered under regulations prescribed by the Secretary of Defense for the armed forces under his jurisdiction and by the Secretary of Transportation for the Coast Guard when the Coast Guard is not operating as a service in the Navy.
+(d) This section shall be administered under regulations prescribed by the Secretary of Defense for the armed forces under the jurisdiction of the Secretary, by the Secretary of Transportation for the Coast Guard when the Coast Guard is not operating as a service in the Navy, by the Secretary of Health and Human Services for the Commissioned Corps of the Public Health Service, and by the Secretary of Commerce for the National Oceanic and Atmospheric Administration.
 
-(Added Pub. L. 99–661, div. A, title VI, §634(a)(1), Nov. 14, 1986, 100 Stat. 3884.)
+(Added Pub. L. 99–661, div. A, title VI, §634(a)(1), Nov. 14, 1986, 100 Stat. 3884; amended Pub. L. 104–201, div. A, title VI, §616(a), (b), Sept. 23, 1996, 110 Stat. 2547.)
+
+#### Amendments
+
+1996—Subsec. (a). Pub. L. 104–201, §616(a)(1), substituted “uniformed services” for “armed forces” in introductory provisions.
+
+Subsec. (a)(2). Pub. L. 104–201, §616(a)(2), substituted “Secretary concerned as being” for “Secretary of Defense as being” and inserted “or public health” after “national defense”.
+
+Subsec. (a)(3)(A). Pub. L. 104–201, §616(a)(3)(A), substituted “uniformed services” for “military”.
+
+Subsec. (a)(3)(C). Pub. L. 104–201, §616(a)(3)(B), struck out “military” before “duties requiring”.
+
+Subsec. (a)(3)(D). Pub. L. 104–201, §616(a)(3)(C), substituted “uniformed service” for “Department of Defense” and “Secretary concerned” for “Secretary of Defense”.
+
+Subsec. (d). Pub. L. 104–201, §616(b), substituted “the jurisdiction of the Secretary,” for “his jurisdiction and” and inserted before period at end “, by the Secretary of Health and Human Services for the Commissioned Corps of the Public Health Service, and by the Secretary of Commerce for the National Oceanic and Atmospheric Administration”.
+
+#### Effective Date of 1996 Amendment
+
+Section 616(c) of Pub. L. 104–201 provided that: “The amendments made by this section \[amending this section\] shall take effect on October 1, 1996, and apply with respect to months beginning on or after such date.”
 
 #### Effective Date
 

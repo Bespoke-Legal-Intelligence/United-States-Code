@@ -2,37 +2,79 @@
 
 #### (a) Days for which benefits payable; determination of amount
 
-(1)(A)(i) Except as otherwise provided in this subparagraph, benefits shall be payable to any qualified employee for each day of unemployment in excess of 4 during any registration period.
+(1)(A)
 
-(ii) No benefits shall be payable for days of unemployment during the first registration period within a benefit year in which the employee has more than 4 days of unemployment.
+Payment of Unemployment Benefits.—
 
-(iii) In any case in which the Board finds that an employee's unemployment was due to a stoppage of work because of a strike in the establishment, premises, or enterprise at which such employee was last employed, no benefits shall be payable for the first 14 days of unemployment due to such stoppage of work. However, for subsequent days of unemployment due to such stoppage of work, benefits shall be payable to days in excess of 4 during any registration period.
+&emsp;(i)
 
-(B)(i) Except as otherwise provided in this subparagraph, benefits shall be payable to any qualified employee for each day of sickness after the 4th consecutive day of sickness in a period of continuing sickness but excluding 4 days of sickness in any registration period.
+Generally.—Except as otherwise provided in this subparagraph, benefits shall be payable to any qualified employee for each day of unemployment in excess of 4 during any registration period within a period of continuing unemployment.
 
-(ii) No benefits shall be payable for days of sickness in the first registration period within a benefit year in which the employee has both 4 consecutive days of sickness and more than 4 days of sickness.
+&emsp;(ii)
 
-(iii) For the purposes of this subparagraph, a period of continuing sickness means (I) a period of consecutive days of sickness, whether from one or more causes, or (II) a period of successive days of sickness due to a single cause without interruption of more than 90 consecutive days which are not days of sickness.
+Waiting period for first registration period.—Benefits shall be payable to anyqualified employee for each day of unemployment in excess of 7 during that employee's first registration period in a period of continuing unemployment if such period of continuing unemployment is the employee's initial period of continuing unemployment commencing in the benefit year.
+
+&emsp;(iii)
+
+Strikes.—
+
+&emsp;&emsp;(I)
+
+Initial 14-day waiting period.—If the Board finds that a qualified employee has a period of continuing unemployment that includes days of unemployment due to a stoppage of work because of a strike in the establishment, premises, or enterprise at which such employee was last employed, no benefits shall be payable for such employee's first 14 days of unemployment due to such stoppage of work.
+
+&emsp;&emsp;(II)
+
+Subsequent days of unemployment.—For subsequent days of unemployment due to the same stoppage of work, benefits shall be payable as provided in clause (i) of this subparagraph.
+
+&emsp;&emsp;(III)
+
+Subsequent periods of continuing unemployment.—If such period of continuing unemployment ends by reason of clause (v) but the stoppage of work continues, the waiting period established in clause (ii) shall apply to the employee's first registration period in a new period of continuing unemployment based upon the same stoppage of work.
+
+&emsp;(iv)
+
+Definition of period of continuing unemployment.—Except as limited by clause (v), for the purposes of this subparagraph, the term “period of continuing unemployment” means—
+
+&emsp;&emsp;(I) a single registration period that includes more than 4 days of unemployment;
+
+&emsp;&emsp;(II) a series of consecutive registration periods, each of which includes more than 4 days of unemployment; or
+
+&emsp;&emsp;(III) a series of successive registration periods, each of which includes more than 4 days of unemployment, if each succeeding registration period begins within 15 days after the last day of the immediately preceding registration period.
+
+&emsp;(v)
+
+Special rule regarding end of period.—For purposes of applying clause (ii), a period of continuing unemployment ends when an employee exhausts rights to unemployment benefits under subsection (c) of this section.
+
+&emsp;(vi)
+
+Limit on amount of benefits.—No benefits shall be payable to an otherwise eligible employee for any day of unemployment in a registration period where the total amount of the remuneration (as defined in section 351(j) of this title) payable or accruing to him for days within such registration period exceeds the amount of the base year monthly compensation base. For purposes of the preceding sentence, an employee's remuneration shall be deemed to include the gross amount of any remuneration that would have become payable to that employee but did not become payable because that employee was not ready or willing to perform suitable work available to that employee on any day within such registration period.
+
+(B)
+
+Payment of Sickness Benefits.—
+
+&emsp;(i)
+
+Generally.—Except as otherwise provided in this subparagraph, benefits shall be payable to any qualified employee for each day of sickness after the 4th consecutive day of sickness in a period of continuing sickness but excluding 4 days of sickness in any registration period in such period of continuing sickness.
+
+&emsp;(ii)
+
+Waiting period for first registration period.—Benefits shall be payable to any qualified employee for each day of sickness in excess of 7 during that employee's first registration period in a period of continuing sickness if such period of continuing sickness is the employee's initial period of continuing sickness commencing in the benefit year. For the purposes of this clause, the first registration period in a period of continuing sickness is that registration period that first begins with 4 consecutive days of sickness and includes more than 4 days of sickness.
+
+&emsp;(iii)
+
+Definition of period of continuing sickness.—For the purposes of this subparagraph, a period of continuing sickness means—
+
+&emsp;&emsp;(I) a period of consecutive days of sickness, whether from 1 or more causes; or
+
+&emsp;&emsp;(II) a period of successive days of sickness due to a single cause without interruption of more than 90 consecutive days which are not days of sickness.
+
+&emsp;(iv)
+
+Special rule regarding end of period.—For purposes of applying clause (ii), a period of continuing sickness ends when an employee exhausts rights to sickness benefits under subsection (c) of this section.
 
 (2) The daily benefit rate with respect to any such employee for such day of unemployment or sickness shall be in an amount equal to 60 per centum of the daily rate of compensation for the employee's last employment in which he engaged for an employer in the base year, but not less than $12.70: <i>Provided, however</i>, That for registration periods beginning after June 30, 1975, but before July 1, 1976, such amount shall not exceed $24 per day of such unemployment or sickness, that for registration periods beginning after June 30, 1976, but before July 1, 1988, such amount shall not exceed $25 per day of such unemployment or sickness, that for registration periods beginning after June 30, 1988, but before July 1, 1989, such amount shall not exceed $30 per day of unemployment or sickness, and that for registration periods beginning after June 30, 1989, such amount shall not exceed the maximum daily benefit rate provided in paragraph (3) of this subsection. The daily rate of compensation referred to in this paragraph shall be determined by the Board on the basis of information furnished to the Board by the employee, his employer, or both.
 
-(3)(A) The maximum daily benefit rate which the Board is required to compute under section 362(r)(2) of this title shall be the amount computed pursuant to the following formula, but shall be not less than $30:
-
-&nbsp;
-
-| &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
-| :--- | :---: | :---: | :---: | :---: | :---: | ---: |
-| &nbsp; | &nbsp; | &nbsp; | &nbsp; | A^600 |  |  |
-| &nbsp; | BR=25 | ( | 1+ | <i>—————</i> | ) |  |
-| &nbsp; | &nbsp; | &nbsp; | &nbsp; | 900 |  |  |
-
-(B) For purposes of such formula—
-
-&emsp;(i) “BR” represents the maximum daily benefit rate; and
-
-&emsp;(ii) “A” represents the amount obtained by dividing the amount of the “applicable base” with respect to tier 1 taxes as determined under section 3231(e)(2) of title 26 for the calendar year in which the benefit year begins by 60, with this quotient being rounded down to the nearest multiple of $100.
-
-(C) If the maximum daily benefit rate computed under such formula is not a multiple of $1, it shall be rounded to the nearest multiple of $1, with such rounding being upward in the event the amount computed is equidistant between two multiples of $1.
+(3) The maximum daily benefit rate computed by the Board under section 362(r)(2) of this title shall be the product of the monthly compensation base, as computed under section 351(i)(2) of this title for the base year immediately preceding the beginning of the benefit year, multiplied by 5 percent. If the maximum daily benefit rate so computed is not a multiple of $1, it shall be rounded down to the nearest multiple of $1.
 
 (4) In computing benefits to be paid, days of unemployment shall not be combined with days of sickness in the same registration period.
 
@@ -40,23 +82,49 @@
 
 The benefits provided for in this section shall be paid to an employee at such reasonable intervals as the Board may prescribe.
 
-#### (c) Maximum number of benefit days
+#### (c) Maximum number of days for benefits
 
-The maximum number of days of unemployment within a benefit year for which benefitsmay be paid to an employee shall be one hundred and thirty, and the maximum number of days of sickness within a benefit year for which benefits may be paid to an employee shall be one hundred and thirty: <i>Provided, however</i>, That the total amount of benefits which may be paid to an employee for days of unemployment within a benefit year shall in no case exceed the employee's compensation in the base year; and the total amount of benefits which may be paid to an employee for days of sickness within a benefit year shall in no case exceed the employee's compensation in the base year except that notwithstanding the provisions of section 351(i) of this title, in determining the employee's compensation in the base year for purposes of this proviso and the second proviso of this subsection, any money remuneration paid to the employee for services rendered as an employee shall be taken into account that is not in excess of $775 in any month before 1989 and, in any month in a base year after 1988, is not in excess of an amount that bears the same ratio to $775 as the monthly compensation base for that year as computed under section 351(i) of this title bears to $600: <i>Provided further</i>, That, with respect to an employee who has less than ten years of service as defined in section 231(f) of this title, who did not voluntarily retire and did not voluntarily leave work without good cause, and who had current rights to normal benefits for days of unemployment in a benefit year but has exhausted such rights, the maximum number of days of, and amount of payment for, unemployment within such benefit year (as extended by the provisions of subsection (h) of this section) for which benefits may be paid shall be enlarged, but not by more than sixty-five days, to include all compensable days of unemployment within an extended benefit period determined pursuant to the provisions of subsection (h) of this section, but the total amount of benefits which may be paid to an employee for days of unemployment within such extended benefit period shall in no case exceed 50 per centum of the employee's compensation in the base year: <i>And provided further</i>, That, with respect to an employee who has ten or more years of service as defined in section 231(f) of this title, who did not voluntarily retire and (in a case involving exhaustion of rights to benefits for days of unemployment) did not voluntarily leave work without good cause, and who had current rights to normal benefits for days of unemployment or days of sickness in a benefit year but has exhausted such rights, the benefit year in which such rights are exhausted shall be deemed not to be ended until the last day of the extended benefit period determined under the following schedule, and the maximum number of days of, and amount of payment for, unemployment or sickness (depending on the type of benefit rights exhausted) within such benefit year for which benefits may be paid to the employee shall be enlarged to include all compensable days of unemployment or days of sickness, as the case may be within such extended benefit period:
+#### (1) Normal benefits
 
-&nbsp;
+#### (A) Generally
 
-| &nbsp; | &nbsp; |
-| :--- | ---: |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If the employee's “years of service” total— | The extended benefit period shall begin on the first day of unemployment or sickness, as the case may be, following the day on which the employee exhausted his then current rights to normal benefits for days of unemployment or days of sickness and shall continue for successive fourteen-day periods (each of which period shall constitute a registration period) until the number of such fourteen-day periods totals— |
-| 10 and less than 15 | 7 (but not more than 65 days) |
-| 15 and over | 13 |
+&emsp;&emsp;The maximum number of days of unemployment within a benefit year for which benefits may be paid to an employee shall be 130, and the maximum number of days of sickness within a benefit year for which benefits may be paid to an employee shall be 130.
 
-> but no such extended benefit period shall extend beyond the beginning of the first registration period in a benefit year in which the employee is again qualified for benefits in accordance with section 353 of this title on the basis of compensation earned after the first of such successive fourteen-day periods has begun. For an employee who has ten or more years of service, who did not voluntarily retire and (in a case involving unemployment) did not voluntarily leave work without good cause, who has fourteen or more consecutive days of unemployment, or fourteen or more consecutive days of sickness, and who is not a “qualified employee” for the general benefit year current when such unemployment or sickness commences but is or becomes a “qualified employee” for the next succeeding general benefit year, such succeeding benefit year shall, in his case, begin on the first day of the month in which such unemployment or sickness commences. Notwithstanding the other provisions of this subsection, an extended benefit period for sickness benefits shall terminate on the day next preceding the date on which the employee attains age 65, except that it may continue for the purpose of the payment of unemployment benefits; and, in the case of a succeeding benefit year beginning in accordance with the next preceding sentence by reason of sickness, such sentence shall not operate to permit the payment of benefits in the period provided for in such sentence for any day of sickness beginning with the day on which age 65 is attained and continuing through the day preceding the first day of the next succeeding general benefit year. For purposes of this subsection, the Board may rely on evidence of age available in its records and files at the time determinations of age are made.
+#### (B) Limitation
+
+&emsp;&emsp;The total amount of benefits that may be paid to an employee for days of unemployment within a benefit year shall in no case exceed the employee's compensation in the base year; and the total amount of benefits that may be paid to an employee for days of sickness within a benefit year shall in no case exceed the employee's compensation in the base year, except that notwithstanding section 351(i) of this title, in determining the employee's compensation in the base year for the purpose of this sentence, any money remuneration paid to the employee for services rendered as an employee shall be taken into account that is not in excess of an amount that bears the same ratio to $775 as the monthly compensation base for that year as computed under section 351(i) of this title bears to $600.
+
+#### (2) Extended benefits
+
+#### (A) Generally
+
+&emsp;&emsp;With respect to an employee who has 10 or more years of service as defined in section 231(f) of this title, who did not voluntarily retire and (in a case involving exhaustion of rights to normal benefits for days of unemployment) did not voluntarily leave work without good cause, and who had current rights to normal benefits for days of unemployment or days of sickness in a benefit year but has exhausted such rights, the benefit year in which such rights are exhausted shall be deemed not to be ended until the last day of the extended benefit period determined under this paragraph, and extended unemployment benefits or extended sickness benefits (depending on the type of normal benefit rights exhausted) may be paid for not more than 65 days of unemployment or 65 days of sickness within such extended benefit period.
+
+#### (B) Beginning date
+
+&emsp;&emsp;An employee's extended benefit period shall begin on the employee's first day of unemployment or first day of sickness, as the case may be, following the day on which the employee exhausts the employee's then current rights to normal benefits for days of unemployment or days of sickness and shall continue for 7 consecutive 14-day periods, each of which shall constitute a registration period, but no such extended benefit period shall extend beyond the beginning of the first registration period in a benefit year in which the employee is again qualified for benefits in accordance with section 353 of this title on the basis of compensation earned after the first of such consecutive 14-day periods has begun.
+
+#### (C) Termination when employee reaches age of 65
+
+&emsp;&emsp;Notwithstanding any other provision of this paragraph, an extended benefit period for sickness benefits shall terminate on the day next preceding the date on which the employee attains age 65, except that it may continue for the purpose of paying benefits for days of unemployment.
+
+#### (3) Accelerated benefits
+
+#### (A) General rule
+
+&emsp;&emsp;With respect to an employee who has 10 or more years of service as defined in section 231(f) of this title, who did not voluntarily retire, and (in a case involving unemployment benefits) did not voluntarily leave work without good cause, who has 14 or more consecutive days of unemployment, or 14 or more consecutive days of sickness, and who is not a qualified employee with respect to the general benefit year current when such unemployment or sickness commences but is or becomes a qualified employee for the next succeeding general benefit year, such succeeding general benefit year shall, in that employee's case, begin on the first day of the month in which such unemployment or sickness commences.
+
+#### (B) Exception
+
+&emsp;&emsp;In the case of a succeeding benefit year beginning in accordance with subparagraph (A) by reason of sickness, such sentence shall not operate to permit the payment of benefits in the period provided for in such sentence for any day of sickness beginning with the date on which the employee attains age 65, and continuing through the day preceding the first day of the next succeeding general benefit year.
+
+#### (C) Determination of age
+
+&emsp;&emsp;For the purposes of this subsection, the Board may rely on evidence of age available in its records and files at the time determinations of age are made.
 
 #### (d) Overpayment of benefits; recovery; liability of officers
 
-If the Board finds that at any time more than the correct amount of benefits has been paid to any individual under this chapter or a payment has been made to an individual not entitled thereto (including payments made prior to July 1, 1940), recovery by adjustments in subsequent payments to which such individual is entitled under this chapter or any other Act administered by the Board may, except as otherwise provided in this subsection, be made under regulations prescribed by the Board. If such individual dies before recovery is completed, recovery may be made by set-off or adjustments, underregulations prescribed by the Board, in subsequent payments due, under this chapter or any other Act administered by the Board, to the estate, designee, next of kin, legal representative, or surviving spouse of such individual, with respect to the employment of such individual.
+If the Board finds that at any time more than the correct amount of benefits has been paid to any individual under this chapter or a payment has been made to an individual not entitled thereto (including payments made prior to July 1, 1940), recovery by adjustments in subsequent payments to which such individual is entitled under this chapter or any other Act administered by the Board may, except as otherwise provided in this subsection, be made under regulations prescribed by the Board. If such individual dies before recovery is completed, recovery may be made by set-off or adjustments, under regulations prescribed by the Board, in subsequent payments due, under this chapter or any other Act administered by the Board, to the estate, designee, next of kin, legal representative, or surviving spouse of such individual, with respect to the employment of such individual.
 
 Adjustments under this subsection may be made either by deductions from subsequent payments or, with respect to payments which are to be made during a lifetime or lifetimes, by subtracting the total amount of benefits paid in excess of the proper amount from the actuarial value, as determined by the Board, of such payments to be made during a lifetime or lifetimes and recertifying such payments on the basis of the reduced actuarial value. In the latter case, recovery shall be deemed to have been completed upon such recertification.
 
@@ -76,29 +144,29 @@ If (i) benefits are paid to any employee with respect to unemployment or sicknes
 
 Benefits accrued to an individual but not yet paid at death shall, upon certification by the Board, be paid, without necessity of filing further claims therefor, to the same individual or individuals to whom any accrued annuities under section 231e(a)(1) of this title are paid. In the event that no such accrued annuities are paid, and if application for such accrued benefits is filed prior to the expiration of two years after the death of the individual to whom such benefits accrued, such accrued benefits shall be paid, upon certification by the Board, to the individual or individuals who would be entitled thereto under section 231e(a)(1) of this title if such accrued benefits were accrued annuities. If there is no individual to whom all or any part of such accrued benefits can be paid in accordance with the foregoing provisions, such benefits or part thereof shall escheat to the credit of the account.
 
-#### (h)(1) Extended benefit period
-
-For purposes of the second proviso of subsection (c) of this section, an extended benefit period, with respect to an employee, shall begin on the first day of unemployment within a period of high unemployment following the day on which the employee exhausted his then current rights to normal benefits for unemployment and shall continue for seven successive fourteen-day periods (each of which periods shall constitute a registration period). If the general benefit year in which an employee's extended benefit period began ends within such extended benefit period, such benefit year shall, in the case of such employee, be deemed not to be ended until the last day of the extended benefit period. If an employee unemployed within a period of high unemployment is not a “qualified employee” for the general benefit year then current but was a “qualified employee” for the preceding general benefit year, such preceding general benefit year shall, for purposes of the second proviso of subsection (c) of this section, in the case of such employee, be deemed not to be ended until the last day of such employee's extended benefit period determined pursuant to the provisions of this subsection.
-
-#### (2) Period of high unemployment
-
-For purposes of subdivision (1) of this subsection, a “period of high unemployment” shall begin with the twentieth day after whichever of the following first occurs: (A) there is a national “on” indicator as defined in section 203(d) of Public Law 91–373, as amended, or (B) a period of three consecutive calendar months in which, for each month included in such period, the rate of railroad unemployment (seasonally adjusted) equalled or exceeded the lowest applicable unemployment rate specified for the national “on” indicator in section 203(d) of Public Law 91–373, as amended, and shall end with the twentiethday after both of the following occur: (A) there is a national “off” indicator as defined in section 203(d) of Public Law 91–373, as amended, and (B) a period of three consecutive calendar months, in which, for each month included in such period, the rate of railroad unemployment (seasonally adjusted) was less than the lowest applicable unemployment rate specified for the national “off” indicator in section 203(d) of Public Law 91–373, as amended.
-
-#### (3) Rate of railroad unemployment
-
-For purposes of subdivision (2) of this subsection, the term “rate of railroad unemployment” for a month means the percentage arrived at by dividing (A) the average weekly number of individuals who filed bona fide claims for benefits for days of unemployment in such month, excluding from such number those individuals whose unemployment was due to a stoppage of work because of a strike, lockout, or other labor dispute, by (B) the average midmonth count of employees of class I railroads and class I switching and terminal companies, as reported to the Surface Transportation Board, adjusted, as determined by the Railroad Retirement Board, to include all employees covered by this chapter for the twelve months ending with the second calendar quarter preceding such month.
-
-#### (4) Determination of period of high unemployment; publication in Federal Register: notice of determination and formulas for mid-month and seasonal adjustments
-
-Determinations under this subsection shall be made by the Board in accordance with regulations prescribed by it. When a determination has been made that a “period of high unemployment” is beginning or ending, the Board shall cause notice of such determination to be published in the Federal Register. The Board shall also cause to be published in the Federal Register the formula which it uses to adjust the mid-month count of employees of class I railroads and class I switching and terminal companies to include all employees covered by this chapter, and the formula it uses to make seasonal adjustments in the rate of railroad unemployment.
-
-(June 25, 1938, ch. 680, §2, 52 Stat. 1096; June 20, 1939, ch. 227, §§7–9, 21, 53 Stat. 845, 848; Oct. 10, 1940, ch. 842, §§9–12, 54 Stat. 1095, 1096; July 31, 1946, ch. 709, §§305–307, 60 Stat. 736, 737; May 15, 1952, ch. 290, §1, 66 Stat. 73; Aug. 31, 1954, ch. 1164, pt. III, §304, 68 Stat. 1041; Aug. 12, 1955, ch. 869, §4, 69 Stat. 716; May 19, 1959, Pub. L. 86–28, pt. III, §§302, 303(a), 73 Stat. 30; Oct. 30, 1966, Pub. L. 89–700, title II, §202, 80 Stat. 1087; Feb. 15, 1968, Pub. L. 90–257, title II, §202, 82 Stat. 23; Oct. 16, 1974, Pub. L. 93–445, title IV, §401, 88 Stat. 1359; Aug. 9, 1975, Pub. L. 94–92, title I, §1(c)–(e), 89 Stat. 461, 462; Aug. 12, 1983, Pub. L. 98–76, title IV, §412(a), 97 Stat. 436; Nov. 10, 1988, Pub. L. 100–647, title VII, §§7101(c), 7201(a), 102 Stat. 3758, 3774; Dec. 29, 1995, Pub. L. 104–88, title III, §324(3), 109 Stat. 950.)
-
-#### References in Text
-
-Section 203(d) of Public Law 91–373, as amended, referred to in subsec. (h)(2), is section 203(d) of Pub. L. 91–373, title II, Aug. 10, 1970, 84 Stat. 710, which is set out as a note under section 3304 of Title 26, Internal Revenue Code.
+(June 25, 1938, ch. 680, §2, 52 Stat. 1096; June 20, 1939, ch. 227, §§7–9, 21, 53 Stat. 845, 848; Oct. 10, 1940, ch. 842, §§9–12, 54 Stat. 1095, 1096; July 31, 1946, ch. 709, §§305–307, 60 Stat. 736, 737; May 15, 1952, ch. 290, §1, 66 Stat. 73; Aug. 31, 1954, ch. 1164, pt. III, §304, 68 Stat. 1041; Aug. 12, 1955, ch. 869, §4, 69 Stat. 716; May 19, 1959, Pub. L. 86–28, pt. III, §§302, 303(a), 73 Stat. 30; Oct. 30, 1966, Pub. L. 89–700, title II, §202, 80 Stat. 1087; Feb. 15, 1968, Pub. L. 90–257, title II, §202, 82 Stat. 23; Oct. 16, 1974, Pub. L. 93–445, title IV, §401, 88 Stat. 1359; Aug. 9, 1975, Pub. L. 94–92, title I, §1(c)–(e), 89 Stat. 461, 462; Aug. 12, 1983, Pub. L. 98–76, title IV, §412(a), 97 Stat. 436; Nov. 10, 1988, Pub. L. 100–647, title VII, §§7101(c), 7201(a), 102 Stat. 3758, 3774; Dec. 29, 1995, Pub. L. 104–88, title III, §324(3), 109 Stat. 950; Oct. 9, 1996, Pub. L. 104–251, §§2–5(b), 110 Stat. 3161–3165.)
 
 #### Amendments
+
+1996—Subsec. (a)(1)(A). Pub. L. 104–251, §2, inserted heading and amended text generally. Prior to amendment, text read as follows: “(A)(i) Except as otherwise provided in this subparagraph, benefits shall be payable to any qualified employee for each day of unemployment in excess of 4 during any registration period.
+
+“(ii) No benefits shall be payable for days of unemployment during the first registration period within a benefit year in which the employee has more than 4 days of unemployment.
+
+“(iii) In any case in which the Board finds that an employee's unemployment was due to a stoppage of work because of a strike in the establishment, premises, or enterprise at which such employee was last employed, no benefits shall be payable for the first 14 days of unemployment due to such stoppage of work. However, for subsequent days of unemployment due to such stoppage of work, benefits shall be payable to days in excess of 4 during any registration period.”
+
+Subsec. (a)(1)(B). Pub. L. 104–251, §3, inserted heading and amended text generally. Prior to amendment, text read as follows:
+
+“(B)(i) Except as otherwise provided in this subparagraph, benefits shall be payable to any qualified employee for each day of sickness after the 4th consecutive day of sickness in a period of continuing sickness but excluding 4 days of sickness in any registration period.
+
+“(ii) No benefits shall be payable for days of sickness in the first registration period within a benefit year in which the employee has both 4 consecutive days of sickness and more than 4 days of sickness.
+
+“(iii) For the purposes of this subparagraph, a period of continuing sickness means (I) a period of consecutive days of sickness, whether from one or more causes, or (II) a period of successive days of sickness due to a single cause without interruption of more than 90 consecutive days which are not days of sickness.”
+
+Subsec. (a)(3). Pub. L. 104–251, §4, amended par. (3) generally. Prior to amendment, par. (3) provided the formula under which the Board was required to compute the maximum daily benefit rate under section 362(r)(2) of this title which could not be less than $30.
+
+Subsec. (c). Pub. L. 104–251, §5(a), inserted heading and amended text generally, designating existing provisions relating to normal benefits, extended benefits, and accelerated benefits as pars. (1) to (3), respectively, making technical changes in pars. (1) and (3), and in par. (2), deleting provisions which authorized extended benefits for certain employees with less than ten years of service as defined in section 231(f) of this title.
+
+Subsec. (h). Pub. L. 104–251, §5(b), struck out subsec. (h), which provided for determining extended benefit period for employees with less than 10 years of service under former subsec. (c).
 
 1995—Subsec. (h)(3). Pub. L. 104–88 substituted “Surface Transportation Board, adjusted, as determined by the Railroad Retirement Board” for “Interstate Commerce Commission, adjusted, as determined by the Board”.
 
@@ -116,7 +184,7 @@ Subsec. (c). Pub. L. 100–647, §7101(c), substituted “shall be taken into ac
 
 1975—Subsec. (a), first par. Pub. L. 94–92, §1(c)(1), inserted proviso and definition of registration period, provided for payment of sickness benefits after four rather than after seven days of sickness, and inserted definition of period of continuing sickness.
 
-Subsec. (a), second par. Pub. L. 94–92, §1(c)(2), substituted provisions for a daily rate of unemploymentand sickness benefits, for registration periods beginning after June 30, 1975, but before July 1, 1976, equal to the smaller of $24 or 60 percent of the employee's last daily rate of pay in the base period (but not less than $12.70), and for registration periods beginning after June 30, 1976, a daily rate of $25 for prior provision for such benefits set out in a table with ten levels of base year compensation and corresponding daily benefit rates starting at $8.00, payable to those with the minimum qualifying base year compensation, and rising to a maximum of $12.70, which is reached by those who received base year compensation totalling $4,000 or more and prescribing a minimum daily benefit not less than the smaller of the table maximum ($12.70) or 60 percent of the employee's last daily rate of pay in the base period.
+Subsec. (a), second par. Pub. L. 94–92, §1(c)(2), substituted provisions for a daily rate of unemployment and sickness benefits, for registration periods beginning after June 30, 1975, but before July 1, 1976, equal to the smaller of $24 or 60 percent of the employee's last daily rate of pay in the base period (but not less than $12.70), and for registration periods beginning after June 30, 1976, a daily rate of $25 for prior provision for such benefits set out in a table with ten levels of base year compensation and corresponding daily benefit rates starting at $8.00, payable to those with the minimum qualifying base year compensation, and rising to a maximum of $12.70, which is reached by those who received base year compensation totalling $4,000 or more and prescribing a minimum daily benefit not less than the smaller of the table maximum ($12.70) or 60 percent of the employee's last daily rate of pay in the base period.
 
 Subsec. (c). Pub. L. 94–92, §1(d), inserted exception provision in first proviso and proviso respecting an employee with less than ten years of service.
 
@@ -128,7 +196,7 @@ Subsec. (g). Pub. L. 93–445, §401(b), substituted “section 231e(a)(1) of th
 
 1968—Subsec. (a). Pub. L. 90–257, §202(a), struck out all references to the payment of maternity benefits, amended table of benefit rates by striking out the line for persons in the compensation range of $750 to $999.99 and by increasing the rates of benefits for the remaining categories from $5.50 to $8.00, $6.00 to $8.50, $6.50 to $9.00, $7.00 to $9.50, $7.50 to $10.00, $8.00 to $10.50, $8.50 to $11.00, $9.00 to $11.50, $9.50 to $12.00, and $10.20 to $12.70 respectively, and raised from $10.20 to $12.70 the maximum rate applicable if the formula of 60 per centum of the daily rate of compensation for the employee's last employment in which he engaged for an employer in the base year is used.
 
-Subsec. (c). Pub. L. 90–257, §202(b), removed all references to payment of maternity benefits, made provision for extended sickness benefits similar to extended unemployment benefits, added to existing provisions for the early beginning of a general benefit year (or accelerated benefit year) in certain cases involving days of unemployment similar provisions for a similar early beginning of a general benefit year in certain cases involving days of sickness, and inserted provisions dealing with the effect of the attainment of age 65 on an employee's receipt of extended sickness benefits and on his receipt of sickness benefits in an accelerated benefit year and relating to the evidence of age on which the Board may rely for purposes of determining the attainment of age 65.
+Subsec. (c). Pub. L. 90–257, §202(b), removed all references to payment of maternity benefits, made provision for extended sickness benefits similar to extended unemployment benefits, added to existing provisions for the early beginning of a general benefit year (or accelerated benefit year) in certain cases involving days of unemployment similar provisions for a similar early beginning of a general benefit year in certain cases involving days of sickness, and inserted provisions dealing with the effect of the attainment of age 65 on anemployee's receipt of extended sickness benefits and on his receipt of sickness benefits in an accelerated benefit year and relating to the evidence of age on which the Board may rely for purposes of determining the attainment of age 65.
 
 1966—Subsec. (a). Pub. L. 89–700, §202(a), struck out daily benefit rate of $4.50 for the compensation range of $500 to $699.99 from the table, and substituted “750” for “700” in Column I.
 
@@ -168,6 +236,10 @@ Subsec. (e). Act June 20, 1939, §9, redesignated subsec. (f) as (e). Former sub
 
 Subsecs. (f), (g). Act June 20, 1939, §9, redesignated subsec (g) as (f) and struck out reference to subsec. (a). Former subsec. (f) redesignated (e).
 
+#### Effective Date of 1996 Amendment
+
+Section 6 of Pub. L. 104–251 provided that: “The amendments made by this Act \[amending this section and repealing section 368 of this title\] shall take effect on the date of the enactment of this Act \[Oct. 9, 1996\].”
+
 #### Effective Date of 1995 Amendment
 
 Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 701 of Title 49, Transportation.
@@ -194,7 +266,7 @@ Amendment by Pub. L. 93–445 effective Jan. 1, 1975, see section 603 of Pub. L.
 
 #### Effective Date of 1968 Amendment
 
-Section 208 of Pub. L. 90–257 provided that: “The amendments made by sections 201(a)(1), 201(b), 202(a)(1), 202(a)(2), 202(b)(1), 206 and 207 \[amending this section and sections 351, 362, and 363 of this title\] shall be effective as of July 1, 1968. The amendments made by sections 201(a)(2) and 203 \[amending sections 351 and 353 of this title\] shall be effective with respect to base years beginning in calendar years after December 31, 1966, except that with respect to the base year in calendar year 1967 the amendments made by section 203 \[amending section 353 of this title\] shall not be applicable to an employee whose compensation with respect to that base year was not less than $750 but less than $1,000; further, as to such an employee, the amendments made by section 202(a)(3) \[amending this section\] shall not be applicable with respect to days of unemployment and days of sickness in registration periods in the benefit year beginning July 1, 1968. The amendments made by section 202(a)(3) \[amending this section\] shall otherwise be effective with respect to days of unemployment and days of sickness in registration periods beginning on or after July 1, 1968. The amendments made by sections 202(b)(2)(i) through (vi) \[amending this section\] shall be effective to provide the beginning of extended benefit periods on or after July 1, 1968. The amendments made by section 202(b)(2)(vii) through (ix) \[amending this section\] shall be effective to provide for the early beginning of a benefit year on or after July 1, 1967. The amendment made by section 204(a) \[amending section 354 of this title\] shall be effective with respect to calendar days in benefit years beginning after June 30, 1968, and the amendment made by section 204(b) \[amending section 354 of this title\] shall be effective with respect to voluntary leaving of work (within the meaning of section 4(a–2)(i) of the Railroad Unemployment Insurance Act \[section 354(a–2)(i) of this title\]) after the enactment date of this Act \[Feb. 15, 1968\].”
+Section 208 of Pub. L. 90–257 provided that: “The amendments made by sections 201(a)(1), 201(b), 202(a)(1), 202(a)(2), 202(b)(1), 206 and 207 \[amending this section and sections 351, 362, and 363 of this title\] shall be effective as of July 1, 1968. The amendments made by sections 201(a)(2) and 203 \[amending sections 351 and 353 of this title\] shall be effective with respect to base years beginning in calendar years after December 31, 1966, except that with respect to the base year in calendar year 1967 the amendments made by section 203 \[amending section 353 of this title\] shall not be applicable to an employee whose compensation with respect to that base year was not less than $750 but less than $1,000; further, as to such an employee, the amendments made by section 202(a)(3) \[amending this section\] shall not beapplicable with respect to days of unemployment and days of sickness in registration periods in the benefit year beginning July 1, 1968. The amendments made by section 202(a)(3) \[amending this section\] shall otherwise be effective with respect to days of unemployment and days of sickness in registration periods beginning on or after July 1, 1968. The amendments made by sections 202(b)(2)(i) through (vi) \[amending this section\] shall be effective to provide the beginning of extended benefit periods on or after July 1, 1968. The amendments made by section 202(b)(2)(vii) through (ix) \[amending this section\] shall be effective to provide for the early beginning of a benefit year on or after July 1, 1967. The amendment made by section 204(a) \[amending section 354 of this title\] shall be effective with respect to calendar days in benefit years beginning after June 30, 1968, and the amendment made by section 204(b) \[amending section 354 of this title\] shall be effective with respect to voluntary leaving of work (within the meaning of section 4(a–2)(i) of the Railroad Unemployment Insurance Act \[section 354(a–2)(i) of this title\]) after the enactment date of this Act \[Feb. 15, 1968\].”
 
 #### Effective Date of 1959 Amendment
 
@@ -286,7 +358,7 @@ Reductions under emergency compensation extension provisions.—
 
 &emsp;&emsp;“(C)
 
-Limitations on reductions.—Notwithstanding subparagraphs (A) and (B), in the case of an individual who is receiving extended benefits under section 2(c) of the Railroad Unemployment Insurance Act \[45 U.S.C. 352(c)\] for persons with 10 or more but less than 15 years of service, or extended benefits by reason of this section, for any day during a week which precedes a period for which a reduction under this paragraph takes effect, such reduction shall not apply for purposes of determining the amount of benefits payable to such individual for any day thereafter for which the individual meets the eligibility requirements of this section and the Railroad Unemployment Insurance Act \[45 U.S.C. 351 et seq.\].
+Limitations on reductions.—Notwithstanding subparagraphs (A) and (B), in the case of an individual who is receiving extended benefits under section 2(c) of the Railroad Unemployment Insurance Act \[45 U.S.C. 352(c)\] for persons with 10 or more but less than 15 years of service, or extended benefits by reason of this section, for any day during a week which precedes a period for which a reduction under this paragraph takes effect, such reduction shall not apply for purposes of determining the amount of benefits payable to such individual for any day thereafter for which the individualmeets the eligibility requirements of this section and the Railroad Unemployment Insurance Act \[45 U.S.C. 351 et seq.\].
 
 “(e)
 
@@ -318,5 +390,5 @@ Section 303(c) of Pub. L. 86–28 provided that: “The Secretary of Labor, upon
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 351, 355, 360, 362, 368 of this title; title 26 sections 105, 3231.
+This section is referred to in sections 351, 355, 360, 362 of this title; title 26 sections 105, 3231.
 

@@ -14,7 +14,7 @@
 
 #### (B) Priority consideration
 
-&emsp;&emsp;The Administrator shall give priority consideration under this section to Long Island Sound, New York and Connecticut; Narragansett Bay, Rhode Island; Buzzards Bay, Massachusetts; Massachusetts Bay, Massachusetts (including Cape Cod Bay and Boston Harbor); Puget Sound, Washington; NewYork-New Jersey Harbor, New York and New Jersey; Delaware Bay, Delaware and New Jersey; Delaware Inland Bays, Delaware; Albemarle Sound, North Carolina; Sarasota Bay, Florida; San Francisco Bay, California; Santa Monica Bay, California; Galveston Bay, Texas; Barataria-Terrebonne Bay estuary complex, Louisiana; Indian River Lagoon, Florida; and Peconic Bay, New York.
+&emsp;&emsp;The Administrator shall give priority consideration under this section to Long Island Sound, New York and Connecticut; Narragansett Bay, Rhode Island; Buzzards Bay, Massachusetts; Massachusetts Bay, Massachusetts (including Cape Cod Bay and Boston Harbor); Puget Sound, Washington; New York-New Jersey Harbor, New York and New Jersey; Delaware Bay, Delaware and New Jersey; Delaware Inland Bays, Delaware; Albemarle Sound, North Carolina; Sarasota Bay, Florida; San Francisco Bay, California; Santa Monica Bay, California; Galveston Bay, Texas; Barataria-Terrebonne Bay estuary complex, Louisiana; Indian River Lagoon, Florida; and Peconic Bay, New York.
 
 #### (3) Boundary dispute exception
 
@@ -30,7 +30,7 @@ The purposes of any management conference convened with respect to an estuary un
 
 &emsp;(3) develop the relationship between the inplace loads and point and nonpoint loadings of pollutants to the estuarine zone and the potential uses of the zone, water quality, and natural resources;
 
-&emsp;(4) develop a comprehensive conservation and management plan that recommends priority corrective actions and compliance schedules addressing point and nonpoint sources of pollution to restore and maintain the chemical, physical, and biological integrity of the estuary, including restoration and maintenance of water quality, a balanced indigenous population of shellfish, fish and wildlife, and recreational activities in the estuary, and assure that the designated uses of the estuary are protected;
+&emsp;(4) develop a comprehensive conservation and management plan that recommends priority corrective actions and compliance schedules addressing point and nonpoint sources of pollution to restore and maintain the chemical, physical, and biological integrity of the estuary, including restoration and maintenance of water quality, a balanced indigenous population of shellfish, fish and wildlife, andrecreational activities in the estuary, and assure that the designated uses of the estuary are protected;
 
 &emsp;(5) develop plans for the coordinated implementation of the plan by the States as well as Federal and local agencies participating in the conference;
 

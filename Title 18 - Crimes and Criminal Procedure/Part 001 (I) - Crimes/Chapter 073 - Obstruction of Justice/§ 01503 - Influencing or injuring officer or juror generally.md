@@ -1,6 +1,6 @@
 ### §1503. Influencing or injuring officer or juror generally
 
-(a) Whoever corruptly, or by threats or force, or by any threatening letter or communication, endeavors to influence, intimidate, or impede any grand or petit juror, or officer in or of any court of the United States, or officer who may be serving at any examination or other proceeding before any United States magistrate judge or other committing magistrate, in the discharge of his duty, or injures any such grand orpetit juror in his person or property on account of any verdict or indictment assented to by him, or on account of his being or having been such juror, or injures any such officer, magistrate judge, or other committing magistrate in his person or property on account of the performance of his official duties, or corruptly or by threats or force, or by any threatening letter or communication, influences, obstructs, or impedes, or endeavors to influence, obstruct, or impede, the due administration of justice, shall be punished as provided in subsection (b).
+(a) Whoever corruptly, or by threats or force, or by any threatening letter or communication, endeavors to influence, intimidate, or impede any grand or petit juror, or officer in or of any court of the United States, or officer who may be serving at any examination or other proceeding before any United States magistrate judge or other committing magistrate, in the discharge of his duty, or injures any such grand or petit juror in his person or property on account of any verdict or indictment assented to by him, or on account of his being or having been such juror, or injures any such officer, magistrate judge, or other committing magistrate in his person or property on account of the performance of his official duties, or corruptly or by threats or force, or by any threatening letter or communication, influences, obstructs, or impedes, or endeavors to influence, obstruct, or impede, the due administration of justice, shallbe punished as provided in subsection (b). If the offense under this section occurs in connection with a trial of a criminal case, and the act in violation of this section involves the threat of physical force or physical force, the maximum term of imprisonment which may be imposed for the offense shall be the higher of that otherwise provided by law or the maximum term that could have been imposed for any offense charged in such case.
 
 (b) The punishment for an offense under this section is—
 
@@ -10,7 +10,7 @@
 
 &emsp;(3) in any other case, imprisonment for not more than 10 years, a fine under this title, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 769; Oct. 12, 1982, Pub. L. 97–291, §4(c), 96 Stat. 1253; Sept. 13, 1994, Pub. L. 103–322, title VI, §60016, title XXXIII, §330016(1)(K), 108 Stat. 1974, 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 769; Oct. 12, 1982, Pub. L. 97–291, §4(c), 96 Stat. 1253; Sept. 13, 1994, Pub. L. 103–322, title VI, §60016, title XXXIII, §330016(1)(K), 108 Stat. 1974, 2147; Oct. 1, 1996, Pub. L. 104–214, §1(3), 110 Stat. 3017.)
 
 #### Historical and Revision Notes
 
@@ -21,6 +21,8 @@ The phrase “other committing magistrate” was substituted for “officer acti
 Minor changes were made in phraseology.
 
 #### Amendments
+
+1996—Subsec. (a). Pub. L. 104–214 inserted at end “If the offense under this section occurs in connection with a trial of a criminal case, and the act in violation of this section involves the threat of physical force or physical force, the maximum term of imprisonment which may be imposed for the offense shall be the higher of that otherwise provided by law or the maximum term that could have been imposed for any offense charged in such case.”
 
 1994—Pub. L. 103–322, §330016(1)(K), which directed the substitution of “fined under this title” for “fined not more than $5,000”, could not be executed because the words “fined not more than $5,000” did not appear in text subsequent to amendment by Pub. L. 103–322, §60016. See below.
 

@@ -42,7 +42,7 @@
 
 #### (F) Amounts
 
-&emsp;&emsp;The payments shall be made available in such amounts as the Secretary determinesappropriate to encourage adequate participation in the program, except that the amount may not exceed an amount determined by multiplying—
+&emsp;&emsp;The payments shall be made available in such amounts as the Secretary determines appropriate to encourage adequate participation in the program, except that the amount may not exceed an amount determined by multiplying—
 
 &emsp;&emsp;&emsp;(i) the estimated payment acreage for the crop; by
 
@@ -82,27 +82,13 @@
 
 &emsp;The authority provided in this section shall be in addition to, and not in place of, any authority granted to the Secretary or the Commodity Credit Corporation under any other provision of law.
 
-#### (b) Land diversion payments
+#### (b), (c) Repealed. Pub. L. 104–127, title I, §171(b)(2)(G), Apr. 4, 1996, 110 Stat. 938
 
-If the Secretary makes land diversion payments under this Act to assist in adjusting the total national acreage of any of the 1991 through 1995 crops of wheat, feed grains, upland cotton, or rice to desirable levels, the Secretary may make at least 50 percent of such payments available to a producer as soon as possible after the producer agrees to undertake the diversion of land in return for the payments.
-
-#### (c) Timing of deficiency payments
-
-In the case of deficiency payments made available to producers for any of the 1991 through 1997 crops of wheat and feed grains which payments are calculated as provided in section 1445b–3a(c)(1)(B)(ii), 1445b–3a(p), or 1444f(c)(1)(B)(ii) of this title, the Secretary shall make deficiency payments as follows:
-
-&emsp;(1) A portion of the deficiency payment shall be made in advance in accordance with subsection (a)(2) of this section.
-
-&emsp;(2) With respect to feed grains (excluding barley and oats), 75 percent of the final projected deficiency payment for the crop, reduced by the amount of the advance, shall be made available as soon as practicable after the end of the first 5 months of the applicable marketing year.
-
-&emsp;(3) With respect to wheat, barley, and oats, the final projected deficiency payment for the crop, reduced by the amount of the advance, shall be made available as soon as practicable after the end of the first 5 months of the applicable marketing year. Such projected payment shall be based on the national weighted average market price received by producers during the first 5 months of the marketing year for the crop, as determined by the Secretary, plus 10 cents per bushel with respect to wheat or 7 cents per bushel with respect to barley and oats.
-
-&emsp;(4) The remainder of the deficiency payments shall be made available at the end of the marketing year.
-
-(Oct. 31, 1949, ch. 792, title I, §114, formerly §107C, as added Sept. 8, 1982, Pub. L. 97–253, title I, §120, 96 Stat. 766; amended Dec. 23, 1985, Pub. L. 99–198, title X, §1002, 99 Stat. 1446; Dec. 22, 1987, Pub. L. 100–203, title I, §1110, 101 Stat. 1330–6; Dec. 19, 1989, Pub. L. 101–239, title I, §1003(b)(1), 103 Stat. 2108; Nov. 5, 1990, Pub. L. 101–508, title I, §1102(d), 104 Stat. 1388–2; renumbered §114 and amended Nov. 28, 1990, Pub. L. 101–624, title XI, §§1121(a), (c), 1161(a)(1), 104 Stat. 3500, 3503, 3520; Dec. 13, 1991, Pub. L. 102–237, title I, §109, 105 Stat. 1828; Aug. 10, 1993, Pub. L. 103–66, title I, §1101(b)(1), 107 Stat. 314.)
+(Oct. 31, 1949, ch. 792, title I, §114, formerly §107C, as added Sept. 8, 1982, Pub. L. 97–253, title I, §120, 96 Stat. 766; amended Dec. 23, 1985, Pub. L. 99–198, title X, §1002, 99 Stat. 1446; Dec. 22, 1987, Pub. L. 100–203, title I, §1110, 101 Stat. 1330–6; Dec. 19, 1989, Pub. L. 101–239, title I, §1003(b)(1), 103 Stat. 2108; Nov. 5, 1990, Pub. L. 101–508, title I, §1102(d), 104 Stat. 1388–2; renumbered §114 and amended Nov. 28, 1990, Pub. L. 101–624, title XI, §§1121(a), (c), 1161(a)(1), 104 Stat. 3500, 3503, 3520; Dec. 13, 1991, Pub. L. 102–237, title I, §109, 105 Stat. 1828; Aug. 10, 1993, Pub. L. 103–66, title I, §1101(b)(1), 107 Stat. 314; Apr. 4, 1996, Pub. L. 104–127, title I, §171(b)(2)(G), 110 Stat. 938.)
 
 #### References in Text
 
-This Act, referred to in subsecs. (a)(1), (2)(G), (H) and (b), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, as amended, known as the Agricultural Act of 1949, which is classified principally to this chapter (§1421 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
+This Act, referred to in subsec. (a)(1), (2)(G), (H), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, as amended, known as the Agricultural Act of 1949, which is classified principally to this chapter (§1421 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
 
 #### Codification
 
@@ -110,11 +96,13 @@ Section was classified to section 1445b–2 of this title prior to its renumberi
 
 #### Amendments
 
+1996—Subsecs. (b), (c). Pub. L. 104–127 struck out subsecs. (b) and (c) which, in subsec. (b), related to land diversion payments to assist in adjusting total national acreage of any of 1991 through 1995 crops of wheat, feed grains, upland cotton, or rice to desirable levels, and, in subsec. (c), related to timing of deficiency payments made available to producers for any of 1991 through 1997 crops of wheat and feed grains.
+
 1993—Subsecs. (a)(1), (c). Pub. L. 103–66 substituted “1997” for “1995”.
 
 1991—Subsec. (c). Pub. L. 102–237, §109(1), substituted “section” for “sections” in introductory provisions.
 
-Subsec. (c)(2). Pub. L. 102–237, §109(3), added par. (2) and struck out former par. (2) which read as follows: “Seventy-five percent of the final projected deficiency payment for the crop, reduced by the amount of the advance, shall be made available as soon as practicable after the end of the first 5 months of the applicable marketing year.”
+Subsec. (c)(2). Pub. L. 102–237, §109(3), added par. (2) and struck out former par. (2) which read as follows:“Seventy-five percent of the final projected deficiency payment for the crop, reduced by the amount of the advance, shall be made available as soon as practicable after the end of the first 5 months of the applicable marketing year.”
 
 Subsec. (c)(3), (4). Pub. L. 102–237, §109(2), (3), added par. (3) and redesignated former par. (3) as (4).
 
@@ -210,7 +198,7 @@ In general.—The Secretary may use the calculation described in subsection (a) 
 
 Procedure for use of calculation.—If the Secretary decides to use the calculation described in subsection (a) as provided under paragraph (1), in the case of a producer of 1988 or 1989 crop barley who paid the refund of the advance deficiency payment for the crop calculated prior to the date of enactment of this Act (or any amount of refund in excess of the amount of the refund determined in accordance with paragraph (1)), the Secretary—
 
-&emsp;&emsp;“(i) shall, before May 31, 1991, reimburse the producer the amount of refund paid by the producer inexcess of the refund determined in accordance with this section;
+&emsp;&emsp;“(i) shall, before May 31, 1991, reimburse the producer the amount of refund paid by the producer in excess of the refund determined in accordance with this section;
 
 &emsp;&emsp;“(ii) shall have the option to make the reimbursement in a lump sum or in installments;
 
@@ -256,5 +244,5 @@ Pub. L. 99–509, title I, §1021, Oct. 21, 1986, 100 Stat. 1877, required Secre
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1426, 1444f of this title.
+This section is referred to in sections 7213, 7214, 7301 of this title.
 

@@ -16,7 +16,7 @@ Sections 291p to 291z were omitted in the general amendment of this subchapter b
 
 Section 291p, act July 1, 1944, ch. 373, title VI, §646, as added July 12, 1954, ch. 471, §2, 68 Stat. 461, related to appropriations to States for carrying out purposes of section 291<i>o</i>(a) of this title.
 
-Section 291q, act July 1, 1944, ch. 373, title VI, §647, as added July 12, 1954, ch. 471, §2, 68 Stat. 461, related toState application for funds for carrying out purposes of section 291<i>o</i>(a) of this title.
+Section 291q, act July 1, 1944, ch. 373, title VI, §647, as added July 12, 1954, ch. 471, §2, 68 Stat. 461, related to State application for funds for carrying out purposes of section 291<i>o</i>(a) of this title.
 
 Section 291r, act July 1, 1944, ch. 373, title VI, §648, as added July 12, 1954, ch. 471, §2, 68 Stat. 462, related to allotments to States of appropriations made pursuant to section 291p of this title.
 

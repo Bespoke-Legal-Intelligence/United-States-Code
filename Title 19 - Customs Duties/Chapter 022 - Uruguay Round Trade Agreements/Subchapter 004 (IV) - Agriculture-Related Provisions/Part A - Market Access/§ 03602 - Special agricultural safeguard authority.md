@@ -18,9 +18,9 @@ Consistent with Article 5 as determined by the President, the President shall ca
 
 If the President determines with respect to a special safeguard agricultural good that it is appropriate to impose—
 
-&emsp;(1) the price-based safeguard in accordance with subparagraph 1(a) of Article 5; or
+&emsp;(1) the price-based safeguard in accordance with subparagraph 1(b) of Article 5; or
 
-&emsp;(2) the volume-based safeguard in accordance with subparagraph 1(b) of Article 5,
+&emsp;(2) the volume-based safeguard in accordance with subparagraph 1(a) of Article 5,
 
 > the President shall, consistent with Article 5 as determined by the President, determine the amount of the duty to be imposed, the period such duty shall be in effect, and any other terms and conditions applicable to the duty.
 
@@ -54,7 +54,13 @@ For purposes of this section—
 
 &emsp;(3) the term “special safeguard agricultural good” means an agricultural good on which an additional duty may be imposed pursuant to the special safeguard provisions of Article 5.
 
-(Pub. L. 103–465, title IV, §405, Dec. 8, 1994, 108 Stat. 4961.)
+(Pub. L. 103–465, title IV, §405, Dec. 8, 1994, 108 Stat. 4961; Pub. L. 104–295, §11, Oct. 11, 1996, 110 Stat. 3520.)
+
+#### Amendments
+
+1996—Subsec. (b)(1). Pub. L. 104–295, §11(1), substituted “1(b)” for “1(a)”.
+
+Subsec. (b)(2). Pub. L. 104–295, §11(2), substituted “1(a)” for “1(b)”.
 
 #### Uruguay Round Agreements: Entry Into Force
 

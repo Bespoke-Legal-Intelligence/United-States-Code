@@ -4,7 +4,7 @@
 
 (1) Congress finds that scientific discoveries and technological advances must be made and applied to support the protection, management, and utilization of the Nation's renewable resources. It is the purpose of this subchapter to authorize the Secretary of Agriculture (hereinafter in this subchapter referred to as the “Secretary”) to implement a comprehensive program of forest and rangeland renewable resources research and dissemination of the findings of such research.
 
-(2) Congress further finds that the forest and rangeland renewable resources of the world are threatened by deforestation due to conversion to agriculture of lands better suited to other uses, over-grazing, over-harvesting, and other causes that pose a direct adverse threat to people, the global environment, and the world economy.
+(2) Congress further finds that the forest and rangeland renewable resources of the world arethreatened by deforestation due to conversion to agriculture of lands better suited to other uses, over-grazing, over-harvesting, and other causes that pose a direct adverse threat to people, the global environment, and the world economy.
 
 #### (b) Relationship to other law
 
@@ -32,5 +32,5 @@ Section 9 of Pub. L. 95–307 which provided that Pub. L. 95–307 (enacting thi
 
 #### Short Title
 
-For short title of Pub. L. 95–307, June 30, 1978, 92 Stat. 353, as the Forest and Rangeland Renewable ResourcesResearch Act of 1978, see Short Title of 1978 Amendment note set out under section 1600 of this title.
+For short title of Pub. L. 95–307, June 30, 1978, 92 Stat. 353, as the Forest and Rangeland Renewable Resources Research Act of 1978, see Short Title of 1978 Amendment note set out under section 1600 of this title.
 

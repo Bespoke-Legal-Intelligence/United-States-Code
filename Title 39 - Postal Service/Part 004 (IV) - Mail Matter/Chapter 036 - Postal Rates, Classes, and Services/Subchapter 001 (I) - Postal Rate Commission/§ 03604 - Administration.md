@@ -38,7 +38,7 @@ Expenses of Postal Rate Commission from Aug. 12, 1970, until date of commencemen
 
 Ex. Ord. No. 11570, Nov. 24, 1970, 35 F.R. 18183, as amended by Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, provided:
 
-Under the Postal Reorganization Act (Public Law 91–375) \[this title\], the Postal Rate Commission (referred to hereafter as the “Commission”) is charged with the establishment and adjustment of fair and equitable rates of postage, fees for postal services, and classifications of mail. It is essential to public confidence in the United States Postal Service that the activities, procedures, decisions, and recommendations of the Commission be impartial and disinterested and free from taint or suspicion of favoritism of any kind whatsoever, both in fact and in appearance.
+Under the Postal Reorganization Act (Public Law 91–375) \[this title\], the Postal Rate Commission (referred to hereafter as the “Commission”) is charged with the establishment and adjustment of fair and equitable rates of postage, fees for postal services, and classifications of mail. It is essential to public confidence in the United States Postal Service that the activities, procedures, decisions, and recommendations ofthe Commission be impartial and disinterested and free from taint or suspicion of favoritism of any kind whatsoever, both in fact and in appearance.
 
 NOW THEREFORE, by virtue of the authority vested in me by section 301 of Title 3, and Section 7301 of Title 5, United States Code, and the Postal Reorganization Act \[this title\], it is hereby ordered as follows:
 
@@ -50,7 +50,7 @@ Sec. 102. The Office of Personnel Management shall prepare initial standards of 
 
 (b) strict control of <i>ex parte</i> contacts with the Commission and the Commissioners or employees of the Commission regarding particular matters at issue in contested proceedings before the Commission. The control of such contacts shall include, but not be limited to, the maintenance of public records of such contacts which fully identify the individuals involved and the nature of the subject matter discussed; and
 
-(c) prohibition against the receipt of honoraria, travel expenses, entertainment, gifts, loans, favors, or anything of value by a Commissioner or employee of the Commission from an individual (other than one havinga close family or personal relationship) or organization having, or likely to have, business with the Commission.
+(c) prohibition against the receipt of honoraria, travel expenses, entertainment, gifts, loans, favors, or anything of value by a Commissioner or employee of the Commission from an individual (other than one having a close family or personal relationship) or organization having, or likely to have, business with the Commission.
 
 Sec. 103. The Office of Personnel Management shall issue the initial standards of conduct regulations applicable to the Commission not later than 120 days after the effective date of this Order. Thereafter, the Office may from time to time amend the regulations, consistent with this Order. The regulations and any amendments thereto shall be published in the Federal Register.
 

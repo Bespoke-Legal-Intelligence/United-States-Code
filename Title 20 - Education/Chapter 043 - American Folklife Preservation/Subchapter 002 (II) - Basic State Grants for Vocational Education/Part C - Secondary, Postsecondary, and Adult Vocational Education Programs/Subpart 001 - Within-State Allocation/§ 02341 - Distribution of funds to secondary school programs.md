@@ -26,7 +26,7 @@ Except as otherwise provided in this section and section 2341b of this title, ea
 
 (1) In applying the provisions of subsection (a) of this section, no State board receiving assistance under this chapter shall allocate funds to a local educational agency that serves only elementary schools, but shall distribute such funds to the local or regional educational agency which provides secondary school services to secondary school students in the same attendance area.
 
-(2) The amount to be allocated under paragraph (1) to a local educational agency that has jurisdiction only over secondary schools shall be determined based on the number of students that entered such secondary schools in the previous year from the elementary schools involved.
+(2) The amount to be allocated under paragraph (1) to a local educational agency that has jurisdiction only over secondary schools shall be determined based on the number of studentsthat entered such secondary schools in the previous year from the elementary schools involved.
 
 #### (d) Allocations to area vocational education schools and intermediate educational agencies
 
@@ -52,7 +52,7 @@ Except as otherwise provided in this section and section 2341b of this title, ea
 
 &emsp;(i) Free or reduced-price meals under the National School Lunch Act \[42 U.S.C. 1751 et seq.\].
 
-&emsp;(ii) The program for aid to dependent children under part A of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\].
+&emsp;(ii) The State program funded under part A of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\].
 
 &emsp;(iii) Benefits under the Food Stamp Act of 1977 \[7 U.S.C. 2011 et seq.\].
 
@@ -70,7 +70,7 @@ Except as otherwise provided in this section and section 2341b of this title, ea
 
 &emsp;(B) transfer such allocation to the area vocational education school or intermediate educational agency.
 
-(Pub. L. 88–210, title II, §231, as added Pub. L. 101–392, title II, §201, Sept. 25, 1990, 104 Stat. 779; amended Pub. L. 103–382, title III, §391(s)(4), (5), Oct. 20, 1994, 108 Stat. 4025.)
+(Pub. L. 88–210, title II, §231, as added Pub. L. 101–392, title II, §201, Sept. 25, 1990, 104 Stat. 779; amended Pub. L. 103–382, title III, §391(s)(4), (5), Oct. 20, 1994, 108 Stat. 4025; Pub. L. 104–193, title I, §110(i)(1), Aug. 22, 1996, 110 Stat. 2172.)
 
 #### References in Text
 
@@ -82,7 +82,7 @@ The Social Security Act, referred to in subsec. (d)(3)(A)(ii), is act Aug. 14, 1
 
 The Food Stamp Act of 1977, referred to in subsec. (d)(3)(A)(iii), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, as amended, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
 
-The Elementary and Secondary Education Act of 1965, referred to in subsec. (d)(3)(A)(iv), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended generally by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519. Title I of the Act is classified generally to subchapter I (§6301 et seq.) of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in subsec. (d)(3)(A)(iv), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended generally by Pub.L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519. Title I of the Act is classified generally to subchapter I (§6301 et seq.) of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
 
 #### Prior Provisions
 
@@ -90,9 +90,15 @@ A prior section 2341, Pub. L. 88–210, title II, §251, as added Pub. L. 98–5
 
 #### Amendments
 
+1996—Subsec. (d)(3)(A)(ii). Pub. L. 104–193 substituted “The State program funded” for “The program for aid to dependent children”.
+
 1994—Subsec. (a)(1). Pub. L. 103–382, §391(s)(4), substituted “section 1124 or such section's predecessor authority” for “section 1005”.
 
 Subsec. (d)(3)(A)(iv). Pub. L. 103–382, §391(s)(5), substituted “title I” for “chapter 1 of title I”.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–193 effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, set out as a note under section 601 of Title 42, The Public Health and Welfare.
 
 #### Section Referred to in Other Sections
 

@@ -28,13 +28,13 @@ Fee System.—The Secretary may establish, under section 9701 of title 31, a fee
 
 State Registration Programs.—If the Secretary determines that no State should require insurance filings or collect fees for such filings (including filings and fees authorized under section 14504), the Secretary may prevent any State or political subdivision thereof, or any political authority of 2 or more States, from imposing any insurance filing requirements or fees that are for the same purposes as filings or fees the Secretary requires under the new system under subsection (a). The Secretary may not take any action pursuant to this subsection unless—
 
-&emsp;(1) fees that will be collected by the Secretary under subsection (c) and distributed in each fiscal year to the States will provide each State with at least as much revenue as that State received in fiscal year 1995 under section 11506, as in effect on the day before the effective date of this section; and
+&emsp;(1) fees that will be collected by the Secretary under subsection (c) and distributed in each fiscal year to the States will provide each State with at least as much revenue as that State received in fiscal year 1995 under section 11506, as in effect on December 31, 1995; and
 
 &emsp;(2) all States will receive from the distribution of such fees a minimum apportionment.
 
 (e)
 
-Deadline for Conclusion; Modifications.—Not later than 24 months after the effective date of this section, the Secretary—
+Deadline for Conclusion; Modifications.—Not later than 24 months after January 1, 1996, the Secretary—
 
 &emsp;(1) shall conclude the rulemaking under this section;
 
@@ -42,13 +42,27 @@ Deadline for Conclusion; Modifications.—Not later than 24 months after the eff
 
 &emsp;(3) shall transmit to Congress a report on any findings of the rulemaking and the changes being implemented under this section, together with such recommendations for legislative language necessary to conform this part to such changes.
 
-(Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 888.)
+(Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 888; amended Pub. L. 104–287, §5(36), Oct. 11, 1996, 110 Stat. 3392.)
+
+#### Historical and Revision Notes
+
+I74Pub. L. 104–287, §5(36)(A)
+
+This amends 49:13908(d)(1) for clarity and consistency.
+
+#### Pub. L. 104–287, §5(36)(B)
+
+This sets out the effective date of 49:13908.
 
 #### References in Text
 
-Section 11506, as in effect on the day before the effective date of this section, referred to in subsec. (d)(1), means section 11506 of this title as in effect on the day before Jan. 1, 1996. Section 11506 was omitted in the general amendment of this subtitle by Pub. L. 104–88, title I, §102(a), Dec. 29, 1995, 109 Stat. 804, effective Jan. 1, 1996.
+Section 11506, referred to in subsec. (d)(1), was omitted in the general amendment of this subtitle by Pub. L. 104–88, title I, §102(a), Dec. 29, 1995, 109 Stat. 804, effective Jan. 1, 1996.
 
-For the effective date of this section, referred to in subsec. (e), as Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 701 of this title.
+#### Amendments
+
+1996—Subsec. (d)(1). Pub. L. 104–287, §5(36)(A), substituted “December 31, 1995” for “the day before the effective date of this section”.
+
+Subsec. (e). Pub. L. 104–287, §5(36)(B), substituted “January 1, 1996” for “the effective date of this section”.
 
 #### Section Referred to in Other Sections
 

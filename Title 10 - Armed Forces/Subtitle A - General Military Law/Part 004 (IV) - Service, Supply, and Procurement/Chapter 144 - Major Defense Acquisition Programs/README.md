@@ -19,7 +19,7 @@
 
 1993—Pub. L. 103–160, div. A, title VIII, §828(a)(4), Nov. 30, 1993, 107 Stat. 1713, struck out items 2436 “Defense enterprise programs” and 2437 “Defense enterprise programs: milestone authorization”.
 
-1992—Pub. L. 102–484, div. A, title VIII, §821(a)(2), div. D, title XLII, §4216(b)(2), Oct. 23, 1992, 106 Stat. 2460, 2670, added items 2438 and 2440 and redesignated former item 2438 as 2439.
+1992—Pub. L. 102–484, div. A, title VIII, §821(a)(2), div. D, title XLII, §4216(b)(2), Oct. 23, 1992, 106 Stat. 2460,2670, added items 2438 and 2440 and redesignated former item 2438 as 2439.
 
 1987—Pub. L. 100–26, §7(b)(1), (2)(B), (9)(B), Apr. 21, 1987, 100 Stat. 279, 280, substituted “Major Defense Acquisition Programs” for “Oversight of Cost Growth in Major Programs” in chapter heading, added item 2430, and transferred former item 2305a from chapter 137 and redesignated it as item 2438.
 

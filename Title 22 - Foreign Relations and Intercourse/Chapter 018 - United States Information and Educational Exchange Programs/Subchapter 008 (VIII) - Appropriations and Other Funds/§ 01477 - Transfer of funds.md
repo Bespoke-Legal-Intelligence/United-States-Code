@@ -1,6 +1,6 @@
 ### §1477. Transfer of funds
 
-The Director shall authorize the transfer to other Government agencies for expenditure inthe United States and in other countries, in order to carry out the purposes of this chapter, any part of any appropriations available to the Agency for carrying out the purposes of this chapter, for direct expenditure or as a working fund, and any such expenditures may be made under the specific authority contained in this chapter or under the authority governing the activities of the Government agency to which a part of any such appropriation is transferred, provided the activities come within the scope of this chapter.
+The Director shall authorize the transfer to other Government agencies for expenditure in the United States and in other countries, in order to carry out the purposes of this chapter, any part of any appropriations available to the Agency for carrying out the purposes of this chapter, for direct expenditure or as a working fund, and any such expenditures may be made under the specific authority contained in this chapter or under the authority governing the activities of the Government agency to which a part of any such appropriation is transferred, provided the activities come within the scope of this chapter.
 
 (Jan. 27, 1948, ch. 36, title VII, §702, 62 Stat. 11; 1977 Reorg. Plan No. 2, §§5, 7(a)(1), 42 F.R. 62461, 91 Stat. 1636, 1637.)
 

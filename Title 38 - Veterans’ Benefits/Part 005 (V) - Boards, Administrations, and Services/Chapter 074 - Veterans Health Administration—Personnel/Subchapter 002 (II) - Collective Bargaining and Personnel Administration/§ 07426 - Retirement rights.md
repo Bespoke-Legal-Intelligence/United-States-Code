@@ -4,7 +4,7 @@
 
 (b)(1) In computing the annuity under subchapter III of chapter 83, or subchapter II of chapter 84, of title 5 of an individual who retires under such subchapter (other than under section 8337 or 8451 of such title) after December 31, 1981, and who served at any time on a less-than-full-time basis in a position in the Administration to which such individual was appointed under subchapter I—
 
-&emsp;(A) for the purpose of determining such individual's average pay, as defined by section 8331(4) or 8401(3) of title 5, whichever is applicable, the annual rate of basic pay for full-time service shall be deemed to be such individual's rate of basic pay; and
+&emsp;(A) for the purpose of determining such individual's average pay, as defined by section8331(4) or 8401(3) of title 5, whichever is applicable, the annual rate of basic pay for full-time service shall be deemed to be such individual's rate of basic pay; and
 
 &emsp;(B) the amount of such individual's annuity as computed under section 8339 or 8415 of title 5 (before application of any reduction required by subsection (i) of section 8339) shall be multiplied by the fraction equal to the ratio that that individual's total full-time equivalent service bears to that individual's creditable service as determined under section 8332 or 8411 of title 5, whichever is applicable.
 

@@ -8,7 +8,7 @@ In order to receive an allotment under section 7111 <sup>1</sup> of this title 
 
 &emsp;(2) contains the results of the State's needs assessment for drug and violence prevention programs, which shall be based on the results of on-going State evaluation activities, including data on the prevalence of drug use and violence by youth in schools and communities;
 
-&emsp;(3) contains assurances that the sections of the application concerning the funds provided to the chief executive officer and the State educational agency were developed separately by such officer or agency, respectively, but in consultation and coordination with appropriate State officials and others, including the chief State school officer, the chief executive officer, the head of the State alcohol and drug abuse agency, the heads of the State health and mental health agencies, the head of the State criminal justice planning agency, the head of the State child welfare agency, the head of the State board of education, or theirdesignees, and representatives of parents, students, and community-based organizations;
+&emsp;(3) contains assurances that the sections of the application concerning the funds provided to the chief executive officer and the State educational agency were developed separately by such officer or agency, respectively, but in consultation and coordination with appropriate State officials and others, including the chief State school officer, the chief executive officer, the head of the State alcohol and drug abuse agency, the heads of the State health and mental health agencies, the head of the State criminal justice planning agency, the head of the State child welfare agency, the head of the State board of education, or their designees, and representatives of parents, students, and community-based organizations;
 
 &emsp;(4) contains an assurance that the State will cooperate with, and assist, the Secretary in conducting a national impact evaluation of programs required by section 7117(a) of this title; and
 
@@ -38,7 +38,7 @@ A State's application under this section shall also contain a comprehensive plan
 
 &emsp;(2) a description of how the chief executive officer will coordinate such officer's activities under this part with the State educational agency and other State agencies and organizations involved with drug and violence prevention efforts;
 
-&emsp;(3) a description of how funds reserved under section 7114(a) of this title will be used so as not to duplicate the efforts of the State educational agency and local educational agencies with regard to the provision of school-based prevention efforts and services and how those funds will be used to serve populations not normally served by the State educational agency, such as school dropouts and youth in detention centers;
+&emsp;(3) a description of how funds reserved under section 7114(a) of this title will be used so as not to duplicate the efforts of the State educational agency and local educational agencies with regard to the provision of school-basedprevention efforts and services and how those funds will be used to serve populations not normally served by the State educational agency, such as school dropouts and youth in detention centers;
 
 &emsp;(4) a description of how the chief executive officer will award funds under section 7114(a) of this title and a plan for monitoring the performance of, and providing technical assistance to, recipients of such funds;
 

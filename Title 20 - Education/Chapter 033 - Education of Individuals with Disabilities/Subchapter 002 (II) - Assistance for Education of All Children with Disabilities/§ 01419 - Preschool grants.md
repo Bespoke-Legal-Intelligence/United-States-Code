@@ -44,7 +44,7 @@
 
 (2) The Secretary may make a grant under paragraph (1) only for fiscal year 1990 and fiscal years thereafter, except that if—
 
-&emsp;(A) the aggregate amount that was appropriated under subsection (e) of this section for fiscal years 1987, 1988, and 1989 was less than $656,000,000, or
+&emsp;(A) the aggregate amount that was appropriated under subsection (e) of this section forfiscal years 1987, 1988, and 1989 was less than $656,000,000, or
 
 &emsp;(B) the amount appropriated for fiscal year 1990 under subsection (e) of this section is less than $306,000,000,
 
@@ -82,7 +82,7 @@
 
 &emsp;(A) an amount which bears the same ratio to the amount available under subsection (a)(2)(A)(i) of this section or subsection (a)(2)(A)(ii)(I) of this section, as the case may be, as the number of children with disabilities aged three to five, inclusive, who received special education and related services as determined under section 1411(a)(3) of this title in such local educational agency or intermediate educational unit bears to the aggregate number of children with disabilities aged three to five, inclusive, who received special education and related services in all local educational agencies and intermediate educational units in the State entitled to funds under this section, and
 
-&emsp;(B) to the extent funds are available under subsection (a)(2)(A)(ii)(II) of this section, an amount which bears the same ratio to the amount of such funds as the estimated number of additional children with disabilities agedthree to five, inclusive, who will be receiving special education and related services in such local educational agency or intermediate educational unit bears to the aggregate number of such children in all local educational agencies and intermediate educational units in the State entitled to funds under this section.
+&emsp;(B) to the extent funds are available under subsection (a)(2)(A)(ii)(II) of this section, an amount which bears the same ratio to the amount of such funds as the estimated number of additional children with disabilities aged three to five, inclusive, who will be receiving special education and related services in such local educational agency or intermediate educational unit bears to the aggregate number of such children in all local educational agencies and intermediate educational units in the State entitled to funds under this section.
 
 #### (d) Insufficiency of appropriated amounts; reduction of maximum amounts receivable by States
 
@@ -150,7 +150,7 @@ Subsec. (c)(3)(B). Pub. L. 100–630, §102(i)(4), substituted “amount of such
 
 Subsec. (f). Pub. L. 100–630, §102(i)(5), added subsec. (f).
 
-1986—Pub. L. 99–457 amended section generally, substituting provisions relating to pre-school grants, including provisions for grants for fiscal years 1987 and thereafter and the amount of such grants, distribution by State of funds, insufficiency of appropriated amounts, reduction of maximum amounts receivable byStates, and authorization of appropriations for provisions relating to incentive grants, including provisions for authority to make grants, application, payment, ratable reduction or increase of payments, and authorization of appropriations.
+1986—Pub. L. 99–457 amended section generally, substituting provisions relating to pre-school grants, including provisions for grants for fiscal years 1987 and thereafter and the amount of such grants, distribution by State of funds, insufficiency of appropriated amounts, reduction of maximum amounts receivable by States, and authorization of appropriations for provisions relating to incentive grants, including provisions for authority to make grants, application, payment, ratable reduction or increase of payments, and authorization of appropriations.
 
 1983—Subsecs. (a), (b). Pub. L. 98–199, §3(b), substituted “Secretary” for “Commissioner”.
 

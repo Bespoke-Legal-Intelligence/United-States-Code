@@ -1,6 +1,6 @@
 ### §874. Transportation of deceased officers’ effects; reimbursement for supplies furnished distressed and shipwrecked persons
 
-The Secretary of Commerce is authorized to provide, from appropriations now or hereafter made available to the National Oceanic and Atmospheric Administration, for—
+The Secretary of Commerce is authorized to provide, from appropriations now or hereaftermade available to the National Oceanic and Atmospheric Administration, for—
 
 (a) Transportation (including packing, unpacking, crating, and uncrating) of personal and household effects of commissioned officers who die on active duty to the official residence of record for such officers, or, upon application by their dependents, to such other locations as may be determined by the Secretary of Commerce or by such person as he may designate.
 

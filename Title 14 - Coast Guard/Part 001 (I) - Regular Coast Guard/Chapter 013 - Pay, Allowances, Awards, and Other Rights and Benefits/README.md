@@ -24,7 +24,7 @@
 | [486\.](%C2%A7%2000486%20-%20Clothing%20for%20destitute%20shipwrecked%20persons.md) | Clothing for destitute shipwrecked persons. |
 | [487\.](%C2%A7%2000487%20-%20Procurement%20and%20sale%20of%20stores%20to%20members%20and%20civilian%20employees.md) | Procurement and sale of stores to members and civilian employees. |
 | [488\.](%C2%A7%2000488%20-%20Advancement%20of%20public%20funds%20to%20personnel.md) | Advancement of public funds to personnel. |
-| \[489, 490. Repealed.\] |  |
+| \[489, 490. | Repealed.\] |
 | [491\.](%C2%A7%2000491%20-%20Medal%20of%20honor.md) | Medal of honor. |
 | [492\.](%C2%A7%2000492%20-%20Distinguished%20service%20medal.md) | Distinguished service medal. |
 | [492a.](%C2%A7%2000492a%20-%20Distinguished%20flying%20cross.md) | Distinguished flying cross. |
@@ -48,6 +48,7 @@
 | [512\.](%C2%A7%2000512%20-%20Monetary%20allowance%20for%20transportation%20of%20household%20effects.md) | Monetary allowance for transportation of household effects. |
 | [513\.](%C2%A7%2000513%20-%20Retroactive%20payment%20of%20pay%20and%20allowances%20delayed%20by%20administrative%20error%20or%20oversight.md) | Retroactive payment of pay and allowances delayed by administrative error or oversight. |
 | [514\.](%C2%A7%2000514%20-%20Reimbursement%20for%20adoption%20expenses.md) | Reimbursement for adoption expenses. |
+| [515\.](%C2%A7%2000515%20-%20Child%20development%20services.md) | Child development services. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -56,6 +57,8 @@
 Chapter 13 of this title deals with pay, allowances, awards, and other rights and benefits for personnel of the Coast Guard. Some of these sections are new as applied to the Coast Guard, some clarify and consolidate existing law, and others merely restate existing law. There is no intention to amend, enlarge or curtail the Pay Readjustment Act of 1942, as amended. 81st Congress, House Report No. 557.
 
 #### Amendments
+
+1996—Pub. L. 104–324, title II, §201(b), Oct. 19, 1996, 110 Stat. 3907, added item 515.
 
 1991—Pub. L. 102–190, div. A, title VI, §651(b)(2), Dec. 5, 1991, 105 Stat. 1387, added item 514.
 
@@ -160,3 +163,4 @@ This chapter is referred to in section 705 of this title.
 - [&sect; 00512 - Monetary allowance for transportation of household effects](%C2%A7%2000512%20-%20Monetary%20allowance%20for%20transportation%20of%20household%20effects.md)
 - [&sect; 00513 - Retroactive payment of pay and allowances delayed by administrative error or oversight](%C2%A7%2000513%20-%20Retroactive%20payment%20of%20pay%20and%20allowances%20delayed%20by%20administrative%20error%20or%20oversight.md)
 - [&sect; 00514 - Reimbursement for adoption expenses](%C2%A7%2000514%20-%20Reimbursement%20for%20adoption%20expenses.md)
+- [&sect; 00515 - Child development services](%C2%A7%2000515%20-%20Child%20development%20services.md)

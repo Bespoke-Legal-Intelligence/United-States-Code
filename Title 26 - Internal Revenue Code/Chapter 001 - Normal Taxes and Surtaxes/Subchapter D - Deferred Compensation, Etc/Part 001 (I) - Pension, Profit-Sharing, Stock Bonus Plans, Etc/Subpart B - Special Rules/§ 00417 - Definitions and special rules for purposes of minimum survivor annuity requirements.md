@@ -86,6 +86,24 @@
 
 > &emsp;In the case of a participant who is separated from service, the applicable election period under subparagraph (B) with respect to benefits accrued before the date of such separation from service shall not begin later than such date.
 
+#### (7) Special rules relating to time for written explanation
+
+&emsp;Notwithstanding any other provision of this subsection—
+
+#### (A) Explanation may be provided after annuity starting date
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;A plan may provide the written explanation described in paragraph (3)(A) after the annuity starting date. In any case to which this subparagraph applies, the applicable election period under paragraph (6) shall not end before the 30th day after the date on which such explanation is provided.
+
+#### (ii) Regulatory authority
+
+&emsp;&emsp;&emsp;The Secretary may by regulations limit the application of clause (i), except that such regulations may not limit the period of time by which the annuity starting date precedes the provision of the written explanation other than by providing that the annuity starting date may not be earlier than termination of employment.
+
+#### (B) Waiver of 30-day period
+
+&emsp;&emsp;A plan may permit a participant to elect (with any applicable spousal consent) to waive any requirement that the written explanation be provided at least 30 days before the annuity starting date (or to waive the 30-day requirement under subparagraph (A)) if the distribution commences more than 7 days after such explanation is provided.
+
 #### (b) Definition of qualified joint and survivor annuity
 
 For purposes of this section and section 401(a)(11), the term “qualified joint and survivor annuity” means an annuity—
@@ -238,13 +256,15 @@ For purposes of this section and section 401(a)(11)—
 
 &emsp;In prescribing regulations under this section and section 401(a)(11), the Secretary shall consult with the Secretary of Labor.
 
-(Added Pub. L. 98–397, title II, §203(b), Aug. 23, 1984, 98 Stat. 1441; amended Pub. L. 99–514, title XI, §1139(b), title XVIII, §1898(b)(1)(A), (4)(A), (5)(A), (6)(A), (8)(A), (9)(A), (10)(A), (11)(A), (12)(A), (15)(A), (B), Oct. 22, 1986, 100 Stat. 2487, 2944, 2945, 2947–2951; Pub. L. 100–647, title I, §1018(u)(9), Nov. 10, 1988, 102 Stat. 3590; Pub. L. 101–239, title VII, §7862(d)(1)(A), Dec. 19, 1989, 103 Stat. 2433; Pub. L. 103–465, title VII, §767(a)(2), Dec. 8, 1994, 108 Stat. 5038.)
+(Added Pub. L. 98–397, title II, §203(b), Aug. 23, 1984, 98 Stat. 1441; amended Pub. L. 99–514, title XI, §1139(b), title XVIII, §1898(b)(1)(A), (4)(A), (5)(A), (6)(A), (8)(A), (9)(A), (10)(A), (11)(A), (12)(A), (15)(A), (B), Oct. 22, 1986, 100 Stat. 2487, 2944, 2945, 2947–2951; Pub. L. 100–647, title I, §1018(u)(9), Nov. 10, 1988, 102 Stat. 3590; Pub. L. 101–239, title VII, §7862(d)(1)(A), Dec. 19, 1989, 103 Stat. 2433; Pub. L. 103–465, title VII, §767(a)(2), Dec. 8, 1994, 108 Stat. 5038; Pub. L. 104–188, title I, §1451(a), Aug. 20, 1996, 110 Stat. 1815.)
 
 #### References in Text
 
 The date of the enactment of the Retirement Protection Act of 1994, referred to in subsec. (e)(3)(B), is the date of enactment of subtitle F (§§750–781) of title VII of Pub. L. 103–465, which was approved Dec. 8, 1994.
 
 #### Amendments
+
+1996—Subsec. (a)(7). Pub. L. 104–188 added par. (7).
 
 1994—Subsec. (e)(3). Pub. L. 103–465 amended par. (3) generally, substituting present provisions for provisions directing that present value be calculated by using a rate no greater than the applicable interest rate or 120 percent of such rate, depending upon amount of vested accrued benefit, and defining “applicable interest rate”.
 
@@ -284,9 +304,15 @@ Subsec. (f)(6), (7). Pub. L. 99–514, §1898(b)(10)(A), added par. (6) and rede
 
 Pub. L. 99–514, §1898(b)(4)(A)(iii), redesignated former par. (5) as (6).
 
+#### Effective Date of 1996 Amendment
+
+Section 1451(c) of Pub. L. 104–188 provided that: “The amendments made by this section \[amending this section and section 1055 of Title 29, Labor\] shall apply to plan years beginning after December 31, 1996.”
+
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–465 applicable to plan years and limitation years beginning after Dec. 31, 1994,except that employer may elect to treat such amendment as effective on or after Dec. 8, 1994, see section 767(d) of Pub. L. 103–465, set out as a note under section 411 of this title.
+Amendment by Pub. L. 103–465 applicable to plan years and limitation years beginning after Dec. 31, 1994, except that employer may elect to treat such amendment as effective on or after Dec. 8, 1994, with provisions relating to reduction of accrued benefits, exception, and timing of plan amendment,
+
+see section 767(d) of Pub. L. 103–465, as amended, set out as a note under section 411 of this title.
 
 #### Effective Date of 1989 Amendment
 
@@ -316,7 +342,11 @@ Amendment by section 1898(b)(1)(A), (5)(A), (9)(A), (10)(A), (11)(A), (12)(A), (
 
 #### Effective Date
 
-Section applicable to plan years beginning after Dec. 31, 1984, except as otherwise provided, see sections 302 and 303 of Pub. L. 98–397, set out as an Effective Date of 1984 Amendment note under section 1001 of Title 29, Labor.
+Section applicable to plan years beginning after Dec. 31, 1984, except as otherwise provided, see sections 302and 303 of Pub. L. 98–397, set out as an Effective Date of 1984 Amendment note under section 1001 of Title 29, Labor.
+
+#### Plan Amendments Not Required Until January 1, 1998
+
+For provisions directing that if any amendments made by subtitle D \[§§1401–1465\] of title I of Pub. L. 104–188 require an amendment to any plan or annuity contract, such amendment shall not be required to be made before the first day of the first plan year beginning on or after Jan. 1, 1998, see section 1465 of Pub. L. 104–188, set out as a note under section 401 of this title.
 
 #### Plan Amendments Not Required Until January 1, 1989
 

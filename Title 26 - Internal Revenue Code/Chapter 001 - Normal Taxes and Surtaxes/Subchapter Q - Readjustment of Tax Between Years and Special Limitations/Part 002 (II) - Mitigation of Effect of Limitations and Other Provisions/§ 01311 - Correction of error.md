@@ -24,7 +24,7 @@ If a determination (as defined in section 1313) is described in one or more of t
 
 #### (B) Determination described in section 1312(4)
 
-&emsp;&emsp;In the case of a determination described in section 1312(4) (relating to disallowance of certain deductions and credits), adjustment shall be made under this part only if credit or refund of the overpayment attributable to the deduction or credit described in such section which should have been allowed to the taxpayer or related taxpayer was not barred, by any law or rule of law, at the time the taxpayer first maintained before the Secretary or before the Tax Court, in writing, that he was entitled to such deduction or credit for the taxable year to which the determination relates.
+&emsp;&emsp;In the case of a determination described in section 1312(4) (relating to disallowance of certain deductions and credits), adjustment shall be made under this part only if credit or refund of the overpayment attributable to the deduction or credit described in suchsection which should have been allowed to the taxpayer or related taxpayer was not barred, by any law or rule of law, at the time the taxpayer first maintained before the Secretary or before the Tax Court, in writing, that he was entitled to such deduction or credit for the taxable year to which the determination relates.
 
 #### (3) Existence of relationship
 

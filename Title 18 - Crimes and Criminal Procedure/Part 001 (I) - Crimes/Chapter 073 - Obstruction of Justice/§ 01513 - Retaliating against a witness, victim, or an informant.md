@@ -22,11 +22,19 @@
 
 > or attempts to do so, shall be fined under this title or imprisoned not more than ten years, or both.
 
-(c) There is extraterritorial Federal jurisdiction over an offense under this section.
+(c) If the retaliation occurred because of attendance at or testimony in a criminal case, the maximum term of imprisonment which may be imposed for the offense under this section shall be the higher of that otherwise provided by law or the maximum term that could have been imposed for any offense charged in such case.
 
-(Added Pub. L. 97–291, §4(a), Oct. 12, 1982, 96 Stat. 1250; amended Pub. L. 103–322, title VI, §60017, title XXXIII, §330016(1)(U), Sept. 13, 1994, 108 Stat. 1975, 2148.)
+(d) There is extraterritorial Federal jurisdiction over an offense under this section.
+
+(Added Pub. L. 97–291, §4(a), Oct. 12, 1982, 96 Stat. 1250; amended Pub. L. 103–322, title VI, §60017, title XXXIII, §330016(1)(U), Sept. 13, 1994, 108 Stat. 1975, 2148; Pub. L. 104–214, §1(1), Oct. 1, 1996, 110 Stat. 3017.)
 
 #### Amendments
+
+1996—Subsec. (c). Pub. L. 104–214, §1(1)(B), which directed the addition of subsec. (c) at the end of this section, was executed by adding subsec. (c) before subsec. (d) to reflect the probable intent of Congress.
+
+Pub. L. 104–214, §1(1)(A), redesignated subsec. (c) as (d).
+
+Subsec. (d). Pub. L. 104–214, §1(1)(A), redesignated subsec. (c) as (d).
 
 1994—Subsec. (a). Pub. L. 103–322, §60017(2), added subsec. (a). Former subsec. (a) redesignated (b).
 

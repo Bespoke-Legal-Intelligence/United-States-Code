@@ -28,5 +28,5 @@ Subsec. (d). Pub. L. 98–160 inserted “of this title” after “section 1622
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3018A, 3018B, 3221 of this title.
+This section is referred to in sections 3018A, 3018B, 3018C, 3221 of this title.
 

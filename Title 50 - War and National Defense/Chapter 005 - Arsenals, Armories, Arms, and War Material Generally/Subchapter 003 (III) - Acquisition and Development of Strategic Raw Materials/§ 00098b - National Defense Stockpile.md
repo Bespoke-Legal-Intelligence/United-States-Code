@@ -12,17 +12,19 @@ The President shall make the determinations required to be made under subsection
 
 (1) The quantity of any material to be stockpiled under this subchapter, as in effect on September 30, 1987, may be changed only as provided in this subsection or as otherwise provided by law enacted after December 4, 1987.
 
-(2) The President shall notify Congress in writing of any change proposed to be made in the quantity of any material to be stockpiled. The President may make the change effective on or after the 30th legislative day following the date of the notification. The President shall include a full explanation and justification for the proposed change with the notification. For purposes of this paragraph, a legislative day is a day on which both Houses of Congress are in session.
+(2) The President shall notify Congress in writing of any change proposed to be made in the quantity of any material to be stockpiled. The President may make the change after the end of the 45-day period beginning on the date of the notification. The President shall include a full explanation and justification for the proposed change with the notification.
 
-(June 7, 1939, ch. 190, §3, as added July 30, 1979, Pub. L. 96–41, §2(a), 93 Stat. 319; amended Dec. 4, 1987, Pub. L. 100–180, div. C, title II, §3202(a), 101 Stat. 1245; Sept. 29, 1988, Pub. L. 100–456, div. A, title XII, §1233(b)(2), 102 Stat. 2057; Oct. 23, 1992, Pub. L. 102–484, div. C, title XXXIII, §3311, 106 Stat. 2653.)
+(June 7, 1939, ch. 190, §3, as added July 30, 1979, Pub. L. 96–41, §2(a), 93 Stat. 319; amended Dec. 4, 1987, Pub. L. 100–180, div. C, title II, §3202(a), 101 Stat. 1245; Sept. 29, 1988, Pub. L. 100–456, div. A, title XII, §1233(b)(2), 102 Stat. 2057; Oct. 23, 1992, Pub. L. 102–484, div. C, title XXXIII, §3311, 106 Stat. 2653; Sept. 23, 1996, Pub. L. 104–201, div. C, title XXXIII, §3312(a), 110 Stat. 2857.)
 
 #### Prior Provisions
 
-A prior section 98b, acts June 7, 1939, ch. 190, §3, 53 Stat. 811; July 23, 1946, ch. 590, 60 Stat. 597; Aug. 2, 1946, ch. 753, title I, §§102, 121, 60 Stat. 815, 822; June 30, 1949, ch. 288, title I, §102(a), 63 Stat. 380; 1953 Reorg. Plan No. 3, §2(b), eff. June 12, 1953, 18 F.R. 3375, 67 Stat. 634; 1958 Reorg. Plan No. 1, §2, eff. July 1, 1958, 23 F.R. 4991, 72 Stat. 1799; Oct. 21, 1968, Pub. L. 90–608, §402, 82 Stat. 1194; Ex. Ord. No. 11725, §3, eff. June 29, 1973, 38 F.R. 17175, related to purchase, storage, refinement, rotation, and disposal of materials, prior to repeal by section 2(a) of Pub. L. 96–41. See section 98e of this title.
+A prior section 98b, acts June 7, 1939, ch. 190, §3, 53 Stat. 811; July 23, 1946, ch. 590, 60 Stat. 597; Aug. 2, 1946, ch. 753, title I, §§102, 121, 60 Stat. 815, 822; June 30, 1949, ch. 288, title I, §102(a), 63 Stat. 380; 1953 Reorg. Plan No.3, §2(b), eff. June 12, 1953, 18 F.R. 3375, 67 Stat. 634; 1958 Reorg. Plan No. 1, §2, eff. July 1, 1958, 23 F.R. 4991, 72 Stat. 1799; Oct. 21, 1968, Pub. L. 90–608, §402, 82 Stat. 1194; Ex. Ord. No. 11725, §3, eff. June 29, 1973, 38 F.R. 17175, related to purchase, storage, refinement, rotation, and disposal of materials, prior to repeal by section 2(a) of Pub. L. 96–41. See section 98e of this title.
 
 Provisions similar to those in this section were contained in former section 98a of this title prior to repeal by Pub. L. 96–41.
 
 #### Amendments
+
+1996—Subsec. (c)(2). Pub. L. 104–201 substituted “after the end of the 45-day period beginning on” for “effective on or after the 30th legislative day following” and struck out at end “For purposes of this paragraph, a legislative day is a day on which both Houses of Congress are in session.”
 
 1992—Subsec. (c)(2) to (5). Pub. L. 102–484 added par. (2) and struck out former pars. (2) to (5) which read as follows:
 

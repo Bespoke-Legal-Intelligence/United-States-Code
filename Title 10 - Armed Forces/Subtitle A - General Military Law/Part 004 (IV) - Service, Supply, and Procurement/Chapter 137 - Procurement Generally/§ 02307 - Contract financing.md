@@ -206,5 +206,5 @@ Determinations or decisions based on written findings, see section 2310 of this 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2310, 2323 of this title; title 50 section 403c.
+This section is referred to in sections 2310, 2323, 7362 of this title; title 50 section 403c.
 

@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(C) the judicial branch;
 
-&emsp;(3) the term “entity of the legislative branch” means the House of Representatives, the Senate, the Office of the Architect of the Capitol (including the Botanic Garden), theCapitol Police, the Congressional Budget Office, the Copyright Royalty Tribunal, the Government Printing Office, the Library of Congress, and the Office of Technology Assessment; and
+&emsp;(3) the term “entity of the legislative branch” means the House of Representatives, the Senate, the Office of the Architect of the Capitol (including the Botanic Garden), the Capitol Police, the Congressional Budget Office, the Copyright Royalty Tribunal, the Government Printing Office, the Library of Congress, and the Office of Technology Assessment; and
 
 &emsp;(4) the term “transit pass” means a transit pass as defined by section 132(f)(5) of the Internal Revenue Code of 1986.
 
@@ -64,7 +64,7 @@ Committee on House Administration of House of Representatives treated as referri
 
 #### Effective Date
 
-Section 3 of Pub. L. 103–172 provided that: “This Act \[enacting this section and provisions set out as notes under this section and section 7901 of this title\] and the amendments made by this Act shall take effect on January 1, 1994.”
+Section 3 of Pub. L. 103–172 provided that: “This Act \[enacting this section and provisions set out as notesunder this section and section 7901 of this title\] and the amendments made by this Act shall take effect on January 1, 1994.”
 
 #### Purpose of Pub. L. 103–172
 

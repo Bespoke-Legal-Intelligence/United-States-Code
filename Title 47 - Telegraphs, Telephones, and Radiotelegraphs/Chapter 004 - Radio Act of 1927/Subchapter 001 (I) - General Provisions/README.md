@@ -14,3 +14,5 @@
 - [&sect; 00157 - New technologies and services](%C2%A7%2000157%20-%20New%20technologies%20and%20services.md)
 - [&sect; 00158 - Application fees](%C2%A7%2000158%20-%20Application%20fees.md)
 - [&sect; 00159 - Regulatory fees](%C2%A7%2000159%20-%20Regulatory%20fees.md)
+- [&sect; 00160 - Competition in provision of telecommunications service](%C2%A7%2000160%20-%20Competition%20in%20provision%20of%20telecommunications%20service.md)
+- [&sect; 00161 - Regulatory reform](%C2%A7%2000161%20-%20Regulatory%20reform.md)

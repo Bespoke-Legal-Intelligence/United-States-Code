@@ -8,7 +8,7 @@
 
 &emsp;(B) in the case of a defense article intended to be replaced at the time such agreement is entered into, the estimated cost of replacement of such article, including the contract or production costs less any depreciation in the value of such article; or
 
-&emsp;(C) in the case of the sale of a defense service, the full cost to the United States Government of furnishing such service, except that in the case of training sold to a purchaser who is concurrently receiving assistance under chapter 5 of part II of the Foreign Assistance Act of 1961 \[22 U.S.C. 2347 et seq.\], only those additional costs that are incurred by the United States Government in furnishing such assistance.
+&emsp;(C) in the case of the sale of a defense service, the full cost to the United States Government of furnishing such service, except that in the case of training sold to a purchaser who is concurrently receiving assistance under chapter 5 of part II of the Foreign Assistance Act of 1961 \[22 U.S.C. 2347 et seq.\] or to any high-income foreign country (as described in that chapter), only those additional costs that are incurred by the United States Government in furnishing such assistance.
 
 (2) For purposes of subparagraph (A) of paragraph (1), the actual value of a naval vessel of 3,000 tons or less and 20 years or more of age shall be considered to be not less than the greater of the scrap value or fair value (including conversion costs) of such vessel, as determined by the Secretary of Defense.
 
@@ -42,7 +42,15 @@ If the President determines it to be in the national interest pursuant to subsec
 
 &emsp;(C) the recovery of ordinary inventory losses associated with the sale from stock of defense articles that are being stored at the expense of the purchaser of such articles.
 
-(2) The President may reduce or waive the charge or charges which would otherwise be considered appropriate under paragraph (1)(B) forparticular sales that would, if made, significantly advance United States Government interests in North Atlantic Treaty Organization standardization, standardization with the Armed Forces of Japan, Australia, or New Zealand in furtherance of the mutual defense treaties between the United States and those countries, or foreign procurement in the United States under coproduction arrangements.
+(2)(A) The President may reduce or waive the charge or charges which would otherwise be considered appropriate under paragraph (1)(B) for particular sales that would, if made, significantly advance United States Government interests in North Atlantic Treaty Organization standardization, standardization with the Armed Forces of Japan, Australia, or New Zealand in furtherance of the mutual defense treaties between the United States and those countries, or foreign procurement in the United States under coproduction arrangements.
+
+(B) The President may waive the charge or charges which would otherwise be considered appropriate under paragraph (1)(B) for a particular sale if the President determines that—
+
+&emsp;(i) imposition of the charge or charges likely would result in the loss of the sale; or
+
+&emsp;(ii) in the case of a sale of major defense equipment that is also being procured for the use of the Armed Forces, the waiver of the charge or charges would (through a resulting increase in the total quantity of the equipment purchased from the source of the equipment that causes a reduction in the unit cost of the equipment) result in a savings to the United States on the cost of the equipment procured for the use of the Armed Forces that substantially offsets the revenue foregone by reason of the waiver of the charge or charges.
+
+(C) The President may waive, for particular sales of major defense equipment, any increase in a charge or charges previously considered appropriate under paragraph (1)(B) if the increase results from a correction of an estimate (reasonable when made) of the production quantity base that was used for calculating the charge or charges for purposes of such paragraph.
 
 (3)(A) The President may waive the charges for administrative services that would otherwise be required by paragraph (1)(A) in connection with any sale to the Maintenance and Supply Agency of the North Atlantic Treaty Organization in support of—
 
@@ -54,7 +62,7 @@ If the President determines it to be in the national interest pursuant to subsec
 
 (C) As used in this paragraph—
 
-&emsp;(i) the term “weapon system partnership agreement” means an agreement between two or more member countries of the Maintenance and Supply Agency of the North Atlantic Treaty Organization that—
+&emsp;(i) the term “weapon system partnership agreement” means an agreement between two or more member countries of the Maintenanceand Supply Agency of the North Atlantic Treaty Organization that—
 
 &emsp;&emsp;(I) is entered into pursuant to the terms of the charter of that organization; and
 
@@ -68,7 +76,7 @@ Any contracts entered into between the United States and a foreign country under
 
 #### (g) North Atlantic Treaty Organization standardization agreements, similar agreements; reimbursement for costs; transmittal to Congress
 
-The President may enter into North Atlantic Treaty Organization standardization agreements in carrying out section 814 of the Act of October 7, 1975 (Public Law 94–106), and may enter into similar agreements with Japan, Australia, and New Zealand, and with other countries which are major non-NATO allies, for the cooperative furnishing of training on bilateral or multilateral basis, if the financial principles of such agreements are based on reciprocity. Such agreements shall include reimbursement for all direct costs but may exclude reimbursement for indirect costs, administrative surcharges, and costs of billeting of trainees (except to the extent that members of the United States Armed Forces occupying comparable accommodations are charged for such accommodations by the United States). Each such agreement shall be transmitted promptly to the Speaker of the House of Representatives and the Committees on Appropriations, Armed Services, and Foreign Relations of the Senate. As used in this subsection, the term “major non-NATO allies” means those countries designated as major non-NATO allies for purposes of section 2350a(i)(3) of title 10.
+The President may enter into North Atlantic Treaty Organization standardization agreements in carrying out section 814 of the Act of October 7, 1975 (Public Law 94–106), and may enter into similar agreements with countries which are major non-NATO allies, for the cooperative furnishing of training on bilateral or multilateral basis, if the financial principles of such agreements are based on reciprocity. Such agreements shall include reimbursement for all direct costs but may exclude reimbursement for indirect costs, administrative surcharges, and costs of billeting of trainees (except to the extent that members of the United States Armed Forces occupying comparable accommodations are charged for such accommodations by the United States). Each such agreement shall be transmitted promptly to the Speaker of the House of Representatives and the Committees on Appropriations, Armed Services, and Foreign Relations of the Senate.
 
 #### (h) Reciprocal quality assurance, inspection, contract administrative services, and contract audit defense services; catalog data and services
 
@@ -76,7 +84,7 @@ The President may enter into North Atlantic Treaty Organization standardization 
 
 &emsp;(A) in connection with the placement or administration of any contract or subcontract for defense articles, defense services, or design and construction services entered into after October 29, 1979, by, or under this chapter on behalf of, a foreign government which is a member of the North Atlantic Treaty Organization, if such government provides such services in accordance with an agreement on a reciprocal basis, without charge, to the United States Government; or
 
-&emsp;(B) in connection with the placement or administration of any contract or subcontract for defense articles, defense services, or design and construction services pursuant to the North Atlantic Treaty Organization Infrastructure Program in accordance with an agreement under which the foreign governments participating in such program provide such services, without charge, in connection with similar contracts or subcontracts.
+&emsp;(B) in connection with the placement or administration of any contract or subcontract for defense articles, defense services, or design and construction services pursuant to the North Atlantic Treaty Organization Security Investment program in accordance with an agreement under which the foreign governments participating in such program provide such services, without charge, in connection with similar contracts or subcontracts.
 
 (2) In carrying out the objectives of this section, the President is authorized to provide cataloging data and cataloging services, without charge, to the North Atlantic Treaty Organization or to any member government of that Organization if that Organization or member government provides such data and services in accordance with an agreement on a reciprocal basis, without charge, to the United States Government.
 
@@ -98,25 +106,83 @@ The President may enter into North Atlantic Treaty Organization standardization 
 
 (2) No delivery may be made under any sale which is required to be reported under paragraph (1) of this subsection unless the certification required to be transmitted by paragraph <sup>1</sup> (E) of paragraph (1) is in effect.
 
-#### (j) Tank and infantry vehicle upgrades
-
-(1) Funds received from the sale of tanks under this section shall be available for the upgrading of tanks for fielding to the Army.
-
-(2) Funds received from the sale of infantry fighting vehicles or armored personnel carriers under this section shall be available for the upgrading of infantry fighting vehicles or armored personnel carriers for fielding to the Army.
-
-(3) Paragraphs (1) and (2) apply only to the extent provided in advance in appropriations Acts.
-
-(4) This subsection applies with respect to funds received from sales occurring after September 30, 1989.
+#### (j) Repealed. Pub. L. 104–106, div. A, title I, §112, Feb. 10, 1996, 110 Stat. 206
 
 #### (k) Effect of sales of excess defense articles on national technology and industrial base
 
-Before entering into the sale under this chapter of defense articles that are excess to the stocks of the Department of Defense, the President shall first consider the effects of the sale of the articles on the national technology and industrial base, particularly the extent, if any, to which the sale reduces the opportunities of entities in the national technology and industrial base to sell new equipment to the country or countries to which the excess defense articles are sold.
+Before entering into the sale under this chapter of defense articles that are excess to thestocks of the Department of Defense, the President shall determine that the sale of such articles will not have an adverse impact on the national technology and industrial base and, particularly, will not reduce the opportunities of entities in the national technology and industrial base to sell new or used equipment to the countries to which such articles are transferred.
 
-(Pub. L. 90–629, ch. 2, §21, Oct. 22, 1968, 82 Stat. 1323; Pub. L. 94–329, title II, §§205, 206, June 30, 1976, 90 Stat. 736, 738; Pub. L. 95–384, §16, Sept. 26, 1978, 92 Stat. 740; Pub. L. 96–92, §12, Oct. 29, 1979, 93 Stat. 705; Pub. L. 96–533, title I, §§102, 103, 105(b)(1), 115(b)(2), Dec. 16, 1980, 94 Stat. 3132, 3134, 3140; Pub. L. 97–113, title I, §§103, 104, Dec. 29, 1981, 95 Stat. 1521; Pub. L. 97–392, §3, Dec. 29, 1982, 96 Stat. 1963; Pub. L. 98–473, title I, §101(1) \[title III, §301\], Oct. 12, 1984, 98 Stat. 1884, 1895; Pub. L. 99–83, title I, §§107(a), 108–111, Aug. 8, 1985, 99 Stat. 196, 197; Pub. L. 100–202, §101(e) \[title V, §580\], Dec. 22, 1987, 101 Stat. 1329–131, 1329–181; Pub. L. 100–456, div. A, title X, §1002, Sept. 29, 1988, 102 Stat. 2037; Pub. L. 101–165, title IX, §9104(c), Nov. 21, 1989, 103 Stat. 1152; Pub. L. 102–25, title VII, §705(d)(1), Apr. 6, 1991, 105 Stat. 120; Pub. L. 102–484, div. A, title I, §114, Oct. 23, 1992, 106 Stat. 2333; Pub. L. 103–236, title VII, §731(d), Apr. 30, 1994, 108 Stat. 503.)
+#### (<i>l</i>) Repair of defense articles
+
+#### (1) In general
+
+&emsp;The President may acquire a repairable defense article from a foreign country or international organization if such defense article—
+
+&emsp;&emsp;(A) previously was transferred to such country or organization under this chapter;
+
+&emsp;&emsp;(B) is not an end item; and
+
+&emsp;&emsp;(C) will be exchanged for a defense article of the same type that is in the stocks of the Department of Defense.
+
+#### (2) Limitation
+
+&emsp;The President may exercise the authority provided in paragraph (1) only to the extent that the Department of Defense—
+
+&emsp;&emsp;(A)(i) has a requirement for the defense article being returned; and
+
+&emsp;&emsp;(ii) has available sufficient funds authorized and appropriated for such purpose; or
+
+&emsp;&emsp;(B)(i) is accepting the return of the defense article for subsequent transfer to another foreign government or international organization pursuant to a letter of offer and acceptance implemented in accordance with this chapter; and
+
+&emsp;&emsp;(ii) has available sufficient funds provided by or on behalf of such other foreign government or international organization pursuant to a letter of offer and acceptance implemented in accordance with this chapter.
+
+#### (3) Requirement
+
+&emsp;(A) The foreign government or international organization receiving a new or repaired defense article in exchange for a repairable defense article pursuant to paragraph (1) shall, upon the acceptance by the United States Government of the repairable defense article being returned, be charged the total cost associated with the repair and replacement transaction.
+
+&emsp;(B) The total cost charged pursuant to subparagraph (A) shall be the same as that charged the United States Armed Forces for a similar repair and replacement transaction, plus an administrative surcharge in accordance with subsection (e)(1)(A) of this section.
+
+#### (4) Relationship to certain other provisions of law
+
+&emsp;The authority of the President to accept the return of a repairable defense article as provided in subsection (a) of this section shall not be subject to chapter 137 of title 10 or any other provision of law relating to the conclusion of contracts.
+
+#### (m) Return of defense articles
+
+#### (1) In general
+
+&emsp;The President may accept the return of a defense article from a foreign country or international organization if such defense article—
+
+&emsp;&emsp;(A) previously was transferred to such country or organization under this chapter;
+
+&emsp;&emsp;(B) is not significant military equipment (as defined in section 2794(9) of this title); and
+
+&emsp;&emsp;(C) is in fully functioning condition without need of repair or rehabilitation.
+
+#### (2) Limitation
+
+&emsp;The President may exercise the authority provided in paragraph (1) only to the extent that the Department of Defense—
+
+&emsp;&emsp;(A)(i) has a requirement for the defense article being returned; and
+
+&emsp;&emsp;(ii) has available sufficient funds authorized and appropriated for such purpose; or
+
+&emsp;&emsp;(B)(i) is accepting the return of the defense article for subsequent transfer to another foreign government or international organization pursuant to a letter of offer and acceptance implemented in accordance with this chapter; and
+
+&emsp;&emsp;(ii) has available sufficient funds provided by or on behalf of such other foreign government or international organization pursuant to a letter of offer and acceptance implemented in accordance with this chapter.
+
+#### (3) Credit for transaction
+
+&emsp;Upon acquisition and acceptance by the United States Government of a defense article under paragraph (1), the appropriate Foreign Military Sales account of the provider shall be credited to reflect the transaction.
+
+#### (4) Relationship to certain other provisions of law
+
+&emsp;The authority of the President to accept the return of a defense article as provided in paragraph (1) shall not be subject to chapter 137 of title 10 or any other provision of law relating to the conclusion of contracts.
+
+(Pub. L. 90–629, ch. 2, §21, Oct. 22, 1968, 82 Stat. 1323; Pub. L. 94–329, title II, §§205, 206, June 30, 1976, 90 Stat. 736, 738; Pub. L. 95–384, §16, Sept. 26, 1978, 92 Stat. 740; Pub. L. 96–92, §12, Oct. 29, 1979, 93 Stat. 705; Pub. L. 96–533, title I, §§102, 103, 105(b)(1), 115(b)(2), Dec. 16, 1980, 94 Stat. 3132, 3134, 3140; Pub. L. 97–113, title I, §§103, 104, Dec. 29, 1981, 95 Stat. 1521; Pub. L. 97–392, §3, Dec. 29, 1982, 96 Stat. 1963; Pub. L. 98–473, title I, §101(1) \[title III, §301\], Oct. 12, 1984, 98 Stat. 1884, 1895; Pub. L. 99–83, title I, §§107(a), 108–111, Aug. 8, 1985, 99 Stat. 196, 197; Pub. L. 100–202, §101(e) \[title V, §580\], Dec. 22, 1987, 101 Stat. 1329–131, 1329–181; Pub. L. 100–456, div. A, title X, §1002, Sept. 29, 1988, 102 Stat. 2037; Pub. L. 101–165, title IX, §9104(c), Nov. 21, 1989, 103 Stat. 1152; Pub. L. 102–25, title VII, §705(d)(1), Apr. 6, 1991, 105 Stat. 120; Pub. L. 102–484, div. A, title I, §114, Oct. 23, 1992, 106 Stat. 2333; Pub. L. 103–236, title VII, §731(d), Apr. 30, 1994, 108 Stat. 503; Pub. L. 104–106, div. A, title I, §112, div. D, title XLIII, §4303(a), Feb. 10, 1996, 110 Stat. 206, 658; Pub. L. 104–164, title I, §§104(b)(1), 112(c)(2), 147(a)(3)(A), (b), 152(a), (b), July 21, 1996, 110 Stat. 1426, 1428, 1435, 1438, 1439; Pub. L. 104–201, div. B, title XXVIII, §2802(d)(2), Sept. 23, 1996, 110 Stat. 2787.)
 
 #### References in Text
 
-The Foreign Assistance Act of 1961, referred to in subsecs. (a)(1)(C) and (c)(2), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, which is classified principally to chapter 32 (§2151 et seq.) of this title. Chapter 5 of part II of such Act is classified generally to part V of subchapter II (§2347 et seq.) of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+The Foreign Assistance Act of 1961, referred to in subsecs. (a)(1)(C) and (c)(2), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, which is classified principally to chapter 32 (§2151 et seq.) of this title. Chapter 5 ofpart II of such Act is classified generally to part V of subchapter II (§2347 et seq.) of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 Section 814 of the act of October 7, 1975 (Public Law 94–106), referred to in subsec. (g), is not classified to the Code.
 
@@ -125,6 +191,30 @@ Section 814 of the act of October 7, 1975 (Public Law 94–106), referred to in 
 Amendment by Pub. L. 98–473 is based on section 102 of S. 2346, Ninety-eighth Congress, as introduced in the Senate Feb. 27, 1984, which was enacted into permanent law by Pub. L. 98–473.
 
 #### Amendments
+
+1996—Subsec. (a)(1)(C). Pub. L. 104–164, §112(c)(2), inserted “or to any high-income foreign country (as described in that chapter)”.
+
+Subsec. (e)(2). Pub. L. 104–106, §4303(a), designated existing provisions as subpar. (A) and added subpars. (B) and (C).
+
+Subsec. (g). Pub. L. 104–164, §147(a)(3)(A), (b), substituted “similar agreements with countries” for “similar agreements with Japan, Australia, and New Zealand, and with other countries” in first sentence and struck out at end “As used in this subsection, the term ‘major non-NATO allies’ means those countries designated as major non-NATO allies for purposes of section 2350a(i)(3) of title 10.”
+
+Subsec. (h)(1)(B). Pub. L. 104–201 substituted “Security Investment program” for “Infrastructure Program”.
+
+Subsec. (j). Pub. L. 104–106, §112, struck out heading and text of subsec. (j). Text read as follows:
+
+“(1) Funds received from the sale of tanks under this section shall be available for the upgrading of tanks for fielding to the Army.
+
+“(2) Funds received from the sale of infantry fighting vehicles or armored personnel carriers under this section shall be available for the upgrading of infantry fighting vehicles or armored personnel carriers for fielding to the Army.
+
+“(3) Paragraphs (1) and (2) apply only to the extent provided in advance in appropriations Acts.
+
+“(4) This subsection applies with respect to funds received from sales occurring after September 30, 1989.”
+
+Subsec. (k). Pub. L. 104–164, §104(b)(1), substituted “the President shall determine that the sale of such articles will not have an adverse impact on the national technology and industrial base and, particularly, will not reduce the opportunities of entities in the national technology and industrial base to sell new or used equipment to the countries to which such articles are transferred.” for “the President shall first consider the effects of the sale of the articles on the national technology and industrial base, particularly the extent, if any, to which the sale reduces the opportunities of entities in the national technology and industrial base to sell new equipment to the country or countries to which the excess defense articles are sold.”
+
+Subsec. (<i>l</i>). Pub. L. 104–164, §152(a), added subsec. (<i>l</i>).
+
+Subsec. (m). Pub. L. 104–164, §152(b), added subsec. (m).
 
 1994—Subsec. (k). Pub. L. 103–236 added subsec. (k).
 
@@ -160,7 +250,7 @@ Subsec. (h)(2). Pub. L. 99–83, §111(3), added par. (2).
 
 1984—Subsec. (a)(3). Pub. L. 98–473 struck out “sold to a purchaser who is concurrently receiving assistance under chapter 5 of part II of the Foreign Assistance Act of 1961” after “in the case of training”.
 
-Subsec. (g). Pub. L. 98–473 struck out subsec. (g) which related to NATO standardization agreements andsimilar agreements with Japan, Australia, and New Zealand.
+Subsec. (g). Pub. L. 98–473 struck out subsec. (g) which related to NATO standardization agreements and similar agreements with Japan, Australia, and New Zealand.
 
 1982—Subsec. (i)(1). Pub. L. 97–392 inserted reference to proposals to sell under the authority of subchapter II–B of this chapter.
 
@@ -184,9 +274,45 @@ Subsec. (h). Pub. L. 96–533, §105(b)(1), substituted “defense articles, def
 
 Subsecs. (b) to (h). Pub. L. 94–329, §§205, 206, added subsecs. (b) to (h).
 
+#### Effective Date of 1996 Amendment
+
+Section 4303(b)–(d) of Pub. L. 104–106 provided that:
+
+“(b)
+
+Conditions.—Subsection (a) \[amending this section\] shall be effective only if—
+
+&emsp;“(1) the President, in the budget of the President for fiscal year 1997, proposes legislation that if enacted would be qualifying offsetting legislation; and
+
+&emsp;“(2) there is enacted qualifying offsetting legislation.
+
+“(c)
+
+Effective Date.—If the conditions in subsection (b) are met, then the amendments made by subsection (a) shall take effect on the date of the enactment of qualifying offsetting legislation \[Sept. 23, 1996\].
+
+“(d)
+
+Definitions.—For purposes of this section:
+
+&emsp;“(1) The term ‘qualifying offsetting legislation’ means legislation that includes provisions that—
+
+&emsp;&emsp;“(A) offset fully the estimated revenues lost as a result of the amendments made by subsection (a) for each of the fiscal years 1997 through 2005;
+
+&emsp;&emsp;“(B) expressly state that they are enacted for the purpose of the offset described in subparagraph (A); and
+
+&emsp;&emsp;“(C) are included in full on the PayGo scorecard.
+
+&emsp;“(2) The term ‘PayGo scorecard’ means the estimates that are made by the Director of the Congressional Budget Office and the Director of the Office of Management and Budget under section 252(d) of the Balanced Budget and Emergency Deficit Control Act of 1985 \[2 U.S.C. 902(d)\].”
+
+\[Qualifying offsetting legislation was enacted by Pub. L. 104–201, §3303, set out as a note under section 98d of Title 50, War and National Defense.\]
+
 #### Effective Date of 1985 Amendment
 
 Amendment by Pub. L. 99–83 effective Oct. 1, 1985, see section 1301 of Pub. L. 99–83, set out as a note under section 2151–1 of this title.
+
+#### Regulations
+
+Section 152(c) of Pub. L. 104–164 provided that: “Under the direction of the President, the Secretary of Defense shall promulgate regulations to implement subsections (<i>l</i>) and (m) of section 21 of the Arms Export Control Act \[22 U.S.C. 2761(<i>l</i>), (m)\], as added by this section.”
 
 #### Delegation of Functions
 

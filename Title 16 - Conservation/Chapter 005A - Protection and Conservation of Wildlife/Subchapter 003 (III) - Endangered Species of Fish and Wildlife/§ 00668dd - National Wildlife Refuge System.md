@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(i) the acquisition costs of such lands, in the case of lands of the System which were purchased by the United States with funds from the migratory bird conservation fund, or fair market value, whichever is greater; or
 
-&emsp;&emsp;(ii) the fair market value of such lands (as determined by the Secretary as of the dateof the transfer or disposal), in the case of lands of the System which were donated to the System.
+&emsp;&emsp;(ii) the fair market value of such lands (as determined by the Secretary as of the date of the transfer or disposal), in the case of lands of the System which were donated to the System.
 
 > The Secretary shall pay into the migratory bird conservation fund the aggregate amount of the proceeds of any transfer or disposal referred to in the preceding sentence.
 
@@ -152,7 +152,7 @@ Conveyance to State of New Hampshire.—
 
 &emsp;“(1)
 
-Conveyance.—Subject to paragraphs (2) through (5), the Secretary of the Interior shall convey to the State of New Hampshire, without consideration, all right, title, and interest of the UnitedStates in and to a parcel of real property consisting of not more than 100 acres that is a part of the real property transferred to the Secretary under subsection (a) and that the Secretary determines to be suitable for use as a cemetery.
+Conveyance.—Subject to paragraphs (2) through (5), the Secretary of the Interior shall convey to the State of New Hampshire, without consideration, all right, title, and interest of the United States in and to a parcel of real property consisting of not more than 100 acres that is a part of the real property transferred to the Secretary under subsection (a) and that the Secretary determines to be suitable for use as a cemetery.
 
 &emsp;“(2)
 
@@ -188,6 +188,8 @@ Alaska Maritime National Wildlife Refuge, Alaska.—Pub. L. 96–487, title III,
 
 Alaska Peninsula National Wildlife Refuge, Alaska.—Pub. L. 96–498, title III, §302(1), Dec. 2, 1980, 94 Stat. 2385.
 
+Amagansett National Wildlife Refuge, New York.—Pub. L. 104–148, §1, May 24, 1996, 110 Stat. 1378.
+
 Aransas National Wildlife Refuge, Myrtle Foester Whitmire Division, Texas.—Pub. L. 102–226, §1, Dec. 11, 1991, 105 Stat. 1685.
 
 Arctic National Wildlife Refuge, Alaska.—Pub. L. 96–498, title III, §303(2), Dec. 2, 1980, 94 Stat. 2390.
@@ -198,7 +200,7 @@ Atchafalaya National Wildlife Refuge, Louisiana.—Pub. L. 98–548, title III, 
 
 Bayou Cocodrie National Wildlife Refuge, Louisiana.—Pub. L. 101–593, title I, §108, Nov. 16, 1990, 104 Stat. 2956.
 
-Bayou Sauvage Urban National Wildlife Refuge, Louisiana.—Pub. L. 99–645, title V, §502, Nov. 10, 1986, 100 Stat. 3590.
+Bayou Sauvage Urban National Wildlife Refuge, Louisiana.—Pub. L. 99–645, title V, §502, Nov. 10, 1986, 100 Stat. 3590; Pub. L. 104–253, §2, Oct. 9, 1996, 110 Stat. 3167.
 
 Becharof National Wildlife Refuge, Alaska.—Pub. L. 96–498, title III, §302(2), Dec. 2, 1980, 94 Stat. 2385.
 
@@ -209,6 +211,10 @@ Bon Secour National Wildlife Refuge, Alabama.—Pub. L. 96–267, June 9, 1980, 
 Brandon Marsh National Wildlife Refuge, Oregon.—Pub. L. 97–137, title I, §§101–106, Dec. 29, 1981, 95 Stat. 1709, 1710.
 
 Cache River National Wildlife Refuge, Arkansas.—Pub. L. 102–584, §§1–5, Nov. 2, 1992, 106 Stat. 4937–4941.
+
+Clarks River National Wildlife Refuge, Kentucky.—Pub. L. 104–208, div. A, title I, §101(d) \[title I\], Sept. 30, 1996, 110 Stat. 3009–181, 3009–185.
+
+Cossatot National Wildlife Refuge, Arkansas.—Pub. L. 104–333, div. I, title III, §305(h), Nov. 12, 1996, 110 Stat. 4130.
 
 Don Edwards San Francisco Bay National Wildlife Refuge, California.—Pub. L. 92–326, June 30, 1972, 86 Stat. 391; Pub. L. 96–290, §1, June 28, 1980, 94 Stat. 607; Pub. L. 100–556, title II, §§201–203, Oct. 28, 1988, 102 Stat. 2780; Pub. L. 104–78, §1, Dec. 28, 1995, 109 Stat. 790.
 
@@ -232,7 +238,7 @@ John Heinz National Wildlife Refuge at Tinicum (former Tinicum National Environm
 
 Kanuti National Wildlife Refuge, Alaska.—Pub. L. 96–498, title III, §302(4), Dec. 2, 1980, 94 Stat. 2386.
 
-Kenai National Wildlife Refuge, Alaska.—Pub. L. 96–498, title III, §303(4), Dec. 2, 1980, 94 Stat. 2391.
+Kenai National Wildlife Refuge, Alaska.—Pub. L. 96–487, title III, §303(4), Dec. 2, 1980, 94 Stat. 2391; Pub. L. 104–333, div. I, title III, §311(d)(3), Nov. 12, 1996, 110 Stat. 4142.
 
 Kodiak National Wildlife Refuge, Alaska.—Pub. L. 96–498, title III, §303(5), Dec. 2, 1980, 94 Stat. 2391.
 
@@ -240,11 +246,15 @@ Koyukuk National Wildlife Refuge, Alaska.—Pub. L. 96–498, title III, §302(5
 
 Minnesota Valley National Wildlife Refuge, Minnesota.—Pub. L. 94–466, Oct. 8, 1976, 90 Stat. 1992.
 
+North Platte National Wildlife Refuge, Nebraska.—Pub. L. 104–212, title I, §101, Oct. 1, 1996, 110 Stat. 3014.
+
 Nowitna National Wildlife Refuge, Alaska.—Pub. L. 96–498, title III, §302(6), Dec. 2, 1980, 94 Stat. 2387.
 
-Oxbow National Wildlife Refuge, Massachusetts.—Pub. L. 103–337, div. B, title XXVIII, §2846, Oct. 5, 1994, 108 Stat. 3071.
+Oahu National Wildlife Refuge Complex, Hawaii.—Pub. L. 104–209, §1, Oct. 1, 1996, 110 Stat. 3010.
 
-Pettaquamscutt Cove National Wildlife Refuge, Rhode Island.—Pub. L. 100–610, title II, §§201–207, Nov. 5, 1988, 102 Stat. 3176; Pub. L. 102–212, title II, §202, Dec. 11, 1991, 105 Stat. 1660.
+Oxbow National Wildlife Refuge, Massachusetts.—Pub. L. 103–337, div. B, title XXVIII, §2846, Oct. 5, 1994, 108 Stat. 3071; Pub. L. 104–106, div. B, title XXVIII, §2853, Feb. 10, 1996, 110 Stat. 567.
+
+Pettaquamscutt Cove National Wildlife Refuge, Rhode Island.—Pub. L. 100–610, title II, §§201–207, Nov. 5, 1988, 102 Stat. 3176; Pub. L. 102–212, title II, §202, Dec. 11, 1991, 105 Stat. 1660; Pub. L. 104–212, title II, Oct. 1, 1996, 110 Stat. 3014.
 
 Pocosin Lakes National Wildlife Refuge, North Carolina.—Pub. L. 103–232, title III, Apr. 11, 1994, 108 Stat. 339.
 
@@ -268,7 +278,7 @@ Stewart B. McKinney National Wildlife Refuge, Connecticut.—Pub. L. 98–548, t
 
 Stillwater National Wildlife Refuge, Nevada.—Pub. L. 101–618, title II, §206(b), Nov. 16, 1990, 104 Stat. 3309.
 
-Tensas River National Wildlife Refuge, Louisiana.—Pub. L. 96–285, June 28, 1980, 94 Stat. 595; Pub. L. 99–191, §2, Dec. 19, 1985, 99 Stat. 1327.
+Tensas River National Wildlife Refuge, Louisiana.—Pub. L. 96–285, June 28, 1980, 94 Stat. 595; Pub. L. 99–191, §2, Dec. 19, 1985, 99 Stat. 1327; Pub. L. 104–253, §1, Oct. 9, 1996, 110 Stat. 3167.
 
 Tetlin National Wildlife Refuge, Alaska.—Pub. L. 96–498, title III, §302(8), Dec. 2, 1980, 94 Stat. 2388.
 
@@ -295,6 +305,50 @@ National Environmental Centers
 &nbsp;
 
 Tinicum National Environmental Center, Pennsylvania.—Pub. L. 92–326, June 30, 1972, 86 Stat. 391; renamed John Heinz National Wildlife Refuge at Tinicum, Pub. L. 102–154, title I, Nov. 13, 1991, 105 Stat. 995.
+
+#### Ex. Ord. No. 12996. Management and General Public Use of National Wildlife Refuge System
+
+Ex. Ord. No. 12996, Mar. 25, 1996, 61 F.R. 13647, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, and in furtherance of the purposes of the Fish and Wildlife Act of 1956 (16 U.S.C. 742a \[et seq.\]), the Fish and Wildlife Coordination Act (16 U.S.C. 661 \[et seq.\]), the National Wildlife Refuge System Administration Act (16 U.S.C. 668dd \[, 668ee\]), the Refuge Recreation Act (16 U.S.C. 460k \[et seq.\]), the Endangered Species Act of 1973 (16 U.S.C. 1531 \[et seq.\]), the Emergency Wetlands Resources Act (16 U.S.C. 3901 \[et seq.\]), the North American Wetlands Conservation Act (16 U.S.C. 4401 \[et seq.\]), the National Environmental Policy Act (42 U.S.C. 4321 \[et seq.\]), and other pertinent statutes, and in order to conserve fish and wildlife and their habitat, it is ordered as follows:
+
+Section 1. <i>The Mission of the National Wildlife Refuge System</i>. The mission of the National Wildlife Refuge System (“Refuge System”) is to preserve a national network of lands and waters for the conservation and management of fish, wildlife, and plant resources of the United States for the benefit of present and future generations.
+
+Sec. 2. <i>Guiding Principles</i>. To help ensure a bright future for its treasured national heritage, I hereby affirm the following four guiding principles for the management and general public use of the Refuge System:
+
+(a) <i>Public Use</i>. The Refuge System provides important opportunities for compatible wildlife-dependent recreational activities involving hunting, fishing, wildlife observation and photography, and environmental education and interpretation.
+
+(b) <i>Habitat</i>. Fish and wildlife will not prosper without high-quality habitat, and without fish and wildlife, traditional uses of refuges cannot be sustained. The Refuge System will continue to conserve and enhance the quality and diversity of fish and wildlife habitat within refuges.
+
+(c) <i>Partnerships</i>. America's sportsmen and women were the first partners who insisted on protecting valuable wildlife habitat within wildlife refuges. Conservation partnerships with other Federal agencies, State agencies, Tribes, organizations, industry, and the general public can make significant contributions to the growth and management of the Refuge System.
+
+(d) <i>Public Involvement</i>. The public should be given a full and open opportunity to participate in decisions regarding acquisition and management of our National Wildlife Refuges.
+
+Sec. 3. <i>Directives to the Secretary of the Interior</i>. To the extent consistent with existing laws and interagency agreements, the Secretary of the Interior, in carrying out his trustee and stewardship responsibilities for the Refuge System, is directed to:
+
+(a) recognize compatible wildlife-dependent recreational activities involving hunting, fishing, wildlife observation and photography, and environmental education and interpretation as priority general public uses of the Refuge System through which the American public can develop an appreciation for fish and wildlife;
+
+(b) provide expanded opportunities for these priority public uses within the Refuge System when they are compatible and consistent with sound principles of fish and wildlife management, and are otherwise in the public interest;
+
+(c) ensure that such priority public uses receive enhanced attention in planning and management within the Refuge System;
+
+(d) provide increased opportunities for families to experience wildlife-dependent recreation, particularly opportunities for parents and their children to safely engage in traditional outdoor activities, such as fishing and hunting;
+
+(e) ensure that the biological integrity and environmental health of the Refuge System is maintained for the benefit of present and future generations of Americans;
+
+(f) continue, consistent with existing laws and interagency agreements, authorized or permitted uses of units of the Refuge System by other Federal agencies, including those necessary to facilitate military preparedness;
+
+(g) plan and direct the continued growth of the Refuge System in a manner that is best designed to accomplish the mission of the Refuge System, to contribute to the conservation of the ecosystems of the United States, and to increase support for the Refuge System and participation from conservation partners and the public;
+
+(h) ensure timely and effective cooperation and collaboration with Federal agencies and State fish and wildlife agencies during the course of acquiring and managing National Wildlife Refuges;
+
+(i) ensure appropriate public involvement opportunities will be provided in conjunction with refuge planning and management activities; and
+
+(j) identify, prior to acquisition, existing compatible wildlife-dependent uses of new refuge lands that shall be permitted to continue on an interim basis pending completion of comprehensive planning.
+
+Sec. 4. <i>Judicial Review</i>. This order does not create any right or benefit, substantive or procedural, enforceable at law or equity by a party against the United States, its agencies, its officers, or any person.
+
+William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Section Referred to in Other Sections
 

@@ -67,7 +67,7 @@
 | (i) | Regulations covering taking of marine mammals by Alaskan natives. |
 | (j) | Grants to develop or administer State conservation and management programs. |
 | (k) | Delegation of administration and enforcement to States. |
-| (<i>l)</i> | Authorization of appropriations. |
+| (<i>l</i>) | Authorization of appropriations. |
 | [1380\.](Subchapter%20002%20%28II%29%20-%20Conservation%20and%20Protection%20of%20Marine%20Mammals/%C2%A7%2001380%20-%20Marine%20mammal%20research%20grants.md) | Marine mammal research grants. |
 | (a) | Authorization; research concerning yellowfin tuna; annual report. |
 | (b) | Terms and conditions. |
@@ -101,10 +101,10 @@
 | (i) | Utilization of services of State and Federal agencies and private entities. |
 | (j) | Confidentiality of information; exceptions. |
 | (k) | Regulations. |
-| (<i>l)</i> | Suggested regime governing incidental taking of marine mammals following termination of interim exemptions. |
+| (<i>l</i>) | Suggested regime governing incidental taking of marine mammals following termination of interim exemptions. |
 | (m) | Consultation with Secretary of the Interior. |
 | (n) | Owner of fixed commercial fishing gear deemed owner of vessel engaged in fishery in which gear deployed. |
-| (<i>o)</i> | Definitions. |
+| (<i>o</i>) | Definitions. |
 | [1383b.](Subchapter%20002%20%28II%29%20-%20Conservation%20and%20Protection%20of%20Marine%20Mammals/%C2%A7%2001383b%20-%20Status%20review%3B%20conservation%20plans.md) | Status review; conservation plans. |
 | (a) | Determinations by rule; notice and hearing; findings; final rule on status of species or stock involved. |
 | (b) | Conservation plans; preparation and implementation. |
@@ -139,7 +139,7 @@
 | (i) | Assistance. |
 | (j) | Contributions. |
 | (k) | Consultation with Secretary of the Interior. |
-| (<i>l)</i> | Definitions. |
+| (<i>l</i>) | Definitions. |
 | [1388\.](Subchapter%20002%20%28II%29%20-%20Conservation%20and%20Protection%20of%20Marine%20Mammals/%C2%A7%2001388%20-%20Marine%20mammal%20cooperative%20agreements%20in%20Alaska.md) | Marine mammal cooperative agreements in Alaska. |
 | (a) | In general. |
 | (b) | Grants. |
@@ -260,7 +260,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 1543, 1853, 2407, 2408, 3125 of this title; title 10 section 7524.
+This chapter is referred to in sections 1543, 1881, 1881a, 1881b, 2407, 2408, 3125 of this title; title 10 section 7524.
 
 
 ---

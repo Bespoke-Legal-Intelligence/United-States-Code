@@ -20,15 +20,15 @@
 
 &emsp;(D) does not comply with section 31321(h) of this title.
 
-(b)(1) A person that knowingly violates section 31328 or 31329 of this title shall be fined under title 18, imprisoned for not more than 3 years, or both.
+(b)(1) A person that knowingly violates section 31329 of this title shall be fined under title 18, imprisoned for not more than 3 years, or both.
 
-(2) A person violating section 31328 or 31329 of this title is liable to the Government for a civil penalty of not more than $25,000.
+(2) A person violating section 31329 of this title is liable to the Government for a civil penalty of not more than $25,000.
 
-(3) A vessel involved in a violation under section 31328 or 31329 of this title and its equipment may be seized by, and forfeited to, the Government.
+(3) A vessel involved in a violation under section 31329 of this title and its equipment may be seized by, and forfeited to, the Government.
 
 (c) If a person not an individual violates this section, the president or chief executive of the person also is subject to any penalty provided under this section.
 
-(Pub. L. 100–710, title I, §102(c), Nov. 23, 1988, 102 Stat. 4747.)
+(Pub. L. 100–710, title I, §102(c), Nov. 23, 1988, 102 Stat. 4747; Pub. L. 104–324, title XI, §1113(b)(2), Oct. 19, 1996, 110 Stat. 3970.)
 
 Historical and Revision Notes
 
@@ -57,6 +57,10 @@ Section 31330(c) makes the president or chief executive officer of a corporation
 #### house floor statement
 
 Subsection (a) of this section adds criminal and civil penalties for a preferred mortgagor's failure to carry out certain requirements under chapter 313 of title 46 (as enacted by this Act).
+
+#### Amendments
+
+1996—Subsec. (b). Pub. L. 104–324 struck out “31328 or” before “31329” in pars. (1) to (3).
 
 #### Section Referred to in Other Sections
 

@@ -7,6 +7,7 @@
 | [<b>1001.</b>](Part%20001%20%28I%29%20-%20Organization%20and%20Administration/Chapter%201001%20-%20Definitions/README.md) | <b>Definitions</b> | <b>10001</b> |
 | [<b>1003.</b>](Part%20001%20%28I%29%20-%20Organization%20and%20Administration/Chapter%201003%20-%20Reserve%20Components%20Generally/README.md) | <b>Reserve Components Generally</b> | <b>10101</b> |
 | [<b>1005.</b>](Part%20001%20%28I%29%20-%20Organization%20and%20Administration/Chapter%201005%20-%20Elements%20of%20Reserve%20Components/README.md) | <b>Elements of Reserve Components</b> | <b>10141</b> |
+| [<b>1006.</b>](Part%20001%20%28I%29%20-%20Organization%20and%20Administration/Chapter%201006%20-%20Reserve%20Component%20Commands/README.md) | <b>Reserve Component Commands</b> | <b>10171</b> |
 | [<b>1007.</b>](Part%20001%20%28I%29%20-%20Organization%20and%20Administration/Chapter%201007%20-%20Administration%20of%20Reserve%20Components/README.md) | <b>Administration of Reserve Components</b> | <b>10201</b> |
 | [<b>1009.</b>](Part%20001%20%28I%29%20-%20Organization%20and%20Administration/Chapter%201009%20-%20Reserve%20Forces%20Policy%20Boards%20and%20Committees/README.md) | <b>Reserve Forces Policy Boards and Committees</b> | <b>10301</b> |
 | [<b>1011.</b>](Part%20001%20%28I%29%20-%20Organization%20and%20Administration/Chapter%201011%20-%20National%20Guard%20Bureau/README.md) | <b>National Guard Bureau</b> | <b>10501</b> |
@@ -25,6 +26,7 @@
 | [<b>1209.</b>](Part%20002%20%28II%29%20-%20Personnel%20Generally/Chapter%201209%20-%20Active%20Duty/README.md) | <b>Active Duty</b> | <b>12301</b> |
 | [<b>1211.</b>](Part%20002%20%28II%29%20-%20Personnel%20Generally/Chapter%201211%20-%20National%20Guard%20Members%20in%20Federal%20Service/README.md) | <b>National Guard Members in Federal Service</b> | <b>12401</b> |
 | [<b>1213.</b>](Part%20002%20%28II%29%20-%20Personnel%20Generally/Chapter%201213%20-%20Special%20Appointments%2C%20Assignments%2C%20Details%2C%20and%20Duties/README.md) | <b>Special Appointments, Assignments, Details, and Duties</b> | <b>12501</b> |
+| [<b>1214.</b>](Part%20002%20%28II%29%20-%20Personnel%20Generally/Chapter%201214%20-%20Ready%20Reserve%20Mobilization%20Income%20Insurance/README.md) | <b>Ready Reserve Mobilization Income Insurance</b> | <b>12521</b> |
 | [<b>1215.</b>](Part%20002%20%28II%29%20-%20Personnel%20Generally/Chapter%201215%20-%20Miscellaneous%20Prohibitions%20and%20Penalties/README.md) | <b>Miscellaneous Prohibitions and Penalties. \[No present sections\]</b> |  |
 | [<b>1217.</b>](Part%20002%20%28II%29%20-%20Personnel%20Generally/Chapter%201217%20-%20Miscellaneous%20Rights%20and%20Benefits/README.md) | <b>Miscellaneous Rights and Benefits</b> | <b>12601</b> |
 | [<b>1219.</b>](Part%20002%20%28II%29%20-%20Personnel%20Generally/Chapter%201219%20-%20Standards%20and%20Procedures%20for%20Retention%20and%20Promotion/README.md) | <b>Standards and Procedures for Retention and Promotion</b> | <b>12641</b> |
@@ -54,7 +56,7 @@
 | [<b>1601.</b>](Part%20004%20%28IV%29%20-%20Training%20for%20Reserve%20Components%20and%20Educational%20Assistance%20Programs/Chapter%201601%20-%20Training%20Generally/README.md) | <b>Training Generally. \[No present sections\]</b> |  |
 | [<b>1606.</b>](Part%20004%20%28IV%29%20-%20Training%20for%20Reserve%20Components%20and%20Educational%20Assistance%20Programs/Chapter%201606%20-%20Educational%20Assistance%20for%20Members%20of%20the%20Selected%20Reserve/README.md) | <b>Educational Assistance for Members of the Selected Reserve</b> | <b>16131</b> |
 | [<b>1608.</b>](Part%20004%20%28IV%29%20-%20Training%20for%20Reserve%20Components%20and%20Educational%20Assistance%20Programs/Chapter%201608%20-%20Health%20Professions%20Stipend%20Program/README.md) | <b>Health Professions Stipend Program</b> | <b>16201</b> |
-| [<b>1609.</b>](Part%20004%20%28IV%29%20-%20Training%20for%20Reserve%20Components%20and%20Educational%20Assistance%20Programs/Chapter%201609%20-%20Education%20Loan%20Repayment%20Programs/README.md) | <b>Education Loan Repayments</b> | <b>16301</b> |
+| [<b>1609.</b>](Part%20004%20%28IV%29%20-%20Training%20for%20Reserve%20Components%20and%20Educational%20Assistance%20Programs/Chapter%201609%20-%20Education%20Loan%20Repayment%20Programs/README.md) | <b>Education Loan Repayment Programs</b> | <b>16301</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -67,6 +69,16 @@
 | [<b>1805.</b>](Part%20005%20%28V%29%20-%20Service%2C%20Supply%2C%20and%20Procurement/Chapter%201805%20-%20Miscellaneous%20Provisions/README.md) | <b>Miscellaneous Provisions</b> | <b>18501</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Amendments
+
+1996—Pub. L. 104–201, div. A, title XII, §1211(a)(2), Sept. 23, 1996, 110 Stat. 2691, added item for chapter 1006.
+
+Pub. L. 104–106, div. A, title V, §512(a)(2), title XV, §1501(b)(1), Feb. 10, 1996, 110 Stat. 305, 495, added item for chapter 1214 and substituted “Repayment Programs” for “Repayments” in item for chapter 1609.
+
+#### Subtitle Referred to in Other Sections
+
+This subtitle is referred to in section 1406 of this title.
 
 
 ---

@@ -14,7 +14,7 @@ From the amount reserved for this part under section 1652(a)(2) of this title fo
 
 #### (b) Evaluation and report
 
-The Secretary shall conduct or provide for an evaluation of the success of each demonstration program, and shall prepare and submit to the Congress a report of the evaluation not laterthan October 1, 1992, together with such recommendations, including recommendations for legislation, as the Secretary deems appropriate.
+The Secretary shall conduct or provide for an evaluation of the success of each demonstration program, and shall prepare and submit to the Congress a report of the evaluation not later than October 1, 1992, together with such recommendations, including recommendations for legislation, as the Secretary deems appropriate.
 
 (Pub. L. 97–300, title III, §324, as added Pub. L. 100–418, title VI, §6302(a), Aug. 23, 1988, 102 Stat. 1538; amended Pub. L. 102–367, title III, §303, Sept. 7, 1992, 106 Stat. 1074.)
 

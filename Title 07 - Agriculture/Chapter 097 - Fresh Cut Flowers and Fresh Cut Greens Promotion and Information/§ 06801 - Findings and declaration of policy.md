@@ -4,7 +4,7 @@
 
 Congress finds that—
 
-&emsp;(1) fresh cut flowers and fresh cut greens are an integral part of life in the United States, are enjoyed by millions of persons every year for a multitude of special purposes (especiallyimportant personal events), and contribute a natural and beautiful element to the human environment;
+&emsp;(1) fresh cut flowers and fresh cut greens are an integral part of life in the United States, are enjoyed by millions of persons every year for a multitude of special purposes (especially important personal events), and contribute a natural and beautiful element to the human environment;
 
 &emsp;(2)(A) cut flowers and cut greens are produced by many individual producers throughout the United States as well as in other countries, and are handled and marketed by thousands of small-sized and medium-sized businesses; and
 
@@ -42,7 +42,7 @@ Congress finds that—
 
 #### (b) Policy and purpose
 
-It is the policy of Congress that it is in the public interest, and it is the purpose of this chapter, to authorize the establishment, through the exercise of the powers provided in this chapter, of an orderly procedure for the development and financing (through an adequate assessment on cut flowers and cut greens sold by handlers to retailers and related entities in the United States) of an effective and coordinated program of generic promotion, consumer information, and related research designed to strengthen the position of the cut flowers and cut greens industry in the marketplace and to maintain, develop, and expand markets for cut flowers and cut greens.
+It is the policy of Congress that it is in the public interest, and it is the purpose of thischapter, to authorize the establishment, through the exercise of the powers provided in this chapter, of an orderly procedure for the development and financing (through an adequate assessment on cut flowers and cut greens sold by handlers to retailers and related entities in the United States) of an effective and coordinated program of generic promotion, consumer information, and related research designed to strengthen the position of the cut flowers and cut greens industry in the marketplace and to maintain, develop, and expand markets for cut flowers and cut greens.
 
 (Pub. L. 103–190, §2, Dec. 14, 1993, 107 Stat. 2266.)
 

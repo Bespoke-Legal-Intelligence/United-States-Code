@@ -30,7 +30,7 @@ Loans, commitments, and assistance authorized by subsection (b) of this section 
 
 #### (d) Regulatory limitations
 
-The regulations of the Farm Credit Administration implementing subsection (b) of this section and other provisions of this subchapter relating to the authority under subsection (b) of this section may not confer upon the banks for cooperatives powers and authorities greater than those specified in this subchapter. TheFarm Credit Administration shall, during the formulation of such regulations, closely consult on a continuing basis with the Board of Governors of the Federal Reserve System to insure that such regulations conform to national banking policies, objectives, and limitations.
+The regulations of the Farm Credit Administration implementing subsection (b) of this section and other provisions of this subchapter relating to the authority under subsection (b) of this section may not confer upon the banks for cooperatives powers and authorities greater than those specified in this subchapter. The Farm Credit Administration shall, during the formulation of such regulations, closely consult on a continuing basis with the Board of Governors of the Federal Reserve System to insure that such regulations conform to national banking policies, objectives, and limitations.
 
 #### (e) Speculative futures transactions
 
@@ -42,7 +42,7 @@ The banks for cooperatives may, for the purpose of installing, maintaining, expa
 
 &emsp;(1) cooperatives formed specifically for the purpose of establishing or operating such facilities; and
 
-&emsp;(2) public and quasi-public agencies and bodies, and other public and private entities that, under authority of State or local law, establish or operate such facilities.
+&emsp;(2) public and quasi-public agencies and bodies, and other public and private entities that,under authority of State or local law, establish or operate such facilities.
 
 > For purposes of this subsection, the term “rural area” means all territory of a State that is not within the outer boundary of any city or town having a population of more than 20,000 based on the latest decennial census of the United States.
 

@@ -68,7 +68,7 @@ Subject to regulations of the Secretary, a school may assess a charge with respe
 
 #### (i) Charge with respect to late payments
 
-Subject to regulations of the Secretary, and in accordance with this section, a school shall assess a charge with respect to a loan made under this subpart for failure of the borrower to pay all or any part of an installment when it is due and, in the case of a borrower who is entitled to deferment of the loan under subsection (c) of this section, for any failure to file timely and satisfactory evidence of such entitlement. No such charge may be made if the payment of such installment or the filing of such evidence is made within 60 days after the date on which such installment or filing is due. The amount of any such charge may not exceed an amount equal to 6 percent of the amount of such installment. The school may elect to add the amount of any such charge to the principal amount of the loan as of the first day after the day on which such installment or evidence was due, or to make the amount of the charge payable to the school not later than the due date of the next installment after receipt by the borrower of notice of the assessment of the charge.
+Subject to regulations of the Secretary, and in accordance with this section, a school shall assess a charge with respect to a loan made under this subpart for failure of the borrower to pay all or any part of an installment when it is due and, in the case of a borrower who is entitled to deferment of the loan under subsection (c) of this section, for any failure to file timely and satisfactory evidence of such entitlement. No such charge may be made if the payment of such installment or the filing of such evidence ismade within 60 days after the date on which such installment or filing is due. The amount of any such charge may not exceed an amount equal to 6 percent of the amount of such installment. The school may elect to add the amount of any such charge to the principal amount of the loan as of the first day after the day on which such installment or evidence was due, or to make the amount of the charge payable to the school not later than the due date of the next installment after receipt by the borrower of notice of the assessment of the charge.
 
 #### (j) Authority of schools regarding rate of payment
 
@@ -94,7 +94,7 @@ The Secretary is authorized to attempt to collect any loan which was made under 
 
 #### References in Text
 
-The Peace Corps Act, referred to in subsec. (c)(1)(B), is Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, as amended,which is classified principally to chapter 34 (§2501 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of Title 22 and Tables.
+The Peace Corps Act, referred to in subsec. (c)(1)(B), is Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, as amended, which is classified principally to chapter 34 (§2501 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of Title 22 and Tables.
 
 #### Prior Provisions
 

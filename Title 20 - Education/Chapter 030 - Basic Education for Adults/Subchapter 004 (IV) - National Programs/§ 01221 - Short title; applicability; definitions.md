@@ -40,7 +40,7 @@ The Department of Education Organization Act, referred to in subsec. (c)(1), is 
 
 The Civil Rights Act of 1964, referred to in subsec. (d), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended. Title VI of the Act is classified generally to subchapter V (§2000d et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
 
-The Education Amendments of 1972, referred to in subsec. (d), is Pub. L. 92–318, June 23, 1972, 86 Stat. 235, as amended. Title IX of the Act is classified principally to chapter 38 (§1681 et seq.) of this title. For complete classification of this Act to the Code, see Short Title of1972 Amendment note set out under section 1001 of this title and Tables.
+The Education Amendments of 1972, referred to in subsec. (d), is Pub. L. 92–318, June 23, 1972, 86 Stat. 235, as amended. Title IX of the Act is classified principally to chapter 38 (§1681 et seq.) of this title. For complete classification of this Act to the Code, see Short Title of 1972 Amendment note set out under section 1001 of this title and Tables.
 
 The Rehabilitation Act of 1973, referred to in subsec. (d), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, as amended. Title V of the Act is classified generally to subchapter V (§790 et seq.) of chapter 16 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
 
@@ -96,7 +96,7 @@ Ex. Ord. No. 11761, Jan. 17, 1974, 39 F.R. 2345, which provided for coordination
 
 #### Executive Order No. 12687
 
-Ex. Ord. No. 12687, Aug. 15, 1989, 54 F.R. 34127, as amended by Ex. Ord. No. 12741, Dec. 31, 1990, 56 F.R. 475; Ex. Ord. No. 12785, Dec. 26, 1991, 56 F.R. 67451, which established the President's Education Policy Advisory Committee to advise the President with respect to objectives and conduct of overall education policy of the United States, was revoked by Ex. Ord. No. 12869, §4(e), Sept. 30, 1993, 58 F.R. 51751, formerly set out under section 14 of the Federal Advisory Committee Act in theAppendix to Title 5, Government Organization and Employees.
+Ex. Ord. No. 12687, Aug. 15, 1989, 54 F.R. 34127, as amended by Ex. Ord. No. 12741, Dec. 31, 1990, 56 F.R. 475; Ex. Ord. No. 12785, Dec. 26, 1991, 56 F.R. 67451, which established the President's Education Policy Advisory Committee to advise the President with respect to objectives and conduct of overall education policy of the United States, was revoked by Ex. Ord. No. 12869, §4(e), Sept. 30, 1993, 58 F.R. 51751, formerly set out under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 
 #### Section Referred to in Other Sections
 

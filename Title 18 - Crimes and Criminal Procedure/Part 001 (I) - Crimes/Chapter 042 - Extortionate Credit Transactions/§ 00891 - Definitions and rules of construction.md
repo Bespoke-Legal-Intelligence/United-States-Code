@@ -1,4 +1,4 @@
-### §891 . Definitions and rules of construction
+### §891. Definitions and rules of construction
 
 For the purposes of this chapter:
 
@@ -44,7 +44,7 @@ Section 201 of Pub. L. 90–321 provided that:
 
 #### Annual Report to Congress by Attorney General
 
-Section 203 of Pub. L. 90–321, which directed Attorney General to make an annual report to Congress of activities of Department of Justice in enforcement of this chapter, was repealed by Pub. L. 97–375, title I, §109(b), Dec. 21, 1982, 96 Stat. 1820.
+Section 203 of Pub. L. 90–321 directed Attorney General to make an annual report to Congress of activities of Department of Justice in enforcement of this chapter, prior to repeal by Pub. L. 97–375, title I, §109(b), Dec. 21, 1982, 96 Stat. 1820.
 
 #### Section Referred to in Other Sections
 

@@ -4,11 +4,11 @@
 
 The Administrator shall, within six months after a State plan has been submitted for approval, approve or disapprove the plan. The Administrator shall approve a plan if he determines that—
 
-&emsp;(1) it meets the requirements of paragraphs (1), (2), (3), and (5) of section 6943 <sup>1</sup> of this title; and
+&emsp;(1) it meets the requirements of paragraphs (1), (2), (3), and (5) of section 6943(a) of this title; and
 
 &emsp;(2) it contains provision for revision of such plan, after notice and public hearing, whenever the Administrator, by regulation, determines—
 
-&emsp;&emsp;(A) that revised regulations respecting minimum requirements have been promulgated under paragraphs (1), (2), (3), and (5) of section 6943 <sup>1</sup> of this title with which the State plan is not in compliance;
+&emsp;&emsp;(A) that revised regulations respecting minimum requirements have been promulgated under paragraphs (1), (2), (3), and (5) of section 6943(a) of this title with which the State plan is not in compliance;
 
 &emsp;&emsp;(B) that information has become available which demonstrates the inadequacy of the plan to effectuate the purposes of this subchapter; or
 
@@ -28,13 +28,11 @@ The Administrator shall, within six months after a State plan has been submitted
 
 Nothing in this subchapter shall be construed to prevent or affect any activities respecting solid waste planning or management which are carried out by State, regional, or local authorities unless such activities are inconsistent with a State plan approved by the Administrator under this subchapter.
 
-(Pub. L. 89–272, title II, §4007, as added Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2817; amended Pub. L. 95–609, §7(<i>l</i>), Nov. 8, 1978, 92 Stat. 3082.)
-
-#### References in Text
-
-Paragraphs (1), (2), (3), and (5) of section 6943 of this title, referred to in subsec. (a)(1), (2)(A), were redesignated as the same paragraphs of section 6943(a) of this title by Pub. L. 96–463, §5(b), Oct. 15, 1980, 94 Stat. 2056, and Pub. L. 96–482, §32(d)(2), Oct. 21, 1980, 94 Stat. 2353.
+(Pub. L. 89–272, title II, §4007, as added Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2817; amended Pub. L. 95–609, §7(<i>l</i>), Nov. 8, 1978, 92 Stat. 3082; Pub. L. 104–119, §4(8), Mar. 26, 1996, 110 Stat. 833.)
 
 #### Amendments
+
+1996—Subsec. (a)(1), (2)(A). Pub. L. 104–119 substituted “section 6943(a) of this title” for “section 6943 of this title”.
 
 1978—Subsec. (c). Pub. L. 95–609 substituted “(c)” for “(C)” in subsection designation.
 
@@ -45,6 +43,4 @@ For transfer of certain enforcement functions of Administrator or other official
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 6903, 6943, 6945, 6948 of this title.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

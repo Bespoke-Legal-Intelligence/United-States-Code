@@ -22,7 +22,7 @@ The Commission is authorized to delegate to any group of three or more members a
 
 #### (d) Proceedings before administrative law judge; administrative review
 
-(1) An administrative law judge appointed by the Commission to hear matters under this chapter shall hear, and make a determination upon, any proceeding instituted before the Commission and any motion in connection therewith, assigned to such administrative law judge by the chief administrative law judge of the Commission or by the Commission, and shall make a decision which constitutes his final disposition of the proceedings. The decision of the administrative law judge of the Commission shall become the final decision of the Commission 40 days after its issuance unless within such period the Commission has directed that such decision shall be reviewed by the Commission in accordance with paragraph (2). An administrative law judge shall not be assigned to prepare a recommended decision under this chapter.
+(1) An administrative law judge appointed by the Commission to hear matters under this chapter shall hear, and make a determinationupon, any proceeding instituted before the Commission and any motion in connection therewith, assigned to such administrative law judge by the chief administrative law judge of the Commission or by the Commission, and shall make a decision which constitutes his final disposition of the proceedings. The decision of the administrative law judge of the Commission shall become the final decision of the Commission 40 days after its issuance unless within such period the Commission has directed that such decision shall be reviewed by the Commission in accordance with paragraph (2). An administrative law judge shall not be assigned to prepare a recommended decision under this chapter.
 
 (2) The Commission shall prescribe rules of procedure for its review of the decisions of administrative law judges in cases under this chapter which shall meet the following standards for review:
 
@@ -52,7 +52,7 @@ The Commission is authorized to delegate to any group of three or more members a
 
 In connection with hearings before the Commission or its administrative law judges under this chapter, the Commission and its administrative law judges may compel the attendance and testimony of witnesses and the production of books, papers, or documents, or objects, and order testimony to be taken by deposition at any stage of the proceedings before them. Any person may be compelled to appear and depose and produce similar documentary or physical evidence, in the same manner as witnesses may be compelled to appear and produce evidence before the Commission and its administrative law judges. Witnesses shall be paid the same fees and mileage that are paid witnesses in the courts of the United States and at depositions ordered by such courts. In case of contumacy, failure, or refusal of any person to obey a subpoena or order of the Commission or an administrative law judge, respectively, to appear, to testify, or to produce documentary or physical evidence, any district court of the United States or the United States courts of any territory or possession, within the jurisdiction of which such person is found, or resides, or transacts business, shall, upon the application of the Commission, or the administrative law judge, respectively, have jurisdiction to issue to such person an order requiring such person to appear, to testify, or to produce evidence as ordered by the Commission or the administrative law judge, respectively, and any failure to obey such order of the court may be punished by the court as a contempt thereof.
 
-(Pub. L. 91–173, title I, §113, as added Pub. L. 95–164, title II, §201, Nov. 9, 1977, 91 Stat. 1313; 1978 Reorg. Plan No. 2, §�7E�7E�7E102, eff. Jan. 1, 1979, 43 F.R. 36037, 92 Stat. 3783.)
+(Pub. L. 91–173, title I, §113, as added Pub. L. 95–164, title II, §201, Nov. 9, 1977, 91 Stat. 1313; 1978 Reorg. Plan No. 2, §7E7E7E102, eff. Jan. 1, 1979, 43 F.R. 36037, 92 Stat. 3783.)
 
 #### References in Text
 
@@ -68,7 +68,7 @@ Section effective 120 days after Nov. 9, 1977, see section 307 of Pub. L. 95–1
 
 #### Transfer of Functions
 
-“Director of the Office of Personnel Management” substituted for “Civil Service Commission” in subsec. (b)(2) pursuant to Reorg. Plan No. 2 of 1978, §102, 43 F.R. 36037, 92 Stat. 3783, set out under section 1101 of Title 5, Government Organization and Employees, which transferred all functions vested by statute in United States Civil Service Commission to Director of Officeof Personnel Management (except as otherwise specified), effective Jan. 1, 1979, as provided by section 1–102 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out under section 1101 of Title 5.
+“Director of the Office of Personnel Management” substituted for “Civil Service Commission” in subsec. (b)(2) pursuant to Reorg. Plan No. 2 of 1978, §102, 43 F.R. 36037, 92 Stat. 3783, set out under section 1101 of Title 5, Government Organization and Employees, which transferred all functions vested by statute in United States Civil Service Commission to Director of Office of Personnel Management (except as otherwise specified), effective Jan. 1, 1979, as provided by section 1–102 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out under section 1101 of Title 5.
 
 #### Cross References
 

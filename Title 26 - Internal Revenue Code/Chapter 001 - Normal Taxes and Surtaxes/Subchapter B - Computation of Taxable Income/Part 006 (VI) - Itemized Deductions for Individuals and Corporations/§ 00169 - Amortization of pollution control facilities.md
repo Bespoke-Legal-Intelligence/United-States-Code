@@ -32,7 +32,7 @@ For purposes of this section—
 
 #### (2) State certifying authority
 
-&emsp;The term “State certifying authority” means, in the case of water pollution, the State water pollution control agency as defined in section 13(a) of the Federal Water Pollution Control Act and, in the case of air pollution, the air pollution control agency as defined in section 302(b) of the Clean Air Act.The term “State certifying authority” includes any interstate agency authorized to act in place of a certifying authority of the State.
+&emsp;The term “State certifying authority” means, in the case of water pollution, the State water pollution control agency as defined in section 13(a) of the Federal Water Pollution Control Act and, in the case of air pollution, the air pollution control agency as defined in section 302(b) of the Clean Air Act. The term “State certifying authority” includes any interstate agency authorized to act in place of a certifying authority of the State.
 
 #### (3) Federal certifying authority
 

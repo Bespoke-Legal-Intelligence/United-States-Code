@@ -22,7 +22,7 @@ In exercising the authority contained in section 356 of this title within the so
 
 The District of Columbia Redevelopment Act of 1945, referred to in subsec. (a), is act Aug. 2, 1946, ch. 736, 60 Stat. 790, as amended, which appears in chapter 8 (§5–801 et seq.) of Title 5, Building Restrictions and Regulations, of the District of Columbia Code.
 
-Subsection (c) of section 302 of the Federal Property and Administrative Services Act of 1949, referred to in subsec. (d), was struck out by section 2714(a)(1)(B) of Pub. L. 98–369 and provisions formerly contained in subsection (e) were restated in subsection (c)(1) of section 302 of the 1949 Act.
+Subsection (c) of section 302 of the Federal Property and Administrative Services Act of 1949, referred to in subsec. (d), was struck out by section 2714(a)(1)(B) ofPub. L. 98–369 and provisions formerly contained in subsection (e) were restated in subsection (c)(1) of section 302 of the 1949 Act.
 
 The Federal Property and Administrative Services Act of 1949, as amended, referred to in subsec. (d), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Title III of the Federal Property and Administrative Services Act of 1949 is classified generally to subchapter IV (§251 et seq.) of chapter 4 of Title 41, Public Contracts. For complete classification of this Act to the Code, see Short Title note set out under section 471 of this title and Tables.
 

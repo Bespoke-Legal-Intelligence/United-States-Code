@@ -1,6 +1,6 @@
 ### §3030j. State criteria
 
-The State agency shall develop eligibility criteria for providing in-home services to frailolder individuals which shall take into account—
+The State agency shall develop eligibility criteria for providing in-home services to frail older individuals which shall take into account—
 
 &emsp;(1) age;
 

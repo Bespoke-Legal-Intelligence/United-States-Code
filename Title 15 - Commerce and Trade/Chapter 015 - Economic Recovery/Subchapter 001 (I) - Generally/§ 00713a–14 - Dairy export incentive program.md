@@ -2,19 +2,23 @@
 
 #### (a) Establishment and operation
 
-During the period beginning 60 days after December 23, 1985, and ending on December 31, 2001, the Commodity Credit Corporation shall establish and operate an export incentive program as described in this section for dairy products under section 714c of this title.
+During the period beginning 60 days after December 23, 1985, and ending on December 31, 2002, the Commodity Credit Corporation shall establish and operate an export incentive program as described in this section for dairy products under section 714c of this title.
 
 #### (b) Payments to entity that sells for export United States dairy products; bid basis; criteria for acceptance or rejection of bids
 
-The program established under subsection (a) of this section shall provide for the Corporation to make payments, on a bid basis, to an entity that sells for export United States dairy products. The Secretary shall have discretion to accept or reject bids under such criteria as the Secretary deems appropriate.
+The program established under subsection (a) of this section shall provide for the Corporation to make payments, on a bid basis, to an entity that sells for export United States dairy products. The Secretary shall have sole discretion to accept or reject bids under such criteria as the Secretary deems appropriate.
 
 #### (c) Rules and regulations
 
 The program shall be operated under such rules and regulations issued by the Secretary as the Secretary deems necessary to ensure, among other things, that—
 
-&emsp;(1) payments may be made under the program only on the quantity of dairy products sold by an entity for export in any year that is in addition to, and not in place of, any export sales of dairy products that the entity would otherwise make in the absence of the program; and
+&emsp;(1) payments may be made under the program only on the quantity of dairy products sold by an entity for export in any year that is in addition to, and not in place of, any export sales of dairy products that the entity would otherwise make in the absence of the program;
 
-&emsp;(2) to the extent practicable, dairy products sold for export under the program will not displace commercial export sales of United States dairy products by other exporters.
+&emsp;(2) to the extent practicable, dairy products sold for export under the program will not displace commercial export sales of United States dairy products by other exporters;
+
+&emsp;(3) the maximum volume of dairy product exports allowable consistent with the obligations of the United States as a member of the World Trade Organization is exported under the program each year (minus the volume sold under section 1163 of the Food Security Act of 1985 (Public Law 99–198; 7 U.S.C. 1731 note) during that year), except to the extent that the export of such a volume under the program would, in the judgment of the Secretary, exceed the limitations on the value set forth in subsection (f) of this section; and
+
+&emsp;(4) payments may be made under the program for exports to any destination in the world for the purpose of market development, except a destination in a country with respect to which shipments from the United States are otherwise restricted by law.
 
 #### (d) Payments under program to be made in cash or commodities
 
@@ -34,13 +38,33 @@ The program shall be operated under such rules and regulations issued by the Sec
 
 #### (e) Payment rates; publication in Federal Register or other public announcement
 
-(1) The payments made under the program shall be made at a rate or rates established or approved by the Secretary, taking into consideration, among other things the type of product to be exported, the domestic price of dairy products, and world price of the dairy products.
+(1) The payments made under the program shall be made at a rate or rates established or approved by the Secretary, taking into consideration, among other things the type of product to be exported, the domestic price of dairy products, the world price of the dairy products, and any additional amount that may be required to assist in the development of world markets for United States dairy products.
 
 (2) Any such rate established or approved by the Secretary shall be published in the Federal Register or publicly announced through other appropriate means, and shall be at a level or levels as will encourage the exportation of United States dairy products by entities.
 
-(Pub. L. 99–198, title I, §153, Dec. 23, 1985, 99 Stat. 1377; Pub. L. 100–418, title IV, §4308, Aug. 23, 1988, 102 Stat. 1399; Pub. L. 100–435, title I, §106, Sept. 19, 1988, 102 Stat. 1651; Pub. L. 101–624, title I, §114, Nov. 28, 1990, 104 Stat. 3380; Pub. L. 103–465, title IV, §411(b), Dec. 8, 1994, 108 Stat. 4963.)
+#### (f) Required funding
+
+#### (1) In general
+
+&emsp;Except as provided in paragraph (2), the Commodity Credit Corporation shall in each year use money and commodities for the program under this section in the maximum amount consistent with the obligations of the United States as a member of the World Trade Organization, minus the amount expended under section 1163 of the Food Security Act of 1985 (Public Law 99–198; 7 U.S.C. 1731 note) during that year.
+
+#### (2) Volume limitations
+
+&emsp;The Commodity Credit Corporation may not exceed the limitations specified in subsection (c)(3) of this section on the volume of allowable dairy product exports.
+
+(Pub. L. 99–198, title I, §153, Dec. 23, 1985, 99 Stat. 1377; Pub. L. 100–418, title IV, §4308, Aug. 23, 1988, 102 Stat. 1399; Pub. L. 100–435, title I, §106, Sept. 19, 1988, 102 Stat. 1651; Pub. L. 101–624, title I, §114, Nov. 28, 1990, 104 Stat. 3380; Pub. L. 103–465, title IV, §411(b), Dec. 8, 1994, 108 Stat. 4963; Pub. L. 104–127, title I, §148, Apr. 4, 1996, 110 Stat. 920.)
 
 #### Amendments
+
+1996—Subsec. (a). Pub. L. 104–127, §148(a), substituted “2002” for “2001”.
+
+Subsec. (b). Pub. L. 104–127, §148(b), inserted “sole” before “discretion”.
+
+Subsec. (c)(3), (4). Pub. L. 104–127, §148(c), added pars. (3) and (4).
+
+Subsec. (e)(1). Pub. L. 104–127, §148(d), substituted “the world price” for “and world price” and inserted before period at end “, and any additional amount that may be required to assist in the development of world markets for United States dairy products”.
+
+Subsec. (f). Pub. L. 104–127, §148(e), added subsec. (f).
 
 1994—Subsec. (a). Pub. L. 103–465 substituted “2001” for “1995”.
 
@@ -52,7 +76,7 @@ Subsec. (d)(2), (3). Pub. L. 100–418 amended pars. (2) and (3) generally. Prio
 
 “(2) If payments in commodities are authorized, such payments may be made through the issuance of certificates redeemable in commodities.
 
-“(3) If payments are authorized to be made in dairy products, the regulations issued by the Secretary shallensure that such dairy products, or an equal amount of other dairy products, will be sold for export by the entity and that any such export sales by the entity will be in addition to, and not in place of, export sales of dairy products that the entity would otherwise make under program or in the absence of the program, and, to the extent practicable, will not displace commercial export sales of United States dairy products by other exporters.”
+“(3) If payments are authorized to be made in dairy products, the regulations issued by the Secretary shall ensure that such dairy products, or an equal amount of other dairy products, will be sold for export by the entity and that any such export sales by the entity will be in addition to, and not in place of, export sales of dairy products that the entity would otherwise make under program or in the absence of the program, and, to the extent practicable, will not displace commercial export sales of United States dairy products by other exporters.”
 
 #### Effective Date of 1994 Amendment
 
@@ -68,5 +92,5 @@ Amendment by Pub. L. 100–435 effective and implemented on Oct. 1, 1988, see se
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 7 section 1736bb–6.
+This section is referred to in title 7 section 7502.
 

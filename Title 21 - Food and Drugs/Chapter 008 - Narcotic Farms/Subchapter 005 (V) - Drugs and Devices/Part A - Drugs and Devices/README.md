@@ -8,7 +8,7 @@ Part A—Drugs and Devices
 - [&sect; 00351 - Adulterated drugs and devices](%C2%A7%2000351%20-%20Adulterated%20drugs%20and%20devices.md)
 - [&sect; 00352 - Misbranded drugs and devices](%C2%A7%2000352%20-%20Misbranded%20drugs%20and%20devices.md)
 - [&sect; 00353 - Exemptions and consideration for certain drugs, devices, and biological products](%C2%A7%2000353%20-%20Exemptions%20and%20consideration%20for%20certain%20drugs%2C%20devices%2C%20and%20biological%20products.md)
-- [&sect; 00354 - Repealed. Pub. L. 86&#8211;618, title I, &sect;103(a)(2), July 12, 1960, 74 Stat. 398](%C2%A7%2000354%20-%20Repealed.%20Pub.%20L.%2086%E2%80%93618%2C%20title%20I%2C%20%C2%A7103%28a%29%282%29%2C%20July%2012%2C%201960%2C%2074%20Stat.%20398.md)
+- [&sect; 00354 - Veterinary feed directive drugs](%C2%A7%2000354%20-%20Veterinary%20feed%20directive%20drugs.md)
 - [&sect; 00355 - New drugs](%C2%A7%2000355%20-%20New%20drugs.md)
 - [&sect; 00356 - Certification of drugs containing insulin](%C2%A7%2000356%20-%20Certification%20of%20drugs%20containing%20insulin.md)
 - [&sect; 00357 - Certification of drugs containing penicillin, streptomycin, chlortetracycline, chloramphenicol, bacitracin, or any other antibiotic drug](%C2%A7%2000357%20-%20Certification%20of%20drugs%20containing%20penicillin%2C%20streptomycin%2C%20chlortetracycline%2C%20chloramphenicol%2C%20bacitracin%2C%20or%20any%20other%20antibiotic%20drug.md)

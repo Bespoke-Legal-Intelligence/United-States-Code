@@ -18,11 +18,11 @@ There is hereby imposed on the undistributed income of a private foundation for 
 
 #### (b) Additional tax
 
-In any case in which an initial tax is imposed under subsection (a) on the undistributed income of a private foundation for any taxable year, if any portion of such income remains undistributed at the close of the taxable period, there is hereby imposed a tax equal to 100 percent of the amount remaining undistributed at such time.
+In any case in which an initial tax is imposed under subsection (a) on the undistributed income of a private foundation for any taxable year, if any portion of such income remains undistributed at the close of the taxable period,there is hereby imposed a tax equal to 100 percent of the amount remaining undistributed at such time.
 
 #### (c) Undistributed income
 
-For purposes of this section, the term “undistributed income” means, with respect to anyprivate foundation for any taxable year as of any time, the amount by which—
+For purposes of this section, the term “undistributed income” means, with respect to any private foundation for any taxable year as of any time, the amount by which—
 
 &emsp;(1) the distributable amount for such taxable year, exceeds
 
@@ -102,7 +102,7 @@ For purposes of this section, the term “distributable amount” means, with re
 
 #### (4) Transitional rule
 
-&emsp;For purposes of paragraph (2)(B), the basis (for purposes of determining gain) of property held by a private foundation on December 31, 1969, and continuously thereafter to the date of its disposition, shall be deemed to be not less than the fair market value of such property on December 31, 1969.
+&emsp;For purposes of paragraph (2)(B), the basis (for purposes of determining gain) of property held by a private foundation on December 31, 1969, and continuously thereafter to the date of its disposition, shall be deemed to be notless than the fair market value of such property on December 31, 1969.
 
 #### (g) Qualifying distributions defined
 
@@ -156,7 +156,7 @@ For purposes of this section, the term “distributable amount” means, with re
 
 &emsp;For purposes of this section, the term “qualifying distribution” includes a contribution to a section 501(c)(3) organization described in paragraph (1)(A)(i) or (ii) if—
 
-&emsp;&emsp;(A) not later than the close of the first taxable year after its taxable year in which such contribution is received, such organization makes a distribution equal to the amount of such contribution and such distribution is a qualifying distribution (within the meaning of paragraph (1) or (2), without regard to this paragraph) which is treated under subsection (h) as a distribution out ofcorpus (or would be so treated if such section 501(c)(3) organization were a private foundation which is not an operating foundation), and
+&emsp;&emsp;(A) not later than the close of the first taxable year after its taxable year in which such contribution is received, such organization makes a distribution equal to the amount of such contribution and such distribution is a qualifying distribution (within the meaning of paragraph (1) or (2), without regard to this paragraph) which is treated under subsection (h) as a distribution out of corpus (or would be so treated if such section 501(c)(3) organization were a private foundation which is not an operating foundation), and
 
 &emsp;&emsp;(B) the private foundation making the contribution obtains adequate records or other sufficient evidence from such organization showing that the qualifying distribution described in subparagraph (A) has been made by such organization.
 
@@ -238,7 +238,7 @@ For purposes of this section—
 
 #### (2) Allowable distribution period
 
-&emsp;The term “allowable distribution period” means, with respect to any private foundation, the period beginning with the first day of the first taxable year following the taxable year in which the incorrect valuation (described in subsection (a)(2)) occurred and ending 90 daysafter the date of mailing of a notice of deficiency (with respect to the tax imposed by subsection (a)) under section 6212 extended by—
+&emsp;The term “allowable distribution period” means, with respect to any private foundation, the period beginning with the first day of the first taxable year following the taxable year in which the incorrect valuation (described in subsection (a)(2)) occurred and ending 90 days after the date of mailing of a notice of deficiency (with respect to the tax imposed by subsection (a)) under section 6212 extended by—
 
 &emsp;&emsp;(A) any period in which a deficiency cannot be assessed under section 6213(a), and
 
@@ -300,9 +300,9 @@ Subsec. (j)(3). Pub. L. 97–34, §823(a)(2), (3), inserted in subpar. (A) “th
 
 1980—Subsec. (b). Pub. L. 96–596, §2(a)(1)(C), substituted “taxable period” for “correction period”.
 
-Subsec. (g)(2)(C)(ii). Pub. L. 96–596, §2(a)(4)(A), substituted “the correction period (as defined in section 4962(e))” for “the initial correction period provided in subsection (j)(2)”.
+Subsec. (g)(2)(C)(ii). Pub. L. 96–596, §2(a)(4)(A), substituted “the correction period (as defined in section4962(e))” for “the initial correction period provided in subsection (j)(2)”.
 
-Subsec. (j)(1). Pub. L. 96–596, §2(a)(2)(B), substituted provision ending the taxable period on the earlier of the date of mailing of a notice of deficiency with respect to the tax imposed by subsec. (a) of this sectionunder section 6212 of this title or the date on which the tax imposed by subsec. (a) of this section is assessed for provision ending the taxable period on the date of mailing the notice of deficiency with respect to a tax imposed by subsec. (a) of this section under section 6212 of this title.
+Subsec. (j)(1). Pub. L. 96–596, §2(a)(2)(B), substituted provision ending the taxable period on the earlier of the date of mailing of a notice of deficiency with respect to the tax imposed by subsec. (a) of this section under section 6212 of this title or the date on which the tax imposed by subsec. (a) of this section is assessed for provision ending the taxable period on the date of mailing the notice of deficiency with respect to a tax imposed by subsec. (a) of this section under section 6212 of this title.
 
 Subsec. (j)(2). Pub. L. 96–596, §2(a)(3)(B)(i), (iii), redesignated par. (4) as (2) and struck out former par. (2), which defined correction period, with respect to any private foundation for any taxable year, as the period beginning with the first day of the taxable year and ending 90 days after the date of mailing a notice of deficiency with respect to the tax imposed by subsec. (b) of this section under section 6212 of this title, extended by any period in which a deficiency cannot be assessed under section 6213(a) of this title and any other period which the Secretary determines is reasonable and necessary to permit a distribution of undistributed income.
 
@@ -364,5 +364,5 @@ Applicability of section to organizations organized before May 27, 1969, see sec
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 170, 508, 2055, 2503, 4940, 4943, 4948, 4963, 6110, 6213, 6501, 7422, 7428 of this title.
+This section is referred to in sections 150, 170, 508, 2055, 2503, 4940, 4943, 4948, 4963, 6110, 6213, 6501, 7422, 7428 of this title.
 

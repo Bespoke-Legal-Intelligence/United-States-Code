@@ -1,0 +1,12 @@
+### §1510. Applicability to Coast Guard
+
+(a)
+
+Designated Officer To Have Responsibility.—The Secretary of Transportation shall designate an officer of the Department of Transportation to have responsibility within the Department of Transportation for matters relating to missing persons who are members of the Coast Guard.
+
+(b)
+
+Procedures.—The Secretary of Transportation shall prescribe procedures for the determination of the status of persons described in section 1501(c) of this title who are members of the Coast Guard and for the collection, analysis, review, and update of information on such persons. To the maximum extent practicable, the procedures prescribed under this section shall be similar to the procedures prescribed by the Secretary of Defense under section 1501(b) of this title.
+
+(Added Pub. L. 104–106, div. A, title V, §569(b)(1), Feb. 10, 1996, 110 Stat. 349.)
+

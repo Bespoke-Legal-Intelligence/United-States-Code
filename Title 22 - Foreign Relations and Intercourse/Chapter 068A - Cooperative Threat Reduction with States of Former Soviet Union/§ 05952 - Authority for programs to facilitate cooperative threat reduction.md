@@ -64,6 +64,28 @@ The Secretary of State is authorized and directed to publish this memorandum in 
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### Authority To Conduct Program Relating to Fissile Materials
+
+Pub. L. 104–106, div. C, title XXXI, §3131, Feb. 10, 1996, 110 Stat. 617, provided that:
+
+“(a)
+
+Authority.—The Secretary of Energy may conduct programs designed to improve the protection, control, and accountability of fissile materials in Russia.
+
+“(b)
+
+Semi-Annual Reports on Obligation of Funds.—(1) Not later than 30 days after the date of the enactment of this Act \[Feb. 10, 1996\], and thereafter not later than April 1 and October 1 of each year, the Secretary of Energy shall submit to Congress a report on each obligation during the preceding six months of funds appropriated for a program described in subsection (a).
+
+“(2) Each such report shall specify—
+
+&emsp;“(A) the activities and forms of assistance for which the Secretary of Energy has obligated funds;
+
+&emsp;“(B) the amount of the obligation;
+
+&emsp;“(C) the activities and forms of assistance for which the Secretary anticipates obligating funds during the six months immediately following the report, and the amount of each such anticipated obligation; and
+
+&emsp;“(D) the projected involvement (if any) of any department or agency of the United States (in addition to the Department of Energy) and of the private sector of the United States in the activities and forms of assistance for which the Secretary of Energy has obligated funds referred to in subparagraph (A).”
+
 #### Cooperative Threat Reduction Programs Defined
 
 Pub. L. 103–337, div. A, title XII, §1201, Oct. 5, 1994, 108 Stat. 2882, provided that: “For purposes of section 301 \[108 Stat. 2706\] and other provisions of this Act \[see Tables for classification\], Cooperative Threat Reduction programs are the programs described in section 1203(b) of the Cooperative Threat Reduction Act of 1993 (title XII of Public Law 103–160; 107 Stat. 1778; 22 U.S.C. 5952(b)).”
@@ -116,5 +138,5 @@ Report.—Not later than June 1, 1994, the President shall submit to Congress a 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 5954, 5955, 5956, 5957 of this title.
+This section is referred to in sections 5954, 5955, 5956, 5957 of this title; title 10 section 115.
 

@@ -2,7 +2,7 @@
 
 The deduction of disability severance pay from disability compensation, as required by section 1212(c) of title 10, shall be made at a monthly rate not in excess of the rate of compensation to which the former member would be entitled based on the degree of such former member's disability as determined on the initial Department rating.
 
-(Added Pub. L. 91–241, May 7, 1970, 84 Stat. 203, §361; amended Pub. L. 94–433, title IV, §404(23), Sept. 30, 1976, 90 Stat. 1379; Pub. L. 98–160, titleVII, §702(4), Nov. 21, 1983, 97 Stat. 1009; renumbered §1161 and amended Pub. L. 102–83, §§4(a)(3), (4), 5(a), Aug. 6, 1991, 105 Stat. 404, 406.)
+(Added Pub. L. 91–241, May 7, 1970, 84 Stat. 203, §361; amended Pub. L. 94–433, title IV, §404(23), Sept. 30, 1976, 90 Stat. 1379; Pub. L. 98–160, title VII, §702(4), Nov. 21, 1983, 97 Stat. 1009; renumbered §1161 and amended Pub. L. 102–83, §§4(a)(3), (4), 5(a), Aug. 6, 1991, 105 Stat. 404, 406.)
 
 #### Amendments
 

@@ -88,10 +88,10 @@
 | (i) | Decisive votes. |
 | (j) | Other terms and conditions. |
 | (k) | Responsibilities of Board. |
-| (<i>l)</i> | Requirements. |
+| (<i>l</i>) | Requirements. |
 | (m) | Evaluation. |
 | (n) | Petitions. |
-| (<i>o)</i> | Confidentiality. |
+| (<i>o</i>) | Confidentiality. |
 | [6519\.](%C2%A7%2006519%20-%20Violations%20of%20chapter.md) | Violations of chapter. |
 | (a) | Misuse of label. |
 | (b) | False statement. |

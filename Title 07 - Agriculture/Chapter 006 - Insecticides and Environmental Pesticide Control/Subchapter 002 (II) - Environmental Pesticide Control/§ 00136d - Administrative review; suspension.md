@@ -1,10 +1,10 @@
 ### §136d. Administrative review; suspension
 
-#### (a) Cancellation after five years
+#### (a) Existing stocks and information
 
-#### (1) Procedure
+#### (1) Existing stocks
 
-&emsp;The Administrator shall cancel the registration of any pesticide at the end of the five-year period which begins on the date of its registration (or at the end of any five year period thereafter) unless the registrant, or other interested person with the concurrence of the registrant, before the end of such period, requests in accordance with regulations prescribed by the Administrator that the registration be continued in effect. The Administrator may permit the continued sale and use of existing stocks of a pesticide whose registration is canceled under this subsection or subsection (b) of this section to such extent, under such conditions, and for such uses as the Administrator may specify if the Administrator determines that such sale or use is not inconsistent with the purposes of this subchapter and will not have unreasonable adverse effects on the environment. The Administrator shall publish in the Federal Register, at least 30 days prior to the expiration of such five-year period, notice that the registration will be canceled if the registrant or other interested person with the concurrence of the registrant does not request that the registration be continued in effect.
+&emsp;The Administrator may permit the continued sale and use of existing stocks of a pesticide whose registration is suspended or canceled under this section, or section 136a or 136a–1 of this title, to such extent, under such conditions, and for such uses as the Administrator determines that such sale or use is not inconsistent with the purposes of this subchapter.
 
 #### (2) Information
 
@@ -18,13 +18,13 @@ If it appears to the Administrator that a pesticide or its labeling or other mat
 
 &emsp;(2) to hold a hearing to determine whether or not its registration should be canceled or its classification changed.
 
-> Such notice shall be sent to the registrant and made public. In determining whether to issue any such notice, the Administrator shall include among those factors to be taken into account the impact of the action proposed in such notice on production and prices of agricultural commodities, retail food prices, and otherwise on the agricultural economy. At least 60 days prior to sending such notice to the registrant or making public such notice, whichever occurs first, the Administrator shall provide the Secretary of Agriculture with a copy of such notice and an analysis of such impact on the agricultural economy. If the Secretary comments in writing to the Administrator regarding the notice and analysis within 30 days after receiving them, the Administrator shall publish in the Federal Register (with the notice) the comments of the Secretary and the response of the Administrator with regard to the Secretary's comments. If the Secretary does not comment in writing to the Administrator regarding the notice and analysis within 30 days after receiving them, the Administrator may notify the registrant and make public the notice at any time after such 30-day period notwithstanding the foregoing 60-day time requirement. The time requirements imposed by the preceding 3 sentences may be waived or modified to the extent agreed upon by the Administrator and the Secretary. Notwithstanding any other provision of this subsection and section 136w(d) of this title, in the event that the Administrator determines that suspension of a pesticide registration is necessary to prevent an imminent hazard to human health, then upon such a finding the Administrator may waive the requirement of notice to and consultation with the Secretary of Agriculture pursuant to this subsection and of submission to the Scientific Advisory Panel pursuant to section 136w(d) of this title and proceed in accordance with subsection (c) of this section. The proposed action shall become final and effective at the end of 30 days from receipt by the registrant, or publication, of a notice issued under paragraph (1), whichever occurs later, unless within that time either (i) the registrant makes the necessary corrections, if possible, or (ii) a request for a hearing is made by a person adversely affected by the notice. In the event a hearing is held pursuant to such a request or to the Administrator's determination under paragraph (2), a decision pertaining to registration or classification issued after completion of such hearing shall be final. In taking any final action under this subsection, the Administrator shall consider restricting a pesticide's use or uses as an alternative to cancellation and shall fully explain the reasons for these restrictions, and shall include among those factors to be taken into account the impact of such final action on production and prices of agricultural commodities, retail food prices, and otherwise on the agricultural economy, and the Administrator shall publish in the Federal Register an analysis of such impact.
+> Such notice shall be sent to the registrant and made public. In determining whether to issue any such notice, the Administrator shall include among those factors to be taken into account the impact of the action proposed in such notice on production and prices of agricultural commodities, retail food prices, and otherwise on the agricultural economy. At least 60 days prior to sending such notice to the registrant or making public such notice, whichever occurs first, the Administrator shall provide the Secretary of Agriculture with a copy of such notice and an analysis of such impact on the agricultural economy. If the Secretary comments in writing to the Administrator regarding the notice and analysis within 30 days after receiving them, the Administrator shall publish in the Federal Register (with the notice) the comments of the Secretary and the response of the Administrator with regard to the Secretary's comments. If the Secretary does not comment in writing to the Administrator regarding the notice and analysis within 30 days after receiving them, the Administrator may notify the registrant and make public the notice at any time after such 30-day period notwithstanding the foregoing 60-day time requirement. The time requirements imposed by the preceding 3 sentences may be waived or modified to the extent agreed upon by the Administrator and the Secretary. Notwithstanding any other provision of this subsection and section 136w(d) of this title, in the event that the Administrator determines that suspension of a pesticide registration is necessary to prevent an imminent hazard to human health, then upon such a finding the Administrator may waive the requirement of notice to and consultation with the Secretary of Agriculture pursuant to this subsection and of submission to the Scientific Advisory Panel pursuant to section 136w(d) of this title and proceed in accordance with subsection (c) of this section. When a public health use is affected, the Secretary of Health and Human Services should provide available benefits and use information, or an analysis thereof, in accordance with the procedures followed and subject to the same conditions as the Secretary of Agriculture in the case of agricultural pesticides. The proposed action shall become final and effective at the end of 30 days from receipt by the registrant, or publication, of a notice issued under paragraph (1), whichever occurs later, unless within that time either (i) the registrant makes the necessary corrections, if possible, or (ii) a request for a hearing is made by a person adversely affected by the notice. In the event a hearing is held pursuant to such a request or to the Administrator's determination under paragraph (2), a decision pertaining to registration or classification issued after completion of such hearing shall be final. In taking any final action under this subsection, the Administrator shall consider restricting a pesticide's use or uses as an alternative to cancellation and shall fully explain the reasons for these restrictions, and shall include among those factors to be taken into account the impact of such final action on production and prices of agricultural commodities, retail food prices, and otherwise on the agricultural economy, and the Administrator shall publish in the Federal Register an analysis of such impact.
 
 #### (c) Suspension
 
 #### (1) Order
 
-&emsp;If the Administrator determines that action is necessary to prevent an imminent hazard during the time required for cancellation or change in classification proceedings, the Administrator may, by order, suspend the registration of the pesticide immediately. No order of suspension may be issued unless the Administrator has issued or at the same time issues notice of the Administrator's intention to cancel the registration or change the classification of the pesticide. Except as provided in paragraph (3), the Administrator shall notify the registrant prior to issuing any suspension order. Such notice shall include findings pertaining to the question of “imminent hazard”. The registrant shall then have an opportunity, in accordance with the provisions of paragraph (2), for an expedited hearing before the Administrator on the question of whether an imminent hazard exists.
+&emsp;If the Administrator determines that action is necessary to prevent an imminent hazard during the time required for cancellation or change in classification proceedings, the Administrator may, by order, suspend the registration of the pesticide immediately. Except as provided in paragraph (3), no order of suspension may be issued under this subsection unless the Administrator has issued, or at the same time issues, a notice of intention to cancel the registration or change the classification of the pesticide under subsection (b) of this section. Except as provided in paragraph (3), the Administrator shall notify the registrant prior to issuing any suspension order. Such notice shall include findings pertaining to the question of “imminent hazard”. The registrant shall then have an opportunity, in accordance with the provisions of paragraph (2), for an expedited hearing before the Administrator on the question of whether an imminent hazard exists.
 
 #### (2) Expedite hearing
 
@@ -32,7 +32,7 @@ If it appears to the Administrator that a pesticide or its labeling or other mat
 
 #### (3) Emergency order
 
-&emsp;Whenever the Administrator determines that an emergency exists that does not permit the Administrator to hold a hearing before suspending, the Administrator may issue a suspension order in advance of notification to the registrant. In that case, paragraph (2) shall apply except that (A) the order of suspension shall be in effect pending the expeditious completion of the remedies provided by that paragraph and the issuance of a final order on suspension, and (B) no party other than the registrant and the Administrator shall participate except that any person adversely affected may file briefs within the time allotted by the Agency's rules. Any person so filing briefs shall be considered a party to such proceeding for the purposes of section 136n(b) of this title.
+&emsp;Whenever the Administrator determines that an emergency exists that does not permit the Administrator to hold a hearing before suspending, the Administrator may issue a suspension order in advance of notification to the registrant. The Administrator may issue an emergency order under this paragraph before issuing a notice of intention to cancel the registration or change the classification of the pesticide under subsection (b) of this section and the Administrator shall proceed to issue the notice under subsection (b) of this section within 90 days of issuing an emergency order. If the Administrator does not issue a notice under subsection (b) of this section within 90 days of issuing an emergency order, the emergency order shall expire. In the case of an emergency order, paragraph (2) shall apply except that (A) the order of suspension shall be in effect pending the expeditious completion of the remedies provided by that paragraph and the issuance of a final order on suspension, and (B) no party other than the registrant and the Administrator shall participate except that any person adversely affected may file briefs within the time allotted by the Agency's rules. Any person so filing briefs shall be considered a party to such proceeding for the purposes of section 136n(b) of this title.
 
 #### (4) Judicial review
 
@@ -54,13 +54,13 @@ In the event a hearing is requested pursuant to subsection (b) of this section o
 
 &emsp;(A) A registrant may, at any time, request that a pesticide registration of the registrant be canceled or amended to terminate one or more pesticide uses.
 
-&emsp;(B) Before acting on a request under subparagraph (A), the Administrator shall publish in the Federal Register a notice of the receiptof the request and provide for a 30-day period in which the public may comment.
+&emsp;(B) Before acting on a request under subparagraph (A), the Administrator shall publish in the Federal Register a notice of the receipt of the request and provide for a 30-day period in which the public may comment.
 
 &emsp;(C) In the case of a pesticide that is registered for a minor agricultural use, if the Administrator determines that the cancellation or termination of uses would adversely affect the availability of the pesticide for use, the Administrator—
 
 &emsp;&emsp;(i) shall publish in the Federal Register a notice of the receipt of the request and make reasonable efforts to inform persons who so use the pesticide of the request; and
 
-&emsp;&emsp;(ii) may not approve or reject the request until the termination of the 90-day period beginning on the date of publication of the notice in the Federal Register, except that the Administrator may waive the 90-day period upon the request of the registrant or if the Administrator determines that the continued use of the pesticide would pose an unreasonable adverse effect on the environment.
+&emsp;&emsp;(ii) may not approve or reject the request until the termination of the 180-day period beginning on the date of publication of the notice in the Federal Register, except that the Administrator may waive the 180-day period upon the request of the registrant or if the Administrator determines that the continued use of the pesticide would pose an unreasonable adverse effect on the environment.
 
 &emsp;(D) Subject to paragraph (3)(B), after complying with this paragraph, the Administrator may approve or deny the request.
 
@@ -72,13 +72,17 @@ In the event a hearing is requested pursuant to subsection (b) of this section o
 
 &emsp;In the case of a pesticide that is registered for a minor agricultural use:
 
-&emsp;&emsp;(A) During the 90-day period referred to in paragraph (1)(C)(ii), the registrant of the pesticide may notify the Administrator of an agreement between the registrant and a person or persons (including persons who so use the pesticide) to transfer the registration of the pesticide, in lieu of canceling or amending the registration to terminate the use.
+&emsp;&emsp;(A) During the 180-day period referred to in paragraph (1)(C)(ii), the registrant of the pesticide may notify the Administrator of an agreement between the registrant and a person or persons (including persons who so use the pesticide) to transfer the registration of the pesticide, in lieu of canceling or amending the registration to terminate the use.
 
 &emsp;&emsp;(B) An application for transfer of registration, in conformance with any regulations the Administrator may adopt with respect to the transfer of the pesticide registrations, must be submitted to the Administrator within 30 days of the date of notification provided pursuant to subparagraph (A). If such an application is submitted, the Administrator shall approve the transfer and shall not approve the request for voluntary cancellation or amendment to terminate use unless the Administrator determines that the continued use of the pesticide would cause an unreasonable adverse effect on the environment.
 
 &emsp;&emsp;(C) If the Administrator approves the transfer and the registrant transfers the registration of the pesticide, the Administrator shall not cancel or amend the registration to delete the use or rescind the transfer of the registration, during the 180-day period beginning on the date of the approval of the transfer unless the Administrator determines that the continued use of the pesticide would cause an unreasonable adverse effect on the environment.
 
 &emsp;&emsp;(D) The new registrant of the pesticide shall assume the outstanding data and other requirements for the pesticide that are pending at the time of the transfer.
+
+#### (4) Utilization of data for voluntarily canceled pesticide
+
+&emsp;When an application is filed with the Administrator for the registration of a pesticide for a minor use and another registrant subsequently voluntarily cancels its registration for an identical or substantially similar pesticide for an identical or substantially similar use, the Administrator shall process, review, and evaluate the pending application as if the voluntary cancellation had not yet taken place except that the Administrator shall not take such action if the Administrator determines that such minor use may cause an unreasonable adverse effect on the environment. In order to rely on this subsection, the applicant must certify that it agrees to satisfy any outstanding data requirements necessary to support the reregistration of the pesticide in accordance with the data submission schedule established by the Administrator.
 
 #### (g) Notice for stored pesticides with canceled or suspended registrations
 
@@ -100,7 +104,7 @@ In the event a hearing is requested pursuant to subsection (b) of this section o
 
 Final orders of the Administrator under this section shall be subject to judicial review pursuant to section 136n of this title.
 
-(June 25, 1947, ch. 125, §6, as added Oct. 21, 1972, Pub. L. 92–516, §2, 86 Stat. 984; amended Nov. 28, 1975, Pub. L. 94–140, §1, 89 Stat. 751; Mar. 27, 1978, Pub. L. 95–251, §2(a)(2), 92 Stat. 183; Sept. 30, 1978, Pub. L. 95–396, §§11, 12, 92 Stat. 828; Nov. 8, 1984, Pub. L. 98–620, title IV, §402(4)(A), 98 Stat. 3357; Oct. 25, 1988, Pub. L. 100–532, title II, §201, title IV, §404, title VIII, §801(e), (q)(2)(B), 102 Stat. 2668, 2673, 2681, 2683; Nov. 28, 1990, Pub. L. 101–624, title XIV, §1494, 104 Stat. 3628; Dec. 13, 1991, Pub. L. 102–237, title X, §1006(a)(5), (b)(1), (2), (3)(C)–(E), 105 Stat. 1895, 1896.)
+(June 25, 1947, ch. 125, §6, as added Oct. 21, 1972, Pub. L. 92–516, §2, 86 Stat. 984; amended Nov. 28, 1975, Pub. L. 94–140, §1, 89 Stat. 751; Mar. 27, 1978, Pub. L. 95–251, §2(a)(2), 92 Stat. 183; Sept. 30, 1978, Pub. L. 95–396, §§11, 12, 92 Stat. 828; Nov. 8, 1984, Pub. L. 98–620, title IV, §402(4)(A), 98 Stat. 3357; Oct. 25, 1988, Pub. L. 100–532, title II, §201, title IV, §404, title VIII, §801(e), (q)(2)(B), 102 Stat. 2668, 2673, 2681, 2683; Nov. 28, 1990, Pub. L. 101–624, title XIV, §1494, 104 Stat. 3628; Dec. 13, 1991, Pub. L. 102–237, title X, §1006(a)(5), (b)(1), (2), (3)(C)–(E), 105 Stat. 1895, 1896; Aug. 3, 1996, Pub. L. 104–170, title I, §§102, 106(a), title II, §§210(g), (h), 233, 110 Stat. 1489, 1491, 1500, 1509.)
 
 #### Codification
 
@@ -111,6 +115,22 @@ Final orders of the Administrator under this section shall be subject to judicia
 A prior section 6 of act June 25, 1947, was classified to section 135d of this title prior to amendment of act June 25, 1947, by Pub. L. 92–516.
 
 #### Amendments
+
+1996—Subsec. (a). Pub. L. 104–170, §106(a)(1), substituted “Existing stocks and information” for “Cancellation after five years” in heading.
+
+Subsec. (a)(1). Pub. L. 104–170, §106(a)(2), amended heading and text generally. Prior to amendment, text read as follows: “The Administrator shall cancel the registration of any pesticide at the end of the five-year period which begins on the date of its registration (or at the end of any five year period thereafter) unless the registrant, or other interested person with the concurrence of the registrant, before the end of such period, requests in accordance with regulations prescribed by the Administrator that the registration be continued in effect. The Administrator may permit the continued sale and use of existing stocks of a pesticide whose registration is canceled under this subsection or subsection (b) of this section to such extent, under such conditions, and for such uses as the Administrator may specify if the Administrator determines that such sale or use is not inconsistent with the purposes of this subchapter and will not have unreasonable adverse effects on the environment. The Administrator shall publish in the Federal Register, at least 30 days prior to the expiration of such five-year period, notice that the registration will be canceled if the registrant or other interested person with the concurrence of the registrant does not request that the registration be continued in effect.”
+
+Subsec. (b). Pub. L. 104–170, §233, inserted “When a public health use is affected, the Secretary of Health and Human Services should provide available benefits and use information, or an analysis thereof, in accordance with the procedures followed and subject to the same conditions as the Secretary of Agriculture in the case of agricultural pesticides.” before “The proposed action shall become final”.
+
+Subsec. (c)(1). Pub. L. 104–170, §102(a), amended second sentence generally. Prior to amendment, second sentence read as follows: “No order of suspension may be issued unless the Administrator has issued or at the same time issues notice of the Administrator's intention to cancel the registration or change the classification of the pesticide.”
+
+Subsec. (c)(3). Pub. L. 104–170, §102(b), inserted after first sentence “The Administrator may issue an emergency order under this paragraph before issuing a notice of intention to cancel the registration or change the classification of the pesticide under subsection (b) of this section and the Administrator shall proceed to issue the notice under subsection (b) of this section within 90 days of issuing an emergency order. If the Administrator does not issue a notice under subsection (b) of this section within 90 days of issuing an emergency order, the emergency order shall expire.” and substituted “In the case of an emergency order” for “In that case”.
+
+Subsec. (f)(1)(C)(ii). Pub. L. 104–170, §210(g)(1), substituted “180-day” for “90-day” in two places.
+
+Subsec. (f)(3)(A). Pub. L. 104–170, §210(g)(2), substituted “180-day” for “90-day”.
+
+Subsec. (f)(4). Pub. L. 104–170, §210(h), added par. (4).
 
 1991—Subsec. (a)(1). Pub. L. 102–237, §1006(b)(1), substituted “the Administrator” for “he” before “may specify” and before “determines”.
 
@@ -146,7 +166,7 @@ Subsec. (h). Pub. L. 100–532, §201, redesignated former subsec. (f) as (h).
 
 1984—Subsec. (c)(4). Pub. L. 98–620 struck out provisions requiring petitions to review orders on the issue of suspension to be advanced on the docket of the court of appeals.
 
-1978—Subsec. (b). Pub. L. 95–396, §11, required the Administrator, in taking any final action under subsec. (b), to consider restricting a pesticide's use or uses as an alternative to cancellation and to fully explain the reasons for the restrictions.
+1978—Subsec. (b). Pub. L. 95–396, §11, required the Administrator, in taking any final action under subsec.\(b), to consider restricting a pesticide's use or uses as an alternative to cancellation and to fully explain the reasons for the restrictions.
 
 Subsec. (c)(2). Pub. L. 95–251 substituted “administrative law judge” for “hearing examiner”.
 
@@ -168,5 +188,5 @@ For effective date of section, see section 4 of Pub. L. 92–516, set out as a n
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 136a–1, 136m, 136<i>o</i>, 136w of this title.
+This section is referred to in sections 136a, 136a–1, 136m, 136<i>o</i>, 136w of this title.
 

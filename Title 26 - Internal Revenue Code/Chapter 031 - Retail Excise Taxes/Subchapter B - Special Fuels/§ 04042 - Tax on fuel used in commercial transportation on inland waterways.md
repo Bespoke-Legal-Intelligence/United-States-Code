@@ -22,43 +22,17 @@ There is hereby imposed a tax on any liquid used during any calendar quarter by 
 
 &emsp;&emsp;(A) The Inland Waterways Trust Fund financing rate is the rate determined in accordance with the following table:
 
-<b> </b>
+&nbsp;
 
-<b>The tax per</b>
-
-<b>  If the use occurs:</b>
-
-<b>gallon is:</b>
-
-&emsp;&emsp;Before 1990
-
-10 cents&nbsp;
-
-&emsp;&emsp;During 1990
-
-11 cents&nbsp;
-
-&emsp;&emsp;During 1991
-
-13 cents&nbsp;
-
-&emsp;&emsp;During 1992
-
-15 cents&nbsp;
-
-&emsp;&emsp;During 1993
-
-17 cents&nbsp;
-
-&emsp;&emsp;During 1994
-
-19 cents&nbsp;
-
-&emsp;&emsp;After 1994
-
-20 cents.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+| <b>  If the use occurs:</b> | <b>The tax pergallon is:</b> |
+| :--- | ---: |
+| &nbsp;&nbsp;&nbsp;Before 1990 | 10 cents&nbsp;&nbsp; |
+| &nbsp;&nbsp;&nbsp;During 1990 | 11 cents&nbsp;&nbsp; |
+| &nbsp;&nbsp;&nbsp;During 1991 | 13 cents&nbsp;&nbsp; |
+| &nbsp;&nbsp;&nbsp;During 1992 | 15 cents&nbsp;&nbsp; |
+| &nbsp;&nbsp;&nbsp;During 1993 | 17 cents&nbsp;&nbsp; |
+| &nbsp;&nbsp;&nbsp;During 1994 | 19 cents&nbsp;&nbsp; |
+| &nbsp;&nbsp;&nbsp;After 1994 | 20 cents. |
 
 &emsp;&emsp;(B) The Leaking Underground Storage Tank Trust Fund financing rate is 0.1 cent per gallon.
 
@@ -122,7 +96,7 @@ Section 206 of the Inland Waterways Revenue Act of 1978, referred to in subsec. 
 
 #### Prior Provisions
 
-A prior section 4042, act Aug. 16, 1954, ch. 736, 68A Stat. 478, provided a cross reference to section 4222 ofthis title for exemption from tax where special motor fuels are sold for use for certain vessels, prior to repeal by Pub. L. 94–455, title XIX, §1904(a)(1)(D), Oct. 4, 1976, 90 Stat. 1811.
+A prior section 4042, act Aug. 16, 1954, ch. 736, 68A Stat. 478, provided a cross reference to section 4222 of this title for exemption from tax where special motor fuels are sold for use for certain vessels, prior to repeal by Pub. L. 94–455, title XIX, §1904(a)(1)(D), Oct. 4, 1976, 90 Stat. 1811.
 
 #### Amendments
 
@@ -140,9 +114,8 @@ Subsec. (b)(2)(C). Pub. L. 103–66, §13241(d)(2), added subpar. (C).
 
 &nbsp;
 
-| &nbsp; | &nbsp; |
-| :--- | ---: |
 | <b>“If the use occurs—</b> | <b>The tax is—</b> |
+| :--- | ---: |
 | After September 30, 1980 and before October 1, 1981 | 4 cents a gallon&nbsp;&nbsp; |
 | After September 30, 1981 and before October 1, 1983 | 6 cents a gallon&nbsp;&nbsp; |
 | After September 30, 1983 and before October 1, 1985 | 8 cents a gallon&nbsp;&nbsp; |

@@ -36,7 +36,7 @@
 
 &emsp;&emsp;&emsp;(IV) a physician with knowledge or skill in the field of neurology, and
 
-&emsp;&emsp;&emsp;(V) from each transplant center in its service area which has arrangements described in paragraph (2)(G) <sup>1</sup> with the organization, a member who is a surgeon who has practicing privileges in such centerand who performs organ transplant surgery,
+&emsp;&emsp;&emsp;(V) from each transplant center in its service area which has arrangements described in paragraph (2)(G) <sup>1</sup> with the organization, a member who is a surgeon who has practicing privileges in such center and who performs organ transplant surgery,
 
 &emsp;&emsp;(ii) has the authority to recommend policies for the procurement of organs and the other functions described in paragraph (2),<sup>1</sup> and
 

@@ -54,7 +54,7 @@ This section incorporates only the last sentence of paragraph (b) of former sect
 
 #### Amendments
 
-1988—Pub. L. 100–365 substituted “appointment and tenure; meetings” for “appointment and tenure” insection catchline, and amended text generally, revising and restating as subsecs. (a) to (c) provisions formerly contained in a single undesignated paragraph.
+1988—Pub. L. 100–365 substituted “appointment and tenure; meetings” for “appointment and tenure” in section catchline, and amended text generally, revising and restating as subsecs. (a) to (c) provisions formerly contained in a single undesignated paragraph.
 
 1984—Pub. L. 98–497 struck out “The authority of the Administrator of General Services under section 754 of title 40 to regroup, transfer, and distribute functions within the General Services Administration does not extend to the Commission or its functions.”
 

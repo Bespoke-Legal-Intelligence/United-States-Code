@@ -22,7 +22,11 @@
 
 #### (3) Termination
 
-&emsp;(A) On and after January 1, 1996, the rate of tax specified in paragraph (1) shall be 4.3 cents per gallon.
+&emsp;(A) The rate of tax specified in paragraph (1) shall be 4.3 cents per gallon—
+
+&emsp;&emsp;(i) after December 31, 1995, and before the date which is 7 calendar days after the date of the enactment of the Small Business Job Protection Act of 1996, and
+
+&emsp;&emsp;(ii) after December 31, 1996.
 
 &emsp;(B) The Leaking Underground Storage Tank Fund financing rate shall not apply during any period during which the Leaking Underground Storage Tank Trust Fund financing rate under section 4081 does not apply.
 
@@ -56,13 +60,19 @@ Under regulations prescribed by the Secretary—
 
 &emsp;Paragraphs (1) and (2) shall not apply to any sale after September 30, 2000.
 
-(Added Pub. L. 100–203, title X, §10502(a), Dec. 22, 1987, 101 Stat. 1330–438; amended Pub. L. 100–203, title X, §10502(g), Dec. 22, 1987, 101 Stat. 1330–446; Pub. L. 100–647, title II, §2001(d)(6)(A)–(C), Nov. 10, 1988, 102 Stat. 3596; Pub. L. 101–508, title XI, §§11211(b)(1), (2), (6)(A), (B), (c)(4), (e)(4), 11213(b)(1), (2)(C), (D), (d)(2)(A), 11704(a)(38), Nov. 5, 1990, 104 Stat. 1388–424 to 1388–427, 1388–432, 1388–433, 1388–435, 1388–520; Pub. L. Pub. L. 102–240, title VIII, §8002(a)(4), Dec. 18, 1991, 105 Stat. 2203; Pub. L. 103–66, title XIII, §§13241(b)(1), (2)(B)(i), (ii), 13242(a), Aug. 10, 1993, 107 Stat. 510, 518.)
+(Added Pub. L. 100–203, title X, §10502(a), Dec. 22, 1987, 101 Stat. 1330–438; amended Pub. L. 100–203, title X, §10502(g), Dec. 22, 1987, 101 Stat. 1330–446; Pub. L. 100–647, title II, §2001(d)(6)(A)–(C), Nov. 10, 1988, 102 Stat. 3596; Pub. L. 101–508, title XI, §§11211(b)(1), (2), (6)(A), (B), (c)(4), (e)(4), 11213(b)(1), (2)(C), (D), (d)(2)(A), 11704(a)(38), Nov. 5, 1990, 104 Stat. 1388–424 to 1388–427, 1388–432, 1388–433, 1388–435, 1388–520; Pub. L. Pub. L. 102–240, title VIII, §8002(a)(4), Dec. 18, 1991, 105 Stat. 2203; Pub. L. 103–66, title XIII, §§13241(b)(1), (2)(B)(i), (ii), 13242(a), Aug. 10, 1993, 107 Stat. 510, 518; Pub. L. 104–188, title I, §1609(a)(1), Aug. 20, 1996, 110 Stat. 1841.)
+
+#### References in Text
+
+The date of the enactment of the Small Business Job Protection Act of 1996, referred to in subsec. (b)(3)(A)(i), is the date of enactment of Pub. L. 104–188, which was approved Aug. 20, 1996.
 
 #### Prior Provisions
 
 A prior section 4091, acts Aug. 16, 1954, ch. 736, 68A Stat. 483; Aug. 11, 1955, ch. 793, §1(a), 69 Stat. 676; June 21, 1965, Pub. L. 89–44, title II, §202(a), 79 Stat. 137, imposed a tax of 6 cents a gallon on lubricating oil (other than cutting oils) sold in the United States by the manufacturer or producer to be paid by the manufacturer or producer, prior to repeal by Pub. L. 97–424, title V, §515(a), (c), Jan. 6, 1983, 96 Stat. 2181, applicable with respect to articles sold after Jan. 6, 1983.
 
 #### Amendments
+
+1996—Subsec. (b)(3)(A). Pub. L. 104–188 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “On and after January 1, 1996, the rate of tax specified in paragraph (1) shall be 4.3 cents per gallon.”
 
 1993—Pub. L. 103–66, §13242(a), amended section generally, substituting subsecs. (a) to (c) relating to tax on aviation fuel for former subsecs. (a) to (e) relating to tax on taxable fuels including aviation and diesel fuel.
 
@@ -120,6 +130,10 @@ Subsec. (c)(2). Pub. L. 100–647, §2001(d)(6)(C), as amended by Pub. L. 101–
 
 1987—Subsec. (b)(5)(B). Pub. L. 100–203, §10502(g), substituted “1991” for “1988”.
 
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–188 effective on 7th calendar day after Aug. 20, 1996, see section 1609(i) of Pub. L. 104–188, set out as a note under section 4041 of this title.
+
 #### Effective Date of 1993 Amendment
 
 Amendment by section 13241(b)(1), (2)(B)(i), (ii) of Pub. L. 103–66 effective Oct. 1, 1993, see section 13241(g) of Pub. L. 103–66, set out as a note under section 4041 of this title.
@@ -145,6 +159,88 @@ Section 10502(g) of Pub. L. 100–203 provided that: “If the Airport and Airwa
 Subpart applicable to sales after Mar. 31, 1988, see section 10502(e) of Pub. L. 100–203, set out as an Effective Date of 1987 Amendment note under section 40 of this title.
 
 #### Floor Stocks Tax
+
+Section 1609(h) of Pub. L. 104–188 provided that:
+
+“(1)
+
+Imposition of tax.—In the case of aviation fuel on which tax was imposed under section 4091 of the Internal Revenue Code of 1986 before the tax-increase date described in paragraph (3)(A)(i) \[probably means (3)(A)\] and which is held on such date by any person, there is hereby imposed a floor stocks tax of 17.5 cents per gallon.
+
+“(2)
+
+Liability for tax and method of payment.—
+
+&emsp;“(A)
+
+Liability for tax.—A person holding aviation fuel on a tax-increase date to which the tax imposed by paragraph (1) applies shall be liable for such tax.
+
+&emsp;“(B)
+
+Method of payment.—The tax imposed by paragraph (1) shall be paid in such manner as the Secretary shall prescribe.
+
+&emsp;“(C)
+
+Time for payment.—The tax imposed by paragraph (1) with respect to any tax-increase date shall be paid on or before the first day of the 7th month beginning after such tax-increase date.
+
+“(3)
+
+Definitions.—For purposes of this subsection—
+
+&emsp;“(A)
+
+Tax increase date.—The term ‘tax-increase date’ means the date which is 7 calendar days after the date of the enactment of this Act \[Aug. 20, 1996\].
+
+&emsp;“(B)
+
+Aviation fuel.—The term ‘aviation fuel’ has the meaning given such term by section 4093 of such Code.
+
+&emsp;“(C)
+
+Held by a person.—Aviation fuel shall be considered as ‘held by a person’ if title thereto has passed to such person (whether or not delivery to the person has been made).
+
+&emsp;“(D)
+
+Secretary.—The term ‘Secretary’ means the Secretary of the Treasury or his delegate.
+
+“(4)
+
+Exception for exempt uses.—The tax imposed by paragraph (1) shall not apply to aviation fuel held by any person on any tax-increase date exclusively for any use for which a credit or refund of the entire tax imposed by section 4091 of such Code is allowable for aviation fuel purchased on or after such tax-increase date for such use.
+
+“(5)
+
+Exception for certain amounts of fuel.—
+
+&emsp;“(A)
+
+In general.—No tax shall be imposed by paragraph (1) on aviation fuel held on any tax-increase date by any person if the aggregate amount of aviation fuel held by such person on such date does not exceed 2,000 gallons. The preceding sentence shall apply only if such person submits to the Secretary (at the time and in the manner required by the Secretary) such information as the Secretary shall require for purposes of this paragraph.
+
+&emsp;“(B)
+
+Exempt fuel.—For purposes of subparagraph (A), there shall not be taken into account fuel held by any person which is exempt from the tax imposed by paragraph (1) by reason of paragraph (4).
+
+&emsp;“(C)
+
+Controlled groups.—For purposes of this paragraph—
+
+&emsp;&emsp;“(i)
+
+Corporations.—
+
+&emsp;&emsp;&emsp;“(I)
+
+In general.—All persons treated as a controlled group shall be treated as 1 person.
+
+&emsp;&emsp;&emsp;“(II)
+
+Controlled group.—The term ‘controlled group’ has the meaning given to such term by subsection (a) of section 1563 of such Code; except that for such purposes the phrase ‘more than 50 percent’ shall be substituted for the phrase ‘at least 80 percent’ each place it appears in such subsection.
+
+&emsp;&emsp;“(ii)
+
+Nonincorporated persons under common control.—Under regulations prescribed by the Secretary, principles similar to the principles of clause (i) shall apply to a group of persons under common control where 1 or more of such persons is not a corporation.
+
+“(6)
+
+Other law applicable.—All provisions of law, including penalties, applicable with respect to the taxes imposed by section 4091 of such Code shall, insofar as applicable and not inconsistent with the provisions of this subsection, apply with respect to the floor stock taxes imposed by paragraph (1) to the same extent as if such taxes were imposed by such section 4091.”
 
 Section 13245 of Pub. L. 103–66 provided that:
 

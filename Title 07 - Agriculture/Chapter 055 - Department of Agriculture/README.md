@@ -9,7 +9,7 @@
 | [2204a.](%C2%A7%2002204a%20-%20Rural%20development%3B%20utilization%20of%20non-Federal%20offices%3B%20location%20of%20field%20units%3B%20interchange%20of%20personnel%20and%20facilities.md) | Rural development; utilization of non-Federal offices; location of field units; interchange of personnel and facilities. |
 | [2204b.](%C2%A7%2002204b%20-%20Rural%20development%20policy.md) | Rural development policy. |
 | (a) | Coordination of nationwide rural development program using services of executive branch departments and agencies and State and local governments. |
-| (b) | Policy development; systematic review of Federal programs; access to information; development of process to receive and assess needs, goals, etc.; cooperative efforts with Federal departments and agencies; public hearings and comments. |
+| (b) | Policy development; systematic review of Federal programs; access to information; development of process to receive and assess needs, goals, etc.; cooperative agreements to improve Federal programs affecting rural areas; public hearings and comments. |
 | (c) | Rural development strategy and annual updates; preparation and scope; purposes; time for updates; public hearings and suggestions and recommendations; transmittal to Congressional committees; analysis of budgetary considerations and factors; evaluation and recommendations regarding implementation and revisions. |
 | (d) | Strategy implementation; goals. |
 | [2204c.](%C2%A7%2002204c%20-%20Water%20management%20for%20rural%20areas.md) | Water management for rural areas. |
@@ -27,8 +27,14 @@
 | (a) | Office of Risk Assessment and Cost-Benefit Analysis. |
 | (b) | Functions. |
 | (c) | “Major regulation” defined. |
+| [2204f.](%C2%A7%2002204f%20-%20Fund%20for%20Rural%20America.md) | Fund for Rural America. |
+| (a) | In general. |
+| (b) | Funding. |
+| (c) | Activities. |
+| (d) | Limitations. |
 | [2205\.](%C2%A7%2002205%20-%20Duties%20of%20former%20Commissioner%20of%20Agriculture%20transferred%20to%20Secretary.md) | Duties of former Commissioner of Agriculture transferred to Secretary. |
 | [2206\.](%C2%A7%2002206%20-%20Custody%20of%20property%20and%20records.md) | Custody of property and records. |
+| [2206a.](%C2%A7%2002206a%20-%20Conveyance%20of%20excess%20Federal%20personal%20property.md) | Conveyance of excess Federal personal property. |
 | [2207\.](%C2%A7%2002207%20-%20Reports.md) | Reports. |
 | [2207a.](%C2%A7%2002207a%20-%20Reports%20to%20Congress%20on%20obligation%20and%20expenditure.md) | Reports to Congress on obligation and expenditure. |
 | [2208\.](%C2%A7%2002208%20-%20Expenditure%20of%20appropriations%3B%20accounting.md) | Expenditure of appropriations; accounting. |
@@ -101,8 +107,16 @@
 | [2258\.](%C2%A7%2002258%20-%20Purchase%20of%20newspapers.md) | Purchase of newspapers. |
 | [2259\.](%C2%A7%2002259%20-%20Market-inspection%20certificates%20as%20prima%20facie%20evidence.md) | Market-inspection certificates as prima facie evidence. |
 | [2260\.](%C2%A7%2002260%20-%20Inspection%20or%20quarantine%20services%20involving%20overtime%20furnished%20upon%20a%20reimbursable%20basis.md) | Inspection or quarantine services involving overtime furnished upon a reimbursable basis. |
+| [2260a.](%C2%A7%2002260a%20-%20Reimbursable%20agreements.md) | Reimbursable agreements. |
+| (a) | In general. |
+| (b) | Overtime, night, and holiday work. |
+| (c) | Reimbursement. |
 | [2261\.](%C2%A7%2002261%20-%20Credit%20of%20donations%20and%20proceeds%20from%20exhibitions%20to%20appropriations%20concerned%20with%20foreign%20market%20development%20programs.md) | Credit of donations and proceeds from exhibitions to appropriations concerned with foreign market development programs. |
 | [2262\.](%C2%A7%2002262%20-%20Employee%20liability%20insurance%20on%20motor%20vehicles%20in%20foreign%20countries.md) | Employee liability insurance on motor vehicles in foreign countries. |
+| [2262a.](%C2%A7%2002262a%20-%20Overseas%20tort%20claims.md) | Overseas tort claims. |
+| (a) | In general. |
+| (b) | Period for presentation of claim. |
+| (c) | Finality. |
 | [2263\.](%C2%A7%2002263%20-%20Transfer%20of%20funds.md) | Transfer of funds. |
 | [2264\.](%C2%A7%2002264%20-%20National%20Agricultural%20Library%3B%20acceptance%20of%20gifts%2C%20bequests%2C%20or%20devises%3B%20conditional%20gifts.md) | National Agricultural Library; acceptance of gifts, bequests, or devises; conditional gifts. |
 | [2265\.](%C2%A7%2002265%20-%20Deposit%20of%20money%20accepted%20for%20benefit%20of%20National%20Agricultural%20Library%3B%20disbursement.md) | Deposit of money accepted for benefit of National Agricultural Library; disbursement. |
@@ -144,6 +158,20 @@
 | (b) | Fair application of Consolidated Farm and Rural Development Act. |
 | (c) | Report on treatment of socially disadvantaged producers. |
 | (d) | “Socially disadvantaged producer” defined. |
+| [2279b.](%C2%A7%2002279b%20-%20Operation%20of%20Graduate%20School%20of%20Department%20of%20Agriculture%20as%20nonappropriated%20fund%20instrumentality.md) | Operation of Graduate School of Department of Agriculture as nonappropriated fund instrumentality. |
+| (a) | Definitions. |
+| (b) | Operation as nonappropriated fund instrumentality. |
+| (c) | Activities of Graduate School. |
+| (d) | Fees and donations. |
+| (e) | General Administration Board and Director. |
+| (f) | Employees. |
+| (g) | Not a Federal agency. |
+| (h) | Acquisition and disposal of property. |
+| (i) | Contract authority. |
+| (j) | Use of Department facilities and resources. |
+| [2279c.](%C2%A7%2002279c%20-%20Student%20internship%20programs.md) | Student internship programs. |
+| (a) | Student intern subsistence program. |
+| (b) | Cooperation with associations of colleges and universities. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -161,8 +189,10 @@
 - [&sect; 02204c - Water management for rural areas](%C2%A7%2002204c%20-%20Water%20management%20for%20rural%20areas.md)
 - [&sect; 02204d - Encouragement of private contracting](%C2%A7%2002204d%20-%20Encouragement%20of%20private%20contracting.md)
 - [&sect; 02204e - Office of Risk Assessment and Cost-Benefit Analysis](%C2%A7%2002204e%20-%20Office%20of%20Risk%20Assessment%20and%20Cost-Benefit%20Analysis.md)
+- [&sect; 02204f - Fund for Rural America](%C2%A7%2002204f%20-%20Fund%20for%20Rural%20America.md)
 - [&sect; 02205 - Duties of former Commissioner of Agriculture transferred to Secretary](%C2%A7%2002205%20-%20Duties%20of%20former%20Commissioner%20of%20Agriculture%20transferred%20to%20Secretary.md)
 - [&sect; 02206 - Custody of property and records](%C2%A7%2002206%20-%20Custody%20of%20property%20and%20records.md)
+- [&sect; 02206a - Conveyance of excess Federal personal property](%C2%A7%2002206a%20-%20Conveyance%20of%20excess%20Federal%20personal%20property.md)
 - [&sect; 02207 - Reports](%C2%A7%2002207%20-%20Reports.md)
 - [&sect; 02207a - Reports to Congress on obligation and expenditure](%C2%A7%2002207a%20-%20Reports%20to%20Congress%20on%20obligation%20and%20expenditure.md)
 - [&sect; 02208 - Expenditure of appropriations; accounting](%C2%A7%2002208%20-%20Expenditure%20of%20appropriations%3B%20accounting.md)
@@ -233,8 +263,10 @@
 - [&sect; 02258 - Purchase of newspapers](%C2%A7%2002258%20-%20Purchase%20of%20newspapers.md)
 - [&sect; 02259 - Market-inspection certificates as prima facie evidence](%C2%A7%2002259%20-%20Market-inspection%20certificates%20as%20prima%20facie%20evidence.md)
 - [&sect; 02260 - Inspection or quarantine services involving overtime furnished upon a reimbursable basis](%C2%A7%2002260%20-%20Inspection%20or%20quarantine%20services%20involving%20overtime%20furnished%20upon%20a%20reimbursable%20basis.md)
+- [&sect; 02260a - Reimbursable agreements](%C2%A7%2002260a%20-%20Reimbursable%20agreements.md)
 - [&sect; 02261 - Credit of donations and proceeds from exhibitions to appropriations concerned with foreign market development programs](%C2%A7%2002261%20-%20Credit%20of%20donations%20and%20proceeds%20from%20exhibitions%20to%20appropriations%20concerned%20with%20foreign%20market%20development%20programs.md)
 - [&sect; 02262 - Employee liability insurance on motor vehicles in foreign countries](%C2%A7%2002262%20-%20Employee%20liability%20insurance%20on%20motor%20vehicles%20in%20foreign%20countries.md)
+- [&sect; 02262a - Overseas tort claims](%C2%A7%2002262a%20-%20Overseas%20tort%20claims.md)
 - [&sect; 02263 - Transfer of funds](%C2%A7%2002263%20-%20Transfer%20of%20funds.md)
 - [&sect; 02264 - National Agricultural Library; acceptance of gifts, bequests, or devises; conditional gifts](%C2%A7%2002264%20-%20National%20Agricultural%20Library%3B%20acceptance%20of%20gifts%2C%20bequests%2C%20or%20devises%3B%20conditional%20gifts.md)
 - [&sect; 02265 - Deposit of money accepted for benefit of National Agricultural Library; disbursement](%C2%A7%2002265%20-%20Deposit%20of%20money%20accepted%20for%20benefit%20of%20National%20Agricultural%20Library%3B%20disbursement.md)
@@ -255,3 +287,5 @@
 - [&sect; 02278 - Consistency with international obligations of United States](%C2%A7%2002278%20-%20Consistency%20with%20international%20obligations%20of%20United%20States.md)
 - [&sect; 02279 - Outreach and assistance for socially disadvantaged farmers and ranchers](%C2%A7%2002279%20-%20Outreach%20and%20assistance%20for%20socially%20disadvantaged%20farmers%20and%20ranchers.md)
 - [&sect; 02279a - Fair and equitable treatment of socially disadvantaged producers](%C2%A7%2002279a%20-%20Fair%20and%20equitable%20treatment%20of%20socially%20disadvantaged%20producers.md)
+- [&sect; 02279b - Operation of Graduate School of Department of Agriculture as nonappropriated fund instrumentality](%C2%A7%2002279b%20-%20Operation%20of%20Graduate%20School%20of%20Department%20of%20Agriculture%20as%20nonappropriated%20fund%20instrumentality.md)
+- [&sect; 02279c - Student internship programs](%C2%A7%2002279c%20-%20Student%20internship%20programs.md)

@@ -38,7 +38,7 @@ For the purpose of this part, the term “enrollment of needy students” means 
 
 &emsp;(1) at least 50 percent of the degree students so enrolled who are receiving need-based assistance under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42 in the second fiscal year preceding the fiscal year for which the determination is being made (other than loans for which an interest subsidy is paid pursuant to section 1078 of this title), or
 
-&emsp;(2) a substantial percentage of students receiving Pell Grants in the second fiscal yearpreceding the fiscal year for which determination is being made, in comparison with the percentage of students receiving Pell Grants at all such institutions in the second fiscal year preceding the fiscal year for which the determination is made, unless the requirement of this subdivision is waived under section 1067(a) of this title.
+&emsp;(2) a substantial percentage of students receiving Pell Grants in the second fiscal year preceding the fiscal year for which determination is being made, in comparison with the percentage of students receiving Pell Grants at all such institutions in the second fiscal year preceding the fiscal year for which the determination is made, unless the requirement of this subdivision is waived under section 1067(a) of this title.
 
 #### (d) Full-time equivalent students
 
@@ -48,7 +48,7 @@ For the purpose of this part, the term “full-time equivalent students” means
 
 For the purpose of this part, the term “junior or community college” means an institution of higher education—
 
-&emsp;(1) that admits as regular students persons who are beyond the age of compulsory school attendance in the State in which the institution is located and who have the ability to benefit from the training offered by the institution;
+&emsp;(1) that admits as regular students persons who are beyond the age of compulsory school attendance in the State in which the institution is located and who have the ability tobenefit from the training offered by the institution;
 
 &emsp;(2) that does not provide an educational program for which it awards a bachelor's degree (or an equivalent degree); and
 
@@ -116,7 +116,7 @@ Amendment by Pub. L. 102–325 effective Oct. 1, 1992, see section 2 of Pub. L. 
 
 #### Effective Date of 1987 Amendment
 
-Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Education Amendments of 1986,Pub. L. 99–498, see section 27 of Pub. L. 100–50, set out as a note under section 1001 of this title.
+Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Education Amendments of 1986, Pub. L. 99–498, see section 27 of Pub. L. 100–50, set out as a note under section 1001 of this title.
 
 #### Section Referred to in Other Sections
 

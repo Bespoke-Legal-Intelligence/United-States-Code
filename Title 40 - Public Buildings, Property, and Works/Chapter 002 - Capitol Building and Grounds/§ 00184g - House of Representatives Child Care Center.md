@@ -2,9 +2,9 @@
 
 #### (a) Maintenance and operation; admission of children
 
-(1) The Clerk of the House of Representatives shall maintain and operate a child care center (to be known as the “House of Representatives Child Care Center”) to furnish pre-school child care—
+(1) The Chief Administrative Officer of the House of Representatives shall maintain and operate a child care center (to be known as the “House of Representatives Child Care Center”) to furnish pre-school child care—
 
-&emsp;(A) for children of individuals whose pay is disbursed by the Clerk of the House of Representatives or the Sergeant at Arms of the House of Representatives and children of support personnel of the House of Representatives; and
+&emsp;(A) for children of individuals whose pay is disbursed by the Chief Administrative Officer of the House of Representatives and children of support personnel of the House of Representatives; and
 
 &emsp;(B) if places are available after admission of all children who are eligible under subparagraph (A), for children of individuals whose pay is disbursed by the Secretary of the Senate and children of employees of agencies of the legislative branch.
 
@@ -12,9 +12,9 @@
 
 #### (b) Advisory board; membership, functions, etc.
 
-(1)(A) The Speaker of the House of Representatives shall appoint 15 individuals (of whom 7 shall be upon recommendation of the Minority Leader of the House of Representatives), to serve without pay, as members of an advisory board for the center. The board shall—
+(1)(A) The Speaker of the House of Representatives shall appoint 15 individuals (of whom 7 shall be upon recommendation of the minority leader of the House of Representatives), to serve without pay, as members of an advisory board for the center. The board shall—
 
-&emsp;(i) provide advice to the Clerk on matters of policy relating to the administration and operation of the center (including the selection of the director of the center);
+&emsp;(i) provide advice to the Chief Administrative Officer on matters of policy relating to the administration and operation of the center (including the selection of the director of the center);
 
 &emsp;(ii) be chosen from among Members of the House of Representatives, spouses of Members, parents of children enrolled in the center, and other individuals with expertise in child care or interest in the center; and
 
@@ -26,21 +26,21 @@
 
 (3) The chairman of the board shall be elected by the members of the board.
 
-#### (c) Duties of Clerk of House of Representatives
+#### (c) Duties of Chief Administrative Officer of House of Representatives
 
-In carrying out subsection (a) of this section, the Clerk is authorized—
+In carrying out subsection (a) of this section, the Chief Administrative Officer is authorized—
 
 &emsp;(1) to collect fees for child care services;
 
-&emsp;(2) to accept such gifts of money and property as may be approved by the Chairman and the ranking minority party member of the Committee on House Administration of the House of Representatives, acting jointly; and
+&emsp;(2) to accept such gifts of money and property as may be approved by the Chairman and the ranking minority party member of the Committee on House Oversight of the House of Representatives, acting jointly; and
 
 &emsp;(3) to employ a director and other employees for the center.
 
 #### (d) Salaries and expenses; funding limits
 
-(1) There is established in the contingent fund of the House of Representatives an account which, subject to appropriation, and except as provided in paragraph (2), shall be the exclusive source for all salaries and expenses for activities carried out under this section. The Clerk shall deposit in the account any amounts received under subsection (c) of this section.
+(1) There is established an account which, subject to appropriation, and except as provided in paragraph (2), shall be the exclusive source for all salaries and expenses for activities carried out under this section. The Chief Administrative Officer shall deposit in the account any amounts received under subsection (c) of this section.
 
-(2) with <sup>1</sup> respect to employees of the center, the House of Representatives shall make Government contributions and payments for health insurance, retirement, employment taxes, and similar benefits and programs in the same manner as such contributions and payments aremade for other employees of the House of Representatives.
+(2) With respect to employees of the center, the House of Representatives shall make Government contributions and payments for health insurance, retirement, employment taxes, and similar benefits and programs in the same manner as such contributions and payments are made for other employees of the House of Representatives.
 
 #### (e) Definitions
 
@@ -52,7 +52,7 @@ As used in this section—
 
 &emsp;(3) the term “support personnel” means, with respect to the House of Representatives, any employee of a credit union or of the Architect of the Capitol, whose principal duties are to support the functions of the House of Representatives.
 
-(Pub. L. 102–90, title III, §312, Aug. 14, 1991, 105 Stat. 467; Pub. L. 102–392, title III, §319(a), Oct. 6, 1992, 106 Stat. 1725.)
+(Pub. L. 102–90, title III, §312, Aug. 14, 1991, 105 Stat. 467; Pub. L. 102–392, title III, §319(a), Oct. 6, 1992, 106 Stat. 1725; Pub. L. 104–186, title II, §221(5), (6), Aug. 20, 1996, 110 Stat. 1749.)
 
 #### References in Text
 
@@ -64,21 +64,25 @@ Section is comprised of section 312 of Pub. L. 102–90. Subsec. (f) of section 
 
 #### Amendments
 
+1996—Pub. L. 104–186, §221(5)(A), substituted “Chief Administrative Officer” for “Clerk” wherever appearing.
+
+Subsec. (a)(1)(A). Pub. L. 104–186, §221(5)(B), struck out “or the Sergeant at Arms of the House of Representatives” before “and children”.
+
+Subsec. (b)(1)(A). Pub. L. 104–186, §221(6)(A), substituted “minority leader” for “Minority Leader”.
+
+Subsec. (c)(2). Pub. L. 104–186, §221(6)(B), substituted “House Oversight” for “House Administration”.
+
+Subsec. (d)(1). Pub. L. 104–186, §221(6)(C), struck out “in the contingent fund of the House of Representatives” after “established”.
+
+Subsec. (d)(2). Pub. L. 104–186, §221(5)(C), substituted “With respect” for “with respect”.
+
 1992—Subsec. (d)(2). Pub. L. 102–392 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “During fiscal year 1992, of the funds provided in this Act for the ‘HOUSE OF REPRESENTATIVES’ under ‘
 
 Salaries and Expenses’, not more than $45,000 may be expended to carry out this section, subject to approval of the Committee on Appropriations of the House of Representatives. Any amount under this paragraph shall be in addition to any amount made available under paragraph (1).”
 
-#### Change of Name
-
-Committee on House Administration of House of Representatives treated as referring to Committee on House Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
-
 #### Effective Date of 1992 Amendment
 
 Section 319(b) of Pub. L. 102–392 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to fiscal years beginning after September 30, 1992.”
-
-#### Transfer of Functions
-
-Child Care Center and certain functions of Clerk and Sergeant at Arms of House of Representatives transferred to Director of Non-legislative and Financial Services by section 7 of House Resolution No. 423, One Hundred Second Congress, Apr. 9, 1992. Director of Non-legislative and Financial Services replaced by Chief Administrative Officer of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
 
 #### Retirement Credit for Certain Prior Service With House Child Care Center
 
@@ -133,6 +137,4 @@ Section 307 of Pub. L. 102–392 provided that: “The amounts deposited in the 
 Play area on Capitol grounds for children attending day care center, see section 214b of this title.
 
 Senate Employee Child Care Center, see section 214c of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

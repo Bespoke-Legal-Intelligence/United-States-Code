@@ -28,7 +28,7 @@ As used in this chapter—
 
 &emsp;(1) the term “farmland” includes all land defined as follows:
 
-&emsp;&emsp;(A) prime farmland is land that has the best combination of physical and chemical characteristics for producing food, feed, fiber, forage, oilseed, and other agricultural crops with minimum inputs of fuel, fertilizer, pesticides, and labor, and without intolerable soil erosion, as determined by theSecretary. Prime farmland includes land that possesses the above characteristics but is being used currently to produce livestock and timber. It does not include land already in or committed to urban development or water storage;
+&emsp;&emsp;(A) prime farmland is land that has the best combination of physical and chemical characteristics for producing food, feed, fiber, forage, oilseed, and other agricultural crops with minimum inputs of fuel, fertilizer, pesticides, and labor, and without intolerable soil erosion, as determined by the Secretary. Prime farmland includes land that possesses the above characteristics but is being used currently to produce livestock and timber. It does not include land already in or committed to urban development or water storage;
 
 &emsp;&emsp;(B) unique farmland is land other than prime farmland that is used for production of specific high-value food and fiber crops, as determined by the Secretary. It has the special combination of soil quality, location, growing season, and moisture supply needed to economically produce sustained high quality or high yields of specific crops when treated and managed according to acceptable farming methods. Examples of such crops include citrus, tree nuts, olives, cranberries, fruits, and vegetables; and
 
@@ -202,7 +202,7 @@ In general.—Funds from eligible loans (including proceeds from the sale of bon
 
 &emsp;&emsp;“(C) to pay the costs of enforcing easements or land use restrictions;
 
-&emsp;&emsp;“(D) to cover the costs of complying with any regulations issued by the Secretary under this program and the costs of implementing the farmland plan of operation, except that the guaranteed loan proceeds shall not be used to pay overhead expenses of the State trust fund (rent, utilities, salaries, wages, insurance premiums, and the like); and
+&emsp;&emsp;“(D) to cover the costs of complying with any regulations issued by the Secretary under this program and the costs of implementing the farmland plan of operation, except that the guaranteed loanproceeds shall not be used to pay overhead expenses of the State trust fund (rent, utilities, salaries, wages, insurance premiums, and the like); and
 
 &emsp;&emsp;“(E) to generate earnings (including through investments not exceeding 10 years in duration for each eligible loan), to be used for future farmland preservation efforts, through investments in direct obligations of the United States or obligations guaranteed by the United States or an agency thereof or by depositing funds in any member bank of the Federal Reserve System or any federally insured State nonmember bank.
 
@@ -290,7 +290,7 @@ Obligations.—Proceeds from the sale of tax-exempt general obligation bonds, or
 
 &emsp;“(4)
 
-Land.—The fair market value of any donation of an interest in land to the State trust fund, or a charitable organization working with the State trust fund, may be considered as matching funds, for the same fiscal year, if—
+Land.—The fair market value of any donation of an interest in land to the State trust fund, or acharitable organization working with the State trust fund, may be considered as matching funds, for the same fiscal year, if—
 
 &emsp;&emsp;“(i) the fair market value is based on an appraisal determined to be adequate by the State trust fund; and
 
@@ -304,7 +304,7 @@ Clarification of Federal Law.—Sellers of land, or of interests in land, to any
 
 #### “SEC. 1469. REPORT.
 
-“Not later than September 30, 1992, and annually thereafter, the Secretary of Agriculture shall prepareand submit, to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate, a report concerning the operation of the program established under this chapter.
+“Not later than September 30, 1992, and annually thereafter, the Secretary of Agriculture shall prepare and submit, to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate, a report concerning the operation of the program established under this chapter.
 
 #### “SEC. 1470. IMPLEMENTATION AND EFFECTIVE DATE.
 

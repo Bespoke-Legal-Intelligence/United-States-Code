@@ -58,7 +58,7 @@ For purposes of this subchapter, the term “foundation manager” means, with r
 
 #### (c) Government official
 
-For purposes of subsection (a)(1)(I) and section 4941, the term “government official” means, with respect to an act of self-dealing described in section 4941, an individual who, at the time of such act, holds any of the following offices or positions (other than as a “special Government employee”, as defined in section 202(a) of title 18, United States Code):
+For purposes of subsection (a)(1)(I) and section 4941, the term “government official” means, with respect to an act of self-dealing described in section 4941, an individual who, at the time ofsuch act, holds any of the following offices or positions (other than as a “special Government employee”, as defined in section 202(a) of title 18, United States Code):
 
 &emsp;(1) an elective public office in the executive or legislative branch of the Government of the United States,
 
@@ -108,5 +108,5 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 507, 509, 4940, 4941, 4942, 4943, 4945, 4948, 6033, 7454 of this title.
+This section is referred to in sections 507, 509, 4940, 4941, 4942, 4943, 4945, 4948, 4958, 6033, 7454 of this title.
 

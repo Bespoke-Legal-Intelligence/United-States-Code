@@ -26,7 +26,7 @@ The administrator shall, in accordance with section 1024(a) of this title, file 
 
 (1) Each administrator of an employee pension benefit plan which is winding up its affairs (without regard to the number of participants remaining in the plan) shall, in accordance with regulations prescribed by the Secretary, file such terminal reports as the Secretary may consider necessary. A copy of such report shall also be filed with the Pension Benefit Guaranty Corporation.
 
-(2) The Secretary may require terminal reports to be filed with regard to any employee welfare benefit plan which is winding up its affairs in accordance with regulations promulgated by the Secretary.
+(2) The Secretary may require terminal reports to be filed with regard to any employeewelfare benefit plan which is winding up its affairs in accordance with regulations promulgated by the Secretary.
 
 (3) The Secretary may require that a plan described in paragraph (1) or (2) file a supplementary or terminal report with the annual report in the year such plan is terminated and that a copy of such supplementary or terminal report in the case of a plan described in paragraph (1) be also filed with the Pension Benefit Guaranty Corporation.
 
@@ -48,7 +48,7 @@ The administrator shall, in accordance with section 1024(a) of this title, file 
 
 #### (1) Notice to participants
 
-&emsp;Not later than 60 days before the date of a qualified transfer by an employee pension benefit plan of excess pension assets to a health benefits account, the administrator of the plan shall notify (in such manner as the Secretary may prescribe) each participant andbeneficiary under the plan of such transfer. Such notice shall include information with respect to the amount of excess pension assets, the portion to be transferred, the amount of health benefits liabilities expected to be provided with the assets transferred, and the amount of pension benefits of the participant which will be nonforfeitable immediately after the transfer.
+&emsp;Not later than 60 days before the date of a qualified transfer by an employee pension benefit plan of excess pension assets to a health benefits account, the administrator of the plan shall notify (in such manner as the Secretary may prescribe) each participant and beneficiary under the plan of such transfer. Such notice shall include information with respect to the amount of excess pension assets, the portion to be transferred, the amount of health benefits liabilities expected to be provided with the assets transferred, and the amount of pension benefits of the participant which will be nonforfeitable immediately after the transfer.
 
 #### (2) Notice to Secretaries, administrator, and employee organizations
 
@@ -104,13 +104,51 @@ The administrator shall, in accordance with section 1024(a) of this title, file 
 
 &emsp;The Secretary may, in consultation with the Secretary of Health and Human Services, prescribe such regulations as are necessary to carry out this subsection.
 
-#### (g) Cross reference
+#### (g) Reporting by certain arrangements
+
+The Secretary may, by regulation, require multiple employer welfare arrangements providing benefits consisting of medical care (within the meaning of section 1191b(a)(2) of this title) which are not group health plans to report, not more frequently than annually, in such form and such manner as the Secretary may require for the purpose of determining the extent to which the requirements of part 7 are being carried out in connection with such benefits.
+
+#### (h) Simple retirement accounts
+
+#### (1) No employer reports
+
+&emsp;Except as provided in this subsection, no report shall be required under this section by an employer maintaining a qualified salary reduction arrangement under section 408(p) of title 26.
+
+#### (2) Summary description
+
+&emsp;The trustee of any simple retirement account established pursuant to a qualified salary reduction arrangement under section 408(p) of title 26 shall provide to the employer maintaining the arrangement each year a description containing the following information:
+
+&emsp;&emsp;(A) The name and address of the employer and the trustee.
+
+&emsp;&emsp;(B) The requirements for eligibility for participation.
+
+&emsp;&emsp;(C) The benefits provided with respect to the arrangement.
+
+&emsp;&emsp;(D) The time and method of making elections with respect to the arrangement.
+
+&emsp;&emsp;(E) The procedures for, and effects of, withdrawals (including rollovers) from the arrangement.
+
+#### (3) Employee notification
+
+&emsp;The employer shall notify each employee immediately before the period for which an election described in section 408(p)(5)(C) of title 26 may be made of the employee's opportunity to make such election. Such notice shall include a copy of the description described in paragraph (2).
+
+#### (h) <sup>1</sup> Cross reference
 
 &emsp;&emsp;<b>For regulations relating to coordination of reports to the Secretaries of Labor and the Treasury, see section 1204 of this title.</b>
 
-(Pub. L. 93–406, title I, §101, Sept. 2, 1974, 88 Stat. 840; Pub. L. 100–203, title IX, §9304(d), Dec. 22, 1987, 101 Stat. 1330–348; Pub. L. 101–239, title VII, §§7881(b)(5)(A), 7894(b)(2), Dec. 19, 1989, 103 Stat. 2438, 2448; Pub. L. 101–508, title XII, §12012(d)(1), Nov. 5, 1990, 104 Stat. 1388–572; Pub. L. 103–66, title IV, §4301(b)(1), Aug. 10, 1993, 107 Stat. 375; Pub. L. 103–465, title VII, §731(c)(4)(A), Dec. 8, 1994, 108 Stat. 5004.)
+(Pub. L. 93–406, title I, §101, Sept. 2, 1974, 88 Stat. 840; Pub. L. 100–203, title IX, §9304(d), Dec. 22, 1987, 101 Stat. 1330–348; Pub. L. 101–239, title VII, §§7881(b)(5)(A), 7894(b)(2), Dec. 19, 1989, 103 Stat. 2438, 2448; Pub. L. 101–508, title XII, §12012(d)(1), Nov. 5, 1990, 104 Stat. 1388–572; Pub. L. 103–66, title IV, §4301(b)(1), Aug. 10, 1993, 107 Stat. 375; Pub. L. 103–465, title VII, §731(c)(4)(A), Dec. 8, 1994, 108 Stat. 5004; Pub. L. 104–188, title I, §1421(d)(1), Aug. 20, 1996, 110 Stat. 1799; Pub. L. 104–191, title I, §101(e)(1), Aug. 21, 1996, 110 Stat. 1952; Pub. L. 104–204, title VI, §603(b)(3)(B), Sept. 26, 1996, 110 Stat. 2938.)
 
 #### Amendments
+
+1996—Subsec. (g). Pub. L. 104–204 made technical amendment to reference in original act which appears in text as reference to section 1191b of this title.
+
+Pub. L. 104–191, §101(e)(1)(B), added subsec. (g). Former subsec. (g) redesignated (h).
+
+Pub. L. 104–188 added subsec. (g). Former subsec. (g) redesignated (h).
+
+Subsec. (h). Pub. L. 104–191, §101(e)(1)(A), redesignated subsec. (g), relating to simple retirement accounts, as (h).
+
+Pub. L. 104–188, §1421(d)(1), redesignated subsec. (g), relating to cross references, as (h).
 
 1994—Subsec. (e)(3). Pub. L. 103–465 substituted “1995” for “1991”.
 
@@ -124,6 +162,14 @@ Subsec. (d)(1). Pub. L. 101–239, §7881(b)(5)(A), substituted “an employer m
 
 1987—Subsecs. (d), (e). Pub. L. 100–203 added subsec. (d) and redesignated former subsec. (d) as (e).
 
+#### Effective Date of 1996 Amendments
+
+Amendment by Pub. L. 104–204 applicable with respect to group health plans for plan years beginning on or after Jan. 1, 1998, see section 603(c) of Pub. L. 104–204 set out as a note under section 1003 of this title.
+
+Amendment of Pub. L. 104–191 applicable with respect to group health plans for plan years beginning after June 30, 1997, except as otherwise provided, see section 101(g) of Pub. L. 104–191, set out as an Effective Date note under section 1181 of this title.
+
+Amendment by Pub. L. 104–188 applicable to taxable years beginning after Dec. 31, 1996, see section 1421(e) of Pub. L. 104–188, set out as a note under section 72 of Title 26, Internal Revenue Code.
+
 #### Effective Date of 1993 Amendment
 
 Section 4301(d) of Pub. L. 103–66 provided that:
@@ -134,7 +180,7 @@ In general.—The amendments made by this section \[enacting section 1169 of thi
 
 “(2)
 
-Plan amendments not required until january 1, 1994.—Any amendment to a plan required to be made by an amendment made by this section shall not be required to be made before the first plan year beginning on or after January 1, 1994, if—
+Plan amendments not required until january 1, 1994.—Any amendment to a plan required to be madeby an amendment made by this section shall not be required to be made before the first plan year beginning on or after January 1, 1994, if—
 
 &emsp;“(A) during the period after the date before the date of the enactment of this Act and before such first plan year, the plan is operated in accordance with the requirements of the amendments made by this section, and
 
@@ -160,7 +206,13 @@ Section 9304(d) of Pub. L. 100–203, as amended by Pub. L. 101–239, title VII
 
 Secretary authorized, effective Sept. 2, 1974, to promulgate regulations wherever provisions of this subchapter call for the promulgation of regulations, see section 1031 of this title.
 
+#### Plan Amendments Not Required Until January 1, 1998
+
+For provisions directing that if any amendments made by subtitle D \[§§1401–1465\] of title I of Pub. L. 104–188 require an amendment to any plan or annuity contract, such amendment shall not be required to be made before the first day of the first plan year beginning on or after Jan. 1, 1998, see section 1465 of Pub. L. 104–188, set out as a note under section 401 of Title 26, Internal Revenue Code.
+
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1132 of this title; title 42 section 1320b–14.
+This section is referred to in sections 1104, 1132 of this title; title 42 section 1320b–14.
+
+<i><sup>1</sup></i><i> So in original. Probably should be (i).</i>
 

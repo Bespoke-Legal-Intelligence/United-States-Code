@@ -78,7 +78,7 @@
 
 (20) The term “crime punishable by imprisonment for a term exceeding one year” does not include—
 
-&emsp;(A) any Federal or State offenses pertaining to antitrust violations, unfair trade practices, restraints of trade, or other similar offenses relating to the regulation of business practices, or
+&emsp;(A) any Federal or State offenses pertaining to antitrust violations, unfair trade practices,restraints of trade, or other similar offenses relating to the regulation of business practices, or
 
 &emsp;(B) any State offense classified by the laws of the State as a misdemeanor and punishable by a term of imprisonment of two years or less.
 
@@ -124,7 +124,7 @@
 
 (26) The term “school” means a school which provides elementary or secondary education, as determined under State law.
 
-(27) The term “motor vehicle” has the meaning given such term in section 10102 of title 49, United States Code.
+(27) The term “motor vehicle” has the meaning given such term in section 13102 of title 49, United States Code.
 
 (28) The term “semiautomatic rifle” means any repeating rifle which utilizes a portion of the energy of a firing cartridge to extract the fired cartridge case and chamber the next round, and which requires a separate pull of the trigger to fire each cartridge.
 
@@ -198,9 +198,27 @@
 
 (32) The term “intimate partner” means, with respect to a person, the spouse of the person, a former spouse of the person, an individual who is a parent of a child of the person, and an individual who cohabitates or has cohabited with the person.
 
+(33)(A) Except as provided in subparagraph (C), the term “misdemeanor crime of domestic violence” means an offense that—
+
+&emsp;(i) is a misdemeanor under Federal or State law; and
+
+&emsp;(ii) has, as an element, the use or attempted use of physical force, or the threatened use of a deadly weapon, committed by a current or former spouse, parent, or guardian of the victim, by a person with whom the victim shares a child in common, by a person who is cohabiting with or has cohabited with the victim as a spouse, parent, or guardian, or by a person similarly situated to a spouse, parent, or guardian of the victim.
+
+(B)(i) A person shall not be considered to have been convicted of such an offense for purposes of this chapter, unless—
+
+&emsp;(I) the person was represented by counsel in the case, or knowingly and intelligently waived the right to counsel in the case; and
+
+&emsp;(II) in the case of a prosecution for an offense described in this paragraph for which a person was entitled to a jury trial in the jurisdiction in which the case was tried, either
+
+&emsp;&emsp;(aa) the case was tried by a jury, or
+
+&emsp;&emsp;(bb) the person knowingly and intelligently waived the right to have the case tried by a jury, by guilty plea or otherwise.
+
+(ii) A person shall not be considered to have been convicted of such an offense for purposes of this chapter if the conviction has been expunged or set aside, or is an offense for which the person has been pardoned or has had civil rights restored (if the law of the applicable jurisdiction provides for the loss of civil rights under such an offense) unless the pardon, expungement, or restoration of civil rights expressly provides that the person may not ship, transport, possess, or receive firearms.
+
 (b) For the purposes of this chapter, a member of the Armed Forces on active duty is a resident of the State in which his permanent duty station is located.
 
-(Added Pub. L. 90–351, title IV, §902, June 19, 1968, 82 Stat. 226; amended Pub. L. 90–618, title I, §102, Oct. 22, 1968, 82 Stat. 1214; Pub. L. 93–639, §102, Jan. 4, 1975, 88 Stat. 2217; Pub. L. 99–308, §101, May 19, 1986, 100 Stat. 449; Pub. L. 99–360, §1(b), July 8, 1986, 100 Stat. 766; Pub. L. 99–408, §1, Aug. 28, 1986, 100 Stat. 920; Pub. L. 101–647, title XVII, §1702(b)(2), title XXII, §2204(a), Nov. 29, 1990, 104 Stat. 4845, 4857; Pub. L. 103–159, title I, §102(a)(2), Nov. 30, 1993, 107 Stat. 1539; Pub. L. 103–322, title XI, §§110102(b), 110103(b), 110401(a), 110519, title XXXIII, §330021(1), Sept. 13, 1994, 108 Stat. 1997, 1999, 2014, 2020, 2150.)
+(Added Pub. L. 90–351, title IV, §902, June 19, 1968, 82 Stat. 226; amended Pub. L. 90–618, title I, §102, Oct. 22, 1968, 82 Stat. 1214; Pub. L. 93–639, §102, Jan. 4, 1975, 88 Stat. 2217; Pub. L. 99–308, §101, May 19, 1986, 100 Stat. 449; Pub. L. 99–360, §1(b), July 8, 1986, 100 Stat. 766; Pub. L. 99–408, §1, Aug. 28, 1986, 100 Stat. 920; Pub. L. 101–647, title XVII, §1702(b)(2), title XXII, §2204(a), Nov. 29, 1990, 104 Stat. 4845, 4857; Pub. L. 103–159, title I, §102(a)(2), Nov. 30, 1993, 107 Stat. 1539; Pub. L. 103–322, title XI, §§110102(b), 110103(b), 110401(a), 110519, title XXXIII, §330021(1), Sept. 13, 1994, 108 Stat. 1997, 1999, 2014, 2020, 2150; Pub. L. 104–88, title III, §303(1), Dec. 29, 1995, 109 Stat. 943; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §658(a)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–371.)
 
 #### Amendment of Section
 
@@ -210,9 +228,13 @@
 
 For definition of Canal Zone, referred to in subsec. (a)(2), see section 3602(b) of Title 22, Foreign Relations and Intercourse.
 
-The date of enactment of the Violent Crime Control and Law Enforcement Act of 1994, referred to in subsec. (a)(31)(A), is the date of enactment of Pub. L. 103–322, which was approved Sept. 13, 1994.
+The date of enactment of the Violent Crime Control and Law Enforcement Act of 1994, referred to in subsec.\(a)(31)(A), is the date of enactment of Pub. L. 103–322, which was approved Sept. 13, 1994.
 
 #### Amendments
+
+1996—Subsec. (a)(33). Pub. L. 104–208 added par. (33).
+
+1995—Subsec. (a)(27). Pub. L. 104–88 substituted “section 13102” for “section 10102”.
 
 1994—Subsec. (a)(17)(B). Pub. L. 103–322, §110519, amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “The term ‘armor piercing ammunition’ means a projectile or projectile core which may be used in a handgun and which is constructed entirely (excluding the presence of traces of other substances) from one or a combination of tungsten alloys, steel, iron, brass, bronze, beryllium copper, or depleted uranium. Such term does not include shotgun shot required by Federal or State environmental or game regulations for hunting purposes, a frangible projectile designed for target shooting, a projectile which the Secretary finds is primarily intended to be used for sporting purposes, or any other projectile or projectile core which the Secretary finds is intended to be used for industrial purposes, including a charge used in an oil and gas well perforating device.”
 
@@ -258,6 +280,10 @@ Subsec. (a)(23), (24). Pub. L. 99–308, §101(6), added pars. (23) and (24).
 
 Subsec. (b). Pub. L. 90–618 substituted provisions determining that a member of the armed forces on active duty is a resident of the State in which his permanent duty station is located for provisions defining “firearm”, “destructive device”, and “crime punishable by imprisonment for a term exceeding one year”.
 
+#### Effective Date of 1995 Amendment
+
+Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 701 of Title 49, Transportation.
+
 #### Effective and Termination Dates of 1994 Amendment
 
 Section 110105 of title XI of Pub. L. 103–322 provided that: “This subtitle \[subtitle A (§§110101–110106) of title XI of Pub. L. 103–322, amending this section and sections 922 to 924 of this title and enacting provisions set out as notes under this section\] and the amendments made by this subtitle—
@@ -280,7 +306,7 @@ Section 110 of Pub. L. 99–308 provided that:
 
 “(a)
 
-In General.—The amendments made by this Act \[enacting section 926A of this title, amending this section, sections 922 to 926 and 929 of this title, and section 5845 of Title 26, Internal Revenue Code, repealing title VII of Pub. L. 90–351, set out in the Appendix to this title, and enacting provisions set out as notes under this section\] shall become effective one hundred and eighty days after the date of the enactment of this Act \[May 19, 1986\]. Upon their becoming effective, the Secretary shall publish and provide to all licensees a compilation of the State laws and published ordinances of which licensees are presumed to have knowledge pursuant to chapter 44 of title 18, United States Code, as amended by this Act. All amendments to such State laws and published ordinances as contained in the aforementioned compilation shall be published in the Federal Register, revised annually, and furnished to each person licensed under chapter 44 of title 18, United States Code, as amended by this Act.
+In General.—The amendments made by this Act \[enacting section 926A of this title, amending this section, sections 922 to 926 and 929 of this title, and section 5845 of Title 26, Internal Revenue Code, repealing title VII of Pub. L. 90–351, set out in the Appendix to this title, and enacting provisions set out as notes under this section\] shall become effective one hundred and eighty days after the date of the enactment of this Act \[May 19, 1986\]. Upon their becoming effective, the Secretary shall publish and provide to all licensees a compilation of the State laws and published ordinances ofwhich licensees are presumed to have knowledge pursuant to chapter 44 of title 18, United States Code, as amended by this Act. All amendments to such State laws and published ordinances as contained in the aforementioned compilation shall be published in the Federal Register, revised annually, and furnished to each person licensed under chapter 44 of title 18, United States Code, as amended by this Act.
 
 “(b)
 
@@ -296,7 +322,7 @@ Section 105 of Pub. L. 90–618 provided that:
 
 “(a) Except as provided in subsection (b), the provisions of chapter 44 of title 18, United States Code, as amended by section 102 of this title \[amending this chapter\], shall take effect on December 16, 1968.
 
-“(b) The following sections of chapter 44 of title 18, United States Code, as amended by section 102 of this title shall take effect on the date of the enactment of this title \[Oct. 22, 1968\]: Sections 921, 922(<i>l</i> ), 925(a)(1), and 925(d).”
+“(b) The following sections of chapter 44 of title 18, United States Code, as amended by section 102 of this title shall take effect on the date of the enactment of this title \[Oct. 22, 1968\]: Sections 921, 922(<i>l</i>), 925(a)(1), and 925(d).”
 
 #### Effective Date
 
@@ -424,5 +450,5 @@ Section 10 of Pub. L. 99–408 provided that: “For purposes of section 921(a)(
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 845, 923, 925, 1791, 2332a, 3565, 3583, 3592 of this title; title 8 sections 1101, 1251; title 10 section 2722; title 20 sections 1415, 3351, 8921, 8922; title 21 section 881; title 22 section 2778; title 26 section 5845.
+This section is referred to in sections 845, 923, 925, 1791, 2332a, 3565, 3583, 3592 of this title; title 8 sections 1101, 1227; title 10 section 2722; title 20 sections 1415, 3351, 8921, 8922; title 21 section 881; title 22 section 2778; title 26 section 5845.
 

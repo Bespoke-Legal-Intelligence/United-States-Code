@@ -6,7 +6,7 @@ The Administration may make such investigations as it deems necessary to determi
 
 #### (b) Examinations and reports
 
-Each small business investment company shall be subject to examinations made by direction of the Investment Division of the Administration, and the cost of such examinations, including the compensation of the examiners, may in the discretion of the Administration be assessed against the company examined and when so assessed shall be paid by such company. Every such company shall make such reports to the Administration at such times and in such form as the Administration may require; except that the Administration is authorized to exempt from making such reports any such company which is registered under the Investment Company Act of 1940 \[15 U.S.C. 80a–1 et seq.\] to the extent necessary to avoid duplication in reporting requirements.
+Each small business investment company shall be subject to examinations made by direction of the Investment Division of the Administration, which may be conducted with the assistance of a private sector entity that has both the qualifications to conduct and expertise in conducting such examinations, and the cost of such examinations, including the compensation of the examiners, may in the discretion of the Administration be assessed against the company examined and when so assessed shall be paid by such company. Every such company shall make such reports to the Administration at such times and in such form as the Administration may require; except that the Administration is authorized to exempt from making such reports any such company which is registered under the Investment Company Act of 1940 \[15 U.S.C. 80a–1 et seq.\] to the extent necessary to avoid duplication in reporting requirements.
 
 #### (c) Examinations of small business investment companies
 
@@ -18,7 +18,7 @@ Each small business investment company shall be examined at least every two year
 
 &emsp;(3) it has acquired or exercised illegal control of an assisted small business;
 
-&emsp;(4) it has made investments in small businesses for not less than four years in the case of section 301(d) \[15 U.S.C. 681(d)\] licensees and in all other cases, not less than five years;
+&emsp;(4) it has made investments in small businesses for not less than five years;
 
 &emsp;(5) it has invested more than 20 per centum of its capital in any individual small business, if such restriction is applicable;
 
@@ -28,11 +28,41 @@ Each small business investment company shall be examined at least every two year
 
 > <i>Provided</i>, That the Administration may waive the examination (A) for up to one additional year if, in its discretion, it determines such a delay would be appropriate, based upon the amount of debentures being issued by the company and its repayment record, the prior operating experience of the company, the contents and results of the last examination and the management expertise of the company, or (B) if it is a company whose operations have been suspended while the company is involved in litigation or is in receivership.
 
-#### (d) Valuation guidelines and responsibility
+#### (d) Valuations
 
-Each small business investment company shall adopt written guidelines for determination of the value of investments made by such company. The board of directors of corporations and the general partners of partnerships shall have the sole responsibility for making a good faith determination of the fair market value of the investments made by such company. Determinations shall be made and reported to the Administration not less than semiannually or at more frequent intervals as the Administration determines appropriate: <i>Provided</i>, That any company which does not have outstanding financial assistance under the provisions of this subchapter shall be required to make such determinations and reports to the Administration annually, unless the Administration, in its discretion, determines otherwise.
+#### (1) Frequency of valuations
 
-(Pub. L. 85–699, title III, §310, as added Pub. L. 87–341, §9, Oct. 3, 1961, 75 Stat. 755; amended Pub. L. 89–779, §5, Nov. 6, 1966, 80 Stat. 1360; Pub. L. 90–104, title II, §208, Oct. 11, 1967, 81 Stat. 271; Pub. L. 100–590, title I, §104, Nov. 3, 1988, 102 Stat. 2992; Pub. L. 102–366, title IV, §§406(b), 407(a), 408(b), Sept. 4, 1992, 106 Stat. 1016.)
+#### (A) In general
+
+&emsp;&emsp;Each licensee shall submit to the Administrator a written valuation of the loans and investments of the licensee not less often than semiannually or otherwise upon the request of the Administrator, except that any licensee with no leverage outstanding shall submit such valuations annually, unless the Administrator determines otherwise.
+
+#### (B) Material adverse changes
+
+&emsp;&emsp;Not later than 30 days after the end of a fiscal quarter of a licensee during which a material adverse change in the aggregate valuation of the loans and investments or operations of the licensee occurs, the licensee shall notify the Administrator in writing of the nature and extent of that change.
+
+#### (C) Independent certification
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;Not less than once during each fiscal year, each licensee shall submit to the Administrator the financial statements of the licensee, audited by an independent certified public accountant approved by the Administrator.
+
+#### (ii) Audit requirements
+
+&emsp;&emsp;&emsp;Each audit conducted under clause (i) shall include—
+
+&emsp;&emsp;&emsp;&emsp;(I) a review of the procedures and documentation used by the licensee in preparing the valuations required by this section; and
+
+&emsp;&emsp;&emsp;&emsp;(II) a statement by the independent certified public accountant that such valuations were prepared in conformity with the valuation criteria applicable to the licensee established in accordance with paragraph (2).
+
+#### (2) Valuation criteria
+
+&emsp;Each valuation submitted under this subsection shall be prepared by the licensee in accordance with valuation criteria, which shall—
+
+&emsp;&emsp;(A) be established or approved by the Administrator; and
+
+&emsp;&emsp;(B) include appropriate safeguards to ensure that the noncash assets of a licensee are not overvalued.
+
+(Pub. L. 85–699, title III, §310, as added Pub. L. 87–341, §9, Oct. 3, 1961, 75 Stat. 755; amended Pub. L. 89–779, §5, Nov. 6, 1966, 80 Stat. 1360; Pub. L. 90–104, title II, §208, Oct. 11, 1967, 81 Stat. 271; Pub. L. 100–590, title I, §104, Nov. 3, 1988, 102 Stat. 2992; Pub. L. 102–366, title IV, §§406(b), 407(a), 408(b), Sept. 4, 1992, 106 Stat. 1016; Pub. L. 104–208, div. D, title II, §208(f), (h)(1)(C), Sept. 30, 1996, 110 Stat. 3009–745, 3009–747.)
 
 #### References in Text
 
@@ -41,6 +71,12 @@ For definition of “this chapter”, referred to in subsec. (a), see References
 The Investment Company Act of 1940, referred to in subsec. (b), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, as amended, which is classified generally to subchapter I (§80a–1 et seq.) of chapter 2D of this title. For complete classification of this Act to the Code, see section 80a–51 of this title and Tables.
 
 #### Amendments
+
+1996—Subsec. (b). Pub. L. 104–208, §208(f)(1), inserted “which may be conducted with the assistance of a private sector entity that has both the qualifications to conduct and expertise in conducting such examinations,” after “Investment Division of the Administration,” in first sentence.
+
+Subsec. (c)(4). Pub. L. 104–208, §208(h)(1)(C), struck out “not less than four years in the case of section 301(d) licensees and in all other cases,” after “small businesses for”.
+
+Subsec. (d). Pub. L. 104–208, §208(f)(2), inserted heading and amended text of subsec. (d) generally. Prior to amendment, text read as follows: “Each small business investment company shall adopt written guidelines for determination of the value of investments made by such company. The board of directors of corporations and the general partners of partnerships shall have the sole responsibility for making a good faith determination of the fair market value of the investments made by such company. Determinations shall be made and reported to the Administration not less than semiannually or at more frequent intervals as the Administration determines appropriate: <i>Provided</i>, That any company which does not have outstanding financial assistance under the provisions of this subchapter shall be required to make such determinations and reports to the Administration annually, unless the Administration, in its discretion, determines otherwise.”
 
 1992—Subsec. (b). Pub. L. 102–366, §407(a), substituted “Investment Division of” for “Administration by examiners selected or approved by”.
 

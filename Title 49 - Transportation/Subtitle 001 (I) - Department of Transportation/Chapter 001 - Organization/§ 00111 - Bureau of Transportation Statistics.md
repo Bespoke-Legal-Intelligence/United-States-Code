@@ -22,7 +22,7 @@ Reporting.—The Director shall report directly to the Secretary.
 
 &emsp;(4)
 
-Term.—The term of the Director shall be 4 years. The term of the first Director to be appointed shall begin on the 180th day after the date of the enactment of this section.
+Term.—The term of the Director shall be 4 years. The term of the first Director to be appointed shall begin on the 180th day after December 18, 1991. The Director may continue to serve after the expiration of the term until a successor is appointed and confirmed.
 
 (c)
 
@@ -98,15 +98,21 @@ Transportation Statistics Annual Report.—On or before January 1, 1994, and ann
 
 (g)
 
-Performance of Functions of Director Pending Confirmation.—An individual who, on the date of the enactment of this section, is performing any function required by this section to be performed by the Director may continue to perform such function until such function is undertaken by the Director.
+Performance of Functions of Director Pending Confirmation.—An individual who, on December 18, 1991, is performing any function required by this section to be performed by the Director may continue to perform such function until such function is undertaken by the Director.
 
-(Added Pub. L. 102–240, title VI, §6006\[(a)\], Dec. 18, 1991, 105 Stat. 2172.)
+(Added Pub. L. 102–240, title VI, §6006\[(a)\], Dec. 18, 1991, 105 Stat. 2172; amended Pub. L. 104–287, §5(2), Oct. 11, 1996, 110 Stat. 3389; Pub. L. 104–324, title XI, §1131, Oct. 19, 1996, 110 Stat. 3985.)
 
 #### References in Text
 
-The date of the enactment of this section, referred to in subsecs. (b)(4) and (g), is the date of enactment of Pub. L. 102–240, which was approved Dec. 18, 1991.
-
 The Privacy Act of 1974, referred to in subsec. (e), is Pub. L. 93–579, Dec. 31, 1974, 88 Stat. 1896, as amended, which enacted section 552a of Title 5, Government Organization and Employees, and enacted notes set out under section 552a of Title 5. For complete classification of this Act to the Code, see Short Title note set out under section 552a of Title 5 and Tables.
+
+#### Amendments
+
+1996—Subsec. (b)(4). Pub. L. 104–324 inserted at end “The Director may continue to serve after the expiration of the term until a successor is appointed and confirmed.”
+
+Pub. L. 104–287 substituted “December 18, 1991” for “the date of the enactment of this section”.
+
+Subsec. (g). Pub. L. 104–287 substituted “December 18, 1991” for “the date of the enactment of this section”.
 
 #### Advisory Council on Transportation Statistics
 

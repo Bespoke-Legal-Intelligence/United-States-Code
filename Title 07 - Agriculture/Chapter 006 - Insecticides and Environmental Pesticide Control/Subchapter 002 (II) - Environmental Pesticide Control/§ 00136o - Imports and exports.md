@@ -46,9 +46,13 @@ Amendment by Pub. L. 100–532 effective on expiration of 60 days after Oct. 25,
 
 #### Effective Date of 1978 Amendment
 
-Section 18(b) of Pub. L. 95–396 provided that: “The amendment made by subsection (a)(1) of this section\[amending this section\] shall become effective one hundred and eighty days after the date of enactment of this Act \[Sept. 30, 1978\].”
+Section 18(b) of Pub. L. 95–396 provided that: “The amendment made by subsection (a)(1) of this section \[amending this section\] shall become effective one hundred and eighty days after the date of enactment of this Act \[Sept. 30, 1978\].”
 
 #### Effective Date
 
 For effective date of section, see section 4 of Pub. L. 92–516, set out as a note under section 136 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 136a of this title.
 

@@ -54,7 +54,9 @@ Service and Impoundment of Property.—(1) A warrant issued under this section m
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

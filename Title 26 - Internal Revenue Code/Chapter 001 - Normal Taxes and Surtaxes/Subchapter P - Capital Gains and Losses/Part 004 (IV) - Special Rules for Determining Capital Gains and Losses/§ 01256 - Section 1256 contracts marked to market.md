@@ -60,7 +60,7 @@ For purposes of this section, the term “section 1256 contract” means—
 
 #### (3) Election revocable only with consent
 
-&emsp;An election under paragraph (1) shall apply to the taxpayer's taxable year for which made and to all subsequent taxable years, unless the Secretary consents to a revocation of such election.
+&emsp;An election under paragraph (1) shall apply to the taxpayer's taxable year for which madeand to all subsequent taxable years, unless the Secretary consents to a revocation of such election.
 
 #### (4) Mixed straddle
 
@@ -112,7 +112,7 @@ For purposes of this section, the term “section 1256 contract” means—
 
 &emsp;&emsp;&emsp;(iv) if such interest is held by the estate of an individual who actively participated in the management of such entity or is held by the estate of an individual if with respect to such individual such interest was at any time described in clause (ii), or
 
-&emsp;&emsp;&emsp;(v) if the Secretary determines (by regulations or otherwise) that such interest should be treated as held by an individual who actively participates in the management of such entity, and that such entityand such interest are not used (or to be used) for tax–avoidance purposes.
+&emsp;&emsp;&emsp;(v) if the Secretary determines (by regulations or otherwise) that such interest should be treated as held by an individual who actively participates in the management of such entity, and that such entity and such interest are not used (or to be used) for tax–avoidance purposes.
 
 > &emsp;&emsp;For purposes of this subparagraph, a legally adopted child of an individual shall be treated as a child of such individual by blood.
 

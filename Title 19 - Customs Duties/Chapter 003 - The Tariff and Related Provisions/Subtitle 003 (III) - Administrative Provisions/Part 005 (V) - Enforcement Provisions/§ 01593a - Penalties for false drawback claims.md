@@ -56,7 +56,7 @@
 
 #### (1) Fraud
 
-&emsp;A fraudulent violation of subsection (a) of this section is punishable by a civil penalty in an amount not to exceed 3 times the actual or potential loss of revenue.
+&emsp;A fraudulent violation of subsection (a) of this section is punishable by a civil penalty inan amount not to exceed 3 times the actual or potential loss of revenue.
 
 #### (2) Negligence
 

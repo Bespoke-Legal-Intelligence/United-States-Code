@@ -50,9 +50,9 @@ Subsec. (b). Pub. L. 100–690, §7273(c)(3), added subsec. (b).
 
 #### Change of Name
 
-Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Economic and Educational Opportunities of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Fifth Congress, Jan. 7, 1997.
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–690 effective Oct. 1, 1988, with the report required by this section with respect to fiscal year 1988 to be submitted not later than Aug. 1, 1989, notwithstanding the 180-day period provided in this section, see section 7296(a), (b)(3) of Pub. L. 100–690, as amended, set out as a note under section 5601 of this title.
+Amendment by Pub. L. 100–690 effective Oct. 1, 1988, with the report required by this section with respect tofiscal year 1988 to be submitted not later than Aug. 1, 1989, notwithstanding the 180-day period provided in this section, see section 7296(a), (b)(3) of Pub. L. 100–690, as amended, set out as a note under section 5601 of this title.
 

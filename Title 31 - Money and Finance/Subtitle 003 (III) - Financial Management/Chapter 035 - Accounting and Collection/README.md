@@ -34,7 +34,7 @@
 | [3528\.](Subchapter%20003%20%28III%29%20-%20Auditing%20and%20Settling%20Accounts/%C2%A7%2003528%20-%20Responsibilities%20and%20relief%20from%20liability%20of%20certifying%20officials.md) | Responsibilities and relief from liability of certifying officials. |
 | [3529\.](Subchapter%20003%20%28III%29%20-%20Auditing%20and%20Settling%20Accounts/%C2%A7%2003529%20-%20Requests%20for%20decisions%20of%20the%20Comptroller%20General.md) | Requests for decisions of the Comptroller General. |
 | [3530\.](Subchapter%20003%20%28III%29%20-%20Auditing%20and%20Settling%20Accounts/%C2%A7%2003530%20-%20Adjusting%20accounts.md) | Adjusting accounts. |
-| [3531\.](Subchapter%20003%20%28III%29%20-%20Auditing%20and%20Settling%20Accounts/%C2%A7%2003531%20-%20Property%20returns.md) | Property returns. |
+| \[3531. | Repealed.\] |
 | [3532\.](Subchapter%20003%20%28III%29%20-%20Auditing%20and%20Settling%20Accounts/%C2%A7%2003532%20-%20Notification%20of%20account%20deficiencies.md) | Notification of account deficiencies. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -66,13 +66,15 @@
 
 #### Amendments
 
+1996—Pub. L. 104–316, title I, §115(f)(2), Oct. 19, 1996, 110 Stat. 3834, struck out item 3531 “Property returns”.
+
 1990—Pub. L. 101–576, title III, §§301(b), 303(f), Nov. 15, 1990, 104 Stat. 2848, 2852, substituted “and other financial management reports and plans” for “systems” in item 3512 and added item 3515.
 
 1984—Pub. L. 98–369, div. B, title VII, §2741(b), July 18, 1984, 98 Stat. 1203, added subchapter V heading and items 3551 to 3556.
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in section 3726 of this title; title 20 sections 1132d–1, 8508; title 22 sections 2421, 3721, 3723; title 38 section 7807; title 40 section 756; title 48 sections 1469b, 1683; title 49 sections 5334, 44308.
+This chapter is referred to in section 3726 of this title; title 20 sections 1132d–1, 8508; title 22 section 2421; title 38 section 7807; title 40 section 756; title 48 sections 1469b, 1683; title 49 sections 5334, 44308.
 
 
 ---
